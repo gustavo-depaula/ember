@@ -2,2539 +2,2983 @@
   "id": "gregory-great-pope-register-of-letters",
   "cover": "quarter",
   "name": {
+    "la": "Registrum epistularum",
     "en-US": "Register of Letters"
   },
   "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
     "en-US": "Gregory the Great, Pope (c. 540-604)"
   },
   "languages": [
+    "la",
     "en-US"
   ],
+  "work": "gregory-the-great/registrum-epistularum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Sainte-Marthe), Migne PL 77",
+      "year": 1849
+    },
+    "en-US": {
+      "translator": "James Barmby",
+      "year": 1898
+    }
+  },
   "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Epistolae_(Gregorius_Magnus)",
+      "edition": "Migne, Patrologia Latina 77 (Maurist text and numbering, Sainte-Marthe 1705), from the Corpus Corporum TEI of Ph. Roelli (2013), as on Latin Wikisource",
+      "description": "Latin letters matched to the English by book and letter number (Maurist numbering, the same as NPNF), all 420. 409 come from Latin Wikisource and 11 (XIII.18, 22, 26, 27, 31, 34, 38-42) from the Corpus Corporum TEI of PL 77 (text 8064, https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=8064), because the Wikisource page for Book XIII stops in the middle of letter 15. Each file keeps the Maurist summary and address; PL column numbers and markup removed; the editors' bracketed textual notes kept in the Wikisource letters. The Maurist footnotes are not included. The Register has about 430 further Latin letters that NPNF does not translate; they are not imported here.",
+      "tier": "A",
+      "tierEvidence": "Text of a 6th-century work in the Maurist edition (1705, Migne 1849), long public domain; Corpus Corporum TEI is a transcription."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/3602.htm",
-      "description": "Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vols. 12-13, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight."
+      "description": "Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vols. 12-13, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight.",
+      "tier": "A",
+      "tierEvidence": "Barmby (1830-1913) translation, published 1895-98: public domain."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
+        "la": "Liber I, Epistola 1",
         "en-US": "Book I, Letter 1"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "Liber I, Epistola 2",
         "en-US": "Book I, Letter 2"
       }
     },
     {
       "id": "ch003",
       "title": {
+        "la": "Liber I, Epistola 3",
         "en-US": "Book I, Letter 3"
       }
     },
     {
       "id": "ch004",
       "title": {
+        "la": "Liber I, Epistola 4",
         "en-US": "Book I, Letter 4"
       }
     },
     {
       "id": "ch005",
       "title": {
+        "la": "Liber I, Epistola 5",
         "en-US": "Book I, Letter 5"
       }
     },
     {
       "id": "ch006",
       "title": {
+        "la": "Liber I, Epistola 6",
         "en-US": "Book I, Letter 6"
       }
     },
     {
       "id": "ch007",
       "title": {
+        "la": "Liber I, Epistola 7",
         "en-US": "Book I, Letter 7"
       }
     },
     {
       "id": "ch008",
       "title": {
+        "la": "Liber I, Epistola 9",
         "en-US": "Book I, Letter 9"
       }
     },
     {
       "id": "ch009",
       "title": {
+        "la": "Liber I, Epistola 10",
         "en-US": "Book I, Letter 10"
       }
     },
     {
       "id": "ch010",
       "title": {
+        "la": "Liber I, Epistola 11",
         "en-US": "Book I, Letter 11"
       }
     },
     {
       "id": "ch011",
       "title": {
+        "la": "Liber I, Epistola 12",
         "en-US": "Book I, Letter 12"
       }
     },
     {
       "id": "ch012",
       "title": {
+        "la": "Liber I, Epistola 16",
         "en-US": "Book I, Letter 16"
       }
     },
     {
       "id": "ch013",
       "title": {
+        "la": "Liber I, Epistola 17",
         "en-US": "Book I, Letter 17"
       }
     },
     {
       "id": "ch014",
       "title": {
+        "la": "Liber I, Epistola 18",
         "en-US": "Book I, Letter 18"
       }
     },
     {
       "id": "ch015",
       "title": {
+        "la": "Liber I, Epistola 19",
         "en-US": "Book I, Letter 19"
       }
     },
     {
       "id": "ch016",
       "title": {
+        "la": "Liber I, Epistola 20",
         "en-US": "Book I, Letter 20"
       }
     },
     {
       "id": "ch017",
       "title": {
+        "la": "Liber I, Epistola 21",
         "en-US": "Book I, Letter 21"
       }
     },
     {
       "id": "ch018",
       "title": {
+        "la": "Liber I, Epistola 25",
         "en-US": "Book I, Letter 25"
       }
     },
     {
       "id": "ch019",
       "title": {
+        "la": "Liber I, Epistola 26",
         "en-US": "Book I, Letter 26"
       }
     },
     {
       "id": "ch020",
       "title": {
+        "la": "Liber I, Epistola 27",
         "en-US": "Book I, Letter 27"
       }
     },
     {
       "id": "ch021",
       "title": {
+        "la": "Liber I, Epistola 28",
         "en-US": "Book I, Letter 28"
       }
     },
     {
       "id": "ch022",
       "title": {
+        "la": "Liber I, Epistola 29",
         "en-US": "Book I, Letter 29"
       }
     },
     {
       "id": "ch023",
       "title": {
+        "la": "Liber I, Epistola 33",
         "en-US": "Book I, Letter 33"
       }
     },
     {
       "id": "ch024",
       "title": {
+        "la": "Liber I, Epistola 34",
         "en-US": "Book I, Letter 34"
       }
     },
     {
       "id": "ch025",
       "title": {
+        "la": "Liber I, Epistola 35",
         "en-US": "Book I, Letter 35"
       }
     },
     {
       "id": "ch026",
       "title": {
+        "la": "Liber I, Epistola 36",
         "en-US": "Book I, Letter 36"
       }
     },
     {
       "id": "ch027",
       "title": {
+        "la": "Liber I, Epistola 39",
         "en-US": "Book I, Letter 39"
       }
     },
     {
       "id": "ch028",
       "title": {
+        "la": "Liber I, Epistola 41",
         "en-US": "Book I, Letter 41"
       }
     },
     {
       "id": "ch029",
       "title": {
+        "la": "Liber I, Epistola 42",
         "en-US": "Book I, Letter 42"
       }
     },
     {
       "id": "ch030",
       "title": {
+        "la": "Liber I, Epistola 43",
         "en-US": "Book I, Letter 43"
       }
     },
     {
       "id": "ch031",
       "title": {
+        "la": "Liber I, Epistola 44",
         "en-US": "Book I, Letter 44"
       }
     },
     {
       "id": "ch032",
       "title": {
+        "la": "Liber I, Epistola 46",
         "en-US": "Book I, Letter 46"
       }
     },
     {
       "id": "ch033",
       "title": {
+        "la": "Liber I, Epistola 47",
         "en-US": "Book I, Letter 47"
       }
     },
     {
       "id": "ch034",
       "title": {
+        "la": "Liber I, Epistola 48",
         "en-US": "Book I, Letter 48"
       }
     },
     {
       "id": "ch035",
       "title": {
+        "la": "Liber I, Epistola 49",
         "en-US": "Book I, Letter 49"
       }
     },
     {
       "id": "ch036",
       "title": {
+        "la": "Liber I, Epistola 50",
         "en-US": "Book I, Letter 50"
       }
     },
     {
       "id": "ch037",
       "title": {
+        "la": "Liber I, Epistola 52",
         "en-US": "Book I, Letter 52"
       }
     },
     {
       "id": "ch038",
       "title": {
+        "la": "Liber I, Epistola 56",
         "en-US": "Book I, Letter 56"
       }
     },
     {
       "id": "ch039",
       "title": {
+        "la": "Liber I, Epistola 57",
         "en-US": "Book I, Letter 57"
       }
     },
     {
       "id": "ch040",
       "title": {
+        "la": "Liber I, Epistola 58",
         "en-US": "Book I, Letter 58"
       }
     },
     {
       "id": "ch041",
       "title": {
+        "la": "Liber I, Epistola 61",
         "en-US": "Book I, Letter 61"
       }
     },
     {
       "id": "ch042",
       "title": {
+        "la": "Liber I, Epistola 62",
         "en-US": "Book I, Letter 62"
       }
     },
     {
       "id": "ch043",
       "title": {
+        "la": "Liber I, Epistola 63",
         "en-US": "Book I, Letter 63"
       }
     },
     {
       "id": "ch044",
       "title": {
+        "la": "Liber I, Epistola 66",
         "en-US": "Book I, Letter 66"
       }
     },
     {
       "id": "ch045",
       "title": {
+        "la": "Liber I, Epistola 67",
         "en-US": "Book I, Letter 67"
       }
     },
     {
       "id": "ch046",
       "title": {
+        "la": "Liber I, Epistola 72",
         "en-US": "Book I, Letter 72"
       }
     },
     {
       "id": "ch047",
       "title": {
+        "la": "Liber I, Epistola 74",
         "en-US": "Book I, Letter 74"
       }
     },
     {
       "id": "ch048",
       "title": {
+        "la": "Liber I, Epistola 75",
         "en-US": "Book I, Letter 75"
       }
     },
     {
       "id": "ch049",
       "title": {
+        "la": "Liber I, Epistola 77",
         "en-US": "Book I, Letter 77"
       }
     },
     {
       "id": "ch050",
       "title": {
+        "la": "Liber I, Epistola 78",
         "en-US": "Book I, Letter 78"
       }
     },
     {
       "id": "ch051",
       "title": {
+        "la": "Liber I, Epistola 79",
         "en-US": "Book I, Letter 79"
       }
     },
     {
       "id": "ch052",
       "title": {
+        "la": "Liber I, Epistola 80",
         "en-US": "Book I, Letter 80"
       }
     },
     {
       "id": "ch053",
       "title": {
+        "la": "Liber II, Epistola 3",
         "en-US": "Book II, Letter 3"
       }
     },
     {
       "id": "ch054",
       "title": {
+        "la": "Liber II, Epistola 6",
         "en-US": "Book II, Letter 6"
       }
     },
     {
       "id": "ch055",
       "title": {
+        "la": "Liber II, Epistola 7",
         "en-US": "Book II, Letter 7"
       }
     },
     {
       "id": "ch056",
       "title": {
+        "la": "Liber II, Epistola 9",
         "en-US": "Book II, Letter 9"
       }
     },
     {
       "id": "ch057",
       "title": {
+        "la": "Liber II, Epistola 10",
         "en-US": "Book II, Letter 10"
       }
     },
     {
       "id": "ch058",
       "title": {
+        "la": "Liber II, Epistola 12",
         "en-US": "Book II, Letter 12"
       }
     },
     {
       "id": "ch059",
       "title": {
+        "la": "Liber II, Epistola 15",
         "en-US": "Book II, Letter 15"
       }
     },
     {
       "id": "ch060",
       "title": {
+        "la": "Liber II, Epistola 18",
         "en-US": "Book II, Letter 18"
       }
     },
     {
       "id": "ch061",
       "title": {
+        "la": "Liber II, Epistola 19",
         "en-US": "Book II, Letter 19"
       }
     },
     {
       "id": "ch062",
       "title": {
+        "la": "Liber II, Epistola 20",
         "en-US": "Book II, Letter 20"
       }
     },
     {
       "id": "ch063",
       "title": {
+        "la": "Liber II, Epistola 22",
         "en-US": "Book II, Letter 22"
       }
     },
     {
       "id": "ch064",
       "title": {
+        "la": "Liber II, Epistola 23",
         "en-US": "Book II, Letter 23"
       }
     },
     {
       "id": "ch065",
       "title": {
+        "la": "Liber II, Epistola 26",
         "en-US": "Book II, Letter 26"
       }
     },
     {
       "id": "ch066",
       "title": {
+        "la": "Liber II, Epistola 27",
         "en-US": "Book II, Letter 27"
       }
     },
     {
       "id": "ch067",
       "title": {
+        "la": "Liber II, Epistola 29",
         "en-US": "Book II, Letter 29"
       }
     },
     {
       "id": "ch068",
       "title": {
+        "la": "Liber II, Epistola 30",
         "en-US": "Book II, Letter 30"
       }
     },
     {
       "id": "ch069",
       "title": {
+        "la": "Liber II, Epistola 32",
         "en-US": "Book II, Letter 32"
       }
     },
     {
       "id": "ch070",
       "title": {
+        "la": "Liber II, Epistola 33",
         "en-US": "Book II, Letter 33"
       }
     },
     {
       "id": "ch071",
       "title": {
+        "la": "Liber II, Epistola 34",
         "en-US": "Book II, Letter 34"
       }
     },
     {
       "id": "ch072",
       "title": {
+        "la": "Liber II, Epistola 36",
         "en-US": "Book II, Letter 36"
       }
     },
     {
       "id": "ch073",
       "title": {
+        "la": "Liber II, Epistola 37",
         "en-US": "Book II, Letter 37"
       }
     },
     {
       "id": "ch074",
       "title": {
+        "la": "Liber II, Epistola 41",
         "en-US": "Book II, Letter 41"
       }
     },
     {
       "id": "ch075",
       "title": {
+        "la": "Liber II, Epistola 42",
         "en-US": "Book II, Letter 42"
       }
     },
     {
       "id": "ch076",
       "title": {
+        "la": "Liber II, Epistola 46",
         "en-US": "Book II, Letter 46"
       }
     },
     {
       "id": "ch077",
       "title": {
+        "la": "Liber II, Epistola 47",
         "en-US": "Book II, Letter 47"
       }
     },
     {
       "id": "ch078",
       "title": {
+        "la": "Liber II, Epistola 48",
         "en-US": "Book II, Letter 48"
       }
     },
     {
       "id": "ch079",
       "title": {
+        "la": "Liber II, Epistola 49",
         "en-US": "Book II, Letter 49"
       }
     },
     {
       "id": "ch080",
       "title": {
+        "la": "Liber II, Epistola 51",
         "en-US": "Book II, Letter 51"
       }
     },
     {
       "id": "ch081",
       "title": {
+        "la": "Liber II, Epistola 52",
         "en-US": "Book II, Letter 52"
       }
     },
     {
       "id": "ch082",
       "title": {
+        "la": "Liber II, Epistola 54",
         "en-US": "Book II, Letter 54"
       }
     },
     {
       "id": "ch083",
       "title": {
+        "la": "Liber III, Epistola 1",
         "en-US": "Book III, Letter 1"
       }
     },
     {
       "id": "ch084",
       "title": {
+        "la": "Liber III, Epistola 2",
         "en-US": "Book III, Letter 2"
       }
     },
     {
       "id": "ch085",
       "title": {
+        "la": "Liber III, Epistola 3",
         "en-US": "Book III, Letter 3"
       }
     },
     {
       "id": "ch086",
       "title": {
+        "la": "Liber III, Epistola 5",
         "en-US": "Book III, Letter 5"
       }
     },
     {
       "id": "ch087",
       "title": {
+        "la": "Liber III, Epistola 6",
         "en-US": "Book III, Letter 6"
       }
     },
     {
       "id": "ch088",
       "title": {
+        "la": "Liber III, Epistola 7",
         "en-US": "Book III, Letter 7"
       }
     },
     {
       "id": "ch089",
       "title": {
+        "la": "Liber III, Epistola 8",
         "en-US": "Book III, Letter 8"
       }
     },
     {
       "id": "ch090",
       "title": {
+        "la": "Liber III, Epistola 9",
         "en-US": "Book III, Letter 9"
       }
     },
     {
       "id": "ch091",
       "title": {
+        "la": "Liber III, Epistola 10",
         "en-US": "Book III, Letter 10"
       }
     },
     {
       "id": "ch092",
       "title": {
+        "la": "Liber III, Epistola 12",
         "en-US": "Book III, Letter 12"
       }
     },
     {
       "id": "ch093",
       "title": {
+        "la": "Liber III, Epistola 15",
         "en-US": "Book III, Letter 15"
       }
     },
     {
       "id": "ch094",
       "title": {
+        "la": "Liber III, Epistola 22",
         "en-US": "Book III, Letter 22"
       }
     },
     {
       "id": "ch095",
       "title": {
+        "la": "Liber III, Epistola 29",
         "en-US": "Book III, Letter 29"
       }
     },
     {
       "id": "ch096",
       "title": {
+        "la": "Liber III, Epistola 30",
         "en-US": "Book III, Letter 30"
       }
     },
     {
       "id": "ch097",
       "title": {
+        "la": "Liber III, Epistola 31",
         "en-US": "Book III, Letter 31"
       }
     },
     {
       "id": "ch098",
       "title": {
+        "la": "Liber III, Epistola 32",
         "en-US": "Book III, Letter 32"
       }
     },
     {
       "id": "ch099",
       "title": {
+        "la": "Liber III, Epistola 33",
         "en-US": "Book III, Letter 33"
       }
     },
     {
       "id": "ch100",
       "title": {
+        "la": "Liber III, Epistola 35",
         "en-US": "Book III, Letter 35"
       }
     },
     {
       "id": "ch101",
       "title": {
+        "la": "Liber III, Epistola 36",
         "en-US": "Book III, Letter 36"
       }
     },
     {
       "id": "ch102",
       "title": {
+        "la": "Liber III, Epistola 38",
         "en-US": "Book III, Letter 38"
       }
     },
     {
       "id": "ch103",
       "title": {
+        "la": "Liber III, Epistola 45",
         "en-US": "Book III, Letter 45"
       }
     },
     {
       "id": "ch104",
       "title": {
+        "la": "Liber III, Epistola 46",
         "en-US": "Book III, Letter 46"
       }
     },
     {
       "id": "ch105",
       "title": {
+        "la": "Liber III, Epistola 47",
         "en-US": "Book III, Letter 47"
       }
     },
     {
       "id": "ch106",
       "title": {
+        "la": "Liber III, Epistola 48",
         "en-US": "Book III, Letter 48"
       }
     },
     {
       "id": "ch107",
       "title": {
+        "la": "Liber III, Epistola 49",
         "en-US": "Book III, Letter 49"
       }
     },
     {
       "id": "ch108",
       "title": {
+        "la": "Liber III, Epistola 51",
         "en-US": "Book III, Letter 51"
       }
     },
     {
       "id": "ch109",
       "title": {
+        "la": "Liber III, Epistola 53",
         "en-US": "Book III, Letter 53"
       }
     },
     {
       "id": "ch110",
       "title": {
+        "la": "Liber III, Epistola 56",
         "en-US": "Book III, Letter 56"
       }
     },
     {
       "id": "ch111",
       "title": {
+        "la": "Liber III, Epistola 57",
         "en-US": "Book III, Letter 57"
       }
     },
     {
       "id": "ch112",
       "title": {
+        "la": "Liber III, Epistola 59",
         "en-US": "Book III, Letter 59"
       }
     },
     {
       "id": "ch113",
       "title": {
+        "la": "Liber III, Epistola 60",
         "en-US": "Book III, Letter 60"
       }
     },
     {
       "id": "ch114",
       "title": {
+        "la": "Liber III, Epistola 65",
         "en-US": "Book III, Letter 65"
       }
     },
     {
       "id": "ch115",
       "title": {
+        "la": "Liber III, Epistola 66",
         "en-US": "Book III, Letter 66"
       }
     },
     {
       "id": "ch116",
       "title": {
+        "la": "Liber III, Epistola 67",
         "en-US": "Book III, Letter 67"
       }
     },
     {
       "id": "ch117",
       "title": {
+        "la": "Liber IV, Epistola 1",
         "en-US": "Book IV, Letter 1"
       }
     },
     {
       "id": "ch118",
       "title": {
+        "la": "Liber IV, Epistola 2",
         "en-US": "Book IV, Letter 2"
       }
     },
     {
       "id": "ch119",
       "title": {
+        "la": "Liber IV, Epistola 3",
         "en-US": "Book IV, Letter 3"
       }
     },
     {
       "id": "ch120",
       "title": {
+        "la": "Liber IV, Epistola 4",
         "en-US": "Book IV, Letter 4"
       }
     },
     {
       "id": "ch121",
       "title": {
+        "la": "Liber IV, Epistola 5",
         "en-US": "Book IV, Letter 5"
       }
     },
     {
       "id": "ch122",
       "title": {
+        "la": "Liber IV, Epistola 6",
         "en-US": "Book IV, Letter 6"
       }
     },
     {
       "id": "ch123",
       "title": {
+        "la": "Liber IV, Epistola 7",
         "en-US": "Book IV, Letter 7"
       }
     },
     {
       "id": "ch124",
       "title": {
+        "la": "Liber IV, Epistola 8",
         "en-US": "Book IV, Letter 8"
       }
     },
     {
       "id": "ch125",
       "title": {
+        "la": "Liber IV, Epistola 9",
         "en-US": "Book IV, Letter 9"
       }
     },
     {
       "id": "ch126",
       "title": {
+        "la": "Liber IV, Epistola 10",
         "en-US": "Book IV, Letter 10"
       }
     },
     {
       "id": "ch127",
       "title": {
+        "la": "Liber IV, Epistola 11",
         "en-US": "Book IV, Letter 11"
       }
     },
     {
       "id": "ch128",
       "title": {
+        "la": "Liber IV, Epistola 15",
         "en-US": "Book IV, Letter 15"
       }
     },
     {
       "id": "ch129",
       "title": {
+        "la": "Liber IV, Epistola 18",
         "en-US": "Book IV, Letter 18"
       }
     },
     {
       "id": "ch130",
       "title": {
+        "la": "Liber IV, Epistola 20",
         "en-US": "Book IV, Letter 20"
       }
     },
     {
       "id": "ch131",
       "title": {
+        "la": "Liber IV, Epistola 21",
         "en-US": "Book IV, Letter 21"
       }
     },
     {
       "id": "ch132",
       "title": {
+        "la": "Liber IV, Epistola 23",
         "en-US": "Book IV, Letter 23"
       }
     },
     {
       "id": "ch133",
       "title": {
+        "la": "Liber IV, Epistola 24",
         "en-US": "Book IV, Letter 24"
       }
     },
     {
       "id": "ch134",
       "title": {
+        "la": "Liber IV, Epistola 25",
         "en-US": "Book IV, Letter 25"
       }
     },
     {
       "id": "ch135",
       "title": {
+        "la": "Liber IV, Epistola 26",
         "en-US": "Book IV, Letter 26"
       }
     },
     {
       "id": "ch136",
       "title": {
+        "la": "Liber IV, Epistola 27",
         "en-US": "Book IV, Letter 27"
       }
     },
     {
       "id": "ch137",
       "title": {
+        "la": "Liber IV, Epistola 29",
         "en-US": "Book IV, Letter 29"
       }
     },
     {
       "id": "ch138",
       "title": {
+        "la": "Liber IV, Epistola 30",
         "en-US": "Book IV, Letter 30"
       }
     },
     {
       "id": "ch139",
       "title": {
+        "la": "Liber IV, Epistola 31",
         "en-US": "Book IV, Letter 31"
       }
     },
     {
       "id": "ch140",
       "title": {
+        "la": "Liber IV, Epistola 32",
         "en-US": "Book IV, Letter 32"
       }
     },
     {
       "id": "ch141",
       "title": {
+        "la": "Liber IV, Epistola 33",
         "en-US": "Book IV, Letter 33"
       }
     },
     {
       "id": "ch142",
       "title": {
+        "la": "Liber IV, Epistola 34",
         "en-US": "Book IV, Letter 34"
       }
     },
     {
       "id": "ch143",
       "title": {
+        "la": "Liber IV, Epistola 35",
         "en-US": "Book IV, Letter 35"
       }
     },
     {
       "id": "ch144",
       "title": {
+        "la": "Liber IV, Epistola 36",
         "en-US": "Book IV, Letter 36"
       }
     },
     {
       "id": "ch145",
       "title": {
+        "la": "Liber IV, Epistola 38",
         "en-US": "Book IV, Letter 38"
       }
     },
     {
       "id": "ch146",
       "title": {
+        "la": "Liber IV, Epistola 39",
         "en-US": "Book IV, Letter 39"
       }
     },
     {
       "id": "ch147",
       "title": {
+        "la": "Liber IV, Epistola 46",
         "en-US": "Book IV, Letter 46"
       }
     },
     {
       "id": "ch148",
       "title": {
+        "la": "Liber IV, Epistola 47",
         "en-US": "Book IV, Letter 47"
       }
     },
     {
       "id": "ch149",
       "title": {
+        "la": "Liber V, Epistola 2",
         "en-US": "Book V, Letter 2"
       }
     },
     {
       "id": "ch150",
       "title": {
+        "la": "Liber V, Epistola 4",
         "en-US": "Book V, Letter 4"
       }
     },
     {
       "id": "ch151",
       "title": {
+        "la": "Liber V, Epistola 5",
         "en-US": "Book V, Letter 5"
       }
     },
     {
       "id": "ch152",
       "title": {
+        "la": "Liber V, Epistola 8",
         "en-US": "Book V, Letter 8"
       }
     },
     {
       "id": "ch153",
       "title": {
+        "la": "Liber V, Epistola 11",
         "en-US": "Book V, Letter 11"
       }
     },
     {
       "id": "ch154",
       "title": {
+        "la": "Liber V, Epistola 15",
         "en-US": "Book V, Letter 15"
       }
     },
     {
       "id": "ch155",
       "title": {
+        "la": "Liber V, Epistola 17",
         "en-US": "Book V, Letter 17"
       }
     },
     {
       "id": "ch156",
       "title": {
+        "la": "Liber V, Epistola 18",
         "en-US": "Book V, Letter 18"
       }
     },
     {
       "id": "ch157",
       "title": {
+        "la": "Liber V, Epistola 19",
         "en-US": "Book V, Letter 19"
       }
     },
     {
       "id": "ch158",
       "title": {
+        "la": "Liber V, Epistola 20",
         "en-US": "Book V, Letter 20"
       }
     },
     {
       "id": "ch159",
       "title": {
+        "la": "Liber V, Epistola 21",
         "en-US": "Book V, Letter 21"
       }
     },
     {
       "id": "ch160",
       "title": {
+        "la": "Liber V, Epistola 23",
         "en-US": "Book V, Letter 23"
       }
     },
     {
       "id": "ch161",
       "title": {
+        "la": "Liber V, Epistola 25",
         "en-US": "Book V, Letter 25"
       }
     },
     {
       "id": "ch162",
       "title": {
+        "la": "Liber V, Epistola 26",
         "en-US": "Book V, Letter 26"
       }
     },
     {
       "id": "ch163",
       "title": {
+        "la": "Liber V, Epistola 29",
         "en-US": "Book V, Letter 29"
       }
     },
     {
       "id": "ch164",
       "title": {
+        "la": "Liber V, Epistola 30",
         "en-US": "Book V, Letter 30"
       }
     },
     {
       "id": "ch165",
       "title": {
+        "la": "Liber V, Epistola 36",
         "en-US": "Book V, Letter 36"
       }
     },
     {
       "id": "ch166",
       "title": {
+        "la": "Liber V, Epistola 39",
         "en-US": "Book V, Letter 39"
       }
     },
     {
       "id": "ch167",
       "title": {
+        "la": "Liber V, Epistola 40",
         "en-US": "Book V, Letter 40"
       }
     },
     {
       "id": "ch168",
       "title": {
+        "la": "Liber V, Epistola 41",
         "en-US": "Book V, Letter 41"
       }
     },
     {
       "id": "ch169",
       "title": {
+        "la": "Liber V, Epistola 42",
         "en-US": "Book V, Letter 42"
       }
     },
     {
       "id": "ch170",
       "title": {
+        "la": "Liber V, Epistola 43",
         "en-US": "Book V, Letter 43"
       }
     },
     {
       "id": "ch171",
       "title": {
+        "la": "Liber V, Epistola 48",
         "en-US": "Book V, Letter 48"
       }
     },
     {
       "id": "ch172",
       "title": {
+        "la": "Liber V, Epistola 49",
         "en-US": "Book V, Letter 49"
       }
     },
     {
       "id": "ch173",
       "title": {
+        "la": "Liber V, Epistola 52",
         "en-US": "Book V, Letter 52"
       }
     },
     {
       "id": "ch174",
       "title": {
+        "la": "Liber V, Epistola 53",
         "en-US": "Book V, Letter 53"
       }
     },
     {
       "id": "ch175",
       "title": {
+        "la": "Liber V, Epistola 54",
         "en-US": "Book V, Letter 54"
       }
     },
     {
       "id": "ch176",
       "title": {
+        "la": "Liber V, Epistola 55",
         "en-US": "Book V, Letter 55"
       }
     },
     {
       "id": "ch177",
       "title": {
+        "la": "Liber V, Epistola 56",
         "en-US": "Book V, Letter 56"
       }
     },
     {
       "id": "ch178",
       "title": {
+        "la": "Liber V, Epistola 57",
         "en-US": "Book V, Letter 57"
       }
     },
     {
       "id": "ch179",
       "title": {
+        "la": "Liber V, Epistola 58",
         "en-US": "Book V, Letter 58"
       }
     },
     {
       "id": "ch180",
       "title": {
+        "la": "Liber VI, Epistola 1",
         "en-US": "Book VI, Letter 1"
       }
     },
     {
       "id": "ch181",
       "title": {
+        "la": "Liber VI, Epistola 2",
         "en-US": "Book VI, Letter 2"
       }
     },
     {
       "id": "ch182",
       "title": {
+        "la": "Liber VI, Epistola 3",
         "en-US": "Book VI, Letter 3"
       }
     },
     {
       "id": "ch183",
       "title": {
+        "la": "Liber VI, Epistola 5",
         "en-US": "Book VI, Letter 5"
       }
     },
     {
       "id": "ch184",
       "title": {
+        "la": "Liber VI, Epistola 6",
         "en-US": "Book VI, Letter 6"
       }
     },
     {
       "id": "ch185",
       "title": {
+        "la": "Liber VI, Epistola 7",
         "en-US": "Book VI, Letter 7"
       }
     },
     {
       "id": "ch186",
       "title": {
+        "la": "Liber VI, Epistola 8",
         "en-US": "Book VI, Letter 8"
       }
     },
     {
       "id": "ch187",
       "title": {
+        "la": "Liber VI, Epistola 9",
         "en-US": "Book VI, Letter 9"
       }
     },
     {
       "id": "ch188",
       "title": {
+        "la": "Liber VI, Epistola 12",
         "en-US": "Book VI, Letter 12"
       }
     },
     {
       "id": "ch189",
       "title": {
+        "la": "Liber VI, Epistola 14",
         "en-US": "Book VI, Letter 14"
       }
     },
     {
       "id": "ch190",
       "title": {
+        "la": "Liber VI, Epistola 15",
         "en-US": "Book VI, Letter 15"
       }
     },
     {
       "id": "ch191",
       "title": {
+        "la": "Liber VI, Epistola 16",
         "en-US": "Book VI, Letter 16"
       }
     },
     {
       "id": "ch192",
       "title": {
+        "la": "Liber VI, Epistola 17",
         "en-US": "Book VI, Letter 17"
       }
     },
     {
       "id": "ch193",
       "title": {
+        "la": "Liber VI, Epistola 18",
         "en-US": "Book VI, Letter 18"
       }
     },
     {
       "id": "ch194",
       "title": {
+        "la": "Liber VI, Epistola 22",
         "en-US": "Book VI, Letter 22"
       }
     },
     {
       "id": "ch195",
       "title": {
+        "la": "Liber VI, Epistola 24",
         "en-US": "Book VI, Letter 24"
       }
     },
     {
       "id": "ch196",
       "title": {
+        "la": "Liber VI, Epistola 25",
         "en-US": "Book VI, Letter 25"
       }
     },
     {
       "id": "ch197",
       "title": {
+        "la": "Liber VI, Epistola 26",
         "en-US": "Book VI, Letter 26"
       }
     },
     {
       "id": "ch198",
       "title": {
+        "la": "Liber VI, Epistola 27",
         "en-US": "Book VI, Letter 27"
       }
     },
     {
       "id": "ch199",
       "title": {
+        "la": "Liber VI, Epistola 29",
         "en-US": "Book VI, Letter 29"
       }
     },
     {
       "id": "ch200",
       "title": {
+        "la": "Liber VI, Epistola 30",
         "en-US": "Book VI, Letter 30"
       }
     },
     {
       "id": "ch201",
       "title": {
+        "la": "Liber VI, Epistola 32",
         "en-US": "Book VI, Letter 32"
       }
     },
     {
       "id": "ch202",
       "title": {
+        "la": "Liber VI, Epistola 34",
         "en-US": "Book VI, Letter 34"
       }
     },
     {
       "id": "ch203",
       "title": {
+        "la": "Liber VI, Epistola 35",
         "en-US": "Book VI, Letter 35"
       }
     },
     {
       "id": "ch204",
       "title": {
+        "la": "Liber VI, Epistola 37",
         "en-US": "Book VI, Letter 37"
       }
     },
     {
       "id": "ch205",
       "title": {
+        "la": "Liber VI, Epistola 43",
         "en-US": "Book VI, Letter 43"
       }
     },
     {
       "id": "ch206",
       "title": {
+        "la": "Liber VI, Epistola 44",
         "en-US": "Book VI, Letter 44"
       }
     },
     {
       "id": "ch207",
       "title": {
+        "la": "Liber VI, Epistola 46",
         "en-US": "Book VI, Letter 46"
       }
     },
     {
       "id": "ch208",
       "title": {
+        "la": "Liber VI, Epistola 48",
         "en-US": "Book VI, Letter 48"
       }
     },
     {
       "id": "ch209",
       "title": {
+        "la": "Liber VI, Epistola 49",
         "en-US": "Book VI, Letter 49"
       }
     },
     {
       "id": "ch210",
       "title": {
+        "la": "Liber VI, Epistola 50",
         "en-US": "Book VI, Letter 50"
       }
     },
     {
       "id": "ch211",
       "title": {
+        "la": "Liber VI, Epistola 51",
         "en-US": "Book VI, Letter 51"
       }
     },
     {
       "id": "ch212",
       "title": {
+        "la": "Liber VI, Epistola 52",
         "en-US": "Book VI, Letter 52"
       }
     },
     {
       "id": "ch213",
       "title": {
+        "la": "Liber VI, Epistola 53",
         "en-US": "Book VI, Letter 53"
       }
     },
     {
       "id": "ch214",
       "title": {
+        "la": "Liber VI, Epistola 54",
         "en-US": "Book VI, Letter 54"
       }
     },
     {
       "id": "ch215",
       "title": {
+        "la": "Liber VI, Epistola 55",
         "en-US": "Book VI, Letter 55"
       }
     },
     {
       "id": "ch216",
       "title": {
+        "la": "Liber VI, Epistola 56",
         "en-US": "Book VI, Letter 56"
       }
     },
     {
       "id": "ch217",
       "title": {
+        "la": "Liber VI, Epistola 57",
         "en-US": "Book VI, Letter 57"
       }
     },
     {
       "id": "ch218",
       "title": {
+        "la": "Liber VI, Epistola 58",
         "en-US": "Book VI, Letter 58"
       }
     },
     {
       "id": "ch219",
       "title": {
+        "la": "Liber VI, Epistola 59",
         "en-US": "Book VI, Letter 59"
       }
     },
     {
       "id": "ch220",
       "title": {
+        "la": "Liber VI, Epistola 60",
         "en-US": "Book VI, Letter 60"
       }
     },
     {
       "id": "ch221",
       "title": {
+        "la": "Liber VI, Epistola 61",
         "en-US": "Book VI, Letter 61"
       }
     },
     {
       "id": "ch222",
       "title": {
+        "la": "Liber VI, Epistola 63",
         "en-US": "Book VI, Letter 63"
       }
     },
     {
       "id": "ch223",
       "title": {
+        "la": "Liber VI, Epistola 65",
         "en-US": "Book VI, Letter 65"
       }
     },
     {
       "id": "ch224",
       "title": {
+        "la": "Liber VI, Epistola 66",
         "en-US": "Book VI, Letter 66"
       }
     },
     {
       "id": "ch225",
       "title": {
+        "la": "Liber VII, Epistola 2",
         "en-US": "Book VII, Letter 2"
       }
     },
     {
       "id": "ch226",
       "title": {
+        "la": "Liber VII, Epistola 4",
         "en-US": "Book VII, Letter 4"
       }
     },
     {
       "id": "ch227",
       "title": {
+        "la": "Liber VII, Epistola 5",
         "en-US": "Book VII, Letter 5"
       }
     },
     {
       "id": "ch228",
       "title": {
+        "la": "Liber VII, Epistola 6",
         "en-US": "Book VII, Letter 6"
       }
     },
     {
       "id": "ch229",
       "title": {
+        "la": "Liber VII, Epistola 7",
         "en-US": "Book VII, Letter 7"
       }
     },
     {
       "id": "ch230",
       "title": {
+        "la": "Liber VII, Epistola 11",
         "en-US": "Book VII, Letter 11"
       }
     },
     {
       "id": "ch231",
       "title": {
+        "la": "Liber VII, Epistola 12",
         "en-US": "Book VII, Letter 12"
       }
     },
     {
       "id": "ch232",
       "title": {
+        "la": "Liber VII, Epistola 13",
         "en-US": "Book VII, Letter 13"
       }
     },
     {
       "id": "ch233",
       "title": {
+        "la": "Liber VII, Epistola 15",
         "en-US": "Book VII, Letter 15"
       }
     },
     {
       "id": "ch234",
       "title": {
+        "la": "Liber VII, Epistola 17",
         "en-US": "Book VII, Letter 17"
       }
     },
     {
       "id": "ch235",
       "title": {
+        "la": "Liber VII, Epistola 19",
         "en-US": "Book VII, Letter 19"
       }
     },
     {
       "id": "ch236",
       "title": {
+        "la": "Liber VII, Epistola 20",
         "en-US": "Book VII, Letter 20"
       }
     },
     {
       "id": "ch237",
       "title": {
+        "la": "Liber VII, Epistola 23",
         "en-US": "Book VII, Letter 23"
       }
     },
     {
       "id": "ch238",
       "title": {
+        "la": "Liber VII, Epistola 25",
         "en-US": "Book VII, Letter 25"
       }
     },
     {
       "id": "ch239",
       "title": {
+        "la": "Liber VII, Epistola 26",
         "en-US": "Book VII, Letter 26"
       }
     },
     {
       "id": "ch240",
       "title": {
+        "la": "Liber VII, Epistola 27",
         "en-US": "Book VII, Letter 27"
       }
     },
     {
       "id": "ch241",
       "title": {
+        "la": "Liber VII, Epistola 28",
         "en-US": "Book VII, Letter 28"
       }
     },
     {
       "id": "ch242",
       "title": {
+        "la": "Liber VII, Epistola 30",
         "en-US": "Book VII, Letter 30"
       }
     },
     {
       "id": "ch243",
       "title": {
+        "la": "Liber VII, Epistola 31",
         "en-US": "Book VII, Letter 31"
       }
     },
     {
       "id": "ch244",
       "title": {
+        "la": "Liber VII, Epistola 32",
         "en-US": "Book VII, Letter 32"
       }
     },
     {
       "id": "ch245",
       "title": {
+        "la": "Liber VII, Epistola 33",
         "en-US": "Book VII, Letter 33"
       }
     },
     {
       "id": "ch246",
       "title": {
+        "la": "Liber VII, Epistola 34",
         "en-US": "Book VII, Letter 34"
       }
     },
     {
       "id": "ch247",
       "title": {
+        "la": "Liber VII, Epistola 35",
         "en-US": "Book VII, Letter 35"
       }
     },
     {
       "id": "ch248",
       "title": {
+        "la": "Liber VII, Epistola 38",
         "en-US": "Book VII, Letter 38"
       }
     },
     {
       "id": "ch249",
       "title": {
+        "la": "Liber VII, Epistola 39",
         "en-US": "Book VII, Letter 39"
       }
     },
     {
       "id": "ch250",
       "title": {
+        "la": "Liber VII, Epistola 40",
         "en-US": "Book VII, Letter 40"
       }
     },
     {
       "id": "ch251",
       "title": {
+        "la": "Liber VII, Epistola 42",
         "en-US": "Book VII, Letter 42"
       }
     },
     {
       "id": "ch252",
       "title": {
+        "la": "Liber VII, Epistola 43",
         "en-US": "Book VII, Letter 43"
       }
     },
     {
       "id": "ch253",
       "title": {
+        "la": "Liber VIII, Epistola 1",
         "en-US": "Book VIII, Letter 1"
       }
     },
     {
       "id": "ch254",
       "title": {
+        "la": "Liber VIII, Epistola 2",
         "en-US": "Book VIII, Letter 2"
       }
     },
     {
       "id": "ch255",
       "title": {
+        "la": "Liber VIII, Epistola 3",
         "en-US": "Book VIII, Letter 3"
       }
     },
     {
       "id": "ch256",
       "title": {
+        "la": "Liber VIII, Epistola 5",
         "en-US": "Book VIII, Letter 5"
       }
     },
     {
       "id": "ch257",
       "title": {
+        "la": "Liber VIII, Epistola 6",
         "en-US": "Book VIII, Letter 6"
       }
     },
     {
       "id": "ch258",
       "title": {
+        "la": "Liber VIII, Epistola 10",
         "en-US": "Book VIII, Letter 10"
       }
     },
     {
       "id": "ch259",
       "title": {
+        "la": "Liber VIII, Epistola 13",
         "en-US": "Book VIII, Letter 13"
       }
     },
     {
       "id": "ch260",
       "title": {
+        "la": "Liber VIII, Epistola 14",
         "en-US": "Book VIII, Letter 14"
       }
     },
     {
       "id": "ch261",
       "title": {
+        "la": "Liber VIII, Epistola 15",
         "en-US": "Book VIII, Letter 15"
       }
     },
     {
       "id": "ch262",
       "title": {
+        "la": "Liber VIII, Epistola 17",
         "en-US": "Book VIII, Letter 17"
       }
     },
     {
       "id": "ch263",
       "title": {
+        "la": "Liber VIII, Epistola 18",
         "en-US": "Book VIII, Letter 18"
       }
     },
     {
       "id": "ch264",
       "title": {
+        "la": "Liber VIII, Epistola 20",
         "en-US": "Book VIII, Letter 20"
       }
     },
     {
       "id": "ch265",
       "title": {
+        "la": "Liber VIII, Epistola 21",
         "en-US": "Book VIII, Letter 21"
       }
     },
     {
       "id": "ch266",
       "title": {
+        "la": "Liber VIII, Epistola 22",
         "en-US": "Book VIII, Letter 22"
       }
     },
     {
       "id": "ch267",
       "title": {
+        "la": "Liber VIII, Epistola 23",
         "en-US": "Book VIII, Letter 23"
       }
     },
     {
       "id": "ch268",
       "title": {
+        "la": "Liber VIII, Epistola 24",
         "en-US": "Book VIII, Letter 24"
       }
     },
     {
       "id": "ch269",
       "title": {
+        "la": "Liber VIII, Epistola 29",
         "en-US": "Book VIII, Letter 29"
       }
     },
     {
       "id": "ch270",
       "title": {
+        "la": "Liber VIII, Epistola 30",
         "en-US": "Book VIII, Letter 30"
       }
     },
     {
       "id": "ch271",
       "title": {
+        "la": "Liber VIII, Epistola 33",
         "en-US": "Book VIII, Letter 33"
       }
     },
     {
       "id": "ch272",
       "title": {
+        "la": "Liber VIII, Epistola 34",
         "en-US": "Book VIII, Letter 34"
       }
     },
     {
       "id": "ch273",
       "title": {
+        "la": "Liber VIII, Epistola 35",
         "en-US": "Book VIII, Letter 35"
       }
     },
     {
       "id": "ch274",
       "title": {
+        "la": "Liber IX, Epistola 1",
         "en-US": "Book IX, Letter 1"
       }
     },
     {
       "id": "ch275",
       "title": {
+        "la": "Liber IX, Epistola 2",
         "en-US": "Book IX, Letter 2"
       }
     },
     {
       "id": "ch276",
       "title": {
+        "la": "Liber IX, Epistola 3",
         "en-US": "Book IX, Letter 3"
       }
     },
     {
       "id": "ch277",
       "title": {
+        "la": "Liber IX, Epistola 4",
         "en-US": "Book IX, Letter 4"
       }
     },
     {
       "id": "ch278",
       "title": {
+        "la": "Liber IX, Epistola 5",
         "en-US": "Book IX, Letter 5"
       }
     },
     {
       "id": "ch279",
       "title": {
+        "la": "Liber IX, Epistola 6",
         "en-US": "Book IX, Letter 6"
       }
     },
     {
       "id": "ch280",
       "title": {
+        "la": "Liber IX, Epistola 7",
         "en-US": "Book IX, Letter 7"
       }
     },
     {
       "id": "ch281",
       "title": {
+        "la": "Liber IX, Epistola 8",
         "en-US": "Book IX, Letter 8"
       }
     },
     {
       "id": "ch282",
       "title": {
+        "la": "Liber IX, Epistola 9",
         "en-US": "Book IX, Letter 9"
       }
     },
     {
       "id": "ch283",
       "title": {
+        "la": "Liber IX, Epistola 10",
         "en-US": "Book IX, Letter 10"
       }
     },
     {
       "id": "ch284",
       "title": {
+        "la": "Liber IX, Epistola 11",
         "en-US": "Book IX, Letter 11"
       }
     },
     {
       "id": "ch285",
       "title": {
+        "la": "Liber IX, Epistola 12",
         "en-US": "Book IX, Letter 12"
       }
     },
     {
       "id": "ch286",
       "title": {
+        "la": "Liber IX, Epistola 17",
         "en-US": "Book IX, Letter 17"
       }
     },
     {
       "id": "ch287",
       "title": {
+        "la": "Liber IX, Epistola 18",
         "en-US": "Book IX, Letter 18"
       }
     },
     {
       "id": "ch288",
       "title": {
+        "la": "Liber IX, Epistola 19",
         "en-US": "Book IX, Letter 19"
       }
     },
     {
       "id": "ch289",
       "title": {
+        "la": "Liber IX, Epistola 23",
         "en-US": "Book IX, Letter 23"
       }
     },
     {
       "id": "ch290",
       "title": {
+        "la": "Liber IX, Epistola 24",
         "en-US": "Book IX, Letter 24"
       }
     },
     {
       "id": "ch291",
       "title": {
+        "la": "Liber IX, Epistola 26",
         "en-US": "Book IX, Letter 26"
       }
     },
     {
       "id": "ch292",
       "title": {
+        "la": "Liber IX, Epistola 27",
         "en-US": "Book IX, Letter 27"
       }
     },
     {
       "id": "ch293",
       "title": {
+        "la": "Liber IX, Epistola 33",
         "en-US": "Book IX, Letter 33"
       }
     },
     {
       "id": "ch294",
       "title": {
+        "la": "Liber IX, Epistola 36",
         "en-US": "Book IX, Letter 36"
       }
     },
     {
       "id": "ch295",
       "title": {
+        "la": "Liber IX, Epistola 41",
         "en-US": "Book IX, Letter 41"
       }
     },
     {
       "id": "ch296",
       "title": {
+        "la": "Liber IX, Epistola 42",
         "en-US": "Book IX, Letter 42"
       }
     },
     {
       "id": "ch297",
       "title": {
+        "la": "Liber IX, Epistola 43",
         "en-US": "Book IX, Letter 43"
       }
     },
     {
       "id": "ch298",
       "title": {
+        "la": "Liber IX, Epistola 49",
         "en-US": "Book IX, Letter 49"
       }
     },
     {
       "id": "ch299",
       "title": {
+        "la": "Liber IX, Epistola 55",
         "en-US": "Book IX, Letter 55"
       }
     },
     {
       "id": "ch300",
       "title": {
+        "la": "Liber IX, Epistola 58",
         "en-US": "Book IX, Letter 58"
       }
     },
     {
       "id": "ch301",
       "title": {
+        "la": "Liber IX, Epistola 59",
         "en-US": "Book IX, Letter 59"
       }
     },
     {
       "id": "ch302",
       "title": {
+        "la": "Liber IX, Epistola 60",
         "en-US": "Book IX, Letter 60"
       }
     },
     {
       "id": "ch303",
       "title": {
+        "la": "Liber IX, Epistola 61",
         "en-US": "Book IX, Letter 61"
       }
     },
     {
       "id": "ch304",
       "title": {
+        "la": "Liber IX, Epistola 62",
         "en-US": "Book IX, Letter 62"
       }
     },
     {
       "id": "ch305",
       "title": {
+        "la": "Liber IX, Epistola 65",
         "en-US": "Book IX, Letter 65"
       }
     },
     {
       "id": "ch306",
       "title": {
+        "la": "Liber IX, Epistola 67",
         "en-US": "Book IX, Letter 67"
       }
     },
     {
       "id": "ch307",
       "title": {
+        "la": "Liber IX, Epistola 68",
         "en-US": "Book IX, Letter 68"
       }
     },
     {
       "id": "ch308",
       "title": {
+        "la": "Liber IX, Epistola 78",
         "en-US": "Book IX, Letter 78"
       }
     },
     {
       "id": "ch309",
       "title": {
+        "la": "Liber IX, Epistola 79",
         "en-US": "Book IX, Letter 79"
       }
     },
     {
       "id": "ch310",
       "title": {
+        "la": "Liber IX, Epistola 80",
         "en-US": "Book IX, Letter 80"
       }
     },
     {
       "id": "ch311",
       "title": {
+        "la": "Liber IX, Epistola 81",
         "en-US": "Book IX, Letter 81"
       }
     },
     {
       "id": "ch312",
       "title": {
+        "la": "Liber IX, Epistola 82",
         "en-US": "Book IX, Letter 82"
       }
     },
     {
       "id": "ch313",
       "title": {
+        "la": "Liber IX, Epistola 91",
         "en-US": "Book IX, Letter 91"
       }
     },
     {
       "id": "ch314",
       "title": {
+        "la": "Liber IX, Epistola 93",
         "en-US": "Book IX, Letter 93"
       }
     },
     {
       "id": "ch315",
       "title": {
+        "la": "Liber IX, Epistola 94",
         "en-US": "Book IX, Letter 94"
       }
     },
     {
       "id": "ch316",
       "title": {
+        "la": "Liber IX, Epistola 98",
         "en-US": "Book IX, Letter 98"
       }
     },
     {
       "id": "ch317",
       "title": {
+        "la": "Liber IX, Epistola 105",
         "en-US": "Book IX, Letter 105"
       }
     },
     {
       "id": "ch318",
       "title": {
+        "la": "Liber IX, Epistola 106",
         "en-US": "Book IX, Letter 106"
       }
     },
     {
       "id": "ch319",
       "title": {
+        "la": "Liber IX, Epistola 107",
         "en-US": "Book IX, Letter 107"
       }
     },
     {
       "id": "ch320",
       "title": {
+        "la": "Liber IX, Epistola 108",
         "en-US": "Book IX, Letter 108"
       }
     },
     {
       "id": "ch321",
       "title": {
+        "la": "Liber IX, Epistola 109",
         "en-US": "Book IX, Letter 109"
       }
     },
     {
       "id": "ch322",
       "title": {
+        "la": "Liber IX, Epistola 110",
         "en-US": "Book IX, Letter 110"
       }
     },
     {
       "id": "ch323",
       "title": {
+        "la": "Liber IX, Epistola 111",
         "en-US": "Book IX, Letter 111"
       }
     },
     {
       "id": "ch324",
       "title": {
+        "la": "Liber IX, Epistola 114",
         "en-US": "Book IX, Letter 114"
       }
     },
     {
       "id": "ch325",
       "title": {
+        "la": "Liber IX, Epistola 115",
         "en-US": "Book IX, Letter 115"
       }
     },
     {
       "id": "ch326",
       "title": {
+        "la": "Liber IX, Epistola 116",
         "en-US": "Book IX, Letter 116"
       }
     },
     {
       "id": "ch327",
       "title": {
+        "la": "Liber IX, Epistola 117",
         "en-US": "Book IX, Letter 117"
       }
     },
     {
       "id": "ch328",
       "title": {
+        "la": "Liber IX, Epistola 120",
         "en-US": "Book IX, Letter 120"
       }
     },
     {
       "id": "ch329",
       "title": {
+        "la": "Liber IX, Epistola 121",
         "en-US": "Book IX, Letter 121"
       }
     },
     {
       "id": "ch330",
       "title": {
+        "la": "Liber IX, Epistola 122",
         "en-US": "Book IX, Letter 122"
       }
     },
     {
       "id": "ch331",
       "title": {
+        "la": "Liber IX, Epistola 123",
         "en-US": "Book IX, Letter 123"
       }
     },
     {
       "id": "ch332",
       "title": {
+        "la": "Liber IX, Epistola 125",
         "en-US": "Book IX, Letter 125"
       }
     },
     {
       "id": "ch333",
       "title": {
+        "la": "Liber IX, Epistola 127",
         "en-US": "Book IX, Letter 127"
       }
     },
     {
       "id": "ch334",
       "title": {
+        "la": "Liber X, Epistola 10",
         "en-US": "Book X, Letter 10"
       }
     },
     {
       "id": "ch335",
       "title": {
+        "la": "Liber X, Epistola 15",
         "en-US": "Book X, Letter 15"
       }
     },
     {
       "id": "ch336",
       "title": {
+        "la": "Liber X, Epistola 18",
         "en-US": "Book X, Letter 18"
       }
     },
     {
       "id": "ch337",
       "title": {
+        "la": "Liber X, Epistola 19",
         "en-US": "Book X, Letter 19"
       }
     },
     {
       "id": "ch338",
       "title": {
+        "la": "Liber X, Epistola 23",
         "en-US": "Book X, Letter 23"
       }
     },
     {
       "id": "ch339",
       "title": {
+        "la": "Liber X, Epistola 24",
         "en-US": "Book X, Letter 24"
       }
     },
     {
       "id": "ch340",
       "title": {
+        "la": "Liber X, Epistola 31",
         "en-US": "Book X, Letter 31"
       }
     },
     {
       "id": "ch341",
       "title": {
+        "la": "Liber X, Epistola 35",
         "en-US": "Book X, Letter 35"
       }
     },
     {
       "id": "ch342",
       "title": {
+        "la": "Liber X, Epistola 36",
         "en-US": "Book X, Letter 36"
       }
     },
     {
       "id": "ch343",
       "title": {
+        "la": "Liber X, Epistola 37",
         "en-US": "Book X, Letter 37"
       }
     },
     {
       "id": "ch344",
       "title": {
+        "la": "Liber X, Epistola 39",
         "en-US": "Book X, Letter 39"
       }
     },
     {
       "id": "ch345",
       "title": {
+        "la": "Liber X, Epistola 42",
         "en-US": "Book X, Letter 42"
       }
     },
     {
       "id": "ch346",
       "title": {
+        "la": "Liber X, Epistola 62",
         "en-US": "Book X, Letter 62"
       }
     },
     {
       "id": "ch347",
       "title": {
+        "la": "Liber X, Epistola 63",
         "en-US": "Book X, Letter 63"
       }
     },
     {
       "id": "ch348",
       "title": {
+        "la": "Liber XI, Epistola 1",
         "en-US": "Book XI, Letter 1"
       }
     },
     {
       "id": "ch349",
       "title": {
+        "la": "Liber XI, Epistola 12",
         "en-US": "Book XI, Letter 12"
       }
     },
     {
       "id": "ch350",
       "title": {
+        "la": "Liber XI, Epistola 13",
         "en-US": "Book XI, Letter 13"
       }
     },
     {
       "id": "ch351",
       "title": {
+        "la": "Liber XI, Epistola 25",
         "en-US": "Book XI, Letter 25"
       }
     },
     {
       "id": "ch352",
       "title": {
+        "la": "Liber XI, Epistola 28",
         "en-US": "Book XI, Letter 28"
       }
     },
     {
       "id": "ch353",
       "title": {
+        "la": "Liber XI, Epistola 29",
         "en-US": "Book XI, Letter 29"
       }
     },
     {
       "id": "ch354",
       "title": {
+        "la": "Liber XI, Epistola 30",
         "en-US": "Book XI, Letter 30"
       }
     },
     {
       "id": "ch355",
       "title": {
+        "la": "Liber XI, Epistola 32",
         "en-US": "Book XI, Letter 32"
       }
     },
     {
       "id": "ch356",
       "title": {
+        "la": "Liber XI, Epistola 33",
         "en-US": "Book XI, Letter 33"
       }
     },
     {
       "id": "ch357",
       "title": {
+        "la": "Liber XI, Epistola 35",
         "en-US": "Book XI, Letter 35"
       }
     },
     {
       "id": "ch358",
       "title": {
+        "la": "Liber XI, Epistola 36",
         "en-US": "Book XI, Letter 36"
       }
     },
     {
       "id": "ch359",
       "title": {
+        "la": "Liber XI, Epistola 37",
         "en-US": "Book XI, Letter 37"
       }
     },
     {
       "id": "ch360",
       "title": {
+        "la": "Liber XI, Epistola 38",
         "en-US": "Book XI, Letter 38"
       }
     },
     {
       "id": "ch361",
       "title": {
+        "la": "Liber XI, Epistola 40",
         "en-US": "Book XI, Letter 40"
       }
     },
     {
       "id": "ch362",
       "title": {
+        "la": "Liber XI, Epistola 44",
         "en-US": "Book XI, Letter 44"
       }
     },
     {
       "id": "ch363",
       "title": {
+        "la": "Liber XI, Epistola 45",
         "en-US": "Book XI, Letter 45"
       }
     },
     {
       "id": "ch364",
       "title": {
+        "la": "Liber XI, Epistola 46",
         "en-US": "Book XI, Letter 46"
       }
     },
     {
       "id": "ch365",
       "title": {
+        "la": "Liber XI, Epistola 47",
         "en-US": "Book XI, Letter 47"
       }
     },
     {
       "id": "ch366",
       "title": {
+        "la": "Liber XI, Epistola 50",
         "en-US": "Book XI, Letter 50"
       }
     },
     {
       "id": "ch367",
       "title": {
+        "la": "Liber XI, Epistola 54",
         "en-US": "Book XI, Letter 54"
       }
     },
     {
       "id": "ch368",
       "title": {
+        "la": "Liber XI, Epistola 55",
         "en-US": "Book XI, Letter 55"
       }
     },
     {
       "id": "ch369",
       "title": {
+        "la": "Liber XI, Epistola 56",
         "en-US": "Book XI, Letter 56"
       }
     },
     {
       "id": "ch370",
       "title": {
+        "la": "Liber XI, Epistola 57",
         "en-US": "Book XI, Letter 57"
       }
     },
     {
       "id": "ch371",
       "title": {
+        "la": "Liber XI, Epistola 58",
         "en-US": "Book XI, Letter 58"
       }
     },
     {
       "id": "ch372",
       "title": {
+        "la": "Liber XI, Epistola 59",
         "en-US": "Book XI, Letter 59"
       }
     },
     {
       "id": "ch373",
       "title": {
+        "la": "Liber XI, Epistola 60",
         "en-US": "Book XI, Letter 60"
       }
     },
     {
       "id": "ch374",
       "title": {
+        "la": "Liber XI, Epistola 61",
         "en-US": "Book XI, Letter 61"
       }
     },
     {
       "id": "ch375",
       "title": {
+        "la": "Liber XI, Epistola 62",
         "en-US": "Book XI, Letter 62"
       }
     },
     {
       "id": "ch376",
       "title": {
+        "la": "Liber XI, Epistola 63",
         "en-US": "Book XI, Letter 63"
       }
     },
     {
       "id": "ch377",
       "title": {
+        "la": "Liber XI, Epistola 64",
         "en-US": "Book XI, Letter 64"
       }
     },
     {
       "id": "ch378",
       "title": {
+        "la": "Liber XI, Epistola 65",
         "en-US": "Book XI, Letter 65"
       }
     },
     {
       "id": "ch379",
       "title": {
+        "la": "Liber XI, Epistola 66",
         "en-US": "Book XI, Letter 66"
       }
     },
     {
       "id": "ch380",
       "title": {
+        "la": "Liber XI, Epistola 67",
         "en-US": "Book XI, Letter 67"
       }
     },
     {
       "id": "ch381",
       "title": {
+        "la": "Liber XI, Epistola 68",
         "en-US": "Book XI, Letter 68"
       }
     },
     {
       "id": "ch382",
       "title": {
+        "la": "Liber XI, Epistola 69",
         "en-US": "Book XI, Letter 69"
       }
     },
     {
       "id": "ch383",
       "title": {
+        "la": "Liber XI, Epistola 76",
         "en-US": "Book XI, Letter 76"
       }
     },
     {
       "id": "ch384",
       "title": {
+        "la": "Liber XI, Epistola 77",
         "en-US": "Book XI, Letter 77"
       }
     },
     {
       "id": "ch385",
       "title": {
+        "la": "Liber XI, Epistola 78",
         "en-US": "Book XI, Letter 78"
       }
     },
     {
       "id": "ch386",
       "title": {
+        "la": "Liber XII, Epistola 1",
         "en-US": "Book XII, Letter 1"
       }
     },
     {
       "id": "ch387",
       "title": {
+        "la": "Liber XII, Epistola 8",
         "en-US": "Book XII, Letter 8"
       }
     },
     {
       "id": "ch388",
       "title": {
+        "la": "Liber XII, Epistola 24",
         "en-US": "Book XII, Letter 24"
       }
     },
     {
       "id": "ch389",
       "title": {
+        "la": "Liber XII, Epistola 25",
         "en-US": "Book XII, Letter 25"
       }
     },
     {
       "id": "ch390",
       "title": {
+        "la": "Liber XII, Epistola 28",
         "en-US": "Book XII, Letter 28"
       }
     },
     {
       "id": "ch391",
       "title": {
+        "la": "Liber XII, Epistola 29",
         "en-US": "Book XII, Letter 29"
       }
     },
     {
       "id": "ch392",
       "title": {
+        "la": "Liber XII, Epistola 32",
         "en-US": "Book XII, Letter 32"
       }
     },
     {
       "id": "ch393",
       "title": {
+        "la": "Liber XII, Epistola 50",
         "en-US": "Book XII, Letter 50"
       }
     },
     {
       "id": "ch394",
       "title": {
+        "la": "Liber XIII, Epistola 1",
         "en-US": "Book XIII, Letter 1"
       }
     },
     {
       "id": "ch395",
       "title": {
+        "la": "Liber XIII, Epistola 5",
         "en-US": "Book XIII, Letter 5"
       }
     },
     {
       "id": "ch396",
       "title": {
+        "la": "Liber XIII, Epistola 6",
         "en-US": "Book XIII, Letter 6"
       }
     },
     {
       "id": "ch397",
       "title": {
+        "la": "Liber XIII, Epistola 7",
         "en-US": "Book XIII, Letter 7"
       }
     },
     {
       "id": "ch398",
       "title": {
+        "la": "Liber XIII, Epistola 8",
         "en-US": "Book XIII, Letter 8"
       }
     },
     {
       "id": "ch399",
       "title": {
+        "la": "Liber XIII, Epistola 9",
         "en-US": "Book XIII, Letter 9"
       }
     },
     {
       "id": "ch400",
       "title": {
+        "la": "Liber XIII, Epistola 10",
         "en-US": "Book XIII, Letter 10"
       }
     },
     {
       "id": "ch401",
       "title": {
+        "la": "Liber XIII, Epistola 12",
         "en-US": "Book XIII, Letter 12"
       }
     },
     {
       "id": "ch402",
       "title": {
+        "la": "Liber XIII, Epistola 18",
         "en-US": "Book XIII, Letter 18"
       }
     },
     {
       "id": "ch403",
       "title": {
+        "la": "Liber XIII, Epistola 22",
         "en-US": "Book XIII, Letter 22"
       }
     },
     {
       "id": "ch404",
       "title": {
+        "la": "Liber XIII, Epistola 26",
         "en-US": "Book XIII, Letter 26"
       }
     },
     {
       "id": "ch405",
       "title": {
+        "la": "Liber XIII, Epistola 27",
         "en-US": "Book XIII, Letter 27"
       }
     },
     {
       "id": "ch406",
       "title": {
+        "la": "Liber XIII, Epistola 31",
         "en-US": "Book XIII, Letter 31"
       }
     },
     {
       "id": "ch407",
       "title": {
+        "la": "Liber XIII, Epistola 34",
         "en-US": "Book XIII, Letter 34"
       }
     },
     {
       "id": "ch408",
       "title": {
+        "la": "Liber XIII, Epistola 38",
         "en-US": "Book XIII, Letter 38"
       }
     },
     {
       "id": "ch409",
       "title": {
+        "la": "Liber XIII, Epistola 39",
         "en-US": "Book XIII, Letter 39"
       }
     },
     {
       "id": "ch410",
       "title": {
+        "la": "Liber XIII, Epistola 40",
         "en-US": "Book XIII, Letter 40"
       }
     },
     {
       "id": "ch411",
       "title": {
+        "la": "Liber XIII, Epistola 41",
         "en-US": "Book XIII, Letter 41"
       }
     },
     {
       "id": "ch412",
       "title": {
+        "la": "Liber XIII, Epistola 42",
         "en-US": "Book XIII, Letter 42"
       }
     },
     {
       "id": "ch413",
       "title": {
+        "la": "Liber XIV, Epistola 2",
         "en-US": "Book XIV, Letter 2"
       }
     },
     {
       "id": "ch414",
       "title": {
+        "la": "Liber XIV, Epistola 4",
         "en-US": "Book XIV, Letter 4"
       }
     },
     {
       "id": "ch415",
       "title": {
+        "la": "Liber XIV, Epistola 7",
         "en-US": "Book XIV, Letter 7"
       }
     },
     {
       "id": "ch416",
       "title": {
+        "la": "Liber XIV, Epistola 8",
         "en-US": "Book XIV, Letter 8"
       }
     },
     {
       "id": "ch417",
       "title": {
+        "la": "Liber XIV, Epistola 12",
         "en-US": "Book XIV, Letter 12"
       }
     },
     {
       "id": "ch418",
       "title": {
+        "la": "Liber XIV, Epistola 13",
         "en-US": "Book XIV, Letter 13"
       }
     },
     {
       "id": "ch419",
       "title": {
+        "la": "Liber XIV, Epistola 16",
         "en-US": "Book XIV, Letter 16"
       }
     },
     {
       "id": "ch420",
       "title": {
+        "la": "Liber XIV, Epistola 17",
         "en-US": "Book XIV, Letter 17"
       }
     }
