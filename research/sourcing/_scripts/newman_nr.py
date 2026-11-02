@@ -28,11 +28,12 @@ def index_links(path):
 
 def inline(h, para=True):
     h = re.sub(r'<font[^>]*><b>\[</b></font>.*?NR\]</b></font>', '', h, flags=re.S)
+    h = re.sub(r'</?font[^>]*>', '', h)
     def _marker(m):
         t = m.group(0)
         num = re.search(r'name="return(\d+)"', t) or re.search(r'(?:Notes?|Name)\s*(\d+)', re.sub(r'<[^>]*>', ' ', t)) or re.search(r'href="#note(\d+)"', t)
         return '\x00%s\x01' % (num.group(1) if num else '1')
-    h = re.sub(r'\[(?:(?!\]).){0,250}?href="#note\d*"[^>]*>(?:\s|<[^>]*>)*(?:Notes?|Name)[\s\d]*</a>(?:</u>)?\]', _marker, h, flags=re.S)
+    h = re.sub(r'\[(?:(?!\]).){0,250}?href="#note\s*\d*"[^>]*>(?:\s|<[^>]*>)*(?:Notes?|Name)[\s\d]*</a>(?:</u>)?\]', _marker, h, flags=re.S)
     h = re.sub(r'<a href="#return\d+">Return to text</a>', '', h)
     h = re.sub(r'<a name="[^"]*"></a>', '', h)
     h = re.sub(r'<br\s*/?>', '\x02', h)
@@ -57,11 +58,38 @@ def inline(h, para=True):
     h = re.sub(r'\*\*\s*\*\*', '', h); h = re.sub(r'\*\s+\*', ' ', h); h = re.sub(r'\*\*(\s*)\*\*', r'\1', h)
     return h.strip()
 
+PRE = r'((?:\x00\d+\x01 ?)?(?:\d+\. )?[\u201c"\u2018\']?)'
+
+_D = None
+def _word(w, stem=True):
+    global _D
+    if _D is None:
+        try: _D = set(x.strip().lower() for x in open('/usr/share/dict/words', errors='ignore'))
+        except OSError: _D = set()
+        _D |= {'about', 'have', 'am', 'was', 'shall', 'will', 'would', 'cannot'}
+    w = w.lower()
+    return w in _D or (stem and any(x in _D for x in (w[:-1], w[:-2], w[:-3] if w.endswith('ing') else w)))
+
+def _join(L, X):
+    """Small capitals: 'C HARLES' -> 'Charles', but 'I HAVE' -> 'I have', 'A LETTER' -> 'A letter'."""
+    if len(X) > 1 and L in 'IA' and _word(X) and not _word(L + X, False): return L + ' ' + X.lower()
+    return L + X.lower()
+
+def smallcaps(t):
+    for _ in range(4):
+        m = re.match('^' + PRE + r'([A-Z]) ([A-Z]+)\b(?! [A-Z]{2})', t)
+        if not m: break
+        t = m.group(1) + _join(m.group(2), m.group(3)) + t[m.end():]
+        m = re.match(r'^(.*?\b[A-Z][a-z]+ )([A-Z]) ([A-Z]+)\b', t)
+        if m: t = m.group(1) + m.group(2) + m.group(3).lower() + t[m.end():]
+    return t
+
 def dropcap(t):
-    m = re.match(r'^(I) ([A-Z]{2,})(?= [a-z])', t)
-    if m and m.group(2) not in ('II', 'III', 'IV', 'VI'): return 'I ' + m.group(2).lower() + t[m.end():]
-    m = re.match(r'^((?:\d+\. )?)([A-Z])([A-Z]{1,})(?=[ ,;:.—] ?[a-z"\'(*A-Z]|[ ,;:.]$| [a-z"\'(*]|’)', t)
-    if m and m.group(2) + m.group(3) not in ('II', 'III', 'IV', 'VI', 'VII', 'VIII', 'IX', 'XI', 'XII'):
+    t = smallcaps(t)
+    m = re.match('^' + PRE + r'(I) ([A-Z]{2,})(?= [a-z])', t)
+    if m and m.group(3) not in ('II', 'III', 'IV', 'VI'): return m.group(1) + 'I ' + m.group(3).lower() + t[m.end():]
+    m = re.match('^' + PRE + r'([A-Z])([A-Z]+)(?=[ ,;:.\u2014] ?(?:[a-z"\'(*]|[A-Z](?![A-Z]))|[ ,;:.]$|[\u2019\'])', t)
+    if m and not re.fullmatch(r'[IVXL]+', m.group(2) + m.group(3)):
         return m.group(1) + m.group(2) + m.group(3).lower() + t[m.end():]
     return t
 
@@ -89,12 +117,12 @@ def convert(url, title=None, keep_first_heading=False):
     bl = blocks(body(url))
     nidx = next((k for k, (t, b) in enumerate(bl) if t == 'h3' and norm(b) in ('Note', 'Notes')), len(bl))
     notes, last = {}, None
-    hm = re.search(r'name="note(\d+)"', bl[nidx][1]) if nidx < len(bl) else None
+    hm = re.search(r'name="note\s*(\d+)"', bl[nidx][1]) if nidx < len(bl) else None
     nxt = int(hm.group(1)) if hm else 1
     for t, b in bl[nidx + 1:]:
         if t != 'p': continue
         txt = re.sub(r'\s*(?:\[[^\]]*NR\*?\*?\])?\s*Return to text\s*$', '', inline(b, para=False))
-        am = re.search(r'name="note(\d+)"', b)
+        am = re.search(r'name="note\s*(\d+)"', b)
         mm = re.match(r'^(\d+)\.\s*(.*)$', txt, re.S)
         if am or (mm and int(mm.group(1)) == nxt):
             num = int(am.group(1)) if am else nxt
@@ -115,7 +143,7 @@ def convert(url, title=None, keep_first_heading=False):
                 if title is None: lines[0] = '# ' + head
                 continue
             first = False
-            if not head or (title and head == title): continue
+            if not head or (title and head.rstrip('.') == title.rstrip('.')): continue
             lines += [('#' * (2 if t in ('h2', 'h3') else 3)) + ' ' + head, '']
             continue
         first = False

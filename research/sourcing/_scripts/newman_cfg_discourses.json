@@ -1,0 +1,106 @@
+{
+ "slug": "discourses-to-mixed-congregations",
+ "id": "newman-discourses-to-mixed-congregations",
+ "name": "Discourses Addressed to Mixed Congregations",
+ "name_pt": "Discursos Dirigidos a Congregações Mistas",
+ "desc": "Eighteen sermons Newman preached in 1849 as a priest of the Birmingham Oratory, to congregations of Catholics and inquirers: the salvation of the hearer, purity and love, the saints as the standard of Christian principle, God's will, nature and grace, faith and private judgment, faith and doubt, the mysteries of nature and grace, the mental sufferings of Christ and the glories of Mary.",
+ "desc_pt": "Dezoito sermões que Newman pregou em 1849, como sacerdote do Oratório de Birmingham, a congregações de católicos e de interessados: a salvação do ouvinte, a pureza e o amor, a santidade como medida do princípio cristão, a vontade de Deus, a natureza e a graça, a fé e o juízo privado, a fé e a dúvida, os mistérios da natureza e da graça, os sofrimentos interiores de Cristo e as glórias de Maria.",
+ "composed": "1849",
+ "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
+ "year": 1849,
+ "index": "discourses/index.html",
+ "edition": "Discourses Addressed to Mixed Congregations (London: Longmans, Green, uniform edition; first published 1849), as transcribed by the Newman Reader.",
+ "note": "",
+ "chapters": [
+  [
+   "discourses/discourse1.html",
+   "discourse-1",
+   null
+  ],
+  [
+   "discourses/discourse2.html",
+   "discourse-2",
+   null
+  ],
+  [
+   "discourses/discourse3.html",
+   "discourse-3",
+   null
+  ],
+  [
+   "discourses/discourse4.html",
+   "discourse-4",
+   null
+  ],
+  [
+   "discourses/discourse5.html",
+   "discourse-5",
+   null
+  ],
+  [
+   "discourses/discourse6.html",
+   "discourse-6",
+   null
+  ],
+  [
+   "discourses/discourse7.html",
+   "discourse-7",
+   null
+  ],
+  [
+   "discourses/discourse8.html",
+   "discourse-8",
+   null
+  ],
+  [
+   "discourses/discourse9.html",
+   "discourse-9",
+   null
+  ],
+  [
+   "discourses/discourse10.html",
+   "discourse-10",
+   null
+  ],
+  [
+   "discourses/discourse11.html",
+   "discourse-11",
+   null
+  ],
+  [
+   "discourses/discourse12.html",
+   "discourse-12",
+   null
+  ],
+  [
+   "discourses/discourse13.html",
+   "discourse-13",
+   null
+  ],
+  [
+   "discourses/discourse14.html",
+   "discourse-14",
+   null
+  ],
+  [
+   "discourses/discourse15.html",
+   "discourse-15",
+   null
+  ],
+  [
+   "discourses/discourse16.html",
+   "discourse-16",
+   null
+  ],
+  [
+   "discourses/discourse17.html",
+   "discourse-17",
+   null
+  ],
+  [
+   "discourses/discourse18.html",
+   "discourse-18",
+   null
+  ]
+ ]
+}

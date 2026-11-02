@@ -1,0 +1,147 @@
+{
+  "id": "newman-discourses-to-mixed-congregations",
+  "cover": "classic",
+  "name": {
+    "en-US": "Discourses Addressed to Mixed Congregations",
+    "pt-BR": "Discursos Dirigidos a Congregações Mistas"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Eighteen sermons Newman preached in 1849 as a priest of the Birmingham Oratory, to congregations of Catholics and inquirers: the salvation of the hearer, purity and love, the saints as the standard of Christian principle, God's will, nature and grace, faith and private judgment, faith and doubt, the mysteries of nature and grace, the mental sufferings of Christ and the glories of Mary.",
+    "pt-BR": "Dezoito sermões que Newman pregou em 1849, como sacerdote do Oratório de Birmingham, a congregações de católicos e de interessados: a salvação do ouvinte, a pureza e o amor, a santidade como medida do princípio cristão, a vontade de Deus, a natureza e a graça, a fé e o juízo privado, a fé e a dúvida, os mistérios da natureza e da graça, os sofrimentos interiores de Cristo e as glórias de Maria."
+  },
+  "composed": "1849",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/discourses-to-mixed-congregations",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
+      "year": 1849
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/discourses/index.html",
+      "edition": "Discourses Addressed to Mixed Congregations (London: Longmans, Green, uniform edition; first published 1849), as transcribed by the Newman Reader.",
+      "description": "18 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes.  Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "discourse-1",
+      "title": {
+        "en-US": "Discourse 1. The Salvation of the Hearer the Motive of the Preacher"
+      }
+    },
+    {
+      "id": "discourse-2",
+      "title": {
+        "en-US": "Discourse 2. Neglect of Divine Calls and Warnings"
+      }
+    },
+    {
+      "id": "discourse-3",
+      "title": {
+        "en-US": "Discourse 3. Men, not Angels, the Priests of the Gospel"
+      }
+    },
+    {
+      "id": "discourse-4",
+      "title": {
+        "en-US": "Discourse 4. Purity and Love"
+      }
+    },
+    {
+      "id": "discourse-5",
+      "title": {
+        "en-US": "Discourse 5. Saintliness the Standard of Christian Principle"
+      }
+    },
+    {
+      "id": "discourse-6",
+      "title": {
+        "en-US": "Discourse 6. God's Will the End of Life"
+      }
+    },
+    {
+      "id": "discourse-7",
+      "title": {
+        "en-US": "Discourse 7. Perseverance in Grace"
+      }
+    },
+    {
+      "id": "discourse-8",
+      "title": {
+        "en-US": "Discourse 8. Nature and Grace"
+      }
+    },
+    {
+      "id": "discourse-9",
+      "title": {
+        "en-US": "Discourse 9. Illuminating Grace"
+      }
+    },
+    {
+      "id": "discourse-10",
+      "title": {
+        "en-US": "Discourse 10. Faith and Private Judgment"
+      }
+    },
+    {
+      "id": "discourse-11",
+      "title": {
+        "en-US": "Discourse 11. Faith and Doubt"
+      }
+    },
+    {
+      "id": "discourse-12",
+      "title": {
+        "en-US": "Discourse 12. Prospects of the Catholic Missioner"
+      }
+    },
+    {
+      "id": "discourse-13",
+      "title": {
+        "en-US": "Discourse 13. Mysteries of Nature and of Grace"
+      }
+    },
+    {
+      "id": "discourse-14",
+      "title": {
+        "en-US": "Discourse 14. The Mystery of Divine Condescension"
+      }
+    },
+    {
+      "id": "discourse-15",
+      "title": {
+        "en-US": "Discourse 15. The Infinitude of the Divine Attributes"
+      }
+    },
+    {
+      "id": "discourse-16",
+      "title": {
+        "en-US": "Discourse 16. Mental Sufferings of Our Lord in His Passion"
+      }
+    },
+    {
+      "id": "discourse-17",
+      "title": {
+        "en-US": "Discourse 17. The Glories of Mary for the Sake of Her Son"
+      }
+    },
+    {
+      "id": "discourse-18",
+      "title": {
+        "en-US": "Discourse 18. On the Fitness of the Glories of Mary"
+      }
+    }
+  ]
+}
