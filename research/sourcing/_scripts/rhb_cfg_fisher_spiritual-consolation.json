@@ -1,0 +1,21 @@
+{
+ "id": "fisher-spiritual-consolation",
+ "dir": "fisher-opera-omnia/spiritual-consolation",
+ "slug": "spiritual-consolation",
+ "work": "fisher/spiritual-consolation",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00776.xml",
+ "name": "A Spiritual Consolation and The Ways to Perfect Religion",
+ "name_pt": "Uma Consolação Espiritual e Os Caminhos da Perfeição Religiosa",
+ "desc": "Two treatises written by Fisher in the Tower of London in 1534-35: a spiritual consolation to his sister Elizabeth, and the Ways to Perfect Religion, a comparison of the life of hunters with the life of religious followed by ten considerations on the religious state.",
+ "desc_pt": "Dois tratados escritos por Fisher na Torre de Londres em 1534-35: uma consolação espiritual à sua irmã Elizabeth e os Caminhos da Perfeição Religiosa, uma comparação entre a vida dos caçadores e a dos religiosos, seguida de dez considerações sobre o estado religioso.",
+ "composed": 1535,
+ "editor": "John Fisher, ed. 1578 (EEBO-TCP A00776)",
+ "year": 1578,
+ "url": "https://github.com/textcreationpartnership/A00776",
+ "edition": "A spirituall consolation ... The wayes to perfect religion (London: 1578), EEBO-TCP A00776.",
+ "parts": true,
+ "inline_kids": true
+}

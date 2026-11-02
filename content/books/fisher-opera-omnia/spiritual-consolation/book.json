@@ -1,0 +1,143 @@
+{
+  "id": "fisher-spiritual-consolation",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Spiritual Consolation and The Ways to Perfect Religion",
+    "pt-BR": "Uma Consolação Espiritual e Os Caminhos da Perfeição Religiosa"
+  },
+  "author": {
+    "en-US": "St. John Fisher",
+    "pt-BR": "São João Fisher"
+  },
+  "description": {
+    "en-US": "Two treatises written by Fisher in the Tower of London in 1534-35: a spiritual consolation to his sister Elizabeth, and the Ways to Perfect Religion, a comparison of the life of hunters with the life of religious followed by ten considerations on the religious state.",
+    "pt-BR": "Dois tratados escritos por Fisher na Torre de Londres em 1534-35: uma consolação espiritual à sua irmã Elizabeth e os Caminhos da Perfeição Religiosa, uma comparação entre a vida dos caçadores e a dos religiosos, seguida de dez considerações sobre o estado religioso."
+  },
+  "composed": 1535,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fisher/spiritual-consolation",
+  "editions": {
+    "en-US": {
+      "editor": "John Fisher, ed. 1578 (EEBO-TCP A00776)",
+      "year": 1578
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A00776",
+      "edition": "A spirituall consolation ... The wayes to perfect religion (London: 1578), EEBO-TCP A00776.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 49 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. John Fisher died in 1535; the edition is of 1578 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "A spirituall consolacyon vvritten by Iohn Fyssher Bishop of Rochester, to his sister Elizabeth"
+      }
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "The wayes to perfcet Religion made by Iohn Fyssher, Byshop of Rochester, being Prysoner in the Tower of London"
+      },
+      "children": [
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "The wayes to perfcet Religion made by Iohn Fyssher, Byshop of Rochester, being Prysoner in the Tower of London"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "A comparison betvveene the lyfe of Hunters, and the lyfe of religious persons"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "The first consideration"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "The second consideration"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "The third consideration"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "The fourth Consideration"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "The fifth consideration"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "The sixt consideration"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "The seuenth consideration"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "The eight consideration"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "The ninth Consideration"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "The tenth consideration"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "The finall conclusion of all"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "The Prayers be these"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "A Sermon verie fruitfull, godly, and learned, vpon thvs sētēce of the Prophet Ezechiell, Lamentationes, Carm"
+      }
+    }
+  ]
+}
