@@ -1,0 +1,34 @@
+# V. — Les images et les reliques
+
+Pour les images, le concile de Trente défend expressément « d'y croire aucune divinité ou vertu pour laquelle on les doive révérer, de leur demander aucune grâce, et d'y attacher sa confiance, » et veut que « tout l'honneur se rapporte aux originaux qu'elles représentent[^1]. »
+
+Toutes ces paroles du concile sont autant de caractères qui servent à nous faire distinguer des idolâtres, puisque bien loin de croire comme eux que quelque divinité habite dans les images, nous ne leur attribuons aucune vertu que celle d'exciter en nous le souvenir des originaux.
+
+C'est sur cela qu'est fondé l'honneur qu'on rend aux images. On ne peut nier, par exemple, que celle de Jésus-Christ crucifié, lorsque nous la regardons, n'excite plus vivement en nous la souvenir de « celui qui nous a aimés jusqu'à se livrer pour nous à la mort » Tant que l'image présente à nos yeux fait durer un si précieux souvenir dans notre âme, nous sommes portés à témoigner par quelques marques extérieures, jusqu'où va notre reconnaissance; et nous faisons voir, en nous humiliant en présence de l'image, quelle est notre soumission pour son divin original. Ainsi à parler précisément et selon le style ecclésiastique, quand nous rendons honneur à l'image d'un apôtre ou d'un martyr, notre intention n'est pas tant d'honorer l'image, que « d'honorer l'apôtre ou le martyr en présence de l'image. » C'est ainsi que parle le *Pontifical romain*[^2] et le concile de Trente exprime la même chose, lorsqu'il dit, « que l'honneur que nous rendons aux images, se rapporte tellement aux originaux, que par le moyen des images que nous baisons, et devant lesquelles nous nous mettons à genoux, nous adorons Jésus-Christ, et honorons les Saints dont elles sont la ressemblance[^3]. »
+
+Enfin on peut connaître en quel esprit l'Eglise honore les images, par l'honneur qu'elle rend à la croix et au livre de l'Evangile. Tout le monde voit bien que devant la croix elle adore celui qui a porté nos crimes sur le bois[^4]; et que si ses enfants inclinent la tête devant le livre de l'Evangile ; s'ils se lèvent par honneur quand on le porte devant eux, et s'ils le baisent avec respect, tout cet honneur se termine à la vérité éternelle qui nous y est proposée.
+
+Il faut être peu équitable pour appeler idolâtrie ce mouvement religieux qui nous fait découvrir et baisser la tête devant l'image de la croix, en mémoire de celui qui a été crucifié pour l'amour de nous; et ce serait être trop aveugle que de ne pas apercevoir l'extrême différence qu'il y a entre ceux qui se confiaient aux idoles, par l'opinion qu'ils avaient que quelque divinité ou quelque vertu y était pour ainsi dire attachée, et ceux qui déclarent comme[^5] nous qu'ils ne se veulent servir des images que pour élever leur esprit au ciel, afin d'y honorer Jésus-Christ ou les Saints, et dans les Saints Dieu même, qui est l'auteur de toute sanctification et de toute grâce.
+
+On doit entendre de la même sorte l'honneur que nous rendons aux reliques, à l'exemple des premiers siècles de l'Eglise; et si nos adversaires considéraient que nous regardons les corps des Saints comme ayant été les victimes de Dieu par le martyre ou par la pénitence, ils ne croiraient pas que l'honneur que nous leur rendons par ce motif, pût nous détacher de celui que nous rendons à Dieu même.
+
+Nous pouvons dire en général, que s'ils voulaient bien comprendre de quelle sorte l'affection que nous avons pour quelqu'un, s'étend, sans se diviser, à ses enfants, à ses amis et ensuite par divers degrés à ce qui le représente, à ce qui reste de lui, à tout ce qui en renouvelle la mémoire; s'ils concevaient que l'honneur a un semblable progrès, puisque l'honneur en effet n'est autre chose qu'un amour mêlé de crainte et de respect; enfin s'ils considéraient que tout le culte extérieur de l'Eglise catholique « sa source en Dieu même, et qu'il y retourne : ils ne croiraient jamais que ce culte que lui seul anime, pût exciter sa jalousie. Ils verraient au contraire que si Dieu, tout jaloux qu'il est de l'amour des hommes, ne nous regarde pas comme si nous nous partagions entre lui et la créature, quand nous aimons notre prochain pour l'amour de lui; ce même Dieu, quoique jaloux du respect des fidèles, ne les regarde pas comme s'ils partageaient le culte qu'ils ne doivent qu'à lui seul, quand ils honorent par le respect qu'ils ont pour lui ceux qu'il a honorés lui-même.
+
+Il est vrai néanmoins que, comme les marques sensibles de révérence ne sont pas toutes absolument nécessaires, l'Eglise sans rien altérer dans la doctrine, a pu étendre plus ou moins ces pratiques extérieures, suivant la diversité des temps, des lieux et des occurrences, ne désirant pas que ses enfants soient servilement assujettis aux choses visibles, mais seulement qu'ils soient excités, et comme avertis par leur moyen de se tourner à Dieu, pour lui offrir en esprit et en vérité le service raisonnable qu'il attend de ses créatures.
+
+On peut voir par cette doctrine avec combien de vérité j'ai dit qu'une grande partie de nos controverses s'évanouirait par la seule intelligence des termes, si on traitait ces matières avec charité; et si nos adversaires considéraient paisiblement les explications précédentes, qui comprennent la doctrine expresse du concile de Trente, ils cesseraient de nous objecter que nous blessons la médiation de Jésus-Christ, et que nous invoquons les Saints, ou que nous adorons les images d'une manière qui n'est propre qu'à Dieu. Il est vrai que comme, en un certain sens, l'adoration, l'invocation et le nom de médiateur ne convient qu'à Dieu et à Jésus-Christ, il est aisé d'abuser de ces termes pour rendre notre doctrine odieuse. Mais si on les réduit de bonne foi au sens que nous leur avons donné, ces objections perdront toute leur force; et s'il reste à* Messieurs de la religion prétendue réformée quelques autres difficultés moins importantes, la sincérité les obligera d'avouer qu'ils sont satisfaits sur le principal sujet de leurs plaintes.
+
+Au reste il n'y a rien de plus injuste que d'objecter à l'Eglise qu'elle fait consister toute la piété dans cette dévotion aux Saints, puisque, comme nous l'avons déjà remarqué, le concile de Trente se contente d'enseigner aux fidèles que cette pratique leur est *bonne et utile*[^6], sans rien dire davantage. Ainsi l'esprit de l'Eglise est de condamner ceux qui rejettent cette pratique par mépris ou par erreur. Elle doit les condamner, parce qu'elle ne doit pas souffrir que les pratiques salutaires soient méprisées, ni qu'une doctrine que l'antiquité a autorisée, soit condamnée par les nouveaux docteurs.
+
+
+[^1]: *Conc. Trid*., sess. XXV, *Decr. de invoc*., etc.
+
+[^2]: *Pont. Rom., De bened. imag*.
+
+[^3]: Sess. XXV, Decr. de invoc., etc.
+
+[^4]: I Petr., II, 24.
+
+[^5]: *Galat*., n. 20.
+
+[^6]: Sess. XXV, *Decr. de invoc*., etc.

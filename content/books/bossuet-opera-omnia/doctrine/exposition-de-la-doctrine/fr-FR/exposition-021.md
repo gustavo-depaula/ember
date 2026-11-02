@@ -1,0 +1,7 @@
+# XXI. — L'autorité du Saint-Siège et l'Episcopat
+
+Le Fils de Dieu ayant voulu que son Eglise fût une et solidement bâtie sur l'unité, a établi et institué la primauté de saint Pierre pour l'entretenir et la cimenter. C'est pourquoi nous reconnaissons cette même primauté dans les successeurs du Prince des apôtres, auxquels on doit pour cette raison la soumission et l'obéissance que les saints conciles et les saints Pères ont toujours enseignée à tous les fidèles.
+
+Quant aux choses dont on sait qu'on dispute dans les écoles, quoique les ministres ne cessent de les alléguer pour rendre cette puissance odieuse, il n'est pas nécessaire d'en parler ici, puisqu'elles ne sont pas de la foi catholique. Il suffit de reconnaître un Chef établi de Dieu, pour conduire tout le troupeau dans ses voies ; ce que feront toujours volontiers ceux qui aiment la concorde des frères et l'unanimité ecclésiastique.
+
+Et certes si les auteurs de la réformation prétendue eussent aimé l'unité, ils n'auraient ni aboli le gouvernement épiscopal, qui est établi par Jésus-Christ même et que l'on voit en vigueur dès le temps des apôtres; ni méprisé l'autorité de la chaire de saint Pierre, qui a un fondement si certain dans l'Evangile et une suite si évidente dans la tradition : mais plutôt ils auraient conservé soigneusement et l'autorité de l'épiscopat, qui établit l'unité dans les églises particulières, et la primauté du siège de saint Pierre, qui est le centre commun de toute l'unité catholique.

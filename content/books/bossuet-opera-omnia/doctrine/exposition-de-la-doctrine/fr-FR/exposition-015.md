@@ -1,0 +1,24 @@
+# XV. — L'Epître aux Hébreux
+
+Après cette explication, ces grandes objections qu'on tire de l’ *Epître aux Hébreux* et qu'on fait tant valoir contre nous, paraîtront peu raisonnables; et c'est en vain qu'on s'efforce de prouver, par le sentiment de l'Apôtre, que nous anéantissons le sacrifiée de la croix. Mais comme la preuve la plus certaine qu'on puisse avoir que deux doctrines ne sont point opposées, est de reconnaître, en les expliquant, qu'aucune des propositions de l'une n'est contraire aux propositions de l'autre : je crois devoir en cet endroit exposer sommairement la doctrine de l’ *Epître aux Hébreux*.
+
+L'Apôtre a dessein en cette Epître de nous enseigner que le pécheur ne pouvait éviter la mort, qu'en subrogeant en sa place quelqu'un qui mourût pour lui ; que tant que les hommes n'ont mis en leur place que des animaux égorgés, leurs sacrifices n'opéraient autre chose qu'une reconnaissance publique qu'ils méritaient la mort; et que la justice divine ne pouvant pas être satisfaite d'un échange si inégal, on recommençait tous les jours à égorger des victimes; ce qui était une marque certaine de l'insuffisance de cette subrogation : mais que depuis que Jésus-Christ avait voulu mourir pour les pécheurs, Dieu satisfait de la subrogation volontaire d'une si digne personne, n'avait plus rien à exiger pour le prix de notre rachat. D'où l'Apôtre conclut que non-seulement on ne doit plus immoler d'autre victime après Jésus-Christ, mais que Jésus-Christ même ne doit être offert qu'une seule fois à la mort.
+
+Que le lecteur soigneux de son salut, et ami de la vérité, repasse maintenant dans son esprit ce que nous avons dit de la manière dont Jésus-Christ s'offre pour nous à Dieu dans l'Eucharistie; je m'assure qu'il n'y trouvera aucunes propositions qui soient contraires à celles que je viens de rapporter de l'Apôtre, ou qui affaiblissent sa preuve : de sorte qu'on ne pourrait tout au plus nous objecter que son silence. Mais ceux qui voudront considérer la sage dispensation que Dieu fait de ses secrets dans les divers livres de son Ecriture, ne voudront pas nous astreindre à recevoir de la seule *Epître aux Hébreux* toute notre instruction sur une matière qui n'était point nécessaire au sujet de cette Epître, puisque l'Apôtre se propose d'y expliquer la perfection du sacrifice de la croix, et non les moyens différents que Dieu nous a donnés pour nous l'appliquer.
+
+Et pour ôter toute équivoque, si l'on prend le mot *offrir*, comme il est pris dans cette *Epître*, au sens qui emporte la mort actuelle de la victime, nous confesserons hautement que Jésus-Christ n'est plus offert, ni dans l'Eucharistie, ni ailleurs. Mais comme ce même mot a une signification plus étendue dans les antres endroits de l'Ecriture, où il est souvent dit qu'on offre à Dieu ce qu'on présente devant lui, l'Eglise qui forme son langage et sa doctrine, non sur la seule *Epître aux Hébreux*, mais sur tout le corps des Ecritures, ne craint point de dire que Jésus-Christ s'offre à Dieu partout où il paraît pour nous à sa face, et qu’il s'y offre par conséquent dans l'Eucharistie, suivant les expressions des saints Pères.
+
+De penser maintenant que cette manière dont Jésus-Christ se présente à Dieu, fasse tort au sacrifice de la croix, c'est ce qui ne se peut en façon quelconque, si l'on ne veut renverser toute l'Ecriture, et particulièrement cette même *Epître* que l'on veut tant nous opposer. Car il faudrait conclure par même raison, que lorsque Jésus-Christ se dévoue à Dieu a en entrant au monde, » pour se mettre à la place des victimes « qui ne lui ont pas plu[^1], » il fait tort à l'action par laquelle il se dévoue sur la croix ; que lorsqu'il « continue de paraître pour nous devant Dieu[^2], » il affaiblit l’oblation, « par laquelle il a paru une fois par l'immolation de lui-même[^3] ; et que ne cessant d'intercéder pour nous[^4], » il accuse d'insuffisance l'intercession qu'il a faite en mourant, avec « tant de larmes et de si grands cris[^5]. »
+
+Tout cela serait ridicule. C'est pourquoi il faut entendre que Jésus-Christ, qui s'est une fois offert pour être l'humble victime de la justice divine, ne cesse de s'offrir pour nous; que la perfection infinie du sacrifice de la croix consiste en ce que tout ce qui le précède, aussi bien que ce qui le suit, s'y rapporte entièrement; que comme ce qui le précède en est la préparation, ce qui le suit en est la consommation et l'application : qu'à la vérité le paiement du prix de notre rachat ne se réitère plus, parce qu'il a été bien fait la première fois ; mais que ce qui nous applique cette rédemption se continue sans cesse ; qu'enfin il faut savoir distinguer les choses qui se réitèrent comme imparfaites, de celles qui se continuent comme parfaites et nécessaires.
+
+
+[^1]: *Hebr*., X, 5.
+
+[^2]: *Ibid.*, IX, 24.
+
+[^3]: *Hebr.*, IX, 26.
+
+[^4]: *Hebr.*, VII, 25.
+
+[^5]: *Hebr*., V, 7.

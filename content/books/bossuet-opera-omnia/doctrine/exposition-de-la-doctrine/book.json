@@ -1,0 +1,232 @@
+{
+  "id": "bossuet-exposition-de-la-doctrine",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Exposition de la doctrine de l’Église catholique",
+    "en-US": "Exposition of the Doctrine of the Catholic Church",
+    "pt-BR": "Exposição da doutrina da Igreja Católica"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Exposé dépouillé de toute polémique de la foi catholique sur les points disputés avec les protestants : le culte, l’invocation des saints, la justification, les sacrements, l’Eucharistie, la messe, l’autorité de l’Église. Rédigé en 1671 pour Turenne et approuvé par Rome, il fut l’un des écrits de controverse les plus répandus du XVIIe siècle. Avec les lettres relatives à l’Exposition et les cinq fragments de controverse. Édition Lachat (1864).",
+    "en-US": "A plain statement, stripped of polemic, of the Catholic faith on the points disputed with Protestants: worship, the invocation of saints, justification, the sacraments, the Eucharist, the Mass and the authority of the Church. Written in 1671 and approved by Rome, it was among the most widely read works of controversy of the seventeenth century. With the letters concerning the Exposition and five fragments on controversy. Lachat edition (1864).",
+    "pt-BR": "Exposição, despojada de toda polêmica, da fé católica sobre os pontos disputados com os protestantes: o culto, a invocação dos santos, a justificação, os sacramentos, a Eucaristia, a missa e a autoridade da Igreja. Redigida em 1671 e aprovada por Roma, foi um dos escritos de controvérsia mais difundidos do século XVII. Com as cartas relativas à Exposição e cinco fragmentos de controvérsia. Edição Lachat (1864)."
+  },
+  "composed": "1671",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/exposition-de-la-doctrine",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume013/001.htm to 011.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XIII, pages 001-007 and 011. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques, avertissements et approbations"
+      }
+    },
+    {
+      "id": "exposition",
+      "title": {
+        "fr-FR": "Exposition de la doctrine de l’Église catholique sur les matières de controverse"
+      },
+      "children": [
+        {
+          "id": "exposition-001",
+          "title": {
+            "fr-FR": "I. — Dessein de ce Traité"
+          }
+        },
+        {
+          "id": "exposition-002",
+          "title": {
+            "fr-FR": "II — Ceux de la religion prétendue réformée avouent que l'Eglise catholique reçoit tous les articles fondamentaux de la religion chrétienne"
+          }
+        },
+        {
+          "id": "exposition-003",
+          "title": {
+            "fr-FR": "III. — Le culte religieux se termine à Dieu seul"
+          }
+        },
+        {
+          "id": "exposition-004",
+          "title": {
+            "fr-FR": "IV. — L'invocation des Saints"
+          }
+        },
+        {
+          "id": "exposition-005",
+          "title": {
+            "fr-FR": "V. — Les images et les reliques"
+          }
+        },
+        {
+          "id": "exposition-006",
+          "title": {
+            "fr-FR": "VI. — La justification"
+          }
+        },
+        {
+          "id": "exposition-007",
+          "title": {
+            "fr-FR": "VII. — Le mérite des œuvres"
+          }
+        },
+        {
+          "id": "exposition-008",
+          "title": {
+            "fr-FR": "VIII. — Les Satisfactions, le Purgatoire, et les Indulgences"
+          }
+        },
+        {
+          "id": "exposition-009",
+          "title": {
+            "fr-FR": "IX. — Les Sacrements"
+          }
+        },
+        {
+          "id": "exposition-010",
+          "title": {
+            "fr-FR": "X. — Doctrine de l'Eglise touchant la présence réelle du corps et du sang de Jésus-Christ dans l'Eucharistie, et la manière dont l'Eglise entend ces paroles: Ceci est mon corps"
+          }
+        },
+        {
+          "id": "exposition-011",
+          "title": {
+            "fr-FR": "XI. — Explication des paroles: Faites ceci en mémoire de moi"
+          }
+        },
+        {
+          "id": "exposition-012",
+          "title": {
+            "fr-FR": "XII. — Exposition de la doctrine des Calvinistes sur la réalité"
+          }
+        },
+        {
+          "id": "exposition-013",
+          "title": {
+            "fr-FR": "XIII. — De la transsubstantiation, de l'adoration et en quel sens l'Eucharistie est un signe"
+          }
+        },
+        {
+          "id": "exposition-014",
+          "title": {
+            "fr-FR": "XIV. — Le sacrifice de la Messe"
+          }
+        },
+        {
+          "id": "exposition-015",
+          "title": {
+            "fr-FR": "XV. — L'Epître aux Hébreux"
+          }
+        },
+        {
+          "id": "exposition-016",
+          "title": {
+            "fr-FR": "XVI. — Réflexion sur la doctrine précédente"
+          }
+        },
+        {
+          "id": "exposition-017",
+          "title": {
+            "fr-FR": "XVII. — La Communion sous les deux espèces"
+          }
+        },
+        {
+          "id": "exposition-018",
+          "title": {
+            "fr-FR": "XVIII. — La parole écrite et la parole non écrite"
+          }
+        },
+        {
+          "id": "exposition-019",
+          "title": {
+            "fr-FR": "XIX. — L'autorité de l'Eglise"
+          }
+        },
+        {
+          "id": "exposition-020",
+          "title": {
+            "fr-FR": "XX. — Sentiments de MM. de la religion prétendue réformée sur l'autorité de l'Eglise"
+          }
+        },
+        {
+          "id": "exposition-021",
+          "title": {
+            "fr-FR": "XXI. — L'autorité du Saint-Siège et l'Episcopat"
+          }
+        },
+        {
+          "id": "exposition-022",
+          "title": {
+            "fr-FR": "XXII. — Conclusion de ce Traité"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lettres-relatives",
+      "title": {
+        "fr-FR": "Lettres relatives à l’Exposition"
+      }
+    },
+    {
+      "id": "fragments",
+      "title": {
+        "fr-FR": "Fragments sur des matières de controverse"
+      },
+      "children": [
+        {
+          "id": "fragment-1",
+          "title": {
+            "fr-FR": "Premier fragment : du culte qui est dû à Dieu"
+          }
+        },
+        {
+          "id": "fragment-2",
+          "title": {
+            "fr-FR": "Second fragment : du culte des images"
+          }
+        },
+        {
+          "id": "fragment-3",
+          "title": {
+            "fr-FR": "Troisième fragment : de la satisfaction de Jésus-Christ"
+          }
+        },
+        {
+          "id": "fragment-4",
+          "title": {
+            "fr-FR": "Quatrième fragment : sur l’Eucharistie"
+          }
+        },
+        {
+          "id": "fragment-5",
+          "title": {
+            "fr-FR": "Cinquième fragment : de la tradition ou de la parole non écrite"
+          }
+        }
+      ]
+    }
+  ]
+}
