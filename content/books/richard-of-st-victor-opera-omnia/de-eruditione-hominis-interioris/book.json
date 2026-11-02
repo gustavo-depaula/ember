@@ -1,0 +1,750 @@
+{
+  "id": "richard-de-eruditione-hominis-interioris",
+  "cover": "classic",
+  "name": {
+    "la": "De eruditione hominis interioris",
+    "en-US": "On the Instruction of the Inner Man",
+    "pt-BR": "Sobre a instrução do homem interior"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "De eruditione hominis interioris libri tres.",
+    "en-US": "Richard’s instruction of the inner man in three books, from Nebuchadnezzar’s dream to the rule of life: self-knowledge, the passions and the ascent to contemplation. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "A instrução do homem interior em três livros: o sonho de Nabucodonosor, o autoconhecimento, as paixões e a subida à contemplação."
+  },
+  "composed": "c. 1150-1160",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/de-eruditione-hominis-interioris",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeErHoI",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeErHoI, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Caput primum. De mystico somnio regis Nabuchodonosor, et summa intentionis totius operis."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput II. Quomodo contemplationis gratia quibusdam modo datur, modo subtrahitur, interimque amissa recuperatur."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput III. Quod in omne quod agimus, intentioni bonae studere et gratiae divinae inniti debeamus."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput IV. Quomodo secundum varios studiorum suorum successus, quidam se, vel enerviter dejiciunt, vel inaniter extollunt."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput V. Quam multis modis animus seipsum decipit, et suum sibi vitium non invitus abscondit."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput VI. Quam temere, vel frustra ex humana industria praesumimus quod ex angelica solum, seu divina revelatione exspectare debemus."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput VII. Quomodo post praeclara saepe studiorum suorum insignia mens tam saecularium quam spiritalium doctrinarum curam deponit; et se totam ad sola exteriora negotia exponit."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput VIII. Quomodo in omni proposito, vel instituto debeamus aequitatis regulam consulere, et improvide statuta ad saniorem sententiam revocare."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput IX Quod quidquid contra nos accidere solet, dispensante Deo, libero mentis arbitrio, juxta meritorum qualitatem respondet."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput X. Quibus considerationibus pensanda sunt quae circa nos accidunt."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput XI. Quomodo perturbationis nostrae tempore debeamus ad orationis remedia confugere, et ejusmodi suffragium in usum adducere."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput XII Qualibus meditationibus oportet animum ad devotionem inflammare, vel quomodo oporteat studiorum nostrorum instantiam reformare."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput XIII. Quomodo semper ad innovationem intelligentiae debeamus non nostram industriam, sed Domini magnificentiam magnificare."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput XIV. Quod triplex sit verae devotionis officium."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput XV. Quomodo debeamus aequitatis regulam arctius consulere, eo maxime tempore quo oportet quodlibet sublimitatis officium explere."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput XVI. Quibus gradibus mysteriorum cognitio proficit, et ad quantam scientiae perfectionem animus saepe merito devotionis ascendit."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput XVII. Quod ille summum devotionis culmen attingit, qui quidquid sibi molestiae etiam praeter meritum accidit, suis meritis ascribit."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput XVIII. Quod de virtute devotionis saepe minus praesumimus quam debeamus, et quod aliud est munus mysticae intelligentiae, et aliud munus mysticae doctrinae."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput XIX. Quod amissam contemplationis gratiam, melius devotione, quam investigatione recuperamus, et quod id quoque gratis obtinemus quod merito devotionis acquirimus."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput XX. Compendiosa recapitulatio praedictorum cum similitudinis attestatione."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput XXI. Quomodo oporteat unumquemque a praesumptionis suae altitudine detumescere, qui cupit in vera stabilitate quandoque fixus manere."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput XXII. De modo conditionis, vel corruptibilitatis humanae, et quod in quolibet virtutum culmine oporteat morum ruinam timere."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput XXIII. Quod de magno saepe virtutum culmine soleat meus humana gradatim in ima corruere."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput XXIV. Quomodo vel quibus corruptionis gradibus de summis in ima corruat saepe animus humanus."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput XXV. De praedictorum differentia graduum, et qualitate singulorum."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput XXVI. Dictum est quomodo defluat homo saepe de bono in malum, nunc dicitur quomodo corruat saepe de malo in malum et vitio in vitium."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput XXVII. Quibus reparationis gradibus mens saepe ex divina operatione resurgit, quae de magnis bonis in ima cadit."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput XXVIII. Quibus promotionis gradibus saepe divinitus reparetur mens quae de magno malo in deteriora labitur."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput XXIX. Quomodo vel ad quantam perfectionem saepe homo post multiplicem lapsum ex divina operatione resurgat."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput XXX. Qualem libertatem naturaliter habemus, et quatem potestatem ex gratia accipimus, et quid sit libertatis vel potestatis."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput XXXI. De diversis corruptionis gradibus, eorumque proprietatibus descendentium de bono in malum."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput XXXII. De diversis corruptionis gradibus, eorumque proprietatibus, descendentium de malo in malum."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput XXXIII. Quomodo mens in semetipsam scinditur, laceratur, confunditur, cum ad corruptionis extrema pervenitur."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput XXXIV. Quomodo divinitus promovetur homo quandoque de profundo iniquitatis ad summum fastigium charitatis."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput XXXV. Quae sit nimis sera, vel quae sit utilis et certa prudentia."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput XXXVI. Quod humiliatio instabilis, et indiscreta sit quidem reprehensione digna."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput XXXVII. Quod in nulla nostra virtute debeamus confidere vel gloriari velle."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput XXXVIII. Quam multi quaerunt virtutum scientiam, morumque doctrinam ad ostentationem, non ad utilitatem."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput XXXIX. Quod in cujuscunque virtutis exsecutione septem ista oporteat observare."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput XL. Quod saepe desiderium corrumpitur unde intelligentia illuminatur."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput XLI. Quod alia ex divina revelatione cognoscimus, alia ex ratione colligimus."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput XLII. Quod optimum sit devotionem nostram eousque proficere, quod nulla occupatio possit ejus officium interrumpere."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput XLIII. Quod etiam in necessitatis nostrae usibus nihil improvide, nihil inconsulte agere debeamus."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Caput XLIV. Quod quidquid animum per cogitationem pulsat, mentis devotionem excitare debeat."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput primum. De conscientiae securitate, vel profectuum innovatione."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput II. De intellectualis sensus illuminatione, vel quomodo contemplationis nostrae spectacula, menti soleant utilem timorem incutere."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput III. Quod alia sit gratia per quam cognoscimus judicia divina, alia per quam discernimus merita propria."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput IV. Quomodo oporteat saecularia studia deponere, et ad spiritualium investigationem convertere."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Caput V. Quomodo insistere oporteat, qui ad divinorum mysteriorum enodationem anhelat."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Caput VI. Quam sit inane mysteriorum profunda rimari, sine magisterio Spiritus sancti."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Caput VII. Quod ad mysteriorum enodationem melius proficimus devotione, quam investigatione, et quod verae devotionis sit omnia discutere, ut possit omnia dijudicare."
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Caput VIII. Quibus devotionis studiis insistere debeat, qui occultorum revelationem divinitus exspectat."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Caput IX. Quanta virtus verae devotionis sit, quae Filium Dei facit, quae animum humanum Deo conjungit."
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Caput X Quod maxime sub tempore orandi quibusdam solet intellectualis sensus aperiri."
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Caput XI. Quod saeculares scientiae debeant spiritualibus studiis subservire, et verae devotionis lucris militare."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Caput XII. Quod sit utile summae devotioni summam curam impendere."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Caput XIII. De contemplandi modo, vel qualitate, et quod aliter videntur res in suo esse, atque aliter in sola ratione, vel summa veritate."
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Caput XIV. De magnitudine gratiae mentis postmodum casurae, et in tanta plenitudine gratiae, quid soleat esse causa ruinae."
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Caput XV. De auctoritatis magnitudine mentis postmodum ruiturae."
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Caput XVI. De multitudine scientiae mentis ruiturae, et in tanta scientiae plenitudine quid esse soleat causa ruinae."
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Caput XVII. De rigore disciplinae quem solet ruitura mens saepe erga alios exercere."
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Caput XVIII. De rigore disciplinae quem solet ruitura mens apud seipsam exercere."
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Caput XIX. Quod in quolibet virtutum culmine oporteat semper morum ruinam timere."
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Caput XX. Quod quidquid circa nos agitur, Dei dispositione et angelica administratione dispensatur."
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Caput XXI. Quod nihil in nos possunt spiritus maligni nisi permissione Dei."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Caput XXII. Quomodo, vel quo ordine ad subtractionem gratiae soleat mens humana corruere."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Caput XXIII. Quomodo mens post foedam dejectionem sui soleat postmodum et ab aliis contemni, et in semetipsam resolvi."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Caput XXIV. Quod turpiter lapsos, et a sublimi dejectos divina miseratio saepe et ad poenitentiam reservat, et ad correctionem exspectat."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Caput XXV. Ad quantam pravitatem, mens quandoque obduratur quae tamen divinitus ad veniam reservatur."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Caput XXVI. Quomodo mens, quae moribus depravatur, postmodum ad errores vel fraudes imbuitur."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Caput XXVII. Quomodo mens ad omnem crudelitatem quandoque effrenatur, cum tamen divinitus ad poenitentiam reservetur."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Caput XXVIII. Quomodo malum grassatur in his qui semper in deteriora labuntur."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Caput XXIX. Quod saepe contingat mentem omniformiter corrumpi, quam tamen constat ad poenitentiam ex divina miseratione reservari."
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Caput XXX. Quomodo soleat multorum utilitati deservire quod quosdam contingat de sublimi corruere."
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Caput XXXI. Quomodo addiscant quidam ex proprio, quidam ex alieno casu, quod nihil suis viribus attribuere debeant."
+          }
+        },
+        {
+          "id": "c076",
+          "title": {
+            "la": "Caput XXXII. Quod ex modo humilitatis pendet mensura magnitudinis."
+          }
+        },
+        {
+          "id": "c077",
+          "title": {
+            "la": "Caput XXXIII. Quod aliud sit divina judicia per contemplationem cernere, atque aliud eorum rationem perpendere."
+          }
+        },
+        {
+          "id": "c078",
+          "title": {
+            "la": "Caput XXXIV. Quod eorum notitiam saepe merito devotionis acquirimus quae nulla nostra sagacitate, nullo nostro studio penetrare valemus."
+          }
+        },
+        {
+          "id": "c079",
+          "title": {
+            "la": "Caput XXXV. Quod animus dum ex multa consideratione infirmitatis suae humiliatur, saepe ad sublimem intelligentiam divinitus illuminatur."
+          }
+        },
+        {
+          "id": "c080",
+          "title": {
+            "la": "Caput XXXVI. De vera mentis devotione, quomodo debeat semetipsam discutere."
+          }
+        },
+        {
+          "id": "c081",
+          "title": {
+            "la": "Caput XXXVII. Quomodo devotio quandoque totum interioris hominis statum deprehendat, et tam praesentem perspiciat, quam futurum provideat."
+          }
+        },
+        {
+          "id": "c082",
+          "title": {
+            "la": "Caput XXXVIII. Quomodo imminenti periculo repugnare oporteat, vel quantum eleemosyna valeat, si simplici intentione fiat."
+          }
+        },
+        {
+          "id": "c083",
+          "title": {
+            "la": "Caput XXXIX. Quam patienter, vel misericorditer correptionem nostram Dei longanimitas exspectat, vel quomodo perversa mens ejus patientia abuti soleat."
+          }
+        },
+        {
+          "id": "c084",
+          "title": {
+            "la": "Caput XL. De typo arrogantis animae, vel quomodo soleat semetipsam magnificare."
+          }
+        },
+        {
+          "id": "c085",
+          "title": {
+            "la": "Caput XLI. Quam subito, saepe, et quam profunde labuntur, qui patientia Dei abutuntur."
+          }
+        },
+        {
+          "id": "c086",
+          "title": {
+            "la": "Caput XLII. Quod una, eademque sententia per contemplationem praenoscitur, per timorem intentatur, per desperationem confirmatur."
+          }
+        },
+        {
+          "id": "c087",
+          "title": {
+            "la": "Caput XLIII. Quod sine divina protectione nullus valeat suis passionibus, vel malignis suggestionibus resistere."
+          }
+        },
+        {
+          "id": "c088",
+          "title": {
+            "la": "Caput XLIV. De quanto virtutum culmine contingat in ima vitiorum corruere."
+          }
+        },
+        {
+          "id": "c089",
+          "title": {
+            "la": "Caput XLV. Quomodo interim etiam ad majorem gloriam quandoque resurgit qui prius de sublimi cecidit."
+          }
+        },
+        {
+          "id": "c090",
+          "title": {
+            "la": "Caput XLVI. Quomodo solum Deum glorificat, qui se ipsum tam impudenter magnificabat."
+          }
+        },
+        {
+          "id": "c091",
+          "title": {
+            "la": "Caput XLVII. Quid agat superba gloriatio, vel quid efficiat devota glorificatio."
+          }
+        },
+        {
+          "id": "c092",
+          "title": {
+            "la": "Caput XLVIII. Quomodo per discretionem judicii, vel circumspectionem sui solet morum disciplina reformari."
+          }
+        },
+        {
+          "id": "c093",
+          "title": {
+            "la": "Caput XLIX. Quomodo debeat dejecta mens semetipsam discutere, et ad pristinum fervorem innovare."
+          }
+        },
+        {
+          "id": "c094",
+          "title": {
+            "la": "Caput L. Quomodo ex virtute humilitatis animus in bono roboratur, et ad boni perseverantiam solidatur."
+          }
+        },
+        {
+          "id": "c095",
+          "title": {
+            "la": "Caput LI. Quomodo vel qua utilitate oporteat Deum laudare."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius"
+      },
+      "children": [
+        {
+          "id": "c096",
+          "title": {
+            "la": "Caput primum. De triplici vitio mutabilitatis, et inconstantia mentis."
+          }
+        },
+        {
+          "id": "c097",
+          "title": {
+            "la": "Caput II. Qualis, vel quanta conflictio tentationis surgat ex inconstantia mentis."
+          }
+        },
+        {
+          "id": "c098",
+          "title": {
+            "la": "Caput III. Quod bestialiter vivendi modus sit quadripartitus."
+          }
+        },
+        {
+          "id": "c099",
+          "title": {
+            "la": "Caput IV. Quibus corruptionis gradibus corruere solet saepe animus humanus."
+          }
+        },
+        {
+          "id": "c100",
+          "title": {
+            "la": "Caput V. De vitio insolentiae."
+          }
+        },
+        {
+          "id": "c101",
+          "title": {
+            "la": "Caput VI. Quibus insolentiae gradibus paulatim corrumpitur animus humanus."
+          }
+        },
+        {
+          "id": "c102",
+          "title": {
+            "la": "Caput VII. Quomodo ex vitio insolentiae, cadat homo in vitium invidentiae."
+          }
+        },
+        {
+          "id": "c103",
+          "title": {
+            "la": "Caput VIII. De vitio invidentiae."
+          }
+        },
+        {
+          "id": "c104",
+          "title": {
+            "la": "Caput IX. De malo invidentiae quibus soleat gradibus accrescere."
+          }
+        },
+        {
+          "id": "c105",
+          "title": {
+            "la": "Caput X. Quomodo ex vitio invidentiae mens cadat in vitium fraudulentiae."
+          }
+        },
+        {
+          "id": "c106",
+          "title": {
+            "la": "Caput XI. De vitio fraudulentiae."
+          }
+        },
+        {
+          "id": "c107",
+          "title": {
+            "la": "Caput XII. De malo fraudulentiae, quam sit multiforme in opere."
+          }
+        },
+        {
+          "id": "c108",
+          "title": {
+            "la": "Caput XIII. De malo fraudulentiae, quam sit multiplex intentione."
+          }
+        },
+        {
+          "id": "c109",
+          "title": {
+            "la": "Caput XIV. Quomodo ex vitio fraudulentiae mens cadat in vitium impudentiae."
+          }
+        },
+        {
+          "id": "c110",
+          "title": {
+            "la": "Caput XV. De vitio impudentiae."
+          }
+        },
+        {
+          "id": "c111",
+          "title": {
+            "la": "Caput XVI. Quomodo mens obduratur per impudentiae vitium, et primo contra Deum."
+          }
+        },
+        {
+          "id": "c112",
+          "title": {
+            "la": "Caput XVII. Quomodo per impudentiae vitium, mens obdurescit apud semetipsam."
+          }
+        },
+        {
+          "id": "c113",
+          "title": {
+            "la": "Caput XVIII. Quomodo per impudentiae vitium, mens obdurescit erga proximum."
+          }
+        },
+        {
+          "id": "c114",
+          "title": {
+            "la": "Caput XIX. Quomodo mens cum in profundum malorum venerit, saepe etiam in desperationem cadit."
+          }
+        }
+      ]
+    }
+  ]
+}
