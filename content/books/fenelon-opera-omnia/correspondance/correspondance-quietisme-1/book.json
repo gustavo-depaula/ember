@@ -1,0 +1,242 @@
+{
+  "id": "fenelon-correspondance-quietisme-1",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance sur l’affaire du quiétisme I (1693-1697)",
+    "en-US": "Correspondence on the Quietism Affair I (1693-1697)",
+    "pt-BR": "Correspondência sobre o caso do quietismo I (1693-1697)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Première partie de la sixième section : la correspondance de Fénelon, de Bossuet, de Mme de Maintenon, de Mme Guyon et de leur entourage pendant l’affaire du quiétisme (tome 9 de l’édition). Les lettres adressées à Fénelon sont imprimées avec les siennes là où l’édition les place.",
+    "en-US": "First part of the sixth section: the correspondence of Fénelon, Bossuet, Madame de Maintenon, Madame Guyon and their circle during the Quietism affair (volume 9 of the edition). Letters written to Fénelon are printed with his own where the edition places them.",
+    "pt-BR": "Primeira parte da sexta seção: a correspondência de Fénelon, Bossuet, da sra. de Maintenon, da sra. Guyon e de seu círculo durante o caso do quietismo (tomo 9 da edição). As cartas escritas a Fénelon são impressas com as dele onde a edição as coloca."
+  },
+  "composed": "1693–1699",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/correspondance-quietisme-1",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 9, tome 9, section VI; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-correspondance",
+      "title": {
+        "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié)"
+      },
+      "children": [
+        {
+          "id": "01-correspondance-01",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 1"
+          }
+        },
+        {
+          "id": "01-correspondance-02",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 2"
+          }
+        },
+        {
+          "id": "01-correspondance-03",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 3"
+          }
+        },
+        {
+          "id": "01-correspondance-04",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 4"
+          }
+        },
+        {
+          "id": "01-correspondance-05",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 5"
+          }
+        },
+        {
+          "id": "01-correspondance-06",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 6"
+          }
+        },
+        {
+          "id": "01-correspondance-07",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 7"
+          }
+        },
+        {
+          "id": "01-correspondance-08",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 8"
+          }
+        },
+        {
+          "id": "01-correspondance-09",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 9"
+          }
+        },
+        {
+          "id": "01-correspondance-10",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 10"
+          }
+        },
+        {
+          "id": "01-correspondance-11",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 11"
+          }
+        },
+        {
+          "id": "01-correspondance-12",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 12"
+          }
+        },
+        {
+          "id": "01-correspondance-13",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 13"
+          }
+        },
+        {
+          "id": "01-correspondance-14",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 14"
+          }
+        },
+        {
+          "id": "01-correspondance-15",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 15"
+          }
+        },
+        {
+          "id": "01-correspondance-16",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 16"
+          }
+        },
+        {
+          "id": "01-correspondance-17",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 17"
+          }
+        },
+        {
+          "id": "01-correspondance-18",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 18"
+          }
+        },
+        {
+          "id": "01-correspondance-19",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 19"
+          }
+        },
+        {
+          "id": "01-correspondance-20",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 20"
+          }
+        },
+        {
+          "id": "01-correspondance-21",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 21"
+          }
+        },
+        {
+          "id": "01-correspondance-22",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 22"
+          }
+        },
+        {
+          "id": "01-correspondance-23",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 23"
+          }
+        },
+        {
+          "id": "01-correspondance-24",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 24"
+          }
+        },
+        {
+          "id": "01-correspondance-25",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 25"
+          }
+        },
+        {
+          "id": "01-correspondance-26",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 26"
+          }
+        },
+        {
+          "id": "01-correspondance-27",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 27"
+          }
+        },
+        {
+          "id": "01-correspondance-28",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 28"
+          }
+        },
+        {
+          "id": "01-correspondance-29",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 29"
+          }
+        },
+        {
+          "id": "01-correspondance-30",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 30"
+          }
+        },
+        {
+          "id": "01-correspondance-31",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 31"
+          }
+        },
+        {
+          "id": "01-correspondance-32",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 9, première moitié), partie 32"
+          }
+        }
+      ]
+    }
+  ]
+}
