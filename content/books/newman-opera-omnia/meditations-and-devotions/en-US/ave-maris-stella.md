@@ -1,0 +1,9 @@
+# Ave Maris Stella
+
+*Hail, Star of the Sea*
+
+Truly art thou a star, O Mary! Our Lord indeed Himself, Jesus Christ, He is the truest and chiefest Star, the bright and morning Star, as St. John calls Him; that Star which was foretold from the beginning as destined to rise out of Israel, and which was displayed in figure by the star which appeared to the wise men in the East. But if the wise and learned and they who teach men in justice shall shine as stars for ever and ever; if the angels of the Churches are called stars in the Hand of Christ; if He honoured the apostles even in the days of their flesh by a title, calling them lights of the world; if even those angels who fell from heaven are called by the beloved disciple stars; if lastly all the saints in bliss are called stars, in that they are like stars differing from stars in glory; therefore most assuredly, without any derogation from the honour of our Lord, is Mary His mother called the Star of the Sea, and the more so because even on her head she wears a crown of twelve stars. Jesus is the Light of the world, illuminating every man who cometh into it, opening our eyes with the gift of faith, making souls luminous by His Almighty grace; and Mary is the Star, shining with the light of Jesus, fair as the moon, and special [^2] as the sun, the star of the heavens, which it is good to look upon, the star of the sea, which is welcome to the tempest-tossed, at whose smile the evil spirit flies, the passions are hushed, and peace is poured upon the soul.
+
+Hail then, Star of the Sea, we joy in the recollection of thee. Pray for us ever at the throne of Grace; plead our cause, pray with us, present our prayers to thy Son and Lord—now and in the hour of death, Mary be thou our help.
+
+[^2]: The Cardinal’s MS. has “special” as being translation of the Latin “electa.”

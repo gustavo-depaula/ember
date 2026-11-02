@@ -1,0 +1,25 @@
+# Introductory: May the Month of Promise and of Joy
+
+## May 1 — May the Month of Promise
+
+Why is May chosen as the month in which we exercise a special devotion to the Blessed Virgin?
+
+The first reason is because it is the time when the earth bursts forth into its fresh foliage and its green grass after the stern frost and snow of winter, and the raw atmosphere and the wild wind and rain of the early spring. It is because the blossoms are upon the trees and the flowers are in the gardens. It is because the days have got long, and the sun rises early and sets late. For such gladness and joyousness of external Nature is a fit attendant on our devotion to her who is the Mystical Rose and the House of Gold.
+
+A man may say, "True; but in this climate we have sometimes a bleak, inclement May." This cannot be denied; but still, so much is true that at least it is the month of *promise* and of *hope*. Even though the weather happen to be bad, it is the month that *begins* and heralds in the summer. We know, for all that may be unpleasant in it, that fine weather is coming, sooner or later. "Brightness and beautifulness shall," in the Prophet's words, "appear at the end, and shall not lie: if it make delay, wait for it, for it shall surely come, and shall not be slack."
+
+May then is the month, if not of fulfilment, at least of *promise*; and is not this the very aspect in which we most suitably regard the Blessed Virgin, Holy Mary, to whom this month is dedicated?
+
+The Prophet says, "There shall come forth a rod out of the root of Jesse, and a flower shall rise out of his root. Who is the flower but our Blessed Lord? Who is the rod, or beautiful stalk or stem or plant out of which the flower grows, but Mary, Mother of our Lord, Mary, Mother of God?
+
+It was prophesied that God should come upon earth. When the time was now full, how was it announced? It was announced by the Angel coming to Mary. "Hail, full of grace," said Gabriel, "the Lord is with thee; blessed art thou among women." She then was the sure *promise* of the coming Saviour, and therefore May is by a special title her month.
+
+## May 2 — May the Month of Joy
+
+Why is May called the month of Mary, and especially dedicated to her? Among other reasons there is this, that of the Church's year, the ecclesiastical year, it is at once the most sacred and the most festive and joyous portion. Who would wish February, March, or April, to be the month of Mary, considering that it is the time of Lent and penance? Who again would choose December, the Advent season—a time of hope, indeed, because Christmas is coming, but a time of fasting too? Christmas itself does not last for a month; and January has indeed the joyful Epiphany, with its Sundays in succession; but these in most years are cut short by the urgent coming of Septuagesima.
+
+May on the contrary belongs to the Easter season, which lasts fifty days, and in that season the whole of May commonly falls, and the first half always. The great Feast of the Ascension of our Lord into heaven is always in May, except once or twice in forty years. Pentecost, called also Whit-Sunday, the Feast of the Holy Ghost, is commonly in May, and the Feasts of the Holy Trinity and Corpus Christi are in May not unfrequently. May, therefore, is the time in which there are such frequent Alleluias, because Christ has risen from the grave, Christ has ascended on high, and God the Holy Ghost has come down to take His place.
+
+Here then we have a reason why May is dedicated to the Blessed Mary. She is the first of creatures, the most acceptable child of God, the dearest and nearest to Him. It is fitting then that this month should be hers, in which we especially glory and rejoice in His great Providence to us, in our redemption and sanctification in God the Father, God the Son, and God the Holy Ghost.
+
+But Mary is not only the acceptable handmaid of the Lord. She is also Mother of His Son, and the Queen of all Saints, and in this month the Church has placed the feasts of some of the greatest of them, as if to bear her company. First, however, there is the Feast of the Holy Cross, on the 3d of May, when we venerate that Precious Blood in which the Cross was bedewed at the time of our Lord's Passion. The Archangel St. Michael, and three Apostles, have feast-days in this month: St. John, the beloved disciple, St. Philip, and St. James. Seven Popes, two of them especially famous, St. Gregory VII. and St. Pius V.; also two of the greatest Doctors, St. Athanasius and St. Gregory Nazianzen; two holy Virgins especially favoured by God, St. Catherine of Sienna (as her feast is kept in England), and St. Mary Magdalen of Pazzi; and one holy woman most memorable in the annals of the Church, St. Monica, the Mother of St. Augustine. And above all, and nearest to us in this Church, our own holy Patron and Father, St. Philip, occupies, with his Novena and Octave, fifteen out of the whole thirty-one days of the month. These are some of the choicest fruits of God's manifold grace, and they form the court of their glorious Queen.

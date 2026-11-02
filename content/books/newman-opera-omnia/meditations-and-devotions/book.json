@@ -1,0 +1,354 @@
+{
+  "id": "newman-meditations-and-devotions",
+  "cover": "classic",
+  "name": {
+    "en-US": "Meditations and Devotions",
+    "pt-BR": "Meditações e Devoções"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "The devotional writings of St. John Henry Newman, gathered after his death by Fr. William P. Neville of the Birmingham Oratory (1893). Part I: the meditations for each day of May on the Litany of Loreto, the memorandum on the Immaculate Conception, and the Novena and Litany of St. Philip. Part II: the Stations of the Cross, the Good Friday meditations, the litanies, and short prayers (Anima Christi, Ave Maris Stella, a Triduo to St. Joseph, a prayer for a happy death). Part III: the Meditations on Christian Doctrine, with a visit to the Blessed Sacrament.",
+    "pt-BR": "Os escritos devocionais de São John Henry Newman, reunidos após a sua morte pelo pe. William P. Neville, do Oratório de Birmingham (1893). Parte I: as meditações para cada dia de maio sobre a Ladainha de Nossa Senhora, o memorando sobre a Imaculada Conceição e a novena e ladainha de São Filipe. Parte II: a Via-Sacra, as meditações da Sexta-feira Santa, as ladainhas e orações breves (Anima Christi, Ave Maris Stella, um tríduo a São José, uma oração por uma boa morte). Parte III: as Meditações sobre a doutrina cristã, com uma visita ao Santíssimo Sacramento."
+  },
+  "composed": "1848-1893",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/meditations-and-devotions",
+  "editions": {
+    "en-US": {
+      "editor": "William P. Neville (Birmingham Oratory)",
+      "year": 1893
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/meditations/index.html",
+      "edition": "Meditations and Devotions of the late Cardinal Newman, ed. Rev. W. P. Neville (London: Longmans, Green, 1893), as transcribed by the Newman Reader (National Institute for Newman Studies), pages meditations1 to meditations12.",
+      "description": "All three parts, 48 chapters: Newman Reader page numbers, navigation, and its editorial remarks are dropped; Newman's and the editor's notes are kept as footnotes (17); litanies and prayers keep their line breaks. Checked by sampled 6-word passages against the Internet Archive scan MeditationsAndDevotionsOf (Google Books copy of the 1893 edition; OCR-noise differences only). Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the volume appeared in 1893 (and earlier editions of 1893-1953 and earlier are US-public-domain by date). The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law, and the text was checked against the independent Internet Archive scan."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: The Month of May, the Novena and the Litany of St. Philip",
+        "pt-BR": "Parte I: O mês de maio, a novena e a ladainha de São Filipe"
+      },
+      "children": [
+        {
+          "id": "may-introductory",
+          "title": {
+            "en-US": "Introductory: May the Month of Promise and of Joy"
+          }
+        },
+        {
+          "id": "may-immaculate-conception",
+          "title": {
+            "en-US": "On the Immaculate Conception"
+          }
+        },
+        {
+          "id": "may-annunciation",
+          "title": {
+            "en-US": "On the Annunciation"
+          }
+        },
+        {
+          "id": "may-dolours",
+          "title": {
+            "en-US": "Our Lady's Dolours"
+          }
+        },
+        {
+          "id": "may-assumption",
+          "title": {
+            "en-US": "On the Assumption"
+          }
+        },
+        {
+          "id": "memorandum-immaculate-conception",
+          "title": {
+            "en-US": "Memorandum on the Immaculate Conception"
+          }
+        },
+        {
+          "id": "novena-st-philip",
+          "title": {
+            "en-US": "Novena of St. Philip"
+          }
+        },
+        {
+          "id": "litany-st-philip-i",
+          "title": {
+            "en-US": "Litany of St. Philip"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: Stations of the Cross, Litanies and Prayers",
+        "pt-BR": "Parte II: Via-Sacra, ladainhas e orações"
+      },
+      "children": [
+        {
+          "id": "stations",
+          "title": {
+            "en-US": "Meditations on the Stations of the Cross"
+          }
+        },
+        {
+          "id": "stations-short",
+          "title": {
+            "en-US": "Short Meditations on the Stations of the Cross"
+          }
+        },
+        {
+          "id": "good-friday",
+          "title": {
+            "en-US": "Twelve Meditations and Intercessions for Good Friday"
+          }
+        },
+        {
+          "id": "eight-days",
+          "title": {
+            "en-US": "Meditations for Eight Days"
+          }
+        },
+        {
+          "id": "litanies",
+          "title": {
+            "en-US": "Litanies"
+          }
+        },
+        {
+          "id": "litany-st-philip-ii",
+          "title": {
+            "en-US": "Litany of St. Philip"
+          }
+        },
+        {
+          "id": "anima-christi",
+          "title": {
+            "en-US": "Anima Christi"
+          }
+        },
+        {
+          "id": "heart-of-mary",
+          "title": {
+            "en-US": "The Heart of Mary"
+          }
+        },
+        {
+          "id": "rosary-sunday",
+          "title": {
+            "en-US": "A Short Service for Rosary Sunday"
+          }
+        },
+        {
+          "id": "ave-maris-stella",
+          "title": {
+            "en-US": "Ave Maris Stella"
+          }
+        },
+        {
+          "id": "triduo-st-joseph",
+          "title": {
+            "en-US": "A Triduo to St. Joseph"
+          }
+        },
+        {
+          "id": "four-prayers-st-philip",
+          "title": {
+            "en-US": "Four Prayers to St. Philip"
+          }
+        },
+        {
+          "id": "short-road",
+          "title": {
+            "en-US": "A Short Road to Perfection"
+          }
+        },
+        {
+          "id": "light-of-truth",
+          "title": {
+            "en-US": "Prayer for the Light of Truth"
+          }
+        },
+        {
+          "id": "happy-death",
+          "title": {
+            "en-US": "Prayer for a Happy Death"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III: Meditations on Christian Doctrine",
+        "pt-BR": "Parte III: Meditações sobre a doutrina cristã"
+      },
+      "children": [
+        {
+          "id": "visit-blessed-sacrament",
+          "title": {
+            "en-US": "A Short Visit to the Blessed Sacrament before Meditation"
+          }
+        },
+        {
+          "id": "hope-creator",
+          "title": {
+            "en-US": "I. Hope in God: Creator"
+          }
+        },
+        {
+          "id": "hope-redeemer",
+          "title": {
+            "en-US": "II. Hope in God: Redeemer"
+          }
+        },
+        {
+          "id": "god-and-the-soul",
+          "title": {
+            "en-US": "III. God and the Soul"
+          }
+        },
+        {
+          "id": "sin",
+          "title": {
+            "en-US": "IV. Sin"
+          }
+        },
+        {
+          "id": "power-of-the-cross",
+          "title": {
+            "en-US": "V. The Power of the Cross"
+          }
+        },
+        {
+          "id": "resurrection",
+          "title": {
+            "en-US": "VI. The Resurrection"
+          }
+        },
+        {
+          "id": "god-with-us",
+          "title": {
+            "en-US": "VII. God with Us"
+          }
+        },
+        {
+          "id": "god-all-sufficient",
+          "title": {
+            "en-US": "VIII. God All-Sufficient"
+          }
+        },
+        {
+          "id": "god-alone-unchangeable",
+          "title": {
+            "en-US": "IX. God Alone Unchangeable"
+          }
+        },
+        {
+          "id": "god-is-love",
+          "title": {
+            "en-US": "X. God is Love"
+          }
+        },
+        {
+          "id": "sanctity-of-god",
+          "title": {
+            "en-US": "XI. The Sanctity of God"
+          }
+        },
+        {
+          "id": "forty-days",
+          "title": {
+            "en-US": "XII. The Forty Days’ Teaching"
+          }
+        },
+        {
+          "id": "ascension",
+          "title": {
+            "en-US": "XIII. The Ascension"
+          }
+        },
+        {
+          "id": "paraclete",
+          "title": {
+            "en-US": "XIV. The Paraclete"
+          }
+        },
+        {
+          "id": "holy-sacrifice",
+          "title": {
+            "en-US": "XV. The Holy Sacrifice"
+          }
+        },
+        {
+          "id": "sacred-heart",
+          "title": {
+            "en-US": "XVI. The Sacred Heart"
+          }
+        },
+        {
+          "id": "infinite-perfection",
+          "title": {
+            "en-US": "XVII. The Infinite Perfection of God"
+          }
+        },
+        {
+          "id": "infinite-knowledge",
+          "title": {
+            "en-US": "XVIII. The Infinite Knowledge of God"
+          }
+        },
+        {
+          "id": "providence",
+          "title": {
+            "en-US": "XIX. The Providence of God"
+          }
+        },
+        {
+          "id": "all-in-all",
+          "title": {
+            "en-US": "XX. God is All in All"
+          }
+        },
+        {
+          "id": "incommunicable-perfection",
+          "title": {
+            "en-US": "XXI. God the Incommunicable Perfection"
+          }
+        },
+        {
+          "id": "god-communicated",
+          "title": {
+            "en-US": "XXII. God Communicated to Us"
+          }
+        },
+        {
+          "id": "sole-stay",
+          "title": {
+            "en-US": "XXIII. God the Sole Stay for Eternity"
+          }
+        },
+        {
+          "id": "conclusion",
+          "title": {
+            "en-US": "Conclusion: Written in Prospect of Death"
+          }
+        }
+      ]
+    }
+  ]
+}
