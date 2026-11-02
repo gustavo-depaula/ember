@@ -1,343 +1,5 @@
 # Catéchisme (3)
 
-CHAPITRE VII. De la vie de Jésus.
-
-D.-- Quel est le Père de tous les chrétiens?
-
-R.--C'est Notre-Seigneur Jésus-Christ.
-
-16 Rigoureusement parlant, la damnation n'implique que la privation de la vision intuitive de Dieu, qui dans l'ordre actuel est la fin de l'homme. Dès lors, les entants qui meurent sans baptême, quand même ils jouiraient d'un certain bonheur naturel, comme on le pense assez ordinairement, n'en sont pas moins damnés. « In hoc ortie Deus non praestituit hominibus alium finem nisi supernaturalem; unde qui hoc fine excedit, privatur beatitudine a Deo ordinata, aversus est a suo fine ultimo, affectus culpa indelebili, vere damnatus. » Pesch, Praetectiones dogmaticae, tom 3, n. 287. La question de la peine due au péché originel dans l'autre vie a d'ailleurs reçu des solutions diverses. Plusieurs Pères de l'Église latine et plusieurs théologiens, notamment les Augustiniens, et au temps du P. Eudes, le P. Petau, ont pensé que le péché originel non effacé serait puni dans l'autre vie de peines sensibles quoique très légères. Nous avons dit dans l'Introduction au Royaume de Jésus, que le P. Eudes étend aussi loin que le permet l'orthodoxie les conséquences du péché originel, et que sur cette question il incline vers les théories augustiniennes qui étaient très en faveur de son temps. Est-ce ici le cas ? Nous ne voudrions ni le nier, ni l'affirmer catégoriquement.
-
-D.--Pourquoi?
-
-R.-- Parce qu'il nous a donné l'être et la vie par son sang et sa mort.
-
-D.--Les chrétiens sont-ils obligés de connaître la vie de Jésus-Christ ?
-
-R.-- Oui, autrement il ne les connaîtra point pour ses enfants à l'heure de la mort.
-
-D.-- Quel est le plus grand péché des chrétiens?
-
-R.-- C'est l'ingratitude horrible dans laquelle ils vivent au regard de leur Père, qui est Jésus.
-
-D.-- En quoi consiste cette ingratitude ?
-
-R.-- En ce que, non seulement ils ne se soucient point le lui rendre les reconnaissances et services qu'ils lui doivent, pour les choses grandes qu'il a faites pour eux; mais même qu'ils négligent et méprisent de savoir quelle est sa vie, et ce qu'il a fait et souffert pour leur amour durant le cours de sa vie.
-
-D.-- Voulez-vous être du nombre de ces misérables ingrats ?
-
-R.--Dieu m'en veuille garder.
-
-D.-- Apprenez donc quelle est la vie de votre vrai Père qui est Jésus, et pour cet effet, ditesmoi, je vous prie, combien il y a de sortes de vies en Notre-Seigneur Jésus-Christ ?
-
-R.--Il y en a trois, qui pourtant ne sont qu'une seule, divisée en trois états.
-
-D.-- Quelle est la première?
-
-R.--C'est sa vie divine et éternelle.
-
-D.-- Quelle est la seconde ?
-
-R.-- C`est sa vie humaine et temporelle.
-
-D.-- Quelle est la troisième?
-
-R.-- C'est sa vie glorieuse et immortelle.
-
-De la Vie divine et éternelle de Jésus.
-
-D.-- Qu'est-ce que la vie divine et éternelle du Fils de Dieu?
-
-R.-- C'est la vie qu'il a eue dans sa divinité et dans le sein de son Père, avant son incarnation et avant la création du monde.
-
-D.-- Combien de temps (s'il est permis d`user de ce mot) a duré cette vie divine ?
-
-R.--Une éternité.
-
-D --Que faisait-il durant cette éternité dans le sein de son Père?
-
-R.--Il contemplait, louait et aimait son Père.
-
-D.-- Quoi encore ?
-
-R.--Il pensait a nous et nous aimait, et il s'offrait à son Père pour venir un jour en la terre, afin d'y faire et souffrir ce que depuis il a fait et souffert.
-
-De la Vie humaine et temporelle de Jésus.
-
-D.-- Qu'est-ce que la vie humaine et temporelle de Notre-Seigneur ?
-
-R.--C'est la vie qu'il a eue en la terre, depuis son Incarnation jusqu'à sa mort.
-
-D.-- Combien de temps a duré sa vie temporelle?
-
-R --Trente-quatre ans, à compter depuis son Incarnation; et trente-trois ans trois mois, depuis sa naissance. (Bérulle, Grandeurs de Jésus(1866), p.49)
-
-D.-- Combien de temps a-t-il été dans les entrailles de la sainte Vierge ?
-
-R.-- Neuf mois.
-
-D.--Au bout des neuf mois, en quelle ville est-il né?
-
-R.--En la ville de Bethléem.
-
-D.-- En quel endroit ?
-
-R. -- Dans une pauvre étable.
-
-D.- -En quel mois de l'année ?
-
-R. --Au mois de décembre.
-
-D. -- En quel jour du mois ?
-
-R.-- Le vingt-cinquième, qui est le jour de la fête de Noël.
-
-D.-- À quelle heure est-il né ?
-
-R.-- À l'heure de minuit.
-
-D.-- En quelle manière la Sainte Vierge l' a-t-elle enfanté?
-
-R.--Sans aucune douleur, mais avec une très grand joie, et demeurant toujours Vierge.
-
-D. --Après sa naissance comment l' a-t-on nommé ?
-
-R.--Jésus, c'est-à-dire Sauveur.
-
-D.-- Qui lui a donné ce beau nom?
-
-R.-- La sainte Vierge et saint Joseph, par la volonté du Père éternel.
-
-D.-- Quand est-ce qu'ils le lui ont donné ?
-
-R.-- Huit jours après sa naissance, au jour de la Circoncision.
-
-D.-- Saint Joseph était-il le père de notre Sauveur ?
-
-R.-- Non, selon la nature, mais son père nourricier.
-
-D.-- Est-ce un grand saint que saint Joseph ?
-
-R.-- Très grand, car c'est le père nourricier de Jésus et l'époux sacré de la Mère de Jésus.
-
-D.-- Combien de jours l'Enfant Jésus a-t-il demeuré dans l'étable après sa naissance ?
-
-R.-- Quarante jours 17 .
-
-D.-- Après cela où l'a-t-on porté ?
-
-R.-- Au temple de Jérusalem.
-
-D.-- Qui l'y a porté ?
-
-R.-- Sa très sainte Mère et saint Joseph.
-
-D.-- Pourquoi a-t-il voulu qu'on l'ait porté au Temple ?
-
-R.-- Afin de s'offrir pour nous publiquement à son Père éternel, et d'obéir à la loi.
-
-D.-- Ensuite de cela, où est-il allé ?
-
-R.-- Il s'en est fui en Égypte, avec sa bienheureuse Mère et Saint Joseph qui l'y ont porté.
-
-D.-- Pourquoi cela ?
-
-R.-- Pour éviter la cruauté d'Hérode, qui le voulait massacrer.
-
-D.-- Combien de temps a-t-il demeuré en Égypte ?
-
-R.-- Sept ans.
-
-D.-- Au sortir d'Égypte, où est-il allé ?
-
-R.-- Il est revenu en Judée, en la province de Galilée, en la ville de Nazareth, là où il avait été conçu.
-
-D.-- Après son retour de Nazareth, qu'a-t-il fait ?
-
-R.-- A l'âge de douze ans, il alla en Jérusalem avec sa sainte Mère et saint Joseph; là où il demeura trois jours, disputant avec les Docteurs dans le Temple; et puis s'en retourna à Nazareth.
-
-D.-- Jusques à quel âge demeura-t-il en Nazareth ?
-
-R.-- Jusques à l'âge de trente ans.
-
-D.-- Avec qui demeurait-il durant tout ce temps-là ?
-
-R.-- Avec la glorieuse Vierge et saint Joseph.
-
-D.-- Que faisait-il ?
-
-R.-- Il leur obéissait en tout et partout, et gagnait sa vie à la peine de ses bras, travaillant avec saint Joseph au métier de charpentier.
-
-D.-- Prêchait-il point pour lors, et faisait-il point de miracles ?
-
-17 On croit généralement qu'après la circoncision, Joseph et Marie s'établirent dans une humble maison de Bethléem, et cette opinion, concorde avec le texte de S. Mathieu qui montre les Mages entrant, non dans une étable, mais dans une maison: Et intrantes domum. Matth. II, 11.
-
-R.-- Non, mais il menait une vie cachée, inconnue, méprisée et laborieuse.
-
-D.-- À l'âge de trente ans, qu'a-t-il fait ?
-
-R.-- Il s'est fait baptiser par saint Jean-Baptiste; puis s'est retiré au désert; là où il a été quarante jours sans boire ni manger, couchant dehors et sur la terre.
-
-D.-- Après ces quarante jours, qu'a-t-il fait ?
-
-R.-- Il a commence à prêcher, à faire des miracles, à choisir douze apôtres, et à aller par les villes et villages pour annoncer la parole de son Père et convertir les âmes.
-
-D.-- Combien de temps a-t-il fait cela ?
-
-R.-- Trois ans et trois mois.
-
-D.-- Comment a-t-il fini sa vie ?
-
-R.-- Au milieu de mille tourments et sur une croix.
-
-D.-- Qui l'a crucifié et fait mourir ?
-
-R.-- Les Juifs et nos péchés.
-
-D.-- En quel mois de l'année est-il mort ?
-
-R.-- Au mois de Mars.
-
-D.-- En quel jour de ce mois ?
-
-R.-- Le vingt-cinquième, au même jour qu'il s'était incarné.
-
-D.--En quel jour de la semaine.
-
-R.--Au vendredi.
-
-D.--À quelle heure ?
-
-R.--A trois heures après midi.
-
-D.--Combien de temps a-t-il demeuré sur la croix avant de mourir ?
-
-R.--Trois heures.
-
-D.--Son âme étant séparée de son corps, ou est-elle allée ?
-
-R.--Elle est descendue aux Enfers, c'est-à-dire au Limbes , où étaient les saints Pères.
-
-D.--Pourquoi ?
-
-R.--Pour les délivrer et les mener dans le ciel 18 .
-
-D.-- Où a-t-on mis son corps ?
-
-R.-- Dans un sépulcre.
-
-D.-- Combien de temps y a-t-il été ?
-
-R.-- Quarante heures! ensuite de quoi il est ressuscité .
-
-Voilà la seconde vie du Fils de Dieu, qui est sa vie temporelle et passible . Voyons maintenant la troisième vie, qui est sa vie glorieuse et immortelle.
-
-De la Vie glorieuse et immortelle de Jésus.
-
-D.-- Qu'est-ce que la vie glorieuse et immortelle de Notre-Sauveur ?
-
-R.-- C'est la vie qu'il a depuis sa résurrection et son ascension dans le ciel.
-
-D.-- Combien y a-t-il qu'il est dans sa vie glorieuse ?
-
-R.-- Il y a seize cents ans et plus, et il y sera à toute éternité.
-
-D.-- Quand est-ce qu'elle a commencé ?
-
-R.-- Lorsqu'il est ressuscité, trois jours après sa mort.
-
-D.-- En quel jour est-il ressuscité ?
-
-R.-- Le Dimanche au matin.
-
-D.-- Qui est-ce qui l'a ressuscité?
-
-R.--Son Père éternel, et lui-même par sa propre vertu .
-
-18 Pour leur annoncer leur prochaine entrée au ciel; car ils n'y pouvaient aller avant l'Ascension du Sauveur.
-
-D.-- Après sa résurrection, où est-il allé ?
-
-R.--Il est encore demeuré en la terre.
-
-D.--_Combien de temps ?
-
-R.-- Quarante jours.
-
-D.. --Que faisait-il durant ce temps-là ?
-
-R.-- Il paraissait souvent à ses Apôtres et disciples, et les instruisait des choses nécessaires pour l'établissement et le gouvernement de son Église.
-
-D.--Après ces quarante jour, où est-il allé ?
-
-R.--Il est monté au ciel.
-
-D . --En quel lieu était-il quand il est monté au ciel?
-
-R.-- Sur la montagne des Olives.
-
-D.-- En la présence de qui est-il monté au ciel?
-
-R.-- En présence de sa sainte Mère, et de tous ses Apôtres et disciples.
-
-D.-- Quelle est la dernière action qu'il a faite avant que de monter au ciel?
-
-R.-- C'est la bénédiction qu'il a donnée à sa sainte Mère, à ses disciples et à toute son Église.
-
-D.-- Quelles sont les dernières paroles qu'il a dites?
-
-R.--Ce sont celles-ci: « Je suis toujours avec vous jusques à la fin du monde 19 .»
-
-D.-- Pourquoi est-il monté au ciel?
-
-R.-- Pour nous ouvrir le Paradis et pour nous y préparer notre place, ainsi qu'il dit luimême.
-
-D.-- Pourquoi encore?
-
-R.-- Pour nous envoyer son Saint-Esprit.
-
-D.-- Quand est-ce qu'il nous l'a envoyé?
-
-R.--Onze jours après son Ascension, le jour de la Pentecôte.
-
-D.-- Que fait Notre-Seigneur dans le ciel, depuis qui il est?
-
-R.--Il adore, aime et glorifie son Père, pour lui et pour tous ses membres.
-
-D.-- Quoi encore ?
-
-R.-- Il pense à nous et nous aime continuellement; il intercède sans cesse pour nous envers son Père, et lui offre perpétuellement pour nous ses sacrées plaies qu'il porte encore en ses mains, en ses pieds et en son cote.
-
-D. -- Le Fils e Dieu reviendra- t-il point encore visiblement en ce monde ?
-
-R.-- Oui.
-
-D.-- Quand reviendra-t-il ?
-
-R.--À la fin du monde.
-
-D.-- En quelle manière viendra-t-il ?
-
-R.--Il viendra en puissance, en gloire et en majesté accompagné de sa bienheureuse Mère, de ses Anges et de ses Saints.
-
-D.--Pourquoi viendra-t-il ?
-
-R.-- Pour ressusciter les morts et pour tenir son grand jugement.
-
-D.--Que fera-t il en ce jugement ?
-
-R.--Il fera rendre compte à un chacun de ses œuvres bonnes et mauvaises, et il enverra les méchants au supplice éternel, et conduira les bons à la vie éternelle.
-
-D.-- Quelle sentence prononcera-t-il contre les méchants?
-
-R.-- « Séparez-vous de moi, maudits, et allez au feu éternel qui est préparé au diable et à ses anges. »
-
-D.-- Que dira-t-il aux bons?
-
-R.-- « Venez, les bénis de mon Père, possédez le Royaume qui vous a été préparé dès la constitution du monde.»
-
-19 « Ego vobiscum sum omnibus diebus, usque ad consummationem saeculi: » Matth.
-
 ## Xxviii, 20,
 
 Voilà la vie glorieuse de Jésus-Christ. Voilà ses trois vies, ou plutôt voilà sa vie partagée en trois états: I'état de sa vie divine, I'état de sa vie humaine, I'état de sa vie glorieuse.
@@ -368,7 +30,9 @@ R.-- Infiniment plus.
 
 D.-- S'ils ne le font pas qu'arrivera-t-il ?
 
-R.--Ils seront incomparablement plus damnés et tourmentés dans l'enfer que les païens. CHAPITRE VIII. Du très saint Sacrement de l'autel.
+R.--Ils seront incomparablement plus damnés et tourmentés dans l'enfer que les païens.
+
+CHAPITRE VIII. Du très saint Sacrement de l'autel.
 
 D.--Après que Notre-Seigneur est monté au ciel, est-il point encore demeuré en la terre?
 
@@ -729,3 +393,319 @@ R.--Ils rendent à Dieu un très grand honneur; ils donnent à la très sainte V
 D.-- Quel mal font ceux qui négligent de communier souvent?
 
 R --Ils privent Dieu de l'honneur qu'ils lui rendraient; I'Église triomphante de la joie qu'elle en aurait; la militante de l'accroissement de sanctification qui lui en reviendrait; la souffrante du secours qu'elle en recevrait; et ils perdent plus pour eux-mêmes que s'ils perdaient mille empires.
+
+CHAPITRE X. La Vie de la très sainte Vierge Marie, Mère de Jésus.
+
+D.--La connaissance que j'ai maintenant de Dieu et de Notre-Seigneur Jésus-Christ, et des choses grandes qu'il a faites et souffertes pour moi, me donne un très grand désir de le servir en ce monde-ici, et de me rendre digne de le voir et de l'aimer dans le ciel. Mais donnez-moi un bon moyen pour parvenir à cela.
+
+R.--Je n'en sais point un meilleur que d'avoir une vraie dévotion à la très sainte Vierge Marie. 20 Il est impossible de ne pas voir dans ces paroles une réminiscence et une application à la communion du texte célèbre de l'Imitation, I, IV, ch 5, v. 3. « Quando sacerdos celebrat. Deum honorat. Angelos laetificat, Ecclesiam aedificat, vivos adjuvat, defunctis requiem praestat. et sese omnium bonorum participem efficit.»
+
+D.--Qui est-elle, la très sainte vierge Marie?
+
+R,--C'est la plus grande, la plus digne, la plus parfait et la plus libérale, la plus puissante, la plus aimable et la plus admirable de toutes les pures créatures.
+
+R.--Est-ce là tout ce que vous en savez ?
+
+R.-- C'est la Fille aînée et très aimée du Père éternel.
+
+D.--N'est-elle point autre chose que cela?
+
+R.--C'est la très digne et très chère Mère du Fils de Dieu .
+
+D.--N'a t-elle point d'autres qualités?
+
+R.--C'est la très pure et très adorable 21 Épouse du Saint-Esprit D.-- Quoi encore?
+
+R. --C'est la Reine des Anges et des hommes, et la 'souveraine Impératrice du ciel et de la terre.
+
+D.-- Continuez..
+
+R.-- C'est la joie, le trésor, l'honneur et la gloire du genre humain.
+
+D.-- Poursuivez R.-- C'est la consolation des affligés et le refuge de tous les misérables.
+
+D.--Je ne suis pas encore content.
+
+R.--C'est la Mère admirable et toute aimable.
+
+D.-- De qui est-elle Mère ?
+
+R.--Mère de Jésus, et de tous les membres de Jésus, qui sont les chrétiens.
+
+D.-- Puisque c'est notre Mère, nous devons donc savoir sa vie, afin de l'imiter tant que nous pourrons ?
+
+R.-- Oui, car les enfants doivent se rendre semblables à leur père et à leur mère.
+
+D.--- Qu'elle est la vie de la très sainte Vierge?
+
+R.-- Toute sainte, toute divine et toute admirable.
+
+D.-- De quel pays est sortie cette grande Princesse?
+
+R.--Du pays de Judée.
+
+D. - De quelle race a-t-elle pris son extraction?
+
+R.-- De la race royale de David.
+
+D.-- Qui est son père et sa mère?
+
+R.--C'est saint Joachim et sainte Anne.
+
+D.-- Comment a-t-elle été conçue?
+
+R. -- Par un très grand miracle et par la vertu de Dieu, parce que son père et sa mère étaient stériles, et hors d'âge d'avoir des enfants.
+
+D.--A-t-elle été concue en péché originel comme les autres enfants ?
+
+R. --Nenni; mais elle a été remplie de grâce, de lumière et de sainteté dès le moment de sa conception.
+
+D.- Combien de temps a-t-elle demeuré dans les bénites entrailles de sa mère Sainte Anne ?
+
+R.-- Neuf mois.
+
+D.-- Où a-t-elle pris naissance?
+
+R -- En Jérusalem, d'où était sa mère sainte Anne et où elle demeurait avec son mari saint Joachim.
+
+D.-- Qui lui a donné ce beau nom de Marie?
+
+21 À l'époque où écrivait le Vén. J. Eudes, le mot adoration n'avait point le sens exclusif de culte de latrie.
+
+R.-- Son père et sa mère, par l'ordonnance du Ciel 22 .
+
+D.-- Quand est-ce qu'elle a été nommée Marie ?
+
+R.-- Quinze jours après sa naissance, le vingt- deuxième jour de septembre 23 .
+
+D.-- Combien de temps a-t-elle demeuré dans la maison de son père et de sa mère, après sa naissance ?
+
+R.-- Trois ans.
+
+D.-- Au bout des trois ans, où est-elle allée ?
+
+R.--Au temple de Jérusalem.
+
+D.-- Pourquoi?
+
+R.-- Pour se présenter et consacrer entièrement à Dieu, avec plusieurs autres saintes vierges qui demeuraient ensemble dans le temple.
+
+D.-- Jusques à quel âge a-t-elle demeuré au temple?
+
+R.-- Jusqu'à l'âge de quinze ans ou environ.
+
+D.-- Que lui est-il arrivé à cet âge-là ?
+
+R.--Elle a été mariée avec saint Joseph.
+
+D.--Quel a été ce mariage ?
+
+R.-- Ça été un mariage tout céleste, tout spirituel, tout angélique, tout divin: mariage de deux Anges, de deux Séraphins, de deux Vierges, de Marie et Joseph qui sont toujours vierges, devant et après le mariage.
+
+D.-- Après avoir été mariée à saint Joseph, où est-elle allée demeurer?
+
+R.-- En la ville de Nazareth, parce que son père saint Joachim y avait une maison, et que son époux saint Joseph y en avait aussi une où il demeurait.
+
+D.-- Qu'est-ce qu'il lui arriva étant à Nazareth, incontinent après son mariage avec saint Joseph ?
+
+R.-- L'Archange saint Gabriel lui fut envoyé de Dieu, qui lui annonça que Dieu l'avait choisie pour être Mère de son Fils; et au même temps le Fils de Dieu fut conçu dans ses sacrées entrailles par la vertu du Saint-Esprit.
+
+D.-- Que fit-elle premièrement après avoir conçu le Fils de Dieu en ses entrailles?
+
+R.-- Elle alla visiter sa cousine sainte Élisabeth, qui était enceinte par miracle, il y avait déjà six mois, de saint Jean-Baptiste, précurseur de son Fils.
+
+D.-- Qu'arriva-t-il en cette Visitation ?
+
+R.-- La sainte Vierge ayant salué sainte Élisabeth, elle fut remplie du Saint-Esprit, et I'enfant qu'elle portait en son ventre fut sanctifié et tressaillit de joie, par la vertu de la voix de la Mère de Dieu.
+
+D.-- Quoi encore ?
+
+R.--Ce fut alors que la Bienheureuse Vierge fit ce beau et divin Cantique: Magnificat anima mea Dominum.
+
+D. -- Combien de temps demeura-t-elle chez sainte Élisabeth?
+
+R. --Trois mois; puis elle revint à Nazareth, là où 22 Plusieurs écrivains ecclésiastiques ont en effet soutenu que le nom de Marie avait été apporté du ciel à saint Joachim et sainte Anne, bien que la sainte Écriture ne le dise pas. Cf. Véga, Theologia Mariana, n. 1366.
+
+23 Dans le Royaume de Jésus, 3e P., le P. Eudes indique le 15 septembre comme le jour ou la sainte Vierge a reçu le nom de Marie. Les deux dates ont été en effet indiquées par divers auteurs et s'appuient sur des arguments qui ne sont pas dénués de probabilité. La question reste incertaine. Cf. Véga, Theologia Mariana, n. 1364. elle demeura avec saint Joseph, jusqu'à ce que le temps le son bienheureux accouchement approchât.
+
+D. -- Quand ce temps fut proche, où alla-t-elle ?
+
+R. --Elle alla avec saint Joseph en Bethléem, là où ne trouvant personne qui les voulût loger, ils furent contraints de se retirer dans une pauvre étable, où la Reine du ciel enfanta le Sauveur du monde.
+
+D. --Après l'avoir enfanté, l'a-t-elle porté et nourri, comme les autres mères font au regard de leurs enfants ?
+
+R.-- Oui, elle l'a porté entre ses bras, et l'a nourri du lait de ses mamelles virginales.
+
+D. --Combien de temps demeura-t-elle, en Bethléem?
+
+R. --Quarante jours.
+
+D. --Au bout des quarante jours, où alla-t-elle ?
+
+R.-- Au Temple de Jérusalem.
+
+D. -- Pourquoi ?
+
+R. -- Pour y présenter son Fils et pour être purifiée.
+
+D. --Avait-elle besoin de purification?
+
+R. --Non, étant plus pure que le soleil; mais c'était afin d'obéir à la loi.
+
+D.--Ensuite de cela, où est-elle allée?
+
+R. -- En Égypte, avec son Fils et saint Joseph, où elle a demeuré sept ans; puis ils revinrent en Nazareth.
+
+D.--Que leur arriva-t-il, à l'âge de douze ans de NotreSeigneur ?
+
+R. --Il leur arriva qu'étant allés tous trois de Nazareth en Jérusalem, pour adorer Dieu dans le temple, la sainte Vierge et saint Joseph furent trois jours en grande douleur, parce qu'en ce voyage ils avaient égaré l'Enfant Jésus, qu'ils retrouvèrent avec une merveilleuse joie dans le temple, disputant avec les Docteurs; et le ramenèrent en Nazareth.
+
+D. --Qu'est-ce que la sainte Vierge faisait, depuis ce temps-là jusqu'à l'âge de trente ans de son Fils ?
+
+R. --Elle demeurait avec lui et avec saint Joseph; elle buvait et mangeait avec lui, conversait avec lui; et il lui obéissait en tout et partout comme à sa Mère.
+
+D. -- Quand Notre-Seigneur commença à prêcher, sa sainte Mère le suivait-elle ?
+
+R. --Oui sans doute; il est bien croyable que d'ordinaire elle l'accompagnait partout, puisque même elle était avec lui aux noces de Cana, et que ce fut à sa prière qu'il fit son premier miracle, convertissant l'eau en vin.
+
+D.--Au temps de la Passion de son Fils, où était-elle ?
+
+R. -- Elle y était présente, et elle l'accompagna jusqu'à la croix.
+
+D . --S'ouffrait-elle beaucoup en le voyant souffrir ?
+
+R. --Plus que tous les martyrs ensemble n'ont jamais souffert.
+
+D. --À qui est-ce que le Fils de Dieu apparut premièrement quand il ressuscita ?
+
+R. --Ce fut à sa très sainte Mère.
+
+D. --Quand il monta au ciel, était-elle présente ?
+
+R. --Oui, avec les saints Apôtres et Disciples.
+
+D. -- Quand il envoya son Saint-Esprit, où était-elle?
+
+R. --Elle était renfermée et en oraison, avec les Apôtres et Disciples et plusieurs autres femmes.
+
+D. -- Combien a-t-elle demeuré en la terre après l'Ascension de son Fils ?
+
+R.--Seize ans ou environ; ou selon quelques-uns, vingt-cinq ans.
+
+D. -- Où demeurait-elle durant ce temps-là ?
+
+R. --Avec saint Jean l'Évangéliste.
+
+D. --Que faisait-elle ?
+
+R.--Elle enseignait aux Apôtres et disciples, et aux autres chrétiens, les choses merveilleuses qu'elle avait apprises de son Fils.
+
+D. -- Quoi encore ?
+
+R. --Elle visitait souvent et honorait les saints lieux où son Fils avait été, et où il avait souffert et répandu son sang.
+
+D. --À quelle âge est-elle sortie de ce monde ?
+
+R. --À l'âge de soixante et trois ans, selon la commune opinion; ou, selon d'autres, à l'âge de soixante et douze ans.
+
+D. --En quelle manière est-elle décédée ?
+
+R. --Sans aucune maladie ou douleur, mais par la vertu de l'amour très ardent qu'elle portait à Dieu.
+
+D. -- Où est allée son âme à la sortie de son corps ?
+
+R. --Au ciel.
+
+D. -- Où a-t-on mis son corps ?
+
+R. --Dans un sépulcre en la vallée de Josaphat, là où son père saint Joachim, sa mère sainte Anne et son époux saint Joseph avaient été enterrés.
+
+D. --Combien de temps a-t-elle demeuré dans l'état de la mort ?
+
+R. --Nous n'en savons rien au certain, quoiqu'il soit bien probable qu'elle y ait demeuré trois jours, à l'imitation de son Fils; mais nous sommes bien assurés qu'elle est ressuscitée.
+
+D. --Après sa résurrection où est elle allée?
+
+R. --Elle est montée au ciel, en la compagnie des Anges, et par la vertu de son Fils.
+
+D. -- Quelle place tient-elle au ciel?
+
+R. --Elle est élevée par-dessus tous les Anges et les Saints, et est établie à la dextre de son Fils D. -- Quel pouvoir lui a-t-il donné ?
+
+R. --Il lui a donné tout pouvoir au ciel et en la terre.
+
+D. --Connaît-elle bien ce qui se fait ici-bas ?
+
+R. --Oui, car elle voit tout en Dieu.
+
+D. --Aime-t-elle bien ceux qui l'aiment et qui la servent de bon cœur ?
+
+R. --Oui, elle les aime tendrement, plus que jamais mère n'aima ses enfants; elle a un très grand soin de tout ce qui les touche; elle les comble de toutes sortes de grâces, de faveurs et de bénédictions.
+
+D. --L'aimez-vous bien, cette Vierge et Mère très aimable ?
+
+R. - Oui, je l'aime de tout mon cœur et la veux aimer et servir toujours de plus en plus.
+
+D. -- Que voulez-vous faire pour l'amour d'elle?
+
+R. --Je veux tout faire, tout souffrir, et mourir mille fois pour la défense de son honneur.
+
+D. -- Que lui voulez-vous donner?
+
+R. -- Dix mille mondes et cent mille paradis si je les avais; mais, à faute de cela, je lui donne tout mon cœur et tout moi-même, afin qu'elle me donne tout à son Fils.
+
+CHAPITRE XI. De la vraie Dévotion à la sainte Vierge, et de ses douze principales Fêtes.
+
+D. --À ce que je vois, vous avez une grande dévotion à la sainte Vierge, puisque vous l'aimez tant: J'en bénis Dieu et vous en aime mieux. Mais dites-moi un peu, en quoi consiste la vraie dévotion à la bienheureuse Vierge?
+
+R. -- En quatre choses.
+
+D. -- Quelle est la première?
+
+R. --C'est de haïr et détester ce qu'elle hait et déteste, c'est-à-dire le péché.
+
+D.-- Quelle est la seconde ?
+
+R. --C'est d'aimer ce qu'elle aime, à savoir la vertu, spécialement l'humilité, la chasteté, la charité.
+
+D. -- Quelle est la troisième?
+
+R. --C'est d'avoir recours à elle en tous nos besoins, nous offrir à elle tous les jours, et la prier et invoquer souvent.
+
+D. -- Quelle est la prière qui lui plaît davantage?
+
+R.-- C'est l'Ave Maria. C'est pourquoi le chapelet lui est très agréable, et tous les vrais enfants de la Vierge en doivent avoir un.
+
+D. -- Quelle est la quatrième chose en quoi consiste la vraie dévotion à la sacrée Vierge ?
+
+R. --C'est de bien célébrer toutes ses fêtes.
+
+Des douze Fêtes principales de la sainte Vierge, et de plusieurs autres.
+
+D. -- Combien y a-t-il de fêtes principales de la sainte Vierge?
+
+R. --Il y en a douze.
+
+D. -- Quelle est la première ?
+
+R. --C'est la fête de sa Conception, le huitième de décembre.
+
+D.--Quelle est la seconde?
+
+R.--C'est la fête de sa Nativité, le huitième de septembre.
+
+D. -- Quelle est la troisième?
+
+R -- C'est la fête de sa Présentation, lorsqu'elle se présenta et se consacra toute à Dieu dans le temple, à l'âge de trois ans, le vingt-et-unième de novembre.
+
+D.-- Quelle est la quatrième?
+
+R. -- C'est la fête de son Mariage tout angélique et divin avec saint Joseph, qui se célèbre en quelques lieux le quinzième, et en d'autres le vingt-deuxième de janvier.
+
+D. -- Quelle est la cinquième?
+
+R.--C'est la fête de l'Annonciation, lorsque l`Ange lui annonça qu'elle serait Mère de Dieu, le vingt-cinquième de mars.
+
+D. -- Quelle est la sixième ?
+
+R. --C'est la fête de la Visitation, lorsqu'elle alla visiter sainte Élisabeth, le second jour de juillet.

@@ -1,322 +1,4 @@
-# Catéchisme (4)
-
-CHAPITRE X. La Vie de la très sainte Vierge Marie, Mère de Jésus.
-
-D.--La connaissance que j'ai maintenant de Dieu et de Notre-Seigneur Jésus-Christ, et des choses grandes qu'il a faites et souffertes pour moi, me donne un très grand désir de le servir en ce monde-ici, et de me rendre digne de le voir et de l'aimer dans le ciel. Mais donnez-moi un bon moyen pour parvenir à cela.
-
-R.--Je n'en sais point un meilleur que d'avoir une vraie dévotion à la très sainte Vierge Marie. 20 Il est impossible de ne pas voir dans ces paroles une réminiscence et une application à la communion du texte célèbre de l'Imitation, I, IV, ch 5, v. 3. « Quando sacerdos celebrat. Deum honorat. Angelos laetificat, Ecclesiam aedificat, vivos adjuvat, defunctis requiem praestat. et sese omnium bonorum participem efficit.»
-
-D.--Qui est-elle, la très sainte vierge Marie?
-
-R,--C'est la plus grande, la plus digne, la plus parfait et la plus libérale, la plus puissante, la plus aimable et la plus admirable de toutes les pures créatures.
-
-R.--Est-ce là tout ce que vous en savez ?
-
-R.-- C'est la Fille aînée et très aimée du Père éternel.
-
-D.--N'est-elle point autre chose que cela?
-
-R.--C'est la très digne et très chère Mère du Fils de Dieu .
-
-D.--N'a t-elle point d'autres qualités?
-
-R.--C'est la très pure et très adorable 21 Épouse du Saint-Esprit D.-- Quoi encore?
-
-R. --C'est la Reine des Anges et des hommes, et la 'souveraine Impératrice du ciel et de la terre.
-
-D.-- Continuez..
-
-R.-- C'est la joie, le trésor, l'honneur et la gloire du genre humain.
-
-D.-- Poursuivez R.-- C'est la consolation des affligés et le refuge de tous les misérables.
-
-D.--Je ne suis pas encore content.
-
-R.--C'est la Mère admirable et toute aimable.
-
-D.-- De qui est-elle Mère ?
-
-R.--Mère de Jésus, et de tous les membres de Jésus, qui sont les chrétiens.
-
-D.-- Puisque c'est notre Mère, nous devons donc savoir sa vie, afin de l'imiter tant que nous pourrons ?
-
-R.-- Oui, car les enfants doivent se rendre semblables à leur père et à leur mère.
-
-D.--- Qu'elle est la vie de la très sainte Vierge?
-
-R.-- Toute sainte, toute divine et toute admirable.
-
-D.-- De quel pays est sortie cette grande Princesse?
-
-R.--Du pays de Judée.
-
-D. - De quelle race a-t-elle pris son extraction?
-
-R.-- De la race royale de David.
-
-D.-- Qui est son père et sa mère?
-
-R.--C'est saint Joachim et sainte Anne.
-
-D.-- Comment a-t-elle été conçue?
-
-R. -- Par un très grand miracle et par la vertu de Dieu, parce que son père et sa mère étaient stériles, et hors d'âge d'avoir des enfants.
-
-D.--A-t-elle été concue en péché originel comme les autres enfants ?
-
-R. --Nenni; mais elle a été remplie de grâce, de lumière et de sainteté dès le moment de sa conception.
-
-D.- Combien de temps a-t-elle demeuré dans les bénites entrailles de sa mère Sainte Anne ?
-
-R.-- Neuf mois.
-
-D.-- Où a-t-elle pris naissance?
-
-R -- En Jérusalem, d'où était sa mère sainte Anne et où elle demeurait avec son mari saint Joachim.
-
-D.-- Qui lui a donné ce beau nom de Marie?
-
-21 À l'époque où écrivait le Vén. J. Eudes, le mot adoration n'avait point le sens exclusif de culte de latrie.
-
-R.-- Son père et sa mère, par l'ordonnance du Ciel 22 .
-
-D.-- Quand est-ce qu'elle a été nommée Marie ?
-
-R.-- Quinze jours après sa naissance, le vingt- deuxième jour de septembre 23 .
-
-D.-- Combien de temps a-t-elle demeuré dans la maison de son père et de sa mère, après sa naissance ?
-
-R.-- Trois ans.
-
-D.-- Au bout des trois ans, où est-elle allée ?
-
-R.--Au temple de Jérusalem.
-
-D.-- Pourquoi?
-
-R.-- Pour se présenter et consacrer entièrement à Dieu, avec plusieurs autres saintes vierges qui demeuraient ensemble dans le temple.
-
-D.-- Jusques à quel âge a-t-elle demeuré au temple?
-
-R.-- Jusqu'à l'âge de quinze ans ou environ.
-
-D.-- Que lui est-il arrivé à cet âge-là ?
-
-R.--Elle a été mariée avec saint Joseph.
-
-D.--Quel a été ce mariage ?
-
-R.-- Ça été un mariage tout céleste, tout spirituel, tout angélique, tout divin: mariage de deux Anges, de deux Séraphins, de deux Vierges, de Marie et Joseph qui sont toujours vierges, devant et après le mariage.
-
-D.-- Après avoir été mariée à saint Joseph, où est-elle allée demeurer?
-
-R.-- En la ville de Nazareth, parce que son père saint Joachim y avait une maison, et que son époux saint Joseph y en avait aussi une où il demeurait.
-
-D.-- Qu'est-ce qu'il lui arriva étant à Nazareth, incontinent après son mariage avec saint Joseph ?
-
-R.-- L'Archange saint Gabriel lui fut envoyé de Dieu, qui lui annonça que Dieu l'avait choisie pour être Mère de son Fils; et au même temps le Fils de Dieu fut conçu dans ses sacrées entrailles par la vertu du Saint-Esprit.
-
-D.-- Que fit-elle premièrement après avoir conçu le Fils de Dieu en ses entrailles?
-
-R.-- Elle alla visiter sa cousine sainte Élisabeth, qui était enceinte par miracle, il y avait déjà six mois, de saint Jean-Baptiste, précurseur de son Fils.
-
-D.-- Qu'arriva-t-il en cette Visitation ?
-
-R.-- La sainte Vierge ayant salué sainte Élisabeth, elle fut remplie du Saint-Esprit, et I'enfant qu'elle portait en son ventre fut sanctifié et tressaillit de joie, par la vertu de la voix de la Mère de Dieu.
-
-D.-- Quoi encore ?
-
-R.--Ce fut alors que la Bienheureuse Vierge fit ce beau et divin Cantique: Magnificat anima mea Dominum.
-
-D. -- Combien de temps demeura-t-elle chez sainte Élisabeth?
-
-R. --Trois mois; puis elle revint à Nazareth, là où 22 Plusieurs écrivains ecclésiastiques ont en effet soutenu que le nom de Marie avait été apporté du ciel à saint Joachim et sainte Anne, bien que la sainte Écriture ne le dise pas. Cf. Véga, Theologia Mariana, n. 1366.
-
-23 Dans le Royaume de Jésus, 3e P., le P. Eudes indique le 15 septembre comme le jour ou la sainte Vierge a reçu le nom de Marie. Les deux dates ont été en effet indiquées par divers auteurs et s'appuient sur des arguments qui ne sont pas dénués de probabilité. La question reste incertaine. Cf. Véga, Theologia Mariana, n. 1364.
-
-elle demeura avec saint Joseph, jusqu'à ce que le temps le son bienheureux accouchement approchât.
-
-D. -- Quand ce temps fut proche, où alla-t-elle ?
-
-R. --Elle alla avec saint Joseph en Bethléem, là où ne trouvant personne qui les voulût loger, ils furent contraints de se retirer dans une pauvre étable, où la Reine du ciel enfanta le Sauveur du monde.
-
-D. --Après l'avoir enfanté, l'a-t-elle porté et nourri, comme les autres mères font au regard de leurs enfants ?
-
-R.-- Oui, elle l'a porté entre ses bras, et l'a nourri du lait de ses mamelles virginales.
-
-D. --Combien de temps demeura-t-elle, en Bethléem?
-
-R. --Quarante jours.
-
-D. --Au bout des quarante jours, où alla-t-elle ?
-
-R.-- Au Temple de Jérusalem.
-
-D. -- Pourquoi ?
-
-R. -- Pour y présenter son Fils et pour être purifiée.
-
-D. --Avait-elle besoin de purification?
-
-R. --Non, étant plus pure que le soleil; mais c'était afin d'obéir à la loi.
-
-D.--Ensuite de cela, où est-elle allée?
-
-R. -- En Égypte, avec son Fils et saint Joseph, où elle a demeuré sept ans; puis ils revinrent en Nazareth.
-
-D.--Que leur arriva-t-il, à l'âge de douze ans de NotreSeigneur ?
-
-R. --Il leur arriva qu'étant allés tous trois de Nazareth en Jérusalem, pour adorer Dieu dans le temple, la sainte Vierge et saint Joseph furent trois jours en grande douleur, parce qu'en ce voyage ils avaient égaré l'Enfant Jésus, qu'ils retrouvèrent avec une merveilleuse joie dans le temple, disputant avec les Docteurs; et le ramenèrent en Nazareth.
-
-D. --Qu'est-ce que la sainte Vierge faisait, depuis ce temps-là jusqu'à l'âge de trente ans de son Fils ?
-
-R. --Elle demeurait avec lui et avec saint Joseph; elle buvait et mangeait avec lui, conversait avec lui; et il lui obéissait en tout et partout comme à sa Mère.
-
-D. -- Quand Notre-Seigneur commença à prêcher, sa sainte Mère le suivait-elle ?
-
-R. --Oui sans doute; il est bien croyable que d'ordinaire elle l'accompagnait partout, puisque même elle était avec lui aux noces de Cana, et que ce fut à sa prière qu'il fit son premier miracle, convertissant l'eau en vin.
-
-D.--Au temps de la Passion de son Fils, où était-elle ?
-
-R. -- Elle y était présente, et elle l'accompagna jusqu'à la croix.
-
-D . --S'ouffrait-elle beaucoup en le voyant souffrir ?
-
-R. --Plus que tous les martyrs ensemble n'ont jamais souffert.
-
-D. --À qui est-ce que le Fils de Dieu apparut premièrement quand il ressuscita ?
-
-R. --Ce fut à sa très sainte Mère.
-
-D. --Quand il monta au ciel, était-elle présente ?
-
-R. --Oui, avec les saints Apôtres et Disciples.
-
-D. -- Quand il envoya son Saint-Esprit, où était-elle?
-
-R. --Elle était renfermée et en oraison, avec les Apôtres et Disciples et plusieurs autres femmes.
-
-D. -- Combien a-t-elle demeuré en la terre après l'Ascension de son Fils ?
-
-R.--Seize ans ou environ; ou selon quelques-uns, vingt-cinq ans.
-
-D. -- Où demeurait-elle durant ce temps-là ?
-
-R. --Avec saint Jean l'Évangéliste.
-
-D. --Que faisait-elle ?
-
-R.--Elle enseignait aux Apôtres et disciples, et aux autres chrétiens, les choses merveilleuses qu'elle avait apprises de son Fils.
-
-D. -- Quoi encore ?
-
-R. --Elle visitait souvent et honorait les saints lieux où son Fils avait été, et où il avait souffert et répandu son sang.
-
-D. --À quelle âge est-elle sortie de ce monde ?
-
-R. --À l'âge de soixante et trois ans, selon la commune opinion; ou, selon d'autres, à l'âge de soixante et douze ans.
-
-D. --En quelle manière est-elle décédée ?
-
-R. --Sans aucune maladie ou douleur, mais par la vertu de l'amour très ardent qu'elle portait à Dieu.
-
-D. -- Où est allée son âme à la sortie de son corps ?
-
-R. --Au ciel.
-
-D. -- Où a-t-on mis son corps ?
-
-R. --Dans un sépulcre en la vallée de Josaphat, là où son père saint Joachim, sa mère sainte Anne et son époux saint Joseph avaient été enterrés.
-
-D. --Combien de temps a-t-elle demeuré dans l'état de la mort ?
-
-R. --Nous n'en savons rien au certain, quoiqu'il soit bien probable qu'elle y ait demeuré trois jours, à l'imitation de son Fils; mais nous sommes bien assurés qu'elle est ressuscitée.
-
-D. --Après sa résurrection où est elle allée?
-
-R. --Elle est montée au ciel, en la compagnie des Anges, et par la vertu de son Fils.
-
-D. -- Quelle place tient-elle au ciel?
-
-R. --Elle est élevée par-dessus tous les Anges et les Saints, et est établie à la dextre de son Fils D. -- Quel pouvoir lui a-t-il donné ?
-
-R. --Il lui a donné tout pouvoir au ciel et en la terre.
-
-D. --Connaît-elle bien ce qui se fait ici-bas ?
-
-R. --Oui, car elle voit tout en Dieu.
-
-D. --Aime-t-elle bien ceux qui l'aiment et qui la servent de bon cœur ?
-
-R. --Oui, elle les aime tendrement, plus que jamais mère n'aima ses enfants; elle a un très grand soin de tout ce qui les touche; elle les comble de toutes sortes de grâces, de faveurs et de bénédictions.
-
-D. --L'aimez-vous bien, cette Vierge et Mère très aimable ?
-
-R. - Oui, je l'aime de tout mon cœur et la veux aimer et servir toujours de plus en plus.
-
-D. -- Que voulez-vous faire pour l'amour d'elle?
-
-R. --Je veux tout faire, tout souffrir, et mourir mille fois pour la défense de son honneur.
-
-D. -- Que lui voulez-vous donner?
-
-R. -- Dix mille mondes et cent mille paradis si je les avais; mais, à faute de cela, je lui donne tout mon cœur et tout moi-même, afin qu'elle me donne tout à son Fils.
-
-CHAPITRE XI. De la vraie Dévotion à la sainte Vierge, et de ses douze principales Fêtes.
-
-D. --À ce que je vois, vous avez une grande dévotion à la sainte Vierge, puisque vous l'aimez tant: J'en bénis Dieu et vous en aime mieux. Mais dites-moi un peu, en quoi consiste la vraie dévotion à la bienheureuse Vierge?
-
-R. -- En quatre choses.
-
-D. -- Quelle est la première?
-
-R. --C'est de haïr et détester ce qu'elle hait et déteste, c'est-à-dire le péché.
-
-D.-- Quelle est la seconde ?
-
-R. --C'est d'aimer ce qu'elle aime, à savoir la vertu, spécialement l'humilité, la chasteté, la charité.
-
-D. -- Quelle est la troisième?
-
-R. --C'est d'avoir recours à elle en tous nos besoins, nous offrir à elle tous les jours, et la prier et invoquer souvent.
-
-D. -- Quelle est la prière qui lui plaît davantage?
-
-R.-- C'est l'Ave Maria. C'est pourquoi le chapelet lui est très agréable, et tous les vrais enfants de la Vierge en doivent avoir un.
-
-D. -- Quelle est la quatrième chose en quoi consiste la vraie dévotion à la sacrée Vierge ?
-
-R. --C'est de bien célébrer toutes ses fêtes.
-
-Des douze Fêtes principales de la sainte Vierge, et de plusieurs autres.
-
-D. -- Combien y a-t-il de fêtes principales de la sainte Vierge?
-
-R. --Il y en a douze.
-
-D. -- Quelle est la première ?
-
-R. --C'est la fête de sa Conception, le huitième de décembre.
-
-D.--Quelle est la seconde?
-
-R.--C'est la fête de sa Nativité, le huitième de septembre.
-
-D. -- Quelle est la troisième?
-
-R -- C'est la fête de sa Présentation, lorsqu'elle se présenta et se consacra toute à Dieu dans le temple, à l'âge de trois ans, le vingt-et-unième de novembre.
-
-D.-- Quelle est la quatrième?
-
-R. -- C'est la fête de son Mariage tout angélique et divin avec saint Joseph, qui se célèbre en quelques lieux le quinzième, et en d'autres le vingt-deuxième de janvier.
-
-D. -- Quelle est la cinquième?
-
-R.--C'est la fête de l'Annonciation, lorsque l`Ange lui annonça qu'elle serait Mère de Dieu, le vingt-cinquième de mars.
-
-D. -- Quelle est la sixième ?
-
-R. --C'est la fête de la Visitation, lorsqu'elle alla visiter sainte Élisabeth, le second jour de juillet.
+# Catéchisme (4): D. -- Quelle est la septième?
 
 ## D. -- Quelle est la septième?
 
@@ -346,9 +28,7 @@ R. --C'est la fête de sa mort, de sa résurrection et de son Assomption tout en
 
 D. -- Quelle est la onzième ?
 
-R. -- C'est la fête de Notre-Dame de la Victoire, qui se fait en action de grâce d'une très signalée victoire que les Chrétiens remportèrent contre les Turcs par l'intercession de la sainte Vierge, le septième jour d'octobre; et c'est aussi la grande fête du saint Rosaire, qui se fait néanmoins toujours le premier dimanche 24 C'est la fête Expectationis partus, ou de l'Attente de L'Enfantement, qui se trouve au Bréviaire romain,dans le Propre pour quelques lieux.
-
-d'Octobre 25.
+R. -- C'est la fête de Notre-Dame de la Victoire, qui se fait en action de grâce d'une très signalée victoire que les Chrétiens remportèrent contre les Turcs par l'intercession de la sainte Vierge, le septième jour d'octobre; et c'est aussi la grande fête du saint Rosaire, qui se fait néanmoins toujours le premier dimanche 24 C'est la fête Expectationis partus, ou de l'Attente de L'Enfantement, qui se trouve au Bréviaire romain,dans le Propre pour quelques lieux. d'Octobre 25.
 
 D.--Quelle est la douzième ?
 
@@ -560,7 +240,9 @@ R. -- C'est l'office et le métier principal, et ce doit être l'exercice ordina
 
 D. -- Est-ce assez de faire ces bonnes œuvres-là ?
 
-R. -- Non, mais il les faut bien faire, c'est-à-dire pour plaire à Dieu, pour son pur amour et pour sa seule gloire. CHAPITRE XIV. Confirmation.
+R. -- Non, mais il les faut bien faire, c'est-à-dire pour plaire à Dieu, pour son pur amour et pour sa seule gloire.
+
+CHAPITRE XIV. Confirmation.
 
 D. -- Qu'est ce que la Confirmation ?
 
@@ -691,6 +373,302 @@ R. -- C'est de nous regarder comme criminels de lèse-majesté divine, et de ven
 D. --Quelle est la troisième ?
 
 R. -- C'est de se mettre aux pieds du prêtre comme aux pieds de Jésus-Christ, duquel il représente la personne, dont il exerce le jugement; et tâcher de se présenter au sacré tribunal de la pénitence volontairement et par amour, avec la même humilité, respect et soumission d'esprit et de volonté, avec laquelle il faudra paraître nécessairement devant le tribunal épouvantable du souverain Juge, à l'article de la mort.
+
+CHAPITRE XVI. De la Contrition.
+
+D. -- Qu'est-ce que la Contrition ?
+
+R. -- C'est un moyen très excellent pour effacer le péché, et pour se conserver toujours en la grâce de Dieu.
+
+D. -- En quoi est-ce qu'elle consiste ?
+
+R. -- Elle consiste à demander pardon à Dieu de son péché, être marri de l'avoir commis, et le détester parce qu'il lui déplaît et qu'il le déshonore infiniment ayant une forte, solide et profonde volonté de s'en confesser et corriger.
+
+D. -- Est-ce une chose bien puissante que la Contrition ?
+
+R. -- Oui, car un seul acte de vraie contrition est capable d'effacer en une âme toutes sortes de péchés, fussent-ils très énormes.
+
+D. -- Il est donc bien nécessaire de savoir faire un acte de contrition ?
+
+R. -- Très nécessaire, et quiconque ne sait point cela, il est en danger évident de se perdre éternellement.
+
+D. -- Pourquoi cela ?
+
+R. -- Parce que, étant tombé en péché mortel, et la mort le surprenant en cet état sans qu'il puisse se confesser, s'il ne sait pas faire un acte de contrition, le voilà damné à jamais.
+
+D. -- Quelle différence y a-t-il entre la contrition et l'Attrition ?
+
+R. -- Grande différence. Car la contrition c'est haïr son péché et être marri de l'avoir commis, pour la considération du seul intérêt de Dieu, c'est-à-dire à cause de l'injure et du très grand tort qu'il a fait à Dieu.
+
+D. -- L'Attrition qu'est-ce ?
+
+R. -- C'est être fâché d'avoir commis le péché, pour la considération de notre intérêt, c'est-à-dire à cause du mal que le péché nous fait en nous privant de la grâce et de la gloire de Dieu, et en nous rendant dignes de l'enfer.
+
+## D. -- La Contrition peut-elle effacer le péché et nous
+
+remettre en la grâce de Dieu, sans qu'il soit nécessaire de s'en confesser à l'heure même ?
+
+R. -- Oui, pourvu qu'on ait la volonté de s'en confesser à la première confession qu'on fera.
+
+D. --L'Attrition peut-elle faire la même chose ?
+
+R. -- Nenni: car, si elle n'est jointe avec la confession, elle ne fait rien.
+
+D. -- Pouvons-nous avoir l'Attrition ou la Contrition de nous-mêmes et par nos propres forces ?
+
+R. -- Non, c'est un don et une grâce de Dieu; c'est pourquoi, quand on veut faire un acte de contrition, il faut le demander à Dieu auparavant, avec humilité, confiance et persévérance, et afin de l'obtenir plus facilement, y employer le Jeûne, l'aumône si on en a le moyen, et autres mortifications et bonnes œuvres. D. -- Pour avoir une bonne contrition est-il nécessaire de répandre des larmes et d'avoir une douleur sensible dans le cœur ? R. -- Cela est bon, mais non pas absolument nécessaire; il suffit de protester à Dieu de toute sa volonté qu'on abhorre ses péchés pour l'amour de lui-même, et qu'on a volonté de s'en confesser et corriger.
+
+D. -- Pour avoir une vraie contrition est-il nécessaire de quitter l'occasion prochaine du péché, de rendre le bien d'autrui quand on le peut, et de se réconcilier avec le prochain ?
+
+R. -- Oui, car sans toutes ces conditions ce n'est pas une vraie, mais fausse contrition, semblable à celle de Judas .
+
+D. -- Comment faut-il faire un acte de contrition ?
+
+R. -- Il faut premièrement prier Notre-Seigneur qu'il nous donne la grâce de le faire, en cette sorte:
+
+« O bon Jésus, je désire avoir une vraie contrition de mes péchés, mais je ne puis sans vous: c'est pourquoi je vous supplie de tout mon cœur, par votre sainte Passion et par les mérites de votre très sainte Mère et de tous les Saints, de m'en donner la grâce. »
+
+D. -- Après cela que faut-il faire ?
+
+R. -- Il faut se mettre en devoir et tâcher de faire un acte de contrition en cette sorte:
+
+« O mon Dieu, de tout mon cœur je suis marri de vous avoir offensé, parce que le péché vous déshonore infiniment, et j'ai volonté de m'en confesser et amender.
+
+D. -- En une autre manière ?
+
+R. -- « O mon Dieu, je veux haïr mes péchés de la même haine que vous leur portez, et j'ai volonté de m'en confesser et de mourir plutôt à l'avenir que de vous offenser. »
+
+D. -- En une autre manière ?
+
+R. -- « O mon Dieu, je veux détester mes péchés de la même détestation que vos Anges et vos Saints les détestent, et j'ai volonté de m'en confesser et corriger.
+
+D. -- Une autre façon ?
+
+R. -- « O mon Jésus, j'ai en horreur mes offense, parce qu'elles ont été cause de la très cruelle mort que vous avez soufferte, et j'ai volonté, etc... »
+
+D. -- Une autre façon?
+
+R. -- « O mon Sauveur, quelle douleur et contrition vous avez portée en votre cœur, en la vue de mes péchés ! Elle a été si violente qu'elle vous a fait suer le sang en abondance au Jardin des Olives. Faites-moi, s'il vous plaît, participant de cette douleur et contrition. De mon côté, je m'y veux joindre et l'offrir à votre Père éternel en satisfaction de mes offenses. »
+
+D. -- Une autre sorte ?
+
+R. -- « O mon Jésus, je vous veux dire avec le bon Larron les mêmes paroles qu'il vous a dites en la croix, et je veux vous les dire avec la même contrition et repentance avec laquelle il les a dites: Seigneur, souvenez-vous de moi quand vous serez en votre Royaume. »
+
+D. -- Une autre sorte ?
+
+R. -- « O mon Dieu, je veux frapper ma poitrine avec la même douleur et contrition avec laquelle le pauvre Publicain frappait la sienne, et vous dire avec lui en cette même contrition: O Dieu, soyez propice à moi pécheur. »
+
+D. -- Quand est-ce qu'il faut faire des actes de contrition ?
+
+R. -- Le matin, le soir, quand on va à confesse, et après qu'on est tombé en quelque péché.
+
+D. -- Que dites-vous de ceux qui, s'assurant trop à la contrition et au bon PECCAVI, diffèrent de se confesser à l'heure de la mort ?
+
+R. -- Pour l'ordinaire ces gens-là meurent comme enragés et désespérés, par un juste jugement de Dieu.
+
+D. -- Pourquoi ?
+
+R. -- Parce que, ayant pu avoir la contrition durant leur vie, et ne l'ayant pas voulue, ils la voudraient bien avoir au lit de la mort; mais Dieu ne la leur donne pas, et ainsi ils meurent malheureusement ou sans contrition, ou avec une fausse et trompeuse contrition.
+
+D. -- Voulez-vous être du nombre de ces misérables ?
+
+R. -- Je prie Dieu qu'il m'en veuille bien préserver.
+
+D. -- Ne vous fiez donc pas au bon PECCAVI, et n'attendez pas à l'heure de la mort à renoncer au péché; mais convertissez-vous entièrement et parfaitement à Dieu dès maintenant, et sans différer davantage.
+
+R. -- C'est ce que je désire de tout mon cœur, et je prie Notre-Seigneur et sa très sainte Mère, de toute l'étendue de mon âme, qu'ils m'en fassent la grâce.
+
+CHAPITRE XVII. De la Confession.
+
+D. -- Qui est-ce qui a ordonné la Confession ?
+
+R. -- Ç'a été Notre-Seigneur Jésus-Christ.
+
+D. -- Est-on obligé de confesser ses péchés ?
+
+R. -- Oui, sous peine de damnation éternelle.
+
+D. -- Pourquoi ?
+
+R. -- Parce que Notre-Seigneur l'a commandé absolument.
+
+D. -- À qui les faut-il confesser ?
+
+R. -- Aux prêtres qui sont approuvés des évêques.
+
+D. -- Un prêtre, qui est homme pécheur, peut-il nous donner l'absolution de nos péchés ?
+
+R. -- Oui, parce que Dieu lui a donné ce pouvoir.
+
+D. -- Mais si on craint qu'il le publie ?
+
+R. -- Il ne faut point craindre cela, car il est tellement obligé au secret que, s'il le rompait, il mériterait le feu temporel et éternel.
+
+D. -- Faut-il point craindre qu'il ait mauvaise estime de nous ?
+
+R. -- Non, car au contraire les confesseurs ont une très bonne opinion de ceux qui confessent leurs péchés franchement, humblement et avec une vraie repentance.
+
+D. -- Est-il meilleur de se confesser à un sain et savant Confesseur, qu'à un méchant ou ignorant ?
+
+R. -- Oui, comme il est meilleur de se servir d'un bon médecin que d'un mauvais.
+
+D. -- Si on est en danger, en se confessant, d'être entendu des autres pénitents, que faut-il faire ?
+
+R -- Il faut y apporter remède, et non pas pour cela celer son péché.
+
+Ce qu'il faut faire devant la Confession.
+
+D -- Que faut-il faire devant la confession ?
+
+R. -- Il se faut préparer; autrement c'est se mettre en danger de faire une mauvaise confession.
+
+D. -- En quoi consiste cette préparation ?
+
+R. -- En trois choses.
+
+D. -- Quelle est la première ?
+
+R. -- C'est de se mettre à genoux devant Dieu qui est partout, et le supplier qu'il nous fasse connaître nos péchés, et qu'il nous donne la grâce de les bien confesser, lui protestant que nous voulons faire cette action pour l'amour de lui. Puis prier la très sainte Vierge, notre bon Ange et tous les Saints qu'ils nous obtiennent cette grâce.
+
+D. -- Quelle est la seconde ?
+
+R. -- C'est de nous examiner soigneusement sur les commandements de Dieu et de l'Église, et sur les sept péchés capitaux, afin de nous souvenir de nos péchés pour les bien confesser.
+
+D. -- Quelle est la troisième ?
+
+R. -- C'est d'en concevoir une grande repentance, haine et détestation, parce qu'ils déplaisent infiniment à Dieu, et qu'ils ont été cause de la mort et des tourments du Fils de Dieu.
+
+D. -- Faut-il avoir la volonté de renoncer entièrement à son péché pour l'avenir ?
+
+R. -- Oui, autrement on attirerait la malédiction de Dieu sur soi, au lieu de recevoir sa bénédiction.
+
+D. -- Celui qui a volonté de ne pécher plus, mais pourtant qui ne veut pas quitter l'occasion du péché, est-il capable d'absolution ?
+
+R. -- Non plus que Judas, tandis qu'il sera en cette disposition.
+
+D. -- Celui qui a le bien d'autrui, qui peut et ne veut pas le rendre, que fait-il en se confessant ?
+
+R. -- Il fait un horrible sacrilège.
+
+D. -- Est-ce point assez qu'il ait volonté de le rendre à l'heure de la mort, ou en quelque temps de là ?
+
+R. -- Non, il faut rendre au plus tôt, autrement il est indigne d'absolution.
+
+D. -- Quand on a quelque rancune ou discorde avec quelqu'un, faut-il se réconcilier avant que d'aller à confesse ?
+
+R. -- Oui; au moins il faut apporter de son côté tout ce qu'on peut; car on ne peut pas se réconcilier avec Dieu si on est divisé d'avec son prochain.
+
+D. -- Quand on a retenu, à son escient, quelque péché mortel dans ses confessions passées, que faut-il faire ?
+
+R. -- Il faut nécessairement faire une confession générale depuis le temps qu'on a commis ce péché-là, parce que toutes les confessions qu'on a faites depuis ce temps-là ne valent rien.
+
+D. -- Que dites-vous des confessions qu'on a faites à des prêtres qui confessent et examinent par Si, c'est-à-dire: « Si vous avez fait ceci ou cela vous en demandez pardon à Dieu, n'est-ce pas ? »
+
+R. -- Elles ne valent rien du tout; il les faut toutes refaire.
+
+D. -- Est-il nécessaire de faire une confession générale ?
+
+R. -- Oui, pour le moins une bonne fois en sa vie, afin de réparer les manquements qu'on a commis dans les confessions particulières, ou bien depuis la dernière générale qu'on a faite.
+
+D. -- Qu'est-ce qu'une confession générale ?
+
+R. -- C'est se confesser de tous les péchés qu'on à commis depuis qu'on a l'usage de raison, desquels on se peut souvenir.
+
+D. -- Mais cela est bien difficile ?
+
+R. -- Pas tant, pourvu qu'on ait bonne volonté et qu'on soit aidé par un bon confesseur.
+
+Ce qu'il faut faire dans la Confession.
+
+D. -- Que faut-il faire tout au commencement de la Confession ?
+
+R. -- Il faut se mettre à genoux, joindre les mains, faire le signe de la croix, demander la bénédiction au prêtre, disant: Mon Père, donnez-moi votre bénédiction, s'il vous plaît, puis dire le Confiteor jusqu'à mea culpa.
+
+D. -- Après cela que faut-il faire?
+
+R. -- Il faut prier le prêtre qu'il nous interroge, ou bien s'accuser soi-même de ses péchés humblement, clairement et entièrement.
+
+D. -- Qu'est-ce à dire humblement ?
+
+R. -- C'est-à-dire sans s'excuser ou diminuer ses fautes, et sans les rejeter sur autrui.
+
+D. -- Qu'est-ce à dire clairement ?
+
+R. -- C'est-à-dire sans les dissimuler ou déguiser, sans user de paroles ambiguës ou obscures.
+
+D. -- Qu'est ce a dire entièrement ?
+
+R. -- C'est-à-dire qu'il ne faut rien retenir du tout à son escient.
+
+D. -- Est-ce assez de dire en général qu'on est un grand, pécheur ?
+
+R. -- Nenni, il faut spécifier ses fautes en particulier, avec les circonstances notables.
+
+D. -- Faut-il dire le nombre de ses péchés?
+
+R. -- Oui, des mortels, tant qu'il est possible.
+
+D. -- Si on en a laissé quelqu'un avec connaissance qu'arrive-t-il ?
+
+R. -- Au lieu de recevoir l'absolution, on reçoit sa condamnation.
+
+D. -- Quand on a une si grande honte qu'on n'oserait le dire, est-on point excusable ?
+
+R. -- Non, car il vaut bien mieux souffrir, devant un seul homme, une petite honte qui passe en un moment, que d'en avoir la confusion au jour du jugement devant tout le monde, et être damné pour jamais.
+
+D. -- Pourrait-on point racheter ce péché-là par jeûnes, prières, aumônes et mortifications ?
+
+R. -- Non; quand on ferait toutes les bonnes œuvres imaginables, voire même qu'on donnerait son corps à brûler pour Jésus-Christ, si on cèle un péché mortel dans la confession, on ne peut espérer d'autre paradis que l'enfer.
+
+D. -- Que dites-vous de celui qui retient un péché, mais qui a bonne volonté de le confesser à l'heure de la mort, ou bien quand il viendra un Jubilé, ou une Mission, ou quelque Confesseur extraordinaire ?
+
+R. -- Il fait un sacrilège et vend son âme à Satan.
+
+D. -- Mais quoi, la bonne volonté est-elle pas réputée devant Dieu pour l'effet ?
+
+R. -- Oui, mais cette volonté qu'il a n'est pas bonne, ains elle est très mauvaise et très damnable.
+
+D. -- Pourquoi ?
+
+R. -- Parce qu'elle est contraire à la volonté de Dieu, qui nous commande de confesser entièrement les péchés dont nous sommes coupables .
+
+D. -- Si on en a laissé quelqu'un par oubliance, qu'en arrivera-t-il ?
+
+R. -- Il est pardonné comme les autres à condition que, si on s'en souvient, on sera obligé de le confesser en la prochaine confession.
+
+D. -- Est-on obligé de confesser plusieurs fois un péché ?
+
+R. -- Cela n'est pas nécessaire, pourvu que la confession dans laquelle on s'en est accusé ait été parfaite; mais pourtant il est bon de le faire pour s'humilier et glorifier Dieu davantage.
+
+D. -- Comment faut-il finir sa confession ?
+
+R. -- Il la faut finir en cette sorte: « Je m'accuse généralement de tous mes péchés, et de tous les autres dont il ne me souvient pas, et de tous ceux de ma vie passée, pour tels qu'ils sont devant Dieu, et lui en demande pardon, et à vous, mon Père, pénitence et absolution. » Puis dire Mea culpa, et achever le Confiteor.
+
+D. -- Le Confiteor étant achevé, que faut-il faire ?
+
+R. -- Il faut écouter la pénitence et les conseils qui nous sont donnés par le confesseur, avec grande résolution de les accomplir; puis recevoir la sainte absolution avec une profonde humiliation et contrition de nos fautes.
+
+Ce qu'il faut faire après la Confession.
+
+D. -- Après la confession, que faut-il faire ?
+
+R. -- Trois choses.
+
+D. -- Quelle est la première ?
+
+R. -- C'est de remercier Notre-Seigneur de la grâce qu'il nous a faite.
+
+D. -- Quelle est la seconde ?
+
+R. -- C'est de faire avec grande attention et dévotion la pénitence qui nous a été donnée: et outre cela, offrir encore au Père éternel le précieux sang, les sacrées plaies et toutes les souffrances de son Fils, avec les mérites de sa très sainte Mère, de tous les Anges et les Saints, en satisfaction de nos péchés.
+
+D. -- Si on a oublié la pénitence donnée par le prêtre, que faut-il faire ?
+
+R. -- Si on le peut revoir, il faut le prier de nous la redire. Si on ne peut pas, il faut en faire quelque autre, la plus approchante qu'il se pourra de ce qu'il avait donné.
+
+D. -- Quelle est la troisième chose qu'il faut faire après la confession ?
+
+R. -- C'est de supplier Notre-Seigneur, par les prières de sa très sainte Mère et de ses Saints, qu'il nous donne la grâce de suivre tous les bons avis qui nous ont été donnés par le confesseur, et de mourir plutôt que de l'offenser mortellement pour l'avenir.
 
 ---
 

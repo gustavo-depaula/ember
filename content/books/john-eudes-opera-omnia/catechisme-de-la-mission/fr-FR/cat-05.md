@@ -1,300 +1,6 @@
 # Catéchisme (5)
 
-CHAPITRE XVI. De la Contrition.
-
-D. -- Qu'est-ce que la Contrition ?
-
-R. -- C'est un moyen très excellent pour effacer le péché, et pour se conserver toujours en la grâce de Dieu.
-
-D. -- En quoi est-ce qu'elle consiste ?
-
-R. -- Elle consiste à demander pardon à Dieu de son péché, être marri de l'avoir commis, et le détester parce qu'il lui déplaît et qu'il le déshonore infiniment ayant une forte, solide et profonde volonté de s'en confesser et corriger.
-
-D. -- Est-ce une chose bien puissante que la Contrition ?
-
-R. -- Oui, car un seul acte de vraie contrition est capable d'effacer en une âme toutes sortes de péchés, fussent-ils très énormes.
-
-D. -- Il est donc bien nécessaire de savoir faire un acte de contrition ?
-
-R. -- Très nécessaire, et quiconque ne sait point cela, il est en danger évident de se perdre éternellement.
-
-D. -- Pourquoi cela ?
-
-R. -- Parce que, étant tombé en péché mortel, et la mort le surprenant en cet état sans qu'il puisse se confesser, s'il ne sait pas faire un acte de contrition, le voilà damné à jamais.
-
-D. -- Quelle différence y a-t-il entre la contrition et l'Attrition ?
-
-R. -- Grande différence. Car la contrition c'est haïr son péché et être marri de l'avoir commis, pour la considération du seul intérêt de Dieu, c'est-à-dire à cause de l'injure et du très grand tort qu'il a fait à Dieu.
-
-D. -- L'Attrition qu'est-ce ?
-
-R. -- C'est être fâché d'avoir commis le péché, pour la considération de notre intérêt, c'est-à-dire à cause du mal que le péché nous fait en nous privant de la grâce et de la gloire de Dieu, et en nous rendant dignes de l'enfer.
-
-## D. -- La Contrition peut-elle effacer le péché et nous
-
-remettre en la grâce de Dieu, sans qu'il soit nécessaire de s'en confesser à l'heure même ?
-
-R. -- Oui, pourvu qu'on ait la volonté de s'en confesser à la première confession qu'on fera.
-
-D. --L'Attrition peut-elle faire la même chose ?
-
-R. -- Nenni: car, si elle n'est jointe avec la confession, elle ne fait rien.
-
-D. -- Pouvons-nous avoir l'Attrition ou la Contrition de nous-mêmes et par nos propres forces ?
-
-R. -- Non, c'est un don et une grâce de Dieu; c'est pourquoi, quand on veut faire un acte de contrition, il faut le demander à Dieu auparavant, avec humilité, confiance et persévérance, et afin de l'obtenir plus facilement, y employer le Jeûne, l'aumône si on en a le moyen, et autres mortifications et bonnes œuvres. D. -- Pour avoir une bonne contrition est-il nécessaire de répandre des larmes et d'avoir une douleur sensible dans le cœur ? R. -- Cela est bon, mais non pas absolument nécessaire; il suffit de protester à Dieu de toute sa volonté qu'on abhorre ses péchés pour l'amour de lui-même, et qu'on a volonté de s'en confesser et corriger.
-
-D. -- Pour avoir une vraie contrition est-il nécessaire de quitter l'occasion prochaine du péché, de rendre le bien d'autrui quand on le peut, et de se réconcilier avec le prochain ?
-
-R. -- Oui, car sans toutes ces conditions ce n'est pas une vraie, mais fausse contrition, semblable à celle de Judas .
-
-D. -- Comment faut-il faire un acte de contrition ?
-
-R. -- Il faut premièrement prier Notre-Seigneur qu'il nous donne la grâce de le faire, en cette sorte:
-
-« O bon Jésus, je désire avoir une vraie contrition de mes péchés, mais je ne puis sans vous: c'est pourquoi je vous supplie de tout mon cœur, par votre sainte Passion et par les mérites de votre très sainte Mère et de tous les Saints, de m'en donner la grâce. »
-
-D. -- Après cela que faut-il faire ?
-
-R. -- Il faut se mettre en devoir et tâcher de faire un acte de contrition en cette sorte:
-
-« O mon Dieu, de tout mon cœur je suis marri de vous avoir offensé, parce que le péché vous déshonore infiniment, et j'ai volonté de m'en confesser et amender.
-
-D. -- En une autre manière ?
-
-R. -- « O mon Dieu, je veux haïr mes péchés de la même haine que vous leur portez, et j'ai volonté de m'en confesser et de mourir plutôt à l'avenir que de vous offenser. »
-
-D. -- En une autre manière ?
-
-R. -- « O mon Dieu, je veux détester mes péchés de la même détestation que vos Anges et vos Saints les détestent, et j'ai volonté de m'en confesser et corriger.
-
-D. -- Une autre façon ?
-
-R. -- « O mon Jésus, j'ai en horreur mes offense, parce qu'elles ont été cause de la très cruelle mort que vous avez soufferte, et j'ai volonté, etc... »
-
-D. -- Une autre façon?
-
-R. -- « O mon Sauveur, quelle douleur et contrition vous avez portée en votre cœur, en la vue de mes péchés ! Elle a été si violente qu'elle vous a fait suer le sang en abondance au Jardin des Olives. Faites-moi, s'il vous plaît, participant de cette douleur et contrition. De mon côté, je m'y veux joindre et l'offrir à votre Père éternel en satisfaction de mes offenses. »
-
-D. -- Une autre sorte ?
-
-R. -- « O mon Jésus, je vous veux dire avec le bon Larron les mêmes paroles qu'il vous a dites en la croix, et je veux vous les dire avec la même contrition et repentance avec laquelle il les a dites: Seigneur, souvenez-vous de moi quand vous serez en votre Royaume. »
-
-D. -- Une autre sorte ?
-
-R. -- « O mon Dieu, je veux frapper ma poitrine avec la même douleur et contrition avec laquelle le pauvre Publicain frappait la sienne, et vous dire avec lui en cette même contrition: O Dieu, soyez propice à moi pécheur. »
-
-D. -- Quand est-ce qu'il faut faire des actes de contrition ?
-
-R. -- Le matin, le soir, quand on va à confesse, et après qu'on est tombé en quelque péché.
-
-D. -- Que dites-vous de ceux qui, s'assurant trop à la contrition et au bon PECCAVI, diffèrent de se confesser à l'heure de la mort ?
-
-R. -- Pour l'ordinaire ces gens-là meurent comme enragés et désespérés, par un juste jugement de Dieu.
-
-D. -- Pourquoi ?
-
-R. -- Parce que, ayant pu avoir la contrition durant leur vie, et ne l'ayant pas voulue, ils la voudraient bien avoir au lit de la mort; mais Dieu ne la leur donne pas, et ainsi ils meurent malheureusement ou sans contrition, ou avec une fausse et trompeuse contrition.
-
-D. -- Voulez-vous être du nombre de ces misérables ?
-
-R. -- Je prie Dieu qu'il m'en veuille bien préserver.
-
-D. -- Ne vous fiez donc pas au bon PECCAVI, et n'attendez pas à l'heure de la mort à renoncer au péché; mais convertissez-vous entièrement et parfaitement à Dieu dès maintenant, et sans différer davantage.
-
-R. -- C'est ce que je désire de tout mon cœur, et je prie Notre-Seigneur et sa très sainte Mère, de toute l'étendue de mon âme, qu'ils m'en fassent la grâce.
-
-CHAPITRE XVII. De la Confession.
-
-D. -- Qui est-ce qui a ordonné la Confession ?
-
-R. -- Ç'a été Notre-Seigneur Jésus-Christ.
-
-D. -- Est-on obligé de confesser ses péchés ?
-
-R. -- Oui, sous peine de damnation éternelle.
-
-D. -- Pourquoi ?
-
-R. -- Parce que Notre-Seigneur l'a commandé absolument.
-
-D. -- À qui les faut-il confesser ?
-
-R. -- Aux prêtres qui sont approuvés des évêques.
-
-D. -- Un prêtre, qui est homme pécheur, peut-il nous donner l'absolution de nos péchés ?
-
-R. -- Oui, parce que Dieu lui a donné ce pouvoir.
-
-D. -- Mais si on craint qu'il le publie ?
-
-R. -- Il ne faut point craindre cela, car il est tellement obligé au secret que, s'il le rompait, il mériterait le feu temporel et éternel.
-
-D. -- Faut-il point craindre qu'il ait mauvaise estime de nous ?
-
-R. -- Non, car au contraire les confesseurs ont une très bonne opinion de ceux qui confessent leurs péchés franchement, humblement et avec une vraie repentance.
-
-D. -- Est-il meilleur de se confesser à un sain et savant Confesseur, qu'à un méchant ou ignorant ?
-
-R. -- Oui, comme il est meilleur de se servir d'un bon médecin que d'un mauvais.
-
-D. -- Si on est en danger, en se confessant, d'être entendu des autres pénitents, que faut-il faire ?
-
-R -- Il faut y apporter remède, et non pas pour cela celer son péché.
-
-Ce qu'il faut faire devant la Confession.
-
-D -- Que faut-il faire devant la confession ?
-
-R. -- Il se faut préparer; autrement c'est se mettre en danger de faire une mauvaise confession.
-
-D. -- En quoi consiste cette préparation ?
-
-R. -- En trois choses.
-
-D. -- Quelle est la première ?
-
-R. -- C'est de se mettre à genoux devant Dieu qui est partout, et le supplier qu'il nous fasse connaître nos péchés, et qu'il nous donne la grâce de les bien confesser, lui protestant que nous voulons faire cette action pour l'amour de lui. Puis prier la très sainte Vierge, notre bon Ange et tous les Saints qu'ils nous obtiennent cette grâce.
-
-D. -- Quelle est la seconde ?
-
-R. -- C'est de nous examiner soigneusement sur les commandements de Dieu et de l'Église, et sur les sept péchés capitaux, afin de nous souvenir de nos péchés pour les bien confesser.
-
-D. -- Quelle est la troisième ?
-
-R. -- C'est d'en concevoir une grande repentance, haine et détestation, parce qu'ils déplaisent infiniment à Dieu, et qu'ils ont été cause de la mort et des tourments du Fils de Dieu.
-
-D. -- Faut-il avoir la volonté de renoncer entièrement à son péché pour l'avenir ?
-
-R. -- Oui, autrement on attirerait la malédiction de Dieu sur soi, au lieu de recevoir sa bénédiction.
-
-D. -- Celui qui a volonté de ne pécher plus, mais pourtant qui ne veut pas quitter l'occasion du péché, est-il capable d'absolution ?
-
-R. -- Non plus que Judas, tandis qu'il sera en cette disposition.
-
-D. -- Celui qui a le bien d'autrui, qui peut et ne veut pas le rendre, que fait-il en se confessant ?
-
-R. -- Il fait un horrible sacrilège.
-
-D. -- Est-ce point assez qu'il ait volonté de le rendre à l'heure de la mort, ou en quelque temps de là ?
-
-R. -- Non, il faut rendre au plus tôt, autrement il est indigne d'absolution.
-
-D. -- Quand on a quelque rancune ou discorde avec quelqu'un, faut-il se réconcilier avant que d'aller à confesse ?
-
-R. -- Oui; au moins il faut apporter de son côté tout ce qu'on peut; car on ne peut pas se réconcilier avec Dieu si on est divisé d'avec son prochain.
-
-D. -- Quand on a retenu, à son escient, quelque péché mortel dans ses confessions passées, que faut-il faire ?
-
-R. -- Il faut nécessairement faire une confession générale depuis le temps qu'on a commis ce péché-là, parce que toutes les confessions qu'on a faites depuis ce temps-là ne valent rien.
-
-D. -- Que dites-vous des confessions qu'on a faites à des prêtres qui confessent et examinent par Si, c'est-à-dire: « Si vous avez fait ceci ou cela vous en demandez pardon à Dieu, n'est-ce pas ? »
-
-R. -- Elles ne valent rien du tout; il les faut toutes refaire.
-
-D. -- Est-il nécessaire de faire une confession générale ?
-
-R. -- Oui, pour le moins une bonne fois en sa vie, afin de réparer les manquements qu'on a commis dans les confessions particulières, ou bien depuis la dernière générale qu'on a faite.
-
-D. -- Qu'est-ce qu'une confession générale ?
-
-R. -- C'est se confesser de tous les péchés qu'on à commis depuis qu'on a l'usage de raison, desquels on se peut souvenir.
-
-D. -- Mais cela est bien difficile ?
-
-R. -- Pas tant, pourvu qu'on ait bonne volonté et qu'on soit aidé par un bon confesseur.
-
-Ce qu'il faut faire dans la Confession.
-
-D. -- Que faut-il faire tout au commencement de la Confession ?
-
-R. -- Il faut se mettre à genoux, joindre les mains, faire le signe de la croix, demander la bénédiction au prêtre, disant: Mon Père, donnez-moi votre bénédiction, s'il vous plaît, puis dire le Confiteor jusqu'à mea culpa.
-
-D. -- Après cela que faut-il faire?
-
-R. -- Il faut prier le prêtre qu'il nous interroge, ou bien s'accuser soi-même de ses péchés humblement, clairement et entièrement.
-
-D. -- Qu'est-ce à dire humblement ?
-
-R. -- C'est-à-dire sans s'excuser ou diminuer ses fautes, et sans les rejeter sur autrui.
-
-D. -- Qu'est-ce à dire clairement ?
-
-R. -- C'est-à-dire sans les dissimuler ou déguiser, sans user de paroles ambiguës ou obscures.
-
-D. -- Qu'est ce a dire entièrement ?
-
-R. -- C'est-à-dire qu'il ne faut rien retenir du tout à son escient.
-
-D. -- Est-ce assez de dire en général qu'on est un grand, pécheur ?
-
-R. -- Nenni, il faut spécifier ses fautes en particulier, avec les circonstances notables.
-
-D. -- Faut-il dire le nombre de ses péchés?
-
-R. -- Oui, des mortels, tant qu'il est possible.
-
-D. -- Si on en a laissé quelqu'un avec connaissance qu'arrive-t-il ?
-
-R. -- Au lieu de recevoir l'absolution, on reçoit sa condamnation.
-
-D. -- Quand on a une si grande honte qu'on n'oserait le dire, est-on point excusable ?
-
-R. -- Non, car il vaut bien mieux souffrir, devant un seul homme, une petite honte qui passe en un moment, que d'en avoir la confusion au jour du jugement devant tout le monde, et être damné pour jamais.
-
-D. -- Pourrait-on point racheter ce péché-là par jeûnes, prières, aumônes et mortifications ?
-
-R. -- Non; quand on ferait toutes les bonnes œuvres imaginables, voire même qu'on donnerait son corps à brûler pour Jésus-Christ, si on cèle un péché mortel dans la confession, on ne peut espérer d'autre paradis que l'enfer.
-
-D. -- Que dites-vous de celui qui retient un péché, mais qui a bonne volonté de le confesser à l'heure de la mort, ou bien quand il viendra un Jubilé, ou une Mission, ou quelque Confesseur extraordinaire ?
-
-R. -- Il fait un sacrilège et vend son âme à Satan.
-
-D. -- Mais quoi, la bonne volonté est-elle pas réputée devant Dieu pour l'effet ?
-
-R. -- Oui, mais cette volonté qu'il a n'est pas bonne, ains elle est très mauvaise et très damnable.
-
-D. -- Pourquoi ?
-
-R. -- Parce qu'elle est contraire à la volonté de Dieu, qui nous commande de confesser entièrement les péchés dont nous sommes coupables .
-
-D. -- Si on en a laissé quelqu'un par oubliance, qu'en arrivera-t-il ?
-
-R. -- Il est pardonné comme les autres à condition que, si on s'en souvient, on sera obligé de le confesser en la prochaine confession.
-
-D. -- Est-on obligé de confesser plusieurs fois un péché ?
-
-R. -- Cela n'est pas nécessaire, pourvu que la confession dans laquelle on s'en est accusé ait été parfaite; mais pourtant il est bon de le faire pour s'humilier et glorifier Dieu davantage.
-
-D. -- Comment faut-il finir sa confession ?
-
-R. -- Il la faut finir en cette sorte: « Je m'accuse généralement de tous mes péchés, et de tous les autres dont il ne me souvient pas, et de tous ceux de ma vie passée, pour tels qu'ils sont devant Dieu, et lui en demande pardon, et à vous, mon Père, pénitence et absolution. » Puis dire Mea culpa, et achever le Confiteor.
-
-D. -- Le Confiteor étant achevé, que faut-il faire ?
-
-R. -- Il faut écouter la pénitence et les conseils qui nous sont donnés par le confesseur, avec grande résolution de les accomplir; puis recevoir la sainte absolution avec une profonde humiliation et contrition de nos fautes.
-
-Ce qu'il faut faire après la Confession.
-
-D. -- Après la confession, que faut-il faire ?
-
-R. -- Trois choses.
-
-D. -- Quelle est la première ?
-
-R. -- C'est de remercier Notre-Seigneur de la grâce qu'il nous a faite.
-
-D. -- Quelle est la seconde ?
-
-R. -- C'est de faire avec grande attention et dévotion la pénitence qui nous a été donnée: et outre cela, offrir encore au Père éternel le précieux sang, les sacrées plaies et toutes les souffrances de son Fils, avec les mérites de sa très sainte Mère, de tous les Anges et les Saints, en satisfaction de nos péchés.
-
-D. -- Si on a oublié la pénitence donnée par le prêtre, que faut-il faire ?
-
-R. -- Si on le peut revoir, il faut le prier de nous la redire. Si on ne peut pas, il faut en faire quelque autre, la plus approchante qu'il se pourra de ce qu'il avait donné.
-
-D. -- Quelle est la troisième chose qu'il faut faire après la confession ?
-
-R. -- C'est de supplier Notre-Seigneur, par les prières de sa très sainte Mère et de ses Saints, qu'il nous donne la grâce de suivre tous les bons avis qui nous ont été donnés par le confesseur, et de mourir plutôt que de l'offenser mortellement pour l'avenir. CHAPITRE XVIII. De la Satisfaction.
+CHAPITRE XVIII. De la Satisfaction.
 
 D. -- Est-ce assez d'avoir confessé ses péchés avec une véritable contrition, ainsi qu'il a été dit ?
 
@@ -420,9 +126,7 @@ R. --Trois, à savoir: Sous-Diacre, Diacre et Prêtre.
 
 D. -- Dans l'ordre de Prêtrise, n'y a-t-il point encore divers degrés ?
 
-R.--Oui; Car il y a de simples prêtres, les Curés, qui sont successeurs des septante-deux 41 « Cum infirmitas corporalis nonnumquam ex peccato proveniat, dicente Domino, languido quem sanaverat: Vade et amplius noli peccare, ne deterius aliquid tibi contingat: decreto praesenti statuimus, et distincte praecipimus medicis corporum, ut cum eos ad infirmos vocari contigerit, ipsos ante omnia moneant et inducant, quod medicos advocent animarum, ut postquam infirmis fuerit de spirituali salute provisum, ad corporalis medicinae remedium salubrius procedatur:cum causa cessante, cesset effectus. Hoc quidem inter alia huic causam dedit edicto,quod quidam in aegritudinis lecto jacentes, cum eis a medico suadetur, ut de animarum salute disponant, in desperationis articulum incidunt unde facilius mortis periculum incurrunt. Si quis autem medicorum hujus nostrae constitutionis, postquam per praelatos locorum fuerit publicata, transgressor extiterit: tandiu ab ingressu Ecclesiae arceatur, donec pro transgressione hujusmodi satisfecerit competenter. Coeterum cum anima sit multo pretiosior corpore, sub interminatione anathematis prohibemus, ne quis medicorum pro corporali sulute aliquid agroto suadeat, quod in periculum animae convertatur.» Concil. Later. IV. Decr. sub Innoc. III. cap. XXII.
-
-disciples du Fils de Dieu; les Évêques, Archevêques et Patriarches, qui sont successeurs des Apôtres; et Notre Saint Père le Pape, qui est successeur du Prince des Apôtres, vicaire général de NotreSeigneur Jésus-Christ en terre, et chef universel de son Église militante.
+R.--Oui; Car il y a de simples prêtres, les Curés, qui sont successeurs des septante-deux 41 « Cum infirmitas corporalis nonnumquam ex peccato proveniat, dicente Domino, languido quem sanaverat: Vade et amplius noli peccare, ne deterius aliquid tibi contingat: decreto praesenti statuimus, et distincte praecipimus medicis corporum, ut cum eos ad infirmos vocari contigerit, ipsos ante omnia moneant et inducant, quod medicos advocent animarum, ut postquam infirmis fuerit de spirituali salute provisum, ad corporalis medicinae remedium salubrius procedatur:cum causa cessante, cesset effectus. Hoc quidem inter alia huic causam dedit edicto,quod quidam in aegritudinis lecto jacentes, cum eis a medico suadetur, ut de animarum salute disponant, in desperationis articulum incidunt unde facilius mortis periculum incurrunt. Si quis autem medicorum hujus nostrae constitutionis, postquam per praelatos locorum fuerit publicata, transgressor extiterit: tandiu ab ingressu Ecclesiae arceatur, donec pro transgressione hujusmodi satisfecerit competenter. Coeterum cum anima sit multo pretiosior corpore, sub interminatione anathematis prohibemus, ne quis medicorum pro corporali sulute aliquid agroto suadeat, quod in periculum animae convertatur.» Concil. Later. IV. Decr. sub Innoc. III. cap. XXII. disciples du Fils de Dieu; les Évêques, Archevêques et Patriarches, qui sont successeurs des Apôtres; et Notre Saint Père le Pape, qui est successeur du Prince des Apôtres, vicaire général de NotreSeigneur Jésus-Christ en terre, et chef universel de son Église militante.
 
 D. -- Est-on obligé d'honorer spécialement tous ceux qui sont en quelqu'un de ces degrés, quels qu'ils soient ?
 
@@ -438,7 +142,9 @@ R. -- Davantage Notre-Seigneur a déclaré que quiconque les écoute et honore, 
 
 D. --À quoi sont obligés ceux que Dieu a appelés à cette sainte condition ?
 
-R.-- Ils doivent employer tout leur temps, tous leurs soins et affections à glorifier et faire glorifier Dieu; à procurer le salut des âmes par leur exemple, par leurs instructions et en toutes manières; à continuer et imiter, autant qu'il leur est possible, la vie que le souverain Prêtre JésusChrist a menée sur la terre; et, en un mot, à vivre autant qu'il se peut comme des anges. Autrement ils seront plus damnés que les démons. CHAPITRE XXI. Du Mariage.
+R.-- Ils doivent employer tout leur temps, tous leurs soins et affections à glorifier et faire glorifier Dieu; à procurer le salut des âmes par leur exemple, par leurs instructions et en toutes manières; à continuer et imiter, autant qu'il leur est possible, la vie que le souverain Prêtre JésusChrist a menée sur la terre; et, en un mot, à vivre autant qu'il se peut comme des anges. Autrement ils seront plus damnés que les démons.
+
+CHAPITRE XXI. Du Mariage.
 
 D. --Qu'est-ce que le Mariage ?
 
@@ -468,9 +174,7 @@ R. --C'est qu'il y en a peu qui imitent le saint homme Tobie le jeune, qui disai
 
 spernit, spernit eum qui me misit. » Luc. X, 16.
 
-Eph. V, 32.
-
-Seigneur, vous savez que j'épouse une femme par désir, non point de volupté charnelle, mais seulement d'avoir des enfants qui vous bénissent éternellement 44 . » Et sa sainte épouse Sara, qui parlait aussi en cette façon: « Vous connaissez, Seigneur, que jamais je ne convoitai homme, et que j'ai gardé mon âme pure de toute concupiscence; mais j'ai consenti de prendre mari en votre crainte, et non selon les inclinations de la chair 45 .»
+Eph. V, 32. Seigneur, vous savez que j'épouse une femme par désir, non point de volupté charnelle, mais seulement d'avoir des enfants qui vous bénissent éternellement 44 . » Et sa sainte épouse Sara, qui parlait aussi en cette façon: « Vous connaissez, Seigneur, que jamais je ne convoitai homme, et que j'ai gardé mon âme pure de toute concupiscence; mais j'ai consenti de prendre mari en votre crainte, et non selon les inclinations de la chair 45 .»
 
 Au contraire, il y en a quantité qui, dans le dessein du mariage, n'ont point Dieu devant les yeux, ainsi que dit l'Ange Raphaël au jeune Tobie; mais y sont portés plutôt par des motifs de charnalité ou d'avarice, que pour les intentions pour lesquelles Dieu a établi ce Sacrement. Et ce sont ceux-là, dit le même Ange, sur lesquels le diable a puissance 46; et ce fut la cause pour laquelle Dieu lui permit de tuer les sept maris qui furent donnés à Sara avant le jeune Tobie.
 
@@ -534,6 +238,142 @@ D. -- Quelle est la quinzième cause ?
 
 R. --C'est lorsque les pères et mères s'arrogent une autorité sur leurs enfants, qui n'appartient qu'à Dieu; c'est-à-dire lorsqu'ils veulent faire leur vocation, obligeant les uns à entrer dans l'état ecclésiastique ou dans la religion, qui n'y sont point appelés; et en détournant quelquefois les autres qui y sont appelés: ce qui attire de grandes malédictions de Dieu sur les familles.
 
+CHAPITRE XXII. Remèdes à tous les maux précédents, et Moyens pour vivre
+
+## chrétiennement et saintement dans le mariage
+
+D. --Il ne faut pas s'étonner s'il arrive tant de désordres dans l'état de mariage; car en voilà bien des causes qui ne sont que trop vraies et trop communes. Mais quels remèdes à tant de maux, et quels moyens pourrait-on trouver pour vivre chrétiennement dans cette condition?
+
+IV, 5.
+
+R. --En voici douze excellents.
+
+D. -- Dites le premier.
+
+R. --Auparavant que de s'engager à aucune condition, il faut se mettre en bon état, s'exercer quelque temps en prières, lectures spirituelles, aumônes, jeûnes, mortifications et autres exercices de piété, invoquer la très sainte Vierge, les Anges et les Saints, et consulter quelques serviteurs de Dieu. pour obtenir de lui, par tous ces moyens, qu'il donne lumière pour connaître sa sainte volonté, et grâce pour l'accomplir.
+
+D. -- Dites le second.
+
+R. --Après qu'on a reconnu, par les moyens précédents. qu'on est appelé de Dieu à la condition du mariage, la principale chose qu'il faut considérer dans le parti qu'on doit choisir, c'est de prendre bien garde à jeter les yeux sur celui avec lequel on peut servir Dieu et faire son salut plus facilement.
+
+D. -- Dites le troisième.
+
+R. --C'est, lorsqu'on est résolu d'entrer en cet état, de renoncer fortement aux inclinations charnelles et terrestres de la volupté et de l'avarice, et de protester à Dieu qu'on ne veut se marier que pour les intentions pour lesquelles il a institué le mariage.
+
+D. -- Dites le quatrième.
+
+R. --Retrancher des festins et solemnités qui se font aux fiançailles et aux noces, tous les excès, mondanités et dissolutions; et faire en sorte qu'il ne se passe rien qui soit contraire à la modestie, prudence et sainteté chrétiennes.
+
+D. --Dites le cinquième.
+
+R. -- Durant le temps qu'on est en fiançailles, éviter plus que la peste les moindres choses contraires à la chasteté, et se conserver soigneusement en la crainte et grâce de Dieu.
+
+D . -- Dites le sixième .
+
+R. --Avant que de recevoir ce sacrement, se préparer dignement à faire une bonne confession et communion. Et si d'aventure on n'est pas instruit suffisamment touchant les choses qu'un chrétien doit savoir et pratiquer, avoir soin de se faire instruire par son confesseur ou pasteur, qui doit avoir un grand soin de ne point permettre qu'aucune des personnes qui sont en sa conduite reçoive ce sacrement, si elle n'a la connaissance qui est nécessaire des principaux mystères du christianisme, et si elle ne sait le Pater, l'Ave, le Credo, et les commandements de Dieu et de l'Église, au moins en substance. Car, s'ils ne savent pas ces choses, comment les enseigneront-ils à leurs enfants ?
+
+D. --Dites le septième.
+
+R.-- Suivre le conseil que l'ange Raphaël donna aux jeune Tobie 50 ; que saint Évariste, Pape et Martyr, donne à tous les chrétiens dans une épître qu'il écrit aux Évêques d'Afrique 51 ; et que même le sacré Concile de Trente 52 insinue, à savoir: « Qu'après avoir reçu le sacrement, on demeure au moins deux ou trois jours en continence et chasteté, employant ce temps-là en prières et bonnes œuvres, afin de plaire à Dieu et d'obtenir de sa divine bonté les grâces et bénédictions qui sont nécessaires pour le servir et honorer dignement en la condition en laquelle on entre.»
+
+D. --Dites le huitième.
+
+R. --Graver dans son cœur ces paroles de saint Paul 50 Tu autem cum acceperis eam, ingressus cubiculum, per tres dies continens esto ab ea, et nihil aliud, nisi orationibus vacabis cum ea. » Tob VI, 18.
+
+51 Uxor solemniter accipiatur [a viro]: et biduo vel triduo orationibus vacent et castitatem custodiant. » In decreto, 2 p., caus. XXX, quaest 5, cap. 1.
+
+52 « Postremo sancta Synodus conjuges hortatur ut, antequam contrahant, vel saltem triduo ante matrimonii consummationem, sua peccata diligenlter confiteantur et ad sanctissimum Eucharistiae sacramentum pie accedant.» Conc. Trid.,sess. 24, de Ref, cap. 1. et les pratiquer, lequel, parlant aux personnes mariées, leur dit:«Vous savez quels sont les commandements que je vous ai donnés par le Seigneur Jésus, qu'un chacun de vous sache se comporter avec honnêteté et sainteté dans le mariage, et non point étant passionnés de concupiscence, comme les Gentils qui ne connaissent point Dieu. Car Dieu ne nous a point appelés à l'immondice, mais à la sainteté. C'est pourquoi quiconque rejette ceci, ne rejette point un homme, mais Dieu 53 .»
+
+D. --Ajoutez quelque chose à cela.
+
+R. --Vivre selon le conseil que ce même apôtre donne à tous les chrétiens qui sont dans le mariage, lorsqu'il les exhorte de s'abstenir quelquefois pour un temps, par un mutuel consentement, afin de mieux vaquer à l'oraison 54 .
+
+Ce qui serait bon à faire spécialement au temps des fêtes de Notre-Seigneur et de sa sainte Mère, et au saint temps de l'Avent et de Carême, afin d'imiter au moins en partie tant de saintes personnes, dont les unes ont vécu en perpétuelle virginité dans le mariage; les autres, après avoir eu quelques enfants, ont conservé la chasteté jusqu'à la fin de leurs jours. Ce qui était très commun parmi les premiers chrétiens: et c'est une chose infiniment agréable à celui qui aime infiniment les âmes chastes.
+
+D. -- Dites le neuvième moyen de vivre chrétiennement dans le mariage.
+
+R. --Sur toutes choses, conserver la paix et la dilection mutuelle très soigneusement et au dépens de quoique ce soit, hormis de l'honneur de Dieu, craignant et fuyant plus que la mort tout ce qui est capable de l'altérer; supportant et excusant bénignement les défauts les uns des autres; le mari aimant sa femme comme Jésus-Christ aime son Église, selon la parole sacrée 55 ; et la femme rendant honneur et obéissance à son mari, comme à celui qui lui représente Jésus-Christ 56 .
+
+D. -- Dites le dixième.
+
+R. -- Si Dieu ne donne point d'enfants, faire Notre-Seigneur et sa très sainte Mère ses héritiers en la personne des pauvres. S'il en donne, ne laisser pas de leur réserver une place parmi les héritiers, leur donnant une portion de son bien, selon le conseil de saint Chrysostome 57.
+
+D. -- Dites l'onzième.
+
+R. --Offrir et consacrer à Dieu ses enfants par l'entremise de la bienheureuse Vierge, au même temps qu'on vient à connaître qu'ils commencent à avoir l'être et la vie; les faire baptiser sitôt qu'ils sont nés, sans différer aucunement; leur prononcer souvent les saints noms de Jésus et
+
+unusquisque vestrum vas suum possidere in sanctificatione et honore.., Non in passione desiderii, sicut et gentes quae ignorant Deum... Non enim vocavit nos Deus in immunditiam, sed in sanctificationem. Itaque qui haec spernit, non hominem spernit sed Deum » . I Thess. IV, 2-8,
+
+orationi, " I.Cor VII.
+
+57 « Licet et in extremis vita momentis Deo (in persona pauperum) se gratum reddere, licet et per testamentum probabilem fieri. Qualiter et quomodo? Si cum necessariis tuis haeredem, et ipsiquoque totius hareditatis partem distribuas.. Coharedem eum tuorum institue filiorum. » Ad populum Antioch, Hom. XXV. Marie, quand ils approchent du temps auquel ils commencent à parler, afin que les premières paroles qu'ils profèreront soient Jésus, Maria; et avoir un très grand soin de leur aider à conserver le précieux trésor de la grâce baptismale lorsqu'ils sont arrivés à l'usage de raison, leur imprimant de bonne heure dans l'âme une très grande horreur du péché; et leur donnant et faisant donner et pratiquer, comme aussi à ses serviteurs et domestiques, toutes les instructions nécessaires pour vivre chrétiennement.
+
+D. --Dites le douzième.
+
+R. -- Ne forcer point les enfants à prendre une condition contre leur volonté; mais lorsqu'ils sont en âge d'en choisir une, les faire mettre en bon état et s'y mettre avec eux; puis communier ensemble, et après la sainte communion, conférer avec eux sur ce sujet pour tâcher de connaître à quoi Dieu les appelle, afin de les aider à suivre sa vocation.
+
+CHAPITRE XXIII. Du péché.
+
+D. -- Quelle est la chose du monde la plus horrible et détestable, et qu'un chrétien doit davantage craindre, fuir et abhorrer ?
+
+R. -- C'est le péché.
+
+D. -- Qu'est-ce que le péché?
+
+R -- C'est tout ce qui est fait, dit, pensé ou désiré contre la loi et volonté de Dieu.
+
+D. -- Combien y a-t-il de sortes de péchés?
+
+R. --Il y en a trois: l'originel le mortel, le véniel.
+
+D. -- Qu'est-ce que le péché originel ?
+
+R. -- C'est celui que nous apportons au monde avec nous, et qui est effacé par le baptême.
+
+D. -- Qu'est-ce que le péché mortel?
+
+R. -- C'est tout ce qui est fait, dit, pensé ou désiré, après qu'on a l'usage de raison, contre les commandements de Dieu ou de son Église, en chose d'importance, et avec une pleine connaissance et volonté.
+
+D. -- Qu'est-ce que le péché véniel ?
+
+R. -- C'est tout ce qui est fait, dit, pensé ou désiré contre les commandements de Dieu ou de l'Église, en chose de peu d'importance, ou bien par surprise et mégarde, et sans pleine vue et délibération.
+
+D. -- Pourquoi appelle-t-on celui-là mortel ?
+
+R. --Parce qu'il tue notre âme, lui faisant perdre la vie de la grâce, et nous précipite dans la mort éternelle.
+
+D. --Pourquoi appelle-t-on celui-ci véniel?
+
+R. -- Parce qu'il ne nous rend pas ennemis de Dieu, et que, se commettant légèrement, il se pardonne facilement.
+
+D. -- Le péché mortel est-il plus épouvantable que la mort?
+
+R. -- Oui, car la mort tue seulement le corps, et le péché fait mourir l'âme.
+
+D. -- Est-il plus horrible que le diable?
+
+R. -- Oui, car tout ce que les diables ont d'horreur, ils l'ont tiré du péché.
+
+D. --Est-il plus effroyable que l'enfer?
+
+R. --Oui, car tout ce que l'enfer a de rage et de fureur procède du péché.
+
+D. -- A-t-on vu des personnes qui aient mieux aimé souffrir la mort que de faire un péché mortel ?
+
+R.--Oui on a vu plus de douze millions de chrétiens, de toutes sortes d'âge, de sexe et de condition, qui ont plutôt choisi la mort et toutes sortes de tourments, que d'offenser Dieu.
+
+D. -- En a-t-on vu qui aient mieux aimé être possédés du diable en leur corps, que d'être possédés du péché en leur âme?
+
+R. --Oui, il y en a eu plusieurs qui ont mieux aimé souffrir le supplice et l'infamie de la possession corporelle du diable, que de faire même un péché véniel.
+
+D. -- Y en a-t-il qui aient mieux aimé souffrir les tourments de l'enfer, que d'offenser Dieu mortellement ?
+
+R. -- Oui, les premiers chrétiens avaient tant le péché en horreur, qu'ils criaient publiquement: Nous aimons mieux souffrir les supplices de l'enfer, que d'être séparés de Dieu par le péché.
+
+D. --Que voudriez vous souffrir plutôt que de commettre un péché mortel ?
+
+R. --J'aimerais mieux, moyennant l'aide de mon Dieu, être brûlé tout vif; et je le prie qu'il me fasse la grâce de souffrir plutôt tous les tourments de la terre et de l'enfer, que de l'offenser jamais mortellement.
+
 ---
 
 *Notes de l’éditeur (Œuvres complètes, 1905–11)*
@@ -555,3 +395,17 @@ R. --C'est lorsque les pères et mères s'arrogent une autorité sur leurs enfan
 42 « Qui vos audit, me audit; et qui vos spernit, me spernit. Qui autem me
 
 43 « Sacramentum hoc magnum est: ego autem dico in Christo et in Ecclesia. »
+
+47 Tob. VI, 17,
+
+48 «Non in passsione desiderii, sicut et gentes qua ignorant Deum ». I Thes.
+
+49 I Tim. V, 8.
+
+53 « Scitis enim quae pracepta dederim vobis per Dominum Jesum...: ut sciat
+
+54 Nolite fraudare invicem, nisi forte ex consensu ad tempus, ut vacetis
+
+55 « Viri diligite uxores vestras et Christus dilexit Ecclesiam ». Eph. V, 25.
+
+56 « Mulieres viris suis subdita sint, sicut Domino. » Eph, V. 22.

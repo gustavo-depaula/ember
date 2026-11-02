@@ -1,218 +1,12 @@
-# Catéchisme (7): Jésus maria, jésus maria
-
-## Jésus maria, jésus maria
-
-D. --Après, que faut-il faire?
-
-R. -- Il faut donner son cœur à Notre-Seigneur et à sa sainte Mère, en cette sorte:
-
-« O Jésus, je vous donne mon cœur pour jamais. O Marie, Mère de Jésus, je vous donne mon cœur: donnez- le s'il vous plaît à votre Fils. »
-
-D. -- Quand on est levé, que faut-t-il faire?
-
-R.--Il faut se mettre à genoux pour adorer Dieu, le remercier, lui demander pardon, s'offrir et se donner à lui avec tout ce qu'on fera en la journée, et le prier qu'il nous fasse la grâce de mourir plutôt que de l'offenser. Puis s'offrir à la sainte Vierge, à son Ange gardien, et à tous les Anges et Saints en général D . -- Faites-moi un acte d'adoration.
-
-R. -- « O grand Jésus, je vous adore de tout mon cœur, comme mon Dieu, mon Créateur et mon Sauveur. »
-
-D.-- Faites-moi un acte de remerciement.
-
-R. -- «O bon Jésus, je vous remercie de toute mon affection, pour toutes les grâces que j'ai reçues de vous en toute ma vie et spécialement durant cette nuit. »
-
-D.--Faites-moi un acte de contrition pour lui demander pardon.
-
-R --« O mon Dieu, je vous demande pardon de tout mon cœur de tous mes péchés, que je déteste pour l'amour de vous, vous protestant de m'en vouloir confesser et amender. »
-
-D --Faites-moi un acte d'oblation ou de donation de vous-même à Notre-Seigneur.
-
-R.-- « O mon Sauveur, je me donne tout à vous et tout ce que je ferai aujourd'hui. Faites, s'il vous plaît, que je meure plutôt que de vous offenser mortellement. »
-
-D.-- Faites-moi un acte d'oblation à la sainte Vierge et aux Saints.
-
-R. -- « O Marie, Mère de Jésus, ô bienheureux saint Joseph, ô mon saint Ange gardien, ô tous les Anges et tous les Saints et Saintes de Jésus, je m'offre à vous: offrez-moi à mon Sauveur, et le priez que je meure plutôt aujourd'hui que de l'offenser mortellement.»
-
-D.-- Après cela que faut-il faire ?
-
-R. --Il faut dire le Pater, l'Ave, le Credo en latin ou en français.
-
-D. -À la fin de nos prières que faut-il faire ?
-
-R. --Il faut demander la bénédiction à Notre Seigneur et à sa sainte Mère en cette forme:
-
-«O Jésus, ô Marie Mère de Jésus, donnez-moi s'il vous plaît votre sainte bénédiction, In nomine Patris et Filii et Spiritus sancti. Amen.»
-
-D. -- Que dites-vous d'un chrétien qui ne se met point à genoux au matin et au soir pour prier Dieu ?
-
-R. --Ce n'est pas un chrétien, car il n'en fait pas les devoirs.
-
-Ce qu'il faut faire durant la sainte Messe.
-
-D. --Est-ce une bonne chose d'entendre la sainte Messe tous les jours ?
-
-R. --Très bonne, très salutaire et très agréable à Dieu.
-
-D. --Que faut-il faire durant la sainte Messe ?
-
-R. --Il faut penser à la Passion de Notre-Seigneur, ou bien dire ses heures, ou son chapelet, ou quelques autres saintes prières vocales ou mentales.
-
-D. -- Faut-il être à genoux durant la sainte Messe ?
-
-R. -- La majesté suprême de notre Dieu qui est là présent, environné d'un million d'Anges qui l'adorent avec tremblement, nous oblige à cela, tout au moins depuis la Préface jusqu'après la Communion.
-
-D. -- Quand le prêtre vient à élever et montrer Notre- Seigneur, que faut-il faire ?
-
-R. -- Il faut l'adorer, lui demander pardon de nos péchés, et nous donner à lui en cette manière:
-
-« O Jésus, je vous reconnais et adore comme mon Dieu, mon Sauveur et mon souverain Seigneur.
-
-«O Jésus, je vous crie merci: Faites miséricorde à ce pauvre pécheur qui déteste ses péchés de tout son cœur pour l'amour de vous.
-
-« O mon cher Jésus, je vous donne mon cœur, mon corps et mon âme: possédez-moi tout pour jamais. »
-
-D. -- Quand le prêtre lève le Sang de Notre-Seigneur dans le calice, que faut-il faire ?
-
-R. --Il faut l'adorer, demander derechef pardon de nos péchés qui ont été cause qu'il a été répandu en la croix, et l'offrir au Père éternel en satisfaction de nos offenses, en cette sorte:
-
-« O précieux Sang de mon Sauveur, je vous salue, et adore du plus profond de mon âme. Oh! que j'ai en horreur mes péchés pour lesquels vous avez été répandu !
-
-« O Père de Jésus, je vous offre ce Sang divin de votre Fils en satisfaction de mes fautes. Que je perde plutôt tout le mien et ma vie que de vous offenser pour l'avenir.»
-
-D. -- Quand le prêtre communie, que faut-il faire ?
-
-R. --Il faut communier spirituellement avec lui, désirant ardemment de recevoir NotreSeigneur dans notre cœur, et le suppliant qu'il y vienne pour détruire tout ce qui lui déplaît, et pour le remplir de son divin amour.
-
-D. --À la fin de la Messe, que faut-il faire?
-
-R. --Auparavant que de sortir de l'église, il faut demander la bénédiction à Notre-Seigneur et à sa sainte Mère.
-
-D. --Avec quelle résolution faut-il s'en retourner en sa maison?
-
-R. --Avec résolution de mourir plutôt ce jour-là que d'offenser Dieu mortellement, et de bien employer la journée à son service.
-
-CHAPITRE XXVIII. Ce qu'un chrétien doit faire durant la journée.
-
-D.--Quand on commence son travail au matin, que faut-il faire ?
-
-R.--Il faut faire le signe de la croix, et l'offrir à Dieu en cette manière:
-
-«O mon Dieu, je vous offre mon travail que je veux faire pour l'amour de vous: donnez-y, s'il vous plaît, votre sainte bénédiction.»
-
-D. --Quand, durant la journée, on souffre quelque mal ou quelque incommodité, que faut-il faire?
-
-R.--Il faut élever son cœur à Notre-Seigneur, et lui dire ainsi:
-
-«O mon Jésus, je vous offre ce mal ou cette incommodité que je veux souffrir pour l'amour de vous, en honneur des grandes souffrances que vous avez portées pour l'amour de moi.»
-
-D.--Quand en nous dit quelque injure ou malédiction, ou qu'on nous fait quelque déplaisir, faut-il rendre injure pour injure et mal pour mal ?
-
-R.--Il faut bien s'en garder, car c'est le propre des enfants de Satan. Mais le propre des enfants de Dieu, c'est de rendre bien pour mal, et bénédiction pour malédiction.
-
-D. -- Que faut-il donc faire?
-
-R. --Il faut pardonner tout à l'heure, et prier Notre-Seigneur qu'il pardonne, en cette sorte:
-
-« O mon Dieu, je pardonne, pour l'amour de vous, cette offense que j'ai reçue, et vous supplie de la pardonner, et toutes celles aussi, que j'ai jamais faites contre vous. »
-
-D. --Quand il arrive quelque mauvaise pensée durant le jour, ou quelque tentation ou occasion d'offenser Dieu, que faut-il faire ?
-
-R. --Il faut la rejeter tout aussitôt, et élever promptement son cœur à Notre-Seigneur, et lui dire ainsi:
-
-« O Jésus, je renonce de tout mon cœur à cette mauvaise pensée. Aidez-moi, s'il vous plaît, ne me délaissez pas; faites que je meure plutôt tout maintenant que de vous offenser.
-
-D. -- Donnez-moi encore quelque autre moyen pour chasser les mauvaises pensées.
-
-R. -- Un très bon moyen, c'est de prononcer de bouche, ou au moins de cœur, le saint Nom de Jésus et de Marie, et de ne cesser de le prononcer jusqu'à ce que la mauvaise pensée soit chassée, en cette façon: JÉSUS MARIA, JÉSUS MARIA, JÉSUS MARIA.
-
-D. -- Si par malheur on tombe durant la journée en quelque péché, que faut-il faire ?
-
-R. --Il ne faut pas le laisser croupir dedans son cœur; mais tout à l'heure il faut l'effacer par un acte de contrition, en cette manière:
-
-« O mon Dieu, je vous demande pardon de ce péché, que j'ai en horreur pour l'amour de vous. Que je meure plutôt à l'avenir que d'y retomber. »
-
-D. --Avant que de prendre son repas que faut-il faire?
-
-R. --Il faut élever son cœur à Notre-Seigneur devant ou après, ou même durant la bénédiction, pour lui offrir son repas, en cette sorte:
-
-«O Jésus, je vous offre ce repas, en l'honneur et union des repas que vous et votre sainte Mère avez pris en la terre. Que tous les morceaux que je mangerai et toutes les gouttes que je boirai soient autant d'actes de louange vers vous et vers votre bienheureuse Mère. »
-
-D --Et en chaque heure du jour, que faut-il faire ?
-
-R. --Il faut élever son cœur à Dieu, tantôt en une manière, tantôt en l'autre par diverses aspirations.
-
-D.-- Donnez-m'en quelque manière.
-
-R. -- « O Jésus, je me donne tout à vous.»
-
-D. -- Une autre manière.
-
-R. -- « O Jésus, je vous donne mon cœur pour jamais.»
-
-D. -- Une autre façon.
-
-R. -- « O Marie, Mère de Jésus, soyez Mère et Reine, de mon cœur. »
-
-D. -- Une autre façon.
-
-R -- « O Jésus, soyez moi Jésus. O Marie, soyez-moi Marie. »
-
-CHAPITRE XXIX. Ce qu'un chrétien doit faire le soir.
-
-D. -- Qu'est-ce qu'un chrétien doit faire le soir avant que de se coucher ?
-
-R. -- Il doit se mettre à genoux et faire cinq choses.
-
-D. -- Quelle est la première ?
-
-R. --C'est d'adorer Notre-Seigneur, comme le matin D. -- Quelle est la seconde ?
-
-R. -- C'est de le remercier des grâces qu'il a recues de lui en toute sa vie, et spécialement durant toute la journée.
-
-D. -- Quelle est la troisième?
-
-R. --C'est de s'examiner, pour reconnaître les offenses qu'il a commises contre Dieu durant le jour, en pensées, paroles et actions; et ensuite lui en demander pardon, faisant un acte de contrition, afin de ne se coucher pas avec un péché mortel dans son âme.
-
-D. -- Quelle est la quatrième?
-
-R. --C'est de se donner derechef à Notre-Seigneur et à sa sainte Mère, et leur offrir son repos en cette façon:
-
-« O Jésus, je vous offre le repos que je vais prendre, en l'honneur du repos que vous et votre sainte Mère avez pris pendant que vous étiez en ce monde, désirant que toutes mes respirations et tous les battements de mon cœur soient autant d'actes de louange et d'amour vers vous. »
-
-D. -- Quelle est la cinquième ?
-
-R. -- C'est de s'offrir et se recommander à son bon Ange, à saint Joseph et à tous les Anges et Saints, et les prier que, pendant que nous reposerons, ils adorent, bénissent et aiment pour nous Notre-Seigneur et sa bienheureuse Mère.
-
-D. -- Après cela que faut-il dire?
-
-R. -- Le Pater, l'Ave, le Credo, le Confiteor; puis demander la bénédiction à Jésus et à Marie.
-
-D. -- Ceux qui se couchent le soir sans prier Dieu, sans faire un Acte de contrition, en quel danger se mettent-ils ?
-
-R. -- En danger de se trouver, à leur réveil, dans les flammes éternelles.
-
-D. -- En se couchant que faut-il faire?
-
-R. -- Il faut faire le signe de la croix sur soi et sur son lit, et prendre de l'eau bénite et en jeter aussi sur son lit.
-
-D. -- Quand on est couché que faut-il faire et dire?
-
-R. -- Il nous faut souvenir que nous mourrons, et bientôt; et dire les dernières paroles que Notre-Seigneur a dites en la croix, et qu'il nous faudra dire à la mort, désirant de les dire avec la même dévotion que nous les voudrions dire à cette heure-là.
-
-D. -- Quelles sont ces paroles?
-
-R. -- « Pater, in manus tuas commendo spiritum meum. »
-
-D. Quelles sont les dernières paroles qu'il faut dire avant que de s'endormir ?
-
-R. Ce sont les mêmes qu'il faut dire au matin, sitôt qu'on est éveillé, à savoir:
-
-« O Jésus, je vous donne mon cœur pour jamais.
-
-« O Marie, Mère de Jésus, je vous donne mon cœur: donnez-le s'il vous plaît à votre Fils.
+# Catéchisme (7): « jésus maria, jésus maria, jésus, maria.»
 
 ## « jésus maria, jésus maria, jésus, maria.»
 
 D. Quand on s'éveille durant la nuit, que faut-il faire?
 
-R. --Il faut se souvenir qu'il y a quantité de saints Religieux et Religieuses qui veillent et qui passent la nuit à adorer et louer Dieu; et lui offrir toutes les louanges qui lui sont rendues, tant par ces saintes âmes-là, que par tous les Anges et Saints qui le glorifient perpétuellement dans le ciel. CHAPITRE XXX. De la confession générale, et du moyen facile pour s'examiner.
+R. --Il faut se souvenir qu'il y a quantité de saints Religieux et Religieuses qui veillent et qui passent la nuit à adorer et louer Dieu; et lui offrir toutes les louanges qui lui sont rendues, tant par ces saintes âmes-là, que par tous les Anges et Saints qui le glorifient perpétuellement dans le ciel.
+
+CHAPITRE XXX. De la confession générale, et du moyen facile pour s'examiner.
 
 Quiconque désire de pourvoir comme il faut à la plus importante affaire qu'il ait au monde, qui est l'affaire de son salut éternel, il est nécessaire qu'il fasse, pour le moins une bonne fois en sa vie, une confession générale, pour suppléer à plusieurs défauts qui peuvent être arrivés dans les particulières, et les avoir rendues nulles. Et après cela, il est bon à ceux qui se confessent souvent, d'en faire une d'an en an, pour réparer encore les manquements qui se sont glissés dans les confessions qu'on a faites durant l'année.
 
@@ -325,6 +119,322 @@ Inventer de nouvelles manières de blasphémer.
 Etre cause que d'autres jurent ou blasphèment, par le mauvais exemple qu'on leur donne, ou ne les corrigeant pas, ou les provoquant à jurer sans cause raisonnable.
 
 Approuver et louer ceux qui jurent et blasphèment. Contre le troisième Commandement.
+
+## Les dimanches tu garderas
+
+## En servant dieu dévotement
+
+Travailler, ou faire travailler aux dimanches et aux fêtes, sans une très grande nécessité.
+
+Employer les dimanches et fêtes aux tavernes, aux jeux et aux danses.
+
+N'assister point à une messe entière ces jours-là, sans cause légitime, ou être cause que d'autres n'y assistent point.
+
+Causer dans l'église, spécialement durant la sainte Messe.
+
+Venir à l'église pour quelque mauvaise intention.
+
+Y faire quelque action méchante.
+
+Négliger d'assister aux Vêpres, catéchismes et prédications.
+
+Contre le quatrième Commandement.
+
+## Pere et mere honoreras,
+
+## Afin que vives longuement
+
+Mépriser en son esprit son père et sa mère, ses maîtres et maîtresses, ou ses autres supérieurs, comme les pasteurs, confesseurs, prêtres, rois, magistrats, etc.
+
+Leur désirer la mort ou quelque autre mal.
+
+Se moquer d'eux, ou leur dire des paroles de mépris ou d'injure, ou en mal parler.
+
+Leur donner sujet de fâcherie et de mécontentement.
+
+Ne leur obéir pas, et ne pas les servir fidèlement.
+
+64 « Prétendu mode de divination avec un sas qu'on fait tourner sur la pointe de ciseaux. » I.
+
+Ne les assister pas en leur besoin.
+
+Leur dérober quelque chose.
+
+Les frapper ou maltraiter.
+
+Exciter les autres à ces mêmes fautes.
+
+Ne prier et ne faire point prier Dieu pour eux après leur mort.
+
+N'exécuter point les testaments.
+
+Négliger et mépriser ses pauvres parents et alliés.
+
+Péchés des pères et mères, maîtres et maîtresses contre leurs enfants et serviteurs.
+
+Désirer la mort ou quelque autre mal à ses enfants et serviteurs.
+
+Les injurier, maudire, donner au diable.
+
+Les traiter avec trop de rigueur et de cruauté.
+
+N'avoir pas soin de leur salut, et de leur apprendre ou faire apprendre à prier Dieu, à entendre la messe, à se confesser et communier et assister aux prédications et catéchismes.
+
+Les marier, ou obliger à être prêtres ou religieux contre leur volonté et sans vocation de Dieu; ou bien les empêcher d'être ecclésiastiques ou religieux, y étant appelés de Dieu.
+
+Ne payer pas raisonnablement et au temps qu'il le faut, ses serviteurs et servantes et les ouvriers qu'on a fait travailler; ou bien attendre à les payer au dimanche ou à la fête, ce qui est cause qu'ils perdent la messe, et qu'ils vont manger à la taverne ce qu'ils ont gagné durant la semaine.
+
+Contre le cinquième Commandement.
+
+## Homicide point ne seras
+
+## De fait, ni volontairement
+
+Penser mal ou juger témérairement de son prochain, et s'y arrêter volontairement.
+
+Se désirer la mort par impatience ou désespoir ; avoir volonté de se la procurer.
+
+Avoir haine contre quelqu'un; sur quoi il faut s'examiner contre combien de personnes on en a eu, de quelle condition elles étaient, et combien de temps ces haines ont duré.
+
+Désirer la mort à autrui par haine ou envie.
+
+Souhaiter quelque autre mal à son prochain par vengeance, comme la perte de ses biens ou de son honneur, ou sa damnation, ou que Dieu lui envoie quelque maladie ou autre châtiment; lui susciter quelque calomnie ou procès par vengeance.
+
+Désirer ou demander à Dieu qu'il châtie ceux contre qui on a quelque inimitié.
+
+Avoir la volonté de battre ou de tuer.
+
+Avoir volonté de se battre en duel.
+
+Exécuter cette détestable volonté.
+
+Exciter et attirer les autres à cela.
+
+Approuver et louer ceux qui le font.
+
+Battre ou faire battre, tuer ou faire tuer.
+
+Se délecter à penser et s'imaginer la mort, la ruine et le désastre de son ennemi.
+
+Refuser, de pardonner les offenses reçues, et de se réconcilier avec ses ennemis.
+
+Dire des injures, malédictions, imprécations ou moqueries.
+
+Semer des discordes par des rapports ou autrement.
+
+Médire d'autrui, ou prendre plaisir à en ouïr médire.
+
+Se réjouir du mal d'autrui, et être marri de son bien et de sa prospérité.
+
+Commander, conseiller, persuader ou approuver de faire quelque déplaisir au prochain, ou louer ceux qui lui en ont fait.
+
+N'empêcher pas le mal qui est fait au prochain par ceux qui dépendent de nous.
+
+Prendre ou faire prendre des breuvages ou autre choses pour empêcher la génération.
+
+Conseiller ou procurer l'avortement, ou tenir des enfants dans le lit, avec danger de suffocation.
+
+Faire mettre ou détenir quelqu'un en prison injustement.
+
+Négliger d'assister les pauvres dans leur extrême nécessité; car en ce cas-là, ne les aider pas, c'est les tuer.
+
+Contre le sixième Commandement.
+
+## Luxurieux point ne seras
+
+## De corps ni de consentement
+
+S'arrêter volontairement à des pensées ou imaginations déshonnêtes.
+
+Avoir des sentiments, aiguillons ou mouvements charnels, et y prendre plaisir volontairement.
+
+Avoir volonté de commettre quelque péché déshonnête; et si c'est au regard d'une personne mariée, ou parente, ou d'Église, il est nécessaire de le spécifier.
+
+Chercher les occasions d'accomplir cette mauvaise volonté.
+
+Commettre le péché en effet; sur quoi il est nécessaire de spécifier si ç'a été avec personnes mariées, ou parentes. ou consacrées à Dieu; et s'il y a eu scandale; et en cas qu'il en soit sorti des enfants, si on a eu soin de les faire nourrir et instruire; et si ce péché continue encore, et s'il y a point d'occasion prochaine; si on a point usé de violence ou de fraude Commettre ce péché abominable avec personnes de même sexe.
+
+Regarder des femmes et filles à mauvaise intention.
+
+Regarder des tableaux lascifs ou quelques autres objets déshonnêtes ou provoquant à l'impudicité.
+
+Faire voir à d'autres quelque objet impudique.
+
+Faire, ou vendre, ou garder en sa maison les susdits tableaux ou figures déshonnêtes.
+
+Lire ou avoir en sa maison des livres impudiques.
+
+Composer ou vendre semblables livres ou chansons lubriques.
+
+Écrire ou recevoir des lettres à mauvaise fin.
+
+Aller, mener et attirer d'autres aux bals, danses et comédies.
+
+Dire des paroles, ou chanter des chansons déshonnêtes, ou prendre plaisir à en ouïr dire ou chanter.
+
+Boire on manger à dessein de se provoquer à impudicité.
+
+Porter le sein ou la gorge découverte; exciter d'autres à le faire, ou le permettre aux personnes sur lesquelles on a du pouvoir: chose qui est cause de quantité de péchés et de la damnation de plusieurs âmes, et qui est condamnée par la bouche des Prophètes, des Apôtres, des saints Pères et de plusieurs grands Docteurs.
+
+Prendre trop de liberté et de familiarité avec des personnes de sexe différent.
+
+Se vêtir ou parer à mauvaise fin, ou y employer trop de temps. Aller en masque.
+
+Donner ou recevoir des baisers lascifs ou honteux.
+
+Faire, ou exciter, ou permettre des attouchements déshonnêtes sur soi-même ou sur autrui; sur quoi il faut dire sur quelles sortes de personnes ç'a été.
+
+Se corrompre ou polluer soi-même, ou autrui.
+
+Tomber en pollution en dormant, y ayant donné occasion auparavant, ou y prenant plaisir étant éveillé.
+
+Donner des charmes, poudres, potions ou autres choses semblables pour se faire aimer.
+
+Conseiller, approuver, louer, exciter, servir à d'autres pour commettre quelque péché déshonnête.
+
+Faire quelque action déshonnête en un lieu saint.
+
+Prendre plaisir à voir des bêtes accouplées ensemble.
+
+Faire quelque action déshonnête avec une bête, ou en avoir la volonté.
+
+Tromper une fille ou femme sous promesse de mariage, et par après ne l'épouser pas, double péché.
+
+Abuser l'un de l'autre avant le mariage, quoiqu'on soit fiancé ou accordé.
+
+Ceux qui sont mariés doivent s'examiner ici, si dans l'usage du mariage, ils ont rien, fait pour empêcher d'avoir des enfants, ou contre l'obligation mutuelle qu'ils ont les uns aux autres; ou s'ils ont point usé du mariage par les voies ou manières illicites; ou s'ils y ont point fait quelque autre chose dont leur conscience les reprenne.
+
+Les pères et mères doivent aussi s'examiner si, en ce qui est du péché déshonnête, ils n'ont point donné de mauvais exemples à leurs enfants ou serviteurs par paroles ou actions impudiques, et s'ils ont apporté le soin et la diligence requise pour empêcher qu'il ne se dise ou fasse rien parmi eux, qui soit contraire a la pureté.
+
+S'ils ont point fait coucher leurs enfants dans leur lit.
+
+S'ils ont point mis leurs garçons et leurs filles à coucher dans un même lit.
+
+S'ils ont point baillé leurs filles à instruire à des hommes.
+
+Contre le septième Commandement.
+
+## Rien du prochain tu ne prendras,
+
+## Ni retiendras à ton escient
+
+Avoir volonté de prendre ou de retenir le bien d'autrui.
+
+Commander, conseiller, approuver, provoquer, favoriser, aider à le prendre et retenir.
+
+Prendre en effet ou retenir le bien d'autrui, ou être cause de quelque tort qui lui est fait ou par violence ou par artifice Ou par simonie.
+
+Ou en ne disant point son bréviaire, lorsqu'on a un bénéfice.
+
+Ou par procès injustes.
+
+Ou en trompant au jeu.
+
+Ou par usure.
+
+Ou en ne rendant point la justice.
+
+Ou en plaidant une mauvaise cause.
+
+Ou en faisant des monopoles au préjudice du public.
+
+Ou par tromperie en vendant et achetant.
+
+Ou en ne payant pas ce qu'on a acheté des marchands.
+
+Ou en mettant de la monnaie fausse.
+
+Ou en rognant de l'argent.
+
+Ou en achetant une chose qu'on sait bien avoir été dérobée.
+
+Ou en recélant ceux qui dérobent.
+
+Ou en ne payant pas ses dettes par négligence ou par malice.
+
+Ou en ne rendant pas ce qui a été prêté, ou mis en dépôt, ou trouvé, sachant ou pouvant savoir à qui il est.
+
+Ou en faisant gagner un procès injuste.
+
+Ou lorsqu'un mari dissipe, vend ou aliène le bien de sa femme contre sa volonté.
+
+Ou en portant faux témoignage.
+
+Ou en faisant de fausses obligations, acquits ou contrats.
+
+Ou en recélant ou n'exécutant pas quelque testament.
+
+Ou en détournant et empêchant ceux qui voudraient faire du bien à un autre.
+
+Ou en déchargeant les riches pour charger les pauvres dans la distribution des tailles ou autres impôts.
+
+Ou en faisant mal aux bestiaux, aux blés ou aux vignes, ou à quelque autre chose du prochain.
+
+Ou étant cause de quelque dommage qui lui arrive, par quelque médisance qu'on a faite de lui.
+
+Ou en faisant mettre par sous-main, aux inventaires des pupilles leur bien à moins qu'il ne vaut.
+
+Ou en retenant injustement quelques titres ou contrats nécessaires à autrui.
+
+Ou en ne payant pas les dîmes.
+
+Ou en retenant ou retardant trop le salaire des pauvres ouvriers, ou des serviteurs et servantes.
+
+Ou ne tenant pas sa promesse lorsqu'on a trompé une fille en lui promettant de l'épouser on de la marier, ou ne nourrissant pas l'enfant qui en est sorti.
+
+Ou en quelque autre façon que ce soit.
+
+Dérober quelque chose dans un lieu saint, ou des choses saintes et dédiées au service de l'Église.
+
+Contre le huitième Commandement.
+
+## Faux témoignage ne diras,
+
+## Ni mentiras aucunement
+
+Porter faux témoignage.
+
+Fabriquer de faux témoins, en les excitant à dire le faux ou à céler le vrai, par prières, par menaces, par présents ou en quelque autre façon.
+
+Céler le péché, étant interrogé juridiquement et obligé de le découvrir.
+
+Laisser passer la publication d'un monitoire sans révéler la vérité.
+
+Écrire, ou faire écrire, ou publier des libelles ou chansons diffamatoires.
+
+Découvrir le secret d'autrui.
+
+Trahir quelqu'un en révélant son secret à son ennemi.
+
+Ouvrir les lettres d'autrui contre sa volonté et sans cause légitime.
+
+Laisser faire des mariages invalides et où il y a empêchement, quand on publie les bans, sans en avertir.
+
+S'absenter ou se cacher, de peur de dire la vérité et de révéler les choses desquelles on a connaissance et qu'on est obligé de découvrir.
+
+Faire, ou conseiller et exciter à faire des faux contrats et obligations.
+
+Mentir avec connaissance et volonté; sur quoi il faut dire si ç'a été en chose qui ait porté préjudice à quelqu'un. Contre le neuvième et dixième Commandement.
+
+## Femme d'autrui ne convoitras,
+
+## Dieu le défend absolument
+
+## Ses biens tu ne désireras,
+
+## Pour les avoir injustement
+
+Les péchés qui se peuvent commettre contre ces deux commandements, sont compris parmi ceux qui se font contre le sixième et septième, excepté ce qui suit.
+
+Entrer dans la condition du mariage plutôt par un motif charnel et terrestre, que pour les intentions pour lesquelles Dieu l'a établi.
+
+Recevoir ce sacrement en péché mortel.
+
+Ne vivre pas dans la paix et charité mutuelle qui doit être entre les personnes mariées, mais s'injurier, maudire et maltraiter les uns les autres.
+
+Désirer d'avoir le bien d'autrui, en quelque façon que ce soit, tandis qu'il ne veut pas s'en défaire.
+
+Désirer que son prochain tombe en nécessité, afin, qu'il soit obligé de vendre son bien.
 
 ---
 

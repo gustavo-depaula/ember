@@ -41,13 +41,13 @@
     {
       "id": "cat-01",
       "title": {
-        "fr-FR": "Catéchisme (1)"
+        "fr-FR": "Catéchisme (1): La vie du chrétien"
       }
     },
     {
       "id": "cat-02",
       "title": {
-        "fr-FR": "Catéchisme (2): J. le bel"
+        "fr-FR": "Catéchisme (2)"
       }
     },
     {
@@ -59,7 +59,7 @@
     {
       "id": "cat-04",
       "title": {
-        "fr-FR": "Catéchisme (4)"
+        "fr-FR": "Catéchisme (4): D. -- Quelle est la septième?"
       }
     },
     {
@@ -71,19 +71,19 @@
     {
       "id": "cat-06",
       "title": {
-        "fr-FR": "Catéchisme (6): Chrétiennement et saintement dans le mariage"
+        "fr-FR": "Catéchisme (6)"
       }
     },
     {
       "id": "cat-07",
       "title": {
-        "fr-FR": "Catéchisme (7): Jésus maria, jésus maria"
+        "fr-FR": "Catéchisme (7): « jésus maria, jésus maria, jésus, maria.»"
       }
     },
     {
       "id": "cat-08",
       "title": {
-        "fr-FR": "Catéchisme (8): Les dimanches tu garderas"
+        "fr-FR": "Catéchisme (8): Contre les commandements de l'église"
       }
     }
   ]

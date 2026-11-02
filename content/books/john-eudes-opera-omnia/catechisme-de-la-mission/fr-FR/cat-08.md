@@ -1,320 +1,4 @@
-# Catéchisme (8): Les dimanches tu garderas
-
-## Les dimanches tu garderas
-
-## En servant dieu dévotement
-
-Travailler, ou faire travailler aux dimanches et aux fêtes, sans une très grande nécessité.
-
-Employer les dimanches et fêtes aux tavernes, aux jeux et aux danses.
-
-N'assister point à une messe entière ces jours-là, sans cause légitime, ou être cause que d'autres n'y assistent point.
-
-Causer dans l'église, spécialement durant la sainte Messe.
-
-Venir à l'église pour quelque mauvaise intention.
-
-Y faire quelque action méchante.
-
-Négliger d'assister aux Vêpres, catéchismes et prédications.
-
-Contre le quatrième Commandement.
-
-## Pere et mere honoreras,
-
-## Afin que vives longuement
-
-Mépriser en son esprit son père et sa mère, ses maîtres et maîtresses, ou ses autres supérieurs, comme les pasteurs, confesseurs, prêtres, rois, magistrats, etc.
-
-Leur désirer la mort ou quelque autre mal.
-
-Se moquer d'eux, ou leur dire des paroles de mépris ou d'injure, ou en mal parler.
-
-Leur donner sujet de fâcherie et de mécontentement.
-
-Ne leur obéir pas, et ne pas les servir fidèlement.
-
-64 « Prétendu mode de divination avec un sas qu'on fait tourner sur la pointe de ciseaux. » I.
-
-Ne les assister pas en leur besoin.
-
-Leur dérober quelque chose.
-
-Les frapper ou maltraiter.
-
-Exciter les autres à ces mêmes fautes.
-
-Ne prier et ne faire point prier Dieu pour eux après leur mort.
-
-N'exécuter point les testaments.
-
-Négliger et mépriser ses pauvres parents et alliés.
-
-Péchés des pères et mères, maîtres et maîtresses contre leurs enfants et serviteurs.
-
-Désirer la mort ou quelque autre mal à ses enfants et serviteurs.
-
-Les injurier, maudire, donner au diable.
-
-Les traiter avec trop de rigueur et de cruauté.
-
-N'avoir pas soin de leur salut, et de leur apprendre ou faire apprendre à prier Dieu, à entendre la messe, à se confesser et communier et assister aux prédications et catéchismes.
-
-Les marier, ou obliger à être prêtres ou religieux contre leur volonté et sans vocation de Dieu; ou bien les empêcher d'être ecclésiastiques ou religieux, y étant appelés de Dieu.
-
-Ne payer pas raisonnablement et au temps qu'il le faut, ses serviteurs et servantes et les ouvriers qu'on a fait travailler; ou bien attendre à les payer au dimanche ou à la fête, ce qui est cause qu'ils perdent la messe, et qu'ils vont manger à la taverne ce qu'ils ont gagné durant la semaine.
-
-Contre le cinquième Commandement.
-
-## Homicide point ne seras
-
-## De fait, ni volontairement
-
-Penser mal ou juger témérairement de son prochain, et s'y arrêter volontairement.
-
-Se désirer la mort par impatience ou désespoir ; avoir volonté de se la procurer.
-
-Avoir haine contre quelqu'un; sur quoi il faut s'examiner contre combien de personnes on en a eu, de quelle condition elles étaient, et combien de temps ces haines ont duré.
-
-Désirer la mort à autrui par haine ou envie.
-
-Souhaiter quelque autre mal à son prochain par vengeance, comme la perte de ses biens ou de son honneur, ou sa damnation, ou que Dieu lui envoie quelque maladie ou autre châtiment; lui susciter quelque calomnie ou procès par vengeance.
-
-Désirer ou demander à Dieu qu'il châtie ceux contre qui on a quelque inimitié.
-
-Avoir la volonté de battre ou de tuer.
-
-Avoir volonté de se battre en duel.
-
-Exécuter cette détestable volonté.
-
-Exciter et attirer les autres à cela.
-
-Approuver et louer ceux qui le font.
-
-Battre ou faire battre, tuer ou faire tuer.
-
-Se délecter à penser et s'imaginer la mort, la ruine et le désastre de son ennemi.
-
-Refuser, de pardonner les offenses reçues, et de se réconcilier avec ses ennemis.
-
-Dire des injures, malédictions, imprécations ou moqueries.
-
-Semer des discordes par des rapports ou autrement.
-
-Médire d'autrui, ou prendre plaisir à en ouïr médire.
-
-Se réjouir du mal d'autrui, et être marri de son bien et de sa prospérité.
-
-Commander, conseiller, persuader ou approuver de faire quelque déplaisir au prochain, ou louer ceux qui lui en ont fait.
-
-N'empêcher pas le mal qui est fait au prochain par ceux qui dépendent de nous.
-
-Prendre ou faire prendre des breuvages ou autre choses pour empêcher la génération.
-
-Conseiller ou procurer l'avortement, ou tenir des enfants dans le lit, avec danger de suffocation.
-
-Faire mettre ou détenir quelqu'un en prison injustement.
-
-Négliger d'assister les pauvres dans leur extrême nécessité; car en ce cas-là, ne les aider pas, c'est les tuer.
-
-Contre le sixième Commandement.
-
-## Luxurieux point ne seras
-
-## De corps ni de consentement
-
-S'arrêter volontairement à des pensées ou imaginations déshonnêtes.
-
-Avoir des sentiments, aiguillons ou mouvements charnels, et y prendre plaisir volontairement.
-
-Avoir volonté de commettre quelque péché déshonnête; et si c'est au regard d'une personne mariée, ou parente, ou d'Église, il est nécessaire de le spécifier.
-
-Chercher les occasions d'accomplir cette mauvaise volonté.
-
-Commettre le péché en effet; sur quoi il est nécessaire de spécifier si ç'a été avec personnes mariées, ou parentes. ou consacrées à Dieu; et s'il y a eu scandale; et en cas qu'il en soit sorti des enfants, si on a eu soin de les faire nourrir et instruire; et si ce péché continue encore, et s'il y a point d'occasion prochaine; si on a point usé de violence ou de fraude Commettre ce péché abominable avec personnes de même sexe.
-
-Regarder des femmes et filles à mauvaise intention.
-
-Regarder des tableaux lascifs ou quelques autres objets déshonnêtes ou provoquant à l'impudicité.
-
-Faire voir à d'autres quelque objet impudique.
-
-Faire, ou vendre, ou garder en sa maison les susdits tableaux ou figures déshonnêtes.
-
-Lire ou avoir en sa maison des livres impudiques.
-
-Composer ou vendre semblables livres ou chansons lubriques.
-
-Écrire ou recevoir des lettres à mauvaise fin.
-
-Aller, mener et attirer d'autres aux bals, danses et comédies.
-
-Dire des paroles, ou chanter des chansons déshonnêtes, ou prendre plaisir à en ouïr dire ou chanter.
-
-Boire on manger à dessein de se provoquer à impudicité.
-
-Porter le sein ou la gorge découverte; exciter d'autres à le faire, ou le permettre aux personnes sur lesquelles on a du pouvoir: chose qui est cause de quantité de péchés et de la damnation de plusieurs âmes, et qui est condamnée par la bouche des Prophètes, des Apôtres, des saints Pères et de plusieurs grands Docteurs.
-
-Prendre trop de liberté et de familiarité avec des personnes de sexe différent.
-
-Se vêtir ou parer à mauvaise fin, ou y employer trop de temps. Aller en masque.
-
-Donner ou recevoir des baisers lascifs ou honteux.
-
-Faire, ou exciter, ou permettre des attouchements déshonnêtes sur soi-même ou sur autrui; sur quoi il faut dire sur quelles sortes de personnes ç'a été.
-
-Se corrompre ou polluer soi-même, ou autrui.
-
-Tomber en pollution en dormant, y ayant donné occasion auparavant, ou y prenant plaisir étant éveillé.
-
-Donner des charmes, poudres, potions ou autres choses semblables pour se faire aimer.
-
-Conseiller, approuver, louer, exciter, servir à d'autres pour commettre quelque péché déshonnête.
-
-Faire quelque action déshonnête en un lieu saint.
-
-Prendre plaisir à voir des bêtes accouplées ensemble.
-
-Faire quelque action déshonnête avec une bête, ou en avoir la volonté.
-
-Tromper une fille ou femme sous promesse de mariage, et par après ne l'épouser pas, double péché.
-
-Abuser l'un de l'autre avant le mariage, quoiqu'on soit fiancé ou accordé.
-
-Ceux qui sont mariés doivent s'examiner ici, si dans l'usage du mariage, ils ont rien, fait pour empêcher d'avoir des enfants, ou contre l'obligation mutuelle qu'ils ont les uns aux autres; ou s'ils ont point usé du mariage par les voies ou manières illicites; ou s'ils y ont point fait quelque autre chose dont leur conscience les reprenne.
-
-Les pères et mères doivent aussi s'examiner si, en ce qui est du péché déshonnête, ils n'ont point donné de mauvais exemples à leurs enfants ou serviteurs par paroles ou actions impudiques, et s'ils ont apporté le soin et la diligence requise pour empêcher qu'il ne se dise ou fasse rien parmi eux, qui soit contraire a la pureté.
-
-S'ils ont point fait coucher leurs enfants dans leur lit.
-
-S'ils ont point mis leurs garçons et leurs filles à coucher dans un même lit.
-
-S'ils ont point baillé leurs filles à instruire à des hommes.
-
-Contre le septième Commandement.
-
-## Rien du prochain tu ne prendras,
-
-## Ni retiendras à ton escient
-
-Avoir volonté de prendre ou de retenir le bien d'autrui.
-
-Commander, conseiller, approuver, provoquer, favoriser, aider à le prendre et retenir.
-
-Prendre en effet ou retenir le bien d'autrui, ou être cause de quelque tort qui lui est fait ou par violence ou par artifice Ou par simonie.
-
-Ou en ne disant point son bréviaire, lorsqu'on a un bénéfice.
-
-Ou par procès injustes.
-
-Ou en trompant au jeu.
-
-Ou par usure.
-
-Ou en ne rendant point la justice.
-
-Ou en plaidant une mauvaise cause.
-
-Ou en faisant des monopoles au préjudice du public.
-
-Ou par tromperie en vendant et achetant.
-
-Ou en ne payant pas ce qu'on a acheté des marchands.
-
-Ou en mettant de la monnaie fausse.
-
-Ou en rognant de l'argent.
-
-Ou en achetant une chose qu'on sait bien avoir été dérobée.
-
-Ou en recélant ceux qui dérobent.
-
-Ou en ne payant pas ses dettes par négligence ou par malice.
-
-Ou en ne rendant pas ce qui a été prêté, ou mis en dépôt, ou trouvé, sachant ou pouvant savoir à qui il est.
-
-Ou en faisant gagner un procès injuste.
-
-Ou lorsqu'un mari dissipe, vend ou aliène le bien de sa femme contre sa volonté.
-
-Ou en portant faux témoignage.
-
-Ou en faisant de fausses obligations, acquits ou contrats.
-
-Ou en recélant ou n'exécutant pas quelque testament.
-
-Ou en détournant et empêchant ceux qui voudraient faire du bien à un autre.
-
-Ou en déchargeant les riches pour charger les pauvres dans la distribution des tailles ou autres impôts.
-
-Ou en faisant mal aux bestiaux, aux blés ou aux vignes, ou à quelque autre chose du prochain.
-
-Ou étant cause de quelque dommage qui lui arrive, par quelque médisance qu'on a faite de lui.
-
-Ou en faisant mettre par sous-main, aux inventaires des pupilles leur bien à moins qu'il ne vaut.
-
-Ou en retenant injustement quelques titres ou contrats nécessaires à autrui.
-
-Ou en ne payant pas les dîmes.
-
-Ou en retenant ou retardant trop le salaire des pauvres ouvriers, ou des serviteurs et servantes.
-
-Ou ne tenant pas sa promesse lorsqu'on a trompé une fille en lui promettant de l'épouser on de la marier, ou ne nourrissant pas l'enfant qui en est sorti.
-
-Ou en quelque autre façon que ce soit.
-
-Dérober quelque chose dans un lieu saint, ou des choses saintes et dédiées au service de l'Église.
-
-Contre le huitième Commandement.
-
-## Faux témoignage ne diras,
-
-## Ni mentiras aucunement
-
-Porter faux témoignage.
-
-Fabriquer de faux témoins, en les excitant à dire le faux ou à céler le vrai, par prières, par menaces, par présents ou en quelque autre façon.
-
-Céler le péché, étant interrogé juridiquement et obligé de le découvrir.
-
-Laisser passer la publication d'un monitoire sans révéler la vérité.
-
-Écrire, ou faire écrire, ou publier des libelles ou chansons diffamatoires.
-
-Découvrir le secret d'autrui.
-
-Trahir quelqu'un en révélant son secret à son ennemi.
-
-Ouvrir les lettres d'autrui contre sa volonté et sans cause légitime.
-
-Laisser faire des mariages invalides et où il y a empêchement, quand on publie les bans, sans en avertir.
-
-S'absenter ou se cacher, de peur de dire la vérité et de révéler les choses desquelles on a connaissance et qu'on est obligé de découvrir.
-
-Faire, ou conseiller et exciter à faire des faux contrats et obligations.
-
-Mentir avec connaissance et volonté; sur quoi il faut dire si ç'a été en chose qui ait porté préjudice à quelqu'un. Contre le neuvième et dixième Commandement.
-
-## Femme d'autrui ne convoitras,
-
-## Dieu le défend absolument
-
-## Ses biens tu ne désireras,
-
-## Pour les avoir injustement
-
-Les péchés qui se peuvent commettre contre ces deux commandements, sont compris parmi ceux qui se font contre le sixième et septième, excepté ce qui suit.
-
-Entrer dans la condition du mariage plutôt par un motif charnel et terrestre, que pour les intentions pour lesquelles Dieu l'a établi.
-
-Recevoir ce sacrement en péché mortel.
-
-Ne vivre pas dans la paix et charité mutuelle qui doit être entre les personnes mariées, mais s'injurier, maudire et maltraiter les uns les autres.
-
-Désirer d'avoir le bien d'autrui, en quelque façon que ce soit, tandis qu'il ne veut pas s'en défaire.
-
-Désirer que son prochain tombe en nécessité, afin, qu'il soit obligé de vendre son bien.
+# Catéchisme (8): Contre les commandements de l'église
 
 ## Contre les commandements de l'église
 
@@ -592,9 +276,7 @@ Se faire faire des contrats de vente, d'échange ou autre, par leurs vassaux ou 
 
 Faire des emprunts à des vassaux ou autres, d'argent ou d'autres choses qu'ils savent probablement ne leur devoir être prêtées sans la crainte de leur autorité; et par après, être négligents à les rendre, ceux à qui ils sont dus n'osant les redemander.
 
-Nonobstant qu'ils possèdent les héritages sujets et redevables en quelques rentes dues à leurs 65 « Quare, cum maxime nefarium sit matrimonii libertatem violare, ...praecipit sancta Synodus omnibus, cujuscumque gradus dignitatis et conditionis existant, sub anathematis poena, quam ipso facto incurrant, ne quovis modo directe vel indirecte subditos suos, vel quoscumque alios cogant, quominus libere matrimonia contrabant. »Conc. Trid., sess. 24, cap. 9.
-
-seigneuries, se faire néanmoins payer des dites rentes par ceux qui jouissent des autres héritages qui sont voirement prenables des dites rentes, mais qui doivent en être tenus quittes, puisque les susdits héritages redevables sont en leur possession.
+Nonobstant qu'ils possèdent les héritages sujets et redevables en quelques rentes dues à leurs 65 « Quare, cum maxime nefarium sit matrimonii libertatem violare, ...praecipit sancta Synodus omnibus, cujuscumque gradus dignitatis et conditionis existant, sub anathematis poena, quam ipso facto incurrant, ne quovis modo directe vel indirecte subditos suos, vel quoscumque alios cogant, quominus libere matrimonia contrabant. »Conc. Trid., sess. 24, cap. 9. seigneuries, se faire néanmoins payer des dites rentes par ceux qui jouissent des autres héritages qui sont voirement prenables des dites rentes, mais qui doivent en être tenus quittes, puisque les susdits héritages redevables sont en leur possession.
 
 Envoyer des soldats par vengeance en quelque paroisse ou en quelque maison.
 
@@ -721,6 +403,232 @@ Loger en des paroisses par vengeance, ou à la sollicitation des personnes qui l
 Vexer indûment ses hôtes, et les forcer à bailler de l'argent, ou à faire de trop grands frais, ou à fournir des chevaux, harnais ou autres choses.
 
 Les menacer, injurier, battre; brûler et rompre leurs meubles.
+
+Prendre de l'argent de son hôte pour ne loger point chez lui, et aller loger chez un autre.
+
+Par les Sénéchaux des Seigneurs.
+
+Contribuer aux violences et usurpations injustes des seigneurs dont ils sont sénéchaux; comme de condamner injustement les vassaux à des redevances où ils ne sont pas obligés; taxer les rentes plus qu'elles ne valent, et autres malices.
+
+Par les Avocats et Procureurs.
+
+Prendre des causes qu'on sait bien être injustes; ou entreprendre toutes sortes de causes indifféremment, sans regarder si elles sont bonnes ou mauvaises.
+
+Ayant pris une cause qu'on croit du commencement être juste, et par après ayant reconnu son injustice, ne laisser pas de la poursuivre.
+
+User de fraude pour gagner un procès injustement.
+
+Laisser perdre le procès de son client par négligence et faute d'étudier pour défendre son droit, ou par connivence avec la partie, en découvrant les secrets, ou taisant les raisons qui sont pour le droit de la cause.
+
+Refuser de défendre les justes causes des veuves et des orphelins.
+
+Tenir les procès en longueur, et rechercher des délais frustratoires, et user de nouvelles et injustes pratiques dans la procédure.
+
+Suborner des témoins pour dire le faux ou pour taire la vérité; alléguer faussement les lois; citer les Docteurs contre leur intention; produire quelque fausse pièce; prendre l'accessoire pour le principal.
+
+Briguer ou faire des cabales pour une mauvaise cause.
+
+Conseiller à son client d'appeler, sachant bien qu'il est justement condamné.
+
+Défendre une cause usuraire.
+
+Prendre trop de causes, en sorte qu'on ne peut pas apporter la diligence requise à chacune.
+
+Obliger ses clients à faire des frais sans nécessité, les mandant et faisant venir de loin avant le temps, ou leur faisant faire plusieurs voyages et perdre le temps par négligence ou malice.
+
+Perdre les écritures des clients par négligence; ou les brûler ou déchirer, y ajouter ou diminuer, au préjudice d'un tiers.
+
+Prendre, ou permettre à ses clercs de prendre pour leur salaire plus qu'il n'est raisonnable.
+
+Violer le serment par lequel on a juré de s'acquitter fidèlement de son devoir.
+
+Par les Greffiers.
+
+Ne coucher pas fidèlement sur le plumitif l'ordonnance du Juge.
+
+Apporter de la difficulté à délivrer quelques pièces, afin d'en avoir davantage.
+
+Ne se comporter pas fidèlement selon la Coutume et les Ordonnances, aux décrets des héritages.
+
+Prendre plus qu'il ne leur appartient. Par les Notaires et Tabellions.
+
+Ne savoir pas la Coutume et les Ordonnances, afin d'y conformer les contrats.
+
+Faire de faux contrats, ou quittances, ou obligations; ou de fausses audiences ou quelque autre pièce; ou les antidater, ou y mettre quelque clause obscure pour entretenir des procès.
+
+Faire des contrats usuraires, qu'on sait bien être tels.
+
+Ne pas tenir et garder fidèle registre de tout, ou en ôter quelques minutes.
+
+Lacérer ou biffer quelque instrument nécessaire à quelqu'un; ou refuser, pour ne déplaire à un autre, de le délivrer à ceux qui le requièrent justement.
+
+Omettre, par malice ou par ignorance, les solennités requises dans un contrat, comme son nom, son seing, les témoins, le jour, le mois et l'an.
+
+Faire des contrats au jour de fêtes sans grande nécessité.
+
+Exiger ou prendre pour son salaire plus qu'il n'est dû.
+
+Par les Huissiers ou Sergents.
+
+Bailler par faveur, crainte, haine, argent ou autre motif, aux parties requérantes, des exploits d'assignations, lesquelles ils n'ont point faites, ou ne les ont faites le jour dont elles sont datées.
+
+Retenir les actes obligatoires des créanciers, différant de les mettre en exécution, en faveur des redevables.
+
+Rechercher, ou, qui pis est, supposer des charges de contraindre les particuliers, pour leur apporter vexation, par vengeance au pour en tirer de l'argent.
+
+Au lieu de prendre biens suffisants pour la dette, prendre par exécution des biens de moindre prix, qui leur sont demeurés, soit pour n'être suffisants de contenter leur salaire, soit pour n'en avoir fait la vendue, soit pour avoir occasion d'y retourner, et de constituer le redevable en plus grands frais.
+
+Rendre faux procès-verbaux de rébellion, ou y mettre des charges contre la vérité pour faire la chose plus griève; et d'abondant confirmer le contenu par témoignage et serment, induire les recors 70 de signer ou déposer le faux, y employer des recors qui n'y étaient point, les induire et solliciter de signer ou d'y rapporter le faux à leur intention. Sur quoi il faut dire quel préjudice en est arrivé à celui contre lequel a été fait le faux rapport.
+
+Exiger plus grand salaire qu'il ne leur appartient, ou l'exiger des redevables qui n'étaient obligés de les satisfaire, sans en tenir compte au requérant, duquel il se sont fait payer tout du long.
+
+Faisant la vendue des biens des mineurs, en recéler quelques-uns en faveur d'autrui ou pour son profit particulier.
+
+Faisant la vendue de tels biens, en mettre à son profit sous le nom de personnes interposées ou 70 On appel recors, celui qui accompagne un huissier pour lui servir de témoin et lui donner main-forte au besoin. autrement, ne recevant ou ne couchant les enchères, ou en précipitant l'adjudication sans donner loisir aux enchérisseurs de parler et de renchérir.
+
+Faire fraude au préjudice du mineur ou de l'obligé en quelque autre manière.
+
+Prendre par exécution des biens d'autrui, sans en laisser exploit dûment fait au redevable, tellement que le dit prétendu redevable et dessaisi en est constitué en grand intérêt.
+
+Refuser, en faveur des redevables ou autres, de faire des exploits dont ils ont été requis tellement que les requérants en ont souffert de la perte, ou ont été détournés de plus poursuivre leurs affaires, et peut-être contraints de les abandonner.
+
+Etre rigoureux aux pauvres gens, les intimidant par paroles ou actions de violence, comme de renverser le pot de dessus le feu pour l'emporter, rompre les portes et autres meubles, etc.
+
+Sous l'ombre d'un exécutoire sur une Communauté, travailler indûment les pauvres pour en tirer de l'argent pour eux, au lieu de s'adresser aux plus riches, ou bien prendre de l'argent des riches à cet effet.
+
+Prendre l'occasion au jour du dimanche ou autre fête, et au temps de la messe et du divin service, pour aller contraindre le peuple et pour crainte de quoi il a été détourné d'aller à l'église.
+
+En question d'établissement de Commissaires régisseurs, simuler en établir aucuns pour en tirer de l'argent, ou prendre de l'argent de ceux qui raisonnablement doivent y être établis, pour à ce moyen ou par faveur les décharger, et y en commettre d'autres qui ne doivent pas y être commis.
+
+Mille autres méchancetés, dont ils doivent s'examiner afin de s'en accuser et d'en faire pénitence.
+
+Par les Tuteurs et Curateurs.
+
+Omettre quelque chose dans l'inventaire.
+
+Empêcher que les biens des pupilles ne soient vendus autant qu'ils valent, les achetant euxmêmes et empêchant les autres, soit par autorité, soit par subtilité, d'enchérir par dessus eux.
+
+N'avoir le soin convenable des pupilles, tant pour leurs corps que pour leurs âmes.
+
+N'administrer fidèlement leur bien.
+
+Par ceux qui ont des procès.
+
+Entreprendre un procès par haine ou par injustice, à dessein de ruiner ou incommoder son prochain, et puis mettre sa terre en décret.
+
+Avoir dessein de faire perdre, en tout ou en partie, ses dettes à ses créanciers, en s'opposant, appelant, inscrivant, ou supposant des dettes plus anciennes, ou des personnes qui réclament son bien.
+
+Avancer ses enfants, ou faire séparer sa femme pour frustrer ses créanciers, et faire réclamer son bien par sa femme et ses enfants.
+
+Fabriquer des faux témoins, faire de fausses pièces; solliciter des officiers, sergents, tabellions ou autres, de contribuer à sa méchanceté.
+
+Prêter son nom pour empêcher que le légitime créancier n'emporte les deniers qui lui sont adjugés.
+
+Réclamer les namps 71 exécutés en vertu de brevets ou obligations supposées.
+
+Une femme qui suppose un faux amortissement de sa dot, pour en avoir remplacement sur le bien de son mari.
+
+Refuser ou éviter, par malice et opiniâtreté, un accommodement amiable par arbitres intelligents et désintéressés.
+
+71 Mot très ancien, encore en usage en Normandie au temps du P. Eudes, et qui signifie gage, nantissement.
+
+Mille autres malicieux artifices qui se pratiquent par ceux qui ont des procès, desquels ils doivent soigneusement s'examiner pour s'en confesser et corriger.
+
+Par les Médecins, Apothicaires et Chirurgiens.
+
+Exercer quelqu'un de ces offices, sans avoir la capacité requise.
+
+Ordonner des médecines ou remèdes dangereux, sans bien connaître la qualité de la maladie ou du remède.
+
+N'avertir de bonne heure le malade de se mettre en bon état, spécialement lorsqu'ils le voient en péril.
+
+Conseiller ou ordonner des choses, pour la santé du corps, qui ne se peuvent faire sans offenser Dieu.
+
+Etre trop faciles à permettre aux malades l'usage de la chair aux jours défendus.
+
+Prolonger la maladie pour gagner davantage.
+
+Etre cause de la mort de quelqu'un.
+
+Refuser d'assister les malades qui sont pauvres.
+
+Les Apothicaires: N'être exacts à composer les médecines selon les ordonnances des médecins.
+
+Donner du poison à ceux qui en veulent mal user.
+
+Donner des drogues pour procurer l'avortement.
+
+Vendre les remèdes plus que de raison.
+
+Bailler de faux refers 72 .
+
+Par les Marchands et Artisans.
+
+Ayant vendu quelque marchandise, livrer l'une pour l'autre et de moindre valeur.
+
+Vendre ou acheter à faux poids ou à fausse mesure.
+
+Vendre ou acheter plus ou moins que le juste prix.
+
+Faire monopole avec ses compagnons, ou acheter toute une sorte de marchandise, afin de vendre par après ce qu'il voudra.
+
+Vendre de la marchandise falsifiée, comme les drapiers qui vendent de la fausse teinture.
+
+Vendre de la marchandise qu'ils savent devoir être employée en mauvais usage.
+
+Porter envie à ceux de sa condition; mépriser et mal parler de leur marchandise ou de leurs personnes, et ainsi leur porter préjudice.
+
+Ne travailler fidèlement et tromper quelqu'un.
+
+Le faire payer plus qu'il n'est raisonnable. Par les Taverniers ou Cabaretiers.
+
+Donner à boire durant le service divin, contre l'Ordonnance.
+
+Vendre des viandes défendues.
+
+Bailler à boire à ses hôtes plus qu'il ne faut, et contribuer par ce moyen à leurs excès et enivrements.
+
+Mixtionner le cidre ou le vin.
+
+Retirer et loger sciemment les larrons et autres personnes scandaleuses.
+
+Par les Simoniaques.
+
+Vendre ou avoir volonté de vendre ou acheter un Bénéfice ou une chose sainte.
+
+Jouir d'une Chapelle, Prieuré ou autre bien d'Église, sous un nom emprunté.
+
+72 Vieux mot employé pour signifier des certificats ou rapports d'experts en cas de mort, d'accidents, etc.
+
+Donner ou accepter un Bénéfice, à condition qu'on ne paiera point les dîmes.
+
+Servir à la simonie d'autrui et prêter son nom pour ce sujet, prenant l'obligation de l'acheteur et s'obligeant au vendeur; ou conseillant, excitant, approuvant chose semblable, ou y aidant en quelque façon que ce soit.
+
+Jouir du bien d'Église sous le nom de ses enfants, pour les faire étudier, quoiqu'on n'ait pas le dessein qu'ils soient d'Église.
+
+Voilà les principales choses, sur lesquelles ont doit s'examiner, lorsqu'il est question de faire une confession générale, chacun selon sa condition et qualité, et selon le besoin qu'il en a. ORAISON pour dire devant la Confession.
+
+O mon Sauveur, je désire maintenant, pour l'amour de vous et pour votre sainte gloire, faire une bonne Confession, et une parfaite pénitence de mes péchés. Mais sans vous je ne puis rien. C'est pourquoi j'ai recours à votre très grande miséricorde, et vous supplie très humblement et de tout mon cœur, par toutes vos bontés, par votre douloureuse Passion, par vos sacrées Plaies, par votre précieux Sang, par votre sainte mort, par le très grand amour que vous portez à votre bienheureuse Mère et par celui qu'elle vous porte, et par tout le service qui vous a été et sera rendu à jamais par tous vos Anges et par tous vos Saints, de me donner toutes les lumières et les grâces qui me sont nécessaires pour connaître mes péchés, pour les confesser entièrement, pour en avoir une véritable contrition, et pour me convertir à vous parfaitement.
+
+O Mère de mon Sauveur, Mère de miséricorde, ô bienheureux saint Joseph, ô mon saint Ange gardien, ô tous les Saints et Saintes de Jésus, aidez-moi s'il vous plaît par vos saintes prières, et pendant que je me confesserai de mes fautes, prosternez-vous aux pieds de la divine Miséricorde, pour ce misérable pécheur, afin de lui obtenir une parfaite contrition, un vrai esprit de pénitence, et une puissante grâce pour renoncer entièrement au péché, et commencer une vie toute nouvelle et vraiment chrétienne.
+
+Après cela, il faut tâcher, avec la grâce de Notre-Seigneur, d'exciter en soi la contrition, et en produire plusieurs actes, conformément à ce qui a été dit ci-dessus sur ce sujet, au Chapitre XVI, en la page 439 et aux suivantes, qu'il est fort bon de lire avec attention avant que de se confesser; comme aussi le Chapitre XVII, de la Confession.
+
+ORAISON pour dire après la Confession.
+
+O mon Seigneur Jésus, Dieu de miséricorde et de consolation, je vous bénis de tout mon cœur d'avoir établi le sacrement de la Pénitence dans votre sainte Église, et de toutes les grâces que vous avez communiquées et que vous communiquerez à jamais par ce même sacrement à toutes les âmes qui l'ont reçu et qui le recevront, spécialement à la mienne, la plus indigne et la plus misérable de toutes.
+
+O mon Sauveur, je reconnais devant tout le monde que, quand vous ne m'auriez pardonné qu'un seul péché véniel et une seule fois, vous m'auriez fait une plus grande faveur que si vous m'aviez délivré de toutes les pestes et autres maladies et afflictions corporelles qui sont au monde; puisque le moindre péché est un plus grand mal que tous les maux temporels qui se peuvent imaginer. Quelle obligation donc vous ai-je, ô mon Dieu, de m'avoir pardonné tant et tant de fois? Que tous les Anges, que tous les Saints, que votre sainte Mère, et que toutes vos miséricordes vous louent et bénissent éternellement.
+
+O mon Sauveur, lavez et purifiez toujours de plus en plus mon âme dans votre précieux Sang. Détruisez en moi entièrement le règne du péché et de Satan; spécialement anéantissez en mon âme les vices auxquels je suis le plus enclin. Établissez-y l'empire de votre grâce, de votre divin amour et de toutes vos saintes vertus. Imprimez fortement dans mon esprit et dans mon cœur les saintes instructions qui m'ont été données dans la prédication et dans la confession. Donnez-moi la grâce de les mettre en usage.
+
+Surtout, mon cher Jésus, je vous conjure par votre précieux Sang, par vos grandes miséricordes, par tout ce que vous êtes, et par le très grand amour que vous portez à votre sainte Mère et à tous vos Saints, de m'accorder une chose que je vous demande de tout mon cœur et pour la gloire de votre saint nom, à savoir que je meure plutôt que de vous offenser jamais mortellement.
+
+Enfin, mon Dieu et mon tout, convertissez-moi parfaitement à vous, et faites que je ne vive plus en la terre que pour vous y aimer, servir et glorifier selon votre très sainte volonté.
+
+Très sainte Vierge, je m'offre et me donne à vous: donnez-moi à votre Fils, et le priez qu'il accomplisse en moi toutes ces choses pour l'amour de lui-même et pour la pure gloire de sa divine Majesté.
+
+Bienheureux saint Joseph, bienheureux saint Gabriel, mon saint Ange gardien, bienheureux Anges, bienheureux Saints et Saintes de Jésus, je m'offre à vous: offrez-moi à Jésus et à sa très Sainte Mère. Prenez-moi en votre protection, défendez-moi du péché, de Satan et de moi-même, et faites par vos saintes prières devant Dieu, que je perde plutôt mille fois la vie que de perdre la
 
 ---
 
