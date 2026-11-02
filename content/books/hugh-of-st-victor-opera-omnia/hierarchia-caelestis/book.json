@@ -1,0 +1,374 @@
+{
+  "id": "hugh-hierarchia-caelestis",
+  "cover": "classic",
+  "name": {
+    "la": "Expositio in Hierarchiam caelestem",
+    "en-US": "Commentary on the Celestial Hierarchy of Dionysius",
+    "pt-BR": "Comentário à Hierarquia celeste de Dionísio"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Commentariorum in Hierarchiam caelestem S. Dionysii libri decem.",
+    "en-US": "Hugh’s commentary in ten books on the Celestial Hierarchy of pseudo-Dionysius in John Scotus Eriugena’s Latin version: the angelic orders and the theology of symbols. Latin only, from the Migne text (Patrologia Latina 175, 1854), a machine-corrected OCR.",
+    "pt-BR": "O comentário de Hugo em dez livros à Hierarquia celeste de Pseudo-Dionísio, na versão latina de João Escoto Eriúgena: as ordens angélicas e a teologia dos símbolos."
+  },
+  "composed": "c. 1125-1137",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/hierarchia-caelestis",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 175)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.ExInHiC",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.ExInHiC, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Capitulum primum De differentia mundanae theologiae atque divinae et de demonstrationibus earumdem."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Capitulum II. Quae sit materia hierarchiarum, et dispositio earum."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Capitulum III. De tribus hierarchiis"
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Capitulum IV. Quare theologiam assumpsit tractandam Dionysius Areopagites postquam susceperat fidem catholicam."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Capitulum V. Quid sit hierarchia et dispositio illius et exordium."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Expositio. (pars 1)"
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Expositio. (pars 2)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius"
+      },
+      "children": [
+        {
+          "id": "c009",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Expositio. (pars 1)"
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Expositio. (pars 2)"
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Expositio. (pars 3)"
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Expositio. (pars 4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Expositio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Liber quintus"
+      },
+      "children": [
+        {
+          "id": "c016",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Expositio."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Expositio."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Expositio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Liber sextus"
+      },
+      "children": [
+        {
+          "id": "c022",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Expositio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "title": {
+        "la": "Liber septimus"
+      },
+      "children": [
+        {
+          "id": "c024",
+          "title": {
+            "la": "Liber septimus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "title": {
+        "la": "Liber octavus"
+      },
+      "children": [
+        {
+          "id": "c025",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Expositio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "title": {
+        "la": "Liber nonus"
+      },
+      "children": [
+        {
+          "id": "c027",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Expositio."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Expositio."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Expositio."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Expositio."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Expositio. (pars 1)"
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Expositio. (pars 2)"
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Expositio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": {
+        "la": "Liber decimus"
+      },
+      "children": [
+        {
+          "id": "c040",
+          "title": {
+            "la": "Littera."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Expositio. (pars 1)"
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Expositio. (pars 2)"
+          }
+        }
+      ]
+    }
+  ]
+}
