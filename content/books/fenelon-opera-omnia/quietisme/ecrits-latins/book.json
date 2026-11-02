@@ -1,0 +1,138 @@
+{
+  "id": "fenelon-quietisme-ecrits-latins",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Écrits latins de Fénelon dans la querelle du quiétisme",
+    "en-US": "Fénelon’s Latin Writings in the Quietism Dispute",
+    "pt-BR": "Escritos latinos de Fénelon na querela do quietismo"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La Responsio à la lettre de l’archevêque de Paris (1698), la Dissertatio de amore puro (rédigée à Rome en 1698-1699, publiée en 1822) et les deux Epistolae au pape Clément XI sur la controverse : les pièces latines que Fénelon écrivit pour défendre sa doctrine du pur amour. Elles défendent un livre condamné en 1699 par Innocent XII.",
+    "en-US": "The Responsio to the letter of the Archbishop of Paris (1698), the Dissertatio de amore puro (written for Rome in 1698-1699, published in 1822) and the two Epistolae to Pope Clement XI on the controversy: the Latin pieces Fénelon wrote to defend his doctrine of pure love. They defend a book condemned in 1699 by Innocent XII.",
+    "pt-BR": "A Responsio à carta do arcebispo de Paris (1698), a Dissertatio de amore puro (redigida para Roma em 1698-1699, publicada em 1822) e as duas Epistolae ao papa Clemente XI sobre a controvérsia: as peças latinas que Fénelon escreveu para defender sua doutrina do puro amor. Defendem um livro condenado em 1699 por Inocêncio XII."
+  },
+  "composed": "1698–1700",
+  "languages": [
+    "la"
+  ],
+  "work": "fenelon/ecrits-latins-quietisme",
+  "editions": {
+    "la": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://fr.wikisource.org/wiki/Livre:Œuvres_complètes_de_Fénelon_(1848-1852),_tome_2.djvu",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1848-1852 (éd. Gosselin, Saint-Sulpice), tome 2, p. 538ff; text layer of the Wikimedia Commons djvu scan.",
+      "description": "Latin text. Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors left uncorrected (the spelling vote is French only); period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1848-52 edition is public domain."
+    },
+    {
+      "language": "la",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 420–573; archive.org OCR (ABBYY).",
+      "description": "Latin text. Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors left uncorrected (the spelling vote is French only); period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-responsio-ad-epistolam-parisiensis",
+      "title": {
+        "la": "Responsio ad epistolam D. Parisiensis archiepiscopi (1698)"
+      }
+    },
+    {
+      "id": "02-dissertatio-de-amore-puro",
+      "title": {
+        "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822)"
+      },
+      "children": [
+        {
+          "id": "02-dissertatio-de-amore-puro-01",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 1"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-02",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 2"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-03",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 3"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-04",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 4"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-05",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 5"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-06",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 6"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-07",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 7"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-08",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 8"
+          }
+        },
+        {
+          "id": "02-dissertatio-de-amore-puro-09",
+          "title": {
+            "la": "Dissertatio de amore puro, seu Analysis controversiae inter archiepiscopum Cameracensem et Meldensem episcopum (1822), pars 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-epistolae-ad-clementem-xi",
+      "title": {
+        "la": "Epistolae duae ad sanctissimum Dominum nostrum Clementem Papam XI de eadem controversia"
+      },
+      "children": [
+        {
+          "id": "03-epistolae-ad-clementem-xi-01",
+          "title": {
+            "la": "Epistolae duae ad sanctissimum Dominum nostrum Clementem Papam XI de eadem controversia, pars 1"
+          }
+        },
+        {
+          "id": "03-epistolae-ad-clementem-xi-02",
+          "title": {
+            "la": "Epistolae duae ad sanctissimum Dominum nostrum Clementem Papam XI de eadem controversia, pars 2"
+          }
+        }
+      ]
+    }
+  ]
+}
