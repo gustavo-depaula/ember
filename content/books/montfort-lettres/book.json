@@ -1,0 +1,54 @@
+{
+  "id": "montfort-lettres",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres choisies et Testament",
+    "en-US": "Selected Letters and Testament",
+    "pt-BR": "Cartas escolhidas e Testamento"
+  },
+  "author": {
+    "fr-FR": "Saint Louis-Marie Grignion de Montfort",
+    "en-US": "St. Louis-Marie Grignion de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
+  },
+  "description": {
+    "fr-FR": "Huit lettres de saint Louis-Marie (à son directeur M. Léchassier et à sa sœur Louise, religieuse du Saint-Sacrement), et son Testament de 1716, telles que les cite Pauvert dans sa Vie du vénérable L.-M. Grignion de Montfort (1875).",
+    "en-US": "Eight letters of St. Louis-Marie (to his director M. Léchassier and to his sister Louise, a Blessed Sacrament nun) and his Testament of 1716, as quoted in Pauvert’s Life of the Venerable L.-M. Grignion de Montfort (1875).",
+    "pt-BR": "Oito cartas de são Luís Maria (a seu diretor M. Léchassier e à sua irmã Luísa, religiosa do Santíssimo Sacramento) e seu Testamento de 1716, tais como as cita Pauvert na Vida do venerável L.-M. Grignion de Montfort (1875)."
+  },
+  "composed": "1700–1716",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "montfort/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Pauvert",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/vieduvnrable00pauv",
+      "edition": "C. Pauvert, Vie du vénérable Louis-Marie Grignion de Montfort, Poitiers: Oudin, 1875; archive.org OCR, letters and Testament extracted from the narrative.",
+      "description": "Only the letters and the Testament that Pauvert prints in full are extracted (8 of the 34 known letters). OCR cleaned by script; Pauvert’s 19th-century readings of the autographs may differ from the critical text.",
+      "tier": "A",
+      "tierEvidence": "Montfort d. 1716; the 1875 life is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettres-choisies",
+      "title": {
+        "fr-FR": "Lettres citées dans la Vie de Pauvert"
+      }
+    },
+    {
+      "id": "testament",
+      "title": {
+        "fr-FR": "Testament (27 avril 1716)"
+      }
+    }
+  ]
+}

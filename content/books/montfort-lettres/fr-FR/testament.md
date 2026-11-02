@@ -1,0 +1,13 @@
+# Testament (27 avril 1716)
+
+« Je, soussigné, le plus grand des pécheurs, veux que mon corps soit mis dans le cimetière, ei mon cœur sous le marchepied de l’autel de la sainte Vierge.
+
+« Je mets entre les mains de Mgr l’évêque de la Rochelle et de M. Mulot, mes petits meubles et livres de mission, afin qu’ils les conservent pour l’usage de mes quatre frères unis avec moi dans l’obéissance et la pauvreté, savoir : frère Nicolas, de Poitiers, frère Philippe, de Nantes, frère Louis , de la Rochelle , et frère Gabriel qui est avec moi , tandis qu’ils persévéreront à renouveler leurs vœux tous les ans, aussi pour l’usage de ceux que la divine Providence appellera à la même communauté du Saint-Esprit. Je donne toutes mes figures du calvaire, avec la croix, à la maison des Sœurs des Incurables de Nantes ; je n’ai point d’argent à moi en particulier, mais il y a cent trente-cinq livres qui appartiennent à Nicolas, de Poitiers. M. Mulot donnera dix écus de l’argent de la boutique à Jacques, dix autres à Jean, et dix écus de même à Mathurin s’ils s’en veulent aller, et ne pas faire vœu de pauvreté et d’obéissance. S’il y & quelque chose de reste dans la boutique, M. Mulot en usera en bon père à l’usage des frères et à son propre usage. Comme la maison de la Rochelle retournera à ses héritiers naturels, il ne restera plus pour la Communauté du Saint-Esprit que la maison de Youvant donnée par contrat par M. de la Brûler, dont M. Mulot accomplira les conditions, et les deux boisselées de terre données par Mme la lieutenante de Voyant, et une petite maison donnée par une bonne femme, à condition que, s’il n’y a pas moyen d’y bâtir, on y entretiendra les Frères de la Communauté du Saint-Esprit, pour faire l’école charitable. Je donne trois de mes étendards à Notre-Dame de Sainte-Patience de la Séguinière, les quatre autres à Notre-Dame de la Victoire ; à la Arrache et à chaque paroisse de l’Unis où le Rosaire persévérera, une des bannières du saint Rosaire. Je donne à M. Bonn les six tomes de Sermons de la Volpïliere, et à M. Clisson , les quatre tomes des Catéchismes des peuples de la campagne.
+
+S’il en est dû quelque chose à l’imprimeur, on le payera de la boutique ; s’il y a du reste, il faudra rendre à M. Vatel ce qui lui appartient, si Mgr l’évêque le juge à propos. Voilà mes dernières volontés, que M. Mulet fera exécuter, avec un entier pouvoir que je lui donne de disposer comme bon lui semblera, en faveur de la communauté du Saint-Esprit, des chasubles, calices et ornements d’église et de missions.
+
+Fait à la mission de Saint-Laurent-sur-Sèvre , le 27 avril 1716.
+
+Signé : Louis-Marie Grignion de Montfort.
+
+Il est bien évident que le serviteur de Dieu , en faisant
