@@ -1,0 +1,180 @@
+{
+  "id": "fenelon-vies-des-philosophes",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Abrégé des vies des anciens philosophes, avec un recueil de leurs plus belles maximes",
+    "en-US": "Abridgment of the Lives of the Ancient Philosophers, with a Collection of Their Finest Maxims",
+    "pt-BR": "Resumo das vidas dos antigos filósofos, com uma coletânea de suas mais belas máximas"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les vies de vingt-trois sages et philosophes grecs, de Thalès à Zénon, avec leurs maximes, écrites pour le duc de Bourgogne d’après Diogène Laërce (publié en 1726). L’attribution à Fénelon a été discutée ; l’édition de 1851 le compte parmi ses ouvrages de littérature.",
+    "en-US": "The lives of twenty-three Greek sages and philosophers, from Thales to Zeno, with their maxims, written for the Duke of Burgundy after Diogenes Laertius (published 1726). Fénelon’s authorship has been questioned; the 1851 edition counts it among his literary works.",
+    "pt-BR": "As vidas de vinte e três sábios e filósofos gregos, de Tales a Zenão, com suas máximas, escritas para o duque de Borgonha a partir de Diogenes Laércio (publicadas em 1726). A autoria de Fénelon foi discutida; a edição de 1851 inclui a obra entre as suas obras literárias."
+  },
+  "composed": "1690–1700",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/vies-des-philosophes",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte07fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 7, p. 5–84; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). Authorship doubtful.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-thales",
+      "title": {
+        "fr-FR": "Thalès"
+      }
+    },
+    {
+      "id": "02-solon",
+      "title": {
+        "fr-FR": "Solon"
+      }
+    },
+    {
+      "id": "03-pittacus",
+      "title": {
+        "fr-FR": "Pittacus"
+      }
+    },
+    {
+      "id": "04-periandre",
+      "title": {
+        "fr-FR": "Périandre"
+      }
+    },
+    {
+      "id": "05-chilon",
+      "title": {
+        "fr-FR": "Chilon"
+      }
+    },
+    {
+      "id": "06-cleobule",
+      "title": {
+        "fr-FR": "Cléobule"
+      }
+    },
+    {
+      "id": "07-epimenide",
+      "title": {
+        "fr-FR": "Épiménide"
+      }
+    },
+    {
+      "id": "08-anacharsis",
+      "title": {
+        "fr-FR": "Anacharsis"
+      }
+    },
+    {
+      "id": "09-pythagore",
+      "title": {
+        "fr-FR": "Pythagore"
+      }
+    },
+    {
+      "id": "10-heraclite",
+      "title": {
+        "fr-FR": "Héraclite"
+      }
+    },
+    {
+      "id": "11-anaxagoras",
+      "title": {
+        "fr-FR": "Anaxagoras"
+      }
+    },
+    {
+      "id": "12-democrite",
+      "title": {
+        "fr-FR": "Démocrite"
+      }
+    },
+    {
+      "id": "13-empedocle",
+      "title": {
+        "fr-FR": "Empédocle"
+      }
+    },
+    {
+      "id": "14-socrate",
+      "title": {
+        "fr-FR": "Socrate"
+      }
+    },
+    {
+      "id": "15-platon",
+      "title": {
+        "fr-FR": "Platon"
+      }
+    },
+    {
+      "id": "16-antisthene",
+      "title": {
+        "fr-FR": "Antisthène"
+      }
+    },
+    {
+      "id": "17-aristippe",
+      "title": {
+        "fr-FR": "Aristippe"
+      }
+    },
+    {
+      "id": "18-aristote",
+      "title": {
+        "fr-FR": "Aristote"
+      }
+    },
+    {
+      "id": "19-xenocrate",
+      "title": {
+        "fr-FR": "Xénocrate"
+      }
+    },
+    {
+      "id": "20-diogene",
+      "title": {
+        "fr-FR": "Diogène"
+      }
+    },
+    {
+      "id": "21-crates",
+      "title": {
+        "fr-FR": "Crates"
+      }
+    },
+    {
+      "id": "22-epicure",
+      "title": {
+        "fr-FR": "Épicure"
+      }
+    },
+    {
+      "id": "23-zenon",
+      "title": {
+        "fr-FR": "Zénon"
+      }
+    }
+  ]
+}
