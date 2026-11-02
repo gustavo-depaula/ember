@@ -1,0 +1,48 @@
+{
+  "id": "councils-constance",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Constantiense (1414–1418)",
+    "en-US": "Council of Constance (1414–1418)",
+    "pt-BR": "Concílio de Constança (1414–1418)"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "la": "Documenta concilii Constantiensis (1414–1418): Haec sancta, Frequens, damnationes Wyclif et Hus, reformatio.",
+    "en-US": "The documents of the sixteenth ecumenical council, held at Constance in 1414–1418, which ended the Western Schism: the decrees Haec sancta and Frequens, the condemnations of Wyclif and Hus, and the decrees of reform. Latin text.",
+    "pt-BR": "Os documentos do décimo sexto concílio ecumênico, reunido em Constança em 1414–1418, que pôs fim ao Grande Cisma do Ocidente: Haec sancta, Frequens, as condenações de Wyclif e Hus e os decretos de reforma."
+  },
+  "composed": "1414–1418",
+  "languages": [
+    "la"
+  ],
+  "work": "councils/constance",
+  "editions": {
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Constantiense_Documenta",
+      "edition": "Latin Wikisource, Concilium Constantiense Documenta, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia. Wikitext fetched through action=raw.",
+      "description": "Complete as transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences, lowercase deus/dominus, and no canon numbers; the text is left as transcribed, with line breaks kept as paragraph breaks, the digitisation's split enclitics rejoined and bracketed headings turned into markdown headings. No public-domain English translation of this text has been imported yet.",
+      "tier": "B",
+      "tierEvidence": "Medieval documents; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Concilium Constantiense (1414–1418)"
+      }
+    }
+  ]
+}
