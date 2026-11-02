@@ -1,0 +1,45 @@
+{
+  "id": "fisher-sermon-barnes",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermon at Paul's at the Abjuration of Barnes",
+    "pt-BR": "Sermão em São Paulo na Abjuração de Barnes"
+  },
+  "author": {
+    "en-US": "St. John Fisher",
+    "pt-BR": "São João Fisher"
+  },
+  "description": {
+    "en-US": "Fisher's sermon at St Paul's Cross, 11 February 1526, at the abjuration of the Augustinian Robert Barnes.",
+    "pt-BR": "O sermão de Fisher em São Paulo, a 11 de fevereiro de 1526, na abjuração do agostiniano Robert Barnes."
+  },
+  "composed": 1526,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fisher/sermon-barnes",
+  "editions": {
+    "en-US": {
+      "editor": "John Fisher (London: 1526; EEBO-TCP A00769)",
+      "year": 1526
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A00769",
+      "edition": "A sermon had at Paulis by the commaundement of ... Cardinal Wolsey, EEBO-TCP A00769.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 56 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. John Fisher died in 1535; the edition is of 1526 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    }
+  ]
+}

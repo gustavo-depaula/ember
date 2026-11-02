@@ -1,0 +1,19 @@
+{
+ "id": "fisher-sermon-barnes",
+ "dir": "fisher-opera-omnia/sermon-barnes",
+ "slug": "sermon-barnes",
+ "work": "fisher/sermon-barnes",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00769.xml",
+ "name": "Sermon at Paul's at the Abjuration of Barnes",
+ "name_pt": "Sermão em São Paulo na Abjuração de Barnes",
+ "desc": "Fisher's sermon at St Paul's Cross, 11 February 1526, at the abjuration of the Augustinian Robert Barnes.",
+ "desc_pt": "O sermão de Fisher em São Paulo, a 11 de fevereiro de 1526, na abjuração do agostiniano Robert Barnes.",
+ "composed": 1526,
+ "editor": "John Fisher (London: 1526; EEBO-TCP A00769)",
+ "year": 1526,
+ "url": "https://github.com/textcreationpartnership/A00769",
+ "edition": "A sermon had at Paulis by the commaundement of ... Cardinal Wolsey, EEBO-TCP A00769."
+}
