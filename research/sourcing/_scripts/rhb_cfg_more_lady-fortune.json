@@ -1,0 +1,21 @@
+{
+ "id": "more-lady-fortune",
+ "dir": "more-opera-omnia/lady-fortune",
+ "slug": "lady-fortune",
+ "work": "more/lady-fortune",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07691.xml",
+ "name": "The Boke of the Fayre Gentylwoman that No Man Shulde Put His Trust Therin (Lady Fortune)",
+ "name_pt": "O Livro da Bela Dama em Quem Ninguém Deve Confiar (Dona Fortuna)",
+ "desc": "More's early English verses on Lady Fortune, written in the Tudor household of Cardinal Morton.",
+ "desc_pt": "Versos ingleses de juventude de More sobre a Dona Fortuna.",
+ "composed": 1504,
+ "editor": "Thomas More (London: 1557)",
+ "year": 1557,
+ "url": "https://github.com/textcreationpartnership/A07691",
+ "edition": "The boke of the fayre gentylwoman, EEBO-TCP A07691.",
+ "front": true,
+ "parts": true
+}

@@ -1,0 +1,89 @@
+{
+  "id": "more-lady-fortune",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Boke of the Fayre Gentylwoman that No Man Shulde Put His Trust Therin (Lady Fortune)",
+    "pt-BR": "O Livro da Bela Dama em Quem Ninguém Deve Confiar (Dona Fortuna)"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's early English verses on Lady Fortune, written in the Tudor household of Cardinal Morton.",
+    "pt-BR": "Versos ingleses de juventude de More sobre a Dona Fortuna."
+  },
+  "composed": 1504,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/lady-fortune",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: 1557)",
+      "year": 1557
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07691",
+      "edition": "The boke of the fayre gentylwoman, EEBO-TCP A07691.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 208 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1557 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "The Prologue"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Chapter 3"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "FOrtune, O myghty & varyable"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Chapter 5"
+      }
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "The wordes of Fortune to the people. ꝙ. Tho. Mo"
+      },
+      "children": [
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "The wordes of Fortune to the people. ꝙ. Tho. Mo"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "To them that trusteth in Fortune"
+          }
+        }
+      ]
+    }
+  ]
+}
