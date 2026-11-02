@@ -1,0 +1,536 @@
+{
+  "id": "bellarmine-controversiae-de-summo-pontifice",
+  "cover": "classic",
+  "name": {
+    "la": "De Summo Pontifice",
+    "en-US": "On the Supreme Pontiff",
+    "pt-BR": "Sobre o Sumo Pontífice"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De Summo Pontifice. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the third general controversy: the primacy of the Roman Pontiff, his spiritual and temporal power. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre o Sumo Pontífice."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-summo-pontifice",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia01bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 1 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    },
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia02bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 2 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. Proponitur quoestio: Quodnam sit optimum regimen?",
+            "en-US": "Caput I. Proponitur quoestio: Quodnam sit optimum regimen?"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Probatur prima propositio, quod Monarchia simplex simplici Aristocratice et Democratice praestet",
+            "en-US": "Caput II. Probatur prima propositio, quod Monarchia simplex simplici Aristocratice et Democratice praestet"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Quod Monarchia Aristocratice et Democratice admixta, utilior sit in hac vita, quam simplex Monarchia",
+            "en-US": "Caput III. Quod Monarchia Aristocratice et Democratice admixta, utilior sit in hac vita, quam simplex Monarchia"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Quod circumstantiis seclusis, Monarchia simplex absolute et simpliciter excellat",
+            "en-US": "Caput IV. Quod circumstantiis seclusis, Monarchia simplex absolute et simpliciter excellat"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Quod Ecclesiae gubernatio non sit Democratia",
+            "en-US": "Caput VI. Quod Ecclesiae gubernatio non sit Democratia"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. QuqcI non sit Ecclesiasticum regimen penes Principes saeculares",
+            "en-US": "Caput VII. QuqcI non sit Ecclesiasticum regimen penes Principes saeculares"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Quod regimen Ecclesiasticum praecipue Monarchicum esse debeat",
+            "en-US": "Caput IX. Quod regimen Ecclesiasticum praecipue Monarchicum esse debeat"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Quid sit super petram aedificari Ecclesiam, Matth. XYI",
+            "en-US": "Caput XI. Quid sit super petram aedificari Ecclesiam, Matth. XYI"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Quis sit ille, cui dicitur: Tibi dabo claves, Matth. XVI",
+            "en-US": "Caput XII. Quis sit ille, cui dicitur: Tibi dabo claves, Matth. XVI"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Quid intelligatur per claves, Mattii. XYI",
+            "en-US": "Caput XIII. Quid intelligatur per claves, Mattii. XYI"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. Soli Petro esse a Christo dictum: Pasce oves meas, Jo. XXI",
+            "en-US": "Caput XIV. Soli Petro esse a Christo dictum: Pasce oves meas, Jo. XXI"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. Quid significet Pasce Jo. XXL",
+            "en-US": "Caput XV. Quid significet Pasce Jo. XXL"
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI. Quod illis verbis Jo. XXI. Oves meas, universa Ecclesia significata sit",
+            "en-US": "Caput XVI. Quod illis verbis Jo. XXI. Oves meas, universa Ecclesia significata sit"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII. Explicatur secunda praerogativa ex modo quo ab Evangelistis Apostoli numerantur",
+            "en-US": "Caput XVIII. Explicatur secunda praerogativa ex modo quo ab Evangelistis Apostoli numerantur"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX. Explicantur quatuor alice praerogativae ex Euangelio S. Matthcei",
+            "en-US": "Caput XIX. Explicantur quatuor alice praerogativae ex Euangelio S. Matthcei"
+          }
+        },
+        {
+          "id": "b1c20",
+          "title": {
+            "la": "Caput XX. Explicantur tres aliae praerogativae ex Evangelio S. Lucae",
+            "en-US": "Caput XX. Explicantur tres aliae praerogativae ex Evangelio S. Lucae"
+          }
+        },
+        {
+          "id": "b1c21",
+          "title": {
+            "la": "Caput XXI. Explicantur aliae duce ex Euangelio Sancti Joannis",
+            "en-US": "Caput XXI. Explicantur aliae duce ex Euangelio Sancti Joannis"
+          }
+        },
+        {
+          "id": "b1c22",
+          "title": {
+            "la": "Caput XXII. Explicantur alias novem prcerogativce ex Actis",
+            "en-US": "Caput XXII. Explicantur alias novem prcerogativce ex Actis"
+          }
+        },
+        {
+          "id": "b1c23",
+          "title": {
+            "la": "Caput XXIII. Proponuntur alice prcerogativce ex variis Auctoribus",
+            "en-US": "Caput XXIII. Proponuntur alice prcerogativce ex variis Auctoribus"
+          }
+        },
+        {
+          "id": "b1c24",
+          "title": {
+            "la": "Caput XXIV. Tres ultimae praerogativae in medium adferuntur",
+            "en-US": "Caput XXIV. Tres ultimae praerogativae in medium adferuntur"
+          }
+        },
+        {
+          "id": "b1c25",
+          "title": {
+            "la": "Caput XXV. Testimoniis Patrum Graecorum et Latinorum confirmatur primatus Petri",
+            "en-US": "Caput XXV. Testimoniis Patrum Graecorum et Latinorum confirmatur primatus Petri"
+          }
+        },
+        {
+          "id": "b1c26",
+          "title": {
+            "la": "Caput XXVI. Diluitur argumentum ex comparatione Petri cum Jacobo",
+            "en-US": "Caput XXVI. Diluitur argumentum ex comparatione Petri cum Jacobo"
+          }
+        },
+        {
+          "id": "b1c27",
+          "title": {
+            "la": "Caput XXVII. De comparatione Petri cum Paulo",
+            "en-US": "Caput XXVII. De comparatione Petri cum Paulo"
+          }
+        },
+        {
+          "id": "b1c28",
+          "title": {
+            "la": "Caput XXVIII. Refellitur objectio ex quindecim peccatis S",
+            "en-US": "Caput XXVIII. Refellitur objectio ex quindecim peccatis S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. Proponitur qucestio: An B. Petrus Romce fuerit ibidemque Episcopus existens mortuus sit",
+            "en-US": "Caput I. Proponitur qucestio: An B. Petrus Romce fuerit ibidemque Episcopus existens mortuus sit"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. S. Petrum Romce mortuum esse",
+            "en-US": "Caput III. S. Petrum Romce mortuum esse"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Petrum Romae usque ad mortem Episcopum fuisse",
+            "en-US": "Caput IV. Petrum Romae usque ad mortem Episcopum fuisse"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Solvuntur alia quinque argumenta",
+            "en-US": "Caput VII. Solvuntur alia quinque argumenta"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. cumque invicem non essent consentientes discedebant",
+            "en-US": "Caput VIII. cumque invicem non essent consentientes discedebant"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Solvitur argumentum decimumsextum. i",
+            "en-US": "Caput IX. Solvitur argumentum decimumsextum. i"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Solvitur decimum septimum argumentum",
+            "en-US": "Caput X. Solvitur decimum septimum argumentum"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Solvitur argumentum ultimum",
+            "en-US": "Caput XI. Solvitur argumentum ultimum"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Romanum Pontificem Petro succedere in Ecclesiastica Monarchia, probatur ex divino jure et ratione successionis",
+            "en-US": "Caput XII. Romanum Pontificem Petro succedere in Ecclesiastica Monarchia, probatur ex divino jure et ratione successionis"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. Idem probatur ex Conciliis",
+            "en-US": "Caput XIII. Idem probatur ex Conciliis"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Idem probatur ex testimoniis summorum Pontificum",
+            "en-US": "Caput XIV. Idem probatur ex testimoniis summorum Pontificum"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Idem, probatur ex Patribus Griecis",
+            "en-US": "Caput XV. Idem, probatur ex Patribus Griecis"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Idem probatur ex Patribus Latinis",
+            "en-US": "Caput XVI. Idem probatur ex Patribus Latinis"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Idem probatur ex origine et antiquitate Primatus",
+            "en-US": "Caput XVII. Idem probatur ex origine et antiquitate Primatus"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. Idem probatur ex legibus, dispensationibus et censuris",
+            "en-US": "Caput XIX. Idem probatur ex legibus, dispensationibus et censuris"
+          }
+        },
+        {
+          "id": "b2c20",
+          "title": {
+            "la": "Caput XX. Idem 'probatur ex Vicariis Papce",
+            "en-US": "Caput XX. Idem 'probatur ex Vicariis Papce"
+          }
+        },
+        {
+          "id": "b2c23",
+          "title": {
+            "la": "Caput XXIII. Solvitur argumentum primum Luthera -- norum",
+            "en-US": "Caput XXIII. Solvitur argumentum primum Luthera -- norum"
+          }
+        },
+        {
+          "id": "b2c24",
+          "title": {
+            "la": "Caput XXIV. Solvuntur alia tria argumenta",
+            "en-US": "Caput XXIV. Solvuntur alia tria argumenta"
+          }
+        },
+        {
+          "id": "b2c26",
+          "title": {
+            "la": "Caput XXVI",
+            "en-US": "Caput XXVI"
+          }
+        },
+        {
+          "id": "b2c27",
+          "title": {
+            "la": "Caput XXVII. Solvuntur argumenta Nili",
+            "en-US": "Caput XXVII. Solvuntur argumenta Nili"
+          }
+        },
+        {
+          "id": "b2c28",
+          "title": {
+            "la": "Caput XXVIII. Solvuntur objectiones Calvini",
+            "en-US": "Caput XXVIII. Solvuntur objectiones Calvini"
+          }
+        },
+        {
+          "id": "b2c29",
+          "title": {
+            "la": "Caput XXIX. Solvuntur alia novem argumenta",
+            "en-US": "Caput XXIX. Solvuntur alia novem argumenta"
+          }
+        },
+        {
+          "id": "b2c30",
+          "title": {
+            "la": "Caput XXX. Solvitur argumentum ultimum, et tractatur quaestio: An Papa haereticus deponi possit",
+            "en-US": "Caput XXX. Solvitur argumentum ultimum, et tractatur quaestio: An Papa haereticus deponi possit"
+          }
+        },
+        {
+          "id": "b2c31",
+          "title": {
+            "la": "Caput XXXI",
+            "en-US": "Caput XXXI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. Proponitur disputatio de Antichristo",
+            "en-US": "Caput I. Proponitur disputatio de Antichristo"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. Antichristum certum quemdam hominem futurum",
+            "en-US": "Caput II. Antichristum certum quemdam hominem futurum"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Ostenditur Antichristum nondum venisse",
+            "en-US": "Caput III. Ostenditur Antichristum nondum venisse"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5c01",
+          "title": {
+            "la": "Caput I. Proponitur quaestio de potestate temporali",
+            "en-US": "Caput I. Proponitur quaestio de potestate temporali"
+          }
+        },
+        {
+          "id": "b5c02",
+          "title": {
+            "la": "Caput II. Papam non esse Dominum totius Mundi",
+            "en-US": "Caput II. Papam non esse Dominum totius Mundi"
+          }
+        },
+        {
+          "id": "b5c03",
+          "title": {
+            "la": "Caput III. Papam, non esse Dominum totius Orbis Christiani",
+            "en-US": "Caput III. Papam, non esse Dominum totius Orbis Christiani"
+          }
+        },
+        {
+          "id": "b5c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Caput IV"
+          }
+        },
+        {
+          "id": "b5c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b5c07",
+          "title": {
+            "la": "Caput VII. Rationibus probatur Theologorum sententia",
+            "en-US": "Caput VII. Rationibus probatur Theologorum sententia"
+          }
+        },
+        {
+          "id": "b5c08",
+          "title": {
+            "la": "Caput VIII. Idem probatur exemplis",
+            "en-US": "Caput VIII. Idem probatur exemplis"
+          }
+        },
+        {
+          "id": "b5c09",
+          "title": {
+            "la": "Caput IX. Non pugnare cum verbo Dei, ut unus homo sit",
+            "en-US": "Caput IX. Non pugnare cum verbo Dei, ut unus homo sit"
+          }
+        },
+        {
+          "id": "b5c10",
+          "title": {
+            "la": "Caput X. Solvuntur argumenta contraria",
+            "en-US": "Caput X. Solvuntur argumenta contraria"
+          }
+        }
+      ]
+    }
+  ]
+}
