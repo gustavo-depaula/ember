@@ -1,0 +1,15 @@
+# Liber secundus, caput VII
+
+1. Grandiosa modo vocabula sub prelato stilo digna consistere, successiva nostre progressionis presentia lucidari expostulat.
+
+2. Testamur proinde incipientes non minimum opus esse rationis discretionem vocabulorum habere, quoniam perplures eorum maneries inveniri posse videmus. Nam vocabulorum quedam puerilia, quedam muliebria, quedam virilia; et horum quedam silvestria, quedam urbana; et eorum que urbana vocamus, quedam pexa et lubrica, quedam yrsuta et reburra sentimus. Inter que quidem, pexa atque yrsuta sunt illa que vocamus grandiosa, lubrica vero et reburra vocamus illa que in superfluum sonant; quemadmodum in magnis operibus quedam magnanimitatis sunt opera, quedam fumi: ubi, licet in superficie quidam consideretur ascensus, ex quo limitata virtutis linea prevaricatur, bone rationi non ascensus sed per altera declivia ruina constabit.
+
+3. Intuearis ergo, lector, actente quantum ad exaceranda egregia verba te cribrare oportet: nam si vulgare illustre consideres, quo tragici debent uti poete vulgares, ut superius dictum est, quos informare intendimus, sola vocabula nobilissima in cribro tuo residere curabis.
+
+4. In quorum numero nec puerilia propter sui simplicitatem, ut mamma et babbo , mate et pate , nec muliebria propter sui mollitiem, ut dolciada et placevole , nec silvestria propter austeritatem, ut greggia et cetra , nec urbana lubrica et reburra, ut femina et corpo , ullo modo poteris conlocare. Sola etenim pexa yrsutaque urbana tibi restare videbis, que nobilissima sunt et membra vulgaris illustris.
+
+5. Et pexa vocamus illa que, trisillaba vel vicinissima trisillabitati, sine aspiratione, sine accentu acuto vel circumflexo, sine z vel x duplicibus, sine duarum liquidarum geminatione vel positione immediate post mutam, dolata quasi, loquentem cum quadam suavitate relinquunt: ut amore, donna, disio, virtute, donare, letitia, salute, securtate, defesa .
+
+6. Yrsuta quoque dicimus omnia, preter hec, que vel necessaria vel ornativa videntur vulgaris illustris. Et necessaria quidem appellamus que campsare non possumus, ut quedam monosillaba, ut si, no, me, te, s�, �, �, i’, �, u’ , interiectiones et alia multa. Ornativa vero dicimus omnia polisillaba que, mixta cum pexis, pulcram faciunt armoniam compaginis, quamvis asperitatem habeant aspirationis et accentus et duplicium et liquidarum et prolixitatis: ut terra , honore , speranza , gravitate , alleviato , impossibilit� , impossibilitate , benaventuratissimo , inanimatissimamente , disaventuratissimamente , sovramagnificentissimamente , quod endecasillabum est. Posset adhuc inveniri plurium sillabarum vocabulum sive verbum, sed quia capacitatem omnium nostrorum carminum superexcedit, rationi presenti non videtur obnoxium, sicut est illud honorificabilitudinitate , quod duodena perficitur sillaba in vulgari et in gramatica tredena perficitur in duobus obliquis.
+
+7. Quomodo autem pexis yrsuta huiusmodi sint armonizanda per metra, inferius instruendum relinquimus. Et que iam dicta sunt de fastigiositate vocabulorum ingenue discretioni sufficiant.

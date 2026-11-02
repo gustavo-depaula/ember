@@ -1,0 +1,256 @@
+{
+  "id": "dante-de-vulgari-eloquentia",
+  "cover": "classic",
+  "name": {
+    "la": "De vulgari eloquentia",
+    "en-US": "On Eloquence in the Vernacular (De vulgari eloquentia)",
+    "pt-BR": "Sobre a eloquência da língua vulgar (De vulgari eloquentia)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "la": "Dantis Alagherii De vulgari eloquentia (c. 1303-1305), opus imperfectum: liber primus de origine linguarum et de vulgari illustri per Italiae dialectos quaerendo (XIX capita); liber secundus de arte canzonis et de stilo tragico (XIV capita, in medio sermone desinens).",
+    "en-US": "Dante’s unfinished Latin treatise on the vernacular (c. 1303-1305): Book I on the origin of languages and the search for the illustrious vernacular through the dialects of Italy (19 chapters); Book II on the art of the canzone and the tragic style (14 chapters, breaking off mid-argument). The Latin text is the one on The Latin Library (Società Dantesca Italiana tradition).",
+    "pt-BR": "O tratado latino inacabado de Dante sobre a língua vulgar (c. 1303-1305): o livro I sobre a origem das línguas e a busca do vulgar ilustre entre os dialetos da Itália; o livro II sobre a arte da canção e o estilo trágico."
+  },
+  "composed": "1303-1305",
+  "languages": [
+    "la"
+  ],
+  "work": "dante/de-vulgari-eloquentia",
+  "editions": {
+    "la": {
+      "editor": "Società Dantesca Italiana text (Pio Rajna tradition), as transcribed on The Latin Library"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.thelatinlibrary.com/dante/vulgar.shtml",
+      "edition": "De vulgari eloquentia, books I-II (vulgar and vulgar2 on The Latin Library).",
+      "description": "Both books with chapter and paragraph numbers (I 19 chapters, II 14). Navigation and footer dropped. The English of A. G. Ferrers Howell (Temple Classics, 1904) is OCR only and is not imported.",
+      "tier": "A",
+      "tierEvidence": "The Latin Library pages are an anonymous, freely distributed transcription of the Società Dantesca Italiana text; the work is medieval and public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "liber-1",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "liber-1-cap01",
+          "title": {
+            "la": "Liber primus, caput I"
+          }
+        },
+        {
+          "id": "liber-1-cap02",
+          "title": {
+            "la": "Liber primus, caput II"
+          }
+        },
+        {
+          "id": "liber-1-cap03",
+          "title": {
+            "la": "Liber primus, caput III"
+          }
+        },
+        {
+          "id": "liber-1-cap04",
+          "title": {
+            "la": "Liber primus, caput IV"
+          }
+        },
+        {
+          "id": "liber-1-cap05",
+          "title": {
+            "la": "Liber primus, caput V"
+          }
+        },
+        {
+          "id": "liber-1-cap06",
+          "title": {
+            "la": "Liber primus, caput VI"
+          }
+        },
+        {
+          "id": "liber-1-cap07",
+          "title": {
+            "la": "Liber primus, caput VII"
+          }
+        },
+        {
+          "id": "liber-1-cap08",
+          "title": {
+            "la": "Liber primus, caput VIII"
+          }
+        },
+        {
+          "id": "liber-1-cap09",
+          "title": {
+            "la": "Liber primus, caput IX"
+          }
+        },
+        {
+          "id": "liber-1-cap10",
+          "title": {
+            "la": "Liber primus, caput X"
+          }
+        },
+        {
+          "id": "liber-1-cap11",
+          "title": {
+            "la": "Liber primus, caput XI"
+          }
+        },
+        {
+          "id": "liber-1-cap12",
+          "title": {
+            "la": "Liber primus, caput XII"
+          }
+        },
+        {
+          "id": "liber-1-cap13",
+          "title": {
+            "la": "Liber primus, caput XIII"
+          }
+        },
+        {
+          "id": "liber-1-cap14",
+          "title": {
+            "la": "Liber primus, caput XIV"
+          }
+        },
+        {
+          "id": "liber-1-cap15",
+          "title": {
+            "la": "Liber primus, caput XV"
+          }
+        },
+        {
+          "id": "liber-1-cap16",
+          "title": {
+            "la": "Liber primus, caput XVI"
+          }
+        },
+        {
+          "id": "liber-1-cap17",
+          "title": {
+            "la": "Liber primus, caput XVII"
+          }
+        },
+        {
+          "id": "liber-1-cap18",
+          "title": {
+            "la": "Liber primus, caput XVIII"
+          }
+        },
+        {
+          "id": "liber-1-cap19",
+          "title": {
+            "la": "Liber primus, caput XIX"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-2",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "liber-2-cap01",
+          "title": {
+            "la": "Liber secundus, caput I"
+          }
+        },
+        {
+          "id": "liber-2-cap02",
+          "title": {
+            "la": "Liber secundus, caput II"
+          }
+        },
+        {
+          "id": "liber-2-cap03",
+          "title": {
+            "la": "Liber secundus, caput III"
+          }
+        },
+        {
+          "id": "liber-2-cap04",
+          "title": {
+            "la": "Liber secundus, caput IV"
+          }
+        },
+        {
+          "id": "liber-2-cap05",
+          "title": {
+            "la": "Liber secundus, caput V"
+          }
+        },
+        {
+          "id": "liber-2-cap06",
+          "title": {
+            "la": "Liber secundus, caput VI"
+          }
+        },
+        {
+          "id": "liber-2-cap07",
+          "title": {
+            "la": "Liber secundus, caput VII"
+          }
+        },
+        {
+          "id": "liber-2-cap08",
+          "title": {
+            "la": "Liber secundus, caput VIII"
+          }
+        },
+        {
+          "id": "liber-2-cap09",
+          "title": {
+            "la": "Liber secundus, caput IX"
+          }
+        },
+        {
+          "id": "liber-2-cap10",
+          "title": {
+            "la": "Liber secundus, caput X"
+          }
+        },
+        {
+          "id": "liber-2-cap11",
+          "title": {
+            "la": "Liber secundus, caput XI"
+          }
+        },
+        {
+          "id": "liber-2-cap12",
+          "title": {
+            "la": "Liber secundus, caput XII"
+          }
+        },
+        {
+          "id": "liber-2-cap13",
+          "title": {
+            "la": "Liber secundus, caput XIII"
+          }
+        },
+        {
+          "id": "liber-2-cap14",
+          "title": {
+            "la": "Liber secundus, caput XIV"
+          }
+        }
+      ]
+    }
+  ]
+}
