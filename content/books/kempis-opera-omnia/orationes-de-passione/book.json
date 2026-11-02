@@ -1,0 +1,162 @@
+{
+  "id": "kempis-orationes-de-passione",
+  "cover": "classic",
+  "name": {
+    "la": "Orationes de passione Domini et beata virgine et aliis sanctis",
+    "en-US": "Prayers on the Passion of the Lord, the Blessed Virgin and Other Saints",
+    "pt-BR": "Orações sobre a Paixão do Senhor, a Virgem Santíssima e outros santos"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Orationes Thomae a Kempis de passione Domini, de beata virgine Maria et de aliis sanctis (Ioanne Baptista et Evangelista, Thoma apostolo, Maria Magdalena, Agnete), in quibus gratias agit, compatitur et suffragia petit.",
+    "en-US": "Sixteen prayers: on the Passion of the Lord (to the Father at Mass, of remembrance and imitation, of compassion, to Christ, of thanksgiving), to the Blessed Virgin (love and praise, help at the hour of death, special consolation, in tribulation), and to other saints (John the Baptist, John the Evangelist, Thomas the Apostle, Mary Magdalene, Agnes). Latin only: Pohl's edition (Freiburg 1904), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Dezesseis orações: sobre a Paixão do Senhor, à Virgem Santíssima (amor e louvor, auxílio na hora da morte, consolação, nas tribulações) e a outros santos (João Batista, João Evangelista, Tomé apóstolo, Maria Madalena, Inês)."
+  },
+  "composed": "c. 1425-1450",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/orationes-de-passione",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0002thom",
+      "edition": "Thomae Hemerken a Kempis Orationes de passione Domini et beata virgine et aliis sanctis, ed. M. J. Pohl (Freiburg: Herder 1904), Opera omnia III; archive.org raw OCR.",
+      "description": "The prayers as Pohl numbers them, in three groups. Line numbers, running heads and page breaks stripped by script; Pohl's critical apparatus and introduction not imported. Raw OCR: drop capitals garbled and some slips remain after the scripted lexicon repair.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1904; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "la": "Orationes de passione Domini"
+      },
+      "children": [
+        {
+          "id": "o01",
+          "title": {
+            "la": "1. Oratio ad Patrem legenda infra missam de oblatione corporis Christi, de merito passionis eius et de nostra resignatione. s"
+          }
+        },
+        {
+          "id": "o02",
+          "title": {
+            "la": "2. Oratio de recordatione et imitatione passionis Dominicae"
+          }
+        },
+        {
+          "id": "o03",
+          "title": {
+            "la": "3. Oratio ad compatiendum Christo et dilectae matri eius"
+          }
+        },
+        {
+          "id": "o04",
+          "title": {
+            "la": "4. Oratio ad Christum"
+          }
+        },
+        {
+          "id": "o05",
+          "title": {
+            "la": "5. Oratio ad Christum"
+          }
+        },
+        {
+          "id": "o06",
+          "title": {
+            "la": "6. Gratiarum actio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": {
+        "la": "Orationes de beata virgine"
+      },
+      "children": [
+        {
+          "id": "o07",
+          "title": {
+            "la": "7. Oratio de amore et laude beatae virginis . Mariae"
+          }
+        },
+        {
+          "id": "o08",
+          "title": {
+            "la": "8. Oratio ad beatam virginem Mariam, ut subveniat in hora mortis"
+          }
+        },
+        {
+          "id": "o09",
+          "title": {
+            "la": "9. Oratio ad beatam virginem Mariam pro speciali consolatione"
+          }
+        },
+        {
+          "id": "o10",
+          "title": {
+            "la": "10. Oratio ad beatam virginem Mariam quacumque tribulatione insurgente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": {
+        "la": "Orationes de aliis sanctis"
+      },
+      "children": [
+        {
+          "id": "o11",
+          "title": {
+            "la": "11. Oratio de eximiis virtutibus beati Iohannis Baptistae"
+          }
+        },
+        {
+          "id": "o12",
+          "title": {
+            "la": "12. Oratio de privilegiis praecipui amoris beati Iohannis Evangelistae"
+          }
+        },
+        {
+          "id": "o13",
+          "title": {
+            "la": "13. Oratio de laudibus sancti Thomae apostoli"
+          }
+        },
+        {
+          "id": "o14",
+          "title": {
+            "la": "14. Oratio de meritis et virtutibus sancti Thomae apostoli"
+          }
+        },
+        {
+          "id": "o15",
+          "title": {
+            "la": "15. Oratio de magnis privilegiis beatissimae Mariae Magdalenae"
+          }
+        },
+        {
+          "id": "o16",
+          "title": {
+            "la": "16. Oratio de virtutibus et moribus nobilissimae virginis Agnetis"
+          }
+        }
+      ]
+    }
+  ]
+}
