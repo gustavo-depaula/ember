@@ -1,0 +1,190 @@
+{
+  "id": "fenelon-jansenisme-dialogues",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Jansénisme VII : Instruction pastorale en forme de dialogues sur le système de Jansénius (1714-1715)",
+    "en-US": "Jansenism VII: Pastoral Instruction in the Form of Dialogues on the System of Jansenius (1714-1715)",
+    "pt-BR": "Jansenismo VII: Instrução pastoral em forma de diálogos sobre o sistema de Jansenius (1714-1715)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "L’Instruction pastorale en trois parties, en forme de dialogues, où Fénelon expose le système de Jansénius, sa conformité avec celui de Calvin sur la délectation, son opposition à saint Augustin, et ses conséquences contre les bonnes mœurs (Cambrai, 1714 ; Valenciennes, 1715).",
+    "en-US": "The Pastoral Instruction in three parts, in the form of dialogues, in which Fénelon sets out the system of Jansenius, its agreement with Calvin’s on delectation, its opposition to St Augustine, and its consequences against good morals (Cambrai, 1714; Valenciennes, 1715).",
+    "pt-BR": "A Instrução pastoral em três partes, em forma de diálogos, em que Fénelon expõe o sistema de Jansenius, sua conformidade com o de Calvino sobre a deleitação, sua oposição a santo Agostinho e suas consequências contra os bons costumes (Cambrai, 1714; Valenciennes, 1715)."
+  },
+  "composed": "1714–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/instruction-pastorale-en-dialogues",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte05fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 5, p. 222–456; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-premiere-et-seconde-parties",
+      "title": {
+        "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius)"
+      },
+      "children": [
+        {
+          "id": "01-premiere-et-seconde-parties-01",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 1"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-02",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 2"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-03",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 3"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-04",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 4"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-05",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 5"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-06",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 6"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-07",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 7"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-08",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 8"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-09",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 9"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-10",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 10"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-11",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 11"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-12",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 12"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-13",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 13"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-14",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 14"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-15",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 15"
+          }
+        },
+        {
+          "id": "01-premiere-et-seconde-parties-16",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : première et seconde parties (le système de Jansénius), partie 16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-troisieme-partie",
+      "title": {
+        "fr-FR": "Instruction pastorale en forme de dialogues : troisième partie, la doctrine contre les bonnes mœurs"
+      },
+      "children": [
+        {
+          "id": "02-troisieme-partie-01",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : troisième partie, la doctrine contre les bonnes mœurs, partie 1"
+          }
+        },
+        {
+          "id": "02-troisieme-partie-02",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : troisième partie, la doctrine contre les bonnes mœurs, partie 2"
+          }
+        },
+        {
+          "id": "02-troisieme-partie-03",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : troisième partie, la doctrine contre les bonnes mœurs, partie 3"
+          }
+        },
+        {
+          "id": "02-troisieme-partie-04",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : troisième partie, la doctrine contre les bonnes mœurs, partie 4"
+          }
+        },
+        {
+          "id": "02-troisieme-partie-05",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : troisième partie, la doctrine contre les bonnes mœurs, partie 5"
+          }
+        },
+        {
+          "id": "02-troisieme-partie-06",
+          "title": {
+            "fr-FR": "Instruction pastorale en forme de dialogues : troisième partie, la doctrine contre les bonnes mœurs, partie 6"
+          }
+        }
+      ]
+    }
+  ]
+}
