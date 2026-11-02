@@ -1,0 +1,115 @@
+{
+  "id": "vianney-thoughts",
+  "name": {
+    "en-US": "Thoughts of the Curé of Ars",
+    "pt-BR": "Pensamentos do Cura d’Ars"
+  },
+  "author": {
+    "en-US": "St. John Vianney, the Curé of Ars",
+    "pt-BR": "São João Maria Vianney, o Cura d’Ars"
+  },
+  "description": {
+    "en-US": "A twelve-chapter anthology of sayings drawn from Monnin’s Esprit du Curé d’Ars: salvation, the love of God, the pure soul, the Holy Spirit, prayer, the priest, the Eucharist, sin, hell, suffering and heaven.",
+    "pt-BR": "Antologia em doze capítulos de ditos do Cura d’Ars tirados do Esprit de Monnin: salvação, amor de Deus, alma pura, Espírito Santo, oração, sacerdote, Eucaristia, pecado, inferno, sofrimento e céu."
+  },
+  "composed": "1864",
+  "languages": [
+    "en-US"
+  ],
+  "work": "cure-of-ars/thoughts",
+  "editions": {
+    "en-US": {
+      "translator": "Flynn and Mahony (Boston)",
+      "year": 1896
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thoughtsofcurofa00vian",
+      "edition": "Thoughts of the Curé of Ars, Boston, Flynn & Mahony, 1896 (OCR; preface signed A. Mennin [Monnin])",
+      "description": "Anthology of sayings taken from the Esprit du Curé d’Ars; the translator is not named.",
+      "tier": "A"
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Editor’s Preface"
+      }
+    },
+    {
+      "id": "th-01",
+      "title": {
+        "en-US": "Salvation"
+      }
+    },
+    {
+      "id": "th-02",
+      "title": {
+        "en-US": "Love for God"
+      }
+    },
+    {
+      "id": "th-03",
+      "title": {
+        "en-US": "The Pure Soul"
+      }
+    },
+    {
+      "id": "th-04",
+      "title": {
+        "en-US": "The Holy Spirit"
+      }
+    },
+    {
+      "id": "th-05",
+      "title": {
+        "en-US": "The Blessed Virgin"
+      }
+    },
+    {
+      "id": "th-06",
+      "title": {
+        "en-US": "Prayer"
+      }
+    },
+    {
+      "id": "th-07",
+      "title": {
+        "en-US": "The Priest"
+      }
+    },
+    {
+      "id": "th-08",
+      "title": {
+        "en-US": "The Eucharist"
+      }
+    },
+    {
+      "id": "th-09",
+      "title": {
+        "en-US": "Sin"
+      }
+    },
+    {
+      "id": "th-10",
+      "title": {
+        "en-US": "Hell"
+      }
+    },
+    {
+      "id": "th-11",
+      "title": {
+        "en-US": "Suffering"
+      }
+    },
+    {
+      "id": "th-12",
+      "title": {
+        "en-US": "Hope and Heaven"
+      }
+    }
+  ]
+}
