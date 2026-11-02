@@ -50,6 +50,7 @@ These books were imported from scans and corrected by script, not proofread. Pro
 - `catherine-of-siena-opera-omnia/dialogo-thorold`, `caussade-opera-omnia/abandon-a-la-providence-divine` (`fr-FR/`), `brother-lawrence-opera-omnia/pratique-de-la-presence-de-dieu`, `kempis-imitation-of-christ` (`la/`) and the Latin from Migne (`anselm-opera-omnia/*`, `peter-lombard-opera-omnia/sententiae`): a few errors remain.
 
 - `john-of-avila-opera-omnia/audi-filia`, `en-US/`: EEBO-TCP keying leaves about 500 illegible characters, shown as `●` (for example `sa●●`); the translator's marginal glosses are footnotes, but a few untagged margin references remain in the text. `es-ES/` is the modernised Apostolado Mariano reprint (OCR, not proofread); it has no critical apparatus.
+- `teresa-opera-omnia/fundaciones`: `es-ES/` is two Silverio scans merged by script, not proofread (about 0.3% of words wrong, mostly in the footnotes; a few footnotes have markers that could not be paired and were placed by hand). `en-US/` is Agnes Mason (1909), not the Lewis/Zimmerman translation the report ranked first, because that scan's OCR is too damaged to split; a handful of Mason's footnote markers were lost to OCR and the notes placed by guess in two or three chapters.
 
 ### English left out
 
