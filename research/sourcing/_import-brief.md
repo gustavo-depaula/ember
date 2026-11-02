@@ -55,3 +55,7 @@ Generic User-Agent `EmberCorpusResearch/1.0`; never put personal data (email, na
 Add every problem you leave open (scanning errors, a missing translation, partial text) under the matching heading of "First-wave imports" in `PROBLEMS.md`, and commit it with your book.
 
 When done: per book, the id, path, languages, word counts per language, sources used (tier), what was left out or uncertain, and the commit sha.
+
+## Completing an author
+
+When the task is "the rest of <author>": import **every** work in the author's report not yet in the corpus (check with `grep -rl '"work": "<author-slug>/' content/books --include=book.json`), in the report's recommended order, letters and minor works included. Small works that belong together (poems, short opuscula, maxims) can be one book with a chapter per piece. Commit and push each book as soon as it passes `check-book.py`, so nothing is lost if you stop. If your context grows long (about 150 tool calls), stop after the current book and report what's left, and a fresh agent will continue.
