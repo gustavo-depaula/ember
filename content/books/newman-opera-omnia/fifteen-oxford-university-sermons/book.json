@@ -1,0 +1,129 @@
+{
+  "id": "newman-fifteen-oxford-university-sermons",
+  "cover": "classic",
+  "name": {
+    "en-US": "Fifteen Sermons Preached before the University of Oxford",
+    "pt-BR": "Quinze Sermões Pregados perante a Universidade de Oxford"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's fifteen University Sermons of 1826 to 1843, preached before the University of Oxford: the philosophical temper first enjoined by the Gospel, the usurpations of reason, faith and reason as habits of mind, implicit and explicit reason, and the final sermon, The Theory of Developments in Religious Doctrine, which was the seed of his Essay on Development.",
+    "pt-BR": "Os quinze Sermões Universitários de Newman, de 1826 a 1843, pregados perante a Universidade de Oxford: o temperamento filosófico primeiro exigido pelo Evangelho, as usurpações da razão, a fé e a razão como hábitos da mente, a razão implícita e explícita e o último sermão, A Teoria dos Desenvolvimentos na Doutrina Religiosa, semente do seu Ensaio sobre o Desenvolvimento."
+  },
+  "composed": "1826-1843",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/fifteen-oxford-university-sermons",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
+      "year": 1872
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/oxford/index.html",
+      "edition": "Fifteen Sermons preached before the University of Oxford (London: Rivingtons, 1843; Longmans, 3rd edition 1872), as transcribed by the Newman Reader.",
+      "description": "15 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Anglican-period work, reissued by Newman as a Catholic in the uniform edition. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon 1. The Philosophical Temper, First Enjoined by the Gospel"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon 2. The Influence of Natural and Revealed Religion Respectively"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon 3. Evangelical Sanctity the Completion of Natural Virtue"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon 4. The Usurpations of Reason"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon 5. Personal Influence, the Means of Propagating the Truth"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon 6. On Justice, as a Principle of Divine Governance"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon 7. Contest between Faith and Sight"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon 8. Human Responsibility, as Independent of Circumstances"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon 9. Wilfulness, the Sin of Saul"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon 10. Faith and Reason, contrasted as Habits of Mind"
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon 11. The Nature of Faith in Relation to Reason"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon 12. Love the Safeguard of Faith against Superstition"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon 13. Implicit and Explicit Reason"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon 14. Wisdom, as Contrasted with Faith and with Bigotry"
+      }
+    },
+    {
+      "id": "sermon-15",
+      "title": {
+        "en-US": "Sermon 15. The Theory of developments in Religious Doctrine"
+      }
+    }
+  ]
+}

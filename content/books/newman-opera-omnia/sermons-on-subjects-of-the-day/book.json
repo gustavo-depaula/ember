@@ -1,0 +1,195 @@
+{
+  "id": "newman-sermons-on-subjects-of-the-day",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermons Bearing on Subjects of the Day",
+    "pt-BR": "Sermões sobre Temas do Dia"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Twenty-six sermons Newman preached between 1836 and 1843 as vicar of St. Mary's, Oxford, published in 1843: the work of the Christian, saintliness and penitence, the three offices of Christ, faith and the world, the Church as an imperial power, types of Christ in Joshua and Elisha, and his farewell sermons, including The Parting of Friends.",
+    "pt-BR": "Vinte e seis sermões que Newman pregou entre 1836 e 1843 como vigário de Santa Maria, em Oxford, publicados em 1843: a obra do cristão, a santidade e a penitência, os três ofícios de Cristo, a fé e o mundo, a Igreja como poder imperial, figuras de Cristo em Josué e Eliseu e seus sermões de despedida, entre eles A Separação dos Amigos."
+  },
+  "composed": "1836-1843",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/sermons-on-subjects-of-the-day",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
+      "year": 1843
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/subjects/index.html",
+      "edition": "Sermons Bearing on Subjects of the Day (London: Rivingtons, 1843; Longmans, uniform edition), as transcribed by the Newman Reader.",
+      "description": "26 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Anglican-period work, reissued by Newman as a Catholic in the uniform edition. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon 1. The Work of the Christian"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon 2. Saintliness not Forfeited by the Penitent"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon 3. Our Lord's Last Supper and His First"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon 4. Dangers to the Penitent"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon 5. The Three Offices of Christ"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon 6. Faith and Experience"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon 7. Faith and the World"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon 8. The Church and the World"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon 9. Indulgence in Religious Privileges"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon 10. Connexion between Personal and Public Improvement"
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon 11. Christian Nobleness"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon 12. Joshua a Type of Christ and His Followers"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon 13. Elisha a Type of Christ and His Followers"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon 14. The Christian Church a Continuation of the Jewish"
+      }
+    },
+    {
+      "id": "sermon-15",
+      "title": {
+        "en-US": "Sermon 15. The Principle of Continuity between the Jewish and Christian Churches"
+      }
+    },
+    {
+      "id": "sermon-16",
+      "title": {
+        "en-US": "Sermon 16. The Christian Church an Imperial Power"
+      }
+    },
+    {
+      "id": "sermon-17",
+      "title": {
+        "en-US": "Sermon 17. Sanctity the Token of the Christian Empire"
+      }
+    },
+    {
+      "id": "sermon-18",
+      "title": {
+        "en-US": "Sermon 18. Condition of the Members of the Christian Empire"
+      }
+    },
+    {
+      "id": "sermon-19",
+      "title": {
+        "en-US": "Sermon 19. The Apostolical Christian"
+      }
+    },
+    {
+      "id": "sermon-20",
+      "title": {
+        "en-US": "Sermon 20. Wisdom and Innocence"
+      }
+    },
+    {
+      "id": "sermon-21",
+      "title": {
+        "en-US": "Sermon 21. Invisible Presence of Christ"
+      }
+    },
+    {
+      "id": "sermon-22",
+      "title": {
+        "en-US": "Sermon 22. Outward and Inward Notes of the Church"
+      }
+    },
+    {
+      "id": "sermon-23",
+      "title": {
+        "en-US": "Sermon 23. Grounds for Steadfastness in our Religious Profession"
+      }
+    },
+    {
+      "id": "sermon-24",
+      "title": {
+        "en-US": "Sermon 24. Elijah the Prophet of the Latter Days"
+      }
+    },
+    {
+      "id": "sermon-25",
+      "title": {
+        "en-US": "Sermon 25. Feasting in Captivity"
+      }
+    },
+    {
+      "id": "sermon-26",
+      "title": {
+        "en-US": "Sermon 26. The Parting of Friends"
+      }
+    }
+  ]
+}

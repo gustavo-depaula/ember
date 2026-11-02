@@ -1,0 +1,146 @@
+{
+ "slug": "sermons-on-subjects-of-the-day",
+ "id": "newman-sermons-on-subjects-of-the-day",
+ "name": "Sermons Bearing on Subjects of the Day",
+ "name_pt": "Sermões sobre Temas do Dia",
+ "desc": "Twenty-six sermons Newman preached between 1836 and 1843 as vicar of St. Mary's, Oxford, published in 1843: the work of the Christian, saintliness and penitence, the three offices of Christ, faith and the world, the Church as an imperial power, types of Christ in Joshua and Elisha, and his farewell sermons, including The Parting of Friends.",
+ "desc_pt": "Vinte e seis sermões que Newman pregou entre 1836 e 1843 como vigário de Santa Maria, em Oxford, publicados em 1843: a obra do cristão, a santidade e a penitência, os três ofícios de Cristo, a fé e o mundo, a Igreja como poder imperial, figuras de Cristo em Josué e Eliseu e seus sermões de despedida, entre eles A Separação dos Amigos.",
+ "composed": "1836-1843",
+ "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
+ "year": 1843,
+ "index": "subjects/index.html",
+ "edition": "Sermons Bearing on Subjects of the Day (London: Rivingtons, 1843; Longmans, uniform edition), as transcribed by the Newman Reader.",
+ "note": "Anglican-period work, reissued by Newman as a Catholic in the uniform edition.",
+ "chapters": [
+  [
+   "subjects/sermon1.html",
+   "sermon-1",
+   null
+  ],
+  [
+   "subjects/sermon2.html",
+   "sermon-2",
+   null
+  ],
+  [
+   "subjects/sermon3.html",
+   "sermon-3",
+   null
+  ],
+  [
+   "subjects/sermon4.html",
+   "sermon-4",
+   null
+  ],
+  [
+   "subjects/sermon5.html",
+   "sermon-5",
+   null
+  ],
+  [
+   "subjects/sermon6.html",
+   "sermon-6",
+   null
+  ],
+  [
+   "subjects/sermon7.html",
+   "sermon-7",
+   null
+  ],
+  [
+   "subjects/sermon8.html",
+   "sermon-8",
+   null
+  ],
+  [
+   "subjects/sermon9.html",
+   "sermon-9",
+   null
+  ],
+  [
+   "subjects/sermon10.html",
+   "sermon-10",
+   null
+  ],
+  [
+   "subjects/sermon11.html",
+   "sermon-11",
+   null
+  ],
+  [
+   "subjects/sermon12.html",
+   "sermon-12",
+   null
+  ],
+  [
+   "subjects/sermon13.html",
+   "sermon-13",
+   null
+  ],
+  [
+   "subjects/sermon14.html",
+   "sermon-14",
+   null
+  ],
+  [
+   "subjects/sermon15.html",
+   "sermon-15",
+   null
+  ],
+  [
+   "subjects/sermon16.html",
+   "sermon-16",
+   null
+  ],
+  [
+   "subjects/sermon17.html",
+   "sermon-17",
+   null
+  ],
+  [
+   "subjects/sermon18.html",
+   "sermon-18",
+   null
+  ],
+  [
+   "subjects/sermon19.html",
+   "sermon-19",
+   null
+  ],
+  [
+   "subjects/sermon20.html",
+   "sermon-20",
+   null
+  ],
+  [
+   "subjects/sermon21.html",
+   "sermon-21",
+   null
+  ],
+  [
+   "subjects/sermon22.html",
+   "sermon-22",
+   null
+  ],
+  [
+   "subjects/sermon23.html",
+   "sermon-23",
+   null
+  ],
+  [
+   "subjects/sermon24.html",
+   "sermon-24",
+   null
+  ],
+  [
+   "subjects/sermon25.html",
+   "sermon-25",
+   null
+  ],
+  [
+   "subjects/sermon26.html",
+   "sermon-26",
+   null
+  ]
+ ]
+}
