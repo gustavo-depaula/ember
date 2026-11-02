@@ -1,0 +1,57 @@
+{
+  "id": "augustine-contra-adimantum",
+  "cover": "quarter",
+  "name": {
+    "la": "Contra Adimantum Manichaei discipulum",
+    "en-US": "Against Adimantus",
+    "pt-BR": "Contra Adimanto"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Contra Adimantum Manichaei discipulum. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "Against Adimantus (394), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Contra Adimanto (394), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "394",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/contra-adimantum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/contro_adimanto/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages contro_adimanto of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Contra Adimantum Manichaei discipulum, Capita 1–13"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Contra Adimantum Manichaei discipulum, Capita 14–28"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
