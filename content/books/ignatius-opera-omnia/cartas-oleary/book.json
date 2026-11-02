@@ -1,0 +1,196 @@
+{
+  "id": "ignatius-cartas-oleary",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letters and Instructions, Vol. I (1524–1547)",
+    "pt-BR": "Cartas e instruções, vol. I (1524–1547)"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "en-US": "Twenty-four letters and instructions of St. Ignatius, 1524–1547, chosen for their spiritual interest and translated from the Spanish edition of the Cartas by D. F. O'Leary, edited with notes by A. Goodier, S.J. (1914), with the editor's endnotes. Only this first volume of the English selection appeared.",
+    "pt-BR": "Vinte e quatro cartas e instruções de Santo Inácio, de 1524 a 1547, escolhidas por seu interesse espiritual e traduzidas por D. F. O'Leary, com notas de A. Goodier, S.J. (1914)."
+  },
+  "composed": "1524–1547",
+  "languages": [
+    "en-US"
+  ],
+  "work": "ignatius-of-loyola/cartas",
+  "editions": {
+    "en-US": {
+      "translator": "D. F. O'Leary (selected and edited with notes by A. Goodier, S.J.)",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/LettersAndInstructionsOfStIgnatiusV1",
+      "edition": "Letters and Instructions of St. Ignatius Loyola, vol. I, 1524-1547, translated by D. F. O'Leary, selected and edited with notes by the Rev. A. Goodier, S.J., Roehampton: Manresa Press, 1914 (The Catholic Library). Google scan, archive.org OCR.",
+      "description": "Page headers, page numbers and the title pages are removed; the footnotes at the foot of the pages are gathered under each letter, and the editor's endnotes form the last chapter. The note numbers in the text are those of the printed edition. OCR errors that could be recognised (stray letters, misread words) were corrected; the Latin quotations may still carry OCR errors.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1914; the translator and editor are long dead; archive.org marks it public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface and Introduction"
+      }
+    },
+    {
+      "id": "letter-01",
+      "title": {
+        "en-US": "Letter I. To Inés Pascual"
+      }
+    },
+    {
+      "id": "letter-02",
+      "title": {
+        "en-US": "Letter II. To Inés Pascual"
+      }
+    },
+    {
+      "id": "letter-03",
+      "title": {
+        "en-US": "Letter III. To Martín García de Oñaz"
+      }
+    },
+    {
+      "id": "letter-04",
+      "title": {
+        "en-US": "Letter IV. To Jaime Cazador"
+      }
+    },
+    {
+      "id": "letter-05",
+      "title": {
+        "en-US": "Letter V. To Teresa Rejadella"
+      }
+    },
+    {
+      "id": "letter-06",
+      "title": {
+        "en-US": "Letter VI. To Teresa Rejadella"
+      }
+    },
+    {
+      "id": "letter-07",
+      "title": {
+        "en-US": "Letter VII. To Giovanni Pietro Caraffa"
+      }
+    },
+    {
+      "id": "letter-08",
+      "title": {
+        "en-US": "Letter VIII. To Juan de Verdolay"
+      }
+    },
+    {
+      "id": "letter-09",
+      "title": {
+        "en-US": "Letter IX. To Pietro Contarini"
+      }
+    },
+    {
+      "id": "letter-10",
+      "title": {
+        "en-US": "Letter X. To the Citizens of Azpeitia"
+      }
+    },
+    {
+      "id": "letter-11",
+      "title": {
+        "en-US": "Letter XI. To Magdalena de Loyola"
+      }
+    },
+    {
+      "id": "letter-12",
+      "title": {
+        "en-US": "Letter XII. To Fathers Broet and Salmerón"
+      }
+    },
+    {
+      "id": "letter-13",
+      "title": {
+        "en-US": "Letter XIII. Further Instructions to the Same Legates"
+      }
+    },
+    {
+      "id": "letter-14",
+      "title": {
+        "en-US": "Letter XIV. To Fathers Broet and Salmerón"
+      }
+    },
+    {
+      "id": "letter-15",
+      "title": {
+        "en-US": "Letter XV. To Giovanni Battista Viola"
+      }
+    },
+    {
+      "id": "letter-16",
+      "title": {
+        "en-US": "Letter XVI. To Teresa Rejadella"
+      }
+    },
+    {
+      "id": "letter-17",
+      "title": {
+        "en-US": "Letter XVII. To a Man Tempted"
+      }
+    },
+    {
+      "id": "letter-18",
+      "title": {
+        "en-US": "Letter XVIII. To the Jesuits Banished from Cologne"
+      }
+    },
+    {
+      "id": "letter-19",
+      "title": {
+        "en-US": "Letter XIX. To Francis Borgia"
+      }
+    },
+    {
+      "id": "letter-20",
+      "title": {
+        "en-US": "Letter XX. To the Society at Trent"
+      }
+    },
+    {
+      "id": "letter-21",
+      "title": {
+        "en-US": "Letter XXI. To Bartholomew Ferronius"
+      }
+    },
+    {
+      "id": "letter-22",
+      "title": {
+        "en-US": "Letter XXII. To Francis Borgia, Duke of Gandía"
+      }
+    },
+    {
+      "id": "letter-23",
+      "title": {
+        "en-US": "Letter XXIII. To Juan de Polanco"
+      }
+    },
+    {
+      "id": "letter-24",
+      "title": {
+        "en-US": "Letter XXIV. To the Fathers and Brothers at Coimbra"
+      }
+    },
+    {
+      "id": "notes",
+      "title": {
+        "en-US": "Notes"
+      }
+    }
+  ]
+}

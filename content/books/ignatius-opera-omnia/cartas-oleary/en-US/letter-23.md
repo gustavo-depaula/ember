@@ -1,0 +1,23 @@
+# Letter XXIII. To Juan de Polanco
+
+*Rome, February or March, 154.7.*
+
+r IHS.
+
+I May the supreme grace and eternal love of Christ Our Lord ever favour us continually and help us.
+
+On the 2nd of February I received a letter from Master Laynez from Trent, and along with it one from you, dated the 1st of the same, from which I understand that you have written to Master Laynez, to the effect that other and better enterprises should not be abandoned on account of the project of a house and work in Florence, because this last has almost come to nought. I cannot help feeling uneasy and surprised on both points, fearing as I do in regard to both of them that you have been guided rather by your good zeal and great charity than by experience and prudence. Hence it would give me great spiritual consolation if you could relieve me of this anxiety.
+
+For as to the first, seeing I intended to send Master Laynez to Florence, that you should write in terms advising him against it and without giving notice to me first, I do not see how that can be right.
+
+With regard to the second, long before the scheme had come so near to failure, I had thought it over for a long time, and had even a letter written to you by Master Andrew, quite a month ago, advising you to alter your method of proceeding with those gentlemen with whom you have to deal. For in the case of gentlemen of their standing, whose example is good, and who, naturally enough, are careful to notice who is favourable and who is opposed to them, to give them in writing precept or advice to reform their conscience or state of life, without having previously secured the due measure of regard, credit, and authority for yourself, is more calculated to bring about failure than the attainment of the object in view.
+
+In the same way we wrote to you at Bologna as to the conduct you were then to observe towards the bishop and the Duke if they called you, and that you should be guided in everything by their opinion, so as to secure greater spiritual results among the people. And now with your attempt to bring about the rapid reformation of the Duke and Duchess you see the condition at which matters have arrived. I am persuaded in all this, taking into account the great charity and great ability that God Our Lord has granted to you, that this past experience will be a great warning to you for the future, and that so the divine Majesty will work many things to His greater glory, taking you for His true and faithful instrument for that purpose; for that reason, without any faltering, try to go forward in the Lord of all.
+
+We have gained the reputation, principally in Rome, amongst some who do not know the whole truth, that we are desirous of governing the whole world. If Mathias, of the Papal Court, or any of his adherents in ignorance have passed through Florence, it would not be extraordinary if they had spoken against us to the Duke; if so, this will be a further force contributing to the undoing of the greater service of God Our Lord.
+
+Do me this favour for the love of Our Lord, to write with the least possible delay, in duplicate and at great length, detailing minutely all the causes, real or supposed, that you may recognise or think of, which have been the reasons of the probable failure of this enterprise; in the meantime I wish that in those matters in which the greatest want of edification has been felt, either on your own account, or on account of us all, you should exercise acts of greater humility, to the greater confusion of the enemy of the world, and of the flesh; for instance, for some hours in the day, you should serve the poor in the hospitals, and give comfort to their souls by Confession and exhortations. To sum up, the more the work has collapsed and is undone, the more I feel in Our Lord that Master Laynez should go there, if we can take him from the Council, as soon as it can possibly be arranged, in accordance with what we have said in former letters. And if you have occasion to write to him at any future time, let it be rather to encourage him to come, than the opposite; for I trust in Our Creator and Lord that what has been lost will be recovered, for the greater glory of God and the greater spiritual advantage of many more souls. For if ours go there with great humility, and in that spirit do what they can
+
+9i to put the matter in order, I confidently hope that the divine Majesty will arrange it entirely for His greater praise and glory, for by His grace we desire nothing else.
+
+May He through His infinite and supreme goodness deign to grant us His abundant grace that we may perceive His divine will and accomplish it entirely. 40
