@@ -13,17 +13,22 @@
   },
   "description": {
     "it": "I Detti di frate Egidio d’Assisi, diciotto capitoli di massime sui vizi e le virtù: la fede, l’umiltà, la pazienza, la carità, la preghiera, la contemplazione.",
-    "en-US": "The Sayings of Brother Giles of Assisi: eighteen chapters of maxims on vices and virtues, faith, humility, patience, charity, prayer and contemplation. Italian.",
+    "en-US": "The Sayings of Brother Giles of Assisi: eighteen chapters of maxims on vices and virtues, faith, humility, patience, charity, prayer and contemplation. Italian",
     "pt-BR": "Os Ditos de frei Egídio de Assis: dezoito capítulos de máximas sobre os vícios e as virtudes."
   },
   "composed": "13th century",
   "languages": [
-    "it"
+    "it",
+    "en-US"
   ],
   "work": "francis-of-assisi/detti-egidio",
   "editions": {
     "it": {
       "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    },
+    "en-US": {
+      "translator": "first English translation (Lady Georgiana Fullerton, 1864), revised by Dom Roger Hudleston",
+      "year": 1926
     }
   },
   "sources": [
@@ -34,115 +39,141 @@
       "description": "Eighteen chapters. The English of the CCEL Hudleston revision (Part IV) is not imported.",
       "tier": "B",
       "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/ugolino/flowers",
+      "edition": "The Little Flowers of St. Francis, first English translation revised and emended by Dom Roger Hudleston (London: Burns Oates, 1926), Christian Classics Ethereal Library, flowers.txt.",
+      "description": "The corresponding part of the CCEL text, one chapter to a chapter of the Italian, with the chapter headings as titles. The Heritage Press introduction by Arthur Livingston (1965) is not imported.",
+      "tier": "A",
+      "tierEvidence": "Translation of 1864, revision of 1926 (Hudleston d. 1925); CCEL marks it public domain."
     }
   ],
   "toc": [
     {
       "id": "cap-001",
       "title": {
-        "it": "1. Capitolo de vizj, e della virtù."
+        "it": "1. Capitolo de vizj, e della virtù.",
+        "en-US": "Chapter I: Of vices and virtues"
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "it": "2. Capitolo della Fede."
+        "it": "2. Capitolo della Fede.",
+        "en-US": "Chapter II: Of faith"
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "it": "3. Capitolo della santa Umiltade."
+        "it": "3. Capitolo della santa Umiltade.",
+        "en-US": "Chapter III: Of holy humility"
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "it": "4. Capitolo dello santo timore di Dio."
+        "it": "4. Capitolo dello santo timore di Dio.",
+        "en-US": "Chapter IV: Of the holy fear of god"
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "it": "5. Capitolo della santa pazienzia."
+        "it": "5. Capitolo della santa pazienzia.",
+        "en-US": "Chapter V: Of holy patience"
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "it": "6. Capitolo dell'oziositade."
+        "it": "6. Capitolo dell'oziositade.",
+        "en-US": "Chapter VI: Of sloth"
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "it": "7. Capitolo del dispiacimento delle cose temporali."
+        "it": "7. Capitolo del dispiacimento delle cose temporali.",
+        "en-US": "Chapter VII: Of the contempt of temporal things"
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "it": "8. Capitolo della santa castitade."
+        "it": "8. Capitolo della santa castitade.",
+        "en-US": "Chapter VIII: Of holy chastity"
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "it": "9. Capitolo delle tentazioni."
+        "it": "9. Capitolo delle tentazioni.",
+        "en-US": "Chapter IX: Of temptations"
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "it": "10. Capitolo della santa penitenzia."
+        "it": "10. Capitolo della santa penitenzia.",
+        "en-US": "Chapter X: Of holy penance"
       }
     },
     {
       "id": "cap-011",
       "title": {
-        "it": "11. Capitolo della santa orazione."
+        "it": "11. Capitolo della santa orazione.",
+        "en-US": "Chapter XI: Of holy prayer"
       }
     },
     {
       "id": "cap-012",
       "title": {
-        "it": "12. Capitolo della santa cautela spirituale."
+        "it": "12. Capitolo della santa cautela spirituale.",
+        "en-US": "Chapter XII: Of holy spiritual prudence"
       }
     },
     {
       "id": "cap-013",
       "title": {
-        "it": "13. Capitolo della scienzia utile, e non utile."
+        "it": "13. Capitolo della scienzia utile, e non utile.",
+        "en-US": "Chapter XIII: Of knowledge useful and useless"
       }
     },
     {
       "id": "cap-014",
       "title": {
-        "it": "14. Capitolo del bene parlare e del male."
+        "it": "14. Capitolo del bene parlare e del male.",
+        "en-US": "Chapter XIV: Of good and evil speaking"
       }
     },
     {
       "id": "cap-015",
       "title": {
-        "it": "15. Capitolo della buona perseverazione."
+        "it": "15. Capitolo della buona perseverazione.",
+        "en-US": "Chapter XV: Of holy perseverance"
       }
     },
     {
       "id": "cap-016",
       "title": {
-        "it": "16. Capitolo della vera Religione."
+        "it": "16. Capitolo della vera Religione.",
+        "en-US": "Chapter XVI: Of true religious life"
       }
     },
     {
       "id": "cap-017",
       "title": {
-        "it": "17. Capitolo della santa obbedienzia."
+        "it": "17. Capitolo della santa obbedienzia.",
+        "en-US": "Chapter XVII: Of holy obedience"
       }
     },
     {
       "id": "cap-018",
       "title": {
-        "it": "18. Capitolo della memoria della morte."
+        "it": "18. Capitolo della memoria della morte.",
+        "en-US": "Chapter XVIII: Of the remembrance of death"
       }
     }
   ]
