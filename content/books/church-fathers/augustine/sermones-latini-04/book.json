@@ -1,0 +1,213 @@
+{
+  "id": "augustine-sermones-latini-04",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermones 150–170",
+    "en-US": "Sermons 150–170 (Latin)",
+    "pt-BR": "Sermões 150–170 (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermones Augustini 150–170, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "28 of Augustine's sermons (150 to 170), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the sermons not in the English NPNF book; no English translation imported.",
+    "pt-BR": "28 sermões de Santo Agostinho (150 a 170), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermones",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorsi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorsi of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo 150"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo 151"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Sermo 152"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Sermo 153"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Sermo 154"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Sermo 154/A"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Sermo 155"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Sermo 156"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Sermo 157"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Sermo 158"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Sermo 159"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Sermo 160"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Sermo 161"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Sermo 162"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Sermo 162/A"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Sermo 162/B"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Sermo 163"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Sermo 163/A"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Sermo 163/B"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Sermo 164"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Sermo 164/A"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Sermo 165"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Sermo 166"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Sermo 167"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Sermo 167/A"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Sermo 168"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Sermo 169"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Sermo 170"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
