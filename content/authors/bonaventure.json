@@ -1,0 +1,15 @@
+{
+  "name": {
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "century": 13,
+  "saint": "bonaventure",
+  "matches": [
+    "St. Bonaventure",
+    "Saint Bonaventure",
+    "Bonaventure",
+    "Bonaventura",
+    "Bonaventure, Saint, Cardinal, ca. 1217-1274"
+  ]
+}

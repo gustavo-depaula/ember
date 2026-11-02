@@ -1,0 +1,206 @@
+{
+  "id": "bonaventure-legenda-maior",
+  "cover": "classic",
+  "name": {
+    "la": "Legenda maior S. Francisci",
+    "en-US": "The Major Legend of St. Francis",
+    "pt-BR": "Legenda Maior de São Francisco"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Vita S. Francisci a S. Bonaventura, ministro generali, ex mandato Capituli Narbonensis (1260) conscripta, anno 1266 ab Ordine unica legenda recepta. ",
+    "en-US": "The official life of St. Francis, written by the Minister General St. Bonaventure for the Chapter of Narbonne (1260) and adopted in 1266 as the only legend of the Order: fifteen chapters on his life, with ten chapters of miracles after his death. The Latin is the text of the Fonti francescane, with its scriptural cross-references.",
+    "pt-BR": "A biografia oficial de São Francisco, escrita por São Boaventura, ministro geral, e adotada pela Ordem em 1266 como única legenda: quinze capítulos sobre a vida e dez sobre os milagres póstumos."
+  },
+  "composed": "1260-1263",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/legenda-maior",
+  "editions": {
+    "la": {
+      "editor": "Quaracchi (PP. Collegii S. Bonaventurae), after the Fonti francescane transcription",
+      "year": 1898
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://web.archive.org/web/20051111/http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_leggendamaggiore_lat.html",
+      "edition": "Text of the Quaracchi edition (Legendae duae de vita S. Francisci, 1898) as transcribed by M. Mastrorilli for the Biblioteca digitale Fonti francescane (rilievo.poliba.it, 2003), read from the Wayback Machine snapshot of 2005-11-11.",
+      "description": "Lines of numbered sentence units are joined into the sections of the edition; the modern \"cfr.\" scriptural cross-references of the transcription stay in parentheses; stray grave and acute accents of the web transcription are removed.",
+      "tier": "B",
+      "tierEvidence": "Bonaventure died in 1274; the Latin is his text. The web transcription is an anonymous digitization for scholarly use."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus in vitam beati Francisci"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. De conversatione sancti Francisci in habitu saeculari"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De perfecta conversione eius ad Deum et de reparatione trium ecclesiarum"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De institutione Religionis et approbatione Regulae"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De profectu Ordinis sub manu ipsius et confirmatione Regulae prius approbatae"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. De austeritate vitae et quomodo creaturae praebebant ei solatium"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. De humilitate et obedientia et de condescensionibus divinis sibi factis ad nutum"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. De amore paupertatis et mira suppletione defectuum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. De pietatis affectu et quomodo ratione carentia videbantur ad ipsum affici"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. De fervore caritatis et desiderio martyrii"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. De studio et virtute orationis"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. De intelligentia Scripturarum et spiritu prophetiae"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. De efficacia praedicandi et gratia sanitatum"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. De stigmatibus sacris"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. De patientia ipsius et transitu mortis"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. De canonizatione et translatione ipsius"
+      }
+    },
+    {
+      "id": "miracula",
+      "title": {
+        "la": "De miraculis post mortem ostensis"
+      },
+      "children": [
+        {
+          "id": "m01",
+          "title": {
+            "la": "Miracula I. Et primo de virtutibus sacrorum stigmatum"
+          }
+        },
+        {
+          "id": "m02",
+          "title": {
+            "la": "Miracula II. De mortuis suscitatis"
+          }
+        },
+        {
+          "id": "m03",
+          "title": {
+            "la": "Miracula III. De iis quos a mortis periculo liberavit"
+          }
+        },
+        {
+          "id": "m04",
+          "title": {
+            "la": "Miracula IV. De naufragis liberatis"
+          }
+        },
+        {
+          "id": "m05",
+          "title": {
+            "la": "Miracula V. De liberatis a vinculis et carceribus"
+          }
+        },
+        {
+          "id": "m06",
+          "title": {
+            "la": "Miracula VI. De liberatis a periculo partus"
+          }
+        },
+        {
+          "id": "m07",
+          "title": {
+            "la": "Miracula VII. De caecis illuminatis"
+          }
+        },
+        {
+          "id": "m08",
+          "title": {
+            "la": "Miracula VIII. De liberatis a variis morbis"
+          }
+        },
+        {
+          "id": "m09",
+          "title": {
+            "la": "Miracula IX. De non servantibus festum et inhonorantibus Sanctum"
+          }
+        },
+        {
+          "id": "m10",
+          "title": {
+            "la": "Miracula X. De quibusdam aliis miraculis diversimodi generis"
+          }
+        }
+      ]
+    }
+  ]
+}

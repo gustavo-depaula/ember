@@ -254,3 +254,7 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 - `doctrine/discours-sur-l-histoire-universelle` uses the Lachat typing (with Lachat's variant notes, 154k words), not the proofread Wikisource 1681 text (130k); `doctrine/politique-tiree-de-l-ecriture-sainte` likewise. No English was added to either (Elphinston 1767/1821 and the 1842 Book I are still to do).
 - `gallicanisme/`: the Latin *Defensio* and its Appendix come from the Bibliothèque monastique Word-HTML (Lachat XXI-XXII), with page marks of vol. XXI stripped; chapter headings are as in the source, a few chapter titles are the editor's argument line and may be cut. The analytical table that follows the Appendix in the file is left out.
 - Not done: `controverse/` English for the Avertissements, Communion, Tradition défendue; the Lachat vol. XXVI-XXX letters and vol. XXVII-XXVIII (left to the correspondence agent); vol. XXXI tables and the *Mémoire* pages 004-030.
+
+### Bonaventure (opera omnia)
+
+- `legenda-maior`, `legenda-minor` (`la/`): the Fonti francescane web transcription of the Quaracchi text, with a few residual typing slips (for instance "vo is" for "vocis") and the transcription's modern "cfr." scriptural cross-references. No English beside them yet: the PD translations (Lockhart 1868, Salter 1904) have OCR with broken paragraphs, drop-cap debris and (Salter) interleaved marginal notes, and need a hand-clean to be imported.
