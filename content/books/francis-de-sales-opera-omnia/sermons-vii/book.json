@@ -1,0 +1,189 @@
+{
+  "id": "sales-sermons-vii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Sermons de saint François de Sales, tome VII",
+    "en-US": "Sermons of St. Francis de Sales, vol. VII",
+    "pt-BR": "Sermões de São Francisco de Sales, tomo VII"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les sermons du tome VII de l’édition d’Annecy (vol. I des Sermons, 1593-1602), un sermon par chapitre, en orthographe d’époque.",
+    "en-US": "The sermons in volume VII of the Annecy edition (Sermons, vol. I; 1593-1602), one sermon per chapter, in period spelling.",
+    "pt-BR": "Os sermões do tomo VII da edição de Annecy (1593-1602)."
+  },
+  "composed": "1593-1602",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/sermons-vii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1896
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. VII: Sermons, 1896-1898 (file 07), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original 17th-century spelling, extracted from the PDF text layer (layout mode). Marginal references, variants and footnotes, the editors’ introductions and tables are not included. Sermon titles come from the headings and dates printed above each sermon.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-001",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Pentecôte 6 juin 1593"
+      }
+    },
+    {
+      "id": "sermon-002",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint pierre 29 juin 1593"
+      }
+    },
+    {
+      "id": "sermon-003",
+      "title": {
+        "fr-FR": "Sermon pour le douzième dimanche après la Pentecôte 28 août 1593"
+      }
+    },
+    {
+      "id": "sermon-004",
+      "title": {
+        "fr-FR": "Sermon pour le dix-huitième dimanche après la Pentecôte 10 octobre 1593"
+      }
+    },
+    {
+      "id": "sermon-005",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche de la septuagésime 6 février 1594"
+      }
+    },
+    {
+      "id": "sermon-006",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche de la sexagesime 13 février 1594"
+      }
+    },
+    {
+      "id": "sermon-007",
+      "title": {
+        "fr-FR": "Sermon pour le vendredi après le troisième dimanche de Carême £ 18 mars 1594"
+      }
+    },
+    {
+      "id": "sermon-008",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche des Rameaux 3 avril 1594"
+      }
+    },
+    {
+      "id": "sermon-009",
+      "title": {
+        "fr-FR": "Sermon pour le mardi de Pâques 12 avril 1594"
+      }
+    },
+    {
+      "id": "sermon-010",
+      "title": {
+        "fr-FR": "Sermon pour la fête de l’invention- de la sainte Croix 3 mai 1594"
+      }
+    },
+    {
+      "id": "sermon-011",
+      "title": {
+        "fr-FR": "Sermon pour le troisième dimanche après la Pentecôte 19 juin 1594"
+      }
+    },
+    {
+      "id": "sermon-012",
+      "title": {
+        "fr-FR": "Sermon sur la visibilité de l’Église fin septembre 1594"
+      }
+    },
+    {
+      "id": "sermon-013",
+      "title": {
+        "fr-FR": "Sermon sur la perpétuité de l’Église octobre 1594"
+      }
+    },
+    {
+      "id": "sermon-014",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche de la quinquagesime 5 février 1595"
+      }
+    },
+    {
+      "id": "sermon-015",
+      "title": {
+        "fr-FR": "Sermon sur la salutation angélique '595 (’> ave, gratia plena, [lucæ, i, 28.]"
+      }
+    },
+    {
+      "id": "sermon-016",
+      "title": {
+        "fr-FR": "Sermon pour le quatrième dimanche après Pâques 23 avril 1595"
+      }
+    },
+    {
+      "id": "sermon-017",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la sainte Trinité 21 mai 1595"
+      }
+    },
+    {
+      "id": "sermon-018",
+      "title": {
+        "fr-FR": "Sermon pour la fête du saint-Sacrement 13 juin 1596"
+      }
+    },
+    {
+      "id": "sermon-019",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche de la sexagesime 9 février 1597"
+      }
+    },
+    {
+      "id": "sermon-020",
+      "title": {
+        "fr-FR": "Sermon pour une dedicace mars-mai 1597"
+      }
+    },
+    {
+      "id": "sermon-021",
+      "title": {
+        "fr-FR": "Sermon dogmatique sur la sainte eucharistie juillet 1597"
+      }
+    },
+    {
+      "id": "sermon-022",
+      "title": {
+        "fr-FR": "Second sermon sur le même sujet juillet 1597"
+      }
+    },
+    {
+      "id": "sermon-023",
+      "title": {
+        "fr-FR": "Troisième sermon sur le même sujet juillet 1597"
+      }
+    },
+    {
+      "id": "sermon-024",
+      "title": {
+        "fr-FR": "Sermon pour la fête de l’Assomption 15 août 1602"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
