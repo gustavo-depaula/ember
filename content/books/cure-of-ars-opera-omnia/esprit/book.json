@@ -1,0 +1,412 @@
+{
+  "id": "vianney-esprit-bowden",
+  "name": {
+    "en-US": "The Spirit of the Curé of Ars",
+    "pt-BR": "O espírito do Cura d’Ars"
+  },
+  "author": {
+    "en-US": "St. John Vianney, the Curé of Ars",
+    "pt-BR": "São João Maria Vianney, o Cura d’Ars"
+  },
+  "description": {
+    "en-US": "Alfred Monnin’s compilation of the Curé of Ars’s teaching as Bowden translated it in 1865: twenty-one catechisms, five homilies, the Curé in his conversation, and seventeen exhortations.",
+    "pt-BR": "A compilação de Alfred Monnin com o ensino do Cura d’Ars, na tradução de Bowden (1865): vinte e um catecismos, cinco homilias, o Cura em sua conversa e dezessete exortações."
+  },
+  "composed": "1864",
+  "languages": [
+    "en-US"
+  ],
+  "work": "cure-of-ars/esprit",
+  "editions": {
+    "en-US": {
+      "translator": "J. E. Bowden",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/TheSpiritOfTheCureOfArs",
+      "edition": "The Spirit of the Curé of Ars, translated from the French (L’Esprit du Curé d’Ars, Monnin, Douniol 1864), edited by J. E. Bowden, London, Burns, Lambert and Oates, 1865 (Google scan, OCR; cross-checks archive.org/details/spiritcurarsstj00monngoog)",
+      "description": "Preface, the editor’s introductions, Parts II and III, and catechism XV and exhortation XIV in the OCR text.",
+      "tier": "A"
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.ewtn.com/catholicism/library/instructions-on-the-catechism-1273",
+      "edition": "EWTN, Instructions on the Catechism (the same Bowden translation, clean HTML)",
+      "description": "Used for the introduction of Part I, the twenty catechisms and sixteen of the seventeen exhortations, in place of the OCR. The French original (Monnin, 1864) is not online, so this book is English only.",
+      "tier": "A"
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I — The Curé of Ars in His Catechisms"
+      },
+      "children": [
+        {
+          "id": "p1-00",
+          "title": {
+            "en-US": "The Curé of Ars in His Catechisms"
+          }
+        },
+        {
+          "id": "p1-01",
+          "title": {
+            "en-US": "Catechism on Salvation"
+          }
+        },
+        {
+          "id": "p1-02",
+          "title": {
+            "en-US": "Catechism on the Love of God"
+          }
+        },
+        {
+          "id": "p1-03",
+          "title": {
+            "en-US": "Catechism on the Prerogatives of the Pure Soul"
+          }
+        },
+        {
+          "id": "p1-04",
+          "title": {
+            "en-US": "Catechism on the Holy Spirit"
+          }
+        },
+        {
+          "id": "p1-05",
+          "title": {
+            "en-US": "Catechism on the Blessed Virgin"
+          }
+        },
+        {
+          "id": "p1-06",
+          "title": {
+            "en-US": "Catechism on the Sanctification of Sunday"
+          }
+        },
+        {
+          "id": "p1-07",
+          "title": {
+            "en-US": "Catechism on the Word of God"
+          }
+        },
+        {
+          "id": "p1-08",
+          "title": {
+            "en-US": "Catechism on Prayer"
+          }
+        },
+        {
+          "id": "p1-09",
+          "title": {
+            "en-US": "Catechism on the Priesthood"
+          }
+        },
+        {
+          "id": "p1-10",
+          "title": {
+            "en-US": "Catechism on the Holy Sacrifice of the Mass"
+          }
+        },
+        {
+          "id": "p1-11",
+          "title": {
+            "en-US": "Catechism on the Real Presence"
+          }
+        },
+        {
+          "id": "p1-12",
+          "title": {
+            "en-US": "Catechism on Communion"
+          }
+        },
+        {
+          "id": "p1-13",
+          "title": {
+            "en-US": "Catechism on Frequent Communion"
+          }
+        },
+        {
+          "id": "p1-14",
+          "title": {
+            "en-US": "Catechism on Sin"
+          }
+        },
+        {
+          "id": "p1-15",
+          "title": {
+            "en-US": "On the Same Subject"
+          }
+        },
+        {
+          "id": "p1-16",
+          "title": {
+            "en-US": "Catechism on Pride"
+          }
+        },
+        {
+          "id": "p1-17",
+          "title": {
+            "en-US": "Catechism on Impurity"
+          }
+        },
+        {
+          "id": "p1-18",
+          "title": {
+            "en-US": "Catechism on Confession"
+          }
+        },
+        {
+          "id": "p1-19",
+          "title": {
+            "en-US": "Catechism on the Cardinal Virtues"
+          }
+        },
+        {
+          "id": "p1-20",
+          "title": {
+            "en-US": "Catechism on Hope"
+          }
+        },
+        {
+          "id": "p1-21",
+          "title": {
+            "en-US": "Catechism on Suffering"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II — The Curé of Ars in His Homilies"
+      },
+      "children": [
+        {
+          "id": "p2-00",
+          "title": {
+            "en-US": "The Curé of Ars in His Homilies"
+          }
+        },
+        {
+          "id": "p2-01",
+          "title": {
+            "en-US": "Homily on the Parable of the Cockle"
+          }
+        },
+        {
+          "id": "p2-02",
+          "title": {
+            "en-US": "Homily on the Parable of the Labourers"
+          }
+        },
+        {
+          "id": "p2-03",
+          "title": {
+            "en-US": "Homily on the Gospel for the First Sunday in Lent"
+          }
+        },
+        {
+          "id": "p2-04",
+          "title": {
+            "en-US": "Homily on the Gospel for the Twenty-first Sunday after Pentecost"
+          }
+        },
+        {
+          "id": "p2-05",
+          "title": {
+            "en-US": "Homily for the Last Sunday in the Year"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III — The Curé of Ars in His Conversation"
+      },
+      "children": [
+        {
+          "id": "p3-01",
+          "title": {
+            "en-US": "The Curé of Ars in His Conversation"
+          }
+        },
+        {
+          "id": "p3-02",
+          "title": {
+            "en-US": "Faith of M. Vianney"
+          }
+        },
+        {
+          "id": "p3-03",
+          "title": {
+            "en-US": "Hope of M. Vianney"
+          }
+        },
+        {
+          "id": "p3-04",
+          "title": {
+            "en-US": "Charity of M. Vianney"
+          }
+        },
+        {
+          "id": "p3-05",
+          "title": {
+            "en-US": "Thoughts of M. Vianney on the Joys of the Interior Life"
+          }
+        },
+        {
+          "id": "p3-06",
+          "title": {
+            "en-US": "Zeal of M. Vianney"
+          }
+        },
+        {
+          "id": "p3-07",
+          "title": {
+            "en-US": "Love of M. Vianney for the Poor"
+          }
+        },
+        {
+          "id": "p3-08",
+          "title": {
+            "en-US": "Humility of M. Vianney"
+          }
+        },
+        {
+          "id": "p3-09",
+          "title": {
+            "en-US": "Thoughts of M. Vianney on Self-Denial and Suffering"
+          }
+        },
+        {
+          "id": "p3-10",
+          "title": {
+            "en-US": "How M. Vianney Spoke of the Saints"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Part IV — Seventeen Exhortations of the Curé of Ars"
+      },
+      "children": [
+        {
+          "id": "p4-01",
+          "title": {
+            "en-US": "On Salvation"
+          }
+        },
+        {
+          "id": "p4-02",
+          "title": {
+            "en-US": "On Death"
+          }
+        },
+        {
+          "id": "p4-03",
+          "title": {
+            "en-US": "On the Last Judgment"
+          }
+        },
+        {
+          "id": "p4-04",
+          "title": {
+            "en-US": "On Sin"
+          }
+        },
+        {
+          "id": "p4-05",
+          "title": {
+            "en-US": "On Temptations"
+          }
+        },
+        {
+          "id": "p4-06",
+          "title": {
+            "en-US": "On Pride"
+          }
+        },
+        {
+          "id": "p4-07",
+          "title": {
+            "en-US": "On Avarice"
+          }
+        },
+        {
+          "id": "p4-08",
+          "title": {
+            "en-US": "On Luxury"
+          }
+        },
+        {
+          "id": "p4-09",
+          "title": {
+            "en-US": "On Envy"
+          }
+        },
+        {
+          "id": "p4-10",
+          "title": {
+            "en-US": "On Gluttony"
+          }
+        },
+        {
+          "id": "p4-11",
+          "title": {
+            "en-US": "On Anger"
+          }
+        },
+        {
+          "id": "p4-12",
+          "title": {
+            "en-US": "On Sloth"
+          }
+        },
+        {
+          "id": "p4-13",
+          "title": {
+            "en-US": "On Grace"
+          }
+        },
+        {
+          "id": "p4-14",
+          "title": {
+            "en-US": "On Habitual Grace"
+          }
+        },
+        {
+          "id": "p4-15",
+          "title": {
+            "en-US": "On Prayer"
+          }
+        },
+        {
+          "id": "p4-16",
+          "title": {
+            "en-US": "On the Love of God"
+          }
+        },
+        {
+          "id": "p4-17",
+          "title": {
+            "en-US": "On Paradise"
+          }
+        }
+      ]
+    }
+  ]
+}
