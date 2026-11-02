@@ -1,0 +1,168 @@
+{
+  "id": "anselm-de-grammatico",
+  "cover": "classic",
+  "name": {
+    "la": "De grammatico",
+    "en-US": "On the Grammarian",
+    "pt-BR": "Sobre o gramático"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Dialogus de grammatico, quo modo «grammaticus» sit substantia et qualitas: quaestio de nominibus denominativis et de significatione. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s early dialogue between teacher and student on how a word like “grammarian” signifies, being at once a substance and a quality: a work of logic and semantics. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR, with the chapter summaries.",
+    "pt-BR": "O diálogo de juventude de Anselmo entre mestre e discípulo sobre como um termo como «gramático» significa, sendo ao mesmo tempo substância e qualidade: obra de lógica e de semântica."
+  },
+  "composed": "c. 1060-1063",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-grammatico",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10617",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10617, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. An grammaticus sit substantia, an qualitas: proponuntur rationes in utramque partem"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Rationes propositae redarguuntur"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Rationes propositae contra redarguentem firmantur"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Vitium syllogismorum cap. 2 propositorum"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quid ex praedictis syllogismis effici legitime valeat, in eorum uno docetur"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Alterum sophisma discutitur ex dictis"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Iterum discutitur prius argumentum cap. 2 propositum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Examen argumenti cap. 5 propositi"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. An sit aliquis grammaticus non homo"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Grammaticus an sit prima, an secunda substantia"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Hominem non esse grammaticam"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Homo, et grammaticus, quam varie significent sua significata"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. De formali significatione vocis, grammaticus"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Grammaticum esse significativum grammaticae, sive significare scientem grammaticam"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Exemplo albi doctrina proposita explicatur"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Quomodo grammaticus sit qualitas"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. De Aristotelis sensu in tractatu De categoriis"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Quod dialectici appellent voces nomine rerum quarum sunt significativae"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Utrum grammaticus, cum designet habentem qualitatem, spectet ad categoriam, habere"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Quomodo ex significatis vocis, albus, non exsurgat unum"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Quod albus non significet aliquid habens albedinem; sed duntaxat significet habens albedinem"
+      }
+    }
+  ]
+}

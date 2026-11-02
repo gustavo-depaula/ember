@@ -1,0 +1,1097 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Dialogus de grammatico</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DiDeGr</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>CAPUT PRIMUM. <emph>143</emph> <hi>An grammaticus sit substantia, an qualitas: proponuntur rationes in utramque partem</hi>.</head>
+<p>DISCIPULUS. De grammatico peto, ut me certum
+facias utrum sit substantia an qualitas; ut hoc
+cognito, quid de aliis quae similiter denominative
+dicuntur sentire debeam agnoscam. MAGISTER. Dic
+primum cur dubites? DISC. Ideo, quia videtur utrumque
+posse probari necessariis rationibus, esse scilicet,
+et non esse. MAG. Proba ergo. DISC. Ne ergo
+festines contradicere quidquid dixero, sed patere
+me rationem ad suum finem perducere: deinde
+aut approba, aut corrige. MAG. Ut vis. DISC. Ut
+quidem grammaticus probetur esse substantia, sufficit
+quia omnis grammaticus homo, et omnis homo
+<pb n="0561B"/>
+substantia. Quidquid enim habet grammaticus, ut
+sequatur eum substantia, non habet nisi ex eo
+quia homo est. Quare hoc concesso ut homo sit,
+quaecunque sequuntur hominem, sequuntur grammaticum.
+Quod vero grammaticus sit qualitas, aperte
+fatentur philosophi qui de hac re tractaverunt, quorum
+auctoritatem de his rebus est impudentia
+improbare. Item quoniam necesse est ut grammaticus
+sit aut substantia aut qualitas, ut quodlibet
+ horum sit, alterum non sit; et quodlibet non sit,
+alterum necesse sit esse: quidquid valet ad
+instruendam unam partem, destruit alteram: et
+quidquid unam debilitat, alteram roborat. Cum
+ergo alterum horum verum sit, alterum falsum; rogo
+ut falsitatem detegens, aperias mihi veritatem.
+<pb n="0561C"/>
+        </p>
+</div2>
+
+<div2>
+        <head>CAPUT II. <hi>Rationes propositae redarguuntur</hi>.</head>
+<p>MAG. Argumenta quae ex utraque parte posuisti,
+necessaria sunt; nisi quod dicis, si alterum est, alterum
+esse non posse. Quare non debes a me exigere
+ut alteram partem esse falsam ostendam, quod
+<pb n="0562A"/>
+ab ullo fieri non potest: sed quomodo sibi invicem
+non repugnent, aperiam, si a me fieri potest: sed
+vellem ego prius a te ipso audire quid his probationibus
+tuis objici posse opineris. DISC. Hoc quod
+tu a me exigis, ego a te intentus exspectabam.
+Sed quoniam tu easdem probationes asseris irreprobabiles,
+meum est, quid dubito, aperire, quid me
+ sollicitet; tuum vero est utriusque partis firmitatem
+et convenientiam ostendere. MAG. Dic ergo tu
+quod sentis, et ego tentabo facere quod poscis. DISC.
+Illam quidem propositionem, quae dicit grammaticum
+esse hominem, hoc modo repelli existimo: quia
+nullus grammaticus potest intelligi sine grammatica,
+et omnis homo potest intelligi sine grammatica.
+Item, omnis grammaticus suscipit magis et minus,
+<pb n="0562B"/>
+et nullus homo suscipit magis et minus: ex qua
+utraque contextione binarum propositionum conficitur
+una conclusio, id est nullus grammaticus est
+homo.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III. <hi>Rationes propositae contra redarguentem firmantur</hi>.</head>
+<p>MAG. Non sequitur. DISC. Quare? MAG. An tibi
+videtur animalis nomen aliquid aliud significare,
+quam substantiam? DISC. Prorsus nihil aliud est
+animal quam substantia animata sensibilis, nec
+substantia animata sensibilis aliud est quam animal.
+MAG. Ita est; sed dic, quaeso, utrum omne quod
+non est aliud quam substantia animata sensibilis,
+possit intelligi praeter rationalitatem, nec sit rationale
+ex necessitate. DISC. Negare non possum. MAG.
+<pb n="0562C"/>
+Omne igitur animal potest intelligi praeter rationalitatem,
+et nullum animal est ex necessitate rationale.
+DISC. Nequeo dicere quin ex concessis consequatur,
+quanquam valde metuam quod te suspicor
+intendere. MAG. At nullus homo potest intelligi praeter
+rationalitatem, et omnem hominem necesse
+<pb n="0563A"/>
+est rationalem esse. DISC. Angustiae sunt mihi utrinque: 
+nam si concedo, concludis nullum hominem
+esse animal; si renuo, dices me non tantum
+posse intelligi, sed vere esse sine rationalitate. MAG.
+Ne timeas; non enim sequitur quod putas. DISC. Si
+sic est, ut promittis, spontaneus concedo quidquid
+proposuisti: sin autem, invitus. MAG. Contexe igitur
+tu ipse quatuor ultimas propositiones quas feci, in
+duos syllogismos. DISC. Hoc utique ordine digeri
+possunt: <hi>Omne animal</hi> <emph>144</emph> <hi>potest intelligi praeter
+rationalitatem, nullus vero homo potest intelligi praeter
+rationalitatem</hi>. Item: <hi>Nullum animal rationale
+est ex necessitate; omnis autem homo rationalis est
+ex necessitate</hi>. Ex utroque hoc ordine binarum propositionum
+videtur nasci: <hi>Nullus igitur homo est
+<pb n="0563B"/>
+animal</hi>; quo nihil falsius, licet praecedentes propositiones
+titubare in nullo videam. Duae namque, quae
+subjectum terminum habent, hominem, sic sunt
+per se notae, ut imprudentia sit eas probare. Duae
+vero, quae subjiciunt <hi>animal</hi>, sic videntur probatae,
+ut impudentia sit eas negare. Sed video horum
+duorum syllogismorum connexionem per omnia similem
+illis duobus, quos paulo ante protuli. Quapropter
+ad nihil aliud suspicor te hos attulisse, nisi
+ut cum eorum conclusionem aperte falsam cernerem,
+idem de similibus quos ego feceram decernerem.
+MAG. Sic est. DISC. Ostende ergo in quo et hic et
+ibi tanta sit deceptio: ut cum et verae propositiones
+et secundum naturam syllogismorum connexae videantur,
+nulla tamen eorum conclusiones veritas
+<pb n="0563C"/>
+tueatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV. <hi>Vitium syllogismorum cap</hi>. 2 <hi>propositorum</hi>.</head>
+<p>MAG. In tuis syllogismis hoc faciam; meos, si vis,
+per te discutio. DISC. Fiat tuo judicio. MAG. Repete,
+et contexe syllogismos quos fecisti. DISC. <hi>Omnis
+homo potest intelligi sine grammatica</hi>. MAG. Quid dicis
+hominem intelligi posse sine grammatica? DISC.
+Hominem. MAG. Dic ergo in ipsa propositione quod
+intelligis. DISC. Omnis homo potest intelligi homo
+sine grammatica. MAG. Concedo: assume. DISC.
+Nullus grammaticus potest intelligi sine grammatica.
+MAG. Quid non potest grammaticus intelligi
+sine grammatica? DISC. Grammaticus. MAG. Profer
+<pb n="0563D"/>
+ergo quod intelligis. DISC. Nullus grammaticus potest
+intelligi grammaticus sine grammatica. MAG.
+Junge has duas propositiones ita integras sicut eas
+modo protulisti. DISC. <hi>Omnis homo potest intelligi
+homo sine grammatica; nullus grammaticus potest
+intelligi grammaticus sine grammatica</hi>. MAG. Vide
+ergo utrum habeant communem terminum, sine
+<pb n="0564A"/>
+quo nihil efficiunt. DISC. Video eas non habere communem
+terminum, et idcirco nihil ex eis consequi.
+MAG. Contexe alterum syllogismum. DISC. Non jam
+opus est ut pro ejus ostensione labores; nam adverto
+ejus fallaciam. Sic enim ejus propositiones
+intelligebam, ac si diceretur quia nullus homo est
+magis vel minus homo, et omnis grammaticus est
+magis vel minus grammaticus: et quoniam hae duae
+propositiones nullum habent communem terminum,
+nihil conficiunt. MAG. Itane tibi videtur his tuis
+connexionibus nihil concludi posse. DISC. Ita utique
+putabam; sed haec tua interrogatio me facit suspectum,
+ne forte in illis lateat aliqua efficacia: sed
+quomodo efficiunt sine communi termino? MAG.
+Communis terminus syllogismi non tam in prolatione
+<pb n="0564B"/>,
+quam in sententia est habendus. Sicut
+enim nihil efficitur, si communis est in voce et non
+in sensu: ita nihil obest, si est in intellectu et non
+in prolatione. Sententia quippe ligat syllogismum,
+non verba.</p>
+</div2>
+
+<div2>
+        <head>CAPUT V <hi>Quid ex praedictis syllogismis effici legitime valeat, in eorum uno docetur</hi>.</head>
+<p>DISC. Exspecto ut reddas effectum propositionibus
+meis. MAG. Efficiunt vere aliquid, sed non quod
+exspectas. DISC. Quidquid illud sit, non gratus
+accipio. MAG. Qui dicit, <hi>omnis homo potest intelligi
+homo sine grammatica</hi>, et, <hi>nullus grammaticus
+potest intelligi grammaticus sine grammatica</hi>: nonne
+hoc significat quia esse hominis non indiget grammatica,
+<pb n="0564C"/>
+et esse grammatici indiget grammatica?
+DISC. Nihil verius. MAG. An habent communem terminum
+hae duae propositiones, quas modo dixi significari
+in aliis duabus? DISC. Habent. MAG. Conficitur
+ergo quia esse grammatici non est esse hominis,
+id est non esse eamdem definitionem
+utriusque. DISC. Procul dubio sic video esse et consequi.
+MAG. Non tamen ideo consequitur grammaticum
+non esse hominem, sicut tu intelligebas. Sed si
+ita intelligas, <hi>grammaticus non est homo</hi>, ac si dicatur,
+grammaticus non est idem quod homo, id
+est non habent eamdem definitionem; vera est conclusio.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI. <hi>Alterum sophisma discutitur ex dictis</hi>.</head>
+<p>DISC. Intelligo quod dicis. MAG. Si ergo bene intelligis
+quae dixi, dic quomodo tu dissolveres hunc
+syllogismum, si quis ita contexeret? <hi>Omnis grammaticus
+dicitur in eo quod quale; nullus homo dicitur
+in eo quod quale; ergo nullus homo grammaticus</hi>.
+DISC. Tale mihi hoc videtur esse, ac si diceretur:
+<pb n="0565A"/> <hi>Omne rationale dicitur in eo quod quale; at nullus
+homo dicitur in eo quod quale; nullus ergo homo rationalis</hi>.
+Hoc autem nulla probatio verum efficere
+valet, ut rationale praedicetur de nullo homine. Similiter
+ille syllogismus, quem modo protulisti, non
+necessario concludit grammaticum non praedicari de
+homine; hoc enim significant ejus propositiones, si
+secundum veritatem eas intelligimus, tanquam si
+diceretur ita: <hi>Omnis grammaticus dicitur grammaticus
+in eo quod quale; nullus homo dicitur homo in
+eo quod quale</hi>. Ex his autem duabus propositionibus
+nequaquam consequitur, <hi>nullus grammaticus praedicatur
+de homine</hi>: quoniam non est idem terminus
+qui affirmatur de grammatico et negatur de homine.
+Esset vero in illis communis terminus, et necessariam
+<pb n="0565B"/>
+conclusionem ingererent; si aut manente
+ propositione, sicut posita est, sic vera fieret
+ assumptio. <hi>Nullus homo dicitur grammaticus in
+eo quod quale</hi>; aut manente assumptione, sic vere
+proponeretur: <hi>omnis grammaticus dicitur homo
+in eo quod quale</hi>. Nam ex utraque hac complexione
+nasceretur quia de nullo homine grammaticus praedicaretur:
+si quis vero id quod dicitur, <hi>homo non
+est grammaticus</hi>, ita velit intelligere ac si diceretur, <hi>homo non est idem quod grammaticus</hi>;
+ut si dicam,
+fulgor est splendor, aut fulgor non est splendor, id
+est fulgor est idipsum, aut non est idipsum quod
+splendor; si quis, inquam, sic intelligat hoc quod
+dicitur, homo non est grammaticus. Secundum hunc
+sensum consequitur ex illis propositionibus si
+<pb n="0565C"/>
+earum vis consideretur bene, quia nullus homo est
+grammaticus: nam ad hoc probandum quia essentia
+hominis non est essentia grammatici, habet earum
+ significatio communem terminum.
+<emph>145</emph> </p>
+      </div2>
+
+<div2>
+        <head>CAPUT VII. <hi>Iterum discutitur prius argumentum cap</hi>. 2 <hi>propositum</hi>.</head>
+<p>MAG. Bene intellexisti quid dixi, sed forte non
+bene considerasti. DISC.. Quomodo bene intellexi
+et non bene consideravi? MAG. Dic mihi si quis sic
+proponeret: <hi>Nullus homo potest intelligi sine rationalitate:
+omnis autem lapis potest intelligi sine rationalitate</hi>:
+quid consequeretur? DISC. Quid nisi <hi>nullus igitur lapis homo?</hi> 
+ MAG. Quomodo hoc intelligis?
+<pb n="0565D"/>
+an quia nullo modo lapis est homo; an quia
+non est lapis idem quod homo? DISC. Quia nullo
+<pb n="0566A"/>
+modo lapis est homo. MAG. Dic ergo quid differt
+iste syllogismus ab illo tuo syllogismo, in quo dicis
+grammaticum non posse intelligi sine grammatica,
+hominem vero posse; et ideo grammaticum hominem
+non esse? DISC. Quantum quidem ad vim
+argumentationis, nihil video hunc ab illo differre:
+sicut enim ibi intelligendum est quia grammaticus
+non potest intelligi grammaticus sine grammatica,
+et homo potest intelligi homo sine grammatica.
+[Ita hic est intelligendum quia homo non
+potest intelligi homo sine rationalitate, et lapis potest
+intelligi lapis sine rationalitate;] et idcirco,
+cum hujus syllogismi rata sit conclusio, quia
+nullo modo lapis est homo; videris mihi syllogismi
+mei, qui omnino similis est isti, conclusionem callidis
+<pb n="0566B"/>
+tuis expositionibus obruisse. Unde jam intelligo
+quid dixeris quia bene intellexi, sed non bene
+consideravi: bene enim intellexi quid loquendo mihi
+significares; sed idipsum quod significabas, non
+bene consideravi, quia quomodo me deciperet ignoravi.
+MAG. Imo in hoc non bene considerasti,
+quia quomodo te non deciperet ignorasti. DISC.
+Quomodo? MAG. Quippe si iste syllogismus, quem
+modo proposui, sic exponatur, quemadmodum exposui
+tuum, ut dicatur: <hi>Nullus homo potest intelligi
+homo sine rationalitate; omnis autem lapis potest
+intelligi lapis sine rationalitate</hi>, non habebit aliam
+ vim concludendi, quam dixi tuum habere. Sed
+quoniam iste quodam alio modo potest intelligi,
+quo ille tuus non potest, habet hanc conclusionem
+<pb n="0566C"/>
+ut nullo modo lapis possit esse homo: cum enim dico
+quia nullus homo intelligi valet sine rationalitate, et
+omnis lapis potest intelligi sine rationalitate; sic potest,
+imo debet accipi, ac si dicatur: Nullus homo
+potest aliquo modo intelligi sine rationalitate; omnis
+vero lapis quolibet modo potest intelligi sine rationalitate:
+unde conficitur: <hi>Nullus igitur lapis aliquo
+modo est homo</hi>. In tuis vero propositionibus veritas
+nequaquam similem admittit subauditionem:
+non enim potest dici quia nullus grammaticus
+intelligi valet aliquo modo sine grammatica, aut
+omnis homo valet quolibet modo intelligi sine grammatica:
+nam omnis homo qui grammaticus est,
+potest intelligi homo sine grammatica, et nullus
+homo potest intelligi grammaticus sine grammatica.
+<pb n="0566D"/>
+Quapropter non possunt conficere grammaticum
+nequaquam esse hominem.
+<pb n="0567A"/>
+        </p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII. <hi>Examen argumenti cap</hi>. 5 <hi>propositi</hi>.</head>
+<p>DISC. Non habeo quid contra hanc sententiam
+tuam dicam. Sed quoniam latenter monuisti me ut
+non sim contentus intelligere quid dicas; sed idipsum
+quod dicis, considerem: videtur mihi consideranda
+tua conclusio, quam ex meo syllogismo
+confici ostendisti; quia esse grammatici non est esse
+hominis. Si enim hoc est, qui habet essentiam grammatici,
+non ideo necessario habet essentiam hominis;
+sed si homo sequatur grammaticum, essentia
+hominis sequitur essentiam grammatici: sed haec
+non sequitur hanc, quare nec ille illum. Non est
+igitur omnis grammaticus homo: at, cum omnibus
+grammaticis una sit ratio, cur sint homines, profecto
+<pb n="0567B"/>
+aut omnis grammaticus est homo, aut nullus.
+Sed constat quia non omnis; nullus igitur. Videtur
+itaque quia syllogismo meo conclusionem, quam
+acute abstulisti, auferendo acutius dedisti. MAG. Et
+si latenter te monui considerare quod audis, non
+tamen, ut apparet, inutiliter: nam etsi sophistice
+probes nullum grammaticum hominem, per hoc
+quod esse grammatici non est esse hominis;
+utile tamen tibi erit, cum ipsum sophisma quod te
+sub pallio verae rationis fallit in sua fallacia, ita nudum
+conspicies. DISC. Ostende ergo quod me fallat; et
+ubi me fallat haec, quam modo feci de grammatico,
+probatio. MAG. Redeamus iterum ad animal et hominem,
+in quibus ita quasi palpamus veritatem,
+ut nullum sophisma nobis persuadeat, licet cogat,
+<pb n="0567C"/>
+credere falsitatem. Dic ergo utrum esse uniuscujusque
+rei in diffinitione consistat. DISC. Ita est. MAG.
+Diffinitio hominis est diffinitio animalis? DISC. Minime:
+si enim <hi>animal rationale mortale</hi> (quae est diffinitio
+hominis) esset diffinitio animalis, cuicunque conveniret
+animal, conveniret rationale mortale; quod falsum
+ est. MAG. Non est igitur esse hominis esse
+animalis. DISC. Ita consequitur. MAG. Potes igitur ex
+hoc probare <hi>quia nullus homo animal est</hi>, eadem
+ratione, qua probasti modo nullum grammaticum
+esse hominem. Quapropter si vides apertam esse
+falsitatem quod haec tua ratiocinatio hic concludit,
+ne credas certam esse veritatem, quod ibi
+ludit. DISC. Jam ostendisti quia me fallit, ostende
+etiam ubi. MAG. Non tenes quod paulo ante dixi, te
+<pb n="0567D"/>
+concedente, quia esse grammatici non est esse hominis,
+idem est ac si diceretur: Diffinitio grammatici
+non est diffinitio hominis, id est, non est idem
+<pb n="0568A"/>
+grammaticus omnino et homo. Sicut enim homo non
+debet definiri cum grammatica, ita grammaticus non
+valet sine grammatica. Quare debet intelligi illa tua
+argumentatio hoc modo: Si esse grammatici non est
+simpliciter esse hominis; qui habet essentiam grammatici,
+non ideo sequitur ut habeat simpliciter essentiam
+hominis. Similiter intelligendum est quia
+simpliciter homo non sequitur grammaticum, id est
+si grammaticus est, non sequitur ut sit simpliciter
+homo; ita vero nihil aliud sequitur, nisi <hi>nullus
+grammaticus est simpliciter homo</hi>. DISC. Nihil
+clarius.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX. <hi>An sit aliquis grammaticus non homo</hi>.</head>
+
+<pb n="0568B"/>
+<p>MAG. Verum si probaretur, quod (ut puto) facile
+fieri potest, quia esse grammatici ita non est
+esse hominis, sicut esse albi non est esse hominis
+(potest enim homo esse sine albo, et album sine homine):
+tunc vere sequeretur aliquem grammaticum
+posse esse non hominem. DISC. Quid ergo laboramus?
+Si hoc probari potest, proba: et finiatur haec
+ quaestio. MAG. Non hoc a me debes hic exigere;
+non enim in hac quaestione ventilamus utrum possit
+esse, sed utrum sit aliquis grammaticus non homo,
+quod vides monstrari non posse. DISC. Nondum
+video, quia adhuc habeo dicere contra. MAG. Dic.
+DISC. Aristoteles ostendit grammaticum eorum esse
+quae sunt in subjecto: <emph>146</emph> et nullus homo est in
+subjecto: quare nullus grammaticus homo. MAG.
+<pb n="0568C"/>
+Noluit Aristoteles hoc consequi ex suis dictis: nam idem
+Aristoteles dicit quemdam hominem, et hominem et
+animal grammaticum. DISC. Quomodo ergo dissolvitur
+iste syllogismus? MAG. Responde mihi: cum loqueris
+mihi de grammatico, unde intelligam te loqui
+de hoc nomine, an de rebus quas significat? DISC.
+De rebus. MAG. Quas ergo res significat? DISC. Hominem,
+et grammaticam. MAG. Audito ergo hoc nomine,
+intelligam hominem aut grammaticam; et
+loquens de grammatico loquar de homine, aut
+de grammatica. DISC. Ita oportet. MAG. Dic ergo:
+Homo est substantia, an in subjecto? DISC. Non est
+in subjecto, sed est substantia. MAG. Grammatica
+est qualitas, et in subjecto. DISC. Utrumque est.
+MAG. Quid ergo mirum, si quis dicit quia grammaticus
+<pb n="0568D"/>
+est substantia, et non est in subjecto, secundum
+hominem; et grammaticus est qualitas, et in
+subjecto, secundum grammaticam?
+<pb n="0569A"/>
+        </p>
+</div2>
+
+<div2>
+        <head>CAPUT X. <hi>Grammaticus an sit prima, an secunda substantia</hi>.</head>
+<p>DISC. Diffiteri non possum; sed unum adhuc dicam
+cur grammaticus non sit substantia; quia omnis
+substantia est prima aut secunda; grammaticus
+autem nec prima, nec secunda. MAG. Memento dictorum
+Aristotelis, quae paulo ante dixi, quibus dicit
+grammaticum et primam et secundam substantiam;
+quia et hominem quemdam, et hominem et
+animal, grammaticum dici testatur: sed tamen unde
+probas grammaticum non esse primam, aut secundam
+substantiam? DISC. Quia est in subjecto, quod
+ nulla substantia est; et dicitur de pluribus, quod
+primae non est; nec est genus, aut species, nec dicitur
+in eo quod quid: quod est secundae. MAG. Nihil
+<pb n="0569B"/>
+horum, si bene meministi quae jam diximus, aufert
+ grammatico substantiam; quia secundum aliquid
+grammaticus non est in subjecto, et est genus, et
+species, et dicitur in eo quod quid; quia est et homo,
+qui species est; et animal, quod est genus; et haec
+dicuntur in eo quod quid. Et etiam individuus,
+sicut homo et animal; quia quemadmodum quidam
+homo, et quoddam animal; ita quidam grammatiticus
+est individuus. Socrates enim et homo et animal
+est, et grammaticus. DISC. Non possum negare
+quod dicis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI. <hi>Hominem non esse grammaticam</hi>.</head>
+<p>MAG. Si alia non habes, unde possis probare grammaticum
+non esse hominem, nunc proba eum non
+<pb n="0569C"/>
+esse grammaticam. DISC. Facilius hoc possum digito
+quam argumento. Ibi namque fregisti omnia mea
+argumenta, ubi aperuisti a grammatico significari
+diversa, et secundum ea loquendum et intelligendum
+de grammatico: quod quamvis abnuere non
+possim tamen non sic satisfacit animo meo, ut
+velut quod quaerebat invento, quiescat: videris enim
+mihi quasi non curare ut me doceas, sed tantum
+ut rationes meas obstruas. Sed, sicut meum fuit
+exponere quae me ex utraque parte in ambiguitatem
+cogunt, ita tuum erat aut unam partem destruere,
+aut ostendere quomodo sibi invicem non repugnent.
+MAG. Cur non satis tibi videtur ostensum quod grammaticum
+esse substantiam, et grammaticum esse
+ qualitatem, nequaquam repugnent sibi invicem,
+<pb n="0569D"/>
+in eo quod de grammatico modo secundum hominem,
+modo secundum grammaticam loqui et intelligere
+oportet? DISC. Quoniam nemo qui intelligit nomen
+<pb n="0570A"/>
+grammatici, ignorat grammaticum significare
+hominem et grammaticam: et tamen si hac fiducia
+in populo loquens dicam: <hi>Utilis scientia est grammaticus</hi>,
+aut, <hi>bene scit homo iste grammaticum</hi>, non
+solum stomachabuntur grammatici, sed et ridebunt
+rustici. Nullatenus itaque credam sine aliqua alia
+ratione tractatores dialecticae tam saepe et tam studiose
+in suis libris scripsisse quod idem ipsi colloquentes
+dicere erubescerent: saepissime namque
+cum volunt ostendere qualitatem aut accidens subjungunt, <hi>ut grammaticus, et similia</hi>:
+cum grammaticum
+magis esse substantiam, quam qualitatem aut
+accidens, usus omnium loquentium attestetur:
+et cum volunt aliquid docere de substantia, nusquam
+proferunt, <hi>ut, grammaticus, aut aliquid hujusmodi</hi> 
+<pb n="0570B"/>.
+Huc accedit quia si ideo grammaticus,
+quia significat hominem et grammaticam, dicendus
+est substantia et qualitas, cur homo non est similiter
+qualitas et substantia? Homo namque significat
+substantiam, cum omnibus illis differentiis, quae
+sunt in homine, ut est sensibilitas et mortalitas. Sed
+nusquam, ubi sit scriptum aliquid de qualitate
+aliqua, prolatum est ad exemplum, <hi>velut
+homo</hi>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII. <hi>Homo, et grammaticus, quam varie significent sua significata</hi>.</head>
+<p>MAG. Quod illam rationem quam dixi, cur grammaticus,
+scilicet sit substantia et qualitas, idcirco
+repudias, quia non valet in nomine hominis, idcirco
+<pb n="0570C"/>
+facis, ut puto, quia non consideras quam dissimiliter
+significent: scilicet nomen hominis, ea ex quibus
+constat homo; et grammaticus, hominem et
+grammaticam. Nempe nomen hominis per se, et ut
+unum, significat ea ex quibus constat totus homo; in
+quibus substantia principalem locum tenet, quoniam
+est causa aliorum, et habens ea non ut indigens illis,
+sed ut se indigentia. Nulla enim est differentia substantiae,
+sine qua substantia inveniri non possit; et
+nulla differentiarum ejus, sine illa potest existere.
+Quapropter quamvis omnia simul, velut unum totum,
+sub una significatione uno nomine appellentur
+homo; sic tamen principaliter hoc nomen est significativum
+et appellativum substantiae; ut cum recte
+dicatur, <hi>substantia est homo</hi>, et <hi>homo substantia</hi>,
+<pb n="0570D"/>
+nullus tamen dicat, <hi>rationalitas est homo</hi>, aut, <hi>homo
+rationalitas</hi>, sed habens rationalitatem. Grammaticus
+vero non significat hominem, et grammaticam,
+<pb n="0571A"/>
+ut unum; sed grammaticam per se, et hominem per
+aliud significat: et hoc nomen quamvis sit appellativum
+hominis, non tamen proprie dicitur ejus significativum:
+et licet sit significativum grammaticae,
+non tamen proprie est ejus appellativum.
+Appellativum autem nomen cujuslibet rei
+nunc dico, quo res ipsa usu loquendi appellatur:
+nullo enim usu loquendi dicitur: <hi>grammatica est
+grammaticus</hi>, aut, <hi>grammaticus est grammatica</hi>;
+sed, <hi>homo est grammaticus</hi>, et, <hi>grammaticus homo</hi>.
+<emph>147</emph> </p>
+      </div2>
+
+<div2>
+        <head>CAPUT XIII. <hi>De formali significatione vocis</hi>, grammaticus.</head>
+<p>DISC. Non video quid dicas, quod grammaticus
+significat grammaticam per se, et hominem per
+aliud; et quo modo grammaticae tantum significativum
+<pb n="0571B"/>
+sit. Sicut enim homo constat ex animali,
+et rationalitate, et mortalitate, et idcirco
+homo significat haec tria, ita grammaticus constat
+ex homine, et grammatica; et ideo nomen hoc significat
+utrumque. Nunquam enim dicitur grammaticus
+aut homo sine grammatica, aut grammatica
+sine homine. MAG. Si ergo ita est, ut tu dicis, diffinitio
+et esse grammatici, est homo sciens grammaticam.
+DISC. Non potest aliud esse. MAG. Ergo cum
+grammatica dividit hominem grammaticum a non
+grammatico, conduxit grammaticum ad esse, et est
+pars ejus quod est esse rei; nec potest adesse et
+abesse a grammatico, praeter subjecti corruptionem.
+DISC. Quid inde? MAG. Non est igitur grammatica
+accidens, sed substantialis differentia; et homo est
+<pb n="0571C"/>
+genus, et grammaticus species: nec dissimilis est ratio
+de albedine, et similibus accidentibus: quod falsum
+esse totius artis tractatus ostendit. DISC. Quanquam
+non possum negare quod dicis, nondum tamen mihi
+persuasum est quod grammaticus non significet
+hominem. MAG. Ponamus quod sit animal aliquod
+rationale, non tamen homo quod ita sciat grammaticam
+sicut homo. DISC. Facile est hoc fingere. MAG.
+Est igitur aliquis non homo sciens grammaticam.
+DISC. Ita consequitur. MAG. At omne sciens grammaticam,
+est grammaticum. DISC. Concedo. MAG. Est
+igitur quidam non homo grammaticus. DISC. Consequitur.
+MAG. Sed tu dicis in grammatico intelligi
+hominem. DISC. Dico. MAG. Quidam ergo non homo
+<pb n="0572A"/>
+est homo, quod falsum est. DISC. Ad hoc ratio deducitur.
+MAG. Nonne ergo vides quia grammaticus
+non ob aliud magis videtur significare hominem,
+quam albus, nisi quia grammatica soli homini
+accidit, albedo vero non soli homini? DISC. Sic
+sequitur ex eo quod finximus: sed sine figmento
+volo ut hoc efficias. MAG. Si homo est in grammatico,
+non praedicatur cum eo simul de aliquo; sicut
+animal non praedicatur cum homine, quia inest in
+homine: non enim apte dicitur quod Socrates est
+homo animal. DISC. Non potest contradici. MAG. Sed
+convenienter dicitur quod Socrates est homo grammaticus.
+DISC. Convenienter. MAG. Non est igitur
+homo in grammatico. DISC. Sic consequi video.
+MAG. Item: si grammaticus est homo sciens grammaticam,
+<pb n="0572B"/>
+ubicunque ponitur grammaticus, apte ponitur
+homo sciens grammaticam. DISC. Ita est. MAG.
+Si igitur apte dicitur, Socrates est homo grammaticus,
+apte quoque dicitur, Socrates est homo homo
+sciens grammaticam. DISC. Consequitur. MAG. Omnis
+autem homo sciens grammaticam est homo grammaticus.
+DISC. Ita est. MAG. Socrates igitur, qui
+est homo homo sciens grammaticam, est homo
+homo grammaticus: et quoniam homo grammaticus
+est homo sciens grammaticam, consequitur ut Socrates
+sit homo homo sciens grammaticam: et sic
+in infinitum. DISC. Non possum apertae consequentiae
+resistere. MAG. Item: si in grammatico
+homo intelligendus est cum grammatica, similiter
+in omnibus similibus denominativis, id quod
+<pb n="0572C"/>
+denominatur cum eo a quo denominatur. DISC.
+Hoc sentiebam. MAG. Ergo hodiernum significat
+id quod vocatur hodiernum et hodie. DISC. Quid
+postea? MAG. Hodiernum igitur significat aliquid
+cum tempore. DISC. Ita esse necesse est. MAG.
+Ergo, hodiernum non est nomen sed verbum;
+quia est vox significans tempus, nec est oratio.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV. <hi>Grammaticum esse significativum grammaticae, sive significare scientem grammaticam</hi>.</head>
+<p>DISC. Satis mihi probasti grammaticum non significare
+hominem. MAG. Vides igitur qui dixerim
+quia grammaticus non est hominis significativum.
+DISC. Video: et exspecto ut grammaticum
+<pb n="0573A"/>
+ostendas significativum esse grammaticae. MAG.
+Nonne paulo ante dicebas grammaticum significare
+hominem scientem grammaticam? DISC. Et
+credebam. MAG. Sed jam satis probatum est quia
+non significat hominem. DISC. Satis. MAG. Quid ergo
+restat? DISC. Ut non significet aliud, quam scientem
+grammaticam. MAG. Est ergo significativum
+grammaticae. DISC. Sufficienter probatum est grammaticum
+non esse appellativum grammaticae, sed
+hominis; nec esse significativum hominis, sed
+grammaticae: sed quoniam dixisti grammaticum significare
+grammaticam per se, et hominem per
+aliud, peto ut aperte mihi has duas significationes
+distinguas, ut intelligam quomodo grammaticus non
+sit significativum ejus quod aliquo modo significat;
+<pb n="0573B"/>
+aut quomodo sit appellativum ejus, cujus significativum
+non est. MAG. Si est in domo aliqua
+albus equus, te nesciente, inclusus, et alius tibi
+dicit, In hac domo est album sive albus: an scis
+per hoc ibi esse equum? DISC. Non: sive enim
+dicat album albedinem, sive in quo inest albedo,
+nullius certe rei mente concipio essentiam, nisi hujus
+coloris. MAG. Etiamsi aliquid aliud intelligis,
+quam colorem istum; illud tamen certum est,
+quia ejus in quo est ipse color, essentiam per hoc
+nomen non intelligis. DISC. Certum: nam etsi occurrat
+ animo corpus aut superficies, quod non ob
+aliud sit nisi quia expertus sum in his solere esse
+albedinem; ipsum tamen nomen albi nihil horum
+significat; sicut probatum est de grammatico:
+<pb n="0573C"/>
+sed adhuc exspecto ut ostendas quid significet.
+MAG. Quid si vides stantes juxta se invicem
+album equum, et nigrum bovem, et dicit tibi
+aliquis de equo, percute illum, non monstrans aliquo
+signo de quo dicat; an scis quod de equo
+dicat? DISC. Non. MAG. Si vero nescienti tibi, et interroganti,
+Quem? respondet, Album: intelligis
+de quo dicit? DISC. Equum intelligo per nomen
+albi. MAG. Nomen ergo albi significat tibi equum.
+DISC. Significat utique. MAG. Nonne vides quia alio
+modo, quam nomen equi? DISC. Video: nempe nomen
+equi, etiam priusquam sciam ipsum equum album
+esse, significat mihi substantiam per se et
+<pb n="0574A"/>
+non per aliud. Nomen vero albi equi substantiam
+significat non per se sed per aliud, id est, per
+hoc quod scio equum esse album; cum enim nihil
+aliud significet hoc nomen, quod est albus; quam
+haec oratio, quae est habens albedinem: sicut haec
+oratio per se constituit mihi intellectum albedinis,
+et non ejus rei quae habet albedinem; ita et nomen.
+Sed quoniam scio albedinem esse in equo, et
+hoc per aliud quam per nomen albi velut per
+visum intellecta albedine, per hoc nomen intelligo
+ equum, per hoc quod albedinem scio esse in
+equo: id est, per aliud quam per nomen albi; quo
+tamen equus appellatur.
+<emph>148</emph> </p>
+      </div2>
+
+<div2>
+        <head>CAPUT XV. <hi>Exemplo albi doctrina proposita explicatur</hi>.</head>
+
+<pb n="0574B"/>
+<p>MAG. Vides ergo quomodo albus non sit significativum
+ejus, quod aliquo modo significat, et
+quomodo sit appellativum ejus, cujus non est significativum.
+DISC. Hoc quoque video: significat enim
+equum, et non significat: quia non eum significat,
+per se, sed per aliud; et tamen equus appellatur
+albus; et quod video in albo, hoc intelligo
+in grammatico, et in similibus denominativis. Quapropter
+videtur mihi significatio nominum et verborum
+sic dividi posse; quod alia sit per se, alia per
+aliud. MAG. Considera etiam quoniam harum duarum
+significationum, illa quae per se est, ipsis vocibus
+significativis est substantialis; alia vero accidentalis.
+Cum enim diffinitione nominis vel
+verbi dicitur, quia est vox significativa; intelligendum
+<pb n="0574C"/>
+est, non alia significatione, quam ea quae per
+se est: nam si illa significatio quae est per aliud, in
+diffinitione nominis vel verbi intelligenda est; jam
+non erit, <hi>hodiernus</hi>, nomen, sed verbum; significat
+enim aliquando ea significatione aliquid cum
+tempore, sicut supra dixi, quod non est
+nominis, sed verbi.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVI. <hi>Quomodo grammaticus sit qualitas</hi>.</head>
+<p>DISC. Patet quod dicis; sed non sine scrupulo accipit
+animus grammaticum esse qualitatem, quamvis
+significet grammaticum; aut hominem solum, id
+est, sine grammatica, esse grammaticum: licet
+<pb n="0575A"/>
+probatum sit hominem simul et grammaticam non
+esse grammaticum. Unde consequitur solum hominem
+esse grammaticum; quoniam non potest esse
+grammaticus, nisi aut solus, aut cum grammatica:
+quamvis namque grammatici nomen significativum
+sit grammatica, non tamen convenienter
+respondetur interroganti, quid grammaticus
+sit; grammatica, aut, qualitas: et si nullus est
+grammaticus, nisi participando grammaticam; consequitur
+ut homo non sit grammaticus, nisi cum
+grammatica. MAG. Quod quidem dicitur quod homo,
+solus, id est, sine grammatica est grammaticus,
+quantum ad tuam quaestionem solvendam sufficit,
+duobus modis intelligi potest; uno vero, altero
+falso: homo quippe solus, id est, absque grammatica
+<pb n="0575B"/>,
+est grammaticus; quia solus est habens
+grammaticam: grammatica namque, nec sola, nec
+cum homine habet grammaticam: sed homo solus,
+id est, absque grammatica, non est grammaticus:
+quia absente grammatica nullus esse grammaticus
+potest: sicut qui praecedendo ducit alium, et
+solus est praevius; quia qui sequitur non est praevius,
+nec separatim, nec sicut ex illis duobus unus fiat
+praevius et solus non est praevius, quia nisi sit qui
+sequatur, praevius esse non potest. Cum vero
+dicitur quod grammaticus est qualitas; non recte,
+nisi secundum tractatum Aristotelis De categoriis,
+dicitur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVII. <hi>De Aristotelis sensu in tractatu De categoriis</hi>.</head>
+
+<pb n="0575C"/>
+<p>DISC. An aliud habet ille tractatus, quam <hi>omne
+quod est, aut est substantia, aut qualitas, aut quantitas</hi>,
+etc. Si ergo solus homo est grammaticus; sola
+substantia est grammaticus, quomodo ergo secundum
+illum tractatum, grammaticus magis est
+qualitas quam substantia? MAG. Etsi hoc ibi intelligatur
+quod tu dicis: quia omne quod est, aliquid
+horum est: non tamen fuit principalis intentio Aristotelis
+hoc in illo libro ostendere; sed quoniam
+omne nomen, vel verbum aliquid horum significat:
+non enim intendebat ostendere quid sint singulae
+res, nec quarum rerum sint appellativae singulae
+voces; sed quarum significativa sint. Sed quonlam
+<pb n="0575D"/>
+voces non significant nisi res; dicendo quid sit quod
+<pb n="0576A"/>
+voces significant, necesse fuit dicere quid sint res.
+Nam (ut alia taceam) sufficienter hoc quod dico,
+divisio, quam facit in principio tractatus Categoriarum,
+ostendit; non enim ait: <hi>Eorum quae sunt,
+singulum est substantia, aut quantitas</hi>, etc. Nec
+ait: Eorum quae secundum nullam complexionem
+dicuntur, singulo aut substantia appellatur, aut
+quantitas; sed ait: <hi>Eorum, quae secundum nullam
+complexionem dicuntur, singulum aut substantiam
+significat aut quantitatem</hi>. DISC. Persuadet ratio
+quod dicis. MAG. Cum ergo Aristoteles ita dicat: <hi>Eorum, quae secundum nullam complexionem dicuntur,
+singulum aut substantiam significat, aut quantitatem</hi> 
+,
+etc. De qua significatione videtur tibi dicere;
+de illa qua per se significant ipsae voces, et
+<pb n="0576B"/>
+quae illis est substantialis: an de altera quae
+per aliud est, et accidentalis? DISC. Non nisi de
+ipsa, quam idem ipse eisdem vocibus inesse, diffiniendo
+nomen et verbum, assignavit; qua per se significant.
+MAG. An putas illum aliter prosecutum in
+tractatu, quam proposuit in divisione; an aliquem
+eorum, qui eum sequentes de dialectica scripserunt,
+aliter sentire voluisse de hac re, quam sentit
+ipse? DISC. Nullo modo eorum scripta hoc aliquem
+opinari permittunt: quia nusquam invenitur
+aliquis eorum posuisse aliquam vocem, ad ostendendum
+aliquid quod significet per aliud; sed
+semper ad hoc, quod per se significat. Nullas enim
+volens monstrare substantiam, ponit album aut
+grammaticum; sed de qualitate docens, album
+<pb n="0576C"/>
+et nigrum profert, et similia.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVIII. <hi>Quod dialectici appellent voces nomine rerum quarum sunt significativae</hi>.</head>
+<p>MAG. Si ergo proposita divisione praefata, quaero a
+te quid sit grammaticus, secundum hanc divisionem:
+et secundum eos, qui illam scribendo de dialectica
+sequuntur, quid quaero: aut quid mihi respondebis?
+DISC. Procul dubio non hic potest quaeri, nisi
+aut de voce aut de re, quam significat. Quare, quia
+constat grammaticum non significare, secundum
+hanc divisionem, hominem, sed grammaticam: incunctanter
+respondebo, si quaeris de voce, quia est
+<pb n="0576D"/>
+vox significans qualitatem; si vero quaeris de re,
+<pb n="0577A"/>
+quia est qualitas. MAG. An ignoras quia idem Aristoteles
+appellat voces nomine rerum quarum sunt significativae,
+et non quarum tantum sunt appellativae,
+in eodem libro; ut cum dicit quia omnis
+substantia videtur significare hoc aliquid, id est,
+omnis vox significans substantiam; sicut nominat
+vel potius ostendit res (quod tu paulo ante meministi
+ solis vocibus earum significativis, et
+saepe non appellativis. DISC. Non hoc ignorare possum: <emph>149</emph> 
+ quare sive quaeratur de voce, sive de
+re, cum quaeritur quid sit grammaticus secundum
+Aristotelis tractatum, et secundum sequaces ejus:
+recte respondetur, qualitas: et tamen secundum
+appellationem vere est substantia. MAG. Ita est:
+non enim movere nos debet, quod dialectici aliter
+<pb n="0577B"/>
+scribunt de vocibus, secundum quod sunt significativae;
+aliter eis utuntur loquendo secundum quod
+sunt appellativae: si et grammatici aliud dicunt
+secundum formam vocum, aliud secundum rerum
+naturam. Dicunt quippe lapidem esse masculini
+generis, petram feminini, mancipium autem neutri;
+timere activum, timeri vero passivum: cum
+nemo dicat lapidem esse masculam, aut petram
+feminam, an mancipium nec masculam nec feminam;
+aut timere facere; timeri autem pati.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIX. <hi>Utrum grammaticus, cum designet habentem qualitatem, spectet ad categoriam, habere</hi>.</head>
+<p>DISC. Aperta ratio nihil me in his quae dixisti dubitare
+permittit: sed adhuc est de hac quaestione
+<pb n="0577C"/>
+quod velim discere. Nam, si grammaticus est
+qualitas, quia significat qualitatem, non video cur
+armatus non sit substantia, cum significet substantiam:
+et sic armatus ideo est habere, quia significat
+habere, ignoro cur grammaticus non sit habere,
+cum significet habere. Omnino enim quemadmodum
+grammaticus probatur significare qualitatem, quia
+significat habentem qualitatem; ita armatus significat
+substantiam, quia significat habentem substantiam,
+id est arma: et sicut armatus convincitur
+<pb n="0578A"/>
+significare habere, quia significat habentem arma,
+sic grammaticus significat habere, quia significat
+habentem disciplinam. MAG. Nullatenus hac ratione
+considerata, negare possum aut armatum esse
+substantiam aut grammaticum habere. DISC. Vellem
+ergo a te doceri utrum unum aliquid possit esse
+diversorum praedicamentorum. MAG. Rem quidem
+unam et eamdem non puto sub diversis aptari posse
+ praedicamentis licet in quibusdam dubitari possit:
+quod majori et altiori disputatione indigere
+existimo, quam hac brevi nostra sermocinatione
+assumpsimus. Unam autem vocem plura significantem
+non ut unum, non video quid prohibeat pluribus
+aliquando supponi praedicamentis: ut si albus
+dicitur qualitas, et habere. Albus enim non ita
+<pb n="0578B"/>
+significat qualitatem, et habere, ut unum; quemadmodum
+ homo significat ut unum substantiam
+et qualitates, quibus constat homo. Res enim, quae
+appellatur homo, est unum quiddam constans
+ex his quae dixi; res vero quae appellatur, albus, non
+est unum aliquid ex habere et qualitate constans;
+quia nihil appellatur albus, nisi res quae
+habet albedinem: quae nequaquam constat ex habere
+et qualitate. Quare si dicitur homo est substantia,
+et homo est qualitas, una et eadem res, quae
+significatur et appellatur hoc nomine, dicitur substantia
+et qualitas esse: quod videtur inconveniens.
+Cum autem dicimus quia albus est qualitas et
+habere non dicimus quia quod appellatur hoc
+nomine, qualitas est et habere, sed quia haec duo
+<pb n="0578C"/>
+significantur hoc nomine: et nullum inconveniens
+sequitur. DISC. Cur autem non est homo, secundum
+divisionem Aristotelis, substantia et qualitas, quia
+utrumque significat: quemadmodum est albus qualitas
+ et habere, propter utriusque significationem?
+MAG. Aestimo huic interrogationi illud posse
+sufficere quod supra dixi, quia est principaliter
+significativum substantiae, et quia illud unum,
+quod significat, substantia est; et non qualitas, sed
+quale: albus vero nihil principalius, sed pariter significat
+<pb n="0579A"/>
+qualitatem et habere; nec fit unum ex his,
+quod magis sit hoc, vel illud, cujus sit albus significativum
+.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XX. <hi>Quomodo ex significatis vocis</hi>, albus, <hi>non exsurgat unum</hi>.</head>
+<p>DISC. Planius mihi vellem explicari quomodo non
+fiat unum aliquid ex his quae significat albus.
+MAG. Si aliquid constat ex eis aut est substantia,
+aut aliquid aliorum praedicamentorum. DISC.
+Aliud esse non potest. MAG. Sed nihil horum fit ex
+habere et albedine. DISC. Non possum contradicere.
+MAG. Item unum non fit ex pluribus, nisi aut
+compositione partium, quae sunt ejusdem praedicamenti
+ut animal constat ex corpore et anima; aut
+<pb n="0579B"/>
+convenientia generis et differentiae unius, vel plurium
+ut corpus et homo: aut specie, et proprietatum collectione
+ut Plato. Illa vero, quae albus significat,
+non sunt unius praedicamenti, nec est alterum
+alteri genus, aut differentia, aut species, aut collectio
+proprietatum; nec sunt differentiae unius generis,
+sed sunt accidentia ejusdem subjecti: quod tamen
+subjectum, albus non significat; quia omnino
+nihil significat aliud quam habere et qualitatem.
+Quare non fit unum ex his, quae albus
+significat. DISC. Quanquam ratio mihi asserere videatur
+quae dicis vellem tamen audire quid
+responderes, si quis, ad hoc, quod dicis quia nihil
+omnino albus significat aliud quam habere et
+qualitatem, sic objiceret: Albus, cum sit idem
+<pb n="0579C"/>
+quod habens albedinem, non significat determinate
+hoc vel illud habens, velut corpus; sed indeterminate
+aliquid habens albedinem. Albus enim, aut est
+qui habet albedinem, aut qui non habet; sed qui
+non habet albedinem, non est albus; albus igitur
+est, qui habet albedinem. Quare quoniam omnis
+qui habet albedinem, nonnisi aliquid est, necesse
+est ut albus sit aliquid quod habet albedinem,
+aut aliquid habens albedinem. Denique albus aut
+significat aliquid habens albedinem, aut nihil: sed
+nihil non potest intelligi habens albedinem; necesse
+est ergo ut albus significet aliquid habens albedinem.
+<pb n="0580A"/>
+        </p>
+</div2>
+
+<div2>
+        <head>CAPUT XXI. <hi>Quod albus non significet aliquid habens albedinem; sed duntaxat significet habens albedinem</hi>.</head>
+<p>MAG. Non agitur utrum omnis, qui est albus,
+sit aliquid; aut sit, qui habet: sed utrum hoc
+nomen sua significatione contineat id quod dicitur
+aliquid, aut qui habet sicut homo continet animal:
+ut quomodo homo est animal rationale mortale;
+ita albus sit aliquid habens albedinem aut qui
+habet albedinem: multa namque necesse est rem
+quamlibet esse, quae tamen rei ejusdem nomine non
+significantur. Nam, omne animal necesse est coloratum
+esse, et rationale, aut irrationale; nomen
+tamen animalis nihil horum significat: quare licet
+albus non sit nisi aliquid habens, aut qui habet
+<pb n="0580B"/>
+albedinem; non tamen necesse est ut albus significet
+hoc. Ponamus enim quod album, sive albus,
+significet aliquid habens albedinem: sed aliquid
+habens albedinem non est aliud, quam aliquid album.
+DISC. Non potest aliud esse. MAG. Albus igitur,
+sive album, semper significat aliquid album.
+DISC. Ita sit. MAG. Ubi igitur ponitur albus, vel album,
+recte semper accipitur pro albo aliquid
+album. DISC. Consequitur. MAG. Ergo ubi dicitur
+aliquid album; recte quoque dicitur bis, aliquid album:
+et ubi bis; <emph>150</emph> ibi et ter: et hoc infinite.
+DISC. Consequens et absurdum est hoc. MAG.
+Sit quoque albus, id ipsum quod est qui albedinem
+habet: sed habet, non est aliud quam habens
+est. DISC. Nec potest esse. MAG. Albus ergo non
+<pb n="0580C"/>
+est aliud quam qui albedinem habens est. DISC. Non
+aliud. MAG. Cum autem dicitur albedinem habens
+non aliud significat haec oratio quam album. DISC.
+Ita est. MAG. Idem est igitur albus, quod qui albus
+est. DISC. Sic sequitur. MAG. Ubicunque itaque ponitur
+albus, recte pro eo accipitur qui albus est.
+DISC. Non possum negare. MAG. Si ergo albus est,
+qui albus est; est etiam qui qui albus est, est: et
+si hoc, est, est etiam qui qui qui albus est, est, est;
+et sic in infinitum. DISC. Non hoc minus consequens,
+nec minus absurdum est quam ut saepe
+sit aliquid aliquid. MAG. Si quis autem dicit quia
+albus aut significat aliquid habens albedinem, aut
+nihil: si sic intelligitur, ac si diceretur: Albus aut
+<pb n="0581A"/>
+significat aliquid habens, aut significat non aliquid
+habens; ut non aliquid sit infinitum nomen; non
+est integra, nec vera divisio; et ideo nihil probat:
+veluti si quis diceret: Caecus aut videt aliquid,
+aut videt non aliquid. Si vero sic intelligitur quia
+aut significat aliquid habens, aut non significat:
+integra est divisio, et vera; nec repugnat iis quae
+dicta sunt. DISC. Satis apparet quia per album non
+significatur aliquid habens albedinem, nec qui habet
+albedinem; sed tantum habens albedinem: id
+est qualitas et habere; ex quibus solis non conficitur
+unum aliquid: et ideo albus est utrumque, quia
+pariter utrumque significat. Quam rationem in
+<pb n="0582A"/>
+omnibus, quae sine complexione dicuntur, et similiter
+significant quamlibet plura ex quibus non
+fit unum, valere video: nec aliquid his, quae in hac
+disputatione asseruisti, objici recte posse existimo.
+MAG. Nec mihi nunc videtur: tamen quoniam
+scis quantum nostris temporibus dialectici certent
+de quaestione a te proposita; nolo te sic
+his, quae diximus, inhaerere ut ea pertinaciter teneas;
+si quis validioribus argumentis haec destruere
+et diversa valuerit astruere: quod si contigerit
+ saltem ad exercitationem disputandi nobis
+haec profecisse non negabis.
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>
