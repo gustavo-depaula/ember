@@ -1,0 +1,135 @@
+{
+  "id": "augustine-sermones-latini-13",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermones 360/A–(Erfurt 6 = Sermo 313/G)",
+    "en-US": "Sermons 360/A–(Erfurt 6 = Sermo 313/G) (Latin)",
+    "pt-BR": "Sermões 360/A–(Erfurt 6 = Sermo 313/G) (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermones Augustini 360/A–(Erfurt 6 = Sermo 313/G), quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "15 of Augustine's sermons (360/A to (Erfurt 6 = Sermo 313/G)), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the sermons not in the English NPNF book; no English translation imported.",
+    "pt-BR": "15 sermões de Santo Agostinho (360/A a (Erfurt 6 = Sermo 313/G)), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermones",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorsi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorsi of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo 360/A"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo 360/B"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Sermo 198 (aucta)"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Sermo 360/C"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Sermo 20/B"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Sermo 348/A (aucta)"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Sermo 272/B (aucta)"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Sermo 204/A"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Sermo 218 (aucta)"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Sermo (Erfurt 1 = Serm. 282 (aucta))"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Sermo ("
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Sermo (Erfurt 3 = Sermo 350/E)"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Sermo (Erfurt 4 = Sermo 350/F)"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Sermo (Erfurt 5 = Sermo 362/A)"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Sermo (Erfurt 6 = Sermo 313/G)"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
