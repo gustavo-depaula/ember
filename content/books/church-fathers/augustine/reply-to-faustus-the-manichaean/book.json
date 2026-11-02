@@ -2,15 +2,26 @@
   "id": "augustine-reply-to-faustus-the-manichaean",
   "cover": "quarter",
   "name": {
+    "la": "Contra Faustum Manichaeum",
     "en-US": "Reply to Faustus the Manichaean"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo"
   },
   "languages": [
+    "la",
     "en-US"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/contro_fausto/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages contro_fausto of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1406.htm",
@@ -21,203 +32,248 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Liber I",
         "en-US": "Book 1"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "Liber II",
         "en-US": "Book 2"
       }
     },
     {
       "id": "ch003",
       "title": {
+        "la": "Liber III",
         "en-US": "Book 3"
       }
     },
     {
       "id": "ch004",
       "title": {
+        "la": "Liber IV",
         "en-US": "Book 4"
       }
     },
     {
       "id": "ch005",
       "title": {
+        "la": "Liber V",
         "en-US": "Book 5"
       }
     },
     {
       "id": "ch006",
       "title": {
+        "la": "Liber VI",
         "en-US": "Book 6"
       }
     },
     {
       "id": "ch007",
       "title": {
+        "la": "Liber VII",
         "en-US": "Book 7"
       }
     },
     {
       "id": "ch008",
       "title": {
+        "la": "Liber VIII",
         "en-US": "Book 8"
       }
     },
     {
       "id": "ch009",
       "title": {
+        "la": "Liber IX",
         "en-US": "Book 9"
       }
     },
     {
       "id": "ch010",
       "title": {
+        "la": "Liber X",
         "en-US": "Book 10"
       }
     },
     {
       "id": "ch011",
       "title": {
+        "la": "Liber XI",
         "en-US": "Book 11"
       }
     },
     {
       "id": "ch012",
       "title": {
+        "la": "Liber XII",
         "en-US": "Book 12"
       }
     },
     {
       "id": "ch013",
       "title": {
+        "la": "Liber XIII",
         "en-US": "Book 13"
       }
     },
     {
       "id": "ch014",
       "title": {
+        "la": "Liber XIV",
         "en-US": "Book 14"
       }
     },
     {
       "id": "ch015",
       "title": {
+        "la": "Liber XV",
         "en-US": "Book 15"
       }
     },
     {
       "id": "ch016",
       "title": {
+        "la": "Liber XVI",
         "en-US": "Book 16"
       }
     },
     {
       "id": "ch017",
       "title": {
+        "la": "Liber XVII",
         "en-US": "Book 17"
       }
     },
     {
       "id": "ch018",
       "title": {
+        "la": "Liber XVIII",
         "en-US": "Book 18"
       }
     },
     {
       "id": "ch019",
       "title": {
+        "la": "Liber XIX",
         "en-US": "Book 19"
       }
     },
     {
       "id": "ch020",
       "title": {
+        "la": "Liber XX",
         "en-US": "Book 20"
       }
     },
     {
       "id": "ch021",
       "title": {
+        "la": "Liber XXI",
         "en-US": "Book 21"
       }
     },
     {
       "id": "ch022",
       "title": {
+        "la": "Liber XXII",
         "en-US": "Book 22"
       }
     },
     {
       "id": "ch023",
       "title": {
+        "la": "Liber XXIII",
         "en-US": "Book 23"
       }
     },
     {
       "id": "ch024",
       "title": {
+        "la": "Liber XXIV",
         "en-US": "Book 24"
       }
     },
     {
       "id": "ch025",
       "title": {
+        "la": "Liber XXV",
         "en-US": "Book 25"
       }
     },
     {
       "id": "ch026",
       "title": {
+        "la": "Liber XXVI",
         "en-US": "Book 26"
       }
     },
     {
       "id": "ch027",
       "title": {
+        "la": "Liber XXVII",
         "en-US": "Book 27"
       }
     },
     {
       "id": "ch028",
       "title": {
+        "la": "Liber XXVIII",
         "en-US": "Book 28"
       }
     },
     {
       "id": "ch029",
       "title": {
+        "la": "Liber XXIX",
         "en-US": "Book 29"
       }
     },
     {
       "id": "ch030",
       "title": {
+        "la": "Liber XXX",
         "en-US": "Book 30"
       }
     },
     {
       "id": "ch031",
       "title": {
+        "la": "Liber XXXI",
         "en-US": "Book 31"
       }
     },
     {
       "id": "ch032",
       "title": {
+        "la": "Liber XXXII",
         "en-US": "Book 32"
       }
     },
     {
       "id": "ch033",
       "title": {
+        "la": "Liber XXXIII",
         "en-US": "Book 33"
       }
     }
   ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/contra-faustum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "Richard Stothert",
+      "year": 1887
+    }
   }
 }
