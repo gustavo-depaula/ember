@@ -1,0 +1,234 @@
+{
+  "id": "fenelon-lettres-spirituelles",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres spirituelles",
+    "en-US": "Spiritual Letters",
+    "pt-BR": "Cartas espirituais"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les lettres de direction de Fénelon, telles que les range l’édition Saint-Sulpice (section « Lettres spirituelles » de la Correspondance) : à l’électeur de Cologne, à Mme de Maintenon, à des religieuses, à des personnes du monde, à la comtesse de Montberon et à d’autres. Texte de l’édition de 1851 (en français) ; la sélection anglaise de Lear est un livre à part.",
+    "en-US": "Fénelon’s letters of spiritual direction as the Saint-Sulpice edition arranges them (the “Lettres spirituelles” section of the Correspondence): to the Elector of Cologne, to Mme de Maintenon, to nuns, to people of the world, to the Countess of Montberon and others. The text is the 1851 edition in French; Lear’s English selection is a separate book.",
+    "pt-BR": "As cartas de direção de Fénelon, na ordem da edição de Saint-Sulpice (seção «Lettres spirituelles» da Correspondência): ao eleitor de Colônia, à sra. de Maintenon, a religiosas, a pessoas do mundo, à condessa de Montberon e a outros."
+  },
+  "composed": "1685–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-spirituelles",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte08fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 8, p. 439–720; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). Many letter headings and numerals are lost in the OCR, so the letters are grouped by addressee in parts of about 7,500 words; the letter numbers in the ## subheads are ours.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettres-01",
+      "title": {
+        "fr-FR": "Lettres spirituelles : préambule"
+      }
+    },
+    {
+      "id": "lettres-02",
+      "title": {
+        "fr-FR": "À un Supérieur de Communauté"
+      }
+    },
+    {
+      "id": "lettres-03",
+      "title": {
+        "fr-FR": "À la Sœur Charlotte de S’-Cyprien"
+      }
+    },
+    {
+      "id": "lettres-04",
+      "title": {
+        "fr-FR": "À la même (destinataire illisible) et autres"
+      }
+    },
+    {
+      "id": "lettres-05",
+      "title": {
+        "fr-FR": "À la Mère Marie de L’Ascension et autres"
+      }
+    },
+    {
+      "id": "lettres-06",
+      "title": {
+        "fr-FR": "À la Soeur Céleste-Françoise"
+      }
+    },
+    {
+      "id": "lettres-07",
+      "title": {
+        "fr-FR": "À Diverses Personnes du Monde, Oui Commençoient a Mener, partie 1"
+      }
+    },
+    {
+      "id": "lettres-08",
+      "title": {
+        "fr-FR": "À Diverses Personnes du Monde, Oui Commençoient a Mener, partie 2"
+      }
+    },
+    {
+      "id": "lettres-09",
+      "title": {
+        "fr-FR": "À Madame de Maintenon, partie 1"
+      }
+    },
+    {
+      "id": "lettres-10",
+      "title": {
+        "fr-FR": "À Madame de Maintenon, partie 2"
+      }
+    },
+    {
+      "id": "lettres-11",
+      "title": {
+        "fr-FR": "À Madame de Maintenon, partie 3"
+      }
+    },
+    {
+      "id": "lettres-12",
+      "title": {
+        "fr-FR": "À Un ami et autres"
+      }
+    },
+    {
+      "id": "lettres-13",
+      "title": {
+        "fr-FR": "À un Seigneur de la Cour et autres"
+      }
+    },
+    {
+      "id": "lettres-14",
+      "title": {
+        "fr-FR": "À une Demoiselle"
+      }
+    },
+    {
+      "id": "lettres-15",
+      "title": {
+        "fr-FR": "À Diverses Personnes de Piété, partie 1"
+      }
+    },
+    {
+      "id": "lettres-16",
+      "title": {
+        "fr-FR": "À Diverses Personnes de Piété, partie 2"
+      }
+    },
+    {
+      "id": "lettres-17",
+      "title": {
+        "fr-FR": "À Diverses Personnes de Piété, partie 3"
+      }
+    },
+    {
+      "id": "lettres-18",
+      "title": {
+        "fr-FR": "À Diverses Personnes de Piété, partie 4"
+      }
+    },
+    {
+      "id": "lettres-19",
+      "title": {
+        "fr-FR": "À Diverses Personnes de Piété, partie 5"
+      }
+    },
+    {
+      "id": "lettres-20",
+      "title": {
+        "fr-FR": "À Diverses Personnes de Piété, partie 6"
+      }
+    },
+    {
+      "id": "lettres-21",
+      "title": {
+        "fr-FR": "À la même (destinataire illisible), partie 1"
+      }
+    },
+    {
+      "id": "lettres-22",
+      "title": {
+        "fr-FR": "À la même (destinataire illisible), partie 2"
+      }
+    },
+    {
+      "id": "lettres-23",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 1"
+      }
+    },
+    {
+      "id": "lettres-24",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 2"
+      }
+    },
+    {
+      "id": "lettres-25",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 3"
+      }
+    },
+    {
+      "id": "lettres-26",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 4"
+      }
+    },
+    {
+      "id": "lettres-27",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 5"
+      }
+    },
+    {
+      "id": "lettres-28",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 6"
+      }
+    },
+    {
+      "id": "lettres-29",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 7"
+      }
+    },
+    {
+      "id": "lettres-30",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 8"
+      }
+    },
+    {
+      "id": "lettres-31",
+      "title": {
+        "fr-FR": "À la Comtesse de Montberon, partie 9"
+      }
+    },
+    {
+      "id": "lettres-32",
+      "title": {
+        "fr-FR": "À la Marquise de Risbourg"
+      }
+    }
+  ]
+}
