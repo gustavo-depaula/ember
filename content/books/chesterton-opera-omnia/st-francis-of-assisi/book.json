@@ -1,0 +1,99 @@
+{
+  "id": "chesterton-st-francis-of-assisi",
+  "cover": "classic",
+  "name": {
+    "en-US": "St. Francis of Assisi",
+    "pt-BR": "São Francisco de Assis"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's biography of the Poverello, written, in his own phrase, neither as secular history nor as a collection of pious tales but as the story of a man who was a troubadour of God. Ten chapters follow Francis from the merchant's house to the Testament, set against the medieval world he found and changed. Thomas Aquinas's own admirers often call it the best short life of the saint.",
+    "pt-BR": "A biografia do Poverello escrita por Chesterton, não como história secular nem como coletânea de relatos piedosos, mas como a história de um homem que foi o jogral de Deus. Dez capítulos acompanham Francisco da casa do mercador ao Testamento, diante do mundo medieval que ele encontrou e transformou."
+  },
+  "composed": "1923",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/st-francis-of-assisi",
+  "editions": {
+    "en-US": {
+      "publisher": "Hodder & Stoughton, London (People's Library)",
+      "year": 1923
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/63084",
+      "edition": "St. Francis of Assisi (London: Hodder & Stoughton, 1923), Project Gutenberg #63084, with obvious printer errors corrected and hyphenation regularised by the transcriber.",
+      "description": "Ten chapters; Gutenberg front matter, contents, the publisher's list and general preface dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: published 1923 (US public domain) and Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-problem-of-st-francis",
+      "title": {
+        "en-US": "I. The Problem of St. Francis"
+      }
+    },
+    {
+      "id": "ch02-the-world-st-francis-found",
+      "title": {
+        "en-US": "II. The World St. Francis Found"
+      }
+    },
+    {
+      "id": "ch03-francis-the-fighter",
+      "title": {
+        "en-US": "III. Francis the Fighter"
+      }
+    },
+    {
+      "id": "ch04-francis-the-builder",
+      "title": {
+        "en-US": "IV. Francis the Builder"
+      }
+    },
+    {
+      "id": "ch05-le-jongleur-de-dieu",
+      "title": {
+        "en-US": "V. Le Jongleur de Dieu"
+      }
+    },
+    {
+      "id": "ch06-the-little-poor-man",
+      "title": {
+        "en-US": "VI. The Little Poor Man"
+      }
+    },
+    {
+      "id": "ch07-the-three-orders",
+      "title": {
+        "en-US": "VII. The Three Orders"
+      }
+    },
+    {
+      "id": "ch08-the-mirror-of-christ",
+      "title": {
+        "en-US": "VIII. The Mirror of Christ"
+      }
+    },
+    {
+      "id": "ch09-miracles-and-death",
+      "title": {
+        "en-US": "IX. Miracles and Death"
+      }
+    },
+    {
+      "id": "ch10-the-testament-of-st-francis",
+      "title": {
+        "en-US": "X. The Testament of St. Francis"
+      }
+    }
+  ]
+}
