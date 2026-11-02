@@ -1,0 +1,75 @@
+{
+  "id": "chesterton-club-of-queer-trades",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Club of Queer Trades",
+    "pt-BR": "O Clube dos Ofícios Estranhos"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Six linked stories about a club whose members all earn their living by a trade of their own invention, and the baffled narrators and the retired judge, Basil Grant, who stumble on them. Chesterton's light romance of ingenious absurdity, in the vein of Father Brown's world before the priest.",
+    "pt-BR": "Seis histórias ligadas sobre um clube cujos membros vivem de ofícios de sua própria invenção, e sobre os narradores desconcertados e o juiz aposentado Basil Grant que tropeçam neles. O leve romance de Chesterton de absurdo engenhoso, no ar do mundo do Padre Brown antes do padre."
+  },
+  "composed": "1905",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/club-of-queer-trades",
+  "editions": {
+    "en-US": {
+      "editor": "Harper & Brothers",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1696",
+      "edition": "The Club of Queer Trades (Harper & Brothers, 1905), Project Gutenberg #1696.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1905 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-tremendous-adventures-of-major-brown",
+      "title": {
+        "en-US": "The Tremendous Adventures of Major Brown"
+      }
+    },
+    {
+      "id": "ch02-the-painful-fall-of-a-great-reputation",
+      "title": {
+        "en-US": "The Painful Fall of a Great Reputation"
+      }
+    },
+    {
+      "id": "ch03-the-awful-reason-of-the-vicar-s",
+      "title": {
+        "en-US": "The Awful Reason of the Vicar's Visit"
+      }
+    },
+    {
+      "id": "ch04-the-singular-speculation-of-the-house-agent",
+      "title": {
+        "en-US": "The Singular Speculation of the House-Agent"
+      }
+    },
+    {
+      "id": "ch05-the-noticeable-conduct-of-professor-chadd",
+      "title": {
+        "en-US": "The Noticeable Conduct of Professor Chadd"
+      }
+    },
+    {
+      "id": "ch06-the-eccentric-seclusion-of-the-old-lady",
+      "title": {
+        "en-US": "The Eccentric Seclusion of the Old Lady"
+      }
+    }
+  ]
+}
