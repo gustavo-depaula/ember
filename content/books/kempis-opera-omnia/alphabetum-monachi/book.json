@@ -1,0 +1,48 @@
+{
+  "id": "kempis-alphabetum-monachi",
+  "cover": "classic",
+  "name": {
+    "la": "Parvum alphabetum monachi in schola Dei",
+    "en-US": "The Little Alphabet of the Monk in the School of God",
+    "pt-BR": "O pequeno alfabeto do monge na escola de Deus"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Parvum alphabetum monachi in schola Dei: dialogus inter discipulum et magistrum, regulae vitae spiritualis secundum ordinem litterarum, cum benedictione.",
+    "en-US": "A short dialogue between disciple and master: the rules of the spiritual life set out in alphabetical order, love of obscurity, kindness, guarding the heart, solitude, poverty, and the blessing at the end. Latin only: Pohl's critical edition (Freiburg 1904), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Breve diálogo entre discípulo e mestre: as regras da vida espiritual em ordem alfabética, o amor da obscuridade, a benevolência, a guarda do coração, a solidão, a pobreza, e a bênção final."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/alphabetum-monachi",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0002thom",
+      "edition": "Thomae Hemerken a Kempis Parvum alphabetum monachi, ed. M. J. Pohl (Freiburg: Herder 1904), Opera omnia III; archive.org raw OCR.",
+      "description": "One chapter; the rules are set as separate paragraphs. Line numbers, running heads and page breaks stripped by script; Pohl's critical apparatus and introduction not imported. Raw OCR: drop capitals garbled and some slips remain after the scripted lexicon repair.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1904; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "alphabetum",
+      "title": {
+        "la": "Parvum alphabetum monachi in schola Dei"
+      }
+    }
+  ]
+}
