@@ -1,0 +1,222 @@
+{
+  "id": "eudes-opuscules-sacres-coeurs",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Opuscules sur les Sacrés Cœurs",
+    "en-US": "Opuscules on the Sacred Hearts",
+    "pt-BR": "Opúsculos sobre os Sagrados Corações"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Les petits ouvrages de Jean Eudes sur les Sacrés Cœurs de Jésus et de Marie : la dévotion au Cœur de Marie et ses offices, la Confrérie du Cœur de Jésus et de Marie, le Manuel des Écoliers de Lisieux et le Règlement de la Société du Cœur de la Mère admirable.",
+    "en-US": "John Eudes’s shorter works on the Sacred Hearts of Jesus and Mary: the devotion to the Heart of Mary and its offices, the Confraternity of the Heart of Jesus and Mary, the Manual of the Scholars of Lisieux and the Rule of the Society of the Heart of the Admirable Mother.",
+    "pt-BR": "Os pequenos escritos de João Eudes sobre os Sagrados Corações de Jesus e de Maria: a devoção ao Coração de Maria e seus ofícios, a Confraria do Coração de Jesus e de Maria, o Manual dos Escolares de Lisieux e o Regulamento da Sociedade do Coração da Mãe admirável."
+  },
+  "composed": "1650–1672",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/opuscules-sacres-coeurs",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_8)_000000353.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 8, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "op-01",
+      "title": {
+        "fr-FR": "Introduction (1)"
+      }
+    },
+    {
+      "id": "op-02",
+      "title": {
+        "fr-FR": "Introduction (2)"
+      }
+    },
+    {
+      "id": "op-03",
+      "title": {
+        "fr-FR": "Première partie (1): L'Origine et le Fondement de cette Dévotion 1"
+      }
+    },
+    {
+      "id": "op-04",
+      "title": {
+        "fr-FR": "Première partie (2): Le nom de cœur est employé, dans les saintes Écritures,"
+      }
+    },
+    {
+      "id": "op-05",
+      "title": {
+        "fr-FR": "Première partie (3): Jacob. I, 2"
+      }
+    },
+    {
+      "id": "op-06",
+      "title": {
+        "fr-FR": "Deuxième partie (1): Avis sur cette Dévotion"
+      }
+    },
+    {
+      "id": "op-07",
+      "title": {
+        "fr-FR": "Troisième partie (1): Salutation au très saint cœur"
+      }
+    },
+    {
+      "id": "op-08",
+      "title": {
+        "fr-FR": "Troisième partie (2): D'une autre salutation à la très sainte vierge marie"
+      }
+    },
+    {
+      "id": "op-09",
+      "title": {
+        "fr-FR": "Introduction (3): Blouet de than"
+      }
+    },
+    {
+      "id": "op-10",
+      "title": {
+        "fr-FR": "Introduction (4): Plusieurs autres raisons"
+      }
+    },
+    {
+      "id": "op-11",
+      "title": {
+        "fr-FR": "Introduction (5): La même Salutation en français"
+      }
+    },
+    {
+      "id": "op-12",
+      "title": {
+        "fr-FR": "Introduction (6)"
+      }
+    },
+    {
+      "id": "op-13",
+      "title": {
+        "fr-FR": "Première partie (4): Bulle"
+      }
+    },
+    {
+      "id": "op-14",
+      "title": {
+        "fr-FR": "Première partie (5): Dispositions"
+      }
+    },
+    {
+      "id": "op-15",
+      "title": {
+        "fr-FR": "Deuxième partie (2): Exercices de piété"
+      }
+    },
+    {
+      "id": "op-16",
+      "title": {
+        "fr-FR": "Troisième partie (3): Briève instruction sur l'excellence du cœur sacré"
+      }
+    },
+    {
+      "id": "op2-01",
+      "title": {
+        "fr-FR": "Manuel des Écoliers de Lisieux: À jésus et marie"
+      }
+    },
+    {
+      "id": "op2-02",
+      "title": {
+        "fr-FR": "Introduction (1): Manuel de la congrégation"
+      }
+    },
+    {
+      "id": "op2-03",
+      "title": {
+        "fr-FR": "Introduction (2): XIX. --RÈGLES DE LA CONGRÉGATiON DE LA GLORIEUSE VIERGE"
+      }
+    },
+    {
+      "id": "op2-04",
+      "title": {
+        "fr-FR": "Introduction (3): I. --nature et organisation de la société"
+      }
+    },
+    {
+      "id": "op2-05",
+      "title": {
+        "fr-FR": "Introduction (4): Livres des Vierges et des pieuses Veuves, p. 5"
+      }
+    },
+    {
+      "id": "op2-06",
+      "title": {
+        "fr-FR": "Introduction (5): Approbations et Indulgences"
+      }
+    },
+    {
+      "id": "op2-07",
+      "title": {
+        "fr-FR": "Introduction (6): Le règlement et les manuels"
+      }
+    },
+    {
+      "id": "op3-01",
+      "title": {
+        "fr-FR": "Règlement de la Société: Règlement de la société du très saint cœur"
+      }
+    },
+    {
+      "id": "op3-02",
+      "title": {
+        "fr-FR": "Première partie (1): Règles de la société"
+      }
+    },
+    {
+      "id": "op3-03",
+      "title": {
+        "fr-FR": "Première partie (2)"
+      }
+    },
+    {
+      "id": "op3-04",
+      "title": {
+        "fr-FR": "Première partie (3): On trouvera dans la seconde partie, ch. 1, § 6, une prière composée"
+      }
+    },
+    {
+      "id": "op3-05",
+      "title": {
+        "fr-FR": "Seconde partie (1): Pratique de la dévOtion au Sacré Cœur de Jésus"
+      }
+    },
+    {
+      "id": "op3-06",
+      "title": {
+        "fr-FR": "Seconde partie (2): Litanies"
+      }
+    },
+    {
+      "id": "op3-07",
+      "title": {
+        "fr-FR": "Seconde partie (3): Bénédictions"
+      }
+    }
+  ]
+}
