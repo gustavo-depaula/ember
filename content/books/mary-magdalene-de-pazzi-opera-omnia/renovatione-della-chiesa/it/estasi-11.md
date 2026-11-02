@@ -1,0 +1,23 @@
+# Lettera 11 dettata in estasi
+
+All'Il.mo Cardinale Padre suo R.mo *[Alessandro de' Medici]*
+
+La inutile serva de servi di JESU CHRISTO e a lui charissima figliuola, in desiderio e in opera obedientissima, sforzata dall'antica Verità, da tutti gli Spiriti beati, da tutti e giusti e, per dir così, dal cielo e dalla terra, e se m'è lecito dire insin dall'inferno, a ricordargli, incitarlo e invitarlo a voler venire ad intendere il tanto importante, grato e utile voler di Dio. Et se quella mi dicessi: che importa a tanto vil creatura la venuta sua, che ne ha tanto ansioso desiderio? Gli dico che l'ansioso desiderio lo dà Dio e esso Dio lo muove; e quel che mi sforza a havere esso ansioso desiderio e cercare che non metta tanto tempo in mezzo alla venuta sua, sono le tante anime e quasi infinite che veggo stanno in continuo pericolo della propria salute, le quale se ben non può per hora in tutto liberarle, deve non dimeno voler cominciare in qualche parte a rilevarle da esso pericolo. Et se havessi negotio o opera che a lui paressi di maggiore importanza che questa, gli dico che questa è la maggiore opera che possa mai fare creatura in terra. E se esso ancora non lo penetra, lo prego per quel Sangue sparso con tanto fuoco d'amore, vogli venire a intenderlo da chi un poco, poco di spiraglio ne ha, che in qualche parte glielo farà noto. Dico vogli venire a intendere il voler di Dio, e ancora cercare di vedere se tale è il voler di Dio.
+
+Dhe non vogli guardare alla fatica e scomodo del corpo, ma ricordisi che chi ama sé in questa vita, perde la vita eterna. *Qui amat animam suam perdet eam, et qui odit animam suam in hoc mundo, in vitam eternam custodit eam* (Jo. 12,25). Et non risguardi alla viltà e bassezza di chi gli proferisce tal parole, ma affissi l'occhio e ponga la mira a chi gnene fa dire; e se dubita di chi gnene fa dire, venga, venga a chiarirsi della verità, né voglia più turare gli orecchi alla voce e esclamatione della verità, acciò che quello che la bontà di Dio gli ha dato per singular dono in haverlo eletto a cotal opera, non se gli converta in ira e furore, perché guai, guai a chi Dio volta le spalle sua. Et esso che tanto familiarmente e, per dir così, gustevolmente tratta con le mane sua esso Dio Verbo incarnato, e può darlo e privarne le creature, non vogli di tal familiarità rendere ingratitudine con ritirarsi indreto da mettere in esecutione il voler di Dio, che è di fare che l'anime si riduchino a lui.
+
+Non vogli piglire a prosuntione o leggerità tali parole, ma sì bene le pigli come sforzata a dirle dalla Verità, che così in vero è. Et gli replico che se non crede sia così, e teme o dubita che sia inganno, venga a chiarirsi, non volendo più sopportare che un' anima a lui suggetta stia in tal pericolo, ma come amorevol padre far l'ufitio suo venendo a liberare una sua figliuola da tale inganno.
+
+Insino a hora ci sono state di molte illuminatione, che veramente non le posso chiamare altrimenti, le quale hora non gliele fo note, riserbandole alla venuta sua; alla qual venuta spesso sono stata da Dio sforzata a incitarlo e invitarlo, ma non m'è stato permesso, da chi sono obligata a obedire, che lo metta in esecutione. Ma hora di nuovo son costretta a farlo, sendo sforzata dal Sangue dello svenato Agnello, Christo crocifisso, proferendo queste breve parole familiarmente, con pigliare di vostra Signoria Ill.ma quella sicurtà sì come una figliuola del suo amorevol padre, non volendo più come serva temerlo ma come amorevolissimo Padre amarlo. Et lo prego che tutto quello che gli paressi ci fussi di prosuntione si degni, risguardando lo svenato Agnello, Christo crocifisso in croce, perdonare con quella misericordia che esso perdonò a quelli che l'offendevono, se bene queste parole non sono dette per offendere ma, come sforzata, proferite per fargli intendere il voler di Dio.
+
+Non dubito che, come amatore di esso Dio e ansioso zelatore della salute dell'anime, non consideri le inconsiderate parole della sua ancilla e venga a chiarirsi della verità, non mettendo più tempo in mezzo perché il tempo non aspetta noi, se ben noi aspettiamo lui. Dhe, non ci facciamo certi dell'incerto, ma vogliamo hora per hora, punto per punto, operare quel che Dio vuole nella sua santa Chiesa, a voi data in particular custodia.
+
+Non l'inciterò né provocherò con dirgli più parole, ma facendo fine humilmente gli domando la santa beneditione. JESU, JESU, Verità infallibile, tranquillo Amore. JESU. JESU.
+
+Del nostro monasterio di Santa Maria delli Angeli presso a San Fridiano.
+
+Il dì del glorioso apostolo san Bartolomeo, 24 d'agosto 1586.
+
+L'humile Ancilla dell'humanato Verbo
+
+*Suor Maria Maddalena de' Pazzi*

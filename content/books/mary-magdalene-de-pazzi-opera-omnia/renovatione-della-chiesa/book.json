@@ -1,0 +1,595 @@
+{
+  "id": "pazzi-renovatione-della-chiesa",
+  "name": {
+    "it": "Renovatione della Chiesa e opere minori",
+    "en-US": "The Renewal of the Church and Minor Works",
+    "pt-BR": "A renovação da Igreja e obras menores"
+  },
+  "author": {
+    "it": "Santa Maria Maddalena de' Pazzi",
+    "en-US": "St. Mary Magdalene de' Pazzi",
+    "pt-BR": "Santa Maria Madalena de Pazzi"
+  },
+  "description": {
+    "it": "Il settimo volume di Tutte le opere (Firenze: CIL, 1966): la «Renovatione della Chiesa», dodici lettere dettate in estasi (25 luglio-4 settembre 1586) al papa Sisto V, ai cardinali, al card. Alessandro de' Medici, a Caterina de' Ricci e ad altri; le ventisette lettere personali (1588-1606); i quaranta Ammaestramenti, gli Avvisi e i Ricordi lasciati alle novizie; le Dodici meditazioni, i Ricordi, detti e azioni, i Ratti e intelligenze e le Ultime estasi. Edizione critica di Fausto Vallainc e Claudio M. Catena, O.Carm. Un capitolo per lettera e per ammaestramento.",
+    "en-US": "Volume VII of Tutte le opere (Florence: CIL, 1966): the \"Renewal of the Church\", twelve letters dictated in ecstasy (25 July - 4 September 1586) to Pope Sixtus V, the cardinals, Cardinal Alessandro de' Medici, Catherine de' Ricci and others; the twenty-seven personal letters (1588-1606); the forty Teachings, the Counsels and Remembrances left to the novices; the Twelve Meditations, Remembrances, Sayings and Actions, Ecstasies and Understandings, and the Last Ecstasies. Critical edition by Fausto Vallainc and Claudio M. Catena, O.Carm. One chapter per letter and per teaching.",
+    "pt-BR": "O sétimo volume de Tutte le opere (Florença: CIL, 1966): a «Renovatione della Chiesa», doze cartas ditadas em êxtase (25 de julho a 4 de setembro de 1586) ao papa Sisto V, aos cardeais, a Catarina de' Ricci e outros; as cartas pessoais (1588-1606); os quarenta Ensinamentos, Avisos e Lembranças deixados às noviças; as Doze meditações, os Êxtases e inteligências e os Últimos êxtases."
+  },
+  "composed": "1586-1607",
+  "languages": [
+    "it"
+  ],
+  "work": "mary-magdalene-de-pazzi/renovatione-della-chiesa",
+  "editions": {
+    "it": {
+      "editor": "Fausto Vallainc and Claudio Maria Catena, O.Carm.",
+      "year": 1966
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://web.archive.org/web/20051214id_/http://www.ocarm.org/smmdep/7renova.htm",
+      "edition": "Santa Maria Maddalena de' Pazzi, Tutte le opere dai manoscritti originali, a cura di Fulvio Nardoni, vol. VII (1966), Firenze: Centro Internazionale del Libro. Typed text published by the Carmelite Order (O.Carm., prepared by Fr. Pedro Bravo, 2001), saved from the Wayback Machine because the live site is gone.",
+      "description": "Whole page: the Renovatione della Chiesa, the letters in ecstasy and personal letters, the Ammaestramenti, avvisi e ricordi, the Dodici meditazioni, Ricordi detti e azioni, Ratti e intelligenze and Ultime estasi.",
+      "tier": "B",
+      "tierEvidence": "Critical edition of 1960-66 put online without a rights notice by the order itself; the saint's text only. Editors' introductions are not imported; their bracketed glosses and notes stay inline as printed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "proemio",
+      "title": {
+        "it": "Renovatione della Chiesa: proemio"
+      }
+    },
+    {
+      "id": "lettere-estasi",
+      "title": {
+        "it": "Lettere dettate in estasi (25 luglio - 4 settembre 1586)"
+      },
+      "children": [
+        {
+          "id": "estasi-01",
+          "title": {
+            "it": "Lettera 1 dettata in estasi"
+          }
+        },
+        {
+          "id": "estasi-02",
+          "title": {
+            "it": "Lettera 2 dettata in estasi: Al' Sommo Pontefice Et Vicario Di Christo In Terra Papa Sisto"
+          }
+        },
+        {
+          "id": "estasi-03",
+          "title": {
+            "it": "Lettera 3 dettata in estasi: Al' R.Mo Padre  E Rettore Della Compagnia Del Dolce Nome Di Jesu Com Tutti I Padri, E Frat"
+          }
+        },
+        {
+          "id": "estasi-04",
+          "title": {
+            "it": "Lettera 4 dettata in estasi"
+          }
+        },
+        {
+          "id": "estasi-05",
+          "title": {
+            "it": "Lettera 5 dettata in estasi: Al' R.Mo Padre Cardinale Et Arcivescovo Nostro"
+          }
+        },
+        {
+          "id": "estasi-06",
+          "title": {
+            "it": "Lettera 6 dettata in estasi: Al R.Do P. Pietro  Della Compagnia Del Suave Nome Di Jesu"
+          }
+        },
+        {
+          "id": "estasi-07",
+          "title": {
+            "it": "Lettera 7 dettata in estasi: All Ill.Mi Cardinali Che Si Truovon Presenti Alla Sede Apostolica"
+          }
+        },
+        {
+          "id": "estasi-08",
+          "title": {
+            "it": "Lettera 8 dettata in estasi: Alla R.Da M.Re S.Or Veronica"
+          }
+        },
+        {
+          "id": "estasi-09",
+          "title": {
+            "it": "Lettera 9 dettata in estasi: A Prato"
+          }
+        },
+        {
+          "id": "estasi-10",
+          "title": {
+            "it": "Lettera 10 dettata in estasi: Alla R.Da M.Re S.Or Catherina De' Ricci"
+          }
+        },
+        {
+          "id": "estasi-11",
+          "title": {
+            "it": "Lettera 11 dettata in estasi"
+          }
+        },
+        {
+          "id": "estasi-12",
+          "title": {
+            "it": "Lettera 12 dettata in estasi: Al Sopradetto Ill.Mo Cardinale Padre Suo R.Mo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lettere-personali",
+      "title": {
+        "it": "Lettere personali (1588-1606)"
+      },
+      "children": [
+        {
+          "id": "lettera-01",
+          "title": {
+            "it": "Lettera 1: A Suor Carità Rucellai"
+          }
+        },
+        {
+          "id": "lettera-02",
+          "title": {
+            "it": "Lettera 2: Alla Molto Reverenda In Cristo Jesu Dilettissima Suor Diamante Di"
+          }
+        },
+        {
+          "id": "lettera-03",
+          "title": {
+            "it": "Lettera 3: Alle Molto Reverende In Christo Jesu Sorelle Suor Diamante E Suor Maria Fedele"
+          }
+        },
+        {
+          "id": "lettera-04",
+          "title": {
+            "it": "Lettera 4: A Suor Carità Rucellai"
+          }
+        },
+        {
+          "id": "lettera-05",
+          "title": {
+            "it": "Lettera 5: A Suor Carità Rucellai"
+          }
+        },
+        {
+          "id": "lettera-06",
+          "title": {
+            "it": "Lettera 6: Al Molto Honorando Et Charissimo Padre Ms. Camillo De' Pazzi"
+          }
+        },
+        {
+          "id": "lettera-07",
+          "title": {
+            "it": "Lettera 7: A Una Monaca"
+          }
+        },
+        {
+          "id": "lettera-08",
+          "title": {
+            "it": "Lettera 8: Al P. Vergilio Cepari Della Compagnia Di Gesù"
+          }
+        },
+        {
+          "id": "lettera-09",
+          "title": {
+            "it": "Lettera 9: Alla Molto Reverenda In Christo Jesu Suor Carità Rucellai"
+          }
+        },
+        {
+          "id": "lettera-10",
+          "title": {
+            "it": "Lettera 10: Alla Sua Diletta E Charissima Nipote, La Maria De' Pazzi"
+          }
+        },
+        {
+          "id": "lettera-11",
+          "title": {
+            "it": "Lettera 11: Alla Molto Reverenda In Christo Sorella, Suor Maria Angela Guidi"
+          }
+        },
+        {
+          "id": "lettera-12",
+          "title": {
+            "it": "Lettera 12: Alla Reverenda E Carissima In Christo, La Madre Suor Carità Rucellai"
+          }
+        },
+        {
+          "id": "lettera-13",
+          "title": {
+            "it": "Lettera 13: Alla Christianissima Regina Di Francia , Signora Et Padrona Mia Colendissima"
+          }
+        },
+        {
+          "id": "lettera-14",
+          "title": {
+            "it": "Lettera 14: Alla Signora Verginia Ridolfi Del Rinuccini"
+          }
+        },
+        {
+          "id": "lettera-15",
+          "title": {
+            "it": "Lettera 15: Alla Molto Reverenda In Cristo Sorella, Suor Margherita Medici"
+          }
+        },
+        {
+          "id": "lettera-16",
+          "title": {
+            "it": "Lettera 16: Al Molto Magnifico E Honorando Quanto Fratello M. Luvigi Ardinghelli"
+          }
+        },
+        {
+          "id": "lettera-17",
+          "title": {
+            "it": "Lettera 17: Alla Molto Reverenda In Christo Madre Suor Giulia Sommai"
+          }
+        },
+        {
+          "id": "lettera-18",
+          "title": {
+            "it": "Lettera 18: Al Molto Magnifico E Honorando Fratel Geri De' Pazzi"
+          }
+        },
+        {
+          "id": "lettera-19",
+          "title": {
+            "it": "Lettera 19: Al Molto Magnifico E Honorando Fratello Ms. Geri De' Pazzi"
+          }
+        },
+        {
+          "id": "lettera-20",
+          "title": {
+            "it": "Lettera 20: Alla Molto Magnifica Madonna Caterina Minerbetti"
+          }
+        },
+        {
+          "id": "lettera-21",
+          "title": {
+            "it": "Lettera 21: A Suor Giulia Sommai"
+          }
+        },
+        {
+          "id": "lettera-22",
+          "title": {
+            "it": "Lettera 22: A Ippolita Nasi - Sua Cognata"
+          }
+        },
+        {
+          "id": "lettera-23",
+          "title": {
+            "it": "Lettera 23: A Geri De' Pazzi - Suo Fratello"
+          }
+        },
+        {
+          "id": "lettera-24",
+          "title": {
+            "it": "Lettera 24: A Suor Cherubina De' Pazzi, Monaca"
+          }
+        },
+        {
+          "id": "lettera-25",
+          "title": {
+            "it": "Lettera 25: Al Padre Giovanni Battista Rabattà"
+          }
+        },
+        {
+          "id": "lettera-26",
+          "title": {
+            "it": "Lettera 26: A Madonna Violante Medici"
+          }
+        },
+        {
+          "id": "lettera-27",
+          "title": {
+            "it": "Lettera 27: Alla Molto Magnifica E Cara Nipote Madonna Caterina Busini"
+          }
+        },
+        {
+          "id": "persone-nominate",
+          "title": {
+            "it": "Persone nominate nelle lettere"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ammaestramenti",
+      "title": {
+        "it": "Ammaestramenti, avvisi e ricordi"
+      },
+      "children": [
+        {
+          "id": "ammaestramenti-introduzione",
+          "title": {
+            "it": "Ammaestramenti, avvisi e ricordi: introduzione e fonti"
+          }
+        },
+        {
+          "id": "ammaestramento-01",
+          "title": {
+            "it": "Ammaestramento 1. Della degnità, stima e gratitudine della vocazione religiosa"
+          }
+        },
+        {
+          "id": "ammaestramento-02",
+          "title": {
+            "it": "Ammaestramento 2. Dell'amore et osservanza verso la nostra madre religione"
+          }
+        },
+        {
+          "id": "ammaestramento-03",
+          "title": {
+            "it": "Ammaestramento 3. Dell'osservanza della regola e constituzione"
+          }
+        },
+        {
+          "id": "ammaestramento-04",
+          "title": {
+            "it": "Ammaestramento 4. Del desiderio e zelo della santa osservanza e della semplicità e perfezione religiosa"
+          }
+        },
+        {
+          "id": "ammaestramento-05",
+          "title": {
+            "it": "Ammaestramento 5. Come si deve portare verso le novelle piante della religione"
+          }
+        },
+        {
+          "id": "ammaestramento-06",
+          "title": {
+            "it": "Ammaestramento 6. Dell'aborrimento del mondo, e come si deve portare alle grate con i secolari"
+          }
+        },
+        {
+          "id": "ammaestramento-07",
+          "title": {
+            "it": "Ammaestramento 7. Dell'obbedienza"
+          }
+        },
+        {
+          "id": "ammaestramento-08",
+          "title": {
+            "it": "Ammaestramento 8. Della povertà"
+          }
+        },
+        {
+          "id": "ammaestramento-09",
+          "title": {
+            "it": "Ammaestramento 9. Della castità"
+          }
+        },
+        {
+          "id": "ammaestramento-10",
+          "title": {
+            "it": "Ammaestramento 10. De tre voti"
+          }
+        },
+        {
+          "id": "ammaestramento-11",
+          "title": {
+            "it": "Ammaestramento 11. Dell'opere spirituali e del culto divino"
+          }
+        },
+        {
+          "id": "ammaestramento-12",
+          "title": {
+            "it": "Ammaestramento 12. Dell'ufizio divino"
+          }
+        },
+        {
+          "id": "ammaestramento-13",
+          "title": {
+            "it": "Ammaestramento 13. Dell'orazione"
+          }
+        },
+        {
+          "id": "ammaestramento-14",
+          "title": {
+            "it": "Ammaestramento 14. Dell'esame della conscienza e della confessione"
+          }
+        },
+        {
+          "id": "ammaestramento-15",
+          "title": {
+            "it": "Ammaestramento 15. Della s.ma comunione"
+          }
+        },
+        {
+          "id": "ammaestramento-16",
+          "title": {
+            "it": "Ammaestramento 16. Della carità e dilezione fraterna"
+          }
+        },
+        {
+          "id": "ammaestramento-17",
+          "title": {
+            "it": "Ammaestramento 17. Della conversazione"
+          }
+        },
+        {
+          "id": "ammaestramento-18",
+          "title": {
+            "it": "Ammaestramento 18. Circa le parole e del silenzio"
+          }
+        },
+        {
+          "id": "ammaestramento-19",
+          "title": {
+            "it": "Ammaestramento 19. Dell'opere"
+          }
+        },
+        {
+          "id": "ammaestramento-20",
+          "title": {
+            "it": "Ammaestramento 20. De gl'ufizi della religione"
+          }
+        },
+        {
+          "id": "ammaestramento-21",
+          "title": {
+            "it": "Ammaestramento 21. Dello star lontana dalla colpa"
+          }
+        },
+        {
+          "id": "ammaestramento-22",
+          "title": {
+            "it": "Ammaestramento 22. Del timor de cadere e della memoria della morte e giudizio"
+          }
+        },
+        {
+          "id": "ammaestramento-23",
+          "title": {
+            "it": "Ammaestramento 23. Delle cause della tiepidità"
+          }
+        },
+        {
+          "id": "ammaestramento-24",
+          "title": {
+            "it": "Ammaestramento 24. Della custodia del cuore"
+          }
+        },
+        {
+          "id": "ammaestramento-25",
+          "title": {
+            "it": "Ammaestramento 25. De mezzi per vincere le passione"
+          }
+        },
+        {
+          "id": "ammaestramento-26",
+          "title": {
+            "it": "Ammaestramento 26. Come se deve portare in quello che è contro il vostro gusto e sentimento e quel che dio pretende quando ci per"
+          }
+        },
+        {
+          "id": "ammaestramento-27",
+          "title": {
+            "it": "Ammaestramento 27. Come bisogna far verace fondamento nella virtù e come si deve superare tutte le dificultà che occorrono nel di"
+          }
+        },
+        {
+          "id": "ammaestramento-28",
+          "title": {
+            "it": "Ammaestramento 28. Della mortificazione"
+          }
+        },
+        {
+          "id": "ammaestramento-29",
+          "title": {
+            "it": "Ammaestramento 29. Come si deve portare nelle humiliazione e mortificazione e riprensione"
+          }
+        },
+        {
+          "id": "ammaestramento-30",
+          "title": {
+            "it": "Ammaestramento 30. Dell'humiltà"
+          }
+        },
+        {
+          "id": "ammaestramento-31",
+          "title": {
+            "it": "Ammaestramento 31. Della mansuetudine e della pace secondo dio"
+          }
+        },
+        {
+          "id": "ammaestramento-32",
+          "title": {
+            "it": "Ammaestramento 32. Del patire"
+          }
+        },
+        {
+          "id": "ammaestramento-33",
+          "title": {
+            "it": "Ammaestramento 33. Della purità d'intenzione"
+          }
+        },
+        {
+          "id": "ammaestramento-34",
+          "title": {
+            "it": "Ammaestramento 34. Come si deve cercare e operare la volontà di dio"
+          }
+        },
+        {
+          "id": "ammaestramento-35",
+          "title": {
+            "it": "Ammaestramento 35. Della presenza di dio"
+          }
+        },
+        {
+          "id": "ammaestramento-36",
+          "title": {
+            "it": "Ammaestramento 36. Del traffico et unione con dio"
+          }
+        },
+        {
+          "id": "ammaestramento-37",
+          "title": {
+            "it": "Ammaestramento 37. Dell'immitazione del verbo"
+          }
+        },
+        {
+          "id": "ammaestramento-38",
+          "title": {
+            "it": "Ammaestramento 38. Del zelo della salute delle anime"
+          }
+        },
+        {
+          "id": "ammaestramento-39",
+          "title": {
+            "it": "Ammaestramento 39. Dell'amor di dio"
+          }
+        },
+        {
+          "id": "ammaestramento-40",
+          "title": {
+            "it": "Ammaestramento 40. Tre ricordi che la nostra madre beata maria maddalena dette a tutte avanti la sua morte"
+          }
+        },
+        {
+          "id": "appendice-ammaestramenti",
+          "title": {
+            "it": "Appendice agli ammaestramenti (Suor Maria Benedetta Cambini)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opere-minori",
+      "title": {
+        "it": "Opere minori"
+      },
+      "children": [
+        {
+          "id": "dodici-meditazioni",
+          "title": {
+            "it": "Dodici meditazioni"
+          }
+        },
+        {
+          "id": "ricordi-detti-azioni",
+          "title": {
+            "it": "Ricordi, detti e azioni"
+          }
+        },
+        {
+          "id": "ratti-intelligenze",
+          "title": {
+            "it": "Ratti e intelligenze"
+          }
+        },
+        {
+          "id": "ultime-estasi",
+          "title": {
+            "it": "Ultime estasi"
+          }
+        }
+      ]
+    }
+  ]
+}
