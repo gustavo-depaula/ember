@@ -1,0 +1,318 @@
+{
+  "id": "catherine-genoa-dialogo-spirituale-en",
+  "cover": "classic",
+  "name": {
+    "en-US": "Spiritual Dialogue (attributed to St. Catherine of Genoa)",
+    "it": "Dialogo spirituale (attribuito, trad. inglese 1874)",
+    "pt-BR": "Diálogo espiritual (atribuído a Santa Catarina de Gênova)"
+  },
+  "author": {
+    "it": "Santa Caterina da Genova",
+    "en-US": "St. Catherine of Genoa",
+    "pt-BR": "Santa Catarina de Gênova"
+  },
+  "description": {
+    "en-US": "The Spiritual Dialogue between the Soul, the Body, Self-love, the Spirit, Humanity and the Lord God, attributed to St. Catherine of Genoa and printed with her Life in 1551: in three parts, her worldly entanglements and conversion, the sublime perfection of the spiritual life, and the divine love with its effects. Scholars attribute the second and third parts largely to the hand of her disciple Battista Vernazza, working from Catherine’s teaching. English translation of 1874 (21, 11 and 13 chapters). The Italian original exists only in long-s OCR of the 1590 and 1743 prints and is not yet imported.",
+    "it": "Il Dialogo spirituale tra l’Anima, il Corpo, l’Amor proprio, lo Spirito, l’Umanità e il Signore Iddio, attribuito a santa Caterina da Genova. Traduzione inglese del 1874; l’originale italiano non è ancora importato.",
+    "pt-BR": "O Diálogo espiritual entre a Alma, o Corpo, o Amor-próprio, o Espírito, a Humanidade e o Senhor Deus, atribuído a santa Catarina de Gênova, em três partes. Tradução inglesa de 1874."
+  },
+  "composed": "1551",
+  "languages": [
+    "en-US"
+  ],
+  "work": "catherine-of-genoa/dialogo-spirituale",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (Catholic Publication Society, introduction by I. T. Hecker)",
+      "year": 1874
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/catherine_g/life/life",
+      "edition": "Life and Doctrine of Saint Catherine of Genoa, translated from the Italian, New York: Catholic Publication Society 1874 (reprinted Christian Press Association 1907), introduction by Isaac T. Hecker. CCEL transcription (proofed), checked against the Internet Archive scan lifedoctrineofsa0000vari.",
+      "description": "The argument and the three parts of the Spiritual Dialogue (21, 11 and 13 chapters) with their rubrics. Attribution: the work is traditionally ascribed to Catherine; the second and third parts are widely held to be by Battista Vernazza.",
+      "tier": "A",
+      "tierEvidence": "The 1874 New York translation and its 1907 reprint are anonymous or by Hecker's circle (Hecker died 1888); public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "intro",
+      "title": {
+        "en-US": "Argument of the Spiritual Dialogue"
+      }
+    },
+    {
+      "id": "p1c01",
+      "title": {
+        "en-US": "Part I, Chapter I. The soul and the body propose to travel in company, and to take self-love for a third party."
+      }
+    },
+    {
+      "id": "p1c02",
+      "title": {
+        "en-US": "Part I, Chapter II. The Soul and the Body take their turns, in which each enjoys itself according to its wishes and tastes."
+      }
+    },
+    {
+      "id": "p1c03",
+      "title": {
+        "en-US": "Part I, Chapter III. How Self-Love blames both the Soul and the Body, and wishes to rule them himself.--The Soul complains, and the Body, adhering to Self-Love, demands what its needs require."
+      }
+    },
+    {
+      "id": "p1c04",
+      "title": {
+        "en-US": "Part I, Chapter IV. The Soul, the Body, and Self-Love pursue their journey, during which the Soul cannot complete her whole week, and the Body encroaches upon it.--The Soul allows herself to be persuaded by Self-Love under pretext of the necessities of her two companions.--The Soul laments her condition and proposes not to take her turn again."
+      }
+    },
+    {
+      "id": "p1c05",
+      "title": {
+        "en-US": "Part I, Chapter V. The Soul yields to the allurements of the Body and of Self-Love, and falls into the depths of sin.--Of the little satisfaction she takes in earthly things, and the trifles that are sufficient to content the Body.--Of the troubles of the Soul."
+      }
+    },
+    {
+      "id": "p1c06",
+      "title": {
+        "en-US": "Part I, Chapter VI. How the Soul discourses further with Self-Love, proposing a new mode of action.--Of the nature of Self-Love.--Of the little required to satisfy the desires of the Body.--How the Soul falls into misery and despair."
+      }
+    },
+    {
+      "id": "p1c07",
+      "title": {
+        "en-US": "Part I, Chapter VII. Of the light which God gave to the Soul to discover all her faults, and the state into which she had sunk.--Of her submission, confidence, and conversion."
+      }
+    },
+    {
+      "id": "p1c08",
+      "title": {
+        "en-US": "Part I, Chapter VIII. Of many illuminations received by the Soul, and of the pure love of God.--Of conscience, and the remorse which God awakens in it."
+      }
+    },
+    {
+      "id": "p1c09",
+      "title": {
+        "en-US": "Part I, Chapter IX. The Soul speaks to Self-Love and the Body of the truth she had seen, and tells them that she should be lost if she followed them.--She warns them of her purpose to do to them what they had designed to do to her, namely, to subject them to herself.--Of the disgust they felt at this."
+      }
+    },
+    {
+      "id": "p1c10",
+      "title": {
+        "en-US": "Part I, Chapter X. Of the view which the Soul has of the goodness and providence of God.--Of her faults and imperfections.--Of her esteem of herself and hatred of her Humanity."
+      }
+    },
+    {
+      "id": "p1c11",
+      "title": {
+        "en-US": "Part I, Chapter XI. How the Soul turns to God and perceives her own sinfulness, and also what she would have become had she continued her former course.--Almost in despair she bewails her offences.--Of the confidence with which our Lord inspires her, appearing to her spirit; and of the wound she receives."
+      }
+    },
+    {
+      "id": "p1c12",
+      "title": {
+        "en-US": "Part I, Chapter XII. How God once more manifested to the Soul the love with which he had suffered for her.--She sees the malice of man and the pure love of God.--Of the offering, which she makes of herself to God, and of the wound she receives.--Of the five fountains of Jesus.--Of his constant and jealous watchfulness."
+      }
+    },
+    {
+      "id": "p1c13",
+      "title": {
+        "en-US": "Part I, Chapter XIII. Of the instinct which led her to cast off every superfluous thing, and even that appear necessary.--Of her instinct for prayer and her mortification."
+      }
+    },
+    {
+      "id": "p1c14",
+      "title": {
+        "en-US": "Part I, Chapter XIV. Of the words that passed between the Spirit and Humanity.--Of the complaints made by Humanity against the fervor of the Spirit which she thought she could endure no longer."
+      }
+    },
+    {
+      "id": "p1c15",
+      "title": {
+        "en-US": "Part I, Chapter XV. Humanity complains that the Spirit does not keep its promises and the Spirit defends itself against this charge.--Of the perils of spiritual delights under the semblance of good, and how they are more dangerous than bodily pleasures, which are evidently contrary to the Spirit.--Of the threats of the Spirit against its Humanity."
+      }
+    },
+    {
+      "id": "p1c16",
+      "title": {
+        "en-US": "Part I, Chapter XVI. Humanity prays the Spirit to act justly and with equity, reminding her that she had been the first to sin and that the body had been merely the instrument.--The Spirit proves the contrary, and shows who has been the cause of their fall.--The Spirit demonstrates also the necessity of purification here, and that it is better to suffer for a thousand years in this world than one hour in purgatory."
+      }
+    },
+    {
+      "id": "p1c17",
+      "title": {
+        "en-US": "Part I, Chapter XVII. God pours into and diffuses throughout the soul a divine sweetness, whereat she complains, not desiring any proof of love.--God, notwithstanding, leaves her plunged in a sea of divine love.--He gives her, also, a vision of pure Love, and another of Self-Love and of her own evil inclinations."
+      }
+    },
+    {
+      "id": "p1c18",
+      "title": {
+        "en-US": "Part I, Chapter XVIII. Humanity laments and asks for something to do.--The Spirit consents and enjoins upon it that it should be obedient to all things, stopping at nothing for any pleasure or displeasure that it might feel therein.--Of the rules he wishes to observe; and of the prohibition he imposes upon it of forming no particular friendships."
+      }
+    },
+    {
+      "id": "p1c19",
+      "title": {
+        "en-US": "Part I, Chapter XIX. Of the poverty in which the Spirit compelled Humanity to live.--How she was obliged to visit the poor and sick.--Of the suffering she found among them.--Of the oppression and interior distress which she experienced."
+      }
+    },
+    {
+      "id": "p1c20",
+      "title": {
+        "en-US": "Part I, Chapter XX. Humanity having tried both exterior suffering and interior distress, the Spirit allows her to choose between them."
+      }
+    },
+    {
+      "id": "p1c21",
+      "title": {
+        "en-US": "Part I, Chapter XXI. The Spirit brings Humanity to consent to take up her abode in a hospital, where she served the sick in the humblest manner, doing everything that she was ordered to do.--When she became accustomed to whatever she naturally most abhorred, she was made directress of the hospital, and was gifted with the prudence necessary for this office.--How the burning flame of love ever increased within her."
+      }
+    },
+    {
+      "id": "p2c01",
+      "title": {
+        "en-US": "Part II, Chapter I. Of a new love which God poured into her heart, by which he drew her Spirit to himself.--The Soul follows it, so that her powers are absorbed and lost in this love, and the Body, being subject to the Soul, becomes bewildered and changed from its natural condition."
+      }
+    },
+    {
+      "id": "p2c02",
+      "title": {
+        "en-US": "Part II, Chapter II. In what manner God keeps the Soul occupied in his love.--Of the weakness of the body and of the support it receives from creatures.--Of the extreme sufferings of Humanity, which it bemoans without complaining, being interiorly conformed to the will of God.--And how purgatory in this life is severe and sweet and full of mercy."
+      }
+    },
+    {
+      "id": "p2c03",
+      "title": {
+        "en-US": "Part II, Chapter III. Humanity, thus menaced, desires to know the cause.--This is promised her.--God, while seeking men, draws them by different means and inspirations.--Of her continual sorrow. How, in her affliction, she calls upon God to relieve her by one ray of his love.--When she comes to understand the grace God has given her, she is pierced by a new dart of love.--Of her confession and contrition."
+      }
+    },
+    {
+      "id": "p2c04",
+      "title": {
+        "en-US": "Part II, Chapter IV. God sends into that heart another ray of love, which, diffusing itself, fills the soul and revives the body.--There is nothing but exceeding love and joy, until this love, which is wholly from God, has completed its work."
+      }
+    },
+    {
+      "id": "p2c05",
+      "title": {
+        "en-US": "Part II, Chapter V. The Soul asks concerning this love.--Our Lord in part answers her and discourses to her upon its greatness, nature, properties, causes and effects."
+      }
+    },
+    {
+      "id": "p2c06",
+      "title": {
+        "en-US": "Part II, Chapter VI. God reveals to the Soul that the body is to be purgatory for her in this world.--How necessary it is that man should deny himself and become wholly lost in God.--Of the misery of man when he occupies himself with aught beside, since he has no time but the present to acquire a treasure of merit."
+      }
+    },
+    {
+      "id": "p2c07",
+      "title": {
+        "en-US": "Part II, Chapter VII. The Soul, confirmed in virtue, begins to rest in her Lord.--God permits her to see that loving operations whereby, through his great goodness alone, he had liberated her.--The Soul, perceiving her own miseries, burns with a continual flame and is unable to speak or thing of aught besides."
+      }
+    },
+    {
+      "id": "p2c08",
+      "title": {
+        "en-US": "Part II, Chapter VIII. Our Lord makes known to the Soul that she had merited nothing, having employed in purifying herself the time which was given her to increase in grace and glory.--Also he shows her that without his help she could have done nothing."
+      }
+    },
+    {
+      "id": "p2c09",
+      "title": {
+        "en-US": "Part II, Chapter IX. The Spirit, seeing the Soul brought to the gates of divine love, resolves to subject both Soul and Body to severe suffering.--He tells the Soul that he will separate himself from her, and that in order to recover her first purity, she must pass through many trials."
+      }
+    },
+    {
+      "id": "p2c10",
+      "title": {
+        "en-US": "Part II, Chapter X. The Soul discovers that she must make satisfaction voluntarily, and it seems to her that she is abandoned by God.--She calls upon others for help.--How Humanity, by whom she had been threatened, is put to the proof.--Of the sufferings of the Body when deprived of communications with the Spirit."
+      }
+    },
+    {
+      "id": "p2c11",
+      "title": {
+        "en-US": "Part II, Chapter XI. Of the brightness of eternal glory, and of the strength imparted to Humanity by a glimpse of it.--How God draws the Spirit to himself, so that it may be wholly occupied in him.--Of its sufferings.--What it is to live on earth while the Spirit is in heaven, and through what sufferings one must pass in order to escape purgatory."
+      }
+    },
+    {
+      "id": "p3c01",
+      "title": {
+        "en-US": "Part III, Chapter I. The Soul inquires of God the reason of his great love for man, who is so opposed to him; and also what is man, for whom he cares so much."
+      }
+    },
+    {
+      "id": "p3c02",
+      "title": {
+        "en-US": "Part III, Chapter II. Exclamations of the Soul.--Our Lord demands the cause of her surprise, and questions her concerning her enjoyment in the company of spiritual persons, and of the pleasing conversations held with them."
+      }
+    },
+    {
+      "id": "p3c03",
+      "title": {
+        "en-US": "Part III, Chapter III. The Soul discovers that what she had been doing, as if for God, proceeded truly from Self-Love.--She is filled with astonishment at the sight of pure love, and inquires concerning its nature.--Our Lord answers her that she could not understand it, and that he himself, being love, can be comprehended only in his effects."
+      }
+    },
+    {
+      "id": "p3c04",
+      "title": {
+        "en-US": "Part III, Chapter IV. That he whose heart is pure knows the love of God.--How that love works secretly, subtly, and without exterior occupation.--Some of its effects.--Exclamations of the Soul upon this love.--Of its properties."
+      }
+    },
+    {
+      "id": "p3c05",
+      "title": {
+        "en-US": "Part III, Chapter V. Other effects of love.--What it accomplishes at its will.--The work is all its own.--Of works wrought through love, in love, and by love, with some explanation of them."
+      }
+    },
+    {
+      "id": "p3c06",
+      "title": {
+        "en-US": "Part III, Chapter VI. The Soul asks various questions of our Lord.--What the martyrs have suffered for this love.--That charity is the shortest and most secure road to salvation, and that without it the Soul would rather cast itself into a thousand hells than enter the presence of God."
+      }
+    },
+    {
+      "id": "p3c07",
+      "title": {
+        "en-US": "Part III, Chapter VII. Our Lord questions the Soul concerning the love she feels and on what he has said to her.--The Soul responds according to her ability, but cannot express the intensity of her love.--She asks our Lord how the loving Soul can live on earth, and concerning her condition."
+      }
+    },
+    {
+      "id": "p3c08",
+      "title": {
+        "en-US": "Part III, Chapter VIII. Of the condition of the loving Soul.--How God delays imparting to her the knowledge of her defects, since she could not endure it.--She has no repose so long as she suspects the existence of any fault by which her Spirit is hindered of its satisfaction."
+      }
+    },
+    {
+      "id": "p3c09",
+      "title": {
+        "en-US": "Part III, Chapter IX. Of the condition of the Body, and in what suffering Humanity found itself, living as though dead.--How God provided for it.--Of the joy experienced by the Soul in the interchange of love, and how she is left like one dead when deprived of it."
+      }
+    },
+    {
+      "id": "p3c10",
+      "title": {
+        "en-US": "Part III, Chapter X. How the Soul, the heart, and the Spirit of this creature are devoid of form, and employed in an occupation which cannot be known by their means.--That the heart becomes the tabernacle of God, into which he infuses many graces and consolations, which produce admirable fruits.--That few creatures are led by this road.--Of the nudity of the Spirit and of its union with God."
+      }
+    },
+    {
+      "id": "p3c11",
+      "title": {
+        "en-US": "Part III, Chapter XI. Of the secret means used by God for the purification of man.--Of the loving care he takes of him.--How he sweetly leads him by love, and does not allow him to work for his own advantage.--That true nakedness of spirit cannot be expressed by words."
+      }
+    },
+    {
+      "id": "p3c12",
+      "title": {
+        "en-US": "Part III, Chapter XII. Exclamations of the Soul upon the blindness which creatures offer to the love of God.--Of the secret operations of God in man, arousing and admonishing him with love.--The Soul inquires concerning this work, and desires to know what grace is, and what is the ray of love."
+      }
+    },
+    {
+      "id": "p3c13",
+      "title": {
+        "en-US": "Part III, Chapter XIII. That love cannot be comprehended, and that the heart filled with it lives content.--Of the great mercy which God shows man in this life.--That his justice becomes apparent at the moment when the Soul leaves the body and passes to its destined place.--That the Soul can find repose in God only."
+      }
+    }
+  ]
+}
