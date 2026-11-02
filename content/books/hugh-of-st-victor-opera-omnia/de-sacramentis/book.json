@@ -95,7 +95,7 @@
     {
       "id": "g01",
       "title": {
-        "la": "Liber primus."
+        "la": "Liber primus"
       },
       "children": [
         {
@@ -295,7 +295,7 @@
         {
           "id": "g03",
           "title": {
-            "la": "Pars secunda. De causa creationis hominis, et de causis primordialibus rerum omnium."
+            "la": "Pars secunda. De causa creationis hominis, et de causis primordialibus rerum omnium"
           },
           "children": [
             {
@@ -623,7 +623,7 @@
         {
           "id": "g05",
           "title": {
-            "la": "Pars quarta. De voluntate dei quae aeterna est et una et de signis voluntatis ejus Quae quidem temporalia sunt et secundum figuram voluntatis dicuntur, quia signa sunt voluntatis."
+            "la": "Pars quarta. De voluntate dei quae aeterna est et una et de signis voluntatis ejus Quae quidem temporalia…"
           },
           "children": [
             {
@@ -787,7 +787,7 @@
         {
           "id": "g06",
           "title": {
-            "la": "Pars quinta. De creatione angelorum et natura, et confirmatione et lapsu, et caeteris quae ad ipsos pertinent."
+            "la": "Pars quinta. De creatione angelorum et natura, et confirmatione et lapsu, et caeteris quae ad ipsos pertinent"
           },
           "children": [
             {
@@ -1783,7 +1783,7 @@
     {
       "id": "g14",
       "title": {
-        "la": "Liber secundus de incartione verbi et tempore gratiae"
+        "la": "Liber secundus de incarnatione verbi et tempore gratiae"
       },
       "children": [
         {
@@ -1801,7 +1801,7 @@
             {
               "id": "c275",
               "title": {
-                "la": "Caput primum SEU PROLOGUS."
+                "la": "Caput primum seu prologus."
               }
             },
             {
