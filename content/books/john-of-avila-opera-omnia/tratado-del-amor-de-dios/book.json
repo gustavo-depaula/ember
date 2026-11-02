@@ -1,0 +1,122 @@
+{
+  "id": "avila-tratado-del-amor-de-dios",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Tratado del amor de Dios",
+    "en-US": "Treatise on the Love of God",
+    "pt-BR": "Tratado do amor de Deus"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Meditaciones de san Juan de Ávila sobre el amor de Dios para con los hombres, que se funda en el de Cristo, y sobre el beneficio de la Eucaristía: del amor de Dios como padre, madre y esposo; de las pruebas de su amor; de la gracia de Cristo, su amor en la cruz y su presencia en el sacramento. Edición modernizada del Apostolado Mariano (1995), sin la introducción del editor.",
+    "en-US": "Meditations of St. John of Ávila on God's love for men, founded on the love of Christ, and on the gift of the Eucharist: God's love as father, mother and spouse; the proofs of that love; the grace of Christ, his love on the cross and his presence in the sacrament. Modernised Apostolado Mariano edition (1995), without the editor's introduction.",
+    "pt-BR": "Meditações de São João de Ávila sobre o amor de Deus pelos homens, fundado no amor de Cristo, e sobre o benefício da Eucaristia."
+  },
+  "composed": "c. 1550–1569",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-avila/tratado-del-amor-de-dios",
+  "editions": {
+    "es-ES": {
+      "editor": "Apostolado Mariano (modernised booklet)",
+      "year": 1995
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obras-de-san-juan-de-avila-tomo-2",
+      "edition": "San Juan de Ávila, Tratado del amor de Dios, Sevilla: Apostolado Mariano, 1995 (ISBN 84-7770-259-4); archive.org upload 'Tratado del amor de Dios', Tesseract OCR.",
+      "description": "Twelve sections under the editor's headings, numbered paragraphs 1-14 as in the booklet, with its scripture-reference footnotes; the editor's introduction and page numbers removed. Latin-free modern spelling. A few reference footnotes are garbled in the OCR.",
+      "tier": "B",
+      "tierEvidence": "Ávila's text is public domain; the booklet is freely posted on archive.org."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/A073128",
+      "edition": "Tercera parte de las Obras, Sevilla 1603; and Obras, Madrid: Imprenta Real, 1793, t. III. Reference only.",
+      "description": "Early printings of the same text, not imported.",
+      "tier": "A",
+      "tierEvidence": "Printed 1603 and 1793."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "es-ES": "Dios nos ama como padre, madre y esposo"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "es-ES": "Pruebas de su amor"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "es-ES": "Fundamentos del amor de Cristo; largueza de Dios con Cristo"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "es-ES": "Nuestra predestinación en Cristo"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "es-ES": "Su amor al Padre reverbera en nosotros"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "es-ES": "Grandeza del amor de Cristo"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "es-ES": "El amor de los santos, superado por el amor de Cristo"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "es-ES": "La locura de la cruz"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "es-ES": "Fundamento de nuestra esperanza"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "es-ES": "Cristo continúa presente"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "es-ES": "Meditación del beneficio que nos hizo el Señor en el sacramento de la Eucaristía"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "es-ES": "Del modo que el Señor tuvo para hacernos este beneficio"
+      }
+    }
+  ]
+}
