@@ -1,0 +1,211 @@
+{
+  "id": "suso-buchlein-der-ewigen-weisheit",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Little Book of Eternal Wisdom",
+    "pt-BR": "O Livrinho da Sabedoria Eterna"
+  },
+  "author": {
+    "en-US": "Bl. Henry Suso (c. 1295-1366)",
+    "pt-BR": "Bem-aventurado Henrique Suso (c. 1295-1366)"
+  },
+  "description": {
+    "en-US": "Suso's dialogue between the Servant and Eternal Wisdom on the Passion, suffering, death and the praise of God, in the English of the Richardson edition (1866), after Diepenbrock's German. The Middle High German original (Bihlmeyer 1907) is not yet imported.",
+    "pt-BR": "O diálogo de Suso entre o Servo e a Sabedoria Eterna sobre a Paixão, o sofrimento, a morte e o louvor a Deus, na tradução inglesa da edição Richardson (1866)."
+  },
+  "composed": "c. 1328-1330",
+  "languages": [
+    "en-US"
+  ],
+  "work": "suso/buchlein-der-ewigen-weisheit",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (Richardson, Derby)",
+      "year": 1866
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/BlessedHenrySusosLittleBook",
+      "edition": "Blessed Henry Suso's Little Book of Eternal Wisdom (London and Derby: Richardson and Son, 1866).",
+      "description": "OCR of the archive.org (Google) scan, research/sourcing/_scripts/suso_en.py; running heads removed. Translator's preface and the contents are not included. Not proofread.",
+      "tier": "A",
+      "tierEvidence": "1866 translation, public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part One"
+      },
+      "children": [
+        {
+          "id": "c01",
+          "title": {
+            "en-US": "1. How Some Persons Are Unconsciously Attracted by God"
+          }
+        },
+        {
+          "id": "c02",
+          "title": {
+            "en-US": "2. What Happened Before the Crucifixion"
+          }
+        },
+        {
+          "id": "c03",
+          "title": {
+            "en-US": "3. How It Was with Him on the Cross According to the Exterior Man"
+          }
+        },
+        {
+          "id": "c04",
+          "title": {
+            "en-US": "4. How Very Faithful His Passion Was"
+          }
+        },
+        {
+          "id": "c05",
+          "title": {
+            "en-US": "5. How the Soul Attains Hearty Repentance, and Gentle Pardon Under the Cross"
+          }
+        },
+        {
+          "id": "c06",
+          "title": {
+            "en-US": "6. How Deceitful the Love of This World Is, and How Amiable God Is"
+          }
+        },
+        {
+          "id": "c07",
+          "title": {
+            "en-US": "7. How Lovely God Is"
+          }
+        },
+        {
+          "id": "c08",
+          "title": {
+            "en-US": "8. An Explanation Op Three Things Which Most of All Might Be Likely to Be Repugnant to a Loving Heart in God. — One Is, How His Can Appear So Wrathful and Yet Be So Gracious"
+          }
+        },
+        {
+          "id": "c09",
+          "title": {
+            "en-US": "9. ^he Second Thing — Why God, After Rejoicing the Heart, Often Withdraws Himself from His Friends, by Which His True Presence Is Made Known"
+          }
+        },
+        {
+          "id": "c10",
+          "title": {
+            "en-US": "10. The Third Thing. — Why God Permits His Friends to Suffer So Much Temporal Suf- Fering"
+          }
+        },
+        {
+          "id": "c11",
+          "title": {
+            "en-US": "11. On the Everlasting Pains Op Hell"
+          }
+        },
+        {
+          "id": "c12",
+          "title": {
+            "en-US": "12. On the Immeasurable Joys Op Heaven"
+          }
+        },
+        {
+          "id": "c13",
+          "title": {
+            "en-US": "13. On the Immeasurable Dignity of Temporal Buffering"
+          }
+        },
+        {
+          "id": "c14",
+          "title": {
+            "en-US": "14. On the Unspeakable Advantages to Be Derived from Meditating on the Divine Passion"
+          }
+        },
+        {
+          "id": "c15",
+          "title": {
+            "en-US": "15. From the Fond Caeesses Which the Soul Has Had with God Beneath the Cross, Bhb Returns Again to His Passion*"
+          }
+        },
+        {
+          "id": "c16",
+          "title": {
+            "en-US": "16. On the Wobthy Praise Op the Pure Queen Op Heaven*"
+          }
+        },
+        {
+          "id": "c17",
+          "title": {
+            "en-US": "17. On the Unutterable Heart-rending Grief 'of the Pure Queen of Heaven"
+          }
+        },
+        {
+          "id": "c18",
+          "title": {
+            "en-US": "18. How It Was with Him at That Hour in Regard of His Interior Man"
+          }
+        },
+        {
+          "id": "c19",
+          "title": {
+            "en-US": "19. On the Taking Down from Thh Cross"
+          }
+        },
+        {
+          "id": "c20",
+          "title": {
+            "en-US": "20. On the Lamentable Separation Op the Grave"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part Two"
+      },
+      "children": [
+        {
+          "id": "c21",
+          "title": {
+            "en-US": "21. How We Should Learn to Die, and Op the Nature of an Unprovided Death"
+          }
+        },
+        {
+          "id": "c22",
+          "title": {
+            "en-US": "22. How One Should Live an Interior and Godly Life"
+          }
+        },
+        {
+          "id": "c23",
+          "title": {
+            "en-US": "23. How We Ought Lovingly to Receive God"
+          }
+        },
+        {
+          "id": "c24",
+          "title": {
+            "en-US": "24. A Prayer to Be Said When Thou Goest to Receive Our Lord's Holy Body"
+          }
+        },
+        {
+          "id": "c25",
+          "title": {
+            "en-US": "25. How We Should at All Times Praise God"
+          }
+        }
+      ]
+    }
+  ]
+}
