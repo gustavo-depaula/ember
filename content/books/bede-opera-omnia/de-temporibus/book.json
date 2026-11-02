@@ -1,0 +1,206 @@
+{
+  "id": "bede-de-temporibus",
+  "cover": "classic",
+  "name": {
+    "la": "De temporibus",
+    "en-US": "On Times",
+    "pt-BR": "Sobre os Tempos"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "De temporibus liber, brevis tractatus de temporum divisionibus et de aetatibus mundi (703).",
+    "en-US": "Bede's short early treatise on the divisions of time and the six ages of the world (703), the seed of his later De temporum ratione. Latin text of Migne (PL 90); no public-domain English translation is known.",
+    "pt-BR": "O breve tratado do jovem Beda sobre as divisões do tempo e as seis idades do mundo (703), semente do posterior De temporum ratione."
+  },
+  "composed": "703",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/de-temporibus",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 90 (1862), after Giles (1843)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "De temporibus Beda on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina.",
+      "description": "Wikitext removed; inline PL column numbers dropped; one file per chapter with its rubric.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint of Giles: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I",
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II",
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III",
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV",
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V",
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI",
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII",
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII",
+        "en-US": "Chapter VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX",
+        "en-US": "Chapter IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X",
+        "en-US": "Chapter X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI",
+        "en-US": "Chapter XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII",
+        "en-US": "Chapter XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII",
+        "en-US": "Chapter XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV",
+        "en-US": "Chapter XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV",
+        "en-US": "Chapter XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI",
+        "en-US": "Chapter XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII",
+        "en-US": "Chapter XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII",
+        "en-US": "Chapter XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX",
+        "en-US": "Chapter XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX",
+        "en-US": "Chapter XX"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI",
+        "en-US": "Chapter XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII",
+        "en-US": "Chapter XXII"
+      }
+    }
+  ]
+}
