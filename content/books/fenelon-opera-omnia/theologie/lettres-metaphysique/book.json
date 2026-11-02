@@ -1,0 +1,78 @@
+{
+  "id": "fenelon-lettres-metaphysique",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres sur divers sujets de métaphysique et de religion",
+    "en-US": "Letters on Various Subjects of Metaphysics and Religion",
+    "pt-BR": "Cartas sobre diversos assuntos de metafísica e de religião"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Sept lettres de Fénelon sur l’existence de Dieu, la religion, le culte, l’idée de l’infini et la liberté de Dieu, la création, la nature de l’âme et la religion juive (imprimées en 1718 et 1791).",
+    "en-US": "Seven letters of Fénelon on the existence of God, religion, worship, the idea of the infinite and the freedom of God, creation, the nature of the soul and the Jewish religion (printed in 1718 and 1791).",
+    "pt-BR": "Sete cartas de Fénelon sobre a existência de Deus, a religião, o culto, a ideia do infinito e a liberdade de Deus, a criação, a natureza da alma e a religião judaica (impressas em 1718 e 1791)."
+  },
+  "composed": "1700–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-metaphysique",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvresdefenelon01fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 1, p. 89–146; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettres-01",
+      "title": {
+        "fr-FR": "Lettres sur divers sujets de métaphysique et de religion, partie 1"
+      }
+    },
+    {
+      "id": "lettres-02",
+      "title": {
+        "fr-FR": "Lettres sur divers sujets de métaphysique et de religion, partie 2"
+      }
+    },
+    {
+      "id": "lettres-03",
+      "title": {
+        "fr-FR": "Lettres sur divers sujets de métaphysique et de religion, partie 3"
+      }
+    },
+    {
+      "id": "lettres-04",
+      "title": {
+        "fr-FR": "Lettres sur divers sujets de métaphysique et de religion, partie 4"
+      }
+    },
+    {
+      "id": "lettres-05",
+      "title": {
+        "fr-FR": "Lettres sur divers sujets de métaphysique et de religion, partie 5"
+      }
+    },
+    {
+      "id": "lettres-06",
+      "title": {
+        "fr-FR": "Lettres sur divers sujets de métaphysique et de religion, partie 6"
+      }
+    }
+  ]
+}
