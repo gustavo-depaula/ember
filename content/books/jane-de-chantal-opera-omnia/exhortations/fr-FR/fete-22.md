@@ -1,0 +1,5 @@
+# XXII. Après le renouvellement de nos saints
+
+Je ne puis pas lire, mais je vous dirai quatre mois seulement, mes chères Sœurs, sur nos vœux, qui sont que, puisque la divine Bonté nous a encore donné cette année pour les reconfirmer, nous en reconfirmions aussi la pratique. Cheminons toujours avant dans la voie de salut et de perfection, demeurant en paix, charité et unité d'esprit en l'observance exacte de toutes les choses de notre Institut, afin que si Dieu nous donne encore l'année qui vient, que nous trouvions en nos solitudes moins de fautes et plus d'avancement en la vertu.
+
+Et puisqu'il faut toujours ou avancer ou reculer, tâchons de reculer le moins que nous pourrons; et, s'il nous arrive de le faire, ne nous décourageons point; mais humilions-nous devant Dieu, requérant son aide, et nous remettant à marcher. Surtout, je vous prie, mes Sœurs, que l'exactitude soit entière et toujours plus ponctuellement observée parmi nous , car c'est ce que Dieu requiert de nous. C'est pourquoi il nous a ici assemblées ; tâchons donc de le faire fidèlement et sa bonté nous bénira. Je ne peux vous dire davantage pour celle heure. Amen.

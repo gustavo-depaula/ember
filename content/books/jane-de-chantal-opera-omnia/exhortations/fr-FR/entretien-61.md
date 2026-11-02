@@ -1,0 +1,13 @@
+# LXI. {Vendant une maladie de la Sainte.) Pour défendre aux Sœurs de parler en particulier et hors de la chambre de récréation
+
+(Fait pendant une maladie de la Sainte)
+
+POUR DEFENDRE AUX SOEURS DE PARLER EN PARTICULIER ET HORS DE LA CHAMBRE DE RÉCRÉATION.
+
+Mes chères Sœurs, il y a environ trois semaines que je n'ai tenu de chapitre , c'est pourquoi il me tarde beaucoup de vous voir toutes assemblées pour vous parler familièrement et vous encourager ; ce ne sera pas un chapitre de coulpes, de corrections et de pénitences, mais un entrelien d'avertissements charitables qui partent d'un cœur tout à vous et désireux de votre perfection , comme de vous servir tant qu'il plaira à Dieu me conserver la vie.
+
+Nous vous avons fait lire les défauts que nos Sœurs surveillantes ont remarqués ; je n'ai pas voulu que l'on ait nommé personne; mais pourtant celles qui ont fait les fautes m'entendent bien et savent bien que je parle à elles; je les supplie de se venir accuser en particulier; et, si elles ne le font, je ne manquerai pas de les faire appeler et leur dirai moi-même leurs manquements. Je me promets tant de la bonté de vos cœurs, que vous prendrez en bonne part ce que je vous dis, et que vous en tirerez beaucoup plus de profit que si je vous faisais de grosses corrections, et que je vous en donnasse de bonnespénitences. Je vous conjure de le faire et de me donner le contentement de vous voir affranchies de ces défauts, qui, tout légers qu'ils sont, demandent néanmoins d'être corrigés, étant contre nos observances et nos règles.
+
+Mais vous direz peut-être que c'est bien gêner de pauvres filles, si elles ne peuvent pas seulement se dire une parole; non, mes Sœurs, il ne faut pas se parler en particulier, cela nous est bien défendu par nos règles. Parlez autant que vous le voudrez aux récréations, de la façon marquée; mais, hors delà, ne parlez que pour chose nécessaire, prestement, et vous retirez de même quand l'obéissance est donnée, surtout celles qui n'ont rien à demander et qui n'ont point de charges qui les obligent d'arrêter; et que l'on se demande, dans la chambre même de la récréation, ce que l'on a à se demander, qu'on ne se parle point dans les allées, et que l'on ne se donne point d'assignation; c'est une obéissance que je donne à celles qui font ce manquement, de ne pas parler dans les allées. J'aime beaucoup mieux vous voir privées de votre liberté en ce monde, que de vous voir privées du paradis en l'autre.
+
+Or sus, mes chères Sœurs , voilà tout ce que j'avais à vous dire; je vous prie encore d'en vouloir faire votre profit. Cependant, je vous remercie de toutes les prières que vous avez faites pour moi, et vous prie de me les continuer, implorant toujours la divine miséricorde de noire bon Dieu.

@@ -1,0 +1,1038 @@
+{
+  "id": "chantal-exhortations",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Exhortations, entretiens et instructions",
+    "en-US": "Exhortations, Conferences and Instructions",
+    "pt-BR": "Exortações, conversas e instruções"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "Les exhortations, entretiens et instructions de sainte Jeanne-Françoise de Chantal à ses filles de la Visitation, recueillis par les Sœurs : exhortations en chapitre sur la Règle de saint Augustin et sur les Constitutions, sur divers sujets et pour les fêtes de l’année, soixante-quatorze entretiens, vingt-trois instructions au noviciat, et les Défis donnés aux Sœurs d’Annecy.",
+    "en-US": "The exhortations, conferences and instructions of St. Jane Frances de Chantal to her daughters of the Visitation, gathered by the Sisters: chapter exhortations on the Rule of St. Augustine and the Constitutions, on various subjects and for the feasts of the year, seventy-four conferences, twenty-three instructions to the novitiate, and the Défis given to the Sisters of Annecy.",
+    "pt-BR": "As exortações, conversas e instruções de santa Joana Francisca de Chantal às suas filhas da Visitação, recolhidas pelas Irmãs: exortações no capítulo sobre a Regra de santo Agostinho e as Constituições, sobre assuntos diversos e para as festas do ano, setenta e quatro conversas, vinte e três instruções ao noviciado e os Défis dados às Irmãs de Annecy."
+  },
+  "composed": "1610–1641",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "jane-de-chantal/exhortations",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_2",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1875, tome II (Œuvres diverses I), pp. 73–579. Archive.org OCR of the Sainte-Geneviève copy.",
+      "description": "OCR cleaned by script. These are reports (reportationes) written down by her daughters, as with Francis de Sales’s Entretiens. The first part of the volume (Petit livret, questions and answers, Papiers intimes) is a separate book.",
+      "tier": "A",
+      "tierEvidence": "Plon 1875."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g-regle",
+      "title": {
+        "fr-FR": "Exhortations sur plusieurs points de la Règle de saint Augustin"
+      },
+      "children": [
+        {
+          "id": "regle-01",
+          "title": {
+            "fr-FR": "I. Sur le premier chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-02",
+          "title": {
+            "fr-FR": "II. Sur le second chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-03",
+          "title": {
+            "fr-FR": "III. Sur le sixième chapitre de la Règle 76 584 TABLE DES MATIERES. I’agpi"
+          }
+        },
+        {
+          "id": "regle-04",
+          "title": {
+            "fr-FR": "IV. Sur le dixième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-05",
+          "title": {
+            "fr-FR": "V. Sur le onzième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-06",
+          "title": {
+            "fr-FR": "VI. Sur le douzième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-07",
+          "title": {
+            "fr-FR": "VII. Sur le seizième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-08",
+          "title": {
+            "fr-FR": "VIII. Sur le seizième chapitre (suite)"
+          }
+        },
+        {
+          "id": "regle-09",
+          "title": {
+            "fr-FR": "IX. Sur le seizième chapitre (suite)"
+          }
+        },
+        {
+          "id": "regle-10",
+          "title": {
+            "fr-FR": "X. Sur le dix-septième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-11",
+          "title": {
+            "fr-FR": "XI. Sur le dix-septième chapitre (suite)"
+          }
+        },
+        {
+          "id": "regle-12",
+          "title": {
+            "fr-FR": "XII. Sur le dix-neuvième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-13",
+          "title": {
+            "fr-FR": "XIII. Sur le vingtième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-14",
+          "title": {
+            "fr-FR": "XIV. Sur le vingt-deuxième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-15",
+          "title": {
+            "fr-FR": "XV. Sur le vingt-troisième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-16",
+          "title": {
+            "fr-FR": "XVI. Sur le vingt-quatrième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-17",
+          "title": {
+            "fr-FR": "XVII. Sur le vingt-sixième chapitre de la Règle"
+          }
+        },
+        {
+          "id": "regle-18",
+          "title": {
+            "fr-FR": "XVIII. Sur le vingt-sixième chapitre (suite)"
+          }
+        },
+        {
+          "id": "regle-19",
+          "title": {
+            "fr-FR": "XIX. Conclusion de l’explication de la Règle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-const",
+      "title": {
+        "fr-FR": "Exhortations sur plusieurs points des Constitutions de la Visitation"
+      },
+      "children": [
+        {
+          "id": "const-01",
+          "title": {
+            "fr-FR": "I. Sur la préface de nos Constitutions"
+          }
+        },
+        {
+          "id": "const-02",
+          "title": {
+            "fr-FR": "II. Sur la préface de nos Constitutions (suite)"
+          }
+        },
+        {
+          "id": "const-03",
+          "title": {
+            "fr-FR": "III. Sur la troisième Constitution. — De l’obéissance"
+          }
+        },
+        {
+          "id": "const-04",
+          "title": {
+            "fr-FR": "IV. Sur la troisième Constitution. — De l’obéissance (suite)"
+          }
+        },
+        {
+          "id": "const-05",
+          "title": {
+            "fr-FR": "V. Sur la quatrième Constitution. — De la chasteté"
+          }
+        },
+        {
+          "id": "const-06",
+          "title": {
+            "fr-FR": "VI. Sur la cinquième Constitution. — De la pauvreté"
+          }
+        },
+        {
+          "id": "const-07",
+          "title": {
+            "fr-FR": "VII. Sur la vingt-deuxième Constitution. — De l’humilité"
+          }
+        },
+        {
+          "id": "const-08",
+          "title": {
+            "fr-FR": "VIII. Sur la vingt-cinquième Constitution. — De la correction"
+          }
+        },
+        {
+          "id": "const-09",
+          "title": {
+            "fr-FR": "IX. Sur la fidèle observation des Constitutions"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-divers",
+      "title": {
+        "fr-FR": "Exhortations sur divers sujets"
+      },
+      "children": [
+        {
+          "id": "divers-01",
+          "title": {
+            "fr-FR": "I. Sur la constance qu’il faut avoir au service de Dieu au milieu des vicissitudes de la vie"
+          }
+        },
+        {
+          "id": "divers-02",
+          "title": {
+            "fr-FR": "II. Sur la vigilance et la guerre à faire aux ennemis de l’âme"
+          }
+        },
+        {
+          "id": "divers-03",
+          "title": {
+            "fr-FR": "III. Sur les maux que causent à l’âme les finesses de l’amour-propre , et de la prudence humaine"
+          }
+        },
+        {
+          "id": "divers-04",
+          "title": {
+            "fr-FR": "IV. Sur les motifs qui doivent animer nos vertus pour les rendre fermes et religieuses"
+          }
+        },
+        {
+          "id": "divers-05",
+          "title": {
+            "fr-FR": "V. Sur l’excellence et la beauté de la vie religieuse"
+          }
+        },
+        {
+          "id": "divers-06",
+          "title": {
+            "fr-FR": "VI. Sur l’obligation qu’ont les Sœurs d’Annecy de conserver l’esprit de l’Institut"
+          }
+        },
+        {
+          "id": "divers-07",
+          "title": {
+            "fr-FR": "VII. Sur la manière de suivre le Sauveur"
+          }
+        },
+        {
+          "id": "divers-08",
+          "title": {
+            "fr-FR": "VIII. Sur la nomination des Sœurs, pour la fondation du deuxième monastère d’Annecy"
+          }
+        },
+        {
+          "id": "divers-09",
+          "title": {
+            "fr-FR": "IX. Sur le changement des officières. — Derniers adieux de la Sainte à une communauté"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-fetes",
+      "title": {
+        "fr-FR": "Exhortations pour quelques fêtes et principaux temps de l’année"
+      },
+      "children": [
+        {
+          "id": "fete-01",
+          "title": {
+            "fr-FR": "I. Pour le premier samedi de l’Avent. — Sur l’imitation de la Sainte-Vierge"
+          }
+        },
+        {
+          "id": "fete-02",
+          "title": {
+            "fr-FR": "II. Pour le deuxième samedi de l’Avent. — Sur la pureté du cœur et la fête de l’Immaculée Conception"
+          }
+        },
+        {
+          "id": "fete-03",
+          "title": {
+            "fr-FR": "III. Pour le troisième samedi de l’Avent. — Sur les anéantissements du Verbe éternel en sa venue ici-bas"
+          }
+        },
+        {
+          "id": "fete-04",
+          "title": {
+            "fr-FR": "IV. Pour le quatrième samedi de l’Avent. — Sur l’humilité de saint JeanBaptiste"
+          }
+        },
+        {
+          "id": "fete-05",
+          "title": {
+            "fr-FR": "V. Avant la petite retraite de Noël. — Sur les présents (pj’il faut faire à Nôtre-Seigneur"
+          }
+        },
+        {
+          "id": "fete-06",
+          "title": {
+            "fr-FR": "VI. Pour le dernier samedi de 1629. — Sur la brièveté de la vie"
+          }
+        },
+        {
+          "id": "fete-07",
+          "title": {
+            "fr-FR": "VII. Pour le dernier jour de l’année. — Sur les dispositions requises pour bien faire les dépouillements marqués par la Règle"
+          }
+        },
+        {
+          "id": "fete-08",
+          "title": {
+            "fr-FR": "VIII. Sur le bon usage du temps"
+          }
+        },
+        {
+          "id": "fete-09",
+          "title": {
+            "fr-FR": "IX. Pour le premier samedi de Carême. — Sur la vigilance et la prière. — Admirable définition de l’esprit de la Visitation, par notre Bienheureux Père saint François de Sales"
+          }
+        },
+        {
+          "id": "fete-10",
+          "title": {
+            "fr-FR": "X. Pour le deuxième samedi de Carême. — Sur l’excellence de la perfection de l’Institut, qui est des plus pures que l’on puisse trouver en l’Eglise de Dieu"
+          }
+        },
+        {
+          "id": "fete-11",
+          "title": {
+            "fr-FR": "XI. Pour le samedi avant le dimanche de la Passion. — Sur la mort et les souffrances du Sauveur"
+          }
+        },
+        {
+          "id": "fete-12",
+          "title": {
+            "fr-FR": "XII. Pour la fête de la Pentecôte. — Sur les dispositions qu’il faut avoir pour attirer en soi l’Esprit-Saint"
+          }
+        },
+        {
+          "id": "fete-13",
+          "title": {
+            "fr-FR": "XIII. Grand désir de la Sainte de recevoir l’Esprit-Saint, sa résolution à conduire les âmes sans écouter les plaintes de la nature"
+          }
+        },
+        {
+          "id": "fete-14",
+          "title": {
+            "fr-FR": "XIV. Pour la veille de la Très-Sainte Trinité. — Sur l’obligation de ruiner la nature pour faire régner la grâce"
+          }
+        },
+        {
+          "id": "fete-15",
+          "title": {
+            "fr-FR": "XV. Pour la fête de saint Jean-Baptiste. — Sur les vertus qu’il pratiqua au désert"
+          }
+        },
+        {
+          "id": "fete-16",
+          "title": {
+            "fr-FR": "XVI. Pour la fête de la Visitation. — Sur l’obéissance et la modestie de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "fete-17",
+          "title": {
+            "fr-FR": "XVII. Pour la fête de la Nativité de Notre-Dame. — Sur les vertus qui ont brillé en sa naissance"
+          }
+        },
+        {
+          "id": "fete-18",
+          "title": {
+            "fr-FR": "XVIII. Pour le temps des retraites. — Sur le bénéfice de la vocation"
+          }
+        },
+        {
+          "id": "fete-19",
+          "title": {
+            "fr-FR": "XIX. Pour le temps des retraites. — Sur les qualités que doit avoir notre dilection pour être selon Dieu"
+          }
+        },
+        {
+          "id": "fete-20",
+          "title": {
+            "fr-FR": "XX. Pour le temps des retraites. — Sur l’importance de renouveler nos saints vœux en esprit de foi et de générosité"
+          }
+        },
+        {
+          "id": "fete-21",
+          "title": {
+            "fr-FR": "XXI. Avant la petite retraite de la Présentation"
+          }
+        },
+        {
+          "id": "fete-22",
+          "title": {
+            "fr-FR": "XXII. Après le renouvellement de nos saints"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-entretiens",
+      "title": {
+        "fr-FR": "Entretiens faits à la récréation et aux assemblées de la communauté"
+      },
+      "children": [
+        {
+          "id": "entretien-01",
+          "title": {
+            "fr-FR": "I. Sur la réforme de l’âme"
+          }
+        },
+        {
+          "id": "entretien-02",
+          "title": {
+            "fr-FR": "II. Sur les causes qui mettent obstacle à la perfection"
+          }
+        },
+        {
+          "id": "entretien-03",
+          "title": {
+            "fr-FR": "III. Sur les qualités que doit avoir le vrai zèle; et sur les fondements de la solide vertu"
+          }
+        },
+        {
+          "id": "entretien-04",
+          "title": {
+            "fr-FR": "IV. Sur la défiance de soi-même et la confiance en Dieu"
+          }
+        },
+        {
+          "id": "entretien-05",
+          "title": {
+            "fr-FR": "V. Sur la nécessité de se faire violence et de vivre conformément aux lumières de la foi"
+          }
+        },
+        {
+          "id": "entretien-06",
+          "title": {
+            "fr-FR": "VI. Sur les passions et la façon de les combattre"
+          }
+        },
+        {
+          "id": "entretien-07",
+          "title": {
+            "fr-FR": "VII. Sur la mortification des inclinations naturelles"
+          }
+        },
+        {
+          "id": "entretien-08",
+          "title": {
+            "fr-FR": "VIII. Sur l’amour-propre et les dommages qu’il fait en l’âme"
+          }
+        },
+        {
+          "id": "entretien-09",
+          "title": {
+            "fr-FR": "IX. Sur la générosité à se relet/er de ses fautes"
+          }
+        },
+        {
+          "id": "entretien-10",
+          "title": {
+            "fr-FR": "X. Sur la vraie vie surnaturelle et le doux support du prochain"
+          }
+        },
+        {
+          "id": "entretien-11",
+          "title": {
+            "fr-FR": "XI. Sur la charité et la pureté d’intention"
+          }
+        },
+        {
+          "id": "entretien-12",
+          "title": {
+            "fr-FR": "XII. Sur la médisance, les jugements téméraires et la confiance en Dieu"
+          }
+        },
+        {
+          "id": "entretien-13",
+          "title": {
+            "fr-FR": "XIII. Sur le danger de la flatterie et les avantages de la sincérité"
+          }
+        },
+        {
+          "id": "entretien-14",
+          "title": {
+            "fr-FR": "XIV. Sur l’obéissance aveugle"
+          }
+        },
+        {
+          "id": "entretien-15",
+          "title": {
+            "fr-FR": "XV. Sur l’obéissance prompte"
+          }
+        },
+        {
+          "id": "entretien-16",
+          "title": {
+            "fr-FR": "XVI. Sur l’humilité et la générosité"
+          }
+        },
+        {
+          "id": "entretien-17",
+          "title": {
+            "fr-FR": "XVII. Sur l’humilité et la solide vertu"
+          }
+        },
+        {
+          "id": "entretien-18",
+          "title": {
+            "fr-FR": "XVIII. Sur la soumission à la volonté de Dieu et le respect mutuel"
+          }
+        },
+        {
+          "id": "entretien-19",
+          "title": {
+            "fr-FR": "XIX. Sur l’amour de l’abjection"
+          }
+        },
+        {
+          "id": "entretien-20",
+          "title": {
+            "fr-FR": "XX. Sur la présence de Dieu et la pensée des vérités éternelles"
+          }
+        },
+        {
+          "id": "entretien-21",
+          "title": {
+            "fr-FR": "XXI. Sur la vaillance spirituelle , les effets du pur amour dans l’âme religieuse, et le danger de recevoir des sujets à caractère lâche et négligent"
+          }
+        },
+        {
+          "id": "entretien-22",
+          "title": {
+            "fr-FR": "XXII. Sur les avantages et les dangers d’un naturel complaisant, et sur le bonheur d’être employé aux offices bas"
+          }
+        },
+        {
+          "id": "entretien-23",
+          "title": {
+            "fr-FR": "XXIII. De la manière de s’abaisser par humilité et de s’élever par amour, et de la pureté d’intention"
+          }
+        },
+        {
+          "id": "entretien-24",
+          "title": {
+            "fr-FR": "XXIV. Sur la mort à soi-même et l’humble gloire des Filles de la Visi- , tation"
+          }
+        },
+        {
+          "id": "entretien-25",
+          "title": {
+            "fr-FR": "XXV. Sur la tranquillité intérieure et la mortification"
+          }
+        },
+        {
+          "id": "entretien-26",
+          "title": {
+            "fr-FR": "XXVI. Sur la détermination que doit avoir l’âme désireuse de progresser en la vie spirituelle"
+          }
+        },
+        {
+          "id": "entretien-27",
+          "title": {
+            "fr-FR": "XXVII. Sur la simplicité et l’obéissance"
+          }
+        },
+        {
+          "id": "entretien-28",
+          "title": {
+            "fr-FR": "XXVIII. Sur la simplicité, la pauvreté d’esprit, la douceur de cœur, et sur l’acquisition d’une vertu solide"
+          }
+        },
+        {
+          "id": "entretien-29",
+          "title": {
+            "fr-FR": "XXIX. Sur la parfaite simplicité"
+          }
+        },
+        {
+          "id": "entretien-30",
+          "title": {
+            "fr-FR": "XXX. Sur l’excellence de la prière"
+          }
+        },
+        {
+          "id": "entretien-31",
+          "title": {
+            "fr-FR": "XXXI. Sur le recueillement et le parfait abandonnement de soi-même à Dieu"
+          }
+        },
+        {
+          "id": "entretien-32",
+          "title": {
+            "fr-FR": "XXXII. Sur trois manières de faire l’oraison et sur la simplicité"
+          }
+        },
+        {
+          "id": "entretien-33",
+          "title": {
+            "fr-FR": "XXXIII. Sur l’oraison et la mortification"
+          }
+        },
+        {
+          "id": "entretien-34",
+          "title": {
+            "fr-FR": "XXXIV. Sur la Passion de Notre-Seigneur et l’oraison"
+          }
+        },
+        {
+          "id": "entretien-35",
+          "title": {
+            "fr-FR": "XXXV. Sur la patience à supporter les délaissements à l’oraison"
+          }
+        },
+        {
+          "id": "entretien-36",
+          "title": {
+            "fr-FR": "XXXVI. Sur la fidélité à suivre l’attrait de la grâce pendant l’oraison"
+          }
+        },
+        {
+          "id": "entretien-37",
+          "title": {
+            "fr-FR": "XXXVII. Sur la perte de soi-même en Dieu"
+          }
+        },
+        {
+          "id": "entretien-38",
+          "title": {
+            "fr-FR": "XXXVIII. Sur la gloire et le bonheur de l’âme religieuse"
+          }
+        },
+        {
+          "id": "entretien-39",
+          "title": {
+            "fr-FR": "XXXIX. Sur la perfection de notre Institut et sur la fidélité à la grâce"
+          }
+        },
+        {
+          "id": "entretien-40",
+          "title": {
+            "fr-FR": "XL. Sur l’esprit d’humilité, caractère distinctif de notre Institut"
+          }
+        },
+        {
+          "id": "entretien-41",
+          "title": {
+            "fr-FR": "XLI. Sur l’abandon à la Providence, autre caractère distinctif de l’esprit de notre Institut"
+          }
+        },
+        {
+          "id": "entretien-42",
+          "title": {
+            "fr-FR": "XLII. Sur Irois moyens propres à maintenir l’esprit de notre Institut : l’union avec Dieu, le support et la correction fraternelle"
+          }
+        },
+        {
+          "id": "entretien-43",
+          "title": {
+            "fr-FR": "XLIII. Sur le détachement des créatures, et sur le zèle pour la perfection de noire Institut"
+          }
+        },
+        {
+          "id": "entretien-44",
+          "title": {
+            "fr-FR": "XLIV. Sur l’esprit de nos Règles, sur trois points qui doivent servir de fondements à la vertu des novices, et sur le profit à tirer de ses manquements"
+          }
+        },
+        {
+          "id": "entretien-45",
+          "title": {
+            "fr-FR": "XLV. Sur le document de notre Bienheureux Père : Ne demandez rien, ne refusez rien, et sur la reddition de compte"
+          }
+        },
+        {
+          "id": "entretien-46",
+          "title": {
+            "fr-FR": "XLVI. Sur la reddition de compte et les avertissements"
+          }
+        },
+        {
+          "id": "entretien-47",
+          "title": {
+            "fr-FR": "XLVII. Sur la reddition de compte, et sur l’obligation des supérieures de garder le secret"
+          }
+        },
+        {
+          "id": "entretien-48",
+          "title": {
+            "fr-FR": "XLVIII. Sur la confiance envers la supérieure et la nécessité de faire les avertissements"
+          }
+        },
+        {
+          "id": "entretien-49",
+          "title": {
+            "fr-FR": "XLIX. Sur la confession et sur les avertissements"
+          }
+        },
+        {
+          "id": "entretien-50",
+          "title": {
+            "fr-FR": "L. Sur les dispositions à la retraite, la mortification des passions et la confiance en Dieu"
+          }
+        },
+        {
+          "id": "entretien-51",
+          "title": {
+            "fr-FR": "LI. Sur la retraite et la confession annuelle"
+          }
+        },
+        {
+          "id": "entretien-52",
+          "title": {
+            "fr-FR": "LII. Sur la fidélité à accomplir les révolutions de retraite, et surtout à éviter les plus petites fautes volontaires"
+          }
+        },
+        {
+          "id": "entretien-53",
+          "title": {
+            "fr-FR": "LIII. Sur le principal fruit que doit produire la retraite : Faire ses exercices spirituels avec une plus grande attention à Dieu"
+          }
+        },
+        {
+          "id": "entretien-54",
+          "title": {
+            "fr-FR": "LIV. Sur la façon d’entretenir son aide"
+          }
+        },
+        {
+          "id": "entretien-55",
+          "title": {
+            "fr-FR": "LV. Sur les motifs qui peuvent dispenser du jeune"
+          }
+        },
+        {
+          "id": "entretien-56",
+          "title": {
+            "fr-FR": "LVI. Sur la fidélité à suivre le directoire de l’Office"
+          }
+        },
+        {
+          "id": "entretien-57",
+          "title": {
+            "fr-FR": "LVII. Sur les élections des supérieures"
+          }
+        },
+        {
+          "id": "entretien-58",
+          "title": {
+            "fr-FR": "LVIII. Sur la réception des sujets"
+          }
+        },
+        {
+          "id": "entretien-59",
+          "title": {
+            "fr-FR": "LIX. Lumière de la Sainte sur ces paroles : la Congrégation est principalement pour les infirmes"
+          }
+        },
+        {
+          "id": "entretien-60",
+          "title": {
+            "fr-FR": "LX. Sur l’indifférence qu’il faut avoir pour être envoyée en fondation"
+          }
+        },
+        {
+          "id": "entretien-61",
+          "title": {
+            "fr-FR": "LXI. {Vendant une maladie de la Sainte.) Pour défendre aux Sœurs de parler en particulier et hors de la chambre de récréation"
+          }
+        },
+        {
+          "id": "entretien-62",
+          "title": {
+            "fr-FR": "LXII. (Fait à ?ws Sieurs de N ) Sur l’oraison , la tranquillité de l’âme, et la soumission à la volonté de Dieu"
+          }
+        },
+        {
+          "id": "entretien-63",
+          "title": {
+            "fr-FR": "LXIII. {Fait à nos Sœurs de N.) Sur la nécessité et les avantages du dépouillement extérieur et intérieur"
+          }
+        },
+        {
+          "id": "entretien-64",
+          "title": {
+            "fr-FR": "LXIV. (Fait à nos Sœurs de N.) Sur la pureté d’intention , la simplicité, le changement des charges, etc"
+          }
+        },
+        {
+          "id": "entretien-65",
+          "title": {
+            "fr-FR": "LXV. (Fait à nos Sœurs de N.) Sur l’union entre les monastères, l’estime du prochain, la simplicité à suivre la direction de la supérieure, etc"
+          }
+        },
+        {
+          "id": "entretien-66",
+          "title": {
+            "fr-FR": "LXVI. (Fait à nos Sœurs de Lyon) Sur la reddition de compte ; explications de ces paroles : Vivre dans une pureté immaculée et angélique, et sur l’amour de Dieu et du prochain, etc"
+          }
+        },
+        {
+          "id": "entretien-67",
+          "title": {
+            "fr-FR": "LXVII. (Fait à nos Sœurs du deuxième monastère d’Annecy.) Sur l’exactitude à assister en chœur, à demander les permissions aux obéissances"
+          }
+        },
+        {
+          "id": "entretien-68",
+          "title": {
+            "fr-FR": "LXVIII. II. (Fait à nos Sœurs de Moulins et de Nevers.) Sur la lecture des Règles . le profit à retirer de la maladie, la liberté qu’a la supérieure de limiter le nombre des jours de retraite, et sur plusieurs points d’observance"
+          }
+        },
+        {
+          "id": "entretien-69",
+          "title": {
+            "fr-FR": "LXIX. (Fait à nos Sœurs de Dijon.) Sur l’abandon à la Providence, la mortification, la générosité, et l’amour de l’abjection"
+          }
+        },
+        {
+          "id": "entretien-70",
+          "title": {
+            "fr-FR": "LXX. (Fait à nos Sœurs d’Aulun, en 1626.) Sur le pur amour et les fruits qu’il faut retirer de la sainte Commu-nion, etc"
+          }
+        },
+        {
+          "id": "entretien-71",
+          "title": {
+            "fr-FR": "LXXI. (Fait à nos Sœurs de N., en 1635.) Sur la prudence dans les communications de conscience, l’assiduité aux exercices de la communauté, et plusieurs points d’observance"
+          }
+        },
+        {
+          "id": "entretien-72",
+          "title": {
+            "fr-FR": "LXXII. (Fait à nos Sœurs du premier monastère de Paris, de 1622-1641.) Sur quatre maximes de notre bienheureux Père sur l’esprit de l’Institut , l’amour de la bassesse, etc., etc"
+          }
+        },
+        {
+          "id": "entretien-73",
+          "title": {
+            "fr-FR": "LXXIII. (Fait à nos Sœurs de Nevers, 30 novembre 1641.) Sur trois vertus fondamentales : l’obéissance, l’humilité, et la dépendance de Dieu"
+          }
+        },
+        {
+          "id": "entretien-74",
+          "title": {
+            "fr-FR": "LXXIV. Sur la dévotion à notre Bienheureux Père"
+          }
+        },
+        {
+          "id": "fragments-entretiens",
+          "title": {
+            "fr-FR": "Fragments d’entretiens faits au premier monastère d’Annecy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-instr",
+      "title": {
+        "fr-FR": "Instructions faites au noviciat"
+      },
+      "children": [
+        {
+          "id": "instr-01",
+          "title": {
+            "fr-FR": "I. .Sur la nécessité de profiter du noviciat pour établir dans l’âme les fondements d’une vertu solide"
+          }
+        },
+        {
+          "id": "instr-02",
+          "title": {
+            "fr-FR": "II. Sur la fin qu’il faut avoir en entrant en religion, qui est de se désunir de soi-même pour s’unir plus parfaitement à Dieu"
+          }
+        },
+        {
+          "id": "instr-03",
+          "title": {
+            "fr-FR": "III. Sur l’estime qu’il faut avoir de la vocation religieuse, et la fidélité à pratiquer les devoirs qu’elle impose"
+          }
+        },
+        {
+          "id": "instr-04",
+          "title": {
+            "fr-FR": "IV. Sur ces paroles de la constitution de la directrice : Rappeler toutes ses forces au service de l’Époux céleste, etc"
+          }
+        },
+        {
+          "id": "instr-05",
+          "title": {
+            "fr-FR": "V. Sur ces paroles de la constitution de la directrice : Elle leur apprendra à ne point se confier en elles-mêmes, ele"
+          }
+        },
+        {
+          "id": "instr-06",
+          "title": {
+            "fr-FR": "VI. Sur la confiance que nous devons avoir en l’infinie Sagesse, bonté et toute-puissance de Dieu"
+          }
+        },
+        {
+          "id": "instr-07",
+          "title": {
+            "fr-FR": "VII. Sur la méfiance de soi-même, la confiance en Dieu, la mortification et la fidélité à l’oraison"
+          }
+        },
+        {
+          "id": "instr-08",
+          "title": {
+            "fr-FR": "VIII. Sur l’humilité, l’obéissance el l’oraison"
+          }
+        },
+        {
+          "id": "instr-09",
+          "title": {
+            "fr-FR": "IX. Sur les vertus à pratiquer pour être vraies Keligieuses , et sur le recours continuel qu’il faut avoir à Notre-Seigneur pour vaincre les tentations"
+          }
+        },
+        {
+          "id": "instr-10",
+          "title": {
+            "fr-FR": "X. Sur l’amour de Dieu et du prochain, et l’attention à éviter toute curiosité sur la conduite d’autrui"
+          }
+        },
+        {
+          "id": "instr-11",
+          "title": {
+            "fr-FR": "XI. Sur les dangers de la tiédeur et des mauvaises habitudes"
+          }
+        },
+        {
+          "id": "instr-12",
+          "title": {
+            "fr-FR": "XII. Suite du même sujet"
+          }
+        },
+        {
+          "id": "instr-13",
+          "title": {
+            "fr-FR": "XIII. Sur le profit que l’on peut retirer de ses fautes, et avec quel esprit de foi il faut voir la volonté de Dieu en tout ce qui arrive"
+          }
+        },
+        {
+          "id": "instr-14",
+          "title": {
+            "fr-FR": "XIV. Sur les moyens qui doivent déterminer l’âme religieuse de tendre à la perfection"
+          }
+        },
+        {
+          "id": "instr-15",
+          "title": {
+            "fr-FR": "XV. Sur l’obligation de mortifier les sens extérieurs et encore plus les passions intérieures"
+          }
+        },
+        {
+          "id": "instr-16",
+          "title": {
+            "fr-FR": "XVI. Sur ces paroles de Notre-Seigneur : Si quelqu’un veut venir après moi, qu’il se renonce lui-même, etc"
+          }
+        },
+        {
+          "id": "instr-17",
+          "title": {
+            "fr-FR": "XVII. Suite du même sujet"
+          }
+        },
+        {
+          "id": "instr-18",
+          "title": {
+            "fr-FR": "XVIII. I. Sur ces paroles de Notre-Seigneur : Le royaume des deux souffre violence, etc"
+          }
+        },
+        {
+          "id": "instr-19",
+          "title": {
+            "fr-FR": "XIX. Sur le mal qu’apporte à l’âme une crainte servile , et le bien qu’on trouve à servir Dieu avec un cœur pur, simple, large et confiant"
+          }
+        },
+        {
+          "id": "instr-20",
+          "title": {
+            "fr-FR": "XX. Sur l’indifférence à recevoir des consolations ou des sécheresses en l’oraison"
+          }
+        },
+        {
+          "id": "instr-21",
+          "title": {
+            "fr-FR": "XXI. Sur la pureté de cœur et l’importance de s’affectionner à l’oraison"
+          }
+        },
+        {
+          "id": "instr-22",
+          "title": {
+            "fr-FR": "XXII. Sur ces paroles : Rien ne peut profiter à l’âme sans l’amour et sans l’obéissance"
+          }
+        },
+        {
+          "id": "instr-23",
+          "title": {
+            "fr-FR": "XXIII. Sur la manière de tout voir venir de Dieu et de toutes choses aller à Dieu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "defis",
+      "title": {
+        "fr-FR": "Défis de notre bienheureuse Mère donnés aux Sœurs d’Annecy"
+      }
+    }
+  ]
+}
