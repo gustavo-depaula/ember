@@ -1,0 +1,99 @@
+{
+  "id": "newman-present-position-of-catholics",
+  "cover": "classic",
+  "name": {
+    "en-US": "Lectures on the Present Position of Catholics in England",
+    "pt-BR": "Conferências sobre a Posição Atual dos Católicos na Inglaterra"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Nine lectures Newman delivered in Birmingham in 1851, after the restoration of the Catholic hierarchy provoked a storm of anti-Catholic feeling. He examines the Protestant view of the Catholic Church: how tradition sustains it, how it rests on fable, how true testimony is insufficient, how it is illogical and held through prejudice, and he closes with the duties of Catholics toward it.",
+    "pt-BR": "Nove conferências que Newman proferiu em Birmingham em 1851, depois que a restauração da hierarquia católica provocou uma tempestade de sentimento anticatólico. Ele examina a visão protestante da Igreja Católica: como a tradição a sustenta, como se apoia na fábula, como o testemunho verdadeiro não lhe basta, como é ilógica e mantida por preconceito, e conclui com os deveres dos católicos para com ela."
+  },
+  "composed": "1851",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/present-position-of-catholics",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition; Newman Reader)",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/england/index.html",
+      "edition": "Lectures on the Present Position of Catholics in England addressed to the Brothers of the Oratory (London: Burns and Lambert, 1851; Longmans, uniform edition), as transcribed by the Newman Reader.",
+      "description": "10 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes.  Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lecture-1",
+      "title": {
+        "en-US": "Lecture 1. Protestant View of the Catholic Church"
+      }
+    },
+    {
+      "id": "lecture-2",
+      "title": {
+        "en-US": "Lecture 2. Tradition the Sustaining Power of the Protestant View"
+      }
+    },
+    {
+      "id": "lecture-3",
+      "title": {
+        "en-US": "Lecture 3. Fable the Basis of the Protestant View"
+      }
+    },
+    {
+      "id": "lecture-4",
+      "title": {
+        "en-US": "Lecture 4. True Testimony Insufficient for the Protestant View"
+      }
+    },
+    {
+      "id": "lecture-5",
+      "title": {
+        "en-US": "Lecture 5. Logical Inconsistency of the Protestant View"
+      }
+    },
+    {
+      "id": "lecture-6",
+      "title": {
+        "en-US": "Lecture 6. Prejudice the Life of the Protestant View"
+      }
+    },
+    {
+      "id": "lecture-7",
+      "title": {
+        "en-US": "Lecture 7. Assumed Principles the Intellectual Ground of the Protestant View"
+      }
+    },
+    {
+      "id": "lecture-8",
+      "title": {
+        "en-US": "Lecture 8. Ignorance Concerning Catholics the Protection of the Protestant View"
+      }
+    },
+    {
+      "id": "lecture-9",
+      "title": {
+        "en-US": "Lecture 9. Duties of Catholics Towards the Protestant View"
+      }
+    },
+    {
+      "id": "notes",
+      "title": {
+        "en-US": "Notes"
+      }
+    }
+  ]
+}
