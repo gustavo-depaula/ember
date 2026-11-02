@@ -1,0 +1,173 @@
+{
+  "id": "luis-perfecta-casada",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "La perfecta casada",
+    "en-US": "The Perfect Wife",
+    "pt-BR": "A perfeita casada"
+  },
+  "description": {
+    "es-ES": "Comentario a Proverbios 31 (¿Quién hallará mujer de valor?), dedicado a doña María Varela Osorio con ocasión de su boda: la introducción sobre el estado del matrimonio y veintiún capítulos sobre el gobierno de la casa, la fidelidad, el trabajo, la caridad con los pobres y el temor de Dios. Salamanca, 1583.",
+    "en-US": "A commentary on Proverbs 31 (Who shall find a valiant woman?), addressed to Doña María Varela Osorio on her marriage: an introduction on the state of matrimony and twenty-one chapters on the governing of the household, fidelity, work, charity to the poor and the fear of God. Salamanca, 1583.",
+    "pt-BR": "Comentário a Provérbios 31 (Quem encontrará uma mulher forte?), dedicado a dona María Varela Osorio por ocasião do seu casamento: uma introdução sobre o estado do matrimônio e vinte e um capítulos sobre o governo da casa, a fidelidade, o trabalho, a caridade para com os pobres e o temor de Deus. Salamanca, 1583."
+  },
+  "composed": "1583",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "luis-de-leon/perfecta-casada",
+  "editions": {
+    "es-ES": {
+      "editor": "Montaner y Simón, Barcelona (edición ilustrada)",
+      "year": 1898
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.gutenberg.org/ebooks/61573",
+      "edition": "La perfecta casada, Barcelona: Montaner y Simón, 1898, as transcribed and proofread by Project Gutenberg (#61573); original spelling kept, the editor's footnotes at the end of the book kept as footnotes.",
+      "description": "Introduction and 21 chapters; second witness es.wikisource (La perfecta casada).",
+      "tier": "A"
+    }
+  ],
+  "author": {
+    "es-ES": "Fray Luis de León",
+    "en-US": "Fray Luis de León",
+    "pt-BR": "Frei Luís de León"
+  },
+  "toc": [
+    {
+      "id": "introduccion",
+      "title": {
+        "es-ES": "En que se habla de las leyes y condiciones del estado del matrimonio, y de la estrecha obligación que corre á la casada de emplearse en el cumplimiento dellas."
+      }
+    },
+    {
+      "id": "cap-01",
+      "title": {
+        "es-ES": "Algunas advertencias del autor para entrar á tratar de la materia."
+      }
+    },
+    {
+      "id": "cap-02",
+      "title": {
+        "es-ES": "Cuánto es menester para que una mujer sea perfecta, y lo que debe procurarlo ser la que es casada."
+      }
+    },
+    {
+      "id": "cap-03",
+      "title": {
+        "es-ES": "Qué confianza ha de engendrar la buena mujer en el pecho del marido, y de cómo pertenece al oficio de la casada la guarda de la hacienda, que consiste en que no sea gastadora."
+      }
+    },
+    {
+      "id": "cap-04",
+      "title": {
+        "es-ES": "De la obligación que tienen los casados de amarse y descansarse en los trabajos mutuamente."
+      }
+    },
+    {
+      "id": "cap-05",
+      "title": {
+        "es-ES": "Por qué se vale el Espíritu Santo de la mujer de un labrador para dechado de las perfectas casadas; y cómo todas ellas, por más ricas y nobles que sean, deben trabajar y ser hacendosas."
+      }
+    },
+    {
+      "id": "cap-06",
+      "title": {
+        "es-ES": "Declárase qué es ser mujer casera, y del modo que debe acrescentar la hacienda."
+      }
+    },
+    {
+      "id": "cap-07",
+      "title": {
+        "es-ES": "Pondérase la obligación de madrugar en las casadas, y se persuade á ello con una hermosa descripción de las delicias que suele traer consigo la mañana. Avísase también que el levantarse temprano de la cama ha de ser para arreglar á los criados y proveer á la familia."
+      }
+    },
+    {
+      "id": "cap-08",
+      "title": {
+        "es-ES": "La perfecta casada no sólo ha de cuidar de abastecer su casa y conservar lo que el marido adquiere, sino que ha de adelantar también la hacienda."
+      }
+    },
+    {
+      "id": "cap-09",
+      "title": {
+        "es-ES": "Cuánto debe evitar la mujer buena el ocio, y de los vicios y malas resultas que de él nacen."
+      }
+    },
+    {
+      "id": "cap-10",
+      "title": {
+        "es-ES": "Ha de ser la perfecta casada piadosa con los pobres y necesitados; pero debe ir con cuidado en ver á quién admite en casa y favorece."
+      }
+    },
+    {
+      "id": "cap-11",
+      "title": {
+        "es-ES": "Del buen trato y apacible condición con que se deben portar las señoras con sus sirvientas y criadas."
+      }
+    },
+    {
+      "id": "cap-12",
+      "title": {
+        "es-ES": "De cómo el traje y la manera de vestir de la perfecta casada ha de ser conforme á lo que pide la honestidad y la razón. Aféase el uso de los afeites, y condénanse las galas y atavíos, no sólo con razones tomadas de la misma naturaleza de las cosas, sino también con dichos y sentencias de los Padres de la Iglesia y autoridades de la Sagrada Escritura."
+      }
+    },
+    {
+      "id": "cap-13",
+      "title": {
+        "es-ES": "La buena mujer ha de ser dicha, gloria, feliz suerte y bendición de su marido."
+      }
+    },
+    {
+      "id": "cap-14",
+      "title": {
+        "es-ES": "La industria y cuidado de la buena casada han de llegar, no sólo á lo que basta en su casa, sino aun á lo que sobra."
+      }
+    },
+    {
+      "id": "cap-15",
+      "title": {
+        "es-ES": "De la templanza y medio que ha de observar la perfecta mujer en su condición y trato."
+      }
+    },
+    {
+      "id": "cap-16",
+      "title": {
+        "es-ES": "Cuánto importa que las mujeres no hablen mucho y que sean apacibles y de condición suave."
+      }
+    },
+    {
+      "id": "cap-17",
+      "title": {
+        "es-ES": "No han de ser las buenas mujeres callejeras, visitadoras y vagabundas, sino que han de amar mucho el retiro y se han de acostumbrar á estarse en casa."
+      }
+    },
+    {
+      "id": "cap-18",
+      "title": {
+        "es-ES": "De cómo pertenece al oficio de la perfecta casada hacer bueno al marido, y de la obligación que tiene la que es madre de criar por sí á los hijos."
+      }
+    },
+    {
+      "id": "cap-19",
+      "title": {
+        "es-ES": "Qué alabanzas merece la perfecta casada, y cómo para serlo es menester que esté adornada de muchas perfecciones."
+      }
+    },
+    {
+      "id": "cap-20",
+      "title": {
+        "es-ES": "De cómo la mujer que es buena ha de cuidar de ir limpia y aseada para mostrar así su ánimo compuesto y concertado, que ha de procurar adornar principalmente con el temor santo de Dios."
+      }
+    },
+    {
+      "id": "cap-21",
+      "title": {
+        "es-ES": "Del premio y galardón que tiene Dios aparejado para la perfecta casada, no sólo en la otra vida, sino aun en este mundo."
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# La buena mujer ha de ser dicha, gloria, feliz suerte y bendición de su marido.
+
+> *Señalado en las puertas* *su marido, cuando se asentare* *con los gobernadores del pueblo.*
+
+> PROVERBIOS
+
+En las puertas de la ciudad eran antiguamente las plazas, y en las plazas estaban los tribunales y asientos de los jueces y de los que se juntaban para consultar sobre el buen gobierno y regimiento del pueblo. Pues dice que en las plazas y lugares públicos, y adonde quiera que se hiciere junta de hombres principales, el hombre cuya mujer fuere cual es la que aquí se dice, será por ella conocido y señalado y preciado entre todos. Y dice esto Salomón, ó en Salomón el Espíritu Santo, no sólo para mostrar cuánto vale la virtud de la buena, pues da honra á sí y ennoblece á su marido, sino para enseñarle en esta virtud de la perfecta casada, de que vamos hablando, que es lo sumo della, y la raya hasta donde ha de llegar, que es el ser corona y luz y bendición y alteza de su marido; pues es así que todos conocen y cantan y reverencian, y tienen por dichoso y bienaventurado al que le ha cabido esta buena suerte; lo uno, por haberle cabido, porque no hay joya ni posesión tan preciada, ni envidiada, como la buena mujer; y lo otro, por haber merecido que le cupiese; porque, así como este bien es precioso y raro, y don propiamente dado de Dios, así no le alcanzan de Dios sino los que, temiéndole y sirviéndole, se lo merecen con señalada virtud. Así lo testifica el mismo Dios en el *Eclesiástico*[^119]: «Suerte buena es la mujer buena, y es parte de buen premio de los que sirven á Dios, y será dada al hombre por sus buenas obras.» De arte que el que tiene buena mujer es estimado por dichoso en tenerla, y por virtuoso en haberla merecido tener. De donde se entiende que el carecer deste bien, en muchos es por su culpa dellos. Porque á la verdad, el hombre vicioso y distraído y de *aviesa*[^120] y revesada condición, que juega su hacienda, y es un león en su casa, y sigue á rienda suelta la deshonestidad, no espere, ni quiera tener buena mujer; porque ni la merece, ni Dios la quiere á ella tan mal, que la quiera juntar á compañía tan mala, y porque él mismo con su mal ejemplo y vida desvariada la estraga y corrompe. Pero torna Salomón á lo casero de la mujer, y dice:
+
+[^119]: Ecclesiast., cap. 26, v. 3.
+
+[^120]: Mal inclinada.
