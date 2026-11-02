@@ -1,0 +1,5 @@
+# The.xvi. chapyter
+
+ANd an other parte of this dyuisyon hath […]ysen by dyuersyties of opynyons, that haue ben vpon the authoryties, powers and […] on of spyrytuall men amonge theym self. And vpon these dyuysyons […]ome laye men haue in tyme paste fauored the […]ne […] / and some the other: wherby the people haue greatly be inquieted.
+
+Dyuerse opynyons vpon powers, authoryties, and iurysdyc[…]yōs of spyrytuall men amonge them selfe, there happeneth I thynke nowe & then to ryse, whyle in suche cases eyther par[…]e hath his opynyō vpō his owne syde. But of any great inquyetacyon that y• people hath had by any suche dyuysyon rysen wythin thys realme / or of any lay men beryng theyr fauour some to the tone parte and some to the tother, I wene the peple of this realme that fe[…]t yt haue forge ten yt, yf any suche were yt is so longe a go. And surely my self remēber none, nor I trow no man elles for the […]yme of this.xx. yere / wythin whyche tyme or tenne fewer, all thys gere is begōne wherof he maketh hys dyuysyon. And therfore this pyece of his is to my […]lynge very coulde.

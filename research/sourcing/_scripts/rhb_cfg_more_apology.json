@@ -1,0 +1,21 @@
+{
+ "id": "more-apology",
+ "dir": "more-opera-omnia/apology",
+ "slug": "apology",
+ "work": "more/apology",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07692.xml",
+ "name": "The Apology of Sir Thomas More",
+ "name_pt": "A Apologia de Sir Thomas More",
+ "desc": "More's Apology of 1533, his defence of his own conduct and writings against the charges of the Saint-Germain and others, including his handling of heretics as Chancellor.",
+ "desc_pt": "A Apologia de More (1533), defesa de sua conduta e de seus escritos, incluindo o trato dos herejes quando Chanceler.",
+ "composed": 1533,
+ "editor": "Thomas More (London: William Rastell, 1533)",
+ "year": 1533,
+ "url": "https://github.com/textcreationpartnership/A07692",
+ "edition": "The apologye of syr Thomas More knyght (London: 1533), EEBO-TCP A07692.",
+ "front": true,
+ "parts": true
+}
