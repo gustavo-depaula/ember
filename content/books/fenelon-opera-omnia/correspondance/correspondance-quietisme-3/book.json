@@ -1,0 +1,124 @@
+{
+  "id": "fenelon-correspondance-quietisme-3",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance sur l’affaire du quiétisme III et appendice (tome 10)",
+    "en-US": "Correspondence on the Quietism Affair III and Appendix (volume 10)",
+    "pt-BR": "Correspondência sobre o caso do quietismo III e apêndice (tomo 10)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Fin de la sixième section de la correspondance (après la condamnation de 1699) et son appendice (tome 10 de l’édition). Les lettres adressées à Fénelon sont imprimées avec les siennes là où l’édition les place.",
+    "en-US": "End of the sixth section of the correspondence (after the condemnation of 1699) and its appendix (volume 10 of the edition). Letters written to Fénelon are printed with his own where the edition places them.",
+    "pt-BR": "Fim da sexta seção da correspondência (após a condenação de 1699) e seu apêndice (tomo 10 da edição). As cartas escritas a Fénelon são impressas com as dele onde a edição as coloca."
+  },
+  "composed": "1699–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/correspondance-quietisme-3",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 10, tome 10, section VI (fin) et appendice; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-correspondance",
+      "title": {
+        "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10)"
+      },
+      "children": [
+        {
+          "id": "01-correspondance-01",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10), partie 1"
+          }
+        },
+        {
+          "id": "01-correspondance-02",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10), partie 2"
+          }
+        },
+        {
+          "id": "01-correspondance-03",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10), partie 3"
+          }
+        },
+        {
+          "id": "01-correspondance-04",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10), partie 4"
+          }
+        },
+        {
+          "id": "01-correspondance-05",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10), partie 5"
+          }
+        },
+        {
+          "id": "01-correspondance-06",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10), partie 6"
+          }
+        },
+        {
+          "id": "01-correspondance-07",
+          "title": {
+            "fr-FR": "Correspondance sur l’affaire du quiétisme (tome 10), partie 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-appendice",
+      "title": {
+        "fr-FR": "Appendice de la sixième section"
+      },
+      "children": [
+        {
+          "id": "02-appendice-01",
+          "title": {
+            "fr-FR": "Appendice de la sixième section, partie 1"
+          }
+        },
+        {
+          "id": "02-appendice-02",
+          "title": {
+            "fr-FR": "Appendice de la sixième section, partie 2"
+          }
+        },
+        {
+          "id": "02-appendice-03",
+          "title": {
+            "fr-FR": "Appendice de la sixième section, partie 3"
+          }
+        },
+        {
+          "id": "02-appendice-04",
+          "title": {
+            "fr-FR": "Appendice de la sixième section, partie 4"
+          }
+        }
+      ]
+    }
+  ]
+}
