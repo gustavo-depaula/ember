@@ -1,0 +1,19 @@
+{
+ "id": "fisher-month-mind-lady-margaret",
+ "dir": "fisher-opera-omnia/month-mind-lady-margaret",
+ "slug": "month-mind-lady-margaret",
+ "work": "fisher/month-mind-lady-margaret",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00766.xml",
+ "name": "Sermon at the Month's Mind of Lady Margaret Beaufort",
+ "name_pt": "Sermão no Mês de Memória de Lady Margaret Beaufort",
+ "desc": "Fisher's sermon at the month's mind of the Lady Margaret, Countess of Richmond and Derby, mother of Henry VII, 1509.",
+ "desc_pt": "O sermão de Fisher no mês de memória de Lady Margaret, condessa de Richmond e Derby, mãe de Henrique VII, 1509.",
+ "composed": 1509,
+ "editor": "John Fisher (London: W. de Worde, 1509; EEBO-TCP A00766)",
+ "year": 1509,
+ "url": "https://github.com/textcreationpartnership/A00766",
+ "edition": "A mornynge remembraunce ... of the Countesse of Rychemonde, EEBO-TCP A00766."
+}
