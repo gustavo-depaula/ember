@@ -1,0 +1,49 @@
+{
+ "id": "challoner-catholic-christian-instructed",
+ "dir": "challoner-opera-omnia/catholic-christian-instructed",
+ "slug": "catholic-christian-instructed",
+ "work": "challoner/catholic-christian-instructed",
+ "name": "The Catholic Christian Instructed",
+ "name_pt": "O Crist\u00e3o Cat\u00f3lico Instru\u00eddo",
+ "author": "Bp. Richard Challoner",
+ "author_pt": "D. Richard Challoner",
+ "died": 1781,
+ "desc": "The Catholic Christian Instructed in the Sacraments, Sacrifice, Ceremonies and Observances of the Church (1737), by way of questions and answers: the sign of the cross, the sacraments (baptism, confirmation, the Eucharist and the real presence, penance, extreme unction, orders, matrimony), the Mass, fasting and abstinence, prayers for the dead, images, and the ceremonies and blessings of the Church.",
+ "desc_pt": "O Crist\u00e3o Cat\u00f3lico Instru\u00eddo nos Sacramentos, no Sacrif\u00edcio, nas Cerim\u00f4nias e nas Observ\u00e2ncias da Igreja (1737), em perguntas e respostas: o sinal da cruz, os sacramentos (batismo, crisma, Eucaristia e presen\u00e7a real, penit\u00eancia, un\u00e7\u00e3o dos enfermos, ordem, matrim\u00f4nio), a Missa, o jejum e a abstin\u00eancia, as ora\u00e7\u00f5es pelos defuntos, as imagens e as cerim\u00f4nias e b\u00ean\u00e7\u00e3os da Igreja.",
+ "composed": 1737,
+ "editor": "Bp. Richard Challoner (New York: D. and J. Sadlier, 1853)",
+ "year": 1853,
+ "url": "https://archive.org/details/catholicchristia02chal",
+ "edition": "The Catholic Christian Instructed, in the Sacraments, Sacrifice, Ceremonies, and Observances of the Church, by way of Question and Answer (New York: D. and J. Sadlier, 1853), Internet Archive full-text OCR.",
+ "srcnote": "The author's preface is kept; the contents and the advertisements are dropped. Sections of a chapter are headings within it.",
+ "src": "challoner/ia/catholicchristia02chal_djvu.txt",
+ "start": 1131,
+ "end": 13604,
+ "levels": [
+  "CHAPTER"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "preface",
+   "title": "Preface",
+   "from": 180,
+   "to": 1129
+  }
+ ],
+ "back": [],
+ "label": {
+  "SECTION": "Section"
+ },
+ "romanheads": false,
+ "inline": [
+  "SECTION"
+ ],
+ "titles": {
+  "12": "The Order of the Recommendation of a Soul That Is Just Departing",
+  "14": "Of Prayers for the Dead, and of Purgatory",
+  "21": "Of the Fasts of the Catholic Church",
+  "22": "Of the Church Office, or the Canonical Hours of Prayer in the Catholic Church",
+  "23": "Of the Festivals of the Catholic Church; Where Also of the Holy Week, and the Ceremonies Thereof"
+ }
+}

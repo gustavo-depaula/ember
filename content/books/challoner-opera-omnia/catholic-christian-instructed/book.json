@@ -1,0 +1,213 @@
+{
+  "id": "challoner-catholic-christian-instructed",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Catholic Christian Instructed",
+    "pt-BR": "O Cristão Católico Instruído"
+  },
+  "author": {
+    "en-US": "Bp. Richard Challoner",
+    "pt-BR": "D. Richard Challoner"
+  },
+  "description": {
+    "en-US": "The Catholic Christian Instructed in the Sacraments, Sacrifice, Ceremonies and Observances of the Church (1737), by way of questions and answers: the sign of the cross, the sacraments (baptism, confirmation, the Eucharist and the real presence, penance, extreme unction, orders, matrimony), the Mass, fasting and abstinence, prayers for the dead, images, and the ceremonies and blessings of the Church.",
+    "pt-BR": "O Cristão Católico Instruído nos Sacramentos, no Sacrifício, nas Cerimônias e nas Observâncias da Igreja (1737), em perguntas e respostas: o sinal da cruz, os sacramentos (batismo, crisma, Eucaristia e presença real, penitência, unção dos enfermos, ordem, matrimônio), a Missa, o jejum e a abstinência, as orações pelos defuntos, as imagens e as cerimônias e bênçãos da Igreja."
+  },
+  "composed": 1737,
+  "languages": [
+    "en-US"
+  ],
+  "work": "challoner/catholic-christian-instructed",
+  "editions": {
+    "en-US": {
+      "editor": "Bp. Richard Challoner (New York: D. and J. Sadlier, 1853)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/catholicchristia02chal",
+      "edition": "The Catholic Christian Instructed, in the Sacraments, Sacrifice, Ceremonies, and Observances of the Church, by way of Question and Answer (New York: D. and J. Sadlier, 1853), Internet Archive full-text OCR.",
+      "description": "The author's preface is kept; the contents and the advertisements are dropped. Sections of a chapter are headings within it. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Bp. Richard Challoner died in 1781 and the edition is of 1853, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. Of the Sign of the Cross"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. Of the Sacrament of Baptism"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. Of the Ceremonies of Baptism; And of the Manner of Administering This Sacrament in the Catholic Church"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. Of the Sacrament of Confirmation, and of the Manner of Administering It"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. Of the Sacrament of the Eucharist"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. Of the Sacrifice of the Mass"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII. Of Hearing Mass; Where Also of the Order and Ceremonies of the Mass; And the Devotion Proper for That Time"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII. Of the Saying Mass in Latin"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter IX. Of the Sacrament of Penance! of Confession, and the Preparation for It  of Absolution, Etc"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter X. Of Indulgences and Jubilees"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter XI. Of the Sacrament of Extreme Unction"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter XII. The Order of the Recommendation of a Soul That Is Just Departing"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Chapter XIII. Of the Office for the Burial of the Dead"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Chapter XIV. Of Prayers for the Dead, and of Purgatory"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Chapter XV. Of the Sacrament of Holy Orders"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Chapter XVI. Of the Superiority of the Bishops, and of the Supremacy of the Pope"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Chapter XVII. Of the Celibacy of the Clergy"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Chapter XVIII. Of Religious Orders and Confraternities"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Chapter XIX. Of the Sacrament of Matrimony, and of the Nuptial Benediction"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Chapter XX. Of the Churching of Women After Child Bearing"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "Chapter XXI. Of the Fasts of the Catholic Church"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "Chapter XXII. Of the Church Office, or the Canonical Hours of Prayer in the Catholic Church"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "Chapter XXIII. Of the Festivals of the Catholic Church; Where Also of the Holy Week, and the Ceremonies Thereof"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "Chapter XXIV. Of the Invocation of Angels and Saints"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "Chapter XXV. Of the Devotion of Catholics to the Blessed Virgin, Mary; Of her Perpetual Virginity; Of the Beads, Rosary, and Angelus Domini"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "Chapter XXVI. Of the Use and Veneration of Relics in the Catholic Church"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "Chapter XXVII. Of the Use of Pictures and Images in the Catholic Church"
+      }
+    },
+    {
+      "id": "chapter-28",
+      "title": {
+        "en-US": "Chapter XXVIII. Of Exorcisms, and Benedictions or Blessings of Creatures in the Catholic Church, and of Thb Use of Holy Water"
+      }
+    }
+  ]
+}

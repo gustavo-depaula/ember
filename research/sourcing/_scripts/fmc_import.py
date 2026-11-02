@@ -33,6 +33,7 @@ def capsy(l):
     return len(a) >= 2 and sum(c.isupper() for c in a) >= 0.7 * len(a)
 def title_case(t):
     t = re.sub(r'(^|\s)[_\W]+(?=\s)', r'\1', re.sub(r'\s+', ' ', t).strip()).strip().rstrip('.,')
+    t = re.sub(r'(\w)- (\w)', r'\1\2', t)
     ws = ['of' if w == 'op' else w for w in t.lower().split(' ')]
     SM = {'of', 'the', 'and', 'in', 'to', 'a', 'an', 'by', 'for', 'on', 'with', 'from', 'at', 'or', 'as', 'is', 'his', 'her', 'our', 'its', 'but', 'not'}
     out = []
