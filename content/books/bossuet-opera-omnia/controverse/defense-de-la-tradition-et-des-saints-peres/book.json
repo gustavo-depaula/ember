@@ -1,0 +1,132 @@
+{
+  "id": "bossuet-defense-de-la-tradition-et-des-saints-peres",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Défense de la tradition et des saints Pères",
+    "en-US": "Defence of Tradition and of the Holy Fathers",
+    "pt-BR": "Defesa da tradição e dos santos Padres"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Réponse en treize livres à l’oratorien Richard Simon et à ses Remarques sur les Pères : la tradition, les interprétations des Pères sur l’Écriture, la grâce, la prédestination, la Trinité et la divinité du Christ, contre l’usage critique et rationaliste de la patristique. Composée vers 1702-1704, publiée en 1763. Édition Lachat (1862).",
+    "en-US": "A reply in thirteen books to Richard Simon and his remarks on the Fathers: tradition, the Fathers’ interpretation of Scripture, grace, predestination, the Trinity and the divinity of Christ, against a critical and rationalist use of the patristic tradition. Composed around 1702-04 and published in 1763. Lachat edition (1862).",
+    "pt-BR": "Resposta em treze livros ao oratoriano Richard Simon e às suas observações sobre os Padres: a tradição, as interpretações dos Padres sobre a Escritura, a graça, a predestinação, a Trindade e a divindade de Cristo, contra o uso crítico e racionalista da patrística. Composta por volta de 1702-1704 e publicada em 1763. Edição Lachat (1862)."
+  },
+  "composed": "1703",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/defense-de-la-tradition-et-des-saints-peres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume004/001.htm to 015.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume IV, pages 001-015. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface où est exposé le dessein et la division de cet ouvrage"
+      }
+    },
+    {
+      "id": "livre-01",
+      "title": {
+        "fr-FR": "Livre premier"
+      }
+    },
+    {
+      "id": "livre-02",
+      "title": {
+        "fr-FR": "Livre II"
+      }
+    },
+    {
+      "id": "livre-03",
+      "title": {
+        "fr-FR": "Livre III"
+      }
+    },
+    {
+      "id": "livre-04",
+      "title": {
+        "fr-FR": "Livre IV"
+      }
+    },
+    {
+      "id": "livre-05",
+      "title": {
+        "fr-FR": "Livre V"
+      }
+    },
+    {
+      "id": "livre-06",
+      "title": {
+        "fr-FR": "Livre VI"
+      }
+    },
+    {
+      "id": "livre-07",
+      "title": {
+        "fr-FR": "Livre VII"
+      }
+    },
+    {
+      "id": "livre-08",
+      "title": {
+        "fr-FR": "Livre VIII"
+      }
+    },
+    {
+      "id": "livre-09",
+      "title": {
+        "fr-FR": "Livre IX"
+      }
+    },
+    {
+      "id": "livre-10",
+      "title": {
+        "fr-FR": "Livre X"
+      }
+    },
+    {
+      "id": "livre-11",
+      "title": {
+        "fr-FR": "Livre XI"
+      }
+    },
+    {
+      "id": "livre-12",
+      "title": {
+        "fr-FR": "Livre XII"
+      }
+    },
+    {
+      "id": "livre-13",
+      "title": {
+        "fr-FR": "Livre XIII"
+      }
+    }
+  ]
+}
