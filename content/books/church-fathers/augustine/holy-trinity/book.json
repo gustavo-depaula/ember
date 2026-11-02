@@ -2,18 +2,29 @@
   "id": "augustine-holy-trinity",
   "cover": "quarter",
   "name": {
+    "la": "De Trinitate",
     "en-US": "On the Holy Trinity",
     "pt-BR": "Sobre a Santíssima Trindade"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo",
     "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/trinita/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages trinita of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1301.htm",
@@ -24,6 +35,7 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Liber I",
         "en-US": "Book 1",
         "pt-BR": "Livro 1"
       }
@@ -31,6 +43,7 @@
     {
       "id": "ch002",
       "title": {
+        "la": "Liber II",
         "en-US": "Book 2",
         "pt-BR": "Livro 2"
       }
@@ -38,6 +51,7 @@
     {
       "id": "ch003",
       "title": {
+        "la": "Liber III",
         "en-US": "Book 3",
         "pt-BR": "Livro 3"
       }
@@ -45,6 +59,7 @@
     {
       "id": "ch004",
       "title": {
+        "la": "Liber IV",
         "en-US": "Book 4",
         "pt-BR": "Livro 4"
       }
@@ -52,6 +67,7 @@
     {
       "id": "ch005",
       "title": {
+        "la": "Liber V",
         "en-US": "Book 5",
         "pt-BR": "Livro 5"
       }
@@ -59,6 +75,7 @@
     {
       "id": "ch006",
       "title": {
+        "la": "Liber VI",
         "en-US": "Book 6",
         "pt-BR": "Livro 6"
       }
@@ -66,6 +83,7 @@
     {
       "id": "ch007",
       "title": {
+        "la": "Liber VII",
         "en-US": "Book 7",
         "pt-BR": "Livro 7"
       }
@@ -73,6 +91,7 @@
     {
       "id": "ch008",
       "title": {
+        "la": "Liber VIII",
         "en-US": "Book 8",
         "pt-BR": "Livro 8"
       }
@@ -80,6 +99,7 @@
     {
       "id": "ch009",
       "title": {
+        "la": "Liber IX",
         "en-US": "Book 9",
         "pt-BR": "Livro 9"
       }
@@ -87,6 +107,7 @@
     {
       "id": "ch010",
       "title": {
+        "la": "Liber X",
         "en-US": "Book 10",
         "pt-BR": "Livro 10"
       }
@@ -94,6 +115,7 @@
     {
       "id": "ch011",
       "title": {
+        "la": "Liber XI",
         "en-US": "Book 11",
         "pt-BR": "Livro 11"
       }
@@ -101,6 +123,7 @@
     {
       "id": "ch012",
       "title": {
+        "la": "Liber XII",
         "en-US": "Book 12",
         "pt-BR": "Livro 12"
       }
@@ -108,6 +131,7 @@
     {
       "id": "ch013",
       "title": {
+        "la": "Liber XIII",
         "en-US": "Book 13",
         "pt-BR": "Livro 13"
       }
@@ -115,6 +139,7 @@
     {
       "id": "ch014",
       "title": {
+        "la": "Liber XIV",
         "en-US": "Book 14",
         "pt-BR": "Livro 14"
       }
@@ -122,12 +147,30 @@
     {
       "id": "ch015",
       "title": {
+        "la": "Liber XV",
         "en-US": "Book 15",
         "pt-BR": "Livro 15"
       }
     }
   ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/de-trinitate",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "Arthur West Haddan",
+      "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
   }
 }
