@@ -1,0 +1,162 @@
+{
+  "id": "kempis-hospitale-pauperum",
+  "cover": "classic",
+  "name": {
+    "la": "Hospitale pauperum",
+    "en-US": "The Hospice of the Poor",
+    "pt-BR": "O Hospício dos Pobres"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Tractatulus dictus Hospitale pauperum: capitula de contemptu bonorum mundanorum, de paupertate spiritus, de patientia et de consolatione pauperum Christi.",
+    "en-US": "A treatise for the poor of Christ: contempt of worldly goods, poverty of spirit, patience and the comfort of the poor, drawn chiefly from the Psalms. Latin only: Pohl's critical edition (Freiburg 1918), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Tratado para os pobres de Cristo: desprezo dos bens do mundo, pobreza de espírito, paciência e consolação, tirado sobretudo dos Salmos."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/hospitale-pauperum",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1918
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0000thom_q8k7",
+      "edition": "Thomae Hemerken a Kempis Hospitale pauperum, ed. M. J. Pohl (Freiburg: Herder 1918), Opera omnia IV; archive.org raw OCR (Pohl 1918 volume).",
+      "description": "Chapters as Pohl divides them, with his upper-case chapter titles recased (u/v normalised by script). Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. Raw OCR: drop capitals at chapter openings and isolated letters are often garbled; a chapter heading lost to OCR runs two chapters together.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1918; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. De contemptu omnium bonorum mundanorum"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De quinque panibus in deserto hvius vitae"
+      }
+    },
+    {
+      "id": "p1-03",
+      "title": {
+        "la": "3. De duplici pugna carnis et Spiritus"
+      }
+    },
+    {
+      "id": "p1-04",
+      "title": {
+        "la": "4. De instabilitate humani cordis"
+      }
+    },
+    {
+      "id": "p1-05",
+      "title": {
+        "la": "5. De oboedientia simplicis et humilis fratris"
+      }
+    },
+    {
+      "id": "p1-06",
+      "title": {
+        "la": "6. De triplici signaculo sanctae crucis"
+      }
+    },
+    {
+      "id": "p1-07",
+      "title": {
+        "la": "7. De pia compassione cum infirmis,"
+      }
+    },
+    {
+      "id": "p1-08",
+      "title": {
+        "la": "8. De perseverantia in bonis inceptis"
+      }
+    },
+    {
+      "id": "p1-09",
+      "title": {
+        "la": "9. De variis antiqui hostis insidiis"
+      }
+    },
+    {
+      "id": "p1-10",
+      "title": {
+        "la": "10. De scuto bonae voluntatis contra hostes"
+      }
+    },
+    {
+      "id": "p1-11",
+      "title": {
+        "la": "11. De laude Dei in omni opere . bono"
+      }
+    },
+    {
+      "id": "p1-12",
+      "title": {
+        "la": "12. De vitio vanae gloriae et propriae complacentiae"
+      }
+    },
+    {
+      "id": "p1-13",
+      "title": {
+        "la": "13. De variis bellis impiorum et patientia piorum"
+      }
+    },
+    {
+      "id": "p1-14",
+      "title": {
+        "la": "14. De malitia pravorum contra innocentes"
+      }
+    },
+    {
+      "id": "p1-15",
+      "title": {
+        "la": "15. De invidia diaboli contra salutem hominum"
+      }
+    },
+    {
+      "id": "p1-16",
+      "title": {
+        "la": "16. De armatura Christi et sanctorum contra vitia"
+      }
+    },
+    {
+      "id": "p1-17",
+      "title": {
+        "la": "17. De utilitate frequentis orationis"
+      }
+    },
+    {
+      "id": "p1-18",
+      "title": {
+        "la": "18. De privatis orationibus quasi iaculis acutis in hostes"
+      }
+    },
+    {
+      "id": "p1-19",
+      "title": {
+        "la": "19. De versiculis ante initium operis legendis"
+      }
+    },
+    {
+      "id": "p1-20",
+      "title": {
+        "la": "20. De septem virtutum gemmis bonae congregationis"
+      }
+    }
+  ]
+}
