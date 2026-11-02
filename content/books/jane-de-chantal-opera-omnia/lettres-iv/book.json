@@ -1,0 +1,2364 @@
+{
+  "id": "chantal-lettres-iv",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres, tome IV (1632–1637)",
+    "en-US": "Letters, volume IV (1632–1637)",
+    "pt-BR": "Cartas, tomo IV (1632–1637)"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "Les lettres de sainte Jeanne-Françoise de Chantal, tome IV de la correspondance de l’édition Plon (lettres 1131 à 1532), rangées par ordre chronologique : à saint François de Sales, aux premières Mères de la Visitation, aux Sœurs, à des évêques, des princes et des personnes du monde. Avec les notes et les sommaires des éditeurs.",
+    "en-US": "The letters of St. Jane Frances de Chantal, volume IV of the correspondence in the Plon edition (letters 1131 to 1532), in chronological order: to St. Francis de Sales, the first Mothers of the Visitation, the Sisters, bishops, princes and people in the world. With the editors’ notes and summaries.",
+    "pt-BR": "As cartas de santa Joana Francisca de Chantal, tomo IV da correspondência da edição Plon (cartas 1131 a 1532), em ordem cronológica: a são Francisco de Sales, às primeiras Madres da Visitação, às Irmãs, a bispos, príncipes e pessoas do mundo. Com as notas e os sumários dos editores."
+  },
+  "composed": "1632–1637",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "jane-de-chantal/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1880
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_7",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1874–1879 (Édition authentique publiée par les soins des Religieuses du Premier Monastère de la Visitation Sainte-Marie d’Annecy), tome 7: Lettres, tome IV. Scan of the Bibliothèque Sainte-Geneviève copy; text from the archive.org OCR.",
+      "description": "OCR text cleaned: running heads and page numbers removed, hyphenation joined, page-bottom notes turned into footnotes. The addressee and the editors’ summary head each letter (the summary in italics). Spelling is that of the 1870s edition. Letters whose number heading the OCR lost are folded into the previous letter, so a few numbers are missing. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Saint Jane de Chantal died in 1641; Plon edition 1877–79; the letters are public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l1131",
+      "title": {
+        "fr-FR": "Lettre 1131. À la Sœur Marie-Thérèse de Labeau"
+      }
+    },
+    {
+      "id": "l1132",
+      "title": {
+        "fr-FR": "Lettre 1132. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1133",
+      "title": {
+        "fr-FR": "Lettre 1133. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1134",
+      "title": {
+        "fr-FR": "Lettre 1134. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1135",
+      "title": {
+        "fr-FR": "Lettre 1135. Au Père Dom Galice, Barnabite"
+      }
+    },
+    {
+      "id": "l1136",
+      "title": {
+        "fr-FR": "Lettre 1136. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1137",
+      "title": {
+        "fr-FR": "Lettre 1137. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1138",
+      "title": {
+        "fr-FR": "Lettre 1138. À la Mère Marie-Philiberte Aysement"
+      }
+    },
+    {
+      "id": "l1139",
+      "title": {
+        "fr-FR": "Lettre 1139. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1140",
+      "title": {
+        "fr-FR": "Lettre 1140. À la Révérende Mère Marie de la Tri\\'Ité"
+      }
+    },
+    {
+      "id": "l1141",
+      "title": {
+        "fr-FR": "Lettre 1141. À la Sœur Marie-Thérèse de Labeau"
+      }
+    },
+    {
+      "id": "l1142",
+      "title": {
+        "fr-FR": "Lettre 1142. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1143",
+      "title": {
+        "fr-FR": "Lettre 1143. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1144",
+      "title": {
+        "fr-FR": "Lettre 1144. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1145",
+      "title": {
+        "fr-FR": "Lettre 1145. À Madame la Princesse de Carigx'A.y"
+      }
+    },
+    {
+      "id": "l1146",
+      "title": {
+        "fr-FR": "Lettre 1146. À Madame la Duchesse de Nemours"
+      }
+    },
+    {
+      "id": "l1147",
+      "title": {
+        "fr-FR": "Lettre 1147. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l1149",
+      "title": {
+        "fr-FR": "Lettre 1149. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1150",
+      "title": {
+        "fr-FR": "Lettre 1150. La Sœur Fravçoise-Gatherixe de Pingon"
+      }
+    },
+    {
+      "id": "l1151",
+      "title": {
+        "fr-FR": "Lettre 1151. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1153",
+      "title": {
+        "fr-FR": "Lettre 1153. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1154",
+      "title": {
+        "fr-FR": "Lettre 1154. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l1155",
+      "title": {
+        "fr-FR": "Lettre 1155. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1156",
+      "title": {
+        "fr-FR": "Lettre 1156. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1157",
+      "title": {
+        "fr-FR": "Lettre 1157. À la Sœur Marie-Isabelle de la Luxière"
+      }
+    },
+    {
+      "id": "l1158",
+      "title": {
+        "fr-FR": "Lettre 1158. À la Sœur Anne-Péronne Baillard"
+      }
+    },
+    {
+      "id": "l1159",
+      "title": {
+        "fr-FR": "Lettre 1159. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1160",
+      "title": {
+        "fr-FR": "Lettre 1160. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l1161",
+      "title": {
+        "fr-FR": "Lettre 1161. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l1162",
+      "title": {
+        "fr-FR": "Lettre 1162. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1163",
+      "title": {
+        "fr-FR": "Lettre 1163. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l1164",
+      "title": {
+        "fr-FR": "Lettre 1164. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1165",
+      "title": {
+        "fr-FR": "Lettre 1165. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1166",
+      "title": {
+        "fr-FR": "Lettre 1166. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1167",
+      "title": {
+        "fr-FR": "Lettre 1167. À la Mère Marie-Hélène Guérin"
+      }
+    },
+    {
+      "id": "l1168",
+      "title": {
+        "fr-FR": "Lettre 1168. À la Mère Marie-Aimée de Dlonay"
+      }
+    },
+    {
+      "id": "l1169",
+      "title": {
+        "fr-FR": "Lettre 1169. À la Sœur Marie-Bonaventl'Re de Nouvelles"
+      }
+    },
+    {
+      "id": "l1170",
+      "title": {
+        "fr-FR": "Lettre 1170. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1171",
+      "title": {
+        "fr-FR": "Lettre 1171. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1172",
+      "title": {
+        "fr-FR": "Lettre 1172. À Monsieur l'Abbé Crespim"
+      }
+    },
+    {
+      "id": "l1173",
+      "title": {
+        "fr-FR": "Lettre 1173. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l1174",
+      "title": {
+        "fr-FR": "Lettre 1174. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1175",
+      "title": {
+        "fr-FR": "Lettre 1175. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l1176",
+      "title": {
+        "fr-FR": "Lettre 1176. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l1177",
+      "title": {
+        "fr-FR": "Lettre 1177. À la Sœur Marie-Aimée de Morville"
+      }
+    },
+    {
+      "id": "l1178",
+      "title": {
+        "fr-FR": "Lettre 1178. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1179",
+      "title": {
+        "fr-FR": "Lettre 1179. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l1180",
+      "title": {
+        "fr-FR": "Lettre 1180. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1181",
+      "title": {
+        "fr-FR": "Lettre 1181. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l1182",
+      "title": {
+        "fr-FR": "Lettre 1182. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1183",
+      "title": {
+        "fr-FR": "Lettre 1183. À la Sœur Marie-Aimée de Morville"
+      }
+    },
+    {
+      "id": "l1184",
+      "title": {
+        "fr-FR": "Lettre 1184. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1185",
+      "title": {
+        "fr-FR": "Lettre 1185. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1186",
+      "title": {
+        "fr-FR": "Lettre 1186. À Madame Royale, Christine de France"
+      }
+    },
+    {
+      "id": "l1187",
+      "title": {
+        "fr-FR": "Lettre 1187. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1188",
+      "title": {
+        "fr-FR": "Lettre 1188. À Madame Desbarres"
+      }
+    },
+    {
+      "id": "l1189",
+      "title": {
+        "fr-FR": "Lettre 1189. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1190",
+      "title": {
+        "fr-FR": "Lettre 1190. À la Mère Marie-Aimée de Dlonay"
+      }
+    },
+    {
+      "id": "l1191",
+      "title": {
+        "fr-FR": "Lettre 1191. À la Sœur Marie-Agnes de Bauffremont"
+      }
+    },
+    {
+      "id": "l1192",
+      "title": {
+        "fr-FR": "Lettre 1192. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1193",
+      "title": {
+        "fr-FR": "Lettre 1193. À Monsieur de la Fléchère"
+      }
+    },
+    {
+      "id": "l1194",
+      "title": {
+        "fr-FR": "Lettre 1194. À Monseigneur Pierke Camus"
+      }
+    },
+    {
+      "id": "l1195",
+      "title": {
+        "fr-FR": "Lettre 1195. À la Sœur Marie-Aimée de Morville"
+      }
+    },
+    {
+      "id": "l1196",
+      "title": {
+        "fr-FR": "Lettre 1196. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1197",
+      "title": {
+        "fr-FR": "Lettre 1197. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1198",
+      "title": {
+        "fr-FR": "Lettre 1198. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1199",
+      "title": {
+        "fr-FR": "Lettre 1199. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1200",
+      "title": {
+        "fr-FR": "Lettre 1200. À la Même"
+      }
+    },
+    {
+      "id": "l1201",
+      "title": {
+        "fr-FR": "Lettre 1201. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1202",
+      "title": {
+        "fr-FR": "Lettre 1202. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1203",
+      "title": {
+        "fr-FR": "Lettre 1203. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1204",
+      "title": {
+        "fr-FR": "Lettre 1204. À la Sœur Marie-Aimée de Morville"
+      }
+    },
+    {
+      "id": "l1205",
+      "title": {
+        "fr-FR": "Lettre 1205. À Madame la Duchesse de Montmorency"
+      }
+    },
+    {
+      "id": "l1206",
+      "title": {
+        "fr-FR": "Lettre 1206. À la Sœur Assistante et a la Communauté"
+      }
+    },
+    {
+      "id": "l1207",
+      "title": {
+        "fr-FR": "Lettre 1207. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1208",
+      "title": {
+        "fr-FR": "Lettre 1208. À la Mère Marie-Hélèue Guérin"
+      }
+    },
+    {
+      "id": "l1209",
+      "title": {
+        "fr-FR": "Lettre 1209. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1210",
+      "title": {
+        "fr-FR": "Lettre 1210. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1211",
+      "title": {
+        "fr-FR": "Lettre 1211. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1212",
+      "title": {
+        "fr-FR": "Lettre 1212. À la Mère Claude-Catherine de Vallon"
+      }
+    },
+    {
+      "id": "l1213",
+      "title": {
+        "fr-FR": "Lettre 1213. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1214",
+      "title": {
+        "fr-FR": "Lettre 1214. À Monseigneur Jean-François de Sales"
+      }
+    },
+    {
+      "id": "l1215",
+      "title": {
+        "fr-FR": "Lettre 1215. Au Révérend Père Binet"
+      }
+    },
+    {
+      "id": "l1216",
+      "title": {
+        "fr-FR": "Lettre 1216. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l1217",
+      "title": {
+        "fr-FR": "Lettre 1217. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l1218",
+      "title": {
+        "fr-FR": "Lettre 1218. À la Même"
+      }
+    },
+    {
+      "id": "l1219",
+      "title": {
+        "fr-FR": "Lettre 1219. À la Meme"
+      }
+    },
+    {
+      "id": "l1221",
+      "title": {
+        "fr-FR": "Lettre 1221. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1222",
+      "title": {
+        "fr-FR": "Lettre 1222. À la Meme"
+      }
+    },
+    {
+      "id": "l1223",
+      "title": {
+        "fr-FR": "Lettre 1223. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1224",
+      "title": {
+        "fr-FR": "Lettre 1224. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1225",
+      "title": {
+        "fr-FR": "Lettre 1225. À Madame de Vaudan"
+      }
+    },
+    {
+      "id": "l1227",
+      "title": {
+        "fr-FR": "Lettre 1227. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1228",
+      "title": {
+        "fr-FR": "Lettre 1228. À Madame de Har.uicourt"
+      }
+    },
+    {
+      "id": "l1229",
+      "title": {
+        "fr-FR": "Lettre 1229. À la Révérende Mère Marie-Christine"
+      }
+    },
+    {
+      "id": "l1230",
+      "title": {
+        "fr-FR": "Lettre 1230. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l1231",
+      "title": {
+        "fr-FR": "Lettre 1231. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1232",
+      "title": {
+        "fr-FR": "Lettre 1232. À Madame la Duchesse de Montmorency"
+      }
+    },
+    {
+      "id": "l1233",
+      "title": {
+        "fr-FR": "Lettre 1233. À Monsieur le Chevalier Janus de Sales"
+      }
+    },
+    {
+      "id": "l1234",
+      "title": {
+        "fr-FR": "Lettre 1234. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1235",
+      "title": {
+        "fr-FR": "Lettre 1235. À la Même"
+      }
+    },
+    {
+      "id": "l1236",
+      "title": {
+        "fr-FR": "Lettre 1236. À Monsieur le Commandeur Balbian"
+      }
+    },
+    {
+      "id": "l1237",
+      "title": {
+        "fr-FR": "Lettre 1237. À Madame la Comtesse de Tol'Lonjon"
+      }
+    },
+    {
+      "id": "l1238",
+      "title": {
+        "fr-FR": "Lettre 1238. À Monsieur de Mimatha"
+      }
+    },
+    {
+      "id": "l1239",
+      "title": {
+        "fr-FR": "Lettre 1239. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1240",
+      "title": {
+        "fr-FR": "Lettre 1240. À la Même"
+      }
+    },
+    {
+      "id": "l1241",
+      "title": {
+        "fr-FR": "Lettre 1241. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1242",
+      "title": {
+        "fr-FR": "Lettre 1242. Al Reverend Pere Binet"
+      }
+    },
+    {
+      "id": "l1243",
+      "title": {
+        "fr-FR": "Lettre 1243. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1244",
+      "title": {
+        "fr-FR": "Lettre 1244. À la Mère Françoise-Augustixe Brung"
+      }
+    },
+    {
+      "id": "l1245",
+      "title": {
+        "fr-FR": "Lettre 1245. Aux Sœurs de la Visitation de Saint-Amour"
+      }
+    },
+    {
+      "id": "l1246",
+      "title": {
+        "fr-FR": "Lettre 1246. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1247",
+      "title": {
+        "fr-FR": "Lettre 1247. À Madame la Gomtessk de Toulonjon"
+      }
+    },
+    {
+      "id": "l1248",
+      "title": {
+        "fr-FR": "Lettre 1248. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1249",
+      "title": {
+        "fr-FR": "Lettre 1249. À la Mère Anne-Bénigne Joquet"
+      }
+    },
+    {
+      "id": "l1250",
+      "title": {
+        "fr-FR": "Lettre 1250. À Monsieur de Cornillon"
+      }
+    },
+    {
+      "id": "l1251",
+      "title": {
+        "fr-FR": "Lettre 1251. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1252",
+      "title": {
+        "fr-FR": "Lettre 1252. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1253",
+      "title": {
+        "fr-FR": "Lettre 1253. À Monsieur Besançon"
+      }
+    },
+    {
+      "id": "l1254",
+      "title": {
+        "fr-FR": "Lettre 1254. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l1255",
+      "title": {
+        "fr-FR": "Lettre 1255. À Monseigneur André Frémyot"
+      }
+    },
+    {
+      "id": "l1256",
+      "title": {
+        "fr-FR": "Lettre 1256. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l1258",
+      "title": {
+        "fr-FR": "Lettre 1258. À Monseigneur André Frémyot"
+      }
+    },
+    {
+      "id": "l1260",
+      "title": {
+        "fr-FR": "Lettre 1260. À Madame la Comtesse de Toulomjo.m"
+      }
+    },
+    {
+      "id": "l1261",
+      "title": {
+        "fr-FR": "Lettre 1261. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1262",
+      "title": {
+        "fr-FR": "Lettre 1262. À Monsieur de Coulanges"
+      }
+    },
+    {
+      "id": "l1263",
+      "title": {
+        "fr-FR": "Lettre 1263. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1264",
+      "title": {
+        "fr-FR": "Lettre 1264. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1265",
+      "title": {
+        "fr-FR": "Lettre 1265"
+      }
+    },
+    {
+      "id": "l1266",
+      "title": {
+        "fr-FR": "Lettre 1266. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l1267",
+      "title": {
+        "fr-FR": "Lettre 1267. À Son Altesse le Prince Thomas de Savoie"
+      }
+    },
+    {
+      "id": "l1268",
+      "title": {
+        "fr-FR": "Lettre 1268. À la Sœur Bonne-Marie de Haraucourt"
+      }
+    },
+    {
+      "id": "l1269",
+      "title": {
+        "fr-FR": "Lettre 1269. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l1270",
+      "title": {
+        "fr-FR": "Lettre 1270. À Madame la Duchesse de Montmorency"
+      }
+    },
+    {
+      "id": "l1271",
+      "title": {
+        "fr-FR": "Lettre 1271. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1272",
+      "title": {
+        "fr-FR": "Lettre 1272. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1273",
+      "title": {
+        "fr-FR": "Lettre 1273. À la Sœur Louise-Madeleine Adelaine"
+      }
+    },
+    {
+      "id": "l1274",
+      "title": {
+        "fr-FR": "Lettre 1274. À la Mère Paule-Jéronyme Favrot"
+      }
+    },
+    {
+      "id": "l1275",
+      "title": {
+        "fr-FR": "Lettre 1275. À Monsieur Jaquotot"
+      }
+    },
+    {
+      "id": "l1276",
+      "title": {
+        "fr-FR": "Lettre 1276. À Madame Jaquotot"
+      }
+    },
+    {
+      "id": "l1277",
+      "title": {
+        "fr-FR": "Lettre 1277. À la Aiére Marie-Miée de Blox'Ay"
+      }
+    },
+    {
+      "id": "l1278",
+      "title": {
+        "fr-FR": "Lettre 1278. À la Meme"
+      }
+    },
+    {
+      "id": "l1279",
+      "title": {
+        "fr-FR": "Lettre 1279. À Madame de Coysia"
+      }
+    },
+    {
+      "id": "l1280",
+      "title": {
+        "fr-FR": "Lettre 1280. À Monsieur Charles-Auguste de Sales"
+      }
+    },
+    {
+      "id": "l1281",
+      "title": {
+        "fr-FR": "Lettre 1281. À Monsieur le Chanoine Boulier"
+      }
+    },
+    {
+      "id": "l1282",
+      "title": {
+        "fr-FR": "Lettre 1282. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1283",
+      "title": {
+        "fr-FR": "Lettre 1283. À Madame la Comtesse de la Forest"
+      }
+    },
+    {
+      "id": "l1284",
+      "title": {
+        "fr-FR": "Lettre 1284. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1285",
+      "title": {
+        "fr-FR": "Lettre 1285. À la Même"
+      }
+    },
+    {
+      "id": "l1286",
+      "title": {
+        "fr-FR": "Lettre 1286. À la Révérende Mère Marie de la Trinité"
+      }
+    },
+    {
+      "id": "l1287",
+      "title": {
+        "fr-FR": "Lettre 1287. À la Mère Anne-Bénigne Joquet"
+      }
+    },
+    {
+      "id": "l1288",
+      "title": {
+        "fr-FR": "Lettre 1288. À Monsieur de Coulanges"
+      }
+    },
+    {
+      "id": "l1289",
+      "title": {
+        "fr-FR": "Lettre 1289. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1290",
+      "title": {
+        "fr-FR": "Lettre 1290. À Madame la Duchesse de Montmorency"
+      }
+    },
+    {
+      "id": "l1291",
+      "title": {
+        "fr-FR": "Lettre 1291. À Son Altesse Royale Victor- Amédée"
+      }
+    },
+    {
+      "id": "l1292",
+      "title": {
+        "fr-FR": "Lettre 1292. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1293",
+      "title": {
+        "fr-FR": "Lettre 1293"
+      }
+    },
+    {
+      "id": "l1294",
+      "title": {
+        "fr-FR": "Lettre 1294. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1295",
+      "title": {
+        "fr-FR": "Lettre 1295. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1297",
+      "title": {
+        "fr-FR": "Lettre 1297. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1299",
+      "title": {
+        "fr-FR": "Lettre 1299. À Monsieur de Coulanges"
+      }
+    },
+    {
+      "id": "l1300",
+      "title": {
+        "fr-FR": "Lettre 1300. À la Mère Jeanne-Agnès Provenchère"
+      }
+    },
+    {
+      "id": "l1301",
+      "title": {
+        "fr-FR": "Lettre 1301. À la Sœur Marie-Agnès de Bauffremont"
+      }
+    },
+    {
+      "id": "l1302",
+      "title": {
+        "fr-FR": "Lettre 1302. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1303",
+      "title": {
+        "fr-FR": "Lettre 1303. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1304",
+      "title": {
+        "fr-FR": "Lettre 1304. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1305",
+      "title": {
+        "fr-FR": "Lettre 1305. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l1306",
+      "title": {
+        "fr-FR": "Lettre 1306. À Son Altesse Royale Victor-Amédée"
+      }
+    },
+    {
+      "id": "l1307",
+      "title": {
+        "fr-FR": "Lettre 1307. À la Mère Marie-Françoise de Monceau"
+      }
+    },
+    {
+      "id": "l1308",
+      "title": {
+        "fr-FR": "Lettre 1308. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1309",
+      "title": {
+        "fr-FR": "Lettre 1309. À la Mère Marie-Élisabeth Guérard"
+      }
+    },
+    {
+      "id": "l1310",
+      "title": {
+        "fr-FR": "Lettre 1310. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1311",
+      "title": {
+        "fr-FR": "Lettre 1311. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1312",
+      "title": {
+        "fr-FR": "Lettre 1312. À Madame la Comtesse de Toulomjo.v"
+      }
+    },
+    {
+      "id": "l1313",
+      "title": {
+        "fr-FR": "Lettre 1313. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1314",
+      "title": {
+        "fr-FR": "Lettre 1314. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1315",
+      "title": {
+        "fr-FR": "Lettre 1315. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1316",
+      "title": {
+        "fr-FR": "Lettre 1316. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l1317",
+      "title": {
+        "fr-FR": "Lettre 1317. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1319",
+      "title": {
+        "fr-FR": "Lettre 1319. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1320",
+      "title": {
+        "fr-FR": "Lettre 1320. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1321",
+      "title": {
+        "fr-FR": "Lettre 1321. À la Mère Marie-Angélique de Bigny"
+      }
+    },
+    {
+      "id": "l1322",
+      "title": {
+        "fr-FR": "Lettre 1322. À la Mère Ayj.ve-Uarie Bollai.v"
+      }
+    },
+    {
+      "id": "l1323",
+      "title": {
+        "fr-FR": "Lettre 1323. À Monsieur de Coulanges"
+      }
+    },
+    {
+      "id": "l1324",
+      "title": {
+        "fr-FR": "Lettre 1324. À Monseigneur André Frémyot"
+      }
+    },
+    {
+      "id": "l1325",
+      "title": {
+        "fr-FR": "Lettre 1325. Al Père Dom Juste Guérlm"
+      }
+    },
+    {
+      "id": "l1326",
+      "title": {
+        "fr-FR": "Lettre 1326. À l'Infante Catherine de Savoie"
+      }
+    },
+    {
+      "id": "l1327",
+      "title": {
+        "fr-FR": "Lettre 1327. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1328",
+      "title": {
+        "fr-FR": "Lettre 1328. Au Même"
+      }
+    },
+    {
+      "id": "l1329",
+      "title": {
+        "fr-FR": "Lettre 1329. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l1330",
+      "title": {
+        "fr-FR": "Lettre 1330. Au Père Dom Juste Guérin"
+      }
+    },
+    {
+      "id": "l1331",
+      "title": {
+        "fr-FR": "Lettre 1331. À la Mûre Marie-Jacqueline Compain"
+      }
+    },
+    {
+      "id": "l1332",
+      "title": {
+        "fr-FR": "Lettre 1332. À Madame la Duchesse de Nemours"
+      }
+    },
+    {
+      "id": "l1333",
+      "title": {
+        "fr-FR": "Lettre 1333. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1334",
+      "title": {
+        "fr-FR": "Lettre 1334. À Monseigneur Pierre de Cornulier"
+      }
+    },
+    {
+      "id": "l1335",
+      "title": {
+        "fr-FR": "Lettre 1335. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1336",
+      "title": {
+        "fr-FR": "Lettre 1336. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1337",
+      "title": {
+        "fr-FR": "Lettre 1337. À Mademoiselle de la Fléchère"
+      }
+    },
+    {
+      "id": "l1338",
+      "title": {
+        "fr-FR": "Lettre 1338. À Madame la Comtesse de Toulonjon"
+      }
+    },
+    {
+      "id": "l1339",
+      "title": {
+        "fr-FR": "Lettre 1339. À la Mère Marie-Aimée de Dlonay"
+      }
+    },
+    {
+      "id": "l1340",
+      "title": {
+        "fr-FR": "Lettre 1340. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l1341",
+      "title": {
+        "fr-FR": "Lettre 1341. À la Sœur Marie-Madeleine Mermilloi)"
+      }
+    },
+    {
+      "id": "l1342",
+      "title": {
+        "fr-FR": "Lettre 1342. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1343",
+      "title": {
+        "fr-FR": "Lettre 1343. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1344",
+      "title": {
+        "fr-FR": "Lettre 1344. À Mademoiselle de la Fléghère"
+      }
+    },
+    {
+      "id": "l1345",
+      "title": {
+        "fr-FR": "Lettre 1345. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1346",
+      "title": {
+        "fr-FR": "Lettre 1346"
+      }
+    },
+    {
+      "id": "l1347",
+      "title": {
+        "fr-FR": "Lettre 1347. À la Mère Marie-Angéliquu de Bigny"
+      }
+    },
+    {
+      "id": "l1348",
+      "title": {
+        "fr-FR": "Lettre 1348. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1349",
+      "title": {
+        "fr-FR": "Lettre 1349. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1350",
+      "title": {
+        "fr-FR": "Lettre 1350. À Mademoiselle de la Fléchère"
+      }
+    },
+    {
+      "id": "l1351",
+      "title": {
+        "fr-FR": "Lettre 1351. À la Mère Madeleine-Elisabeth de Lucinge"
+      }
+    },
+    {
+      "id": "l1352",
+      "title": {
+        "fr-FR": "Lettre 1352. À Son Altesse Royale Victor-Amédée"
+      }
+    },
+    {
+      "id": "l1353",
+      "title": {
+        "fr-FR": "Lettre 1353. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1354",
+      "title": {
+        "fr-FR": "Lettre 1354. À la Sœur Marie-Marguerite de Lyonne"
+      }
+    },
+    {
+      "id": "l1355",
+      "title": {
+        "fr-FR": "Lettre 1355. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1356",
+      "title": {
+        "fr-FR": "Lettre 1356. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l1357",
+      "title": {
+        "fr-FR": "Lettre 1357. À la Mère Anne-Louise de Marin de Saint-Michel"
+      }
+    },
+    {
+      "id": "l1358",
+      "title": {
+        "fr-FR": "Lettre 1358. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1359",
+      "title": {
+        "fr-FR": "Lettre 1359. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1360",
+      "title": {
+        "fr-FR": "Lettre 1360. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1361",
+      "title": {
+        "fr-FR": "Lettre 1361. À Monseigneur Scipion de Villeneuve"
+      }
+    },
+    {
+      "id": "l1362",
+      "title": {
+        "fr-FR": "Lettre 1362. À la Sœur Françoise-Emmanuelle de Vidonne de Nouvery"
+      }
+    },
+    {
+      "id": "l1363",
+      "title": {
+        "fr-FR": "Lettre 1363. À la Mère Marie-Catherine de Sève de Saint-André"
+      }
+    },
+    {
+      "id": "l1364",
+      "title": {
+        "fr-FR": "Lettre 1364. À la Mère Anne-Marguerite Clément"
+      }
+    },
+    {
+      "id": "l1365",
+      "title": {
+        "fr-FR": "Lettre 1365. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1366",
+      "title": {
+        "fr-FR": "Lettre 1366. À la Mère Marie-Angélique Bellefin"
+      }
+    },
+    {
+      "id": "l1367",
+      "title": {
+        "fr-FR": "Lettre 1367. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1368",
+      "title": {
+        "fr-FR": "Lettre 1368. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1369",
+      "title": {
+        "fr-FR": "Lettre 1369. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1370",
+      "title": {
+        "fr-FR": "Lettre 1370. À la Mère Jeanne-Françoise de Vallon"
+      }
+    },
+    {
+      "id": "l1371",
+      "title": {
+        "fr-FR": "Lettre 1371. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1372",
+      "title": {
+        "fr-FR": "Lettre 1372. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l1373",
+      "title": {
+        "fr-FR": "Lettre 1373. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1374",
+      "title": {
+        "fr-FR": "Lettre 1374. À la Sœur Marie-Héléne Guébin"
+      }
+    },
+    {
+      "id": "l1376",
+      "title": {
+        "fr-FR": "Lettre 1376. À la Mère Marie-Marguerite Balla.vd"
+      }
+    },
+    {
+      "id": "l1377",
+      "title": {
+        "fr-FR": "Lettre 1377. À Madame la Comtesse de Touloxjom"
+      }
+    },
+    {
+      "id": "l1378",
+      "title": {
+        "fr-FR": "Lettre 1378. À la Mère Olaude-Catherixic de Vallon"
+      }
+    },
+    {
+      "id": "l1379",
+      "title": {
+        "fr-FR": "Lettre 1379. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1380",
+      "title": {
+        "fr-FR": "Lettre 1380. À la Sœur Marie-Remée de Guèroust"
+      }
+    },
+    {
+      "id": "l1381",
+      "title": {
+        "fr-FR": "Lettre 1381. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l1382",
+      "title": {
+        "fr-FR": "Lettre 1382. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1383",
+      "title": {
+        "fr-FR": "Lettre 1383. À Monsieur de Coysia"
+      }
+    },
+    {
+      "id": "l1384",
+      "title": {
+        "fr-FR": "Lettre 1384. À la Sœur Marie-Suzanne Duret"
+      }
+    },
+    {
+      "id": "l1385",
+      "title": {
+        "fr-FR": "Lettre 1385. À Monsieur Charles-Auguste de Sales"
+      }
+    },
+    {
+      "id": "l1386",
+      "title": {
+        "fr-FR": "Lettre 1386. À Madame Royale, Christine de France"
+      }
+    },
+    {
+      "id": "l1387",
+      "title": {
+        "fr-FR": "Lettre 1387. À Mademoiselle de Chasteigmer d'Abain de la Rocheposay"
+      }
+    },
+    {
+      "id": "l1388",
+      "title": {
+        "fr-FR": "Lettre 1388. À la Mère Uarguerite-Scholastique Km Rot"
+      }
+    },
+    {
+      "id": "l1389",
+      "title": {
+        "fr-FR": "Lettre 1389. Circulaire Adressée aux Supérieures de la Visitation"
+      }
+    },
+    {
+      "id": "l1390",
+      "title": {
+        "fr-FR": "Lettre 1390. À la Mère Marie-Agnès le Roy"
+      }
+    },
+    {
+      "id": "l1391",
+      "title": {
+        "fr-FR": "Lettre 1391. À Monsieur Baytaz de Chateau-Martin, Doyen de la Collégiale de Notre-Dame d'Annecy"
+      }
+    },
+    {
+      "id": "l1392",
+      "title": {
+        "fr-FR": "Lettre 1392. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1393",
+      "title": {
+        "fr-FR": "Lettre 1393. À Monseigneur Pierre Fenouillet"
+      }
+    },
+    {
+      "id": "l1394",
+      "title": {
+        "fr-FR": "Lettre 1394. À la Mère Madeleine-Elisabeth de Lucinge"
+      }
+    },
+    {
+      "id": "l1395",
+      "title": {
+        "fr-FR": "Lettre 1395. À Monseigneur Nicolas de Grillé"
+      }
+    },
+    {
+      "id": "l1396",
+      "title": {
+        "fr-FR": "Lettre 1396. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1397",
+      "title": {
+        "fr-FR": "Lettre 1397. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l1398",
+      "title": {
+        "fr-FR": "Lettre 1398. À Monsieur le Chevalier Janus de Sales"
+      }
+    },
+    {
+      "id": "l1399",
+      "title": {
+        "fr-FR": "Lettre 1399. À Mademoiselle de Crhsteigner d'Abain de la Rocheposay"
+      }
+    },
+    {
+      "id": "l1400",
+      "title": {
+        "fr-FR": "Lettre 1400. À une Religieuse de la Visitation"
+      }
+    },
+    {
+      "id": "l1401",
+      "title": {
+        "fr-FR": "Lettre 1401. À la Même"
+      }
+    },
+    {
+      "id": "l1403",
+      "title": {
+        "fr-FR": "Lettre 1403. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1404",
+      "title": {
+        "fr-FR": "Lettre 1404. À la Mère Marie-Aimée de Rabutin"
+      }
+    },
+    {
+      "id": "l1405",
+      "title": {
+        "fr-FR": "Lettre 1405. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1406",
+      "title": {
+        "fr-FR": "Lettre 1406. À la Mèiie Marie-Henriette de Prunelay"
+      }
+    },
+    {
+      "id": "l1407",
+      "title": {
+        "fr-FR": "Lettre 1407"
+      }
+    },
+    {
+      "id": "l1408",
+      "title": {
+        "fr-FR": "Lettre 1408. Au Révérend Père Plumeret, Jésuite"
+      }
+    },
+    {
+      "id": "l1409",
+      "title": {
+        "fr-FR": "Lettre 1409. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1410",
+      "title": {
+        "fr-FR": "Lettre 1410. À la Mère Madeleine-Elisabeth de Lucinge"
+      }
+    },
+    {
+      "id": "l1411",
+      "title": {
+        "fr-FR": "Lettre 1411"
+      }
+    },
+    {
+      "id": "l1412",
+      "title": {
+        "fr-FR": "Lettre 1412. À la Mère Anne-Thérèse de Préchonnet"
+      }
+    },
+    {
+      "id": "l1413",
+      "title": {
+        "fr-FR": "Lettre 1413. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l1414",
+      "title": {
+        "fr-FR": "Lettre 1414. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1415",
+      "title": {
+        "fr-FR": "Lettre 1415. À la Sœur Marie-Suzanne Duret"
+      }
+    },
+    {
+      "id": "l1416",
+      "title": {
+        "fr-FR": "Lettre 1416. À Madame la Comtesse de Toulomjon"
+      }
+    },
+    {
+      "id": "l1417",
+      "title": {
+        "fr-FR": "Lettre 1417. À la Mère Anne-Marguerite Clément"
+      }
+    },
+    {
+      "id": "l1418",
+      "title": {
+        "fr-FR": "Lettre 1418. À Monseigneur Benoit-Théophile de Chevr0n-V1llette"
+      }
+    },
+    {
+      "id": "l1419",
+      "title": {
+        "fr-FR": "Lettre 1419. À Monsieur Baytaz de Chateau-Martin"
+      }
+    },
+    {
+      "id": "l1420",
+      "title": {
+        "fr-FR": "Lettre 1420. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l1421",
+      "title": {
+        "fr-FR": "Lettre 1421. À la Sœur Anne-Françoise du Clermont-Mont-Salvt-Jean"
+      }
+    },
+    {
+      "id": "l1422",
+      "title": {
+        "fr-FR": "Lettre 1422. À Saint Vincent de Paul"
+      }
+    },
+    {
+      "id": "l1423",
+      "title": {
+        "fr-FR": "Lettre 1423. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1424",
+      "title": {
+        "fr-FR": "Lettre 1424. À la Mère Marie-Agnès le Roy"
+      }
+    },
+    {
+      "id": "l1425",
+      "title": {
+        "fr-FR": "Lettre 1425. À la Mère Anne-Thérèse de Préchonnet"
+      }
+    },
+    {
+      "id": "l1426",
+      "title": {
+        "fr-FR": "Lettre 1426. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l1427",
+      "title": {
+        "fr-FR": "Lettre 1427. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1428",
+      "title": {
+        "fr-FR": "Lettre 1428. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1429",
+      "title": {
+        "fr-FR": "Lettre 1429. À Madame la Duchesse de Montmorency"
+      }
+    },
+    {
+      "id": "l1430",
+      "title": {
+        "fr-FR": "Lettre 1430. À Monsieur Baytaz de Chateau-Martin"
+      }
+    },
+    {
+      "id": "l1431",
+      "title": {
+        "fr-FR": "Lettre 1431. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l1432",
+      "title": {
+        "fr-FR": "Lettre 1432. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l1433",
+      "title": {
+        "fr-FR": "Lettre 1433. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1434",
+      "title": {
+        "fr-FR": "Lettre 1434. À Madame la Duchesse de Montmorency"
+      }
+    },
+    {
+      "id": "l1435",
+      "title": {
+        "fr-FR": "Lettre 1435. À Monsieur Baytaz de Chateau-Martin"
+      }
+    },
+    {
+      "id": "l1436",
+      "title": {
+        "fr-FR": "Lettre 1436. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1437",
+      "title": {
+        "fr-FR": "Lettre 1437. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1438",
+      "title": {
+        "fr-FR": "Lettre 1438. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1439",
+      "title": {
+        "fr-FR": "Lettre 1439. À la Révérende Mère de la Trinite"
+      }
+    },
+    {
+      "id": "l1440",
+      "title": {
+        "fr-FR": "Lettre 1440. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1441",
+      "title": {
+        "fr-FR": "Lettre 1441. À une Communauté de la Visitation"
+      }
+    },
+    {
+      "id": "l1442",
+      "title": {
+        "fr-FR": "Lettre 1442. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1443",
+      "title": {
+        "fr-FR": "Lettre 1443. À Monseigneur Octave de Bellegarde"
+      }
+    },
+    {
+      "id": "l1444",
+      "title": {
+        "fr-FR": "Lettre 1444"
+      }
+    },
+    {
+      "id": "l1445",
+      "title": {
+        "fr-FR": "Lettre 1445. À la Mère Marie-Innocente Joly de la Roche"
+      }
+    },
+    {
+      "id": "l1446",
+      "title": {
+        "fr-FR": "Lettre 1446. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1447",
+      "title": {
+        "fr-FR": "Lettre 1447"
+      }
+    },
+    {
+      "id": "l1449",
+      "title": {
+        "fr-FR": "Lettre 1449. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1450",
+      "title": {
+        "fr-FR": "Lettre 1450. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l1451",
+      "title": {
+        "fr-FR": "Lettre 1451. À la Sœur Françoise-Jéronyme Charcot"
+      }
+    },
+    {
+      "id": "l1452",
+      "title": {
+        "fr-FR": "Lettre 1452. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1453",
+      "title": {
+        "fr-FR": "Lettre 1453. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1454",
+      "title": {
+        "fr-FR": "Lettre 1454. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1455",
+      "title": {
+        "fr-FR": "Lettre 1455. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1456",
+      "title": {
+        "fr-FR": "Lettre 1456. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l1457",
+      "title": {
+        "fr-FR": "Lettre 1457. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1458",
+      "title": {
+        "fr-FR": "Lettre 1458"
+      }
+    },
+    {
+      "id": "l1459",
+      "title": {
+        "fr-FR": "Lettre 1459. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1460",
+      "title": {
+        "fr-FR": "Lettre 1460. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1461",
+      "title": {
+        "fr-FR": "Lettre 1461. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1462",
+      "title": {
+        "fr-FR": "Lettre 1462. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1463",
+      "title": {
+        "fr-FR": "Lettre 1463. Au Même"
+      }
+    },
+    {
+      "id": "l1464",
+      "title": {
+        "fr-FR": "Lettre 1464. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1465",
+      "title": {
+        "fr-FR": "Lettre 1465. Au Même"
+      }
+    },
+    {
+      "id": "l1466",
+      "title": {
+        "fr-FR": "Lettre 1466. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1467",
+      "title": {
+        "fr-FR": "Lettre 1467. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1468",
+      "title": {
+        "fr-FR": "Lettre 1468. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1469",
+      "title": {
+        "fr-FR": "Lettre 1469. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1470",
+      "title": {
+        "fr-FR": "Lettre 1470. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1471",
+      "title": {
+        "fr-FR": "Lettre 1471. À la Mère Anne-Louise de Marin de Saint-Michel"
+      }
+    },
+    {
+      "id": "l1472",
+      "title": {
+        "fr-FR": "Lettre 1472. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1473",
+      "title": {
+        "fr-FR": "Lettre 1473. À la Même"
+      }
+    },
+    {
+      "id": "l1474",
+      "title": {
+        "fr-FR": "Lettre 1474. À la Mère Marie-Françoise Humbert"
+      }
+    },
+    {
+      "id": "l1475",
+      "title": {
+        "fr-FR": "Lettre 1475. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1476",
+      "title": {
+        "fr-FR": "Lettre 1476. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1477",
+      "title": {
+        "fr-FR": "Lettre 1477. À la Mère Marie-Henriette de Prunelay"
+      }
+    },
+    {
+      "id": "l1478",
+      "title": {
+        "fr-FR": "Lettre 1478. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1479",
+      "title": {
+        "fr-FR": "Lettre 1479. À la Mère Madeleine-Elisabeth de Lucinge"
+      }
+    },
+    {
+      "id": "l1480",
+      "title": {
+        "fr-FR": "Lettre 1480. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1481",
+      "title": {
+        "fr-FR": "Lettre 1481. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1482",
+      "title": {
+        "fr-FR": "Lettre 1482. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1483",
+      "title": {
+        "fr-FR": "Lettre 1483. À la Mère Marie-Henriette de Prunelay"
+      }
+    },
+    {
+      "id": "l1484",
+      "title": {
+        "fr-FR": "Lettre 1484. À la Mère Marie-Marthe de Martel"
+      }
+    },
+    {
+      "id": "l1485",
+      "title": {
+        "fr-FR": "Lettre 1485. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l1487",
+      "title": {
+        "fr-FR": "Lettre 1487. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1488",
+      "title": {
+        "fr-FR": "Lettre 1488. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1489",
+      "title": {
+        "fr-FR": "Lettre 1489. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1490",
+      "title": {
+        "fr-FR": "Lettre 1490. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1491",
+      "title": {
+        "fr-FR": "Lettre 1491. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1492",
+      "title": {
+        "fr-FR": "Lettre 1492. À la Mère Françoise-Emmanuelle de Vidonne de Nouvery"
+      }
+    },
+    {
+      "id": "l1494",
+      "title": {
+        "fr-FR": "Lettre 1494. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1495",
+      "title": {
+        "fr-FR": "Lettre 1495. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l1496",
+      "title": {
+        "fr-FR": "Lettre 1496. À un Religieux"
+      }
+    },
+    {
+      "id": "l1497",
+      "title": {
+        "fr-FR": "Lettre 1497. Circulaire Adressée aux Supérieures de la Visitation"
+      }
+    },
+    {
+      "id": "l1498",
+      "title": {
+        "fr-FR": "Lettre 1498. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1499",
+      "title": {
+        "fr-FR": "Lettre 1499. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1500",
+      "title": {
+        "fr-FR": "Lettre 1500. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1501",
+      "title": {
+        "fr-FR": "Lettre 1501. À la Mère Marie-Catherine de Glétain"
+      }
+    },
+    {
+      "id": "l1502",
+      "title": {
+        "fr-FR": "Lettre 1502. À la Mère Marie-Henriette de Prlnelay"
+      }
+    },
+    {
+      "id": "l1503",
+      "title": {
+        "fr-FR": "Lettre 1503. À la Mère Marie-Innocente Joly de la Roche"
+      }
+    },
+    {
+      "id": "l1504",
+      "title": {
+        "fr-FR": "Lettre 1504. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1505",
+      "title": {
+        "fr-FR": "Lettre 1505. À Monsieur Noël Brulart, Commandeur de Sillery"
+      }
+    },
+    {
+      "id": "l1506",
+      "title": {
+        "fr-FR": "Lettre 1506. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l1507",
+      "title": {
+        "fr-FR": "Lettre 1507. À la Révérende Mère Perrucard de Ballon"
+      }
+    },
+    {
+      "id": "l1508",
+      "title": {
+        "fr-FR": "Lettre 1508. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1509",
+      "title": {
+        "fr-FR": "Lettre 1509. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1510",
+      "title": {
+        "fr-FR": "Lettre 1510. À la Mère Catherine-Elisabeth de la Tour"
+      }
+    },
+    {
+      "id": "l1511",
+      "title": {
+        "fr-FR": "Lettre 1511. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1512",
+      "title": {
+        "fr-FR": "Lettre 1512. Circulaire Adressée aux Supérieures de la Visitation"
+      }
+    },
+    {
+      "id": "l1513",
+      "title": {
+        "fr-FR": "Lettre 1513. À la Mère Catherine-Elisabeth de la Tour"
+      }
+    },
+    {
+      "id": "l1514",
+      "title": {
+        "fr-FR": "Lettre 1514. À la Mère Marie-Catherine de Glétain"
+      }
+    },
+    {
+      "id": "l1515",
+      "title": {
+        "fr-FR": "Lettre 1515. À Monseigneur Benoit-Théophile de Chevron-Villette"
+      }
+    },
+    {
+      "id": "l1516",
+      "title": {
+        "fr-FR": "Lettre 1516. Pi la Sœur Marie-Agnès de Bauffremo.vt"
+      }
+    },
+    {
+      "id": "l1518",
+      "title": {
+        "fr-FR": "Lettre 1518. À une Grande Servante de Dieu"
+      }
+    },
+    {
+      "id": "l1519",
+      "title": {
+        "fr-FR": "Lettre 1519. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1520",
+      "title": {
+        "fr-FR": "Lettre 1520. À Madame Mathilde de Savoie"
+      }
+    },
+    {
+      "id": "l1521",
+      "title": {
+        "fr-FR": "Lettre 1521"
+      }
+    },
+    {
+      "id": "l1522",
+      "title": {
+        "fr-FR": "Lettre 1522. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l1523",
+      "title": {
+        "fr-FR": "Lettre 1523. À la Mère Catherine-Elisabeth de la Tour"
+      }
+    },
+    {
+      "id": "l1524",
+      "title": {
+        "fr-FR": "Lettre 1524. À la Sœur Marie-Madeleine de Granieu"
+      }
+    },
+    {
+      "id": "l1525",
+      "title": {
+        "fr-FR": "Lettre 1525. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1526",
+      "title": {
+        "fr-FR": "Lettre 1526. À la Mère Catherine-Elisabeth de la Tour"
+      }
+    },
+    {
+      "id": "l1527",
+      "title": {
+        "fr-FR": "Lettre 1527. À la Sœur Françoisli-Jéromyme Charcot"
+      }
+    },
+    {
+      "id": "l1528",
+      "title": {
+        "fr-FR": "Lettre 1528. À Monseigneur de Watteville"
+      }
+    },
+    {
+      "id": "l1529",
+      "title": {
+        "fr-FR": "Lettre 1529. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l1530",
+      "title": {
+        "fr-FR": "Lettre 1530. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1531",
+      "title": {
+        "fr-FR": "Lettre 1531. À la Mère Fraivçoise-Augustlve Brung"
+      }
+    },
+    {
+      "id": "l1532",
+      "title": {
+        "fr-FR": "Lettre 1532. À une Grande Servante de Dieu"
+      }
+    }
+  ]
+}
