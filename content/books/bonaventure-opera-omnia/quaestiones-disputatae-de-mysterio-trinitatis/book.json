@@ -1,0 +1,90 @@
+{
+  "id": "bonaventure-quaestiones-disputatae-de-mysterio-trinitatis",
+  "cover": "classic",
+  "name": {
+    "la": "Quaestiones disputatae de mysterio Trinitatis",
+    "en-US": "Disputed Questions on the Mystery of the Trinity",
+    "pt-BR": "Questões disputadas sobre o mistério da Trindade"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Octo quaestiones disputatae de mysterio Trinitatis, in articulos divisae: Deum esse, simplicitatem, infinitatem, aeternitatem, immutabilitatem, necessitatem, primitatem. Textus ex editione Quaracchi (Opera omnia V, 1891), ex scanno OCR, sine notis criticis.",
+    "en-US": "Eight disputed questions on the mystery of the Trinity, each in articles: how the existence, simplicity, infinity, eternity, immutability and necessity of God stand with the Trinity of persons. The text is the Quaracchi edition (Opera omnia V, 1891) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Oito questões disputadas sobre o mistério da Trindade."
+  },
+  "composed": "c. 1254",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/quaestiones-disputatae-de-mysterio-trinitatis",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1891
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic05bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. V (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1891), pp. 45-114.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type scholia are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1891 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "la": "Quaestio I"
+      }
+    },
+    {
+      "id": "q02",
+      "title": {
+        "la": "Quaestio II"
+      }
+    },
+    {
+      "id": "q03",
+      "title": {
+        "la": "Quaestio III. Utrum siinul slent trinilas el summa simplicitas"
+      }
+    },
+    {
+      "id": "q04",
+      "title": {
+        "la": "Quaestio IV. Utrum trinitas stet cum summa infinitate"
+      }
+    },
+    {
+      "id": "q05",
+      "title": {
+        "la": "Quaestio V"
+      }
+    },
+    {
+      "id": "q06",
+      "title": {
+        "la": "Quaestio VI. Utrum trinitas possit stare cum summa imniutabilitate"
+      }
+    },
+    {
+      "id": "q07",
+      "title": {
+        "la": "Quaestio VII. Utrum possit stare trinitas cum summa necessitale"
+      }
+    },
+    {
+      "id": "q08",
+      "title": {
+        "la": "Quaestio VIII. Utrum possit simul stare trinitas cum summa primitate"
+      }
+    }
+  ]
+}
