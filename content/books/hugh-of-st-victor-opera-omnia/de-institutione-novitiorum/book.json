@@ -1,0 +1,180 @@
+{
+  "id": "hugh-de-institutione-novitiorum",
+  "cover": "classic",
+  "name": {
+    "la": "De institutione novitiorum",
+    "en-US": "On the Instruction of Novices",
+    "pt-BR": "Sobre a formação dos noviços"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De institutione novitiorum: de disciplina interioris hominis et exterioris vitae.",
+    "en-US": "Hugh’s manual for novices: conduct, discipline of mind and body, reading, and the way into religious life. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "O manual de Hugo para noviços: comportamento, disciplina do espírito e do corpo, leitura e o caminho da vida religiosa."
+  },
+  "composed": "c. 1125",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/de-institutione-novitiorum",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeInNo",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeInNo, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput I."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Prologus. De tribus ad beatitudinem perducentibus, quae sunt scientia, disciplina, bonitas."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput I. Quibus modis inveniatur recte vivendi scientia."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput II. Quid in omni actu agendum."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput III. Quid in singulis locis agendum."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput IV. Quid singulis temporibus agendum."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput V. Quid erga singulas personas agendum."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VI. Quales se debeant exhibere qui per doctrinam proficere volunt."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput VII. De exemplis sanctorum imitandis."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput VIII. De iis quae in sacris Scripturis sunt attendenda."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput IX. Quomodo in omnibus operibus suis debeat homo esse circumspectus."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput X. Quid sit disciplina, et quantum valeat."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XI. De disciplina servanda in habitu."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XII. De disciplina servanda in gestu."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XIII. De disciplina in locutione servanda; et primo quid loquendum."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput XIV. Cui loquendum."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput XV. Ubi loquendum."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput XVI. Quando tacendum et quando loquendum."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput XVII. Quomodo loquendum sit."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput XVIII. De disciplina in mensa servanda, et primo in habitu et gesta."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput XIX. De triplici observatione disciplinae in cibo, et primo quid comedendum."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput XX. Secundo, quantum comedendum."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput XXI. Tertio, quomodo comedendum."
+      }
+    }
+  ]
+}

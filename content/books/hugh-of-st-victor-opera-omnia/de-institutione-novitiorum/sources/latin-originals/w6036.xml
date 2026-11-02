@@ -1,0 +1,1863 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De institutione novitiorum</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeInNo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>CUJUS HAEC SUNT CAPITULA:</head>
+<div2>
+          <head>CAP. I. </head>
+          <p>
+ <hi>Quibus modis inveniatur recte vivendi scientia.</hi> --CAP. II. <hi>Quid in omni actu agendum.</hi> --CAP. III. <hi>Quid in singulis locis agendum</hi> 
+--CAP. IV. <hi>Quid singulis temporibus agendum.</hi> --CAP. V. <hi>Quid erga singulas
+personas agendum.</hi> --CAP. VI. <hi>Quales se debeant exhibere, qui per doctrinam proficere volunt.</hi> --CAP. VII. <hi>De exemplis sanctorum imitandis.</hi> 
+--CAP. VIII. <hi>De iis quae in sacris Scripturis sunt attendenda.</hi> --CAP. IX. <hi>Quomodo in omnibus operibus suis debeat homo esse circumspectus.</hi> 
+--CAP. X. <hi>Quid sit disciplina, et quantum
+valeat.</hi> --CAP. XI. <hi>De disciplina servanda in habitu.</hi> --CAP. XII. <hi>De disciplina servanda in gestu.</hi> --CAP.
+ XIII. <hi>De disciplina servanda in locutione, et primo quid loquendum.</hi> --CAP. XIV. <hi>Cui loquendum sit.</hi> --CAP.
+ XV. <hi>Ubi loquendum.</hi> --CAP. XVI. <hi>Quando tacendum et quando loquendum.</hi> --CAP. XVII. <hi>Quomodo
+loquendum sit.</hi> --CAP. XVIII. <hi>De disciplina in mensa, et primo in habitu et gestu.</hi> --CAP. XIX. <hi>De triplici
+observatione disciplinae in cibo: et primo quid comedendum.</hi> --CAP. XX. <hi>Secundo quantum comedendum.</hi> 
+--CAP. XXI. <hi>Tertio quomodo comedendum.</hi> 
+</p>
+        </div2>
+      </div1>
+
+<div1>
+        <head>PROLOGUS. <hi>De tribus ad beatitudinem perducentibus, quae sunt scientia, disciplina, bonitas.</hi> </head>
+
+<pb n="0925A"/>
+<p> <hi>Quia, fratres, largiente Domino de vana conversatione
+hujus saeculi per desiderium sanctum conversi estis,
+et ad ipsum qui fecit vos tota mentis intentione ac
+voto redire disponitis, oportet vos nunc ipsam viam
+discere per quam possitis ad illum quem quaeritis pervenire.
+Ipse est enim vera et sempiterna vita, extra quem
+sicut nemo vivere potest, ita quicunque in ipso et cum
+ipso vivit, beatus est. Si igitur Deum quaeritis (imo
+quia quaeritis) veram profecto ac perpetuam beatitudinem
+habere desideratis. Ad beatitudinem autem nemo
+venire potest nisi per virtutem, et virtus non alio modo
+<pb n="0925B"/>
+veraciter apprehenditur, nisi disciplina virtutis non
+negligenter custodiatur. Usus enim disciplinae ad virtutem
+animum dirigit, virtus autem ad beatitudinem
+perducit. Ac per hoc exercitium disciplinae esse debet
+vestra inchoatio, virtus perfectio, praemium virtutis
+aeterna beatitudo. Haec est, fratres, via, et ista est patria,
+per quam currimus et ad quam pervenire desideramus.
+Hanc viam et hanc patriam Psalmista viderat
+cum dicebat:  « Beati immaculati in via, qui ambulant
+in lege Domini <note>(Psal. CXVIII)</note>
+          </hi>. »  <hi>Hanc viam et
+hanc patriam viderat cum dicebat:  « Disciplina tua
+correxit me in finem <note>(Psal. XVII)</note>
+          </hi>. »  <hi>Disciplina namque
+Dei in finem corrigit, quia plene et perfecte hominem
+reformans, per virtutem ad beatitudinem perducit.
+<pb n="0925C"/>
+Hanc viam et hanc patriam tunc etiam viderat
+cum dicebat:  « Bonitatem et disciplinam et scientiam
+doce me <note>(Psal. CXVIII)</note>
+          </hi>. »  <hi>Consideravit namque quod
+per bonitatem venitur ad beatitudinem, atque ideo
+bonitatem doceri se petit, quia per hanc ad illam pertingere
+concupivit. Sed quia rursum vidit quod ad
+bonitatem obtinendam disciplina necessaria esset;
+adjunxit et dixit:  « Disciplinam doce me. »  Paratus
+enim erat disciplinam servare, et non solum ad illam
+<pb n="0926A"/>
+servandam spontaneum se obtulit, sed ut illam quoque
+accipere mereretur, supplicavit. Postremo quia vidit
+neminem servare posse disciplinam boni operis, qui
+non habeat scientiam vere discretionis, hanc quoque
+sibi dari quasi quoddam fundamentum et principium
+sanctae conversationis postulavit. « Bonitatem, inquit,
+et disciplinam, et scientiam doce me. »  Et ut se idoneum
+ad haec discenda ostenderet, novissime secutus
+adjunxit:  « Quia mandatis tuis credidi <note>(ibid.)</note>
+          </hi>, »  <hi>ac
+si diceret: Deo. Ideo docere me debes qualiter tibi
+servire debeo, quia praeceptis tuis jam per contumaciam
+non resisto; credo bonum esse quod praecipis,
+credo verum esse quod promittis; acquievi jam propter
+te mea relinquere, et idcirco quaeso per te merear tua
+bona obtinere,  « quia mandatis tuis credidi. »  Sic et
+<pb n="0926B"/>
+vos fratres gratia Dei jam credidistis mandatis ejus,
+reliquistis vestra propter ipsum, quaerite nunc sua ab
+ipso ut mereamini per sua venire ad ipsum. Credidistis
+mandatis ejus dicentis:  « Si vis perfectus esse,
+vade et vende omnia quae habes, et veni, sequere me, et
+habebis thesaurum in coelo <note>(Matth. XIX)</note>
+          </hi>. »  <hi>Fecistis
+quod praecepit, speratis quod promisit, petite nunc
+ab ipso quod ad id obtinendum expedit. Nullus jam
+carnalis affectus a percipienda gratia ejus vos impedit,
+reliquistis patrem et matrem, fratres et sorores, cognatos
+et affines, et praecinxistis vos ad currendam
+viam ejus. Nihil jam amori illius praeponitis, illum
+solum quaeritis pro quo lucrificando omnia hujus
+mundi blandimenta quasi absinthium amara, et omnem
+<pb n="0926C"/>
+gloriam atque decorem quasi stercora reputatis.
+Intrate viam ejus, et currite ad ipsum, tanto citius
+requiem habebitis, quanto citius ad eum pervenietis.
+Via ad ipsum sunt scientia, disciplina, bonitas; per
+scientiam itur ad disciplinam, per disciplinam itur ad
+bonitatem, per bonitatem itur ad beatitudinem. Hoc
+est propter quod vobiscum loqui coepimus, ut quantum
+Dominus dederit, de hac via qua ad ipsum itur vos
+instruamus.</hi> </p>
+
+
+<div2>
+          <head>CAP. I. <hi>Quibus modis inveniatur recte vivendi scientia.</hi> </head>
+
+<pb n="0927A"/>
+<p>Primum igitur scire debetis quod hanc scientiam
+(quae ad institutionem recte et honeste vivendi pertinet)
+multis modis hominem colligere et comparare
+sibi oportet, partim ratione, partim doctrina, partim
+exemplo, partim meditatione sanctarum Scripturarum,
+partim assidua inspectione operum ac
+morum suorum. Ratione quidem hoc modo. Debet
+siquidem diligenter considerare, et quantum valet
+per semetipsum discernere quid liceat et quid non
+liceat, quid deceat, et quid non deceat, in omni actu,
+et in omni loco, in omni tempore, erga omnem personam.</p>
+</div2>
+
+<div2>
+          <head>CAP. II. <hi>Quid in omni actu agendum.</hi> </head>
+<p>In omni actu, hoc est qualiter sacra et divina
+<pb n="0927B"/>
+mysteria impleri oporteat, qualiter humana officia,
+et quae ad usum corporis pertinent exercere conveniat.
+Quam timoratum, quam sollicitum, quam devotum
+ac religiosum in Dei servitio homo exhibere
+se debeat, quam spontaneum, quam hilarem, et
+quam paratum offerre in sublevandis necessitatibus
+proximorum. Quam parcum, quam honestum, et
+quam nulli importunum in iis quae ad se pertinent
+quaerendis ac perficiendis praestare, ut semper et sibi
+sit parcus, et proximo promptus, et Deo devotus!
+Qualiter assuescat suas in omnibus voluntates frangere,
+et alienis se voluntatibus (quantum fas et decens
+esse constiterit) per omnia discas inclinare.
+Qualis sedens, qualis jacens, qualis ambulans, qualis
+loquens, qualis tacens, qualis comedens, qualis
+<pb n="0927C"/>
+jejunans, qualis denique aliquid agens, et qualis vacans
+esse debeat.</p>
+</div2>
+
+<div2>
+          <head>CAP. III. <hi>Quid in singulis locis agendum.</hi> </head>
+<p>Non solum autem quid agat, sed etiam in quo loco
+quid agere debeat, consideret necesse est. Alius est
+modus habendi in eo loco ubi Deus adoratur, alius
+in eo ubi corpus reficitur. Alius in eo qui locutioni
+deputatus est, alius in eo ubi silentium custoditur.
+Alius denique intus, alius foris, alius in secreto,
+alius in publico. Et, quamvis in nullo loco disciplinam
+suam homo deserere debeat, diligentius tamen
+et magis sollicite ibi conservanda est, ubi vel neglecta
+pluribus generat scandalum, vel custodita bonae
+imitationis exemplum. Discernendum est igitur quae
+<pb n="0927D"/>
+sint illa quae in custodienda disciplina nusquam intermitti
+possunt, et quae rursum illa sint quae pro loco
+et tempore nunc intermitti, nunc exerceri volunt.
+Saepe tamen illa quae in publico necessaria sunt,
+quemdam prius in secreto exercitationis usum exposcunt,
+quia si ea prorsus in occulto negligimus,
+uti postmodum eis dum opus est in publico non valemus.
+Et tunc aut prorsus a disciplina deficientes
+intuentibus scandalum facimus, aut inepte id quod
+in nobis non est simulare conantes, irrisionem excitamus.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV. <hi>Quid singulis temporibus agendum.</hi> </head>
+<p>Similiter quoque et tempora agendi discernenda
+sunt. Alius est modus vivendi in nocte, alius in die.
+Nox tempus est silentii et quietis. Dies tempus laboris,
+<pb n="0928A"/>
+et motionis, et operis. In nocte secum debent
+esse homines, et aut fessa membra somno reficere,
+aut orationibus vel meditationibus sanctis in silentio
+animum exercere. In die vero de secreto suo in unum
+coeunt, et mutuo videndos se et imitandos ostendunt.
+Tunc exempla bonorum operum, tunc exhortationes
+verborum dare et accipere alium alii et alium
+ab alio licet. Tunc qui alienos actus scrutatur, impudens
+jure dicitur; tunc qui alienos actus (quantum
+expedit) imitari dissimulat, torpens et inutilis
+merito nominatur. Sed nec eadem esse debet facies
+nostra postquam refecti sumus, quae fuit priusquam
+cibum sumpsimus. Ante sumptum cibum magis hilares
+nos esse convenit, ne ipsa nostra abstinentia
+gravis et molesta videatur; post vero magis modestos
+<pb n="0928B"/>
+et tacitos, ne per gulae vitium crapula nos inflammasse
+putetur. Ante sumptum cibum, doctrinae
+et orationis tempus est; post vero operis, quia et
+tunc exercendus est animus, dum adhuc ad studium
+spiritale levis est, et tunc reprimenda est caro, quando
+calor incentivi ejus per cibum amplius excitatus
+est. Sic et festi dies aliud studium et alium conversationis
+modum exigunt, atque alium ii in quibus
+operari licet, exposcunt. In illis nos oportet ad ecclesiam
+studiosius et alacrius convenire, et ad celebranda
+divina mysteria devotius intendere, atque in
+oratione diutius perseverare, habitu, incessu et acte
+majorem devotionem erga cultum divinum demonstrare,
+nihil non sanctum, nihil non divinum; nihil
+non ordinatum agere, linguam a vanitoquio cohibere,
+<pb n="0928C"/>
+pedes ab excursu et discursu stringere, oculos comprimere,
+vultum inclinare, mentem erigere, omnem
+denique actum et omnem motum cordis pariter et
+corporis ministerio divino mancipare, atque (ut ita
+dicam) quadam conversationis novitate festos dies
+honorare. In caeteris vero diebus quibus operari
+licet, nullus omnino otiosus apparere, sed unusquisque
+in eo quod sibi injunctum fuerit, non quod ipse
+elegerit, opere (quantum scientiae et virium suarum
+possibilitas suppetit) sese debet exercere. Quantum
+enim decoris addit diebus festis quies vacationis,
+tantum ornamenti confert diebus caeteris labor operis;
+ita ut et in illis quisquis noluerit esse quietus,
+judex sit vanitatis suae, et in istis qui non fuerit studiosus,
+<pb n="0928D"/>
+testis pigritiae. Carnales siquidem mentes,
+ne vel in illis diebus quiescant, vanitas exagitat, vel
+ne in istis in bono opere se exerceant, pigritia ligat.
+Quapropter non negligenter quidem habenda est in
+bono opere discretio temporum; quia, sicut malum
+opus nullo tempore laudabile est, ita bonum opus
+quodammodo reprehensione dignum judicatur, si
+tempore opportuno factum non est.</p>
+</div2>
+
+<div2>
+          <head>CAP. V. <hi>Quid erga singulas personas agendum.</hi> </head>
+<p>Discretio personarum quantum quidem pertinet
+ad dilectionem, secundum meritum, quantum vero
+ad venerationem, secundum aetatem et officium habenda
+est. Meliores diligere, superiores honorare
+debemus, quia percontumacia est sive in eo qui
+propter inferiorem gradum, in homine virtutem despicit;
+<pb n="0929A"/>
+sive in eo qui propter vitam inferiorem,
+gradum superiorem contemnit. Istis ergo honor,
+illis amor impendatur, sic tamen ut et honor istorum
+sit voluntarius, et illorum amor venerandus. Reverentia
+enim sine amore magis servilis est, et amore
+sive reverentia puerilis judicari debet. Cum tanta
+igitur humilitate et reverentia melioribus exhibendum
+est beneficium dilectionis, ut illis quasi ex necessitate
+videamur esse subjecti, et cum tanto affectu
+atque hilaritate superioribus solvendum est obsequium
+subjectionis, ut solo potius dilectionis
+debito illis credamur astricti. Istis sic reddamus sua
+quasi nostrum impenderemus; illis sic exhibeamus
+nostra, quasi suum redderemus.</p>
+<p>Sex denique modis discretionem personarum habendam
+<pb n="0929B"/>
+ex his colligimus, tribus secundum dignitatem,
+et tribus secundum conversationem. Alii namque
+secundum dignitatem superiores sunt, alii aequales,
+alii inferiores. Superioribus obedientiam, timorem,
+obsequium et venerationem debemus exhibere,
+cum aequalibus pacem et concordiam custodire,
+invicem obsequio, beneficio et honore praevenire,
+in omni actione et verbo superiorem eis locum tribuere.
+Et si quando fortassis in aliquo negotio eos
+praeire cogamur, cum omni humilitate et reverentia
+quae facienda sunt non praecipere sed demonstrare,
+et si ut ipsi nos praecedant contigerit, cum alacritate
+et devotione quasi ex necessitate subjecti obedire.
+Inferioribus semper beneficium et auxilium
+impendere, nunquam improperare, sine contumelia
+<pb n="0929C"/>
+corripere, sine superbia gubernare, sine crudelitate
+castigare, cum pietate fovere. Venerationem non
+exigere, societatem atque aequalitatem amare,
+majoribus per timorem subdi, aequalibus per charitatem
+obsequi, minoribus per humilitatem coaequari,
+praecipientibus parati, obedientibus modesti,
+maledicentibus taciti, laudantibus verecundi.</p>
+<p>Item secundum conversationem alios nobis quasi
+superiores, alios quasi aequales, alios quasi inferiores
+debemus attendere. Illorum conversatio inferior
+est nobis, quorum facta etsi condemnare non praesumimus,
+imitari tamen non debemus. Illorum
+conversatio par nobis est, quae sic nostrae infirmitati
+contemperata est, ut et virtutis exemplum praebeat,
+et cooperandi facilitate in consortium nos suae
+<pb n="0929D"/>
+exercitationis admittat. Illorum conversatio supra
+nos est, quam venerari quidem et admirari possumus,
+imitari autem non valemus. Illorum conversatio
+superior nobis est, qui per longum disciplinae
+exercitium intantum profecerunt, ut virtutem illorum
+nostra infirmitas quamvis incipiat per amorem
+appetere, per imitationem tamen non valet coaequare.
+Illorum conversatio quasi par nobis est,
+quorum opera ita nostris viribus contemperantur,
+ut in eis nihil sit quod possibilitatem nostram excedat,
+et tamen devotio nostra satis in eis quod imitari
+possit inveniat. Illorum conversatio quasi inferior
+nobis est, qui vel tanta nequeunt, quanta
+nos facere possumus, vel talia faciunt qualia nos
+<pb n="0930A"/>
+imitari non debemus. Proinde in his, talis habenda
+est discretio, ut superioribus quidem in omni loco
+et in omni opere vel sermone exhibere studeamus
+reverentiam, et quidquid egerint aut ubicunque
+fuerint, non praesumamus impudenter eis nos quasi
+coaequando ingerere. Sic namque debemus in ejusmodi
+virtutis exemplum quod imitemur, quodammodo
+taciti et a longe considerare, ut tamen consortium
+cooperandi nunquam praesumamus expetere,
+quatenus dum eis ubique cedimus, facile ex
+nostra modestia clareat, quam humilia de nobis, et
+quam sublimia de illis sentiamus. Negligentes vero
+et maxime eos quorum opera vel studia reprehensione
+digna apparent, tali nos cautela declinare
+oportet, ut et fugiamus quod faciunt, et tamen judicare
+<pb n="0930B"/>
+non praesumamus quod sunt. Cogitemus in
+ejusmodi, nobis neque dari exemplum neque permitti
+judicium, quia hoc in eis fortassis ignorantia
+aut infirmitas excusat, quod si a nobis fieret, excusationem
+non haberet. Itaque necesse est ut sicut
+perfectorum societatem propter reverentiam appetere
+non praesumimus, ita quoque istorum consortium
+propter cautelam fugiamus, illos honorando,
+quia talibus sociari digni non sumus, istos cavendo,
+quia talibus sociati facile corrumpi possumus. Praeterea
+sicut is qui superioribus semper sociari appetit,
+se elatum esse indicat, ita qui cum pejoribus
+assidue conversari concupiscit, depravatum se esse
+demonstrat. Et ideo cum malorum consortium appetere
+nolumus, duplex nobis utilitatis fructus
+<pb n="0930C"/>
+provenit, quia et culpam fugimus, et innocentiae
+nostrae testimonium perhibemus. Quotidiana igitur
+et frequens conversatio nostra cum mediis et aequalibus
+nobis esse debet, ita ut inter eos etiam quoscunque
+in bono opere ferventiores cernimus, eorum
+societatem atque familiaritatem avidius appetamus.
+Cum his vero tanta nobis pacis et concordiae
+servandae diligentia sit, ut in nullo, inquam, negotio
+quantum in nobis est, fraterna dilectio perturbetur.
+Studeamus eis injuriam nunquam inferre
+aut molestiam, illatam vero nobis propter amorem
+fraternae charitatis aequo animo sustinere, nihil
+contentiose aut arroganter erga eos agere, sed
+parati semper in omni opere et pertinaciter insistentibus
+<pb n="0930D"/>
+cedere, et laborantibus libenter subvenire.
+Et quia inter pares nonnunquam perversa quaedam
+virtutis aemulatio esse solet, ut videlicet sibi invicem
+de successu virtutum invideant, et ob hoc in
+exercendo bono opere tantum ne inferiores videantur,
+alter alterum praevenire contendant, tanto nos
+discretionis moderamine continere necesse est, ut <hi>operam nostram,</hi> 
+ sicut dictum est, <hi>neque ingeramus
+nolentibus, neque petentibus subtrahamus, quia in
+utroque livoris suspicio esse potest.</hi> Si quando autem
+in aliquo forte negotio laborantibus opem ferre
+cupimus, tanta hoc humilitate et mansuetudine
+faciendum est, ut iisdem ipsis manifestum sit, quod
+non excellentiam operis, sed consortium quaeramus
+laboris. Caeterum quantum pertinet ad nos summopere
+<pb n="0931A"/>
+nitendum est, nequando vel in labore
+minus patientes, vel in obedientia praeceptorum
+minus alacres, vel in charitatis operibus exsequendis
+minus inveniamur ferventes, quatenus bona
+conversatio nostra eisdem praebeat incitamentum
+virtutis, a quibus formam et exemplum sumpsit
+boni operis. Ista, fratres, si assidue volueritis cogitare,
+scietis et cito intelligetis quae sit via disciplinae,
+quae vos per exercitium boni operis ducat
+ad consummationem bonitatis. Sed et si forte
+ad haec investiganda atque discernenda quantum
+expedit per vos minus sufficitis, habebitis Domino
+adjuvante doctrinam et exempla bonorum,
+ubi et facienda audietis et facta videbitis. Et ne
+in hac etiam parte vobis ministerium nostrae
+<pb n="0931B"/>
+exhortationis desit, ostendam nunc breviter quales
+vos vel ad percipiendam doctrinam, vel ad
+imitanda exempla bonorum exhibere debeatis.</p>
+</div2>
+
+<div2>
+          <head>CAP. VI. <hi>Quales se debeant exhibere qui per doctrinam proficere volunt.</hi> </head>
+<p>Quoniam igitur ad scholam virtutum erudiendi
+acceditis, scire debetis contentiones verborum nullo
+modo deinceps ad vos pertinere, quia spiritualis
+doctrinae studium non litigantes, sed auscultantes
+requirit, sicut per Moysen populo in lege Dei erudiendo
+dicitur: <hi>Audi Israel et observa ut facias <note>(Deut. VI)</note>
+            </hi>;
+non dixit: <hi>Et loquere sed potius tace.</hi> 
+Et sicut apostolus Jacobus admonet dicens: <hi>Sit
+autem omnis homo velox ad audiendum, tardus autem
+ad loquendum, et tardus ad iram <note>(Jac. I)</note>
+            </hi>. Et
+<pb n="0931C"/>
+videte quam convenienter postquam multiloquium
+prohibuit, etiam de cavenda ira praeceptum subjunxit,
+dicens: tardus ad loquendum, et tardus ad
+iram, ut patenter ostenderet quod qui linguam
+suam a multiloquio non vult compescere, non
+poterit diu animum suum a furore iracundiae illaesum
+custodire. Multiloquium enim contentiones
+generat; contentiones vero ad jurgia et maledicta
+linguam excitant; maledicta autem ad
+iracundiam et (quod adhuc gravius est) ad fraternum
+odium animum inflammant. Propterea Scriptura
+dicit: <hi>In multiloquio peccatum non deerit
+et in multiloquio peccatum non effugies <note>(Prov.
+X)</note>
+            </hi>. Et Jacobus apostolus omne genus bestiarum
+domari posse asserit: <hi>Linguam, pestem esse indomabilem,
+<pb n="0931D"/>
+quae universam rotam nativitatis nostrae
+inflammat, et ob hoc perfectum esse virum qui in
+lingua sua non offendit <note>(Jac. III)</note>
+            </hi>. Nam quin rixae
+et contentiones de pestifera semper radice oriantur,
+dubium non est, quoniam nisi cor prius intrinsecus
+per elationem intumesceret, nequaquam lingua foris
+a custodia humilitatis suae in contumeliam verborum
+se relaxaret. Sed dum superbe prae aliis
+sapientes videri volumus, erubescimus vel nostram
+ignorantiam ab aliis argui, vel aliorum sapientiam
+quasi ad nostram depressionem approbari. Sicque
+nonnunquam contra conscientiam nostram, vel
+nostrum errorem impudenter defendimus, vel alterius
+veritatem malitiose impugnamus. Haec est
+<pb n="0932A"/> <hi>sapientia hujus mundi,</hi> 
+ quam idem Jacobus apostolus <hi>carnalem</hi> 
+ vocat <hi>et diabolicam quae versuta est et
+maligna <note>(ibid.)</note>
+            </hi>, illas solummodo astutiae vias exquirens
+quibus possit errorem suum tegere, et alienam
+veritatem quamvis manifestam, in opinione stultorum
+et insipientium hominum depravare. Sed non
+talis est sapientia quae desursum venit, quae nescit
+etiam semetipsam contra veritatem diligere, semper
+parata vel bonum quod non habet ab habentibus
+libenter petere, vel malum quod sustinet cum aliis
+et coram aliis veraciter accusare. Propterea de
+ipsa idem Jacobus apostolus sic ait: <hi>Sapientia</hi> 
+autem <hi>quae desursum est primum quidem pudica
+est, deinde pacifica, modesta, suadibilis, bonis consentiens,
+plena misericordia et fructibus bonis, judicans
+<pb n="0932B"/>
+sine simulatione <note>(ibid.)</note>
+            </hi>. Proinde, fratres charissimi,
+linguam vestram a superfluitate non solum
+inanium verborum restringite, sed in ipsis etiam
+quae recta sunt mensuram et modum tenete, et in
+collatione sanctorum magis auditores quam doctores
+esse eligite. Os clausum et aures apertas habete,
+et quanto estis ad loquendum modestiores,
+tanto estote ad intelligendum sagaciores. Sufficiat
+vobis (si forte res sic exigat) quod sapitis petentibus
+humiliter insinuare, contra resistentes autem
+nunquam praesumatis pertinaciter dicta vestra defendere,
+quia sicut jam vobis praediximus. multarum
+molestiarum causas jurgia ministrant, et mox
+ut lingua indiscrete ad multiloquium resolvitur,
+ad disturbandam pacem cordis vestri quasi janua
+<pb n="0932C"/>
+hosti aperitur. Restat ergo, fratres, ut si vere discipuli
+veritatis esse cupitis, tales vos studeatis exhibere
+quibus veritas facile persuaderi possit, quia
+et ipsa doctrina veritatis tales auditores amat, qui
+eam et a sapientibus exhibitam humiliter suscipiunt,
+a simplicioribus quoque administratam arroganter
+non contemnunt, qui in scientia Dei, hoc est in
+peritia bene agendi cunctos prudentiores et sapientiores
+quam se esse existimant, nec erubescunt
+magistros habere omnes, a quibus discere possunt
+quod ignorant, qui bene dicta omnium libenter approbant,
+errores vero alienos (quantum ad se pertinere
+cognoverunt) pro tempore student vel modeste
+corripere, vel prudenter dissimulare. Qui denique
+studium scientiae, morum disciplina exornant, et
+<pb n="0932D"/>
+mansuetudinem ac modestiam mentis suae non solum
+in custodia oris, sed etiam in habitu et gestu
+corporis sui demonstrant. Sed et de bonorum exemplis
+quae in praesenti vobis dicenda existimo, paucis
+nunc (si potero) verbis demonstrabo.</p>
+</div2>
+
+<div2>
+          <head>CAP. VII. <hi>De exemplis sanctorum imitandis.</hi> </head>
+<p>Quare putatis, fratres, vitam et conversationem
+bonorum imitari praecipimur, nisi ut per eorum
+imitationem ad novae vitae similitudinem reformemur?
+In ipsis siquidem similitudinis Dei forma
+expressa est, et idcirco cum eis per imitationem
+imprimimur, ad ejusdem similitudinis imaginem
+nos quoque figuramur. Sed sciendum est quod nisi
+prius cera emollita fuerit, formam non recipit, sic
+<pb n="0933A"/>
+et homo quidem per manum actionis alienae ad formam
+virtutis non flectitur, nisi prius per humilitatem
+ab omni elationis et contradictionis rigore moliatur.
+Neque enim per exemplum alterius aliquando
+in melius reformari poterit, qui adhuc per elationis
+vitium et bona aliena oppugnat, et sua mala
+defendit. Necesse est ergo ut si veraciter bonos
+imitari volumus, prius per veram humilitatem ad
+obedientiam corda nostra temperemus, quatenus
+vita nostra tanto citius ad novitatem redeat, quanto
+promptius in omnem quam viderit virtutis speciem,
+per voluntariam obedientiam se inclinat, et tanto
+altius ei vestigium alienae bonitatis incipiat inhaerere,
+quanto arctius studet bona aliorum imitari
+potius quam carpere. Aliam nobis adhuc non contemnendam
+<pb n="0933B"/>
+considerationem ad praesens negotium
+forma sigilli exhibet. Figura namque quae in sigillo
+foris eminet, impressione cerae introrsum signata
+apparet, et quae in sigillo intrinsecus sculpta ostenditur,
+in cera exterius figurata demonstratur. Quid
+ergo aliud in isto nobis innuitur, nisi quia nos qui
+per exemplum bonorum, quasi per quoddam sigillum
+optime exsculptum reformari cupimus, quaedam
+in eis sublimia et quasi eminentia, quaedam vero
+abjecta et quasi depressa operum vestigia invenimus?
+Sanctorum quippe opera quae quantum ad
+existimationem hominum non ad dignitatem, sed
+ad utilitatem pertinent, illa in conversatione eorum
+quasi deorsum pressa jacent. Quando vero talia
+operantur quae humanas mentes in admirationem sui
+<pb n="0933C"/>
+pertrahunt, quasi quasdam in se eminentes sculpturas
+ostendunt. Quod ergo in illis eminet, in nobis
+introrsum recondi debet, et quod in illis depressum
+est, in nobis est erigendum, quia nos cum facta
+eorum ad imitationem trahimus, sublimia quidem
+in abscondito et abjecta in manifesto facere debemus,
+ne vel illa si ostendantur per amorem accepti
+favoris inani gloriae servire incipiant, vel ista si
+abscondantur per timorem vilitatis, praemium retributionis
+amittant. Nescio quam homo deinceps
+habeat excusationem ignorantiae, cui tot jam viae
+demonstrantur, quibus possit ad scientiam veritatis
+pervenire. Ecce post discretionem rationis propriae
+per quam dirigitur, post doctrinam sapientium
+per quam eruditur, post exempla bonorum
+<pb n="0933D"/>
+quibus instruitur, adduntur etiam praecepta Scripturarum,
+quibus ad omnem vivendi rationem informatur.
+Postremo adjunguntur tentationes, quibus
+exercitatus per quotidianam experientiam de veritate
+praeceptorum certior efficitur.</p>
+</div2>
+
+<div2>
+          <head>CAP. VIII. <hi>De iis quae in sacris Scripturis sunt attendenda.</hi> </head>
+<p>Vos autem fratres, qui scholam disciplinae jam
+intrastis, in lectione divina prius debetis quaerere,
+quod mores instruat ad virtutem, quam quod sensum
+acuat ad subtilitatem, magisque velle informari
+praeceptis Scripturarum, quam quaestionibus
+impediri. Cum igitur divinas Scripturas legitis, solerter
+perpendite quid ibi dictum sit ad excitandum
+<pb n="0934A"/>
+in vobis amorem Dei, quid ad contemptum saeculi,
+quid ad cavendas insidias inimici, quid ad bonos
+affectus nutriendos et parva desideria exstinguenda
+valeat, et quid citius cor per compunctionis ardorem
+accendat. Quid disciplinam in opere, quid humilitatem
+in cogitatione, quid patientiam in adversis
+habere doceat, quid denique ad agenda bona securum,
+et ad mala cavenda doceat esse circumspectum.
+Hoc modo lecta scriptura intelligentiam
+confert salutarem, et hanc ipsam sapientiam (quam
+pro virtute libenter despicitis) melius postmodum
+per virtutem invenitis.</p>
+</div2>
+
+<div2>
+          <head>CAP. IX. <hi>Quomodo in omnibus operibus suis debeat homo esse circumspectus.</hi> </head>
+<p>Restat hoc novissimum et maxime fortassis prae
+<pb n="0934B"/>
+caeteris necessarium, ut videlicet homo in omnibus
+operibus suis sit circumspectus et providus, quotidiana
+discussione cogitationes, locutiones pariter
+et facta sua apud semetipsum examinet. Sapientes
+quippe semper agendo discunt, et per exercitium
+bonorum operum quotidianis profectibus in majorem
+virtutis agnitionem excrescunt. Per experientiam
+namque eorum quae faciunt, ad ea quae postmodum
+agenda erunt, cautiores fiunt. Videt enim
+quod saepe opus quod bona intentione inchoari creditur,
+tanto citius hominem in deceptionis laqueum
+praecipitat, quanto de intentionis suae principio securus
+finem actionis minus observat, et imprudens
+quasi via plana ad foveam currit, quia videt quid
+faciat, sed quid factum suum sequi debeat, non
+<pb n="0934C"/>
+attendit. Item non considerat quod nonnunquam
+evenire solet, ut affectus animi ita ambiguus sit,
+ut nisi ex fine operis discernere non possit homo
+qualitatem suae intentionis. Si vero diligenter consideret
+ad quem finem tendat mentis affectio, tunc
+jam plane vitium esse dignoscitur, in quo prius sibi
+animus falso de virtute blandiebatur. Et rursum
+invenitur aliud adhuc esse propter quod circumspectio
+homini ubique necessaria est, quoniam ad
+id etiam quod bonum est, agendum tanto magis
+homo peritus efficitur, quanto diligentius facta sua
+circumspiciens, seipsum quotidie in proficiendo superare
+conatur, cum sollicite attendit quid agat,
+quid agere debeat, utrum id quod faciendum est,
+faciat; utrum quantum et qualiter faciendum est
+<pb n="0934D"/>
+faciat; utrum bono operi malum aliquod non admisceat;
+utrum bonum, quod agit quanta oportet devotione
+impleat; utrum alterius ut suum bonum
+diligat; utrum suum ut alterius malum reprehendat.
+Per singulos dies vitam suam ad judicium vocat,
+mane quando surgere debet considerat quid
+egerit per noctem; in vespere quando cubitum vadit,
+considerat quid egerit per diem, quantum ad
+bona agenda solito alacrior, quantum ad mala vincenda
+solito constantior. Si quid ex iis quae agenda
+non erant praesumpserit, si in aliquo opere suo insidiis
+inimici supplantatus sit, qualiter demum per
+indicium transactae deceptionis futuram illius fraudem
+cavere possit, quatenus eum nec superveniens
+<pb n="0935A"/>
+tentatio improvidum ad malum opus dejiciat, neque
+indiscretum in bono opere praesens negligentia fallat.
+Quisquis cor suum in ejusmodi studio exercet,
+existimo quod cito ad illam bonam et salubrem scientiam
+perveniat, quam, sicut supra diximus, ad servandam
+disciplinam et bonitatem psalmista dari sibi postulabat.
+Restat igitur nunc ut ea quoque, quae de
+disciplina nobis demonstranda sunt, proferamus. Docebimus
+ergo vos primum quid sit disciplina, deinde
+quid valeat, postremo quomodo observari debeat.</p>
+</div2>
+
+<div2>
+          <head>CAP. X. <hi>Quid sit disciplina, et quantum valeat.</hi> </head>
+<p>Disciplina est conversatio bona et honesta, cui
+parum est mala non facere, sed studet etiam in iis
+quae bene agit per cuncta irreprehensibilis apparere.
+Item disciplina est membrorum omnium motus
+<pb n="0935B"/>
+ordinatus, et dispositio decens in omni habitu
+et actione. Audistis quid sit disciplina, nunc attendite
+quam utilis et quam necessaria sit. Disciplina
+est compes cupiditatis, malorum desideriorum carcer,
+frenum lasciviae, elationis jugum, vinculum
+iracundiae, quae domat intemperantiam, levitatem
+ligat, et omnes inordinatos motus mentis atque illicitos
+appetitus suffocat. Sicut enim de inconstantia
+mentis nascitur inordinata motio corporis, ita quoque
+dum corpus per disciplinam stringitur, animus
+ad constantiam solidatur. Et paulatim intrinsecus
+mens ad quietem componitur, cum per disciplinae
+custodiam mali motus ejus foras fluere non sinuntur.
+Integritas ergo virtutis est, quando per internam
+mentis custodiam ordinate reguntur membra
+<pb n="0935C"/>
+corporis. Interior namque est custodia, quae ordinata
+servat exterius corporis membra. Sed qui statum
+mentis perdit, subsequenter foras in inconstantiam
+motionis defluit, atque exteriori mobilitate
+indicat quod nulla interius radice subsistat. Unde
+per Salomonem dicitur: <hi>Homo apostata, vir inutilis,
+graditur ore perverso, annuit oculis, terit pede,
+digito loquitur, pravo corde machinatur malum, et
+in omni tempore jurgia seminat <note>(Prov. VI)</note>
+            </hi>. Propterea
+enim hunc talem (quem de indisciplina et discordia
+pariter notare voluit) prius apostatam nominavit,
+quia nisi prius intus a conspectu Conditoris
+aversione mentis caderet, foris postmodum ad inconstantiam
+et seminanda jurgia non veniret. Liganda
+<pb n="0935D"/>
+ergo sunt foris per disciplinam membra corporis,
+ut intrinsecus solidetur status mentis, quatenus
+dum undique exterior custodia interiori mobilitati
+coercendae opponitur, tandem mens ad pacem
+in semetipsa colligatur. Omnium namque vitiorum
+motus disciplina coercet, et quantum mala
+desideria foris coercendo comprimit, tantum per
+eam bonum desiderium interius convalescit. Paulatimque
+eadem virtutis forma per consuetudinem
+menti imprimitur, quae foris per disciplinam in
+habitu corporis conservatur. Ecce vidimus quantum
+valeat disciplina, nunc qualiter custodiri
+debeat consideremus. Quatuor sunt praecipue in quibus
+servanda est disciplina, in habitu, in gestu, in
+locutione, in mensa, id est comestione.</p>
+</div2>
+
+<div2>
+          <head>CAP. XI. <hi>De disciplina servanda in habitu.</hi> </head>
+
+<pb n="0936A"/>
+<p>In habitu quinque modis disciplina custoditur, in
+genere et qualitate, in colore et formatione et coaptatione
+vestimentorum. In genere, scilicet ne sint
+vestimenta nostra nimis pretiosa. In qualitate, ne
+nimis sint subtilia vel mollia. In colore, ne nimis
+sint nitida, sive quolibet alio modo supra quam
+proposito religiosae conversationis expetit fuscata.
+In formatione, ut sint decenter et religiose composita,
+et humilitatis signum habentia, id est non nimis
+magna aut dependentia, aut fluxa, nec nimis
+stricta, sive quolibet alio modo secundum saeculi
+vanitatem detorta. Coaptatio ad modum portandi
+pertinet, nam sunt quidam stulti qui stultis placere
+cupientes, quodam artificio vestimenta sua circa
+<pb n="0936B"/>
+se componunt. Alii vero majori scurrilitate ridiculose
+transvertunt, alii autem ut pompam de se faciant,
+explicant ea, et quantum possunt, latius distendunt.
+Alii temere corrugata in unum colligunt,
+alii contorquentes et complectentes involvunt. Alii
+toto conamine stringentes et findentes ea, omnia
+corporis sui lineamenta, inverecundissima quadam
+turpitudine aspicientibus numeranda exponunt. Alii
+jactando et ventilando pannos suos, levitatem mentis
+suae ex ipsa habitus sui mobilitate ostendunt.
+Alii incedentes sinuoso syrmate terram verrunt et
+limbis dependentibus, imo retro consequentibus
+caudis in similitudinem vulpium vestigia sua obducunt.
+Bene profecto, ut postquam pertransierint,
+pereat memoria illorum, ne sint amplius in recordatione
+<pb n="0936C"/>
+in terra viventium. Qui ut ostendant de numero
+illorum se esse, de quibus Psalmista dicit: <hi>Non sic impii non sic, sed tanquam pulvis quem
+projicit ventus a facie terrae 
+ <note>(Psal. I)</note>
+            </hi>, quacunque
+perrexerint, quasi turbo tempestatis pulverem concitant,
+et ipsi filii tenebrarum illud lumen foris
+oculis hominum subtrahunt, quod intus caecata
+mente perdiderunt. Est tamen in quo de eis etiam
+in praesenti vita vindictam capimus, quia iisdem
+suis pannis quibus nebulam pulveris luminibus nostris
+injiciunt, ad complanandam viam pedibus
+nostris, lutum platearum abstergunt. Quid amplius
+dicam? Taedet me omnia vanitatis ostentamenta
+numerare, in quibus stulti et vecordes, mulieribus,
+<pb n="0936D"/>
+imo meretricibus studia sua auferunt, et tanto
+dedecore quanta superstitione cum habitu pene
+sexum mutaverunt. Alii sunt mille modi quibus
+homines vanissimi et superstitiosissimi spectaculum
+de se intuentibus praebere concupiscunt. Sed
+haec omnia servus Dei magna debet constantia despicere,
+cum videat nullos nisi stultos et irrisione
+dignissimos studiis talibus deservire. Haec enim omnia
+verae religioni contrariae sunt et omnes qui studium
+et curam his adhibeant, quantum a religione
+alieni sint, patenter ostendunt. Sed gratia Dei
+omnes qui modo in religione constituti talibus student,
+et per haec hominibus placere cupiunt, omnibus
+hominibus magis viles et contemptibiles fiunt.
+Et econverso qui haec propter Deum despiciunt
+<pb n="0937A"/>
+non solum coram Deo, sed etiam coram hominibus
+chariores et honorabiliores existunt. Eant ergo
+nunc miseri et stulti ac omnis honestatis ignari,
+eant et comant pannos suos, qui non intelligunt
+quam juste in viris religiosam vitam professis cultus
+pretiosarum vestium reprehenditur, qui per
+apostolum Paulum etiam feminis prohibetur, <hi>non,</hi> 
+inquit, <hi>in veste pretiosa <note>(I Tim. II)</note>
+            </hi>. Videant ergo
+quanta non dico reprehensione sed confusione, imo
+potius quanta damnatione digni sunt, qui in propositio
+religionis, cultui pretiosarum vestium student,
+quia <hi>dives</hi> ille <hi>qui</hi> in Evangelio <hi>purpura et bysso</hi> 
+induitur, postea <hi>in tormentis inferni</hi> aeternaliter
+cruciandus sepelitur <note>(Luc. XVI)</note>. Quid autem in purpura
+nisi color et pretium, et. quid in bysso nisi
+<pb n="0937B"/>
+mollities reprehenditur? Cum ergo carni suae et in
+purpura decorem, et in bysso mollitiem adhibuisse
+dicitur, procul dubio superbus simul et luxuriosus
+fuisse comprobatur. Qui ergo corpori suo prius illicite
+fomenta vitiorum exhibuit, jure postmodum
+hoc cruciandum flamma tormentorum accepit. Et
+tamen dives iste nondum propriis rebus abrenuntiaverat,
+sed quia in iis quae possidebat temperantiam
+servare noluit, post illicitum usum rerum
+temporalium ad poenam sempiternam pervenit. Si
+igitur ille quia propriis abusus est tantam damnationem
+meruit, quid putamus isti facient, qui propria
+non habentes alienam eleemosynam cultui suae
+elationis impendere non pertimescunt? Vae eis quia
+ipsi (sicut per prophetam dicitur) <hi>peccata populi</hi> 
+<pb n="0937C"/>
+comedunt <note>(Ose. IV)</note>, <hi>et victimas in profundum</hi> declinant <note>(Ose. V)</note>,
+quia quod alii pro redemptione
+animarum suarum offerunt, hoc ipsi accipientes per
+illicitum usum ad damnationem animarum suarum
+convertunt. <hi>Vae coronae superbiae Ephraim et flori
+decidenti <note>(Isa. XXVIII)</note>
+            </hi>, quia <hi>omnis caro fenum et
+omnis gloria ejus quasi flos agri. Exsiccatum est fenum
+et cecidit flos, quia spiritus iracundiae Domini
+exsufflavit in illud. Exsiccatum est fenum et cecidit
+flos, verbum autem Domini manet in aeternum <note>(Isa.
+XL)</note>
+            </hi>. <hi>Quid igitur superbit cinis et pulvis <note>(Eccl. X)</note>
+            </hi>, <hi>fumus evanescens et vapor ad modicum parens? <note>(Jacob. IV)</note>
+            </hi>.
+ <hi>Quid est homo nisi putredo, et filius
+hominis nisi vermis? Vermis ipse, et vermis haereditas
+<pb n="0937D"/>
+ejus, haereditabit enim homo vermes, bestias,
+serpentes <note>(Eccl. X)</note>
+            </hi>. Quantumcunque excolatur et
+ornetur, quid est aliud caro quam caro? Quid igitur
+prodest in habitu qui foris ad tempus adhaeret,
+gloriam quaerere, et corruptionis putredinem, quae
+in nobis est et semper permanet, non considerare?
+Propterea debent amatores religionis opere demonstrare
+quantum ipsi terrena despiciant, nec carnem
+quae moritura est cultu superstitioso excolere, sed
+pompae indumentorum, morum ornamenta anteferre.
+Vestimenta plus vilia quam pretiosa, plus
+grossa quam subtilia, plus aspera quam mollia, plus
+fusca quam nitida, plus neglecte quam accurate
+composita vel adaptata amare, quatenus si non possint
+in vestimentis suis per omnia commoditatem
+<pb n="0938A"/>
+abscindere, nunquam tamen praesumant eis uti ad
+ostentationem. Poterant haec fortassis benevolis ad
+eruditionem modestiae et humilitatis sufficere, sed
+scio duros et rebelles animos, nisi ad haec mordacioribus
+lupatis frenati fuerint, non facile a via
+pristini erroris declinare. Quos quidem oportet in
+cunctis observationibus usque ad unguem stringere,
+et ut nullus deviandi locus tergiversationi relinquatur,
+ad singula vestigia determinatis praeceptionibus
+obligare.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>CAP XII. <hi>De disciplina servanda in gestu.</hi> </head>
+<p>Gestus est motus et figuratio membrorum corporis,
+ad omnem agendi et habendi modum; hic sex
+modis reprehensibilis invenitur, scilicet, si est aut
+mollis, aut dissolutus, aut tardus, aut citatus, aut
+<pb n="0938B"/>
+procax, aut turbidus. Mollis significat lasciviam,
+dissolutus negligentiam, tardus pigritiam, citatus
+inconstantiam, procax superbiam, turbidus iracundiam.
+Nam quod inordinati motus corporis, corruptionem
+et dissolutionem indicent mentis superius
+jam demonstratum est; ubi Salomonis testimonio
+virum apostatam exterioribus indiciis aversionem
+animi sui promentem ostendimus. Ait enim: <hi>Homo
+apostata, vir inutilis, graditur ore perverso, annuit
+oculis, terit pede, digito loquitur <note>(Prov. VI)</note>
+          </hi>, quia videlicet
+cum mens interius a custodia sui solvitur,
+membra foris ad omnem actum inordinate commoventur.
+Et velut corpus paralytici modum quidem
+habet, sed officia membrorum in suis actionibus
+<pb n="0938C"/>
+servare non valet, sic iste impatientia quidem et
+fluctuatione mentis ad quaelibet praeceps impellitur,
+sed in omnibus quae agit nullo rationis moderamine
+gubernatur. Sed sciendum est quod in his vitiosis
+gestibus quidam inter se similes quodammodo
+esse videntur, et quemadmodum vitia de quibus
+nascuntur, inter se non multum discrepant, ita ipsi
+quoque motus exteriores quamdam inter se concordiam
+perversitatis observant; sicut similes sunt gestus
+mollis et procax, dissolutus et tardus, citatus
+et turbidus, quia et vitia ipsa inter se similia sunt,
+sicut et lascivia, et jactantia, negligentia et pigritia,
+inquietudo et impatientia. Propterea omnes isti inordinati
+gestus, quia de interioribus animae prodeunt
+corruptionibus, in multis Scripturarum locis
+<pb n="0938D"/>
+graviter argui et reprehendi, inveniuntur; quae, etsi
+per singula enumerare non possumus, ne tamen pro
+nihilo rem in tantum exaggerare videamur, quaedam
+ex his exempli causa revolvemus. De molli et procaci
+gestu lasciviam et arrogantem animam Dominus
+per Isaim prophetam arguit, dicens: <hi>Descende, sede
+in pulvere, virgo filia Babylonis, sede in terra, non
+est solium filiae Chaldaeorum, quia ultra non vocaberis
+mollis et tenera. Tolle molam, mole farinam,
+denuda turpitudinem tuam, discooperi humerum, revela
+crura, transi flumina <note>(Isa. XLVII)</note>
+          </hi>. Et post pauca: <hi>Sede,</hi> 
+ tace, <hi>intra in tenebras, filia Chaldaeorum,
+quia non vocaberis ultra domina regnorum <note>(ibid.)</note>
+          </hi>.
+Quae ergo descendere praecipitur, de procaci gestu et
+typo arrogantiae increpatur. Unde et bene subjungitur,
+<pb n="0939A"/> <hi>non est solium filiae Chaldaeorum;</hi> 
+ quia saepe
+homo apud alios tanto magis despectus habetur,
+quanto magis apud seipsum per tumorem arrogantiae
+extollitur, ut impleatur illa sententia Veritatis qua
+dicitur: <hi>Omnis qui se exaltat humiliabitur, et omnis
+qui se humiliat exaltabitur <note>(Luc. XIV)</note>
+          </hi>. De quo adhuc
+subinfertur cum dicitur: <hi>Sede,</hi> tace, <hi>intra tenebras,
+filia Chaldaeorum, quia non vocaberis ultra domina
+regnorum <note>(Isa. XLVII)</note>
+          </hi>. Magna etenim tunc hominem
+confusio sequitur, quando se ab aliis despici videt,
+etiam pro eo in quo ipse gloriatur. Sed quia lascivia
+et mollities amica est procacibus et superbis, increpata
+arrogantia, lasciviam etiam arguit cum subjungit: <hi>Tolle molam, mole farinam, denuda turpitudinem,
+discooperi humerum, revela crura, transi flumina,
+<pb n="0939B"/>
+quia ultra non vocaberis mollis et tenera 
+ <note>(ibid.)</note>
+          </hi>.
+Quam sit ergo odibilis apud Deum lascivia et procacitas,
+ex hoc patenter ostenditur, quod Scriptura
+tam districta animadversione et dejectionem arrogantibus,
+et asperitatem mollibus superventuram
+comminatur. Hinc est rursum quod per eumdem
+Isaiam contra lascivos et procaces dicitur: <hi>Haec dicit
+Dominus: Pro eo quod elevatae sunt filiae Sion, et
+ambulaverunt extento collo, et nutibus oculorum ibant
+et plaudebant, ambulabant, et pedibus suis composito
+gradu incedebant, decalvabit Dominus verticem filiarum
+Sion <note>(Isa. III)</note>
+          </hi>. <hi>Ambulabant extento collo et nutibus
+oculorum,</hi> hic notatur arrogantia. <hi>Ibant et
+plaudebant, ambulabant, et pedibus suis composito
+gradu incedebant,</hi> hic notatur lascivia. Sequitur:
+<pb n="0939C"/> <hi>Decalvabit Dominus filiarum Sion,</hi> 
+ haec est
+poena arrogantium. <hi>Et Dominus crinem earum nudabit,</hi> 
+haec est poena lasciviorum. Et quia haec vitia
+luxus pretiosarum vestium sequi solet, poena quoque
+ejus subinfertur cum dicitur: <hi>In die illa auferet
+Dominus ornatum calceamentorum et lunulas, et
+torques, et monilia, et armillas, et mitras, et discriminalia,
+et periscelidas, et murenulas, et olfactoria,
+et inaures, et annulos, et gemmas in fronte pendentes,
+et mutatoria, et pallia, linteamina, et acus, et specula,
+et sindones, et vittas, et theristra; et erit pro
+suavi odore, fetor; et pro zona, funiculus; et pro crispanti
+crine, calvitium; et pro fascia pectorali, cilicium <note>(ibid.)</note>
+          </hi>.
+Ecce quam diligenter omnia vanitatis
+insignia enumerat, ut haec in quibus homines nullam
+<pb n="0939D"/>
+vel admodum parvam culpam esse putant,
+quam districte a Deo pensentur, ostendat.</p>
+<p>Dissolutum et tardum Salomon arguit dicens: <hi>Per agrum hominis pigri transivi, et per vineam viri
+stulti, et ecce totum repleverant urticae, operuerant
+superficiem ejus spinae, et maceria lapidum destructa
+erat. Quod cum vidissem, posui in corde meo et exemplo
+didici disciplinam 
+ <note>(Prov. XXIV)</note>
+          </hi>. <hi>Usquequo piger
+dormis, usquequo de somno non consurgis? <note>(Prov. VI.)</note> Paululum dormies, modicum dormitabis, pauxillum manus
+conseres ut quiescas, et veniet quasi cursor egestas
+tua, et mendicitas tua quasi vir armatus 
+ <note>(Prov. XXIV)</note>
+          </hi>.
+Et rursum: <hi>Vade ad formicam, o piger, et considera
+vias ejus et disce prudentiam, quae, cum non habeat
+<pb n="0940A"/>
+ducem, nec praeceptorem, nec principem, parat aestate
+cibum sibi, et congregat quod comedat</hi> in hieme <note>(Prov. VI)</note>.
+Item de pigro: <hi>Sicut acetum dentibus, et
+fumus oculis, sic piger iis qui miserunt illum <note>(Prov.
+X)</note>
+          </hi>. Et de dissoluto: <hi>Manus fortium dominabitur,
+quae autem remissa est, tributis serviet <note>(Prov. XII)</note>
+          </hi>.
+Et iterum de pigro: <hi>Vult et non vult piger, anima
+autem operantium impinguabitur <note>(Prov. XIII)</note>
+          </hi>. Rursum
+de dissoluto: <hi>Qui mollis et dissolutus est in opere
+suo, frater est sua opera dissipantis <note>(Prov. XVIII)</note>
+          </hi>.
+Item de pigro: <hi>Abscondit piger manum suam sub
+ascella, et laborat si ad os suum applicuerit eam <note>(Prov. XIX)</note>
+          </hi>.
+Item: <hi>Desideria occidunt pigrum, noluerunt
+enim quidquam manus ejus operari <note>(Prov.
+XXI)</note>
+          </hi>. Et iterum: <hi>Dicit piger: Leo est in via, in medio
+<pb n="0940B"/>
+platearum occidendus sum <note>(Prov. XXII)</note>
+          </hi>. Item: <hi>Sicut
+ostiam in cardine suo, sic piger vertitur in lecto <note>(Prov. XXVI)</note>
+          </hi>.
+Et in libro Ecclesiastico de pigro, tardo
+et dissoluto dicitur: <hi>In lapide luteo lapidabitur
+piger, et omnes loquentur super aspernationem illius.
+De stercore boum lapidabitur piger, et omnis qui tetigerit
+eum, excutiet manus suas <note>(Eccli. XXII)</note>
+          </hi>. Multa
+sunt alia si enumerare velim, quae ad increpationem,
+vel ad irrisionem horum in Scripturis dicuntur,
+de quibus haec ad exhortationem praesentem
+vobis dicta sufficere possunt.</p>
+<p>Citatus vel inquietus simul et turbidus gestus per
+Salomonem iterum reprehenduntur, ubi, sicut jam
+in superiori exemplo demonstravimus, de viro apostata
+dicitur: <hi>Homo apostata, vir inutilis, graditur
+<pb n="0940C"/>
+ore perverso, annuit oculis, terit pede, digito loquitur,
+pravo corde machinatur malum et omni tempore jurgia
+seminat <note>(Prov. VI)</note>
+          </hi>. Huic extemplo veniet perditio
+sua, nec habebit ultra medicinam. Quam sit
+enim perditioni proximus, ipse sua actione satis
+demonstrat, qui per inquietudinis vitium in semetipso
+pacem perdit etiam priusquam foris obsistentem
+inveniat. Et quo praecipitandus sit patet, si occasionem
+furoris invenerit, quem nullo turbante exterius
+sua intus levitas et impatientia ad furorem
+praecipitem rapit. Unde bene postquam inconstantiae
+et levitatis signa enumeravit, dicens: <hi>Annuit oculis,
+digito loquitur, terit pede,</hi> novissime indicium furoris
+expressit, dicens: <hi>Omni tempore jurgia seminat.</hi> 
+<pb n="0940D"/>
+Quia, sicut dictum est, primum per levitatis vitium
+et inquietudinem pax internae tranquillitatis dissolvitur,
+ac sic deinde agitata mens in foveam furoris
+praecipitatur. Quamvis enim id ipsum quod dixit,
+graditur ore perverso, <hi>annuit oculis, terit pede, digito
+loquitur,</hi> tam furoris quam inquietudinis signum
+sit, tamen hic esse solet ordo perditionis, ut primum
+homo per inquietudinem, constantiam gravitatis
+deserat, ac sic tandem usque ad impatientiam
+furoris erumpat. Habet etiam hic gestus, id est citatus
+sive inquietus, cum molli ac procaci affinitatem,
+quia levitas aliquando lasciviam, aliquando
+impatientiam designat. Inquietus gestus lascivo et
+procaci concordat, sicut per Salomonem dicitur: <hi>De fenestra domus meae per cancellos prospexi, et video
+<pb n="0941A"/>
+parvulos, considero vecordem juvenem, qui transit
+per plateas juxta angulum, et prope viam domus alienae
+graditur in obscuro, advesperante die, in noctis tenebris
+et caligine. Et ecce mulier occurrit illi ornatu
+meretricio, praeparata ad capiendas animas, garrula
+et vaga, quietis impatiens, nec valens in domo consistere
+pedibus suis; nunc foris, nunc in plateis, nunc
+juxta angulos insidians, apprehensumque deosculatur
+juvenem, et procaci vultu blanditur 
+ <note>(Prov. VII)</note>
+          </hi>. Statim
+eam sequitur <hi>quasi bos ad victimam, ductus, et quasi
+agnus lasciviens et ignorans, et nescit quod ad vincula
+stultus trahatur, donec transfigat sagitta jecur ejus,
+veluti si avis festinet ad laqueum, et nescit quia de
+periculo animae illius agitur; viae inferi domus ejus,
+penetrantes interiora mortis <note>(ibid.)</note>
+          </hi>. Nemo ergo deinceps
+<pb n="0941B"/>
+putet parum relinquere eos qui contra disciplinam
+ad turpes motus, et inordina as gesticulationes
+membra sua inflectunt, quia nunquam Scriptura
+tam severe istos exteriores corporis motus in nobis
+reprehenderet, nisi omnis exterioris hominis inhonesta
+figuratio et motio indecens, ab interiori mentis
+corruptione manaret. Propterea multum valet
+disciplina ad coercendos pravos motus animi, quatenus
+mala desideria dum per custodiam disciplinae
+stringuntur ne foras effluant, tandem aliquando
+etiam interius surgere ac moveri omnino desuescant.
+Quia igitur vitia gesticulationum descripsimus,
+ordo exigit, ut nunc quis sit in omni gestu
+modus disciplinae, definiamus, quod etsi fortasse
+<pb n="0941C"/>
+per singula facere non possumus, magis tamen expedit
+aliquid inde ad eruditionem dicere, quam omnino
+silere. Primum ergo diligenter observandum
+est, ut singula membra suum teneant officium, neque
+usurpent alienum, deinde ut unumquodque
+suum opus tam decenter ac modeste impleat, quatenus
+per indisciplinam aspicientium oculos non offendat.
+Nam in quolibet horum peccetur, dignum
+reprehensione est, sive scilicet membra inter se
+actus suos confundant, sive id quod juste agere debent,
+recte non expleant. Discretio actionum in
+membris conservanda est, ut scilicet id agat unumquodque
+membrum ad quod factum est, ut neque
+loquatur manus, neque os audiat, nec oculus linguae
+officium assumat. Sunt enim quidam qui nisi buccis
+<pb n="0941D"/>
+patentibus auscultare nesciunt, et quasi per os sensus
+ad cor influere debeat, palatum ad verba loquentis
+aperiunt. Alii (quod adhuc pejus est!) in
+agendo vel audiendo quasi canes sitientes linguam
+protendunt, et ad singulas actiones velut molam labia
+torquendo circumducunt. Alii loquentes digitum
+extendunt, supercilia erigunt, et oculos in orbem
+rotantes, aut profunda quadam consideratione defigentes,
+cujusdam intrinsecus magnificentiae conatus
+ostendunt. Alii caput jactant, comam excutiunt,
+vestimenta adaptando componunt, et latera cubitando,
+pedesque extendendo ridiculam satis ostentationis
+formam fingunt. Alii quasi ambae aures ad
+audiendum factae non sint, alteram tantum collo
+detorto voci venienti opponunt. Alii typum nescio
+<pb n="0942A"/>
+quem figurantes, oculorum inter videndum alterum
+claudunt, alterum aperiunt. Alii majori ridiculo
+dimidiato ore loquuntur. Sunt praeterea mille larvae,
+mille subsannationes et corrugationes narium, mille
+valgia et contortiones labiorum, quae pulchritudinem
+faciei et decorem disciplinae deformant. Est
+enim facies, disciplinae, speculum, cui tanto major
+custodia adhibenda est, quanto minus si quid in ea
+peccatum fuerit, celari potest. Temperanda est igitur
+facies et mortificanda in gestu suo, ita ut nec
+proterve exasperetur, nec molliter dissolvatur, sed
+semper habeat et rigidam dulcedinem, et dulcem
+rigorem. Alii navigant brachiis incedentes, et duplici
+quodam monstro, uno et eodem tempore pedibus
+deorsum in terra ambulant, et lacertis sursum in
+<pb n="0942B"/>
+aere volant. Quod est quaeso monstrum hoc, quod
+simul in se fingit et hominis incessum, et navis
+remigium, et avis volatum? Libet in hoc, poeticae
+illius subsannationis elogio proclamare:
+<l> <hi>Humano capiti cervicem pictor equinam</hi> </l>
+<l> <hi>Jungere si velit, et varias inducere plumas</hi> </l>
+<l> <hi>Undique collatis membris, ut turpiter atrum</hi> </l>
+<l> <hi>Desinat in piscem mulier formosa superne.</hi> </l> <hi>
+            <note>(HORAT. in Arte poet. v. 1-5)</note>.</hi> 
+ 
+Certe tale mihi videtur hoc portentosae figurationis
+schema:
+<l>. . . . . . . . . <hi>Cujus velut aegri somnia vanae</hi> </l>
+<l> <hi>Fingentur species, ut nec pes nec caput uni</hi> </l>
+<l> <hi>Reddatur formae.</hi> </l> <hi>
+            <note>(Ibid. v. 7-10)</note>.</hi> 
+
+
+<pb n="0942C"/>
+Sed ne forte satiram potius quam doctrinam edere
+videamur (cum plurima adhuc enumeranda supersint)
+modestiae hic quoque oblivisci non debemus.
+Etiam sic fortassis negligentibus et indisciplinatis
+quantum ipsi in his erubescere debeant, melius silendo
+ostendemus. Scire tamen debent unum esse
+vitium quod prius intrinsecus statum mentis dissipat,
+ac postmodum extrinsecus in membris ordinem
+actionis perturbat, sicut jam saepius memorato Salomonis
+testimonio comprobatum est, ubi in apostata
+homine prius quidem mentis aversio atque defluxio
+praecessisse dicitur, ac postmodum confusio atque
+perturbatio actionis subsecuta memoratur. In eo enim
+quod dicitur: <hi>Homo apostata vir inutilis <note>(Prov. VI)</note>
+          </hi>,
+<pb n="0942D"/>
+notatur defluxio mentis, in eo autem quod dicitur, <hi>graditur ore perverso, terit pede, annuit oculus, digito
+loquitur 
+ <note>(ibid.)</note>
+          </hi>, demonstratur confusio actionis. Hinc
+etiam est illud quod dicitur in libro Ecclesiastici <hi>Ex visu cognoscitur vir, et ab occursu faciei cognoscitur
+sensatus. Amictus corporis et risus dentium et ingressus
+hominis enuntiant de illo 
+ <note>(Eccl. XIX)</note>
+          </hi>. Quia
+videlicet per illud, quod foris sive bene sive male
+agitur, interior animi qualitas intuentium oculis
+patenter indicatur. Et idcirco oportet ut ad hanc
+perturbationem sedandam custodia disciplinae opponatur,
+quae unumquodque membrum ad suum officium
+restringat, quatenus dum alterum membrum
+operatur, alterum aut omnino quietum maneat, aut
+si forte ejus opera illi necessaria esse cognoscitur,
+<pb n="0943A"/>
+suo motu ad cooperandum illi decenter et ordinate
+moveatur. Ita ut nihil confuse, nihil praeposterum
+in membris corporis agatur, sed ut sciat utrumquodque
+in quo alteri debeat succurrere, et in quo dum
+aliud movetur, se debeat quietum custodire. Est
+enim quasi quaedam respublica corpus humanum,
+in quo singulis membris sua officia distributa sunt.
+Dum ergo unum membrum alterius membri officium
+inordinate sibi vindicat, quid aliud quam concordiam
+universitatis perturbat? Cumque aliud suo
+motu alterius motum impedit, certe illi quam natura
+moderatur, dispositioni contradicit. Prima igitur
+est custodia disciplinae in gestu, ut unumquodque
+membrum in eo ad quod creatum est officia se contineat,
+neque alterius membri ministerium sui admistione
+<pb n="0943B"/>
+confundat. Id est, ut oculi videant, aures
+audiant, nares olfaciant, os loquatur, manus operentur,
+pedes ambulent, quatenus neque transmutentur
+officia membrorum neque inordinate permisceantur.</p>
+<p>Secunda est custodia disciplinae in gestu, ut
+unumquodque membrum id quod facit, eo modo
+atque mensura faciat quo faciendum est, id est nec
+plus nec minus, nec aliter quam oportet, faciat.
+Quatenus in actu suo sic et dirigatur et moveatur, ut
+in nulla unquam parte temperantiae limitem aut formam
+honestatis excedat, hoc est (ut id paucis exemplis
+probemus) ridere sine apertione dentium.
+videre sine defixione oculorum, loqui sine extensione
+manuum et intentatione digitorum, sine contorsione
+labiorum, sine jactatione capitis, sine elevatione superciliorum;
+<pb n="0943C"/>
+incedere sine modulatione gressuum,
+sine gesticulatione scapularum; sedere sine divaricatione
+crurum, sine alterutra superjectione pedum,
+sine extensione vel agitatione tibiarum, sine alterna
+accubitatione laterum, jacere sine disjectione membrorum.
+Et ut tandem de hac parte finem loquendi
+faciamus, gestus hominis in omni actu esse debet
+gratiosus sine mollitie, quietus sine dissolutione,
+gravis sine tarditate, alacer sine inquietudine, maturus
+sine protervia, et sine turbulentia severus.
+Mollem gestum temperat turbidus, et turbidum mollis,
+dissolutum procax, procacem dissolutus, citatus
+tardum, et tardus citatum, quia inter vitia contraria
+medius limes virtus est. Haec de gestu ad praesentem
+doctrinam dicta sufficiant. Si qui vero tam
+<pb n="0943D"/>
+duri cordis fuerint, ut his admonitionibus informari
+nequeant, illos quidem acrioribus stimulis urgeri
+oportet, ut quod sponte facere nolunt, faciant vel
+inviti. Scio enim quam difficile sit, cor malitia induratum
+ad formam disciplinae et speciem honestatis
+incurvare, sed necesse est ut dura materia
+cum facile ad formam non flectitur, ei et acrioris
+flammae incendium et mallei gravioris tunsio adhibeatur.
+</p>
+
+<div2>
+          <head>CAP. XIII. <hi>De disciplina in locutione servanda; et primo quid loquendum.</hi> </head>
+<p>In locutione quinque res sunt observandae, hoc est
+quid dicatur, cui dicatur, ubi dicatur, quando dicatur,
+quomodo dicatur. Quid autem dicendum sit, hoc
+<pb n="0944A"/>
+primum generali distinctione discernitur, ut videlicet
+nunquam in sermonibus disciplinatis otiosa adhibeantur.
+Otiosa autem sunt omnia, quae sunt aut
+nociva, aut inhonesta, aut inutilia. Inutilia autem
+sunt, quae nec loquentibus, nec audientibus prosunt.
+Inhonesta sunt, quae vel illius qui loquitur, vel illius
+cui loquitur, vel illius de quo loquitur dignitati non
+conveniunt. Nociva sunt quae suis suasionibus animos
+auditorum sive ad errorem sive ad pravitatem
+inducunt. Haec autem tria, id est nociva, inhonesta,
+inutilia, duobus modis discerni possunt, id est secundum
+qualitatem rerum de quibus locutio sit, et secundum
+qualitatem personarum per quas, vel ad quas,
+vel de quibus locutio fit. Qualitas personarum quatuor
+modis consideratur, id est secundum aetatem,
+<pb n="0944B"/>
+secundum scientiam, secundum officium, secundum
+conditionem. Secundum aetatem, quia aliud convenit
+locutionibus senum, aliud locutionibus juvenum.
+Secundum scientiam, quia aliud convenit locutionibus
+sapientium, aliud locutionibus simplicium. Secundum
+officium, quia aliud convenit locutionibus
+eorum qui negotia exteriora tractant, aliud locutionibus
+eorum qui secretioris vitae quieti et studio
+contemplationis invigilant. Secundum conditionem
+ac statum, quia aliud convenit locutionibus eorum
+qui sunt praelati, aliud locutionibus eorum qui sunt
+subditi. Senes loqui debent de discretione bene consulendi.
+Juvenes de instantia benefaciendi. Sapientes
+de mysteriis Scripturarum. Simplices de exemplis
+bonorum operum. Ii qui exteriora tractant negotia,
+<pb n="0944C"/>
+de solertia acquirendi, ii qui quietam vitam ducunt,
+de disciplina vivendi. Praelati de provisione rerum,
+subjecti de obedientia praeceptorum. Et unusquisque
+qui loquitur secundum qualitatem personae suae,
+qualitatem materiae inquirat congruam de qua loquatur.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIV. <hi>Cui loquendum.</hi> </head>
+<p>Sequitur ut postquam elegerit homo quid dicat,
+etiam cui dicat diligenter attendat. Quia sicut ait
+quidam sapiens: <hi>Qui narrat verbum non audienti,
+quasi qui excitat dormientem de gravi somno <note>(Eccl.
+XXII)</note>
+            </hi>. Et iterum: <hi>Cum stulto ne multum loquaris, et
+cum insensato ne abieris <note>(ibid.)</note>
+            </hi>. Et Salomon dicit: <hi>Qui arguit impium, generat maculam sibi. Noli arguere
+derisorem, ne oderit. Argue sapientem, et diliget
+<pb n="0944D"/>
+te. Da sapienti occasionem, et addetur ei sapientia.
+Doce justum, et festinabit accipere 
+ <note>(Prov. IX)</note>
+            </hi>. Sed
+rursum in libro Ecclesiastico de discretione loquendi
+dictum est: <hi>Cum viro irreligioso tracta de sanctitate
+et cum injusto de justitia, et cum muliere de iis quae
+aemulatur, cum timido de bello, cum negotiatore de
+trajectione, cum emptore de venditione, cum viro livido
+de gratiis agendis, cum impio de pietate, cum
+inhonesto de honestate, cum operario agrario de omni
+opere, cum operario annuali de consummatione anni,
+cum servo pigro de multa operatione <note>(Eccl. XXXVII)</note>
+            </hi>.
+Ubi intelligi datur quod boni pravorum colloquia
+aliquando appetere, aliquando vitare debent. Appetere
+debent boni pravorum colloquia, quando et sua
+<pb n="0945A"/>
+exhortatione illos sperant posse corrigi, et tantum
+de sua stabilitate confidunt, ut non timeant ex illorum
+prava suggestione corrumpi. Quando vero et
+illorum duritiam et suam infirmitatem considerant,
+expedit eis ut fugiant, ne dum illos non valent admonitionibus
+suis corrigere, paulatim incipiant ipsi ad
+pravitatem illorum declinare. Cum ergo propter nostri
+aedificationem loquimur, cum illis loquamur
+quorum doctrina possimus ad virtutem instrui. Cum
+autem propter aedificationem proximi loquimur, cum
+illis loquamur quos speramus per nostram exhortationem
+a pravitate sua posse emendari. Alioquin et
+sapientes velle docere, superbia est, et obstinatos
+corripere, insipientia. Quia et injuriosus proximo
+est, qui meliori non exhibet reverentiam, et injuriosus
+<pb n="0945B"/>
+sibi est, qui non emendat sed provocat erga se insipientis
+vesaniam. Ergo qui cum alio loquitur primum
+consideret utrum propter se an propter illum
+loquatur. Si propter suam utilitatem loquitur, videat
+ut ille talis sit, de cujus colloquio utilitas sibi provenire
+possit. Si propter illum loquitur, caveat ne
+talis sit ille, qui vel sua exhortatione non indigeat,
+vel ita in malo obstinatus, ut exhortatione alterius
+corrigi se non permittat. Si ergo sic est, nunquam
+nisi vel ad nostri vel ad aliorum eruditionem loqui
+debemus, et in ipsa nostra locutione talem discretionem
+servare, ut semper studeamus et a sapientioribus
+discere, et minus doctos (ita duntaxat si se doceri
+patiantur) studeamus erudire. Et sicut interrogando,
+de illo potissimum quod nos magis urget verba facimus,
+<pb n="0945C"/>
+sic docendo, illud quod magis personae auditoris
+congruit proferre debemus, ut contra vitium
+quod in eo sanare cupimus, competens nostri sermonis
+remedium opponamus, quemadmodum supradictum
+est: <hi>Cum irreligioso de sanctitate, cum injusto
+de justitia, cum pigro de multa operatione loquendum
+esse.</hi> Facile ergo cui sit loquendum agnoscimus,
+si id quod dicitur quale sit diligenter consideremus,
+quia id profecto unicuique magis dici convenit, quod
+ad illud, in quo ipse plus laborat, malum sanandum
+consilio commodiori occurrit. Verbi gratia, quando
+constantiam laudare volumus, ad pusillanimes non
+ad superbos sermonem nostrum dirigere debemus,
+quia cum vitium superbiae sub praetextu constantiae
+<pb n="0945D"/>
+nonnunquam se contegat, si coeperimus superbis
+laudare constantiam, dum eos ad virtutem hortari
+credimus, amplius in suo vitio confirmamus. Exhortemur
+ergo ad constantiam timidos, ad timorem
+superbos, ad frugalitatem prodigos, ad liberalitatem
+avaros, ad humanitatem parcos, ad parcitatem gulosos,
+ad consilium temerarios, ad fervorem zeli
+tepidos, ad silentium verbosos, ad verbum exhortationis
+nimis tacitos, ad alacritatem segnes, ad mansuetudinem
+impatientes, ad justitiam negligentes, ad
+indulgentiam crudeles, ad verecundiam procaces,
+ad quietem praecipites, ad prudentiam incautos, ad
+sollicitudinem obliviosos, et ad modestiam inverecundos,
+et omnino quidquid dicere volumus cui dicendum
+sit, ex ipsa prius nostri sermonis qualitate
+colligamus.</p>
+</div2>
+
+<div2>
+          <head>CAP. XV. <hi>Ubi loquendum.</hi> </head>
+
+<pb n="0946A"/>
+<p>Sequitur tertia discretio loquendi, ut cum aliquid
+dicere volumus, prius ubi illud dici conveniat consideremus.
+Nam quaedam sunt loca, in quibus perpetuum
+silentium servandum est. Quaedam vero in
+quibus humanos sermones, id est confabulationes
+ad alterutrum edere non licet, exceptis iis verbis
+quibus homo cum Deo et ad Deum loquitur, quando
+vel in orationibus vel in lectionibus sive in hymnis
+et canticis manifeste vel occulte prolatis Deo famulatur.
+Unde et beatus Augustinus <hi>in oratorio nihil
+agendum esse</hi> dicit, <hi>praeter id ad quod factum est.</hi> 
+Sunt item alia loca in quibus pro disciplina et instructione
+morum verba habenda sunt; quaedam
+iterum in quibus de intelligentia et expositione
+<pb n="0946B"/>
+Scripturarum collationes (cum disciplina tamen et
+reverentia, hoc est sine contentione et clamore et
+qualibet turpitudine verborum) haberi possunt. Postremo
+sunt alia loca in quibus magis loquendi licentia
+laxatur, ita ut non solum de spiritualibus
+rebus, sed etiam de exteriorum dispositione et provisione
+sermones admittantur. Loca in quibus vana
+et superflua dici debeant, invenire non possum. Neque
+igitur in divinis et sacratis locis confabulationes
+inducere, neque in illis locis ubi de disciplina agendum
+est, quaestiones aut contentiones verborum
+ventilare, neque in illis ubi de intelligentia divinarum
+Scripturarum tractandum est, exteriora negotia
+admiscere debemus, nec ea quae sunt paucis revelanda,
+in manifesto propalare.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVI. <hi>Quando tacendum et quando loquendum.</hi> </head>
+
+<pb n="0946C"/>
+<p>Quarta loquendi discretio est quando quid dicendum
+sit attendere. Est tempus quando nihil, et est
+tempus quando aliquid dicendum est, nullum vero
+tempus est quando dicenda sunt omnia. Tempus est
+quando nihil dicendum est, quia tempus tacendi; et
+tempus quando aliquid, quia tempus loquendi, tempus
+vero quando omnia, nunquam, quia sicut idem
+Salomon ait: <hi>Mala aurea in lectis argenteis, qui loquitur
+verbum in tempore suo <note>(Prov. XXV)</note>
+            </hi>. Habet
+igitur omne verbum tempus suum quando proferri
+debeat, tempus quando taceri. Quando autem loquendum
+sit, melius ostendemus, si prius quando
+tacendum sit demonstremus. Tempus enim tacendi
+<pb n="0946D"/>
+tempus loquendi debet praecedere, quia prius per silentium
+tempore tacendi discitur, quod postea per verbum
+tempore loquendi proferatur. Propterea non ait
+Salomon: Tempus loquendi et tempus tacendi, sed <hi>tempus tacendi et tempus loquendi 
+ <note>(Eccli. III)</note>
+            </hi>, quia
+prius, sicut dictum est, in silentio forma loquendi
+sumitur, quae postmodum tempore loquendi in voce
+teneatur. Aliquando tacere debemus propterea quod
+alter prior loqui coepit, ne forte si sermonem ejus
+verborum nostrorum prolatione interrumpimus, et
+eum qui loquitur, et eos qui audiunt pariter offendamus.
+Aliquando tacendum est propterea, quia ad
+id quod dicere volumus, animos auditorum paratos
+adhuc non esse consideramus. Aliquando tacendum
+est propter multiloquium vitandum, vel etiam propterea
+<pb n="0947A"/>
+quod ipsi qui locuturi sumus, nondum apud
+nosmetipsos congruam loquendi formam invenimus,
+quia profecto animus auditorum magis offenditur,
+si sermo qui aedificare debet, confusus et inordinatus
+proferatur. Aliquando tacendum est propterea
+quod ii, qui praesentes habentur, nequaquam tales
+sunt, ad quos verbum debeamus facere, quod duobus
+modis fieri potest, scilicet dum vel reverentia dignitati
+personae impenditur, vel malitia incorrigibilis
+atque ideo indigna admonitione existimatur.
+Singula haec exemplis Scripturarum probare possumus,
+quia non uno sed multis singula quaeque confirmari
+Scripturarum testimoniis invenimus. Quod
+sermonem eorum qui priores nobis loqui coeperant,
+non debeamus interrumpere, sed semper loquentes
+<pb n="0947B"/>
+alios et praecipue eos qui utilia et recta loquuntur,
+propter custodiam disciplinae reverenter sustinere
+atque exspectare, sanctus Job nobis ostendit, qui
+cum de sua disciplina et de aliorum erga se reverentia
+loqueretur, inter caetera sic ait: <hi>Qui me audiebant,
+exspectabant sententiam meam; et intenti tacebant
+ad consilium meum, verbis meis addere nihil
+audebant, et super illos stillabat eloquium meum <note>(Job XXIX)</note>
+            </hi>.
+Item saepe propter infirmitatem auditorum
+tacendum esse, Dominus suo exemplo docet;
+qui, cum apostolos adhuc imbecilles et ad sublimioris
+doctrinae eruditionem impares aspiceret, ait: <hi>Adhuc
+multa habeo vobis dicere, sed non potestis portare
+modo <note>(Joan. XVI)</note>
+            </hi>. Item aliquando tacendum esse
+propter praecipitationem loquendi vitandam, Salomon
+<pb n="0947C"/>
+in Proverbiis ostendit, dicens: <hi>In multiloquio
+peccatum non deerit, qui autem moderatur labia
+sua prudentissimus est <note>(Prov. X)</note>
+            </hi>. Item: <hi>Labia justi
+considerant placita, et os impiorum perversa <note>(ibid.)</note>
+            </hi>.
+Item: <hi>Qui prius respondet quam audiat, stultum se
+esse demonstrat et confusione dignissimum <note>(Prov.
+XVIII)</note>
+            </hi>. Item in libro Ecclesiastico: <hi>Ne ventites te in
+omnem ventum, et non eas in omni via, sic enim peccator
+probatur in duplici lingua. Esto mansuetus ad
+audiendum verbum Dei ut intelligas, et cum omni
+sapientia proferas responsum verum. Si est tibi intellectus,
+responde proximo; sin autem, sit manus tua
+super os tuum, ne capiaris in verbo indisciplinato <note>(Eccli. V)</note>
+            </hi>.
+Item saepe propter reverentiam personae
+<pb n="0947D"/>
+tacendum esse, in eodem demonstratur cum dicitur: <hi>Priusquam interroges ne vituperes quemquam, et cum
+interrogaveris corripe juste. Priusquam audias ne
+respondeas verbum, et in medio seniorum ne adjicias
+loqui 
+ <note>(Eccle. XI)</note>
+            </hi>. Item saepe, propter malitiam auditorum
+tacendum esse, Salomon docet, dicens: <hi>In auribus
+insipientium ne loquaris, quia despicient doctrinam
+eloquii tui <note>(Prov. XXIII)</note>
+            </hi>. Item: <hi>Ne contendas
+cum pessimis, et ne aemuleris impios <note>(Prov. XXIV)</note>
+            </hi>.
+Item. <hi>Vir sapiens si cum stulto contenderit, sive
+irascatur sive rideat, non inveniet requiem <note>(Prov.
+XXIX)</note>
+            </hi>. Quisquis haec impedimenta loquendi cavere
+voluerit, facile fortassis et sine difficultate quando
+sit loquendum agnoscet, si tamen hoc attendit, quia
+aliud tempus est quando ei qui voluerit loqui conceditur,
+<pb n="0948A"/>
+aliud est tempus quando ei qui noluerit
+loqui pro culpa reputatur. Sapiens autem aeque cavet,
+vel ne eo tempore quando loqui debet, per
+negligentiam sileat, vel ne omni tempore quando
+loqui licet, per licentiam concessam in multiloquium
+cadat. Recte ergo tempus loquendi discernitur, si
+homo nec unquam quando loqui debet, sileat, nec
+semper quando licet, loquatur. Restat nunc ut, postquam
+ostendimus quid vel cui et ubi et quando
+loquendum sit, etiam qualiter loquendum sit, demonstremus.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVII. <hi>Quomodo loquendum sit.</hi> </head>
+<p>Qualitas, id est motus loquendi in tribus constat,
+hoc est quo gestu, quo sono, qua significatione quid
+dicatur. Disciplina jubet ut loquentis sit gestus modestus
+<pb n="0948B"/>
+et humilis, sonus demissus et suavis, significatio
+verax et dulcis. Modestiam debet habere
+gestus loquentis, ut nec inordinate, nec impudice,
+nec turbulenter inter loquendum membra moveat,
+neque oculorum nutibus, aut indecenti conformatione
+sive transmutatione vultus, placorem sui sermonis
+imminuat. Humilis debet esse gestus loquentis, ut
+apud auditores gratiam sermo ejus inveniat. Sonus
+loquentis esse debet demissus, ne strepitu, et immoderata
+clamositate auditores suos aut injuste terreat
+aut juste offendat. Suavis debet esse, ne prolationis
+asperitate tanto fiat animis audientium onerosior,
+quanto ad aures durior venit, et injucundior. Significatio,
+id est sententia sermonis, ideo debet esse
+vera, quia fallax verbum etiam si facunde aut composite
+<pb n="0948C"/>
+dicitur, nihilominus tamen ab auditore aut
+noxium aut otiosum (si fuerit intellectum) reputatur.
+Sed et cum veritate necesse est, ut sermo loquentis
+dulcedinem habeat, quia saepe etiam veritas
+auditori amara efficitur, si aut sine ratione, aut sine
+dilectione, hoc est, vel importune, vel impie contra
+eum proferatur. Singula haec Scripturae sacrae testimoniis
+comprobemus. Quod habitus indisciplinatus
+sermonem contemptibilem faciat, Salomon ostendit,
+dicens: <hi>Non decent stultum verba composita <note>(Prov.
+XVI)</note>
+            </hi>. Et iterum: <hi>Non est speciosa in ore stulti parabola <note>(Prov. XVII)</note>
+            </hi>.
+Et iterum: <hi>Fons vitae eruditio possidentis;
+doctrina stultorum fatuitas <note>(Prov. XXVI)</note>
+            </hi>. Et iterum: <hi>Doctrina sua noscitur vir, qui autem vanus, et excors
+est, patebit contemptui 
+ <note>(Prov. XII)</note>
+            </hi>. Item: <hi>Quomodo
+<pb n="0948D"/>
+pulchras frustra habet claudus tibias, sic indecens est
+in ore stultorum parabola <note>(Prov. XXVI)</note>
+            </hi>. Quod vero
+typus elationis sermonem hominis ingratum auditoribus
+reddat, Salomon iterum testatur, dicens: <hi>Excelsa stulto sapientia in porta non aperiet os suum <note>(Prov. XXIV)</note>
+            </hi>.
+Et iterum dicit: <hi>Cum obsecrationibus
+loquetur pauper, et dives effabitur rigide <note>(Prov. XVIII)</note>
+            </hi>.
+Quantum autem sermo clamosus a disciplinatis cavendus
+sit, ipse auctor disciplinae ostendit, de quo
+per Isaiam scriptum est: <hi>Non clamabit neque accipiet
+personam neque audietur foris vox ejus <note>(Isa. XLII)</note>
+            </hi>.
+Verbum autem asperum, et rixosum omnino sermonibus
+disciplinatis secludendum esse, per eumdem
+probatur cum dicitur: <hi>Labia stulti immiscent se rixis,
+<pb n="0949A"/>
+et os ejus jurgia provocat <note>(Prov. XVIII)</note>
+            </hi>. De verbo etiam
+mendaci quantum sit cavendum, idem ipse insinuat,
+dicens: <hi>Testis falsus non erit impunitus, et qui mendacia
+loquitur, non effugiet <note>(Prov. XIX)</note>
+            </hi>. Sed et verbum
+dulce, quantum valeat in sermone, liber Ecclesiasticus
+patenter demonstrat ubi dicit: <hi>Verbum
+dulce amicos multiplicat, et inimicos mitigat, et lingua
+eucharis in bono viro abundat <note>(Eccl. VI)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVIII. <hi>De disciplina in mensa servanda, et primo in habitu et gesta.</hi> </head>
+<p>In mensa est duplex custodia disciplinae. Ibi enim
+debet homo servare disciplinam in habitu suo, et
+disciplinam in cibo suo. Disciplinam in habitu, tribus
+modis, in disciplina tacendi, in disciplina videndi,
+<pb n="0949B"/>
+in disciplina continendi sese. Taciturnitas inter
+epulas necessaria est idcirco, quoniam lingua quae
+omni tempore prona ad peccatum labitur, periculosius
+cum per crapulam inflammata fuerit, ad loquendum
+relaxatur. Propterea enim dives qui inter epulas
+loquacitati servierat, post in inferno positus vehementius
+in lingua ardebat <note>(Luc. XXVI)</note>. Custodia oculorum
+inter epulas propterea necessaria est; quia
+non decet ibi praecipue, ut vagos homo habeat oculos,
+neque curiose, et (ut amplius aliquid dicam)
+impudenter ea quae apud alios aguntur circumlustrando
+prospiciat, sed ut potius pudice demissis
+luminibus ea tantum quae sibi anteposita et apposita
+sunt attendat. Custodia quoque continendi sese
+ibi negligenda non est, quatenus videlicet neque in
+<pb n="0949C"/>
+habitu, neque in gestu indecens aliquid aut inhonestum
+agatur. Nihil cum strepitu aut tumultu fiat,
+sed omnia membra cum modestia, et tranquillitate
+in disciplina contineantur. Non sicut quidam faciunt,
+qui cum ad sedendum assederint, inquieta quadam
+agitatione et confusione membrorum intemperantiam
+animi sui designant. Caput excutiunt, brachia exerunt,
+manus in altum expandunt, et non sine magna turpitudine
+quasi totum epulum simul sint absorpturi,
+ingentes quosdam conatus et gestus satis indecoros
+ostendunt. Anhelant, et suspirant prae augustia, ita
+ut existimes eos alium rugienti ventri patentiorem
+aditum quaerere, quasi angustia faucium non possit
+esurienti stomacho satis sufficientem abundantiam
+<pb n="0949D"/>
+ministrare. In uno ergo loco sedentes, oculis, et
+manibus quae prope, quae longe, omnia circumcurrunt,
+simul panes comminuunt, vina in calices, et pateras
+effundunt, discos in gyrum circumducunt, et
+velut rex super obsessam civitatem assultum facturus,
+dubitant ubi primum expugnationem aggrediantur,
+dum simul in omni parte irruptionem facere
+concupiscunt. Plus justo fortassis ista dicentes, verecundiae
+obliti sumus, sed nescit aliquando impudentia
+erubescere, nisi fuerit manifeste confusa. His
+igitur tribus modis debet quisque inter epulas
+conservare disciplinam in semetipso, videlicet ut
+et linguam suam a loquacitate restringat, et oculos
+suos a circumspectione cohibeat, et ut caetera
+membra omnia cum modestia et quiete contineat.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIX. <hi>De triplici observatione disciplinae in cibo, et primo quid comedendum.</hi> </head>
+
+<pb n="0950A"/>
+<p>Sequitur etiam triplex observatio disciplinae in
+cibo, observatio in eo quid sumat, observatio in eo
+quantum sumat, observatio in eo quomodo sumat.
+Observatio in eo quid sumat, id est ut neque nimis
+pretiosa et delicata expetat, nec nimis rara et insolita
+requirat, nec nimis laute et accurate praeparata
+concupiscat. In primo enim luxus arguitur, in
+secundo curiositas, in tertio superstitio notatur.
+Sunt namque quidam quorum fauces satis ridicula
+infirmitate aegrotant, quae nisi pinguia et delicata
+deglutire non possunt. Et si quando eis parci aut
+frugales cibi oblati fuerint, statim aut indigestionem
+stomachi aut pectoris siccitatem, aut obripilationem
+<pb n="0950B"/>
+capitis, aut si qua sunt talia, ad frivolas excusationes
+praetendunt. Alii delicias et luxum ciborum magna
+constantia aspernantur, sed ab eis iterum non
+minori aut tolerabiliori petulantia communium cibariorum
+usus omnino despicitur. Nova quaedam et
+insolita ciborum genera exquirunt, ita ut saepe propter
+unius ventrem hominis per omnes circum pagos
+turba famulorum discurrat, et vix tandem vel
+ignotas de desertis procul montibus radices evellendo
+vel pauculos de imis gurgitibus profunda scrutatione
+pisciculos trahendo, sive intempestiva de
+arentibus rubetis arbuta colligendo, unius appetitus
+petulantiam compescere queat. Et sane mihi non
+satis patere potest, quod vitium istos exagitet, nisi
+forte quia per quamdam animi insolentiam multos
+<pb n="0950C"/>
+in suo obsequio occupari gaudent, sive quia per tumorem
+elationis caeteris omnibus quantum cibo dissimiles
+sunt, tantum merito dissimiles videri volunt.
+Alii superstitiosum nimis in praeparandis cibis studium
+adhibent, infinita decoctionum et frixurarum
+et condimentorum genera excogitantes, modo mollia,
+modo dura, modo frigida, modo calida, modo
+elixa, modo assa, modo pipere, modo allio, modo
+cumino, modo sale condita, secundum consuetudinem
+praegnantium mulierum desiderantes. Hi profecto
+non solum arguendi sed etiam deridendi sunt,
+qui quasi caupones ad omnem clepsydram eliciendi
+gustus gratia palatum extendunt. Igitur contra haec
+vitia sananda necessarius est rigor disciplinae, qui
+<pb n="0950D"/>
+istas gulae petulantias intra certum limitem cohibeat,
+quatenus se neque ad immoderatas delicias, neque
+ad novitates, neque ad superstitiosas praeparationes
+ciborum appetendas diffundat.</p>
+</div2>
+
+<div2>
+          <head>CAP. XX. <hi>Secundo, quantum comedendum.</hi> </head>
+<p>Deinde sequitur custodia disciplinae in eo quantum
+quis sumere debeat, cujus mensura haec mihi esse
+videtur, ut neque contra honestatem neque supra
+necessitatem. Non omnis venter idem capit, alius
+sic contentus, alius vero sic. Cui minus sufficit,
+iste priusquam ad turpitudinem edacitatis perveniat,
+in superfluitatem offendit; cui multum opus
+est, in eo saepe honestas comedendi laeditur, etiam
+priusquam ad superfluitatem veniatur. Ergo ille cui
+parum satis est, magis superfluitatem caveat; ille
+<pb n="0951A"/>
+tero cui multo opus est, magis ad honestatem attendat,
+quia neque ille nisi temperantiae metas
+transierit, ad turpitudinem veniet, neque iste nisi
+prius honestatis oblitus fuerit, in superfluitatem
+impinget.</p>
+</div2>
+
+<div2>
+          <head>CAP. XXI. <hi>Tertio, quomodo comedendum.</hi> </head>
+<p>Postremo est observatio in cibo, quomodo quis
+cibum sumere debeat. Hoc est quam munde et quam
+temperate. De immunditia comedendi pauca exempla
+proferre sufficiat, ut dum in quibusdam suis partibus
+cernitur, facile per similitudinem ubique caveatur.
+Quidam inter comedendum dum scutellas
+exonerare volunt, quadrata ferculorum frusta adipem
+sive saginam superroratam distillantia mensalibus
+involvunt aut super injiciunt, donec iterum
+<pb n="0951B"/>
+evisceratis interioribus ea quae remanserant, in pristinum
+locum reponant. Alii bibentes, digitos mediotenus
+poculis immergunt. Alii unctas manus ad vestimenta
+sua detergentes, rursus ad cibaria tractanda
+redeunt. Alii nudis articulis coclearis vice olera sua
+<pb n="0952A"/>
+piscantur, ita ut in eodem jure et manus ablutionem
+et venter refectionem quaerere videatur. Alii semicorrosas
+crustas et praemorsas collyridas cibariis
+iterando infigunt, et reliquias dentium suorum offas
+facturi in poculis demergunt. Haec, sicut supra
+diximus, dicentibus erubescenda fuerant, si a facientibus
+praesumpta non fuissent. Nunc autem sustineat
+in audiendo verecundiam, qui noluit in faciendo
+habere disciplinam. Verumtamen haec de
+immunditia indisciplinate manducantium ad exemplum
+dicta sufficiant. Temperantiam manducandi
+intelligimus in eo, si tractim homo et non cum nimia
+festinatione comedat; ubi nos quidem quantum fieri
+potest modum et mensuram omnes tenere suademus,
+legem tamen nullam dare praesumsimus, quia,
+<pb n="0952B"/>
+sicut jam supra diximus, alius sic et alius sic. Haec
+vobis, fratres, de scientia et disciplina interim nos
+diximus: Bonitatem vero orate ut vobis det Deus.
+Amen.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>
