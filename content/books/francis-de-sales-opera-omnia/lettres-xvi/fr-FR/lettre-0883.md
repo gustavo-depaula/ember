@@ -1,0 +1,15 @@
+# Lettre DCCCLXXXIII. À la Mère de Chantal
+
+*Un désir du Saint pour la Mère de Chantal et pour lui-même ; pourquoi il regrette d'avoir dû quitter le matin la rédaction du Traitté de l'Amour de Dieu. - Les voies les plus faciles ne sont pas toujours les meilleures. User d'amour et de douceur envers les petits esprits et les cœurs faibles.*
+
+Annecy, [6 juin] 1613.
+
+Que je suis consolé, ma tres chere Mere, de la bonne nouvelle de vostre santé ! Le grand Dieu, que ma pauvre ame et la vostre veut a jamais servir, soit beni et loüé, et veuille de plus en plus fortifier cette chere santé que nous avons dediee a sa sainteté infinie.
+
+Mais ce pendant, nostre cher cœur comme se porte-il en vous ? Helas, ma tres chere Mere, que je luy desire de benedictions ! Quand sera-ce que l'amour, triomphant entre toutes nos affections et pensees, nous rendra tous unis au cœur souverain de nostre Sauveur, auquel le nostre aspire incessamment ? Ouy, ma tres chere Mere, il y aspire incessamment, quoy que insensiblement pour la pluspart du tems. Certes, j'ay esté bien marry ce matin, qu'il m'ayt fallu quitter ma besoigne sur le point qu'il m'estoit arrivé une certaine affluence du sentiment que nous aurons pour la veuë de Dieu en Paradis, car je devois escrire cela en nostre livret ( Traitté de l'Amour de Dieu. ) ; mays maintenant je ne l'ay plus. Neanmoins, puisque je me suis diverti seulement pour aller prendre les arres de cette mesme veuë en la sainte Messe , j'espere qu'il me reviendra quand il en sera tems. 0 Dieu, ma tres chere et unique Mere, aymons parfaittement ce divin objet qui nous prepare tant de douceur au Ciel; soyons bien tout a luy, et cheminons nuit et jour entre les espines et les roses, pour arriver a cette celeste Hierusalem.
+
+La grande fille va par un chemin fort asseuré, pourveu que son aspreté ne la descourage. Les voyes les plus faciles ne nous menent pas tous-jours plus droitement ni asseurement; on s'amuse quelquefois tant au playsir qu'on y a et a regarder de part et d'autre les veuës aggreables, qu'on en oublie la diligence du voyage. Il faut estre court. Voyés ce billet qu'on m'a envoyé ce matin; et parce que je n'ay point veu cette pauvre creature , et que peut estre vous la verrés devant moy, j'ay pensé que je ferois bien de vous l'envoyer. Helas ! ma tres chere Mere, que la vanité fait de tort a ces chetifz petitz espritz, qui ne se connoissent pas et se mettent entre les hazars ! Mais pourtant, comme vous sçavés, en bien remonstrant, il faut user d'amour et de douceur ; car les advertissemens font meilleure operation comme cela, et autrement on pourroit detraquer ces cœurs un peu foibles. Seulement, je ne sçai comme vous pourres dire que vous sçaves la dissension. Or bien, Dieu inspirera a nostre cœur ce qu'il dira pour ce regard, comme je l'en supplie, et de m'inspirer aussi ce que je prescheray ce soir. J'escris entre plusieurs distractions. Bon soir, ma tres chere Mere. Je suis
+
+Vostre tres affectionné serviteur en Nostre Seigneur,
+
+FRANçs, E. de Geneve.

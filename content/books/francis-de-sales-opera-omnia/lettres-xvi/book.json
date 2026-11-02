@@ -1,0 +1,1315 @@
+{
+  "id": "sales-lettres-xvi",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres de saint François de Sales, tome XVI",
+    "en-US": "Letters of St. Francis de Sales, vol. XVI",
+    "pt-BR": "Cartas de São Francisco de Sales, tomo XVI"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les lettres de saint François de Sales du tome XVI de l’édition d’Annecy (1613-1614), une lettre par chapitre, groupées par année : numéro, destinataire, résumé et date de l’édition critique, puis le texte en orthographe d’époque.",
+    "en-US": "The letters of St. Francis de Sales in volume XVI of the Annecy edition (1613-1614), one letter per chapter and grouped by year: the edition’s number, addressee, summary and date, then the text in period spelling.",
+    "pt-BR": "As cartas de São Francisco de Sales do tomo XVI da edição de Annecy (1613-1614)."
+  },
+  "composed": "1613-1614",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/lettres-xvi",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/francois_de_sales_lettres_tome_6.html",
+      "edition": "Œuvres de saint François de Sales, édition d’Annecy, tome XVI (Lettres), Annecy: J. Niérat, 1900-1923; digital transcription in original spelling by JesusMarie.com.",
+      "description": "The editors’ letter numbers, addressee headings, summaries and dates are kept; footnotes, variants, the glossary, the indexes and the appendix of letters addressed to Francis are not included.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition appeared in 1900-1923, before 1930. The JesusMarie transcription is of his own text with the edition’s headings."
+    }
+  ],
+  "toc": [
+    {
+      "id": "annee-01",
+      "title": {
+        "fr-FR": "Année 1613"
+      },
+      "children": [
+        {
+          "id": "lettre-0873",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0874",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXIV. À l'Empereur d'Allemagne, Mathias"
+          }
+        },
+        {
+          "id": "lettre-0875",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXV. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0876",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXVI. À M. Antoine des Hayes"
+          }
+        },
+        {
+          "id": "lettre-0877",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXVII. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-0878",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXVIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0879",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXIX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0880",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0881",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXI. À Madame de Giez"
+          }
+        },
+        {
+          "id": "lettre-0882",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXII. À la Mère Anne de la Vesvre, Ursuline"
+          }
+        },
+        {
+          "id": "lettre-0883",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0884",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXIV. À Madame de la Valbonne"
+          }
+        },
+        {
+          "id": "lettre-0885",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXV. Au Duc de Nemours, Henri de Savoie"
+          }
+        },
+        {
+          "id": "lettre-0886",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXVI. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0887",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXVII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0888",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXVIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0889",
+          "title": {
+            "fr-FR": "Lettre DCCCLXXXIX. Au Duc de Nemours, Henri de Savoie"
+          }
+        },
+        {
+          "id": "lettre-0890",
+          "title": {
+            "fr-FR": "Lettre DCCCXC. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-0891",
+          "title": {
+            "fr-FR": "Lettre DCCCXCI. À Madame de Travernay"
+          }
+        },
+        {
+          "id": "lettre-0892",
+          "title": {
+            "fr-FR": "Lettre DCCCXCII. À une Personne Inconnue"
+          }
+        },
+        {
+          "id": "lettre-0893",
+          "title": {
+            "fr-FR": "Lettre DCCCXCIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0894",
+          "title": {
+            "fr-FR": "Lettre DCCCXCIV. À Madame d'Aiguebelette"
+          }
+        },
+        {
+          "id": "lettre-0895",
+          "title": {
+            "fr-FR": "Lettre DCCCXCV. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0896",
+          "title": {
+            "fr-FR": "Lettre DCCCXCVI. À la Duchesse de Mercoeur"
+          }
+        },
+        {
+          "id": "lettre-0897",
+          "title": {
+            "fr-FR": "Lettre DCCCXCVII. À M. Claude de Blonay"
+          }
+        },
+        {
+          "id": "lettre-0898",
+          "title": {
+            "fr-FR": "Lettre DCCCXCVIII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0899",
+          "title": {
+            "fr-FR": "Lettre DCCCXCIX. Au Père Pierre de Bérulle, Oratorien"
+          }
+        },
+        {
+          "id": "lettre-0900",
+          "title": {
+            "fr-FR": "Lettre CM. À M. Nicolas de Soulfour"
+          }
+        },
+        {
+          "id": "lettre-0901",
+          "title": {
+            "fr-FR": "Lettre CMI. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0902",
+          "title": {
+            "fr-FR": "Lettre CMII. Au Duc de Nemours, Henri de Savoie"
+          }
+        },
+        {
+          "id": "lettre-0904",
+          "title": {
+            "fr-FR": "Lettre CMIV. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0905",
+          "title": {
+            "fr-FR": "Lettre CMV. À Monseigneur Jean-Pierre Camus, Évèque de Belley"
+          }
+        },
+        {
+          "id": "lettre-0906",
+          "title": {
+            "fr-FR": "Lettre CMVI. Au Duc de Bellegarde"
+          }
+        },
+        {
+          "id": "lettre-0907",
+          "title": {
+            "fr-FR": "Lettre CMVII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0908",
+          "title": {
+            "fr-FR": "Lettre CMVIII. À M. Amé de Montfort"
+          }
+        },
+        {
+          "id": "lettre-0909",
+          "title": {
+            "fr-FR": "Lettre CMIX. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0910",
+          "title": {
+            "fr-FR": "Lettre CMX. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0911",
+          "title": {
+            "fr-FR": "Lettre CMXI. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-0912",
+          "title": {
+            "fr-FR": "Lettre CMXII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0913",
+          "title": {
+            "fr-FR": "Lettre CMXIII. À Monseigneur Antoine de Revol Évêque de Dol"
+          }
+        },
+        {
+          "id": "lettre-0914",
+          "title": {
+            "fr-FR": "Lettre CMXIV. À M. Louis Girod, Curé d'Arlod"
+          }
+        },
+        {
+          "id": "lettre-0915",
+          "title": {
+            "fr-FR": "Lettre CMXV. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0916",
+          "title": {
+            "fr-FR": "Lettre CMXVI. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-0917",
+          "title": {
+            "fr-FR": "Lettre CMXVII. À la Soeur Favre, Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-0918",
+          "title": {
+            "fr-FR": "Lettre CMXVIII. À la Soeur de Bréchard, Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-0919",
+          "title": {
+            "fr-FR": "Lettre CMXIX. À Madame de Murat de la Croix"
+          }
+        },
+        {
+          "id": "lettre-0920",
+          "title": {
+            "fr-FR": "Lettre CMXX. À Madame de la Fléchere"
+          }
+        },
+        {
+          "id": "lettre-0921",
+          "title": {
+            "fr-FR": "Lettre CMXXI. À des Inconnus"
+          }
+        },
+        {
+          "id": "lettre-0922",
+          "title": {
+            "fr-FR": "Lettre CMXXII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0923",
+          "title": {
+            "fr-FR": "Lettre CMXXIII. Au Duc de Nemours, Henri de Savoie"
+          }
+        },
+        {
+          "id": "lettre-0924",
+          "title": {
+            "fr-FR": "Lettre CMXXIV. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-0925",
+          "title": {
+            "fr-FR": "Lettre CMXXV. Au Même"
+          }
+        },
+        {
+          "id": "lettre-0926",
+          "title": {
+            "fr-FR": "Lettre CMXXVI. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-0927",
+          "title": {
+            "fr-FR": "Lettre CMXXVII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0928",
+          "title": {
+            "fr-FR": "Lettre CMXXVIII. À Madame de Cornillon, sa Soeur"
+          }
+        },
+        {
+          "id": "lettre-0929",
+          "title": {
+            "fr-FR": "Lettre CMXXIX. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0930",
+          "title": {
+            "fr-FR": "Lettre CMXXX. À Madame de Grandmaison"
+          }
+        },
+        {
+          "id": "lettre-0931",
+          "title": {
+            "fr-FR": "Lettre CMXXXI. À M. Jacques de Vallon"
+          }
+        },
+        {
+          "id": "lettre-0932",
+          "title": {
+            "fr-FR": "Lettre CMXXXII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0933",
+          "title": {
+            "fr-FR": "Lettre CMXXXIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0934",
+          "title": {
+            "fr-FR": "Lettre CMXXXIV. À la Duchesse de Mantoue, Marguerite de Savoie"
+          }
+        },
+        {
+          "id": "lettre-0935",
+          "title": {
+            "fr-FR": "Lettre CMXXXV. À M. Balthazard de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-0936",
+          "title": {
+            "fr-FR": "Lettre CMXXXVI. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0937",
+          "title": {
+            "fr-FR": "Lettre CMXXXVII. À M. Philippe de Quoex"
+          }
+        },
+        {
+          "id": "lettre-0938",
+          "title": {
+            "fr-FR": "Lettre CMXXXVIII. À la Soeur Favre, Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-0939",
+          "title": {
+            "fr-FR": "Lettre CMXXXIX. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-0940",
+          "title": {
+            "fr-FR": "Lettre CMXL. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0941",
+          "title": {
+            "fr-FR": "Lettre CMXLI. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0942",
+          "title": {
+            "fr-FR": "Lettre CMXLII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0943",
+          "title": {
+            "fr-FR": "Lettre CMXLIII. À un Ecclésiastique"
+          }
+        },
+        {
+          "id": "lettre-0944",
+          "title": {
+            "fr-FR": "Lettre CMXLIV. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0945",
+          "title": {
+            "fr-FR": "Lettre CMXLV. À une Cousine"
+          }
+        },
+        {
+          "id": "lettre-0946",
+          "title": {
+            "fr-FR": "Lettre CMXLVI. Au Père Claude-Louis-Nicolas de Quoex Prieur de Talloires"
+          }
+        },
+        {
+          "id": "lettre-0947",
+          "title": {
+            "fr-FR": "Lettre CMXLVII. À la Mère de Cha Ntal"
+          }
+        },
+        {
+          "id": "lettre-0948",
+          "title": {
+            "fr-FR": "Lettre CMXLVIII. À une Religieuse de la Vis]tation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "annee-02",
+      "title": {
+        "fr-FR": "Année 1614"
+      },
+      "children": [
+        {
+          "id": "lettre-0949",
+          "title": {
+            "fr-FR": "Lettre CMXLIX. À Madame d'Escrilles"
+          }
+        },
+        {
+          "id": "lettre-0950",
+          "title": {
+            "fr-FR": "Lettre CML. Au Père Nicolas de Soulfour, Oratorien"
+          }
+        },
+        {
+          "id": "lettre-0951",
+          "title": {
+            "fr-FR": "Lettre CMLI. À Monseigneur Pierre Fenouillet Évêque de Montpellier"
+          }
+        },
+        {
+          "id": "lettre-0952",
+          "title": {
+            "fr-FR": "Lettre CMLII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0953",
+          "title": {
+            "fr-FR": "Lettre CMLIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0954",
+          "title": {
+            "fr-FR": "Lettre CMLIV. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0955",
+          "title": {
+            "fr-FR": "Lettre CMLV. À la Mere de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0956",
+          "title": {
+            "fr-FR": "Lettre CMLVI. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-0957",
+          "title": {
+            "fr-FR": "Lettre CMLVII. À M. Philippe de Quoex"
+          }
+        },
+        {
+          "id": "lettre-0958",
+          "title": {
+            "fr-FR": "Lettre CMLVIII. À Madame de la Valbonne"
+          }
+        },
+        {
+          "id": "lettre-0959",
+          "title": {
+            "fr-FR": "Lettre CMLIX. À M. Claude de Blonay"
+          }
+        },
+        {
+          "id": "lettre-0960",
+          "title": {
+            "fr-FR": "Lettre CMLX. À Monseigneur Hildebrand Jost Évêque Nommé de Sion"
+          }
+        },
+        {
+          "id": "lettre-0961",
+          "title": {
+            "fr-FR": "Lettre CMLXI. À M. Claude de Blonay"
+          }
+        },
+        {
+          "id": "lettre-0962",
+          "title": {
+            "fr-FR": "Lettre CMLXII. À M. Antoine des Hayes"
+          }
+        },
+        {
+          "id": "lettre-0963",
+          "title": {
+            "fr-FR": "Lettre CMLXIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0964",
+          "title": {
+            "fr-FR": "Lettre CMLXIV. À Madame de la Valbonne"
+          }
+        },
+        {
+          "id": "lettre-0965",
+          "title": {
+            "fr-FR": "Lettre CMLXV. À un Gentilhomme"
+          }
+        },
+        {
+          "id": "lettre-0966",
+          "title": {
+            "fr-FR": "Lettre CMLXVI. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0967",
+          "title": {
+            "fr-FR": "Lettre CMLXVII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0968",
+          "title": {
+            "fr-FR": "Lettre CMLXVIII. Aux Chanoines de la Collégiale de Sainte-Marie de Samoens"
+          }
+        },
+        {
+          "id": "lettre-0969",
+          "title": {
+            "fr-FR": "Lettre CMLXIX. À Madame d'Escrilles"
+          }
+        },
+        {
+          "id": "lettre-0970",
+          "title": {
+            "fr-FR": "Lettre CMLXX. Au Roi de France, Louis Xiii"
+          }
+        },
+        {
+          "id": "lettre-0971",
+          "title": {
+            "fr-FR": "Lettre CMLXXI. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0972",
+          "title": {
+            "fr-FR": "Lettre CMLXXII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0973",
+          "title": {
+            "fr-FR": "Lettre CMLXXIII. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-0974",
+          "title": {
+            "fr-FR": "Lettre CMLXXIV. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-0975",
+          "title": {
+            "fr-FR": "Lettre CMLXXV. À Madame de la Flechere"
+          }
+        },
+        {
+          "id": "lettre-0976",
+          "title": {
+            "fr-FR": "Lettre CMLXXVI. À Madame de la Flechere"
+          }
+        },
+        {
+          "id": "lettre-0977",
+          "title": {
+            "fr-FR": "Lettre CMLXXVII. À M. Claude de Quoex ( L2, Note 95 )"
+          }
+        },
+        {
+          "id": "lettre-0978",
+          "title": {
+            "fr-FR": "Lettre CMLXXVIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0979",
+          "title": {
+            "fr-FR": "Lettre CMLXXIX. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-0980",
+          "title": {
+            "fr-FR": "Lettre CMLXXX. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0980-bis",
+          "title": {
+            "fr-FR": "Lettre CMLXXX bis. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0981",
+          "title": {
+            "fr-FR": "Lettre CMLXXXI. Au Roi de France, Louis Xiii"
+          }
+        },
+        {
+          "id": "lettre-0982",
+          "title": {
+            "fr-FR": "Lettre CMLXXXII. Au Duc de Bellegarde"
+          }
+        },
+        {
+          "id": "lettre-0983",
+          "title": {
+            "fr-FR": "Lettre CMLXXXIII. Au Baron François du Villars"
+          }
+        },
+        {
+          "id": "lettre-0984",
+          "title": {
+            "fr-FR": "Lettre CMLXXXIV. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-0985",
+          "title": {
+            "fr-FR": "Lettre CMLXXXV. À Dom Bruno d'Affringues, Général des Chartreux"
+          }
+        },
+        {
+          "id": "lettre-0986",
+          "title": {
+            "fr-FR": "Lettre CMLXXXVI. Au Baron Jean-Bérold de Cusy"
+          }
+        },
+        {
+          "id": "lettre-0987",
+          "title": {
+            "fr-FR": "Lettre CMLXXXVII. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-0988",
+          "title": {
+            "fr-FR": "Lettre CMLXXXVIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0989",
+          "title": {
+            "fr-FR": "Lettre CMLXXXIX. À la Mère Claudine de Blonay, Abbesse de Sainte-Claire d'Evian"
+          }
+        },
+        {
+          "id": "lettre-0990",
+          "title": {
+            "fr-FR": "Lettre CMXC. À Madame de la Valbonne"
+          }
+        },
+        {
+          "id": "lettre-0991",
+          "title": {
+            "fr-FR": "Lettre CMXCI. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0992",
+          "title": {
+            "fr-FR": "Lettre CMXCII. Au Duc de Bellegarde"
+          }
+        },
+        {
+          "id": "lettre-0993",
+          "title": {
+            "fr-FR": "Lettre CMXCIII. À M. Guillaume-François de Chabod Seigneur de Jacob"
+          }
+        },
+        {
+          "id": "lettre-0994",
+          "title": {
+            "fr-FR": "Lettre CMXCIV. À Monseigneur Jean-Pierre Camus, Évêque de Belley"
+          }
+        },
+        {
+          "id": "lettre-0995",
+          "title": {
+            "fr-FR": "Lettre CMXCV. À M. Étienne Dunant, Curé de Gex"
+          }
+        },
+        {
+          "id": "lettre-0996",
+          "title": {
+            "fr-FR": "Lettre CMXCVI. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-0997",
+          "title": {
+            "fr-FR": "Lettre CMXCVII. Au Duc de Bellegarde"
+          }
+        },
+        {
+          "id": "lettre-0998",
+          "title": {
+            "fr-FR": "Lettre CMXCVIII. Au Baron Paul Damas d'Anlezy"
+          }
+        },
+        {
+          "id": "lettre-0999",
+          "title": {
+            "fr-FR": "Lettre CMXCIX. À M. Guillaume de Bernard de Foras"
+          }
+        },
+        {
+          "id": "lettre-1000",
+          "title": {
+            "fr-FR": "Lettre M. À M. Pierre-François Jay, Curé de Bonneville"
+          }
+        },
+        {
+          "id": "lettre-1001",
+          "title": {
+            "fr-FR": "Lettre MI. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1002",
+          "title": {
+            "fr-FR": "Lettre MII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1003",
+          "title": {
+            "fr-FR": "Lettre MIII. À Mm. les Proviseurs du College de Savoie a Louvain"
+          }
+        },
+        {
+          "id": "lettre-1004",
+          "title": {
+            "fr-FR": "Lettre MIV. À Madame des Gouffiers, Religieuse du Paraclet"
+          }
+        },
+        {
+          "id": "lettre-1005",
+          "title": {
+            "fr-FR": "Lettre MV. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1006",
+          "title": {
+            "fr-FR": "Lettre MVI. À la Soeur de Chastel, Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-1007",
+          "title": {
+            "fr-FR": "Lettre MVII. À Madame des Gouffiers, Religieuse du Paraclet"
+          }
+        },
+        {
+          "id": "lettre-1008",
+          "title": {
+            "fr-FR": "Lettre MVIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1009",
+          "title": {
+            "fr-FR": "Lettre MIX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1010",
+          "title": {
+            "fr-FR": "Lettre MX. Au Chanoine Maurice Marpeaud"
+          }
+        },
+        {
+          "id": "lettre-1011",
+          "title": {
+            "fr-FR": "Lettre MXI. Au Duc de Nemours, Henri de Savoie"
+          }
+        },
+        {
+          "id": "lettre-1012",
+          "title": {
+            "fr-FR": "Lettre MXII. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-1013",
+          "title": {
+            "fr-FR": "Lettre MXIII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-1014",
+          "title": {
+            "fr-FR": "Lettre MXIV. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1015",
+          "title": {
+            "fr-FR": "Lettre MXV. À Monseigneur Pierre Fenouillet, Évêque de Montpellier"
+          }
+        },
+        {
+          "id": "lettre-1016",
+          "title": {
+            "fr-FR": "Lettre MXVI. À Monseigneur Hildebrand Jost, Évêque Nommé de Sion"
+          }
+        },
+        {
+          "id": "lettre-1017",
+          "title": {
+            "fr-FR": "Lettre MXVII. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-1018",
+          "title": {
+            "fr-FR": "Lettre MXVIII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-1019",
+          "title": {
+            "fr-FR": "Lettre MXIX. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1020",
+          "title": {
+            "fr-FR": "Lettre MXX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1021",
+          "title": {
+            "fr-FR": "Lettre MXXI. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-1022",
+          "title": {
+            "fr-FR": "Lettre MXXII. Au Marquis Sigismond de Lans"
+          }
+        },
+        {
+          "id": "lettre-1023",
+          "title": {
+            "fr-FR": "Lettre MXXIII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1024",
+          "title": {
+            "fr-FR": "Lettre MXXIV. À Dom Placide Bailly, Bénédictin"
+          }
+        },
+        {
+          "id": "lettre-1025",
+          "title": {
+            "fr-FR": "Lettre MXXV. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1026",
+          "title": {
+            "fr-FR": "Lettre MXXVI. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1027",
+          "title": {
+            "fr-FR": "Lettre MXXVII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1028",
+          "title": {
+            "fr-FR": "Lettre MXXVIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1029",
+          "title": {
+            "fr-FR": "Lettre MXXIX. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-1030",
+          "title": {
+            "fr-FR": "Lettre MXXX. À M. Jean de la Ceppède"
+          }
+        },
+        {
+          "id": "lettre-1031",
+          "title": {
+            "fr-FR": "Lettre MXXXI. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1032",
+          "title": {
+            "fr-FR": "Lettre MXXXII. À M. Claude de Blonay"
+          }
+        },
+        {
+          "id": "lettre-1033",
+          "title": {
+            "fr-FR": "Lettre MXXXIII. À Madame Gasparde de Ballon Religieuse de l' Abbaye de Sainte-Catherine"
+          }
+        },
+        {
+          "id": "lettre-1034",
+          "title": {
+            "fr-FR": "Lettre MXXXIV. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-1035",
+          "title": {
+            "fr-FR": "Lettre MXXXV. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1036",
+          "title": {
+            "fr-FR": "Lettre MXXXVI. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1037",
+          "title": {
+            "fr-FR": "Lettre MXXXVII. Or Sus, ma Chere Fille, Puisque Dieu Est l'Unité de Nostre Cœur,"
+          }
+        },
+        {
+          "id": "lettre-1038",
+          "title": {
+            "fr-FR": "Lettre MXXXVIII. Ma Tres Chere Fille, la Providence Celeste Vous Assistera : Invoqués-La Avec Confiance en Toutes les Difficultés Desquelles Vous Vous Treuveres Environnee. a Mesure Que Vous Allés Outre, ma Tres Chere Mere, ma Fille, Vous Deves Prendre Courage et Vous Res-Jouir Dequoy Vous Contentes Nostre Seigneur, le Contentement Seul Duquel Contente Tout le Paradis"
+          }
+        },
+        {
+          "id": "lettre-1043",
+          "title": {
+            "fr-FR": "Lettre MXLIII. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-1044",
+          "title": {
+            "fr-FR": "Lettre MXLIV. À M. Claude de Quoex"
+          }
+        },
+        {
+          "id": "lettre-1045",
+          "title": {
+            "fr-FR": "Lettre MXLV. À la Mere de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1046",
+          "title": {
+            "fr-FR": "Lettre MXLVI. À M. Antoine des Hayes"
+          }
+        },
+        {
+          "id": "lettre-1047",
+          "title": {
+            "fr-FR": "Lettre MXLVII. Au Prince-Cardinal Maurice de Savoie ( L3, Note 451 )"
+          }
+        },
+        {
+          "id": "lettre-1048",
+          "title": {
+            "fr-FR": "Lettre MXLVIII. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-1049",
+          "title": {
+            "fr-FR": "Lettre MXLIX. À la Mère de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1050",
+          "title": {
+            "fr-FR": "Lettre ML. À la Même, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1051",
+          "title": {
+            "fr-FR": "Lettre MLI. Au Comte Prosper-Marc de Tournon"
+          }
+        },
+        {
+          "id": "lettre-1052",
+          "title": {
+            "fr-FR": "Lettre MLII. Au Duc de Nemours, Henri de Savoie"
+          }
+        },
+        {
+          "id": "lettre-1053",
+          "title": {
+            "fr-FR": "Lettre MLIII. À M. Guillaume de Bernard de Foras"
+          }
+        },
+        {
+          "id": "lettre-1054",
+          "title": {
+            "fr-FR": "Lettre MLIV. Au Même"
+          }
+        },
+        {
+          "id": "lettre-1055",
+          "title": {
+            "fr-FR": "Lettre MLV. À M. Jean de Chatillon ( L5, Note 108) )"
+          }
+        },
+        {
+          "id": "lettre-1056",
+          "title": {
+            "fr-FR": "Lettre MLVI. Au Prince Cardinal Maurice de Savoie"
+          }
+        },
+        {
+          "id": "lettre-1057",
+          "title": {
+            "fr-FR": "Lettre MLVII. À la Comtesse de Tournon"
+          }
+        },
+        {
+          "id": "lettre-1058",
+          "title": {
+            "fr-FR": "Lettre MLVIII. À la Mère de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1059",
+          "title": {
+            "fr-FR": "Lettre MLIX. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-1060",
+          "title": {
+            "fr-FR": "Lettre MLX. À la Mère de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1061",
+          "title": {
+            "fr-FR": "Lettre MLXI. À M. Bénigne Milletot"
+          }
+        },
+        {
+          "id": "lettre-1062",
+          "title": {
+            "fr-FR": "Lettre MLXII. À Madame de Cornillon, sa Soeur"
+          }
+        },
+        {
+          "id": "lettre-1063",
+          "title": {
+            "fr-FR": "Lettre MLXIII. À la Mere de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1064",
+          "title": {
+            "fr-FR": "Lettre MLXIV. À Monseigneur Pierre Fenouillet Eveque de Montpellier"
+          }
+        },
+        {
+          "id": "lettre-1065",
+          "title": {
+            "fr-FR": "Lettre MLXV. À la Mère de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1066",
+          "title": {
+            "fr-FR": "Lettre MLXVI. À la Même, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1067",
+          "title": {
+            "fr-FR": "Lettre MLXVII. À Madame de la Fléchère"
+          }
+        },
+        {
+          "id": "lettre-1068",
+          "title": {
+            "fr-FR": "Lettre MLXVIII. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1069",
+          "title": {
+            "fr-FR": "Lettre MLXIX. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-1070",
+          "title": {
+            "fr-FR": "Lettre MLXX. À M. Antoine des Hayes"
+          }
+        },
+        {
+          "id": "lettre-1071",
+          "title": {
+            "fr-FR": "Lettre MLXXI. À Dom Jean de Saint-Malachie Obry, Feuillant"
+          }
+        },
+        {
+          "id": "lettre-1072",
+          "title": {
+            "fr-FR": "Lettre MLXXII. À la Mère de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1073",
+          "title": {
+            "fr-FR": "Lettre MLXXIII. À la Même, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1074",
+          "title": {
+            "fr-FR": "Lettre MLXXIV. À la Même, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1075",
+          "title": {
+            "fr-FR": "Lettre MLXXV. À la Soeur Favre, Assistante de la Visitation de Lyon"
+          }
+        },
+        {
+          "id": "lettre-1076",
+          "title": {
+            "fr-FR": "Lettre MLXXVI. À la Mère de Chantal, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1077",
+          "title": {
+            "fr-FR": "Lettre MLXXVII. À la Même, a Lyon"
+          }
+        },
+        {
+          "id": "lettre-1078",
+          "title": {
+            "fr-FR": "Lettre MLXXVIII. À la Soeur de Bréchard Assistante de la Visitation d'Annecy"
+          }
+        },
+        {
+          "id": "lettre-1079",
+          "title": {
+            "fr-FR": "Lettre MLXXIX. À M. Balthazard de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-1080",
+          "title": {
+            "fr-FR": "Lettre MLXXX. À Madame de Peyzieu"
+          }
+        },
+        {
+          "id": "lettre-1081",
+          "title": {
+            "fr-FR": "Lettre MLXXXI. À la Soeur Favre, Assistante de la Visitation de Lyon"
+          }
+        },
+        {
+          "id": "lettre-1082",
+          "title": {
+            "fr-FR": "Lettre MLXXXII. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-1083",
+          "title": {
+            "fr-FR": "Lettre MLXXXIII. Au Cardinal Maffeo Barberini"
+          }
+        },
+        {
+          "id": "lettre-1084",
+          "title": {
+            "fr-FR": "Lettre MLXXXIV. À la Duchesse de Mantoue, Marguerite de Savoie"
+          }
+        },
+        {
+          "id": "lettre-1085",
+          "title": {
+            "fr-FR": "Lettre MLXXXV. À un Secrétaire du Duc de Savoie"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
