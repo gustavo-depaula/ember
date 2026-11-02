@@ -1,0 +1,87 @@
+{
+  "id": "benson-mystery-play-nativity",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Mystery Play in Honour of the Nativity of Our Lord",
+    "pt-BR": "Um Mistério em Honra da Natividade de Nosso Senhor"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's mystery play of 1908 for Christmas, in the manner of the medieval cycles, written for performance at Cambridge: a preface, five scenes of the Nativity, and appendices on the scenery, properties, costumes and method of acting.",
+    "pt-BR": "O mistério de Natal de Benson (1908), ao modo dos ciclos medievais, escrito para ser representado em Cambridge: um prefácio, cinco cenas da Natividade e apêndices sobre cenário, objetos, trajes e modo de representar."
+  },
+  "composed": 1908,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/mystery-play-nativity",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Longmans, Green, 1908)",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/61606",
+      "edition": "A Mystery Play in Honour of the Nativity of Our Lord (London: Longmans, Green, 1908), Project Gutenberg #61606, proofread.",
+      "description": " Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1908, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Scene I"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Scene Ii"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Scene Iii"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Scene Iv"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Scene V"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Appendices"
+      }
+    }
+  ]
+}
