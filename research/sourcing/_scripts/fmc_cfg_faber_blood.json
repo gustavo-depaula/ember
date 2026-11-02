@@ -1,0 +1,41 @@
+{
+ "id": "faber-precious-blood",
+ "dir": "faber-opera-omnia/precious-blood",
+ "slug": "precious-blood",
+ "work": "faber/precious-blood",
+ "name": "The Precious Blood, or the Price of Our Salvation",
+ "name_pt": "O Precios\u00edssimo Sangue, ou o Pre\u00e7o da Nossa Salva\u00e7\u00e3o",
+ "author": "Fr. Frederick William Faber",
+ "author_pt": "Pe. Frederick William Faber",
+ "died": 1863,
+ "desc": "Faber's treatise of 1860 on devotion to the Precious Blood, written for the Confraternity of the Precious Blood at the London Oratory: its mystery, its necessity, its empire, its history, its prodigality and the devotion to it.",
+ "desc_pt": "O tratado de Faber (1860) sobre a devo\u00e7\u00e3o ao Precios\u00edssimo Sangue, escrito para a Confraria do Precios\u00edssimo Sangue do Orat\u00f3rio de Londres: o seu mist\u00e9rio, a sua necessidade, o seu imp\u00e9rio, a sua hist\u00f3ria, a sua prodigalidade e a devo\u00e7\u00e3o a ele.",
+ "composed": 1860,
+ "editor": "Fr. Frederick William Faber (tenth American edition, Baltimore: John Murphy)",
+ "year": 1860,
+ "url": "https://archive.org/details/a5807812fabe00uoft",
+ "edition": "The Precious Blood, or the Price of our Salvation (Baltimore: John Murphy, tenth American edition, 1860), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The dedicatory letter to the members of the Confraternity is kept; the contents page and the index are dropped.",
+ "src": "faber/ia/a5807812fabe00uoft_djvu.txt",
+ "start": 783,
+ "end": 16914,
+ "levels": [
+  "CHAPTER"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "dedication",
+   "title": "To the Members of the Confraternity",
+   "from": 642,
+   "to": 772
+  }
+ ],
+ "back": [],
+ "label": {},
+ "romanheads": false,
+ "titles": {
+  "4": "The History of the Precious Blood",
+  "6": "The Devotion to the Precious Blood"
+ }
+}
