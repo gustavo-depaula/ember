@@ -1,0 +1,72 @@
+{
+  "id": "bridget-quattuor-orationes",
+  "cover": "classic",
+  "name": {
+    "la": "Quattuor oraciones",
+    "en-US": "The Four Prayers",
+    "pt-BR": "As Quatro Orações"
+  },
+  "author": {
+    "la": "Birgitta de Regno Swecie",
+    "en-US": "St. Bridget of Sweden",
+    "pt-BR": "Santa Brígida da Suécia"
+  },
+  "description": {
+    "la": "Quattuor oraciones a Deo Birgittae reuelatae: laudes Mariae, Christi, membrorum corporis Christi et Virginis.",
+    "en-US": "The Four Prayers revealed by God to Bridget: praises of the Virgin Mary, of Christ, of the members of Christ's body and of the Virgin's.",
+    "pt-BR": "As Quatro Orações reveladas por Deus a Brígida: louvores à Virgem Maria, a Cristo e aos membros do corpo de Cristo e da Virgem."
+  },
+  "composed": "c. 1350-1373",
+  "languages": [
+    "la"
+  ],
+  "work": "bridget-of-sweden/quattuor-orationes",
+  "editions": {
+    "la": {
+      "editor": "Sten Eklund (Svenska fornskriftsällskapet critical edition)",
+      "year": 1991
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.documentacatholicaomnia.eu/04z/z_1303-1373__Birgitta_de_Regno_Swecie__Revelaciones__LT.doc.html",
+      "edition": "Sancta Birgitta, Revelaciones / Opera minora, Samlingar utgivna av Svenska fornskriftsällskapet, Ser. 2, Latinska skrifter VII, ed. Sten Eklund (Stockholm, 1991).",
+      "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"XII\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
+      "tier": "B",
+      "tierEvidence": "Freely distributed online transcription of a medieval text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prohemium",
+      "title": {
+        "la": "Prohemium"
+      }
+    },
+    {
+      "id": "oracio-1",
+      "title": {
+        "la": "Oracio prima"
+      }
+    },
+    {
+      "id": "oracio-2",
+      "title": {
+        "la": "Oracio secunda"
+      }
+    },
+    {
+      "id": "oracio-3",
+      "title": {
+        "la": "Oracio tercia"
+      }
+    },
+    {
+      "id": "oracio-4",
+      "title": {
+        "la": "Oracio quarta"
+      }
+    }
+  ]
+}
