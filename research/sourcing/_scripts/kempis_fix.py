@@ -128,4 +128,5 @@ def tidy(p):
             continue
         out.append(re.sub(r'[\^@■•¢€§|{}~<>\\]', '', t))
     p = ' '.join(out)
+    p = re.sub(r'(?<=[A-Za-z.,;:?!]) (?:5|10|15|20|25|30|35|40|45)(?= [A-Za-z]|$)', '', p)
     return p[:1].upper() + p[1:]

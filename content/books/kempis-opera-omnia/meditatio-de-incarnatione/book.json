@@ -1,0 +1,83 @@
+{
+  "id": "kempis-meditatio-de-incarnatione",
+  "cover": "classic",
+  "name": {
+    "la": "Meditatio de incarnatione Christi",
+    "en-US": "A Meditation on the Incarnation of Christ",
+    "pt-BR": "Meditação sobre a Encarnação de Cristo"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Meditatio de incarnatione Christi secundum testimonia sanctarum scripturarum veteris et novi Testamenti, cum duabus orationibus. Textus ex editione Pohl (1904), cum versione Anglica V. Scully (1907).",
+    "en-US": "A meditation on the Incarnation drawn from the testimonies of the Old and New Testaments, followed by two prayers (a salutation of Our Lord Jesus Christ, and a prayer to Christ the true light, way, truth and life). The Latin is Pohl's critical edition (Freiburg 1904), from a raw OCR of the printed volume; the English is Vincent Scully's 1907 translation.",
+    "pt-BR": "Meditação sobre a Encarnação a partir dos testemunhos do Antigo e do Novo Testamento, seguida de duas orações: uma saudação a Nosso Senhor Jesus Cristo e uma oração a Cristo, luz verdadeira, caminho, verdade e vida."
+  },
+  "composed": "c. 1430-1450",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "thomas-a-kempis/meditatio-de-incarnatione",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1904
+    },
+    "en-US": {
+      "translator": "Vincent Scully",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0002thom",
+      "edition": "Thomae Hemerken a Kempis Meditatio de incarnatione Christi, ed. M. J. Pohl (Freiburg: Herder 1904), Opera omnia III, pp. 1-47; archive.org raw OCR.",
+      "description": "The Meditation in two chapters (Old and New Testament) and the two prayers. Line numbers, running heads and page breaks stripped by script; Pohl's critical apparatus not imported. Raw OCR: drop capitals garbled, slips remain after the scripted repair.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1904; Thomas died in 1471."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/meditationincarn00thomuoft",
+      "edition": "A Meditation on the Incarnation of Christ, tr. Vincent Scully (London: Kegan Paul 1907); archive.org OCR.",
+      "description": "Same four divisions as the Latin. Running heads and page numbers stripped by script; margin scripture references removed where they interrupt a sentence; the translator's introduction and footnotes not imported. Raw OCR.",
+      "tier": "A",
+      "tierEvidence": "Published 1907; translator Vincent Scully."
+    }
+  ],
+  "toc": [
+    {
+      "id": "testimonia-veteris",
+      "title": {
+        "la": "1. Testimonia Veteris Testamenti",
+        "en-US": "1. Testimonies from the Old Testament"
+      }
+    },
+    {
+      "id": "testimonia-novi",
+      "title": {
+        "la": "2. Testimonia Novi Testamenti",
+        "en-US": "2. Testimonies from the New Testament"
+      }
+    },
+    {
+      "id": "oratio-salutandi",
+      "title": {
+        "la": "3. Oratio ad salutandum Dominum nostrum Iesum Christum",
+        "en-US": "3. A Prayer to Greet Our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "oratio-lucis",
+      "title": {
+        "la": "4. Oratio ad Christum, qui est vera lux, via, veritas et vita",
+        "en-US": "4. A Prayer to Christ, Who Is the True Light, Way, Truth and Life"
+      }
+    }
+  ]
+}
