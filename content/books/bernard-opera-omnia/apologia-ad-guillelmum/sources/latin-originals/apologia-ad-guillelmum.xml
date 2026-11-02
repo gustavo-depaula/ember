@@ -1,0 +1,1542 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Apologia ad Guillelmum</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.ApAdGu</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<note>
+        <div1>
+          <head>ADMONITIO IN OPUSCULUM V.</head>
+ <emph>524</emph>
+<div3>
+            <head>1.</head>
+            <p>
+ <hi>Nihil est quod majorem Bernardo invidiam conflaverit, quam liber iste, editus in monachos Cluniacenses.
+Ea enim erat per id tempus ipsorum existimatio, ut orbis quasi censuram aggredi videretur, qui illos arguere
+tentaret; ea propagatio et multitudo, ut is agmen adversariorum in se concitaret. Et sunt etiam nunc
+nonnulli, qui Bernardi hac in parte zelum quasi nimium accusent: non satis attendentes, Doctorem sanctum
+a Deo ita comparatum et institutum fuisse, ut Ecclesiae maculas abstergeret, et monastici ordinis integritatem
+splendoremque restitueret, bellum indicendo vitiis, quae ejus puritatem suo tempore deformabant. Nunc ergo
+scire interest, quo titulo, quove anno Bernardus hoc opus ediderit: an quae in Cluniacensibus carpit, re ipsa
+vitia sint, an tolerabiles ritus: et siquidem vitia sunt, vera an supposita.</hi> </p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ <hi>Quod ad titulum pertinet, Epistolam vocat Bernardus in sequenti libro, n. 15:  « Jam vero Epistola, ut
+epistola remaneat, finienda erat, »  etc. At vero in fine libri Opusculum vocat, ubi de Ogerio, qui a Bernardo
+discedere nolebat  « absque recenti Opusculo. »  Gaufridus in libro tertio de Bernardi Vita, capite octavo,
+Apologeticum appellat:  « Si fervens contra suorum, vel aliorum vitia zelus, legatur is, quem Apologeticum
+vocat. »  Certe apologiae nomine ulitur Vir sanctus in epistola decima octava ubi scripta sua Petro cardinali
+recensens,  « Necnon et Apologiam, »  inquit,  « ad quemdam amicum nostrum, ubi aliqua disserui de Cluniacensibus
+et nostris id est Cisterciensibus observantiis. »  Vulgatum proinde Apologiae titulum retinebimus ab
+ipso etiam auctore consecratum.</hi> </p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ <hi>Ex eadem epistola decima octava, quae sub annum 1127 scripta est, conditae Apologiae tempus intelligitur.
+Et sane librum hunc unum ex primis Bernardi opusculis, et quidem tertium fuisse constat ex enumeratione
+Petro cardinali facta, in qua duo tantum ante Apologiam memorat, nempe librum de Humilitate, et Homilias
+in laudibus Virginis matris in</hi> Missus est, <hi>quibus apologiam continenter subjicit cum paucis epistolis.
+Itaque Apologia composita est sub annum 1125, id est sub initia regiminis Petri Venerabilis, qui Hugoni
+secundo succesit anno 1122, anno dimidio post Pontium, sub quo magnopere laxata fuerat Cluniacensis
+Ordinis disciplina regularis. Non mirum itaque, si Bernardus aliqua reprehensione digna notavit, eaque in
+scripta redegit rogatu Guillelmi Sancti-Theoderici abbatis, qui ex Ordine Cluniacensi censebatur. Nam cum
+Nigrorum monachorum coenobia fere omnia ritus Cluniacenses sectarentur: exorta semel Cisterciensium congregatione,
+quae alios mores habebat, ea Cluniacensis Ordinis (tametsi ei aggregata non erant) dicebantur, ut
+vel ex sequente Apologia patet, in qua Guillelmum alloquens. « Ordinem vestrum »  dicit nn. 1 et 30, et in
+eodem n. 30 monasterium Sancti Nicolai dioecesis Laudunensis eidem Ordini attribuit. Hanc ergo Apologiam
+<pb n="0895"/>
+Bernardus scribit rogatus a Guillelmo Cluniacensi homine; scribit, inquam, eo tempore, quo solutior erat
+Cluniacensium religio: sed ita libellum componit, ut primum, et quidem durius, arguat suos, id est Cistercienses,
+qui severioris vitae specie Cluniacensium institutis detrahebant, sicque sanctiores religionis leges violabant.
+Ut ergo alteros alteris conciliaret sanctissimus Doctor, quid in utrisque reprehendendum sibi videbatur
+in hoc libro sincere exponit; ratus,  « se non adversus Ordinem, sed pro Ordine disputare, si non Ordinem
+in hominibus, sed hominum vitia reprehenderet, »  ex n.</hi> 15. <emph>525</emph>
+</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ <hi>Neque dubitandum est ea vera esse quae in Cluniacensibus notavit Bernardus, quem de his accurate
+edoctum fuisse, atque adeo ab omni falsi criminis suspicione immunem esse nemo non concedere debet. Verum
+dictorum ejus veritatem probant Statuta Petri Venerabilis abbatis Cluniacensis, qui coacto apud Cluniacum
+capitulo generali, pleraque ejusmodi vitia emendare conatus est, ut manifeste probant ejus Statuta, quae suis
+locis in notulas referemus. De hoc capitulo agit ad annum 1132 Ordericus Vitalis, qui et ipse praesens interfuit:
+ita enim habet in libro decimo tertio, pag. 896:  « Petrus Cluniacensis abbas veredarios et epistolas per
+omnes Cellas suas tune direxit, et omnes Cellarum Priores de Anglia et Italia, regnisque aliis accersiit, jubens
+ut dominico Quadragesimae tertio Cluniaci adessent, ut praecepta monasticae conversationis austeriora, quam
+hactenus tenuerant, audirent. Illi nimirum archimandritae suis jussis obsecundaverunt, ac ad statutum terminum
+ducenti Priores Cluniacum convenerunt. In illa die mille ducenti et duodecim fratres ibi adfuerunt . . .
+Ille vero »  Petrus  « auxit jejunia, abstulit colloquia, et infirmi corporis quaedam subsidia, quae illis moderata
+patrum hactenus permiserat reverendorum clementia. Fratres autem assueti magistro semper obedire, contra
+religiosum morem nolentes ei resistere, aspera quidem imperia susceperunt: rationabiliter tamen ostenderunt,
+quod venerabilis Hugo, et illius antecessores Maiolus et Odilo, arctam vitae viam tenuerunt . . . . . Austerus autem
+praeceptor . . . . . Cistercienses, aliosque novorum sectatores aemulatus, rudibus ausis institit, et ab incoeptis
+desistere ad praesens erubuit. Postmodum tamen emollitus, subditorum arbitrio consensit,</hi> »  etc. <hi>Confer
+ejusdem Petri Venerabilis libri primi epistolam vigesimam octavam, et aliam quae inter Bernardinas relata
+est, ordine ducentesima vigesima nona.</hi> </p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ <hi>Ex his apparet, ea, quae in Cluniacensibus carpit Bernardus, vera esse: sed inter vitia non ab omnibus
+fuisse habita, imo quasi necessarium temperamentum infirmitatis humanae. Et quidem de quibusdam id videri
+possit, puta de ornatu ecclesiarum, aliarumque ejusmodi rerum, quae plausibiles rationes prae se ferunt: at
+pleraque inter monachos tantisper moderatos tolerabilia non esse vel ipsa lectio persuadet. Sed quid, inquis, de
+templorum magnificentia et cultu? annon Cistercienses, imo et Bernardus ipse amplissima et ornatissima
+condiderunt? Haec cum audio, in mentem venit primi illius Oratorii, a Bernardo apud Claram-Vallem exstructi.
+Bone Deus! quam exilis, quam vilis in speciem, sed quam sua vili ipsa specie venerandi! Aliud quidem inchoavit
+amplissimum, quod continendis monachis septingentis, aliisque personis sufficeret: sed omnis ornatus, praeter
+ipsam fabricae majestatem, expers. Et Cistercienses primitus  « sculpturas vel picturas »  in ecclesiis suis seu
+officinis monasterii penitus interdixerunt:  « quia dum talibus intenditur, utilitas bonae meditationis, vel
+disciplina religiosae gravitatis saepe negligitur. Cruces tamen pictas, »  sed quae  « ligneae »  essent, habebant.
+denique  « superfluitates et curiositates notabiles in sculpturis, aedificiis, pavimentis, et aliis similibus, quae
+deformant antiquam Ordinis honestatem, et paupertati non congruunt, »  rejecerunt etiam in capitulo anni
+1213, ex Instit. Cisterc. parte prima, cap.</hi> 20.</p>
+          </div3>
+<div3>
+            <head>6.</head>
+            <p>
+ <hi>Sed ut haec missa faciamus, magna certe ex sequenti libello consecuta est utilitas: cum non solum Cluniacenses,
+sed etiam alia, quae ab eorum societate disparata erant monasteria, ejus lectione ad meliorem
+frugem sese receperint, in primis Dionysianum Sugerio auctore; et tandem Cisterciensium exemplo convocari
+coeperint capitula generalia Nigrorum monachorum praeter Cluniacense, in quibus de emendandis monachorum
+vitiis actum est. Id enim Innocentio II pontifice fieri coeptum, et ab ipso approbatum fuisse constat ex litteris
+capituli generalis abbatum provinciae Remensis ad Adrianum III contra abbatem Latiniacensem, superius
+relatis, col.</hi> 813. <emph>526</emph>
+</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ <hi>Sed haec satis ad illustrandam Apologiam sequentem, quam in duas partes distinguere possumus:
+in quarum prima corripiuntur Cistercienses, quod Cluniacensium institutis detraherent; in secunda Cluniacensium
+superfluitates arguuntur. Ideo duas epistolas vocat codex Majoris-Monasterii, in quo ita inscriptio
+legitur:  « Incipit Apologeticum domni Bernardi abbatis contra Cisterciensium detractiones, ad Guillelmum
+abbatem, dividitque tractatum in duas epistolas. »  Praemittitur epistola octogesima quarta instar praefatiunculae,
+quo nomine eam Bernardus designat in epistola octogesima quinta et in epistola octogesima octava. Hoc
+opusculum Rotomagi primum una cum tractatu de Praecepto et Dispensatione, atque libris de Consideratione,
+absque designatione anni vulgatum est sub hoc titulo;  « Incipit libellus Bernardi abbatis de Concordantia
+statuum religiosorum, qui pro tempore suo erant. »  Sub eodem titulo idem liber aliquando laudatur a Willelmo
+monacho in libro Florum ex sancto Bernardo.</hi> 
+</p>
+          </div3>
+        </div1>
+      </note>
+
+<div1>
+        <head>PRAEFATIUNCULA</head>
+<p>Quod me hujusmodi operam dare jubes, per quod
+tollendum sit scandalum de regno Dei, libenter
+<pb n="0896"/>
+accipio: sed quomodo id velis fieri, necdum satis
+elucet mihi. Nam illam tuam dulcissimam epistolam
+dulciter legens, ac dulcius relegens (saepius quippe
+<pb n="0897A"/>
+repetita placebat) intellexi quidem te velle, ut illis
+qui de nobis tanquam detractoribus Cluniacensis
+Ordinis, conqueruntur, satisfaciam: quatenus videlicet
+sciatur non esse verum, quod male hucusque
+de nobis putarunt, vel putari voluerunt. At si post
+hanc satisfactionem rursus victus eorum ac vestitus
+superfluitatem, et caetera quae subjungis, quemadmodum
+injungis, carpere voluero; et mihi videbor
+contradicere, et quomodo sine scandalo facere
+queam, non video. Nisi forte, et Ordinem quidem
+laudabilem, et Ordinis reprehensores reprehensibiles
+dicam [ <hi>al.</hi> doceam], et nihilominus tamen ipsius
+superflua reprenendam. Si hoc modo vis, aut forte
+aliter magis expedire vides, manda apertius; et ut
+valeam quod vis, eo modo quo vis, ora instantius.
+<pb n="0897B"/>
+Scito tamen non modico me hujusmodi scriptitationibus
+<pb n="0898A"/>
+feriri detrimento: quia multum hinc mihi devotionis
+subtrahitur, dum studium orationis intermittitur,
+praesertim cum nec usus suppetat dictandi,
+nec otium.
+<emph>527</emph> </p>
+
+<div2>
+          <head>CAPUT I. <hi>Profitetur se suosque ab obtrectatione religiosi Ordinis prorsus alienos.</hi> </head>
+<p divs_removed="true">Venerabili patri GUILLELMO, frater BERNARDUS,
+fratrum qui in Clara-Valle sunt, inutilis servus, salutem
+in Domino.
+
+          </p>
+          <div3 moved_from_p="true">
+              <head>1.</head>
+            <p>
+ Usque modo si qua me scriptitare jussistis,
+aut invitus, aut nullatenus acquievi: non quia negligerem
+quod jubebar, sed ne praesumerem quod
+nesciebam. Nunc vero nova urgente causa, pristina
+fugatur verecundia, et vel perite vel imperite dolori
+<pb n="0898B"/>
+meo satisfacere cogor, fiduciam dante ipsa necessitate.
+<pb n="0899A"/>
+Quomodo namque silenter audire possum
+vestram hujuscemodi de nobis querimoniam, qua
+scilicet miserrimi hominum, in pannis et semicinctiis,
+de cavernis, ut ait ille <note>(Hebr. XI, 38)</note>, dicimur
+judicare mundum; quodque inter caetera intolerabilius
+est, etiam gloriosissimo Ordini vestro derogare,
+sanctis qui in eo laudabiliter vivunt, impudenter detrahere,
+et de umbra nostrae ignobilitatis, mundi
+luminaribus insultare? Itane sub vestimentis ovium,
+non quidem lupi rapaces, sed pulices mordaces,
+imo tineae demolientes; bonorum vitam, quia
+palam non audemus, in occulto corrodimus; nec
+saltem clamorem invectionis, sed susurrium detractionis
+emittimus? Si hoc ita est, utquid sine causa
+mortificamur tota die, aestimati sumus sicut oves
+<pb n="0899B"/>
+occisionis? <note>(Psal. XLIII, 22.)</note> Si ita, inquam, pharisaica
+jactantia caeteros homines, et (quod superbius
+est) nobis meliores despicimus, quid nobis prodest
+tanta in nostro victu parcitas et asperitas, in vestitu
+notabilis illa vilitas ac diversitas, in opere manuum
+quotidiana desudatio, in jejuniis et vigiliis jugis
+exercitatio, totius denique vitae nostrae singularis
+quaedam atque austerio conversatior? nisi forte
+omnia opera nostra facimus, ut videamur [ <hi>al.</hi> videantur]
+ab hominibus, Sed dicit Christus: <hi>Amen
+dico vobis, receperunt mercedem suam <note>(Matth. VI, 5)</note>
+              </hi>.
+Nonne si in hac vita tantum in Christo sperantes sumus,
+miserabiliores sumus omnibus hominibus? <note>(I Cor. XV, 19.)</note> 
+ An vero non in hac vita tantum in
+Christo speramus, si de Christi servitio temporalem
+<pb n="0899C"/>
+tantum gloriam quaerimus?</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Miser ergo homuncio qui tanto labore et industria
+studeo non esse, vel potius videri sicut caeteri
+hominum; minus tamen accepturus, imo gravius
+cruciandus, quam quilibet hominum. Siccine ergo
+non inveniebatur nobis via, ut ita dicam, utcunque
+tolerabilior ad infernum? Si ita necesse erat, ut illo
+descenderemus; cur saltem illam, qua multi incedunt,
+viam scilicet latam, quae ducit ad mortem, non
+elegimus, quatenus vel de gaudio, et non de luctu,
+ad luctum transiremus? O quam felicius est illis,
+quorum non est respectus morti eorum, et firmamentum
+in plaga eorum, qui in labore hominum
+non sunt, et cum hominibus non flagellantur! qui
+<pb n="0899D"/>
+etsi peccatores, ac pro gaudiis temporalibus, perpetuis
+cruciatibus addicti, saltem abundantes in saeculo
+obtinuerunt divitias <note>(Psal. LXXII, 4, 5, 12)</note>. Vae portantibus
+crucem, non sicut Salvator suam, sed sicut
+ille Cyrenaeus, alienam <note>(Matth. XXVII, 32)</note>. Vae Citharoedis
+citharizantibus, non ut illi de Apocalypsi,
+in citharis suis <note>(Apoc. XIV, 2)</note>, sed vere, ut hypocritae
+in alicnis. Vae semel, et vae iterum pauperibus
+superbis. Vae, inquam, semel, et vae iterum, portantibus
+crucem Christi, et non sequentibus Christum:
+qui nimirum cujus passionibus participant, humilitatem
+sectari negligunt.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Duplici quippe contritione conteruntur qui <emph>528</emph> 
+hujusmodi sunt, quando et hic pro temporali gloria temporaliter
+se affligunt, et in futuro pro interna superbia
+<pb n="0900A"/>
+ad aeterna supplicia pertrahuntur. Laborant cum Christo,
+sed cum Christo non regnant: sequuntur Christum
+in paupertate sua, sed in gloria non consequuntur: de
+torrente in via bibunt, sed non exaltabunt caput in
+patria: lugent nunc, sed tunc non consolabuntur. Et
+merito: quid enim facit superbia sub pannis humilitatis
+Jesu? nunquid non habet quo se palliet humana
+malitia, nisi unde involuta est infantia Salvatoris?
+Et quomodo intra praesepium Domini simulatrix
+arrogantia se coarctat, ac pro vagitibus innocentiae,
+malum inibi detractionis immurmurat? Annon
+illi superbissimi de Psalmo, quorum prodiit ex
+adipe iniquitas eorum, multo tutius operti sunt
+iniquitate et impietate sua <note>(Psal. LXXII, 6, 5)</note>, quam
+nos latemus sub sanctitate aliena? Quis enim magis
+<pb n="0900B"/>
+impius, an profitens impietatem, an mentiens
+sanctitatem? Nonne is qui etiam mendacium addens,
+geminat impietatem? Et quid dicam? Vereor ne
+forte et ego suspectus habear, non quidem vobis,
+pater, non vobis, cui utique notum me novi, quantum
+in hac caligine homo homini innotescero potest;
+et specialiter de hac re scio vos non ignorare quid
+sentiam. Sed propter illos, qui me nec ita ut vos
+cognoverunt, nec sicut vobis hinc loqui soleo, loquentem
+audierunt, scribo vobis (quod et frequenter
+audistis), ut quoniam ego per singulos ire, et singulis
+satisfacere nequeo, ex me habeatis, unde quod
+de me certissime scitis; eis pro me verissime persuadeatis.
+Neque enim timec omnium oculis scribere,
+quidquid de hac re vobis in aure locutus
+<pb n="0900C"/>
+sum.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II. <hi>Purgat se S. Bernardus, et Ordinem Cluniacensium commendat</hi> </head>
+<div3>
+            <head>4.</head>
+            <p>
+ Quis unquam me adversus Ordinem illum vel
+coram audivit disputantem, vel clam susurrantem?
+Quem unquam de Ordine illo nisi cum gaudio vidi,
+nisi cum honore suscepi, nisi cum reverentia allocutus,
+nisi cum humilitate adhortatus sum? Dixi, et
+dico: Modus quidem vitae est sanctus, honestus,
+castitate decorus, discretione praecipuus, a patribus
+institutus, a Spiritu sancto praeordinatus, animabus
+<pb n="0900D"/>
+salvandis non mediocriter idoneus. Egone vel damno,
+vel despicio, quem sic praedico? Memini me
+aliquando in aliquibus ejusdem Ordinis monasteriis
+hospitio susceptum fuisse: reddat Dominus servis
+suis humanitatem, quam infirmanti mihi ultra etiam
+quam necesse fuit, exhibuerunt; et honorem, quo
+me plus quoque quam dignus fui, dignati sunt.
+Ipsorum me commmendavi orationibus, interfui
+collationibus: saepe et de Scripturis, et salute animarum
+habui sermonem cum multis, et publice in
+capitulis, et privatim in cameris. Quem unquam
+vel clam, vel palam aut ab illo Ordine dissuadere,
+aut ad nostrum ut veniret persuadere tentavi? An
+non potius multos cupientes venire repressi, venientes
+et pulsantes repuli? Annon fratrem Nicolaum
+<pb n="0901A"/>
+ad Sanctum-Nicolaum, et vobis duos de vestris,
+vobis teste, remisi? Sed et duobus quibusdam ejusdem
+Ordinis abbatibus, quorum ne nomina
+prodam, ipsi eos optime nostis, et nihilominus
+quam amica mihi familiaritate jungantur, scitis:
+numquid non tamen ad alium Ordinem (quod et vos
+non latuit) migrare desiderantibus, jamjamque deliberantibus,
+nostrum eis dissuasorium consilium obviavit,
+ac ne suas desererent cathedras effecit?
+Cur igitur Ordinem damnare putor, vel dicor, cui
+amices meos deservire suadeo, cui suos ad nos
+venientes monachos reddo, de quo et mihi orationes
+tam sollicite requiro, tam devote suscipio.
+<emph>529</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Varietatem religiosorum Ordinum nondeoere prae judicare vinculo charitatis.</hi> </head>
+<div3>
+            <head>5.</head>
+            <p>
+ An forte quia juxta alium Ordinem conversari
+<pb n="0901B"/>videor, propterea suspectus hinc habeor? Sed eadem
+ratione et vos nostro derogatis, quicunque aliter
+vivitis. Ergo et continentes, et conjuges invicem se
+damnare putentur, quod suis quique legibus in
+Ecclesia conversentur. Monachi quoque ac regulares
+clerici sibi invicem derogare dicantur, quia propriis
+ab invicem observantiis separantur. Sed et Noe, et
+Danielem, et Job in uno se regno pati non posse
+suspicemur, ad quod utique non eos uno tramite
+justitiae cognovimus pervenisse. Mariam denique et
+Martham necesse sit aut utramque, aut alteram Salvatori
+<pb n="0901C"/>
+displicere, cui nimirum tam dissimili studio
+devotionis contendunt ambae placere. Et hac ratione
+in tota Ecclesia (quae utique tam pluribus, tamque
+dissimilibus variatur ordinibus, utpote regina quae
+in Psalmo legitur <hi>circumamicta varietatibus <note>Psal.
+XLIV, 10</note>
+            </hi>), nulla pax, nulla prorsus concordia esse
+putabitur. Quae etenim secura quies, quis tutus in ea
+status invenietur, si unus quilibet homo unum quemlibet
+Ordinem eligens, alios aliter viventes aut ipse
+aspernetur, aut se ab ipsis sperni suspicetur, praesertim
+cum tenere impossibile sit vel unum hominem
+omnes Ordines, vel unum Ordinem omnes homines?
+Non sum tam hebes, ut non agnoscam tunicam
+Joseph, non illius qui liberavit Aegyptum, sed
+qui salvavit mundum, et hoc non a fame corporis,
+<pb n="0901D"/>
+sed a morte simul animae et corporis. Notissima
+quippe est, quia polymita, id est pulcherrima varietate
+distincta; sed et sanguine apparet intincta, non
+quidem haedi, qui peccatum significat, sed agui, qui
+designat innocentiam, hoc est suo ipsius, non alieno.
+Ipse est profecto Agnus mansuetissimus, qui coram
+non quidem tondente, sed occidente se obmutuit;
+qui peccatum non fecit, sed abstulit peccata mundi.
+Miserunt autem qui dicerent ad Jacob. <hi>Hanc invenimus;
+vide utrum tunica filii tui sit, an non <note>(Gen.
+XXXVII, 32)</note>
+            </hi>. Vide et tu, Domine, utrum haec sit tunica
+<pb n="0902A"/>
+dilecti Filii tui. Recognosce, omnipotens Pater, eam
+quam fecisti Christo filio tuo polymitam, dando quidem
+quosdam apostolos, quosdam autem prophetas,
+alios vero evangelistas, alios pastores et doctores, et
+caetera quae in ejus ornatu mirifico decenter apposuisti,
+ad consummationem utique sanctorum,
+occurrentium in virum perfectum, in mensuram
+aetatis plenitudinis Christi <note>(Ephes. IV, 11 13)</note>. Dignare
+etiam, Deus, pretiosissimi purpuram sanguinis
+quo aspersa est, recognoscere, et in purpura praeclarum
+insigne ac gloriosissimum indicium obedientiae. <hi>Quare ergo,</hi> 
+ inquit, <hi>rubrum est vestimentum
+tuum? Torculur,</hi> ait, <hi>calcavi solus, et de gentibus non
+est vir mecum <note>(Isa. LXIII, 2, 3)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>6.</head>
+            <p>
+ Itaque quandoquidem factus est obediens Patri
+<pb n="0902B"/>
+usque ad torcular crucis, quod utique solus calcavit:
+solum quippe brachium suum auxiliatum est ei,
+juxta illud in alio loco, <hi>Singulariter sum ego, donec
+transeam <note>(Psal. CXL, 10)</note>
+            </hi>. Jam ergo exalta eum, Deus,
+et da ei nomen quod est super omne nomen, ut in
+nomine Jesu omne genu flectatur coelestium, terrestrium
+et infernorum <note>(Philipp. II, 9, 10)</note>. Ascendat
+in altum, captivam ducat captivitatem, donet dona
+hominibus <note>(Ephes. IV, 8)</note>. Quae dona? Relinquat
+videlicet sponsae suae Ecclesiae pignus haereditatis,
+ipsam tunicam suam: tunicam scilicet polymitam,
+eamdemque inconsutilem, et desuper contextam per
+totum; sed polymitam ob multorum Ordinum, qui in
+ea sunt, multimodam distinctionem: inconsutilem
+<pb n="0902C"/>
+vero propter indissolubilis charitatis individuam
+unitatem. <hi>Quis me,</hi> inquit, <hi>separabit a charitate Christi? <note>(Rom. VIII, 35.)</note>
+            </hi> 
+ Audi quomodo polymitam: <hi>Divisiones,</hi> 
+ait, <hi>gratiarum sunt, idem autem Spiritus; et
+divisiones operationum sunt, idem vero Dominus.</hi> 
+Deinde diversis enomeratis charismatibus, tanquam
+variis tunicae coloribus, quibus constet eam esse
+polymitam, ut ostendat etiam esse inconsutilem, et
+desuper contextam per totum, adjungit: <hi>Haec autem
+operatur</hi> <emph>530</emph> <hi>unus atque idem Spiritus, dividens
+singulis prout vult <note>(I Cor. XII, 4, 5)</note>
+            </hi>. Charitas quippe
+diffusa est in cordibus nostris per Spiritum sanctum
+qui datus est nobis <note>(Rom. V, 5)</note>. Non ergo dividatur,
+sed totam et integram haereditario jure sortiatur
+Ecclesia, quia et de illa scriptum est: <hi>Astitit regina
+<pb n="0902D"/>
+a dextris tuis in vestitu deaurato, circumdata varietate <note>(Psal. XLIV, 10)</note>
+            </hi>.
+Itaque diversi diversa accipientes
+dona, alius quidem sic, alius vero sic; sive
+Cluniacenses, sive Cistercienses, sive clerici regulares,
+sive etiam laici fideles, omnis denique Ordo,
+omnis lingua, omnis sexus, omnis aetas, omnis conditio,
+in omni loco, per omne tempus, a primo homine
+usque ad novissimum. Nam et propter hoc
+talaris dicta est, quod ad finem usque pertingat,
+dicente propheta, <hi>Non est qui se abscondat a calore
+ejus <note>(Psal. XVIII, 7)</note>
+            </hi>: nimirum congruens ei cui et
+<pb n="0903A"/>
+facta est, qui, perhibente videlicet alia Scriptura,
+et ipse <hi>attingit a fine usque ad finem fortiter, et disponit
+omnia suaviter <note>(Sap. VIII, 1)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Se caeteros omnes Ordines charitate, unum professione tenere.</hi> </head>
+<div3>
+            <head>7.</head>
+            <p>
+ Omnes ergo concurramus pariter in unam tunicam,
+et ex omnibus constet una. Ex omnibus, inquam,
+una. Nam etsi ex pluribus et diversis, <hi>una
+est</hi> tamen <hi>columba mea, formosa mea, perfecta mea <note>(Cantic. VI, 8)</note>
+            </hi>.
+Alioquin nec ego solus, nec tu sine
+me, nec ille sine utroque: sed simul omnes sumus
+illa una, si tamen solliciti sumus servare unitatem
+spiritus in vinculo pacis. Non, inquam, tantum Ordo
+<pb n="0903B"/>
+noster, aut solus vester, ad illam pertinet unam, sed
+noster simul et vester: nisi forte (quod absit!) invicem
+invidentes, invicem provocantes, invicem mordeamus,
+et ab invicem consumamur <note>(Galat. V, 15)</note>;
+et sic non possit nos Apostolus uni illi viro, cui
+despondit, virginem castam exhibere Christo <note>(II Cor.
+XI, 2)</note>. Verumtamen illa una dicit in Canticis, <hi>Ordinavit
+in me charitatem <note>(Cantic. II, 4)</note>
+            </hi>: ut etsi una in
+charitate, divisa tamen sit ordinatione. Quid ergo?
+Cisterciensis sum: damno igitur Cluniacenses? Absit!
+sed diligo, sed praedico, sed magnifico. Cur ergo,
+inquis, Ordinem illum non tenes, si sic laudas?
+Audi. Propter hoc quod Apostolus ait: <hi>Unusquisque
+in ea vocatione, in qua vocatus est, permaneat <note>(I Cor.
+VII, 20)</note>
+            </hi>. Quod si quaeris, cur et a principio non elegerim,
+si talem sciebam? respondeo: Propter id quod
+<pb n="0903C"/>
+rursus ait Apostolus: <hi>Omnia mihi licent, sed non
+omnia expediunt <note>(I Cor. X, 22)</note>
+            </hi>. Non quod scilicet Ordo
+sanctus et justus non sit: sed quia ego carnalis
+eram, venumdatus sub peccato <note>(Rom. VII, 14)</note>; et
+talem animae meae languorem sentiebam, cui fortior
+esset potio necessaria. Et diversis morbis diversa
+conveniunt medicamenta, et fortioribus fortiora. Fac
+duos homines febribus anxiari, quartanis unum,
+alterum tertianis. Commendet autem qui quartanis
+laborat, tertiano aquam, pyra, et frigida quaeque
+sumenda: cum tamen ab his ipse abstineat, vinumque
+et caetera calida, utpote sibi congruentia, sumat.
+Quis, rogo, hinc eum recte reprehendat? Si
+diceret ille, Cur tu aquam non bibis, quam ita laudas?
+<pb n="0903D"/>
+annon recte responderet: Et tibi eam fideliter
+tribuo, et mihi salubriter subtraho?</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Denique requiratur [ <hi>al.</hi> requiris] a me etiam,
+cur cum omnes Ordines laudem, omnes non teneo!
+Laudo enim omnes et diligo, ubicunque pie et juste
+vivitur in Ecclesia. Unum opere teneo, caeteros charitate.
+Faciet autem charitas (fidenter loquor) ut ne
+illorum quidem fructu frauder, quorum instituta non
+sequor. Plus aliquid dicam. Tu tibi caute age. Potest
+namque fieri quia frustra tu laboraveris: ut
+autem ego frustra diligam bonum quod operaris,
+fieri omnino non potest. O quanta fiducia charitatis!
+Alius operatur non amans, et alius amat nihil operans.
+Ille quidem suum opus perdit, illius vero
+charitas nunquam excidit. Et quid mirum, si in
+<pb n="0904A"/>
+hoc exsilio, peregrinante adhuc Ecclesia, quaedam
+hujuscemodi sit pluralis, ut ita dixerim,
+unitas, unaque pluralitas: cum in illa quoque
+patria, quando jam ipsa regnabit, nihilominus forte
+talis aliqua dispar quodammodo aequalitas futura
+sit? Inde etenim scriptum est: <hi>In domo Patris mei
+mansiones</hi> <emph>531</emph> <hi>multae sunt <note>(Joan. XIV, 2)</note>
+            </hi>. Sicut itaque
+illic multae mansiones in una domo; ita hic
+multi ordines sunt in Ecclesia una: et quomodo hic <hi>divisiones gratiarum sunt, idem autem Spiritus 
+ <note>(I Cor.
+XII, 4)</note>
+            </hi>; ita ibi distinctiones quidem gloriarum, sed
+una domus. Porro unitas tam hic quam ibi, consistit
+in una charitate; diversitas autem hic quidem in ordinum
+vel operationum multifaria divisione: illic
+vero in quadam meritorum notissima, sed et ordinatissima
+<pb n="0904B"/>
+distinctione. Intelligens denique Ecclesia
+hanc suam quodammodo discordem concordiam,
+concordemve discordiam: <hi>Deduxit me,</hi> inquit, <hi>super semitas justitiae propter nomen suum. 
+ <note>(Psal.
+XXII, 3)</note>
+            </hi>. Ponens quippe <hi>semitas</hi> pluraliter, et <hi>justitiae</hi> 
+ singulariter; nec diversitatem praetermisit
+operationum, nec unitatem operantium. Praevidens
+quoque et illam in coelestibus discretam unitatem
+futuram, devotissime laeta decantat: <hi>Plateae tuae,
+Jerusalem, sternentur auro mundo, et per omnes vicos
+tuos Alleluia cantabitur <note>(Tob. XIII, 22)</note>
+            </hi>. Audiens enim
+plateas et vicos, coronas et glorias diversas intellige.
+In auro, quo uno metallo illa civitas ornata
+describitur. et in uno Alleluia, quod cantandum
+<pb n="0904C"/>
+perhibetur, dissimilium specierum similem pulchritudinem,
+et multarum mentium unam devotionem
+attende.</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ Non igitur una tantum semita inceditur, quia
+nec una est mansio quo tenditur. Viderit autem
+quisque quacumque incedat, ne pro diversitate semitarum
+ab una justitia recedat: quoniam ad quamlibet
+mansionem sua quisque semita pervenerit, ab
+una domo Patris exsors non erit. Verumtamen <hi>ut
+stella ab stella differt in claritate; sic erit, ait, et resurrectio
+mortuorum <note>(I Cor. XV, 41, 42)</note>
+            </hi>. Nam etsi
+fulgebunt justi sicut sol in regno Patris eorum: alii
+tamen aliis amplius, pro diversitate meritorum. Quae
+sane merita sciendum non sic in hoc saeculo, ut in
+illo, facile ab homine posse discerni: quippe cum
+<pb n="0904D"/>
+hic tantum opera videantur, illic etiam corda nihil
+impediat intueri. Siquidem radiante ubique Sole
+justitiae, tunc manifesta erunt abscondita cordium <note>(I Cor. IV, 5)</note>;
+et sicut non est nunc qui se abscondat
+a calore ejus <note>(Psal. XVIII, 7)</note>, ita tunc non erit qui
+se occultet a splendore ipsius. Et de operibus quidem
+saepe incerta, et ob hoc periculosa sententia
+fertur, cum multoties minus justitiae habeant, qui
+magis operantur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>Religiosos aliorum Ordinum aemulos et obtrectatores acri stylo aggreditur.</hi> </head>
+<div3>
+            <head>10.</head>
+            <p>
+ Unde nunc mihi conveniendi sunt quidam de
+Ordine nostro, qui contra illam sententiam, <hi>Nolite
+ante tempus judicare, quoadusque veniat Dominus,
+<pb n="0905A"/>
+qui et illuminabit abscondita tenebrarum, et manifestabit
+consilia cordium <note>(I Cor. IV, 5)</note>
+            </hi>; aliis Ordinibus
+derogare dicuntur, et suam justitiam solam volentes
+constituere, justitiae Dei non sunt subjecti:
+quos profecto (si qui tamen hujuscemodi sunt) nec
+nostri, nec cujuspiam esse Ordinis verius dixerim;
+quippe qui etsi ordinate viventes, superbe tamen loquentes,
+cives se faciunt Babylonis, id est confusionis;
+imo filios tenebrarum, ipsiusque gehennae, ubi
+nullus ordo, sed sempiternus horror inhabitat <note>(Job.
+X, 22)</note>. Vobis ergo, inquam, fratres, qui etiam post
+auditam illam Domini de Pharisaeo et Publicano parabolam,
+de vestra justitia [ <hi>al.</hi> de vestro instituto]
+praesumentes, caeteros aspernamini, dicitis (ut dicitur)
+solos vos hominum esse justos, aut omnibus
+<pb n="0905B"/>
+sanctiores; solos vos monachorum regulariter vivere,
+caeteros vero Regulae potius existere transgressores.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Primo quid ad vos de alienis servis? Suo domino
+stant, aut cadunt. Quis vos constituit judices
+super eos? Deinde si ita, ut dicitur, de Ordine vestro
+praesumitis; qualis ordo est, ut antequam de
+suo quisque trabem ejiciat, in fratrum oculis tam
+curiose festucas perquirat? Qui in Regula gloriamini,
+cur contra Regulam detrahitis? cur contra
+Evangelium, ante tempus, <emph>532</emph> et contra Apostolum,
+alienos servos judicatis? <note>(Rom. XIV, 4.)</note> An Regula
+non concordat Evangelio vel Apostolo? alioquin
+Regula jam non est regula, quia non recta.
+Audite, et discite ordinem, qui contra ordinem aliis
+<pb n="0905C"/>
+Ordinibus derogatis. <hi>Hypocrita,</hi> inquit, <hi>ejice primum
+trabem de oculo tuo, et sic videbis ejicere festucam de
+oculo fratris tui <note>(Matth. VII, 3-5)</note>
+            </hi>. Quaeris quam trabem?
+annon grandis et grossa trabes est superbia,
+qua te putans esse aliquid, cum nihil sis, insanissime
+tibi tanquam sanus exsultas, et aliis vanissime,
+trabem portans, de festucis insultas? <hi>Gratias,</hi> inquis, <hi>ego tibi, Deus, quia non sum sicut caeteri hominum,
+injusti, raptores, adulteri 
+ <note>(Luc. XVIII, 21)</note>
+            </hi>: sequere
+ergo, et dic, Detractores. Neque enim minima est
+haec festuca inter caeteras. Quare cum tam diligenter
+alias enumeres, istam taces? Si pro nulla vel
+minima habes, audi Apostolum: <hi>Neque maledici,</hi> ait, <hi>regnum Dei possidebunt 
+ <note>(I Cor. VI, 10)</note>
+            </hi>. Audi et Deum
+<pb n="0905D"/>
+in Psalmo comminantem: <hi>Arguam te,</hi> inquit, <hi>et statuam
+contra faciem tuam <note>(Psal. XLIX, 21)</note>
+            </hi>. Quod quia
+detractori loquatur, certum est ex praecedentibus.
+Et quidem juste ad se retorquendus, et se compellendus
+est intueri, qui avertens faciem suam a se,
+aliena potius mala, quam sua solet curiosius perscrutari.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Arguit temere judicantes, et calumniantes modum vivendi Cluniacensium.</hi> </head>
+<div3>
+            <head>12.</head>
+            <p>
+ At, inquiunt, quomodo Regulam tenent, qui
+pelliciis induuntur; sani carnibus, seu carnium pinguedine
+<pb n="0906A"/>
+vescuntur; tria vel quatuor pulmentaria
+una die quod Regula prohibet <note>(Reg. S. Benedicti, cap. 39)</note> admittunt; opus manuum, quod jubet <note>(Ibid., cap. 48)</note>,
+non faciunt: multa denique pro libitu
+suo vel mutant, vel augent, vel minuunt? Recte.
+Non possunt haec negari. Sed attendite in regulam
+Dei, cui utique non dissonat institutio sancti Benedicti. <hi>Regnum Dei,</hi> 
+ inquit, <hi>intra vos est <note>(Luc. XVII, 21)</note>
+            </hi>,
+hoc est, non exterius in vestimentis aut alimentis
+corporis, sed in virtutibus interioris hominis. Unde
+Apostolus, <hi>Regnum Dei non est esca et potus, sed justitia,
+et pax, et gaudium in Spiritu sancto <note>(Rom. XIV,
+17)</note>
+            </hi>: et rursus, <hi>Regnum Dei non est in sermone, sed
+in virtute <note>(I Cor. IV, 20)</note>
+            </hi>. De corporalibus itaque observantiis
+fratribus calumniam struitis; et quae majora
+<pb n="0906B"/>
+sunt regulae, spiritualia scilicet instituta, relinquitis,
+camelumque glutientes, culicem liquatis?
+Magna abusio! Maxima cura est, ut corpus regulariter
+induatur, et contra regulam suis vestibus anima
+nuda deseritur. Cum tanto studio et tunica, et cuculla
+corpori procurentur, quatenus cui deerunt,
+monachus non putetur: cur similiter spiritui pietas
+et humilitas, quae profecto spiritualia indumenta
+sunt, non providentur? Tunicati et elati abhorremus
+pellicias! tanquam non melior sit pellibus involuta
+humilitas, quam tunicata superbia: praesertim cum
+et Deus tunicas pelliceas primis hominibus fecerit <note>(Gen. III, 21)</note>;
+et Joannes in eremo zona pellicea
+lumbos accinxerit <note>(Matth. III, 4)</note>; et ipse tunicarum
+institutor in solitudine, non tunicis, sed pellibus sese
+<pb n="0906C"/>
+induerit. Repleti deinde ventrem faba, mentem superbia,
+cibis damnamus saginatos! quasi non melius
+sit exiguo sagimine ad usum vesci, quam ventoso
+legumine usque ad ructum exsaturari: praecipue cum
+et Esau non de carne, sed de lente sit reprehensus <note>(Hebr. XII, 16)</note>;
+et de ligno Adam, non de carne
+damnatus <note>(Gen. III, 17)</note>; et Jonathas ex gustu mellis,
+non carnis, morti adjudicatus <note>(I Reg. XIV, 29)</note>:
+econtra vero Elias innoxie carnem comederit <note>(III Reg. XVII, 6)</note>;
+Abraham gratissime carnibus
+Angelos paverit <note>(Gen. XVIII, 7)</note>, et de ipsis sua fieri
+sacrificia Deus praeceperit <note>(Exod. XXIX, 1)</note>. Sed et
+satius est modico vino uti propter infirmitatem,
+quam multa aqua ingurgitari per aviditatem: quia
+<pb n="0906D"/>
+et Paulus Timotheo modico utendum vino consuluit <note>(I Tim. V, 23)</note>;
+et Dominus ipse bibit, ita ut vini potator
+appellatus sit <note>(Matth. XI, 19)</note>; Apostolis quoque
+bibendum dedit; insuper et ex eo Sacramenta
+sui sanguinis condidit <note>(Id. XXVI, 27)</note>: cum econtrario
+aquam ad nuptias bibi non passus sit <note>(Joan. II,
+3-9)</note>, et ad aquas contradictionis <emph>533</emph> populi murmur
+terribiliter castigaverit <note>(Num. XX)</note>; David quoque
+aquam, quam desideraverat, potare timuerit <note>(II Reg. XXIII, 16)</note>;
+virique illi Gedeonis, qui prae
+aviditate toto corpore prostrato de flumine biberunt,
+digni ad praelium ire non fuerint <note>(Judic. VII, 5-7)</note>,
+<pb n="0907A"/>
+Jam vero de labore manuum quid gloriamini, cum
+et Martha laborans increpata, et Maria quiescens
+laudata sit <note>(Luc. X, 41, 42)</note>; et Paulus aperte dicat: <hi>Labor corporis ad modicum valet, pietas autem ad
+omnia? 
+ <note>(I Tim. IV, 8.)</note>
+            </hi> Optimus labor, de quo propheta
+dicebat: <hi>Laboravi in gemitu meo <note>(Psal. VI, 7)</note>
+            </hi>:
+et de quo alibi, <hi>Memor fui Dei, et delectatus sum, et
+exercitatus sum.</hi> Ac ne corporale intelligas exercitium, <hi>Et defecit,</hi> 
+ inquit, <hi>spiritus meus <note>(Psal. LXXVI, 4)</note>
+            </hi>.
+Ubi autem non corpus, sed spiritus fatigatur, spiritualis
+procul dubio labor intelligitur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Spiritualis exercitatio fructuosior corporali.</hi> </head>
+<div3>
+            <head>13.</head>
+            <p>
+ Quid ergo, inquis? Siccine illa spiritualia persuades,
+ut etiam haec, quae ex Regula habemus, corporalia
+<pb n="0907B"/>
+damnes? Nequaquam: sed illa oportet agere,
+et ista non omittere. Alioquin cum aut ista omitti
+necesse est, aut illa; ista potius omittenda sunt,
+quam illa. Quanto enim spiritus corpore melior est,
+tanto spiritualis quam corporalis exercitatio fructuosior.
+Tu ergo cum de horum observatione elatus,
+aliis eadem non observantibus derogas, nonne te
+magis transgressorem Regulae indicas, cujus licet
+minima quaedam tenens, meliora devitas, de quibus
+Paulus: <hi>Aemulamini,</hi> ait, <hi>charismata meliora? <note>(I Cor.
+XII, 31.)</note>
+            </hi> Detrahendo quippe fratribus, in quo temetipsum
+extollis, perdis humilitatem; in quo alios deprimis,
+charitatem: quae sunt procul dubio charismata
+meliora. Tu tuum corpus multis et nimiis laboribus
+<pb n="0907C"/>
+atteris, ac regularibus asperitatibus mortificas
+membra tua quae sunt super terram. Bene facis.
+Sed quid si ille quem similiter non laborantem dijudicas,
+modicum quidem habeat de hac, quae ad modicum
+est utilis, corporali videlicet exercitatione;
+amplius autem quam tu de illa, quae ad omnia valet,
+id est pietate? Quis, quaeso, vestrum Regulam melius
+tenet? Annon melius qui melior? Quis vero melior,
+humilior an fatigatior? Annon is qui a Domino didicit
+mitis esse et humilis corde <note>(Matth. XI, 29)</note>, qui
+et cum Maria optimam partem elegit, quae non auferetur
+ab eo? <note>(Luc. X, 42.)</note> </p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Quod si Regulam ab omnibus qui eam professi
+sunt, sic ad litteram tenendam censes, ut nullam
+omnino dispensationem admitti patiaris, audacter
+<pb n="0907D"/>
+dico, nec tu eam, nec ille tenetis. Nam etsi ille
+quantum quidem pertinet ad observationes corporeas,
+in pluribus offendit, impossible est tamen te
+quoque vel in uno non transgredi. Scis autem quia
+in uno offendit, omnium est reus. Sin vero concedas
+aliqua posse mutari dispensatorie, procul dubio
+et tu illam tenes, et ille, quanquam dissimiliter:
+nam tu quidem districtius, at ille fortasse discretius.
+Neque hoc dico, quia haec exteriora negligenda sint;
+aut qui se in illis non exercuerit, mox ideo spiritualis
+efficiatur: cum potius spiritualia (quanquam
+meliora) nisi per ista, aut vix, aut nullatenus
+vel acquirantur, vel obtineantur, sicut scriptum
+est, <hi>Non prius quod spirituale, sed quod
+animale; deinde quod spirituale <note>(I Cor. XV, 46)</note>
+            </hi>.
+<pb n="0908A"/>
+Sicut nec Jacob, nisi prius cognita Lia, desideratos
+Rachelis amplexus meruit obtinere. Unde rursus in
+psalmo, <hi>Sumite psalmum, et date tympanum <note>(Psal.
+LXXX, 3)</note>
+            </hi>: quod est dicere, Sumite spiritualia, sed
+prius date corporalia. Optimus autem ille, qui discrete
+et congrue et haec operatur, et illa.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Jam vero epistola, ut epistola remaneat, finienda
+erat, quandoquidem et nostros (de quibus,
+pater, conquestus estis, quod Ordini vestro detraherent)
+satis, quantum potui, stylo corripui; et me
+quoque ab hujusmodi falsa suspicione purgavi, ut debui.
+Sed quoniam dum nostris minime parco, nonnullis
+de vestris nimium, in quibus non decet, videor
+assentire; pauca quae et vobis displicere cognovi,
+et omnibus bonis vitanda esse non dubito, necessarium
+<pb n="0908B"/>
+reor subjungere: <emph>534</emph> quae quidem etsi fieri
+videntur in Ordine, absit tamen ut sint de Ordine!
+Nullus quippe ordo quidpiam recipit inordinatum:
+quod vero inordinatum est, ordo non est. Unde non
+adversum Ordinem, sed pro Ordine disputare putandus
+ero, si non Ordinem in hominibus, sed hominum
+vitia reprehendo. Et quidem diligentibus Ordinem in
+hac re molestum me fore non timeo: quinimo gratum
+procul dubio accepturi sunt, si persequimur quod et
+ipsi oderunt. Si quibus vero displicuerit, ipsi se manifestant,
+quia Ordinem non diligunt, cujus utique
+corruptionem, id est vitia, damnari nolunt. Ipsis
+itaque illud Gregorianum respondeo:  « Melius est
+ut scandalum oriatur, quam veritas relinquatur. » <note>(Homil. 7 in Ezech.)</note> 
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Cluniacensium vitia, virtutum nomine palliata, perstringit.</hi> </head>
+<div3>
+            <head>16.</head>
+            <p>
+ Dicitur, et veraciter creditur, sanctos patres
+<pb n="0908C"/>illam vitam instituisse; et ut in ea plures salvarentur,
+usque ad infirmos Regulae temperasse rigorem,
+non Regulam destruxisse. Absit autem ut credam,
+tantas eos, quantas video in plerisque monasteriis,
+vanitates ac superfluitates praecepisse, vel concessisse.
+Miror etenim unde inter monachos tanta intemperantia
+in comessationibus et potationibus, in
+vestimentis et lectisterniis, et equitaturis, et construendis
+aedificiis inolescere potuit: quatenus ubi
+haec studiosius, voluptuosius, atque effusius fiunt,
+<pb n="0908D"/>
+ibi ordo melius teneri dicatur, ibi major putetur religio.
+Ecce enim parcitas putatur avaritia, sobrietas
+austeritas creditur, silentium tristitia reputatur. Econtra
+remissio discretio dicitur; effusio, liberalitas;
+loquacitas, affabilitas; cachinnatio, jucunditas; mollities
+vestimentorum et equorum fastus, honestas;
+lectorum superfluus cultus, munditia. Cumque haec
+alterutrum impendimus, charitas appellatur. Ista
+charitas destruit charitatem, haec discretio discretionem
+confundit. Talis misericordia crudelitate
+plena est, qua videlicet ita corpori servitur, ut anima
+juguletur. Quae etenim charitas est, carnem diligere,
+et spiritum negligere? quaeve discretio totum
+dare corpori, et animae nihil? qualis vero misericordia,
+ancillam reficere, et dominam interficere? Nemo
+<pb n="0909A"/>
+pro hujusmodi misericordia speret se consequi
+misericordiam, quae misericordibus promittitur in
+Evangelio, Veritatis ore dicentis, <hi>Beati misericordes
+quoniam ipsi misericordiam consequentur <note>(Matth. V,
+7)</note>
+            </hi>: sed certissime potius poenam exspectet, quam
+tali, ut ita dicam, impio misericordi sanctus Job
+magis prophetizando, quam affectando imprecatur, <hi>Non sit,</hi> 
+ inquiens, <hi>in recordatione, sed conteratur
+quasi lignum infructuosum.</hi> Dignae plane retributionis
+causam mox subinfert satis idoneam, dicens: <hi>Pavit enim sterilem, et quae non parit, et viduae non
+benefecit 
+ <note>(Job XXIV, 20, 21)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Inordinata profecto atque irrationabilis misericordia
+est, sterilis et infructuosae carnis (quae juxta
+Domini verbum non prodest quidquam <hi>[Joan. VI, 64]</hi>,
+<pb n="0909B"/>
+et secundum Apostolum regnum Dei non possidebit <hi>[I Cor. XV, 50]</hi> 
+) adimplendis invigilare desideriis, et
+de animae cura Sapientis saluberrimum non curare
+consilium, admonentis atque dicentis: <hi>Miserere
+animae tuae placens Deo <note>(Eccli. XXX, 24)</note>
+            </hi>. Bona misericordia,
+misereri animae tuae; nec potest non
+mereri misericordiam, qua fit ut placeas Deo. Alias
+autem non est misericordia, sicut jam dixi, sed crudelitas;
+non est charitas, sed iniquitas; non discretio,
+sed confusio, sterilem quae non parit pascere,
+id est, inutilis carnis concupiscentiis inservire; et
+viduae nil boni facere, animae videlicet excolendis
+virtutibus nullam operam dare. Quae utique, licet
+Sponso interim sit viduata coelesti, sensus tamen de
+<pb n="0909C"/>
+Spiritu sancto concipere et parere non desinit immortales;
+qui videlicet incorruptibilis coelestisque
+haereditatis valeant esse capaces, sed si pium habeant
+studiosumque cultorem.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Sub hac tamen abusione jam fere ubique sic pro
+ordine tenentur, fere jam ita ab omnibus sine querela <emph>535</emph> 
+ atque irreprehensibiliter observantur;
+quanquam dissimiliter. Nonnulli quippe his omnibus
+tanquam non utentes utuntur; et ideo aut cum
+nulla offensa, aut cum minima. Aliquanti quippe
+haec agunt ex simplicitate, aliquanti ex charitate,
+aliquanti ex necessitate. Quidam namque simpliciter
+ista tenent, quoniam sic eis praecipitur; parati aliter
+agere, si aliter praeciperetur. Quidam autem ne discorditer
+vivant ab eis cum quibus habitant; sectantes
+<pb n="0909D"/>
+in his, non suam libidinem, sed aliorum pacem.
+Alii vero, quia resistere non valent multitudini contradicentium,
+qui haec utique tanquam pro Ordine
+libera voce defendunt; et quoties isti aliqua, prout
+ratio dictat, restringere vel mutare incipiunt illi, mox
+tota eis auctoritate resistunt.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Eorumdem intemperantiam comparat cum antiquorum monachorum parcimonia.</hi> </head>
+<div3>
+            <head>19.</head>
+            <p>
+ Quis in principio, cum Ordo coepit monasticus,
+ad tantam crederet monachos inertiam devenire?
+O quantum distamus ab his qui in diebus Antonii
+exstitere monachi! Siquidem illi cum se invicem per
+tempus ex charitate reviserent, tanta ab invicem
+aviditate panem animarum percipiebant, ut corporis
+<pb n="0910A"/>
+cibum penitus obliti, diem plerumque totum jejunis
+ventribus, sed non mentibus transigerent. Et
+hic erat rectus ordo, quando digniori parti prius inserviebatur:
+haec summa discretio, cum amplius
+sumebat quae major erat: haec denique vera charitas,
+ubi animae, quarum charitate Christus mortuus
+est, tanta sollicitudine refocillabantur. <hi>Nobis autem
+convenientibus in unum,</hi> ut verbis Apostoli utar, <hi>jam non est dominicam coenam manducare 
+ <note>(I Cor.
+XI, 20)</note>
+            </hi>. Panem quippe coelestem nemo est qui requirat,
+nemo qui tribuat. Nihil de Scripturis, nihi! de
+salute agitur animarum; sed nugae, et risus, et verba
+proferuntur in ventum. Inter prandendum quantum
+fauces dapibus, tantum aures pascuntur rumoribus:
+quibus totus intentus, modum nescias in edendo.
+<pb n="0910B"/>
+</p>
+          </div3>
+<div3>
+            <head>20. </head>
+            <p>
+Interim autem fercula ferculis apponuntur:
+et pro solis carnibus, a quibus abstinetur, grandia
+piscium corpora duplicantur. Cumque prioribus fueris
+satiatus, si secundos attigeris, videberis tibi necdum
+gustasse priores [ <hi>al.</hi> pisces]. Tanta quippe accuratione
+et arte coquorum cuncta apparantur, quatenus
+quatuor aut quinque ferculis devoratis, prima non
+impediant novissima, nec satietas minuat appetitum.
+Palatum quippe, dum novellis seducitur condimentis,
+paulatim dissuescere cognita, et ad succos extraneos,
+veluti adhuc jejunum, avide renovatur in desideria.
+Venter quidem, dum nescit [ <hi>al.</hi> vescitur].
+operatur, sed varietas tollit fastidium. Quia enim
+puras, ut eas natura creavit, epulas fastidimus, dum
+<pb n="0910C"/>
+aliae aliis multifarie permiscentur, et spretis naturalibus,
+quos Deus indidit rebus, quibusdam adulterinis
+gula provocatur saporibus; transitur nimirum
+meta necessitatis, sed necdum delectatio superatur.
+Quis enim dicere sufficit, quot modis (ut caetera taceam)
+sola ova versantur et vexantur, quanto studio
+evertuntur, subvertuntur, liquantur, durantur,
+diminuuntur; et nunc quidem frixa, nunc assa, nunc
+farsa, nunc mistim, nunc singillatim apponuntur?
+Utquid autem haec omnia, nisi ut soli fastidio consulatur?
+Ipsa deinde qualitas rerum talis deforis apparere
+curatur, ut non minus aspectus, quam gustus
+delectetur: et cum jam stomachus crebris ructibus
+repletum se indicet, necdum tamen curiositas satiatur.
+Sed dum oculi coloribus, palatum saporibus
+<pb n="0910D"/>
+illiciuntur, infelix stomachus, cui nec colores lucent,
+nec sapores demulcent, dum omnia suscipere cogitur,
+oppressus magis obruitur quam reficitur.</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Jam vero de aquae potu quid dicam, quando
+ne <emph>536</emph> ullo quidem pacto vinum aquatum admittitur?
+Omnes nimirum, ex quo monachi sumus, infirmos
+stomachos habemus, et tam necessarium
+Apostoli de utendo <hi>vino</hi> consilium merito non negligimus, <hi>modico</hi> 
+ tamen, quod ille praemisit <note>(I Tim.
+V, 23)</note>, nescio cur praetermisso. Et utinam vel solo,
+cum etiam purum est, contenti essemus! Pudet dicere,
+sed magis pudeat actitari; et, si pudet audiri,
+non pudeat emendari. Videas uno in prandio ter,
+vel quater, semiplenum calicem reportari: quatenus
+diversis vinis magis odoratis, quam potatis, nec tam
+<pb n="0911A"/>
+haustis quam attactis, sagaci probatione et celeri
+cognitione unum tandem e pluribus, quod fortius
+sit, eligatur. Quale est autem illud, quod nonnulla
+monasteria ex more observare dicuntur, in magnis
+videlicet festis vina delibuta melle, pigmentorum
+respersa pulveribus, in conventu bibere? Nunquid
+et hoc fieri dicemus propter infirmitatem stomachi?
+Ego vero ad nihil aliud valere video, nisi ut
+vel amplius bibatur, vel delectabilius. Sed cum venae
+fuerint vino ingurgitatae, toto in capite palpitantes,
+sic surgenti a mensa quid aliud libet, nisi dormire?
+Si autem ad vigilias surgere indigestum cogis, non
+cantum, sed planctum potius extorquebis.</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Cum vero ad lectum devenero, requisitus
+incommodum plango, non crapulae peccatum, sed
+<pb n="0911B"/>
+quod manducare non queo. Ridiculum vero (si tamen
+verum est) quod relatum est mihi a pluribus, qui
+hoc se pro certo scire dicebant, reticendum esse
+non arbitror. Aiunt enim incolumes ac validos juvenes
+conventum solere deserere, in domo se infirmorum,
+qui non sunt infirmi, collocare; carnium
+esu <note>(qui vix aegrotis duntaxat, et omnino debilibus
+ex Regulae discretione pro virium reparatione conceditur [Reg. S. Benedicti, capp. 31, 39])</note>
+            <hi/> 
+ non quidem
+corporis infirmantis ruinas reficere pro incommodo,
+sed carnis luxuriantis curam perficere in desiderio.
+Rogo, quae est haec securitas, inter frendentium
+undique hostium fulgurantes hastas et circumvolantia
+spicula, tauquam finito jam bello et triumphato
+adversario, projicere arma, et aut prandiis
+<pb n="0911C"/>
+incubare longioribus, aut nudum molli volutari in
+lectulo? Quid hoc ignaviae est, o boni milites? Sociis
+in sanguine et caede versantibus, vos aut cibos diligitis
+delicatos, aut somnos capitis matutinos? Aliis,
+inquam, nocte et die cura pervigili festinantibus
+redimere tempus, quoniam dies mali sunt; vos econtrario
+et longas noctes dormitando consumitis,
+et dies fabulando ducitis otiosos? An dicitis, Pax,
+et non est pax? cur vel non verecundamini ad exprobrationem
+apostolicae indignationis? <hi>Nondum enim,</hi> 
+ait, <hi>restitistis usque ad sanguinem <note>(Hebr. XII, 3)</note>
+            </hi>.
+Imo jam ad ejusdem terribilis valde comminationis
+tonitruum cur non expergiscimini? <hi>Cum dixerint,</hi> 
+inquit, <hi>Pax et securitas; tunc repentinus eis superveniet
+<pb n="0911D"/>
+interitus, sicut dolor in utero habentis, et non
+effugient <note>(I Thess. V, 3)</note>
+            </hi>. Delicata nimis medicina est,
+prius alligari quam vulnerari, membrum non percussum
+plangere, et necdum suscepto ictu admovere
+<pb n="0912A"/>
+manum, fovere unguento ubi non dolet, emplastrum
+adhibere ubi caesura non est.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Ad discernendum deinde inter sanos et male
+habentes, baculos in manibus portare jubentur aegrotantes,
+plane necessarios: ut quam pallor in vultu,
+maciesque non indicat, baculus sustentans mentiatur
+invaletudinem. Ridendas, an lugendas dixerim hujusmodi
+ineptias? Sic Macarius vixit? sic Basilius
+docuit? sic Antonius instituit? sic patres in Aegypto
+conversati sunt? sic denique sancti Odo, Maiolus,
+Odilo, Hugo, quos se sui utique Ordinis principes et
+praeceptores habere gloriantur, aut tenuerunt, aut
+teneri censuerunt? Sed hi omnes, si sancti, imo
+quia sancti fuerunt, a sancto Apostolo non dissenserunt,
+qui nimirum ita loquitur: <hi>Habentes victum
+<pb n="0912B"/>
+ei vestitum, his contenti sumus <note>(I Tim. VI, 8)</note>
+            </hi>. Nobis
+autem est pro victu satietas, nec vestitum appetimus,
+sed ornatum.
+<emph>537</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X. <hi>Vestium ornatum luxumque in eisdem persequitur.</hi> </head>
+<div3>
+            <head>24.</head>
+            <p>
+ Quaeritur ad induendum, non quod utilius,
+sed quod subtilius inveniatur: non quod repellat
+frigus, sed quod superbire compellat: non denique
+juxta Regulam,  « quod vilius comparari potest » <note>(Reg. S. Benedicti, cap. 55)</note>,
+sed quod venustius, imo
+vanius ostentari. Heu me miserum qualemcunque
+monachum! cur adhuc vivo videre ad id devenisse
+Ordinem nostrum, Ordinem scilicet qui primus fuit
+in Ecclesia, imo a quo coepit Ecclesia; quo nullus
+in terra similior angelicis ordinibus, nullus vicinior
+<pb n="0912C"/>
+ei quae in coelis est Jerusalem mater nostra, sive ob
+decorem castitatis, sive propter charitatis ardorem;
+cujus Apostoli institutores, cujus hi, quos Paulus
+tam saepe sanctos appellat, inchoatores exstiterunt?
+Et quidem inter illos cum nihil quod suum esset
+quispiam retinuisset, <hi>dividebatur,</hi> ut scriptum est, <hi>singulis, prout cuique opus erat:</hi> 
+ non igitur quod
+quisque pueriliter gestire [ <hi>al.</hi> gestare] poterat. Sane
+ubi tantum quod opus erat accipiebatur, ibi nihil
+procul dubio otiosum admittebatur: quanto magis
+nihil curiosum? quanto magis nihil superbum? <hi>Quod,</hi> 
+inquit, <hi>opus erat;</hi> hoc est quantum ad indumenta,
+quod et nuditatem tegeret, et frigus repelleret. Putasne
+ibi cuiquam galabrunum aut isembrunum
+<pb n="0912D"/>
+quaerebatur ad induendum; cuiquam ducentorum
+solidorum mula parabatur ad equitandum? Putasne,
+inquam, cujuspiam ibi lectulum opertorium cattinum,
+aut discolor barricanus operiebat, ubi
+<pb n="0913A"/>
+singulis dividebatur tantum, prout cuique opus erat?
+Non illic arbitror valde curatum fuisse de pretio, de
+colore, de cultu vestimentorum, ubi tam indefessum
+inerat studium in concordia morum, animorum
+cohaerentia, profectuque virtutum. <hi>Multitudinis,</hi> inquit, <hi>credentium erat cor unum, et anima una 
+ <note>(Act. IV, 32, 35)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Ubi nunc illud unanimitatis exercitium? Fusi
+sumus exterius, et de regno Dei quod intra nos
+est, relictis veris ac perennibus bonis, foris quaerimus
+vanam consolationem de vanitatibus et insaniis
+falsis: ac jam religionis antiquae non solum virtutem
+amisimus, sed nec speciem retinemus. Ecce enim
+ipse habitus noster (quod et dolens dico), qui humilitatis
+esse solebat insigne, a monachis temporis
+nostri in signum gestatur superbiae. Vix jam in
+<pb n="0913B"/>
+nostris provinciis invenimus, quo vestiri dignemur.
+Miles et monachus ex eodem panno partiuntur sibi
+cucullam et chlamydem. Quivis de saeculo, quantumlibet
+honoratus, etiamsi rex, etiamsi imperator
+ille fuerit, non tamen nostra horrebit indumenta, si
+suo sibi modo praeparata fuerint et aptata.</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Caeterum in habitu, inquis, non est religio,
+sed in corde. Bene. At tu quando cucullam empturus
+lustras urbes, fora circuis, percurris nundinas, domos
+scrutaris negotiatorum, cunctam evertis singulorum
+supellectilem, ingentes explicas cumulos pannorum,
+attrectas digitis, admoves oculis, solis apponis
+radio; quidquid grossum, quidquid pallidum occurrerit,
+respuis; si quid autem sui puritate ac nitore
+placuerit, illud mox quantolibet pretio satagis tibi
+<pb n="0913C"/>
+retinere: rogo te, ex corde facis haec, an simpliciter?
+Cum denique contra Regulam, non quod vilius
+occurrerit, sed studiosissime quaeris, quod quia rarius
+invenitur, pretiosius emitur; ignorans facis haec, an
+ex industria? Ex cordis thesauro sine dubio procedit,
+quidquid <emph>538</emph> foris apparet vitiorum. Vanum cor
+vanitatis notam ingerit corpori; et exterior superfluitas
+interior is vanitatis indicium est. Mollia indumenta
+animi mollitiem indicant. Non tanto curaretur
+corporis cultus, nisi prius neglecta fuisset mens inculta
+virtutibus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI. <hi>De causa cur superiores subditorum vitia non corrigant. Luxum et splendidum praelatorum apparatum perstringit.</hi> </head>
+<div3>
+            <head>27.</head>
+            <p>
+ Miror autem, cum Regula dicat, ad magistrum
+<pb n="0913D"/>respicere quidquid a discipulis delinquitur <note>(Reg. S.
+Benedicti, cap. 2)</note>; et Dominus per prophetam sanguinem
+in peccato morientium de manu pastorum
+requirendum esse minetur <note>(Ezech. III, 18)</note>, quomodo
+abbates nostri patiantur fieri talia; nisi forte (si audeam
+dicere) nemo fidenter reprehendit, in quo se
+esse irreprehensibilem non confidit. Siquidem humanitatis
+est omnium, in quo sibi quisque indulget,
+aliis non vehementer irasci. Dicam, dicam; praesumtuosus
+dicar, sed verum dicam. Quomodo lux
+<pb n="0914A"/>
+mundi obtenebrata est? quomodo sal terrae infatuatum
+est? Quorum nobis vita, via vitae debuit esse,
+dum exemplum in suis actibus ostendunt superbiae,
+caeci facti sunt duces caecorum. Quod enim (ut caetera
+taceam) specimen humilitatis est, cum tanta
+pompa et equitatu incedere, tantis hominum crinitorum
+stipari obsequiis; quatenus duobus episcopis
+unius abbatis multitudo sufficiat? Mentior, si non
+vidi abbatem sexaginta equos, et eo amplius in suo
+ducere comitatu. Dicas, si videas eos transeuntes,
+non patres esse monasteriorum, sed dominos
+castellorum; non rectores animarum, sed principes
+provinciarum. Tum deinde gestari jubentur mappulae,
+scyphi, bacini, candelabra, et manticae suffarcinatae,
+non stramentis, sed ornamentis lectulorum. Vix
+<pb n="0914B"/>
+denique quatuor leucis a sua quispiam domo recedit,
+nisi cum tota supellectili sua, tanquam sit vel iturus
+ad exercitum, vel transiturus per desertum, ubi non
+valeant inveniri necessaria. Annon posset eodem
+vasculo et aqua manibus vergi, et vinum bibi? Annon
+posset ardens lucere lucerna, nisi in tuo quod
+portas candelabro, et hoc aureo, vel argenteo? Annon
+posset dormiri, nisi super varium stratum, aut
+sub peregrino coopertorio? Annon unus aliquis minister
+posset et jumentum ligare, et ad mensam
+servire, et lectulum praeparare? Nunc ergo tantae
+multitudini garsionum ac jumentorum, cur, vel ad
+solatium mali, nobiscum non ferimus necessaria,
+quatenus hospites non gravemus?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII. <hi>Luxum et abusum in templis et oratoriis exstruendis, ornandis, pingendis, arguit.</hi> </head>
+<div3>
+            <head>28.</head>
+            <p>
+ Sed haec parva sunt: veniam ad majora, sed
+<pb n="0914C"/>ideo visa minora, quia usitatiora. Omitto oratoriorum
+immensas altitudines, immoderatas longitudines,
+supervacuas latitudines, sumptuosas depolitiones,
+curiosas depictiones: quae dum orantium in se
+retorquent aspectum, impediunt et affectum, et mihi
+quodammodo repraesentant antiquum ritum Judaeorum.
+Sed esto, fiant haec ad honorem Dei. Illud autem
+interrogo monachus monachos, quod in gentilibus
+gentilis arguebat:
+</p>
+            <l> <hi>Dicite</hi> (ait ille), <hi>pontifices, in sancto quid facit aurum?</hi> </l>
+            <p> <note>(PERS. sat. II, vers. 69.)</note> 
+
+<pb n="0914D"/>
+Ego autem dico: Dicite, <emph>539</emph> pauperes: non enim
+attendo versum, sed sensum; dicite, inquam, pauperes,
+si tamen pauperes, in sancto quid facit aurum?
+Et quidem alia causa est episcoporum, alia monachorum.
+Scimus namque, quod illi sapientibus et insipientibus
+debitores cum sint, carnalis populi devotionem,
+quia spiritualibus non possunt, corporalibus excitant
+ornamentis. Nos vero qui jam de populo exivimus; qui
+mundi quaeque pretiosa ac speciosa pro Christo reliquimus;
+qui omnia pulchre lucentia, canore mulcentia,
+suave olentia, dulce sapientia, tactu placentia,
+cuncta denique oblectamenta corporea arbitrati sumus
+<pb n="0915A"/>
+ut stercora, ut Christum lucrifaciamus: quorum,
+quaeso, in his devotionem excitare intendimus? Quem,
+inquam, ex his fructum requirimus? stultorum admirationem,
+an simplicium oblationem [ <hi>al.</hi> oblectationem]?
+An quoniam commisti sumus inter gentes,
+forte didicimus opera eorum, et servimus adhuc
+sculptibilibus eorum?</p>
+          </div3>
+<div3>
+            <head>28.</head>
+            <p>
+ Et ut aperte loquar, an hoc totum facit avaritia,
+quae est idolorum servitus, et non requirimus
+fructum, sed datum? Si quaeris, quomodo? Miro,
+inquam, modo. Tali quadam arte spargitur aes, ut
+multiplicetur. Expenditur ut augeatur, et effusio copiam
+parit. Ipso quippe visu sumptuosarum, sed
+mirandarum vanitatum, accenduntur homines magis
+ad offerendum quam ad orandum. Sic opes opibus
+<pb n="0915B"/>
+hauriuntur, sic pecunia pecuniam trahit: quia nescio
+quo pacto, ubi amplius divitiarum cernitur, ibi
+offertur libentius. Auro tectis reliquiis saginantur
+oculi, et loculi aperiuntur. Ostenditur pulcherrima
+forma sancti vel sanctae alicujus, et eo creditur sanctior,
+quo coloratior. Currunt homines ad osculandum,
+invitantur ad donandum; et magis mirantur
+pulchra, quam venerantur sacra. Ponuntur dehinc
+in ecclesia gemmatae, non coronae, sed rotae,
+circumseptae lampadibus, sed non minus fulgentes
+insertis lapidibus. Cernimus et pro candelabris arbores
+quasdam erectas, multo aeris pondere, miro
+artificis opere fabricatas, nec magis coruscantes
+superpositis lucernis quam suis gemmis. Quid, putas,
+<pb n="0915C"/>
+in his omnibus quaeritur? poenitentium compunctio,
+an intuentium admiratio? O vanitas vanitatum,
+sed non vanior quam insanior! Fulget ecclesia in
+parietibus, et in pauperibus eget. Suos lapides induit
+auro, et suos filios nudos deserit. De sumptibus
+egenorum servitur oculis divitum. Inveniunt curiosi
+quo delectentur, et non inveniunt miseri quo
+sustententur. Utquid saltem sanctorum imagines
+non reveremur, quibus utique ipsum, quod pedibus
+conculcatur, scatet pavimentum? Saepe spuitur
+in ore angeli, saepe alicujus sanctorum facies calcibus
+tunditur transeuntium. Et si non sacris his
+imaginibus, cur vel non parcitur pulchris coloribus?
+Cur decoras quod mox foedandum est? cur depingis
+quod necesse est conculcari? Quid ibi valent venustae
+<pb n="0915D"/>
+formae, ubi pulvere maculantur assiduo? Denique
+quid haec ad pauperes, ad monachos, ad spirituales
+viros? Nisi forte et hic adversus memoratum jam
+poetae versiculum propheticus ille respondeatur: <hi>Domine, dilexi decorem domus tuae, et locum habitationis
+gloriae tuae 
+ <note>(Psal. XXV, 8)</note>
+            </hi>. Assentio: patiamur
+et haec fieri in ecclesia: quia etsi noxia sunt vanis
+et avaris, non tamen simplicibus et devotis.</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ Caeterum in claustris coram legentibus fratribus
+<pb n="0916A"/>
+quid facit illa ridicula monstruositas, mira quaedam
+deformis formositas, ac formosa deformitas?
+Quid ibi immundae simiae? quid feri leones? quid
+monstruosi centauri? quid semihomines? quid maculosae
+tigrides? quid milites pugnantes? quid venatores
+tubicinantes? Videas sub uno capite multa
+corpora, et rursus in uno corpore capita multa. Cernitur
+hinc in quadrupede cauda serpentis, illinc in
+pisce caput quadrupedis. Ibi bestia praefert equum,
+capram trahens retro dimidiam; <emph>540</emph> hic cornutum
+animal equum gestat posterius. Tam multa
+denique, tamque mira diversarum formarum ubique
+varietas apparet, ut magis legere libeat in marmoribus
+quam in codicibus, totumque diem occupare
+singula ista mirando, quam in lege Dei meditando.
+<pb n="0916B"/>
+Proh Deo! si non pudet ineptiarum, cur vel non piget
+expensarum?
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Modos et media mutuae charitatis et pacis fovendae summatim colligit, denique transfugas instabilitatis notat.</hi> </head>
+<div3>
+            <head>30.</head>
+            <p>
+ Multa quidem et alia suggerebat addenda larga
+materia; sed avellit me et propria satis anxia occupatio,
+et tua, frater Ogeri, nimis festina discessio,
+qui videlicet nec morari diutius acquiescis,
+nec abire tamen vis absque recenti opusculo. Facio
+itaque quod vis, et te dimitto, et sermonem brevio:
+praesertim quia utiliora sunt pauca in pace, quam
+multa cum scandalo! Et utinam haec pauca scripserim
+sine scandalo. Enimvero vitia carpens, scio me
+<pb n="0916C"/>
+offendere vitiosos. Potest tamen fieri, volente Deo,
+aliquibus quos me timeo exasperasse, potius placiturum
+esse, sed si desinant esse vitiosi: si videlicet,
+et districtiores desinant esse detractores, et remissiores
+amputent superfluitates; si sic quisque bonum
+teneat quod tenet, ut alium aliud tenentem non judicet;
+si qui accepit jam esse bonus, non invideat
+melioribus; et qui sibi videtur agere melius, bonum
+non spernat alterius: si qui districtius vivere possunt,
+eos qui non possunt nec aspernentur, nec
+aemulentur; et qui non possunt, eos qui possunt sic
+mirentur, ut temere non imitentur. Sicut enim non
+licet his, qui majus aliquid forte voverunt, ad id
+quod minus est descendere, ne apostatentur: sic
+non omnibus expedit de bonis minoribus ad majora
+<pb n="0916D"/>
+transire, ne praecipitentur.</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Scio quippe nonnullos de aliis et congregationibus,
+et institutionibus, ad nostrum Ordinem
+pervolasse, pulsasse, intrasse: qui hoc quidem
+agendo, et suis scandala reliquerunt, et nobis nihilominus
+attulerunt, dum quantum illos sua temeraria
+discessione, tantum nos turbarunt sua misera
+conversatione. Et quoniam superbe spreverunt
+quod tenebant, et temere praesumpserunt quod non
+<pb n="0917A"/>
+valebant; digno Deus exitu eorum tandem patefecit
+ignaviam: quia et impudenter deseruerunt quod
+imprudenter arripuerant, et turpiter redierunt ad id
+quod leviter deseruerant. Cum enim claustra nostra
+suis potius Ordinis impatientia, quam desiderio nostri
+expetierint; ostendunt quod sunt, dum a vobis ad
+nos, a nobis ad vos instabili levitate pervolantes, et
+nobis, et vobis, et omnibus bonis scandalum faciunt.
+Quanquam ergo nonnullos eorum noverimus,
+qui et fortiter Deo auctore coeperunt, et ipso protectore
+fortius perseverant; securius est tamen ut
+perseveremus in bono quod coepimus, quam quod
+<pb n="0918A"/>
+incipiamus ubi non perseveremus; et hoc pariter
+omnes studeamus, quo secundum Apostoli consilium <hi>omnia nostra in charitate fiant 
+ <note>(I Cor. XVI, 14)</note>
+            </hi>. Haec
+est nostra de nostro, et de vestro Ordine sententia;
+haec nostris et vestris, haec non de vobis, sed vobis
+me solere dicere, nullus melius mihi testis
+erit quam vos, et si quis me novit sicut vos. Quae
+in vestris laudabilia sunt, laudo et praedico: si quae
+reprehendenda sunt, ut emendentur, vobis et aliis
+amicis meis suadere soleo. Hoc non est detractio, sed
+attractio. Quod ut nobis a vobis semper fiat, omnino
+precor et supplico. Valete.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
