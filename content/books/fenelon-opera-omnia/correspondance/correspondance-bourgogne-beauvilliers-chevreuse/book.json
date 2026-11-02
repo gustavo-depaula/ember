@@ -1,0 +1,158 @@
+{
+  "id": "fenelon-correspondance-bourgogne",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance avec le duc de Bourgogne, les ducs de Beauvilliers et de Chevreuse et leurs familles",
+    "en-US": "Correspondence with the Duke of Burgundy, the Dukes of Beauvilliers and Chevreuse, and their Families",
+    "pt-BR": "Correspondência com o duque de Borgonha, os duques de Beauvilliers e de Chevreuse e suas famílias"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Fénelon à son élève le duc de Bourgogne, à ses amis les ducs de Beauvilliers et de Chevreuse, à leurs épouses et à leur entourage (première section de la correspondance). Les lettres adressées à Fénelon sont imprimées avec les siennes là où l’édition les place.",
+    "en-US": "Fénelon’s letters to his pupil the Duke of Burgundy, to his friends the Dukes of Beauvilliers and Chevreuse, their wives and their circle (first section of the correspondence). Letters written to Fénelon are printed with his own where the edition places them.",
+    "pt-BR": "As cartas de Fénelon a seu aluno o duque de Borgonha, a seus amigos os duques de Beauvilliers e de Chevreuse, a suas esposas e ao seu círculo (primeira seção da correspondência). As cartas escritas a Fénelon são impressas com as dele onde a edição as coloca."
+  },
+  "composed": "1689–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/correspondance-bourgogne-beauvilliers-chevreuse",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte07fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 7, tome 7, section I; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-correspondance",
+      "title": {
+        "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles"
+      },
+      "children": [
+        {
+          "id": "01-correspondance-01",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 1"
+          }
+        },
+        {
+          "id": "01-correspondance-02",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 2"
+          }
+        },
+        {
+          "id": "01-correspondance-03",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 3"
+          }
+        },
+        {
+          "id": "01-correspondance-04",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 4"
+          }
+        },
+        {
+          "id": "01-correspondance-05",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 5"
+          }
+        },
+        {
+          "id": "01-correspondance-06",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 6"
+          }
+        },
+        {
+          "id": "01-correspondance-07",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 7"
+          }
+        },
+        {
+          "id": "01-correspondance-08",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 8"
+          }
+        },
+        {
+          "id": "01-correspondance-09",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 9"
+          }
+        },
+        {
+          "id": "01-correspondance-10",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 10"
+          }
+        },
+        {
+          "id": "01-correspondance-11",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 11"
+          }
+        },
+        {
+          "id": "01-correspondance-12",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 12"
+          }
+        },
+        {
+          "id": "01-correspondance-13",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 13"
+          }
+        },
+        {
+          "id": "01-correspondance-14",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 14"
+          }
+        },
+        {
+          "id": "01-correspondance-15",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 15"
+          }
+        },
+        {
+          "id": "01-correspondance-16",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 16"
+          }
+        },
+        {
+          "id": "01-correspondance-17",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 17"
+          }
+        },
+        {
+          "id": "01-correspondance-18",
+          "title": {
+            "fr-FR": "Correspondance avec le duc de Bourgogne, Beauvilliers, Chevreuse et leurs familles, partie 18"
+          }
+        }
+      ]
+    }
+  ]
+}
