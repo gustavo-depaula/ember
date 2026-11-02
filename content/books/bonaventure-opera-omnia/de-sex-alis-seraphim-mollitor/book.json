@@ -1,0 +1,93 @@
+{
+  "id": "bonaventure-de-sex-alis-seraphim-mollitor",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Virtues of a Religious Superior (De sex alis Seraphim)",
+    "pt-BR": "As virtudes de um superior religioso (As seis asas do Serafim)"
+  },
+  "author": {
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "en-US": "Sabinus Mollitor’s 1920 English translation of St. Bonaventure’s De sex alis Seraphim: the six wings of the seraph as six virtues of a religious superior, in a prologue and seven chapters (the Latin text of the Quaracchi edition is in the separate book bonaventure-de-sex-alis-seraphim, whose chapters run II-IV together). The translator’s sub-headings and notes are left out.",
+    "pt-BR": "Tradução inglesa de Sabinus Mollitor (1920) de «As seis asas do Serafim», de São Boaventura: as seis asas do serafim como seis virtudes de um superior religioso."
+  },
+  "composed": "c. 1260",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bonaventure/de-sex-alis-seraphim",
+  "editions": {
+    "en-US": {
+      "translator": "Sabinus Mollitor",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/virtuesofreligio00bonauoft",
+      "edition": "The Virtues of a Religious Superior, by St. Bonaventure, translated from the Latin by Sabinus Mollitor, O.F.M. (St. Louis and London: B. Herder, 1920).",
+      "description": "Prologue, seven chapters and the conclusion of the translation. Paragraph numbers are kept; running heads and footnotes are dropped; words split at line ends are rejoined with a dictionary, so a few slips remain.",
+      "tier": "A",
+      "tierEvidence": "Published in 1920, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. The selection of superiors"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. Zeal for justice"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. Pity"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. Patience"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. Edification"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. Prudent discretion"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. Devotion"
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": {
+        "en-US": "Conclusion"
+      }
+    }
+  ]
+}
