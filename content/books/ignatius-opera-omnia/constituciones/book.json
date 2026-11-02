@@ -1,0 +1,114 @@
+{
+  "id": "ignatius-constituciones",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Constituciones de la Compañía de Jesús",
+    "en-US": "Constitutions of the Society of Jesus",
+    "pt-BR": "Constituições da Companhia de Jesus"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "es-ES": "Las Constituciones de la Compañía de Jesús (1544–1556): el Examen general, el Proemio y las diez Partes, con las Declaraciones, en la numeración tradicional [1]–[827]. Texto español de Ignacio, con la ortografía del siglo XVI.",
+    "en-US": "The Constitutions of the Society of Jesus (1544–1556): the General Examen, the Proemium and the ten Parts, with the Declarations, in the traditional numbering [1]–[827]. Ignatius's Spanish text, in sixteenth-century spelling.",
+    "pt-BR": "As Constituições da Companhia de Jesus (1544–1556): o Exame geral, o Proêmio e as dez Partes, com as Declarações, na numeração tradicional [1]–[827]."
+  },
+  "composed": "1544–1556",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "ignatius-of-loyola/constituciones",
+  "editions": {
+    "es-ES": {
+      "editor": "Texto español de las Constituciones, via Documenta Catholica Omnia",
+      "year": 1556
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.documentacatholicaomnia.eu/03d/1491-1556,_Ignacio_Loyola,_Constituciones_de_la_Compania_de_Jesus,_ES.pdf",
+      "edition": "Constituciones de la Compañía de Jesús (Examen general, Proemio, Partes 1-10 with the Declarations), Documenta Catholica Omnia PDF, paragraphs [1]-[827]. The Declarations keep their letters (A, B...) and the letter references [A] in the text. Taken from the PDF by font size: the modern apparatus of the edition (footnotes noting later derogations and the cross-references to the Normas Complementarias) is left out.",
+      "description": "Ignatius's Spanish text (Texto autógrafo/Spanish text a and A, approved 1558) with the traditional paragraph numbers. Chapter headings follow the PDF; the Examen's chapter 6 heading was put back in order.",
+      "tier": "B",
+      "tierEvidence": "Ignatius died in 1556 and the Constitutions were approved in 1558; the text is Ignatius's own Spanish, distributed by Documenta Catholica Omnia without any copyright claim or licence; free in practice."
+    }
+  ],
+  "toc": [
+    {
+      "id": "examen",
+      "title": {
+        "es-ES": "Examen general"
+      }
+    },
+    {
+      "id": "proemio",
+      "title": {
+        "es-ES": "Proemio de las Constituciones"
+      }
+    },
+    {
+      "id": "parte-1",
+      "title": {
+        "es-ES": "Primera Parte. Del admittir a probación"
+      }
+    },
+    {
+      "id": "parte-2",
+      "title": {
+        "es-ES": "Parte Segunda. Del despedir los que no approbasen bien de los admittidos"
+      }
+    },
+    {
+      "id": "parte-3",
+      "title": {
+        "es-ES": "Parte Tercera. Del conservar y aprovechar los que quedan en probación"
+      }
+    },
+    {
+      "id": "parte-4",
+      "title": {
+        "es-ES": "Parte Cuarta. Del instruir en letras y en otros medios de ayudar a los próximos los que se retienen en la Compañía"
+      }
+    },
+    {
+      "id": "parte-5",
+      "title": {
+        "es-ES": "Parte Quinta. De lo que toca al admittir o incorporar en la compañía"
+      }
+    },
+    {
+      "id": "parte-6",
+      "title": {
+        "es-ES": "Parte Sexta. De lo que toca a los ya admittidos o encorporados en la Compañía quanto a sí mesmos"
+      }
+    },
+    {
+      "id": "parte-7",
+      "title": {
+        "es-ES": "Parte Septima. De lo que toca a los ya admittidos en el cuerpo de la Compañía para con los próximos, repartiéndose en la viña de Cristo nuestro Señor"
+      }
+    },
+    {
+      "id": "parte-8",
+      "title": {
+        "es-ES": "Parte Octava. De lo que ayuda para unir los repartidos con su cabeza y entre sí"
+      }
+    },
+    {
+      "id": "parte-9",
+      "title": {
+        "es-ES": "Parte Novena. De lo que toca a la cabeza y gobierno que della desciende"
+      }
+    },
+    {
+      "id": "parte-10",
+      "title": {
+        "es-ES": "Parte Decima. De cómo se conservará y augmentará todo este cuerpo en su buen ser"
+      }
+    }
+  ]
+}
