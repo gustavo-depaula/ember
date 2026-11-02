@@ -1,0 +1,170 @@
+{
+  "id": "more-utopia",
+  "cover": "classic",
+  "name": {
+    "la": "De optimo statu reipublicae deque nova insula Utopia",
+    "en-US": "Utopia",
+    "pt-BR": "Utopia"
+  },
+  "author": {
+    "la": "Thomas Morus",
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "la": "Libellus vere aureus nec minus salutaris quam festivus de optimo reipublicae statu deque nova insula Utopia (1516): sermo Raphaelis Hythlodaei de insula Utopiensium.",
+    "en-US": "More's Utopia in the original Latin (1516): Raphael Hythlodaeus on the best state of a commonwealth and on the island of Utopia, in two books. The English by Ralph Robinson (1551) is a separate book, Utopia (Ralph Robinson's translation).",
+    "pt-BR": "A Utopia de More no latim original (1516): Rafael Hitlodéu sobre o melhor estado de uma república e sobre a ilha de Utopia, em dois livros."
+  },
+  "composed": 1516,
+  "languages": [
+    "la"
+  ],
+  "work": "more/utopia",
+  "editions": {
+    "la": {
+      "editor": "Thomas More (Louvain: Thierry Martens, 1516), text as given by The Latin Library",
+      "year": 1516
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.thelatinlibrary.com/more.html",
+      "edition": "De optimo statu reipublicae deque nova insula Utopia, Books I-II (The Latin Library; edition not stated, orthography of a modern text in u/v and i/j normalised to u and i).",
+      "description": "Books I and II complete without the parerga (letters, verses, alphabet). Sections follow the bracketed marginal summaries of the text. Raw text in sources/la-originals/.",
+      "tier": "A",
+      "tierEvidence": "More died in 1535 and the text is of the 1516 first edition; the Latin Library carries it as a plain transcription."
+    }
+  ],
+  "toc": [
+    {
+      "id": "liber-primus",
+      "title": {
+        "la": "Liber primus",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      },
+      "children": [
+        {
+          "id": "sectio-01",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "sectio-02",
+          "title": {
+            "la": "Homo peregrinans Raphael Hythlodaeus"
+          }
+        },
+        {
+          "id": "sectio-03",
+          "title": {
+            "la": "Peregrinationes Raphaelis"
+          }
+        },
+        {
+          "id": "sectio-04",
+          "title": {
+            "la": "De Cardinalis Ioannis Mortoni conuiuione"
+          }
+        },
+        {
+          "id": "sectio-05",
+          "title": {
+            "la": "De optimo statu reipublicae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-secundus",
+      "title": {
+        "la": "Liber secundus",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      },
+      "children": [
+        {
+          "id": "sectio-06",
+          "title": {
+            "la": "Raphaelis sermo pomeridianus"
+          }
+        },
+        {
+          "id": "sectio-07",
+          "title": {
+            "la": "De Utopiensium insula"
+          }
+        },
+        {
+          "id": "sectio-08",
+          "title": {
+            "la": "De urbibus, ac nominatim de Amauroto"
+          }
+        },
+        {
+          "id": "sectio-09",
+          "title": {
+            "la": "De magistratibus"
+          }
+        },
+        {
+          "id": "sectio-10",
+          "title": {
+            "la": "De artificiis"
+          }
+        },
+        {
+          "id": "sectio-11",
+          "title": {
+            "la": "De commerciis mutuis"
+          }
+        },
+        {
+          "id": "sectio-12",
+          "title": {
+            "la": "De peregrinatione Utopiensium"
+          }
+        },
+        {
+          "id": "sectio-13",
+          "title": {
+            "la": "De aequatione ubertatis"
+          }
+        },
+        {
+          "id": "sectio-14",
+          "title": {
+            "la": "De educatione et artibus"
+          }
+        },
+        {
+          "id": "sectio-15",
+          "title": {
+            "la": "De legibus Utopiensium"
+          }
+        },
+        {
+          "id": "sectio-16",
+          "title": {
+            "la": "De re militari"
+          }
+        },
+        {
+          "id": "sectio-17",
+          "title": {
+            "la": "De religionibus Utopiensium"
+          }
+        },
+        {
+          "id": "sectio-18",
+          "title": {
+            "la": "Laus reipublicae Utopiensis"
+          }
+        }
+      ]
+    }
+  ]
+}
