@@ -1,0 +1,81 @@
+{
+  "id": "benson-holy-blissful-martyr",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Holy Blissful Martyr Saint Thomas of Canterbury",
+    "pt-BR": "O Santo Bem-aventurado Mártir São Tomás de Cantuária"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's short life of St Thomas Becket (1910) for the Westminster Library: his birth, youth and rise, the chancellor and archbishop, the troubles in England, exile and return, and his passion, death and coronation in glory.",
+    "pt-BR": "A breve vida de São Tomás Becket por Benson (1910), para a Westminster Library: nascimento, juventude e ascensão, o chanceler e arcebispo, os problemas na Inglaterra, o exílio e o regresso, e sua paixão, morte e coroação na glória."
+  },
+  "composed": 1910,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/holy-blissful-martyr",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Sands & Co., 1910)",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/holyblissfulmart00bensuoft",
+      "edition": "The Holy Blissful Martyr Saint Thomas of Canterbury (London: Sands & Co., 1910), Internet Archive full-text OCR (holyblissfulmart00bensuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1910, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "I. Birth, Youth and Rise"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "II. Chancellor and Archbishop"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "III. Troubles in England"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "IV. Exile and Return"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "V. Passion and Death"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "VI. Coronation"
+      }
+    }
+  ]
+}

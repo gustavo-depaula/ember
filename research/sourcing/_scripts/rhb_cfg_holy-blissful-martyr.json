@@ -1,0 +1,50 @@
+{
+ "id": "benson-holy-blissful-martyr",
+ "dir": "benson-opera-omnia/holy-blissful-martyr",
+ "slug": "holy-blissful-martyr",
+ "name": "The Holy Blissful Martyr Saint Thomas of Canterbury",
+ "name_pt": "O Santo Bem-aventurado Mártir São Tomás de Cantuária",
+ "desc": "Benson's short life of St Thomas Becket (1910) for the Westminster Library: his birth, youth and rise, the chancellor and archbishop, the troubles in England, exile and return, and his passion, death and coronation in glory.",
+ "desc_pt": "A breve vida de São Tomás Becket por Benson (1910), para a Westminster Library: nascimento, juventude e ascensão, o chanceler e arcebispo, os problemas na Inglaterra, o exílio e o regresso, e sua paixão, morte e coroação na glória.",
+ "composed": 1910,
+ "editor": "Robert Hugh Benson (London: Sands & Co., 1910)",
+ "year": 1910,
+ "url": "https://archive.org/details/holyblissfulmart00bensuoft",
+ "edition": "The Holy Blissful Martyr Saint Thomas of Canterbury (London: Sands & Co., 1910), Internet Archive full-text OCR (holyblissfulmart00bensuoft).",
+ "src": "robert-hugh-benson/ia/holyblissfulmart00bensuoft_djvu.txt",
+ "manual": [
+  [
+   180,
+   "Introduction"
+  ],
+  [
+   376,
+   "I. Birth, Youth and Rise"
+  ],
+  [
+   923,
+   "II. Chancellor and Archbishop"
+  ],
+  [
+   1704,
+   "III. Troubles in England"
+  ],
+  [
+   2813,
+   "IV. Exile and Return"
+  ],
+  [
+   4277,
+   "V. Passion and Death"
+  ],
+  [
+   5224,
+   "VI. Coronation"
+  ]
+ ],
+ "start": 180,
+ "end": 5678,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}
