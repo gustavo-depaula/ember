@@ -1,0 +1,13 @@
+# Lettre 127. À N*
+
+[Vers 1633] [^1]
+
+Monseigneur l’archevêque [^2], conformément à la pra- tique ancienne de l’Eglise, en laquelle les évêques faisaient instruire chez eux durant plusieurs jours ceux qui désiraient être promus aux ordres, a ordonné que dorénavant ceux de son diocèse qui auront ce désir, se retireront, dix jours avant chaque ordre, chez les prêtres de la Mission, pour y faire une retraite spirituelle, s’exercer à la méditation, si nécessaire aux ecclésiastiques, faire une confession générale de toute leur vie passée, faire une répétition de la théologie morale et particulièrement de celle qui regarde l’usage des sacrements, apprendre à bien faire les cérémonies de toutes les fonctions des ordres, et enfin s’instruire de toutes les autres choses nécessaires aux ecclésiastiques. Ils sont logés et nourris pendant ce temps-là, et il en résulte un tel fruit, par la grâce de Dieu, qu’on a vu que tous ceux qui ont fait ces exercices mènent ensuite une vie vraiment ecclésiastique, et même la plupart d’entre eux s’appliquent d’une manière toute particulière aux œuvres de piété, ce qui commence à être manifeste au public [^3]. [^4]
+
+[^1]: Abelly dit que cette lettre a été écrite "environ deux ans après" l’ordonnance épiscopale relative aux ordinands, qui est du 21 février 1631.
+
+[^2]: Jean-François de Gondi.
+
+[^3]: De 1631 à 1643, il y eut chaque année six retraites d’ordinands a la maison-mère des prêtres de la Mission. Après 1643, la retraite de la mi-carême fut supprimée. A partir de 1638, aux ordinands du diocèse de Paris s’ajoutèrent les ordinands étrangers au diocèse qui venaient recevoir les ordres dans cette ville. Le nombre des hôtes de Saint-Lazare oscilla dès lors entre soixante-dix et cent. Tout ce monde était recu gratuitement. Pour être en mesure de couvrir les frais, le saint intéressa à cette œuvre les dames de la Charité, qui donnèrent libéralement, surtout la présidente de Herse et la marquise de Maignelay. La reine-mère fit aussi quelques largesses. Tout alla bien jusqu’en 1645. Alors les dons se firent plus rares, et la maison de Saint-Lazare fut obligée de supporter presque toutes Ies dépenses. Elle y arrivait avec peine ; mais il résultait un si grand bien de ces retraites que saint Vincent ne consentit jamais à les interrompre Ou à réduire le nombre des ordinands Il appelait à Saint-Lazare, pour y donner les exercices, les prêtres Ou même les évêques les plus recommandables par leurs vertus, leurs talents et leur zèle. On y vit Pavillon, Caullet, Perrochel, que la reine-mère vint écouter, Sevin et Bossuet. (Abelly, Op. cit, t. II, chap. II, sect. I-V.)
+
+[^4]: Abelly, *op. cit., *t. II, chap. Il, sect. II, début, p. 215.

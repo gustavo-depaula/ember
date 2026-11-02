@@ -1,0 +1,13 @@
+# Lettre 142. À François du Coudray, à Rome
+
+[Juillet 1633] [^1]
+
+Il faut que vous sachiez ce que je pense ne vous avoir pas encore écrit, qu’il a plu à la bonté de Dieu donner une bénédiction toute particulière et qui n’est pas imaginable aux exercices de nos ordinands. Elle est telle que tous ceux qui y ont passé, ou la plupart, mènent une vie telle que doit être celle des bons et parfaits ecclésiastiques. Il y en a même plusieurs qui sont considérables pour leur naissance ou pour les autres qualités que Dieu a mises en eux, lesquels vivent aussi réglés chez eux que nous vivons chez nous, et sont autant et même plus intérieurs que plusieurs d’entre nous, n’y eût-il que moi-même. Ils ont leur temps réglé, font oraison mentale, célèbrent la sainte messe, font les examens de conscience tous les jours comme nous. Ils s’appliquent à visiter les hôpitaux et les prisons, où ils catéchisent, prêchent, confessent, comme aussi dans les collèges, avec des bénédictions très particulières de Dieu. Entre plusieurs autres, il y en a douze ou quinze dans Paris qui vivent de la sorte et qui sont personnes de condition ; ce qui commence à être connu du public [^2]. Or, ces jours passés, un d’entre eux, parlant de la manière de vie que menaient ceux qui avaient passé avec lui par les exercices des ordinands, proposa une pensée qu’il avait eue, de les lier ensemble par manière d’assemblée ou de compagnie ; ce qui a été fait avec une satisfaction particulière de tous les autres. Et la fin de cette assemblée est de vaquer à leur propre perfection, à moyenner que Dieu ne soit point offensé, mais qu’il soit connu et servi dans leurs familles, et à procurer sa gloire dans les personnes ecclésiastiques et parmi les pauvres ; et cela, sous la direction d’une personne de céans, où ils doivent s’assembler tous les huit jours. Et parce que Dieu a béni les retraites que plusieurs curés de ce diocèse ont faites ici, ces Messieurs ont désiré faire le même et ont en effet commencé. Or, il y a sujet d’espérer de grands biens de tout ceci, s’il plaît à Notre-Seigneur donner sa bénédiction à son œuvre, que je recommande particulièrement à vos prières. [^3] [^4]
+
+[^1]: Abelly se contente de dire que la lettre a été adressée à un prêtre de la Mission à Rome. Ce prêtre de la Mission ne peut être que M. du Coudray.
+
+[^2]: Ils venaient de donner une mission aux ouvriers qui bâtissaient l’église de la Visitation. (Abelly, *op. cit.*, t. II, chap. III, sect. I, p. 247.)
+
+[^3]: Abelly, *op, cit., *t. II, chap. II, sect. v, début, p. 233.
+
+[^4]: Cette lettre a été écrite peu après le 16 juillet, date de la première conférence ecclésiastique.

@@ -1,0 +1,7 @@
+# Lettre 413. À un Diacre de la Mission, aux Bons-Enfants
+
+15 décembre 1639.
+
+Ne pouvant avoir le bien de vous aller voir, comme je vous l’avais mandé, je vous prie par ces lignes de ne point céder à la tentation qui vous détourne de prendre le saint ordre de prêtrise, pour auquel parvenir vous avez fait quasi tout ce que vous avez fait depuis que vous êtes au monde. Disposez-vous-y donc, je vous en prie, pour le recevoir à cette ordination. Si vous différiez davantage, vous priveriez Dieu de la gloire qu’il en prétend, les bienheureux de la consolation qu’ils en auraient, les âmes du purgatoire du soulagement qu’elles en recevraient et toute l’Église militante des grâces que vous lui obtiendrez par vos sacrifices ; et qui pis est, vous réjouiriez le diable d’avoir eu le pouvoir de vous détourner de faire tous ces biens. De penser que vous en soyez une autre fois plus digne, ô Jésus ! il ne le faut pas espérer. De ne le faire jamais, Dieu vous garde d’avoir à répondre de cela devant Dieu ; ce serait enfouir le talent qu’il vous a mis en main, auquel cas les Saintes Écritures vous menacent d’un horrible châtiment. De dire que vous n’êtes pas capable d’un tel ordre et ne le serez jamais, je l’avoue, mon très cher frère, eu égard à l’infinie sainteté de l’œuvre ; mais, eu égard à notre misère, espérez que Notre-Seigneur sera votre capacité, comme il sera lui-même le sacrificateur avec vous. [^1]
+
+[^1]: Reg. 2, p. 280.

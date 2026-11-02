@@ -1,0 +1,2587 @@
+{
+  "id": "vincent-correspondance-i",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance de saint Vincent de Paul, tome I",
+    "en-US": "Correspondence of St. Vincent de Paul, vol. I",
+    "pt-BR": "Correspondência de São Vicente de Paulo, tomo I"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les lettres 1 à 416 de la Correspondance de saint Vincent, tome I de l’édition de Pierre Coste (1616-1639), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
+    "en-US": "Letters 1 to 416 of St. Vincent’s Correspondence, vol. I of Pierre Coste’s edition (1616-1639), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
+    "pt-BR": "As cartas 1 a 416 da Correspondência de São Vicente, tomo I da edição de Pierre Coste (1616-1639)."
+  },
+  "composed": "1616-1639",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/correspondance-i",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tome I; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All letters of the tome, one per chapter, including the letters to Vincent that Coste prints among them, with Coste’s source notices and footnotes kept as notes. Coste’s introduction is not included; letters whose heading the transcription lost stay inside the preceding chapter.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Année 1616"
+      },
+      "children": [
+        {
+          "id": "lettre-0001",
+          "title": {
+            "fr-FR": "Lettre 1. À Monsieur de Comet"
+          }
+        },
+        {
+          "id": "lettre-0002",
+          "title": {
+            "fr-FR": "Lettre 2. À Monsieur de Comet"
+          }
+        },
+        {
+          "id": "lettre-0003",
+          "title": {
+            "fr-FR": "Lettre 3. À sa Mère, à Pouy"
+          }
+        },
+        {
+          "id": "lettre-0004",
+          "title": {
+            "fr-FR": "Lettre 4. À Edme Mauljean, Vicaire Général de Sens"
+          }
+        },
+        {
+          "id": "lettre-0005",
+          "title": {
+            "fr-FR": "Lettre 5. Edme Mauljean à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Année 1617"
+      },
+      "children": [
+        {
+          "id": "lettre-0006",
+          "title": {
+            "fr-FR": "Lettre 6. À Philippe-Emmauel de Gondi (1), en Provence"
+          }
+        },
+        {
+          "id": "lettre-0007",
+          "title": {
+            "fr-FR": "Lettre 7. Madame de Gondi à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0008",
+          "title": {
+            "fr-FR": "Lettre 8. À Madame de Gondi"
+          }
+        },
+        {
+          "id": "lettre-0009",
+          "title": {
+            "fr-FR": "Lettre 9. Philippe-Emmanuel de Gondi à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0010",
+          "title": {
+            "fr-FR": "Lettre 10. À Charles du Fresne — Secrétaire de Philippe-Emmanuel de Gondi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-03",
+      "title": {
+        "fr-FR": "Année 1625"
+      },
+      "children": [
+        {
+          "id": "lettre-0011",
+          "title": {
+            "fr-FR": "Lettre 11. À Nicolas de Bailleul, Prévôt des Marchands"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-04",
+      "title": {
+        "fr-FR": "Année 1626"
+      },
+      "children": [
+        {
+          "id": "lettre-0012",
+          "title": {
+            "fr-FR": "Lettre 12. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0013",
+          "title": {
+            "fr-FR": "Lettre 13. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0014",
+          "title": {
+            "fr-FR": "Lettre 14. Louise de Marillac à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-05",
+      "title": {
+        "fr-FR": "Année 1627"
+      },
+      "children": [
+        {
+          "id": "lettre-0015",
+          "title": {
+            "fr-FR": "Lettre 15. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0016",
+          "title": {
+            "fr-FR": "Lettre 16. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0017",
+          "title": {
+            "fr-FR": "Lettre 17. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0018",
+          "title": {
+            "fr-FR": "Lettre 18. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0020",
+          "title": {
+            "fr-FR": "Lettre 20. Un Abbé à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0021",
+          "title": {
+            "fr-FR": "Lettre 21. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0022",
+          "title": {
+            "fr-FR": "Lettre 22. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0023",
+          "title": {
+            "fr-FR": "Lettre 23. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-06",
+      "title": {
+        "fr-FR": "Année 1628"
+      },
+      "children": [
+        {
+          "id": "lettre-0024",
+          "title": {
+            "fr-FR": "Lettre 24. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0025",
+          "title": {
+            "fr-FR": "Lettre 25. Commandeur de Sillery (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0026",
+          "title": {
+            "fr-FR": "Lettre 26. Au Pape Urbain VIII"
+          }
+        },
+        {
+          "id": "lettre-0027",
+          "title": {
+            "fr-FR": "Lettre 27. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0028",
+          "title": {
+            "fr-FR": "Lettre 28. Au Pape Urbain VIII"
+          }
+        },
+        {
+          "id": "lettre-0029",
+          "title": {
+            "fr-FR": "Lettre 29. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0030",
+          "title": {
+            "fr-FR": "Lettre 30. À François du Coudray, Prêtre de la Mission"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-07",
+      "title": {
+        "fr-FR": "Année 1629"
+      },
+      "children": [
+        {
+          "id": "lettre-0031",
+          "title": {
+            "fr-FR": "Lettre 31. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0032",
+          "title": {
+            "fr-FR": "Lettre 32. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0033",
+          "title": {
+            "fr-FR": "Lettre 33. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0034",
+          "title": {
+            "fr-FR": "Lettre 34. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0035",
+          "title": {
+            "fr-FR": "Lettre 35. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0036",
+          "title": {
+            "fr-FR": "Lettre 36. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0037",
+          "title": {
+            "fr-FR": "Lettre 37. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0038",
+          "title": {
+            "fr-FR": "Lettre 38. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0039",
+          "title": {
+            "fr-FR": "Lettre 39. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-08",
+      "title": {
+        "fr-FR": "Année 1630"
+      },
+      "children": [
+        {
+          "id": "lettre-0040",
+          "title": {
+            "fr-FR": "Lettre 40. À Louise de Marillac, à Saint-Cloud"
+          }
+        },
+        {
+          "id": "lettre-0041",
+          "title": {
+            "fr-FR": "Lettre 41. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0042",
+          "title": {
+            "fr-FR": "Lettre 42. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0043",
+          "title": {
+            "fr-FR": "Lettre 43. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0044",
+          "title": {
+            "fr-FR": "Lettre 44. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0045",
+          "title": {
+            "fr-FR": "Lettre 45. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0046",
+          "title": {
+            "fr-FR": "Lettre 46. À Louise de Marillac, à Villepreux"
+          }
+        },
+        {
+          "id": "lettre-0047",
+          "title": {
+            "fr-FR": "Lettre 47. À Louise de Marillac, à Villepreux"
+          }
+        },
+        {
+          "id": "lettre-0048",
+          "title": {
+            "fr-FR": "Lettre 48. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0049",
+          "title": {
+            "fr-FR": "Lettre 49. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0050",
+          "title": {
+            "fr-FR": "Lettre 50. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0051",
+          "title": {
+            "fr-FR": "Lettre 51. À Antoine Portail, Prêtre de la Mission, à Croissy"
+          }
+        },
+        {
+          "id": "lettre-0052",
+          "title": {
+            "fr-FR": "Lettre 52. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-0053",
+          "title": {
+            "fr-FR": "Lettre 53. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0054",
+          "title": {
+            "fr-FR": "Lettre 54. À Monsieur de Saint-Martin"
+          }
+        },
+        {
+          "id": "lettre-0055",
+          "title": {
+            "fr-FR": "Lettre 55. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0056",
+          "title": {
+            "fr-FR": "Lettre 56. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0057",
+          "title": {
+            "fr-FR": "Lettre 57. À Louise de Marillac, à Montmirail"
+          }
+        },
+        {
+          "id": "lettre-0058",
+          "title": {
+            "fr-FR": "Lettre 58. À Louise de Marillac, à Beauvais (l)"
+          }
+        },
+        {
+          "id": "lettre-0059",
+          "title": {
+            "fr-FR": "Lettre 59. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-09",
+      "title": {
+        "fr-FR": "Année 1631"
+      },
+      "children": [
+        {
+          "id": "lettre-0060",
+          "title": {
+            "fr-FR": "Lettre 60. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0062",
+          "title": {
+            "fr-FR": "Lettre 62. À Louise de Marillac, à Montreuil"
+          }
+        },
+        {
+          "id": "lettre-0063",
+          "title": {
+            "fr-FR": "Lettre 63. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0064",
+          "title": {
+            "fr-FR": "Lettre 64. À Louise de Marillac, à Montreuil"
+          }
+        },
+        {
+          "id": "lettre-0065",
+          "title": {
+            "fr-FR": "Lettre 65. À Louise de Marillac, à Montreuil"
+          }
+        },
+        {
+          "id": "lettre-0066",
+          "title": {
+            "fr-FR": "Lettre 66. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0067",
+          "title": {
+            "fr-FR": "Lettre 67. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0068",
+          "title": {
+            "fr-FR": "Lettre 68. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0069",
+          "title": {
+            "fr-FR": "Lettre 69. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0070",
+          "title": {
+            "fr-FR": "Lettre 70. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes"
+          }
+        },
+        {
+          "id": "lettre-0071",
+          "title": {
+            "fr-FR": "Lettre 71. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0072",
+          "title": {
+            "fr-FR": "Lettre 72. À François du Coudray, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0073",
+          "title": {
+            "fr-FR": "Lettre 73. À François du Coudray, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0074",
+          "title": {
+            "fr-FR": "Lettre 74. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0075",
+          "title": {
+            "fr-FR": "Lettre 75. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0076",
+          "title": {
+            "fr-FR": "Lettre 76. Au Curé de Bergères"
+          }
+        },
+        {
+          "id": "lettre-0077",
+          "title": {
+            "fr-FR": "Lettre 77. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0078",
+          "title": {
+            "fr-FR": "Lettre 78. À François du Coudray, Prêtre de la Mission à Rome"
+          }
+        },
+        {
+          "id": "lettre-0079",
+          "title": {
+            "fr-FR": "Lettre 79. Sainte Chantal à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0080",
+          "title": {
+            "fr-FR": "Lettre 80. À François du Coudray, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0081",
+          "title": {
+            "fr-FR": "Lettre 81. À Louise de Marillac, à Montmirail"
+          }
+        },
+        {
+          "id": "lettre-0082",
+          "title": {
+            "fr-FR": "Lettre 82. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0083",
+          "title": {
+            "fr-FR": "Lettre 83. À Louise de Marillac, au Mesnil"
+          }
+        },
+        {
+          "id": "lettre-0084",
+          "title": {
+            "fr-FR": "Lettre 84. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0085",
+          "title": {
+            "fr-FR": "Lettre 85. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0086",
+          "title": {
+            "fr-FR": "Lettre 86. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0087",
+          "title": {
+            "fr-FR": "Lettre 87. À Monsieur Colletot"
+          }
+        },
+        {
+          "id": "lettre-0088",
+          "title": {
+            "fr-FR": "Lettre 88. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0090",
+          "title": {
+            "fr-FR": "Lettre 90. À Jean de la Salle, Prêtre de la Mission, au Mesnil"
+          }
+        },
+        {
+          "id": "lettre-0091",
+          "title": {
+            "fr-FR": "Lettre 91. À Guillaume de Lestocq, Curé de Saint-Laurent"
+          }
+        },
+        {
+          "id": "lettre-0092",
+          "title": {
+            "fr-FR": "Lettre 92. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0093",
+          "title": {
+            "fr-FR": "Lettre 93. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0096",
+          "title": {
+            "fr-FR": "Lettre 96. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-10",
+      "title": {
+        "fr-FR": "Année 1632"
+      },
+      "children": [
+        {
+          "id": "lettre-0097",
+          "title": {
+            "fr-FR": "Lettre 97. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0098",
+          "title": {
+            "fr-FR": "Lettre 98. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0099",
+          "title": {
+            "fr-FR": "Lettre 99. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0100",
+          "title": {
+            "fr-FR": "Lettre 100. À François du Coudray, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0101",
+          "title": {
+            "fr-FR": "Lettre 101. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0102",
+          "title": {
+            "fr-FR": "Lettre 102. À N *"
+          }
+        },
+        {
+          "id": "lettre-0103",
+          "title": {
+            "fr-FR": "Lettre 103. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0104",
+          "title": {
+            "fr-FR": "Lettre 104. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0105",
+          "title": {
+            "fr-FR": "Lettre 105. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0106",
+          "title": {
+            "fr-FR": "Lettre 106. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0107",
+          "title": {
+            "fr-FR": "Lettre 107. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0108",
+          "title": {
+            "fr-FR": "Lettre 108. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0109",
+          "title": {
+            "fr-FR": "Lettre 109. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0110",
+          "title": {
+            "fr-FR": "Lettre 110. À Louise de Marillac, à Villeneuve-Saint-Georges"
+          }
+        },
+        {
+          "id": "lettre-0111",
+          "title": {
+            "fr-FR": "Lettre 111. À Louise de Marillac, à Villeneuve-Saint-Georges"
+          }
+        },
+        {
+          "id": "lettre-0112",
+          "title": {
+            "fr-FR": "Lettre 112. À François du Coudray, Prêtre de la Mission. à Rome"
+          }
+        },
+        {
+          "id": "lettre-0113",
+          "title": {
+            "fr-FR": "Lettre 113. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0114",
+          "title": {
+            "fr-FR": "Lettre 114. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0115",
+          "title": {
+            "fr-FR": "Lettre 115. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0116",
+          "title": {
+            "fr-FR": "Lettre 116. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0117",
+          "title": {
+            "fr-FR": "Lettre 117. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0118",
+          "title": {
+            "fr-FR": "Lettre 118. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0119",
+          "title": {
+            "fr-FR": "Lettre 119. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0120",
+          "title": {
+            "fr-FR": "Lettre 120. À Louise de Marillac, à Asnières"
+          }
+        },
+        {
+          "id": "lettre-0121",
+          "title": {
+            "fr-FR": "Lettre 121. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0122",
+          "title": {
+            "fr-FR": "Lettre 122. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0123",
+          "title": {
+            "fr-FR": "Lettre 123. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0124",
+          "title": {
+            "fr-FR": "Lettre 124. À François du Coudray, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0125",
+          "title": {
+            "fr-FR": "Lettre 125. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0126",
+          "title": {
+            "fr-FR": "Lettre 126. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-11",
+      "title": {
+        "fr-FR": "Année 1633"
+      },
+      "children": [
+        {
+          "id": "lettre-0127",
+          "title": {
+            "fr-FR": "Lettre 127. À N*"
+          }
+        },
+        {
+          "id": "lettre-0128",
+          "title": {
+            "fr-FR": "Lettre 128. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0129",
+          "title": {
+            "fr-FR": "Lettre 129. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0130",
+          "title": {
+            "fr-FR": "Lettre 130. Sainte Chantal à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0131",
+          "title": {
+            "fr-FR": "Lettre 131. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0132",
+          "title": {
+            "fr-FR": "Lettre 132. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0133",
+          "title": {
+            "fr-FR": "Lettre 133. À Michel Alix, Curé de Saint-Ouen-L’aumône"
+          }
+        },
+        {
+          "id": "lettre-0135",
+          "title": {
+            "fr-FR": "Lettre 135. Madame Goussault à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0136",
+          "title": {
+            "fr-FR": "Lettre 136. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0137",
+          "title": {
+            "fr-FR": "Lettre 137. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0138",
+          "title": {
+            "fr-FR": "Lettre 138. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0139",
+          "title": {
+            "fr-FR": "Lettre 139. - à Michel Alix, Curé de Saint-Ouen-L’aumône"
+          }
+        },
+        {
+          "id": "lettre-0140",
+          "title": {
+            "fr-FR": "Lettre 140. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0141",
+          "title": {
+            "fr-FR": "Lettre 141. À un Ecclésiastique"
+          }
+        },
+        {
+          "id": "lettre-0142",
+          "title": {
+            "fr-FR": "Lettre 142. À François du Coudray, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0143",
+          "title": {
+            "fr-FR": "Lettre 143. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0144",
+          "title": {
+            "fr-FR": "Lettre 144. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0145",
+          "title": {
+            "fr-FR": "Lettre 145. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0146",
+          "title": {
+            "fr-FR": "Lettre 146. À Alain de Solminihac"
+          }
+        },
+        {
+          "id": "lettre-0147",
+          "title": {
+            "fr-FR": "Lettre 147. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0148",
+          "title": {
+            "fr-FR": "Lettre 148. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0149",
+          "title": {
+            "fr-FR": "Lettre 149. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0150",
+          "title": {
+            "fr-FR": "Lettre 150. À Michel Alix, Curé de Saint-Ouen-L’aumône"
+          }
+        },
+        {
+          "id": "lettre-0151",
+          "title": {
+            "fr-FR": "Lettre 151. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0152",
+          "title": {
+            "fr-FR": "Lettre 152. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0153",
+          "title": {
+            "fr-FR": "Lettre 153. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0154",
+          "title": {
+            "fr-FR": "Lettre 154. Au Lieutenant de Gannes"
+          }
+        },
+        {
+          "id": "lettre-0155",
+          "title": {
+            "fr-FR": "Lettre 155. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0156",
+          "title": {
+            "fr-FR": "Lettre 156. À François du Coudray, Prêtre de la Mission, — À Rome"
+          }
+        },
+        {
+          "id": "lettre-0157",
+          "title": {
+            "fr-FR": "Lettre 157. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0158",
+          "title": {
+            "fr-FR": "Lettre 158. À Jacques Perdu"
+          }
+        },
+        {
+          "id": "lettre-0159",
+          "title": {
+            "fr-FR": "Lettre 159. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-12",
+      "title": {
+        "fr-FR": "Année 1634"
+      },
+      "children": [
+        {
+          "id": "lettre-0160",
+          "title": {
+            "fr-FR": "Lettre 160. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0161",
+          "title": {
+            "fr-FR": "Lettre 161. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0162",
+          "title": {
+            "fr-FR": "Lettre 162. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0163",
+          "title": {
+            "fr-FR": "Lettre 163. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0164",
+          "title": {
+            "fr-FR": "Lettre 164. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0165",
+          "title": {
+            "fr-FR": "Lettre 165. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0166",
+          "title": {
+            "fr-FR": "Lettre 166. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0167",
+          "title": {
+            "fr-FR": "Lettre 167. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0168",
+          "title": {
+            "fr-FR": "Lettre 168. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0169",
+          "title": {
+            "fr-FR": "Lettre 169. À Louise de Marillac, à Beauvais * (@)"
+          }
+        },
+        {
+          "id": "lettre-0170",
+          "title": {
+            "fr-FR": "Lettre 170. À Louise de Marillac *"
+          }
+        },
+        {
+          "id": "lettre-0171",
+          "title": {
+            "fr-FR": "Lettre 171. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0172",
+          "title": {
+            "fr-FR": "Lettre 172. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0173",
+          "title": {
+            "fr-FR": "Lettre 173. À Louise de Marillac, à Liancourt"
+          }
+        },
+        {
+          "id": "lettre-0174",
+          "title": {
+            "fr-FR": "Lettre 174. À Louise de Marillac, à Liancourt"
+          }
+        },
+        {
+          "id": "lettre-0175",
+          "title": {
+            "fr-FR": "Lettre 175. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0176",
+          "title": {
+            "fr-FR": "Lettre 176. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0177",
+          "title": {
+            "fr-FR": "Lettre 177. À François du Coudray, Prêtre de la Mission, — À Rome"
+          }
+        },
+        {
+          "id": "lettre-0178",
+          "title": {
+            "fr-FR": "Lettre 178. Au Pape Urbain VIII"
+          }
+        },
+        {
+          "id": "lettre-0179",
+          "title": {
+            "fr-FR": "Lettre 179. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0180",
+          "title": {
+            "fr-FR": "Lettre 180. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0181",
+          "title": {
+            "fr-FR": "Lettre 181. À Isabelle du Fay"
+          }
+        },
+        {
+          "id": "lettre-0182",
+          "title": {
+            "fr-FR": "Lettre 182. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0183",
+          "title": {
+            "fr-FR": "Lettre 183. À Madame Goussault"
+          }
+        },
+        {
+          "id": "lettre-0184",
+          "title": {
+            "fr-FR": "Lettre 184. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0185",
+          "title": {
+            "fr-FR": "Lettre 185. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0186",
+          "title": {
+            "fr-FR": "Lettre 186. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0187",
+          "title": {
+            "fr-FR": "Lettre 187. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0188",
+          "title": {
+            "fr-FR": "Lettre 188. À François du Coudray"
+          }
+        },
+        {
+          "id": "lettre-0189",
+          "title": {
+            "fr-FR": "Lettre 189. À Jean de Fonteneil"
+          }
+        },
+        {
+          "id": "lettre-0190",
+          "title": {
+            "fr-FR": "Lettre 190. À Monsieur Belin"
+          }
+        },
+        {
+          "id": "lettre-0192",
+          "title": {
+            "fr-FR": "Lettre 192. Jean de la Salle et Jean-Joseph Brunet"
+          }
+        },
+        {
+          "id": "lettre-0194",
+          "title": {
+            "fr-FR": "Lettre 194. À Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-13",
+      "title": {
+        "fr-FR": "Année 1635"
+      },
+      "children": [
+        {
+          "id": "lettre-0195",
+          "title": {
+            "fr-FR": "Lettre 195. À N. *"
+          }
+        },
+        {
+          "id": "lettre-0196",
+          "title": {
+            "fr-FR": "Lettre 196. À Guy-François de Montholon"
+          }
+        },
+        {
+          "id": "lettre-0197",
+          "title": {
+            "fr-FR": "Lettre 197. À Antoine Portail, Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0198",
+          "title": {
+            "fr-FR": "Lettre 198. À Antoine Lucas"
+          }
+        },
+        {
+          "id": "lettre-0199",
+          "title": {
+            "fr-FR": "Lettre 199. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0200",
+          "title": {
+            "fr-FR": "Lettre 200. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0201",
+          "title": {
+            "fr-FR": "Lettre 201. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0202",
+          "title": {
+            "fr-FR": "Lettre 202. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes"
+          }
+        },
+        {
+          "id": "lettre-0203",
+          "title": {
+            "fr-FR": "Lettre 203. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0204",
+          "title": {
+            "fr-FR": "Lettre 204. À Jean de Fonteneil"
+          }
+        },
+        {
+          "id": "lettre-0205",
+          "title": {
+            "fr-FR": "Lettre 205. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0206",
+          "title": {
+            "fr-FR": "Lettre 206. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0207",
+          "title": {
+            "fr-FR": "Lettre 207. À Clément de Bonzi, Évêque de Béziers"
+          }
+        },
+        {
+          "id": "lettre-0208",
+          "title": {
+            "fr-FR": "Lettre 208. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0209",
+          "title": {
+            "fr-FR": "Lettre 209. À Antoine Portail, Prêtre de la Mission, — Aux Cévennes"
+          }
+        },
+        {
+          "id": "lettre-0210",
+          "title": {
+            "fr-FR": "Lettre 210. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0211",
+          "title": {
+            "fr-FR": "Lettre 211. Sainte Chantal à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0212",
+          "title": {
+            "fr-FR": "Lettre 212. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0213",
+          "title": {
+            "fr-FR": "Lettre 213. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-14",
+      "title": {
+        "fr-FR": "Année 1636"
+      },
+      "children": [
+        {
+          "id": "lettre-0214",
+          "title": {
+            "fr-FR": "Lettre 214. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0215",
+          "title": {
+            "fr-FR": "Lettre 215. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0216",
+          "title": {
+            "fr-FR": "Lettre 216. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0217",
+          "title": {
+            "fr-FR": "Lettre 217. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0218",
+          "title": {
+            "fr-FR": "Lettre 218. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0219",
+          "title": {
+            "fr-FR": "Lettre 219. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0220",
+          "title": {
+            "fr-FR": "Lettre 220. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0221",
+          "title": {
+            "fr-FR": "Lettre 221. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0222",
+          "title": {
+            "fr-FR": "Lettre 222. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0223",
+          "title": {
+            "fr-FR": "Lettre 223. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0224",
+          "title": {
+            "fr-FR": "Lettre 224. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0225",
+          "title": {
+            "fr-FR": "Lettre 225. À Lambert aux Couteaux, Supérieur, à Toul"
+          }
+        },
+        {
+          "id": "lettre-0226",
+          "title": {
+            "fr-FR": "Lettre 226. Jean-Jacques Olier à Saint- Vincent — Et aux Prêtres de la Conférence des Mardis"
+          }
+        },
+        {
+          "id": "lettre-0227",
+          "title": {
+            "fr-FR": "Lettre 227. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0228",
+          "title": {
+            "fr-FR": "Lettre 228. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0229",
+          "title": {
+            "fr-FR": "Lettre 229. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0230",
+          "title": {
+            "fr-FR": "Lettre 230. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0231",
+          "title": {
+            "fr-FR": "Lettre 231. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0232",
+          "title": {
+            "fr-FR": "Lettre 232. À Antoine Portail, Prêtre de la Mission, à Pébrac"
+          }
+        },
+        {
+          "id": "lettre-0233",
+          "title": {
+            "fr-FR": "Lettre 233. À Monsieur de Saint Martin"
+          }
+        },
+        {
+          "id": "lettre-0234",
+          "title": {
+            "fr-FR": "Lettre 234. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0235",
+          "title": {
+            "fr-FR": "Lettre 235. À Robert de Sergis, Prêtre de la Mission, — À Luzarches"
+          }
+        },
+        {
+          "id": "lettre-0236",
+          "title": {
+            "fr-FR": "Lettre 236. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0237",
+          "title": {
+            "fr-FR": "Lettre 237. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0238",
+          "title": {
+            "fr-FR": "Lettre 238. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0239",
+          "title": {
+            "fr-FR": "Lettre 239. À Antoine Portail, Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0240",
+          "title": {
+            "fr-FR": "Lettre 240. À Madame Goussault"
+          }
+        },
+        {
+          "id": "lettre-0241",
+          "title": {
+            "fr-FR": "Lettre 241. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0242",
+          "title": {
+            "fr-FR": "Lettre 242. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0243",
+          "title": {
+            "fr-FR": "Lettre 243. À Robert de Sergis, Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0244",
+          "title": {
+            "fr-FR": "Lettre 244. À Robert de Sergis"
+          }
+        },
+        {
+          "id": "lettre-0245",
+          "title": {
+            "fr-FR": "Lettre 245. À Robert de Sergis, Prêtre de la Mission, à Amiens"
+          }
+        },
+        {
+          "id": "lettre-0246",
+          "title": {
+            "fr-FR": "Lettre 246. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0247",
+          "title": {
+            "fr-FR": "Lettre 247. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0248",
+          "title": {
+            "fr-FR": "Lettre 248. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0249",
+          "title": {
+            "fr-FR": "Lettre 249. À Robert de Sergis, Prêtre de la Mission, à Amiens"
+          }
+        },
+        {
+          "id": "lettre-0250",
+          "title": {
+            "fr-FR": "Lettre 250. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0251",
+          "title": {
+            "fr-FR": "Lettre 251. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0252",
+          "title": {
+            "fr-FR": "Lettre 252. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0253",
+          "title": {
+            "fr-FR": "Lettre 253. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0254",
+          "title": {
+            "fr-FR": "Lettre 254. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0255",
+          "title": {
+            "fr-FR": "Lettre 255. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0256",
+          "title": {
+            "fr-FR": "Lettre 256. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0257",
+          "title": {
+            "fr-FR": "Lettre 257. Sainte Chantal à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0258",
+          "title": {
+            "fr-FR": "Lettre 258. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0259",
+          "title": {
+            "fr-FR": "Lettre 259. À Jean de Fonteneil"
+          }
+        },
+        {
+          "id": "lettre-0260",
+          "title": {
+            "fr-FR": "Lettre 260. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0261",
+          "title": {
+            "fr-FR": "Lettre 261. À la Sœur Marie-Euphrosine Turpin"
+          }
+        },
+        {
+          "id": "lettre-0262",
+          "title": {
+            "fr-FR": "Lettre 262. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0263",
+          "title": {
+            "fr-FR": "Lettre 263. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0264",
+          "title": {
+            "fr-FR": "Lettre 264. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0265",
+          "title": {
+            "fr-FR": "Lettre 265. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0266",
+          "title": {
+            "fr-FR": "Lettre 266. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0267",
+          "title": {
+            "fr-FR": "Lettre 267. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-15",
+      "title": {
+        "fr-FR": "Année 1637"
+      },
+      "children": [
+        {
+          "id": "lettre-0268",
+          "title": {
+            "fr-FR": "Lettre 268. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0269",
+          "title": {
+            "fr-FR": "Lettre 269. À Antoine Collée, Supérieur, à Toul"
+          }
+        },
+        {
+          "id": "lettre-0270",
+          "title": {
+            "fr-FR": "Lettre 270. À Madame Goussault"
+          }
+        },
+        {
+          "id": "lettre-0271",
+          "title": {
+            "fr-FR": "Lettre 271. Lascaris, Grand Maître de l’Ordre de Malte, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0272",
+          "title": {
+            "fr-FR": "Lettre 272. À Charles de Montchal, Archevêque — De Toulouse"
+          }
+        },
+        {
+          "id": "lettre-0273",
+          "title": {
+            "fr-FR": "Lettre 273. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0274",
+          "title": {
+            "fr-FR": "Lettre 274. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0275",
+          "title": {
+            "fr-FR": "Lettre 275. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0276",
+          "title": {
+            "fr-FR": "Lettre 276. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0277",
+          "title": {
+            "fr-FR": "Lettre 277. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0278",
+          "title": {
+            "fr-FR": "Lettre 278. - à Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0280",
+          "title": {
+            "fr-FR": "Lettre 280. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0281",
+          "title": {
+            "fr-FR": "Lettre 281. L’Abbé de Saint-Cyran (1) à Saint-Vincent,"
+          }
+        },
+        {
+          "id": "lettre-0282",
+          "title": {
+            "fr-FR": "Lettre 282. À Monsieur Belin"
+          }
+        },
+        {
+          "id": "lettre-0283",
+          "title": {
+            "fr-FR": "Lettre 283. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0284",
+          "title": {
+            "fr-FR": "Lettre 284. À la Mère de la Trinité I"
+          }
+        },
+        {
+          "id": "lettre-0285",
+          "title": {
+            "fr-FR": "Lettre 285. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0286",
+          "title": {
+            "fr-FR": "Lettre 286. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0287",
+          "title": {
+            "fr-FR": "Lettre 287. À Bernard Codoing, Prêtre de la Mission à Romans"
+          }
+        },
+        {
+          "id": "lettre-0288",
+          "title": {
+            "fr-FR": "Lettre 288. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-16",
+      "title": {
+        "fr-FR": "Année 1638"
+      },
+      "children": [
+        {
+          "id": "lettre-0289",
+          "title": {
+            "fr-FR": "Lettre 289. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0290",
+          "title": {
+            "fr-FR": "Lettre 290. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0291",
+          "title": {
+            "fr-FR": "Lettre 291. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0293",
+          "title": {
+            "fr-FR": "Lettre 293. À Lambert aux Couteaux, Prêtre de la Mission, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0294",
+          "title": {
+            "fr-FR": "Lettre 294. À Antoine Lucas"
+          }
+        },
+        {
+          "id": "lettre-0295",
+          "title": {
+            "fr-FR": "Lettre 295. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0296",
+          "title": {
+            "fr-FR": "Lettre 296. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0297",
+          "title": {
+            "fr-FR": "Lettre 297. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0298",
+          "title": {
+            "fr-FR": "Lettre 298. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0299",
+          "title": {
+            "fr-FR": "Lettre 299. À Robert de Sergis"
+          }
+        },
+        {
+          "id": "lettre-0300",
+          "title": {
+            "fr-FR": "Lettre 300. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0301",
+          "title": {
+            "fr-FR": "Lettre 301. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0302",
+          "title": {
+            "fr-FR": "Lettre 302. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0303",
+          "title": {
+            "fr-FR": "Lettre 303. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0304",
+          "title": {
+            "fr-FR": "Lettre 304. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0305",
+          "title": {
+            "fr-FR": "Lettre 305. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0306",
+          "title": {
+            "fr-FR": "Lettre 306. À Lambert aux Couteaux"
+          }
+        },
+        {
+          "id": "lettre-0307",
+          "title": {
+            "fr-FR": "Lettre 307. À Antoine Lucas"
+          }
+        },
+        {
+          "id": "lettre-0308",
+          "title": {
+            "fr-FR": "Lettre 308. À la Mère de la Trinité"
+          }
+        },
+        {
+          "id": "lettre-0309",
+          "title": {
+            "fr-FR": "Lettre 309. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0310",
+          "title": {
+            "fr-FR": "Lettre 310. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0311",
+          "title": {
+            "fr-FR": "Lettre 311. À Lambert aux Couteaux"
+          }
+        },
+        {
+          "id": "lettre-0312",
+          "title": {
+            "fr-FR": "Lettre 312. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0313",
+          "title": {
+            "fr-FR": "Lettre 313. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0314",
+          "title": {
+            "fr-FR": "Lettre 314. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0315",
+          "title": {
+            "fr-FR": "Lettre 315. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0316",
+          "title": {
+            "fr-FR": "Lettre 316. À Lambert aux Couteaux"
+          }
+        },
+        {
+          "id": "lettre-0317",
+          "title": {
+            "fr-FR": "Lettre 317. À Jean Bécu"
+          }
+        },
+        {
+          "id": "lettre-0318",
+          "title": {
+            "fr-FR": "Lettre 318. À Léonard Boucher"
+          }
+        },
+        {
+          "id": "lettre-0319",
+          "title": {
+            "fr-FR": "Lettre 319. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0320",
+          "title": {
+            "fr-FR": "Lettre 320. — à Lambert aux Couteaux"
+          }
+        },
+        {
+          "id": "lettre-0321",
+          "title": {
+            "fr-FR": "Lettre 321. Au Duc d’Atri"
+          }
+        },
+        {
+          "id": "lettre-0322",
+          "title": {
+            "fr-FR": "Lettre 322. À Antoine Portail, Prêtre de la Mission, — À Fréneville"
+          }
+        },
+        {
+          "id": "lettre-0323",
+          "title": {
+            "fr-FR": "Lettre 323. À Jean Bécu"
+          }
+        },
+        {
+          "id": "lettre-0324",
+          "title": {
+            "fr-FR": "Lettre 324. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0325",
+          "title": {
+            "fr-FR": "Lettre 325. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0326",
+          "title": {
+            "fr-FR": "Lettre 326. À Jean Bécu"
+          }
+        },
+        {
+          "id": "lettre-0327",
+          "title": {
+            "fr-FR": "Lettre 327. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0328",
+          "title": {
+            "fr-FR": "Lettre 328. À Nicolas Marceille"
+          }
+        },
+        {
+          "id": "lettre-0329",
+          "title": {
+            "fr-FR": "Lettre 329. À Jean Bécu"
+          }
+        },
+        {
+          "id": "lettre-0330",
+          "title": {
+            "fr-FR": "Lettre 330. À Jean Dehorgny"
+          }
+        },
+        {
+          "id": "lettre-0331",
+          "title": {
+            "fr-FR": "Lettre 331. À Jean de la Salle"
+          }
+        },
+        {
+          "id": "lettre-0332",
+          "title": {
+            "fr-FR": "Lettre 332. À Denis de Cordes"
+          }
+        },
+        {
+          "id": "lettre-0333",
+          "title": {
+            "fr-FR": "Lettre 333. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0335",
+          "title": {
+            "fr-FR": "Lettre 335. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0336",
+          "title": {
+            "fr-FR": "Lettre 336. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0337",
+          "title": {
+            "fr-FR": "Lettre 337. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0338",
+          "title": {
+            "fr-FR": "Lettre 338. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0339",
+          "title": {
+            "fr-FR": "Lettre 339. À Robert de Sergis"
+          }
+        },
+        {
+          "id": "lettre-0340",
+          "title": {
+            "fr-FR": "Lettre 340. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0343",
+          "title": {
+            "fr-FR": "Lettre 343. À Bernard Codoing, Prêtre de la Mission, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0344",
+          "title": {
+            "fr-FR": "Lettre 344. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0346",
+          "title": {
+            "fr-FR": "Lettre 346. À Madame Goussault"
+          }
+        },
+        {
+          "id": "lettre-0347",
+          "title": {
+            "fr-FR": "Lettre 347. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0348",
+          "title": {
+            "fr-FR": "Lettre 348. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0349",
+          "title": {
+            "fr-FR": "Lettre 349. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0350",
+          "title": {
+            "fr-FR": "Lettre 350. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0351",
+          "title": {
+            "fr-FR": "Lettre 351. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0352",
+          "title": {
+            "fr-FR": "Lettre 352. À Lambert aux Couteaux"
+          }
+        },
+        {
+          "id": "lettre-0353",
+          "title": {
+            "fr-FR": "Lettre 353. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0354",
+          "title": {
+            "fr-FR": "Lettre 354. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0355",
+          "title": {
+            "fr-FR": "Lettre 355. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0357",
+          "title": {
+            "fr-FR": "Lettre 357. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0358",
+          "title": {
+            "fr-FR": "Lettre 358. À Lambert aux Couteaux, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0359",
+          "title": {
+            "fr-FR": "Lettre 359. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0360",
+          "title": {
+            "fr-FR": "Lettre 360. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0361",
+          "title": {
+            "fr-FR": "Lettre 361. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0362",
+          "title": {
+            "fr-FR": "Lettre 362. À Madame Goussault"
+          }
+        },
+        {
+          "id": "lettre-0363",
+          "title": {
+            "fr-FR": "Lettre 363. À Bernard Codoing, Prêtre de la Mission à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0364",
+          "title": {
+            "fr-FR": "Lettre 364. À Antoine Lucas"
+          }
+        },
+        {
+          "id": "lettre-0365",
+          "title": {
+            "fr-FR": "Lettre 365. À Robert de Sergis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-17",
+      "title": {
+        "fr-FR": "Année 1639"
+      },
+      "children": [
+        {
+          "id": "lettre-0366",
+          "title": {
+            "fr-FR": "Lettre 366. À Pierre du Chesne"
+          }
+        },
+        {
+          "id": "lettre-0367",
+          "title": {
+            "fr-FR": "Lettre 367. À Pierre du Chesne"
+          }
+        },
+        {
+          "id": "lettre-0368",
+          "title": {
+            "fr-FR": "Lettre 368. À Robert de Sergis"
+          }
+        },
+        {
+          "id": "lettre-0369",
+          "title": {
+            "fr-FR": "Lettre 369. À Pierre du Chesne"
+          }
+        },
+        {
+          "id": "lettre-0370",
+          "title": {
+            "fr-FR": "Lettre 370. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0371",
+          "title": {
+            "fr-FR": "Lettre 371. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0372",
+          "title": {
+            "fr-FR": "Lettre 372. - à Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0373",
+          "title": {
+            "fr-FR": "Lettre 373. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0374",
+          "title": {
+            "fr-FR": "Lettre 374. À Adrien Bourdoise"
+          }
+        },
+        {
+          "id": "lettre-0375",
+          "title": {
+            "fr-FR": "Lettre 375. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0376",
+          "title": {
+            "fr-FR": "Lettre 376. À Louis Lebreton"
+          }
+        },
+        {
+          "id": "lettre-0377",
+          "title": {
+            "fr-FR": "Lettre 377. À Robert de Sergis, Prêtre de la Mission, à Toulouse"
+          }
+        },
+        {
+          "id": "lettre-0378",
+          "title": {
+            "fr-FR": "Lettre 378. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0379",
+          "title": {
+            "fr-FR": "Lettre 379. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0380",
+          "title": {
+            "fr-FR": "Lettre 380. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0381",
+          "title": {
+            "fr-FR": "Lettre 381. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0382",
+          "title": {
+            "fr-FR": "Lettre 382. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0383",
+          "title": {
+            "fr-FR": "Lettre 383. À Sainte Jeanne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0384",
+          "title": {
+            "fr-FR": "Lettre 384. À Leonard Boucher, Prêtre de la Mission, à Toul"
+          }
+        },
+        {
+          "id": "lettre-0385",
+          "title": {
+            "fr-FR": "Lettre 385. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0386",
+          "title": {
+            "fr-FR": "Lettre 386. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0387",
+          "title": {
+            "fr-FR": "Lettre 387. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0388",
+          "title": {
+            "fr-FR": "Lettre 388. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0389",
+          "title": {
+            "fr-FR": "Lettre 389. Sainte Chantal à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0390",
+          "title": {
+            "fr-FR": "Lettre 390. À Sainte Jeanne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0391",
+          "title": {
+            "fr-FR": "Lettre 391. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0392",
+          "title": {
+            "fr-FR": "Lettre 392. À la Mère de la Trinité"
+          }
+        },
+        {
+          "id": "lettre-0393",
+          "title": {
+            "fr-FR": "Lettre 393. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0394",
+          "title": {
+            "fr-FR": "Lettre 394. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0395",
+          "title": {
+            "fr-FR": "Lettre 395. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0396",
+          "title": {
+            "fr-FR": "Lettre 396. À Nicolas Sanguin, Évêque de Senlis"
+          }
+        },
+        {
+          "id": "lettre-0397",
+          "title": {
+            "fr-FR": "Lettre 397. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0398",
+          "title": {
+            "fr-FR": "Lettre 398. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0399",
+          "title": {
+            "fr-FR": "Lettre 399. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0400",
+          "title": {
+            "fr-FR": "Lettre 400. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0401",
+          "title": {
+            "fr-FR": "Lettre 401. À la Mère de la Trinité"
+          }
+        },
+        {
+          "id": "lettre-0402",
+          "title": {
+            "fr-FR": "Lettre 402. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0403",
+          "title": {
+            "fr-FR": "Lettre 403. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0404",
+          "title": {
+            "fr-FR": "Lettre 404. À Louis Lebreton, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0405",
+          "title": {
+            "fr-FR": "Lettre 405. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0406",
+          "title": {
+            "fr-FR": "Lettre 406. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0407",
+          "title": {
+            "fr-FR": "Lettre 407. À Benoît Bécu, Prêtre de la Mission, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0408",
+          "title": {
+            "fr-FR": "Lettre 408. À Louis Lebreton"
+          }
+        },
+        {
+          "id": "lettre-0409",
+          "title": {
+            "fr-FR": "Lettre 409. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0410",
+          "title": {
+            "fr-FR": "Lettre 410. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0411",
+          "title": {
+            "fr-FR": "Lettre 411. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0412",
+          "title": {
+            "fr-FR": "Lettre 412. À Nicolas Durot, Prêtre de la Mission, à Toulouse"
+          }
+        },
+        {
+          "id": "lettre-0413",
+          "title": {
+            "fr-FR": "Lettre 413. À un Diacre de la Mission, aux Bons-Enfants"
+          }
+        },
+        {
+          "id": "lettre-0414",
+          "title": {
+            "fr-FR": "Lettre 414. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0415",
+          "title": {
+            "fr-FR": "Lettre 415. À Louise de Marillac à Angers"
+          }
+        },
+        {
+          "id": "lettre-0416",
+          "title": {
+            "fr-FR": "Lettre 416. À Guy Lasnier de Vaux"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
