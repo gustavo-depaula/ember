@@ -1,0 +1,90 @@
+{
+  "id": "eudes-exercice-de-piete",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Exercice de piété",
+    "en-US": "Exercise of Piety",
+    "pt-BR": "Exercício de piedade"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le petit manuel de 1636 pour les fidèles : exercices du matin, de la journée, du soir, de la confession et de la communion.",
+    "en-US": "The little manual of 1636 for the faithful: exercises for morning, day, evening, confession and communion.",
+    "pt-BR": "O pequeno manual de 1636 para os fiéis: exercícios da manhã, do dia, da noite, da confissão e da comunhão."
+  },
+  "composed": 1636,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/exercice-de-piete",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_2)_000000347.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 2, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ex-01",
+      "title": {
+        "fr-FR": "Exercice de piété (1)"
+      }
+    },
+    {
+      "id": "ex-02",
+      "title": {
+        "fr-FR": "Exercice de piété (2): Protestation qu'il est bon de faire en la présence"
+      }
+    },
+    {
+      "id": "ex-03",
+      "title": {
+        "fr-FR": "Exercice de piété (3): Jésus maria, jésus maria, jésus maria"
+      }
+    },
+    {
+      "id": "ex-04",
+      "title": {
+        "fr-FR": "Exercice de piété (4): Exercice pour le matin"
+      }
+    },
+    {
+      "id": "ex-05",
+      "title": {
+        "fr-FR": "Exercice de piété (5): Exercice pour le soir"
+      }
+    },
+    {
+      "id": "ex-06",
+      "title": {
+        "fr-FR": "Exercice de piété (6): Le salut assuré"
+      }
+    },
+    {
+      "id": "ex-07",
+      "title": {
+        "fr-FR": "Exercice de piété (7): La prière en famille"
+      }
+    },
+    {
+      "id": "ex-08",
+      "title": {
+        "fr-FR": "Exercice de piété (8): Oremus"
+      }
+    }
+  ]
+}
