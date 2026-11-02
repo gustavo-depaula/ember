@@ -13,7 +13,7 @@ AU = {'la': 'Thomas a Kempis', 'en-US': 'Thomas à Kempis', 'pt-BR': 'Tomás de 
 def title_of(p):
     t = re.sub(r'^[€¢\s]+', '', p).strip().rstrip('.:')
     t = re.sub(r'\s+', ' ', t)
-    t = re.sub(r'\b(god|christ|christi|jesus|iesu|iesus|lord|mary|mariae|dei|domini|domine|david|agnetis|john|joseph|peter|paul|spiritus|sancti|ghost|holy|virgin|virginis|lazarus|ioseph|petri)\b', lambda m: m.group(1).capitalize(), t)
+    t = re.sub(r'\b(god|christ|christi|jesus|iesu|iesus|lord|mary|mariae|dei|domini|domine|david|agnetis|john|joseph|peter|paul|spiritus|sancti|ghost|holy|virgin|virginis|lazarus|ioseph|petri|lydwine|schiedam|holland|zeeland|brugman|gerard|john|elizabeth|william|jesus|christ.s)\b', lambda m: m.group(1).capitalize(), t)
     return t[:160]
 
 
@@ -85,11 +85,11 @@ def md(title, body):
 
 def build(spec, pt_names=None):
     d = ROOT + spec['slug']
-    langs = ['la'] + (['en-US'] if spec.get('en') else [])
-    data = {'la': chapters(spec['la'], 'la')}
+    langs = (['la'] if spec.get('la') else []) + (['en-US'] if spec.get('en') else [])
+    data = {'la': chapters(spec['la'], 'la')} if spec.get('la') else {}
     if spec.get('en'):
         data['en-US'] = chapters(spec['en'], 'en')
-        assert len(data['la'][1]) == len(data['en-US'][1]), (len(data['la'][1]), len(data['en-US'][1]))
+        assert 'la' not in data or len(data['la'][1]) == len(data['en-US'][1]), (len(data['la'][1]), len(data['en-US'][1]))
     toc, counts = [], {}
     wc = {l: 0 for l in langs}
     nodes = {}
@@ -97,7 +97,7 @@ def build(spec, pt_names=None):
     for lang in langs:
         os.makedirs(f'{d}/{lang}', exist_ok=True)
         pre, res = data[lang]
-        if spec.get('preface'):
+        if spec.get('preface') and spec['preface'].get(lang):
             t = spec['preface'][lang]
             s = md(t, pre)
             open(f'{d}/{lang}/praefatio.md', 'w').write(s)
@@ -112,21 +112,28 @@ def build(spec, pt_names=None):
             open(f'{d}/{lang}/{cid}.md', 'w').write(s)
             wc[lang] += len(s.split())
             nodes.setdefault(cid, {'id': cid, 'g': gi, 'title': {}})['title'][lang] = t
-    if spec.get('preface'):
+    extra_nodes = {}
+    for ex in spec.get('extras', []):
+        L = open(spec['en']['file'], errors='replace').read().split('\n')
+        body = mend(clean_en(L[ex['start']:ex['end']]))
+        open(f"{d}/en-US/{ex['id']}.md", 'w').write(md(ex['title'], body))
+        wc['en-US'] += len(' '.join(body).split())
+        extra_nodes.setdefault(ex['gi'], []).append({'id': ex['id'], 'title': {'en-US': ex['title']}})
+    if spec.get('preface') and spec['preface'].get('en-US' if 'la' not in data else 'la'):
         toc.append({'id': 'praefatio', 'title': dict(spec['preface'])})
     gs = {}
     for cid, nd in nodes.items():
         gs.setdefault(nd['g'], []).append({'id': cid, 'title': nd['title']})
     if len(spec['groups']) > 1:
         for g, ch in sorted(gs.items()):
-            toc.append({'id': f'part-{g + 1}', 'title': spec['groups'][g], 'children': ch})
+            toc.append({'id': f'part-{g + 1}', 'title': spec['groups'][g], 'children': extra_nodes.get(g, []) + ch})
     else:
         toc += gs[0]
     book = {'id': spec['id'], 'cover': 'classic', 'name': spec['name'], 'author': AU, 'description': spec['description'],
             'composed': spec['composed'], 'languages': langs, 'work': 'thomas-a-kempis/' + spec['work'],
             'editions': spec['editions'], 'sources': spec['sources'], 'toc': toc}
     bookjson.write(d, book)
-    for lang, f in (('la', spec['la']['file']), ('en-US', spec.get('en', {}).get('file') if spec.get('en') else None)):
+    for lang, f in (('la', spec['la']['file'] if spec.get('la') else None), ('en-US', spec['en']['file'] if spec.get('en') else None)):
         if f:
             os.makedirs(f'{d}/sources/{lang}-originals', exist_ok=True)
             os.system(f"cp '{f}' '{d}/sources/{lang}-originals/'")
