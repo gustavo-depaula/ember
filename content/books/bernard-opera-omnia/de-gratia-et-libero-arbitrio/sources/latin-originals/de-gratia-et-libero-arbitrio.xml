@@ -1,0 +1,2072 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De gratia et libero arbitrio</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.DeGrEtL4</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>602</emph> ADMONITIO IN OPUSCULUM IX.</head>
+<p> <hi>Hoc opusculum Bernardus ante annum 1128 composuit, id est ante annum aetatis suae tricesimum octavum.
+Agit de Gratia et Libero Arbitrio, ex occasione cujusdam collationis cum homine nescio quo, cui sanctus
+Doctor nimium gratiae tribuisse visus fuerat, quasi nihil reliqui libero arbitrio faceret in actibus humanis.
+Praecipuus ergo libri scopus est, quae sint gratiae, quae liberi arbitrii partes in negotio salutis. Hic multa docentur
+de libero arbitrio Dei, angeli, et hominis, integri, lapsi, et beati: item de gratia primi hominis ante et
+post lapsum. Parvus liber, sed qui plus succi et solidae doctrinae contineat, quam magna librorum volumina,
+quae de hoc theologico argumento pertractant. Stilus vegetus, vivaci ingenio et lumine plenus: verba propria
+et materiae accommoda; oratio facilis, non arte quaesita, sed quasi naturalis; non obesa et exilis, sed pinguis
+et nervosa: elegans, concinna, et jucunda; non trivialibus scholae verbis languens, non barbara, aut inculta.
+Non ita pressa, ut parce et guttatim fluat; nec tamen ita profusa, ut torrentis instar, quasi rupto aggere et siccato
+alveo, erumpat: sed pari tenore et gravi majestate aequaliter profluens, fontem indicat indeficientem, qui non
+ex alieno plenus sit, sed ex proprio, imo ex Dei dono, atque ex continua Scripturae meditatione, praesertim
+Apostoli, n. 48. De isto opusculo Gaufridus in libro tertio de Vita Bernardi, capite octavo, agens:  « Quam
+non ingratus, »  inquit,  « gratiae Dei, ex his liquet, quae de Gratia et Libero Arbitrio, tam fideliter, quam subtiliter
+disputavit. »  Nec praetermittenda verba epistolae quinquagesimae secundae, ad Haimericum cardinalem,
+quae sub annum 1128 scripta est:  « Quaesivit a me praefatus episcopus »  Gaufridus Carnotensis  « aliqua ex
+nostris Opusculis quae vobis mitteret: sed non fuit ad manum, quod vestro dignum crederem studio. Libellum
+tamen de Gratia et Libero Arbitrio nuper edidi: illum vobis libenter mittam, cum vos velle cognovero. » 
+Directus est libellus Guillelmo Sancti-Theoderici abbati, singulari Bernardi amico, ad quem Apologia superius
+edita, et epistolae complures. Nullam capitum divisionem habent codices antiquiores, sed recentiores. Vulgatum
+et receptam satius retinere visum est.</hi> </p>
+</div1>
+
+<div1>
+        <head> <emph>603</emph> PRAEFATIO.</head>
+
+<pb n="1001A"/>
+<p>Domno GUILLELMO abbati Sancti-Theoderici, frater
+BERNARDUS.</p>
+<p>Opusculum de gratia et Libero Arbitrio, quod illa,
+qua scitis, occasione nuper aggressus sum; eadem
+gratia [ <hi>al.</hi> Deo] adjuvante peregi ut potui. Vereor au
+tem, ne aut grandia minus digne locutus inveniar, aut
+pertractata a pluribus superfluo retractasse. Proinde
+illud legite primus, et si judicatis, solus: ne si proferatur
+in medium, magis forte scriptoris publicetur
+temeritas, quam lectoris aedificetur charitas. Quod
+si palam fieri utile probaveritis, tunc si quid obscurius
+dictum adverteritis, quod in re obscura, servata
+congrua brevitate, dici planius potuisset, non sit
+vobis pigrum aut emendare per vos, aut mihi resignare
+<pb n="1001B"/>
+emendandum, si fraudari non vultis promissione
+illa Sapientiae, quae ait: <hi>Qui elucidant me, vitam
+aeternam habebunt <note>(Eccli. XXIV, 31)</note>
+          </hi>.
+</p>
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Ad boni operis meritum, una cum gratia Dei, concurrere liberi arbitrii consensum</hi> </head>
+<div3>
+            <head>1.</head>
+            <p>
+ Loquente me coram aliquando, et Dei in me
+gratiam commendante, quod scilicet ab ipsa me in
+bono et praeventum agnoscerem, et provehi sentirem,
+et sperarem perficiendum: Quid tu ergo, ait unus
+ex circumstantibus, operaris; aut quid mercedis
+speras vel praemii, si totum facit Deus? Quid enim,
+inquam, tu consulis? Da, inquit, gloriam Deo, qui
+gratis te praevenit, excitavit, initiavit; et vive digne
+<pb n="1001C"/>
+de caetero, quo te probes et perceptis beneficiis non
+ingratum, et percipiendis idoneum. Et ego: Bonum,
+inquam, consilium das, sed si dederis et posse teneri.
+Siquidem non est ejusdem facilitatis scire quid faciendum
+sit, et facere: quoniam et diversa sunt, caeco
+ducatum, ac fesso praebere vehiculum. Non quicunque
+ostendit viam, praebet etiam viaticum itineranti.
+Aliud illi exhibet qui facit ne deviet; et aliud qui
+praestat ne deficiat in via. Ita nec quivis doctor, statim
+et dator erit boni quodcunque docuerit. Porro
+duo mihi sunt necessaria, doceri ac juvari. Tu homo
+recte quidem consulis ignorantiae: sed, si verum
+sentit Apostolus, <hi>Spiritus adjuvat infirmitatem nostram <note>(Rom. VIII, 26)</note>
+            </hi>.
+Imo vero qui mihi per os
+tuum ministrat consilium, ipse necesse est ministret
+<pb n="1002A"/>
+et per suum Spiritum adjutorium, quo valeam implere
+quod consulis. Ecce enim jam ex ejus munere
+velle adjacet mihi, perficere autem non invenio <note>(Id. VII, 18)</note>;
+sed nec aliquando me inventurum confido,
+nisi qui dedit velle, det et perficere pro bona
+voluntate <note>(Philipp. II, 13)</note>. Ubi ergo, ais, sunt merita
+nostra; aut ubi est spes nostra? Audi, inquam: <hi>Non ex operibus justitiae quae fecimus nos, sed secundum
+suam misericordiam salvos nos fecit 
+ <note>(I Tit. III, 5)</note>
+            </hi>.
+Quid enim? Tu forte putaveras tua te creasse merita,
+tua posse salvari justitia, qui nec saltem Dominum
+Jesum dicere potes nisi in Spiritu sancto <note>(I Cor.
+XII, 3)</note>? Itane oblitus es quis dixerit: <hi>Sine me nihil
+potestis facere? <note>(Joan. XV, 5)</note>
+            </hi> et: <hi>Neque currentis,
+neque volentis, sed miserentis est Dei? <note>(Rom. IX, 16.)</note>
+            </hi> 
+<pb n="1002B"/>
+</p>
+          </div3>
+<div3>
+            <head>2. </head>
+            <p>
+Quid igitur agit, ais, liberum arbitrium? Breviter
+respondeo: Salvatur. Tolle liberum arbitrium,
+et non erit quod salvetur: tolle gratiam, non erit
+unde salvetur. Opus hoc sine duobus effici non potest:
+uno a quo fit; altero cui, vel in quo fit. Deus
+auctor est <emph>604</emph> salutis, liberum arbitrium tantum
+capax: nec dare illam, nisi Deus; nec capere valet,
+nisi liberum arbitrium. Quod ergo a solo Deo, et
+soli datur libero arbitrio; tam absque consensu esse
+[ <hi>al.</hi> effici] non potest accipientis, quam absque gratia
+dantis. Et ita gratiae operanti salutem cooperari
+dicitur liberum arbitrium, dum consentit, hoc
+est dum salvatur. Consentire enim salvari est. Proinde
+pecoris spiritus salutem hujuscemodi minime capit,
+<pb n="1002C"/>
+eo quod illi voluntarius consensus desit, quo salvanti
+videlicet Deo placide obtemperet, sive jubenti acquiescendo,
+sive pollicenti credendo, sive reddenti
+gratias agendo. Enim vero aliud est voluntarius
+consensus, aliud naturalis appetitus. Posterior quippe
+nobis communis est cum irrationalibus: nec valet
+consentire spiritui, carnis irretitus illecebris. Et fortassis
+ipse est, qui alio nomine ab Apostolo sapientia
+carnis appellatur, ubi ait: <hi>Sapientia carnis inimica
+est Deo: legi enim Dei non est subjecta, nec
+enim potest <note>(Id. VIII, 7)</note>
+            </hi>. Hunc ergo, ut dixi, communem
+habentes cum bestiis, consensus voluntarius nos
+discernit. Est enim habitus animi, liber sui. Siquidem
+non cogitur, non extorquetur. Est quippe voluntatis,
+non necessitatis; nec negat se, nec praebet
+<pb n="1003A"/>
+cuiquam, nisi ex voluntate. Alioquin si compelli
+valet invitus, violentus est, non voluntarius. Ubi
+autem voluntas non est, nec consensus. Non enim
+est consensus, nisi voluntarius. Ubi ergo consensus,
+ibi voluntas. Porro ubi voluntas, ibi libertas. Et hoc
+est quod dici puto liberum arbitrium.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II. <hi>Quid liberum arbitrium, seu in quo consistat libertas.</hi> </head>
+<div3>
+            <head>3.</head>
+            <p>
+ Sed ut manifestius fiat quod dicitur, et competentius
+ad id quod volumus veniamus, paulo altius
+aestimo repetendum. In rebus naturalibus [ <hi>al.</hi> 
+materialibus] non est id vita, quod sensus; non sensus,
+quod appetitus; nec ille, quod consensus. Quod
+ex singulorum definitionibus clarius elucebit. Est
+enim in quolibet corpore vita, internus ac naturalis
+<pb n="1003B"/>
+motus, vigens tantum intrinsecus. Sensus vero,
+vitalis in corpore motus, vigens et extrinsecus.
+Appetitus autem naturalis, vis in animante, movendis
+avide sensibus attributa. Verum consensus, nutus
+est voluntatis spontaneus, vel certe (quod superius
+dixisse me memini) habitus animi, liber sui.
+Porro voluntas est motus rationalis, et sensui praesidens,
+et appetitui. Habet sane, quocunque se volverit,
+semper rationem comitem, et quodammodo
+pedissequam: non quod semper ex ratione, sed quod
+nunquam absque ratione moveatur, ita ut multa
+faciat per ipsam contra ipsam, hoc est quasi per
+ejus ministerium, contra ejus consilium sive judicium.
+Unde est illud: <hi>Prudentiores sunt filii hujus
+<pb n="1003C"/>
+saeculi filiis lucis in generatione sua <note>(Luc. XVI, 8)</note>
+            </hi>;
+et rursum: <hi>Sapientes sunt ut faciant mala <note>(Jerem. IV,
+22)</note>
+            </hi>. Neque enim prudentia seu sapientia inesse creaturae
+potest, vel in malo, nisi utique per rationem.</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Est vero ratio data voluntati ut instruat illam,
+non destruat. Destrueret autem, si necessitatem ei
+ullam imponeret, quominus libere pro arbitrio sese
+volveret, sive in malum consentiens appetitui, aut
+nequam spiritui; ut sit animalis, non percipiens,
+vel certe et persequens ea quae sunt spiritus Dei:
+sive ad bonum gratiam sequens, et fiat spiritualis;
+quae omnia dijudicans, ipsa a nemine judicetur. Si,
+inquam, horum quodlibet prohibente ratione voluntas
+non posset, <emph>605</emph> voluntas jam non esset. Ubi
+quippe necessitas, jam non voluntas. Quod si ex
+<pb n="1003D"/>
+necessitate, et absque consensu propriae voluntatis,
+justa, injustave fieri possent; rationalis creatura,
+aut misera profecto esse nulla ratione deberet;
+aut beata penitus non posset, cui nimirum in utravis
+parte id deesset, quod solum in ea miseriae, sive
+beatitudinis capax est, id est voluntas. Caetera siquidem,
+quae supra memorata sunt, vita, sensus, vel
+appetitus, nec miserum per se faciunt, nec beatum.
+Alioquin et arbores ex vita, et pecudes etiam ex
+reliquis duobus, vel miseriae possent esse obnoxiae,
+vel idoneae beatitudini: quod omnino impossibile
+est. Communem itaque habentes, vitam quidem cum
+arboribus, sensum vero et appetitum, et aeque vitam
+<pb n="1004A"/>
+cum pecoribus; id quod dicitur voluntas, nos ab
+utrisque discernit. Cujus voluntatis consensus, utique
+voluntarius, non necessarius, dum aut justos
+probat, aut injustos, etiam merito beatos facit vel
+miseros. Is ergo talis consensus ob voluntatis inamissibilem
+libertatem, et rationis quod secum semper
+et ubique portat, indeclinabile judicium, non incongrue
+dicetur, ut arbitror, liberum arbitrium, ipse
+liber sui propter voluntatem, ipse judex sui propter
+rationem. Et merito libertatem comitatur judicium:
+quoniam quidem quod liberum sui est, profecto ubi
+peccat, ibi se judicat. Est autem judicium, quia juste
+profecto, si peccat, patitur quod nolit, qui non peccat
+nisi velit.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Caeterum quod sui liberum non esse cognoscitur,
+<pb n="1004B"/>
+quo pacto vel bonum ei, vel malum imputatur?
+Excusat nempe utrumque necessitas. Porro ubi
+necessitas est, libertas non est: ubi libertas non
+est, nec meritum, ac per hoc nec judicium. Excepto
+sane per omnia originali peccato, quod aliam constat
+habere rationem. De caetero quidquid hanc non
+habet voluntarii consensus libertatem, procul dubio
+et merito caret, et judicio. Proinde universa quae
+sunt hominis, praeter solam voluntatem, ab utroque
+libera sunt, quia sui libera non sunt. Vita, sensus,
+appetitus, memoria, ingenium, et si qua talia sunt,
+eo ipso subjacent necessitati, quo non plene subdita
+sunt voluntati. Ipsam vero quia impossibile est de
+se ipsa sibi non obedire (nemo quippe aut non vult
+<pb n="1004C"/>
+quod vult, aut vult quod non vult), etiam impossibile
+est sua privari libertate. Potest quidem mutari
+voluntas, sed nonnisi in aliam voluntatem, ut nunquam
+amittat libertatem. Tam ergo non potest privari
+illa, quam nec se ipsa. Si poterit homo aliquando,
+aut nihil omnino velle, aut velle aliquid,
+et non voluntate; poterit et carere libertate voluntas.
+Hinc est quod insanis, infantibus, itemque dormientibus,
+nihil quod faciant, vel bonum, vel malum,
+imputatur: quia nimirum sicut suae non sunt
+compotes rationis, sic nec usum retinent propriae
+voluntatis, ac per hoc nec judicium libertatis. Cum
+igitur voluntas nil liberum habeat nisi se, merito
+non judicatur nisi ex se. Siquidem nec tardum ingenium,
+<pb n="1004D"/>
+nec labilis memoria, nec inquietus appetitus,
+nec sensus obtusus, nec vita languens, reum per
+se statuunt hominem, sicut nec contraria innocentem;
+et hoc non ob aliud, nisi quia haec necessarie,
+ac praeter voluntatem posse provenire probantur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Triplicem esse libertatem, Naturae, Gratiae, Gloriae.</hi> </head>
+<div3>
+            <head>6.</head>
+            <p>
+ Sola ergo voluntas, quoniam pro sui ingenita
+libertate, aut dissentire sibi, aut praeter se in aliquo
+consentire, nulla vi, nulla cogitur necessitate; non
+immerito justam vel injustam, beatitudine seu miseria
+dignam ac capacem creaturam constituit;
+prout scilicet justitiae, injustitiaeve consenserit. Quapropter
+<pb n="1005A"/>
+hujusmodi voluntarium liberumque consensum,
+ex quo et omne sui (ex his quae dicta sunt)
+constat pendere <emph>606</emph> judicium; puto non incongrue
+id esse, ut supra definivimus, quod solet liberum arbitrium
+appellari: ut liberum ad voluntatem, arbitrium
+referatur ad rationem. Sed sane liberum, non
+illa libertate, de qua dicit Apostolus: <hi>Ubi spiritus
+Domini, ibi libertas <note>(II Cor. III, 17)</note>
+            </hi>. Est enim illa
+libertas a peccato, sicut alibi dicit: <hi>Cum enim servi
+essetis peccati, liberi fuistis justitiae. Nunc autem liberati
+a peccato, servi autem facti Deo, habetis fructum
+vestrum in sanctificationem, finem vero vitam
+aeternam <note>(Rom. VI, 20-22)</note>
+            </hi>. Quis vero in carne peccati
+a peccato sibi vindicat libertatem? Hac ergo
+libertate dictum merito nequaquam opinor liberum
+<pb n="1005B"/>
+arbitrium. Est item libertas a miseria, de qua itidem
+Apostolus: <hi>Et ipsa,</hi> inquit, <hi>creatura liberabitur a
+servitute corruptionis in libertatem gloriae filiorum
+Dei <note>(Rom. VIII, 21)</note>
+            </hi>. Sed nunquid et istam sibi quispiam
+in hac mortalitate praesumit? Et hac itaque
+liberum nominari arbitrium non immerito abnuimus.
+Est vero, quam magis ei congruere arbitror
+libertatem, quam dicere possumus a necessitate, eo
+quod necessarium voluntario contrarium esse videatur:
+siquidem quod ex necessitate fit, jam non
+est ex voluntate, et e converso similiter.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Cum igitur, prout interim potuit occurrere nobis,
+triplex sit nobis proposita libertas, a peccato, a
+miseria, a necessitate; hanc ultimo loco positam
+contulit nobis in conditione natura, in primam restauramur
+<pb n="1005C"/>
+a gratia, media nobis reservatur in
+patria. Dicatur igitur prima libertas Naturae; secunda,
+Gratiae; tertia, Vitae vel Gloriae. Primo
+nempe in liberam voluntatem ac voluntariam libertatem
+conditi sumus, nobilis Deo creatura: secundo
+reformamur in innocentiam, nova in Christo
+creatura: tertio sublimamur in gloriam, perfecta in
+spiritu creatura. Prima ergo libertas habet multum
+honoris; secunda, plurimum etiam virtutis; novissima,
+cumulum jucunditatis. Ex prima quippe praestamus
+caeteris animantibus; in secunda carnem,
+per tertiam mortem subjicimus. Vel certe sicut in
+prima subjecit Deus sub pedibus nostris oves et
+boves et pecora campi: ita quoque per secundam
+<pb n="1005D"/>
+spirituales bestias hujus aeris, de quibus dicitur, <hi>Ne
+tradas bestiis animas confitentes tibi <note>(Psal. LXXIII,
+19)</note>
+            </hi>, prosternit aeque et conterit sub pedibus nostris:
+in ultima tandem nos ipsos nobis plenius submissurus
+per victoriam corruptionis et mortis, quando
+scilicet novissima destruetur mors, et nos transibimus
+in libertatem gloriae filiorum Dei: qua libertate
+Christus nos liberabit, cum nos utique tradet
+<pb n="1006A"/>
+regnum Deo et Patri. De hac enim, et item de illa
+quam diximus a peccato, puto quod Judaeis aiebat: <hi>Si vos Filius liberaverit, vere liberi eritis 
+ <note>(Joan. VIII,
+36)</note>
+            </hi>. Liberum arbitrium liberatore indigere significabat:
+sed plane qui illud liberaret non a necessitate,
+quam, voluntas cum esset, penitus non
+noverat; sed a peccato, in quod tam libere, quam
+voluntarie corruerat; simulque a poena peccati,
+quam incautum incurrerat, invitumque ferebat:
+quo utroque malo liberari omnino non poterat, nisi
+per illum, qui solus hominum factus est inter mortuos
+liber <note>(Psal. LXXXVII, 6)</note>, liber videlicet a peccato
+inter peccatores.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Solus namque inter filios Adam libertatem sibi
+vindicat a peccato, qui peccatum non fecit, nec inventus
+<pb n="1006B"/>
+est dolus in ore ejus <note>(I Petr. II, 22)</note>. Porro et
+a miseria, quae est poena peccati, habuit nihilominus
+libertatem, sed potentia, non actu. Nemo quippe
+tollebat animam ejus ab eo, sed ipse ponebat eam <note>(Joan. X, 18)</note>.
+Denique, teste propheta: <hi>Oblatus est
+quia ipse voluit <note>(Isai. LIII, 7)</note>
+            </hi>; sicut et cum voluit
+natus ex muliere, factus sub lege, ut eos qui sub
+lege erant redimeret <note>(Galat. IV, 4, 5)</note>. Fuit itaque et
+ipse sub lege miseriae: sed fuit quia voluit, ut liber
+inter miseros et peccatores utrumque jugum fraternis
+a cervicibus excuteret. Habuit itaque totas tres
+libertates, primam ex humana simul et divina natura,
+reliquas ex divina potentia. Quarum duas posteriores
+utrum et primus homo in paradiso habuerit,
+vel quomodo et quatenus eas habuerit, postea
+<pb n="1006C"/>
+videbimus.
+<emph>607</emph> </p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Qualis libertas competat animabus sanctis carne solutis: quaeve Deo, et omni creaturae rationali communis.</hi> </head>
+<div3>
+            <head>9.</head>
+            <p>
+ Hoc autem indubitanter sciendum, utramque
+plenam atque perfectam perfectis inesse animabus
+carne solutis, cum Deo pariter et Christo ejus, atque
+Angelis supercoelestibus. Nam sanctis animabus, etsi
+necdum corpora receperunt, deest quidem de gloria;
+sed nihil prorsus inest de miseria. Verum libertas
+a necessitate aeque et indifferenter Deo, universaeque
+tam malae, quam bonae rationali convenit
+creaturae. Nec peccato, nec miseria amittitur, vel
+minuitur; nec major in justo est, quam in peccatore,
+<pb n="1006D"/>
+nec plenior in angelo, quam in homine.
+Quomodo namque ad bonum per gratiam conversus
+humanae voluntatis consensus, eo libere bonum, et
+in bono liberum hominem facit, quo voluntarius
+efficitur, non invitus pertrahitur: sic sponte devolutus
+in malum, in malo nihilominus tam liberum,
+quam spontaneum constituit, sua utique voluntate
+<pb n="1007A"/>
+ductum, non aliunde coactum ut malus sit. Et sicut
+coelestis angelus, aut etiam Deus ipse, permanet
+libere bonus, propria videlicet voluntate, non aliqua
+extrinseca necessitate: sic profecto diabolus aeque
+libere in malum et corruit, et persistit, suo utique
+voluntario nutu, non alieno impulsu. Manet ergo libertas
+voluntatis, ubi etiam fit captivitas mentis,
+tam plena quidem in malis, quam in bonis, sed in
+bonis ordinatior; tam integra quoque pro suo modo
+in creatura, quam in Creatore, sed in illo potentior.</p>
+          </div3>
+<div3>
+            <head>10.</head>
+            <p>
+ Quod autem homines solent conqueri, et dicere:
+Volo habere bonam voluntatem, et non possum;
+nequaquam huic praescribit libertati, ut quasi
+vim aut necessitatem in hac parte voluntas patiatur:
+<pb n="1007B"/>
+sed plane illa libertate, quae dicitur a peccato, se
+carere testantur. Nam qui vult habere bonam voluntatem,
+probat se habere voluntatem: non enim
+vult habere bonam, nisi per voluntatem. Quod si
+voluntatem, et libertatem; sed libertatem a necessitate,
+non a peccato. Nempe ut non valeat, cum
+velit, habere bonam, sentit quidem sibi deesse libertatem,
+sed profecto libertatem a peccato, quo utique
+dolet premi, non peremi, voluntatem. Quanquam
+jam procul dubio utcunque bonam habet, ubi habere
+vult. Bonum quippe est quod vult; nec posset bonum
+velle, nisi bona voluntate: sicut nec velle malum,
+nisi mala voluntate. Cum bonum volumus,
+bona est voluntas: cum malum volumus, mala est
+<pb n="1007C"/>
+voluntas. Utrobique voluntas, et ubique libertas:
+cedit siquidem voluntati necessitas. Cum autem non
+valemus quod volumus; sentimus quidem ipsam
+quodammodo libertatem peccato esse captivam, vel
+miseram, non tamen amissam.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Ex hac ergo tantum libertate, qua liberum est
+voluntati se ipsam judicare: vel bonam, si bono;
+vel malam, si malo consenserit (quippe quae in neutro,
+nisi certe volendo, consentire se sentit), liberum
+arbitrium credimus nominari. Nam ex illa quae dicitur
+a peccato, congruentius forsitan liberum consilium;
+et item ex illa quae dicta est a miseria, liberum
+potius complacitum posset dici, quam liberum
+arbitrium. Arbitrium quippe judicium est. Sicut
+vero judicii est discernere quid liceat, vel quid non
+<pb n="1007D"/>
+liceat: sic profecto consilii probare quid expediat,
+vel non expediat: sic complaciti quoque experiri
+quid libeat, vel non libeat. Utinam tam libere nobis
+consuleremus, quam libere de nobis judicamus!
+ut quemadmodum libere per judicium licita illicitaque
+decernimus; ita per consilium et licita, tanquam
+commoda, nobis eligere; et illicita, tanquam noxia,
+respuere <emph>608</emph> liberum haberemus. Jam enim non
+solum liberi arbitrii, sed et liberi procul dubio consilii,
+ac per hoc et a peccato liberi essemus. Sed
+quid si totum, solumque quod expediret vel liceret,
+etiam liberet? Nonne liberi quoque esse complaciti
+merito diceremur, quippe qui ab omni proinde, quod
+displicere potest, hoc est ab omni nos miseria, liberos
+sentiremus? Nunc autem cum multa per judicium
+<pb n="1008A"/>
+vel admittenda, vel omittenda esse decernamus,
+quae tamen per consilium nequaquam pro judicii
+rectitudine aut eligimus, aut contemnimus;
+rursumque non omnia, quae tanquam recta et commoda
+consulte observamus, etiam ut beneplacita libenter
+amplectimur, sed insuper quasi dura ac molesta
+vix aequanimiter ferre perduramus: liquet
+quia liberum nec consilium habemus, nec complacitum.</p>
+          </div3>
+<div3>
+            <head>12.</head>
+            <p>
+ Alia questio est, si vel ante peccatum in
+primo homine habuimus: quod loco suo discutietur.
+Certissime autem habituri sumus, cum Deo miserante
+obtinebimus quod oramus: <hi>Fiat voluntas
+tua, sicut in coelo, et in terra.</hi> Hoc nempe complebitur,
+quando in quod nunc cunctae passim rationali
+<pb n="1008B"/>
+(ut jam dictum est) creaturae commune videtur, liberum
+scilicet a necessitate arbitrium, erit etiam in
+electis hominibus (uti jam in sanctis est Angelis) et
+cautum a peccato, et tutum a miseria, probantibus
+tandem triplicis libertatis felici experientia, quae sit
+bona voluntas Dei, ac beneplacens, et perfecta.
+Quod quia necdum est, sola interim plena integraque
+manet in hominibus libertas arbitrii. Nam libertas
+consilii ex parte tantum, et hoc in paucis
+spiritualibus, qui carnem suam crucifixerunt cum
+vitiis et concupiscentiis, quatenus jam non regnet
+peccatum in eorum mortali corpore. Porro ut non
+regnet, libertas facit consilii; ut tamen non desit ex
+integro, captivitas est liberi arbitrii. Cum autem venerit
+<pb n="1008C"/>
+quod perfectum est, tunc evacuabitur quod ex
+parte est: hoc est, cum plena fuerit libertas consilii,
+nulla jam erit captivitas arbitrii. Et hoc est quod
+quotidie petimus in oratione, cum dicimus Deo: <hi>Adveniat regnum tuum 
+ <note>(Matth. VI, 10)</note>
+            </hi>. Regnum hoc
+necdum ex toto pervenit in nos. Quotidie tamen
+paulatim adventat, sensimque in dies magis ac magis
+dilatat terminos suos, in his duntaxat, quorum
+per Dei adjutorium interior homo renovatur de die
+in diem. In quantum ergo regnum gratiae dilatatur,
+in tantum peccati potestas minuitur. In quantum
+vero minus est adhuc propter corpus mortis quod
+aggravat animam, et ob necessitatem terrenae inhabitationis
+utique deprimentis sensum multa cogitantem;
+necesse habent etiam qui perfectiores in hac
+<pb n="1008D"/>
+mortalitate videntur, confiteri et dicere: <hi>In multis
+offendimus omnes <note>(Jacobi III, 2)</note>
+            </hi>: et, <hi>Si dixerimus
+quia peccatum non habemus, nos ipsos seducimus, et
+veritas in nobis non est <note>(I Joan. I, 8)</note>
+            </hi>. Quapropter
+orant et ipsi sine intermissione, dicentes: <hi>Adveniat
+regnum tuum.</hi> Quod non erit vel in ipsis consummatum,
+quousque peccatum non solum non regnet
+in eorum mortali corpore, sed nec sit omnino, nec
+esse possit in immortali jam corpore.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>An libertas a miseria, seu complaciti, detur in hoc saeculo.</hi> </head>
+<div3>
+            <head>13.</head>
+            <p>
+ Jam de libertate complaciti in hoc saeculo
+nequam quid dicemus? ubi vix sufficit diei malitia
+sua; ubi omnis creatura ingemiscit, et parturit usque
+<pb n="1009A"/>
+adhuc, vanitati nimirum subjecta non volens <note>(Rom. VIII, 22, 20)</note>;
+ubi vita hominis tentatio est
+super terram <note>(Job VII, 1)</note>: ubi viri quoque spirituales,
+qui primitias spiritus jam acceperunt, ingemiscunt
+et ipsi intra semetipsos, exspectantes redemptionem
+corporis sui <note>(Rom. VIII, 23)</note>. Numquidnam
+inter ista locus ullus est hujuscemodi libertati? Quid,
+inquam, liberum <emph>609</emph> nostro relinquitur complacito,
+ubi totum occupare videtur miseria? neque
+enim vel innocentia seu justitia; quemadmodum a
+peccato, ita etiam a miseria tutae esse hic poterunt,
+ubi justus exclamat: <hi>Infelix ego homo, quis me liberabit
+de corpore mortis hujus? <note>(Rom. VII, 24.)</note>
+            </hi> Et item: <hi>Factae sunt mihi lacrymae meae panes die ac nocte <note>(Psal. XLI, 4)</note>
+            </hi>.
+Ubi noctes diesque in moerore continuantur,
+<pb n="1009B"/>
+nullum profecto temporis spatium complacito
+vacuum relinquitur. Denique qui pie volunt vivere
+in Christo, ipsi magis persecutionem patiuntur <note>(II Tim. III, 12)</note>;
+quoniam judicium a domo Dei
+incipit. Quod et praecipit: A meis, inquiens, incipite <note>(Ezech. IX, 6, et I Petr. IV, 17)</note>.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Sed, etsi non virtus, vitium forte in tuto est,
+et aliqua interim ex parte frui potest complacito,
+cavere miseriam. Absit. Nam qui laetantur cum
+male fecerint, et exsultant in rebus pessimis, tale
+est quod faciunt, quale cum rident frenetici. Nulla
+autem verior miseria, quam falsa laetitia. Denique
+in tantum miseria est, quod videtur felicitas in hoc
+saeculo, ut Sapiens dicat: <hi>Melius est ire ad domum
+luctus, quam ad domum convivii <note>(Eccle. VII, 3)</note>
+            </hi>. Est
+<pb n="1009C"/>
+quidem in bonis corporis nonnulla jucunditas, videlicet
+in edendo, bibendo, calefaciendo, caeterisque
+talibus fomentis vel tegumentis carnis. Sed nunquid
+vel ista vacant aliquatenus a miseria? Bonus
+est panis, sed esurienti; potus delectat, sed sitientem;
+denique saturato cibus potusque jam nequaquam
+sunt grata, sed gravia. Tolle famem, et panem
+non curabis; tolle sitim, et limpidissimum fontem,
+ac si paludem, respicies. Similiter umbram non quaerit
+nisi aestuans; solem non curat nisi algens, sive
+caligans. Alioquin nihil horum libebit, si non praecesserit
+urgens necessitas. Quae si perfecte tollatur
+e rebus, statim in taedium atque molestiam convertetur
+ipsa quoque, quae videtur in his esse, jucunditas.
+Fatendum igitur et in hac parte, omne quod
+<pb n="1009D"/>
+praesentis vitae est, occupare miseriam: nisi quod
+in tribulationibus continuis graviorum laborum, leviores
+utique sint qualiscunque consolatio:
+et dum forte pro tempore ac rerum eventibus vicissim
+sibi gravia leviaque succedunt, minorum experientia,
+aliqua miseriae videtur interpolatio; ut cum
+aliquando, post experta plura gravissima, in minus
+forte molesta evaditur, felicitas putetur.</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Attamen fatendum est eos, qui per excessum
+contemplationis rapti quandoque in spiritu, quantulumcunque
+de supernae felicitatis dulcedine degustare
+<pb n="1010A"/>
+sufficiunt, toties esse liberos a miseria, quoties
+sic excedunt. Hi plane (quod negandum non
+est) etiam in hac carne, raro licet raptimque, complaciti
+libertate fruuntur, qui cum Maria optimam
+partem elegerunt, quae non auferetur ab eis <note>(Luc.
+X, 42)</note>. Qui enim jam tenent quod auferendum non
+est, experiuntur utique quod futurum est. Sed quod
+futurum est felicitas est: porro felicitas et miseria
+eodem tempore simul esse non possunt. Quoties igitur
+per spiritum illam participant, toties istam non
+sentiunt. Itaque in hac vita soli contemplativi possunt
+utcunque frui libertate complaciti: et hoc ex
+parte, et parte satis modica, viceque rarissima.
+Porro libertate consilii fruuntur etiam quilibet justi;
+ex parte quidem, sed non modica. Caeterum libertas
+<pb n="1010B"/>
+arbitrii, ut supra liquido apparuit, cunctis
+pariter ratione utentibus convenit; non minor, quantum
+in se est, in malis, quam in bonis; tam plena
+in hoc saeculo, quam et in futuro.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Ad volendum bonum gratiam omnino esse necessariam.</hi> </head>
+<div3>
+            <head>16.</head>
+            <p>
+ Sed et hoc satis aperte monstratum esse puto,
+quod haec ipsa tamen libertas tamdiu quodammodo
+captiva tenetur, quamdiu illam duae aliae libertates
+minime, aut minus plene comitantur; nec aliunde
+noster ille defectus venit, de quo Apostolus: <hi>Ut non
+quaecumque vultis,</hi> ait, <hi>illa faciatis <note>(Galat. V, 17)</note>
+            </hi>.
+Velle siquidem <emph>610</emph> mest nobis ex libero arbitrio,
+non etiam posse quod volumus. Non dico velle bonum,
+<pb n="1010C"/>
+aut velle malum: sed tantum velle. Velle etenim
+bonum, profectus est; velle malum defectus.
+Velle vero simpliciter, ipsum est quod vel proficit,
+vel deficit. Porro ipsum ut esset, creans gratia fecit;
+ut proficiat, salvans gratia facit, ut deficiat, ipsum
+se dejicit. Itaque liberum arbitrium nos facit
+volentes, gratia benevolos. Ex ipso nobis est velle,
+ex ipsa bonum velle. Quemadmodum namque aliud
+est timere simpliciter, aliud timere Deum; et
+aliud amare simpliciter, aliud est amare Deum:
+quippe timere et amare, simpliciter quidem prolata,
+affectiones; cum additamento autem virtutes, significant:
+ita quoque aliud est velle, aliud velle bonum.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Simplices namque affectiones insunt naturaliter
+<pb n="1010D"/>
+nobis, tanquam ex nobis: additamenta ex
+gratia. Nec aliud profecto est, nisi quod gratia ordinat,
+quas donavit creatio: ut nil aliud sint virtutes
+nisi ordinatae affectiones. Scriptum est de quibusdam,
+quod illic trepidassent timore, ubi non
+erat timor <note>(Psal. XIII, 5)</note>. Timor fuit, sed inordinatus.
+Ordinare illum volebat Dominus in discipulis,
+cum diceret: <hi>Ostendam vobis quem timere debeatis <note>(Luc. XII, 5)</note>
+            </hi>;
+et David: <hi>Venite,</hi> ait, <hi>filii, audite me,
+timorem Domini docebo vos <note>(Psal. XXXIII, 12)</note>
+            </hi>. Item
+de amore inordinato arguebat homines qui dicebat:
+<pb n="1011A"/> <hi>Ego lux veni in hunc mundum; et dilexerunt homines
+magis tenebras, quam lucem 
+ <note>(Joan. III, 19)</note>
+            </hi>. Idcirco
+postulat sponsa in Canticis, dicens: <hi>Ordinate in me
+charitatem <note>(Cant. II, 4)</note>
+            </hi>. Similiter quoque de inordinata
+voluntate arguebantur, quibus dicebatur: <hi>Nescitis
+quid petatis.</hi> Sed ad lineam rectitudinis edocti
+sunt distortam reducere voluntatem, cum audierunt: <hi>Potestis bibere calicem, quem ego bibiturus
+sum? 
+ <note>(Marc. X, 38.)</note>
+            </hi> Et tunc quidem verbo, sed postmodum
+etiam exemplo voluntatem ordinare docebat,
+cum orans instante passione ut transferretur ab eo
+calix, statim subjiceret: <hi>Verumtamen non quod ego
+volo, sed quod tu vis <note>(Matth. XXVI, 39)</note>
+            </hi>. A Deo igitur
+velle, quomodo et timere, quomodo et amare, accepimus
+in conditione naturae, ut essemus aliqua
+<pb n="1011B"/>
+creatura: velle autem bonum, quomodo et timere
+Deum, quomodo et amare Deum, accipimus in visitatione
+gratiae, ut simus Dei creatura.</p>
+          </div3>
+<div3>
+            <head>18.</head>
+            <p>
+ Creati quippe quodammodo nostri in liberam
+voluntatem, quasi Dei efficimur per bonam voluntatem.
+Porro bonam facit, qui liberam fecit; et ad
+hoc bonam, ut simus initium aliquod creaturae ejus:
+quoniam expedit profecto nobis magis omnino non
+fuisse, quam nostros permanere. Nam, qui voluerunt
+sui esse, utique sicut dii, scientes bonum et malum;
+facti sunt, non tantum jam sui, sed et diaboli.
+Itaque libera voluntas nos facit nostros; mala,
+diaboli; bona, Dei. Ad hoc pertinet quod dicitur: <hi>Novit Dominus qui sunt ejus 
+ <note>(II Tim. II, 19)</note>
+            </hi>. Nam illis
+qui ejus non sunt, <hi>Amen dico vobis,</hi> inquit, <hi>nescio
+<pb n="1011C"/>
+vos <note>(Matth. XXV, 12)</note>
+            </hi>. Cum ergo per malam voluntatem
+sumus diaboli, quodammodo interim non sumus
+Dei: sicut cum per bonam voluntatem efficimur Dei,
+desinimus jam esse diaboli. <hi>Nemo</hi> siquidem <hi>potest
+duobus dominis servire <note>(Id. VI, 24)</note>
+            </hi>. Caeterum sive
+Dei sumus, sive diaboli; non tamen similiter desinimus
+esse et nostri. Manet quippe utrobique libertas
+arbitrii, per quam maneat et causa meriti:
+quatenus merito vel puniamur mali, quod tanquam
+liberi ex propria voluntate efficimur: vel glorificemur
+boni, quod nisi aeque voluntarii esse non possumus.
+Sane diabolo nostra nos mancipat voluntas,
+non ipsius potestas: Deo subjicit ejus gratia, non
+nostra voluntas. Nostra quippe voluntas bona (quod
+<pb n="1011D"/>
+fatendum est) a bono Deo creata, perfecta tamen
+non erit, quousque suo Creatori perfecte subjecta
+sit. Absit autem, ut ipsi sui ipsius perfectionem,
+Deo autem tantum creationem tribuamus; cum
+longe nimirum melius sit esse perfectam, quam factam:
+et dictu ipso nefas videatur, Deo quod minus,
+nobis quod excellentius sit attribuere. Sentiens denique
+Apostolus quid ex natura esset, quid ex gratia
+exspectaret, aiebat: <emph>611</emph> <hi>Velle adjacet mihi, perficere
+non invenio <note>(Rom. VII, 18)</note>
+            </hi>. Sciebat profecto,
+velle quidem sibi inesse ex libero arbitrio. sed ut
+ipsum velle perfectum haberet, gratiam se habere
+<pb n="1012A"/>
+necessariam. Si enim velle malum, defectus quidam
+est voluntatis; utique bonum velle, profectus ejusdem
+erit: sufficere vero ad omne quod volumus bonum,
+ipsius perfectio.</p>
+          </div3>
+<div3>
+            <head>19.</head>
+            <p>
+ Ut ergo velle nostrum, quod ex libero arbitrio
+habemus, perfectum habeamus; duplici gratiae munere
+indigemus, et vero videlicet Sapere, quod est
+voluntatis ad bonum conversio; et pleno etiam
+Posse, quod est ejusdem in bono confirmatio. Porro
+perfecta conversio est ad bonum, ut nil libeat nisi
+quod deceat vel liceat; perfecta in bono confirmatio,
+ut nil desit jam quod libeat. Tunc demum perfecta
+erit voluntas, cum plene fuerit bona, et bene
+plena. Habet siquidem duplex in se bonum ab initio
+sui: unum quidem generale ex sola creatione, quod
+<pb n="1012B"/>
+a bono scilicet Deo non potuit creari nisi bona, secundum
+quod vidit Deus cuncta quae fecerat, et
+erant valde bona <note>(Gen. I, 31)</note>; alterum speciale ex
+libertate arbitrii, in qua ad imaginem utique ipsius
+qui creavit, est condita. Quod si duobus his bonis
+accedat et tertium, conversio scilicet ad Creatorem;
+reputabitur non immerito perfecte bona: bona nimirum
+in universitate, melior in suo genere, optima
+in sui ordinatione. Est autem ordinatio, omnimoda
+conversio voluntatis ad Deum, et ex tota se
+voluntaria devotaque subjectio. Huic vero tam per
+fectae justitiae debetur, imo jungitur gloriae plenitudo:
+quia sic se comitantur duo ista, ut nec justitiae
+possit haberi perfectio, nisi in plena gloria;
+nec gloriae plenitudo, absque perfecta justitia. Merito
+<pb n="1012C"/>
+denique talis justitia non erit sine gloria, cum
+gloria vera non sit, nisi de tali justitia. Unde recte
+dicitur: <hi>Beati qui esuriunt et sitiunt justitiam, quoniam
+ipsi saturabuntur <note>(Matth. V, 6)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Haec autem sunt illa duo quae supra nominavimus,
+verum Sapere, et plenum Posse: ut Sapere
+ad justitiam, Posse referatur ad gloriam. Sed Verum
+et Plenum addita sunt, alterum ad distinctionem
+sapientiae carnis, quae mors est <note>(Rom. VIII, 6)</note>;
+itemque sapientiae mundi, quae stultitia apud Deum <note>(I Cor. III, 19)</note>,
+qua et sapientes apud semetipsos
+sunt homines, <hi>sapientes,</hi> inquam, <hi>ut faciant malo <note>(Jerem. IV, 22)</note>
+            </hi>:
+alterum ad illorum differentiam,
+de quibus dicitur: <hi>Potentes potenter tormenta patientur <note>(Sap. VI, 7)</note>
+            </hi>.
+Nam verum Sapere, aut plenum
+<pb n="1012D"/>
+Posse omnino non inveniuntur, nisi ubi libero arbitrio
+jam illa duo conjuncta sunt, quae item superius
+memoravimus, liberum videlicet consilium,
+liberumque complacitum. Solum profecto dixerim
+vere sapientem, pleneque potentem, cui jam non
+tantum velle adjacet ex libero arbitrio, sed ex reliquis
+quoque duobus invenit et perficere; dum nec
+velle valeat quod malum sit, nec carere quod velit:
+quorum alterum est ex libertate consilii, id est verum
+Sapere; alterum ex libertate complaciti, scilicet
+plenum Posse. Sed quis talis est ac tantus in
+<pb n="1013A"/>
+hominibus, qui in hoc glorietur? Aut ubi, aut
+quando istud obtinetur? Nunquidnam in hoc saeculo?
+Sed si quis esset hujusmodi, major esset
+Paulo, qui confitetur dicens: <hi>Perficere autem non
+invenio.</hi> Nunquid Adam in paradiso? Sed si habuisset,
+nunquam exsulasset [ <hi>al.</hi> exsul esset] a paradiso.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Utrum primi homines in paradiso trina illa libertate praediti fuerint, et post peccatum.</hi> </head>
+<div3>
+            <head>21.</head>
+            <p>
+ Nunc locus est pervidendi quod supra distulimus;
+utrum scilicet totas tres illas quas diximus
+libertates, id est, arbitrii, concilii, complaciti; vel
+aliis nominibus, a necessitate, a peccato, a miseria,
+<pb n="1013B"/>
+primi homines in paradiso habuerint: an tantum
+duas, an unam solummodo. Et de prima quidem
+nulla jam quaestio est, si meminerimus quam aperte
+et justis eam et peccatoribus inesse aequaliter, ratio
+superior edocuerit. De duabus reliquis quaeritur
+non immerito, an unquam eas Adam habuerit, aut
+ambas, aut vel <emph>612</emph> unam. Nam si nullam habuit,
+quid amisit? Arbitrii utique libertatem tam post
+peccatum, quam ante semper tenuit inconcussam.
+Si ergo nil amisit, quid ei obfuit ejectum fuisse de
+paradiso? Quod si unam quamlibet illarum habuit,
+quomodo amisit? Nam certum est quia ex quo peccavit,
+nec a peccato prorsus, nec a miseria manens
+in corpore, liber fuit. Caeterum nullatenus, quamcunque
+illarum semel acceperit, amittere potuit.
+<pb n="1013C"/>
+Alioquin perfectum nec Sapere, nec Posse, juxta
+quod quidem duo haec superius definita sunt, habuisse
+convincitur; qui nimirum et velle potuit quod
+non debuit, et recipere quod noluit. An dicendus
+est aliquo quidem modo illas habuisse, sed quia
+non plenarie, potuisse amittere? Habet siquidem
+unaquaeque illarum duos gradus, superiorem et inferiorem.
+Superior libertas consilii est, non posse
+peccare: inferior, posse non peccare. Item superior
+libertas complaciti, non posse turbari: inferior,
+posse non turbari. Itaque inferiorem utriusque libertatis
+gradum simul cum plena libertate arbitrii
+homo in sui conditione accepit, et de utroque corruit
+cum peccavit. Corruit autem de posse non
+peccare in non posse non peccare, amissa ex toto
+<pb n="1013D"/>
+consilii libertate. Itemque de posse non turbari in
+non posse non turbari, amissa ex toto complaciti libertate.
+Sola remansit ad poenam libertas arbitrii,
+per quam utique caeteras amisit; ipsam tamen amittere
+non potuit. Per propriam quippe voluntatem
+servus peccati factus, merito perdidit libertatem
+consilii. Porro per peccatum factus debitor mortis,
+quomodo jam libertatem valebat retinere complaciti?</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ De tribus ergo libertatibus quas acceperat,
+abutendo illa quae dicitur arbitrii, reliquis sese
+privavit. In eo autem abusus est, quod illam cum
+accepisset ad gloriam, convertit sibi in contumeliam,
+<pb n="1014A"/>
+juxta testimonium Scripturae dicentis: <hi>Homo
+cum in honore esset, non intellexit; comparatus est
+jumentis insipientibus, et similis factus est illis <note>(Psal.
+XLVIII, 13)</note>
+            </hi>. Soli inter animantia datum est homini
+posse peccare, ob praerogativam liberi arbitrii. Datum
+est autem, non ut proinde peccaret, sed ut
+gloriosior appareret si non peccaret, cum peccare
+posset. Quid namque gloriosius ei esse poterat,
+quam si de ipso diceretur quod Scriptura perhibet,
+dicens: <hi>Quis est hic, et laudabimus eum?</hi> Unde ita
+laudandus? <hi>Fecit enim mirabilia in vita sua.</hi> Quae? <hi>Qui potuit transgredi,</hi> 
+ inquit, <hi>et non est transgressus;
+facere mala et non fecit <note>(Eccli. XXXI, 9, 10)</note>
+            </hi>. Hunc
+ergo honorem quamdiu absque peccato fuit, servavit;
+amisit, cum peccavit. Peccavit autem, quia liberum
+<pb n="1014B"/>
+ei fuit: nec aliunde profecto liberum, nisi
+ex libertate arbitrii, de qua utique inerat ei possibilitas
+peccandi. Nec tamen fuit culpa dantis, sed
+abutentis, qui ipsam videlicet facultatem convertit
+in usum peccandi, quam acceperat ad gloriam non
+peccandi. Nam etsi peccavit ex posse quod accepit;
+non tamen quia potuit, sed quia voluit. Nec enim
+praevaricante diabolo et angelis ejus, etiam alil
+praevaricati sunt: non quia non potuerunt, sed quia
+noluerunt.</p>
+          </div3>
+<div3>
+            <head>23.</head>
+            <p>
+ Peccantis igitur lapsus, non dono ascribendus
+est potestatis, sed vitio voluntatis. Lapsus tamen
+ex voluntate non aeque ex voluntate resurgere
+jam liberum habet: quia, etsi datum fuit voluntati
+<pb n="1014C"/>
+posse stare ne caderet, non tamen resurgere si caderet.
+Non enim tam facile quis valet exire de fovea,
+quam facile in eam labi. Cecidit sola voluntate homo
+in foveam peccati: sed non ex voluntate sufficit ei
+posse resurgere, cum jam, etsi velit, non possit non
+peccare.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Libertatem arbitrii remanere post peccatum.</hi> </head>
+<div3>
+            <head>24.</head>
+            <p>
+ Quid ergo? Periit liberum arbitrium, quoniam
+non potest non peccare? Nequaquam: sed liberum
+perdidit consilium, per quod prius habuit
+[ <hi>al.</hi> habebat] posse non peccare: quomodo et quod
+jam non valet utique non turbari, inde misero accidit,
+quod complaciti <emph>613</emph> quoque libertatem amiserit,
+<pb n="1014D"/>
+per quam et ante habuit posse non turbari.
+Manet ergo, etiam post peccatum, liberum arbitrium;
+etsi miserum, tamen integrum. Et quod se
+per se homo non sufficit excutere a peccato sive
+miseria, non liberi arbitrii signat destructionem.
+sed duarum reliquarum libertatum privationem.
+Neque enim ad liberum arbitrium, quantum in se
+est, pertinet, aut aliquando pertinuit posse, vel sapere,
+sed tantum velle: nec potentem facit
+creaturam, nec sapientem, sed tantum volentem.
+Non ergo si potens, aut sapiens, sed tantum si
+volens esse desierit, liberum arbitrium amisisse
+putanda erit. Ubi enim non est voluntas, nec libertas.
+<pb n="1015A"/>
+Non dico si velle bonum, sed si velle omnino
+creatura desierit; fatendum sine contradictione, ubi
+non jam ex voluntate bonitas, sed ipsa ex toto voluntas
+periit, etiam liberum deperire arbitrium.
+Quod si velle bonum tantum non poterit [ <hi>al.</hi> tantum
+perit], signum est quod ei desit liberum, non
+arbitrium, sed consilium. Si autem non quidem
+velle, sed ad id quod jam vult bonum, ei posse defuerit;
+noverit sibi deesse liberum complacitum,
+non liberum periisse arbitrium. Si ergo liberum arbitrium
+ita ubique sequitur voluntatem, ut nisi illa
+penitus esse desinat, isto non careat: voluntas vero
+sicut in bono, ita etiam in malo aeque perdurat:
+aeque profecto et liberum arbitrium tam in malo,
+quam in bono integrum perseverat. Et quomodo voluntas
+<pb n="1015B"/>
+etiam posita in miseria non desinit esse
+voluntas, sed dicitur, et est misera voluntas, sicut
+et beata voluntas: ita nec liberum arbitrium destruere,
+sive, quantum in se est, aliquatenus imminuere
+poterit quaecunque adversitas vel necessitas.</p>
+          </div3>
+<div3>
+            <head>25.</head>
+            <p>
+ Sed licet ubique pariter sine sui diminutione
+perduret; non tamen pariter sicut de bono potuit
+per se in malum corruere, ita quoque per se de
+malo in bonum poterit respirare. Et quid mirum si
+jacens non valet per se resurgere, quod stans in
+aliquod melius nullo suo conatu valebat proficere?
+Denique, dum adhuc duas alias libertates ex aliqua
+parte secum haberet, non potuit de inferioribus illarum
+<pb n="1015C"/>
+gradibus ad superiora ascendere, hoc est de
+posse non peccare, et de posse non turbari, ad non
+posse peccare, et non posse turbari. Quod si libertatibus
+illis etiam utcunque adjutum, non praevaluit
+tamen de bono in melius se extendere: quanto minus
+eisdem prorsus destitutum, de malo in id quod
+fuit bonum, poterit per se ipsum emergere?</p>
+          </div3>
+<div3>
+            <head>26.</head>
+            <p>
+ Habet igitur homo necessarium Dei virtutem,
+et Dei sapientiam Christum, qui ex eo quod sapientia
+est, verum ei Sapere reinfundat, in restaurationem
+liberi consilii; et ex eo quod virtus est, plenum
+Posse restituat, in reparationem liberi complaciti:
+quatenus ex altero perfecte bonus, peccatum
+jam nesciat; ex altero plene beatus, nil adversum
+sentiat. Sed sane ista perfectio in futura vita
+<pb n="1015D"/>
+exspectetur, quando utraque nunc amissa libertas,
+libero arbitrio plene [ <hi>al.,</hi> plenarie] restaurabitur; non
+quomodo justo cuivis in hoc saeculo, quantumcunque
+perfecto; non quomodo vel ipsis primis hominibus
+datum fuit eas habere in paradiso: sed sicut
+jam nunc angeli possident in coelo. Interim vero
+sufficiat in hoc corpore mortis atque in hoc saeculo
+nequam, ex libertate quidem consilii peccato non
+obedire in concupiscentia: ex libertate autem complaciti
+adversa non formidare pro justitia. Est autem
+in hac carne peccati et in hac diei malitia non
+mediocre Sapere, peccato, etsi non [ <hi>al.</hi> nondum] ex
+toto carere, certe non consentire: et est Posse non
+<pb n="1016A"/>
+parvum, adversa, etsi necdum feliciter omnino non
+sentire, viriliter tamen pro veritate contemnere.</p>
+          </div3>
+<div3>
+            <head>27.</head>
+            <p>
+ Discendum sane hic interim [nobis est ex libertate
+consilii jam libertate arbitrii non abuti, ut
+plene <emph>614</emph> quandoque frui possimus libertate complaciti.
+Sic profecto Dei in nobis reparamus imaginem:
+sic antiquo honori illi capessendo, quem per
+peccatum amisimus, per gratiam praeparamur. Et
+beatus qui de se audire merebitur: <hi>Quis est hic, et
+laudabimus eum? Fecit enim mirabilia in vita sua:
+qui potuit transgredi, et non est transgressus; facere
+malum, et non fecit <note>(Eccli. XXXI, 9, 10)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Imaginem et similitudinem Dei, ad quam conditi sumus, in triplici libertate consistere.</hi> </head>
+<div3>
+            <head>28.</head>
+            <p>
+ Puto autem in his tribus libertatibus ipsam,
+<pb n="1016B"/>ad quam conditi sumus, Conditoris imaginem atque
+similitudinem contineri: et imaginem quidem in
+libertate arbitrii, in reliquis autem duabus bipartitam
+quamdam consignari similitudinem. Hinc est
+fortassis, quod solum liberum arbitrium sui omnino
+defectum seu diminutionem non patitur, quod in
+ipso potissimum aeternae et incommutabilis divinitatis
+substantiva quaedam imago impressa videatur.
+Nam, etsi habuerit initium, nescit tamen occasum,
+nec de justitia vel gloria capit augmentum: nec de
+peccato sive miseria detrimentum. Quid aeternitati
+similius, quod non sit aeternitas? Porro in aliis duabus
+libertatibus, quoniam non solum ex parte minui,
+<pb n="1016C"/>
+sed et ex toto amitti possunt; accidentalis quaedam
+magis similitudo sapientiae atque potentiae divinae,
+imagini superducta cognoscitur. Denique et amisimus
+illas per culpam, et per gratiam recuperavimus; et
+quotidie quidem alii plus, alii minus, aut in ipsis
+proficimus, aut ab ipsis deficimus. Possunt etiam
+sic amitti, ut jam non valeant recuperari: possunt
+et ita possideri, ut nec amitti queant aliquando [ <hi>al.</hi> 
+aliquo modo], nec minui.</p>
+          </div3>
+<div3>
+            <head>29.</head>
+            <p>
+ Hujus bipartitae similitudinis sapientiae et
+potentiae Dei, non quidem in gradu summo, sed qui
+ipsi tamen esset proximior, homo conditus est in
+paradiso. Quid enim vicinius ad non posse peccare,
+vel turbari (in quo utique jam sanctos Angelos stare,
+<pb n="1016D"/>
+et Deum semper esse dubium non est), quam
+posse et non peccare, et non turbari, in quo homo
+profecto creatus est? A quo illo per peccatum, imo
+nobis in illo et cum illo corruentibus, rursus per
+gratiam, non quidem ipsum, sed pro ipso quemdam
+inferiorem gradum recepimus. Neque enim hic
+possumus penitus esse sine peccato, seu miseria:
+possumus tamen, gratia juvante, nec peccato superari,
+nec miseria. Quanquam tamen Scriptura loquatur: <hi>Omne quod natum est ex Deo non peccat 
+ <note>(I Joan.
+III, 9)</note>
+            </hi>. Sed hoc dictum est de praedestinatis ad vitam:
+non quod omnino non peccent, sed quod peccatum
+ipsis non imputetur, quod vel punitur condigna
+<pb n="1017A"/>
+poenitentia, vel in charitate absconditur. <hi>Charitas</hi> 
+ quippe <hi>cooperit multitudinem peccatorum <note>(I Petr. IV, 8)</note>
+            </hi>;
+et: <hi>Beati quorum remissae sunt iniquitates,
+et quorum tecta sunt peccata;</hi> et: <hi>Beatus vir
+cui non imputavit Dominus peccatum <note>(Psal. XXXI 1,
+2)</note>
+            </hi>. Divinae ergo similitudinis summum gradum summi
+angeli tenent, nos infimum: Adam tenuit medium,
+porro daemones nullum. Supernis nempe spiritibus
+datum est sine peccato et miseria perdurare:
+Adae autem absque his quidem esse, sed non etiam
+permanere: nobis vero ne esse quidem absque his,
+sed ipsis tantum non cedere. Caeterum diabolus et
+membra ejus, sicut nunquam volunt reluctari peccato,
+sic nunquam possunt poenam declinare peccati.
+<pb n="1017B"/>
+</p>
+          </div3>
+<div3>
+            <head>30. </head>
+            <p>
+Cum ergo istae duae libertates, consilii scilicet
+atque complaciti, per quas rationali creaturae vera
+sapientia et potentia ministratur, ita Deo, prout
+vult, dispensante, quibusque pro causis, locis, temporibus,
+varientur, quatenus in terris modice, in
+coelestibus plenarie, mediocriter in paradiso, apud
+inferos <emph>615</emph> nullatenus habeantur; libertas vero
+arbitrii de ipso, quo condita est, statu aliquatenus
+non mutetur, sed aequaliter semper (quantum in se
+est) a coelis, terris, inferis possideatur: merito illae
+similitudini, haec imagini deputantur. Et quidem
+apud inferos, quod utraque libertas perierit, illae
+scilicet quae ad similitudinem pertinere dicuntur,
+Scripturarum testatur auctoritas. Nam verum illic
+Sapere, quod utique de consilii libertate concipitur,
+<pb n="1017C"/>
+omnino non esse, locus ille manifestat, ubi legitur: <hi>Quodcumque potest manus tua facere; instanter [al.</hi> 
+constanter] <hi>operare: quia nec opus, nec ratio, nec
+sapientia est apud inferos, quo tu properas <note>(Eccle. IX,
+10)</note>
+            </hi>. Porro de potentia, quae per libertatem complaciti
+datur, Evangelium sic loquitur: <hi>Ligatis manibus
+ac pedibus, projicite eum in tenebras exteriores <note>(Matth. XXII, 13)</note>
+            </hi>.
+Quid enim [ <hi>al.</hi> nempe] est manuum
+pedumque ligatio, nisi omnimoda potestatis
+ablatio?</p>
+          </div3>
+<div3>
+            <head>31.</head>
+            <p>
+ Sed dicit aliquis: Quomodo non est ibi aliquod
+Sapere, ubi mala quae tolerantur, cogunt poenitere
+malorum quae facta sunt? Nunquid aut in
+tormentis quispiam non poenitere; aut poenitere
+<pb n="1017D"/>
+mali, non esse sapere potest? Hoc autem recte opponeretur,
+si opus tantum peccati, et non etiam
+voluntas mala puniretur. Nulli quippe dubium est,
+quod nemo in tormentis positus actum iterare peccati
+delectetur. Verumtamen si voluntas etiam in
+tormentis mala perdurat, quid ponderis habet operis
+abnegatio, ut ideo sapere quis putetur, quod jam in
+mediis flammis luxuriari non libeat? Denique: <hi>In
+malevolam animam non introibit sapientia <note>(Sap. I, 4)</note>
+            </hi>.
+<pb n="1018A"/>
+Unde autem probabimus quod mala et in poenis
+voluntas perseveret? Certe, ut caetera omittam, nollent
+omnino puniri. Justum est autem puniri, qui
+punienda gesserunt. Nolunt igitur quod justum est.
+Sed qui non vult quod justum est, justa ejus voluntas
+non est. Eo ergo injusta, ac per hoc et mala est
+voluntas, quo justitiae non concordat. Duo sunt quae
+injustam comprobant voluntatem, vel cum peccare,
+vel cum impune peccasse libet. Quibus ergo peccare
+libuit quamdiu licuit; et cum jam non possunt, inultum
+manere volunt quod peccaverunt: quid in hoc
+sapientiae verae, quid bonae voluntatis apparet? Sed
+esto, poenitet eos peccasse: nunquid non tamen, si
+optio detur, malint adhuc peccare, quam poenam
+sustinere peccati? Et tamen illud iniquum est, hoc
+<pb n="1018B"/>
+justum. Quando vero voluntas bona magis quod iniquum,
+quam quod justum est eligeret? Caeterum non
+vere poenitent, qui non tam dolent se sibi vixisse,
+quam hoc ipsum jam non posse. Denique foris ostenditur
+quid intus agatur. Nam quamdiu corpus vivi:
+in flamma, tamdiu constat in malitia persistere
+voluntatem. Itaque de similitudine, quae in consilii,
+et item complaciti libertate continetur, apud inferos
+penitus nihil est, nec esse potest, imagine tamen
+etiam illic per liberum arbitrium immobili permanente.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT X. <hi>Similitudinem divinae imaginis in nobis reformari per Christum.</hi> </head>
+<div3>
+            <head>32.</head>
+            <p>
+ Sed neque in hoc saeculo aeque inveniri uspiam
+<pb n="1018C"/>
+posset similitudo, sed adhuc hic foeda et deformis
+jacuisset imago, si non evangelica illa mulier lucernam
+accenderet, id est, Sapientia in carne appareret,
+everreret domum, videlicet vitiorum, drachmam
+suam requireret quam perdiderat <note>(Luc. XV, 8)</note>: hoc
+est, imaginem suam, quae nativo spoliata decore,
+sub pelle peccati sordens, tanquam in pulvere latitabat;
+inventam tergeret, et tolleret de regione dissimilitudinis;
+pristinamque in speciem reformatam,
+similem faceret illam in gloria sanctorum, imo sibi
+ipsi per omnia redderet quandoque conformem, cum
+illud Scripturae videlicet impleretur: <hi>Scimus qui
+cum apparuerit, similes ei erimus, quoniam videbimus
+eum sicuti est <note>(I Joan. III, 2)</note>
+            </hi>. Et revera cui potius
+<pb n="1018D"/>
+id operis congruebat, quam Dei Filio, <emph>616</emph> qui
+cum sit splendor gloriae [ <hi>al. omit.</hi> gloriae], et figura
+substantiae Patris, portans verbo universa, ex utroque
+facile munitus apparuit, et unde reformaret deformem,
+et unde debilem confortaret: dum et de
+splendore figurae fugans tenebras peccatorum [ <hi>al.</hi> 
+vitiorum], redderet sapientem; et ex virtute verbi
+contra tyrannidem daemonum potentem efficeret.</p>
+          </div3>
+<div3>
+            <head>33.</head>
+            <p>
+ Venit ergo ipsa forma, cui conformandum erat
+<pb n="1019A"/>
+liberum arbitrium: quia ut pristinam reciperet formam,
+ex illa erat reformandum, ex qua fuerat et
+formatum. Forma autem, sapientia est: conformatio,
+ut faciat imago in corpor, quod forma facit in
+orbe. Porro illa <hi>attingit a fine usque ad finem fortiter,
+et disponit omnia suaviter <note>(Sap. VIII, 1)</note>
+            </hi>. Attingit <hi>a fine usque ad finem,</hi> 
+ hoc est a summo coelo usque
+ad inferiores partes terrae, a maximo angelo usque
+ad minimum vermiculum. <hi>Attingit</hi> autem <hi>fortiter,</hi> 
+non quidem mobili discursione, vel locali diffusione,
+vel subjectae creaturae tantum officiali administratione:
+sed substantiali quadam et ubique praesenti
+fortitudine, qua utique universa potentissime movet,
+ordinat, administrat. Et haec omnia nulla sui cogitur
+facere necessitate. Nec enim aliqua in his laborat
+<pb n="1019B"/>
+difficultate: sed disponit omnia suaviter placida
+voluntate. Vel certe <hi>attingit a fine usque ad finem,</hi> 
+hoc est ab ortu creaturae usque ad finem destinatum
+a Creatore: sive in quem urget natura, sive
+quem accelerat causa, sive quem concedit gratia. <hi>Attingit fortiter,</hi> 
+ dum nihil horum evenit, quod non,
+prout vult, potenti praeordinet providentia.</p>
+          </div3>
+<div3>
+            <head>34.</head>
+            <p>
+ Sic ergo et liberum arbitrium suo conetur
+praeesse corpori, ut praeest sapientia orbi <hi>attingens</hi> 
+et ipsum <hi>a fine usque ad finem fortiter;</hi> imperans
+scilicet singulis sensibus et artubus tam potenter,
+quatenus non sinat regnare peccatum in suo mortali
+corpore, nec membra sua det arma iniquitati, sed
+exhibeat servire justitiae. Et ita jam non erit homo
+servus peccati, cum peccatum non fecerit: a quo
+<pb n="1019C"/>
+utique liberatus, jam libertatem recuperare consilii,
+jam suam incipiet vindicare dignitatem, dum divinae
+in se imagini condignam vestierit similitudinem,
+imo antiquam reparaverit venustatem. Curet autem
+haec agere, non minus <hi>suaviter</hi> quam <hi>fortiter,</hi> hoc
+est non ex tristitia aut ex necessitate; quod est initium,
+non plenitudo sapientiae: sed prompta et alacri
+voluntate, quod facit acceptum sacrificium; quoniam
+hilarem datorem diligit Deus <note>(II Cor. IX, 7)</note>.
+Sicque per omnia imitabitur sapientiam, dum et vitiis
+resistet fortiter, et in conscientia requiescet
+suaviter.</p>
+          </div3>
+<div3>
+            <head>35.</head>
+            <p>
+ Verum cujus ad talia provocamur exemplo,
+indigemus et auxilio: quo ipsi videlicet per ipsam
+conformemur, atque in eamdem imaginem transformemur
+<pb n="1019D"/>
+a claritate in claritatem, tanquam a Domini
+Spiritu <note>(I Cor. III, 18)</note>. Ergo si a Domini Spiritu, jam
+non a libero arbitrio. Nemo proinde putet ideo dictum
+liberum arbitrium, quod aequa inter bonum et
+malum potestate aut facilitate versetur, cum cadere
+per se quidem potuerit, non autem resurgere, nisi
+per Domini Spiritum. Alioquin nec Deus, nec angeli
+sancti, cum ita sint boni, ut non possint esse
+mali; nec praevaricatores item angeli, cum ita sint
+mali, ut jam non valeant esse boni; liberi arbitrii
+<pb n="1020A"/>
+esse dicentur. Sed et nos illud post resurrectionem
+amissuri sumus, quando utique inseparabiliter alii
+bonis, alii malis admisti fuerimus. Caeterum nec
+Deus caret libero arbitrio, nec diabolus: quoniam
+quod ille esse non potest malus, non infirma facit necessitas,
+sed firma in bono voluntas, et voluntaria
+firmitas: quodque is non valet in bonum respirare,
+non aliena facit violenta oppressio, sed sua ipsius
+in malo obstinata voluntas, ac voluntaria obstinatio.
+Nunc igitur ex eo potius liberum arbitrium dicitur,
+quod sive in bono, sive in malo, aeque liberam faciat
+voluntatem: cum nec bonus quispiam, nec item
+malus dici debeat, aut esse valeat, nisi volens. Tali
+jam ratione non incongrue dicetur ad bonum <emph>617</emph> 
+se, et ad malum habere aequaliter: quod utrobique
+<pb n="1020B"/>
+videlicet par sit ei, non quidem in electione facilitas,
+sed in voluntate libertas.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XI. <hi>Libero arbitrio nihil derogari per gratiam, neque pertentationem.</hi> </head>
+<div3>
+            <head>36.</head>
+            <p>
+ Hac sane dignitatis, ut dictum est, praerogativa
+ rationalem singulariter creaturam Conditor
+insignivit, quod quemadmodum ipse sui juris
+erat, suaeque ipsius voluntatis non necessitatis erat
+quod bonus erat: ita et illa quoque sui quodammodo
+juris in hac parte existeret, quatenus nonnisi sua
+voluntate, aut mala fieret, et juste damnaretur; aut
+bona maneret, et merito salvaretur. Non quod ei
+propria posset sufficere voluntas ad salutem; sed
+quod eam nullatenus sine sua voluntate consequeretur.
+<pb n="1020C"/>
+Nemo quippe salvatur invitus. Nam quod legitur
+in Evangelio: <hi>Nemo venit ad me, nisi Pater meus
+traxerit eum <note>(Joan. VI, 44)</note>
+            </hi>; item in alio loco: <hi>Compelle
+intrare <note>(Luc. XIV, 23)</note>
+            </hi>; nihil impedit: quia profecto
+quantoscunque trahere, vel compellere videatur
+ad salutem benignus Pater, qui omnes vult salvos
+fieri <note>(I Tim. II, 4)</note>; nullum tamen judicat salute
+dignum, quem ante non probaverit voluntarium. Hoc
+quippe intendit, cum terret aut percutit, ut faciat voluntarios,
+non salvet invitos: quatenus dum de malo
+mutat voluntatem in bonum, transferat, non auferat
+libertatem. Quanquam tamen non semper inviti
+trahimur: nec enim caecus aut fessus contristatur
+cum trahitur. Et Paulus ad manus tractus est Damascum,
+utique non invitus <note>(Act. IX, 8)</note>. Trahi denique
+<pb n="1020D"/>
+specialiter volebat [ <hi>al.</hi> spiritualiter], quae et hoc
+ipsum magnopere flagitabat in Canticis: <hi>Trahe me,</hi> 
+inquit, <hi>post te; in odorem curremus unguentorum tuorum <note>(Cantic. I, 3)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>37.</head>
+            <p>
+ Deinde quod e regione scriptum est: <hi>Unusquisque
+tentatur a propria concupiscentia abstractus
+et illectus <note>(Jac. I, 14,)</note>
+            </hi>; et illud: <hi>Corpus quod corrumpitur,
+aggravat animam, et deprimit terrena inhabitatio
+sensum multa cogitantem <note>(Sap. IV, 15)</note>
+            </hi>; et
+item illud Apostoli: <hi>Invenio aliam legem in membris
+<pb n="1021A"/>
+meis repugnantem legi mentis meae, et captivum me
+ducentem in legem peccati, quae est in membris meis <note>(Rom. VII, 23)</note>
+            </hi>;
+haec omnia putari possunt cogere
+voluntatem, et praeripere libertatem. At vero quantislibet
+quis intus forisve tentationibus urgeatur,
+libera profecto semper, quantum ad arbitrium spectat,
+voluntas erit: libere quippe de suo nihilo
+minus consensu judicabit. Quantum autem pertinet
+ad consilium, sive complacitum, carnis interim concupiscentia,
+vitaeque miseria reluctante, minus quidem
+se liberam sentit: sed prorsus non malam, dum
+malo non consentit. Denique Paulus, qui captivum
+se in legem peccati trahi conqueritur, haud dubium
+quin ex minus plena libertate consilii: consensum
+tamen sanum, atque in bono quoque jam ex magna
+<pb n="1021B"/>
+parte se habere liberum gloriatur, <hi>Jam non ego,</hi> 
+inquiens, <hi>operor illud.</hi> Unde hoc confidis, o Paule? <hi>Quoniam consentio,</hi> 
+ inquit, <hi>legi Dei, quoniam bona
+est;</hi> et rursum: <hi>Condelector enim legi Dei secundum
+interiorem hominem <note>(Rom. XX, 16, 22)</note>
+            </hi>. Oculo existente
+simplici, totum corpus lucidum esse praesumit. Sane
+consensu tractum licet peccato, vel captivum miseria,
+liberum se in bono profiteri non dubitat. Unde
+et fidens generaliter infert: <hi>Nihil ergo damnationis
+est his qui sunt in Christo Jesu <note>(Rom. VIII, 1)</note>
+            </hi>.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XII. <hi>An negans fidem metu mortis ac poenarum, excusetur a culpa, vel destituatur libero arbitrio. Ubi negatio Petri discutitur.</hi> </head>
+<div3>
+            <head>38.</head>
+            <p>
+ Sed videamus de his qui poenarum mortisve
+<pb n="1021C"/>
+timore fidem verbo tenus negare compulsi sunt: <emph>618</emph> 
+ ne forte juxta hanc assertionem, aut culpa
+non fuerit, quod vel voce negaverunt; aut cogi in
+culpam et voluntas potuerit, ut vellet videlicet homo
+quod eum et nolle constiterit; et sic perierit liberum
+arbitrium. Quod quia impossibile erat (velle quippe
+et nolle idem eodem tempore non poterat), quaeritur
+unde malum nequaquam volentibus malum debuit
+imputari. Neque enim tale est hoc, quale originale
+peccatum: quo non solum non consentiens,
+verum plerumque et nesciens, alia ratione constringitur
+necdum renatus baptismate. Exempli causa,
+veniat in medium Petrus apostolus: ipse quippe
+visus est negare Veritatem contra propriam voluntatem;
+siquidem aut negare, aut mori necesse erat.
+<pb n="1021D"/>
+Mori timens negavit. Negare nolebat, sed magis
+nolebat mori. Itaque invitus quidem: sed negavit
+tamen, ne moreretur. Quod si lingua, et non voluntate
+loqui homo compulsus est quod nolebat:
+non tamen velle aliud quam volebat. Lingua mota
+est contra voluntatem: sed nunquid et mutata voluntas?
+Quid enim volebat? Prorsus quod erat,
+Christi esse discipulus. Quid loquebatur? <hi>Non novi
+hominem <note>(Matth. XXVI, 72)</note>
+            </hi>. Cur ita? Mortem evadere
+volebat. Sed quid istud criminis fuit? Duas apostoli
+tenemus voluntates: unam, qua voluit non mori,
+penitus inculpabilem; alteram, et multum laudabilem,
+<pb n="1022A"/>
+qua sibi complacebat quod esset christianus.
+In quo ergo culpabitur? An in eo quod mentiri,
+quam mori maluit? Haec plane voluntas reprehensione
+digna fuit, quia [ <hi>al.</hi> qua] corporis magis, quam animae
+voluit servare vitam. Os nempe quod mentitur,
+occidit animam <note>(Sap. I, 11)</note>. Et peccavit ergo, et
+non absque consensu propriae voluntatis, infirmae
+quidem et miserae, sed plane liberae. Peccavit autem,
+non spernendo aut odiendo Christum, sed se nimis
+amando. Nec in hunc perversum amorem sui, voluntatem
+metus ille subitus compulit; sed esse convicit.
+Jam tunc procul dubio talis erat, sed nesciebat,
+cum ab illo quem latere non poterat, audivit: <hi>Priusquam gallus cantet, ter me negabis 
+ <note>(Matth. XXVI,
+34)</note>
+            </hi>. Illa itaque voluntatis infirmitas per incussum
+<pb n="1022B"/>
+timorem nota, non orta, notum fecit quatenus se,
+quatenus Christum amaverit. Notum autem non
+Christo, sed Petro. Nam Christus et ante sciebat
+quid esset in homine. Quatenus ergo Christum diligebat,
+vim prorsus (quod negandum non est) passa
+est illa voluntas, ut contra se loqueretur: quatenus
+vero se, voluntarie procul dubio consensit, ut pro
+se loqueretur. Si Christum non amasset, non negasset
+invitus: verum si se amplius non amasset, non
+aliquatenus negasset. Fatendum igitur hominem
+fuisse compulsum, voluntatem propriam etsi non
+mutare, occultare tamen: compulsum, inquam, non
+quidem recedere ab amore Dei; cedere tamen
+aliquantulum amore sui.
+<pb n="1022C"/>
+</p>
+          </div3>
+<div3>
+            <head>39. </head>
+            <p>
+Quid ergo? forte dissoluta est tota superior assertio
+de libertate voluntatis, quia nimirum inventa
+est cogi potuisse voluntas? Est plane: sed si cogi ab
+alio potuit quam a se ipsa. Quod si sese ipsa coegit,
+compulsa, et compellens; ubi amittere ibi et recipere
+visa est libertatem. Vim quippe, quam ipsa sibi intulit,
+a se pertulit. Porro quod a se voluntas pertulit,
+ex voluntate fuit. Quod ex voluntate fuit, jam non ex
+necessitate, sed voluntarium fuit. Si autem voluntarium,
+et liberum. Quem sua denique ad negandum voluntas
+compulit, compulsus est quia voluit: imo non
+compulsus est, sed consensit, et non alienae potentiae,
+sed propriae voluntati, illi utique, qua mortem
+omnimodis evadere voluit. Alioquin quando vox
+mulierculae linguam sacram in verba formare nefanda
+<pb n="1022D"/>
+valuisset, si non linguae domina voluntas annuisset?
+Denique cum se a sui postmodum nimio illo
+temperavit amore, et Christum coepit, ut debuit,
+toto corde, tota anima, tota virtute diligere; jam
+nullis valuit minis <emph>619</emph> vel poenis extorqueri aliquatenus
+voluntati [ <hi>al.</hi> voluntas] dare linguam arma
+iniquitati, sed potius audacter accommodans veritati. <hi>Obedire</hi> 
+ inquit, <hi>oportet Deo magis quam hominibus <note>(Act. V, 29)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>40.</head>
+            <p>
+ Est sane gemina compulsio, secundum quod
+aut pati aliquid, aut agere contra propriam cogimur
+voluntatem. Quarum passiva quidem (sic enim prior
+<pb n="1023A"/>
+illa recte nominatur) potest nonnunquam fieri absque
+consensu voluntario patientis, sed activa nunquam.
+Proinde malum quod fit in nos, sive de nobis, non
+est imputandum nobis, si tamen invitis. Caeterum
+quod fit a nobis, jam non sine culpa est voluntatis.
+Velle plane convincimur, quod non fieret, si nollemus.
+Est ergo compulsio quaedam etiam activa: sed
+non habet excusationem, cum sit et voluntaria.
+Cogebatur christianus negare Christum, et quidem
+dolens, non tamen nisi volens. Volebat nimis [ <hi>al.</hi> 
+nimirum] gladium vitare ferientis; atque illa talis
+voluntas intus praesidens os aperiebat, non gladius
+qui foris apparebat. Porro talem esse illam voluntatem
+convincebat gladius, non cogebat. Ipsa igitur
+se in culpam, non gladius impellebat. Denique in
+<pb n="1023B"/>
+quibus sana erat voluntas, occidi poterant, flecti
+nequibant. Hoc est quod eis praedictum fuerat, <hi>Facient
+in vos quaecunque voluerint <note>(Marc. IX, 12)</note>
+            </hi>; sed
+in membra, non corda. Non vos facietis quae voluerint:
+sed ipsi facient, vos patiemini. Membra cruciabunt,
+sed voluntatem non mutabunt: saevient in
+carnem, animae autem non habebunt quid faciant.
+Sit licet patientis corpus in potestate torquentis,
+sed voluntas est libera. Infirma si fuerit, saeviendo
+cognoscent; non esse cogent, si non fuerit.
+Sane infirmitas ejus a se ipsa est, sanitas vero non
+a se, sed a Domini Spiritu. Sanatur autem, cum renovatur.</p>
+          </div3>
+<div3>
+            <head>41.</head>
+            <p>
+ Porro renovatur, cum, quemadmodum docet
+Apostolus: <hi>Speculando gloriam Dei in eamdem imaginem
+<pb n="1023C"/>
+transformatur a claritate in claritatem,</hi> hoc
+est de virtute in virtutem, <hi>tanquam a Domini Spiritu <note>(II Cor. III, 18)</note>
+            </hi>.
+Inter quem utique divinum spiritum,
+et carnis appetitum, tenet medium quemdam
+locum id quod dicitur in homine liberum arbitrium,
+id est, humana voluntas: et tanquam in devexo
+latere montis admodum ardui inter utrumque pendens,
+ita in [ <hi>al.</hi> ita] appetitu infirmatur per carnem,
+ut nisi sedulo spiritus adjuvet infirmitatem ejus per
+gratiam, non solum non valeat justitiae, quae est
+juxta prophetam <hi>sicut montes Dei <note>(Psal. XXXV, 7)</note>
+            </hi>,
+ascendendo de virtute in virtutem, apprehendere
+culmen: sed etiam de vitio semper in vitium suo
+ipsius pondere devoluta ruat in praeceps; praegravata
+<pb n="1023D"/>
+nimirum non solum lege peccati originaliter membris
+insita, verum et consuetudine terrenae inhabitationis
+usualiter affectionibus inolita. Quod humanae
+voluntatis videlicet utrumque gravamen uno
+breviter versiculo Scriptura commemorat, dicens: <hi>Corpus, quod corrumpitur, aggravat animam, et deprimit
+terrena inhabitatio sensum multa cogitantem <note>(Sap. IX, 15)</note>
+            </hi>.
+Et haec duo hujus mortalitatis mala,
+sicut non nocent, sed exercent non consentientes:
+<pb n="1024A"/>
+sic non excusant, sed damnant consentientes, ut nec
+salus, nec damnatio ulla ratione sine praecedenti
+consensu voluntario possit haberi; ne qua forte ex
+parte praescribi videatur libertati arbitrii.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Merita hominis mera esse Dei munera.</hi> </head>
+<div3>
+            <head>42.</head>
+            <p>
+ Quamobrem id quod in creatura dicitur liberum
+arbitrium, aut juste profecto damnatur, dum ei
+ad peccatum nulla vi praejudicetur extrinseca: aut
+misericorditer salvatur, cui ad justitiam nulla virtus
+sufficit sua. Sane in his omnibus cogitet lector <emph>620</emph> 
+ originalis peccati prorsus excipi rationem.
+De caetero, libero arbitrio nec extra ipsum quaeratur
+damnationis causa, quod jam non damnat nisi propria
+culpa; nec ab ipso salutis merita, quod sola salvat
+<pb n="1024B"/>
+misericordia. Cujus quippe conatus ad bonum, et
+cassi sunt, si a gratia non adjuventur; et nulli, si
+non excitentur. Caeterum <hi>in malum,</hi> dicente Scriptura, <hi>Proni sunt sensus et cogitationes hominis 
+ <note>(Gen.
+VIII, 21)</note>
+            </hi>. Proinde non ei a se, ut dictum est, sed
+desursum potius a Patre luminum descendere merita
+putentur: si tamen inter data optima et dona perfecta,
+ipsa merito per quae salus aeterna conquiritur,
+merita deputentur.</p>
+          </div3>
+<div3>
+            <head>43.</head>
+            <p>
+ Deus namque rex noster ante saecula, cum
+operatus est salutem in medio terrae, dona sua quae
+dedit hominibus, in merita divisit et praemia: ut et
+praesentia per liberam possessionem nostra interim
+fierent merita, et futura per gratuitam sponsionem
+exspectaremus, imo expeteremus ut debita. Utraque
+<pb n="1024C"/>
+Paulus commemorans: <hi>Habetis,</hi> inquit, <hi>fructum vestrum
+in sanctificationem, finem vero vitam aeternam <note>(Rom. VI, 22)</note>
+            </hi>:
+item: <hi>Et nos ipsi,</hi> ait, <hi>primitias spiritus
+habentes, ingemiscimus adoptionem exspectantes
+filiorum Dei <note>(Rom. VIII, 23)</note>
+            </hi>; primitias spiritus vocans
+sanctificationem, id est virtutes, quibus in praesentiarum
+sanctificamur a spiritu, ut merito consequamur
+adoptionem. Rursum in Evangelio, eadem
+saeculo abrenuntianti promittuntur, ubi dicitur: <hi>Centuplum accipiet, et vitam aeternam possidebit <note>(Matth. XIX, 29)</note>
+            </hi>.
+Itaque non liberi arbitrii, sed Domini
+est salus; imo ipse salus, ipse et via est ad salutem,
+qui ait: <hi>Salus populi ego sum <note>(Psal. XXXIV, 3)</note>
+            </hi>: qui
+item perhibet: <hi>Ego sum via <note>(Joan. XIV, 6)</note>
+            </hi>. Se fecit
+viam, qui et salus erat et vita, ut non glorietur omnis
+<pb n="1024D"/>
+caro. Si ergo bona viae sunt merita, sicut et patriae
+salus et vita, et verum est quod ait David: <hi>Non est
+qui faciat bonum, non est usque ad unum <note>(Psal. XIII,
+3)</note>
+            </hi>, illum videlicet unum de quo item dicitur: <hi>Nemo
+bonus, nisi solus Deus <note>(Marc. X, 18)</note>
+            </hi>: Dei sunt procul
+dubio munera tam nostra opera, quam ejus praemia;
+et qui se fecit debitorem in illis, fecit et nos
+promeritores ex his. Ad quae tamen condenda merita
+<pb n="1025A"/>
+dignatur sibi adhibere creaturarum ministeria,
+non quibus egeat, sed quibus per hoc, vel de quibus
+prosit.</p>
+          </div3>
+<div3>
+            <head>44.</head>
+            <p>
+ Operatur ergo illorum salutem, quorum nomina
+sunt in libro vitae, aliquando per creaturam
+sine ipsa, aliquando per creaturam contra ipsam,
+aliquando per creaturam cum ipsa. Multa profecto
+fiunt hominibus salubria per insensibilem, et item
+per irrationalem creaturam: quae idcirco dixi fieri
+sine ipsa, quod non queat, intellectu carens, esse
+vel conscia. Multa quoque multorum saluti utilia
+facit Deus per malos, sive homines, sive angelos:
+sed quoniam invitos, ideo contra ipsos. Nam, dum
+nocere cupientes juvant, quantum aliis valet utilis
+actio, tantum ipsis perversa nocet intentio. Porro
+<pb n="1025B"/>
+per quos et cum quibus operatur Deus, boni sunt
+vel angeli, vel homines, qui quod vult Deus, et agunt
+pariter, et volunt. Qui enim bono, quod opere complent,
+voluntate consentiunt, opus omnino quod per
+eos Deus explicat, ipsis communicat. Unde Paulus,
+cum bona plurima, quae Deus per ipsum fecerat,
+enarrasset: <hi>Non autem ego,</hi> ait, <hi>sed gratia Dei
+mecum <note>(I Cor. XV, 10)</note>
+            </hi>. Potuit dicere: Per me, sed
+quia minus erat, maluit dicere, <hi>mecum:</hi> praesumens
+se non solum operis esse ministrum per effectum;
+sed et operantis quodammodo socium per consensum.</p>
+          </div3>
+<div3>
+            <head>45.</head>
+            <p>
+ Videamus nunc secundum triplicem Dei operationem,
+quam posuimus, quid creatura quaeque
+<pb n="1025C"/>
+pro suo ministerio mereatur. Et illa quidem, per
+quam, et sine qua fit quod fit, quid mereri potest?
+quid illa contra quam fit, nisi iram? quid et cum
+qua fit, nisi gratiam? In prima itaque nulla, in sequenti
+mala, in ultima bona merita conquiruntur.
+Nec enim pecudes, <emph>621</emph> cum per eas bonum aut
+malum quodcunque fit, boni quidpiam merentur,
+aut mali. Non habent quippe unde bono malove
+consentiant. Multo autem minus lapides; cum nec
+sentiant. Caeterum diabolus, vel homo malus, cum
+vigeant et vigilent ratione, jam quidem merentur,
+sed nonnisi poenam, pro eo quod a bono dissentiant.
+Paulus autem, qui volens evangelizat, ne, si invitus,
+dispensatio ei tantum credita sit <note>(I Cor. II, 17)</note>; et
+quicunque similiter sapiunt: quoniam quidem ex
+<pb n="1025D"/>
+consensu voluntatis obediunt, repositam sibi esse
+confidunt coronam justitiae. Utitur ergo Deus in salutem
+suorum irrationabili, et item insensibili creatura,
+tanquam jumento vel instrumento, quae jam
+expleto opere nusquam erunt. Utitur creatura rationali,
+sed malevola, quasi disciplinae virga, quam,
+correcto filio, in ignem projiciet tanquam sarmentum
+inutile. Utitur et angelis et hominibus bonae
+voluntatis, tanquam commilitionibus et coadjutoribus
+suis, quos peracta victoria amplissime munerabit.
+Denique et Paulus de se, suisque similibus, audacter
+pronuntiat: <hi>Coadjutores enim Dei sumus (I Id. III,
+<pb n="1026A"/>
+9)</hi>. Ibi itaque Deus homini benigne merita constituit,
+ubi per ipsum, et cum ipso, boni quidpiam
+operari dignanter instituit. Hinc coadjutores Dei,
+cooperatores Spiritus sancti, promeritores regni nos
+esse praesumimus, quod per consensum utique voluntarium
+divinae voluntati conjungimur.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>Quid gratiae, quid libero arbitrio id negotio salutis attribuendum.</hi> </head>
+<div3>
+            <head>46.</head>
+            <p>
+ Quid igitur? hoc ergo totum liberi arbitrii
+opus, hoc solum ejus est meritum quod consentit?
+Est prorsus. Non quidem quod vel ipse consensus,
+in quo omne meritum consistit, ab ipso sit: cum
+<pb n="1026B"/> <hi>nec cogitare</hi> 
+ (quod minus est, quam consentire) <hi>aliquid a nobis, quasi ex nobis sufficientes simus 
+ <note>(II
+Cor. III, 5)</note>
+            </hi>. Verba sunt non mea, sed Apostoli, qui
+omne quod boni esse potest, id est cogitare, et
+velle, et perficere pro bona voluntate, attribuit Deo <note>(Philipp. II, 13)</note>,
+non suo arbitrio. Si ergo Deus
+tria haec, hoc est bonum cogitare, velle, perficere,
+operatur in nobis: primum profecto sine nobis;
+secundum, nobiscum; tertium, per nos facit. Siquidem
+immittendo bonam cogitationem, nos praevenit;
+immutando etiam malam voluntatem, sibi per
+consensum jungit: ministrando et consensui facultatem,
+foris per apertum opus nostrum internus
+opifex innotescit. Sane ipsi nos praevenire nequaquam
+possumus. Qui autem bonum neminem
+<pb n="1026C"/>
+invenit, neminem salvat quem non praevenit. A
+Deo ergo sine dubio nostrae fit salutis exordium, nec
+per nos utique, nec nobiscum. Verum consensus, et
+opus, etsi non ex nobis, non jam tamen sine nobis.
+Neque primum itaque, in quo quippe nos nil facimus;
+nec ultimum, quod et plerumque extorquet aut
+timor inutilis, aut simulatio damnabilis; sed tantum
+medium nobis reputatur in meritum. Sola nempe
+interdum bona voluntas sufficit: caetera non prosunt,
+si sola defuerit. Non prosunt dixerim, sed agenti,
+non cernenti. Valet itaque intentio ad meritum;
+actio, ad exemplum; utramque praeveniens cogitatio,
+tantummodo ad excitandum [ <hi>alias,</hi> exercitandum.]</p>
+          </div3>
+<div3>
+            <head>47.</head>
+            <p>
+ Cavendum ergo, ne cum haec invisibiliter intra
+<pb n="1026D"/>
+nos ac nobiscum actitari sentimus, aut nostrae
+voluntati attribuamus, quae infirma est; aut Dei necessitati,
+quae nulla est; sed soli gratiae, qua plenus
+est. Ipsa liberum excitat arbitrium, cum seminat
+cogitatum; sanat, cum immutat affectum; roborat,
+ut perducat ad actum; servat, ne sentiat defectum.
+Sic autem ista cum libero arbitrio operatur, ut tantum
+illud in primo praeveniat, in caeteris comitetur;
+ad hoc utique praeveniens, ut jam sibi deinceps
+cooperetur. Ita tamen quod a sola gratia coeptum
+est, pariter ab utroque <emph>622</emph> perficitur: ut mistim,
+<pb n="1027A"/>
+non singillatim; simul, non vicissim; per singulos
+profectus operentur. Non partim gratia, partim liberum
+arbitrium, sed totum singula opere individuo
+peragunt. Totum quidem hoc, et totum illa; sed ut
+totum in illo, sic totum ex illa.</p>
+          </div3>
+<div3>
+            <head>48.</head>
+            <p>
+ Credimus placere lectori, quod a sensu Apostoli
+nusquam recedimus; et quaquaversum evagetur
+oratio, in eadem pene ipsius verba frequenter recidimus.
+Quid enim nostra aliud sonant quam illud: <hi>Ergo neque volentis, neque currentis, sed miserentis
+est Dei? 
+ <note>(Rom. IX, 16.)</note>
+            </hi> Quod sane non ideo dicit,
+quasi quis velle aut currere possit in vanum: sed
+quod is qui vult et currit, non in se, sed in eo a quo
+accepit et velle, et currere, debeat gloriari. Denique
+ait: <hi>Quid habes quod non accepisti? <note>(I Cor. IV, 7,)</note>
+            </hi> 
+<pb n="1027B"/>
+Crearis, sanaris, salvaris. Quid horum tibi ex te, o
+homo? quid horum non impossibile libero arbitrio?
+Nec creare qui non eras, nec justificare peccator,
+nec mortuus poteras te ipsum resuscitare: ut caetera
+praetermittam bona, quae aut sanandis necessaria
+sunt, aut salvandis reposita. Quod dicimus, de primo
+patet et ultimo. Sed et de medio nemo dubitat,
+nisi qui ignorans Dei justitiam, et suam volens constituere,
+justitiae Dei non est subjectus <note>(Rom. X, 3)</note>.
+Quid enim? Agnoscis creantis potentiam, salvantis
+gloriam [ <hi>al.,</hi> gratiam]; et sanantis ignoras justitiam? <hi>Sana me,</hi> 
+ ait, <hi>et sanabor; salvum me fac, et salvus
+ero, quoniam laus mea tu es <note>(Jerem. XVII, 14)</note>
+            </hi>. Iste
+justitiam Dei agnoscebat, a quo aeque sperabat, tam
+sanari a peccato, quam a miseria liberari: et ideo
+<pb n="1027C"/>
+laudem suam illum, non se, merito statuebat: Propter
+hoc, et David ingeminans: <hi>Non nobis,</hi> inquit, <hi>Domine, non nobis, sed nomini tuo da gloriam 
+ <note>(Psal.
+CXIII, 9)</note>
+            </hi>: quod utramque a Deo stolam, et justitiae
+scilicet exspectaret, et gloriae. Quis est qui ignorat
+Dei justitiam? Qui se ipsum justificat. Quis est qui
+se ipsum justificat? Qui merita sibi aliunde, quam
+a gratia praesumit. Caeterum, qui fecit quod salvaret,
+etiam dat unde salvet. Ipse, inquam, merita donat,
+qui fecit quibus donaret. <hi>Quid retribuam,</hi> inquit, <hi>Domino pro omnibus,</hi> 
+ non quae tribuit, sed <hi>quae retribuit
+mihi?</hi> Et quod est, et quod justus est a Deo
+esse confitetur: ne, si utrumlibet negaret, utrumque
+perderet, amittendo utique unde justus est, et sic
+<pb n="1027D"/>
+damnando quod est. Sed sic vel tertio loco invenit
+quod vicissim rependeret: <hi>Calicem,</hi> ait, <hi>salutaris
+accipiam.</hi> Calix salutaris, sanguis est Salvatoris.
+Ergo, si deest tibi omnino de tuo, quod vel secundis
+Dei donis retribuas, unde tibi salutem praesumis: <hi>Nomen Domini,</hi> 
+ inquit, <hi>invocabo <note>(Psal. CXV, 12,
+13)</note>
+            </hi>, quod nimirum quicunque invocaverit salvus erit <note>(Rom. X, 13)</note>.</p>
+          </div3>
+<div3>
+            <head>49.</head>
+            <p>
+ Igitur qui recte sapiunt, triplicem confitentur
+operationem, non quidem liberi arbitrii, sed divinae
+gratiae in ipso, sive de ipso. Prima, creatio; secunda,
+reformatio; tertia est consummatio. Primo namque
+<pb n="1028A"/>
+in Christo creati sumus in libertatem voluntatis:
+secundo reformamur per Christum in spiritum libertatis;
+cum Christo deinde consummandi in statum
+aeternitatis. Siquidem quod non erat, in illo creari
+oportuit qui erat; per formam reformari deformem;
+membra non perfici nisi cum capite. Quod
+utique tunc complebitur, cum omnes occurremus in
+virum perfectum, in mensuram aetatis plenitudinis
+Christi <note>(Ephes. IV, 13)</note>: quando apparente Christo
+vita nostra, apparebimus et nos cum ipso in gloria <note>(Coloss. III, 4)</note>.
+Cum igitur consummatio fieri habeat
+de nobis, sive etiam in nobis, non autem a nobis;
+creatio vero facta sit et sine nobis: sola, quae
+nobiscum quodammodo fit propter consensum voluntarium
+nostrum, in merita nobis reputabitur reformatio.
+<pb n="1028B"/>
+Ipsa sunt jejunia nostra, vigiliae, continentia,
+opera misericordiae, caeteraque virtutum exercitia,
+per quae utique constat interiorem hominem nostrum
+renovari de die in diem: dum et intentio terrenis
+incurvata curis, de imis paulatim ad superna resurgit;
+et affectio circa carnis desideria languens, sensim
+in amorem spiritus convalescit; et memoria
+veterum operum turpitudine sordens, novis bonisque
+actibus candidata in dies hilarescit. In his
+namque tribus interior renovatio <emph>623</emph> consistit:
+rectitudine scilicet intentionis, puritate affectionis,
+recordatione bonae operationis, per quam sibi bene
+conscia memoria enitescit.</p>
+          </div3>
+<div3>
+            <head>50.</head>
+            <p>
+ Verum haec cum certum sit divino in nobis
+<pb n="1028C"/>
+actitari Spiritu, Dei sunt munera: quia vero, cum
+nostrae voluntatis assensu, nostra sunt merita. <hi>Non
+enim vos estis,</hi> inquit, <hi>qui loquimini, sed Spiritus Patris
+vestri qui loquitur in vobis <note>(Matth. X, 20)</note>
+            </hi>: et
+Apostolus: <hi>An experimentum ejus quaeritis,</hi> inquit, <hi>qui in me loquitur Christus? 
+ <note>(II Cor. XIII, 3.)</note>
+            </hi> Si ergo
+Christus, aut Spiritus sanctus loquitur in Paulo, non
+etiam itidem operatur in ipso? <hi>Non enim loquor,</hi> ait, <hi>quae per me non efficit Deus 
+ <note>(Rom. XV, 18)</note>
+            </hi>. Quid
+ergo? si non Pauli, sed Dei loquentis in Paulo, vel
+operantis per Paulum, et verba sunt, et opera; ubi
+jam Pauli merita? ubi est quod tam fidenter aiebat: <hi>Bonum certamen certavi, cursum consummavi, fidem
+servavi: de reliquo reposita est mihi corona justitiae,
+quam reddet mihi Dominus in illa die justus judex?</hi> 
+<pb n="1028D"/> <note>(II Tim. IV, 7, 8.)</note> 
+ An in eo forte confidit sibi coronam
+esse repositam, quod per ipsum illa fiebant?
+Sed multa per malos, sive angelos, sive homines,
+fiunt bona; nec tamen reputantur illis in merita.
+An quia potius et cum ipso, hoc est cum ejus bona
+voluntate, fiebant? Nam <hi>si invitus,</hi> inquit, <hi>evangelizavero,
+dispensatio mihi credita est: si autem volens,
+gloria est mihi <note>(I Cor. IX, 17)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>51.</head>
+            <p>
+ Caeterum si vel ipsa voluntas, de qua omne
+meritum pendet, ab ipso Paulo non est; quo pacto
+eam, quam sibi repositam praesumit, coronam vocat
+justitiae? An quoniam juste, jam et ex debito requiritur,
+<pb n="1029A"/>
+quodcunque vel gratis promittitur? Denique
+ait: <hi>Scio cui credidi, et certus sum quia potens est
+depositum meum servare <note>(II Tim. I, 12)</note>
+            </hi>. Dei promissum,
+suum appellat depositum: et quia credidit
+promittenti, fidenter promissum repetit. Promissum
+quidem ex misericordia, sed jam ex justitia persolvendum.
+Est ergo quam Paulus exspectat, corona
+justitiae: sed justitiae Dei, non suae. Justum quippe
+est ut reddat quod debet: debet autem quod pollicitus
+est. Et haec est justitia, de qua praesumit Apostolus,
+promissio Dei: ne si hanc contemnens, suam
+velit statuere, justitiae Dei non sit subjectus, cujus
+tamen suae justitiae ipsum Deus voluit habere consortem,
+ut et coronae faceret promeritorem. In eo
+enim sibi justitiae consortem, et coronae statuit promeritorem;
+<pb n="1030A"/>
+cum operum, quibus erat illa repromissa
+corona, habere dignatus est coadjutorem. Porro
+coadjutorem fecit, cum fecit volentem, hoc est suae
+voluntati consentientem. Itaque voluntas in auxilium,
+auxilium reputatur in meritum. Si ergo a Deo voluntas
+est; et meritum. Nec dubium quin a Deo sit et
+velle, et perficere pro bona voluntate. Deus igitur
+auctor est meriti, qui et voluntatem applicat operi,
+et opus explicat voluntati [ <hi>al.,</hi> voluntatis]. Alioquin,
+si proprie appellentur ea, quae dicimus nostra merita;
+spei quaedam sunt seminaria, charitatis incentiva,
+occultae praedestinationis indicia, futurae felicitatis
+praesagia, via regni, non causa regnandi.
+Denique, quos justificavit, non quos justos invenit,
+hos et magnificavit <note>(Rom. VIII, 30)</note>.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
