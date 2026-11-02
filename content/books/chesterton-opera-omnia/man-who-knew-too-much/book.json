@@ -1,0 +1,87 @@
+{
+  "id": "chesterton-man-who-knew-too-much",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Man Who Knew Too Much",
+    "pt-BR": "O Homem que Sabia Demais"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Eight stories of Horne Fisher, a pale and disillusioned English gentleman who knows the secrets of the great and the powerful and can solve any crime but never prosecute it. A bitter, brilliant companion to the Father Brown stories, with the English governing class in the dock.",
+    "pt-BR": "Oito histórias de Horne Fisher, um cavalheiro inglês pálido e desiludido que conhece os segredos dos grandes e poderosos e sabe resolver qualquer crime, mas nunca o denuncia. Um companheiro amargo e brilhante das histórias do Padre Brown, com a classe dirigente inglesa no banco dos réus."
+  },
+  "composed": "1922",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/man-who-knew-too-much",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1720",
+      "edition": "The Man Who Knew Too Much (Cassell and Company, 1922), Project Gutenberg #1720.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1922 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-man-who-knew-too-much",
+      "title": {
+        "en-US": "The Man Who Knew Too Much"
+      }
+    },
+    {
+      "id": "ch02-the-vanishing-prince",
+      "title": {
+        "en-US": "The Vanishing Prince"
+      }
+    },
+    {
+      "id": "ch03-the-soul-of-the-schoolboy",
+      "title": {
+        "en-US": "The Soul of the Schoolboy"
+      }
+    },
+    {
+      "id": "ch04-the-bottomless-well",
+      "title": {
+        "en-US": "The Bottomless Well"
+      }
+    },
+    {
+      "id": "ch05-the-fad-of-the-fisherman",
+      "title": {
+        "en-US": "The Fad of the Fisherman"
+      }
+    },
+    {
+      "id": "ch06-the-hole-in-the-wall",
+      "title": {
+        "en-US": "The Hole in the Wall"
+      }
+    },
+    {
+      "id": "ch07-the-temple-of-silence",
+      "title": {
+        "en-US": "The Temple of Silence"
+      }
+    },
+    {
+      "id": "ch08-the-vengeance-of-the-statue",
+      "title": {
+        "en-US": "The Vengeance of the Statue"
+      }
+    }
+  ]
+}
