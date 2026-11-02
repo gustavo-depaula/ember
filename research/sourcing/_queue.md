@@ -11,7 +11,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Alonso Rodríguez · Luis de León. Left: Luis's letters and trial writings, his Latin Opera, the Job tercets and about 19k words of poems (Mayans 1761 / BAE 37)
 - [x] Elisabeth of the Trinity · Curé of Ars. Left: Elisabeth's complete letters, poems, Journal and notes (no clean text online); the French Esprit, the Curé's letters, English sermons
 - [x] Francis de Sales (French complete, 25 books). Left: letters 231–270 and MMXI–MMXLVII (from archive.org Annecy XII and XXI OCR), splitting run-together sermons; English (Mackey Controversy, Letters, Canticle, Spiritual Directory) for the English pass
-- [ ] Jane de Chantal
+- [x] Jane de Chantal. Left: the 1665 Réponses (long-s print, needs re-OCR), ~50 letters folded into neighbours
 - [ ] Vincent de Paul
 - [ ] Caussade · Lallemant · Brother Lawrence (rest) · Surin
 - [ ] Montfort (gaps) · Bérulle · Olier
