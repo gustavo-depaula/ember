@@ -1,0 +1,670 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De fructibus carnis et spiritus</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeFrCaE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>CAP. I. </head>
+        <p>
+ <hi>De tribus virtutibus theologicis, et quatuor cardinalibus ex humilitate nascentibus.</hi> --CAP. II. <hi>De parium
+inter se et cum imparibus collatione, ut virtutum cum virtutibus, vitiorum cum vitiis, ac virtutum cum vitiis.</hi> 
+CAP. III. <hi>De superbia, et ejus comitibus.</hi> --CAP. IV. <hi>De vana gloria, et ejus comitibus.</hi> --CAP. V. <hi>De invidia,
+et comitibus ejus.</hi> --CAP. VI. <hi>De ira, et comitatu ejus.</hi> --CAP. VII. <hi>De tristitia, seu acedia, et comitatu
+ejus.</hi> --CAP. VIII. <hi>De avaritia, et comitatu ejus.</hi> --CAP. IX. <hi>De ingluvie ventris, seu gula, et de comitatu
+ejus.</hi> --CAP. X. <hi>De luxuria, et comitatu ejus.</hi> --CAP. XI. <hi>De humilitate, et ejus comitibus.</hi> --CAP. XII. <hi>De prudentia, et comitatu ejus.</hi> 
+--CAP. XIII. <hi>De justitia, et comitatu ejus.</hi> --CAP. XIV. <hi>De fortitudine, et
+comitibus ipsius.</hi> --CAP. XV. <hi>De temperantia, et ejus comitibus.</hi> --CAP. XVI. <hi>De fiac, et ejus comitibus.</hi> 
+CAP. XVII. <hi>De spe, et ejus comitibus.</hi> --CAP. XVIII. <hi>De charitate, et comitatu ejus.</hi> --CAP. XIX. <hi>De dilectione,
+et ejus ratione duplici.</hi> 
+</p>
+      </div1>
+
+<div1>
+        <head>PROLOGUS.</head>
+
+<pb n="0997B"/>
+<p>Cum omnis divinae paginae sermo id intendat, ut
+homini bonum humilitatis persuadeat, et superbiae
+malum declinandum attentius suadeat, praesertim
+cum in altero salutis et vitae, in altero ruinae principium
+sit, necessarium videtur ipsius humilitatis et
+superbiae fructum et efficaciam quasi formam quamdam
+visibilem virtutum cultori facie tenus ostendere,
+quatenus alterutrius speciei, superbiae, vel humilitatis
+imitator cognoscat ex fructuum qualitate, quid
+mercedis assequatur ex utriuslibet exsecutione.
+Duas itaque arbusculas fructu et ascensu dissimiles,
+et rudi, et novello cuilibet converso, adjunctis vitiorum
+sive virtutum paucis diffinitiunculis proponimus,
+ex quarum radice fructuum proventus pateat,
+<pb n="0997C"/>
+et quae arbor ex duabus eligenda sit allectus fructu
+discernat. Et quidem superbia fructus carnis radix
+est, fructus spiritus humilitas. Quae diversitas inspecta
+radicum, fructum earum moderabiliter quaerentis
+appetitum ostendit. Denique vetus Adam se
+collocat in arce vitiosae arboris. Novus Adam principatum
+obtinet proventus spiritualis. Si ergo praestantius
+deteriori, id est bonum malo altrinsecus
+conjunxeris, quod in his emineat, quod praeponderet
+valenter intellexeris. Collatis enim qualitatibus
+contrariorum cito meliorum aestimatio patebit.
+Perspectis igitur radicibus ramis et fructibus
+nostris arbitrii tui sit eligere quod volueris.</p>
+</div1>
+
+<div1>
+        <head>CAP. I. <hi>De tribus virtutibus theologicis, et quatuor cardinalibus ex humilitate nascentibus.</hi> </head>
+
+<pb n="0997D"/>
+<p>Cunctarum enim, ut praedictum est, virtutum fundamentum
+est humilitas, <hi>quia omnis qui se humiliat
+<pb n="0998B"/>
+exaltabitur <note>(Luc. XIV)</note>
+          </hi>. Et pauperibus <hi>spiritu regnum
+coelorum aperitur <note>(Matth. V)</note>
+          </hi>. Prima autem virtutum
+humilitati fides accedit, quia <hi>impossibile est sine
+fide placere Deo; et justus ex fide vivit <note>(Hebr. XI)</note>
+          </hi>.
+Sed fide quid proficis, si spe non quaeris quod fide
+complecteris? <hi>Quod enim nondum videmus speramus
+et spes non confundit <note>(Rom. V)</note>
+          </hi>. Quia vero sperando
+amamus quod jam fide tenemus, spei charitas succedit
+et sic fides, quae per dilectionem operatur,
+recte, procedit. Qualiter autem istae tres virtutes, id
+est spes, fides, charitas distinguendae, tenendaeque
+sint prudentia docet et informat. Justitia ornat et
+consummat. Fortitudo retinet et reborat, et ne excurrant
+in nimia et ne incompetenter intra suos terminos
+coarctentur, temperantia moderatur et discernit.
+<pb n="0998C"/>
+Si ergo has quatuor virtutes addas tribus
+superioribus, septenarius iste virtutum numerus
+plenitudinem septiformis gratiae suis exsecutoribus
+adducit, per quam vitiorum compago dissolvitur,
+corpus diaboli superatur, et per semitam justitiae
+fons et origo virtutum omnium aditur.</p>
+</div1>
+
+<div1>
+        <head>CAP. II. <hi>De parium inter se et cum imparibus collatione, ut virtutum cum virtutibus, viliorum cum vitiis ac virtutum cum vitiis.</hi> </head>
+<p>Si adjunxeris similia similibus, partium aequalitas
+utriusque partis excellentiam perhibet. Si vero dissimilia
+contuleris, magis patet diversitas alterius.
+Sicque conjunctio parium differentiam arcet partium
+singularum, et diversa qualitas utriusque crescere
+<pb n="0998D"/>
+videtur ex utroque. Confer album nigro, sapientem
+stulto, superbum humili, malum bono, et ex ipsis
+contrariis distantibus argumentum propriae naturae
+<pb n="0999A"/>
+videtur accedere singulis speciebus. Sic de fructibus
+praemissarum arborum considera. Quantae enim
+sit amaritudinis cum germine suo radix superbiae
+facile pervidetur ex sanctae humilitatis uberi dulcedine.
+Itaque qui vitiorum furias, virtutum oppositione
+debellare proposuit, ad rem esse noverit naturas
+eorum vel qualitates subtili examine considerare,
+quibus inspectis tota vis eorum considerabitur
+in triumphis humilitas. Igitur quae ex virtutum
+principatu altissimum obtinet locum septiformi
+virtutum theologicarum, et cardinalium corona cingitur.
+Ex quibus aliae virtutes quasi de fonte quodam
+derivatae suis exsecutionibus perfectionem quamdam
+inducunt, et bravium ostendunt, quod pugnantibus
+quidem promittitur, exhibetur autem vincentibus.
+<pb n="0999B"/>
+Cui humilitati summa vitiorum occurrens superbia,
+in phalange sua mortis ostendit materiam,
+et sequacibus ruinam certam. Utriusque igitur comitatus,
+natura vel effectu distantes non pigeat considerare,
+ut, reprobatis per rationem vitiis, per virtutem
+possit triumphare.</p>
+</div1>
+
+<div1>
+        <head>CAP. III. <hi>De superbia, et ejus comitibus.</hi> </head>
+<p>Superbia est singularis excellentiae, tumentisque
+animi super omnes coetus quaedam gloriae et supereminentiae
+appetitio. Cujus comitatus principales
+isti sunt:</p>
+<p>Luxuria, ventris ingluvies, avaritia, tristitia,
+ira, invidia, vana gloria.</p>
+<p>Quae quidem septem vitia principalia (ut aliquid
+de saeculari scientia loquamur) subalterna genera
+<pb n="0999C"/>
+(juxta quemdam modum) dicere possumus, id est
+ut sint species ad superiora, id est ad superbiam
+unde procedunt; genera vero ad inferiora, id est
+ad vitia ex ipsis prodeuntia. Verbi gratia, dicimus
+superbiae malum quoddam genus substantivum esse;
+et vitia de superbia manantia, species quasdam
+substantivas, ut sunt animal et homo, equus, etc.
+sed juxta aliquid. Sicut dicimus noctem tenebras
+multiplicare, et silentium malitiam tegere, cum in
+altero lux, in altero vox intermissa sit, et multa
+his similia. Neminem autem hic fucus et externus
+color offendat, quem idcirco posui ut fontem et
+rivum, id est superbiam cum suis appendicibus eo
+melius ostendam. Nunc itaque annexis definitiunculis,
+<pb n="0999D"/>
+de superbiae malitiae procinctu et comitatu
+videamus.</p>
+</div1>
+
+<div1>
+        <head>CAP. IV. <hi>De vana gloria, et comitibus ejus.</hi> </head>
+<p>Vana gloria est, placendi desiderio mota utriusque
+hominis incompetens agitatio. In ejus comitatu
+sunt hypocrisis, inobedientia, jactantia, novitatum
+praesumptio, arrogantia, loquacitas, pertinacia.</p>
+<p>Hypocrisis est virtutum simulatione clausum vitium
+ex arte palliare.</p>
+<p>Inobedientia est, ex duritia mentis obstinatae, ei,
+cui parere debeas, justa imperanti, nolle obtemperare.</p>
+<p>Jactantia est fastu mentis id agente, majora
+quam sint de te inaniter praedicare et promittere.</p>
+<p>
+          <pb n="1000A"/>Novitatum praesumptionis est contra qualitatem
+sui ordinis, aut virium singulari tumore novi aliquid
+attentare.</p>
+<p>Arrogantia est venditare quae non habes, et gloriari
+ex eo quod non acceperis placendi hominibus
+cupiditate.</p>
+<p>Loquacitas est per quam levitas interior stulta
+verborum effusione monstratur.</p>
+<p>Pertinacia est ex irrationabili, et inflexibili mentis
+obstinatione meliori nolle cedere.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. V. <hi>De invidia, et comitibus ejus.</hi> </head>
+<p>Invidia est, quae fervidum in dolore reddit animum
+ob alterius bonum et honorem, ea videre
+nolentem. In cujus comitatu sunt odium, afflictio,
+exsultatio, malitia, detractio, amaritudo, susurratio.</p>
+<p>
+          <pb n="1000B"/>Odium est, quod motum irati animi morosius et
+tenacius spe vindictae mordaciter abscondit, et hominem
+ipsum, non tantum vitia ejus, malevolentia
+persequitur.</p>
+<p>Afflictio in prosperis est odientis animi cruciatus
+ex profectu minus sibi placentis descendens.</p>
+<p>Exsultatio in adversis est ex casu alterius ob
+conceptum semel odium immodicae laetitiae ostentatio.</p>
+<p>Malitia est alieni damni sine spe boni ex eo obtinendi
+desiderium.</p>
+<p>Detractio est alienae gloriae et famae mordax et
+invida per verba, aut signa diminutio.</p>
+<p>Amaritudo est spiritalis expers gaudii quaedam
+<pb n="1000C"/>
+distractae mentis solitudo, et ex alieno bono aegrotatio.</p>
+<p>Susurratio est per quam vel odiosae adulationis
+vel derogationis sibilo quodam alter in odium alterius
+excitatur.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. VI. <hi>De ira, et comitatu ejus.</hi> </head>
+<p>Ira est strictus concitati animi furor ulciscendi
+libidine fervens. Ejus comites sunt clamor, blasphemia,
+contumelia, luctus, temeritas, furor, indignatio.</p>
+<p>Clamor est perpetrati facinoris sonora, et inverecunda
+exprobratio.</p>
+<p>Blasphemia est cum quadam probrosa irreligiositate
+convitiosorum jaculata in alium maledictio;
+<pb n="1000D"/>
+aut est divini vel humani nominis diminutio jurando
+vel exprobrando facta.</p>
+<p>Contumelia est cum moeroris livore, et amaritudinis
+imperio alienae infamiae manifestatio.</p>
+<p>Luctus est, qui exacerbato animo, quod minus
+in superiorem potest ultionis in se fletibus satisfacit.</p>
+<p>Temeritas est rationis expers procacis animi indisciplinatus
+excursus.</p>
+<p>Furor est effrenata conceptis intrinsecus adversis
+animi impatientis, et impotentis rabies.</p>
+<p>Indignatio est turbida quaedam ex insolenti malevolentia
+in inferiorem despectio.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. VII. <hi>De tristitia seu acedia et comitatu ejus.</hi> </head>
+<p>Tristitia est ex frustrato rebus contrariis voto
+<pb n="1001A"/>
+turbatae mentis anxietudo, et rei bonae bene gerendae
+taedium. Ejus comites sunt desperatio,
+rancor, torpor, timor, acidia, querela, pusillanimitas.</p>
+<p>Desperatio est ad vitae statum, vel virtutum reditum,
+fracta spei gubernatio; vel est spei de salute
+aut venia obtinenda abjectio.</p>
+<p>Rancor est ex atrabili, aut nimia pigritia virium,
+animi et corporis enervatio et corruptio.</p>
+<p>Torpor est languentis animi pigritia, remissa motio,
+corporis totius hebetudo.</p>
+<p>Timor est per quem menti fluctuans angustia ex
+contrariorum exspectatione generatur.</p>
+<p>Acidia est ex nimia confusione animi nata tristitia
+sive taedium, vel amaritudo animi nimia,
+<pb n="1001B"/>
+qua jucunditas spiritalis exstinguitur, et quodam
+desperationis principio mens in seipsa subvertitur.</p>
+<p>Querela est latentem cordis molestiam verbis impatientibus
+aperire, et se minus posse quam possit
+ostendere.</p>
+<p>Pusillanimitas est ex rerum adversarum taedio
+iners et inconsiderata fracti animi dejectio.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. VIII. <hi>De avaritia et comitatu ejus.</hi> </head>
+<p>Avaritia est gloriae, divitiarum, seu quarumlibet
+aliarum rerum insatiabilis et inhonesta cupiditas.
+Ejus comites sunt philargyria, perjurium, violentia,
+usura, fraus, rapina et fallacia.</p>
+<p>Philargyria est per quam, singulari appetitu pecuniae
+<pb n="1001C"/>
+corradendae, continentiae frena laxantur: interpretatur
+enim <hi>amor argenti.</hi> </p>
+<p>Perjurium est fraudulenta commodi consequendi
+aut damni devitandi gratia, veritatis agnitae abnegatio
+pejerando facta.</p>
+<p>Violentia est per quam malitia seu injuria, commodi
+gratia, in inferiorem potenter et per vim exercetur.</p>
+<p>Usura est pecuniae aut alterius rei mutuo datae
+cum fenore receptio.</p>
+<p>Fraus est per quam familiari rei, inopiae vel malitiae
+causa, clandestina subreptione consulitur.</p>
+<p>Rapina est ex avidae mentis proveniens impetu
+violenta alienarum rerum direptio.</p>
+<p>Fallacia est per quam motibus deceptoriis veritas
+<pb n="1001D"/>
+rei palliatur, vel odium alterius, vel proprium commodum
+intenditur.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. IX. <hi>De ingluvie ventris seu gula, et comitatu ejus.</hi> </head>
+<p>Ventris ingluvies est immoderata qualiumcunque
+ciborum potuumve hiantis concupiscentiae satisfactio.
+Ejus comites sunt ebrietas, crapula, mentis
+hebetatio, languor, delicatio, oblivio.</p>
+<p>Ebrietas est per quam menti quaedam sui oblivio
+generatur ex superfluorum potuum indulgentia.</p>
+<p>Crapula est, solius corporis causa, illecebrosus et
+avidus ciborum appetitus.</p>
+<p>Mentis hebetatio est acutae rationis obtusio carnalis
+intemperantiae crassis sensibus inducta.</p>
+<p>
+          <pb n="1002A"/>Languor est voracitatis vitio contracta aegrae mentis
+desidia.</p>
+<p>Delicatio est cibi aut potus lauti, deliciosi, et cari
+ultra statum et necessitatem appetitio.</p>
+<p>Oblivio est per quam animo vitiis ob gulam sepulto,
+honestatis et salutis negligentia inducitur.</p>
+</div1>
+
+<div1>
+        <head>CAP. X. <hi>De luxuria et comitatu ejus.</hi> </head>
+<p>Luxuria est ex immundis descendens desideriis
+lubrica, et effrenata mentis corporisve prostitutio.
+Ejus comites sunt voluptas, lascivia, ignavia, petulantia,
+titubatio, blanditiae, deliciae.</p>
+<p>Voluptas est cum quadam lubrica suavitate ad illicita
+foedae mentis inclinatio.</p>
+<p>Lascivia est indecens motus dissoluti corporis
+in loco verecundo ex intemperantia carnali prodiens.</p>
+<p>
+          <pb n="1002B"/>Ignavia est de virtutum laudabili exercitio languida
+utriusque hominis dejectio.</p>
+<p>Petulantia est ex carnalium cogitatuum conceptione
+totius corporis lascivus in rem amatam impetus.</p>
+<p>Titubatio est lubricae carnalitatis instantia fracti
+animi vitium exterius prodiens, aut ex immodica
+venere membrorum vacillatio.</p>
+<p>Blanditiae sunt cum quadam dulcedine vitioserum
+delectaminum sensualis extrinsecus facta exhibitio.</p>
+<p>Deliciae sunt corporalis illecebrositatis cum quadam
+superfluitate usurpatio.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XI. <hi>De humilitate, et ejus comitibus.</hi> </head>
+
+<pb n="1002C"/>
+<p>Cognito jam horrendo procinctu superbiae qui
+trahit ad sinistram, humilitatis exercitum attende
+qui ducit ad dexteram. Civibusque cognitis Babyloniae,
+cives attende Hierosolymae.</p>
+<p>Humilitas est ex intuitu propriae conditionis, vel
+conditoris, voluntaria mentis inclinatio. Ejus autem
+hi sunt comitatus principales: Prudentia, justitia,
+fortitudo, temperantia, fides, spes et charitas.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XII. <hi>De prudentia, et comitatu ejus.</hi> </head>
+<p>Prudentia est in sui custodia boni, malique provida
+sagaxque dignoscentia. Ejus autem comites
+sunt timor Domini, alacritas, consilium, memoria,
+intelligentia, providentia, deliberatio.</p>
+<p>Timor Domini est in fide, et bonis moribus divinorum
+<pb n="1002D"/>
+praeceptorum vigilans custodia. Initium siquidem
+sapientiae timor est Domini.</p>
+<p>Alacritas est animi ad bonum opus perficiendum
+laeta et circumspecta promptitudo.</p>
+<p>Consilium est examinandarum gubernandarumque
+causarum subtilis animi prospectus.</p>
+<p>Memoria est ad mentis intuitum imaginaria quaedam
+repraesentatio praeteritorun.</p>
+<p>Intelligentia est statum praesentium rationabili
+vivacitate pensitare et dignoscere.</p>
+<p>Providentia est per quam subtilitate sagaci futurorum
+eventus colligitur.</p>
+<p>Deliberatio est ante quodlibet incoeptum plena
+maturitatis et solertiae consideratio
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XIII. <hi>De justitia et comitatu ejus.</hi> </head>
+
+<pb n="1003A"/>
+<p>Justitia est per quam communitatis gratia tenetur,
+et sua cuique dignitas non negatur. Cujus comites
+sunt lex, severitas, aequitas, correctio, jurisjurandi
+observatio, judicium, veritas.</p>
+<p>Lex est per quam facienda jubentur, et non facienda
+prohibentur.</p>
+<p>Severitas est per quam judiciaria vindicta sequendo
+veri rigorem districtius in peccantem exercetur.</p>
+<p>Aequitas est lance justitiae ex aequo librata dignissima
+meritorum retributio.</p>
+<p>Correctio est erroris innati vel consuetudine introducti
+freno rationis inhibitio.</p>
+<p>Jurisjurandi observatio est quae, plebescito civibus
+<pb n="1003B"/>
+promulgato, transgressionem ejus temerariam arcet
+praestito juramento de conservatione illius perpetua.</p>
+<p>Judicium est per quod, ex audientia meritorum,
+dignum redditur vel supplicium vel meritum.</p>
+<p>Veritas est per quam probabili ratione dictum aliquod
+vel factum immutatum profertur.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XIV. <hi>De fortitudine et comitibus ipsius</hi> </head>
+<p>Fortitudo est immobilis inter adversa animi laborum
+et periculorum susceptio. Cujus comites sunt
+magnanimitas, fiducia, tolerantia, requies, stabilitas,
+constantia, perseverantia.</p>
+<p>Magnanimitas est generosa quaedam excellentia
+animi res difficiles et arduas pulchre et fortiter administrantis.</p>
+<p>
+          <pb n="1003C"/>Fiducia est, ex virtutum conscientia, immotam
+mentem inter adversa sibi constituere, et de bono
+exitu confidere.</p>
+<p>Tolerantia seu patientia est diuturna alienae improbitatis
+vel molestiae sufferentia.</p>
+<p>Requies est per quam menti quaedam securitas ex
+contemptu perfunctoriae varietatis affertur.</p>
+<p>Stabilitas est mentis, fixa nulla locorum vel
+temporum varietate, per diversa jactatae retentio.</p>
+<p>Constantia est sui similis, et statu suo dignus,
+perpetuus, et immotus vitae tenor.</p>
+<p>Perseverantia est quae virtutum quadam perfectione
+(longanimitate perficiente) confirmat animum,
+ne ante consecutum finem desistat ab incoepto.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XV. <hi>De temperantia, et ejus comitibus.</hi> </head>
+<p>
+          <pb n="1003D"/>Temperantia est in illicitos animi impetus rationis
+firma et discreta dominatio. Ejus comites sunt
+discretio, morigeratio, taciturnitas, jejunium, sobrietas,
+afflictio carnis, contemptus saeculi.</p>
+<p>Discretio est dijudicandis rerum causis provida
+humanorum motuum moderatrix ratio.</p>
+<p>Morigerationis est, servata propria virtute, se
+juste pieque moribus secum commorantium contemperare.</p>
+<p>Taciturnitas est cum quadam fructuosa animi
+quiete a verbis etiam utilibus linguae suae coercitio.</p>
+<p>Jejunium est interiorum vigilantia discreta parcimoniae
+custodia.</p>
+<p>
+          <pb n="1004A"/>Sobrietas est pura ab illecebris utriusque hominis
+temperantia, dicta quod ebrietate seorsum ac
+separata sit.</p>
+<p>Afflictio carnis est per quem lascivae mentis seminaria
+castigatione discreta comprimuntur.</p>
+<p>Contemptus saeculi est ex intuitu caducorum ratione
+inductus amor aeternorum.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XVI. <hi>De fide et ejus comitibus.</hi> </head>
+<p>Fides est in studio sancto, quae ex praemissorum
+veritate ad invisibilia futura mentem facit pendere.
+Est enim argumentum rerum non apparentium. Ejus
+comites sunt religio, munditia, obedientia, castitas,
+reverentia, continentia, affectus.</p>
+<p>Religio est per quam reverenti famulatu caeremoniae
+divini cultus exercentur.</p>
+<p>
+          <pb n="1004B"/>Munditia est consummata integritas utriusque
+hominis intuitu divini vel amoris vel timoris.</p>
+<p>Obedientia est innixa pio studio propriae voluntatis
+voluntaria abnegatio.</p>
+<p>Castitas est per edomitas vitiorum furias munda
+et honesta totius corporis habitudo</p>
+<p>Reverentia est castus Deo exhibitus ob fidem, quam
+de eo habemus, cultus.</p>
+<p>Continentia est per quam carnalium affectuum
+impetus consilii moderamine refrenantur.</p>
+<p>Affectus est concepto per fidem sancto gaudio pii
+amoris in proximum effusio.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XVII. <hi>De spe et ejus comitibus.</hi> </head>
+<p>Spes est animi motus immobiliter ad ea quae
+certa ratione expetit accipienda suspensus. Cujus
+<pb n="1004C"/>
+comites sunt contemplatio supernorum, gaudium,
+modestia, confessio, patientia, compunctio, longanimitas.</p>
+<p>Contemplatio supernorum est per sublevatae mentis
+jubilum mors carnalium affectuum.</p>
+<p>Gaudium est ex contemptu praesentium veniens
+festinae mentis jucunditas spiritalis.</p>
+<p>Modestia est pudici et honesti habitus de laudabili
+profectu verecundia.</p>
+<p>Confessio est per quam animae morbus latens
+spe consequendae veniae in Dei laudem aperitur.</p>
+<p>Patientia est aeternae respectu gloriae voluntaria
+et insuperabilis contrariorum perpessio.</p>
+<p>Compunctio est quoddam animae suspirantis incendium
+natum vel timore supplicii vel amore
+<pb n="1004D"/>
+praemii.</p>
+<p>Longanimitas est ad complenda justa desideria
+infatigabilis laborum sustinentia.
+</p>
+      </div1>
+
+<div1>
+        <head>CAP. XVIII. <hi>De charitate et comitatu ejus.</hi> </head>
+<p>Charitas est mentis affectus, et pius amor ad
+Deum et proximum ferventer et ordinate porrectus.
+Ejus comites sunt gratia, pax, pietas, mansuetudo,
+liberalitas, misericordia, indulgentia, compassio,
+benignitas, concordia.</p>
+<p>Gratia est in qua mutuae benevolentiae alterius ad
+alterum affectuosus cultus ostenditur.</p>
+<p>Pax est concordantium in bono animorum ordinata
+tranquillitas.</p>
+<p>
+          <pb n="1005A"/>Pietas est ex benignae mentis dulcedine gratia
+omnibus auxiliatrix affectio.</p>
+<p>Mansuetudo est per quam mansueti vel modesti
+tranquillitas animi, nullius improbitate limitem suae
+quietis excedit.</p>
+<p>Liberalitas est per quam liber animus in largitione
+possessorum nulla tenacitate coarctatur.</p>
+<p>Misericordia est clemens et aequalis in omnes
+dignatio, et in afflictos compassibilis animi inclinatio.</p>
+<p>Indulgentia est remissio reatus alieni ex sui consideratione
+descendens.</p>
+<p>Compassio est per quam ex proximi dolore condolenti
+animo quaedam afflictio generatur.</p>
+<p>Benignitas est cum quadam splendida morum
+<pb n="1005B"/>
+suavitate diligentis animi fervida conspectio.</p>
+<p>Concordia est convenientia in recto animorum
+indirupta quaedam et unita complexio.</p>
+</div1>
+
+<div1>
+        <head>CAP. XIX. <hi>De dilectione, et ejus ratione duplici.</hi> </head>
+<p>Quotidianum de dilectione sermonem serimus, si
+forte scintillet in cordibus nostris, et exardescat
+ignis flammam faciens, aut totum consumens, aut
+purgans totum. Ex eo namque totum est quod bonum
+est, et totum quod malum est, ex eo est. Unus
+fons dilectionis intus saliens duos rivos infundit.
+Alter est amor mundi, cupiditas; alter est amor Dei,
+charitas. Medium quippe est cor hominis, unde
+fons amoris erumpit. Et cum per appetitum ad
+exteriora decurrit, cupiditas dicitur, cum vero desiderium
+suum ad interiora dirigit, charitas nominatur.
+<pb n="1005C"/>
+Ergo duo sunt rivi, qui de fonte dilectionis
+emanant: cupiditas, et charitas. Et omnium malorum
+radix cupiditas, et omnium bonorum radix charitas.
+Invenimus autem illud, quod nostra desideria
+sic multifariam dividit, et cor unum in diversa
+deducit, aliud non esse praeter amorem. Qui cum sit
+<pb n="1006A"/>
+motus cordis secundum naturam singularis et unicus,
+secundum actionem autem divisus cum se inordinate
+movet, id est ad ea quae non debet, cupiditas
+dicitur: cum vero ordinatus est, charitas appellatur.
+Magnam rem commendare volumus, si tamen
+valemus quod volumus. Omnipotens Deus qui nullo
+indiget, quia ipse summum et verum bonum est,
+qui est, qui nec de alieno accipere potest quo
+crescat, quoniam ex ipso sunt omnia, nec de suo
+amittere quo decidat, quoniam in ipso immutabiliter
+consistunt universa, ipse rationalem spiritum
+creavit sola charitate, nulla necessitate, ut eum suae
+beatitudinis participem faceret. Porro ut idem aptus
+esset tanta beatitudine perfrui, fecit in eo dilectionem.
+Spirituale palatum quodammodo per hanc
+<pb n="1006B"/>
+sensificans ad gustum dulcedinis internae, quatenus
+per ipsam videlicet dilectionem suae felicitatis jucunditatem
+saperet, eique infatigabili desiderio inhaereret.
+Per dilectionem ergo copulavit sibi Deus creaturam
+rationalem, ut ei semper inhaerendo, ipsum
+quo beatificanda erat, bonum, et ex ipso quodammodo
+per affectum sugeret, et de ipso per desiderium
+biberet, et ipsum per gaudium possideret.
+Igitur per amorem sociata est Factori suo creatura
+rationalis solum, qui est dilectionis vinculum, quod
+ligat utrosque in ipsum, et tanto felicius quanto
+fortius. Propter quod etiam ut indivisa societas,
+et concordia perfecta utrobique haberetur, geminatus
+est nexus in charitate Dei et proximi, ut per
+charitatem Dei omnes uni cohaererent, per charitatem
+<pb n="1006C"/>
+proximi omnes ad invicem unum fierent, ut quod
+de illo uno, cui omnes inhaerebant, quisque in semetipso
+non caperet, plenius atque perfectius per charitatem
+proximi in altero possideret; et bonum
+omnium fieret totum singulorum. 
+<pb n="1009"/> 
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,1317 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De virginitate B. Mariae</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeViBMa3</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>PROLOGUS.</head>
+
+<pb n="0857A"/>
+<p>Sancto pontifici G. Hugo beatitudinis tuae servus.
+Narrasti mihi de beatae Mariae virginitate quaestionem
+Paternitati tuae a quodam factam fuisse, in
+qua quidem ejusdem irreverentia admodum displicuit,
+eo quod non ut oportuit ita pudice de re sacrosancta
+locutus sit. Ego igitur (sicut placitum fuerat,
+quae super hoc dicenda videbantur) stylo signans
+legenda transmitto. Vale.</p>
+</div2>
+
+<div2>
+        <head>CAP. I. <hi>Quod Maria in consensu conjugali virginitatis propositam non mutavit.</hi> </head>
+<p>De incorrupta virginitate matris Domini hoc fides
+pie et pietas fideliter confitetur, quod ejus perfectionem
+nullo modo imminuit conjugalis consensus
+quemadmodum castitatem illius non violavit conceptus,
+<pb n="0857B"/>
+nec integritatem abstulit partus. Ipsa namque
+eadem virgo perpetua, et cum desponsaretur viro,
+non tamen deseruit aut mutavit propositum continentiae;
+et cum fecundaretur (non a viro) concepit
+sine libidine; et cum filium ederet peperit sine dolore.
+Quid dicis nunc inquisitor contentiose et non
+pie auditor? Miraris an diffidis? Si miraris miranda,
+mirandus non es; si non credis credenda, tolerandus
+non es; si falsa conaris asserere audiendus non es;
+si vera niteris oppugnare, convincendus es: denique
+si manifesta negas, confutandus es. Fateor, aequo
+animo ferre non possum temerariam praesumptionem
+tuam, quod tam impudica et nugaci loquacitate temerare
+sinceram et intactam maculare conaris.
+Stulte istis tenebris tuis in matrem luminis impegisti.
+<pb n="0857C"/>
+Quid enim sibi voluerunt exsufflanda illa argumenta
+tua, quae tu cum longa ac diutina ruminatione
+texuisses quasi novum et magnum aliquod
+inventum prolaturus (sicut tibi consuetudinis est),
+circuire coepisti aures prurientes quaerens; amplius
+quidem te doctis insipientem quam insipientibus
+doctum demonstrans. Quid enim? Doctor esse voluisti?
+Novitatis relator, an assertor veritatis? Sed
+esto. Inveneras quod doceres. Cur tibi visum est
+infamare castitatem, et oppugnare veritatem? Sed
+forte (quod et ego magis suspicor) nihil contra veritatem
+moliebaris, sed solita et tibi inolita levitate
+auras popularis famae captans, acumen ingenii tui
+probare putasti, si prius rem (quasi quaestionis ambage)
+<pb n="0857D"/>
+apud alios involveres, ut in ejus solutione
+postmodum tu doctor appareres. At nunc res tibi in
+contrarium versa est. In quaestione enim tua temerarius
+probatus es, sed in solutione non es doctus
+inventus. Videamus tamen quae sit magna illa et
+gravis quaestio soli (ut putas) tibi non insolubilis.
+<pb n="0858A"/>
+Et quidem etiam, si gravis foret tanto verius multis
+plusquam tibi, quanto stultius tu praesumis tibi
+soli. Videamus tamen quae sit. Primum quaeris utrum
+sine consensu coitus conjugium fieri possit; hoc est,
+an illi matrimonium invicem contrahere possint,
+qui sibi non consentiunt in reddendo debito carnis.
+Movit ergo fortassis te quod dictum audieras: matrimonium
+non facit coitus, sed consensus. Et merito
+movisset si quidem quod dictum non audieras, sed
+intelligendum putaveras, consensus coitus, additum
+fuisset. Quaeris ergo utrum sine consensu coitus
+conjugium esse possit. Post haec his qui tibi respondent
+sine ejusmodi consensu verum conjugium non
+esse, tuam (ut audio) videris existimationem adjungere;
+propterea fortassis quia tibi de reliquo necessitatem
+<pb n="0858B"/>
+tacendi imponeret, qui hoc quaerenti aliud
+responderet. Deinde hoc concesso et statuto, scilicet
+quod sine talis consensus pactione conjugium stare
+non possit; persequeris et interrogas, utrum, verum
+fuit conjugium inter Mariam matrem Domini et Joseph,
+quem Scriptura virum Mariae appellasse aliquoties
+invenietur, ipsamque Mariam uxorem sive conjugem
+ejusdem Joseph indubitanter nominasse. Quo
+concesso, quia et hoc negare absurdum est, cum id
+et sacrae Scripturae manifesta auctoritate probetur,
+et catholica hoc religio sua attestatione confirmet,
+infers et dicis: Si verum fuit conjugium, ergo carnalis
+commistionis consensus ibi fuit, et invenitur
+Maria ad coitum carnis viro assensum praebuisse.
+<pb n="0858C"/>
+Quod si verum est, imo quia si hoc verum non
+est, verum conjugium dici non potest, cur ipsa Maria
+vera semper virgo permansisse dicitur, quae aliquando
+vera conjux fuisse non negatur? Aut enim
+non consensit, et vera conjux non fuit, aut consensit,
+et vera virgo non permansit. In eo ipso
+namque propositum virginitatis deseruit, quod se
+per consensum debito carnalis commercii in conjugali
+sacramento sponte subjecit. Ac per hoc quod
+virginitatis propositum in consensu copulae carnalis
+deseruit, jam mente virgo esse desiit, etiam si carne
+virgo permansit. Quae est igitur haec Virgo virginum,
+singularis integritate, unica castitate, excellens dignitate?
+Quae sunt ista praeconia et assiduae laudationes,
+imo potius quae sunt quotidianae istae adulationes
+<pb n="0858D"/>
+quibus singulariter laudabilem et excellenter
+super omnes gloriosam Mariae virginitatem praedicamus,
+quae non solum omnibus virginibus praeferenda
+non est, sed multis etiam postponenda; quae
+et carne virgines probatae sunt, et virginitatis propositum
+usque in finem mente casta atque devota
+<pb n="0859A"/>
+inviolatum tenuerunt? Comparetur nunc virginitas
+Agnetis et Mariae et quae fuerit in merito probata sublimior,
+digne etiam in laudibus excelsior teneatur.
+Illa se in custodia virginitatis tam invictam exhibuit,
+ut eam a proposito suo nec ipsa mors illata dejiceret.
+Haec se tam mobilem demonstravit, ut unius
+eam viri et pauperis affectus ad consensum sui
+inclinaret. Illa intantum virginitatem dilexit, ut
+quidquid in ejus comparatione pretiosum promittebatur,
+contemnendum crederet; quidquid pro ejus
+defensione durum inferebatur, non timendum judicaret;
+haec virginitatem tam facile despexit, ut eam
+et sine praemio promisso desereret, et sine poena
+illata abdicaret. Quid igitur restat nisi ut dicamus
+inferiorem habere gradum in merito ac laude virginitatis
+<pb n="0859B"/>
+illam quae a proposito conservandae virginitatis
+sponte cecidit, etiam si carne virgo permansit;
+superiorem vero illam quae cum carnis integritate
+propositum virginitatis usque in finem inviolatum
+custodivit! Hoc igitur est quod magna et laboriosa
+scrutatione invenisse te gloriaris; et cum tu mentem
+simul et carnem corruptam habeas, mentem intemeratae
+(cujus carnem non potes) falso criminari non
+pertimescis. Satius multo aut primum dixisses veritatem
+si eam non ignorasti, aut si hoc non poteras,
+saltem tacuisses pravitatem, qua dicta simplicium auditum
+violasti. Sed quid ages si eos quos falsa opinione
+depravasti veritas manifesta ita a periculo erroris
+liberet, ut tamen te a culpa temeritatis non emundes?</p>
+<p>Videamus igitur nunc utrum mater Domini et vera
+<pb n="0859C"/>
+conjux esse potuit, et vera virgo permanere. Discutiamus
+(ut postulas) quid sit conjugium; et ex ejus
+diffinitione proposita consideremus si simul esse potuerunt
+in virgine matre et consensus conjugalis, et
+propositum virginitatis. Quid enim est conjugium
+nisi legitima societas inter virum et feminam; in
+qua videlicet societate ex pari consensu uterque semetipsum
+debet alteri? Debitum autem hoc duobus
+modis consideratur, ut scilicet et se illi conservet,
+et se illi non neget. Conservet videlicet ne post talem
+consensum ad alienam societatem transeat. Non
+neget ut ab ea quae ad invicem est communi societate
+se non disjungat. Spontaneus ergo consensus
+inter virum ac feminam legitime factus, quod uterque
+<pb n="0859D"/>
+alteri debitorem sui se spondet; iste est qui
+conjugium facit. Et conjugium est ipsa societas tali
+consensu foederata quae altero vivente alterum a debito
+non absolvit. Est adhuc alius consensus, scilicet
+carnalis commercii ad invicem exigendi atque reddendi,
+similem inter virum et mulierem pactionem
+constituens: comes et non effector conjugii, officium
+et non vinculum, qui et ipse tamen cum pari ab
+utroque voto suscipitur, pari etiam necesse est debito
+teneatur. Quod debitum in hoc quoque consensu
+dupliciter (sicut in priori commemoravi)
+exhibendum est, ut videlicet uterque se alteri
+conservet, et neuter alteri se neget. Hoc est ut sui
+corporis potestatem ad hoc opus nec alii praebeat,
+nec illi contradicat. De illo debito quo se et vir mulieri
+<pb n="0860A"/>
+et mulier viro debet conservare, ait Apostolus:
+Quae sub viro est mulier, vivente viro, <hi>alligata est
+legi. Si autem</hi> fuerit mortuus <hi>vir ejus, liberata est a
+lege viri <note>(I Cor. VII)</note>
+          </hi>. Igitur vivente viro vocabitur
+adultera, si fuerit cum alio viro. De illo autem debito
+quo se et vir mulieri, et mulier viro debet non
+negare, idem dicit: <hi>Mulier sui corporis potestatem
+non habet, sed vir; similiter autem vir sui corporis
+potestatem non habet, sed mulier <note>(ibid.)</note>
+          </hi>. Sed hujus
+debiti necessitas illos conjugatos sibi ad invicem non
+subjicit, in quibus dum conjugium contraheretur
+vel sanciretur, hujus operis consensus non praecessit.
+Nec tamen hoc officio cessante, veritatem sive
+virtutem conjugii cessare credendum est, imo potius
+tanto verius et sanctius conjugium esse, quod
+<pb n="0860B"/>
+in solo charitatis vinculo, et non in concupiscentia
+carnis et libidinis ardore foederatum est. Quid enim?
+In concupiscentia carnis conjugium sanctum esset,
+et in charitate non esset? Absit! Sed multo verius
+et justius ibi sanctum et verum dicitur, ubi nihil
+habet castitas unde erubescat, sed charitas unde
+glorietur. Quomodo ergo conjugati ad invicem debitores
+sui efficiuntur? Ad quid deinceps se sibi
+conservare debent; aut in quo non negare, si haec
+de medio causa tollatur? Non videtur hoc excepto
+quare aut vir mulieri, aut mulier viro sociari debeat.
+Aut quare societati pariter tali ad invicem debito quale
+conjugium habere noscitur, dicantur alligati. Hoc
+tibi fortasse videbitur carni, et carnem solam consideranti.
+Nihil ergo aliud in conjugio invenire potuisti
+<pb n="0860C"/>
+ut conjugalem societatem ob id solummodo
+sancitam et in eo sanctam esse confirmes? Nonne
+multo magis est si duo fiant unum mente, quam si
+carne unum fierent? Si participem facit alter alterum
+carnis suae, et sanctum esse potest; participem
+facit alter alterum animae suae, et sanctum non est?
+Absit! <hi>Erunt duo in carne una, sacramentum hoc
+magnum est in Christo et Ecclesia <note>(Ephes. V)</note>
+          </hi>. Erunt
+duo in corde uno: sacramentum hoc majus est in
+Deo et anima. Ecce quo pacto se voluntariae sponsioni
+astringunt, ut adhinc et deinceps semper in
+omni sinceritate dilectionis, in omni cura sollicitudinis,
+in omni affectu pietatis, in omni studio compassionis,
+in omni virtute consolationis, et fide devotionis,
+<pb n="0860D"/>
+hoc uterque sit alteri quod ipse sibi, ut
+quisque alterum quasi unum secum factum attendat,
+tam in bonis quam in malis omnibus, sicut consolationis
+socium ac participem, ita et tribulationis
+et sufferentiae indivisum exhibeat. Postremo quantum
+foris ad necessitatem corporis attinet, quasi
+propriam carnem fovendam excipiat, quantum vero
+spectat ad amorem cordis intrinsecus, quasi animum
+suum in pace et tranquillitate (quantum in se
+est) sine perturbatione custodiat. Sic enim sit in
+sanctae societatis pace et communicatione quiescentibus,
+ut dum uterque non sibi vivit sed alteri, felicius
+atque beatius uterque vivat sibi. Haec sunt
+bona conjugii et felicitas castam societatem amantium,
+quae bona videre non possunt ii qui in conjugio
+<pb n="0861A"/>
+nil praeter male dulcem carnis voluptatem exquirunt.
+Ecce vides (excepto carnis commercio) qualia
+tamen et quanta bona conjugio relinquantur;
+imo potius (excepto carnis commercio) qualia et
+quanta mala, hoc est, qualis servitus et quantus dolor
+a conjugio excludantur.</p>
+<p>Sed dicis mihi iterum: Primam et principalem
+causam conjugii fuisse propagationem filiorum, quae
+quod sine carnis commistione futura non erat, ex
+hoc manifeste ostenditur, quod in principio Deus
+cum hominem de limo terrae plasmasset, postea ei
+mulierem in adjutorium fecisse perhibetur. Non in
+aliud profecto adjutorium quam ut ipsa mulier ad
+futurae sobolis propagationem viro fieret seminandi
+cooperatrix, seminis conceptrix, formandi locus, et
+<pb n="0861B"/>
+edendi genitrix. Non igitur ad aliud mulier viro est
+sociata, quam ut per eam et cum ea semen suum
+in posteritatis originem vir ipse coitu carnali transfundens,
+substantiam carnis ministraret nascituris
+ex carne. Nam id ipsum ex eo quoque comprobatur
+quod Deus postquam mulierem viro sociaverat, ejusdem
+societatis causam declarare volens, utrosque
+suae benedictionis gratia quodammodo prius ipse ad
+generandi potentiam fecundans, <hi>Crescite,</hi> ait, <hi>et
+multiplicamini et replete terram <note>(Gen. I)</note>
+          </hi>; simul dans
+et mandatum, ut scirent id propter quod juncti fuerant;
+et gratiam, ut implerent id de quo praeceptum
+acceperant. Ex eo igitur officio quod conjunctis et
+sociatis ambobus ex praecepto auctoris sui injungitur,
+plane et indubitanter societatis ipsius causa demonstratur;
+<pb n="0861C"/>
+quia omnino absurdum erat, ut cum formam
+vivendi et ministerium agendi societatis praescriberet,
+non id praecipue propter quod eos sociari voluerat,
+de reliquo exsequendum mandaret. Hinc est
+quod ipse Adam ad quem usum mulier facta erat
+agnoscens: <hi>Hoc,</hi> inquit, <hi>os ex ossibus meis, et caro
+de carne mea est. Propter hoc relinquet homo patrem
+suum et matrem suam et adhaerebit uxori suae, et
+erunt duo in carne una <note>(Gen. II)</note>
+          </hi>. Ecce commistio
+carnis in matrimonio primorum parentum, tam manifeste
+et ipsis exsequenda indicitur et ab ipsis futura
+prophetatur, ut qui sine illa conjugium verum
+esse dixerit et praecipienti Deo et homini consentienti
+Deo, contrarius esse non dubitetur. Et taliter
+<pb n="0861D"/>
+fortassis supradictae assertioni nostrae tibi opponendum
+videbatur.</p>
+<p>Hoc igitur totum quod apportas quod Deus primo
+homini mulierem in adjutorium fecisse legitur; et
+quia sociata muliere cum viro utrisque ut crescerent
+et multiplicarentur, terramque replerent praecepisse
+memoratur; postremo quia a viro inter virum et
+mulierem carnis commistio futura prophetatur,
+idcirco nullatenus verum conjugium esse possit ubi
+quidem consensus carnalis commistionis non fuerit.
+Si quidem tibi videtur. Primum itaque nunc conveniat
+inter nos ut mihi respondeas an aut propter
+hoc, duo in carne una sociati sunt; et de carne una
+facti sunt, quod in carne una sociandi fuerunt. Sic
+enim dicitur: Hoc nunc os ex ossibus meis et caro
+<pb n="0862A"/>
+de carne mea; propter hoc derelinquet homo patrem
+suum et matrem suam, et adhaerebit uxori
+suae, et erunt duo in carne una. Quid est propter
+hoc? An propter hoc in carne una, quia de carne
+una? Sed non dixit erunt duo in carne una propter
+hoc; nunc os ex ossibus meis, et caro de carne mea;
+sed: Hoc, inquit, os ex ossibus meis, et caro de
+carne mea; propter hoc relinquet homo patrem
+suum et matrem suam, et adhaerebit uxori suae et
+erunt duo in carne una. Tria dixit: Relinquet homo
+patrem suum et matrem suam; et adhaerebit uxori
+suae: et erunt duo in carne una. Quid est propter
+hoc? Propter hoc relinquet homo patrem suum et
+matrem suam; propter hoc adhaerebit uxori suae;
+propter hoc erunt duo in carne una. Propter hoc:
+<pb n="0862B"/>
+propter quid? Propter hoc quia hoc nunc os ex
+ossibus meis, et caro de carne mea. Ergo propter
+hoc in carne una, quia de carne una; non propter
+hoc de carne una, quia in carne una. Propter hoc
+erunt duo in carne una. Hoc nunc os ex ossibus
+meis, et caro de carne mea. Propter hoc relinquet
+homo patrem suum et matrem suam, et adhaerebit
+uxori suae, et erunt duo in carne una. Consideremus
+singula quae dicta sunt ne forte contra te dixeris
+quod pro te dicendum putasti. Relinquet homo patrem
+suum et matrem suam, et adhaerebit uxori suae,
+et erunt duo in carne una. Fortassis idem dicere
+voluit adhaerebit uxori suae, et erunt duo in carne
+una, ut hoc ipsum sit uxori adhaerere, quod duos
+esse in carne una; tanquam si hoc solum dictum
+<pb n="0862C"/>
+sit, relinquet homo patrem suum et matrem suam,
+et adhaerebit uxori suae, et ipsa adhaesio non aliud
+quam commistio carnalis intelligatur. Discutiamus
+si hoc stare possit. Relinquet, ait, homo patrem
+suum et matrem suam, et adhaerebit uxori suae.
+Illos relinquet et huic adhaerebit. Igitur ab illis
+discedit, ad istam accedit. Quod illis subtrahit,
+huic impendit. Quid est hoc? Relinquet homo patrem
+suum et matrem suam, et adhaerebit uxori
+suae. Igitur in eo patrem et matrem relinquit, ut
+uxori adhaereat; in quo uxori adhaerere non potest,
+si patrem et matrem non relinquat. Relinquet homo
+patrem suum et matrem suam. In quo relinquet?
+Nunquid relinquet in cohabitatione an in dilectione?
+<pb n="0862D"/>
+et si sic oportet dici, nunquid relinquet in commistione?
+si relinquet homo in cohabitatione patrem
+et matrem, et adhaerebit uxori suae; nunquid igitur
+in domo patris sui uxorem habere non potest? Aut
+nunquid uxorem diligere non potest, nisi patrem
+et matrem odio habuerit? Nam illud tertium quod
+propositum est nec oportet repeti, nec decet nominari.
+Tamen his modis adhaerebit homo uxori suae;
+hoc est secundum cohabitationem, secundum dilectionem,
+secundum carnalem commistionem. Sed
+potest homo patri et matri simul et uxori cohabitare;
+potest patrem et matrem simul et uxorem diligere,
+ergo nec secundum cohabitationem, nec secundum
+dilectionem relinquet homo patrem suum et matrem
+suam, et adhaerebit uxori suae, quanto magis quae
+<pb n="0863A"/>
+neque fuit neque esse potuit, secundum carnalem
+commistionem non relinquet homo patrem suum
+et matrem suam, et adhaerebit uxori suae? Secundum
+quid ergo relinquet homo patrem suum et matrem
+suam, et adhaerebit uxori suae, nisi secundum
+illam singularem societatem in qua semetipsum debet
+alteri? in qua homo affectum patris et matris
+non quidem deponit, ut affectum uxoris solum eligat;
+sed postponit affectum patris et matris, ut
+affectum uxoris illi praeferat; ut eum non solum sed
+singularem haberet? Non igitur de commistione
+carnis, sed de affectu cordis et vinculo socialis
+dilectionis dictum est: adhaerebit uxori suae. Ut per
+hoc quod dicitur: adhaerebit uxori suae, sacramentum
+conjugii quod in spiritu est intelligas. Per id
+<pb n="0863B"/>
+vero quod subditur: et erunt duo in carne una,
+officium conjugii quod in carne est non pactum foederis
+conjugalis agnoscas. Relinquet ergo homo patrem
+suum et matrem suam, et adhaerebit uxori
+suae, et erunt duo in carne una. Ecce hic est conjugium,
+adhaerebit uxori suae; et hic est conjugii
+officium, erunt duo in carne una. Quare ergo relinquet
+homo patrem suum et matrem suam, et adhaerebit
+uxori suae? Magna res. Praefert principio finem.
+Pater et mater principium est, unde venit; uxor
+finis est, ubi dilectio requiescit. Ibi dilectionem
+operata est sola conditio; hic electionem sine conditione
+facit sola dilectio. Diligit itaque homo patrem
+suum et matrem suam, et de ipsis semel vitam
+accepit; sed plus uxorem suam diligit; quia cum
+<pb n="0863C"/>
+ipsa semper vivere elegit divinum prorsus sacramentum
+et profundum mysterium, pulchrumque et
+admirandum humanae conditionis exemplum. Habemus
+principium nostrum unde accepimus ut simus;
+habemus et finem nostrum sine quo beati esse non
+possumus. Ab illo per conditionem naturae ad esse
+venimus; in illo per electionem gratiae beatum esse
+accipimus. Ab illo esse habent omnia quae sunt; sed in
+illo non omnes beatum esse accipiunt. Minus igitur est,
+et minus diligendum est ab illo esse. Multo autem amplius
+est, et amplius diligendum est in illo beatum esse;
+utrumque tamen magnum et dilectione dignum est, et
+ab illo esse, et in illo beatum esse. Aliter ergo Deus est
+illorum, qui ab eo solummodo ut essent acceperunt;
+<pb n="0863D"/>
+aliter vero illorum qui ut non solum ab eo essent, sed
+ut in eo beati essent eum in praemium acceperunt. Illi
+quod ipsi sunt ab eo acceperunt; isti ut beate sint
+quod ipsi sunt, quod ipse est, ab eo accipiunt. Minus
+ergo diligendum est quod sumus et amplius quod
+beati sumus, quia in illo tantum est hoc quod nos
+sumus; in isto vero cum eo quod nos sumus id
+etiam quod ipse est a quo accepimus quod sumus.
+Relinquet homo patrem suum et matrem suam, et
+adhaerebit uxori suae, ut vetera novis supervenientibus
+postponens, a principio per dilectionem veniat,
+et in fine per dilectionem requiescat. Vides nunc
+quale et quantum sacramentum praefert amor conjugalis,
+ut in hoc discat anima rationalis sui finis
+consortium sine fine eligere, et individuo illo amoris
+<pb n="0864A"/>
+nexu et singularis dilectionis parilitate adhaerere.
+Haec fuit principalis causa conjugii, propter quod
+Deus instituit, ut relicto patre suo et matre sua,
+eligeret uxori suae unice et singulariter individua
+semper dilectione sociari. Huic autem societati ad
+commodum futuri generis multiplicandi, certi et
+rationabilis sacramenti causa officium postea generandi
+injunxit; non quidem ut in eo conjugium
+consisteret, sed ut ex eo conjugium et per obedientiam
+ministerii in merito cresceret, et per
+fecunditatem prolis fructuosius appareret. Recte
+ergo dicitur: Relinquet homo patrem et matrem
+suam, et adhaerebit uxori suae, et erunt duo in
+carne una, ut in eo quod adhaeret uxori suae
+sacramentum sit invisibilis societatis, quae in
+<pb n="0864B"/>
+spiritu facienda est inter Deum et animam; in
+eo autem quod duo sunt in carne una, sacramentum
+sit invisibilis participationis quae in carne facta est
+inter Christum et Ecclesiam. Magnum igitur sacramentum,
+Erunt duo in carne una, in Christo et Ecclesia;
+sed majus sacramentum, Erunt duo in corde
+uno, in dilectione una, in Deo et anima.</p>
+<p>Non satis fortassis ibi factum est ut ostenderetur
+quod conjugium non fuerat unio carnis, sed cordis,
+ne excellere putes ministerium officii super sanctitatem
+sacramenti. Instas ut consensus carnis sanctitas
+sit conjugalis, nec praeter pactum coitus, vinculum
+matrimonii ratum esse concedis, quia manifeste
+dixit: Erunt duo in carne una; et non manifeste
+dixit: Erunt duo in spiritu uno. Prius manifeste
+<pb n="0864C"/>
+dictum, in carne una, postea manifeste dictum, in
+spiritu uno, quia: <hi>Quod carnale est, prius est, deinde
+quod spirituale est <note>(I Cor. XV)</note>
+          </hi>. Per patrem carnalem
+prius dictum in carne una; per doctorem spiritualem
+postea dictum in spiritu uno. Per prophetam
+Deus loquitur dicens: <hi>Non accipiam placabile quid
+de manu vestra. Et dixistis: Quam ob causam? quia
+Dominus testificatus est inter te et uxorem pubertatis
+tuae, quam tu despexisti. Et haec particeps tua, et uxor
+foederis tui. Nonne unus fecit, et residuum spiritus
+ejus est? Et quid unus quaerit nisi semen Dei? Custodite
+ergo spiritum vestrum et uxorem adolescentiae
+tuae noli despicere. Cum odio habueris eam; dimitte,
+dicit Dominus Deus Israel <note>(Malach. II)</note>
+          </hi>. Illic ergo
+<pb n="0864D"/>
+dictum est: Hoc nunc os ex ossibus meis et caro
+de carne mea; hic dictum est: Haec particeps tua
+et uxor foederis tui. Nonne unus fecit, et residuum
+spiritus ejus est? Ibi pars carnis dicitur, hic portio
+spiritus nominatur; ibi dictum est: Crescite et multiplicamini,
+et replete terram. Hic dictum est: Et
+quid unus quaerit nisi semen Dei? Ille igitur hic semen
+Dei in spiritu requirit, qui ibi semen carnis in
+carne multiplicandum imperavit. Ibi dictum est:
+Erunt duo in carne una. Hic dictum: Cum odio
+habueris eam, dimitte, ut eadem carnis commistio,
+quae ibi inter virum et mulierem futura praedicitur,
+hic foedere dilectionis (quae est in spiritu) nihil prodesse
+demonstretur. Hoc est enim. Cum odio habueris
+eam, dimitte; non imperantis dissidium, sed
+<pb n="0865A"/>
+docentis, quod sine dilectionis foedere cassa sit, et
+virtute carens, etiamsi permaneat societas carnis.
+Non ergo virtus sacramenti conjugalis in carne est,
+sed in mente, nec ille consensus ad sanctitatem
+perficiendam requiritur, qui et ante peccatum conjugatis
+indicebatur ad officium. Post peccatum vero
+eo usque descendit, ut jam nunc concedatur ad remedium.
+Nequaquam ergo ex eo pensandum est
+conjugii sacramentum, in quo tunc sanctificaretur,
+sed exerceretur conjugalis castitas; et nunc sanctificaretur
+conjugium, sed excipitur conjugatorum
+infirmitas. Propterea olim, quando fides erat in populo
+uno, et tempus ad multiplicandum numerum
+fidelium opera officii conjugalis indiguit, carnale
+commercium ab uno in pluribus exercebatur, et in
+<pb n="0865B"/>
+unici amoris singulare sacramentum non laedebatur.
+Nunc vero quando populus Dei spirituali potius generatione
+multiplicandus est ad commendandam
+singularis sacramenti unitatem, quod est in spiritu,
+non nisi una uni in carne una foederatur. Tunc
+propter necessitatem licentia carnis foris in opere
+laxabatur; et tamen sanctitas intus in virtute sacramenti
+integra servabatur; nunc propter perfectionem
+etiam opera carnis foris ad unitatem stringitur;
+et in eo tamen unitas singularis sacramenti
+non efficitur, sed commendatur. Haec dicta sunt pro
+eo quod propositum erat demonstrare, quod sine
+consensu carnalis commercii conjugium sanctum et
+verum esse possit; neque in assensu coitus carnis,
+sanctitas sacramenti conjugalis consistat.</p>
+<p>
+          <pb n="0865C"/>Post haec nunc superest, ut de matre virgine sermonem
+in medium proponamus et inquiramus qua
+ratione vel auctoritate probari possit, ipsam et veram
+fuisse conjugem, et in assensu tamen conjugalis
+virginitatis propositum non mutasse: <hi>Missus est angelus
+Gabriel a Deo in civitatem Nazareth, ad virginem
+desponsatam viro, cui nomen erat Joseph de domo
+David, et nomen virginis Maria <note>(Luc. I)</note>
+          </hi>. Ergo desponsata
+jam erat Maria, quando ad illam missus
+est angelus Gabriel a Deo. Videamus quod sequitur: <hi>Et ingressus angelus ad eam dixit: Ave, gratia plena,
+Dominus tecum: benedicta tu inter mulieres. Quae
+cum audisset, turbata est in sermone ejus; et cogitabat,
+qualis esset ista salutatio. Et ait angelus ad
+eam: Ne timeas, Maria, invenisti enim gratiam apud
+<pb n="0865D"/>
+Deum. Ecce concipies in utero, et paries filium,</hi> 
+ etc. <hi>Et
+ait Maria: Quomodo fiet istud: quoniam virum non
+cognosco? <note>(Ibid.)</note>
+          </hi> Hoc est quod quaerebamus verbum
+virginis, in quo ipsa confutaret aemulos suae virginitatis.
+Sumamus igitur de ipsa testimonium per
+ipsam. Quomodo igitur fiet istud? Hoc est, ut filium
+pariam, quomodo fiet, quia virum non cognosco?
+Non ait, virum non cognovi. Hoc enim nihil impediret
+virginem desponsatam, et virum cognituram
+filiumque parituram, sed virginem non permansuram.
+Non ergo ait haec, virum non cognovi; quia
+hoc nec praeteritae fuisset virginitatis miraculum,
+nec futuri partus impedimentum, si virum adhuc
+non cognoverit, et virum ut non cognosceret deinceps
+<pb n="0866A"/>
+non proposuerat. Non utique dixit: Virum non
+cognovi, sed Virum non cognosco. Quomodo, inquit,
+fiet istud? virum non cognosco, et dicor filium paritura;
+quomodo ergo fiet istud, ut filium pariam, et
+virum non cognoscam: Quia virum non cognosco.
+Quid est, Virum non cognosco? Propositum habeo
+virum non cognoscere; propositum habeo virginitatis
+decus usque in finem inviolatum conservare.
+Quomodo si dixerit quis: Vinum non bibo, non possum
+hunc calicem gustare; hoc est quia in voto
+habeo vinum non bibere, non possum gustare calicem
+istum. Et sicut dictum est: Nazaraei comam non
+incidunt <note>(Deut. XXXIII; Judith. XIII, XVI)</note>, hoc est, votum
+habent comam non incidendi; sic dictum est:
+Virum non cognosco. Quomodo itaque fiet istud,
+<pb n="0866B"/>
+quoniam virum non cognosco?</p>
+<p> <hi>Et ait angelus ei: Spiritus sanctus superveniet in
+te, et virtus Altissimi obumbrabit tibi <note>(Luc. I)</note>
+          </hi>. Noli,
+inquit, propter propositum virginitatis de promissione
+prolis diffidere. Spiritus sanctus superveniet
+in te. Concipies filium non e viro, sed de Spiritu
+sancto. Promissio quidem mea implebitur; sed tamen
+propositum tuum non violabitur. Tu vovistvirum
+te non cognituram; et ego praedico filium te
+parituram; et idcirco miraris, ne forte vel promissio
+cassa sit permanente proposito, vel propositum violetur,
+si impleatur promissio. Non enim possibilitas
+naturae hic sufficit, aut ratio humana id comprehendit,
+ut pariat virgo, intacta filium generet, et sine
+opera carnis caro procedat ex carne. Idcirco miraris
+<pb n="0866C"/>
+quomodo fiet istud, quia virum non cognoscis.
+Nam interim, quantum in te est, nihil invenire potes,
+cur de tua perseverantia debeas dubitare; et ob
+hoc quaeris, quomodo de mea possis promissione
+confidere. Quomodo fiet istud, quia virum non cognosco?
+Spiritus sanctus superveniet in te, et virtus
+Altissimi obumbrabit tibi. Noli propter propositum
+de promissione diffidere, quia Spiritus sanctus superveniet
+in te. Noli propter promissionem de proposito
+formidare, quia virtus Altissimi obumbrabit
+tibi. Spiritus sanctus superveniet in te, ne per coitum
+corrumpatur integritas. Virtus Altissimi obumbrabit
+tibi, ne per libidinem polluatur castitas tua.
+Spiritus sanctus superveniet in te, et virtus Altissimi
+<pb n="0866D"/>
+obumbrabit tibi. Ministrabis substantiam, et non
+senties concupiscentiam. Non suscipies semen ex
+viro, et fecunda fructum ventris germinabis in filio.
+Noli ergo dicere: Quomodo fiet istud, quia virum
+non cognosco; quia hoc per virum non fiet, sed
+per Spiritum sanctum, Spiritus enim sanctus superveniet
+in te, et virtus Altissimi obumbrabit tibi.
+Ecce jam habemus Mariam desponsatam virginem,
+et adhuc tamen in virginitatis proposito permanentem.
+Veraciter desponsatam virginem, nec minus
+veraciter in virginitatis proposito permanentem:
+quid amplius quaeris? An adhuc desponsationis nomen
+aliquid tibi ambiguitatis relinquit? Audieras
+enim ad desponsatam virginem missum fuisse angelum;
+sed ad conjugatam non audieras. Forsitan
+<pb n="0867A"/>
+ergo dicas, desponsata erat jam tunc Maria Joseph;
+sed adhuc conjux non erat, quia necdum eam in
+suam acceperat. Nam si eam extunc in suam acceperat,
+cur ei postea dictum est: <hi>Joseph, fili David,
+noli timere accipere Mariam conjugem tuam? <note>(Matth.
+I.)</note>
+          </hi> Nondum ergo conjux erat, quando ad eam missus
+est angelus, sed tantum desponsata erat; et idcirco
+fieri potuit, ut non mutaverit propositum virginitatis,
+quando desponsata est, et mutaverit, quando
+conjux facta est. Hoc fortassis adhuc pro parte tua
+oppones. Sed absit a nobis, ut credamus eam, postquam
+se coelesti partu fecundandam audierat, ullatenus
+ad carnale commercium assensum praebuisse,
+quae et priusquam divini arcanum sacramenti (quod
+in se complendum erat) didicisset, votum virginitatis
+<pb n="0867B"/>
+conservandae tam inviolatum tenuit, ut cum se
+futuram conjugem sponderet, illud tamen eadem nihilo
+minus qua coeperat, devotione, eadem perseverantia
+in finem usque custodiendum proponeret. Desponsata
+ergo erat, et conjux erat, et vera virgo erat, et
+virginitatis propositum non reliquerat. Confitemur
+itaque virginem desponsatam; confitemur virginem
+conjugem factam; postea matrem quoque et virginem
+semper virginitatis propositum inviolatum tenuisse
+et castitatis decus perpetuum regnasse cum
+pudicitia conjugis et honore parentis. Intuere nunc,
+et diligenter considera virginem istam, virgunculam
+nostram singulariter castam, excellenter speciosam,
+unice mundam. Sed ego novi oculum tuum, quia
+lippus est, et quanto diligentius intenditur, tanto
+<pb n="0867C"/>
+iniquius contemplatur. Lex, inquit, dixit:  « Maledicta
+sit sterilis, quae non parit; et quae non relinquit semen
+in Israel <note>(Deut. VII, 14; Exod. XXIII, 26)</note>. »  Sed
+haec peperit et sterilis non fuit, quae semen benedictionis
+reliquit in Israel, in quo secundum repromissionem
+omnes gentes benedicuntur cum Israel,
+omnes qui benedicentur in Domino Deo Israel. Verumtamen
+in Sapientia audivimus felicem sterilem
+et incoinquinatam, quae non novit torum in delicto,
+quoniam fructum habebit in respectu animarum
+sanctarum <note>(Sap. III)</note>. Rursum in propheta Dominus
+continentiae merces, quanta apud ipsum reposita sit,
+ostendit, dicens: <hi>Non dicat eunuchus: Ecce ego
+lignum aridum. Quia haec dicit Dominus eunuchis:
+Qui custodierint sabbata mea, et elegerint quae volui,
+<pb n="0867D"/>
+et tenuerint foedus meum, dabo eis in domo mea, et
+in muris meis locum et nomen melius a filiis et a
+filiabus nomen sempiternum quod non peribit <note>(Isa.
+LVI)</note>
+          </hi>. Quis est ergo iste in continentia sterilitatem
+maledicens, continentiae puritatem non videns,
+et fructum non intelligens? At tamen audiamus,
+quod paret.</p>
+<p>Maria, ait, maledictionem non effugit, quae per
+virginitatis propositum sterilitatem incurrit. Amplius
+autem. Quare nubere voluit, postquam continentiam
+voverat? Duo sunt. Aut propter maledictionem
+sterilitatis virginitatem non proponeret; aut propter
+votum castitatis virgo permansura non nuberet.
+Nunc vero si iniquum jure dicitur maledictionem
+<pb n="0868A"/>
+potius quam benedictionem eligere: quale dicendum
+est votum fecisse integritatis et nubere? Libenter
+accipio, quod ex tua pervicacia laus virginis
+cumulatur. Sic vult manifestari veritas, sic vult
+confutari iniquitas. Videamus ergo, quale sit, in
+quo notandam putas virginem. Scilicet, ais, quia
+in proposito virginitatis, maledictione sterilitatis
+incurrit. Quanta ergo est maledictio sterilitatis?
+Tanta utique, quanta et benedictio fecunditatis. Et
+ipsa itaque benedictio fecunditatis quanta est? Primos
+illos nostri generis parentes, cum benediceret
+Deus, ait: Crescite et multiplicamini, et replete
+terram. Ergo benedictionem fecunditatis dedit illis:
+Multum ergo dedit illis, quando benedictionem
+fecunditatis dedit illis, quando dixit: Crescite
+<pb n="0868B"/>
+et multiplicamini, et replete terram. Nonne et
+avibus coeli hoc dixit, et bestiis atque jumentis
+terrae hoc dixit: Crescite et multiplicamini, et
+replete terram? Peracta namque quinta nascentis
+saeculi die, cum produxisset ab aquis Deus piscium
+et volatilium genus, subjunxit Scriptura et
+dixit: <hi>Videns Deus quod esset bonum, ait: Crescite
+et multiplicamini, et replete aquas maris:
+avesque multiplicentur super terram <note>(Gen. I)</note>
+          </hi>. Rursum
+cum educeret Noe de arca cum omnibus animantibus
+terrae in genere suo in universos suae
+benedictionis munus diffundens iterum ait: <hi>Crescite
+et multiplicamini <note>(Gen. VIII)</note>
+          </hi> et replete terram.
+Secundum illam utique misericordiam, qua salvat <hi>homines et jumenta 
+ <note>(Psal. XXXV)</note>
+          </hi>; aperit <hi>manum</hi> suam
+<pb n="0868C"/>
+et implet <hi>omne animal benedictione <note>(Psal. CXLIV)</note>
+          </hi>. Igitur
+benedictio fecunditatis non solum hominibus, sed
+jumentis data est. Quid ergo mali fecit Maria? Maledictionem,
+inquit, sterilitatis elegit potius quam
+benedictionem fecunditatis. Intendite aequitatem.
+Judex noster virginem damnat, eo quod spreverit
+benedictionem jumentorum; et virginitatem eligens,
+benedictionem acceperit angelorum. <hi>Inflammatum
+est,</hi> inquit Psalmista, <hi>cor meum, et renes mei commutati
+sunt; et ego ad nihilum redactus sum, et
+nescivi. Ut jumentum factus sum apud te, et ego semper
+tecum. Tenuisti manum dexteram meam; et in
+voluntate tua deduxisti me, et cum gloria suscepisti
+me. Quid enim mihi est in coelo, et a te quid volui
+super terram? <note>(Psal. LXXII.)</note>
+          </hi> Igitur Propheta, invento
+<pb n="0868D"/>
+eo quod sibi in coelo repositum est, quidquid
+in terra hactenus diligebat in ejus comparatione
+libenter despicit; et superna jam spirituali amore
+ambiens tam diu se per delectationem carnalem
+jumentum fuisse erubescit. Inflammatum est enim,
+ait, cor meum, et renes mei commutati sunt. Hoc
+est, per carnis semen in terra multiplicari cur appetam,
+cum mihi in coelo haereditatem conservari
+agnoscam? <hi>Deus cordis mei, et pars mea Deus in
+aeternum <note>(ibid.)</note>
+          </hi>. Haec est illa optima pars quam <hi>elegit
+Maria, quae non auferetur ab ea <note>(Luc. X)</note>
+          </hi>. Et
+quia se <hi>in honore</hi> esse <hi>intellexit, non est</hi> comparata
+mutis <hi>insipientibus,</hi> nec <hi>similis</hi> facta <hi>est illis <note>(Psal.
+XLVIII)</note>
+          </hi>. Voluit ergo aliquid supra conditionem jumentorum
+<pb n="0869A"/>
+appetere; et idcirco parum judicabat,
+vel potius indignum reputabat, honori suo benedictionem
+jumentorum anteferre.</p>
+<p>Quare, inquis, si melior erat virginitas fecunditate,
+Deus prius fecunditatem benedicebat; et postmodum
+lex sterilitatem maledicebat? Audi quare.
+Primum quando factus est mundus per Creatorem
+benedicta est fecunditas, ut multiplicarentur homines;
+postea quando ab uno tantum populo agnitus
+est Deus, per legem maledicta est sterilitas, ut
+multiplicarentur fideles; postremo quando instabat
+tempus, in quo nunc ab omnibus gentibus Deus colitur,
+benedicta est virginitas, ut ad vitam caelibem
+a carnis opera cuncti provocentur; audi adhuc
+aliud. Si prima illa benedictio fecunditatis ad salutem
+<pb n="0869B"/>
+erat, et secunda illa sterilitatis maledictio ad
+damnationem: ergo fecunditas carnis meritum est,
+et culpa sterilitas. Ergo meliores fuerunt illae mulieres,
+quae multos filios pepererunt, quam illae quae
+nullos vel paucos habuisse leguntur. Melior erat
+Cethura quam Sara. Melior Fenenna quam Anna et
+caeterae multae, quas Scriptura commemorat Deo
+non in multitudine filiorum, sed per merita virtutum
+placuisse. Sed absit a nobis ut vel fecunditatem
+carnis meritum, vel sterilitatem culpam esse dicamus.
+Absit a nobis ut credamus propterea legem
+sterilitatem carnis maledixisse, ut eam apud Deum
+damnabilem ostenderet; et non potius ut eam (illo
+quidem tempore, quando successio generis in multitudine
+filiorum quaerebatur) apud homines infructuosam,
+<pb n="0869C"/>
+et ob hoc quodammodo inhonoratam demonstraret.
+Non ergo culpanda est virgo Maria, nec
+accusanda de contemptu legis, in qua sterilitas maledicitur,
+imo sola singulariter laudanda, quae prima
+legis verba non carnaliter sapienda considerans, elegit
+in terra abjectio plebis fieri et opprobrium hominum,
+ut per munditiam integritatis in coelo fieret socia angelorum.
+Et pulchre prima inter feminas virgo Maria
+pro amore castitatis maledictum legis in carne
+sua pro nobis suscipiens a maledicto legis liberavit.
+Unde merito ei soli datum est, ut filium pareret et
+virgo permaneret, ut quia prima fecunditati carnis
+virginitatem sponte praetulit, nunc et fecunda sit
+carne et integra virginitate. Vides nunc qualis sit
+<pb n="0869D"/>
+accusatio tua? Superest ergo illud, ut rationem
+jam reddamus, quare post votum virginitatis Maria
+virum habere consensit. Aut propterea virum habere
+consensit haec sancta, ut celaretur propositum ejus;
+approbante et hoc ipsum Joseph, et idem proponente,
+aut si forte hujus propositi conscius non erat
+ipse Joseph (quod fieri potuit) parentibus nuptias
+imperantibus inobediens esse timuit, et ob hoc viro
+nubere consensit speciali (per Spiritum sanctum,
+qui eam a principio castitatis amore accenderat)
+fiducia confirmata et spe, quam in Deum habebat,
+non dubia, quod eam divina misericordia ita custodiret
+ut posset et voluntati parentum in matrimonio
+contrahendo obedientiam exhibere, et tamen nihil
+in eodem matrimonio impedimenti inventura esset,
+<pb n="0870A"/>
+pro quo votum virginitatis (quod pro amore castitatis
+susceperat) cogeretur frangere. Suscepit ergo
+conjugium, sed non mutavit virginitatis propositum.
+Et quia castitatem dilexit et obedientiam tenuit,
+inventa est in ea et sine detrimento virginitatis
+conjugalis sanctitas; et sine opprobrio sterilitatis
+fecunda virginitas. Sic beatus ille patriarcha fidei
+forma et obedientiae exemplum Abraham in repromissione
+acceperat, quod in Isaac benediceretur semen
+ejus; et tamen postea jussus a Deo eumdem quem
+unigenitum habebat ex Sara uxore sua filium Isaac
+immolare, sine mora aut cunctatione paruit, sciens
+pro certo quod, tametsi secundum humanam rationem
+promissioni contraria videretur jussio, secundum
+illam tamen virtutem, qua Deo possibilia sunt
+<pb n="0870B"/>
+omnia, et cum obedientia jussionis impleri posset
+promissio. Sicque factum est ut devotio obedientiae
+(qua Deo jubenti parere non distulit) inveniret meritum;
+et fides, qua Deo promittenti credidit, promissionis
+fidelis consequeretur effectum. Ita etiam hic fieri
+potuit, ut beata ista virgo Deo commendans, omne
+desiderium suum tantam in ipso fiduciam habuerit,
+ut indubitanter crederet, et parentibus se posse
+debitam obedientiam exhibere, et votum castitatis,
+cujus ipse solus conscius erat, quemadmodum vellet
+eo patrocinante, inviolatum conservare. Sed sive
+ita, sive aliter factum sit, nos quidem nullatenus
+ambigere debemus; beatam Mariam certa ac rationali
+causa post votum servandae virginitatis propositumque
+continentiae, conjugii sacramentum suscepisse,
+<pb n="0870C"/>
+et tamen virginitatis propositum non mutasse,
+veraciterque nomen sumpsisse conjugis, et perseveranter
+votum tenuisse integritatis.</p>
+</div2>
+
+<div2>
+        <head>CAP. II. <hi>Quod sacrosancta et perpetua virgo Maria non de viro, sed de Spiritu sancto concepit, quem et peperit Altissimi Patris unigenitum, Christum Deum et hominem.</hi> </head>
+<p>Prima igitur propositionis parte probata, qua
+dictum est quod Maria in consensu conjugali, virginitatis
+propositum non mutavit, nunc ad expositionem
+secundae partis, qua dictum est quod non
+de viro, sed de Spiritu sancto sine libidine concepit,
+sermo necesse est ordinem suum prosequatur.
+Primae quidem partis sententia (quia magis in quaestione
+<pb n="0870D"/>
+versabatur) prolixiori disputatione indiguit.
+Haec autem quoniam de ea minus dubitatum est,
+non tam probationem quam expositionem requirit.
+Quaerendum itaque in primis est, quomodo in elligi
+oporteat quod dictum est, beatam Mariam de Spiritu
+sancto concepisse. Scimus namque et omnes jam
+frequentissimo naturae usu didicimus, quod cum
+mulier a viro concepisse dicitur, non aliud nisi substantiam
+carnis ad generandam carnem per carnis
+coitum suscepisse memoratur. Et haec quidem carnis
+substantia de carne viri per ipsum carnis coitum
+transfusa cum carne mulieris una caro efficitur, ut
+id quod nasciturum est ex utriusque substantia veraciter
+originem sumens, ab illo per istam etiam ab
+ista generetur; ergo mulier a viro concipit, cum a
+<pb n="0871A"/>
+carne viri per coitum carnis semen suscipit ad generandam
+carnem. Nec aliud concipit quam ille est,
+a quo concipit, aut ipsa quae concipit; et quod concipit,
+hoc parit. Quid ergo dicemus? Nunquid Spiritus
+sanctus de sua substantia semen partus infudit
+alvo virginis? Quomodo ergo semen carnis ministrare
+potuit substantia spiritualis? An forte semen
+carnis non fuit quod conceptum est, et caro fuit,
+quod natum est? Quid dicimus? Quomodo Maria de
+Spiritu sancto concepit? Et si de Spiritu sancto
+concepit, quomodo Spiritus sanctus pater Christi
+non fuit? Haec omnia magna consideratione indigent,
+ne forte in re difficili et valde obscura sensus
+humanus aliquid amplius sua possibilitate praesumat.
+Nec ideo de his dubitandum est, quia obscura
+<pb n="0871B"/>
+sunt, nec ideo aliquid temere definiendum, quia
+credenda sunt. Quaeramus ergo quid concepit Maria.
+Aut enim carnem non concepit, et carnem non genuit;
+aut si carnem genuit, carnem concepit. Quod
+enim concepit, hoc genuit? Sed quomodo carnem
+ministrare potuit non caro, aut non carnem gignere
+caro? Ista perplexa inquisitio sive quaerendi ratio,
+quemadmodum sane et competenter intelligi valeat
+consideremus. Et primum quidem in ea quae secundum
+solitam ac usitatam naturae operationem peragitur
+conceptione ejusdem naturae opus quomodo
+compleatur intueamur. In parentibus carnaliter generantibus
+et per carnis coitum nascituram carnem
+ex carne fabricantibus utrobique natura substantiam
+ministrat partui creando, ut ex utriusque carne
+<pb n="0871C"/>
+procedat, quae solum in unius carne formanda est
+caro. Tamen hoc vectigal (quod natura quasi debitum
+quoddam ex instituto Creatoris ad fabricam
+humani corporis absolvendam impendit) ita prorsus
+sine ulla necessitate aut coactione ab ea requiritur,
+ut non nisi sola dilectione, et, ut sic dixerim,
+spontanea charitate ad id tribuendum inclinetur.
+Nihil est enim, praeter solam dilectionem,
+quod hoc debitum a natura extorquere possit;
+sed cum spontanea fuerit charitate persuasa,
+tunc nimirum sibi mutuo ad opus consummandum
+ex utraque parte libenter atque gratanter occurrit.
+Sane quidquid violenter nolenti abripitur, ad
+ejusmodi causae effectum incongruum prorsus atque
+<pb n="0871D"/>
+inefficax demonstratur. Sola ergo dilectio est,
+quae naturam persuadere, et volentem quodammodo
+cogere potest ad seminandum partum. Et
+quidem in muliere amor viri, in viro autem amor
+mulieris id agere solet, ut quia in altero solum
+natura sibi sufficiens non est, uterque alteri per dilectionem
+subveniat, ut quod neuter per se potuit,
+uterque per se cum altero possit. Igitur semen humani
+partus a sola muliere formandum concipitur,
+quod simul a viro et muliere seminatur. Quod quidem,
+sicut jam dictum est, in muliere per amorem
+viri, et in viro per amorem mulieris natura operatur.
+Propter quod etiam mulier non nisi a viro concipere
+dicitur, licet tam de se quam de viro accipiat
+unde fecundatur. Et recte de solo viro concipit,
+<pb n="0872A"/>
+quia id quod concipitur, in altero quidem de
+carne viri sumitur, in altero autem per amorem
+viri monstratur. Non itaque hoc solum de viro
+concipit, quod de viro accipit, sed hoc etiam de
+viro concipit, quod ex se de amore viri accipit.
+Hoc praemittere voluimus propter id quod dictum
+est, Mariam de Spiritu sancto concepisse. Concepit
+ergo Maria de Spiritu sancto, non quod de substantia
+Spiritus sancti semen partus acceperit, sed
+quia per amorem et operationem Spiritus sancti ex
+carne virginis divino partui natura substantiam
+ministravit. Nam quia in corde, quo amor Spiritus
+sancti singulariter ardebat, ideo in carne ejus virtus
+Spiritus sancti mirabilia faciebat. Et cujus dilectio
+in corde illius non suscepit socium, ejus operatio
+<pb n="0872B"/>
+in carne illius non habebat exemplum. Hoc
+igitur solum virgo concepit, quod de sua carne per
+amorem et operationem Spiritus sancti accepit; de
+quo etiam solo sine virilis seminis admistione filium
+genuit. Non ergo libido carnis conceptionem in
+virgine operata est, quae nec de carne viri semen
+accepit, nec de sua carne per amorem viri concepit,
+sed per amorem et operationem Spiritus sancti.
+Nec ipse Spiritus sanctus idcirco pater Christi
+dicendus est, quia ejus amor conceptionem virginis
+operatus est, quia non de sua essentia virgini semen
+partus tribuit, sed ipsi de carne propria virgini
+per amorem suum atque virtutem substantiam
+ministravit. Christus ergo et de virgine natus est,
+quia de carne virginis carnis substantiam accepit.
+<pb n="0872C"/>
+Et de Spiritu sancto conceptus est, quia ipsa cum
+virgo ex sola carne sua sine admistione virilis
+seminis per sancti Spiritus operationem amoremque
+concepit. Hinc est quod eidem Virgini pariturae per
+angelum dicitur: <hi>Spiritus sanctus superveniet in
+te, et virtus Altissimi obumbrabit tibi <note>(Luc. I)</note>
+          </hi>. Spiritus
+sanctus namque virgini supervenit, ut per
+ejus operationem caro Christi de carne virginis formaretur.
+Et virtus Altissimi obumbravit ei, ne substantiam
+carnis ministrans, carnali concupiscentia
+ureretur. Et sic quidem nos intelligendum putamus
+id quod de Spiritu sancto virgo concepisse dicitur.
+Sic etiam posse astrui, quod in concipiendo libidinem
+non sensisse perhibetur.</p>
+</div2>
+
+<div2>
+        <head>CAP. III. <hi>Quod sine doloris et sine virginitatis detrimento Maria Christum peperit.</hi> </head>
+
+<pb n="0872D"/>
+<p>Restat nunc novissimum hoc ex his tribus quae
+proposita erant, ut eam etiam sine dolore peperisse,
+nullumque in pariendo virginitatis detrimentum
+sustinuisse demonstremus. Audivi ego aliquando
+virginem concepisse, sed non peperisse virginem,
+quia talis de viro concepit quod peperit. Merito
+namque in partu corrupta est integritas, quia in
+conceptu virginitas polluta est, justumque erat, ut
+non pareretur sine dolore, quod conceptum non erat
+sine libidine. Nequaquam partus dolorem afferret,
+si conceptus non sensisset libidinem. Quia si culpa
+delectationis illicitae concipientem non pollueret,
+nunquam poena doloris parientem cruciaret. Prima
+<pb n="0873A"/>
+namque illa nostri generis et doloris mater, postquam
+malam delectationem conceperat, tunc demum
+quod filios in dolore paritura esset, audiebat, ut
+aperte demonstraret, quod non idcirco pariat cum
+dolore, quod a viro concipit, sed quod cum libidine.
+Quis enim possit dicere, si homo non peccasset,
+utrum partus humanus etiam de viro conceptus
+aut integritatem corrumperet, aut castitatem violaret?
+Et quidem si non violaretur castitas, quare
+integritas corrumperetur? dicat qui potest. Beata
+autem virgo Maria ut supra primam conditionem
+esset secunda restauratio, et naturam generis gratia
+vinceret Salvatoris, non solum sine libidine concepit,
+sed neque de semine viri partum accepit; et
+ob hoc sine dolore filium edidit, et cum integritatis
+<pb n="0873B"/>
+decore post partum virgo permansit.</p>
+</div2>
+
+<div2>
+        <head>CAP. IV. <hi>Quaestio, utrum probabile sit, matrimonium sine consensu coitus contrahi posse.</hi> </head>
+<p>Quoniam quidem necdum quaestiones finem acceperunt,
+cogor quotidie expositionem expositioni
+superinducere, et veterem parietem recenti temperatura
+linire, rudibus namque animis novo semper
+errore fatiscentibus nihil satis expositum esse potest;
+qui dum tenebris suis involuti alienam lucem non
+vident, omne quod intelligere nequeunt, obscure
+dici queruntur, atque ita defectum suarum mentium
+in causationem transferunt sermonum. In eo tractatu,
+quem de beatae Mariae virginitate dictavi,
+quaestio in manibus habita est, in qua id potissimum
+agebatur, an quovis modo demonstrari posset,
+<pb n="0873C"/>
+utrum sine consensu coitus conjugium sanciri valeret.
+Cumque nos, quod oportuit in hujus sententiae
+definitionem, proponeremus, ratio patefacta est in
+consensu carnis nequaquam consistere sanctitatem
+sacramenti conjugalis. Proinde determinantes ea
+quae conjugii sanctio expostulat, signavimus conjugium
+esse legitimam societatem inter virum et feminam,
+in qua, excepto quoque carnis commercio, ex
+pari consensu uterque semetipsum debet alteri, ut
+videlicet et se ille conservet, ne ad alienam societatem
+transeat, et se illi non neget, ut ab ea, quae
+adinvicem, societate se non disjungat. Hoc cum sufficere
+potuisset his, quibus ratio manifesta sufficeret,
+ecce iterum qui in matre Domini verum conjugii sacramentum
+<pb n="0873D"/>
+verumque virginitatis propositum simul
+profiteri nolunt, propterea quod matrimonium sine
+assensu coitus carnis ratum non esse autument,
+nostram definitionem (quae a conjugio carnis necessitatem
+excludit) hac ratione infirmare contendunt.
+Si, inquiunt, aliud non est conjugium, nisi talis
+societas, in qua excepto quoque carnis commercio
+ex pari consensu, uterque semetipsum debet alteri
+debito conservandi, et non negandi se ad eam, quae
+in communi est societate, inseparabilem unionem ac
+fidem: cur etiam in eodem sexu conjugium rectissime
+ac sanctissime celebrari non possit, et individua societas
+laudabili charitate sanciri? Quid enim impedit
+ut vir virum, et femina feminam tali sibi pactionis
+foedere et societatis amore non astringat? Quod si
+<pb n="0874A"/>
+ridiculum omnino est, et ab humana prorsus ratione
+seclusum, ut scilicet in eodem sexu conjugii sacramentum
+celebretur, ubi nihilominus ejusmodi foederatio
+societatis non prohibetur, restat, ut in conjugii
+pactione ipsam, quae nisi in sexu utroque constituta
+non est, carnis unionem, quantum ad consensum
+spectat, necessariam esse profiteamur. Cogunt
+igitur, ut nos <note>(si assensum coitus in conjugii pactione
+necessarium omnino non esse volumus quemadmodum
+ista societas, quae in nostra definitione
+signata est, in eodem sexu sanciri non posse, demonstremus.
+Ad quod cum id solum sufficere posset,
+quod divina institutio hanc ad utrumque sexum foederandum
+ordinavit, proptereaque in eodem sexu
+(ut si fiat)</note> ita a conjugii sacramento foret aliena,
+<pb n="0874B"/>
+quemadmodum ob id ipsum fiat illicita; et sicut in
+diverso etiam sexu inter matrem et filium foret
+inconcessa; idcirco a sanctitate conjugalis sacramenti
+esset vacua quia qui dixit: <hi>Relinquet homo
+patrem suum et matrem suam, et adhaerebit uxori
+suae, et erunt duo in carne una <note>(Gen. II)</note>
+          </hi>, hanc societatem
+inter matrem et filium inordinatam et ob hoc
+non castam esse manifeste docuit, cum in conjugio
+sanciendo non matrem petendam, sed relinquendam
+ostendit. Haec igitur ratio cum sola sufficeret ad
+comprobandum, quod in eodem sexu quamlibet
+casta et indissolubili charitate astricto conjugii sacramentum
+esse non possit; debemus tamen, sicut
+in omni assertione divina justum est, non nostri qui
+loquimur, defensionem tantum attendere, quantum
+<pb n="0874C"/>
+eorum, quibus loquimur, aedificationem. Reddenda
+itaque ratio, quare conjugii sacramentum (quod in
+diverso sexu nihil ad sanctificationem sui praeter
+spontaneam perpetuae ac indivisae societatis charitatem
+exigit) in eodem nihilominus sexu simili atque
+eadem foederatione sanciri non possit. Hoc facimus
+ita. In conjugio siquidem duo sunt: sacramentum
+conjugii, et sacramentum conjugalis officii. Hoc est
+conjugium et conjugii officium utrumque sacramentum.
+Conjugium est in foedere dilectionis. Conjugii
+officium est in generatione prolis. Igitur amor conjugalis
+sacramentum est, et sacramentum in conjugibus
+est commistio carnis. Sed amor conjugalis
+sacramentum est illius dilectionis, quae est in spiritu,
+<pb n="0874D"/>
+inter Deum et animam. Commistio carnis in conjugibus
+sacramentum est illius participationis, quae
+est in carne inter Christum et Ecclesiam. Quapropter
+amor conjugalis nequaquam inter pares esse
+debuit; quia ille, cujus sacramentum erat, inter
+pares non fuit. Juncti sunt itaque in unius societatis
+amore et masculus et femina, sicut juncti erant in
+unius societatis amore Deus et anima. Nunquid jam
+non vides quo tendat omnis nostrae disputationis
+assertio? Aspice ista duo collegia charitatis, in terra
+masculum et feminam, in coelo Deum et animam
+et considera quam rationabili providentia cuncta
+disposita sint. Creavit Deus masculum et feminam,
+et de masculo feminam; et quia, de illo facta est,
+sub illo constituta est. Illi datum est, ut et vivacitate
+<pb n="0875A"/>
+rationis et viribus corporis super excelleret: huic
+ordinatum est ut non solum obedientia, sed et natura
+subesset. Voluit ergo Deus, ut in illius fortitudine
+et providentia haec (quasi suae fragilitatis consortia)
+requiesceret; et ut in illo hujus infirmitas pietatem
+excitaret, quatenus et vir mulierem quodammodo
+ex pietate diligeret, et mulier virum magis ex
+necessitate amaret. Quod ergo vir mulierem diligit,
+quodammodo beneficium est, quia pietate vincitur,
+ne infirmitatem deserat. Quod autem mulier virum
+diligit, magis debitum est, quia naturali necessitate
+compellitur, ut patrocinium requirat, atque ita
+quodammodo tota dilectionis utilitas ad mulierem
+refertur; quia in ipsa causa est, pro qua vel ipsa
+virum diligit, vel a viro ipsa diligitur. Patefactum
+<pb n="0875B"/>
+est igitur dilectionis sacramentum. Sacramentum
+dilectio, et dilectionis sacramentum dilectio. Nec
+opus jam est longa expositione, ut ostendatur,
+qualiter in hujus sacramenti figura vir imago Dei
+sit, et femina rationalis animae typum in se formamque
+demonstret. Manifestum est enim, quod sicut
+viri amor ad mulierem pietate quadam et compassione
+naturali inclinatur, vir autem a muliere magis
+necessitate conditionis diligitur; ita Deus animam
+rationalem prius gratuita pietate diligit, et eam
+postmodum ad amorem sui quadam rationabili necessitate
+spontaneam tamen et volentem convertit.
+Diligit ille prior gratis nos, ut postmodum diligentes
+ad diligentem se convertat nos, fiatque una dilectionis
+societas, et propter nos, quia nobis necessaria;
+<pb n="0875C"/>
+et propter illum quia in illo beata. In hac autem
+jucunda dilectionis conversatione amor Dei quodammodo
+caput est, quia ab illo in nos prius dilectio
+oritur; et ad illum a nobis dilectio conversa refertur.
+Simili quoque ratione in conjugali charitate, quae
+hujus dilectionis est sacramentum, amor viri caput
+est; quia prior vir mulieri per compassionem pietatis
+in amore se sociat, ut mulieris dilectio per eruditionem
+ad virum conversa, et per spontaneam
+benignitatem suscepta in societate charitatis unum
+fiat. Propterea dicit Apostolus: <hi>Caput mulieris vir,
+caput viri Christus, caput Christi Deus est <note>(I Cor. II)</note>
+          </hi>.
+<pb n="0876A"/>
+Nam quod est in sacramento conjugii caste sanctus
+amor viri ad feminam, hoc est in sacramento fidei
+amor Christi ad Ecclesiam; hoc quod est in incarnatione
+Verbi, amor Dei ad humanam naturam.
+Propter hoc in cantico amoris cum illa aeterna
+charitas et amor ineffabilis sive Dei ad animam,
+sive Christi ad Ecclesiam; non qualis fuit, sed
+qualiter potuit, verbis promi debuisset; nihil in
+rebus visibilibus aut in humanis affectibus similius
+inveniri poterat, quam amor sponsi et sponsae; aut
+non aliunde quam per suum sacramentum invisibilis
+illa et spiritualis dilectio ostenderetur, ut dum
+id quod humanus affectus noverat, auditus per Verbum
+acciperet; id quod non noverat, cor interius
+per amorem gustaret. Nam ipsam ibidem mutuae
+<pb n="0876B"/>
+charitatis vicissitudinem, qua una uni sociata, nec
+dissidium in suo suscipit, nec consortium in alieno
+admittit sponsa significare volebat, cum diceret: <hi>Dilectus meus mihi, et ego illi, qui pascitur inter
+lilia 
+ <note>(Cant. II)</note>
+          </hi>, <hi>donec aspiret dies et inclinentur umbrae <note>(Cant. VII)</note>
+          </hi>.
+Et rursum: <hi>Ego dilecto meo, ad me
+conversio ejus <note>(Cant. VI)</note>
+          </hi>. Sponsus quoque ipse uniti
+amoti amoris praerogativam commendans. <hi>Sexaginta</hi> 
+inquit, <hi>sunt reginae, et octoginta concubinae, et adolescentularum
+non est numerus. Una est columba
+mea, perfecta mea. Una matri suae, electa genitrici
+suae <note>(Cant. VI)</note>
+          </hi>. Propter sacramentum ergo dilectionis
+aeternae Deus conjugium sancire voluit propter
+utilitatem propagationis humanae sexum creavit; et
+tamen amor conjugalis non propter sexum dissimilem
+<pb n="0876C"/>
+sacramentum est, sed propter naturam differentem.
+Non enim secus, sed natura disparem in
+alterutrum charitatem amori tribuit, et tamen sexus
+inaequalitatem naturae discernit. Casta enim dilectio
+non ex tali sexu aliter afficitur, sed in tali sexu ex
+tali natura. Propterea quod extra talem sexum taliter
+affici non potest, quia extra talem sexum non
+invenitur talis natura. Sufficiat hoc eis, qui quaerunt
+quomodo amor conjugalis (cui carnis commercium
+excipitur) in eodem quoque sexu utrobique non
+simili veritate sanciatur.
+</p>
+</div2>
+</body>
+  </text>
+</TEI>

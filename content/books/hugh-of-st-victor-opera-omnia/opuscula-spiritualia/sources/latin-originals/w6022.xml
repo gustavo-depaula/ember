@@ -1,0 +1,1217 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Explanatio in Canticum B. Mariae</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 175</title>
+           <idno>HuDeSVi.ExInCaB</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>PROLOGUS.</head>
+<p>
+          <pb n="0413B"/>Maximam hanc in Scripturis divinis difficultatem
+invenio: quod ubi magna quaedam et sublimia
+nonnunquam requirere nos causa circumstans cogit:
+ibi nihil praeter solitum, et quod dictu non difficile
+sit, praetendere littera videatur. Neque enim hoc
+ego tam laboriosum existimo, ut animus legentis ad
+ea quae nova et miranda proponuntur, quamlibet
+sint fortia, et verborum figuris obumbrata, comprehendere
+valeat, quam ut ea quae modica et humilia
+primo ingressu repererit, ad sublimem intelligentiam
+promoveat. Ecce enim canticum Mariae, quod
+tam celebri et assidua, imo quotidiana recitatione
+sancta per orbem frequentat Ecclesia, quis ignoret
+maxima spiritualis intelligentiae mysteria continere?
+Ut enim praetermittamus quod vel solum ad ejus
+<pb n="0413C"/>
+auctoritatem commendandam sufficere potuisset:
+videlicet non sine magna et valde rationabili causa
+consuetudinem ecclesiasticam hoc prae caeteris omnibus
+canticis, quae in sacra Scriptura reperiuntur,
+in tanta veneratione retentasse: ut, inquam, hoc
+praetermittamus, quis dubitet beatam Mariam recens
+Spiritus sancti in se supervenientis tanta plenitudine
+et gratia repletam non potuisse parvum aliquid, et
+<pb n="0414B"/>
+quod supra terrenarum mentium capacitatem non
+esset, in laudem Salvatoris sui proferre? Constat
+ergo de tanta plenitudine eructantem, tantaque devotione
+novum illud, et humanis mentibus insolitum
+gaudium Jesu suo jubilantem, nova laude, et singulari
+praeconio novam laetitiam in novo adventu
+aeterni Domini praedicasse. Et tamen ipsam ejus cantici
+seriem, textumque percurrentes, quaedam prima
+facie narrationis eo modo proposita invenimus, ut
+amplius his nihil in eo quaerendum videatur: cum
+tamen, licet haec ipsa et vera sint, tantis mysteriis,
+tantisque sacramentis an forte sufficiant, dubitari
+possit. Unde magis pertimesco in ejus expositione,
+ne vel aliena inducam aliqua, vel propria praetermittam:
+et sic vel negligentiae, vel temeritatis reatu
+<pb n="0414C"/>
+astrictus pro gratia apud vos offensae periculum incurram,
+quamvis ipsi poposceritis. Nonnulla eidem
+explanationi ex latere adjunxi quae, si interserta
+fuerint, poterunt fortasse alicui minus apte conjuncta
+videri. Sed ego novi causam idoneam, qua
+vos id postulare decuerit: meque poscentium desiderio,
+quantum possibilitas suppeteret obsecundare
+non disconveniat.</p>
+</div1>
+
+<div1>
+        <head>INCIPIT EXPLANATIO.</head>
+
+<pb n="0413"/>
+<p>
+          <pb n="0413D"/> <hi>Magnificat anima mea Dominum.</hi> Si circumstantiam
+rei gestae perpendere velimus, quanta consideratione
+verba ista digna sint luce clarius patescat
+Sacra namque interpretatio tunc commodius ad evidentiam
+<pb n="0414D"/>
+elicitur, cum notun fuerit vel per quem
+relatio mystica allata sit, vel qua ipse relator causa
+impulsus talia aut valuit narrare, aut voluit. Videamus
+itaque beata Maria quemadmodum ad haec,
+<pb n="0415A"/>
+quae proposita sunt, dicenda accesserit. Legitur in
+Evangelio Lucae <note>(Luc. I)</note>, quod <hi>angelus Gabriel a Deo
+missus</hi> sit <hi>in civitatem Galilaeae Nazareth, ad virginem
+desponsatam viro, cui nomen Joseph, de domo
+David: et nomen virginis Maria:</hi> ut novum in carnem
+Filii Dei adventum praedicaret. Qui ingressus
+novo salutationis obsequio virginem veneratur, dicens: <hi>Ave, gratia plena, Dominus tecum, benedicta tu
+in mulieribus. Quae cum audisset</hi> 
+ Maria, non sine
+grandi miraculo <hi>turbata est in sermone angeli: et
+cogitabat qualis esset illa salutatio.</hi> Angelus vero talis
+salutationis, tantaeque venerationis causam exponens,
+confortabat virginem sacram, id est dulcibus
+demulcebat alloquiis, dicens: <hi>Ne timeas, Maria.
+Invenisti enim gratiam apud Dominum. Ecce
+<pb n="0415B"/>
+concipies in utero, et paries filium, et vocabis nomen
+ejus Jesum. Hic erit magnus, et Filius Altissimi vocabitur:
+et dabitur illi sedes David patris sui, et regnabit
+in domo Jacob in aeternum: et regni ejus non
+erit finis.</hi> Et Maria: <hi>Quomodo,</hi> inquit, <hi>fiet istud:
+quoniam virum non cognosco?</hi> Cui statim angelus
+causam, modumque tam ineffabilis sacramenti exponens: <hi>Spiritus sanctus,</hi> 
+ ait, <hi>superveniet in te, et
+virtus Altissimi obumbrabit tibi: ideoque et quod
+nascetur ex te sanctum, vocabitur Filius Dei:</hi> et ut
+omnis credendi ambiguitas tolleretur, alio adjuncto
+miraculo mirabili, tamen dispari divinae potestatis
+efficaciam manifestat, dicens: <hi>Et ecce Elisabeth cognata
+tuae, et ipsa concepit filium in senectute sua: et
+hic mensis est sextus illi, quae vocatur sterilis: quia
+<pb n="0415C"/>
+non erit impossibile apud Deum omne verbum.</hi> Mox ad
+haec virgo fide et exsultatione plena, cum magna
+gratulatione respondit dicens: <hi>Ecce ancilla Domini,
+fiat secundum verbum tuum.</hi> Statim ergo adveniente
+Spiritu sancto in Virginem, et omnium gratia virtutum
+sacrosanctum habitaculum in adventu Filii
+Dei replente, dubium non est quin coelestium gaudiorum,
+et aeternae dulcedinis miram atque inenarrabilem
+suavitatem Virgo ipsa conceperit, quando
+illud aeternum lumen cum toto majestatis suae fulgore
+in eam descendit: et quod non capit mundus,
+totum se intra viscera virginis collocavit.</p>
+<p>Tali ergo, ac tanta divinitatis praesentia plena,
+quid viderit, aut quid senserit quis dicere potest?
+Audacter pronuntio, quod nec ipsa plene explicare
+<pb n="0415D"/>
+potuit, quod capere potuit. In tantis ergo mirabilibus
+quomodo lingua humana tacere potuisset, nisi
+idem ipse Spiritus, qui virginem repleverat torrentem
+suae affluentiae impetum, suavissimo moderaretur
+amplexu? Clamavit eminus jam, tunc sapientia
+Dei in illa beata anima: <hi>Spiritus ubi vult spirat, et
+vocem ejus audis: sed nescis unde veniat, aut quo vadat <note>(Joan. III)</note>
+          </hi>.
+Tu enim, inquit, ingredientem in te
+Spiritum sanctum subito accepisti: nec scientia
+tua adventum ejus praevenisti, ut aut venturum
+quaereres, aut venientem diligeres, aut ingredienti
+aperires. Subito tibi illapsus est, gratis se obtulit,
+non quaesitus venit, improvisus se infundit. Infusionem
+percipis: sed ad fontem immensitatis ejus te
+<pb n="0416A"/>
+non extendis. Et ideo nescis unde veniat, quia quantum
+tibi datum est, sentire potes, sed ex quanto
+datum sit, investigare non potes. Si ergo praecedere
+non potuisti venientem in te, ne praesumas antcire
+processurum per te: quia nescis quo vadat, sicut
+ignoras unde veniat. <hi>Serva secretum, custodi commissum,
+absconde creditum. Non est tuum nosse tempora,
+vel momenta, quae Pater posuit in sua potestate <note>(Act. I)</note>
+          </hi>.
+Ipse novit quando, et quibus, vel quemadmodum
+magnificentiae suae arcana revelet: tu tantum
+parata esto jubenti obtemperare, praecipienti officium
+exhibere. Tali ergo consideratione se temperans
+Maria prudenter interim tacere elegit, quousque
+largitor muneris sua sapientia auctor fieri dignaretur
+revelationis.</p>
+<p>
+          <pb n="0416B"/>Sed quia eodem Spiritu sancto docente didicerat
+sicut sua per humilitatem tegere, sic alienis bonis
+per charitatem congaudere: surgit mox, et cum
+affluentia tantae gratiae ad inferioris properat epulatura
+convivium. Conscendit in montem Judaeae videre,
+et congratulari Elisabeth: ut quod de ipsa audierat
+credula in ipsa praesens videret, et condigna
+exsultatione exciperet. Sed quae ad aliena bona praedicanda
+jam devota cucurrit, merito sua ab aliis
+praedicari audire debuit: ut ex eo quoque gloria
+ejus cresceret, quod exaltationi alterius non invideret.
+Unde Elisabeth Spiritu sancto repleta qualis,
+ac quanta esset, quae advenerat, agnovit. et quantum
+se indignam ejus visitatione judicaret, aperuit
+dicens: <hi>Unde hoc mihi, ut veniat mater Domini mei
+<pb n="0416C"/>
+ad me? Ecce enim, ut facta est vox salutationis tuae
+in auribus meis, exsultavit in gaudio infans in utero
+meo. Et beata, quae credidisti, quoniam perficientur
+in te, quae dicta sunt tibi a Domino <note>(Luc. III)</note>
+          </hi>. Tunc
+ait Maria:</p>
+<p>Magnificat anima mea Dominum. Non ergo amplius
+potuit se continere cum Spiritum, quem intra
+cordis sui secreta tanta plenitudine redundantem sentiebat,
+per alieni oris claustra cerneret erupisse.
+Tunc igitur ad manifestationem Spiritus aperuit os
+suum, et verbum bonum, quod conceperat, eructans
+in laudem Salvatoris exclamavit, dicens: Magnificat
+anima mea Dominum. Nemo igitur verba ista
+leviter aestimanda putet. Quae enim de tam profunda
+conceptione prolata sunt, sine profunda investigatione
+<pb n="0416D"/>
+digne penetrari non possunt. Et utinam contingat
+nobis eorum arcana quaerentibus illo spiritu
+ducente incedere, quo repleta Maria verbum patris
+concipere, et patrem verbi meruit verbo exsultationis
+magnificare. Ait ergo: Magnificat anima mea
+Dominum.</p>
+<p> <hi>Et exsultavit spiritus meus in Deo salutari meo.</hi> </p>
+<p>Vere dilecta, et unica, et in illam cellam vinariam
+a rege sponso tuo introducta, ab ubertate domus
+ejus inebriata, et fonte vitae (qui apud ipsum est)
+potata memoriam abundantiae suavitatis ejus eructasti,
+et in justitia ejus exsultasti. Vidisti, et gustasti;
+vidisti majestatem, gustasti suavitatem. Ideoque
+quod intus hauseras, foras propinasti. Magnificat
+<pb n="0417A"/>
+anima mea Dominum. Videte quid ait: Magnificat,
+inquit, anima mea. Et exsultavit spiritus meus.
+Duo et duo, anima et spiritus, magnificat et exsultavit.
+Anima magnificat, spiritus exsultat: et iterum
+duo Dominus et salutaris; verba duo, res una,
+et tamen duo: Dominus et salutaris: Dominus potentiam
+nota, salutaris misericordiam. Videamus
+itaque verborum distinctionem. Primum anima
+magnificat Dominum; deinde Spiritus exsultat, in
+salutari non dicit anima exsultat. Nec dixit: Spiritus
+magnificat; sed anima, inquit, magnificat, et
+spiritus exsultat; nec ait magnificat salutarem et
+exsultat in Domino; sed magnificat Dominum, et
+exsultat in salutari suo. Primum discernamus quare
+distincte posuit, magnificat et exsultat; vel quare
+<pb n="0417B"/>
+prius magnificat, postea exsultat. Nihil enim ratione
+caret; quia omne, quod dictum est ab illa intima
+summae veritatis luce cui mens virginis excellenter
+inhaeserat emanavit. Nec potuit aliud dicere, quae
+meditando locuta non est, sed gustando: quam non
+docuit per varia discurrens cogitatio, sed uni inhaerens
+fonti sapientiae per contemplationem mentis
+devotio. Magnificat anima mea Dominum, inquit,
+et exsultavit spiritus meus. Duo quippe sunt, quae
+beati angelorum et hominum spiritus in illo fonte
+boni aeterna contemplatione hauriunt. Incomprehensibilis
+videlicet majestas Dei, et ineffabilis bonitas;
+quorum alterum castum timorem generat, alterum
+dilectionem parit. Pro majestate enim venerantur
+Deum, et pro bonitate amant, ne vel dilectio
+<pb n="0417C"/>
+sine reverentia dissoluta sit, vel reverentia sine dilectione
+poenalis. Admirantes enim diligunt, et diligentes
+admirantur, ut inexstinguibiliter per admirationem
+ardeat dilectio, et suaviter in dilectione
+ferveat admiratio.</p>
+<p>Propter hanc reverentiam dictum est, quod columnae
+coeli ante ipsum contremiscunt; quia nimirum
+etiam virtutes coelorum tantam majestatem sine
+admiratione intueri non possunt. Tremor autem beatorum
+spirituum concussio non est tranquillitatis,
+sed incessabilis et vivifica intentio perpetuae contemplationis.
+Nam quia eum, quem vident, perfecte
+nunquam comprehendere sufficiunt, semper supra
+se conspiciunt: in quo quasi per admirationem evigilant,
+ne eo quod comprehendere nunquam valent,
+<pb n="0417D"/>
+torpescant. Quanto autem perspicacius intuentur,
+tanto ardentius amant; quia ipsum videre sapere
+est, et quod videtur dulcedo est. Vera autem
+dulcedo quanto perfectius sentitur, tanto desiderabilius
+appetitur; quia si vere dulce est quod percipitur,
+et hoc dulcius esse necesse est, si amplius
+percipiatur. Ad hanc ergo contemplationis lucem
+mens Mariae sublevata fuerat, quae coelestis patriae
+dulcedinem in verbis suis tam mirabiliter expressit,
+quam ineffabiliter comprehendit. Nam cum se Dominum
+magnificare perhibuit, venerandam illam
+reverendamque universis aeterni numinis majestatem
+interna visione contueri se manifeste declaravit.
+Cum vero se in suo salutari exsultare asseruit,
+<pb n="0418A"/>
+gustum se internae dulcedinis percepisse ostendit.
+Unde utrumque professa est, et Dominum videlicet
+et Salvatorem, ut pro potestate, qua omni creaturae
+suae dominatur, etiam iis, a quibus non diligitur,
+jure metuendum ostenderet; pro bonitate vero, qua
+misericorditer quosdam salvat, dignum dilectione
+demonstraret. Sane quia <hi>universae viae Domini, misericordia,
+et veritas <note>(Psal. XXIV)</note>
+          </hi> sunt, perfecta laus
+est Dominum et Salvatorem confiteri, cum veritas
+in Domino et in Salvatore misericordia commendetur.
+Veritas enim ad Dominum pertinet et ad Salvatorem
+misericordia. Nam, quia cuncta opera sua
+tanta, et tam perfecta justitia gubernat, ut id etiam,
+quod in eis praeter justitiam factum invenitur,
+inordinatum non relinquat; et quoniam factum perperam,
+<pb n="0418B"/>
+nec ejus judicium potest evadere, nec aeternae
+dispositionis legibus contraire, in veritate serva
+tenorem justitiae.</p>
+<p>Quia autem quaedam errantia gratuito ad vitam
+colligit, et reparat ad salvationem in judicio suo,
+justitiam moderatur per lenitatem misericordiae.
+Propterea magnificamus Dominum, et in salutari
+exsultamus; quia cuilibet reverenda est justitia Domini,
+et exsultanter observanda misericordia Salvatoris.
+Ideoque, inquit Maria: Magnificat anima mea
+Dominum: Ex exsultavit spiritus meus in Deo salutari
+meo. Quare anima magnificat, et spiritus exsultat?
+Idem fortasse alio verbo repetitum est. Nam
+anima, et spiritus in homine idem est, quamvis
+aliud anima, et aliud spiritus notet. Nam spiritus ad
+<pb n="0418C"/>
+substantiam dicitur, anima ad vivificationem. Verumtamen
+quia occasio se obtulit, errorem quorumdam
+hic commemorare non abs re puto. Nam
+sunt, qui in unoquoque homine duas animas esse
+contendunt: unam rationalem et unam sensualem
+rationis expertem, quales sunt animae brutorum
+animalium. Hanc autem opinionem rationibus quibusdam,
+et auctoritatibus firmare conantur. Aiunt
+enim animam rationalem nonnisi in vulva formato
+corpori infundi, quemadmodum legitur in primo
+homine corpus prius formatum ac deinde spiraculum
+vitae inspiratum. Et Moyses in lege dicit: <hi>Quod
+si quis percusserit mulierem praegnantem et illa abortivum
+fecerit: si formatum fuerit abortivum, percussor
+<pb n="0418D"/>
+animam pro anima reddat; si autem formatum
+non fuerit, multetur pecunia <note>(Exod. XXI)</note>
+          </hi>. Quidam
+etiam sanctorum Patrum in suis tractatibus hoc
+asseruisse inveniuntur.</p>
+<p>Et propterea cum constet animam rationalem
+nonnisi formato corpori dari, et iterum materiam,
+sicut ipsum corpus, priusquam humanam formam
+accipiat moveri, et crescere, et ipso vitali motu, qui
+ipsi inest, ad hanc ipsam formam perduci, sine
+contradictione aliqua concedendum putant, quod
+antequam rationalem animam accipiat corpus humanum,
+animam habeat sensualem, qua vivat et
+vegetetur et incrementum formamque percipiat
+intantum ut si concepto semini, et formato rationalis
+anima non daretur, cum illa anima, quam a
+<pb n="0419A"/>
+prima conceptione habet irrationalem, in humana
+forma de homine animal brutum nasceretur, nihil a
+caeteris irrationabilibus distans, excepto quod de
+humano semine substantiam contraxisset. Nam cum
+brutorum animalium semini hoc naturaliter insit,
+ut a semetipso tempore adveniente vivificationem
+accipiat, indignum videtur hoc humano semini, quod
+in sua natura excellentius esse constat, denegare.
+Post haec omnia illud etiam in testimonium assertionis
+adducunt, quod in Scripturis catholicis frequenter
+invenimus, in una persona geminato vocabulo
+animam et spiritum nominari, et in precibus
+Ecclesiae quotidie sine aliqua erroris suspicione
+cum fidelium funeri obsequium reddimus, animam
+et spiritum defuncti Domino commendamus. Hac
+<pb n="0419B"/>
+ergo ratione probare volunt unumquemque duas
+animas habere, alteram qua vivit; alteram qua sapit,
+et utramque in futuro in electis beatificandam;
+alteram, id est rationalem per visionem Creatoris;
+alteram, id est sensualem per incorruptionem corporis.
+Similiter in reprobis utramque cruciandam;
+alteram per ignem, alteram per conscientiam malam.</p>
+<p>Sed fides catholica ejusmodi assertionem non recipit,
+sed unam eamdemque animam esse verissime
+testatur, quae in homine et corporis vitam praebet
+per sensum, et in semetipsa vivit per intellectum.
+Neque si humano corporis rationalis anima ante
+formationem non datur, licet moveatur, et crescat
+priusquam formam humanam accipiat, idcirco necesse
+<pb n="0419C"/>
+est ut hoc per animam aliquam fieri dicamus,
+cum manifeste videamus virgulta, et herbas sine
+anima moveri, et incrementum habere. Nisi forte
+ipsam vegetationem et motum naturalem, animam
+quis appellare velit. Sed haec vis licet secundum
+aliquid anima dici possit, sensualis tamen et quae
+animas aciat, nullo modo dicenda est. Ridiculum
+enim, et praeter rationem omnino est, ut humanum
+corpus sine anima rationali bestiam nasci dicamus,
+et non potius nec vivere, nec nasci si anima rationali
+vivificatum non fuerit. Nam illud quod dicunt
+indignum esse, ut semen humanum secundum naturalem
+conceptum caeterorum animalium seminibus
+ad vivificationem infirmius esse credatur, et minus
+<pb n="0419D"/>
+efficax quam nullius ponderis sit manifestum est,
+cum videamus fere omnia bruta animalia vigore
+sentiendi hominem praecedere; imo ex hoc ipso verisimilius
+probetur, semen nonnisi ex anima rationali
+vivificari, et sensum percipere; quia perfecto
+justum erat ut brutis animalibus, quibus nihil dandum
+erat in intellectu, aliquid amplius daretur in
+sensu, et econtrario, tanto major necessitas homini
+indiceretur exercendae rationis, quanto majorem in
+sensibus corporeis defectum pateretur. Sed et illud
+quod in sacra Scriptura aliquoties circa unam et
+eamdem personam designandam spiritum et animam
+vocabula invenimus: non propter diversas essentias
+significandas factum est, sed propter ejusdem essentiae
+diversam proprietatem. Nam unus, et idem spiritus
+<pb n="0420A"/>
+ad seipsum spiritus dicitur, et ad corpus anima.
+Unde et illi spiritus, qui primum conditi sunt,
+ut in sua puritate persisterent, neque miscerentur
+corporibus, spiritus dici possunt, animae non possunt;
+quia naturam spiritualem habent, animationem
+corporalem non habent. Brutorum autem animalium
+spiritus, quia essentialiter corpus sunt, et
+extra vivificationem corpoream esse non habent
+magis propriae animae dicuntur quam spiritus. Anima
+autem humana, quia et in corpore esse habet
+et extra corpus, proprie et anima vocatur, et spiritus.
+Sed anima dicitur in quantum est vita corporis;
+spiritus autem in quantum est ratione praedita
+substantia spiritualis. Propterea in hac vita
+anima perditur ut spiritus salvus fiat, cum haec vita
+<pb n="0420B"/>
+propter Deum despicitur ut postmodum a Deo aeterna
+vita tribuatur. Sed quia id, quod perdimus,
+quantum ad essentiam idem ipsum est, quod recipimus:
+propterea Dominus in Evangelio nequaquam
+nos animam perdere praecepit ut spiritum salvum
+reciperemus, sed eamdem ipsam animam hic perdendam
+esse dixit, ut in futuro salva reciperetur <note>(Matth. X)</note>,
+hoc profecto significans, quod quisquis
+propter Deum hanc vitam, quae nunc corporis vivificatione
+ex anima temporaliter mortalis constat,
+libenter despexerit, in futuro etiam eamdem corporis
+(non solum animae) vitam aeternam et immortalem
+recipiet. Unde et sancta Ecclesia, quae carnis
+resurrectionem fidelissime credit, non solum pro
+spiritibus, sed etiam pro animabus fidelium suorum
+<pb n="0420C"/>
+orat: hoc utique petens ut in visitatione justorum
+cum illa beatitudine, quae ex visione Dei mundis
+cordibus erit, hoc etiam ad gloriam vitae aeternae
+immortale et incorruptibile per resurrectionem carnis
+recipiant, quod nunc per mortem carnis corruptibile
+deponunt. Et haec quidem de differentia animae
+et spiritus, praeter rem, sed forte non praeter
+utilitatem dixerimus. Nunc ad ordinem narrationis
+nostrae, ut coepimus, recurramus.</p>
+<p>Quaerimus ergo quid sibi velit talis distinctio verborum;
+utrumne aliquid nobis innuat quod non
+spiritum, sed animam Dominum magnificare dicit;
+et spiritum, non animam, in salutari suo exsultare
+testatur. Et forte aliquis curiositati magis quam diligentiae
+<pb n="0420D"/>
+ascribendum putet ita singula quaeque perscrutari,
+et nec minima etiam sine propria consideratione
+praeterire. Novi ego multa ad hunc modum
+propter affectus commovendos in Scripturis vel per
+expressionem dicta, vel per inculcationem repetita.
+Quod etiam in hoc factum similiter si quis dicat,
+nihil inconvenientis est. Sic enim dictum est: Anima
+mea magnificat et spiritus exsultat, quasi diceretur:
+Ego ex anima mea et spiritu meo, id est, ex toto
+corde, et ex tota voluntate, Deum laudo et de ejus
+salvatione, quam generi humano praeparari nunc
+video, totis praecordiis exsulto. Nunc enim video de
+me assumi, quod credo pro me debere offerri. Sed
+tamen ut Salvatorem, meum confitear, qui, etsi
+adhuc hostiam carnis suae non obtulit, carnem tamen,
+<pb n="0421A"/>
+quam adveniente tempore in hostiam offerat,
+jam assumpsit. Ergo et nunc Salvator; et non solum
+nunc, sed ab aeterno Salvator, qui jam per carnem
+assumptam ad salvandum advenit, sed eam,
+quam suo tempore exhibebit, salvationem ab aeterno
+dare disposuit. Vel certe secundum verborum distinctionem,
+convenienter anima magnificare Deum dicitur,
+et spiritus in salutari suo exsultare perhibetur.
+Saepe namque in Scripturis per animam affectus
+quidam et teneritudo mentis designari solet; et
+idcirco dum se ex anima magnificare asserit, nequaquam
+timore servili, sed dilectionis affectu,
+Deum se venerari ostendit. Et rursum cum spiritum
+suum in salutari suo exsultare perhibet, manifeste
+declarat non esse salvationem hanc, de qua caro
+<pb n="0421B"/>
+gaudeat, sed aeternam potius, et in bonis invisibilibus
+praeparatam, de qua spiritus exsultat. Quia ergo
+beata illa anima casti timoris suavitatem conceperat,
+ideo non servili formidine, sed filiali dilectione
+Dominum se magnificare dicebat. In anima quippe,
+sicut dictum est, affectus et devotio amantis exprimitur,
+quia nihil aliud est ex anima laudare, quam
+ex affectu venerari, et revereri ex dilectione. Sed,
+quia rursum aeternae salvationis ex illo pietatis
+fonte certitudinem hauserat, ideo spiritu in suo salutari
+exsultabat.</p>
+<p>Nec tacite praetereundum est quod cum Dominum
+nominaret, nihil addidit. Cum vero Salvatorem diceret,
+non simpliciter Salvatorem, sed suum Salvatorem
+nominavit. Omnipotens enim Deus potestate,
+<pb n="0421C"/>
+qua universae creaturae suae dominatur, Dominus
+omnium est; sed pietate, qua quosdam tantum, et
+non omnes ad vitam reparat, Salvator non omnium
+est. Nam dominatio ejus ad omnes aequaliter respicit:
+bonitas vero quosdam tantum ad salvationem
+discernit. Et idcirco dominium ad nullum specialiter
+dicitur: de salvatione vero, quae ab ipso est,
+electi tantum (quasi de proprio dono) merito singulariter
+gloriantur. Hoc est quod in sacra Scriptura
+quorumdam specialiter Deum se appellari voluit:
+quia qui cunctis ut essent tribuit, bonis tantum ut
+beati essent semetipsum in praemium dedit. <hi>Ego
+sum,</hi> inquit, <hi>Deus Abraham, Deus Isaac, Deus Jacob <note>(Matth. XXII)</note>
+          </hi>,
+quia cum caeteri, ut sint tantum
+habeant a me, isti per gratiam electi, ut beati sint,
+<pb n="0421D"/>
+quod sunt, a quo esse habent; hoc est, memetipsum
+illis dedi; et propterea ipsorum Deus appellari volo:
+quia ipsorum sum quem acceperunt, vel receperunt
+per gratiam, quem non potuerunt per naturam,
+nec meruerunt per culpam. Nunc autem possident
+me, et ecce ego haereditas illorum, sum Deus
+illorum et Salvator, Deus Abraham, Deus Isaac,
+Deus Jacob. Merito igitur beata virgo, quae se singulariter
+electam videbat, quia singulariter gratiam
+acceperat, quasi privilegio quodam electionis divinae
+confirmata, fiducialiter ipsum, quem pro salute
+mundi filium conceperat, suum etiam cum laetitia
+et exsultatione Salvatorem vocat.</p>
+<p> <hi>Quia respexit humilitatem ancillae suae.</hi> Haec est
+<pb n="0422A"/>
+causa exsultationis, quia respexit humilitatem ancillae
+suae. Ac si dicat: Merito in ipso exsulto, quia
+ab ipso est quod exsulto; et quia ejus dona propter
+ipsum diligo, ideo in ipso exsulto. Distinguamus haec
+duo: Quidam neque a Deo exsultant, neque in Deo:
+nam qui in carnis voluptate exsultant, aut qui, secundum
+Salomonem, <hi>laetantur cum malefecerint, et
+exsultant in rebus pessimis <note>(Prov. II)</note>
+          </hi>: isti nec a Deo,
+nec in Deo exsultant. Nam, quia malum est, unde
+exsultant, patet profecto quod a Deo non est unde
+exsultant. Et quia rursum de malo ad malum exsultant,
+et suum gaudium in malignitate constituunt,
+ideo in Deo minime exsultant. Sunt alii qui acceptis
+donis gratiae abutuntur, et ea quae propter salutem
+animae data sunt ad carnis usum et gloriam
+<pb n="0422B"/>
+saeculi convertunt. Acceptis Dei donis laetantur, et
+gaudent se habere quod Deus contulit: non ut per
+hoc adjuventur ad ipsum pertingere, sed ut alios in
+gratiae perceptione monstrentur anteire. Isti etsi
+habere a Deo videantur unde gaudent, nequaquam
+tamen in Deo gaudent, quia nec in Deo, nec propter
+Deum diligunt quod a Deo perceperunt. Qui autem,
+gratia percepta, ad amorem Dei idipsum convertunt
+quod ab ipso accipiunt, isti profecto et a Deo et in
+Deo exsultare probantur. Quapropter sollicite nobis
+considerandum est, dum mentem nostram aliqua
+forte laetitia tangi sentimus, ne idipsum quod mentem
+per gaudium sublevat, aut a malo oriatur, aut
+a bono ortum ad malum per intentionem animum
+impellat. Maria ergo, ut suum gaudium solitum esse
+<pb n="0422C"/>
+demonstraret, illud neque a vanitate exortum, neque
+ad vanitatem conversum ostendit: sed Dei se
+dona in Deum diligere, et pro respectu gratiae, qua
+praeventa erat, in suo se salutari exsultare perhibuit,
+dicens: Exsultavit spiritus meus in Deo salutari
+meo; quia respexit humilitatem ancillae suae.
+Sane respectus Dei in sacra Scriptura tribus modis
+accipi solet: videlicet secundum cognitionem, secundum
+gratiam, secundum judicium. De respectu
+cognitionis divinae dicit Apostolus: <hi>Omnia nuda, et
+aperta sunt oculis ejus <note>(Hebr. IV)</note>
+          </hi>. Ergo per cognitionem
+Deus omnia respicit; sed per gratiam non omnes
+respicit. Nam de respectu gratiae dictum est: <hi>Oculi Domini super justos, et aures ejus in preces
+<pb n="0422D"/>
+eorum 
+ <note>(Psal. XXXIII)</note>
+          </hi>. Quem videlicet respectum illi
+non merentur, quibus in fine dicetur. <hi>Nescio vos <note>(Matth. XXV)</note>
+          </hi>.
+De respectu judicii dictum est: <hi>Oculi
+Domini contemplantur bonos et malos <note>(Prov. XV)</note>
+          </hi>. Et
+iterum: <hi>Oculi ejus super [respicit Dominus] omnem
+viam filiorum hominis, et omnes gressus eorum considerat.
+Non sunt tenebrae, et non est umbra mortis, ut
+ibi absconduntur, qui operantur iniquitatem <note>(Prov. V)</note>
+          </hi>.
+Ergo videre Dei per cognitionem, est nihil eorum quae
+sunt ignorare. Videre per gratiam, dona misericordiae
+impendere. Videre per judicium, unumquemque secundum
+opera sua, vel ad poenam, vel ad gloriam
+destinare. Sed quia de respectu gratiae in hoc loco
+agitur, diligentius adhuc qualiter per gratiam Deus
+hominem respiciat consideremus. Nam ipsum vocabulum
+<pb n="0423A"/> <hi>respectus</hi> 
+ quamdam expressionem notat, ut
+plus aliquid esse videatur respicere quam videre.
+Quasi enim respicere est prius abjectos et derelictos
+visitare. Nam quasi averti ab homine tunc Deus dicitur,
+cum per districtionem judicii gratiae suae
+dona subtrahit. Cum vero placatus per misericordiam
+subtracta restituit, rursum per respectum
+gratiae ad eum se convertit. Bene ergo Maria solam
+in se humilitatem Dominum respexisse testatur,
+quia divinitatis propitiationem, quam humana natura
+in primis parentibus per superbiam perdidit,
+in Maria per humilitatem recuperavit. Nam, quia in
+ea Verbum Patris carnis substantiam, quam sibi
+uniret, assumpsit, quasi ad eam, quam prius abjecerat,
+naturam sublimandam per misericordiam
+<pb n="0423B"/>
+respexit. Respexit ergo humilitatem Mariae Deus:
+cui propter humilitatis meritum dedit ut Filium
+suum in carne sua conciperet, et de sua carne verum
+Deum, et hominem omnium hominum (quantum
+in ipso est) Salvatorem generaret. Cujus humilitatis
+virtutem mox determinans subjungit ancillae
+suae. Nam, quia humiliter se, quod erat, ancillam
+cognovit, ideo quod non erat sublimiter mater
+esse meruit, sed quia in eo, quod se ancillam nominavit,
+virtutem humilitatis exprimi diximus, ut
+appareat qualiter hoc dictum humilitatem commendet,
+servitutis genera distinguere debemus. Servitus
+enim quatuor modis variatur, secundum conditionem,
+secundum necessitatem, secundum timorem,
+secundum dilectionem. Secundum conditionem omnia
+<pb n="0423C"/>
+divinae servituti debent esse obnoxia, quia opus
+factori suo, hoc ex conditione sui debet, ut ejus
+dispositionibus obtemperet, et instituta sequatur:
+ut sicut ab ipso factum est, ita non nisi sub ipso, et
+secundum ipsum incedat. Secundum necessitatem
+autem Deo servire dicuntur pravae voluntates, quae
+cum ejus jussionibus contraire nitantur, per ineffabilem
+tamen ejus dispositionem arctantur, ut nihil
+sine ipsius nutu ad effectum perducere queant. Serviunt
+nolentes ejus dispositioni, qui volentes subjecti
+non sunt ipsius praeceptioni. Sequitur tertia servitus,
+quae fit timore, quando divina praecepta non
+ex dilectione implemus, sed ex formidine. Quarta
+autem servitus est, quando voluntarie jussionibus
+illius obtemperamus; quia ipsum qui jubet diligimus,
+<pb n="0423D"/>
+nec aliud in nostra servitute extra ipsum commodum
+quaerimus, quam ut secundum eum ambulantes,
+ad ipsum pertingere valeamus. Hoc est enim
+propter ipsum facere quod ipse jubet, propter ipsum
+adipiscendum facere quod jubet. Sed ex his quatuor
+servitutibus illa mihi praecipue in hoc loco commendari
+videtur, quae est secundum conditionem. Hanc
+siquidem parentes nostri in paradiso Conditori
+exhibere noluerunt, quando in superbiam elati despexerunt
+esse sub illo a quo fuerant conditi, et
+voluerunt perverse cum illo esse in majestate consimiles,
+qui non erant in natura aequales. Convenienter
+ergo gratia culpae respondet. Eva per superbiam
+creaturam Dei se esse et opus Dei, non considerans,
+<pb n="0424A"/>
+ideo parificari voluit; Maria autem suo
+factori humiliter se subdens, ancillam se nominavit:
+et idcirco illa abjecta, et ista electa est. Superbam
+despexit, et humilem respexit: et quod superba
+perdidit, humilis recepit. Ideo ait: Respexit humilitatem
+ancillae suae. Respexit humilitatem, respexit
+humiliationem. Humilitatem respexit, humilem remunerans,
+humiliationem respexit, humiliatam exaltans.
+Duo sunt, humilitas et humiliatio: humilitas
+est intus in virtute mentis, humiliatio foris est in
+abjectione humanae opinionis. Sed servi Dei aliquando
+cum humilitate etiam humiliationem habent.
+Aliquando humilitatem habent, humiliationem
+non habent. Nunquam vero humiliationem sine humilitate
+habent. Humilitatem eum humiliatione habent,
+<pb n="0424B"/>
+qui et coram Deo humiles sunt, et coram hominibus
+despicabiles. Humilitatem sine humiliatione
+habent, qui licet coram hominibus foris despicabiles
+non appareant, intus tamen humilitatis
+meritum coram Deo inviolatum conservant. Illis
+mundus crucifixus est, et ipsi mundo, quia per humilitatem
+mundum contemnunt, et per humiliationem
+a mundo contemnuntur. Istis vero mundus
+quidem crucifixus non est; ipsi tamen mundo sunt
+crucifixi, quia gloriam humanam, quam foris non
+quaesitam accipiunt, intus per virtutem humilitatis
+oblatam contemnunt. Ergo Maria, quae apud Deum
+humilis erat, et apud homines propter Deum abjecta,
+in utroque se a Deo respectam esse testatur,
+quia et ejus humilitas apud Deum acceptabilis facta
+<pb n="0424C"/>
+est, et ejus humiliatio apud homines in gloriam
+commutata. Unde sequitur:</p>
+<p> <hi>Ecce enim ex hoc beatam me dicent omnes generationes.</hi> Usque ad illud namque apud homines opprobrium
+sterilitatis portaverat, quia integritatem
+virginitatis thoro maritali praeponebat. Sed unde in
+priori generatione carnali quasi maledictionis sententiam
+sustinuit, inde nunc ab omni generatione
+merita benedictione collaudatur: cui hoc inter omnes
+feminas soli concessum est, ut et fructum fecunditatis
+haberet, et integritatem virginitatis non
+amitteret. Respexit enim Deus humilitatem ejus, et
+abstulit humiliationem ejus, et ideo, inquit, ex hoc
+beatam me dicent omnes generationes. Omnes generationes,
+quae amissam beatitudinem per fructum
+<pb n="0424D"/>
+uteri mei recuperabunt, qua per fructum vetiti ligni
+privatae sunt; omnes beatam me dicent, ut parum
+jam sit in praeterita generatione sustinuisse sterilitatis
+opprobrium, quae ab omni generatione futura
+pro fructu fecunditatis meae beata vocabor. <hi>Ex hoc</hi> 
+inquit. Ac si diceret Elisabeth: Ex quo per os tuum
+sua magnalia, quae in me operatus est, aperuit, ex
+hoc eadem in omnes generationes manifestando
+magnificabit.</p>
+<p> <hi>Quia fecit mihi magna qui potens est: et sanctum
+nomen ejus.</hi> Magnum fuit, ut virgo sine virili semine
+filium conciperet. Magnum fuit, ut Dei Patris Verbum
+carne sua indutum utero gestaret. Magnum
+fuit, ut dum, se ancillam confessa est, mater fieret
+<pb n="0425A"/>
+sui plasmatoris. Sed haec omnia si magna sunt, impossibilia
+tamen non sunt ei, a quo facta sunt, quia
+potens est. Et ideo fecit mihi magna, qui potens
+est, et singulariter magna, quia singulariter potens.
+Propterea non ait, hoc vel hoc potest: sed potens,
+inquit, est, ut omnipotentem intelligas, qui absolute
+potens dicitur, quia omnia potest. Potentem
+ergo confessa est, nec amplius dixit: quia credi potest
+ejus potentia, quia est; sed quanta sit, aut qualis
+comprehendi non potest. Idcirco solum confessa
+est, potentiam discutere non praesumpsit, quia sciri
+non potest quanta est: de qua verissime scitur quia
+immensa est. Eant ergo nunc, et de suo sensu glorientur,
+qui opera divina ratione se putant discutere,
+ejus potentiam sub mensura coarctare. Cum
+<pb n="0425B"/>
+enim dicunt, Hucusque potest, et non amplius, quid
+hoc est aliud, quam ejus potentiam (quae infinita est)
+concludere, et restringere ad mensuram? Aiunt
+enim: Non potest Deus aliud facere, quam facit, nec
+melius facere, quam fecit. Si enim aliud potest facere,
+quam facit, potest facere quod non praevidit,
+et si potest facere quod non praevidit,
+potest sine providentia operari Deus, quia omne,
+quod praevidit se facturum, facit, nec facit aliquid
+quod non praevidit. Si ergo non potest providentia
+ejus aut mutari, ut aliud fiat quam praevisum est:
+aut cassari, ut hoc non fiat, quod praevisum est: necesse
+est totum fieri quod praevisum est, et nihil
+fieri, quod praevisum non est. Porro quidquid est
+praevisum, esse constat, et quidquid praevisum est,
+<pb n="0425C"/>
+fieri dubium non est. Quod si praeter providentiam
+fieri aliquid impossibile est (omne autem, quod praevisum
+est esse, fieri necesse est), aliud fieri quam
+fit nulla ratione potest. Amplius. Quidquid facit
+Deus si melius potest facere quam facit, in hoc ipso
+non benefacit, quod optime quidem non facit quod
+facit: melius enim faceret, si quod facit, melius faceret.
+Facere quippe et nolle melius facere, etiam
+bonum facientis malum est facere. Sed haec pia
+mens in Deum dici non sustinet. Et ob hoc proximum
+videtur, et consequens, quod melius facere
+non potest, quam facit, quia sic facit, ut non faciat
+male in eo, quod sic facit.</p>
+<p>Ejusmodi causis, atque rationibus quidam inducuntur,
+<pb n="0425D"/>
+ut dicant Deum suorum operum mensura, ac
+lege ita astrictum, atque alligatum, ut praeter quam
+facit, nec aliud quidquam facere possit nec melius.
+Ac per hoc plane infinitam illam atque immensam
+Divinitatis potentiam sub termino ac mensura alligare
+convincuntur, qui usque ad aliquid, quod vere
+finem ipsum habet, eam extendunt, et ultra negant
+procedere. Certum est enim quod omne quod factum
+est in numero, et pondere et mensura, legitimum
+terminum et finem suum habet: et idcirco si ad
+operis mensuram Creatoris potentia, modumque
+componitur, ipsa procul dubio, et fine et mensura
+terminari declaratur. Quapropter, ne vel his, quae
+videntur rationes, sine causa assensum negare videamur,
+vel hominum creduli sine consideratione
+<pb n="0426A"/>
+falsum pro vero recipere, oportet pro compendio
+praesenti breviter ad ea quae dicta sunt respondere.</p>
+<p>Primum considerandum est utrum Deus ulla ratione
+neque mutata, neque cassata sua providentia
+aliud facere possit quam facit. Constat enim quod
+omne quod fit ab aeterno praevisum est futurum esse:
+quia ab aeterno futurum est, quod ipsum tamen ab
+aeterno non est: et dicimus, quod possibile est non
+fieri, quod futurum est. Et si non fieret quod fiet et
+non fieri possibile est, nunquam futurum fuisset,
+nec praevisum. Quod, quia fiet, et futurum semper
+est, et praevisum est. Nulla ergo mutatio hic, aut
+cassatio providentiae apparet: quia sicut praevisum
+est, et fiet: sic, si praevisum non esset, non fieret.
+<pb n="0426B"/>
+Sed jam, inquiunt, praevisum est. Bene praevisum
+est, quia futurum est; et dicunt: Sed providentia nec
+mutari potest, nec cassari: eventus autem impediri
+potest, ut non fiat quod futurum est: si autem impediretur
+eventus rei (quod fieri potest), mutaretur
+vel cassaretur providentia, quod fieri omnino non
+potest. Sed nos ad haec respondemus, quia si mutaretur
+eventus (quod fieri potest), nec mutaretur, nec
+cassaretur providentia, quia hoc omnino fieri non
+potest: sed potius nunquam fuisset praevisum, quod
+nunquam fuerat futurum, et constaret providentia in
+eo, ut non fieret, sicut modo in eo consistit ut fieret,
+non mutata, ut post aliam alia esset, sed ut nunquam
+alia esset. Ergo Deus aliud potest facere quam
+fecit: sic tamen ut ipse aliud faciendo alius non sit;
+<pb n="0426C"/>
+sed sive idem, sive aliud faciat, ipse tamen semper
+idem sit.</p>
+<p>Nunc illud restat, ut discutiamus utrumne melius
+aliquid facere possit quam facit Deus. Hic illi nostri
+scrutatores, qui defecerunt scrutantes scrutationes
+novum aliquid, et vere novum, nec tam verum,
+quam novum afferre se dicunt. Et debent singulas
+quidem creaturas per se consideratas a perfecto minus
+habere: universitatem autem rerum omnium in
+tanta consummatione boni expressam, ut non possit
+esse melior quam est. Ubi mihi primum responderi
+expostulo cum dicunt universitatem rerum
+omnium non posse meliorem esse quam est: qualiter
+id accipiendum sit, quod dicunt meliorem eam
+<pb n="0426D"/>
+esse non posse: sive ideo non potest esse melior,
+quia summe bona est, ita ut nulla omnino boni perfectio
+ei desit: sive ideo non potest esse melior,
+quia majus bonum, quod ei deest, capere ipsa non
+potest. Sed si ita summe bona est, ut nulla ei bona
+perfectio desit, jam opus suo plane Creatori aequatur,
+et vel extra metam extenditur, quod infra est:
+vel intra immensitatem coarctatur, quod summum
+est: quod utrumque pari inconvenientia impossibile
+est. Si vero ideo non potest melior esse, quia bonum
+amplius, quod ei deest, capere ipsa non potest,
+jam hoc ipsum non posse defectionis est, non
+consummationis, et potest melior esse si fiat capax
+majoris boni, quia et hoc ipse, qui fecit, potest. Ergo
+in se non potest, in Deo potest, quia ipsa non
+<pb n="0427A"/>
+potest, sed Deus potest, et quantum ipse potest dici
+non potest: ergo ipse melior esse non potest, sed
+omne quod fecit melius esse potest, si tamen ipse
+voluerit, qui potest. Et ipse quod fecit melius esse
+potest, non tamen corrigens malefactum, sed benefactum
+promovens in melius, non ut ipse quantum
+ad se melius faciat, sed ut quod fecit (ipso identidem
+operante, et in eodem perseverante) melius fiat.
+Ergo summe potens est, qui potest omne, quod possibile
+est; nec ideo minus potest, quia impossibilia
+non potest, quia impossibilia posse non esset posse,
+sed non posse. Propterea inquit Maria: Quia fecit
+mihi magna qui potens est, et sanctum nomen ejus.
+Non ait per me, aut in me fecit magna, sed mihi, inquit,
+fecit. Quod enim in ea ad omnium salutem factum
+<pb n="0427B"/>
+est, hoc privilegio electionis ad ejus gloriam
+singulariter est ordinatum. Et ideo dicit, magna,
+nec addidit, qualia; quia cum omnia Dei opera humani
+sensus capacitatem exsuperent, praecipue sacramentum
+redemptionis, Verbi mysterium super omnia
+ineffabile esse constat. Nihil enim unquam magis
+mirum factum est, quam ut Deus homo fieret,
+et natura imcomprehensibilis corporis substantiam
+ita sibi uniret, ut nec minus in ea esset, quia in se
+erat immensa, nec minor in se existeret, quia in
+illa fuerat tota.</p>
+<p>Haec ergo sunt magna, et ineffabiliter magna, quae
+in Maria facta sunt ad omnium salutem, et Mariae
+facta sunt ad gloriam singularem. Propterea ait:
+Quia fecit mihi magna qui potens est, et sanctum
+<pb n="0427C"/>
+nomen ejus. Sanctum est in se, et in nobis sanctificatur
+nomen ejus, dum nos sanctificamur in nomine
+ejus. Quid est nomen ejus? fama ejus. Nomen
+ejus, cognitio ejus. Fides ejus, nomen ejus. Hoc nomen
+cum sanctis sanctum est, quia glorificatur a
+sanctis, et benedicitur; a perversis blasphematur. <hi>Et nomen Dei per vos blasphematur in gentibus 
+ <note>(Rom.
+II)</note>
+          </hi>. Ergo, quia magna fecit, sanctificatum est nomen
+ejus, quia, dum Verbum in carne mirabiliter nascitur,
+gloria Dei per Verbum in hominibus declaratur. <hi>Pater,</hi> 
+ inquit, <hi>manifestavi nomen tuum hominibus, et
+ego te clarificavi super terram <note>(Joan. XVII)</note>
+          </hi>. Et ideo
+fecit magna qui potens est, et sanctum nomen
+ejus.</p>
+<p>
+          <pb n="0427D"/> <hi>Et misericordia ejus in progenies et progenies timentibus
+eum.</hi> Mihi, inquit, fecit, non tamen soli
+singulariter, sed uni excellenter. Verumtamen misericordia
+ejus in progenies et progenies timentibus
+eum. Nemo a gratia excluditur, sed in omni gente,
+qui timet Deum et operatur justitiam, acceptus est
+illi. In progenies et progenies, hoc est in omnes progenies.
+In hac gratia nihil discernit hominem, nisi
+timor Dei. Graecus sit, Barbarus sit, Scytha sit;
+masculus sit, femina sit, liber sit, servus sit; timorem
+Dei habeat, et salvus erit. Misericordia ejus in
+progenies et progenies timentibus eum. Et hic rursum
+praeterire non debemus quae de timore dicenda
+sunt. Quatuor timores sacra Scriptura discernit:
+servilem, mundanum, initialem, fiilialem. Servilis timor
+<pb n="0428A"/>
+est pro evitanda poena abstinere a malo, retenta
+voluntate mala. Mundanus timor est pro evitanda
+poena abstinere a bono, retenta voluntate bona. Initialis
+timor est pro evitanda poena, cum perverso opere
+etiam pravas cogitationes resecare. Filialis timor
+est bono firmiter adhaerere, quia illud amittere
+nolis.</p>
+<p>Ex his quatuor timoribus duo mali sunt, id est,
+servilis et mundanus: duo vero boni, id est initialis,
+et filialis. Servilis timor poenam, quae ab hominibus
+infertur, metuit, et idcirco ei sufficit cessare
+a malo opere: quia ad oculum famulatur, et reatum
+conscientiae non metuit, hominibus placere videns.
+Mundanus vero timor hominibus placere non quaerens,
+tamen displicere metuens, et ipse fingit quod non est,
+<pb n="0428B"/>
+tam mendax in neganda veritate, quam fallax alter
+in falsitate tegenda, et uterque in veritate offendit.
+Alter, quia timide negat quod est: alter, quia perverse
+simulat quod non est. Initialis vero timor,
+quia eam, quam Deus comminatur, poenam declinare
+satagit, nequaquam sibi sufficere videt, ut ab illicita
+se operatione contineat; quia ei, qui cor intuetur,
+non est satis ad probationem, si innocens fuerit actio,
+nisi etiam ipsa cordis cogitatio ante ejus oculos
+sincera, atque impolluta appareat. Quia ergo illi
+displicere metuit, qui videt totum, ad perfectam innocentiam
+coram eo necesse esse consideret, ut
+mundet totum; et ideo iste timor initialis dicitur,
+quia sub hoc per bonam voluntatem et virtus initium
+capit, et vitium finem, necdum tamen perfectio est:
+<pb n="0428C"/>
+quia dum aliud agitur, et aliud intenditur, ipsum
+adhuc propter se bonum non amatur. Tum accedit
+charitas, et intrat per timorem istum, qui dum
+monstrat quod fugere debeamus periculum, quodammodo
+appetere et desiderare facit praesidium.
+Convertit ergo cor ad Deum, ut quodammodo de ipso
+fugiat ad ipsum: hoc est, dum cavens habere iratum,
+studet habere propitium. Hunc sequitur timor
+filialis, qui ex succedente charitate nascitur; ut ipsum
+timere nihil aliud sit, quam degustatum in charitate
+bonum jam nolle amittere. Et hic quidem
+timor aliquid poenae adjunctum habet, dum in incerto
+ambulamus, et potest in utramque adhuc partem declinare
+status vitae mutabilis. Sed eum mutabilitas
+<pb n="0428D"/>
+nulla erit, tunc nulla ex incerto suspicionis poena
+inerit: et tunc timor quodammodo sine timore erit,
+ubi et de stabilitate certi erimus: et tamen reverentiam
+Creatori exhibere non desistemus. Ergo misericordia
+ejus in progenies et progenies timentibus
+eum. Nec solum timentibus perfecta charitate, sed
+etiam timere incipientibus, et per inchoantem sapientiam
+se convertentibus, misericordia ejus in progenies
+et progenies timentibus eum. Et incipit deinde
+misericordiam istam, quae Deum timentibus praestatur,
+latius explicare, et ipsum redemptionis humanae
+ordinem modumque manifesta narratione contexere,
+dicens:</p>
+<p> <hi>Fecit potentiam in brachio suo; dispersit superbos
+mente cordis sui.</hi> Haec est illa misericordia, quam se
+<pb n="0429A"/>
+timentibus exhibuit Deus; quia Verbum suum per
+assumptam carnem in hunc mundum misit: ut per
+ipsum aerias potestates potenti virtute debellaret, et
+genus humanum ab earum potestate redimeret. Ipsi
+enim superbi sunt, quos dispersit, ejiciens eos foras
+a cordibus hominum, atque spolia eorum diripiens.
+Nam, qua prius in hominibus principabantur, virtutem
+dissipavit. Fecit, inquit, potentiam in brachio
+suo; quia per humilitatem Filii sui diabolum vicit.
+Ideo fecit potentiam in brachio suo. Brachium ejus,
+Filius ejus est. Potentia in brachio fecit; quia per id
+quod factum est in ipso redemptum est quod factum
+est ab ipso. Fecit potentiam, fecit infirmitatem, et
+ipsa infirmitas potentia fuit; quia per illam victus
+est diabolus, et homo de ejus potestate ereptus. Fecit
+<pb n="0429B"/>
+potentiam in brachio suo; dispersit superbos mente
+cordis sui. Quid est mente cordis sui? Mente cordis
+sui dispersit eos, profundo consilio suo dispersit
+eos. Profundum erat consilium ut pro homine Deus
+homo fieret, et pateretur innocens, ut redimeretur
+nocens: et in his omnibus profundum erat
+consilium, nec poterat illis diabolus praevidere. Sed
+captus est hamo Leviathan, et prudentia Dei percussit
+superbum. <hi>Mysterii,</hi> inquit Apostolus, <hi>aeternis temporibus
+taciti soli Deo cogniti <note>(Rom. XVI)</note>
+          </hi>, <hi>quod nemo
+principum hujus saeculi agnovit;</hi> quia, <hi>si cognovissent,
+nunquam Dominum gloriae crucifixissent <note>(I Cor. II)</note>
+          </hi>.
+Hoc est mente cordis sui, hoc in corde suo Deus volvebat,
+imo non volvebat, sed habebat, et diabolus
+nesciebat. Stulti principes Thaneos, sapientes consiliarii
+<pb n="0429C"/>
+Pharaonis dederunt consilium insipiens: <hi>Ubi
+sunt nunc sapientes tui? annuntient tibi, et indicent
+quid cogitaverit Dominus exercituum super Aegyptum.
+Stulti facti sunt principes Thaneos, emarcuerunt principes
+Mempheos: deceperunt Aegyptum, angulum populorum
+ejus. Dominus miscuit in medio ejus spiritum
+vertiginis <note>(Isa. XIX)</note>
+          </hi>. Et ibi: Dispersit superbos
+mente cordis sui; et fecit potentiam in brachio suo;
+quia per incarnationem Filii sui et potenter daemones
+devicit, et prudenter supplantavit. Fecit potentiam
+in brachio suo: et dispersit superbos mente
+cordis sui. Possumus etiam non inconvenienter superbos
+Judaeos intelligere, qui gloriabantur se esse
+de genere Abraham, et in sua justitia praesumebant,
+et propterea justitiae Dei non erant subjecti. Istos
+<pb n="0429D"/>
+ergo superbos facta potentia in brachio suo dispersit
+Deus mente cordis sui; quia per Filium suum
+in carne venientem ex operibus legis neminem
+justificari posse docuit, sed per fidem, quae ex Deo
+est. Judaeos autem, qui opera legis contra Dei justitiam
+defendere conati sunt, et humilem Christi
+adventum superbe contempserunt, a gratia sua, in
+qua stare videbantur, abjecit; et gentes peccata sua
+humiliter confidentes, Deique justitiam praeferentes
+assumpsit. Unde convenienter adjungitur:</p>
+<p> <hi>Deposuit potentes de sede, et exaltavit humiles.</hi> Potentes
+enim de sede deposuit; quia Judaeos, qui filii
+regni videbantur abjecit, et humiles, scilicet homines
+gentiles, exaltavit; quia gentes, quae abjectae erant
+<pb n="0430A"/>
+per humilem confessionem in consortium regni atque
+in filiorum adoptionem assumpsit. Vel secundum
+superiorem expositionem, potentes de sede deposuit;
+quia malignos spiritus a cordibus hominum
+ejecit, et humiles exaltavit, ipsos videlicet homines,
+quos prius propter superbiam abjecerat, humiliatos
+reparavit. Ergo fecit potentiam in brachio suo, dispersit
+superbos mente cordis sui; deposuit potentes
+de sede, et exaltavit humiles. Sed video adhuc
+aliquid esse, quod adjicere possimus his quae de superborum
+dispersione dicta sunt. Nam quod ait:
+Mente cordis sui, si secundum priorem sententiam
+exponamus, liquet quod alto et investigabili consilio
+Dei factum est, ut Judaei qui primum electi fuerunt
+postmodum reprobarentur, et gentiles qui prius
+<pb n="0430B"/>
+erant reprobi postea assumerentur. Hoc ita profundo
+et inscrutabili consilio factum est, ut omnia sub
+peccato concluderet Deus et omnium misereretur.
+Et ideo Apostolus in consideratione hujus profunditatis
+obstupescens exclamavit. <hi>O altitudo divitiarum
+sapientiae et scientiae Dei, quam incomprehensibilia
+sunt judicia ejus, et investigabiles viae ejus! <note>(Rom. XI.)</note>
+          </hi> 
+Hoc ergo considerare possumus in eo quod dictum
+est: Mente cordis sui.</p>
+<p>Et si aliam adhuc expositionem accommodare velimus,
+erit non contemnenda sententia. Mens etenim
+cordis Dei est vivax illa, et permanens dispositio internae
+occultaeque praedestinationis. Ipse est liber vitae,
+in quo scripta sunt nomina eorum qui salvi
+fiunt et scripti in vita in Hierusalem. Idem ergo
+<pb n="0430C"/>
+mens est quod liber, et quasi in libro permansurum
+scribitur, quod in mente per memoriam retentum
+non deletur. Quod itaque in hoc loco dictum est:
+Dispersit superbos mente cordis sui, hoc idem Psalmista
+aliis verbis expressit, dicens: <hi>Deleantur de libro
+viventium <note>(Psal. LXVIII)</note>
+          </hi>. Sed quia praescientia praedestinationis
+divinae non mutatur, et inde deleri vel
+dispergi non est ibi esse desinere, sed nunquam
+fuisse, recte adjunxit, dicens: <hi>Et cum justis non scribantur <note>(Ibid.)</note>
+          </hi>.
+Sciendum est quod tribus modis in
+libro vitae aliquis scribi perhibetur, secundum praescientiam,
+secundum causam et secundum operationem.
+Secundum praescientiam scripti sunt in libro
+vitae, qui praedestinati sunt ad vitam, qui non delentur
+<pb n="0430D"/>
+unquam, quia ex his, qui praevisi sunt ad salutem,
+nemo perire sinetur, licet ad tempus quasi periturus
+a via veritatis errare permittatur. Secundum
+causam scripti sunt in libro vitae, qui ad tempus in
+justitia ambulant: et tales aliquando sunt, qui digni
+salvatione existerent, si tales usque in finem permanerent.
+Isti autem delentur, cum justitiam coeptam
+deserunt et a via veritatis, per quam incedere coeperant,
+ad errores declinando, recedunt. Secundum
+operationem, aut potius secundum humanam existimationem,
+scripti dicuntur in libro vitae, quorum
+opera secundum humanum judicium talia apparent,
+propter quae digni videantur scribi in libro vitae: qui
+rursum eam ea, quae agere bona videbantur, deserunt,
+quasi a libro vitae deleri judicantur. Qui ergo
+<pb n="0431A"/>
+sic a libro vitae delentur, ut rursum in eo non mereantur
+ascribi, etsi ad tempus vel secundum causam
+justitiae, vel secundum judicium existimationis
+humanae scripti visi sunt, nunquam tamen secundum
+praescientiam fuerunt. Quia ergo creatura rationalis
+in angelis et hominibus ad titulum coelestis
+patriae et haereditatis supernae in libro vitae per
+conditionem ascripta fuerat, sed per elationem
+qua se in utraque suo Conditori perverse comparare
+voluit, abjecta est et honore suo privata:
+jam tunc quidem a mente cordis sui superbos dispersit,
+quando eos, qui circa se tumuerunt, ab interna
+stabilitate projiciens, foris per desideria terrena fluctuare
+permisit. Dispersit superbos mente cordis
+sui: Deposuit potentes de sede, et exaltavit humiles.
+<pb n="0431B"/>
+Prius angelum de coelo et hominem de paradiso superbientem
+projecit; et postea hominem per poenitentiam
+humiliatum ad pristinam gloriam reparavit.
+Sed et quotidie superbos quosque, subtrahendo gratiam
+suam, deponit, et humiliat, et postea eosdem
+humiliatos, gratiam priorem restaurans, exaltat. De
+quo etiam illud est quod sequitur:</p>
+<p>
+          <pb n="0432A"/> <hi>Esurientes implevit bonis, et divites dimisit inanes.</hi> Esurientes vocat eos, qui se vero bono indigere cognoscunt;
+divites intelligi vult eos, qui superbi sunt
+et elati, et se prae aliis in donis gratiarum abundare
+existimant. Ergo, sicut humiles, modica de se sentiendo,
+majorem gratiam merentur accipere, ita superbi
+et elati, de se praesumendo, etiam ea quae acceperunt
+amittunt.</p>
+<p> <hi>Suscepit Israel puerum suum.</hi> Suscepit sicut medicus
+aegrum, Israel puerum suum, populum videlicet
+suum: Israel puerum, id est humilem et innocentem
+suscepit, ut sanaret infirmum, ut redimeret captivum,
+ut justificaret impium, ut salvaret justum.
+Suscepit Israel, quem non invenit Israel, sed ut faceret
+Israel. Suscepit Israel puerum suum.</p>
+<p>
+          <pb n="0432B"/> <hi>Recordatus misericordiae suae.</hi> Quae olim promiserat,
+sed diu distulerat, tandem exhibebat.</p>
+<p> <hi>Sicut locutus est patribus nostris, Abraham et semini
+ejus in saecula.</hi> Misericors in promittendo, verax
+in exhibend, quia sine debito promisit, et sine dolo
+exhibuit. Sicut locutus est patribus nostris, Abraham
+et semini ejus in saecula.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

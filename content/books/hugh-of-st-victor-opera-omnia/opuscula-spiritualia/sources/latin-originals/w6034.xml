@@ -1,0 +1,306 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De artificio meditandi</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeArMe2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De artificio meditandi</head>
+<p>
+          <pb n="0993B"/>Meditatio est frequens cogitatio modum, et causam
+et rationem uniuscujusque rei investigans;
+modum quid sit, causam quare sit; rationem quomodo
+sit. Tria sunt genera meditationum, unum in
+creaturis, unum in scripturis, unum in moribus.
+Primum surgit ex admiratione, secundum ex lectione,
+tertium ex circumspectione. In primo admiratio
+quaestionem generat, quaestio investigationem, investigatio
+inventionem. Admiratio est dispositionis,
+quaestio causae, investigatio rationis. Dispositio est in
+coelo cuncta aequalia, in terra alta et depressa: pro
+hac admiratio. Causa, propter vitam terrenam terra,
+propter vitam coelestem coelum: pro hac quaestio.
+Ratio, qualis terra, talis vita terrena; quale coelum,
+talis vita coelestis: pro hac investigatio. In lectione
+<pb n="0993C"/>
+autem sic considerandum. Primo lectio ad cognoscendam
+veritatem materiam ministrat, meditatio
+coaptat, oratio sublevat, operatio componit, contemplatio
+in ipsa exsultat. In Scripturis meditatio
+est, quomodo scire oporteat. Exemplum scriptum
+est: <hi>Declina a malo, et fac bonum <note>(Psal. XXXVI)</note>
+          </hi>.
+Accedit meditatio lectioni, quare dixit prius, <hi>declina
+a malo,</hi> et postea <hi>fac bonum.</hi> Causa, quia nisi prius
+mala recedant, non adveniunt bona. Ratio, sicut
+prius mala germina eradicantur, postea plantantur
+bona. Item quare dixit: <hi>Declina a malo?</hi> Quia in
+itinere occurrunt. Item declina, quia ubi fortitudine
+resistere non possumus, consilio et ratione declinando
+evadimus. Item declinamus mala vitando
+materiam peccati, ut pro superbia, divitias, pro incontinentia
+<pb n="0993D"/>
+abundantiam, pro concupiscentia speciem
+carnis, pro invidia et contentione vitanda
+amorem possessionis. Hoc est declinare. Item, si
+quemadmodum omne malum declinandum praecipitur,
+sic omne bonum faciendum jubetur. Et sicut
+qui non omne malum declinat, sic qui non omne bonum
+facit, reus est. Sed si sic est quis non est reus?
+Ergo ab omni malo declinare jubemur. Bona autem
+quaedam sunt necessitatis, quaedam voluntatis. Necessitatis
+<pb n="0994B"/>
+sunt quae sunt in praecepto et voto; de
+caeteris si quid supererogatur redditur, si nihil non
+imputatur. Item meditatio in lectione est, quomodo
+sint quae sciuntur quia sunt, et quomodo facienda
+sunt. Est enim meditatio excogitatio consilii quomodo
+implentur quae sciuntur, quia inutiliter sciuntur
+nisi impleantur. Item, meditatio in lectione est
+triplicis considerationis. Secundum historiam, allegoriam,
+tropologiam. Secundum historiam est,
+quando eorum quae facta sunt rationem vel quaerimus,
+vel admiramur suis temporibus, et locis, et
+modo congruo perfectam. In hac consideratio judiciorum
+divinorum meditantem exercet, quae nullis
+temporibus recta defuerunt et justa, quibus factum
+est quod oportuit, et redditum quod justum fuit. Secundum
+<pb n="0994C"/>
+allegoriam meditatio operatur in dispositione
+praecedentium, futurorum significationem attendens
+mira ratione et providentia coaptatam sicut
+oportuit ad intelligentiam, et fidei formam fabricandam.
+In tropologia meditatio operatur quem fructum
+dicta afferant, exquirens quid faciendum insinuent,
+vel quid doceant esse vitandum; quid ad eruditionem,
+quid ad exhortationem, quid ad consolationem,
+quid ad terrorem scripturae lectio proponat,
+quid ad intelligentiam virtutis illuminet, quid nutriat
+affectionem, quid formam vivendi ad iter virtutis
+edoceat.</p>
+<p>Meditatio in moribus secundum affectus, et cogitationes,
+et opera. In affectibus considerandum est
+ut sint recti, sinceri, hoc est ad id ad quod debent
+<pb n="0994D"/>
+esse, et quomodo debent esse. Diligere enim quod
+non oportet malum est, et similiter quod diligere
+oportet, diligere quomodo non oportet, malum est.
+Itaque bonus affectus est, quando est ad id, ad quod
+debet et quomodo debet. Amnon sororem dilexit, et
+erat affectus ad quod debuit, sed quia male dilexit,
+non erat quomodo debuit <note>(II Reg. XIII)</note>. Igitur affectus
+esse potest ad id, ad quod debet et non quomodo
+debet. Nunquam autem esse potest quomodo
+<pb n="0995A"/>
+debet, nisi ad id ad quod debet. In eo ad quod debet
+rectus, et quomodo debet sincerus. In cogitationibus
+considerandum, ut sint mundae et ordinatae.
+Mundae sunt, quando neque de malis affectionibus
+generantur, neque malas generant affectiones. Ordinatae
+sunt, quando rationabiliter, hoc est tempore
+suo adveniunt. Tempore enim non suo etiam bona
+cogitare sine vitio non est, ut in lectione de oratione,
+et in oratione de lectione. In operibus considerandum
+est primum, ut bona intentione fiat. Bona intentio
+est, quae simplex est, et recta. Simplex sine
+malitia. Recta sine ignorantia. Quae enim sine malitia
+est, zelum habet. Sed quae ignorantia est secundum
+scientiam, zelum non habet. Itaque intentionem
+oportet esse et rectam per discretionem, et
+<pb n="0995B"/>
+simplicem per benignitatem. Secundo in operibus
+considerandum est, ut ex recta intentione inchoata
+cum perseveranti fervore ad finem perducantur, ut
+nec perseverantia torpeat, nec amor tepescat. Item
+meditatio in moribus duplici consideratione discurrit,
+intus et foris. Foris ad famam, intus ad conscientiam.
+Foris quid deceat, et quid expediat: deceat
+ad exemplum, expediat ad meritum: nobis ad
+meritum, proximis ad exemplum. Intus ad conscientiam,
+ut sit munda conscientia, nec accusationem
+patiatur, vel pro torpore boni, vel pro praesumptione
+mali. Munda autem conscientia est, quae nec de
+praeterito juste accusatur, nec de praesenti injuste
+delectatur.</p>
+<p>Item in moribus meditatio considerationem suam
+<pb n="0995C"/>
+exercet, ut omnes motus qui oriuntur in corde deprehendat,
+unde veniant et quo tendant. Unde veniant
+secundum originem, quo tendant secundum
+finem. Omnis enim motus de aliquo est, et ad aliquid.
+Motus igitur cordis aliquando manifestam habent
+originem, aliquando occultam, et quae manifesta est
+aliquando manifeste bona est, aliquando manifeste
+mala. Quae manifeste bona est a Deo est; quae autem
+manifeste mala, sive a diabolo est, sive a carne.
+Isti enim tres auctores sunt omnium suggestionum,
+et omnes aspirationes, quae invisibiliter cordi adveniunt,
+ab istis procedunt. Item quae occulta sunt,
+aliquando bona sunt et occulta, aliquando mala, et
+dubia. Et quae bona sunt, a Deo sunt; quae autem
+<pb n="0995D"/>
+mala sunt, vel a diabolo, vel a carne sunt. Quae igitur
+manifesta sunt, sive bona sive mala, a prima sua
+origine judicantur. Quae autem dubia sunt in origine,
+probantur a fine. Exitus enim manifestat quod a principio
+celabatur, et propterea qui motus suos a principio
+judicare non potest, finem investiget et consummationem.
+Quae enim dubia sunt vel incerta, bona
+sunt vel mala occulta. Et quae mala sunt, sicut dictum
+est, vel a diabolo, vel a carne sunt. Et sunt
+mala utraque, nec differunt in eo quod mala sunt, sed
+differunt, quoniam quae a carne sunt, frequentius surgunt
+propter necessitatem, quae vero a diabolo sunt, saepius
+oriuntur praeter rationem. Quod enim a diabolo
+suggeritur, sicut alienum est ab homine, ita frequenter
+alienum est ab humana ratione, ut, verbi gratia, nuper
+<pb n="0996A"/>
+satiatus famem patiatur, paulo ante inebriatus siti
+aestuet, post longam dormitionem consurgens somno
+pergravetur. In hoc ergo opera diaboli discernuntur,
+quoniam extranea sunt ab homine, et aliena ab humana
+ratione. Opera autem carnis, et suggestiones
+ejus saepius praecedentem habent causam necessitatem.
+Sed quia modum et mensuram transeunt,
+excrescunt in superfluitatem. Ut verbi gratia cum
+post famem cibus sumendus immoderate appetitur,
+et post abstinentiam in sumendo edulio mensura non
+tenetur. Item meditatio morum triplici judicio exercetur.
+Primo quod judicat inter diem et noctem.
+Secundo quod judicat inter diem et diem. Tertio
+quod judicat omnem diem. Inter noctem et diem
+judicare, est mala a bonis dividere. Inter diem et diem
+<pb n="0996B"/>
+judicare, est inter bonum et melius discretionem
+habere. Omnem diem judicare, est singula bona pro
+merito suo aestimare. Item meditatio morum finem
+et directionem in omni conversatione considerat.
+Finis est, ad quod tenditur. Directio, qua facilius
+pervenitur. Omnis enim, qui ad aliquid tendit, secundum
+aliquid cursum suum dirigit, et qui directius
+pergit, citius pervenit. Sunt enim quaedam
+bona, in quibus etiam multum moveri parum est
+promoveri. Alia compendioso labore fructum magnum
+adducunt. Et haec ergo discernenda sunt, et
+eligenda magis, quae magis prosunt. Quaecunque
+enim magis prosunt, meliora sunt, et omne opus
+secundum fructum suum judicari oportet. Multi
+hanc discretionem non habentes, plurimum laboraverunt,
+<pb n="0996C"/>
+et parum profecerunt, quoniam oculum habuerunt
+foris tantum ad speciem operis, et non intus
+ad fructum virtutis. Gavisi sunt enim magna se facere,
+magis quam utilia exercere, et dilexerunt potius
+illa, in quibus videri possent, quam emendari.
+Item meditatio in moribus primum considerat quae
+debita sunt, sive ex praecepto sive ex voto, et ea primum
+agenda judicat, quae sic facta habent meritum,
+ut non facta generent reatum. Haec ergo primum
+facienda sunt, quae sine culpa dimitti non possunt.
+Post haec si quid voluntaria exercitatione superadditur,
+sic faciendum est, ut debitum non impediatur.
+Alii volunt quod non debent, qui non valent id
+quod debent. Alii, et si valent quod debent, voluntaria
+impedimenta adducunt, volendo quod non debent.
+<pb n="0996D"/>
+Item meditatio morum duo mala in bona
+actione praecipue cavenda considerat, hoc est afflictionem
+et occupationem. Afflictio est ad amaritudinem.
+Occupatio ad dissipationem. Per afflictionem
+dulcedo mentis amaricatur. Per occupationem tranquillitas
+dissipatur. Afflictio est, quando pro his,
+quae non valet per impatientiam uritur. Occupatio
+est, quando in his (quae valet) agendis per impatientiam
+agitatur. Ne igitur male amaricetur animus,
+suam impossibilitatem patienter sustineat: ne autem
+male occupetur, possibilitatem suam extra mensuram
+suam non extendat. Item meditatio morum
+alia consideratione formam vivendi dijudicat probans
+nec bonum esse ea, quae non fiunt, impatienter appetere,
+<pb n="0997A"/>
+nec bonum esse ea, quae fiunt, insipienter fastidire.
+Qui enim semper quod non facit appetit, et quod
+facit fastidivit, nec praesentibus fruitur, nec futuris
+satiatur. Inchoata enim ante consummationem deserit,
+et inchoanda ante tempus apprehendit. Propterea
+bonum est bono suo esse contentum, et praesentia
+bona supervenientibus bonis augere, non pro
+futuris abjicere. Levitas enim est bonorum commutatio,
+<pb n="0998A"/>
+exercitatio autem virtutis, multumque diversa
+currunt via, qui pro novis vetera abjiciunt, et qui
+ab inferioribus ad superiora conscendunt. Qui enim
+mutationem quaerit, fastidiosus est sicut qui profectum
+appetit, studiosus est. Rectissime ergo incedit,
+qui sic est fervens ad melius, ut in bono non
+sit fastidiosus, sed sustineat prius, donec posterius
+tempore suo apprehendat.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

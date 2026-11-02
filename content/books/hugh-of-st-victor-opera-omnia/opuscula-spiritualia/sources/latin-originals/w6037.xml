@@ -1,0 +1,471 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De laude charitatis</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeLaCh</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>PROLOGUS.</head>
+
+<pb n="0969D"/>
+<p>Servo Christi Petro, H., <hi>gustare et videre quoniam
+suavis est Dominus! <note>(Psal. XXXIII.)</note>
+          </hi> </p>
+<p>
+          <pb n="0970D"/>Cogitanti mihi, frater charissime, quomodo dilectionem
+vestram ad memoriam mei excitare possem,
+primum occurrit, ut de ipsa vobis dilectione scriberem,
+<pb n="0971A"/>
+qui nihil aliud praeter ipsius dilectionis munus
+a vobis postularem. Quod ergo potui feci, charitatem
+quibus valui verbis commendavi, quatenus dum ejus
+laudem legitis, quam ardenter ego eam et in vobis
+diligo, et a vobis expeto, scire valeatis. Nec irasci
+ipsa vestra charitas mihi debet, si ejus igni jam
+fortiter ardenti exiguum verborum meorum flatum
+tepidus ipse admoveo, non tam ut illa magis ardeat,
+quam ut mei erga se desiderii conamen agnoscat.
+Legite ergo atque diligite, et quod propter dilectionem
+legitis, ad hoc legite ut diligatis: totum ex dilectione
+fit, dilectio mittit, dilectio suscipit, dilectio
+est quod tribuitur, dilectio quod recompensatur.
+</p>
+      </div1>
+
+<div1>
+        <head>DE LAUDE CHARITATIS.</head>
+<p>Tam multos jam laudatores charitas habuisse
+<pb n="0971B"/>
+cognoscitur, ut si quid ego in laudem ejus dicere
+coepero, praesumptio fortassis magis quam devotio
+videatur. Quis enim sanctorum a principio mundi
+exstitit, qui non charitatem nobis aut verbo, aut
+facto commendavit? Charitas Abel martyrem fecit, <note>(Gen. IV)</note>,
+charitas Abraham de terra sua eduxit <note>(Gen. XII)</note>,
+quia et ille per charitatem innocenter
+mortem pertulit, et iste per charitatem natale solum
+libenter deseruit, uterque per charitatem terra
+coelum commutavit. Charitas sola est quae ab initio
+servis Dei mundi hujus illecebras fugere, voluptates
+calcare, carnis concupiscentiam cohibere, desideria
+frangere, honores contemnere, postremo universa
+praesentis vitae blandimenta respuere, ipsam quoque
+pro desiderio vitae perpetuae mortem suadet non
+<pb n="0971C"/>
+timere. Hanc vim dilectionis Paulus senserat, cum
+dicebat: <hi>Quis nos separabit a charitate Christi? tribulatio,
+an angustia, an persecutio, an fames, an nuditas,
+an periculum, an gladius? Spero autem, quia
+neque mors, neque vita, neque angeli, neque principatus,
+neque virtutes, neque instantia, neque futura,
+neque fortitudo, neque altitudo, neque profundum,
+neque creatura alia poterit nos separare a charitate
+Dei, quae est in Christo Jesu Domino nostro <note>(Rom. VIII)</note>
+          </hi>.
+Hinc sponsus in Canticis canticorum sponsam de
+virtute dilectionis admonet, dicens: <hi>Pone me ut signaculum
+super cor tuum, pone me ut signaculum super
+brachium tuum, quia fortis est ut mors dilectio, dura
+sicut infernus aemulatio <note>(Cant. VIII)</note>
+          </hi>. Mors etenim
+viventes exstinguit, infernus autem nec mortuis
+<pb n="0971D"/>
+parcit. Dilectio autem ut mors fortis est, quia sicut
+illa sensum carnis, sic ista affectum concupiscentiae
+carnalis perimit. Dura est sicut infernus aemulatio,
+quia eos, quos intus trahit desiderium aeternorum,
+non solum foris blanda respuere, sed et adversa
+quaeque et aspera pro eo quod diligunt adipiscendo,
+cogit tolerare. Consideremus quot jam martyres per
+tormenta ad regnum coelorum transierunt. Qualem
+ergo in eis vim amoris arsisse credimus, quos propter
+Deum nec sibi pepercisse videmus! Consideremus
+quid dimiserint, quid secuti sint, qua transierint.
+Quid dimiserint videmus, quid secuti sint non
+videmus sed credimus, qua transierint audivimus.
+Bona ista temporalia dimiserunt, bona aeterna secuti
+<pb n="0972A"/>
+sunt, per tormenta transierunt? Conveniamus nunc
+cor nostrum, et videamus si acquiescat nobis omnia
+quae hujus mundi sunt, relinquere, non gloriam,
+non honorem, non divitias amare, non arridere,
+prosperis non condelectari blandis, non congratulari
+laetis. <hi>Domine, imperfectum meum viderunt oculi
+tui <note>(Psal. CXXXVIII)</note>
+          </hi>. Quam longe ab hac non dicam
+perfectione, sed perfectionis inchoatione me video!
+Et certe parum hoc erat amicis Dei, ut pro amore
+aeternorum ista spernerent, ista calcarent, sed abjectis
+his omnibus alacriter ad votum currentes, nec
+minis teneri poterant, nec tormentis. Trahebat eos
+charitas, et ideo nec retrahebat cupiditas, nec terrebat
+adversitas. Currebant ergo, mundum post se
+reliquerant, Deum ante se habebant. Sed interposita
+<pb n="0972B"/>
+sunt tormenta ut interrogarentur, vel quo desiderio
+hunc quaererent, vel qua constantia illum despexissent.
+Interrogata est veritas, probata charitas, confusa
+iniquitas. Accedunt illi ad poenas intrepidi, et
+quantum mentem amor intus vulneraverat, tantum
+caro foris vulnera sua despiciebat. Accedunt, et
+transeunt, atque morientes confessi sunt, quo viventes
+desiderio cucurrerunt. O charitas, quomodo
+illis sapiebas, quam dulcis eis fuisti, quos tanta
+propter te sustinere coegisti! Quibus illos ad te vinculis
+traxisti, quos mundo et per blandimenta retrahente,
+et per tormenta repellente, perdere tamen
+non potuisti. Cucurrerunt, quia tu eos traxisti;
+transierunt, quia tu eos juvisti; pervenerunt, quia
+tu eos suscepisti. Quam inexstinguibiliter in praecordiis
+<pb n="0972C"/>
+eorum arsisti, quia nec probris, nec praemiis,
+nec poenis obrui potuisti. Ista quasi quaedam flumina
+inundaverunt, sed multa flumina, et aquae multae
+charitatem exstinguere non potuerunt. O charitas
+quid dicam de te? quomodo laudabo te? Si saperem
+te, appreciarem te; si scirem quanti vales, pretium
+appenderem pro te. Sed forte excedis angustias
+meas, nec invenire tuum pretium potero penes me.
+Dabo tamen quod habeo, et totum quod habeo dabo,
+totam domus meae substantiam pro te commutabo.
+Totum quod est in habitaculo corporis mei, totum
+quod est in habitaculo cordis mei pro te dabo, cum
+totum dedero totum quasi nihilum reputabo. Omnes
+delectationes carnis meae, omnes jucunditates cordis
+mei pro te libenter impendam, ut te solam habere,
+<pb n="0972D"/>
+te solam possidere valeam. Tu sola mihi meis omnibus
+charior, tu sola mihi utilior, tu sola suavior,
+tu sola jucundior, amplius delectans, abundantius
+satians, tutius salvans, felicius conservans. Aliis
+etiam annuntiabo de te. Dic mihi, o cor humanum,
+utrum magis eligis, semper gaudere cum hoc saeculo,
+an esse semper cum Deo? Quod plus diligis, hoc
+potius eligis. Audi ergo, ut aut corrigas dilectionem,
+aut non differas electionem. Si mundus iste pulcher
+est, qualis putas est pulchritudo ubi Creator mundi
+est? Dilige ergo ut eligas, dilige melius ut eligas
+salubrius. Dilige Deum, ut eligas esse cum Deo, ergo
+per dilectionem eligis. Sed quo plus diligis, eo citius
+pervenire cupis, et festinas ut apprehendas, ergo
+<pb n="0973A"/>
+per dilectionem curris, et per dilectionem apprehendis.
+Item quo plus diligis, eo avidius amplexaris,
+ergo per dilectionem frueris. Vide quomodo totum
+tibi est dilectio, ipsa est electio, ipsa est cursus,
+ipsa est perventio, ipsa est mansio, ipsa est beatitudo.
+Dilige ergo Deum, elige Deum, curre, apprehende,
+posside, fruere. Jam, inquis, elegi, qua via
+curram ut perveniam? Per viam Dei curritur ad
+Deum. Non possum, inquis, viam inexpertam solus
+currere: da socios ne aberrem. Cum iis, qui in via
+Dei currunt, curre et tu viam Dei, meliores socios
+habere non potes in via quam illos, qui jam olim
+cucurrerunt in ea, et per longam currendi experientiam
+et usum laboris nec errare timent nec deficere.
+Quae est ergo, ais, via Dei, et qui sunt currentes
+<pb n="0973B"/>
+in ea? Rectae sunt viae Domini, et justi ambulabunt
+in eis. Justitia est ergo via, et justi sunt
+qui in via currunt. Et ne forte moveat te quod ambulantes
+nomino, et iterum currentes dico, velociter
+ambulare ipsum est currere. Sicut ille faciebat, qui
+dixit: <hi>Viam mandatorum tuorum cucurri <note>(Psal.
+CXVIII.)</note>
+          </hi>. Et alibi: <hi>Beati immaculati in via, qui ambulant
+in lege Domini <note>(ibid.)</note>
+          </hi>; ut idem intelligas ambulare
+et currere, ne beatiorem beatis se diceret, si
+illis ambulantibus ipse cucurrisset. Habes ergo
+viam, habes socios in via, habes haereditatem in
+patria, habes qua pergas, cum quibus pergas, ubi
+requiescas. Qua pergas, justitiam. Cum quibus pergas,
+amantes et sectantes justitiam. Quo pervenias,
+et in quo requiescas, et auctorem justitiae, et fontem
+<pb n="0973C"/>
+vitae. Nulla via justitia rectior, nulla societas justorum
+societate melior, nulla requies Deo tranquillior.
+Perge securus, perge festinus, ut velociter
+pervenias, feliciter requiescas: cito pergere est ardenter
+amare. Vide ergo quomodo totum bonum
+tuum ex charitate pendet. Per charitatem viam eligis,
+per charitatem viam curris, per charitatem ad
+patriam pervenis. Vis scire, quod non nisi per charitatem
+viam justitiae eligis? <hi>Si quis,</hi> inquit Dominus, <hi>diligit me, sermones meos servabit 
+ <note>(Joan. XIV)</note>
+          </hi>;
+de ipso autem sermone alibi dicitur: <hi>Sermo tuus
+veritas est <note>(Joan. XVII)</note>
+          </hi>; de qua iterum Psalmista: <hi>Viam,</hi> 
+ inquit, <hi>veritatis elegi, judicia tua non sum
+oblitus <note>(Psal. CXVIII)</note>
+          </hi>. Si ergo sermo Domini veritas
+<pb n="0973D"/>
+est, per illam utique charitatem via veritatis eligitur,
+per quam sermo Domini impletur. Ergo charitas
+eligit viam justitiae. Sed nunquid sine charitate via
+justitiae non eligitur, et sine charitate curritur?
+Audi idem ipsum Psalmistae (quod superius commemoravi)
+testimonium, quo dicit: <hi>Viam mandatorum
+tuorum cucurri cum dilatasti cor meum <note>(ibid.)</note>
+          </hi>.
+Quid est enim cor dilatatum, nisi cor amore fervens,
+cor a charitate impletum? Per charitatem igitur cor
+dilatatur, corde dilatato via justitiae curritur. Per
+charitatem itaque eligis, per charitatem curris, per
+charitatem apprehendis et frueris. <hi>Deus,</hi> inquit Joannes
+apostolus, <hi>charitas est, et qui manet in charitate,
+in Deo manet, et Deus in eo. Qui igitur charitatem
+habet, Deum habet, Deum possidet, in Deo manet</hi> 
+<pb n="0974A"/> <note>(I Joan. IV)</note>.
+O bona charitas, per quam Deum
+diligimus, Deum eligimus, ad Deum currimus, ad
+Deum pervenimus, Deum possidemus. Quid amplius
+dicam de te, charitas? ducem te dixi in via Dei. Et
+quid si teipsam viam Dei dixerim? utique sic charitas
+tu via es. Sed non sicut aliae viae tu via es: <hi>Adhuc,</hi> 
+ inquit Paulus apostolus, <hi>excellentiorem viam
+vobis</hi> demonstrabo <note>(I Cor. XII)</note>; de te enim dixit, o
+charitas: Tu es namque via superexcellens, via supereminens,
+vias distortas dirigens, vias rectas ostendens.
+Tu es caput viarum rectarum, omnes viae
+rectae a te exeunt et in te recurrunt. Nam praecepta
+Dei viae sunt ejus, quae omnia a te pendent et in te
+consistunt. Tu es plenitudo justitiae, perfectio legis,
+consummatio virtutis, agnitio veritatis. Via igitur
+<pb n="0974B"/>
+es, o charitas. Qualis via? superexcellens, suscipiens,
+dirigens et perducens. Cujus via? via hominis
+ad Deum, et via Dei ad homines. O beata via,
+quae sola commercium nostrae salutis agnoscis! Tu
+Deum ad hominem deducis, tu hominem ad Deum
+dirigis. Ille descendit quando ad nos venit; nos ascendimus,
+quando ad illum imus. Nec ille tamen
+nec nos nisi per te ad alterutrum transire possumus.
+Tu mediatrix es, adversos concilians, disjunctos
+socians, et tantum dispares, quodammodo coaequans.
+Deum humilians, nos sublimans, illum ad
+ima trahens, nos ad summa erigens. Sic tamen ut
+nec abjecta, sed pia sit ejus descensio, nec superba,
+sed gloriosa sit nostri exaltatio; magnam ergo vim
+habes, charitas, tu sola Deum trahere potuisti de
+<pb n="0974C"/>
+coelo ad terras. O quam forte est vinculum tuum,
+quo et Deus ligari potuit, et homo ligatus vincula
+iniquitatis disrupit! Nescio si quid majus in laudem
+tui dicere possim, quam ut Deum de coelo traheres,
+et hominem de terra ad coelum elevares. Magna
+virtus tua, ut per te usque ad hoc humiliaretur Deus,
+et usque ad hoc exaltaretur homo. Considero Deum
+ex femina natum, infantem, pannis obsitum, vagientem
+in cunis, sugentem ubera. Respicio postea
+comprehensum, ligatum, flagellis caesum, spinis coronatum,
+sputis illitum, lanceatum, clavis fixum,
+felle et aceto potatum, illic indigna, hic dira passum,
+et tamen cur vel illa dignaretur, vel ista pateretur,
+si causam quaerimus, aliam praeter solam charitatem
+<pb n="0974D"/>
+non invenimus. O charitas! quantum potes? si
+tantum invaluisti erga Deum, quanto magis erga
+homines! Si Deus propter hominem tanta pertulit,
+quid homo propter Deum tolerare recusabit? Sed
+fortassis facilius vincis Deum quam hominem, magis
+praevalere potes Deo quam homini, quia quo magis
+beatum, eo magis Deo est debitum a te superari.
+Hoc optime tu noveras, quae ut facilius vinceres,
+prius illum superabas; adhuc nos rebelles habuisti,
+quando illum tibi obedientem de sede paternae majestatis
+usque ad infirma nostrae mortalitatis suscipienda
+descendere coegisti. Adduxisti illum vinculis
+tuis alligatum, adduxisti illum sagittis tuis vulneratum.
+Amplius ut puderet hominem tibi resistere, cum
+te videret etiam in Deum triumphasse. Vulnerasti
+<pb n="0975A"/>
+impassibilem, ligasti insuperabilem, traxisti incommutabilem,
+aeternum fecisti mortalem. Haec omnia
+fecisti, ut dura corda nostra emollires, et insensibiles
+affectus compungeres, et ut se a torpore suo
+resolverent, et facilius ea sagittae tuae penetrarent.
+Nec incassum hoc fecisti, multis, enim sic a te superati
+sunt, multi jam tibi manus dederunt. Multi
+jam in suis praecordiis sagittas tuas infixas portant,
+et altius adhuc eas infigi desiderant. Delectabiliter
+enim et suaviter vulnerati sunt, et plagas tuas se
+percepisse nec dolent, nec erubescunt. O charitas!
+quanta est victoria tua! unum prius vulnerasti, et
+per illum omnes postmodum superasti. O charitas!
+laudavi te quantum potui, et multum cogito mecum
+si quid adhuc sit, quod in laudem tui excellentius possit
+<pb n="0975B"/>
+dici. Nescio enim an forte majus sit te Deum dicere
+an Deum te superasse. Quod si majus est,
+etiam hoc libenter et fiducialiter de te dicam: <hi>Deus
+charitas est, et qui manet in charitate in Deo manet,
+et Deus in eo <note>(I Joan. IV)</note>
+          </hi>. Audi, homo, et ne
+amplius parum reputes si charitatem habes, audi
+quod Deus charitas est. Nunquid parum est Deum in
+se manentem habere? tantum est charitatem possidere,
+Deus enim charitas est. Hoc privilegium sola
+charitas habet ut Deus dicatur et sit, ita ut nulli
+alteri hoc convenire possit. Non enim dicitur: Deus
+humilitas est, aut: Deus patientia est, sicut dicitur:
+Deus charitas est, quia cum omnis virtus Dei donum
+sit, nulla praeter solam charitatem hoc habet, ut non
+solum donum Dei, sed etiam Deus dici possit. Charitas
+<pb n="0975C"/>
+autem ideo donum Dei est, quia Spiritus sanctus
+a Deo datur fidelibus, ideo autem Deus est,
+quia idem Spiritus illi, a quo datur consubstantialis
+est in eadem Deitate, et coaeternus. Reliqua igitur
+gratiarum dona largitur Deus etiam iis, quos reprobat,
+solam autem charitatem quasi seipsum iis tantum,
+quos diligit in praemium servat. Charitas igitur
+est fons proprius, de quo non communicat alienus,
+quia, sicut dictum est, reliqua dona gratiarum ii
+etiam, qui per vitam reprobam a Deo alieni sunt,
+nonnunquam percipiunt. Charitatem autem malus
+habere non potest, sed quicunque illam habet, non
+jam alienus est a Deo, sed ipse in Deo, et Deus in
+eo manet. Sic familiaris est Deo charitas, ut ipse
+mansionem habere nolit, ubi charitas non fuerit.
+<pb n="0975D"/> <hi>Si quis,</hi> 
+ inquit, <hi>diligit me, sermonem meum servabit,
+et Pater meus diliget eum et ad eum veniemus, et
+mansionem apud eum faciemus <note>(Joan. XIV)</note>
+          </hi>. Si ergo
+charitas tecum est, venit Deus ad te, et manet apud
+te; si tu recedis a charitate, recedit et ipse a
+te, et non permanet apud te. Si charitatem nunquam
+habuisti, nunquam venit Deus ad te, nec
+mansit apud te. Si charitatem coeptam deseruisti,
+recessit Deus a te. Si in charitate coepta permansisti,
+Deus tecum est. et permanet apud te.
+<pb n="0976A"/>
+Charitas omnem animae languorem sanat, charitas
+vitiorum omnium radices exstirpat, charitas omnium
+virtutum origo est. Charitas mentem illuminat,
+conscientiam mundat, animam laetificat, Deum demonstrat.
+Animam, in qua charitas habitat, superbia
+non inflat, invidia non devastat, ira non dissipat,
+tristitia mala non vexat, avaritia non excaecat,
+gula non inflammat, luxuria non inquinat; semper
+munda est, semper casta est, semper quieta, semper
+laeta, semper pacifica, semper benigna, semper modesta,
+in adversis secura, in prosperis temperata,
+mundum contemnens, Deum diligens, omnium bona
+amando sua faciens, sua omnibus libenter impertiens,
+non timens inopiam, non magnopere expetens
+abundantiam. In quo charitas Dei est, semper cogitat
+<pb n="0976B"/>
+quando ad Deum perveniat, quando mundum
+relinquat, quando scandala evadat, quando veram
+pacem inveniat. Semper cor sursum habet, et desiderium
+in superna elevatum. Si quando ambulat, si
+quando sedet, si quando agit, si quando quiescit,
+quidquid egerit, cor a Deo non recedit. Tacens Deum
+cogitat, loquens nil praeter Deum, et quod ad Dei
+amorem pertinet, loqui desiderat. Alios ad charitatem
+exhortando, seipsum inflammat, charitatem
+omnibus commendat: quam dulcis amor Dei, quam
+amarus et quam impurus sit amor hujus saeculi non
+solum voce, sed opere quoque omnibus demonstrat.
+Deridet hujus mundi gloriam, sollicitudinem arguit,
+et quam stultum sit in iis quae transeunt fiduciam
+habere, ostendit. Miratur caecitatem hominum, qui
+<pb n="0976C"/>
+haec diligunt, miratur quomodo jam dudum universa
+haec transitoria et caduca omnes non contemnunt.
+Omnibus existimat dulce esse quod sibi sapit, omnibus
+placere quod diligit, omnibus manifestum
+quod cognoscit. Istis indiciis charitas se prodit, et
+eos, in quibus habitat, non solum intrinsecus voluntate,
+sed et foris conversatione discernit. Hoc
+jam tantum de charitate dictum est, et tamen adhuc
+de charitate dici potest, et tantum dicendum est,
+quantum dici non potest. Quid igitur, o bona charitas,
+o chara charitas, quid dignum dicam laudibus
+tuis? Certe post tanta priorum praeconia nihil
+de te dicere mea parvitas praesumeret, si unquam de
+te dici satis potuisset. Illabere igitur nobis, o dulcis
+et suavis charitas, dilata cor nostrum, expande desiderium,
+<pb n="0976D"/>
+distende mentis nostrae sinum, amplifica
+cordis nostri habitaculum, ut capere possit hospitem
+et mansorem Deum. Infundat et diffundat te in
+cordibus nostris per Spiritum sanctum suum Redemptor
+noster unicus et Salvator Jesus Christus
+Filius Dei, ut ipse cum Patre ad nos venire dignetur,
+et mansionem in nobis facere. Qui cum eodem Patre,
+et Spiritu sancto vivit et regnat Deus, per omnia
+saecula saeculorum. Amen.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

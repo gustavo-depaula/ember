@@ -1,0 +1,603 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De V septenis</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 175</title>
+           <idno>HuDeSVi.DeVSe</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>CAP. I.-- <hi>Quaenam sint quinque septena in sacra Scriptura contenta.</hi> </head>
+
+<pb n="0405B"/>
+<p>Quinque septena in sacra Scriptura, frater, inveni,
+quae volo, si possum, sicut postulas, prius sigillatim
+enumerando, ab invicem distinguere; postea
+vero quam inter se habeant convenientiam, eadem per
+singula sibi conferendo demonstrare. Primo loco
+ponuntur septem vitia, id est primum superbia, secundum
+invidia, tertium ira, quartum tristitia, quintum
+avaritia, sextum gula, septimum luxuria.</p>
+<p>Contra haec secundo loco constituuntur septem
+petitiones, quae in Dominica oratione continentur:
+Prima, qua dicitur Deo: <hi>Sanctificetur nomen tuum;</hi> 
+secunda, qua dicitur: <hi>Adveniat regnum tuum;</hi> tertia,
+qua dicitur: <hi>Fiat voluntas tua, sicut in coelo et
+<pb n="0405C"/>
+in terra;</hi> quarta, qua dicitur: <hi>Panem nostrum quotidianum
+da nobis hodie,</hi> quinta, qua dicitur: <hi>Et dimitte
+nobis debita nostra, sicut et nos dimittimus debitoribus
+nostris;</hi> sexta, qua dicitur: <hi>Et ne nos inducas
+in tentationem;</hi> septima, qua dicitur: <hi>Sed libera
+nos a malo.</hi> </p>
+<p>Postea tertio loco sequuntur septem dona Spiritus
+sancti. Primum, <hi>spiritus timoris Domini;</hi> secundum, <hi>spiritus pietatis;</hi> 
+ tertium, <hi>spiritus scientiae;</hi> quartum, <hi>spiritus fortitudinis;</hi> 
+ quintum, <hi>spiritus consilii;</hi> sextum, <hi>spiritus intellectus;</hi> 
+ septimum, <hi>spiritus sapientiae.</hi> 
+Denique quarto loco succedunt septem virtutes.
+Prima, paupertas spiritus, id est humilitas; secunda,
+mansuetudo sive benignitas; tertia, compunctio sive
+dolor; quarta, esuries justitiae sive desiderium bonum,
+<pb n="0405D"/>
+quinta, misericordia; sexta, cordis munditia;
+septima, pax. Novissime quinto loco disponuntur,
+septem beatitudines. Prima, regnum coelorum; secunda,
+possessio terrae viventium; tertia, consolatio;
+quarta, justitiae satietas; quinta, misericordia;
+sexta, visio Dei; septima, filiatio Dei. Haec ita primo
+loco distingue, ut intelligas ipsa vitia quasi quosdam
+animae languores, sive vulnera interioris hominis;
+ipsum vero hominem, quasi aegrotum; medicum,
+Deum; dona sancti Spiritus, antidotum;
+virtutes, sanitatem; beatitudines, felicitatis gaudium.</p>
+
+
+<div2>
+          <head>CAP. II.-- <hi>Quantam perniciem homini inferant septem vitia mortalia.</hi> </head>
+<p>Sunt ergo septem vitia capitalia, sive principalia,
+et ex his universa mala oriuntur. Hi sunt fontes et
+abyssi tenebrosae, de quibus flumina Babylonis exeunt,
+<pb n="0406B"/>
+et in omnem terram deducta, stillicidia iniquitatis
+diffundunt. De quibus fluminibus Psalmista
+in persona populi fidelis cecinit, dicens: <hi>Super flumina
+Babylonis illic sedimus et flevimus, dum recordaremur
+tui Sion. In salicibus in medio ejus suspendimus
+organa nostra <note>(Psal. CXXXVI)</note>
+            </hi>. De his septem
+vitiis vastatoribus, et universam naturae integritatem
+corrumpentibus, simulque malorum omnium germina
+producentibus, quantum ad praesens negotium
+explicandum sufficere putamus, loquemur. Septem
+ergo sunt, et ex his tria hominem exspoliant; quartum,
+exspoliatum flagellat; quintum, flagellatum
+ejicit; sextum, ejectum seducit; septimum, eductum
+servituti subjicit. Superbia enim aufert homini
+Deum; invidia aufert ei proximum; ira aufert
+<pb n="0406C"/>
+ei seipsum; tristitia spoliatum flagellat; avaritia flagellatum
+ejicit; gula ejectum seducit; luxuria seductum
+servituti subjicit. Tunc revertentes, singula
+per ordinem explanemus. Diximus, quod superbia
+aufert homini Deum: superbia namque est amor
+propriae excellentiae, quando mens bonum, quod habet,
+singulariter diligit, id est sine eo, a quo bonum
+accipit. O pestifera superbia quid agis? cur suades
+rivulo ut se a fonte dividat? cur suades radio ut se a
+sole avertat? cur, nisi ut et ille dum infundi desinit,
+arescat, et iste dum ab illuminante avertitur, tenebrosus
+fiat; uterque vero, dum accipere cessat, id
+quod necdum habet, continuo illud etiam quod habet
+amittat. Hoc profecto tu agis, cum doces dona extra
+datorem diligere, ut qui partem boni, quod ab illo
+<pb n="0406D"/>
+datum est perverso sibi vindicat totum bonum,
+quod in illo est, amittat: sicque fiat ut nec id quod
+habet: utiliter habere possit, dum illud in eo a quo
+habet non diligit. Sicut enim omne bonum veraciter
+a Deo est, ita nullum bonum extra Deum utiliter
+haberi potest. Imo vero per hoc id ipsum, quod habetur,
+amittitur; quod in eo, et cum eo, a quo habetur,
+non amatur. Nam si quisquam non novit,
+nisi hoc, quod habet, bonum in semetipso diligere
+necesse est, ut dum in altero bonum, quod non habet,
+aspexerit, tanto amarius sua eum imperfectio
+torqueat, quantum eum, in quo omne bonum consistit,
+non amat. Et idcirco superbiam semper invidia
+sequitur; quia qui illic amorem non figit, ubi omne
+bonum est quanto de suo perversius extollitur, tanto
+gravius de bono alieno torquetur. Sua igitur elationi
+justissime poena deputata est; ipsa, quam de
+<pb n="0407A"/>
+se gignit, invidia quae quia commune omnium bonum
+diligere noluit, recte nunc boni alieni livore
+tabescit. Quam profecto alienae felicitatis successus
+non ureret, si illum, in quo omne bonum est, per
+amorem possideret. Nec enim alienum a se judicaret
+bonum alterius, si suum ibi diligeret, ubi et
+suum, et alterius bonum simul possideret. Nunc
+ergo quantum se per elationem contra Creatorem
+extollit, tantum per livorem sub proximo cadit; et
+quantum ibi fallaciter erigitur, tantum hic veraciter
+praecipitatur. Sed neque hic sistere potest semel coepta
+corruptio: mox enim ut de superbia, invidia
+nata fuerit, iram ipsa de se parit; quia miser animus
+propterea jam sibi ipsi de sua imperfectione irascitur,
+quia de bono alterius per charitatem non
+<pb n="0407B"/>
+laetatur. Atque ideo id etiam, quod habet, ipsi displicere
+incipit, quoniam in alio id, quod habere non
+potest, agnoscit. Qui ergo per charitatem in Deo totum
+habere potuit, id etiam, quod per elationem
+extra Deum habere conabatur, per invidiam et iram
+amitiit: quia, postquam per superbiam Deum amittit,
+per invidiam perdit proximum, et per iram semetipsum.
+Quia igitur omnibus amissis nihil superest
+unde gaudeat infelix conscientia, per tristitiam
+in semetipsa colliditur, et quae de alieno bono pie
+laetari noluit, de suo malo juste cruciatur. Post superbiam
+ergo, et invidiam, et iram, quae hominem
+spoliant, continuo tristitia sequitur, quae nudatum
+flagellat. Cui deinde succedit avaritia, quae flagellatum
+<pb n="0407C"/>
+ejicit; quia, interno gaudio amisso, foris consolationem
+quaerere compellitur. Postea accedit gula,
+quae ejectum seducit, quia animam exterioribus inhiantem
+hoc vitium imprimis quasi e vicino tentans
+per ipsum naturalem appetitum ad excessum illicit.
+Postremo supervenit luxuria, quae seductum violenter
+servituti subjicit; quia, postquam caro per crapulam
+inflammata est, ardorem libidinis supervenientem
+emollitus, atque enerviter resolutus animus
+vincere non potest. Servit igitur saevissime dominationi
+mens turpiter subacta; et, nisi exorata subvemat
+Salvatoris pietas, non erit jam unde captivae servienti
+amissa restituatur libertas.</p>
+</div2>
+
+<div2>
+          <head>CAP. III.-- <hi>Quibus sancti Spiritus donis tres primae Dominicae orationis petitiones respondeant: et quibus vitiis medeantur.</hi> </head>
+<p>
+            <pb n="0407D"/>Sequuntur itaque septem petitiones contra septem
+vitia: quibus ille oratur, ut subveniat, qui nos orare
+docuit <note>(Luc. XI)</note>, et quod orantibus spiritum bonum
+ad sananda vulnera nostra et ad solvendum jugum
+captivitatis nostrae daturus esset, repromisit. Sed
+nos, antequam ad explanationem harum veniamus,
+prius volumus alia adhuc similitudine demonstrare
+quantam in nobis corruptionem supradicta
+vitia generent; ut quanto periculosior languor ostenditur,
+tanto magis necessaria medicina comprobetur.
+Per superbiam igitur cor inflatur, per invidiam arescit,
+per iram crepat, per tristitiam conteritur, et
+quasi in pulverem redigitur, per avaritiam dispergitur,
+per gulam inficitur et quasi humectatur, per
+<pb n="0408A"/>
+luxuriam conculcatur et in lutum redigitur: ita ut
+jam miser dicere possit: <hi>Infixus sum in limo profundi,
+et non est substantia. Veni in altitudinem maris
+et tempestas demersit me <note>(Psal. VI)</note>
+            </hi>. Cumque huic
+limo profundi animus fuerit infixus, et luto coinquinationis
+et immunditiae obvolutus, evelli nequaquam
+potest, nisi ad illum clamet et ejus auxilium
+postulet? De quo Psalmista loquitur, dicens: <hi>Exspectans
+exspectavi Dominum, et intendit mihi.
+Et exaudivit preces meas, et eduxit me de lacu
+miseriae, et de luto faecis <note>(Psal. XXXXI)</note>
+            </hi>. Propterea
+ergo ipse nos orare docuit, ut totum bonum
+nostrum ab ipso sit, ut et quod petimus, et quod
+petentes accipimus, ejus donum, non nostrum
+meritum esse intelligamus. Prima ergo petitio
+<pb n="0408B"/>
+contra superbiam est, qua Deo dicimus: <hi>Sanctificetur
+nomen tuum.</hi> Hoc enim petimus ut det nobis
+timere et venerari nomen suum, quatenus ei per
+humilitatem subjecti simus, qui per superbiam rebelles
+et contumaces exstitimus. Huic petitioni datur
+donum spiritus timoris Domini, ut ille ad cor veniens
+virtutem in eo creet humilitatis quae superbiae
+morbum sanet: quatenus ad regnum coelorum, quod
+angelus superbus per electionem perdidit, homo humilis
+pervenire possit. Secunda petitio est contra
+invidiam, qua dicitur: <hi>Adveniat regnum tuum.</hi> Regnum
+siquidem Dei est salus hominum; quia tunc
+Deus in hominibus regnare dicitur, quando ipsi homines
+Deo subjiciuntur, et modo ei adhaerendo per
+<pb n="0408C"/>
+fidem et post inhaerendo per speciem. Qui ergo petit,
+ut regnum Dei adveniat ille profecto salutem
+quaerit hominum; ac per hoc dum pro communi
+omnium salute postulat, livoris vitium se reprobare
+demonstrat. Huic petitioni datur spiritus pietatis, ut
+ipse ad cor veniens, ad benignitatem illud accendat:
+quatenus ad eamdem homo aeternae haereditatis possessionem,
+ad quam alios pervenire cupit, ipse perveniat.
+Tertia petitio est contra iram, qua dicitur: <hi>Fiat voluntas tua, sicut in coelo, et in terra.</hi> 
+ Non
+enim vult contendere, qui dicit: <hi>Fiat voluntas tua:</hi> 
+sed sibi placere indicat quidquid voluntas Dei, sive
+in se, sive in aliis secundum arbitrium suae dignationis
+dispensat. Huic ergo petitioni datur spiritus
+scientiae, ut ipse ad cor veniens, erudiat illud, et salubriter
+<pb n="0408D"/>
+compungat, ut sciat homo malum, quod patitur,
+ex sua culpa provenire: si quid autem boni
+habuerit ex misericordia Dei procedere, ac per hoc
+discat, sive in malis, quae sustinet, sive in bonis,
+quae non habet, contra Creatorem non irasci, sed
+per omnia patientiam exhibere. Optime ergo per compunctionem
+cordis (quae spiritu scientiae operante,
+interius ex humilitate nascitur) ira et indignatio
+animi mitigatur quia e converso stultum ira interfecit,
+quando in adversis per impatientiae vitium
+agitatus, atque caecatus, vel malum quod patitur se
+meruisse, vel bonum quod habet per gratiam accepisse
+non agnoscit. Hanc virtutem, id est compunctionem,
+sive dolorem, praemium consolationis sequitur,
+ut qui se hic sponte coram Deo per lamenta
+<pb n="0409A"/>
+affligit, illic verum gaudium et laetitiam invenire mereatur.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV.-- <hi>Quibus item donis quatuor postremae petitiones accommodentur, et quibus malis remedium praestent.</hi> </head>
+<p>Quarta petitio est contra tristitiam, qua dicitur: <hi>Panem nostrum quotidianum da nobis hodie.</hi> 
+ Tristitia
+namque taedium est animi cum moerore quando
+mens quodammodo tabefacta, et vitio suo amaricata,
+interna bona non appetit, atque omni vigore emortuo,
+nullo spiritualis refectionis desiderio hilarescit:
+propterea ad sanandum hoc vitium deprecari nos
+oportet misericordiam Domini, ut ipse, solita pietate,
+animae taedio suo languenti, internae refectionis
+pabulum admoveat, ut quod ipsa absens nescit
+<pb n="0409B"/>
+appetere, gustu praesentis admonita, incipiat amare.
+Datur ergo huic petitioni spiritus fortitudinis, ut
+fatiscentem animam erigat: quatenus illa pristini
+vigoris virtute recepta, a defectu sui taedii ad desiderium
+interni saporis convalescat. Creat ergo spiritus
+fortitudinis in corde famem justitiae: ut dum
+hic per desiderium pietatis fortiter accenditur; illic
+pro praemio plenam beatitudinis satietatem consequatur.</p>
+<p>Quinta petitio est contra avaritiam, qua dicitur: <hi>Dimitte nobis debita nostra, sicut et nos dimittimus
+debitoribus nostris.</hi> 
+ Justum enim est, ut in reddendo
+debito non debeat esse anxius, qui in exigendo noluerit
+esse avarus: atque ideo cum a nobis per Dei
+gratiam vitium avaritiae tollitur, qualiter a nostro
+<pb n="0409C"/>
+debito absolvi debeamus, ex proposita salutis conditione
+docetur. Huic ergo petitioni datur spiritus
+consilii: qui doceat nos in hoc saeculo libenter peccantibus
+in nos misericordiam impendere quatenus
+in futuro cum pro peccatis nostris rationem reddituri
+sumus, mereamur misericordiam invenire.</p>
+<p>Sexta petitio est contra gulam, qua dicitur: <hi>Ne
+nos inducas,</hi> id est induci permittas, <hi>in tentationem.</hi> 
+Haec est tentatio qua nos illecebra carnis saepe per
+naturalem appetitum ad excessum trahere nititur,
+et latenter voluptatem subjicit, dum manifeste nobis
+de necessitate blanditur. In quam profecto tentationem
+tunc nequaquam inducimur, si sic studemus
+secundum mensuram neccessitatis naturae subsidium
+<pb n="0409D"/>
+impendere, ut tamen semper meminerimus appetitum
+ab illecebra voluptatis coercere: quod ut implere
+valeamus, datur nobis petentibus spiritus intelligentiae:
+ut interna refectio verbi Dei appetitum
+exteriorem cohibeat, et mentem spiritali cibo roboratam
+nec valeat corporalis egestas frangere, nec
+carnis voluptas superare. Propterea namque et ipse
+Dominus tentatori suo, dum esurienti sibi fraudulentam
+de exterioris panis refectione suggestionem
+faceret, respondit dicens: <hi>Non in solo pane vivit
+homo, sed in omni verbo quod procedit ab ore Dei <note>(Matth. IV)</note>
+            </hi>.
+Ut aperte demonstraret quod cum mens
+illo interius pane reficitur, non magnopere curat si
+foris ad tempus famem carnis patiatur. Datur ergo
+contra gulam spiritus intelligentiae: sed ille ad cor
+<pb n="0410A"/>
+veniens, emundat illud atque purificat: et illum interiorem
+oculum cognitione verbi Dei, quasi quodam
+collirio sanans, eo usque luminosum, atque serenum
+efficit, ut ad ipsam etiam deitatis claritatem
+contemplandam perspicax fiat. Contra vitium gulae
+igitur remedium apponitur spiritus intelligentiae: ex
+spiritu autem intelligentiae munditia cordis nascitur:
+munditia vero cordis visionem Dei promeretur, sicut
+scriptum est: <hi>Beati mundo corde; quoniam ipsi Deum
+videbunt <note>(Matth. V)</note>
+            </hi>.</p>
+<p>Septima petitio est contra luxuriam, qua dicitur: <hi>Libera nos a malo.</hi> 
+ Convenienter sane servus libertatem
+petit: et idcirco huic petitioni datur spiritus
+sapientiae, qui amissam captivo libertatem restituat,
+et jugum iniquae dominationis quod suis viribus ille
+<pb n="0410B"/>
+non valuit, per gratiam adjutus evadat. Sapientia
+namque a sapore dicitur: cum mens gustu internae
+dulcedinis tacta, totam se per desiderium intus
+colligit: nec foris jam evidenter in carnis voluptate
+dissolvitur: quia totum intus possidet, in quo delectatur.
+Congrue igitur contra exteriorem voluptatem
+interior dulcedo opponitur, ut quanto ista plus
+sapere, et placere incoeperit, tanto liberius atque libentius
+illa contemnatur: tandemque in semetipsa
+mens pacificata, dum nihil est quod foris appetat,
+tota per amorem intus requiescat. Spiritus ergo
+sapientiae cor sua dulcedine tangens, et foris concupiscentiae
+ardorem temperat, et sopita concupiscentia intus pacem creat: quatenus dum mens
+tota ad internum gaudium colligitur, plene ac perfecte
+<pb n="0410C"/>
+homo ad imaginem Dei reformetur: sicut
+scriptum est: <hi>Beati pacifici, quoniam filii Dei vocabuntur <note>(Ibid.)</note>
+            </hi>.
+Ecce, frater, petitionem tuam non
+qualiter debui, sed qualiter interim potui, adimplevi.
+Accipe manusculum de quinque septenis, quod
+postulasti: et cum illud respexeris, memento mei.
+Gratia Dei sit tecum. Amen.
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. V.-- <hi>De septem donis Spiritus sancti, seorsum.</hi> </head>
+<p>Scriptum est: <hi>Si enim vos cum sitis mali, nostis
+bona data dare filiis vestris: quanto magis Pater
+vester coelestis dabit spiritum bonum petentibus se? <note>(Luc. XI)</note>
+            </hi>.
+Ergo spiritum dabit Pater coelestis filiis
+petentibus se. Qui enim filii sunt, non aliud quaerunt:
+qui aliud quaerunt, mercenarii sunt servi,
+<pb n="0410D"/>
+non filii: qui argentum quaerunt, qui aurum quaerunt,
+qui transitoria quaerunt, qui non aeterna quaerunt,
+quaerunt ministerium servitutis, non spiritum
+libertatis. Quod quaeritur, datur; si quaeris corporalia,
+non plus quam quaeris, accipis. Si quaeris
+spiritualia, quod quaeris datur et quod non quaeris
+adjicitur; spiritualia dantur, carnalia adjiciuntur. <hi>Quaerite primum regnum Dei, et haec omnia adjicientur
+vobis 
+ <note>(Matth. VI)</note>
+            </hi>. Igitur Patrem rogaturus, et Patrem,
+qui in coelis est, coelestia dona quaere, non
+terrena: non substantiam corporalem, sed gratiam
+spiritalem. Dabit enim spiritum bonum petentibus
+se, dabit spiritum suum, ut sanet spiritum tuum:
+spiritum sanctum dabit, et spiritum peccatorum
+sanabit. Hic aegrotus est, ille medicina. Si ergo vis
+<pb n="0411A"/>
+sanari istum, quaere illum. Si petis pro spiritu, spiritum
+pete. Noli timere morbo medicinam apponere; morbus
+medicinam non corrumpit, sed morbum medicina disrumpit.
+Non illam inficit, sed ex illa deficit. Igitur noli
+timere spiritum Dei sanctum ad spiritum tuum peccatorem
+invitare, quia peccator es, et indignus consortio
+illius: non enim hoc fit, quia dignus es, sed
+ut dignus fias. Venit ad te, ut mansionem faciat in
+te. Non enim inveniet quando veniet; sed veniet, ut
+faciat. Prius aedificabit, postea habitabit. Primum
+sanabit: postea illuminabit. Primum ad sanitatem,
+postea ad jucunditatem. Si ergo filius es, et patrem
+petis, confide, ne timeas. Deus audit, pater exaudit.
+Sicut non potest non audire, quia Deus est: sic
+non potest non exaudire, quia pius est. Dabit ergo
+<pb n="0411B"/>
+tibi, quod petis, si recte petis, et non ibit oratio tua
+in vanum, si digna fuerit exaudiri. Pro morbo sanando
+postulasti: medicinam accipies. Vitia tua,
+morbus tuus: spiritus Dei, sanitas tua. Contra
+morbum superbiae dabitur tibi medicina spiritus timoris,
+ut sanet corruptionem elationem, et restauret
+sanitatem humilitatem. Singula vitia singulas
+medicinas habent; septem vitia, septem spiritus,
+quot morbi, tot medicinae. Quid sunt septem spiritus?
+septem sunt dona spiritus, et dona sunt spiritus,
+et spiritus sunt dona: donum spiritus, spiritus
+est: seipsum dat spiritus: unus spiritus septiformiter
+se tribuit. Propterea unus spiritus, septem spiritus:
+quia septiformiter datus, et septiformiter
+<pb n="0411C"/>
+aspiratus. Septem aspirationes, et spiritus unus:
+una medicina septem morbos curat. Propterea una,
+septem, una natura, opera septem: substantia una,
+septiformis effectus.</p>
+<p>Primus spiritus est spiritus timoris, secundus est
+spiritus pietatis, tertius est spiritus scientiae, quartus
+spiritus, est spiritus fortitudinis, quintus spiritus,
+est spiritus consilii, sextus spiritus est spiritus
+intellectus, septimus spiritus est spiritus sapientiae. <hi>Haec autem omnia operatur unus, atque idem
+spiritus 
+ <note>(I Cor. XII)</note>
+            </hi>; ipse est timor, ipse est pietas,
+ipse est scientia, ipse est fortitudo, ipse est consilium,
+ipse est intellectus, ipse est sapientia. Omnia
+haec tibi fit, qui sibi unus est: accipiendo illum, qui
+diversus non est: tu ad diversa formaris. Propterea
+<pb n="0411D"/>
+multiplicatur in te: qui in se unus est semper et
+idem. Qui enim est amor tuus, ipse est timor tuus. <hi>Juravit Jacob Laban per timorem patris sui Isaac. <note>(Gen. XXXI)</note>
+            </hi>.
+Qui enim consummat, ipse et inchoat.
+Primum ad te venit, ut faciat timentem: novissime
+ut faciat diligentem. Idem lumen est, quod oculos
+lippientes pungit et claros demulcet: diversa facit,
+quia diversa invenit: tamen ipsum in se unum est:
+et in te quoque unum esset, si te unum inveniret.
+Si sanum oculum habes, percipis lumen sine poena.
+Si autem aeger est oculus, molestus fit adventus
+illius. Expedit tamen, ut vel sic veniat: quia si non
+cruciaris, non illuminaris. Pugnant duo contraria,
+medicina et morbus. Medicina propter te, morbus
+contra te. Si morbo non resisteretur, sanitas non
+<pb n="0412A"/>
+sequeretur. Si medicinae non resisteretur, poena
+non sentiretur. Pugna contrariorum poena est
+tua: non tamen causeris medicinam, sed morbum:
+dolorem, quem duo inferunt, uni imputa:
+medicina prodesse vult, morbus laedere intendit.
+Propterea solus morbus pacem habet: non salutem.
+Sola medicina salutem habet, poenam non habet.
+Quando autem simul sunt, poena est conflictatio contrariorum,
+alterius quod venire vult, ut conferat: alterius
+quod abire non vult, ut noceat. In hac autem
+poena morbus quidem accusandus est, non medicina:
+quia quod cruciat, ex morbo est: qui, si non
+esset, salus esset, et poena nulla esset.</p>
+<p>Sic itaque venit spiritus, et aspirans infundit se
+tibi: tu ex eo quod contrarium illi portas, non statim
+<pb n="0412B"/>
+acquiescis ad illum: sed facis contradictionem
+illi, ne pacifice ingrediatur ad te. Venit tamen, et illuminat
+te: ut videas in te, quod et prius habebas,
+sed non videbas: et ideo non videbas, quia non attendebas.
+Illo veniente illuminaris, et vivificaris:
+illuminaris, ut videas: vivificaris, ut sentias: sentis
+enim et praesentis, vides enim et praevides. Aliud
+vides, aliud praevides: aliud sentis, aliud praesentis.
+Vides malum, et praevides malum. Praesens vides
+malum, futurum praevides. Culpam sentis, poenam
+praesentis. Priusquam autem Spiritus sanctus ad te
+veniret, nec videbas caecus, nec sentiebas mortuus:
+et propterea non videbas, quia non respiciebas, nec
+sentiebas, quia non attendebas. Postquam vero bonum
+<pb n="0412C"/>
+rediit, ex ejus gustu excitatus es et illuminatus,
+ut malum agnosceres. Prius malum, quod patiebaris,
+id est culpam: deinde etiam malum, quod ex
+illo et pro illo merebaris, id est, poenam. Utrumque
+docuit bonum adveniens: ut et malum praesens sentiretur,
+et malum futurum praevideretur. Exinde
+poena illa medicinalis exoritur; cum sensificatus de
+malo, quod pateris, dolere incipis, ut corrigas: et
+illuminatus de malo, quod mereris, timere incipis,
+ut caveas. Nisi enim doleres, non corrigeres: et nisi
+timeres, non caveres. Prius ergo illuminaris ad
+culpam, ut eam videas; deinde ad poenam, ut eam
+timeas. Ut postremo timore sensificatus, pro culpa
+doleas et eam corrigas; quia forte non doleres, nisi
+timeres. Nisi enim poena videretur quae timeretur,
+nemo doleret pro culpa quae placeret. Ideo ostenditur
+<pb n="0412D"/>
+tibi poena secutura post culpam, ut ipsa culpa
+quae in experientia placet saltem in tribulatione displiceat;
+ut attendere incipias, quod malum est, id
+etiam quod in ea dulce videtur, cum tam malum sit,
+quod ex ea, et post eam amarum percipitur. Illuminaris
+ergo et affligeris, quia vides quod terret et habes
+quod dolet. Si non illuminareris, non cruciareris,
+quia non videres quod timeres. Rursum si non
+esset in te quod flammis deberetur, ignis sine poena
+videretur, et reciperes illuminationem ut non sentires
+afflictionem. Poena terret, culpa timet; quod
+totum ex lumine fit superveniente; quo poena demonstratur
+ut videatur; culpa sensificatur ut
+agnoscatur. Tamen aliud est quo vides, aliud quod
+<pb n="0413A"/>
+vides, aliud est quo illuminaris, aliud est ad quod illuminaris.
+Illud quo illuminaris, fovet; illud ad quod
+illuminaris, terret. Tamen terror quasi lumini imputatur;
+quia, priusquam illuminabaris, non terrebaris:
+expedit tamen ut terror veniat; quia nisi terreat
+poena, non corrigitur culpa. Propterea lumen tibi
+benefacit dum ostendit, quod cruciat; quia per illud
+corrigit, quod male delectat. Sic ergo illuminaris,
+ut terrearis. Primum lumen terribile est; imo
+tenebrae terribiles, quae videntur per lumen, quia
+videri non potest sine terrore. Quod sentiri non potest
+sine dolore; praesertim ab illo, qui se meruisse
+agnoscit, ut sentiat, quod imminere videt; et vitare
+non valet. Hinc igitur timor nascitur, cum periculum
+praevidetur, qui poenam habet in hoc malum,
+quod cruciat; non in hoc malum, quod liberat:
+malum, inquam, non malum. Omnis enim poena
+<pb n="0414A"/>
+malum est, sed non omnis poena mala est. Quod
+enim confert et prodest ad aliquid, bonum est etiam
+si in semetipso non est. Quapropter venit poena
+minor ut major poena vitetur, et hoc bonum est, tamen,
+ex eo quod bonum non est. Per poenam enim
+liberamur a poena, et expedit ad tempus sentire
+quod molestum sit, ne semper sentire oporteat quod
+intolerabile sit. Hoc autem bonum tuum operatur
+ex eo quod non est bonum tuum ille, qui est verum
+bonum tuum; operaturus postmodum aliud bonum
+tuum, quod non solum per ipsum sit, sed ex ipso.
+Primum enim ex poena tua operatur liberationem
+tui, postmodum ex dulcedine sua operatur gaudium
+tuum. Tamen utrobique unus et idem ipse hinc qui
+operatur; illinc et qui operatur, et ex quo operatur.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

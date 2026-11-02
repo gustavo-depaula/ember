@@ -1,0 +1,605 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Institutiones in Decalogum</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.InInDe2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>Quarum haec sunt capita:</head>
+<div2>
+          <head>CAP. I. </head>
+          <p>
+ <hi>De tribus praeceptis prioris tabulae.</hi> --CAP. II. <hi>De septem praeceptis posterioris tabulae.</hi> --CAP.
+ III. <hi>De ordine praeceptorum Dei.</hi> --CAP. IV. <hi>De substantia dilectionis, et de charitate ordinata.</hi> 
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. I.-- <hi>De tribus praeceptis prioris tabulae.</hi> </head>
+
+<pb n="0009A"/>
+<p> <hi>Audi, Israel: Deus tuus, Deus unus est, ipsum
+adorabis, et ei soli servies <note>(Deut. VI)</note>
+            </hi>. Non hoc totum
+de praecepto est quod dicitur, quia ante praeceptum
+per admonitionem ad obedientiam auditoris animus
+praeparatur. <hi>Audi, Israel.</hi> Hic nota obedientiam. <hi>Deus tuus,</hi> 
+ hic nota gratiam. <hi>Deus unus est,</hi> hic doctrinam;
+quasi diceretur: Obedientiam exhibe, gratiam
+intellige, veritatem agnosce. Quod audis, hoc
+est obedientia, quam exigeris. Quod Deus tuus, est
+gratia praevenientis. Quod Deus unus, veritas qua
+illuminaris et perficeris. Deum tuum audi, qui tibi
+misericordiam jam exhibuit, et necdum tamen a te
+servitium accepit, ut scias ab ipso esse utrumque,
+scilicet, et quod a te exigit opus virtutis, et quod
+<pb n="0009B"/>
+tibi promittit praemium retributionis. <hi>Audi, Israel,</hi> 
+id est, ausculta, acquiesce. Omnis enim virtus ab
+obedientia incipit, quemadmodum omne vitium ab
+inobedientia procedit. Frustra namque vel inobedienti
+gratia, vel contumaci doctrina, vel non intelligenti
+praeceptum daretur. Idcirco primum audi,
+Israel, ut sis obediens, <hi>Deus tuus,</hi> ut devotus existas, <hi>Deus unus est,</hi> 
+ ut veritatem agnoscas. Deinde
+sequitur praeceptum: <hi>Ipsum adorabis,</hi> hoc pertinet
+ad fidem. <hi>Et ei soli servies,</hi> hoc pertinet ad operationem.
+Fides enim operans ex dilectione perfectum
+facit, quia nec opus sine fide, nec fides cui tempus
+suppetit, accepta est sine opere. Propterea adora
+recte credendo, servi bene operando. Quaeri autem
+potest, si id quod dixit, <hi>ei soli,</hi> ad utrumque referendum
+<pb n="0009C"/>
+est, ut dicatur, Ipsum solum adorabis et ei
+soli servies? Sed hoc quomodo stare poterit, quia
+saepe in Veteri Testamento sanctos viros non solum
+<pb n="0010A"/>
+angelos adorasse, sed etiam homines legimus, nec
+tamen propterea alicubi reprehensos invenimus? Et
+in Novo Apostolus quidem etiam fideles ad serviendum
+superioribus et praelatis, summopere exhortatur.
+Sciendum ergo est quod alio modo homines
+adorantur, et alio modo Deus adorari praecipitur:
+usu namque veteri superiores quivis ab inferioribus
+adorari dicebantur, quando eis sive in curvatione
+genuum, sive capitis inclinatione ab his reverentia
+exhibebatur. Deum autem adorare est ei totam
+mentem per humilitatem ac devotionem substernere,
+et ipsum principium ac finem omnis boni credere.
+Quod ei soli nos debere nemo est sanae mentis qui
+ambigat. Unde ipse quoque per prophetam de se
+testatur, dicens: <hi>Gloriam meam alteri non dabo:
+<pb n="0010B"/>
+et laudem meam sculptilibus <note>(Isa. XLII)</note>
+            </hi>. De servitute
+vero idipsum competenter intelligi potest, quia
+nimirum omnis ille rectissime soli Deo servire dicitur,
+qui et secundum Deum homini superiori humiliter
+se subjicit, et ubi causa Dei impugnatur fidenter
+contradicit, qui cavet sollicite ne in sua servitute,
+vel pro timore hominis contra Deum quid faciat,
+vel terrenae retributionis lucrum in intentione coelesti
+praemio anteponat. Sed in Graeco manifestior
+sententia expressa est. Graeca namque locutio divinam
+servitutem ab humana proprio vocabulo distinguit
+quod Latinitas non habet: ibi enim Dei servitus <hi>latria,</hi> 
+ et humana <hi>dulia</hi> vocatur. Et ob hoc idololatrae
+appellati sunt, qui eam servitutem quam Deo debuerunt,
+idolis exhibebant. Sed Latina lingua utramque
+<pb n="0010C"/>
+sub eodem nomine servitutem comprehendit, et
+propterea obscurior significatio facta est, cum dicitur: <hi>Ei soli servies,</hi> 
+ quod in Graeco ambiguum non
+<pb n="0011A"/>
+est. Sed cum hoc praeceptum ad Patrem pertineat,
+quare dictum est: <hi>Ei soli servies,</hi> quasi etiam Filio
+et Spiritui sancto serviendum non sit? Verum, quod
+dictum est, <hi>soli,</hi> non excludit communionem Filii
+et Spiritus sancti: sed quidquid Deus non est. Pater
+autem, et Filius, et Spiritus sanctus unus Deus
+est, et ipse solus adorandus est, eique soli, et non
+alteri serviendum est, ea videlicet servitute, quae ei
+soli debita est. Nam et in Evangelio cum dicitur: <hi>Nemo novit Patrem, nisi Filius 
+ <note>(Matth. XV)</note>
+            </hi>, etc.,
+non utique Spiritus sanctus a Patris cognitione excluditur,
+cum ipse etiam profunda Dei, teste Apostolo <note>(I Cor. II)</note>,
+scrutetur. Sed est ejusmodi loquendi
+genus, ut dicatur, nemo nisi ille videlicet
+qui non, hoc est quod ille.</p>
+<p>
+            <pb n="0011B"/>His pro brevitate transcursis, ad sequens mandatum
+discutiendum transeamus, quod tale est: <hi>Ne
+assumas nomen Dei tui in vanum <note>(Exod. XX)</note>
+            </hi>. Hoc ad
+simplicem litterae sensum taliter intelligi debet, ut
+nomen Dei homo in vanum non assumat, id est,
+vel ad mendacium confirmandum, vel ad idolum venerandum,
+scilicet, ut neque idola nomine divino
+honoret, neque falsitati nomen Dei associet. Mystice
+autem nomen Dei in vanum assumere, est Filium
+Dei visibilem per humanitatem factum creaturam
+existimare. In vanum quippe nomen Dei assumit,
+qui Filium Dei aeternum ex tempore coepisse credit.
+Nomen siquidem Patris Filius dicitur, quia in Filio,
+et per Filium Pater invisibilis manifestatur, non
+solum quando per ipsum mundus factus est, verum
+<pb n="0011C"/>
+etiam quando per ipsum homo est redemptus. Sane
+qui Filium Dei hominem factum confitentur, nequaquam
+in vanum nomen Dei assumunt, quia quem
+credunt hominem per id quod assumpsit ex tempore,
+Deum verum agnoscunt per id quod fuit ex
+aeternitate. Potest adhuc aliter intelligi, quod dictum
+est: <hi>Ne assumas nomen Dei tui in vanum.</hi> In
+vanum namque nomen Dei assumunt, qui Filium
+Dei ad se missum, et pro sua salute incarnatum
+contemnunt. Quid est ergo dicere: <hi>Ne assumas nomen
+Dei tui in vanum,</hi> nisi, Sicut veneraris, et adoras
+eum propter hoc, quod ab eo factus es; sic adora
+eum. et venerare propter hoc, quod ab eo es redemptus,
+qui non minus tibi contulit cum redemit,
+quam cum creavit? Ad eumdem spectat sensum,
+<pb n="0011D"/>
+quod ipse Filius in Evangelio discipulis, et per discipulos
+omnibus in se credentibus dicit: <hi>Creditis
+in Deum, et in me credite <note>(Joan. XIV)</note>
+            </hi>: modesta
+quidem (ut decuit pium) insinuatione nos admonens,
+ut intelligamus eum non solum adorandum a
+nobis in sua divinitate qua condidit, sed in humanitate
+etiam qua redemit.</p>
+<p>Tertium praeceptum est: <hi>Observa diem Sabbati <note>(Deut. V)</note>
+            </hi>.
+Quatuor Sabbata commemorare videtur
+Scriptura. Primum illud, in quo Deus perfectis operibus
+suis requievisse dicitur. Secundum illud quod
+filiis Israel carnaliter custodiendum mandatur. Tertium
+illud, quod populo Dei spiritualiter servandum
+praecipitur. Quartum illud, quod in repromissione
+<pb n="0012A"/>
+Sabbatum pro Sabbato suis Deus dilectoribus pollicetur.
+Duo igitur sunt Sabbata exterius, unum Dei
+et unum hominis: et duo interius, unum Dei et unum
+hominis. Sabbatum Dei illud, quo exterius ab opere
+cessasse dicitur, sacramentum est illius interioris
+sabbati ejus in quo ipsius aeterna immortalitas, immortalisque
+aeternitas perpetua et inconcussa beatitudine
+perfruens nullo unquam labore fatigatur.
+Sabbatum hominis, quod ei exterius visibiliter servandum
+praecipitur, sacramentum est interioris
+Sabbati, ubi mens sancta per bonam conscientiam
+a servitute peccati quiescens in gaudio Spiritus
+sancti jucundatur. Hoc Sabbatum quisquis in praesenti
+vita ita servaverit, ut nullis consentiat malis,
+perveniet in futura vita ad illud internum et aeternum
+<pb n="0012B"/>
+Dei Sabbatum, ubi nulla sentiet mala, sicut
+dictum est: <hi>Et erit Sabbatum pro Sabbato, mensis
+pro mense.</hi> Istud itaque praeceptum specialiter ad
+Spiritus sancti personam referri videtur, cum dicitur: <hi>Observa Sabbatum,</hi> 
+ ut videlicet in praesenti
+suscipiamus eum et custodiamus intra nos in gaudium
+bonae conscientiae, quatenus eum in futuro
+suscipere et possidere mereamur in gaudium vitae
+aeternae. Haec igitur sunt tria praecepta primae tabulae,
+in quibus praecipue Dei dilectio commendatur,
+et tota Trinitas unus Deus aequaliter adoranda et
+colenda praecipitur.</p>
+</div2>
+
+<div2>
+          <head>CAP. II.-- <hi>De septem mandatis secundae tabulae.</hi> </head>
+<p>Septem alia secunda tabula continebat, quae hominem
+ad dilectionem proximi instruunt. Et propterea
+<pb n="0012C"/>
+septenario distinguuntur: quia in praesenti
+vita tantum quae septem diebus volvitur, nostra charitas
+pietatis operibus exercetur erga proximum;
+postea, consummatis operibus et finitis laboribus,
+per contemptationem pariter cum proximo beatificanda
+est in Deum. Amor ergo proximi et temporalis
+est, quantum pertinet ad exhibitionem operis;
+et aeternus, quantum pertinet ad effectum dilectionis.
+Primum praeceptum secundae tabulae ad patrem pertinet
+hominem, sicut primum primae ad Patrem
+Deum, utrobique paternitas praeponitur, utrobique
+principii dignitate honoratur, quia secundum quemdam
+modum sic habemus principium nascendi per
+generationem a patre homine, sicut principium existendi
+<pb n="0012D"/>
+per conditionem accepimus a Deo Patre. Et
+paternitas hominis sacramentum est et imago divinae
+paternitatis. Ut discat cor humanum in eo principio
+quod videt, quid debeat illi principio a quo
+est et quod non videt. Sic ergo dictum est: <hi>Honora
+patrem tuum et matrem tuam, ut bene sit tibi, et sis
+longaevus super terram <note>(Deut. V)</note>
+            </hi>. Sicut superius dictum
+est in primo praecepto primae tabulae, ita et hic
+non totum ad praeceptionem pertinet quod positum
+est. Sed ibi quod praeter praeceptum erat, praemissum
+est, hic subjunctum est: <hi>Audi, Israel, Deus
+tuus, Deus unus,</hi> hoc totum ante praeceptum praemittitur,
+ipsum praeceptum postea subinfertur: <hi>Ipsum adorabis, et ei soli servies.</hi> 
+ Hic praeceptum
+praecedit, <hi>honora patrem tuum et matrem tuam,</hi> 
+<pb n="0013A"/>
+deinde subjungitur, <hi>ut bene sit tibi, et sis longaevus
+super terram.</hi> Quid est ergo quod ibi ante praeceptum
+causa praecepti subinfertur, nisi quia Deus
+diligendus est propter seipsum, et homo propter
+Deum? Nam et amor parentum si ad solam carnem
+respicit, spirituale praemium non acquirit. Ex Deo
+igitur prius in nobis est propter quod postea diligendus
+est a nobis, quia ejus gratia nostra dilectio
+praevenitur, et nostra dilectio per ejus gratiam excitata
+subsequitur. In patribus autem carnis nostrae,
+si ad id solum beneficium nostra dilectio tenditur,
+quo carnaliter ab illis nostrum meritum praevenitur,
+quia ultra carnis affectum et supra carnis intuitum
+non proficit, ad perfectionem praemii spiritualis non
+pertingit. Ergo propter vitam aeternitatis diligendus est
+<pb n="0013B"/>
+auctor vitae temporalis, ut scilicet non ob hoc diligatur
+quia hanc ab illo, imo per illum vitam accepimus, sed
+quia per illum vitam intraturi sumus. Bene ergo
+cum dictum esset: <hi>Honora patrem tuum,</hi> subjuncta
+est causa, <hi>ut bene sit tibi, et sis longaevus super terram,</hi> 
+scilicet viventium, quia hoc diligere debemus
+in auctore vitae hujus, quod ab illo per hanc vitam
+ad vitam futuram initiati sumus. Et pulchre honoranti
+principium suum longaevitas promittitur, quia
+Deo per dilectionem adhaerere, aeternitatem promeretur.
+Sane quantum spectat ad sensum litterae,
+duobus modis parentes nostros honorare debemus,
+et obediendo eis videlicet in omnibus, his exceptis
+in quibus Dei Patris dilectio non offenditur, et eos
+(quantum nostra facultas suppetit) adjuvando. Sed
+<pb n="0013C"/>
+et de patribus spiritualibus, id est praelatis nostris,
+idipsum intelligere nihil impedit, quibus obedientiam
+debemus quantum nostra habet possibilitas,
+et auxilium, imo servitium quantum suppetit
+facultas.</p>
+<p>Secundum praeceptum est: <hi>Non occides <note>(Deut. V)</note>
+            </hi>.
+Convenienter sane cui in praecedenti mandato vitae
+longaevitas promittitur, hic ne alienam vitam exstinguat
+prohibetur, ut hoc ex charitate Dei sit, quod
+principium suum honorans ad vitam quae finem
+nescit inhiat: hoc vero ex charitate proximi, quod
+ad vitae alienae finem nullo crudelitatis odio se
+relaxat.</p>
+<p>Deinde sequitur tertium praeceptum: <hi>Non maechaberis</hi> 
+<pb n="0013D"/> <note>(ibid.)</note>:
+et quartum: <hi>Non furtum facies <note>(ibid.)</note>
+            </hi>. <hi>Non maechaberis,</hi> 
+ hoc pertinet ad vitam propriam: <hi>Non furtum facies,</hi> 
+ hoc pertinet ad vitam alienam.
+Supra enim jussus est et suam et alterius vitam
+conservare; hic jubetur et suam et alterius vitam
+non laedere. Justum est enim ut in via vitae corruptionem
+caveat, qui in patria vitam incorruptam
+exspectat, et qui vitam proximi per apertam violentiam
+non opprimit, etiam per fraudem occultam
+in iis quae ad usum vivendi data sunt ei non
+noceat. Et non solum ipse per se non noceat, sed
+neque nocentibus et nocere volentibus sua auctoritate
+vel attestatione fiduciam aut firmamentum praestare
+praesumat. Hoc enim sequenti mandato prohibetur
+<pb n="0014A"/>
+cum dicitur: <hi>Non falsum testimonium dices <note>(ibid.)</note>
+            </hi>.
+Et quia ab opere laesionis diu se cohibere
+non potest, qui mentem suam ab intentione et voluntate
+laedendi non cohibet, sequitur et dicit: <hi>Non
+concupisces uxorem proximi tui: nec concupisces rem
+proximi tui <note>(ibid.)</note>
+            </hi>. Ut non moecheris, non concupiscas
+uxorem proximi tui; ut furtum non facias,
+non concupiscas rem proximi tui. Haec sunt decem
+praecepta, quae primae perfectionis viam et semitam
+pandunt directionis. Prima enim perfectio per bonam
+operationem hominem in semetipso dirigit.
+Secunda per charitatem proximi in latum expandit.
+Tertia per charitatem Dei in altum extollit. Quia
+denarius primae perfectionis lineam porrigit, centenarius
+secundae expandit latitudinem: millenarius
+<pb n="0014B"/>
+in altum summam tollit perfectionem.</p>
+</div2>
+
+<div2>
+          <head>CAP. III.-- <hi>De ordine praeceptorum Dei.</hi> </head>
+<p>Ordinem autem ipsorum praeceptorum Dei sine
+consideratione transire non oportet. Nam si ordo
+vivendi est, utique et ordo praecipiendi. Primum
+ergo attende quod dicatur tibi, <hi>ut adores Deum tuum,
+et servias illi,</hi> hoc est primum praeceptum. In adoratione
+agnosce fidem, in servitute intellige bonam
+operationem. Post haec secundum praeceptum sequitur: <hi>Ut nomem Dei tui in vanum non assumas,</hi> 
+quatenus verbum veritatis in ore tuo sit propter veritatem,
+ut post fidem cordis sequatur confessio
+oris. Primum devotio ad bonam conscientiam, postea
+exemplum operis ad bonam famam, novissime
+verbum praedicationis ad doctrinam. Deinde sequitur
+<pb n="0014C"/>
+tertium praeceptum, et dicitur tibi, <hi>ut Sabbatum
+observes,</hi> hoc est mentis quietem custodias, ut non
+perturberis ex adversis foris occurrentibus pro veritate.
+Sed discas esse pacificus etiam inter illos qui
+pacem oderunt, praedices veritatem, et non omittas
+charitatem. Haec sunt tria praecepta primae tabulae,
+de iis quae pertinent ad Deum. Postquam sequitur
+secunda tabula de iis quae spectant ad proximum.
+Primum ergo praeceptum secundae tabulae est, in
+quo tibi praecipitur, <hi>ut honores principium tuum, ut
+vitam longaevam habere possis,</hi> quoniam qui non honorat
+eum a quo est, dignus est ut retinere non possit id
+quod est. Secundum: <hi>Non occides,</hi> debito subsequitur
+ordine, quia si observando primum hujus tabulae
+<pb n="0014D"/>
+praeceptum, vis esse <hi>longaevus super terram,</hi> 
+rationi et dictamini naturae consonum est ut occidas
+neminem, nec videlicet alii cuipiam quod tibi factum
+nolis, facias. Cui etiam tertium, quartum et
+quintum concordant, nam sicut tibi non solum vitam
+vis esse salvam, sed et conjugem, et rem, et
+famam, vis habere inviolatam, ita decet <hi>ut non moecheris,
+non furtum facias, non falsum testimonium
+dicas,</hi> quo postremo proximo in tribus nocere possis,
+in vita, re et fama. Porro quia ad justificationem
+non satis est formidine poenae cohibere ab illicitis
+manum, sed necesse est ut Dei et virtutis amore cohibeamus
+et mente, bene subduntur duo reliqua,
+ut neque uxorem neque rem concupiscas proximi.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV.-- <hi>De substantia dilectionis et charitate ordinata.</hi> </head>
+
+<pb n="0015A"/>
+<p>Quotidianum de dilectione sermonem serimus, ne
+forte non animadvertentibus nobis scintillet in cordibus
+nostris et exardescat ignis flammam faciens,
+aut totum consumens aut purgans totum. Ex eo
+namque totum est quod bonum est, et totum quod
+malum est ex eo est. Unus fons dilectionis intus
+saliens duos rivos effundit. Alter est amor mundi,
+cupiditas: alter est amor Dei, charitas. Medium
+quippe est cor hominis unde fons amoris erumpit,
+et cum per appetitum ad exteriora ducitur, cupiditas
+dicitur: cum vero desiderium suum ad interiora
+dirigit, charitas nominatur. Ergo duo sunt
+rivi qui de fonte dilectionis emanant, cupiditas et
+<pb n="0015B"/>
+charitas. Et omnium malorum radix cupiditas, et
+omnium bonorum radix charitas. Ex eo igitur totum
+est quod bonum est, et totum quod malum, ex
+eo est. Quidquid ergo illud est, magnum est quod
+in nobis est, et ex eo totum est, quod inest nobis,
+ex hoc autem amor est. Quid est amor, et quantum?
+quid est amor, aut unde est amor? Et sermo Dei
+de amore loquitur. Nunquid hoc negotium non potius
+illorum est qui amorem, qui pudicitiam prostituere
+consueverunt? Ecce quam multi qui ejus
+mysteria volentes suscipiunt, quam pauci qui ejus
+verba in medium proferre non erubescunt. Quid igitur
+nos facimus? Forsitan multa improbitate frontem
+fractam habemus, qui non verecundemur amorem
+dictatum formare, quem et impudici aliquando
+<pb n="0015C"/>
+non possunt sine verecundia in verbis exprimere.
+Sed aliud est investigare vitium ut eradicetur, aliud
+exhortari ad vitium, ut virtus et veritas non ametur.
+Nos igitur investigamus et quaerimus ut sciamus, et
+scientes caveamus: quod illi investigant ut sciant,
+sed sciant ut faciant, quid illud in nobis sit quod
+desideria nostra sic multifariam dividit, et cor
+nostrum in diversa deducit. Invenimus autem hoc
+aliud non esse praeter amorem, qui, cum sit motus
+cordis, secundum naturam singularis et unicus, secundum
+actionem autem divisus cum se inordinate
+movet, id est, ad ea quae non debet, cupiditas dicitur,
+cum vero ordinatus est, charitas appellatur.
+Ipsum ergo hunc cordis motum quem amorem
+<pb n="0015D"/>
+appellamus, qua definitione signare poterimus? Expedit
+nobis propius intueri eum, ne lateat aliquatenus,
+et non sciatur, proptereaque nec caveatur
+cum malus est, nec appetatur aut inveniatur cum
+bonus, de quo et cum malus est tanta mala veniunt,
+et cum bonus est tanta bona procedunt. Ipsum igitur
+quomodo diffinimus, investigemus, consideremus,
+quia occultum est quod quaeritur, quantoque
+interius collocatum est, tanto magis in utraque
+parte cordi dominatur. Igitur videtur amor, et amor
+est dilectio cordis alicujus ad aliquid propter aliquid:
+desiderium in appetendo, et in perfruendo gaudium:
+<pb n="0016A"/>
+per desiderium currens, requiescens per gaudium.
+Hic bonum est, et hic malum est tuum, cor humanum,
+quia nec aliunde bonum es si bonum es, nec
+aliunde malum es si malum es: nisi quod, vel male,
+vel bene amas, quod bonum est. Nam omne quod
+est, bonum est; sed cum id, quod bonum est, male
+amatur, illud bonum est, et hoc malum est. Igitur
+nec qui amat malum est: nec quod amat malum
+est: nec amor quo amat malum est, sed quod male
+amat, et hoc omne malum est. Ordinate ergo charitatem,
+et jam malum nullum est. Magnam rem
+commendare volumus, si tamen valemus, quod volumus.
+Omnipotens Deus, qui nullo indiget, quia
+ipse summum et verum bonum est, qui nec de alieno
+accipere potest quo crescat, quoniam ex ipso
+<pb n="0016B"/>
+sunt omnia, nec de suo amittere, quo decidat, quoniam
+in ipso immutabiliter consistunt universa:
+ipse rationalem spiritum creavit sola charitate, nulla
+necessitate, ut eum suae beatitudinis participem faceret.
+Porro ut idem esset aptus tanta beatitudine
+perfrui, fecit in eo dilectionem, spirituale palatum,
+quoddam significans ad gustum dulcedinis internae:
+quatenus per ipsam videlicet dilectionem suae felicitatis
+jucunditatem saperet, eique infatigabili desiderio
+cohaereret. Per dilectionem ergo copulavit
+sibi Deus creaturam rationalem, ut ei semper inhaerendo,
+ipsum quo beatificanda erat bonum, et ex
+ipso quodammodo per affectum sugeret, et de ipso
+per desiderium biberet, et in ipso per gaudium possideret.
+Suge, o apicula, suge. Suge et bibe dulcoris
+<pb n="0016C"/>
+tui inenarrabilem suavitatem. Immergere, et
+replere, quia ille deficere nescit, si tu non incipias
+fastidire, adhaere ergo et inhaere, sume et fruere.
+Si sempiternus gustus fuerit, sempiterna quoque
+beatitudo erit. Non jam pudeat nos neque poenieat
+de amore fecisse verbum. Non poeniteat ubi tanta
+utilitas: non pudeat ubi talis honestas. Igitur per
+amorem sociata est Factori suo creatura rationalis:
+solumque est dilectionis vinculum quod ligat utrosque
+in idipsum, et tanto felicius quanto fortius.
+Propter quod etiam, ut indivisa societas, et concordia
+perfecta utrobique haberetur, germinatus est
+nexus in charitatem Dei, et proximi, ut per charitatem
+Dei omnes uni cohaererent, per charitatem
+<pb n="0016D"/>
+proximi omnes ad invicem unum fierent, ut quod de
+illo uno cui omnes inhaerebant, quisque in semetipso
+non caperet, plenius atque perfectius per charitatem
+proximi in altero possideret, et bonum omnium
+fieret totum singulorum. Ordinate ergo charitatem.
+Quid est ordinate charitatem? Si desiderium
+est amor, bene currat: si gaudium est, bene quiescat.
+Est enim amor (sicut dictum est) dilectio cordis
+alicujus ad aliquid propter aliquid: desiderium
+in appetendo, et in perfruendo gaudium: per desiderium
+currens, et requiescens per gaudium: currens
+ad illud, requiescens in illo. Ad quid, aut in quo?
+<pb n="0017A"/>
+Audite, si forte explicare possimus, quo currere
+debeat amor noster: aut in quo requiescere. Tria
+quaedam sunt, quae amari bene aut male possunt,
+id est Deus, proximus, et mundus. Deus supra nos
+est: proximus juxta nos est: mundus subtus nos
+est. Ordinate ergo charitatem. Si currit, bene currat:
+si requiescit, bene requiescat. Desiderium currit:
+gaudium requiescit. Propter quod gaudium uniforme
+est, quia semper in uno est: nec vicissitudine
+variari potest. Desiderium autem mutabilitatem
+suscipit, et idcirco non se continet in uno, sed
+varias species repraesentat. Omnis namque cursus
+aut de illo est, aut cum illo, aut in illo ad quod est.
+Quomodo ergo currere debet desiderium nostrum?
+Tria sunt: Deus, proximus, et mundus. Tria Deus,
+<pb n="0017B"/>
+duo proximus, et unum mundus habeat in cursu
+desiderii nostri. Et est in desiderio ordinata charitas.
+Amor namque per desiderium, et de Deo, et
+cum Deo, et in Deum ordinate currere potest. De
+Deo currit quando de ipso accipit unde eum diligit.
+Cum Deo currit, quando ejus voluntati in nullo
+contradicit. In Deum currit, quando in ipso requiescere
+appetit. Haec sunt tria, quae ad Deum pertinent.
+Duo sunt proximi. Potest enim desiderium de proximo
+currere, sed in proximum non potest. De
+proximo, ut de ejus salute, et profectu gaudeat.
+<pb n="0018A"/>
+Cum proximo, ut eum in via Dei et comitem itineris,
+et socium perventionis habere concupiscat. Sed
+in proximum non potest, ut in homine spem et
+fiduciam suam constituat. Haec sunt duo, quae ad
+proximum pertinent, id est, de ipso, cum ipso,
+non in ipsum. Unum est mundi, de ipso currere: non
+cum ipso, aut in ipsum. De mundo desiderium currit,
+quando inspecto foris Dei opere per admirationem
+et laudem, ardentius intus ad ipsum se convertit.
+Cum mundo curreret, si se pro mutabilitate temporalium,
+sive dejiciendo in adversis, sive elevando
+in prosperis, huic saeculo se conformaret. In mundum
+curreret, si in ejus delectationibus semper requiescere
+vellet. Ordinate ergo charitatem: ut desiderium
+currat de Deo, cum Deo, in Deum; de proximo,
+<pb n="0018B"/>
+cum proximo, non in proximum; de mundo,
+nec cum mundo, nec in mundum. Et in solo Deo
+requiescat per gaudium, quia, si gaudium est, amor
+bene quiescat; si desiderium est, amor bene currat.
+Est enim amor, sicut dictum est, dilectio cordis alicujus
+ad aliquid propter aliquid: desiderium in
+appetendo, et in perfruendo gaudium, currens ad
+aliud, requiescens in illo. Haec est ordinata charitas,
+et praeter ipsam omne quod agitur non ordinata charitas
+est, sed inordinata cupiditas.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

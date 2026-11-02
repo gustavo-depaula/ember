@@ -1,0 +1,474 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Epistolae</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.Episto300</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>EPISTOLA PRIMA. AD RANULPHUM DE MAURIACO. <hi>Quod charitas nunquam excidit.</hi> </head>
+
+<pb n="1011A"/>
+<p>Dilecto fratri R. HUGO peccator.</p>
+<p> <hi>Charitas nunquam excidit <note>(I Cor. XIII)</note>
+          </hi>. Audieram
+hoc et sciebam quod verum erat. Nunc autem, frater
+charissime, experimentum accessit, et scio plane
+quod charitas nunquam excidit. Peregre profectus
+eram, et veni ad vos in terram alienam; et quasi
+aliena non erat, quoniam inveni amicos ibi: sed
+nescio an prius fecerim, an factus sim. Tamen inveni
+illic charitatem, et dilexi eam; et non potui
+fastidire, quia dulcis mihi erat; et implevi sacculum
+cordis mei, et dolui quod angustus inventus est,
+et non valuit capere totam: tamen implevi quantum
+<pb n="1011B"/>
+potui. Totum implevi quod habui, sed totum capere
+non valui quod inveni. Accepi ergo quantum capere
+potui, et onustus pretio pretioso pondus non sensi,
+quoniam sublevabat me sarcina mea. Nunc autem
+longo itinere confecto, adhuc sacculum meum plenum
+reperio, et non excidit quidquam ex eo, quoniam <hi>charitas nunquam excidit.</hi> 
+ Illic ergo, frater
+charissime, inter caetera memoria tui primum inventa
+est, et signavi ex ea litteras istas, cupiens te
+sanum esse et salvum in Domino. Tu ergo vicem
+repende dilectionis, et ora pro me. Dominus Jesus
+Christus tecum sit. Amen.
+</p>
+      </div1>
+
+<div1>
+        <head>EPISTOLA II. AD EUMDEM. <hi>De solutione quatuor quaestionum per Ranulphum de Mauriaco propositarum.</hi> </head>
+
+<pb n="1011C"/>
+<p>HUGO RANULPHO DE MAURIACO.</p>
+<p>Fervor charitatis tuae pondus quaestionum nobis
+invexit. Postulas primum expositionem tibi fieri in
+illud opus quod Coena Cypriani dicitur: quod quia
+nunc prae manibus non erat, convenientem apud te
+excusationem accepimus.</p>
+<p>QUAEST. 1. Deinde quaeris quid sibi velit illa altercatio
+Michaelis cum diabolo pro corpore Moysi,
+quae in Epistola apostoli Judae commemoratur. Hic
+tibi hoc sufficere putamus quod patres nostri qui ante
+nos verbum Dei ministraverunt, per corpus Moysi
+populum Judaicum intelligendum putaverunt, cujus
+et ipse caput exstiterat. Per Michaelem vero divinam
+<pb n="1011D"/>
+potentiam cum diabolo, id est cum adversaria
+virtute, quasi concertantem pro populo eodem, ut
+<pb n="1012A"/>
+salvus fieret; neque alia maledictione adversarii
+virtutem repulsam, nisi quia Dominus qui elegit
+Hierusalem, ab his potestatem inimici repulit,
+quos de populo illo per solam gratiam ad salutem
+elegit.</p>
+<p>QUAEST. 2. Quaeris rursum quos intelligi oporteat
+libros illos, et utrumne adhuc supersint, quorum in
+libro Numerorum et Jesu Nave mentio fit, sed et in
+Malachim et Paralipomenon, cum dicitur: <hi>Nonne
+hoc scriptum est in libro Justorum et libro Bellorum
+Domini;</hi> et item: <hi>in libro Gad videntis, et Addo, sive
+Semeiae, aut Haiae Silonitis.</hi> Nos itaque et in hoc
+sensum doctorum sequentes, librum Justorum et
+librum Bellorum Domini non alios, sed hos ipsos
+libros in quibus haec scripta sunt intelligimus,
+<pb n="1012B"/>
+more Scripturarum narrationem suam commendantium,
+quando ad confirmationem suam, suo quasi
+alieno testimonio adducto, auctoritas congeminari
+videtur. Liber autem Gad et Addo et Semeiae et
+Haiae libros fuisse proprios ab ipsis qui praenominati
+sunt auctoribus editos, sed per translationis
+seriem ad nos nequaquam pervenisse. Utrum autem
+adhuc apud Hebraeos habeantur, incertum, quamvis
+verisimilius post incensam legem a Chaldaeis hos
+quoque sublatos e medio nec superesse modo probabilius
+existimetur. Pro eo autem quod in Malachim
+et Paralipomenon dicitur: <hi>Nonne haec scripta sunt
+in libro Sermonum sive Verborum dierum regum Juda
+aut Israel <note>(III Reg. XV)</note>
+          </hi>, quamvis hic in quaestione
+tua propositum non sit, si quid supererogavero, tu
+<pb n="1012C"/>
+cum redieris, si reddere non placet, ne tamen succenseas:
+fieri etenim potest ut sint qui et hoc ignorent,
+quibus si tecum consulitur, displicere non
+debet. Librum igitur Verborum dierum regum Juda,
+et item librum Verborum regum Israel, singulos libros
+intelligendos arbitramur, in quibus gesta regum,
+scilicet Juda et Israel, non uno aliquo auctore
+descripta, sed diversis temporibus et diversis auctoribus,
+prout videlicet ea evenire contingebat,
+adnotata fuerunt. De quibus ea quae magis digna
+memoria videbantur, per subsequentes auctores
+excerpta et stylo elimatiore formata in hos libros,
+Malachim scilicet et Paralipomenon, compendiosa
+narratione expressa sunt. Illi ergo sunt libri ad quos
+<pb n="1012D"/>
+mittunt Malachim et Paralipomenon, reliqua cognoscere
+volentes. Hos autem nec per translationem
+<pb n="1013A"/>
+ad nos venisse, nec apud Hebraeos modo exstare
+putamus.</p>
+<p>QUAEST. 3. Quaeris item quomodo accipiendum sit
+id quod dicit Salvator: Quod <hi>omnis qui reliquerit
+uxorem,</hi> etc., <hi>propter me, centuplum accipiet, et vitam
+aeternam possidebit <note>(Matth. XIX)</note>
+          </hi>, cum ipse alibi dicat <note>(Matth. V)</note>,
+uxorem, excepta causa fornicationis, recte
+dimitti non posse, neque a viro discedere debere.
+Ubi convenienter intelligitur quod id etiam quod
+homo propter se convenienter facere non potest,
+aliquando propter Deum recte facere potest. Tunc
+autem recte propter Deum facit, cum secundum
+Deum facit. Propter Deum igitur uxorem relinquere,
+est vel per continentiam propter Deum abstinere ne
+accipiat; aut cum reatus illius exigit, vel assensus
+<pb n="1013B"/>
+permittit, concupiscentia non teneri ne discedat.
+Recte igitur relinquit propter Deum, qui relinquere
+potest secundum Deum. Quandiu autem secundum
+Deum relinquere non potest, propter Deum relinquere
+non potest. Cum autem causa Dei exigit, non
+solum relinqui sed recte etiam odio haberi potest,
+ut in eo propter Deum odiatur, quod contra Deum
+non diligitur.</p>
+<p>QUAEST. 4. Quaeris etiam quid sibi velit hoc dictum
+Apostoli in illa Epistola quae scribitur ad Hebraeos: <hi>Impossibile est eos qui semel sunt illuminati,
+gustaverunt etiam donum coeleste et participes sunt
+facti Spiritus sancti, et prolapsi sunt, renovari rursus
+ad poenitentiam 
+ <note>(Hebr. VI)</note>
+          </hi>. Quod idcirco gravius auditu
+est, quia poenitentiae remedium tollere, et peccatoribus
+<pb n="1013C"/>
+desperationem inducere videtur. Propterea
+non convenit verbum Dei ita interpretari, ut in
+eo aliquid veritati contrarium sentiamus. Quod igitur
+dicit, semel illuminatos et coelestis doni participes
+effectos, post lapsum, ad poenitentiam renovari
+non posse, vel sic accipimus, quia homo per se quidem
+peccare potest, sed per se sine adjutorio divinae
+gratiae corrigi non potest, sicut scriptum est: <hi>Spiritus vadens et non rediens 
+ <note>(Psal. LXXVII.)</note>
+          </hi>. Vel sic:
+quod, post lapsum, homo renovari non potest, ut
+scilicet hoc sit quod fuisset si non peccasset. Verbi
+gratia, si virgo est et corrumpitur, poenitere potest,
+sed iterum virgo esse non potest. Et si poenitende
+forte facit ut melior sit quam fuit cum cecidit, non
+tamen facere potest ut talis sit qualis fuisset si non
+<pb n="1013D"/>
+peccasset, et tamen haec bona quae nunc facit fecisset;
+secundum quod aliquo modo irrecuperabile
+praeteritae culpae damnum constat, cum praesentibus
+lucris justitiae hoc semper deesse cernitur, quod in
+culpa praeterita amissum comprobatur: quod utique
+si adesset, plus esset. Potest et aliter convenienter
+intelligi haec impossibilitas. Peccator enim semel
+morte Christi redemptus, et a peccati vetustate liberatus,
+si denuo lapsus fuerit, secundum id iterum
+renovari non potest, quod Christi mortem aliam ad
+renovationem habere non potest, quamvis eamdem
+possit [ <hi>an</hi> poscit?] et eadem denuo renovari possit.
+Terretur autem probabiliter peccator, ut scilicet
+quia Christus cujus morte redemptus est, iterum
+<pb n="1014A"/>
+mori non potest, sic caveat peccatum iterare, sicut
+impossibile videt mortem Christi iterari pro peccato,
+sicut scriptum est <note>(Hebr. X)</note>, post acceptam veniam
+voluntarie peccantibus, hostiam pro peccato
+non relinqui, id est, vel hanc ad excusationem vel
+aliam ad remissionem. Voluntaria enim peccata intelligenda
+non sunt, de quibus dicitur: <hi>Jam nihil
+damnationis est his qui sunt in Christo Jesu <note>(Rom.
+VIII)</note>
+          </hi>. Nam voluntarie peccantibus etiam in Christo
+positis haec hostia ad excusationem damnationis
+non relinquitur, sicut poenitentibus etiam de voluntariis
+peccatis ad remissionem condonatur. Sic itaque
+post acceptam gratiam lapsi iterum renovari
+non possunt et tamen renovari possunt, quia iterari
+non potest, quo renovantur, ut aliud sit; sed ab his
+<pb n="1014B"/>
+qui renovandi sunt denuo recuperari potest, ut eo
+recuperato amisisse damnabile non sit.
+</p>
+      </div1>
+
+<div1>
+        <head>EPISTOLA III. AD JOANNEM HISPALENSEM ARCHIEPISCOPUM. <hi>Quod non solum corde tenenda, sed et ore confitenda sit fides Christiana.</hi> </head>
+<p>JOANNI Hispalensium archiepiscopo, HUGO servus
+crucis Christi.</p>
+<p>Quid, frater charissime, quid dicam tibi? Si
+coeperimus loqui tibi, forsitan moleste accipies. Vir
+ille fortis erat et magnus, et omnium contemptor
+tormentorum, <hi>et nemo illi loquebatur verbum, quia
+videbant dolorem ejus esse vehementem <note>(Job II)</note>
+          </hi>. Quomodo
+igitur nos tibi loqui poterimus in tanti doloris
+vehementia? Si tamen doles quantum tibi dolendum
+<pb n="1014C"/>
+est [ <hi>al.,</hi> tu dolendus es]? quid tibi faciemus? Tenebimus
+conceptum sermonem, quem cor nostrum et
+anima nostra, non (quomodo in illis) impatientia
+loquendi, sed vehementia dolendi parturire jam
+coepit. Ergo tacere poterit charitas, ut non erumpat
+et clamet in doloribus suis, et in angustia tribulationis
+suae. Jam enim gladius pervenit usque ad animam,
+et venit mors fraudulenta carni parcens, ut
+spiritum exstinguat. Nosti, frater, quid velim? De
+anima tua causa agitur. Vide quid facias. Christus
+tibi opponit mortem suam, Christianus redemptionem
+suam. Quaerit ille emptum, iste redemptum.
+Ille se pretium pro te incassum dedisse conqueritur;
+iste pretio redemptum perditum lamentatur. Sed
+dicis: Ego conscientiam meam novi. Nemo me
+<pb n="1014D"/>
+terreat: Christianum non facit lingua, sed conscientia.
+Ego Christum diligo: sufficit mihi. Non amplius
+ille quaerit. Quod potissimum meum est, illi dedi.
+Cor habet, illud possideat. Dicam homini quodlibet.
+Ipse Dominus novit quod invitus nego. Lingua hoc
+dicit, non conscientia. Ore quidem nego, sed corde
+confiteor. Audi, frater. Scriptura dicit: <hi>Corde
+creditur ad justitiam, ore autem confessio fit ad salutem <note>(Rom. XVI)</note>
+          </hi>.
+Quomodo ergo salutem habere
+putas, si confessionem non habes? Christum negas
+et dicis te Spiritum sanctum habere? Quid est ergo
+quod ait Apostolus: <hi>Nemo in Spiritu Dei loquens,
+dicit anathema Jesu? <note>(I Cor. XII.)</note>
+          </hi> Si dicis anathema
+Jesu, Spiritum Christi quomodo habes? Si
+<pb n="1015A"/>
+vero non habes Spiritum Christi, non es Christi. <hi>Qui non habet,</hi> 
+ inquit Scriptura, <hi>Spiritum Christi,
+hic non est ejus <note>(Rom. VIII)</note>
+          </hi>. Audi iterum: <hi>Qui,</hi> inquit, <hi>me erubuit et meos sermones, hunc Filius hominis
+erubescet, cum venerit in majestate sua 
+ <note>(Luc. IX)</note>
+          </hi>.
+Sed dicis bene: Qui pro erubescentia Christum
+negat, juste damnatur, juste a Christo non cognoscitur.
+Parum enim est hoc verecundiam Christo
+anteferre. Ego plus habeo quod in excusatione praetendam.
+Non enim erubesco, sed timeo. Majus est
+quod me terret. Ipse novit quia pati non valeo. Parcit
+ergo infirmitati, condescendit devotioni. Non
+attendit ad vocem, sed ad charitatem respicit. <hi>Nemo
+carnem suam odio habuit <note>(Ephes. V)</note>
+          </hi>. Timeo pro carne
+mea, quam odire non possum. O fallax deceptio!
+<pb n="1015B"/>
+Ergo carnem amabis, et Creatorem blasphemabis?
+Quid ergo sibi vult quod ait: <hi>Qui amat animam
+suam plus quam me non est me dignus <note>(Luc. XIV)</note>
+          </hi>. Si
+animam recte plus amare non potes, carnem potes?
+Sed dicis: Non plus carnem diligo: plus enim diligo
+Deum nostrum quam carnem meam. Videamus
+modo. Quod plus diligis, hoc potius eligis. Dicit
+Deus tuus: <hi>Noli timere eos qui corpus occidunt,
+animae autem non habent quid faciant <note>(Matth. X)</note>
+          </hi>. Hoc
+ergo Deus dicit, hoc caro contradicit; vide modo.
+Quod plus diligis, hoc potius eligis. O qualis pastor!
+Quomodo tu animam poneres pro ovibus tuis <note>(Joan.
+X)</note>, qui nec pro anima tua animam tuam ponis? Tu
+pro anima tua dare non vis carnem tuam, et pro
+ovibus tuis dares animam tuam? O qualis pastor?
+<pb n="1015C"/>
+Non sic fecit bonus ille Pastor, qui animam suam
+posuit pro ovibus suis, et pro grege suo mori dignatus
+est. Quid tibi videtur? Si sic ille ut tu mortem
+timuisset, quae, putas, ovis adhuc a morte liberata
+fuisset? Putavit ille bonum pastorem eligere ovibus
+suis, qui, veniente lupo, non effugeret, neque sub
+trepidationis latebra sese ovium periculo posthabito
+occultavit. Venit lupus, oves rapere non potuit;
+pastorem non solum rapuit, sed abstraxit. Mira res!
+Ovis audet, et pastor trepidat. O qualis pastor! Si
+talis futurus fuisti, quare curam ovium suscepisti?
+Si accepisti dignitatem, quare non impendis bonitatem: <hi>Bonus pastor animam suam ponit pro ovibus
+suis 
+ <note>(ibid.)</note>
+          </hi>. Sed dicis: Petrus ore negavit; tamen,
+quia corde non negavit, respexit illum Dominus, et
+<pb n="1015D"/>
+vocatus est nomine suo ad resurrectionis gaudium
+cum aliis apostolis. Hoc, ut audio, maximum est
+quod ad excusationem tui praetendis. Respexit ergo
+Dominus Petrum negantem. Quare? ut faceret confitentem:
+prius flentem, postea confitentem. Respexit
+ad compunctionem, vocavit ad confessionem.
+Si ergo tu respectum Christi habes, ubi sunt lacrymae?
+Si autem lacrymaris, quare non confiteris?
+Si sequeris Petrum negantem, cur non imitaris confitentem.
+Postremo, frater, si Christianus es, ubi
+est signum regis tui? Ego alienum characterem
+video in fronte tua. Scis quid futurum sit super
+illis qui characterem bestiae portant? Servi Dei
+nostri signati sunt in frontibus suis, et non possunt
+<pb n="1016A"/>
+exterminii sententiam evadere, nisi solum ii
+qui in figura Tau crucis Christi signaculo muniuntur.
+Crux in pectore, fides in corde; crux
+in fronte, confessio in ore: utrumque debetur,
+utrumque exigitur. Totum Christus vindicat sibi.
+Cor ad fidem sui, os ad confessionem sui. Sed astat
+tortor, gladius exertus minatur. Audi: <hi>Qui amat
+animam suam, perdet eam; et qui perdiderit animam
+suam in hoc mundo propter me, in vitam aeternam
+custodiet eam <note>(Marc. VIII)</note>
+          </hi>. Qui perdit propter me,
+recipiet a me. Ego commendatum servabo, ut melius
+restituam. Nihil trepides. <hi>Capillus de capite</hi> tuo <hi>non peribit 
+ <note>(Luc. XXI)</note>
+          </hi>. Quid sollicitaris de anima,
+qui de capillo etiam securitatem accepisti? Sed fortassis
+dices mihi, quod multi hodie intra sinum Ecclesiae
+<pb n="1016B"/>
+in fide et confessione Christi vivunt, qui, si
+sic interrogarentur, nullatenus Christum confiterentur.
+Ad quod ego tibi voce prophetica respondeo,
+quod <hi>judicia</hi> Domini <hi>abyssus multa <note>(Psal. XXXV)</note>
+          </hi>.
+Non possumus, nos, scrutari profundum judiciorum
+Dei, et investigabiles vias ejus penetrare. <hi>Miserebor,</hi> 
+inquit, <hi>cui misertus fuero; et misericordiam praestabo,
+cui misericors fuero <note>(Rom. IX; Exod. XXXIII;
+Rom. IX)</note>
+          </hi>. Si ergo in oculis ejus placitum fuerit, ut
+quibusdam parvulis suis, quos mater Ecclesia aut
+conceptos portat, aut nutrit editos, parcat, et ad
+istos graviores tentationum interrogationes venire
+non permittat, tu quis es qui ei dicas: <hi>Cur ita facis <note>(Job IX)</note>
+          </hi>.
+Non tuam decet excellentiam, ut te in numero
+talium existimandum intelligas. Inter magnos
+<pb n="1016C"/>
+servos, non quasi parvulus, sed custos et provisor
+parvulorum locum acceperas. Tibi itaque, quasi
+magno et forti, et ad primam vel proximam consecutionem
+idoneo, dixit Jesus: <hi>Sequere me <note>(Joan. XI)</note>
+          </hi>.
+Te igitur proximum post ipsum locum adeptum, ut
+eum sequaris, admonuit, quatenus tu postea sequacibus
+tuis, quibus ad vitam ducatum praebere debueras,
+fiducialiter dicere posses: <hi>Imitatores mei estote,
+sicut et ego Christi <note>(I Cor. XI)</note>
+          </hi>. Si ergo Dominus te,
+tanquam servum magnum et fidelem, ad gloriam
+suae imitationis vocare voluit, vide quale sit hoc, ut
+tu ad pusillos ejus qui interim fovendi sunt, non
+premendi, respiciens, dicas: <hi>Domine,</hi> hi <hi>autem quid? <note>(Joan. XXI.)</note>
+          </hi> 
+ Dixit hoc ille, quem tu imitari putas,
+cum tamen per omnia non debeas, non intelligens
+<pb n="1016D"/>
+dignitatem vocationis illius, neque recte intuens
+pietatem dispensationis divinae. Et idcirco justae
+increpationis sententiam audivit, ut auscultare disceret,
+non judicare. <hi>Sic,</hi> inquit, <hi>eum volo manere,
+donec veniam. Quid ad te? Tu me sequere <note>(ibid.)</note>
+          </hi>. Hoc
+est ergo, frater, verbum quod intentisssime et diligentissime
+audire debes, ut Regem tuum sequaris
+et consequaris. Sequaris ad poenam, consequaris ad
+gloriam. Si patiendum est pro Christo, excusationem
+non habes. <hi>Non sunt condignae passiones hujus
+temporis ad futuram gloriam, quae revelabitur in nobis <note>(Rom. VIII)</note>
+          </hi>.
+Si autem et sine passione negas, non
+solum dico, non excusaris, sed amplius dico quod
+accusaris. Miser, ubi est anima tua, ut non recogites
+<pb n="1017A"/>
+qualis factus sis? qualem gloriam perdidisti, et
+ad quantam miseriam et confusionem corruisti?
+Aspice temetipsum, qualis es: ubi est corona tua et
+gloria? Dereliquisti Regem tuum: unaquaeque gens
+deos suos sequitur: <hi>Et certe ipsi non sunt dii <note>(Jer.
+II)</note>
+          </hi>. Tu Dominum et Deum tuum reliquisti, et factus
+es vilis, opprobrium pessimorum. O qualis pastor
+<pb n="1018A"/>
+Christianorum! Quomodo tu pasces oves Christi,
+qui te ipsum perdidisti? Lupo futuro oves pascendae
+datae sunt. O qualis pastor! Erubesce, miser, et
+confundere! Christianorum oculi in te sunt. De
+longe videris. Non potes latere. Error tuus te notum
+fecit. Non potes evadere confusionem, nisi ostendas
+confessionem.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

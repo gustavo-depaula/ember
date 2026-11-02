@@ -1,0 +1,751 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeSaAnC</idno>
+          </seriesStmt>
+                 <titleStmt>
+              <title>De sapientia animae Christi</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              <edition>early modern edition, no apparatus</edition>
+              </publicationStmt>
+     </fileDesc>
+     <encodingDesc>
+        <projectDesc>this file was encoded in TEI xml for the University of Zurich's <hi>Corpus Corporum</hi> project (www.mlat.uzh.ch) by Ph. Roelli in 2013</projectDesc>
+         <editorialDecl>
+            <normalization>Classical Latin orthography</normalization>
+         </editorialDecl>
+     </encodingDesc>
+     <profileDesc>
+        <creation>
+           <date/>
+        </creation>
+        <langUsage>
+           <language>latin</language>
+        </langUsage>
+        <textClass>
+           <keywords>
+              <list>
+                 <item/>
+              </list>
+           </keywords>
+           <keywords scheme="genre">
+              <list>
+                 <item/>
+              </list>
+           </keywords>
+           <keywords scheme="period">
+              <list>
+                 <item/>
+              </list>
+           </keywords>
+        </textClass>
+     </profileDesc>
+   </teiHeader>
+<text>
+    <body>
+<div1>
+        <head>PRAEFATIO.</head>
+
+<pb n="0845D"/>
+<p>Prudenti ac religioso verbi divini inter caeteros et
+prae caeteris scrutatori G. Hugo peccator. Aliquoties
+accidisse comperi, ut rerum difficilium tractatione
+aut insipientia relatoris auditorem corrumperet, aut
+temeritas auditoris relatorem infamaret. Quapropter
+aeque cavendum mihi videtur, ut potissimum
+illic ubi sine periculo aliud sentiri non potest, nec
+facile nostra praesumamus asserere, nec aliena
+temere judicare. Novi enim  « quanta, »  ut dicit beatus
+Augustinus,  « somnia cor humanum pariat; » 
+atque eo judicio quo in sui cognitione fallitur, caetera
+quoque quae praeter ipsum sunt, non recte conspicetur.
+Quid enim hoc esse putatis, quod de rerum
+veritate tam diversa sentire solent homines?
+<pb n="0846C"/>
+Nunquid nomina est veritas? Ecce (ut interim de
+<pb n="0846D"/>
+Deo taceamus) quid est quod dialectica tot diversas
+et tam adversas, ne dicam perversas habet sententias?
+Nunquid omnes noverunt unum id quod est,
+sed amore fallendi diversa finxerunt? Non sic ego
+puto. Sed narrant quinque somnia sua, et ea qua
+primum ipsi in se opinione decepti sunt postmodum
+alios nescientes seducunt. Et sicut beatus Job amicis
+suis arrogantibus et de se plusquam oportebat
+praesumentibus dicit <note>(Job XII)</note>, jam non solum secundum
+morituram, sed exortam quoque a se sapientiam
+putant. Dignum ergo est ut idipsum in
+nostra nos assertione reddat timidos, quod in unius
+assertione veritatis tot jam videmus esse diversos.
+Quia enim de longe veritas videtur, diversa judicia
+parit; et tantum de ipsa quisque potest, quantum
+<pb n="0847A"/>
+ipse est. In nobis quippe quod de rerum cognitione
+percipimus, et eo modo, cordis intellectus de iis quae
+extra sunt ad veritatem indicant, quo se interius
+animus in repraesentatione figurat. Unde necesse
+est, ut dum mens interius corrupta prave afficitur,
+intellectus quoque in judicio eorum quae foris sunt,
+decipiatur. Haec ipsa est causa quae etiam aliquando
+in unitate sensuum controversiam verborum generare
+solet, quae tamen tunc magis venialis fit, cum
+pertinax non fuerit. Hanc igitur nos qui verbi Dei
+tractatores et inquisitores veritatis esse videmur, si
+inter nos forte (ut assolet) aliquando invenerimus
+citius in idipsum redeamus, ne, si coeperimus nostra
+dicta pertinaciter defendere, aliud putemur sapuisse.
+Illud quod de anima Christi charitas vestra
+<pb n="0847B"/>
+a me quaerere dignata est, jam pridem inter quosdam
+sapientes ventilatum fuisse didici, atque ex
+illis quid senserint quibus magis credendum esse
+existimamus, tum aliis de ipsis, tum ipsis de se referentibus
+agnovi. Ego autem cum saepius hac quaestione
+pulsari soleam, talem me esse profiteor qui
+nollem hinc aliquid ab omnibus vel tam curiose ac
+superstitiose inquiri, vel tam fidenter asseri. Unde
+nunc quoque gemina in hac re consideratione coarctor,
+cum videam me et prudentiae tuae debere silentium,
+et bonitati responsum. Inter haec ipsa etiam
+rei difficultas occurrit, quae fortassis non poterit a
+me ita ut decet compendiose discuti, cum ego si
+modum in dicendo transiero timeam superstitiosus
+videri. Volo tamen et multo magis volo aliqua in
+<pb n="0847C"/>
+parte inscitiae argui, quam charitatis contemptor
+videri, et verba incompta habere, quam cor perversum</p>
+</div1>
+
+<div1>
+        <head>SEQUITUR <hi>Decisio quaestionis de anima Christi, utrum aequalem cum divinitate scientiam habuerit.</hi> </head>
+<p>Quaeris de anima Christi, id est de illo rationali
+spiritu, qui humanam in Christo homine carnem
+vegetavit, quem Verbum cum carne et in carne ipsa
+sibi in unitatem personae univit, ut esset Christus
+unus in una persona, duabus naturis, tribus essentiis:
+una videlicet persona; quia idem homo, propter
+quem suscepit, et Deus; propter quod fuit
+duabus naturis, divina scilicet atque humana, in
+Deo et homine uno, non unis; tribus essentiis, divinitate,
+<pb n="0847D"/>
+carne, et anima; sine separatione discretis,
+sine confusione sociatis. De illa inquam anima, qua
+mediante <hi>Verbum caro factum est, et habitavit in
+nobis <note>(Joan. I)</note>
+          </hi>; quaeritis utrum aequalem cum divinitate
+scientiam habuerit. Adjicitis etiam, quod si
+illa anima quae, quamvis creatrici naturae ineffabiliter
+unita fuerat, indubitanter tamen creatura erat,
+aequalem cum divinitate scientiam habuerit, tunc nimirum
+creatura Creatori aequalis fuit: non posse autem
+Creatori facturam suam in aequalitate comparabilem
+fieri, etsi potuerit in consortium unitatis assumi.
+Longe aliud esse uniri dignatione et comparari majestate.
+Multa sunt alia quae in hunc modum fortasse
+absurda, ostendere potuisti. Sed ego sic una tecum
+falsa refellere cupio, sicut vera profiteri. Quomodo
+<pb n="0848A"/>
+enim Deus immensus esset, si ad ejus aequalitatem
+aliqua quamlibet excellens, quamlibet singularis
+creatura pertingeret? <hi>Magnus,</hi> inquit Psalmista, <hi>Dominus
+est, et magna virtus ejus; et sapientiae ejus
+non est numerus <note>(Psal. CXLVI)</note>
+          </hi>. Et Salomon: <hi>Non
+est sapientia, non est prudentia, non est consilium
+contra Deum <note>(Prov. XXI)</note>
+          </hi>. Ubi quantum non est,
+tantum dici quod potest? Portio quaeritur ubi numerus
+non invenitur. Sapientiae ejus non est numerus.
+Quid igitur dico? Anima Christi aut creatura
+non fuit, aut Creatori aequari non potuit. Imo vero
+quia creatura est, Creatori non dico aequanda, sed
+plus audeo dicere, etiam comparanda non est. Ergo
+dicitis, minorem habuit sapientiam quam verbum?
+Sed quaeso quid dicimus, cum animam sapientem
+<pb n="0848B"/>
+dicimus? Nunquid non sapientia sapientem dicimus?
+Quis enim sapiens est, si sapientia sapiens non est?
+Et tamen aliter sapiens est in quo sapientia est,
+aliter sapiens est qui sapientia est. Creatura sapiens
+est, quia in ipsa sapientia est. Creator vero sapiens
+est, quia ipse sapientia est. Nullus tamen sine sapentia
+sapiens esse potest, sive ea quam habet,
+sive ea quae ipse est. Anima igitur Christi si sapiens
+est, imo quia est, aut illa procul dubio sapientia sapiens
+est, quam habet, aut illa quae ipsa est? Creatura
+autem, etsi participatione sapientiae sapiens est,
+ipsa tamen sapientia esse non potest. Quae igitur
+est illa sapientia, qua anima Christi sapiens est? Quid
+dicit Joannes de Verbo? <hi>Erat,</hi> inquit, <hi>lux vera, quae
+illuminat omnem hominem venientem in hunc mundum</hi> 
+<pb n="0848C"/> <note>(Joan. I)</note>.
+Quid est Verbum nisi sapientia? Idem
+enim qui Verbum Dei a Joanne dicitur, ipse sapientia
+Dei a Paulo nominatur. <hi>Christum</hi> enim, inquit
+Paulus apostolus, <hi>Dei virtutem et Dei sapientiam <note>(I Cor. I)</note>
+          </hi>.
+Christus igitur ipse et Verbum, et ipse
+est sapientia. Verbum sapientia, et sapientia Verbum.
+Verbum sapientia, quia, <hi>Eructavit cor meum verbum
+bonum <note>(Psal. XLIV)</note>
+          </hi>. Sapientia verbum quia, <hi>Ego sapientia
+ex ore Altissimi prodii, primogenita ante omnem
+creaturam <note>(Eccli., XXIV)</note>
+          </hi>. Sapientia igitur verbum
+cordis et verbum sapientiae oris, quia dum verbum
+ex corde et sapientia ex ore prodire dicitur, idem
+esse sapientia et verbum demonstratur. Itaque si
+verbum illuminat, sapientia illuminat; quia nec illuminare
+<pb n="0848D"/>
+verbum poterat, si sapientia non erat. Quid
+enim facit verbum sine sapientia? Verbum sonat,
+sapientia illuminat. Nam et ipsa sapientia lux est,
+et Deus lux est, quia Deus sapientia est; et cum
+Deus illuminat, sapientia illuminat, et luce illuminat;
+nec alia luce illuminat, sed ea luce quae ipsa
+est; quia lux est, et verbum lux est, et sapientia
+lux est; quia verbum sapientia est, et sapientia
+Deus est. Erat, inquit, lux vera quae illuminat omnem
+hominem venientem in hunc mundum. Quid
+igitur? Malos illuminat lux ista, et malos Deus illuminat?
+Quomodo ergo caeci sunt? Audi quid sequitur: <hi>Et lux in tenebris lucet, et tenebrae eam non
+comprehenderunt 
+ <note>(Joan. I)</note>
+          </hi>. Quid est, lux in tenebris
+lucet? Et quid tenebrae faciunt si lux ibi est? Et
+<pb n="0849A"/>
+tenebrae eam non comprehendunt. Tamen ipsa lux
+lucet et illuminat, sed non omnes eam vident qui
+vident per eam. Lux lucet, et per se sciamus quod
+per se lucet, et ex se illuminat. Lucet: lucet per se,
+et illuminat ex se. Nam ut erat, inquit, lux vera
+quae illuminat omnem hominem venientem in hunc
+mundum. Joannes lux erat; quia <hi>vos estis lux mundi <note>(Matth. V)</note>
+          </hi>,
+sed vera lux non erat; quia <hi>lucerna</hi> erat <hi>ardens et lucens 
+ <note>(Joan. V)</note>
+          </hi>; nec per semetipsam lucens,
+et ex semetipsa illuminans, ut lux quae illuminat
+omnem hominem venientem in hunc mundum.
+Quos dixit? Bonos non dixit, nec spiritales;
+sed omnem hominem venientem in hunc mundum.
+Unus est enim sol, et omnis oculus per eum irradiatur,
+sed non omnes qui per eum vident agnoscunt
+<pb n="0849B"/>
+eum. Similiter lux vera, quae illuminat omnem hominem
+venientem in hunc mundum, cunctis superfunditur,
+in omnes clarescit, universos illustrat; sed
+alius per eam videt, alius eam videt. Mali illuminantur
+ut caetera videant; ipsum per quem vident,
+non videant, quia lux in tenebris lucet, et tenebrae
+eam non comprehenderunt. Boni vero illuminantur,
+ut eum videant a quo, et per quem vident, ut ad
+eum referant, et in eo ament omne quod vident, et
+eum ament super omne quod vident. Omnes ergo
+per eum illuminantur qui vident, sed excellentius
+qui eum vident. Per eum illuminantur qui vident,
+et ex eo illuminantur, quia ipse est lux a quo illuminatur.
+Unde autem lux illuminaret, si ex semetipsa
+<pb n="0849C"/>
+non illuminaret? Unde illuminaret, si id quod ipsa
+est participandum non praeberet? Sed forte timendum
+est, ne polluatur ab immundo, ne obscuretur a
+tenebroso; et indignum sit ut profanis sanctum
+coinquinatis impollutum, errantibus verum communicabile
+dicatur. Superfluo ista cogitantur, quia
+lux quae in tenebris lucet, sicut non obscuratur a
+tenebroso, sic non corrumpitur a contaminato, in
+tenebris clara, et inter sordes incoinquinata perseverans.
+Nam, cum omnia in ipsa et in omnibus ipsa
+sit, ei tamen universae creaturae nec turpitudo turpis
+est, nec malitia nocet, nec error errat. Lucet
+ergo et illuminat, nec per aliud, nec ex alio; sed hoc
+quod ipsa est, et quo ipsa lucet omnibus illuminandis
+communicandum praebet, et totum ipsa possidet.
+<pb n="0849D"/>
+Audite iterum: <hi>Dominus,</hi> inquit Scriptura, <hi>dat sapientiam <note>(Dan. II)</note>
+          </hi>.
+Quam sapientiam forte aliquod
+accidens dat quo nos afficimur, ut sapientes efficiamur.</p>
+<p>Quid enim est sapientia? Nonne accidens? Dat
+ergo Dominus sapientiam. Quam sapientiam? <hi>Omnis
+sapientia a Domino Deo est <note>(Eccli. I)</note>
+          </hi>. Bene
+quia omnia accidentia a Domino Deo sunt a
+quo sunt omnia quae sunt. An forte quoddam
+accidens a Deo non est, quia peccatum ab ipso
+non est? Omnis tamen sapientia a Deo est. Quomodo
+ab ipso est? Forte quia donum ejus ab
+ipso est; quia factura ejus est, ab ipso est; et
+omnis substantia ab ipso est? Quid magnum? quid
+novum? quid mirum dictum est? Omnis sapientia a
+<pb n="0850A"/>
+Domino Deo est; si accidens quoddam ab ipso est a
+quo omnis substantia est? Quomodo ergo omnis sapientia
+a Domino Deo est? Aut quia opus ejus, aut
+quia donum ejus? Si sapientia creatura est, stultitia
+quid est? Creavit Deus sapientiam, et non
+creavit stultitiam? Ergo quaedam accidentia Deus
+creavit, alia esse habent, et ab ipso non habent.
+Quis hoc aut dicere praesumat, aut dictum approbet,
+quod aliquid esse habet et a Deo non habet? Quid
+dicimus? Deus ergo accidentia non creavit; et alter
+quidam est Creator sapientiae, Deus dator? Ergo
+dare sapientiam Deus potuit, creare non potuit?
+Ergo aliunde accepit quod dedit, et dedit quod suum
+non fuit, et accipere potuit quod non habuerit. Quis
+hoc dicat? Quis sani capitis hoc vel in cogitationem
+<pb n="0850B"/>
+suam admittat? Qualiter ergo omnis sapientia a Domino
+Deo est? Sive quia donum ejus est, sive quia
+factura ejus? Nam si factura est, non semper est,
+quia quod aliquando coepit, non semper esse habuit.
+Quid ergo ait? Omnis, inquit, sapientia a Domino
+Deo est; <hi>et cum illo fuit semper, et est ante aevum <note>(ibid.)</note>
+          </hi>.
+Mirum est: ergo accidentia semper cum Deo
+fuerunt; et si accidentia semper cum Deo fuerunt,
+substantiae non fuerunt. An omnis sapientia a Deo
+est, et non omnis sapientia cum Deo est? Absit. Sed
+omnis sapientia ab illo est, et omnis sapientia in
+illo est, et omnis sapientia cum illo est, et semper
+est. Et quid facimus de sapientia quae accidens est?
+Nunquid non ipsa semper cum Deo est? Quomodo
+ergo Omnis sapientia a Domino Deo est, et cum illo
+<pb n="0850C"/>
+fuit semper, et est ante aevum? Quid ergo de illa
+facimus? Excludamus ab adyto sapientiae insipientiae
+figmenta et phantasias, has nescio quales et somnia
+vana, quae nobis vere accidentia sunt, quia nobiscum
+creata non fuerunt. Agnoscamus veram sapientiam,
+qua sapimus, quicunque sapimus, quidquid
+sapimus, etiam si eam non sapimus. Ad lucem
+lucentem in tenebris attendamus, ne tenebrae simus;
+quia lux in tenebris lucet, et tenebrae eam non comprehenderunt.
+Et tenebrae, inquit, eam non comprehenderunt;
+imo potius non deprehenderunt. Quomodo
+enim incomprehensibilem comprehendere
+potuissent? Et tenebrae eam non comprehenderunt.</p>
+<p>Lux ergo quid fecit? Lux lucem comprehendit.
+<pb n="0850D"/>
+Et quae est ista lux? Utique si lux lucem comprehendit,
+lucem comprehenderunt, qui a luce lux facti
+sunt. Lucem comprehenderunt, qui a luce illuminati
+sunt. Lucem comprehenderunt, qui eam lucem super
+se in se susceperunt. Comprehenderunt similitudine,
+non comprehenderunt aequalitate. Hoc est ergo unum
+et verum lumen omnium spirituum rationalium,
+praecipue sanctorum, quod illuminat omnem hominem
+venientem in hunc mundum. Quod sine diminutione
+sui ab omnibus participatur; et cum idem
+sit in omnibus, non tamen ab omnibus eodem modo
+percipitur. Ipsum enim quidquid est, totum est, et
+ubique totum est; nec minus aut majus in eo est,
+et tamen secundum participationis differentiam minus
+et magis de illo percipiunt omnes, qui secundum
+<pb n="0851A"/>
+conditionem suam aut donum gratiae largitoris
+minus ac magis hujus ejusdem communicationis ac
+participationis capaces sunt. Participatio igitur alias
+major, alias minor est. Participatus autem non alias
+major aut minor; sed idem ipse totus ac plenus, et
+perfectus ubique est. Cum igitur animas sapientes
+dicimus, et sapientia sapientes dicimus, istam sapientiam
+cogitemus, et ipsam solam esse credamus
+qua sapiunt, quaecunque rationales mentes vim intelligendi
+atque discernendi perceperunt. <hi>Haec est,</hi> 
+inquit, <hi>vita aeterna, ut cognoscant te solum Deum; et
+quem misisti Jesum Christum <note>(Joan. XVII)</note>
+          </hi>. Cognitio
+itaque Dei vita aeterna est, et quid est cognitio Dei?
+nunquid accidens? Ergo amor Dei accidens est, et
+beatitudo accidens est, et in accidentibus est beatitudo
+<pb n="0851B"/>
+nostra. Quare non magis Deus sit beatitudo
+nostra? Ipse est sapientia qua cognoscimus, ipse
+amor quo diligimus, ipse gaudium quo exsultamus.
+Ergo una sapientia est qua omnes sapiunt, nec tamen
+uno modo sapiunt, quia participando sapiunt.
+Quod si omnes hac sapientia sapiunt quicunque sapiunt,
+multo magis hac sapientia sapit illa anima,
+quae ipsi sapientiae unita fuit. Quae non sorte participationis
+ex illa viguit, sed privilegio unitatis plenitudinem
+possedit. Quid enim de sapientia minus
+habere poterat, cui ipsa plenitudo sapientiae incorporata
+erat? <hi>In quo,</hi> ait, <hi>inhabitat omnis plenitudo
+divinitatis corporaliter <note>(Coloss. II)</note>
+          </hi>. De quo hoc dixit,
+nonne de Christo? Quomodo ergo in Christo habitat
+omnis plenitudo divinitatis? Tres essentiae sunt in
+<pb n="0851C"/>
+Christo. Caro, anima, divinitas. Quid ergo habitat
+in quo? an divinitas in divinitate, an divinitas in
+anima, an divinitas in carne? Sed quid est, divinitas
+habitat in divinitate? Nunquid hoc aut congruum
+erat dicere, aut necessarium audire? Ergo in humanitate
+Christi habitat plenitudo divinitatis Christi.
+Quod si plenitudo divinitatis Christi, ergo et plenitudo
+sapientiae Dei. Quid enim est divinitas Christi
+nisi sapientia Dei? Ergo plenitudo sapientiae Dei
+habitat in humanitate Christi. Ubi? in carne an in
+anima, an simul in carne et in anima? an in carne
+per carnem? in carne ergo sapientia habitaret, et
+non habitaret in anima. Absit! Sedes sapientiae
+anima justi, et domus sapientiae anima Christi. Et
+<pb n="0851D"/>
+quid dixi, Domus sapientiae anima Christi? Amplius
+dicere debui, si amplius dicere potui; quia enim sapientia
+in ea habitat, ideo domum dixi, sed quia
+corporaliter habitat, ideo amplius dicere debui. Quid
+est corporaliter habitat? Unum facta est cum illa in
+qua habitat, et per illam unum etiam cum illo in
+quo illa habitat. Quomodo unum? Non versibilitate
+naturae, sed unitate personae; una persona, non una
+essentia. Ergo incorporata est divinitas habitaculo
+suo, cui plenitudinem infundit, veritatem sociavit.</p>
+<p> <hi>Sapientia aedificavit sibi domum, excidit columnas
+septem <note>(Prov. IX)</note>
+          </hi>. Quales? <hi>Requiescet super eum
+Spiritus Domini, spiritus sapientiae et intellectus,
+spiritus consilii et fortitudinis, spiritus scientiae et
+<pb n="0852A"/>
+pietatis; et replebit eum spiritus timoris Domini <note>(Isa.
+XI)</note>
+          </hi>. Ecce columnae septem in domo sapientiae. Excidit
+columnas septem. Unde excidit? De monte
+excidit; de quo monte? De monte umbroso et condenso.
+De quo monte? Divinae majestatis excidit
+columnas septem. Excidit, sed non abscidit. Accepit,
+sed non abstulit. Columnas de monte excisas
+in aedificium domus posuit, et tamen montem non
+minuit. Et quid mirum, si sapientia ad fabricandam
+domum suam columnas erexit de monte excisas
+et a monte non separatas, quae ad habitandam
+domum venit; et tamen unde venerat ibi permansit?
+Sapientia ergo aedificavit sibi domum.
+Qualem domum? De qua dictum est: In quo habitat
+omnis plenitudo divinitatis corporaliter. Et iterum:
+<pb n="0852B"/> <hi>In Christo complacuit omnem plenitudinem divinitatis
+inhabitare, et per eum reconciliari omnia, in
+ipsum pacificans per sanguinem crucis ejus; sive quae
+in terris, sive quae in coelis sunt 
+ <note>(Coloss. I)</note>
+          </hi>. Videte
+quid facimus? Apostolus testatur plenitudinem ibi
+esse; et nos dicimus quod tota sapientia non est in
+domo sua. Ergo dimidia intus habitat, et dimidia
+foris. Et ubi quaeretur, si domi non invenitur? In
+quo habitat omnis plenitudo divinitatis corporaliter.
+Ubi plenitudo est nihil deest, ubi nihil deest
+totum est. Sed forte plenitudo divinitatis ibi est, et
+plenitudo sapientiae non est.</p>
+<p>Verum dicit: <hi>In quo sunt omnes thesauri sapientiae
+et scientiae absconditi <note>(Coloss. II)</note>
+          </hi>. Sed dicitis bene.
+Omnes thesauri sapientiae et scientiae ibi sunt; sed
+<pb n="0852C"/>
+Omnes thesauri sapientiae et scientiae ibi sunt; sed
+absconditi sunt. Portat et non videt. Absit autem
+ab intellectu nostro, ut sic sentiamus. Sed absconditi
+sunt, non ut ab eo abscondantur; sed ne in eo
+ab impiis videantur. Absconditi sunt, ut tempore
+opportuno proferantur. Absconditi sunt et reconditi
+sunt. Absconditi, ne per eum indignis aperiantur.
+Reconditi, ut in eo digne custodiantur. Reconditi
+sunt, ne offuscentur aliqua rubigine peccatorum, ne
+polluantur aliqua sorde criminum aut contagione
+vitiorum. Reconditi sunt velut in vase sincero, velut
+in habitaculo mundo, ne forte quis valeat eis maculam
+ingerere, et tunc incipiat opprobrium sustinere. <hi>Apprehendent septem mulieres virum unum in
+die illa dicentes: Panem nostrum comedemus, et vestimentis
+<pb n="0852D"/>
+nostris operiemur, tantummodo invocetur nomen
+tuum super nos; aufer opprobrium nostrum <note>(Isa. IV)</note>
+          </hi>.
+Ergo reconditi in eo sunt, sed absconditi
+ab eo non sunt. <hi>Deum,</hi> inquit, <hi>nemo vidit unquam.
+Unigenitus Filius qui est in sinu Patris, ipse enarravit <note>(I Joan. IV; Joan. I)</note>
+          </hi>;
+si enarravit, et vidit. Unde hoc
+probamus? <hi>Qui de terra est, de terra loquitur; qui de
+coelo venit, super omnes est; et quod vidit et audivit
+hoc testatur <note>(Joan. III)</note>
+          </hi>. Ergo vidit. In quo vidit? in
+divinitate an in humanitate? Forte in divinitate
+vidit, in humanitate enarravit. Illi ergo qui audierunt
+in quo viderunt? Aut si non viderunt, quare audierunt?
+Vidit ergo in divinitate, vidit et in humanitate,
+tamen ex divinitate sunt? et illi quae audierunt
+non nisi ex illustratione divini luminis videre
+<pb n="0853A"/>
+potuerunt. Erat igitur plenitudo divinitatis in anima
+Christi; erat et plenitudo sapientiae in anima Christi;
+et ex plenitudine sapientiae plene sapiens erat
+anima Christi. Ergo, inquiunt, tantam sapientiam
+habet anima Christi, quantum Deus habet. Quid
+facit comparatio? ubi unus solus est? Una est sapientia
+Dei, qua sapiens est anima Christi, nec participando
+sapiens est, ut hoc vel illud in illa, et per
+illam sapiat, sed plenitudinem habendo, ut totum
+possideat. Non ergo dicamus tanta aut quanta; sed
+dicamus tota sapientia Dei in anima Christi est,
+et ex tota sapientia Dei anima Christi sapiens est;
+nec tamen aequalis Deo anima Christi est, quia sapientia
+Dei non est. Porro longe aliud est sapientia
+sapere, et aliud sapientiam esse, quia qui sapientia
+<pb n="0853B"/>
+sapit, quod habet aliunde accepit; qui sapientia est,
+ex semetipso habet quod sapit. Illic gratia, hic natura;
+et idem illic gratia, quod hic natura; nec
+tamen illic gratia naturam ad immensitatem commutat;
+nec hic natura ad mensuram gratiam coarctat.
+Qui ergo audet dicere plenitudinem sapientiae
+non fuisse in anima Christi, dicat plene sapientem
+non fuisse animam Christi. Tota igitur sapientia
+Dei erat in anima Christi, quia tota sapientia Dei
+unita erat et corporata animae Christi, nec tamen
+aequalis Deo erat anima Christi. Non enim naturae
+comparari poterat, quamvis sine mensura gratiam
+acceperat, quia cum immensa gratia erat passibilis
+natura.</p>
+<p>Nam, illud quod intulistis, quod si haberet aequalem
+<pb n="0853C"/>
+cum Deo scientiam, etiam beatitudinem aequalem
+haberet, quomodo sibi non cohaereat, in praesenti
+nil attinet dicere, quia aequalitatem comparationis
+tollimus, ubi singularitatem unitatis demonstramus.
+Et longe aliud est idem habere, et idem
+esse, quia habere pertinet ad gratiam, esse pertinet
+ad naturam. Sed esto multitudo sapientiarum sive
+scientiarum comparationem admittat; nunquid
+aequalem beatitudinem facit aequalis sapientia? Ergo
+et major majorem, et minorem minor; et daemones
+tanto hominibus beatiores sunt, quanto eos scientia
+antecedunt. Et quid de charitate dicam? <hi>Scientia
+inflat, charitas aedificat <note>(I Cor. VIII)</note>
+          </hi>. Non ergo quicunque
+amplius sapiunt, statim de majori dilectione
+<pb n="0853D"/>
+praesumere possunt; quia longe aliud est videre, et
+aliud est diligere. <hi>Nunc,</hi> inquit, <hi>et viderunt, et oderunt
+et me et Patrem meum <note>(Joan. XV)</note>
+          </hi>. Nihil tamen
+hic interest, utrum aequalem notitiam cujuscunque
+rei aequalis amor comitetur, quia ubi una est sapientia,
+sicut non potest esse comparatio, ita nec
+aequalitas diversorum. Postea adjecistis et dixistis:
+Cum sapientia sit magnum et spirituale bonum,
+tunc si anima Christi aequalem habet cum Deo sapientiam,
+falsum erit Deum in omni bono majorem
+habere sufficientiam, quam ejus creaturam. Et deinceps:
+Sicut non potest creatura aequali Creatori,
+ita nec bonum unius bono alterius. Sed hoc bene
+et veraciter ibi dicitur. Ubi creaturae bonum aliud
+atque diversum a bono Creatoris invenitur? Ubi
+<pb n="0854A"/>
+vero unum et idem ipsum est, majus ac minus esse
+quod potest? Quod est enim verum bonum creaturae
+praecipue rationalis aliud praeter Deum? Aut quod
+est bonum Dei aliud praeter ipsum? Si ergo verum
+et unicum bonum est creaturae, Deus est; et bonum
+Dei aliud praeter ipsum esse non potest. Nunquid
+idcirco Deus minor aut major seipso est, quia creaturae
+suae pariter et suum bonum ipse est? Cesset
+ergo tandem tam crebra repetitio comparationis,
+ubi singularitas est unitatis. Deinde ad comprobandam
+propositam assertionem adduxistis verba Apostoli,
+quibus astruere putatis minorem Deo sapientiam
+habuisse animam Christi. Dicit enim: <hi>Quis
+enim scit hominum quae sunt hominis, nisi spiritus
+hominis qui est in homine; ita et quae Dei sunt, nemo
+<pb n="0854B"/>
+cognovit nisi Spiritus Dei <note>(I Cor. II)</note>
+          </hi>. Ergo, ut videtur,
+non cognovit anima Christi; si nemo cognovit
+nisi Spiritus Dei. Nisi forte quis nobis respondere
+velit, et Christi animam fuisse Spiritum Dei? Quae
+tamen sunt ista Dei quae nemo cognovit nisi Spiritus
+Dei? Quae nisi illa de quibus ibidem dicitur: <hi>Deus,
+non vidit oculus absque te, quae praeparasti bona diligentibus
+te <note>(Isa. LXIV)</note>
+          </hi>. Quia <hi>nec oculus vidit, nec
+auris audivit, nec in cor hominis ascendit <note>(I Cor.
+II)</note>
+          </hi>, etc. Ista ergo nemo novit nisi Spiritus Dei; et
+quid est quod sequitur: <hi>Nobis autem revelavit Deus
+per Spiritum</hi> sanctum? Quem Spiritum? Subdit: <hi>Nos autem non spiritum hujus mundi accepimus,
+sed Spiritum</hi> 
+ Christi, <hi>ut sciamus quae a Deo donata
+sunt nobis <note>(ibid.)</note>
+          </hi>. Ergo ut Spiritus Dei Spiritus est
+<pb n="0854C"/>
+Christi, et illi etiam noverunt quibus ea per Spiritum
+revelata sunt. Ergo anima Christi multo magis
+haec novit, et plene ac perfecte novit, quae ipsius
+Spiritus plenitudinem accepit. <hi>Non,</hi> enim inquit, <hi>ad
+mensuram Deus dat Spiritum <note>(Joan. III)</note>
+          </hi>. <hi>Et vidimus
+gloriam ejus, gloriam quasi unigeniti a Patre, plenum
+gratiae et veritatis <note>(Joan. I)</note>
+          </hi>. Nos etiam quicunque
+haec noscere meremur, et quantumcunque noscere
+meremur, de ejus plenitudine, non plenitudinem,
+sed gratiae portionem accipimus. <hi>Pater,</hi> inquit, <hi>manifestavi,</hi> 
+seu revelavi <hi>nomen tuum hominibus quos
+dedisti mihi <note>(Joan. XVII)</note>
+          </hi>. Quid est revelatio hominis,
+nisi aspiratio cognitionis? Ergo ipse aliis nomen
+revelavit, cujus ipse cognitionem non habuit? Absit!
+<pb n="0854D"/>
+Rursum: <hi>Cum autem venerit Spiritus ille veritatis,
+quem ego mittam vobis, docebit vos omnem veritatem <note>(Joan. XVI)</note>
+          </hi>.
+Quare prius ipse ab illo Spiritu veritatis
+omnem veritatem magister non didicit, quem ad
+docendam omnem veritatem discipulis misit? Sed
+misit Spiritum, et Spiritum non amisit; cujus charismata
+hominibus fidelibus prout voluit distribuit,
+et plenitudinem ipse retinuit. Aliis eum infundit,
+sed eum a se non effudit; alios replens, se non evacuans;
+se non minuens, et alios ditans. Ergo quod
+Spiritus Dei novit, et anima Christi per Spiritum
+Dei novit, et plene novit, quia Spiritus Dei plenitudinem
+habuit.</p>
+<p>Postremo quaedam verba beati Ambrosii in
+medium adducitis, et ne assertioni vestrae contraire
+<pb n="0855A"/>
+videantur qualiter intelligenda sive determinanda
+sint demonstratis. Dicit enim  « animam
+Christi omnia habere per gratiam, quae Deus habet
+per naturam. »  Quibus verbis (fere) adjungendum
+esse putatis, ne si forte sine temperamento
+isto omnia prorsus quae deitatis sunt, eam habere
+dixerimus, creaturae quae initium habuit aeternitatem,
+et quae termimum habet immensitatem,
+et quae mutabilitatem habuit, atque passibilitati
+subjacere potuit, incommutabilitatem et
+caetera quae soli divinae naturae competere noscuntur,
+tribuere videamur. Sed haec determinatio, quamvis
+non omnino refutanda videatur, est tamen multo
+competentior et commodior expositio ad quam sententia
+haec accommodari possit. Anima namque Christi
+<pb n="0855B"/>
+idcirco omnia habere dicitur per gratiam, quae Deus
+habet per naturam, quia plenitudo deitatis in Verbo
+ei unita est, ex tempore per gratiam, quae in Deo
+ex aeternitate fuit per naturam. Hoc ista ex tempore
+habet, quia accepit, quod ille ex aeternitate habuit,
+quia fuit. Accepit non ut in ejus quod accepit naturam,
+mutata transiret; sed ut in ejus consortium sublimata
+ascenderet. Ista accepit quod non habuit;
+ille nec accipere potuit quod non habuit, nec desiit
+esse quod fuit. Quid ergo accepit anima Christi?
+Plenitudinem deitatis, plenitudinem sapientiae, plenitudinem
+virtutis. Totum quod Deus est accepit.
+Quomodo accepit? Non versibilitate naturae, sed
+firmitate personae. Accepit non quia in illud essentialiter
+mutata est, sed quia ineffabiliter illi unita
+<pb n="0855C"/>
+est. Accepit non ut illud essentialiter fieret, sed ut
+cum illo personaliter unum esset. Totum tamen accepit,
+et totum habet quod ille non accepit et habet.
+Ergo anima Christi aeternitatem habet, si totum habet
+quod Deus habet? Quidni? Ecce dicatur. Licet
+in omnibus necessarium non sit verborum usum ad
+ejusmodi admittere; immensitatem habet, aeternitatem
+habet; habet omnia per gratiam, quae Deus
+habet per naturam. Quomodo habet? forte quia dicimus
+aeternitatem habet, quia dicimus immensitatem
+habet, hoc cogitemus, ut principio careat quod esse
+coepit; interminabile sit, quod circumscriptionem
+recepit. Nunquid etiam quia Deum habet ut Deus
+sit? Aut quia non est, ideo non habet? Quomodo tamen
+habet? Sed habet personaliter unita, non naturaliter
+<pb n="0855D"/>
+insita; habet totum, non quod creatura
+aeterna aut immensa esse possit, sed quod aeterno et
+immenso unita sit. Quid enim est aeternitas aut immensitas?
+Nunquid accidens? Ergo aeternitas et immensitas
+Dei accidentia sunt? Absit! cum ergo dicitur
+Deus, hoc habet per naturam, intelligitur quod
+Deus hoc est. Cum vero dicitur, anima Christi hoc
+habet per gratiam, intelligitur quod illi unita est.
+Ergo totum anima Christi hoc habet per gratiam
+<pb n="0856A"/>
+quod Deus est per naturam. Nec tamen inde sequitur,
+quod Creatori opus suum aequale sit; quia cum
+immensitatem gratiae acciperet, conditionem naturae
+non amisit. Accepit quod non habuit, sed non desiit
+esse quod fuit. Accepit plenitudinem sapientiae, in
+qua et per quam plene ac perfecte sapiens esset;
+non tamen accepit ut sapientia esset. Et quid necesse
+est singula persequi? Breviter vobis quid mihi
+in hac re sentiendum esse videtur, ostendam. Plenam
+ac perfectam, et totam Dei sapientiam in anima
+Christi fuisse credimus; et ex ipsa sapientia eamdem
+animam plene ac perfecte sapientem non ex ipsa
+participando, sed totam possidendo, quam singulariter
+concepit, et ineffabiliter comprehendit? Quare
+ineffabiliter comprehendit? quia secundum plenitudinem
+<pb n="0856B"/>
+accepit. Joannes <hi>lucerna</hi> erat <hi>ardens, et lucens <note>(Joan.
+V)</note>
+          </hi>; hic lucem comprehenderat, quia tenebrae non
+erat. Sed quia ex parte comprehenderat, propterea ineffabilem
+illam in Christo comprehensionem comprehendere
+non poterat, sed ait: <hi>Cujus non sum dignus ut
+solvam corrigiam calceamenti</hi> ejus <note>(Joan. I)</note>. Ergo Joannes
+corrigiam Christi solvere non potuit. In illo
+enim erat de plenitudine accipere; supra illum plenitudinem
+comprehendere. Hoc itaque quod noverat
+dicere potuit, quod non conceperat credere elegit,
+discutere non praesumpsit. Noluit igitur ille unionem
+solvere, ne nos praesumatur unitati comparare.
+Quid vobis videtur? Nonne illi corrigiam incarnati
+Verbi solvere volunt, qui unitatem ineffabilis sacramenti
+differentia comparationis dividunt? Anima
+<pb n="0856C"/>
+igitur Joannis de plenitudine accepit, anima Christi
+plenitudinem comprehendit. Comprehendit dico non
+in aequalitate naturae, sed plenitudine gratiae et unitatis
+proprietate. Ecce dixi postulanti quod et jubenti
+debueram, quod magis in hac assertione approbandum
+putavi. Sed in rebus dubiis si manifesta
+auctoritate non valeo, ab aliis quidem sic accipi
+volo, ut quaerentem me adjuvent, invenientem non
+refutent. Quicunque autem in eo persistunt, ut hoc
+asserere contendant, quod alia fuerit illa sapientia,
+qua anima Christi sapiens exstitit; alia quae animae
+Christi unita fuit; ego nemini praejudicium facere
+volo; videant ipsi quo sensu hoc asserant, ne forte
+carnalis sit, magis sua quam vera pronuntians. Hoc
+<pb n="0856D"/>
+unum ego indubitanter affirmo, quod aut alia sapientia
+praeter divinam in anima Christi non fuit,
+aut si alia fuit, qualis illi non fuit. Hoc credenti qui
+non credit, non bene credit. Ad caetera ego non
+cogo, sed suadeo; in his qui mihi credit, mecum
+credit, qui mihi non credit, sibi credat, donec veniat
+ubi mecum credat. Sic tamen ut interim unusquisque
+in suo sensu humiliter abundare studeat,
+non arroganter praesumere. Vale.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

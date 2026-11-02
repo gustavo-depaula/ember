@@ -1,0 +1,552 @@
+{
+  "id": "hugh-opuscula-spiritualia",
+  "cover": "classic",
+  "name": {
+    "la": "Opuscula spiritualia et theologica",
+    "en-US": "Spiritual and Theological Opuscula",
+    "pt-BR": "Opúsculos espirituais e teológicos"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Hugonis opuscula minora: de laude charitatis, de amore sponsi ad sponsam, de modo orandi, de quinque septenis, de artificio meditandi, de voluntate Dei, de sapientia animae Christi, de virginitate Mariae, Magnificat, Decalogus, epistolae.",
+    "en-US": "Hugh’s shorter works in one book: In Praise of Charity, On the Bridegroom’s Love for the Bride, On the Way of Praying, On the Five Sevens, On the Art of Meditating, on the will and wisdom of Christ, On the Virginity of Mary, the commentary on the Magnificat, On the Fruits of the Flesh and of the Spirit (PL, of doubtful authorship), the Commandments and the letters. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "Os opúsculos menores de Hugo num só livro: louvor da caridade, o amor do esposo pela esposa, o modo de rezar, os cinco setenários, a arte de meditar, a vontade e a sabedoria de Cristo, a virgindade de Maria, o Magnificat, os mandamentos e as cartas."
+  },
+  "composed": "c. 1125-1140",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/opuscula-spiritualia",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeLaCh",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeLaCh, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeAmSpA",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeAmSpA, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeMoOr",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeMoOr, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeVSe",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeVSe, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeArMe2",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeArMe2, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DePoEtV",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DePoEtV, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeQuVoI",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeQuVoI, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeSaAnC",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeSaAnC, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeViBMa3",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeViBMa3, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.ExInCaB",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.ExInCaB, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeFrCaE",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeFrCaE, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.InInDe2",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.InInDe2, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.Episto300",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.Episto300, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "De laude charitatis"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "De laude charitatis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "De amore sponsi ad sponsam"
+      }
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "De modo orandi"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput I. Quod ex propriae miseriae et divinae misericordiae consideratione ad orandum Deum incitari debemus."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput II. De tribus speciebus orationis et generibus supplicationis."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput III. Quid postulatio et quid insinuatio."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput IV. Cur orantes legimus interdum ea, in quibus nullae petitionis exprimuntur verba."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput V. Tribus potissimum modis orantium affectus in Deum excitari."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput VI. Quantum gratus sit Deo fervens orantis affectus."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput VII. De diversis affectuum modis, et quibus psalmis quisque adaptetur."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput VIII. Quod in eodem psalmo saepius ab uno affectu in alium fiat transitus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "De quinque septenis"
+      },
+      "children": [
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput ii.— Quantam perniciem homini inferant septem vitia mortalia."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput iii.— Quibus sancti Spiritus donis tres primae Dominicae orationis petitiones respondeant: Et quibus vitiis medeantur."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput iv.— Quibus item donis quatuor postremae petitiones accommodentur, et quibus malis remedium praestent."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput v.— De septem donis Spiritus sancti, seorsum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "De artificio meditandi"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "De potestate et voluntate Dei"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "De quatuor voluntatibus in Christo"
+      }
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "De sapientia animae Christi"
+      },
+      "children": [
+        {
+          "id": "c020",
+          "title": {
+            "la": "Praefatio."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Sequitur Decisio quaestionis de anima Christi, utrum aequalem cum divinitate scientiam habuerit."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "De virginitate beatae Mariae"
+      },
+      "children": [
+        {
+          "id": "c022",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput I. Quod Maria in consensu conjugali virginitatis propositam non mutavit."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput II. Quod sacrosancta et perpetua virgo Maria non de viro, sed de Spiritu sancto concepit, quem et peperit Altissimi Patris unigenitum, Christum Deum et hominem."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput III. Quod sine doloris et sine virginitatis detrimento Maria Christum peperit."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput IV. Quaestio, utrum probabile sit, matrimonium sine consensu coitus contrahi posse."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Explanatio in Canticum beatae Mariae"
+      },
+      "children": [
+        {
+          "id": "c027",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Incipit explanatio. (pars 1)"
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Incipit explanatio. (pars 2)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "title": {
+        "la": "De fructibus carnis et spiritus"
+      },
+      "children": [
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput I."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput I. De tribus virtutibus theologicis, et quatuor cardinalibus ex humilitate nascentibus."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput II. De parium inter se et cum imparibus collatione, ut virtutum cum virtutibus, viliorum cum vitiis ac virtutum cum vitiis."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput III. De superbia, et ejus comitibus."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput IV. De vana gloria, et comitibus ejus."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput V. De invidia, et comitibus ejus."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput VI. De ira, et comitatu ejus."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput VII. De tristitia seu acedia et comitatu ejus."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput VIII. De avaritia et comitatu ejus."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput IX. De ingluvie ventris seu gula, et comitatu ejus."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput X. De luxuria et comitatu ejus."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput XI. De humilitate, et ejus comitibus."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput XII. De prudentia, et comitatu ejus."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Caput XIII. De justitia et comitatu ejus."
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput XIV. De fortitudine et comitibus ipsius"
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput XV. De temperantia, et ejus comitibus."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput XVI. De fide et ejus comitibus."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput XVII. De spe et ejus comitibus."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Caput XVIII. De charitate et comitatu ejus."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Caput XIX. De dilectione, et ejus ratione duplici."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "title": {
+        "la": "Institutiones in Decalogum"
+      },
+      "children": [
+        {
+          "id": "c051",
+          "title": {
+            "la": "Caput i.— De tribus praeceptis prioris tabulae."
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Caput ii.— De septem mandatis secundae tabulae."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Caput iii.— De ordine praeceptorum Dei."
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Caput iv.— De substantia dilectionis et charitate ordinata."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "title": {
+        "la": "Epistolae"
+      },
+      "children": [
+        {
+          "id": "c055",
+          "title": {
+            "la": "Epistola prima. Ad ranulphum de mauriaco. Quod charitas nunquam excidit."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Epistola II. Ad eumdem. De solutione quatuor quaestionum per Ranulphum de Mauriaco propositarum."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Epistola III. Ad joannem hispalensem archiepiscopum. Quod non solum corde tenenda, sed et ore confitenda sit fides Christiana."
+          }
+        }
+      ]
+    }
+  ]
+}

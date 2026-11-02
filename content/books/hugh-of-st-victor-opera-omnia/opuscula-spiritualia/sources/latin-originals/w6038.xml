@@ -1,0 +1,763 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De modo orandi</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeMoOr</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div2>
+        <head>PROLOGUS.</head>
+
+<pb n="0977A"/>
+<p>Domino et Patri charissimo H. Munusculum hoc
+dilectionis meae ea vos precor benignitate suscipite,
+qua me illud scio devotione obtulisse. Dictatum
+brevem de virtute orationis inelimato licet sermone
+conscriptum misi charitati vestrae, in quo distinctum
+habetis quibus modis orantis animus inter precum
+verba per compunctionem accenditur; demonstratum
+etiam cur illae a nobis Scripturae, quae petitionis
+formam non habent, pro nostra sive aliorum salute
+postulantibus inter orandum proferuntur. De oratione
+ergo orationem postulaturus scripsi, cujus
+dulcedinem quanto jam longo pietatis studio perfectius
+gustastis, tanto libentius donum accipere et
+<pb n="0977B"/>
+donum impendere debetis. Valete.</p>
+</div2>
+
+<div2>
+        <head>CAP. I. <hi>Quod ex propriae miseriae et divinae misericordiae consideratione ad orandum Deum incitari debemus.</hi> </head>
+<p>Quo studio et quo affectu a nobis orandus sit Deus,
+ex nostra miseria simul et ejus misericordia considerare
+possumus. Quid enim efficacius hominem ad
+orandi studium excitaret quam miseria et calamitas
+tantorum malorum, quibus addictus premitur? Et
+quid jucundius ad effectum orandi traheret quam misericordia
+Conditoris sui, quam inter mala sua toties
+experitur? Ne ergo mens humana ad orandum pigra
+sit, hinc sua necessitate compellitur; ne autem trepida
+et diffidens oret, illinc pietate Dei provocatur.
+Istis duabus alis, miseria scilicet hominis et misericordia
+<pb n="0977C"/>
+Redemptoris, oratio sublevatur, quia dum
+mens alterna horum consideratione se ad devotionem
+incessanter excitat, quodam spiritualis desiderii
+impetu sursum levata volat. Sic ergo orationi sancta
+meditatio necessaria est, ut omnino perfecta esse
+oratio nequeat, si eam meditatio non comitetur aut
+praecedat. Nam et ii qui mala sua considerare negligunt,
+aut nihil petendo, aut aliud quam oportet
+petendo, facile per ignorantiam falluntur, aut certe
+minus quam oportet digne petendo per desidiam
+tepescunt. Primum igitur necesse est, ut si prudenter
+et utiliter Dominum orare volumus, jugi meditatione
+animum nostrum exerceamus, et in consideratione
+miseriae nostrae discamus, quid nobis necesse
+<pb n="0977D"/>
+est petere, in consideratione autem misericordiae
+Dei nostri, quo desiderio debeamus postulare. Cogitemus
+quam brevis sit vita nostra, quam lubrica, via
+quam mors incerta. Cogitemus quod lugentes in
+hanc vitam intravimus, cum dolore pertransimus,
+cum luctu exituri sumus. Cogitemus quantis amaritudinibus
+admistum sit, si quid etiam dulce aut jucundum
+in via hujus vitae occursu suo nobis alludit;
+<pb n="0978A"/>
+quam fallax, quam suspectum, quam instabile, quam
+transitorium est quidquid hujus mundi amor parturit,
+quidquid species et pulchritudo temporalis promittit.
+Alia sunt mala, cum quibus nascimur, et
+processu temporis sive occulta Dei gratia, sive manifesta
+industria, liberamur. Alia vero in hanc vitam
+nobiscum veniunt, et a nobis ante mortem non recedunt.
+Alia item sunt mala quae ex tempore nobis
+accrescunt, et rursum decursu temporis abeunt.
+Alia autem post nativitatem contrahimus, et ante
+mortem non evacuamus. Et quis omnia mala vitae
+hujus enumerare possit? Ut enim praetermittamus ea
+mala, quae omnes communiter homines opprimunt,
+qualia aestimamus esse secreta pericula singulorum,
+quorum sibi quique conscii sunt? Si cogitare quisque
+<pb n="0978B"/>
+voluerit quae ab ineunte aetate mala fecerit, quae sustinuerit,
+et constituat ante oculos suos praeterita
+tempora et dies vitae suae, consideretque diligenter
+quot inanes labores tulerit, quoties pro amore hujus
+vitae frustra desudaverit, quoties in laboriosis conatibus
+fallaces exitus invenerit, et post longos discursus
+requiem necdum ullam adeptus sit, cognoscet
+quid de hac vita judicare possit. Cum autem vitae
+hujus aerumnam considerat, etiam quae sit patriae
+coelestis suavitas atque dulcedo attendat, et perpendat
+quid invenerit, quid perdiderit, ubi jaceat, unde
+ceciderit, ut ex utroque intelligat quantum sibi in
+hoc exsilio lugendum sit. Hinc enim Salomon dicit: <hi>Qui addit scientiam, addit et dolorem 
+ <note>(Eccle. I)</note>
+          </hi>, quia
+quanto magis homo mala sua intelligit, tanto amplius
+<pb n="0978C"/>
+suspirat et gemit. Postremo superest ut in memoria
+malorum nostrorum etiam misericordiae Dei
+recordemur, quia fiducialius de futuro ejus miserationes
+requirimus, si quemadmodum in praeterito
+nostri misertus, sit cogitemus. Revocemus ad memoriam
+bona, quae tribuit, et quod in periculis saepe
+constitutos clementer eripuit, nec unquam peccatis
+nostris quo minus misereretur vinci potuit, oblitos
+sui de se admonuit, aversos a se revocavit, venientes
+ad se benigne suscepit, poenitentibus indulsit, perseverantes
+custodivit, stantes tenuit, lapsos erexit,
+malas delectationes in amaritudines commutavit,
+sed rursum salubriter amaricatis consolationes suas
+tribuit. Postremo autem tribulatione purgatis quietem
+et pacem perfectam restituit, qui nec peccantibus
+<pb n="0978D"/>
+unquam defuit ut corrigeret, nec justis ut
+custodiret. Quisquis hujusmodi meditationibus ante
+orationis tempus animum suum exercuit, nec improvidus
+fortassis nec tepidus ad orationem venit.
+Meditatio namque assidua scientiam parit, scientia
+vero parta ignorantiam pellit, et compunctionem
+parit, compunctio autem parta desidiam fugat, et
+<pb n="0979A"/>
+devotionem parit, devotio vero orationem perficit.
+Scientia est, quando homo ad agnitionem sui illuminatur.
+Compunctio est, quando ex consideratione
+malorum suorum cor interno dolore tangitur.
+Devotio est pius et humilis affectus in Deum, qui ex
+compunctione generatur. Territus enim magnitudine
+malorum suorum animus, et diffidens de propriis
+viribus, ad Deum se convertit. Et tanto ardentius
+patrocinium illius expetit, quanto apertius sibi nihil
+extra Deum relictum esse videt, in quo confidere
+possit. Devotio igitur est conversio in Deum pio et
+humili affectu. Humilis enim est ex conscientia infirmitatis
+suae, pius est ex consideratione divinae clementiae.
+Haec in se tres principales virtutes habet,
+fidem, spem, charitatem. Neque enim homo per devotionem
+<pb n="0979B"/>
+se ad Deum converteret, nisi crederet se
+ab eo salvari posse, et speraret eum misereri velle.
+Postremo nisi eam plus quam mala sua diligeret,
+nequaquam, illa fugiens, refugium sibi in ipso eligeret.
+Credit ergo, sperat et diligit. Credit potentiam,
+sperat misericordiam, amat custodiam. Nihil ergo
+aliud est oratio quam mentis devotio, id est conversio
+in Deum per pium et humilem affectum, fide, spe,
+charitate subnixa. Sed quia multis modis mens per
+devotionem accenditur, rursum quia ipsa devotio
+mentis variis modis voce promitur, debemus aliquas
+sigillatim orationis species distinguere, ut apertius
+valeamus ejus virtutem indicare.</p>
+</div2>
+
+<div2>
+        <head>CAP. II. <hi>De tribus speciebus orationis et generibus supplicationis.</hi> </head>
+
+<pb n="0979C"/>
+<p>Tres sunt species orationis, supplicatio, postulatio,
+insinuatio. Supplicatio est sine determinatione
+petitionis humilis et devota precatio. Postulatio est
+determinatae petitioni incerta narratio. Insinuatio
+est sine petitione per solam narrationem, voluntatis
+facta significatio. Tria sunt genera supplicationum,
+captatio, exactio, pura oratio. Captatio est id quod
+fit ante postulationem ad praeparandum et inclinandum
+animum auditoris, quod tribus modis facimus.
+Primo cum aliquid dicimus, quod personam vel
+causam nostram commendat, sive meritum nostrum,
+sive infirmitatem, sive aliud aliquid enumerando,
+quod ad nostram causam vel personam commendandam
+valeat apud eum, cui nostram petitionem offerimus.
+<pb n="0979D"/>
+Secundus modus captationis est, cum aliquid
+in laudem ejus proferimus, quem oramus, per quod
+apud animum nostrum charum eum et acceptabilem
+esse significamus, ut nostra charitate vicissim ejus
+dilectionem mereamur. Tertius modus captationis
+est, quando aliquid dicimus, per quod apud animum
+auditoris causa adversarii nostri sive persona deprimitur,
+ut odio potius quam amore digna videatur.
+Istis tribus modis fit captatio. Hoc autem genere
+supplicationis frequentissime divina Scriptura uti
+solet. Hoc enim agimus, ubicunque laudes Dei canimus,
+ubicunque infirmitatem nostram, ubicunque
+malitiam adversariorum nostrorum recitamus. Et
+omnino quidquid Dei auribus dignum, et nostrae necessitati
+congruum ante petitionis pronuntiationem
+<pb n="0980A"/>
+eloquimur. Exactio est id quod fieri solet post factam
+postulationem, quando auditorem (ne petitio
+nostra apud eum in oblivionem veniat) quadam (ut
+ita dicam) importunitate atque instantia frequenter
+memorem facimus. Quae memoria tribus modis renovari
+videtur, videlicet quando aliquid vel de persona
+ejus, vel de persona nostra, vel de causa nostra
+iterato dicimus, unde vel nos, vel causam nostram
+atque petitionem in ejus animo renovemus. Hoc
+genus supplicandi quam apud homines importunum
+videtur, tam apud Deum gratum atque laudabile est.
+Pura oratio est, quando ex abundantia devotionis
+mens ita accenditur, ut cum se ad Deum postulatura
+converterit, prae amoris ejus magnitudine etiam petitionis
+suae obliviscatur; et dum amore ejus, quem
+<pb n="0980B"/>
+videt, perfrui vehementer concupiscit totaque jam
+illi vacare desiderat, ejus etiam, pro quo venit, curam
+libenter postponat. Hoc genus orandi in forma
+est, et quam prae caeteris omnibus unicum, tam est
+apud Deum prae caeteris omnibus pretiosum. Sed inter
+haec tria supplicationum genera infimum locum
+captatio, medium exactio, supremum et excellentissimum
+pura oratio obtinet. Quia captatio timorem,
+exactio fiduciam, pura oratio perfectum habet amorem.
+Sciendum est etiam, quod supplicatio aliquando
+fit per sola nomina sicut est illud: <hi>Misericordia
+mea, refugium meum, susceptor meus, liberator meus,
+Deus meus, adjutor meus <note>(Psal. CXLIII)</note>
+          </hi>. Aliquando
+per sola verba sicut est respice, miserere, placare,
+attende et fac. Aliquando simul per nomina et verba
+<pb n="0980C"/>
+sicut est illud: <hi>Verba mea auribus percipe, Domine,
+intellige clamorem meum. Intende voci orationis meae
+rex meus, et Deus meus <note>(Psal. V)</note>
+          </hi>. Sed illud genus
+supplicationis, quod per sola nomina fit, quo magis
+est foris significatione imperfectum, tanto magis
+intus est abundantia dilectionis plenum. Affectus
+enim hoc proprium habet, quo quanto major et ferventior
+intus est, tanto minus foris per vocem explicari
+potest. Illud vero genus supplicationis, quod
+per sola verba exprimitur, minorem quidem isto devotionem
+indicat, majorem autem illo, quod nominibus
+simul et verbis, plena videlicet significatione
+pronuntiatur. Illud igitur, quod solis nominibus fit,
+ad puram orationem pertinere videtur, quod solis
+<pb n="0980D"/>
+verbis ad exactionem; quod nominibus simul et
+verbis ad captationem. Ita ut pura oratio magis in
+jubilum convertatur, et appropinquet Deo, perveniat
+citius, et efficacius obtineat.</p>
+</div2>
+
+<div2>
+        <head>CAP. III. <hi>Quid postulatio et quid insinuatio.</hi> </head>
+<p>Postulatio est determinatae petitioni incerta narratio,
+sicut est illud: <hi>Cor mundum crea in me, Deus,
+et spiritum rectum innova in visceribus meis <note>(Psal. L)</note>
+          </hi>.
+Haec tribus modis fit, obsecrando, rogando, simpliciter
+postulando. Obsecratio est, quando vehementior
+necessitas devotius precibus insistere cogit. In
+mediocribus causis rogamus, in minimis simpliciter
+postulamus. Habent igitur haec tria differentias suas,
+quia excellentissimum est obsecrare, medium rogare,
+minimum simpliciter postulare. Insinuatio est
+<pb n="0981A"/>
+sine petitione per solam narrationem voluntatis facta
+significatio. Haec quoque tribus modis fit, timore,
+fiducia, contemptu. Timore fit, quando vel causa
+magna est quam agimus, vel magna persona est
+quam rogamus, sicut est illud: <hi>Domine, si fuisses
+hic, frater meus non fuisset mortuus <note>(Joan. XI)</note>
+          </hi>. Rogare
+enim voluit, ut fratrem suum mortuum Dominus
+suscitaret, sed quia propter magnitudinem causae
+et reverentiam personae extimuit, insinuare potius
+quam postulare elegit. <hi>Domine,</hi> inquit, <hi>si fuisses hic,
+frater meus non fuisset mortuus.</hi> Dixit unde voluntas
+intelligeretur, sed temeritas non reprehenderetur,
+ut vel non exaudita repulsae non pateretur opprobrium,
+vel exaudita voluntatis suae consequeretur
+effectum. Fiducia fit insinuatio, quando vel de facilitate
+<pb n="0981B"/>
+causae, vel de benevolentia personae confidimus,
+et ideo desiderium nostrum patenter exprimere
+negligimus, quia nos obstinere posse sola insinuatione
+speramus. Sicut est illud, quod in nuptiis deficiente
+vino Domino mater dicit. <hi>Vinum non habent <note>(Joan. II)</note>
+          </hi>.
+Non dixit: Peto ut defectum poculi, vinum
+creando aut commutando, suppleas, sed hoc maternae
+reverentiae privilegium deberi existimavit, ut
+quidquid vel innuendo se velle significaret, pati a
+Filio repulsam non debuisset. Et hoc quidem justum
+fuerat, si tale aliquid ab eo petivisset, quod ille facere
+posset secundum naturam, quam ab ea sumptam
+gerebat. Nunc autem quodammodo juste reprehenditur,
+quia ab ea natura, quam non dederat,
+obedientiam in miraculo exigebat. Et dicitur ei:
+<pb n="0981C"/> <hi>Quid mihi et tibi est mulier? 
+ <note>(Ibid.)</note>
+          </hi> Miraculum enim
+facere Dei virtus est, non hominis, et ideo cum a
+matre Christus homo de miraculo requiritur, idem
+non quasi homo, sed quasi Deus mulierem non matrem
+de praesumptione causatur. Maria enim a
+Christo non quasi mater exigere Filio, sed quasi
+mulier (si necesse fuisset) miraculum humiliter
+postulare, debebat a Deo. Contemptu fit insinuatio
+quando vel causa vilis est, vel persona
+quae rogatur humilis. Quae omnino ab oratione
+divina excluditur, apud homines autem maxime superbos
+et potentes magno studio exercetur. Et sicut
+in supradictis ostendimus, ita quoque in his tribus
+differentiam invenimus. Insinuatio enim ex fiducia
+perfectis convenit, ex timore incipientibus, ex contemptu
+<pb n="0981D"/>
+malis. Dehinc reliqua, quae de oratione
+tractare proposuimus, adnectenda sunt.</p>
+</div2>
+
+<div2>
+        <head>CAP. IV. <hi>Cur orantes legimus interdum ea, in quibus nullae petitionis exprimuntur verba.</hi> </head>
+<p>Quosdam siquidem movere solet, quod in orationibus
+nostris cum Deum sive pro nostra sive pro
+aliorum salute petere volumus, illos etiam nonnunquam
+psalmos, qui vel petitionis verba non habent,
+vel ad nostram petitionem non pertinent, decantare
+solemus. Et de aliis etiam Scripturis, quas in orationibus
+frequentamus, similem absurditatem producunt,
+cum ejusmodi sunt, ut vel formam orandi
+non habeant, vel illi, quam nos agimus, causae non
+concordant. Quid enim, aiunt, prodest in oratione
+<pb n="0982A"/>
+illa verba dicere, quibus invenimur vel nihil, vel aliud
+quam necesse est a Deo postulare? Non orat sed
+subsannat potius, et ad iracundiam provocat Deum,
+qui cum ante conspectum ejus quasi postulaturus
+venerit, subito se ad alia (quae nihil ad rem pertinere
+videntur) replicanda convertit. Ecce enim, inquiunt,
+Deum pro indulgentia peccatorum nostrorum
+deprecari volumus; quid nobis ad hoc prodest, si
+vel <hi>Quare fremuerunt gentes <note>(Psal. II)</note>
+          </hi>, vel: <hi>Attendite,
+popule meus <note>(Psal. LXXVII)</note>
+          </hi>, vel alium hujuscemodi
+psalmum decantamus? Nonne ridiculum est, ut talia
+canentes orare nos credamus? Istud fortasse, aliqui
+dicant, et existiment nihil utilitatis esse quoties talia
+nostris orationibus admiscemus; sed quisquis
+supradictas orationis species diligenter prospexerit,
+<pb n="0982B"/>
+qualiter etiam ista in orationibus dicta valeant facile
+discernet. Nam hoc genus orandi saepe ad impetrandum
+invenitur efficacius quam illud etiam, in
+quo manifeste petitionis modum orantes explicamus.
+Et licet hoc, ut diximus, ex his quae superius
+memorata sunt, satis evidenter intelligi possit, si
+tamen hic specialiter demonstretur, quid nisi amplius
+veritas patescit? Hoc interest quando oramus
+hominem, et quando oramus Deum, quod homo
+necessitatem nostram scire non potest, nisi ab alio
+doctus fuerit, Deus autem scit, etiam antequam petatur,
+quid nobis necesse sit. Homo igitur, qui rogatur,
+per narrationem nostram edocetur, ut sciat
+quid velimus; per supplicationem nostram pulsatur,
+ut annuat quod petimus. Sed in illa, quae ad Deum
+<pb n="0982C"/>
+fit, oratione narratio necessaria non est, nisi forte
+homo ad hoc narret, ut ipse suam petitionem melius
+intelligat, ut et per narrationem suam admonitus
+quid petat consideret, et per considerationem
+petitionis suae excitatus devotius oret. Sane quantum
+ad Deum pertinet, sola supplicatio sufficit, quia,
+ut diximus, Deus non necesse habet doceri ut sciat,
+sed supplicandus est ut annuat. Sed nullo alio modo
+citius Deus ad annuendum flectitur, quam si precantis
+animus toto devotionis affectu ad ipsum convertatur.
+Quaecunque ergo sunt verba orantis, absurda
+non sunt, si tantummodo ad hoc competenter
+proferri possint, ut vel orantis affectum ad amorem
+Dei excitent, vel (quod amplius est) si jam amore
+ejus flagrat, excitatum demonstrent. Demonstrent
+<pb n="0982D"/>
+autem, non ut Deum occulta nostra quasi nescientem
+doceant, sed ut nos dum internum nostrum desiderium
+foris loquimur, ex ipsis nostris verbis amplius
+ad amorem inflammemur. Sola ergo cordis
+devotio quantum ad Deum sufficere poterat, nisi ad
+hoc etiam in voce formaretur oratio, ut mentem
+orantis ad majorem devotionem accendat. Nam,
+sicut diximus, si petitioni inserta narratio est, non
+Deus docetur, sed orans admonetur considerare
+quid petat, ut devotius oret. Si vero sola supplicatio
+est, quia devotionem intus in corde esse significat,
+ad majorem devotionem animum inflammat.
+Sed quia diversis modis humanus affectus ad
+amorem Dei provocatur, libet nunc ipsos sigillatim
+<pb n="0983A"/>
+modos distinguere, et distinctos per exempla demonstrare.</p>
+</div2>
+
+<div2>
+        <head>CAP. V. <hi>Tribus potissimum modis orantium affectus in Deum excitari.</hi> </head>
+<p>Sed sciendum primum, quod fere omne hoc genus
+orandi, quod quibusdam prorsus ab orationis usu
+excludendum videtur, ad captationem pertinet, quam
+videlicet captationem, quamvis superius quasi speciem
+supplicationis annumeravimus, secundum quamdam
+tamen largiorem consuetudinem non solum supplicando,
+sed etiam postulando et insinuando captare
+solemus. In captatione autem benevolentia auditoris
+comparatur. Quod tribus modis fit, sive quando aliquid
+in laudem ejus dicimus, sive quando aliquid de
+nostra miseria commemoramus, vel etiam quando
+<pb n="0983B"/>
+aliquid, quod ad depressionem adversariorum nostrorum
+spectat, in medium adducimus. Dicamus
+igitur omnes illas Scripturas, quas quorumdam
+opinio ad orationis usum non esse assumendas
+existimat, idcirco utiliter debere, et convenienter
+posse inter vota precum nostrarum ab orantibus recitari,
+quia in nobis affectum piae devotionis excitant,
+et cor nostrum vel narrando laudem Dei ad ejus
+amorem provocant, vel nostram miseriam commemorando,
+ante conspectum ejus nos humiliant, vel
+malitiam adversariorum nostrorum exaggerando, et
+utilem nobis sollicitudinem et fiduciam coram ipso
+ampliorem praestant. Laudem Dei in potentia et bonitate
+ejus cognoscimus. Miseriam nostram in hoc,
+quod fragiles et peccatores sumus. Malitiam adversariorum
+<pb n="0983C"/>
+nostrorum quia et ad diripiendum sunt astuti,
+et ad opprimendum impii. Sive igitur laudem
+Dei bonitate ejus et potentia, sive miseriam nostram
+in infirmitate et culpa nostra, sive malitiam adversariorum
+nostrorum in tyrannide eorum et astutia, ad
+exercitationem mentis et augmentum bonae devotionis
+orantes commemoremus, nihil ineptum facimus, et
+per pium affectum quem ipsa nobis verba excitant,
+ubique orantes sumus. Ut enim breviter cuncta
+complectar, quotiescunque laudem Dei narramus,
+quaecunque sint verba quantumcunque prolixa, quid
+in his omnibus tamen intus cor nostrum nisi hoc
+unum loquitur, quod eum admirans amat, et
+amando admiratur? Similiter quando de nostra
+<pb n="0983D"/>
+miseria coram eo orantes agimus, quaecunque sint
+verba, quantumcunque prolixa, quid in his cor
+nostrum dicit nisi hoc unum, quod confitemur nos
+misericordiam ejus quaerere, et in eo omnem fiduciam
+nostram collocare? Quae devotio quanto humilitati
+propinquior, tanto est Deo acceptabilior. Item
+cum adversariorum nostrorum malitiam in orationibus
+nostris coram Deo accusamus, qualiacunque
+sint verba quantumcunque prolixa, quid tamen aliud
+per haec omnia quam justum judicium Dei ad nostri
+liberationem exposcimus, ut eripiat nos ab iis,
+quorum tyrannide injuste opprimimur, et quorum
+malitiam juste aversamur? Et quia ultionem de
+inimicis nostris, et judicium causae nostrae divino
+arbitrio libenter relinquimus, quid est quod pro hac
+<pb n="0984A"/>
+humilitate et devotione juste a Deo impetrare non
+debeamus? Unusquisque ergo cum in oratione vel
+psalmos vel alias quascunque scripturas decantat,
+diligenter consideret cui affectui serviant, et ad
+illum affectum toto nisu cor suum excitet, ad quem
+id quod loquitur magis pertinere videt, quia si
+verborum quae loquitur affectum habuerit, per affectum
+ipsum melius verborum virtutem cognoscet,
+et intelligentiam capiet, et per verborum intelligentiam
+in majorem devotionem affectum accendet.</p>
+</div2>
+
+<div2>
+        <head>CAP. VI. <hi>Quantum gratus sit Deo fervens orantis affectus.</hi> </head>
+<p>Quantum autem affectus cordis bonus Deo placeat,
+humana nobis etiam consuetudo, quamvis vitiosa,
+<pb n="0984B"/>
+quadam tamen virtutis imitatione demonstrat.
+Certe videmus adulatores qualiter se erga illos, a
+quibus aliquid expetunt, devotos simulant. Saepe
+procedentibus obviam eunt, in turba constitutos
+pomposis salutationibus honorant, transire volentibus
+viam praeparant, alios locum dare jubent,
+dominos adventare proclamant, cathedras in medio
+constituunt, pulvinaria sternunt, pedibus provolvuntur.
+Ex antiquis historiis magnalia patrum replicant,
+etsi in eis non inveniunt quid laudent,
+priorum facta ad eorum laudem retorquent, se devotos,
+se fidos non solum dicunt, sed jurant, et
+quod esse nolint, hoc omni studio videri laborant.
+Nunquid putatis juste reprehendi possent, si essent
+quod non sunt, sed esse se fingunt? Si hoc malum
+<pb n="0984C"/>
+esset ut tales essent, cur tantopere tales videri student?
+Imo vero si tales essent quales se fingunt et
+non sunt, vere laudabiles essent. Nec ob aliam
+causam eorum petitio ab hominibus saepe respuitur,
+nisi quia tales non esse, quales se fingunt esse,
+sciuntur. Si ergo illi juste in suis precibus repelluntur,
+quia sciuntur tales non esse quales se esse
+fingunt: ut nos mereamur quod petimus a Deo percipere,
+quales illi se simulant, tales studeamus in
+veritate Deo nos exhibere. Ostendamus foris verbis,
+habere nos intus erga Deum affectum devotionis.
+Et non solum ostendamus, sed quod ostendimus
+habeamus. Ne, si solum ostendamus, non veri amatores
+sed adulatores simus, et quia Deum ostentatione
+<pb n="0984D"/>
+decipere non possumus, nosmetipsos potius
+decipiamus. Praeterea sicut adulatores simulatam
+devotionem priores offerunt, et per eam illorum,
+quos deprecantur, gratiam comparare volunt, sic
+et nos precibus nostris praeveniamus faciem Domini,
+et ut mereamur obtinere quod petimus, non simulatam
+devotionem, sed veram charitatem offeramus.
+Beatificemus amicos Domini nostri, indignemur
+inimicis ejus, laudemus in eo potentiam, magnificemus
+pietatem, admiremur sapientiam, extollamus
+generositatem, approbemus aequitatem. Item narremus
+ei miseriam nostram, indicemus ei necessitatem
+nostram, indicemus et revelemus ei infirmitatem
+nostram, confiteamur ei culpam nostram,
+dicamus et credamus alium non esse, per quem
+<pb n="0985A"/>
+possimus eripi, per quem speremus liberari. Item
+ostendamus ei, adversariorum nostrorum daemonum,
+et perversorum hominum malitiam, crudelitatem,
+iniquitatem, tyrannidem, quod ei adversantur,
+qui nos persequuntur, quod nobis
+hostes sunt, qui ei contradicunt, quod odimus
+quae odit, quod diligimus quae diligit. Malle nos
+propter eum odia inimicorum ejus perpeti, quam
+contra eum habere pacem eorum. Omnes igitur
+Scripturae ejusmodi, quae ad captationem faciendam
+congruunt, sive ipsa captatio per supplicationem,
+sive per postulationem, sive per insinuationem
+fiat, alienae ab orationis usu habendae
+non sunt, quia licet aliquae illarum narrationes
+petitionem non habeant, habent tamen omnes affectus
+<pb n="0985B"/>
+virtutum, quos in nobis accendunt, per quos
+qui orant citius, quam per vocis petitionem, impetrant.</p>
+</div2>
+
+<div2>
+        <head>CAP. VII. <hi>De diversis affectuum modis, et quibus psalmis quisque adaptetur.</hi> </head>
+<p>Quia igitur in affectibus pietatis est omnis virtus
+orandi, enumeremus aliquot ex ipsis, et exemplis
+demonstremus, ut quia omnes enumerare non possumus
+(infiniti enim sunt affectus) quid tamen in
+omnibus laudabile sit, et Deo acceptum, ex quibusdam
+conjiciamus. Est affectus dilectionis, cum forte
+mens vel videns, vel reminiscens id quod amat, subito
+amoris igne corripitur. Est affectus admirationis,
+cum aliquid novum et admirabile contemplans in stuporem
+excitatur. Est affectus congratulationis, cum
+<pb n="0985C"/>
+acceptabile aliquid et beneplacitum videns, quadam
+hilaritate perfunditur. Est affectus humilitatis,
+quando ex consideratione infirmitatis suae ab elatione
+sua sponte comprimitur. Est affectus moeroris,
+quando ex consideratione malorum suorum quodammodo
+contabescens infirmatur. Est affectus timoris,
+quando ex consideratione imminentium poenarum
+concutitur. Est affectus indignationis, quando
+in odium adversariorum ex ipsa iniquitatis eorum
+magnitudine inflammatur. Est affectus zeli quando
+ex amore justitiae ad desiderium ultionis accenditur.
+Est affectus bonae praesumptionis, quando ex nova
+aliqua et singulari fiducia ad vindicandum plus solito
+quidpiam animatur. De istis affectibus primi tres ad
+<pb n="0985D"/>
+istud praecipue genus Scripturarum pertinent, in
+quo fit laudatio. Quia scilicet ex commemoratione
+bonitatis, surgit affectus dilectionis, ex commemoratione
+potentiae et fortitudinis surgit affectus
+admirationis, ex commmemoratione autem alicujus
+prosperi eventus et facti felicis surgit affectus congratulationis.
+Tres sequentes ad illud genus pertinent,
+in quo fit commemoratio infelicitatis et miseriae.
+Quia videlicet affectus humilitatis surgit ex
+commemoratione propriae infirmitatis, affectus doloris
+surgit ex commemoratione malorum praesentium,
+vel ex recordatione praeteritorum. Affectus
+timoris ex praevisione futurorum. Tres ultimi affectus
+illi magis Scripturarum generi congruunt, in
+quo fit invectio et accusatio in adversarios videlicet
+<pb n="0986A"/>
+contra nequitiam illorum, indignatio contra injuriam,
+zelus propter malitiam, major de Dei misericordia
+praesumptio. Exempla singulorum haec sunt,
+ex affectu dilectionis canitur psalmus: <hi>Diligam te,
+Domine <note>(Psal. XVII)</note>
+          </hi>. Ex affectu admirationis canitur
+psalmus: <hi>Domine Dominus noster <note>(Psal. VIII)</note>
+          </hi>. Ex
+affectu congratulationis canitur psalmus: <hi>Omnes
+gentes <note>(Psal. XLVI)</note>
+          </hi>. Et in his omnibus est laudatio.
+Ex affectu humilitatis canitur psalmus: <hi>In te, Domine,
+speravi <note>(Psal. XXX)</note>
+          </hi>. Ex affectu doloris canitur
+psalmus: <hi>Usquequo, Domine, oblivisceris? <note>(Psal. XII.)</note>
+          </hi> 
+Ex affectu timoris canitur psalmus: <hi>Domine, ne in
+furore <note>(Psal. VI)</note>
+          </hi>, et in his omnibus est mista quaerelae
+deprecatio. Ex affectu indignationis canitur psalmus: <hi>Quid gloriaris in malitia 
+ <note>(Psal. LI)</note>
+          </hi>. Ex affectu zeli
+<pb n="0986B"/>
+canitur psalmus: <hi>Deus ultionum Dominus <note>(Psal.
+XCIII)</note>
+          </hi>. Ex affectu bonae praesumptionis canitur
+psalmus: <hi>Judica me, Domine, quoniam <note>(Psal.
+XXV)</note>
+          </hi>, etc.</p>
+</div2>
+
+<div2>
+        <head>CAP. VIII. <hi>Quod in eodem psalmo saepius ab uno affectu in alium fiat transitus.</hi> </head>
+<p>Sciendum tamen est hanc proprietatem in omnibus
+psalmis non esse, ut per totam seriem unus
+affectus extendatur, sed saepe de alio affectu fit
+transitus in alium, secundum quod mentes orantium
+diversis modis affici solent. Hoc autem qualiter per
+singulos cognosci possit explanare, prolixioris
+operis tractatum expetit. Volumus tamen hoc in aliquibus
+exempli causa demonstrare. Forte cogitare
+coepi quanta sit felicitas esse cum Deo, quanta item
+<pb n="0986C"/>
+sit miseria vivere in hoc saeculo, quanta demum
+calamitas semper cruciari in inferno, et ex hac meditatione
+mea subito amore coelestis patriae attractus,
+ipso affectu ducente in haec verba decurro. <hi>Beatus vir qui non abiit in consilio impiorum 
+ <note>(Psal. I)</note>
+          </hi>,
+cujus psalmi totam seriem si secundum intimum
+compunctionis sensum inquirimus, quid aliud nisi
+hoc ubique dicentem invenimus: Felices qui nunquam
+a Deo recesserunt, felices qui semper cum eo
+permanserunt, felices qui in ejus obsequio fideles et
+devoti perstiterunt? Nam infelices et miseri illi sunt,
+qui se ab illo elongaverunt, et cum illo perseverare
+noluerunt, vel qui post ad illum non redierunt. Gratias
+illi qui quantum perstiti, confusio mihi quantum
+<pb n="0986D"/>
+discessi. Nunc autem quantum prope sum elongare
+nolo, quantum longe sum redire cupio, utinam ad
+illum perveniam, utinam ab illo nunquam recedam: <hi>Adjuva me, Deus meus 
+ <note>(Psal. CVIII)</note>
+          </hi>. Affectus igitur
+iste dilectionis est surgens ex laudatione. Item
+exemplum alterius. Cogitavi mecum quanta esset
+potentia Dei, ac deinde admirari coepi vesaniam hominum,
+qui mortales sunt, et tamen voluntati ejus
+obviare minime pertimescunt. Ex hac itaque admiratione
+compulsus sum exclamare et dicere: <hi>Quare
+fremuerent gentes <note>(Psal. II)</note>
+          </hi>. Et est admiratio mista
+indignationi, quia vesaniam admiramur, praesumptioni
+indignamur, vel certe in nobismetipsis dum
+foris assultus vitiorum crebros et importunos aspicimus,
+et intrinsecus de Dei adjutorio praesumimus, ipsam
+<pb n="0987A"/>
+tentationum nostrarum molestiam cum quadam
+indignatione arguimus dicentes: <hi>Quare fremuerunt
+gentes?</hi> Et est summa totius psalmi ad hoc tendens,
+ut per Dei potentiam confirmati, insolentes adversitates
+contemnamus, et tanto nos adversariis nostris
+fortiores, quanto Deo viciniores sumus, praesumamus.
+Illorum interitum festinum attendamus. Dei
+magnificentiam contra eorum superbiam frangendam
+opponamus, cum omni reverentia animum
+nostrum ad obsequium illius subjiciamus semper
+supra nos admirantes ejus potentiam, infra nos
+despicientes eorum insolentiam. Hic est affectus
+admirationis indignationi mistus ex laudatione surgens.
+Sequentis psalmi series non secundum unum
+affectum texitur, sed saepe de affectu in affectum
+<pb n="0988A"/>
+transit, verbi gratia: <hi>In angustiis constitutus; <note>(Psal. III)</note>
+          </hi>;
+quantum semper in Dei misericordia
+confidebam cogitare incipio, quia tamen quodammodo
+me ab eoderelictum video, ex affectu doloris in
+haec verba prorumpo. <hi>Domine, quid multiplicati sunt
+qui tribulant me? multi insurgunt adversum me <note>(ibid.)</note>
+          </hi>.
+Rursumque ex affectu doloris in affectum
+bonae praesumptionis recurrens aio: <hi>Tu autem, Domine,
+susceptor meus es <note>(ibid.)</note>
+          </hi>. Ut et moerorem per
+fiduciam relevem, et fiduciam per moerorem castigem.
+Et quis omnes virtutes psalmorum, quis illas
+ignitas compunctiones sanctorum affectuum enumerare
+loquendo potest? quibus mens in oratione
+accenditur, et gratissimum Deo sacrificium in ara
+cordis adoletur.
+</p>
+</div2>
+</body>
+  </text>
+</TEI>
