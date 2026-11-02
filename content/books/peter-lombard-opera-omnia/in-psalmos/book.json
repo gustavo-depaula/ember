@@ -1,0 +1,1016 @@
+{
+  "id": "lombard-in-psalmos",
+  "cover": "classic",
+  "name": {
+    "la": "Commentarium in Psalmos (Magna glosatura)",
+    "en-US": "Commentary on the Psalms (the Great Gloss)",
+    "pt-BR": "Comentário aos Salmos (a Grande Glosa)"
+  },
+  "author": {
+    "la": "Petrus Lombardus",
+    "en-US": "Peter Lombard",
+    "pt-BR": "Pedro Lombardo"
+  },
+  "description": {
+    "la": "Commentarium in totum Psalterium, glossa continua ex sanctorum Patrum sententiis (Hieronymi, Augustini, Cassiodori, Remigii, Haymonis et aliorum) composita; Psalmi I-CL, cum praefatione Magistri et collationibus Richardi Cenomani. Textus ex editione Migne (Patrologia Latina 191, 1854), ex Parisiensi anni 1541.",
+    "en-US": "The Master of the Sentences' running gloss on the whole Psalter, built from the Fathers (Jerome, Augustine, Cassiodorus, Remigius, Haymo and others) verse by verse, with the glossator's own prologue. The Latin is the Migne text (Patrologia Latina 191, 1854), after the Paris edition of 1541 with the Collationes of Richard of Le Mans; the sixteenth-century editors' prefaces and collations of the Psalter translations are kept. No English translation exists.",
+    "pt-BR": "A glosa contínua do Mestre das Sentenças sobre todo o Saltério, composta de sentenças dos Padres (Jerônimo, Agostinho, Cassiodoro, Remígio, Haimo e outros), versículo por versículo, com seu prólogo."
+  },
+  "composed": "c. 1135-1138",
+  "languages": [
+    "la"
+  ],
+  "work": "peter-lombard/psalmos",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 191), after the Paris 1541 edition",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=11455",
+      "edition": "Petri Lombardi Commentarii in Psalmos Davidicos, ed. J.-P. Migne, Patrologia Latina 191 (Paris 1854), cols. 55-1296, after the Paris 1541 edition; TEI XML of the Corpus Corporum (University of Zurich), work 6407, text 11455, from machine-corrected OCR.",
+      "description": "The seven prefatory pieces (the 1541 editor Richard of Le Mans's dedicatory letter, prologue, notes on the authorship of the Psalms and on commentaries, Ad lectorem, and Lombard's Praefatio), then Psalms I-CL one file each, with the Psalm titles and verse lemmata in bold and Richard's Collationes of the translations kept as sections at the end of the psalms that have them. Page and column breaks dropped; Migne's inline source references stay in parentheses and the glossed authority sigla in brackets. Psalm CXVIII is divided by Hebrew letter. Italic lemmata are not marked. Machine-corrected OCR; residual slips possible.",
+      "tier": "A",
+      "tierEvidence": "Lombard died in 1160; Migne's 1854 printing of the 1541 text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefationes",
+      "title": {
+        "la": "Praefationes"
+      },
+      "children": [
+        {
+          "id": "prae-01",
+          "title": {
+            "la": "Epistola nuncupatoria Richardi Cenomani ad Vincentium Lunellum"
+          }
+        },
+        {
+          "id": "prae-02",
+          "title": {
+            "la": "Prologus Richardi Cenomani: collatio diversarum translationum Psalterii"
+          }
+        },
+        {
+          "id": "prae-03",
+          "title": {
+            "la": "Disceptatio de auctoribus Psalmorum"
+          }
+        },
+        {
+          "id": "prae-04",
+          "title": {
+            "la": "De Commentariis divi Hieronymi in omne Psalterium"
+          }
+        },
+        {
+          "id": "prae-05",
+          "title": {
+            "la": "De Commentariis, an sint magistri"
+          }
+        },
+        {
+          "id": "prae-06",
+          "title": {
+            "la": "Ad lectorem"
+          }
+        },
+        {
+          "id": "prae-07",
+          "title": {
+            "la": "Praefatio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quinquagena-1",
+      "title": {
+        "la": "Quinquagena I: Psalmi 1-50"
+      },
+      "children": [
+        {
+          "id": "ps-001",
+          "title": {
+            "la": "Psalmus I"
+          }
+        },
+        {
+          "id": "ps-002",
+          "title": {
+            "la": "Psalmus II"
+          }
+        },
+        {
+          "id": "ps-003",
+          "title": {
+            "la": "Psalmus III"
+          }
+        },
+        {
+          "id": "ps-004",
+          "title": {
+            "la": "Psalmus IV"
+          }
+        },
+        {
+          "id": "ps-005",
+          "title": {
+            "la": "Psalmus V"
+          }
+        },
+        {
+          "id": "ps-006",
+          "title": {
+            "la": "Psalmus VI"
+          }
+        },
+        {
+          "id": "ps-007",
+          "title": {
+            "la": "Psalmus VII"
+          }
+        },
+        {
+          "id": "ps-008",
+          "title": {
+            "la": "Psalmus VIII"
+          }
+        },
+        {
+          "id": "ps-009",
+          "title": {
+            "la": "Psalmus IX"
+          }
+        },
+        {
+          "id": "ps-010",
+          "title": {
+            "la": "Psalmus X"
+          }
+        },
+        {
+          "id": "ps-011",
+          "title": {
+            "la": "Psalmus XI"
+          }
+        },
+        {
+          "id": "ps-012",
+          "title": {
+            "la": "Psalmus XII"
+          }
+        },
+        {
+          "id": "ps-013",
+          "title": {
+            "la": "Psalmus XIII"
+          }
+        },
+        {
+          "id": "ps-014",
+          "title": {
+            "la": "Psalmus XIV"
+          }
+        },
+        {
+          "id": "ps-015",
+          "title": {
+            "la": "Psalmus XV"
+          }
+        },
+        {
+          "id": "ps-016",
+          "title": {
+            "la": "Psalmus XVI"
+          }
+        },
+        {
+          "id": "ps-017",
+          "title": {
+            "la": "Psalmus XVII"
+          }
+        },
+        {
+          "id": "ps-018",
+          "title": {
+            "la": "Psalmus XVIII"
+          }
+        },
+        {
+          "id": "ps-019",
+          "title": {
+            "la": "Psalmus XIX"
+          }
+        },
+        {
+          "id": "ps-020",
+          "title": {
+            "la": "Psalmus XX"
+          }
+        },
+        {
+          "id": "ps-021",
+          "title": {
+            "la": "Psalmus XXI"
+          }
+        },
+        {
+          "id": "ps-022",
+          "title": {
+            "la": "Psalmus XXII"
+          }
+        },
+        {
+          "id": "ps-023",
+          "title": {
+            "la": "Psalmus XXIII"
+          }
+        },
+        {
+          "id": "ps-024",
+          "title": {
+            "la": "Psalmus XXIV"
+          }
+        },
+        {
+          "id": "ps-025",
+          "title": {
+            "la": "Psalmus XXV"
+          }
+        },
+        {
+          "id": "ps-026",
+          "title": {
+            "la": "Psalmus XXVI"
+          }
+        },
+        {
+          "id": "ps-027",
+          "title": {
+            "la": "Psalmus XXVII"
+          }
+        },
+        {
+          "id": "ps-028",
+          "title": {
+            "la": "Psalmus XXVIII"
+          }
+        },
+        {
+          "id": "ps-029",
+          "title": {
+            "la": "Psalmus XXIX"
+          }
+        },
+        {
+          "id": "ps-030",
+          "title": {
+            "la": "Psalmus XXX"
+          }
+        },
+        {
+          "id": "ps-031",
+          "title": {
+            "la": "Psalmus XXXI"
+          }
+        },
+        {
+          "id": "ps-032",
+          "title": {
+            "la": "Psalmus XXXII"
+          }
+        },
+        {
+          "id": "ps-033",
+          "title": {
+            "la": "Psalmus XXXIII"
+          }
+        },
+        {
+          "id": "ps-034",
+          "title": {
+            "la": "Psalmus XXXIV"
+          }
+        },
+        {
+          "id": "ps-035",
+          "title": {
+            "la": "Psalmus XXXV"
+          }
+        },
+        {
+          "id": "ps-036",
+          "title": {
+            "la": "Psalmus XXXVI"
+          }
+        },
+        {
+          "id": "ps-037",
+          "title": {
+            "la": "Psalmus XXXVII"
+          }
+        },
+        {
+          "id": "ps-038",
+          "title": {
+            "la": "Psalmus XXXVIII"
+          }
+        },
+        {
+          "id": "ps-039",
+          "title": {
+            "la": "Psalmus XXXIX"
+          }
+        },
+        {
+          "id": "ps-040",
+          "title": {
+            "la": "Psalmus XL"
+          }
+        },
+        {
+          "id": "ps-041",
+          "title": {
+            "la": "Psalmus XLI"
+          }
+        },
+        {
+          "id": "ps-042",
+          "title": {
+            "la": "Psalmus XLII"
+          }
+        },
+        {
+          "id": "ps-043",
+          "title": {
+            "la": "Psalmus XLIII"
+          }
+        },
+        {
+          "id": "ps-044",
+          "title": {
+            "la": "Psalmus XLIV"
+          }
+        },
+        {
+          "id": "ps-045",
+          "title": {
+            "la": "Psalmus XLV"
+          }
+        },
+        {
+          "id": "ps-046",
+          "title": {
+            "la": "Psalmus XLVI"
+          }
+        },
+        {
+          "id": "ps-047",
+          "title": {
+            "la": "Psalmus XLVII"
+          }
+        },
+        {
+          "id": "ps-048",
+          "title": {
+            "la": "Psalmus XLVIII"
+          }
+        },
+        {
+          "id": "ps-049",
+          "title": {
+            "la": "Psalmus XLIX"
+          }
+        },
+        {
+          "id": "ps-050",
+          "title": {
+            "la": "Psalmus L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quinquagena-2",
+      "title": {
+        "la": "Quinquagena II: Psalmi 51-100"
+      },
+      "children": [
+        {
+          "id": "ps-051",
+          "title": {
+            "la": "Psalmus LI"
+          }
+        },
+        {
+          "id": "ps-052",
+          "title": {
+            "la": "Psalmus LII"
+          }
+        },
+        {
+          "id": "ps-053",
+          "title": {
+            "la": "Psalmus LIII"
+          }
+        },
+        {
+          "id": "ps-054",
+          "title": {
+            "la": "Psalmus LIV"
+          }
+        },
+        {
+          "id": "ps-055",
+          "title": {
+            "la": "Psalmus LV"
+          }
+        },
+        {
+          "id": "ps-056",
+          "title": {
+            "la": "Psalmus LVI"
+          }
+        },
+        {
+          "id": "ps-057",
+          "title": {
+            "la": "Psalmus LVII"
+          }
+        },
+        {
+          "id": "ps-058",
+          "title": {
+            "la": "Psalmus LVIII"
+          }
+        },
+        {
+          "id": "ps-059",
+          "title": {
+            "la": "Psalmus LIX"
+          }
+        },
+        {
+          "id": "ps-060",
+          "title": {
+            "la": "Psalmus LX"
+          }
+        },
+        {
+          "id": "ps-061",
+          "title": {
+            "la": "Psalmus LXI"
+          }
+        },
+        {
+          "id": "ps-062",
+          "title": {
+            "la": "Psalmus LXII"
+          }
+        },
+        {
+          "id": "ps-063",
+          "title": {
+            "la": "Psalmus LXIII"
+          }
+        },
+        {
+          "id": "ps-064",
+          "title": {
+            "la": "Psalmus LXIV"
+          }
+        },
+        {
+          "id": "ps-065",
+          "title": {
+            "la": "Psalmus LXV"
+          }
+        },
+        {
+          "id": "ps-066",
+          "title": {
+            "la": "Psalmus LXVI"
+          }
+        },
+        {
+          "id": "ps-067",
+          "title": {
+            "la": "Psalmus LXVII"
+          }
+        },
+        {
+          "id": "ps-068",
+          "title": {
+            "la": "Psalmus LXVIII"
+          }
+        },
+        {
+          "id": "ps-069",
+          "title": {
+            "la": "Psalmus LXIX"
+          }
+        },
+        {
+          "id": "ps-070",
+          "title": {
+            "la": "Psalmus LXX"
+          }
+        },
+        {
+          "id": "ps-071",
+          "title": {
+            "la": "Psalmus LXXI"
+          }
+        },
+        {
+          "id": "ps-072",
+          "title": {
+            "la": "Psalmus LXXII"
+          }
+        },
+        {
+          "id": "ps-073",
+          "title": {
+            "la": "Psalmus LXXIII"
+          }
+        },
+        {
+          "id": "ps-074",
+          "title": {
+            "la": "Psalmus LXXIV"
+          }
+        },
+        {
+          "id": "ps-075",
+          "title": {
+            "la": "Psalmus LXXV"
+          }
+        },
+        {
+          "id": "ps-076",
+          "title": {
+            "la": "Psalmus LXXVI"
+          }
+        },
+        {
+          "id": "ps-077",
+          "title": {
+            "la": "Psalmus LXXVII"
+          }
+        },
+        {
+          "id": "ps-078",
+          "title": {
+            "la": "Psalmus LXXVIII"
+          }
+        },
+        {
+          "id": "ps-079",
+          "title": {
+            "la": "Psalmus LXXIX"
+          }
+        },
+        {
+          "id": "ps-080",
+          "title": {
+            "la": "Psalmus LXXX"
+          }
+        },
+        {
+          "id": "ps-081",
+          "title": {
+            "la": "Psalmus LXXXI"
+          }
+        },
+        {
+          "id": "ps-082",
+          "title": {
+            "la": "Psalmus LXXXII"
+          }
+        },
+        {
+          "id": "ps-083",
+          "title": {
+            "la": "Psalmus LXXXIII"
+          }
+        },
+        {
+          "id": "ps-084",
+          "title": {
+            "la": "Psalmus LXXXIV"
+          }
+        },
+        {
+          "id": "ps-085",
+          "title": {
+            "la": "Psalmus LXXXV"
+          }
+        },
+        {
+          "id": "ps-086",
+          "title": {
+            "la": "Psalmus LXXXVI"
+          }
+        },
+        {
+          "id": "ps-087",
+          "title": {
+            "la": "Psalmus LXXXVII"
+          }
+        },
+        {
+          "id": "ps-088",
+          "title": {
+            "la": "Psalmus LXXXVIII"
+          }
+        },
+        {
+          "id": "ps-089",
+          "title": {
+            "la": "Psalmus LXXXIX"
+          }
+        },
+        {
+          "id": "ps-090",
+          "title": {
+            "la": "Psalmus XC"
+          }
+        },
+        {
+          "id": "ps-091",
+          "title": {
+            "la": "Psalmus XCI"
+          }
+        },
+        {
+          "id": "ps-092",
+          "title": {
+            "la": "Psalmus XCII"
+          }
+        },
+        {
+          "id": "ps-093",
+          "title": {
+            "la": "Psalmus XCIII"
+          }
+        },
+        {
+          "id": "ps-094",
+          "title": {
+            "la": "Psalmus XCIV"
+          }
+        },
+        {
+          "id": "ps-095",
+          "title": {
+            "la": "Psalmus XCV"
+          }
+        },
+        {
+          "id": "ps-096",
+          "title": {
+            "la": "Psalmus XCVI"
+          }
+        },
+        {
+          "id": "ps-097",
+          "title": {
+            "la": "Psalmus XCVII"
+          }
+        },
+        {
+          "id": "ps-098",
+          "title": {
+            "la": "Psalmus XCVIII"
+          }
+        },
+        {
+          "id": "ps-099",
+          "title": {
+            "la": "Psalmus XCIX"
+          }
+        },
+        {
+          "id": "ps-100",
+          "title": {
+            "la": "Psalmus C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quinquagena-3",
+      "title": {
+        "la": "Quinquagena III: Psalmi 101-150"
+      },
+      "children": [
+        {
+          "id": "ps-101",
+          "title": {
+            "la": "Psalmus CI"
+          }
+        },
+        {
+          "id": "ps-102",
+          "title": {
+            "la": "Psalmus CII"
+          }
+        },
+        {
+          "id": "ps-103",
+          "title": {
+            "la": "Psalmus CIII"
+          }
+        },
+        {
+          "id": "ps-104",
+          "title": {
+            "la": "Psalmus CIV"
+          }
+        },
+        {
+          "id": "ps-105",
+          "title": {
+            "la": "Psalmus CV"
+          }
+        },
+        {
+          "id": "ps-106",
+          "title": {
+            "la": "Psalmus CVI"
+          }
+        },
+        {
+          "id": "ps-107",
+          "title": {
+            "la": "Psalmus CVII"
+          }
+        },
+        {
+          "id": "ps-108",
+          "title": {
+            "la": "Psalmus CVIII"
+          }
+        },
+        {
+          "id": "ps-109",
+          "title": {
+            "la": "Psalmus CIX"
+          }
+        },
+        {
+          "id": "ps-110",
+          "title": {
+            "la": "Psalmus CX"
+          }
+        },
+        {
+          "id": "ps-111",
+          "title": {
+            "la": "Psalmus CXI"
+          }
+        },
+        {
+          "id": "ps-112",
+          "title": {
+            "la": "Psalmus CXII"
+          }
+        },
+        {
+          "id": "ps-113",
+          "title": {
+            "la": "Psalmus CXIII"
+          }
+        },
+        {
+          "id": "ps-114",
+          "title": {
+            "la": "Psalmus CXIV"
+          }
+        },
+        {
+          "id": "ps-115",
+          "title": {
+            "la": "Psalmus CXV"
+          }
+        },
+        {
+          "id": "ps-116",
+          "title": {
+            "la": "Psalmus CXVI"
+          }
+        },
+        {
+          "id": "ps-117",
+          "title": {
+            "la": "Psalmus CXVII"
+          }
+        },
+        {
+          "id": "ps-118",
+          "title": {
+            "la": "Psalmus CXVIII"
+          }
+        },
+        {
+          "id": "ps-119",
+          "title": {
+            "la": "Psalmus CXIX"
+          }
+        },
+        {
+          "id": "ps-120",
+          "title": {
+            "la": "Psalmus CXX"
+          }
+        },
+        {
+          "id": "ps-121",
+          "title": {
+            "la": "Psalmus CXXI"
+          }
+        },
+        {
+          "id": "ps-122",
+          "title": {
+            "la": "Psalmus CXXII"
+          }
+        },
+        {
+          "id": "ps-123",
+          "title": {
+            "la": "Psalmus CXXIII"
+          }
+        },
+        {
+          "id": "ps-124",
+          "title": {
+            "la": "Psalmus CXXIV"
+          }
+        },
+        {
+          "id": "ps-125",
+          "title": {
+            "la": "Psalmus CXXV"
+          }
+        },
+        {
+          "id": "ps-126",
+          "title": {
+            "la": "Psalmus CXXVI"
+          }
+        },
+        {
+          "id": "ps-127",
+          "title": {
+            "la": "Psalmus CXXVII"
+          }
+        },
+        {
+          "id": "ps-128",
+          "title": {
+            "la": "Psalmus CXXVIII"
+          }
+        },
+        {
+          "id": "ps-129",
+          "title": {
+            "la": "Psalmus CXXIX"
+          }
+        },
+        {
+          "id": "ps-130",
+          "title": {
+            "la": "Psalmus CXXX"
+          }
+        },
+        {
+          "id": "ps-131",
+          "title": {
+            "la": "Psalmus CXXXI"
+          }
+        },
+        {
+          "id": "ps-132",
+          "title": {
+            "la": "Psalmus CXXXII"
+          }
+        },
+        {
+          "id": "ps-133",
+          "title": {
+            "la": "Psalmus CXXXIII"
+          }
+        },
+        {
+          "id": "ps-134",
+          "title": {
+            "la": "Psalmus CXXXIV"
+          }
+        },
+        {
+          "id": "ps-135",
+          "title": {
+            "la": "Psalmus CXXXV"
+          }
+        },
+        {
+          "id": "ps-136",
+          "title": {
+            "la": "Psalmus CXXXVI"
+          }
+        },
+        {
+          "id": "ps-137",
+          "title": {
+            "la": "Psalmus CXXXVII"
+          }
+        },
+        {
+          "id": "ps-138",
+          "title": {
+            "la": "Psalmus CXXXVIII"
+          }
+        },
+        {
+          "id": "ps-139",
+          "title": {
+            "la": "Psalmus CXXXIX"
+          }
+        },
+        {
+          "id": "ps-140",
+          "title": {
+            "la": "Psalmus CXL"
+          }
+        },
+        {
+          "id": "ps-141",
+          "title": {
+            "la": "Psalmus CXLI"
+          }
+        },
+        {
+          "id": "ps-142",
+          "title": {
+            "la": "Psalmus CXLII"
+          }
+        },
+        {
+          "id": "ps-143",
+          "title": {
+            "la": "Psalmus CXLIII"
+          }
+        },
+        {
+          "id": "ps-144",
+          "title": {
+            "la": "Psalmus CXLIV"
+          }
+        },
+        {
+          "id": "ps-145",
+          "title": {
+            "la": "Psalmus CXLV"
+          }
+        },
+        {
+          "id": "ps-146",
+          "title": {
+            "la": "Psalmus CXLVI"
+          }
+        },
+        {
+          "id": "ps-147",
+          "title": {
+            "la": "Psalmus CXLVII"
+          }
+        },
+        {
+          "id": "ps-148",
+          "title": {
+            "la": "Psalmus CXLVIII"
+          }
+        },
+        {
+          "id": "ps-149",
+          "title": {
+            "la": "Psalmus CXLIX"
+          }
+        },
+        {
+          "id": "ps-150",
+          "title": {
+            "la": "Psalmus CL"
+          }
+        }
+      ]
+    }
+  ]
+}
