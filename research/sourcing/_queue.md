@@ -36,7 +36,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Catechisms (rest; 9 books: Baltimore 1 and 3, Deharbe en/de, Canisius (Garnet), Gaume (Jamison, pt-PT Resumo), Spirago Explained, Butler). Left: Roman Catechism Latin (1830 Turin OCR needs proofing), Canisius Latin, Gaume French (8 vols), Spirago German and Anecdotes, Lynch's Deharbe, Astete
 - [x] Newman (30 books incl. the Anglican sermons). Left: Essays Critical and Historical, Discussions and Arguments, Tracts Theological, Arians, Tracts for the Times, Via Media lectures, Justification, Miracles, the rest of Historical Sketches, Dissertatiunculae, Athanasius
 - [ ] Faber · Challoner (rest) · Manning (18 books done: Faber's ten main works, Challoner's Catholic Christian Instructed and Think Well On't, six Manning). Continuing with the rest
-- [ ] R. H. Benson · More & Fisher
+- [x] R. H. Benson · More & Fisher (60 books). Left: Benson's Book of the Love of Jesus, Essays, Sermon Notes, Poems, Alphabet of Saints; More's Latin De Tristitia, Treatise on the Passion, Blessed Body, Instructions and Prayers, letters, Richard III, Epigrammata, Responsio, Lucian; Fisher's Latin works (scan-only); filling TCP gaps from the 1557 Workes
 - [ ] Chesterton (rest)
 - [ ] Marmion · Chautard
 - [ ] Garrigou-Lagrange · Tanquerey
