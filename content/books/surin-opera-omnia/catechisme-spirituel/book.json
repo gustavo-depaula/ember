@@ -1,0 +1,90 @@
+{
+  "id": "surin-catechisme-spirituel",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Catéchisme spirituel de la perfection chrétienne",
+    "en-US": "Spiritual Catechism of Christian Perfection",
+    "pt-BR": "Catecismo espiritual da perfeição cristã"
+  },
+  "author": {
+    "fr-FR": "Jean-Joseph Surin",
+    "en-US": "Jean-Joseph Surin",
+    "pt-BR": "Jean-Joseph Surin"
+  },
+  "description": {
+    "fr-FR": "Le grand traité de direction du P. Jean-Joseph Surin, S.J. (1600-1665), en questions et réponses : l’homme spirituel et les obstacles à la perfection, les vertus et les saintes pratiques, les fonctions apostoliques, les devoirs des diverses conditions, la réformation de l’homme et celle des passions, les actions ordinaires de la vie spirituelle et quelques points sur la perfection de l’âme. Texte de l’édition de 1801 (« nouvellement revue et corrigée » par le P. T. B. F.), en huit parties ; le texte numérisé est une copie imparfaite, avec des lacunes aux marges des pages.",
+    "en-US": "Father Jean-Joseph Surin’s great treatise of spiritual direction (1657-63), in questions and answers: the spiritual man and the obstacles to perfection, virtues and holy practices, apostolic work, the duties of the various states of life, the reformation of man and of the passions, the ordinary actions of the spiritual life and some points on the soul’s perfection. The text of the 1801 edition (“newly revised and corrected”), in eight parts; the scanned text is imperfect, with gaps at the page margins.",
+    "pt-BR": "O grande tratado de direção espiritual do P. Jean-Joseph Surin, S.J. (1600-1665), em perguntas e respostas: o homem espiritual e os obstáculos à perfeição, as virtudes e as práticas santas, as funções apostólicas, os deveres dos diversos estados de vida, a reforma do homem e a das paixões, as ações ordinárias da vida espiritual e alguns pontos sobre a perfeição da alma. Texto da edição de 1801, em oito partes; o texto digitalizado é imperfeito."
+  },
+  "composed": "1657-1663",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "surin/catechisme-spirituel",
+  "editions": {
+    "fr-FR": {
+      "editor": "P. T. B. F. (nouvellement revu et corrigé), Paris: Belin",
+      "year": 1801
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/catchismespirit00surigoog",
+      "edition": "Catéchisme spirituel de la perfection chrétienne, composé par le R. P. J.-J. Surin, de la Compagnie de Jésus, nouvellement revu et corrigé par le P. T. B. F., tome second, Paris: Belin / Évreux, an IX [1801]. Internet Archive (Google) scan, OCR text.",
+      "description": "The eight parts of the volume (Table des chapitres of Tome II) as printed, with the chapter headings restored from the printed table where the OCR kept the heading; headings the OCR lost are not marked and their text runs on. Google boilerplate, running heads and signatures stripped, lines rejoined by hand rules. The scan loses words at the margins of many pages and the last pages are badly garbled; the text is not proofread. The 17th-century editions (1669, 1683) and the 1882 Œuvres spirituelles would be better witnesses (Google Books full view, not reachable from the sourcing machine).",
+      "tier": "A",
+      "tierEvidence": "Surin died in 1665; the 1801 edition is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "partie-1",
+      "title": {
+        "fr-FR": "Première partie"
+      }
+    },
+    {
+      "id": "partie-2",
+      "title": {
+        "fr-FR": "Seconde partie : Où l’on traite de plusieurs vertus et de plusieurs saintes pratiques qui regardent l’intérieur de l’homme"
+      }
+    },
+    {
+      "id": "partie-3",
+      "title": {
+        "fr-FR": "Troisième partie : Des fonctions apostoliques"
+      }
+    },
+    {
+      "id": "partie-4",
+      "title": {
+        "fr-FR": "Quatrième partie : Où l’on donne des instructions à plusieurs personnes de diverses conditions"
+      }
+    },
+    {
+      "id": "partie-5",
+      "title": {
+        "fr-FR": "Cinquième partie : Où l’on traite de la réformation de l’homme, faite par la grâce"
+      }
+    },
+    {
+      "id": "partie-6",
+      "title": {
+        "fr-FR": "Sixième partie : Où l’on traite de la réformation des passions"
+      }
+    },
+    {
+      "id": "partie-7",
+      "title": {
+        "fr-FR": "Septième partie : Où l’on traite des actions ordinaires qui partagent la vie de l’homme spirituel"
+      }
+    },
+    {
+      "id": "partie-8",
+      "title": {
+        "fr-FR": "Huitième partie : De quelques points qui regardent la perfection de l’âme"
+      }
+    }
+  ]
+}
