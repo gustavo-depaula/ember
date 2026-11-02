@@ -1,0 +1,353 @@
+{
+  "id": "celano-vita-prima",
+  "cover": "classic",
+  "name": {
+    "la": "Vita prima sancti Francisci",
+    "en-US": "The First Life of St. Francis (Vita prima)",
+    "pt-BR": "Primeira Vida de São Francisco (Vita prima)"
+  },
+  "author": {
+    "la": "Thomas de Celano",
+    "en-US": "Thomas of Celano",
+    "pt-BR": "Tomás de Celano"
+  },
+  "description": {
+    "la": "Thomae de Celano Vita prima sancti Francisci (1228-1229), iussu Gregorii IX ante canonizationem scripta: prologus, tria opuscula (vita, ultimi anni et obitus, canonizatio et miracula) et epilogus, cum paragraphis et versibus numeratis.",
+    "en-US": "Thomas of Celano’s First Life of St. Francis (1228-1229), written by order of Gregory IX for the canonization: a prologue, three books (his life; his last years and death; the canonization and miracles) and an epilogue, in the Latin text with paragraph and verse numbers. Titles of the parts and chapters are the source’s.",
+    "pt-BR": "A Primeira Vida de São Francisco, por Tomás de Celano (1228-1229), escrita por ordem de Gregório IX para a canonização: prólogo, três livros e epílogo."
+  },
+  "composed": "1228-1229",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-of-celano/vita-prima",
+  "editions": {
+    "la": {
+      "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_vitaprima_lat.html",
+      "edition": "Thomas of Celano, Vita prima, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "Prologue, three opuscula (30 + 10 + 1 chapters), the Miracula and the epilogue, with the source’s paragraph numbers in bold and verse numbers as superscripts. The English of A. G. Ferrers Howell (1908) is OCR only and is not imported.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pars-1",
+      "title": {
+        "la": "PROLOGUS"
+      },
+      "children": [
+        {
+          "id": "cap-001",
+          "title": {
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-2",
+      "title": {
+        "la": "OPUSCULUM PRIMUM"
+      },
+      "children": [
+        {
+          "id": "cap-002",
+          "title": {
+            "la": "Caput I - Qualiter conversatus sit in habitu et animo saeculari."
+          }
+        },
+        {
+          "id": "cap-003",
+          "title": {
+            "la": "Caput II - Qualiter Deus visitavit cor eius per corporis infirmitatem et nocturnam visionem."
+          }
+        },
+        {
+          "id": "cap-004",
+          "title": {
+            "la": "Caput III - Qualiter mente sed non corpore mutatus de thesauro invento et sponsa allegorice loquebatur."
+          }
+        },
+        {
+          "id": "cap-005",
+          "title": {
+            "la": "Caput IV - Qualiter, venditis omnibus, pecuniam susceptam contempsit."
+          }
+        },
+        {
+          "id": "cap-006",
+          "title": {
+            "la": "Caput V - Qualiter pater eius persequens ligavit eum."
+          }
+        },
+        {
+          "id": "cap-007",
+          "title": {
+            "la": "Caput VI - Qualiter mater eius solvit eum, et quomodo coram Episcopo Assisii se denudavit."
+          }
+        },
+        {
+          "id": "cap-008",
+          "title": {
+            "la": "Caput VII - Qualiter a latronibus captus, proiectus fuit in nive et quomodo servivit leprosis."
+          }
+        },
+        {
+          "id": "cap-009",
+          "title": {
+            "la": "Caput VIII - Quomodo construxit ecclesiam Sancti Damiani et de conversatione Dominarum in eodem loco degentium."
+          }
+        },
+        {
+          "id": "cap-010",
+          "title": {
+            "la": "Caput IX - Quomodo, mutato habitu, refecit ecclesiam Sanctae Mariae in Portiuncula et audito Evangelio, relictis omnibus habitum quem fratres habent adinvenit et fecit."
+          }
+        },
+        {
+          "id": "cap-011",
+          "title": {
+            "la": "Caput X - De preadicatione Evangelii et annuntiatione pacis et sex primorum Fratrum conversione."
+          }
+        },
+        {
+          "id": "cap-012",
+          "title": {
+            "la": "Caput XI - De spiritu prophetiae et monitis sancti Francisci."
+          }
+        },
+        {
+          "id": "cap-013",
+          "title": {
+            "la": "Caput XII - Quomodo misit eos binos per mundum, et in brevi tempore iterum congregati sunt."
+          }
+        },
+        {
+          "id": "cap-014",
+          "title": {
+            "la": "Caput XIII - Quomodo primo regulam scripsit undecim habens fratres, et quomodo dominus Papa Inocentius eam confirmavit, et de visione arboris."
+          }
+        },
+        {
+          "id": "cap-015",
+          "title": {
+            "la": "Caput XIV - De reditu ipsius ab urbe Roma in vallem Spoletanam et de mora ipsius per viam."
+          }
+        },
+        {
+          "id": "cap-016",
+          "title": {
+            "la": "Caput XV - De fama beati Francisci et de conversione multorum ad Deum, et quomodo Ordo vocatus est fratrum Minorum, et qualiter religionem intrantes beatus Franciscus informabat."
+          }
+        },
+        {
+          "id": "cap-017",
+          "title": {
+            "la": "Caput XVI - De mora ipsius apud Rigum Tortum et de custodia paupertatis."
+          }
+        },
+        {
+          "id": "cap-018",
+          "title": {
+            "la": "Caput XVII - Quomodo beatus Francicus docuit fratres orare, et de obedientia et puritate fratrum."
+          }
+        },
+        {
+          "id": "cap-019",
+          "title": {
+            "la": "Caput XVIII - De curru igneo et notitia absentium quam beatus Franciscus habebat."
+          }
+        },
+        {
+          "id": "cap-020",
+          "title": {
+            "la": "Caput XIX - De custodia qua super fratres vigilabat, et de contemptu sui et vera humilitate."
+          }
+        },
+        {
+          "id": "cap-021",
+          "title": {
+            "la": "Caput XX - De desiderio quo ad suscipiendum martyrium ferebatur Hispaniam primo, deinde Syriam deambulans, et quomodo Deus per eum nautas de periculo, multiplicatis cibariis liberavit."
+          }
+        },
+        {
+          "id": "cap-022",
+          "title": {
+            "la": "Caput XXI - De praedicatione avium et obedientia creaturarum."
+          }
+        },
+        {
+          "id": "cap-023",
+          "title": {
+            "la": "Caput XXII - De praedicatione ipsius apud Esculum, et quomodo per ea quae manu tetigerat, ipso absente, sanabantur infirmi."
+          }
+        },
+        {
+          "id": "cap-024",
+          "title": {
+            "la": "Caput XXIII - Quomodo claudum apud Tuscanellam et paralyticum apud Narnium sanavit."
+          }
+        },
+        {
+          "id": "cap-025",
+          "title": {
+            "la": "Caput XXIV - Quomodo mulierem caecam illuminavit et apud Eugubium aliam contractam extendit."
+          }
+        },
+        {
+          "id": "cap-026",
+          "title": {
+            "la": "Caput XXV - Quomodo fratrem unum a caduco morbo seu a daemonio liberavit, et quomodo apud Sancti Gemini castrum daemoniacam liberavit."
+          }
+        },
+        {
+          "id": "cap-027",
+          "title": {
+            "la": "Caput XXVI - Quomodo etiam apud Civitatem de Castello daemonium expulit."
+          }
+        },
+        {
+          "id": "cap-028",
+          "title": {
+            "la": "Caput XXVII - De claritate et constantia mentis eius et de praedicatione coram domino Papa Honorio,et quomodo se et fratres commisit domino Hugoni, episcopo Ostiensi."
+          }
+        },
+        {
+          "id": "cap-029",
+          "title": {
+            "la": "Caput XXVIII - De spiritu charitatis et affectu compassionis quo fervebat erga pauperes, et quid de ove et agniculis fecerit."
+          }
+        },
+        {
+          "id": "cap-030",
+          "title": {
+            "la": "Caput XXIX - De amore quem propter Creatorem in omnibus creaturis habebat et de descriptione utriusque hominis sui."
+          }
+        },
+        {
+          "id": "cap-031",
+          "title": {
+            "la": "Caput XXX - De praesepio quod fecit in die natalis Domini."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-3",
+      "title": {
+        "la": "OPUSCULUM SECUNDUM"
+      },
+      "children": [
+        {
+          "id": "cap-032",
+          "title": {
+            "la": "Caput I - De tenore huius opuscoli, de tempore quo S. Franciscus feliciter obiit, et de profectibus ipsius."
+          }
+        },
+        {
+          "id": "cap-033",
+          "title": {
+            "la": "Caput II - De summo desiderio beati Francisci, et qualiter in libri apertione intelexit de se Domini voluntatem."
+          }
+        },
+        {
+          "id": "cap-034",
+          "title": {
+            "la": "Caput III - De visione hominis imaginem Seraphim crucifixi habentis."
+          }
+        },
+        {
+          "id": "cap-035",
+          "title": {
+            "la": "Caput IV - De fervore beati Francisci et infirmitate oculorum eius."
+          }
+        },
+        {
+          "id": "cap-036",
+          "title": {
+            "la": "Caput V - Qualiter apud Reatum civitatem receptus fuit a domino Hugone Ostiensi episcopo, et quomodo santus eum pronuntiabat futurum episcopum totius mundi."
+          }
+        },
+        {
+          "id": "cap-037",
+          "title": {
+            "la": "Caput VI - De moribus fratrum famulantium sancto Francisco, et qualiter ipse disponebat conversari."
+          }
+        },
+        {
+          "id": "cap-038",
+          "title": {
+            "la": "Caput VII - Quomodo de Senis venit Assisium, et de ecclesia Sanctae Mariae de Portiuncula, et de fratrum benedictione."
+          }
+        },
+        {
+          "id": "cap-039",
+          "title": {
+            "la": "Caput VIII - Quid fecerit et dixerit quando feliciter obiit."
+          }
+        },
+        {
+          "id": "cap-040",
+          "title": {
+            "la": "Caput IX - Lamentum fratrum et gaudium cum cernerent signa ferentem crucis, et de alis Seraphim."
+          }
+        },
+        {
+          "id": "cap-041",
+          "title": {
+            "la": "Caput X - De planctu Dominarum apud Sanctum Damianum et quomodo cum laude et gloria sepultus est."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-4",
+      "title": {
+        "la": "OPUSCULUM TERTIUM"
+      },
+      "children": [
+        {
+          "id": "cap-042",
+          "title": {
+            "la": "Caput 42"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-5",
+      "title": {
+        "la": "MIRACULA S. FRANCISCI"
+      },
+      "children": [
+        {
+          "id": "cap-043",
+          "title": {
+            "la": "Caput 43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-6",
+      "title": {
+        "la": "[EPILOGUS]"
+      },
+      "children": [
+        {
+          "id": "cap-044",
+          "title": {
+            "la": "Caput 44"
+          }
+        }
+      ]
+    }
+  ]
+}
