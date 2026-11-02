@@ -1,0 +1,90 @@
+{
+  "id": "berulle-traite-des-energumenes",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Traité des énergumènes",
+    "en-US": "Treatise on the Possessed",
+    "pt-BR": "Tratado dos energúmenos"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Le traité de 1599 sur la possession diabolique, son discernement et ses remèdes.",
+    "en-US": "The 1599 treatise on diabolical possession, its discernment and its remedies.",
+    "pt-BR": "O tratado de 1599 sobre a possessão diabólica, seu discernimento e seus remédios."
+  },
+  "composed": 1599,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/traite-des-energumenes",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapitre-01",
+      "title": {
+        "fr-FR": "Chapitre 1"
+      }
+    },
+    {
+      "id": "chapitre-02",
+      "title": {
+        "fr-FR": "Chapitre 2"
+      }
+    },
+    {
+      "id": "chapitre-03",
+      "title": {
+        "fr-FR": "Chapitre 3"
+      }
+    },
+    {
+      "id": "chapitre-04",
+      "title": {
+        "fr-FR": "Chapitre 4–5"
+      }
+    },
+    {
+      "id": "chapitre-06",
+      "title": {
+        "fr-FR": "Chapitre 6"
+      }
+    },
+    {
+      "id": "chapitre-07",
+      "title": {
+        "fr-FR": "Chapitre 7"
+      }
+    },
+    {
+      "id": "chapitre-08",
+      "title": {
+        "fr-FR": "Chapitre 8. Quel est le dessein de satan envers celui lequel il possède"
+      }
+    },
+    {
+      "id": "chapitre-09",
+      "title": {
+        "fr-FR": "Chapitre 9"
+      }
+    }
+  ]
+}
