@@ -1,0 +1,678 @@
+{
+  "id": "avila-epistolario-sala-balust",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Epistolario (edición crítica de Sala Balust): otras cartas",
+    "en-US": "Letters (Sala Balust's critical edition): further letters",
+    "pt-BR": "Epistolário (edição crítica de Sala Balust): outras cartas"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Cartas de san Juan de Ávila de la edición crítica de Luis Sala Balust (BAC, 1952) que no están en el libro «Epistolario espiritual» (las cien cartas del Apostolado Mariano): a predicadores, señores, señoras, doncellas, religiosas y discípulos. Cada carta lleva su número en la edición de Sala Balust, con los epígrafes de contenido del editor; el texto es el del siglo XVI con sus lecciones críticas, sin el aparato de variantes ni las notas.",
+    "en-US": "Letters of St. John of Ávila from Luis Sala Balust's critical edition (BAC, 1952) that are not in the book «Epistolario espiritual» (the hundred letters of the Apostolado Mariano edition): to preachers, noblemen, ladies, maidens, religious and disciples. Each letter keeps its Sala Balust number and the editor's one-line summary; the text is the sixteenth-century critical text, without the variants apparatus or the notes.",
+    "pt-BR": "Cartas de São João de Ávila da edição crítica de Luis Sala Balust (BAC, 1952) que não estão no livro «Epistolário espiritual»."
+  },
+  "composed": "1535–1569",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-avila/epistolario",
+  "editions": {
+    "es-ES": {
+      "editor": "Luis Sala Balust (BAC)",
+      "year": 1952
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascompletased01avil",
+      "edition": "Obras completas del B. Mtro. Juan de Ávila, edición crítica de Luis Sala Balust, vol. I (Epistolario, pp. 257 ff.), Madrid: Editorial Católica (BAC 111), 1952; archive.org scan, OCR.",
+      "description": "The letters of the critical edition that the Apostolado book lacks, located in the OCR by their headings and source lines and told apart from the 100 Apostolado letters by comparing their opening words. Letter numbers are Sala Balust's; letters 20 and 85 are printed in several parts [1], [2], [3]. The line numbers, the variants apparatus, the scripture-reference lines and the editor's footnotes are removed. The headings are the index titles of the edition.",
+      "tier": "B",
+      "tierEvidence": "The letters are Ávila's (public domain); the 1952 scan is freely posted on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l009",
+      "title": {
+        "es-ES": "Carta 9. A un predicador"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "es-ES": "Carta 14. A un señor de estos reinos"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "es-ES": "Carta 15. A un señor de estos reinos"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "es-ES": "Carta 16. A un señor de título"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "es-ES": "Carta 17. A un señor de título, enfermo"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "es-ES": "Carta 18. A un Señor de título, enfermo y muy temeroso"
+      }
+    },
+    {
+      "id": "l020b",
+      "title": {
+        "es-ES": "Carta 20 [2]. A una persona que estaba tentada"
+      }
+    },
+    {
+      "id": "l020c",
+      "title": {
+        "es-ES": "Carta 20 [3]. A cierta persona devota"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "es-ES": "Carta 25. A una señora"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "es-ES": "Carta 29. A una señora ilustn'sima"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "es-ES": "Carta 30. A una doncella"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "es-ES": "Carta 35. A una señora"
+      }
+    },
+    {
+      "id": "l036",
+      "title": {
+        "es-ES": "Carta 36. [A unos deudos suyos, casados en Almodóvar]"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "es-ES": "Carta 41. A una doncella atribulada por el desamparo espiritual que sentía"
+      }
+    },
+    {
+      "id": "l049",
+      "title": {
+        "es-ES": "Carta 49. A una mujer devota que padecía trabajos"
+      }
+    },
+    {
+      "id": "l051",
+      "title": {
+        "es-ES": "Carta 51. A una mujer casada, a cuyo hijo le había sucedido una desgracia"
+      }
+    },
+    {
+      "id": "l053",
+      "title": {
+        "es-ES": "Carta 53. A un devoto siervo de dlos [teólogo j, que en- tendía junto con otros en algunas buenas obras (fragmento)"
+      }
+    },
+    {
+      "id": "l055",
+      "title": {
+        "es-ES": "Carta 55. A una señora que él tenía muy a su cargo y temía que le daba pesadumbre"
+      }
+    },
+    {
+      "id": "l057",
+      "title": {
+        "es-ES": "Carta 57. A un hombre devoto"
+      }
+    },
+    {
+      "id": "l059",
+      "title": {
+        "es-ES": "Carta 59. A un devoto :"
+      }
+    },
+    {
+      "id": "l060",
+      "title": {
+        "es-ES": "Carta 60. A una persona afligida"
+      }
+    },
+    {
+      "id": "l065",
+      "title": {
+        "es-ES": "Carta 65. A una doncella que quería entrar en religión"
+      }
+    },
+    {
+      "id": "l076",
+      "title": {
+        "es-ES": "Carta 76. A un su amigo"
+      }
+    },
+    {
+      "id": "l077",
+      "title": {
+        "es-ES": "Carta 77. A una persona afligí da"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "es-ES": "Carta 78. A una señora que se le había muerto su marido"
+      }
+    },
+    {
+      "id": "l079",
+      "title": {
+        "es-ES": "Carta 79. A. una doncella"
+      }
+    },
+    {
+      "id": "l080",
+      "title": {
+        "es-ES": "Carta 80. A una doncella"
+      }
+    },
+    {
+      "id": "l085",
+      "title": {
+        "es-ES": "Carta 85. L1j a una devota suya"
+      }
+    },
+    {
+      "id": "l085b",
+      "title": {
+        "es-ES": "Carta 85 [2]. A una persona devota"
+      }
+    },
+    {
+      "id": "l085c",
+      "title": {
+        "es-ES": "Carta 85 [3]. A una religiosa"
+      }
+    },
+    {
+      "id": "l086",
+      "title": {
+        "es-ES": "Carta 86. [Para la villa de Utrera]"
+      }
+    },
+    {
+      "id": "l089",
+      "title": {
+        "es-ES": "Carta 89. A una señora temerosa de parecer delante de Dios"
+      }
+    },
+    {
+      "id": "l091",
+      "title": {
+        "es-ES": "Carta 91. A una doncella trabajada"
+      }
+    },
+    {
+      "id": "l098",
+      "title": {
+        "es-ES": "Carta 98. A la misma señora"
+      }
+    },
+    {
+      "id": "l099",
+      "title": {
+        "es-ES": "Carta 99. A una señora afligida con trabajos"
+      }
+    },
+    {
+      "id": "l101",
+      "title": {
+        "es-ES": "Carta 101. A una señora que se había consagrado a Dios"
+      }
+    },
+    {
+      "id": "l102",
+      "title": {
+        "es-ES": "Carta 102. A una señora trabajada"
+      }
+    },
+    {
+      "id": "l106",
+      "title": {
+        "es-ES": "Carta 106. A una señora viuda"
+      }
+    },
+    {
+      "id": "l107",
+      "title": {
+        "es-ES": "Carta 107. A un su amigo"
+      }
+    },
+    {
+      "id": "l108",
+      "title": {
+        "es-ES": "Carta 108. A una señora que padecía trabajos"
+      }
+    },
+    {
+      "id": "l109",
+      "title": {
+        "es-ES": "Carta 109. A una señora enferma"
+      }
+    },
+    {
+      "id": "l110",
+      "title": {
+        "es-ES": "Carta 110. A una señora que le preguntó qué sería estar trabajada y desconsolada y alegre de lo estar"
+      }
+    },
+    {
+      "id": "l111",
+      "title": {
+        "es-ES": "Carta 111. Epistolario. segunda parte 1x1 a un su devoto"
+      }
+    },
+    {
+      "id": "l117",
+      "title": {
+        "es-ES": "Carta 117. A un sacerdote que estaba enfermo"
+      }
+    },
+    {
+      "id": "l118",
+      "title": {
+        "es-ES": "Carta 118. A una doncella"
+      }
+    },
+    {
+      "id": "l121",
+      "title": {
+        "es-ES": "Carta 121. A una señora"
+      }
+    },
+    {
+      "id": "l122",
+      "title": {
+        "es-ES": "Carta 122. A una señora de título"
+      }
+    },
+    {
+      "id": "l125",
+      "title": {
+        "es-ES": "Carta 125. A una señora"
+      }
+    },
+    {
+      "id": "l129",
+      "title": {
+        "es-ES": "Carta 129. A una señora"
+      }
+    },
+    {
+      "id": "l130",
+      "title": {
+        "es-ES": "Carta 130. A una señora"
+      }
+    },
+    {
+      "id": "l131",
+      "title": {
+        "es-ES": "Carta 131. A una señora"
+      }
+    },
+    {
+      "id": "l132",
+      "title": {
+        "es-ES": "Carta 132. A una señora"
+      }
+    },
+    {
+      "id": "l135",
+      "title": {
+        "es-ES": "Carta 135. A una señora"
+      }
+    },
+    {
+      "id": "l136",
+      "title": {
+        "es-ES": "Carta 136. A un sacerdote"
+      }
+    },
+    {
+      "id": "l137",
+      "title": {
+        "es-ES": "Carta 137. A nn amigo suyo"
+      }
+    },
+    {
+      "id": "l139",
+      "title": {
+        "es-ES": "Carta 139. A una persona escrupulosa"
+      }
+    },
+    {
+      "id": "l140",
+      "title": {
+        "es-ES": "Carta 140. A un caballero que se fué a estudiar a Salamanca y allí le hicieron rector [don Antonio de Córdoba]"
+      }
+    },
+    {
+      "id": "l143",
+      "title": {
+        "es-ES": "Carta 143. A un caballero amigo suyo"
+      }
+    },
+    {
+      "id": "l146",
+      "title": {
+        "es-ES": "Carta 146. A un caballero amigo suyo"
+      }
+    },
+    {
+      "id": "l147",
+      "title": {
+        "es-ES": "Carta 147. A una persona"
+      }
+    },
+    {
+      "id": "l148",
+      "title": {
+        "es-ES": "Carta 148. A unos canónigos de cierta iglesia de estos reinos"
+      }
+    },
+    {
+      "id": "l149",
+      "title": {
+        "es-ES": "Carta 149. A un su devoto"
+      }
+    },
+    {
+      "id": "l150",
+      "title": {
+        "es-ES": "Carta 150. A un hijo de penitencia"
+      }
+    },
+    {
+      "id": "l151",
+      "title": {
+        "es-ES": "Carta 151. Religión, estando enfermo. 15jf9"
+      }
+    },
+    {
+      "id": "l152",
+      "title": {
+        "es-ES": "Carta 152. A un caballero al cual pretendía llevar a la religión [don Antonio de Córdoba] ¡"
+      }
+    },
+    {
+      "id": "l153",
+      "title": {
+        "es-ES": "Carta 153. A un amigo suyo, a quien dlos había llamado"
+      }
+    },
+    {
+      "id": "l154",
+      "title": {
+        "es-ES": "Carta 154. A un caballero de estos reinos discípulo suyo"
+      }
+    },
+    {
+      "id": "l155",
+      "title": {
+        "es-ES": "Carta 155. A un caballero de estos reinos, su discípulo"
+      }
+    },
+    {
+      "id": "l157",
+      "title": {
+        "es-ES": "Carta 157. A un discípulo"
+      }
+    },
+    {
+      "id": "l162",
+      "title": {
+        "es-ES": "Carta 162. A un cura de almas a quien Dios había hecho merced de llamarle a la vida espiritual"
+      }
+    },
+    {
+      "id": "l163",
+      "title": {
+        "es-ES": "Carta 163. A un su conocido"
+      }
+    },
+    {
+      "id": "l165",
+      "title": {
+        "es-ES": "Carta 165. A un sü discípulo predicador"
+      }
+    },
+    {
+      "id": "l167",
+      "title": {
+        "es-ES": "Carta 167. Al mismo"
+      }
+    },
+    {
+      "id": "l168",
+      "title": {
+        "es-ES": "Carta 168. A un caballero de estos reinos, estando"
+      }
+    },
+    {
+      "id": "l169",
+      "title": {
+        "es-ES": "Carta 169. Epistolario. tercera parte 169 a un su conocido que tenía cargo de unos enfermos"
+      }
+    },
+    {
+      "id": "l170",
+      "title": {
+        "es-ES": "Carta 170. A un religioso discípulo suyo, predicador"
+      }
+    },
+    {
+      "id": "l171",
+      "title": {
+        "es-ES": "Carta 171. A otro discípulo suyo que estaba atribulado"
+      }
+    },
+    {
+      "id": "l172",
+      "title": {
+        "es-ES": "Carta 172. Epistolario. tercera parte 172 a un discípulo suyo que estaba enfermo"
+      }
+    },
+    {
+      "id": "l173",
+      "title": {
+        "es-ES": "Carta 173. A un discípulo suyo"
+      }
+    },
+    {
+      "id": "l174",
+      "title": {
+        "es-ES": "Carta 174. A otro discípulo suyo"
+      }
+    },
+    {
+      "id": "l179",
+      "title": {
+        "es-ES": "Carta 179. A un prelado de granada [don Pedro"
+      }
+    },
+    {
+      "id": "l183",
+      "title": {
+        "es-ES": "Carta 183. A un amig0 sacerdote"
+      }
+    },
+    {
+      "id": "l184",
+      "title": {
+        "es-ES": "Carta 184. Epistolario. cuarta parte 184 a un mancebo"
+      }
+    },
+    {
+      "id": "l185",
+      "title": {
+        "es-ES": "Carta 185. De guzmán, mi Señor, en avila\""
+      }
+    },
+    {
+      "id": "l186",
+      "title": {
+        "es-ES": "Carta 186. La marquesa de priego"
+      }
+    },
+    {
+      "id": "l198",
+      "title": {
+        "es-ES": "Carta 198. A la señora duquesa de arcos"
+      }
+    },
+    {
+      "id": "l200",
+      "title": {
+        "es-ES": "Carta 200. A una hija devota suya"
+      }
+    },
+    {
+      "id": "l201",
+      "title": {
+        "es-ES": "Carta 201. A una su devota"
+      }
+    },
+    {
+      "id": "l205",
+      "title": {
+        "es-ES": "Carta 205. A una doncella"
+      }
+    },
+    {
+      "id": "l206",
+      "title": {
+        "es-ES": "Carta 206. A una ^ suya"
+      }
+    },
+    {
+      "id": "l209",
+      "title": {
+        "es-ES": "Carta 209. Epistolario. quinta parte 211 a un hijo espiritual, clérigo"
+      }
+    },
+    {
+      "id": "l212",
+      "title": {
+        "es-ES": "Carta 212. A una señora"
+      }
+    },
+    {
+      "id": "l213",
+      "title": {
+        "es-ES": "Carta 213. Epistolario. quinta parte 213 -a- una viuda, madre j. gonzález"
+      }
+    },
+    {
+      "id": "l222",
+      "title": {
+        "es-ES": "Carta 222. A una religiosa"
+      }
+    },
+    {
+      "id": "l223",
+      "title": {
+        "es-ES": "Carta 223. Ta un discípulo"
+      }
+    },
+    {
+      "id": "l226",
+      "title": {
+        "es-ES": "Carta 226. A una religiosa"
+      }
+    },
+    {
+      "id": "l227",
+      "title": {
+        "es-ES": "Carta 227. A una abadesa"
+      }
+    },
+    {
+      "id": "l229",
+      "title": {
+        "es-ES": "Carta 229. A una persona que padecía sequedades y tentaciones"
+      }
+    },
+    {
+      "id": "l230",
+      "title": {
+        "es-ES": "Carta 230. A un su discípulo"
+      }
+    },
+    {
+      "id": "l237",
+      "title": {
+        "es-ES": "Carta 237. A una religiosa"
+      }
+    },
+    {
+      "id": "l238",
+      "title": {
+        "es-ES": "Carta 238. Un mancebo"
+      }
+    },
+    {
+      "id": "l249",
+      "title": {
+        "es-ES": "Carta 249. A la condesa de feria"
+      }
+    },
+    {
+      "id": "l250",
+      "title": {
+        "es-ES": "Carta 250. De vida chíu-"
+      }
+    },
+    {
+      "id": "l251",
+      "title": {
+        "es-ES": "Carta 251. I"
+      }
+    },
+    {
+      "id": "l252",
+      "title": {
+        "es-ES": "Carta 252. H"
+      }
+    },
+    {
+      "id": "l253",
+      "title": {
+        "es-ES": "Carta 253. A. h., ms. 12-12-2/266, f. 184 ¡r.)"
+      }
+    }
+  ]
+}
