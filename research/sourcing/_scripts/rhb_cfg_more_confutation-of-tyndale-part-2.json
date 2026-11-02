@@ -1,0 +1,21 @@
+{
+ "id": "more-confutation-of-tyndale-part-2",
+ "dir": "more-opera-omnia/confutation-of-tyndale-part-2",
+ "slug": "confutation-of-tyndale-part-2",
+ "work": "more/confutation-of-tyndale-part-2",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07694.xml",
+ "name": "The Confutation of Tyndale's Answer, Part II",
+ "name_pt": "A Refutação da Resposta de Tyndale, Parte II",
+ "desc": "The second part of More's Confutation (1533), continuing the reply to Tyndale on purgatory, the Eucharist and the Church.",
+ "desc_pt": "A segunda parte da Refutação de More (1533), continuando a resposta a Tyndale sobre o purgatório, a Eucaristia e a Igreja.",
+ "composed": 1533,
+ "editor": "Thomas More (London: William Rastell, 1533)",
+ "year": 1533,
+ "url": "https://github.com/textcreationpartnership/A07694",
+ "edition": "The second parte of the co[n]futacion of Tyndals answere (London: 1533), EEBO-TCP A07694.",
+ "front": true,
+ "parts": true
+}

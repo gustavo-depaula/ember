@@ -1,0 +1,161 @@
+{
+  "id": "more-confutation-of-tyndale-part-2",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Confutation of Tyndale's Answer, Part II",
+    "pt-BR": "A Refutação da Resposta de Tyndale, Parte II"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "The second part of More's Confutation (1533), continuing the reply to Tyndale on purgatory, the Eucharist and the Church.",
+    "pt-BR": "A segunda parte da Refutação de More (1533), continuando a resposta a Tyndale sobre o purgatório, a Eucaristia e a Igreja."
+  },
+  "composed": 1533,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/confutation-of-tyndale-part-2",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: William Rastell, 1533)",
+      "year": 1533
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07694",
+      "edition": "The second parte of the co[n]futacion of Tyndals answere (London: 1533), EEBO-TCP A07694.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 3267 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1533 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "The fourth boke"
+      },
+      "children": [
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "whyther the chyrche can erre"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Here foloweth the next chapyter of Tyndale, in which he sayth that a trew member of Crystes chyrche synneth no"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "How • chrysten man can not erre, and how he may yet erre"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Faythe is euer a •• a • ted and fought withall"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Tyndals other reason agaynst the good endeuour of mannes wyll is thys"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "The recapitilacyon of all Tyndalles processe concernynge the churche, from the begynnynge hytherto"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "The fyfth boke, of the cōfutacyon of Tyndals answere"
+      },
+      "children": [
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Answere vnto the chapyter of Tyndale, in whiche he wold proue that the knowen catholyke chyrche is not ye chyr"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "The seconde reason"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "The thyrde reason"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "The fourth reason"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "The fyfte reason"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "The syxte boke"
+      },
+      "children": [
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "The defence of the fyrst argument agaynste Tyndale"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "The.vii. boke. Here begynneth the.vii. boke in defence of the seconde reason, prouynge the knowen catholyke ch"
+      },
+      "children": [
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "The defence of the seconde reason"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "The.viii. boke. in whyche is confuted doctour Barons chyrche"
+      }
+    }
+  ]
+}
