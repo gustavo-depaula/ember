@@ -1,0 +1,204 @@
+{
+  "id": "eudes-enfance-admirable",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "L’Enfance admirable de la très sainte Mère de Dieu",
+    "en-US": "The Admirable Childhood of the Most Holy Mother of God",
+    "pt-BR": "A Infância admirável da santíssima Mãe de Deus"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le traité sur l’enfance de la Vierge Marie : ses mystères, ses vertus et ses excellences, en trois parties.",
+    "en-US": "The treatise on the childhood of the Virgin Mary: her mysteries, virtues and excellences, in three parts.",
+    "pt-BR": "O tratado sobre a infância da Virgem Maria: seus mistérios, virtudes e excelências, em três partes."
+  },
+  "composed": 1676,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/enfance-admirable",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_5)_000000350.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 5, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "enf-01",
+      "title": {
+        "fr-FR": "Introduction (1): L'enfance admirable"
+      }
+    },
+    {
+      "id": "enf-02",
+      "title": {
+        "fr-FR": "Introduction (2)"
+      }
+    },
+    {
+      "id": "enf-03",
+      "title": {
+        "fr-FR": "Introduction (3): Le coté moral de « l'enfance admirable »"
+      }
+    },
+    {
+      "id": "enf-04",
+      "title": {
+        "fr-FR": "Introduction (4): Approbation des docteurs"
+      }
+    },
+    {
+      "id": "enf-05",
+      "title": {
+        "fr-FR": "Première partie (1)"
+      }
+    },
+    {
+      "id": "enf-06",
+      "title": {
+        "fr-FR": "Première partie (2): Peccatores non abhorres,"
+      }
+    },
+    {
+      "id": "enf-07",
+      "title": {
+        "fr-FR": "Première partie (3): In l Cant"
+      }
+    },
+    {
+      "id": "enf-08",
+      "title": {
+        "fr-FR": "Première partie (4)"
+      }
+    },
+    {
+      "id": "enf-09",
+      "title": {
+        "fr-FR": "Première partie (5)"
+      }
+    },
+    {
+      "id": "enf-10",
+      "title": {
+        "fr-FR": "Première partie (6)"
+      }
+    },
+    {
+      "id": "enf-11",
+      "title": {
+        "fr-FR": "Première partie (7)"
+      }
+    },
+    {
+      "id": "enf-12",
+      "title": {
+        "fr-FR": "Première partie (8)"
+      }
+    },
+    {
+      "id": "enf-13",
+      "title": {
+        "fr-FR": "Première partie (9)"
+      }
+    },
+    {
+      "id": "enf-14",
+      "title": {
+        "fr-FR": "Première partie (10)"
+      }
+    },
+    {
+      "id": "enf-15",
+      "title": {
+        "fr-FR": "Première partie (11)"
+      }
+    },
+    {
+      "id": "enf-16",
+      "title": {
+        "fr-FR": "Première partie (12)"
+      }
+    },
+    {
+      "id": "enf-17",
+      "title": {
+        "fr-FR": "Première partie (13)"
+      }
+    },
+    {
+      "id": "enf-18",
+      "title": {
+        "fr-FR": "Première partie (14): Tres sainte mere de dieu"
+      }
+    },
+    {
+      "id": "enf-19",
+      "title": {
+        "fr-FR": "Première partie (15)"
+      }
+    },
+    {
+      "id": "enf-20",
+      "title": {
+        "fr-FR": "Première partie (16)"
+      }
+    },
+    {
+      "id": "enf-21",
+      "title": {
+        "fr-FR": "Première partie (17)"
+      }
+    },
+    {
+      "id": "enf-22",
+      "title": {
+        "fr-FR": "Première partie (18): De .Vat. Virg"
+      }
+    },
+    {
+      "id": "enf-23",
+      "title": {
+        "fr-FR": "Troisième partie (1)"
+      }
+    },
+    {
+      "id": "enf-24",
+      "title": {
+        "fr-FR": "Troisième partie (2): Premier moyen"
+      }
+    },
+    {
+      "id": "enf-25",
+      "title": {
+        "fr-FR": "Troisième partie (3): Premier point"
+      }
+    },
+    {
+      "id": "enf-26",
+      "title": {
+        "fr-FR": "Troisième partie (4): Premier point"
+      }
+    },
+    {
+      "id": "enf-27",
+      "title": {
+        "fr-FR": "Troisième partie (5): Troisieme point"
+      }
+    }
+  ]
+}
