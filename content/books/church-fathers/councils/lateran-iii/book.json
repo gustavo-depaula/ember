@@ -1,0 +1,62 @@
+{
+  "id": "councils-lateran-iii",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Lateranum III (1179)",
+    "en-US": "Third Lateran Council (1179)",
+    "pt-BR": "Terceiro Concílio de Latrão (1179)"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "la": "Canones tertii concilii Lateranensis (1179) sub Alexandro III, schismate Victoris IV finito celebrati.",
+    "en-US": "The twenty-seven canons of the eleventh ecumenical council, held at the Lateran in 1179 under Alexander III after the schism with Barbarossa: the election of the pope by a two-thirds majority of the cardinals, the age of bishops, pluralism, and measures against the Cathars and the Jews and Saracens. Latin text with Schroeder's English (1937).",
+    "pt-BR": "Os vinte e sete cânones do décimo primeiro concílio ecumênico, reunido no Latrão em 1179 sob Alexandre III: a eleição do papa por dois terços dos cardeais, a idade dos bispos, a pluralidade de benefícios e as medidas contra os cátaros."
+  },
+  "composed": "1179",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "councils/lateran-iii",
+  "editions": {
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    },
+    "en-US": {
+      "translator": "H. J. Schroeder, O.P.",
+      "year": 1937
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Lateranum_III",
+      "edition": "Latin Wikisource, Concilium Lateranum III, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia. Wikitext fetched through action=raw.",
+      "description": "Complete as transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences, lowercase deus/dominus, and no canon numbers; the text is left as transcribed, with line breaks kept as paragraph breaks, the digitisation's split enclitics rejoined (\"ideo que\" → \"ideoque\") and bracketed headings turned into markdown headings. The English of Schroeder (1937) numbers the canons.",
+      "tier": "B",
+      "tierEvidence": "Medieval documents; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/schroeder-disciplinary-councils",
+      "edition": "H. J. Schroeder, O.P., Disciplinary Decrees of the General Councils: Text, Translation and Commentary, St. Louis and London: B. Herder, 1937. archive.org OCR (schroeder-disciplinary-councils_djvu.txt).",
+      "description": "For each canon Schroeder's one-sentence summary (in italics) and the translated text. Schroeder's historical introduction, his comments and his footnotes are not included, and the OCR's running heads and page-end footnotes were stripped by script (research/sourcing/_scripts/councils_schroeder.py); a few inline footnote marks and OCR slips remain. Schroeder translates the disciplinary decrees only.",
+      "tier": "A",
+      "tierEvidence": "Published 1937; US copyright not renewed (confirmed by TAN Books, which holds the Herder list); Schroeder died in 1942."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Concilium Lateranum III (1179)",
+        "en-US": "Third Lateran Council (1179)"
+      }
+    }
+  ]
+}
