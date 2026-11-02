@@ -1,0 +1,84 @@
+{
+  "id": "bernard-de-baptismo",
+  "cover": "classic",
+  "name": {
+    "la": "De baptismo aliisque quaestionibus",
+    "en-US": "On Baptism and Other Questions",
+    "pt-BR": "Sobre o batismo e outras questões"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Epistola Bernardi 77 seu tractatus ad magistrum Hugonem de Sancto Victore de baptismo aliisque quaestionibus.",
+    "en-US": "Bernard’s Letter 77, a treatise answering Hugh of Saint-Victor’s questions on baptism (whether it binds from the word to Nicodemus, whether faith without the water suffices) and on the precepts of the Gospel. Mabillon moved it from the letters to the treatises. Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "A carta 77 de Bernardo, tratado em resposta às questões de Hugo de São Vítor sobre o batismo e sobre os preceitos do Evangelho."
+  },
+  "composed": "c. 1127",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/de-baptismo",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268/6151",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), work 6151, from machine-corrected OCR.",
+      "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "admonitio",
+      "title": {
+        "la": "Admonitio Mabillonii"
+      }
+    },
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Non obligasse Baptismum, ex quo dictum fuit Nicodemo, « Nisi quis renatus, »"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Baptismi obligationem coepisse primum post sufficientem ejus promulgationem. In necessitatis tamen articulo sufficere Baptismum fide et voto susceptum, sicut et martyrium"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Justos Veteris Testamenti non tam claram habuisse notitiam futurorum mysteriorum fidei, quam nos habemus praeteritorum"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Ostendit dari peccatum per ignorantiam contra assertorem contrariae opinionis"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Sententiam quamdam suam male acceptam a calumnia vindicat, nempe, Quod Angelos latuerit consilium Incarnationis Dominicae"
+      }
+    }
+  ]
+}

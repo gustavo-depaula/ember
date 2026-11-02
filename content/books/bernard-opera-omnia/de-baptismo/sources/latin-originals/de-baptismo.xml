@@ -1,0 +1,1111 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De baptismo</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.DeBap2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<note>
+        <div1>
+          <head>ADMONITIO IN OPUSCULUM X.</head>
+ <emph>624</emph>
+<div3>
+            <head>1.</head>
+            <p>
+ <hi>Et haec epistola, quae alias septuagesima septima esse solebat, in tractatuum classem relata est ab
+Horstio. Inscribitur in vetustis libris,  « ad magistrum Hugonem de Sancto-Victore. »  Duo fuerunt eodem
+tempore Hugones in abbatia Sancti-Victoris apud Parisios: unus scriptis clarus, de Sancto-Victore appellatus.
+ad quem haec epistola, Lothariensis seu Iprensis, non Saxonicus, dictus in fragmento quod retuli in tomo
+primo Analectorum, mortuus anno 1142, ac proinde ante Eugenii tertii pontificatum: alter ab ipso Eugenio
+laudatus in epistola ad Sugerium, quae epistola inter Sugerianas est sexagesima octava. Eugenii haec verbo
+sunt:  « Quia ergo dilectus filius noster Hugo, canonicus Sancti-Victoris, ad nos rediturus est; benevolentiam
+tuam rogamus, quatenus ei equitaturam unam et expensas, quae pro ipsa et ejus sessore in reditu sibi
+sufficiant, largiaris. »  Ad primum revertor, cujus epistola, quae huic occasionem dedit, in editis ejus operibus
+desideratur.</hi> </p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ <hi>Argumentum hujus epistolae est contra quemdam anonymum, cujus sententia erat; primo, Baptismi praeceptum
+obligasse, ex quo primum Nicodemo dictum est a Christo Domino,</hi> Nisi quis renatus fuerit, <hi>etc. secundo,
+Neminem absque Baptismo, vel saltem ejus vice martyrio, ullatenus potuisse salvari; tertio; Patres Veteris
+Testamenti tam claram habuisse notitiam de Incarnatione, quam Christianos; quarto: Nullum esse peccatum
+ex ignorantia; quinto: Bernardum errasse, cum scripsit in homiliis super</hi> Missus est, <hi>Angelos latuisse Dei
+consilium de Incarnatione.</hi> </p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ <hi>Quis fuerit iste anonymus, non facile divinare licet. Quidam esse putant Joannem archiepiscopum Hispalensem,
+ad quem Hugo Victorinus epistolam scripsit, cujus argumentum est, non solum corde, sed etiam ore
+confitendam fidem, quam Joannes ipse ore negaverat. Sed nihil ex illa epistola colligitur ad stabiliendam hanc
+conjecturam. Exstat in tomo tertio Operum Hugonis Victorini, libro primo Miscellaneorum, capite octavo,
+Verisimilius esset, anonymum istum non alium esse ab Hugone Farsito, quem de Sacramentis nonnulla haud
+recte sensisse patet ex Bernardi epistola trigesima quinta, ad ipsum. « Quia inter amicos contra veritatem
+nulla debet esse meticulosa, cum sit periculosa, palpatio; hoc me, fateor, movit et movet, quod illam inter nos
+jam ante habitam de Sacramentis collationem, in principio praedicti opusculi defendere et astruere conati estis.
+In qua utique collatione, si vestrae summam sententiae bene meministis, an sensui conveniat ecclesiastico, vos
+videritis. Vestrae autem ingenuae humilitatis est non erubescere corrigi, si quid aliquando aliter sapuistis. » 
+Verum cum Bernardus Hugone Victorino rogante, adversarii auctoris, cujus nomen lacuerat Hugo, nec Bernardus
+ipse sciebat, assertionibus responderit; de alio quam de Hugone Farsito, cujus sententiam et nomen
+haud ignorabat Bernardus, sequens epistola intelligenda forsan nonnullis videbitur. Quanquam reponi potest
+collationem illam, de qua Bernardus agit in epistola trigesima quinta, esse fortasse posteriorem hac epistola
+septuagesima septima, quam cum scriberet Bernardus, nondum rescierat quis esset auctor illius sententiae,
+quam hac in epistola impugnat. Utut sit, haec epistola non est contra Abaelardum, cujus nomini haud pepercisset
+Hugo: tametsi Abaelardus quaedam habet affinia iis, quae carpti hoc in loco Bernardus. De tempore
+scriptae epistolae id tantum asserere possumus, eam ante annum 1142 quo mortuus est magister Hugo Victorinus,
+scriptam fuisse.</hi> 
+</p>
+          </div3>
+        </div1>
+      </note>
+
+<div1>
+        <head> <emph>625</emph> PRAEFATIO.</head>
+
+<pb n="1031A"/>
+<p>Si tibi videor tardius rescripsisse, scito me tarde
+quoque accepisse ad quod rescriberem. Nam quod
+miseras, non continuo ad me usque perlatum est,
+sed Pontiniaci diu ante retentum. Porro ubi accepi,
+moram minime feci in rescribendo. Caeterum id brevius,
+quam tua forte deposcebat intentio: sed non
+plane quam mea occupatio sineret. Curavi tamen
+ne te utcunque lateret quidquid super interrogatis
+ego sentirem, tuo sane eadem mea sensa et otio,
+et ingenio plenius astruenda relinquens, si ita oportere
+cognoveris. Nec dubito ad manum tibi esse rationes
+certas, et congruas auctoritates, quibus facile
+id possis. Is ergo, cujus me respondere assertionibus
+jubes, et nomen taces, tibi noverit a me super
+<pb n="1031B"/>
+consultis quod sentio dictum, non sibi contradictum,
+etiamsi quid aliter ab ipso sapimus. Nam si verum
+nos sapimus, veritas ei contradicit, non nos. Sed
+enim si non confunditur acquiescere veritati, et
+veritas cum eo sapit, et nos. Sin autem, servum
+Dei tamen non oportet litigare, sed magis
+patientem esse ad omnes <note>(II Tim. II, 24)</note>. Ideoque
+non quaerimus pugnas verborum; novitates quoque
+vocum juxta apostolicam doctrinam evitamus. Patrum
+tantum opponimus sententias, ac verba proferimus,
+et non nostra: nec enim sapientiores sumus
+quam patres nostri. Abundet sane in suo sensu qui
+vult quantum vult, dummodo nos patiatur in Scripturarum
+sensibus abundare, quomodo dicit Apostolus: <hi>Non quod sufficientes simus cogitare aliquid
+<pb n="1031C"/>
+a nobis, tanquam ex nobis; sed sufficientia nostra ex
+Deo est 
+ <note>(II Cor. III, 5)</note>
+          </hi>.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Non obligasse Baptismum, ex quo dictum fuit Nicodemo, « Nisi quis renatus,</hi> » </head>
+<div3>
+            <head>1.</head>
+            <p>
+ Scribis itaque quemdam asserere nescio quem
+(nam non nominas) ex quo primum dictum a Domino
+legitur: <hi>Nisi quis renatus fuerit ex aqua et
+Spiritu sancto, non intrabit in regnum coelorum <note>(Joan.
+III, 5)</note>
+            </hi>, ex eo neminem absque eodem percepto
+actualiter visibili sacramento, vel ejus vice martyrio,
+ullatenus potuisse salvari; sed etsi forte illud
+quispiam cum vera fide et contritione cordis expeteret,
+sed praeventus mortis articulo assequi quod
+cuperet non valeret, tamen omnino damnari. Ubi
+<pb n="1032A"/>
+primo de temporis quidem praefixione durum nimis
+austerumque videtur, ut videlicet verbum adhuc
+absconditum palam jam noceat, et ante judex feriat
+quam minetur; quodque interim in tenebris loquitur
+et in aure Salvator, nondum quidem salvet, quia
+nondum apparet, et jam mundum impleat condemnatis.
+Itane ergo verbum salutis et praeceptum
+vitae non prius vitam restituere valuit, quam mortem
+inflixerit; idque eo innocentibus, quo et ne
+scientibus adhuc voluntatem Domini sui? Num gentem
+ignorantem et justam (ut cum etnicho loquamur)
+debuit interficere Deus? <note>(Gen. XX, 4.)</note> Quis ita
+sapiat? Non equidem vitae concordat Auctori, morte
+nimirum, quam exterminare venerat, uti mox in
+initio viarum suarum ad praejudicium saeculi, coeleste
+<pb n="1032B"/>
+adhuc recentissimum ignorantis edictum. Nefas
+est profecto sentire de omnium largitore bonorum,
+quod tam malum principium dederit adveniens
+Minime prorsus id <emph>626</emph> ego cuipiam de Christo
+assenserim, quod magis ab Antichristo merito formidatur,
+quia videlicet et ipse paraverit sagittam
+suam in pharetra, ut sagittaret in obscuro rectos
+corde.</p>
+          </div3>
+<div3>
+            <head>2.</head>
+            <p>
+ Quanti namque interim toto orbe non baptizati
+moriuntur, profecto ignorantes, quid cum Nicodemo
+Jesus noctu secretoque confabuletur? Quid ergo? necdum
+lex promulgatur, et jam praevaricantes tenentur? <hi>Et quomodo,</hi> 
+ inquit, <hi>credent in eum quem non audierunt?
+quomodo vero audient sine praedicante? quomodo
+autem praedicabunt nisi mittantur? <note>(Rom. X, 14, 15)</note>
+            </hi>.
+<pb n="1032C"/>
+Necdum injuncta, necdum vulgata, necdum audita
+praedicatio est: et juxta pigri ac nequam servi sententiam
+tam durus est Dominus, ut necdum sata
+jam metere velit, et non sparsa colligere? Absit.
+Sed audi magis hujus rei veritatem. Qui unus est
+Magister in coelo et in terra, ei qui magister tantum
+in Israel erat, familiari privatoque colloquio tradebat
+quod traderet; docebat quod doceret, non quod
+exigeret et ab absentibus, non unde praescriberet et
+his qui non audierant. Valde quippe injuste exigitur
+obeditio, ubi non praecessit auditio. Neque enim tale
+est hoc, quod et absque promulgatione naturalis lex
+ignorare non sineret, quale, verbi gratia, illud est: <hi>Quod tibi non vis fieri, alii ne feceris 
+ <note>(Tob. IV, 16)</note>
+            </hi>.
+Factitium magis quodammodo est, et non naturale
+<pb n="1033A"/>
+mandatum. Quaenam enim natura seu ratio docet,
+internam aeternamque salutem neminem mortalium
+posse percipere, cujus corpus foris perfusum visibili
+non fuerit elemento? Sacramentum Dei Altissimi est
+suscipiendum, non discutiendum; venerandum, non
+dijudicandum; fide sortitum, non innatum; traditione
+sancitum, non adinventum ratione. Porro
+fidem necesse est ut auditus praecesserit, dicente
+Apostolo: <hi>Ergo fides ex auditu.</hi> Quod ergo omnino
+fieri [ <hi>al.</hi> sciri] non poterat si non audiretur, quo
+pacto, quaeso, exigi debeat et antequam audiretur?
+Vide autem quomodo huc refugit Apostolus, et de
+solo auditu convincit incredulos. <hi>Sed dico,</hi> inquit, <hi>Nunquid non audierunt? 
+ <note>(Rom. X, 17, 18)</note>
+            </hi> ac si dicat:
+Excusari poterant, si non audissent. Ubi enim
+<pb n="1033B"/>
+non est lex, nec praevaricatio. Nunc vero cum in
+omnem terram exierit sonus praedicantium, et in
+fines orbis terrae verba eorum; quia jam dissimulari
+non valet auditus, profecto inexcusabilis est
+et contemptus.</p>
+          </div3>
+<div3>
+            <head>3.</head>
+            <p>
+ Multa profecto scienda nesciuntur, aut sciendi
+incuria, aut discendi desidia, aut verecundia inquirendi.
+Et quidem hujusmodi ignorantia non habet
+excusationem. Sed numquid forte tale est hoc, quod
+inquisitum humano possit addisci magisterio? Homo
+hominis nonnisi ipso indicante cogitatum intelligit:
+quanto minus divinum quis poterit investigare consilium,
+nisi cui ipse voluerit revelare? Audi denique
+ipsum. <hi>Si non venissem,</hi> ait, <hi>et locutus eis non fuissem,
+peccatum non haberent.</hi> Non dicit simpliciter.
+<pb n="1033C"/>
+Et locutus non fuissem; sed interserens <hi>eis, et locutus
+eis,</hi> inquit, <hi>non fuissem:</hi> ostendens sine dubio
+non ante censeri inexcusabiles de contemptu, quam
+ad ipsorum usque notitiam jussio perveniret. Nam
+si locutus quidem fuisset, sed non eis; inobedientiae
+culpam ignorantia nihilominus excusaret. <hi>Nunc autem,</hi> 
+inquit, quoniam locutus sum, et locutus sum
+eis, <hi>excusationem non habent de peccato suo <note>(Joan.
+XV, 22)</note>
+            </hi>. Unde et aiebat: <hi>Ego palam locutus sum
+mundo, et in occulto locutus sum nihil <note>(Joan. XVIII, 20)</note>
+            </hi>.
+Non <emph>627</emph> quod suos domesticos multa in occulto
+privatimque non docuerit: sed quod tanquam nihilum interim
+reputaret; et nec poenam, nec praemium
+ea agere quae in secreto tradebat, judicaret,
+donec de medio fierent, et prodirent in lumine. Denique
+<pb n="1033D"/>
+et dicebat: <hi>Quod dico vobis in tenebris, dicite
+in lumine <note>(Matth. X, 27)</note>
+            </hi>; ut merito videlicet jam
+audientibus obedientiae vel meritum adscriberet, vel
+contemptum, cum in medio proferrentur. Item: <hi>Qui vos audit,</hi> 
+ inquit, <hi>me audit; et qui vos spernit,
+me spernit:</hi> ac si diceret, Judicium meum inter
+obedientes et contemnentes, non de mea secreta
+traditione, sed de vestra publica praedicatione pendebit.</p>
+          </div3>
+<div3>
+            <head>4.</head>
+            <p>
+ Sed forte aliquis dicat, eos quidem qui non
+audierunt, etsi non de contemptu judicari, damnari
+tamen propter originale peccatum, a quo utique
+<pb n="1034A"/>
+nisi per lavacrum emundari minime potuerunt. At
+vero quis nesciat et alia praeter Baptismum contra
+originale peccatum remedia antiquis non defuisse
+temporibus? Abrahae quidem et semini ejus, circumcisionis
+sacramentum in hoc ipsum divinitus
+traditum est <note>(Gen XVII, 10)</note>. In nationibus vero,
+quotquot inventi sunt fideles, adultos quidem fide
+et sacrificiis credimus expiatos, parvulis autem solam
+profuisse, imo et suffecisse parentum fidem.
+Porro hoc ita quidem usque ad Baptismi tempora
+perdurasse: quo uno substituto, vacasse
+caetera.</p>
+          </div3>
+<div3>
+            <head>5.</head>
+            <p>
+ Quaerimus itaque Baptismi tempus ex quo coeperit.
+Ex quo, inquit, primum dictum est: <hi>Nisi
+quis renatus fuerit,</hi> etc. Tene ergo firmiter dictum
+<pb n="1034B"/>
+hoc ad Nicodemum, utique amicum Jesu, occultum
+tamen propter metum Judaeorum; occultumque
+illud de nocte requisisse colloquium. Quanta autem
+putas obisse interim (ut de gentibus taceam) millia
+circumcisorum, cum necdum in lucem prodierit
+quod de Baptismo tunc in tenebris dicebatur? Quid
+ergo? damnatos illos omnes dicimus, quia baptizati
+non sunt? Fit ergo injuria antiquo illi Dei aeque
+mandato, si novo adhuc furtive quodammodo superveniente,
+non tamen subveniente, illud ita subito
+evanuisse putetur, ut prodesse deinceps non valeret.
+Et quidem quam longe post puta; publice praedicatum
+et clamatum super tecta fuisse: <hi>Si circumcidamini,
+Christus vobis non proderit? <note>(Galat. V, 2.)</note>
+            </hi> 
+Quomodo deinde stabit illud, quia <hi>a diebus Joannis
+<pb n="1034C"/>
+Baptistae regnum coelorum vim patitur <note>(Matth. XI, 12)</note>
+            </hi>,
+si praecipue tunc temporis contigisse constiterit hujuscemodi
+a regno violentam interclusionem, qualis
+quidem nec ante fuerit, nec post futura sit? Sancito
+quippe novi mysterii decreto, sed adhuc secreto;
+quisnam, quaeso, morientibus interim ad regnum
+patet accessus, dum et vetus jam deficit, quoniam
+a novo excluditur: et novum tamen non subvenit,
+quoniam, dum nescitur, non percipitur? O infelicissima
+illa tempora! quae sola a saeculis omni penitas
+salutis remedio vacua transierunt, dum et circumcisio
+quae illo usque viguerat, prodesse jan
+subripiente Baptismate non auderet: et Baptisma,
+quoniam adhuc lateret, non succurreret Forsan
+dormiebat eo tempore Deus, nec fuit interim qui
+<pb n="1034D"/>
+redimeret, neque qui salvum faceret.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT II. <hi>Baptismi obligationem coepisse primum post sufficientem ejus promulgationem. In necessitatis tamen articulo sufficere Baptismum fide et voto susceptum, sicut et martyrium.</hi> </head>
+<div3>
+            <head>6.</head>
+            <p>
+ Satis profecto ex his, quantum reor, apparet,
+quod damnatio non baptizatorum, et frustratio circumcisorum,
+et evacuatio sacrificiorum, quae forte
+contra originale peccatum ritus observabat antiquus,
+generaliter jam tunc minime coeperit, quando
+<pb n="1035A"/>
+Nicodemo clam dictum est: <hi>Nisi quis renatus fuerit
+ex aqua et Spiritu sancto, non intrabit in regnum
+coelorum <note>(Joan. III, 5)</note>
+            </hi>. <emph>628</emph> Sed nec quando Apostolis
+palam injunctum est, <hi>Ite, docete omnes gentes,
+baptizantes eos in nomine Patris, et Filii, et Spiritus
+sancti <note>(Matth. XXVIII, 19)</note>
+            </hi>: sed ex eo tempore tantum
+cuique coepit antiqua observatio non valere, et
+non baptizatus quisque novi praecepti reus existere,
+ex quo praeceptum ipsum inexcusabiliter ad ejus
+potuit pervenire notitiam. Sane parvulis et necdum
+ratione utentibus, quia sola nocere creditur peccati
+contagio, non etiam mandati praevaricatio; tandiu
+credendum est antiqua valuisse sacramenta, quandiu
+palam interdicta non fuisse constiterit. An vero
+ultra? Penes Deum est, non meum definire. Porro
+<pb n="1035B"/>
+in majori aetate quisquis post vulgatum ubique
+Baptismi remedium renuit jam baptizari, generali
+originalique maculae addit et ex proprio crimen
+superbiae, duplicem secum portans justissimae damnationis
+causam, si sic de corpore exire contigerit.
+Tamen si ante exitum resipuerit, et voluerit, et
+petierit baptizari, sed mortis praeoccupatus articulo
+forte obtinere nequiverit; dum non desit fides recta,
+spes pia, charitas sincera: propitius sit mihi Deus,
+quia huic ego ob solam aquam, si defuerit, nequaquam
+omnino possum desperare salutem, nec vacuam
+credere fidem, nec confundere spem, nec excidere
+charitatem: tantum si aquam non contemptus,
+sed sola, ut dixi, prohibeat impossibilitas. Si
+quis aliter sapit, viderit unde sibi quod asserit persuaserit:
+<pb n="1035C"/>
+nam me non facile fateor assentire, si non
+firmior induxerit vel ratio ad intelligendum, vel ad
+credendum auctoritas.</p>
+          </div3>
+<div3>
+            <head>7.</head>
+            <p>
+ Sed miror admodum, si novus iste novarum
+inventor assertionum, et assertor inventionum, invenire
+in hoc rationem potuerit, quae sanctos Patres
+latuerit Ambrosium et Augustinum, sive auctoritatem
+eorumdem auctoritate potiorem. Nam si nescit,
+uterque idem profecto sensit, quod fatemur
+sentire et nos. Librum certe Ambrosii de morte
+Valentiniani legat si non legit; recolat si jam
+legit; non dissimulet si recolit: et advertet sine
+dubio, Sanctum homini non baptizato et mortuo
+fidenter de sola fide salutem praesumere, et tribuere
+indubitanter bonae voluntati, quod defuit facultati
+<pb n="1035D"/>
+<note>( <hi>De Obitu Valent.</hi> versus finem)</note>. Legat et Augustini
+de unico Baptismo librum quartum: et se vel agnoscat
+imprudenter deceptum, vel probet impudenter
+obstinatum. « Baptismi, »  inquit,  « vicem aliquando
+implere passionem, de latrone illo, cui non baptizato
+dictum est, <hi>Hodie mecum eris in paradiso <note>(Luc. XXIII,
+43)</note>
+            </hi>, beatus Cyprianus, non leve documentum assumit. » 
+Et addit:  « Quod etiam atque etiam considerans,
+invenio, »  inquit,  « non tantum passionem pro
+nomine Christi id quod ex Baptismate deerat posse
+<pb n="1036A"/>
+supplere; sed etiam fidem conversionemque cordis,
+si forte ad celebrandum mysterium Baptismi in angustiis
+temporum succurri non potest. Et infra:
+Quantum itaque, »  ait,  « valeat etiam sine visibili sacramento
+Baptismi quod ait Apostolus: <hi>Corde creditur
+ad justitiam, ore autem confessio fit ad salutem <note>(Rom.
+X, 10)</note>
+            </hi>, in illo latrone declaratum est. Sed tunc, » 
+inquit,  « impletur invisibiliter, cum mysterium
+Baptismi non contemptus religionis, sed articulus
+necessitatis excludit <note>(De Baptismo contra Donatistas,
+lib. IV, cap. 22, n. 29)</note>. »  Et quidem non
+ignoro retractare ipsum id quod posuerat testimonium
+de latrone, minusque idoneum ad comprobandam
+illam sententiam confiteri, eo quod sane incertum
+sit utrumne fuerit baptizatus <hi>(Retract. lib. II, cap.
+<pb n="1036B"/>
+18, 55)</hi>. Caeterum sententiam et audacter prosequitur,
+et multipliciter confirmat; nec uspiam, nisi
+fallor, retractasse reperies. Item in alio loco Augustinus,
+cum aliquos praemisisset, quos Scriptura
+commemorat invisibiliter quidem, non tamen etiam
+visibiliter sanctificatos, tandem infert:  « Ex his
+colligitur, »  ait,  « invisibilem sanctificationem quibusdam
+adfuisse et profuisse sine visibilibus sacramentis,
+quae pro temporum diversitate mutata sunt, ut
+alia tunc fuerint, et alia modo sint. »  Et paulo
+post:  « Nec tamen, »  inquit,  « visibile sacramentum
+omnino contemnendum: nam contemptor ejus
+invisibiliter sanctificari <emph>629</emph> non potest <note>(Quaest. in
+Leviticum, quaest. 84)</note>. »  Ubi satis evidenter ostendit,
+<pb n="1036C"/>
+fidelem et conversum ad Dominum, non si
+nequiverit, sed si contempserit baptizari, fructu
+privari Baptismatis.</p>
+          </div3>
+<div3>
+            <head>8.</head>
+            <p>
+ Ab his ergo duabus columnis, Augustinum loquor
+et Ambrosium, crede mihi, difficile avellor.
+Cum his, inquam, me aut errare, aut sapere fateor:
+credens et ipse, sola fide hominem posse salvari,
+cum desiderio percipiendi sacramentum: si tamen
+pio adimplendi desiderio mors anticipans, seu alia
+quaecunque vis invincibilis obviarit. Vide etiam ne
+forte ob hoc Salvator cum diceret: <hi>Qui crediderit
+et baptizatus fuerit, salvus erit;</hi> caute et vigilanter
+non repetierit, Qui vero baptizatus non fuerit; sed
+tantum: <hi>Qui vero,</hi> inquit, <hi>non crediderit, condemnabitur <note>(Marc. XVI, 16)</note>
+            </hi>:
+nimirum innuens solam interdum
+<pb n="1036D"/>
+fidem sufficere ad salutem, et sine ipsa sufficere
+nihil. Quapropter etsi martyrium vicem Baptismi
+posse implere conceditur, non plane hoc facit
+poena, sed ipsa fides. Nam absque ipsa quid est
+martyrium, nisi poena? Quae ergo martyrio praestat,
+ut absque ulla dubietate pro Baptismate reputetur;
+ipsa ita infirma et imbecillis per se erit, ut quod
+dare alteri valet, sola non valeat obtinere? Et
+prorsus sanguinis pro Christo effusio magnae cujusdam
+fidei indubitata probatio est, non Deo tamen,
+sed hominibus. Sed qui si Deus profecto ad probandum
+<pb n="1037A"/>
+quod vult, nullis indiget experimentis, aeque magnam
+in corde cujuspiam in pace morientis inspicit
+fidem, martyrio quidem non interrogatam, martyrio
+tamen idoneam? Si recordatus fuerit homo, necdum
+se salutis percepisse mysterium, et dolens
+poenitensque toto desiderio expetierit, sed assequi
+mortis celeritate praeoccupatus nequiverit; damnabit
+fidelem suum Deus? damnabit, inquam, hominem
+pro se etiam paratum mori? Paulus dicit: <hi>Nemo potest
+dicere, Dominus Jesus, nisi in Spiritu sancto <note>(I Cor. XII,
+3)</note>
+            </hi>. Hunc ergo qui in articulo mortis non solum invocat
+Dominum Jesum, sed ipsius quoque toto desiderio
+expetit Sacramentum; dicemus aut non loqui in
+Spiritu sancto, et falsus erit Apostolus; aut et cum
+Spiritu sancto damnari? Salvatorem habet habitantem
+<pb n="1037B"/>
+per fidem in corde, et in ore per confessionem;
+et cum Salvatore damnabitur! Pro certo, cum non
+aliunde martyrium, nisi ex fidei merito illam obtinuerit
+praerogativam, ut singulariter vice Baptismi
+secure suscipiatur: non video cur non ipsa aeque et
+sine martyrio apud Deum tantumdem possit, cui et
+sine martyrii probamento procul dubio innotescit.
+Pessit sane tantumdem, dixerim, quantum ad salutis
+spectat obtentum, non autem ad meriti cumulum,
+quo indubitanter martyrium antecellit. Legimus, <hi>Omnis qui odit fratrem suum, homicida est <note>(I Joan III, 15)</note>
+            </hi>;
+et item: <hi>Qui viderit mulierem ad
+concupiscendum eam, jam maechatus est in corde suo <note>(Matth. V. 28)</note>
+            </hi>.
+Quid planius, quod voluntas pro
+<pb n="1037C"/>
+facto reputetur, ubi factum excludit necessitas?
+Nisi forte putetur in malo, quam in bono efficacior
+inveniri voluntas apud Deum qui charitas est; et
+promptior esse ad ulciscendum, quam ad remunerandum
+misericors et miserator Dominus. Quomodo
+is qui alieno debito se teneri forte in extremis positus
+recolit, si desit unde persolvat, sola nihilominus
+poenitentia et cordis contritione obtinere veniam
+creditur, ne jam pro eo damnetur: sic sola fides et
+mentis ad Deum conversio, sine effusione sanguinis,
+et sine perfusione aquae, salutem sine dubio
+operatur volenti, sed non valenti, prohibente mortis
+articulo, baptizari. Et sicut nulla illi poenitentia
+remittitur peccatum, si, cum possit, non restituit
+ablatum: sic et huic nulla proderit fides, si cum
+<pb n="1037D"/>
+possit, non percipit Sacramentum. Quanquam et
+fidem convincitur non habere perfectam, si negligit. <emph>630</emph> 
+ Vera enim et plena fides universa praecepta
+complectitur: est autem hoc unum ipsumque praecipuum
+ex praeceptis. Merito ergo non infidelis, sed
+plane rebellis atque contemptor reputabitur, quisquis
+obedire renuerit. Quomodo denique fidelis, qui Dei
+contemnit Sacramentum?</p>
+          </div3>
+<div3>
+            <head>9.</head>
+            <p>
+ Sane infantes, quia hanc, prohibente aetate,
+non possunt habere fidem, hoc est cordis ad Deum
+conversionem; consequenter nec salutem, si absque
+Baptismi perceptione moriuntur. Non quod vel ipsi,
+quando baptizantur, fide omnino careant, sine qua
+impossibile est vel ipsos placere Deo: sed salvantur
+et ipsi per fidem, non tamen suam, sed alienam.
+<pb n="1038A"/>
+Dignum nempe est et ad Dei spectat benignitatem,
+ut quibus fidem aetas denegat propriam, gratia prodesse
+concedat alienam. Nec enim Omnipotentis
+justitia propriam putat ab his exigendam fidem,
+quos novit propriam nullam habere culpam. Porro
+aliena opus est fide, cum sine sorde non nascantur
+aliena: quatenus nec a parvulis alienum sit, quod
+de omnibus generaliter dicitur, <hi>Fide mundans corda
+eorum <note>(Act. XV, 9)</note>
+            </hi>. Nec dubium, quod macula contracta
+ab aliis, aliorum quoque fide valeat vel debeat
+emundari. Haec sunt quippe judicia divinae justitiae,
+in quibus exsultans sanctus David, <hi>Memor
+fui,</hi> inquit, <hi>judiciorum tuorum a saeculo, Domine,
+et consolatus sum <note>(Psal. CXVIII, 52)</note>
+            </hi>. Hucusque de
+his.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Justos Veteris Testamenti non tam claram habuisse notitiam futurorum mysteriorum fidei, quam nos habemus praeteritorum.</hi> </head>
+<div3>
+            <head>10.</head>
+            <p>
+ Asserit praeterea, ut dicis, ille quem dicis,
+<pb n="1038B"/>omnes antiquos justos, quotquot videlicet Christi
+adventum praecesserunt, tantam omnino habuisse
+praescientiam futurorum, quantam nos, qui post
+sumus, praeteritorum scientiam: ita ut nullus vel
+simplicium justorum aliquid prorsus ignoraret ex
+omnibus, quae modo nobis evangelica pandit historia.
+Verbi gratia, Verbum incarnatum, partum virginalem,
+doctrinam Salvatoris, miracula, crucem,
+mortem, sepulturam, descensum ad inferos, resurrectionem,
+et ad coelos ascensionem, sic omnino
+<pb n="1038C"/>
+omnibus illorum temporum justis, et aperte omnia,
+et distincte singula fuisse praecognita, quemadmodum
+suo sunt tempore post exhibita, et modo cognita
+nobis: adeo ut nec justi fuerint, nec salvi sint,
+quibus ita clara omnia et perspicua non fuerunt. Et
+id quidem falsum.</p>
+          </div3>
+<div3>
+            <head>11.</head>
+            <p>
+ Verum ad refellendum tu tanta in tua epistola
+posuisse videris [ <hi>al.</hi> tu tantum in tua epistola
+enituisti], ut nil addendum penitus putem; et pene
+quid addi possit, non inveniam. De homine tamen
+qui ista loquitur (pace ipsius dico paucis quod
+sentio), videtur mihi plus novitatis curiosus, quam
+studiosus veritatis; gravarique de omni re sentire
+cum aliis, et dicere quod aut solus non dixerit, aut
+primus. Unde fit ut in his quae sentit vel loquitur,
+<pb n="1038D"/>
+modum omnino tenere aut ignoret, aut dissimulet.
+Ecce enim et in hac assertione sua, dum pares in
+scientia facit omnes qui ventura sperabant, iis qui
+praeterita legunt; Deum profecto aut nimis parcum
+praedicat, aut nimis largum, oculum discretionis ex
+nulla parte aperiens. Aut enim numerum electorum
+illius temporis sub paucitate redigit rarissimorum
+spiritualium, quos pro suae sanctitatis speciali excellentia
+insignes illustresque illis temporibus exstitisse,
+ac singulari munere Spiritus singula, uti ventura
+erant, praevidere certissime potuisse Scriptura
+commemorat; et sic nimis abbreviat manum Dei,
+dum praeter paucos illos perfectissimos, neminem eo
+tempore putat potuisse salvari: aut certe, si et illa
+<pb n="1039A"/>
+tempora multitudinem salvandorum <emph>631</emph> etiam
+praeter istos habuisse non diffitetur; magnam, sed
+inauditam divini muneris largitatem veteri populo
+collatam asserit: siquidem omnem illam multitudinem
+omnia, quae de mysterio nostrae redemptionis
+superius enumerata sunt, liquido praecognovisse
+constiterit. Cum enim ex his quidpiam tunc nec
+scriptum manifeste, nec publice praedicatum fuisse
+manifestum sit: restat ut fateamur omnia omnibus
+per Spiritum revelata fuisse; et sic omnes spirituales,
+omnes perfectos, omnes exstitisse prophetas,
+quotquot ab adventu Domini retro justi et salvi
+fuerunt. Fuit itaque antiquis temporibus aut perrara
+salus, aut nimium numerosa perfectio: quorum quidem
+quodlibet sapere, discretionis terminos excedere
+<pb n="1039B"/>
+est.</p>
+          </div3>
+<div3>
+            <head>12.</head>
+            <p>
+ Quod si videtur tolerabilius, imo et Deo dignius
+[ <hi>al.</hi> justius] judicatur, replesse potius et ditasse
+saecula illa multitudine perfectorum, quam salvandorum
+tanta fuisse paucitate contentum, quatenus
+et salvi non pauci tunc fierent, et omnes nihilominus
+repleti spiritu prophetico, necdum revelata mysteria
+jam tunc penetrarent: si, inquam, hoc recipitur,
+benedicimus quidem Deum in donis suis; sed quid
+tempori gratiae reservatum sit, non videmus: nisi
+quod tempus gratiae illud potius juxta sententiam
+hanc fuerit appellandum, in quo tot et tantae Dei
+populo divitiae spiritus affluebant; ut illud prorsus
+incredibili felicitate cerneretur impletum, quod
+Moyses optabat, cum diceret: <hi>Quis dabit ut omnes
+<pb n="1039C"/>
+prophetent? <note>(Num. XI, 29.)</note>
+            </hi> Quaeso, quid simile attulit
+Evangelium? Frustra gloriatur Paulus de primitiis
+spiritus, quas se putat cum suis coapostolis accepisse;
+cum nil tale in diebus suis potuerit experiri.
+Denique aiebat: <hi>Numquid omnes prophetae? <note>(I Cor. XII, 29.)</note>
+            </hi> 
+ Frustra, inquam, gloriatur de
+Evangelio suo, quia non ab homine, neque per hominem
+illud acceperit, sed quasi speciali quadam
+praerogativa per revelationem Jesu Christi <note>(Galat.
+I)</note>: cum et ante ipsum per Spiritum sanctum fuerit
+etiam populis revelatum. Sed nec apostolus Petrus
+profecto debuit propheticum illud ad sua tempora
+retorquere, <hi>Effundam de Spiritu meo super filios et filias
+vestras, et prophetabunt filii vestri et filiae (Act.
+<pb n="1039D"/>
+II, 17; Joel II, 28)</hi>; si abundantior jam praecesserat
+transactis saeculis effusio Spiritus. Aut certe Propheta,
+vel potius in Propheta Deus (si vere illa tempora
+apostolica, cum hoc diceret, intuebatur), non plane, <hi>Effundam,</hi> 
+ sed, Subtraham magis <hi>de Spiritu
+meo</hi> dixisse debuerat. Quid enim? si filiis Evangelii
+omnes veteres justos pares facimus in scientia,
+numquid non et superiores in gratia consequenter
+fateri necesse est! utpote quos non lectio, sicut nos,
+aut praedicatio, sed ipsa unctio docuerit omnes de
+omnibus.</p>
+          </div3>
+<div3>
+            <head>13.</head>
+            <p>
+ Esto tamen: toleremus nos nostram injuriam,
+et Apostoli quoque suam, ut et ipsis minimi etiam
+antiquorum justorum comparentur in scientia, praeferantur
+in gratia. Sed est sane quod ullo omnino
+<pb n="1040A"/>
+pacto non ferimus, et merito; ut Dominus videlicet
+gloriae sentiatur vel falli unquam potuisse, vel fallere
+voluisse. Et quidem ipse protestatus est, inter
+natos mulierum majorem Joanne Baptista non surrexisse <note>(Matth. XI, 11)</note>.
+Vide autem si non vere falsum
+fateri cogimur Veritatis hoc testimonium, si
+tantum tribuamus veteribus, quantum nec Joanni
+vindicare valemus. Non utique fit injuria Joanni, si
+quid ignorasse creditur aut dicitur, nimirum quod
+et ipse non diffitetur: sed si quod praeconi Veritatis
+negamus, contra praeconium Veritatis alteri damus;
+hoc non tantum injuria, sed et blasphemia est, et
+plane contradicere non Joanni, sed Veritati. Quid
+ergo? Amicus sponsi dubitat, et quaerit, <hi>Tu es qui
+venturus es, an alium exspectamus <note>(Ibid., 3)</note>
+            </hi>, et nos
+<pb n="1040B"/>
+millibus hominum certitudinem de omnibus nostro
+mendacio confirmamus.</p>
+          </div3>
+<div3>
+            <head>14.</head>
+            <p>
+ Nec ipsos de se ita veteres sensisse, paucis
+advertere possumus. Moyses scribit Deum ad se loquentem
+dixisse sic: <hi>Ego sum Deus Abraham, et
+Deus Isaac, et Deus Jacob; et nomen meum Adonai
+non indicavi eis <note>(Exod. III, 6, et VI, 3)</note>
+            </hi>; subaudit,
+sicut tibi. Ostendit ergo se de Dei notitia <emph>632</emph> 
+plus aliquid praecedentibus patribus accepisse. David
+quoque super doctores suos et seniores donum
+sibi intelligentiae audacter praesumit, ita dicens: <hi>Super omnes docentes me intellexi, quia testimonia
+tua meditatio mea est:</hi> 
+ et rursum, <hi>Super senes
+intellexi <note>(Psal. CXVIII, 99, 100)</note>
+            </hi>. Sed et propheta Daniel, <hi>Pertransibunt,</hi> 
+ ait, <hi>plurimi et multiplex erit
+<pb n="1040C"/>
+scientia <note>(Dan. XII, 4)</note>
+            </hi>; ampliorem scilicet rerum notitiam
+promittens et ipse posteris. Si ergo, ut ait
+etiam sanctus papa Gregorius, secundum incrementa
+temporum crevit et scientia spiritualium patrum; et
+quanto viciniores adventui Salvatoris exstiterunt,
+tanto mysterium salutis plenius perceperunt <note>(Hom.
+17 in Ezech.)</note>: non est dubium, quin his qui et praesentes
+fuerunt, multo amplius contulerit rerum ipsarum
+exhibitio, atque praesentia exhibentis. Denique
+et audiunt, <hi>Beati oculi qui vident quae vos videtis <note>(Luc. X, 23)</note>
+            </hi>;
+item: <hi>Vos autem dixi amicos, quia
+omnia quaecunque audivi a Patre meo, nota feci
+vobis <note>(Joan. XV, 15)</note>
+            </hi>. <hi>Multi,</hi> inquit, <hi>reges et prophetae
+voluerunt videre quae vos videtis, et non viderunt; et
+<pb n="1040D"/>
+audire quae auditis, et non audierunt <note>(Luc. X, 24)</note>
+            </hi>.
+Quare? ut videlicet clarius largiusque perciperent,
+quod vix tenuiter obscureque praesenserant. Alioquin
+quid opus erat foris videre carnem, et carnis
+audire sermones, si jam intus a Spiritu fuerant perfecte
+instructi de omnibus? praesertim cum Dominus
+dicat, <hi>Caro non prodest quidquam, spiritus est
+qui vivificat <note>(Joan. VI, 64)</note>
+            </hi>. Quod si Prophetae, et
+qui illustriores videbantur in illo populo, non omnes
+omnia liquido aequaliter agnoscere valuerunt, sed
+alii plus, alii minus; prout eis Spiritus dabat, dividens
+singulis prout volebat, idque absque praejudicio
+suae sanctitatis atque perfectionis: quanto magis
+simpliciores quique justi sine detrimento salutis,
+salvationis tempus, modum et ordinem nescire potuerunt,
+<pb n="1041A"/>
+quae tamen certa spe et fide, uti promissa
+fuerant, firmissime tenuerunt?</p>
+          </div3>
+<div3>
+            <head>15.</head>
+            <p>
+ Quanti hodieque profecto in populo christiano
+vitae aeternae, saeculique futuri, quod indubitanter
+credunt et sperant, et ardenter desiderant, formam
+tamen ac statum ne cogitare quidem vel tenuiter
+norunt? Ita ergo multi ante Salvatoris adventum,
+Deum omnipotentem tenentes et diligentes suae salutis
+gratuitum promissorem, credentes in promissione fidelem,
+sperantes certissimum Redemptorem, in hac fide
+et exspectatione salvati sunt: licet quando, et qualiter,
+et quo ordine salus repromissa fieret, ignorarent.
+Denique Beda aperte docet aperta omnia omnibus
+nequaquam fuisse quae de Christo futura erant,
+quod tu quoque testimonium in tua epistola posuisti.
+<pb n="1041B"/>
+ « Unum, »  inquit,  « idemque dominicae crucis tropaeum
+prius Prophetae et Moyses, quam Apostoli noverant
+et praedicabant: sed Prophetae hoc aliquoties
+figuratis velatisque sermonibus, Apostoli autem
+Apostolorumque successores patefacta luce Evangelii
+semper aperte praedicabant: ita ut nunc omnis populus
+christianus scire et confiteri debeat fidem,
+quam eo tempore pauci admodum, et perfectiores
+quique noverunt; quamvis omnis populus Dei etiam
+tunc ejusdem mysteria fidei in legalibus caeremoniis
+typice portaret. »  Multa sunt quae ad haec confirmanda
+concurrunt: sed modus epistolaris cuncta
+non patitur, nec opus est. Arbitror enim, ut ante
+jam dixeram, me quoque non respondente, ea potuisse
+sufficere quae tua super hoc epistola continet.
+<pb n="1041C"/>
+Sed hoc [ <hi>al.</hi> hac] addidi, ne intactum quid praeterirem
+ex omnibus quae petisti.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Ostendit dari peccatum per ignorantiam contra assertorem contrariae opinionis.</hi> </head>
+<div3>
+            <head>16.</head>
+            <p>
+ Jam contra tertiam assertionem non multum
+nobis arbitror laborandum, tum quod manifestam
+nimis praeferat falsitatem; tum quod ipse ejus inventor,
+in sua superiori sententia ipsam per se satis
+impugnet, sibimetipsi contrarius. Cum enim de nocturno
+illo privatoque susurrio Domini cum Nicodemo,
+laqueum nectat publicae damnationis per totum orbem
+ignorantibus, arbitrans videlicet neminem
+ex <emph>633</emph> illa hora potuisse salvari, qui non fuerit
+baptizatus; nonne aperte peccatum ignorantiae, et
+<pb n="1041D"/>
+peccatum damnabile confitetur? Nisi forte tam protervus
+sit, ut Deum homines sine culpa damnare
+existimet. Verendum tamen, ne si vel breviter non
+respondetur stulto juxta stultitiam suam; putans
+forte sapientiam, securius spargat seminarium
+vecordiae in auribus insipientium, et ita jam insipientiae
+ejus non sit numerus. Veritatis proinde testimoniis,
+paucis et manifestis, manifestum mendacium
+confutetur. Is forsitan qui asserit non posse
+peccari per ignorantiam, nunquam pro suis ignorantiis
+deprecatur, sed potius prophetam irrideat deprecantem
+et dicentem: <hi>Delicta juventutis meae, et
+<pb n="1042A"/>
+ignorantias meas ne memineris <note>(Psal. XXIV, 7)</note>
+            </hi>. Forsitan
+et reprehendet Deum exigentem pro peccato
+ignorantiae satisfactionem. Loquitur enim in Levitico
+ad Moysen dicens: <hi>Anima si peccaverit per
+ignorantiam, feceritque unum ex his quae lege Domini
+prohibentur, et peccati rea intellexerit iniquitatem
+suam, offeret arietem immaculatum de gregibus
+sacerdoti, juxta mensuram aestimationemque peccati;</hi> 
+et rursum: <hi>Qui orabit pro eo quod nesciens fecerit,
+et dimittetur ei, quia per errorem deliquit in Dominum <note>(Levit. V, 17-19)</note>
+            </hi>.</p>
+          </div3>
+<div3>
+            <head>17.</head>
+            <p>
+ Si ignorantia nunquam peccatum est, cur
+dictum est in Epistola ad Hebraeos, quia in secundo
+tabernaculo semel in anno solus pontifex intraret,
+non sine sanguine, quem offerret pro sui et populi
+<pb n="1042B"/>
+ignorantia? <note>(Hebr. IX, 7.)</note> Si peccatum ignorantiae
+nullum est, non ergo peccavit Saulus, quod persecutus
+est Ecclesiam Dei, quoniam quidem ignorans
+hoc fecit, manens in incredulitate. Bene itaque faciebat,
+quod erat blasphemus, et persecutor, et contumeliosus;
+quod erat spirans minarum et caedis in
+discipulos Jesu; et in hoc ipso quippe abundanter
+aemulator existens paternarum suarum traditionum <note>(Galat. I, 13, 14)</note>.
+Non ergo debuit dicere: <hi>Misericordiam
+consecutus sum <note>(I Tim. I, 13)</note>
+            </hi>; sed, Mercedem
+recepi; quippe quem ignorantia a peccato reddebat
+immunem, insuper et aemulatio remunerabilem judicabat.
+Si, inquam, ignorantia nunquam peccatur;
+quid ergo causamur adversus occisores Apostolorum,
+quandoquidem non solum malum esse nescierunt
+<pb n="1042C"/>
+interficere illos, sed insuper quoque id faciendo
+arbitrati sunt obsequium se praestare Deo? <note>(Joan. XVI,
+2.)</note> Sed et frustra in cruce Salvator pro suis orabat
+crucifixoribus, quippe nescientibus, ipso teste, quid
+facerent <note>(Luc. XXIII, 34)</note>, et ita nequaquam peccantibus.
+Neque enim fas est ullatenus suspicari mentitum
+fuisse Dominum Jesum, aperte perhibentem
+eos ignorare quid facerent; etsi forte de Apostolo
+dubitet quis, quod carnem suam aemulans, sicut
+homo mentiri potuerit, ubi ait: <hi>Si enim cognovissent,
+nunquam Dominum gloriae crucifixissent <note>(I Cor.
+II, 8)</note>
+            </hi>. Numquid non ex his satis apparet, in quantis
+jaceat ignorantiae tenebris, qui ignorat peccari
+posse interdum per ignorantiam? Sed de his hactenus.
+</p>
+          </div3>
+        </div2>
+
+<div2>
+          <head>CAPUT V. <hi>Sententiam quamdam suam male acceptam a calumnia vindicat, nempe, Quod Angelos latuerit consilium Incarnationis Dominicae.</hi> </head>
+<div3>
+            <head>18.</head>
+            <p>
+ In fine mihi insinuas, amicabiliter quidem,
+<pb n="1042D"/>moveri aliquos super quadam mea sententia, qua
+dixi cum Evangelium exponerem, consilium
+Dei nulli, etiam beatorum Angelorum, antequam
+Virgini revelatum. Primo quidem inde, ut arbitror,
+quia non satis juste moventur, advertere possunt
+quod eamdem sententiam non constanter affirmo,
+sed cum temperamento, suspendens sub disjunctiva
+<pb n="1043A"/>
+particula:  « Vel ideo, »  inquam,  « dictum est, a
+Deo. »  Siquidem praemissa una causa quae mihi videbatur,
+cur Evangelista, cum diceret: <hi>Missus est angelus
+Gabriel,</hi> nominatim subjecerit, <hi>a Deo <note>(Luc. I,
+26)</note>
+            </hi>; alteram quoque temperate quidem et sub disjunctione
+subjunxi, quo et mihi non incumberet defendendi
+necessitas, et lectori daretur eligendi <emph>634</emph> 
+ facultas quam e duabus voluisset [ <hi>al.</hi> maluisset].
+Si igitur una quaelibet illarum stare potest, de
+altera quid suggillor, quippe qui neutram affirmans,
+lectoris utramque magis judicio derelinquo? Quanquam
+etsi ex sententia dixerim, ignotum usque
+tunc [ <hi>al.</hi> adhuc] sanctis Angelis fuisse Dei consilium,
+non quidem quia per incarnandi Verbi mysterium
+Dei propositum erat quandoque operari salutem in
+<pb n="1043B"/>
+medio terrae (hoc enim et multis mortalium et praescire
+donatum est, et praedicere), sed quod potissimum
+tempus, quemve locum, vel modum, praecipueque
+quam virginem, ad implendum propositum suum
+elegisset Deus; si, inquam, hoc Dei consilium non
+de opere, sed de tempore, loco, modo, atque persona,
+etiam sanctos ignorasse Angelos senserim et
+scripserim; profecto non video cur incredibile videatur.
+Sane ibi unusquisque in suo sensu securus
+abundat, ubi aut certae rationi, aut non contemnendae
+auctoritati quod sentitur non obviat.</p>
+          </div3>
+<div3>
+            <head>19.</head>
+            <p>
+ Quaenam enim me ratio sive auctoritas sentire
+cogat, etiam tempus illud ab antiquo Angelis
+innotuisse, de quo Apostolus: <hi>Postquam venit,</hi> inquit, <hi>plenitudo temporis, misit Deus Filium suum factum
+<pb n="1043C"/>
+ex muliere, factum sub lege? 
+ <note>(Galat. IV, 4.)</note>
+            </hi> Credibilius
+magis fortasse videtur, ut sicut futuri adventus
+Domini, ipso teste, diem prorsus ignorant <note>(Matth.
+XXIV, 36)</note>; ita quoque prioris tempus nequaquam
+praescierint. Quis scit enim, si modo illo spirituali
+Dei Sapientia de primo adventu suo et Angelis illud
+locuta sit, quod Apostolis per os carnis assumptae
+de secundo legitur respondisse: <hi>Non est,</hi> inquiens, <hi>vestrum nosse tempora vel momenta, quae Pater posuit
+in sua potestate? 
+ <note>(Act. I, 7.)</note>
+            </hi> Quae me rursum credere
+compellat necessitas, Angelos jam ante advertisse
+civitatem Nazareth, quam illo cernerent missum archangelum
+Virginem salutare, et partum nuntiare
+divinum? Siquidem quod praeelecta fuerit Bethlehem
+nativitati, Jerusalem passioni; etiam sic aperte
+<pb n="1043D"/>
+praescitum et praedictum est a Prophetis. Quod autem
+et Nazareth praevisa similiter est conceptioni,
+non tamen similiter, ut arbitror, praevisum fuisse et
+a Prophetis, evidens aliquod invenitur de Scripturis
+testimonium. Nam quod legitur, <hi>Quoniam Nazaraeus
+vocabitur <note>(Matth. XI, 23)</note>
+            </hi>, profecto evangelista, qui
+hoc de propheta sumit, non tam ad conceptionem,
+quam ad educationem referri satis evidenter ostendit,
+quod illo videlicet ex Aegypto reportatus fuerit,
+illicque nutritus. Denique Judaei ad Nicodemum, <hi>Scrutare,</hi> 
+ aiunt, <hi>et vide, quoniam propheta a Galilaea
+non surgit <note>(Joan. VII, 52)</note>
+            </hi>. Et quidem scienti legem
+loquebantur, et qui magister erat in Israel, nihilque
+facile ignoraret ex omnibus: et tamen tota fiducia
+<pb n="1044A"/>
+instabant, monstrantes Scripturas non loqui Christum
+venire a Galilaea, cujus Nazareth civitas esse
+cognoscitur. Plus sane ad manum fuit eis testimonium
+de propheta, ex quo Regi locum sciscitanti nativitatis,
+incunctanter Bethlehem responderunt. Itaque
+natus in Bethlehem Christus est <note>(Matth. II, 1)</note>,
+et in Jerusalem passus; et utrumque aperte praedixisse
+Prophetas manifestum est. Conceptus aeque
+est et in Nazareth civitate Galilaeae: nec tamen visum
+est occurrere quidpiam vel Nicodemo, per quod
+sive Galilaeam, sive Nazareth ad Christi adventum
+undecunque pertinere doceret</p>
+          </div3>
+<div3>
+            <head>20.</head>
+            <p>
+ Sic quoque Nathanael, doctus et ipse in lege,
+Philippo nuntianti Jesum filium Joseph a Nazareth,
+mox sub interrogatione admirando respondit: <hi>A
+<pb n="1044B"/>
+Nazareth,</hi> inquit, <hi>potest aliquid boni esse? <note>(Joan. I, 46.)</note>
+            </hi> 
+Nimirum admirans quod a Nazareth Christus nuntiaretur,
+quod ex nulla penitus Scriptura recoleret.
+Aut si non interrogando quidem, sed magis affirmando
+illud respondisse contenditur, memor utique praefati
+testimonii, quoniam <hi>Nazaraeus vocabitur:</hi> non tamen
+perinde, quod in Nazareth conceptus fuerit Jesus,
+cum agnovisse constabit; cum multae aliae causae
+occurrere potuissent, cur illud propheta praedixerit.
+Potuit ergo et de conceptionis loco, ut Prophetas,
+sic et Angelos divinum latuisse consilium. <emph>635</emph>
+</p>
+          </div3>
+<div3>
+            <head>21.</head>
+            <p>
+ Modum deinde illum tam incomprehensibilem,
+quem et Virgo sollicita requisivit, unde,
+quaeso, doceri queam Angelis fuisse praecognitum?
+Mihi vero videtur, ne ipsi quidem (ut pace ejus dixerim)
+<pb n="1044C"/>
+qui nuntiabat: quod et ipse fatetur, si ejus
+verba diligenter advertimus. Respondens quippe, <hi>Spiritus sanctus superveniet in te;</hi> 
+ nonne aperte mittit
+ad magisterium Spiritus sancti, cujus unctione doceatur
+de omnibus, quorum ipse sibi non praesumit
+scientiam, et discat experiendo quod audiendo non
+poterat? Denique subjungit: <hi>Et virtus Altissimi obumbrabit
+tibi <note>(Luc. I, 35)</note>
+            </hi>; expressius profecto significans
+modum secretissimum arcani incomprehensibilis
+et ineffabilis sacramenti, quo quasi in umbra
+cum sola, et in sola Virgine, sola Trinitas conceptum
+fuerat operatura divinum. Ad hoc quoque investigandum
+mysterium minus se idoneum confitetur
+magnus ille Joannes, cum se indignum perhibet
+solvere corrigiam calceamenti. Sed et ipsam Virginem,
+<pb n="1044D"/>
+rogo, unde probabitur ex nomine, vel ex facie
+ante cognitam Angelis, quod ipsa videlicet esset
+quam Deus elegerit in matrem sibi, excepto duntaxat
+archangelo, cui et servanda ab initio tradita
+fuisse credenda est! Porro autem si diabolus eam
+nec post conceptionem agnovit, Joseph utique desponsatione
+deceptus; credi potest et sanctis Angelis
+vel ante minime innotuisse, quod ipsa videlicet esset
+Dei mater futura. Sane etenim reprobi spiritus,
+etsi destituti sunt participatione gratiae spiritualis,
+non tamen vivacitate industriae naturalis.</p>
+          </div3>
+<div3>
+            <head>22.</head>
+            <p>
+ Videsne, in quantis, salva fide et veritate
+Scripturarum, divinum Angeli consilium poterant
+ignorasse, praesertim ut horum revelandorum praerogativa
+<pb n="1045A"/>
+matri Virgini servaretur? Primum equidem
+est tempus, secundum locus, tertium modus, quartum
+electio personae virginalis. Hoc responde fratribus,
+qui me reprehendunt quod dixerim ad laudem
+Virginis, ideo positum esse <hi>a Deo,</hi> ne cui forte
+<pb n="1046A"/>
+vel beatorum Angelorum suum consilium Deus
+priusquam Virgini, revelasse putetur, excepto duntaxat
+archangelo Gabriele. Suum consilium dixi, non
+de opere, sed de operis tempore, de loco, de modo,
+de personae quoque electione. Vale.
+
+</p>
+          </div3>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
