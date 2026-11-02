@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Epistola ad sororem sanctae Claram, de perfectione vitae, in octo capitibus: de cognitione sui, humilitate, paupertate, silentio, oratione, memoria passionis, caritate et perseverantia. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
-    "en-US": "A letter of spiritual direction to a Poor Clare in eight chapters: self-knowledge, humility, poverty, silence, prayer, the memory of the Passion, charity and final perseverance. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "en-US": "A letter of spiritual direction to a Poor Clare in eight chapters: self-knowledge, humility, poverty, silence, prayer, the memory of the Passion, charity and final perseverance. The English is Laurence Costello’s 1923 translation (Holiness of Life), which follows the chapters. The English is Laurence Costello’s 1923 translation (Holiness of Life), which follows the chapters. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
     "pt-BR": "Carta de direção espiritual a uma clarissa em oito capítulos: conhecimento de si, humildade, pobreza, silêncio, oração, memória da Paixão, caridade e perseverança final."
   },
   "composed": "c. 1260",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bonaventure/de-perfectione-vitae-ad-sorores",
   "editions": {
     "la": {
       "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
       "year": 1900
+    },
+    "en-US": {
+      "translator": "Laurence Costello",
+      "year": 1923
     }
   },
   "sources": [
@@ -35,61 +40,86 @@
       "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
       "tier": "A",
       "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/holinessoflife00costuoft",
+      "edition": "Holiness of Life: De perfectione vitae ad sorores, by St. Bonaventure, translated by Laurence Costello, with a foreword by John McIntyre and an editor’s introduction (St. Louis and London: B. Herder, 1923).",
+      "description": "The translation only (prologue and eight chapters); the foreword, introduction and index are left out. Paragraph breaks are rebuilt from the short last lines of the OCR, so some are missing or misplaced, and a few stray page heads and note fragments may remain.",
+      "tier": "A",
+      "tierEvidence": "Published in 1923, before 1931: public domain in the US."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/holinessoflife00costuoft",
+      "edition": "Holiness of Life: De perfectione vitae ad sorores, by St. Bonaventure, translated by Laurence Costello, with a foreword by John McIntyre and an editor’s introduction (St. Louis and London: B. Herder, 1923).",
+      "description": "The translation only (prologue and eight chapters); the foreword, introduction and index are left out. Paragraph breaks are rebuilt from the short last lines of the OCR, so some are missing or misplaced, and a few stray page heads and note fragments may remain.",
+      "tier": "A",
+      "tierEvidence": "Published in 1923, before 1931: public domain in the US."
     }
   ],
   "toc": [
     {
       "id": "prologus",
       "title": {
-        "la": "Prologus"
+        "la": "Prologus",
+        "en-US": "Prologue"
       }
     },
     {
       "id": "c01",
       "title": {
-        "la": "Caput I. De vera sui ipsius cognitione"
+        "la": "Caput I. De vera sui ipsius cognitione",
+        "en-US": "Chapter I. True self-knowledge"
       }
     },
     {
       "id": "c02",
       "title": {
-        "la": "Caput II. De vera humiliiale"
+        "la": "Caput II. De vera humiliiale",
+        "en-US": "Chapter II. True humility"
       }
     },
     {
       "id": "c03",
       "title": {
-        "la": "Caput III. De perfecta paupertate"
+        "la": "Caput III. De perfecta paupertate",
+        "en-US": "Chapter III. Perfect poverty"
       }
     },
     {
       "id": "c04",
       "title": {
-        "la": "Caput IV. De silentio et taciturnitate"
+        "la": "Caput IV. De silentio et taciturnitate",
+        "en-US": "Chapter IV. Silence and discretion of speech"
       }
     },
     {
       "id": "c05",
       "title": {
-        "la": "Caput V. De studio orationis"
+        "la": "Caput V. De studio orationis",
+        "en-US": "Chapter V. The practice of prayer"
       }
     },
     {
       "id": "c06",
       "title": {
-        "la": "Caput VI. De passionis Christi memoria"
+        "la": "Caput VI. De passionis Christi memoria",
+        "en-US": "Chapter VI. The memory of Christ’s Passion"
       }
     },
     {
       "id": "c07",
       "title": {
-        "la": "Caput VII. De perfecta Dei carilale"
+        "la": "Caput VII. De perfecta Dei carilale",
+        "en-US": "Chapter VII. Perfect love of God"
       }
     },
     {
       "id": "c08",
       "title": {
-        "la": "Caput VIII. De finali perseverantia"
+        "la": "Caput VIII. De finali perseverantia",
+        "en-US": "Chapter VIII. Final perseverance"
       }
     }
   ]
