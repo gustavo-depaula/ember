@@ -1,0 +1,132 @@
+{
+  "id": "ruusbroec-blinkende-steen",
+  "cover": "classic",
+  "name": {
+    "dum": "Dat hantvingherlijn oft vanden blickenden steene",
+    "en-US": "The Sparkling Stone",
+    "pt-BR": "A Pedra Brilhante"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Kort traktaat over de drie levens van de goede, de innige en de schouwende mens, naar Apc 2,17: de blinkende steen met de nieuwe naam. Middelnederlandse tekst van J. B. David (1868).",
+    "en-US": "A short treatise on the good, the interior and the contemplative man, from Rev 2:17, the bright stone bearing a new name. The Middle Dutch text of J. B. David (1868).",
+    "pt-BR": "Breve tratado sobre o homem bom, o homem interior e o contemplativo, a partir de Ap 2,17: a pedra brilhante com o nome novo. Texto em neerlandês médio de J. B. David (1868)."
+  },
+  "composed": "c. 1340-1350",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/blinkende-steen",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae06_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 6: Dit is dat hantvingherlijn oft vanden blickenden steene. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1868).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Van drien poenten die eenen goeden mensche maken"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Van drien poenten die enen ynnighen mensche maken"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Van drien poenten die eenen scouwenden mensche maken"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Vanden blickenden steene, enden nuwen name in het boec der Heimelicheit Gods"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Van dien werken die God ghemeynlic in allen goeden luden werct, ende van vijf partyën van sonderen"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. Van onderscheide tusschen die ghehuerde knechten ende die ghetrouwe knechten Gods"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Van ondersceide tusschen die ghetrouwe knechten Gods en heymelike vrienden Gods"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Van onderscheide tusschen die heymelike vriende ende die verborghene sonen Gods"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Hoe wi moghen werden verborghene sonen Gods ende een scouwende leven besitten"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. Hoe, al eest dat wi één met Gode sijn, dat wi nochtan een ander ewelic van Gode bliven moeten"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. Van groten onderscheit tusscen die claerheit der heilighen en die hoechste claerheit, daer wi toe comen moeghen in desen levene"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. Vander transfiguracien Christi opten berch van Thabor"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. Hoe wi Gods selen ghebruken"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. Van enen ghemeynen levene, dat coemt van scouwen ende van ghebrukene Gods"
+      }
+    }
+  ]
+}
