@@ -1,0 +1,177 @@
+{
+  "id": "sales-sermons-x",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Sermons de saint François de Sales, tome X",
+    "en-US": "Sermons of St. Francis de Sales, vol. X",
+    "pt-BR": "Sermões de São Francisco de Sales, tomo X"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les sermons du tome X de l’édition d’Annecy (vol. IV des Sermons, 1593-1622), un sermon par chapitre, en orthographe d’époque.",
+    "en-US": "The sermons in volume X of the Annecy edition (Sermons, vol. IV; 1593-1622), one sermon per chapter, in period spelling.",
+    "pt-BR": "Os sermões do tomo X da edição de Annecy (1593-1622)."
+  },
+  "composed": "1593-1622",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/sermons-x",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1899
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. X: Sermons, 1896-1898 (file 10), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original 17th-century spelling, extracted from the PDF text layer (layout mode). Marginal references, variants and footnotes, the editors’ introductions and tables are not included. Sermon titles come from the headings and dates printed above each sermon.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-001",
+      "title": {
+        "fr-FR": "Sermon pour le deuxième dimanche après l’Épiphanie"
+      }
+    },
+    {
+      "id": "sermon-002",
+      "title": {
+        "fr-FR": "Sermon de vêture ier février 1621"
+      }
+    },
+    {
+      "id": "sermon-003",
+      "title": {
+        "fr-FR": "Sermon de vêture"
+      }
+    },
+    {
+      "id": "sermon-004",
+      "title": {
+        "fr-FR": "Sermon de profession 25 mars 1621"
+      }
+    },
+    {
+      "id": "sermon-005",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Visitation de la sainte Vierge 2 juillet 1621 (d"
+      }
+    },
+    {
+      "id": "sermon-006",
+      "title": {
+        "fr-FR": "Sermon de véture 22 juillet 1621"
+      }
+    },
+    {
+      "id": "sermon-007",
+      "title": {
+        "fr-FR": "Sermon de profession pour la fête de saint luc 18 octobre 1621"
+      }
+    },
+    {
+      "id": "sermon-008",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Purification 2 février 1622 (g"
+      }
+    },
+    {
+      "id": "sermon-009",
+      "title": {
+        "fr-FR": "Sermon pour le jeudi"
+      }
+    },
+    {
+      "id": "sermon-010",
+      "title": {
+        "fr-FR": "Sermon pour le troisième dimanche de Carême omne regnum in seipsum di-oisum desolabitur. tout royaume divisé en soy mesme"
+      }
+    },
+    {
+      "id": "sermon-011",
+      "title": {
+        "fr-FR": "Sermon pour le jeudi"
+      }
+    },
+    {
+      "id": "sermon-012",
+      "title": {
+        "fr-FR": "Sermon pour le jeudi"
+      }
+    },
+    {
+      "id": "sermon-013",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche de la passion 13 mars 1622"
+      }
+    },
+    {
+      "id": "sermon-014",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche des Rameaux 20 mars 1622"
+      }
+    },
+    {
+      "id": "sermon-015",
+      "title": {
+        "fr-FR": "Sermon pour le vendredi-saint 25 mars 1622"
+      }
+    },
+    {
+      "id": "sermon-016",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint léger sur le renoncement évangélique 2 octobre 1622"
+      }
+    },
+    {
+      "id": "sermon-017",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint thomas 31 décembre 1622"
+      }
+    },
+    {
+      "id": "sermon-018",
+      "title": {
+        "fr-FR": "Sermon pour la fête de Noël prononcé a la messe de minuit 25 décembre 1622"
+      }
+    },
+    {
+      "id": "sermon-019",
+      "title": {
+        "fr-FR": "Sermons autographes communiqués après l’impression de la première série i"
+      }
+    },
+    {
+      "id": "sermon-020",
+      "title": {
+        "fr-FR": "Sermons recueillis par les religieuses de la Visitation"
+      }
+    },
+    {
+      "id": "sermon-021",
+      "title": {
+        "fr-FR": "Sermons autographes communiques apres t’impression de la première serie"
+      }
+    },
+    {
+      "id": "sermon-022",
+      "title": {
+        "fr-FR": "Sermons de profession i 1617 quels sont les offices des anges envers nous et nos devoirs envers eux. — leur offrir un festin, à l’exemple d’abraham"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
