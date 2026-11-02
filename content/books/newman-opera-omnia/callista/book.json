@@ -1,0 +1,255 @@
+{
+  "id": "newman-callista",
+  "cover": "classic",
+  "name": {
+    "en-US": "Callista: A Sketch of the Third Century",
+    "pt-BR": "Calista: Um Esboço do Século III"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's historical novel of 1855, set in the Roman proconsular Africa of the persecution under Decius. Agellius, a young Christian, loves Callista, a Greek sculptor who is drawn to Christianity by the longing of her own heart. It is a story of conversion, the plague of locusts, the Church's life under persecution, and Callista's martyrdom.",
+    "pt-BR": "O romance histórico de Newman (1855), ambientado na África proconsular romana durante a perseguição de Décio. Agélio, um jovem cristão, ama Calista, uma escultora grega que é atraída ao cristianismo pelo anseio de seu próprio coração. É uma história de conversão, da praga dos gafanhotos, da vida da Igreja sob perseguição e do martírio de Calista."
+  },
+  "composed": "1855",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/callista",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans text; Newman Reader)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/callista/index.html",
+      "edition": "Callista: A Sketch of the Third Century (London: Burns and Lambert, 1856; Longmans, uniform edition), as transcribed by the Newman Reader.",
+      "description": "36 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes.  Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter 1. Sicca Veneria"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter 2. Christianity in Sicca"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter 3. Agellius in his Cottage"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter 4. Juba"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter 5. Jucundus at Supper"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter 6. Goths and Christians"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter 7. Persecution in the Offing"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter 8. The New Generation"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter 9. Jucundus Baits his Trap"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter 10. The Divine Callista"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter 11. Callista's Preaching, and What Came of it"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter 12. A Death"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Chapter 13. And Resurrection"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Chapter 14. A Small Cloud"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Chapter 15. A Visitation"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Chapter 16. Worse and Worse"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Chapter 17. Christianos ad Leones"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Chapter 18. Agellius Flits"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Chapter 19. A Passage of Arms"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Chapter 20. He shall not Lose his Reward"
+      }
+    },
+    {
+      "id": "chapter-21",
+      "title": {
+        "en-US": "Chapter 21. Startling Rumours"
+      }
+    },
+    {
+      "id": "chapter-22",
+      "title": {
+        "en-US": "Chapter 22. Jucundus Propounds his View of the Situation"
+      }
+    },
+    {
+      "id": "chapter-23",
+      "title": {
+        "en-US": "Chapter 23. Gurta"
+      }
+    },
+    {
+      "id": "chapter-24",
+      "title": {
+        "en-US": "Chapter 24. A Mother's Blessing"
+      }
+    },
+    {
+      "id": "chapter-25",
+      "title": {
+        "en-US": "Chapter 25. Callista in Durance"
+      }
+    },
+    {
+      "id": "chapter-26",
+      "title": {
+        "en-US": "Chapter 26. What can it all Mean?"
+      }
+    },
+    {
+      "id": "chapter-27",
+      "title": {
+        "en-US": "Chapter 27. Am I a Christian?"
+      }
+    },
+    {
+      "id": "chapter-28",
+      "title": {
+        "en-US": "Chapter 28. A Sick Call"
+      }
+    },
+    {
+      "id": "chapter-29",
+      "title": {
+        "en-US": "Chapter 29. Conversion"
+      }
+    },
+    {
+      "id": "chapter-30",
+      "title": {
+        "en-US": "Chapter 30. Torres Vedras"
+      }
+    },
+    {
+      "id": "chapter-31",
+      "title": {
+        "en-US": "Chapter 31. The Baptism"
+      }
+    },
+    {
+      "id": "chapter-32",
+      "title": {
+        "en-US": "Chapter 32. The Imperial Rescript"
+      }
+    },
+    {
+      "id": "chapter-33",
+      "title": {
+        "en-US": "Chapter 33. A Good Confession"
+      }
+    },
+    {
+      "id": "chapter-34",
+      "title": {
+        "en-US": "Chapter 34. The Martyrdom"
+      }
+    },
+    {
+      "id": "chapter-35",
+      "title": {
+        "en-US": "Chapter 35. The Corpo Santo"
+      }
+    },
+    {
+      "id": "chapter-36",
+      "title": {
+        "en-US": "Chapter 36. Lux Perpetua Sanctis Tuis, Domine"
+      }
+    }
+  ]
+}
