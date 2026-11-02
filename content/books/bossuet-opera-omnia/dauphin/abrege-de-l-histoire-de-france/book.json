@@ -1,0 +1,162 @@
+{
+  "id": "bossuet-abrege-de-l-histoire-de-france",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Abrégé de l’histoire de France",
+    "en-US": "Abridgement of the History of France",
+    "pt-BR": "Compêndio da história da França"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Histoire de France de Pharamond à Charles IX, composée pour le Dauphin à partir de ses leçons : règne par règne, en dix-sept livres. Écrite vers 1670-1678 par Bossuet et le Dauphin, publiée en 1747. Édition Lachat (1864).",
+    "en-US": "A history of France from Pharamond to Charles IX, composed for the Dauphin from his lessons: reign by reign, in seventeen books. Written around 1670-78 by Bossuet and the Dauphin and published in 1747. Lachat edition (1864).",
+    "pt-BR": "História da França de Faramundo a Carlos IX, composta para o Delfim a partir de suas lições: reinado por reinado, em dezessete livros. Escrita por volta de 1670-1678 por Bossuet e pelo Delfim e publicada em 1747. Edição Lachat (1864)."
+  },
+  "composed": "1675",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/abrege-de-l-histoire-de-france",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume025/001.htm to 020.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXV, pages 001-020. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "livre-002",
+      "title": {
+        "fr-FR": "Livre premier"
+      }
+    },
+    {
+      "id": "livre-003",
+      "title": {
+        "fr-FR": "Livre II"
+      }
+    },
+    {
+      "id": "livre-004",
+      "title": {
+        "fr-FR": "Livre III"
+      }
+    },
+    {
+      "id": "livre-005",
+      "title": {
+        "fr-FR": "Livre IV"
+      }
+    },
+    {
+      "id": "livre-006",
+      "title": {
+        "fr-FR": "Livre V"
+      }
+    },
+    {
+      "id": "livre-007",
+      "title": {
+        "fr-FR": "Livre VI"
+      }
+    },
+    {
+      "id": "livre-008",
+      "title": {
+        "fr-FR": "Livre VII"
+      }
+    },
+    {
+      "id": "livre-009",
+      "title": {
+        "fr-FR": "Livre VIII"
+      }
+    },
+    {
+      "id": "livre-010",
+      "title": {
+        "fr-FR": "Livre IX"
+      }
+    },
+    {
+      "id": "livre-011",
+      "title": {
+        "fr-FR": "Livre X"
+      }
+    },
+    {
+      "id": "livre-012",
+      "title": {
+        "fr-FR": "Livre XI"
+      }
+    },
+    {
+      "id": "livre-013",
+      "title": {
+        "fr-FR": "Livre XII"
+      }
+    },
+    {
+      "id": "livre-014",
+      "title": {
+        "fr-FR": "Livre XIII"
+      }
+    },
+    {
+      "id": "livre-015",
+      "title": {
+        "fr-FR": "Livre XIV"
+      }
+    },
+    {
+      "id": "livre-016",
+      "title": {
+        "fr-FR": "Livre XV"
+      }
+    },
+    {
+      "id": "livre-017",
+      "title": {
+        "fr-FR": "Livre XVI : Henri II (1547)"
+      }
+    },
+    {
+      "id": "livre-018",
+      "title": {
+        "fr-FR": "Livre XVI (suite) : François II (1559)"
+      }
+    },
+    {
+      "id": "livre-019",
+      "title": {
+        "fr-FR": "Livre XVII : Charles IX (1560) et les règnes suivants"
+      }
+    },
+    {
+      "id": "tables",
+      "title": {
+        "fr-FR": "Tables"
+      }
+    }
+  ]
+}
