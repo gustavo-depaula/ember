@@ -31,8 +31,8 @@
     {
       "language": "la",
       "url": "https://www.franciscanos.org/esfa/omfra.html",
-      "edition": "Opuscula omnia sancti Francisci Assisiensis, Esser 1978 critical edition, in the Directorio Franciscano of the OFM (Valencia), all 40 pieces on one page.",
-      "description": "All 40 pieces of the Esser canon, one chapter each (the long Admonitions, Rules and Office of the Passion keep their chapters and psalms as headings). Verse numbers appear as superscript numerals; the parenthetical Scripture references and Esser's sigla in square brackets are kept. The Canticle and Audite, poverelle are Esser's Umbrian text. Page furniture, the index and the sigla table were dropped. Not imported: the English of Paschal Robinson (1906), whose selection and grouping do not follow Esser's canon piece for piece.",
+      "edition": "Opuscula omnia sancti Francisci Assisiensis, Esser 1978 critical edition, in the Directorio Franciscano of the OFM (Valencia), the whole canon on one page.",
+      "description": "Every piece of the Esser canon (38 sections on the page, the recensions of the letters counted separately), one chapter each (the long Admonitions, Rules and Office of the Passion keep their chapters and psalms as headings). Verse numbers appear as superscript numerals; the parenthetical Scripture references and Esser's sigla in square brackets are kept. The Canticle and Audite, poverelle are Esser's Umbrian text. Page furniture, the index and the sigla table were dropped. Not imported: the English of Paschal Robinson (1906), whose selection and grouping do not follow Esser's canon piece for piece.",
       "tier": "B",
       "tierEvidence": "The writings are 13th-century and public domain; the edition is Esser's (Grottaferrata 1978). The host's introduction states the texts are reproduced \"con la gentil y generosa autorización de los Editori di Quaracchi-Grottaferrata\" (the publisher's permission to franciscanos.org, not a general licence), so the critical text and Esser's verse division are free in practice, not public domain, and the friars' permission is the dependency."
     }
