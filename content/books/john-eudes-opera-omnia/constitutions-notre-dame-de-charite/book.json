@@ -1,0 +1,522 @@
+{
+  "id": "eudes-constitutions-ndc",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Constitutions, Règlement et Coutumier de Notre-Dame de Charité",
+    "en-US": "Constitutions, Rule and Customary of Our Lady of Charity",
+    "pt-BR": "Constituições, Regulamento e Costumeiro de Nossa Senhora da Caridade"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Les Constitutions des religieuses de Notre-Dame de Charité, le Règlement des filles et femmes pénitentes, le Coutumier et le Directoire.",
+    "en-US": "The Constitutions of the sisters of Our Lady of Charity, the Rule for the penitent women and girls, the Customary and the Directory.",
+    "pt-BR": "As Constituições das religiosas de Nossa Senhora da Caridade, o Regulamento das penitentes, o Costumeiro e o Diretório."
+  },
+  "composed": 1666,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/constitutions-notre-dame-de-charite",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_10)_000000355.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 10, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "const-01",
+      "title": {
+        "fr-FR": "Introduction (1): Pour les soeurs religieuses"
+      }
+    },
+    {
+      "id": "const-02",
+      "title": {
+        "fr-FR": "Introduction (2): Commencements de l'ordre de notre-dame de charité"
+      }
+    },
+    {
+      "id": "const-03",
+      "title": {
+        "fr-FR": "Introduction (3): La fin de l'Institut"
+      }
+    },
+    {
+      "id": "const-04",
+      "title": {
+        "fr-FR": "Introduction (4): L'esprit des constitutions. leur valeur"
+      }
+    },
+    {
+      "id": "const-05",
+      "title": {
+        "fr-FR": "Introduction (5): Vive jésus et marie"
+      }
+    },
+    {
+      "id": "const-06",
+      "title": {
+        "fr-FR": "Introduction (6): Chapitre xxii"
+      }
+    },
+    {
+      "id": "const-07",
+      "title": {
+        "fr-FR": "Constitution I: De la fin de cet institut, et des motifs qui doivent porter celles"
+      }
+    },
+    {
+      "id": "const-08",
+      "title": {
+        "fr-FR": "Constitution II: Des personnes qui composent la communauté des religieuses"
+      }
+    },
+    {
+      "id": "const-09",
+      "title": {
+        "fr-FR": "Constitution III: De l'office divin"
+      }
+    },
+    {
+      "id": "const-10",
+      "title": {
+        "fr-FR": "Constitution IV: De la variété du chant"
+      }
+    },
+    {
+      "id": "const-11",
+      "title": {
+        "fr-FR": "Constitution V: De la sainte communion"
+      }
+    },
+    {
+      "id": "const-12",
+      "title": {
+        "fr-FR": "Constitution VI: De la prédication"
+      }
+    },
+    {
+      "id": "const-13",
+      "title": {
+        "fr-FR": "Constitution VII: Des exercices journaliers depuis pâques jusques à la saint michel"
+      }
+    },
+    {
+      "id": "const-14",
+      "title": {
+        "fr-FR": "Constitution VIII: Des mêmes exercices depuis la saint michel jusqu'à pâques"
+      }
+    },
+    {
+      "id": "const-15",
+      "title": {
+        "fr-FR": "Constitution IX: Des deux obéissances"
+      }
+    },
+    {
+      "id": "const-16",
+      "title": {
+        "fr-FR": "Constitution X: Du jeûne, abstinence et autres macérations corporelles 72"
+      }
+    },
+    {
+      "id": "const-17",
+      "title": {
+        "fr-FR": "Constitution XI: De la réfection corporelle"
+      }
+    },
+    {
+      "id": "const-18",
+      "title": {
+        "fr-FR": "Constitution XII: De la retraite annuelle"
+      }
+    },
+    {
+      "id": "const-19",
+      "title": {
+        "fr-FR": "Constitution XIII: Du renouvellement que chacune fera tous les mois de sa"
+      }
+    },
+    {
+      "id": "const-20",
+      "title": {
+        "fr-FR": "Constitution XIV: Des voeux"
+      }
+    },
+    {
+      "id": "const-21",
+      "title": {
+        "fr-FR": "Constitution XV. de l'obéissance"
+      }
+    },
+    {
+      "id": "const-22",
+      "title": {
+        "fr-FR": "Constitution XVI: De la chasteté"
+      }
+    },
+    {
+      "id": "const-23",
+      "title": {
+        "fr-FR": "Constitution XVII: De la clôture"
+      }
+    },
+    {
+      "id": "const-24",
+      "title": {
+        "fr-FR": "Constitution XVIII: De la pauvreté"
+      }
+    },
+    {
+      "id": "const-25",
+      "title": {
+        "fr-FR": "Constitution XIX: De la charité"
+      }
+    },
+    {
+      "id": "const-26",
+      "title": {
+        "fr-FR": "Constitution XX: De la gratitude ou reconnaissance"
+      }
+    },
+    {
+      "id": "const-27",
+      "title": {
+        "fr-FR": "Constitution XXI: De l'humilité"
+      }
+    },
+    {
+      "id": "const-28",
+      "title": {
+        "fr-FR": "Constitution XXII: De la modestie"
+      }
+    },
+    {
+      "id": "const-29",
+      "title": {
+        "fr-FR": "Constitution XXIII: De la manière de parler avec les étrangers"
+      }
+    },
+    {
+      "id": "const-30",
+      "title": {
+        "fr-FR": "Constitution XXIV"
+      }
+    },
+    {
+      "id": "const-31",
+      "title": {
+        "fr-FR": "Constitution XXV: Des ouvrages"
+      }
+    },
+    {
+      "id": "const-32",
+      "title": {
+        "fr-FR": "Constitution XXVI: De la candeur et simplicité, et du compte de tous les mois"
+      }
+    },
+    {
+      "id": "const-33",
+      "title": {
+        "fr-FR": "Constitution XXVII: De la correction, et des pénitences et châtiments"
+      }
+    },
+    {
+      "id": "const-34",
+      "title": {
+        "fr-FR": "Constitution XXVIII: Du silence"
+      }
+    },
+    {
+      "id": "const-35",
+      "title": {
+        "fr-FR": "Constitution XXIX: Du chapitre"
+      }
+    },
+    {
+      "id": "const-36",
+      "title": {
+        "fr-FR": "Constitution XXX: De la réception et distribution des moyens de la maison"
+      }
+    },
+    {
+      "id": "const-37",
+      "title": {
+        "fr-FR": "Constitution XXXI: Des habits"
+      }
+    },
+    {
+      "id": "const-38",
+      "title": {
+        "fr-FR": "Constitution XXXII: Des cellules et des lits"
+      }
+    },
+    {
+      "id": "const-39",
+      "title": {
+        "fr-FR": "Constitution XXXIII: Du PÈRE SPIRITUEL"
+      }
+    },
+    {
+      "id": "const-40",
+      "title": {
+        "fr-FR": "Constitution XXXIV"
+      }
+    },
+    {
+      "id": "const-41",
+      "title": {
+        "fr-FR": "Constitution XXXV"
+      }
+    },
+    {
+      "id": "const-42",
+      "title": {
+        "fr-FR": "Constitution XXXVI: Des offices de la maison; premierement de la supérieure"
+      }
+    },
+    {
+      "id": "const-43",
+      "title": {
+        "fr-FR": "Constitution XXXVII: De la manière que la supérieure doit tenir pour les affaires"
+      }
+    },
+    {
+      "id": "const-44",
+      "title": {
+        "fr-FR": "Constitution XXXVIII: Des soeurs choisies pour conseiller la supérieure, qui pour cela"
+      }
+    },
+    {
+      "id": "const-45",
+      "title": {
+        "fr-FR": "Constitution XXXIX"
+      }
+    },
+    {
+      "id": "const-46",
+      "title": {
+        "fr-FR": "Constitution XL: De la directrice"
+      }
+    },
+    {
+      "id": "const-47",
+      "title": {
+        "fr-FR": "Constitution XLI"
+      }
+    },
+    {
+      "id": "const-48",
+      "title": {
+        "fr-FR": "Constitution XLII: De l'aide de la supérieure"
+      }
+    },
+    {
+      "id": "const-49",
+      "title": {
+        "fr-FR": "Constitution XLIII: De l'économe"
+      }
+    },
+    {
+      "id": "const-50",
+      "title": {
+        "fr-FR": "Constitution XLIV: De la portière"
+      }
+    },
+    {
+      "id": "const-51",
+      "title": {
+        "fr-FR": "Constitution XLV: De la sacristine"
+      }
+    },
+    {
+      "id": "const-52",
+      "title": {
+        "fr-FR": "Constitution XLVI"
+      }
+    },
+    {
+      "id": "const-53",
+      "title": {
+        "fr-FR": "Constitution XLVII: Des menus offices de la maison"
+      }
+    },
+    {
+      "id": "const-54",
+      "title": {
+        "fr-FR": "Constitution XLVIII: Des soeurs domestiques"
+      }
+    },
+    {
+      "id": "const-55",
+      "title": {
+        "fr-FR": "Constitution XLIX: Des soeurs tourières"
+      }
+    },
+    {
+      "id": "const-56",
+      "title": {
+        "fr-FR": "Constitution L: De la première réception de celles qui désirent être"
+      }
+    },
+    {
+      "id": "const-57",
+      "title": {
+        "fr-FR": "Constitution LI: De l'entrée des novices"
+      }
+    },
+    {
+      "id": "const-58",
+      "title": {
+        "fr-FR": "Constitution LII: De l'élection de la supérieure et autres officières"
+      }
+    },
+    {
+      "id": "const-59",
+      "title": {
+        "fr-FR": "Constitution LIII: Briève déclaration de l'obligation des soeurs à l'observation"
+      }
+    },
+    {
+      "id": "const-60",
+      "title": {
+        "fr-FR": "Constitution LIV: De l'enterrement des soeurs"
+      }
+    },
+    {
+      "id": "regl-01",
+      "title": {
+        "fr-FR": "Règlement"
+      }
+    },
+    {
+      "id": "regl-02",
+      "title": {
+        "fr-FR": "Chapitre L. De leur réception"
+      }
+    },
+    {
+      "id": "regl-03",
+      "title": {
+        "fr-FR": "Chapitre II. De leur sortie"
+      }
+    },
+    {
+      "id": "regl-04",
+      "title": {
+        "fr-FR": "Chapitre III. Exercice de la journée"
+      }
+    },
+    {
+      "id": "regl-05",
+      "title": {
+        "fr-FR": "Chapitre IV. Du silence qu'elles garderont"
+      }
+    },
+    {
+      "id": "regl-06",
+      "title": {
+        "fr-FR": "Chapitre V. De la pénitence qu'elles doivent faire"
+      }
+    },
+    {
+      "id": "regl-07",
+      "title": {
+        "fr-FR": "Chapitre VI. De la Confession et Communion"
+      }
+    },
+    {
+      "id": "regl-08",
+      "title": {
+        "fr-FR": "Chapitre VII. Autres Règles générales que toutes les Sœurs Pénitentes doivent observer (1)"
+      }
+    },
+    {
+      "id": "regl-09",
+      "title": {
+        "fr-FR": "Chapitre VII. Autres Règles générales que toutes les Sœurs Pénitentes doivent observer (2)"
+      }
+    },
+    {
+      "id": "regl-10",
+      "title": {
+        "fr-FR": "Chapitre VII. Autres Règles générales que toutes les Sœurs Pénitentes doivent observer (3)"
+      }
+    },
+    {
+      "id": "cout-01",
+      "title": {
+        "fr-FR": "Coutumier: Coutumier et directoire"
+      }
+    },
+    {
+      "id": "cout-02",
+      "title": {
+        "fr-FR": "Introduction (1): † FRANÇOIS de Bayeux"
+      }
+    },
+    {
+      "id": "cout-03",
+      "title": {
+        "fr-FR": "Introduction (2): Vive jésus et marie"
+      }
+    },
+    {
+      "id": "cout-04",
+      "title": {
+        "fr-FR": "Introduction (3): Extraits du calendrier des fetes mobiles"
+      }
+    },
+    {
+      "id": "cout-05",
+      "title": {
+        "fr-FR": "Introduction (4)"
+      }
+    },
+    {
+      "id": "cout-06",
+      "title": {
+        "fr-FR": "Introduction (5)"
+      }
+    },
+    {
+      "id": "cout-07",
+      "title": {
+        "fr-FR": "Introduction (6)"
+      }
+    },
+    {
+      "id": "cout-08",
+      "title": {
+        "fr-FR": "Introduction (7)"
+      }
+    },
+    {
+      "id": "cout-09",
+      "title": {
+        "fr-FR": "Introduction (8)"
+      }
+    },
+    {
+      "id": "cout-10",
+      "title": {
+        "fr-FR": "Introduction (9): Des Confessions"
+      }
+    }
+  ]
+}
