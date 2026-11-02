@@ -1,0 +1,47 @@
+{
+  "id": "councils-constantinople-iii-originals",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Constantinopolitanum III (680–681)",
+    "en-US": "Constantinople III (680–681): original texts",
+    "pt-BR": "Constantinopla III (680–681): textos originais"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "en-US": "The original texts of Constantinople III (680–681): the the ancient Latin version of its decrees. The English translation of Percival (NPNF, 1900) is the book Councils: Constantinople III (680–681).",
+    "pt-BR": "Os textos originais de Constantinopla III (680–681): a antiga versão latina de seus decretos."
+  },
+  "composed": "680–681",
+  "languages": [
+    "la"
+  ],
+  "work": "councils/constantinople-iii",
+  "editions": {
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), ancient Latin versions, via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Constantinopolitanum_III",
+      "edition": "Latin Wikisource, Concilium Constantinopolitanum III, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia (the ancient Latin versions of the Greek acts). Wikitext fetched through action=raw.",
+      "description": "As transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences and lowercase deus/dominus; line breaks kept as paragraph breaks, split enclitics rejoined, and the digitisation's citation lines (pag./linea) removed. The Greek of this council survives only in part and is not imported.",
+      "tier": "B",
+      "tierEvidence": "Ancient texts; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Concilium Constantinopolitanum III (680–681)"
+      }
+    }
+  ]
+}
