@@ -1,0 +1,1640 @@
+{
+  "id": "mechtilde-liber-specialis-gratiae",
+  "cover": "classic",
+  "name": {
+    "la": "Liber specialis gratiae",
+    "en-US": "The Book of Special Grace",
+    "pt-BR": "O Livro da Graça Especial"
+  },
+  "author": {
+    "la": "Mechtildis de Hackeborn",
+    "en-US": "St. Mechtilde of Hackeborn",
+    "pt-BR": "Santa Matilde de Hackeborn"
+  },
+  "description": {
+    "la": "Liber specialis gratiae: revelationes sanctae Mechtildis, virginis Ordinis Sancti Benedicti, in septem partes divisae, a Gertrude et alia sorore conscriptae.",
+    "en-US": "The revelations of St. Mechtilde of Hackeborn, singer of Helfta, in seven parts, written down by Gertrude the Great and another nun.",
+    "pt-BR": "As revelações de Santa Matilde de Hackeborn, a cantora de Helfta, em sete partes, escritas por Gertrudes, a Grande, e por outra religiosa."
+  },
+  "composed": "c. 1290-1299",
+  "languages": [
+    "la"
+  ],
+  "work": "mechtilde-of-hackeborn/liber-specialis-gratiae",
+  "editions": {
+    "la": {
+      "editor": "Solesmes Benedictines (L. Paquelin)",
+      "year": 1877
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://digital.blb-karlsruhe.de/download/pdf/3327242.pdf",
+      "edition": "Revelationes Gertrudianae ac Mechtildianae, vol. II: Sanctae Mechtildis virginis ordinis Sancti Benedicti Liber specialis gratiae, Poitiers/Paris: H. Oudin, 1877 (Solesmes edition).",
+      "description": "Page scan of the Badische Landesbibliothek Karlsruhe (urn:nbn:de:bsz:31-60070), OCR with Tesseract (eng model) by research/sourcing/_scripts/mechtilde_{page,assemble,build}.py: running heads, marginal notes and the editors' footnotes are dropped; the ligatures ae/oe lost by the OCR are restored and single-letter slips repaired by lexicon vote. Not proofread.",
+      "tier": "A",
+      "tierEvidence": "Public-domain 1877 print."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "pars-1",
+      "title": {
+        "la": "Pars I"
+      },
+      "children": [
+        {
+          "id": "p1-c00",
+          "title": {
+            "la": "Caput previum: De nativitate hujus virginis, item de vocatione et praclaris dotibus"
+          }
+        },
+        {
+          "id": "p1-c01",
+          "title": {
+            "la": "Caput 1: De annuntiatione b. marie virginis et de corde domini et laude ejus"
+          }
+        },
+        {
+          "id": "p1-c02",
+          "title": {
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "p1-c03",
+          "title": {
+            "la": "Caput 3: De quadruplici voce dei"
+          }
+        },
+        {
+          "id": "p1-c04",
+          "title": {
+            "la": "Caput 4: Cur facies domini soli comparetur"
+          }
+        },
+        {
+          "id": "p1-c05",
+          "title": {
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "p1-c06",
+          "title": {
+            "la": "Caput 6: De sancto joanne apostolo et evangelista"
+          }
+        },
+        {
+          "id": "p1-c08",
+          "title": {
+            "la": "Caput 8: De quinque januis et de daptisno dotunt"
+          }
+        },
+        {
+          "id": "p1-c09",
+          "title": {
+            "la": "Caput 9: Qualiter christus defectus anima supplet"
+          }
+        },
+        {
+          "id": "p1-c10",
+          "title": {
+            "la": "Caput 10: De veneratione imaginis christi, et de ejus convivio"
+          }
+        },
+        {
+          "id": "p1-c11",
+          "title": {
+            "la": "Caput 11: De sancta agnete, et quod sancti omnia bona sua sibi deyotis dare possunt in propria"
+          }
+        },
+        {
+          "id": "p1-c12",
+          "title": {
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "p1-c13",
+          "title": {
+            "la": "Caput 13"
+          }
+        },
+        {
+          "id": "p1-c14",
+          "title": {
+            "la": "Caput 14"
+          }
+        },
+        {
+          "id": "p1-c15",
+          "title": {
+            "la": "Caput 15: De quinque modis deum laudandi"
+          }
+        },
+        {
+          "id": "p1-c16",
+          "title": {
+            "la": "Caput 16: I de nomine domini et de eus vulneribus sacris"
+          }
+        },
+        {
+          "id": "p1-c17",
+          "title": {
+            "la": "Caput 17: De arbore crucis. h"
+          }
+        },
+        {
+          "id": "p1-c18",
+          "title": {
+            "la": "Caput 18: De passione domini nostri jesu christi"
+          }
+        },
+        {
+          "id": "p1-c19",
+          "title": {
+            "la": "Caput 19"
+          }
+        },
+        {
+          "id": "p1-c20",
+          "title": {
+            "la": "Caput 20: Qualiter deus pater filium suum ascendentem suscepit"
+          }
+        },
+        {
+          "id": "p1-c21",
+          "title": {
+            "la": "Caput 21"
+          }
+        },
+        {
+          "id": "p1-c22",
+          "title": {
+            "la": "Caput 22"
+          }
+        },
+        {
+          "id": "p1-c23",
+          "title": {
+            "la": "Caput 23"
+          }
+        },
+        {
+          "id": "p1-c24",
+          "title": {
+            "la": "Caput 24: De fonte vivo qui deus est, et dr gaudio animae"
+          }
+        },
+        {
+          "id": "p1-c25",
+          "title": {
+            "la": "Caput 25"
+          }
+        },
+        {
+          "id": "p1-c26",
+          "title": {
+            "la": "Caput 26"
+          }
+        },
+        {
+          "id": "p1-c27",
+          "title": {
+            "la": "Caput 27: De processione et missa quam dominus jesus christus celebravit"
+          }
+        },
+        {
+          "id": "p1-c28",
+          "title": {
+            "la": "Caput 28"
+          }
+        },
+        {
+          "id": "p1-c29",
+          "title": {
+            "la": "Caput 29: De nativitate gloriose marle virginis"
+          }
+        },
+        {
+          "id": "p1-c30",
+          "title": {
+            "la": "Caput 30"
+          }
+        },
+        {
+          "id": "p1-c31",
+          "title": {
+            "la": "Caput 31"
+          }
+        },
+        {
+          "id": "p1-c32",
+          "title": {
+            "la": "Caput 32"
+          }
+        },
+        {
+          "id": "p1-c33",
+          "title": {
+            "la": "Caput 33"
+          }
+        },
+        {
+          "id": "p1-c34",
+          "title": {
+            "la": "Caput 34"
+          }
+        },
+        {
+          "id": "p1-c35",
+          "title": {
+            "la": "Caput 35: De festo dedicationis ecclesi£"
+          }
+        },
+        {
+          "id": "p1-c36",
+          "title": {
+            "la": "Caput 36: De beata virgine et de septem pedissequis ejus"
+          }
+        },
+        {
+          "id": "p1-c37",
+          "title": {
+            "la": "Caput 37: Quaciter homo veram sanctitatem obtineat"
+          }
+        },
+        {
+          "id": "p1-c38",
+          "title": {
+            "la": "Caput 38: De coronis beat virginis"
+          }
+        },
+        {
+          "id": "p1-c39",
+          "title": {
+            "la": "Caput 39: De radhs de corde beata: marle virginis prodeuntibus"
+          }
+        },
+        {
+          "id": "p1-c40",
+          "title": {
+            "la": "Caput 40"
+          }
+        },
+        {
+          "id": "p1-c41",
+          "title": {
+            "la": "Caput 41: De gaudiis beata virginis marie"
+          }
+        },
+        {
+          "id": "p1-c42",
+          "title": {
+            "la": "Caput 42: Quod beata virgo maria non potest dulcius salutari"
+          }
+        },
+        {
+          "id": "p1-c43",
+          "title": {
+            "la": "Caput 43"
+          }
+        },
+        {
+          "id": "p1-c44",
+          "title": {
+            "la": "Caput 44: I de fidelitate glorios.€ mariz virginis,"
+          }
+        },
+        {
+          "id": "p1-c45",
+          "title": {
+            "la": "Caput 45: Qualiter beata virgo cum omni creatura salutetur"
+          }
+        },
+        {
+          "id": "p1-c46",
+          "title": {
+            "la": "Caput 46"
+          }
+        },
+        {
+          "id": "p1-c47",
+          "title": {
+            "la": "Caput 47"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-2",
+      "title": {
+        "la": "Pars II"
+      },
+      "children": [
+        {
+          "id": "p2-c01",
+          "title": {
+            "la": "Caput 1"
+          }
+        },
+        {
+          "id": "p2-c02",
+          "title": {
+            "la": "Caput 2: De vinea domini quae est ecclesia, et de quadruplici oratione"
+          }
+        },
+        {
+          "id": "p2-c03",
+          "title": {
+            "la": "Caput 3: Qualiter deus ad animam venit"
+          }
+        },
+        {
+          "id": "p2-c05",
+          "title": {
+            "la": "Caput 5: Dominus illam juvat ad lectionem"
+          }
+        },
+        {
+          "id": "p2-c06",
+          "title": {
+            "la": "Caput 6"
+          }
+        },
+        {
+          "id": "p2-c07",
+          "title": {
+            "la": "Caput 7: De cursu et labore domini"
+          }
+        },
+        {
+          "id": "p2-c08",
+          "title": {
+            "la": "Caput 8: De osculo domini"
+          }
+        },
+        {
+          "id": "p2-c09",
+          "title": {
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "p2-c10",
+          "title": {
+            "la": "Caput 10"
+          }
+        },
+        {
+          "id": "p2-c11",
+          "title": {
+            "la": "Caput 11: De flagello domini"
+          }
+        },
+        {
+          "id": "p2-c12",
+          "title": {
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "p2-c14",
+          "title": {
+            "la": "Caput 14"
+          }
+        },
+        {
+          "id": "p2-c15",
+          "title": {
+            "la": "Caput 15: Quod amor omnia ejus neglecta supplevit"
+          }
+        },
+        {
+          "id": "p2-c16",
+          "title": {
+            "la": "Caput 16"
+          }
+        },
+        {
+          "id": "p2-c17",
+          "title": {
+            "la": "Caput 17: Qualiter unum cum dilecto est effecta, et de amore"
+          }
+        },
+        {
+          "id": "p2-c18",
+          "title": {
+            "la": "Caput 18: Quod deus aniam suis virtutibus decoravit"
+          }
+        },
+        {
+          "id": "p2-c19",
+          "title": {
+            "la": "Caput 19"
+          }
+        },
+        {
+          "id": "p2-c20",
+          "title": {
+            "la": "Caput 20: Qualiter christus pro ka laudes deo patri persolvit"
+          }
+        },
+        {
+          "id": "p2-c21",
+          "title": {
+            "la": "Caput 21"
+          }
+        },
+        {
+          "id": "p2-c22",
+          "title": {
+            "la": "Caput 22"
+          }
+        },
+        {
+          "id": "p2-c23",
+          "title": {
+            "la": "Caput 23"
+          }
+        },
+        {
+          "id": "p2-c24",
+          "title": {
+            "la": "Caput 24"
+          }
+        },
+        {
+          "id": "p2-c25",
+          "title": {
+            "la": "Caput 25: De cruce et serica veste domini"
+          }
+        },
+        {
+          "id": "p2-c26",
+          "title": {
+            "la": "Caput 26"
+          }
+        },
+        {
+          "id": "p2-c27",
+          "title": {
+            "la": "Caput 27: Quod ei doninus de seipso vestimentun facere repromisit"
+          }
+        },
+        {
+          "id": "p2-c28",
+          "title": {
+            "la": "Caput 28: Quomodo omnibus sanctis de fonte misericordiz propinavit"
+          }
+        },
+        {
+          "id": "p2-c29",
+          "title": {
+            "la": "Caput 29: Iterum de forte misericordle"
+          }
+        },
+        {
+          "id": "p2-c30",
+          "title": {
+            "la": "Caput 30"
+          }
+        },
+        {
+          "id": "p2-c31",
+          "title": {
+            "la": "Caput 31: De potentia amoris"
+          }
+        },
+        {
+          "id": "p2-c32",
+          "title": {
+            "la": "Caput 32"
+          }
+        },
+        {
+          "id": "p2-c33",
+          "title": {
+            "la": "Caput 33: Qualiter homo cor sum deo preponet ad inhabitandum"
+          }
+        },
+        {
+          "id": "p2-c34",
+          "title": {
+            "la": "Caput 34: Qualiter deus anima sensus suos donat ut eis utatur"
+          }
+        },
+        {
+          "id": "p2-c35",
+          "title": {
+            "la": "Caput 35: Qualiter deus animam ad se vocavit, et de amore et de psalterio decem chordarum"
+          }
+        },
+        {
+          "id": "p2-c36",
+          "title": {
+            "la": "Caput 36: Qualiter homo poenas suas committit deo, et de bonitate cordis dei, et qualiter deus virgines suscipit"
+          }
+        },
+        {
+          "id": "p2-c37",
+          "title": {
+            "la": "Caput 37"
+          }
+        },
+        {
+          "id": "p2-c38",
+          "title": {
+            "la": "Caput 38: De arrhis virginem"
+          }
+        },
+        {
+          "id": "p2-c39",
+          "title": {
+            "la": "Caput 39: Quod christus cum poenis animae se vestit, et eas su& i passioni unitas deo patri offert"
+          }
+        },
+        {
+          "id": "p2-c40",
+          "title": {
+            "la": "Caput 40: Qualiter deus in anima operatur"
+          }
+        },
+        {
+          "id": "p2-c41",
+          "title": {
+            "la": "Caput 41"
+          }
+        },
+        {
+          "id": "p2-c42",
+          "title": {
+            "la": "Caput 42: De throno dei, et de novem choris angelorum, ' et de quatuor osculis"
+          }
+        },
+        {
+          "id": "p2-c43",
+          "title": {
+            "la": "Caput 43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-3",
+      "title": {
+        "la": "Pars III"
+      },
+      "children": [
+        {
+          "id": "p3-c01",
+          "title": {
+            "la": "Caput 1: De annulo septen lapidibus pretiosis insignito"
+          }
+        },
+        {
+          "id": "p3-c02",
+          "title": {
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "p3-c03",
+          "title": {
+            "la": "Caput 3: De quinque verbis laudis divina"
+          }
+        },
+        {
+          "id": "p3-c04",
+          "title": {
+            "la": "Caput 4"
+          }
+        },
+        {
+          "id": "p3-c05",
+          "title": {
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "p3-c06",
+          "title": {
+            "la": "Caput 6: Qualiter christus debeat laudari in singulis membris suis"
+          }
+        },
+        {
+          "id": "p3-c07",
+          "title": {
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "p3-c08",
+          "title": {
+            "la": "Caput 8"
+          }
+        },
+        {
+          "id": "p3-c09",
+          "title": {
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "p3-c10",
+          "title": {
+            "la": "Caput 10"
+          }
+        },
+        {
+          "id": "p3-c11",
+          "title": {
+            "la": "Caput 11: Quod optimum est gratia infusa frui"
+          }
+        },
+        {
+          "id": "p3-c12",
+          "title": {
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "p3-c14",
+          "title": {
+            "la": "Caput 14: Qualiter homo christi conversationem stbt csurpet"
+          }
+        },
+        {
+          "id": "p3-c15",
+          "title": {
+            "la": "Caput 15: Qualiter christi membra nobis velut specula lucent"
+          }
+        },
+        {
+          "id": "p3-c16",
+          "title": {
+            "la": "Caput 16"
+          }
+        },
+        {
+          "id": "p3-c17",
+          "title": {
+            "la": "Caput 17"
+          }
+        },
+        {
+          "id": "p3-c18",
+          "title": {
+            "la": "Caput 18"
+          }
+        },
+        {
+          "id": "p3-c19",
+          "title": {
+            "la": "Caput 19: Quod bonum sit miss# interesse. 4"
+          }
+        },
+        {
+          "id": "p3-c20",
+          "title": {
+            "la": "Caput 20"
+          }
+        },
+        {
+          "id": "p3-c21",
+          "title": {
+            "la": "Caput 21: Qualiter homo faciem anima suz contempletur, specialiter dum vult communicare"
+          }
+        },
+        {
+          "id": "p3-c22",
+          "title": {
+            "la": "Caput 22: Qualiter se homo ad sanctam communionem praeparet"
+          }
+        },
+        {
+          "id": "p3-c23",
+          "title": {
+            "la": "Caput 23: Quali desiderio homo ad sanctam communionem domini accedat"
+          }
+        },
+        {
+          "id": "p3-c24",
+          "title": {
+            "la": "Caput 24"
+          }
+        },
+        {
+          "id": "p3-c25",
+          "title": {
+            "la": "Caput 25"
+          }
+        },
+        {
+          "id": "p3-c26",
+          "title": {
+            "la": "Caput 26"
+          }
+        },
+        {
+          "id": "p3-c27",
+          "title": {
+            "la": "Caput 27: Qualiter cor hominis cordi dei sit unitum"
+          }
+        },
+        {
+          "id": "p3-c28",
+          "title": {
+            "la": "Caput 28: De scrinio tripartito cor hominis significante,"
+          }
+        },
+        {
+          "id": "p3-c29",
+          "title": {
+            "la": "Caput 29: De septem horis canonicis"
+          }
+        },
+        {
+          "id": "p3-c30",
+          "title": {
+            "la": "Caput 30"
+          }
+        },
+        {
+          "id": "p3-c31",
+          "title": {
+            "la": "Caput 31"
+          }
+        },
+        {
+          "id": "p3-c33",
+          "title": {
+            "la": "Caput 33"
+          }
+        },
+        {
+          "id": "p3-c34",
+          "title": {
+            "la": "Caput 34: De quinque suspiriis in quibus “homo obdormiat"
+          }
+        },
+        {
+          "id": "p3-c35",
+          "title": {
+            "la": "Caput 35: Quomodo christus ad gemitum pauperis surgit"
+          }
+        },
+        {
+          "id": "p3-c36",
+          "title": {
+            "la": "Caput 36"
+          }
+        },
+        {
+          "id": "p3-c37",
+          "title": {
+            "la": "Caput 37"
+          }
+        },
+        {
+          "id": "p3-c38",
+          "title": {
+            "la": "Caput 38"
+          }
+        },
+        {
+          "id": "p3-c39",
+          "title": {
+            "la": "Caput 39: In quo ania domino valeat sintcari h"
+          }
+        },
+        {
+          "id": "p3-c40",
+          "title": {
+            "la": "Caput 40"
+          }
+        },
+        {
+          "id": "p3-c41",
+          "title": {
+            "la": "Caput 41"
+          }
+        },
+        {
+          "id": "p3-c42",
+          "title": {
+            "la": "Caput 42: Quod deum in omnibus factis suis consuluit"
+          }
+        },
+        {
+          "id": "p3-c43",
+          "title": {
+            "la": "Caput 43: Quidquid tibi displicet in deo vincas"
+          }
+        },
+        {
+          "id": "p3-c44",
+          "title": {
+            "la": "Caput 44"
+          }
+        },
+        {
+          "id": "p3-c45",
+          "title": {
+            "la": "Caput 45: De obedientia et timore, et qualiter homo suscipiat sibi ministrantium laborem"
+          }
+        },
+        {
+          "id": "p3-c46",
+          "title": {
+            "la": "Caput 46: De christi desiderio. :"
+          }
+        },
+        {
+          "id": "p3-c47",
+          "title": {
+            "la": "Caput 47: De quadrup-ici_oratione"
+          }
+        },
+        {
+          "id": "p3-c48",
+          "title": {
+            "la": "Caput 48: Quid sit maximum bonum quod homo facere potest cum omni corpore suo"
+          }
+        },
+        {
+          "id": "p3-c49",
+          "title": {
+            "la": "Caput 49"
+          }
+        },
+        {
+          "id": "p3-c50",
+          "title": {
+            "la": "Caput 50: De horto et arboribus virtutum"
+          }
+        },
+        {
+          "id": "p3-c51",
+          "title": {
+            "la": "Caput 51"
+          }
+        },
+        {
+          "id": "p3-c52",
+          "title": {
+            "la": "Caput 52"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-4",
+      "title": {
+        "la": "Pars IV"
+      },
+      "children": [
+        {
+          "id": "p4-c01",
+          "title": {
+            "la": "Caput 1: De collatione domini, et de tribus dispositionibus cordis ejus, et qualiter omnes sancti et congregatio de"
+          }
+        },
+        {
+          "id": "p4-c02",
+          "title": {
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "p4-c03",
+          "title": {
+            "la": "Caput 3: Qualiter virtutes in corona domini lucent"
+          }
+        },
+        {
+          "id": "p4-c04",
+          "title": {
+            "la": "Caput 4: Qualiter congregatio visa est accedere ad communionem"
+          }
+        },
+        {
+          "id": "p4-c05",
+          "title": {
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "p4-c06",
+          "title": {
+            "la": "Caput 6"
+          }
+        },
+        {
+          "id": "p4-c07",
+          "title": {
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "p4-c08",
+          "title": {
+            "la": "Caput 8"
+          }
+        },
+        {
+          "id": "p4-c09",
+          "title": {
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "p4-c10",
+          "title": {
+            "la": "Caput 10"
+          }
+        },
+        {
+          "id": "p4-c11",
+          "title": {
+            "la": "Caput 11: Quod deus ejus meritis claustro pepercit"
+          }
+        },
+        {
+          "id": "p4-c12",
+          "title": {
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "p4-c13",
+          "title": {
+            "la": "Caput 13: Qualiter eam deus vocavit"
+          }
+        },
+        {
+          "id": "p4-c14",
+          "title": {
+            "la": "Caput 14"
+          }
+        },
+        {
+          "id": "p4-c15",
+          "title": {
+            "la": "Caput 15"
+          }
+        },
+        {
+          "id": "p4-c16",
+          "title": {
+            "la": "Caput 16"
+          }
+        },
+        {
+          "id": "p4-c17",
+          "title": {
+            "la": "Caput 17"
+          }
+        },
+        {
+          "id": "p4-c18",
+          "title": {
+            "la": "Caput 18"
+          }
+        },
+        {
+          "id": "p4-c19",
+          "title": {
+            "la": "Caput 19: Quam utile sit hominem frangere propriam voluntatem,"
+          }
+        },
+        {
+          "id": "p4-c20",
+          "title": {
+            "la": "Caput 20"
+          }
+        },
+        {
+          "id": "p4-c21",
+          "title": {
+            "la": "Caput 21: Quod utile sit homini sensus a noxiis refrenare"
+          }
+        },
+        {
+          "id": "p4-c22",
+          "title": {
+            "la": "Caput 22: Quam bona sit communis oratio.;"
+          }
+        },
+        {
+          "id": "p4-c23",
+          "title": {
+            "la": "Caput 23: Qualiter christus pro homine quod ei deest per seipsum supplet. x"
+          }
+        },
+        {
+          "id": "p4-c24",
+          "title": {
+            "la": "Caput 24"
+          }
+        },
+        {
+          "id": "p4-c25",
+          "title": {
+            "la": "Caput 25: Qualiter homo sua gravamina deo committat"
+          }
+        },
+        {
+          "id": "p4-c26",
+          "title": {
+            "la": "Caput 26: Qualiter homo cor suum de omni tribulatione deo offerat"
+          }
+        },
+        {
+          "id": "p4-c28",
+          "title": {
+            "la": "Caput 28: Quod quidquid anima desiderat in dei corde requirat"
+          }
+        },
+        {
+          "id": "p4-c29",
+          "title": {
+            "la": "Caput 29: Qualiter negligentias cum laude suppleas. i"
+          }
+        },
+        {
+          "id": "p4-c30",
+          "title": {
+            "la": "Caput 30"
+          }
+        },
+        {
+          "id": "p4-c31",
+          "title": {
+            "la": "Caput 31: Qualiter homo secundum placitum dei vivat"
+          }
+        },
+        {
+          "id": "p4-c32",
+          "title": {
+            "la": "Caput 32"
+          }
+        },
+        {
+          "id": "p4-c33",
+          "title": {
+            "la": "Caput 33: Qualiter anima debeat christo sociari"
+          }
+        },
+        {
+          "id": "p4-c34",
+          "title": {
+            "la": "Caput 34"
+          }
+        },
+        {
+          "id": "p4-c35",
+          "title": {
+            "la": "Caput 35"
+          }
+        },
+        {
+          "id": "p4-c36",
+          "title": {
+            "la": "Caput 36"
+          }
+        },
+        {
+          "id": "p4-c37",
+          "title": {
+            "la": "Caput 37"
+          }
+        },
+        {
+          "id": "p4-c38",
+          "title": {
+            "la": "Caput 38"
+          }
+        },
+        {
+          "id": "p4-c39",
+          "title": {
+            "la": "Caput 39: De quodam tentato et per eam liberato"
+          }
+        },
+        {
+          "id": "p4-c40",
+          "title": {
+            "la": "Caput 40"
+          }
+        },
+        {
+          "id": "p4-c41",
+          "title": {
+            "la": "Caput 41"
+          }
+        },
+        {
+          "id": "p4-c42",
+          "title": {
+            "la": "Caput 42: Qualiter pro alio homine oravit"
+          }
+        },
+        {
+          "id": "p4-c43",
+          "title": {
+            "la": "Caput 43"
+          }
+        },
+        {
+          "id": "p4-c44",
+          "title": {
+            "la": "Caput 44"
+          }
+        },
+        {
+          "id": "p4-c45",
+          "title": {
+            "la": "Caput 45"
+          }
+        },
+        {
+          "id": "p4-c46",
+          "title": {
+            "la": "Caput 46: Quod domimus jesus praebet se fideli animae"
+          }
+        },
+        {
+          "id": "p4-c47",
+          "title": {
+            "la": "Caput 47"
+          }
+        },
+        {
+          "id": "p4-c48",
+          "title": {
+            "la": "Caput 48: De alia qua! similiter timedat"
+          }
+        },
+        {
+          "id": "p4-c49",
+          "title": {
+            "la": "Caput 49"
+          }
+        },
+        {
+          "id": "p4-c50",
+          "title": {
+            "la": "Caput 50: Aliud valde notabile"
+          }
+        },
+        {
+          "id": "p4-c52",
+          "title": {
+            "la": "Caput 52: Quod deus voluntatem suscipit pro facto"
+          }
+        },
+        {
+          "id": "p4-c53",
+          "title": {
+            "la": "Caput 53"
+          }
+        },
+        {
+          "id": "p4-c54",
+          "title": {
+            "la": "Caput 54: Quod deus maxime delectatur in corde hominis"
+          }
+        },
+        {
+          "id": "p4-c55",
+          "title": {
+            "la": "Caput 55"
+          }
+        },
+        {
+          "id": "p4-c56",
+          "title": {
+            "la": "Caput 56: De quinque millibus quadragentis sexaginta !"
+          }
+        },
+        {
+          "id": "p4-c57",
+          "title": {
+            "la": "Caput 57"
+          }
+        },
+        {
+          "id": "p4-c58",
+          "title": {
+            "la": "Caput 58"
+          }
+        },
+        {
+          "id": "p4-c59",
+          "title": {
+            "la": "Caput 59: De illis qua scripsit cuidam natrona: saeculari et sibi"
+          }
+        },
+        {
+          "id": "p4-c60",
+          "title": {
+            "la": "Caput 60: De trina domini interrogatione"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-5",
+      "title": {
+        "la": "Pars V"
+      },
+      "children": [
+        {
+          "id": "p5-c01",
+          "title": {
+            "la": "Caput 1: De anima sororis sua, et quod hominis desiderium post i mortem ejus vivit. '"
+          }
+        },
+        {
+          "id": "p5-c02",
+          "title": {
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "p5-c03",
+          "title": {
+            "la": "Caput 3"
+          }
+        },
+        {
+          "id": "p5-c04",
+          "title": {
+            "la": "Caput 4"
+          }
+        },
+        {
+          "id": "p5-c05",
+          "title": {
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "p5-c06",
+          "title": {
+            "la": "Caput 6"
+          }
+        },
+        {
+          "id": "p5-c07",
+          "title": {
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "p5-c08",
+          "title": {
+            "la": "Caput 8: L de anima fratris h. de plawen 1"
+          }
+        },
+        {
+          "id": "p5-c09",
+          "title": {
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "p5-c10",
+          "title": {
+            "la": "Caput 10: ‘de anima domni b. fundatoris claustri"
+          }
+        },
+        {
+          "id": "p5-c11",
+          "title": {
+            "la": "Caput 11: De anima b, comitis annorum decem et novem"
+          }
+        },
+        {
+          "id": "p5-c12",
+          "title": {
+            "la": "Caput 12"
+          }
+        },
+        {
+          "id": "p5-c13",
+          "title": {
+            "la": "Caput 13"
+          }
+        },
+        {
+          "id": "p5-c14",
+          "title": {
+            "la": "Caput 14: De futura hominis resurrectione. 2"
+          }
+        },
+        {
+          "id": "p5-c15",
+          "title": {
+            "la": "Caput 15"
+          }
+        },
+        {
+          "id": "p5-c16",
+          "title": {
+            "la": "Caput 16: De animadus saloonis, samsonis, origenis et trajani"
+          }
+        },
+        {
+          "id": "p5-c17",
+          "title": {
+            "la": "Caput 17: De animabus liberatis per ejus orationes. 4"
+          }
+        },
+        {
+          "id": "p5-c18",
+          "title": {
+            "la": "Caput 18: Qualiter pro animabus proficue sit orandum"
+          }
+        },
+        {
+          "id": "p5-c19",
+          "title": {
+            "la": "Caput 19: Mortuus fuerit"
+          }
+        },
+        {
+          "id": "p5-c20",
+          "title": {
+            "la": "Caput 20"
+          }
+        },
+        {
+          "id": "p5-c21",
+          "title": {
+            "la": "Caput 21: De exitu hominis justia corpore"
+          }
+        },
+        {
+          "id": "p5-c22",
+          "title": {
+            "la": "Caput 22: De veritate, hujus libri, videlicet specialis gratle"
+          }
+        },
+        {
+          "id": "p5-c23",
+          "title": {
+            "la": "Caput 23: Quo qi donum dei in alis diligunt simile meritum habebunt"
+          }
+        },
+        {
+          "id": "p5-c24",
+          "title": {
+            "la": "Caput 24"
+          }
+        },
+        {
+          "id": "p5-c25",
+          "title": {
+            "la": "Caput 25: Quod opera charitatis hominem ab ommi veniali peccato mundant"
+          }
+        },
+        {
+          "id": "p5-c26",
+          "title": {
+            "la": "Caput 26"
+          }
+        },
+        {
+          "id": "p5-c27",
+          "title": {
+            "la": "Caput 27"
+          }
+        },
+        {
+          "id": "p5-c28",
+          "title": {
+            "la": "Caput 28"
+          }
+        },
+        {
+          "id": "p5-c29",
+          "title": {
+            "la": "Caput 29"
+          }
+        },
+        {
+          "id": "p5-c32",
+          "title": {
+            "la": "Caput 32"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-6",
+      "title": {
+        "la": "Pars VI"
+      },
+      "children": [
+        {
+          "id": "p6-c01",
+          "title": {
+            "la": "Caput 1: De vita et morte venerabilis domne. gertrudis abbatissal"
+          }
+        },
+        {
+          "id": "p6-c03",
+          "title": {
+            "la": "Caput 3: Quod curistus spipsum in ea suscepit"
+          }
+        },
+        {
+          "id": "p6-c04",
+          "title": {
+            "la": "Caput 4: De transitu ejus felici, es"
+          }
+        },
+        {
+          "id": "p6-c05",
+          "title": {
+            "la": "Caput 5: De eodem"
+          }
+        },
+        {
+          "id": "p6-c06",
+          "title": {
+            "la": "Caput 6: De hora felicissimi transitus ejus"
+          }
+        },
+        {
+          "id": "p6-c07",
+          "title": {
+            "la": "Caput 7: Qualiter ista beatissima anima est salutata"
+          }
+        },
+        {
+          "id": "p6-c08",
+          "title": {
+            "la": "Caput 8"
+          }
+        },
+        {
+          "id": "p6-c09",
+          "title": {
+            "la": "Caput 9: De anniversario ejusdem donna abbatisse:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-7",
+      "title": {
+        "la": "Pars VII"
+      },
+      "children": [
+        {
+          "id": "p7-c01",
+          "title": {
+            "la": "Caput 1: De extremis felicis sororis mechtildis, gloriose virginis sanctinonialis in helfede. i"
+          }
+        },
+        {
+          "id": "p7-c02",
+          "title": {
+            "la": "Caput 2"
+          }
+        },
+        {
+          "id": "p7-c03",
+          "title": {
+            "la": "Caput 3: Quo divvinitus inungi commonetur. :"
+          }
+        },
+        {
+          "id": "p7-c04",
+          "title": {
+            "la": "Caput 4: Quod singuli sanctorum omnem fructum meritorum eidem donaverunt quando \"ungebatur"
+          }
+        },
+        {
+          "id": "p7-c05",
+          "title": {
+            "la": "Caput 5"
+          }
+        },
+        {
+          "id": "p7-c06",
+          "title": {
+            "la": "Caput 6: Quod beata virgo maria curam congregationis ab ea sibi commissam manualiter suscepit"
+          }
+        },
+        {
+          "id": "p7-c07",
+          "title": {
+            "la": "Caput 7"
+          }
+        },
+        {
+          "id": "p7-c08",
+          "title": {
+            "la": "Caput 8: Quod christus animam illam deatam: ina‘stimabili modo salutavit"
+          }
+        },
+        {
+          "id": "p7-c09",
+          "title": {
+            "la": "Caput 9"
+          }
+        },
+        {
+          "id": "p7-c10",
+          "title": {
+            "la": "Caput 10"
+          }
+        },
+        {
+          "id": "p7-c11",
+          "title": {
+            "la": "Caput 11: De evolatione ejus, et intra cor divinum ejus susceptione"
+          }
+        },
+        {
+          "id": "p7-c12",
+          "title": {
+            "la": "Caput 12: De gaudio et augmerto meriti sanctorum"
+          }
+        },
+        {
+          "id": "p7-c13",
+          "title": {
+            "la": "Caput 13: Oratio devota saepius dicenda pro donis del in ista virgine"
+          }
+        },
+        {
+          "id": "p7-c14",
+          "title": {
+            "la": "Caput 14"
+          }
+        },
+        {
+          "id": "p7-c15",
+          "title": {
+            "la": "Caput 15"
+          }
+        },
+        {
+          "id": "p7-c16",
+          "title": {
+            "la": "Caput 16: Quod laus del-super omnia fst quaerenda, et pura intentione facienda"
+          }
+        },
+        {
+          "id": "p7-c17",
+          "title": {
+            "la": "Caput 17"
+          }
+        },
+        {
+          "id": "p7-c18",
+          "title": {
+            "la": "Caput 18: De securitate exsequias eus celebrantium"
+          }
+        },
+        {
+          "id": "p7-c19",
+          "title": {
+            "la": "Caput 19: Quod dominus noster jesus christus suos diligit"
+          }
+        },
+        {
+          "id": "p7-c20",
+          "title": {
+            "la": "Caput 20"
+          }
+        },
+        {
+          "id": "p7-c21",
+          "title": {
+            "la": "Caput 21"
+          }
+        },
+        {
+          "id": "p7-c22",
+          "title": {
+            "la": "Caput 22"
+          }
+        }
+      ]
+    }
+  ]
+}
