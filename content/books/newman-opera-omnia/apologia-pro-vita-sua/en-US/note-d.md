@@ -423,11 +423,29 @@ N.B. *St. William*, *Austin-Friar*, *Ingulphus*, and *Peter of Blois* have not b
 
 ### Fifth Century
 
-Brioc, B.C., disciple of St. Germanus. 490 Oct. 8 Ceneu, or Keyna, V., sister-in-law of Gundleus. 492 Mar. 29 Gundleus, Hermit, in Wales. — July 3 Gunthiern, A., in Brittany. 453 Oct. 21 Ursula, V.M. near Cologne. bef. 500 Dec. 12 Corentin, B.C. of Quimper. Fifth and Sixth Centuries—Welsh Schools 444-522 Nov. 14 Dubricius, B.C., first Bishop of Llandaff. 520 Nov. 22 Paulinus, A. of Whitland, tutor of St. David and St. Theliau. 445-544 Mar. 1 David, Archb. of Menevia, afterwards called from him. abt. 500 Dec. 26 Tathai, C., master of St. Cadoc. 480 Jan. 24 Cadoc, A., son of St. Gundleus, and nephew of St. Keyna. abt. 513 Nov. 6 Iltut, A., converted by St. Cadoc. 545 Nov. 23 Daniel, B.C., first Bishop of Bangor. aft. 559 Apr. 18 Paternus, B.A., pupil of St. Iltut. 573 Mar. 12 Paul, B.C., of Leon, pupil of St. Iltut. — Mar. 2 Ioavan, B., pupil of St. Paul. 599 July 28 Sampson, B., pupil of St. Iltut, cousin of St. Paul de Leon. 565 Nov. 15 Malo, B., cousin of St. Sampson. 575 Oct. 24 Magloire, B., cousin of St. Malo. 583 Jan. 29 Gildas, A., pupil of St. Iltut. — July 1 Leonorus, B., pupil of St. Iltut. 604 Feb. 9 Theliau, B. of Llandaff, pupil of St. Dubricius. 560 July 2 Oudoceus, B., nephew to St. Theliau. 500-580 Oct. 19 Ethbin, A., pupil of St. Sampson. 516-601 Jan. 13 Kentigern, B. of Glasgow, founder of Monastery of Elwy. Sixth Century 529 Mar. 3 Winwaloe, A., in Brittany. 564 June 4 Petroc., A., in Cornwall. — July 16 Helier, Hermit, M., in Jersey. — June 27 John, C. of Moutier, in Tours. 590 May 1 Asaph, B. of Elwy, afterwards called after him. abt. 600 June 6 Gudwall, B. of Aleth in Brittany. — Nov. 8 Tyssilio, B. of St. Asaph. Seventh Century—Part I. 600 June 10 Ivo, or Ivia, B. from Persia. 596 Feb. 24 Luidhard, B. of Senlis, in France. 616 Feb. 24 Ethelbert, K. of Kent. 608 May 26 Augustine, Archb. of Canterbury, Apostle of England. 624 Apr. 24 Mellitus, Archb. of Canterbury, * 619 Feb. 2 Laurence, Archb. of Canterbury, * 608 Jan. 6 Peter, A. at Canterbury, * 627 Nov. 10 Justus, Archb. of Canterbury, * 653 Sept. 30 Honorius, Archb. of Canterbury, * 662 July 15 Deusdedit, Archb. of Canterbury. * Companions of St. Augustine.
+Brioc, B.C., disciple of St. Germanus. 490 Oct. 8 Ceneu, or Keyna, V., sister-in-law of Gundleus. 492 Mar. 29 Gundleus, Hermit, in Wales. — July 3 Gunthiern, A., in Brittany. 453 Oct. 21 Ursula, V.M. near Cologne. bef. 500 Dec. 12
+
+Corentin, B.C. of Quimper. Fifth and Sixth Centuries—Welsh Schools 444-522 Nov. 14 Dubricius, B.C., first Bishop of Llandaff. 520 Nov. 22 Paulinus, A. of Whitland, tutor of St. David and St. Theliau. 445-544 Mar. 1 David, Archb. of Menevia, afterwards called from him. abt. 500 Dec. 26 Tathai, C., master of St. Cadoc. 480 Jan. 24 Cadoc, A., son of St. Gundleus, and nephew of St. Keyna. abt. 513 Nov. 6 Iltut, A., converted by St. Cadoc. 545 Nov. 23 Daniel, B.C., first Bishop of Bangor. aft. 559 Apr. 18 Paternus, B.A., pupil of St. Iltut. 573 Mar. 12 Paul, B.C., of Leon, pupil of St. Iltut. — Mar. 2 Ioavan, B., pupil of St. Paul. 599 July 28 Sampson, B., pupil of St. Iltut, cousin of St. Paul de Leon. 565 Nov. 15 Malo, B., cousin of St. Sampson. 575 Oct. 24 Magloire, B., cousin of St. Malo. 583 Jan. 29 Gildas, A., pupil of St. Iltut. — July 1 Leonorus, B., pupil of St. Iltut. 604 Feb. 9 Theliau, B. of Llandaff, pupil of St. Dubricius. 560 July 2 Oudoceus, B., nephew to St. Theliau. 500-580 Oct. 19 Ethbin, A., pupil of St. Sampson. 516-601 Jan. 13
+
+Kentigern, B. of Glasgow, founder of Monastery of Elwy. Sixth Century 529 Mar. 3 Winwaloe, A., in Brittany. 564 June 4 Petroc., A., in Cornwall. — July 16 Helier, Hermit, M., in Jersey. — June 27 John, C. of Moutier, in Tours. 590 May 1 Asaph, B. of Elwy, afterwards called after him. abt. 600 June 6 Gudwall, B. of Aleth in Brittany. — Nov. 8
+
+Tyssilio, B. of St. Asaph. Seventh Century—Part I. 600 June 10 Ivo, or Ivia, B. from Persia. 596 Feb. 24 Luidhard, B. of Senlis, in France. 616 Feb. 24 Ethelbert, K. of Kent. 608 May 26 Augustine, Archb. of Canterbury, Apostle of England. 624 Apr. 24 Mellitus, Archb. of Canterbury, * 619 Feb. 2 Laurence, Archb. of Canterbury, * 608 Jan. 6 Peter, A. at Canterbury, * 627 Nov. 10 Justus, Archb. of Canterbury, * 653 Sept. 30 Honorius, Archb. of Canterbury, * 662 July 15
+
+Deusdedit, Archb. of Canterbury.
+
+* Companions of St. Augustine.
 
 ### Seventh Century—Part II.
 
-Egwin, B. of Worcester. Seventh Century—Part III. 690 Sept. 19 Theodore, Archb. of Canterbury. 709 Jan. 9 Adrian, A. in Canterbury. 709 May 25 Aldhelm, B. of Sherborne, pupil of St. Adrian. Seventh Century—Part IV. 630 Nov. 3 Winefred, V.M. in Wales. 642 Feb. 4 Liephard, M.B., slain near Cambray. 660 Jan. 14 Beuno, A., kinsman of St. Cadocus and St. Kentigern. 673 Oct. 7 Osgitha, Q.V.M., in East Anglia during a Danish inroad. 630 June 14 Elerius, A. in Wales. 680 Jan. 27 Bathildis, Q., wife of Clovis II., king of France. 687 July 24 Lewinna, V.M., put to death by the Saxons. 700 July 18 Edberga and Edgitha, VV. of Aylesbury. Seventh Century—Part V. 644 Oct. 10 Paulinus, Archb. of York, companion of St. Augustine. 633 Oct. 12 Edwin, K. of Northumberland. — Dec. 13 Ethelburga, Q., wife to St. Edwin. 642 Aug. 5 Oswald, K.M., St. Edwin's nephew. 651 Aug. 20 Oswin, K.M., cousin to St. Oswald. 683 Aug. 23 Ebba, V.A. of Coldingham, half-sister to St. Oswin. 689 Jan. 31 Adamnan, Mo. of Coldingham. Seventh Century—Part VI.—Whitby 650 Sept. 6 Bega, V.A., foundress of St. Bee's, called after her. 681 Nov. 17 Hilda, A. of Whitby, daughter of St. Edwin's nephew. 716 Dec. 11 Elfleda, A. of Whitby, daughter of St. Oswin. 680 Feb. 12 Cedmon, Mo. of Whitby. Seventh and Eighth Centuries—Part I. — Sept. 21 Hereswida, Q., sister of Hilda, wife of Annas, who  
+Egwin, B. of Worcester. Seventh Century—Part III. 690 Sept. 19 Theodore, Archb. of Canterbury. 709 Jan. 9 Adrian, A. in Canterbury. 709 May 25
+
+Aldhelm, B. of Sherborne, pupil of St. Adrian. Seventh Century—Part IV. 630 Nov. 3 Winefred, V.M. in Wales. 642 Feb. 4 Liephard, M.B., slain near Cambray. 660 Jan. 14 Beuno, A., kinsman of St. Cadocus and St. Kentigern. 673 Oct. 7 Osgitha, Q.V.M., in East Anglia during a Danish inroad. 630 June 14 Elerius, A. in Wales. 680 Jan. 27 Bathildis, Q., wife of Clovis II., king of France. 687 July 24 Lewinna, V.M., put to death by the Saxons. 700 July 18
+
+Edberga and Edgitha, VV. of Aylesbury. Seventh Century—Part V. 644 Oct. 10 Paulinus, Archb. of York, companion of St. Augustine. 633 Oct. 12 Edwin, K. of Northumberland. — Dec. 13 Ethelburga, Q., wife to St. Edwin. 642 Aug. 5 Oswald, K.M., St. Edwin's nephew. 651 Aug. 20 Oswin, K.M., cousin to St. Oswald. 683 Aug. 23 Ebba, V.A. of Coldingham, half-sister to St. Oswin. 689 Jan. 31
+
+Adamnan, Mo. of Coldingham. Seventh Century—Part VI.—Whitby 650 Sept. 6 Bega, V.A., foundress of St. Bee's, called after her. 681 Nov. 17 Hilda, A. of Whitby, daughter of St. Edwin's nephew. 716 Dec. 11 Elfleda, A. of Whitby, daughter of St. Oswin. 680 Feb. 12
+
+Cedmon, Mo. of Whitby. Seventh and Eighth Centuries—Part I. — Sept. 21 Hereswida, Q., sister of Hilda, wife of Annas, who  
 succeeded Egric, Sigebert's cousin. 654 Jan. 10 Sethrida, V.A. of Faremoutier, St. Hereswida's daughter  
 by a former marriage. 693 Apr. 30 Erconwald, A.B., son of Annas and St. Hereswida, Bishop  
 of London, Abbot of Chertsey, founder of Barking. 677 Aug. 29 Sebbus, K., converted by St. Erconwald. — May 31 Jurmin, C., son of Annas and St. Hereswida. 650 July 7 Edelburga, V.A. of Faremoutier, natural daughter of Annas. 679 June 23 Ethelreda, Etheldreda, Etheltrudis, or Awdry, V.A.,  
@@ -435,12 +453,65 @@ daughter of Annas and St. Hereswida. — Mar. 17 Withburga, V., daughter of Anna
 of St. Sexburga. 699 Feb. 13 Ermenilda, Q.A., daughter of St. Sexburga, wife of Wulfere. aft. 675 Feb. 3 Wereburga, V., daughter of St. Ermenilda and Wulfere,  
 patron of Chester. abt. 680 Feb. 27 Alnoth, H.M.. bailiff to St. Wereburga. 640 Aug. 31 Eanswida, V.A., sister-in-law of St. Sexburga, grand-daughter  
 to St. Ethelbert. 668 Oct. 17 Ethelred and Ethelbright, MM., nephews of St. Eanswida. — July 30 Ermenigitha, V., niece of St. Eanswida. 676 Oct. 11 Edilberga, V.A. of Barking, daughter of Annas and St.  
-Hereswida. 678 Jan. 26 Theoritgida, V., nun of Barking. aft. 713 Aug. 31 Cuthberga, Q.V., of Barking, sister of St. Ina. 700 Mar. 24 Hildelitha, A. of Barking. 728 Feb. 6 Ina, K. Mo. of the West Saxons. 740 May 24 Ethelburga, Q., wife of St. Ina, nun at Barking. Seventh and Eighth Centuries—Part II. 652 June 20 Idaburga, V. * 696 Mar. 6 Kineburga, Q.A. * 701 —— Kinneswitha, V. * — —— Chidestre, V. * 692 Dec. 2 Weeda, V.A. * 696 Mar. 6 Tibba, V., their kinswoman. — Nov. 3 Rumwald, C., grandson of Penda. 680 Nov. 19 Ermenburga, Q., mother to the three following. — Feb. 23 Milburga, V.A. of Wenlock, ** — July 13 Mildreda, V.A. of Menstrey, ** 676 Jan. 17 Milwida, or Milgitha, V. ** 750 Nov. 13 Eadburga, A. of Menstrey. * Daughters of King Penda.  
+Hereswida. 678 Jan. 26 Theoritgida, V., nun of Barking. aft. 713 Aug. 31 Cuthberga, Q.V., of Barking, sister of St. Ina. 700 Mar. 24 Hildelitha, A. of Barking. 728 Feb. 6 Ina, K. Mo. of the West Saxons. 740 May 24
+
+Ethelburga, Q., wife of St. Ina, nun at Barking. Seventh and Eighth Centuries—Part II. 652 June 20 Idaburga, V. * 696 Mar. 6 Kineburga, Q.A. * 701 —— Kinneswitha, V. * — —— Chidestre, V. * 692 Dec. 2 Weeda, V.A. * 696 Mar. 6 Tibba, V., their kinswoman. — Nov. 3 Rumwald, C., grandson of Penda. 680 Nov. 19 Ermenburga, Q., mother to the three following. — Feb. 23 Milburga, V.A. of Wenlock, ** — July 13 Mildreda, V.A. of Menstrey, ** 676 Jan. 17 Milwida, or Milgitha, V. ** 750 Nov. 13
+
+Eadburga, A. of Menstrey.
+
+* Daughters of King Penda.  
 ** Grand-daughters of Penda.
 
 ### Seventh and Eighth Centuries—Part III.
 
-Winewald, A. of Deirwood. Seventh and Eighth Centuries—Part IV.—Missions 729 Apr. 24 Egbert, C., master to Willebrord. 693 Oct. 3 Ewalds (two), MM. in Westphalia. 690-736 Nov. 7 Willebrord, B. of Utrecht, Apostle of Friesland. 717 Mar. 1 Swibert, B., Apostle of Westphalia. 727 Mar. 2 Willeik, C., successor to St. Swibert. 705 June 25 Adelbert, C., grandson of St. Oswald, preacher in Holland. 705 Aug. 14 Werenfrid, C., preacher in Friesland. 720 June 21 Engelmund, A., preacher in Holland. 730 Sept. 10 Otger, C. in Low Countries. 732 July 15 Plechelm, B., preacher in Guelderland. 750 May 2 Germanus, B.M. in the Netherlands. 760 Nov. 12 Lebwin, C. in Overyssel, in Holland. 760 July 14 Marchelm, C., companion of St. Lebwin, in Holland. 697-755 June 5 Boniface, Archb., M. of Mentz, Apostle of Germany. 712 Feb. 7 Richard, K. of the West Saxons. 704-790 July 7 Willibald, B. of Aichstadt, in Franconia,  * 730-760 Dec. 18 Winebald, A. of Heidenheim, in Suabia,  * 779 Feb. 25 Walburga, V.A. of Heidenheim,  * aft. 755 Sept. 28 Lioba, V.A. of Bischorsheim, ** 750 Oct. 15 Tecla, V.A. of Kitzingen, in Franconia, ** 788 Oct. 16 Lullus, Archb. of Mentz, ** abt. 747 Aug. 13 Wigbert, A. of Fritzlar and Ortdorf, in Germany, ** 755 Apr. 20 Adelhare, B.M. of Erford, in Franconia, ** 780 Aug. 27 Sturmius, A. of Fulda, ** 786 Oct. 27 Witta, or Albuinus, B. of Buraberg, in Germany, ** 791 Nov. 8 Willehad, B. of Bremen, and Apostle of Saxony, ** 791 Oct. 14 Burchard, B. of Wurtzburg, in Franconia, ** 790 Dec. 3 Sola, H., near Aichstadt, in Franconia, ** 775 July 1 Rumold, B., Patron of Mechlin. 807 Apr. 30 Suibert, B. of Verden in Westphalia. * Children of St. Richard.  
+Winewald, A. of Deirwood. Seventh and Eighth Centuries—Part IV.—Missions 729 Apr. 24 Egbert, C., master to Willebrord. 693 Oct. 3 Ewalds (two), MM. in Westphalia. 690-736 Nov. 7 Willebrord, B. of Utrecht, Apostle of Friesland. 717 Mar. 1 Swibert, B., Apostle of Westphalia. 727 Mar. 2 Willeik, C., successor to St. Swibert. 705 June 25 Adelbert, C., grandson of St. Oswald, preacher in Holland. 705 Aug. 14 Werenfrid, C., preacher in Friesland. 720 June 21 Engelmund, A., preacher in Holland. 730 Sept. 10 Otger, C. in Low Countries. 732 July 15 Plechelm, B., preacher in Guelderland. 750 May 2 Germanus, B.M. in the Netherlands. 760 Nov. 12 Lebwin, C. in Overyssel, in Holland. 760 July 14 Marchelm, C., companion of St. Lebwin, in Holland. 697-755 June 5 Boniface, Archb., M. of Mentz, Apostle of Germany. 712 Feb. 7 Richard, K. of the West Saxons. 704-790 July 7 Willibald, B. of Aichstadt, in Franconia,  * 730-760 Dec. 18 Winebald, A. of Heidenheim, in Suabia,  * 779 Feb. 25 Walburga, V.A. of Heidenheim,  * aft. 755 Sept. 28 Lioba, V.A. of Bischorsheim, ** 750 Oct. 15 Tecla, V.A. of Kitzingen, in Franconia, ** 788 Oct. 16 Lullus, Archb. of Mentz, ** abt. 747 Aug. 13 Wigbert, A. of Fritzlar and Ortdorf, in Germany, ** 755 Apr. 20 Adelhare, B.M. of Erford, in Franconia, ** 780 Aug. 27 Sturmius, A. of Fulda, ** 786 Oct. 27 Witta, or Albuinus, B. of Buraberg, in Germany, ** 791 Nov. 8 Willehad, B. of Bremen, and Apostle of Saxony, ** 791 Oct. 14 Burchard, B. of Wurtzburg, in Franconia, ** 790 Dec. 3 Sola, H., near Aichstadt, in Franconia, ** 775 July 1 Rumold, B., Patron of Mechlin. 807 Apr. 30
+
+Suibert, B. of Verden in Westphalia.
+
+* Children of St. Richard.  
 ** Companions of St. Boniface.
 
 ### Seventh and Eighth Centuries—Part V.—Lindisfarne and Hexham
+
+Tilhbert, B. of Hoxham. Seventh and Eighth Centuries—Part VI.—Wearmouth and Yarrow 703 Jan. 12 Benedict Biscop, A. of Wearmouth. 685 Mar. 7 Easterwin, A. of Wearmouth. 689 Aug. 22 Sigfrid, A. of Wearmouth. 716 Sept. 25 Ceofrid, A. of Yarrow. 734 May 27 Bede, Doctor, Mo. of Yarrow. 804 May 19
+
+*B. Alcuin, A. in France*. Eighth Century 710 May 5 Ethelred, K. Mo. King of Mercia, Monk of Bardney. 719 Jan. 8 Pega, V., sister of St. Guthlake. 714 Apr. 11 Guthlake, H. of Croyland. 717 Nov. 6 Winoc, A. in Brittany. 730 Jan. 9 Bertwald, Archb. of Canterbury. 732 Dec. 27 Gerald, A.B. in Mayo. 734 July 30 Tatwin, Archb. of Canterbury. 750 Oct. 19 Frideswide, V. patron of Oxford. 762 Aug. 26 Bregwin, Archb. of Canterbury. 700-800 Feb. 8 Cuthman, C. of Stening in Sussex. bef. 800 Sept. 9
+
+Bertelin, R. patron of Stafford. Eighth and Ninth Centuries 793 May 20 Ethelbert, K.M. of the East Angles. 834 Aug. 2 Etheldritha, or Alfreda, V., daughter of Offa, king of Mercia,  
+nun at Croyland. 819 July 17 Kenelm, K.M. of Mercia. 849 June 1 Wistan, K.M. of Mercia. 838 July 18 Frederic, Archb. M. of Utrecht. 894 Nov. 4
+
+Clarus, M. in Normandy. Ninth Century—Part I.—Danish Slaughters, &c. 819 Mar. 19 Alcmund, M., son of Eldred, king of Northumbria, Patron  
+of Derby. 870 Nov. 20 Edmund, K.M. of the East Angles. 862 May 11 Fremund, H.M. nobleman of East Anglia. 870 Nov. 20 Humbert, B.M. of Elmon in East Anglia. 867 Aug. 25
+
+Ebba, V.A.M. of Coldingham. Ninth Century—Part II. 862 July 2 Swithun, B. of Winton. 870 July 5 Modwenna, V.A. of Pollesworth in Warwickshire. — Oct. 9 Lina, V. nun at Pollesworth. 871 Mar. 15 Eadgith, V.A. of Pollesworth, sister of King Ethelwolf. 900 Dec. 21 Eadburga. V.A. of Winton, daughter of King Ethelwolf. 880 Nov. 28
+
+Edwold, H., brother of St. Edmund. Ninth and Tenth Centuries 883 July 31 Neot, H. in Cornwall. 903 July 8 Grimbald, A. at Winton. 900 Oct. 28 *B. Alfred, K*. 929 Apr. 9 Frithstan, B. of Winton. 934 Nov. 4
+
+Brinstan, B. of Winton. Tenth Century—Part I. 960 June 15 Edburga, V., nun at Winton, granddaughter of Alfred. 926 July 15 Editha, Q.V., nun of Tamworth, sister to Edburga. 921 May 18 Algyfa, or Elgiva, Q., mother of Edgar. 975 July 8 Edgar, K. 978 Mar. 18 Edward, K.M. at Corfe Castle. 984 Sept. 16 Edith, V., daughter of St. Edgar and St. Wulfhilda. 990 Sept. 9 Wulfhilda, or Vulfrida, A. of Wilton. 980 Mar. 30 Merwenna, V.A. of Romsey. 990 Oct. 29 Elfreda, A. of Romsey. 1016 Dec. 5
+
+Christina of Romsey, V., sister of St. Margaret of  
+Scotland. Tenth Century—Part II. 961 July 4 Odo, Archb. of Canterbury, Benedictine Monk. 960-992 Feb. 28 Oswald, Archb. of York, B. of Worcester, nephew to St. Odo. 951-1012 Mar. 12 Elphege the Bald, B. of Winton. 988 May 19 Dunstan, Archb. of Canterbury. 973 Jan. 8 Wulsin, B. of Sherbourne. 984 Aug. 1 Ethelwold, B. of Winton. 1015 Jan. 22
+
+Brithwold, B. of Winton. Tenth and Eleventh Centuries—Missions 950 Feb. 15 Sigfride, B., apostle of Sweden. 1016 June 12 Eskill, B.M. in Sweden, kinsman of St. Sigfride. 1028 Jan. 18 Wolfred, M. in Sweden. 1050 July 15
+
+David, A., Cluniac in Sweden. Eleventh Century 1012 Apr. 19 Elphege, M. Archb. of Canterbury. 1016 May 30 Walston, C. near Norwich. 1053 Mar. 25 Alfwold, B. of Sherborne. 1067 Sept. 2 William, B. of Roschid in Denmark. 1066 Jan. 5 Edward, K.C. 1099 Dec. 4
+
+Osmund, B. of Salisbury. Eleventh and Twelfth Centuries 1095 Jan. 19 Wulstan, B. of Worcester. 1089 May 28 *Lanfranc, Archb. of Canterbury*. 1109 Apr. 21 Anselm, Doctor, Archb. of Canterbury. 1170 Dec. 29 Thomas, Archb. M. of Canterbury. 1200 Nov. 17
+
+Hugh, B. of Lincoln, Carthusian Monk. Twelfth Century—Part I. 1109 —— *Ingulphus, A. of Croyland*. 1117 Apr. 30 *B. Maud, Q*. Wife of Henry I. 1124 Apr. 13 Caradoc, H. in South Wales. 1127 Jan. 16 Henry, H. in Northumberland. 1144 Mar. 25 William, M. of Norwich. 1151 Jan. 19 Henry, M.B. of Upsal. 1150 Aug. 13 Walter, A. of Fontenelle, in France. 1154 June 8 William, Archb. of York. 1170 May 21 Godric, H. in Durham. 1180 Oct. 25 *John of Salisbury, B. of Chartres*. 1182 June 24 Bartholomew, C., monk at Durham. 1189 Feb. 4 Gilbert., A. of Sempringham. 1190 Aug. 21 Richard, B. of Andria. 1200 ——
+
+*Peter de Blois, Archb. of Bath*. Twelfth Century—Part II.—Cistertian Order 1134 Apr. 17 Stephen, A. of Citeaux. 1139 June 7 Robert, A. of Newminster in Northumberland. 1154 Feb. 20 Ulric, H. in Dorsetshire. 1160 Aug. 3 Walthen, A. of Melrose. 1166 Jan. 12
+
+Aelred, A. of Rieval. Thirteenth Century—Part I. 1228 July 9 *Stephen Langton, Archb. of Canterbury*. 1242 Nov. 16 Edmund, Archb. of Canterbury. 1253 Apr. 3 Richard, B. of Chichester. 1282 Oct. 2 Thomas, B. of Hereford. 1294 Dec. 3
+
+*John Peckham, Archb. of Canterbury*. Thirteenth Century—Part II.—Orders of Friars 1217 June 17 John, Fr., Trinitarian. 1232 Mar. 7 William, Fr., Franciscan. 1240 Jan. 31 Serapion, Fr., M., Redemptionist. 1265 May 16 Simon Stock, H., General of the Carmelites. 1279 Sept. 11
+
+*Robert Kilwardby, Archb. of Canterbury Fr. Dominican*. Thirteenth Century—Part III. 1239 Mar. 14 Robert H. at Knaresboro'. 1241 Oct. 1 Roger, B. of London. 1255 July 27 Hugh, M. of Lincoln. 1295 Aug. 5 Thomas, Mo., M. of Dover. 1254 Oct. 9 *Robert Grossteste, B. of Lincoln*. 1270 July 14 Boniface, Archb. of Canterbury. 1278 Oct. 18
+
+*Walter de Merton, B. of Rochester*. Fourteenth Century 1326 Oct. 5 *Stapleton, B. of Exeter*. 1327 Sept. 21 *Edward K*. 1349 Sept. 29 *B. Richard, H. of Hampole*. 1345 Apr. 14 *Richard of Bury, B. of Lincoln*. 1349 Aug. 26 *Bradwardine, Archb. of Canterbury, the Doctor — Profundus*. 1358 Sept. 2 William, Fr., Servite. 1379 Oct. 10 John, C. of Bridlington. 1324-1404 Sept. 27
+
+*William of Wykeham, B. of Winton*. 1400 ——
+
+William, Fr. Austin. Fifteenth Century 1471 May 22 *Henry, K. of England*. 1486 Aug. 11 *William of Wanefleet, B. of Winton*. 1509 June 29 *Margaret, Countess of Richmond*. 1528 Sept. 14
+
+*Richard Fox, B. of Winton*.
