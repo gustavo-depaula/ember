@@ -1,0 +1,348 @@
+{
+  "id": "bellarmine-controversiae-de-sacramentis-in-genere",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramentis in genere",
+    "en-US": "On the Sacraments in General",
+    "pt-BR": "Sobre os sacramentos em geral"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De sacramentis in genere. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the sacraments in general: name, definition, causes, effect, number and ceremonies. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre os sacramentos em geral."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-sacramentis-in-genere",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia03bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 3 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De erroribus",
+            "en-US": "Caput I. De erroribus"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De mendaciis, et calumniis adversariorum",
+            "en-US": "Caput II. De mendaciis, et calumniis adversariorum"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Mendacia Philippi",
+            "en-US": "Caput III. Mendacia Philippi"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Mendacia Calvini",
+            "en-US": "Caput IV. Mendacia Calvini"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Mendacia Kemnitii,",
+            "en-US": "Caput V. Mendacia Kemnitii,"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Mendacia Tilemanni Heshusii",
+            "en-US": "Caput VI. Mendacia Tilemanni Heshusii"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Sitne utendum nomine Sacramenti",
+            "en-US": "Caput VII. Sitne utendum nomine Sacramenti"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. De etymologia, et notione Mysteidi et Sacramenti",
+            "en-US": "Caput VIII. De etymologia, et notione Mysteidi et Sacramenti"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Controversia II",
+        "en-US": "Controversy II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Controversia III",
+        "en-US": "Controversy III"
+      },
+      "children": [
+        {
+          "id": "b3intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Controversia IV",
+        "en-US": "Controversy IV"
+      },
+      "children": [
+        {
+          "id": "b4intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I. Quis sit status quaestionis de efficacia Sacramentorum",
+            "en-US": "Caput I. Quis sit status quaestionis de efficacia Sacramentorum"
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. Sententia haereticorum de efficacia Sacramentorum",
+            "en-US": "Caput II. Sententia haereticorum de efficacia Sacramentorum"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III. -Quod Sacramenta ex opere operato conferant gratiam, ex Scripturis probatur",
+            "en-US": "Caput III. -Quod Sacramenta ex opere operato conferant gratiam, ex Scripturis probatur"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V. Tertia classis argumentorum ex Conciliis",
+            "en-US": "Caput V. Tertia classis argumentorum ex Conciliis"
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI. Quarta classis, ex Patribus Graecis",
+            "en-US": "Caput VI. Quarta classis, ex Patribus Graecis"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. Idan probatur ex Latinis",
+            "en-US": "Caput VII. Idan probatur ex Latinis"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. Sexta classis ex ratione",
+            "en-US": "Caput VIII. Sexta classis ex ratione"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Solvuntur objectiones ex scripturis deprompta",
+            "en-US": "Caput IX. Solvuntur objectiones ex scripturis deprompta"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. Solvuntur objectiones ex Patribus",
+            "en-US": "Caput X. Solvuntur objectiones ex Patribus"
+          }
+        },
+        {
+          "id": "b4c11",
+          "title": {
+            "la": "Caput XI. Solvuntur objectiones ex ratione depromptee",
+            "en-US": "Caput XI. Solvuntur objectiones ex ratione depromptee"
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII. Explicatur controversia de differentia Sacramentorum legis novae et veteris",
+            "en-US": "Caput XII. Explicatur controversia de differentia Sacramentorum legis novae et veteris"
+          }
+        },
+        {
+          "id": "b4c13",
+          "title": {
+            "la": "Caput XIII",
+            "en-US": "Caput XIII"
+          }
+        },
+        {
+          "id": "b4c14",
+          "title": {
+            "la": "Caput XIV. Probatur nullum Sacramentum legis naturce, aut scripta, justificasse ex opere operato",
+            "en-US": "Caput XIV. Probatur nullum Sacramentum legis naturce, aut scripta, justificasse ex opere operato"
+          }
+        },
+        {
+          "id": "b4c15",
+          "title": {
+            "la": "Caput XV. Idem probatur ex Patribus",
+            "en-US": "Caput XV. Idem probatur ex Patribus"
+          }
+        },
+        {
+          "id": "b4c16",
+          "title": {
+            "la": "Caput XVI. tot",
+            "en-US": "Caput XVI. tot"
+          }
+        },
+        {
+          "id": "b4c17",
+          "title": {
+            "la": "Caput XVII. Solvuntur objectiones",
+            "en-US": "Caput XVII. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b4c18",
+          "title": {
+            "la": "Caput XVIII. De Charactere",
+            "en-US": "Caput XVIII. De Charactere"
+          }
+        },
+        {
+          "id": "b4c19",
+          "title": {
+            "la": "Caput XIX. De charactere sententia Catholicorum. v '”\"“7",
+            "en-US": "Caput XIX. De charactere sententia Catholicorum. v '”\"“7"
+          }
+        },
+        {
+          "id": "b4c20",
+          "title": {
+            "la": "Caput XX. Probatur character ex Scripturis",
+            "en-US": "Caput XX. Probatur character ex Scripturis"
+          }
+        },
+        {
+          "id": "b4c21",
+          "title": {
+            "la": "Caput XXI. Idem probatur ex Patribus",
+            "en-US": "Caput XXI. Idem probatur ex Patribus"
+          }
+        },
+        {
+          "id": "b4c22",
+          "title": {
+            "la": "Caput XXII. Idem ostenditur ratione",
+            "en-US": "Caput XXII. Idem ostenditur ratione"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Controversia V",
+        "en-US": "Controversy V"
+      },
+      "children": [
+        {
+          "id": "b5intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "title": {
+        "la": "Controversia VI",
+        "en-US": "Controversy VI"
+      },
+      "children": [
+        {
+          "id": "b6intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    }
+  ]
+}
