@@ -1,0 +1,146 @@
+{
+  "id": "fenelon-quietisme-lettres-meaux-1699",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme VIII : derniers écrits contre l’évêque de Meaux (1698-1699)",
+    "en-US": "The Quietism Dispute VIII: Last Writings against the Bishop of Meaux (1698-1699)",
+    "pt-BR": "Querela do quietismo VIII: últimos escritos contra o bispo de Meaux (1698-1699)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les Lettres en réponse aux Passages éclaircis, les Préjugés décisifs, la Lettre sur la réponse aux Préjugés décisifs, la Lettre sur la charité et les Lettres sur les douze propositions que Bossuet voulait faire censurer par les docteurs de Paris (décembre 1698-mars 1699).",
+    "en-US": "The Letters in reply to the Passages Cleared Up, the Decisive Prejudgments, the Letter on the reply to the Decisive Prejudgments, the Letter on charity and the Letters on the twelve propositions Bossuet wanted the doctors of Paris to censure (December 1698-March 1699).",
+    "pt-BR": "As Cartas em resposta às Passagens esclarecidas, os Preconceitos decisivos, a Carta sobre a resposta aos Preconceitos decisivos, a Carta sobre a caridade e as Cartas sobre as doze proposições que Bossuet queria fazer censurar pelos doutores de Paris (dezembro de 1698 a março de 1699)."
+  },
+  "composed": "1698–1699",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-a-meaux-1699",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 309–404; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-passages-eclaircis",
+      "title": {
+        "fr-FR": "Lettres à M. de Meaux en réponse à l’écrit intitulé Les passages éclaircis"
+      },
+      "children": [
+        {
+          "id": "01-passages-eclaircis-01",
+          "title": {
+            "fr-FR": "Lettres à M. de Meaux en réponse à l’écrit intitulé Les passages éclaircis, partie 1"
+          }
+        },
+        {
+          "id": "01-passages-eclaircis-02",
+          "title": {
+            "fr-FR": "Lettres à M. de Meaux en réponse à l’écrit intitulé Les passages éclaircis, partie 2"
+          }
+        },
+        {
+          "id": "01-passages-eclaircis-03",
+          "title": {
+            "fr-FR": "Lettres à M. de Meaux en réponse à l’écrit intitulé Les passages éclaircis, partie 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-prejuges-decisifs",
+      "title": {
+        "fr-FR": "Préjugés décisifs pour M. l’archevêque de Cambrai contre M. l’évêque de Meaux"
+      }
+    },
+    {
+      "id": "03-lettre-sur-la-reponse",
+      "title": {
+        "fr-FR": "Lettre sur la Réponse de M. l’évêque de Meaux à l’ouvrage intitulé Préjugés décisifs"
+      },
+      "children": [
+        {
+          "id": "03-lettre-sur-la-reponse-01",
+          "title": {
+            "fr-FR": "Lettre sur la Réponse de M. l’évêque de Meaux à l’ouvrage intitulé Préjugés décisifs, partie 1"
+          }
+        },
+        {
+          "id": "03-lettre-sur-la-reponse-02",
+          "title": {
+            "fr-FR": "Lettre sur la Réponse de M. l’évêque de Meaux à l’ouvrage intitulé Préjugés décisifs, partie 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "04-lettre-sur-la-charite",
+      "title": {
+        "fr-FR": "Lettre à M. l’évêque de Meaux sur la charité"
+      },
+      "children": [
+        {
+          "id": "04-lettre-sur-la-charite-01",
+          "title": {
+            "fr-FR": "Lettre à M. l’évêque de Meaux sur la charité, partie 1"
+          }
+        },
+        {
+          "id": "04-lettre-sur-la-charite-02",
+          "title": {
+            "fr-FR": "Lettre à M. l’évêque de Meaux sur la charité, partie 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "05-douze-propositions",
+      "title": {
+        "fr-FR": "Lettres à M. l’évêque de Meaux sur les douze propositions qu’il veut faire censurer"
+      },
+      "children": [
+        {
+          "id": "05-douze-propositions-01",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux sur les douze propositions qu’il veut faire censurer, partie 1"
+          }
+        },
+        {
+          "id": "05-douze-propositions-02",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux sur les douze propositions qu’il veut faire censurer, partie 2"
+          }
+        },
+        {
+          "id": "05-douze-propositions-03",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux sur les douze propositions qu’il veut faire censurer, partie 3"
+          }
+        },
+        {
+          "id": "05-douze-propositions-04",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux sur les douze propositions qu’il veut faire censurer, partie 4"
+          }
+        }
+      ]
+    }
+  ]
+}
