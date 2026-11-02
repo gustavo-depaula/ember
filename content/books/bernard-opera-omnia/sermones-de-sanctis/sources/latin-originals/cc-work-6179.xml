@@ -1,0 +1,461 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In Purificatione B. Mariae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InPuBMa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De triplici misericordia.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Hodie templi Dominum in templum Domini
+Virgo mater inducit; Joseph quoque sistit Domino,
+non suum, sed ejus filium dilectum, in quo ei bene
+complacuit. Agnoscit Simeon justus quem exspectabat;
+Anna quoque vidua confitetur. Ab his quatuor
+primo hodierna processio celebrata est, quae postmodum
+exsultatione universae terrae in omni loco
+et ab omni gente celebraretur. Nec sane mirum, si
+<pb n="0365D"/>
+tunc parva fuit, quandoquidem parvus erat qui suscipiebatur.
+Nullum ibi locum peccator habuit:
+omnes justi, omnes sancti, omnes fuere perfecti.
+Sed nunquid hos tantum salvabis, Domine? Crescat
+corpus, crescat et miseratio. Homines et jumenta
+salvabis, Domine, cum multiplicaveris misericordiam
+tuam, Deus <note>(Psal. XXXV, 7, 8)</note>. In secunda
+jam processione praeeunt turbae, turbae sequuntur;
+nec virgo portat, sed asellus. Neminem itaque dedignatur,
+nec ipsos qui computruerunt tanquam
+jumenta in stercore suo: non dedignatur, inquam,
+sed si apostolica vestimenta non desint,
+si doctrina eorum, si morum justitia, si
+obedientia, si charitas cooperiat multitudinem peccatorum,
+ex hoc jam processionis suae gloria non
+<pb n="0366C"/>
+censebit indignos. Magis vero et ipsam, quae tam
+paucis collata videtur, nobis quoque ab ipso invenire
+est reservatam. Quidni reservaret posteris,
+quam et praerogavit antiquis?</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ David, rex et propheta, exsultavit ut videret
+diem istum: vidit, et gavisus est. Alioquin si non
+viderat, unde psallebat: <hi>Suscepimus,</hi> inquit, <hi>Deus
+misericordiam tuam in medio templi tui? <note>(Psal.
+XLVII, 10.)</note>
+          </hi> Suscepit hanc misericordiam Domini
+David, suscepit Simeon, suscepimus et nos, et quicunque
+<pb n="0366D"/>
+sunt praeordinati ad vitam: siquidem Christus
+heri, et hodie, et in aeternum. In medio enim
+templi misericordia est, non in angulo aut diversorio,
+quia non est acceptio personarum apud Deum.
+In communi posita est, offertur omnibus, et nemo
+illius expers, nisi qui renuit. Derivantur aquae tuae
+foras, Domine Deus: nihilominus tamen fons tuus
+tibi proprius est, et non bibit alienus ex eo. Qui
+tuus est, non videbit mortem, donec viderit Christum
+Domini, ut securus dimittatur in pace. Quidni
+dimittatur in pace, qui Christum Domini habet in
+pectore? Ipse enim est pax nostra, qui per fidem habitat
+in cordibus <emph>960</emph> nostris. Tu quomodo hinc
+exibis, anima misera, quae ducem itineris Jesum
+ignoras? Ignorantiam enim Dei quidam habent.
+<pb n="0367A"/>
+Unde hoc? Nempe quia Lux venit in mundum, et dilexerunt
+homines magis tenebras quam lucem. <hi>Et
+Lux,</hi> inquit, <hi>in tenebris lucet, et tenebrae eam non
+comprehenderunt <note>(Joan. 1, 5)</note>
+          </hi>. Ac si dicat: Et in
+plateis derivantur aquae, et alienus non bibit ex eis;
+et misericordia in medio templi est: nemo tamen
+accedit [ <hi>alias,</hi> nec tamen accedunt] ex his quos
+manet aeterna damnatio. Medius vestrum stat, o miseri,
+quem vos nescitis: ut morientes, antequam
+videritis Christum Domini, non in pace dimittamini;
+sed potius rapiamini a rugientibus praeparatis ad
+escam.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ <hi>Suscepimus, Deus, misericordiam tuam in medio
+templi tui.</hi> Longe est haec gratiarum actio a voce
+illa gementis: <hi>Domine, in coelo misericordia tua, et
+<pb n="0367B"/>
+veritas tua usque ad nubes <note>(Psal. XXXV, 6)</note>
+          </hi>. Quid
+enim? videturne tibi in medio fuisse misericordia,
+cum apud solos coeligenas spiritus haberetur? At ubi
+sane minoratus est Christus paulo minus ab angelis,
+factusque est Dei et hominum mediator, ac velut lapis
+angularis pacificavit per sanguinem suum quae
+in coelis sunt, et quae super terram; ex hoc plane
+jam <hi>suscepimus, Deus, misericordiam tuam in medio
+templi tui.</hi> Eramus enim et nos natura filii irae, sed
+consecuti sumus misericordiam. Cujus irae filii, et
+quam misericordiam consecuti? Nempe filii ignorantiae,
+ignaviae, captivitatis: et consecuti sumus sapientiam,
+virtutem, redemptionem. Ignorantia mulieris
+seductae excaecaverat nos; mollities viri abstracti
+et illecti a propria concupiscentia enervaverat
+<pb n="0367C"/>
+nos; malitia diaboli expositos juste a Deo captivaverat
+nos. Sic ergo nascimur universi, primum quidem
+viae civitatis habitaculi prorsus ignari; deinde
+imbecilles et ignavi, ut, etsi nota nobis esset via vitae,
+propria tamen praepediremur et detineremur
+inertia; postremo captivi sub pessimo crudelissimoque
+tyranno, ut licet prudentes essemus atque robusti,
+ipsa tamen miserae servitutis opprimeremur
+conditione. Nunquid non misericordia et miseratione
+multa opus habet tanta miseria? Aut certe si jam
+salvi facti sumus ab hac triplici ira per Christum,
+qui factus est nobis sapientia a Deo Patre, et justitia
+et sanctificatio, et redemptio <note>(I Cor. I, 30)</note>:
+quanta nobis vigilantia opus est, dilectissimi, ne
+<pb n="0367D"/>
+forte, quod absit! inveniantur nostra novissima pejora
+prioribus, si denuo contingat iram incendere,
+utpote qui non natura jam, sed propria voluntate
+filii irae sumus?</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Amplectamur itaque misericordiam, quam in
+medio templi suscepimus, et cum beata Anna non
+dimoveamur a templo. <hi>Templum enim Dei sanctum
+est, quod estis vos,</hi> ait Apostolus <note>(I Cor. III, 17)</note>.
+Prope est haec misericordia, prope est verbum in
+ore vestro et in corde vestro. Denique in cordibus
+vestris per fidem habitat Christus. Hoc templum
+<pb n="0368A"/>
+ejus, et haec sedes ejus: nisi forte excidit vobis quoniam <hi>anima justi sedes sapientiae est</hi>.
+Quod ergo
+frequenter, imo et semper admonere cupio fratres
+meos, obsecro et nunc, ambulemus non secundum
+carnem in carne, ne displiceamus Deo. Non simus
+amici hujus saeculi, ne Dei constituamur inimici.
+Resistamus quoque [ <hi>alias,</hi> ergo] diabolo, et fugiet a
+nobis, ut libere jam ambulemus in spiritu, et in
+corde sit conversatio nostra. Siquidem corpus quod
+corrumpitur, aggravat, et enervat, et effeminat animam;
+et terrena inhabitatio sensum multa cogitantem
+deprimit <note>(Sap. IX, 15)</note>, ut ad coelestia non assurgat.
+Unde et sapientia hujus mundi stultitia est apud
+Deum <note>(I Cor. III, 19)</note>; et a maligno qui superatur,
+ei et servus addicitur. Porro in corde suscipitur misericordia,
+<pb n="0368B"/>
+in corde habitat Christus, in corde loquitur
+pacem in plebem suam, et super sanctos
+suos, et in eos qui convertuntur ad cor.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>961</emph> SERMO II. <hi>De oridine et modo processionis Christi in templum.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Gratias Redemptori nostro, qui tam copiose
+praevenit nos in benedictionibus dulcedinis, sacramentis
+infantiae suae gaudia nostra multiplicans.
+Celebratis siquidem paulo ante Nativitate, Circumcisione
+et Apparitione ejus, festus hodie nobis oblationis
+ipsius dies illuxit. Hodie namque sistitur
+Creatori terrae fructus sublimis; hodie placabilis et
+Deo placens hostia virgineis manibus offertur in
+templo, portatur a parentibus, a senibus exspectatur.
+Offerunt Joseph et Maria sacrificium laudis, sacrificium
+<pb n="0368C"/>
+matutinum; Simeon et Anna suscipiunt.
+Ab his quatuor celebrata processio est, quae per quatuor
+orbis climata solemnibus hodie gaudiis ad memoriam
+revocatur. Quia ergo festivam hodie et nosipsi,
+praeter caeterarum consuetudinem solemnitatum,
+acturi sumus processionem, non inutile
+arbitror modum ipsius et ordinem diligentius intueri.
+Processuri sumus bini et bini, candelas habentes
+in manibus, ipsas quoque succensas, nec
+quolibet igne, sed qui prius in ecclesia sacerdotali
+benedictione fuerit consecratus. Ad haec futuri sunt
+in processione nostra novissimi primi, et primi novissimi:
+et cantabimus in viis Domini, quoniam
+magna est gloria Domini.
+<pb n="0368D"/>
+</p>
+        </div3>
+<div3>
+          <head>2. </head>
+          <p>
+Merito sane bini et bini procedimus: sic enim
+ob commendationem fraternae charitatis et socialis
+vitae missos a Salvatore discipulos Evangelia sacra
+testantur <note>(Luc. X, 1)</note>. Turbat processionem, si quis
+solitarius incedere curat: nec sibi soli nocet, sed
+etiam caeteris est molestus. Hi sunt qui segregant
+semetipsos, animales, spiritum non habentes, nec
+solliciti servare unitatem spiritus in vinculo pacis.
+Jam vero sicut non est bonum esse hominem solum,
+sic in conspectu Domini vacuum apparere est prohibitum <note>(Exod. XXIII, 15)</note>.
+Cum enim arguantur
+<pb n="0369A"/>
+otiositatis ipsi quoque quos nemo conduxit <note>(Matth.
+XX, 6)</note>: qui jam conducti sunt, si otiosi inventi fuerint,
+quid merentur? Fides quippe sine operibus mortua
+est <note>(Jac. II, 26)</note>. Ipsa denique opera nostra in
+fervore agenda sunt, et in desiderio cordis, ut sint
+lucernae ardentes in manibus nostris. Alioquin timendum
+est, ne forte tepidos nos evomere incipiat,
+qui in Evangelio loquitur, dicens: <hi>Ignem veni mittere
+in terram, et quid volo nisi ut ardeat? <note>(Luc. XII,
+49.)</note>
+          </hi> Hic plane sacer et benedictus est ignis, quem
+Pater sanctificavit et misit in mundum, et cui benedicitur
+in ecclesiis, sicut scriptum est: <hi>In ecclesiis
+benedicite Deo Domino <note>(Psal. LXVII, 27)</note>
+          </hi>. Habet enim
+etiam adversarius noster, utpote perversus divinorum
+operum aemulator; habet, inquam, ignem suum
+<pb n="0369B"/>
+et ipse, ignem concupiscentiae carnalis; ignem invidiae
+et ambitionis, quem Salvator in nobis non accendere,
+sed exstinguere venit. Denique si quis alienum
+hunc ignem in divino offerre praesumpserit
+sacrificio, etiamsi patrem habeat Aaron, morietur
+in iniquitate sua</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Porro super haec quae de sociali vita et fraterna
+dilectione, de bonis operibus, et fervore sancto dicta
+sunt; humilitatis virtus maxima, maximeque necessaria
+est, ut honore praeveniamus invicem: nec
+modo priores, sed et ipsos juniores sibi quisque praeponat:
+quae nimirum humilitatis perfectio est, et
+justitiae plenitudo. Et quoniam hilarem datorem diligit
+Deus <note>(II Cor. IX, 7)</note>, et fructus charitatis est
+gaudium in Spiritu sancto; cantemus, ut dictum est,
+<pb n="0369C"/>
+in viis Domini, quoniam magna est gloria Domini <note>(Psal. CXXXVII, 5)</note>:
+cantemus Domino canticum novum,
+quia mirabilia fecit <note>(Psal. XCVII, 1)</note>. In quibus
+omnibus si quis forsitan proficere dissimulat, et
+proficisci de virtute in virtutem; noverit quisquis
+hujusmodi est, in statione, non in processione se
+esse, imo vero et in regressione; quoniam in via
+vitae non progredi, regredi est, cum nihil adhuc in
+eodem statu <emph>962</emph> permaneat. Porro profectus noster
+in eo consistit, ut saepius me dixisse memini, ut
+nunquam arbitremur nos apprehendisse, sed semper
+extendamur ad anteriora, incessanter conemur in
+melius; et imperfectum nostrum divinae misericordiae
+obtutibus jugiter exponamus.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO III. <hi>De puero, Maria et Joseph.</hi> </head>
+
+<pb n="0369D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Purificationem beatae Mariae Virginis hodie celebramus,
+quae secundum legem Moysi facta est,
+transactis a Nativitate Domini quadraginta diebus.
+In lege enim scriptum erat, ut mulier quae suscepto
+semine peperisset filium, immunda esset septem
+diebus, et octava die circumcideretur puer: dehinc
+ablutioni et purificationi intenta, abstineret ab ingressu
+templi triginta tribus diebus: quibus expletis,
+offerret filium Domino cum muneribus <note>(Lev. XII)</note>.
+Sed quis non advertat in ipso sententiae hujus initio,
+liberam omnino matrem Domini ab hoc praecepto?
+Putas enim quia dicturus Moyses mulierem, quae
+peperisset filium, immundam esse, non timuerit super
+<pb n="0370A"/>
+per matre Domini blasphemiae crimen incurrere, et
+idcirco praemiserit, <hi>suscepto semine?</hi> Alioquin nisi
+parituram praevidisset sine semine Virginem, quae
+necessitas erat de suscepto semine fieri mentionem?
+Patet itaque quod lex ista matrem Domini non includit,
+quae non suscepto semine filium peperit, sicut
+praedictum erat per Jeremiam, quia <hi>novum</hi> faceret <hi>Dominus super terram.</hi> 
+ Quaeris quod novum? <hi>Mulier,</hi> 
+ inquit, <hi>circumdabit virum <note>(Jerem. XXXI, 22)</note>
+          </hi>.
+Non ab altero viro virum suscipiet, non humana
+lege concipiet hominem; sed intra viscera intacta et
+integra virum claudet: ita sane ut intrante et
+exeunte Domino, juxta alium prophetam, porta
+orientatis clausa jugiter perseveret <note>(Ezech. XLIV, 2)</note>.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Putas ergo, non poterat moveri animus ejus,
+<pb n="0370B"/>
+et dicere: Quid mihi opus purificatione? cur abstineam
+ab ingressu templi, cujus uterus nesciens virum,
+templum factus est Spiritus sancti? cur non
+ingrediar templum, quae peperi Dominum templi?
+Nihil in hoc conceptu, nihil in partu impurum fuit,
+nihil illicitum, nihil purgandum: nimirum cum
+proles ista fons puritatis sit, et purgationem venerit
+facere delictorum. Quid in me legalis purificet
+observatio, quae purissima facta sum ipso partu immaculato?
+Vere, o beata Virgo, vere non habes
+causam, nec tibi opus est purificatione. Sed nunquid
+filio tuo opus erat circumcisione? Esto inter
+mulieres tanquam una earum; nam et filius tuus
+sic est in numero puerorum. Circumcidi voluit, et
+non multo magis velit offerri? Offer filium tuum,
+<pb n="0370C"/>
+Virgo sacrata, et benedictum fructum ventris tui
+Domino repraesenta. Offer ad nostram omnium reconciliationem
+hostiam sanctam, Deo placentem.
+Omnino acceptabit Deus Pater oblationem novam,
+et pretiosissimam hostiam, de qua ipse ait: <hi>Hic est
+Filius meus dilectus, in quo mihi bene complacui <note>(Matth. III, 17)</note>
+          </hi>.
+Sed oblatio ista, fratres, satis delicata
+videtur, ubi tantum sistitur Domino, redimitur
+avibus, et illico reportatur. Veniet, quando non
+in templo offeretur, nec inter brachia Simeonis, sed
+extra civitatem inter brachia crucis. Veniet, quando
+non redimetur alieno, sed alios redimet sanguine
+proprio, quia redemptionem eum misit Deus Pater
+populo suo. Illud erit sacrificium vespertinum, istud
+est matutinum. Istud quidem jucundius, sed illud
+<pb n="0370D"/>
+plenius. Istud enim tempore nativitatis, illud jam in
+plenitudine aetatis. De utroque tamen potes accipere
+quod propheta praedixit: <hi>Oblatus est, quia ipse voluit <note>(Isai. LIII, 7)</note>
+          </hi>.
+Nam et modo oblatus est, non
+quia opus habuit, non quia sub legis edicto fuit,
+sed quia ipse voluit; et in cruce nihilominus oblatus
+est, non quia meruit, non quia Judaeus potuit, sed
+quia ipse voluit. Voluntarie sacrificabo <emph>963</emph> tibi,
+Domine, quia voluntarie oblatus es pro mea salute,
+non pro tua necessitate.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Sed quid. fratres, nos offerimus, aut quid
+retribuimus illi pro omnibus quae retribuit nobis?
+Ille pro nobis obtulit hostiam pretiosiorem quam habuit,
+nimirum qua pretiosior esse non potuit: et
+<pb n="0371A"/>
+nos ergo faciamus quod possumus, optimum quod
+habemus offerentes illi, quod sumus utique nosmetipsi.
+Ille seipsum obtulit; tu quis es qui te
+ipsum offerre cuncteris? Quis mihi tribuat, ut oblationem
+meam dignetur majestas tanta suscipere?
+Duo minuta habeo, Domine, corpus et animam dico:
+utinam haec tibi perfecte possim in sacrificium
+laudis offerre! Bonum enim mihi, longeque gloriosius
+atque utilius est, ut tibi magis offerar, quam
+ut deserar mihiipsi. Nam ad meipsum anima mea
+conturbatur, in te vero exsultabit spiritus meus, si
+tibi veraciter offeratur. Fratres, morituro Domino
+Judaeus mortuas hostias offerebat; sed jam nunc: <hi>Vivo ego, dicit Dominus nolo mortem peccatoris,
+<pb n="0372A"/>
+sed magis ut convertatur et vivat 
+ <note>(Ezech. XXXIII, 11)</note>
+          </hi>.
+Non vult Dominus mortem meam; et non libenter offero
+illi vitam meam? Haec est enim hostia placabilis,
+Deo placens hostia, hostia viva. Sed in oblatione
+illa Domini tres fuisse leguntur; et in oblatione
+nostra tria nihilominus a Domino requiruntur. Fuit
+in oblatione illa Joseph sponsus matris Domini,
+cujus filius putabatur; fuit et ipsa Virgo mater, et
+puer Jesus qui offerebatur. Sit ergo et in oblatione
+nostra constantia virilis, sit continentia carnis, sit
+conscientia humilis. Sit, inquam, in proposito perseverandi
+animus virilis, sit in continentia castitas
+virginalis, sit in conscientia simplicitas et humilitas
+puerilis. Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,655 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In transitu S. Malachiae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InTrSMa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I.</head>
+
+<pb n="0481C"/>
+<div3>
+          <head>1.</head>
+          <p>
+ De coelo vobis hodie, dilectissimi, copiosa
+quaedam est benedictio destinata: et fideliter eam
+non distribui, vobis quidem damnosum esset; mihi
+vero periculosum, cui nimirum haec dispensatio videtur
+esse commissa. Timeo itaque damnum vestrum,
+timeo damnationem meam, si forte dicatur: <hi>Parvuli
+petierunt panem, et non fuit qui porrigeret illis <note>(Thren. IV, 4)</note>
+          </hi>.
+Scio enim quam necessaria vobis sit
+e coelo veniens consolatio, quos constat illecebris
+carnalibus et oblectamentis saecularibus viriliter
+abrenuntiasse. Nemo sane beneficii esse coelestis,
+et superno dubitet consilio definitum, ut episcopus
+Malachias hodie inter vos obdormiret, et desideratam
+inter vos haberet sepulturam. Cum enim nec folium
+<pb n="0481D"/>
+quidem arboris sine divino nutu cadat in terram;
+quis tam hebes, ut non evidenter in hujus beati viri
+adventu et transitu magnum prorsus consilium supernae
+pietatis advertat? A finibus terrae, terram hic
+positurus advenit, alia quidem occasione festinans,
+quamvis ob specialem erga nos charitatem id plurimum
+desiderasse noscatur. Multa quidem in itinere
+ipso impedimenta sustinuit, nec transfretare permissus
+est, donec appropinquaret tempus consummationis
+ejus, et terminus qui non poterat praeteriri.
+Quem quidem multis ad nos pervenientem laboribus,
+tanquam angelum Dei pro reverentia sanctitatis suae
+suscepimus: sed et nos ipse pro sua mansuetudine
+et humilitate altius radicata, longe supra quam mereremur,
+devoto suscipiebat affectu. Paucos deinde
+<pb n="0482C"/>
+apud nos dies fecit in incolumitate sua, dum socios
+praestolaretur, qui dispersi in Anglia fuerant, cum
+regis illius vana suspicio Dei hominem impediret.
+Jamque omnibus ad eum collectis, ad Romanam,
+pro qua venerat, curiam parabat iter: cum subito
+infirmitate praeventus, sensit protinus ad coeleste
+magis sese palatium evocari. Deo melius aliquid
+providente pro nobis, ne a nobis egressus alibi consummaretur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Nullum quidem in eo, non dico mortis, sed
+vel gravis aegritudinis signum medicis apparebat:
+ille tamen exhilaratus spiritu, aiebat omnimodis
+oportere, ut hoc anno Malachias ab hac vita egrederetur.
+Laboratum est econtra, et devotis precibus
+apud Deum, et quibuscunque potuimus modis: sed
+<pb n="0482D"/>
+illius praevaluere merita, ut desiderium cordis ejus
+tribueretur ei, et non fraudaretur voluntate labiorum
+suorum. Sic enim pro votis omnia ei concurrere,
+ut hunc maxime locum, divina sibi inspirante clementia,
+elegisset: et hunc quoque ex longo optaret
+sepulturae habere diem, quo fidelium omnium generalis
+memoria celebratur. Sed et illud nostra haec
+gaudia merito cumulavit, quod fratrum nostrorum
+ossibus, de priore coemeterio huc asportandis et recondendis,
+eadem nobis dies, auctore Deo, fuisset
+electa. Quae nimirum deportantibus nobis, et ex more
+psallentibus, idem vir sanctus plurimum sese illo
+cantu delectari dicebat: et non multo post ipse
+quoque secutus est, somno suavissimo et felicissimo
+soporatus. Agimus itaque gratias Deo super omnibus
+<pb n="0483A"/>
+dispositionibus suis, quod indignos nos beatae mortis
+ejus honorare praesentia, quod pauperes suos pretiosissimo
+corporis ejus locupletare thesauro, quod
+infirmos nos tanta Ecclesiae suae voluit fulcire columna.
+Alterum siquidem e duobus signum istud,
+quod nobis in bonum factum est, persuadet, quod
+aut placitus Deo sit locus, aut sibi placitum facere
+velit, ad quem tantae sanctitatis virum a finibus
+terrae moriturum, sepeliendumque perduxit.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Caeterum populo illi affectuosius condolere, et
+ejus quae tam miserabili Ecclesiae dirum hoc vulnus <emph>1044</emph> 
+ non pepercit inferre, crudelitatem mortis
+vehementius abhorrere, beati hujus patris charitas
+ipsa compellit. Dira profecto et inexorabilis mors,
+quae tantam hominum multitudinem unius percussione
+<pb n="0483B"/>
+multavit: caeca et improvida, quae Malachiae
+ligavit linguam, impedivit gressus, dissolvit manus,
+oculos clausit. Illos, inquam, devotos oculos, qui
+piissimis fletibus divinam peccatoribus reconciliare
+gratiam consuevere: illas mundissimas manus, quae
+laboriosis et humilibus operibus exerceri semper
+amaverant, quae Dominici corporis hostiam salutarem
+pro peccatoribus toties offerebant; et sine ira
+et disceptatione in oratione levabantur in coelum;
+quae infirmis multa beneficia praestitisse, et signis
+variis effulsisse noscuntur: illos quoque speciosos
+gressus evangelizantis pacem, evangelizantis bona;
+illos pedes, qui toties fatigati sunt studio pietatis;
+vestigia illa, digna quae semper devotis osculis premerentur:
+sancta denique labia illa sacerdotis, quae
+<pb n="0483C"/>
+custodiebant scientiam; os justi, quod sapientiam
+meditabatur: et linguam ejus, quae judicium loquens,
+imo et misericordiam, tantis mederi solebat vulneribus
+animarum. Nec mirum, fratres, iniquam mortem
+esse, quam generavit iniquitas: inconsideratam,
+quam noscitur seductio peperisse. Nihil, inquam,
+mirum, si ferit sine discretione, quae venit ex praevaricatione;
+si sit crudelis et fatua, quae ex antiqui
+serpentis fallacia, et mulieris insipientia prodiit.
+Quid tamen causamur quod Malachiam ausa sit attentare,
+fidele equidem membrum Christi, quando
+et ipsum Malachiae pariter et omnium electorum caput
+furibunda pervasit? Pervasit utique immunem,
+sed non immunis evasit. Impegit in vitam mors, et
+<pb n="0483D"/>
+inclusit intra se vita mortem, et absorpta est mors
+a vita. Hamum sibi devorans, inde teneri coepit,
+unde visa est tenuisse.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ At fortasse quis dicat: Quomodo mors a capite
+superata videtur, quae tanta adhuc libertate saevit in
+membra? Si mors mortua, quomodo Malachiam occidit?
+si victa, quomodo adhuc praevalet universis;
+et non est homo qui vivat, et non videat mortem?
+Victa plane mors, opus diaboli, et peccati poena;
+victum peccatum, causa mortis; victus et malignus
+ipse, et peccati auctor, et mortis. Nec modo victa
+sunt haec, sed et judicata jam et damnata. Definita
+quidem, sed nondum promulgata sententia est. Denique
+jam diabolo ignis paratus, etsi nondum ille
+praecipitatus in ignem, modico adhuc tempore sinitur
+<pb n="0484A"/>
+malignari. Tanquam malleus coelestis opificis
+factus est, malleus universae terrae: terit electos ad
+eorum utilitatem, reprobos conterit in eorum damnationem.
+Qualis ergo paterfamilias, tales et domestici
+ejus, peccatum scilicet et mors. Nam et peccatum,
+licet simul cum Christo cruci ipsius non dubitetur
+affixum, adhuc tamen interim non regnare
+quidem, sed habitare etiam in ipso, dum viveret,
+Apostolo permittebatur. Mentior si non ipse ait: <hi>Jam
+non ego operor illud, sed quod habitat in me peccatum <note>(Rom. VII, 17)</note>
+          </hi>.
+Sic et mors ipsa minime quidem
+adhuc abesse cogitur, sed cogitur non obesse. Erit
+autem cum dicetur: <hi>Ubi est, mors, victoria tua <note>(I
+Cor. XV, 55)</note>
+          </hi>. Et ipsa siquidem inimica novissima destructur.
+Nunc vero moderante eo qui imperium
+<pb n="0484B"/>
+habet vitae et mortis, et mare ipsum certis littorum
+coercet metis, mors ipsa dilectis Domini somnus
+refrigerii est, Propheta attestante, qui ait: <hi>Cum
+dederit dilectis suis somnum, ecce haereditas Domini <note>(Psal. CXXVI, 2, 3)</note>
+          </hi>.
+Pessima quidem mors peccatorum,
+quorum et nativitas mala, et vita pejor; sed
+pretiosa est mors sanctorum <note>(Psal. CXV, 15)</note>. Pretiosa
+plane, tanquam finis laborum, tanquam victoriae
+consummatio, tanquam vitae janua, et perfectae securitatis
+ingressus.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Congratulemur itaque, fratres, congratulemur,
+ut dignum est, patri nostro; quia et pium est defunctum
+plangere Malachiam, et pium magis Malachiae
+congaudere viventi. Nunquid non vivit? Et
+beate. Nimirum visus est oculis insipientium mori,
+<pb n="0484C"/>
+ille <emph>1045</emph> autem est in pace. Denique jam concivis
+sanctorum et domesticus Dei, psallit pariter et gratias
+agit, dicens: <hi>Transivimus per ignem et aquam,
+et eduxisti nos in refrigerium <note>(Psal. LXV, 12)</note>
+          </hi>. Transivit
+plane viriliter, et feliciter pertransivit. Verus
+Hebraeus Pascha celebravit in spiritu, et nobis transiens
+loquebatur: Desiderio desideravi hoc Pascha
+manducare apud vos. Transivit per ignem et aquam,
+quem nec tristia frangere, nec detinere mollia potuerunt.
+Est enim deorsum nos locus, quem sibi
+totum vindicat ignis, adeo ut ne minimam quidem
+aquae guttam de Lazari digito miser ille dives ibi
+habere potuerit. Est et sursum civitas Dei, quam
+laetificat fluminis impetus, voluptatis torrens, calix
+<pb n="0484D"/>
+inebrians quampraeclarus. In hoc sane medio boni
+et mali scientia continetur, et voluptatis et tribulationis
+hic capere est experimentum. Infelix Eva in
+has vicissitudines nos induxit. Hic plane dies et nox:
+nam in inferno tantum nox, et in coelo tantum dies.
+Beata proinde anima quae utrumque pertransit, nec
+voluptati inhaerens, nec deficiens in tribulatione.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Breviter vobis unum aliquod ex multis hujus
+viri magnificis actibus arbitror referendum, in quo
+strenue satis et ignem, et aquam noscitur pertransisse.
+Magni illius Patricii Hiberniensium apostoli
+sedem metropolitanam tyrannica sibi progenies,
+successionis ordine creans archiepiscopos, vindicabat,
+haereditate possidens sanctuarium Dei. Rogatus
+itaque a fidelibus Malachias noster, ut tantis sese
+<pb n="0485A"/>
+malis opponeret, animan suam in manibus suis ponens,
+accessit intrepidus, suscepit archiepiscopatum,
+tradens sese discrimini manifesto, ut tanto crimini
+finem daret. Inter pericula rexit Ecclesiam; post
+pericula sibi continuo successorem alterum canonice
+ordinavit. Ea siquidem conditione susceperat, ut
+postquam, cessante persecutionis rabie, alter secure
+posset institui, ad sedem propriam remeare permitteretur: ubi sine ecclesiasticis saecularibusve redditibus
+in congregationibus religiosis, quas ipse exstruxerat,
+degens inter eos tanquam unus eorum,
+usque ad hoc tempus vixit absque ulla proprietate.
+Sic Dei hominem examinavit, non exinanivit tribulationis
+incendium: siquidem aurum erat; sic nec
+illecebra tenuit aut resolvit; nec curiosus spectator
+<pb n="0485B"/>
+in via substitit, propriae peregrinationis oblitus.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Quis vestrum, fratres, non vehementer ejus
+imitari cupiat sanctitatem, si id audeat vel sperare?
+Credo igitur libentius audituros, si dicere forte poterimus,
+quid sanctum fecerit Malachiam. Sed ne
+nostrum forsitan minus acceptabile testimonium
+videatur, Scripturam audite dicentem: <hi>In fide et
+lenitate ipsius sanctum fecit illum <note>(Eccli. XLV, 4)</note>
+          </hi>.
+Fide calcabat mundum, Joanne attestante, qui ait: <hi>Haec est victoria, quae vincit mundum, fides nostra 
+ (I
+Joan V, 4)</hi>. Nam in spiritu lenitatis dura quaelibet et
+adversa aequo animo tolerabat. Hinc quidem post
+Christum fide calcabat maria, ne caperetur illecabris:
+inde in patientia sua possidebat animam
+suam, ne molestiis frangeretur. De his enim duobus
+<pb n="0485C"/>
+habes in psalmo, casuros a latere tuo mille, et decem
+millia a dextris tuis <note>(Psal. XC, 7)</note>: quod multo
+plures prosperitatis fallaciae, quam adversitatis
+flagella dejiciant. Nemo itaque nostrum, charissimi,
+plana mollioris viae [ <hi>alias,</hi> undae] superficie delectatus,
+iter illud marinum [ <hi>alias,</hi> maximum] sibi commodius
+arbitretur. Magnos hic campus montes habet,
+invisibiles quidem, sed eo ipso periculosiores.
+Laboriosior forte via videtur inter ardua collium,
+et aspera rupium; sed expertis longe securior et
+desiderabilior invenitur. Utrobique tamen laborem,
+utrobique periculum esse noverat, qui dicebat: <hi>Per
+arma justitiae a dextris, et a sinistris <note>(II Cor. VI, 7)</note>
+          </hi>:
+ut merito congratulemur eis qui transierunt per
+ignem et aquam, et in refrigerium sunt educti. Refrigerium
+<pb n="0485D"/>
+vultis audire? Utinam id vobis alius loqueretur!
+nam ego quod non gustavi, eructare non possum.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Videor tamen mihi hodie super hoc refrigerio
+Malachiam audire dicentem: <hi>Convertere, anima
+mea, in requiem tuam, quia Dominus benefecit tibi;
+quia eripuit animam meam de morte <note>(Psal. CXIV,
+7, 8)</note>
+          </hi>, etc. In quibus verbis quid intelligam, <emph>1046</emph> 
+paucis audite: siquidem inclinata est jam dies, et
+longius quam speraveram sermo processit, quod
+invitus avellar a paterni dulcedine nominis, et
+Malachiam silere lingua formidans, finem facere
+vereatur. Mors animae, fratres mei, peccatum est:
+nisi forte excidit vobis quod in propheta legistis, <hi>Anima quae peccaverit, ipsa morietur 
+ (Ezech. XVIII,
+<pb n="0486A"/>
+4)</hi>. Triplex proinde congratulatio est hominis,
+ab omni peccato, et labore, et periculo liberati.
+Ex hoc siquidem nec peccatum in eo habitare
+dicitur, nec poenitentiae luctus indicitur, nec ab ullo
+deinceps lapsu ei praedicitur esse cavendum. Posuit
+Elias pallium; non est quod timeat, non est quod
+tangi, nedum teneri ab adultera vereatur. Currum
+conscendit; non est jam trepidare ne cadat: suaviter
+scandit; non laborans volatu proprio, sed celeri
+in vehiculo sedens. Ad hoc nos refrigerium, dilectissimi,
+tota animi aviditate curramus in odore
+unguentorum hujus beati patris nostri, qui nostrum
+hodie torporem in ferventissimum desiderium visus
+est excitasse. Curramus, inquam, post eum, crebrius
+illi clamantes: Trahe nos post te: et affectu cordis,
+<pb n="0486B"/>
+et profectu conversationis devotas omnipotenti misericordiae
+gratias referentes, quod indignis servulis
+suis, quibus propria desunt merita, aliena saltem
+voluit suffragia non deesse.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Liquet, dilectissimi, quod dum corpore retinemur,
+peregrinamur a Domino <note>(II Cor. V, 6)</note>: ac
+per hoc luctum magis, quam gaudium, miserandum
+nobis indicit exsilium et conscientia delictorum. Quia
+tamen apostolico ore gaudere cum gaudentibus admonemur <note>(Rom. XII, 15)</note>,
+in omnem nos suscitari laetitiam,
+tempus et causa requirit. Nam si vere, quod Propheta
+sensit, exsultent justi in conspectu Dei <note>(Psal. LXVII,
+4)</note>, exsultat sine dubio Malachias, qui in diebus suis
+placuit Deo, et inventus est justus. In sanctitate
+<pb n="0486C"/>
+et justitia coram ipso ministravit: placuit ministerium,
+placuit et minister. Quidni placuerit? Posuit
+sine sumptu Evangelium, replevit Evangelio patriam,
+suorum maxime feralem edomuit barbariem Hibernorum;
+levi jugo Christi in gladio spiritus exteras
+subdidit nationes, usque ad extrema terrae restituens
+haereditatem suam illi. O ministerium fructuosum!
+o ministrum fidelem! Nunquid non per ipsum Filio
+est paterna adimpleta promissio? Nunquid non hunc
+olim intuebatur Pater, cum ad Filium loqueretur: <hi>Dabo tibi gentes haereditatem tuam, et possessionem
+tuam terminos terrae? 
+ <note>(Psal. II, 8.)</note>
+          </hi> Quam libens
+Salvator recipiebat quod emerat, et emerat pretio
+sanguinis sui, ignominia crucis, horrore passionis!
+<pb n="0486D"/>
+Quam libens de manibus Malachiae, pro eo quod
+gratis ministraret! Ergo in ministro quidem gratum
+erat munus gratuitum, in ministerio autem placita
+conversio peccatorum. Grata, inquam, et placita in
+ministro simplicitas oculi, in ministerio autem salus
+populi.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Quanquam etsi ministerii quidem minor efficientia
+sequeretur, nihilominus tamen ad Malachiam
+et ad opera ejus ille merito respexisset, cui amica
+puritas, cui familiaris simplicitas: cujus justitiae est
+de intentione pensare opus, et de oculi qualitate
+totius aestimare corporis statum. Nunc vero magna
+opera Domini, exquisita in omnes voluntates et studia
+Malachiae: magna et multa, et bona valde, etsi
+pro bona castae intentionis origine meliora. Quod
+<pb n="0487A"/>
+opus pictatis praeteriit Malachiam? Pauper sibi, sed
+dives pauperibus erat. Pater orphanorum, maritus
+viduarum, patronus exstitit oppressorum. Hilaris
+dator, petitor rarus, acceptor verecundus. Pacis
+reformandae inter discordantes fuit illi cura maxima,
+et efficacia multa. Quis aeque pius ad compatiendum,
+ad subveniendum promptus, ad corripiendum
+liber? Nam et zelans erat, nec deerat scientia, zeli
+ipsius moderatrix. Et quidem infirmus infirmis, sed
+nihilominus potentibus potens, superbis resistebat,
+tyrannos verberabat, regum magister ac <emph>1047</emph> 
+principum. Ipse est, qui regi orando visum et malignanti
+tulit, et humiliato restituit. Ipse est, qui
+pacis quam fecerat violatores, spiritui erroris traditos,
+frustratus est in malo quod facere cogitabant:
+<pb n="0487B"/>
+ac denuo coegit ad pacem, confusos quidem
+et stupefactos in eo quod sibi contigerat. Ipse enim
+est, cui adversus alios, pacti aeque praevaricatores,
+rivus officiosissime adfuit, miro modo objectu sui
+evacuans molimina impiorum. Imbres non erant,
+non illuvies aquarum, non concursus nubium, non
+liquefactio nivium: cum subito factus est in fluvium
+magnum, qui rivulus erat: et rivus ibat, et intumescebat
+inundans, et negans omnino transitum volentibus
+malignari.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Quanta audivimus et cognovimus ea de zelo
+viri et ultione inimicorum, cum tamen esset suavis
+et mitis, et multae misericordiae omnibus necessitatem
+patientibus? Qui quasi unus omnium parens,
+<pb n="0487C"/>
+vivebat omnibus; quasi gallina pullos suos, sic fovebat
+omnes, et in velamento alarum suarum protegebat.
+Non sexus, non aetas, non conditio discernebatur,
+aut persona: deerat nemini, expanso omnibus
+gremio pietatis. De quacunque tribulatione
+clamaretur ad eum, propriam reputabat: nisi quod
+in sua patiens, in aliena compatiens erat, plerumque
+et impatiens. Nonnunquam siquidem repletus zelo,
+pro aliis in alios movebatur, ut eripiens inopes, et
+reprimens fortes, consuleret proinde omnibus in
+salutem. Itaque irascebatur, sed ne non irascendo
+[ <hi>alias,</hi> ne irascendo] peccaret, juxta illud de psalmo: <hi>Irascimini, et nolite peccare 
+ <note>(Psal. IV, 5)</note>
+          </hi>, non ira
+illi, sed ipse animo dominabatur. Erat suimet potis.
+Sane victor sui, ira superari non poterat. Ira ejus in
+<pb n="0487D"/>
+manu ejus. Vocata veniebat, exiens, non erumpens;
+nutu non impetu ferebatur. Non urebatur illa, sed
+utebatur. Magna illi tam in hoc, quam in cunctis
+utriusque hominis sui motibus regendis vel cohibendis,
+censurae diligentia, et circumspectio multa.
+Non enim ita omnibus intendebat, ut se solum exponeret,
+solum curae exciperet generali. Erat et sui
+sollicitus. Seipsum custodiebat. Ita denique totus
+suus, et totus omnium erat, ut nec charitas a custodia
+sui, nec proprietas ab utilitate communi eum
+impedire vel retardare in aliquo videretur. Si videres
+hominem mediis immersum turbis, et implicitum
+curis, diceres patriae natum, non sibi. Si videres
+hominem solum, et secum habitantem, putares
+soli vivere Deo et sibi.
+<pb n="0488A"/>
+</p>
+        </div3>
+<div3>
+          <head>4. </head>
+          <p>
+Sine turbatione versabatur in turbis: sine
+otio tempus, quod otio dederat, transigebat. Quomodo
+otiosus, quando exercebatur in justificationibus
+Domini? Nam etsi habebat tempus liberum a
+necessitatibus plebium, non tamen a sanctis meditationibus
+feriatum, non orandi studio, non ipso otio
+contemplandi. Sermo illi in tempore otii aut serius,
+aut nullus. Aspectus ejus aut officiosus, aut demissus,
+et cohibitus intra se. Nempe (quod non mediocri
+laudi inter sapientes ducitur) oculus ejus in capite ejus <note>(Eccle. II, 14)</note>,
+nusquam avolans, nisi cum virtuti
+paruisset. Risus aut indicans charitatis, aut provocans:
+rarus tamen et ipse. Equidem interdum
+eductus, excussus nunquam: qui ita nuntiaret cordis
+laetitiam, ut ori gratiam non minueret, sed augeret.
+<pb n="0488B"/>
+Tam modestus, ut levitatis non posset esse
+suspectus: tantillus tamen, ut hilarem vultum ab
+omni tristitiae naevo vel nubilo vindicare sufficeret.
+O munus perfectum! o holocaustum pingue! o obsequium
+gratum mente et manu! Quam bonus odor
+Deo in orationibus otiosi! quam bonus hominibus
+in sudoribus occupati!</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Pro hujusmodi ergo dilectus a Deo et hominibus,
+non immerito hodie Malachias in consortium
+angelorum recipitur, re adeptus, quod nomine dicebatur.
+Et quidem ante angelus erat non minus puritate,
+quam nomine; sed nunc felicius gloriosi in
+eo interpretatio nominis adimpletur, quando pari
+cum angelis gloria et felicitate laetatur. Congratulemur
+itaque, fratres, congratulemur, ut dignum est,
+<pb n="0488C"/>
+patri nostro; quia et pium est, defunctum plangere
+Malachiam; <emph>1048</emph> et pium magis, Malachiae congaudere
+viventi. Nunquid non vivit? Et beate. Nimirum
+visus est oculis insipientium mori, ille autem
+est in pace. Denique jam concivis sanctorum et
+domesticus Dei, psallit pariter, et agit gratias, dicens: <hi>Transivimus per ignem et uquam, et induxisti
+nos in refrigerium 
+ <note>(Psal. LXV, 12)</note>
+          </hi>. Transivit plane
+viriliter, et feliciter pertransivit. Verus Hebraeus
+pascha celebravit in spiritu, et nobis transiens
+loquebatur: Desiderio desideravi hoc Pascha manducare
+apud vos. Transivit per ignem et aquam,
+quem nec tristia frangere, nec detinere mollia potuerunt.
+Laetemur, quod angelus noster ascendit ad
+<pb n="0488D"/>
+cives suos, pro filiis captivitatis legatione fungens,
+corda nobis concilians beatorum, vota illis intimans
+miserorum. Laetemur, inquam, et exsultemus, quia
+coelestis illa curia ex nobis habet, cui sit cura nostri,
+qui suis nos protegat meritis, quos informavit
+exemplis, miraculis confirmavit.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sanctus pontifex, qui in spiritu humilitatis
+hostias pacificas coelis frequenter invexerat, hodie
+per semetipsum introivit ad altare Dei, ipse hostia
+et sacerdos. Migrante sacerdote, sacrificii ritus in
+melius mutatus est; fons lacrymarum siccatus est,
+holocaustum omne conditur in laetitia et exsultatione.
+Benedictus Dominus Deus Malachiae, qui
+tanti pontificis ministerio visitavit plebem suam, et
+nunc assumpto eo in sanctam civitatem, tantae
+<pb n="0489A"/>
+recordatione suavitatis nostram non desinit consolari
+captivitatem, Exsultet in Domino spiritus Malachiae,
+quod levatus pondere corporeae molis, nulla
+jam faeculenta vel terrena materia praegravatur,
+quominus tota alacritate ac vivacitate corpoream
+omnem et incorpoream transiens creaturam, pergat
+totus in Deum, et adhaerens illi, unus sit cum eo
+spiritus in aeternum.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Domum istam decet sanctitudo, in qua tantae
+frequentatur memoria sanctitatis. Sancte Malachia,
+serva eam in sanctitate et justitia, misertus nostri,
+qui inter tot et tantas miserias memoriam abundantiae
+suavitatis tuae eructamus. Magna est super
+te divinae dispensatio pietatis: qui te parvum fecit
+in oculis tuis, magnum in suis; qui magna fecit per
+<pb n="0489B"/>
+te, salvans patriam tuam, magna fecit tibi, introducens
+te in gloriam suam. Festivitas tua, quae
+merito tuis virtutibus votiva impenditur, tuis nobis
+efficiatur meritis et precibus salutaris. Gloria sanctitatis
+tuae, quae a nobis frequentatur, continuatur
+ab angelis, sic erit nobis digne jucunda, si fuerit et
+fructuosa. Liceat nobis aliquas, te migrante, retinere
+reliquias de fructibus spiritus, quibus onustus ascendis
+qui in tuo hodie tam delicioso convivio congregamur.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Esto nobis, quaesumus, Malachia sancte, alter
+Moyses, vel alter Elias, impertiens et tu de spiritu
+<pb n="0490A"/>
+tuo nobis: ipsorum siquidem in spiritu et virtute
+venisti. Vita tua, lex vitae et disciplina: mors tua,
+mortis portus, et porta vitae; memoria tua, dulcedo
+suavitatis et gratiae; praesentia tua, corona gloriae in
+manu Domini Dei tui. O oliva fructifera in domo
+Dei! o oleum laetitiae ungens et lucens, fovens beneficiis,
+coruscans miraculis! fac nos ejus, qua
+frueris, lucis suavitatisque participes. O odoriferum
+lilium, in aeternum ante Dominum germinans,
+et florens, et spargens ubique vivificum suavitatis
+odorem, cujus apud nos memoria in benedictione
+est, apud superos praesentia in honore! da canentibus
+te tantae plenitudinis participio non fraudari. O luminare
+magnum, et lux in tenebris lucens, signorum radiis
+et meritorum illuminans carcerem, laetificans civitatem!
+<pb n="0490B"/>
+fuga de cordibus nostris, virtutum splendoribus
+tenebras vitiorum. O stella matutina, eo caeteris clarior,
+quo Diei [ <hi>alias,</hi> Deo] vicinior, similior soli!
+dignare praeire nobis, ut et nos in lumine ambulemus,
+quasi filii lucis, et non filii tenebrarum. O aurora
+diescens super terram, sed superiores coeli plagas
+lux meridiana perlustrans! recipe nos in consortio
+luminis, quo illuminatus et late foris luces, et intus
+suaviter ardes, praestante Domino nostro Jesu Christo,
+qui cum Patre <emph>1049</emph> et Spiritu sancto regnat
+Deus per omnia saecula saeculorum. Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

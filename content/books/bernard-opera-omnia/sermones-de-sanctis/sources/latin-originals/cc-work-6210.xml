@@ -1,0 +1,202 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In vigilia SS. Petri et Pauli</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InViSsP</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In vigilia SS. Petri et Pauli</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0403C"/>In sanctorum Vigiliis necesse est vigilare hominem
+spiritualem, qui solemnitates eorum celebrare
+desiderat in spiritu et veritate. Aliae enim carnalium,
+aliae spiritualium vigiliae. Illi et nitidiores cultus, et
+epulas praeparant lautiores; et fortassis in ipsis
+vigiliis operantur opera tenebrarum, laetantur cum
+<pb n="0403D"/>
+male fecerint et exsultant in rebus pessimis. Vos
+non ita didicistis Christum, qui Christum secuti
+estis, qui omnia reliquistis, qui vigilanti oculo vigiliarum
+nomen debetis attendere. Ad hoc enim
+vigiliae proponuntur, ut evigilemus, si in aliquo peccato
+vel negligentia dormitamus, et praeoccupemus
+faciem sanctorum in confessione. Non sic filii hujus
+saeculi, non sic, qui potentes sunt ad bibendum
+vinum, et viri fortes ad miscendam ebrietatem; qui
+obdormierunt in flagitiis et facinoribus suis. Illud
+vos non lateat, quia qui ebrii sunt, nocte ebrii sunt;
+et qui dormiunt, nocte dormiunt: et frustra sonat
+eis nomen Vigiliarum sanctarum, cum ipsi magis
+dormire studeant, quam vigilare. Vos autem non
+estis filii noctis, neque tenebrarum, sed lucis et
+<pb n="0404C"/>
+diei <note>(I Thess. V, 5-8)</note>, ut non vos praeoccupent natalitii
+sanctorum dies, et inveniant imparatos.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Tria sunt igitur quae in festivitatibus sanctorum
+vigilanter considerare debemus: auxilium
+sancti, exemplum ejus, confusionem nostram. Auxilium
+ejus, quia qui potens in terra fuit, potentior
+<pb n="0404D"/>
+est in coelis ante faciem Domini Dei sui. Si enim
+dum hic viveret, misertus est peccatoribus, et oravit
+pro eis; nunc tanto amplius, quanto verius
+agnoscit miserias nostras, orat pro nobis Patrem:
+quia beata illa patria charitatem ejus non immutavit,
+sed augmentavit. Neque enim quia impassibilis omnino,
+ideo, ei incompassibilis factus est: sed nunc potius
+induit sibi viscera misericordiae, cum ante fontem
+misericordiae assistit [ <hi>alias,</hi> existit]. Est et alia causa,
+quae magis urget sanctos ut solliciti sint de nobis, quia,
+juxta vocem Apostoli, Deus providet pro nobis, ne sine
+nobis consummentur <note>(Hebr. XI, 40)</note>, sicut ait sanctus
+David: <hi>Me exspectant justi, donec retribuas mihi <note>(Psal.
+CXLI, 8)</note>
+          </hi>. Debemus etiam attendere exemplum ejus,
+quia quandiu in terris visus est, et cum hominibus
+<pb n="0405A"/>
+conversatus est, non declinavit ad dexteram, neque
+ad sinistram: sed viam regiam tenuit, donec veniret
+ad illum qui dicit, <hi>Ego sum via, veritas et vita <note>(Joan. XIV, 6)</note>
+          </hi>.
+Intuemini humilitatem operum ejus,
+auctoritatem verborum ejus, et tunc videbitis quomodo
+tam verbo quam exemplo luxerit inter homines;
+qualia nobis vestigia dereliquerit, <emph>988</emph> ut
+ambulemus per ea, et non erremus in eis. Vere,
+juxta prophetam, <hi>Semita justi recta est, rectus callis
+justi ad ambulandum <note>(Isai. XXVI, 7)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Sed et diligentiori intuitu confusionem nostram
+inspiciamus: quia homo ille similis nobis fuit passibilis,
+ex eodem luto formatus ex quo et nos. Quid
+ergo est, quod non solum difficile, sed et impossibile
+credimus, ut faciamus opera quae fecit, ut sequamur
+<pb n="0405B"/>
+vestigia ejus? Confundamur, fratres, et
+contremiscamus ad vocem istam, si forte haec
+confusio adducat nobis gloriam, si forte generet
+gratiam nobis timor iste. Homines isti fuerunt qui
+praecesserunt nos, qui tam mirabiliter processerunt
+per vias vitae, ut vix eos homines fuisse credamus.
+Sic ergo in sanctorum festivitatibus et gaudere et
+confundi debemus: gaudere, quia patronos praemisimus;
+confundi, quia eos imitari non possumus.
+Ita semper gaudium nostrum in hac valle lacrymarum,
+lacrymarum pane condiri debet, ut semper
+non solum extrema; sed et prima gaudii luctus occupet:
+quia etsi magna est gaudiorum materia, sed
+<pb n="0406A"/>
+maxima est dolorum. <hi>Memor fui Dei,</hi> clamat justus, <hi>et delectatus sum:</hi> 
+ sed et statim subjungit, <hi>Defecit
+spiritus meus, turbatus sum, et non sum locutus. <note>(Psal. LXXVI, 4, 5)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quod si haec in Vigiliis uniuscujusque sancti
+cogitare debemus, quid faciemus in solemnitate
+sanctorum et summorum Apostolorum? Petrum et
+Paulum loquor. Sufficeret unius festivitas ad infundendam
+exsultationem universae terrae: sed amborum
+juncta est ad cumulum gaudiorum, ut quomodo
+in vita sua dilexerunt se, ita in morte non
+sint separati. Quid illis potentius dum fuerunt in
+terris, quorum alteri traduntur claves regni coelorum,
+alteri magisterium Gentium: alter Ananiam
+et Sapphiram occidit in verbis oris sui, alter donat
+<pb n="0406B"/>
+quidquid donat in persona Christi; et cum infirmatur,
+tunc fortior est et potens? Quam potentiores
+sunt in coelis, qui tam potentes fuerunt in terris!
+Et qui nobis reliquerunt majora exempla, quam
+illi qui in fame et siti, in frigore et nuditate, et in
+omnibus illis quae Paulus enumerat <note>(II Cor. XI, 23-33;
+Hebr. XI, 36-38)</note>, jugiter sunt afflicti, et demum
+felici martyrio regna coelestia conscenderunt? Vere
+nobis rubor confusionis sunt, quos vix audeamus
+respicere, ne dicam imitari. Oremus ergo eos ut
+ipsi propitium nobis reddant amicum suum, judicem
+nostrum, qui est Deus benedictus in saecula.
+Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

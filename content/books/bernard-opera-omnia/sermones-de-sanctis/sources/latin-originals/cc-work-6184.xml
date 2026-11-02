@@ -1,0 +1,1143 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In assumptione B. V. Mariae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InAsBVM</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De gemina susceptione, Christi scilicet et Mariae.</hi> </head>
+
+<pb n="0415A"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Virgo hodie gloriosa coelos ascendens, supernorum
+gaudia civium copiosis sine dubio cumulavit
+augmentis. Haec est enim, cujus salutationis vox et
+ipsos exsultare facit in gaudio, quos materna adhuc
+viscera claudunt <note>(Luc. I, 41)</note>. Quod si parvuli necdum
+<pb n="0415B"/>
+nati anima liquefacta est ut Maria locuta est,
+quid putamus quaenam illa fuerit coelestium exsultatio,
+cum et vocem audire, et videre faciem, et
+beata ejus frui praesentia meruerunt? Nobis vero,
+charissimi, quae in ejus Assumptione solemnitatis
+occassio, quae causa laetitiae, quae materia gaudiorum?
+Mariae praesentia totus illustratur orbis: adeo ut et
+ipsa jam coelestis patria clarius rutilet virgineae
+lampadis irradiata fulgore. Merito proinde resonat
+in excelsis gratiarum actio et vox laudis; sed
+plangendum nobis quam plaudendum magis esse
+videtur. Quantum enim de ejus praesentia coelum
+exsultat, nunquid non consequens est, ut tantum
+lugeat hic noster inferior mundus ejus absentiam?
+Cesset tamen querela nostra, quia nec nobis
+<pb n="0415C"/>
+hic est manens civitas; sed eam inquirimus,
+ad quam hodie Maria benedicta pervenit. In qua si
+conscripti cives sumus, dignum profecto est etiam
+in exsilio, etiam super flumina Babylonis ejus nos
+recordari, ejus communicare gaudiis, ejus participare
+laetitiam, maximeque <emph>996</emph> eam, quae tam
+copioso impetu laetificat hodie civitatem Dei, ut
+sentiamus et ipsi stillicidia stillantia super terram.
+Praecessit nos regina nostra, praecessit, et tam gloriose
+suscepta est, ut fiducialiter sequantur Dominam
+servuli clamantes: <hi>Trahe nos post te; in odorem
+unguentorum tuorum curremus <note>(Cant. I, 3)</note>
+          </hi>. Advocatam
+praemisit peregrinatio nostra, quae tanquam
+Judicis mater, et mater misericordiae, suppliciter et
+<pb n="0415D"/>
+efficaciter salutis nostrae negotia pertractabit.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Pretiosum hodie munus terra nostra direxit in
+coelum, ut dando et accipiendo felici amicitiarum
+foedere copulentur humana divinis, terrena coelestibus,
+ima summis. Illo enim ascendit fructus terrae
+sublimis, unde data optima, et dona perfecta descendunt.
+Ascendens ergo in altum Virgo beata,
+dabit ipsa quoque dona hominibus. Quidni daret?
+Siquidem nec facultas ei deesse poterit, nec voluntas.
+Regina coelorum est, misericors est; denique mater
+est unigeniti Filii Dei. Nihil enim sic potest
+potestatis ejus seu pietatis magnitudinem commendare:
+nisi forte aut non creditur Dei Filius honorare
+matrem; aut dubitare quis potest omnino in
+affectum charitatis transisse Mariae viscera, in quibus
+<pb n="0416A"/>
+ipsa quae ex Deo est charitas novem mensibus
+corporaliter requievit.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Et haec quidem propter nos dixerim, fratres,
+sciens difficile esse ut in tanta inopia charitas illa
+perfecta, non quaerens quae sua sunt, valeat inveniri.
+Ut tamen interim sileam beneficia, quae pro illius glorificatione
+consequimur; si eam diligimus, gaudebimus
+utique, quia vadit ad Filium. Plane, inquam,
+<pb n="0416B"/>
+congratulabimur ei, nisi forte, quod absit! inventrici
+gratiae omnimodis inveniamur ingrati. Quem
+enim in castellum mundi hujus intrantem prius
+ipsa susceperat, ab eo suscipitur hodie sanctam
+ingrediens civitatem. Sed cum quanto putas honore,
+cum quanta putas exsultatione, cum quanta
+gloria? Nec in terris locus dignior uteri virginalis
+templo, in quo Filium Dei Maria suscepit; nec in
+coelis regali solio, in quo Mariam hodie Mariae
+filius sublimavit. Felix nimirum utraque susceptio;
+ineffabilis utraque, quia utraque inexcogitabilis est.
+Utquid enim ea hodie in ecclesiis Christi evangelica
+lectio recitatur, in qua mulier benedicta in mulieribus
+excepisse intelligitur Salvatorem? Credo ut
+haec quam celebramus, ex illa susceptione aliquatenus
+<pb n="0416C"/>
+aestimetur, imo ut juxta illius inaestimabilem
+gloriam inaestimabilis cognoscatur et ista. Quis
+enim, etiamsi linguis hominum angelorumque loquatur,
+explicare queat quemadmodum superveniente
+Spiritu, obumbrante virtute Altissimi, caro
+factum sit Verbum Dei, per quod facta sunt omnia; et
+Dominus majestatis quem non capit universitas creaturae,
+intra virginea sese clauserit viscera factus homo?</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sed et illud quis vel cogitare sufficiat, quam
+gloriosa hodie mundi regina processerit, et quanto
+devotionis affectu tota in ejus occursum coelestium
+legionum prodierit multitudo: quibus ad thronum
+gloriae canticis sit deducta; quam placido vultu,
+quam serena facie, quam laetis [ <hi>alias,</hi> divinis] amplexibus
+<pb n="0416D"/>
+suscepta a Filio, et super omnem exaltata
+creaturam, cum eo honore, quo tanta mater digna
+fuit, cum ea gloria, quae tantum decuit Filium?
+Felicia prorsus oscula labiis impressa lactentis, cui
+virgineo mater applaudebat in gremio. Verum nunquid
+non feliciora censebimus, quae ab ore sedentis
+in dextera Patris hodie in beata salutatione suscepit,
+cum ascenderet ad thronum gloriae, epithalamium
+canens, et dicens: <hi>Osculetur me osculo oris sui? <note>(Cant. I, 1.)</note>
+          </hi> 
+ Christi generationem, et Mariae assumptionem
+quis enarrabit? Quantum enim gratiae in
+terris adepta est prae caeteris, tantum et in coelis
+obtinet gloriae singularis. Quod si oculus non vidit,
+nec auris audivit, nec in cor hominis ascendit, quae
+praeparavit Deus diligentibus se: quod praeparavit
+<pb n="0417A"/>
+gignenti se, et, quod omnibus est certum, diligenti
+prae omnibus, quis loquatur? Felix plane Maria, et
+multipliciter felix, sive cum excipit Salvatorem, sive
+cum a Salvatore suscipitur: utrobique miranda dignitas
+Virginis matris: utrobique <emph>997</emph> amplectenda
+dignatio majestatis. <hi>Intravit,</hi> inquit, <hi>Jesus in quoddam
+castellum, et mulier quaedam excepit illum in
+domum suam <note>(Luc. X, 38)</note>
+          </hi>. Sed laudibus magis vacandum
+est, quod festivis praeconiis haec dies debeatur.
+Quia vero copiosam nobis materiam lectionis
+hujus verba ministrant; cras quoque, convenientibus
+nobis in unum, communicandum erit sine invidia
+quod fuerit desuper datum, ut in memoria tantae
+Virginis non modo affectus devotionis excitetur, sed
+et mores aedificentur ad profectum conversationis,
+<pb n="0417B"/>
+in laudem et gloriam Filii ejus Domini nostri, qui
+est super omnia Deus benedictus in saecula. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>De domo mundanda, ornanda, implenda.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Intravit Jesus in quoddam castellum, et mulier
+quaedam, Martha nomine, excepit illum in domum
+suam <note>(Luc. X, 38)</note>
+          </hi>. Opportune satis hoc mihi loco
+prophetica exclamatio assumenda videtur: <hi>O Israel,
+quam magna est domus Domini, et ingens locus possessionis
+ejus! <note>(Baruch III, 24.)</note>
+          </hi> An non ingens, cujus
+comparatione castellum dicitur terrae hujus spatiosissima
+latitudo? an non ingens patria et regio
+inaestimabilis, quando ab ea Salvator adveniens,
+cum ingrederetur orbem terrae, dicitur introire castellum?
+<pb n="0417C"/>
+Nisi forte castellum quis aliud intelligendum
+putet, quam atrium fortis armati, principis
+mundi hujus, cujus vasa dripere fortior supervenit <note>(Luc. XI, 21, 22)</note>.
+Festinemus in illam ingredi beatitudinis
+amplitudinem, fratres, ubi nemo alium
+coangustat: ut possimus cum omnibus sanctis comprehendere,
+quaenam sit longitudo et latitudo, sublimitas
+et profundum <note>(Ephes. III, 18)</note>. Neque id
+desperemus, quandoquidem ipse coelestis habitator
+patriae, etiam et creator, nostri hujus castelluli angustias
+non refugit.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sed quid introisse cum dicimus in castellum?
+Etiam in angustissimum virginalis uteri diversorium
+introivit. Denique et <hi>mulier quaedam excepit illum in
+domum suam.</hi> Felix mulier, quae non jam exploratores
+<pb n="0417D"/>
+Jericho, sed ipsum potius fortissimum exspoliatorem
+stulti illius, qui vere ut luna mutatur; non
+legatos Jesu filii Nave, sed ipsum magis suscipere
+meruit verum Jesum Filium Dei. Felix, inquam,
+mulier, cujus domus Salvatore suscepto inventa est
+munda quidem, sed plane non vacua. Quis enim
+vacuam dixerit, quam salutat angelus gratia plenam?
+Neque hoc solum; sed adhuc quoque in eam superventurum
+asserit Spiritum sanctum. Ad quid putas,
+nisi ut etiam superimpleat eam? Ad quid, nisi ut
+adveniente jam Spiritu plena sibi, eodem superveniente
+nobis quoque superplena et supereffluens
+fiat? Utinam fluant in nos aromata illa, charismata
+scilicet gratiarum, ut de plenitudine tanta omnes
+accipiamus! Ipsa nempe mediatrix nostra, ipsa est
+<pb n="0418A"/>
+per quam suscepimus misericordiam tuam, Deus:
+ipsa est per quam et nos Dominum Jesum in domos
+nostras excipimus. Et nobis enim singulis castra
+sunt singula, et singulae domus; et Sapientia pulsat
+ad ostia singulorum: si quis ei aperuerit, introibit,
+coenabitque cum eo. Est vulgare proverbium, quod
+multorum in ore, magis autem in corde versatur:
+Bonum, inquiunt, servat castellum, qui custodierit
+corpus suum. Sapiens tamen non sic, sed magis
+inquit: <hi>Omni custodia serva cor tuum, quia ex ipso
+vita procedit <note>(Prov. IV, 23)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Esto tamen, cedendum sit multitudini; bonum
+castrum custodiat, qui custodierit corpus suum.
+Illud sane quaerendum quaenam huic sit adhibenda
+custodia castro. Rectene custodisse tibi videtur anima
+<pb n="0418B"/>
+illa corporis sui castrum, cujus membra, velut
+conjuratione facta, inimico ejus dominium tradidere?
+Sunt enim qui cum morte foedus inierunt,
+pactum pepigerunt cum inferno <note>(Isa. XXVIII, 15)</note>. <hi>Incrassatus est,</hi> 
+ inquit, <hi>dilectus, et recalcitravit; incrassatus,
+impinguatus, dilatatus <note>(Deut. XXXII, 15)</note>
+          </hi>.
+Haec plane custodia, quae laudatur a peccatoribus in
+desideriis carnis suae. Quid vobis videtur, fratres?
+num et in hac parte cedendum est multitudini?
+Absit! Paulum <emph>998</emph> magis interrogemus, utpote
+ducem strenuum militiae spiritualis. Dic nobis,
+Apostole, quae sit tui custodia castri? <hi>Ego,</hi> ait, <hi>sic
+curro, non quasi in incertum; sic pugno, non quasi
+aerem verberans, Castigo</hi> enim <hi>corpus meum, et in
+servitutem redigo, ne forte, cum aliis praedicavero,
+<pb n="0418C"/>
+ipse reprobus efficiar <note>(I Cor. IX, 26, 27)</note>
+          </hi>. Et alio in
+loco: <hi>Non regnet,</hi> inquit, <hi>peccatum in vestro mortali
+corpore ad obediendum concupiscentiis ejus <note>(Rom.
+VI, 12)</note>
+          </hi>. Utilis profecto custodia, et felix anima, quae
+sic custodierit corpus suum, ut nunquam sibi vindicet
+illud inimicus. Fuit enim aliquando, cum hoc
+meum castrum tyrannidi suae impius ille subjecerat
+sibi, potestative membris imperans universis.
+Quantum eo nocuerit tempore, praesens adhuc indicat
+desolatio et egestas. Heu! nec continentiae murum
+in eo, nec patientiae antemurale reliquit. Exterminavit
+vineas, messuit segetes, arbores exstirpavit:
+quippe etiam oculus iste meus depraedabatur animam
+meam. Denique nisi quia Dominus adjuvit me,
+<pb n="0418D"/>
+paulo minus habitasset in inferno anima mea. Dico
+autem infernum inferiorem, ubi nulla confessio,
+unde nemini datur exire.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Caeterum etiam tunc nec carcer illi deerat, nec
+infernus. Ab ipso nempe conjurationis et proditionis
+pessimae deprehensa principio, non alibi quam in
+domo propria carcerali est mancipata custodiae, nec
+aliis quam suae ipsius familiae data tortoribus. Erat
+enim illi conscientia carcer, erant tortores ratio et
+memoria, atque hi quidem crudeles, austeri et immisericordes:
+sed longe minus a rugientibus illis
+praeparatis ad escam, quibus erat jam jamque tradenda.
+Sed benedictus Deus, qui non dedit me in
+captionem dentibus eorum. Benedictus, inquam, Dominus,
+qui visitavit et fecit redemptionem. Cum enim
+<pb n="0419A"/>
+inferiori eam carceri tradere malignus [ <hi>additur alias</hi> 
+et tortoribus], acceleraret, sed et castrum ipsum
+ignibus cremare perpetuis, ut digna perjuris etiam
+fieret retributio membris, fortior supervenit. Intravit
+in castellum Jesus, qui fortem alligans, ejus vasa
+diripuit; ut quae prius erant in contumeliam, faceret
+in honorem. Contrivit portas aereas, et confregit
+ferreos vectes, vinctum de domo carceris et umbra
+mortis educens. Porro egressus ejus in confessione.
+Ipsa est enim scopa, qua mundatus carcer et ornatus,
+deinceps regularium institutionum juncis quibusdam
+pulchre virentibus de carcere redit in domum.
+Habet ergo mulier jam domum suam, habet
+ubi suscipiat eum, cui super tantis beneficiis exstat
+obnoxia. Alioquin vae ei, si eum excipere renuit, si non
+<pb n="0419B"/>
+detinet, si non cogit manere secum, quoniam advesperascit.
+Rediens enim qui prius ejectus est, mundatam
+quidem et ornatam domum in venit, sed vacantem.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Relinquitur siquidem mulieri domus sua deserta,
+quam [ <hi>alias,</hi> quia] Salvatoris hospitio dignam
+exhibere neglexit. Quomodo, inquis? Poteritne domus
+mundata confessione priorum delictorum, et
+observatione regularium institutionum ornata, indigna
+adhuc judicari habitaculo gratiae, Salvatoris
+ingressu? Poterit sine dubio, si superficie tenus
+emundata, et juncis, ut dictum est, strata virentibus,
+interius plena sit luto. Quis enim suscipiendum
+Dominum arbitretur in dealbatis mortuorum sepulcris,
+quae videntur a foris speciosa, intrinsecus autem
+spurcitia et sanies universa replevit? Esto siquidem
+<pb n="0419C"/>
+ut aliquando tanquam ipsa superficie delectatus,
+incipiat velut primum apponere pedem, ei
+qui hujusmodi est, primam aliquam visitationis suae
+gratiam indulgendo: nunquid non resiliet illico cum
+indignatione? nunquid non aufugiet clamitans: <hi>Infixus sum in limo profundi, et non est substantia? <note>(Psal. LXVIII, 3.)</note>
+          </hi> 
+ Virtutis enim species, et non veritas,
+quasi qualitas est, non substantia. Neque vero
+ingressum ejus exterioris potest conversationis tenuis
+superficies sustinere; quoniam omnia penetrat,
+et in intimis cordibus ejus habitatio est. Quod si
+nequaquam spiritus disciplinae subditum manifeste
+peccatis corpus inhabitat, fictum utique non modo
+declinat, sed et effugit atque elongatur ab eo <hi>(Sap.
+<pb n="0419D"/>
+I, 5)</hi>. An vero aliud est quam fictio exsecranda, si
+peccatum superficie tenus radas, <emph>999</emph> non intrinsecus
+eradices? Certus esto quoniam pullulabit uberius,
+et mundatam, sed vacantem domum cum nequioribus
+septem, qui ejectus fuerat, hospes [ <hi>alias,</hi> hostis] malignus
+intrabit. Reversus enim ad vomitum canis, odibilis
+erit multo plus quam ante, et fiet filius gehennae
+multipliciter, qui post indulgentiam delictorum in easdem
+denuo sordes inciderit, ut sus lota in volutabro luti.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Vis videre mundatam, ornatam et vacantem
+domum? Hominem intuere qui confessus est, et
+deseruit manifesta peccata praecedentia ad judicium,
+et nunc solas movet manus ad opera mandatorum,
+<pb n="0420A"/>
+corde penitus arido, ductus consuetudine quadam,
+plane quasi vitula Ephraim, docta diligere trituram.
+Exteriorum quae ad modicum valent, ne unum iota
+praeterit aut apicem unum; sed camelum glutit, dum
+culicem liquat. In corde enim servus est propriae
+voluntatis, cultor avaritiae, gloriae cupidus, ambitionis
+amator; aut haec omnia, aut singula quaeque
+intus vitia fovens: et mentitur iniquitas sibi, sed
+Deus non irridetur. Videas enim interdum sic palliatum
+hominem, ut seducat etiam semetipsum, penitus
+non attendens vermem, qui interiora depascitur.
+Manet enim superficies, et salva sibi omnia arbitratur. <hi>Comederunt,</hi> 
+ ait propheta, <hi>alieni robur ejus, et
+ignoravit <note>(Osee VII, 9)</note>
+          </hi>. Dicit: <hi>Quia dives sum, et nullius
+egeo: cum sit pauper, et miser, et miserabilis (Apoc.
+<pb n="0420B"/>
+III, 17)</hi>. Nam et inventa occasione ebullire saneim,
+quae latebat in ulcere, et excisam, non exstirpatam
+arborem in silvam pullulare videas densiorem. Quod
+periculum si volumus declinare, securim ponamus
+necesse est ad radices arborum, non ad ramos. Non
+sola inveniatur in nobis exercitatio corporalis, ad
+modicum valens: sed inveniatur utilis ad omnia
+pietas, et exercitium spirituale.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Mulier,</hi> inquit, <hi>Martha nomine, excepit illum
+in domum suam; et huic erat soror, nomine Maria.</hi> 
+Sorores sunt, et debent esse contubernales. Occupatur
+haec circa frequens ministerium, illa Dominicis
+est intenta sermonibus. Ad Martham spectat
+ornatus, sed impletio ad Mariam. Vacat enim Domino,
+ut non sit domus vacans. Sed mundationem
+<pb n="0420C"/>
+cui possimus attribuere? Erit enim, si et hoc invenerimus,
+domus, in qua Salvator suscipitur, et
+munda, et ornata, et non vacans. Demus eam Lazaro,
+si et vobis ita videtur. Et ei siquidem fraternitatis
+jure cum sororibus est domus ista communis.
+Dico autem Lazarum, quem quatriduanum, jam
+jamque fetentem a mortuis excitat vox virtutis, ut
+videatur satis congrue formam gerere poenitentis.
+Intret ergo domum Salvator, et frequenter visitet
+eam, quam poenitens Lazarus mundat, ornat Martha,
+et Maria replet internae dedita contemplationi.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Sed forte curiosius quisquam requirat, cur in
+praesenti evangelica lectione nulla prorsus Lazari
+mentio fiat. Arbitror sane ne id quidem a proposita
+<pb n="0420D"/>
+similitudine dissidere. Virginalem etenim domum
+intelligi volens Spiritus, siluit non incongrue poenitentiam,
+quae malum utique comitatur. Absit enim
+ut proprii quidquam inquinamenti domus haec aliquando
+habuisse dicatur, ut in ea proinde scopa
+Lazari quaereretur. Quod si originalem a parentibus
+maculam traxit; sed minus a Jeremia sanctificatam
+in utero, aut non magis a Joanne Spiritu sancto
+repletam credere prohibet pietas Christiana: nec
+enim festis laudibus nascens honoraretur, si non
+sancta nasceretur. Postremo cum omnimodis
+constet, ab originali contagio sola gratia mundatam
+esse Mariam, quippe cum et nunc in baptismate
+<pb n="0421A"/>
+sola hanc maculam lavet gratia, et sola eam raserit
+olim petra circumcisionis: si, ut omnino pium est
+credere, proprium Maria delictum non habuit, nihilominus
+ab innocentissimo corde etiam poenitentia
+longe fuit. Sit ergo Lazarus apud eos, quorum necesse
+est ab operibus mortuis conscientias emundari:
+secedat inter vulneratos dormientes in sepulcris,
+ut in thalamo virginali inveniantur Martha et
+Maria tantum. Ipsa est enim <emph>1000</emph> quae Elisabeth
+gravidae et grandaevae quasi mensibus tribus humili
+deservivit officio <note>(Luc. I, 56)</note>; ipsa quae verba, quae
+de Filio dicebantur, conservabat conferens in corde
+suo <note>(Luc. II, 19)</note>.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Neminem ergo moveat, quod suspiciens mulier
+Dominum, non Maria, sed Martha vocatur: quando
+<pb n="0421B"/>
+in hac una et summa Maria et Marthae negotium, et
+Mariae non otiosum otium invenitur. Omnis quidem
+gloria filiae regis ab intus: nihilominus tamen in
+fimbriis aureis circumamicta est varietate. Non est
+de numero fatuarum virginum: prudens est virgo;
+lampadem habet, sed in vase oleum portat. An forte
+excidit vobis evangelica illa parabola, quae fatuas
+virgines prohibitas narrat ab introitu nuptiarum? <note>(Matth. XXV, 1-13)</note>.
+Erat quidem domus earum
+munda, virgines enim erant: erat ornata, quia simul
+omnes, id est fatuae cum prudentibus, lampades
+ornaverunt; sed erat vacans, quia in vasis suis
+oleum non acceperunt. Hinc est, quod nec ab eis
+suscipi in domos suas, nec admittere eas dignatur
+<pb n="0421C"/>
+sponsus coelestis ad nuptias. Non sic mulier illa
+fortis, quae serpentis caput contrivit. Habes enim
+post multa in laudibus ejus, quia non <hi>exstinguetur
+in nocte lucerna ejus <note>(Prov. XXXI, 18)</note>
+          </hi>. In sugillationem
+hoc dicitur fatuarum, quae veniente media
+nocte sponso, conqueruntur sero, et dicunt: <hi>Quia
+lampades nostrae exstinguuntur.</hi> Processit igitur gloriosa
+Virgo, cujus lampas ardentissima ipsis quoque
+angelis lucis miraculo fuit, ut dicerent: <hi>Quae est
+ista, quae progreditur sicut aurora consurgens, pulchra
+ut luna, electa ut sol? <note>(Cant. VI, 9.)</note>
+          </hi> Clarius
+enim caeteris rutilabat,quam repleverat oleo gratiae
+prae participibus suis Christus Jesus, Filius ejus,
+Dominus noster.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO III. <hi>De Maria, Martha et Lazaro. <note>(Luc. X, 38-42.)</note>
+          </hi> </head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0421D"/> <hi>Intravit Jesus in quoddam castellum, et mulier
+quaedam, Martha nomine, excepit illum in domum
+suam.</hi> Quid est, fratres, quod e duabus sororibus
+altera tantum Dominum legitur excepisse, et ea ipsa
+quae videtur inferior? Optimam enim partem elegit
+Maria, teste ipso quem Martha suscepit. Sed prior
+natu Martha videtur, et salutis initium sibi magis
+actio, quam contemplatio noscitur vindicare. Laudat
+Christus Mariam, sed a Martha suscipitur. Amat
+Rachelem Jacob, sed Lia supponitur ignoranti. Si
+de fraude queritur, audiet non esse consuetudinis
+ut juniores prius tradantur ad nuptias <hi>(Gen. XXIX,
+<pb n="0422A"/>
+23-26)</hi>. Quod si luteam hanc cogites domum, facile
+erit nosse quemadmodum in ea Dominum Martha
+magis excipiat quam Maria. Quod enim ait Apostolus: <hi>Glorificale et portate Deum in corpore vestro 
+ <note>(I Cor.
+VI, 20)</note>
+            </hi>, Marthae dicitur, non Mariae. Haec nimirum
+corporis utitur instrumento, cum illi potius sit impedimento.
+Denique <hi>corpus,</hi> inquit, <hi>quod corrumpitur,
+aggravat animam, et deprimit terrena inhabitatio
+sensum multa cogitantem <note>(Sap. IX, 15)</note>
+            </hi>. Nunquid et
+operantem? Martha igitur in domum suam excipit
+Salvatorem in terris: Maria potius cogitat quemadmodum
+suscipiatur ab eo in domo non manu facta,
+aeterna in coelis. Forte tamen et ipsa Dominum suscepisse
+videtur, sed in spiritu: Dominus enim spiritus
+est.</p>
+        </div3>
+<pb n="0422B"/>
+
+<div3>
+          <head>2. </head>
+          <p>
+ <hi>Huic,</hi> inquit, haud dubium quin Marthae, <hi>soror
+erat, nomine Maria: quae etiam sedens secus pedes
+Jesu, audiebat verbum illius.</hi> Vides quod utraque
+suscepit Verbum, haec in carne, illa in voce. <hi>Martha
+autem salagebat circa frequens ministerium. Quae
+stetit, et ait: Domine, non est tibi curae quod soror
+mea reliquit me solam ministrare?</hi> Putas, in domo,
+in qua Christus suscipitur, vox murmurationis audietur?
+Felix domus, et beata semper congregatio
+est, ubi de Maria Martha conqueritur. Nam Mariae
+Martham aemulari prorsus indignum, prorsus illicitum
+est. Alioquin ubi legis Mariam causantem, Quia
+soror mea reliquit me solam vacare? Absit, absit
+ut qui Deo vacat, ad tumultuosam <emph>1001</emph> aspiret
+fratrum officialum vitam! Martha semper insufficiens
+<pb n="0422C"/>
+sibi et minus idonea videatur, aliisque magis
+in operis quod administrat optet imponi. <hi>Respondit
+autem ei Jesus: Martha, Martha, sollicita es, et turbaris
+erga plurima.</hi> Vide praerogativam Mariae, quem
+in omni causa habeat advocatum. Indignatur siquidem
+Pharisaeus <note>(Luc. VII, 39)</note>, conqueritur soror, etiam
+discipuli murmurant <note>(Matth. XXVI, 8)</note>: ubique Maria
+tacet, et pro ea loquitur Christus. <hi>Optimam,</hi> 
+inquit, <hi>partem elegit sibi Maria, quae non auferetur
+ab ea</hi> in aeternum. Hoc unum illud quod necessarium
+est; haec una, quam Propheta tam sedulo requirebat: <hi>Unam,</hi> 
+ inquit, <hi>petii a Domino, hanc requiram <note>(Psal. XXVI, 4)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Quid tamen sibi vult, fratres, quod optimam
+<pb n="0422D"/>
+partem Maria dicitur elegisse? Ubi jam erit, quod
+adversus eam proferre solemus, si quando forte
+administrantis Marthae turbationem, inaequalitatem
+dijudicare voluerit: <hi>Melior est iniquitas viri, quam
+benefaciens mulier? <note>(Eccli. XLII, 14.)</note>
+          </hi> Ubi erit et
+illud: <hi>Si quis mihi ministraverit, honorificabit eum
+Pater meus? <note>(Joan. XII, 26.)</note>
+          </hi> Et illud: <hi>Qui major est
+vestrum, erit minister vester? <note>(Matth. XX, 26.)</note>
+          </hi> Postremo,
+quae consolatio est laboranti, quasi in ejus
+suggillationem, partem sororis attollere? Unum ergo
+arbitror e duobus, ut aut de electione Maria laudetur,
+quod pars ipsa, quantum in nobis est, sit omnibus
+eligenda; aut certe ut neutrum dicatur defuisse,
+<pb n="0423A"/>
+nec in partem quamlibet praecipitasse sententiam,
+sed ad obedientiam praeceptoris in utrumlibet sit
+parata. <hi>Quis</hi> enim <hi>sicut David fidelis, ingrediens et
+egrediens, et pergens ad imperium regis? <note>(I Reg. XXII,
+14.)</note>
+          </hi> Denique <hi>paratum,</hi> inquit, <hi>cor meum, paratum
+cor meum <note>(Psal. LVI, 8)</note>
+          </hi>; non semel tantum, sed et
+secundo, et vacare tibi, et proximis ministrare. Haec
+plane pars optima, quae non auferetur: haec mens
+optima, quae non mutabitur quocunque vocaveris
+eam. <hi>Bonum,</hi> inquit, <hi>acquirit gradum, qui bene ministraverit <note>(I Tim. III, 13)</note>
+          </hi>.
+Forte meliorem qui bene
+vacaverit Deo; optimum autem qui perfectus est in
+utroque. Unum adhuc dico, si tamen id de Martha
+liceat suspicari. Nonne enim quasi otiosam reputasse
+<pb n="0423B"/>
+videtur, quam sibi dari petiit adjutricem? Sed carnalis
+est, et omnino non percipit quae sunt spiritus
+Dei, si quis forte vacantem animam sua de vacatione
+redarguit. Audiat igitur optimam esse hanc partem,
+quae maneat in aeternum. Nunquid enim non rudis
+quodammodo videtur anima, quae divinae contemplationis
+penitus expers, illam intraverit regionem, ubi
+hoc unum omnium opus, unum studium, eadem vita?</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sed consideremus, fratres, quemadmodum in
+hac domo nostra tria haec distribuerit ordinatio charitatis,
+Marthae administrationem, Mariae contemplationem,
+Lazari poenitentiam. Habet haec simul
+quaecunque perfecta est anima; magis tamen videntur
+ad singulos singula pertinere, ut alii vacent
+sanctae contemplationi, alii dediti sint fraternae administrationi,
+alii in amaritudine animae suae recogitent
+<pb n="0423C"/>
+annos suos, tanquam vulnerati dormientes in
+sepulcris. Sic plane, sic opus est, ut Maria pie et
+sublimiter sentiat de Deo suo, Martha benigne et
+misericorditer de proximo, Lazarus misere et humiliter
+de se ipso. Gradum suum quisque consideret. <hi>Si inventi fuerint in civitate hac Noe, Daniel, Job;
+ipsi justitia sua liberabuntur, ait Dominus: sed filium
+aut filiam non liberabunt 
+ <note>(Ezech. XIV, 14-16)</note>
+          </hi>. Nemini
+nos blandimur: utinam nec vestrum quispiam se
+seducat! Quibus enim nulla credita est dispensatio,
+administratio nulla commissa, his omnino sedendum
+erit, aut secus pedes Jesu cum Maria, aut certe cum
+Lazaro intra septa sepulcri. Quidni erga multa turbetur
+Martha, quae sollicita est pro multis? Tibi vero
+<pb n="0423D"/>
+cui necessitas haec non incumbit, e duobus unum
+est necessarium: aut non turbari penitus, sed delectari
+magis in Domino; aut, si id necdum potes,
+turbari non erga plurima, sed, ut de se propheta
+loquitur, ad te ipsum <note>(Psal. XLI, 7)</note>.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Iterum dico, ne quis de ignorantia habeat
+excusationem: <emph>1002</emph> oportet te, frater, ad quem
+de fabricanda seu regenda inter undas diluvii Noe
+area nihil spectat, aut virum esse desideriorum, ut
+Daniel erat; aut cum beato Job virum dolorum, et
+scientem infirmitatem. Alioquin vereor ne tepidum
+te et nauseam provocantem evomat ex ore suo, qui
+te invenire cupit aut sui consideratione calidum et
+charitatis igne flagrantem; aut una ipsius cognitione
+frigidum, et aqua compunctionis ignita diaboli jacula
+<pb n="0424A"/>
+restinguentem. Sed et ipsam quoque Martham admonitam
+esse necesse est, id maxime quaeri inter
+dispensatores, ut fidelis quis inveniatur. Erit autem
+fidelis, si neque quae sua sunt quaerat, sed quae Jesu
+Christi, ut sit intentio pura; nec suam faciat, sed
+Domini voluntatem, ut sit actio ordinata. Sunt enim
+quorum non simplex est oculus, et recipiunt mercedem
+suam. Sunt qui feruntur propriis motibus animorum,
+et contaminata sunt universa quae offerunt,
+quippe cum voluntates eorum inveniantur in eis.
+Veni nunc mecum ad nuptiale carmen, et consideremus
+quemadmodum sponsus, ubi sponsam vocat,
+nec ullum omiserit ex his tribus, nec his addiderit
+quidquam. <hi>Surge,</hi> inquit, <hi>propera, amica mea, formosa
+mea, columba mea, et veni <note>(Cant. II, 10)</note>
+          </hi>. An
+<pb n="0424B"/>
+non amica est, quae Dominicis lucris intenta, fideliter
+ipsam quoque pro eo ponit animam suam? Quoties
+enim pro uno ex minimis ejus spirituale studium
+intermittit [ <hi>alias,</hi> interponit], toties pro eo spiritualiter
+ponit animam suam. An non formosa, quae
+revelata facie gloriam Domini speculando, in eamdem
+imaginem transformatur de claritate in claritatem,
+tanquam a Domini Spiritu? <note>(II Cor. III, 18.)</note> 
+An non columba, quae plangit et gemit in foraminibus
+petrae, in cavernis maceriae <note>(Cant. II, 14)</note>, tanquam
+sepulta sub lapide?</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Mulier,</hi> ait, <hi>Martha nomine, excepit eum in domum
+suam.</hi> Certum est hujus tenere locum fratres
+officiales, quos fraternae charitatis intuitus variis
+administrationibus deputavit. Utinam autem et ego
+<pb n="0424C"/>
+ipse inter dispensatores fidelis merear inveniri!
+Quibus enim convenientius videtur aptandum quod
+Dominus ait: <hi>Martha, Martha, sollicita es,</hi> quam
+praelatis, si tamen digna in sollicitudine praesunt?
+Aut quis turbatur erga plurima, nisi cui et Mariae
+vacantis, et Lazari poenitentis, sed et ipsorum, quibus
+onera sua partitur, universa incumbit sollicitudo?
+Vide Martham sollicitam, vide Martham erga
+plurima turbatam. Apostolum loquor, qui praelatos
+sollicitudinis admonens, gerit ipse sollicitudinem
+omnium Ecclesiarum. <hi>Quis infirmatur,</hi> inquit, <hi>et ego
+non infirmor? quis scandalizatur, et ego non uror? <note>(II
+Cor. XI, 29.)</note>
+          </hi> Suscipiat igitur Martha Dominum in
+domum suam, cui nimirum credita est dispensatio
+<pb n="0424D"/>
+domus. Mediatrix est, ut sibi pariter et subjectis salutem
+obtineat, suscipiat gratiam, sicut scriptum
+est: <hi>Suscipiant montes pacem populo, et colles justitiam <note>(Psal. LXXI, 3)</note>
+          </hi>.
+Suscipiant caeteri coadjutores
+ejus singuli pro qualitate ministerii sui; excipiant
+Christum, serviant Christo, ministrent ei in membris
+suis, ille in infirmis fratribus, ille in pauperibus,
+ille in hospitibus et peregrinis.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Quibus ita sollicitis circa frequens ministerium,
+videat Maria quemadmodum vacet, et videat quoniam
+suavis est Dominus. Videat, inquam, quam
+devota mente, quam tranquillo sedeat animo secus
+pedes Jesu, providens eum semper in conspectu suo,
+et verba ex ore ejus excipiens, cujus et aspectus
+delectabilis, et eloquium dulce. Diffusa est enim
+<pb n="0425A"/>
+gratia in labiis ejus, et est speciosus forma prae
+filiis hominum, imo etiam super omnem gloriam
+angelorum. Gaude et gratias age, Maria, quae partem
+optimam elegisti. Beati enim oculi qui vident
+quae tu vides, et aures quae merentur audire quod
+audis. Beata plane, quae venas susurrii divini percipis
+in silentio, in quo utique bonum est homini
+Dominum exspectare. Simplex esto, non tantum
+sine dolo et simulatione, sed et absque multiplicitate
+occupationum, ut tecum sit sermocinatio ejus, cujus
+et vox dulcis, et facies decora. Unum cave, ne
+abundare incipias in sensu tuo, et velis plus <emph>1003</emph> 
+sapere quam oportet sapere: ne forte dum lucem
+sectaris, impingas in tenebras, illudente tibi daemonio
+meridiano, de quo non est hujus temporis disputare.
+<pb n="0425B"/>
+Nam Lazarus quo devenit? ubi posuistis
+eum? Sorores alloquor, quae sepelierunt fratrem
+praedicatione et ministerio, exemplo et oratione.
+Ubi ergo posuistis eum? Absconditus est fossa humo,
+sub lapide jacet, non facile invenitur. Propterea non
+erit incongruum quatriduano quartum reservare
+sermonem, ut juxta Salvatoris exemplum audientes: <hi>Ecce quem amas, infirmatur 
+ <note>(Joan. XI, 3)</note>
+          </hi>, et nos
+maneamus hic die isto.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO IV. <hi>De quatriduo Lazari, et praeconio Virginis.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Tempus loquendi est omni carni, cum assumitur
+incarnati Verbi mater in coelum; nec cessare
+debet a laudibus humana mortalitas, cum hominis
+<pb n="0425C"/>
+sola natura supra immortales spiritus exaltatur in
+Virgine. Sed de ejus gloria nec silere devotio patitur,
+nec dignum aliquid sterilis concipere cogitatio, aut
+inerudita potest locutio parturire. Hinc est quod et
+ipsi coelestis curiae principes in consideratione tantae
+novitatis clamant non sine admiratione: <hi>Quae est
+ista, quae ascendit de deserto deliciis affluens? <note>(Cant.
+VIII, 5.)</note>
+          </hi> Ac si manifestius dicant: Quanta est haec?
+aut unde ei ascendenti utique de deserto affluentia
+tanta deliciarum? Nec enim pares inveniuntur deliciae
+vel in nobis, quos in civitate Domini laetificat
+fluminis impetus, qui a vultu gloriae voluptatis torrente
+[ <hi>alias,</hi> gloria] potamur. Quae est ista, quae de
+sub sole, ubi nihil est nisi labor et dolor, et afflictio
+spiritus, ascendit deliciis spiritualibus affluens?
+<pb n="0425D"/>
+Quidni delicias dixerim, virginitatis decus cum munere
+fecunditatis, humilitatis insigne, distillantem
+charitatis favum, misericordiae viscera, plenitudinem
+gratiae, praerogativam gloriae singularis? Ascendens
+igitur de deserto regina mundi, etiam angelis
+sanctis, ut canit Ecclesia, speciosa facta est et suavis
+in deliciis suis. Desinant tamen deserti hujus
+mirari delicias, quia Dominus dedit benignitatem,
+et terra nostra dedit fructum suum <note>(Psal. LXXXIV,
+13)</note>. Quid mirantur de terra deserta Mariam ascendere
+deliciis affluentem? Mirentur potius pauperem
+Christum de coelestis regni plenitudine descendentem.
+Longe enim ampliori miraculo dignum videtur,
+Dei Filium paulo minus ab angelis minorari,
+quam Dei matrem super angelos exaltari. Illius siquidem
+<pb n="0426A"/>
+exinanitio, facta est repletio nostra: illius
+miseriae, mundi deliciae sunt. Denique cum dives
+esset, propter nos pauper factus est, ut nos ejus inopia
+ditaremur <note>(II Cor. VIII, 9)</note>. Sed et crucis ignominia,
+credentium facta est gloria.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Adhuc autem et ad monumentum properat vita
+nostra, ut quatriduanum reducat a monumento:
+et eum, de quo vobis hodie (si bene meminit
+charitas vestra) sermo debetur, Lazarum quaerit,
+ut quaeratur, et inveniatur a Lazaro. In hoc enim est
+charitas, non quasi nos dilexerimus Deum, sed quia
+ipse prior dilexit nos. Age igitur, Domine, quaere
+quem amas, ut et amantem facias, et quaerentem.
+Quaere ubi posuerunt eum: jacet enim clausus, ligatus,
+oneratus. Jacet in ergastulo conscientiae, tenetur
+<pb n="0426B"/>
+vinculis disciplinae, et tanquam lapide superposito
+premitur et opprimitur onere poenitentiae,
+maxime quod desit interim fortis ut mors dilectio,
+et charitas omnia sustinens; et in his omnibus jam
+fetet, Domine: quatriduanus est enim. Credo jam
+multorum ingenia praevolant, ut intelligant quem
+velim dicere Lazarum: eum sine dubio, qui nuper
+peccato mortuus fodit sibi parietem, ut videat abominationes
+multas <note>(Ezech. VIII, 8, 9)</note>, et malas pravi
+et inscrutabilis cordis sui, et juxta prophetam alium
+ingressus est in petram, absconditus fossa humo a
+facie furoris Domini <note>(Isai. II, 10)</note>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Sed quid est: <hi>Domine, jam fetet; quatriduanus
+est enim?</hi> Forte enim fetorem istum, et quatuor dies
+<pb n="0426C"/>
+istos non continuo quivis intelligat. Ego primam
+arbitror timoris diem, qua nimirum irradiante cordibus
+nostris <emph>1004</emph> peccato morimur, et quodam
+modo sepelimur in conscientiis nostris. Secunda,
+ni fallor, agitur in labore certaminis. Solet nempe
+inter primordia conversionis acrius insurgere tentatio
+pravae consuetudinis, et vix exstingui possunt
+jacula ignita diaboli. Tertia nihilominus doloris esse
+videtur; dum recogitat quis annos suos in amaritudine
+animae suae, et nec tam laborat declinando futura,
+quam praeterita plangendo deplorat. Miraris
+quod hos dixerim dies? Sed tales sepulturae debentur,
+dies nebulae et caliginis, dies luctus et amaritudinis.
+Sequitur dies pudoris, non dissimilis tribus:
+quando jam horribili confusione operitur anima miseranda,
+<pb n="0426D"/>
+dum nimis considerat quae et quanta deliquerit,
+et in oculis cordis tetras versat imagines
+peccatorum. Animus hujusmodi nihil dissimulat,
+sed dijudicat, sed aggravat, sed exaggerat universa:
+non sibi parcit durus judex in semetipsum. Utilis
+quidem exacerbatio, et digna miseratione crudelitas,
+facile sibi divinam concilians gratiam, dum pro eo
+mens aemulatur etiam contra se ipsam. Verumtamen,
+Lazare, veni foras, ne in tanto fetore diutius immoreris.
+Caro putida putredini proxima est; et qui
+confunditur vehementius et tabescit, prope est ut
+desperet. Propterea, Lazare, veni foras. Abyssus
+abyssum invocat: abyssus luminis et misericordiae,
+abyssum miseriae et tenebrarum. Major illius bonitas
+quam iniquitas tua: et ubi peccatum abundat, superabundare
+<pb n="0427A"/>
+gratiam facit. <hi>Lazare,</hi> inquit, <hi>veni foras <note>(Joan. XI, 39, 43)</note>
+          </hi>.
+Ac si manifestius dicat: Quousque
+conscientiae tuae caligo te detinet? quandiu in cubili
+tuo gravi corde compungeris? Veni foras, procede,
+respira in lucem miserationum mearum. Hoc enim
+est quod in propheta legisti: <hi>Infrenabo os tuum
+laude mea, ne pereas <note>(Isai. XLVIII, 9)</note>
+          </hi>. Evidentius
+quoque propheta alius de se ipso: <hi>Ad me ipsum,</hi> inquit, <hi>anima mea turbata est; propterea oro memor
+tui 
+ <note>(Psal. XLI, 7)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Jam vero quid sibi vult quod ait: <hi>Tollite lapidem,</hi> 
+et post pauca, <hi>solvite eum? <note>(Joan. XI, 39, 44.)</note>
+          </hi> 
+Nunquid post visitationem gratiae consolantis cessabit
+agere poenitentiam, quoniam appropinquavit regnum
+coelorum; aut abjiciet disciplinam, si forte irascatur
+<pb n="0427B"/>
+Dominus, et pereat de via justa? Absit hoc! Tollatur
+lapis, sed poenitentia maneat, non jam premens et
+onerans, sed vividam et robustam mentem roborans
+magis atque confirmans: nimirum cujus cibus sit,
+quem antea nesciebat, Domini facere voluntatem.
+Sic et disciplina non jam constringit liberum, secundum
+illud: <hi>Justis non est lex posita <note>(I Tim. I, 9)</note>
+          </hi>;
+sed voluntarium regit, et dirigit in viam pacis. Super
+hac Lazari suscitatione manifestius psallit propheta: <hi>Non derelinques animam meam in inferno;</hi> 
+ quia, ut
+dixisse me memini secundo hujus festivitatis die,
+infernus quidam et carcer animae, rea conscientia
+est. <hi>Nec dabis sanctum tuum</hi> (non suum ipsius, sed
+tuum utique, quem ipse sanctificas) <hi>videre corruptionem.</hi> 
+Corruptione siquidem proximus erat quatriduanus,
+<pb n="0427C"/>
+qui coeperat jam fetere. Prope erat ut penitus
+dissolveretur, et veniens in profundum malorum
+contemneret impius; sed praeventus voce virtutis, et
+ab ea vivificatus gratias agit dicens: <hi>Notas mihi fecisti
+vias vitae, adimplebis me laetitia cum vultu tuo <note>(Psal. XV, 10, 11)</note>
+          </hi>.
+Ad ipsius siquidem contemplationem
+evocasti et eduxisti ab inferno animam meam:
+dum anxiaretur super me spiritus meus, intuens
+conscientiae propriae faciem nimis abominandam. <hi>Clamavit,</hi> 
+ inquit, <hi>voce magna: Lazare, veni foras;</hi> 
+magna utique voce, non tam sono clamosa, quam
+pietate et virtute magnifica.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sed quo devenimus? Nunquid non supra coelos
+Virginem prosequebamur euntem? Et ecce cum
+<pb n="0427D"/>
+Lazaro descendimus in abyssum. A splendore virtutis
+ad fetorem quatriduani proclivis decurrit oratio.
+Cur hoc, nisi quia pondere proprio ferebamur; et
+trahebat nos materia, tanto uberior utique, quanto
+familiarior? Fateor imperitiam meam, pusillanimitatem
+propriam non abscondo. Non est equidem
+quod me magis delectet, sed nec quod terreat magis,
+quam de gloria Virginis matris habere sermonem.
+Ut enim sileam interim ineffabile privilegium meritorum,
+et praerogativam <emph>1005</emph> penitus singularem,
+tanto eam devotionis affectu amplectuntur, honorant,
+suscipiunt, ut dignum est, universi, ut licet de ea
+loqui gestiant omnes; tamen quidquid dicitur de
+indicibili, eo ipso quod dici potuerit, minus gratum
+sit, minus placeat, minus acceptetur. Quidni minus
+<pb n="0428A"/>
+sapiat, quidquid de incomprehensibili gloria comprehendere
+potuerit mens humana? Ecce enim si in
+ea laudavero virginitatem, mihi multae virgines post
+eam videntur offerri. Si humilitatem praedicavero,
+invenientur forte vel pauci, qui, docente Filio ejus,
+mites facti sunt et humiles corde <note>(Matth. XI, 29)</note>.
+Si magnificare voluero misericordiae ejus multitudinem,
+sunt aliqui misericordiae viri, etiam et mulieres.
+Unum est, in quo nec primam similem visa
+est, nec habere sequentem, gaudia matris habens
+cum virginitatis honore. <hi>Optimam,</hi> inquit, <hi>partem
+elegit sibi Maria <note>(Luc. X, 42)</note>
+          </hi>. Optimam plane, quia
+bona fecunditas conjugalis, melior autem castitas
+virginalis; prorsus autem optima est fecunditas virginea,
+seu fecunda virginitas. Mariae privilegium
+<pb n="0428B"/>
+est, non dabitur alteri, quia non auferetur ab ea.
+Singulare est, sed continuo etiam indicibile invenitur,
+ut nemo assequi possit, sic nec eloqui quidem.
+Quid si et illud adjicias, cujus mater? Quae jam poterit
+lingua, etiamsi angelica sit, dignis extollere
+laudibus Virginem matrem; matrem autem non cujuscunque,
+sed Dei? Duplex novitas, duplex praerogativa:
+duplex miraculum, sed digne prorsus aptissimeque
+conveniens. Neque enim filius alius virginem,
+nec Deum decuit partus alter.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Verumtamen non hoc tantum, si diligenter
+attendas, sed caeteras quoque virtutes singulares
+prorsus invenies in Maria, quae videbantur esse
+communes. Quae enim vel angelica puritas virginitati
+illi audeat comparari, quae digna fuit Spiritus
+<pb n="0428C"/>
+sancti sacrarium fieri, et habitaculum Filii Dei?
+Si rerum pretia de raritate pensamus, quae prima
+in terris angelicam proposuit ducere vitam, super
+omnes est. <hi>Quomodo,</hi> inquit, <hi>fiet istud? quoniam
+virum non cognosco.</hi> Immobile propositum virginitatis,
+quod nec angelo filium promittente aliquatenus
+titubavit. <hi>Quomodo,</hi> inquit, <hi>fiet istud?</hi> Neque enim
+eo modo, quo fieri solet in caeteris. Virum penitus
+non cognosco, nec filii desiderio, nec spe prolis.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Quanta vero et quam pretiosa humilitatis
+virtus cum tanta puritate, cum innocentia tanta,
+cum conscientia prorsus absque delicto, imo cum
+tanta gratiae plenitudine? Unde tibi humilitas, et
+tanta humilitas, o beata? Digna plane quam respiceret
+<pb n="0428D"/>
+Dominus, cujus decorem concupisceret rex,
+cujus odore suavissimo ab aeterno illo paterni sinus
+attraheretur accubitu. Vide enim quam manifeste
+sibi concinant Virginis nostrae canticum, et nuptiale
+carmen: nimirum cujus uterus, sponsi thalamus
+fuit. Audi Mariam in Evangelio: <hi>Respexit,</hi> inquit, <hi>humilitatem ancillae suae 
+ <note>(Luc. I, 34, 48)</note>
+          </hi>. Audi eamdem
+in epithalamio: <hi>Cum esset rex,</hi> inquit, <hi>in accubitu
+suo, nardus mea dedit odorem suum <note>(Cant. I, 11)</note>
+          </hi>.
+Nardus quippe herba humilis est, et pectus purgat:
+ut manifestum sit humilitatem nardi nomine designari,
+cujus odor et decor invenerit gratiam apud Deum.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Sileat misericordiam tuam, Virgo beata, si
+quis est, qui invocatam te in necessitatibus suis
+sibi meminerit defuisse. Nos quidem servuli tui
+<pb n="0429A"/>
+caeteris in virtutibus congaudemus tibi, sed in hac
+potius nobis ipsis. Laudamus virginitatem, humilitatem
+miramur; sed misericordia miseris sapit
+dulcius, misericordiam amplectimur charius, recordamur
+saepius, crebrius invocamus. Haec est
+enim quae totius mundi reparationem obtinuit,
+salutem omnium impetravit. Constat enim pro
+universo genere humano fuisse sollicitam, cui dictum
+est: <hi>Ne timeas, Maria, invenisti gratiam <note>(Luc. I,
+30)</note>
+          </hi>, utique quam quaerebas. Quis ergo misericordiae
+tuae, o benedicta, longitudinem et latitudinem,
+sublimitatem et profundum queat investigare? Nam
+longitudo ejus usque in diem novissimum invocantibus
+eam subvenit universis. Latitudo ejus replet
+orbem terrarum, ut tua quoque misericordia plena
+<pb n="0429B"/>
+sit omnis terra. Sic et <emph>1006</emph> sublimitas ejus
+civitatis supernae invenit restaurationem, et profundum
+ejus sedentibus in tenebris et in umbra
+mortis obtinuit redemptionem. Per te enim coelum
+repletum, infernus evacuatus est, instauratae ruinae
+<pb n="0430A"/>
+coelestis Jerusalem, exspectantibus miseris vita
+perdita data. Sic potentissima et piissima charitas
+et affectu compatiendi, et subveniendi abundat
+effectu, aeque locuples in utroque.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Ad hunc igitur fontem sitibunda properet
+anima nostra: ad hunc misericordiae cumulum tota
+sollicitudine miseria nostra recurrat. Ecce jam
+quibus potuimus votis ascendentem te ad Filium
+deduximus, et prosecuti sumus saltem a longe,
+Virgo benedicta. Sit deinceps pietatis tuae ipsam,
+quam apud Deum gratiam invenisti, notam facere
+mundo; reis veniam, medelam aegris, pusillis corde
+robur, afflictis consolationem, periclitantibus adjutorium
+et liberationem sanctis tuis precibus obtinendo.
+In hac quoque die solemnitatis et laetitiae
+<pb n="0430B"/>
+dulcissimum Mariae nomen cum laude invocantibus
+servulis per te, regina clemens, gratiae suae munera
+largiatur Jesus Christus Filius tuus Dominus noster,
+qui est super omnia Deus benedictus in saecula.
+Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

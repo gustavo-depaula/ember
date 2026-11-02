@@ -1,0 +1,480 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In festo S. Michaelis</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InFeSMi</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De angelorum erga nos officiis, et nostra erga ipsos reverentia</hi> [alias, <hi>de triplici causa, qua pro nobis solliciti sunt angeli</hi> ].</head>
+
+<pb n="0447C"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Angelorum hodie memoria celebratur, et exigitis
+debitum pro tanta solemnitate sermonem. Sed
+quid de angelicis spiritibus viles loquantur vermiculi?
+Credimus sane, et indubitata fide tenemus,
+divina eos praesentia et visione beatos sine fine laetari
+in bonis Domini, quae oculus non vidit, nec auris
+audivit, nec in cor hominis ascenderunt. Quid ergo
+de his homo loquatur hominibus, quae nec ipse quidem
+cogitare, nec illi saltem audire sufficiant? Profecto
+si ex abundantia cordis os loquitur, sileat
+nihilominus lingua necesse est ex inopia cogitationis.
+<pb n="0447D"/>
+Attamen si multum est ad nos loqui de ea claritate
+et gloria, qua in semetipsis, imo in Deo suo angeli
+sancti nostris omnino supereminent cordibus; de
+ea loquamur, quam nobis exhibent, gratia et charitate.
+In supernis enim spiritibus non solum admirabilis
+dignitas, sed et dignatio amabilis invenitur.
+Dignum est proinde, fratres, ut gloriam non capientes,
+tanto magis amplectamur misericordiam, qua
+nimirum constat nihilominus abundare domesticos
+Dei, coeli cives, principes paradisi. Testatur denique
+Apostolus ipse, qui raptus usque ad tertium coelum,
+beatae illi curiae meruit interesse, atque ejus nosse
+secreta, quoniam <hi>omnes administratorii sunt spiritus,
+missi in ministerium propter eos, aui haereditatem
+capiunt salutis <note>(Hebr. I, 14)</note>
+            </hi>.
+<pb n="0448C"/>
+</p>
+        </div3>
+<div3>
+          <head>2. </head>
+          <p>
+Neque id cuiquam incredibile videatur; quandoquidem
+ipse quoque Creator et rex angelorum
+venit, non ministrari, sed ministrare, et animam
+suam dare pro multis <hi>
+              <note>(Matth. XX, 28)</note>
+            </hi>. Utquid ergo
+ministerium illud angelorum quispiam dedignetur,
+in quo praecedit eos, cui in excelsis tota cum aviditate
+et felicitate ministrant? Si et hinc dubitas, utique
+qui vidit, testimonium perhibuit: <hi>Millia,</hi> inquiens, <hi>millium ministrabant ei, et decies centena millia assistebant
+ei 
+ <note>(Dan. VII, 10)</note>
+            </hi>. Alius quoque propheta ad
+Patrem de Filio loquens, ait: <hi>Minuisti eum paulo
+minus ab angelis <note>(Psal. VIII, 6)</note>
+            </hi>. Sic plane, sic decet
+ut vincat et humilitate. qui sublimitate vincebat;
+sitque tanto minor angelis, quanto inferiori sese
+ministerio mancipavit: qui tanto excellentior est,
+<pb n="0448D"/>
+quanto differentius prae eis nomen haereditavit. Sed
+quaeras fortasse, in quo minoratus videatur ab angelis,
+cum <B>1020</B> ministrare venit; quandoquidem,
+ut supra meminimus, in ministerium mittuntur et
+illi. In eo utique quod non modo ministravit, sed et
+ministratus est, eratque unus et idem qui ministrabat,
+et qui ministrabatur. Merito proinde sponsa in
+Canticis canticorum: <hi>Ecce,</hi> inquit, <hi>venit is saliens
+in montibus, transiliens colles <note>(Cant. II, 8)</note>
+            </hi>. Ministrans
+enim saliit inter angelos: sed et ipsos transiliit
+ministratus. Ministrant enim angeli, sed de alieno,
+offerentes Deo bona opera, non sua, sed nostra,
+ac nobis ejus gratiam referentes. Unde et Scriptura dicens: <hi>Quoniam ascendit fumus aromatum in conspectu
+Domini de manu angeli,</hi> 
+ sollicite praemisit <hi>data ei</hi> 
+<pb n="0449A"/>
+fuisse <hi>incensa multa <note>(Apoc. VIII, 4, 3)</note>
+            </hi>. Nostros enim
+sudores, non suos; nostras, non suas lacrymas offerunt
+Deo: nobis quoque ejus munera referunt, et non sua.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Non sic minister ille sublimior cunctis, sed et
+humilior universis, qui semetipsum obtulit sacrificium
+laudis, qui Patri offerens animam suam, nobis
+ministrat usque hodie carnem suam. Hujus utique
+tanti ministri gratia nihil mirum, si dignanter nobis,
+imo et libenter angeli sancti ministrent. Ipsi enim
+amant nos, quia nos Christus amavit. Dicitur certe
+vulgari quodam proverbio: Qui me amat, amat et
+canem meam. Nos vero, o beati angeli, catelli sumus
+Domini illius, quem tanto affectu diligitis; catelli,
+inquam, cupientes saturari de micis, quae cadunt
+de mensa dominorum nostrorum, qui estis vos.
+<pb n="0449B"/>
+Et haec dixerim, fratres, ut ampliorem de caetero erga
+beatos angelos fiduciam habeatis, ac proinde
+familiarius in omni necessitate vestra eorum invocetis
+auxilia; sed et dignius in eorum praesentia
+conversari, et magis ac magis eorum vobis conciliare
+gratiam, captare benevolentiam, exorare clementiam
+studeatis. Cujus rei gratia necessarium
+duco alias quoque charitati vestrae exponere causas,
+quae et ipsae beatos angelos pro nostra infirmitate
+reddant sollicitos; absque sua sane anxietate, sed
+non absque utilitate nostra; nec ad detrimentum
+felicitatis suae, sed ad nostrae salutis augmentum.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Constat sine dubio, rationis participes et capaces
+beatitudinis humanas animas angelicae, si dicere
+id audeamus, cognatas esse naturae: nec decet
+<pb n="0449C"/>
+vos, o beati spiritus, contra legis praeceptum dedignari,
+quam visitare debetis, speciem vestram, licet
+in multam, ut ipsi cernitis, dejecta sit vilitatem.
+Sed neque arbitramur vos, superni cives, civitatis
+vestrae excidio delectari, et ruina murorum, quos
+semirutos esse ipsi videtis. Cujus instaurationem si
+desideratis, ut dignum est; frequenter, quaeso, ante
+thronum gloriae verbum precis iterate, dicentes: <hi>Benigne fac, Domine, in bona voluntate tua Sion, ut
+aedificentur muri Jerusalem 
+ <note>(Psal. L, 20)</note>
+            </hi>. Si diligitis
+decorem domus Dei, imo quia vere diligitis;
+experiantur zelum vestrum vivi et rationales lapides,
+qui soli in instaurationem ejus vobis possunt
+coaedificari. Hic est, dilectissimi, funiculus triplex,
+<pb n="0449D"/>
+quo de excelso coelorum habitaculo ad consolandos,
+ad visitandos, ad adjuvandos nos attrahitur supereminens
+charitas angelorum, propter Deum, propter
+nos, propter se ipsos. Propter Deum utique, cujus
+tanta erga nos misericordiae viscera ipsi quoque, ut
+dignum est, imitantur. Propter nos, in quibus nimirum
+propriam similitudinem miserantur. Propter
+se ipsos, quorum ordines instaurandos ex nobis toto
+desiderio praestolantur. In ore enim parvulorum qui
+lacte modo vescuntur, et nondum solido cibo, perficienda
+est laus illa majestatis divinae, cujus habentes
+primitias angelici spiritus, beata nimirum delectatione
+fruuntur: sed tanto avidius nos exspectant,
+quanto consummationis ejus exspectatione et
+expetitione sollicitantur.
+<pb n="0450A"/>
+</p>
+        </div3>
+<div3>
+          <head>5. </head>
+          <p>
+Quae cum ita sint, pensate, quanta etiam nobis
+sollicitudine opus est, dilectissimi, ut dignos nos
+exhibeamus eorum frequentia, et eo modo conversemur
+in conspectu angelorum, ne forte sanctos
+offendamus obtutus. Vae enim nobis, si quando
+provocati <B>1021</B> peccatis et negligentiis nostris,
+indignos nos judicaverint praesentia et visitatione
+sua, ut jam necesse habeamus et nos plangere, et
+dicere cum Propheta: <hi>Amici mei et proximi mei adversum
+me appropinquaverunt, et steterunt; et qui
+juxta me erant, de longe steterunt, et vim faciebant
+qui quaerebant animam meam <note>(Psal. XXXVII, 12, 13)</note>
+            </hi>;
+elongatis nimirum eis, quorum praesentia protegere
+nos, et propulsare poterat inimicum. Quod si tam
+necessariam habemus familiaritatem dignationis
+<pb n="0450B"/>
+angelicae, cavenda nobis eorum offensa, et in his
+maxime exercendum, quibus eos novimus oblectari.
+Sunt enim plurima quae eis placent, et quae in nobis
+invenire delectat: ut est sobrietas, castitas, paupertas
+voluntaria, crebri in coelum gemitus, et orationem
+cum lacrymis, et cordis intentione. Attamen
+super omnia haec unitatem et pacem a nobis exigunt
+angeli pacis. Quidni maxime delectentur in his, quae
+formam quamdam civitatis suae repraesentant in nobis,
+ut mirentur Jerusalem novam in terra? Dico autem,
+ut quomodo civitatis illius participatio est in
+idipsum <hi>
+              <note>(Psal. CXXI, 3)</note>
+            </hi>, sic et nos idipsum sentiamus,
+idipsum dicamus omnes, et non sint in nobis
+schismata; sed magis omnes simul unum corpus
+simus in Christo, singuli autem alter alterius membra.
+</p>
+        </div3>
+<div3>
+          <head>6. </head>
+<p>
+            <pb n="0450C"/>E contra vero nihil aeque offendit, et ad indignationem
+provocat eos, quomodo dissensiones et
+scandala, si forte inveniantur in nobis. Audiamus
+siquidem, quid loquatur ad Corinthios Paulus. <hi>Cum
+enim sit inter vos zelus et contentio, nonne carnales
+estis, et secundum hominem ambulatis? <note>(I Cor. III, 3.)</note>
+            </hi> 
+In Epistola quoque Judae apostoli legimus sic: <hi>Hi
+sunt qui segregant semetipsos, animales, Spiritum
+non habentes <note>(Judae 19)</note>
+            </hi>. Videre est animam hominis
+quemadmodum universa corporis membra vivificet
+cohaerentia sibi. Separa ergo quodvis a junctura
+caeterorum, et vide an de caetero illud vivificet. Sic
+est omnis qui dicit anathema Jesu <hi>
+              <note>(I Cor. XII, 3)</note>
+            </hi>:
+<pb n="0450D"/>
+quod nemo dicit loquens in Spiritu Dei, quia anathema
+separatio est. Sic est, inquam, omnis qui ab
+unitate dividitur, nec dubites quin ab eo recesserit
+spiritus vitae. Digne igitur contentiosos, et qui separant
+semetipsos, apostoli carnales vocant et animales,
+Spiritum non habentes. Dicunt ergo sancti
+illi et beati spiritus, ubi scandala invenerint et dissensiones:
+Quid nobis et generationi huic Spiritum
+non habenti? Nam si adesset Spiritus, per eum
+utique charitas diffunderetur, et unitas non scinderetur.
+Et dicunt: Non permanemus cum hominibus
+istis in aeternum, quia caro sunt. Quae enim
+conventio luci ad tenebras? Nos de regno unitatis
+et pacis sumus, et honines istos in eamdem unitatem
+et pacem sperabamus esse venturos. Nunc
+<pb n="0451A"/>
+autem qua ratione nobis cohaereant, qui dissident
+a se ipsis? Videtis quam congruat huic solemnitati
+evangelica lectio, quae sic deterret nos a scandalo
+parvulorum, quandoquidem tam vehementer angelis
+displicent scandala. <hi>Qui scandalizaverit unum de
+pusillis istis <note>(Matth. XVIII, 6)</note>
+            </hi>: durum est quod sequitur.
+Sed jam praeterit hora, ad missas nobis eundum
+est. Peto ne sit vobis molesta dilatio, quae
+poterit non inutilis fore, si capitulum praesens
+sermone altero diligentius prosequamur.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II. <hi>In illud, « Qui scandalizaverit unum de pusillis istis, qui in me credunt, » </hi> etc. <hi>
+            <note>(Matth. XVIII, 6-9)</note>
+          </hi>.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Audistis, fratres, evangelicam lectionem adversus
+eos, qui pusillos scandalizant, satis terribiliter
+<pb n="0451B"/>
+intonantem. Nemini blanditur Veritas, neminem
+palpat, nullum seducit, aperte denuntians quoniam <hi>vae homini illi, per quem scandalum venit. Bonum
+erat ei, si natus non fuisset homo ille 
+ <note>(Matth. XXVI,
+24)</note>
+            </hi>. Natus sane denuo, natus ad vitam, natus de
+Spiritu, qui nimirum carne postmodum consummatur.
+Expedit ei, si quis est, qui scandala suscitat
+in hac domo, in hac sancta, Deo placita, et angelis
+ejus admodum grata <B>1022</B> ac familiari congregatione,
+ut suspendatur in collo ejus mola asinaria,
+et pro suavi jugo et levi onere Salvatoris, gravi
+mole terrenae cupiditatis humeris ejus imposita, demergatur
+in profundum maris hujus magni et spatiosi
+manibus, quod est sine dubio saeculum nequam.
+Minus enim damnabile erat ei in saeculo magis perire,
+<pb n="0451C"/>
+quam in monasterio. Perire siquidem necesse
+est hominem, qui charitatem non habet, etiamsi
+tradiderit corpus suum ita ut ardeat. Et hoc dixerim,
+fratres, non quasi minus bene de vobis sentiam,
+aut regnare videatur in vobis nequissimum istud
+vitium; sed ut in ea charitate et unanimitate, et
+pace in qua statis in Domino, solliciti sitis perseverare,
+et abundare magis. Quae est enim spes nostra,
+et gaudium nostrum, et corona gloriae? Nonne
+unitas et unanimitas vestra, in qua gaudeo vos inveniri
+fraternitatis amatores, et ante omnia mutuam
+in vobismetipsis charitatem habentes, quod est vinculum
+perfectionis? Propter quod obsecro vos, sic
+state in Domino, charissimi. In hoc enim cognoscunt
+<pb n="0451D"/>
+omnes, etiam angeli sancti, quod Christi estis discipuli,
+si dilectionem habueritis ad invicem.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Denique si tenetis memoria, quam vobis praecedenti
+sermone tradidimus triplicem angelicae erga
+nos charitatis et sollicitudinis causam, potest hinc
+quoque fraternae dilectionis utilitas magnifice commendari.
+Facile siquidem considerare est homini,
+qui non diligit proximum, nullam ex his, quas tunc
+diximus, suppetere causam. Nunquid enim Christi
+gratia diligemur ab angelis, si de mutuae dilectionis
+inopia cognoverint, nequaquam ejus nos esse discipulos?
+Nunquid diligemur ab eis propter nos
+ipsos, id est spiritualis naturae similitudinem [ <hi>alias.</hi> 
+similitudine], si invenimur non diligere humanae
+naturae nostrae consortes: imo vero si ex eis quae
+<pb n="0452A"/>
+inter nos sunt contentionibus, carnales nos magis,
+quam spirituales esse constiterit? Denique nunquid
+diligent nos propter se ipsos, et futuram de nobis
+civitatis suae restaurationem, si, quod absit! unum
+illud, quo solo uniri et coaedificari eis possumus,
+defuerit glutinum charitatis? Quomodo sperabunt
+reaedificandos de nobis perpetuos civitatis illius muros,
+si cognoverint, si viderint nos, non lapides esse
+vivos, qui possint invicem cohaerere; sed magis
+pulverem, quem projiciat ventus a facie terrae, quem
+unius verbi flatus in turbinem excitet, et suspicionis
+cujuslibet levissima aura dispergat? Et haec
+quidem dixisse sufficiat pro eo quod ait Dominus: <hi>Si quis scandalizaverit unum de pusillis istis.</hi> 
+ Credo
+enim quod majori sollicitudine deinceps ab hac tam
+<pb n="0452B"/>
+nequissima peste cavebitis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Jam vero quem non moveat quod sequitur in
+Evangelio: <hi>Si oculus tuus scandalizat te, erue eum?</hi> 
+Nunquid enim corporalem hunc oculum monemur
+eruere, aut unam ex manibus istis, similiter et
+unum abscindere pedem? Absit a nobis hujusmodi
+carnalis omnino, et nimis ridiculosa cogitatio! Imo
+vero postquam ab exterioribus scandalis deterruit
+nos sermo divinus aspere satis, sicut audistis, consilium
+dat quid de eo nobis agendum sit scandalo,
+quod interius patimur, contrariam invenientes legem
+in membris nostris. Ipse enim novit figmentum nostrum,
+quod ejusmodi scandalum non tam facile a
+nobis valeat evitari. Porro tripliciter fieri scandalum
+istud, quotidiano nobis nosse licet experimento.
+<pb n="0452C"/>
+Interdum enim est in nobis spiritualis intentionis
+oculus simplex, et qui gratiae magis quam noster
+dicendus sit: sed scandalizat nos oculus noster, et
+qui vere a nobis est, dum voluntas nostra aliam
+minus castam importune ingerit intentionem. Sed
+habemus jam super hoc salubre consilium Salvatoris: <hi>Erue eum,</hi> 
+ inquit, <hi>et projice abs te.</hi> Hoc autem
+fiet, si non consentias, si abjicias si resistas. Simili
+modo de manu ac pede est intelligendum. Cum enim
+bonis operibus intentos, ad alia opera trahere voluntas
+propria conatur, manus nostra est quae scandalizat
+nos; sed abscindi debet et projici a nobis,
+ut non ei consentiamus. <B>1023</B>
+</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sic etiam proficere in sancta conversatione,
+<pb n="0452D"/>
+et ascendere per gradus scalae quae Jacob
+apparuit, ac juxta quod ait Psalmista, de virtute in
+virtutem ire <hi>
+              <note>(Psal. LXXXIII, 8)</note>
+            </hi> desiderantes, saepius
+scandalum patimur a pede quodam pusillanimitatis
+et negligentiae nostrae, qui nimirum descendere
+magis ac remissius ire conatur; sed abscindi eum
+necesse est, ut pes gratiae, qui stat in directo, currere
+possit sine offensione, sine scandalo, sine impedimento.
+Quod autem dicit: <hi>Bonum</hi> nobis esse <hi>ad
+vitam intrare cum uno oculo, aut manu, aut pede,
+quam duos habentes ire in gehennam ignis:</hi> eos notat
+qui voluntatem suam, sive bona, sive mala sit, aeque
+sequuntur, et ingrediuntur duabus viis, nunc bona,
+nunc mala sectantes, secundum quod variantur desideria
+sua. Quibus merito utilius fuerat gratiae in
+<pb n="0453A"/>
+omnibus inhaerere, et ubi obviat propria voluntas,
+abscindere et a se ipsis abjicere eam. Est autem
+cum multo tempore in abscissione propriae voluntatis
+nostrae exercitati aliquatenus eam domamus, ut
+discat jam non superbire, sed magis sine omni scandalo
+vel contradictione Deo subjecta sit anima nostra;
+nec jam abjicere necesse sit oculum nostrum,
+nempe qui simplici adhaerens oculo factus est et
+ipse simplex, aut certe jam non alter est oculus,
+sed unus cum eo, Apostolo teste: quoniam <hi>qui
+<pb n="0454A"/>
+adhaeret Domino, unus spiritus est cum eo <note>(I Cor. VI.
+17)</note>
+            </hi>. Quod autem de oculo dictum est, de manu
+quoque et pede eodem modo est intelligendum. Cujus
+enim voluntas ex affectione et cum desiderio
+gratiae cohaeret, ut nec concupiscat mala agere, nec
+bona minora, nec minus bene, quam gratia suggerit;
+hic plane perfectus est vir. Sed pax ista potius est
+felicitatis: abscissio vero scandalorum, et dentationum
+victoria, fortitudinis: illa, inquam, gloriae, haec
+virtutis.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

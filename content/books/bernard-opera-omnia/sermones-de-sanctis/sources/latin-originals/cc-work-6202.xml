@@ -1,0 +1,393 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In obitu D. Humberti</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InObDHu</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In obitu D. Humberti</head>
+<p>
+          <pb n="0513B"/>Humbertus famulus Domini mortuus est, devotus
+famulus, servus fidelis. Ipsi vidistis, quomodo
+nocte praeterita inter manus nostras exspiravit,
+tanquam unus ex vermiculis terrae. Per hoc triduum
+fatigavit eum mors, et demolita est intra fauces
+suas, ut satiaretur sanguine quem sitivit. Eia, fecit
+quod potuit; occidit carnem, et ecce recondita est
+in corde terrae. Separavit a nobis dulcem amicum,
+prudentem consiliarium, auxiliarum fortem. Nec
+mihi, nec vobis pepercit insatiabilis homicida, mihi
+autem minus. Siccine separas, amara mors? O
+bestia crudelis! o amaritudo amarissima! o terror
+[ <hi>alias,</hi> fetor] et horror filiorum Adam! quid
+fecisti? Occidisti. Sed quid? Carnem utique solam:
+animae enim non habes quid facias. Volat ad Creatorem
+<pb n="0513C"/>
+suum, quem tam ardenter concupierat, tam
+fortiter secuta fuerat omnibus diebus vitae suae. Sed <emph>1067</emph> 
+ et ipsum corpus quod videris habere, auferetur
+a te, cum tu novissima inimica destrueris, et
+absorberis in victoria. Reddes utique, reddes aliquando
+corpus istud, quod ad signum adventus tui
+tantis hesterna die sputis et exsecrationibus, ac
+multiplici sordium squalore repleveras, laetabunda
+et laudans, quia et hunc tuis laqueis irretisses.
+Veniet Unigenitus Patris cum potestate magna et
+majestate Humbertum quaerere, et illud idem cadaverosum
+corpus configurare corpori claritatis suae.
+Tu autem quid? Profecto, quod in Jeremia scriptum
+est, in novissimo dierum stulta remanebis <hi>(Jerem.
+<pb n="0513D"/>
+XVII, 11)</hi>, et Humberto in aeternum vivente, tu in
+perpetuum morieris. Evomuit prophetam marina
+bestia, quem deglutierat <note>(Jonae II, 11)</note>: et tu Humbertum
+<pb n="0514B"/>
+reddes, quem videris tuo vastissimo ventre
+conclusisse.</p>
+<div3>
+          <head>2.</head>
+          <p>
+ De caetero, fratres, factitium vobis sermonem
+in omni forma sanctitatis iste Dei servus exhibuit,
+quem et longum fecit et magnum. Longum,
+quantum ad longinquitatem viae [ <hi>alias,</hi> vitae]; magnum,
+quantum ad vitae sublimitatem. Non oportet
+me amplius aperire os meum, si bene retinuistis
+sermonem ejus, si vestris illum cordibus impressistis.
+Quinquaginta annos, et eo amplius, vixit in
+servitio illius, cui servire regnare est, quia puerilibus
+annis locatus est in sanctuario Dei. Nobiscum
+triginta annis ab ipso pene principio monasterii
+hujus conversatus est, non solum sine querela, sed
+et cum gratia: cujus ex hoc memoria in benedictione
+<pb n="0514C"/>
+erit nobis, et generationi quae ventura est.
+Sicut advena et peregrinus pertransiit viam et vitam
+istam, quantum minus potuit de mundi rebus accipiens,
+utpote sciens quia non erat de hoc mundo.
+Non habebat hic manentem civitatem, sicut nec
+patres sui; sed in anteriora extentus, sequebatur ad
+palmam supernae vocationis. Nihil habet mundus,
+quod jure clamet in eo, vel de eo; quia nec mundus
+ei placuit, nec ipse mundo. Quantum parcius potuit,
+de substantia ejus accepit; et minus accepisset, si
+non obedientia coegisset. Victum et vestitum habens,
+his contentus fuit, non ad superfluitatem, sed
+ad necessitatem: nisi quod ipsam quoque necessitatem,
+superfluitatem esse saepius causabatur. Ante
+<pb n="0514D"/>
+hos paucos dies, si bene memini, dum colloqueremur
+ad invicem, dicebat se monasterii hujus praebendarium
+esse, et tanquam nullius utilitatis hominem
+<pb n="0515A"/>
+pasci in domo Dei. Erat enim vere mitis, et
+humilis corde: et cum caeteris floreret virtutibus,
+gratiam tamen mansuetudinis specialiter obtinebat.
+Ideo sese amabilem et affabilem omnibus exhibebat,
+sicut erat amabilis valde.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Verumtamen in his omnibus quam circumcisum
+fuerit os ejus et lingua, omnes vos plenissimo
+cognovistis, qui tandiu vidistis ejus conversationem,
+et sermonem ejus audistis. Quis unquam ex ore ejus
+sonum detractionis, verbum scurrilitatis, sermonem
+gloriae, invidiae vocem audivit? Quis eum vel alios
+judicantem, vel judicanti consentientem aliquando
+deprehendit? Quis eum loquentem inania audire
+potuit? imo quis non ab eo timuit, si talia forte
+loqueretur, audiri? Nimirum sollicite custodiebat
+<pb n="0515B"/>
+vias suas, ut non delinqueret in lingua sua; sciens
+quia qui in verbo non offendit, hic perfectus est vir <note>(Jac. III, 2)</note>.
+Longe a te, Humberte, vae illud evangelicum: <hi>Vae vobis qui nunc ridetis, quia flebitis <note>(Luc. VI, 25)</note>
+          </hi>.
+Nunquid aliquis vestrum eum ridentem,
+etiam inter multos ridentes, invenit? Serenabat
+quidem vultum suum assidentium gratia, ne
+fieret onerosus; sed risum integrum, si bene recolitis,
+non admisit. Porro quanti fervoris in opere Dei
+diebus et noctibus fuerit, non solum vidistis, sed
+etiam admirati estis usque ad diem mortis suae.
+Cum enim fere jam ad decrepitam pervenisset
+aetatem, praeter incommoda senectutis, <emph>1068</emph> etiam
+tot et tantis infirmitatibus, quas multi vestrum non
+<pb n="0515C"/>
+ignorant, lassatus atque quassatus; erat tamen, ut
+dicitur, animus victor annorum, et cedere nescius
+infirmitati. Denique in frigoribus et caloribus per
+montes et valles ascendens et descendens, juvenum
+laborem prosequebatur, ita ut admirationi esset
+omnibus et stupori. Si eum quandoque propter
+multitudinem negotiorum consilii gratia retinuissem,
+tristis perseverabat et nubilus, donec vestro consortio
+redderetur. Rarissime unquam solemnibus
+vigiliis, quas tamen non raro anticipabat, rarissime
+caeteris horis psallentium choro inventus est defuisse:
+nec nisi ea necessitate, ut ex instanti responsum
+mortis habens, infirmitas sequeretur.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Porro in refectorio vix communibus utens cibis,
+si quid forte aliud apponeretur, aut non accipiebat,
+<pb n="0515D"/>
+aut tam moleste accipiebat, ut super hoc
+universitatem nostram saepius molestaret. Decreverat
+aquam bibere semper, si non totis viribus restitissem.
+Vinum si quandoque bibere cogeretur, erat
+vinum colore potius quam sapore, adeo illud aquis
+nimis obruebat. Vix unquam obedientia compellente
+infirmitorium introivit; vix, cum intrasset, teneri
+potuit. Fateor. minus obediens in hac parte, quod
+auctoritatis suae mole me premeret. Laudo eum, in
+hoc non laudo; quia, sicut vos scitis, non parum
+in hujusmodi perstitit obstinatus. Credo quia si
+<pb n="0516A"/>
+quid triste sensit, propter hoc sensit, quod nobis
+minus consensit de necessitate corporis sui. Sed
+qualis erat in consiliis? Purus utique et discretus:
+quod ego tanto melius novi, quanto saepius tetigi
+pectus ejus. Non solus autem novi hoc; novit et
+universitas vestra. Quis denique multitudine vel
+magnitudine tentationum percussus, non audivit ab
+ore ejus et radicem tentationis, et curationis remedium?
+Ita enim percurrebat omnes angulos conscientiae
+infirmantis, ut credere posset qui confitebatur,
+eum vidisse omnia, omnibus interfuisse.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Quantae autem charitatis erat? Sic se induerat
+viscera pietatis, ut omnes excusaret, pro omnibus
+intercederet, nescientibus illis pro quibus loquebatur;
+non personarum acceptor, sed necessitatum.
+<pb n="0516B"/>
+Erat ergo humilis corde, dulcis sermone, strenuus
+opere, fervens charitate, in commisso fidelis, in
+consilio circumspectus et prudens. Compositus erat
+super omnes homines, quos viderim in diebus istis;
+unus et idem perseverans omni tempore, et omni
+hora. Plane in semitis Domini Jesu posuit vestigia,
+nec retraxit pedem, donec cursum itineris consummaret.
+Ille fuit pauper, pauper et iste fuit. Vixit
+ille in laboribus, et hic in laboribus multis. Crucifixus
+est ille, et iste multis et magnis crucibus affixus,
+stigmata Domini Jesu tulit in corpore suo,
+adimplens ea quae deerant passionum Christi etiam
+in carne sua. Resurrexit ille, et iste resurget. Ille
+ascendit in coelum, et iste creditur ascensurus.
+<pb n="0516C"/>
+Ascensurus plane, cum rex gloriae propter nos descendet,
+sicut prius ascenderat, ut notam faciat
+potentiam suam: cum non minoris excellentiae sit
+descendere per aera, quam per aerem ascendisse.
+Sic enim olim angeli praedixerunt; quia <hi>hic Jesus
+qui assumptus est a nobis in coelum, sic veniet, quemadmodum
+vidistis eum euntem in coelum <note>(Act. I,
+11)</note>
+          </hi>. Ne laudaveris hominem in vita sua, dicit Scriptura <note>(Eccli. XI, 30)</note>,
+pro eo quod non est secura
+laudatio nisi post mortem. Hoc et ego in eo studiose
+servavi, qui dum adviveret, in hujusmodi non aperui
+os meum; ne forte possemus vel ego adulationis
+notam, vel ille culpam incurrere vanitatis. Ex hoc
+sane neutrum jam timetur; nec ego eum video, et
+ille forsitan me non audit. Sed etsi audiat, non movetur
+<pb n="0516D"/>
+hominum verbis, fortius inhaerens atque felicius
+Verbo Dei. Nihil proficiet inimicus <emph>1069</emph> 
+in eo, et vanitatis suggestor non apponet nocere ei.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Ecce jam coram te est, Pater dulcissime, fons
+ille puritatis, quem tanto ardore animi sitiebas:
+ecce immersus es in illam divinae pietatis abyssum,
+cujus memoriam abundantiae suavitatis tam devote
+eructare solebas. Quis enim tam devotus praedicator
+pietatis divinae, quis humanae puritatis commendator
+tam studiosus, quis utriusque rei tam affectuosus
+amator erat? aut cui aliquando quinque verba locutus
+<pb n="0517A"/>
+es, in quibus non vera puritas resonaret, in
+quibus non sancta Dei pietas audiretur? Non ergo
+super te doleo, cui desiderium animae tuae tribuit
+Deus: mihi potius ademptum doleo fidele consilium,
+auxilium grande, virum unanimem, hominem secundum
+cor meum. In me haec omnia mala reciderunt.
+In me transierunt irae tuae, Domine Jesu, et terrores
+tui conturbaverunt me. Elongasti a me amicum et
+proximum, et notos meos a miseria extrahens, me
+in miseriis reliquisti. Abstulisti mihi germanos
+carne, germaniores spiritu, et in tuis negotiis, et in
+saecularibus secundum te sapientes. Sustulisti hinc
+alios atque alios, qui onus meum portabant, onus
+grande, quod mihi imposuisti. Unus mihi et prope
+solus Humbertus supererat e tantis necessariis meis,
+<pb n="0517B"/>
+eo suavior amicus, quo antiquior: et hunc tulisti,
+quoniam tuus erat. Ego, ego solus ad verbera relinquor,
+ego morior in singulis, et omnes fluctus tuos
+induxisti super me. Utinam quem flagellas, occidas
+semel, et non miserum hominem tot et tantis mortibus
+serves! Verumtamen non contradico sermonibus
+sancti; sed qui coepit, ipse me conterat: et
+haec mihi consolatio sit, quod affligens dolore, non
+parcat. Ego in flagella paratus sum, si forte pius
+Pater in beneficia flagella commutet. Unde et verba
+mea non murmure plena sunt, sed dolore. Non ploro
+Humbertum: neque enim ille plorandus est, qui
+vocatus est ad mensam divitis; sed super me et
+super vos ploro, super domum istam, super caeteros
+fratres nostros, qui omnes ab ejus ore consilium
+<pb n="0517C"/>
+exspectabant. Sic et Salvator crucem suam, tanquam
+latro suum laqueum, portans, cum mulieres,
+quae eum a Galilaea secutae fuerant, super se lamentantes
+respiceret, conversus ad eas dixit: <hi>Filiae
+Jerusalem, nolite flere super me, sed super vos ipsas
+flete, et super filios vestros <note>(Luc. XXIII, 28)</note>
+          </hi>. <hi>Etenim
+ea quae de me sunt, finem habent <note>(Luc. XXII, 37)</note>
+          </hi>. Quae
+videtis mihi praeparari, temporalia sunt; quae non
+videtis, aeterna. Si temporalia sunt, transitoria
+sunt; si transitoria sunt, et mortalia sunt: et transeundi
+vel moriendi argumentum hoc solum est,
+quia videri possunt. Temporalia fuerunt quae in
+Humberti morte conspeximus: sed jam obtinet
+gaudium et laetitiam in perpetuas aeternitates.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Non est ergo lugendus nobis, cui nec luctus,
+<pb n="0518A"/>
+nec dolor est. Sed nec pro nobis, quibus ille sublatus
+est, murmurandum: magis gratias agamus,
+quod tandiu concessus est nobis. Siquidem, ut ego
+arbitror, decennium jam decursum est, quod non
+vixit nisi nobis, et pro nobis: atque hic timor
+meus est, ne ideo translatus sit, quia non eramus
+jam digni consortio illius. Quis scit tamen si idcirco
+sublatus fuerit, ut nos suis intercessionibus protegat
+apud Patrem? Utinam ita sit! Si enim tantae charitatis
+erat dum esset nobiscum, ut omnia quae ad
+corpoream necessitatem spectant, libentius mihi
+quam sibi cederet; quanto magis nunc, cum illi
+summae charitati, quae Deus est, inhaeret, majorem
+habet in me gratiam et charitatem? Sed forsitan
+nunc de me et de conversatione mea plenius novit
+<pb n="0518B"/>
+veritatem; nec compatitur, ut solebat, sed, ut vereor,
+indignatur. Quod si etiam propter peccata
+nostra abstulit eum Deus, utinam idem ipse obtineat,
+ut nobis hoc ipsum misericorditer relaxetur,
+ne poenam super poenam sustineamus! <emph>1070</emph>
+</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ De reliquo, fratres, dico vobis, si sequeremini
+vestigia ejus, non tam facile in vanis cogitationibus
+et otiosis sermonibus, in jocis et scurrilitatibus
+laberemini; quia in his multum perditis
+et de vita vestra, et de tempore vestro. Volat irrevocabile
+tempus; et dum creditis vos cavere poenam
+istam minimam, incurritis ampliorem. Illud
+enim scitote, quia post hanc vitam in purgabilibus
+locis centupliciter, quae fuerint hic neglecta, reddentur
+usque ad novissimum quadrantem. Scio ego
+<pb n="0518C"/>
+quia durum est homini dissoluto apprehendere disciplinam,
+verboso silentium pati, vagari solito
+stabilem permanere; sed durius, et multo durius
+erit, futuras illas molestias tolerare. Et homo iste
+qui hic sepultus est, multa in principio, sicut ipse
+cognovi, super hujusmodi tentamenta sustinuit, sed
+cum multo luctamine pugnavit et vicit: et sicut
+tunc ei durum erat pugnam in tentationibus sustinere,
+sic ei modo durius esset ad illas ineptias revolare,
+quia bona consuetudo venerat in naturam.
+Exercete vos in doctrina ista, et attendite formam
+illam, quam vidistis in eo et audistis: ut ad eum
+perveniatis, ad quem ipse pervenit, qui est Deus
+benedictus in saecula. Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

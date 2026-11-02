@@ -1,0 +1,740 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In festo S. Martini</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InFeSMa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In festo S. Martini</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0489C"/>Puto, sermonem a nobis expetit tam vester iste
+conventus, quam adventus, harum honorabilium
+personarum, quas de longinquo gratulamur adesse.
+Sane audirem eos ipse libentius: sed quoniam eligunt,
+imo et exigunt magis ut loquar, mihi si non
+licet audire eos, eis necesse est obaudire. Et quidem
+vivus est nobis sermo tam multa mansuetudo eorum,
+qua videlicet meritis sanctiores, dignitate superiores,
+sapientia locupletiores, non modo ad visitandos,
+sed etiam ad audiendos nos dignati sunt declinare.
+Efficax eruditio, et omni digna acceptione doctrina.
+Siquidem non verbo et lingua, sed opere et veritate
+nos admonent imitatores suos esse, sicut ipsi sunt
+Christi; et discere quod ab ipso utique didicerunt,
+mites esse, et humiles corde. Sic Maria Elisabeth
+<pb n="0489D"/>
+petiit <note>(Luc. I, 39, 40)</note>, conjugatam virgo, ancillam
+domina; praecursoris matrem, judicis mater; Dei
+Genitrix, servuli genitricem. Sic postmodum Jesus
+etiam ipse Joannem adiit, et adiit baptizandus, utpote
+quem decebat implere omnem justitiam <note>(Matth.
+III, 13, 15)</note>. Vos quoque, reverendi Patres, deteriorem
+vobis non facitis partem vestram [ <hi>alias,</hi> deteriorem
+nobis facitis partem nostram]: ad audiendum
+quippe quam ad loquendum velociores, etiam
+inter ipsos qui vestro magis eguerant documento.
+Nam nos quidem, quia omnem non possumus implere
+justitiam, vel nonnullam vobis exhibere curamus,
+justum esse non ignorantes inferiorem superioribus
+obedire.</p>
+        </div3>
+<pb n="0490C"/>
+
+<div3>
+          <head>2. </head>
+          <p>
+Sed unde loquemur? <hi>Qui de terra est, de terra
+loquitur,</hi> ait vox illa clamantis <note>(Joan. III, 31)</note>. De
+terra ergo loquamur, quia de terra subsistimus, et
+in terra. Audite, quique terrigenae et filii hominum:
+vobis dicimus, et de vobis. In terra orimur, in terra
+moramur, in terra morimur, revertentes in eam
+unde sumus assumpti. Hic nobis angustus introitus,
+mora brevis, sola mors certa. Cogitur totus Adam
+judicium portare quod meruit. Dilatatus est vehementer,
+multiplicatus est, et replevit terram. Attamen
+velit, nolit, quantumcunque recalcitret, universus
+adhuc fert sententiam quam excepit: <hi>Terra</hi> 
+inquit, <hi>es, et in terram ibis <note>(Gen. III, 19)</note>
+          </hi>. Gravis
+equidem sententia, sed non sine grandis misericordiae
+temperamento. Dura admodum, sed si merita
+<pb n="0490D"/>
+penses, indulgentiae plena. Siquidem non minus
+juste peccanti diceretur: Terra es, sed ex hoc sub
+terram ibis. Justus foret etiam tunc justus Dominus,
+et laudabilis nimis. Dignus plane qui laudaretur,
+sed non ego idoneus qui laudarem. Alioquin tunc
+quoque nihilominus vere dicerem, si tamen dicere
+possem: <hi>Justus es, Domine, et rectum judicium
+tuum <note>(Psal. CXVIII, 137)</note>
+          </hi>. At non infernus confitebitur
+tibi, neque mors laudabit te; sed nos qui
+vivimus, benedicimus Domino. Pepercisti ergo creaturae
+tuae, pepercisti gloriae nominis tui, ut descendentem
+de Jerusalem, minime tamen usque in Jericho
+patereris abduci. Semivivus adhuc relictus in
+via semilaudare possum <note>(Luc. X, 30)</note>: ubi totus
+<pb n="0491A"/>
+vixero, ibi totus erumpam in laudem, et <hi>dicent
+omnia ossa mea: Domine, quis similis tibi <note>(Psal.
+XXXIV, 10)</note>
+          </hi>? Propter hoc nempe cum iratus fuisses,
+misericordiae meministi, non damnans hominem in
+loco perditionis, sed in loco afflictionis humilians.
+Quid causaris, homo? quid sententiam quereris
+duriorem? Terrae addictus es, factus e terra, ut
+ipsa tibi sit patria, quae materia fuit.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Sed audire, inquies, velim: Quia spiritus es,
+et ad spiritum ibis. Siquidem etiam spiritus sum,
+quod ad animam pertinet; nec portionem hanc mei
+dubitaverim potiorem. Audivi sane ab Apostolo,
+quia <hi>Dominus spiritus est <note>(II Cor. III, 17)</note>
+          </hi>, et ab
+ipso Domino, quia <hi>spiritus est Deus <note>(Joan. IV, 24)</note>
+          </hi>.
+Nec modo spiritus, sed et spirituum Pater. Utquid
+<pb n="0491B"/>
+ergo tenet me mater carnis, quia caro ex parte; <emph>1050</emph> 
+ spirituum Pater non recipit, cum ex parte
+sim spiritus? Scio, scio, agit hoc non tam substantia
+ipsa, quam culpa. Sicut enim peccatores spiritus
+inter coelum et terram ventosum hoc medium tenent,
+unde et potestates hujus aeris nominantur <note>(Ephes.
+II, 2)</note>; sic peccata nostra inter nos et Deum separant,
+inter Creatorem Patremque spirituum, et spiritualem
+utique creaturam. Traxit animam corpus in regionem
+suam, et ecce praevalens opprimit peregrinam.
+Factum est nempe talentum plumbi, non
+aliunde tamen, nisi quia sedet iniquitas super illud.
+Corpus enim aggravat animam, sed utique quod
+corrumpitur <note>(Sap. IX, 15)</note>; corrumpitur autem, imo
+<pb n="0491C"/>
+etiam, Apostolo teste, <hi>mortuum est propter peccatum <note>(Rom. VIII, 10)</note>
+          </hi>.
+Itaque licet quodam modo coelum
+sit homo, coelestibus sine dubio spiritibus similis,
+simul et forma; substantia quidem quoniam spiritualis,
+forma vero quia rationalis est: minime tamen
+jam levare eum duo ista sufficiunt, ut mereatur
+audire: Quia coelum es, et in coelum ibis. Frustra
+glorietur de libertate arbitrii, quae in mente est:
+captivus ducitur in legem peccati, quae in carne est.
+Nam etsi forsitan videretur duplex funiculus posse
+alteri aeque duplici praevalere, ut videlicet quem sibi
+terra gemino quodam jure tanquam patria pariter
+et materia vindicat, ob geminam nihilominus, quae
+praedicta est, substantiae scilicet et formae similitudinem,
+coelum quoque recipiat ut coelestem: sed
+<pb n="0491D"/>
+jam triplicatus inferior ille et deorsum trahens peccato
+equidem accedente funiculus, nisi illinc quoque
+occurrerit gratia, non rumpetur. Sane ubi illa adfuerit,
+haud dubium quin solvatur facile gravis
+iste quo trahimur, imo quem trahimus, funiculus
+iniquitatis. Haec enim inter nos et Deum non separans
+intervenit, sed reparans et conjungens.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Itaque ibo mihi ad montem gratiae, et colles
+miserationum, quarum thesauros omnes repositos
+audio penes Christum. Ibo ad eum qui est plenus
+gratiae et veritatis, si forte accipiam aliquid
+de plenitudine illa, imo si forte accipiar in plenitudinem
+illam: ut cum caeteris aliquando membris
+occurram in mensuram aetatis plenitudinis Christi.
+Nemo quippe ascendit in coelum, nisi qui descendit
+<pb n="0492A"/>
+de coelo <note>(Joan. III, 13)</note>. Fidelissimus plane et benignissimus
+mediator, qui quidem non discrevit, sed
+fecit utraque unum, medium parietem maceriae solvens <note>(Ephes. II, 14)</note>,
+donans nobis omnia delicta,
+delens quod adversum nos erat chirographum decreti,
+quod erat contrarium nobis, et ipsum tulit de
+medio, affigens illud cruci; exspolians principatus et
+potestates, traduxit confidenter, palam triumphans
+illos <note>(Coloss. II, 13-15)</note>, pacificansque per sanguinem
+suum quae sunt in coelo, et quae super terram <note>(Coloss. I, 20)</note>.
+Propter hanc nempe salutem, quam
+in medio terrae erat operaturus, non confestim sub
+terra posuit hominem, sicut peccando meruerat;
+sed in terra. Siquidem respirandum est nobis, et
+nullatenus desperandum, donec in terra adhuc interim
+<pb n="0492B"/>
+constituti, et suspicere coelum possumus, et
+suscipere data optima et dona perfecta desursum a
+Patre luminum, a Patre spirituum, a Patre misericordiarum.
+Nam et propterea rectum fecit hominem,
+etiam corpore ipso, et os homini sublime
+dedit, cum prona utique spectent animantia caetera
+terram: ut attollens ad sidera vultus illo suspiret,
+ubi tam beatam et perennem conspicit mansionem.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Nonne enim pie et fideliter intuentibus nobis
+vehementissimum quoddam incentivum amoris, et
+provocatio flagrantissimi desiderii est visio ipsa tam
+lucidissimae regionis? Non sunt stellae coeli similes
+glebis terrae. Inter splendorem solis, et caliginem
+soli hujus, non parva distantia est. Forte tamen hic
+<pb n="0492C"/>
+quoque nonulla, sed in suo genere pulchra videntur:
+et haec ipsa undique mista non pulchris, ut aurum
+in luto, gemma in sterquilinio, lilium inter spinas.
+Tota pulchra es, patria mea, et macula non est in
+te: tota pulchra es, absque eo quod intrinsecus
+latet. Quid illud? Nempe illi beati angelici spiritus,
+et animae ipsae sanctorum, quae jam ingredi meruerunt
+in locum tabernaculi admirabilis usque ad domum
+Dei. Sicut enim <emph>1051</emph> sunt corpora terrestria,
+sunt et corpora coelestia; longe vero alia est
+coelestium gloria, quam terrestrium: sic sunt coelestes
+spiritus et terrestres, nec minor sane distantia
+inter eos: Angeli, archangeli, virtutes, principatus,
+potestates, dominationes, throni, cherubin
+atque Seraphin. Bene nomina novi. Forte hoc totum
+<pb n="0492D"/>
+est. Quid enim amplius capiam terrigena de coelestibus,
+carnalis homo de spiritualibus et divinis? Verumtamen
+etsi ignoro quid lateat in his tantis appellationibus,
+illud equidem certissime novi, quod
+magum et mirabile aliquid sub hac tanta verborum
+majestate clausum sit et signatum. Non sine causa
+coelum hoc dicitur: plane eximium nescio quid celatur
+in eo. Celatur, inquam, sed tamen non negatur
+fidei usquequaque. Videre enim nobis datur in
+terra ipsam exteriorem coeli pulchritudinem, non
+adire; internam quoque gloriam secretorum ejus,
+etsi non comprehendero, onceditur vel audire. Videmus
+patriam, sed a longe salutamus; odoramur
+illas delicias, non gustamus.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Enimvero non sine causa Unigenitus, qui est
+<pb n="0493A"/>
+in sinu Patris, ipse nobis in regione hac umbrae
+mortis, quam inhabitamus, coelestium gloriam spirituum
+sane per fidem enarrat, corporum vero per
+speciem manifestat. <hi>Audi,</hi> inquit, <hi>filia et vide.</hi> Et
+factum est. Quorsum ista? <hi>Inclina,</hi> ait, <hi>aurem tuam,
+et obliviscere populum tuum, et domum patris tui <note>(Psal. XLIV, 11)</note>
+          </hi>.
+Vult nos ponere contumaciam, discere
+obedientiam, apprehendere disciplinam. Vult
+etiam nos oblivisci posteriora, despicere inferiora,
+terrenos mores et vitia genuina [ <hi>alias,</hi> vitiata germina]
+deserere, coelestia sapere, superna quaerere,
+anterioribus inhiare. Vult et illum tantum decorem
+domus suae ingenuam concupiscere creaturam, quo
+scilicet in eamdem imaginem transformetur de claritate
+in claritatem, tanquam a Domini Spiritu; ac
+<pb n="0493B"/>
+proinde concupiscat etiam rex decorem illius, utique
+spiritualem. Sed in quo visus ille, inquies, vel auditus
+inclinare me aurem, et obaudire monet? Nam
+quod desiderium pariat, manifestum est.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Sane ergo considera universam hanc coelestium
+gloriam corporum incessanter legibus obtemperare
+divinis, nec unquam sibi positas in tam continuis
+motibus metas excedere temporum, aut locorum
+terminos transgredi constitutos. Sed et ipsos spiritus
+tam sublimes audi omnes administratorios esse, et
+in ministerium mitti dignantissimum, ut ne indignum
+dicam: minime tamen, puto, reperies in
+Scripturis aliquando quemquam illorum vel contradixisse
+mittenti, vel erga ipsos tam inferiores se,
+propter quos in ministerium mittebantur, saltem
+<pb n="0493C"/>
+tenuiter fuisse commotum. Exempla sunt obedientiae,
+si diligenter attendas, eo sane acceptabiliora,
+quo in materia digniori. Sed novi quid ad ista submurmuret
+sensus hominis, et cogitatio prona semper
+ad malum. Quid tu mihi, inquit, elementorum proponis
+obedientiam supernorum? Quasi vero aut sensus
+ullus in eis, aut ulla vigeat deliberatio rationis,
+et non potius agi ipsa, quam agere videantur. Quid
+vero vel ipsorum angelorum obedientiam sic commendas?
+Sentiunt quidem angeli, sed delectabilia
+sola; obedientes equidem Creatori, sed tam felici
+quam facili voluntate. Quidni obediant? Semper
+enim vident faciem Patris, quem videre perfecta
+beatitudo, aeterna gloria, summa voluptas est.
+<pb n="0493D"/>
+</p>
+        </div3>
+<div3>
+          <head>8. </head>
+          <p>
+Produc nobis, Domine, patriarchas et prophetas,
+viros obedientes praeceptis tuis, obedientes ex
+voluntate, obedientes contra propriam voluntatem.
+Factum est. Exhibetur nobis, ut caeteros brevitatis
+causa praeteream, exhibetur, inquam, nobis Abraham
+ad praeceptum Domini exiens de terra sua,
+ejiciens ancillam et filium ejus, etiam charissimum
+filium Isaac immolare paratus. Quid hic humana
+astutia poterit cavillari? Forte respondeat, quoniam
+multifarie, multisque modis apparens ei Deus, suscipiebatur
+hospitio, participabat convivio, animabat
+alloquio, instruebat consilio, donabat filiis, illustrabat
+victoriis, <emph>1052</emph> divitiis cumulabat. Quid
+dices, cum venerit Christus factus obediens Patri
+usque ad mortem, mortem autem crucis? Multum,
+<pb n="0494A"/>
+inquit, per omnem modum. Quando enim Unigenitum
+Dei Patris, Dei virtutem, et Dei sapientiam
+Christum, quando praesumerem aemulari? Oblatus
+est quia ipse voluit, quando et quantum voluit passus
+est, utpote verus quidem homo, sed verus nihilominus
+Deus. Imo vero ne ipsam apostolicam obedientiam
+afferas velim; quos nimirum juxta propheticam
+promissionem oculis suis vidisse constat praeceptorem
+suum, et auribus suis vocem audisse monentis <note>(Isai. XXX, 20, 21)</note>.
+Unde et unus eorum expressius
+scribens ait: <hi>Quod audivimus, quod vidimus
+oculis nostris, quod perspeximus, et manus nostrae tractaverunt
+de Verbo vitae <note>(Joan. I, 1)</note>
+          </hi>. Quidni relinquerent
+omnia? quidni ad omnia sequerentur tantae praesentiam
+majestatis? Quid ego non facerem, si mihi eadem
+<pb n="0494B"/>
+copia praestaretur? Sed non fecit taliter omni
+nationi, non praeunti utique, non sequenti. Siquidem
+ut multi reges optaverunt videre, et non viderunt; sic
+nihilominus venerunt jam dies, quando desideremus
+videre diem unum Filii hominis, nec tamen mereamur.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Opportune ergo jam Martinus ad medium veniat,
+ut de medio fiat occasio peccatorum. Hodie
+enim ille per omnia similis nobis, plane et sensibilis,
+et passibilis; sed et longe post illa patriarchalium
+et propheticarum tempora visionum, et homo purus,
+nihil de natura divinitatis habens, credens autem in
+eum quem non vidit; plenus fructu obedientiae, et
+virtutum locuples, solum deseruit, polum subiit,
+terrae commendans quod habebat e terra; spiritum
+dirigens ad Patrem spirituum, cui fideliter in adoptionis
+<pb n="0494C"/>
+spiritu deservivit. Non fuit coeleste corpus,
+sed nec spiritus quidem coeletis: rationale animal,
+etiam et mortale, terrigena, filius hominis. In terra
+natus est, in terra educatus, in terra exercitatus et
+probatus, in terra etiam consummatus. Nec vero
+patriarcha erat, aut unus ex prophetis, de quibus
+sane in Evangelio Veritas ait: <hi>Quia Lex et Prophetae
+usque ad Joannem <note>(Matth. XI, 13)</note>
+          </hi>. Multo magnis non
+erat ipse Christus; sed erat tamen Christus in ipso,
+haud aliter utique quam per fidem.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Enimvero juxta hunc modum etiam modo <hi>prope est verbum in corde tuo et in ore tuo 
+ <note>(Deut.
+XXX, 14)</note>
+          </hi>, tantum si recto quaesieris corde. Nempe
+Apostolo interpretante <hi>verbum fidei</hi> istud est <hi>(Rom.
+<pb n="0494D"/>
+X, 8)</hi>, de quo Moyses ait. Unde et alibi idem apostolus: <hi>Jesus Christus,</hi> 
+ inquit, <hi>heri, et hodie, et in aeternum <note>(Hebr. XIII, 8)</note>
+          </hi>.
+Hesternum quidem ab initio
+saeculi usque ad ascensionem Dominicam; hodiernum
+vero diem exinde usque ad saeculi consummationem;
+porro in aeternum intellige post communem
+omnium resurrectionem. Nulli horum deest Christus,
+nulli deest Jesus; nulli deest unctio, nulli salus.
+Patriarchis et prophetis in visione exhibitus est,
+apostolis in humanitate, Martino in fide, angelis jam
+in specie. Quam sane speciem et electis omnibus
+ostensurum sese promisit, no quidem hodie, sed in
+aeternum. Denique jam transierat heri, jam istud
+nostrum illuxerat hodiernum cum Apostoli loquerentur: <hi>Etsi congnovimus Christum secundum carnem,
+<pb n="0495A"/>
+sed nunc jam non novimus 
+ <note>(II Cor. V, 16)</note>
+          </hi>. Videtur
+tamen etiam in hoc mane de carnibus Agni nonnihil
+esse servatum: sed quod residuum est, utique jam
+datur igni; quod videlicet usque hodie eadem caro nobis,
+sed spiritualiter utique, non carnaliter exhibeatur.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Neque enim est quod causemur nostro huic
+negatam tempori, sive eam quae ad patres veteris
+Testamenti facta est apparitionem sive eam quae
+apostolis exhibita est praesentiam carnis ejus. Siquidem
+fideliter considerantibus neutram deesse liquebit.
+Adest enim nobis etiam nunc carnis ipsius vera
+substantia, haud dubium sane quin in sacramento.
+Adsunt revelationes, sed in spiritu et virtute ut
+tempori gratiae, quod nunc est, nihil in ulla gratia
+deesse probetur. Denique nec oculus vidit, nec auris
+<pb n="0495B"/>
+audivit, nec in cor hominis ascendit quae praeparavit
+Deus diligentibus se, nobis tamen revelavit per Spiritum <emph>1053</emph> 
+ suum. Nec mireris quod carnales eis
+manifestationes exhibuit, qui carnalem ejus praestolabantur
+adventum. Nobis enim tanto efficacior
+gratia et revelatio dignior necessaria est, quanto
+nimirum excellentiora constat esse quae exspectamus.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Itaque, ut supra diximus, Martinus iste Christus
+non fuit, sed tamen Christum habuit: non quomodo
+angeli in praesentia majestatis; non quomodo
+apostoli in visionem humanitatis; non quomodo olim
+locutus est in visionem sanctis suis: sed quomodo
+eum etiam nunc habet Ecclesia, in fide et sacramentis. <hi>Non erat ille lux 
+ <note>(Joan. I, 8)</note>
+          </hi>, sed <hi>lucerna</hi> plane <hi>ardens
+<pb n="0495C"/>
+et lucens <note>(Joan. V, 35)</note>
+          </hi>, de Joanne dictum est.
+Sed si illum protulero, puto, dicitis: Maximus hominum
+est, plus quam propheta est, etiam angelus
+est Dei Patris, sicut ipse testatur: <hi>Ecce mitto angelum
+meum <note>(Luc. VII, 27)</note>
+          </hi>, etc. Et Martinus lucerna
+erat ardens et lucens: eum saltem non pigeat imitari;
+sed imitari in eo quod est imitabile, non autem
+quod mirabile exhibetur. <hi>Ad mensam divitis sedes</hi> 
+hodie; <hi>diligenter considera quae tibi apponuntur.</hi> 
+Discerne inter cibos, et vasa ciborum. Illos enim
+juberis tollere, sed non illa. Dives est iste Martinus;
+dives in meritis, dives in miraculis, dives in virtutibus,
+dives in signis. Diligenter ergo considera quae
+apponuntur tibi; quaenam videlicet ad admirationem,
+quae vero ad imitationem. Aut certe quia sequitur
+<pb n="0495D"/>
+in Scriptura illa, <hi>quoniam talia oportet te praeparare <note>(Prov. XXIII, 1, 2, juxta LXX)</note>
+          </hi>;
+diligenter considera
+quid apponitur, et in quo. Suscitavit Martinus tres
+mortuos, quot nimirum Salvatorem legerat suscitasse.
+Reddidit visum caecis, surdis auditum, mutis
+loquelam, claudis gressum, aridis sospitatem. Evasit
+divina virtute pericula, proprii corporis obice flammas
+repulit, immanem sacrilegae machinae molem
+columna parili e coelo descendente prostravit, leprosum
+mundavit osculo, curavit oleo paralyticum, daemones
+vicit, angelos vidit, futura praevidit.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Verum haec quidem, caeteraque ejusmodi altissima
+quae fecit magnalia, quidni mirifica quaedam
+vasa dixerim divitis hujus, auro gravia, gemmis micantia,
+pariterque materia et opere pretiosa? Noli
+<pb n="0496A"/>
+in his saporem quaerere, sed mirare splendorem.
+Luceat in hujusmodi lucerna nostra, ut in lumine
+ejus videamus lumen, quod quidem purum, prout
+in se est, necdum praevales intueri. Non enim est
+iste lux, sed ut testimonium perhibeat de lumine;
+et appareat tibi interim gloriosus Deus in sancto
+suo, dum non potes ad gloriam ejus, sicut est in se
+ipso. Caeterum ne putaveris ornatas quidem Martini
+lampades, sed vacuas inveniri: non est fatua virgo,
+habet in vasis oleum. Habet vinum in phialis, habet
+intra paropsides istas ciborum copiam, delicias utique
+spirituales: ut non modo videant et mirentur, sed
+edant pauperes, et saturentur; atque in illis quidem
+Dominum laudent, porro in his vivant corda eorum.
+Alioquin quomodo mortui laudabunt te, Domine? Ut
+<pb n="0496B"/>
+ergo sit jucunda decoraque laudatio in admiratione,
+etiam vivant ex imitatione; et, ut avidius sumant
+delicias, ipsas quoque divitias curiosius contemplentur.
+Sic nimirum inter splendorem et fervorem
+lucernae hujus vicariis quibusdam affectibus discurrendum,
+ut nobis alter ex altero commendetur, et ex
+mutua collatione uterque complacitior fiat. Siquidem
+humilis fuit et spiritu pauper iste Martinus, sicut evidentissime
+probat effectus ipse divinae gratiae, quam
+profecto tam multam nisi multum humili non dedisset.</p>
+        </div3>
+<div3>
+          <head>14.</head>
+          <p>
+ Ut tamen pauca virtutum ejus indicia promam,
+pauperem illum spiritu beatus novit Hilarius, cum
+imponere ei diaconatus officium tentans, nec praevalens,
+quod indignum sese vociferaretur, exorcistam
+<pb n="0496C"/>
+eum esse praecepit: in quo quidam locus injuriae
+videretur, sciens nimirum quod humiliorem ordinationem
+minime repudiaret. Pauper fuit, veste sordidus,
+crine incultus, facie despicabilis: quae quidem
+licet in electione ejus a quibusdam malevolis objecta
+fuissent, <emph>1054</emph> in ipso tamen episcopatu, sicut
+scriptum est, penitus non mutavit <note>(SULPIT. De vita
+Mart., cap. 7)</note>. Denique quia vere pauper fuit spiritu
+Martinus, pauper et modicus meruit nominari. Audi
+vero mansuetudinem ejus, suo illo Sulpitio sic scribente:
+ « Tantam adversus omnes injurias patientiam
+assumpserat ut cum esset summus sacerdos, impune
+etiam ab infimis clericis laederetur: nec propter in
+eos aut loco unquam amoverit, aut a sua, quantum
+in ipso fuit, charitate repulerit <note>(ID. Dial. III, cap. 20)</note>: » 
+<pb n="0496D"/>
+quod quidem in Briccio manifeste probatum, omnes
+vos arbitror meminisse. Eum nempe ex omnibus
+sibi successorem elegit, et de tanta post futura adversitate
+praemonuit: postremo in fide et levitate
+ipsius sanctum fecit illum, ad cujus os aures suae
+fuerant, cum responderet homini, qui de eo sciscitabatur:
+Si illum delirum quaeris, prospice eminus;
+ecce coelum solito sicut amens respicit. Crebro
+siquidem homo Dei, utpote terram despiciens, coelum
+suspiciebat. Nempe sciebat ad hoc sese (ut supra
+meminimus) rectam et in ipso corpore accepisse
+staturam. Sciebat illic esse thesaurum suum, sciebat
+illic sedere in Patris dextera Christum suum, sciebat
+nunquam sese, donec illuc perveniret, quod desiderabat
+assecuturum. Unde et hoc ipsum, quod delirus
+<pb n="0497A"/>
+vocabatur in terra merito non attendit, cujus nimirum
+conversatio esset in coelis, cujus oculi in capite
+suo. Sane illuc etiam lacrymae ejus a maxilla ascendere
+consueverant, quibus sic abundabat, ut soleret
+pro illorum quoque, qui obtrectatores sui videbantur,
+flere peccatis.</p>
+        </div3>
+<div3>
+          <head>15.</head>
+          <p>
+ Sane quantum justitiam esurierit, tum in
+caeteris ejus actibus, tum specialiter in idololatriae
+persecutione probatum est, in templorum destructione,
+in statuarum dejectione, in succisione lucorum.
+Ubi se quoque aliquando non est veritus dare
+discrimini, ut occasio tanti criminis de medio tolleretur.
+Nam misericordem eum in paupere se expertem
+Salvator ipse apud angelos gloriabatur, datam
+sibi medietatem vestis ostentans. Utinam nobis etiam
+<pb n="0497B"/>
+miseris apud summum judicem, in cujus admirabile
+tabernaculum introivit, misericordiam illam exhibere
+dignetur; qua et illos olim morti destinatos, et tormentis
+variis deputatos eripuit pro quibus ante terreni judicis
+januam nocte media scribitur jacuisse. Quomodo enim
+non audiet eum nunc, qui tunc quoque fecit audiri?
+Porro munditiam cordis ejus illud vel maxime indicat,
+quod non est confusus inimico loquens in porta:  « Nihil
+in me, funeste, reperies; Abrahae me sinus recipiet. » 
+Nam in opere pacificorum feliciter plane consummans
+labores suos, licet dierum suorum finem non
+ignoraret, clericos tamen adiit dissidentes, inter
+quos reformata pace, in pace ipse quievit.</p>
+        </div3>
+<div3>
+          <head>16.</head>
+          <p>
+ Caeterum-persecutiones, quas sustinuit propter
+<pb n="0497C"/>
+justitiam, longum est numerare, quomodo apud
+Julianum Augustum in civitate Wangionum intrepidus,
+imo et illato terrore constatior, custodiae
+mancipatus est, ut inermis postero die barbaris
+opponeretur; quomodo circa Alpes sub securi,
+quam in verticem ejus latro vibrabat, securissimus
+fuit; quomodo illum Mediolani Auxentius Arianus
+graviter insectatus, multisque appetitum injuriis,
+tandem de civitate exturbavit; quomodo et alibi
+prius adversus sacerdotum perfidiam acerrime pugnans,
+suppliciis fuit affectus, publice virgis caesus,
+inde quoque exire compulsus est; quomodo item in
+cujusdam fani eversione, cum gentilis eum stricto
+gladio peteret, nudam cervicem praebuit percussuro,
+donec ille extollens ad ictum dexteram, cecidit resupinus;
+<pb n="0497D"/>
+quomodo alter eum cultro ferire voluit,
+sed ferrum de manibus ejus elapsum, repente disparuit.
+Pro quibus omnibus dubium non est multipliciter
+coronari eum, qui quidem etsi non semel
+effectu consummatae passionis, sed toties martyr fuit
+affectu devotissimae voluntatis. Comedite jam, amici,
+et bibite; et inebramini, charissimi. Sic enim vivitur,
+et in talibus vita spiritus vestri. Nisi forte beatos
+praedicat sermo divinus, qui mortuos <emph>1055</emph> suscitant,
+caecos illuminant, morbidos sanant, leprosos
+mundant, paralyticos curant, daemonibus imperant,
+futura praenuntiant, miraculis coruscant; et non
+magis pauperes spiritu, mites, lugentes, esurientes
+et sitientes justitiam, misericordes, mundicordes, pacificos,
+<pb n="0498A"/>
+persecutionem propter justitiam sustinentes.</p>
+        </div3>
+<div3>
+          <head>17.</head>
+          <p>
+ Ignoscite mihi, fratres: exemplum obedientiae
+paulo minus praeterivi, quod quidem vel solum
+juxta propositum ordinem in Martino quoque nobis
+convenit exhiberi. Sane moram facimus, sed, ut arbitror,
+bonum nos hic esse: tardius enim hodie venimus
+ad Martinum. « Domine, inquit, si adhuc populo
+tuo sum necessarius, non recuso laborem, fiat
+voluntas tua. »  O vere sanctissimam animam!
+o inaestimabilem charitatem! o obedientiam singularem!
+Bonum certamen certasti, cursum consummasti,
+fidem servasti; de reliquo superest tibi corona
+justitiae, quam reddet tibi Dominus hodie justus
+judex; et adhuc dicis: Non recuso laborem,
+fiat voluntas tua! Obtulisti plane Isaac; unicum
+<pb n="0498B"/>
+illum quem diligis, quod in te est, jugulasti; immolasti
+singulare gaudium tuum pia devotione, paratus
+redire iterum in pericula, innovare certamina, denuo
+subire laborem, sustinere tribulationem, prolongare
+tentationem, deinde differri adhuc ab illa tanta felicitate,
+et diu desiderata societate spirituum beatorum,
+atque in hujus mortalitatis aerumnas ab ipso
+introitu gloriae revocari; postremo, quod maximum
+est, a Christo tuo peregrinari diutius, si modo ipse
+voluisset. Nec sane dubium quin ampliorem gratiam
+mereatur, qui paratum se exhibeat etiam ante
+mandatum quam qui obedire satagit post mandatum.
+Magna quidem obedientia vestra, angeli sancti; sed,
+quod dicere audeam pace vestra, nescio an inveniatur
+<pb n="0498C"/>
+in vobis quisquam paratus in tale aliquando ministerium
+mitti, in quo necesse habeat non videre faciem
+Patris. Magnum est, Petre, quod Dominum secuturus,
+omnia reliquisti; sed audivi te in monte dicentem,
+ubi transfiguratus est coram vobis: <hi>Domine, bonum
+est nos hic esse; faciamus hic tria tabernacula <note>(Matth.
+XVII, 4)</note>
+          </hi>. Non est hoc,  « Si adhuc populo tuo sum
+necessarius, non recuso laborem. »  Paratum cor tuum,
+Martine, paratum cor tuum, sive manere in
+corpore, sivi dissolvi et esse cum Christo.</p>
+        </div3>
+<div3>
+          <head>18.</head>
+          <p>
+ Et magna quidem in horrenda morte securitas;
+magna in visione Christi desideranda, et tam
+ferventer ac singulariter desideranda perfectio reperitur:
+sed id quidem longe amplius per omnem
+modum, quod qui mori non metuis, imo qui tanto
+<pb n="0498D"/>
+desiderio praesentiam Domini concupiscis, vivere
+quoque non renuis, et exspectatione molestissima
+fatigari. In quo enim alio non obedire potuerat, qui
+in hoc tanto articulo tam devote clamabat:  « Fiat
+voluntas tua? »  Haec ergo pars nostra sit, fratres, in
+convivio hodierno, hanc nobis obedientiam in mensa
+pauperis, imo jam divitis hujus appositam diligenter
+consideremus, scientes quoniam ipsa est quae a
+nobis exigitur, ipsa quam oportet nos praepara
+re, ut singuli quique dicamus: Quia <hi>paratus sum,
+et non sum turbatus, ut custodiam mandata tua <note>(Psal. CXVIII, 60)</note>
+          </hi>.
+Nec modo semel, aut in parte; sed <hi>paratum cor meum, Deus, paratum cor meum 
+ <note>(Psal.
+LVI, 8.)</note>
+          </hi>; paratum ad utrumque, et in nullo tuae
+<pb n="0499A"/>
+praescribens dispositioni. Forte hoc cupio, et specialiter
+et vehementer: sed ne quidem illud recuso;
+<pb n="0500A"/>
+sicut fuerit voluntas in coelo, sic fiat. Desidero requiem,
+sed non recuso laborem, fiat voluntas tua.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

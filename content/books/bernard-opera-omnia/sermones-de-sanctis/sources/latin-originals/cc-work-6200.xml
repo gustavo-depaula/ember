@@ -1,0 +1,221 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In nativitate SS. Innocentium</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InNaSsI</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO UNICUS. <hi>De quatuor continuis solemnitatibus, scilicet Nativitatis Domini, ac SS. Stephani, Joannis, et Innocentium.</hi> </head>
+
+<pb n="0129C"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Benedictus qui venit in nomine Domini, Deus
+Dominus, et illuxit nobis <note>(Psal. CXVII, 26, 27)</note>. Benedictum
+<pb n="0129D"/>
+nomen gloriae ejus, quod est sanctum <note>(Dan.
+III, 52)</note>. Neque enim otiose venit quod ex Maria
+natum est Sanctum: sed copiose diffundit et nomen
+et gratiam sanctitatis. Nimirum inde Stephanus
+sanctus, inde Joannes sanctus, inde sancti etiam
+Innocentes. Utili proinde dispositione [ <hi>alias</hi> dispensatione]
+triplex ista solemnitas Natale Domimi
+comitatur: ut non modo inter continuas solemnitates
+devotio continua perseveret, sed et fructus Dominicae
+Nativitatis exinde nobis velut ex quadam
+prosecutione evidentius innotescat. Siquidem advertere
+est in his tribus solemnitatibus triplicem
+quamdam speciem sanctitatis; nec facile praeter
+haec tria sanctorum genera, quartum aliud posse
+arbitror in hominibus reperiri. Habemus in beato
+<pb n="0130C"/>
+Stephano martyrii simul et opus et voluntatem:
+habemus solam voluntatem in beato Joanne; solum
+in beatis Innocentibus opus. Biberunt omnes hi calicem
+salutaris, aut corpore simul et spiritu, aut
+solo spiritu, aut corpore solo. <hi>Calicem quidem
+meum bibetis,</hi> ait Dominus Jacobo et Joanni <hi>(Matth.
+<pb n="0130D"/>
+XX, 23)</hi>: nec dubium quin de passionis calice
+loqueretur. Demum cum Petro diceret: <hi>Sequere
+me,</hi> evidenter eum ad imitationem suae provocans
+passionis; <hi>conversus ille vidit discipulum, quem diligebat
+Jesus, sequentem,</hi> non tam gressu corporis,
+quam promptae devotionis affectu. Et bibit ergo
+Joannes calicem salutaris, et secutus est Dominum
+sicut Petrus, etsi non omni modo sicut Petrus.
+Quod enim sic mansit, ut non etiam passione corporea
+Dominum sequeretur, divini fuit consilii,
+sicut ipse ait: <hi>Sic eum volo manere donec veniam <note>(Joan. XXI, 19-22)</note>
+          </hi>;
+ac si dicat: Vult quidem et ipse
+sequi, sed ego sic eum volo manere.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ An vero de Innocentium coronis quis dubitet?
+Ille pro Christo trucidatos infantes dubitet inter
+<pb n="0131A"/>
+martyres coronari, qui regeneratos in Christo non
+credit inter adoptionis filios numerari. Alioquin
+quando coaevos sibi pueros puer ille qui natus est
+nobis, non contra nos, propter se pateretur occidi,
+quod utique solo nutu poterat prohibere, nisi melius
+aliquid eis provideret? ut, quemadmodum caeteris
+infantibus tunc quidem circumcisio, nunc vero
+baptismus sine ullo propriae voluntatis usu sufficit ad
+salutem, sic nihilominus pro eo susceptum martyrium
+illis sufficeret ad sanctitatem. Si quaeris
+eorum apud Deum merita, ut coronarentur, quaere
+et apud Herodem crimina, ut trucidarentur. An
+forte minor Christi pietas, quam Herodis impietas,
+ut ille quidem potuerit innoxios neci dare, Christus
+non potuerit propter se occisos coronare? Sit ergo
+<pb n="0131B"/>
+Stephanus martyr apud homines, cujus voluntaria
+passio evidenter apparuit in eo vel maxime, quod in
+ipso mortis articulo tam pro persequentibus, quam
+pro se ipso sollicitudinem gereret ampliorem, vinceretque
+in eo sensum corporeae passionis internae
+compassionis affectus; ut illorum magis scelera,
+quam sua vulnera plangeret. Sit Joannes apud angelos <emph>788</emph> 
+ martyr, quibus, tanquam spiritualibus
+creaturis, spiritualia devotionis ejus signa certius
+innotuerunt. Caeterum hi sunt plane martyres tui,
+Deus, ut in quibus nec homo nec angelus meritum
+invenit, singularis tuae praerogativa gratiae evidentius
+commendetur. Ex ore infantium et lactentium
+perfecisti laudem <note>(Psal. VIII, 3)</note>. <hi>Gloria in excelsis
+Deo,</hi> angeli dicunt, <hi>et in terra pax hominibus bonae
+<pb n="0131C"/>
+voluntatis <note>(Luc. II, 14)</note>
+          </hi>. Magna quidem, sed, audeo
+dicere, necdum perfecta laus, donec veniat qui
+dicat: <hi>Sinite parvulos ad me venire, quia talium
+est regnum coelorum <note>(Matth. XIX, 14)</note>
+          </hi>; et pax hominibus,
+etiam sine voluntatis usu in sacramento
+pietatis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Considerent haec qui de opere et voluntate
+contentiosis solent disputationibus corrixari; considerent
+et advertant neutrum negligi oportere, ubi
+<pb n="0132A"/>
+non videtur deesse facultas, praesertim cum utrumque
+sine altero (ubi tamen facultas deest) non modo
+salutem conferre possit, sed etiam sanctitatem. Sed
+et hoc quoque firmiter teneant, prodesse quidem
+opus sine voluntate, non autem [ <hi>alias</hi> tamen] contra
+voluntatem; ut unde salvantur infantes, inde magis
+damnentur ficte accedentes. Nihilominus sane in
+quibusdam voluntas sine opere sufficiens est, non
+autem contra opus. Verbi causa, rapitur quis in
+bona quidem voluntate, sed necdum perfecta, necdum
+idonea martyrium sustinere: quis illi audeat pro
+hac imperfectione negare salutem? Forte enim
+propterea non sinitur in illam gravem tentationem
+venire, ne deficiat et damnetur. Nimirum si in hac
+tam infirma voluntate induceretur in eam, quae
+<pb n="0132B"/>
+supra ipsum est, tentationem, nec voluntas roboraretur;
+quis illum dubitet defecturum, negaturum,
+et, si in eo mori contigerit, etiam periturum? <hi>Qui
+enim erubuerit me coram hominibus, erubescam et
+ego eum,</hi> ait Dominus, <hi>coram angelis Dei <note>(Luc. IX, 26)</note>
+          </hi>.
+In ea igitur imperfecta voluntate, in qua salvatur
+quis, ubi deest facultas operis, jam non salvari
+posset propter defectum operis, vel opus defectionis.
+Idem vero et in ignorantia posset accidere. Aemulemur
+proinde charitatem, et sectemur bona opera,
+fratres mei, nec infirmitatis, nec ignorantiae peccata
+ullo modo parvipendentes. Magis autem solliciti et
+timorati, agamus gratias benignissimo et largissimo
+Salvatori, qui humanae salutis occasiones tam copiosa
+<pb n="0132C"/>
+charitate perquirit, ut in his voluntatem et
+opus, in his sine opere voluntatem, in his etiam
+sine voluntate opus salutis invenire laetetur, qui
+vult omnes homines salvos fieri, et ad agnitionem
+sui venire. Haec est enim vita aeterna, ut cognoscamus
+Patrem verum Deum, et quem misit Jesum
+Christum <note>(Joan. XVII, 3)</note>, qui unus cum eo verus
+est Deus super omnia benedictus in saecula.
+Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,470 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In conversione S. Pauli</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InCoSPa</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>Quomodo ad exemplum ejus converti debemus.</hi> </head>
+
+<pb n="0359D"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Merito quidem, dilectissimi, conversio Doctoris
+gentium ab universitate gentium festivis gaudiis
+hodie celebratur. Multos enim ab hac radice ramos
+prodiisse videmus. Conversus Paulus, conversionis
+minister factus est universo mundo. Et multos quidem
+olim in carne adhuc, sed non jam secundum
+<pb n="0360D"/>
+carnem ambulans, praedicationis officio convertit ad
+Deum; nunc quoque in ipso felicius vivens, et apud
+ipsum, ne adhuc quidem cessat ab hominum conversione:
+dico autem, exemplo, oratione, doctrina.
+Propterea denique conversionis ejus memoria frequentatur,
+quod et ipsa quoque memorantibus utilis
+inveniatur. In hac enim memoria et peccator spem
+veniae concipit, ut provocetur ad poenitentiam; et
+<pb n="0361A"/>
+qui jam poenitet, perfectae conversionis accipit formam.
+Quis desperet ultra pro magnitudine cujuslibet
+criminis, quandoquidem Saulum audiat adhuc
+spirantem minarum et caedis in discipulos Domini,
+subito factum vas electionis? Quis dicat iniquitatis
+pondere pressus: Assurgere jam ad studia meliora
+non valeo; quando in ipso itinere, quo sanguinem
+sitiens Christianum, dirum toto pectore virus efflabat,
+persecutor crudelissimus in fidelissimum repente
+mutatus est praedicatorem? Magnifice siquidem
+in hac una conversione et misericordiae magnitudo,
+et efficacia gratiae commendatur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>Subito,</hi> ait Lucas, <hi>circumfulsit eum lux de coelo <note>(Act. IX, 1-8)</note>
+          </hi>.
+O vere inaestimabilis divinae dignatio
+pietatis! Illustrat coelesti fulgore vel a foris, intus
+<pb n="0361B"/>
+adhuc luminis incapacem: qui necdum infundi poterat,
+divina saltem circumfunditur claritate. <hi>Et vox
+facta est.</hi> Lucis et vocis testimonia credibilia facta
+sunt nimis, nec dubitare est de veritate, quae sese
+ingerit per utrasque, oculorum scilicet auriumque
+fenestras. Sic nimirum, sic in Jordane quoque supra
+caput Domini et columba apparuit, et vox sonuit <note>(Matth. III, 16, 17)</note>:
+sic et in monte, quando transfiguratus
+est coram discipulis, et claritas visa est,
+et vox nihilominus Patris audita <note>(Matth. XVII, 2, 5)</note>: <hi>Saule, Saule, quid me persequeris?</hi> 
+ Vere deprehensus
+est Saulus: non est dissimulandi locus, non est
+facultas ulla negandi. In manibus sunt epistolae crudelissimae
+legationis, auctoritatis exsecrandae, potestatis
+iniquae. <hi>Quid me persequeris?</hi> inquit. Annon
+<pb n="0361C"/>
+persequebatur Christum, qui Christi membra trucidabat
+in terris? An vero persecuti sunt Christum,
+qui sacratissimum illud corpus crucis affixere patibulo,
+et non persequebatur eum qui adversus corpus
+ejus, quod est Ecclesia (est enim corpus ejus etiam
+ipsa), odio furebat iniquo? Denique si proprium
+sanguinem dedit in pretium redemptionis animarum,
+non tibi videtur graviorem ab eo sustinere persecutionem,
+qui suggestione maligna, exemplo pernicioso,
+scandali occasione, avertit ab eo animas
+quas redemit, quam a Judaeo qui sanguinem illum
+fudit?</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Agnoscite, dilectissimi, et expavescite consortia
+eorum qui salutem impediunt animarum. Horrendum
+<pb n="0361D"/>
+penitus sacrilegium, quod et ipsorum videtur
+excedere facinus, qui Domino majestatis manus
+sacrilegas injecerunt. Videbatur jam cessasse persecutionis <emph>956</emph> 
+ tempus; sed, ut palam factum est,
+nunquam deest persecutio Christiano, sed neque
+Christo. Et nunc, quod gravius est, ipsi Christum
+persequuntur, qui ab eo utique Christiani dicuntur.
+Amici tui, Deus, et proximi adversum te appropinquaverunt
+et steterunt. Conjurasse videtur contra
+ae universitas populi Christiani a minimo usque ad
+maximum: a planta pedis usque ad verticem non
+est sanitas ulla: egressa est iniquitas a senioribus
+judicibus, vicariis tuis, qui videntur regere populum
+tuum. Non est jam dicere, <hi>Ut populus, sic sacerdos <note>(Isai. XXIV, 2)</note>
+          </hi>;
+quia nec si populus, ut sacerdos.
+<pb n="0362A"/>
+Heu, heu! Domine Deus, quia ipsi sunt in persecutione
+tua primi, qui videntur in Ecclesia tua primatum
+diligere, gerere principatum! Arcem Sion occupaverunt,
+apprehenderunt munitiones, et universam
+deinceps libere et potestative tradunt incendio civitatem.
+Misera eorum conversatio, plebis tuae miserabilis
+subversio est. Atque utinam sola hac parte
+nocerent! Esset forte qui Dominica praemonitus et
+praemunitus exhortatione, daret operam ipsorum
+non exempla imitari, sed observare praecepta, juxta
+illud: <hi>Quae dicunt facite, et ad opera eorum nolite
+respicere <note>(Matth. XXIII, 3)</note>
+          </hi>. Nunc autem dati sunt
+sacri gradus in occasionem turpis lucri, et quaestum
+aestimant pietatem. Copiosissimae siquidem pietatis
+inveniuntur in suscipienda, imo accipienda magis
+<pb n="0362B"/>
+animarum cura: sed haec apud eos cura minor, et
+de animarum salute novissima cogitatio est. An vero
+Salvatori animarum gravior ulla esse poterat persecutio?
+Inique agunt et caeteri contra Christum, multique
+sunt nostris temporibus antichristi. Merito
+tamen et crudeliorem eam censet persecutionem pro
+acceptis beneficiis, et graviorem sentit pro potestate,
+quam propriis sustinet a ministris; licet alii quoque
+multi contra proximorum salutem multifarie, multisque
+modis et variis occasionibus agere videantur.
+Haec videt Christus, et silet; haec Salvator patitur,
+et dissimulat. Propterea dissimulemus et nos quoque
+necesse est, et sileamus interim, maximeque de
+praelatis nostris, magistris ecclesiarum. Sic nimirum,
+sic placet et ipsis, ut evadant nunc humana judicia,
+<pb n="0362C"/>
+veniatque semel judicium grave his qui praesunt, et
+potentes patiantur tormenta potenter.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Vereor, dilectissimi, ne quis forte sit et in nobis
+Domini persecutor, quia manifesta docuit ratio,
+impedire salutem, esse persequi Salvatorem. Quas
+ego de salute animae meae fratri illi gratias agere
+possum, qui mihi propinat detractionis fraternae venenum?
+Merito detractores Deo odibiles describuntur <note>(Rom. I, 30)</note>,
+tanquam persecutores. Quid et is
+qui exemplo suo ad remissius agendum caeteros provocat,
+aut singularitate turbat, aut inquietat curiositate,
+aut impatientia sua et murmuratione molestat;
+aut quocunque modo contristat Spiritum Dei qui in
+eis est, scandalizans unum de minimis istis credentibus
+<pb n="0362D"/>
+in eum? nonne et hic manifeste persequitur
+Christum? Ut ergo persecutorum et nomen, et crimen
+longe sit semper a nobis, obsecro vos, dilectissimi,
+benignos semper et mites exhibeamus nos,
+invicem supportantes in omni patientia, et ad id
+quod melius et perfectius est, alterutrum provocantes.
+Quis enim servus sufficere sibi putat non
+persequi Dominum, sed nec obsequi Domino? Quam
+habiturus est gratiam, si ut non resistit, sic nec assistit
+quidem? Denique si quis adeo pusillanimis est,
+ut satis sibi reputet nec persecutorem esse, nec
+coadjutorem <emph>957</emph> Dei, audiat quid ipse loquatur: <hi>Qui non est mecum, contra me est; et qui non colligit
+mecum, dispergit 
+ <note>(Matth. XII, 30)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>Saule, Saule, quid me persequeris?</hi> Et ille
+<pb n="0363A"/> <hi>Quis es, Domine?</hi> 
+ Hinc profecto datur intelligi quia
+vere circumfusa erat illi claritas, non infusa. Audiebat
+Paulus vocem Domini, sed faciem Domini
+non videbat; quoniam erudiebatur ad fidem: et ut
+ipse postea docuit, <hi>Fides ex auditu <note>(Rom. X, 17)</note>
+          </hi>.
+Quis es, inquit? Ignotum enim persequebatur, et
+ideo consecutus est misericordiam, quia ignorans
+in incredulitate hoc fecit. Discite ex hoc, fratres,
+justum judicem Deum, non modo quid fiat, sed et
+quo animo fiat, considerare; et cavete deinceps, ne
+quis parva reputet, quamlibet parva scienter delinquere
+convincatur [ <hi>alias,</hi> videatur]. Nemo dicat in
+corde suo: Levia sunt ista, non curo corrigere; non
+est magnum si in his maneam venialibus minimisque
+peccatis. Haec est enim, dilectissimi, impoenitentia,
+<pb n="0363B"/>
+haec blasphemia in Spiritum sanctum, blasphemia
+irremissibilis. Paulus quidem blasphemus
+fuit, sed non in Spiritum sanctum, quia ignorans
+fecit in incredulitate. Non in Spiritum sanctum
+dixit blasphemiam; ideo consecutus est misericordiam.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Quis es, Domine? Et Dominus ad eum: Ego
+sum Jesus Nazarenus, quem tu persequeris.</hi> Ego sum
+Salvator, quem tu persequendo petis. Ego sum, de
+quo tu in lege tua legis praedictum quod nescis impletum: <hi>Quia Nazaraeus vocabitur 
+ <note>(Matth. II, 23)</note>
+          </hi>.
+Et ille: <hi>Domine, quid me vis facere?</hi> Haec plane, fratres,
+perfectae conversionis est forma. <hi>Paratum,</hi> inquit, <hi>cor meum, Deus; paratum cor meum 
+ (Psal.
+<pb n="0363C"/>
+CVII, 2)</hi>. <hi>Paratus sum, et non sum turbatus, ut custodiam
+mandata tua <note>(Psal. CXVIII, 60)</note>
+          </hi>. <hi>Domine, quid
+me vis facere?</hi> O verbum breve, sed plenum, sed
+vivum et efficax, sed dignum omni acceptione! Quam
+pauci inveniuntur in hac perfectae obedientiae forma,
+qui suam ita abjecerint voluntatem, ut ne ipsum
+quidem cor proprium habeant, ut non quid ipsi, sed
+quid Dominus velit, omni hora requirant, dicentes
+sine intermissione, <hi>Domine, quid me vis facere?</hi> et
+illud Samuelis, <hi>Loquere, Domine, quia audit servus
+tuus? <note>(I Reg. III, 10)</note>
+          </hi>. Heu! plures habemus evangelici
+illius caeci, quam novi apostoli imitatores. <hi>Quid
+vis,</hi> ait Dominus ad caecum illum, <hi>ut faciam tibi? <note>(Luc. XVIII, 41)</note>
+          </hi>.
+Quanta est miseratio tua, Domine,
+quanta dignatio tua! Siccine Dominus quaerit, ut
+<pb n="0363D"/>
+servi faciat voluntatem? Vere caecus ille, quia non
+consideravit, non expavit, non exclamavit: Absit
+hoc, Domine, tu magis dic quid me facere velis! Sic
+enim decet, sic omnino dignum est, non meam a
+te, sed a me tuam quaeri et fieri voluntatem. Videtis,
+fratres, quia vere necessaria erat hoc in loco conversio.
+Sic profecto, sic multorum usque hodie pusillanimitas
+et perversitas exigit, ut ab eis quaeri
+oporteat. Quid vis ut faciam tibi? non ipsi quaerant, <hi>Domine, quid me vis facere?</hi> 
+ Considerare necesse habent
+ministri et vicarii Christi, quid sibi praecipi velint:
+non ipsi considerant quae voluntas sit praeceptoris.
+Non est obedientia eorum plena, non in omnibus
+<pb n="0364A"/>
+parati sunt obsequi, non per omnia sequi proposuerunt
+eum, qui non suam, sed Patris venit facere
+voluntatem. Discernunt et dijudicant eligentes in
+quibus obediant imperanti, imo in quibus praeceptorem
+suum ipsorum obedire necesse sit voluntati.
+Hujusmodi itaque, etsi tolerari se videant, et condescendi
+ac morem geri infirmitati suae, proficiant,
+obsecro, pudeatque semper parvulos inveniri, ne
+quando forte audiant. Quid debui vobis facere, et
+non feci? et abutentibus patientia et benignitate
+praelati, fiat tandem multitudo exhibitae miserationis
+cumulus justae damnationis.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Domine, quid me vis facere? Et Dominus ad
+illum: Surge, et ingredere civitatem; ibi dicetur tibi
+quid te oporteat facere.</hi> O Sapientia suaviter vere
+<pb n="0364B"/>
+universa disponens! Eum cui tu loqueris, erudiendum
+de voluntate tua mittis ad hominem, ut socialis vitae
+commendetur utilitas; et edoctus per hominem discat
+et ipse secundum datam sibi gratiam hominibus
+subvenire. <emph>958</emph> <hi>Ingredere civitatem.</hi> Videtis, fratres,
+non sine divino consilio factum esse, ut hanc
+civitatem Domini virtutum ingrederemini, divinam
+discere voluntatem. Plane qui te salubriter terruit,
+et convertit cor tuum ad desiderandam voluntatem
+suam, ipse tibi dixit: <hi>Surge, et ingredere civitatem.</hi> 
+Sed audi quam manifeste in his quae sequuntur voluntaria
+simplicitas et Christiana commendatur mansuetudo. <hi>Apertis oculis nihil videbat: ad manus autem
+trahebatur ab his qui comitabantur eum.</hi> 
+ Felix
+<pb n="0364C"/>
+caecitas, qua male quondam illuminati in praevaricatione,
+tandem in conversione oculi salubriter
+excaecantur. Sane quod triduo Paulus sine cibo manet
+persistens in oratione, ad eos maxime pertinet,
+qui noviter saeculo abrenuntiantes, necdum in coelesti
+consolatione respirant. Sustineant ergo et ipsi Dominum
+in omni patientia; orent sine intermissione,
+quaerentes, petentes, pulsantes, quia exaudiet eos
+Pater coelestis in tempore opportuno. Non obliviscetur
+eorum in finem; veniet, et non tardabit. Si triduo
+sustinueris eum non habens quod manduces,
+confide quia miserator et misericors Dominus jejunum
+te non dimittet.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Exinde jubetur Ananias manus imponere Saulo;
+sed tanquam bene eruditus, non continuo acquiescit.
+<pb n="0364D"/>
+Vide enim si non etiam Paulus ipse doctrinam hanc
+deinde tradidit discipulo, <hi>Nemini,</hi> inquiens, <hi>cito
+manus imponas <note>(I Tim. V, 22)</note>
+          </hi>. <hi>Vidit,</hi> ait Dominus, <hi>virum imponentem sibi manus, ut visum recipiat.</hi> 
+ Fratres,
+Paulus hoc cum vidisset, non continuo illuminatus
+est. Nunquid non exspectavit Ananiae manum,
+quia venturum eum forte in somniis praevidit? <note>(Act. IX)</note>.
+Haec dico vobis, charissimi, quia vereor
+ne quis forte sit inter vos, qui solo se somnio praesumat
+illuminatum esse; nec jam aequanimiter patiatur
+ad manum trahi, sed ductorem sese profiteatur
+aliorum. Cui enim necdum administrationis cura
+injuncta est, cui necdum credita dispensatio, cui
+<pb n="0365A"/>
+necdum praeceptum ut videat, et provideat his qui
+apertos oculos habentes nihil vident: quid hoc praesumere
+tentat, nisi quia meditatur inania, et quasi
+somnia vana sectatur? Caveamus ab hoc vitio, fratres:
+semper, quod in nobis est, abjecti eligamus
+esse, et ad manus trahi; mansuetudinem et humilitatem
+discentes a Christo Domino, cui est honor et
+gloria in saecula saeculorum. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Conversus est hodie Paulus, imo Saulus conversus
+versus est in Paulum. Siquidem factus est
+tanquam evangelicus ille parvulus, de quo Dominus
+ait: <hi>Nisi conversi fueritis, et efficiamini sicut parvulus
+iste, non intrabitis in regnum coelorum <note>(Matth.
+XIII, 3)</note>
+          </hi>. Forte enim seipsum dicebat. Nimirum ipse
+<pb n="0365B"/>
+magnus Dominus et laudabilis nimis, ipse parvulus
+qui datus est nobis; nec tamen magnus interim,
+sed parvulus exhibetur, ut seipsum faciat gratum
+et efficax necessariae parvitatis exemplum. Ad parvulum
+ergo sit conversio tua, ut discas parvulus
+esse: tu quoque cum converteris, parvulus fias.
+Enimvero audi, quam evidenter ipsum tibi, in quo
+constituit formam conversionis, parvulum manifestat,
+signanter ea quae sunt parvuli, in seipso imitanda
+proponens. <hi>Discite a me,</hi> inquit, <hi>quia mitis
+sum et humilis corde <note>(Matth. XI, 29)</note>
+          </hi>. Gemina parvitas,
+humilitas et mansuetudo. Et illa interior, ista
+exterior parvitas. Utraque tamen non parva virtus
+est: nempe quam parvulus ille tam magnus unicum
+magisterium profitetur. Hodie ergo conversus est
+<pb n="0365C"/>
+Paulus, hodie desiit esse Saulus. Hodie factus est
+humilis et mitis corde. Probat oris confessio cordis
+<pb n="0366A"/>
+humiliationem, dum clamat: <hi>Domine, quid me vis
+facere?</hi> Magis autem probat ipsa collatae gratiae magnitudo,
+quae nimirum tam multa, nisi multum humili,
+data non fuit.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Caeterum mansuetudo, quoniam exterior quaedam <emph>959,</emph> 
+ ut diximus, parvitas, et ob hoc manifestior
+est, tripliciter nobis in conversione hac commendatur.
+Triplici quidem velut ariete mansuetudo
+nostra pulsatur; verborum injuriis, damnis rerum,
+corporis laesione. In his tribus omnis exhibitio patientiae,
+omnis exercitatio mansuetudinis. Probata
+est illa virtus, quam nihil horum videtur concutere
+potuisse. Considerare libet, quemadmodum Paulus
+super his omnibus in ipsa statim sua conversione
+tentatus, vere jam Paulus inventus sit, in hac parte
+<pb n="0366B"/>
+vere jam mitis et patiens. <hi>Saule, Saule, quid me
+persequeris? Durum est tibi contra stimulum calcitrare.</hi> 
+Durum equidem verbum, verbum increpatorium,
+plenum comminatione. Sane quod ad corpus
+pertinuit, concussus est et prostratus in terram.
+An vero et damno quoque probatus est? Et valde;
+siquidem ipsum ei lumen ademptum est oculorum, <hi>et apertis,</hi> 
+ ut scriptum est, <hi>oculis nihil videbat <note>(Act. IX, 1-8)</note>
+          </hi>.
+Experta est in his tribus et exercitata
+patientia Job, quem in hac virtute opinatissimum
+Deus exemplar dedit. Sed vestrae hoc industriae relinquimus
+vestigandum. Sufficit nos monere, formam
+verae conversionis magna ex parte in hac mansuetudine
+constitutam: ut pudeat eos, qui conversi
+esse debuerant, vel in corporum laesione, vel in
+<pb n="0366C"/>
+damno rerum, vel, quod magis indignum est, in verborum
+injuriis inveniri perversos penitus et aversos.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,533 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In natali S. Benedicti</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InNaSBe</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In natali S. Benedicti</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0375D"/>Convenientibus vobis in unum ad audiendum
+verbum salutis, magnus mihi timor est, fratres mei,
+ne quis forte minus digne illud recipiat, et non sicut
+recipiendum est verbum Dei. Scio enim terram,
+quae saepius supervenientem in se receperit imbrem,
+si fructum non fecerit, reprobam fore, et proximam
+maledicto <note>(Hebr. VI, 7, 8)</note>. Et ego utique, si possem,
+<pb n="0376D"/>
+benedictiones vobis dare mallem, et non maledictiones.
+Imo vero ipsam benedictionem coelestis utique
+Patris nostri, non meam (quam tamen ipso quidem
+dignante accipitis per os meum) opto vobis benedictionem
+manere semper, nec in maledictionem posse
+mutari.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Celebramus hodie magistri nostri gloriosi Benedicti
+<pb n="0377A"/>
+natale: pro eo vobis et de eo solemnis ex
+more sermo debetur. Cujus dulcissimum nomen,
+cum omni vobis jucunditate amplectendum est
+et honorandum; quoniam ipse dux noster, ipse
+magister et legifer noster est. Delector quidem et
+ego in ipsius memoria, licet non meo sine rubore
+beati hujus patris nomen audeam memorare. Est
+enim mihi de ipsius imitatione vobiscum saeculi
+abrenuntiatio, et monasticae professio disciplinae; sed
+singulariter sine vobis cum eo participo nomen abbatis.
+Abbas fuit, et ego. O abbas, et abbas! Nomen unum,
+sed in altero sola magni nominis umbra. Ministerium
+unum, sed heu me! quam dissimiles ministri,
+quantum ministratio ipsa dissimilis! Vae mihi, si
+tam longe a te fuero, o beate Benedicte, in futuro,
+<pb n="0377B"/>
+quam a tuae vestigiis sanctitatis longe esse reperior
+in praesenti. Sed non mihi haec apud vos perorare
+necesse est. Scio quod scientibus me loquar: tantum
+peto, ut pudorem hunc, et hunc timorem
+meum fraterna compassione levetis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Quando tamen omnino dispensatio mihi credita
+est, etsi non habeo apud me quod vobis apponam,
+quaeram a beato Benedicto tres panes, quibus vos
+pascam. Reficiat vos sanctitas ejus, justitia ejus,
+pietas ejus. Recolite, dilectissimi, quod non omnes
+qui in processione Domini fuerunt, sua illi prostraverint
+vestimenta. In illa, inquam, processione,
+quam annuente Domino in proximo sumus celebraturi,
+quando venienti Domino ad passionem, et sedenti
+super asellum populi occurrerunt, non omnes
+<pb n="0377C"/>
+vestimenta sua prosternebant in via, sed caedebant
+aliqui ramos de arboribus <note>(Matth. XXI, 1-9)</note>. Non
+erat hoc magnum, quod gratis acceperant, gratis
+dabant. Verumtamen ne ipsi quidem penitus otiosi
+fuerunt, sed nec a processione leguntur exclusi.
+Fratres mei, pium Christi jumentum, qui cum Propheta
+dicere potestis, <hi>Ut jumentum factus sum apud
+te, et ego semper tecum <note>(Psal. LXXII, 23)</note>
+          </hi>; vos quibus
+insidet Christus, quoniam, <hi>anima justi sedes est sapientiae;</hi> 
+et Apostolus praedicat <emph>968</emph> <hi>Christum Dei
+virtutem, et Dei sapientiam <note>(I Cor. I, 24)</note>
+          </hi>: si non
+habeo vestes quas pedibus vestris prosternam, tentabo
+vel ramos caedere de arboribus, ut tantae processioni
+vel parum aliquid non desit ministerii mei.
+<pb n="0377D"/>
+</p>
+        </div3>
+<div3>
+          <head>4. </head>
+          <p>
+Arbor fuit beatus Benedictus, grandis atque
+fructifera, tanquam lignum quod plantatum est secus
+decursus aquarum <note>(Psal. I, 3)</note>. Ubi sunt decursus
+aquarum? Profecto in vallibus; quia inter medium
+montium pertransibunt aquae. Quis enim non videat
+etiam torrentes montium ardua declinare, et mediam
+ad humilitatem semper devertere vallis? Sic profecto,
+sic Deus superbis resistit, humilibus autem
+dat gratiam <note>(Jacobi IV, 6)</note>. Securus hic fige pedem,
+quicunque es jumentum Christi, super hunc ramum
+innitere, semitam vallis incede. Nimirum in monte
+sibi sedem constituit serpens antiquus, mordens
+<pb n="0378A"/>
+ungulas equi, ut cadat ascensor ejus retro: propterea
+vallem magis elige ad ambulandum, vallem elige ad
+plantandum. Neque enim vel in serendis arboribus
+montana solemus eligere, quod frequenter arida sint
+et petrosa. In vallibus pinguedo est: ibi proficiunt
+plantae, ibi plena spica, ibi centesimus oritur fructus,
+juxta illud, <hi>Et valles abundabunt frumento <note>(Psal.
+LXIV, 14)</note>
+          </hi>. Audis quia ubique vallis laudatur, ubique
+humilitas praedicatur. Ibi ergo plantare, ubi decursus
+aquarum; quia ibi copia gratiae spiritualis; et aquae
+quae super coelos sunt, laudant nomen Domini, id
+est, coelestes benedictiones faciunt ut laudetur.
+Stemus in hac, charissimi, et plantati stemus, ut
+non arescamus. Non moveamur quocunque flatu,
+sicut scriptum est: <hi>Si spiritus habentis potestatem
+<pb n="0378B"/>
+super te irruerit, locum tuum ne deseras <note>(Eccle. X, 4)</note>
+          </hi>.
+Nulla enim tentatio vobis praevalebit, si non in magnis
+et in mirabilibus super vos ambuletis, sed permaneatis
+radicibus firmis in humilitate radicati atque
+fundati. Sic plantatus secus decursus aquarum
+sanctus iste confessor Domini, fructum suum dedit
+in tempore suo.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sunt enim qui fructum non faciunt: sunt qui faciunt,
+sed non suum: sunt qui faciunt suum, sed
+non in tempore suo. Sunt, inquam, arbores infructuosae,
+ut quercus et ulmus, et silvestres aliae arbores;
+sed hujusmodi nemo plantat in horto suo,
+quia non faciunt fructum: et si quem faciunt, non
+humano esui aptus est, sed porcino. Tales sunt filii
+hujus saeculi, agentes in comessationibus et ebrietatibus,
+<pb n="0378C"/>
+in crapula et voracitate, in cubilibus et impudicitiis.
+Haec namque porcorum cibus sunt, quos
+Judaeus verus prohibetur comedere <note>(Deut. XIV, 8)</note>,
+Christianus scilicet, qui his non debet adhaerere.
+Sicut enim caro porcina cum comeditur, nostrae
+adhaeret carni, ut jam sit una caro; sic transgressor
+praecepti Dominici spurcos sibi sociat spiritus, et
+adhaerendo eis unus cum eis efficitur daemon. Nam
+et idcirco in sacrificiis prohibetur animal illud
+offerri, quod spurcos spiritus immundosque designet;
+qui relicta omni munditia, solis sibi in spurcitiis
+complacentes, vitiorum et criminum semper coeno
+delectantur involvi. Unde et in Evangelio, legio illa
+maledicta, dum ejiceretur ab homine, tanquam
+<pb n="0378D"/>
+simile sibi animal porcos postulat, nec negantur <note>(Marc. V, 1-13)</note>.
+His fructum ferunt arbores infructuosae,
+ad quarum radices securis posita jam videtur.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Arbores autem quae fructum faciunt, sed non
+suum, hypocritae sunt, cum Simone Cyrenaeo crucem
+portantes non suam: qui religiosa intentione
+carentes, angariantur; et quae non amant, amore
+gloriae quam desiderant, facere compelluntur. Jam
+in eo quod dicitur, <hi>in tempore suo <note>(Psal. I, 3)</note>
+          </hi>, arguuntur
+quidam ante tempus fructificare volentes.
+Nonne enim et arboribus nostris, citius quam oporteat
+<pb n="0379A"/>
+pullulantibus, timemus omnino floribus intempestivis?
+Sic sunt aliqui, quorun fructus, quia nimis
+propere, minus prospere oriuntur. Hi sunt, qui in
+initio conversionis, suae aliis fructificare continuo
+velle praesumunt, contra legis decreta arare in primogenito
+bovis, et ovis primogenita tondere festinantes.
+Vultis nosse quam sollicite id vitaverit
+sanctus iste magister noster? Et hunc ramum vobis
+oppono; quoniam tribus annis soli Deo notus, hominibus <emph>969</emph> 
+ mansit incognitus. Fructum quidem
+multum tulit, ipsi cernitis; sed in tempore suo. Neque
+enim credebat tempus esse fructificandi, quando
+tanta carnis tentatione gravatus est, ut pene eederet,
+pene discederet. Ego enim nec istum quidem ramum
+praeteribo, quoniam etsi hirsutus quodam modo spinarum
+<pb n="0379B"/>
+aculeis, quibus seipsum Domini Benedictus
+injecit; tamen utilis est omnino: utilis jumento
+Domini propter foveas tentationum, ne in eas incidat
+consentiendo, sed magis resistat, et viriliter agat,
+sustineatque Dominum ne desperet. Hic ergo fige
+pedem, Christi jumentum, et disce quantumcunque
+acerba tentatio saeviat, non cedere, nec credere
+propterea derelictum te esse a Domino, sed memineris
+scriptum esse: <hi>Invoca me in die tribulationis,
+eruam te et honorificabis me <note>(Psal. XLIX, 15)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Ergo, ut dicere coeperam, non credebat beatus
+Benedictus tunc esse fructificandi tempus, quando
+adhuc tantis tentationibus urgebatur; sed venit
+tempus, et in tempore suo fructum dedit. De fructu
+ejus sunt illa tria quae superius tetigi: sanctitas
+<pb n="0379C"/>
+ejus, justitia ejus, pietas ejus. Sanctitatem miracula
+probant, doctrina pietatem, vita justitiam. Vides, o
+jumentum Christi, ramos foliis virentes, vernantes,
+floribus, onustos fructu. Super istos innitere, ut
+gressus rectos facias pedibus tuis. Sed quomodo tibi
+appono ejus miracula? nunquid ut miracula facere
+velis? Nequaquam, sed ut miraculis ejus innitaris:
+videlicet ut confidas et gaudeas quod sub tali positus
+es pastore, quod tantum meruisti habere patronum.
+Omnino enim valde potens est in coelis, qui tam potens
+exstitit in terris: secundum magnitudinem gratiae,
+magnitudine gloriae exaltatus. Nam et juxta radicum
+quantitatem rami prodire noscuntur: et quot radicibus
+arbor innititur, tot ramis, sicut aiunt, decoratur.
+<pb n="0379D"/>
+Sic ergo, licet non habeamus nostra, consolatio
+magna nobis esse debent patroni nostri miracula.
+Doctrina vero instruit nos, et dirigit gressus
+nostros in viam pacis. Porro vitae justitia omnino
+roborat et animat nos; ut tanto magis accendamur
+ad agenda quae docuit, quanto certi sumus eum non
+alia docuisse quam fecerit. Sermo quidem vivus et
+efficax, exemplum operis est, plurimum faciens
+suadibile quod dicitur, dum monstrat factibile quod
+suadetur.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ In hunc ergo modum sanctitas confortat, pietas
+informat, justitia confirmat. Quantae enim pietatis
+fuit, quod non solum praesentibus profuit, sed etiam
+pro futuris sollicitus fuit? Non solum his qui tunc
+erant, fructum tulit haec arbor, sed usque hodie
+<pb n="0380A"/>
+fructus ejus et manet, et crescit. Dilectus plane Deo
+et hominibus: cujus non sola praesentia in benedictione
+fuit, sicut sunt multi dilecti Deo soli, quia
+soli Deo jam cogniti; sed et memoria ejus etiam
+nunc in benedictione est. Nam et usque hodie in
+triplicem amoris Domini confessionem, triplici hoc
+fructu pascit Domini gregem. Pascit vita, pascit doctrina,
+pascit et intercessione. Per quam incessanter
+adjuti, fructificate et vos, charissimi, quoniam in hoc
+positi estis, ut eatis et fructum afferatis. Unde eatis?
+Utique a vobis ipsis, sicut scriptum est: <hi>A voluntatibus
+tuis avertere <note>(Eccli. XVIII, 30)</note>
+          </hi>. Nam et de Domino
+legimus quia <hi>exiit seminare semen suum <note>(Matth.
+XIII, 3)</note>
+          </hi>. Ecce et hic habemus semen suum, sicut et
+prius fructum suum. Imitemur et hunc, fratres;
+<pb n="0380B"/>
+quoniam ad hoc venit, ut formam nobis traderet, et
+viam demonstraret.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Fortassis et ipse Dominus arbor est, et debemus
+ab eo quoque ramos accipere, quos vestris pedibus
+apponamus: imo non fortasse, sed magis vere
+arbor est ipse et planta coelestis, sed in terris plantata,
+sicut scriptum est: <hi>Veritas de terra orta est,
+et justitia de coelo prospexit <note>(Psal. LXXXIV, 12)</note>
+          </hi>. Ab
+eo igitur hunc ramum vobis appono, ut sicut seipsum
+exinanivit, hoc ipsum sentiatis in vobis: nisi
+quod non tam ego appono, quam Apostolus, apud
+quem legistis: <hi>Hoc sentite in vobis, quod et in Christo
+Jesu: qui cum in forma Dei esset, non rapinam
+arbitratus est esse se aequalem Deo, sed semetipsum
+exinanivit, formam servi accipiens, in similitudinem
+<pb n="0380C"/>
+hominum factus, et habitu inventus</hi> <emph>970</emph> <hi>ut homo <note>(Philipp. II, 5-7)</note>
+          </hi>.
+Et vos itaque, fratres charissimi,
+exinanite vos, humiliate vos, seminate vos, perdite
+vos. Seminate corpus animale, et resurget corpus
+spirituale. Perdite animas vestras, et in vitam aeternam
+servabitis eas. Vultis nosse quomodo id fecerit
+Apostolus ipse qui docuit? <hi>Sive,</hi> inquit, <hi>mente excedimus
+Deo; sive sobrii sumus, vobis <note>(II Cor, V, 13)</note>
+          </hi>.
+Quid ergo tibi? <hi>Ego,</hi> inquit, <hi>factus sum tanquam
+vas perditum <note>(Psal. XXX, 13)</note>
+          </hi>. Bene seipsum perdit,
+qui nihil unquam pro se facit; sed omnis ejus intentio
+et omne desiderium tendit ad Dei placitum, et
+utilitatem fratrum suorum. Infelix enim <hi>qui seminat
+in carne,</hi> quia <hi>de carne metet corruptionem (Galat.
+<pb n="0380D"/>
+VI, 8)</hi>. Alibi vero scriptum est: <hi>Beati qui seminant
+super omnes aquas <note>(Isai. XXXII, 20)</note>
+          </hi>. Sed quomodo <hi>super omnes aquas?</hi> 
+ Forte et super aquas, de quibus
+legitur: <hi>Et aequae quae super coelos sunt, laudent nomen
+Domini <note>(Psal. CXLVIII, 4)</note>
+          </hi>: quae sunt virtutes angelicae,
+et coelestes populi. Ita plane: <hi>Quoniam spectaculum
+facti sumus mundo, et angelis, et hominibus <note>(I Cor. IV, 9)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Seminemus igitur hominibus exemplum bonum
+per aperta opera; seminemus angelis gaudium magnum
+per occulta suspiria, et per caetera hujusmodi,
+quae solis eis sunt nota. Gaudium enim est angelis
+Dei super uno peccatore poenitentiam agente. Hinc
+dicebat Apostolus: <hi>Providentes bona non tantum coram
+Deo, sed etiam coram hominibus (II Cor. VIII,
+<pb n="0381A"/>
+21)</hi>. Nam Deo omnino noti sumus; sed <hi>coram Deo</hi> 
+dixit, id est, coram eis qui vultui ejus semper assistunt.
+Ipsis enim maxime placet, cum vos vident
+occulte orantes, aut ruminantes psalmum aliquem,
+aut tale aliquid facientes. Sic seminate et vos, sic
+fructificate, charissimi. Seminate et vos, quia tam
+multi ante vos seminaverunt; fructificate, quia vobis
+seminaverunt. O genus Adam, quam multi seminaverunt
+in te, et quam pretiosum semen! quam male
+peribis, et quam merito, si perierit in te tantum semen,
+simul et seminantium labor! Cui perditioni
+traderis ab agricola, si in te perierint haec universa?
+Seminavit in terra nostra tota Trinitas, seminaverunt
+angeli pariter et apostoli, seminaverunt martyres,
+et confessores, et virgines. Seminavit Deus
+<pb n="0381B"/>
+Pater; quoniam eructavit cor ejus Verbum bonum.
+Dominus enim dedit benignitatem, et terra nostra
+dedit fructum suum. Seminavit et Filius: ipse enim
+est qui exiit seminare semen suum. Pater enim non
+exiit, sed Filius a Patre processit, et venit in mundum;
+ut qui prius erat cogitatio pacis in corde Patris,
+fieret et ipse pax nostra in utero matris. Seminavit
+et Spiritus sanctus; quia et ipse venit, et apparuerunt
+discipulis dispertitae linguae tanquam ignis.
+Ita tota Trinitas seminavit: Pater scilicet pacem de
+coelo, Filius veritatem, Spiritus sanctus charitatem.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Angeli quoque seminaverunt, quando cadentibus
+aliis ipsi steterunt. Dixit enim Lucifer ille, non
+jam lucifer, sed tenebrifer et vesperus: <hi>Sedebo in monte
+testamenti, similis ero Altissimo <note>(Isai. XIV, 13, 14)</note>
+          </hi>.
+<pb n="0381C"/>
+O impudens et imprudens! Millia millium ministrant
+ei, et decies centena millia assistunt <note>(Dan. VII, 10)</note>;
+et tu sedebis? <hi>Cherubin,</hi> ait propheta, <hi>stabant <note>(Isai.
+VI, 2; Ezech. X, 3)</note>
+          </hi>, et non sedebant; quid laborasti,
+ut jam sedeas? Omnes administratorii sunt spiritus,
+missi in ministerium propter eos qui haereditatem
+capiunt salutis; et tu sedebis? quid seminasti, ut
+jam metas? Non est tuum, non est tuum hoc, sed
+quibus paratum est a Patre. Quid eis invides? Profecto
+ipsi sedebunt; ipsi, inquam, vermiculi terrae
+judicantes sedebunt, et tu non modo non stabis,
+sed judicandus astabis. <hi>Nescitis,</hi> ait Apostolus, <hi>quia
+et angelos judicabimus? <note>(I Cor. VI, 31.)</note>
+          </hi> Ipsi utique
+qui ibant et flebant, mittentes semina sua, venientes
+<pb n="0381D"/>
+autem venient cum exsultatione portantes manipulos
+suos <note>(Psal. CXXV, 6)</note>. Duo manipuli sunt quos
+quaeris, honoris scilicet et quietis. Sessionem affectas
+et altitudinem; sed non sic, impie, non sic: non
+colliges, quia non seminasti. Qui seminaverunt laborem
+et vilitatem, metent honorem pariter et quietem.
+Pro confusione enim sua duplici et rubore
+[ <hi>alias,</hi> labore], in terra sua duplicia possidebunt.
+Unde et dicebat quidam: <hi>Vide humilitatem meam,
+et laborem meum <note>(Psal. XXIV, 18)</note>
+          </hi>. Hodie utique audistis
+in Evangelio promittentem Dominum et dicentem <emph>971</emph> 
+ discipulis: <hi>Sedebitis super sedes, judicantes
+duodecim tribus Israel <note>(Matth. XIX, 28)</note>
+          </hi>. Ecce
+quies sessionis, et honor judicii. Nam et ipse Dominus
+ad haec noluit pervenire, nisi per humilitatem
+<pb n="0382A"/>
+et laborem. Unde et morte turpissima condemnatus
+est, interrogatus tormentis, et opprobriis saturatus:
+utique ut inimicus induatur confusione, ipse pariter
+et omnes qui imitantur eum, et praetergrediuntur
+viam. Ipse est, o inique, ipse est qui sessurus est in
+sede majestatis suae similis Altissimo, et coaltissimus
+ei. Hoc utique cogitaverunt angeli sancti, qui cadente
+maligno apostasiae illius non consenserunt,
+nobis relinquentes exemplum, ut quemadmodum
+ipsi elegerunt ministrare, sic et nos faciamus. Nam
+etiam qui laborem fugiunt et honorem captant,
+illum se noverint imitari, qui sessionem altitudinemque
+quaesivit: et si non satis terret eos illius culpa,
+terreat vel vindicta. Omnia enim in contrarium devenerunt,
+ut formatus sit ad illudendum ei, et ignis
+<pb n="0382B"/>
+aeternus praeparatus sit illi. Ad haec vitanda prudentiam
+nobis seminaverunt sancti angeli, qui prius eam
+aliis cadentibus tenuerunt.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Sed et apostoli hanc ipsam seminaverunt nobis,
+quando recedentibus his qui sapientiam hujus mundi
+sequebantur, quae stultitia est apud Deum; et prudentiam
+carnis, quae mortem operatur, et inimica
+est Deo; ipsi Domino adhaeserunt. Scandalizati enim
+illi audientes de sacramento carnis et sanguinis,
+ultra non ibant cum eo. Discipuli vero interrogati,
+an et ipsi vellent abire, responderunt: <hi>Ad quem
+ibimus? verba vitae aeternae habes.</hi> Necesse habemus,
+fratres, hanc prudentiam imitari; quia multi adhuc
+ambulant cum Jesu, donec veniatur ad edendam
+<pb n="0382C"/>
+ejus carnem et bibendum sanguinem illius, ad communicandum
+scilicet passionibus ejus (hoc enim et
+verbum illud et ipsum sacramentum significat):
+extunc autem scandalizantur et abeunt retro dicentes,
+quia <hi>durus est hic sermo <note>(Joan. VI, 67, 68, 69, 61)</note>
+          </hi>.
+Nos cum apostolis prudentes simus, et dicamus: <hi>Domine, ad quem ibimus? verba vitae aeternae habes,</hi> 
+Non discedimus a te, vivificabis nos. Non in solo
+pane vivit homo, sed in omni verbo quod procedit de
+ore Dei <note>(Matth. IV, 4)</note>. Non solus mundus habet delectationem,
+sed multo major est in verbis tuis.
+Unde et Propheta ait: <hi>Quam dulcia faucibus meis
+eloquia tua! super mel ori meo <note>(Psal. CXVIII, 103)</note>
+          </hi>.
+Ad quem igitur eamus? verba vitae aeternae habes,
+Domine; et ea sunt super omnia quae mundus habere
+<pb n="0382D"/>
+potest. Non solum ipsa vita, sed et promissio
+vitae aeternae et exspectatio justorum, laetitia est, et
+tanta laetitia, ut omne quod concupiscitur, ei non
+valeat comparari. Hanc igitur prudentiam nobis
+apostoli sancti seminaverunt. Martyres vero manifestum
+est fortitudinem seminasse. Porro confessores
+seminaverunt justitiam, quam in omni vita sua
+secuti sunt; hoc enim interest inter martyres et
+confessores, quod inter Petrum simul omnia relinquentem,
+et Abraham substantiam mundi in bonos
+usus expendentem; sic enim illi consummati in brevi
+expleverunt tempora multa, isti vero longa et multimoda
+traxere martyria. Virgines sanctae planum est
+quia temperantiam seminarunt, quae sic libidinem
+calcaverunt.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

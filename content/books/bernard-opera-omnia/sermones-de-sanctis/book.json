@@ -1,0 +1,430 @@
+{
+  "id": "bernard-sermones-de-sanctis",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones de sanctis",
+    "en-US": "Sermons for the Feasts of the Saints",
+    "pt-BR": "Sermões das festas dos santos"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Sermones Bernardi de sanctis: Andreas, Clemens, Martinus, Paulus, Purificatio, Annuntiatio, Benedictus, Joannes Baptista, Petrus et Paulus, Assumptio, Nativitas Mariae, Michael, Omnes sancti, Malachias et alii.",
+    "en-US": "Bernard’s sermons for the feasts of the saints and of Our Lady (Saint Andrew, Clement, Martin, the Conversion of Paul, the Purification, Annunciation and Assumption of Mary, Benedict, John the Baptist, Peter and Paul, Michael, All Saints, Malachy, Humbert and others), grouped by feast. The Latin is the Maurist text in Migne (Patrologia Latina 183, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "Os sermões de Bernardo para as festas dos santos e de Nossa Senhora (André, Clemente, Martinho, a conversão de Paulo, a Purificação, a Anunciação e a Assunção de Maria, Bento, João Batista, Pedro e Paulo, Miguel, Todos os Santos, Malaquias, Humberto e outros), agrupados por festa."
+  },
+  "composed": "c. 1125-1153",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/sermones-de-sanctis",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182-184)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182-184 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), works 6209, 6192, 6168, 6193, 6187, 6179, 6182, 6196, 6199, 6210, 6194, 6184, 6174, 6201, 21529, 6195, 6202, 6208, 6197, 6200, from machine-corrected OCR.",
+      "description": "One group per feast or piece, as the Corpus Corporum divides them. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "w6209",
+      "title": {
+        "la": "In vigilia S. Andreae apostoli"
+      },
+      "children": [
+        {
+          "id": "w6209-sermo",
+          "title": {
+            "la": "In vigilia S. Andreae apostoli"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6192",
+      "title": {
+        "la": "S. Andreae apostoli"
+      },
+      "children": [
+        {
+          "id": "w6192-s001",
+          "title": {
+            "la": "Sermo I. De tribus generibus piscium, qui sunt in mari, in flumine, et stagno"
+          }
+        },
+        {
+          "id": "w6192-s002",
+          "title": {
+            "la": "Sermo II. De quatuor cornibus crucis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6168",
+      "title": {
+        "la": "De S. Clemente"
+      },
+      "children": [
+        {
+          "id": "w6168-sermo",
+          "title": {
+            "la": "De S. Clemente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6193",
+      "title": {
+        "la": "S. Martini"
+      },
+      "children": [
+        {
+          "id": "w6193-sermo",
+          "title": {
+            "la": "S. Martini"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6187",
+      "title": {
+        "la": "In conversione S. Pauli"
+      },
+      "children": [
+        {
+          "id": "w6187-s001",
+          "title": {
+            "la": "Sermo I. Quomodo ad exemplum ejus converti debemus"
+          }
+        },
+        {
+          "id": "w6187-s002",
+          "title": {
+            "la": "Sermo II"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6179",
+      "title": {
+        "la": "In Purificatione B. Mariae"
+      },
+      "children": [
+        {
+          "id": "w6179-s001",
+          "title": {
+            "la": "Sermo I. De triplici misericordia"
+          }
+        },
+        {
+          "id": "w6179-s002",
+          "title": {
+            "la": "Sermo II. De oridine et modo processionis Christi in templum"
+          }
+        },
+        {
+          "id": "w6179-s003",
+          "title": {
+            "la": "Sermo III. De puero, Maria et Joseph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6182",
+      "title": {
+        "la": "In annuntiatione B. V. Mariae"
+      },
+      "children": [
+        {
+          "id": "w6182-s001",
+          "title": {
+            "la": "Sermo I. De verbis psalmi LXXXIV, 10, 11: « Ut inhabitet gloria in terra nostra. »"
+          }
+        },
+        {
+          "id": "w6182-s002",
+          "title": {
+            "la": "Sermo II. De septiformi Spiritu in Christo"
+          }
+        },
+        {
+          "id": "w6182-s003",
+          "title": {
+            "la": "Sermo III. De muliere adultera (Joan. VIII, 3-11); de Susanna (Dan. XIII): de B. Maria (Luc. I, 26-38)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6196",
+      "title": {
+        "la": "In natali S. Benedicti"
+      },
+      "children": [
+        {
+          "id": "w6196-sermo",
+          "title": {
+            "la": "In natali S. Benedicti"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6199",
+      "title": {
+        "la": "In nativitate S. Joannis Baptistae"
+      },
+      "children": [
+        {
+          "id": "w6199-sermo",
+          "title": {
+            "la": "In nativitate S. Joannis Baptistae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6210",
+      "title": {
+        "la": "In vigilia SS. Petri et Pauli"
+      },
+      "children": [
+        {
+          "id": "w6210-sermo",
+          "title": {
+            "la": "In vigilia SS. Petri et Pauli"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6194",
+      "title": {
+        "la": "SS. Petri et Pauli"
+      },
+      "children": [
+        {
+          "id": "w6194-s001",
+          "title": {
+            "la": "Sermo I. De triplici custodia quam apostoli habent super nos, et de tribus gradibus conversationis nostrae"
+          }
+        },
+        {
+          "id": "w6194-s002",
+          "title": {
+            "la": "Sermo II"
+          }
+        },
+        {
+          "id": "w6194-s003",
+          "title": {
+            "la": "Sermo III. De lectione libri Sapientiae: « Hi sunt viri misericordiae. » (Eccl. XLIV, 10, 11.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6184",
+      "title": {
+        "la": "In assumptione B. V. Mariae"
+      },
+      "children": [
+        {
+          "id": "w6184-s001",
+          "title": {
+            "la": "Sermo I. De gemina susceptione, Christi scilicet et Mariae"
+          }
+        },
+        {
+          "id": "w6184-s002",
+          "title": {
+            "la": "Sermo II. De domo mundanda, ornanda, implenda"
+          }
+        },
+        {
+          "id": "w6184-s003",
+          "title": {
+            "la": "Sermo III. De Maria, Martha et Lazaro. (Luc. X, 38-42.)"
+          }
+        },
+        {
+          "id": "w6184-s004",
+          "title": {
+            "la": "Sermo IV. De quatriduo Lazari, et praeconio Virginis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6174",
+      "title": {
+        "la": "Dominica infra octavam assumptionis B. V. Mariae"
+      },
+      "children": [
+        {
+          "id": "w6174-sermo",
+          "title": {
+            "la": "Dominica infra octavam assumptionis B. V. Mariae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6201",
+      "title": {
+        "la": "In navitate B. V. Mariae"
+      },
+      "children": [
+        {
+          "id": "w6201-sermo",
+          "title": {
+            "la": "In navitate B. V. Mariae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w21529",
+      "title": {
+        "la": "S. Michaelis"
+      },
+      "children": [
+        {
+          "id": "w21529-s001",
+          "title": {
+            "la": "Sermo I. De angelorum erga nos officiis, et nostra erga ipsos reverentia"
+          }
+        },
+        {
+          "id": "w21529-s002",
+          "title": {
+            "la": "Sermo II. In illud, « Qui scandalizaverit unum de pusillis istis, qui in me credunt, » etc. (Matth. XVIII, 6-9)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6195",
+      "title": {
+        "la": "Omnium sanctorum"
+      },
+      "children": [
+        {
+          "id": "w6195-s001",
+          "title": {
+            "la": "Sermo I. De lectione evangelica, « Videns Jesus turbas, » etc. (Matth. V, 1-12.)"
+          }
+        },
+        {
+          "id": "w6195-s002",
+          "title": {
+            "la": "Sermo II. De statu sanctorum ante resurrectionem"
+          }
+        },
+        {
+          "id": "w6195-s003",
+          "title": {
+            "la": "Sermo III. Quomodo animae sactae erunt sine macula et ruga"
+          }
+        },
+        {
+          "id": "w6195-s004",
+          "title": {
+            "la": "Sermo IV. De sinu Abrahae, et altari sub quo sanctorum animas beatus Joannes audivit, et septem panibus, ex quibus totidem sportae remansisse leguntur"
+          }
+        },
+        {
+          "id": "w6195-s005",
+          "title": {
+            "la": "Sermo V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6202",
+      "title": {
+        "la": "In obitu D. Humberti"
+      },
+      "children": [
+        {
+          "id": "w6202-sermo",
+          "title": {
+            "la": "In obitu D. Humberti"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6208",
+      "title": {
+        "la": "In transitu S. Malachiae"
+      },
+      "children": [
+        {
+          "id": "w6208-s001",
+          "title": {
+            "la": "Sermo I"
+          }
+        },
+        {
+          "id": "w6208-s002",
+          "title": {
+            "la": "Sermo II"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6197",
+      "title": {
+        "la": "In natali S. Victoris confessoris"
+      },
+      "children": [
+        {
+          "id": "w6197-s001",
+          "title": {
+            "la": "Sermo I"
+          }
+        },
+        {
+          "id": "w6197-s002",
+          "title": {
+            "la": "Sermo II"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6200",
+      "title": {
+        "la": "In nativitate SS. Innocentium"
+      },
+      "children": [
+        {
+          "id": "w6200-pars",
+          "title": {
+            "la": "Sermo unicus. de quatuor continuis solemnitatibus, scilicet nativitatis domini, ac ss. stephani, joannis, et innocentium"
+          }
+        }
+      ]
+    }
+  ]
+}

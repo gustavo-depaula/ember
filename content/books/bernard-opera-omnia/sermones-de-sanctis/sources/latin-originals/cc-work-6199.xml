@@ -1,0 +1,514 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In nativitate S. Joannis Baptistae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InNaSJo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>In nativitate S. Joannis Baptistae</head>
+<p>
+          <pb n="0397C"/>Sit procul ab his conventibus, fratres, increpatio
+illa prophetae, Judaica reprobantis conventiculla,
+et dicentis: <hi>Iniqui sunt coetus vestri <note>(Isai. I, 13)</note>
+          </hi>.
+<pb n="0397D"/>
+Hi nimirum coetus non iniqui, sed plane sancti, sed
+religiosi, sed pleni gratia, digni benedictione. Convenitis
+siquidem ad audiendum Deum: convenitis
+ad laudandum, ad orandum, ad adorandum eum.
+Sacer est conventus uterque, placens Deo, angelis
+familiaris. State ergo in reverentia, fratres, state in
+sollicitudine et devotione mentis: maximeque in
+loco orationis, et in hac schola Christi, et auditorio
+spirituali. Nolite considerare, dilectissimi, quae
+videntur et temporalia sunt, sed magis quae non
+videntur, aeterna: secundum fidem, non secundum
+faciem judicate. Terribiliter siquidem metuendus
+est locus uterque: nec major adesse credendus est
+numerus hominum quam angelorum. Patet utrobique
+sine dubio porta coeli, scala illa erecta est,
+<pb n="0398C"/>
+ascendunt et descendunt angeli super Filium hominis.
+Gigas nempe est iste Filius hominis: coelum
+ei sedes est, terra scabellum pedum ejus. Elevata
+<pb n="0398D"/>
+est magnificentia ejus super coelos: manet tamen
+nobiscum usque ad saeculi consummationem. Ascendunt
+et descendunt itaque ad Deum angeli sancti,
+quia caput et corpus unus est Christus.</p>
+<div3>
+          <head>2.</head>
+          <p>
+ Nec tamen ubi caput, sed ubicunque fuerit
+corpus, ibi congregabuntur et aquilae, licet non
+possit caput a corpore separari. Denique et ipse
+ait: <hi>Ubi duo vel tres congregati fuerint in nomine
+meo, in medio eorum sum <note>(Matth. XVIII, 20)</note>
+          </hi>. Sed
+forte quis dicat: Ubi est modo Christus? Ostende
+nobis Christum, et sufficit nobis. Quid curiosos circumducitis
+oculos? Num ad videndum, et non magis
+ad audiendum convenistis? <hi>Dominus Deus aperuit
+mihi aurem,</hi> ait propheta <note>(Isai. L, 5)</note>. Aurem meam
+aperuit, ut audiam quid loquatur: non oculum;
+<pb n="0399A"/>
+ut videam vultum ejus, illuminavit. Aut certe suam
+mihi aperuit aurem, non faciem revelavit. Post parietem
+stat, audit, et auditur: sed necdum apparet.
+Audit orantes, erudit audientes. An experimentum
+ejus quaeritis, qui in me loquitur Christus? <hi>
+            <note>(II Cor.
+XIII, 3.)</note> Ego,</hi> inquit, <hi>qui loquor justitiam <note>(Isai.
+LXIII, 1)</note>
+          </hi>. Quidni loquatur ore, quod ipse plasmavit?
+Quidni suo utatur, ut libet, artifex instrumento?
+Non tantum aures eorum, sed et labia mea aperi,
+Domine: ego enim labia mea non prohibebo, Domine
+tu scisti. Bene enim omnia facis; et surdos
+facis audire, et mutos loqui.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Audite ergo, fratres, quid de Joanne loquatur,
+cujus solemnis hodie nativitas celebratur. <hi>Ille,</hi> inquit, <hi>erat lucerna ardens, et lucens 
+ <note>(Joan. V, 35)</note>
+          </hi>.
+<pb n="0399B"/>
+Magnum testimonium, fratres mei: magnus enim
+est cui perhibetur, sed major est ipse qui perhibet. <hi>Ille,</hi> 
+ inquit, <hi>erat lucerna ardens, et lucens.</hi> Est
+enim tantum lucere vanum, tantum ardere parum:
+ardere et lucere perfectum. Audi quid dicat Scriptura: <hi>Sapiens permanet ut sol, stultus autem ut
+luna mutatur 
+ <note>(Eccli. XXVII, 12)</note>
+          </hi>. Quia enim splendet
+luna sine fervore; modo plena, modo exigua, modo
+nulla videtur. Mutuatum siquidem lumen nunquam
+in eodem permanet statu, sed crescit, deficit, extenuatur,
+annihilatur, et penitus non comparet. Sic
+qui conscientias suas in alienis labiis posuerunt,
+modo magni, modo parvi sunt, modo nulli, secundum
+quod adulantium linguis vel vituperare placuerit,
+vel laudare. At vero solis splendor igneus
+<pb n="0399C"/>
+est, et cum fervet acrius, etiam oculis lucidior
+exhibetur. Sic sapientis ardor internus foris lucet:
+et si non ei datur utrumque, curat semper ardere
+magis, ut Pater suus qui videt in abscondito, reddat
+ei. Vae nobis, fratres, si luxerimus tantum.
+Nam lucemus quidem, et magnificamur ab hominibus;
+sed mihi pro minimo est, ut ab humano judicer
+die. Qui enim judicat me, Dominus <emph>984</emph> est,
+qui fervorem ab omnibus exigit, splendorem vero
+non ita. <hi>Ignem,</hi> inquit, <hi>veni mittere in terram; et
+quid volo nisi ut accendatur? <note>(Luc. XII, 49.)</note>
+          </hi> Hoc
+nempe commune mandatum, hoc est quod exigitur
+ab universis; nec ulla, si deesse contigerit, admittitur
+excusatio.
+<pb n="0399D"/>
+</p>
+        </div3>
+<div3>
+          <head>4. </head>
+          <p>
+Caeterum singulariter apostolis et apostolicis
+viris dicitur: <hi>Luceat lux vestra coram hominibus <note>(Matth. V, 16)</note>
+          </hi>:
+nimirum tanquam accensis, et vehementer
+accensis, et quibus non timeatur a flatu
+quolibet aut impulsione ventorum. Dictum est et
+Joanni; sed illi in aure audiunt; Joannes in spiritu
+tanquam angelus eruditur. Nimirum tanto propinquior
+Deo, quanto vox Verbo vicina, cui nulla voce
+alia media quod foris sonet oporteat intimari. Neque
+enim Joannem praedicatio, sed inspiratio docuit
+quem replevit Spiritus in utero matris suae. Vere
+ardens et vehementer accensus, quem sic praeoccupavit
+flamma coelestis, ut jam Christi sentiret
+adventum, qui necdum sentire poterat vel se ipsum.
+Nimirum novus ille ignis, qui recens elapsus e coelo,
+<pb n="0400A"/>
+per os Gabrielis in aurem intraverat Virginis, rursum
+per os Virginis et matris aurem introivit ad
+parvulum: ut ab ea hora vas electionis suae Spiritus
+sanctus impleret, et lucernam Christo Domino pararet.
+Fuit ergo jam tunc ardens lucerna, sed interim
+adhuc sub modio, donec super candelabrum
+poneretur, et luceret omnibus qui erant in domo
+Domini. Illo enim in tempore solum adhuc potuit
+illuminare modium suum; soli interim lucere matri,
+magnum ei pietatis sacramentum revelans ipso motu
+novae exsultationis. <hi>Unde mihi hoc,</hi> inquit, <hi>ut veniat
+mater Domini mei ad me?</hi> Quis enim tibi indicavit
+matrem Domini, mulier sancta? Unde me nosti? <hi>Ut
+facta est,</hi> inquit, <hi>vox salutationis tuae in auribus meis,
+exsultavit in gaudio infans in utero meo <note>(Luc. I, 43, 44)</note>
+          </hi>.
+</p>
+        </div3>
+<div3>
+          <head>5. </head>
+<p>
+            <pb n="0400B"/>Illuminavit ergo jam tunc modium, sub quo
+latebat: sed quem non latebat ardens lucerna sub
+modio, totum paulo post mundum novis illustratura
+fulgoribus. <hi>Ille erat,</hi> inquit, <hi>lucerna ardens, et lucens.</hi> 
+Non ait: Lucens, et ardens; quia Joannis ex fervore
+splendor, non fervor prodiit ex splendore. Sunt
+enim qui non eo lucent, quia fervent; sed magis
+fervent ut luceant: at isti plane non fervent charitatis
+spiritu, sed studio vanitatis. Vultis nosse quemadmodum
+arsit Joannes, et luxit? Ego utrumque in
+eo triplicem posse arbitror inveniri, et ardorem
+scilicet, et splendorem. Ardens enim erat in se ipso
+vehementi austeritate conversationis: erga Christum,
+intimo quodam et pleno fervore devotionis; erga
+peccantes proximos, constantia liberae increpationis.
+<pb n="0400C"/>
+Luxit nihilominus, ut paucis dixerim, exemplo,
+digito, verbo, et se ipsum ostendens ad imitationem,
+et luminare majus quod latebat, ad peccatorum
+remissionem, et ipsas quoque tenebras nostras illuminans,
+sicut scriptum est: <hi>Quoniam tu illuminas
+lucernam meam, Domine; Deus meus, illumina tenebras
+meas <note>(Psal. XVII, 29)</note>
+            </hi>; utique ad correctionem.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Considera igitur hominem angelico promissum
+oraculo, conceptum miraculo, sanctificatum in utero,
+et novum in novo homine poenitentiae mirare [ <hi>alias</hi> 
+imitare] fervorem. <hi>Victum et vestitum,</hi> ait Apostolus, <hi>habentes, his contenti simus 
+ <note>(I Tim. VI, 8)</note>
+          </hi>. Apostolica
+perfectio ista est; sed Joannes etiam haec contempsit.
+Denique audi Dominum in Evangelio:
+<pb n="0400D"/> <hi>Venit,</hi> 
+ inquit, <hi>Joannes Baptista non manducans, nec
+bibens <note>(Matth. XI, 18)</note>
+          </hi>; plane nec vestiens. Sicut enim
+non est locusta cibus, nisi aliquorum forte irrationabilium
+animalium; sic nec pilus cameli humanum
+est indumentum. Quid tu pilos tuos, camele, deposuisti?
+Utinam gibbum magis deposuisses. Quid vos,
+irrationabiles ferae et reptilia deserti, cibos exquiritis
+delicatos? Joannes, sanctus homo, missus a Deo,
+imo angelus Dei, sicut ait Pater: <hi>Ecce mitro angelum
+meum ante te <note>(Luc. XII, 27)</note>
+          </hi>; hic ergo Joannes,
+quo nullus major in natis mulierum, innocentissimum
+illud corpus sic castigat, sic extenuat, sic
+affligit: vos indui festinatis bysso et purpura, et
+splendide epulari? Heu! hic est praesentis totus
+honor diei? haec Baptistae reverentia tota? haec nativitatis
+<pb n="0401A"/>
+ejus prophetata quondam laetitia <emph>985</emph> est?
+Cujus enim memoriam agitis, o nimis delicati cultores?
+cujus celebratis natalem? Nonne illius qui
+in eremo fuit hirsutus veste, confectus inedia? Quid
+existis in desertum videre, filii Babylonis? arundinem
+vento agitatam? Quid igitur? hominem mollibus
+vestitum? nutritum mollibus? In his nempe
+tota versatur haec vestra celebritas: in popularis
+favoris aura sectanda, in gloria vestium, et voluptate
+ciborum. Sed quid haec ad Joannem? Neque enim
+Joannes fecit sic, aut talibus unquam potuit delectari.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Multi,</hi> inquit angelus, <hi>in nativitate ejus gaudebunt <note>(Luc. I, 14)</note>
+          </hi>.
+Verum id quidem: Multi in nativitate
+ejus gaudent: et paganis ipsis, ut audivimus,
+laeta est et solemnis. Illi celebrant quod ignorant,
+<pb n="0401B"/>
+sed non ita debuerant Christiani. Nunc vero et ipsi
+in hac beati Joannis Baptistae nativitate gaudent;
+sed utinam de nativitate, non de vanitate. Quid
+est enim nisi vanitas vanitatum quidquid sub sole
+est? aut quid amplius habet homo de universo
+labore suo, quo sub sole laborat? Fratres, sub
+sole est quidquid oculis cernitur, quidquid huic
+corporeae luci subjacere videtur. Quid vero illud,
+nisi vapor ad modicum parens? <note>(Jac. IV,
+45.)</note> Quid illud, nisi fenum, et flos feni? <hi>Omnis caro
+fenum,</hi> ait Dominus, <hi>et omnis gloria ejus quasi flos
+feni. Fenum aruit, et flos decidit; verbum autem Domini
+manet in aeternum <note>(Isai. XL, 6, 8)</note>
+          </hi>. In hoc verbo
+laboremus, fratres; in quo et vivere, et gaudere
+possimus in aeternum. Operemur non cibum qui perit,
+<pb n="0401C"/>
+sed qui permanet in vitam aeternam. Quis ille? <hi>Non in solo pane vivit homo, sed in omni verbo quod
+procedit de ore Dei 
+ <note>(Matth. IV, 4)</note>
+          </hi>. Seminemus in hoc
+verbo, charissimi, seminemus in spiritu; quoniam
+qui in carne seminant, solam habent metere corruptionem.
+Gaudeamus intus, et non sub sole, sed,
+juxta Apostolum, <hi>tanquam tristes,</hi> propter humilitatem
+et gravitatem: <hi>semper autem gaudentes <note>(II Cor.
+VI, 10)</note>
+          </hi>, propter internam consolationem. Gaudeamus,
+dilectissimi, in nativitate beati Joannis, et
+gaudeamus de ipsa nativitate.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Copiosa siquidem nobis in ejus recordatione
+laetitiae causa, multiplex est materia gaudiorum. Ille
+erat lucerna ardens et lucens, et Judaei voluerunt
+<pb n="0401D"/>
+exsultare in luce ejus; ipse vero potius gaudebat in
+fervore devotionis, gaudebat ad vocem sponsi tanquam
+amicus sponsi. Nobis in utroque gaudendum
+est; in altero quidem ei, nobis in altero congaudendum.
+Ardebat enim sibi, nobis autem lucebat. Gaudeamus
+in fervore ejus ad imitationem: gaudeamus
+et in lumine, non tamen ibi manentes, sed ut in
+lumine ejus videamus lumen, lumen utique verum,
+quod non est ipse, sed cui testimonium perhibet
+ipse. <hi>Venit Joannes,</hi> ait Dominus, <hi>nec manducans,
+nec bibens <note>(Matth. XI, 18)</note>
+          </hi>. Incentivum fervoris id
+mihi est, et materia humilitatis. Quis enim in nobis
+est, fratres, qui Joannis poenitentiam intuens, suam,
+non dico magnificare, sed alicujus saltem momenti
+reputare praesumat? Quis audeat murmurare in
+<pb n="0402A"/>
+laboribus suis, et dicere: Satis est quod patior,
+nedum nimis? Quae enim homicidia, quae sacrilegia,
+aut quae flagitia sic puniebat Joannes in se ipso?
+Accendamur ad poenitentiam, fratres, interrogemus
+conscientias nostras, et animemur ad ultionem exigendam
+de nobis, ut horrendum possimus evadere
+judicium Dei viventis. Quidquid vero minus est fervoris,
+humilitas suppleat purae confessionis. Fidelis
+enim Deus, et si confiteamur iniquitates nostras,
+si miserias nostras exponamus, si non excusemus
+infirmitates nostras, dimittet nobis peccata nostra.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Ex hoc sane et erga proximorum delicta fervorem
+intuere Joannis. His nempe dignus est et rationi
+consentaneus ordo, ut incipiendum tibi memineris
+a te ipso. <hi>Ab occultis,</hi> inquit, <hi>meis munda me, et ab
+<pb n="0402B"/>
+alienis parce servo tuo <note>(Psal. XVIII, 13, 14)</note>
+          </hi>. <hi>Genimina
+viperarum,</hi> ait Joannes, <hi>quis ostendit vobis fugere a
+ventura ira?</hi> De quanto mentis fervore procedere
+putas scintillas istas, imo carbones desolatorios?
+Sic neque Pharisaeis <emph>986</emph> parcens: <hi>Nolite,</hi> inquit, <hi>dicere quia patrem habemus Abraham: potens est
+enim Deus de lapidibus istis suscitare filios Abrahae <note>(Luc. III, 7, 8)</note>
+          </hi>.
+Sed minus hoc videatur, si vel ipsum
+veretur potentis vultum, et non tota libertate spiritus
+arguit peccantem regem, crudelem atque superbum;
+sacra quadam vehementia ad boc ipsum prodiens
+de deserto, si vel blanditiis ejus, vel ipso
+mortis terrore movetur. <hi>Metuebat,</hi> inquit, <hi>Herodes
+Joannem, et audito eo multa faciebat, et libenter eum
+audiebat.</hi> Ac ille nihil ob hoc parcens: <hi>Non licet,</hi> 
+<pb n="0402C"/>
+ait, <hi>tibi habere eam.</hi> Ligatus quoque, et in carcerem
+trusus, nihilominus fortiter stetit in veritate, et occubuit
+pro veritate feliciter <note>(Marc. VI, 17-28)</note>. Ferveat
+etiam in nobis zelus iste, charissimi; ferveat
+amor justitiae, odium iniquitatis. Nemo, fratres,
+vitia palpet; peccata dissimulet nemo. Nemo dicat:
+Nunquid custos fratris mei sum ego? Nemo, quod
+in se est, aequanimiter ferat, cum viderit ordinem
+deperire, minui disciplinam. Est enim consentire,
+silere, cum arguere possis: et scimus quia similis
+poena facientes maneat et consentientes.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Jam vero super humili et omnino ferventissima
+devotione Joannis erga Dominum quid loquemur?
+Inde enim exsultavit in utero <note>(Luc. I, 44)</note>;
+<pb n="0402D"/>
+inde expavit in Jordane baptizaturus eum <note>(Matth.
+III, 14)</note>; inde non modo Christum, qui putabatur, sed
+vel ipsam corrigiam calceamenti ejus solvere dignum
+se esse negabat <note>(Marc. I, 7)</note>; inde gaudebat amicus
+sponsi ad vocem sponsi <note>(Luc. I, 44)</note>; inde gratiam
+se accepisse pro gratia fatebatur; illum autem non
+ad mensuram habere Spiritum, sed plenitudinem
+de qua omnes acciperent, clamitabat <note>(Joan. I, 16)</note>. <hi>Nonne Deo subjecta eris, anima mea? 
+ <note>(Psal. LXI, 1.)</note>
+          </hi> 
+Alioquin non ero lucerna ardens, nisi toto corde,
+tota mente, et ex omnibus viribus meis diligam
+Dominum Deum meum. Sola enim est charitas quae
+accendit ad salutem; sola quam infundit et inflammat
+Spiritus, quem exstinguere prohibemur <note>(Thess. V, 19)</note>.
+Habes quemadmodum Joannes arserit: et in hoc ipso
+<pb n="0403A"/>
+quemadmodum luxerit, indicatum est, si advertisti.
+Neque enim ardorem ejus nosse poteras, nisi luxisset.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Luxit ergo, ut supra memini, exemplo, digito,
+verbo: opere se ipsum. Christum indice, nosmetipsos
+nobis sermone declarans. <hi>Tu puer, propheta Altissimi
+vocaberis,</hi> ait pater; <hi>praeibis enim ante faciem
+Domini parare vias ejus, ad dandam scientiam salutis
+plebi ejus. Ad dandam,</hi> inquit, non salutem: neque
+enim ille lux; sed <hi>scientiam salutis,</hi> ut testimonium
+perhiberet de lumine. <hi>Scientiam,</hi> inquit, <hi>salutis, in
+remissionem peccatorum <note>(Luc. I, 76, 77)</note>
+          </hi>. Num salutis
+scientiam sapiens parvipendere potest? Ponamus
+tamen necdum venisse Joannem, necdum significasse
+nobis de Christo. Ubi salutem quaeremus? Peccavi
+peccatum grande, quod sanguine vitulorum vel hircorum
+<pb n="0403B"/>
+deleri non potest, quia non holocaustis delectatur
+Altissimus. Memoria mea infecta est faece
+hujus amurcae: non est novacula quae membranam
+hanc radere possit, quia tota totam imbibit faecem.
+Si peccati mei oblitus fuero, stultus sum et ingratus;
+si in memoria mea permanet, arguet me in
+aeternum. Quid igitur faciam? Ibo ad Joannem, et
+audiam vocem laetitiae, misericordiae vocem, sermonem
+gratiae, verbum remissionis et pacis. <hi>Ecce,</hi> inquit, <hi>Agnus Dei, ecce qui tollit peccata mundi 
+ <note>(Joan.
+I, 29)</note>
+          </hi>; et alibi: <hi>Qui habet sponsam,</hi> inquit, <hi>sponsus
+est <note>(Joan. III, 29)</note>
+          </hi>. Ostendit igitur quia venit Deus,
+quia sponsus, quia Agnus. Quia Deus, certum est
+quod peccata remittere possit; sed utrum velit, adhuc
+in quaestione est. Vult profecto, quia sponsus
+<pb n="0403C"/>
+est, quia amabilis est. Et Joannes amicus sponsi
+est, quia sponsus nisi amicos habere non novit. Et
+licet velit gloriosam sponsam non habentem maculam,
+<pb n="0404A"/>
+aut rugam, aut aliquid ejusmodi; non tamen
+quaerit talem (ubi enim illam inveniret?), sed talem
+potius ipse facit, talem sibi exhibet ipse. Audi denique
+quid dicat per prophetam. <hi>Vulgo dicitur:
+Nunquid mulier, si dormierit cum altero viro, revertetur
+ad virum suum priorem? Tu autem fornicata es
+cum amatoribus multis. Revertere tamen</hi> <emph>987</emph> <hi>ad me,
+et ego suscipiam te. <note>(Jerem. III, 1)</note>
+          </hi>. Ecce quod poscit,
+ecce quod velit.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Sed tu fortassis timeas eam quam facere
+venit delictorum purgationem, ne ustione et scissione
+ossa et medullas ossium collidat, ne dolorem
+inferat morte graviorem. Audi: Agnus est, in mansuetudine
+venit cum lana et lacte, solo verbo justificans
+impium. Quid enim est, juxta comicum, facilius
+<pb n="0404B"/>
+dictu? <hi>
+            <note>(Terent. Phorm. II, I, 70.)</note> Tantum,</hi> inquit, <hi>dic verbo, et sanabitur puer meus 
+ <note>(Matth. VIII,
+8)</note>
+          </hi>. Utquid ergo deinceps haesitemus, fratres, et non
+omni fiducia ad thronum gloriae accedamus? <hi>[alias,</hi> 
+ascendamus.] Agamus Joanni gratias, et eo mediante
+transeamus ad Christum, quia, ut ait ipse: <hi>Illum oportet crescere, me autem minui 
+ <note>(Joan. III,
+36)</note>
+          </hi>. Quomodo minui? Splendore utique, non fervore.
+Retraxit radios, collegit se [ <hi>alias,</hi> recollegit
+se], ne fieret sicut is qui totum profert spiritum
+suum. <hi>Illum,</hi> inquit, <hi>oportet crescere,</hi> qui exhauriri
+non potest, de cujus plenitudine omnes accipiunt;
+me autem minui, cui datus est spiritus ad mensuram,
+et danda magis opera ut ardere semper valeam
+<pb n="0404C"/>
+quam lucere. Praecessi solem, tanquam sidus matutinum;
+abscondi necesse est, orto jam sole. Non
+est mihi nisi modicum olei quo ungar; volo illud in
+vase tutius quam in lampade possidere.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

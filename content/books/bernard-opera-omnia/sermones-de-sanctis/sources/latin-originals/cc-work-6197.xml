@@ -1,0 +1,441 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In natali S. Victoris confessoris</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InNaSVi</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I.</head>
+
+<pb n="0371B"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Victoris vita [ <hi>alias,</hi> virtus] et gloria specialis
+non tam ad gloriam quam ad virtutem provocat
+omnes qui recto sunt corde. Non recti plane, sed
+perversi est animi, ante quaerere gloriam quam
+exercere virtutem, et velle coronari qui legitime
+non certaverit. <hi>Vanum est vobis,</hi> inquit, <hi>ante lucem
+surgere <note>(Psal. CXXVI, 2)</note>
+          </hi>. Ita est. Frustra ad celsitudinem
+nititur gloriae, qui prius non claruit virtute.
+Frustra fatuae virgines sponso obviam surgunt,
+quarum lampades exstinguuntur: et ideo fatuae, quia
+vacuis gloriantur lampadibus, virtutis oleum non
+habentes. Absit mihi gloriari nisi in gloria illorum,
+quibus Propheta congratulans ait: <hi>Domine, in lumine
+vultus tui ambulabunt, et in nomine tuo exsultabunt
+<pb n="0371C"/>
+tota die, et in justitia tua exaltabuntur.</hi> Et infert: <hi>Quoniam gloria virtutis eorum tu es 
+ <note>(Psal. LXXXVIII,
+16-18)</note>
+          </hi>. Pulchre non eorum, sed virtutis eorum gloria
+commendatur. Quae enim sine virtute est gloria,
+profecto indebita venit, praepropere affectatur, periculose
+captatur. Virtus, gradus ad gloriam; virtus,
+mater gloriae est. Fallax gloria et vana est
+pulchritudo, quam illa non parturivit. Sola est, cui
+gloria jure debetur, et secure impenditur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Sancto Victori nec virtus, nec gloria deest;
+sed quemadmodum ambae res, et quo ordine in homine
+processerunt, id operae pretium intueri. Pugnavit
+fortiter, viriliter superavit, et sic demum
+gloria et honore coronatur. Quomodo nempe inglorius
+<pb n="0371D"/>
+remansisset bellator fortis, humilis victor?
+Quanquam nec in die virtutis suae sine gloria fuit,
+signis et prodigiis admirandus. Habemus, dilectissimi,
+in vita Victoris, et quod digne miremur, et
+quod salubriter imitemur. Miror vina dedisse in
+eremo, non vitem, sed fontem. Miror et stupco infantem
+adhuc in utero pavori fuisse pavendis daemoniis,
+quippe ab ipsis praecognitum, et jam tunc
+ex nomine designatum. Nec vacuum nomen, ubi
+hostium fuga et extorta confessio victoriam concessit
+<pb n="0372B"/>
+infantulo. Quis item non miretur furem a <emph>964</emph> 
+daemone deprehensum, et rursum a daemone mox
+hominem liberatum? Quis non etiam omni admiratione
+stupendum ducat, carne circumdatum hominem,
+coelis patentibus, carnis oculos superno infigere
+lumini, et videre visiones Dei, angelico insuper
+mulceri cantico, doceri oraculo? Haec atque
+similia in sancto homine veneramur, non aemulamur.
+Merito quidem, quando et sine salutis periculo
+possunt non fieri, et sine salutis periculo nequeunt
+usurpari. Tutius sane aemulanda solidiora
+quam sublimiora; et quae magis virtutem redoleant,
+gloriam minus.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Studeamus proinde moribus conformari, cui in
+mirabilibus similari, etsi volumus, non valeamus.
+<pb n="0372C"/>
+Aemulemur in viro sobrium victum, devotum, affectum;
+aemulemur mansuetudinem spiritus, castimoniam
+corporis, oris custodiam, animi puritatem;
+ponere frenum irae et modum linguae, dormire parcius,
+orare frequentius, commonere nosmetipsos
+psalmis, hymnis et canticis spiritualibus; diebus
+jungere noctes et divinis laudibus occupare. Aemulemur
+charismata meliora. Discamus ab ipso quod
+mitis et humilis corde fuit. Aemulemur, inquam,
+quod exstitit liberalis in pauperes, jucundus ad hospites,
+patiens ad peccantes, benignus ad omnes.
+Hoc enim melius. In his forma est cui imprimamur,
+in miraculis gloria a qua reprimamur. Illa laetificent,
+ista aedificent; moveant illa, ista promoveant. Epulemur,
+<pb n="0372D"/>
+dilectissimi, ad mensam divitis vocati, mensam
+abundantem panibus, deliciis cumulatam. Annon dives
+qui exemplis nos reficit, protegit meritis, laetificat
+signis? Dives plane, in cujus hodie convivio solemni
+angeli et homines pariter congregantur: hi ut reficiantur,
+illi ut delicientur; isti ut proficiant, illi ut gaudeant.
+Cujus vita repleta bonis, quid nisi mensa referta
+cibis? Nec tamen omnibus omnia apponuntur, sed ut
+tollat quisque quod sibi expedire et convenire videbit.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Et ego quidem consilio salubriori diligenter
+<pb n="0373A"/>
+considero quae mihi apponuntur. Cautum est mihi
+eligere mea, et aliena non tangere. Non extendam
+manum ad gloriam miraculorum, ne si attentavero
+quod desuper non accepi, perdam merito et quod
+videor accepisse. Non levo cum illo oculos ad rimanda
+secreta coelestia, ne oppressus a gloria confusus
+resiliam, sero confugiens ad consilium Sapientis,
+qui ait: <hi>Altiora te ne quaesieris, et fortiora
+te ne scrutatus fueris <note>(Eccli. III, 22)</note>
+          </hi>. Infertur mensis
+vinum novum aquarum rubentium; non tango,
+quia non mihi appositum scio, qui similiter elementa
+mutare, naturas innovare non valeo. Cerno item in
+mensa Victoris angelos illum audisse canentes. Nunquid
+videbo et ego mihi supernos exhiberi cantores:
+aut certe citharoedos illos de Apocalypsi coram me citharizare
+<pb n="0373B"/>
+in citharis suis? <note>(Apoc. XIV, 2.)</note> Imperat ille
+daemonibus adhuc in corpore vivens, vinctum in corpore
+solvit corpore jam solutus. Cibi sunt, sed non
+mei; equidem jucundi et sapidi, sed non tangit illos
+anima mea, quoniam non est inopi mihi, unde sufficiam
+talia redhibere. At si diligenter considero,
+ecce prae oculis in mensa sancti, censura judicii,
+disciplinae vigor, sanctitatis speculum, vitae forma,
+virtutis insigne. Haec a me et absque praesumptione
+sumuntur, et salubriter insumuntur: et si dissimulo,
+districte reposcuntur.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Audi adhuc quaenam mihi jure apposita putem.
+Si panem doloris et vinum compunctionis de
+divitis mensa obtuleris, tollo securus qui sum pauper
+<pb n="0373C"/>
+et inops. Erunt mihi lacrymae meae panes die
+ac nocte <note>(Psal. XLI, 4)</note>, et poculum meum cum fletu
+miscebo <note>(Psal. CI, 10)</note>. Pars mea haec, qui dolenda
+commisi. Nec me tamen pigebit, ut aestimo, cibi
+hujus; quoniam qui apposuit scientiam, addidit et
+dolorem. Sed et si temperantiae, si justitiae, si prudentiae
+vel fortitudinis exempla appareant, ea incunctanter
+sumo, sciens quia talia oportet me praeparare.
+Haec mihi apponi, haec a me repetitum iri
+non dubito. Nunquid signa et prodigia exigenda a
+nobis <emph>965</emph> sunt, ut ea diviti vicissim praeparemus?
+Fratres, vasa sunt in honorem illi qui nos invitavit,
+non cibi pauperum. Tu ergo qui invitatus es, dilgenter
+considera quid tibi ille, quid sibimet apposuerit.
+Non enim quidquid in mensa apponitur, tibi
+<pb n="0373D"/>
+apponitur. Quid si in poculo aureo fuerit propinatum?
+non poculum tibi, sed potus apponitur: sume
+potum et pone aurum. Ergo exempla bonorum
+operum et rectitudinem morum paterfamilias communicat
+ita domesticis, ut praerogativam sibi retineat
+in miraculis. In his tamen atque illis ille glorificandus
+est, cujus est munus sancte vivere, cujus
+virtus signa facere, qui in Trinitate perfecta vivit
+et regnat Deus in saecula saeculorum. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>SERMO II.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Gaudete in Domino, dilectissimi, qui inter continua
+suae pietatis beneficia indulsit hominem mundo,
+cujus multi salvarentur exemplo. Iterum dico, gaudete,
+quod factus de medio appropiavit Deo, ut multo
+plures ejus intercessione salventur. Habet ex hominibus,
+<pb n="0374A"/>
+cui hominum peccata donet misericors et
+miserator Dominus: habet tempus et locum intercedendi
+pius et misericors advocatus; equidem locum
+quietum et tempus feriatum. In terris visus est, ut
+esset exemplo; in coelum levatus est, ut sit patrocinio.
+Hic informat ad vitam, illic invitat ad gloriam.
+Factus est mediator ad regnum, qui fuit incitator
+ad opus. Bonus mediator, qui sibi jam postulans nihil,
+totum in nos transferre desiderat et supplicantis
+affectum et supplicationis fructum. Quid enim quaerat
+sibi, qui nullius eget? Dominus conservat eum,
+et vivificat eum, et beatum facit eum in gloria: nihil
+illi deerit in loco pascuae collocato. Haec dies
+gloriosae migrationis ejus, dies laetitiae cordis ejus;
+exsultemus et laetemur in ea. Introivit in potentias
+<pb n="0374B"/>
+Domini; gaudeamus, quia nunc potentior est ad salvandum.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Hodie Victor posito corpore, quo solo praepediri ab
+introitu gloriae videbatur, tanto alacrior, quanto expeditior,
+penetravit in sancta, similis factus in gloria sanctorum.
+Hodie de novissimo et humili loco, quem sibi
+ex consilio Salvatoris elegerat, ipso summo patrefamilias
+evocante, verus amicus ascendit superius,
+et est illi gloria coram simul discumbentibus. Hodie
+despecto mundo, et mundi principe triumphato,
+supra mundum vere Victor ascendit, accipiens de
+manu Domini coronam victoriae. Ascendit autem
+cum immensa supellectili meritorum, clarus triumphis,
+miraculis gloriosus. Pausat miles emeritus,
+<pb n="0374C"/>
+et post labores sudoresque sacrae peractae militiae
+locatur feliciter, coronatur sublimiter. Anima ejus
+in bonis demorabitur. Quaeris ubi? Cum Abraham,
+Isaac et Jacob in regno coelorum. Ita cum talibus et
+tali in loco sibi sedet; sedet excelsa et fulgida, sedet
+laetabunda et laudans; sedet delicata et ornata
+monilibus suis, stipata malis, fulcita floribus; sedet,
+inquam, sibi, vacua curis, deliciis affluens, abundans
+otii et quietis ad vacandum sapientiae. Quae sedit et
+flevit super flumina Babylonis, sedet modo ad fontem
+vitae, et conversatio illi secus torrentem voluptatis,
+cujus impetus laetificat civitatem Dei. Invenit sibi
+fontem hortorum, puteum aquarum viventium, et
+cum Samaritana potatur aqua sapientiae salutaris,
+ut non sitiat in aeternum. Datur illi de fructu manuum
+<pb n="0374D"/>
+suarum, et laudant eam in portis opera ejus,
+et gloriatur testimonio conscientiae; conscientiae
+dico suae, non alterius. Sedet media angelorum,
+digna plane eorum consortio, quorum desiderio flagrat,
+puritate nitet, castimonia decoratur. Sedet inter
+apostolos vir apostolicae gratiae; nec est quod se
+abscondat a cuneo prophetarum, qui quem illi praedixerunt,
+glorificavit et portavit in corpore suo. Neque
+se putat a victoriosis martyrum choris Victor
+noster arcendum, qui duro et diuturno <emph>966</emph> martyrio
+viventem sui corporis hostiam immolavit.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Sedet veteranus miles, debita jam suavitate et
+securitate quietus; securus quidem sibi, sed nostri
+sollicitus. Non enim cum putredine carni simul se
+exuit visceribus pietatis; nec sibi sic induit stolam
+<pb n="0375A"/>
+gloriae, ut nostrae pariter miseriae, suaeque ipsius misericordiae
+oblivionem indueret. Non est terra oblivionis,
+quam anima Victoris inhabitat; non terra laboris,
+ut occupetur in ea; non denique terra, sed coelum
+est. Nunquid coelestis habitatio animas quas
+admittit indurat, aut memoria privat, aut spoliat
+pietate? Fratres, latitudo coeli dilatat corda, non
+arctat; exhilarat mentes, non alienat; affectiones
+non contrahit, sed extendit. In lumine Dei serenatur
+memoria, non obscuratur; in lumine Dei discitur
+quod nescitur, non quod scitur dediscitur. Superni
+spiritus illi, qui ab initio coelos inhabitant, nunquid
+quia incolunt coelos, despiciunt terras, et non magis
+eas visitant et frequentant? Nunquid quod semper
+vident faciem Patris, ministerium evacuat pietatis?
+<pb n="0375B"/>
+Omnes nihilominus administratorii spiritus
+sunt, missi in ministerium propter eos qui haereditatem
+capiunt salutis <note>(Hebr. I, 14)</note>. Quid ergo? discurrunt
+angeli, et succurrunt hominibus; et qui ex
+nobis sunt, nesciunt nos, nec norunt jam compati,
+in quibus passi sunt et ipsi? qui dolores nesciunt,
+sentiunt tamen nostros; et qui venerunt de magna
+tribulatione, non recognoscunt jam in quo fuerunt?
+Scio qui dixit: <hi>Me exspectant justi, donec retribuas
+mihi <note>(Psal. CXLI, 8)</note>
+          </hi>. Justus est Victor, etiam exspectans
+nostram procul dubio retributionem. Non est
+ille pincerna Pharaonis, qui inventam gratiam retinuit
+sibi, prophetae sui pariter et captivi minime
+recordatus <note>(Gen. XL)</note>. Minister Christi est, Christum
+<pb n="0375C"/>
+sequitur. Non est ille oblitus suae promissionis, nec
+socio passionis regni consortium denegavit. Non est
+discipulus contra magistrum; non potest Victor
+quidquam facere, nisi quod viderit magistrum facientem.
+Opera quae ille fecit, et iste fecit similiter.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Jam coelos ingressus, quos et ante apertos
+beatis oculis suspiciebat, vere nunc revelata facie
+speculatur gloriam Dei, absorptus quidem, sed non
+oblitus clamorem pauperum. Beata visio, qua in
+eamdem imaginem transformatur de claritate in
+claritatem, tanquam a Domini Spiritu. Parvulus ad
+pugnam, magnus ad victoriam, matris viscera necdum
+exiens, et jam ejiciens daemonia, cum incremento
+virtutum ac meritorum Victor vivens inter
+peccatores translatus est. O virum praecipuae
+<pb n="0375D"/>
+sanctitatis! qui ante sanctus quam natus, ante
+opere quam nomine Victor. Adhuc utero clausus
+jam de hoste triumphavit. O venerandam etiam
+ipsis angelis sanctitatem! quam pari studio, etsi
+<pb n="0376A"/>
+dispari voluntate, et mali fugitant et frequentant
+boni. Nec facile dixerim quid virum astruat sanctiorem,
+horum favor, aut pavor illorum. Corpore denique
+terras, mente coelos inhabitans, aliquando familiarius
+aliquid nuntiantes, aliquando ineffabili
+cantus suavitate plausibiles supernorum voces spirituum
+audiebat. Vere anima tua, Victor, una ex
+gemmis, quae tibi in cruce apparuerunt. Vere infixa
+cruci, cum divinae inserta gloriae, eamdem sibi claritatis
+imaginem induit, quam invenit. Vincenti expandit
+gremium suum, qui pugnanti dederat spiritum
+suum. O victrix anima, quae sicut passer transvolans,
+mundi laqueos evasisti! respice ad incautas
+animas intricatas illis, periclitantes in illis, ut tuo
+patrocinio eruamur.
+<pb n="0376B"/>
+</p>
+        </div3>
+<div3>
+          <head>5. </head>
+          <p>
+O miles emerite, qui Christianae militiae duris
+laboribus angelicae felicitatis requiem commutasti!
+respice ad imbelles et imbecilles commilitones tuos,
+qui inter hostiles gladios et spirituales nequitias
+tuis laudibus occupamur. O Victor inclyte, qui et
+de terra, et de coelo gloriosissime triumphasti, illius
+gloriam nobiliter superbus despiciens, et hujus regna
+pie violentus diripiens! respice de coelo ad vinctos
+terrae, ut haec sit tuorum consummatio triumphorum,
+si et nobis demum vicisse te sentiamus. Nam
+si ex re nomen tibi, perfecta veritas nominis ex
+nostra liberatione censebitur. Et certe deest interpretationi,
+quandiu nos, qui tui sumus, <emph>967</emph> minime liberamur.
+Quam pium, quam dulce, quam suave, o Victor,
+in hoc loco afflictionis et in hoc corpore mortis te
+<pb n="0376C"/>
+canere, te colere, te precari! Nomen tuum et memoriale
+tuum favus distillans in labiis captivorum;
+mel et lac sub lingua eorum, qui tui memoria delectantur.
+Eia ergo fortis athleta, dulcis patrone, advocate
+fidelis, exsurge in adjutorium nobis, ut et
+nos de nostra ereptione gaudeamus, et tu de plena
+victoria glorieris. O omnipotens Pater, peccavimus
+tibi facti filii alieni; sed appropiavimus in Victore,
+qui dum vicit cupiditatem suam, vincat et iram
+tuam, nos quoque in gratiam potenter restituat. O
+victor Jesu, te in nostro Victore laudamus, quia te
+in illo vicisse cognoscimus. Da ei, piissime Jesu, sic
+de sua in te victoria gloriari, ut non subeat oblivio
+nostri. Fili Dei, immitte ei nostri semper in conspectu
+<pb n="0376D"/>
+tu memorem esse, nostram in tuo tremendo
+judicio suscipere et agere causam, qui cum Patre
+et Spiritu sancto vivis et regnas Deus per omnia
+saecula saeculorum. Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

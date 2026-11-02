@@ -1,0 +1,1175 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In annuntiatione B. V. Mariae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.InAnBVM</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO I. <hi>De verbis psalmi</hi> LXXXIV, 10, 11: « <hi>Ut inhabitet gloria in terra nostra. » </hi> </head>
+
+<pb n="0383A"/>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Ut inhabitet gloria in terra nostra, misericordia
+et veritas obviaverunt sibi, justitia et pax osculatae
+sunt. Gloria nostra haec est,</hi> ait Apostolus, <hi>testimonium
+conscientiae nostrae <note>(II Cor. I, 12)</note>
+          </hi>. Non quidem
+tale testimonium, quale ille superbus Pharisaeus
+habebat, seducta et seductrice cogitatione testimonium
+perhibens de seipso <note>(Luc. XVIII, 11, 12)</note>, et
+testimonium ejus verum non erat; sed cum Spiritus
+ipse testimonium perhibet spiritui nostro. Porro hoc
+testimonium in tribus consistere credo. Necesse est <emph>972</emph> 
+ enim primo omnium credere, quod remissionem
+peccatorum habere non possis, nisi per indulgentiam
+<pb n="0383B"/>
+Dei: deinde, quod nihil prorsus habere
+queas operis boni, nisi et hoc dederit ipse: postremo,
+quod aeternam vitam nullis potes operibus promereri,
+nisi gratis tibi detur et illa. Quis enim
+potest facere mundum de immundo conceptum semine,
+nisi qui solus est mundus? <note>(Job. XIV, 4.)</note> 
+Utique quod factum est, non potest non fieri: ipso
+tamen non imputante, erit quasi non fuerit. Quod
+Propheta quoque considerans ait: <hi>Beatus vir cui
+non imputavit Dominus peccatum <note>(Psal. XXXI, 2)</note>
+          </hi>. De
+operibus vero bonis certum omnino est, quod nemo
+haec habeat a seipso. Nam si stare non potuit humana
+natura adhuc integra, quanto minus poterit
+per seipsam resurgere jam corrupta? Certum est
+ad suam originem universa, quantum in eis est,
+<pb n="0383C"/>
+tendere, et in eam semper esse partem procliviora.
+Sic et nos, qui de nihilo creati sumus, constat quia
+si nobisipsis relinquimur, in peccatum semper,
+quod nihil est, declinamus.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Jam vero de aeterna vita scimus, quia non sunt
+condignae passiones hujus temporis ad futuram gloriam,
+nec si unus omnes sustineat. Neque enim
+talia sunt hominum merita, ut propterea vita aeterna
+debeatur ex jure, aut Deus injuriam aliquam faceret,
+nisi eam donaret. Nam ut taceam quod merita
+omnia dona Dei sunt, et ita homo magis propter ipsa
+Deo debitor est, quam Deus homini; quid sunt merita
+omnia ad tantam gloriam? Denique quis melior
+est propheta, cui Dominus ipse tam insigne testimonium
+<pb n="0383D"/>
+perhibet, dicens: <hi>Virum inveni secundum cor
+meum? <note>(I Reg. XIII, 14; Act. XIII, 22.)</note>
+          </hi> Verumtamen
+et ipse necesse habuit dicere Deo: <hi>Non intres in judicium
+cum servo tuo, Domine <note>(Psal. CXLII, 2)</note>
+          </hi>. Nemo
+itaque se seducat; quia si bene cogitare [ <hi>alias,</hi> 
+computare] voluerit, inveniet procul dubio, quod
+nec cum decem millibus possit occurrere ei, qui cum
+viginti millibus venit ad se <note>(Luc. XIV, 31)</note>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Verum haec quae nunc diximus non omnino
+sufficiunt, sed magis initium quoddam et velut fundamentum
+<pb n="0384A"/>
+fidei sunt habenda. Ideoque si credis
+peccata tua non posse deleri nisi ab eo cui soli
+peccasti, et in quem peccatum non cadit, bene facis;
+sed adde adhuc ut et hoc credas, quia per ipsum
+tibi peccata donantur. Hoc est testimonium quod
+perhibet in corde tuo Spiritus sanctus, dicens:
+Dimissa sunt tibi peccata tua. Sic enim arbitratur
+Apostolus, gratis justificari hominem per fidem <note>(Rom. III, 28)</note>.
+Ita de meritis quoque si credis non
+posse haberi nisi per ipsum, non sufficit, donec tibi
+perhibeat testimonium Spiritus veritatis, quia habes
+ea per illum. Sic et de vita aeterna habeas necesse
+est testimonium Spiritus, quod ad eam divino sis
+munere perventurus. Ipse enim peccata condonat,
+ipse donat merita, et praemia nihilominus ipse redonat.
+<pb n="0384B"/>
+</p>
+        </div3>
+<div3>
+          <head>4. </head>
+          <p>
+Porro testimonia ista credibilia mihi facta
+sunt nimis. Nam de remissione quidem peccatorum
+validissimum teneo argumentum, Dominicam passionem.
+Vox siquidem sanguinis ejus invaluit multo
+plus quam vox sanguinis Abel, clamans in cordibus
+electorum, remissionem omnium peccatorum. <hi>Traditus
+est</hi> enim <hi>propter peccata nostra:</hi> nec dubium,
+quin potentior et efficacior sit mors illius in bonum,
+quam peccata nostra in malum. De bonis autem
+operibus argumentum nihilominus efficax mihi est
+resurrectio ejus, quia <hi>resurrexit propter justificationem
+nostram <note>(Rom. IV, 25)</note>
+          </hi>. Porro de spe praemiorum
+testimonium ejus est ascensio, quia ascendit
+propter glorificationem nostram. Haec tria in psalmis
+<pb n="0384C"/>
+habes, dicente Propheta: <hi>Beatus vir cui non imputavit
+Dominus peccatum <note>(Psal. XXXI, 2)</note>
+          </hi>; et alibi: <hi>Beatus vir cujus est auxilium abs te 
+ <note>(Psal. LXXXIII,
+6)</note>
+          </hi>; item alibi: <hi>Beatus quem elegisti et assumpsisti,
+habitabit in atriis tuis <note>(Psal. LXIV, 5)</note>
+          </hi>. Haec est gloria
+vera, gloria inhabitans; quia ab eo est, qui per
+fidem habitat in cordibus nostris. Filii vero Adam
+gloriam quae ab invicem est quaerentes, gloriam quae
+a solo Deo est non volebant: et sic gloriam extrinsecus
+fluentem sectantes, habebant gloriam, non in
+semetipsis, sed magis in aliis. <emph>973</emph>
+</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Vis nosse unde sit homini inhabitans gloria?
+Dico breviter, quoniam ad mystica festinat intentio.
+Nam et ea sola proposueram in verbis illis propheticis
+<pb n="0384D"/>
+diligentius vestigare, sed reflexit ad moralia
+occurrens prima fronte apostolicus sermo de interna
+gloria et testimonio conscientiae. Sic ergo inhabitat
+haec gloria etiam hic in terra nostra, si misericordia
+et veritas obviaverint sibi, et sese justitia et pax
+osculentur. Praevenienti siquidem misericordiae veritas
+nostrae confessionis [ <hi>alias,</hi> conversionis] occurrat
+necesse est, ac de caetero sanctimoniam sectemur
+et pacem, sine qua nemo videbit Deum. Ubi enim
+compungitur quis, jam tunc eum misericordia praevenit;
+<pb n="0385A"/>
+sed nequaquam ingredietur, donec ei veritas
+confessionis occurrat. <hi>Peccavi Domino,</hi> ait ipse
+David ad Nathan prophetam, cum de adulterio et
+homicidio argueretur. <hi>Et transtulit Dominus peccatum
+tuum a te,</hi> ait propheta <note>(II Reg. XII, 13)</note>. Nimirum
+misericordia et veritas obviaverunt sibi. Et
+hoc quidem, ut declines a malo. Jam vero ut facias
+bonum, in tympano et choro tibi psallendum est, ut
+ipsa mortificatio carnis tuae, et poenitentiae fructus
+ac justitiae opera in unitate et concordia fiant
+(quoniam unitas spiritus, vinculum est perfectionis);
+neque ad dexteram, neque ad sinistram declinaveris.
+Sunt enim quorum dextera est dextera
+iniquitatis. Pharisaeus ille, cujus supra meminimus,
+non erat sicut caeteri hominum <note>(Luc. XVIII, 11)</note>;
+<pb n="0385B"/>
+sed ipse sibi, ut diximus, testimonium perhibuit,
+sed non verum. Sane quisquis ille est, in quo misericordia
+et veritas obviaverunt sibi, justitia et pax
+osculatae sunt, secure glorietur; sed glorietur in
+eo qui sibi testimonium perhibet, in spiritu utique
+veritatis.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Ut inhabitet gloria in terra nostra, misericordia
+et veritas obviaverunt sibi, justitia et pax osculatae
+sunt.</hi> Si gloria Patris Filius sapiens, cum sit Sapientia
+ipsa sapientior nemo; liquet profecto gloriam
+Patris Christum Dei virtutem, et Dei sapientiam
+esse. Quia ergo multifarie, multisque modis de eo
+praedictum fuerat in prophetis <note>(Hebr. I, 1)</note>, quod in
+terris videndus esset, et inter homines conversaturus;
+quonam modo id factum sit, et impletis quae
+<pb n="0385C"/>
+de eo per os omnium prophetarum praedicta fuerant,
+habitaverit gloria in terra nostra, Psalmista indicat
+his verbis, ac si manifestius dicat: Ut verbum caro
+fieret et habitaret in nobis, <hi>misericordia et veritas
+obviaverunt sibi, justitia et pax osculatae sunt.</hi> Magnum
+sacramentum, fratres, et diligentius perscrutandum,
+nisi et intellectus mysterio, et ipsi quoque
+intellectui verba deessent. Dico tamen utcunque
+modicum id quod sentio, si forte vel occasionem
+dedisse videar sapienti. Videre mihi videor, dilectissimi,
+quatuor virtutibus his amictum primum hominem
+ab ipso suae creationis exordio, et, ut propheta
+meminit, vestimento salutis indutum <note>(Isai.
+LXI, 10)</note>. Est enim in his quatuor salutis integritas,
+<pb n="0385D"/>
+nec sine his omnibus potest constare salus; praesertim
+cum nec possent esse virtutes, si ab invicem
+separentur. Acceperat ergo homo misericordiam,
+custodem scilicet atque pedisequam, ut ipsa praeveniret,
+ipsa et sequeretur eum, ipsa quoque protegeret
+et conservaret ubique. Vides qualem nutritium
+contulit parvulo suo Deus, qualem dedit pedisequam
+homini recens orto. Sed erat illi necessarius etiam
+eruditor, tanquam ingenuae et rationabili creaturae,
+ut non sicut jumentum aliquod custodiretur, sed
+tanquam parvulus educaretur. Cui sane magisterio
+nemo poterat aptior inveniri, quam veritas ipsa,
+quae eum in agnitionem summae perduceret aliquando
+Veritatis. Interim vero ne sapiens inveniretur ut
+malum faceret, essetque peccatum ei tanquam
+<pb n="0386A"/>
+scienti bonum, et minime facienti, justitiam quoque,
+qua regeretur, accepit. Adhuc autem et pacem,
+qua foveretur et delectaretur, addidit manus benignissima
+Creatoris: pacem utique duplicem, ut nec
+intus pugnae, nec foris timores, id est nec caro concupisceret
+adversus spiritum, nec esset ei creatura
+ulla formidini. Nam et bestiis omnibus libere imposuit
+nomina, et serpens ipse, quod violentia
+non praesumpsit, fraude magis eum aggressus est.
+Quid huic deerat, quem misericordia <emph>974</emph> custodiebat,
+docebat veritas, regebat justitia, pax
+fovebat?</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Sed heu! homo iste, ad multam perniciem et
+insipientiam sibi, descendit de Jerusalem in Jericho:
+siquidem incidit in latrones, a quibus et ante omnia
+<pb n="0386B"/>
+legitur despoliatus <note>(Luc. X, 30)</note>. Annon despoliatus,
+qui Domino veniente nudum se esse conqueritur?
+Nec vero poterat revestiri, vel ablata sibi recipere
+vestimenta, nisi Christus amitteret sua. Sicut enim
+vivificari in anima nisi interveniente corporali
+morte Christi non potuit, ita nec revestiri sine ejus
+despoliatione. Et vide, si non propter has quatuor
+partes vestimenti, quod amiserat primus et vetus
+homo, in totidem quoque divisa sunt secundi et novi
+hominis vestimenta. An forte quaeris et tunicam inconsutilem,
+quae non dividitur, sed sorte provenit?
+Ego divinam arbitror esse imaginem, quae nimirum
+non assuta, sed insita atque ipsi impressa naturae,
+dividi scindique non potest. Ad imaginem nempe et
+similitudinem Dei factus est homo, in imagine arbitrii
+<pb n="0386C"/>
+libertatem, virtutes habens in similitudine. Et
+similitudo quidem periit, verumtamen in imagine
+pertransit homo. Imago siquidem in gehenna ipsa
+uri poterit, non exuri; ardere, sed non deleri. Haec
+ergo non scinditur, sed sorte provenit. Et quocunque
+perveniat anima, simul et ipsa ibi erit. Nam
+similitudo non sic; sed aut manet in bono, aut, si
+peccaverit anima, mutatur miserabiliter, jumentis
+insipientibus similata.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Sed quia spoliatum virtutibus quatuor hominem
+diximus, quonam modo singulis sit spoliatus,
+congruum est ut dicamus. Perdidit homo justitiam,
+cum Eva serpentis, Adam mulieris voci obedivit
+potius quam divinae. Erat tamen residuum aliquid,
+<pb n="0386D"/>
+quod apprehendere possent, idque Dominus suo illo
+scrutinio innuebat; sed abjecerunt etiam illud, conversi
+in verba malitiae, ad excusandas excusationes
+in peccatis. Prior enim justitiae portio non peccare,
+secunda per poenitentiam damnare peccatum. Perdidit
+et misericordiam, cum sic exarsit Eva in concupiscentia
+sua, ut nec sibi, nec vito, nec filiis parceret
+nascituris, simul omnes terribili maledicto et
+necessitati mortis addicens. Adam quoque indignationi
+divinae mulierem, pro qua peccaverat, objecit,
+quasi post tergum ejus volens declinare sagittam. <hi>Vidit enim mulier lignum quod esset pulchrum visu,
+et ad vescendum suave,</hi> 
+ et a serpente audierat tanquam
+deos se futuros. Funiculus triplex difficile rumpitur,
+curiositatis, voluptatis, et vanitatis. Haec sola
+<pb n="0387A"/>
+mundus habet, concupiscentiam carnis, concupiscentiam
+oculorum, et superbiam vitae. His abstracta
+et illecta misericordiam omnem crudelis mater abjecit.
+Sic et Adam, qui mulieri male misertus est ut
+cum ea peccaret, bene noluit misereri, ut poenam
+sustineret [ <hi>alias,</hi> aut poenam sustinere] pro ea.
+Privata est etiam mulier veritate, primo quidem
+male detorquens quod audierat, <hi>Morte morieris <note>(Gen.
+II, 17)</note>
+          </hi>; et dicens, <hi>Ne forte moriamur:</hi> demum serpenti
+credens, penitus abneganti et dicenti, <hi>Nequaquam
+moriemini.</hi> Privatus est et Adam veritate, ubi
+eam confiteri erubuit, folia, hoc est excusationum
+operimenta, praetendens. Siquidem ipsa dicit: <hi>Qui
+erubuerit me coram hominibus, erubescam et ego eum
+coram Patre meo <note>(Luc. IX, 26)</note>
+          </hi>. Pacem quoque protinus
+<pb n="0387B"/>
+amiserunt, quia <hi>non est pax impiis, dicit Dominus <note>(Isai. XLVIII, 22)</note>
+          </hi>.
+Nonne enim contrariam legem
+invenerant in membris suis, quos de novo pudere
+coeperat nuditatis? <hi>Timui ego,</hi> inquit, <hi>eo quod nudus
+essem <note>(Gen. III)</note>
+          </hi>. Non sic miser, non sic paulo ante
+timebas: non quaerebas folia, licet corpore nudus,
+sicut et modo.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Ex hoc sane (ut Prophetae ipsius parabolam
+prosequamur, qui sibi obviasse eas, et reconciliatas
+in osculo memoravit) gravis quaedam inter virtutes
+videtur orta contentio. Siquidem veritas et justitia
+miserum affligebant: pax et misericordia zeli hujus
+expertes judicabant magis esse parcendum. Sunt
+etenim collactaneae hae duae sibi, quemadmodum et
+priores. Unde et factum est ut perseverantibus illis
+<pb n="0387C"/>
+in ultione, et praevaricatorem hinc inde caedentibus,
+et praesentes <emph>975</emph> molestias futuri cumulantibus
+comminatione supplicii, illae secederent in cor Patris,
+redeuntes ad Dominum qui illas dedit. Solus siquidem
+ipse cogitabat cogitationes pacis, cum afflictionis
+plena omnia viderentur. Siquidem non cessabat
+pax, non ei misericordia dabat silentium, sed pio
+quodam susurrio paterna pulsantes viscera loquebantur: <hi>Nunquid in aeternum projiciet Deus? aut non
+apponet ut complacitior sit adhuc? Nunquid obliviscetur
+misereri Deus? aut continebit in ira sua misericordias
+suas? 
+ <note>(Psal. LXXVI, 8, 10)</note>
+          </hi>. Et quamvis diu
+multumque visus sit dissimulare Pater miserationum,
+ut interim satisfaceret zelo justitiae et veritatis; non
+<pb n="0387D"/>
+tamen infructuosa fuit supplicantium importunitas,
+sed exaudita est in tempore opportuno.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Forte enim interpellantibus tale dicatur dedisse
+responsum: Usquequo preces vestrae? Debitor
+sum et sororibus vestris, quas accinctas videtis ad
+faciendam vindictam in nationibus; justitiae et veritati.
+Vocentur, veniant, et super hoc verbo pariter
+conferamus. Festinant ergo legati coelestes, et ut
+viderunt miseriam hominum et crudelem plagam, ut
+propheta loquitur, <hi>Angeli pacis amare flebant <note>(Isai.
+XXXIII, 7)</note>
+          </hi>. Qui enim fidelius quaererent aut rogarent
+quae ad pacem sunt, quam angeli pacis? Sane ex
+deliberatione communi ascendit veritas ad constitutam
+diem, sed ascendit usque ad nubes: necdum
+plane lucida, sed subobscura et obnubilata adhuc
+<pb n="0388A"/>
+zelo indignationis. Factumque est ut legimus in Propheta: <hi>Domine, in coelo misericordia tua, et veritas
+tua usque ad nubes 
+ <note>(Psal. XXXV, 6)</note>
+          </hi>. Medius autem
+Pater luminum residebat, et utraque pro parte sua
+utilius quod habebat loquebatur. Quis putas illi colloquio
+meruit interesse, et indicabit nobis? quis
+audivit, et enarrabit? Forte inenarrabilia sunt, et
+non licet homini loqui. Summa tamen controversiae
+totius haec fuisse videtur. Eget miseratione creatura
+rationalis, ait Misericordia, quoniam misera facta
+est, et miserabilis valde. Venit tempus miserendi
+ejus, quia jam praeteriit tempus. Econtra Veritas:
+Oportet, inquit, impleri sermonem quem locutus es,
+Domine. Totus moriatur Adam necesse est cum omnibus
+qui in eo erant, qua die vetitum pomum in
+<pb n="0388B"/>
+praevaricatione gustavit. Utquid ergo, ait Misericordia,
+utquid me genuisti pater citius perituram? Scit
+enim Veritas ipsa quoniam misericordia tua periit,
+et nulla est, si non aliquando miserearis. Similiter
+autem e contrario et illa loquebatur: Quis enim
+nesciat quod si praedictam sibi praevaricator sententiam
+mortis evaserit, periit, nec permanebit jam in
+aeternum veritas tua, Domine?</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Ecce vero unus de cherubin [ <hi>additur alias,</hi> 
+id est magni consilii Angelus] ad regem Salomonem
+suggerit esse mittendas; quoniam Filio, inquit, datum
+est omne judicium <note>(Joan. V, 22)</note>. Et in ejus ergo
+conspectu Misericordia et Veritas obviaverunt sibi,
+eadem quae supra meminimus verba querimoniae
+repetentes. Fateor, ait Veritas, zelum bonum Misericordia
+<pb n="0388C"/>
+habet, sed utinam secundum scientiam.
+Nunc autem quid praevaricatori potius quam sorori
+judicat esse parcendum? At tu, inquit Misericordia,
+neutri parcis, sed tanta indignatione saevis in praevaricatorem,
+ut involvas pariter et sororem. Quid mali
+merui? Si quid habes adversum me, dicito mihi: sin
+autem, quid me persequeris? Grandis controversia,
+fratres, et intricata nimium disceptatio. Quis non
+illic diceret: Bonum nobis erat si natus non fuisset
+homo iste? Sic erat, dilectissimi, omnino sic erat:
+non videbatur quomodo simul possent erga hominem
+Misericordia et Veritas conservari. Cumque
+adjiceret Veritas in ipsum quoque Judicem partis suae
+injuriam retorqueri [ <hi>alias,</hi> merita retorquere], dicens
+<pb n="0388D"/>
+cavendum omnino ne fieret irritum verbum
+Patris, ne sermo vivus et efficax qualibet occasione
+evacuaretur: Parcite, quaeso, ait Pax, parcite verbis
+hujusmodi. Non nos talis altercatio decet: virtutum
+est inhonesta contentio.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Porro Judex inclinans se, digito scribebat in
+terra. Erant autem verba Scripturae, quae Pax ipsa
+legit in auribus omnium (ea siquidem propius assidebat):
+Haec dicit, Perii, si Adam non moriatur; et
+haec dicit: <emph>976</emph> Perii, nisi misericordiam consequatur.
+Fiat mors bona, et habet utraque quod petit.
+Obstupuere omnes in verbo sapientiae et forma compositionis
+pariter atque judicii: siquidem manifestum
+fuit nullam eis querimoniae occasionem relinqui;
+siquidem fieri posset quod utraque petebat, ut et
+<pb n="0389A"/>
+moreretur, et misericordiam consequeretur. Sed id
+quomodo fiet, inquiunt? Mors crudelissima, et amarissima
+est, mors terribilis, et ipso horrenda auditu.
+Bona fieri quanam ratione poterit? At ille: Mors,
+inquit, peccatorum pessima, sed pretiosa fieri potest
+mors sanctorum. Annon pretiosa erit, si fuerit
+janua vitae, porta gloriae? Pretiosa, inquiunt. Sed
+quomodo fiet istud? Fieri, ait, potest, si ex charitate
+moriatur quis, utique qui nihil debeat morti.
+Neque enim detinere poterit mors innoxium, sed
+forabitur, ut scriptum est, maxilla Leviathan <hi>(Job
+XL, 19)</hi>, et destruetur paries medius, solveturque
+chaos magnum, quod inter mortem vitamque firmatum
+est. Nimirum charitas fortis ut mors, imo et
+fortior morte, si fortis illius intraverit atrium, alligabit
+<pb n="0389B"/>
+eum, et diripiet utique vasa ejus, sed et ipso
+transitu suo ponet profundum maris viam, ut transeant
+liberati.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Bonus visus est sermo, utpote fidelis, et omni
+acceptione dignus. Sed ubi poterit ille innocens
+inveniri, qui mori velit non ex debito, sed ex voluntate;
+non ex malo merito, sed ex beneplacito suo?
+Circuit Veritas orbem terrae; et nemo mundus a
+sorde, nec infans, cujus est unius diei vita super
+terram <note>(Job. XIV, 4, 5, juxta LXX)</note>. Sed et Misericordia
+coelum omne perlustrat, et in angelis quoque,
+ne dixerim pravitatem, minorem tamen invenit
+charitatem. Nimirum haec victoria alii debebatur,
+quo majorem charitatem nemo haberet, ut animam
+suam poneret pro servis inutilibus et indignis. Nam
+<pb n="0389C"/>
+etsi ipse jam non dicit nos servos, hoc ipsum immensae
+dilectionis est, et eximiae dignationis. Nos
+autem etsi omnia quae praecepta sunt nobis faceremus,
+quid aliud dicere deberemus, nisi quod servi
+inutiles sumus? <note>(Luc. XVII, 10.)</note> Sed quis eum super
+hoc convenire praesumeret? Redeunt ad constitutam
+diem veritas et misericordia, anxiae plurimum, non
+invento quod desiderabant.</p>
+        </div3>
+<div3>
+          <head>14.</head>
+          <p>
+ Tunc vero seorsum pax consolans eas: Vos,
+inquit, nescitis quidquam, nec cogitatis. Non est qui
+faciat bonum hoc, non est usque ad unum. Qui
+consilium dedit, ferat auxilium. Intellexit rex quid
+loqueretur, et ait: <hi>Poenitet me fecisse hominem <note>(Gen. VI, 7)</note>
+          </hi>.
+Poena, inquit, me tenet, mihi incumbit
+sustinere poenam, poenitentiam agere pro homine
+<pb n="0389D"/>
+quem creavi. Tunc ergo dixit: Ecce venio. Non enim
+potest hic calix transire, nisi bibam illum. Et accersito
+protinus Gabriele: Vade, inquit, dic filiae
+Sion: <hi>Ecce rex tuus venit <note>(Zach. IX, 9)</note>
+          </hi>. Festinavit
+ille, et ait: <hi>Adorna thalamum tuum, Sion, et suscipe
+regem.</hi> Porro venturum regem misericordia et veritas
+praevenerunt, sicut scriptum est: <hi>Misericordia
+et veritas praecedent faciem tuam.</hi> Justitia thronum
+praeparat, secundum illud: <hi>Justitia et judicium praeparatio
+sedis tuae <note>(Psal. LXXXVIII, 15)</note>
+          </hi>. Pax cum rege
+venit, ut propheta fidelis inveniretur qui dixerat: <hi>Pax erit in terra nostra cum venerit.</hi> 
+ Inde est quod
+nato Domino angelorum chorus canebat: <hi>Pax in
+terra hominibus bonae voluntatis <note>(Luc. II, 14)</note>
+          </hi>. Sed et
+<pb n="0390A"/>
+tunc justitia et pax osculatae sunt, quae non modice
+videbantur hactenus dissidere. Prior enim, si qua
+erat ex lege justitia, non osculum, sed aculeum
+magis habebat, urgens magis timore quam provocans
+dilectione. Sed nec habuit illa reconciliationem,
+sicut habet nunc quae ex fide noscitur esse justitia.
+Alioquin quid erat quod nec Abraham, nec Moyses,
+nec caeteri justi temporis illius, in obitu suo pacem
+illam beatitudinis aeternae apprehendere, aut regnum
+pacis poterant introire, nisi quod minime adhuc
+justitia et pax sese fuerant osculatae? Ex hoc sane,
+dilectissimi, ferventiore nobis zelo sectanda justitia
+est; siquidem justitia et pax osculatae sunt, et indissolubile
+amicitiarum iniere foedus: ut cuicunque
+testimonium justitiae secum tulerit, hilari vultu jam
+<pb n="0390B"/>
+et amplexibus laetis excipiatur a pace, in idipsum jam
+dormiens et requiescens.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>977</emph> SERMO II. <hi>De septiformi Spiritu in Christo.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Considerare est, fratres, in solemnitate hodierna
+Dominicae Annuntiationis, velut amoenissimam
+quamdam planitiem, simplicem nostrae reparationis
+historiam. Injungitur nova legatio angelo Gabrieli,
+et novam Virgo professa virtutem, novae salutationis
+honoratur obsequio. Antiqua excluditur maledictio
+mulierum, novam nova mater accipit benedictionem.
+Impletur per gratiam quae concupiscentiam nescit,
+ut spiritu superveniente Altissimi pariat filium quae
+virum dedignatur admittere. Intrat ad nos eadem
+porta salutis antidotum, qua venenum serpentis ingrediens,
+<pb n="0390C"/>
+universitatem generis humani occuparat.
+Innumeros hujuscemodi flores ex his facile est legere
+pratis; sed intueor mediam metuendae profunditatis
+abyssum. Abyssus plane imperscrutabilis, Incarnationis
+Dominicae sacramentum; abyssus impenetrabilis. <hi>Verbum caro. factum est, et habitavit in nobis <note>(Joan. I, 14)</note>
+          </hi>.
+Quis enim investiget, quis attingat,
+quis apprehendat? Puteus altus est, et in quo hauriam
+non est mihi. Verumtamen solet interdum
+superposita puteis humectare linteamina vapor exhalans.
+Propterea sane licet irrumpere verear propriae
+conscius infirmitatis, frequenter tamen velut super
+os hujus putei expando ad te, Domine, manus meas,
+pro eo quod anima mea sicut terra sine aqua tibi.
+<pb n="0390D"/>
+Et nunc si quid est quod, ascendente deorsum nebula,
+tenuis ebiberit cogitatio; vobis, fratres, modicum
+illud sine invidia communicare curabo, velut
+expresso linteamine vel exigua refundens coelestis
+stillicidia roris.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Quaero igitur, qua ratione Filius magis incarnatus
+sit, quam Pater aut Spiritus sanctus, cum totius
+Trinitatis non modo aequalis sit gloria, sed una
+eademque substantia. Sed quis cognovit sensum Domini?
+aut quis consiliarius ejus fuit? Altissimum
+est mysterium, nec nos oportet temere super hujuscemodi
+praecipitare sententiam. Videtur tamen
+nec Patris, nec Spriritus incarnationem in pluritate
+filiorum effugisse confusionem, dum alius
+Dei, alius filius hominis diceretur. Videtur et illud
+<pb n="0391A"/>
+congruum, ut his specialiter filius fieret, qui filius
+erat, ne quid esset ambiguitatis in nomine. Denique
+ipsa est Virginis nostrae gloria singularis et
+excellens praerogativa Mariae, quod filium unum
+eumdemque cum Deo Patre meruit habere communem,
+quam sane periisse constat, si non filius incarnaretur.
+Sed nec nobis alia dari posset occasio
+similis sperandae salutis et haereditatis. Factus siquidem
+primogenitus in multis fratribus, qui unigenitus
+erat, adscisset eos sine dubio in haereditatem,
+quos vocarit in adoptionem. Si enim fratres,
+et cohaeredes. Hic ergo Christus Jesus, mediator
+fidelis, sicut in persona una Dei hominisque substantiam
+copulavit ineffabili sacramento; sic et in
+ipsa reconciliatione, consilio usus altissimo, mediam
+<pb n="0391B"/>
+non deseruit aequitatem, utrique tribuens quod oportebat,
+honorem Deo, homini miserationem. Haec
+enim optima inter offensum Dominum et reum servum
+forma compositionis, ut nec honorandi Domini
+zelo servus opprimatur austeriori sententia; nec rursum,
+dum huic immoderatius condescenditur, ille
+debito fraudetur honore.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Audi igitur et diligenter observa angelicam in
+hujus mediatoris ortu distributionem. <hi>Gloria,</hi> inquiunt, <hi>in altissimis Deo, et in terra pax hominibus
+bonae voluntatis 
+ <note>(Luc. II, 14)</note>
+          </hi>. Hujus denique gratia
+observationis fideli reconciliatori Christo nec timoris
+spiritus defuit, quo Patri semper reverentiam
+exhiberet, semper ei deferret, semper gloriam ejus
+<pb n="0391C"/>
+quaereret; nec spiritus pietatis, quo misericorditer
+compateretur hominibus. Unde et necessarium habuit
+spiritum quoque scientiae, per quem timoris
+pariter et pietatis distributio fieret inconfusa. Et
+nota quod in primo illo parentum nostrorum peccato <emph>978</emph> 
+ tres quidem auctores exstiterunt; sed
+manifeste defuerunt tria tribus. Dico enim Evam,
+diabolum et Adam. Non habuit Eva scientiam, quae,
+ut ait Apostolus, seducta est in praevaricationem <note>(I Tim. II, 14)</note>.
+Verum haec quidem serpenti non
+defuit, qui callidior describitur caeteris animantibus;
+sed pietatem malignus non habuit, qui ab
+initio factus est homicida. Adam vero pius forte
+videtur, mulierem non contristando; sed timorem
+Domini dereliquit, voci illius magis obediens, quam
+<pb n="0391D"/>
+divinae. Utinam magis timor Domini praevaluisset
+in eo! sicut de Christo signanter legitur: Quia
+replevit eum, non pietatis spiritus, sed timoris <note>(Isai. XI, 3)</note>.
+In omnibus enim et per omnia pietati
+proximorum timor Domini praeferendus est, et solus
+ipse est qui totum sibi hominem debeat vindicare.
+In his igitur tribus, timore, pietate et scientia,
+mediator noster reconciliavit homines Deo; nam in
+consilio, et fortitudine de manu adversarii liberavit.
+Consilio siquidem pristino jure privavit hostem,
+data potestate, ut manus injiceret innocenti: fortitudine
+praevaluit, ne violenter posset retinere redemptos,
+<pb n="0392A"/>
+dum victor ab inferis rediit, et vita omnium
+cum eo surrexit.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Exinde cibat nos pane vitae et intellectus, et
+potat aqua sapientiae salutaris. Est enim intellectus
+rerum spiritualium et invisibilium, verus animae
+panis, confirmans cor nostrum, et ad omne opus
+bonum roborans in omni exercitatione spirituali.
+Carnalis autem homo, qui non percipit ea quae sunt
+spiritus Dei, sed stultitia ei videntur, gemat et lugeat,
+dicens: <hi>Aruit cor meum, quia oblitus sum comedere
+panem meum <note>(Psal. CI, 5)</note>
+          </hi>. Ecce enim mera
+et perfecta veritas est, non prodesse homini, si universum
+mundum lucretur, animae autem suae detrimentum
+faciat. Sed quando id capere possit avarus?
+Sine causa laborat, quisquis ei id persuadere conatur.
+<pb n="0392B"/>
+Utquid hoc? Nempe quia stultitia illi videtur.
+Quid verius quam jugum Christi esse suave? Appone
+homini saeculari, et vide si non magis lapidem
+quam panem reputabit. Et certe hujusmodi intelligentia
+veritatis internae vivit anima, et hic est spiritualis
+cibus. Non enim in solo pane vivit homo,
+sed in omni verbo quod procedit de ore Dei <note>(Deut.
+VIII, 3)</note>. Verumtamen donec sapiat tibi veritas,
+non sine difficultate ad interiora trajicitur. Ubi vero
+coeperis in ea oblectari, jam non cibus, sed potus
+est: et sine difficultate intrat in animam, quo videlicet
+spiritualis cibus intelligentiae potu sapientiae
+digeratur, ne ipsius interioris hominis artibus, id
+est affectibus, siccitate laborantibus, oneri magis sit
+quam utilitati.
+<pb n="0392C"/>
+</p>
+        </div3>
+<div3>
+          <head>3. </head>
+          <p>
+Ex omnibus ergo quae salvandis populis fuerant
+necessaria, nihil penitus defuit Salvatori. Ipse est
+enim, de quo praecinit Isaias: <hi>Egredietur virga de
+radice Jesse, et flos de radice ejus ascendet, et requiescet
+super eum spiritus Domini, spiritus sapientiae et
+intellectus, spiritus consilii et fortitudinis, spiritus
+scientiae et pietatis, et replebit eum spiritus timoris
+Domini <note>(Isai. XI, 1-3)</note>
+          </hi>. Illud sane diligenter attende,
+quod florem hunc de radice, non de virga dixerit
+ascensurum. Etenim si nova Christi caro in Virgine
+creata esset ex nihilo (quod aestimaverunt nonnulli);
+non de radice flos, sed forte de virga dici poterat
+ascendisse. Nunc autem qui prodiit ex radice, sine
+dubio ab origine communem probatur habuisse materiam.
+<pb n="0392D"/>
+Nam quod super eum Spiritus requievit,
+nihil in eo contradictionis fuisse declarat. In nobis
+enim quia non omnino superior est spiritus, non
+requiescit, carne nimirum adversus spiritum, et
+spiritu adversus carnem concupiscente: a quo conflictu
+nos liberet, in quo nihil simile fuit, novus
+homo et verus homo, qui veram carnis nostrae suscepit
+originem, sed fermentum vetus concupiscentiae
+non suscepit.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>979</emph> SERMO III. <hi>De muliere adultera <note>(Joan. VIII, 3-11)</note>
+          </hi>; <hi>de Susanna <note>(Dan. XIII)</note>
+          </hi>: <hi>de B. Maria <note>(Luc. I, 26-38)</note>
+          </hi>.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Quam dives es in misericordia, quam magnificus
+<pb n="0393A"/>
+in justitia, in gratia quam munificus, Domine
+Deus noster! Non est qui similis sit tibi, munerator
+copiosissime, remunerator aequissime, piissime liberator!
+Gratis respicis humiles, juste judicas innocentes,
+misericorditer salvas etiam peccatores. Haec
+sunt, dilectissimi, quae nobis in mensa divitis hujus
+patrisfamilias sanctarum testimoniis Scripturarum,
+hodie quidem, si diligenter advertimus, solito copiosius
+apponuntur. Nimirum hanc nobis copiam praestant,
+quae pariter convenerunt, sacrum videlicet
+tempus Quadragesimae, et sacratissima dies Annuntiationis
+Dominicae. Hodie enim in auribus nostris
+deprehensam in adulterio mulierem indulgentia Redemptoris
+absolvit, hodie innoxium Susannae sanguinem
+liberavit, hodie quoque beatam Virginem singulari
+<pb n="0393B"/>
+munere gratuitae benedictionis implevit. Magnum
+convivium, ubi pariter nobis misericordia,
+justitia et gratia apponuntur! Nunquid non misericordia
+esca hominum? Salutaris omnino et efficax
+ad medelam. Nunquid non etiam justitia panis cordis?
+Et quidem optime confirmans illud, utpote
+cibus solidus ad nutrimentum. Denique beati qui
+esuriunt illum, quoniam ipsi saturabuntur <note>(Matth.
+V, 6)</note>. Nunquid non cibus animae gratia Dei sui?
+Dulcissimus sane, et omnem habens in se suavitatem
+et delectamentum saporis; imo vero haec sibi
+omnia pariter vindicans, non modo delectat, sed et
+reficit, et medetur.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Accedamus ad mensam hanc, fratres mei, et
+ex singulis dapibus vel modicum aliquid degustemus.
+<pb n="0393C"/> <hi>In lege Moyses mandavit hujusmodi lapidare,</hi> 
+aiunt de peccatrice peccatores, de adultera Pharisaei.
+Sed ad duritiam lapidei cordis vestri ille locutus est. <hi>Jesus autem inclinavit se.</hi> 
+ Domine, inclina coelos
+tuos, et descende <note>(Psal. CXLIII, 5)</note>. Inclinans se, et
+ad misericordiam flexus (neque enim Judaici cordis
+erat), <hi>digito scribebat,</hi> non jam in lapide, sed <hi>in terra.</hi> 
+Neque hoc tantum semel, sed hic quoque duplex
+scriptura, sicut apud Moysen tabulae duae. Et forte
+veritatem et gratiam scribens, et iterum scribens
+terrae impressisse videtur, secundum quod Joannes
+apostolus ait: <hi>Lex per Moysen data est, gratia et
+veritas per Jesum Christum facta est <note>(Joan. I, 17)</note>
+          </hi>.
+Considera denique an videri possit de tabula veritatis
+<pb n="0393D"/>
+legisse, unde refelleret Pharisaeos: <hi>Qui sine peccato
+est vestrum, primus in eam lapidem mittat.</hi> Verbum
+quidem abbreviatum, sed vivum et efficax, et ancipiti
+gladio penetrabilius. Quam graviter enim ad
+verbum hoc saxea corda transfossa, quam vehementer
+hoc uno lapillo contritae sint lapideae frontes,
+rubor ipse confusionis et clandestinus probavit abscessus.
+Meruit quidem adultera lapidari: sed is
+punire gestiat, qui dignus non est etiam ipse puniri.
+Is praesumat a peccatrice exigere ultionem, qui eamdem
+excipere non meretur. Alioquin ipse sibi vicinior,
+a se incipiat: in se prius sententiam ferat,
+exerceatque vindictam. Haec Veritas.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Caeterum adhuc minus est: et si accusatores
+refellit haec Veritas, sed ream necdum absolvit.
+<pb n="0394A"/>
+Scribat iterum, scribat gratiam, legat, et audiamus. <hi>Nemo te condemnavit, mulier? Nemo, Domine. Nec
+ego te condemnabo; vade, et amplius noli peccare.</hi> 
+ O
+vox misericordiae, o auditus lactitiae salutaris! Auditam
+fac mihi mane misericordiam tuam, quia in te
+speravi, Domine <note>(Psal. CXLII, 8)</note>. Sola nimirum spes
+apud te miserationis obtinet locum; nec oleum misericordiae,
+nisi in vase fiduciae ponis. Sed est infidelis
+fiducia, solius utique maledictionis capax, cum videlicet
+in spe peccamus. Quanquam nec fiducia illa
+dicenda sit, sed insensibilitas <emph>980</emph> quaedam, et dissimulatio perniciosa. Quae enim fiducia ei qui periculum
+non attendit? aut quod ibi timoris remedium,
+ubi nec timor sentitur, nec materia ipsa timoris?
+Fiducia solatium est: nec eget ille solatio, qui laetatur
+<pb n="0394B"/>
+cum male fecerit, et in pessimis rebus magis exsultat.
+Rogemus itaque, fratres, responderi nobis,
+quantas habeamus iniquitates et peccata; scelera
+nostra et delicta nobis desideremus ostendi. Scrutemur
+vias nostras et studia nostra, periculaque universa
+vigili intentione pensemus. Dicat quisque in
+pavore suo: Vadam ad portas inferi, ut jam nonnisi
+in sola Dei misericordia respiremus. Haec vera hominis
+fiducia, a se deficientis, et innitentis Domino
+suo. Haec, inquam, vera fiducia, cui misericordia
+non denegatur, propheta attestante quoniam <hi>beneplacitum
+est Domino super timentes eum, et in eis qui
+sperant super misericordia ejus <note>(Psal. CXLVI, 11)</note>
+          </hi>. Nec
+parva utique suppetit nobis: in nobis quidem timoris,
+in ipso autem causa fiduciae. Suavis et mitis est,
+<pb n="0394C"/>
+copiosae misericordiae; praestabilis super malitia,
+multus ad ignoscendum. Credamus sane vel inimicis,
+qui in eo nihil aliud, unde occasionem struendae calumniae
+caperent, invenerunt. Compatietur, aiunt,
+peccatrici, nec sibi oblatam ullatenus occidi patietur.
+Tenebitur itaque manifestus adversarius legis,
+cum absolverit lege damnatam. In vestrum, o Pharisaei,
+caput tota vestrae malignitatis adinventio retorquetur.
+Diffiditis causae, qui judicium subterfugitis.
+Nam illa quidem sine injuria legis absolvitur,
+quae non accusatori relinquitur [ <hi>alias,</hi> quae sine accusatore
+relinquitur].</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Sed consideremus, fratres, quonam hinc abeant
+Pharisaei. Videtisne duos senes (nam a senioribus
+<pb n="0394D"/>
+exire coeperunt) quomodo in pomerio Joachim abssconduntur?
+Susannam quaerunt uxorem ejus: sequamur
+eos; nam iniqua cogitatione pleni sunt
+contra eam. <hi>Consentire nobis,</hi> aiunt senes, aiunt
+Pharisaei, aiunt lupi, qui ab alterius paulo ante, licet
+errantis oviculae, fuerant devoratione frustrati. <hi>Consentire
+nobis, et commiscere nobiscum.</hi> Inveterati
+dierum malorum, modo accusabatis adulterium,
+modo adulterium suadetis. Sed haec est tota justitia
+vestra, et quae palam arguitis, eadem agitis in occulto.
+Hinc fuit quod existis unus post unum, cum
+ille omnium conscius occultorum vestras tam valide
+percussisset conscientias, dicens: <hi>Qui sine peccato
+est vestrum, primus in eam lapidem mittat.</hi> Merito
+proinde ad discipulos Veritas ait: <hi>Nisi abundaverit
+<pb n="0395A"/>
+justitia vestra plus quam Scribarum et Pharisaeorum,
+non intrabitis in regnum coelorum <note>(Matth. V, 20)</note>
+          </hi>.
+Alioquin dicemus, aiunt, contra te testimonium.
+Semen Chanaan, et non Juda, nec hoc quidem Moyses
+in lege mandavit. An qui decrevit adulteram
+lapidare, mandavit accusare pudicam? an qui jussit
+adulteram lapidibus opprimi, etiam jussit contra
+insontem testimonium ferri? Imo vero sicut adulteram,
+sic etiam falsum testem non impunitum esse
+praecepit <note>(Deut. XIX, 16-21; Prov. XIX, 9)</note>. Sed qui
+gloriamini in lege, per legis praevaricationem Deum
+inhonoratis.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>Ingemuit Susanna, et ait: Angustiae mihi sunt
+undique.</hi> Undique enim mors; hinc quidem corporea,
+inde spiritualis. <hi>Si hoc,</hi> inquit, <hi>egero, mors
+<pb n="0395B"/>
+mihi est; si autem non egero, non effugiam manus
+vestras.</hi> Vestras, o Pharisaei, manus nec adultera
+effugit, nec pudica: vestras accusationes nec sanctus,
+nec peccator evadit. Dissimulatis peccata
+vestra, ubi inveneritis aliena: alioquin si quis forte
+suum non habet, vestrum ei impingitis crimen.
+Quid tamen Susanna facit, inter mortem et mortem,
+animae scilicet et corporis, undique angustata? <hi>Melius
+est mihi,</hi> inquit, <hi>absque opere incidere in manus
+hominum, quam derelinquere legem Dei mei.</hi> Nimirum
+sciebat ista, quam horrendum sit incidere in
+manus Dei viventis. Nam homines quidem, cum
+occiderint corpus, animae non habent ultra quid
+faciant: ille autem timendus est, qui potestatem
+<pb n="0395C"/>
+habet et corpus et animam mittere in gehennam <note>(Matth. X, 28)</note>.
+Quid familia Joachim tardat? Irruat
+per <emph>981</emph> posticum, nam in pomerio clamor auditur;
+clamor autem luporum gravium, et balantis
+oviculae inter eos. Sed non patitur ab eis innoxiam
+devorari, qui ab ipsis eorum faucibus tam dignanter
+eripuit etiam eripi non merentem. Merito proinde <hi>cum duceretur ad mortem, erat cor ejus fiduciam habens
+in Domino,</hi> 
+ quem usque adeo timuisset, ut timorem
+omnem postposuisset humanum, et ipsius
+legem et simul vitae praeposuisset, et famae. <hi>Non
+enim dictus fuerat sermo hujuscemodi aliquando de
+Susanna. Sed et parentes ejus justi erant, et vir ejus
+honoratior omnium Judaeorum.</hi> Merito igitur a justo
+Judice justam de injustis obtinuit ultionem, quae tam
+<pb n="0395D"/>
+vehementer justitiam esurivit, ut propter eam contemneret
+mortem corporis, opprobrium generis,
+luctum inconsolabilem amicorum.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Et nos, fratres, si a Christo audivimus: <hi>Nec
+ego te condemnabo,</hi> si peccare jam nolumus contra
+ipsum, si in Christo volumus pie vivere; necesse
+est sustineamus persecutionem, ne malum pro malo,
+aut maledictum pro maledicto reddamus. Alioquin
+qui patientiam non servaverit, perdet justitiam; hoc
+est, vitam perdet; hoc est, perdet animam suam. <hi>Mihi vindictam, et ego retribuam, dicit Dominus <note>(Rom. XII, 19)</note>
+          </hi>.
+Ita prorsus est. Ipse retribuet, sed
+si ei vindictam serves, si non tollas ab eo judicium,
+si non reddas retribuentibus tibi mala. Faciet judicium,
+sed injuriam patienti; in aequitate judicabit,
+<pb n="0396A"/>
+sed pro mansuetis terrae. Jam vobis, ni fallor, molestum
+est, quod deliciae tardant. Non miremini:
+deliciae sunt. Non onerabunt quamlibet satiatos, nec
+a ructantibus quidem poterunt fastidiri.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Missus est Gabriel angelus a Deo in civitatem
+Galilaeae, cui nomen Nazareth.</hi> Miraris quod Nazareth,
+parva civitas, et tanti regis nuntio illustretur,
+et tanto? Sed magnus latet in hac parva civitate
+thesaurus; latet, inquam, sed homines latet, non
+Deum. An non thesaurus Dei Maria? ubicunque illa
+est, et cor ejus. Oculi ejus super eam, ubique respicit
+humilitatem ancillae suae. Novit coelum Unigenitus
+Dei Patris? Si novit coelum, et Nazareth.
+Quidni sciat patriam suam? quidni noverit haereditatem
+suam? Coelum ex Patre, Nazareth ex matre
+<pb n="0396B"/>
+vindicat sibi, sicut ipse se et Filium David, et Dominum
+esse testatur <note>(Matth. XXII, 42-45)</note>. <hi>Coelum
+coeli Domino, terram autem dedit filiis hominum <note>(Psal.
+CXIII, 16)</note>
+          </hi>. Cedat ergo ei utrumque necesse est in
+possessionem, quia non modo Dominus, sed et filius
+hominis est. Audi etiam quomodo terram sibi
+tanquam filius hominis vindicat, sed et communicat
+tanquam sponsus. <hi>Flores,</hi> inquit, <hi>apparuerunt in
+terra nostra <note>(Cant. II, 12)</note>
+          </hi>. Neque hinc discrepat,
+quod Nazareth interpretatur <hi>flos.</hi> Amat florigeram
+patriam flos de radice Jesse, et libenter inter lilia
+pascitur flos campi et lilium convallium. Commendat
+enim flores pulchritudo, suaveolentia, et spes fructus;
+gratia triplex. Teque florem reputat Deus; et
+bene ei complacet in te, si tibi nec honestae conversationis
+<pb n="0396C"/>
+decor, nec bonae opinionis fragrantia,
+nec intentio desit futurae retributionis. Fructus enim
+spiritus est vita aeterna.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ <hi>Ne timeas, Maria; invenisti enim gratiam apud
+Dominum.</hi> Quantam gratiam? Gratiam plenam,
+gratiam singularem. Singularem, an generalem?
+Utramque sine dubio, quia plenam, et eo singularem,
+quo generalem: ipsa enim generalem singulariter
+accepisti. Eo, inquam, singularem, quo
+generalem: nam sola prae omnibus gratiam invenisti.
+Singularem quod sola hanc inveneris plenitudinem;
+generalem, quod de ipsa plenitudine accipiant
+universi. <hi>Benedicta tu in mulieribus, et benedictus
+fructus ventris tui.</hi> Singulariter quidem fructus
+<pb n="0396D"/>
+ventris tui est; sed ad omnium quidem mentes
+te mediante pervenit. Sic nimirum, sic olim ros
+totus in vellere, totus in area; sed in nulla parte
+areae totus, sicut in vellere fuit <note>(Judic. VI, 37-40)</note>.
+In te sola Rex ille dives et praedives exinanitus;
+excelsus, humiliatus; immensus, abbreviatus, et
+angelis minoratus est: verus denique Deus et Dei
+Filius incarnatus. Sed quo fructu? Nempe ut omnes
+ejus paupertate locupletemur, ejus humilitate <emph>982</emph> 
+sublevemur, ejus minoratione magnificemur, ejus
+incarnatione adhaerentes Deo, incipiamus unus esse
+spiritus cum eo.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Sed quid dicimus, fratres? cuinam potissimum
+vasi gratia infundetur? Si, ut supra meminimus,
+capax quidem est misericordiae fiducia, patientia
+<pb n="0397A"/>
+vero justitiae, quale jam poterimus idoneum gratiae
+receptaculum exhibere? Balsamum est purissimum,
+et solidissimum vas requirit. Et quid tam purum,
+quidve tam solidum quam humilitas cordis? Merito
+proinde humilibus dat gratiam; merito respexit
+Deus humilitatem ancillae suae. Quonam merito, quaeris?
+Eo utique, quo animum humilem meritum non
+occuparet humanum, quominus libere influeret divinae
+gratiae plenitudo. Sed ad hanc nobis humilitatem
+quibusdam erit gradibus ascendendum. Primo
+enim cor hominis, quem adhuc peccare delectat,
+nec miseram consuetudinem proposito meliore mutavit,
+ne sit gratiae capax propriis vitiis praepeditur.
+Secundo quoque, ubi jam corrigere mores, et priores
+nequitias de caetero non iterare proponit; ipsa
+<pb n="0397B"/>
+tamen peccata praeterita, licet jam amputata quodam
+modo videantur, dum in eo manent, gratiam
+non admittunt. Manent autem donec confessione
+laventur, donec succedentibus dignis fructibus poenitentiae
+de medio fiant. Sed vae tibi, si forte vitiis
+et peccatis perniciosior successerit ingratitudo. Quid
+enim tam evidenter gratiae adversatur? Tepescimus
+processu temporis a fervore conversationis nostrae,
+paulatim refrigescit charitas, abundat iniquitas, ut
+consummemur carne, qui spiritu coeperamus. Inde
+enim est ut minus ea sciamus quae a Deo donata
+sunt nobis, indevoti pariter et ingrati. Timorem
+Domini relinquimus, religiosam omittimus solitudinem,
+verbosi, curiosi, faceti, etiam detractores et
+murmuratores, vacantes nugis, fugitantes laboris
+<pb n="0397C"/>
+et disciplinae, quoties sine nota id licet; quasi vero
+confestim sit etiam sine noxa. Quid ergo tantis repulsam
+obstaculis gratiam nobis deesse miramur?
+Jam vero si quis, juxta Apostolum, ut verbum
+Christi, verbum gratiae in eo habitet, gratus est <note>(Coloss. III, 16, 15)</note>;
+si quis devotus, si quis sollicitus,
+<pb n="0398A"/>
+si quis spiritu fervens: caveat sibi ne suis
+fidat meritis, ne suis operibus innitatur: alioquin
+nec hujuscemodi animum intrat gratia. Nimirum
+plenus est, nec in eo jam invenit gratia locum sibi.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Considerastis Pharisaeum illum orantem? Non
+erat raptor, non injustus, non adulter. An sine fructibus
+poenitentiae erat? Jejunabat bis in Sabbato,
+decimas dabat omnium quae possidebat. Sed ingratum
+forsitan suspicamini. Audite quid dicat: <hi>Deus,
+gratias ago tibi.</hi> Sed non erat vacuus, non erat exinanitus,
+non erat humilis, sed elatus. Non enim
+quid sibi deesset, scire, studuit, sed exaggeravit
+meritum suum: nec erat illa solida plenitudo, sed
+tumor. Vacuus proinde rediit, qui plenitudinem simulavit.
+Nam publicanus ille, qui exinanivit se ipsum,
+<pb n="0398B"/>
+quoniam vacuum vas exhibere curavit, gratiam
+retulit ampliorem <note>(Luc. XVIII, 10, 14)</note>. Nos
+ergo, fratres, si gratiam cupimus invenire, sic de
+caetero abstineamus a vitiis, ut de praeteritis quoque
+peccatis digne poeniteamus. Nihilominus quoque solliciti
+simus, et devotos nos Deo et vere humiles
+exhibere. Hujusmodi nempe animas gratanter respicit
+pio illo respectu, de quo Sapiens ait: <hi>Quoniam
+gratia et misericordia Dei est in sanctos ejus, et respectus
+in electos illius <note>(Sap. IV, 15)</note>
+          </hi>. Et forte propterea
+quater revocat animam quam respicit, dicens: <hi>Revertere, revertere, Qunamitis; revertere,
+revertere, ut intueamur te 
+ <note>(Cant. VI, 12)</note>
+          </hi>: quo videlicet
+nec in peccandi consuetudine, nec in conscientia
+peccatorum; sed nec in tepore et torpore
+<pb n="0398C"/>
+ingratitudinis, aut in elationis caecitate persistat. A
+quo nos quadripartito periculo revocare et eripere
+dignetur, qui factus est nobis a Deo Patre sapientia, et
+justitia, et sanctificatio, et redemptio, Jesus Christus
+Dominus noster, qui cum Patre et Spiritu sancto vivit
+et regnat Deus per infinita saecula saeculorum. Amen.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>
