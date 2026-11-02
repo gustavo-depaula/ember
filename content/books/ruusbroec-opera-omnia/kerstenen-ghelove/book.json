@@ -1,0 +1,48 @@
+{
+  "id": "ruusbroec-kerstenen-ghelove",
+  "cover": "classic",
+  "name": {
+    "dum": "Vanden kerstenen ghelove",
+    "en-US": "The Christian Faith",
+    "pt-BR": "A Fé Cristã"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Ruusbroecs uitlegging van het Credo en van de christelijke leer. Middelnederlandse tekst van J. B. David (1860).",
+    "en-US": "Ruusbroec's exposition of the Creed and of Christian doctrine. The Middle Dutch text of J. B. David (1860).",
+    "pt-BR": "Exposição de Ruusbroec sobre o Credo e a doutrina cristã. Texto em neerlandês médio de J. B. David (1860)."
+  },
+  "composed": "c. 1361-1363",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/kerstenen-ghelove",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1860
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae03_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 3: Vanden kerstenen ghelove. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1860).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    }
+  ]
+}
