@@ -13,17 +13,22 @@
   },
   "description": {
     "it": "Vita di frate Egidio d’Assisi, terzo compagno di san Francesco, in dieci capitoli.",
-    "en-US": "The Life of Brother Giles of Assisi, the third companion of St. Francis, in ten chapters. Italian.",
+    "en-US": "The Life of Brother Giles of Assisi, the third companion of St. Francis, in ten chapters. Italian",
     "pt-BR": "A Vida de frei Egídio de Assis, terceiro companheiro de São Francisco, em dez capítulos."
   },
   "composed": "14th century",
   "languages": [
-    "it"
+    "it",
+    "en-US"
   ],
   "work": "francis-of-assisi/vita-egidio",
   "editions": {
     "it": {
       "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    },
+    "en-US": {
+      "translator": "first English translation (Lady Georgiana Fullerton, 1864), revised by Dom Roger Hudleston",
+      "year": 1926
     }
   },
   "sources": [
@@ -34,67 +39,85 @@
       "description": "Ten chapters. The English of the CCEL Hudleston revision (Part III) is not imported.",
       "tier": "B",
       "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/ugolino/flowers",
+      "edition": "The Little Flowers of St. Francis, first English translation revised and emended by Dom Roger Hudleston (London: Burns Oates, 1926), Christian Classics Ethereal Library, flowers.txt.",
+      "description": "The corresponding part of the CCEL text, one chapter to a chapter of the Italian, with the chapter headings as titles. The Heritage Press introduction by Arthur Livingston (1965) is not imported.",
+      "tier": "A",
+      "tierEvidence": "Translation of 1864, revision of 1926 (Hudleston d. 1925); CCEL marks it public domain."
     }
   ],
   "toc": [
     {
       "id": "cap-001",
       "title": {
-        "it": "CAPITOLO I."
+        "it": "CAPITOLO I.",
+        "en-US": "Chapter I: How brother giles, with three companions was received into the order of friar's minor"
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "it": "CAPITOLO II."
+        "it": "CAPITOLO II.",
+        "en-US": "Chapter II: How brother giles went to st james the great"
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "it": "CAPITOLO III."
+        "it": "CAPITOLO III.",
+        "en-US": "Chapter III: Of brother giles's manner of life when he went to the holy sepulchre"
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "it": "CAPITOLO IV."
+        "it": "CAPITOLO IV.",
+        "en-US": "Chapter IV: How brother giles praised obedience more than prayer"
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "it": "CAPITOLO V."
+        "it": "CAPITOLO V.",
+        "en-US": "Chapter V: How brother giles lived by the labour of his hands"
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "it": "CAPITOLO VI."
+        "it": "CAPITOLO VI.",
+        "en-US": "Chapter VI: How brother giles was miraculously assisted in a great necessity when, by reason of a heavy fall of snow, he was hindered from going out to quest."
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "it": "CAPITOLO VII."
+        "it": "CAPITOLO VII.",
+        "en-US": "Chapter VII: Of the day of the holy brother giles's death"
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "it": "CAPITOLO VIII."
+        "it": "CAPITOLO VIII.",
+        "en-US": "Chapter VIII: How a holy man, being in prayer, saw the soul of brother giles pass to eternal life"
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "it": "CAPITOLO IX."
+        "it": "CAPITOLO IX.",
+        "en-US": "Chapter IX: How, by the merits of brother giles, the soul of the friend of a friar preacher was delivered from the pains of purgatory"
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "it": "CAPITOLO X."
+        "it": "CAPITOLO X.",
+        "en-US": "Chapter X: How god gave special graces to brother giles, and of the year of his death"
       }
     }
   ]
