@@ -57,8 +57,8 @@ def chapters(cfg, lang):
         if not raw:
             res.append((gi, '', []))
             continue
-        first, rest = raw[0], raw[1:]
-        while lang == 'la' and not pt and not first.rstrip().endswith('.') and rest and len(first) < 150:
+        first, rest = (raw[0], raw[1:]) if not cfg.get('no_title') else ('', raw)
+        while lang == 'la' and not cfg.get('no_title') and not pt and not first.rstrip().endswith('.') and rest and len(first) < 150:
             first, rest = first + ' ' + rest[0], rest[1:]
         if lang != 'la' and not cfg.get('caps_title'):
             m = re.search(r'\s([A-Z]{3,}[,.;]?(?:\s|$))', first)

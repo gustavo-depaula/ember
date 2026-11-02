@@ -1,0 +1,54 @@
+{
+  "id": "kempis-de-solitudine-et-silentio",
+  "cover": "classic",
+  "name": {
+    "la": "De solitudine et silentio (Epistola de recommendatione solitudinis)",
+    "en-US": "On Solitude and Silence",
+    "pt-BR": "Da solidão e do silêncio"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Epistola ad quendam a ministerio suo absolutum de recommendatione solitudinis et silentii, per capitula.",
+    "en-US": "A long letter to a brother just relieved of his office, in praise of solitude and silence: the quiet cell, guarding the tongue and the heart, reading, prayer and the company of God. Latin only: Pohl's critical edition (Freiburg 1918), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Longa carta a um irmão recém-dispensado de seu ofício, em louvor da solidão e do silêncio: a cela tranquila, a guarda da língua e do coração, a leitura, a oração e a companhia de Deus."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/de-solitudine-et-silentio",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1918
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0000thom_q8k7",
+      "edition": "Thomae Hemerken a Kempis De solitudine et silentio, ed. M. J. Pohl (Freiburg: Herder 1918), Opera omnia IV; archive.org raw OCR (Pohl 1918 volume).",
+      "description": "Chapters as Pohl divides them, with his upper-case chapter titles recased (u/v normalised by script). Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. Raw OCR: drop capitals at chapter openings and isolated letters are often garbled; a chapter heading lost to OCR runs two chapters together.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1918; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. De recommendatione solitudinis"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De custodia silentii"
+      }
+    }
+  ]
+}
