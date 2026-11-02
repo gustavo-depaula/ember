@@ -1,0 +1,960 @@
+{
+  "id": "granada-introduccion-del-simbolo",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Introducción del símbolo de la fe",
+    "en-US": "Introduction to the Creed",
+    "pt-BR": "Introdução do símbolo da fé"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Obra mayor de Fray Luis de Granada (1583), en cuatro partes: la creación y el conocimiento de Dios por las criaturas; las excelencias de la fe y la religión cristiana; el misterio de la redención a la luz natural; y a la luz de la fe, con los diálogos sobre las objeciones acerca del Mesías.",
+    "en-US": "Fray Luis de Granada's major work (1583) in four parts: creation and the knowledge of God through creatures; the excellences of the faith and the Christian religion; the mystery of redemption by natural light; and by the light of faith, with the dialogues answering objections about the Messiah.",
+    "pt-BR": "Obra maior de Frei Luís de Granada (1583), em quatro partes: a criação e o conhecimento de Deus pelas criaturas; as excelências da fé e da religião cristã; o mistério da redenção à luz natural; e à luz da fé, com os diálogos sobre as objeções acerca do Messias."
+  },
+  "composed": "1583",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/introduccion-del-simbolo",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue05luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 5 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Part 1 of the Introducción del símbolo de la fe (Salamanca 1583).",
+      "description": "Parts I-IV of the Introducción del símbolo de la fe (vols. V-VIII), with the dedication and prologues of the author; the papal briefs, the editor's apparatus of variants and the tables are removed. OCR cleaned by script, not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue06luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 6 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Part 2 of the Introducción del símbolo de la fe (Salamanca 1583).",
+      "description": "Part 2 of the same work (this volume's OCR text).",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue07luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 7 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Part 3 of the Introducción del símbolo de la fe (Salamanca 1583).",
+      "description": "Part 3 of the same work (this volume's OCR text).",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue08luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 8 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Part 4 of the Introducción del símbolo de la fe (Salamanca 1583).",
+      "description": "Part 4 of the same work (this volume's OCR text).",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introd",
+      "title": {
+        "es-ES": "Dedicatoria y prólogo"
+      },
+      "children": [
+        {
+          "id": "p1-dedicatoria",
+          "title": {
+            "es-ES": "Dedicatoria"
+          }
+        },
+        {
+          "id": "p1-lector",
+          "title": {
+            "es-ES": "Al cristiano lector"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-1",
+      "title": {
+        "es-ES": "Primera parte: de la creación del mundo y el conocimiento de Dios por las criaturas"
+      },
+      "children": [
+        {
+          "id": "p1-argumento",
+          "title": {
+            "es-ES": "Argumento de la primera parte"
+          }
+        },
+        {
+          "id": "p1-c1",
+          "title": {
+            "es-ES": "Parte I, Capítulo 1. Esta consideración con la de las obras de gracia"
+          }
+        },
+        {
+          "id": "p1-c2",
+          "title": {
+            "es-ES": "Parte I, Capítulo 2. Sigúese una devota meditación, en la cual se declara que aunque Dios sea incomprehensible, todavía se conosce algo del por la consideración de las obras de sus manos, que son sus criaturas"
+          }
+        },
+        {
+          "id": "p1-c3",
+          "title": {
+            "es-ES": "Parte I, Capítulo 3. De los fundamentos que los filósofos tuvieron para alcanzar por lumbre natural que hay Dios"
+          }
+        },
+        {
+          "id": "p1-c4",
+          "title": {
+            "es-ES": "Parte I, Capítulo 4. Consideración del mundo mayor y de sus partes más principales"
+          }
+        },
+        {
+          "id": "p1-c5",
+          "title": {
+            "es-ES": "Parte I, Capítulo 5. Del sol y de sus efectos y hermosura"
+          }
+        },
+        {
+          "id": "p1-c6",
+          "title": {
+            "es-ES": "Parte I, Capítulo 6. De los cuatro elementos ó región elementar"
+          }
+        },
+        {
+          "id": "p1-c7",
+          "title": {
+            "es-ES": "Parte I, Capítulo 7. Del elemento del aire"
+          }
+        },
+        {
+          "id": "p1-c8",
+          "title": {
+            "es-ES": "Parte I, Capítulo 8. Del elemento del agua"
+          }
+        },
+        {
+          "id": "p1-c9",
+          "title": {
+            "es-ES": "Parte I, Capítulo 9. Del cuarto elemento, que es la tierra"
+          }
+        },
+        {
+          "id": "p1-c10",
+          "title": {
+            "es-ES": "Parte I, Capítulo 10. De la fertilidad y plantas y frutos de la tierra"
+          }
+        },
+        {
+          "id": "p1-c11",
+          "title": {
+            "es-ES": "Parte I, Capítulo 11. Preámbulo para comenzar á tratar de los animales, mayormente de los que llaman perfectos"
+          }
+        },
+        {
+          "id": "p1-c12",
+          "title": {
+            "es-ES": "Parte I, Capítulo 12. De las propriedades comunes de los animales"
+          }
+        },
+        {
+          "id": "p1-c13",
+          "title": {
+            "es-ES": "Parte I, Capítulo 13. De las habilidades y facultades particulares que tienen todos los animales para su conservación"
+          }
+        },
+        {
+          "id": "p1-c14",
+          "title": {
+            "es-ES": "Parte I, Capítulo 14. De las habilidades que los animales tienen para mantenerse"
+          }
+        },
+        {
+          "id": "p1-c15",
+          "title": {
+            "es-ES": "Parte I, Capítulo 15. De las habilidades que los animales tienen para curarse en sus enfermedades"
+          }
+        },
+        {
+          "id": "p1-c16",
+          "title": {
+            "es-ES": "Parte I, Capítulo 16. De las habilidades y armas que los animales tienen para defenderse"
+          }
+        },
+        {
+          "id": "p1-c17",
+          "title": {
+            "es-ES": "Parte I, Capítulo 17. Para la criación de sus hijos"
+          }
+        },
+        {
+          "id": "p1-c18",
+          "title": {
+            "es-ES": "Parte I, Capítulo 18. Cómo resplandece más la sabiduría y providencia del criador en las cosas pequeñas que en las grandes"
+          }
+        },
+        {
+          "id": "p1-c19",
+          "title": {
+            "es-ES": "Parte I, Capítulo 19. Del fruto de las abejas y del gusano que hace la seda"
+          }
+        },
+        {
+          "id": "p1-c20",
+          "title": {
+            "es-ES": "Parte I, Capítulo 20. De la república y orden de las abejas"
+          }
+        },
+        {
+          "id": "p1-c21",
+          "title": {
+            "es-ES": "Parte I, Capítulo 21. De los gusanos que hilan la seda"
+          }
+        },
+        {
+          "id": "p1-c22",
+          "title": {
+            "es-ES": "Parte I, Capítulo 22. De otras propriedades muy notables de diversos animales"
+          }
+        },
+        {
+          "id": "p1-c23",
+          "title": {
+            "es-ES": "Parte I, Capítulo 23. Prólogo sobre la fábrica y partes principales del mundo menor, que es el hombre"
+          }
+        },
+        {
+          "id": "p1-c24",
+          "title": {
+            "es-ES": "Parte I, Capítulo 24. De la fábrica y armazón del cuerpo humano sobre los huesos"
+          }
+        },
+        {
+          "id": "p1-c25",
+          "title": {
+            "es-ES": "Parte I, Capítulo 25. De algunos avisos generales que conviene presuponer para tratar de la primera facultad de Nuestra ánima, que pertenece á la nutrición y sustentación del cuerpo"
+          }
+        },
+        {
+          "id": "p1-c26",
+          "title": {
+            "es-ES": "Parte I, Capítulo 26. De los miembros necesarios para la digestión y purificación del manjar"
+          }
+        },
+        {
+          "id": "p1-c27",
+          "title": {
+            "es-ES": "Parte I, Capítulo 27. Y de los espíritus animales"
+          }
+        },
+        {
+          "id": "p1-c28",
+          "title": {
+            "es-ES": "Parte I, Capítulo 28. De los espíritus animales que se engendran en la cabeza"
+          }
+        },
+        {
+          "id": "p1-c29",
+          "title": {
+            "es-ES": "Parte I, Capítulo 29. De los sentidos interiores que están en la cabeza"
+          }
+        },
+        {
+          "id": "p1-c30",
+          "title": {
+            "es-ES": "Parte I, Capítulo 30. De los cinco sentidos exteriores, y primero de los ojos"
+          }
+        },
+        {
+          "id": "p1-c32",
+          "title": {
+            "es-ES": "Parte I, Capítulo 32. De la conveniencia de las otras partes exteriores de Nuestro cuerpo"
+          }
+        },
+        {
+          "id": "p1-c33",
+          "title": {
+            "es-ES": "Parte I, Capítulo 33. De la parte afectiva del ánima sensitiva , que es, de las pasiones y afectos que están en Nuestro corazón"
+          }
+        },
+        {
+          "id": "p1-c34",
+          "title": {
+            "es-ES": "Parte I, Capítulo 34. Del ánima intelectiva y de sus oficios"
+          }
+        },
+        {
+          "id": "p1-c35",
+          "title": {
+            "es-ES": "Parte I, Capítulo 35. Por cuántas razones se dice ser el hombre hecho á imagen y semejanza de Dios"
+          }
+        },
+        {
+          "id": "p1-c36",
+          "title": {
+            "es-ES": "Parte I, Capítulo 36. De la providencia especial que Nuestro Señor tiene de las cosas humanas"
+          }
+        },
+        {
+          "id": "p1-c37",
+          "title": {
+            "es-ES": "Parte I, Capítulo 37. De la inmensidad y grandeza de las perfecciones divinas por el testimonio de las sanctas escrituras"
+          }
+        },
+        {
+          "id": "p1-c38",
+          "title": {
+            "es-ES": "Parte I, Capítulo 38. Según se colige por la grandeza de sus obras"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-2",
+      "title": {
+        "es-ES": "Segunda parte: de las excelencias de nuestra santa fe y religión cristiana"
+      },
+      "children": [
+        {
+          "id": "p2-preambulo",
+          "title": {
+            "es-ES": "Preámbulo"
+          }
+        },
+        {
+          "id": "p2-c1",
+          "title": {
+            "es-ES": "Parte II, Capítulo 1. Que no pueden los hombres vivir sin Fe, y de dos maneras de Fe, una acquisita y otra infusa"
+          }
+        },
+        {
+          "id": "p2-c2",
+          "title": {
+            "es-ES": "Parte II, Capítulo 2. Y de las excelencias y propriedades de la Fe"
+          }
+        },
+        {
+          "id": "p2-c3",
+          "title": {
+            "es-ES": "Parte II, Capítulo 3. De la primera excelencia de la doctrina de nuestra Fe, que es haber sido enseñada y revelada por Dios, lo cual se entiende por los grandes errores de los filósofos, mayormente acerca del último fin del hombre"
+          }
+        },
+        {
+          "id": "p2-c4",
+          "title": {
+            "es-ES": "Parte II, Capítulo 4. De la segunda excelencia de la religión cristiana, que es sentir altamente de Dios"
+          }
+        },
+        {
+          "id": "p2-c5",
+          "title": {
+            "es-ES": "Parte II, Capítulo 5. De la tercera excelencia de la religión cristiana, que es la rectitud y sanctidad de las leyes y de la doctrina que profesa"
+          }
+        },
+        {
+          "id": "p2-c6",
+          "title": {
+            "es-ES": "Parte II, Capítulo 6. De la cuarta excelencia de la religión cristiana, que es sola ella tener sacramentos que den gracia"
+          }
+        },
+        {
+          "id": "p2-c7",
+          "title": {
+            "es-ES": "Parte II, Capítulo 7. De la quinta excelencia de la religión cristiana, que es el favor grande que promete á la virtud, y el disfavor y castigos grandes que amenaza á los vicios"
+          }
+        },
+        {
+          "id": "p2-c8",
+          "title": {
+            "es-ES": "Parte II, Capítulo 8. De la sexta excelencia de la religión crlstiana , que es la perpetuidad y constancia della en todos los siglos dende el principio del mundo"
+          }
+        },
+        {
+          "id": "p2-c9",
+          "title": {
+            "es-ES": "Parte II, Capítulo 9. De la séptima excelencia de la religión cristiana, que es la dignidad de la sagrada escriptura, en que ella se funda"
+          }
+        },
+        {
+          "id": "p2-c10",
+          "title": {
+            "es-ES": "Parte II, Capítulo 10. De la octava excelencia de la religión cristiana, que es la pureza de vida que causa en los profesores y guardadores della"
+          }
+        },
+        {
+          "id": "p2-c11",
+          "title": {
+            "es-ES": "Parte II, Capítulo 11. De la nona excelencia de la religión cristiana, que es alcanzarse por ella la verdadera felicidad y último fin del hombre"
+          }
+        },
+        {
+          "id": "p2-c12",
+          "title": {
+            "es-ES": "Parte II, Capítulo 12. De la décima excelencia de la religión cristiana, que es haber desterrado la idolatría del mundo, que es el primer triunfo de Cristo"
+          }
+        },
+        {
+          "id": "p2-c13",
+          "title": {
+            "es-ES": "Parte II, Capítulo 13. De la undécima excelencia de la religión cristiana, que contiene el segundo triunfo de Cristo, por el cual triunfó del mundo y de todos los monarcas del"
+          }
+        },
+        {
+          "id": "p2-c14",
+          "title": {
+            "es-ES": "Parte II, Capítulo 14. De la duodécima excelencia de la religión cristiana, la cual contiene el triunfo de Cristo contra los que le procuraron la muerte"
+          }
+        },
+        {
+          "id": "p2-c15",
+          "title": {
+            "es-ES": "Parte II, Capítulo 15. De la décimatercia excelencia de la religión cristiana, que es ser aprobada por testimonio de doctísimos y sanctísimos varones , y mucho más de los sagrados concilios"
+          }
+        },
+        {
+          "id": "p2-c16",
+          "title": {
+            "es-ES": "Parte II, Capítulo 16. Preámbulo para tratar del testlmonio que Nuestra Fe tiene con la sangre de los sanctos mártires, donde se declara cuan gloriosa cosa sea padecer martirio por Dios"
+          }
+        },
+        {
+          "id": "p2-c17",
+          "title": {
+            "es-ES": "Parte II, Capítulo 17. De la décimacuarta excelencia de la Fe y religión cristiana, que es haber sido confirmada con el testimonio de innumerables mártires"
+          }
+        },
+        {
+          "id": "p2-c18",
+          "title": {
+            "es-ES": "Parte II, Capítulo 18. Persecución de diocleciano y maximiano"
+          }
+        },
+        {
+          "id": "p2-c19",
+          "title": {
+            "es-ES": "Parte II, Capítulo 19. Martirio de la Virgen sancta olalla"
+          }
+        },
+        {
+          "id": "p2-c20",
+          "title": {
+            "es-ES": "Parte II, Capítulo 20. Martirio de la Virgen Santa martina"
+          }
+        },
+        {
+          "id": "p2-c21",
+          "title": {
+            "es-ES": "Parte II, Capítulo 21. De otra persecución que padesció la Iglesia en tiempo del emperador antonino vero"
+          }
+        },
+        {
+          "id": "p2-c22",
+          "title": {
+            "es-ES": "Parte II, Capítulo 22. Síguese otra persecución que padescieron los fieles en persia en tiempo del rey sapor, en la cual padesció simeón, obispo de seleucia, y ustazades, varón excelente, y otros sanctos sacerdotes"
+          }
+        },
+        {
+          "id": "p2-c23",
+          "title": {
+            "es-ES": "Parte II, Capítulo 23. Del martirio de simeón con otros muchos (cuasi diez y seis mil) que fueron muertos en el reino de sapor por maliciosas acusaciones de los agoreros"
+          }
+        },
+        {
+          "id": "p2-c24",
+          "title": {
+            "es-ES": "Parte II, Capítulo 24. El martirio de s. policarpo, discípulo de s. Juan evangelista y obispo de esmirna, referido por eusebio en el cuarto libro de la historia eclesiástica"
+          }
+        },
+        {
+          "id": "p2-c25",
+          "title": {
+            "es-ES": "Parte II, Capítulo 25. Consideración sobre las gloriosas batallas y victorias de los sanctos mártires que aquí se han relatado"
+          }
+        },
+        {
+          "id": "p2-c26",
+          "title": {
+            "es-ES": "Parte II, Capítulo 26. De cómo cuasi todos los emperadores que persiguieron la Fe y religión cristiana, acabaron desastradamente, y los que la honraron, fueron en todas las cosas ayudados de Dios y prosperados"
+          }
+        },
+        {
+          "id": "p2-c27",
+          "title": {
+            "es-ES": "Parte II, Capítulo 27. De la décimaquinta excelencia de la religión cristiana, que es ser confirmada con muchos y muy grandes milagros"
+          }
+        },
+        {
+          "id": "p2-c28",
+          "title": {
+            "es-ES": "Parte II, Capítulo 28. Del mayor de todos los milagros que fué la conversión del mundo"
+          }
+        },
+        {
+          "id": "p2-c29",
+          "title": {
+            "es-ES": "Parte II, Capítulo 29. De la postrera excelencia de la religión cristiana, que es ser confirmada con el testimonio de las profecías"
+          }
+        },
+        {
+          "id": "p2-c30",
+          "title": {
+            "es-ES": "Parte II, Capítulo 30. Conclusión de todo lo dicho y declaración del fruto que de todo ello se saca"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-3",
+      "title": {
+        "es-ES": "Tercera parte: del misterio de nuestra redención a la luz natural"
+      },
+      "children": [
+        {
+          "id": "p3-prologo",
+          "title": {
+            "es-ES": "Prólogo"
+          }
+        },
+        {
+          "id": "parte-3-t1",
+          "title": {
+            "es-ES": "Tratado primero: de las conveniencias del misterio de la redención"
+          },
+          "children": [
+            {
+              "id": "p3-t1-c1",
+              "title": {
+                "es-ES": "Capítulo 1. De la manera del proceder en esta tercera parte"
+              }
+            },
+            {
+              "id": "p3-t1-c2",
+              "title": {
+                "es-ES": "Capítulo 2. Cuan conforme sea a la lumbre de la razón lo que la religión cristiana enseña del pecado original"
+              }
+            },
+            {
+              "id": "p3-t1-c3",
+              "title": {
+                "es-ES": "Capítulo 3. De cómo plugo á la inmensa bondad de Dios enviar remedio al hombre, dejando al demonio en su obstinación"
+              }
+            },
+            {
+              "id": "p3-t1-c4",
+              "title": {
+                "es-ES": "Capítulo 4. Cómo ni el hombre, ni el ángel, ni otra pura criatura podía en rigor de justicia satisfacer por la común deuda del género humano"
+              }
+            },
+            {
+              "id": "p3-t1-c5",
+              "title": {
+                "es-ES": "Capítulo 5. Cómo solo el hijo de Dios en rigor de justicia podía, descargar la común deuda del linaje humano, y cuan conveniente haya sido este medio para este descargo"
+              }
+            },
+            {
+              "id": "p3-t1-c6",
+              "title": {
+                "es-ES": "Capítulo 6. Cuan proporcionada haya sido la manera de la satlsfación de Nuestro Salvador, y cuan conforme á las leyes de justicia"
+              }
+            },
+            {
+              "id": "p3-t1-c7",
+              "title": {
+                "es-ES": "Capítulo 7. Del grande beneficio que el mundo recibió por esta satisfación de Cristo Nuestro redemptor"
+              }
+            },
+            {
+              "id": "p3-t1-c8",
+              "title": {
+                "es-ES": "Capítulo 8. Segundo fructo del árbol de la cruz, que es la dignidad y gloria que nos vino por ella"
+              }
+            },
+            {
+              "id": "p3-t1-c9",
+              "title": {
+                "es-ES": "Capítulo 9. Ante el acatamiento del eterno padre"
+              }
+            },
+            {
+              "id": "p3-t1-c10",
+              "title": {
+                "es-ES": "Capítulo 10. Que pertenece á Nuestra salvación"
+              }
+            },
+            {
+              "id": "p3-t1-c11",
+              "title": {
+                "es-ES": "Capítulo 11. Quinto fructo del árbol de la cruz, que es la divina gracia que por ella se nos da"
+              }
+            },
+            {
+              "id": "p3-t1-c12",
+              "title": {
+                "es-ES": "Capítulo 12. Fruto sexto del árbol de la cruz, que son los sacramentos de la ley de gracia"
+              }
+            },
+            {
+              "id": "p3-t1-c13",
+              "title": {
+                "es-ES": "Capítulo 13. De la virtud"
+              }
+            },
+            {
+              "id": "p3-t1-c14",
+              "title": {
+                "es-ES": "Capítulo 14. Octavo fructo del árbol de la cruz, que es la caridad"
+              }
+            },
+            {
+              "id": "p3-t1-c15",
+              "title": {
+                "es-ES": "Capítulo 15. Nono fructo del árbol de la cruz, que es la esperanza"
+              }
+            },
+            {
+              "id": "p3-t1-c16",
+              "title": {
+                "es-ES": "Capítulo 16. Décimo fructo del árbol de la cruz, que es la virtud de la humildad"
+              }
+            },
+            {
+              "id": "p3-t1-c17",
+              "title": {
+                "es-ES": "Capítulo 17. Undécimo fructo del árbol de la cruz que es la virtud de la obediencia"
+              }
+            },
+            {
+              "id": "p3-t1-c18",
+              "title": {
+                "es-ES": "Capítulo 18. Duodécimo fructo del árbol de la cruz, que es la virtud de la paciencia"
+              }
+            },
+            {
+              "id": "p3-t1-c19",
+              "title": {
+                "es-ES": "Capítulo 19. Las virtudes"
+              }
+            },
+            {
+              "id": "p3-t1-c20",
+              "title": {
+                "es-ES": "Capítulo 20. De la vida evangélica"
+              }
+            },
+            {
+              "id": "p3-t1-c21",
+              "title": {
+                "es-ES": "Capítulo 21. Y contemplación"
+              }
+            },
+            {
+              "id": "p3-t1-c22",
+              "title": {
+                "es-ES": "Capítulo 22. Nuestras oraciones y peticiones ante el Señor"
+              }
+            },
+            {
+              "id": "p3-t1-c23",
+              "title": {
+                "es-ES": "Capítulo 23. Fructo xvii del árbol de la cruz, que es favor y socorro en las tentaciones"
+              }
+            },
+            {
+              "id": "p3-t1-c24",
+              "title": {
+                "es-ES": "Capítulo 24. Mártires"
+              }
+            },
+            {
+              "id": "p3-t1-c25",
+              "title": {
+                "es-ES": "Capítulo 25. Y obediencia de su legítimo rey y Señor"
+              }
+            },
+            {
+              "id": "p3-t1-c26",
+              "title": {
+                "es-ES": "Capítulo 26. Fructo xx del árbol de la cruz, que es la bienaventuranza de la gloria"
+              }
+            }
+          ]
+        },
+        {
+          "id": "parte-3-t2",
+          "title": {
+            "es-ES": "Tratado segundo: de las figuras y diálogos"
+          },
+          "children": [
+            {
+              "id": "p3-t2-intro",
+              "title": {
+                "es-ES": "Tratado II: desta tercera parte"
+              }
+            },
+            {
+              "id": "p3-t2-c1",
+              "title": {
+                "es-ES": "Capítulo 1. De las figuras que en los tiempos antiguos representaron la venida y el misterio de Cristo"
+              }
+            },
+            {
+              "id": "p3-t2-d1",
+              "title": {
+                "es-ES": "Diálogo I. Que trata de la causa de la venida del hijo de Dios al mundo"
+              }
+            },
+            {
+              "id": "p3-t2-d2",
+              "title": {
+                "es-ES": "Diálogo II. En que se pregunta por qué causa vino el Salvador al mundo, tomando en sí la naturaleza humana"
+              }
+            },
+            {
+              "id": "p3-t2-d3",
+              "title": {
+                "es-ES": "Diálogo III. En el cual se pregunta por qué causa Nuestro Salvador ya que tuvo por bien hacerse hombre quiso que su vida fuese humilde, pobre y trabajosa"
+              }
+            },
+            {
+              "id": "p3-t2-d4",
+              "title": {
+                "es-ES": "Diálogo IV. En el cual se trata de las causas y conveniencias de la Pasión y muerte del Salvador"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parte-4",
+      "title": {
+        "es-ES": "Cuarta parte: del misterio de nuestra redención por la luz de la fe"
+      },
+      "children": [
+        {
+          "id": "p4-lector",
+          "title": {
+            "es-ES": "Al cristiano lector"
+          }
+        },
+        {
+          "id": "p4-intro",
+          "title": {
+            "es-ES": "Cuarta parte: del misterio de nuestra redención"
+          }
+        },
+        {
+          "id": "parte-4-t1",
+          "title": {
+            "es-ES": "Tratado primero: del misterio de la redención por la luz de la fe"
+          },
+          "children": [
+            {
+              "id": "p4-t1-c1",
+              "title": {
+                "es-ES": "Capítulo 1. De la manera del proceder en esta cuarta parte"
+              }
+            },
+            {
+              "id": "p4-t1-c2",
+              "title": {
+                "es-ES": "Capítulo 2. Del primer principio y causa de Nuestra redempcíón, que fué la inmensa bondad de Nuestro clementísimo, criador y Señor, y del fín para que crió al hombre"
+              }
+            },
+            {
+              "id": "p4-t1-c3",
+              "title": {
+                "es-ES": "Capítulo 3. Cuál haya quedado el hombre por el pecado"
+              }
+            },
+            {
+              "id": "p4-t1-c4",
+              "title": {
+                "es-ES": "Capítulo 4. De la primera esperanza de salud que nos fue dada después del pecado"
+              }
+            },
+            {
+              "id": "p4-t1-c5",
+              "title": {
+                "es-ES": "Capítulo 5. De otras más particulares señales y profecías del Salvador"
+              }
+            },
+            {
+              "id": "p4-t1-c6",
+              "title": {
+                "es-ES": "Capítulo 6. De las profecías de la vida de Cristo Nuestro Señor"
+              }
+            },
+            {
+              "id": "p4-t1-c8",
+              "title": {
+                "es-ES": "Capítulo 8. De las profecías que se cumplieron después de la muerte y sepultura del Salvador"
+              }
+            },
+            {
+              "id": "p4-t1-c9",
+              "title": {
+                "es-ES": "Capítulo 9. De las grandes y maravillosas hazañas que el salvador había de obrar después de su venida al mundo"
+              }
+            },
+            {
+              "id": "p4-t1-c10",
+              "title": {
+                "es-ES": "Capítulo 10. De la primera hazaña que se siguió de la venida del Salvador al mundo, que fué desterrar del la blasfemia de la idolatría, que cuasi por todo él estaba recebida"
+              }
+            },
+            {
+              "id": "p4-t1-c11",
+              "title": {
+                "es-ES": "Capítulo 11. De la segunda hazaña que el Salvador había de obrar en el mundo, que era traer los hombres al conocimiento del verdadero Dios"
+              }
+            },
+            {
+              "id": "p4-t1-c12",
+              "title": {
+                "es-ES": "Capítulo 12. De la tercera obra maravillosa que se había de obrar en el mundo después de la venida del salvador, que era la reformación de las costumbres de los hombres"
+              }
+            },
+            {
+              "id": "p4-t1-c13",
+              "title": {
+                "es-ES": "Capítulo 13. De la cuarta hazaña que se había de seguir después de la muerte del Salvador, que fué el castigo famoso de los que se la procuraron"
+              }
+            },
+            {
+              "id": "p4-t1-c14",
+              "title": {
+                "es-ES": "Capítulo 14"
+              }
+            },
+            {
+              "id": "p4-t1-c15",
+              "title": {
+                "es-ES": "Capítulo 15. De las grandes calamidades que se siguieron después de la venida del emperador vespasiano en la conquista de las provincias de galilea y judea"
+              }
+            },
+            {
+              "id": "p4-t1-c16",
+              "title": {
+                "es-ES": "Capítulo 16. Del cerco de hierusalén, y de las calamidades y disensiones y hambres que en él se pasaron"
+              }
+            },
+            {
+              "id": "p4-t1-c17",
+              "title": {
+                "es-ES": "Capítulo 17. En su incredulidad"
+              }
+            },
+            {
+              "id": "p4-t1-c18",
+              "title": {
+                "es-ES": "Capítulo 18. Del destierro general que padece hasta hoy la parte deste pueblo que permanece en su infidelidad"
+              }
+            },
+            {
+              "id": "p4-t1-c19",
+              "title": {
+                "es-ES": "Capítulo 19. Del tiempo de la venida del Salvador, en el cual se había de dar principio á estas obras maravillosas que haremos referido"
+              }
+            },
+            {
+              "id": "p4-t1-c20",
+              "title": {
+                "es-ES": "Capítulo 20. Conclusión y suma de todo lo dicho"
+              }
+            },
+            {
+              "id": "p4-t1-c21",
+              "title": {
+                "es-ES": "Capítulo 21. De las cosas que las sibilas profetizaron del misterio de Cristo Nuestro Salvador"
+              }
+            }
+          ]
+        },
+        {
+          "id": "parte-4-t2",
+          "title": {
+            "es-ES": "Tratado segundo: diálogos que responden a las objeciones acerca del Mesías"
+          },
+          "children": [
+            {
+              "id": "p4-t2-d1",
+              "title": {
+                "es-ES": "Diálogo I. En el cual por la conversión del mundo, testificada por los profetas, se prueba la venida del Salvador"
+              }
+            },
+            {
+              "id": "p4-t2-d2",
+              "title": {
+                "es-ES": "Diálogo II. En el cual se trata de la divinidad de Cristo Nuestro Salvador"
+              }
+            },
+            {
+              "id": "p4-t2-d3",
+              "title": {
+                "es-ES": "Diálogo III. Del misterio de la sanctísima trinidad"
+              }
+            },
+            {
+              "id": "p4-t2-d4",
+              "title": {
+                "es-ES": "Diálogo IV. De la humanidad de Cristo Nuestro Salvador"
+              }
+            },
+            {
+              "id": "p4-t2-d5",
+              "title": {
+                "es-ES": "Diálogo V. Que trata de la pobreza y humildad con que el Salvador vivió en el mundo"
+              }
+            },
+            {
+              "id": "p4-t2-d6",
+              "title": {
+                "es-ES": "Diálogo VI. De la aspereza y trabajos de la vida de Nuestro Salvador"
+              }
+            },
+            {
+              "id": "p4-t2-d7",
+              "title": {
+                "es-ES": "Diálogo VII. En el cual se declara cómo en la muerte del Salvador no sólo no hubo ignominia sino grandísima gloria"
+              }
+            },
+            {
+              "id": "p4-t2-d8",
+              "title": {
+                "es-ES": "Diálogo VIII. En el cual se trata del sanctísimo Sacramento del altar"
+              }
+            },
+            {
+              "id": "p4-t2-d9",
+              "title": {
+                "es-ES": "Diálogo IX. De la derogación de los sacrificios y cerimonias de la ley"
+              }
+            },
+            {
+              "id": "p4-t2-d10",
+              "title": {
+                "es-ES": "Diálogo X. En el cual se trata de la ceguedad y miserias en que vive la parte de los judíos que no han recibido la Fe del Salvador"
+              }
+            },
+            {
+              "id": "p4-t2-d11",
+              "title": {
+                "es-ES": "Diálogo XI. En el cual se trata de los dos estados de la Iglesia cristiana, que es, del que tuvo en sus principios, y del que agora tiene en el tiempo presente"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
