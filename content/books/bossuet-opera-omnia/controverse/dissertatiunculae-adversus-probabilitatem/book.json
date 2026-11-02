@@ -1,0 +1,66 @@
+{
+  "id": "bossuet-dissertatiunculae-adversus-probabilitatem",
+  "cover": "classic",
+  "name": {
+    "la": "Dissertatiunculae IV adversus probabilitatem",
+    "en-US": "Four Short Dissertations against Probabilism",
+    "pt-BR": "Quatro breves dissertações contra o probabilismo"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "la": "Dissertatiunculae IV adversus probabilitatem : de dubio in negotio salutis, de opinione minus probabili. Editio Lachat (1866).",
+    "en-US": "Four short Latin dissertations against probabilism: doubt in the business of salvation, and the less probable opinion. Lachat edition (1866).",
+    "pt-BR": "Quatro breves dissertações latinas contra o probabilismo: a dúvida no negócio da salvação e a opinião menos provável. Edição Lachat (1866)."
+  },
+  "composed": "1700",
+  "languages": [
+    "la"
+  ],
+  "work": "bossuet/dissertatiunculae-adversus-probabilitatem",
+  "editions": {
+    "la": {
+      "editor": "Abbé F. Lachat",
+      "year": 1866
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://web.archive.org/web/2022/https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/bossuet/volume031/001.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Bibliothèque monastique (Abbaye Saint-Benoît de Port-Valais), Wayback Machine",
+      "description": "Typed transcription of volume XXXI, page 001.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dissertatiuncula-1",
+      "title": {
+        "la": "Dissertatiuncula prima. De dubio in negotio salutis"
+      }
+    },
+    {
+      "id": "dissertatiuncula-2",
+      "title": {
+        "la": "Dissertatiuncula II. De opinione minus probabili ac simul minus tuta"
+      }
+    },
+    {
+      "id": "dissertatiuncula-3",
+      "title": {
+        "la": "Dissertatiuncula III. De conscientia"
+      }
+    },
+    {
+      "id": "dissertatiuncula-4",
+      "title": {
+        "la": "Dissertatiuncula IV. De prudentia"
+      }
+    }
+  ]
+}
