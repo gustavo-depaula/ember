@@ -1,0 +1,325 @@
+{
+  "id": "challoner-memoirs-missionary-priests",
+  "cover": "classic",
+  "name": {
+    "en-US": "Memoirs of Missionary Priests",
+    "pt-BR": "Memórias dos Padres Missionários"
+  },
+  "author": {
+    "en-US": "Bp. Richard Challoner",
+    "pt-BR": "D. Richard Challoner"
+  },
+  "description": {
+    "en-US": "Memoirs of Missionary Priests and other Catholics of both sexes that have suffered death in England on religious accounts from the year 1577 to 1684 (1741-42): Challoner's lives of the English martyrs, from Cuthbert Mayne and Edmund Campion through Robert Southwell, Henry Garnet, Edmund Arrowsmith and Oliver Plunket, arranged by year, with the 1924 editor's introduction, notes and appendices.",
+    "pt-BR": "Memórias dos Padres Missionários e de outros católicos de ambos os sexos que sofreram a morte na Inglaterra por motivo de religião, de 1577 a 1684 (1741-42): as vidas dos mártires ingleses por Challoner, de Cuthbert Mayne e Edmund Campion a Robert Southwell, Henry Garnet, Edmund Arrowsmith e Oliver Plunket, por ordem de anos, com a introdução, as notas e os apêndices do editor de 1924."
+  },
+  "composed": 1741,
+  "languages": [
+    "en-US"
+  ],
+  "work": "challoner/memoirs-missionary-priests",
+  "editions": {
+    "en-US": {
+      "editor": "Bp. Richard Challoner; revised by John Hungerford Pollen SJ (New York: P. J. Kenedy and Sons, 1924)",
+      "year": 1924
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/memoirsofmission00chal",
+      "edition": "Memoirs of Missionary Priests, as well Secular as Regular, and of Other Catholics of both Sexes that have suffered Death in England on Religious Accounts, from the Year 1577 to 1684, a new edition revised and corrected by John Hungerford Pollen, S.J. (New York: P. J. Kenedy and Sons, 1924), Internet Archive full-text OCR.",
+      "description": "Pollen's introduction, the two parts of the lives and the appendices; the contents and the index of names are dropped. The lives of one year form one chapter (the printed lives are not numbered). Pollen's bracketed additions and page notes are kept. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Bp. Richard Challoner died in 1781 and the edition is of 1924, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction to the 1924 Edition"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: 1577-1603"
+      },
+      "children": [
+        {
+          "id": "year-1577",
+          "title": {
+            "en-US": "The Year 1577"
+          }
+        },
+        {
+          "id": "year-1578",
+          "title": {
+            "en-US": "The Year 1578"
+          }
+        },
+        {
+          "id": "year-1581",
+          "title": {
+            "en-US": "The Year 1581"
+          }
+        },
+        {
+          "id": "year-1582",
+          "title": {
+            "en-US": "The Year 1582"
+          }
+        },
+        {
+          "id": "year-1583",
+          "title": {
+            "en-US": "The Year 1583"
+          }
+        },
+        {
+          "id": "year-1584",
+          "title": {
+            "en-US": "The Year 1584"
+          }
+        },
+        {
+          "id": "year-1585",
+          "title": {
+            "en-US": "The Year 1585"
+          }
+        },
+        {
+          "id": "year-1587",
+          "title": {
+            "en-US": "The Year 1587"
+          }
+        },
+        {
+          "id": "year-1588",
+          "title": {
+            "en-US": "The Year 1588"
+          }
+        },
+        {
+          "id": "year-1589",
+          "title": {
+            "en-US": "The Year 1589"
+          }
+        },
+        {
+          "id": "year-1591",
+          "title": {
+            "en-US": "The Year 1591"
+          }
+        },
+        {
+          "id": "year-1592",
+          "title": {
+            "en-US": "The Year 1592"
+          }
+        },
+        {
+          "id": "year-1593",
+          "title": {
+            "en-US": "The Year 1593"
+          }
+        },
+        {
+          "id": "year-1594",
+          "title": {
+            "en-US": "The Year 1594"
+          }
+        },
+        {
+          "id": "year-1595",
+          "title": {
+            "en-US": "The Year 1595"
+          }
+        },
+        {
+          "id": "year-1597",
+          "title": {
+            "en-US": "The Year 1597"
+          }
+        },
+        {
+          "id": "year-1598",
+          "title": {
+            "en-US": "The Year 1598"
+          }
+        },
+        {
+          "id": "year-1599",
+          "title": {
+            "en-US": "The Year 1599"
+          }
+        },
+        {
+          "id": "year-1600",
+          "title": {
+            "en-US": "The Year 1600"
+          }
+        },
+        {
+          "id": "year-1602",
+          "title": {
+            "en-US": "The Year 1602"
+          }
+        },
+        {
+          "id": "year-1603",
+          "title": {
+            "en-US": "The Year 1603"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: 1603-1684"
+      },
+      "children": [
+        {
+          "id": "year-1603-1605",
+          "title": {
+            "en-US": "1603 to 1605"
+          }
+        },
+        {
+          "id": "year-1606",
+          "title": {
+            "en-US": "The Year 1606"
+          }
+        },
+        {
+          "id": "year-1607",
+          "title": {
+            "en-US": "The Year 1607"
+          }
+        },
+        {
+          "id": "year-1608",
+          "title": {
+            "en-US": "The Year 1608"
+          }
+        },
+        {
+          "id": "year-1610",
+          "title": {
+            "en-US": "The Year 1610"
+          }
+        },
+        {
+          "id": "year-1612",
+          "title": {
+            "en-US": "The Year 1612"
+          }
+        },
+        {
+          "id": "year-1616",
+          "title": {
+            "en-US": "The Year 1616"
+          }
+        },
+        {
+          "id": "year-1618",
+          "title": {
+            "en-US": "The Year 1618"
+          }
+        },
+        {
+          "id": "year-1628",
+          "title": {
+            "en-US": "The Year 1628"
+          }
+        },
+        {
+          "id": "year-1640",
+          "title": {
+            "en-US": "The Year 1640"
+          }
+        },
+        {
+          "id": "year-1641",
+          "title": {
+            "en-US": "The Year 1641"
+          }
+        },
+        {
+          "id": "year-1642",
+          "title": {
+            "en-US": "The Year 1642"
+          }
+        },
+        {
+          "id": "year-1643",
+          "title": {
+            "en-US": "The Year 1643"
+          }
+        },
+        {
+          "id": "year-1644",
+          "title": {
+            "en-US": "The Year 1644"
+          }
+        },
+        {
+          "id": "year-1645",
+          "title": {
+            "en-US": "The Year 1645"
+          }
+        },
+        {
+          "id": "year-1646",
+          "title": {
+            "en-US": "The Year 1646"
+          }
+        },
+        {
+          "id": "year-1647-1650",
+          "title": {
+            "en-US": "1647-1650"
+          }
+        },
+        {
+          "id": "year-1651",
+          "title": {
+            "en-US": "The Year 1651"
+          }
+        },
+        {
+          "id": "year-1654",
+          "title": {
+            "en-US": "The Year 1654"
+          }
+        },
+        {
+          "id": "year-1678",
+          "title": {
+            "en-US": "The Year 1678"
+          }
+        },
+        {
+          "id": "year-1679",
+          "title": {
+            "en-US": "The Year 1679"
+          }
+        },
+        {
+          "id": "year-1680",
+          "title": {
+            "en-US": "The Year 1680"
+          }
+        },
+        {
+          "id": "year-1681",
+          "title": {
+            "en-US": "The Year 1681"
+          }
+        }
+      ]
+    }
+  ]
+}

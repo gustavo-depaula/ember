@@ -1,0 +1,440 @@
+{
+ "id": "challoner-memoirs-missionary-priests",
+ "dir": "challoner-opera-omnia/memoirs-missionary-priests",
+ "slug": "memoirs-missionary-priests",
+ "work": "challoner/memoirs-missionary-priests",
+ "name": "Memoirs of Missionary Priests",
+ "name_pt": "Mem\u00f3rias dos Padres Mission\u00e1rios",
+ "author": "Bp. Richard Challoner",
+ "author_pt": "D. Richard Challoner",
+ "died": 1781,
+ "desc": "Memoirs of Missionary Priests and other Catholics of both sexes that have suffered death in England on religious accounts from the year 1577 to 1684 (1741-42): Challoner's lives of the English martyrs, from Cuthbert Mayne and Edmund Campion through Robert Southwell, Henry Garnet, Edmund Arrowsmith and Oliver Plunket, arranged by year, with the 1924 editor's introduction, notes and appendices.",
+ "desc_pt": "Mem\u00f3rias dos Padres Mission\u00e1rios e de outros cat\u00f3licos de ambos os sexos que sofreram a morte na Inglaterra por motivo de religi\u00e3o, de 1577 a 1684 (1741-42): as vidas dos m\u00e1rtires ingleses por Challoner, de Cuthbert Mayne e Edmund Campion a Robert Southwell, Henry Garnet, Edmund Arrowsmith e Oliver Plunket, por ordem de anos, com a introdu\u00e7\u00e3o, as notas e os ap\u00eandices do editor de 1924.",
+ "composed": 1741,
+ "editor": "Bp. Richard Challoner; revised by John Hungerford Pollen SJ (New York: P. J. Kenedy and Sons, 1924)",
+ "year": 1924,
+ "url": "https://archive.org/details/memoirsofmission00chal",
+ "edition": "Memoirs of Missionary Priests, as well Secular as Regular, and of Other Catholics of both Sexes that have suffered Death in England on Religious Accounts, from the Year 1577 to 1684, a new edition revised and corrected by John Hungerford Pollen, S.J. (New York: P. J. Kenedy and Sons, 1924), Internet Archive full-text OCR.",
+ "srcnote": "Pollen's introduction, the two parts of the lives and the appendices; the contents and the index of names are dropped. The lives of one year form one chapter (the printed lives are not numbered). Pollen's bracketed additions and page notes are kept.",
+ "src": "challoner/ia/memoirsofmission00chal_djvu.txt",
+ "start": 79,
+ "end": 32460,
+ "fn": true,
+ "front": [
+  {
+   "id": "introduction",
+   "title": "Introduction to the 1924 Edition",
+   "from": 79,
+   "to": 706
+  }
+ ],
+ "back": [
+  {
+   "id": "appendices",
+   "title": "Appendices",
+   "from": 32461,
+   "to": 33592
+  }
+ ],
+ "label": {
+  "SECTION": "Section"
+ },
+ "units": [
+  {
+   "id": "year-1577",
+   "title": "The Year 1577",
+   "from": 1852,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1578",
+   "title": "The Year 1578",
+   "from": 2165,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1581",
+   "title": "The Year 1581",
+   "from": 2475,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1582",
+   "title": "The Year 1582",
+   "from": 3887,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1583",
+   "title": "The Year 1583",
+   "from": 5646,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1584",
+   "title": "The Year 1584",
+   "from": 6309,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1585",
+   "title": "The Year 1585",
+   "from": 7382,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1587",
+   "title": "The Year 1587",
+   "from": 8208,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1588",
+   "title": "The Year 1588",
+   "from": 8656,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1589",
+   "title": "The Year 1589",
+   "from": 9847,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1591",
+   "title": "The Year 1591",
+   "from": 10511,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1592",
+   "title": "The Year 1592",
+   "from": 11565,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1593",
+   "title": "The Year 1593",
+   "from": 11648,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1594",
+   "title": "The Year 1594",
+   "from": 12175,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1595",
+   "title": "The Year 1595",
+   "from": 12875,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1597",
+   "title": "The Year 1597",
+   "from": 13960,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1598",
+   "title": "The Year 1598",
+   "from": 14065,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1599",
+   "title": "The Year 1599",
+   "from": 14230,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1600",
+   "title": "The Year 1600",
+   "from": 14274,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1602",
+   "title": "The Year 1602",
+   "from": 15515,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1603",
+   "title": "The Year 1603",
+   "from": 15924,
+   "part": {
+    "id": "part-1",
+    "title": "Part I: 1577-1603"
+   }
+  },
+  {
+   "id": "year-1603-1605",
+   "title": "1603 to 1605",
+   "from": 15992,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1606",
+   "title": "The Year 1606",
+   "from": 16443,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1607",
+   "title": "The Year 1607",
+   "from": 17000,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1608",
+   "title": "The Year 1608",
+   "from": 17118,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1610",
+   "title": "The Year 1610",
+   "from": 17401,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1612",
+   "title": "The Year 1612",
+   "from": 18657,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1616",
+   "title": "The Year 1616",
+   "from": 19487,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1618",
+   "title": "The Year 1618",
+   "from": 20508,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1628",
+   "title": "The Year 1628",
+   "from": 20687,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1640",
+   "title": "The Year 1640",
+   "from": 21554,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1641",
+   "title": "The Year 1641",
+   "from": 21762,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1642",
+   "title": "The Year 1642",
+   "from": 22829,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1643",
+   "title": "The Year 1643",
+   "from": 24771,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1644",
+   "title": "The Year 1644",
+   "from": 25677,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1645",
+   "title": "The Year 1645",
+   "from": 26214,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1646",
+   "title": "The Year 1646",
+   "from": 26601,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1647-1650",
+   "title": "1647-1650",
+   "from": 27503,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1651",
+   "title": "The Year 1651",
+   "from": 27939,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1654",
+   "title": "The Year 1654",
+   "from": 28220,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1678",
+   "title": "The Year 1678",
+   "from": 28542,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1679",
+   "title": "The Year 1679",
+   "from": 28983,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1680",
+   "title": "The Year 1680",
+   "from": 31565,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  },
+  {
+   "id": "year-1681",
+   "title": "The Year 1681",
+   "from": 31963,
+   "part": {
+    "id": "part-2",
+    "title": "Part II: 1603-1684"
+   }
+  }
+ ]
+}
