@@ -1,0 +1,111 @@
+{
+  "id": "chesterton-innocence-of-father-brown",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Innocence of Father Brown",
+    "pt-BR": "A Inocência do Padre Brown"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "The first twelve Father Brown stories: the meek Essex priest, with his umbrella and brown paper parcels, unmasks Flambeau the master thief in The Blue Cross and goes on solving impossible crimes by understanding the sinner from within. The Invisible Man, The Hammer of God and The Sign of the Broken Sword among them.",
+    "pt-BR": "As doze primeiras histórias do Padre Brown: o manso padre de Essex, com seu guarda-chuva e seus pacotes de papel pardo, desmascara o mestre dos ladrões Flambeau em A Cruz Azul e segue resolvendo crimes impossíveis ao compreender o pecador por dentro. Entre elas, O Homem Invisível, O Martelo de Deus e O Sinal da Espada Quebrada."
+  },
+  "composed": "1911",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/innocence-of-father-brown",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/204",
+      "edition": "The Innocence of Father Brown (London: Cassell, 1911), Project Gutenberg #204.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1911 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-blue-cross",
+      "title": {
+        "en-US": "The Blue Cross"
+      }
+    },
+    {
+      "id": "ch02-the-secret-garden",
+      "title": {
+        "en-US": "The Secret Garden"
+      }
+    },
+    {
+      "id": "ch03-the-queer-feet",
+      "title": {
+        "en-US": "The Queer Feet"
+      }
+    },
+    {
+      "id": "ch04-the-flying-stars",
+      "title": {
+        "en-US": "The Flying Stars"
+      }
+    },
+    {
+      "id": "ch05-the-invisible-man",
+      "title": {
+        "en-US": "The Invisible Man"
+      }
+    },
+    {
+      "id": "ch06-the-honour-of-israel-gow",
+      "title": {
+        "en-US": "The Honour of Israel Gow"
+      }
+    },
+    {
+      "id": "ch07-the-wrong-shape",
+      "title": {
+        "en-US": "The Wrong Shape"
+      }
+    },
+    {
+      "id": "ch08-the-sins-of-prince-saradine",
+      "title": {
+        "en-US": "The Sins of Prince Saradine"
+      }
+    },
+    {
+      "id": "ch09-the-hammer-of-god",
+      "title": {
+        "en-US": "The Hammer of God"
+      }
+    },
+    {
+      "id": "ch10-the-eye-of-apollo",
+      "title": {
+        "en-US": "The Eye of Apollo"
+      }
+    },
+    {
+      "id": "ch11-the-sign-of-the-broken-sword",
+      "title": {
+        "en-US": "The Sign of the Broken Sword"
+      }
+    },
+    {
+      "id": "ch12-the-three-tools-of-death",
+      "title": {
+        "en-US": "The Three Tools of Death"
+      }
+    }
+  ]
+}
