@@ -1,0 +1,174 @@
+{
+  "id": "bonaventure-sermones-de-sanctis",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones de sanctis",
+    "en-US": "Sermons for the Feasts of the Saints",
+    "pt-BR": "Sermões sobre os santos"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Sermones de sanctis, de Andrea Apostolo usque ad Sanctos Angelos, ex codicibus editi. Textus ex editione Quaracchi (Opera omnia IX, 1901), ex scanno OCR, sine notis criticis.",
+    "en-US": "Bonaventure’s sermons for the feasts of the saints, from Saint Andrew to the Holy Angels, edited from the manuscripts. The Latin is the Quaracchi edition (Opera omnia IX, 1901) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Sermões sobre os santos."
+  },
+  "composed": "1250-1274",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/sermones-de-sanctis",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic09bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. IX (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1901), pp. 463-631.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type notes are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain. Sermon numbers within each feast follow the edition; where the OCR lost a sermon head the number is inferred.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1901 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "la": "De sancto Andrea Apostolo"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "la": "De sancto Nicolao"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "la": "De sancto Stephano martyre"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "la": "De sancto Ioanne Evangelista"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "la": "De sancta Agnete virgine et martyre"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "la": "De sancto Vincentio martyre"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "la": "De sancta Agatha virgine et martyre"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "la": "De sancto Mathia Apostolo"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "la": "De sancto Marco Evangelista"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "la": "De sanctis Philippo et Iacobo Apostolis"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "la": "De translatione sancti Francisci"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "la": "De sancto Antonio"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "la": "De nativitate sancti Ioannis Baptistae"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "la": "De sanctis Apostolis Petro et Paulo"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "la": "De sancta Maria Magdalena"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "la": "De sancto Dominico"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "la": "De sancto Laurentio martyre"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "la": "De sancto Bartholomaeo Apostolo"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "la": "De sancto patre nostro Francisco"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "la": "In festo omnium Sanctorum"
+      }
+    },
+    {
+      "id": "s21",
+      "title": {
+        "la": "In die animarum"
+      }
+    },
+    {
+      "id": "s22",
+      "title": {
+        "la": "De sanctis Angelis"
+      }
+    }
+  ]
+}
