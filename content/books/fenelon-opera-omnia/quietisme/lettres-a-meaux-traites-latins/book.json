@@ -1,0 +1,138 @@
+{
+  "id": "fenelon-quietisme-reponses-aux-traites-latins",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme VII : Réponses aux traités latins de Bossuet et propositions justifiées (1698)",
+    "en-US": "The Quietism Dispute VII: Replies to Bossuet’s Latin Treatises and the Propositions Justified (1698)",
+    "pt-BR": "Querela do quietismo VII: Respostas aos tratados latinos de Bossuet e proposições justificadas (1698)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Trois Lettres à l’évêque de Meaux en réponse à ses traités latins Mystici in tuto, Schola in tuto et Quaestiuncula (octobre-décembre 1698), et Les principales propositions du livre des Maximes justifiées par des expressions plus fortes des saints auteurs (décembre 1698).",
+    "en-US": "Three Letters to the Bishop of Meaux in reply to his Latin treatises Mystici in tuto, Schola in tuto and Quaestiuncula (October-December 1698), and The principal propositions of the book of the Maxims justified by stronger expressions of the holy authors (December 1698).",
+    "pt-BR": "Três Cartas ao bispo de Meaux em resposta a seus tratados latinos Mystici in tuto, Schola in tuto e Quaestiuncula (outubro a dezembro de 1698), e As principais proposições do livro das Máximas justificadas por expressões mais fortes dos santos autores (dezembro de 1698)."
+  },
+  "composed": "1698",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-a-meaux-traites-latins",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 189–308; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-reponse-mystici-in-tuto",
+      "title": {
+        "fr-FR": "Première lettre à M. de Meaux : sur l’oraison passive (réponse à Mystici in tuto)"
+      },
+      "children": [
+        {
+          "id": "01-reponse-mystici-in-tuto-01",
+          "title": {
+            "fr-FR": "Première lettre à M. de Meaux : sur l’oraison passive (réponse à Mystici in tuto), partie 1"
+          }
+        },
+        {
+          "id": "01-reponse-mystici-in-tuto-02",
+          "title": {
+            "fr-FR": "Première lettre à M. de Meaux : sur l’oraison passive (réponse à Mystici in tuto), partie 2"
+          }
+        },
+        {
+          "id": "01-reponse-mystici-in-tuto-03",
+          "title": {
+            "fr-FR": "Première lettre à M. de Meaux : sur l’oraison passive (réponse à Mystici in tuto), partie 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-reponse-schola-in-tuto",
+      "title": {
+        "fr-FR": "Deuxième lettre à M. de Meaux : sur la charité (réponse à Schola in tuto)"
+      },
+      "children": [
+        {
+          "id": "02-reponse-schola-in-tuto-01",
+          "title": {
+            "fr-FR": "Deuxième lettre à M. de Meaux : sur la charité (réponse à Schola in tuto), partie 1"
+          }
+        },
+        {
+          "id": "02-reponse-schola-in-tuto-02",
+          "title": {
+            "fr-FR": "Deuxième lettre à M. de Meaux : sur la charité (réponse à Schola in tuto), partie 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-reponse-quaestiuncula",
+      "title": {
+        "fr-FR": "Troisième lettre à M. de Meaux : réponse à l’écrit intitulé Quaestiuncula"
+      }
+    },
+    {
+      "id": "04-propositions-justifiees",
+      "title": {
+        "fr-FR": "Les principales propositions du livre des Maximes des saints, justifiées par des expressions plus fortes des saints auteurs"
+      },
+      "children": [
+        {
+          "id": "04-propositions-justifiees-01",
+          "title": {
+            "fr-FR": "Les principales propositions du livre des Maximes des saints, justifiées par des expressions plus fortes des saints auteurs, partie 1"
+          }
+        },
+        {
+          "id": "04-propositions-justifiees-02",
+          "title": {
+            "fr-FR": "Les principales propositions du livre des Maximes des saints, justifiées par des expressions plus fortes des saints auteurs, partie 2"
+          }
+        },
+        {
+          "id": "04-propositions-justifiees-03",
+          "title": {
+            "fr-FR": "Les principales propositions du livre des Maximes des saints, justifiées par des expressions plus fortes des saints auteurs, partie 3"
+          }
+        },
+        {
+          "id": "04-propositions-justifiees-04",
+          "title": {
+            "fr-FR": "Les principales propositions du livre des Maximes des saints, justifiées par des expressions plus fortes des saints auteurs, partie 4"
+          }
+        },
+        {
+          "id": "04-propositions-justifiees-05",
+          "title": {
+            "fr-FR": "Les principales propositions du livre des Maximes des saints, justifiées par des expressions plus fortes des saints auteurs, partie 5"
+          }
+        },
+        {
+          "id": "04-propositions-justifiees-06",
+          "title": {
+            "fr-FR": "Les principales propositions du livre des Maximes des saints, justifiées par des expressions plus fortes des saints auteurs, partie 6"
+          }
+        }
+      ]
+    }
+  ]
+}
