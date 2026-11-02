@@ -1,0 +1,426 @@
+{
+  "id": "granada-compendio-de-doctrina-cristiana",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Compendio de doctrina cristiana (versión castellana)",
+    "en-US": "Compendium of Christian Doctrine (Spanish version)",
+    "pt-BR": "Compêndio de doutrina cristã (versão castelhana)"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Compendio de doctrina cristiana que Fray Luis de Granada escribió en portugués (Lisboa 1559), en la versión castellana del P. Justo Cuervo (1906): la fe, los mandamientos, la oración y los sacramentos en tres partes y los sermones. El original portugués no se ha hallado en texto.",
+    "en-US": "The Compendium of Christian Doctrine that Fray Luis de Granada wrote in Portuguese (Lisbon 1559), in the Spanish version of Fr. Justo Cuervo (1906): faith, commandments, prayer and the sacraments in three parts with the sermons. The Portuguese original has not been found as text.",
+    "pt-BR": "O Compêndio de doutrina cristã que Frei Luís de Granada escreveu em português (Lisboa 1559), na versão castelhana do P. Justo Cuervo (1906): a fé, os mandamentos, a oração e os sacramentos em três partes e os sermões. O original português não foi encontrado em texto."
+  },
+  "composed": "1559",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/compendio-de-doctrina-cristiana",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue13luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 13 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Translation made by Cuervo from the Portuguese original.",
+      "description": "Cuervo's Spanish translation of the Portuguese Compendio de doutrina christãa; tables and notes are not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lector",
+      "title": {
+        "es-ES": "Al cristiano lector"
+      }
+    },
+    {
+      "id": "p1",
+      "title": {
+        "es-ES": "Primera parte"
+      },
+      "children": [
+        {
+          "id": "p1-c1",
+          "title": {
+            "es-ES": "Capítulo 1. De la necesidad que hay de saber la doctrina cristiana, y de la manera de enseñarla"
+          }
+        },
+        {
+          "id": "p1-c2",
+          "title": {
+            "es-ES": "Capítulo 2. De las partes principales de la doctrina cristiana, y de la manera en que se ha de enseñar"
+          }
+        },
+        {
+          "id": "p1-c3",
+          "title": {
+            "es-ES": "Capítulo 3. De la primera parte de la doctrina cristiana, que es el Símbolo ó conocimiento de Dios i donde también se declara qué cosa sea creer en Dios"
+          }
+        },
+        {
+          "id": "p1-c4",
+          "title": {
+            "es-ES": "Capítulo 4. Del primer artículo de Nuestra Fe"
+          }
+        },
+        {
+          "id": "p1-c5",
+          "title": {
+            "es-ES": "Capítulo 5. Del segundo artículo de la Fe y del misterio de la trinidad"
+          }
+        },
+        {
+          "id": "p1-c6",
+          "title": {
+            "es-ES": "Capítulo 6. Del ttrcer articulo de la Fe y de la consideración y uso del"
+          }
+        },
+        {
+          "id": "p1-c7",
+          "title": {
+            "es-ES": "Capítulo 7. Del cuarto artículo de la Fe y de sus consideraciones"
+          }
+        },
+        {
+          "id": "p1-c8",
+          "title": {
+            "es-ES": "Capítulo 8. Del quinto artículo de la Fe y de la plática del"
+          }
+        },
+        {
+          "id": "p1-c9",
+          "title": {
+            "es-ES": "Capítulo 9. Del sexto artículo de la Fe"
+          }
+        },
+        {
+          "id": "p1-c10",
+          "title": {
+            "es-ES": "Capítulo 10. Del séptimo artículo de la Fe y del uso y consideración del"
+          }
+        },
+        {
+          "id": "p1-c11",
+          "title": {
+            "es-ES": "Capítulo 11. Del octavo articulo de la Fe y de la consideración del"
+          }
+        },
+        {
+          "id": "p1-c12",
+          "title": {
+            "es-ES": "Capítulo 12. Del nono artículo de la Fe y del uso y consideración del"
+          }
+        },
+        {
+          "id": "p1-c13",
+          "title": {
+            "es-ES": "Capítulo 13. Del décimo artículo de la Fe"
+          }
+        },
+        {
+          "id": "p1-c14",
+          "title": {
+            "es-ES": "Capítulo 14. Del undécimo artículo de la Fe"
+          }
+        },
+        {
+          "id": "p1-c15",
+          "title": {
+            "es-ES": "Capítulo 15. Del último artículo de la Fe"
+          }
+        },
+        {
+          "id": "p1-c16",
+          "title": {
+            "es-ES": "Capítulo 16. De la segunda parte deste artículo, que es de la pena de los malos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": {
+        "es-ES": "Segunda parte"
+      },
+      "children": [
+        {
+          "id": "p2-c1",
+          "title": {
+            "es-ES": "Capítulo 1. En que se declara cuánto nos importa la guarda de los mandamientos de Dios, con otras cosas á este propósito"
+          }
+        },
+        {
+          "id": "p2-c2",
+          "title": {
+            "es-ES": "Capítulo 2. Del primer mandamiento"
+          }
+        },
+        {
+          "id": "p2-c3",
+          "title": {
+            "es-ES": "Capítulo 3. Del segundo mandamiento de la ley"
+          }
+        },
+        {
+          "id": "p2-c4",
+          "title": {
+            "es-ES": "Capítulo 4. Del tercer mandamiento de la ley y último de la primera tabla"
+          }
+        },
+        {
+          "id": "p2-c5",
+          "title": {
+            "es-ES": "Capítulo 5. Del cuarto mandamiento de la ley, y primero de la segunda tabla"
+          }
+        },
+        {
+          "id": "p2-c6",
+          "title": {
+            "es-ES": "Capítulo 6. Del quinto mandamiento"
+          }
+        },
+        {
+          "id": "p2-c7",
+          "title": {
+            "es-ES": "Capítulo 7. Del sexto mandamiento"
+          }
+        },
+        {
+          "id": "p2-c8",
+          "title": {
+            "es-ES": "Capítulo 8. Del séptimo mandamiento"
+          }
+        },
+        {
+          "id": "p2-c9",
+          "title": {
+            "es-ES": "Capítulo 9. Del octavo mandamiento"
+          }
+        },
+        {
+          "id": "p2-c10",
+          "title": {
+            "es-ES": "Capítulo 10. Del nono y décimo mandamiento"
+          }
+        },
+        {
+          "id": "p2-c11",
+          "title": {
+            "es-ES": "Capítulo 11. De los mandamientos de la Iglesia"
+          }
+        },
+        {
+          "id": "p2-c12",
+          "title": {
+            "es-ES": "Capítulo 12. De los pecados en común, así mortales como veniales"
+          }
+        },
+        {
+          "id": "p2-c13",
+          "title": {
+            "es-ES": "Capítulo 13. De los remedios generales que tenemos contra todos los pecados así mortales como veniales"
+          }
+        },
+        {
+          "id": "p2-c14",
+          "title": {
+            "es-ES": "Capítulo 14. De los siete pecados que se llaman capitales y primero de la soberbia y de sus remedios"
+          }
+        },
+        {
+          "id": "p2-c15",
+          "title": {
+            "es-ES": "Capítulo 15. Del segundo pecado capital, que es avaricia, y de sus remedios"
+          }
+        },
+        {
+          "id": "p2-c16",
+          "title": {
+            "es-ES": "Capítulo 16. Del tercero pecado mortal, que es la lujuria, y de sus remedios"
+          }
+        },
+        {
+          "id": "p2-c17",
+          "title": {
+            "es-ES": "Capítulo 17. Del cuarto pecado capital , que es la envidia , y de sus remedios"
+          }
+        },
+        {
+          "id": "p2-c18",
+          "title": {
+            "es-ES": "Capítulo 18. Del quinto pecado capital, que es la gula, y de sus remedios"
+          }
+        },
+        {
+          "id": "p2-c19",
+          "title": {
+            "es-ES": "Capítulo 19. Del sexto pecado capital, que es ira, y de sus remedios"
+          }
+        },
+        {
+          "id": "p2-c20",
+          "title": {
+            "es-ES": "Capítulo 20. Del séptimo pecado capital^ que es accidia ó pereza, y de sus remedios"
+          }
+        },
+        {
+          "id": "p2-c21",
+          "title": {
+            "es-ES": "Capítulo 21. De los pecados contra el Espíritu sancto"
+          }
+        },
+        {
+          "id": "p2-c22",
+          "title": {
+            "es-ES": "Capítulo 22. De los pecados que claman al cielo"
+          }
+        },
+        {
+          "id": "p2-c23",
+          "title": {
+            "es-ES": "Capítulo 23. De los pecados ajenos y participados"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": {
+        "es-ES": "Tercera parte"
+      },
+      "children": [
+        {
+          "id": "p3-c1",
+          "title": {
+            "es-ES": "Capítulo 1. De la necesidad que tenemos de buscar la divina gracia para guardar los mandamientos de Dios y huir de los pecados"
+          }
+        },
+        {
+          "id": "p3-c2",
+          "title": {
+            "es-ES": "Capítulo 2. De la necesidad de la oración y de la manera de orar"
+          }
+        },
+        {
+          "id": "p3-c3",
+          "title": {
+            "es-ES": "Capítulo 3. De las condiciones que ha de tener la oración"
+          }
+        },
+        {
+          "id": "p3-c4",
+          "title": {
+            "es-ES": "Capítulo 4. El cual se declara la oración del pater noster"
+          }
+        },
+        {
+          "id": "p3-c5",
+          "title": {
+            "es-ES": "Capítulo 5. De dos principales obras que deben acompañar á la oración, que son, el ayuno y la limosna y obras de misericordia"
+          }
+        },
+        {
+          "id": "p3-c6",
+          "title": {
+            "es-ES": "Capítulo 6. De los siete sacramentos, y primero del baptismo"
+          }
+        },
+        {
+          "id": "p3-c7",
+          "title": {
+            "es-ES": "Capítulo 7. Del Sacramento de la confirmación"
+          }
+        },
+        {
+          "id": "p3-c8",
+          "title": {
+            "es-ES": "Capítulo 8. Del Sacramento de la penltex\\cla y de sus partes"
+          }
+        },
+        {
+          "id": "p3-c9",
+          "title": {
+            "es-ES": "Capítulo 9. De la primera parte de la penitencia, que es la contrición"
+          }
+        },
+        {
+          "id": "p3-c10",
+          "title": {
+            "es-ES": "Capítulo 10. De siete cosas que se deben guardar en la segunda parte de la penitencia, que es la confesión"
+          }
+        },
+        {
+          "id": "p3-c11",
+          "title": {
+            "es-ES": "Capítulo 11. De los casos en que la confesión es nula"
+          }
+        },
+        {
+          "id": "p3-c12",
+          "title": {
+            "es-ES": "Capítulo 12. Del Sacramento de la Eucaristía, que es de la sagrada comunión"
+          }
+        },
+        {
+          "id": "p3-c13",
+          "title": {
+            "es-ES": "Capítulo 13. De tres cosas que se requieren para dignamente comulgar"
+          }
+        },
+        {
+          "id": "p3-c14",
+          "title": {
+            "es-ES": "Capítulo 14. Del Sacramento de las ordenes"
+          }
+        },
+        {
+          "id": "p3-c15",
+          "title": {
+            "es-ES": "Capítulo 15. Del Sacramento del matrimonio"
+          }
+        },
+        {
+          "id": "p3-c16",
+          "title": {
+            "es-ES": "Capítulo 16. Del Sacramento de la extrema-unción"
+          }
+        },
+        {
+          "id": "p3-c17",
+          "title": {
+            "es-ES": "Capítulo 17. En el cual se declara qué cosa sea misa"
+          }
+        },
+        {
+          "id": "p3-c18",
+          "title": {
+            "es-ES": "Capítulo 18. De la manera de oír y celebrar la misa, y de los aparejos que para esto se requieren"
+          }
+        },
+        {
+          "id": "p3-c19",
+          "title": {
+            "es-ES": "Capítulo 19. De la manera de oír el sermón"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sermones",
+      "title": {
+        "es-ES": "Trece sermones de las tres Pascuas y de las fiestas de Cristo y de Nuestra Señora"
+      }
+    }
+  ]
+}
