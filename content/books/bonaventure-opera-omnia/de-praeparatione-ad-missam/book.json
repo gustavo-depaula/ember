@@ -1,0 +1,60 @@
+{
+  "id": "bonaventure-de-praeparatione-ad-missam",
+  "cover": "classic",
+  "name": {
+    "la": "Tractatus de praeparatione ad Missam",
+    "en-US": "On the Preparation for Mass",
+    "pt-BR": "Tratado sobre a preparação para a Missa"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Tractatus de praeparatione ad Missam, in duobus capitibus: de probatione sui ipsius et de contritione, confessione et praeparatione immediata. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "A short guide to preparing for Mass in two chapters: the examination of oneself, then contrition, confession and the immediate preparation. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Breve guia de preparação para a Missa em dois capítulos: o exame de si mesmo e depois a contrição, a confissão e a preparação imediata."
+  },
+  "composed": "c. 1260",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/de-praeparatione-ad-missam",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. De pyaemittenda quadruplici sui ipsius prohatione"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De contritione et confessione , de praepaiatione immediata et de ipsa celebratione"
+      }
+    }
+  ]
+}
