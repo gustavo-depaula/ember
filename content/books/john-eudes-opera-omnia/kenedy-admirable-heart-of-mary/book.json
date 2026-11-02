@@ -1,0 +1,574 @@
+{
+  "id": "eudes-kenedy-admirable-heart",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Admirable Heart of Mary",
+    "pt-BR": "O Coração admirável de Maria"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "en-US": "The 1948 abridged English translation of The Admirable Heart of Mary by Charles di Targiani and Ruth Hauser, in ten parts.",
+    "pt-BR": "A tradução inglesa resumida de 1948 de O Coração admirável de Maria, em dez partes."
+  },
+  "composed": 1948,
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-eudes/coeur-admirable",
+  "editions": {
+    "en-US": {
+      "translator": "Charles di Targiani and Ruth Hauser",
+      "year": 1948
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.liberius.net/livres/The_admirable_Heart_of_Mary_000000374.pdf",
+      "edition": "The Admirable Heart of Mary, translated by Charles di Targiani and Ruth Hauser, New York, P. J. Kenedy & Sons, 1948. Text layer of the Bibliothèque Saint Libère PDF (liberius.net), from the Eudist Fathers series, 1946–48.",
+      "description": "Converted by script: running heads and page numbers removed, paragraphs rejoined, hyphenation repaired. The OCR of the PDF text layer leaves some residual errors (for example 0 for O, rn for m); the translator’s introduction and notes are kept. The translation is not aligned chapter by chapter to the French edition, so it is a separate book.",
+      "tier": "B",
+      "tierEvidence": "Copyright 1946–48 P. J. Kenedy & Sons; no renewal in the Copyright Office records 1950–2001."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ah-01",
+      "title": {
+        "en-US": "Part one"
+      }
+    },
+    {
+      "id": "ah-02",
+      "title": {
+        "en-US": "Part one: Object of the Devotion"
+      }
+    },
+    {
+      "id": "ah-03",
+      "title": {
+        "en-US": "Part one, Chapter I: Reasons for the Name \"admirable\""
+      }
+    },
+    {
+      "id": "ah-04",
+      "title": {
+        "en-US": "Part one, Chapter 11: The Heart of Mary in General"
+      }
+    },
+    {
+      "id": "ah-05",
+      "title": {
+        "en-US": "Part one, Chapter III: The Corporeal Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-06",
+      "title": {
+        "en-US": "Part one, Chapter 1V: The Spiritual Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-07",
+      "title": {
+        "en-US": "Part one, Chapter V: The Divine Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-08",
+      "title": {
+        "en-US": "Part two: First Foundation of the Devotion: The: Heart of God the Father"
+      }
+    },
+    {
+      "id": "ah-09",
+      "title": {
+        "en-US": "Part two: First Foundation of the Devotion: Six Symbolic Pictures"
+      }
+    },
+    {
+      "id": "ah-10",
+      "title": {
+        "en-US": "Part two, Chapter I: God the Father, Delineator"
+      }
+    },
+    {
+      "id": "ah-11",
+      "title": {
+        "en-US": "Part two, Chapter 11: Mary's Heart, the Heavens"
+      }
+    },
+    {
+      "id": "ah-12",
+      "title": {
+        "en-US": "Part two, Chapter III: Mary's Heart, the Sun"
+      }
+    },
+    {
+      "id": "ah-13",
+      "title": {
+        "en-US": "Part two, Chapter IV: Mary's Heart, the Center of the Earth"
+      }
+    },
+    {
+      "id": "ah-14",
+      "title": {
+        "en-US": "Part two, Chapter V: Mary's Heart, the Inexhaustible Fountain"
+      }
+    },
+    {
+      "id": "ah-15",
+      "title": {
+        "en-US": "Part two, Chapter V1: Mary's Heart, the Sea"
+      }
+    },
+    {
+      "id": "ah-16",
+      "title": {
+        "en-US": "Part two, Chapter V11: Mary's Heart, the Garden of Eden"
+      }
+    },
+    {
+      "id": "ah-17",
+      "title": {
+        "en-US": "Part three: Six Additional Symbolic Pictures"
+      }
+    },
+    {
+      "id": "ah-18",
+      "title": {
+        "en-US": "Part three, Chapter I: Mary's Heart, the Burning Bush of Moses"
+      }
+    },
+    {
+      "id": "ah-19",
+      "title": {
+        "en-US": "Part three, Chapter 11: Mary's Heart, the Harp of King David"
+      }
+    },
+    {
+      "id": "ah-20",
+      "title": {
+        "en-US": "Part three, Chapter III: Mary's Heart, the Throne of King Solomon"
+      }
+    },
+    {
+      "id": "ah-21",
+      "title": {
+        "en-US": "Part three, Chapter IV: Mary's Heart, the Temple of Jerusalem"
+      }
+    },
+    {
+      "id": "ah-22",
+      "title": {
+        "en-US": "Part three, Chapter V: Mary's Heart, the Fiery Furnace of Babylon"
+      }
+    },
+    {
+      "id": "ah-23",
+      "title": {
+        "en-US": "Part three, Chapter V1: Mary's Heart, the Hill of Calvary"
+      }
+    },
+    {
+      "id": "ah-24",
+      "title": {
+        "en-US": "Part four: Second Foundation of the Devotion: The: Heart of God the Son"
+      }
+    },
+    {
+      "id": "ah-25",
+      "title": {
+        "en-US": "Part four: Second Foundation of the Devotion: Divine Perfections Mirrored"
+      }
+    },
+    {
+      "id": "ah-26",
+      "title": {
+        "en-US": "Part four, Chapter I*: Our Lord Jesus Christ, Teacher of the Devo"
+      }
+    },
+    {
+      "id": "ah-27",
+      "title": {
+        "en-US": "Part four, Chapter 11: Some Essential Divine Perfections(1) Mirrored"
+      }
+    },
+    {
+      "id": "ah-28",
+      "title": {
+        "en-US": "Part four, Chapter III: Purity and Sanctity of God Mirrored"
+      }
+    },
+    {
+      "id": "ah-29",
+      "title": {
+        "en-US": "Part four, Chapter 1V: Strength and Power of God Mirrored"
+      }
+    },
+    {
+      "id": "ah-30",
+      "title": {
+        "en-US": "Part four, Chapter V: Wisdom and Truth of God Mirrored"
+      }
+    },
+    {
+      "id": "ah-31",
+      "title": {
+        "en-US": "Part four, Chapter VI: Goodness and Providence of God Mirrored: In the Admirable Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-32",
+      "title": {
+        "en-US": "Part five: Further Divine Perfections Mirrored: in the Admirable Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-33",
+      "title": {
+        "en-US": "Part five, Chapter 1: Mercy of God Mirrored in the Admirable: Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-34",
+      "title": {
+        "en-US": "Part five, Chapter 11: Meekness, Patience and Clemency of God"
+      }
+    },
+    {
+      "id": "ah-35",
+      "title": {
+        "en-US": "Part five, Chapter III: Justice of God Mirrored in the Admirable: Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-36",
+      "title": {
+        "en-US": "Part five, Chapter IV: Zeal of God Mirrored in the Admirable: Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-37",
+      "title": {
+        "en-US": "Part five, Chapter V: Divine Sovereignty Mirrored"
+      }
+    },
+    {
+      "id": "ah-38",
+      "title": {
+        "en-US": "Part five, Chapter V1: Peace of God Mirrored"
+      }
+    },
+    {
+      "id": "ah-39",
+      "title": {
+        "en-US": "Part five, Chapter V11: Glory and Felicity of God Mirrored: In the Admirable Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-40",
+      "title": {
+        "en-US": "Part five, Chapter V111: The Admirable Heart of Mary: Compendium: Of the Life of God"
+      }
+    },
+    {
+      "id": "ah-41",
+      "title": {
+        "en-US": "Part six: Third Foundation of the Devotion: The: Heart of God the Holy Ghost"
+      }
+    },
+    {
+      "id": "ah-42",
+      "title": {
+        "en-US": "Part six: Third Foundation of the Devotion: The Heart of God the Holy Ghost(*)"
+      }
+    },
+    {
+      "id": "ah-43",
+      "title": {
+        "en-US": "Part six, Chapter I: \"all the Glory of the King's Daughter: Is Within\""
+      }
+    },
+    {
+      "id": "ah-44",
+      "title": {
+        "en-US": "Part six, Chapter 11: \"a Bundle of Myrrh is My Beloved to Me\""
+      }
+    },
+    {
+      "id": "ah-45",
+      "title": {
+        "en-US": "Part six, Chapter III: \"i Sleep, and My Heart Watcheth\""
+      }
+    },
+    {
+      "id": "ah-46",
+      "title": {
+        "en-US": "Part six, Chapter IV: \"my Beloved to Me, and I to Him\""
+      }
+    },
+    {
+      "id": "ah-47",
+      "title": {
+        "en-US": "Part six, Chapter V: \"put Me as a Seal Upon Thy Heart\""
+      }
+    },
+    {
+      "id": "ah-48",
+      "title": {
+        "en-US": "Part six, Chapter VI: «mary Kept All These Words, Pondering Them: In her Heart»"
+      }
+    },
+    {
+      "id": "ah-49",
+      "title": {
+        "en-US": "Part seven (1): Inspired Catholic Tradition Concerning"
+      }
+    },
+    {
+      "id": "ah-50",
+      "title": {
+        "en-US": "Part seven': Inspired Catholic Tradition Concerning"
+      }
+    },
+    {
+      "id": "ah-51",
+      "title": {
+        "en-US": "Part seven', Chapter I: Testimony of the Fathers and: Ascetical Writers"
+      }
+    },
+    {
+      "id": "ah-52",
+      "title": {
+        "en-US": "Part seven', Chapter 1I: Ecclesiastical Approbations"
+      }
+    },
+    {
+      "id": "ah-53",
+      "title": {
+        "en-US": "Part seven', Chapter III: Example of Saints and Religious Orders"
+      }
+    },
+    {
+      "id": "ah-54",
+      "title": {
+        "en-US": "Part eight: Fourth Foundation of the Devotion: Sanctity of the Admirable Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-55",
+      "title": {
+        "en-US": "Part eight (*): Fourth Foundation of the Devotion: Sanctity of the Admirable"
+      }
+    },
+    {
+      "id": "ah-56",
+      "title": {
+        "en-US": "Part eight (*), Chapter I: Heart of Mary, Immaculate and Sinless"
+      }
+    },
+    {
+      "id": "ah-57",
+      "title": {
+        "en-US": "Part eight (*), Chapter 11: Heart of Mary, Ocean of Grace"
+      }
+    },
+    {
+      "id": "ah-58",
+      "title": {
+        "en-US": "Part eight (*), Chapter III: Heart of Mary, Miracle of Love"
+      }
+    },
+    {
+      "id": "ah-59",
+      "title": {
+        "en-US": "Part eight (*), Chapter IV: Heart of Mary, Mirror of Charity"
+      }
+    },
+    {
+      "id": "ah-60",
+      "title": {
+        "en-US": "Part eight (*), Chapter V: Heart of Mary, Abyss of Humility"
+      }
+    },
+    {
+      "id": "ah-61",
+      "title": {
+        "en-US": "Part eight (*), Chapter V1: Heart of Mary, Empire of the Divine Will"
+      }
+    },
+    {
+      "id": "ah-62",
+      "title": {
+        "en-US": "Part eight (*), Chapter V11: Heart of Mary, Treasure-house of: Gratuitous Graces"
+      }
+    },
+    {
+      "id": "ah-63",
+      "title": {
+        "en-US": "Part eight (*), Chapter VIII: Heart of Mary, Inestimable Treasury"
+      }
+    },
+    {
+      "id": "ah-64",
+      "title": {
+        "en-US": "Part eight (*), Chapter IX: Heart of Mary, Sanctuary, Censer and Altar: Of Divine Love"
+      }
+    },
+    {
+      "id": "ah-65",
+      "title": {
+        "en-US": "Part eight (*), Chapter X: Heart of Mary, Center of the Cross"
+      }
+    },
+    {
+      "id": "ah-66",
+      "title": {
+        "en-US": "Part eight (*), Chapter XI (i): Heart of Mary, World of Wonders"
+      }
+    },
+    {
+      "id": "ah-67",
+      "title": {
+        "en-US": "Part nine: Practice of the Devotion to the Admirable: Heart of Mary"
+      }
+    },
+    {
+      "id": "ah-68",
+      "title": {
+        "en-US": "Part nine: Practice of the Devotion"
+      }
+    },
+    {
+      "id": "ah-69",
+      "title": {
+        "en-US": "Part nine, Chapter I: Twelve Reasons for Honoring the Heart"
+      }
+    },
+    {
+      "id": "ah-70",
+      "title": {
+        "en-US": "Part nine, Chapter 11: Twelve Methods of Practising This Devotion"
+      }
+    },
+    {
+      "id": "ah-71",
+      "title": {
+        "en-US": "Part ten: The Canticle of the Admirable Heart"
+      }
+    },
+    {
+      "id": "ah-72",
+      "title": {
+        "en-US": "Part ten"
+      }
+    },
+    {
+      "id": "ah-73",
+      "title": {
+        "en-US": "Part ten, Chapter I: Excellence of This Sublime Canticle"
+      }
+    },
+    {
+      "id": "ah-74",
+      "title": {
+        "en-US": "Part ten, Chapter 11: The True Canticle of Mary's Heart"
+      }
+    },
+    {
+      "id": "ah-75",
+      "title": {
+        "en-US": "Part ten, Chapter III: \"my Soul Doth Magnify the Lord\""
+      }
+    },
+    {
+      "id": "ah-76",
+      "title": {
+        "en-US": "Part ten, Chapter IV My Spirit Hath Rejoiced in God My Saviour\""
+      }
+    },
+    {
+      "id": "ah-77",
+      "title": {
+        "en-US": "Part ten, Chapter V: \"he Hath Regarded the Humility: Of his Handmaid\""
+      }
+    },
+    {
+      "id": "ah-78",
+      "title": {
+        "en-US": "Part ten, Chapter VI: \"henceforth All Generations: Shall Call Me Blessed\""
+      }
+    },
+    {
+      "id": "ah-79",
+      "title": {
+        "en-US": "Part ten, Chapter V11: \"he That is Mighty Hath Done Great Things: Unto Me: and Holy is his Name\""
+      }
+    },
+    {
+      "id": "ah-80",
+      "title": {
+        "en-US": "Part ten, Chapter VIII: \"his Mercy is from Generation Unto Genera: Tion, to Them That Fear Him\""
+      }
+    },
+    {
+      "id": "ah-81",
+      "title": {
+        "en-US": "Part ten, Chapter IX: \"he Hath Showed Might in his Arm\""
+      }
+    },
+    {
+      "id": "ah-82",
+      "title": {
+        "en-US": "Part ten, Chapter X: \"he Hath Scattered the Proud in the Conceit: Of Their Heart\""
+      }
+    },
+    {
+      "id": "ah-83",
+      "title": {
+        "en-US": "Part ten, Chapter X1: \"he Hath Put Down the Mighty from Their"
+      }
+    },
+    {
+      "id": "ah-84",
+      "title": {
+        "en-US": "Part ten, Chapter XII: \"he Hath Filled the Hungry with Good: Things: and the Rich He Hath Sent"
+      }
+    },
+    {
+      "id": "ah-85",
+      "title": {
+        "en-US": "Part ten, Chapter XIII: \"he Hath Received Israel his Servant\""
+      }
+    },
+    {
+      "id": "ah-86",
+      "title": {
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (1)"
+      }
+    },
+    {
+      "id": "ah-87",
+      "title": {
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (2)"
+      }
+    },
+    {
+      "id": "ah-88",
+      "title": {
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (3)"
+      }
+    },
+    {
+      "id": "ah-89",
+      "title": {
+        "en-US": "Part ten, Chapter XIV: \"as He Spoke to Our Fathers, to Abraham and: His Seed Forever\" (4)"
+      }
+    }
+  ]
+}
