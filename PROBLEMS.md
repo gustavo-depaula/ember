@@ -57,6 +57,7 @@ These books were imported from scans and corrected by script, not proofread. Pro
 - `teresa-opera-omnia/conceptos`: `es-ES/` is two Silverio scans merged by script, not proofread (about 0.5% of words wrong); notes whose page had no readable markers sit at the end of the nearest paragraph. `en-US/` (Stanbrook 1913, rough OCR): about two dozen of Zimmerman's footnotes in chapters 2, 4, 5, 6 and 7 are run into the text as paragraphs starting with `^`, and a few footnote markers were placed at a paragraph end because the OCR lost them.
 - `teresa-opera-omnia/exclamaciones`, `es-ES/` only: two Silverio scans merged by script, not proofread. The heading of Exclamation X was lost in both scans, so that exclamation starts at its first paragraph by hand. `exclamaciones-stanbrook` (Stanbrook 1913, its own book because it has 16 exclamations where Silverio has 17): rough OCR, a few footnotes run into paragraphs and seven placed at a paragraph end because the OCR lost their markers.
 - `teresa-opera-omnia/opusculos`, `es-ES/`: two Silverio scans merged by script, not proofread (about 0.4% of words wrong in the Constituciones and the Visita). The Vejamen has lost its sub-headings "Del P. Julián de Ávila" and "Del P. Juan de la Cruz", and notes whose page had no readable markers sit at the end of the nearest paragraph.
+- `teresa-opera-omnia/poesias`, `es-ES/`: one Silverio scan (Princeton) cleaned by script, not proofread (about 1% of words wrong, mostly in the footnotes). Some notes on the poems' titles and a few stanza-end notes were lost (the page's markers and notes did not pair up), and a stanza that crosses a page may be split or joined wrongly.
 
 ### English left out
 
@@ -68,6 +69,7 @@ These books have no English because the only public-domain translations are badl
 - `anselm-opera-omnia/{de-veritate,de-libertate-arbitrii,de-casu-diaboli}`: McKeon (1929) doesn't follow Migne's chapters.
 - `ignatius-opera-omnia/ejercicios`: the English has no [1]–[370] section numbers, because Mullan's paragraphs don't match the Spanish units.
 - `teresa-opera-omnia/opusculos`: no English. Stanbrook's Maxims (1913) and Lewis/Zimmerman's Constitutions and Visitation (1913) exist, but their OCR runs the footnotes into the text and the Maxims lose three numbers; no public-domain English is known for the Desafío, the Vejamen or the Pensamientos.
+- `teresa-opera-omnia/poesias`: no English. Stanbrook's 36 poems (Minor Works, 1913) are numbered and grouped differently from Silverio's 31, so they would be their own book.
 
 ### Partial texts
 

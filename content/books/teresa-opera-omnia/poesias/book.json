@@ -1,0 +1,235 @@
+{
+  "id": "teresa-poesias",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Poesías",
+    "en-US": "Poems",
+    "pt-BR": "Poesias"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "es-ES": "Las poesías de Santa Teresa de Jesús: «Vivo sin vivir en mí», «Nada te turbe» y las demás coplas de oración, de Navidad, de la Cruz y de profesiones de sus monjas. Treinta y una piezas; texto del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "The poems of St. Teresa of Jesus: \"I live without living in myself\" and her other verses on prayer, Christmas, the Cross and the professions of her nuns. Thirty-one pieces in P. Silverio de Santa Teresa's text with his notes (Spanish only).",
+    "pt-BR": "As poesias de Santa Teresa de Jesus: «Vivo sem viver em mim» e as demais coplas de oração, de Natal, da Cruz e de profissões de suas monjas."
+  },
+  "composed": "c. 1560–1582",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "teresa-of-avila/poesias",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesantatere06tere",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. VI: Opúsculos (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1919, Poesías, pp. 77–125. Princeton Theological Seminary scan, primary OCR.",
+      "description": "Spanish critical text with Silverio's notes kept as footnotes; his introduction and appendices are not included. OCR of two independent scans merged word by word.",
+      "tier": "A",
+      "tierEvidence": "Teresa died in 1582; the volume was published in 1919 (public domain in the US) and P. Silverio died in 1954, so his notes are public domain under life+70 since 1 January 2025."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdestateresa06tere",
+      "edition": "The same volume, Wellesley College scan, used as the second witness.",
+      "tier": "A",
+      "tierEvidence": "Same edition as above."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "es-ES": "Aspiraciones de vida eterna"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "es-ES": "En las manos de Dios"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "es-ES": "Sobre aquellas palabras «Dilectus meus mihi»"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "es-ES": "Coloquio amoroso"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "es-ES": "Feliz el que ama a Dios"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "es-ES": "Ante la hermosura de Dios"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "es-ES": "Ayes del destierro"
+      }
+    },
+    {
+      "id": "p08",
+      "title": {
+        "es-ES": "Buscando a Dios"
+      }
+    },
+    {
+      "id": "p09",
+      "title": {
+        "es-ES": "Eficacia de la paciencia"
+      }
+    },
+    {
+      "id": "p10",
+      "title": {
+        "es-ES": "Hacia la patria"
+      }
+    },
+    {
+      "id": "p11",
+      "title": {
+        "es-ES": "Al nacimiento de Jesús"
+      }
+    },
+    {
+      "id": "p12",
+      "title": {
+        "es-ES": "Otra al nacimiento de Jesús"
+      }
+    },
+    {
+      "id": "p13",
+      "title": {
+        "es-ES": "Para Navidad"
+      }
+    },
+    {
+      "id": "p14",
+      "title": {
+        "es-ES": "Al nacimiento del Niño Dios"
+      }
+    },
+    {
+      "id": "p15",
+      "title": {
+        "es-ES": "A la circuncisión"
+      }
+    },
+    {
+      "id": "p16",
+      "title": {
+        "es-ES": "Otra a la circuncisión"
+      }
+    },
+    {
+      "id": "p17",
+      "title": {
+        "es-ES": "En la festividad de los Santos Reyes"
+      }
+    },
+    {
+      "id": "p18",
+      "title": {
+        "es-ES": "A la cruz"
+      }
+    },
+    {
+      "id": "p19",
+      "title": {
+        "es-ES": "El camino de la cruz"
+      }
+    },
+    {
+      "id": "p20",
+      "title": {
+        "es-ES": "Abrazadas a la cruz"
+      }
+    },
+    {
+      "id": "p21",
+      "title": {
+        "es-ES": "A San Andrés"
+      }
+    },
+    {
+      "id": "p22",
+      "title": {
+        "es-ES": "A San Hilarión"
+      }
+    },
+    {
+      "id": "p23",
+      "title": {
+        "es-ES": "A Santa Catalina mártir"
+      }
+    },
+    {
+      "id": "p24",
+      "title": {
+        "es-ES": "A la vestición de la H.ª Jerónima de la Encarnación"
+      }
+    },
+    {
+      "id": "p25",
+      "title": {
+        "es-ES": "Al velo de la H.ª Isabel de los Ángeles"
+      }
+    },
+    {
+      "id": "p26",
+      "title": {
+        "es-ES": "A la profesión de Isabel de los Ángeles"
+      }
+    },
+    {
+      "id": "p27",
+      "title": {
+        "es-ES": "A una profesión"
+      }
+    },
+    {
+      "id": "p28",
+      "title": {
+        "es-ES": "En una profesión"
+      }
+    },
+    {
+      "id": "p29",
+      "title": {
+        "es-ES": "Para una profesión"
+      }
+    },
+    {
+      "id": "p30",
+      "title": {
+        "es-ES": "Otra en una profesión"
+      }
+    },
+    {
+      "id": "p31",
+      "title": {
+        "es-ES": "Contra un ganadillo impertinente"
+      }
+    }
+  ]
+}
