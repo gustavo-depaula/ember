@@ -1,0 +1,84 @@
+{
+  "id": "eudes-regulae-cjm",
+  "cover": "quarter",
+  "name": {
+    "la": "Regulae Congregationis Jesu et Mariae",
+    "en-US": "Rules of the Congregation of Jesus and Mary",
+    "pt-BR": "Regras da Congregação de Jesus e Maria"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "la": "Les Règles latines de la Congrégation de Jésus et Marie : la Règle de Jésus et la Règle de la très sainte Vierge Marie (texte latin de l’édition de 1905).",
+    "en-US": "The Latin Rules of the Congregation of Jesus and Mary: the Rule of the Lord Jesus and the Rule of the Most Holy Virgin Mary (Latin text of the 1905 edition).",
+    "pt-BR": "As Regras latinas da Congregação de Jesus e Maria: a Regra do Senhor Jesus e a Regra da santíssima Virgem Maria (texto latino da edição de 1905)."
+  },
+  "composed": 1644,
+  "languages": [
+    "la"
+  ],
+  "work": "john-eudes/regulae-congregationis",
+  "editions": {
+    "la": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_9)_000000354.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 9, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "reg-01",
+      "title": {
+        "la": "Regulae: Regulae congregationis"
+      }
+    },
+    {
+      "id": "reg-02",
+      "title": {
+        "la": "Pars prima"
+      }
+    },
+    {
+      "id": "reg-03",
+      "title": {
+        "la": "Regula domini jesu (1): Quae continet fundamenta hujus congregationis,"
+      }
+    },
+    {
+      "id": "reg-04",
+      "title": {
+        "la": "Regula domini jesu (2)"
+      }
+    },
+    {
+      "id": "reg-05",
+      "title": {
+        "la": "Regula domini jesu (3)"
+      }
+    },
+    {
+      "id": "reg-06",
+      "title": {
+        "la": "Pars secunda (1): Sanctissimae virginis, dei genitricis mariae"
+      }
+    },
+    {
+      "id": "reg-07",
+      "title": {
+        "la": "Pars secunda (2): «Bonum est praestolari. .» Thren. III, 26"
+      }
+    }
+  ]
+}
