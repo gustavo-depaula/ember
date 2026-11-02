@@ -1,0 +1,707 @@
+{
+  "id": "kempis-orationes-de-vita-christi",
+  "cover": "classic",
+  "name": {
+    "la": "Orationes et meditationes de vita Christi",
+    "en-US": "Prayers and Meditations on the Life of Christ",
+    "pt-BR": "Orações e meditações sobre a vida de Cristo"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Duo tractatus: devotae meditationes de vita et beneficiis Salvatoris et de passione, deinde de resurrectione, ascensione, Spiritu Sancto, Eucharistia et sanctis, cum gratiarum actione. Textus ex editione Pohl (1902), versio Anglica W. Duthoit (1904).",
+    "en-US": "Thomas's great cycle of thanksgivings and meditations on the whole life of Christ, from the creation of man to the sending of the Spirit, with the long meditations on the Passion, in two treatises of four parts. The Latin is Michael Joseph Pohl's critical edition (Freiburg 1902), here from a raw OCR of the printed volume; the English is W. Duthoit's translation from the same text (Kegan Paul 1904).",
+    "pt-BR": "O grande ciclo de ações de graças e meditações de Tomás sobre toda a vida de Cristo, da criação do homem ao envio do Espírito, com as longas meditações sobre a Paixão, em dois tratados."
+  },
+  "composed": "c. 1420-1450",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "thomas-a-kempis/orationes-et-meditationes-de-vita-christi",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1902
+    },
+    "en-US": {
+      "translator": "W. Duthoit",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/orationesetmedit0000unse",
+      "edition": "Thomae Hemerken a Kempis Orationes et meditationes de vita Christi, ed. M. J. Pohl (Freiburg: Herder 1902), Opera omnia V; archive.org raw OCR (Boston Public Library scan).",
+      "description": "Praefatio and 87 chapters in four parts. Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. Raw OCR: drop capitals at chapter openings are sometimes garbled, and isolated letter confusions remain.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1902; Thomas died in 1471."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/prayersandmedita00thomuoft",
+      "edition": "Prayers and Meditations on the Life of Christ, tr. W. Duthoit (London: Kegan Paul, Trench, Trubner 1904, 1908), from Pohl's text; archive.org OCR.",
+      "description": "The 87 chapters in the same four parts as the Latin; the translator's introduction is not imported. Raw OCR with residual slips.",
+      "tier": "A",
+      "tierEvidence": "Published 1904; translator W. Duthoit."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "la": "Tractatus prior, pars prior: De vita et beneficiis Salvatoris",
+        "en-US": "Treatise I, Part I: The life and benefits of the Saviour"
+      },
+      "children": [
+        {
+          "id": "p1-01",
+          "title": {
+            "la": "1. Incipiunt devotae gratiarum actiones de tota vita mediatoris Dei et hominum Iesu Christi. Et primo oratio multum excitativa ad laudandum Deum",
+            "en-US": "1. Devout thanksgivings for the whole Life of Jesus Christ^ the Mediator between God and man : and firstly a prayer arousing the soul to the praise of God"
+          }
+        },
+        {
+          "id": "p1-02",
+          "title": {
+            "la": "2. Oratio de creatione primi hominis et eius miserabili lapsu",
+            "en-US": "2. A Prayer concerning the creation of the first man, and his unhappy fall"
+          }
+        },
+        {
+          "id": "p1-03",
+          "title": {
+            "la": "3. De revocatione hominis et promissione adventus Christi",
+            "en-US": "3. Of the reinstatement of man, and the promise of CbrisVs coming"
+          }
+        },
+        {
+          "id": "p1-04",
+          "title": {
+            "la": "4. De redemptione humani generis per verbi incarnati mysterium",
+            "en-US": "4. <t€ Of the redemption of the human race by the mystery of the Incarnate Word"
+          }
+        },
+        {
+          "id": "p1-05",
+          "title": {
+            "la": "5. De nativitate ac paupertate Domini Iesu",
+            "en-US": "5. Of the birth and poverty of the Lord Jesus"
+          }
+        },
+        {
+          "id": "p1-06",
+          "title": {
+            "la": "6. De incommodis et indigentiis pauperis Iesu",
+            "en-US": "6. Of the hardships and want of Jesus in His low estate"
+          }
+        },
+        {
+          "id": "p1-07",
+          "title": {
+            "la": "7. De vagitibus infantis Iesu",
+            "en-US": "7. Of the crying of the Infant Jesus"
+          }
+        },
+        {
+          "id": "p1-08",
+          "title": {
+            "la": "8. De lactatione esurientis Tesu",
+            "en-US": "8. Of the suckling of the hungry Jesus"
+          }
+        },
+        {
+          "id": "p1-09",
+          "title": {
+            "la": "9. De dolorosa circumcisione Domini TIesu. 2 iis ey RD) enedico te et gratias ago tibi, DoiS) mine Iesu Christe, salvator mundi, puritatis auctor, summae innocenti",
+            "en-US": "9. Of the painful Circumcision of the Lord Jesus"
+          }
+        },
+        {
+          "id": "p1-10",
+          "title": {
+            "la": "10. De impositione salutiferi nominis Iesu",
+            "en-US": "10. Of the bestowal of the Saving Name of Jesus"
+          }
+        },
+        {
+          "id": "p1-11",
+          "title": {
+            "la": "11. De apparitione Iesu et devota sanctorum regum oblatione",
+            "en-US": "11. Of the Epiphany of Jesus, and the devout oblation of the Holy Kings"
+          }
+        },
+        {
+          "id": "p1-12",
+          "title": {
+            "la": "12. De purificatione beatae Mariae ' et praesentatione Iesu",
+            "en-US": "12. Of the Purification of Blessed Mary, and the Presentation of Jesus"
+          }
+        },
+        {
+          "id": "p1-13",
+          "title": {
+            "la": "13. De persecutione Iesu et fuga eius in Aegyptum",
+            "en-US": "13. Of the persecution of Jesus, and His flight into"
+          }
+        },
+        {
+          "id": "p1-14",
+          "title": {
+            "la": "14. De sanctis innocentibus ab Herode pro nomine Iesu occisis",
+            "en-US": "14. Of the Holy Innocents, put to death by Herod for the Name of Jesus"
+          }
+        },
+        {
+          "id": "p1-15",
+          "title": {
+            "la": "15. De inventione Iesu in templo",
+            "en-US": "15. Of the finding of Jesus in the Temple"
+          }
+        },
+        {
+          "id": "p1-16",
+          "title": {
+            "la": "16. De sancta et occulta vita humilis Iesu",
+            "en-US": "16. Of the holy and hidden life of the lowly Jesus"
+          }
+        },
+        {
+          "id": "p1-17",
+          "title": {
+            "la": "17. De baptismate Iesu et nostra sanctificatione in aquis",
+            "en-US": "17. Of the Baptism of Jesus, and our sanctification in its waters"
+          }
+        },
+        {
+          "id": "p1-18",
+          "title": {
+            "la": "18. De ieiunio et temptationibus invictissimi Jesu",
+            "en-US": "18. Of the fasting, and the temptations, of the allunconquered Jesus"
+          }
+        },
+        {
+          "id": "p1-19",
+          "title": {
+            "la": "19. De sancta praedicatione et salutari doctrina Iesu",
+            "en-US": "19. Of the holy preaching, and the saving Doctrine of Jesus"
+          }
+        },
+        {
+          "id": "p1-20",
+          "title": {
+            "la": "20. De gloriosis signis et benivolentia Iesu",
+            "en-US": "20. Of the glorious miracles, and the kindness and goodness of Jesus"
+          }
+        },
+        {
+          "id": "p1-21",
+          "title": {
+            "la": "21. De exemplis bonisque moribus Iesu eto de tribulationibus eius in mundo",
+            "en-US": "21. Of the Example, and the Holy Life, of Jesus, and His tribulations in the world"
+          }
+        },
+        {
+          "id": "p1-22",
+          "title": {
+            "la": "22. De festo palmarum et humili equitatu Iesu in lerusalem",
+            "en-US": "22. Of the Feast of Palms, and the lowly entry of Jesus into Jerusalem"
+          }
+        },
+        {
+          "id": "p1-23",
+          "title": {
+            "la": "23. De cena Dominica, in qua post agnum typicum Christus Iesus instituit corporis et sanguinis sui sacramentum",
+            "en-US": "23. <t€ Of the Lord's Supper, in which, after partaking of the Paschal Lamb, Christ Jesus instituted the Sacrament of His Own Body and Blood"
+          }
+        },
+        {
+          "id": "p1-24",
+          "title": {
+            "la": "24. De lotione pedum et sacro sermone in cena Iesu",
+            "en-US": "24. <t£ Of the Washing of the feet, and the sacred dis course of Jesus, at the Supper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "la": "Tractatus prior, pars altera: De passione Christi",
+        "en-US": "Treatise I, Part II: The Passion of Christ"
+      },
+      "children": [
+        {
+          "id": "p2-01",
+          "title": {
+            "la": "1. De venditione Iesu a perfido Iuda traditore. Q Pay nee et gratias ago tibi, ka, Domine Iesu Christe, summas ¢ bonitas et aeterna maiestas, 4? pro tua iniusta ve",
+            "en-US": "1. Of the selling of Jesus by the perfidious traitor Judas"
+          }
+        },
+        {
+          "id": "p2-02",
+          "title": {
+            "la": "2. De tristitia et pavore Iesu pro nobis assumptis",
+            "en-US": "2. Of the sadness and dread which Jesus endured for our sakes"
+          }
+        },
+        {
+          "id": "p2-03",
+          "title": {
+            "la": "3. Trina oratio et prostratio Domini Iesu ad patrem et resignatio voluntatis",
+            "en-US": "3. The thrice-repeated prayer, the prostration be fore the Father of the Lord Jesus, and the resig nation by Him of His Own Will"
+          }
+        },
+        {
+          "id": "p2-04",
+          "title": {
+            "la": "4. Quomodo Dominus Iesus venit obviam traditori suo",
+            "en-US": "4. How the Lord Jesus went to meet His betrayer"
+          }
+        },
+        {
+          "id": "p2-05",
+          "title": {
+            "la": "5. Horrenda captio et deductio Domini Iesu",
+            "en-US": "5. The fell seizure and leading away of the Lord Jesus"
+          }
+        },
+        {
+          "id": "p2-06",
+          "title": {
+            "la": "6. Derelictio Domini Iesu et fuga apostolorum",
+            "en-US": "6. The forsaking of the Lord Jesus, and the flight of the Apostles"
+          }
+        },
+        {
+          "id": "p2-07",
+          "title": {
+            "la": "7. Praesentatio Domini Jesu coram Anna sacerdote. Ye) Sy enedico et gratias ago tibi, Domine lutis nostrae, pro tua prima praesentatione coram Anna sacerdote, ubi ",
+            "en-US": "7. The arraignment of the Lord Jesus before Annas, the Priest"
+          }
+        },
+        {
+          "id": "p2-08",
+          "title": {
+            "la": "8. De trina negatione beati Petri apostoli",
+            "en-US": "8. Of Blessed Peter, the Apostle's, thrice-repeated denial"
+          }
+        },
+        {
+          "id": "p2-09",
+          "title": {
+            "la": "9. Deductio Domini Iesu ab Anna ad Caipham sacerdotem et statio eius coram eo",
+            "en-US": "9. *e The leading away of the Lord Jesus from Annas to Caiaphas the Priest, and the Lord's standing before him"
+          }
+        },
+        {
+          "id": "p2-10",
+          "title": {
+            "la": "10. Contumeliae, illusiones et percussiones capitis Domini Iesu",
+            "en-US": "10. The insults, the mockings, and the smitings of the Head, of the Lord Jesus"
+          }
+        },
+        {
+          "id": "p2-11",
+          "title": {
+            "la": "11. Praesentatio et statio Domini Iesu coram Pilato",
+            "en-US": "11. The arraignment, and the standing, of the Lord Jesus before Pilate"
+          }
+        },
+        {
+          "id": "p2-12",
+          "title": {
+            "la": "12. Bee at Dominus Iesus fuit ab Herode despectus",
+            "en-US": "12. How the Lord Jesus was set at nought by Herod"
+          }
+        },
+        {
+          "id": "p2-13",
+          "title": {
+            "la": "13. De furibundo Iudaeorum clamore: Crucifige, tolle eum",
+            "en-US": "13. Concerning the savage clamour of the Jews, — \"Away with Him ! Crucify Him ! \""
+          }
+        },
+        {
+          "id": "p2-14",
+          "title": {
+            "la": "14. Denudatio, alligatio ad columnam et flagellatio Domini Iesu",
+            "en-US": "14. The stripping naked, the binding to the pillar, and the scourging of the Lord Jesus"
+          }
+        },
+        {
+          "id": "p2-15",
+          "title": {
+            "la": "15. De expoliatione, illusione, coronatione et percussione capitis Domini Iesu",
+            "en-US": "15. <t£ Of the stripping, the mocking, the crowning, and the smiting of the Head, of the Lord Jesus"
+          }
+        },
+        {
+          "id": "p2-16",
+          "title": {
+            "la": "16. De iniusta condemnatione Iesu ad mortem",
+            "en-US": "16. <ti? Of the unjust condemnation of Jesus to death"
+          }
+        },
+        {
+          "id": "p2-17",
+          "title": {
+            "la": "17. De baiulatione crucis Iesu et eductione eius ad locum calvariae",
+            "en-US": "17. Of the bearing by Jesus of His Cross, and His being led forth to the place which was called Calvary"
+          }
+        },
+        {
+          "id": "p2-18",
+          "title": {
+            "la": "18. De nuda crucifixione et de alta et longa suspensione Domini Iesu in cruce",
+            "en-US": "18. Of the Crucifixion, naked, of the Lord Jesus ; and of His banging for many long hours aloft upon the Cross"
+          }
+        },
+        {
+          "id": "p2-19",
+          "title": {
+            "la": "19. De vulneribus Iesu et pretiosi sanguinis eius effusione",
+            "en-US": "19. Of the Wounds of Jesus, and the shedding of His precious Blood"
+          }
+        },
+        {
+          "id": "p2-20",
+          "title": {
+            "la": "20. De pia supplicatione Iesu pro inimicis",
+            "en-US": "20. 4t£ Of the tender pleading of Jesus for His enemies"
+          }
+        },
+        {
+          "id": "p2-21",
+          "title": {
+            "la": "21. De direptione et divisione vestimentorum s Christi",
+            "en-US": "21. Of the plundering, and the sharing, of the gar ments of Christ"
+          }
+        },
+        {
+          "id": "p2-22",
+          "title": {
+            "la": "22. De opprobriis Iudaeorum et forti perseverantia Iesu in cruce",
+            "en-US": "22. <t£ Of the revilings of the Jews, and the strong perseverance of Jesus on the Cross"
+          }
+        },
+        {
+          "id": "p2-23",
+          "title": {
+            "la": "23. De verbo ad latronem in cruce dicto",
+            "en-US": "23. Of the Word spoken on the Cross to the thief"
+          }
+        },
+        {
+          "id": "p2-24",
+          "title": {
+            "la": "24. De insigni titulo nominis IESV super caput eius posito",
+            "en-US": "24. Of the illustrious title of the Name O/JESUS set up above His Head upon the Cross"
+          }
+        },
+        {
+          "id": "p2-25",
+          "title": {
+            "la": "25. De compassione materni doloris et mutua commendatione beatae Mariae et sancti Tohannis",
+            "en-US": "25. Of the suffering of the Lord with His Mother's grief, and His commendation the one to the other of Blessed Mary and St. John"
+          }
+        },
+        {
+          "id": "p2-26",
+          "title": {
+            "la": "26. De magnificis virtutibus beatae virginis et de dolore ac lacrimis eius",
+            "en-US": "26. Of the transcendent virtues of the Blessed Virgin, and of her grief and tears"
+          }
+        },
+        {
+          "id": "p2-27",
+          "title": {
+            "la": "27. De solitaria derelictione Domini Iesu in cruce",
+            "en-US": "27. Of the lonely dereliction of the Lord Jesus on the Cross"
+          }
+        },
+        {
+          "id": "p2-28",
+          "title": {
+            "la": "28. De siti Domini Jesu in cruce pendentis",
+            "en-US": "28. Of the thirst of the Lord Jesus as He hung upon the Cross"
+          }
+        },
+        {
+          "id": "p2-29",
+          "title": {
+            "la": "29. De adimpletione scripturarum in morte Christi et de verbo: Consummatum est",
+            "en-US": "29. Of the fulfilment of the Scriptures in the death of Christ ; and of the Word \" It is finished \""
+          }
+        },
+        {
+          "id": "p2-30",
+          "title": {
+            "la": "30. De lamentabili emigratione Domini Iesu ab hoc saeculo",
+            "en-US": "30. Of the woeful departure from this world of the Lord Jesus"
+          }
+        },
+        {
+          "id": "p2-31",
+          "title": {
+            "la": "31. De pallida et miseranda specie Iesu, quando anima eius migrante certa mortalitatis in €o apparuerunt signa",
+            "en-US": "31. Of the wan and piteous appearance of Jesus, when on His Soul leaving His Body, evident signs of death showed themselves in Him"
+          }
+        },
+        {
+          "id": "p2-32",
+          "title": {
+            "la": "32. De dira perforatione sacratissimi lateris Domini Jesu post excessum vitae",
+            "en-US": "32. Of the cruel piercing of the most sacred Side of the Lord Jesus after His death"
+          }
+        },
+        {
+          "id": "p2-33",
+          "title": {
+            "la": "33. Depositio Domini Jesu de cruce",
+            "en-US": "33. The taking down of the Lord Jesus from the Cross"
+          }
+        },
+        {
+          "id": "p2-34",
+          "title": {
+            "la": "34. Orationes ad membra Christi. Et primo ad pedes",
+            "en-US": "34. Prayers to the several parts of Christ's Body : and first to His Feet"
+          }
+        },
+        {
+          "id": "p2-35",
+          "title": {
+            "la": "35. De veneranda sepultura Domini Iesu",
+            "en-US": "35. Of the adorable Burial of the Lord Jesus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "la": "Tractatus alter, pars prior: De resurrectione, ascensione et sanctis",
+        "en-US": "Treatise II, Part I: The Resurrection, Ascension and the saints"
+      },
+      "children": [
+        {
+          "id": "p3-01",
+          "title": {
+            "la": "1. De victoriosissimo triumpho mortis in cruce Domini nostri Iesu Christi et de laetissima resurrectione eius de sepulchro",
+            "en-US": "1. £ Of the victory of our Lord Jesus Christ upon the Cross, His triumph over death, and His most joyful Resurrection from the grave"
+          }
+        },
+        {
+          "id": "p3-02",
+          "title": {
+            "la": "2. De devota visitatione sancti sepulchri Domini nostri Iesu Christi",
+            "en-US": "2. Of the devout visitation of the Holy Sepulchre of our Lord Jesus Christ"
+          }
+        },
+        {
+          "id": "p3-03",
+          "title": {
+            "la": "3. De apparitione Iesu coram Maria Magdalena in specie hortulani",
+            "en-US": "3. <t£ Of the appearance of Jesus to Mary Magdalene in the form of a gardener"
+          }
+        },
+        {
+          "id": "p3-04",
+          "title": {
+            "la": "4. De magnis meritis et privilegiis gratiarum beatae Mariae Magdalenae",
+            "en-US": "4. Of the great merits, and privileges of grace, of blessed Mary Magdalene 1"
+          }
+        },
+        {
+          "id": "p3-05",
+          "title": {
+            "la": "5. De magna compunctione sanctae Mariae Magdalenae in passione Domini",
+            "en-US": "5. Of holy Mary Magdalene's great sorrow of heart at the Passion of the Lord"
+          }
+        },
+        {
+          "id": "p3-06",
+          "title": {
+            "la": "6. De laeta et pia apparitione Christi coram matre sua in secreto cubiculo clausa",
+            "en-US": "6. Of the joyful and loving appearance of Christ to His Mother when she had withdrawn to her secret chamber"
+          }
+        },
+        {
+          "id": "p3-07",
+          "title": {
+            "la": "7. De apparitione Christi coram sancto Petro in secreto et de cursu eius cum sancto Johanne",
+            "en-US": "7. Of the appearance of Christ to St. Peter in secret ; and of St. Peter's running with St. John to the Sepulchre"
+          }
+        },
+        {
+          "id": "p3-08",
+          "title": {
+            "la": "8. Oratio ad impetrandam a Deo gratiam lacrimarum",
+            "en-US": "8. A prayer for obtaining from God the grace of tears"
+          }
+        },
+        {
+          "id": "p3-09",
+          "title": {
+            "la": "9. De utilitate et gratia sanctarum lacrimarum",
+            "en-US": "9. Of the profit and grace of holy tears"
+          }
+        },
+        {
+          "id": "p3-10",
+          "title": {
+            "la": "10. De lacrimis Iesu super Lazarum",
+            "en-US": "10. Of the tears of Jesus over Lazarus"
+          }
+        },
+        {
+          "id": "p3-11",
+          "title": {
+            "la": "11. De apparitione Christi in specie peregrini coram duobus discipulis euntibus in Emaus",
+            "en-US": "11. £ Of the appearance of Christ, in the form of a Stranger, to the two disciples going to Emmaus"
+          }
+        },
+        {
+          "id": "p3-12",
+          "title": {
+            "la": "12. De cognitione Christi in fractione panis",
+            "en-US": "12. Of the recognition of Christ in the breaking of bread"
+          }
+        },
+        {
+          "id": "p3-13",
+          "title": {
+            "la": "13. De apparitione Christi coram discipulis in Ierusalem sero facto et clausis ianuis",
+            "en-US": "13. Of the appearance of Christ to the disciples in Jerusalem, when it was late, and the doors were shut"
+          }
+        },
+        {
+          "id": "p3-14",
+          "title": {
+            "la": "14. De apparitione Christi coram sancto Thoma apostolo in octava paschae",
+            "en-US": "14. t£ Of the appearance of Christ, on the octave of Easter, when St. Thomas the Apostle was present"
+          }
+        },
+        {
+          "id": "p3-15",
+          "title": {
+            "la": "15. De tactu sanctorum vulnerum Christi per manum sancti Thomae apostolt",
+            "en-US": "15. Of the touching of the sacred Wounds of Christ by the hand of St. Thomas the Apostle"
+          }
+        },
+        {
+          "id": "p3-16",
+          "title": {
+            "la": "16. Oratio de quinque sacris vulneribus Iesu Christi",
+            "en-US": "16. A prayer concerning the Jive sacred Wounds of Jesus Christ"
+          }
+        },
+        {
+          "id": "p3-17",
+          "title": {
+            "la": "17. De armatura Christi, cruce, clavis, lancea et corona spinea",
+            "en-US": "17. ^ Of the Armorial bearings of Christ, the Cross, the Nails, the Spear, and the Crown of Thorns"
+          }
+        },
+        {
+          "id": "p3-18",
+          "title": {
+            "la": "18. De apparitione Christi coram septem discipulis in mari Tiberiadis piscantibus",
+            "en-US": "18. Of the appearance of Christ to the seven dis ciples as they were fishing in the Sea of Tiberias"
+          }
+        },
+        {
+          "id": "p3-19",
+          "title": {
+            "la": "19. De convivio Christi cum eisdem discipulis suis",
+            "en-US": "19. Of the meal taken by Christ with those same disciples of His"
+          }
+        },
+        {
+          "id": "p3-20",
+          "title": {
+            "la": "20. De dulciloquio Iesu cum sancto Petro et sancto Iohanne apostolo de amore eius",
+            "en-US": "20. Of the sweet converse of Jesus with St. Peter and St. John the Apostle about loving Him"
+          }
+        },
+        {
+          "id": "p3-21",
+          "title": {
+            "la": "21. De apparitione Christi coram undecim discipulis in monte Thabor in Galilaea",
+            "en-US": "21. Of the appearance of Christ to the eleven disciples on Mount Thabor in Galilee"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "la": "Tractatus alter, pars altera: De Eucharistia et aliis",
+        "en-US": "Treatise II, Part II: The Eucharist and other devotions"
+      },
+      "children": [
+        {
+          "id": "p4-01",
+          "title": {
+            "la": "1. De ascensione Domini et apparitione eius",
+            "en-US": "1. Of the Ascension of the Lord, and of His last appearance"
+          }
+        },
+        {
+          "id": "p4-02",
+          "title": {
+            "la": "2. De apparitione angelorum in albis vestibus",
+            "en-US": "2. Of the appearance of Angels in white garments"
+          }
+        },
+        {
+          "id": "p4-03",
+          "title": {
+            "la": "3. De missione Spiritus sancti in discipulos Christi in festo pentecostes",
+            "en-US": "3. Of the sending of the Holy Ghost upon the disciples of Christ at the Feast of Pentecost"
+          }
+        },
+        {
+          "id": "p4-04",
+          "title": {
+            "la": "4. Oratio ad regratiandum Christo pro sua incarnatione, passione, resurrectione, ascensione et Spiritus sancti missione cum ampliori largitione donorum",
+            "en-US": "4. A Prayer of thanksgiving to Christ for His Incarnation, Passion, Resurrection, Ascension, and Mission of the Holy Ghost with a fuller be stowal of gifts"
+          }
+        },
+        {
+          "id": "p4-05",
+          "title": {
+            "la": "5. Oratio de donis Spiritus sancti contra diversos morbos animae",
+            "en-US": "5. Prayer concerning the gifts of the Holy Ghost against divers diseases of the soul"
+          }
+        },
+        {
+          "id": "p4-06",
+          "title": {
+            "la": "6. Oratio pro devotionis gratia in divino officio impetranda et alacri laude angelorum in caelo",
+            "en-US": "6. A prayer concerning the cheerful praise of the Angels in Heaven, and for obtaining the grace of devotion in the Divine Office"
+          }
+        },
+        {
+          "id": "p4-07",
+          "title": {
+            "la": "7. De praedicatione apostolorum et divulgatione sanctisstmi nominis Domini nostri Tesu Christi in toto orbe terrarum pro salute hominum",
+            "en-US": "7. Of the preaching of the Apostles, and the spread ing of the most Holy Name of our Lord Jesus Christ throughout the world, for the Salvation of men"
+          }
+        }
+      ]
+    }
+  ]
+}
