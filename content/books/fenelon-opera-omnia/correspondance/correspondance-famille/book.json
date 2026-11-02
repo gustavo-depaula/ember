@@ -1,0 +1,98 @@
+{
+  "id": "fenelon-correspondance-famille",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance de Fénelon avec sa famille",
+    "en-US": "Fénelon’s Correspondence with his Family",
+    "pt-BR": "Correspondência de Fénelon com sua família"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Fénelon à ses parents, ses neveux et les siens (deuxième section de la correspondance). Les lettres adressées à Fénelon sont imprimées avec les siennes là où l’édition les place.",
+    "en-US": "Fénelon’s letters to his relatives and nephews (second section of the correspondence). Letters written to Fénelon are printed with his own where the edition places them.",
+    "pt-BR": "As cartas de Fénelon a seus parentes e sobrinhos (segunda seção da correspondência). As cartas escritas a Fénelon são impressas com as dele onde a edição as coloca."
+  },
+  "composed": "1675–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/correspondance-famille",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte07fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 7, tome 7, section II; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-correspondance-famille",
+      "title": {
+        "fr-FR": "Correspondance de Fénelon avec sa famille"
+      },
+      "children": [
+        {
+          "id": "01-correspondance-famille-01",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 1"
+          }
+        },
+        {
+          "id": "01-correspondance-famille-02",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 2"
+          }
+        },
+        {
+          "id": "01-correspondance-famille-03",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 3"
+          }
+        },
+        {
+          "id": "01-correspondance-famille-04",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 4"
+          }
+        },
+        {
+          "id": "01-correspondance-famille-05",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 5"
+          }
+        },
+        {
+          "id": "01-correspondance-famille-06",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 6"
+          }
+        },
+        {
+          "id": "01-correspondance-famille-07",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 7"
+          }
+        },
+        {
+          "id": "01-correspondance-famille-08",
+          "title": {
+            "fr-FR": "Correspondance de Fénelon avec sa famille, partie 8"
+          }
+        }
+      ]
+    }
+  ]
+}
