@@ -1,0 +1,393 @@
+{
+  "id": "augustine-sermones-latini-09",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermones 303–335/K",
+    "en-US": "Sermons 303–335/K (Latin)",
+    "pt-BR": "Sermões 303–335/K (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermones Augustini 303–335/K, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "58 of Augustine's sermons (303 to 335/K), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the sermons not in the English NPNF book; no English translation imported.",
+    "pt-BR": "58 sermões de Santo Agostinho (303 a 335/K), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermones",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorsi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorsi of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo 303"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo 304"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Sermo 305"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Sermo 305/A"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Sermo 306"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Sermo 306/A"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Sermo 306/B"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Sermo 306/C"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Sermo 306/D"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Sermo 307"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Sermo 308"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Sermo 308/A"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Sermo 309"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Sermo 310"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Sermo 311"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Sermo 312"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Sermo 313"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Sermo 313/A"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Sermo 313/B"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Sermo 313/C"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Sermo 313/D"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Sermo 313/E"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Sermo 313/F"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Sermo 313/H"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Sermo 314"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Sermo 315"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Sermo 316"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Sermo 317"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "Sermo 318"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "la": "Sermo 319"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "la": "Sermo 319/A"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "la": "Sermo 320"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "la": "Sermo 321"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "la": "Sermo 322"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "la": "Sermo 323"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "la": "Sermo 324"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "la": "Sermo 325"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "la": "Sermo 326"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "la": "Sermo 327"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "la": "Sermo 328"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "la": "Sermo 329"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "la": "Sermo 330"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "la": "Sermo 331"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "la": "Sermo 332"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "la": "Sermo 333"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "la": "Sermo 334"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "la": "Sermo 335"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "la": "Sermo 335/A"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "la": "Sermo 335/B"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "la": "Sermo 335/C"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "la": "Sermo 335/D"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "la": "Sermo 335/E"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "la": "Sermo 335/F"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "la": "Sermo 335/G"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "la": "Sermo 335/H"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "la": "Sermo 335/I"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "la": "Sermo 335/J"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "la": "Sermo 335/K"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
