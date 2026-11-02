@@ -15,7 +15,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Vincent de Paul (Coste, 12 books)
 - [x] Caussade · Lallemant · Brother Lawrence (rest) · Surin. Left: Caussade's French Instructions; Surin's Cantiques, Dialogues, letters, French Fondements and a better Catéchisme (Google Books blocked here; Marburg facsimile needs OCR)
 - [x] Montfort (gaps) · Bérulle · Olier. Left: Montfort's Rosary methods, cantiques, other letters, minor writings (no free source found); Olier's Grandeurs de saint Joseph; split Migne files where headings were lost
-- [ ] John Eudes
+- [x] John Eudes (23 books + 6 Kenedy English). Left: Marie des Vallées; chapters split by size need real titles
 - [ ] Fénelon
 - [ ] Bossuet
 - [ ] Catherine of Siena (rest) · Catherine of Genoa · Scupoli (rest) · Philip Neri
