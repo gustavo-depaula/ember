@@ -1,0 +1,165 @@
+{
+  "id": "manning-eternal-priesthood",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Eternal Priesthood",
+    "pt-BR": "O Sacerdócio Eterno"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Manning's meditations for priests (1883), in twenty chapters: the nature, powers and relations of the priesthood, the obligations to sanctity, the instrumental means of perfection, the end of the priest, his dangers, helps, sorrows, friend, preaching, liberty, obedience, rewards, house, life and death.",
+    "pt-BR": "As meditações de Manning para sacerdotes (1883), em vinte capítulos: a natureza, os poderes e as relações do sacerdócio, as obrigações de santidade, os meios instrumentais da perfeição, o fim do sacerdote, seus perigos, auxílios, tristezas, amigo, pregação, liberdade, obediência, recompensas, casa, vida e morte."
+  },
+  "composed": 1883,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/eternal-priesthood",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, fourth edition, 1884)",
+      "year": 1884
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://en.wikisource.org/wiki/The_Eternal_Priesthood",
+      "edition": "The Eternal Priesthood (London: Burns and Oates; New York: Catholic Publication Society, fourth edition, 1884), Wikisource transcription.",
+      "description": "The dedication and the twenty chapters, with Manning's footnotes. The text is the Wikisource volunteer transcription; the editors' markup and page numbers are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1884, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedication",
+      "title": {
+        "en-US": "Dedication"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The Nature of Priesthood"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The Powers of the Priesthood"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. The Three Relations of the Priesthood"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The Obligations to Sanctity in the Priesthood"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. The Instrumental Means of Perfection"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. The End of the Priest"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII. The Priest's Dangers"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII. The Priest's Helps"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter IX. The Pastoral Office a Source of Confidence"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter X. The Value of a Priest's Time"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter XI. The Priest's Sorrows"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter XII. The Priest Under False Accusations"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Chapter XIII. The Priest's Friend"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Chapter XIV. The Priest as Preacher"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Chapter XV. The Priest's Liberty"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Chapter XVI. The Priest's Obedience"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Chapter XVII. The Priest's Rewards"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Chapter XVIII. The Priest's House"
+      }
+    },
+    {
+      "id": "chapter-19",
+      "title": {
+        "en-US": "Chapter XIX. The Priest's Life"
+      }
+    },
+    {
+      "id": "chapter-20",
+      "title": {
+        "en-US": "Chapter XX. The Priest's Death"
+      }
+    }
+  ]
+}
