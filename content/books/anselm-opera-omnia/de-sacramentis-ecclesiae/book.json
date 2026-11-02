@@ -1,0 +1,66 @@
+{
+  "id": "anselm-de-sacramentis-ecclesiae",
+  "cover": "classic",
+  "name": {
+    "la": "Epistola de sacramentis ecclesiae (Ad Waleranni quaerelas responsio)",
+    "en-US": "On the Sacraments of the Church (Reply to Waleran’s Complaints)",
+    "pt-BR": "Sobre os sacramentos da Igreja (resposta às queixas de Valerano)"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Anselmi responsio ad Waleranni quaerelas de ritibus Ecclesiae, de signo crucis et de operimento calicis. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s short reply to the complaints of Waleran of Naumburg about the rites of the Church: the sign of the cross and the covering of the chalice. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR.",
+    "pt-BR": "A breve resposta de Anselmo às queixas de Valerano de Naumburgo sobre os ritos da Igreja: o sinal da cruz e a cobertura do cálice."
+  },
+  "composed": "c. 1106-1107",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-sacramentis-ecclesiae",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10633",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10633, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "responsio",
+      "title": {
+        "la": "Responsio"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Varietatem rituum cum unitate fidei cohaerere"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Ad querelas de una signi crucis formatione"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De operimento calicis inter sacrificandum"
+      }
+    }
+  ]
+}

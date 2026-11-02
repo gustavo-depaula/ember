@@ -1,0 +1,220 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Responsio</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.Respon</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Responsio</head>
+
+<pb n="0551C"/>
+<p>Domino et amico WALERANNO, gratia Dei Newemburgensi
+venerabili episcopo, ANSELMUS, servus
+Ecclesiae Cantuariensis, salutem, servitium, orationes,
+dilectionis affectum.</p>
+<p>Gaudeo, et gratias ago Deo quia sicut scribitis,
+glorificat eum in vobis Ecclesia catholica; quoniam
+in vestra mutatione divinae bonitatis apparet gratia,
+et Domini papae Paschalis amicitiam habetis et familiaritatem,
+ut jam mihi liceat vestram amicabiliter
+salutare sanctitatem. Quod vestra sublimis humilitas
+me comparat Minervae et vocat montem, non in me
+accipio; quoniam nihil in me, cur hoc dici de me
+debeat, intelligo. Non tamen debeo esse ingratus
+vestrae benignitati; quoniam hoc facit abundantia
+vestrae erga me bonae voluntatis. Solemus
+<pb n="0551D"/>
+enim saepe sentire meliora de his quos diligimus,
+quam ipsi mereamur. De laude igitur, quae ad me non
+pertinet, cor meum non gloriatur; sed de dilectione,
+quae semper amanda est, gratias agendo laetatur.
+<pb n="0552C"/>
+</p>
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Varietatem rituum cum unitate fidei cohaerere</hi>.</head>
+<p>Queritur vestra reverentia de sacramentis Ecclesiae,
+quoniam non uno modo fiunt ubique, sed
+diversis modis in diversis locis tractantur. Utique
+si per universam Ecclesiam uno modo et concorditer
+celebrarentur, bonum esset et laudabile. Quoniam
+tamen multae sunt diversitates, quae non in
+substantia sacramenti, neque in virtute
+ejus, aut fide discordant; neque omnes in unam
+consuetudinem colligi possunt: aestimo eas potius
+in pace concorditer tolerandas, quam discorditer
+cum scandalo damnandas. Habemus enim a sanctis
+Patribus, quia si unitas servatur charitatis in
+fide catholica, nihil officit consuetudo diversa. Si
+<pb n="0552D"/>
+autem quaeritur unde istae natae sunt consuetudinum
+varietates: nihil aliud intelligo, quam humanorum
+sensuum diversitates. Qui quamvis in rei veritate
+et virtute non dissentiant, in aptitudine tamen
+<pb n="0553A"/>
+et decentia administrationis non concordant.
+Quod enim unus aptius esse judicat, alius saepe
+minus aptum aestimat; neque in hujusmodi varietatibus
+non consonare, puto ab ipsius rei veritate
+exorbitare.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>Ad querelas de una signi crucis formatione</hi>.</head>
+<p>Nempe quod alii in sacrificando corpore et sanguine
+Domini, singulas cruces singulis faciunt ab
+initio in canone; alii solummodo singulas singulis,
+ubi singulatim nominatur panis vel corpus, et
+singulatim calix vel sanguis: ubi vero oblatio vel
+hostia nominatur, unam crucem ambobus faciunt;
+quoniam sicut unus est Christus, qui seipsum obtulit
+pro nobis; ita una est oblatio, et una hostia in
+<pb n="0553B"/>
+pane et vino quam offerimus: non video istos magis
+in hoc discordare a Christo, qui singulatim
+utraque benedixit, quam omnes illi discordant, qui
+calicem post Coenam non sacrificant, sicut Christus
+fecit, neque semper ad vesperam, sicut Christus
+fecit, et qui utrumque simul, uno nomine vocant
+oblationem, vel hostiam, quod Christus non
+fecit. Unde possumus colligere quia a nobis
+invicem in hujusmodi actione servata rei veritate
+possumus esse dissimiles sine reprehensione,
+cum ab ipso auctore ipsius sacrificii sumus diversi
+sine offensione. Ubi autem dicimus: <hi>Haec dona, haec
+munera, haec sancta sacrificia</hi>, sive singulatim pani
+et vino singulae cruces assignentur, sive una cruce
+duo simul sanctificentur, non video in hac diversitate
+<pb n="0553C"/>
+reprehensibilem discordiam, nisi forsitan quia
+convenientius ambo una cruce notantur, sicut
+uno verbo benedictionis sanctificantur. Cum
+enim plures homines, aut diversas res simul benedicimus,
+non singulis singulas cruces reddimus,
+sed omnibus unam crucem sufficere credimus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>De operimento calicis inter sacrificandum</hi>.</head>
+<p>Quod vero nonnulli ab initio calicem operiunt,
+quidam corporali, alii panno complicato propter
+custodiam immunditiae, nec nudum dimittunt
+calicem, sicut Christus nudus crucifixus est, ut
+sicut significatis, ostenderet se mundo revelatum:
+<pb n="0554A"/>
+non magis intelligo eos debere reprehendi
+propter nuditatem Christi, quae non significant ab
+illis in sacrificando, quam quia non demonstrant
+in eodem sacrificio, eum esse crucifixum
+extra civitatem, extra domum, et sub nudo coelo.
+Quae tamen magna non carent ratione. Nam Christus, <hi>qui passus est pro nobis, nobis relinquens exemplum,
+ut sequamur vestigia ejus 
+ <note>(I Petr. II, 21)</note>
+            </hi>; in
+his quoque dedit nobis exemplum, propter justitiam
+sustinendi <emph>140</emph> incomparabilem contemptum et
+paupertatem. Adeo enim contemptui habitus est et
+exsecrabilis judicatus ut nec mori dignus haberetur
+intra aliquam hominum habitationem; neque inter
+homines, nisi inter exsecrabiles, neque sub tecto
+aliquo nisi sub coelo de sub quo ejici non potuit,
+<pb n="0554B"/>
+ut secundum Prophetam: <hi>Opprobrium hominum, et
+abjectio plebis aestimaretur</hi>. Pauper vero ita fuit, ut
+veniens in mundum, non in sua sed in aliena domo
+nasceretur: et natus, propter inopiam loci in praesepio
+brutorum animalium poneretur: et vivens
+in mundo non haberet ubi caput suum reclinaret <note>(Psal. XXI, 7; Luc. IX, 58)</note>;
+nec moriens, unde nuditatem
+suam tegeret; nec mortuus, unde involveretur;
+nec sepulcrum, aut locum, ubi corpus suum
+ collocaretur. Quae omnia magis sunt vivendo
+per effectum (cum ratio exigit) imitanda, quam per
+nuditatem sacrificii nuditas Christi significanda. Neque
+conjectare possum cur potius curandum sit
+ ne panno operiatur sacrificium, quia Christus
+<pb n="0554C"/>
+nudus passus est, quam ne sub tecto, vel intra civitatem
+fiat, quoniam Christus sub nudo coelo
+extra civitatem passus est. Si autem usus non habet
+ut extra tectum fiat propter perturbationes aeris,
+simili causa videtur ut calix in sacrificando non
+discooperiatur, propter quasdam, quae contingere
+possunt, incommoditates. Tutius itaque et diligentius
+puto ut calix, ne aut musca, aut aliquid indecens
+in illum cadat (quod saepe contigisse cognovimus)
+operiatur: quia discoopertus contingentibus
+immunditiis exponatur. Haec sapientiae
+vestrae pro meo sensu, nullius meliorem rationem
+respuens respondeo. De his, qui sacrificant de fermentato,
+misi vobis olim quamdam epistolam.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>
