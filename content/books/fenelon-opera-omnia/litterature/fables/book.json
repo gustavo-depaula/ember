@@ -1,0 +1,258 @@
+{
+  "id": "fenelon-fables",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Fables composées pour l’éducation du duc de Bourgogne",
+    "en-US": "Fables Composed for the Education of the Duke of Burgundy",
+    "pt-BR": "Fábulas compostas para a educação do duque de Borgonha"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Trente-six fables et contes en prose, écrits vers 1690 pour le petit-fils de Louis XIV : de courts apologues sur les vertus et les vices du prince et du chrétien.",
+    "en-US": "Thirty-six fables and tales in prose, written about 1690 for the grandson of Louis XIV: short apologues on the virtues and vices of the prince and the Christian.",
+    "pt-BR": "Trinta e seis fábulas e contos em prosa, escritos por volta de 1690 para o neto de Luís XIV: breves apólogos sobre as virtudes e os vícios do príncipe e do cristão."
+  },
+  "composed": "1690–1696",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/fables",
+  "editions": {
+    "fr-FR": {
+      "editor": "Firmin Didot frères, Paris",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Les_Aventures_de_Télémaque/Fables/01",
+      "edition": "Fables composées pour l’éducation de Monseigneur le duc de Bourgogne, in Aventures de Télémaque, Paris, Didot, 1841 (Wikisource)",
+      "description": "Proofread transcription on fr.wikisource.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "fable-01",
+      "title": {
+        "fr-FR": "1. Histoire d’une vieille Reine et d’une jeune Paysanne"
+      }
+    },
+    {
+      "id": "fable-02",
+      "title": {
+        "fr-FR": "2. Histoire de la reine Gisèle et de la fée Corysante"
+      }
+    },
+    {
+      "id": "fable-03",
+      "title": {
+        "fr-FR": "3. Histoire d’une jeune princesse"
+      }
+    },
+    {
+      "id": "fable-04",
+      "title": {
+        "fr-FR": "4. Histoire de Florise"
+      }
+    },
+    {
+      "id": "fable-05",
+      "title": {
+        "fr-FR": "5. Histoire du roi Alfaroute et de Clariphile"
+      }
+    },
+    {
+      "id": "fable-06",
+      "title": {
+        "fr-FR": "6. Histoire de Rosimond et de Braminte"
+      }
+    },
+    {
+      "id": "fable-07",
+      "title": {
+        "fr-FR": "7. L’Anneau de Gygès"
+      }
+    },
+    {
+      "id": "fable-08",
+      "title": {
+        "fr-FR": "8. Voyage dans l’île des Plaisirs"
+      }
+    },
+    {
+      "id": "fable-09",
+      "title": {
+        "fr-FR": "9. La patience et l’éducation corrigent bien des défauts"
+      }
+    },
+    {
+      "id": "fable-10",
+      "title": {
+        "fr-FR": "10. Le Hibou"
+      }
+    },
+    {
+      "id": "fable-11",
+      "title": {
+        "fr-FR": "11. L’Abeille et la Mouche"
+      }
+    },
+    {
+      "id": "fable-12",
+      "title": {
+        "fr-FR": "12. Le Renard puni de sa curiosité"
+      }
+    },
+    {
+      "id": "fable-13",
+      "title": {
+        "fr-FR": "13. Les deux Renards"
+      }
+    },
+    {
+      "id": "fable-14",
+      "title": {
+        "fr-FR": "14. Le Dragon et les Renards"
+      }
+    },
+    {
+      "id": "fable-15",
+      "title": {
+        "fr-FR": "15. Le Loup et le jeune Mouton"
+      }
+    },
+    {
+      "id": "fable-16",
+      "title": {
+        "fr-FR": "16. Le Chat et les Lapins"
+      }
+    },
+    {
+      "id": "fable-17",
+      "title": {
+        "fr-FR": "17. Le Lièvre qui fait le brave"
+      }
+    },
+    {
+      "id": "fable-18",
+      "title": {
+        "fr-FR": "18. Le Singe"
+      }
+    },
+    {
+      "id": "fable-19",
+      "title": {
+        "fr-FR": "19. Les deux Souris"
+      }
+    },
+    {
+      "id": "fable-20",
+      "title": {
+        "fr-FR": "20. Le Pigeon puni de son inquiétude"
+      }
+    },
+    {
+      "id": "fable-21",
+      "title": {
+        "fr-FR": "21. Le jeune Bacchus et le Faune"
+      }
+    },
+    {
+      "id": "fable-22",
+      "title": {
+        "fr-FR": "22. Le Nourrisson des Muses favorisé du soleil"
+      }
+    },
+    {
+      "id": "fable-23",
+      "title": {
+        "fr-FR": "23. Aristée et Virgile"
+      }
+    },
+    {
+      "id": "fable-24",
+      "title": {
+        "fr-FR": "24. Le Rossignol et la Fauvette"
+      }
+    },
+    {
+      "id": "fable-25",
+      "title": {
+        "fr-FR": "25. Le départ de Lycon"
+      }
+    },
+    {
+      "id": "fable-26",
+      "title": {
+        "fr-FR": "26. Chasse de Diane"
+      }
+    },
+    {
+      "id": "fable-27",
+      "title": {
+        "fr-FR": "27. Les Abeilles et les Vers à Soie"
+      }
+    },
+    {
+      "id": "fable-28",
+      "title": {
+        "fr-FR": "28. L’Assemblée des animaux pour choisir un roi"
+      }
+    },
+    {
+      "id": "fable-29",
+      "title": {
+        "fr-FR": "29. Les deux Lionceaux"
+      }
+    },
+    {
+      "id": "fable-30",
+      "title": {
+        "fr-FR": "30. Les Abeilles"
+      }
+    },
+    {
+      "id": "fable-31",
+      "title": {
+        "fr-FR": "31. Le Nil et le Gange"
+      }
+    },
+    {
+      "id": "fable-32",
+      "title": {
+        "fr-FR": "32. Prière indiscrète de Nélée, petit-fils de Nestor"
+      }
+    },
+    {
+      "id": "fable-33",
+      "title": {
+        "fr-FR": "33. Histoire d’Alibée, Persan"
+      }
+    },
+    {
+      "id": "fable-34",
+      "title": {
+        "fr-FR": "34. Le berger Cléobule et la nymphe Phidile"
+      }
+    },
+    {
+      "id": "fable-35",
+      "title": {
+        "fr-FR": "35. Les Aventures de Mélésichthon"
+      }
+    },
+    {
+      "id": "fable-36",
+      "title": {
+        "fr-FR": "36. Les Aventures d’Aristonoüs"
+      }
+    }
+  ]
+}

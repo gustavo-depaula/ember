@@ -1,0 +1,5 @@
+# 15. Le Loup et le jeune Mouton
+
+Des moutons étaient en sûreté dans leur parc ; les chiens dormaient ; et le berger, à l’ombre d’un grand ormeau, jouait de la flûte avec d’autres bergers voisins. Un loup affamé vint, par les fentes de l’enceinte, reconnaître l’état du troupeau. Un jeune mouton sans expérience, et qui n’avait jamais rien vu, entra en conversation avec lui : Que venez-vous chercher ici ? dit-il au glouton. L’herbe tendre et fleurie, lui répondit le loup. Vous savez que rien n’est plus doux que de paître dans une verte prairie émaillée de fleurs, pour apaiser sa faim, et d’aller éteindre sa soif dans un clair ruisseau : j’ai trouvé ici l’un et l’autre : que faut-il davantage ? J’aime la philosophie qui enseigne à se contenter de peu. Est-il donc vrai, repartit le jeune mouton, que vous ne mangez point la chair des animaux, et qu’un peu d’herbe vous suffit ? Si cela est, vivons comme frères, et paissons ensemble. Aussitôt le mouton sort du parc dans la prairie où le sobre philosophe le mit en pièces et l’avala.
+
+Défiez-vous des belles paroles des gens qui se vantent d’être vertueux. Jugez-en par leurs actions, et non par leurs discours.

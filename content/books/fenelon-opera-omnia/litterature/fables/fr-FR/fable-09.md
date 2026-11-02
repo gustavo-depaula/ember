@@ -1,0 +1,5 @@
+# 9. La patience et l’éducation corrigent bien des défauts
+
+Une ourse avait un petit ours qui venait de naître. Il était horriblement laid. On ne reconnaissait en lui aucune figure d’animal : c’était une masse informe et hideuse. L’ourse, toute honteuse d’avoir un tel fils, va trouver sa voisine la corneille, qui faisait un grand bruit par son caquet sous un arbre. Que ferais-je, lui dit-elle, ma bonne commère, de ce petit monstre ? j’ai envie de l’étrangler. Gardez-vous-en bien, dit la causeuse : j’ai vu d’autres ourses dans le même embarras que vous. Allez : léchez doucement votre fils ; il sera bientôt joli, mignon, et propre à vous faire honneur. La mère crut facilement ce qu’on lui disait en faveur de son fils. Elle eut la patience de le lécher longtemps. Enfin il commença à devenir moins difforme, et elle alla remercier la corneille en ces termes : Si vous n’eussiez modéré mon impatience, j’aurais cruellement déchiré mon fils, qui fait maintenant tout le plaisir de ma vie.
+
+Oh ! que l’impatience empêche de biens, et cause de maux !
