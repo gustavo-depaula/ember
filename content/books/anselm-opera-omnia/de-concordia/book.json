@@ -1,0 +1,228 @@
+{
+  "id": "anselm-de-concordia",
+  "cover": "classic",
+  "name": {
+    "la": "De concordia praescientiae et praedestinationis et gratiae Dei cum libero arbitrio",
+    "en-US": "On the Harmony of Foreknowledge, Predestination and Grace with Free Will",
+    "pt-BR": "Sobre a concordância da presciência, da predestinação e da graça com o livre-arbítrio"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Anselmi ultimum opus: de concordia praescientiae, praedestinationis et gratiae Dei cum libero arbitrio, in tribus quaestionibus. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s last treatise, in three questions: how God’s foreknowledge, predestination and grace are reconciled with the freedom of the will. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR, with the chapter summaries.",
+    "pt-BR": "O último tratado de Anselmo, em três questões: como a presciência, a predestinação e a graça de Deus se conciliam com a liberdade da vontade."
+  },
+  "composed": "1107-1108",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-concordia",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10609",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10609, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prooemium",
+      "title": {
+        "la": "Prooemium"
+      }
+    },
+    {
+      "id": "quaestio-1",
+      "title": {
+        "la": "Quaestio I. De concordia praescientiae dei cum libero arbitrio"
+      },
+      "children": [
+        {
+          "id": "q1-c01",
+          "title": {
+            "la": "Caput I. Non repugnat Dei praescientia libertati arbitrii; quia Deus praescit esse libere futurum, quod aliunde non est ex necessitate futurum"
+          }
+        },
+        {
+          "id": "q1-c02",
+          "title": {
+            "la": "Caput II. Quomodo necesse sit rem esse futuram quando Deus praescit eam esse futuram; et tamen voluntatem liberam manere: et de duplici necessitate"
+          }
+        },
+        {
+          "id": "q1-c03",
+          "title": {
+            "la": "Caput III. Quod libere futura, non sint necessaria necessitate praecedente, sed sequente"
+          }
+        },
+        {
+          "id": "q1-c04",
+          "title": {
+            "la": "Caput IV. Si praescientia Dei necessitatem ingerit rebus quas praescit; ipse nihil facit ex libertate, sed omnia ex necessitate"
+          }
+        },
+        {
+          "id": "q1-c05",
+          "title": {
+            "la": "Caput V. Quod multa in Scripturis dicuntur necessaria et immutabilia, per comparationem ad aeternitatem; quae in tempore sunt libera, et possent non esse"
+          }
+        },
+        {
+          "id": "q1-c06",
+          "title": {
+            "la": "Caput VI. De libertate ad ea quae sunt salutis hic quaeritur ubi, et quae sit"
+          }
+        },
+        {
+          "id": "q1-c07",
+          "title": {
+            "la": "Caput VII. An Dei praescientia sit a rebus: et an res sint ab ejus scientia. Et quomodo mala sint a Deo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quaestio-2",
+      "title": {
+        "la": "Quaestio II. De concordia praedestinationis cum libero arbitrio"
+      },
+      "children": [
+        {
+          "id": "q2-prooemium",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "q2-c01",
+          "title": {
+            "la": "Caput I. Ratio dubitandi circa libertatis et praedestinationis concordiam"
+          }
+        },
+        {
+          "id": "q2-c02",
+          "title": {
+            "la": "Caput II. Praedestinatio non solum bonorum est, sed et malorum potest dici"
+          }
+        },
+        {
+          "id": "q2-c03",
+          "title": {
+            "la": "Caput III. Praedestinatio cum libertate conciliatur eodem modo quo praescientia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "quaestio-3",
+      "title": {
+        "la": "Quaestio III. De concordia gratiae et liberi arbitrii"
+      },
+      "children": [
+        {
+          "id": "q3-prooemium",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "q3-c01",
+          "title": {
+            "la": "Caput I. Proponitur difficultas ex Scripturis circa gratiae et libertatis concordiam"
+          }
+        },
+        {
+          "id": "q3-c02",
+          "title": {
+            "la": "Caput II. De libertate arbitrii, sine qua salutem nemo meretur; et de gratia, sine qua nullus salvatur homo, hic agitur"
+          }
+        },
+        {
+          "id": "q3-c03",
+          "title": {
+            "la": "Caput III. Rectitudo, qua salutem consequimur, nonnisi per gratiam obtinetur"
+          }
+        },
+        {
+          "id": "q3-c04",
+          "title": {
+            "la": "Caput IV. Eadem rectitudo nonnisi per gratiam conservatur"
+          }
+        },
+        {
+          "id": "q3-c05",
+          "title": {
+            "la": "Caput V. Elucidantur Scripturae, quae soli gratiae, et quae soli libertati salutem tribuere videntur"
+          }
+        },
+        {
+          "id": "q3-c06",
+          "title": {
+            "la": "Caput VI. Quomodo non sit supervacaneum homines ad fidem, et ad ea quae fides exigit, invitare"
+          }
+        },
+        {
+          "id": "q3-c07",
+          "title": {
+            "la": "Caput VII. Quod juste arguantur qui invitati reluctantur; quamvis sequi invitationem nequeant absque gratia"
+          }
+        },
+        {
+          "id": "q3-c08",
+          "title": {
+            "la": "Caput VIII. Quod omnis culpa et culpabilis impotentia in renatis per baptismum deleantur"
+          }
+        },
+        {
+          "id": "q3-c09",
+          "title": {
+            "la": "Caput IX. Cur peccato deleto, effectus ejus remaneat: et cur baptizati, atque martyres, non statim incorruptibiles fiant"
+          }
+        },
+        {
+          "id": "q3-c10",
+          "title": {
+            "la": "Caput X. Quod si qui nitentes non proficiunt aut deficiunt, hoc non ex impossibilitate fiat"
+          }
+        },
+        {
+          "id": "q3-c11",
+          "title": {
+            "la": "Caput XI. Quo sensu in homine justo vel injusto sit voluntas recte vivendi"
+          }
+        },
+        {
+          "id": "q3-c12",
+          "title": {
+            "la": "Caput XII. Quod ex voluntate rectitudinis aut commodi procedat omne meritum hominis, sive ad salutem, sive ad damnationem"
+          }
+        },
+        {
+          "id": "q3-c13",
+          "title": {
+            "la": "Caput XIII. Unde est tam vitiosa et tam prona ad malum voluntas"
+          }
+        },
+        {
+          "id": "q3-c14",
+          "title": {
+            "la": "Caput XIV. Recapitulatio, et conclusio operis"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1958 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De concordia praescientiae et praedestinationis</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DeCoPrE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De concordia praescientiae et praedestinationis</head>
+
+<pb n="0507A"/>
+<p>De tribus illis quaestionibus, in quibus Dei praescientiae
+atque praedestinationi nec non et gratiae liberum
+arbitrium repugnare videtur, quod mihi Deus
+dignabitur aperire, curabo, ipso adjuvante, scribendo
+ostendere.</p>
+</div1>
+
+<div1>
+        <head> <emph>123</emph> QUAESTIO I. DE CONCORDIA PRAESCIENTIAE DEI CUM LIBERO ARBITRIO.</head>
+<div2>
+          <head>CAP. I.-- <hi>Non repugnat Dei praescientia libertati arbitrii; quia Deus praescit esse libere futurum, quod aliunde non est ex necessitate futurum</hi>.</head>
+<p>Videntur quidem praescientia Dei et liberum
+arbitrium repugnare; quoniam ea quae Deus praescit,
+necesse est esse futura, et quae per liberum
+<pb n="0507B"/>
+arbitrium fiunt, nulla necessitate proveniunt; sed si
+repugnant, impossibile est simul et praescientiam
+Dei esse, quae omnia praevidet, et aliquid per libertatem
+arbitrii fieri. Quae impossibilitas si abesse intelligitur;
+repugnantia, quae videtur inesse, penitus removetur.
+Ponamus itaque simul esse et praescientiam
+Dei, quam sequi necessitas futurarum rerum videtur;
+et libertatem arbitrii per quam multa sine ulla
+necessitate fieri creduntur, et videamus
+utrum impossibile sit haec duo simul esse. Quod si
+<pb n="0507C"/>
+est impossibile, oritur inde aliud impossibibile:
+impossibile siquidem est, quo posito aliud impossibile
+sequitur. Sed si aliquid est futurum sine necessitate,
+<pb n="0508A"/>
+hoc ipsum praescit Deus, qui praescit omnia futura;
+quod autem praescit Deus, necessitate futurum
+est, sicut praescitur: necesse est itaque aliquid esse
+futurum sine necessitate. Nequaquam ergo recte intelligenti
+hic repugnare videntur praescientia
+quam sequitur necessitas, et libertas arbitrii a qua
+removetur necessitas: quoniam et necesse est quod
+Deus praescit futurum esse, et Deus praescit aliquid
+esse futurum sine omni necessitate. Sed dices
+mihi: Non removet tamen a me necessitatem peccandi,
+vel non peccandi; quoniam Deus praescit me
+peccaturum, vel non peccaturum: et ideo necesse est
+me peccare, si pecco; vel non peccare, si non pecco.
+Ad quod ego: Non debes dicere, Praescit me Deus
+peccaturum tantum, vel non peccaturum; sed,
+<pb n="0508B"/>
+praescit me Deus peccaturum sine necessitate, vel
+non peccaturum: et ita sequitur quia sive peccaveris,
+sive non peccaveris, utrumque sine necessitate
+erit; quia praescit Deus futurum esse sine necessitate
+hoc quod erit. Vides igitur non esse impossibile simul
+esse praescientiam Dei, per quam futura, quae
+praescit, dicuntur esse ex necessitate; et libertatem
+arbitrii, per quam multa fiunt sine necessitate. Si enim
+est impossibile, sequitur aliquid impossibile, sed
+nulla nascitur ex hoc impossibilitas. Forsitan dicis:
+<pb n="0508C"/>
+Nondum aufers a corde meo vim necessitatis, cum dicis
+quia necesse est me peccaturum esse, vel non
+peccaturum sine necessitate, quia hoc praescit Deus:
+<pb n="0509A"/>
+necessitas enim videtur sonare coactionem vel prohibitionem.
+Quare si necesse est me peccare ex voluntate,
+intelligo me cogi aliqua occulta vi ad voluntatem
+peccandi; et si non pecco, a peccandi
+voluntate prohiberi. Quapropter necessitate videor
+mihi peccare, si pecco; vel non peccare, si non
+pecco.</p>
+</div2>
+
+<div2>
+          <head>CAP. II.-- <hi>Quomodo necesse sit rem esse futuram quando Deus praescit eam esse futuram; et tamen voluntatem liberam manere: et de duplici necessitate</hi>.</head>
+<p>Ergo sciendum est quia saepe dicimus necesse
+esse quod nulla vi esse cogitur, et necesse non esse
+quod nulla prohibitione removetur. Nam dicimus,
+necesse est Deum immortalem esse, et necesse est
+<pb n="0509B"/>
+Deum non esse injustum; non quod vis aliqua cogat
+eum esse immortalem, aut prohibeat esse injustum,
+sed quoniam nulla res potest facere ut non sit
+immortalis, aut ut sit injustus. Sic itaque si dico,
+necesse est esse te peccaturum, vel non peccaturum
+sola voluntate, sicut Deus praescit, non est intelligendum
+quod aliquid prohibeat voluntatem quae non
+erit, aut cogat illam esse quae erit: hoc ipsum namque 
+praescit Deus, qui praevidet aliquid futurum ex
+sola voluntate, quod voluntas non cogitur, aut
+prohibetur ulla alia re; et sic ex libertate fit,
+quod fit ex voluntate. Si igitur haec diligenter intelliguntur,
+puto quia et praescientiam Dei et libertatem
+arbitrii simul esse nulla prohibet inconvenientia.
+Denique si quis intellectum verbi proprie considerat,
+<pb n="0509C"/>
+hoc ipso quod praesciri aliquid dicitur, futurum
+esse pronuntiatur: non enim nisi quod futurum
+est praescitur, quia scientia non est nisi veritatis.
+Quare cum dico quia si praescit Deus aliquid, <emph>124</emph> 
+ necesse est illud esse futurum; idem est, ac si
+dicam: Si erit, ex necessitate erit; sed haec necessitas
+non cogit, nec prohibet aliquid esse, aut
+non esse. Ideo enim quia ponitur res esse, dicitur
+ex necessitate esse; aut quia ponitur non esse,
+affirmatur non esse ex necessitate; non quia
+necessitas cogat aut prohibeat rem esse, aut non
+esse. Nam cum dico: Si erit, necessitate erit; hic
+sequitur necessitas rei positionem, non praecedit.
+Idem valet, si sic pronuntietur: Quod erit, ex
+necessitate erit. Non enim aliud significat haec necessitas
+<pb n="0509D"/>,
+nisi quia quod erit non poterit simul non
+esse. Pariter autem verum est quia fuit, et est, et
+<pb n="0510A"/>
+erit aliquid, non ex necessitate, et quia necesse est
+fuisse omne quod fuit, et esse quod est et futurum
+esse quod erit. Quippe non est idem rem esse praeteritam,
+et rem praeteritam esse praeteritam; aut
+rem esse praesentem, et rem praesentem esse praesentem;
+aut rem esse futuram, et rem futuram esse futuram,
+sicut non est idem rem esse albam, et rem
+albam esse albam. Lignum enim non est semper necessitate
+album, quia aliquando priusquam fierit album,
+potuit non fieri album; et postquam est album
+potest fieri non album: lignum vero album, semper
+necesse est esse album; quia nec antequam sit, nec
+postquam est album, fieri potest ut album simul sit
+non album. Similiter res non necessitate est praesens;
+quoniam antequam esset praesens, potuit fieri
+<pb n="0510B"/>
+ut praesens non esset; et postquam est praesens,
+potest fieri non praesens. Rem autem praesentem
+necesse est esse praesentem semper; quia nec prius
+quam sit, nec postquam est praesens, potest praesens
+simul esse non praesens. Eodem modo res aliqua,
+ut quaedam actio, non necessitate futura est;
+quia, priusquam sit, fieri potest ut non sit futura:
+rem vero futuram necesse est esse futuram; quoniam
+futurum nequit esse simul non futurum.
+De praeterito autem similiter verum est quia res aliqua
+non est necessitate praeterita; quoniam, antequam
+esset, potuit fieri ut non esset: et quia praeteritum
+semper necesse est esse praeteritum; quoniam
+non potest simul non esse praeteritum. Sed
+in re praeterita est quiddam, quod non est in re praesenti
+<pb n="0510C"/>
+vel futura. Nunquam enim fieri potest ut res,
+quae praeterita est, fiat non praeterita: sicut res quaedam,
+quae praesens est, potest fieri non praesens; et
+aliqua res, quae non necessitate futura est, potest
+fieri ut non sit futura. Itaque, cum dicitur futurum
+de futuro, necesse est esse quod dicitur; quia futurum
+nunquam est non futurum: sicut quoties idem
+dicimus de eodem. Cum enim dicimus quia omnis
+homo est homo, aut si est homo homo est; aut omne
+album est album, et si est album album est: necesse
+est esse quod dicitur, quia non potest aliquid
+simul esse et non esse. Quippe si non est necesse
+omne futurum esse futurum; quoddam futurum
+non est futurum: quod est impossibile. Necessitate
+ergo omne futurum, futurum est; et si est futurum,
+<pb n="0510D"/>
+futurum est, cum futurum dicitur de futuro: sed
+ necessitate sequente, quae nihil esse cogit.
+<pb n="0511A"/>
+          </p>
+</div2>
+
+<div2>
+          <head>CAP. III.-- <hi>Quod libere futura, non sint necessaria necessitate praecedente, sed sequente</hi>.</head>
+<p>Cum autem futurum dicitur de re, non semper
+res necessitate est, quamvis sit futura. Nam si dico: <hi>Cras seditio futura est in populo</hi>,
+non tamen necessitate
+erit seditio. Potest enim fieri, antequam sit, ut
+non fiat, etiamsi est futura. Aliquando vero
+est, ut res sit ex necessitate quae dicitur futura, ut
+si dico <hi>cras esse futurum ortum solis</hi>. Si ergo cum
+necessitate futurum pronuntio de re futura hoc
+modo, seditio cras futura, necessitate futura est;
+aut, ortus solis cras futurus, necessitate futurus
+est: seditio quidem, quae non erit ex necessitate,
+sola sequenti necessitate futura asseritur; quia futura
+de futura dicitur: si enim cras futura est, necessitate
+futura est: ortus vero solis duabus necessitatibus
+<pb n="0511B"/>
+futurus intelligitur, scilicet et praecedenti
+quae facit rem esse, ideo enim erit quia necesse
+est ut sit; et sequenti, quae nihil cogit esse,
+quoniam idcirco necessitate futurus est, quia futurus
+est. Quapropter, cum dicimus quia quod Deus
+praescit futurum, necesse est esse futurum, non asserimus
+ semper rem esse necessitate futuram;
+sed rem futuram, necessitate esse futuram. Non
+enim potest futurum simul non esse futurum. Idem
+sensus est, si sic dicitur: <hi>Si Deus praescit aliquid</hi>,
+non addendo <hi>futurum</hi>; quoniam <hi>in praescire</hi> intelligitur <hi>futurum</hi>.
+Nam non est aliud praescire quam scire futurum;
+et ideo si praescit Deus aliquid, necesse est illud
+esse futurum. Non ergo semper sequitur praescientiam
+<pb n="0511C"/>
+Dei, rem necessitate futuram esse; quoniam, quamvis
+omnia futura praesciat, non tamen praescit cuncta
+futura necessitate, sed quaedam praescit ex libera
+rationalis creaturae voluntate futura. Notandum
+quippe est quia, sicut necesse non est Deum velle
+quod vult; ita necesse est in multis velle hominem
+quod vult; et, sicut necesse est esse, quidquid
+Deus vult; ita necesse est esse, quod vult homo
+in his, quae Deus ita subdit humanae voluntati, ut
+ si vult fiant, si non vult non fiant. Quoniam enim
+quod Deus vult, non potest non esse; cum vult hominis
+voluntatem nulla cogi vel prohiberi necessitate
+ad volendum; vel ad non volendum, et vult effectum
+sequi voluntatem; tunc necesse est voluntatem
+esse liberam, et esse quod vult. In hujusmodi
+<pb n="0511D"/>
+ergo verum est quia necessitate sit opus peccati,
+quod vult homo facere; quamvis non necessitate
+velit. Quod si quaeritur de peccato ipsius voluntatis,
+cum peccat volendo, utrum sit necessitate, respondendum
+est quia sicut non vult necessitate, ita non
+est peccatum voluntatis necessitate. Nec necessitate.
+operatur eadem voluntas; quia si non vellet
+<pb n="0512A"/>
+sponte, non operaretur, quamvis quod facit, necesse
+sit fieri, ut supra dixi. Nam, quoniam non est aliud
+ibi peccare, quam velle quod non debet; ita non est
+peccatum voluntatis necessarium, sicut velle non
+est necessarium: tamen verum est quia si vult homo
+peccare, necesse est eum peccare; sed ea necessitate
+quam supra dixi <note>(cap. 2)</note> nihil cogere aut prohibere.
+Itaque quod vult libera voluntas, et potest et
+non potest non velle, et necesse est eam velle.
+Potest namque non velle antequam velit, quia libera
+est; et cum jam vult, non potest non velle, sed
+eam velle necesse est; quoniam impossibile ille est
+idipsum simul et velle et non velle. Opus vero voluntatis,
+cui datum est ut quod vult sit, et quod non vult
+non sit, voluntarium sive spontaneum est; quoniam
+<pb n="0512B"/>
+spontanea voluntate fit: et bifariam est necessarium,
+quia et voluntate cogitur fieri, et quod fit non
+potest simul non fieri. Sed has necessitates facit
+voluntatis libertas, quae, priusquam sint, eas cavere
+potest. Haec omnia Deus, qui scit omnem veritatem
+et nonnisi veritatem, sicut sunt spontanea vel necessaria,
+videt, et sicut videt, ita sunt. Hac ergo consideratione
+palam est quia sine omni repugnantia, et Deus
+praescit omnia, et multa fiunt ex libera voluntate,
+quae, antequam sint, fieri potest ut nunquam
+sint; et tamen quodammodo sunt necessitate:
+quae necessitas, ut dixi, descendit de libera voluntate.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV.-- <hi>Si praescientia Dei necessitatem ingerit rebus quas praescit; ipse nihil facit ex libertate, sed omnia ex necessitate</hi>.</head>
+<p>Cognosci potest etiam non omnia quae praescit
+Deus esse ex necessitate, sed quaedam fieri ex libertate
+voluntatis; quia, cum vult aut facit Deus
+aliquid, sive secundum aeternitatis dicatur immutabilem
+praesentiam, in qua nihil est praeteritum aut <emph>125</emph> 
+ futurum, sed omnia simul sunt sine omni motu;
+ut, si dicimus quia non voluit aut volet, nec fecit aut
+faciet aliquid, sed tantum vult et facit; sive
+secundum tempus velut cum proferimus quia volet aut
+faciet quod nondum factum esse cognoscimus: negari
+nequit scire quae vult et facit, et praescire quae volet
+atque faciet. Quare si scire atque praescire Dei necessitatem
+ingerit omnibus, quae scit aut praescit; nihil
+<pb n="0512D"/>
+secundum aeternitatem aut secundum ullum tempus,
+vult aut faciet ipse ex libertate, sed omnia ex necessitate:
+quod si absurdum est vel opinari, non
+necessitate est aut non est, omne quod scit Deus
+aut praescit esse vel non esse. Ergo nihil prohibet
+aliquid sciri vel praesciri ab illo in nostris voluntatibus
+et actionibus fieri, aut futurum esse per liberum
+<pb n="0513A"/>
+arbitrium: ut, quamvis necesse sit esse quod
+scit aut praescit, tamen multa fiant nulla necessitate,
+sed libera voluntate, quemadmodum supra monstravi
+<note>(cap. 1)</note>. Nempe quid mirum, si hoc modo aliquid
+est ex libertate et ex necessitate, cum multa
+sint quae recipiunt opposita diversa ratione?
+Quae namque magis opposita sunt, quam adire et
+abire? Videmus tamen, cum transit aliquis de loco
+ad locum, quia idem ire, est adire et abire. Abit
+enim de loco, et adit ad locum. Item: si consideremus
+solem sub aliqua parte coeli, cum semper
+coelum lustrando ad eamdem partem festinet, videmus
+quia idem locus est a quo recedit et ad quem accedit,
+et indesinenter ei eodem tempore appropinquat,
+a quo elongatur. Patet etiam cursum ejus non ignorantibus,
+<pb n="0513B"/>
+quia si coelum consideremus, semper
+transit ab occidentali parte ad orientalem. Si vero
+terram attendimus, nunquam nisi ab orientali ad
+occidentalem, et sic semper contra firmamentum
+vadit, et licet tardius, cum firmamento: quod ipsum
+in omnibus planetis cernitur. Ita ergo nulla oritur
+repugnantia, si secundum praedictas rationes asserimus
+idem aliquid esse necessitate futurum, quia
+est futurum; et nulla cogi necessitate esse futurum,
+nisi ea necessitate, quam supra dixi <note>(cap. 3)</note> fieri
+a libera voluntate.</p>
+</div2>
+
+<div2>
+          <head>CAP. V.-- <hi>Quod multa in Scripturis dicuntur necessaria et immutabilia, per comparationem ad aeternitatem; quae in tempore sunt libera, et possent non esse</hi>.</head>
+
+<pb n="0513C"/>
+<p>Si vero per hoc, quod de homine dicit Job Deo: <hi>Constituisti terminos ejus, qui praeteriri non poterunt <note>(Job. XIV, 5)</note>
+            </hi>,
+vult aliquis ostendere quia nullus
+potuit accelerare vel differre diem in qua moritur,
+quamvis aliquando nobis videatur aliquis facere ex
+libera voluntate unde moritur, non est quod
+objicitur contra hoc quod supra diximus. Nam, quoniam
+Deus non fallitur, nec videt nisi veritatem
+sive ex libertate sive ex necessitate eveniat, dicitur
+constituisse apud se immutabiliter quod apud
+hominem priusquam fiat mutari potest Tale
+etiam est quod Paulus apostolus de his, <hi>qui secundum
+propositum vocati sunt sancti</hi>, dicit: <hi>Quos
+praescit et praedestinavit conformes fieri imaginis Filii
+sui, ut sit ipse primogenitus in multis fratribus. Quos
+<pb n="0513D"/>
+autem praedestinavit, hos et vocavit; et quos vocavit,
+hos et justificavit; quos autem justificavit, illos et
+magnificavit <note>(Rom. VIII, 28-30)</note>
+            </hi>. Hoc quippe propositum,
+secundum quod vocati sunt sancti, in aeternitate,
+in qua non est praeteritum vel futurum, sed
+tantum praesens, immutabile est; sed in ipsis hominibus
+<pb n="0514A"/>
+ex libertate arbitrii aliquando est mutabile.
+Sicut enim quamvis in aeternitate non fuit aut erit
+aliquid, sed tantum est, et tamen in tempore fuit et
+erit aliquid sine repugnantia; ita quod in aeternitate
+mutari nequit, in tempore aliquando per liberam
+voluntatem antequam sit, esse mutabile probatur
+absque inconvenientia: quamvis autem ibi nihil sit
+nisi praesens, non est tamen illud praesens temporale,
+sicut nostrum; sed aeternum, in quo tempora
+cuncta continentur. Siquidem, quemadmodum praesens
+tempus continet omnem locum et quae in quolibet
+loco sunt; ita aeterno praesenti simul clauditur
+omne tempus et quae sunt in quolibet tempore.
+Cum ergo ait Apostolus quia Deus praescit sanctos
+suos, praedestinavit, vocavit, justificavit, magnificavit,
+<pb n="0514B"/>
+nihil horum prius aut posterius apud Deum
+est; sed omnia simul aeterno praesenti sunt intelligenda.
+Habet enim aeternitas suum simul, in quo
+sunt omnia quae simul sunt loco vel tempore, et quae
+sunt diversis in locis vel temporibus. Ut autem
+ostenderet idem Apostolus non illa verba se pro
+temporali significatione posuisse; illa etiam, quae
+futura sunt, praeteriti temporis verbo pronuntiavit.
+Nondum enim quos praescivit adhuc nascituros, jam
+temporaliter vocavit, justificavit, magnificavit. Unde
+cognosci potest eum, propter indigentiam verbi
+significantis aeternam praesentiam, usum esse verbis
+praeteritae significationis; quoniam quae tempore
+praeterita sunt, ad similitudinem aeterni praesentis
+omnino immutabilia sunt. In hoc siquidem magis
+<pb n="0514C"/>
+similia sunt aeterno praesenti, temporaliter praeterita
+quam praesentia; quoniam quae ibi sunt, nunquam
+possunt non esse praesentia, sicut tempore praeterita
+non valent unquam praeterita non esse: praesentia
+vero tempore omnia quae transeunt, fiunt non
+praesentia. Hoc ergo modo quidquid de his, quae
+libero fiunt arbitrio, velut necessarium sacra Scriptura
+pronuntiat; secundum aeternitatem loquitur,
+in qua praesens est omne verum et nonnisi verum,
+immutabiliter, non secundum tempus, in quo
+non semper sunt voluntates et actiones nostrae: et,
+sicut dum non sunt, non est necesse eas esse; ita
+saepe non est necesse ut aliquando sint. Nam, non
+semper scribo aut volo scribere: et, sicut, dum
+non scribo aut non volo scribere, non est necesse
+<pb n="0514D"/>
+me scribere aut velle scribere; ita necesse non est
+ut aliquando scribam, vel velim scribere. Cum autem
+res tam aliter esse cognoscatur in tempore
+quam in aeternitate: ut aliquando verum sit quoniam
+aliquid non est in tempore, quod est in aeternitate;
+et quod fuit in tempore, quod ibi non fuit; et erit
+<pb n="0515A"/>
+temporaliter, quod ibi non erit: nulla ratione negari
+videtur similiter posse aliquid in tempore
+esse mutabile, quod ibi est immutabile. Quippe
+non magis opposita sunt, mutabile in tempore,
+et immutabile in aeternitate; quam non esse in
+aliquo tempore, et esse semper in aeternitate:
+et fuisse, vel futurum esse secundum tempus,
+atque non fuisse, vel non futurum esse in aeternitate.
+Siquidem non dico aliquid nunquam esse
+in tempore, quod semper est in aeternitate; sed
+tantum in aliquo tempore non esse. Non enim
+dico actionem meam crastinam nullo tempore esse;
+sed hodie tantum nego eam esse, quae tamen semper
+est in aeternitate. Et quando negamus fuisse vel
+futurum ibi esse aliquid, quod in tempore fuit aut
+<pb n="0515B"/>
+erit, non asserimus id quod fuit aut erit nullo modo
+ibi esse; sed tantum praeterito vel futuro modo dicimus
+non ibi esse, quod ibi indesinenter est, suo
+praesenti modo: in his vero nulla videtur adversari
+contrarietas. Sic utique sine ulla repugnantia dicitur
+aliquid esse mutabile in tempore antequam sit,
+quod in aeternitate manet immutabiliter, non antequam
+sit, vel postquam est; sed indesinenter,
+quia nihil est ibi secundum tempus. Nam hoc
+ipsum ibi est aeternaliter, quia temporaliter aliquid
+et est, et, antequam sit, potest non esse,
+sicut jam dixi. Sufficienter ex his, quae dicta sunt,
+puto patere quia praescientia Dei et liberum arbitrium
+nequaquam invicem repugnant: quod facit
+vis aeternitatis, quae claudit omne tempus et quae
+<pb n="0515C"/>
+sunt in quolibet tempore.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head> <emph>126</emph> CAP. VI.-- <hi>De libertate ad ea quae sunt salutis hic quaeritur ubi, et quae sit</hi>.</head>
+<p>Sed quoniam non in omnibus liberum habemus
+arbitrium, videndum est ubi, et quae sit illa libertas
+arbitrii quam semper habere creditur homo, et quid
+sit illud arbitrium. Non enim idem est arbitrium et
+libertas qua dicitur liberum. In multis dicitur libertas
+et arbitrium; ut cum aliquem dicimus libertatem
+habere loquendi, aut tacendi, et in ejus arbitrio
+esse quid horum velit. In pluribus quoque aliis similiter
+dicitur libertas et arbitrium, quae non semper
+adsunt, aut ad salutem animae nobis necessaria
+sunt. Pro illo autem arbitrio tantum, et pro illa
+<pb n="0515D"/>
+libertate ista ventilatur quaestio; sine quibus homo
+salvari nequit, postquam potest illis uti. Nam ideo
+conqueruntur multi quia putant ad salutem vel damnationem
+nihil valere liberum arbitrium; sed solam
+necessitatem propter Dei praescientiam. Quoniam
+ergo non salvatur homo, postquam ad intelligibilem
+<pb n="0516A"/>
+pervenit aetatem, sine sua justitia: ibi est investigandum
+hoc arbitrium, et haec libertas unde agitur,
+ubi sedes et justitiae. Primum itaque ostendenda est
+justitia; deinde ista libertas et istud arbitrium. Est
+quidem justitia quaelibet, magna vel parva, rectitudo
+voluntatis propter se servata. Libertas autem ista
+est potestas servandi rectitudinem voluntatis propter
+ipsam rectitudinem. Quas definitiones puto me
+apertis rationibus monstrasse: priorem quidem in
+tractatu <note>(cap. 12)</note>, quem feci de veritate; alterum
+vero in eo, quem edidi <note>(cap. 3, 13)</note> de hac ipsa libertate;
+in quo etiam ostensum est <note>(cap. 5)</note> quomodo
+naturaliter et inseparabiliter sit in homine haec
+libertas, quamvis non ea semper utatur; et <note>(cap. 6,
+7, 8)</note> quod sit ita fortis, ut nulla res homini rectitudinem
+<pb n="0516B"/>
+praedictam, id est justitiam, quam habet,
+valeat, quandiu hac libertate voluerit uti, auferre.
+Justa vero non est naturalis, sed fuit separabilis in
+principio et angelis in coelo, et hominibus in paradiso,
+et est adhuc in hac vita; non tamen necessitate,
+sed habentium illam propria voluntate.
+Sed quoniam justitiam, qua justus est aliquis, constat
+esse rectitudinem voluntatis, quam dixi: quae
+rectitudo tunc tantum est in aliquo, cum ipse vult
+quod Deus vult cum velle: patet quia Deus eamdem
+rectitudinem non potest invito auferre; quoniam
+non potest hoc velle. Sed neque velle potest ut
+eam habens, nolens ulla necessitate eam deserat,
+quippe vellet illum non velle, quod vult eum velle:
+quod esse nequit. Sequitur ergo Deum velle hoc
+<pb n="0516C"/>
+modo rectam voluntatem ad volendum recte et ad
+servandum eamdem rectitudinem esse liberam; quae
+quando potest quod vult, libere facit quod facit.
+Unde quoque apertissime cognosci potest aliquam
+esse liberam voluntatem cum actione sua,
+non repugnante Dei praescientia, sicut supra monstratum
+est. Ponamus nunc exemplum aliquod, in quo
+appareat et recta, id est justa voluntas et libertas
+arbitrii, et ipsum arbitrium; et quomodo recta
+voluntas impugnetur, ut deserat rectitudinem, et
+qualiter eam libero servet arbitrio. Habet aliquis in
+corde ut veritatem teneat, quia intelligit rectum
+esse amare veritatem. Hic utique rectam jam habet
+voluntatem et rectitudinem voluntatis. Aliud autem
+est voluntas; et aliud rectitudo, qua recta est. Accedit
+<pb n="0516D"/>
+alius; et, nisi mentiatur, minatur illi mortem.
+Videmus nunc in ejus esse arbitrio an deserat vitam
+pro rectitudine voluntatis; an rectitudinem, pro
+vita. Hoc arbitrium, quod et judicium dici potest,
+liberum est; quoniam ratio, qua intelligitur rectitudo,
+docet rectitudinem illam ejusdem rectitudinis
+<pb n="0517A"/>
+amore semper esse servandam; et quidquid obtenditur
+ut deseratur esse contemnendum; atque voluntatis
+est ut ipsa quoque reprobet ac eligat, quemadmodum
+rationis intellectus monstrat: ad hoc
+enim maxime datae sunt rationali creaturae voluntas
+et ratio. Quapropter idem voluntatis arbitrium, ut
+eamdem rectitudinem deserat, nulla cogitur necestitate,
+quamvis mortis impugnetur difficultate. Licet
+enim necesse sit aut vitam aut rectitudinem relinquere,
+nulla tamen necessitas determinat quam servet
+aut deserat. Nempe sola voluntas determinat ibi
+quid teneat, nec aliquid facit vis necessitatis, ubi
+operatur electio sola voluntatis. At cui non est deserendi
+rectitudinem voluntatis, quam habet, necessitas;
+palam est quia non deest servandi potestas
+<pb n="0517B"/>
+sive libertas. Semper enim haec potestas libera
+est. Haec est enim libertas, quam esse dixi <note>(Dial. de
+lib. arb. c. 3, 13)</note> potestatem servandi rectitudinem
+voluntatis, propter ipsam rectitudinem. Hac ipsa
+libertate rationalis naturae, et arbitrium liberum et
+voluntas libera dicitur.</p>
+
+
+<div2>
+          <head>CAP. VII.-- <hi>An Dei praescientia sit a rebus: et an res sint ab ejus scientia. Et quomodo mala sint a Deo</hi>.</head>
+<p>Restat nunc ut consideremus, cum Deus omnia
+praescire sive scire credatur, utrum ejus scientia
+sit a rebus, an res habeant esse ab ejus scientia.
+Nam, si Deus a rebus habet scientiam, sequitur quod
+illae prius sint quam ejus scientia, et sic a Deo non
+sint, a quo nequeunt esse nisi per ejus scientiam.
+<pb n="0517C"/>
+Si vero quaecunque sunt, a scientia Dei sumunt
+essentiam: Deus factor est auctor est malorum operum,
+et ideo non juste punit malos: quod
+non suscipimus. Haec autem quaestio facile solvi
+potest, si prius cognoscitur bonum, quod est justitia,
+vere aliquid esse; malum vero, quod est injustitia,
+omni carere existentia. Quod in tractatu <note>(cap. 9,
+10, 15, 16)</note> de casu diaboli, et in libello quem de
+conceptu virginali et peccato originali titulavi, apertissime
+monstravi. Non est enim injustitia
+qualitas, aut actio, aut aliqua essentia, sed tantum
+absentia debitae justitiae; nec est nisi in voluntate,
+ubi debet esse justitia. Per quam voluntatem justam
+vel injustam dicitur omnis rationalis natura, et
+quaelibet ejus actio justa vel injusta. Omnis quippe
+<pb n="0517D"/>
+qualitas, et omnis actio, et quidquid aliquam habet
+essentiam, a Deo est, a quo est omnis justitia et
+nulla injustitia: facit igitur Deus omnia quae justa
+vel injusta voluntate fiunt, id est bona opera et mala.
+In bonis quidem facit quod sunt, et quod bona sunt;
+<pb n="0518A"/>
+in malis vero facit quod sunt, sed non quod mala
+sunt. Nam omni rei esse justam vel bonam, est aliquid
+esse; nulli vero rei est esse aliquid, injustam
+vel malam esse. Siquidem bonum vel justum
+esse, est justitiam habere: quod est aliquid. Malum
+vero esse vel injustum, est non habere justitiam
+quam debet habere: quod non est aliquid. Justitia
+namque aliquid est; injustitia vero nihil, sicut dixi.
+Est autem aliud bonum, quod dicitur commodum,
+cujus contrarium est malum, quod est incommodum.
+Hoc malum aliquando nihil est, ut caecitas;
+aliquando est aliquid, ut dolor. Sed hoc malum, cum
+aliquid est, Deum facere non negamus; quia ipse
+est, sicut legitur, <hi>faciens pacem et creans malum <note>(Isa. XLV, 7)</note>
+            </hi>.
+Ipse namque creat incommoda, quibus
+<pb n="0518B"/>
+exercet et purgat justos, et punit injustos. Itaque
+de illo tantum malo, quod est injustitia, per
+quam dicitur injustum, certum est quia nunquam
+est aliquid; nec alicui rei est esse aliquid, injustam
+esse. Et, sicut Deus non facit injustitiam, ita non
+facit aliquid injustum esse: qui tamen facit omnes
+actiones et omnes motus, quia ipse facit res
+a quibus, et ex quibus, et per quas, et in
+quibus fiunt; et nulla res habet ullam potestatem
+volendi aut faciendi, nisi illo dante. Ipsum
+quoque velle, quod aliquando justum est, aliquando
+injustum, nec est aliud quam uti potestate
+volendi et voluntate, quas Deus dat, inquantum est, <emph>127</emph> 
+ bonum est, et a Deo est. Quod tunc quidem
+quando recte est, bonum et justum est; quando
+<pb n="0518C"/>
+vero non recte, hoc solo quia non recte est, malum
+est et injustum. Est autem aliquid recte esse, et hoc
+est a Deo; non esse vero recte, non est aliquid, nec
+est a Deo. Nam, sicut cum aliquis utitur gladio, aut
+lingua, aut potestate loquendi, non est aliud gladius,
+aut lingua, sive potestas cum rectus est eorum
+usus, aliud, cum non est rectus; ita voluntas
+qua utimur ad volendum, sicut ratione utimur ad
+ratiocinandum, non est aliud quando quis illa recte
+utitur, et aliud quando non recte; nec magis nec
+minus est hoc quod est essentialiter, cum est justa,
+quam cum injusta est voluntas, per quam dicitur
+aut substantia aut actio justa vel injusta. Sic, itaque
+facit Deus in omnibus voluntatibus et operibus bonis,
+et quod essentialiter sunt, et quod bona sunt;
+<pb n="0518D"/>
+in malis vero non quod mala sunt, sed tantum quod
+per essentiam sunt. Quemadmodum enim non est
+essentia rerum, nisi a Deo; ita non est recta,
+nisi ab ipso. Hujus vero rectitudinis, de qua
+loquor, absentia, quae est injustitia, non est nisi in
+<pb n="0519A"/>
+volu tate rationalis creaturae, quae semper debet habere
+justitiam. Cur autem non habeat, quam semper
+debet habere: et quomodo Deus bona faciat, sola sua
+bonitate, et mala sola culpa hominis vel diaboli;
+et qualiter homo bona faciat per liberum arbitrium,
+praesulante gratia, et malum sola sua operante propria
+voluntate; et quid habeat Deus in malis, sine
+culpa sua, et bomo in honis, cum laude sua; ut
+tamen bona hominis videantur aperte imputanda
+Deo, et mala homini: cum de gratia et libero arbitrio
+tractabimus, ut puto Deo donante, apertius
+patebit. Nunc autem tantum dico quod malus angelus
+ideo justitiam non habet, quia eam deseruit,
+nec postea recepit; homo vero idcirco illa caret,
+quia in primis parentibus eam abjecit, postea aut
+<pb n="0519B"/>
+non illam recepit, aut receptam rejecit. Puto quia,
+gratia Dei adjuvante, monstravimus quod praescientiam
+Dei et liberum arbitrium simul esse, si diligenter
+considerentur quae diximus, non sit impossibile,
+neque possit aliquid objici quod non sit dissolubile.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>QUAESTIO II. DE CONCORDIA PRAEDESTINATIONIS CUM LIBERO ARBITRIO.</head>
+<p>Nunc ergo in eo sperantes, qui huc usque nos
+perduxit, discordiam quae inter praedestinationem
+et liberum arbitrium videtur esse, aggrediamur dissolvere.
+Ad quod per ea quae supra disseruimus,
+sicut in sequentibus patebit, non parum profecimus.</p>
+
+
+<div2>
+          <head>CAP. I [ <hi>al</hi>. VIII].-- <hi>Ratio dubitandi circa libertatis et praedestinationis concordiam</hi>.</head>
+
+<pb n="0519C"/>
+<p>Praedestinatio videtur idem esse quod praeordinatio,
+sive praestitutio: et ideo quod Deus praedestinare
+dicitur, intelligitur praeordinare: quod est
+statuere futurum esse. Quod autem Deus statuit futurum
+esse, necessitate videtur futurum esse; quare
+quidquid Deus praedestinat, necesse est futurum esse.
+Si ergo Deus praedestinat bona et mala quae fiunt,
+nihil fit per liberum arbitrium; sed omnia ex necessitate.
+At, si tantum bona praedestinat, sola bona sunt
+ex necessitate, nec est liberum arbitrium nisi ad mala:
+quod nimis est absurdum. Non ergo sola bona praedestinat
+Deus. Si autem bona quaedam opera facit liberum
+arbitrium, per quae fiunt justi absque praedestinatione,
+non praedestinat Deus omnia bona opera,
+quae justos faciunt, quare nec illos justos, qui sunt
+<pb n="0519D"/>
+per opera liberi arbitrii. Non ergo praescivit Deus
+eos; quia <hi>quos praescivit hos et praedestinavit <note>(Rom.
+VIII, 29)</note>
+            </hi>. Sed falsum est Deum non praescire aliqua
+bona opera, aut aliquos justos. Non igitur quaedam
+solius liberi arbitrii opera bona justificant, sed
+illa sola quae Deus praedestinat. Si ergo Deus praedestinat
+<pb n="0520A"/>
+omnia, et praedestinata sunt ex necessitate,
+cum nihil per liberum arbitrium necessitate fiat, sequi
+videtur nihil esse liberum arbitrium, manente
+praedestinatione; aut si statuimus in aliquibus liberum
+arbitrium, perire in illis praedestinationem.</p>
+</div2>
+
+<div2>
+          <head>CAP. II [ <hi>al</hi>. IX].-- <hi>Praedestinatio non solum bonorum est, sed et malorum potest dici</hi>.</head>
+<p>In primis itaque ante quaestionis responsionem,
+videndum est quia praedestinatio non solum bonorum
+est, sed et malorum potest dici: quemadmodum
+Deus mala quae non facit, dicitur facere, quia permittit.
+Nam, dicitur hominem indurare cum non
+emollit, ac inducere in tentationem cum non liberat.
+Non est ergo inconveniens si hoc modo dicimus
+Deum praedestinare malos, et eorum mala opera,
+<pb n="0520B"/>
+quando eos et eorum mala opera non corrigit.
+Sed bona specialius praescire, et praedestinare
+dicitur, quia in illis facit quod sunt, et quod
+bona sunt; in malis autem nonnisi quod sunt essentialiter,
+non quod mala sunt; ut supra dictum est <note>(quaest. I, cap. 7)</note>.
+Sciendum quoque est quia sicut
+praescientia non in Deo dicitur proprie; ita nec praedestinatio,
+quia illi nec <hi>ante</hi>, nec <hi>post</hi> aliquid est, sed
+omnia sunt illi simul praesentia.</p>
+</div2>
+
+<div2>
+          <head>CAP. III. [ <hi>al</hi>. X].-- <hi>Praedestinatio cum libertate conciliatur eodem modo quo praescientia</hi>.</head>
+<p>Consideremus nunc an aliqua possint praedestinari,
+per liberum arbitrium futura. Dubitari utique
+ non debet quia ejus praedestinatio, et praescientia
+non discordat; sed sicut praescit, ita quoque praedestinat.
+<pb n="0520C"/>
+In quaestione de praescientia cognovimus aperte
+aliqua praesciri futura per liberum arbitrium, sine
+omni repugnantia. Unde veritas quoque evidens, et
+ratio docet praedestinari similiter per liberum arbitrium
+quaedam futura, absque omni inconvenientia.
+Nam neque praescit Deus, neque praedestinat quemquam
+justum futurum ex necessitate. Non enim
+habet justitiam, qui eam non servat libera voluntate.
+Pariter igitur, quamvis necesse sit fieri quae praesciuntur
+et quae praedestinantur, quaedam tamen praescita
+et praedestinata non eveniunt ea necessitate
+quae praecedit rem et facit, sed ea quae rem sequitur,
+sicut supra diximus. Non enim ea Deus, quamvis praedestinet,
+facit voluntatem cogendo aut voluntati
+resistendo, sed in sua illam potestate dimittendo.
+<pb n="0520D"/>
+Quamvis tamen sua voluntas utatur potestate, nihil
+tamen facit quod Deus non faciat in bonis sua gratia,
+in malis non sua, sed ejusdem voluntatis culpa;
+quod, sicut promisimus, clarius, cum de gratia loquemur,
+apparebit. Et, sicut praescientia quae non
+fallitur, non praescit nisi verum sicut erit, aut
+<pb n="0521A"/>
+necessarium, aut spontaneum; ita praedestinatio quae
+non mutatur, non praedestinat nisi sicut est in praescientia.
+Et, quemadmodum quod praescitur, licet in
+aeternitate sit immutabile, tamen in tempore aliquando
+antequam sit, mutari potest; ita est per
+omnia de praedestinatione. Patet igitur ex his quae
+dicta sunt, si bene considerentur, quia nec praedestinatio
+excludit liberum arbitrium, nec liberum
+arbitrium adversatur praedestinationi. Siquidem omnia
+illa, quibus supra monstravimus liberum arbitrium
+praescientiae non repugnare, pariter ostendunt
+illud praedestinationi concordare. Non ergo rationabiliter, <emph>128</emph> 
+ quoties aliquid contingit, operante
+spontanea voluntate, velut cum homo homini facit
+injuriam unde ab illo occiditur, quidam clamant dicentes:
+<pb n="0521B"/>
+Sic praescitum et praedestinatum erat a Deo;
+et ideo necessitate factum est, nec aliter fieri potuit.
+Quippe nec qui alium injuria irritavit, nec qui
+se vindicavit, hoc fecit necessitate, sed sola voluntate;
+quia si non sponte voluisset, neuter quod fecit
+fecisset.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>QUAESTIO III. DE CONCORDIA GRATIAE ET LIBERI ARBITRII.</head>
+<p>Restat nunc ut de gratia et eodem libero arbitrio,
+eadem gratia adjuvante, consideremus.</p>
+
+
+<div2>
+          <head>CAP. I [ <hi>al</hi>. XI].-- <hi>Proponitur difficultas ex Scripturis circa gratiae et libertatis concordiam</hi>.</head>
+<p>Quaestio ista inde nascitur, quia divina Scriptura
+ita loquitur aliquando ut nihil videatur liberum arbitrium
+prodesse ad salutem, sed sola gratia; aliquando
+<pb n="0521C"/>
+vero ita, velut tota nostra salus in libera
+nostra consistat voluntate. De gratia siquidem dicit
+Dominus: <hi>Sine me nihil potestis facere <note>(Joan. XV, 5)</note>
+            </hi>;
+et: <hi>Et nemo venit ad me, nisi Pater meus traxerit
+eum <note>(Joan. VI, 44)</note>
+            </hi>. Et Paulus apostolus: <hi>Quid autem
+habes quod non accepisti? <note>(I Cor. IV, 7.)</note>
+            </hi> Et de
+Deo: <hi>Cujus vult miseretur, et quem vult indurat <note>(Rom. IX, 18)</note>
+            </hi>;
+et: <hi>Neque volentis, neque currentis,
+sed miserentis est Dei <note>(Ibid., 16)</note>
+            </hi>. Multa quoque alia
+leguntur, quae soli gratiae sine libero arbitrio bona
+nostra opera et salutem nostram videntur attribuere.
+Plures etiam asserunt experimento se probare
+quod homo nequaquam ullo libero fulciatur
+arbitrio; quoniam multos absque numero, immenso
+mentis et corporis conatu niti sentiunt: qui
+<pb n="0521D"/>
+ quadam difficultate, imo impossibilitate aggravati
+nihi proficiunt, aut post magnum profectum
+repente irreparabiliter deficiunt. Liberum autem
+arbitrium monstrat eadem Scriptura nos habere
+hoc modo. Dicit Deus per Isaiam: <hi>Si volueritis, et
+audieritis me, bona terrae comedetis <note>(Isa. I, 19)</note>
+            </hi>. Et
+David: <hi>Quis est homo, qui vult vitam; diligit dies
+videre bonos? Prohibe linguam tuam a malo, et labia
+tua ne loquantur dolum. Diverte a malo, et fac bonum</hi> 
+<pb n="0522A"/> <note>(Psal. XXXIII, 13, 14, 15)</note>.
+Et Dominus in Evangelio: <hi>Venite ad me, omnes qui laboratis, et onerati
+estis, et ego reficiam vos. Tollite jugum meum super
+vos, et discite a me quia mitis: sum et humilis corde,
+et invenietis requiem animabus vestris 
+ <note>(Matth. XI,
+28, 29)</note>
+            </hi>. Plura etiam alia et innumerabilia sunt,
+quae videntur liberum arbitrium ad bene operandum
+excitare; et quia monita contemnit, exprobrare:
+quod auctoritas divina nequaquam faceret, si voluntatis
+libertatem nullam in homine cognosceret. Sed
+nec ullo modo esset, cur Deus bonis vel malis pro
+meritis singulorum juste retribueret, si per liberum
+arbitrium nullus bonum vel malum faceret. Quoniam
+ergo in sacra Scriptura quaedam invenimus,
+quae soli gratiae favere videntur; et quaedam, quae
+<pb n="0522B"/>
+solum liberum arbitrium statuere sine gratia putantur,
+fuerunt quidam superbi, qui totam virtutum
+efficaciam in sola libertate arbitrii consistere
+sunt arbitrati: et sunt nostro tempore multi, qui
+liberum arbitrium esse aliquid penitus desperant.
+In hac itaque quaestione haec erit nostra intentio,
+ut liberum arbitrium simul esse cum gratia, et
+cum ea operari in multis monstremus: sicut illud
+cum praescientia atque praedestinatione concordare
+reperimus.</p>
+</div2>
+
+<div2>
+          <head>CAP. II [ <hi>al</hi>. XII].-- <hi>De libertate arbitrii, sine qua salutem nemo meretur; et de gratia, sine qua nullus salvatur homo, hic agitur</hi>.</head>
+<p>Sciendum est quia sicut non de alio libero arbitrio
+fit haec, ut supra dixi, quaestio nisi de illo
+sine quo salutem nemo meretur, postquam intelligibilem
+<pb n="0522C"/>
+habet aetatem; ita non de alia gratia quam
+de illa sine qua nullus salvatur homo. Omnis enim
+creatura gratia existit, quia gratis facta est; et
+multa bona dat Deus per gratiam in hac vita, sine
+quibus homo salvari potest. In infantibus quidem,
+qui baptizati moriuntur antequam suo possint
+uti libero arbitrio, non apparet concordia quam
+quaerimus; quoniam in illis gratia sola operatur salutem,
+sine illorum libero arbitrio. Nam hoc quoque
+gratia est quia datur aliis voluntas ut illis sua fide
+subveniant. In habentibus itaque intelligibilem aetatem
+monstrandum est quod investigamus; quia de
+his solum versatur haec quaestio. Quicunque autem
+ex his salvantur, per justitiam salvari dubium non
+<pb n="0522D"/>
+est. Justis enim promittitur vita aeterna; quia <hi>justi
+in perpetuum vivent, et apud Dominum est merces
+eorum <note>(Sap. V, 16)</note>
+            </hi>. Quod autem justitia sit rectitudo
+voluntatis, sacra saepe monstrat auctoritas.
+Qua de re sufficit unum exemplum proponere:
+cum enim dixisset David <note>(Psal. XCIII, 14, 15)</note>: <hi>Non
+repellet Dominus plebem suam, et haereditatem suam
+non derelinquet, quoadusque justitia convertatur in
+judicium</hi>, ut doceret nos quid esset justitia, interrogando
+<pb n="0523A"/>
+ait: <hi>Et qui juxta illam?</hi> Ad quod ipse
+sibi respondens ait: <hi>Omnes qui recto sunt corde</hi>,
+hoc est, qui recta sunt voluntate. Quamvis enim
+corde credamus et intelligamus, sicut corde volumus,
+non tamen judicat Spiritus sanctus illum
+rectum habere cor qui recte credit et intelligit, et
+non recte vult; quia non utitur rectitudine fidei et
+intellectus ad recte volendum, propter quod datum
+est rationali creaturae recte credere et intelligere.
+Nam neque rectum intellectum dicendus est habere,
+qui secundum illum non recte vult; neque dicitur
+facere fidem, nisi mortuam, qui secundum fidem
+non recte vult operari; propter quod fides dicitur,
+et datur. Recte igitur intelligimus David dixisse
+rectos corde, rectos voluntate. Sed, ne quis existimet
+<pb n="0523B"/>
+auctoritate divina dici justum illum vel rectum,
+qui nonnisi propter aliud tenet rectitudinem voluntatis,
+dicimus justitiam rectitudinem esse voluntatis
+propter se servatam: qui enim solum propter
+aliud illam servat, non eam diligit; sed illud
+propter quod illam servat; et ideo non est dicendus
+justus, nec talis rectitudo nominanda est
+justitia. Quando de praescientia et libero arbitrio
+tractabamus <note>(Quaest. 1, cap. 6)</note>, exemplo quodam
+monstravimus esse posse simul rectitudinem hanc,
+quam voco justitiam, et liberum arbitrium: per quod
+planum est intelligere in aliis multis similiter esse.
+Si ergo possumus ostendere nullam creaturam hanc
+adipisci posse rectitudinem nisi per gratiam, manifesta
+erit inter gratiam et liberum arbitrium, ad
+<pb n="0523C"/>
+salvandum hominem, concordia quam quaerimus.</p>
+</div2>
+
+<div2>
+          <head>CAP. III [ <hi>al</hi>. XIII].-- <hi>Rectitudo, qua salutem consequimur, nonnisi per gratiam obtinetur</hi>.</head>
+<p>Dubium utique non est quia voluntas non
+vult recte, nisi quia recta est. Sicut namque non
+est acutus visus quia videt acute, sed ideo videt
+acute quia acutus est: ita voluntas non est recta
+quia vult recte; sed recte vult quoniam est recta.
+Cum autem vult hanc rectitudinem, procul dubio
+recte vult; non ergo vult rectitudinem, nisi
+quia recta est: idem autem <emph>129</emph> est voluntati rectam
+esse, et rectitudinem habere. Palam igitur est
+quia non vult rectitudinem, nisi quia rectitudinem
+habet. Non nego voluntatem rectam velle rectitudinem
+quam nondum habet, quando vult majorem
+<pb n="0523D"/>
+quam habeat; sed dico nullam eam posse velle
+rectitudinem, si non habet rectitudinem qua illam
+velit. Consideremus nunc utrum aliquis hanc rectitudinem
+non habens, eam aliquo modo a se habere
+possit. Utique a se illam habere nequit, nisi aut
+<pb n="0524A"/>
+volendo aut non volendo. Volendo quidem nullus
+valet eam per se adipisci; quia nequit eam velle,
+nisi illam habeat. Quod autem aliquis non habens
+rectitudinem voluntatis, illam valeat per se non
+volendo assequi, mens nullius accipit. Nullo igitur
+modo potest eam creatura habere a se. Sed neque
+creatura valet eam habere ab alia creatura. Sicut
+namque creatura nequit creaturam salvare; ita non
+potest illi dare per quod debeat salvari. Sequitur
+itaque quia nulla creatura rectitudinem habet,
+quam dixi voluntatis, nisi per gratiam. Hanc autem
+rectitudinem per liberum arbitrium servari posse,
+sicut supra dixi, monstravimus. Deo igitur largiente,
+invenimus gratiam ejus, ad salvandum hominem,
+cum libero arbitrio concordare; ita ut gratia sola
+<pb n="0524B"/>
+possit hominem salvare, nihil ejus libero arbitrio
+agente (sicut fit in infantibus), et in inintelligentibus
+ ipsa semper adjuvet liberum arbitrium naturale,
+quod sine illa nihil valet ad salutem, dando
+voluntati rectitudinem quam servet per liberum arbitrium.
+Et quamvis non omnibus det, quoniam <hi>cui
+vult miseretur et quem vult indurat <note>(Rom. IX, 18)</note>
+            </hi>;
+nulli tamen dat pro aliquo praecedenti merito, quoniam <hi>quis prior Deo dedit, et retribuetur ei? 
+ <note>(Rom.
+XI, 85.)</note>
+            </hi> Si autem voluntas, per liberum servando
+arbitrium quod accepit, meretur aut augmentum
+acceptae justitiae, aut etiam potestatem pro bona
+voluntate, aut praemium aliquod: haec omnia fructus
+sunt primae gratiae, et gratia pro gratia; et ideo
+totum imputandum est gratiae, quia <hi>neque volentis</hi> 
+<pb n="0524C"/>
+est, quod vult, <hi>neque currentis</hi> est, quod currit; <hi>sed miserentis est Dei 
+ <note>(Rom. II, 16)</note>
+            </hi>. Omnibus enim,
+excepto solo Deo, dicitur: <hi>Quid habes quod non
+accepisti? Si autem accepisti, quid gloriaris,
+quasi non acceperis? <note>(I Cor. IV, 7.)</note>
+            </hi> </p>
+</div2>
+
+<div2>
+          <head>CAP. IV [ <hi>al</hi>. XIV].-- <hi>Eadem rectitudo nonnisi per gratiam conservatur</hi>.</head>
+<p>Quomodo quidem libertas voluntatis tenentis acceptam
+rectitudinem, nulla necessitate ut illam
+deserat, expugnetur, sed difficultate impugnetur,
+nec eidem difficultati invita, sed volens cedat:
+in tractatu de libertate arbitrii puto me ostendisse
+<note>(cap. 5, 6, 7, 8, 9)</note>. Quibus autem modis, post
+eamdem rectitudinem acceptam, liberum arbitrium
+gratia adjuvet ut servet quod accepit: quamvis non
+<pb n="0524D"/>
+omnes valeam enumerare, multifariam enim hoc
+facit; tamen non erit inutile aliquid inde dicere.
+Nemo certe servat rectitudinem hanc acceptam,
+nisi volendo; velle autem illam aliquis nequit, nisi
+habendo: habere vero illam nullatenus valet, nisi
+<pb n="0525A"/>
+per gratiam. Sicut ergo illam nullus accipit, nisi
+gratia praeveniente; ita nullus eam servat, nisi
+eadem gratia subsequente. Nempe, quamvis illa
+servetur per liberum arbitrium, non tamen est
+tantum imputandum libero arbitrio, quantum gratiae,
+cum haec rectitudo servatur; quoniam illam liberum
+arbitrium nonnisi per gratiam praevenientem et
+subsequentem habet et servat. Sic autem gratia
+subsequitur donum suum, ut nunquam sive parvum
+sive magnum sit, illud dare deficiat, nisi liberum
+arbitrium volendo aliud, rectitudinem quam
+accepit, deserat. Nunquam enim separatur haec
+rectitudo a voluntate, nisi quando aliud vult, quod
+huic rectitudini non concordat; sicut, cum quis
+accipit rectitudinem volendi sobrietatem, et rejicit
+<pb n="0525B"/>
+eam volendo immoderatam bibendi voluptatem.
+Quod cum facit sua voluntate, et ideo sua culpa
+perdit gratiam quam accepit. Adjuvat etiam gratia
+liberum arbitrium, quando ut deserat rectitudinem
+acceptam impugnatur, mitigando aut penitus removendo
+vim tentationis impugnantis, aut augendo
+affectum ejusdem rectitudinis. Denique, cum omnia
+subjaceant dispositioni Dei, quidquid contingit homini,
+quod adjuvet liberum arbitrium ad accipiendum
+aut ad servandum hanc, de qua loquor, rectitudinem,
+totum gratiae imputandum est. Dixi
+omnem justitiam esse rectitudinem voluntatis propter
+se servatam. Unde sequitur omnem habentem
+hanc rectitudinem habere justitiam, et esse justum;
+quoniam omnis habens justitiam justus est. Non
+<pb n="0525C"/>
+tamen sentio justis omnibus promissam esse vitam
+perpetuam, sed illis tantum qui sunt justi sine omni
+injustitia. Illi enim proprie et absolute dicuntur
+justi et recti corde. Est enim aliquis secundum aliquid
+justus, et secundum aliquid injustus, ut qui
+castus est et invidus. Talibus non promittitur
+beatitudo justorum; quoniam, sicut vera beatitudo
+est sine omni indigentia, ita nulli datur nisi justo
+sine omni injustitia. Nam, quoniam beatitudo quae
+justis promittitur, erit similitudo angelorum Dei:
+sicut in angelis bonis nulla est injustitia, ita nullus
+illis sociabatur cum aliqua injustitia. Quomodo autem
+fiat homo sine omni injustitia, non est hujus
+nostri propositi ostendere. Scimus tamen hoc per
+<pb n="0525D"/>
+sancta studia Christiano, et per gratiam Dei
+esse possibile.</p>
+</div2>
+
+<div2>
+          <head>CAP. V [ <hi>al</hi>. XV].-- <hi>Elucidantur Scripturae, quae soli gratiae, et quae soli libertati salutem tribuere videntur</hi>.</head>
+<p>Si bene considerentur quae dicta sunt, aperte cognoscitur
+quia cum aliquid dicit sacra Scriptura
+pro gratia, non amovet omnino liberum arbitrium;
+neque cum loquitur pro libero arbitrio, excludit
+<pb n="0526A"/>
+gratiam: quasi sola gratia, aut liberum arbitrium
+solum sufficiat ad salvandum hominem, sicut videtur
+illis qui hanc faciunt quaestionem. Ita quippe intelligenda
+sunt dicta divina; ut, hoc excepto quod
+dixi de infantibus, nec sola gratia, nec solum liberum
+arbitrium salutem hominis operetur. Quippe
+cum dicit Dominus: <hi>Sine me nihil potestis facere <note>(Joan. XV, 5)</note>
+            </hi>,
+non ait: Nihil valet vobis vestrum
+liberum arbitrium; sed nihil potest sine mea
+gratia. Et cum legitur: <hi>Neque volentis, neque currentis,
+sed miserentis est Dei <note>(Rom. II, 16)</note>
+            </hi>: non negatur
+in volente, et in currente aliquid prodesse
+liberum arbitrium; sed significatur non esse imputandum
+libero arbitrio quod vult et quod currit,
+sed gratiae. Nam cum ait: <hi>Neque volentis, neque
+<pb n="0526B"/>
+currentis est</hi>, subaudiendum est, <hi>quod vult et quod
+currit:</hi> velut cum aliquis nudo, cui nihil debet, et
+qui nullum a se potest indumentum habere, dat
+vestem; non tamen, quamvis ipse habeat potestatem
+utendi et non utendi accepta veste, si ea
+utitur, imputandum est induto quia indutus est, sed
+danti vestem. Quapropter ita dici potest: <hi>Non est
+induti quod est indutus, sed miserentis;</hi> id est vestem
+dantis. Multo vero magis hoc diceretur, si ille qui
+dedit vestem, dedisset etiam potestatem servandi
+eam et utendi: sicut Deus homini, cum dat rectitudinem
+saepefatam, dat etiam potestatem servandi
+et utendi; quia dedit prius liberum arbitrium
+ad servandum illam et utendum. Si vero nudo cui
+<pb n="0526C"/>
+nihil deberetur, non daretur vestis; aut si ipse
+acceptam projiceret, nulli nisi ipsi imputaretur ejus
+nuditas. Ita, cum Deus alicui concepto et nato in
+peccato, cui nihil nisi poenam debet, dat velle et
+currere; non est volentis, neque currentis, sed miserentis
+est Dei: et qui eamdem gratiam non accipit
+aut acceptam rejicit, ejus est, non Dei, quod in
+sua duritia et iniquitate permanet. Idem intellectus
+habendus est in aliis, in quibus Scriptura loquitur
+pro gratia, <emph>130</emph> ut scilicet liberum non excludatur
+arbitrium. Similiter quando ita loquuntur divina
+dicta, ut libero arbitrio soli videantur salutem hominis
+attribuere, nullo intellectu gratia separanda
+est. Sicut ergo, quamvis naturalis usus non procreet
+prolem sine patre, nec nisi per matrem, non tamen
+<pb n="0526D"/>
+removet ullus intellectus aut patrem, aut matrem
+a generatione prolis; ita gratia et liberum arbitrium
+non discordant, sed conveniunt ad justificandum et
+salvandum hominem.</p>
+</div2>
+
+<div2>
+          <head>CAP. VI [ <hi>al</hi>. XVI].-- <hi>Quomodo non sit supervacaneum homines ad fidem, et ad ea quae fides exigit, invitare</hi>.</head>
+<p>In his tamen, in quibus videtur Scriptura liberum
+arbitrium ad recte volendum et operandum invitare,
+<pb n="0527A"/>
+difficultas est. Quaeritur cur hominem invitat
+ad recte volendum, et quare arguit non obedientem,
+cum ipsam rectitudinem nemo possit, nisi gratia
+dante, habere vel accipere? Sciendum quia, sicut
+terra innumerabiles herbas et arbores, sine quibus
+humana natura alitur, aut etiam quibus perimitur,
+sine omni hominis cura profert; illas vero, quae
+nobis ad vitam nutriendam maxime sunt necessariae,,
+non sine magno labore atque cultore, nec
+absque seminibus: ita corda humana sine doctrina
+sive studio sponte quasi germinant cogitationes et
+voluntates nihil utiles saluti, aut etiam noxias;
+illas vero, sine quibus ad salutem animae non
+proficimus, nequaquam sine generis sui semine et
+laboriosa cultura concipiunt et germinant. Unde
+<pb n="0527B"/>
+illos homines, quibus talis cultura impenditur,
+agriculturam Dei <note>(I Cor. III, 9)</note> vocat Apostolus.
+Est autem semen hujus agriculturae verbum Dei;
+imo non verbum, sed sensus qui percipitur per verbum:
+vox namque sine sensu nihil constituit in
+corde. Nec solum sensus verbi, sed omnis sensus
+vel intellectus rectitudinis, quem mens humana sive
+per auditum, sive per lectionem, sive per rationem,
+sive quolibet alio modo concipit, semen est recte
+volendi. Nullus namque velle potest, quod prius
+corde non concipit; velle autem credere quod est
+credendum, est recte velle. Nemo ergo potest hoc
+ velle, si nescit quod credendum est. Cum enim
+praemisisset Apostolus: <hi>Omnis quicunque invocaverit
+nomen Domini, salvus erit <note>(Rom. X, 13)</note>
+            </hi>, subjunxit:
+<pb n="0527C"/> <hi>Quomodo ergo invocabunt, in quem non crediderunt?
+Aut quomodo credent ei, quem non audierunt?
+Quomodo autem audient sine praedicante? Quomodo
+vero praedicabunt, nisi mittantur? 
+ <note>(Ibid., 14.)</note>
+            </hi> 
+Et paulo post: <hi>Ergo fides ex auditu; auditus vero
+per verbum Christi <note>(Ibid., 17)</note>
+            </hi>. Quod autem dicit
+fidem esse ex auditu, intelligendum est quia fides
+est ex hoc quod concipit mens per auditum; neque
+ita ut sola conceptio mentis faciat fidem in homine,
+sed quia fides esse nequit sine conceptione. Addita
+namque rectitudine volendi conceptioni per gratiam,
+fit fides; quia credit quod audit. Auditus autem est
+per verbum Christi, hoc est per verbum praedicantium
+Christum. Praedicantes vero non sunt nisi mittantur;
+sed quod mittuntur, gratia est. Quapropter
+<pb n="0527D"/>
+et praedicatio gratia est; quia gratia est quod
+descendit ex gratia, et auditus est gratia, et intellectus
+ex auditu gratia, et rectitudo volendi gratia
+est. Verum missio, praedicatio, auditus, intellectus
+nihil sunt, nisi voluntas velit quod mens intelligit:
+<pb n="0528A"/>
+quod voluntas facere nequit, nisi accepta rectitudine:
+recte namque vult, cum vult quod debet. Ita
+quod mens ex auditu verbi concipit, est semen praedicantis
+; et rectitudo est incrementum quod
+Deus dat, sine quo <hi>neque qui plantat, neque qui
+rigat, est aliquid; sed qui incrementum dat, Deus <note>(I Cor. III, 7)</note>
+            </hi>.
+Sicut ergo Deus in principio per miraculum
+fecit frumentum, et alia de terra nascentia
+ad alimentum hominum sine cultore et seminibus;
+ita, sine humana doctrina mirabiliter fecit corda
+prophetarum, et apostolorum, nec non et evangelistarum,
+fecunda salutaribus seminibus: unde
+accipimus quidquid salubriter in agricultura Dei ad
+alimentum animarum seminamus; sicut nonnisi
+de primis terrae seminibus habemus, quod ad nutrimentum
+<pb n="0528B"/>
+corporum propagamus. Siquidem nihil
+utiliter ad salutem spiritualem praedicamus, quod
+sacra Scriptura Spiritus sancti miraculo fecundata
+non protulerit, aut intra se non contineat. Nam, si
+quid ratione dicamus aliquando, quod in dictis ejus
+aperte monstrare aut ex ipsis probare nequimus,
+hoc modo per illam cognoscimus utrum sit accipiendum
+aut respuendum. Si enim aperta ratione colligitur,
+et illa ex nulla parte contradicit; quoniam
+ipsa sicut nulli adversatur veritati, ita nulli
+favet falsitati: hoc ipso quia non negat quod ratione
+dicitur, ejus auctoritate suscipitur. At, si ipsa nostro
+sensui indubitanter repugnat; quamvis nobis ratio
+nostra videatur inexpugnabilis, nulla tamen
+veritate fulciri credenda est. Sic itaque sacra Scriptura
+<pb n="0528C"/>
+omnis veritatis, quam ratio colligit, auctoritatem
+continet, cum illam aut aperte affirmat, aut
+nullatenus negat. Videamus nunc in exemplis quomodo
+verbum sit semen. Cum audiunt quibus dicitur: 
+ <hi>Si volueritis, et audieritis me <note>(Isa. I, 19)</note>
+            </hi>,
+intelligunt et cogitant quod dicitur velle et audire,
+hoc est obedire: qui enim audit et non obedit, dicitur
+non audire. Sed obedire nequeunt, nisi velint;
+velle autem obedire, est recte velle: recte vero
+velle nemo potest, nisi habeat rectitudinem voluntatis,
+quam nullus habet homo, nisi per gratiam.
+Verum rectitudo volendi aliquid nulli datur, nisi
+intelligenti velle, et quod velle debet. Videmus itaque
+quod dictum est: <hi>Si volueritis et audieritis
+me</hi>, semen esse nequaquam per se ad aliquem
+<pb n="0528D"/>
+fructum germinans sine adjectione rectitudinis;
+nec ipsam rectitudinem dari, nisi seminibus.
+Similiter cum dicit Deus: <hi>Convertimini ad me <note>(Isa. XLV, 22; Joel II, 12; Zach. I, 3)</note>
+            </hi>,
+semen est
+sine germine, quandiu hominis voluntatem non
+convertit Deus ad volendum conversionem, quam
+<pb n="0529A"/>
+cogitat, cum audit, <hi>convertimini</hi>, sine quo semine
+nullus potest velle converti. Dicitur etiam conversis, <hi>convertimini?</hi> 
+ aut ut magis convertantur, aut ut
+servent quod conversi sunt. Qui vero dicunt: <hi>Converte nos, Deus 
+ <note>(Psal. LXXXIV, 5)</note>
+            </hi>, jam aliquatenus
+conversi sunt; quia rectam voluntatem habent,
+cum volent converti; sed orant per hoc quod
+jam acceperint, ut augeatur eorum conversio,
+sicut illi qui credentes, <hi>Auge nobis fidem <note>(Luc.
+XVII, 5)</note>
+            </hi> dixerunt. Ac si dicerent illi et isti: Auge
+in nobis quod dedisti; perfice quod coepisti. Quod
+de his ostendi, similibus quoque intelligendum est.
+Sicut igitur terra non germinat naturaliter ea quae
+maxime necessaria sunt saluti corporis nostri sine
+seminibus, et licet Deus non det incrementum omni
+<pb n="0529B"/>
+semini, non tamen cessant agricolae nostri seminare
+in spe messis aliquantulae; ita terra cordis humani
+non profert fructum fidei et justitiae sine congruis
+seminibus: et quamvis Deus non faciat cuncta hujusmodi
+semina germinare, tamen praecipit agricolis
+suis in spe instantissime verbum suum seminare.
+Ostendimus, ut puto, quomodo non sit supervacaneum
+homines ad fidem Christi, et ad ea quae
+fides haec exigit invitare, quamvis non omnes
+hanc invitationem suscipiant.</p>
+</div2>
+
+<div2>
+          <head>CAP. VII [ <hi>al</hi>. XVII].-- <hi>Quod juste arguantur qui invitati reluctantur; quamvis sequi invitationem nequeant absque gratia</hi>.</head>
+<p>Dixi etiam posse quaeri cur arguantur illi qui
+verbum Dei non suscipiunt, cum hoc facere nequeant
+<pb n="0529C"/>
+nisi gratia eorum voluntates dirigente. Dicit enim <emph>131</emph> 
+ Dominus de Spiritu sancto: <hi>Ille arguet mundum
+de peccato, quia non crediderunt in me <note>(Joan.
+XVI, 8)</note>
+            </hi>. Ad quod licet forsitan difficile sit respondere;
+quod tamen Deo dante possum, tacere non
+debeo. Notandum est quia impotentia quae descendit
+ex culpa non excusat impotentem, culpa manente.
+Unde in infantibus, in quibus exigit Deus a natura
+humana justitiam, quam accepit in primis parentibus
+cum potestate servandi illam in omnem prolem
+suam, non excusat eam impotentia habendi justitiam;
+quoniam propter culpam in hanc corruit impotentiam:
+hoc ipsum namque, quia non habet quod
+per se resumere nequit, est illi habendi impotentia;
+in quam ideo cecidit, quia sponte deseruit
+<pb n="0529D"/>
+quod servare potuit. Quoniam ergo peccando deseruit
+justitiam, ad peccatum illi imputatur impotentia,
+quam ipsa peccando sibi fecit. Nec solum impotentia
+justitiam habendi, sed etiam impotentia illam
+intelligendi, similiter in non baptizatis imputatur ad
+<pb n="0530A"/>
+peccatum; quoniam pariter descendit a peccato. Possumus
+etiam rationabiliter asserere quia quod a
+prima conditionis humanae dignitate, ac fortitudine,
+atque pulchritudine, minorata et corrupta est, illi
+ad culpam imputatur. Per hoc namque minoravit,
+quantum in ipsa fuit, honorem et laudem Dei.
+Quippe secundum dignitatem operis laudatur et
+praedicatur sapientia artificis. Quanto igitur
+natura humana pretiosum opus Dei, unde ipse glorificandus
+erat, in se minoravit atque foedavit; tanto
+sua culpa Deum exhonoravit. Quod illi ad tantum
+statuitur peccatum, ut non nisi per mortem Dei
+deleatur. Siquidem ipsos motus, sive appetitus, quibus
+propter peccatum Adae, sicut bruta animalia,
+subjacemus (quos Apostolus vocat carnem et concupiscentiam
+<pb n="0530B"/>,
+quam invitum se tolerare manifestat,
+cum dicit: <hi>Quod odi illud facio [Rom. VII, 15]</hi>, id est
+nolens concupisco), satis ostendit sacra auctoritas
+imputari ad peccatum. Quippe cum de solo motu
+irae, sine opere vel voce, dicit Dominus: <hi>Qui
+irascitur fratri suo, reus erit judicio <note>(Matth. V, 22)</note>
+            </hi>:
+aperte monstrat culpam non esse levem, quam tam
+gravis, scilicet mortis, sequitur damnatio. Ac si dicat:
+Qui facit, quod homo non debet facere, nec
+faceret, si non peccasset; auferri debet ex hominibus.
+Et cum Paulus de illis qui carnem, id est concupiscentias,
+sentiunt nolentes, ait: <hi>Nihil damnationis
+est his, qui sunt in Christo Jesu, qui non secundum
+carnem ambulant <note>(Rom. VIII, 1)</note>
+            </hi>, hoc est, non
+voluntate consentiunt: sine dubio significat eos
+<pb n="0530C"/>,
+qui non sunt in Christo, sequi damnationem,
+quoties sentiunt carnem, etiam si non secundum illam
+ambulant. Quoniam sic factus est homo, ut eam
+sentire, sicut de ira dixi, non deberet. Si quis
+igitur quae dixi diligenter considerat, nullatenus
+eos, qui propter culpam suam verbum Dei suscipere
+nequeunt, recte arguendos dubitat.</p>
+</div2>
+
+<div2>
+          <head>CAP. VIII [ <hi>al</hi>. XVIII].-- <hi>Quod omnis culpa et culpabilis impotentia in renatis per baptismum deleantur</hi>.</head>
+<p>Quibus autem datur gratia fidei Christianae, sicut
+illis in baptismo dimittitur orginalis injustitia, cum
+qua nascuntur: ita omnis culpa impotentiae et totius
+corruptionis, quam propter peccatum primi parentis
+incurrerunt, et per quam inhonoratur Deus,
+ignoscitur. De nulla namque culpa, quae ante baptismum
+<pb n="0530D"/>
+in illis erat, post baptismum arguuntur; quamvis
+ipsa corruptio et appetitus, quae sunt poena peccati,
+non statim in baptismo deleantur: nec ullum
+illis imputantur delictum post baptismum, nisi quod
+sua voluntate fecerint. Unde apparet quia corruptio,
+<pb n="0531A"/>
+et mala quae fuerunt poena peccati, et post baptismum
+remanent, non sunt per se peccata. Sola namque
+injustitia est per se peccatum; et illa quae sequuntur
+injustitiam, propter causam suam judicantur
+peccata, donec ipsa remittatur. Nam si peccata
+essent, in baptismo delerentur, in quo omnia peccata
+Christi sanguine lavantur. Item: si proprie
+peccata dicerentur, essent in brutis animalibus peccata,
+ad quorum similitudinem illa propter peccata
+nostra sustinet natura. Est et aliud quod valde timendum
+est, quod in primo peccato humanae naturae
+cognosci potest. Quoniam enim homo est <hi>spiritus
+vadens, et non rediens <note>(Psal. LXXVII, 3)</note>
+            </hi>; postquam
+sponte cadit (ut de voluntariis peccatis tantum nunc
+loquar, nullo modo potest resurgere, nisi gratia
+<pb n="0531B"/>
+relevetur; sed merito suo de peccato in peccatum,
+usque in abyssum peccatorum sine fundo, hoc est,
+profundam sine aestimatione, demergitur, nisi
+misericordia retineatur; ita ut etiam illi bonum vertatur
+in odium, et sit ei in mortem. Unde dicit Dominus
+apostolis: <hi>Si mundus vos odit, scitote quia me
+priorem vobis odio habuit <note>(Joan. XV)</note>
+            </hi>. Et Apostolus: <hi>Bonus odor sumus Deo, aliis quidem odor mortis in
+mortem, aliis autem odor vitae in vitam 
+ <note>(II Cor. II)</note>
+            </hi>,
+propter quod dicitur de Deo, quia <hi>cui vult miseretur,
+et quem vult indurat <note>(Rom. IX)</note>
+            </hi>. Verum quorum
+miseretur, non omnium aequaliter miseretur;
+neque quos indurat, omnes aequaliter indurat.</p>
+</div2>
+
+<div2>
+          <head>CAP. IX [ <hi>al</hi>. XIX].-- <hi>Cur peccato deleto, effectus ejus remaneat: et cur baptizati, atque martyres, non statim incorruptibiles fiant</hi> </head>
+<p>Cur autem in hac vita perseveret in nobis poena
+peccati, deleto peccato, alia quaestio est. De qua
+licet nunc tractare non proposuerimus, breviter tamen
+dico quia si in incorruptionem statim in
+baptismo vel in martyrio mutarentur fideles,
+periret meritum, et homines, nisi illi qui primi
+sine exemplo crederent, nullo merito salvarentur.
+Nempe deficerent fides et spes, sine quibus nullus
+homo habens intellectum regnum Dei mereri potest:
+fides namque et spes sunt earum rerum quae
+non videntur. Cum enim viderent homines eos qui
+ ad Christum converterentur, statim transire ad
+incorruptibilitatem: nullus esset qui saltem velle
+<pb n="0531D"/>
+posset se subtrahere a tanta beatitudine, quam videret.
+Ut ergo gloriosius per fidei atque spei meritum
+beatitudinem, quam desideramus, adispiscamur:
+manemus, quandiu in hac vita sumus, in hoc
+<pb n="0532A"/>
+quod jam non imputatur ad peccatum, quamvis evenerit
+propter peccatum. Denique non promittitur
+nobis per baptismum et fidem Christianam beatitudo,
+quam habebat Adam ante peccatum in paradiso,
+sed quam habiturus erat, quando completus
+esset numerus hominum, qui assumendi erant ad
+perficiendum civitatem supernam, quae et de angelis
+et de hominibus est complenda: ubi non generabunt
+homines, sicut facerent in paradiso. Si ergo conversi
+ad Christum mox transirent in illam incorruptibilitatem,
+non essent homines de quibus colligi posset
+ille numerus: quoniam ad beatitudinem, quam viderent,
+nullus posset non festinare. Hoc puto esse
+quod dicit Apostolus de illis: <hi>Qui per fidem operati
+sunt justitiam, et hi</hi>, inquit, <hi>omnes testimonio fidei
+<pb n="0532B"/>
+probati, non acceperunt repromissionem, Deo pro
+nobis melius aliquid providente, ne sine nobis consummarentur <note>(Hebr. XI, 33, 39, 40)</note>
+            </hi>.
+Si enim quaeritur
+quod nobis melius providerit ex hoc, quia
+illi non acceperunt repromissionem, nihil convenientius
+responderi posse video, quam quod supra
+dixi: quia, scilicet, si illis probatis, non differretur
+promissa justis beatitudo, periret meritum in
+illis, qui non per fidem hoc, sed per experimentum
+cognoscerent: propagatio etiam hominum, de
+qua nos nati sumus, deficeret; quoniam omnes ad
+incorruptibilitatem, quam praesentem viderent, currerent.
+Magnum itaque bonum <emph>132</emph> nobis providit
+Deus, cum sanctis testimonio fidei probatis distulit
+acceptionem repromissionis; ut et nos propagaremur,
+<pb n="0532C"/>
+et maneret fides, per quam cum illis repromissionem
+promereremur; et simul cum illis consummaremur.
+Alia quoque ratio est cur baptizati,
+atque martyres, non statim fiunt incorruptibiles.
+Nempe si quis servum suum, quem proposuerat
+magnis aliquando ditare honoribus, graviter verberet
+ pro culpa, pro qua nullo modo per se
+queat satisfacere, post hanc verberationem constituto
+tempore detrusurus eum in horrendum carcerem,
+ubi gravissimis torqueatur suppliciis; et sit
+aliquis potens apud dominum, qui pro illo satisfaciens
+eum reconciliet: utique plagae, quas reus ante satisfactionem,
+dum erat in culpa, merito suscepit,
+non delentur; sed majora tormenta, in quae nondum
+<pb n="0532D"/>
+intrusus fuerat, reconciliatione praeveniente
+avertuntur; honores quoque, quos suo tempore
+accepturus erat si non peccasset, et quibus cariturus
+erat post culpam, si non reconciliatur, propter
+<pb n="0533A"/>
+perfectam satisfactionem, sicut prius statutum
+fuerat, sine omni immutatione traduntur. Quippe
+si ante reconciliationem exhaeredatus esset illis honoribus,
+quemadmodum exhaeredandus erat post
+culpam irrecuperabiliter, si non reconciliaretur;
+non haberet locum subveniendi ulla reconciliatio.
+Sed quoniam non potuit exhaeredari honore, quem
+nondum habebat, nec habere debebat, hanc exhaeredationem
+praevenire potest reconciliatio, et eam
+avertere. Si tamen servus ille, dum jacet in aegritudine
+vapulationis donec ipsa transeat, corde et ore
+domino suo fidelitatem et correctionem vovet et
+solvit: ita est inter Deum et hominem. Quippe
+quando humana natura primum peccavit, hac poena
+flagellata est, ut nunquam prolem naturaliter nisi
+<pb n="0533B"/>
+talem, quales videmus infantes nasci, generaret;
+ac post hanc vitam in inferno, a regno Dei, ad quod
+facta erat, in perpetuum exsularet, nisi aliquis illam,
+quod ipsa sola per se facere non poterat, reconciliaret.
+A quo autem reconciliari queat, non est
+nisi Christus. In omnibus igitur infantibus naturaliter
+genitis, cum peccato, et flagellata nascitur:
+quae cum ad reconciliationem accedit, flagellatio
+merito remanet, quam ante reconciliationem suscepit.
+Quae autem in in inferno tormenta passura erat,
+in illis quos Christus redemit, remittuntur; et regno
+Dei, quod post conversationem paradisi terreni
+suo tempore acceptura erat, donatur: si tamen
+in fide, quam promittant in baptismo, usque in finem
+<pb n="0533C"/>
+perseverent.</p>
+</div2>
+
+<div2>
+          <head>CAP. X [ <hi>al</hi>. XX].-- <hi>Quod si qui nitentes non proficiunt aut deficiunt, hoc non ex impossibilitate fiat</hi>.</head>
+<p>Quod autem quidam experimento existimant probari
+ nihil valere liberum arbitrium, quia multi
+immenso conatu nituntur ut bene vivant, et quadam,
+ut aiunt, impossibilitate obstante, nihil proficiunt,
+aut post profectum irreparabiliter deficiunt: 
+non destruit quod rationabiliter monstratum
+est, liberum scilicet arbitrium cum gratia valere.
+Ut autem nitentes non proficiant, aut post
+profectum deficiant; non impossibilitate, sed aliquando
+gravi, aliquando facile superabili difficultate
+fieri existimo. Saepissime namque asserere solemus
+impossibile nobis esse, quod sine difficultate perficere
+<pb n="0533D"/>
+non valemus. Si enim diligenter unusquisque
+motus voluntatis suae consideret, intelliget se
+nunquam rectitudinem voluntatis acceptam per gratiam,
+nisi aliud volendo quod simul velle nequit,
+<pb n="0534A"/>
+deserere. Quod certe non facit deficiente potestate
+servandi eamdem rectitudinem, quae potestas
+est ipsa libertas arbitrii: sed deficiente voluntate
+servandi, quae per se non deficit, sed alia voluntate
+illam, ut dixi, expellente.</p>
+</div2>
+
+<div2>
+          <head>CAP. XI [ <hi>al</hi>. XXI].-- <hi>Quo sensu in homine justo vel injusto sit voluntas recte vivendi</hi>.</head>
+<p>Quoniam autem ista consideratio maxime versatur
+ in voluntate, aliquid altius de voluntate, quod,
+ut puto, non erit inutile, dicendum existimo. Sicut
+habemus in corpore membra, et quinque sensus,
+singula ad suos usus apta, quibus quasi instrumentis
+utimur; ut sunt manus aptae ad capiendum, pedes
+ad ambulandum, lingua ad loquendum, visus ad
+videndum: ita et anima habet in se quasdam vires,
+<pb n="0534B"/>
+quibus utitur velut instrumentis ad usus congruos.
+Est namque ratio in anima, qua sicut suo instrumento
+utitur ad ratiocinandum: et voluntas, qua
+utitur ad volendum. Non enim est ratio vel voluntas
+tota anima; sed est unaquaeque aliquid in anima.
+Quoniam ergo singula instrumenta habent et hoc
+quod sunt et aptitudines suas, et suos usus: discernamus
+in voluntate (propter quam ista dicimus) instrumentum,
+et aptitudines ejus, et usum ejus: quas
+aptitudines in voluntate possumus nominare affectiones.
+Affectum quippe est instrumentum volendi
+aptitudinibus suis. Unde dicitur hominis anima, cum
+vehementer vult aliquid, affecta esse ad volendum
+illud, vel affectuose velle. Voluntas itaque
+ dici videtur aequivoce tripliciter. Aliud enim est
+<pb n="0534C"/>
+instrumentum volendi, aliud affectio instrumenti,
+aliud usus ejusdem instrumenti. Instrumentum
+volendi est vis illa animae, qua utimur ad volendum:
+sicuti est ratio instrumentum ratiocinandi quo utimur
+cum ratiocinamur; et visus instrumentum
+videndi, quo utimur cum videmus. Affectio hujus instrumenti
+est, qua sic afficitur ipsum instrumentum
+ad volendum aliquid, etiam quando illud quod vult
+non cogitat: ut si venerit in memoriam; aut statim,
+aut suo tempore illud velit. Nam sic est instrumentum
+volendi affectum ad volendum salutem, etiam
+quando illam non cogitat; ut mox, cum venerit
+in memoriam, statim eam velit: et sic est affectum
+ad volendum somnum, etiam quando illum non cogitat;
+<pb n="0534D"/>
+ut cum venit in mentem, velit illum suo tempore.
+Nunquam enim ita est affectum, ut aliquando
+velit aegritudinem, aut ut velit nunquam dormire.
+In justo quoque homine similiter est affectum idem
+<pb n="0535A"/>
+instrumentum ad volendum justitiam, etiam cum
+dormit; ut, cum eam cogitat, statim eam velit. Usus
+vero ejusdem instrumenti est, quem non habemus,
+nisi cum cogitamus rem quam volumus. Dicitur autem
+voluntas, et instrumentum volendi, et affectio
+ejus, et usus ejus. Instrumentum quidem voluntatem
+vocamus, quando dicimus nos convertere ad diversa
+voluntatem, modo scilicet ad volendum ambulare,
+modo ad volendum sedere, modo ad volendum
+aliud et aliud. Hoc instrumentum semper habet homo,
+quamvis non semper illo utatur: sicut habet
+visum, qui est instrumentum videndi, etiam quando
+illo non utitur, ut cum dormit; et cum eo utitur,
+convertit illum modo ad videndum coelum, modo ad
+videndum terram, modo ad videndum aliquid aliud.
+<pb n="0535B"/>
+Et sic semper habemus instrumentum ratiocinandi,
+hoc est rationem, qua non semper utimur, et quam
+ratiocinando ad diversa convertimus. Affectio
+vero instrumenti volendi, dicitur voluntas; quando
+dicimus hominem semper habere volunlatem ut bene
+sibi sit: vocamus namque hic voluntatem, affectionem
+illam ejusdem instrumenti, qua vult homo
+bene sibi esse. Eodem modo sanctus homo asseritur,
+etiam cum dormiret non cogitat, indesinenter habere
+voluntatem juste vivendi. Et, cum hanc voluntatem
+asserimus alium alio majorem habere; non aliud
+dicimus voluntatem, quam illam affectionem ipsius <emph>133</emph> 
+ instrumenti, qua vult juste vivere. Instrumentum
+enim non est in alio majus, et in alio minus.
+Usus autem hujus instrumenti, voluntas nominatur:
+<pb n="0535C"/>
+ut cum dicit aliquis: Modo habeo voluntatem
+legendi, id est, Modo volo legere; aut, Modo habeo
+voluntatem scribendi, hoc est, Modo volo scribere.
+Sicut enim videre, est uti visu, qui est instrumentum
+videndi; et usus ejus est visio, vel visus, quando
+visus significat idem quod visio (significat enim
+etiam visus instrumentum ipsum): ita velle, est uti
+voluntate, quae est instrumentum volendi, et usus
+ejus est voluntas, quae non est nisi quando cogitamus
+quod volumus. Voluntas igitur, quae instrumentum
+est, una sola est, id est, instrumentum
+volendi unum solum est in homine; sicut una sola
+est ratio, id est, unum solum instrumentum ratiocinandi.
+Voluntas vero, qua instrumentum illud
+<pb n="0535D"/>
+afficitur, duplex est. Nam sicut visus plures habet
+aptitudines; scilicet, ad vivendum lucem, et per
+lucem ad videndum figuras, ad videndum colores;
+ita instrumentum volendi duas habet aptitudines,
+quas voco affectiones: quarum una est ad
+<pb n="0536A"/>
+volendum commoditatem; altera ad volendum rectitudinem.
+Nempe nihil vult voluntas, quae est
+instrumentum, nisi aut commoditatem aut rectitudinem.
+Quidquid enim aliud vult, aut propter commoditatem,
+aut propter rectitudinem vult; et ad
+has, etiam si fallatur, putat se referre quod vult.
+Per affectionem quidem quae est ad volendum commoditatem,
+semper vult homo beatitudinem et
+beatus esse: per illam vero quae est ad volendum
+rectitudinem, rectitudinem vult, et rectus, id est
+justus, esse. Propter commoditatem autem vult aliquid:
+ut cum vult arare vel laborare, ut habeat unde
+tueatur vitam et salutem, quae commoda judicat esse.
+Propter rectitudinem vero: ut cum vult cum labore
+discere, ut sciat recte, id est juste, vivere. Voluntas
+<pb n="0536B"/>
+vero, quae est usus saepedicti instrumenti,
+non est nisi cum cogitat aliquis quod vult, ut dictum
+est. Hujus voluntatis multiplex est divisio: de qua
+non modo, sed forsitan alias dicemus. Velle autem
+aequivocum est, sicut videre: quemadmodum namque
+dicitur videre, qui utitur visu; et qui non utitur,
+sed qui habet aptitudinem videndi: ita asseritur
+velle, et qui utitur instrumento volendi cogitando
+quod vult; et qui non utitur, quoniam affectionem,
+hoc est aptitudinem, habet volendi. Per hoc etiam
+cognosci potest aliam esse voluntatem instrumentum
+volendi, aliam ejus affectionem, aliam usum
+ejusdem instrumenti: quia si dicitur justus homo,
+etiam cum dormit et nihil cogitat, habere voluntatem
+juste vivendi; et injustus homo negatur habere,
+<pb n="0536C"/>
+cum dormit, voluntatem juste videndi: eadem voluntas
+negatur de injusto, quae asseritur de justo.
+Palam autem est quia cum dicimus non esse in
+injusto dormiente voluntatem juste vivendi, non
+negatur in eo esse voluntas, quam dixi instrumentum:
+quoniam eam semper habet omnis homo
+dormiens et vigilans. Quapropter quoniam non alia
+voluntas pronuntiatur hoc modo in bono esse homine,
+quam illa quae removetur a malo: non significatur
+in bono esse voluntas, quae instrumentum;
+sed illa, qua afficitur instrumentum. Quod autem in
+dormiente, nisi somniet, non sit voluntas quae est
+usus, dubium non est: quare, cum dicitur in dormiente
+justo voluntas juste vivendi, non ibi
+<pb n="0536D"/>
+intelligitur voluntas usus. Non est igitur voluntas
+affectio, voluntas instrumentum, aut voluntas
+usus; voluntatem quoque instrumentum non esse
+voluntatem usum nullus ignorat; quoniam cum dico
+me non habere voluntatem scribendi, nemo intelligit
+<pb n="0537A"/>
+me non habere instrumentum volendi. Alia est ergo
+voluntas instrumentum, alia voluntas affectio, alia
+voluntas usus. Voluntas quidem instrumentum movet
+omnia alia instrumenta, quibus sponte utimur, et
+quae sunt in nobis, ut manus, lingua, visus; et
+quae sunt extra nos, ut stylus, et securis; et facit
+omnes voluntarios motus: ipsa vero se suis affectionibus
+movet: unde dici potest instrumentum seipsum
+movens. Dico voluntatem instrumentum omnes voluntarios
+motus facere: sed si diligenter consideramus,
+ille verius dicitur facere omne quod
+facit natura aut voluntas, qui facit naturam et instrumentum
+volendi cum affectionibus suis, sine quibus
+idem instrumentum nihil facit.
+<pb n="0537B"/>
+          </p>
+</div2>
+
+<div2>
+          <head>CAP. XII [ <hi>al</hi>. XXII].-- <hi>Quod ex voluntate rectitudinis aut commodi procedat omne meritum hominis, sive ad salutem, sive ad damnationem</hi>.</head>
+<p>Ex his duabus affectionibus, quas etiam voluntates
+dicimus, descendit omne meritum hominis, sive
+bonum, sive malum. Quae duae voluntates etiam in
+hoc differunt quia illa, quae est ad volendum
+commodum, inseparabilis est; illa vero quae est ad
+volendum rectitudinem, separabilis fuit, ut supra
+dixi <note>(Dial. de lib. arb., c. 14.)</note>, in principio in angelis,
+et in primis nostris parentibus; et est adhuc in
+hac vita manentibus. In hoc quoque differunt quia
+illa, quae est ad volendum commodum, non est hoc
+quod ipsa vult: illa vero quae est ad volendum
+rectitudinem, rectitudo est. Nullus quippe rectitudinem
+vult, nisi rectitudinem habens: neque potest
+<pb n="0537C"/>
+aliquis rectitudinem velle, nisi rectitudine. Palam
+autem est ejus voluntatis, quae est instrumentum,
+istam esse rectitudinem. Hanc pronuntiamus, cum
+justitia designatur rectitudo voluntatis propter se
+servata. Haec est etiam veritas illa voluntatis, in qua
+arguitur a Domino diabolus non stetisse: quod dixi
+<note>(cap. 4)</note> in tractatu de veritate. Nunc considerandum
+est quomodo ex his duabus voluntatibus, quas
+voco aptitudines sive affectiones, procedant, sicut
+dixi, merita hominum, sive ad salutem, sive ad
+damnationem. Rectitudo quidem, quantum in ipsa
+est, nullius mali causa est, et omnis meriti boni
+mater est, haec enim favet spiritui concupiscenti
+adversus carnem <note>(Galat. V, 25.)</note> et condelectatur legi
+ Dei secundum interiorem hominem <note>(Rom. VII,22)</note>,
+<pb n="0537D"/>
+id est secundum eumdem spiritum. Si autem ex
+illa malum aliquando sequi videtur, non ex ipsa,
+sed ex alio. Per rectitudinem quippe apostoli erant
+bonus odor Deo <note>(II Cor. II, 16.)</note>: sed quod quibusdam
+erant odor mortis in mortem <note>(Ibid.)</note>; non procedebat
+ex apostolorum justitia, sed ex malivolorum nequitia.
+Illa vero voluntas, quae est ad volendum commodum,
+<pb n="0538A"/>
+non semper mala est; sed quando consentit carni
+concupiscenti adversus spiritum.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIII [ <hi>al</hi>. XXIII].-- <hi>Unde est tam vitiosa et tam prona ad malum voluntas</hi>.</head>
+<p>Sed ut hoc planius intelligatur, investigandum
+est unde tam vitiosa et tam prona sit ad malum ista
+voluntas. Non enim credendum est talem illam Deum
+fecisse in primis nostris parentibus. Cum enim protuli
+naturam humanam propter peccatum incurrisse
+corruptionem et appetitus ad similitudinem brutorum
+animalium, non dixi quomodo talis voluntas
+orta sit in homine. Aliud namque sunt appetitus
+vitiosi: aliud vitiosa voluntas appetitibus consentiens.
+De tali ergo voluntate quaerendum puto unde
+homini acciderit. Sed si primam rationalis naturae
+<pb n="0538B"/>
+conditionem consideremus, facile nobis hujus talis
+voluntatis causa patebit. Intentio namque Dei fuit
+ut justam faceret atque beatam naturam rationalem
+ad fruendum se: sed neque justa neque beata esse
+potuit sine voluntate justitiae et beatitudinis. Voluntas
+quidem justitiae est ipsa justitia; voluntas vero
+beatitudinis non est beatitudo: quia non omnis habet
+beatitudinem, qui habet ejus voluntatem. In
+beatitudine autem, secundum omnium <emph>134</emph> sensum,
+est sufficientia competentia commodorum sine
+omni indigentia: sive angelica intelligatur beatitudo,
+sive illa quam habebat Adam in paradiso.
+Quamvis enim major sit beatitudo angelorum quam
+illa quae erat hominis in paradiso, non tamen ideo
+negari potest Adam beatitudinem habuisse. Sicut
+<pb n="0538C"/>
+namque calor magnus est sine omni frigore, et
+tamen potest esse alius major calor: et quemadmodum
+frigus est sine omni calore, cum tamen majus
+valeat frigus esse; ita nihil prohibet Adam beatum
+fuisse in paradiso sine omni indigentia, licet major
+esset angelica beatitudo. Nempe aliquid minus alio
+habere, non semper est indigere; sed aliqua re,
+cum eam haberi oporteat, carere (quod non erat
+in Adam) est indigere. Ubi vero est indigentia,
+ibi est miseria: non autem fecit Deus, sine praecedente
+culpa, rationalem naturam miseram, quam
+ad intelligendum et amandum se creavit: fecit igitur
+Deus hominem beatum sine omni indigentia.
+Simul ergo accepit rationalis natura et beatitudinis
+voluntatem, et beatitudinem, et voluntatem justitiae,
+<pb n="0538D"/>
+id est rectitudinem, quae est ipsa justitia, et
+liberum arbitrium, sine quo justitiam servare non
+potuit. Sic autem Deus ordinavit has duas voluntates,
+sive affectiones; ut voluntas, quae est
+instrumentum, uteretur ea, quae est justitia, ad imperium
+et regimen, docente spiritu qui et mens
+et ratio dicitur; et altera uteretur ad obediendum,
+<pb n="0539A"/>
+sine omni incommoditate. Beatitudinem quidem
+dedit homini (ut de angelis taceam) ad commodum
+ejus; justitiam vero ad honorem suum: sed justitiam,
+ita ut illam posset deserere; quatenus cum
+illam non desereret, sed perseveranter servaret,
+provehi mereretur ad consortium angelorum: quod
+si illam desereret, nullatenus eam per se deinceps
+resumere posset; et beatitudinem angelorum non
+adipisceretur, et illa quam habebat privaretur et in
+similitudinem brutorum animalium cadens, cum
+illis corruptioni et saepefatis appetitibus subjaceret;
+voluntas tamen beatitudinis maneret: ut per indigentiam
+bonorum quae perdidisset, gravi miseria
+juste puniretur. Quoniam ergo deseruit justitiam,
+perdidit beatitudinem; et voluntas, quam bonam et
+<pb n="0539B"/>
+ad bonum suum accepit, fervens desiderio commodorum
+quae non velle nequit, quia vera commoda
+rationali naturae convenientia, quae perdidit, habere
+non valet, ad falsa, et brutorum animalium commoda,
+quae bestiales appetitus suggerunt, se convertit:
+et ita cum ea vult inordinate, rectitudinem
+aut ne accipiatur oblata, repellit; aut acceptam
+expellit: cum vero ea licite vult, non
+hoc facit. Hoc igitur modo voluntas instrumentum,
+creata bona, in quantum habet esse, et justa et
+fortis ad servandum acceptam justitiam; per liberum
+arbitrium facta est mala, non in quantum est, sed
+in quantum injusta facta est per absentiam sponte
+desertae justitiae, quam semper habere deberet.
+Infirma quoque modo facta est ad volendum justitiam
+<pb n="0539C"/>
+desertam: non enim per liberum arbitrium ita
+potest eam velle, cum illam non habet; quemadmodum
+valet eam servare, cum habet. Voluntas
+etiam commodi, condita bona, in quantum est
+aliquid; mala, id est injusta, facta est, quia non est
+subdita justitiae, sine qua nihil velle debet. Voluntas
+ergo instrumentum, cum sponte facta sit injusta,
+post desertam justitiam manet, quantum in ipsa est,
+necessitate injusta, et ancilla injustitiae: quia per
+se redire nequit ad justitiam, sine qua nunquam
+libera est, quia naturalis libertas arbitrii sine illa
+otiosa est. Ancilla etiam facta est suae affectionis,
+quae ad commodum est: quia, remota justitia, nihil
+potest velle nisi quod illa vult. Dico autem et instrumentum,
+et affectionem ejus, velle: quia et instrumentum
+<pb n="0539D"/>
+est voluntas, et affectio voluntas. Nec
+incongrue utraque voluntas velle dicitur: quia illa
+vult quae affectione sua vult; et affectio vult, per
+quam illa vult: sicut videre dicitur et homo, qui
+visu videt, et ipse visus quo videt. Unde non absurde
+<pb n="0540A"/>
+possumus dicere affectiones ejus voluntatis, quam
+instrumentum dixi animae, quasi instrumenta ejusdem
+instrumenti esse: quia nihil ipsa nisi istis
+operatur. Perdito igitur instrumento volendi justitiam,
+id est, rectitudinem; nullo modo, nisi per
+gratiam reddatur, potest voluntas instrumentum
+velle justitiam. Quapropter quoniam nihil velle
+debet, nisi juste: quidquid vult sine rectitudine,
+vult injuste. Appetitus vero, quos omnes vocat Apostolus
+carnem et concupiscentiam, in quantum sunt,
+non sunt mali, vel injusti; sed quia sunt in rationali
+creatura ubi non debent esse, dicuntur injusti. In
+brutis siquidem animalibus non sunt mali, vel injusti,
+quia ibi debent esse.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIV [ <hi>al</hi>. XXIV].-- <hi>Recapitulatio, et conclusio operis</hi>.</head>
+<p>Jam ex his, quae dicta sunt, cognosci potest hominem
+ideo non habere semper justitiam, quam sine
+intermissione debet habere; quia nullo modo potest
+illam per se adipisci, vel recuperare. Palam etiam
+est quia Deus bona facit opera sua sola bonitate: quoniam
+ipse creat voluntatem cum libero arbitrio, et
+dat illi justitiam per quam operatur. Mala vero facit
+ sola culpa hominum; quia ea non faceret, si
+homo illa facere non vellet: facit tamen hoc quod
+sunt; quoniam condidit in homine voluntatem, qua
+sine justitia utitur: et ideo sola culpa hominis
+mala sunt, quae operatur. Non enim est culpa Dei,
+qui creavit in eo cum libertate arbitrii voluntatem,
+et contulit ei justitiam, ut nihil nisi juste vellet; sed
+<pb n="0540C"/>
+culpa hominis, qui justitiam deseruit, quam servare
+potuit. Deus igitur habet in bonis quidem, quod
+bona sunt per essentiam; et quod bona sunt per
+justitiam: in malis vero solummodo quod bona
+sunt per essentiam; non quod mala sunt per absentiam
+debitae justitiae, quae non est aliquid. Homo
+autem habet in bonis, quod mala non sunt;
+quia cum posset deserere justitiam et mala facere,
+non deseruit; sed servavit per liberum arbitrium,
+dante et subsequente gratia; in malis vero hoc solum
+quod mala sunt: quia ea sola propria, id est injusta
+voluntate facit. Puto me jam congrue posse finem
+ponere tractatui de tribus difficilibus quaestionibus,
+quem in spe auxilii Dei incoepi, in quo si qui dixi
+quod quaerenti cuilibet sufficere debeat, non mihi
+<pb n="0540D"/>
+imputo; quia non ego, sed gratia Dei mecum.
+Hoc autem dico quia si quis mihi quaerenti de
+quaestionibus eisdem, quando in eis mens mea rationem
+quaerendo fluctuabat, ea quae scripsi,
+respondisset; gratias egissem quia mihi satisfecisset.
+<pb n="0541A"/>
+Quoniam ergo quod inde, manifestante Deo,
+cognovi, mihi valde placuit; intelligens quia similiter
+<pb n="0542A"/>
+quibusdam placeret, si hoc scriberem: quod
+gratis accepi, gratis volui petentibus imperdere.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>
