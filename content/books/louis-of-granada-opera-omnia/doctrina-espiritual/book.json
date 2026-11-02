@@ -1,0 +1,96 @@
+{
+  "id": "granada-doctrina-espiritual",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Doctrina espiritual",
+    "en-US": "Spiritual Doctrine",
+    "pt-BR": "Doutrina espiritual"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Doctrina espiritual repartida en seis tratados (Lisboa 1587): la oración mental con las meditaciones de la semana y de la Pasión, la oración vocal, la confesión, la vida cristiana, la comunión y las tres virtudes teologales.",
+    "en-US": "Spiritual doctrine in six treatises (Lisbon 1587): mental prayer with the meditations of the week and of the Passion, vocal prayer, confession, Christian living, communion and the three theological virtues.",
+    "pt-BR": "Doutrina espiritual repartida em seis tratados (Lisboa 1587): a oração mental com as meditações da semana e da Paixão, a oração vocal, a confissão, a vida cristã, a comunhão e as três virtudes teologais."
+  },
+  "composed": "1587",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/doctrina-espiritual",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue14luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 14 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the pieces as Cuervo prints them.",
+      "description": "The six treatises of the Doctrina espiritual; Cuervo's variants and tables are not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "al-lector",
+      "title": {
+        "es-ES": "Al lector"
+      }
+    },
+    {
+      "id": "t1-noches",
+      "title": {
+        "es-ES": "Tratado I: de la oración mental. Las meditaciones de las noches"
+      }
+    },
+    {
+      "id": "t1-pasion",
+      "title": {
+        "es-ES": "Tratado I: de la oración mental. Las meditaciones de la sagrada Pasión"
+      }
+    },
+    {
+      "id": "t1-metodo",
+      "title": {
+        "es-ES": "Tratado I: de la oración mental. De la preparación, la lición, la meditación y la petición"
+      }
+    },
+    {
+      "id": "t2-vocal",
+      "title": {
+        "es-ES": "Tratado II: de la oración vocal"
+      }
+    },
+    {
+      "id": "t3",
+      "title": {
+        "es-ES": "Tratado III: instrucción sobre la confesión"
+      }
+    },
+    {
+      "id": "t4",
+      "title": {
+        "es-ES": "Tratado IV: instrucción para vivir cristianamente"
+      }
+    },
+    {
+      "id": "t5-comunion",
+      "title": {
+        "es-ES": "Tratado V: de la comunión"
+      }
+    },
+    {
+      "id": "t6-virtudes",
+      "title": {
+        "es-ES": "Tratado último: de las tres principales virtudes"
+      }
+    }
+  ]
+}
