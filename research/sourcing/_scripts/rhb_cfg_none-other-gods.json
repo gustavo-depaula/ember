@@ -1,0 +1,22 @@
+{
+ "id": "benson-none-other-gods",
+ "dir": "benson-opera-omnia/none-other-gods",
+ "slug": "none-other-gods",
+ "name": "None Other Gods",
+ "name_pt": "Nenhum Outro Deus",
+ "desc": "Benson's novel of 1910 of a young English earl, Frank Guiseley, who becomes a Catholic and is led by it to a life of sacrifice, set against the idols of modern society.",
+ "desc_pt": "O romance de Benson (1910) sobre um jovem conde inglês, Frank Guiseley, que se torna católico e é levado por isso a uma vida de sacrifício, diante dos ídolos da sociedade moderna.",
+ "composed": 1910,
+ "editor": "Robert Hugh Benson (London: Hutchinson, 1910)",
+ "year": 1910,
+ "url": "https://www.gutenberg.org/ebooks/17627",
+ "edition": "None Other Gods (London: Hutchinson, 1910), Project Gutenberg #17627, proofread.",
+ "src": "robert-hugh-benson/pg/pg17627.txt",
+ "chap_re": "^(?:CHAPTER (?P<n>[IVXL]+)|EPILOGUE)\\.?$",
+ "sec_re": "^[IVXL]+\\.?$",
+ "end": "^\\*\\*\\* END OF",
+ "srcnote": "Parts and chapters as printed; the numbered sections inside chapters are kept as ## headings.",
+ "start": "^NONE OTHER GODS$",
+ "after": 100,
+ "part_re": "^PART [IVX]+$"
+}
