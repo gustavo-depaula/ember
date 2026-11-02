@@ -1,0 +1,3 @@
+# Argumentum
+
+231 In primis dicendum est cur apostolus Paulus in hac Epistola scribenda non servaverit morem suum, ut vel vocabulum nominis sui, vel ordinis describeret dignitatem. Haec causa est, quod ad eos scribens qui ex circumcisione crediderant, quasi gentium Apostolus et non Hebraeorum: sciens quoque eorum superbiam, suamque humilitatem ipse demonstrans, meritum officii sui noluit anteferre. Nam simili modo etiam Joannes apostolus propter humilitatem in Epistola sua nomen suum eadem ratione non praetulit. Hanc ergo Epistolam fertur Apostolus ad Hebraeos conscriptam Hebraica lingua misisse: cujus sensum et ordinem retinens Lucas evangelista post excessum apostoli Pauli Graeco sermone composuit.

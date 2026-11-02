@@ -1,0 +1,838 @@
+{
+  "id": "lombard-collectanea-in-paulum",
+  "cover": "classic",
+  "name": {
+    "la": "Collectanea in omnes D. Pauli epistolas",
+    "en-US": "Collectanea on All the Epistles of St. Paul",
+    "pt-BR": "Coletâneas sobre todas as epístolas de São Paulo"
+  },
+  "author": {
+    "la": "Petrus Lombardus",
+    "en-US": "Peter Lombard",
+    "pt-BR": "Pedro Lombardo"
+  },
+  "description": {
+    "la": "Glossa continua in epistolas Pauli, ex Patrum sententiis collecta (Romani usque ad Hebraeos), cum praefatione Magistri. Textus ex editione Migne (Patrologia Latina 191-192, 1854-55).",
+    "en-US": "Peter Lombard's running gloss on the fourteen Pauline epistles, from Romans to Hebrews, gathered verse by verse from Augustine, Ambrosiaster, Jerome, Chrysostom, Haymo and others, with the Master's preface. The Latin is the Migne text (Patrologia Latina 191-192, 1854-55). No English translation exists.",
+    "pt-BR": "A glosa contínua do Mestre das Sentenças sobre as catorze epístolas paulinas, de Romanos a Hebreus, colhida dos Padres, versículo por versículo, com seu prefácio."
+  },
+  "composed": "c. 1139-1158",
+  "languages": [
+    "la"
+  ],
+  "work": "peter-lombard/collectanea-in-paulum",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 191-192)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=11454",
+      "edition": "Petri Lombardi Collectanea in omnes D. Pauli epistolas, ed. J.-P. Migne, Patrologia Latina 191 (Romans-2 Corinthians) and 192 (Galatians-Hebrews); TEI XML of the Corpus Corporum (University of Zurich), works 6406 (text 11454) and 6419 (text 11467), from machine-corrected OCR.",
+      "description": "The preface and the fourteen epistles, one file per chapter of the epistle (with the ancient Argumentum where Migne has one; Titus and Philemon as Migne divides them). The Pauline text lemmata run in the commentary as Migne prints them. Page breaks dropped; source references stay in parentheses and authority sigla in brackets. Machine-corrected OCR; residual slips possible.",
+      "tier": "A",
+      "tierEvidence": "Lombard died in 1160; Migne's printing is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "rom",
+      "title": {
+        "la": "In Epistolam ad Romanos"
+      },
+      "children": [
+        {
+          "id": "rom-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "rom-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "rom-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "rom-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "rom-05",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "rom-06",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "rom-07",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "rom-08",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "rom-09",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "rom-10",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "rom-11",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "rom-12",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "rom-13",
+          "title": {
+            "la": "Caput XIII"
+          }
+        },
+        {
+          "id": "rom-14",
+          "title": {
+            "la": "Caput XIV"
+          }
+        },
+        {
+          "id": "rom-15",
+          "title": {
+            "la": "Caput XV"
+          }
+        },
+        {
+          "id": "rom-16",
+          "title": {
+            "la": "Caput XVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1cor",
+      "title": {
+        "la": "In Epistolam I ad Corinthios"
+      },
+      "children": [
+        {
+          "id": "1cor-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "1cor-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "1cor-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "1cor-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "1cor-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "1cor-05",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "1cor-06",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "1cor-07",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "1cor-08",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "1cor-09",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "1cor-10",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "1cor-11",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "1cor-12",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "1cor-13",
+          "title": {
+            "la": "Caput XIII"
+          }
+        },
+        {
+          "id": "1cor-14",
+          "title": {
+            "la": "Caput XIV"
+          }
+        },
+        {
+          "id": "1cor-15",
+          "title": {
+            "la": "Caput XV"
+          }
+        },
+        {
+          "id": "1cor-16",
+          "title": {
+            "la": "Caput XVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2cor",
+      "title": {
+        "la": "In Epistolam II ad Corinthios"
+      },
+      "children": [
+        {
+          "id": "2cor-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "2cor-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "2cor-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "2cor-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "2cor-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "2cor-05",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "2cor-06",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "2cor-07",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "2cor-08",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "2cor-09",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "2cor-10",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "2cor-11",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "2cor-12",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "2cor-13",
+          "title": {
+            "la": "Caput XIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gal",
+      "title": {
+        "la": "In Epistolam ad Galatas"
+      },
+      "children": [
+        {
+          "id": "gal-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "gal-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "gal-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "gal-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "gal-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "gal-05",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "gal-06",
+          "title": {
+            "la": "Caput VI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eph",
+      "title": {
+        "la": "In Epistolam ad Ephesios"
+      },
+      "children": [
+        {
+          "id": "eph-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "eph-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "eph-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "eph-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "eph-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "eph-05",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "eph-06",
+          "title": {
+            "la": "Caput VI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "phil",
+      "title": {
+        "la": "In Epistolam ad Philippenses"
+      },
+      "children": [
+        {
+          "id": "phil-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "phil-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "phil-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "phil-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "phil-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "col",
+      "title": {
+        "la": "In Epistolam ad Colossenses"
+      },
+      "children": [
+        {
+          "id": "col-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "col-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "col-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "col-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "col-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1thess",
+      "title": {
+        "la": "In Epistolam I ad Thessalonicenses"
+      },
+      "children": [
+        {
+          "id": "1thess-00",
+          "title": {
+            "la": "Prologus"
+          }
+        },
+        {
+          "id": "1thess-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "1thess-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "1thess-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "1thess-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "1thess-05",
+          "title": {
+            "la": "Caput V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2thess",
+      "title": {
+        "la": "In Epistolam II ad Thessalonicenses"
+      },
+      "children": [
+        {
+          "id": "2thess-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "2thess-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "2thess-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "2thess-03",
+          "title": {
+            "la": "Caput III"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1tim",
+      "title": {
+        "la": "In Epistolam I ad Timothaeum"
+      },
+      "children": [
+        {
+          "id": "1tim-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "1tim-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "1tim-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "1tim-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "1tim-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "1tim-05",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "1tim-06",
+          "title": {
+            "la": "Caput VI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2tim",
+      "title": {
+        "la": "In Epistolam II ad Timotheum"
+      },
+      "children": [
+        {
+          "id": "2tim-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "2tim-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "2tim-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "2tim-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "2tim-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tit",
+      "title": {
+        "la": "In Epistolam ad Titum"
+      },
+      "children": [
+        {
+          "id": "tit-00",
+          "title": {
+            "la": "Prologus"
+          }
+        },
+        {
+          "id": "tit-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "tit-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "tit-03",
+          "title": {
+            "la": "Caput III"
+          }
+        }
+      ]
+    },
+    {
+      "id": "phlm",
+      "title": {
+        "la": "In Epistolam ad Philemonem"
+      },
+      "children": [
+        {
+          "id": "phlm-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "phlm-01",
+          "title": {
+            "la": "Caput I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "heb",
+      "title": {
+        "la": "In Epistolam ad Hebraeos"
+      },
+      "children": [
+        {
+          "id": "heb-arg",
+          "title": {
+            "la": "Argumentum"
+          }
+        },
+        {
+          "id": "heb-01",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "heb-02",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "heb-03",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "heb-04",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "heb-05",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "heb-06",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "heb-07",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "heb-08",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "heb-09",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "heb-10",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "heb-11",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "heb-12",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "heb-13",
+          "title": {
+            "la": "Caput XIII"
+          }
+        }
+      ]
+    }
+  ]
+}
