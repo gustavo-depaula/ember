@@ -1,0 +1,29 @@
+# Meditation for Saturday
+
+To-day thou shalt meditate on the glory of the blessed, that thy heart may be moved to the contempt of the world, and to the desire of being with those blessed ones.
+
+To understand somewhat of this blessedness, thou mayest consider these five points in it, viz., the beauty of the place, the enjoyment of that companionship, the -vision of God, the glory there of body and 4 soul, and, lastly, the perfection of all good things there.
+
+Consider then, first, the beauty of the place, its greatness and its loveliness. For, when we read in certain authors, that any one of the stars in heaven is greater than the earth, and that there are some which are a hundred times greater; and when we lift up our eyes to heaven, and see there so vast a multitude of stars, and so vast a space for more, how shall we not marvel, and be beside ourselves in astonishment, when we think of the infinite greatness 4 that place, and, still more, of the Sovereign Creator Who made it! Think, then of the beauty of that place which is beyond the power of words to express ! For if for this vale of tears, and place of exile, God created things so marvellous, and of so great a beauty, what would He have created for that place which is the dominion of His glory, the palace of His — majesty, the home of His elect, and the Paradise of all delights !
+
+After the excellence of the place, consider the dignity of those who dwell there, whose number, sanctity, riches and glory are beyond all thought. S. John saith,’ so great is the number of the elect, that no man can number them. S. Dionysius? declares, that so great is the number of the angels, that they are more than all material things on earth. Agreeing with this, S. Thomas Aquinas says that as the greatness of the heavens exceeds that of the earth, so the multitude of those glorious spirits is greater than that of all things visible in this world.
+
+What can be more marvellous? Assuredly this truth, when considered, must Lib. Coelest. Hierarch. cap. xiv.
+
+¢ to i ;
+
+‘make all men marvel! And if the least of these blessed spirits is moré beautiful to look upon than anything in this visible world, what shall it be to see so great a multitude of these, and to see all their various perfections! There will be the angels delivering their messages, the archangels ministering, the principalities in their triumph, the powers in their rejoicing, the dominions in their full sway; there will ‘virtues shine forth, thrones be resplendent, cherubin enlightening, seraphin burning in their love, and all singing praises to God.
+
+If the company and fellowship of the good, even here, be so sweet and delightful, what will it be to be associated there with such blessed ones, to converse with Apostles and Prophets, to hold com- -= munion with Martyrs and all the elect !
+
+And if the delight in the company of the blessed be of so great glory, what will it be to rejoice in the company and presence of Him to Whom the morning-stars offer their praise, Whose Beauty sun and moon magnify, before Whose Greatness angels and all the hosts of Heaven bow themselves ! What will it be to see that Supreme Good, in Whom all good is centered, that Greatest of all Who comprehendeth all— Who, being One, embraceth all things and all their perfections! If it were so great a thing to hear and see King Solomon, that the Queen of Saba could say, “ Happy — are these thy servants which stand continually before thee, and hear thy wisdom,” what will it be to see that Greater Solomon, that Eternal Wisdom, that infinite Greatness, Beauty and Goodness, and to be in the enjoyment of that sight for ever! This is the essential glory of the Saints—this the last end and centre of all our desires and hopes.
+
+Consider then, after this, the glory of those beings, who will be in the enjoyment of those four singular gifts, subtlety, lightness, impassibility, and brilliancy, which will be so great that every one of them shall shine forth as the sun in the kingdom of their Father.” ?
+
+If one single sun, which is in the midst of heaven is sufficient to give light and gladness to all this world, what will so many bright lights do, which will be shining there? What shall I say of all the other good things there? There will be health instead of infirmity, liberty instead of 1 1 Kings x. 8. 2 S. Matt. xiii. 43.
+
+~~ slavery, beauty instead of deformity, immortality instead of corruption, abundance instead of poverty, rest instead of trouble, security instead of fear, knowledge instead of error, satisfaction without cloy, joy in place of sadness, honour without contradiction. “There,” says S. Augustine, “shall be true glory, where no one will be praised ignorantly, or through flattery.” “There shall be true honour where it will not be withheld from any one worthy of it, nor given to any unworthy.” There. shall be the true peace where no one shall suffer opposition either from himself or any other. The reward of virtue shall be Himself Who gave the virtue, and promised Himself for its recompense. He shall be the end of our desires Who shall be seen without end, loved without cloy, praised without weariness. There shall be domain, broad, bright, beautiful and secure, a company most excellent and pleasant, time ever the same; no separate morning and evening, but one simple continuing eternity. There shall be perpetual spring, ever blooming with the freshness and breath of the Holy Spirit. There all rejoice, all sing and praise the Supreme 1 De Civitate Dei, lib. xxii. c. 30.
+
+Giver of all things, by Whose bounty they live and reign for ever.
+
+O heavenly city, dwelling-place secure, country in which is found all that can delight! A people ever content, peaceful, and with every want supplied! Oh! that my warfare might cease, and the days of my exile come to an end! When shall this be? “ When shall I come to appear before the Presence of God >”?

@@ -46,6 +46,7 @@ These books were imported from scans and corrected by script, not proofread. Pro
 - `john-of-the-cross-opera-omnia/noche`, `en-US/`: about 0.5% of words. The other John of the Cross books are at 0.1–0.3%, worst in the Spanish of Subida III.19.
 - `lallemant-opera-omnia/doctrine-spirituelle`, `en-US/`: noisier than the French, and 9 "Article" headings were not detected, so those articles run on into the one before.
 - `chesterton-opera-omnia/the-thing`: from a scan, with no italics.
+- `peter-of-alcantara-opera-omnia/tratado-oracion-meditacion`, `en-US/`: Hollings (1905) from OCR. The opening of Part I ch. VI (the preparation for prayer) is lost to the OCR, so `p1-c6` starts mid-sentence. Hollings's scripture-reference footnotes and a few drop-cap letters were dropped or restored by hand; stray OCR symbols remain in places. The meditation for Friday (`p1-c2-friday`) is about half the Spanish length, because Hollings abridges it.
 - `catherine-of-siena-opera-omnia/dialogo-thorold`, `caussade-opera-omnia/abandon-a-la-providence-divine` (`fr-FR/`), `brother-lawrence-opera-omnia/pratique-de-la-presence-de-dieu`, `kempis-imitation-of-christ` (`la/`) and the Latin from Migne (`anselm-opera-omnia/*`, `peter-lombard-opera-omnia/sententiae`): a few errors remain.
 
 ### English left out

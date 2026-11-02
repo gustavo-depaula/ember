@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en-US": "St. Peter of Alcántara",
+    "pt-BR": "São Pedro de Alcântara"
+  },
+  "century": 16,
+  "saint": "peter_alcantara",
+  "matches": [
+    "St. Peter of Alcántara",
+    "Saint Peter of Alcántara",
+    "Peter of Alcántara, Saint",
+    "Peter of Alcantara",
+    "San Pedro de Alcántara",
+    "Pedro de Alcántara"
+  ]
+}

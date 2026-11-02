@@ -1,0 +1,322 @@
+{
+  "id": "alcantara-oracion-meditacion",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Tratado de la oración y meditación",
+    "en-US": "A Golden Treatise of Mental Prayer",
+    "pt-BR": "Tratado da oração e da meditação"
+  },
+  "author": {
+    "es-ES": "San Pedro de Alcántara",
+    "en-US": "St. Peter of Alcántara",
+    "pt-BR": "São Pedro de Alcântara"
+  },
+  "description": {
+    "es-ES": "El manual de oración mental de san Pedro de Alcántara (c. 1556): siete meditaciones para los días de la semana, siete sobre la pasión, las seis partes de la oración, ocho avisos, y la segunda parte sobre la devoción, sus ayudas, estorbos y tentaciones. Las meditaciones de la primera parte se apoyan en el Libro de la oración y meditación de fray Luis de Granada.",
+    "en-US": "St. Peter of Alcántara's handbook of mental prayer (c. 1556): seven meditations for the days of the week, seven on the Passion, the six parts of prayer, eight counsels, and a second part on devotion, its aids, hindrances and temptations. The meditations of Part I draw on Luis de Granada's Libro de la oración y meditación. English: G. S. Hollings's edition (1905), which differs from the Spanish in places (it abridges some meditations and lacks the dedicatory prologue).",
+    "pt-BR": "O manual de oração mental de São Pedro de Alcântara (c. 1556): sete meditações para os dias da semana, sete sobre a Paixão, as seis partes da oração, oito avisos e a segunda parte sobre a devoção, seus auxílios, obstáculos e tentações."
+  },
+  "composed": "1556",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "peter-of-alcantara/tratado-oracion-meditacion",
+  "editions": {
+    "es-ES": {
+      "editor": "Documenta Catholica Omnia (modernised-orthography text)",
+      "year": 2006
+    },
+    "en-US": {
+      "translator": "G. S. Hollings (ed., after the 1632 Willoughby translation)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.documentacatholicaomnia.eu/03d/1499-1562,_Alcantara._de._Pedro._Santo,_Tratado_de_La_Oracion_Y_Meditacion,_ES.pdf",
+      "edition": "Tratado de la oración y meditación, Documenta Catholica Omnia / MBS Library, modernised-orthography transcription (web capture of 2006).",
+      "description": "Complete Spanish text: prologue, Part I (12 chapters, with the 14 daily meditations) and Part II (5 chapters). Page furniture removed, chapters split.",
+      "tier": "B",
+      "tierEvidence": "The 16th-century text is in the public domain; DCO posts this transcription freely with no licence terms."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/goldentreatiseof0000gsho",
+      "edition": "A Golden Treatise of Mental Prayer, ed. G. S. Hollings, London: A. R. Mowbray, 1905 (scan of the 1940 reprint). OCR.",
+      "description": "English chapters follow the Spanish ids. The appendices (Short Introduction, Three Things) are not included here. Hollings's scripture-reference footnotes are not kept (their markers are lost in the OCR).",
+      "tier": "A",
+      "tierEvidence": "Published 1905; the editor, G. S. Hollings, died in 1914."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/tratado-de-la-oracion-y-meditacion-san-pedro-de-alcantara-1499-1562",
+      "edition": "Cross-check copies: the Apostolado Mariano (Sevilla 1991) scans on archive.org (tratado-de-la-oracion-y-meditacion-san-pedro-de-alcantara), and the Medina del Campo 1587 and Sevilla 1699 prints.",
+      "description": "Used only to compare readings.",
+      "tier": "B",
+      "tierEvidence": "Same 16th-century text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo"
+      }
+    },
+    {
+      "id": "parte-1",
+      "title": {
+        "es-ES": "Primera parte",
+        "en-US": "The First Part"
+      },
+      "children": [
+        {
+          "id": "p1-c1",
+          "title": {
+            "es-ES": "Capítulo I. Del fruto que se saca de la oración y meditación",
+            "en-US": "Chapter I. Of the fruit to be derived from prayer and meditation"
+          }
+        },
+        {
+          "id": "p1-c2",
+          "title": {
+            "es-ES": "Capítulo II. De la materia de la meditación",
+            "en-US": "Chapter II. Of the subject-matter of meditation"
+          }
+        },
+        {
+          "id": "p1-c2-dias",
+          "title": {
+            "es-ES": "Las siete meditaciones de la semana",
+            "en-US": "The seven meditations for the days of the week"
+          },
+          "children": [
+            {
+              "id": "p1-c2-lunes",
+              "title": {
+                "es-ES": "Meditación del lunes",
+                "en-US": "Meditation for Monday"
+              }
+            },
+            {
+              "id": "p1-c2-martes",
+              "title": {
+                "es-ES": "Meditación del martes",
+                "en-US": "Meditation for Tuesday"
+              }
+            },
+            {
+              "id": "p1-c2-miercoles",
+              "title": {
+                "es-ES": "Meditación del miércoles",
+                "en-US": "Meditation for Wednesday"
+              }
+            },
+            {
+              "id": "p1-c2-jueves",
+              "title": {
+                "es-ES": "Meditación del jueves",
+                "en-US": "Meditation for Thursday"
+              }
+            },
+            {
+              "id": "p1-c2-viernes",
+              "title": {
+                "es-ES": "Meditación del viernes",
+                "en-US": "Meditation for Friday"
+              }
+            },
+            {
+              "id": "p1-c2-sabado",
+              "title": {
+                "es-ES": "Meditación del sábado",
+                "en-US": "Meditation for Saturday"
+              }
+            },
+            {
+              "id": "p1-c2-domingo",
+              "title": {
+                "es-ES": "Meditación del domingo",
+                "en-US": "Meditation for Sunday"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-c3",
+          "title": {
+            "es-ES": "Capítulo III. Del tiempo y fruto de estas meditaciones susodichas",
+            "en-US": "Chapter III. Of the time and fruit of these meditations"
+          }
+        },
+        {
+          "id": "p1-c4",
+          "title": {
+            "es-ES": "Capítulo IV. De las otras siete meditaciones de la sagrada pasión y de la manera que habemos de tener en meditarla",
+            "en-US": "Chapter IV. Of the seven other meditations on the Sacred Passion, and of the way in which we have to meditate"
+          }
+        },
+        {
+          "id": "p1-c4-dias",
+          "title": {
+            "es-ES": "Las siete meditaciones de la pasión",
+            "en-US": "The seven meditations on the Sacred Passion"
+          },
+          "children": [
+            {
+              "id": "p1-c4-lunes",
+              "title": {
+                "es-ES": "Meditación del lunes",
+                "en-US": "Meditation for Monday"
+              }
+            },
+            {
+              "id": "p1-c4-martes",
+              "title": {
+                "es-ES": "Meditación del martes",
+                "en-US": "Meditation for Tuesday"
+              }
+            },
+            {
+              "id": "p1-c4-miercoles",
+              "title": {
+                "es-ES": "Meditación del miércoles",
+                "en-US": "Meditation for Wednesday"
+              }
+            },
+            {
+              "id": "p1-c4-jueves",
+              "title": {
+                "es-ES": "Meditación del jueves",
+                "en-US": "Meditation for Thursday"
+              }
+            },
+            {
+              "id": "p1-c4-viernes",
+              "title": {
+                "es-ES": "Meditación del viernes",
+                "en-US": "Meditation for Friday"
+              }
+            },
+            {
+              "id": "p1-c4-sabado",
+              "title": {
+                "es-ES": "Meditación del sábado",
+                "en-US": "Meditation for Saturday"
+              }
+            },
+            {
+              "id": "p1-c4-domingo",
+              "title": {
+                "es-ES": "Meditación del domingo",
+                "en-US": "Meditation for Sunday"
+              }
+            }
+          ]
+        },
+        {
+          "id": "p1-c5",
+          "title": {
+            "es-ES": "Capítulo V. De seis cosas que pueden entrevenir en el ejercicio de la oración",
+            "en-US": "Chapter V. Six things which may help in the exercise of prayer"
+          }
+        },
+        {
+          "id": "p1-c6",
+          "title": {
+            "es-ES": "Capítulo VI. De la preparación que se requiere para antes de la oración",
+            "en-US": "Chapter VI. Of the previous preparation"
+          }
+        },
+        {
+          "id": "p1-c7",
+          "title": {
+            "es-ES": "Capítulo VII. De la lección",
+            "en-US": "Chapter VII. Of the reading"
+          }
+        },
+        {
+          "id": "p1-c8",
+          "title": {
+            "es-ES": "Capítulo VIII. De la meditación",
+            "en-US": "Chapter VIII. Of meditation"
+          }
+        },
+        {
+          "id": "p1-c9",
+          "title": {
+            "es-ES": "Capítulo IX. Del hacimiento de gracias",
+            "en-US": "Chapter IX. Of the thanksgiving"
+          }
+        },
+        {
+          "id": "p1-c10",
+          "title": {
+            "es-ES": "Capítulo X. Del ofrecimiento",
+            "en-US": "Chapter X. Of the offering of ourselves"
+          }
+        },
+        {
+          "id": "p1-c11",
+          "title": {
+            "es-ES": "Capítulo XI. De la petición",
+            "en-US": "Chapter XI. Of petition"
+          }
+        },
+        {
+          "id": "p1-c12",
+          "title": {
+            "es-ES": "Capítulo XII. De algunos avisos que se deben tener en este santo ejercicio",
+            "en-US": "Chapter XII. Of certain counsels which should be observed in this holy exercise"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-2",
+      "title": {
+        "es-ES": "Segunda parte: de la devoción",
+        "en-US": "The Second Part: Of Devotion"
+      },
+      "children": [
+        {
+          "id": "p2-c1",
+          "title": {
+            "es-ES": "Capítulo I. Qué cosa sea devoción",
+            "en-US": "Chapter I. What is devotion"
+          }
+        },
+        {
+          "id": "p2-c2",
+          "title": {
+            "es-ES": "Capítulo II. De nueve cosas que ayudan a alcanzar la devoción",
+            "en-US": "Chapter II. Nine means of help to attain devotion"
+          }
+        },
+        {
+          "id": "p2-c3",
+          "title": {
+            "es-ES": "Capítulo III. De diez cosas que impiden la devoción",
+            "en-US": "Chapter III. Ten hindrances to devotion"
+          }
+        },
+        {
+          "id": "p2-c4",
+          "title": {
+            "es-ES": "Capítulo IV. De las tentaciones más comunes que suelen fatigar a los que se dan a la oración, y de sus remedios",
+            "en-US": "Chapter IV. The temptations which most commonly assail those who give themselves to meditation, and their remedies"
+          }
+        },
+        {
+          "id": "p2-c5",
+          "title": {
+            "es-ES": "Capítulo V. De algunos avisos necesarios para los que se dan a la oración",
+            "en-US": "Chapter V. Of certain necessary counsels for those who give themselves to prayer"
+          }
+        }
+      ]
+    }
+  ]
+}
