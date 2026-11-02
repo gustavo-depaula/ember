@@ -1,0 +1,98 @@
+{
+  "id": "bossuet-instructions-sur-les-promesses-de-l-eglise",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Instructions pastorales sur les promesses de l’Église",
+    "en-US": "Pastoral Instructions on the Promises of the Church",
+    "pt-BR": "Instruções pastorais sobre as promessas da Igreja"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Deux instructions pastorales contre le ministre Jurieu et son traité de l’Unité de l’Église : les promesses de Jésus-Christ à son Église, sa perpétuité visible et l’impossibilité qu’elle tombe dans l’erreur. Publiées en 1700. Édition Lachat (1864).",
+    "en-US": "Two pastoral instructions against the minister Jurieu and his treatise on the Unity of the Church: Christ’s promises to his Church, its visible perpetuity and the impossibility of its falling into error. Published in 1700. Lachat edition (1864).",
+    "pt-BR": "Duas instruções pastorais contra o ministro Jurieu e seu tratado sobre a Unidade da Igreja: as promessas de Cristo à sua Igreja, sua perpetuidade visível e a impossibilidade de que ela caia no erro. Publicadas em 1700. Edição Lachat (1864)."
+  },
+  "composed": "1700",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/instructions-sur-les-promesses-de-l-eglise",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume017/003.htm to 004.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XVII, pages 003-004. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "instruction-1",
+      "title": {
+        "fr-FR": "Instruction pastorale sur les promesses de l’Église"
+      }
+    },
+    {
+      "id": "instruction-2",
+      "title": {
+        "fr-FR": "Seconde instruction pastorale sur les promesses de Jésus-Christ à son Église"
+      },
+      "children": [
+        {
+          "id": "instruction-2-sec-0",
+          "title": {
+            "fr-FR": "Seconde instruction pastorale sur les promesses de Jésus-Christ à son Église"
+          }
+        },
+        {
+          "id": "instruction-2-sec-001",
+          "title": {
+            "fr-FR": "Remarques Sur le Traité du ministre, et premièrement sur ce qu'il autorise le schisme"
+          }
+        },
+        {
+          "id": "instruction-2-sec-002",
+          "title": {
+            "fr-FR": "Remarques Sur Le Fait De Paschase Radbert, Où le ministre tâche de marquer une innovation positive"
+          }
+        },
+        {
+          "id": "instruction-2-sec-003",
+          "title": {
+            "fr-FR": "Remarques sur le fait des grecs"
+          }
+        },
+        {
+          "id": "instruction-2-sec-004",
+          "title": {
+            "fr-FR": "Remarques sur l'histoire de l'arianisme"
+          }
+        },
+        {
+          "id": "instruction-2-sec-005",
+          "title": {
+            "fr-FR": "Réponse A diverses calomnies qu'on nous fait sur l'Ecriture et sur d'autres points"
+          }
+        },
+        {
+          "id": "instruction-2-sec-006",
+          "title": {
+            "fr-FR": "Conclusion et abrégé de tout ce discours"
+          }
+        }
+      ]
+    }
+  ]
+}
