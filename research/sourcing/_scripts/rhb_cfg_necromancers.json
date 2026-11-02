@@ -1,0 +1,21 @@
+{
+ "id": "benson-necromancers",
+ "dir": "benson-opera-omnia/necromancers",
+ "slug": "necromancers",
+ "name": "The Necromancers",
+ "name_pt": "Os Necromantes",
+ "desc": "Benson's novel of 1909 on spiritualism: a young man, Laurie Baxter, bereaved of the woman he loves, turns to a medium and falls under the control of the spirits, until a priest intervenes.",
+ "desc_pt": "O romance de Benson (1909) sobre o espiritismo: um jovem, Laurie Baxter, enlutado pela mulher que ama, recorre a um médium e cai sob o domínio dos espíritos, até que um padre intervém.",
+ "composed": 1909,
+ "editor": "Robert Hugh Benson (London: Hutchinson, 1909)",
+ "year": 1909,
+ "url": "https://www.gutenberg.org/ebooks/14275",
+ "edition": "The Necromancers (London: Hutchinson, 1909), Project Gutenberg #14275, proofread.",
+ "src": "robert-hugh-benson/pg/pg14275.txt",
+ "chap_re": "^_Chapter (?P<n>[IVXL]+)_$",
+ "sec_re": "^[IVXL]+\\.?$",
+ "end": "^\\*\\*\\* END OF",
+ "srcnote": "Chapters as printed; the numbered sections are kept as ## headings.",
+ "start": "^--Robert Hugh Benson\\.$",
+ "after": 70
+}
