@@ -1,0 +1,96 @@
+{
+  "id": "bonaventure-de-perfectione-vitae-ad-sorores",
+  "cover": "classic",
+  "name": {
+    "la": "De perfectione vitae ad sorores",
+    "en-US": "The Perfection of Life, for Sisters",
+    "pt-BR": "A perfeição da vida, para as irmãs"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Epistola ad sororem sanctae Claram, de perfectione vitae, in octo capitibus: de cognitione sui, humilitate, paupertate, silentio, oratione, memoria passionis, caritate et perseverantia. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "A letter of spiritual direction to a Poor Clare in eight chapters: self-knowledge, humility, poverty, silence, prayer, the memory of the Passion, charity and final perseverance. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Carta de direção espiritual a uma clarissa em oito capítulos: conhecimento de si, humildade, pobreza, silêncio, oração, memória da Paixão, caridade e perseverança final."
+  },
+  "composed": "c. 1260",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/de-perfectione-vitae-ad-sorores",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. De vera sui ipsius cognitione"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De vera humiliiale"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De perfecta paupertate"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De silentio et taciturnitate"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. De studio orationis"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. De passionis Christi memoria"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. De perfecta Dei carilale"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. De finali perseverantia"
+      }
+    }
+  ]
+}
