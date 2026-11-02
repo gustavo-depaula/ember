@@ -1,0 +1,150 @@
+{
+  "id": "catherine-genoa-purgatorio-en",
+  "cover": "classic",
+  "name": {
+    "en-US": "Treatise on Purgatory",
+    "it": "Trattato del Purgatorio (trad. inglese 1874)",
+    "pt-BR": "Tratado do Purgatório (trad. inglesa 1874)"
+  },
+  "author": {
+    "it": "Santa Caterina da Genova",
+    "en-US": "St. Catherine of Genoa",
+    "pt-BR": "Santa Catarina de Gênova"
+  },
+  "description": {
+    "en-US": "The Treatise on Purgatory of St. Catherine of Genoa: the divine fire that she felt in herself made her understand the state of the souls in purgatory, who are consumed with the love of God, content in the torment, and wish only to be wholly purified. The 1874 English translation in seventeen chapters; the Italian text, in nineteen chapters, is a separate book.",
+    "it": "Il Trattato del Purgatorio di santa Caterina da Genova nella traduzione inglese del 1874, in diciassette capitoli; il testo italiano, in diciannove capitoli, è un libro a parte.",
+    "pt-BR": "O Tratado do Purgatório de santa Catarina de Gênova: o fogo divino que ela sentia em si a fez compreender o estado das almas do purgatório. Tradução inglesa de 1874, em dezessete capítulos."
+  },
+  "composed": "1551",
+  "languages": [
+    "en-US"
+  ],
+  "work": "catherine-of-genoa/trattato-del-purgatorio",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (Catholic Publication Society, introduction by I. T. Hecker)",
+      "year": 1874
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/catherine_g/life/life",
+      "edition": "Life and Doctrine of Saint Catherine of Genoa, translated from the Italian, New York: Catholic Publication Society 1874 (reprinted Christian Press Association 1907), introduction by Isaac T. Hecker. CCEL transcription (proofed), checked against the Internet Archive scan lifedoctrineofsa0000vari.",
+      "description": "The seventeen chapters of the Treatise on Purgatory with the argument. Cardinal Manning’s independent translation of 1858 (https://archive.org/details/TreatiseOnPurgatory) was not used.",
+      "tier": "A",
+      "tierEvidence": "The 1874 New York translation and its 1907 reprint are anonymous or by Hecker's circle (Hecker died 1888); public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "intro",
+      "title": {
+        "en-US": "Argument"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. The state of souls in purgatory.--They are exempt from all self-love."
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. The joy of souls in purgatory.--The saint illustrates their ever increasing vision of God.--The difficulty of speaking about their state."
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. Separation from God is the greatest pain of purgatory.--In this, purgatory differs from hell."
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. The difference between the state of the souls in hell and that of those in purgatory.--Reflections of the saint upon those who neglect their salvation."
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. Of the peace and joy which are found in purgatory"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. A comparison to express with how great violence of love the souls in purgatory desire to enjoy God."
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. Of the marvelous wisdom of God in the creation of purgatory and of hell."
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII. Of the necessity of purgatory, and of its terrific character"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter IX. How God and the soul reciprocally regard each other in purgatory.--The saint confesses that she has no words to express these things."
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter X. How God makes use of purgatory to complete the purification of the soul.--That she acquires therein a purity so great that if she were yet to remain after her purification she would cease to suffer."
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI. The desire of souls in purgatory to be purified from every stain of sin.--The wisdom of God in veiling from them their defects."
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII. How joy and suffering are united in purgatory"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XIII. The souls in purgatory are not in a state to merit.--How they regard the suffrages offered for them in this world."
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter XIV. Of the submission of the souls in purgatory to the will of God"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter XV. Reproaches of the soul in purgatory to persons in this world"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Chapter XVI. Showing that the sufferings of the souls in purgatory do not prevent their peace and joy."
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Chapter XVII. Which concludes with an application of all that has been said concerning the souls in purgatory to what the saint experiences in her own soul."
+      }
+    }
+  ]
+}
