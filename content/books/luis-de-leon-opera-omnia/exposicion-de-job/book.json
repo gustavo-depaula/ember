@@ -1,0 +1,299 @@
+{
+  "id": "luis-exposicion-de-job",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Exposición del libro de Job",
+    "en-US": "Exposition of the Book of Job",
+    "pt-BR": "Exposição do livro de Jó"
+  },
+  "description": {
+    "es-ES": "El comentario más extenso de Fray Luis (terminado en 1591 y publicado en Madrid en 1779): dedicatoria a don Pedro Portocarrero y, por cada uno de los cuarenta y dos capítulos, la traducción literal del hebreo y la exposición, versículo por versículo.",
+    "en-US": "Fray Luis's longest work (finished in 1591, printed in Madrid in 1779): a dedication to Don Pedro Portocarrero and, for each of the forty-two chapters, a literal translation from the Hebrew and a verse-by-verse exposition.",
+    "pt-BR": "O mais extenso comentário de Frei Luís (terminado em 1591 e publicado em Madri em 1779): dedicatória a dom Pedro Portocarrero e, para cada um dos quarenta e dois capítulos, a tradução literal do hebraico e a exposição, versículo por versículo."
+  },
+  "composed": "1572–1591",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "luis-de-leon/exposicion-de-job",
+  "editions": {
+    "es-ES": {
+      "editor": "es.wikisource transcription of the Madrid 1779 edition",
+      "year": 1779
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://es.wikisource.org/wiki/Exposición_del_Libro_de_Job",
+      "edition": "Exposición del Libro de Job, es.wikisource (dedicatoria and chapters 1-42, each translation page joined to its exposition page). Madrid 1779 princeps: archive.org exposiciondellibrode-jobobraposthuma.",
+      "description": "Transcription of a public-domain edition.",
+      "tier": "A"
+    }
+  ],
+  "author": {
+    "es-ES": "Fray Luis de León",
+    "en-US": "Fray Luis de León",
+    "pt-BR": "Frei Luís de León"
+  },
+  "toc": [
+    {
+      "id": "dedicatoria",
+      "title": {
+        "es-ES": "Dedicatoria"
+      }
+    },
+    {
+      "id": "cap-01",
+      "title": {
+        "es-ES": "Capítulo 1"
+      }
+    },
+    {
+      "id": "cap-02",
+      "title": {
+        "es-ES": "Capítulo 2"
+      }
+    },
+    {
+      "id": "cap-03",
+      "title": {
+        "es-ES": "Capítulo 3"
+      }
+    },
+    {
+      "id": "cap-04",
+      "title": {
+        "es-ES": "Capítulo 4"
+      }
+    },
+    {
+      "id": "cap-05",
+      "title": {
+        "es-ES": "Capítulo 5"
+      }
+    },
+    {
+      "id": "cap-06",
+      "title": {
+        "es-ES": "Capítulo 6"
+      }
+    },
+    {
+      "id": "cap-07",
+      "title": {
+        "es-ES": "Capítulo 7"
+      }
+    },
+    {
+      "id": "cap-08",
+      "title": {
+        "es-ES": "Capítulo 8"
+      }
+    },
+    {
+      "id": "cap-09",
+      "title": {
+        "es-ES": "Capítulo 9"
+      }
+    },
+    {
+      "id": "cap-10",
+      "title": {
+        "es-ES": "Capítulo 10"
+      }
+    },
+    {
+      "id": "cap-11",
+      "title": {
+        "es-ES": "Capítulo 11"
+      }
+    },
+    {
+      "id": "cap-12",
+      "title": {
+        "es-ES": "Capítulo 12"
+      }
+    },
+    {
+      "id": "cap-13",
+      "title": {
+        "es-ES": "Capítulo 13"
+      }
+    },
+    {
+      "id": "cap-14",
+      "title": {
+        "es-ES": "Capítulo 14"
+      }
+    },
+    {
+      "id": "cap-15",
+      "title": {
+        "es-ES": "Capítulo 15"
+      }
+    },
+    {
+      "id": "cap-16",
+      "title": {
+        "es-ES": "Capítulo 16"
+      }
+    },
+    {
+      "id": "cap-17",
+      "title": {
+        "es-ES": "Capítulo 17"
+      }
+    },
+    {
+      "id": "cap-18",
+      "title": {
+        "es-ES": "Capítulo 18"
+      }
+    },
+    {
+      "id": "cap-19",
+      "title": {
+        "es-ES": "Capítulo 19"
+      }
+    },
+    {
+      "id": "cap-20",
+      "title": {
+        "es-ES": "Capítulo 20"
+      }
+    },
+    {
+      "id": "cap-21",
+      "title": {
+        "es-ES": "Capítulo 21"
+      }
+    },
+    {
+      "id": "cap-22",
+      "title": {
+        "es-ES": "Capítulo 22"
+      }
+    },
+    {
+      "id": "cap-23",
+      "title": {
+        "es-ES": "Capítulo 23"
+      }
+    },
+    {
+      "id": "cap-24",
+      "title": {
+        "es-ES": "Capítulo 24"
+      }
+    },
+    {
+      "id": "cap-25",
+      "title": {
+        "es-ES": "Capítulo 25"
+      }
+    },
+    {
+      "id": "cap-26",
+      "title": {
+        "es-ES": "Capítulo 26"
+      }
+    },
+    {
+      "id": "cap-27",
+      "title": {
+        "es-ES": "Capítulo 27"
+      }
+    },
+    {
+      "id": "cap-28",
+      "title": {
+        "es-ES": "Capítulo 28"
+      }
+    },
+    {
+      "id": "cap-29",
+      "title": {
+        "es-ES": "Capítulo 29"
+      }
+    },
+    {
+      "id": "cap-30",
+      "title": {
+        "es-ES": "Capítulo 30"
+      }
+    },
+    {
+      "id": "cap-31",
+      "title": {
+        "es-ES": "Capítulo 31"
+      }
+    },
+    {
+      "id": "cap-32",
+      "title": {
+        "es-ES": "Capítulo 32"
+      }
+    },
+    {
+      "id": "cap-33",
+      "title": {
+        "es-ES": "Capítulo 33"
+      }
+    },
+    {
+      "id": "cap-34",
+      "title": {
+        "es-ES": "Capítulo 34"
+      }
+    },
+    {
+      "id": "cap-35",
+      "title": {
+        "es-ES": "Capítulo 35"
+      }
+    },
+    {
+      "id": "cap-36",
+      "title": {
+        "es-ES": "Capítulo 36"
+      }
+    },
+    {
+      "id": "cap-37",
+      "title": {
+        "es-ES": "Capítulo 37"
+      }
+    },
+    {
+      "id": "cap-38",
+      "title": {
+        "es-ES": "Capítulo 38"
+      }
+    },
+    {
+      "id": "cap-39",
+      "title": {
+        "es-ES": "Capítulo 39"
+      }
+    },
+    {
+      "id": "cap-40",
+      "title": {
+        "es-ES": "Capítulo 40"
+      }
+    },
+    {
+      "id": "cap-41",
+      "title": {
+        "es-ES": "Capítulo 41"
+      }
+    },
+    {
+      "id": "cap-42",
+      "title": {
+        "es-ES": "Capítulo 42"
+      }
+    }
+  ]
+}

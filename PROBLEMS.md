@@ -69,6 +69,8 @@ These books were imported from scans and corrected by script, not proofread. Pro
 
 - `alonso-rodriguez-opera-omnia/ejercicio-de-perfeccion`: Spanish is a modern digital edition from OCR, not proofread (a few stray footnote marks such as "Dios',", a few letter misreads such as "pró- Jimos"); the editor's Latin authorities are not in it, and 3 of his footnotes were left out. English (Rickaby 1929) is OCR: about 40% of chapters open with an OCR fragment of the dropped initial ("| Nabe is…", "pet fine old philosopher…" for the first word), and some openings are repaired by guess. The 1834/1861/1879 Spanish prints (with the Latin) are the better text if time allows.
 
+- `luis-de-leon-opera-omnia/exposicion-de-job`, `es-ES/`: the verse paraphrase of Job in tercets (Luis's last piece in the printed edition) is not on es.wikisource and is not in the book; the chapter pages carry only the translation and the exposition.
+
 ### English left out
 
 - `john-of-the-cross-opera-omnia/{cantico-a,llama-b,avisos,opuscula,epistolario,poesias}`: Spanish only. Lewis/Zimmerman (1912/1919) has English for the letters (18 of Silverio's 26, numbered differently), the poems, the maxims (a different, longer compilation than the Andújar *Dichos*) and "Instructions and Precautions" (the Cautelas and the Counsels), but they are not yet cleaned or paired; they would be their own books. Cántico A and Llama B have no free English.
