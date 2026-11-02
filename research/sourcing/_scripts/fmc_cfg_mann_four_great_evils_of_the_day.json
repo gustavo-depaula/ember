@@ -1,0 +1,50 @@
+{
+ "id": "manning-four-great-evils-of-the-day",
+ "dir": "manning-opera-omnia/four-great-evils-of-the-day",
+ "slug": "four-great-evils-of-the-day",
+ "work": "manning/four-great-evils-of-the-day",
+ "name": "The Four Great Evils of the Day",
+ "name_pt": "Os Quatro Grandes Males do Nosso Tempo",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "The Four Great Evils of the Day (1871): four Lenten lectures at the Pro-Cathedral, Kensington: the revolt of the intellect against God, the revolt of the will against God, the revolt of society from God, and the spirit of Antichrist.",
+ "desc_pt": "Os Quatro Grandes Males do Nosso Tempo (1871): quatro confer\u00eancias quaresmais na Pr\u00f3-Catedral de Kensington: a revolta da intelig\u00eancia contra Deus, a revolta da vontade contra Deus, a revolta da sociedade contra Deus e o esp\u00edrito do Anticristo.",
+ "composed": 1871,
+ "editor": "Henry Edward Manning (London: Burns, Oates and Co., 1871)",
+ "year": 1871,
+ "url": "https://archive.org/details/a591664700mannuoft",
+ "edition": "The Four Great Evils of the Day (London: Burns, Oates and Co., 1871), Internet Archive full-text OCR.",
+ "srcnote": "The four lectures; the contents and the publisher's list of books are dropped.",
+ "src": "manning/ia/a591664700mannuoft_djvu.txt",
+ "start": 76,
+ "end": 4258,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "lecture-1",
+   "title": "Lecture I. The Revolt of the Intellect against God",
+   "from": 78
+  },
+  {
+   "id": "lecture-2",
+   "title": "Lecture II. The Revolt of the Will against God",
+   "from": 1141
+  },
+  {
+   "id": "lecture-3",
+   "title": "Lecture III. The Revolt of Society from God",
+   "from": 2129
+  },
+  {
+   "id": "lecture-4",
+   "title": "Lecture IV. The Spirit of Antichrist",
+   "from": 3100
+  }
+ ]
+}

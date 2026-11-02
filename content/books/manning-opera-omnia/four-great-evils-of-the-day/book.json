@@ -1,0 +1,63 @@
+{
+  "id": "manning-four-great-evils-of-the-day",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Four Great Evils of the Day",
+    "pt-BR": "Os Quatro Grandes Males do Nosso Tempo"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Four Great Evils of the Day (1871): four Lenten lectures at the Pro-Cathedral, Kensington: the revolt of the intellect against God, the revolt of the will against God, the revolt of society from God, and the spirit of Antichrist.",
+    "pt-BR": "Os Quatro Grandes Males do Nosso Tempo (1871): quatro conferências quaresmais na Pró-Catedral de Kensington: a revolta da inteligência contra Deus, a revolta da vontade contra Deus, a revolta da sociedade contra Deus e o espírito do Anticristo."
+  },
+  "composed": 1871,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/four-great-evils-of-the-day",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns, Oates and Co., 1871)",
+      "year": 1871
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591664700mannuoft",
+      "edition": "The Four Great Evils of the Day (London: Burns, Oates and Co., 1871), Internet Archive full-text OCR.",
+      "description": "The four lectures; the contents and the publisher's list of books are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1871, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lecture-1",
+      "title": {
+        "en-US": "Lecture I. The Revolt of the Intellect against God"
+      }
+    },
+    {
+      "id": "lecture-2",
+      "title": {
+        "en-US": "Lecture II. The Revolt of the Will against God"
+      }
+    },
+    {
+      "id": "lecture-3",
+      "title": {
+        "en-US": "Lecture III. The Revolt of Society from God"
+      }
+    },
+    {
+      "id": "lecture-4",
+      "title": {
+        "en-US": "Lecture IV. The Spirit of Antichrist"
+      }
+    }
+  ]
+}
