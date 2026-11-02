@@ -1,0 +1,2220 @@
+{
+  "id": "bossuet-lettres-quietisme-i",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres sur l’affaire du quiétisme (I)",
+    "en-US": "Letters on the Quietist Affair (I)",
+    "pt-BR": "Cartas sobre o caso do quietismo (I)"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Bossuet et de ses correspondants sur l’affaire du quiétisme, de 1694 à 1698 : Mme Guyon, M. Tronson, Fénelon, M. de Noailles, puis la correspondance avec son neveu l’abbé Bossuet et l’abbé Phelippeaux, à Rome. Édition Lachat (1864), tomes XXVIII-XXIX.",
+    "en-US": "The letters of Bossuet and his correspondents on the Quietist affair, 1694 to 1698: Madame Guyon, M. Tronson, Fénelon, M. de Noailles, then the correspondence with his nephew the abbé Bossuet and the abbé Phelippeaux in Rome. Lachat edition (1864), volumes XXVIII-XXIX.",
+    "pt-BR": "As cartas de Bossuet e de seus correspondentes sobre o caso do quietismo, de 1694 a 1698: a sra. Guyon, o sr. Tronson, Fénelon, o sr. de Noailles, depois a correspondência com o sobrinho, o abade Bossuet, e com o abade Phelippeaux, em Roma. Edição Lachat (1864), tomos XXVIII-XXIX."
+  },
+  "composed": "1694–1698",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/lettres-sur-le-quietisme-i",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume028/014.htm to 017.htm and volume029/002.htm to 017.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXVIII pages 014-017 and volume XXIX pages 002-017 (Lettres sur l’affaire du quiétisme; the cover page 029/001 was not captured). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l001",
+      "title": {
+        "fr-FR": "De Quietismo in Galliis Refutato"
+      }
+    },
+    {
+      "id": "l002",
+      "title": {
+        "fr-FR": "De la Réfutation du Quiétisme en France"
+      }
+    },
+    {
+      "id": "l003",
+      "title": {
+        "fr-FR": "Lettre première. Madame Guyon au Père la Combe, Barnabite. Ce 28 février 1683"
+      }
+    },
+    {
+      "id": "l004",
+      "title": {
+        "fr-FR": "Lettre II. Madame Guyon à Dom Grégoire Bouvier, Chartreux, son Frère. Ce 12 décembre 1689"
+      }
+    },
+    {
+      "id": "l005",
+      "title": {
+        "fr-FR": "Lettre III. Madame Guyon à Bossuet. Ce.....septembre 1693"
+      }
+    },
+    {
+      "id": "l006",
+      "title": {
+        "fr-FR": "Lettre IV. Madame Guyon à Bossuet. Ce 5 octobre 1693"
+      }
+    },
+    {
+      "id": "l007",
+      "title": {
+        "fr-FR": "Écrit DE Madame Guyon, qui accompagnait sa lettre"
+      }
+    },
+    {
+      "id": "l008",
+      "title": {
+        "fr-FR": "Lettre V. Madame Guyon à Bossuet. Ce 22 octobre, 1693"
+      }
+    },
+    {
+      "id": "l009",
+      "title": {
+        "fr-FR": "Lettre VI. Madame Guyon à Bossuet. Ce 25 janvier 1694"
+      }
+    },
+    {
+      "id": "l010",
+      "title": {
+        "fr-FR": "Lettre VII. Madame Guyon à Bossuet. Ce 29 janvier 1694"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "fr-FR": "Lettre VIII. Madame Guyon à Bossuet. Ce 30 janvier 1694"
+      }
+    },
+    {
+      "id": "l012",
+      "title": {
+        "fr-FR": "Lettre IX. Madame Guyon à Bossuet. Ce 10 février 1694"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "fr-FR": "Lettre X. Madame Guyon à Bossuet. Février 1694"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "fr-FR": "Lettre XI. Madame Guyon à Bossuet. A la fin de février 1694"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "fr-FR": "Lettre XII. Bossuet à Madame Guyon"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "fr-FR": "Addition"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "fr-FR": "Autre Addition"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "fr-FR": "Lettre XIII. Madame Guyon à Bossuet"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "fr-FR": "Lettre XIV. Madame Guyon à Madame de Maintenon. Juin 1694"
+      }
+    },
+    {
+      "id": "l020",
+      "title": {
+        "fr-FR": "Lettre XV. Madame Guyon à MM. Bossuet, Évêque de Meaux, de Noailles, Évêque de Chalons, et Tronson, Supérieur du Séminaire de Saint-Sulpice; Choisis pour examiner les liv"
+      }
+    },
+    {
+      "id": "l021",
+      "title": {
+        "fr-FR": "Lettre XVI. Madame Guyon à Bossuet. 1694"
+      }
+    },
+    {
+      "id": "l022",
+      "title": {
+        "fr-FR": "Lettre XVII. Madame Guyon à Bossuet. 1694"
+      }
+    },
+    {
+      "id": "l023",
+      "title": {
+        "fr-FR": "Lettre XVIII. L’abbé de Fénelon à Bossuet. Du mercredi, 14 juillet 1694"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "fr-FR": "Lettre XIX. L’abbé de Fénelon à Bossuet. À Versailles, ce 28 juillet 1694"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "fr-FR": "Lettre XX. L’abbé de Fénelon à Bossuet. À Versailles, ce 12 décembre 1694"
+      }
+    },
+    {
+      "id": "l026",
+      "title": {
+        "fr-FR": "Lettre XXI. L’abbé de Fénelon à Bossuet. À Versailles, ce 16 décembre 1694"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "fr-FR": "Lettre XXII. Madame Guyon à Bossuet. Ce 23 décembre 1694"
+      }
+    },
+    {
+      "id": "l028",
+      "title": {
+        "fr-FR": "Lettre XXIII. Madame Guyon à Bossuet. A la fin de décembre 1694"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "fr-FR": "Lettre XXIV. L’abbé de Fénelon à Bossuet. Ce 26 janvier 1695"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "fr-FR": "Lettre XXVI. L’abbé de Fénelon à Bossuet. Mardi 8 mars 1695"
+      }
+    },
+    {
+      "id": "l031",
+      "title": {
+        "fr-FR": "Lettre XXVII. L’abbé de Fénelon à Bossuet. À Versailles, ce 27 mars 1695"
+      }
+    },
+    {
+      "id": "l032",
+      "title": {
+        "fr-FR": "Déclaration de Madame Guyon"
+      }
+    },
+    {
+      "id": "l033",
+      "title": {
+        "fr-FR": "Lettre XXVIII. Extrait d’Une Lettre du Cardinal le Camus"
+      }
+    },
+    {
+      "id": "l034",
+      "title": {
+        "fr-FR": "Lettre XXIX. Dom Richebraque, Bénédictin, au Duc de Chevreuse. Blois, 14 avril 1695"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "fr-FR": "Lettre XXX. Dom Richebraque à Madame Guyon. Blois, 14 avril 1695"
+      }
+    },
+    {
+      "id": "l036",
+      "title": {
+        "fr-FR": "Lettre XXXI. Le Duc de Chevreuse à Dom Richebraque. À Versailles, le 18 avril 1693"
+      }
+    },
+    {
+      "id": "l037",
+      "title": {
+        "fr-FR": "Lettre XXXII. Dom Richebraque au Duc de Chevreuse. À Blois, 23 avril 1695"
+      }
+    },
+    {
+      "id": "l038",
+      "title": {
+        "fr-FR": "Lettre XXXIII. Bossuet à M.tronson, Supérieur du Séminaire de Saint-Sulpice. À Paris, lundi soir (mai 1695)"
+      }
+    },
+    {
+      "id": "l039",
+      "title": {
+        "fr-FR": "Lettre XXXIV. Bossuet à M. de la Broue. Évêque de Mirepoix. À Meaux, le 24 mai 1695"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "fr-FR": "Lettre XXXV. Bossuet à M. de la Broue. À Germigny, ce 29 mai 1695"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "fr-FR": "Lettre XXXVI. Bossuet à M. de la Broue. À Meaux, le 3 juin 1695"
+      }
+    },
+    {
+      "id": "l042",
+      "title": {
+        "fr-FR": "Lettre XXXVII. Madame Guyon à Bossuet. Juillet 1695"
+      }
+    },
+    {
+      "id": "l043",
+      "title": {
+        "fr-FR": "Lettre XXXVIII. Bossuet à Madame Guyon. À Paris, ce 16 juillet 1695"
+      }
+    },
+    {
+      "id": "l044",
+      "title": {
+        "fr-FR": "Lettre XXXIX. Madame Guyon à Bossuet. Juillet 1095"
+      }
+    },
+    {
+      "id": "l045",
+      "title": {
+        "fr-FR": "Lettre XL. La Mère le Picart, Supérieure de la Visitation de Meaux, à Bossuet"
+      }
+    },
+    {
+      "id": "l046",
+      "title": {
+        "fr-FR": "Lettre XLI. Bossuet à M. Tronson. À Germigny, 30 septembre 1695"
+      }
+    },
+    {
+      "id": "l047",
+      "title": {
+        "fr-FR": "Lettre XLII. M. Tronson à Bossuet. Octobre 1695"
+      }
+    },
+    {
+      "id": "l048",
+      "title": {
+        "fr-FR": "Lettre XLIII. Les Religieuses de la Visitation de Meaux à Madame Guyon. De notre monastère de Meaux, ce 9 juillet 1695"
+      }
+    },
+    {
+      "id": "l049",
+      "title": {
+        "fr-FR": "Lettre XLIV. Le P. La Combe à Madame Guyon. Ce 10 octobre 1695"
+      }
+    },
+    {
+      "id": "l050",
+      "title": {
+        "fr-FR": "Lettre XLV. Le P. La Combe à Madame Guyon. Ce 11 novembre 1695"
+      }
+    },
+    {
+      "id": "l051",
+      "title": {
+        "fr-FR": "Lettre XLVI. Le P. La Combe à Madame Guyon. Ce 7 décembre 1695"
+      }
+    },
+    {
+      "id": "l052",
+      "title": {
+        "fr-FR": "Lettre XLVII. Fénelon à Bossuet. À Paris, ce 7 décembre 1695"
+      }
+    },
+    {
+      "id": "l053",
+      "title": {
+        "fr-FR": "Lettre XLVIII. Fénelon à Bossuet. À Cambray, ce 18 décembre 1095"
+      }
+    },
+    {
+      "id": "l054",
+      "title": {
+        "fr-FR": "Lettre XLIX. Bossuet à M. de la Broue. À Paris, ce 18 février 1696"
+      }
+    },
+    {
+      "id": "l055",
+      "title": {
+        "fr-FR": "Lettre L. Bossuet à M. Tronson. À Paris, 21 mars 1696"
+      }
+    },
+    {
+      "id": "l056",
+      "title": {
+        "fr-FR": "Lettre LI. Fénelon à Bossuet. À Valenciennes, ce 9 mai 1696"
+      }
+    },
+    {
+      "id": "l057",
+      "title": {
+        "fr-FR": "Lettre LII. Bossuet à l’abbé Bossuet, son Neveu. À Paris, ce 20 mai 1696"
+      }
+    },
+    {
+      "id": "l058",
+      "title": {
+        "fr-FR": "Lettre LIII. Fénelon à Bossuet. À Mons, ce 24 mai 1696"
+      }
+    },
+    {
+      "id": "l059",
+      "title": {
+        "fr-FR": "Lettre LIV. M. Pirot, Docteur de Sorbonne, à Madame Guyon. En Sorbonne, ce 9 juin 1696"
+      }
+    },
+    {
+      "id": "l060",
+      "title": {
+        "fr-FR": "Lettre LV. Bossuet à son Neveu. À Paris, ce 28 mai 1696"
+      }
+    },
+    {
+      "id": "l061",
+      "title": {
+        "fr-FR": "Lettre LVI. Bossuet à son Neveu. À Paris, ce 7 juin 1696"
+      }
+    },
+    {
+      "id": "l062",
+      "title": {
+        "fr-FR": "Lettre LVII. Bossuet à M. de la Broue. À Paris, ce 27 juin 1696"
+      }
+    },
+    {
+      "id": "l063",
+      "title": {
+        "fr-FR": "Lettre LVIII.. Bossuet à son Neveu. Ce 10 juin 1696"
+      }
+    },
+    {
+      "id": "l064",
+      "title": {
+        "fr-FR": "Lettre LIX. Bossuet à son Neveu. À Meaux, ce 24 juin 1696"
+      }
+    },
+    {
+      "id": "l065",
+      "title": {
+        "fr-FR": "Lettre LX. Bossu et à son Neveu. À Germigny, ce 30 juin 1696"
+      }
+    },
+    {
+      "id": "l066",
+      "title": {
+        "fr-FR": "Lettre LXI. Bossuet à son Neveu. À Paris, ce 9 juillet 1696"
+      }
+    },
+    {
+      "id": "l067",
+      "title": {
+        "fr-FR": "Lettre LXII. Bossuet à son Neveu. À Paris, ce 16 juillet 1696"
+      }
+    },
+    {
+      "id": "l068",
+      "title": {
+        "fr-FR": "Lettre LXIII. Bossuet à son Neveu. À Paris, ce 83 juillet 1696"
+      }
+    },
+    {
+      "id": "l069",
+      "title": {
+        "fr-FR": "Lettre LXIV.. Bossuet à son Neveu. À Paris, ce 29 juillet 1696"
+      }
+    },
+    {
+      "id": "l070",
+      "title": {
+        "fr-FR": "Lettre LXV. De Fénelon à Bossuet. À Versailles, ce 5 août 1696"
+      }
+    },
+    {
+      "id": "l071",
+      "title": {
+        "fr-FR": "Lettre LXVI. Bossuet à son Neveu. À Juilly, ce 6 août 1696"
+      }
+    },
+    {
+      "id": "l072",
+      "title": {
+        "fr-FR": "Lettre LXVII. Bossuet à son Neveu. À Versailles, ce 20 août 1690"
+      }
+    },
+    {
+      "id": "l073",
+      "title": {
+        "fr-FR": "Lettre LXVIII. Bossuet à son Neveu. À Versailles, ce 28 août 1696"
+      }
+    },
+    {
+      "id": "l074",
+      "title": {
+        "fr-FR": "Déclaration de Madame Guyon, Faite Entre les Mains de M. de Noailles, Archevêque de Paris, sur ses Sentiments, ses Écrits et sa Conduite"
+      }
+    },
+    {
+      "id": "l075",
+      "title": {
+        "fr-FR": "Lettre LXIX. Bossuet à son Neveu. À Paris, ce 3 septembre 1696"
+      }
+    },
+    {
+      "id": "l076",
+      "title": {
+        "fr-FR": "Lettre LXX. Bossuet à M. de la Broue. À Paris, ce 4 septembre 1696"
+      }
+    },
+    {
+      "id": "l077",
+      "title": {
+        "fr-FR": "Lettre LXXI. Bossuet à son Neveu. À Meaux, le 8 septembre 1696"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "fr-FR": "Lettre LXXII. Bossuet à son Neveu. À Paris, ce 17 septembre 1696"
+      }
+    },
+    {
+      "id": "l079",
+      "title": {
+        "fr-FR": "Lettre LXXIII. Bossuet à son Neveu. À Germigny, le 21 septembre 1696"
+      }
+    },
+    {
+      "id": "l080",
+      "title": {
+        "fr-FR": "Lettre LXXIV. Bossuet à son Neveu. À Paris, 1er octobre 1696"
+      }
+    },
+    {
+      "id": "l081",
+      "title": {
+        "fr-FR": "Epistola LXXV. Cardinalis Casanate ad Episcopum Meldensem"
+      }
+    },
+    {
+      "id": "l082",
+      "title": {
+        "fr-FR": "Lettre LXXVI. Fénelon à Bossuet. À Fontainebleau, jeudi 4 octobre 1696"
+      }
+    },
+    {
+      "id": "l083",
+      "title": {
+        "fr-FR": "Nouvelle Déclaration de Madame Guyon. À M. l’Archevêque de Paris. Ce 9 octobre 1696"
+      }
+    },
+    {
+      "id": "l084",
+      "title": {
+        "fr-FR": "Lettre LXXVII.. Bossuet à son Neveu. À Germigny, ce 27 octobre 1696"
+      }
+    },
+    {
+      "id": "l085",
+      "title": {
+        "fr-FR": "Lettre LXXVIII. Fénelon A M. A Fontainebleau, ce 28 octobre 1696"
+      }
+    },
+    {
+      "id": "l086",
+      "title": {
+        "fr-FR": "Lettre LXXIX. Bossuet à son Neveu. À Fontainebleau, ce 5 novembre 1696"
+      }
+    },
+    {
+      "id": "l087",
+      "title": {
+        "fr-FR": "Lettre LXXX. L’abbé Ledieu à l’abbé Bossuet. À Fontainebleau, le lundi 5 novembre 1696"
+      }
+    },
+    {
+      "id": "l088",
+      "title": {
+        "fr-FR": "Lettre LXXXI. Bossuet à son Neveu. À Germigny, ce 18 novembre 1696"
+      }
+    },
+    {
+      "id": "l089",
+      "title": {
+        "fr-FR": "Lettre LXXXII. Bossuet à son Neveu. À Meaux, ce 1er décembre 1696"
+      }
+    },
+    {
+      "id": "l090",
+      "title": {
+        "fr-FR": "Lettre LXXXIII. Fénelon A M. Ce 6 décembre 1696"
+      }
+    },
+    {
+      "id": "l091",
+      "title": {
+        "fr-FR": "Lettre LXXXIV. Bossuet à son Neveu. À Paris, ce 9 décembre 1696"
+      }
+    },
+    {
+      "id": "l092",
+      "title": {
+        "fr-FR": "Lettre LXXXV. Bossuet à son Neveu. À Meaux, ce 30 décembre 1696"
+      }
+    },
+    {
+      "id": "l093",
+      "title": {
+        "fr-FR": "Lettre LXXXVI. Bossuet à M. l’abbé de Maulevrier. Janvier 1697"
+      }
+    },
+    {
+      "id": "l094",
+      "title": {
+        "fr-FR": "Lettre LXXXVII. Bossuet Ason Neveu. À Versailles, ce 20 janvier 1697"
+      }
+    },
+    {
+      "id": "l095",
+      "title": {
+        "fr-FR": "Lettre LXXXVIII. M. de Rancé à M. de Saint-André, Curé de Vareddes. Février 1697"
+      }
+    },
+    {
+      "id": "l096",
+      "title": {
+        "fr-FR": "Lettre LXXXIX. Bossuet à son Neveu. À Paris, ce 3 février 1697"
+      }
+    },
+    {
+      "id": "l097",
+      "title": {
+        "fr-FR": "Lettre XC. Bossuet à Sonneveu. À Paris, ce 11 février 1697"
+      }
+    },
+    {
+      "id": "l098",
+      "title": {
+        "fr-FR": "Lettre XCI. Bossuet à M. Godet des Marais, Évêque de Chartres. Ce 13 février 1697"
+      }
+    },
+    {
+      "id": "l099",
+      "title": {
+        "fr-FR": "Lettre XCII. Bossuet à M. de la Broue. À Paris, ce 16 février 1697"
+      }
+    },
+    {
+      "id": "l100",
+      "title": {
+        "fr-FR": "Lettre XCIII. Bossuet à M. de la Broue. À Paris, ce 23 février 1697"
+      }
+    },
+    {
+      "id": "l101",
+      "title": {
+        "fr-FR": "Lettre XCIV. Bossuet à son Neveu. À Versailles, ce 23 février 1697"
+      }
+    },
+    {
+      "id": "l102",
+      "title": {
+        "fr-FR": "Lettre XCV. M. Tronson à l’évêque de Chartres. Ce 24 février 1697"
+      }
+    },
+    {
+      "id": "l103",
+      "title": {
+        "fr-FR": "Lettre XCVI. L’abbé Ledieu à l’abbé Bossuet. À Paris, ce lundi soir, 25 février 1697"
+      }
+    },
+    {
+      "id": "l104",
+      "title": {
+        "fr-FR": "Lettre XCVII. Bossuet à son Neveu. À Paris, ce 4 mars 1697"
+      }
+    },
+    {
+      "id": "l105",
+      "title": {
+        "fr-FR": "Lettre XCVIII. Bossuet à M. de la Broue. À Meaux, ce 9 mars 1697"
+      }
+    },
+    {
+      "id": "l106",
+      "title": {
+        "fr-FR": "Lettre XCIX. Bossuet à son Neveu. À Paris, ce 11 mars 1697"
+      }
+    },
+    {
+      "id": "l107",
+      "title": {
+        "fr-FR": "Lettre C. Bossuet à son Neveu. À Paris, ce 18 mars 1697"
+      }
+    },
+    {
+      "id": "l108",
+      "title": {
+        "fr-FR": "Lettre CI. M. Tronson à l’évêque de Chartres. Ce 21 mars 1697"
+      }
+    },
+    {
+      "id": "l109",
+      "title": {
+        "fr-FR": "Lettre CII. Bossuet à son Neveu. À Meaux, ce 24 mars 1697"
+      }
+    },
+    {
+      "id": "l110",
+      "title": {
+        "fr-FR": "Lettre CIII. M. de Rancé à Bossuet. Mars 1697"
+      }
+    },
+    {
+      "id": "l111",
+      "title": {
+        "fr-FR": "Lettre CIV. Bossuet à M. de la Broue. À Meaux, ce 29 mars 1697"
+      }
+    },
+    {
+      "id": "l112",
+      "title": {
+        "fr-FR": "Lettre CV. Le Cardinal de Bouillon à Bossuet. Ce 30 mars 1697"
+      }
+    },
+    {
+      "id": "l113",
+      "title": {
+        "fr-FR": "Lettre CVI. Bossuet à son Neveu. À Meaux, ce 31 mars 1697"
+      }
+    },
+    {
+      "id": "l114",
+      "title": {
+        "fr-FR": "Lettre CVII. Le Cardinal le Camus au Curé de Saint-Jacques du Haut-Pas. À Grenoble, ce 1er avril 1697"
+      }
+    },
+    {
+      "id": "l115",
+      "title": {
+        "fr-FR": "Lettre CVIII. Bossuet à son Neveu. À Meaux, le jour de Pâques, ce 7 avril 1697"
+      }
+    },
+    {
+      "id": "l116",
+      "title": {
+        "fr-FR": "Lettre CIX. L’abbé Bossuet à l’Êvèque de Meaux, son Oncle. Ce 9 avril 1697"
+      }
+    },
+    {
+      "id": "l117",
+      "title": {
+        "fr-FR": "Lettre CX. M. de Rancé à Bossuet. Ce 14 avril 1697"
+      }
+    },
+    {
+      "id": "l118",
+      "title": {
+        "fr-FR": "Lettre CXI. Un Ami de l’abbé de la Trappe"
+      }
+    },
+    {
+      "id": "l119",
+      "title": {
+        "fr-FR": "Lettre CXII. Bossuet à son Neveu. À Versailles, ce 15 avril 1697"
+      }
+    },
+    {
+      "id": "l120",
+      "title": {
+        "fr-FR": "Lettre CXIII. Bossuet à son Neveu. À Paris, ce 22 avril 1697"
+      }
+    },
+    {
+      "id": "l121",
+      "title": {
+        "fr-FR": "Lettre CXIV. Bossuet à son Neveu. À Paris, ce 29 avril 1697"
+      }
+    },
+    {
+      "id": "l122",
+      "title": {
+        "fr-FR": "Lettre CXV. Bossuet à son Neveu. À Paris, ce 6 mai 1697"
+      }
+    },
+    {
+      "id": "l123",
+      "title": {
+        "fr-FR": "Lettre CXVI. Bossuet à M. D E la Br0ue. À Paris, ce 18 mai 1697"
+      }
+    },
+    {
+      "id": "l124",
+      "title": {
+        "fr-FR": "Lettre CXVII. Bossuet à son Neveu. À Paris, ce 19 mai 1697"
+      }
+    },
+    {
+      "id": "l125",
+      "title": {
+        "fr-FR": "Lettre CXVIII. Bossuet à son Neveu. À Meaux, le jour de la Pentecôte, ce 26 mai 1697"
+      }
+    },
+    {
+      "id": "l126",
+      "title": {
+        "fr-FR": "Lettre CXIX. Bossuet à son Neveu. À Paris, ce 3 juin 1697"
+      }
+    },
+    {
+      "id": "l127",
+      "title": {
+        "fr-FR": "Lettre CXX. Bossuet à son Neveu. À Arminvilliers, ce 10 juin 1697"
+      }
+    },
+    {
+      "id": "l128",
+      "title": {
+        "fr-FR": "Lettre CXXI. Le Cardinal le Camus à Bossuet. À Grenoble, ce 17 juin 1697"
+      }
+    },
+    {
+      "id": "l129",
+      "title": {
+        "fr-FR": "Lettre CXXII. Bossuet à son Neveu. À Paris, ce 17 juin 1697"
+      }
+    },
+    {
+      "id": "l130",
+      "title": {
+        "fr-FR": "Lettre CXXIII. M. de Rancé à Bossuet"
+      }
+    },
+    {
+      "id": "l131",
+      "title": {
+        "fr-FR": "Lettre CXXIV. Bossuet à son Neveu. À Paris, ce 24 juin 1697"
+      }
+    },
+    {
+      "id": "l132",
+      "title": {
+        "fr-FR": "Lettre CXXV. L’abbé Ledieu à l’abbé Bossuet. À Paris, ce 24 juin 1697"
+      }
+    },
+    {
+      "id": "l133",
+      "title": {
+        "fr-FR": "Lettre CXXVI. Bossuet à M. de Noailles, Archevêque de Paris. 1er Juillet 1697"
+      }
+    },
+    {
+      "id": "l134",
+      "title": {
+        "fr-FR": "Lettre CXXVII. Bossuet à son Neveu. À Paris, 1er juillet 1697"
+      }
+    },
+    {
+      "id": "l135",
+      "title": {
+        "fr-FR": "Les XX Articles de M. de Cambray, Avec les Réponses de M. de Meaux"
+      }
+    },
+    {
+      "id": "l136",
+      "title": {
+        "fr-FR": "Lettre CXXVIII. M. de Rancé à Bossuet. Ce 3 juillet 1697"
+      }
+    },
+    {
+      "id": "l137",
+      "title": {
+        "fr-FR": "Lettre CXXIX. Bossuet à M. de Rancé. À Paris, ce 4 juillet (1697"
+      }
+    },
+    {
+      "id": "l138",
+      "title": {
+        "fr-FR": "Lettre CXXX. Bossuet à son Neveu. À Marly, ce 15 juillet 1697"
+      }
+    },
+    {
+      "id": "l139",
+      "title": {
+        "fr-FR": "Lettre CXXXI. Bossuet à son Neveu. À Versailles, ce 22 juillet 1697"
+      }
+    },
+    {
+      "id": "l140",
+      "title": {
+        "fr-FR": "Lettre CXXXII. Le Roi à Innocent XII. À Meudon, ce 86 juillet 1697"
+      }
+    },
+    {
+      "id": "l141",
+      "title": {
+        "fr-FR": "Epistola CXXXIII. Breve Innocentii XII ad Ludovicum XIV. Innocentius Papa XII"
+      }
+    },
+    {
+      "id": "l142",
+      "title": {
+        "fr-FR": "Lettre CXXXIV. Bossuet à son Neveu. À Paris, ce 29 juillet 1697"
+      }
+    },
+    {
+      "id": "l143",
+      "title": {
+        "fr-FR": "Lettre CXXXV. Bossuet à M. de la Broue. À Paris, ce 1er août 1697"
+      }
+    },
+    {
+      "id": "l144",
+      "title": {
+        "fr-FR": "Lettre CXXXVI. Bossuet à l’abbé Renaudot. Jeudi matin"
+      }
+    },
+    {
+      "id": "l145",
+      "title": {
+        "fr-FR": "Lettre CXXXVII. Bossuet à son Neveu. À Paris, ce 5 août 1697"
+      }
+    },
+    {
+      "id": "l146",
+      "title": {
+        "fr-FR": "Lettre CXXXVIII. Bossuet à son Neveu. À Paris, ce 12 août 1697"
+      }
+    },
+    {
+      "id": "l147",
+      "title": {
+        "fr-FR": "Lettre CXXXIX. M. l’Archevêque de Cambray à Un Ami. Ce 3 août 1697"
+      }
+    },
+    {
+      "id": "l148",
+      "title": {
+        "fr-FR": "Lettre CXL. Bossuet à son Neveu. À Germigny, ce 18 août 1697"
+      }
+    },
+    {
+      "id": "l149",
+      "title": {
+        "fr-FR": "Lettere CXLI. Il Cardinale d’Aguirre Al Signor Vescovo Bossuet. Roma, 20 agosto 1697"
+      }
+    },
+    {
+      "id": "l150",
+      "title": {
+        "fr-FR": "Le Cardinal d’Aguirre à Bossuet"
+      }
+    },
+    {
+      "id": "l151",
+      "title": {
+        "fr-FR": "Lettre CXLII. Bossuet à M. de Rancé. À Germigny, le 22 août 1697"
+      }
+    },
+    {
+      "id": "l152",
+      "title": {
+        "fr-FR": "Lettre CXLIII. L’abbé Berbier à M. de Rancé. À Torci, ce 23 août 1697"
+      }
+    },
+    {
+      "id": "l153",
+      "title": {
+        "fr-FR": "Lettre CXLIV. Bossuet à son Neveu. À Juilly, ce 26 août 1697"
+      }
+    },
+    {
+      "id": "l154",
+      "title": {
+        "fr-FR": "Lettre CXLV. L’abbé de Chanterac à Madame de Ponthac"
+      }
+    },
+    {
+      "id": "l155",
+      "title": {
+        "fr-FR": "Lettre CXLVI. Bossuet à son Neveu. À Germigny, ce 2 septembre 1697"
+      }
+    },
+    {
+      "id": "l156",
+      "title": {
+        "fr-FR": "Lettre CXLVII. L’abbé Phelippeaux à Bossuet. À Rome, ce 3 septembre 1697"
+      }
+    },
+    {
+      "id": "l157",
+      "title": {
+        "fr-FR": "Lettre CXLVIII. L’abbé Bossuet à son Oncle. Rome, ce 3 septembre 1697"
+      }
+    },
+    {
+      "id": "l158",
+      "title": {
+        "fr-FR": "Lettre CXLIX. Bossuet à M. de la Broue. À Germigny, ce 3 septembre 1697"
+      }
+    },
+    {
+      "id": "l159",
+      "title": {
+        "fr-FR": "Lettre CL. Bossuet à son Neveu. À Paris, 9 septembre 1697"
+      }
+    },
+    {
+      "id": "l160",
+      "title": {
+        "fr-FR": "Lettre CLI. Bossuet à son Neveu. À Paris, ce 16 septembre 1697"
+      }
+    },
+    {
+      "id": "l161",
+      "title": {
+        "fr-FR": "Lettre CLII. Bossuet au Cardinal d’Aguirre. À Versailles, ce 16 septembre 1697"
+      }
+    },
+    {
+      "id": "l162",
+      "title": {
+        "fr-FR": "Lettre CLIII. Bossuet à M. de la Broue. À Paris, ce 21 septembre 1697"
+      }
+    },
+    {
+      "id": "l163",
+      "title": {
+        "fr-FR": "Lettre CLIV. Bossuet à son Neveu. À Paris, ce 23 septembre 1697"
+      }
+    },
+    {
+      "id": "l164",
+      "title": {
+        "fr-FR": "Lettre CLV. L’abbé Bossuet à son Oncle. À Rome, ce 27 septembre 1697"
+      }
+    },
+    {
+      "id": "l165",
+      "title": {
+        "fr-FR": "Lettre CLVI. Bossuet à son Neveu. À Meaux, ce 29 septembre 1697"
+      }
+    },
+    {
+      "id": "l166",
+      "title": {
+        "fr-FR": "Lettre CLVII. L’abbé Bossuet à son Oncle. Ce lundi, 30 septembre 1697"
+      }
+    },
+    {
+      "id": "l167",
+      "title": {
+        "fr-FR": "Lettre CLVIII. Bossuet à son Neveu. À Fontainebleau, ce 7 octobre 1697"
+      }
+    },
+    {
+      "id": "l168",
+      "title": {
+        "fr-FR": "Lettre CLIX. L’abbé Bossuet à son Oncle. À Rome, ce 8 octobre 1697"
+      }
+    },
+    {
+      "id": "l169",
+      "title": {
+        "fr-FR": "Lettre CLX. L’abbé Bossuet à son Oncle. À Rome, ce 11 octobre 1697"
+      }
+    },
+    {
+      "id": "l170",
+      "title": {
+        "fr-FR": "Lettre CLXI. Le Cardinal de Bouillon à Bossuet. À Frescati, ce 12 octobre 1697"
+      }
+    },
+    {
+      "id": "l171",
+      "title": {
+        "fr-FR": "Lettre CLXII. Bossuet à son Neveu. À Fontainebleau, ce 14 octobre 1697"
+      }
+    },
+    {
+      "id": "l172",
+      "title": {
+        "fr-FR": "Lettre CLXIII. L’abbé Phelippeaux à Bossuet. À Rome, ce 15 octobre 1697"
+      }
+    },
+    {
+      "id": "l173",
+      "title": {
+        "fr-FR": "Lettre CLXIV. L’abbé Bossuet à son Oncle. À Rome, ce 15 octobre 1697"
+      }
+    },
+    {
+      "id": "l174",
+      "title": {
+        "fr-FR": "Lettre CLXV. Du P. Augustin, Dominicain, à Bossuet. Rome, Sainte-Sabine, octobre 1697"
+      }
+    },
+    {
+      "id": "l175",
+      "title": {
+        "fr-FR": "Lettre CLXVI. Bossuet à son Neveu. À Fontainebleau, ce 21 octobre 1697"
+      }
+    },
+    {
+      "id": "l176",
+      "title": {
+        "fr-FR": "Lettre CLXVII. L’abbé Bossuet à son Oncle. À Rome, ce 22 octobre 1697"
+      }
+    },
+    {
+      "id": "l177",
+      "title": {
+        "fr-FR": "Lettre CLXVIII. Bossuet à son Neveu. À Germigny, ce 27 octobre 1697"
+      }
+    },
+    {
+      "id": "l178",
+      "title": {
+        "fr-FR": "Lettre CLXIX. L’abbé Bossuet à son Oncle. À Rome, ce 29 octobre 1697"
+      }
+    },
+    {
+      "id": "l179",
+      "title": {
+        "fr-FR": "Lettre CLXX. Bossuet à M. de Noailles, Archevêque de Paris. À Marly, ce 3 novembre 1697"
+      }
+    },
+    {
+      "id": "l180",
+      "title": {
+        "fr-FR": "Lettre CLXXI. Bossuet à son Neveu. À Marly, ce 4 novembre 1697"
+      }
+    },
+    {
+      "id": "l181",
+      "title": {
+        "fr-FR": "Lettre CLXXII. L’abbé Bossuet à son Oncle. À Rome, ce 5 novembre 1697"
+      }
+    },
+    {
+      "id": "l182",
+      "title": {
+        "fr-FR": "Lettre CLXXIII. Bossuet à son Neveu. À Versailles, ce 11 novembre 1697"
+      }
+    },
+    {
+      "id": "l183",
+      "title": {
+        "fr-FR": "Lettre CLXXIV. L’abbé Bossuet à son Oncle. À Rome, ce 12 novembre 1697"
+      }
+    },
+    {
+      "id": "l184",
+      "title": {
+        "fr-FR": "Lettre CLXXV. L’abbé Phelippeaux à Bossuet. Ce 18 novembre 1697"
+      }
+    },
+    {
+      "id": "l185",
+      "title": {
+        "fr-FR": "Lettre CLXXVI. Bossuet à son Neveu. À Versailles, ce 18 novembre 1697"
+      }
+    },
+    {
+      "id": "l186",
+      "title": {
+        "fr-FR": "Lettre CLXXVII. L’abbé Bossuet à son Oncle. À Frescati, ce 19 novembre 1697"
+      }
+    },
+    {
+      "id": "l187",
+      "title": {
+        "fr-FR": "Lettre CLXXVIII. Bossuet à son Neveu. À Versailles, ce 25 novembre 1697"
+      }
+    },
+    {
+      "id": "l188",
+      "title": {
+        "fr-FR": "Lettre CLXXIX. L’abbé Phelippeaux à Bossuet. À Rome, ce 26 novembre 1697"
+      }
+    },
+    {
+      "id": "l189",
+      "title": {
+        "fr-FR": "Lettre CLXXX.. L’abbé Bossuet à son Oncle. À Rome, ce 26 novembre 1697"
+      }
+    },
+    {
+      "id": "l190",
+      "title": {
+        "fr-FR": "Lettre CLXXXI. Le Cardinal le Camus à Bossuet. À Grenoble, ce 27 novembre 1697"
+      }
+    },
+    {
+      "id": "l191",
+      "title": {
+        "fr-FR": "Lettre CLXXXII. Bossuet à son Neveu. À Versailles, ce 2 décembre 1697"
+      }
+    },
+    {
+      "id": "l192",
+      "title": {
+        "fr-FR": "Lettre CLXXXIII. L’abbé Bossuet à son Oncle. À Rome, ce 3 décembre 1697"
+      }
+    },
+    {
+      "id": "l193",
+      "title": {
+        "fr-FR": "Lettre CLXXXIV. Bossuet à son Neveu. À Versailles, ce 9 décembre 1697"
+      }
+    },
+    {
+      "id": "l194",
+      "title": {
+        "fr-FR": "Lettre CLXXXV. L’abbé Bossuet à son Oncle. À Rome, ce 10 décembre 1697"
+      }
+    },
+    {
+      "id": "l195",
+      "title": {
+        "fr-FR": "Lettre CLXXXVI. L’abbé Phelippeaux à Bossuet. Ce 10 décembre 1697"
+      }
+    },
+    {
+      "id": "l196",
+      "title": {
+        "fr-FR": "Lettre CLXXXVII. Bossuet A son Neveu A Paris, ce 17 décembre 1697"
+      }
+    },
+    {
+      "id": "l197",
+      "title": {
+        "fr-FR": "Lettre CLXXXVIII. L’abbé Bossuet à son Oncle. Rome, ce 17 décembre 1697"
+      }
+    },
+    {
+      "id": "l198",
+      "title": {
+        "fr-FR": "Lettre CLXXXIX. L’abbé Phelippeaux à Bossuet. À Rome, ce 17 décembre 1697"
+      }
+    },
+    {
+      "id": "l199",
+      "title": {
+        "fr-FR": "Lettre CXC. Madame de Maintenon à Bossuet. À Saint-Cyr, ce 22 décembre 1697"
+      }
+    },
+    {
+      "id": "l200",
+      "title": {
+        "fr-FR": "Lettre CXCI. Bossuet à son Neveu. À Meaux, ce 22 décembre 1697"
+      }
+    },
+    {
+      "id": "l201",
+      "title": {
+        "fr-FR": "Lettre CXCII. Bossuet à son Neveu. À Meaux, lundi 23 décembre 1697"
+      }
+    },
+    {
+      "id": "l202",
+      "title": {
+        "fr-FR": "Lettre CXCIII. L’abbé Phelippeaux à Bossuet. Rome, mardi, 24 décembre 1697"
+      }
+    },
+    {
+      "id": "l203",
+      "title": {
+        "fr-FR": "Lettre CXCIV. L’abbé Bossuet à son Oncle. Rome, ce 24 décembre 1697"
+      }
+    },
+    {
+      "id": "l204",
+      "title": {
+        "fr-FR": "Lettre CXCV. Bossuet à son Neveu. À Versailles, ce 30 décembre 1697"
+      }
+    },
+    {
+      "id": "l205",
+      "title": {
+        "fr-FR": "Lettre CXCVI. L’abbé Bossuet à l’abbé de Gondi. À Rome, ce 30 décembre 1697"
+      }
+    },
+    {
+      "id": "l206",
+      "title": {
+        "fr-FR": "Lettre CXCVII. L’abbé de Gondi à l’abbé Bossuet. Pise, ce 7 janvier 1698"
+      }
+    },
+    {
+      "id": "l207",
+      "title": {
+        "fr-FR": "Lettre CXCVIII. L’abbé Bossuet à son Oncle. Rome, ce 31 décembre 1697"
+      }
+    },
+    {
+      "id": "l208",
+      "title": {
+        "fr-FR": "Lettre CXCIX. Bossuet à M. de la Broue. À Versailles, ce 3 janvier 1698"
+      }
+    },
+    {
+      "id": "l209",
+      "title": {
+        "fr-FR": "Lettre CC. Bossuet à son Neveu. À Paris, ce 6 janvier 1698"
+      }
+    },
+    {
+      "id": "l210",
+      "title": {
+        "fr-FR": "Lettre CCI. L’abbé Phelippeaux à Bossuet. À Rome, ce 7 janvier 1698"
+      }
+    },
+    {
+      "id": "l211",
+      "title": {
+        "fr-FR": "Lettre CCII. L’abbé Bossuet à son Oncle. Rome, ce 7 janvier 1698"
+      }
+    },
+    {
+      "id": "l212",
+      "title": {
+        "fr-FR": "Lettre CCIII. Bossuet à son Neveu. À Paris, ce 13 janvier 1698"
+      }
+    },
+    {
+      "id": "l213",
+      "title": {
+        "fr-FR": "Lettre CCIV. L’Archevêque de Reims à l’abbé Bossuet. De Versailles, lundi 13 janvier 1698"
+      }
+    },
+    {
+      "id": "l214",
+      "title": {
+        "fr-FR": "Lettre CCV. Le Cardinal de Bouillon à Bossuet. Rome, 14 janvier 1698"
+      }
+    },
+    {
+      "id": "l215",
+      "title": {
+        "fr-FR": "Lettre CCVI. De l’abbé Bossuet à son Oncle, Rome, ce 14 janvier 1698"
+      }
+    },
+    {
+      "id": "l216",
+      "title": {
+        "fr-FR": "Lettre CCVII. Bossuet à son Neveu. Paris, 20 janvier 1698"
+      }
+    },
+    {
+      "id": "l217",
+      "title": {
+        "fr-FR": "Lettre CCVIII. L’abbé Ledieu à l’abbé Bossuet. À Paris, ce 20 janvier 1698"
+      }
+    },
+    {
+      "id": "l218",
+      "title": {
+        "fr-FR": "Lettre CCIX. L’abbé Bossuet à son Oncle. Rome, ce 21 janvier 1698"
+      }
+    },
+    {
+      "id": "l219",
+      "title": {
+        "fr-FR": "Lettre CCX. Bossuet à M. de la Broue. Paris, le 25 janvier 1698"
+      }
+    },
+    {
+      "id": "l220",
+      "title": {
+        "fr-FR": "Lettre CCXI. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Paris, ce 26 janvier 1698"
+      }
+    },
+    {
+      "id": "l221",
+      "title": {
+        "fr-FR": "Lettre CCXII. Bossuet à son Neveu. À Versailles, 27 janvier 1698"
+      }
+    },
+    {
+      "id": "l222",
+      "title": {
+        "fr-FR": "Lettre CCXIII. L’Archevêque de Reims à l’abbé Bossuet. À Paris, ce 27 janvier 1693"
+      }
+    },
+    {
+      "id": "l223",
+      "title": {
+        "fr-FR": "Lettre CCXIV. L’abbé Phelippeaux à Bossuet. À Rome, ce 28 janvier 1698"
+      }
+    },
+    {
+      "id": "l224",
+      "title": {
+        "fr-FR": "Lettre CCXV. L’abbé Bossuet à son Oncle. À Rome, ce 28 janvier 1698"
+      }
+    },
+    {
+      "id": "l225",
+      "title": {
+        "fr-FR": "Lettre CCXVI. L’abbé Phelippeaux à Bossuet. Rome, 4 février 1698"
+      }
+    },
+    {
+      "id": "l226",
+      "title": {
+        "fr-FR": "Lettre CCXVII. L’abbé Bossuet à son Oncle. Rome, ce 4 février 1698"
+      }
+    },
+    {
+      "id": "l227",
+      "title": {
+        "fr-FR": "Lettre CCXVIII. Bossuet à son Neveu. À Paris, ce 9 février 1698"
+      }
+    },
+    {
+      "id": "l228",
+      "title": {
+        "fr-FR": "Lettre CCXIX. L’Archevêque de Reims à l’abbé Bossuet. À Paris, ce 10 février 1698"
+      }
+    },
+    {
+      "id": "l229",
+      "title": {
+        "fr-FR": "Epistola CCXX. Bossueti ad D. Georium. Lutetiæ Parisiorum, 10 februarii 1698"
+      }
+    },
+    {
+      "id": "l230",
+      "title": {
+        "fr-FR": "Lettre CCXXI. L’abbé Bossuet à son Oncle. Rome, ce 11 février 1698"
+      }
+    },
+    {
+      "id": "l231",
+      "title": {
+        "fr-FR": "Lettre CCXXII. Bossuet à son Neveu. À Versailles, ce 15 février 1698"
+      }
+    },
+    {
+      "id": "l232",
+      "title": {
+        "fr-FR": "Lettre CCXXIII. Bossuet à son Neveu. À Paris, ce 17 février 1698"
+      }
+    },
+    {
+      "id": "l233",
+      "title": {
+        "fr-FR": "Mémoire remis par le roi entre les mains du nonce, pour être envoyé à Rome, et porter le Pape à accélérer la condamnation du livre de M. de Cambray"
+      }
+    },
+    {
+      "id": "l234",
+      "title": {
+        "fr-FR": "Lettre CCXXIV. L’abbé Phelippeaux à Bossuet. Rome, ce 18 février 1698"
+      }
+    },
+    {
+      "id": "l235",
+      "title": {
+        "fr-FR": "Lettre CCXXV. L’abbé Bossuet à son Oncle. Rome, ce 18 février 1698"
+      }
+    },
+    {
+      "id": "l236",
+      "title": {
+        "fr-FR": "Lettre CCXXVI. Bossuet à son Neveu. À Versailles, ce 24 février 1698"
+      }
+    },
+    {
+      "id": "l237",
+      "title": {
+        "fr-FR": "Lettre CCXXVII. L’Archevêque de Reims à l’abbé Bossuet. De Versailles, lundi 24 février 1698"
+      }
+    },
+    {
+      "id": "l238",
+      "title": {
+        "fr-FR": "Epistola CCXXVIII. Bossueti ad Cardinalem Spadam"
+      }
+    },
+    {
+      "id": "l239",
+      "title": {
+        "fr-FR": "Lettre CCXXIX. L’abbé Bossuet à son Oncle. Rome, 25 février 1698"
+      }
+    },
+    {
+      "id": "l240",
+      "title": {
+        "fr-FR": "Lettre CCXXX. Bossuet à son Neveu. À Versailles, ce 3 mars 1698"
+      }
+    },
+    {
+      "id": "l241",
+      "title": {
+        "fr-FR": "Lettre CCXXXI. L’abbé Phelippeaux à Bossuet. Rome, ce 4 mars 1698"
+      }
+    },
+    {
+      "id": "l242",
+      "title": {
+        "fr-FR": "Lettre CCXXXII. L’abbé Bossuet à son Oncle. Rome, ce 4 mars 1698"
+      }
+    },
+    {
+      "id": "l243",
+      "title": {
+        "fr-FR": "Lettre CCXXXIII. Bossuet à son Neveu. À Versailles, ce 10 mars 1698"
+      }
+    },
+    {
+      "id": "l244",
+      "title": {
+        "fr-FR": "Déclaration du P. La Combe, à M. l’évêque de Tarbes. À Lordes, ce 9 janvier de l’an 1698"
+      }
+    },
+    {
+      "id": "l245",
+      "title": {
+        "fr-FR": "Lettre CCXXXIV. L’abbé Phelippeaux à Bossuet. À Rome, ce mardi 11 mars 1698"
+      }
+    },
+    {
+      "id": "l246",
+      "title": {
+        "fr-FR": "Lettre CCXXXV. L’abbé Bossuet à son Oncle. Rome, ce 11 mars 1698"
+      }
+    },
+    {
+      "id": "l247",
+      "title": {
+        "fr-FR": "Lettre CCXXXVI. Bossuet à son Neveu. À Meaux, ce 17 mars 1698"
+      }
+    },
+    {
+      "id": "l248",
+      "title": {
+        "fr-FR": "Lettre CCXXXVII. L’abbé Phelippeaux à Bossuet. À Rome, ce 18 mars 1698"
+      }
+    },
+    {
+      "id": "l249",
+      "title": {
+        "fr-FR": "Lettre CCXXXVIII. L’abbé Bossuet à son Oncle. Rome, ce 18 mars 1698"
+      }
+    },
+    {
+      "id": "l250",
+      "title": {
+        "fr-FR": "Lettre CCXXXIX. Bossuet à son Neveu. À Meaux, ce 24 mars 1698"
+      }
+    },
+    {
+      "id": "l251",
+      "title": {
+        "fr-FR": "Lettre CCXL. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Conflans, 24 mars 1698"
+      }
+    },
+    {
+      "id": "l252",
+      "title": {
+        "fr-FR": "Lettre CCXLI. L’abbé Bossuet à son Oncle. Rome, ce 25 mars 1698"
+      }
+    },
+    {
+      "id": "l253",
+      "title": {
+        "fr-FR": "Lettre CCXLII. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. À Paris, ce 31 mars 1698"
+      }
+    },
+    {
+      "id": "l254",
+      "title": {
+        "fr-FR": "Lettre CCXLIII. M. le Tellier, Archevêque de Reims, à l’abbé Bossuet. De Versailles, 31 mars 1698"
+      }
+    },
+    {
+      "id": "l255",
+      "title": {
+        "fr-FR": "Lettre CCXLIV. Bossuet à son Neveu. À Meaux, ce 31 mars 1698"
+      }
+    },
+    {
+      "id": "l256",
+      "title": {
+        "fr-FR": "Mémoire du P. Latenai, Assistant DU Général des Carmes, A Rome, Sur les sentiments et la conduite d’une dévote quiétiste"
+      }
+    },
+    {
+      "id": "l257",
+      "title": {
+        "fr-FR": "Lettre CCXLV. L’abbé Bossuet à son Oncle. Rome, 1er avril 1698"
+      }
+    },
+    {
+      "id": "l258",
+      "title": {
+        "fr-FR": "Lettre CCXLVI. Madame de Maintenon à Bossuet. Versailles, 3 avril 1698"
+      }
+    },
+    {
+      "id": "l259",
+      "title": {
+        "fr-FR": "Lettre CCXLVII. Bossuet au Cardinal d’Aguirre ce 6 avril 1698"
+      }
+    },
+    {
+      "id": "l260",
+      "title": {
+        "fr-FR": "Lettre CCXLVIII. Bossuet à son Neveu. À Meaux, ce 6 avril 1698"
+      }
+    },
+    {
+      "id": "l261",
+      "title": {
+        "fr-FR": "Lettre CCXLIX. L’abbé Bossuet à son Oncle. Rome, ce 6 avril 1698"
+      }
+    },
+    {
+      "id": "l262",
+      "title": {
+        "fr-FR": "Lettre CCL. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Paris, 7 avril 1698"
+      }
+    },
+    {
+      "id": "l263",
+      "title": {
+        "fr-FR": "Lettre CCLI. Bossuet à l’abbé Renaudot. À Germigny, ce 7 avril 1698"
+      }
+    },
+    {
+      "id": "l264",
+      "title": {
+        "fr-FR": "Lettre CCLII. L’abbé Phelippeaux à Bossuet. Rome, ce 8 avril 1698"
+      }
+    },
+    {
+      "id": "l265",
+      "title": {
+        "fr-FR": "Lettre CCLIII. L’abbé Bossuet à son Oncle. Rome, 8 avril 1698"
+      }
+    },
+    {
+      "id": "l266",
+      "title": {
+        "fr-FR": "Lettre CCLIV. Bossuet à son Neveu. À Paris, 14 avril 1698"
+      }
+    },
+    {
+      "id": "l267",
+      "title": {
+        "fr-FR": "Lettre CCLV. L’abbé de Castries à l’abbé Bossuet. À Versailles, ce 14 avril 1698"
+      }
+    },
+    {
+      "id": "l268",
+      "title": {
+        "fr-FR": "Lettre CCLVI. L’abbé Phelippeaux à Bossuet. À Rome, ce 15 avril 1698"
+      }
+    },
+    {
+      "id": "l269",
+      "title": {
+        "fr-FR": "Lettre CCLVII. L’abbé Bossuet à son Oncle. Rome, 17 avril 1698"
+      }
+    },
+    {
+      "id": "l270",
+      "title": {
+        "fr-FR": "Lettre CCLVIII. Bossuet à son Neveu. À Paris, ce 20 avril 1698"
+      }
+    },
+    {
+      "id": "l271",
+      "title": {
+        "fr-FR": "Mémoire"
+      }
+    },
+    {
+      "id": "l272",
+      "title": {
+        "fr-FR": "Lettre CCLIX. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. À Paris, 22 avril 1698"
+      }
+    },
+    {
+      "id": "l273",
+      "title": {
+        "fr-FR": "Lettre CCLX. L’abbé Bossuet à son Oncle. Rome, ce 22 avril 1698"
+      }
+    },
+    {
+      "id": "l274",
+      "title": {
+        "fr-FR": "Lettre CCLXI. Bossuet à Sonneveu. À Versailles, 28 avril 1698"
+      }
+    },
+    {
+      "id": "l275",
+      "title": {
+        "fr-FR": "Lettre CCLXII. Le P. La Combe à Madame Guyon. Ce 25 avril de l’an 1698"
+      }
+    },
+    {
+      "id": "l276",
+      "title": {
+        "fr-FR": "Lettre CCLXIII. L’abbé Phelippeaux à Bossuet. À Rome, ce 29 avril 1698"
+      }
+    },
+    {
+      "id": "l277",
+      "title": {
+        "fr-FR": "Lettre CCLXIV. L’abbé Bossuet à son Oncle. À Rome, ce 29 avril 1698"
+      }
+    },
+    {
+      "id": "l278",
+      "title": {
+        "fr-FR": "Lettre CCLXV. Bossuet à son Neveu. À Versailles, ce 5 mai 1698"
+      }
+    },
+    {
+      "id": "l279",
+      "title": {
+        "fr-FR": "Lettre CCLXVI. Bossuet à son Neveu. Paris, 12 mai 1698"
+      }
+    },
+    {
+      "id": "l280",
+      "title": {
+        "fr-FR": "Lettre CCLXVII. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Paris, 12 mai 1698"
+      }
+    },
+    {
+      "id": "l281",
+      "title": {
+        "fr-FR": "Lettre CCLXVIII. M. Godet des Marais, Évêque de Chartres, à l’abbé Bossuet. À Paris, ce 12 mai 1698"
+      }
+    },
+    {
+      "id": "l282",
+      "title": {
+        "fr-FR": "Lettre CCLXIX. L’abbé Phelippeaux à Bossuet. À Rome, ce 13 mai 1698"
+      }
+    },
+    {
+      "id": "l283",
+      "title": {
+        "fr-FR": "Lettre CCLXX. L’abbé Bossuet à son Oncle. Rome, 13 mai 1698"
+      }
+    },
+    {
+      "id": "l284",
+      "title": {
+        "fr-FR": "Lettre CCLXXI. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Paris, 19 mai 1698"
+      }
+    },
+    {
+      "id": "l285",
+      "title": {
+        "fr-FR": "Lettre CCLXXII. L’abbé Ledieu à l’abbé Bossuet. À Meaux, ce lundi de la Pentecôte, 19 mai 1698"
+      }
+    },
+    {
+      "id": "l286",
+      "title": {
+        "fr-FR": "Lettre CCLXXIII. L’abbé Bossuet à son Oncle. Rome, ce 20 mai 1698"
+      }
+    },
+    {
+      "id": "l287",
+      "title": {
+        "fr-FR": "Lettre CCLXXIV. Bossuet à son Neveu. À Germigny, ce 23 mai 1698"
+      }
+    },
+    {
+      "id": "l288",
+      "title": {
+        "fr-FR": "Lettre CCLXXV. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. 26 mai 1698"
+      }
+    },
+    {
+      "id": "l289",
+      "title": {
+        "fr-FR": "Lettre CCLXXVI. L’ Abbé Phelippeaux à Bossuet. À Rome, ce 27 mai 1698"
+      }
+    },
+    {
+      "id": "l290",
+      "title": {
+        "fr-FR": "Lettre CCLXXVII. L’abbé Bossuet à son Oncle. Rome, 27 mai 1698"
+      }
+    },
+    {
+      "id": "l291",
+      "title": {
+        "fr-FR": "Lettre CCLXXVIII. Bossuet à M. de la Loubère. 1er juin 1698"
+      }
+    },
+    {
+      "id": "l292",
+      "title": {
+        "fr-FR": "Lettre CCLXXIX. Bossuet à son Neveu. À Meaux, ce 2 juin 1698"
+      }
+    },
+    {
+      "id": "l293",
+      "title": {
+        "fr-FR": "Lettre CCLXXX. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Paris, 3 juin 1698"
+      }
+    },
+    {
+      "id": "l294",
+      "title": {
+        "fr-FR": "Lettre CCLXXXI. L’abbé Bossuet à son Oncle. Rome, ce 3 juin 1698"
+      }
+    },
+    {
+      "id": "l295",
+      "title": {
+        "fr-FR": "Lettre CCLXXXII. L’Archevêque de Reims à l’abbé Bossuet. De Lille, ce samedi 1 juin 1698"
+      }
+    },
+    {
+      "id": "l296",
+      "title": {
+        "fr-FR": "Lettre CCLXXXIII. Bossuet à son Neveu. À Germigny, 8 juin 1698"
+      }
+    },
+    {
+      "id": "l297",
+      "title": {
+        "fr-FR": "Lettre CCLXXXIV. L’abbé Bossuet à son Oncle. Rome, ce 10 juin 1698"
+      }
+    },
+    {
+      "id": "l298",
+      "title": {
+        "fr-FR": "Lettre CCLXXXV. Bossuet à M. de la Broue. Paris, ce 15 juin 1698"
+      }
+    },
+    {
+      "id": "l299",
+      "title": {
+        "fr-FR": "Lettre CCLXXXVI. Bossuet à son Neveu. À Paris, ce 16 juin 1698"
+      }
+    },
+    {
+      "id": "l300",
+      "title": {
+        "fr-FR": "Lettre CCLXXXVII. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Versailles, 16 juin 1698"
+      }
+    },
+    {
+      "id": "l301",
+      "title": {
+        "fr-FR": "Lettre CCLXXXVIII. Bossuet à son Neveu. À Paris, ce 23 juin 1698"
+      }
+    },
+    {
+      "id": "l302",
+      "title": {
+        "fr-FR": "Lettre CCLXXXIX. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Paris, ce 24 juin 1698"
+      }
+    },
+    {
+      "id": "l303",
+      "title": {
+        "fr-FR": "Lettre CCXC. L’abbé Phelippeaux à Bossuet. Rome, ce 24 juin 1698"
+      }
+    },
+    {
+      "id": "l304",
+      "title": {
+        "fr-FR": "Lettre CCXCI. L’abbé Bossuet à son Oncle. Rome, 24 juin 1698"
+      }
+    },
+    {
+      "id": "l305",
+      "title": {
+        "fr-FR": "Projet présenté aux consulteurs pour abréger l’examen du livre de M. de Cambray"
+      }
+    },
+    {
+      "id": "l306",
+      "title": {
+        "fr-FR": "Propositions extraites par les qualificateurs du livre des Maximes des Saints de M. l’archevêque de Cambray"
+      }
+    },
+    {
+      "id": "l307",
+      "title": {
+        "fr-FR": "Lettre CCXCII. Bossuet à son Neveu. À Marly, 30 juin 1698"
+      }
+    },
+    {
+      "id": "l308",
+      "title": {
+        "fr-FR": "Admonitio Generalis, Ad animarum directores, de orationis statu"
+      }
+    },
+    {
+      "id": "l309",
+      "title": {
+        "fr-FR": "Lettre CCXCIII. L’abbé Phelippeaux à Bossuet. Rome, 1er juillet 1698"
+      }
+    },
+    {
+      "id": "l310",
+      "title": {
+        "fr-FR": "Lettre CCXCIV. L’abbé Bossuet à son Oncle. Rome, ce 1er juillet 1698"
+      }
+    },
+    {
+      "id": "l311",
+      "title": {
+        "fr-FR": "Lettre CCXCV. L’abbé Bossuet à M. de Noailles, Archevêque de Paris. À Rome, ce 1er juillet 1698"
+      }
+    },
+    {
+      "id": "l312",
+      "title": {
+        "fr-FR": "Lettre CCXCVI. Bossuet à M. de Noailles, Archevêque de Paris. Marly, 2 juillet 1698"
+      }
+    },
+    {
+      "id": "l313",
+      "title": {
+        "fr-FR": "Lettre CCXCVII. M. le Tellier, Archevêque de Reims, à M. l’abbé Bossuet. De Charleville, ce 6 juillet 1698"
+      }
+    },
+    {
+      "id": "l314",
+      "title": {
+        "fr-FR": "Lettre CCXCVIII. Bossuet à son Neveu. Versailles, 7 juillet 1698"
+      }
+    },
+    {
+      "id": "l315",
+      "title": {
+        "fr-FR": "Lettre CCXCIX. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Paris, 8 juillet 1698"
+      }
+    },
+    {
+      "id": "l316",
+      "title": {
+        "fr-FR": "Lettre CCC. L’abbé Phelippeaux à Bossuet. Rome, 8 juillet 1698"
+      }
+    },
+    {
+      "id": "l317",
+      "title": {
+        "fr-FR": "Lettre CCCI. L’abbé Bossuet à son Oncle. Rome, ce 8 juillet 1698"
+      }
+    },
+    {
+      "id": "l318",
+      "title": {
+        "fr-FR": "Lettre CCCII. M. Perrault, de l’Académie Fr4nçaise à Bossuet. 9 Juillet 1698"
+      }
+    },
+    {
+      "id": "l319",
+      "title": {
+        "fr-FR": "Lettre CCCIII. Dom Innocent le Masson, Prieur de la Grande Chartreuse, à Bossuet. 11 juillet 1698"
+      }
+    },
+    {
+      "id": "l320",
+      "title": {
+        "fr-FR": "Lettre CCCIV. L’abbé Bossuet à son Oncle. Rome, ce 12 juillet 1698"
+      }
+    },
+    {
+      "id": "l321",
+      "title": {
+        "fr-FR": "Lettre CCCV. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. Conflans, 14 juillet 1698"
+      }
+    },
+    {
+      "id": "l322",
+      "title": {
+        "fr-FR": "Lettre CCCVI. Bossuet à son Neveu. À Germigny, ce 14 juillet 1698"
+      }
+    },
+    {
+      "id": "l323",
+      "title": {
+        "fr-FR": "Lettre CCCVII. L’abbé Bossuet à son Oncle. Rome, 15 juillet 1698"
+      }
+    },
+    {
+      "id": "l324",
+      "title": {
+        "fr-FR": "Lettre CCCVIII. Bossuet à M. de la Broue. À Germigny, 18 juillet 1698"
+      }
+    },
+    {
+      "id": "l325",
+      "title": {
+        "fr-FR": "Lettre CCCIX. Bossuet à M. de Noailles, Archevêque de Paris. À Meaux, 19 juillet 1698"
+      }
+    },
+    {
+      "id": "l326",
+      "title": {
+        "fr-FR": "Lettre CCCX. M. le Tel Lier, Archevêque de Reims à l’abbé Bossuet. De Donchery, 19 juillet 1698"
+      }
+    },
+    {
+      "id": "l327",
+      "title": {
+        "fr-FR": "Lettre CCCXI. Bossuet à son Neveu. À Meaux, ce 20 juillet 1698"
+      }
+    },
+    {
+      "id": "l328",
+      "title": {
+        "fr-FR": "Lettre CCCXII. L’abbé Phel1ppeaux à Bossuet. Rome, 22 juillet 1698"
+      }
+    },
+    {
+      "id": "l329",
+      "title": {
+        "fr-FR": "Lettre CCCXIII. L’abbé Bossuet à son Oncle. À Rome, ce 22 juillet 1698"
+      }
+    },
+    {
+      "id": "l330",
+      "title": {
+        "fr-FR": "Lettre CCCXIV. Bossuet à M. de Noailles, Archevêque de Paris. À Versailles, ce 27 juillet 1698"
+      }
+    },
+    {
+      "id": "l331",
+      "title": {
+        "fr-FR": "Lettre CCCXV. Bossuet à son Neveu. À Versailles, 28 juillet 1698"
+      }
+    },
+    {
+      "id": "l332",
+      "title": {
+        "fr-FR": "Lettre CCCXVI. L’abbé Bossuet à son Oncle. Rouie, ce 29 juillet 1698"
+      }
+    },
+    {
+      "id": "l333",
+      "title": {
+        "fr-FR": "Lettre CCCXVII. L’abbé Bossuet à son Oncle. À Rome, ce 29 juillet 1698"
+      }
+    },
+    {
+      "id": "l334",
+      "title": {
+        "fr-FR": "Lettre CCCXVIII. M. le Tellier, Archevêque de Reims à M. l’abbé Bossuet. À Dun, ce 31 juillet 1698, jeudi au soir"
+      }
+    },
+    {
+      "id": "l335",
+      "title": {
+        "fr-FR": "Lettre CCCXIX. Bossuet à son Neveu. À Meaux, 4 août 1698"
+      }
+    },
+    {
+      "id": "l336",
+      "title": {
+        "fr-FR": "Lettre CCCXX. M. de Noailles, Archevêque de Paris, à l’abbé Bossdet. Ce 4 août 1698"
+      }
+    },
+    {
+      "id": "l337",
+      "title": {
+        "fr-FR": "Lettre CCCXXI. L’abbé Phelippeaux à Bossuet. Rome, ce lundi 4 août 1698"
+      }
+    },
+    {
+      "id": "l338",
+      "title": {
+        "fr-FR": "Lettre CCCXXII. Bossuet à M. de Noailles, Archevêque de Paris. À Meaux, 4 août 1698"
+      }
+    },
+    {
+      "id": "l339",
+      "title": {
+        "fr-FR": "Lettre CCCXXIII. Le P. Candide Champy, ex-Provincial des Récollets d’Artois, à Bossuet. Arras, 4 août 1698"
+      }
+    },
+    {
+      "id": "l340",
+      "title": {
+        "fr-FR": "Lettre CCCXXIV. Bossuet à son Neveu. À Germigny, ce 10 août 1698"
+      }
+    },
+    {
+      "id": "l341",
+      "title": {
+        "fr-FR": "Lettre CCCXXV. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. 12 août 1698"
+      }
+    },
+    {
+      "id": "l342",
+      "title": {
+        "fr-FR": "Lettre CCCXXVI. L’abbé Bossuet à son Oncle. Rome, ce 12 août 1698"
+      }
+    },
+    {
+      "id": "l343",
+      "title": {
+        "fr-FR": "Lettre CCCXXVII. Bossuet à son Neveu. À Jouarre, le 13 août 1698"
+      }
+    },
+    {
+      "id": "l344",
+      "title": {
+        "fr-FR": "Lettre CCCXXVIII. Bossuet à M. de Noailles, Archevêque de Paris. À Meaux, ce 16 août 1698"
+      }
+    },
+    {
+      "id": "l345",
+      "title": {
+        "fr-FR": "Lettre CCCXXXIX. Bossuet à son Neveu. À Meaux, ce 17 août 1698"
+      }
+    },
+    {
+      "id": "l346",
+      "title": {
+        "fr-FR": "Lettre CCCXXX. M. de Noailles, Archevêque de Paris, à l’abbé Bossuet. 18 août 1698"
+      }
+    },
+    {
+      "id": "l347",
+      "title": {
+        "fr-FR": "Lettre CCCXXXI. L’abbé Bossuet à son Oncle. Rome, ce 19 août 1698"
+      }
+    },
+    {
+      "id": "l348",
+      "title": {
+        "fr-FR": "Lettre CCCXXXII. Bossuet à son Neveu. Versailles, 24 août 1698"
+      }
+    },
+    {
+      "id": "l349",
+      "title": {
+        "fr-FR": "Lettre CCCXXXIII. L’abbé Phelippeaux à Bossuet. Rome, 26 août 1698"
+      }
+    },
+    {
+      "id": "l350",
+      "title": {
+        "fr-FR": "Lettre CCCXXXIV. L’abbé Bossuet à son Oncle. Rome, 26 août 1698"
+      }
+    },
+    {
+      "id": "l351",
+      "title": {
+        "fr-FR": "Lettre CCCXXXV. Bossuet à M. de la Broue. À Paris, le 30 août 1698"
+      }
+    },
+    {
+      "id": "l352",
+      "title": {
+        "fr-FR": "Lettre CCCXXXVI. L’abbé Bossuet au Prince de Monaco, Nommé Ambassadeur à Rome. Ce 30 août 1698"
+      }
+    },
+    {
+      "id": "l353",
+      "title": {
+        "fr-FR": "Lettre CCCXXXVII. Bossuet à M. de Noailles, Archevêque de Paris. À Germigny, ce 31 août 1698"
+      }
+    },
+    {
+      "id": "l354",
+      "title": {
+        "fr-FR": "Lettre CCCXXXVIII. Bossuet à son Neveu. À Germigny, ce 31 août 1698"
+      }
+    },
+    {
+      "id": "l355",
+      "title": {
+        "fr-FR": "Lettre CCCXXXIX. M. le Tellier, Archevêque de Reims, à l’abbé Bossuet. Reims, le lundi matin 1er septembre 1698"
+      }
+    },
+    {
+      "id": "l356",
+      "title": {
+        "fr-FR": "Lettre CCCXL. L’abbé Bossuet à son Oncle. Rome, ce 2 septembre 1698"
+      }
+    },
+    {
+      "id": "l357",
+      "title": {
+        "fr-FR": "Lettre CCCXLI. Bossuet à son Neveu. À Compiègne, 7 septembre 1698"
+      }
+    },
+    {
+      "id": "l358",
+      "title": {
+        "fr-FR": "Epistola CCCXLII. D. Campionus ad Episcopum Meldensem. Romæ, septembris 1698"
+      }
+    },
+    {
+      "id": "l359",
+      "title": {
+        "fr-FR": "Lettre CCCXLIII. L’abbé Bossuet à son Oncle. Rome, ce 9 septembre 1698"
+      }
+    },
+    {
+      "id": "l360",
+      "title": {
+        "fr-FR": "Lettre DU Sieur Robert, Curé de la ville de Seurre, à une religieuse converse de Sainte-Claire dudit Seurre, sa pénitente. Dieu seul"
+      }
+    },
+    {
+      "id": "l361",
+      "title": {
+        "fr-FR": "Prône"
+      }
+    },
+    {
+      "id": "l362",
+      "title": {
+        "fr-FR": "Sentence Contre Maitre Philibert Robert"
+      }
+    },
+    {
+      "id": "l363",
+      "title": {
+        "fr-FR": "Arrêt de la Cour de Parlement de Dijon. Rendu contre maître Philibert Robert, prêtre, curé de la ville de Seurre, accusé de quiétisme et d’inceste spirituel. Extrait des "
+      }
+    }
+  ]
+}
