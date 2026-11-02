@@ -1,0 +1,93 @@
+{
+  "id": "benson-richard-raynal-solitary",
+  "cover": "classic",
+  "name": {
+    "en-US": "The History of Richard Raynal, Solitary",
+    "pt-BR": "A História de Richard Raynal, Eremita"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's medieval tale of 1906, presented as a recovered manuscript of Sir John, a priest of Edward IV's time: the life of the young hermit Richard Raynal, his visions, his journey to London and his death.",
+    "pt-BR": "A narrativa medieval de Benson (1906), apresentada como manuscrito recuperado de Sir John, sacerdote do tempo de Eduardo IV: a vida do jovem eremita Richard Raynal, suas visões, sua viagem a Londres e sua morte."
+  },
+  "composed": 1906,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/richard-raynal-solitary",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Isbister, 1906)",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/15808",
+      "edition": "The History of Richard Raynal, Solitary (London: Isbister, 1906), Project Gutenberg #15808, proofread.",
+      "description": " Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1906, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "How Sir John visited Master Hermit: and found him in contemplation"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "How Master Richard fared: how he heard Mass in Saint Pancras' Church:"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "How Master Richard saw the King in Westminster Hall: and of the Mass at"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "How Master Richard cried out in Westminster Hall: and of his coming to"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "How Master Richard took his meat: and of Master Lieutenant's whipping"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "How Sir John went again to the cell: and of what he saw there"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "How one came to Master Priest: how Master Priest came to the King's"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "How Master Richard went to God"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "How lovely are Thy tabernacles: O Lord of"
+      }
+    }
+  ]
+}

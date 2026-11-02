@@ -1,0 +1,23 @@
+{
+ "id": "benson-richard-raynal-solitary",
+ "dir": "benson-opera-omnia/richard-raynal-solitary",
+ "slug": "richard-raynal-solitary",
+ "name": "The History of Richard Raynal, Solitary",
+ "name_pt": "A Hist\u00f3ria de Richard Raynal, Eremita",
+ "desc": "Benson's medieval tale of 1906, presented as a recovered manuscript of Sir John, a priest of Edward IV's time: the life of the young hermit Richard Raynal, his visions, his journey to London and his death.",
+ "desc_pt": "A narrativa medieval de Benson (1906), apresentada como manuscrito recuperado de Sir John, sacerdote do tempo de Eduardo IV: a vida do jovem eremita Richard Raynal, suas vis\u00f5es, sua viagem a Londres e sua morte.",
+ "composed": 1906,
+ "editor": "Robert Hugh Benson (London: Isbister, 1906)",
+ "year": 1906,
+ "url": "https://www.gutenberg.org/ebooks/15808",
+ "edition": "The History of Richard Raynal, Solitary (London: Isbister, 1906), Project Gutenberg #15808, proofread.",
+ "src": "robert-hugh-benson/pg/pg15808.txt",
+ "start": 315,
+ "end": "^\\*\\*\\* END OF",
+ "label": "",
+ "mode": "pg",
+ "chap_re": "^(?P<t>_?How .*)$",
+ "part_re": null,
+ "sec_re": "^[IVXL]+\\.?$",
+ "died": 1914
+}
