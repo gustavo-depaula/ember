@@ -1,0 +1,378 @@
+{
+  "id": "eudes-offices-propres",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Offices propres de la Congrégation de Jésus et Marie",
+    "en-US": "Proper Offices of the Congregation of Jesus and Mary",
+    "pt-BR": "Ofícios próprios da Congregação de Jesus e Maria"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Les Offices et les Messes composés par Jean Eudes pour les fêtes de Notre-Seigneur, de la Vierge, de saint Joseph, de saint Gabriel, des saints Prêtres et Lévites et de plusieurs autres saints, selon l’ordre du calendrier (latin et français), avec l’introduction des éditeurs.",
+    "en-US": "The Offices and Masses John Eudes composed for the feasts of Our Lord, the Virgin, St. Joseph, St. Gabriel, the holy Priests and Levites and many other saints, in calendar order (Latin and French), with the editors’ introduction.",
+    "pt-BR": "Os Ofícios e Missas compostos por João Eudes para as festas de Nosso Senhor, da Virgem, de são José, de são Gabriel, dos santos Sacerdotes e Levitas e de muitos outros santos, em ordem de calendário (latim e francês), com a introdução dos editores."
+  },
+  "composed": 1652,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/offices-propres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_11)_000000356.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 11, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "off-01",
+      "title": {
+        "fr-FR": "Introduction"
+      }
+    },
+    {
+      "id": "off-02",
+      "title": {
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (1)"
+      }
+    },
+    {
+      "id": "off-03",
+      "title": {
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (2)"
+      }
+    },
+    {
+      "id": "off-04",
+      "title": {
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (3)"
+      }
+    },
+    {
+      "id": "off-05",
+      "title": {
+        "fr-FR": "Introduction : I. origine et publication des « offices ». leur histoire (4)"
+      }
+    },
+    {
+      "id": "off-06",
+      "title": {
+        "fr-FR": "Le XIV janvier : L'office du très saint nom de jésus"
+      }
+    },
+    {
+      "id": "off-07",
+      "title": {
+        "fr-FR": "Le XXII janvier : En la fête du sacré mariage de la b. vierge marie et"
+      }
+    },
+    {
+      "id": "off-08",
+      "title": {
+        "fr-FR": "Le XXIII janvier : En la fête des ss. clément et agathange et de"
+      }
+    },
+    {
+      "id": "off-09",
+      "title": {
+        "fr-FR": "Le VI février : En la fête de la divine enfance de jésus"
+      }
+    },
+    {
+      "id": "off-10",
+      "title": {
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (1)"
+      }
+    },
+    {
+      "id": "off-11",
+      "title": {
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (2)"
+      }
+    },
+    {
+      "id": "off-12",
+      "title": {
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (3)"
+      }
+    },
+    {
+      "id": "off-13",
+      "title": {
+        "fr-FR": "Le VIII de février : En la solennité du très saint cœur de la (4)"
+      }
+    },
+    {
+      "id": "off-14",
+      "title": {
+        "fr-FR": "Le XIX de mars : En la fête de saint joseph"
+      }
+    },
+    {
+      "id": "off-15",
+      "title": {
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (1)"
+      }
+    },
+    {
+      "id": "off-16",
+      "title": {
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (2)"
+      }
+    },
+    {
+      "id": "off-17",
+      "title": {
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (3)"
+      }
+    },
+    {
+      "id": "off-18",
+      "title": {
+        "fr-FR": "Le XXIII mars : En la fête de saint gabriel archange (4)"
+      }
+    },
+    {
+      "id": "off-19",
+      "title": {
+        "fr-FR": "Le VIII juillet : En la fête des joies de la b. vierge marie"
+      }
+    },
+    {
+      "id": "off-20",
+      "title": {
+        "fr-FR": "Le XXVI de juillet : En la fête de sainte anne"
+      }
+    },
+    {
+      "id": "off-21",
+      "title": {
+        "fr-FR": "Le XXIX de juillet : En la fête de sainte marthe, vierge"
+      }
+    },
+    {
+      "id": "off-22",
+      "title": {
+        "fr-FR": "Le XXXI de juillet : En la fête de saint ignace de loyola"
+      }
+    },
+    {
+      "id": "off-23",
+      "title": {
+        "fr-FR": "Le XXV de septembre : En la fête du s. nom de la b. v. marie (1)"
+      }
+    },
+    {
+      "id": "off-24",
+      "title": {
+        "fr-FR": "Le XXV de septembre : En la fête du s. nom de la b. v. marie (2)"
+      }
+    },
+    {
+      "id": "off-25",
+      "title": {
+        "fr-FR": "Le VII d'octobre : En la fête de n.d. de la victoire"
+      }
+    },
+    {
+      "id": "off-26",
+      "title": {
+        "fr-FR": "Le XII d'octobre : En la fête de la sainte enfance de la bienheureuse"
+      }
+    },
+    {
+      "id": "off-27",
+      "title": {
+        "fr-FR": "Le XX d'octobre : En la solennité du cœur admirable de jésus"
+      }
+    },
+    {
+      "id": "off-28",
+      "title": {
+        "fr-FR": "Le XXI D'OCTOBRE : Second jour de l'octave"
+      }
+    },
+    {
+      "id": "off-29",
+      "title": {
+        "fr-FR": "Le XXII d'octobre : Troisième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-30",
+      "title": {
+        "fr-FR": "Le XIII d'octobre : Quatrième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-31",
+      "title": {
+        "fr-FR": "Le XXIV d'octobre : Cinquième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-32",
+      "title": {
+        "fr-FR": "Le XXV d'octobre : Sixième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-33",
+      "title": {
+        "fr-FR": "Le XXVI d'octobre : Septième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-34",
+      "title": {
+        "fr-FR": "Le XXVII d'octobre : Jour de l'octave"
+      }
+    },
+    {
+      "id": "off-35",
+      "title": {
+        "fr-FR": "Le XIII de novembre : En la fête du divin sacerdoce"
+      }
+    },
+    {
+      "id": "off-36",
+      "title": {
+        "fr-FR": "Le XIV de novembre : Deuxième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-37",
+      "title": {
+        "fr-FR": "Le XV de novembre : Troisième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-38",
+      "title": {
+        "fr-FR": "Le XVI de novembre : Quatrième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-39",
+      "title": {
+        "fr-FR": "Le XVII de novembre : Cinquième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-40",
+      "title": {
+        "fr-FR": "Le XVIII de novembre : Sixième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-41",
+      "title": {
+        "fr-FR": "Le XIX de novembre : Septième jour de l'octave"
+      }
+    },
+    {
+      "id": "off-42",
+      "title": {
+        "fr-FR": "Le XX de novembre : Jour de l'octave"
+      }
+    },
+    {
+      "id": "off-43",
+      "title": {
+        "fr-FR": "Le XXVII de novembre : En la fête de tous les saints dont on a les sacrées"
+      }
+    },
+    {
+      "id": "off-44",
+      "title": {
+        "fr-FR": "Le XVIII de décembre : En la fête de l'expectation de la b. vierge marie (1)"
+      }
+    },
+    {
+      "id": "off-45",
+      "title": {
+        "fr-FR": "Le XVIII de décembre : En la fête de l'expectation de la b. vierge marie (2)"
+      }
+    },
+    {
+      "id": "off-46",
+      "title": {
+        "fr-FR": "Le XXVIII de janvier : En la fête de la solennité de jésus"
+      }
+    },
+    {
+      "id": "off-47",
+      "title": {
+        "fr-FR": "Le XX de mars : En la fête de s. joachim, confesseur"
+      }
+    },
+    {
+      "id": "off-48",
+      "title": {
+        "fr-FR": "Le XVII de juillet : En la fête de s. alexis, confesseur"
+      }
+    },
+    {
+      "id": "off-49",
+      "title": {
+        "fr-FR": "Le XXII de juillet : En la fête de sainte madeleine"
+      }
+    },
+    {
+      "id": "off-50",
+      "title": {
+        "fr-FR": "Le XIII d'aout : En la fête de saint symphorien, martyr"
+      }
+    },
+    {
+      "id": "off-51",
+      "title": {
+        "fr-FR": "Le XVII de septembre : En la solennité de la b. vierge marie"
+      }
+    },
+    {
+      "id": "off-52",
+      "title": {
+        "fr-FR": "Le XI d'octobre : En la fête de saint siméon, confesseur (1)"
+      }
+    },
+    {
+      "id": "off-53",
+      "title": {
+        "fr-FR": "Le XI d'octobre : En la fête de saint siméon, confesseur (2)"
+      }
+    },
+    {
+      "id": "off-54",
+      "title": {
+        "fr-FR": "Le IV de novembre : En la fête de saint charles, pontife"
+      }
+    },
+    {
+      "id": "off-55",
+      "title": {
+        "fr-FR": "Le VIII de décembre : En la fête de la conception de la (1)"
+      }
+    },
+    {
+      "id": "off-56",
+      "title": {
+        "fr-FR": "Le VIII de décembre : En la fête de la conception de la (2)"
+      }
+    }
+  ]
+}
