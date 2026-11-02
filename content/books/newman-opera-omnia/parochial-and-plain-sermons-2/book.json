@@ -1,0 +1,231 @@
+{
+  "id": "newman-parochial-and-plain-sermons-2",
+  "cover": "classic",
+  "name": {
+    "en-US": "Parochial and Plain Sermons, Volume 2",
+    "pt-BR": "Sermões Paroquiais e Simples, Volume 2"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Volume 2 of Newman's Parochial and Plain Sermons: 32 of the sermons he preached at St. Mary's, Oxford and Littlemore as an Anglican vicar. Newman reissued the series unchanged in 1868, as a Catholic, through his friend William John Copeland; this is the Longmans text. The sermons are on holiness, faith, the Christian year, the saints and the life of obedience.",
+    "pt-BR": "Volume 2 dos Parochial and Plain Sermons de Newman: 32 dos sermões que ele pregou em Santa Maria, Oxford, e em Littlemore, como vigário anglicano. Newman reeditou a série sem alterações em 1868, já católico, por meio do amigo William John Copeland; este é o texto da Longmans. Os sermões tratam da santidade, da fé, do ano cristão, dos santos e da vida de obediência."
+  },
+  "composed": "1835-1836",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/parochial-and-plain-sermons-2",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/parochial/volume2/index.html",
+      "edition": "Parochial and Plain Sermons, vol. 2 (London: Rivingtons, 1868 edition of the series first published 1834-1843), as transcribed by the Newman Reader.",
+      "description": "32 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Anglican-period sermons, reissued by Newman in 1868. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon 1. The World's Benefactors"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon 2. Faith without Sight"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon 3. The Incarnation"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon 4. Martyrdom"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon 5. Love of Relations and Friends"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon 6. The Mind of Little Children"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon 7. Ceremonies of the Church"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon 8. The Glory of the Christian Church"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon 9. St. Paul's Conversion Viewed in reference to His Office"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon 10. Secrecy and Suddenness of Divine Visitations"
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon 11. Divine Decrees"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon 12. The Reverence Due to the Virgin Mary"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon 13. Christ, a Quickening Spirit"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon 14. Saving Knowledge"
+      }
+    },
+    {
+      "id": "sermon-15",
+      "title": {
+        "en-US": "Sermon 15. Self-Contemplation"
+      }
+    },
+    {
+      "id": "sermon-16",
+      "title": {
+        "en-US": "Sermon 16. Religious Cowardice"
+      }
+    },
+    {
+      "id": "sermon-17",
+      "title": {
+        "en-US": "Sermon 17. The Gospel Witnesses"
+      }
+    },
+    {
+      "id": "sermon-18",
+      "title": {
+        "en-US": "Sermon 18. Mysteries in Religion"
+      }
+    },
+    {
+      "id": "sermon-19",
+      "title": {
+        "en-US": "Sermon 19. The Indwelling Spirit"
+      }
+    },
+    {
+      "id": "sermon-20",
+      "title": {
+        "en-US": "Sermon 20. The Kingdom of the Saints"
+      }
+    },
+    {
+      "id": "sermon-21",
+      "title": {
+        "en-US": "Sermon 21. The Kingdom of the Saints"
+      }
+    },
+    {
+      "id": "sermon-22",
+      "title": {
+        "en-US": "Sermon 22. The Gospel, a Trust Committed to Us"
+      }
+    },
+    {
+      "id": "sermon-23",
+      "title": {
+        "en-US": "Sermon 23. Tolerance of Religious Error"
+      }
+    },
+    {
+      "id": "sermon-24",
+      "title": {
+        "en-US": "Sermon 24. Rebuking Sin"
+      }
+    },
+    {
+      "id": "sermon-25",
+      "title": {
+        "en-US": "Sermon 25. The Christian Ministry"
+      }
+    },
+    {
+      "id": "sermon-26",
+      "title": {
+        "en-US": "Sermon 26. Human Responsibility"
+      }
+    },
+    {
+      "id": "sermon-27",
+      "title": {
+        "en-US": "Sermon 27. Guilelessness"
+      }
+    },
+    {
+      "id": "sermon-28",
+      "title": {
+        "en-US": "Sermon 28. The Danger of Riches"
+      }
+    },
+    {
+      "id": "sermon-29",
+      "title": {
+        "en-US": "Sermon 29. The Powers of Nature"
+      }
+    },
+    {
+      "id": "sermon-30",
+      "title": {
+        "en-US": "Sermon 30. The Danger of Accomplishments"
+      }
+    },
+    {
+      "id": "sermon-31",
+      "title": {
+        "en-US": "Sermon 31. Christian Zeal"
+      }
+    },
+    {
+      "id": "sermon-32",
+      "title": {
+        "en-US": "Sermon 32. Use of Saints' Days"
+      }
+    }
+  ]
+}
