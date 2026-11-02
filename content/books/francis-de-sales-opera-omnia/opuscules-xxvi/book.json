@@ -1,0 +1,345 @@
+{
+  "id": "sales-opuscules-xxvi",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Opuscules de saint François de Sales, tome XXVI",
+    "en-US": "Opuscules of St. Francis de Sales, vol. XXVI",
+    "pt-BR": "Opúsculos de São Francisco de Sales, tomo XXVI"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les opuscules du tome XXVI de l’édition d’Annecy : ascétisme et mystique (Déclaration mystique sur le Cantique des Cantiques, fragments sur les vertus cardinales et sur Notre-Dame, Conseils aux Supérieurs, Similitudes, Avis, lettre sur la prédication).",
+    "en-US": "The opuscules in volume XXVI of the Annecy edition: asceticism and mysticism (the mystical declaration on the Song of Songs, fragments on the cardinal virtues and Our Lady, counsels to superiors, similitudes, advices, the letter on preaching).",
+    "pt-BR": "Os opúsculos de São Francisco de Sales no tomo XXVI da edição de Annecy (Sixième série : Ascétisme et mystique)."
+  },
+  "composed": "1600-1622",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/opuscules-xxvi",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1929
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. XXVI: Opuscules, 1929 (file 26), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original spelling (and the Latin or Italian of some pieces), extracted from the PDF text layer (layout mode). Marginal references, the variants and footnotes, and the editors’ introductions and tables are not included. Chapters follow the printed section headings; short sections are folded into the preceding chapter under a second-level heading.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "piece-01",
+      "title": {
+        "fr-FR": "Sur le signe de la croix"
+      }
+    },
+    {
+      "id": "piece-02",
+      "title": {
+        "fr-FR": "De la charité dans les jugements (’)"
+      }
+    },
+    {
+      "id": "piece-03",
+      "title": {
+        "fr-FR": "Conseils aux supérieurs"
+      }
+    },
+    {
+      "id": "piece-04",
+      "title": {
+        "fr-FR": "Premier recueil"
+      }
+    },
+    {
+      "id": "piece-05",
+      "title": {
+        "fr-FR": "Troisième r ec u eil"
+      }
+    },
+    {
+      "id": "piece-06",
+      "title": {
+        "fr-FR": "Et de quibusdam similitudinibus"
+      }
+    },
+    {
+      "id": "piece-07",
+      "title": {
+        "fr-FR": "Recueil de similitudes"
+      }
+    },
+    {
+      "id": "piece-08",
+      "title": {
+        "fr-FR": "Autre recueil de similitudes"
+      }
+    },
+    {
+      "id": "piece-09",
+      "title": {
+        "fr-FR": "Sur les devoirs que lui imposent sa profession religieuse et sa charge"
+      }
+    },
+    {
+      "id": "piece-10",
+      "title": {
+        "fr-FR": "De Notre-seigneur Jésus-Christ"
+      }
+    },
+    {
+      "id": "piece-11",
+      "title": {
+        "fr-FR": "I. meditation"
+      }
+    },
+    {
+      "id": "piece-12",
+      "title": {
+        "fr-FR": "Chrétienne envoyé a la présidente brulart"
+      }
+    },
+    {
+      "id": "piece-13",
+      "title": {
+        "fr-FR": "Exemple de l’obeyssance"
+      }
+    },
+    {
+      "id": "piece-14",
+      "title": {
+        "fr-FR": "Avis a la baronne de chantal"
+      }
+    },
+    {
+      "id": "piece-15",
+      "title": {
+        "fr-FR": "Db la journée"
+      }
+    },
+    {
+      "id": "piece-16",
+      "title": {
+        "fr-FR": "Meditation"
+      }
+    },
+    {
+      "id": "piece-17",
+      "title": {
+        "fr-FR": "Conseils pour la méditation"
+      }
+    },
+    {
+      "id": "piece-18",
+      "title": {
+        "fr-FR": "Exercice pour le matin ( o"
+      }
+    },
+    {
+      "id": "piece-19",
+      "title": {
+        "fr-FR": "Avis divers sur les exercices précédents"
+      }
+    },
+    {
+      "id": "piece-20",
+      "title": {
+        "fr-FR": "Et l’inquiétude intérieure"
+      }
+    },
+    {
+      "id": "piece-21",
+      "title": {
+        "fr-FR": "Memorial pour bien faire la confession adressé au duc de bellegarde"
+      }
+    },
+    {
+      "id": "piece-22",
+      "title": {
+        "fr-FR": "Péchés contre le 7. commandement"
+      }
+    },
+    {
+      "id": "piece-23",
+      "title": {
+        "fr-FR": "Moyen de discerner le peche mortel du veniel"
+      }
+    },
+    {
+      "id": "piece-24",
+      "title": {
+        "fr-FR": "Avis a la même"
+      }
+    },
+    {
+      "id": "piece-25",
+      "title": {
+        "fr-FR": "Au nom de j jesus et Marie"
+      }
+    },
+    {
+      "id": "piece-26",
+      "title": {
+        "fr-FR": "Pour mon amendement"
+      }
+    },
+    {
+      "id": "piece-27",
+      "title": {
+        "fr-FR": "De l’obeyssance"
+      }
+    },
+    {
+      "id": "piece-28",
+      "title": {
+        "fr-FR": "De la simplicité"
+      }
+    },
+    {
+      "id": "piece-29",
+      "title": {
+        "fr-FR": "Du parler"
+      }
+    },
+    {
+      "id": "piece-30",
+      "title": {
+        "fr-FR": "De l'amour de Dieu [et du prochain]"
+      }
+    },
+    {
+      "id": "piece-31",
+      "title": {
+        "fr-FR": "De la melancolie"
+      }
+    },
+    {
+      "id": "piece-32",
+      "title": {
+        "fr-FR": "De l’orayson"
+      }
+    },
+    {
+      "id": "piece-33",
+      "title": {
+        "fr-FR": "Exercice du matin"
+      }
+    },
+    {
+      "id": "piece-34",
+      "title": {
+        "fr-FR": "Avis pour la charge de supérieure a la mère claude-agnès de la roche"
+      }
+    },
+    {
+      "id": "piece-35",
+      "title": {
+        "fr-FR": "Supérieure de la Visitation de nevers"
+      }
+    },
+    {
+      "id": "piece-36",
+      "title": {
+        "fr-FR": "A une personne vivant dans le monde"
+      }
+    },
+    {
+      "id": "piece-37",
+      "title": {
+        "fr-FR": "Autres avis spirituels"
+      }
+    },
+    {
+      "id": "piece-38",
+      "title": {
+        "fr-FR": "Avis a la mère claude-agnès de la roche supérieure de la Visitation d’orléans"
+      }
+    },
+    {
+      "id": "piece-39",
+      "title": {
+        "fr-FR": "Autres avis spirituels a une religieuse de la Visitation"
+      }
+    },
+    {
+      "id": "piece-40",
+      "title": {
+        "fr-FR": "Fragments sur la pauvreté"
+      }
+    },
+    {
+      "id": "piece-41",
+      "title": {
+        "fr-FR": "Autre meditation pour le même aspirant"
+      }
+    },
+    {
+      "id": "piece-42",
+      "title": {
+        "fr-FR": "Paraphrase de l’oraison dominicale adressée a une de ses filles spirituelles"
+      }
+    },
+    {
+      "id": "piece-43",
+      "title": {
+        "fr-FR": "Il pater noster in prattica"
+      }
+    },
+    {
+      "id": "piece-44",
+      "title": {
+        "fr-FR": "Au bayser de l’autel"
+      }
+    },
+    {
+      "id": "piece-45",
+      "title": {
+        "fr-FR": "A la benediction des offrandes"
+      }
+    },
+    {
+      "id": "piece-46",
+      "title": {
+        "fr-FR": "Ou pris dans une acception inusitee"
+      }
+    },
+    {
+      "id": "piece-47",
+      "title": {
+        "fr-FR": "Combien que la tentation"
+      }
+    },
+    {
+      "id": "piece-48",
+      "title": {
+        "fr-FR": "Ne regarder point aux —"
+      }
+    },
+    {
+      "id": "piece-49",
+      "title": {
+        "fr-FR": "Prætention, pretention —"
+      }
+    },
+    {
+      "id": "piece-50",
+      "title": {
+        "fr-FR": "Tirer le motif du Saint"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

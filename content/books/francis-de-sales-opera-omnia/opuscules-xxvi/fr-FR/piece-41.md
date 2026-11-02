@@ -1,0 +1,39 @@
+# Autre meditation pour le même aspirant
+
+SUR LA NAISSANCE DE NOTRE-SEIGNEUR JÉSUS-CHRIST L’arrivée de Marie et Joseph à Bethléem ; ils reçoivent le mépris avec une dou­
+
+ceur incomparable. — Le moindre oubli excite notre arrogance. — L’ « esta-
+
+blerie » pour le Sauveur, et « les superbes édifices » pour les pécheurs. — Tout
+
+est pauvre dans cette naissance, et nous ne cherchons qu’à nous satisfaire.
+
+Imagines vous de voir saint Joseph avec la Sainte Vierge, sur le point de son accouchement, arriver en Bethleem et chercher par tout a loger, sans treuver aucun qui les veuille recevoir. O Dieu, quel mespris et rejet le monde fait des " Cf. Luc., ii, 7. gens celestes et saintz, et comme ces deux saintes âmes embrassent volontier cette abjection ! Hz ne s’eslevent point, ilz ne font point de remonstrances de leur qualité, mais tout simplement reçoivent ces refus et aspretés avec une douceur nompareille. Ah ! misérable que je suis ! le moindre oubli que l'on fait de l'honneur pointilleux qui m’est deu, ou que je m’imagine m’estre deu, me trouble, m’inquiété, excite mon arrogance et ma fierté ; par tout je me pousse a vive force es premiers rangs. Helas ! quand auray je cette vertu, le mespris de moy mesme et des vanités ?
+
+Consideres comme saint Joseph et Nostre Dame entrent dans l’entree et porche qui servoit par fois d’establerie aux estrangers, pour y faire le glorieux enfantement du Sauveur. Ou sont les superbes édifices que l’ambition du monde esleve pour l’habitation des vilz et détestables pécheurs ? Ah ! quel mespris des grandeurs du monde nous a enseigné ce divin Sauveur ! Que bienheureux sont ceux qui sçavent aymer la sainte simplicité et modération ! Misérable que je suis, il me faut des palais, encor n’est ce pas asses ; et voyla mon Sauveur sous un toit tout percé, et sur du foin, pauvrement et piteusement logé.
+
+Consideres ce divin petit Enfançon né nud, frileux, dans une cresche, enveloppé de bandelettes. Helas ! que tout Ibid., 12. est pauvre, que tout est vil et abject en cet accouchement, et que nous sommes doüilletz et sujetz a nos commodités, amoureux des sensualités ! Il faut grandement exciter en nous le mespris du monde et le désir de souffrir pour Nostre Seigneur les abjections, mesayses, pauvretés et manquemens.
+
+lu
+
+TROISIÈME MÉTHODE POUR RÉCITER LE CHAPELET 0)
+
+Ayant pris vostre chapelet par la croix et l’ayant baysee, vous feres avec icelle le signe de la Croix sur vous, et vous Vide supra,p.238. mettres en la presence de Dieu, luy offrant vostre ame avec toutes ses puissances, principalement vostre entendement et volonté, avec un grand désir de considerer avec attention les misteres de nostre foy et de tirer d’iceux quelque sainte affection d’imiter les vertus que nostre Rédempteur nous a enseigné, et de faire d’autres actes d’amour de Dieu, d’admiration de ses perfections infinies, d’actions de grâces pour ses bénéfices, de contrition de vos péchés, de saintz propos de vous amender, de surmonter vos passions, de prouffiter en la vertu. En apres, vous prières Dieu, par les merites de la vie, mort et passion de nostre Sauveur, par l’intercession de la glorieuse Vierge et de vostre Ange tutélaire, d’accepter vos foibles prières pour ceux ou celles des vivans et trespassés pour lesquelz vous aures prins resolution de prier.
+
+Cela fait, vous dires avec grande foy le Credo, et pour vous préparer a dire plus dévotement le Chapelet, vous implore-res le secours divin en disant : Deus, in adjutorium meum intende: Domine, ad adjuvandum me festina; et vous adjousteres : Gloria Patri et Filio et Spiritui Sancto, et ce, avec un grand désir d’adorer et glorifier la très sainte Cette troisième Méthode est une compilation. Le P. Philibert de Bonneville l’a insérée au chapitre xxxi, p. 330, de sa Vie du B. François de Sales (Lyon, Rigaud, 1628), où il dit que le Saint l’a laissée « a quelque sien amy ». Mais dans sa déposition au Ier Procès de Genève (ad art. 33), le même P. Capucin s’exprime ainsi : « J’ay veu une maniéré fort devote pour dire le Chapelet, escripte de sa propre main, et une aultre quil avoit baillié a un dévot Religieux, lesquelles j’ay côlligé en une parce qu’elles estoient fort semblables, retenant tant que j’ay peu les paroles de l’autheur. » Donc, non seulement le déposant a fait une compilation de deux textes, mais il y a fait encore quelques retouches. Plusieurs passages ont dû être empruntés à l’écrit cité par le P. de la Rivière (voir ci-dessus, note, p. 238) ; la plupart sont textuels. Toutefois, comme il serait difficile de les séparer du reste, nous donnons en entier la compilation du P. Philibert de Bonneville et, en marge, des renvois à la Méthode qu’on a lu plus haut, pp. 238-240.
+
+Il est évident qu’aucune date ne peut être proposée. Trinité ; et en fin adjousteres le dévot hymne : Memento, salutis auctor, avec le verset Dignare me laudare te, Hymn. Christe
+
+a Redemptor gen- Virgo sacrata. tium.
+
+Apres cette préparation vous commenceres le Chapelet, et aux trois petitz grains vous demanderes l’intercession de la glorieuse Vierge, affin que vous le puissies bien dire et en tirer quelque fruict spirituel. Et a cette intention, au premier grain des trois petitz, vous salueres Nostre Dame comme la Fille la plus chere du Pere eternel ; au second, vous la salueres comme Mere très chere du Filz de Dieu, nostre Sauveur ; et au troysiesme, vous la salueres comme Espouse bienaymee du Saint Esprit. ‘Videsupra,p. 339.
+
+Cela fait, vous commenceres a méditer les misteres du Rosaire, prenant ou les joyeux, ou les douloureux, ou les glorieux, ou mesme quelque autre dévot sujet, tel que Dieu vous inspirera, vous entretenant en la méditation d’iceluy Vide ibid-pendant que vous dites la première dizaine ; et me semble encor estre plus utile de s’y entretenir quelque peu avant que de la commencer. Et apres, dires l’Orayson dominicale, par laquelle doivent commencer toutes vos oraysons, comme estant la plus excellente que nous puissions faire ; et ensuite vous dires les dix Ave Maria, continuant en cette maniéré de dire les cinq dizaines d’une partie du Rosaire.
+
+A la fin, vous reprendres le gros grain qui est au commencement dudit Chapelet et remercieres Dieu de la grâce qu’il vous a faitte de vous permettre de dire le Chapelet, luy demandant l’assistence de sa grâce pour pouvoir mettre en execution les bons propos qu’il vous a donnés. Et passant aux trois petitz grains suivans, vous salueres la Sainte Vierge, la suppliant, au premier, d’offrir vostre entendement au Pere eternel, affin que vous puissies a jamais considerer ses misericordes ; au second, vous la supplieras d’offrir vostre mémoire au Filz, a ce qu’a jamais vous ayes souvenance de sa Passion ; au troysiesme, vous la supplieras d’offrir vostre volonté au Saint Esprit, affin qu’a jamais vous puissies estre enflammé de son saint amour. Et en fin, *Videibid.,pp.239, au gros grain qui est au fin bout, vous feres un bouquet spi- 24°’ rituel de recollection, renouvellant tous les bons propos et saintes resolutions qu’aves faites en la méditation de ces cinq mystères, suppliant la divine Majesté qu’elle accepte et addresse toutes vos oraysons a son honneur et gloire et pour le bien de son Eglise, en la foy et union de laquelle vous prières sa Bonté de vouloir rappeller tous les desvoyés. Et prières encor pour toutes vos nécessités particulières et de vos amis, finissant comme vous aves commencé, par “Vide supra, p.240. la profession de foy, disant le .*Credo
+
+Puys, vous signant et baysant la croix, mettes vostre chapelet a la ceinture, comme une sainte marque par laquelle vous voules protester que vous voules estre serviteur du tout dédié au service du Sauveur et de sa sainte ,*Mere disant dévotement ces paroles de David : Servus tuus sum ego, et filius ancillæ tuce ().
+
+(*) Je suis votre serviteur, et le fils de votre servante.
+
+LUI
