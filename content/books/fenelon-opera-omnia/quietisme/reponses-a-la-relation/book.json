@@ -1,0 +1,112 @@
+{
+  "id": "fenelon-quietisme-relation",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme V : Réponse à la Relation sur le quiétisme (1698)",
+    "en-US": "The Quietism Dispute V: Reply to the Account of Quietism (1698)",
+    "pt-BR": "Querela do quietismo V: Resposta à Relação sobre o quietismo (1698)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La Réponse de Fénelon à la Relation sur le quiétisme de Bossuet (août 1698), où il retrace l’affaire et son amitié avec Mme Guyon, puis sa Réponse aux Remarques de l’évêque de Meaux (novembre 1698).",
+    "en-US": "Fénelon’s Reply to Bossuet’s Account of Quietism (August 1698), in which he retraces the affair and his friendship with Madame Guyon, followed by his Reply to the Remarks of the Bishop of Meaux (November 1698).",
+    "pt-BR": "A Resposta de Fénelon à Relação sobre o quietismo de Bossuet (agosto de 1698), em que ele refaz a história do caso e de sua amizade com a sra. Guyon, seguida da Resposta às Observações do bispo de Meaux (novembro de 1698)."
+  },
+  "composed": "1698",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/reponses-a-la-relation",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte03fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 3, p. 5–123; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-reponse-a-la-relation",
+      "title": {
+        "fr-FR": "Réponse à l’écrit de M. l’évêque de Meaux intitulé Relation sur le quiétisme"
+      },
+      "children": [
+        {
+          "id": "01-reponse-a-la-relation-01",
+          "title": {
+            "fr-FR": "Réponse à l’écrit de M. l’évêque de Meaux intitulé Relation sur le quiétisme, partie 1"
+          }
+        },
+        {
+          "id": "01-reponse-a-la-relation-02",
+          "title": {
+            "fr-FR": "Réponse à l’écrit de M. l’évêque de Meaux intitulé Relation sur le quiétisme, partie 2"
+          }
+        },
+        {
+          "id": "01-reponse-a-la-relation-03",
+          "title": {
+            "fr-FR": "Réponse à l’écrit de M. l’évêque de Meaux intitulé Relation sur le quiétisme, partie 3"
+          }
+        },
+        {
+          "id": "01-reponse-a-la-relation-04",
+          "title": {
+            "fr-FR": "Réponse à l’écrit de M. l’évêque de Meaux intitulé Relation sur le quiétisme, partie 4"
+          }
+        },
+        {
+          "id": "01-reponse-a-la-relation-05",
+          "title": {
+            "fr-FR": "Réponse à l’écrit de M. l’évêque de Meaux intitulé Relation sur le quiétisme, partie 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-reponse-aux-remarques",
+      "title": {
+        "fr-FR": "Réponse aux Remarques de M. l’évêque de Meaux sur la Réponse à la Relation"
+      },
+      "children": [
+        {
+          "id": "02-reponse-aux-remarques-01",
+          "title": {
+            "fr-FR": "Réponse aux Remarques de M. l’évêque de Meaux sur la Réponse à la Relation, partie 1"
+          }
+        },
+        {
+          "id": "02-reponse-aux-remarques-02",
+          "title": {
+            "fr-FR": "Réponse aux Remarques de M. l’évêque de Meaux sur la Réponse à la Relation, partie 2"
+          }
+        },
+        {
+          "id": "02-reponse-aux-remarques-03",
+          "title": {
+            "fr-FR": "Réponse aux Remarques de M. l’évêque de Meaux sur la Réponse à la Relation, partie 3"
+          }
+        },
+        {
+          "id": "02-reponse-aux-remarques-04",
+          "title": {
+            "fr-FR": "Réponse aux Remarques de M. l’évêque de Meaux sur la Réponse à la Relation, partie 4"
+          }
+        }
+      ]
+    }
+  ]
+}
