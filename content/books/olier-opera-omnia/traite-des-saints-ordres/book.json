@@ -1,0 +1,120 @@
+{
+  "id": "olier-traite-des-saints-ordres",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Traité des saints ordres",
+    "en-US": "Treatise on Holy Orders",
+    "pt-BR": "Tratado das ordens sagradas"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "La cléricature, les ordres inférieurs et le sacerdoce, publié après la mort d’Olier (Tronson, 1676).",
+    "en-US": "Clericature, the minor orders and the priesthood, published after Olier’s death (Tronson, 1676).",
+    "pt-BR": "A clericatura, as ordens menores e o sacerdócio, publicado após a morte de Olier (Tronson, 1676)."
+  },
+  "composed": 1676,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "olier/traite-des-saints-ordres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/uvrescompltesd00olie",
+      "edition": "Œuvres complètes de M. Olier, éd. Migne, Paris, 1856; archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Olier died in 1657; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "partie-1-01",
+      "title": {
+        "fr-FR": "Première partie : de la cléricature, section 1"
+      }
+    },
+    {
+      "id": "partie-1-02",
+      "title": {
+        "fr-FR": "Première partie : de la cléricature, section 2"
+      }
+    },
+    {
+      "id": "partie-1-03",
+      "title": {
+        "fr-FR": "Première partie : de la cléricature, section 3"
+      }
+    },
+    {
+      "id": "partie-1-04",
+      "title": {
+        "fr-FR": "Première partie : de la cléricature, section 4"
+      }
+    },
+    {
+      "id": "partie-1-05",
+      "title": {
+        "fr-FR": "Première partie : de la cléricature, section 5"
+      }
+    },
+    {
+      "id": "partie-1-06",
+      "title": {
+        "fr-FR": "Première partie : de la cléricature, section 6"
+      }
+    },
+    {
+      "id": "partie-1-07",
+      "title": {
+        "fr-FR": "Première partie : de la cléricature, section 7"
+      }
+    },
+    {
+      "id": "partie-2-01",
+      "title": {
+        "fr-FR": "Deuxième partie : des ordres inférieurs, section 1"
+      }
+    },
+    {
+      "id": "partie-2-02",
+      "title": {
+        "fr-FR": "Deuxième partie : des ordres inférieurs, section 2"
+      }
+    },
+    {
+      "id": "partie-3-01",
+      "title": {
+        "fr-FR": "Troisième partie : du sacerdoce, section 1"
+      }
+    },
+    {
+      "id": "partie-3-02",
+      "title": {
+        "fr-FR": "Troisième partie : du sacerdoce, section 2"
+      }
+    },
+    {
+      "id": "partie-3-03",
+      "title": {
+        "fr-FR": "Troisième partie : du sacerdoce, section 3"
+      }
+    },
+    {
+      "id": "partie-3-04",
+      "title": {
+        "fr-FR": "Troisième partie : du sacerdoce, section 4"
+      }
+    }
+  ]
+}
