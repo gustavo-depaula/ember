@@ -1,0 +1,11 @@
+{"id":"faber-all-for-jesus","dir":"faber-opera-omnia/all-for-jesus","slug":"all-for-jesus","work":"faber/all-for-jesus",
+"name":"All for Jesus, or the Easy Ways of Divine Love","name_pt":"Tudo por Jesus, ou os Caminhos Fáceis do Amor Divino",
+"author":"Fr. Frederick William Faber","author_pt":"Pe. Frederick William Faber","died":1863,
+"desc":"Faber's first great devotional treatise (1853), written for the Confraternity of the Precious Blood: nine chapters on loving Jesus by taking up His interests, sympathizing with Him in His sorrows, offering Him reparation, and winning souls, with a closing chapter on devotion to the souls in purgatory and a letter to the Confraternity.",
+"desc_pt":"O primeiro grande tratado devocional de Faber (1853), escrito para a Confraria do Preciosíssimo Sangue: nove capítulos sobre o amor a Jesus — tomar a peito os Seus interesses, compadecer-se das Suas dores, oferecer-Lhe reparação e ganhar almas —, com um capítulo final sobre a devoção às almas do purgatório e uma carta à Confraria.",
+"composed":1853,"editor":"Fr. Frederick William Faber (London: Richardson and Son, 1853)","year":1853,
+"url":"https://archive.org/details/allforjesusoreas00fabeuoft","edition":"All for Jesus, or the Easy Ways of Divine Love (London and Derby: Richardson and Son, 1853), University of Toronto scan, Internet Archive full-text OCR.",
+"srcnote":"The prefaces to the first four editions are given as one preface; the analytic table of contents and the index are dropped.",
+"src":"faber/ia/allforjesusoreas00fabeuoft_djvu.txt","start":578,"end":16215,"levels":["CHAPTER"],"fn":true,
+"front":[{"id":"preface","title":"Preface","from":264,"to":403}],
+"back":[{"id":"letter","title":"A Letter to the Confraternity of the Precious Blood","from":16218,"to":16534}]}
