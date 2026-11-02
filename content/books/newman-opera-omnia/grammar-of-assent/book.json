@@ -1,0 +1,123 @@
+{
+  "id": "newman-grammar-of-assent",
+  "cover": "classic",
+  "name": {
+    "en-US": "An Essay in Aid of a Grammar of Assent",
+    "pt-BR": "Ensaio em Auxílio de uma Gramática do Assentimento"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's philosophical work of 1870 on how the mind comes to believe. Part I distinguishes notional from real assent, and apprehension from inference. Part II studies assent and certitude, and in the Illative Sense gives the faculty by which we judge concrete matters; the last chapters apply it to the evidences of natural and revealed religion.",
+    "pt-BR": "A obra filosófica de Newman (1870) sobre como a mente chega a crer. A primeira parte distingue o assentimento nocional do real e a apreensão da inferência. A segunda estuda o assentimento e a certeza e, no Sentido Ilativo, descreve a faculdade pela qual julgamos as questões concretas; os últimos capítulos a aplicam às provas da religião natural e da revelada."
+  },
+  "composed": "1870",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/grammar-of-assent",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans text; Newman Reader)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/grammar/index.html",
+      "edition": "An Essay in Aid of a Grammar of Assent (London: Longmans, Green, 1870 and later impressions), as transcribed by the Newman Reader.",
+      "description": "11 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Chapters 4, 5, 6, 8 and 10 each join the Newman Reader's pages for their sections. The two Dublin Review notices of the book (by others) are left out. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: Assent and Apprehension",
+        "pt-BR": "Parte I: Assentimento e apreensão"
+      },
+      "children": [
+        {
+          "id": "chapter-1",
+          "title": {
+            "en-US": "Chapter 1. Modes of holding and apprehending Propositions"
+          }
+        },
+        {
+          "id": "chapter-2",
+          "title": {
+            "en-US": "Chapter 2. Assent considered as Apprehensive"
+          }
+        },
+        {
+          "id": "chapter-3",
+          "title": {
+            "en-US": "Chapter 3. The Apprehension of Propositions"
+          }
+        },
+        {
+          "id": "chapter-4",
+          "title": {
+            "en-US": "Chapter 4. Notional and Real Assent"
+          }
+        },
+        {
+          "id": "chapter-5",
+          "title": {
+            "en-US": "Chapter 5. Apprehension and Assent in the matter of Religion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: Assent and Inference",
+        "pt-BR": "Parte II: Assentimento e inferência"
+      },
+      "children": [
+        {
+          "id": "chapter-6",
+          "title": {
+            "en-US": "Chapter 6. Assent considered as Unconditional"
+          }
+        },
+        {
+          "id": "chapter-7",
+          "title": {
+            "en-US": "Chapter 7. Certitude"
+          }
+        },
+        {
+          "id": "chapter-8",
+          "title": {
+            "en-US": "Chapter 8. Inference"
+          }
+        },
+        {
+          "id": "chapter-9",
+          "title": {
+            "en-US": "Chapter 9. The Illative Sense"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter 10. Inference and Assent in the Matter of Religion"
+          }
+        },
+        {
+          "id": "notes",
+          "title": {
+            "en-US": "Notes"
+          }
+        }
+      ]
+    }
+  ]
+}

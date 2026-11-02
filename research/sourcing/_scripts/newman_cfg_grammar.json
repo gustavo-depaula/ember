@@ -1,0 +1,85 @@
+{
+ "slug": "grammar-of-assent",
+ "id": "newman-grammar-of-assent",
+ "name": "An Essay in Aid of a Grammar of Assent",
+ "name_pt": "Ensaio em Auxílio de uma Gramática do Assentimento",
+ "desc": "Newman's philosophical work of 1870 on how the mind comes to believe. Part I distinguishes notional from real assent, and apprehension from inference. Part II studies assent and certitude, and in the Illative Sense gives the faculty by which we judge concrete matters; the last chapters apply it to the evidences of natural and revealed religion.",
+ "desc_pt": "A obra filosófica de Newman (1870) sobre como a mente chega a crer. A primeira parte distingue o assentimento nocional do real e a apreensão da inferência. A segunda estuda o assentimento e a certeza e, no Sentido Ilativo, descreve a faculdade pela qual julgamos as questões concretas; os últimos capítulos a aplicam às provas da religião natural e da revelada.",
+ "composed": "1870",
+ "editor": "John Henry Newman (Longmans text; Newman Reader)",
+ "year": 1870,
+ "index": "grammar/index.html",
+ "edition": "An Essay in Aid of a Grammar of Assent (London: Longmans, Green, 1870 and later impressions), as transcribed by the Newman Reader.",
+ "note": "Chapters 4, 5, 6, 8 and 10 each join the Newman Reader's pages for their sections. The two Dublin Review notices of the book (by others) are left out.",
+ "parts": [
+  {
+   "id": "part-1",
+   "title": "Part I: Assent and Apprehension",
+   "title_pt": "Parte I: Assentimento e apreensão",
+   "from": "chapter-1"
+  },
+  {
+   "id": "part-2",
+   "title": "Part II: Assent and Inference",
+   "title_pt": "Parte II: Assentimento e inferência",
+   "from": "chapter-6"
+  }
+ ],
+ "chapters": [
+  [
+   "grammar/chapter1.html",
+   "chapter-1",
+   null
+  ],
+  [
+   "grammar/chapter2.html",
+   "chapter-2",
+   null
+  ],
+  [
+   "grammar/chapter3.html",
+   "chapter-3",
+   null
+  ],
+  [
+   "grammar/chapter4-1.html+grammar/chapter4-2.html",
+   "chapter-4",
+   "Chapter 4. Notional and Real Assent"
+  ],
+  [
+   "grammar/chapter5-1.html+grammar/chapter5-2.html",
+   "chapter-5",
+   null
+  ],
+  [
+   "grammar/chapter6-1.html+grammar/chapter6-2.html",
+   "chapter-6",
+   null
+  ],
+  [
+   "grammar/chapter7.html",
+   "chapter-7",
+   null
+  ],
+  [
+   "grammar/chapter8-1.html+grammar/chapter8-2.html+grammar/chapter8-3.html",
+   "chapter-8",
+   null
+  ],
+  [
+   "grammar/chapter9.html",
+   "chapter-9",
+   null
+  ],
+  [
+   "grammar/chapter10-1.html+grammar/chapter10-2.html+grammar/chapter10-3.html",
+   "chapter-10",
+   null
+  ],
+  [
+   "grammar/notes.html",
+   "notes",
+   "Notes"
+  ]
+ ]
+}
