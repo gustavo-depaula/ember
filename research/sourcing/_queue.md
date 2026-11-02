@@ -21,7 +21,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Catherine of Siena (rest) · Catherine of Genoa · Scupoli (rest) · Philip Neri. Left: ~180 Siena letters and the 26 Orazioni (OCR only), Genoa's Italian Vita and Dialogo, Scupoli's Italian Aggiunta/Sentiero, Neri's Italian Ricordi (long-s or no free text)
 - [x] Mary Magdalene de' Pazzi · Bernardine of Siena. Left: Bernardine's Latin Opera (needs fresh OCR), 1424–25 sermons (lending-only), English (Fabrini 1900, Robins 1920)
 - [x] Dante (rest) · Francis of Assisi (rest and early sources). Left: Speculum perfectionis, Robinson 1906 Writings (page-image pass), Actus LXIX–LXXVI (Sabatier 1902), Legenda ad usum chori, English for Celano, Three Companions, Sacrum commercium, Vita nuova, Rime
-- [ ] Bonaventure
+- [ ] Bonaventure (17 books done: Legendae, Itinerarium, De reductione, Breviloquium, 10 opuscula). Left: Collationes, Quaestiones disputatae, sermons, Scripture commentaries, Sentences commentary (Quaracchi folio OCR needs a layout-aware cleaner), English Legendae
 - [ ] Benedict · Bede (rest) · Gregory the Great (rest)
 - [ ] Anselm (rest) · Bernard (rest)
 - [ ] Victorines
