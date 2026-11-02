@@ -8,8 +8,6 @@ Sect. I. — Of the veneration of the Angels and Saints.
 
 How do you prove, that there is an honour and veneration due to the angels and saints f
 
-Digitized by Google
-
 44 Veneration of Angelt and Saints.
 
 Because they are God's angels and saints, that is to say, most faithful servants, courtiers, friends, and favourites of the King of kings, who, having highly honoured him, are now highly honoured by him, as he has promised, l Sam. ii. 30, “ Them that honour me I will honour/'
@@ -19,8 +17,6 @@ Because they are God's angels and saints, that is to say, most faithful servants
 3rdly. Because the angels of God are our guardians, tutors, and governors: as appears from many texts of scripture, Ps. xci. 11, 12, “He shall give his angels charge over thee to keep thee in all thy ways; they shall bear thee up in their hands, lest thou dash thy foot against a stone.” Matt, xviii. 10, “Take heed that ye despise not one of these little ones; for I say unto you, that in heaven their angels do always behold the face of my Father that is in heaven." Heb. i. 14, “ Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation.” It is therefore evidently the will of God that we should have a religious veneration for these heavenly guardians. Exodus xxiii. 20, 21, “ Behold I send an angel before thee to keep thee in the way, and to bring thee into the place which I have prepared; beware of him, and obey his voice, provoke him not, for my name is in him.”
 
 4thly. Because God has promised to his saints
-
-Digitized by Google
 
 Veneration of Angels and Saints. 45 a power' over all nations, Rev. ii. 26, 27, “ He that overcometh, and keepeth my words unto the end, to him will I give power over the nations, and he shall rule them with a rod of iron — even as I received of my Father.” Rev. v. 10, “Thou hast made us unto our God kings and priests, and we shall reign on the earth.” Therefore all nations ought to honour the saints, as having received from God this kingly power over them.
 
@@ -35,8 +31,6 @@ No, God forbid; for this would be a high treason against his divine Majesty.
 What is the difference between the honour which you give to God, and that which you give to the saints?
 
 There is no comparison between the one and the other. We honour God with a sovereign honour, as the Supreme Lord and Creator of all things, as our first beginning and our last end; we believe in him alone; we hope in him alone; we love him above all things. To him alone we pay our homage of divine adoration, praise, and sacrifice; but as for the saints and angels, we only reverence them with an inferior
-
-Digitized by Google
 
 46 The Saints and Angels, §c.
 
@@ -62,8 +56,6 @@ The Saints and Angels, fyc. 47 to God the prayers of the saints, that is, of tho
 
 4thly. Because according to the doctrine of the apostle, 1 Cor. iii. 8, it is the property of the virtue of charity not to be lost in heaven, as faith and hope are there lost: u Charity,” saith St. Paul, u never faileth." On the contrary, this heavenly virtue is perfected in heaven, where by seeing God face to face, the soul is inflamed with a most ardent love for God, and for his sake loves exceedingly his children, her brethren, here
 
-Digitized by Google
-
 48 Invocation of Saints.
 
 below; how then can the saints in heaven, having so perfect a charity for us, not pray for us, since the very first thing that charity prompts a person to do, is to seek to succour and assist those whom he loves?
@@ -84,8 +76,6 @@ Do Catholics pray to Saints?
 
 If by praying to Saints, you mean addressing ourselves to them as the authors or disposers of grace and glory, or, in such manner, as to suppose that they had any power to help us inde-
 
-Digitized by Google
-
 Invocation of Saints. 49 pendently of God’s good-will and pleasure, we do not pray to them, but condemn all such addresses as superstitious and impious. But if, by praying to saints, you mean no more than desiring them to pray to God for us, in this sense we hold it both good and profitable to pray to the saints.
 
 How do you prove, that it is good and profitable to desire the saints and angels in heaven to pray to God for us?
@@ -93,8 +83,6 @@ How do you prove, that it is good and profitable to desire the saints and angels
 Because it is good and profitable to desire the servants here upon earth to pray for us: “ for the prayers of a righteous man availeth much,” James v. 16. Moses by His prayers obtained mercy for the children of Israel, Exod. xxii. 11, 14. And Samuel by his prayers defeated the Philistines, 1 Sam. vii. 8, 9, 10. Hence St. Paul, in almost aU his epistles, desires the faithful to pray for him, Rom. xv. 30, Eph. vi. 18, 19,. 1 Thess. v. 25, Heb. xiii. 13. And God himself, Job xlii. 8, commande4 Eliphaz and his friends to go to Job, that Job should pray for them, promising to accept of his prayers. Now, if it be acceptable to God, and good and profitable to ourselves, to seek the prayers and intercession of God’s servants here on earth, must it not be much more so to seek the prayers and intercession of the saints in heaven; since both their charity for us, and their credit and interest with God, is much greater now, than when they were here upon earth.
 
 But does it not argue a want of confidence in the infinite goodness of God, and the super - E
-
-Digitized by Google
 
 50 Invocation of Saints.
 
@@ -105,8 +93,6 @@ No more than to address ourselves to our brethren here below, as Protestants do 
 But is there no danger, by acting thus, of giving to the saints the honour phich belongs to God alone f
 
 No; it is evident, that to desire the prayers and intercessions of the saints is by no means giving them an honour which belongs to God alone; so far from it, that it would even be a blasphemy to beg of God to pray for us; because whosoever desires any one to pray for him for the obtaining a grace or blessing, supposes the person to whom he thus addresses himself to be inferior and dependent of some other by whom this grace or blessing is to be bestowed.
-
-Digitized by Google
 
 Invocation of Saints. 51
 
@@ -120,8 +106,6 @@ Yes, we have. 1st. Because our Lord assures us, Luke xv. 10, that 44 there is a 
 
 4thly. We cannot suppose that the saints and angels, who enjoy the light of glory, can be ignorant of such things, as the prophets and servants of God in this world have often known by the light of grace, and even the very devils by the light of nature alone: since the light of glory is so much more perfect than the light of grace or
 
-Digitized by Google
-
 52 Invocation of Saints.
 
 nature, according to the apostle, 1 Cor. xiii. 12. “ For now we see through a glass darkly; bu* then face to face: now I know in part; but then shall I know even also as I am known that is, by a most perfect knowledge. Hence, 1 John iii. 2, it is written, “ we shall be like him (God), for we shall see him as he is.” Now it is certain that the servants of God in this world, by a special light of grace, have often known things that passed at a great distance, as Elisha, 2 Kings v., knew what passed between Naaman and his servant Gehazi, and 2 Kings vi., what was done by the king of Syria in his private chamber. It is also certain that the devils, by the mere light of nature, know what passes amongst us, as appears by the correspondence they hold with magicians, and by their being our accusers. Rev. xii. 10. Therefore we cannot reasonably question, but that the saints in heaven know the petitions which we address unto them.
@@ -131,8 +115,6 @@ nature, according to the apostle, 1 Cor. xiii. 12. “ For now we see through a 
 Have you any other warrant in scripture for the invocation of angels and saints?
 
 Yes; we have the example of God's best servants. Thus Jacob, Gen. xlviii. 15, 16, begs the blessing of his angel guardian for his two
-
-Digitized by Google
 
 Of Relics.
 
@@ -149,8 +131,6 @@ What grounds have you for paying a veneration to the relics of the saints?
 Besides the ancient tradition and practice of the first ages, attested by the best monuments of antiquity, we have been warranted to do so by many illustrious miracles done at the tombs and by the relics of the saints. (See St. Augustine, 1. 22, Of the City of God, cap. 8.) Which God, who is truth and sanctity itself, would never have effected, if this honour paid to the precious remnants of his servants were not agreeable to him.
 
 Have you any instances in scripture of miracles done by relics?
-
-Digitized by Google
 
 54 Of Images.
 

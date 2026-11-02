@@ -100,6 +100,7 @@ def process(lines, cfg, counts, fnstate):
     pages, cur = [], {'body': [], 'fn': []}
     for b in bl:
         if not b: continue
+        if re.match(r'^\W*(Digi\w*[ -]+by|Google\b|>?y Google|Original from)', b) and len(b) < 60: continue
         if is_head(b, counts, True): pages.append(cur); cur = {'body': [], 'fn': []}; continue
         if cfg.get('fn') and FNSTART.match(b) and len(b) < 1800:
             m = FNSTART.match(b)

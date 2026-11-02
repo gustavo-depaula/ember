@@ -2,8 +2,6 @@
 
 I, AT. N. with a firm faith believe and profess all and every one of those things which are contained in that Creed, which the Holy Roman Church maketh use of, viz. I believe in one God, the Father Almighty, Maker of heaven and earth, of all things, visible and invisible; and in one Lord Jesus Christ, the only begotten Son of God; and born of the Father before all ages; God of God; light of light; true God of true God; begotten not made; consubstantial to the Father, by whom all things were made. Who, for us men, and for our salvation, came down from heaven, and was incarnate by the Holy Ghost of the Virgin Mary, and was made man. Was crucified also for us under Pontius Pilate: he suffered and was buried: and the third day he rose again according to the Scriptures: he ascended into heaven; sits at the right hand of the Father, and is to come again with glory to judge the living and the dead; of whose kingdom there shall be no end. And in the Holy Ghost, the Lord and Life-giver, who proceeds from the Father and the’ Son, who, together with the Father and the Son, is adored and glorified, who spoke by the prophets. And (I believe), one ttoly, catholic, and apostolic Church: I confess me baptism for the remission of sins: and I look
 
-Digitized by Google
-
 4 A Profession of for the resurrection of the dead, and the life gf the world to come. Amen.
 
 I most steadfastly admit and embrace apostolical and ecclesiastical Traditions, and all other observances and constitutions of the same Church.
@@ -15,10 +13,6 @@ I also profess, that there are truly and properly seven sacraments, of the new l
 I embrace and receive all and every one of the things which have been defined and declared in the holy council of Trent, concerning original sin Sind justification.
 
 I profess, likewise, that in the mass there is offered to God, a true, proper, and propitiatory sacrifice for the living and the dead. And that in the most holy sacrament of the eucharist, there is truly, really, and substantially, the body and blood, together with the soul and divinity, of our
-
-Digitized by
-
-Google
 
 Catholic Doctrine, 8$c. 5
 
@@ -35,8 +29,6 @@ I also affirm, that the power of indulgences was left by Christ in the Church, a
 I acknowledge the holy. Catholic, apostolic Roman Church, for the mother and mistress of all churches; and I promise true obedience to the Bishop of Rome, successor to St. Peter, Prince of the Apostles, and Vicar of Jesus Christ.
 
 I likewise undoubtedly receive and profess all other things, delivered, defined, and declared by the sacred canons and general councils, and particularly by the holy council of Trent. And I condemn, reject, and anathematize all things contrary thereto, and all heresies which the
-
-Digitized by Google
 
 6 The Church of Christ.
 

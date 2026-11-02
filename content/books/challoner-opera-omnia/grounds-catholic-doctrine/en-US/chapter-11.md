@@ -10,15 +10,13 @@ First, From the very name of Peter or Cephas, which signifies a rock, which name
 
 2ndly. From the following words, Matt. xvi. 19, 64 1 will give unto thee the keys of the kingdom of heaven, and whatsoever thou shalt bind on earth, shall be bound in heaven; and whatsoever thou shalt loose on earth, shall be loosed in heav?n." Where, under the figure of 44 the
 
-^Google
-
 60 Supremacy of St. Peter keys of the kingdom of heaven,” our Lord ensureth to Peter the chief authority in his church; as when a king gives to one of his officers the keys of a city, he thereby declares that he makes him governor of that city.
 
 3rdly. From Luke xii. 31, 32, “ The Lord said Simon, Simon, behold Satan hath desired to have you, that he may sift you as wheat. But I have prayed for thee, that thy faith fail not, and when thou art converted strengthen thy brethren." In which text pur Lord not only declared his particular concern for Peter, in praying for him that his faith might not fail; but also committed to him the care of his brethren, the other apostles, iu charging him to confirm or strengthen them.
 
 4thly. From John xxi. 15, &c., “ Jesus said to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith to him, Feed my Lambs. He saith to him again the^second time, Si mon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my Sheep. He saith unto him the third time, Simon, son of Jonas, lovest thou me? Pete** was grieved because he said unto him the third time, lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my Sheep.” In which texts our Lord, in a most solemn manner, thrice committed to Peter the care of his whole flock, of all his sheep, without exception, that is, of his whole church.
 
-Digitized by Google and his Successors. 61
+and his Successors. 61
 
 How do you prove that this commission given to Peter, descends to the Pope or Bishop of Rome?
 

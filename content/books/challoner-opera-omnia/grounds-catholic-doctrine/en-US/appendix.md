@@ -4,8 +4,6 @@ In which are briefly proposed the motives, or rational inducements, to the Catho
 
 1st. I consider, says he, p. 429, that those doctrines that have had long continuance and possession in the church, cannot easily be supposed in the present professors to be a design, since they have received them from so many ages. — Long prescription is a prejudice oftentimes so insupportable that it cannot with many arguments be retrenched, as relying upon these grounds, that truth is more ancient than falsehood; that God would not for so many ages forsake his church, and leave her in an error; that whatsoever is
 
-Digitized by Google
-
 04 An Appendix.
 
 New is not only suspicious but false: which are suppositions pious and plausible enough. We have proved them not only to be pious and plausible suppositions, but the plain doctrine of the word of God, chap. 1, sect, 1 and 3. He adds for other motives.
@@ -24,8 +22,6 @@ New is not only suspicious but false: which are suppositions pious and plausible
 
 8. Apparent consent with antiquity, in many ceremonials which other churches have rejected; and a pretended, and sometimes an apparent consent with some elder ages in matters doctrinal. Here he minces die matter for fear of allowing too much: yet sannot dissemble, that venerable antiquity is apparently on the Catholic side.
 
-Digitized by Google
-
 ‘ An Appendix, 65
 
 9. The great consent of one part with another, in that part which most of them affirm to he of faith. The great differences commenced among their adversaries. Whose first fathers and teachers, from the very beginning of their pretended Reformation, went quite different ways, even to an utter breach of communion, which never since could be repaired.
@@ -42,13 +38,9 @@ Digitized by Google
 
 1 5. The oblique arts and indirect proceedings
 
-Digitized by Google
-
 66 An Appendix of some who departed from them. In manifestly corrupting the scripture, as the first Protestants did in all their tnm slat ions, to make it chime with their errors; in quoting falsely the Fathers and ecclesiastical writers; in perpetually misrepresenting in their sermons and writings, the Catholic church and her doctrine; a fault from which the Doctor himself is not exempt, &c.
 
 I have passed over some other things of less weight, which he alleges in the same place; and shall only desire the reader to compare the motives by which the concessions of this prelate, so much esteemed by all Protestants, may retain Catholics at present in the religion of their forefathers, with these motives which St. Augustine alleged, 1300 years ago, against the heretics of his time, and by which he declares himself to have been retained in the Catholic church, L. contra Epistolam Fund. c. 4. “Not to speak;" says he, “ of that true wisdom which you do not “ believe to be in the Catholic church; there are “ many other things which most justly hold me 41 in her communion. 1. The agreement of people 44 and nations. 2. The authority begun by mira- 44 cles, nourished by hope, increased by charity, 44 confirmed by cmtiquity. 3. A succession of pre- 64 lates descending from Peter the apostle, to 4 whom Christ after his resurrection committed 44 his flock, to the present Bishop. Lastly, the 44 very name of Catholic, of which this church 44 alone has not without reason in such manner 44 kept possession, that though all heretics desire 44 to be called Catholics, yet if a stranger ask u them where the Catholics go to church, none of
-
-Digitized by Google
 
 An Appendix. 67
 
@@ -72,8 +64,6 @@ ByGoogk —
 
 6. The Reformation was everywhere introduced by lay authority, and for the most part in direct opposition to, and contempt of the bishops, the church guides of divine appointment. A proceeding manifestly irregular and unjustifiable, that in church matters the laitjr with a few of the
 
-^Digitized by Cj
-
 A d Appendix. 69 inferior clergy, and those under the ecclesiastical censures, should take upon them to direct those whom Christ appointed to be their directors.
 
 7. England herself, which glories most in the regularity of her Reformation, compared to the tumultuous proceedings of Reformers abroad, owes her present establishment of the church to the lay authority of Queen Elizabeth and her Parliament, in opposition to all the bishops then sitting (who were all but one displaced for their nonconformity), to the whole convocation, and both the universities, that is, in a word, to the whole clergy of the kingdom; as appears from Fuller, L. 9, and Dr. Heylin, Hist, of the Ref. p. 285, 286.
@@ -91,8 +81,6 @@ ad Vultur., where he defies them to show him one who had been reclaimed from vic
 11. That religion is preferable to all others, the doctrine and preaching of which is, and always has been, more forcible and efficacious, in order to the taking off men's minds from the perishable goods of this world, and fixing them ivholly on the great business of eternity; but auch is the doctrine and preaching of the Catholic church, as appears from those multitudes of holy solitaries in our church, that have retired themselves from all the advantages to which their birth or fortune entitled them, and abandoned all earthly hopes for the love of heaven. Whereas the Reformation has never yet produced any such fruits.
 
 12. There was a true saving faith in the days of our forefathers, before the pretended Reformation, by which great nurrfbers are certainly arrived at the happy port of eternal felicity. Our histories are full of instances of the charity, piety, and devotion of kings, bishops, &c. of the
-
-Digitized by Google
 
 An Appendix. 71 old religion. Therefore, it is safer to follow their faith, than venture our souls in a new raised communion.
 

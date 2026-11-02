@@ -8,8 +8,6 @@ Do you look upon the Scripture to be clear and plain in dll points necessary; th
 
 No: because 8t Peter assures us, 2 Pet. iii. b 2
 
-Digitized by Google
-
 18 Of Scripture
 
 16, that in St. Paul's Epistles “there are somg things hard to be understood, which they that ara unlearned and unstable wrest, as they do also the other scriptures, to their own destruction."
@@ -20,9 +18,7 @@ By taking the meaning and interpretation of the scripture from the same hand fro
 
 Why may not every particular Christian have liberty to interpret the scripture according to his own private judgment, without regard to the interpretation of the Church?
 
-1st. Because “no prophecy of the scripture is of private interpretation,” 2 Pet, i. 20. 2ndly. Because, as men's judgments are as different as their faces, such liberty as this must needs produce as many religions almost as men. 3rdly, Because Christ has left his church and her pastors and teachers to be our guides, in all controversies relating to religion, and consequently in the understanding of holy writ. Ephes. iv. 11, 12, &c. “ He gave some apostles, and some prophets, and some evangelists, and some pastors and teachers, for the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ, till we all come in the unity of faith and of the knowledge of the Son of God unto a perfect man, unto the measure of the stature of the fulness of Christ. That we may henceforth be no more children tossed to and fro, and carried about with every wind of doctrine, by the sleight of men and cunning craftiness, whereby they lie in wait to deceive; but speaking th'
-
-Digitized by Google and Tradition. 19
+1st. Because “no prophecy of the scripture is of private interpretation,” 2 Pet, i. 20. 2ndly. Because, as men's judgments are as different as their faces, such liberty as this must needs produce as many religions almost as men. 3rdly, Because Christ has left his church and her pastors and teachers to be our guides, in all controversies relating to religion, and consequently in the understanding of holy writ. Ephes. iv. 11, 12, &c. “ He gave some apostles, and some prophets, and some evangelists, and some pastors and teachers, for the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ, till we all come in the unity of faith and of the knowledge of the Son of God unto a perfect man, unto the measure of the stature of the fulness of Christ. That we may henceforth be no more children tossed to and fro, and carried about with every wind of doctrine, by the sleight of men and cunning craftiness, whereby they lie in wait to deceive; but speaking th' and Tradition. 19
 
 Ira tli in love, may grow up into him in all things, which is the head, even Christ.” Hence St. John, in his first epistle, chap. iv. 6, gives ns this rule for the trying of spirits: “ He thalj knoweth God heareth us” (the pastors of the church), “ he that is not of God, heareth not us: by this we know the spirit of truth, and the spirit of error.”
 
@@ -41,8 +37,6 @@ What difference is there between apostolical and ecclesiastical traditions?
 The difference is this, that apostolical traditions are those which had their origin or institution from the apostles; such as infant baptism, the Lord’s day, receiving the sacrament, fasting, &c. Ecclesiastical traditions are such as had their institution from the Church, as holidays and fasts ordained by the Church.
 
 How are we to know what Traditions are truly apostolical, and what not f
-
-Digitized by Google
 
 20 Of the Ordinances and
 
@@ -64,8 +58,6 @@ Why do you make profession of admitting and embracing all the ordinances and con
 
 Because Christ has so commanded. “ He that heareth you, heareth me: and he that despiseth you, despiseth me,” Luke x. 16. u As my Father hath sent me, even so I send you,” John xx. 24.
 
-Digitized by Google
-
 Constitutions of the Church. 2'*.
 
 Hence St. Paul, Heb. xiii. 17, tells us, “Obey them that have the rule over you, and submit yourselves.”
@@ -83,8 +75,6 @@ This was to be understood in vase no holiday came in the week; otherwise the law
 As to fasting-days, do you look upon it as sinful to eat meat on those days without necessity?
 
 Yes; because it is a sin to disobey the church: “ If he neglect to hear the church, let him be to thee as a heathen and a publican,” Matt. xiii. 17.
-
-Digitized by Google
 
 22 Of the Sacraments
 

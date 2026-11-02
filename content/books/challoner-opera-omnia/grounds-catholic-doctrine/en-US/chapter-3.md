@@ -12,8 +12,6 @@ What scripture have you for baptism?
 
 John iii. 5, “Except a man be born of water and of the spirit, he cannot enter into the kingdom
 
-Digitized by Google
-
 Of the Sacraments. 23 of God.** Matt, xxviii. 19, “ Go teach all nations, baptizing them in the name 6f the Father, # and of the Son, and of the Holy Ghost/*
 
 How do you prose that this commission given to the apostles of baptizing all nations, is to be understood of baptism administered in water?
@@ -32,8 +30,6 @@ What scripture have you for the Eucharist, or the supper of the Lord?
 
 We have the history of its institution set down
 
-Digitized by Google
-
 24 Of the Sacraments.
 
 9 t large. Matt, xxvi., Mark xiv., Luke xvii., 1 Cor. xi., and that this sacrament was to be continued in the church “ till the Lord comes,'* that is, till the day of judgment, as we learn from St. Paul, 1 Cor. xi. 26.
@@ -48,8 +44,6 @@ John xx. 22, 23, u Receive ye the Holy Ghost: Whose soever sins ye remit, they a
 
 “ Our Lord Jesus Christ, who hath left power to his church to absolve all sinners who truly repent and believe in him, of his great mercy forgive thee thine offences: and by his authority
 
-Digitized by Google
-
 Of the Sacraments. 25 committed to me, I absolve thee from all thy sins* in the name of the Father, and of the Son, and of the Holy Ghost. Amen."
 
 How do you prove from the text above quoted of John xx* 22, 23, and Matt, xviii. 18, the necessity of the faithful confessing their sins to the pastors of the Church, in order to obtain the absolution and remission of them?
@@ -59,8 +53,6 @@ Because, in the text above quoted, Christ has made the pastors of the church his
 Have you any other texts of Scripture which favour the Catholic doctrine and practice of Confession?
 
 Yes. We find in the old law, which was a figure of the law of Christ, that such as were infected with the leprosy, which was a figure of c
-
-Digitized by Google
 
 26 Of the Sacraments.
 
@@ -75,8 +67,6 @@ What is Holy Orders?
 A sacrament instituted by Christ, by which bishops, priests, &c., are consecrated to their respective functions, and receive grace to discharge them well.
 
 When did Christ institute the Sacrament of Holy Orders?
-
-■Digittzed-by- Google
 
 Of the Sacraments. 21
 
@@ -94,8 +84,6 @@ How do you prove that Matrimony is a sacrament?
 
 Because it is a conjunction made and sanctified by God himself, and not to be dissolved by any power of man; as being a sacred sign, or mysterious representation of the indissoluble union of Christ and his Church, Ephes. v. 31, 32. “For this cause shall a man leave his father and mother, and shall be joined to his wife, and they two shall be one flesh- This is a g*e at mystery
 
-Digitized by Google
-
 28 Of the Sacraments,
 
 (/ivoTJ/piov, a sacrament); but I speak concerning Christ and the church (tic Xpiarov ical elg Trjy EKicXricrtat', in Christ and in the church)/*
@@ -111,8 +99,6 @@ Because she does not think it proper, that they, who by their office and functio
 Why does the Church make us i of so many ceremonies in administering the sacraments?
 
 To stir up devotion in the people, and reverence to the sacred mysteries; to instruct the faithful concerning the effects and graces given by the sacraments; and to perform things relating to God’s honour and the salvation of souls with a becoming decency.
-
-Digitized by Google
 
 The Real Presence. 29
 

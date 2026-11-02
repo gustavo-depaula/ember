@@ -18,7 +18,6 @@ Because the sight of a good picture or image, for example, of Christ upon the cr
 
 Are you taught to put your trust and confidence in images, as the heathens did in their
 
-■ Digitized b Google
 
 Of Images. 55
 
@@ -33,8 +32,6 @@ Because God himself commanded Moses, Exod. xxv. 18, 19, 20, 21, to make two cher
 But is it not forbidden, Exod. xx. 4, “ to make the likeness of anything in heaven above, or in the earth beneath, or in the waters under the earth?”
 
 It is forbidden “to make to ourselves” any such image or likeness; that is to say, to make it our God, or to put our trust in it, and to give it the honour which belongs to God; which is explained by the following words, “Thou shalt not bow down thyself to them” (that is, “thou *halt not adore them,” for so both the Septuagint And Vulgate translate it), “or serve them.” Other-
-
-Digitized by Google
 
 56 Of Images.
 
@@ -55,8 +52,6 @@ Yes; in the honour they give to the name of Jesus, to their churches, to the alt
 How do you prove that there is a relative honour due to the images or pictures of Christ and his saints?
 
 From the dictates of common sense and reason, as well as of piety and religion, which teach us to express our love and esteem for the persons whom we honour, by setting a value upon all things that belong to them, or have any relation
-
-Digitized by Google
 
 Of Indulgences. 57 to them; this a loyal subject, a dutiful child, a. loving friend, value the pictures of their king, father, or friend: and those who make no scruple of abusing the image of Christ, would severely punish the man that would abuse the image of his king.
 

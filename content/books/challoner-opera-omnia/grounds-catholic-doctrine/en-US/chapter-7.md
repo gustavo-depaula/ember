@@ -12,8 +12,6 @@ What sort of Christians then go to Purgatory?
 
 1st. Such as die guilty of lesser sins, which we commonly call venial; as many Christians do, who, either by sudden death or otherwise, are
 
-Digitized by Google
-
 40 Of Purgatory.
 
 taken out of this life before they have repented for these ordinary failings. 2ndly. Such as having been formerly guilty of greater sins, have not made full satisfaction for them to the divine justice.
@@ -30,7 +28,6 @@ How upon Scripture?
 
 Because the scripture in many places assures us, “ that God will render to every one according to his works," Ps. lxii. 12, Matt. xvi. 27, Rom. ii. 6, Revel, xxii. 12. Now this would not be true, if there were no such thing as Purgatory; for how would God render to every one according to his works, if such as die in the guilt of any even the least sin, which they have not taken care to blot out by repentance, would nevertheless go straight to heaven?
 
-— Digi tized by Google
 
 Of Purgatory. 41
 
@@ -39,8 +36,6 @@ Hare you any texts which the Fathers and ecclesiastical writers interpret of Pur
 Yes; 1 Cor. iii. 13, 14, 15, “Every man’s work shall be made manifest. For the day shall declare it, because it shall be revealed by fire. And the fire shall try every man’s work of what sort it is. If any man’s work abide which he hath built thereupon ** (that is* upon the foundation, which is Jesus Christ, ver. 11), “he shall receive a reward. If any man’s works shall be burnt, he shall suffer loss: but he himself 8HALL BE SAVED, YET SO AS BY FIRE.” From which text it appears, that such as both in their faith, and in the practice of their lives, have stuck to the foundation, which is Jesus Christ, so as not to forfeit his grace by mortal sin; though they have otherwise been guilty of great imperfections, by building wood, hay, and stubble (ver. 12), upon this foundation; it appears, I say, that such as these, according to the apostle, must pass through a fiery trial, at the time that “every man’s work shall be made manifest:” which is not till the next life; and that they shall be “ saved ” indeed, “ yet so as by fire,” that is, by passing first through Purgatory.
 
 2ndly. Matt. v. 25, “ Agree with thine adversary quickly, whilst thou art in the way with him: lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison. Yerily, I say unto thee, thou shalt by no means come out thence till thou hast paid the uttermost farthing." Which text St Cyprian, one of the most ancient D 2
-
-Digitized by Google
 
 42 Of Purgatory.
 
@@ -53,8 +48,6 @@ Besides, a middle place is also implied, 1 Pet. iii. 18, 19, 20, where Christ is
 How do you ground the belief of Purgatory upon Tradition?
 
 Because both the Jexoish Church long before our Saviour's coming, and the Christian Church from the very beginning in all ages and all nations, have offered prayers and sacrifice for the repose and relief of the faithful departed: as appears in regard to the Jews from 2 Machab. xii. where this practice is approved of, which books of Machabees, the church, says St. Augustine, /. 18, de Civ. Dei, c. 36, accounts canonical, though the Jews do not. And in regard to the Christian church, the same is evident from all the Fat hens
-
-Digitized by Google
 
 * Veneration of Angels and Saints. 43 and the most ancient liturgies. Now such prayers as these evidently imply the belief of a purgatory; for souls in heaven stand in no need of our prayers, and those in hell cannot be bettered by them.
 

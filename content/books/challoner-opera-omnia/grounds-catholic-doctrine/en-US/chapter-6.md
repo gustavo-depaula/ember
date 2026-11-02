@@ -12,8 +12,6 @@ What do you mean by a propitiatory sacrifice?
 
 A sacrifice for obtaining mercy, or by which God is moved to mercy.
 
-Digitized by Google
-
 Of the Mass. 37
 
 How do you prove that the Mass is such a sacrifice?
@@ -41,8 +39,6 @@ Why does the Church celebrate the Mass in the Latin, which the people for the mo
 What is the best manner of heariny Mass?
 
 The Mass being instituted for a standing memorial of Christ’s death and passion, and being in substance the same sacrifice as that which Christ offered upon the cross, because both the priest and victim is the same Jesus Christ; there can be no better manner of hearing Mass than by meditating on the death and passion of Christ there represented; and putting one's self in the same dispositions of faith, love, repentance, &c..
-
-Digitized by Google
 
 Of Purgatory. 39 as we should have endeavoured to excite in ourselves had we been present at his passion and death on Mount Calvary.
 

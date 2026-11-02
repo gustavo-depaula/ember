@@ -10,8 +10,6 @@ What proofs have you for this?
 
 NEW TESTAMENT WHICH IS SUED FOR M NY for the remission of sins.” Mark xiv. 12, c 2
 
-Digitized by Google
-
 30 The Real Presence,
 
 24, u Take, eat: This is my body — This is my # blood of the New Testament which is shed for many.” Luke xxii. 19, “ This is my body which is given for you: this do in remembrance of me — This cup is the New Testament in my blood which is shed for you.” 1 Cor. xi. 24, 25.
@@ -22,7 +20,7 @@ Digitized by Google
 
 3rdly. 1 Cor. xi. 27, 29, “ Whosoever shall eat this bread or drink the cup of the Lord unworthily, shall be guilty op the body and blood op the Lord — He that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the body op our Lord.” Now how should a person be “ guilty of the body and blood of our Lord,” by receiving unworthily; if what he received were only bread and wine, and not “ the body and blood of our Lord?” Or where should be the crime of “ not discerning the body of our Lord,” if the “ body of our Lord ” were not there?
 
-Digitized by Google and Iran substantiation. 31
+and Iran substantiation. 31
 
 4thly. John vi. 51, &c., “ The bread that I will give is my flesh, which I will give for the life of the world. The Jews therefore strove amongst themselves, saying, How can this man give us his flesh to eat? Then Jesus said unto them, Yerily, verily, I say unto you, except ye eat the flesh of the Son of Man, and drink his blood, ye have no life in you. Whosoever eateth my flesh, and drinketh my blood, hath eternal life, and I will raise him up at the last day. For
 
@@ -39,8 +37,6 @@ Dryden's Hind and Panther.
 Are we not commanded, Luke xxii. 19, to receive the sacrament, in remembrance of Christ?
 
 Yes, we are: and St. Paul, 1 Cor. xi. 26, let®
-
-Digitized by Google
 
 32 Of Communion us know what it is that is to be the object of oui remembrance when we receive, when he tells us, 44 Ye do shew (or shew forth) the Lord's death till he comes." But this remembrance is no ways opposite to the real presence of Christ’s body and blood: on the contrary, what better remembrance can there be of Christ’s death and passion, than to receive under the sacramental veils the same body and blood in which he suffered for us?
 
