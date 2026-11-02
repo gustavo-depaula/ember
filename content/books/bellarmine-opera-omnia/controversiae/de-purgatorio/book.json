@@ -1,0 +1,298 @@
+{
+  "id": "bellarmine-controversiae-de-purgatorio",
+  "cover": "classic",
+  "name": {
+    "la": "De purgatorio",
+    "en-US": "On Purgatory",
+    "pt-BR": "Sobre o purgatório"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De purgatorio. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the Church suffering: Purgatory and suffrages for the dead. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre o purgatório."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-purgatorio",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia03bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 3 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De nomine Purgatorii",
+            "en-US": "Caput I. De nomine Purgatorii"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De erroribus circa Purgatorium",
+            "en-US": "Caput II. De erroribus circa Purgatorium"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Purgatorium esse probatur ex Scripturis Testamenti veteris",
+            "en-US": "Caput III. Purgatorium esse probatur ex Scripturis Testamenti veteris"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Purgatorium esse probatur ex Testamento novo",
+            "en-US": "Caput IV. Purgatorium esse probatur ex Testamento novo"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Probatur iterum ex novo Testamento",
+            "en-US": "Caput V. Probatur iterum ex novo Testamento"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Probatur ex novo Testamento",
+            "en-US": "Caput VII. Probatur ex novo Testamento"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Probatur ex novo testamento",
+            "en-US": "Caput VIII. Probatur ex novo testamento"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Asseritur purgatorium testimoniis Conciliorum",
+            "en-US": "Caput IX. Asseritur purgatorium testimoniis Conciliorum"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Asseritur Purgatorium testimoniis Patrum Graecorum et Latinorum",
+            "en-US": "Caput X. Asseritur Purgatorium testimoniis Patrum Graecorum et Latinorum"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Idem asseritur ratione",
+            "en-US": "Caput XI. Idem asseritur ratione"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Solvuntur argumenta ex Scripturis",
+            "en-US": "Caput XII. Solvuntur argumenta ex Scripturis"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur objectiones ex Patribus",
+            "en-US": "Caput XIII. Solvuntur objectiones ex Patribus"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. Solvuntur objectiones ex ratione depromptae",
+            "en-US": "Caput XIV. Solvuntur objectiones ex ratione depromptae"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. Purgatorii confessionem ad fidem Catholicam pertinere",
+            "en-US": "Caput XV. Purgatorii confessionem ad fidem Catholicam pertinere"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. De personis, quibus Purgatorium convenit",
+            "en-US": "Caput I. De personis, quibus Purgatorium convenit"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Solvuntur objectiones,",
+            "en-US": "Caput III. Solvuntur objectiones,"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Animas in Purgatorio certas esse de sua aeterna salute. '",
+            "en-US": "Caput IV. Animas in Purgatorio certas esse de sua aeterna salute. '"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Solvuntur objectiones",
+            "en-US": "Caput V. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. De loco Purgatorii",
+            "en-US": "Caput VI. De loco Purgatorii"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Sitne post hanc vitam aliquis locus pro anima- bus justis praeter Coelum et Purgatorium",
+            "en-US": "Caput VII. Sitne post hanc vitam aliquis locus pro anima- bus justis praeter Coelum et Purgatorium"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Num ex receptaculis suis dnimce defunctorum egredi valeant,",
+            "en-US": "Caput VIII. Num ex receptaculis suis dnimce defunctorum egredi valeant,"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. I)e tempore quo durat Purgatorium",
+            "en-US": "Caput IX. I)e tempore quo durat Purgatorium"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Qualis sit Purgatorii ‘poena",
+            "en-US": "Caput X. Qualis sit Purgatorii ‘poena"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. CAPUT Xll",
+            "en-US": "Caput XI. CAPUT Xll"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Ignem Purgatorii esse corporeum",
+            "en-US": "Caput XII. Ignem Purgatorii esse corporeum"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. An in Purgatorio torqueantur animee a Dcemonibus",
+            "en-US": "Caput XIII. An in Purgatorio torqueantur animee a Dcemonibus"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. ■ De gravitate poenarum",
+            "en-US": "Caput XIV. ■ De gravitate poenarum"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV",
+            "en-US": "Caput XV"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Quot sint genera suffragiorum",
+            "en-US": "Caput XVI. Quot sint genera suffragiorum"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Quis possit animas juvare",
+            "en-US": "Caput XVII. Quis possit animas juvare"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. Quibus prosint suffragia",
+            "en-US": "Caput XVIII. Quibus prosint suffragia"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. De funere",
+            "en-US": "Caput XIX. De funere"
+          }
+        }
+      ]
+    }
+  ]
+}
