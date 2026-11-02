@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en-US": "St. John Vianney, the Curé of Ars",
+    "pt-BR": "São João Maria Vianney, o Cura d’Ars"
+  },
+  "century": 19,
+  "saint": "john_vianney",
+  "matches": [
+    "St. John Vianney",
+    "St. Jean-Marie Vianney",
+    "Curé of Ars",
+    "Cure of Ars",
+    "John Vianney",
+    "Vianney, Jean-Marie-Baptiste, 1786-1859",
+    "Jean-Baptiste-Marie Vianney"
+  ]
+}

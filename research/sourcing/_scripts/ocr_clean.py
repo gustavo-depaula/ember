@@ -39,7 +39,7 @@ def is_head(text, heads):
     if len(text) > 70:
         return False
     for h in heads:
-        if h.search(text):
+        if (h(text) if callable(h) else h.search(text)):
             return True
     return False
 

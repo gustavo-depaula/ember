@@ -136,3 +136,8 @@ These books have no English because the only public-domain translations are badl
 - `poesies`: thirteen poems from the Souvenirs appendix; the stanzas of `Les lois de l'amour` are one OCR line each (verse lines run together).
 - `ciel-dans-la-foi`: English only (Stanbrook's "Second Retreat", ten days, from the first scan; the French is not online). The Stanbrook days do not follow De Meester's 44 sections.
 - `elevation`: kept as a book (one chapter). It could also become a practice with an inline flow.
+
+### Curé of Ars (opera omnia)
+
+- `cure-of-ars-opera-omnia/sermons`: archive.org OCR of the 1883 four-tome edition, cleaned by script (`research/sourcing/_scripts/vianney_sermons*.py`), not proofread. Known leftovers: the large drop capitals that open each sermon are garbled by the OCR (`RS re n'est plus` for `Ce n'est plus`; stray symbols after the first line); frequent letter errors (`Dicu`, `ct` for `et`, `ànie`); the page-bottom notes are matched to markers only where the OCR kept `(n)`; the epigraph of the Nativity of Our Lady is a garbled Latin line. Titles were composed from the running heads and sub-titles; seventy-seven sermons were found against about eighty-five estimated, so check the tables of contents of the scan if a sermon looks missing (the OCR of the tome II table of contents is incomplete).
+- Per the 1883 preface, several sermons are adaptations of earlier preachers (P. Lejeune, Ribadeneyra, Rodriguez). They are kept as the editors published them.

@@ -1,0 +1,564 @@
+{
+  "id": "vianney-sermons",
+  "name": {
+    "fr-FR": "Sermons du vénérable serviteur de Dieu J.-B.-M. Vianney, curé d’Ars",
+    "en-US": "Sermons of the Curé of Ars",
+    "pt-BR": "Sermões do Cura d’Ars"
+  },
+  "author": {
+    "fr-FR": "Saint Jean-Marie Vianney, curé d’Ars",
+    "en-US": "St. John Vianney, the Curé of Ars",
+    "pt-BR": "São João Maria Vianney, o Cura d’Ars"
+  },
+  "description": {
+    "fr-FR": "Soixante-dix-sept prônes du Curé d’Ars pour les dimanches et les fêtes de l’année, de l’Avent à la Toussaint, écrits de sa main entre 1818 et 1827 et publiés en quatre tomes en 1883, avec la préface et les notes des éditeurs.",
+    "en-US": "Seventy-seven parish sermons of the Curé of Ars for the Sundays and feasts of the year, from Advent to All Saints, written in his own hand between 1818 and 1827 and published in four volumes in 1883, with the editors’ preface and notes.",
+    "pt-BR": "Setenta e sete prédicas do Cura d’Ars para os domingos e festas do ano, do Advento a Todos os Santos, escritas de próprio punho entre 1818 e 1827 e publicadas em quatro tomos em 1883, com o prefácio e as notas dos editores."
+  },
+  "composed": "1818–1827",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "cure-of-ars/sermons",
+  "editions": {
+    "fr-FR": {
+      "editor": "Ecclésiastiques de Lyon (Lecoffre / Ruban)",
+      "year": 1883
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/sermons-du-venerable-serviteur-de-dieu-jean-baptiste-marie-vianney-4-tomes",
+      "edition": "Sermons du vénérable serviteur de Dieu J.-B.-M. Vianney, curé d’Ars, 4 tomes, Paris, Victor Lecoffre / Lyon, Ruban, 1883 (OCR of the Bibliothèque Saint Libère scan, liberius.net)",
+      "description": "Approbation of Cardinal Caverot (20 Aug 1882), the editors’ preface, the sermons and the end notes. Running heads, page footers and the tables of contents are removed; page-bottom notes are footnotes. Per the 1883 preface, several sermons are adaptations of earlier preachers (Lejeune and others).",
+      "tier": "A"
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface de l’éditeur"
+      }
+    },
+    {
+      "id": "tome-1",
+      "title": {
+        "fr-FR": "Tome I — du premier dimanche de l’Avent au Vendredi saint"
+      },
+      "children": [
+        {
+          "id": "s-01",
+          "title": {
+            "fr-FR": "Premier dimanche de l’Avent — Sur le Jugement dernier"
+          }
+        },
+        {
+          "id": "s-02",
+          "title": {
+            "fr-FR": "Premier dimanche de l’Avent — Sur les vérités éternelles (deuxième sermon)"
+          }
+        },
+        {
+          "id": "s-03",
+          "title": {
+            "fr-FR": "Deuxième dimanche de l’Avent — Sur le respect humain"
+          }
+        },
+        {
+          "id": "s-04",
+          "title": {
+            "fr-FR": "Quatrième dimanche de l’Avent — Sur la Satisfaction"
+          }
+        },
+        {
+          "id": "s-05",
+          "title": {
+            "fr-FR": "Pour le jour de Noël — Sur le Mystère"
+          }
+        },
+        {
+          "id": "s-06",
+          "title": {
+            "fr-FR": "Pour le jour de Noël — Sur le Mystère (deuxième sermon)"
+          }
+        },
+        {
+          "id": "s-07",
+          "title": {
+            "fr-FR": "Premier dimanche de l’année"
+          }
+        },
+        {
+          "id": "s-08",
+          "title": {
+            "fr-FR": "Épiphanie"
+          }
+        },
+        {
+          "id": "s-09",
+          "title": {
+            "fr-FR": "Deuxième dimanche après l’Épiphanie — Sur le Mariage"
+          }
+        },
+        {
+          "id": "s-10",
+          "title": {
+            "fr-FR": "Troisième dimanche après l’Épiphanie — Sur la prière d’un pécheur qui ne veut pas quitter le péché"
+          }
+        },
+        {
+          "id": "s-11",
+          "title": {
+            "fr-FR": "Troisième dimanche après l’Épiphanie — Sur l’enfer des Chrétiens"
+          }
+        },
+        {
+          "id": "s-12",
+          "title": {
+            "fr-FR": "Quatrième dimanche après l’Épiphanie — Sur les ennemis de notre salut"
+          }
+        },
+        {
+          "id": "s-13",
+          "title": {
+            "fr-FR": "La Sexagésime — Sur la parole de Dieu"
+          }
+        },
+        {
+          "id": "s-14",
+          "title": {
+            "fr-FR": "Premier dimanche de Carême — Sur les Tentations"
+          }
+        },
+        {
+          "id": "s-15",
+          "title": {
+            "fr-FR": "Premier dimanche de Carême — Sur les Indulgences"
+          }
+        },
+        {
+          "id": "s-16",
+          "title": {
+            "fr-FR": "Quatrième dimanche de Carême — Sur la mort du pécheur (inachevé)"
+          }
+        },
+        {
+          "id": "s-17",
+          "title": {
+            "fr-FR": "Quatrième dimanche de Carême — Délai de la Conversion"
+          }
+        },
+        {
+          "id": "s-18",
+          "title": {
+            "fr-FR": "Dimanche de la Passion — Sur la Contrition"
+          }
+        },
+        {
+          "id": "s-19",
+          "title": {
+            "fr-FR": "Jeudi saint"
+          }
+        },
+        {
+          "id": "s-20",
+          "title": {
+            "fr-FR": "Vendredi saint — Le péché renouvelle la passion de Jésus-Christ"
+          }
+        },
+        {
+          "id": "notes-1",
+          "title": {
+            "fr-FR": "Notes de l’éditeur (tome I)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tome-2",
+      "title": {
+        "fr-FR": "Tome II — de Quasimodo au onzième dimanche après la Pentecôte"
+      },
+      "children": [
+        {
+          "id": "s-21",
+          "title": {
+            "fr-FR": "Dimanche de Quasimodo — Sur la Confession pascale"
+          }
+        },
+        {
+          "id": "s-22",
+          "title": {
+            "fr-FR": "Deuxième dimanche après Pâques — Sur la Persévérance"
+          }
+        },
+        {
+          "id": "s-23",
+          "title": {
+            "fr-FR": "Troisième dimanche après Pâques — Sur les Afflictions"
+          }
+        },
+        {
+          "id": "s-24",
+          "title": {
+            "fr-FR": "Cinquième dimanche après Pâques — Sur la Prière"
+          }
+        },
+        {
+          "id": "s-25",
+          "title": {
+            "fr-FR": "Sur les Rogations, les Processions, l’Abstinence et les Quatre-Temps"
+          }
+        },
+        {
+          "id": "s-26",
+          "title": {
+            "fr-FR": "Pour le jour de l’Ascension"
+          }
+        },
+        {
+          "id": "s-27",
+          "title": {
+            "fr-FR": "Fête-Dieu"
+          }
+        },
+        {
+          "id": "s-28",
+          "title": {
+            "fr-FR": "Deuxième dimanche après la Pentecôte — Sur la sainte Messe"
+          }
+        },
+        {
+          "id": "s-29",
+          "title": {
+            "fr-FR": "Troisième dimanche après la Pentecôte — Sur la miséricorde de Dieu"
+          }
+        },
+        {
+          "id": "s-30",
+          "title": {
+            "fr-FR": "Troisième dimanche après la Pentecôte — Sur la miséricorde de Dieu envers le pécheur (même sujet)"
+          }
+        },
+        {
+          "id": "s-31",
+          "title": {
+            "fr-FR": "Quatrième dimanche après la Pentecôte — Sur l’Espérance"
+          }
+        },
+        {
+          "id": "s-32",
+          "title": {
+            "fr-FR": "Cinquième dimanche après la Pentecôte — Sur le deuxième Commandement de Dieu"
+          }
+        },
+        {
+          "id": "s-33",
+          "title": {
+            "fr-FR": "Sixième dimanche après la Pentecôte — Sur la Communion"
+          }
+        },
+        {
+          "id": "s-34",
+          "title": {
+            "fr-FR": "Septième dimanche après la Pentecôte — Sur la fausse et vraie Vertu"
+          }
+        },
+        {
+          "id": "s-35",
+          "title": {
+            "fr-FR": "Septième dimanche après la Pentecôte — Sur le Mensonge"
+          }
+        },
+        {
+          "id": "s-36",
+          "title": {
+            "fr-FR": "Septième dimanche après la Pentecôte — Sur la nécessité de faire de bonnes œuvres"
+          }
+        },
+        {
+          "id": "s-37",
+          "title": {
+            "fr-FR": "Huitième dimanche après la Pentecôte — Sur le jugement particulier"
+          }
+        },
+        {
+          "id": "s-38",
+          "title": {
+            "fr-FR": "Neuvième dimanche après la Pentecôte — Sur les larmes de Jésus-Christ"
+          }
+        },
+        {
+          "id": "s-39",
+          "title": {
+            "fr-FR": "Dixième dimanche après la Pentecôte — Sur l’Orgueil"
+          }
+        },
+        {
+          "id": "s-40",
+          "title": {
+            "fr-FR": "Onzième dimanche après la Pentecôte — Sur le Jugement téméraire"
+          }
+        },
+        {
+          "id": "s-41",
+          "title": {
+            "fr-FR": "Onzième dimanche après la Pentecôte — Sur la Médisance"
+          }
+        },
+        {
+          "id": "s-42",
+          "title": {
+            "fr-FR": "Onzième dimanche après la Pentecôte — Sur les péchés cachés en confession"
+          }
+        },
+        {
+          "id": "notes-2",
+          "title": {
+            "fr-FR": "Notes de l’éditeur (tome II)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tome-3",
+      "title": {
+        "fr-FR": "Tome III — du douzième au vingt-troisième dimanche après la Pentecôte"
+      },
+      "children": [
+        {
+          "id": "s-43",
+          "title": {
+            "fr-FR": "Douzième dimanche après la Pentecôte — Sur le premier Commandement de Dieu"
+          }
+        },
+        {
+          "id": "s-44",
+          "title": {
+            "fr-FR": "Douzième dimanche après la Pentecôte — Sur le premier Commandement de Dieu (deuxième sermon)"
+          }
+        },
+        {
+          "id": "s-45",
+          "title": {
+            "fr-FR": "Douzième dimanche après la Pentecôte — Sur l’amour du prochain (troisième sermon)"
+          }
+        },
+        {
+          "id": "s-46",
+          "title": {
+            "fr-FR": "Treizième dimanche après la Pentecôte — Sur l’Absolution"
+          }
+        },
+        {
+          "id": "s-47",
+          "title": {
+            "fr-FR": "Quatorzième dimanche après la Pentecôte — Sur le service de Dieu"
+          }
+        },
+        {
+          "id": "s-48",
+          "title": {
+            "fr-FR": "Quatorzième dimanche après la Pentecôte — Sur le Monde"
+          }
+        },
+        {
+          "id": "s-49",
+          "title": {
+            "fr-FR": "Quinzième dimanche après la Pentecôte — Sur la pensée de la mort"
+          }
+        },
+        {
+          "id": "s-50",
+          "title": {
+            "fr-FR": "Seizième dimanche après la Pentecôte — Sur l’Humilité"
+          }
+        },
+        {
+          "id": "s-51",
+          "title": {
+            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur l’amour de Dieu"
+          }
+        },
+        {
+          "id": "s-52",
+          "title": {
+            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur la Charité"
+          }
+        },
+        {
+          "id": "s-53",
+          "title": {
+            "fr-FR": "Dix-septième dimanche après la Pentecôte — Sur la pureté"
+          }
+        },
+        {
+          "id": "s-54",
+          "title": {
+            "fr-FR": "Dix-huitième dimanche après la Pentecôte — Sur la Tiédeur"
+          }
+        },
+        {
+          "id": "s-55",
+          "title": {
+            "fr-FR": "Dix-huitième dimanche après la Pentecôte — Sur l’Envie"
+          }
+        },
+        {
+          "id": "s-56",
+          "title": {
+            "fr-FR": "Dix-neuvième dimanche après la Pentecôte — Sur l’Impureté"
+          }
+        },
+        {
+          "id": "s-57",
+          "title": {
+            "fr-FR": "Vingtième dimanche après la Pentecôte — Devoir des parents envers les enfants"
+          }
+        },
+        {
+          "id": "s-58",
+          "title": {
+            "fr-FR": "Vingtième dimanche après la Pentecôte — Sur l’Ivrognerie"
+          }
+        },
+        {
+          "id": "s-59",
+          "title": {
+            "fr-FR": "Vingt et unième dimanche après la Pentecôte — Sur la Colère"
+          }
+        },
+        {
+          "id": "s-60",
+          "title": {
+            "fr-FR": "Vingt-deuxième dimanche après la Pentecôte — Sur la Restitution"
+          }
+        },
+        {
+          "id": "s-61",
+          "title": {
+            "fr-FR": "Vingt-troisième dimanche après la Pentecôte — Sur la mort du juste"
+          }
+        },
+        {
+          "id": "notes-3",
+          "title": {
+            "fr-FR": "Notes de l’éditeur (tome III)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tome-4",
+      "title": {
+        "fr-FR": "Tome IV — fêtes, sermons divers"
+      },
+      "children": [
+        {
+          "id": "s-62",
+          "title": {
+            "fr-FR": "Invention de la sainte Croix — Sur la Croix"
+          }
+        },
+        {
+          "id": "s-63",
+          "title": {
+            "fr-FR": "Fête de saint Jean-Baptiste"
+          }
+        },
+        {
+          "id": "s-64",
+          "title": {
+            "fr-FR": "Sur le martyre des Machabées"
+          }
+        },
+        {
+          "id": "s-65",
+          "title": {
+            "fr-FR": "Fête de l’Assomption de la sainte Vierge — Sur les grandeurs de Marie"
+          }
+        },
+        {
+          "id": "s-66",
+          "title": {
+            "fr-FR": "Fête de la Nativité de la sainte Vierge"
+          }
+        },
+        {
+          "id": "s-67",
+          "title": {
+            "fr-FR": "Premier dimanche d’octobre — Fête du saint Rosaire"
+          }
+        },
+        {
+          "id": "s-68",
+          "title": {
+            "fr-FR": "Fête des saints Anges gardiens"
+          }
+        },
+        {
+          "id": "s-69",
+          "title": {
+            "fr-FR": "Fête de tous les Saints — Sur la Sainteté"
+          }
+        },
+        {
+          "id": "s-70",
+          "title": {
+            "fr-FR": "Fête de tous les Saints — Sur le culte des Saints et des saintes Images"
+          }
+        },
+        {
+          "id": "s-71",
+          "title": {
+            "fr-FR": "Commémoration des Morts"
+          }
+        },
+        {
+          "id": "s-72",
+          "title": {
+            "fr-FR": "Autre sermon pour le jour des Morts"
+          }
+        },
+        {
+          "id": "s-73",
+          "title": {
+            "fr-FR": "Pour la fête du saint Patron"
+          }
+        },
+        {
+          "id": "s-74",
+          "title": {
+            "fr-FR": "Fête de la Dédicace — Du respect que l’on doit avoir dans les églises"
+          }
+        },
+        {
+          "id": "s-75",
+          "title": {
+            "fr-FR": "Sur la Religion"
+          }
+        },
+        {
+          "id": "s-76",
+          "title": {
+            "fr-FR": "Sur la Confirmation"
+          }
+        },
+        {
+          "id": "s-77",
+          "title": {
+            "fr-FR": "Sur l’Extrême-Onction"
+          }
+        },
+        {
+          "id": "notes-4",
+          "title": {
+            "fr-FR": "Notes de l’éditeur (tome IV)"
+          }
+        }
+      ]
+    }
+  ]
+}
