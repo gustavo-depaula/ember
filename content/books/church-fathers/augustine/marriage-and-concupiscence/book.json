@@ -2,18 +2,29 @@
   "id": "augustine-marriage-and-concupiscence",
   "cover": "quarter",
   "name": {
+    "la": "De nuptiis et concupiscentia",
     "en-US": "On Marriage and Concupiscence",
     "pt-BR": "Sobre o Matrimônio e a Concupiscência"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo",
     "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/nozze_concupiscenza/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages nozze_concupiscenza of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1507.htm",
@@ -24,6 +35,7 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Epistula ad Valerium comitem",
         "en-US": "Companion Letter",
         "pt-BR": "Carta de Envio"
       }
@@ -31,6 +43,7 @@
     {
       "id": "ch002",
       "title": {
+        "la": "Liber I",
         "en-US": "Book I",
         "pt-BR": "Livro I"
       }
@@ -38,6 +51,7 @@
     {
       "id": "ch003",
       "title": {
+        "la": "Liber II",
         "en-US": "Book II",
         "pt-BR": "Livro II"
       }
@@ -45,6 +59,23 @@
   ],
   "arrived": {
     "en-US": "2026-06-04",
-    "pt-BR": "2026-10-24"
+    "pt-BR": "2026-10-24",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/de-nuptiis-et-concupiscentia",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "Peter Holmes and Robert Ernest Wallis, and revised by Benjamin B",
+      "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
   }
 }
