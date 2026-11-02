@@ -1,0 +1,866 @@
+{
+  "id": "avila-audi-filia",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Audi, filia",
+    "en-US": "Audi, Filia",
+    "pt-BR": "Audi, filia"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Libro espiritual sobre el verso «Audi, filia, et vide» (Salmo 44): de los malos lenguajes del mundo, carne y demonio, y de los remedios contra ellos; de la fe y del propio conocimiento, de la penitencia, la oración, la Pasión del Señor y el amor del prójimo. Segunda redacción (Toledo 1574), 113 capítulos, en la edición modernizada del Apostolado Mariano; en inglés, «The Audi Filia, or a Rich Cabinet full of Spiritual Jewels» (St Omer 1620), con las glosas marginales del traductor como notas.",
+    "en-US": "Spiritual book on the verse «Audi, filia, et vide» (Psalm 44): on the evil languages of the world, the flesh and the devil and their remedies; on faith and self-knowledge, penance, prayer, the Passion of the Lord and love of neighbour. The second redaction (Toledo 1574), 113 chapters, in the modernised Apostolado Mariano edition; in English, «The Audi Filia, or a Rich Cabinet full of Spiritual Jewels» (St Omer 1620), with the translator's marginal glosses as footnotes.",
+    "pt-BR": "Livro espiritual sobre o verso «Audi, filia, et vide» (Salmo 44): das más linguagens do mundo, da carne e do demônio e dos remédios contra elas; da fé e do autoconhecimento, da penitência, da oração, da Paixão do Senhor e do amor ao próximo."
+  },
+  "composed": "1556–1574",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "john-of-avila/audi-filia",
+  "editions": {
+    "es-ES": {
+      "editor": "Apostolado Mariano (modernised reprint of the 1574 text)",
+      "year": 2007
+    },
+    "en-US": {
+      "translator": "attributed to Sir Tobie Matthew",
+      "year": 1620
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obras-de-san-juan-de-avila-tomo-2",
+      "edition": "San Juan de Ávila, Libro espiritual sobre el verso Audi, filia, Sevilla: Apostolado Mariano, 2007 (reprint of the Apostolado de la Prensa edition of 1941); archive.org upload 'Audi, filia', Tesseract OCR.",
+      "description": "Complete 113 chapters with the author's prologue and Breve suma; archaic words are glossed in square brackets by the editor, and his few footnotes are kept. Page numbers and the approbation are removed.",
+      "tier": "B",
+      "tierEvidence": "The text is Ávila's of 1574 (public domain); the modernised reprint is freely posted on archive.org."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/bub_gb_twoHq3QVr8MC",
+      "edition": "Toledo: Juan de Ayala, 1574 (first edition, Google scan); and Sevilla 1604 (archive.org A1020481). Used only to cross-check.",
+      "description": "Early prints; OCR with long-s is poor.",
+      "tier": "A",
+      "tierEvidence": "Printed 1574 and 1604."
+    },
+    {
+      "language": "en-US",
+      "url": "https://distantreader.org/stacks/earlyprint/txt/A23406.txt",
+      "edition": "The Audi Filia, or a Rich Cabinet full of Spiritual Jewels, St Omer 1620, translation attributed to Sir Tobie Matthew. EEBO-TCP A23406 (EarlyPrint normalised spelling).",
+      "description": "Full 113 chapters. The translator's preface is not included. His marginal glosses, which the keyed text runs into the lines, are footnotes. Illegible characters of the keying appear as ●.",
+      "tier": "A",
+      "tierEvidence": "Printed 1620; the TCP keyed text is released CC0."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo del autor"
+      }
+    },
+    {
+      "id": "breve-suma",
+      "title": {
+        "es-ES": "Breve suma"
+      }
+    },
+    {
+      "id": "c1",
+      "title": {
+        "es-ES": "Capítulo 1",
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "c2",
+      "title": {
+        "es-ES": "Capítulo 2",
+        "en-US": "Chapter 2"
+      }
+    },
+    {
+      "id": "c3",
+      "title": {
+        "es-ES": "Capítulo 3",
+        "en-US": "Chapter 3"
+      }
+    },
+    {
+      "id": "c4",
+      "title": {
+        "es-ES": "Capítulo 4",
+        "en-US": "Chapter 4"
+      }
+    },
+    {
+      "id": "c5",
+      "title": {
+        "es-ES": "Capítulo 5",
+        "en-US": "Chapter 5"
+      }
+    },
+    {
+      "id": "c6",
+      "title": {
+        "es-ES": "Capítulo 6",
+        "en-US": "Chapter 6"
+      }
+    },
+    {
+      "id": "c7",
+      "title": {
+        "es-ES": "Capítulo 7",
+        "en-US": "Chapter 7"
+      }
+    },
+    {
+      "id": "c8",
+      "title": {
+        "es-ES": "Capítulo 8",
+        "en-US": "Chapter 8"
+      }
+    },
+    {
+      "id": "c9",
+      "title": {
+        "es-ES": "Capítulo 9",
+        "en-US": "Chapter 9"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "es-ES": "Capítulo 10",
+        "en-US": "Chapter 10"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "es-ES": "Capítulo 11",
+        "en-US": "Chapter 11"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "es-ES": "Capítulo 12",
+        "en-US": "Chapter 12"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "es-ES": "Capítulo 13",
+        "en-US": "Chapter 13"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "es-ES": "Capítulo 14",
+        "en-US": "Chapter 14"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "es-ES": "Capítulo 15",
+        "en-US": "Chapter 15"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "es-ES": "Capítulo 16",
+        "en-US": "Chapter 16"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "es-ES": "Capítulo 17",
+        "en-US": "Chapter 17"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "es-ES": "Capítulo 18",
+        "en-US": "Chapter 18"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "es-ES": "Capítulo 19",
+        "en-US": "Chapter 19"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "es-ES": "Capítulo 20",
+        "en-US": "Chapter 20"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "es-ES": "Capítulo 21",
+        "en-US": "Chapter 21"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "es-ES": "Capítulo 22",
+        "en-US": "Chapter 22"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "es-ES": "Capítulo 23",
+        "en-US": "Chapter 23"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "es-ES": "Capítulo 24",
+        "en-US": "Chapter 24"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "es-ES": "Capítulo 25",
+        "en-US": "Chapter 25"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "es-ES": "Capítulo 26",
+        "en-US": "Chapter 26"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "es-ES": "Capítulo 27",
+        "en-US": "Chapter 27"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "es-ES": "Capítulo 28",
+        "en-US": "Chapter 28"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "es-ES": "Capítulo 29",
+        "en-US": "Chapter 29"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "es-ES": "Capítulo 30",
+        "en-US": "Chapter 30"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "es-ES": "Capítulo 31",
+        "en-US": "Chapter 31"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "es-ES": "Capítulo 32",
+        "en-US": "Chapter 32"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "es-ES": "Capítulo 33",
+        "en-US": "Chapter 33"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "es-ES": "Capítulo 34",
+        "en-US": "Chapter 34"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "es-ES": "Capítulo 35",
+        "en-US": "Chapter 35"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "es-ES": "Capítulo 36",
+        "en-US": "Chapter 36"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "es-ES": "Capítulo 37",
+        "en-US": "Chapter 37"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "es-ES": "Capítulo 38",
+        "en-US": "Chapter 38"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "es-ES": "Capítulo 39",
+        "en-US": "Chapter 39"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "es-ES": "Capítulo 40",
+        "en-US": "Chapter 40"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "es-ES": "Capítulo 41",
+        "en-US": "Chapter 41"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "es-ES": "Capítulo 42",
+        "en-US": "Chapter 42"
+      }
+    },
+    {
+      "id": "c43",
+      "title": {
+        "es-ES": "Capítulo 43",
+        "en-US": "Chapter 43"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "es-ES": "Capítulo 44",
+        "en-US": "Chapter 44"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "es-ES": "Capítulo 45",
+        "en-US": "Chapter 45"
+      }
+    },
+    {
+      "id": "c46",
+      "title": {
+        "es-ES": "Capítulo 46",
+        "en-US": "Chapter 46"
+      }
+    },
+    {
+      "id": "c47",
+      "title": {
+        "es-ES": "Capítulo 47",
+        "en-US": "Chapter 47"
+      }
+    },
+    {
+      "id": "c48",
+      "title": {
+        "es-ES": "Capítulo 48",
+        "en-US": "Chapter 48"
+      }
+    },
+    {
+      "id": "c49",
+      "title": {
+        "es-ES": "Capítulo 49",
+        "en-US": "Chapter 49"
+      }
+    },
+    {
+      "id": "c50",
+      "title": {
+        "es-ES": "Capítulo 50",
+        "en-US": "Chapter 50"
+      }
+    },
+    {
+      "id": "c51",
+      "title": {
+        "es-ES": "Capítulo 51",
+        "en-US": "Chapter 51"
+      }
+    },
+    {
+      "id": "c52",
+      "title": {
+        "es-ES": "Capítulo 52",
+        "en-US": "Chapter 52"
+      }
+    },
+    {
+      "id": "c53",
+      "title": {
+        "es-ES": "Capítulo 53",
+        "en-US": "Chapter 53"
+      }
+    },
+    {
+      "id": "c54",
+      "title": {
+        "es-ES": "Capítulo 54",
+        "en-US": "Chapter 54"
+      }
+    },
+    {
+      "id": "c55",
+      "title": {
+        "es-ES": "Capítulo 55",
+        "en-US": "Chapter 55"
+      }
+    },
+    {
+      "id": "c56",
+      "title": {
+        "es-ES": "Capítulo 56",
+        "en-US": "Chapter 56"
+      }
+    },
+    {
+      "id": "c57",
+      "title": {
+        "es-ES": "Capítulo 57",
+        "en-US": "Chapter 57"
+      }
+    },
+    {
+      "id": "c58",
+      "title": {
+        "es-ES": "Capítulo 58",
+        "en-US": "Chapter 58"
+      }
+    },
+    {
+      "id": "c59",
+      "title": {
+        "es-ES": "Capítulo 59",
+        "en-US": "Chapter 59"
+      }
+    },
+    {
+      "id": "c60",
+      "title": {
+        "es-ES": "Capítulo 60",
+        "en-US": "Chapter 60"
+      }
+    },
+    {
+      "id": "c61",
+      "title": {
+        "es-ES": "Capítulo 61",
+        "en-US": "Chapter 61"
+      }
+    },
+    {
+      "id": "c62",
+      "title": {
+        "es-ES": "Capítulo 62",
+        "en-US": "Chapter 62"
+      }
+    },
+    {
+      "id": "c63",
+      "title": {
+        "es-ES": "Capítulo 63",
+        "en-US": "Chapter 63"
+      }
+    },
+    {
+      "id": "c64",
+      "title": {
+        "es-ES": "Capítulo 64",
+        "en-US": "Chapter 64"
+      }
+    },
+    {
+      "id": "c65",
+      "title": {
+        "es-ES": "Capítulo 65",
+        "en-US": "Chapter 65"
+      }
+    },
+    {
+      "id": "c66",
+      "title": {
+        "es-ES": "Capítulo 66",
+        "en-US": "Chapter 66"
+      }
+    },
+    {
+      "id": "c67",
+      "title": {
+        "es-ES": "Capítulo 67",
+        "en-US": "Chapter 67"
+      }
+    },
+    {
+      "id": "c68",
+      "title": {
+        "es-ES": "Capítulo 68",
+        "en-US": "Chapter 68"
+      }
+    },
+    {
+      "id": "c69",
+      "title": {
+        "es-ES": "Capítulo 69",
+        "en-US": "Chapter 69"
+      }
+    },
+    {
+      "id": "c70",
+      "title": {
+        "es-ES": "Capítulo 70",
+        "en-US": "Chapter 70"
+      }
+    },
+    {
+      "id": "c71",
+      "title": {
+        "es-ES": "Capítulo 71",
+        "en-US": "Chapter 71"
+      }
+    },
+    {
+      "id": "c72",
+      "title": {
+        "es-ES": "Capítulo 72",
+        "en-US": "Chapter 72"
+      }
+    },
+    {
+      "id": "c73",
+      "title": {
+        "es-ES": "Capítulo 73",
+        "en-US": "Chapter 73"
+      }
+    },
+    {
+      "id": "c74",
+      "title": {
+        "es-ES": "Capítulo 74",
+        "en-US": "Chapter 74"
+      }
+    },
+    {
+      "id": "c75",
+      "title": {
+        "es-ES": "Capítulo 75",
+        "en-US": "Chapter 75"
+      }
+    },
+    {
+      "id": "c76",
+      "title": {
+        "es-ES": "Capítulo 76",
+        "en-US": "Chapter 76"
+      }
+    },
+    {
+      "id": "c77",
+      "title": {
+        "es-ES": "Capítulo 77",
+        "en-US": "Chapter 77"
+      }
+    },
+    {
+      "id": "c78",
+      "title": {
+        "es-ES": "Capítulo 78",
+        "en-US": "Chapter 78"
+      }
+    },
+    {
+      "id": "c79",
+      "title": {
+        "es-ES": "Capítulo 79",
+        "en-US": "Chapter 79"
+      }
+    },
+    {
+      "id": "c80",
+      "title": {
+        "es-ES": "Capítulo 80",
+        "en-US": "Chapter 80"
+      }
+    },
+    {
+      "id": "c81",
+      "title": {
+        "es-ES": "Capítulo 81",
+        "en-US": "Chapter 81"
+      }
+    },
+    {
+      "id": "c82",
+      "title": {
+        "es-ES": "Capítulo 82",
+        "en-US": "Chapter 82"
+      }
+    },
+    {
+      "id": "c83",
+      "title": {
+        "es-ES": "Capítulo 83",
+        "en-US": "Chapter 83"
+      }
+    },
+    {
+      "id": "c84",
+      "title": {
+        "es-ES": "Capítulo 84",
+        "en-US": "Chapter 84"
+      }
+    },
+    {
+      "id": "c85",
+      "title": {
+        "es-ES": "Capítulo 85",
+        "en-US": "Chapter 85"
+      }
+    },
+    {
+      "id": "c86",
+      "title": {
+        "es-ES": "Capítulo 86",
+        "en-US": "Chapter 86"
+      }
+    },
+    {
+      "id": "c87",
+      "title": {
+        "es-ES": "Capítulo 87",
+        "en-US": "Chapter 87"
+      }
+    },
+    {
+      "id": "c88",
+      "title": {
+        "es-ES": "Capítulo 88",
+        "en-US": "Chapter 88"
+      }
+    },
+    {
+      "id": "c89",
+      "title": {
+        "es-ES": "Capítulo 89",
+        "en-US": "Chapter 89"
+      }
+    },
+    {
+      "id": "c90",
+      "title": {
+        "es-ES": "Capítulo 90",
+        "en-US": "Chapter 90"
+      }
+    },
+    {
+      "id": "c91",
+      "title": {
+        "es-ES": "Capítulo 91",
+        "en-US": "Chapter 91"
+      }
+    },
+    {
+      "id": "c92",
+      "title": {
+        "es-ES": "Capítulo 92",
+        "en-US": "Chapter 92"
+      }
+    },
+    {
+      "id": "c93",
+      "title": {
+        "es-ES": "Capítulo 93",
+        "en-US": "Chapter 93"
+      }
+    },
+    {
+      "id": "c94",
+      "title": {
+        "es-ES": "Capítulo 94",
+        "en-US": "Chapter 94"
+      }
+    },
+    {
+      "id": "c95",
+      "title": {
+        "es-ES": "Capítulo 95",
+        "en-US": "Chapter 95"
+      }
+    },
+    {
+      "id": "c96",
+      "title": {
+        "es-ES": "Capítulo 96",
+        "en-US": "Chapter 96"
+      }
+    },
+    {
+      "id": "c97",
+      "title": {
+        "es-ES": "Capítulo 97",
+        "en-US": "Chapter 97"
+      }
+    },
+    {
+      "id": "c98",
+      "title": {
+        "es-ES": "Capítulo 98",
+        "en-US": "Chapter 98"
+      }
+    },
+    {
+      "id": "c99",
+      "title": {
+        "es-ES": "Capítulo 99",
+        "en-US": "Chapter 99"
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "es-ES": "Capítulo 100",
+        "en-US": "Chapter 100"
+      }
+    },
+    {
+      "id": "c101",
+      "title": {
+        "es-ES": "Capítulo 101",
+        "en-US": "Chapter 101"
+      }
+    },
+    {
+      "id": "c102",
+      "title": {
+        "es-ES": "Capítulo 102",
+        "en-US": "Chapter 102"
+      }
+    },
+    {
+      "id": "c103",
+      "title": {
+        "es-ES": "Capítulo 103",
+        "en-US": "Chapter 103"
+      }
+    },
+    {
+      "id": "c104",
+      "title": {
+        "es-ES": "Capítulo 104",
+        "en-US": "Chapter 104"
+      }
+    },
+    {
+      "id": "c105",
+      "title": {
+        "es-ES": "Capítulo 105",
+        "en-US": "Chapter 105"
+      }
+    },
+    {
+      "id": "c106",
+      "title": {
+        "es-ES": "Capítulo 106",
+        "en-US": "Chapter 106"
+      }
+    },
+    {
+      "id": "c107",
+      "title": {
+        "es-ES": "Capítulo 107",
+        "en-US": "Chapter 107"
+      }
+    },
+    {
+      "id": "c108",
+      "title": {
+        "es-ES": "Capítulo 108",
+        "en-US": "Chapter 108"
+      }
+    },
+    {
+      "id": "c109",
+      "title": {
+        "es-ES": "Capítulo 109",
+        "en-US": "Chapter 109"
+      }
+    },
+    {
+      "id": "c110",
+      "title": {
+        "es-ES": "Capítulo 110",
+        "en-US": "Chapter 110"
+      }
+    },
+    {
+      "id": "c111",
+      "title": {
+        "es-ES": "Capítulo 111",
+        "en-US": "Chapter 111"
+      }
+    },
+    {
+      "id": "c112",
+      "title": {
+        "es-ES": "Capítulo 112",
+        "en-US": "Chapter 112"
+      }
+    },
+    {
+      "id": "c113",
+      "title": {
+        "es-ES": "Capítulo 113",
+        "en-US": "Chapter 113"
+      }
+    }
+  ]
+}

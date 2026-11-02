@@ -53,3 +53,14 @@ def write_chapter(path, h1, paras):
 
 def words(path):
     return len(Path(path).read_text(encoding="utf-8").split())
+
+
+def write_book(dirpath, meta, toc):
+    meta = dict(meta)
+    meta["toc"] = toc
+    d = Path(dirpath)
+    d.mkdir(parents=True, exist_ok=True)
+    (d / "book.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+AVILA_AUTHOR = {"es-ES": "San Juan de Ávila", "en-US": "St. John of Ávila", "pt-BR": "São João de Ávila"}

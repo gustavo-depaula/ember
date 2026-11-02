@@ -49,6 +49,8 @@ These books were imported from scans and corrected by script, not proofread. Pro
 - `peter-of-alcantara-opera-omnia/tratado-oracion-meditacion`, `en-US/`: Hollings (1905) from OCR. The opening of Part I ch. VI (the preparation for prayer) is lost to the OCR, so `p1-c6` starts mid-sentence. Hollings's scripture-reference footnotes and a few drop-cap letters were dropped or restored by hand; stray OCR symbols remain in places. The meditation for Friday (`p1-c2-friday`) is about half the Spanish length, because Hollings abridges it.
 - `catherine-of-siena-opera-omnia/dialogo-thorold`, `caussade-opera-omnia/abandon-a-la-providence-divine` (`fr-FR/`), `brother-lawrence-opera-omnia/pratique-de-la-presence-de-dieu`, `kempis-imitation-of-christ` (`la/`) and the Latin from Migne (`anselm-opera-omnia/*`, `peter-lombard-opera-omnia/sententiae`): a few errors remain.
 
+- `john-of-avila-opera-omnia/audi-filia`, `en-US/`: EEBO-TCP keying leaves about 500 illegible characters, shown as `●` (for example `sa●●`); the translator's marginal glosses are footnotes, but a few untagged margin references remain in the text. `es-ES/` is the modernised Apostolado Mariano reprint (OCR, not proofread); it has no critical apparatus.
+
 ### English left out
 
 These books have no English because the only public-domain translations are badly scanned or don't follow the original's divisions:

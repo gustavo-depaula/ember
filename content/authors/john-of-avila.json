@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "century": 16,
+  "saint": "john_avila",
+  "matches": [
+    "St. John of Ávila",
+    "Saint John of Ávila",
+    "John of Ávila, Saint",
+    "John of Avila",
+    "Juan de Ávila",
+    "San Juan de Ávila",
+    "Juan de Avila"
+  ]
+}
