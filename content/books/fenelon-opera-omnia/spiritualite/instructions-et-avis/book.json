@@ -1,0 +1,108 @@
+{
+  "id": "fenelon-instructions-et-avis",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne",
+    "en-US": "Instructions and Counsels on Christian Morals and Perfection",
+    "pt-BR": "Instruções e avisos sobre diversos pontos da moral e da perfeição cristã"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le cœur des Œuvres spirituelles : avis, instructions et courts traités de direction, écrits pour des personnes du monde, de la cour et des communautés (le temps, les croix, la présence de Dieu, la fidélité dans les petites choses, le renoncement, la liberté, l’abandon). Publiés d’abord comme « Divers sentimens et avis chrétiens » (1718, 1738) ; ici dans l’ordre de l’édition Saint-Sulpice de 1851.",
+    "en-US": "The core of the Spiritual Works: counsels, instructions and short treatises of direction written for people of the world, of the court and of communities (time, crosses, the presence of God, fidelity in little things, renunciation, freedom, abandonment). First published as “Divers sentimens et avis chrétiens” (1718, 1738); here in the order of the Saint-Sulpice edition of 1851.",
+    "pt-BR": "O núcleo das Obras espirituais: avisos, instruções e breves tratados de direção, escritos para pessoas do mundo, da corte e das comunidades (o tempo, as cruzes, a presença de Deus, a fidelidade nas pequenas coisas, a renúncia, a liberdade, o abandono). Publicados primeiro como «Divers sentimens et avis chrétiens» (1718, 1738); aqui na ordem da edição de Saint-Sulpice de 1851."
+  },
+  "composed": "1690–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/instructions-et-avis",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 183ff; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). The piece titles are mostly lost in the OCR, so the text is cut into parts of about 6,500 words; legible titles are kept as ## subheads.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avis-01",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 1"
+      }
+    },
+    {
+      "id": "avis-02",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 2"
+      }
+    },
+    {
+      "id": "avis-03",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 3"
+      }
+    },
+    {
+      "id": "avis-04",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 4"
+      }
+    },
+    {
+      "id": "avis-05",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 5"
+      }
+    },
+    {
+      "id": "avis-06",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 6"
+      }
+    },
+    {
+      "id": "avis-07",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 7"
+      }
+    },
+    {
+      "id": "avis-08",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 8"
+      }
+    },
+    {
+      "id": "avis-09",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 9"
+      }
+    },
+    {
+      "id": "avis-10",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 10"
+      }
+    },
+    {
+      "id": "avis-11",
+      "title": {
+        "fr-FR": "Instructions et avis sur divers points de la morale et de la perfection chrétienne, partie 11"
+      }
+    }
+  ]
+}
