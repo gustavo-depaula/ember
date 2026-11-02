@@ -1,190 +1,24 @@
 # Entretien XIV. Du jugement propre
 
-*Vide pp. 170,199, c’est ce que j’ay tant de fois dit*, que l’amour de nostre etc.
+La première question est si d’estre sujette à sa propre opinion est une chose bien contraire à la perfection. Sur quoy je responds qu’estre sujet à avoir des propres opinions ou n’y estre pas, est une chose qui n’est ni bonne ni mauvaise, d’autant que cela est tout naturel. Chacun a des propres opinions ; mais cela ne nous empesche pas de parvenir à la perfection, pourveu que nous ne nous y attachions pas ou que nous ne les aymions pas, car c’est seulement l’amour de nos propres opinions qui est infiniment contraire à la perfection ; et *Vide pp. 170,199, c’est ce que j’ay tant de fois dit, que l’amour de nostre etc.
 
-propre jugement est l’estime que l’on en fait, est la cause
+propre jugement est l’estime que l’on en fait, est la cause qu’il y a si peu de parfaits. Il se trouve beaucoup de personnes qui renoncent à leur propre volonté, les uns pour un sujet, les autres pour un autre ; je ne dis pas seulement en Religion, mais parmi les séculiers et dans les cours des princes mesmes. Si un prince commande quelque chose à un courtisan, il ne refusera jamais d’obeir ; mais d’avoüer que le commandement soit bien SUR LE SUJET DE LA TENDRETÉ QUE L’ON A SUR SOY-MESME. (Ms.) ---- DE LA PROPRE OPINION. (Coll.)
 
-qu’il y a si peu de parfaits. Il se trouve beaucoup de
-
-personnes qui renoncent à leur propre volonté, les uns
-
-pour un sujet, les autres pour un autre ; je ne dis pas
-
-seulement en Religion, mais parmi les séculiers et dans
-
-les cours des princes mesmes. Si un prince commande
-
-quelque chose à un courtisan, il ne refusera jamais
-
-d’obeir ; mais d’avoüer que le commandement soit bien
-
-SUR LE SUJET DE LA TENDRETÉ QUE L’ON A SUR SOY-MESME. (Ms.) ---- DE
-
-LA PROPRE OPINION. (Coll.)
-
-Avant toutes choses il faut faire le signe de la Croix, et puis nous dirons
-
-quelque petite chose sur les deux questions qui m’ont esté faites, bien que
-
-peu, à fin de laisser du temps à nos Sœurs de me demander ce qu’eiies
-
-voudront. La première est si d’estre attachée (Ms. et Coll.)
-
-fait cela arrive rarement. Je feray ce que vous me commandez, en la façon que vous me dites, respondra-t’il ; mais... Us demeurent tousjours sur leur mais, qui vaut autant à dire qu’ils sçavent bien qu’il serait mieux autrement. Nul ne peut douter, mes cheres filles, que cecy ne soit fort contraire à la perfection, car il produit pour l’ordinaire des inquiétudes d’esprit, des bijarreries, des murmures, et en fin il nourrit l’amour de sa propre estime ; de maniéré donc que la propre opinion ni le propre jugement ne doit pas estre aymé ni estimé.
+Avant toutes choses il faut faire le signe de la Croix, et puis nous dirons quelque petite chose sur les deux questions qui m’ont esté faites, bien que peu, à fin de laisser du temps à nos Sœurs de me demander ce qu’eiies voudront. La première est si d’estre attachée (Ms. et Coll.) fait cela arrive rarement. Je feray ce que vous me commandez, en la façon que vous me dites, respondra-t’il ; mais... Us demeurent tousjours sur leur mais, qui vaut autant à dire qu’ils sçavent bien qu’il serait mieux autrement. Nul ne peut douter, mes cheres filles, que cecy ne soit fort contraire à la perfection, car il produit pour l’ordinaire des inquiétudes d’esprit, des bijarreries, des murmures, et en fin il nourrit l’amour de sa propre estime ; de maniéré donc que la propre opinion ni le propre jugement ne doit pas estre aymé ni estimé.
 
 Mais il faut que je vous die qu'il y a des personnes qui doivent former leurs opinions, comme sont les Evesques, les Supérieurs qui ont charge des autres, et tous ceux qui ont gouvernement ; les autres ne le doivent nullement faire, si l’obeissance ne le leur ordonne ; car autrement ils perdroyent le temps qu’ils doivent employer à se tenir fidellement auprès de Dieu. Et comme ceux-cy seroyent estimés peu attentifs à leur perfection et personnes inutilement occupées, s’ils vouloyent s’arrester à considerer leurs propres opinions, de mesme les Supérieurs devroyent estre estimés peu capables de leurs charges, s’ils ne formoyent leurs opinions et ne vouloyent en fin prendre des resolutions, quoy qu’ils ne s’y doivent pas complaire ni s’y attacher, car cela serait contraire à leur perfection.
 
-Le grand saint Thomas, qui avoit un des plus grands esprits qu’on sçauroit avoir, quand il formoit quelques opinions il les appuyoit sur des raisons les plus prégnantes qu’il pouvoit ; et neantmoins, s’il trouvoit quelqu’un qui n’approuvast pas ce qu’il avoit jugé bon,
+Le grand saint Thomas, qui avoit un des plus grands esprits qu’on sçauroit avoir, quand il formoit quelques opinions il les appuyoit sur des raisons les plus prégnantes qu’il pouvoit ; et neantmoins, s’il trouvoit quelqu’un qui n’approuvast pas ce qu’il avoit jugé bon, ou y contredist, il ne disputoit point ni ne s’en offençoit point, ains souffroit cela de bon cœur ; en quoy il tesmoignoit bien qu’il n’aymoit pas sa propre opinion, bien qu’il ne la desapprouvast pas aussi ; il laissoit cela ainsi, qu’on la trouvast bonne ou non. Apres avoir fait son devoir il ne se mettoit pas en peine du reste. Les Apostres n’estoyent pas attachés à leurs propres opinions, non pas mesme és choses du gouvernement de la sainte Eglise, qui estoit un affaire si important : si qu’apres qu'ils avoyent déterminé l’affaire par la resolution qu’ils en avoyent prise, ils ne s’offençoyent point si on opinoit là-dessus ; et si quelques-uns refusoyent d’agréer leurs opinions, quoy qu’elles fussent bien appuyées, ils ne recherchoyent point de les faire *Act., xv, 7, 12 ,13; recevoir par des disputes ni contestes. I Cor., xi, 16.
 
-ou y contredist, il ne disputoit point ni ne s’en offençoit
+Si donc les Supérieurs vouloyent changer d’opinion à tous rencontres, ils seroyent estimés légers et imprudens en leur gouvernement ; mais aussi, si ceux qui n’ont point de charges vouloyent estre attachés à leurs opinions, les voulant maintenir et faire recevoir, ils seroyent tenus pour opiniastres ; car c’est une chose toute asseurée que l’amour de la propre opinion dégénéré en opiniastreté, s’il n’est fidèlement mortifié et retranché : nous en voyons l’exemple mesme entre les Apostres. C'est une chose admirable que Nostre Seigneur ayt permis que plusieurs choses dignes véritablement d’estre escrites, que les saints Apostres ont faites, soyent demeurées cachées sous un profond silence, et que ceste imperfection que le grand saint Paul et saint Barnabé commirent ensemble ayt esté escrite ; c’est sans doute une speciale providence de Nostre Seigneur, qui l’a voulu ainsi pour nostre instruction particulière. Ils si on opinait là-dessus •— et que quelques-uns refusassent de recevoir leurs opinions pour bonnes et justement fondées sur la raison ; (Ms.) ils ne demordoyent pas de leurs opinions quand elles estoyent bien appuyées, mais pourtant (Ms. et Coll.)
 
-point, ains souffroit cela de bon cœur ; en quoy il tes-
-
-moignoit bien qu’il n’aymoit pas sa propre opinion, bien
-
-qu’il ne la desapprouvast pas aussi ; il laissoit cela ainsi,
-
-qu’on la trouvast bonne ou non. Apres avoir fait son
-
-devoir il ne se mettoit pas en peine du reste. Les
-
-Apostres n’estoyent pas attachés à leurs propres opi­
-
-nions, non pas mesme és choses du gouvernement de la
-
-sainte Eglise, qui estoit un affaire si important : si
-
-qu’apres qu'ils avoyent déterminé l’affaire par la reso­
-
-lution qu’ils en avoyent prise, ils ne s’offençoyent point
-
-si on opinoit là-dessus ; et si quelques-uns refusoyent
-
-d’agréer leurs opinions, quoy qu’elles fussent bien
-
-appuyées, ils ne recherchoyent point de les faire
-
-*Act., xv, 7, 12 ,13; recevoir par des disputes ni contestes *. I Cor., xi, 16.
-
-Si donc les Supérieurs vouloyent changer d’opinion à
-
-tous rencontres, ils seroyent estimés légers et imprudens
-
-en leur gouvernement ; mais aussi, si ceux qui n’ont
-
-point de charges vouloyent estre attachés à leurs opi­
-
-nions, les voulant maintenir et faire recevoir, ils
-
-seroyent tenus pour opiniastres ; car c’est une chose
-
-toute asseurée que l’amour de la propre opinion dégénéré
-
-en opiniastreté, s’il n’est fidèlement mortifié et retran­
-
-ché : nous en voyons l’exemple mesme entre les Apos­
-
-tres. C'est une chose admirable que Nostre Seigneur
-
-ayt permis que plusieurs choses dignes véritablement
-
-d’estre escrites, que les saints Apostres ont faites, soyent
-
-demeurées cachées sous un profond silence, et que ceste
-
-imperfection que le grand saint Paul et saint Barnabé
-
-commirent ensemble ayt esté escrite ; c’est sans doute
-
-une speciale providence de Nostre Seigneur, qui l’a
-
-voulu ainsi pour nostre instruction particulière *. Ils
-
-si on opinait là-dessus •— et que quelques-uns refusassent de recevoir
-
-leurs opinions pour bonnes et justement fondées sur la raison ; (Ms.) ils ne
-
-demordoyent pas de leurs opinions quand elles estoyent bien appuyées, mais
-
-pourtant (Ms. et Coll.)
-
-les voulant — former, asseurer et faire recevoir pour bonnes (Ms. et
-
-Coll.)
-
-s’en alloyent. tous deux ensemble pour prescher le saint Evangile et menoyent avec eux un jeune homme nommé Jean Marc, lequel estoit parent de saint Barnabé. Ces deux grands Apostres tombèrent en dispute s’ils le meneroyent ou s’ils le laisseroyent ; et se trouvans de contraire opinion sur ce fait et ne se pouvans accorder, ils se séparèrent l’un de l’autre*. Or, dites-moy main- *Act., xv, 37-4°. tenant, nous devons-nous troubler quand on void quelque defaut parmi nous autres, puisque les Apostres les commirent bien ?
+les voulant — former, asseurer et faire recevoir pour bonnes (Ms. et s’en alloyent. tous deux ensemble pour prescher le saint Evangile et menoyent avec eux un jeune homme nommé Jean Marc, lequel estoit parent de saint Barnabé. Ces deux grands Apostres tombèrent en dispute s’ils le meneroyent ou s’ils le laisseroyent ; et se trouvans de contraire opinion sur ce fait et ne se pouvans accorder, ils se séparèrent l’un de l’autre. Or, dites-moy main- *Act., xv, 37-4°. tenant, nous devons-nous troubler quand on void quelque defaut parmi nous autres, puisque les Apostres les commirent bien ?
 
 Il y a certes des grands esprits qui sont fort bons, mais qui sont tellement sujets à leurs opinions et les estiment si bonnes que jamais ils n’en veulent démordre ; et il faut bien prendre garde de ne les leur demander à l’impourveüe, car apres il est presque impossible de leur faire cognoistre et confesser qu’ils ont failli, d’autant qu’ils se vont enfonçant si avant en la recherche des raisons propres à soustenir ce qu’ils ont une fois dit estre bon, qu’il n’y a plus de moyen, s’ils ne s’adonnent à une excellente perfection, de les pouvoir faire dédire. Il se trouve aussi des esprits grands et fort capables qui ne sont point sujets à ceste imperfection, ains se démettent fort volontiers de leurs opinions, bien qu’elles soyent tres-bonnes. Ils ne s’arment pas à la defense quand on leur oppose quelque contrariété ou quelque contraire opinion à celle qu’ils ont jugée pour bonne et bien asseurée, ainsi que nous avons dit du grand saint Thomas. Par ainsi, nous voyons que c’est une chose naturelle que d’estre sujet à ses opinions.
 
-Les personnes mélancoliques y sont d’ordinaire plus attachées que ceux qui sont d’humeur joviale et gaye, car ceux-cy sont aisément tournés à toute main et faciles à croire ce qu’on leur dit. La grande sainte Paule estoit opiniastre à soustenir l’opinion qu’elle s’estoit formée de
+Les personnes mélancoliques y sont d’ordinaire plus attachées que ceux qui sont d’humeur joviale et gaye, car ceux-cy sont aisément tournés à toute main et faciles à croire ce qu’on leur dit. La grande sainte Paule estoit opiniastre à soustenir l’opinion qu’elle s’estoit formée de faire des grandes austérités, plustost que de se sousmettre à l’advis de plusieurs qui luy conseilloyent de s’en Vide supra, p. 156. abstenir ; et de mesme plusieurs autres Saints, lesquels estimoyent qu’il falloit grandement macerer le corps pour plaire à Dieu, en sorte qu’ils refusoyent pour cela d’obeir au médecin et de faire ce qui estoit requis à la conservation de ce corps périssable et mortel. Et, bien que cela fust une imperfection, ils ne laissèrent pas pour cela d’estre grands Saints (') et fort agréables à Dieu ; ce qui nous apprend que nous ne nous devons pas troubler quand nous appercevons en nous des imperfections ou des inclinations contraires à la vraye vertu, pourveu qu’on ne se rende pas opiniastre à vouloir perseverer en icelles ; car et sainte Paule et les autres qui se rendirent opiniastres, quoy que ce fust en peu de chose, ont esté reprehensibles en cela. Quant à nous autres, il ne faut jamais que nous laissions tellement former nos opinions, que nous n’en desprenions volontiers quand il est de besoin, soit que nous soyons obligés ou non de les former. D’estre donc sujets à faire estime de nostre propre jugement, et pour cela de s’enfoncer à la recherche des raisons propres à soustenir ce que nous avons une fois compris et trouvé bon, est une chose toute naturelle 0) ; mais de s’y laisser aller et s’y attacher, seroit une imperfection notable. Dites-moy, n’est ce pas perdre le temps inutilement, spécialement ceux qui n’ont point de charge, de s’amuser à cela ?
 
-faire des grandes austérités, plustost que de se sousmet-
-
-tre à l’advis de plusieurs qui luy conseilloyent de s’en Vide supra, p. 156. abstenir* ; et de mesme plusieurs autres Saints, lesquels
-
-estimoyent qu’il falloit grandement macerer le corps
-
-pour plaire à Dieu, en sorte qu’ils refusoyent pour cela
-
-d’obeir au médecin et de faire ce qui estoit requis à la
-
-conservation de ce corps périssable et mortel. Et, bien
-
-que cela fust une imperfection, ils ne laissèrent pas pour
-
-cela d’estre grands Saints (') et fort agréables à Dieu ;
-
-ce qui nous apprend que nous ne nous devons pas
-
-troubler quand nous appercevons en nous des imper­
-
-fections ou des inclinations contraires à la vraye vertu,
-
-pourveu qu’on ne se rende pas opiniastre à vouloir per­
-
-severer en icelles ; car et sainte Paule et les autres qui se
-
-rendirent opiniastres, quoy que ce fust en peu de chose,
-
-ont esté reprehensibles en cela. Quant à nous autres, il
-
-ne faut jamais que nous laissions tellement former nos
-
-opinions, que nous n’en desprenions volontiers quand il
-
-est de besoin, soit que nous soyons obligés ou non de
-
-les former. D’estre donc sujets à faire estime de nostre
-
-propre jugement, et pour cela de s’enfoncer à la recher­
-
-che des raisons propres à soustenir ce que nous avons
-
-une fois compris et trouvé bon, est une chose toute
-
-naturelle 0) ; mais de s’y laisser aller et s’y attacher,
-
-seroit une imperfection notable. Dites-moy, n’est ce pas
-
-perdre le temps inutilement, spécialement ceux qui n’ont
-
-point de charge, de s’amuser à cela ?
-
-Vous me dites : Que faut-il donc faire pour mortifier
-
-ceste inclination ? Il luy faut retrancher la nourriture.
-
-Vous vient-il en pensée qu’on a tort de faire faire cela
-
-de la sorte, qu’il seroit mieux ainsi que vous l’avez
-
-conceu ? détour nez-vous de ceste pensée, en disant en
-
-vous-mesme : Helas ! qu’ay-je à faire de telle chose, puis­
-
-qu’elle ne m’est pas commise ? Il est tousjours beaucoup
-
-d’estre —• saints (Ms. et Coll.)
+Vous me dites : Que faut-il donc faire pour mortifier ceste inclination ? Il luy faut retrancher la nourriture. Vous vient-il en pensée qu’on a tort de faire faire cela de la sorte, qu’il seroit mieux ainsi que vous l’avez conceu ? détour nez-vous de ceste pensée, en disant en vous-mesme : Helas ! qu’ay-je à faire de telle chose, puisqu’elle ne m’est pas commise ? Il est tousjours beaucoup d’estre —• saints (Ms. et Coll.)
 
 de les former. — Ceux qui sont adonnés à leur propre jugement se vont enfonçant presque continuellement en la recherche des raisons propres à soustenir ce qu’ils ont une fois compris : cecy est nature! (Ms. et Coll.)
 
@@ -196,23 +30,7 @@ Vous demanderez peut estre si ce n’est pas nourrir ceste imperfection de reche
 
 la vraye marque que l’on ne s’est pas sousmis à l’advis
 
-des autres et que l’on préféré tousjours le sien particu­
-
-lier. Donques, la chose qui a esté proposée estant déter­
-
-minée, il n’en faut plus parler, non plus qu’y penser,
-
-sinon que ce fust une chose notablement mauvaise ; car
-
-alors, s’il se pouvoit trouver encore quelque invention
-
-pour en détourner l’execution ou y mettre remede, il le
-
-faudroit faire le plus charitablement qu’il se pourroit et
-
-le plus insensiblement, à fin de ne troubler personne,
-
-ni mespriser ce qu’ils auroyent trouvé bon.
+des autres et que l’on préféré tousjours le sien particulier. Donques, la chose qui a esté proposée estant déterminée, il n’en faut plus parler, non plus qu’y penser, sinon que ce fust une chose notablement mauvaise ; car alors, s’il se pouvoit trouver encore quelque invention pour en détourner l’execution ou y mettre remede, il le faudroit faire le plus charitablement qu’il se pourroit et le plus insensiblement, à fin de ne troubler personne, ni mespriser ce qu’ils auroyent trouvé bon.
 
 Le seul et unique remede de guérir le propre jugement c’est de négliger ce qui nous vient en la pensée, nous appliquant à quelque chose de meilleur ; car si nous nous voulons laisser aller à faire attention sur toutes les opinions qu’il nous suggérera és diverses rencontres et occasions, qu’arrivera-t’il sinon une continuelle distraction et empeschement des choses plus utiles et qui sont propres à nostre perfection, nous rendans incapables et invalides pour faire la sainte oraison ? Car ayant donné la liberté à nostre esprit de s’amuser à la considération de telles tricheries, il s’enfoncera tousjours plus avant, et nous produira pensées sur pensées, opinions sur opinions et raisons sur raisons, qui nous importuneront merveilleusement en l’oraison. Car l’oraison n’est autre chose qu’une application totale de nostre esprit avec toutes ses facultés en Dieu : or, estant lassé à la poursuite des choses inutiles, il se rend d’autant moins habile et apte à la considération des mystères sur lesquels on veut faire l’oraison.
 
@@ -222,15 +40,7 @@ Si vous ne me demandez rien davantage, nous passerons à la seconde question, qu
 
 Les théologiens ont accoustumé pour faire bien comprendre la différence de ces deux amours, de se servir de la comparaison d’un pere lequel a deux fils, dont l’un est un petit mignon encor tout enfant, de bonne grâce, et l’autre est un homme fait, brave et généreux soldat, ou bien a quelque autre condition telle que l’on voudra. Le pere ayme grandement ces deux fils, mais d’amour different, car il ayme le petit d’un amour extrêmement tendre et affectif. Regardez, je vous prie, qu’est-ce qu’il ne permet pas à ce petit poupon de faire autour de luy : il le dorlotte, il le baise, il le tient sur ses genoux et entre ses bras avec une suavité nompareille, tant pour l’enfant que pour luy W. Si cest enfant a esté piqué d'une abeille, il ne cesse de souffler sur le mal jusques à tant que la douleur soit apaisée ; si son fils aisné avoit esté piqué de cent abeilles, il n’en daigneroit tourner son pied, bien qu’il l’ayme d’un amour grandement fort et solide. Considérez, je vous prie, la différence de ces deux amours ; car bien que vous ayez veu la tendreté que ce pere a pour son petit, il ne laisse pourtant pas de faire dessein de le mettre hors de sa maison et le faire chevalier de Malte, destinant son aisné pour son heritier et successeur de ses biens. Cestuy-cy donc est aymé de l’amour effectif, et l’autre petit, de l’amour affectif ; l’un et l’autre sont aymés, mais différemment.
 
-L’amour que nous avons pour nous-mesmes est de ceste sorte (h, affectif et effectif. L’amour effectif est celuy qui gouverne les grands, ambitieux .d’honneurs et. de richesses, car ils se procurent tant de biens qu’ils peuvent et ne se rassasient jamais d’en acquérir : ceux-là s’ayment grandement de cest amour effectif. Mais il y en a d’autres qui s’ayment plus de l’amour affectif, et ce sont ceux qui sont fort tendres d’eux-mesmes, et qui
-
-ne font jamais que se plaindre, dorloter, mignarder et
-
-conserver, et lesquels craignent tant tout ce qui leur
-
-peut nuire que c’est grande pitié. S’ils sont malades,
-
-quand ils n’auroyent mal qu’au bout du doigt, il n’y a rien de plus mal qu’ils sont, disent-ils ; ils sont si misérables ! Nul mal, pour grand qu’il soit, n’est jamais comparable à celuy qu’ils souffrent, et on ne peut trouver' assez de médecins pour les guérir ; ils ne cessent de se medeciner, et en pensant conserver leur santé, ils la perdent et ruinent tout à fait ; si les autres sont malades, ce n’est rien. En lin, il n’y a qu’eux qui soyent à plaindre, et pleurent tendrement sur eux-mesmes, si qu’ils taschent d’esmouvoir ceux qu’ils voyent à compassion ; ils ne se soucient guere que l’on les estime patiens, pourveu que l’on les croye bien malades et affligés : imperfection certes propre aux enfans, et si je l’ose dire, aux femmes, et encor entre les hommes, à ceux qui sont d’un courage efféminé et peu courageux ; car entre les genereux ceste imperfection ne s’y rencontre point. Des esprits bien faits ne s’arrestent point à ces niaiseries et fades tendretés, qui ne sont propres qu’à nous arrester en la voye de nostre perfection. Et apres cela, ne pouvoir souffrir que l’on nous estime tendres, n’est-ce pas l’estre grandement ?
+L’amour que nous avons pour nous-mesmes est de ceste sorte (h, affectif et effectif. L’amour effectif est celuy qui gouverne les grands, ambitieux .d’honneurs et. de richesses, car ils se procurent tant de biens qu’ils peuvent et ne se rassasient jamais d’en acquérir : ceux-là s’ayment grandement de cest amour effectif. Mais il y en a d’autres qui s’ayment plus de l’amour affectif, et ce sont ceux qui sont fort tendres d’eux-mesmes, et qui ne font jamais que se plaindre, dorloter, mignarder et conserver, et lesquels craignent tant tout ce qui leur peut nuire que c’est grande pitié. S’ils sont malades, quand ils n’auroyent mal qu’au bout du doigt, il n’y a rien de plus mal qu’ils sont, disent-ils ; ils sont si misérables ! Nul mal, pour grand qu’il soit, n’est jamais comparable à celuy qu’ils souffrent, et on ne peut trouver' assez de médecins pour les guérir ; ils ne cessent de se medeciner, et en pensant conserver leur santé, ils la perdent et ruinent tout à fait ; si les autres sont malades, ce n’est rien. En lin, il n’y a qu’eux qui soyent à plaindre, et pleurent tendrement sur eux-mesmes, si qu’ils taschent d’esmouvoir ceux qu’ils voyent à compassion ; ils ne se soucient guere que l’on les estime patiens, pourveu que l’on les croye bien malades et affligés : imperfection certes propre aux enfans, et si je l’ose dire, aux femmes, et encor entre les hommes, à ceux qui sont d’un courage efféminé et peu courageux ; car entre les genereux ceste imperfection ne s’y rencontre point. Des esprits bien faits ne s’arrestent point à ces niaiseries et fades tendretés, qui ne sont propres qu’à nous arrester en la voye de nostre perfection. Et apres cela, ne pouvoir souffrir que l’on nous estime tendres, n’est-ce pas l’estre grandement ?
 
 Je me souviens d’une histoire, dés que je passay en revenant de Paris en une maison religieuse, qui sert à mon propos ; et certes, j’eus plus de consolation en ce rencontre que je n’en avois eu en tout mon voyage, bien que j’eusse fait rencontre de beaucoup d’ames fort vertueuses ; mais ceste-cy me consola entre toutes. Il y avoit en ceste maison une fille qui faisoit son essay ; elle estoit merveilleusement douce, maniable, sousmise et obéissante, en fin elle avoit les conditions plus necessaires pour estre vraye Religieuse. A la fin, il arriva par malheur que les Sœurs remarquèrent en elle une imperfection corporelle, qui fut cause qu’elles commencèrent à mettre en doute si pour cela on la devoit renvoyer. La Mere Supérieure l'aymoit fort, et luy faschoit de le faire ; mais neantmoins les Sœurs s’arrestoyent fort sur ceste incommodité corporelle. Or, quand je fus là, le différend me fut remis pour ceste pauvre bonne fille, qui est.de bonne maison ; elle W fut amenée devant moy, où estant, elle se mit à genoux : Il est vray, Monsieur, dit-elle, que j’ay une telle imperfection, qui est certes assez honteuse (la nommant tout haut avec une simplicité grande). Je confesse que nos Sœurs ont bien grande raison de ne me pas vouloir recevoir, car je suis insupportable en mon defaut ; mais je vous supplie de m’estre favorable, vous asseurant, si elles me reçoivent, exerçant ainsi leur charité en mon endroit, que j’auray un grand soin de ne les point incommoder, me sousmettant de tres-bon cœur à faire le jardin, ou à estre employée à d’autres offices quels qu’ils soyent qui me tiennent esloignée de leur compagnie, a fin que je ne les incommode point (b. Certes, ceste fille me toucha ; ô qu’elle n’estoit gueres tendre sur elle-mesme ! Je ne me peus tenir de dire que je voudrois de bon cœur avoir le mesme defaut naturel, et avoir le courage de le dire devant tout le monde avec la mesme simplicité qu’elle fit devant moy.
 
@@ -284,11 +94,7 @@ Vous demandez en apres, si la Supérieure vous voyant plus triste que d’ordina
 
 (f’) Que dites-vous, ma fille ? si la Supérieure vous voyant faire mauvaise raine, vous demande que vous avez, et. vous voyant prou de chose® en l’esprit, pesle mesle, qui vous faschent, (Ms. et Coll.) tout simplement : J’ay plusieurs choses en l’esprit, mais je ne sçay que c’est. Vous craignez, dites-vous, que la .Supérieure ne pense que vous n’ayez pas la confiance de le luy dire. Or, que vous doit-il soucier qu’elle le pense ou qu’elle ne le pense pas ? pourveu que vous fassiez vostre devoir, dequoy vous mettez-vous en peine ? Ce que dira-t’on si je fais cecy ou cela ? ou qu’est-ce que la Supérieure pensera ? est grandement contraire à la perfection quand on s’y arreste ; car il faut tousjours se souvenir en tout ce que je dis, que je n’entens point parler de ce que fait la partie inferieure, car je n’en fais nul estât ; c’est donc à la partie supérieure que je dis qu’il faut mespriser ces que dira-t’on ou que pensera-t’on ?
 
-Cela vous vient quand vous avez rendu compte, parce que vous n’avez pas assez dit de fautes particulières : vous pensez, dites-vous, que la Supérieure dira ou pensera que vous ne luy voulez pas tout dire. C’en est de mesme des redditions de compte comme de la confession ; il faut avoir une égale simplicité en l'un comme en l’autre. Or, dites-moy, faudroit-il dire : Si je me confesse de telle chose, que dira mon confesseur ou que pensera-t’il de moy ? Nullement ; il pensera et dira ce qu’il voudra ; pourveu qu’il m’ayt donné l’absolution et que j’aye rendu mon devoir, il me suffit. Et comme apres la confession il n’est pas temps de s’examiner pour voir si on a bien dit tout ce que l’on a fait, ains c’est le temps de se tenir attentif auprès de Nostre Seigneur en tranquillité (e’J, avec lequel nous nous sommes reconciliés, et luy rendre grâces de ses bien-faits, n’estant nullement necessaire de faire la recherche de ce que nous pourrions avoir oublié, de mesme en est-il apres avoir rendu compte : il faut dire tout simplement ce qui nous vient ; apres, il n’y faut plus penser. Mais aussi, comme ce ne seroit pas aller à la confession bien préparé, de ne vouloir pas s’examiner, de crainte de trouver quelque chose digne de se confesser, de mesme
-
-Les vrays Entretiens spirituels
-
-il ne faudroit pas négliger de rentrer en soy-mesme avant la reddition de compte, de peur de trouver quelque chose qui feroit de la peine à dire <h’).
+Cela vous vient quand vous avez rendu compte, parce que vous n’avez pas assez dit de fautes particulières : vous pensez, dites-vous, que la Supérieure dira ou pensera que vous ne luy voulez pas tout dire. C’en est de mesme des redditions de compte comme de la confession ; il faut avoir une égale simplicité en l'un comme en l’autre. Or, dites-moy, faudroit-il dire : Si je me confesse de telle chose, que dira mon confesseur ou que pensera-t’il de moy ? Nullement ; il pensera et dira ce qu’il voudra ; pourveu qu’il m’ayt donné l’absolution et que j’aye rendu mon devoir, il me suffit. Et comme apres la confession il n’est pas temps de s’examiner pour voir si on a bien dit tout ce que l’on a fait, ains c’est le temps de se tenir attentif auprès de Nostre Seigneur en tranquillité (e’J, avec lequel nous nous sommes reconciliés, et luy rendre grâces de ses bien-faits, n’estant nullement necessaire de faire la recherche de ce que nous pourrions avoir oublié, de mesme en est-il apres avoir rendu compte : il faut dire tout simplement ce qui nous vient ; apres, il n’y faut plus penser. Mais aussi, comme ce ne seroit pas aller à la confession bien préparé, de ne vouloir pas s’examiner, de crainte de trouver quelque chose digne de se confesser, de mesme 2Ô0 Les vrays Entretiens spirituels il ne faudroit pas négliger de rentrer en soy-mesme avant la reddition de compte, de peur de trouver quelque chose qui feroit de la peine à dire <h’).
 
 Il ne faut pas aussi estre si tendre à vouloir tout dire, ni recourir aux Supérieurs pour crier holà ! à la moindre petite peine que vous avez, laquelle peut estre sera passée dans un quart d’heure. Il faut bien apprendre à souffrir un peu genereusement ces petites choses auxquelles nous ne pouvons pas mettre du remede, estant des productions, pour l’ordinaire, de nostre nature imparfaite : comme sont ces inconstances d’humeurs, de volontés, de désirs, qui produisent tantost un peu de chagrin, tantost une envie de parler et puis, tout pour un coup, une aversion grande de le faire, et choses semblables, auxquelles nous sommes sujets et le serons tant que nous vivrons en ceste vie périssable et passagère. Mais quant à ceste peine que vous dites que vous avez, et laquelle vous oste le moyen de vous tenir attentive à Dieu si vous ne l’allez incontinent dire à la Supérieure, je vous dis qu’il faut remarquer qu’elle ne vous oste pas peut estre l’attention à la presence de Dieu, ains plustost la suavité de ceste attention. Or, si ce n’est que cela, si vous avez bien le courage et la volonté, ainsi que vous dites, de la souffrir sans rechercher du soulagement, je vous dis que vous ferez tres-bien de le faire, quoy qu’elle vous apportast un peu d’inquietude, pourveu qu'elle ne fust pas trop grande ; mais si elle vous ostoit le moyen de vous tenir proche de Dieu, à ceste heure-là il la faudroit aller dire à la Supérieure, non pas pour vous soulager, mais pour gagner chemin en la presence de Dieu, bien qu’il n’y auroit pas grand mal de le faire pour vous soulager. (*’)
 
@@ -300,9 +106,11 @@ Il faut sans doute avoir du soin de complaire à nos Supérieurs, car le grand A
 
 (k’) qu'elle m'avoit ; — car c’est un point de grande importance que celuy-cy, d’estre bien estimée de nostre Mere. (Ms. et Coll.)
 
-Ces paroles ne se trouvent pas textuellement en saint Paul. Peut-^tre saint François de Sales voulait-il faire allusion à un passage de l’Epître aux Romains, chap. xu, 17, dans lequel le mot grec évwmov peut se traduire «devant les yeux » : Faisant le bien... devant les yeux des hommes. plaire. Mais aussi il dit par apres : Ne servez point vos * Ephes., vi, 5, 6 ; maistres à l’œil *, voulant dire qu'ils se gardent bien de • r . j 1 , ..1 • , >'1 rien faire de plus estant a la veue des maistres, qu ils feroyent estant absens, parce que l’œil de Dieu les void tousjours, auquel on doit avoir un grand respect pour ne rien faire qui luy puisse déplaire ; et en ce faisant ne nous mettre pas en grande peine ni souci de vouloir tousjours contenter les hommes, car il n’est pas en nostre pouvoir. Faisons du mieux que nous pourrons pour ne fascher personne ; mais apres cela, s’il arrive que par vostre infirmité vous les mescontentiez quelque fois, recourez soudain à la doctrine que je vous ay si souvent preschée et que j’ay tant d’envie de graver en vos esprits. Humiliez-vous soudain devant Dieu en recognoissant vostre fragilité et foiblesse, et puis reparez vostre faute, si elle le merite, par un acte d’humilité à l’endroit de la personne que vous avez peu fascher ; et cela fait, ne vous troublez jamais, car nostre pere spirituel (D qui est l’amour de Dieu, nous le defend, en nous enseignant qu’apres que nous avons fait, l’acte d’humilité, ainsi que je dis, nous rentrions en nous-mesmes pour caresser tendrement et chèrement ceste abjection bien-heureuse qui nous revient d’avoir failli, et ceste bien-aymée reprehension <m’) que la Supérieure nous fera.
+Ces paroles ne se trouvent pas textuellement en saint Paul. Peut-^tre saint François de Sales voulait-il faire allusion à un passage de l’Epître aux Romains, chap. xu, 17, dans lequel le mot grec évwmov peut se traduire «devant les yeux » : Faisant le bien... devant les yeux des hommes. plaire. Mais aussi il dit par apres : Ne servez point vos maistres à l’œil, voulant dire qu'ils se gardent bien de
 
-Nous avons deux amours, deux jugemens et deux volontés ; et partant il ne faut faire nul estât de tout ce que l’amour propre, le jugement particulier ou la propre volonté nous suggerent, pourveu que nous fassions regner l’amour de Dieu au dessus de l’amour propre, le jugement des Supérieurs, voire des inferieurs et égaux, au dessus du nostre, le réduisant au petit pied ; ne se contentant pas de faire assujettir nostre volonté, en faisant tout ce que l’on veut de nous, mais assujettissant le jugement à croire que nous n’aurions nulle raison (1’) car — un autre pere spirituel que nous avons, (Ms. et Coll.) (m*) bien-aymée — mine froide (Ms.)
+• r . j 1 , ..1 • , >'1 rien faire de plus estant a la veue des maistres, qu ils feroyent estant absens, parce que l’œil de Dieu les void tousjours, auquel on doit avoir un grand respect pour ne rien faire qui luy puisse déplaire ; et en ce faisant ne nous mettre pas en grande peine ni souci de vouloir tousjours contenter les hommes, car il n’est pas en nostre pouvoir. Faisons du mieux que nous pourrons pour ne fascher personne ; mais apres cela, s’il arrive que par vostre infirmité vous les mescontentiez quelque fois, recourez soudain à la doctrine que je vous ay si souvent preschée et que j’ay tant d’envie de graver en vos esprits. Humiliez-vous soudain devant Dieu en recognoissant vostre fragilité et foiblesse, et puis reparez vostre faute, si elle le merite, par un acte d’humilité à l’endroit de la personne que vous avez peu fascher ; et cela fait, ne vous troublez jamais, car nostre pere spirituel (D qui est l’amour de Dieu, nous le defend, en nous enseignant qu’apres que nous avons fait, l’acte d’humilité, ainsi que je dis, nous rentrions en nous-mesmes pour caresser tendrement et chèrement ceste abjection bien-heureuse qui nous revient d’avoir failli, et ceste bien-aymée reprehension <m’) que la Supérieure nous fera.
+
+Nous avons deux amours, deux jugemens et deux volontés ; et partant il ne faut faire nul estât de tout ce que l’amour propre, le jugement particulier ou la propre volonté nous suggerent, pourveu que nous fassions regner l’amour de Dieu au dessus de l’amour propre, le jugement des Supérieurs, voire des inferieurs et égaux, au dessus du nostre, le réduisant au petit pied ; ne se contentant pas de faire assujettir nostre volonté, en faisant tout ce que l’on veut de nous, mais assujettissant le jugement à croire que nous n’aurions nulle raison (1’) car — un autre pere spirituel que nous avons, (Ms. et Coll.) (m) bien-aymée — mine froide (Ms.)
 
 de ne pas estimer que cela soit justement et raisonnablement fait, dementant ainsi absolument les raisons qu’il voudroit apporter, pour nous faire accroire que la chose qui nous est commandée seroit mieux faite autrement qu’ainsi que l’on nous dit. Tl faut avec simplicité rapporter une fois nos raisons, si elles nous semblent bonnes ; mais au partir de là, acquiescer sans plus de répliqués à ce que l’on nous dit, et pai' ainsi faire mourir nostre jugement, que nous estimons si sage et prudent au dessus de tout autre.
 

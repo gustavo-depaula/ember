@@ -2,7 +2,7 @@
 
 C’est une chose tres-difficile que celle que vous me demandez : quel est l’esprit de vos Réglés et comme vous le pourrez prendre. Or, premier que de parler de cest esprit, il faut que vous sçachiez que veut dire cela, avoir l’esprit d’une Réglé ; car nous entendons ordinairement dire : un tel Religieux a le vray esprit de sa Réglé.
 
-Nous tirerons du saint Evangile deux exemples qui sont tres-propres pour vous faire comprendre cecy. Il est dit que saint Jean Baptiste estoit venu en l’esprit et vertu d’Helie*, et pour cela, qu’il reprenoit hardiment * Lucæ, i, 17. et rigoureusement les pécheurs, les appellant engeance de viper es* et telles autres paroles. Mais quelle estoit *Matt.,m, 7; Lucæ, ceste vertu d’Helie ? C’estoit la force qui procedoit de In’ 7' son esprit pour anéantir et punir les pécheurs, faisant tomber le feu du ciel pour perdre et confondre ceux qui vouloyent résister à la majesté de son Maistre* : c’estoit * iv Reg., 1. donc un esprit de rigueur qu’avoit Helie. L’autre exemple que nous trouvons en l’Evangile *, qui sert à *Lucæ, ix, 51-56. nostre propos, est que Nostre Seigneur voulant aller en Hierusalem, ses disciples l’en dissuadoyent, parce que les uns avoyent affection d’aller en Capharnaum, les autres en Bethanie, et ainsi taschoyent de conduire Nostre Seigneur au lieu où ils vouloyent aller ; car ce n’est pas d’aujourd’huy que les inferieurs veulent conduire leurs maistres selon leur volonté. Mais Nostre Seigneur qui estoit tres-facile à condescendre, raffermit toutefois son visage, car l’Evangeliste use de ces mesmes mots, pour aller en Hierusalem, à fin que les Apostres ne le pressassent plus de n'y pas aller. Allant donc en Hierusalem, il voulut passer par une ville de Samarie, mais les Samaritains ne le voulurent pas permettre ; dequoy saint Jacques et saint Jean entrèrent en colere, et furent tellement indignés contre les Samaritains de l’inhospitalité qu’ils faisoyent à leur Maistre, qu’ils luy dirent : Maistre, voulez-vous que nous fassions tomber le feu du ciel pour les abysmer et les chastier de l’outrage qu’ils vous font ? Et Nostre Seigneur leur respondit : Vous ne sçavez de quel esprit vous estes, voulant dire : Ne sçavez-vous pas que nous ne sommes plus au temps d’Helie qui avoit un esprit de rigueur ? Et bien qu’Helie fust un très-grand serviteur de Dieu, et qu’il fist bien en faisant ce que vous voulez faire, neantmoins vous autres ne feriez pas bien en l’imitant, d’autant que je ne suis pas venu pour punir et confondre les pécheurs, ains pour *Lucæ, v, 32. les attirer doucement à penitence et à ma suite *.
+Nous tirerons du saint Evangile deux exemples qui sont tres-propres pour vous faire comprendre cecy. Il est dit que saint Jean Baptiste estoit venu en l’esprit et vertu d’Helie, et pour cela, qu’il reprenoit hardiment Lucæ, i, 17. et rigoureusement les pécheurs, les appellant engeance de viper es et telles autres paroles. Mais quelle estoit *Matt.,m, 7; Lucæ, ceste vertu d’Helie ? C’estoit la force qui procedoit de In’ 7' son esprit pour anéantir et punir les pécheurs, faisant tomber le feu du ciel pour perdre et confondre ceux qui vouloyent résister à la majesté de son Maistre : c’estoit iv Reg., 1. donc un esprit de rigueur qu’avoit Helie. L’autre exemple que nous trouvons en l’Evangile, qui sert à *Lucæ, ix, 51-56. nostre propos, est que Nostre Seigneur voulant aller en Hierusalem, ses disciples l’en dissuadoyent, parce que les uns avoyent affection d’aller en Capharnaum, les autres en Bethanie, et ainsi taschoyent de conduire Nostre Seigneur au lieu où ils vouloyent aller ; car ce n’est pas d’aujourd’huy que les inferieurs veulent conduire leurs maistres selon leur volonté. Mais Nostre Seigneur qui estoit tres-facile à condescendre, raffermit toutefois son visage, car l’Evangeliste use de ces mesmes mots, pour aller en Hierusalem, à fin que les Apostres ne le pressassent plus de n'y pas aller. Allant donc en Hierusalem, il voulut passer par une ville de Samarie, mais les Samaritains ne le voulurent pas permettre ; dequoy saint Jacques et saint Jean entrèrent en colere, et furent tellement indignés contre les Samaritains de l’inhospitalité qu’ils faisoyent à leur Maistre, qu’ils luy dirent : Maistre, voulez-vous que nous fassions tomber le feu du ciel pour les abysmer et les chastier de l’outrage qu’ils vous font ? Et Nostre Seigneur leur respondit : Vous ne sçavez de quel esprit vous estes, voulant dire : Ne sçavez-vous pas que nous ne sommes plus au temps d’Helie qui avoit un esprit de rigueur ? Et bien qu’Helie fust un très-grand serviteur de Dieu, et qu’il fist bien en faisant ce que vous voulez faire, neantmoins vous autres ne feriez pas bien en l’imitant, d’autant que je ne suis pas venu pour punir et confondre les pécheurs, ains pour *Lucæ, v, 32. les attirer doucement à penitence et à ma suite.
 
 Or, voyons maintenant quel est l’esprit particulier d’une Réglé. Pour le mieux entendre il faut donner des exemples qui soyent hors de nous, et apres, nous
 
@@ -22,77 +22,13 @@ Mais comme chaque Religion a sa fin particulière, comme aussi les moyens partic
 
 Or, pour venir en particulier à la fin pour laquelle nostre Congrégation de la Visitation a esté erigée, et par icelle comprendre plus aisément quel est l’esprit particulier de la Visitation, j’ay tousjours jugé que c’estoit un esprit d’une profonde humilité envers Dieu et d’une grande douceur envers le prochain ; d’autant qu’ayant moins de rigueur pour le corps, il faut qu’il y avt tant plus de douceur de cœur. Tous les anciens Peres ont déterminé que, où l’aspreté des mortifications corporelles manque, il y doit avoir plus de perfection d’esprit ; il faut donc que l’humilité envers Dieu et la douceur envers le prochain supplée en vos maisons à l’austérité des autres. Et si bien les austérités sont bonnes en elles-mesmes et sont des moyens de parvenir à la perfection, elles ne seroyent pas pourtant bonnes .chez vous, d’autant que ce seroit contre les Réglés (0.
 
-L’esprit de douceur est tellement l’esprit de la Visitation, que quiconque y voudroit introduire plus d’aus-terités qu’il n’y a pas (“) maintenant, destruiroit incontinent la Visitation ; d’autant que ce seroit faire contre la fin pour laquelle elle a esté dressée, qui est pour y pouvoir recevoir les filles et femmes infirmes, qui n’ont pas des corps assez forts pour entreprendre, ou qui ne sont pas inspirées et attirées de servir et s’unir à Dieu par la voye des austérités que l’on fait és autres Religions. Vous me direz peut estre : S’il arrive qu’une Sœur ayt une complexion robuste, peut-elle pas bien
+L’esprit de douceur est tellement l’esprit de la Visitation, que quiconque y voudroit introduire plus d’aus-terités qu’il n’y a pas (“) maintenant, destruiroit incontinent la Visitation ; d’autant que ce seroit faire contre la fin pour laquelle elle a esté dressée, qui est pour y pouvoir recevoir les filles et femmes infirmes, qui n’ont pas des corps assez forts pour entreprendre, ou qui ne sont pas inspirées et attirées de servir et s’unir à Dieu par la voye des austérités que l’on fait és autres Religions. Vous me direz peut estre : S’il arrive qu’une Sœur ayt une complexion robuste, peut-elle pas bien faire des austérités plus que les autres, avec la permission de la Supérieure, en sorte que les autres Sœurs ne s’en apperçoivent pas ? Je responds à cela qu’il n’y a point de secret qui ne passe secrettement à une autre ; et ainsi de l’une à l’autre l’on vient à faire des Religions dans les Religions et des petites ligues, et puis tout se dissipe. La bien-heureuse Mere sainte Therese dit admirablement Liber Fundatio- bien le mal qu’apportent ces petites entreprises de vouloir faire plus que la Réglé n’ordonne et que la Communauté ne fait ; et particulièrement si c’est la Supérieure, le mal en sera plus grand ; car tout aussi tost que ses filles s’en appercevront, elles voudront incontinent faire le mesme, et elles ne manqueront pas de raison pour se persuader qu’elles le feront bien, les unes poussées de zele, les autres pour luy complaire, et tout cela servira de tentation à celles qui ne pourront ou ne voudront pas faire de mesme.
 
-faire des austérités plus que les autres, avec la permis­
-
-sion de la Supérieure, en sorte que les autres Sœurs ne
-
-s’en apperçoivent pas ? Je responds à cela qu’il n’y a point
-
-de secret qui ne passe secrettement à une autre ; et ainsi
-
-de l’une à l’autre l’on vient à faire des Religions dans
-
-les Religions et des petites ligues, et puis tout se dissipe.
-
-La bien-heureuse Mere sainte Therese dit admirablement * Liber Fundatio- bien * le mal qu’apportent ces petites entreprises de
-
-vouloir faire plus que la Réglé n’ordonne et que la
-
-Communauté ne fait ; et particulièrement si c’est la
-
-Supérieure, le mal en sera plus grand ; car tout aussi
-
-tost que ses filles s’en appercevront, elles voudront
-
-incontinent faire le mesme, et elles ne manqueront pas
-
-de raison pour se persuader qu’elles le feront bien, les
-
-unes poussées de zele, les autres pour luy complaire, et
-
-tout cela servira de tentation à celles qui ne pourront
-
-ou ne voudront pas faire de mesme.
-
-Il ne faut jamais introduire, permettre ni souffrir ces
-
-particularités en Religion, excepté neantmoins en cer­
-
-taines nécessités particulières ; comme s’il arrivoit qu’une
-
-Sœur fust pressée de quelque grande vexation ou ten­
-
-tation, alors ce ne seroit pas un extraordinaire de
-
-demander à la Supérieure de faire quelques pénitences
-
-plus que les autres ; car il faut user de la mesme sim­
-
-plicité que font les malades, qui doivent demander les
-
-remedes qui leur semblent les pouvoir soulager. Que
-
-s’il y avoit une Sœur qui fust si genereuse et courageuse
-
-que de vouloir parvenir à la perfection dans un quart
-
-d’heure, faisant plus que la Communauté, je luy con-
-
-seillerois qu’elle s’humiliast et se sousmist à ne vouloir
-
-estre parfaite que dans trois jours, allant le train des
-
-autres. Et s’il se rencontre des Sœurs qui ayent des
-
-corps forts et robustes, à la bonne heure ; il ne faut pas l’ornement de leurs églises ils ne veulent, rien de superflu, non pas seulement des ornemens de soyc ; et s’il arrive que l’on en reçoive en quelqu’un de leurs couvens, on dit aussi tost qu’ils perdent l’esprit de leur Ordre. (Ms. et Coll.)
-
-car, — dit-elle, (Ms. et Coll.)
+Il ne faut jamais introduire, permettre ni souffrir ces particularités en Religion, excepté neantmoins en certaines nécessités particulières ; comme s’il arrivoit qu’une Sœur fust pressée de quelque grande vexation ou tentation, alors ce ne seroit pas un extraordinaire de demander à la Supérieure de faire quelques pénitences plus que les autres ; car il faut user de la mesme simplicité que font les malades, qui doivent demander les remedes qui leur semblent les pouvoir soulager. Que s’il y avoit une Sœur qui fust si genereuse et courageuse que de vouloir parvenir à la perfection dans un quart d’heure, faisant plus que la Communauté, je luy con-seillerois qu’elle s’humiliast et se sousmist à ne vouloir estre parfaite que dans trois jours, allant le train des autres. Et s’il se rencontre des Sœurs qui ayent des corps forts et robustes, à la bonne heure ; il ne faut pas l’ornement de leurs églises ils ne veulent, rien de superflu, non pas seulement des ornemens de soyc ; et s’il arrive que l’on en reçoive en quelqu’un de leurs couvens, on dit aussi tost qu’ils perdent l’esprit de leur Ordre. (Ms. et Coll.) car, — dit-elle, (Ms. et Coll.)
 
 pourtant qu’elles veuillent aller plus viste que celles qui sont foibles.
 
-Voicy un exemple en Jacob *, qui est tres-admirable *Gen.,xxxin,i-i4. et fort propre pour monstrer comment il se faut accommoder aux foibles, et arrester nostre force pour nous assujettir à aller de pair avec eux, principalement quand nous y avons de l’obligation, comme ont les Religieux à suivre la Communauté en tout ce qui est de la parfaite observance. Jacob donc sortant de la maison de son beau pere Laban, avec toutes ses femmes, ses enfans, ses serviteurs et ses troupeaux, pour s’en retourner chez luv, craignoit èxtremement de rencontrer son frere Esaü, d’autant qu’il pensoit qu’il fust tousjours irrité contre luy, ce qui n’estoit plus. Estant donc en chemin, le pauvre Jacob eut bien peur, car il rencontra Esaü fort bien accompagné d’une grande troupe de soldats. Jacob l’ayant salué, le trouva tout doux en son endroit, car il luy dit : Mon frere, allons de compagnie et achevons le voyage ensemble. A quoy respondit le bon Jacob : Mon seigneur et mon frere, il n’en sera pas ainsi, s’il vous plaist, d’autant que je meine mes enfans, et leurs petits pas exerceroyent ou abuseroyent de vostre patience ; quant à moy, qui y suis obligé, je mesure mes pas aux leurs. Et mesmes, il n’y a pas long temps que mes brebis ont agnelé ; les agneaux encore tendres ne pourroyent pas aller viste, et tout cela vous arreste-roit trop en chemin. Remarquez, je vous prie, la débonnaireté de ce saint Patriarche : il s’accommode volontiers aux pas, non seulement de ses petits enfans, mais aussi de ses agnelets. Il estoit à pied, (d et ce voyage luy fut heureux, comme il se void assez par les bénédictions qu’il receut de Dieu tout le long du chemin ; car il vid et parla plusieurs fois aux Anges et <a’) au Seigneur des Anges et des hommes ; et en fin il fut mieux partagé que son frere, qui estoit si bien accompagné <b’).
+Voicy un exemple en Jacob, qui est tres-admirable *Gen.,xxxin,i-i4. et fort propre pour monstrer comment il se faut accommoder aux foibles, et arrester nostre force pour nous assujettir à aller de pair avec eux, principalement quand nous y avons de l’obligation, comme ont les Religieux à suivre la Communauté en tout ce qui est de la parfaite observance. Jacob donc sortant de la maison de son beau pere Laban, avec toutes ses femmes, ses enfans, ses serviteurs et ses troupeaux, pour s’en retourner chez luv, craignoit èxtremement de rencontrer son frere Esaü, d’autant qu’il pensoit qu’il fust tousjours irrité contre luy, ce qui n’estoit plus. Estant donc en chemin, le pauvre Jacob eut bien peur, car il rencontra Esaü fort bien accompagné d’une grande troupe de soldats. Jacob l’ayant salué, le trouva tout doux en son endroit, car il luy dit : Mon frere, allons de compagnie et achevons le voyage ensemble. A quoy respondit le bon Jacob : Mon seigneur et mon frere, il n’en sera pas ainsi, s’il vous plaist, d’autant que je meine mes enfans, et leurs petits pas exerceroyent ou abuseroyent de vostre patience ; quant à moy, qui y suis obligé, je mesure mes pas aux leurs. Et mesmes, il n’y a pas long temps que mes brebis ont agnelé ; les agneaux encore tendres ne pourroyent pas aller viste, et tout cela vous arreste-roit trop en chemin. Remarquez, je vous prie, la débonnaireté de ce saint Patriarche : il s’accommode volontiers aux pas, non seulement de ses petits enfans, mais aussi de ses agnelets. Il estoit à pied, (d et ce voyage luy fut heureux, comme il se void assez par les bénédictions qu’il receut de Dieu tout le long du chemin ; car il vid et parla plusieurs fois aux Anges et <a’) au Seigneur des Anges et des hommes ; et en fin il fut mieux partagé que son frere, qui estoit si bien accompagné <b’).
 
 Si nous voulons que nos voyages soyent bénis (c’) de la divine Bonté, assujettissons-nous volontiers à l’exacte et ponctuelle observance de nos Réglés, et cela en simplicité de cœur, sans vouloir doubler les exercices, ce qui seroit aller contre l’intention de l’Instituteur et la fin pour laquelle la Congrégation a esté erigée. Accommodons-nous donc volontiers avec les infirmes qui y peuvent estre receuës, et je vous asseure que nous n’arriverons pas plus tard pour cela à la perfection ; ains au contraire, ce sera cela mesme qui nous y conduira plus tost, parce que n’ayant pas beaucoup à faire nous nous appliquerons à le faire avec la plus grande perfection qu’il nous sera possible. Et c’est en quoy nos œuvres sont plus agréables à Dieu, d’autant qu’il n’a pas esgard à la multiplicité des choses que nous faisons pour son amour, comme nous avons tantost dit, ains seulement à la ferveur de la charité avec laquelle nous les faisons. Je trouve, si je ne me trompe, que si nous nous déterminons à vouloir parfaittement observer nos Réglés, nous aurons assez de besogne sans nous charger davantage, d’autant que tout ce qui concerne la perfection de nostre estât y est compris.
 
@@ -100,7 +36,7 @@ La bien-heureuse Mere sainte Therese dit que ses filles estoyent tellement exact
 
 XlH. De l’Esprit des Réglés 233
 
-qui ne fust tres-bon à faire, parce que, sans autre semonce, elles se portoyent incontinent à le faire, et que pour plus parfaitement observer leurs Réglés, elles estoyent pointilleuses à la moindre petite dépendance. Elle rapporte* qu’une fois il y eut une de ses filles qui *Lib.Fundat.,c.xvi. n’ayant pas bien entendu quelque chose qu’une Supérieure avoit commandé, luy dit qu’elle n’entendoit pas bien cela, et la Supérieure luy respondant assez brusquement et inconsidérément : Allez mettre la teste dans un puits, luy dit-elle, et vous l’entendrez. La fille fut si prompte à partir de la main, que si on ne l’eust arrestée, elle s’alloit jetter dans un puits W, Il y a certes moins à faire à estre exacte en l’observance des Réglés, que non pas de les vouloir observer en partie. <d’)
+qui ne fust tres-bon à faire, parce que, sans autre semonce, elles se portoyent incontinent à le faire, et que pour plus parfaitement observer leurs Réglés, elles estoyent pointilleuses à la moindre petite dépendance. Elle rapporte qu’une fois il y eut une de ses filles qui *Lib.Fundat.,c.xvi. n’ayant pas bien entendu quelque chose qu’une Supérieure avoit commandé, luy dit qu’elle n’entendoit pas bien cela, et la Supérieure luy respondant assez brusquement et inconsidérément : Allez mettre la teste dans un puits, luy dit-elle, et vous l’entendrez. La fille fut si prompte à partir de la main, que si on ne l’eust arrestée, elle s’alloit jetter dans un puits W, Il y a certes moins à faire à estre exacte en l’observance des Réglés, que non pas de les vouloir observer en partie. <d’)
 
 Je ne puis assez dire de quelle importance est ce poinct, d’estre ponctuel à la moindre chose qui sert à plus parfaitement observer la Réglé, Ie’) comme aussi de ne vouloir rien entreprendre davantage, sous quelque pretexte que ce soit, parce que c’est le moyen de conserver la Religion en son entier et en sa première ferveur ; et le contraire de cela est ce qui la destruit et fait décheoir de sa première perfection. (f’l Vous me
 
@@ -122,7 +58,7 @@ en doute, mes cher es filles ? si ce n’est en certains cas, comme serait és t
 
 (h’) de vous en abstenir, — parce que c’est la feste d’un tel Saint qui apportoit tant de préparation pour recevoir le tres-saint Sacrement ; et vous, qui estes si peu préparée, il n’est pas raisonnable que vous le receviez si souvent ; et choses semblables. (Ms. et Coll.) cas si extraordinaires, que la perseverance nous fasse cognoistre que c’est la volonté de Dieu, comme il s’est trouvé, pour ce. qui est de la Communion, en deux ou trois grandes Saintes, les directeurs desquelles vouloyent qu’elles communiassent tous les jours. Je trouve que c’est un très-grand acte de perfection de se conformer en toutes choses à la Communauté et de ne s’en départir jamais par nostre propre choix ; car outre , que c'est un tres-bon moyen pour nous unir avec le prochain, c’est encore cacher à nous-mesmes nostre propre perfection.
 
-Il y a une certaine simplicité de cœur en laquelle consiste la perfection de toutes les perfections, et c’est ceste simplicité qui fait que nostre ame ne regarde qu’à Dieu, et qu’elle se tient toute ramassée et resserrée en elle-mesme pour s’appliquer avec toute la fidelité qui luy est possible à l’observance de ses Réglés, sans s’espancher à desirer ni vouloir entreprendre de faire plus que cela. Elle ne veut point faire des choses excellentes et extraordinaires qui la pourroyent faire estimer des créatures ; et par ainsi elle se tient fort basse en elle-mesme et n’a pas des grandes satisfactions, car elle ne fait rien de sa propre volonté, ni rien de plus que les autres, et ainsi (D toute sa sainteté est cachée à ses yeux : Dieu seul la void, qui se delecte en sa simplicité, par laquelle elle ravit son cœur * et s’unit à luy. « Cant., iv, 9. Elle tranche court à toutes les inventions de son amour propre, lequel prend une souveraine délectation à faire des entreprises de choses grandes et excellentes et qui nous font surestimer au dessus des autres. Telles âmes jouissent par tout d’une grande paix et tranquillité d’esprit.
+Il y a une certaine simplicité de cœur en laquelle consiste la perfection de toutes les perfections, et c’est ceste simplicité qui fait que nostre ame ne regarde qu’à Dieu, et qu’elle se tient toute ramassée et resserrée en elle-mesme pour s’appliquer avec toute la fidelité qui luy est possible à l’observance de ses Réglés, sans s’espancher à desirer ni vouloir entreprendre de faire plus que cela. Elle ne veut point faire des choses excellentes et extraordinaires qui la pourroyent faire estimer des créatures ; et par ainsi elle se tient fort basse en elle-mesme et n’a pas des grandes satisfactions, car elle ne fait rien de sa propre volonté, ni rien de plus que les autres, et ainsi (D toute sa sainteté est cachée à ses yeux : Dieu seul la void, qui se delecte en sa simplicité, par laquelle elle ravit son cœur et s’unit à luy. « Cant., iv, 9. Elle tranche court à toutes les inventions de son amour propre, lequel prend une souveraine délectation à faire des entreprises de choses grandes et excellentes et qui nous font surestimer au dessus des autres. Telles âmes jouissent par tout d’une grande paix et tranquillité d’esprit.
 
 Jamais il ne faut ni penser ni croire que pour ne faire rien de plus que les autres et suivre la Communauté,
 
@@ -172,75 +108,15 @@ Il sera fort à propos que je vous propose quelque exemple remarquable pour vous
 
 (n’) qu'il faut estre — non seulement ponctuelle à l’observance des Réglés, mais aussi pointilleuse à la moindre petite dépendance, ne se doit pas entendre d’une pointillerie (Ms. et Coll.)
 
-(o’) [La suite de cet Entretien ne se trouve pas dans les Colloques.] pouvoyent facilement s’en exempter sans que personne s’en apperceust, car ne pouvoit-elle pas s’en aller en Nazaret, au lieu de s’en aller en Hierusalem ? Mais elle ne le fait pas (P’>, ains tout simplement elle suit la communauté. Elle pouvoit bien dire : La loy n’est pas faite pour mon tres-cher Fils ni pour moy, elle ne nous oblige aucunement ; mais puisque le reste des hommes y est obligé et l'observe, nous nous y sousmettons tres-volontiers pour nous conformer à un chacun d’eux, et n’estre singuliers en aucune chose. L’Apostre saint Paul a fort bien dit * qu\7 falloit que Nostre Seigneur fust *Heb.,n, 17, iv, 15. semblable en toutes choses à ses freres, hormis le péché. Mais dites-moy, est-ce la crainte de la prévarication qui rendoit ceste Mere et son Fils si exacts à l’observance de la loy ? Non certes, ce n’estoit pas cela, car il n’y a voit point de prévarication pour eux ; ains ils estoyent attirés par l’amour qu’ils portoyent à leur Pere eternel.
+(o’) [La suite de cet Entretien ne se trouve pas dans les Colloques.] pouvoyent facilement s’en exempter sans que personne s’en apperceust, car ne pouvoit-elle pas s’en aller en Nazaret, au lieu de s’en aller en Hierusalem ? Mais elle ne le fait pas (P’>, ains tout simplement elle suit la communauté. Elle pouvoit bien dire : La loy n’est pas faite pour mon tres-cher Fils ni pour moy, elle ne nous oblige aucunement ; mais puisque le reste des hommes y est obligé et l'observe, nous nous y sousmettons tres-volontiers pour nous conformer à un chacun d’eux, et n’estre singuliers en aucune chose. L’Apostre saint Paul a fort bien dit qu\7 falloit que Nostre Seigneur fust *Heb.,n, 17, iv, 15. semblable en toutes choses à ses freres, hormis le péché. Mais dites-moy, est-ce la crainte de la prévarication qui rendoit ceste Mere et son Fils si exacts à l’observance de la loy ? Non certes, ce n’estoit pas cela, car il n’y a voit point de prévarication pour eux ; ains ils estoyent attirés par l’amour qu’ils portoyent à leur Pere eternel.
 
-L’on ne sçauroit aymer le commandement si l’on n’ayme celuy qui le fait ; à mesure que nous aymons et estimons celuy qui fait la loy, à mesure nous nous rendons exacts à l’observer. Les uns sont attachés à la loy par des chaisnes de fer et les autres par des chaisnes d'or : je veux dire, les séculiers qui observent les commandemens de Dieu pour la crainte qu’ils ont d’estre damnés, les observent par force et non par amour ; mais les Religieux et ceux qui ont soin de la perfection de leur ame y sont attachés par des chaisnes d’or, c’est à dire par amour ; ils ayment les commandemens et les observent amoureusement, et pour les mieux observer ils embrassent l’observance des conseils. Et David dit * que * Ps. cxvm, 4. Dieu a commandé que ses commandemens fussent
+L’on ne sçauroit aymer le commandement si l’on n’ayme celuy qui le fait ; à mesure que nous aymons et estimons celuy qui fait la loy, à mesure nous nous rendons exacts à l’observer. Les uns sont attachés à la loy par des chaisnes de fer et les autres par des chaisnes d'or : je veux dire, les séculiers qui observent les commandemens de Dieu pour la crainte qu’ils ont d’estre damnés, les observent par force et non par amour ; mais les Religieux et ceux qui ont soin de la perfection de leur ame y sont attachés par des chaisnes d’or, c’est à dire par amour ; ils ayment les commandemens et les observent amoureusement, et pour les mieux observer ils embrassent l’observance des conseils. Et David dit que Ps. cxvm, 4. Dieu a commandé que ses commandemens fussent
 
-(p’) toute pure, — ains elle estoit la pureté mesme. Ils pouvoyent facilement s en exempter sans que personne s’en apperceust. La tres-sainte Vierge ne pouvoit-elle pas s’en aller en Nazaret au lieu d’aller en Hierusalem, et donner a quelque pauvre l’argent dequoy elle vouloit acheter les tourterelles qu elle offrit ? Ne vous semble-t’il pas qu’elle eust beaucoup mieux fait ? O Dieu, elle ne fit rien de tout cela
+(p’) toute pure, — ains elle estoit la pureté mesme. Ils pouvoyent facilement s en exempter sans que personne s’en apperceust. La tres-sainte Vierge ne pouvoit-elle pas s’en aller en Nazaret au lieu d’aller en Hierusalem, et donner a quelque pauvre l’argent dequoy elle vouloit acheter les tourterelles qu elle offrit ? Ne vous semble-t’il pas qu’elle eust beaucoup mieux fait ? O Dieu, elle ne fit rien de tout cela trop bien gardés. Voyez-vous comme il veut que, l’on soit ponctuel à l’observance d’iceux ? Ainsi certes le font (q’) tous les vrays amans, car ils n’evitent pas seulement la prévarication de la loy, mais ils evitent aussi l’ombre Cf. Cant., v, 12. de la prévarication ; et c’est pourquoy l’Espoux dit que son Espouse ressemble à une colombe qui se tient <r’) le long des fleuves qui coulent doucement, et dont les eaux sont cristallines. Vous sçavez bien que la colombe se tient en asseurance auprès de ces eaux parce qu’elle y void les ombres des oyseaux de proye qu’elle redoute, et soudain qu’elle les void, elle prend la fuite et ainsi ne peut estre surprise. De mesme, veut dire le sacré Espoux, est ma bien-aymée ; car tandis qu’elle escbappe de devant l’ombre de la prévarication de mes commandemens, elle ne craint point de tomber entre les mains de la désobéissance. Certes, celuy qui se prive volontairement par le vœu d’obeissance de faire sa volonté és choses indifferentes, monstre assez qu’il ayme d’estre sousmis és necessaires et qui sont d’obligation. (s’>
 
-trop bien gardés. Voyez-vous comme il veut que, l’on soit
+Il faut donc estre extrêmement ponctuelles en l’observance des loix et des réglés qui nous sont données par Nostre Seigneur, mais sur tout en ce poinct de suivre en toutes choses la Communauté ; et se faut bien garder de dire que nous ne sommes pas tenues d’observer ceste Regie, ou commandement particulier de la Supérieure, d’autant qu’il est fait pour les foibles, et que nous sommes fortes et robustes ; ni, au contraire, que le commandement est fait pour les fortes, et que (D nous gardés — par ceux qui l’ayment. Voyez comme il desire que l’on soit ponctuel à l’observance. Aussi sont certes (r’) l’Espoux—- au Cantique des Cantiques dit que son Espouse ressemble à une colombe qui se promeine (s’) d’obligation. —- Celuy qui se prive volontairement des richesses licites monstre qu’il ne veut pas les attaches illicites. Les Apostres, pour mieux observer le commandement que Nostre Seigneur leur avoit fait de renoncer à tous les biens de la terre, se privèrent volontiers de ce qui leur estoit non seulement licite, mais necessaire.
 
-ponctuel à l’observance d’iceux ? Ainsi certes le font (q’)
-
-tous les vrays amans, car ils n’evitent pas seulement
-
-la prévarication de la loy, mais ils evitent aussi l’ombre * Cf. Cant., v, 12. de la prévarication ; et c’est pourquoy l’Espoux dit *
-
-que son Espouse ressemble à une colombe qui se tient <r’)
-
-le long des fleuves qui coulent doucement, et dont
-
-les eaux sont cristallines. Vous sçavez bien que la
-
-colombe se tient en asseurance auprès de ces eaux
-
-parce qu’elle y void les ombres des oyseaux de proye
-
-qu’elle redoute, et soudain qu’elle les void, elle prend
-
-la fuite et ainsi ne peut estre surprise. De mesme, veut
-
-dire le sacré Espoux, est ma bien-aymée ; car tandis
-
-qu’elle escbappe de devant l’ombre de la prévarication
-
-de mes commandemens, elle ne craint point de tomber
-
-entre les mains de la désobéissance. Certes, celuy qui
-
-se prive volontairement par le vœu d’obeissance de
-
-faire sa volonté és choses indifferentes, monstre assez
-
-qu’il ayme d’estre sousmis és necessaires et qui sont
-
-d’obligation. (s’>
-
-Il faut donc estre extrêmement ponctuelles en l’obser­
-
-vance des loix et des réglés qui nous sont données par
-
-Nostre Seigneur, mais sur tout en ce poinct de suivre
-
-en toutes choses la Communauté ; et se faut bien garder
-
-de dire que nous ne sommes pas tenues d’observer ceste
-
-Regie, ou commandement particulier de la Supérieure,
-
-d’autant qu’il est fait pour les foibles, et que nous
-
-sommes fortes et robustes ; ni, au contraire, que le
-
-commandement est fait pour les fortes, et que (D nous
-
-gardés — par ceux qui l’ayment. Voyez comme il desire que l’on soit ponctuel à l’observance. Aussi sont certes
-
-(r’) l’Espoux—- au Cantique des Cantiques dit que son Espouse ressemble à une colombe qui se promeine
-
-(s’) d’obligation. —- Celuy qui se prive volontairement des richesses licites monstre qu’il ne veut pas les attaches illicites. Les Apostres, pour mieux observer le commandement que Nostre Seigneur leur avoit fait de renoncer à tous les biens de la terre, se privèrent volontiers de ce qui leur estoit non seulement licite, mais necessaire.
-
-et que — nous n’y sommes pas obligées parce que sommes foibles et infirmes. O Dieu ! il ne faut rien moins que cela en une Communauté. Je vous conjure, si vous estes fortes, que vous vous affaiblissiez pour vous rendre conformes aux infirmes ; et si vous estes foibles je vous dis : Efforcez-vous pour vous adjuster avec les fortes. Le grand Apostre saint Paul dit qu’il s’est fait tout à tous pour les guigner tous *. Qui est infirme, *1 Cor->IX> 22. avec lequel je ne le sois* ? qui est malade, avec lequel *11 Cor'> xn 29- je ne sois aussi malade ? avec les forts je suis fort. Voyez-vous comme saint Paul quand il est avec les infirmes, il est infirme et prend volontiers les commodités necessaires à leurs infirmités pour leur bailler confiance d’en faire de mesme ? Mais quand il se trouve avec les forts, il est comme un géant pour leur donner du courage* ; et s’il se peut appercevoir que son prochain * Galat., n, u. soit scandalisé de quelque chose qu’il fasse, si bien il luy est licite de la faire, neantmoins il a un tel zele de la paix et tranquillité de son cœur, qu’il s’abstient volontiers de la faire* (“’). * 1 Cor., vin, ult.
+et que — nous n’y sommes pas obligées parce que sommes foibles et infirmes. O Dieu ! il ne faut rien moins que cela en une Communauté. Je vous conjure, si vous estes fortes, que vous vous affaiblissiez pour vous rendre conformes aux infirmes ; et si vous estes foibles je vous dis : Efforcez-vous pour vous adjuster avec les fortes. Le grand Apostre saint Paul dit qu’il s’est fait tout à tous pour les guigner tous. Qui est infirme, *1 Cor->IX> 22. avec lequel je ne le sois ? qui est malade, avec lequel *11 Cor'> xn 29- je ne sois aussi malade ? avec les forts je suis fort. Voyez-vous comme saint Paul quand il est avec les infirmes, il est infirme et prend volontiers les commodités necessaires à leurs infirmités pour leur bailler confiance d’en faire de mesme ? Mais quand il se trouve avec les forts, il est comme un géant pour leur donner du courage ; et s’il se peut appercevoir que son prochain Galat., n, u. soit scandalisé de quelque chose qu’il fasse, si bien il luy est licite de la faire, neantmoins il a un tel zele de la paix et tranquillité de son cœur, qu’il s’abstient volontiers de la faire. * 1 Cor., vin, ult.
 
 Mais, me direz-vous, maintenant que c’est l’heure de la récréation, j’ay un très-grand désir d’aller faire oraison pour m’unir plus immédiatement avec la souveraine Bonté. <v’) Ne puis-je pas bien penser que la loy qui ordonne de faire la récréation ne m’oblige pas, puisque j’ay l’esprit assez jovial de moy-mesme ? O non,
 
@@ -250,71 +126,9 @@ Mais, me direz-vous, maintenant que c’est l’heure de la récréation, j’ay
 
 i6
 
-il ne faut non plus le penser que le dire ; si vous
+il ne faut non plus le penser que le dire ; si vous n’avez pas besoin de vous recreer, il faut neantmoins faire la récréation pour celles qui en ont besoin. N’y a-t'il donques point d’exception en Religion ? les Réglés obligent-elles également ? Ouy sans doute, mais il y a des loix qui sont justement injustes. Par exemple, le jeusne du Caresme est commandé pour un chacun ; ne vous semble-t’il pas que ceste loy soit injuste, puisque l’on modéré ceste injuste justice donnant des dispenses à ceux qui ne la peuvent pas observer ? De mesme en est-il és Religions : le commandement est également pour tous, et nul de soy-mesme ne s’en peut dispenser ; mais les Supérieurs moderent la rigueur selon la nécessité d’un chacun.
 
-n’avez pas besoin de vous recreer, il faut neantmoins
-
-faire la récréation pour celles qui en ont besoin. N’y
-
-a-t'il donques point d’exception en Religion ? les Réglés
-
-obligent-elles également ? Ouy sans doute, mais il y a
-
-des loix qui sont justement injustes. Par exemple, le
-
-jeusne du Caresme est commandé pour un chacun ; ne
-
-vous semble-t’il pas que ceste loy soit injuste, puisque
-
-l’on modéré ceste injuste justice donnant des dispenses
-
-à ceux qui ne la peuvent pas observer ? De mesme en
-
-est-il és Religions : le commandement est également
-
-pour tous, et nul de soy-mesme ne s’en peut dispenser ;
-
-mais les Supérieurs moderent la rigueur selon la néces­
-
-sité d’un chacun.
-
-Et faut bien se garder de penser' que les infirmes
-
-soyent plus inutiles en Religion que les forts, ou qu’ils
-
-fassent moins et ayent moins de merite, parce que
-
-tous font également la volonté de Dieu. Les mousches
-
-à miel nous monstrent l’exemple de ce que nous disons,
-
-car les unes sont employées à la garde de la ruche <x’),
-
-et les autres sont perpétuellement au travail de la cueil­
-
-lette ; celles toutesfois qui demeurent dans la ruche ne
-
-mangent pas moins de miel que celles qui ont la peine
-
-de l’aller picorant sur les fleurs, (y’) Ne vous semble-t’il *i Reg., xxx,23-25. pas que David * fit une loy injuste lors qu’il commanda
-
-que les soldats qui garderoyent les hardes eussent éga­
-
-lement part au butin avec ceux qui iroyent à la ba­
-
-taille, et qui en reviendroyent tous chargés de coups ?
-
-Non certes, elle n’estoit point injuste, d’autant que
-
-ceux qui gardoyent les hardes les gardoyent pour ceux
-
-qui combattoyent, et ceux qui estoyent en la bataille
-
-(w’) en Religion que les forts — et robustes, et qu’ils fassent moins ou ayent moins de merite, et par conséquent soyent moins recompensés de Nostre Seigneur,
-
-de la ruche — et à la nettoyer
-
-(y’) sur les fleurs; — et cela avec beaucoup de raison, parce que celles qui demearent dedans et presque sans rien faire empeschent que les araignes ne viennent embarrasser les rayons de celles qui vont à la cueillette. combattoyent pour ceux qui gardoyent les hardes : aussi ils meritoyent tous une mesme recompense, puisqu’ils obeissoyent tous également au Roy. Dieu soit béni. <z’>
+Et faut bien se garder de penser' que les infirmes soyent plus inutiles en Religion que les forts, ou qu’ils fassent moins et ayent moins de merite, parce que tous font également la volonté de Dieu. Les mousches à miel nous monstrent l’exemple de ce que nous disons, car les unes sont employées à la garde de la ruche <x’), et les autres sont perpétuellement au travail de la cueillette ; celles toutesfois qui demeurent dans la ruche ne mangent pas moins de miel que celles qui ont la peine de l’aller picorant sur les fleurs, (y’) Ne vous semble-t’il *i Reg., xxx,23-25. pas que David fit une loy injuste lors qu’il commanda que les soldats qui garderoyent les hardes eussent également part au butin avec ceux qui iroyent à la bataille, et qui en reviendroyent tous chargés de coups ? Non certes, elle n’estoit point injuste, d’autant que ceux qui gardoyent les hardes les gardoyent pour ceux qui combattoyent, et ceux qui estoyent en la bataille (w’) en Religion que les forts — et robustes, et qu’ils fassent moins ou ayent moins de merite, et par conséquent soyent moins recompensés de Nostre Seigneur, de la ruche — et à la nettoyer (y’) sur les fleurs; — et cela avec beaucoup de raison, parce que celles qui demearent dedans et presque sans rien faire empeschent que les araignes ne viennent embarrasser les rayons de celles qui vont à la cueillette. combattoyent pour ceux qui gardoyent les hardes : aussi ils meritoyent tous une mesme recompense, puisqu’ils obeissoyent tous également au Roy. Dieu soit béni. <z’>
 
 (z’) également — à la volonté du Roy ; car ce n’est pas l’œuvre qui nous fait meriter, ains l’amour et la charité avec laquelle nous la faisons.
 

@@ -4,9 +4,9 @@ Deux choses sont requises pour donner sa voix comme il convient à telles person
 
 XVII. Des Voix 3i i
 
-appel et vocation, je n’entens pas parler de la vocation generale, telle qu’est celle par laquelle Nostre Seigneur appelle tous les hommes au Christianisme, ni encor de celle de laquelle il est dit en l’Evangile * que plusieurs * Matt., xx, 16, sont appelles, mais peu sont esleus. Car Dieu qui ’4' desire de donner à tous la vie eternelle *, leur donne * 1 Tim., n, 4. à tous les moyens d’y pouvoir arriver, et partant les appelle au Christianisme, et les a esleus, correspondans à ceste vocation suivant les attraits de Dieu ; toutesfois, le nombre de ceux qui y viennent est bien petit en comparaison de ceux qui sont appelles
+appel et vocation, je n’entens pas parler de la vocation generale, telle qu’est celle par laquelle Nostre Seigneur appelle tous les hommes au Christianisme, ni encor de celle de laquelle il est dit en l’Evangile que plusieurs Matt., xx, 16, sont appelles, mais peu sont esleus. Car Dieu qui ’4' desire de donner à tous la vie eternelle, leur donne 1 Tim., n, 4. à tous les moyens d’y pouvoir arriver, et partant les appelle au Christianisme, et les a esleus, correspondans à ceste vocation suivant les attraits de Dieu ; toutesfois, le nombre de ceux qui y viennent est bien petit en comparaison de ceux qui sont appelles
 
-Mais parlant plus particulièrement de la vocation religieuse, je dis que plusieurs sont bien appelles de Dieu en la Religion, mais il y en a peu qui maintiennent et conservent leur vocation ; car ils commencent bien, mais ils ne sont pas fidelles à correspondre à la grâce, ni perseverans en la pratique de ce qui peut conserver leur vocation et la rendre bonne et asseurée*. * n Pétri, 1, 10. Il y en a d’autres qui ne sont point bien appellés ; néant-moins estans venus, leur vocation a esté bonifiée et ratifiée de Dieu. Ainsi en voyons-nous qui viennent par despit et ennuy en Religion ; et quoy qu’il semble que ces vocations ne soyent pas bonnes, neantmoins on en a veu qui estans ainsi venus, ils ont fort bien réussi au service de Dieu. D’autres sont incités d’entrer en
+Mais parlant plus particulièrement de la vocation religieuse, je dis que plusieurs sont bien appelles de Dieu en la Religion, mais il y en a peu qui maintiennent et conservent leur vocation ; car ils commencent bien, mais ils ne sont pas fidelles à correspondre à la grâce, ni perseverans en la pratique de ce qui peut conserver leur vocation et la rendre bonne et asseurée. n Pétri, 1, 10. Il y en a d’autres qui ne sont point bien appellés ; néant-moins estans venus, leur vocation a esté bonifiée et ratifiée de Dieu. Ainsi en voyons-nous qui viennent par despit et ennuy en Religion ; et quoy qu’il semble que ces vocations ne soyent pas bonnes, neantmoins on en a veu qui estans ainsi venus, ils ont fort bien réussi au service de Dieu. D’autres sont incités d’entrer en
 
 Religion par quelque desastre et infortune qu’ils ont eu
 
@@ -16,7 +16,7 @@ corporelle ; et quoy que ceux-cy ayent des motifs qui de
 
 soy ne sont pas bons, neantmoins Dieu s’en sert pour
 
-appeller telles personnes. En fin les voyes de Dieu sont * Rom., xi, 33. incomprehensibles, et ses jugemens inscrutables * et
+appeller telles personnes. En fin les voyes de Dieu sont incomprehensibles, et ses jugemens inscrutables et
 
 admirables en la variété des vocations et des moyens desquels Dieu se sert pour appeller ses créatures à son service, lesquels doivent estre tous honnorés et révérés.
 
@@ -32,281 +32,43 @@ Doncques, pour sçavoir si Dieu veut que l’on soit Religieux, il ne faut pas a
 
 Certes, quand je rencontre telles âmes, je ne m’estonne point de ces dégousts et refroidissemens, ni moins crois-je que pour iceux leur vocation ne soit pas bonne. Il faut seulement en cela avoir un grand soin pour les ayder et leur apprendre à ne se point estonner de ces changemens, mais les encourager à demeurer fermes parmi ces mutations. Et bien, leur dis-je, cela n’est rien; dites-moy, n’avez-vous pas senti le mouvement ou l’inspiration dans vostre cœur pour la recherche d’un si grand bien ? Ouy, disent-elles, il est bien vray, mais cela s’est aussi tost passé. Ouy bien, leur dis-je, la force de ce sentiment ; mais non pas en telle sorte qu’il ne vous en soit demeuré quelque affection. O non, dit-elle, car je sens tousjours je ne sçay quoy qui me fait tendre de ce costé-là ; mais ce qui me met en peine c’est que je ne sens pas ce mouvement si fort qu’il faudroit pour une telle resolution. Je leur responds qu’elles ne se mettent pas en peine de ces sentimens sensibles et qu’elles ne les examinent pas tant ; qu’elles se contentent de ceste constance de leur volonté, qui, parmi tout cela, ne perd point l’affection de son premier dessein ; qu’elles soyent seulement soigneuses à le bien cultiver et à bien correspondre à ce premier mouvement. Ne vous souciez point, dis-je, de quel costé il vienne, car Dieu a plusieurs moyens d’appeller ses serviteurs et servantes à son service.
 
-Il se sert quelquefois de la prédication, d’autres fois de la lecture des bons livres. Les uns ont esté appellés pour avoir ouy les paroles sacrées de l’Evangile, comme saint François et saint Antoine, lesquels l’ont esté
+Il se sert quelquefois de la prédication, d’autres fois de la lecture des bons livres. Les uns ont esté appellés pour avoir ouy les paroles sacrées de l’Evangile, comme saint François et saint Antoine, lesquels l’ont esté oyans dire ces paroles : Va, vends tout ce que tu as Mâtt., xix, 2i. et le donne aux 'pauvres, et me suis ; et : Quiconque veut venir apres moy, qu’il renonce à soy- * Matt., xvi, 24 ; mesme, prenne sa croix et me suive. Les autres ont Lucæ, ix, 23.
 
-oyans dire ces paroles : Va, vends tout ce que tu as
+esté appellés par des ennuis, desastres et afflictions qui leur survenoyent au monde ; ce qui leur a donné sujet de se despiter contre luy et l’abandonner. (°) Nostre Seigneur s’est souvent servi d’un tel moyen pour appeller plusieurs personnes à son service, lesquelles il se fust fait Religieux ; et il devint un si bon Religieux, que, comme tel, il vesquit et mourut saintement. Les exemples de ceux qui ont esté appellés de Dieu comme luy par la prédication sont presque innombrables. D’autres ont esté touchés par la lecture des bons livres, et d’autres pour avoir ouylire des paroles sacrées de l’Evangile, comme saint François et saint Antoine, lesquels
 
-* Mâtt., xix, 2i. et le donne aux 'pauvres, et me suis * ; et : Quicon­
+et me suive, — et plusieurs autres, quittèrent tout et firent en une façon admirable ce que Nostre Seigneur leur commandoit par la lecture. Combien y en a-t’il qui ont esté appellés de Dieu par le moyen de la lecture des bons livres ? Certes, c’est innombrable. Certains gentilshommes, lisant la Vie de saint Antoine, furent tellement touchés qu’ils quittèrent à cest instant le service de l’empereur de la terre pour servir le Dieu du Ciel. Certes, entre tous les livres, la grande Guide des pécheurs de Grenade, a servi à plusieurs pour leur faire faire une forte détermination de quitter le monde et se rendre Religieux ; aussi est-ce un livre excellent que celuy-cy, où on remarque les traits les plus admirables et les plus penetrans qui se puissent dire. J’ay ouy raconter à des Religieux qui disoyent avoir cogneu plusieurs personnes qui avoyent esté touchées de Dieu de quitter le monde en lisant ce livre ; et moy j’ay parlé à plusieurs personnes lesquelles m’ont asseuré qu’elles avoyent receu leur vocation en lisant ce livre de Grenade.
 
-que veut venir apres moy, qu’il renonce à soy-
+Vous avez sans doute leu la Vie du bien-heureux Pere Ignace de Loyola, Fondateur et premier Pere des Jésuites : il fut touché de Dieu par la lecture des bons livres. Il estoit gentilhomme de fort bon lieu, brave selon le monde, il estoit grand guerrier. Or, le commencement de sa conversion fut par un desastre qui luy arriva d’un coup d’arquebuse qui luy vint atteindre la cuisse et la luy rompit, tellement qu’il le fallut emporter en son logis pour le panser ; et estant tout ennuyé pour se voir ainsy réduit, il demanda des livres de guerre pour se divertir. Mais on luy apporta la Fleur des Saints, non point celle qu’a fait le Pere Ribadeneira, car il n’estoit pas encore né, mais d’autres Fleurs qui estoyent ja alors ; et en les lisant, il fut touché de telle sorte qu’il quitta tout, et se résolut d’estre soldat de Jésus Christ. Il fit ceste resolution si efficace qu’il ne se donna point de repos qu’il ne l’eust mise en execution, et a esté un grand serviteur de Dieu.
 
-* Matt., xvi, 24 ; mesme, prenne sa croix et me suive*. Les autres ont Lucæ, ix, 23.
-
-esté appellés par des ennuis, desastres et afflictions qui
-
-leur survenoyent au monde ; ce qui leur a donné sujet
-
-de se despiter contre luy et l’abandonner. (°) Nostre
-
-Seigneur s’est souvent servi d’un tel moyen pour
-
-appeller plusieurs personnes à son service, lesquelles il
-
-se fust fait Religieux ; et il devint un si bon Religieux, que, comme tel, il
-
-vesquit et mourut saintement. Les exemples de ceux qui ont esté appellés de
-
-Dieu comme luy par la prédication sont presque innombrables. D’autres ont
-
-esté touchés par la lecture des bons livres, et d’autres pour avoir ouylire des
-
-paroles sacrées de l’Evangile, comme saint François et saint Antoine, lesquels
-
-et me suive, — et plusieurs autres, quittèrent tout et firent en une façon
-
-admirable ce que Nostre Seigneur leur commandoit par la lecture. Combien
-
-y en a-t’il qui ont esté appellés de Dieu par le moyen de la lecture des bons
-
-livres ? Certes, c’est innombrable. Certains gentilshommes, lisant la Vie de
-
-saint Antoine, furent tellement touchés qu’ils quittèrent à cest instant le
-
-service de l’empereur de la terre pour servir le Dieu du Ciel. Certes, entre
-
-tous les livres, la grande Guide des pécheurs de Grenade, a servi à plusieurs
-
-pour leur faire faire une forte détermination de quitter le monde et se rendre
-
-Religieux ; aussi est-ce un livre excellent que celuy-cy, où on remarque les
-
-traits les plus admirables et les plus penetrans qui se puissent dire. J’ay
-
-ouy raconter à des Religieux qui disoyent avoir cogneu plusieurs personnes
-
-qui avoyent esté touchées de Dieu de quitter le monde en lisant ce livre ; et
-
-moy j’ay parlé à plusieurs personnes lesquelles m’ont asseuré qu’elles avoyent
-
-receu leur vocation en lisant ce livre de Grenade.
-
-Vous avez sans doute leu la Vie du bien-heureux Pere Ignace de Loyola,
-
-Fondateur et premier Pere des Jésuites : il fut touché de Dieu par la lecture
-
-des bons livres. Il estoit gentilhomme de fort bon lieu, brave selon le monde,
-
-il estoit grand guerrier. Or, le commencement de sa conversion fut par
-
-un desastre qui luy arriva d’un coup d’arquebuse qui luy vint atteindre la
-
-cuisse et la luy rompit, tellement qu’il le fallut emporter en son logis pour
-
-le panser ; et estant tout ennuyé pour se voir ainsy réduit, il demanda des
-
-livres de guerre pour se divertir. Mais on luy apporta la Fleur des Saints, non
-
-point celle qu’a fait le Pere Ribadeneira, car il n’estoit pas encore né, mais
-
-d’autres Fleurs qui estoyent ja alors ; et en les lisant, il fut touché de telle
-
-sorte qu’il quitta tout, et se résolut d’estre soldat de Jésus Christ. Il fit ceste
-
-resolution si efficace qu’il ne se donna point de repos qu’il ne l’eust mise
-
-en execution, et a esté un grand serviteur de Dieu.
-
-Il y en a d’autres qui ont esté touchés par des ennuis et desastres qui leur
-
-sont venus, ce qui les a fait despiter contre le monde, à cause qu’il s’estoit
-
-mocqué d’eux ou les avoit trompés ; et eux, faschés d’avoir receu un tel
-
-affront et fascherie, l’ont quitté comme par despit.
+Il y en a d’autres qui ont esté touchés par des ennuis et desastres qui leur sont venus, ce qui les a fait despiter contre le monde, à cause qu’il s’estoit mocqué d’eux ou les avoit trompés ; et eux, faschés d’avoir receu un tel affront et fascherie, l’ont quitté comme par despit.
 
 XVII. Des Voix 3ï7
 
 n’eust peu avoir en autre façon. Car, combien que Dieu soit tout-puissant et peut tout ce qu’il veut, si est-ce qu’il ne veut point nous oster la liberté qu’il nous a une fois donnée ; et quand il nous appelle à son service, il veut que ce soit de nostre bon gré que nous y allions, et non par force ni par contrainte. Car bien que ceux-cy viennent à Dieu comme despités contre le monde qui les a faschés, ou bien à cause de quelques travaux et afflictions qui les ont tourmentés, si ne laissent-ils pas de se donner à Dieu d’une franche volonté ; et bien souvent telles personnes réussissent bien au service de Dieu et deviennent des grands Saints, et quelques fois plus grands que ceux qui y sont entrés par des vocations plus apparentes.
 
-Vous aurez leu ce que raconte Platus*, d’un gentil- * De Bono stat! homme brave selon le monde, lequel s’estant un jour S™!’.111’ ■ bien paré et frisé, estant sur un beau cheval bien em-pannaché, taschoit par tous moyens de plaire aux dames qu’il muguettoit ; et comme il bravoit, voila que son cheval le renverse par terre au milieu de la fange, d’où il sortit tout sale et crotté. Ce pauvre gentilhomme fut si honteux et confus d’un tel accident, que tout en colere il se résolut en cest instant-là de se faire Religieux, disant : O traistre monde, tu t’es mocqué de moy, mais je me mocqueray aussi de toy ; tu m’as joüé de ceste-cy, mais je t’en joüeray aussi d’une autre, car je n’auray jamais part avec toy, et dés ceste heure je me résous de me faire Religieux. Et de fait, il fut receu en Religion, où il vesquit saintement ; et neantmoins sa vocation venoit d’un despit.
+Vous aurez leu ce que raconte Platus, d’un gentil- * De Bono stat! homme brave selon le monde, lequel s’estant un jour S™!’.111’ ■ bien paré et frisé, estant sur un beau cheval bien em-pannaché, taschoit par tous moyens de plaire aux dames qu’il muguettoit ; et comme il bravoit, voila que son cheval le renverse par terre au milieu de la fange, d’où il sortit tout sale et crotté. Ce pauvre gentilhomme fut si honteux et confus d’un tel accident, que tout en colere il se résolut en cest instant-là de se faire Religieux, disant : O traistre monde, tu t’es mocqué de moy, mais je me mocqueray aussi de toy ; tu m’as joüé de ceste-cy, mais je t’en joüeray aussi d’une autre, car je n’auray jamais part avec toy, et dés ceste heure je me résous de me faire Religieux. Et de fait, il fut receu en Religion, où il vesquit saintement ; et neantmoins sa vocation venoit d’un despit.
 
 Il y en a encor d’autres desquels les motifs ont esté encor plus mauvais que cestuy-cy. J’ay apprins de bonne part qu’un gentilhomme de nostre âge, brave d’esprit et de corps, de fort bon lieu, voyant passer des Peres Capucins, dit aux autres seigneurs avec lesquels il estoit : Il me prend ( envie de sçavoir comme vivent ces pieds deschaux et de me rendre parmi eux, non point à dessein d’y tousjours demeurer, mais seulement pour un mois ou trois semaines, à fin de mieux remarquer ce qu’ils font, pour puis apres m’en rire et mocquer avec vous autres. Il fait ainsi son complot, il poursuit fort et ferme, il est en fin receu. Mais la divine Providence qui s’estoit servie de ce moyen pour le retirer du monde, convertit sa fin et son intention mauvaise en bonne, et celuy qui pensoit (d prendre les autres fut pris luy-mesme ; car il n’eut pas plus tost demeuré quelques jours avec ces bons Religieux, qu’il fut tout à fait changé. Il persevera fidèlement en sa vocation et a esté un grand serviteur de Dieu.
 
 Il y en a encor d’autres de qui la vocation n’est de soy pas meilleure que ceste-cy : c’est de ceux qui vont en Religion à cause de quelque defaut naturel, comme pour estre boiteux, borgnes, ou pour estre laids, ou pour avoir quelque autre pareil defaut ; et, ce qui semble encor le pire, c’est qu’ils y sont portés par leurs peres et meres, lesquels bien souvent, lors qu’ils ont des enfans borgnes, boiteux, ou autrement défectueux, les laissent au coin du feu et disent : Cecy ne vaut rien pour le monde, il le faut envoyer en Religion ; il luy faut procurer quelque benefice, ce sera autant de descharge pour nostre maison. Les enfans se laissent conduire où l’on veut, sous espoir de vivre des biens de l’autel. D’autres ont une grande quantité d’enfans : Et bien, disent-ils, il faut descharger la maison et envoyer ceux-cy en Religion, à fin que les aisnés ayent tout et qu’ils puissent paroistre. (b Mais Dieu bien souvent en cecy fait voir la grandeur de sa clemence et misericorde, employant ces intentions, qui d’elles-mesmes ne sont aucunement bonnes, pour faire de ces personnes-là des grands serviteurs de sa divine Majesté ; et en cecy il se fait voir admirable.
 
-Ainsi ce divin Artisan se plaist à faire des beaux édifices avec du bois qui est fort tortu, et qui n’a aucune apparence d’estre propre à chose du monde. Et tout ainsi qu’une personne qui ne sçait que c’est de la menuyserie, voyant quelque bois tortu en la boutique d’un menuysier, s’estonneroit de luy entendre dire que c’est pour faire quelque beau chef-d’œuvre (car, diroit-il, si cela est comme vous dites, combien de fois faudra-t’il passer le rabot par dessus, avant que d’en pouvoir faire un tel ouvrage ?) ainsi, pour l’ordinaire, la divine Providence fait des beaux chefs-d’œuvre avec ces intentions tortues et sinistres, comme il fait entrer en son festin les boiteux et les aveugles *, pour nous
+Ainsi ce divin Artisan se plaist à faire des beaux édifices avec du bois qui est fort tortu, et qui n’a aucune apparence d’estre propre à chose du monde. Et tout ainsi qu’une personne qui ne sçait que c’est de la menuyserie, voyant quelque bois tortu en la boutique d’un menuysier, s’estonneroit de luy entendre dire que c’est pour faire quelque beau chef-d’œuvre (car, diroit-il, si cela est comme vous dites, combien de fois faudra-t’il passer le rabot par dessus, avant que d’en pouvoir faire un tel ouvrage ?) ainsi, pour l’ordinaire, la divine Providence fait des beaux chefs-d’œuvre avec ces intentions tortues et sinistres, comme il fait entrer en son festin les boiteux et les aveugles, pour nous faire voir qu’il ne sert de rien d’avoir deux yeux ou deux pieds pour aller en Paradis ; qu’il vaut mieux aller en Paradis avec une jambe, un œil, un bras que d’en *Matt., xvin, 8, g ; avoir deux et se perdre. Or, telles sortes de gens
 
-faire voir qu’il ne sert de rien d’avoir deux yeux ou
+. . . .
 
-deux pieds pour aller en Paradis ; qu’il vaut mieux aller
+estans ainsi venus en Religion, on les a veu souventefois faire des grands fruicts et perseverer fidèlement en leur vocation.
 
-en Paradis avec une jambe, un œil, un bras que d’en
+Il y en a d’autres qui ont esté bien appelles, qui toutesfois n’ont pas persévéré ; ains, apres avoir demeuré quelque temps en Religion, ont tout quitté. Et de cecy nous avons l’exemple de Judas, duquel nous ne pouvons douter qu’il ne fust bien appellé ; car Nostre Seigneur le choisit et l’appella à l’apostolat de sa propre bouche. N) D’où vient donc, qu’estant si bien appellé, il ne persevera pas en sa vocation ? O c’est qu’il abusa de sa liberté, et ne voulut pas se servir des moyens que Dieu luy donnoit pour ce sujet ; mais au lieu de les embrasser et d’en user à son profit, il s’en servit pour en abuser et pour les rejetter, et, en ce faisant, il se perdit. Car c’est chose certaine que, quand Dieu appelle quelqu’un à une vocation, il s’oblige par conséquent, par sa providence divine, de luy fournir toutes les aydes requises pour se rendre parfait en sa vocation.
 
-*Matt., xvin, 8, g ; avoir deux et se perdre *. Or, telles sortes de gens . . . .
+Or, quand je dis que Nostre Seigneur s’oblige, il ne de sa propre bouche — quand il dit : Je vous ay choisis, ce n’est pas vous qui m'avez choisi, car personne ne peut aller à Dieu s’il n’est appellé de luy. Tirez-moy, dit l’Espouse, et je courray apres l’odeiir de vos parfums ; par lesquelles paroles elle monstre qu’il faut qu’elle soit tirée pour courir. Et certes, quand Nostre Seigneur dit à ses Apostres qu’il les avoit choisis, il ne fit nulle exception, ains il parloit de Judas aussi bien que des autres. Donc il estoit bien appellé ; et Nostre Seigneur ne se pouvoit tromper en le choisissant, car il avoit le discernement des esprits. en sa vocation. — Quand il appelle quelqu’un au Christianisme, il s’oblige de luy fournir tout ce qui est requis pour estre bon Chrestien ; tout de mesme, quand il appelle quelqu’un pour estre prestre ou Evesque, il s’oblige aussi de luy fournir tous les moyens necessaires à leur charge ; et quand il appelle quelqu’un pour estre Religieux ou Religieuse, il .s’oblige à mesme temps de luy donner toutes les conditions requises pour estre parfait en sa vocation.
 
-estans ainsi venus en Religion, on les a veu souvente-
+faudroit pas penser que ce soit nous qui l’ayons obligé à ce faire en suivant sa vocation, car on ne sçauroit l’obliger ; mais Dieu s'oblige soy-mesme par soy-mesme, poussé et provoqué à ce faire par les entrailles de son infinie bonté et misericorde ; tellement que, me faisant Lucæ, I, 78. Religieux, Nostre Seigneur s’est obligé de me fournir tout ce qui est necessaire pour estre bon Religieux, non point par devoir, mais par sa misericorde et providence infinie ; tout ainsi qu’un grand roy, levant des soldats pour faire la guerre, sa prévoyance et prudence requiert qu’il préparé des armes pour les armer ; car, quelle apparence y auroit-il de les envoyer combattre sans armes ? Que s’il ne le fait pas, il est taxé d’une grande imprudence. M Or, la divine Majesté ne manque jamais de soin ni de prévoyance touchant cecy ; et pour le nous mieux faire croire, elle s’y est obligée, en sorte qu'il ne faut jamais entrer en opinion qu’il y ayt de sa faute quand nous ne faisons pas bien : voire, sa. libéralité est si grande, qu’il donne ces moyens à ceux auxquels il ne les a pas promis et auxquels il ne s’est pas obligé pour ne les avoir pas appelles. Remarquez aussi que quand je dis que Dieu s’est obligé de donner à ceux qu’il appelle toutes les conditions requises pour estre parfaits en leur vocation, je ne dis pas qu’il les leur donne tout à coup et à l’instant qu’ils entrent en Religion. O non, il ne faut penser qu’en entrant en Religion on soit parfait tout promptement ; c’est assez qu’ils viennent pour tendre à la perfection et pour embrasser les moyens de se perfectionner. Et, pour ce faire, il est necessaire d’avoir ceste volonté ferme et constante de laquelle nous avons parlé, d’embrasser tous les moyens propres de se perfectionner en la vocation en laquelle Knhes TV. i.T.
 
-fois faire des grands fruicts et perseverer fidèlement en
+Il y a encor une chose à remarquer, qui est que Dieu ne s’est pas obligé de leur fournir toutes les conditions requises tout à coup, ni les rendre parfaits en leur vocation en un instant. L’on se tromperait, car les Religions ne seroyent pas nommées hospitaux, comme elles sont. J’ay desja monstre ailleurs que, de tout temps, les Religions ont esté appellées hospitaux, et les Religieux d’un nom grec qui veut dire guérisseurs, qui sont dans les hospitaux pour se guérir les uns les autres, comme les lepreux de sainte Brigitte. Il ne faut donc pas penser qu’entrant en Religion on doive estre parfait tout promptement, car j’ay desja dit plusieurs fois que nous ne venons pas parfaits en la Religion, mais ouy bien pour tendre à la perfection. Et ceste Congrégation, non plus que toutes les autres Religions, n’est pas une assemblée de filles parfaites, ains de filles qui tendent et prétendent fl la perfection ; c’est une escole où l’on vient pour apprendre à se perfectionner, et pour ce faire, il est necessaire d’avoir la volonté ferme et constante d’embrasser les moyens de nous perfectionner selon nostre vocation et l’Institut où nous sommes appellés.
 
-leur vocation.
+Ce n’est donc pas les mines tristes, les faces pleureuses et les personnes souspirantes qui sont tousjours les mieux appellées ; ni celles qui ne veulent bouger des églises, qui sont tousjours dans les hospitaux, ni encor ceux qui commencent avec grande ferveur. Il ne faut point regarder les larmes des pleureurs, ni escouter les souspirs des souspirans, ni faire considération sur les mines et ceremonies extérieures, pour cognoistre ceux qui sont bien appellés ; mais à ceux qui ont une bonne volonté, ferme et constante de vouloir estre guéris, et qui pour cela travaillent avec fidelité pour recouvrer la santé spirituelle.
 
-Il y en a d’autres qui ont esté bien appelles, qui
-
-toutesfois n’ont pas persévéré ; ains, apres avoir demeuré
-
-quelque temps en Religion, ont tout quitté. Et de cecy
-
-nous avons l’exemple de Judas, duquel nous ne pouvons
-
-douter qu’il ne fust bien appellé ; car Nostre Seigneur le
-
-choisit et l’appella à l’apostolat de sa propre bouche. N)
-
-D’où vient donc, qu’estant si bien appellé, il ne perse­
-
-vera pas en sa vocation ? O c’est qu’il abusa de sa liberté,
-
-et ne voulut pas se servir des moyens que Dieu luy
-
-donnoit pour ce sujet ; mais au lieu de les embrasser et
-
-d’en user à son profit, il s’en servit pour en abuser et
-
-pour les rejetter, et, en ce faisant, il se perdit. Car c’est
-
-chose certaine que, quand Dieu appelle quelqu’un à une
-
-vocation, il s’oblige par conséquent, par sa providence
-
-divine, de luy fournir toutes les aydes requises pour se
-
-rendre parfait en sa vocation.
-
-Or, quand je dis que Nostre Seigneur s’oblige, il ne
-
-de sa propre bouche — quand il dit : Je vous ay choisis, ce n’est pas vous
-
-qui m'avez choisi, car personne ne peut aller à Dieu s’il n’est appellé de luy.
-
-Tirez-moy, dit l’Espouse, et je courray apres l’odeiir de vos parfums ; par
-
-lesquelles paroles elle monstre qu’il faut qu’elle soit tirée pour courir. Et
-
-certes, quand Nostre Seigneur dit à ses Apostres qu’il les avoit choisis, il
-
-ne fit nulle exception, ains il parloit de Judas aussi bien que des autres.
-
-Donc il estoit bien appellé ; et Nostre Seigneur ne se pouvoit tromper en le
-
-choisissant, car il avoit le discernement des esprits.
-
- en sa vocation. — Quand il appelle quelqu’un au Christianisme, il
-
-s’oblige de luy fournir tout ce qui est requis pour estre bon Chrestien ; tout
-
-de mesme, quand il appelle quelqu’un pour estre prestre ou Evesque, il
-
-s’oblige aussi de luy fournir tous les moyens necessaires à leur charge ; et
-
-quand il appelle quelqu’un pour estre Religieux ou Religieuse, il .s’oblige à
-
-mesme temps de luy donner toutes les conditions requises pour estre parfait
-
-en sa vocation.
-
-faudroit pas penser que ce soit nous qui l’ayons obligé à ce faire en suivant sa vocation, car on ne sçauroit l’obliger ; mais Dieu s'oblige soy-mesme par soy-mesme, poussé et provoqué à ce faire par les entrailles de son infinie bonté et misericorde* ; tellement que, me faisant * Lucæ, I, 78. Religieux, Nostre Seigneur s’est obligé de me fournir tout ce qui est necessaire pour estre bon Religieux, non point par devoir, mais par sa misericorde et providence infinie ; tout ainsi qu’un grand roy, levant des soldats pour faire la guerre, sa prévoyance et prudence requiert qu’il préparé des armes pour les armer ; car, quelle apparence y auroit-il de les envoyer combattre sans armes ? Que s’il ne le fait pas, il est taxé d’une grande imprudence. M Or, la divine Majesté ne manque jamais de soin ni de prévoyance touchant cecy ; et pour le nous mieux faire croire, elle s’y est obligée, en sorte qu'il ne faut jamais entrer en opinion qu’il y ayt de sa faute quand nous ne faisons pas bien : voire, sa. libéralité est si grande, qu’il donne ces moyens à ceux auxquels il ne les a pas promis et auxquels il ne s’est pas obligé
-
-pour ne les avoir pas appelles. Remarquez aussi que
-
-quand je dis que Dieu s’est obligé de donner à ceux
-
-qu’il appelle toutes les conditions requises pour estre
-
-parfaits en leur vocation, je ne dis pas qu’il les leur
-
-donne tout à coup et à l’instant qu’ils entrent en Reli­
-
-gion. O non, il ne faut penser qu’en entrant en Religion
-
-on soit parfait tout promptement ; c’est assez qu’ils
-
-viennent pour tendre à la perfection et pour embrasser
-
-les moyens de se perfectionner. Et, pour ce faire, il est
-
-necessaire d’avoir ceste volonté ferme et constante de
-
-laquelle nous avons parlé, d’embrasser tous les moyens
-
-propres de se perfectionner en la vocation en laquelle
-
-* I Cor., VII, 20 ; on est ap-hellé*, Knhes TV. i.T.
-
-Ephes., iv,
-
-Il y a encor une chose à remarquer, qui est que Dieu ne s’est pas obligé de
-
-leur fournir toutes les conditions requises tout à coup, ni les rendre parfaits
-
-en leur vocation en un instant. L’on se tromperait, car les Religions ne
-
-seroyent pas nommées hospitaux, comme elles sont. J’ay desja monstre ailleurs
-
-que, de tout temps, les Religions ont esté appellées hospitaux, et les Religieux
-
-d’un nom grec qui veut dire guérisseurs, qui sont dans les hospitaux pour se
-
-guérir les uns les autres, comme les lepreux de sainte Brigitte. Il ne faut donc
-
-pas penser qu’entrant en Religion on doive estre parfait tout promptement,
-
-car j’ay desja dit plusieurs fois que nous ne venons pas parfaits en la
-
-Religion, mais ouy bien pour tendre à la perfection. Et ceste Congrégation,
-
-non plus que toutes les autres Religions, n’est pas une assemblée de filles
-
-parfaites, ains de filles qui tendent et prétendent fl la perfection ; c’est une
-
-escole où l’on vient pour apprendre à se perfectionner, et pour ce faire, il est
-
-necessaire d’avoir la volonté ferme et constante d’embrasser les moyens de
-
-nous perfectionner selon nostre vocation et l’Institut où nous sommes appellés.
-
-Ce n’est donc pas les mines tristes, les faces pleureuses et les personnes
-
-souspirantes qui sont tousjours les mieux appellées ; ni celles qui ne veulent
-
-bouger des églises, qui sont tousjours dans les hospitaux, ni encor ceux qui
-
-commencent avec grande ferveur. Il ne faut point regarder les larmes des
-
-pleureurs, ni escouter les souspirs des souspirans, ni faire considération sur
-
-les mines et ceremonies extérieures, pour cognoistre ceux qui sont bien
-
-appellés ; mais à ceux qui ont une bonne volonté, ferme et constante de vouloir
-
-estre guéris, et qui pour cela travaillent avec fidelité pour recouvrer la santé
-
-spirituelle.
-
-Il ne faut point aussi tenir pour une marque d'une bonne vocation ces
-
-ferveurs qui font que l’on ne se contente point en sa vocation, mais que l’on
-
-s’amuse à quelques désirs, qui sont pour l’ordinaire vains, quoy qu’apparens,
-
-d’une plus grande sainteté de vie ; car pendant que l’on s’amuse à rechercher
-
-ce qui le plus souvent n’est pas parfait, l’on ne fait pas ce qui nous peut rendre
-
-parfaits en celle que nous avons embrassée. Or, de cecy nous en avons un
-
-exemp'e en un jeune homme qui estoit prestre de l’Oratoire, lequel estoit
-
-si fervent qu’il luy sembloit que la maniéré de vie des Peres de l’Oratoire
+Il ne faut point aussi tenir pour une marque d'une bonne vocation ces ferveurs qui font que l’on ne se contente point en sa vocation, mais que l’on s’amuse à quelques désirs, qui sont pour l’ordinaire vains, quoy qu’apparens, d’une plus grande sainteté de vie ; car pendant que l’on s’amuse à rechercher ce qui le plus souvent n’est pas parfait, l’on ne fait pas ce qui nous peut rendre parfaits en celle que nous avons embrassée. Or, de cecy nous en avons un exemp'e en un jeune homme qui estoit prestre de l’Oratoire, lequel estoit si fervent qu’il luy sembloit que la maniéré de vie des Peres de l’Oratoire
 
 Voila donc comme les jugemens de Dieu sont occultes et secrets, et comme les uns, qui par despit et forme de mocquerie entrent en Religion, y perseverent neantmoins ; les autres, y estans bien appellés et ayans commencé avec grande ferveur, finissent mal et quittent tout. C’est donc une chose bien difficile de sçavoir si une fille est bien appellée de Dieu, pour luy donner sa voix ' car bien qu’on la voye fervente, peut estre ne perseverera-t’elle pas ; mais tant pis pour elle. Ne laissez pas pour cela, si vous voyez qu’elle ayt ceste volonté constante de vouloir servir Dieu et se perfectionner, de luy donner vostre voix ; car si elle veut recevoir les aydes que Nostre Seigneur infailliblement luy donnera, elle persévérera. Que si, apres quelques années, elle perd la perseverance, à son dam ! vous n’en estes pas la cause, ains elle-mesme. Voila donc pour la première partie et cognoissance des vocations. <a’)
 
@@ -314,7 +76,7 @@ n’estoit pas assez parfaite pour contenter sa ferveur ; c’est pourquoy il pe
 
 (a’) pour luy donner sa voix ; car — si bien je la vois fervente, peut estre ne perseverera-t’elle pas. Ce sera son mal. Ne laissez de luy donner vostre voix, si vous voyez qu’elle ayt ceste volonté constante de se vouloir guérir et estre panséecar si elle veut recevoir les aydes que Nostre Seigneur s’est obligé de luy donner, elle perseverera ; et mesme, bien qu’il ne les luy eust pas promises, ne s’y estant pas obligé, d’autant qu’il ne l’avoit pas appellée, elle peut neantmoins se rendre capable de les recevoir. Que si elle le fait seulement pour un temps et qu’elle ne persevere pas apres quelques années, à son dam ! vous n’en pouvez mais ; c’est elle et non vous, qui en estes la cause. Voila donc, ce me semble, en quoy consiste ceste première partie ; mais avant que de commencer la seconde, les Sœurs Novices se retireront et prieront Dieu pour nous pendant que nous parlerons de l’autre.
 
-Quant à la seconde, qui est de sçavoir (b’) les conditions que doivent avoir les filles, premièrement, que l’on reçoit céans, en second lieu, celles que l’on reçoit au Novitiat, et en troisiesme lieu, celles que l'on reçoit à la Profession, je n’ay guère à dire dessus la première réception, car l’on ne peut pas beaucoup cognoistre ces filles qui viennent avec une si bonne mine. Parlez-leur : elles feront tout ce que l’on voudra. Elles ressemblent à saint Jean et à <c’) saint Jacques, auxquels Nostre Seigneur dit : Pourrez-vous bien boire le calice de ma Passion ? Ils respondirent hardiment et franchement * Matt., xx, 22. qu’ouy*, et la nuict de la Passion ils l’abandonnèrent. Ces filles en font ainsi : elles font tant de prières, tant de reverences, elles tesmoignent tant de bonne volonté, que l’on ne peut bonnement les esconduire ; et en effet, l’on n’y doit pas faire trop grande considération, ce me semble, (d’) Je dis cecy pour l’interieur, car certes, il est bien difficile en ce temps-là de le pouvoir cognoistre, principalement des filles qui viennent icy de loin ; tout ce que l’on peut faire .à celles-cy, c’est de sçavoir qui elles sont, et telles choses qui regardent le temporel et l’exterieur, puis leur ouvrir la porte et les mettre à leur premier essay. Si c’est des filles qui soyent du lieu, l’on peut observer leur façon, et par la conversation que l’on a avec elles, recognoistre quelque chose de leur inferieur ; mais je trouve qu’il est encor bien malaisé, car elles viennent tousjours en la meilleure mine et posture qui se peut.
+Quant à la seconde, qui est de sçavoir (b’) les conditions que doivent avoir les filles, premièrement, que l’on reçoit céans, en second lieu, celles que l’on reçoit au Novitiat, et en troisiesme lieu, celles que l'on reçoit à la Profession, je n’ay guère à dire dessus la première réception, car l’on ne peut pas beaucoup cognoistre ces filles qui viennent avec une si bonne mine. Parlez-leur : elles feront tout ce que l’on voudra. Elles ressemblent à saint Jean et à <c’) saint Jacques, auxquels Nostre Seigneur dit : Pourrez-vous bien boire le calice de ma Passion ? Ils respondirent hardiment et franchement Matt., xx, 22. qu’ouy, et la nuict de la Passion ils l’abandonnèrent. Ces filles en font ainsi : elles font tant de prières, tant de reverences, elles tesmoignent tant de bonne volonté, que l’on ne peut bonnement les esconduire ; et en effet, l’on n’y doit pas faire trop grande considération, ce me semble, (d’) Je dis cecy pour l’interieur, car certes, il est bien difficile en ce temps-là de le pouvoir cognoistre, principalement des filles qui viennent icy de loin ; tout ce que l’on peut faire .à celles-cy, c’est de sçavoir qui elles sont, et telles choses qui regardent le temporel et l’exterieur, puis leur ouvrir la porte et les mettre à leur premier essay. Si c’est des filles qui soyent du lieu, l’on peut observer leur façon, et par la conversation que l’on a avec elles, recognoistre quelque chose de leur inferieur ; mais je trouve qu’il est encor bien malaisé, car elles viennent tousjours en la meilleure mine et posture qui se peut.
 
 Or, il me semble que pour ce qui est de la santé
 
@@ -338,7 +100,7 @@ Pour la troisiesme, c’est une chose de grande importance de recevoir une fille
 
 La troisiesme chose qu’il faut observer c’est si la fille a bien travaillé en son année de Novitiat, si elle a bien souffert et profité des médecines que l’on luy a donné, si elle a bien fait valoir les resolutions qu’elle fit entrant en son Novitiat de changer ses mauvaises humeurs et inclinations ; car l’année du Novitiat luy a esté donnée pour cela. Que si l’on void qu’elle ayt persévéré fidèlement en sa resolution, et que sa volonté demeure ferme et constante pour continuer, et qu’elle se soit appliquée à se reformer et former selon les Réglés et Constitutions, et que ceste volonté luy dure, voire de vouloir tousjours mieux faire, c’est un bon
 
-(1’) faire — ceste metamorphose que, ayant esté au monde des boutiques de vanité, elles en soyent en Religion une d’humilité ; ce qui arrivera sans doute, si avec fidelité elles se servent des remedes qui leur sont donnés pour leur guérison, car c’est une chose asseurée que qui est fidele aux petites choses, Dieu le constituera sur des grandes^ signe et bonne condition pour luy donner sa voix. Car bien que nonobstant cela elle ne laisse pas de faire des fautes, et mesmes assez grandes, il ne faut pas pourtant luy refuser sa voix ; car bien qu'en l’année de son Novitiat (m’> elle doive travailler en la reformation de ses mœurs et habitudes, ce n’est pas à dire pour cela qu’elle ne doive point faire de cheute, ni quelle doive à la fin de son Novitiat estre parfaite. Car regardez au college de Nostre Seigneur, les glorieux Apostres : encore qu’ils fussent bien appelles et qu’ils eussent beaucoup travaillé en la reformation de leur vie, combien firent-ils de fautes non seulement en la première année, mais aussi en la seconde et troisiesme. Tous disoyent et promet-toyent merveilles, voire mesme de suivre Nostre Seigneur à la mort et dans la prison* ; mais la nuict de. * Lucæ, xxn, 33. la Passion, que l’on vint prendre leur bon Maistre, tous l’abandonnèrent*. Je veux dire par là que (n’) les cheutes *Matt., XXVI, 56. ne doivent pas estre cause que l’on rejette une fille,
+(1’) faire — ceste metamorphose que, ayant esté au monde des boutiques de vanité, elles en soyent en Religion une d’humilité ; ce qui arrivera sans doute, si avec fidelité elles se servent des remedes qui leur sont donnés pour leur guérison, car c’est une chose asseurée que qui est fidele aux petites choses, Dieu le constituera sur des grandes^ signe et bonne condition pour luy donner sa voix. Car bien que nonobstant cela elle ne laisse pas de faire des fautes, et mesmes assez grandes, il ne faut pas pourtant luy refuser sa voix ; car bien qu'en l’année de son Novitiat (m’> elle doive travailler en la reformation de ses mœurs et habitudes, ce n’est pas à dire pour cela qu’elle ne doive point faire de cheute, ni quelle doive à la fin de son Novitiat estre parfaite. Car regardez au college de Nostre Seigneur, les glorieux Apostres : encore qu’ils fussent bien appelles et qu’ils eussent beaucoup travaillé en la reformation de leur vie, combien firent-ils de fautes non seulement en la première année, mais aussi en la seconde et troisiesme. Tous disoyent et promet-toyent merveilles, voire mesme de suivre Nostre Seigneur à la mort et dans la prison ; mais la nuict de. Lucæ, xxn, 33. la Passion, que l’on vint prendre leur bon Maistre, tous l’abandonnèrent. Je veux dire par là que (n’) les cheutes *Matt., XXVI, 56. ne doivent pas estre cause que l’on rejette une fille,
 
 (m’j pour luy donner sa voix. — Vous me dites que l’on void bien que ceste fille travaille à son amendement et qu’elle tesmoigne une bonne volonté ; mais par cy par là elle ne laisse pas de faire de grandes fautes, et mesmes assez souvent : comme l’on peut cognoistre qu’elle ayt ceste bonne volonté de s’amender, puisque en toute l’année de son Novitiat ses cheutes ont esté si frequentes ? Or voyez-vous, bien qu’en ceste année-là
 

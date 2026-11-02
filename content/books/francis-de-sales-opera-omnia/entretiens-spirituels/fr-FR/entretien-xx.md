@@ -1,158 +1,22 @@
 # Entretien XX. De la prétention religieuse
 
-La question que nostre Mere me fait, de vous declarer, mes cheres filles, la prétention que l’on doit avoir pour entrer en Religion, est bien la plus importante, la plus necessaire et la plus utile qui se puisse faire. Certes, mes cheres filles, plusieurs filles entrent en Religion, qui ne sçavent pas pourquoy. Elles viendront en un parloir, elles verront des Religieuses avec un visage serein, tenant bonne mine, bien modestes, fort contentes, elles diront en elles-mesmes : Mon Dieu, qu’il fait bon là ! allons-y ; aussi bien le monde nous fait mauvaise mine, nous n’y rencontrons point nos prétentions. Une autre dira : Mon Dieu, que l’on chante bien là dedans ! Les autres y viennent pour y rencontrer la paix, les consolations et toutes sortes de douceurs, disant en leur pensée : Mon Dieu, que les Religieuses
+La question que nostre Mere me fait, de vous declarer, mes cheres filles, la prétention que l’on doit avoir pour entrer en Religion, est bien la plus importante, la plus necessaire et la plus utile qui se puisse faire. Certes, mes cheres filles, plusieurs filles entrent en Religion, qui ne sçavent pas pourquoy. Elles viendront en un parloir, elles verront des Religieuses avec un visage serein, tenant bonne mine, bien modestes, fort contentes, elles diront en elles-mesmes : Mon Dieu, qu’il fait bon là ! allons-y ; aussi bien le monde nous fait mauvaise mine, nous n’y rencontrons point nos prétentions. Une autre dira : Mon Dieu, que l’on chante bien là dedans ! Les autres y viennent pour y rencontrer la paix, les consolations et toutes sortes de douceurs, disant en leur pensée : Mon Dieu, que les Religieuses sont heureuses ! elles sont hors du bruit de pere, de mere, qui ne font autre chose que crier ; on ne sçauroit rien faire qui les contente, c’est tousjours à recommencer. Nostre Seigneur promet à ceux qui quittent le monde pour son service plusieurs consolations ; allons donc en Religion.
 
-sont heureuses ! elles sont hors du bruit de pere, de mere,
+Voicy, mes cheres filles, trois sortes de prétentions qui ne valent rien pour entrer en la maison de Dieu. Il faut, par nécessité, que ce soit Dieu qui bastisse la W cité, ou autrement, bien qu’elle fust bastie, il la faudroit ruiner. Je veux croire, mes cheres filles, que vos prétentions sont toutes autres, et partant que vous avez toutes bon cœur et que Dieu bénira ceste petite troupe commençante. Il me vient en l’esprit deux similitudes pour vous donner à entendre sur quoy et comment vostre prétention doit estre fondée pour estre solide ; mais je me contenteray d’en expliquer une qui suffira. Posez le cas qu’un architecte veuille bastir une maison ; il fait deux choses : premièrement, il considere si son bastiment doit servir pour quelque particulier, pour un prince, ou bien pour un roy, à cause qu’il faut qu’il y procede de differente maniéré ; puis il calcule à loisir si ses moyens sont bastans pour cela, car qui se voudroit mesler de bastir une haute tour, et qu’il n’eust pas de quoy fournir son bastiment, on se mocqueroit de luy, d’avoir commencé une chose de laquelle il ne pour Lucæ, xiv, 28-30. roit sortir à son honneur ; puis il faut qu’il se resolve de ruiner le vieil bastiment qui est en la place où il en veut édifier un nouveau.
 
-qui ne font autre chose que crier ; on ne sçauroit rien
-
-faire qui les contente, c’est tousjours à recommencer.
-
-Nostre Seigneur promet à ceux qui quittent le monde
-
-pour son service plusieurs consolations ; allons donc en
-
-Religion.
-
-Voicy, mes cheres filles, trois sortes de prétentions
-
-qui ne valent rien pour entrer en la maison de Dieu. Il
-
-faut, par nécessité, que ce soit Dieu qui bastisse la W
-
-cité, ou autrement, bien qu’elle fust bastie, il la faudroit ruiner *. Je veux croire, mes cheres filles, que vos
-
-prétentions sont toutes autres, et partant que vous avez
-
-toutes bon cœur et que Dieu bénira ceste petite troupe
-
-commençante. Il me vient en l’esprit deux similitudes
-
-pour vous donner à entendre sur quoy et comment
-
-vostre prétention doit estre fondée pour estre solide ;
-
-mais je me contenteray d’en expliquer une qui suffira.
-
-Posez le cas qu’un architecte veuille bastir une maison ;
-
-il fait deux choses : premièrement, il considere si son
-
-bastiment doit servir pour quelque particulier, pour un
-
-prince, ou bien pour un roy, à cause qu’il faut qu’il y
-
-procede de differente maniéré ; puis il calcule à loisir
-
-si ses moyens sont bastans pour cela, car qui se voudroit
-
-mesler de bastir une haute tour, et qu’il n’eust pas
-
-de quoy fournir son bastiment, on se mocqueroit de
-
-luy, d’avoir commencé une chose de laquelle il ne pour* Lucæ, xiv, 28-30. roit sortir à son honneur* ; puis il faut qu’il se resolve
-
-de ruiner le vieil bastiment qui est en la place où il en
-
-veut édifier un nouveau.
-
-Nous voulons faire un grand bastiment, mes cheres
-
-filles, qui est d’edifier chez nous la demeure de Dieu te).
-
-Partant, considérons bien meurement si nous avons
-
-suffisamment du courage et de la resolution pour nous
-
-pour entrer en — Religion, qui est la maison de Dieu. Il faut nécessairement que ce soit Dieu qui bastisse la ville ou (Ms.)
-
-fournir — à la despense (Ms.) — pour un tel bastiment (Coll.)
-
-qui est — de loger Dieu chez nous et nous rendre son temple vivant. (Ms. et Coll.)
+Nous voulons faire un grand bastiment, mes cheres filles, qui est d’edifier chez nous la demeure de Dieu te). Partant, considérons bien meurement si nous avons suffisamment du courage et de la resolution pour nous pour entrer en — Religion, qui est la maison de Dieu. Il faut nécessairement que ce soit Dieu qui bastisse la ville ou (Ms.) fournir — à la despense (Ms.) — pour un tel bastiment (Coll.) qui est — de loger Dieu chez nous et nous rendre son temple vivant. (Ms. et Coll.)
 
 ruiner nous-mesmes et nous crucifier, ou plustost pour
 
-ermettre à Dieu mesme de nous ruiner et nous crucifier, à fin qu’il nous reedifie pour estre le temple vivant de sa Majesté *. Je dis donc, mes cheres filles, que nostre ♦I Cor., in, 16, 17 ;
+ermettre à Dieu mesme de nous ruiner et nous crucifier, à fin qu’il nous reedifie pour estre le temple vivant de sa Majesté. Je dis donc, mes cheres filles, que nostre ♦I Cor., in, 16, 17 ;
 
 Ephes., 11, 21, 22.
 
 unique prétention doit estre de nous unir à Dieu comme Jésus Christ s’est uni à Dieu son Pere, qui a esté en mourant sur la croix ; car je n’entens point vous parler de ceste union generale qui se fait par le Baptesme, où les Chrestiens s’unissent à Dieu en prenant ce divin Sacrement et caractère du Christianisme, et s’obligent à garder ses commandemens, ceux de la sainte Eglise, s’exercer aux bonnes œuvres, pratiquer les vertus de la foy, esperance et charité ; et partant leur union est valable, et peuvent justement prétendre au Paradis, S’unissant par ce moyen à Dieu comme à leur Dieu, ils ne sont point obligés à davantage ; ils ont atteint leur but par la voye generale et spacieuse des commandemens. Mais quant à vous, mes cheres filles, il n’en va pas ainsi ; car outre ceste commune obligation que vous avez avec tous les Chrestiens, Dieu, par un amour tout spécial, vous a choisies pour estre ses cheres espouses.
 
-Il faut sçavoir comment, et que c’est d’estre Religieuses. C’est estre reliées à Dieu par la continuelle mortification de nous-mesmes, et ne vivre que pour Dieu, nostre propre cœur servant tousjours à sa divine Majesté, nos yeux, nostre langue, nos mains et tout le reste le servant continuellement. C’est pourquoy vous voyez que la Religion vous fournit de moyens tous propres à cest effet, qui sont l’oraison, les lectures, silence, retraitte du propre cœur pour se reposer en Dieu seul, elancemens continuels (’) à Nostre Seigneur. Et parce que nous ne sçaurions arriver à cela que par une continuelle pratique de mortification de toutes nos passions, inclinations, humeurs et aversions, nous sommes obligés à veiller continuellement sur nous-mesmes
+Il faut sçavoir comment, et que c’est d’estre Religieuses. C’est estre reliées à Dieu par la continuelle mortification de nous-mesmes, et ne vivre que pour Dieu, nostre propre cœur servant tousjours à sa divine Majesté, nos yeux, nostre langue, nos mains et tout le reste le servant continuellement. C’est pourquoy vous voyez que la Religion vous fournit de moyens tous propres à cest effet, qui sont l’oraison, les lectures, silence, retraitte du propre cœur pour se reposer en Dieu seul, elancemens continuels (’) à Nostre Seigneur. Et parce que nous ne sçaurions arriver à cela que par une continuelle pratique de mortification de toutes nos passions, inclinations, humeurs et aversions, nous sommes obligés à veiller continuellement sur nous-mesmes à fin de faire mourir tout cela. Sçachez, mes cheres filles, que si le grain de froment tombant en terre ne meurt, il demeurera tout seul ; mais s’il pourrit, *joan., xn, 24,25. il rapportera au centuple : la parole de Nostre Seigneur y est toute claire, sa tres-sainte bouche l’ayant elle-mesme prononcée. Par conséquent, vous qui prétendez à l’habit, et vous autres qui prétendez la sainte Profession, regardez bien plus d’une fois si vous avez assez de resolution pour mourir à vous-mesmes et ne vivre qu’à Dieu. Pesez bien le tout ; le temps est encore long pour y penser, avant que vos voiles soyent teints en noir ; car je vous déclaré, mes cheres filles, et je ne vous veux point flatter, quiconque desire vivre selon la nature, qu’il demeure au monde ; et ceux qui sont determines de vivre selon la grâce, viennent en la Religion, laquelle n’est autre chose qu’une escole de l’abnégation Constit. xi.iv. et mortification de soy-mesme : c’est pourquoy vous voyez qu’elle vous fournit de plusieurs outils de mortification, tant inferieurs qu’exterieurs.
 
-à fin de faire mourir tout cela. Sçachez, mes cheres
-
-filles, que si le grain de froment tombant en terre
-
-ne meurt, il demeurera tout seul ; mais s’il pourrit,
-
-*joan., xn, 24,25. il rapportera au centuple * : la parole de Nostre Sei­
-
-gneur y est toute claire, sa tres-sainte bouche l’ayant
-
-elle-mesme prononcée. Par conséquent, vous qui pré­
-
-tendez à l’habit, et vous autres qui prétendez la sainte
-
-Profession, regardez bien plus d’une fois si vous avez
-
-assez de resolution pour mourir à vous-mesmes et ne
-
-vivre qu’à Dieu. Pesez bien le tout ; le temps est encore
-
-long pour y penser, avant que vos voiles soyent teints
-
-en noir ; car je vous déclaré, mes cheres filles, et je ne
-
-vous veux point flatter, quiconque desire vivre selon la
-
-nature, qu’il demeure au monde ; et ceux qui sont deter­
-
-mines de vivre selon la grâce, viennent en la Religion,
-
-laquelle n’est autre chose qu’une escole de l’abnégation
-
-* Constit. xi.iv. et mortification de soy-mesme * : c’est pourquoy vous
-
-voyez qu’elle vous fournit de plusieurs outils de mortifi­
-
-cation, tant inferieurs qu’exterieurs.
-
-Mais, mon Dieu ! me direz-vous, ce n’est pas cela que
-
-je cherchois ; je pensois qu’il suffisoit pour estre bonne
-
-Religieuse, d’avoir désir de bien faire l’oraison* avoir
-
-des visions et révélations, voir des Anges en forme
-
-d’homme, estre ravie en extase, aymer bien la lecture
-
-des bons livres. Et quoy ? j’estois si vertueuse, ce me
-
-sembloit, si mortifiée, si humble ! tout le monde m’ad-
-
-miroit. N’estoit-ce pas estre bien humble de parler si
-
-doucement à ses compagnes des choses de dévotion,
-
-raconter les sermons estant chez soy, traiter doucement
-
-avec ceux du logis, sur tout quand ils ne contredisoyent
-
-point ? Certes, mes cheres filles, cela estoit bon pour le
-
-monde ; mais la Religion veut que l’on fasse des œuvres
-
-» Ephes., iv, 1. dignes de sa vocation *, c’est à dire, mourir à soy-mesme
-
-en toutes choses, tant à ce qui est bon à nostre gré
-
-si mortifiée — au inonde, et si humble que chacun m’admiroit. N’estoit-
-
-ce pas estre bien humble et vertueuse que (Ms.)
-
- advis (Ms. et Coll.)
+Mais, mon Dieu ! me direz-vous, ce n’est pas cela que je cherchois ; je pensois qu’il suffisoit pour estre bonne Religieuse, d’avoir désir de bien faire l’oraison avoir des visions et révélations, voir des Anges en forme d’homme, estre ravie en extase, aymer bien la lecture des bons livres. Et quoy ? j’estois si vertueuse, ce me sembloit, si mortifiée, si humble ! tout le monde m’admiroit. N’estoit-ce pas estre bien humble de parler si doucement à ses compagnes des choses de dévotion, raconter les sermons estant chez soy, traiter doucement avec ceux du logis, sur tout quand ils ne contredisoyent point ? Certes, mes cheres filles, cela estoit bon pour le monde ; mais la Religion veut que l’on fasse des œuvres » Ephes., iv, 1. dignes de sa vocation, c’est à dire, mourir à soy-mesme en toutes choses, tant à ce qui est bon à nostre gré si mortifiée — au inonde, et si humble que chacun m’admiroit. N’estoit-ce pas estre bien humble et vertueuse que (Ms.) advis (Ms. et Coll.)
 
 qu’aux choses mauvaises et inutiles. Pensez-vous que ces bons Religieux du desert qui sont parvenus à une si grande union avec Dieu, y soyent arrivés en suivant leurs inclinations ? Certes nenny ; ils se sont mortifiés és choses les plus saintes, et bien qu’ils eussent grand goust à chanter les divins cantiques, à lire, prier et autres choses, ils ne le faisovent point pour se contenter eux-mesmes. Nullement ; au contraire, ils se privoyent volontairement de ces plaisirs pour s’adonner à des œuvres de travail et pénibles W.
 
@@ -160,85 +24,19 @@ Il est bien vray, certes, que les âmes religieuses reçoivent mille suavités e
 
 ( ) de ces plaisirs, quoy que bons et licites, pour s’adonner à des œuvres de travail et de peine. (Ms.)
 
-[ linéa suivant ne se trouve ni dans le Ms. ni dans les Colloques.'}
+[ linéa suivant ne se trouve ni dans le Ms. ni dans les Colloques.'} perfection à laquelle il s’est obligé de prétendre, puisque nous ne serons jamais parfaitement guéris que nous ne soyons en Paradis.
 
-perfection à laquelle il s’est obligé de prétendre, puisque
+Quand vostre Réglé vous dit « que l’on demande les livres à l’heure assignée, » pensez-vous que ce soit pour l’ordinaire ceux qui vous contentent le plus que l’on vous donne ? Nullement, ce n’est pas là l’intention de la Réglé ; et ainsi des autres exercices. Une Sœur se sentira, ce luy semble, fort portée à faire l’oraison à dire l'Office, à estre en retraite, et on luy dit : Ma Sœur, allez à la cuisine, ou bien : Faites telle ou telle chose. C’est une mauvaise nouvelle pour une fille qui est bien devote. Je dis donc qu’il (°) faut mourir à fin que Dieu vive en nous, car il est impossible d’acquérir l’union de nostre ame avec Dieu par un autre moyen que par la mortification. Ces paroles sont dures : Il faut mourir ; mais elles sont suivies d’une grande douceur : c’est à fin d’estre unies à Dieu par ceste mort. Vous devez sçavoir que nulle personne sage ne met point Matt., ix, 17. le vin nouveau dans un vieil vaisseau ; la liqueur du divin amour ne peut entrer où le vieil Adam régné, il faut de nécessité le destruire. Mais comment, me direz-vous, le destruire ? Comment, mes cheres filles ? par l’obeissance ponctuelle à vos Réglés. Je vous asseure de la part de Dieu, que si vous estes fidelles à faire ce qu’elles vous enseignent, vous parviendrez sans doute au but que vous devez prétendre, qui est de vous unir à Dieu. Remarquez que je dis faire, car l’on n’acquiert
 
-nous ne serons jamais parfaitement guéris que nous ne
+0 non, ma chere fille, quand vostre Réglé dit que l’on demandera « les livres à l’heure assignée, » elle n’entend pas que l’on demande ceux qui nous contentent le plus, pour cela. Nullement, ce n’est pas son intention, ni moins (Ms.)
 
-soyons en Paradis.
+attirée (Ms.)
 
-Quand vostre Réglé vous dit* « que l’on demande les
+ou telle chose. — Ne vous semble-t’il pas que ce soit une mauvaise nouvelle pour une fille bien devote ? Je reviens tousjours, mes cheres filles, à ce que nous avons desja souventesfois dit : il (Ms.)
 
-livres à l’heure assignée, » pensez-vous que ce soit pour
+par — l’observance ponctuelle de vos Constitutions. Je vous puis asseurer (Ms.)
 
-l’ordinaire ceux qui vous contentent le plus que l’on
-
-vous donne ? Nullement, ce n’est pas là l’intention de
-
-la Réglé ; et ainsi des autres exercices. Une Sœur
-
-se sentira, ce luy semble, fort portée à faire l’oraison
-
-à dire l'Office, à estre en retraite, et on luy dit : Ma
-
-Sœur, allez à la cuisine, ou bien : Faites telle ou telle
-
-chose. C’est une mauvaise nouvelle pour une fille qui
-
-est bien devote. Je dis donc qu’il (°) faut mourir à fin
-
-*Galat., u, 20. que Dieu vive en nous *, car il est impossible d’acquérir
-
-l’union de nostre ame avec Dieu par un autre moyen
-
-que par la mortification. Ces paroles sont dures : Il faut
-
-mourir ; mais elles sont suivies d’une grande douceur :
-
-c’est à fin d’estre unies à Dieu par ceste mort. Vous
-
-devez sçavoir que nulle personne sage ne met point
-
-* Matt., ix, 17. le vin nouveau dans un vieil vaisseau * ; la liqueur
-
-du divin amour ne peut entrer où le vieil Adam régné,
-
-il faut de nécessité le destruire. Mais comment, me
-
-direz-vous, le destruire ? Comment, mes cheres filles ? par
-
-l’obeissance ponctuelle à vos Réglés. Je vous asseure
-
-de la part de Dieu, que si vous estes fidelles à faire ce
-
-qu’elles vous enseignent, vous parviendrez sans doute
-
-au but que vous devez prétendre, qui est de vous unir
-
-à Dieu. Remarquez que je dis faire, car l’on n’acquiert
-
- 0 non, ma chere fille, quand vostre Réglé dit que l’on demandera
-
-« les livres à l’heure assignée, » elle n’entend pas que l’on demande ceux qui
-
-nous contentent le plus, pour cela. Nullement, ce n’est pas son intention, ni
-
-moins (Ms.)
-
- attirée (Ms.)
-
-ou telle chose. — Ne vous semble-t’il pas que ce soit une mauvaise
-
-nouvelle pour une fille bien devote ? Je reviens tousjours, mes cheres filles,
-
-à ce que nous avons desja souventesfois dit : il (Ms.)
-
- par — l’observance ponctuelle de vos Constitutions. Je vous puis
-
-asseurer (Ms.)
-
- je dis — qu’il faut (Ms.)
+je dis — qu’il faut (Ms.)
 
 pas la perfection en croisant les bras ; il faut travailler a. bon escient à se dompter soy-mesme, et vivre selon la raison, la Réglé et l'obeissance, et non pas selon les inclinations que nous avons apportées du monde. La Religion toléré bien que nous apportions nos mauvaises habitudes, passions et inclinations, mais non pas que nous vivions selon icelles. Elle nous donne des Réglés pour servir à nos cœurs de pressoirs, et en faire sortir tout ce qui est contraire à Dieu : vivez donc courageusement selon icelles.
 
@@ -248,7 +46,7 @@ Vous me dites, ma Mere, que nos Sœurs les Prétendantes sont de bonne volonté,
 
 On ne requiert pas de vous que vous n'ayez point de passions ; il n’est pas en vostre pouvoir, et Dieu veut que vous les ressentiez jusques à la mort pour vostre plus grand merite ; ni mesme qu’elles soyent peu fortes, car ce seroit dire qu’une ame mal habituée ne peut estre propre à servir Dieu. Le monde se trompe en ceste pensée, Dieu ne rejette rien de ce où la malice ne se rencontre point ; car dites-moy, je vous prie, que peut mais une personne d’estre de telle ou telle temperature, sujette à telle ou telle passion ? Le tout gist donc aux actes que nous en faisons par ce mouvement, lequel dépend de nostre volonté, le peche estant si volontaire que sans nostre consentement il n’y a point de péché. Posez le cas que la colere me surprenne. Je luy diray : tourne, retourne, creve si tu veux ; si ne feray-je rien en ta faveur, non pas seulement prononcer une parole selon ton mouvement. Dieu nous a laissé ce pouvoir ; autrement ce seroit, en nous demandant la perfection, nous obliger à chose impossible, et partant injustice, laquelle ne se peut rencontrer en Dieu.
 
-A ce propos, il me vient en pensée de vous raconter une histoire qui vous est propre. Lors que Moyse descendit de la montagne d’où il venoit de parler à Dieu, il vid le peuple qui ayant fait un veau d’or, l’adoroit. Espris d’une juste colere du zele de la gloire de Dieu, il dit en se tournant vers les Levites : S’il y a quelqu’un qui tienne le -parti de Dieu, qu’il prenne l’espée en main pour tuer tout ce qui se présentera à luy, sans espargner ni pere, ni mere, ni frere, ni sœur ; qu’il mette tout à mort. Les Levites donc prirent l’espée en main, et le plus brave c’estoit celuy qui en tua le plus *. ’Exod.,xxxn,a6-a8. De mesme, mes cheres filles, prenez l’espée de la mortification en main pour tuer et anéantir vos passions ; et celle qui en aura le plus à tuer sera la plus vaillante, si elle veut coopérer à la grâce. Ces deux jeunes âmes que voicy W, dont l’une passe un peu seize ans, l’autre n en a que quinze M, elles ont peu à tuer ; aussi leur
+A ce propos, il me vient en pensée de vous raconter une histoire qui vous est propre. Lors que Moyse descendit de la montagne d’où il venoit de parler à Dieu, il vid le peuple qui ayant fait un veau d’or, l’adoroit. Espris d’une juste colere du zele de la gloire de Dieu, il dit en se tournant vers les Levites : S’il y a quelqu’un qui tienne le -parti de Dieu, qu’il prenne l’espée en main pour tuer tout ce qui se présentera à luy, sans espargner ni pere, ni mere, ni frere, ni sœur ; qu’il mette tout à mort. Les Levites donc prirent l’espée en main, et le plus brave c’estoit celuy qui en tua le plus. ’Exod.,xxxn,a6-a8. De mesme, mes cheres filles, prenez l’espée de la mortification en main pour tuer et anéantir vos passions ; et celle qui en aura le plus à tuer sera la plus vaillante, si elle veut coopérer à la grâce. Ces deux jeunes âmes que voicy W, dont l’une passe un peu seize ans, l’autre n en a que quinze M, elles ont peu à tuer ; aussi leur
 
 que voicy devant moy, dont l’une n’a que quinze ans et l’autre seize (Ms.)
 
@@ -260,7 +58,7 @@ Suivez sans crainte ceste boussole divine, <c’) c’est Nostre Seigneur ; la b
 
 XX. De la Prétention Religieuse 381
 
-que je vous dis : Marchez par l’observance ponctuelle et fidelle, car qui mesprisera (e’> sa voye sera tué, dit Salomon *. * Prov., xix, 16.
+que je vous dis : Marchez par l’observance ponctuelle et fidelle, car qui mesprisera (e’> sa voye sera tué, dit Salomon. * Prov., xix, 16.
 
 Vous dites, ma Mere, que nos Sœurs disent : Cela est bon de marcher par les Réglés, mais c’est la voye generale. Dieu nous attire par des attraits particuliers, chacun a le sien spécial, nous ne sommes pas toutes tirées par un mesme chemin. Elles ont raison de le dire et il est véritable ; mais il est vray aussi que si cest attrait vient de Dieu, il les conduira à l’obeissance sans doute. Il n’appartient pas à nous autres, qui sommes inferieurs, de juger de nos attraits particuliers ; cela est du devoir des Supérieurs, et pour cela la direction particulière est ordonnée. Soyez-y bien fidelles, et vous en rapporterez le fruict de bénédiction. Si vous faites ce qui vous est enseigné, mes cheres filles, vous serez tres-heureuses, vous vivrez contentes et expérimenterez dés ce monde les faveurs du Paradis, au moins par petits eschantillons. Mais prenez garde que s’il vous vient quelque goust inferieur et caresse de Nostre Seigneur, de ne vous y attacher pas ; c’est comme un peu d’anis confit que l’apothicaire met sur la potion amere du malade : il faut que le malade avale la medecine bien amere, pour sa santé, et bien qu’il T) prenne de la main de l’apothicaire ces grains sucrés, il faut par nécessité qu’il ressente par apres les amertumes de la purgation.
 

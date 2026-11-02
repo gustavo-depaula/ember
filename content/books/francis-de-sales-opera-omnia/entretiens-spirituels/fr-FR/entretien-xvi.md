@@ -10,11 +10,7 @@ La première demande est : Qu’est-ce qu’aversion ? (®) Les aversions sont c
 
 Or, pour monstrer que cecy est naturel, d’aymer les uns par inclination et non pas les autres, ne void-on pas que si deux hommes entrent dans un tripot où deux autres joüent à la paume, d’abord ceux qui entrent auront de l’inclination que l’un gaigne plustost que l’autre ? Et d’où vient cela, puisqu’ils ne les ont jamais veus ni l’un ni l’autre, ni n’en avoyent jamais ouy parler, ne sçachant point si l’un est plus vertueux que l’autre ? c’est pourquoy ils n’ont point de raison d'en affectionner plus l’un que l’autre, Il faut donc confesser que ceste inclination d’aymer les uns plus que les autres est naturelle ; et l’on le void mesmes aux bestes, lesquelles n’ayant point de raison, ont toutesfois de l’aversion et de l’inclination naturellement. Faites en l’experience en un petit agnelet qui ne fait que naistre : monstrez-luy la peau d’un loup ; quoy qu’il soit mort, il se mettra à fuir, il beelera, il se cachera sous les flancs de sa mere ; mais monstrez-luy un cheval, qui est bien une plus grosse beste, il ne s’en espouvantera nullement, ains il se joüera avec luy. La raison de cela n’est autre, sinon que le naturel luy donne de l’alliance avec l’un et de l’aversion à l'autre.
 
-Or, de ces aversions naturelles il n’en faut pas faire grand cas, non plus que des inclinations, pourveu que nous sousmettions le tout à la raison. Ay-je de l’aversion de converser avec une personne, laquelle je sçay bien estre de grande vertu et avec laquelle je puis beaucoup profiter ? il ne faut pas que je suive mon aversion qui me fait eviter de la rencontrer ; il faut que j’assujettisse ceste inclination W à la raison qui me doit faire rechercher sa conversation, ou au moins y demeurer
-
-Les vrays Entretiens spirituels
-
-avec un esprit de paix et de tranquillité quand je m’y rencontre. Mais il y a des personnes qui ont si grand peur d’avoir de l’aversion’ à ceux qu’ils ayment par inclination, qu’ils en fuyent la conversation, de crainte qu’ils ont de rencontrer quelque defaut qui leur oste la suavité de leur affection et de leur amitié, ü)
+Or, de ces aversions naturelles il n’en faut pas faire grand cas, non plus que des inclinations, pourveu que nous sousmettions le tout à la raison. Ay-je de l’aversion de converser avec une personne, laquelle je sçay bien estre de grande vertu et avec laquelle je puis beaucoup profiter ? il ne faut pas que je suive mon aversion qui me fait eviter de la rencontrer ; il faut que j’assujettisse ceste inclination W à la raison qui me doit faire rechercher sa conversation, ou au moins y demeurer 2go Les vrays Entretiens spirituels avec un esprit de paix et de tranquillité quand je m’y rencontre. Mais il y a des personnes qui ont si grand peur d’avoir de l’aversion’ à ceux qu’ils ayment par inclination, qu’ils en fuyent la conversation, de crainte qu’ils ont de rencontrer quelque defaut qui leur oste la suavité de leur affection et de leur amitié, ü)
 
 Quel remede à ces aversions, puisque nul n’en peut estre exempt, pour parfait qu’il soit ? Ceux qui sont d’un naturel aspre auront de l’aversion à celuy qui sera fort doux, et estimeront ceste douceur une trop grande mollesse, bien que ceste qualité de douceur soit la plus universellement aymée. L’unique remede à ce mal, comme à toute autre sorte de tentation, c’est une simple diversion ; je veux dire, n’y point penser. Mais le malheur est que nous voulons trop bien cognoistre si nous avons raison ou non d’avoir aversion à quelque personne. O jamais il ne faut s’amuser à ceste recherche ; car nostre amour propre, qui ne dort (') jamais, nous dorera si bien la pillule qu’il nous fera accroire qu’elle est bonne ; je veux dire qu’il nous fera voir qu’il est vray que nous avons certaines raisons lesquelles nous sembleront bonnes, et puis, celles-là estans approuvées de nostre propre jugement et de l’amour propre, il n’y aura plus de moyen de nous empescher de les trouver justes et raisonnables.
 
@@ -32,73 +28,9 @@ La troisiesme demande est si nous nous devons estonner de voir des imperfections
 
 Il y a bien différence entre avoir la cessation d’un vice et avoir la vertu qui luy est contraire. Plusieurs semblent estre fort vertueux, qui n’ont pourtant point de vertu, parce qu’ils ne l'ont pas acquise en travaillant. Bien souvent il arrive que nos passions dorment et demeurent assoupies ; et si pendant ce temps-là nous ne faisons provision de forces pour les combattre et leur résister, quand elles viendront à se réveiller, nous serons vaincus au combat. Il faut tousjours demeurer humbles et ne pas croire que nous ayons les vertus, encore que nous ne fassions pas, au moins que nous cognoissions, des fautes qui leur sont contraires. Certes, il y a beaucoup de gens qui se trompent grandement en ce qu’ils croyent que les personnes qui font profession de la perfection ne devroyent point broncher en des imperfections, et particulièrement les Religieux, parce qu’il leur semble qu’il ne faille qu’entrer en la Religion pour estre parfaits, ce qui n’est pas ; car les Religions ne sont pas pour amasser des personnes parfaites, mais des personnes qui ayent le courage de prétendre à la perfection,
 
-Mais que faudroit-il faire si l’on voyoit de l’imperfection aux Supérieures aussi bien qu’aux autres ? ne faudroit-il pas s’en estonner ? car on ne met pas des Supérieures imparfaites, dites-vous. Helas ! mes cheres filles, si l’on ne vouloit mettre des Supérieurs et Supérieures sinon qu’ils fussent parfaits, il faudroit prier Dieu de nous envoyer des Saints ou des Anges pour l’estre, car des hommes nous n’en trouverons point. L’on recherche voirement qu’ils ne soyent pas de mauvais exemple ; mais de n’avoir point d’imperfection l’on n’y prend pas garde, pourveu qu’ils ayent les conditions de l’esprit qui sont necessaires ; d’autant qu’il s’en trouveroit bien de plus parfaits, qui pour cela ne seroyent pas tant capables d’estre Supérieurs. Hé ! dites-moy, Nostre Seigneur ne nous a-t’il pas monstre luy-mesme qu’il n’y falloit pas
+Mais que faudroit-il faire si l’on voyoit de l’imperfection aux Supérieures aussi bien qu’aux autres ? ne faudroit-il pas s’en estonner ? car on ne met pas des Supérieures imparfaites, dites-vous. Helas ! mes cheres filles, si l’on ne vouloit mettre des Supérieurs et Supérieures sinon qu’ils fussent parfaits, il faudroit prier Dieu de nous envoyer des Saints ou des Anges pour l’estre, car des hommes nous n’en trouverons point. L’on recherche voirement qu’ils ne soyent pas de mauvais exemple ; mais de n’avoir point d’imperfection l’on n’y prend pas garde, pourveu qu’ils ayent les conditions de l’esprit qui sont necessaires ; d’autant qu’il s’en trouveroit bien de plus parfaits, qui pour cela ne seroyent pas tant capables d’estre Supérieurs. Hé ! dites-moy, Nostre Seigneur ne nous a-t’il pas monstre luy-mesme qu’il n’y falloit pas prendre garde, en l'élection qu’il lit de saint Pierre pour le rendre Supérieur de tous les Apostres ? car chacun sçait quelle faute fit cest Apostre en la Mort et Passion de son Maistre, s’amusant à parler avec une chambrière, et reniant si malheureusement son tres-cher Seigneur qui luy avoit fait tant de bien ; il fit le bravache, et puis en fin il print la fuite. Mais outre cela, dés qu’il fut confirmé en grâce par la réception du Saint Esprit, encore fit-il une faute qui fut jugée de telle importance, que saint Paul escrivant aux Galates, leur dit qu’il luy avoit résisté en face parce qu’il estoit reprehensible. W Et non seulement saint Pierre, mais encore saint Paul et saint Barnabé, lesquels voulant aller prescher l’Evangile, eurent une petite dispute ensemble, parce que saint Barnabé vouloit mener avec eux Jean Marc qui estoit son cousin : saint Paul estoit d’opinion contraire et ne vouloit pas qu'il allast avec eux, et saint Barnabé ne vouloit pas ceder à la volonté de saint Paul ; et ainsi ils se séparèrent et allèrent prescher, saint Paul en une contrée, et Act., xv, 37-41. saint Barnabé en l’autre avec son cousin Jean Marc. Bien est-il vray que Nostre Seigneur tira du bien de leur dispute ; car au lieu qu'ils n’eussent presché qu’en un endroit de la terre, ils jetterent la semence de l’Evangile en divers lieux.
 
-prendre garde, en l'élection qu’il lit de saint Pierre pour
-
-le rendre Supérieur de tous les Apostres ? car chacun
-
-sçait quelle faute fit cest Apostre en la Mort et Passion
-
-de son Maistre, s’amusant à parler avec une chambrière,
-
-et reniant si malheureusement son tres-cher Seigneur
-
-qui luy avoit fait tant de bien ; il fit le bravache, et puis
-
-en fin il print la fuite. Mais outre cela, dés qu’il fut con­
-
-firmé en grâce par la réception du Saint Esprit, encore
-
-fit-il une faute qui fut jugée de telle importance, que saint Paul escrivant aux Galates *, leur dit qu’il luy avoit
-
-résisté en face parce qu’il estoit reprehensible. W Et
-
-non seulement saint Pierre, mais encore saint Paul et
-
-saint Barnabé, lesquels voulant aller prescher l’Evangile,
-
-eurent une petite dispute ensemble, parce que saint
-
-Barnabé vouloit mener avec eux Jean Marc qui estoit son
-
-cousin : saint Paul estoit d’opinion contraire et ne vouloit
-
-pas qu'il allast avec eux, et saint Barnabé ne vouloit pas
-
-ceder à la volonté de saint Paul ; et ainsi ils se séparè­
-
-rent et allèrent prescher, saint Paul en une contrée, et * Act., xv, 37-41. saint Barnabé en l’autre avec son cousin Jean Marc*.
-
-Bien est-il vray que Nostre Seigneur tira du bien de
-
-leur dispute ; car au lieu qu'ils n’eussent presché qu’en
-
-un endroit de la terre, ils jetterent la semence de l’Evan­
-
-gile en divers lieux.
-
-Ne pensons pas, tandis que nous serons en ceste vie,
-
-de pouvoir vivre sans commettre des imperfectoins <a’) ;
-
-car il ne se peut, soit que nous soyons Supérieurs, soit
-
-que nous soyons inferieurs, puisque nous sommes tous
-
-hommes, et par conséquent avons tous besoin de croire
-
-ceste vérité comme tres-asseurée, à fin que nous ne nous
-
-estonnions pas de nous voir tous sujets à des imperfec­
-
-tions. Nostre Seigneur nous a ordonné de dire tous les
-
-jours ces paroles qui sont au Pater : Pardonnez-nous
-
-reprehensible. — Et puis nous autres, nous nous estonnerons que nos Supérieurs fassent des fautes, apres avoir veu saint Pierre estre reprehensible, voire mesme apres avoir receu le Saint Esprit ! (Ms. et Coll.)
-
-(a’) des imperfections, — voire des péchés veniels (Ms. et Coll.) nos oÿences, comme nous pardonnons à ceux qui nous ont offencés* ; et n’y a point d’exception en ceste * Matt., vi, 12. ordonnance, parce que nous avons tous besoin de le faire. Ce n’est pas une bonne conséquence de dire : Un tel est Supérieur, donc il n’est point colere et n’a point d’autre imperfection. Vous vous estonnez dequoy venant parler à la Supérieure, elle vous dit quelque parole moins douce que l’ordinaire, parce qu’elle a peut estre la teste toute pleine de soucis et affaires (b’) ; vostre amour propre s’en va tout troublé, au lieu de penser que Dieu a permis ceste petite secheresse à la Supérieure pour mortifier vostre amour propre, qui recherchoit que la Supérieure vous caressast un peu, recevant amiablement ce que vous luy vouliez dire. Mais en fin il nous fasche bien de rencontrer la mortification où nous ne la cherchons pas. Helas ! il s’en faut aller, priant Dieu pour la Supérieure, le bénissant de ceste bien-aymée contradiction. En un mot, mes cheres filles, ressouvenons-nous des paroles du grand Apostre saint Paul* : La charité * 1 Cor., xm, 5.
+Ne pensons pas, tandis que nous serons en ceste vie, de pouvoir vivre sans commettre des imperfectoins <a’) ; car il ne se peut, soit que nous soyons Supérieurs, soit que nous soyons inferieurs, puisque nous sommes tous hommes, et par conséquent avons tous besoin de croire ceste vérité comme tres-asseurée, à fin que nous ne nous estonnions pas de nous voir tous sujets à des imperfections. Nostre Seigneur nous a ordonné de dire tous les jours ces paroles qui sont au Pater : Pardonnez-nous reprehensible. — Et puis nous autres, nous nous estonnerons que nos Supérieurs fassent des fautes, apres avoir veu saint Pierre estre reprehensible, voire mesme apres avoir receu le Saint Esprit ! (Ms. et Coll.) (a’) des imperfections, — voire des péchés veniels (Ms. et Coll.) nos oÿences, comme nous pardonnons à ceux qui nous ont offencés ; et n’y a point d’exception en ceste Matt., vi, 12. ordonnance, parce que nous avons tous besoin de le faire. Ce n’est pas une bonne conséquence de dire : Un tel est Supérieur, donc il n’est point colere et n’a point d’autre imperfection. Vous vous estonnez dequoy venant parler à la Supérieure, elle vous dit quelque parole moins douce que l’ordinaire, parce qu’elle a peut estre la teste toute pleine de soucis et affaires (b’) ; vostre amour propre s’en va tout troublé, au lieu de penser que Dieu a permis ceste petite secheresse à la Supérieure pour mortifier vostre amour propre, qui recherchoit que la Supérieure vous caressast un peu, recevant amiablement ce que vous luy vouliez dire. Mais en fin il nous fasche bien de rencontrer la mortification où nous ne la cherchons pas. Helas ! il s’en faut aller, priant Dieu pour la Supérieure, le bénissant de ceste bien-aymée contradiction. En un mot, mes cheres filles, ressouvenons-nous des paroles du grand Apostre saint Paul : La charité 1 Cor., xm, 5.
 
 ne pense point de mal ; <c’) voulant dire que dés qu’elle le void elle s’en destourne, sans y penser ni s’amuser à le considerer.
 
@@ -122,11 +54,11 @@ Voyez-vous, ceste petite vertu de l’amour de nostre abjection ne doit jamais s
 
 estoit — basteleur et (Ms. et Coll.)
 
-bien trompé, car la passion de la joye ressuscita tellement, qu’apres les badineries il parvint aux dissolutions, de sorte qu’on se résolut de le chasser du monastère ; ce que l’on eust fait sans un de ses Freres Religieux, lequel se rendit pleige pour Sylvain, promettant qu’il s’amenderoit : ce qui arriva, et fut depuis un grand Saint*. Voila donc, mes cheres Sœurs, comment il ne *vitæPatrum,vita se faut jamais oublier de ce que nous avons este, a fin c> xxxvin. que nous ne devenions pires, et ne pas penser que nous soyons parfaits quand nous ne commettons pas beaucoup d’imperfections.
+bien trompé, car la passion de la joye ressuscita tellement, qu’apres les badineries il parvint aux dissolutions, de sorte qu’on se résolut de le chasser du monastère ; ce que l’on eust fait sans un de ses Freres Religieux, lequel se rendit pleige pour Sylvain, promettant qu’il s’amenderoit : ce qui arriva, et fut depuis un grand Saint. Voila donc, mes cheres Sœurs, comment il ne *vitæPatrum,vita se faut jamais oublier de ce que nous avons este, a fin c> xxxvin. que nous ne devenions pires, et ne pas penser que nous soyons parfaits quand nous ne commettons pas beaucoup d’imperfections.
 
-Il faut aussi prendre garde de ne nous pas estonner si nous avons des passions, car nous n’en serons jamais exempts (£’> ; ces hermites qui voulurent dire le contraire furent censurés par le sacré Concile*, et leur opinion *Conc.Ephes., Pars condamnée et tenue pour erreur. Nous ferons donc tous- ’ c ' vn‘ jours quelques fautes ; mais il faut faire en sorte qu’elles soyent rares et qu’il ne s’en voye que deux en cinquante ans, ainsi qu’il ne s’en vid que deux en autant de temps que vesquirent les Apostres apres qu’ils eurent receu le Saint Esprit. Encore qu’il s’en verrait trois ou quatre, voire sept ou huict, en une si grande suite d’années, il ne s’en faudrait pas fascher ni perdre courage, ains prendre haleine et se fortifier pour mieux faire.
+Il faut aussi prendre garde de ne nous pas estonner si nous avons des passions, car nous n’en serons jamais exempts (£’> ; ces hermites qui voulurent dire le contraire furent censurés par le sacré Concile, et leur opinion *Conc.Ephes., Pars condamnée et tenue pour erreur. Nous ferons donc tous- ’ c ' vn‘ jours quelques fautes ; mais il faut faire en sorte qu’elles soyent rares et qu’il ne s’en voye que deux en cinquante ans, ainsi qu’il ne s’en vid que deux en autant de temps que vesquirent les Apostres apres qu’ils eurent receu le Saint Esprit. Encore qu’il s’en verrait trois ou quatre, voire sept ou huict, en une si grande suite d’années, il ne s’en faudrait pas fascher ni perdre courage, ains prendre haleine et se fortifier pour mieux faire.
 
-Disons encor ce mot pour la Supérieure. Les Sœurs ne doivent pas s’estonner dequoy la Supérieure commet (e’) des imperfections, puisque saint Pierre, tout Pasteur qu’il estoit de la sainte Eglise et Supérieur universel de tous les Chrestiens, tomba bien en defaut, et tel qu’il en merita correction, ainsi que dit saint Paul*. De *Ubi supra, p. 296. mesme, la Supérieure ne doit pas tesmoigner de l’eston-nement si l’on void ses fautes, mais elle doit <h’) observer l’humilité et la douceur avec laquelle saint Pierre receut la correction que luy fit saint Paul, nonobstant qu’il fust son Supérieur. L’on ne sçait ce qui est plus considérable, ou la force du courage de saint Paul à reprendre saint Pierre, ou l’humilité avec laquelle saint Pierre se sousmit à la correction qui luy estoit faite, voire pour une chose en laquelle il pensoit bien faire et avoit une fort bonne intention. Passons outre.
+Disons encor ce mot pour la Supérieure. Les Sœurs ne doivent pas s’estonner dequoy la Supérieure commet (e’) des imperfections, puisque saint Pierre, tout Pasteur qu’il estoit de la sainte Eglise et Supérieur universel de tous les Chrestiens, tomba bien en defaut, et tel qu’il en merita correction, ainsi que dit saint Paul. De *Ubi supra, p. 296. mesme, la Supérieure ne doit pas tesmoigner de l’eston-nement si l’on void ses fautes, mais elle doit <h’) observer l’humilité et la douceur avec laquelle saint Pierre receut la correction que luy fit saint Paul, nonobstant qu’il fust son Supérieur. L’on ne sçait ce qui est plus considérable, ou la force du courage de saint Paul à reprendre saint Pierre, ou l’humilité avec laquelle saint Pierre se sousmit à la correction qui luy estoit faite, voire pour une chose en laquelle il pensoit bien faire et avoit une fort bonne intention. Passons outre.
 
 Vous demandez en quatriesme lieu, s’il arrivoit un jour qu’une Supérieure eust tant d’inclination de complaire aux personnes seculieres, sous pretexte de leur profiter, qu’elle en laissast le soin particulier qu’elle doit avoir des filles qui sont en sa charge, ou bien qu’elle n'eust pas assez de temps pour faire ce qui est des affaires de la maison, à cause qu’elle demeureroit trop longuement au parloir, si elle ne seroit pas obligée de retrancher ceste inclination, encore que son intention fust bonne. Je vous diray à cela que les Supérieurs doivent estre grandement affables aux (*’) séculiers à fin de leur profiter, et doivent de bon cœur leur donner une partie de leur temps. Mais quelle pensez-vous devoir estre ceste petite partie ? ce doit estre la douziesme, les unze restans pour estre employées dans la maison au soin de la famille. Les abeilles sortent bien voirement de leur ruche, mais ce n’est que par nécessité ou utilité, et demeurent peu sans y retourner ; et principalement le roy des abeilles ne sort que rarement, comme quand il se fait un essaim d’abeilles, qu’il est tout environné de son petit peuple. La Religion ü’) est une ruche mystique toute pleine d’abeilles celestes, lesquelles sont assemblées pour mesnager le miel des celestes vertus ; et pour cela il faut que la Supérieure, qui est entre elles
 
@@ -162,9 +94,7 @@ rieur ou confesseur quand l’on a des insatisfactions de
 
 la Supérieure. O Dieu, ma fille, se plaindre ! n’ay-je
 
-pas dit à Philothée, que « pour l’ordinaire, qui se plaint
-
-*Partieiii,chap.ni. peche * » ? Or, de se plaindre à la Supérieure quand
+pas dit à Philothée, que « pour l’ordinaire, qui se plaint *Partieiii,chap.ni. peche » ? Or, de se plaindre à la Supérieure quand
 
 une Sœur nous a mortifiée, cela est tolerable à une fille
 
@@ -186,45 +116,11 @@ voudrois dire tout confidemment, ou bien luy faire faire
 
 l’advertissement par sa Coadjutrice, comme la Constitu-
 
-* Constit. xxxv. tion l'ordonne*.
+[Pour cette variante, voir la remarque, p. 291.]
 
- [Pour cette variante, voir la remarque, p. 291.]
+Passons à la seconde question, qui est s’il est loisible à une Sœur de se plaindre un peu quelquefois à une autre, dequoy la Supérieure, ou la Maistresse des Novices, ou bien une Sœur, l’auroit faschée ou ne l’auroit pas bien satisfaite en quelque occasion ; et s’il ne vaudrait pas bien mieux faire ces plaintes au confesseur ou Pere spirituel, si c’est la Supérieure, ou à la Supérieure si c’est la Maistresse ou une Sœur qui nous a faschée, que non pas de nous addresser à quelque Sœur particulière ? 0 mon Dieu, se plaindre est une chose bien dangereuse ; car, comme nous avons dit en l’Introduction, « pour l’ordinaire, qui se plaint peche. » La première façon, de se plaindre à une Sœur et parler de l’imperfection de celle qui ne nous a pas satisfaite, est tout à fait mauvaise ; la seconde, de le dire aux Supérieurs, est tolerable aux imparfaits- Mais pour nous autres, ô je voudrois bien que nous ne fussions pas si tendres que de nous vouloir plaindre pour la moindre insatisfaction que nous recevons du prochain, lequel n’a peut estre nulle intention de nous fascher. Il ne faut pas dire grande chose sur ce sujet ; il suffit que nous sçachions que, sans marchander, il s’en faut amender, estant une chose d’assez grande importance. (Ms. et Coll.)
 
-Passons à la seconde question, qui est s’il est loisible à une Sœur de se
-
-plaindre un peu quelquefois à une autre, dequoy la Supérieure, ou la
-
-Maistresse des Novices, ou bien une Sœur, l’auroit faschée ou ne l’auroit pas
-
-bien satisfaite en quelque occasion ; et s’il ne vaudrait pas bien mieux faire
-
-ces plaintes au confesseur ou Pere spirituel, si c’est la Supérieure, ou à la
-
-Supérieure si c’est la Maistresse ou une Sœur qui nous a faschée, que non pas
-
-de nous addresser à quelque Sœur particulière ? 0 mon Dieu, se plaindre est une
-
-chose bien dangereuse ; car, comme nous avons dit en l’Introduction, « pour
-
-l’ordinaire, qui se plaint peche. » La première façon, de se plaindre à une Sœur
-
-et parler de l’imperfection de celle qui ne nous a pas satisfaite, est tout à fait
-
-mauvaise ; la seconde, de le dire aux Supérieurs, est tolerable aux imparfaits-
-
-Mais pour nous autres, ô je voudrois bien que nous ne fussions pas si tendres
-
-que de nous vouloir plaindre pour la moindre insatisfaction que nous recevons
-
-du prochain, lequel n’a peut estre nulle intention de nous fascher. Il ne faut
-
-pas dire grande chose sur ce sujet ; il suffit que nous sçachions que, sans
-
-marchander, il s’en faut amender, estant une chose d’assez grande importance.
-
-(Ms. et Coll.)
-
- Voir les notes, pp. 68 et 286.
+Voir les notes, pp. 68 et 286.
 
 L’on demande s il est loisible de nommer a la
 
@@ -240,7 +136,7 @@ Cecy est de plus grande importance que l’on ne pense. Aller dire à une Sœur 
 
 20
 
-nous pouvons bien dire nos péchés veniels haut et clair à tout le monde pour nous humilier, mais non nos péchés mortels, parce que nous ne sommes pas maistres de nostre réputation. A plus forte raison sommes-nous obligés de couvrir ceux du prochain, luy en faisant toutesfois la correction fraternelle, ainsi que la Constitution * Constit. xxv. vous enseigne *. Une Sœur aura dit devant d’autres quelque parole qui part de passion, ou fait quelque petit murmure, quelque mine froide : ô cela vous le pouvez dire à la Supérieure, voire mesme l’advertir en chapitre ou au réfectoire.
+nous pouvons bien dire nos péchés veniels haut et clair à tout le monde pour nous humilier, mais non nos péchés mortels, parce que nous ne sommes pas maistres de nostre réputation. A plus forte raison sommes-nous obligés de couvrir ceux du prochain, luy en faisant toutesfois la correction fraternelle, ainsi que la Constitution Constit. xxv. vous enseigne. Une Sœur aura dit devant d’autres quelque parole qui part de passion, ou fait quelque petit murmure, quelque mine froide : ô cela vous le pouvez dire à la Supérieure, voire mesme l’advertir en chapitre ou au réfectoire.
 
 Certes, nous devrions avoir une si cordiale jalousie de la paix et tranquillité de nos cheres Sœurs, que nous ne devrions jamais rien faire ni dire qui les puisse fascher ; or, rien ne peut tant affliger une pauvre fille que de croire que la Supérieure est faschée d’elle
 

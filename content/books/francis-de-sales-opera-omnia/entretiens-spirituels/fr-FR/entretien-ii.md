@@ -1,16 +1,16 @@
 # Entretien II. De la confiance
 
-Vous me demandez, mes tres-cheres filles, si une ame ayant le sentiment de sa misere peut aller à Dieu avec une grande confiance. Or, je responds que non seulement l’ame qui a la cognoissance de sa misere peut avoir une grande confiance en Dieu, mais qu’elle ne peut avoir une vraye confiance qu’elle n’ayt la cognoissance de sa misere ; car ceste cognoissance et confession de nostre misere nous introduit devant Dieu, Ainsi tous les grands Saints, comme Job, David et les autres, commençoient toutes leurs prières par la confession de leur misere et indignité ; de sorte que c’est une tres-bonne chose de se recognoistre pauvre, vil, abject <«), et indigne de comparoistre en la présence de Dieu. Ce mot tant celebre entre les Anciens, « Cognois-toy toy-mesme *, » encores qu’il s’entende de * Socratis dictum ;
+Vous me demandez, mes tres-cheres filles, si une ame ayant le sentiment de sa misere peut aller à Dieu avec une grande confiance. Or, je responds que non seulement l’ame qui a la cognoissance de sa misere peut avoir une grande confiance en Dieu, mais qu’elle ne peut avoir une vraye confiance qu’elle n’ayt la cognoissance de sa misere ; car ceste cognoissance et confession de nostre misere nous introduit devant Dieu, Ainsi tous les grands Saints, comme Job, David et les autres, commençoient toutes leurs prières par la confession de leur misere et indignité ; de sorte que c’est une tres-bonne chose de se recognoistre pauvre, vil, abject <«), et indigne de comparoistre en la présence de Dieu. Ce mot tant celebre entre les Anciens, « Cognois-toy toy-mesme, » encores qu’il s’entende de Socratis dictum ;
 
 ex inscript. Delph.
 
-la cognoissance de la grandeur et excellence de l’ame, pour ne la point avilir et prophaner en des choses indignes de sa noblesse, il s’entend aussi de la cognoissance de nostre indignité, imperfection et misere : d’autant que tant plus que nous nous cognoistrons misérables, tant plus nous nous confierons en la bonté et misericorde de Dieu ; car, entre la misericorde et la misere, il y a une* certaine liaison si grande, que l’une ne se peut exercer sans l’autre. Si Dieu n’eust point créé l'homme, il eust esté vrayement te) tout bon, mais il n’eust point esté actuellement miséricordieux» d’autant que la misericorde ne s’exerce qu’envers les misérables (D.
+la cognoissance de la grandeur et excellence de l’ame, pour ne la point avilir et prophaner en des choses indignes de sa noblesse, il s’entend aussi de la cognoissance de nostre indignité, imperfection et misere : d’autant que tant plus que nous nous cognoistrons misérables, tant plus nous nous confierons en la bonté et misericorde de Dieu ; car, entre la misericorde et la misere, il y a une certaine liaison si grande, que l’une ne se peut exercer sans l’autre. Si Dieu n’eust point créé l'homme, il eust esté vrayement te) tout bon, mais il n’eust point esté actuellement miséricordieux» d’autant que la misericorde ne s’exerce qu’envers les misérables (D.
 
 Vous voyez donc que tant plus nous nous cognoissons misérables, tant plus nous avons occasion de nous confier en Dieu, puisque nous n’avons rien de quoy nous confier en nous mesmes. La deffiance de nous-mesmes provient de la cognoissance de nos imperfections. Il est bien bon de se deffier de soy-mesme, mais de quoy nous serviroit-il de le faire, sinon pour jetter toute nostre confiance en Dieu et nous attendre à sa misericorde ? (0 Les fautes et les infidélités que nous commettons tous les jours nous doivent bien apporter de la honte et confusion lors que nous voulons approcher de Nostre Seigneur : et ainsi lisons-nous qu’il y a des grandes âmes, comme sainte Catherine de Sienne et la Mere Therese, qui lors qu’elles estoient tombées en quelque defaut, avoient de ces grandes confusions ;
 
 Iî. De la Confiance 2Î
 
-aussi est il bien raisonnable qu’ayant offencé Dieu nous nous retirions un peu par humilité, et demeurions confus, car si seulement nous avons offencé un amy, nous avons bien honte de l’aborder ; mais il n'en faut pas demeurer là, car ces vertus d’humilité, d’abjection et de confusion, sont des vertus mitoyennes, par lesquelles nous devons monter à l'union de nostre ame avec son Dieu. Ce ne seroit pas grande chose de s'estre anéanti et despoüillé de soy-mesme (ce qui se fait par des actes de confusion), si ce n’estoit pour se donner tout à Dieu, ainsi que saint Paul nous l’enseigne quand il dit*: * Coioss., 111,9,10. Des-poilillez-vous du vieil homme, et vous revestez du nouveau ; car il ne faut pas demeurer nud, ains se revestir de Dieu. Ce petit reculement ne se fait que pour mieux s’eslancer en Dieu par un acte d’amour et de confiance, car il ne se faut pas confondre tristement et avec inquiétude W : c’est l’amour propre qui donne ces confusions-là, parce que nous sommes marris de n’estre pas parfaits, non tant pour l’amour de Dieu que pour l’amour de nous-mesmes.
+aussi est il bien raisonnable qu’ayant offencé Dieu nous nous retirions un peu par humilité, et demeurions confus, car si seulement nous avons offencé un amy, nous avons bien honte de l’aborder ; mais il n'en faut pas demeurer là, car ces vertus d’humilité, d’abjection et de confusion, sont des vertus mitoyennes, par lesquelles nous devons monter à l'union de nostre ame avec son Dieu. Ce ne seroit pas grande chose de s'estre anéanti et despoüillé de soy-mesme (ce qui se fait par des actes de confusion), si ce n’estoit pour se donner tout à Dieu, ainsi que saint Paul nous l’enseigne quand il dit: Coioss., 111,9,10. Des-poilillez-vous du vieil homme, et vous revestez du nouveau ; car il ne faut pas demeurer nud, ains se revestir de Dieu. Ce petit reculement ne se fait que pour mieux s’eslancer en Dieu par un acte d’amour et de confiance, car il ne se faut pas confondre tristement et avec inquiétude W : c’est l’amour propre qui donne ces confusions-là, parce que nous sommes marris de n’estre pas parfaits, non tant pour l’amour de Dieu que pour l’amour de nous-mesmes.
 
 Et si bien vous ne sentez pas une telle confiance, si ne faut-il pas laisser d’en faire les actes, et dire à Nostre Seigneur : Encore, mon Seigneur, W que je n’aye aucun sentiment de confiance en vous, je sçay pourtant que vous estes mon Dieu, que je suis toute vostre, et n’ay esperance qu’en vostre bonté ; ainsi je m’abandonne toute entre vos mains. Et il est tousjours aussi avoir. C’est luy qui nous fait dire : Helas, Seigneur, je n’oserois jamais m’approcher de vous, je suis si misérable en tout ! Cela est une satisfaction de l’amour propre qui nous aveugle. Je ne dis pas que ces confusions ne soyent bonnes quand elles sont bien appliquées, car il est raisonnable qu’ayant offencé Dieu nous nous retirions un peu par humilité et demeurions confuses, d’autant que si seulement nous avons offencé un amy nous avons honte de l’aborder : bien est vray qu’il n’en faut pas demeurer là, parce que les vertus (Ms. et Coll.) [Reprendre au texte, lig. 5.]
 
@@ -34,93 +34,23 @@ brin (Coll.)
 
 de rien — du tout (Ms. et Coll.)
 
-plus de son bon plaisir en enfer ils quitteraient le
+plus de son bon plaisir en enfer ils quitteraient le Paradis pour y aller. Cest estât du délaissement de soy-mesme comprend aussi l’abandonnement au bon plaisir de Dieu en toutes tentations, aridités, sécheresses, aversions et répugnances qui arrivent en la vie spirituelle ; car en toutes ces choses l’on y void le bon plaisir de Dieu, quand elles n’arrivent pas par nostre defaut et qu’il n’y a pas du péché.
 
-Paradis pour y aller. Cest estât du délaissement de
+M En fin l’abandonnement est la vertu des vertus : c’est la cresme de la charité, l’odeur de l’humilité, le merite, ce semble, de la patience et le fruict de la persévérance ; grande est ceste vertu, et seule digne d’estre pratiquée des plus chers enfans de Dieu. Mon Pere, Lucæ, xxm, 46. dit nostre doux Sauveur sur la croix, je remets mon esprit entre vos mains. Il est vray, vouloit-il dire, que joan., xix, 30. tout est consommé et que j’ay tout accompli ce que ’ibid., xvn, 4. vous m’avez commandé; mais pourtant, si telle est vostre volonté que je demeure encore sur ceste croix pour souffrir davantage, j’en suis content ; je remets mon esprit entre vos mains, vous en pouvez faire tout ainsi qu’il vous plaira. Nous en devons faire de mesme, mes tres-cheres filles, en toute occasion, soit que nous souffrions ou que nous jouissions de quelque contentement, nous laissant ainsi conduire à la volonté divine, selon son bon plaisir, sans jamais nous laisser préoccuper de nostre volonté particulière.
 
-soy-mesme comprend aussi l’abandonnement au bon
-
-plaisir de Dieu en toutes tentations, aridités, séche­
-
-resses, aversions et répugnances qui arrivent en la vie
-
-spirituelle ; car en toutes ces choses l’on y void le bon
-
-plaisir de Dieu, quand elles n’arrivent pas par nostre
-
-defaut et qu’il n’y a pas du péché.
-
-M En fin l’abandonnement est la vertu des vertus :
-
-c’est la cresme de la charité, l’odeur de l’humilité, le
-
-merite, ce semble, de la patience et le fruict de la persé­
-
-vérance ; grande est ceste vertu, et seule digne d’estre
-
-pratiquée des plus chers enfans de Dieu. Mon Pere,
-
-* Lucæ, xxm, 46. dit nostre doux Sauveur sur la croix *, je remets mon
-
-esprit entre vos mains. Il est vray, vouloit-il dire, que
-
-* joan., xix, 30. tout est consommé* et que j’ay tout accompli ce que ’ibid., xvn, 4. vous m’avez commandé*; mais pourtant, si telle est
-
-vostre volonté que je demeure encore sur ceste croix
-
-pour souffrir davantage, j’en suis content ; je remets
-
-mon esprit entre vos mains, vous en pouvez faire
-
-tout ainsi qu’il vous plaira. Nous en devons faire de
-
-mesme, mes tres-cheres filles, en toute occasion, soit
-
-que nous souffrions ou que nous jouissions de quelque
-
-contentement, nous laissant ainsi conduire à la volonté
-
-divine, selon son bon plaisir, sans jamais nous laisser
-
-préoccuper de nostre volonté particulière.
-
-Nostre Seigneur ayme d’un amour extrêmement ten­
-
-dre ceux qui sont si heureux que de s’abandonner ainsi
-
-totalement à son soin paternel, se laissant gouverner
-
-par sa divine providence, sans s’amuser à considerer si
-
-les effets de ceste providence leur seront utiles, profi­
-
-tables, ou dommageables ; estant tout asseurés que rien
-
-ne leur sçauroit estre envoyé de ce cœur paternel et
-
-tres-aymable, ni qu’il ne permettra que rien leur arrive
-
-(a’) [Les deux alinéas suivants ne se trouvent pas dans le Ms. ni dans les
-
-Colloques, où, par contre, est intercalé un long fragment relatif aux Aversions.
-
-Voir à l’Appendice IL] . . de quoy il ne leur fasse tirer du bien et de l’utilité, pourveu que nous ayons rnis toute nostre confiance en luy et que de bon cœur nous disions : Je remets mon esprit, mon ame, mon corps et tout ce que j’ay entre vos benites mains, pour en faire selon qu’il vous plaira. Car jamais nous ne sommes réduits à telle extrémité, que nous ne puissions tousjours respandre devant la divine Majesté des parfums d’une sainte sousmission à sa tres-sainte volonté, et d’une continuelle promesse de ne le vouloir point offencer. Quelquefois Nostre Seigneur veut que les âmes choisies pour le service de sa divine Majesté se nourrissent d’une resolution ferme et invariable de perseverer à le suivre parmi les desgousts, sécheresses, répugnances et aspretés de la vie spirituelle, sans consolations, saveurs, tendretés et sans goust, et qu’elles croyent de n’estre dignes d’autre chose, suivant ainsi le divin Sauveur avec la fine pointe de l’esprit, sans autre appuy que celuy de sa divine volonté qui le veut ainsi. Et voila comme je desire que nous cheminions, mes cheres filles.
+Nostre Seigneur ayme d’un amour extrêmement tendre ceux qui sont si heureux que de s’abandonner ainsi totalement à son soin paternel, se laissant gouverner par sa divine providence, sans s’amuser à considerer si les effets de ceste providence leur seront utiles, profitables, ou dommageables ; estant tout asseurés que rien ne leur sçauroit estre envoyé de ce cœur paternel et tres-aymable, ni qu’il ne permettra que rien leur arrive (a’) [Les deux alinéas suivants ne se trouvent pas dans le Ms. ni dans les Colloques, où, par contre, est intercalé un long fragment relatif aux Aversions. Voir à l’Appendice IL] . . de quoy il ne leur fasse tirer du bien et de l’utilité, pourveu que nous ayons rnis toute nostre confiance en luy et que de bon cœur nous disions : Je remets mon esprit, mon ame, mon corps et tout ce que j’ay entre vos benites mains, pour en faire selon qu’il vous plaira. Car jamais nous ne sommes réduits à telle extrémité, que nous ne puissions tousjours respandre devant la divine Majesté des parfums d’une sainte sousmission à sa tres-sainte volonté, et d’une continuelle promesse de ne le vouloir point offencer. Quelquefois Nostre Seigneur veut que les âmes choisies pour le service de sa divine Majesté se nourrissent d’une resolution ferme et invariable de perseverer à le suivre parmi les desgousts, sécheresses, répugnances et aspretés de la vie spirituelle, sans consolations, saveurs, tendretés et sans goust, et qu’elles croyent de n’estre dignes d’autre chose, suivant ainsi le divin Sauveur avec la fine pointe de l’esprit, sans autre appuy que celuy de sa divine volonté qui le veut ainsi. Et voila comme je desire que nous cheminions, mes cheres filles.
 
 Or maintenant, vous me demandez à quoy se doit occuper intérieurement ceste ame qui est toute abandonnée entre les mains de Dieu. Elle ne fait rien sinon demeurer auprès de Nostre Seigneur, sans avoir souci d’aucune chose, non pas mesme de son corps ni de son ame ; car puisqu’elle s’est embarquée sous la providence de Dieu, qu’a-t’elle affaire de penser ce qu'elle deviendra ? Nostre Seigneur, auquel elle s’est toute délaissée, y pensera assez pour elle. Je n’entens pas pourtant de dire qu’il ne faille pas penser és choses ausquelles nous sommes obligés chacun selon, sa charge ; car il ne faut pas qu’un Supérieur, sous ombre de s’estre abandonné à Dieu et se reposer en son soin, négligé de lire et d’apprendre les enseignemens qui sont propres pour l’exercice de sa charge (b’E
 
 (b’) selon sa charge. — Par exemple, si on a donné à une Sœur le soin du jardin, il ne faut pas qu’elle die : Je n’y veux pas penser, Nostre Seigneur y
 
-Il est bien vray qu’il faut avoir une grande confiance pour s’abandonner ainsi sans aucune reserve à la
-
-Providence divine ; mais aussi, quand nous abandonnons tout, Nostre Seigneur prend soin de tout et conduit
-
-tout. Que si nous reservons quelque chose, de laquelle nous ne nous confions pas en luy, il nous la laisse, comme s’il disoit : Vous pensez estre assez sages pour faire ceste chose-là sans moy, je vous laisse gouverner, vous verrez comme vous vous en trouverez. Celles qui sont dediées à Dieu en la Religion doivent tout abandonner sans aucune reserve. Sainte Magdelaine, qui s’estoit toute abandonnée à la volonté de Nostre Seigneur, demeuroit à ses pieds et l’escoutoit tandis qu’il *Lucæ, x, 31. parloit * ; et lors qu’il cessoit de parler, elle cessoit aussi d’escouter, mais elle ne bougeoit pourtant d’auprès de luy. Ainsi ceste ame qui s’est délaissée n’a autre chose à faire qu’à demeurer entre les bras de Nostre Seigneur comme un enfant dans le sein de sa mere, lequel, quand elle le met en bas pour cheminer, il chemine jusques à tant que sa mere le reprenne, et quand elle le veut porter il luy laisse faire. Il ne sçait point et ne pense point où il va, mais il se laisse porter ou mener où il plaist à sa mere : tout de mesme ceste ame, aymant la volonté du bon plaisir de Dieu en tout ce qu’il luy arrive, se laisse porter et chemine neantmoins, faisant <c’> avec grand soin tout ce qui est de la volonté de Dieu signifiée.
+Il est bien vray qu’il faut avoir une grande confiance pour s’abandonner ainsi sans aucune reserve à la Providence divine ; mais aussi, quand nous abandonnons tout, Nostre Seigneur prend soin de tout et conduit tout. Que si nous reservons quelque chose, de laquelle nous ne nous confions pas en luy, il nous la laisse, comme s’il disoit : Vous pensez estre assez sages pour faire ceste chose-là sans moy, je vous laisse gouverner, vous verrez comme vous vous en trouverez. Celles qui sont dediées à Dieu en la Religion doivent tout abandonner sans aucune reserve. Sainte Magdelaine, qui s’estoit toute abandonnée à la volonté de Nostre Seigneur, demeuroit à ses pieds et l’escoutoit tandis qu’il parloit ; et lors qu’il cessoit de parler, elle cessoit aussi d’escouter, mais elle ne bougeoit pourtant d’auprès de luy. Ainsi ceste ame qui s’est délaissée n’a autre chose à faire qu’à demeurer entre les bras de Nostre Seigneur comme un enfant dans le sein de sa mere, lequel, quand elle le met en bas pour cheminer, il chemine jusques à tant que sa mere le reprenne, et quand elle le veut porter il luy laisse faire. Il ne sçait point et ne pense point où il va, mais il se laisse porter ou mener où il plaist à sa mere : tout de mesme ceste ame, aymant la volonté du bon plaisir de Dieu en tout ce qu’il luy arrive, se laisse porter et chemine neantmoins, faisant <c’> avec grand soin tout ce qui est de la volonté de Dieu signifiée.
 
 Vous dites maintenant, s’il est bien possible que nostre volonté soit tellement morte en Nostre Seigneur que nous ne sçachions plus ce que nous voulons ou ce que nous ne voulons pas. Or je dis en premier lieu, qu’il n’arrive jamais, pour abandonnés que nous prouvoira bien. De mesme, une Supérieure, une Maistresse des Novices, il ne faut pas que sous ombre de dire : Je me suis abandonnée à Dieu, je me repose en son soin, elles négligent de lire et d’apprendre l’exercice de leur charge. (Ms. et Coll.)
 
 (c’) ceste ame —■ se laisse porter quand elle ayme la volonté du bon plaisir de Dieu en tout ce qui luy arrive, et chemine neantmoins quand elle fait (Ms.) soyons, que nostre franchise et la liberté de nostre arbitre ne nous demeurent, de sorte qu’il nous vient tousjours quelque désir et quelque volonté ; mais ce ne sont pas des volontés absolues et des désirs formés W, car si tost qu’une ame qui s’est délaissée au bon plaisir de Dieu apperçoit en soy quelque volonté, elle la fait incontinent mourir en la volonté de Dieu.
 
-Vous voudriez aussi sçavoir (e’) si une ame encore bien imparfaite pourroit demeurer utilement devant Dieu avec ceste simple attention à sa sainte presence en l’oraison Et je vous dis que si Dieu vous y met, vous y pouvez bien demeurer, car il arrive assez souvent que Nostre Seigneur donne ces quiétudes et tranquillités à des âmes qui ne sont pas bien purgées ; mais tandis qu’elles ont encore besoin de se purger, elles doivent, hors l’oraison, faire des remarques et des considérations necessaires à leur amendement ; car, quand bien Dieu les tiendroit tousjours fort recueillies, il leur reste encor assez de liberté pour discourir avec l’entendement sur plusieurs choses indifferentes : pourquoy donc ne pourront-elles pas considerer et faire des resolutions pour leur amendement et pour la pratique des vertus ? Il y a des personnes fort parfaites ausquelles Nostre Seigneur ne donne jamais de telles douceurs ni de ces quiétudes, qui font tout avec la partie supérieure de leur ame, et font mourir leur volonté dans la volonté de Dieu à vive force et avec la pointe de la raison : et ceste mort icy est la mort de la croix *, laquelle (f’) est beaucoup * Philip., n, 8. plus excellente et plus genereuse que l’autre, que l’on doit plustost appeller un endormissement qu’une mort ; car ceste ame qui s’est embarquée dans la nef de la providence de Dieu se laisse aller et vogue doucement, comme une personne qui dormant dans un vaisseau sur
+Vous voudriez aussi sçavoir (e’) si une ame encore bien imparfaite pourroit demeurer utilement devant Dieu avec ceste simple attention à sa sainte presence en l’oraison Et je vous dis que si Dieu vous y met, vous y pouvez bien demeurer, car il arrive assez souvent que Nostre Seigneur donne ces quiétudes et tranquillités à des âmes qui ne sont pas bien purgées ; mais tandis qu’elles ont encore besoin de se purger, elles doivent, hors l’oraison, faire des remarques et des considérations necessaires à leur amendement ; car, quand bien Dieu les tiendroit tousjours fort recueillies, il leur reste encor assez de liberté pour discourir avec l’entendement sur plusieurs choses indifferentes : pourquoy donc ne pourront-elles pas considerer et faire des resolutions pour leur amendement et pour la pratique des vertus ? Il y a des personnes fort parfaites ausquelles Nostre Seigneur ne donne jamais de telles douceurs ni de ces quiétudes, qui font tout avec la partie supérieure de leur ame, et font mourir leur volonté dans la volonté de Dieu à vive force et avec la pointe de la raison : et ceste mort icy est la mort de la croix, laquelle (f’) est beaucoup Philip., n, 8. plus excellente et plus genereuse que l’autre, que l’on doit plustost appeller un endormissement qu’une mort ; car ceste ame qui s’est embarquée dans la nef de la providence de Dieu se laisse aller et vogue doucement, comme une personne qui dormant dans un vaisseau sur
 
 (d’) formels (Coll.)
 

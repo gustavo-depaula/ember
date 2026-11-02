@@ -1,0 +1,147 @@
+{
+  "id": "sales-controverses",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Les Controverses",
+    "en-US": "The Controversies",
+    "pt-BR": "As Controvérsias"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les traités de controverse composés par saint François de Sales en 1595-1596 pour ramener au catholicisme les habitants du Chablais : la défense de l’autorité de l’Église, les règles de la foi, les sacrements et le purgatoire. Texte critique des Œuvres d’Annecy (tome I) en orthographe d’époque, avec l’épître aux habitants de Thonon et les notes préparatoires.",
+    "en-US": "The controversy tracts composed by St. Francis de Sales in 1595-1596 to win back the people of the Chablais: the defence of the Church’s authority, the rules of faith, the sacraments and purgatory. The critical text of the Annecy edition (vol. I) in period spelling, with the epistle to the people of Thonon and the preparatory notes.",
+    "pt-BR": "Os tratados de controvérsia compostos por São Francisco de Sales em 1595-1596 para reconduzir à fé católica os habitantes do Chablais: a defesa da autoridade da Igreja, as regras da fé, os sacramentos e o purgatório."
+  },
+  "composed": "1596",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/controverses",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1892
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. I: Les Controverses, 1892 (file 01), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original 17th-century spelling, extracted from the PDF text layer (layout mode). Marginal references, the variants and footnotes, the editors’ general introduction and the tables are not included. The article headings are set as second-level headings; chapter titles come from the edition’s table of contents.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "epitre-avant-propos",
+      "title": {
+        "fr-FR": "Épître à Messieurs de Thonon et Avant-propos"
+      }
+    },
+    {
+      "id": "notes-preparatoires",
+      "title": {
+        "fr-FR": "Notes préparatoires"
+      }
+    },
+    {
+      "id": "partie-i-chapitre-i",
+      "title": {
+        "fr-FR": "Première partie. Chapitre I. Rayson I : de la Mission"
+      }
+    },
+    {
+      "id": "partie-i-chapitre-ii",
+      "title": {
+        "fr-FR": "Première partie. Chapitre II. Erreurs des Ministres sur la nature de l’Église"
+      }
+    },
+    {
+      "id": "partie-i-chapitre-iii",
+      "title": {
+        "fr-FR": "Première partie. Chapitre III. Les marques de l’Église"
+      }
+    },
+    {
+      "id": "partie-ii-avant-propos",
+      "title": {
+        "fr-FR": "Seconde partie. Les règles de la foi. Avant-propos"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-i",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre I. Que les réformateurs prétendus ont violé la sainte Escriture"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-ii",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre II. Que l’Église des prétendus a violé les traditions apostoliques"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-iii",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre III. Que les Ministres ont violé l’authorité de l’Église"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-iv",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre IV. Que les Ministres ont violé l’authorité des Conciles"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-v",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre V. Les Ministres ont violé l’authorité des anciens Pères de l’Église"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-vi",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre VI. Que les Ministres ont violé l’autorité du Pape"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-vii",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre VII. Que les Ministres ont violé l’autorité des Miracles"
+      }
+    },
+    {
+      "id": "partie-ii-chapitre-viii",
+      "title": {
+        "fr-FR": "Seconde partie. Chapitre VIII. Que les Ministres ont violé la Raison naturelle"
+      }
+    },
+    {
+      "id": "partie-iii-avant-propos",
+      "title": {
+        "fr-FR": "Troisième partie. Les règles de la foi sont observées dans l’Église catholique. Avant-propos"
+      }
+    },
+    {
+      "id": "partie-iii-chapitre-i",
+      "title": {
+        "fr-FR": "Troisième partie. Chapitre I. Des Sacremens"
+      }
+    },
+    {
+      "id": "partie-iii-chapitre-ii",
+      "title": {
+        "fr-FR": "Troisième partie. Chapitre II. Du Purgatoire"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

@@ -72,3 +72,29 @@ def write_book(book, bid, name, desc, composed, langs, editions, sources, toc, e
         d.update(extra)
     json.dump(d, open(f'{BOOKS}/{book}/book.json', 'w'), ensure_ascii=False, indent=2)
     open(f'{BOOKS}/{book}/book.json', 'a').write('\n')
+
+def leaf(cid, **titles):
+    return {'id': cid, 'title': {k.replace('_', '-'): v for k, v in titles.items()}}
+
+def subheads(paras, start_re=r'^␂\s*(ARTICLE|Article)\b'):
+    """Turn centered 'ARTICLE N' + title lines into '## ' headings."""
+    out, i = [], 0
+    while i < len(paras):
+        p = paras[i]
+        if re.match(start_re, p):
+            t = [p.lstrip('␂').strip()]
+            j = i + 1
+            while j < len(paras) and j < i + 4 and len(paras[j]) < 110 and (paras[j].startswith('␂') or paras[j].isupper() or (paras[j][:1].islower() and len(paras[j]) < 70 and not re.search(r'[.;:]$', paras[j]))) :
+                t.append(paras[j].lstrip('␂').strip())
+                j += 1
+            out.append('## ' + ' — '.join(t))
+            i = j
+            continue
+        out.append(p.lstrip('␂'))
+        i += 1
+    return out
+
+def trim_tail(paras):
+    while paras and (paras[-1].startswith('␂') or paras[-1].isupper() or len(paras[-1]) < 6):
+        paras = paras[:-1]
+    return paras

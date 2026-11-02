@@ -16,11 +16,7 @@ Je me tiendrais bien bas et petit, je m’humilierais et ferais les pratiques se
 
 Pour bien faire, entreprenons de bien mortifier nos humeurs et inclinations un peu bien à la bonne foy et tout de bon, car nous n’avons rien autre qui nous puisse empescher de bien faire que cela. Rien ne nous doit empescher de bien faire tout ce qui est marqué en nos Constitutions ; avec la grâce de Dieu, nous le pouvons et devons faire. Jamais nous ne nous devons estonner ni descourager pour estre sujettes à faire des fautes ; nous en ferons tousjours, Dieu le permettant ainsi pour nous faire pratiquer l’humilité : de nous-mesmes nous ne pouvons rien autre chose. Il m’est advis que si j’estois là dedans je serois bien joyeux ; je serois si content d’avoir tous mes exercices marqués ! Mais je ne m’empresserois jamais, ô non ; cela je le ferois encore bien, ce me semble, car dés à ceste heure je ne m’empresse jamais, je fais desja cela.
 
-Je m’humilierois en faisant les pratiques de vertu et d’humilité mesmes, selon les rencontres ; et si je ne sçavois pas m’humilier, je m’humilierois encore de ce que je ne sçaurois pas m’humilier. Et tousjours je tascherois le mieux que je pourrois de faire toutes mes actions en la presence de Dieu, avec le plus d’humilité et d’amour qu’il me seroit possible, car on apprend céans à faire ainsi, n’est-il pas vray ? Et qu’avons-nous à faire nous autres que cela ?
-
-Les vrays Entretiens spirituels
-
-en ce monde autre chose à faire que cela ? Rien du tout, nous sçavons tout ce qui est requis que nous sçachions pour cela, et à ceste heure il nous faut quitter nous-mesmes. Commençons tout de bon, Dieu nous aydera ; si nous avons le courage, nous ferons prou, Dieu aydant.
+Je m’humilierois en faisant les pratiques de vertu et d’humilité mesmes, selon les rencontres ; et si je ne sçavois pas m’humilier, je m’humilierois encore de ce que je ne sçaurois pas m’humilier. Et tousjours je tascherois le mieux que je pourrois de faire toutes mes actions en la presence de Dieu, avec le plus d’humilité et d’amour qu’il me seroit possible, car on apprend céans à faire ainsi, n’est-il pas vray ? Et qu’avons-nous à faire nous autres que cela ? 4oo Les vrays Entretiens spirituels en ce monde autre chose à faire que cela ? Rien du tout, nous sçavons tout ce qui est requis que nous sçachions pour cela, et à ceste heure il nous faut quitter nous-mesmes. Commençons tout de bon, Dieu nous aydera ; si nous avons le courage, nous ferons prou, Dieu aydant.
 
 Mais sçavez-vous encore, ma chere fille Simplicienne ? j’espere que je laisserais bien faire de moy tout ce que l’on voudrait, et lirais souvent les chapitres De l'Humilité et De la Modestie, de nos Constitutions. O ma fille, il les faut bien lire souvent et les bien pratiquer. Dieu nous en face la grâce et soit béni.
 
@@ -194,91 +190,17 @@ Nous luy dismes : Monseigneur, quand vous aurez fait l’Entretien comme il se f
 
 On luy demanda s’il se falloit confesser des imperfections, s’il estoit mal de le faire. Il dit qu’il apprenoit en la théologie, qu’il ne le falloit pas faire, mais que nous le pouvons sans qu’il y eust de mal ; que la methode qu’on nous avoit donnée nous le permet parce que nous ne sçavons pas discerner quand il y a du péché, c’est pourquoy nous donnons une généralité. Mais que pour les confessions ordinaires il n’en faut pas beaucoup dire ; le plus, deux ou trois. « Cela est bon d’en dire és confessions extraordinaires et annuelles ; et quand nous n’avons rien à dire pour nous confesser, il faut dire un péché du monde.
 
-* « Nous pouvons bien nous confesser quand nous avons du • Cf. l’Entretien xv, sentiment de quelque chose et quand nous avons fait quelque action p' 28?' en suite, quoy que legere, comme de dire quelque parole, car il y
+* « Nous pouvons bien nous confesser quand nous avons du • Cf. l’Entretien xv, sentiment de quelque chose et quand nous avons fait quelque action p' 28?' en suite, quoy que legere, comme de dire quelque parole, car il y peut avoir du péché. Il ne se faut pas mettre en peine de cela, car nous n’avons pas une perfection qui soit exempte d’amour propre qui ne nous fasse faire au moins quelque faute par cy par là ; il ne s’en faut nullement estonner. L'on s’en peut accuser ainsi ; Je m’accuse d’avoir fait quelque action par le mouvement du sentiment que j’avois à quelque chose que l’on faisoit contre mon inclination ou par impatience. Mais quand nous ne faisons rien par ce mouvement, il n’y a point de mal mais du merite. »
 
-peut avoir du péché. Il ne se faut pas mettre en peine de cela, car
+Et quant à l’acte de contrition, il dit que pour le bien faire il faut avoir un regret du mal passé et une resolution de ne le plus commettre, et le detester de tout son cœur. « Il ne faut pas avoir un sentiment qui nous fasse jetter des larmes, mais un desplaisir d’avoir ofïencé Dieu. Ce n’est pas chose contraire à la bonne volonté de retourner tousjours aux mesmes fautes, pourveu que ce ne soit pas volontairement. Le bon acte de contrition consiste à avoir une ferme resolution de ne vouloir plus offencer Dieu.
 
-nous n’avons pas une perfection qui soit exempte d’amour propre
+* « Pour les paroles inutiles, à la récréation il ne s’en dit pas ;
 
-qui ne nous fasse faire au moins quelque faute par cy par là ; il ne
+, . . ,
 
-s’en faut nullement estonner. L'on s’en peut accuser ainsi ; Je
+tout ce qui se dit par récréation n’est pas inutile. Il se faut bien recreer, et ne pas tenir tousjours l’esprit bandé, car il seroit dangereux de devenir triste et mélancolique. Il n’y auroit point de mal quand bien on auroit passé toute une récréation à parler de choses indifferentes, les paroles n’en seroyent pas inutiles ; il ne faut pas tousjours parler de choses bonnes. Les propos saintement joyeux sont quand il n’y a point de mal en ce que l’on dit, et qui ne regarde point l’imperfection d’autruy, car cela il ne le faut pas faire, ni parler du monde et de choses messeantes. De se rire un peu d’une Sœur, de dire quelque parole qui la mortifie un peu, [il n’y a point de mal,] pourveu que cela ne l’attriste pas, car il ne le faudroit pas faire ; mais si cela arrivoit, il ne s’en faut pas confesser, quand on l’auroit fait par simple récréation. Quand nous tendons à la perfection, il faut tendre au blanc, et ne se pas mettre en peine quand nous ne rencontrons pas. Il faut aller fort simplement, à la franche marguerite, et bien faire la récréation ; que si nostre. attention estoit en quelque chose, il l’en faudroit oster, si elle nous empeschoit de la faire. Et quand bien mesme on n’auroit pas pensé de la faire pour Dieu, il n’en faudroit point recevoir de scrupule, car l’intention generale suffit, quoy que pourtant au commencement il faut tascher de la dresser. Il la faut bien faire faire aux Novices, et il est de tres-grande importance que les filles la fassent bien.
 
-m’accuse d’avoir fait quelque action par le mouvement du sentiment
-
-que j’avois à quelque chose que l’on faisoit contre mon inclination
-
-ou par impatience. Mais quand nous ne faisons rien par ce mouve­
-
-ment, il n’y a point de mal mais du merite. »
-
-Et quant à l’acte de contrition, il dit que pour le bien faire il faut
-
-avoir un regret du mal passé et une resolution de ne le plus
-
-commettre, et le detester de tout son cœur. « Il ne faut pas avoir
-
-un sentiment qui nous fasse jetter des larmes, mais un desplaisir
-
-d’avoir ofïencé Dieu. Ce n’est pas chose contraire à la bonne volonté
-
-de retourner tousjours aux mesmes fautes, pourveu que ce ne soit
-
-pas volontairement. Le bon acte de contrition consiste à avoir une
-
-ferme resolution de ne vouloir plus offencer Dieu.
-
-• Cf. l’Entretien iv, * « Pour les paroles inutiles, à la récréation il ne s’en dit pas ; pp. 69, 70. , . . ,
-
-tout ce qui se dit par récréation n’est pas inutile. Il se faut bien
-
-recreer, et ne pas tenir tousjours l’esprit bandé, car il seroit dange­
-
-reux de devenir triste et mélancolique. Il n’y auroit point de mal
-
-quand bien on auroit passé toute une récréation à parler de choses
-
-indifferentes, les paroles n’en seroyent pas inutiles ; il ne faut pas
-
-tousjours parler de choses bonnes. Les propos saintement joyeux
-
-sont quand il n’y a point de mal en ce que l’on dit, et qui ne regarde
-
-point l’imperfection d’autruy, car cela il ne le faut pas faire, ni
-
-parler du monde et de choses messeantes. De se rire un peu d’une
-
-Sœur, de dire quelque parole qui la mortifie un peu, [il n’y a point
-
-de mal,] pourveu que cela ne l’attriste pas, car il ne le faudroit pas
-
-faire ; mais si cela arrivoit, il ne s’en faut pas confesser, quand on
-
-l’auroit fait par simple récréation. Quand nous tendons à la perfec­
-
-tion, il faut tendre au blanc, et ne se pas mettre en peine quand nous
-
-ne rencontrons pas. Il faut aller fort simplement, à la franche mar­
-
-guerite, et bien faire la récréation ; que si nostre. attention estoit en
-
-quelque chose, il l’en faudroit oster, si elle nous empeschoit de la
-
-faire. Et quand bien mesme on n’auroit pas pensé de la faire
-
-pour Dieu, il n’en faudroit point recevoir de scrupule, car l’intention
-
-generale suffit, quoy que pourtant au commencement il faut tascher
-
-de la dresser. Il la faut bien faire faire aux Novices, et il est de
-
-tres-grande importance que les filles la fassent bien.
-
-« Quand nous avons des pensées de mesestime contre le prochain,
-
-il n’y a point de mal quand nous ne les rejettons pas faute d’atten­
-
-tion ; suffit que nous les rejettions quand nous nous en appercevons.
+« Quand nous avons des pensées de mesestime contre le prochain, il n’y a point de mal quand nous ne les rejettons pas faute d’attention ; suffit que nous les rejettions quand nous nous en appercevons.
 
 . ■ nnP vous me demandez s’il faut laisser de dire ses
 

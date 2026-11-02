@@ -1,142 +1,20 @@
 # Entretien IX. De la modestie
 
-Vous demandez que c’est que la vraye modestie. Je vous diray qu’il y a quatre vertus qui portent toutes le nom de modestie. La première, et celle qui le porte par eminence au dessus des autres, c’est la bien-seance de nostre maintien extérieur : et à cette vertu sont opposés deux vices, à sçavoir, la dissolution en nos gestes et contenances, c’est à dire la legereté ; l’autre vice qui ne luy est pas moins contraire, est une contenance affectée. La seconde qui porte le nom de modestie, est l’interieure bien-seance de nostre entendement et de nostre volonté : celle-cy a de mesme deux vices opposés, qui sont la curiosité en l’entendement, la multitude des désirs de sçavoir et d’entendre toutes choses et l’instabilité en nos entreprises, passant d’un exercice à un autre sans nous arrester à rien ; l’autre vice, c’est une certaine stupidité et nonchalance d’esprit, qui ne veut pas mesme sçavoir ni apprendre les choses necessaires pour nostre
+Vous demandez que c’est que la vraye modestie. Je vous diray qu’il y a quatre vertus qui portent toutes le nom de modestie. La première, et celle qui le porte par eminence au dessus des autres, c’est la bien-seance de nostre maintien extérieur : et à cette vertu sont opposés deux vices, à sçavoir, la dissolution en nos gestes et contenances, c’est à dire la legereté ; l’autre vice qui ne luy est pas moins contraire, est une contenance affectée. La seconde qui porte le nom de modestie, est l’interieure bien-seance de nostre entendement et de nostre volonté : celle-cy a de mesme deux vices opposés, qui sont la curiosité en l’entendement, la multitude des désirs de sçavoir et d’entendre toutes choses et l’instabilité en nos entreprises, passant d’un exercice à un autre sans nous arrester à rien ; l’autre vice, c’est une certaine stupidité et nonchalance d’esprit, qui ne veut pas mesme sçavoir ni apprendre les choses necessaires pour nostre perfection, imperfection qui n’est pas moins dangereuse que l’autre. La troisiesme sorte de modestie consiste en nostre conversation et en nos paroles, c’est à dire en nostre façon de parler et de converser avec le prochain, evitant les deux imperfections qui luy sont opposées, à sçavoir, la rusticité et la babillerie : la rusticité qui nous empesche de contribuer quelque chose pour l’entretien de l’honneste conversation ; la babillerie qui nous fait tellement parler que nous ostons le temps aux autres de parler à leur tour. La quatriesme est l’honnesteté et bien-seance es habits, et les deux vices contraires sont la saleté et la superfluité.
 
-perfection, imperfection qui n’est pas moins dangereuse
+Voila les quatre sortes de modestie. La première est extrêmement recommandable pour plusieurs raisons, et premièrement, parce qu’elle nous assujettit fort ; il n’y a point de vertu en laquelle il faille une si particulière attention ; et en ce qu’elle nous assujettit, consiste son grand prix, car tout ce qui nous assujettit pour Dieu est d’un grand merite et merveilleusement agréable à Dieu. La seconde raison est qu’elle ne nous assujettit pas seulement pour un temps, mais tousjours et en tout lieu, aussi bien estans seuls qu’en compagnie, et en tout temps, ouy mesme en dormant. Un grand Saint l’escrivit à un sien disciple, disant qu’il se couchast modestement en la presence de Dieu, ainsi comme feroit celuy à qui Nostre Seigneur, estant encor en vie, commanderoit de dormir et se coucher en sa presence ; et bien, dit-il, que tu ne le voyes pas et n’entendes spirituel pour les pas le commandement qu’il t’en fait, ne laisse pas de le Sœurs de la Visit., faire tout de mesme que si tu le voyois, parce qu’en art. x. (Coutumier, effet il t’est présent et te garde pendant que tu dors. Or voila : dites moy donc maintenant de laquelle vous voulez que je vous parle. (Ms. et Coll.) La première est grandement (Coll.) est d’un — merite infini ; bien que je ne me plaise pas trop d’user de ce mot de merite, entre vous autres, mais je veux dire, est infiniment (Ms. et Coll.)
 
-que l’autre. La troisiesme sorte de modestie consiste en
+encor en — ceste vie, tout ainsi qu’il y estoit avant sa mort et passion, luy (Ms. et Coll.)
 
-nostre conversation et en nos paroles, c’est à dire en
-
-nostre façon de parler et de converser avec le prochain,
-
-evitant les deux imperfections qui luy sont opposées, à
-
-sçavoir, la rusticité et la babillerie : la rusticité qui
-
-nous empesche de contribuer quelque chose pour l’entre­
-
-tien de l’honneste conversation ; la babillerie qui nous
-
-fait tellement parler que nous ostons le temps aux
-
-autres de parler à leur tour. La quatriesme est l’hon-
-
-nesteté et bien-seance es habits, et les deux vices con­
-
-traires sont la saleté et la superfluité.
-
-Voila les quatre sortes de modestie. La première est
-
-extrêmement recommandable pour plusieurs raisons,
-
-et premièrement, parce qu’elle nous assujettit fort ; il
-
-n’y a point de vertu en laquelle il faille une si particu­
-
-lière attention ; et en ce qu’elle nous assujettit, consiste
-
-son grand prix, car tout ce qui nous assujettit pour Dieu
-
-est d’un grand merite et merveilleusement agréable à
-
-Dieu. La seconde raison est qu’elle ne nous assujettit
-
-pas seulement pour un temps, mais tousjours et en tout
-
-lieu, aussi bien estans seuls qu’en compagnie, et en
-
-tout temps, ouy mesme en dormant. Un grand Saint
-
-l’escrivit à un sien disciple, disant qu’il se couchast
-
-modestement en la presence de Dieu, ainsi comme
-
-feroit celuy à qui Nostre Seigneur, estant encor en vie,
-
- commanderoit de dormir et se coucher en sa pre­
-
-sence ; et bien, dit-il, que tu ne le voyes pas et n’entendes
-
-* Cf. le Directoire spirituel pour les pas le commandement qu’il t’en fait, ne laisse pas de le Sœurs de la Visit., faire tout de mesme que si tu le voyois, parce qu’en art. x. (Coutumier, art. xx.) effet il t’est présent et te garde pendant que tu dors *.
-
-Or voila : dites moy donc maintenant de laquelle vous voulez que je
-
-vous parle. (Ms. et Coll.) La première est grandement (Coll.)
-
-est d’un — merite infini ; bien que je ne me plaise pas trop d’user de
-
-ce mot de merite, entre vous autres, mais je veux dire, est infiniment
-
-(Ms. et Coll.)
-
-encor en — ceste vie, tout ainsi qu’il y estoit avant sa mort et passion,
-
-luy (Ms. et Coll.)
-
- regarde (Ms.)
+regarde (Ms.)
 
 O mon Dieu, combien nous coucherions-nous modestement et dévotement si nous vous voyions ! Sans doute nous croiserions les bras sur nos poitrines avec une grande dévotion. La modestie donques nous assujettit tousjours et tout le temps de nostre vie, à cause que les Anges nous sont tousjours presens, et Dieu mesme, pour les yeux duquel nous nous tenons en modestie.
 
-Ceste vertu est aussi fort recommandée à cause de l’édification du prochain, et vous asseure que la simple modestie extérieure en a converti plusieurs, ainsi qu’il arriva à saint François, lequel passa une fois par une ville avec une si grande modestie en son maintien que, sans qu’il dist une seule parole, il y eut grand nombre de jeunes gens qui le suivirent, attirés de ce seul exemple, pour estre instruits de luy. La modestie est une prédication muette ; c’est une vertu que saint Paul recommande fort particulièrement aux Philippiens, chapitre quatriesme *, leur disant : Faites que vostre * Vers. 5. modestie paroisse devant tous les hommes. Et ce qu’il dit à son disciple saint Timothée *, qu’ïZ faut que *iEp., 111,2. l'Evesque soit orné, s’entend qu’il soit orné de modestie et non pas de riches vestemens, à fin que par son maintien modeste, il baille confiance à chacun de l’aborder, évitant également la rusticité comme la legereté, à fin que donnant la liberté aux mondains de l’approcher, ils ne croyent pas qu’il soit mondain comme eux.
+Ceste vertu est aussi fort recommandée à cause de l’édification du prochain, et vous asseure que la simple modestie extérieure en a converti plusieurs, ainsi qu’il arriva à saint François, lequel passa une fois par une ville avec une si grande modestie en son maintien que, sans qu’il dist une seule parole, il y eut grand nombre de jeunes gens qui le suivirent, attirés de ce seul exemple, pour estre instruits de luy. La modestie est une prédication muette ; c’est une vertu que saint Paul recommande fort particulièrement aux Philippiens, chapitre quatriesme, leur disant : Faites que vostre Vers. 5. modestie paroisse devant tous les hommes. Et ce qu’il dit à son disciple saint Timothée, qu’ïZ faut que *iEp., 111,2. l'Evesque soit orné, s’entend qu’il soit orné de modestie et non pas de riches vestemens, à fin que par son maintien modeste, il baille confiance à chacun de l’aborder, évitant également la rusticité comme la legereté, à fin que donnant la liberté aux mondains de l’approcher, ils ne croyent pas qu’il soit mondain comme eux.
 
-Or, la vertu de modestie observe trois choses, à sçavoir, le temps, le lieu et la personne. Car dites-moy, celuy qui ne voudroit point rire à la récréation sinon comme l’on rit hors ce temps-là, ne seroit-il pas importun ? Il y a des gestes et des contenances qui seroyent immodestie hors de ce temps-là, qui là ne le sont
+Or, la vertu de modestie observe trois choses, à sçavoir, le temps, le lieu et la personne. Car dites-moy, celuy qui ne voudroit point rire à la récréation sinon comme l’on rit hors ce temps-là, ne seroit-il pas importun ? Il y a des gestes et des contenances qui seroyent immodestie hors de ce temps-là, qui là ne le sont nullement ; de mesme, celuy qui voudroit rire lors que l’on est parmi les occupations serieuses, et relascher son esprit comme l’on fait tres-raisonnablement en la récréation, ne seroit-il pas estimé leger et immodeste ? L’on doit aussi observer le lieu, les personnes, les conversations esquelles on est, mais tout particulièrement la qualité de la personne. La modestie d’une femme du monde est autre que celle d’une Religieuse : une fille qui estant dans le monde voudroit tenir la veuë aussi basse comme nos Soeurs, ne seroit pas estimée, non plus que nos Sœurs si elles ne la tenoyent plus basse que les filles du monde. Ce qui est modestie à un homme sera immodestie à un autre homme, à cause de sa qualité ; la gravité est extrêmement bien-seante à une personne âgée, qui seroit affectée à une plus jeune, à laquelle convient une modestie plus rabaissée et plus humiliée.
 
-nullement ; de mesme, celuy qui voudroit rire lors que
-
-l’on est parmi les occupations serieuses, et relascher
-
-son esprit comme l’on fait tres-raisonnablement en la
-
-récréation, ne seroit-il pas estimé leger et immodeste ?
-
-L’on doit aussi observer le lieu, les personnes, les con­
-
-versations esquelles on est, mais tout particulièrement
-
-la qualité de la personne. La modestie d’une femme du
-
-monde est autre que celle d’une Religieuse : une fille
-
-qui estant dans le monde voudroit tenir la veuë aussi
-
-basse comme nos Soeurs, ne seroit pas estimée, non
-
-plus que nos Sœurs si elles ne la tenoyent plus basse
-
-que les filles du monde. Ce qui est modestie à un homme
-
-sera immodestie à un autre homme, à cause de sa qua­
-
-lité ; la gravité est extrêmement bien-seante à une
-
-personne âgée, qui seroit affectée à une plus jeune, à
-
-laquelle convient une modestie plus rabaissée et plus
-
-humiliée.
-
-Il faut que je vous die une chose que je lisois ces jours * Surius, ad diem passés *, parce qu’elle regarde le discours que nous faisons de la modestie. Le grand saint Arsenius, lequel
-
-fust esleu par le Pape saint Damase pour instruire et
-
-eslever le fils de l’Empereur Theodose, Arcadius, qui luy
-
-devoit succéder au gouvernement de l’Empire, W apres
-
-avoir esté honnoré plusieurs années en la cour, et autant
-
-favorisé de l’Empereur qu’homme du monde, il s’ennuya
-
-en fin de toutes ces vanités, bien qu’il ne vescust pas
-
-moins chrestiennement qu’honnorablement en la cour,
-
-et se résolut de se retirer au desert avec les saints Peres
-
-hermites qui y vivoyent : il exécuta fort courageusement
-
-Theodose désirant, connue très pieux et catholique qu’il estait, de bien faire eslever son fils à fin qu’il fust digne Empereur apres luy, s’addressa pour cest efïect à saint Damase à fin qu’il luy cherchast un gouverneur capable pour ce faire. Saint Damase luy envoya Arsenius, lequel apres avoir esté plusieurs années en la cour et autant favorisé de l’Empereur qu’aucun autre, à la fin s’ennuyant de toutes ces vanités, bien qu’il luy fust loysible de vacquer aux exercices de pieté et dévotion, si est-ce que n’ayant pas accoustumé cest air et façon de vivre, il fit dessein de s’eschapper et retirer dans les deserts et solitudes, en la conversation et compagnie des bons Peres hermites ; dessein son dessein. Les Peres, qui avoyent ouy le renom de la vertu de ce grand Saint, furent bien aises et bien consolés de l’avoir en leur compagnie. Il s’accosta particulièrement de deux Religieux, dont l’un avoit nom Pastor, et fit grande amitié avec eux. Or, un jour que tous les Peres estoyent assemblés pour faire une conférence spirituelle (car ç’a esté de tout temps qu’il s’en est fait entre les personnes pieuses), il y eut quelqu’un des Peres qui advertit le Supérieur qu’Arsenius commettoit ordinairement une immodestie, en ce qu’il croisoit une jambe dessus l’autre. Il est vray, dit le Pere, je l’ay bien remarqué ; mais c’est un bon homme qui a vescu long temps au monde, il a apporté ceste contenance de la cour : que feroit-on là ? Il l’excusoit, car il luy faschoit de le fascher en le reprenant d’une chose si legere, où il n’y avoit point de péché ; mais d’ailleurs, il avoit envie de l’en faire corriger, car il n’avoit que cela où l’on peust trouver à redire. Le Religieux Pastor dit lors : O mon Pere, ne vous mettez point en peine, il n’y aura pas grande façon à le luy dire, il en sera bien aise ; et pour cela, demain, s’il vous plaist, à l’heure de l’assemblée je me mettray de la mesme façon que luy, et vous m’en ferez la correction devant tous, et ainsi il entendra qu’il ne le faut pas faire. Le Pere donc faisant la correction à Pastor, le bon Arsenius se jetta en terre aux pieds du Pere, demandant humblement pardon, disant que si bien on ne l’avoit pas remarqué, qu’il avoit neantmoins qu’il exécuta sur le champ. Or les anciens Peres, qui avoyent ouy dire merveilles de la vertu de ce grand Arsenius, furent bien aises et consolés (Ms. et Coll.) [Reprendre au texte, lig. 3.]
+Il faut que je vous die une chose que je lisois ces jours Surius, ad diem passés, parce qu’elle regarde le discours que nous faisons de la modestie. Le grand saint Arsenius, lequel fust esleu par le Pape saint Damase pour instruire et eslever le fils de l’Empereur Theodose, Arcadius, qui luy devoit succéder au gouvernement de l’Empire, W apres avoir esté honnoré plusieurs années en la cour, et autant favorisé de l’Empereur qu’homme du monde, il s’ennuya en fin de toutes ces vanités, bien qu’il ne vescust pas moins chrestiennement qu’honnorablement en la cour, et se résolut de se retirer au desert avec les saints Peres hermites qui y vivoyent : il exécuta fort courageusement Theodose désirant, connue très pieux et catholique qu’il estait, de bien faire eslever son fils à fin qu’il fust digne Empereur apres luy, s’addressa pour cest efïect à saint Damase à fin qu’il luy cherchast un gouverneur capable pour ce faire. Saint Damase luy envoya Arsenius, lequel apres avoir esté plusieurs années en la cour et autant favorisé de l’Empereur qu’aucun autre, à la fin s’ennuyant de toutes ces vanités, bien qu’il luy fust loysible de vacquer aux exercices de pieté et dévotion, si est-ce que n’ayant pas accoustumé cest air et façon de vivre, il fit dessein de s’eschapper et retirer dans les deserts et solitudes, en la conversation et compagnie des bons Peres hermites ; dessein son dessein. Les Peres, qui avoyent ouy le renom de la vertu de ce grand Saint, furent bien aises et bien consolés de l’avoir en leur compagnie. Il s’accosta particulièrement de deux Religieux, dont l’un avoit nom Pastor, et fit grande amitié avec eux. Or, un jour que tous les Peres estoyent assemblés pour faire une conférence spirituelle (car ç’a esté de tout temps qu’il s’en est fait entre les personnes pieuses), il y eut quelqu’un des Peres qui advertit le Supérieur qu’Arsenius commettoit ordinairement une immodestie, en ce qu’il croisoit une jambe dessus l’autre. Il est vray, dit le Pere, je l’ay bien remarqué ; mais c’est un bon homme qui a vescu long temps au monde, il a apporté ceste contenance de la cour : que feroit-on là ? Il l’excusoit, car il luy faschoit de le fascher en le reprenant d’une chose si legere, où il n’y avoit point de péché ; mais d’ailleurs, il avoit envie de l’en faire corriger, car il n’avoit que cela où l’on peust trouver à redire. Le Religieux Pastor dit lors : O mon Pere, ne vous mettez point en peine, il n’y aura pas grande façon à le luy dire, il en sera bien aise ; et pour cela, demain, s’il vous plaist, à l’heure de l’assemblée je me mettray de la mesme façon que luy, et vous m’en ferez la correction devant tous, et ainsi il entendra qu’il ne le faut pas faire. Le Pere donc faisant la correction à Pastor, le bon Arsenius se jetta en terre aux pieds du Pere, demandant humblement pardon, disant que si bien on ne l’avoit pas remarqué, qu’il avoit neantmoins qu’il exécuta sur le champ. Or les anciens Peres, qui avoyent ouy dire merveilles de la vertu de ce grand Arsenius, furent bien aises et consolés (Ms. et Coll.) [Reprendre au texte, lig. 3.]
 
 qui a vescu — fort honnorablement au monde ; il a apporté ceste contenance de la cour. Et avoit à contre-cœur de le contrister en le reprenant de chose si legere, où il n’y avoit point de pecne, mais d’ailleurs, il avoit désir (Coll.)
 
@@ -144,7 +22,7 @@ qui a vescu — fort honnorablement au monde ; il a apporté ceste contenance de
 
 En ceste histoire je trouve plusieurs choses bien dignes de considération. Premièrement, la prudence du Supérieur à craindre de fascher le bon Arsenius par une correction de si peu d’importance, cherchant néant-moins le moyen de l’en faire corriger, où il monstre bien qu’ils estoyent tous tres-exacts à la moindre chose qui regarde la modestie. De plus, je remarque la bonté d’Arsenius à se rendre coulpable et sa fidelité à s’en corriger, bien que ce fust une chose si legere qu'elle n’estoit pas mesme une immodestie estant en la cour, quoy qu'elle le fust estant parmi ces Peres. Je regarde aussi que nous ne nous devons point estonner si nous avons encor quelque vieille habitude du monde, puisqu’Arsenius avoit celle-là apres avoir demeuré long temps au desert en la compagnie de ces Peres. L’on ne peut pas estre si tost défait de toutes ses imperfections ; il ne faut jamais s’estonner d’en voir beaucoup en soy, pourveu que l’on ayt la volonté de les combattre. En apres, remarquez que ce n’est pas un mauvais jugement de penser que le Supérieur fait la correction à un autre de quelque faute que vous faites comme luy, à fin que sans vous reprendre, vous-mesme vous en amendiez ; mais il faut s’humilier profondément, voyant qu’il vous recognoist foible, et sçait bien que vous ressentiriez la correction s’il la vous faisoit. Il faut aussi aymer chèrement ceste abjection, et s’humilier comme fit Arsenius, confessant que l’on est coulpable de la mesme faute, pourveu que l’on s’humilie tousjours en esprit de douceur et tranquillité.
 
-Je voy bien que vous desirez que je parle encor des autres vertus de modestie. Je vous dis donc que la seconde, qui est l’interieure, fait les mesmes effets en l’ame que celle que nous avons dit fait au corps. Celle-cy compose les mouvemens, les gestes et contenances du corps, evitant les deux extrémités, qui sont ces deux vices contraires, la legereté ou dissolution, et la contenance trop affectée. De mesure, la modestie intérieure maintient les puissances de nostre ame en tranquillité et modestie W, evitant, comme j’ay dit, la curiosité de l’entendement, sur lequel elle exerce principalement son soin, retranchant aussi à nostre volonté la multitude des désirs, la faisant appliquer saintement à ce seul un que Marie a choisi et qui ne luy sera ■point osté*, * Lucæ, x, uit. qui est la volonté de plaire à Dieu. Marthe représente fort bien l’immodestie de la volonté, car elle s’empresse, elle met tous les serviteurs de la maison en besogne, elle va deçà et delà sans s’arrester, tant elle a d’envie de bien traitter Nostre Seigneur, et luy semble qu’il n’y aura jamais assez de mets apprestés pour luy faire bonne chere. De mesme, la volonté qui n’est pas retenue par la modestie passe d’un sujet à un autre pour s’esmouvoir à aymer Dieu et à desirer plusieurs moyens de le servir, et cependant il ne faut point tant de choses. Mieux vaut s’attacher à Dieu comme Magdelaine, se tenant à ses pieds, luy demandant qu’il nous donne son amour, que de penser comment et par quel moyen nous le pourrons acquérir. Ceste modestie retient la volonté resserrée en l’exercice des moyens de son avancement en l’amour de Dieu, selon la vocation en laquelle nous sommes.
+Je voy bien que vous desirez que je parle encor des autres vertus de modestie. Je vous dis donc que la seconde, qui est l’interieure, fait les mesmes effets en l’ame que celle que nous avons dit fait au corps. Celle-cy compose les mouvemens, les gestes et contenances du corps, evitant les deux extrémités, qui sont ces deux vices contraires, la legereté ou dissolution, et la contenance trop affectée. De mesure, la modestie intérieure maintient les puissances de nostre ame en tranquillité et modestie W, evitant, comme j’ay dit, la curiosité de l’entendement, sur lequel elle exerce principalement son soin, retranchant aussi à nostre volonté la multitude des désirs, la faisant appliquer saintement à ce seul un que Marie a choisi et qui ne luy sera ■point osté, Lucæ, x, uit. qui est la volonté de plaire à Dieu. Marthe représente fort bien l’immodestie de la volonté, car elle s’empresse, elle met tous les serviteurs de la maison en besogne, elle va deçà et delà sans s’arrester, tant elle a d’envie de bien traitter Nostre Seigneur, et luy semble qu’il n’y aura jamais assez de mets apprestés pour luy faire bonne chere. De mesme, la volonté qui n’est pas retenue par la modestie passe d’un sujet à un autre pour s’esmouvoir à aymer Dieu et à desirer plusieurs moyens de le servir, et cependant il ne faut point tant de choses. Mieux vaut s’attacher à Dieu comme Magdelaine, se tenant à ses pieds, luy demandant qu’il nous donne son amour, que de penser comment et par quel moyen nous le pourrons acquérir. Ceste modestie retient la volonté resserrée en l’exercice des moyens de son avancement en l’amour de Dieu, selon la vocation en laquelle nous sommes.
 
 J’ay dit que ceste vertu s’occupe principalement (“) à assujettir l'entendement ; et cela parce que la curiosité que nous avons naturellement est très dangereuse, et fait que nous ne sçavons jamais parfaitement une chose, d’autant que nous ne mettons pas assez de temps pour la bien apprendre. Fdle fuit aussi l’autre extrémité du vice qui luy est opposé, qui est la stupidité et nonchalance d’esprit qui ne veut pas sçavoir ce qui est necessaire. Or, ceste subjection de l’entendement est de tres-grande (I) et modestie — (cela s’entend, l’entendement et la volonté) (Ms. et Coll.) simplement (Ms. et Coll.)
 
@@ -154,11 +32,11 @@ Saint Bernard dit que ceste vertu s’applique particulièrement (Coll.) importa
 
 •Del Castiglio,Hist.
 
-Mais voicy un autre exemple sur ce sujet*. Un jour un S.Dominici et Ord. Religieux demanda au grand saint Thomas comment il sui, Pars P, 1. III, pourvoit faire pour estre bien sçavant : « En ne lisant c. XXXVII. qu’un livre, » dit-il. Je lisois ces jours passés la Réglé que saint Augustin a faite pour les Religieuses*, où il * Epist. ccxi, § 13. dit expressément que les Sœurs ne lisent jamais aucuns livres que ceux qui leur seront donnés par la Supérieure ; et apres il fit le mesme commandement à ses Religieux*, Dei,* Regula ad Servos
+Mais voicy un autre exemple sur ce sujet. Un jour un S.Dominici et Ord. Religieux demanda au grand saint Thomas comment il sui, Pars P, 1. III, pourvoit faire pour estre bien sçavant : « En ne lisant c. XXXVII. qu’un livre, » dit-il. Je lisois ces jours passés la Réglé que saint Augustin a faite pour les Religieuses, où il Epist. ccxi, § 13. dit expressément que les Sœurs ne lisent jamais aucuns livres que ceux qui leur seront donnés par la Supérieure ; et apres il fit le mesme commandement à ses Religieux, Dei, Regula ad Servos
 
 § 9.
 
-tant il avoit de cognoissance du mal qu’apporte la curiosité de vouloir sçavoir autre chose que ce qui nous est necessaire pour mieux servir Dieu, qui est certes fort peu de chose ; car si vous marchez en simplicité par l'observance de vos Réglés, vous servirez parfaitement Dieu, sans vous espancher ou rechercher de sçavoir autres choses. La science n’est pas necessaire pour aymer Dieu, ainsi que dit saint Bonaventure* ; car une simple •Chronica Fratrum
+tant il avoit de cognoissance du mal qu’apporte la curiosité de vouloir sçavoir autre chose que ce qui nous est necessaire pour mieux servir Dieu, qui est certes fort peu de chose ; car si vous marchez en simplicité par l'observance de vos Réglés, vous servirez parfaitement Dieu, sans vous espancher ou rechercher de sçavoir autres choses. La science n’est pas necessaire pour aymer Dieu, ainsi que dit saint Bonaventure ; car une simple •Chronica Fratrum
 
 Min., 1. VII, c. xiv.
 
@@ -168,7 +46,7 @@ Je me souviens , sur le propos du danger qu’il y a en la curiosité de vouloir
 
 Au reste, il faut remarquer que la modestie extérieure de laquelle nous avons parlé, sert de beaucoup à l’interieure et à acquérir la paix et tranquillité de l’ame. La preuve s’en fait en tous les saints Peres qui ont fait profession tres-grande de l’oraison ; car ils ont tous jugé que la posture la plus modeste y aydoit beaucoup, comme se tenir à genoux, les mains jointes ou les bras en croix.
 
-La troisiesme modestie regarde les paroles et la maniéré de converser. Il y a des paroles qui seroyent immodestie en tout autre temps qu’en celuy de la récréation, où justement et avec bonne raison on doit W relascher un peu l’esprit ; et qui ne voudrait parler ni laisser parler les autres sinon de choses hautes et relevées en ce temps-là, feroit une immodestie ; car n’avons-nous pas dit que la modestie regarde le temps, les lieux et les personnes ? A ce propos, je lisois l’autre jour * que * Vitæ Patrum, 1. I,
+La troisiesme modestie regarde les paroles et la maniéré de converser. Il y a des paroles qui seroyent immodestie en tout autre temps qu’en celuy de la récréation, où justement et avec bonne raison on doit W relascher un peu l’esprit ; et qui ne voudrait parler ni laisser parler les autres sinon de choses hautes et relevées en ce temps-là, feroit une immodestie ; car n’avons-nous pas dit que la modestie regarde le temps, les lieux et les personnes ? A ce propos, je lisois l’autre jour que Vitæ Patrum, 1. I,
 
 VitaS.Pach.,c.xvn.
 
@@ -180,69 +58,19 @@ Revenons maintenant à nostre propos. Ceste seconde modestie a esté appellée d
 
 on — peut desbander et (Ms. et Coll.)
 
-se print à sousrire, disant : Vous vous mocquez de moy ;
+se print à sousrire, disant : Vous vous mocquez de moy ; mais je le seray, s’il plaist à Dieu. Or le diable, voyant qu’il ne l’avoit peu attrapper ni faire entrer en melancholie, pensa qu’il l’attrapperoit du costé de la joye, puisqu’il s’estoit ri de sa première embuscade ; il s’en va donc attacher grande quantité de grosses cordes à une feuille d’arbre, et se mirent plusieurs démons à. ces cordes, comme pour tirer avec grande violence, crians et suans comme s’ils eussent eu grande peine. Le bon Saint levant les yeux et voyant ceste folie, se représenta Nostre Seigneur crucifié en l’arbre de la croix ; eux, voyans que le Saint s’appliquoit au fruict de l’arbre et non à la feuille, s’en allèrent tous confus et honteux.
 
-mais je le seray, s’il plaist à Dieu. Or le diable, voyant
-
-qu’il ne l’avoit peu attrapper ni faire entrer en melan-
-
-cholie, pensa qu’il l’attrapperoit du costé de la joye,
-
-puisqu’il s’estoit ri de sa première embuscade ; il s’en
-
-va donc attacher grande quantité de grosses cordes à
-
-une feuille d’arbre, et se mirent plusieurs démons à. ces
-
-cordes, comme pour tirer avec grande violence, crians
-
-et suans comme s’ils eussent eu grande peine. Le bon
-
-Saint levant les yeux et voyant ceste folie, se représenta
-
-Nostre Seigneur crucifié en l’arbre de la croix ; eux,
-
-voyans que le Saint s’appliquoit au fruict de l’arbre et
-
-non à la feuille, s’en allèrent tous confus et honteux.
-
-Il y a temps de rire et temps de ne pas rire ; comme
-
-* Ecoles., ni, 4, 7. aussi, temps de parler et de se taire *, comme nous
-
-monstra ce glorieux Saint en ces tentations. Ceste
-
-modestie compose nostre façon de parler, à fin qu’elle
-
-soit agréable, ne parlant ni trop haut ni trop bas, ni
-
-trop lentement ni trop brusquement, se tenant dans les
-
-termes d’une sainte médiocrité, laissant parler les autres
-
-quand ils parlent, sans les interrompre, car cela tient
-
-de la babillerie ; parlant neantmoins à son tour, pour
-
-eviter la rusticité et suffisance qui nous empesche d’estre
-
-de bonne conversation. Souventefois aussi on se ren­
-
-contre en des occasions où il est necessaire de beaucoup
-
-dire en se taisant, par la modestie, égalité, patience et
-
-tranquillité.
+Il y a temps de rire et temps de ne pas rire ; comme Ecoles., ni, 4, 7. aussi, temps de parler et de se taire, comme nous monstra ce glorieux Saint en ces tentations. Ceste modestie compose nostre façon de parler, à fin qu’elle soit agréable, ne parlant ni trop haut ni trop bas, ni trop lentement ni trop brusquement, se tenant dans les termes d’une sainte médiocrité, laissant parler les autres quand ils parlent, sans les interrompre, car cela tient de la babillerie ; parlant neantmoins à son tour, pour eviter la rusticité et suffisance qui nous empesche d’estre de bonne conversation. Souventefois aussi on se rencontre en des occasions où il est necessaire de beaucoup dire en se taisant, par la modestie, égalité, patience et tranquillité.
 
 Or le diable, voyant qu’il ne l’avoit peu attrapper ni—induire en tentation à ce premier assaut, advisa de le surprendre du costé de la joye, puisqu’il avoit perdu son escrime à la première aubade. Il s’en va donc attacher quantité de grosses cordes à une feuille d’arbre, et se mettent plusieurs diables à ces cordes, tirans avec grande violence et crians les uns aux autres : hay, hay, suans comme s’ils eussent bien peiné. Le bon Pachome levant les yeux en haut et voyant ceste folie, se représente Nostre Seigneur crucifié en l’arbre de la croix et se munit du signe d’icelle. Alors les démons voyant que le Saint s’arrestoit au fruict de l’arbre et non aux feuilles, se retirèrent honteux et confus.
 
 Il y a temps de rire et temps de ne pas rire, comme aussi temps de parler et temps de ne pas parler ; ce que nous monstra le saint personnage (Coll.)
 
-La quatriesme vertu nommée modestie regarde les habits et la façon de s’habiller. De celle-cy, il n’est pas besoin de dire autre chose, sinon qu’il faut eviter la saleté et messeance en la façon de s’habiller ; comme aussi l’autre extrémité, qui est un trop grand soin de nous bien habiller, avec curiosité affectée d’estre bien accommodé, cela est vain ; mais la netteté a esté fort recommandée par saint Bernard *, comme estant un * Vita 1“ S. Bern.,
+La quatriesme vertu nommée modestie regarde les habits et la façon de s’habiller. De celle-cy, il n’est pas besoin de dire autre chose, sinon qu’il faut eviter la saleté et messeance en la façon de s’habiller ; comme aussi l’autre extrémité, qui est un trop grand soin de nous bien habiller, avec curiosité affectée d’estre bien accommodé, cela est vain ; mais la netteté a esté fort recommandée par saint Bernard, comme estant un Vita 1“ S. Bern.,
 
 1. III, c. ii. (Patrol.
 
-grand indice de la pureté et netteté de l’ame. Il y a lat., t. CLXXXV.) une chose qui semble nous contrarier en ce point, en la Vie de saint Hilarion * ; car un jour parlant à quelque * Apud S. Hieron.,
+grand indice de la pureté et netteté de l’ame. Il y a lat., t. CLXXXV.) une chose qui semble nous contrarier en ce point, en la Vie de saint Hilarion ; car un jour parlant à quelque Apud S. Hieron.,
 
 § 10.
 
@@ -254,83 +82,11 @@ Mais que faut-il faire en ce temps-là ? Il faut se resserrer auprès de Nostre 
 
 Mais remarquez ce mot que je me plais grandement à dire à cause de son utilité : humiliez-vous d’une humilité douce et paisible, et non pas d’une humilité chagrine et troublée ; car c’est nostre malheur, nous portons devant Dieu des actes d’humilité despiteux et ennuyeux, et par ce moyen nous ne raccoisons pas nos esprits, et ces actes sont infructueux. Mais si au contraire, nous faisions ces actes devant la divine Bonté avec une douce confiance, nous sortirions de là tous rassérénés et tranquilles, et desavoüerions bien facilement apres toutes les raisons, bien souvent et pour l’ordinaire irraisonnables, que nostre jugement et nostre amour propre nous suggere, et nous irions avec autant de facilité parler à ceux qui nous ont fait la correction ou contradiction comme auparavant. Vous vous surmontez bien, dites-vous, à leur parler ; mais s’ils ne vous parlent pas ainsi que vous desirez, cela redouble la tentation. Tout cela provient du mesme mal que nous avons dit ; que vous doit-il importer que l’on vous parle d’une façon ou d’une autre, pourveu que vous fassiez vostre devoir ?
 
-Tout bien conté et rabattu, il n’y a personne qui n’ayt de l’aversion à la correction. Saint Pachome, apres avoir vescu quatorze ou quinze ans és deserts en grande perfection, eut une révélation de Dieu qu’il gaigneroi,t une grande quantité d’ames, et que plusieurs viendroyent dans les deserts se ranger sous sa conduite. Il avoit desja quelques Religieux avec luy, et le premier qu’il avoit receu estoit son frere, nommé Jean, qui estoit son aisné. Saint Pachome donc,
+Tout bien conté et rabattu, il n’y a personne qui n’ayt de l’aversion à la correction. Saint Pachome, apres avoir vescu quatorze ou quinze ans és deserts en grande perfection, eut une révélation de Dieu qu’il gaigneroi,t une grande quantité d’ames, et que plusieurs viendroyent dans les deserts se ranger sous sa conduite. Il avoit desja quelques Religieux avec luy, et le premier qu’il avoit receu estoit son frere, nommé Jean, qui estoit son aisné. Saint Pachome donc, commença de faire agrandir son monastère et faire une grande quantité de cellules ; son frere Jean, ou pour ne sçavoir pas son dessein, ou bien pour le zele qu’il avoit à la pauvreté, luy fit un jour une grande correction, luy disant si c’estoit ainsi qu’il falloit et vouloit imiter Nostre Seigneur, lequel n’avoit pas où reposer Matt., vin, 20 ; son chef tandis qu’il estoit en ceste vie, faisant faire un si grand couvent ? et plusieurs semblables choses. Saint Pachome, tout saint qu’il estoit, eut tellement du sentiment de ceste correction qu’il se tourna de l’autre costé, à fin, si je ne me trompe, que sa contenance ne fist paroistre son ressentiment. Or, il s’en alla de ce pas jetter à genoux devant Dieu, demandant pardon de sa faute et se plaignant dequoy, apres avoir tant demeuré dans le desert, il n’estoit point encore mortifié, ce disoit-il. Il fit une priere si fervente et si humble, qu’il obtint la grâce de n’estre jamais plus sujet à *vitæ Patrum, 1.1, l’impatience. Saint François mesme b), sur le dernier
 
-commença de faire agrandir son monastère et faire une
+r . , , ,, ■ temps de sa vie, apres tant de ravissemens et d unions amoureuses avec Dieu, apres avoir tant fait pour sa gloire et s’estre surmonté en tant de sortes, un jour qu’il plantoit des choux dans le jardin, il arriva qu’un Frere, voyant qu’il ne les plantoit pas bien, l’en reprit ; et le Saint fut esmeu d’un si puissant mouvement de colere de se voir repris, qu’il prononça à moitié une injure contre ce Frere qui l’avoit repris. Il ouvrit la bouche pour la prononcer, mais il se retint, et prenant en ceste vie, — luy qui entreprenoit un si grand couvent ; que c’estoit bien perdre le temps, et plusieurs choses semblables. Saint Pachome, pour parfait qu’il fust, eut tel (Ms. et Coll.)
 
-grande quantité de cellules ; son frere Jean, ou pour
-
-ne sçavoir pas son dessein, ou bien pour le zele qu’il
-
-avoit à la pauvreté, luy fit un jour une grande correc­
-
-tion, luy disant si c’estoit ainsi qu’il falloit et vouloit
-
-imiter Nostre Seigneur, lequel n’avoit pas où reposer
-
-* Matt., vin, 20 ; son chef* tandis qu’il estoit en ceste vie, faisant faire
-
-un si grand couvent ? et plusieurs semblables choses.
-
-Saint Pachome, tout saint qu’il estoit, eut tellement
-
-du sentiment de ceste correction qu’il se tourna de
-
-l’autre costé, à fin, si je ne me trompe, que sa contenance
-
-ne fist paroistre son ressentiment. Or, il s’en alla de ce
-
-pas jetter à genoux devant Dieu, demandant pardon
-
-de sa faute et se plaignant dequoy, apres avoir tant
-
-demeuré dans le desert, il n’estoit point encore mortifié,
-
-ce disoit-il. Il fit une priere si fervente et si humble,
-
-qu’il obtint la grâce de n’estre jamais plus sujet à
-
-*vitæ Patrum, 1.1, l’impatience*. Saint François mesme b), sur le dernier VitaS.Pach.,c.xvi. r . , , ,, ■
-
-temps de sa vie, apres tant de ravissemens et d unions
-
-amoureuses avec Dieu, apres avoir tant fait pour sa
-
-gloire et s’estre surmonté en tant de sortes, un jour
-
-qu’il plantoit des choux dans le jardin, il arriva qu’un
-
-Frere, voyant qu’il ne les plantoit pas bien, l’en reprit ;
-
-et le Saint fut esmeu d’un si puissant mouvement de
-
-colere de se voir repris, qu’il prononça à moitié une
-
-injure contre ce Frere qui l’avoit repris. Il ouvrit la
-
-bouche pour la prononcer, mais il se retint, et prenant
-
-en ceste vie, — luy qui entreprenoit un si grand couvent ; que c’estoit
-
-bien perdre le temps, et plusieurs choses semblables. Saint Pachome, pour
-
-parfait qu’il fust, eut tel (Ms. et Coll.)
-
-Les Sœurs qui ont rédigé cet Entretien ont commis ici une méprise.
-
-Le fait qu’elles rapportent est arrivé non pas à saint François d’Assise, mais
-
-à l’un de ses disciples, nommé Barbarus. (Voir Thom. de Celano, Vita
-
-secunda sive Appendix ad Vitam primam S. Francisci, cap. xcu.) Il paraît
-
-néanmoins assez probable qu’en traitant de la répression des premiers mou­
-
-vements imparfaits, saint François de Sales aurait fait quelque allusion au
-
-Patriarche séraphique lui-même. (Voir les Fioretti, cap. ni.)
-
-du fumier qu’il enterroit avec les choux : Ah ! meschante langue, dit-il, je t’apprendray bien s’il faut ainsi injurier ton frere ; et soudain se prosterna à deux genoux, suppliant le Frere de luy pardonner. Or, quelle appar-rence y a-t’il, je vous prie, que nous autres nous estonnions de nous voir prompts à la colere, et si nous ressentons (a’) quand on nous reprend ou que l’on nous fait quelque contradiction ? Il faut donc tirer exemple de ces Saints, lesquels se surmontèrent incontinent, l’un recourant à la priere, et l'autre demandant humblement pardon à son frere, et ne firent rien ni l’un ni l’autre, en faveur de leur ressentiment, mais s’amendèrent et en firent profit.
+Les Sœurs qui ont rédigé cet Entretien ont commis ici une méprise. Le fait qu’elles rapportent est arrivé non pas à saint François d’Assise, mais à l’un de ses disciples, nommé Barbarus. (Voir Thom. de Celano, Vita secunda sive Appendix ad Vitam primam S. Francisci, cap. xcu.) Il paraît néanmoins assez probable qu’en traitant de la répression des premiers mouvements imparfaits, saint François de Sales aurait fait quelque allusion au Patriarche séraphique lui-même. (Voir les Fioretti, cap. ni.) du fumier qu’il enterroit avec les choux : Ah ! meschante langue, dit-il, je t’apprendray bien s’il faut ainsi injurier ton frere ; et soudain se prosterna à deux genoux, suppliant le Frere de luy pardonner. Or, quelle appar-rence y a-t’il, je vous prie, que nous autres nous estonnions de nous voir prompts à la colere, et si nous ressentons (a’) quand on nous reprend ou que l’on nous fait quelque contradiction ? Il faut donc tirer exemple de ces Saints, lesquels se surmontèrent incontinent, l’un recourant à la priere, et l'autre demandant humblement pardon à son frere, et ne firent rien ni l’un ni l’autre, en faveur de leur ressentiment, mais s’amendèrent et en firent profit.
 
 Vous me dites que vous acceptez de bon cœur la. correction, que vous l’approuvez et trouvez juste et raisonnable ; mais que cela vous donne une certaine confusion à l’endroit de la Supérieure, parce que vous l’avez faschée ou luy avez donné occasion de se fascher ; que cela vous oste la confiance de vous approcher d’elle, nonobstant que vous aymiez l’abjection qui vous revient de la faute. Cela se fait, ma fille, par le commandement de l’amour propre. Vous ne sçavez peut estre pas qu’il y a en nous-mesmes un certain monastère dont l'amour propre est supérieur, et partant il impose des pénitences ; et ceste peine est la penitence qu’il vous impose pour la faute que vous avez faite d'avoir fasché la Supérieure, parce que peut estre elle ne vous estimera pas tant comme elle eust fait si vous n’eussiez pas failli.
 
@@ -346,87 +102,17 @@ Comme vous pourriez faire pour porter vostre esprit en Dieu de toutes choses, sa
 
 (c’) invariablement (Ms.)
 
-du lion rugissant, qui va tousjours autour de vous pour penser vous deffaire*. Voyez donc si nous n’avons * I Pétri, v, 8. pas raison de nous coucher modestement, ainsi que nous avons dit. C’est le moyen de bien faire tout ce que nous faisons que d’estre bien attentifs à la presence de Dieu ; car aucun de nous ne l’ofïencera, voyant qu’il nous regarde. Les péchés veniels mesmes ne sont pas capables de nous destourner de la voye qui conduit à Dieu : ils nous arrestent sans doute un peu en nostre chemin, mais ils ne nous en destournent pas pourtant, et beaucoup moins les simples distractions ; et cecy je l’ay dit en ïIntroduction*. * Partie I,cc.v,xxn.
+du lion rugissant, qui va tousjours autour de vous pour penser vous deffaire. Voyez donc si nous n’avons I Pétri, v, 8. pas raison de nous coucher modestement, ainsi que nous avons dit. C’est le moyen de bien faire tout ce que nous faisons que d’estre bien attentifs à la presence de Dieu ; car aucun de nous ne l’ofïencera, voyant qu’il nous regarde. Les péchés veniels mesmes ne sont pas capables de nous destourner de la voye qui conduit à Dieu : ils nous arrestent sans doute un peu en nostre chemin, mais ils ne nous en destournent pas pourtant, et beaucoup moins les simples distractions ; et cecy je l’ay dit en ïIntroduction. * Partie I,cc.v,xxn.
 
 Pour ce qui est de l’oraison, elle ne nous est pas moins utile ni moins agréable à Dieu pour y avoir beaucoup de distractions ; ains elle nous sera peut estre plus utile que si nous y avions beaucoup de consolations, parce qu’il y a plus de travail, pourveu néant-moins que nous ayons la fidelité de nous retirer de ces distractions et n’y laissions point arrester nostre esprit volontairement. C’en est de mesme de la peine que nous avons le long de la journée, d’arrester nostre esprit en Dieu et és choses celestes, pourveu que nous ayons le soin de retirer nostre esprit pour l’empescher de courir apres ces mousches et papillons, comme fait une mere à l’endroit <d’) de son enfant. Elle void que ce pauvre petit s’affectionne à courir apres les papillons, pensant de les attrapper ; elle le retire et retient incontinent par le bras, luy disant : Mon enfant, tu te morfondras à courir apres ces papillons au soleil, il vaut mieux que tu demeures auprès de moy. Ce pauvre enfant y demeure jusques à tant qu’il en voye un autre, apres lequel il seroit aussi prest de courir si la mere ne le retenoit comme devant. Et que faire là, sinon prendre patience et ne nous lasser point de nostre travail, puisqu’il est pris pour l’amour de Dieu ?
 
 Mais si je ne me trompe, quand nous disons que nous
 
-(d’) une mere — laquelle est tendre (Ms. et Coll.)
+(d’) une mere — laquelle est tendre (Ms. et Coll.) J5° Les vrays Entretiens spirituels ne pouvons trouver Dieu, et qu’il nous semble qu’il est si loin de nous, nous voulons dire, que nous ne pouvons avoir du sentiment de sa presence. J’ay remarqué que plusieurs ne font point de différence entre Dieu et le sentiment de Dieu, entre la foy et le sentiment de la foy ; qui est un très-grand defaut. Il leur semble que quand elles ne sentent pas Dieu, qu’elles ne sont pas en sa presence, et cela est une ignorance ; car une personne qui va souffrir le martyre pour Dieu, et neantmoins elle ne pensera point en Dieu pendant ce temps-là, sinon en sa peine, quoy qu’elle n’ayt point le sentiment de la foy elle ne laisse pas de meriter en faveur de sa première resolution, et faire un acte de grand amour. Il y a bien à dire d’avoir la presence de Dieu (j’entends estre en sa presence) , et d’avoir le sentiment de sa presence ; <e’) il n’y a que Dieu seul qui nous puisse faire ceste grâce ; car de vous donner les moyens d’acquérir ce sentiment, il ne m’est pas possible.
 
-J5° Les vrays Entretiens spirituels
+Demandez-vous comment il faut faire pour se tenir tousjours avec un grand respect devant Dieu, comme estans tres-indignes de ceste grâce ? Il n’y a point d’autre moyen de le faire que comme vous le dites : regarder qu’il est nostre Dieu, et que nous sommes ses foibles créatures, indignes de cest honneur ; comme faisoit saint François, qui passa toute une nuict interrogeant Dieu ♦Historia ex Chron. en ces termes : « Qui estes-vous, et qui suis-je ? » En Fratrum Min., 1. I, c. vin ; oratio apud fin, <s’) si vous me demandez : Comment pourray-je faire pour acquérir l’amour de Dieu ? je vous diray : En le voulant aymer ; et au lieu de vous appliquer à penser et demander comment vous pourrez faire pour unir vostre esprit à Dieu, que vous vous mettiez en la pratique par une continuelle application de vostre esprit à Dieu, et je vous asseure que vous parviendrez bien plus (e’) de sa presence. (lig. 3) — N’est-ce pas cela que vous voulez dire ? Sans doute. O ma fille, (Ms. et Coll.)
 
-ne pouvons trouver Dieu, et qu’il nous semble qu’il est
-
-si loin de nous, nous voulons dire, que nous ne pouvons
-
-avoir du sentiment de sa presence. J’ay remarqué que
-
-plusieurs ne font point de différence entre Dieu et le
-
-sentiment de Dieu, entre la foy et le sentiment de la
-
-foy ; qui est un très-grand defaut. Il leur semble que
-
-quand elles ne sentent pas Dieu, qu’elles ne sont pas
-
-en sa presence, et cela est une ignorance ; car une
-
-personne qui va souffrir le martyre pour Dieu, et
-
-neantmoins elle ne pensera point en Dieu pendant ce
-
-temps-là, sinon en sa peine, quoy qu’elle n’ayt point
-
-le sentiment de la foy elle ne laisse pas de meriter en
-
-faveur de sa première resolution, et faire un acte de
-
-grand amour. Il y a bien à dire d’avoir la presence de
-
-Dieu (j’entends estre en sa presence) , et d’avoir le
-
-sentiment de sa presence ; <e’) il n’y a que Dieu seul qui
-
-nous puisse faire ceste grâce ; car de vous donner les
-
-moyens d’acquérir ce sentiment, il ne m’est pas possible.
-
-Demandez-vous comment il faut faire pour se tenir
-
-tousjours avec un grand respect devant Dieu, comme
-
-estans tres-indignes de ceste grâce ? Il n’y a point d’autre
-
-moyen de le faire que comme vous le dites : regarder
-
-qu’il est nostre Dieu, et que nous sommes ses foibles
-
-créatures, indignes de cest honneur ; comme faisoit saint
-
-François, qui passa toute une nuict interrogeant Dieu
-
-♦Historia ex Chron. en ces termes : « Qui estes-vous, et qui suis-je* ? » En Fratrum Min., 1. I, c. vin ; oratio apud fin, <s’) si vous me demandez : Comment pourray-je faire
-
-pour acquérir l’amour de Dieu ? je vous diray : En le
-
-voulant aymer ; et au lieu de vous appliquer à penser
-
-et demander comment vous pourrez faire pour unir
-
-vostre esprit à Dieu, que vous vous mettiez en la prati­
-
-que par une continuelle application de vostre esprit à
-
-Dieu, et je vous asseure que vous parviendrez bien plus
-
-(e’) de sa presence. (lig. 3) — N’est-ce pas cela que vous voulez dire ?
-
-Sans doute. O ma fille, (Ms. et Coll.)
-
-vous — dites : regarder quel est nostre Dieu, et quels nous sommes ;
-
-des (Coll.)
+vous — dites : regarder quel est nostre Dieu, et quels nous sommes ; des (Coll.)
 
 (g’) En fin, — vos demandes portent toutes leurs responses, car (Ms. et Coh.) tost à vostre prétention par ce moyen-là que non pas par aucune autre voye ; car à mesure que nous nous dissipons nous sommes moins recueillis, et partant moins capables de nous unir et joindre avec la divine Majesté, qui nous veut tout sans reserve. Il y a certes des âmes qui s’occupent tant à penser comment elles feront, qu’elles n’ont pas le temps de faire ; et toutesfois, en ce qui regarde nostre perfection, qui consiste en l’union de nostre ame avec la divine Bonté, il n’est question que de peu sçavoir et de beaucoup faire. <h’) Il me semble que ceux auxquels on demande le chemin du Ciel ont grande raison de dire comme ceux qui disent que pour aller à un tel lieu il faut tousjours aller, mettant l’un des pieds devant l’autre, et que pai' ce moyen on parviendra où l’on desire. Allez tousjours, dit-on à ces âmes désireuses de leur perfection, allez en la voye de vostre vocation en simplicité, vous amusant plus à faire qu’à desirer : c’est le plus court chemin (*’).
 
@@ -438,7 +124,7 @@ Mais voicy une finesse qu’il faut que vous me permettiez de vous descouvrir, s
 
 (j’) toute faite, — ou une methode de perfection tellement faite qu’il n’y eust qu’à la mettre sur vostre teste comme vous jetteriez vostre voile, et que par ce moyen vous vous trouvassiez toute (Ms. et Coll.) que nous voudrions. O certes, si cela estoit en mon pouvoir, je serois le plus parfait homme du monde ; car si je pou vois donner la perfection aux autres sans qu’il fallust rien faire, je vous asseure que je la prendrois premièrement pour moy. Il vous semble que la perfection est un art, que si l’on pouvoit trouver son secret l’on l’auroit incontinent sans peine. Certes, nous nous trompons ; car il n’y a point de plus grand secret que de faire et travailler fidellement en l’exercice du divin amour, si nous prétendons de nous unir au Bien-Aymé.
 
-Mais je voudrois bien que l’on remarquast que quand je dis qu’il faut faire, j’entends tousjours parler de la partie supérieure de nostre ame ; car pour toutes les répugnances de l’inferieure il ne se faut non plus estonner que les passans font des chiens qui abbayent de loin. Ceux qui estans au festin, vont piquotant chaque mets et en mangent de tous un peu, se détraquent fort l’estomac, dans lequel il se fait une si grande indigestion que cela les empesche de dormir toute la nuict, ne pouvant faire autre chose que cracher. Ces âmes qui veulent gouster de toutes les méthodes et de tous les ' moyens qui nous conduisent ou peuvent conduire à la perfection, en font de mesme ; car l’estomac de leur volonté n’ayant pas assez de chaleur pour digerer et mettre en pratique tant de moyens, il se fait une certaine crudité et indigestion qui leur oste la paix et tranquillité d’esprit (k>) auprès de Nostre Seigneur, qui est cest un necessaire, que Marie a choisi, et ne luy sera point osté *. (*’)
+Mais je voudrois bien que l’on remarquast que quand je dis qu’il faut faire, j’entends tousjours parler de la partie supérieure de nostre ame ; car pour toutes les répugnances de l’inferieure il ne se faut non plus estonner que les passans font des chiens qui abbayent de loin. Ceux qui estans au festin, vont piquotant chaque mets et en mangent de tous un peu, se détraquent fort l’estomac, dans lequel il se fait une si grande indigestion que cela les empesche de dormir toute la nuict, ne pouvant faire autre chose que cracher. Ces âmes qui veulent gouster de toutes les méthodes et de tous les ' moyens qui nous conduisent ou peuvent conduire à la perfection, en font de mesme ; car l’estomac de leur volonté n’ayant pas assez de chaleur pour digerer et mettre en pratique tant de moyens, il se fait une certaine crudité et indigestion qui leur oste la paix et tranquillité d’esprit (k>) auprès de Nostre Seigneur, qui est cest un necessaire, que Marie a choisi, et ne luy sera point osté. (*’)
 
 (k’) qui leur — empesche le repos et tranquillité de l’ame (Ms. et Coll.)
 
@@ -458,90 +144,18 @@ Il faut que nous ayons deux égales resolutions : l’une, de voir croistre des 
 
 Vous demandez s’il faut tousjours prendre l’eau benite en faisant certaines considérations que les livres enseignent. O ne pensez pas que tout ce qu’ils enseignent doive estre pratiqué par les personnes qui sont desja parvenues en ce degré, que de faire ceste pratique de retourner leur esprit à tout propos du costé de la divine Majesté par une certaine affection contemplative ; car tout cela nuiroit à leur simplicité. Ceux qui voudront faire une considération sur l’eau benite en la prenant, et puis une, faisant la reverence au Crucifix, et puis une autre sur la presence du Saint Sacrement, sur le signe de la Croix et chose semblable ; ou bien qui voudroit prendre la considération de la vie, mort et passion de Nostre Seigneur, particularisant sur tous les points, dés le commencement jusques à la fin, qui ne void qu’il n’auroit pas le temps durant une Messe de faire une bonne affection ou une resolution, qui est le plus utile ? Certes, l’intention d’aller à l’eglise pour adorer Dieu comprend par eminence toutes ces considérations particulières, et se tenir en ceste affection ou à une
 
-En fin il faut sçavoir que nous ne devons jamais cesser de faire des bonnes resolutions, encore que nous voyons bien que selon nostre ordinaire nous ne les pratiquons pas, voire, (p’) quand bien nous verrions qu’il est impossible de les pratiquer quand l’occasion s’en présentera ; et cela, il le faut faire avec plus de fermeté que si nous sentions en nous assez de courage pour réussir de nostre entreprise, disant à Nostre Seigneur : H est vray que je n’auray pas la force de faire ou supporter telle chose de moy-mesme, mais je m’en resjouïs, d’autant que ce sera vostre force qui le fera en moy* ; et sur cest appui, allez à la bataille coura- *n Cor'« xn> 9> i°- geusement, et ne doutez point que vous n’en rapportiez la victoire. Nostre Seigneur fait envers nous tout de mesme comme un bon pere ou une bonne mere, laquelle laisse marcher son enfant tout seul lors qu’il est sur une douce prairie où l’herbe est grande, ou bien dessus la mousse, parce que si bien il vient à tomber, il ne se fera pas grand mal ; mais aux mauvais et dangereux chemins elle le porte soigneusement entre ses bras. Nous avons souvent veu des âmes supporter courageusement des grands assauts sans estre vaincues par leurs ennemis, lesquelles par apres ont esté surmontées (q’) en des bien légers rencontres. Et pourquoy cela, sinon parce que Nostre Seigneur voyant qu’elles ne se feroyent pas grand mal en tombant, les a laissées marcher toutes seules, ce qu’il n'a pas fait lors qu’elles estoyent dans les précipices des grandes tentations, d’où il les a tirées par sa main toute-puissante. Sainte Paule, autre, si elle vous vient durant la Messe, c’est une tres-bonne façon de l’entendre. En fin, la multiplicité des sujets dissipe nostre cœur et nostre esprit, et l’empesche et divertit de ceste simplicité amoureuse qui rend nos âmes si agréables à Dieu. (Ms. et Coll.)
+En fin il faut sçavoir que nous ne devons jamais cesser de faire des bonnes resolutions, encore que nous voyons bien que selon nostre ordinaire nous ne les pratiquons pas, voire, (p’) quand bien nous verrions qu’il est impossible de les pratiquer quand l’occasion s’en présentera ; et cela, il le faut faire avec plus de fermeté que si nous sentions en nous assez de courage pour réussir de nostre entreprise, disant à Nostre Seigneur : H est vray que je n’auray pas la force de faire ou supporter telle chose de moy-mesme, mais je m’en resjouïs, d’autant que ce sera vostre force qui le fera en moy ; et sur cest appui, allez à la bataille coura- *n Cor'« xn> 9> i°- geusement, et ne doutez point que vous n’en rapportiez la victoire. Nostre Seigneur fait envers nous tout de mesme comme un bon pere ou une bonne mere, laquelle laisse marcher son enfant tout seul lors qu’il est sur une douce prairie où l’herbe est grande, ou bien dessus la mousse, parce que si bien il vient à tomber, il ne se fera pas grand mal ; mais aux mauvais et dangereux chemins elle le porte soigneusement entre ses bras. Nous avons souvent veu des âmes supporter courageusement des grands assauts sans estre vaincues par leurs ennemis, lesquelles par apres ont esté surmontées (q’) en des bien légers rencontres. Et pourquoy cela, sinon parce que Nostre Seigneur voyant qu’elles ne se feroyent pas grand mal en tombant, les a laissées marcher toutes seules, ce qu’il n'a pas fait lors qu’elles estoyent dans les précipices des grandes tentations, d’où il les a tirées par sa main toute-puissante. Sainte Paule, autre, si elle vous vient durant la Messe, c’est une tres-bonne façon de l’entendre. En fin, la multiplicité des sujets dissipe nostre cœur et nostre esprit, et l’empesche et divertit de ceste simplicité amoureuse qui rend nos âmes si agréables à Dieu. (Ms. et Coll.)
 
 (p’) Vous voulez encor sçavoir si vous devez tousjours faire des resolutions, encore que vous voyez bien que, selon vostre ordinaire, vous ne les pratiquez pas. O certes, il ne faut jamais cesser de les faire, (Ms. et Coll.)
 
 (q’) par leurs ennemis, — ains demeurer victorieuses, lesquelles par apres ont esté vaincues (Ms. et Coll.)
 
-laquelle fut si genereuse à se dépestrer (r’) du monde,
+laquelle fut si genereuse à se dépestrer (r’) du monde, quittant la ville de Rome et tant de commodités, et laquelle ne peut estre esbranlée par l’affection maternelle qu’elle portoit à ses enfans, tant son cœur estoit résolu de quitter tout pour Dieu, apres avoir fait toutes ces grandes merveilles, elle se laissa surmonter par la tentation de son propre jugement, qui luy faisoit accroire qu’il ne se falloit pas sousmettre à l’advis de plusieurs saints personnages qui vouloyent qu’elle retranchast quelque chose de ses austérités ordinaires : en quoy Ep. cvin, ad Eus- saint Hierosme advouë qu’elle estoit reprehensible.
 
-quittant la ville de Rome et tant de commodités, et
+. x
 
-laquelle ne peut estre esbranlée par l’affection mater­
-
-nelle qu’elle portoit à ses enfans, tant son cœur estoit
-
-résolu de quitter tout pour Dieu, apres avoir fait toutes
-
-ces grandes merveilles, elle se laissa surmonter par la
-
-tentation de son propre jugement, qui luy faisoit accroire
-
-qu’il ne se falloit pas sousmettre à l’advis de plusieurs
-
-saints personnages qui vouloyent qu’elle retranchast
-
-quelque chose de ses austérités ordinaires : en quoy
-
-* Ep. cvin, ad Eus- saint Hierosme advouë * qu’elle estoit reprehensible. toch., in Epitaph. . x Pauiæ, § 20. Remarquons pour conclusion, que tout ce que nous
-
-avons dit en cest Entretien sont des choses assez délicates
-
-pour la perfection ; et partant, qua nulle de vous autres
-
-qui les avez entendues n’ayt à s’estonner si elle ne se
-
-trouve parvenue à ceste perfection, puisque, par la
-
-grâce de Dieu, vous avez toutes le courage bon pour y
-
-vouloir prétendre. Vive Jésus !
+Remarquons pour conclusion, que tout ce que nous avons dit en cest Entretien sont des choses assez délicates pour la perfection ; et partant, qua nulle de vous autres qui les avez entendues n’ayt à s’estonner si elle ne se trouve parvenue à ceste perfection, puisque, par la grâce de Dieu, vous avez toutes le courage bon pour y vouloir prétendre. Vive Jésus !
 
 (r’) desprendre (Ms.)
 
-(s’) Il sera facile de respondre à vostre demande, ma chere fille, qui est,
-
-lequel des deux vous devez embrasser et suivre, ou la simplicité ou la charité ;
-
-s’entend la pratique de l’une ou de l’autre, quand elles se rencontrent en
-
-mesme sujet. La charité est la principale vertu et à laquelle toutes les autres
-
-sont et doivent estre sujettes ; mais en l’exemple que vous me donnez, il vaut
-
-mieux faire, ou pour mieux dire, pratiquer la simplicité ; car ce n’est pas un
-
-manquement de charité de faire lever une Sœur pour vous laisser passer en
-
-la place qu’une autre vous présente. Je dis mesme, quand bien elle seroit un
-
-peu incommodée de se lever ou trop pressée dessus son siégé, il vaut mieux
-
-aller en la place que l’on vous présente tout simplement, estant bien ayse
-
-que la Sœur qui se leve fasse ceste pratique de charité à vostre occasion.
-
-Di tes-vous encore lequel vous devez faire quand une Sœur vous prie de
-
-faire quelque chose de sa charge, et laquelle vous ne pourriez faire sans
-
-manquer à ce qui est de la vostre. Par exemple, le souper ne pouvant pas
-
-estre appresté à l’heure si vous faites ce dequoy elle vous prie, qui ne void
-
-que si vous faisiez la condescendance à ceste heure-là, que ce seroit au préju­
-
-dice de l’obeissance et de la charité ? ce qui ne se doit jamais faire , quel
-
-prétexte que l’on ayt. Il faudroit dire tout doucement à ceste Sœur : Si vous
-
-pouviez attendre jusqu’à ce que j’aye fait ce que j’ay à faire de ma charge,
-
-je le feray, mais je ne peux pas à ceste heure. Mais si ce que vous avez à
-
-faire n’estoit pas pressé, alors il le faudroit quitter promptement pour prati­
-
-quer la charité et la condescendance, faisant ce dequoy vous estes priée.
-
-(Ms. et Coll.)
+(s’) Il sera facile de respondre à vostre demande, ma chere fille, qui est, lequel des deux vous devez embrasser et suivre, ou la simplicité ou la charité ; s’entend la pratique de l’une ou de l’autre, quand elles se rencontrent en mesme sujet. La charité est la principale vertu et à laquelle toutes les autres sont et doivent estre sujettes ; mais en l’exemple que vous me donnez, il vaut mieux faire, ou pour mieux dire, pratiquer la simplicité ; car ce n’est pas un manquement de charité de faire lever une Sœur pour vous laisser passer en la place qu’une autre vous présente. Je dis mesme, quand bien elle seroit un peu incommodée de se lever ou trop pressée dessus son siégé, il vaut mieux aller en la place que l’on vous présente tout simplement, estant bien ayse que la Sœur qui se leve fasse ceste pratique de charité à vostre occasion. Di tes-vous encore lequel vous devez faire quand une Sœur vous prie de faire quelque chose de sa charge, et laquelle vous ne pourriez faire sans manquer à ce qui est de la vostre. Par exemple, le souper ne pouvant pas estre appresté à l’heure si vous faites ce dequoy elle vous prie, qui ne void que si vous faisiez la condescendance à ceste heure-là, que ce seroit au préjudice de l’obeissance et de la charité ? ce qui ne se doit jamais faire , quel prétexte que l’on ayt. Il faudroit dire tout doucement à ceste Sœur : Si vous pouviez attendre jusqu’à ce que j’aye fait ce que j’ay à faire de ma charge, je le feray, mais je ne peux pas à ceste heure. Mais si ce que vous avez à faire n’estoit pas pressé, alors il le faudroit quitter promptement pour pratiquer la charité et la condescendance, faisant ce dequoy vous estes priée. (Ms. et Coll.)

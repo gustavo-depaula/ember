@@ -2,63 +2,9 @@
 
 L’obeissance est une vertu morale qui dépend de la justice. Or, il y a certaines vertus morales qui ont tant d’affinité avec les vertus théologales, qui sont la foy, l’esperance, la charité, qu’elles semblent presque theologiques, bien qu’elles soyent en un degré bien inferieur : comme la penitence, la religion, la justice et l’obeissance. Or, l’obeissance consiste en deux points : le premier est d’obeir aux Supérieurs ; le second, d’obeir aux égaux et inferieurs. Mais ce second appartient plustost à l’humilité, douceur et charité qu’à l’obeissance ; car celuy qui est humble pense que tous les autres le surpassent et sont beaucoup meilleurs que luy, de sorte qu’il se les rend supérieurs et croid leur devoir obéir.
 
-Mais quant à l’obeissance qui regarde les Supérieurs que Dieu a establis sur nous pour nous gouverner, elle est de justice et de nécessité, et se doit rendre avec une entière sousmission de nostre entendement et de nostre volonté. Or, ceste obéissance de l’entendement se pratique lors qu’estans commandés nous acceptons et approuvons le commandement, non seulement avec la volonté mais aussi avec nostre entendement, approuvant et estimant la chose commandée, et la jugeant L58 Les vrays Entretiens spirituels
+Mais quant à l’obeissance qui regarde les Supérieurs que Dieu a establis sur nous pour nous gouverner, elle est de justice et de nécessité, et se doit rendre avec une entière sousmission de nostre entendement et de nostre volonté. Or, ceste obéissance de l’entendement se pratique lors qu’estans commandés nous acceptons et approuvons le commandement, non seulement avec la volonté mais aussi avec nostre entendement, approuvant et estimant la chose commandée, et la jugeant L58 Les vrays Entretiens spirituels meilleure que toute autre chose que l’on nous eust peu commander sur ceste occasion. Quand on est parvenu là, alors on ayme tellement à obéir, que Von desire insatiablement d’estre commandé, à fin que tout ce que l’on fait soit fait par obéissance ; et cecy est l’obeissance des parfaits, et celle que je vous desire, laquelle procede d’un pur don de Dieu, ou bien est acquise avec beaucoup de temps et de travail par une quantité d’actes souvent réitérés et produits à vive force, par le moyen desquels nous acquérons l’habitude. Nostre inclination naturelle nous porte tousjours au désir de commander et nous donne une aversion d’obeir ; et neantmoins il est certain que nous avons beaucoup de capacité pour obéir, et peut estre n’en avons-nous point pour commander.
 
-meilleure que toute autre chose que l’on nous eust peu
-
-commander sur ceste occasion. Quand on est parvenu
-
-là, alors on ayme tellement à obéir, que Von desire
-
-insatiablement d’estre commandé, à fin que tout ce que
-
-l’on fait soit fait par obéissance ; et cecy est l’obeissance
-
-des parfaits, et celle que je vous desire, laquelle
-
-procede d’un pur don de Dieu, ou bien est acquise avec
-
-beaucoup de temps et de travail par une quantité
-
-d’actes souvent réitérés et produits à vive force, par le
-
-moyen desquels nous acquérons l’habitude. Nostre
-
-inclination naturelle nous porte tousjours au désir de
-
-commander et nous donne une aversion d’obeir ; et
-
-neantmoins il est certain que nous avons beaucoup de
-
-capacité pour obéir, et peut estre n’en avons-nous point
-
-pour commander.
-
-L’obeissance plus ordinaire a trois conditions : la
-
-première c’est d’agréer la chose que l’on nous commande
-
-et y plier doucement nostre volonté, aymant à estre
-
-commandés ; car ce n’est pas le moyen de nous rendre
-
-vrays obeissans de n’avoir personne qui nous commande,
-
-comme de mesme ce n’est pas le moyen d’estre doux * ubi supra, p. 53. que de demeurer seul dans un desert. Cassian rapporte *
-
-qu’estant au desert il se mettoit quelquefois en colere,
-
-et que prenant la plume pour escrire, si elle ne mar-
-
-quoit pas il la jettoit : de sorte, dit-il, qu’il ne sert de
-
-rien d’estre seul, puisque nous portons la colere avec
-
-nous. La vertu est un bien de soy qui ne dépend pas de
-
-la privation de son contraire. La seconde condition
-
-des — parfaitement (Ms. et Coll.)
+L’obeissance plus ordinaire a trois conditions : la première c’est d’agréer la chose que l’on nous commande et y plier doucement nostre volonté, aymant à estre commandés ; car ce n’est pas le moyen de nous rendre vrays obeissans de n’avoir personne qui nous commande, comme de mesme ce n’est pas le moyen d’estre doux ubi supra, p. 53. que de demeurer seul dans un desert. Cassian rapporte qu’estant au desert il se mettoit quelquefois en colere, et que prenant la plume pour escrire, si elle ne marquoit pas il la jettoit : de sorte, dit-il, qu’il ne sert de rien d’estre seul, puisque nous portons la colere avec nous. La vertu est un bien de soy qui ne dépend pas de la privation de son contraire. La seconde condition des — parfaitement (Ms. et Coll.)
 
 par une — grande quantité d’actes souvent réitérés et faits à vive force, qui nous font puis apres acquérir (Ms.)
 
@@ -66,7 +12,7 @@ une — grande (Ms.)
 
 que de demeurer seul — sans avoir personne qui nous contredise. Cassian rapporte qu’estant au desert il se levoit à minuit pour prier Dieu, et voulant avec son fusil allumer du feu, apres avoir donné quelques coups sur-la pierre, lors qu’elle ne rendoit pas du feu il la jettoit de colere ; et quand quelquefois voulant escrire, sa plume ne marquoit pas, il en faisoit autant. Voila comme il ne sert de rien pour eviter le mal d’estre seul, puisque nous le portons avec nous. (Coll.)
 
-de l’obeissance est la promptitude, à laquelle est opposée la paresse ou tristesse spirituelle ; car il arrive rarement qu’une ame triste fasse quelque chose promptement et diligemment. En termes theologiques, la paresse s’appelle tristesse spirituelle, et c’est cela qui empesche de faire l’obeissance courageusement et promptement La troisiesme est la perseverance ; car il ne suffit pas que l’on agrée le commandement et que pour quelque espace de temps l’on l’execute, si l’on n’y persevere, puisque c’est ceste perseverance qui obtient la couronne *. *Matt., x, 22, xxiv,
+de l’obeissance est la promptitude, à laquelle est opposée la paresse ou tristesse spirituelle ; car il arrive rarement qu’une ame triste fasse quelque chose promptement et diligemment. En termes theologiques, la paresse s’appelle tristesse spirituelle, et c’est cela qui empesche de faire l’obeissance courageusement et promptement La troisiesme est la perseverance ; car il ne suffit pas que l’on agrée le commandement et que pour quelque espace de temps l’on l’execute, si l’on n’y persevere, puisque c’est ceste perseverance qui obtient la couronne. *Matt., x, 22, xxiv,
 
 13.
 
@@ -74,115 +20,21 @@ Il se trouve par tout des exemples admirables de la perseverance, mais particuli
 
 (/) et promptement. — L’on ne sçauroit passer les rivières plus seurement que dans un navire ou basteau ; aussi nous ne sçaurions faire le passage de nostre vie avec plus de seureté que par le moyen de l’obeissance. (Ms. et Coll.)
 
-quand nous aurions esté une heure Jesuite nous voudrions estre une autre heure Capucin, et puis un peu apres nous chercherions une autre
+quand nous aurions esté une heure Jesuite nous voudrions estre une autre heure Capucin, et puis un peu apres nous chercherions une autre une condition, et peu apres nous en chercherions une autre, tant ceste inconstance de l’esprit humain est extravagante ; mais il la faut arrester avec les forces de nos premières resolutions, à fin de vivre également parmi les inégalités de nos sentimens et des evenemens.
 
-une condition, et peu apres nous en chercherions une
+Or, pour mieux nous affectionner à l’obeissance, lors que nous nous trouverons tentés, il faut faire des considérations de son excellence, de sa beauté et de son merite, voire de son utilité, pour nous encourager à passer outre : cela s’entend pour les âmes qui ne sont pas encore bien establies en l’obeissance ; mais quand il n’est question que d’une simple aversion ou dégoust de la chose commandée, il faut faire un acte d’amour et se mettre à la besogne. Nostre Seigneur mesme en sa Passion ressentit un très-grand dégoust et une aver*Matt.,xxvi, 38,39; sion mortelle à souffrir la mort ; il le dit luy-mesme ; mais avec la fine pointe de son esprit il estoit resigné à la. volonté de son Pere, tout le reste estoit un mouvement de la nature.
 
-autre, tant ceste inconstance de l’esprit humain est
+condition ; et tel qui a vescu en bonne paix toute sa vie avec sa femme, s’il eust peu la changer, l’eust fait une douzaine de fois ; voire mesme jusques là que, si nous pouvions, nous changerions de pere et de mere, tant (Ms. et Coll.) [Reprendre au texte, lig. 2.] de la chose commandée, — il ne faut faire qu’un acte d’amour et se mettre à la besogne. Je n’entends pas un acte d’amour sensible, car ils ne sont pas en nostre puissance et ne sont nullement necessaires ; je dis un acte d’amour raisonnable, avec la pointe de nostre esprit, car c’est ainsi que doivent aller les vrayes servantes de Dieu ; autrement nous n’irons jamais bien. Si nous nous attachons à ces petites tendretés et douceurs spirituelles, et que nous ne nous résolvions de servir Dieu avec la pointe de nos resolutions, nous n’aurons jamais ni des vrayes vertus ni d’amour solide. J’ay cognu un gentilhomme qui me dit une fois en voyant passer un autre : Voila un homme que j’ayme avec une passion estrange, mais je ne luy ay jamais parlé ni ne luy parleray jamais, car j’en évité tant que je puis les occasions. Et pourquoy, luy dis-je, puisque vous l’aymez tant ? Parce, dit-il, que si je J’accoste, peut estre ne parlera-t’il pas si bien que je me suis imaginé, ou il fera quelque chose de mauvaise grâce, et je ne pourray plus l’aymer. Voyez-vous, quand nos affections dependent de tant de petites choses elles sont sujettes à mille detraquemens.
 
-extravagante ; mais il la faut arrester avec les forces de
+Il ne faut faire nul estât des aversions ni des difficultés, pourveu que ceste pointe de nostre esprit tienne tousjours à son souverain objet. Nostre Seigneur mesme en sa Passion les a souffertes ; car il avoit (Ms. et Coll.)
 
-nos premières resolutions, à fin de vivre également
+La perseverance plus difficile est es choses intérieures, car pour les materielles et extérieures, elles sont assez faciles. Cela procede de ce qu’il nous fasche d’assujettir nostre entendement, car c’est la derniere piece que nous sousmettons, et neantmoins il est entièrement necessaire que nous assujettissions nostre pensée à certains objets ; de manière que quand on nous marque des exercices ou pratiques de vertu, il faut que nous demeurions en ces exercices et que nous y assujettissions nostre esprit 0). Je n’appelle pas manquer à la perseverance quand nous faisons quelques petites interruptions, pourveu que nous ne quittions pas tout à fait ; comme 0) ce n’est pas manquer à l’obeissance de manquer à quelques unes de ses conditions, attendu que nous ne sommes pas obligés sinon à la substance des vertus et non pas aux conditions. Car encore que nous obéissions avec répugnance et quasi comme forcés par l’obligation de nostre condition, nostre obéissance ne laisse pas d’estre bonne en vertu de nostre première resolution ; mais elle est d’une valeur et d’un merite infiniment grand quand elle est faite avec les conditions que nous avons dites ; car une chose, pour petite qu’elle soit, estant faite avec une telle obéissance, est de tres-grande valeur.
 
-parmi les inégalités de nos sentimens et des evenemens.
-
-Or, pour mieux nous affectionner à l’obeissance,
-
-lors que nous nous trouverons tentés, il faut faire des
-
-considérations de son excellence, de sa beauté et de
-
-son merite, voire de son utilité, pour nous encourager
-
-à passer outre : cela s’entend pour les âmes qui ne sont
-
-pas encore bien establies en l’obeissance ; mais quand il
-
-n’est question que d’une simple aversion ou dégoust de
-
-la chose commandée, il faut faire un acte d’amour et se
-
-mettre à la besogne. Nostre Seigneur mesme en sa
-
-Passion ressentit un très-grand dégoust et une aver­
-
-*Matt.,xxvi, 38,39; sion mortelle à souffrir la mort ; il le dit luy-mesme * ; Marc., xiv, 34-36.
-
-mais avec la fine pointe de son esprit il estoit resigné
-
-à la. volonté de son Pere, tout le reste estoit un mouve­
-
-ment de la nature.
-
-condition ; et tel qui a vescu en bonne paix toute sa vie avec sa femme, s’il
-
-eust peu la changer, l’eust fait une douzaine de fois ; voire mesme jusques
-
-là que, si nous pouvions, nous changerions de pere et de mere, tant (Ms.
-
-et Coll.) [Reprendre au texte, lig. 2.]
-
-de la chose commandée, — il ne faut faire qu’un acte d’amour et se
-
-mettre à la besogne. Je n’entends pas un acte d’amour sensible, car ils ne sont
-
-pas en nostre puissance et ne sont nullement necessaires ; je dis un acte
-
-d’amour raisonnable, avec la pointe de nostre esprit, car c’est ainsi que
-
-doivent aller les vrayes servantes de Dieu ; autrement nous n’irons jamais
-
-bien. Si nous nous attachons à ces petites tendretés et douceurs spirituelles,
-
-et que nous ne nous résolvions de servir Dieu avec la pointe de nos resolu­
-
-tions, nous n’aurons jamais ni des vrayes vertus ni d’amour solide.
-
-J’ay cognu un gentilhomme qui me dit une fois en voyant passer un autre :
-
-Voila un homme que j’ayme avec une passion estrange, mais je ne luy ay jamais
-
-parlé ni ne luy parleray jamais, car j’en évité tant que je puis les occasions.
-
-Et pourquoy, luy dis-je, puisque vous l’aymez tant ? Parce, dit-il, que si je
-
-J’accoste, peut estre ne parlera-t’il pas si bien que je me suis imaginé, ou il
-
-fera quelque chose de mauvaise grâce, et je ne pourray plus l’aymer. Voyez-
-
-vous, quand nos affections dependent de tant de petites choses elles sont
-
-sujettes à mille detraquemens.
-
-Il ne faut faire nul estât des aversions ni des difficultés, pourveu que ceste
-
-pointe de nostre esprit tienne tousjours à son souverain objet. Nostre Seigneur
-
-mesme en sa Passion les a souffertes ; car il avoit (Ms. et Coll.)
-
-La perseverance plus difficile est es choses intérieures,
-
-car pour les materielles et extérieures, elles sont assez
-
-faciles. Cela procede de ce qu’il nous fasche d’assujettir
-
-nostre entendement, car c’est la derniere piece que nous
-
-sousmettons, et neantmoins il est entièrement necessaire
-
-que nous assujettissions nostre pensée à certains objets ;
-
-de manière que quand on nous marque des exercices ou pratiques de vertu, il faut que nous demeurions en ces exercices et que nous y assujettissions nostre esprit 0). Je n’appelle pas manquer à la perseverance quand nous faisons quelques petites interruptions, pourveu que nous ne quittions pas tout à fait ; comme 0) ce n’est pas manquer à l’obeissance de manquer à quelques unes de ses conditions, attendu que nous ne sommes pas obligés sinon à la substance des vertus et non pas aux conditions. Car encore que nous obéissions avec répugnance et quasi comme forcés par l’obligation de nostre condition, nostre obéissance ne laisse pas d’estre bonne en vertu de nostre première resolution ; mais elle est d’une valeur et d’un merite infiniment grand quand elle est faite avec les conditions que nous avons dites ; car une chose, pour petite qu’elle soit, estant faite avec une telle obéissance, est de tres-grande valeur.
-
-L’obeissance est une vertu si excellente que Nostre Seigneur a voulu conduire tout le cours de sa vie par obéissance, ainsi qu'il a dit tant de fois qu’il n’estoit pas venu pour faire sa volonté, ains celle de son Pere * ; VI, *J°an.,iv,34, v, 3°.
+L’obeissance est une vertu si excellente que Nostre Seigneur a voulu conduire tout le cours de sa vie par obéissance, ainsi qu'il a dit tant de fois qu’il n’estoit pas venu pour faire sa volonté, ains celle de son Pere ; VI, *J°an.,iv,34, v, 3°.
 
 38 ; Heb., x, 9.
 
-et 1 Apostre dit qu il s est fait obéissant jusques a la mort, et la mort de la croix *, et a voulu joindre * Philip., n, 8. au merite infini de sa charité parfaite l’infini merite d’une parfaite obéissance. La charité cede à l’obeissance, parce que l’obeissance dépend de la justice : aussi est-il meilleur de payer ce que l’on doit que de faire l’aumosne ; cela veut dire qu'il est mieux de faire
-
-(0 nostre esprit — autant de temps que l’on nous marque. (Ms.)
-
-pourveu — que nous nous reprenions et que nous ne quittions pas tout à fait ; comme de mesme (Ms. et Coll.)
+et 1 Apostre dit qu il s est fait obéissant jusques a la mort, et la mort de la croix, et a voulu joindre Philip., n, 8. au merite infini de sa charité parfaite l’infini merite d’une parfaite obéissance. La charité cede à l’obeissance, parce que l’obeissance dépend de la justice : aussi est-il meilleur de payer ce que l’on doit que de faire l’aumosne ; cela veut dire qu'il est mieux de faire (0 nostre esprit — autant de temps que l’on nous marque. (Ms.) pourveu — que nous nous reprenions et que nous ne quittions pas tout à fait ; comme de mesme (Ms. et Coll.)
 
 n
 
@@ -202,7 +54,7 @@ entrepris, et puis, s’il se pouvoit, je regaignerois la
 
 commodité de faire ce que la Sœur desiroit de moy.
 
-Que s’il arrive qu’une Sœur nous requière de faire quelque chose, et que par surprise nous tesmoignions d’y * avoir de la répugnance, il ne faut pas que la Sœur s’en ombrage ni fasse semblant de le cognoistre, ni qu’elle prie de ne le faire pas ; car il n’est pas en nostre puissance d’empescher que nostre couleur, nos yeux et nostre contenance ne tesmoignent le combat que nous avons au dedans, encore que la raison veuille bien faire la chose ; car ce sont des messagers qui viennent sans que l’on les demande, et qui, encore qu’on leur die retournez, n’en font rien pour l’ordinaire. A quel propos donc ceste Sœur ne voudra-t’elle pas que je fasse ce dont elle me prie, pource seulement qu’elle a recognu que j’y ay de la répugnance ? elle doit aymer que je fasse ce profit pour mon ame. Vous me direz : c'est qu’elle craint de vous avoir faschée. Non, c’est l’amour propre qui ne voudroit pas que j’eusse seulement une moindre pensée qu’elle est importune ; je l’auray bien pourtant, encore que je ne m’y arreste pas. Si neantmoins au signe de ma répugnance je joins des paroles qui tesmoignent apertement que je n’ay point d’envie de faire ce dont ceste Sœur me prie, elle peut et doit me dire doucement que je ne le fasse pas, quand ce sont personnes égales (°) ; car il faut que ceux qui ont authorité tiennent ferme et fassent plier leurs inferieurs. Or, combien qu’une Sœur m’auroit refusé entièrement quelque chose ou monstré de la répugnance, je ne dois point perdre la confiance de l’employer une autre fois, ni mesme je ne me dois point mal édifier de son imperfection ; car à ceste heure-là je la supporte, et tantost elle me supportera ; maintenant elle a de l’aversion de faire ceste chose, et une autre fois elle la fera volontiers. Si toutesfois j’avois l’experience que ce fust un esprit qui ne fust pas encore capable de ceste façon de traitter, ' j’attendrois pour quelque temps, jusques à tant qu’elle fust mieux disposée.
+Que s’il arrive qu’une Sœur nous requière de faire quelque chose, et que par surprise nous tesmoignions d’y avoir de la répugnance, il ne faut pas que la Sœur s’en ombrage ni fasse semblant de le cognoistre, ni qu’elle prie de ne le faire pas ; car il n’est pas en nostre puissance d’empescher que nostre couleur, nos yeux et nostre contenance ne tesmoignent le combat que nous avons au dedans, encore que la raison veuille bien faire la chose ; car ce sont des messagers qui viennent sans que l’on les demande, et qui, encore qu’on leur die retournez, n’en font rien pour l’ordinaire. A quel propos donc ceste Sœur ne voudra-t’elle pas que je fasse ce dont elle me prie, pource seulement qu’elle a recognu que j’y ay de la répugnance ? elle doit aymer que je fasse ce profit pour mon ame. Vous me direz : c'est qu’elle craint de vous avoir faschée. Non, c’est l’amour propre qui ne voudroit pas que j’eusse seulement une moindre pensée qu’elle est importune ; je l’auray bien pourtant, encore que je ne m’y arreste pas. Si neantmoins au signe de ma répugnance je joins des paroles qui tesmoignent apertement que je n’ay point d’envie de faire ce dont ceste Sœur me prie, elle peut et doit me dire doucement que je ne le fasse pas, quand ce sont personnes égales (°) ; car il faut que ceux qui ont authorité tiennent ferme et fassent plier leurs inferieurs. Or, combien qu’une Sœur m’auroit refusé entièrement quelque chose ou monstré de la répugnance, je ne dois point perdre la confiance de l’employer une autre fois, ni mesme je ne me dois point mal édifier de son imperfection ; car à ceste heure-là je la supporte, et tantost elle me supportera ; maintenant elle a de l’aversion de faire ceste chose, et une autre fois elle la fera volontiers. Si toutesfois j’avois l’experience que ce fust un esprit qui ne fust pas encore capable de ceste façon de traitter, ' j’attendrois pour quelque temps, jusques à tant qu’elle fust mieux disposée.
 
 Nous devons tous estre capables des defauts les uns des autres, et ne faut en façon quelconque s’estonner d’en rencontrer ; car si nous demeurons quelque temps sans tomber en faute, nous serons par apres un autre temps que nous ne ferons que faillir et ferons plusieurs grandes imperfections, de la suite desquelles il faut profiter par l’abjection qui nous en revient. Il faut souffrir avec patience le retardement de nostre perfection, faisant tousjours ce que nous pouvons pour nostre avancement W, et de bon cœur.
 

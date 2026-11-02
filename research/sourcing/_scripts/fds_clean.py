@@ -16,7 +16,7 @@ def indent(l):
 def split_margin(line):
     m = re.match(r'^(\S.{0,34}?)\s{5,}(\S.*)$', line)
     if m and REFWORDS.match(m.group(1)) and len(m.group(1)) < 36:
-        return ' ' * 12 + m.group(2)
+        return ' ' * m.start(2) + m.group(2)
     return line
 
 def clean(path, keep_heads=False):
@@ -54,12 +54,21 @@ def clean(path, keep_heads=False):
                 break
         if cut is not None:
             lines = lines[:cut]
-        lines = [split_margin(l) for l in lines]
+        longs = [indent(l) for l in lines if len(l.strip()) >= 45]
+        base = collections.Counter(longs).most_common(1)[0][0] if longs else min([indent(l) for l in lines if l.strip()] or [0])
+        fixed = []
+        for l in lines:
+            if l.strip() and indent(l) < base - 4:
+                m = re.match(r'^(\S.{0,45}?)\s{4,}(\S.*)$', l)
+                if m:
+                    l = ' ' * m.start(2) + m.group(2)
+                elif len(l.strip()) < 40 and REFWORDS.match(l.strip()):
+                    continue
+            fixed.append(l)
+        lines = fixed
         body = [l for l in lines if l.strip()]
         if not body:
             continue
-        ind = collections.Counter(indent(l) for l in body)
-        base = min(i for i, c in ind.items() if c >= 2) if any(c >= 2 for c in ind.values()) else min(ind)
         out.append((base, lines))
     paras, cur = [], []
     prevlen = 0
@@ -124,6 +133,8 @@ def finish(paras):
             p = re.sub(r'([\wà-ÿ’]+)-␃([\wà-ÿ’]+)', res, p)
             p = p.replace('␃', '')
         p = re.sub(r'\s*[\(<\[][a-z0-9]{1,2}[\)>\]](?=[\s.,;:!?»]|$)', '', p)
+        p = re.sub(r'\s*\*\s*\([^()]{2,50}\)', '', p)
+        p = re.sub(r'(?<=[\w»\.,;:!?)])\s?\*+(?=[\s.,;:)!?]|$)', '', p)
         p = re.sub(r'\s+', ' ', p).strip()
         out.append(p)
     return out

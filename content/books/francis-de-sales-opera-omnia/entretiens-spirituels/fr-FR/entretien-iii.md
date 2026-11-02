@@ -1,164 +1,16 @@
 # Entretien III. De la fermeté
 
-Nous célébrons l’octave de la feste des saints Innocens, auquel jour la sainte Eglise nous fait lire l’Evangile * qui traitte comme YAnge du Seigneur dit au * Matt., », 13-18. glorieux saint Joseph en songe, c’est à dire en dormant» qu’il prist l’Enfant et la Mere et qu’il s’enfuist en Egypte ; d’autant qu’Herodes, jaloux de sa royauté, cherchoit Nostre Seigneur pour le mettre à mort, de crainte qu’il ne la luy ostast, et estant rempli de colere, dequoy les Roys Mages n’estoient point retournés par devers luy en Jérusalem, il commanda que l’on fist mourir tous les petits enfans au dessous de l’âge de deux ans, croyant que Nostre Seigneur s’y trouveroit, et par ce moyen il s’asseureroit de la possession de son royaume. Cet Evangile est plein d’une quantité de belles conceptions : je me contenteray de quelques unes, qui nous serviront d’un autant agréable que profitable entretien.
+Nous célébrons l’octave de la feste des saints Innocens, auquel jour la sainte Eglise nous fait lire l’Evangile qui traitte comme YAnge du Seigneur dit au Matt., », 13-18. glorieux saint Joseph en songe, c’est à dire en dormant» qu’il prist l’Enfant et la Mere et qu’il s’enfuist en Egypte ; d’autant qu’Herodes, jaloux de sa royauté, cherchoit Nostre Seigneur pour le mettre à mort, de crainte qu’il ne la luy ostast, et estant rempli de colere, dequoy les Roys Mages n’estoient point retournés par devers luy en Jérusalem, il commanda que l’on fist mourir tous les petits enfans au dessous de l’âge de deux ans, croyant que Nostre Seigneur s’y trouveroit, et par ce moyen il s’asseureroit de la possession de son royaume. Cet Evangile est plein d’une quantité de belles conceptions : je me contenteray de quelques unes, qui nous serviront d’un autant agréable que profitable entretien.
 
- Je commence par la première remarque que fait le
+Je commence par la première remarque que fait le *Hom.vw inMatt., grand saint Jean Chrysostome, qui est de l'inconstance, variété et instabilité des accidens de ceste vie mortelle. O que ceste considération est utile ! car le defaut d’icelle est ce qui nous porte au descouragement et bijarrerie d’esprit, inquiétude, variété d’humeurs, inconstance et instabilité en nos résolutions ; car nous ne voudrions pas rencontrer en nostre chemin nulle difficulté, nulle contradiction et nulle peine ; nous voudrions avoir tousjours des consolations sans secheresses ni aridités, des biens sans meslange d’aucun mal, la santé sans maladie, le repos sans travail, la paix sans trouble. Hé ! qui ne void nostre folie ? car nous voulons ce qui ne se peut. La pureté ne se trouve qu’en Paradis et en enfer : au Paradis («) le bien, le repos et la consolation sont en leur pureté, sans aucun meslange du mal, du ■ trouble ni de l’affliction ; au contraire, en enfer le mal, la multitude qui s’y rencontre me fait croire que vous en pourrez bien avoir laissé plusieurs qui seront bonnes à dire, bien que je ne veuille pas m’amuser à la recherche de celles que vous auriez peu laisser, non plus que de traitter de celles que vous auriez peu tirer sur ce sujet, ains j’entends de vous dire tout simplement ce que Dieu me donnera. Et tout ainsy qu’en un tableau, où un homme fait ou bien un géant est représenté, combattant ou faisant quelque autre action, il est bien plus aysé de remarquer les traits de la peinture ,que non pas en un autre où est représenté quelque petit corps, ou plusieurs petits ensemble qui sont en action (car il faut plus de temps pour observer tous les petits tours, entorses, plis et replis, linéaments et semblables observances qu’il faut faire en la peinture, que non pas au premier; car à ceux-ci l’on descouvre autant de fois que l’on les regarde quelque chose de nouveau, où au contraire il est facile de descouvrir du premier coup ce qui est au plus grand tableau) ; de mesme aux autres mystères qui nous sont représentés, où se trouvent Nostre Seigneur, Nostre Dame, saint Joseph, les pasteurs, les Roys Mages qui viennent adorei' Nostre Seigneur, il est facile, ce semble, de descouvrir du premier coup les mystères qui sont cachés sous cette peinture ; mais il n’est pas si aysé de le faire en ce petit tableau raccourci qui nous représente une peuplade si grande de petits enfants qui, estans totis assemblés, semblent estre une petite fonnilliere. Pour beaucoup de temps donc, que nous mettions à considerer ce qui nous est représenté en ce mystère, tousjours neantmoins il nous reste quelque chose a descouvrir de nouveau, autant de fois que nous le regardons.
 
-*Hom.vw inMatt., grand saint Jean Chrysostome *, qui est de l'inconstance, ” ’ variété et instabilité des accidens de ceste vie mortelle.
+Et pour entrer en mon sujet, qui est l’Evangile,
 
-O que ceste considération est utile ! car le defaut d’icelle
+ne se trouve — qu’en Paradis : en Paradis le desespoir, le trouble et l’inquietude s'y trouve et est en sa pureté, sans aucun meslange du bien, de l'espérance, de la tranquillité ni de la paix. Mais en ceste vie périssable, jamais le bien ne se trouve sans la suite du mal, les richesses sans inquiétudes, le repos sans travail, la consolation sans l’affliction, la santé sans la maladie. Bref, tout y est meslangé et meslé, le bien avec le mal ; c’est une continuelle variété d’accidens divers. Ainsi Dieu a voulu diversifier les saisons, et que l’esté fust suivi de l’automne et l’hiver suivi du printemps, pour nous monstrer que rien n’est permanent en ceste vie, Ecoles., n, n. que les choses temporelles sont perpétuellement muables, inconstantes et sujettes au changement : et le defaut de la cognoissance de ceste vérité est, comme j’ay dit, ce qui nous rend muables et changeans en nos humeurs ; d’autant que nous ne nous servons pas de la raison que Dieu nous a donnée, laquelle raison nous rend immuables, fermes et solides, et partant semblables à Dieu.
 
-est ce qui nous porte au descouragement et bijarrerie
+Quand Dieu dit : Faisons l’homme à nostre sem- * Gen., i, 26. blance, il [lui] donna quant et quant la raison et l’usage d’icelle pour discourir, considerer et discerner le bien d’avec le mal, et les choses qui meritent d’estre esleuës ou rejettées. La raison est ce qui nous rend supérieurs et maistres de tous les animaux. Lors que Dieu eut créé nos premiers parens, il leur donna une entière domination sur les poissons de la mer et sur les animaux de la terre, et par conséquent leur donna Ibid., y. 28-30. la cognoissance de chacune espece, et les moyens de les dominer et. s’en rendre le maistre et seigneur. Dieu n’a pas seulement fait ceste grâce à l’homme, de le rendre seigneur des animaux, par le moyen du don qu’il luy a fait de la raison, par laquelle (*) il l’a rendu semblable à luy ; mais encore il luy a donné plein pouvoir sur toutes sortes d’accidens et evenemens. Il vide s. Thom., est dit que l’homme sage, c’est à dire l’homme qui se art^iv^adX°XV’ conduit par la raison, se rendra maistre absolu des astres. Qu’est-ce à dire cela, sinon que par l’usage de la raison il demeurera ferme et constant en la diversité des accidens et evenemens de ceste vie mortelle ? Que le temps soit beau ou qu’il pleuve, que l’air soit calme ou que le vent souffle, l’homme sage ne s’en soucie pas, sçachant bien que rien n’est stable et permanent en *Eccies.,ubi supra, ceste vie, et que ce n’est pas icy le lieu de repos. En l’affliction il ne se desespere point, ains il attend la consolation ; en la maladie il ne se tourmente point, mais il attend la santé, ou s’il void qu’il soit tellement mal que la mort s’en deust ensuivre, il bénit Dieu-, espérant le repos de la vie immortelle qui suit celle-cy. Que s’il rencontre la pauvreté il ne s’en afflige pas, car il sçait bien que les richesses ne sont point en ceste vie sans la pauvreté ; s’il est mesprisé, il sçait bien que l’honneur icy bas n’a point de permanence, ains est ordinairement suivi du deshonneur ou du mespris. Bref, en toutes sortes d’evenemens, soit prospérité ou adversité, il demeure ferme, stable et constant en sa resolution de prétendre et tendre à la jouissance des biens eternels.
 
-d’esprit, inquiétude, variété d’humeurs, inconstance et
-
-instabilité en nos résolutions ; car nous ne voudrions
-
-pas rencontrer en nostre chemin nulle difficulté, nulle
-
-contradiction et nulle peine ; nous voudrions avoir
-
-tousjours des consolations sans secheresses ni aridités,
-
-des biens sans meslange d’aucun mal, la santé sans
-
-maladie, le repos sans travail, la paix sans trouble. Hé !
-
-qui ne void nostre folie ? car nous voulons ce qui ne
-
-se peut. La pureté ne se trouve qu’en Paradis et en
-
-enfer : au Paradis («) le bien, le repos et la consolation
-
-sont en leur pureté, sans aucun meslange du mal, du
-
-■ trouble ni de l’affliction ; au contraire, en enfer le mal,
-
-la multitude qui s’y rencontre me fait croire que vous en pourrez bien avoir
-
-laissé plusieurs qui seront bonnes à dire, bien que je ne veuille pas m’amuser
-
-à la recherche de celles que vous auriez peu laisser, non plus que de traitter
-
-de celles que vous auriez peu tirer sur ce sujet, ains j’entends de vous dire
-
-tout simplement ce que Dieu me donnera. Et tout ainsy qu’en un tableau, où
-
-un homme fait ou bien un géant est représenté, combattant ou faisant quelque
-
-autre action, il est bien plus aysé de remarquer les traits de la peinture ,que
-
-non pas en un autre où est représenté quelque petit corps, ou plusieurs petits
-
-ensemble qui sont en action (car il faut plus de temps pour observer tous les
-
-petits tours, entorses, plis et replis, linéaments et semblables observances
-
-qu’il faut faire en la peinture, que non pas au premier; car à ceux-ci l’on
-
-descouvre autant de fois que l’on les regarde quelque chose de nouveau, où
-
-au contraire il est facile de descouvrir du premier coup ce qui est au plus
-
-grand tableau) ; de mesme aux autres mystères qui nous sont représentés, où
-
-se trouvent Nostre Seigneur, Nostre Dame, saint Joseph, les pasteurs, les
-
-Roys Mages qui viennent adorei' Nostre Seigneur, il est facile, ce semble, de
-
-descouvrir du premier coup les mystères qui sont cachés sous cette peinture ;
-
-mais il n’est pas si aysé de le faire en ce petit tableau raccourci qui nous
-
-représente une peuplade si grande de petits enfants qui, estans totis assemblés,
-
-semblent estre une petite fonnilliere. Pour beaucoup de temps donc, que
-
-nous mettions à considerer ce qui nous est représenté en ce mystère, tousjours
-
-neantmoins il nous reste quelque chose a descouvrir de nouveau, autant de
-
-fois que nous le regardons.
-
- Et pour entrer en mon sujet, qui est l’Evangile,
-
- ne se trouve — qu’en Paradis : en Paradis
-
-le desespoir, le trouble et l’inquietude s'y trouve et est en sa pureté, sans aucun meslange du bien, de l'espérance, de la tranquillité ni de la paix. Mais en ceste vie périssable, jamais le bien ne se trouve sans la suite du mal, les richesses sans inquiétudes, le repos sans travail, la consolation sans l’affliction, la santé sans la maladie. Bref, tout y est meslangé et meslé, le bien avec le mal ; c’est une continuelle variété d’accidens divers. Ainsi Dieu a voulu diversifier les saisons, et que l’esté fust suivi de l’automne et l’hiver suivi du printemps, pour nous monstrer que rien n’est permanent en ceste vie *, * Ecoles., n, n. que les choses temporelles sont perpétuellement muables, inconstantes et sujettes au changement : et le defaut de la cognoissance de ceste vérité est, comme j’ay dit, ce qui nous rend muables et changeans en nos humeurs ; d’autant que nous ne nous servons pas de la raison que Dieu nous a donnée, laquelle raison nous rend immuables, fermes et solides, et partant semblables à Dieu.
-
-Quand Dieu dit * : Faisons l’homme à nostre sem- * Gen., i, 26. blance, il [lui] donna quant et quant la raison et l’usage d’icelle pour discourir, considerer et discerner le bien d’avec le mal, et les choses qui meritent d’estre esleuës ou rejettées. La raison est ce qui nous rend supérieurs et maistres de tous les animaux. Lors que Dieu eut créé nos premiers parens, il leur donna une entière domination sur les poissons de la mer et sur les animaux de la terre *, et par conséquent leur donna * Ibid., y. 28-30. la cognoissance de chacune espece, et les moyens de les dominer et. s’en rendre le maistre et seigneur. Dieu n’a pas seulement fait ceste grâce à l’homme, de
-
-le rendre seigneur des animaux, par le moyen du don
-
-qu’il luy a fait de la raison, par laquelle (*) il l’a rendu
-
-semblable à luy ; mais encore il luy a donné plein
-
-pouvoir sur toutes sortes d’accidens et evenemens. Il
-
-* vide s. Thom., est dit * que l’homme sage, c’est à dire l’homme qui se art^iv^adX°XV’ conduit par la raison, se rendra maistre absolu des
-
-astres. Qu’est-ce à dire cela, sinon que par l’usage de
-
-la raison il demeurera ferme et constant en la diversité
-
-des accidens et evenemens de ceste vie mortelle ? Que
-
-le temps soit beau ou qu’il pleuve, que l’air soit calme
-
-ou que le vent souffle, l’homme sage ne s’en soucie pas,
-
-sçachant bien que rien n’est stable et permanent en
-
-*Eccies.,ubi supra, ceste vie *, et que ce n’est pas icy le lieu de repos. En
-
-l’affliction il ne se desespere point, ains il attend la
-
-consolation ; en la maladie il ne se tourmente point,
-
-mais il attend la santé, ou s’il void qu’il soit tellement
-
-mal que la mort s’en deust ensuivre, il bénit Dieu-,
-
-espérant le repos de la vie immortelle qui suit celle-cy.
-
-Que s’il rencontre la pauvreté il ne s’en afflige pas,
-
-car il sçait bien que les richesses ne sont point en ceste
-
-vie sans la pauvreté ; s’il est mesprisé, il sçait bien que
-
-l’honneur icy bas n’a point de permanence, ains est
-
-ordinairement suivi du deshonneur ou du mespris. Bref,
-
-en toutes sortes d’evenemens, soit prospérité ou adver­
-
-sité, il demeure ferme, stable et constant en sa reso­
-
-lution de prétendre et tendre à la jouissance des biens
-
-eternels.
-
-Mais il ne faut pas seulement considerer ceste variété,
-
-changement, mutation et instabilité és choses transi­
-
-toires et materielles de ceste vie mortelle ; nullement,
-
-ains il les faut considerer encor estre aussi dans le
-
-succès de nostre vie spirituelle, où la fermeté et cons­
-
-tance est d’autant plus necessaire, que la vie spirituelle
-
-est relevée au dessus de la vie mortelle et corporelle.
-
-C’est un abus très-grand que de ne vouloir point souffrir
-
- en quoy
-
-soit — propices ou adverses, il demeure stable, constant, solide en la ou sentir de mutations et changemens en nos humeurs, tandis que nous ne nous gouvernerons point par la raison, et que nous ne voudrons pas nous laisser gouverner. L’on dit communément : voyez cest enfant, il est bien jeune, mais il a pourtant desja l’usage de la raison ; ainsi plusieurs ont l’usage de la raison, lesquels, comme enfans, ne se conduisent pourtant pas par le commandement de la raison. Dieu a donné à l’homme la raison pour le conduire, mais pourtant il y en a peu qui la laissent maistriser en eux ; au contraire, ils se laissent gouverner par leurs passions, lesquelles devroient estre subjettes et obéissantes à la raison selon l’ordre que Dieu requiert de nous.
+Mais il ne faut pas seulement considerer ceste variété, changement, mutation et instabilité és choses transitoires et materielles de ceste vie mortelle ; nullement, ains il les faut considerer encor estre aussi dans le succès de nostre vie spirituelle, où la fermeté et constance est d’autant plus necessaire, que la vie spirituelle est relevée au dessus de la vie mortelle et corporelle. C’est un abus très-grand que de ne vouloir point souffrir en quoy soit — propices ou adverses, il demeure stable, constant, solide en la ou sentir de mutations et changemens en nos humeurs, tandis que nous ne nous gouvernerons point par la raison, et que nous ne voudrons pas nous laisser gouverner. L’on dit communément : voyez cest enfant, il est bien jeune, mais il a pourtant desja l’usage de la raison ; ainsi plusieurs ont l’usage de la raison, lesquels, comme enfans, ne se conduisent pourtant pas par le commandement de la raison. Dieu a donné à l’homme la raison pour le conduire, mais pourtant il y en a peu qui la laissent maistriser en eux ; au contraire, ils se laissent gouverner par leurs passions, lesquelles devroient estre subjettes et obéissantes à la raison selon l’ordre que Dieu requiert de nous.
 
 Je me veux faire entendre plus familièrement : la pluspart des personnes du monde se laissent gouverner et conduire à leurs passions, et non à la raison ; aussi sont-ils pour l’ordinaire bijarres, varians et changeans en leurs humeurs. S’ils ont une passion de se coucher tost ou bien tard, ils le font ; s’ils en ont une d’aller aux champs, ils se levent de grand matin, mais s’ils en ont une de dormir, ils le font tout de mesme ; quand ils veulent disner et desjeuner tost, ou fort tard, ils le font aussi (h. Et non seulement ils sont bijarres et inconstans en cela, mais ils le sont mesme en leur conversation : ils veulent que l’on s’accommode à leurs humeurs, et ne se veulent point accommoder à celles des autres ; ils se laissent emporter à leurs inclinations et particulières affections et passions, sans que pourtant cela soit estimé vicieux parmi les mondains, et pourveu qu’ils n’incommodent pas beaucoup l’esprit du prochain, on ne les tient pas
 
@@ -166,9 +18,7 @@ J
 
 j
 
-Les vrays Entretiens spirituels J
-
-pour bijarres et inconstans. Et pourquoy cela ? non pour autre chose, sinon d'autant que c’est un mal ordinaire
+36 Les vrays Entretiens spirituels J pour bijarres et inconstans. Et pourquoy cela ? non pour autre chose, sinon d'autant que c’est un mal ordinaire
 
 J
 
@@ -194,85 +44,13 @@ Donc par ceste première remarque, nous sommes incités et semonds à considerer
 
 Si je parfois devant des personnes qui ne m’entendissent pas, je tascherois de leur inculquer le mieux qu’il me seroit possible ce que je viens de dire ; mais vous sçavez que j’ay tousjours tasché de vous inculquer bien avant dans la mémoire ceste tres-sainte égalité d’esprit, comme estant la vertu la plus necessaire et particulière de la Religion. Tous les anciens Peres des Religions ont visé particulièrement à faire que ceste égalité et stabilité d’humeurs et d’esprit regnast dans leurs monastères ; pour cela ils ont establi les Statuts, Constitutions et Réglés, à fin que les Religieux s’en servissent comme d’un pont pour passer de la continuelle égalité des exercices qui y sont marqués, et auxquels ils se sont assubjettis, à ceste tant aymable et désirable égalité d’esprit, parmi l’inconstance et inégalité des accidens qui se rencontrent tant au chemin de nostre vie mortelle que de nostre vie spirituelle.
 
-* Ubi supra, p. 32. Le grand saint Chrysostome dit * : O homme, qui te fasches dequoy toutes choses ne te succedent pas comme tu voudrois, n’as-tu point de honte de voir que cela que tu voudrois ne s’est pas mesme trouvé dans la famille de Nostre Seigneur ? Considere, je te prie, la vicissitude, le changement et la diversité des succès qui s’y rencontrent. Nostre Dame reçoit la nouvelle qu’elle concevroit du Saint Esprit un fils, qui seroit Nostre Seigneur et Sauveur : quelle joye, quelle jubilation pour elle en ceste heure sacrée de l’Incarnation du Verbe eternel ! Peu apres, saint Joseph s’apperçoit qu’elle est enceinte, et sçachant bien que ce n’estoit pas de luy qu’elle l’estoit, ô Dieu, quelle affliction ! en quelle detresse ne fut-il pas ! Et Nostre Dame, quelle extrémité de douleur et affliction ne ressentit-elle pas en son ame, voyant son cher Espoux sur le point de la quitter, sa modestie ne luy permettant de descouvrir à saint Joseph l’honneur et la grâce dont Dieu l’avoit gratifiée ! Un peu apres ceste bourrasque passée, l’Ange et auxquels — il se faut assubjettir ayant descouvert à saint Joseph le secret de ce mystère, quelle consolation ne receurent-ils pas !
+Le grand saint Chrysostome dit : O homme, qui te fasches dequoy toutes choses ne te succedent pas comme tu voudrois, n’as-tu point de honte de voir que cela que tu voudrois ne s’est pas mesme trouvé dans la famille de Nostre Seigneur ? Considere, je te prie, la vicissitude, le changement et la diversité des succès qui s’y rencontrent. Nostre Dame reçoit la nouvelle qu’elle concevroit du Saint Esprit un fils, qui seroit Nostre Seigneur et Sauveur : quelle joye, quelle jubilation pour elle en ceste heure sacrée de l’Incarnation du Verbe eternel ! Peu apres, saint Joseph s’apperçoit qu’elle est enceinte, et sçachant bien que ce n’estoit pas de luy qu’elle l’estoit, ô Dieu, quelle affliction ! en quelle detresse ne fut-il pas ! Et Nostre Dame, quelle extrémité de douleur et affliction ne ressentit-elle pas en son ame, voyant son cher Espoux sur le point de la quitter, sa modestie ne luy permettant de descouvrir à saint Joseph l’honneur et la grâce dont Dieu l’avoit gratifiée ! Un peu apres ceste bourrasque passée, l’Ange et auxquels — il se faut assubjettir ayant descouvert à saint Joseph le secret de ce mystère, quelle consolation ne receurent-ils pas !
 
-Lors que Nostre Dame produit son Fils, les Anges annoncent sa naissance, les pasteurs et les Roys Mages le viennent adorer : je vous laisse à penser quelle jubilation et quelle consolation d’esprit n’eurent-ils pas parmi tout cela ! Mais attendez, car ce n’est pas tout. Un peu de temps apres, l’Ange du Seigneur, vient dire en songe à saint Joseph: Prens l’Enfant et la Mere, et fuis en Egypte, d’autant qu’Herodes veut faire mourir l’Enfant *. O que ce fut sans doute un sujet de »Matt., 11,13. douleur très-grand à Nostre Dame et à saint Joseph ! . O que l’Ange traitte bien saint Joseph en vray Religieux ! Prens l’Enfant, dit-il, et la Mere, et fuis en Egypte, et y demeure jusques à ce que je te le die. Qu’est-ce que cecy ? Le pauvre saint Joseph n’eust-il pas peu dire : Vous me dites que j’aille, ne sera-t’il pas assez à temps de partir demain au matin ? où voulez-vous que j’aille de nuict ? Mon équipage n’est pas dressé ; comment voulez-vous que je porte l’Enfant ? auray-je les bras assez forts pour le porter continuellement en un si long voyage ? Quoy ? entendez-vous que la Mere le porte à son tour W ? helas ! ne voyez-vous pas bien que c’est une jeune fille, qui est encore si tendre ? Je n’ay ni cheval ni argent pour faire le voyage. Et ne sçavez-vous pas que les Egyptiens sont ennemis des Israélites ? qui nous recevra ? Et semblables choses, que nous eussions bien alléguées à l’Ange si nous eussions esté en la place de saint Joseph ; lequel ne dit pas un mot pour s’excuser de faire l’obeissance, ains il partit à la mesme heure, et fit tout ce que l’Ange luy avoit commandé.
+Lors que Nostre Dame produit son Fils, les Anges annoncent sa naissance, les pasteurs et les Roys Mages le viennent adorer : je vous laisse à penser quelle jubilation et quelle consolation d’esprit n’eurent-ils pas parmi tout cela ! Mais attendez, car ce n’est pas tout. Un peu de temps apres, l’Ange du Seigneur, vient dire en songe à saint Joseph: Prens l’Enfant et la Mere, et fuis en Egypte, d’autant qu’Herodes veut faire mourir l’Enfant. O que ce fut sans doute un sujet de »Matt., 11,13. douleur très-grand à Nostre Dame et à saint Joseph ! . O que l’Ange traitte bien saint Joseph en vray Religieux ! Prens l’Enfant, dit-il, et la Mere, et fuis en Egypte, et y demeure jusques à ce que je te le die. Qu’est-ce que cecy ? Le pauvre saint Joseph n’eust-il pas peu dire : Vous me dites que j’aille, ne sera-t’il pas assez à temps de partir demain au matin ? où voulez-vous que j’aille de nuict ? Mon équipage n’est pas dressé ; comment voulez-vous que je porte l’Enfant ? auray-je les bras assez forts pour le porter continuellement en un si long voyage ? Quoy ? entendez-vous que la Mere le porte à son tour W ? helas ! ne voyez-vous pas bien que c’est une jeune fille, qui est encore si tendre ? Je n’ay ni cheval ni argent pour faire le voyage. Et ne sçavez-vous pas que les Egyptiens sont ennemis des Israélites ? qui nous recevra ? Et semblables choses, que nous eussions bien alléguées à l’Ange si nous eussions esté en la place de saint Joseph ; lequel ne dit pas un mot pour s’excuser de faire l’obeissance, ains il partit à la mesme heure, et fit tout ce que l’Ange luy avoit commandé.
 
-Il y a quantité de belles remarques sur ce commandement. Et premièrement nous sommes enseignés qu’il
+Il y a quantité de belles remarques sur ce commandement. Et premièrement nous sommes enseignés qu’il ne faut nulle remise et delai en ce qui regarde l’obeissance ; c’est le fait du paresseux que de retarder, et Confess., i. vin, dire, comme saint Augustin dit de soy-mesme : Tantost, « encor un peu, » et puis je me convertiray. Le Saint Esprit ne veut nulle remise, ains desire une grande promptitude à la suite de ses inspirations ; nostre perte vient de nostre lascheté, qui nous fait dire : je commen-ceray tantost. Pourquoy non à ceste heure, qu’il nous inspire et nous pousse ? C’est que nous sommes si tendres sur nous-mesmes que nous craignons tout ce qui semble nous oster de nostre repos, qui n’est autre chose que nostre tardiveté et fainéantise, desquelles nous ne voulons point estre retirés par la sollicitation d’aucuns objects qui nous attirent à sortir de nous-mesmes ; et nous disons quasi comme le paresseux, lequel se plaignant dequoy on le vouloit faire sortir de sa maison : Comment sortiray-je ? dit-il, car il y a un lion sur le grand chemin, et les ours sont sur les advenues, qui Prov., xxii, i3 ; sans doute me dévoreront. O que nous avons grand tort de permettre que Dieu envoyé et renvoyé heurter et frapper à la porte de nos cœurs par plusieurs fois, avant que nous luy voulions ouvrir et luy permettre d’y demeurer W ! car il est à craindre que nous l’irritions et contraignions de nous abandonner.
 
-ne faut nulle remise et delai en ce qui regarde l’obeis-
-
-sance ; c’est le fait du paresseux que de retarder, et
-
-* Confess., i. vin, dire, comme saint Augustin dit de soy-mesme* : Tantost,
-
-« encor un peu, » et puis je me convertiray. Le Saint
-
-Esprit ne veut nulle remise, ains desire une grande
-
-promptitude à la suite de ses inspirations ; nostre perte
-
-vient de nostre lascheté, qui nous fait dire : je commen-
-
-ceray tantost. Pourquoy non à ceste heure, qu’il nous
-
-inspire et nous pousse ? C’est que nous sommes si ten­
-
-dres sur nous-mesmes que nous craignons tout ce qui
-
-semble nous oster de nostre repos, qui n’est autre chose
-
-que nostre tardiveté et fainéantise, desquelles nous ne
-
-voulons point estre retirés par la sollicitation d’aucuns
-
-objects qui nous attirent à sortir de nous-mesmes ; et
-
-nous disons quasi comme le paresseux, lequel se plai­
-
-gnant dequoy on le vouloit faire sortir de sa maison :
-
-Comment sortiray-je ? dit-il, car il y a un lion sur le
-
-grand chemin, et les ours sont sur les advenues, qui
-
-* Prov., xxii, i3 ; sans doute me dévoreront *. O que nous avons grand XXVI’ I3’ tort de permettre que Dieu envoyé et renvoyé heurter
-
-et frapper à la porte de nos cœurs par plusieurs fois,
-
-avant que nous luy voulions ouvrir et luy permettre
-
-d’y demeurer W ! car il est à craindre que nous l’irri­
-
-tions et contraignions de nous abandonner.
-
-De plus, il faut considerer la grande paix et égalité
-
-d’esprit de la tres-sainte Vierge et de saint Joseph, en
-
-leur constance parmi l’inégalité si grande des divers
-
-accidens qui leur arrivoient, ainsi que nous avons
-
-dit. Or, voyez si nous avons raison de nous troubler et
-
-estonner si nous voyons semblables rencontres en la
-
-maison de Dieu, qui est la Religion, puisque cela estoit
-
-en la famille mesme de Nostre Seigneur, où la fermeté
-
- m’amenderay
-
- tout ce qui —• nous semble nous empescher de demeurer en nostre
-
-tardiveté et fainéantise, qui nous semble estre un repos lequel ne veut point
-
-estre interrompu par la sollicitation d’aucun object qui nous fasse
-
-que nous — les luy voulions ouvrir et luy en permettre la demeure !
-
- accidens — et evenemens des choses
+De plus, il faut considerer la grande paix et égalité d’esprit de la tres-sainte Vierge et de saint Joseph, en leur constance parmi l’inégalité si grande des divers accidens qui leur arrivoient, ainsi que nous avons dit. Or, voyez si nous avons raison de nous troubler et estonner si nous voyons semblables rencontres en la maison de Dieu, qui est la Religion, puisque cela estoit en la famille mesme de Nostre Seigneur, où la fermeté m’amenderay tout ce qui —• nous semble nous empescher de demeurer en nostre tardiveté et fainéantise, qui nous semble estre un repos lequel ne veut point estre interrompu par la sollicitation d’aucun object qui nous fasse que nous — les luy voulions ouvrir et luy en permettre la demeure ! accidens — et evenemens des choses
 
 HI. De la Fermeté 4i
 
@@ -280,93 +58,15 @@ et la solidité mesme faisoit résidence, qui estoit Nostre Seigneur. Il nous le
 
 Je passe à la seconde considération que je fais sur ceste parole de l’Ange du Seigneur, qui dit à saint Joseph : Prens l’Enfant, et ce qui s’ensuit. Mais je m’arreste sur ceste parole : l’Ange du Seigneur. Sur quoy je desire que nous remarquions l’estime que nous devons faire du soin, du secours, de l’assistance et de la direction de ceux que Dieu met autour de nous pour nous aider à marcher seurement en la voye de la perfection. Il faut premièrement sçavoir que quand on dit l’Ange du Seigneur, il ne faut pas entendre que ce soit comme l’on dit de nous autres, l’Ange d'un tel ou d’une telle ; car cela veut dire nostre Ange gardien, qui a soin de nous de la part de Dieu ; mais Nostre Seigneur, qui est le roy et la guide des Anges mesmes, n’a pas besoin, ou n’avoit pas besoin durant le cours de sa vie mortelle d’un Ange gardien. Quand donc on dit, l’Ange du Seigneur, cela se doit entendre ainsi, à sçavoir, l’Ange destiné à la conduite de la maison et famille de Nostre Seigneur, et plus spécialement dédié pour son service, et de la tres-sainte Vierge.
 
-Pour expliquer cecy familièrement : l’on changea d’offices et d'aydes ces jours passés ; que signifient ces aydes que l’on vous donne ? pourquoy vous les
+Pour expliquer cecy familièrement : l’on changea d’offices et d'aydes ces jours passés ; que signifient ces aydes que l’on vous donne ? pourquoy vous les donne-t'on ? Saint Grégoire dit que nous devons faire en ce misérable monde ce que font ceux qui cheminent ■ sur la glace, pour nous tenir fermes et solides à l’entreprise que nous faisons de nous sauver ou de nous perfectionner ; car il dit qu’ils se prennent par la main ou par dessous les bras, à fin que si quelqu’un d’entre eux glisse, il puisse estre retenu par l’autre, et puis que l’autre puisse estre retenu par luy quand il sera esbranlé » Doctrina s. Greg. pour tomber à son tour. Nous sommes en ceste vie lo^rz’ comme dessus de la glace, trouvant à tous propos des Similitudo sancti occasions propres pour faire trébucher et tomber, tantost Auctoris au chagrin, ores en des murmures, un peu apres en des bijarreries d’esprit qui feront que l’on ne pourra rien faire qui nous puisse contenter ; et puis nous entrons en degoust de nostre vocation, la mélancolie nous suggerant que nous ne ferons jamais rien qui vaille ; et que sçay-je ? semblables choses et accidens qui se rencontrent en nostre petit monde spirituel. Car l’homme est un abrégé du monde, ou, pour mieux dire, un petit monde, auquel se rencontre tout ce que l’on void au grand monde universel : les passions représentent les bestes et les animaux qui sont sans raison ; les sens, les inclinations, les affections, les puissances, les facultés de nostre ame, tout cela a sa signification particulière ; mais je ne me veux pas arrester à cela, ains je veux suivre mon discours commencé.
 
-donne-t'on ? Saint Grégoire dit que nous devons faire
-
-en ce misérable monde ce que font ceux qui cheminent
-
-■ sur la glace, pour nous tenir fermes et solides à l’entre­
-
-prise que nous faisons de nous sauver ou de nous per­
-
-fectionner ; car il dit qu’ils se prennent par la main ou
-
-par dessous les bras, à fin que si quelqu’un d’entre eux
-
-glisse, il puisse estre retenu par l’autre, et puis que
-
-l’autre puisse estre retenu par luy quand il sera esbranlé
-
-» Doctrina s. Greg. pour tomber à son tour*. Nous sommes en ceste vie
-
-lo^rz’ comme dessus de la glace, trouvant à tous propos des
-
-Similitudo sancti occasions propres pour faire trébucher et tomber, tantost Auctoris
-
-au chagrin, ores en des murmures, un peu apres en des
-
-bijarreries d’esprit qui feront que l’on ne pourra rien
-
-faire qui nous puisse contenter ; et puis nous entrons
-
-en degoust de nostre vocation, la mélancolie nous sug­
-
-gerant que nous ne ferons jamais rien qui vaille ; et
-
-que sçay-je ? semblables choses et accidens qui se ren­
-
-contrent en nostre petit monde spirituel. Car l’homme
-
-est un abrégé du monde, ou, pour mieux dire, un petit
-
-monde, auquel se rencontre tout ce que l’on void au
-
-grand monde universel : les passions représentent les
-
-bestes et les animaux qui sont sans raison ; les sens,
-
-les inclinations, les affections, les puissances, les facul­
-
-tés de nostre ame, tout cela a sa signification particu­
-
-lière ; mais je ne me veux pas arrester à cela, ains je
-
-veux suivre mon discours commencé.
-
-Donc, les aydes que l’on nous donne sont pour nous
-
-ayder à nous tenir fermes en nostre chemin, à fin de
-
-nous empescher de tomber, ou si nous tombons, qu’elles
-
-nous aydent à nous relever. O Dieu, avec quelle fran­
-
-chise, cordialité, sincérité, simplicité et fidelle confiance
-
-ne devons-nous pas traitter avec ces aydes qui nous sont
-
-données de la part de Dieu pour nostre avancement
-
-spirituel ! Non certes autrement que comme avec nos
-
-bons Anges : nous les devons regarder tout de mesme,
-
-car nos bons Anges sont appellés nos Anges gardiens
-
-parce qu’ils sont chargés de nous assister de leurs inspi­
-
-rations, de nous defendre en nos périls, de nous repren­
-
-dre en nos defauts, de nous exciter en la poursuite de la
-
-vertu ; ils sont chargés de porter nos prières devant le throsne de la majesté, bonté et misericorde de Nostre Seigneur, et de nous rapporter l’interinement de nos requestes ; et les grâces que Dieu nous veut faire, il nous les fait par l’entremise ou intercession de nos bons Anges. Nos aydes sont nos bons Anges visibles, ainsi que nos saints Anges gardiens le sont invisibles : nos aydes font visiblement (a’l ce que nos bons Anges font intérieurement ; car elles nous advertissent de nos defauts, elles nous encouragent en nos foiblesses et laschetés, elles nous excitent à la poursuite de nostre entreprise pour parvenir à la perfection, elles nous empeschent par leurs bons conseils de tomber, et nous aydent à nous relever quand nous sommes cheus en quelque précipice d’imperfection ou defaut. Si nous sommes accablés d’ennuy et de degoust, elles nous aydent à porter nostre peyne patiemment, et prient Dieu qu’il nous donne la force de la porter comme il faut pour ne point succomber en la tentation *. Or, voyez donc * Matt„ vi, 13. l’estât que nous devons faire de leur assistance et du soin qu’elles ont pour nous.
+Donc, les aydes que l’on nous donne sont pour nous ayder à nous tenir fermes en nostre chemin, à fin de nous empescher de tomber, ou si nous tombons, qu’elles nous aydent à nous relever. O Dieu, avec quelle franchise, cordialité, sincérité, simplicité et fidelle confiance ne devons-nous pas traitter avec ces aydes qui nous sont données de la part de Dieu pour nostre avancement spirituel ! Non certes autrement que comme avec nos bons Anges : nous les devons regarder tout de mesme, car nos bons Anges sont appellés nos Anges gardiens parce qu’ils sont chargés de nous assister de leurs inspirations, de nous defendre en nos périls, de nous reprendre en nos defauts, de nous exciter en la poursuite de la vertu ; ils sont chargés de porter nos prières devant le throsne de la majesté, bonté et misericorde de Nostre Seigneur, et de nous rapporter l’interinement de nos requestes ; et les grâces que Dieu nous veut faire, il nous les fait par l’entremise ou intercession de nos bons Anges. Nos aydes sont nos bons Anges visibles, ainsi que nos saints Anges gardiens le sont invisibles : nos aydes font visiblement (a’l ce que nos bons Anges font intérieurement ; car elles nous advertissent de nos defauts, elles nous encouragent en nos foiblesses et laschetés, elles nous excitent à la poursuite de nostre entreprise pour parvenir à la perfection, elles nous empeschent par leurs bons conseils de tomber, et nous aydent à nous relever quand nous sommes cheus en quelque précipice d’imperfection ou defaut. Si nous sommes accablés d’ennuy et de degoust, elles nous aydent à porter nostre peyne patiemment, et prient Dieu qu’il nous donne la force de la porter comme il faut pour ne point succomber en la tentation. Or, voyez donc Matt„ vi, 13. l’estât que nous devons faire de leur assistance et du soin qu’elles ont pour nous.
 
 Je considere en apres pourquoy Nostre Seigneur, qui est la Sapience eternelle, ne prend pas soin de sa famille, je veux dire d’avertir saint Joseph, ou bien sa tres-douce Mere, de tout ce qui leur devoit arriver. Ne pouvoit-il pas bien dire à l’oreille de son beau-pere saint Joseph : Allons nous en en Egypte, nous y serons O’) tel temps ? puisque c’est une chose toute asseurée qu’il avoit l’usage de raison dés l’instant de sa conception aux entrailles de la tres-sainte Vierge ; mais il ne vouloit pas faire ce miracle de parler devant que le temps fust venu (c’). Ne pouvoit-il pas bien l’inspirer au cœur de sa tres-sainte Mere ou de son bien-aymé Pere putatif saint Joseph, Espoux de la tres-sacrée Vierge ? pourquoy donc ne fit-il pas tout cela plustost que d’en laisser la
 
-(a*) extérieurement
+(a) extérieurement
 
-(b*) en Egypte, — où nous demeurerons jusques à un
+(b) en Egypte, — où nous demeurerons jusques à un
 
 (c’) de parler — avant qu’il en fust temps.
 
@@ -374,83 +74,25 @@ charge à l’Ange, qui estoit beaucoup inferieur à Nostre Dame ? Cecy n’est 
 
 Et maintenant nous autres, serons-nous si osés de dire que nous nous gouvernerons bien nous mesmes, comme n’ayans plus besoin de direction ni de l’ayde de ceux que Dieu nous a donnés pour nous conduire, ne les estimant assez capables pour nous ? Dites-moy, l’Ange estoit-il plus que Nostre Seigneur ou Nostre Dame ? avoit-il meilleur esprit et plus de jugement ? Nullement. Estoit-il plus qualifié, et doué de quelque grâce speciale ou particulière ? Cela ne se peut, veu que Nostre Seigneur est Dieu et homme tout ensemble, et que Nostre Dame, estant sa Mere, a par conséquent plus de grâce et de perfection que tous les Anges ensemble : néant-moins l’Ange commande, et il est obéi. Mais de plus, voyez l’ordre qui se garde en ceste sainte famille. Il n'y a point de doute qu'il en estoit de mesme qu’en celle des
 
-(d’) de Nostre Seigneur, — et avoit soin du succès des accidens divers qui s’y dévoient rencontrer, pour
+(d’) de Nostre Seigneur, — et avoit soin du succès des accidens divers qui s’y dévoient rencontrer, pour esperviers, où les femelles sont maistresses et valent mieux que les masles. Qui pourroit entrer en doute que Nostre Dame ne valust mieux que saint Joseph ,et qu’elle n’eust plus de discrétion et de qualités propres pour le gouvernement que son Espoux ? Neantmoins, l’Ange ne s’adresse point à elle de tout ce qui est requis de faire, soit pour aller ou pour venir, ni en fin pour quoy que ce soit. Ne vous semble-t’il pas que l’Ange commet une grande indiscrétion de s’adresser plustost à saint Joseph qu’à Nostre Dame, laquelle est le chef de la maison, portant avec elle le thresor du Pere eternel ? n’eust-elle pas eu raison de s’ofïencer de ceste procedure et façon de traitter ? Sans doute elle eust peu dire à son Espoux : Pourquoy iray-je en Egypte, puisque mon Fils ne m’a point révélé que je le deusse faire, ni moins l'Ange ne m’en a parlé ? Or Nostre Dame ne dit rien de tout cela, elle ne s’offence point dequoy l’Ange s’adressa à saint Joseph, ains elle obéit tout simplement parce qu’elle sçait que Dieu l’a ainsi ordonné ; elle ne s’informe point pourquoy, ains il luy suffit que Dieu le veut ainsi, et qu’il prend plaisir que l’on se sousmette sans considération (‘). Mais je suis plus que l’Ange, pouvoit-elle dire, et que saint Joseph. Rien de tout cela. (e’>
 
-esperviers, où les femelles sont maistresses et valent
+Ne voyez-vous pas que Dieu prend plaisir de traitter ainsi avec les hommes, pour leur apprendre la tres-sainte et tres-amoureuse sousmission ? Saint Pierre estoit un vieil homme, rude et grossier, et saint Jean, au contraire, estoit jeune, doux, agréable ; et neantmoins Dieu veut que saint Pierre conduise les autres et soit le Supérieur (g’) universel, et que saint Jean soit
 
-mieux que les masles. Qui pourroit entrer en doute que
+cela; —- c’est à quoy elle ne pense pas seulement.
 
-Nostre Dame ne valust mieux que saint Joseph ,et qu’elle
-
-n’eust plus de discrétion et de qualités propres pour le
-
-gouvernement que son Espoux ? Neantmoins, l’Ange ne
-
-s’adresse point à elle de tout ce qui est requis de faire,
-
-soit pour aller ou pour venir, ni en fin pour quoy que
-
-ce soit. Ne vous semble-t’il pas que l’Ange commet une
-
-grande indiscrétion de s’adresser plustost à saint Joseph
-
-qu’à Nostre Dame, laquelle est le chef de la maison,
-
-portant avec elle le thresor du Pere eternel ? n’eust-elle
-
-pas eu raison de s’ofïencer de ceste procedure et façon
-
-de traitter ? Sans doute elle eust peu dire à son Espoux :
-
-Pourquoy iray-je en Egypte, puisque mon Fils ne m’a
-
-point révélé que je le deusse faire, ni moins l'Ange ne
-
-m’en a parlé ? Or Nostre Dame ne dit rien de tout cela,
-
-elle ne s’offence point dequoy l’Ange s’adressa à saint
-
-Joseph, ains elle obéit tout simplement parce qu’elle
-
-sçait que Dieu l’a ainsi ordonné ; elle ne s’informe point
-
-pourquoy, ains il luy suffit que Dieu le veut ainsi, et
-
-qu’il prend plaisir que l’on se sousmette sans considéra­
-
-tion (‘). Mais je suis plus que l’Ange, pouvoit-elle dire,
-
-et que saint Joseph. Rien de tout cela. (e’>
-
-Ne voyez-vous pas que Dieu prend plaisir de traitter
-
-ainsi avec les hommes, pour leur apprendre la tres-
-
-sainte et tres-amoureuse sousmission ? Saint Pierre
-
-estoit un vieil homme, rude et grossier, et saint Jean,
-
-au contraire, estoit jeune, doux, agréable ; et neant­
-
-moins Dieu veut que saint Pierre conduise les autres
-
-et soit le Supérieur (g’) universel, et que saint Jean soit
-
- cela; —- c’est à quoy elle ne pense pas seulement.
-
-(f’) estoit un — homme rude, grossier, un vieil pescheur, mestier méca­
-
-nique et d’une basse condition ; saint Jean, au contraire, estoit un jeune
-
-■ gentilhomme, doux, agréable, sçavant ; saint Pierre, ignorant :
+(f’) estoit un — homme rude, grossier, un vieil pescheur, mestier mécanique et d’une basse condition ; saint Jean, au contraire, estoit un jeune ■ gentilhomme, doux, agréable, sçavant ; saint Pierre, ignorant :
 
 (g’) Pasteur
 
-Cette phrase est rectifiée d’après le Ms. Les éditions antérieures portent
+Cette phrase est rectifiée d’après le Ms. Les éditions antérieures portent « et qu’il prend plaisir de se sousmettre sans considération. » | î
 
-« et qu’il prend plaisir de se sousmettre sans considération. »
+'
 
-| î I ' g I I i ■ ■“ l’un de ceux qui sont conduits et qui luy obéissent. Grand cas de l’esprit humain, qui ne veut point se rendre capable d’adorer les secrets mystères de Dieu et sa tres-sainte volonté, s’il n’a quelque sorte de cognoissance pourquoy cecy ou cela ! J'ay meilleur esprit, dit-on de soy, plus d’experience, et semblables belles raisons qui ne sont propres qu’à produire des inquiétudes, des humeurs bijarres, des murmures. A quelle raison donne-t’on ceste charge ? pourquoy a-t’on dit cela ? à quelle fin fait-on une telle chose à celle cy plustost qu’à l'autre ? Grande pitié, dés qu’une fois on s’est laissé aller à esplucher tout ce que l’on void faire ! Que ne faisons nous pas pour perdre la tranquillité de nos cœurs ? Il ne nous faut point d’autres raisons sinon que Dieu le veut ainsi, et cela nous doit suffire. Mais qui m’asseurera que c’est la volonté de Dieu ? Nous voudrions que Dieu nous revelast toutes choses par des secrettes inspirations. Voudrions nous attendre qu’il nous envoyast des Anges pour nous annoncer ce qui est de sa volonté ? Il ne le fit pas à Nostre Dame mesme (au moins en ce subjet), ains voulut la luy faire sçavoir par l'entremise de saint Joseph, auquel elle estoit subjette comme à son supérieur. Nous voudrions, par adventure, estre enseignés et instruits par Dieu mesme, par la voye des extases ou ravissemens et visions, et que sçay-je, moy ? semblables niaiseries que nous forgeons en nos esprits, plustost que de nous sousmettre à la voye très aymable et commune d’une sainte sousmission à la conduite de ceux que Dieu nous a donnés, et à l’observance de la direction tant des Réglés que des Supérieurs.
+g I I
+
+■ ■“
+
+l’un de ceux qui sont conduits et qui luy obéissent. Grand cas de l’esprit humain, qui ne veut point se rendre capable d’adorer les secrets mystères de Dieu et sa tres-sainte volonté, s’il n’a quelque sorte de cognoissance pourquoy cecy ou cela ! J'ay meilleur esprit, dit-on de soy, plus d’experience, et semblables belles raisons qui ne sont propres qu’à produire des inquiétudes, des humeurs bijarres, des murmures. A quelle raison donne-t’on ceste charge ? pourquoy a-t’on dit cela ? à quelle fin fait-on une telle chose à celle cy plustost qu’à l'autre ? Grande pitié, dés qu’une fois on s’est laissé aller à esplucher tout ce que l’on void faire ! Que ne faisons nous pas pour perdre la tranquillité de nos cœurs ? Il ne nous faut point d’autres raisons sinon que Dieu le veut ainsi, et cela nous doit suffire. Mais qui m’asseurera que c’est la volonté de Dieu ? Nous voudrions que Dieu nous revelast toutes choses par des secrettes inspirations. Voudrions nous attendre qu’il nous envoyast des Anges pour nous annoncer ce qui est de sa volonté ? Il ne le fit pas à Nostre Dame mesme (au moins en ce subjet), ains voulut la luy faire sçavoir par l'entremise de saint Joseph, auquel elle estoit subjette comme à son supérieur. Nous voudrions, par adventure, estre enseignés et instruits par Dieu mesme, par la voye des extases ou ravissemens et visions, et que sçay-je, moy ? semblables niaiseries que nous forgeons en nos esprits, plustost que de nous sousmettre à la voye très aymable et commune d’une sainte sousmission à la conduite de ceux que Dieu nous a donnés, et à l’observance de la direction tant des Réglés que des Supérieurs.
 
 Qu’il nous suffise donc de sçavoir que Dieu veut que nous obéissions, sans nous amuser à la considération de la capacité de ceux à qui nous devons obéir ; ainsi nous assujettirons nos esprits à marcher tout simplement en la très heureuse voye d’une sainte et tranquille humilité, qui nous rendra infiniment agréables à Dieu.
 
@@ -468,7 +110,7 @@ Mais je considere qu’il n’est pas seulement requis de nous reposer en la div
 
 (k’) quelquefois — en la voye de nostre perfection ? estes bien-heureuse de cognoistre que vous n’estes que la misere mesme. Apres avoir béni Dieu de la cognoissance qu’il vous a donnée, retranchez ceste tendreté inutile qui vous fait plaindre de vostre infirmité.
 
-Nous avons des tendretés sur nos corps qui sont grandement contraires à la perfection ; mais plus, sans comparaison, celles que nous avons sur nos esprits. Mon Dieu ! je ne suis pas fidelle à Nostre Seigneur, et partant je n’ay point de consolation en l'oraison. Grande pitié, certes ! Mais je suis si souvent en sécheresse ! cela me fait croire que je ne suis point bien avec Dieu, qui est si plein de consolation. Voire, c’est bien dit : comme si Dieu donnoit tousjours des consolations à ses amis ! A-t’il jamais esté pure creature si digne d’estre aymée de Dieu, et qui l’ait esté davantage, que Nostre Dame et saint Joseph ? voyez s’ils sont tousjours en consolation. Se peut-il imaginer une affliction plus extreme que celle que saint Joseph ressentit lors qu’il s’apperceut que la glorieuse Vierge estoit enceinte, sçachant bien que ce n’estoit pas de son fait ? Son affliction et sa detresse estoit d’autant plus grande que la passion de l’amour est plus vehemente que les autres passions de l’ame ; et de plus, en l’amour, la jalousie est l'extremité de la peine, ainsi que le déclaré l’Espouse au Cantique des Cantiques*: L’amour, dit-elle, est «cap. ult., 6. fort comme la mort, car l’amour fait les mesmes effets en l’ame qu’au corps la mort ; mais la jalousie (m') est dure comme l'enfer. Je vous laisse à penser donc quelle estoit la douleur du pauvre saint Joseph, et de Nostre Dame encore, quand elle se vid en l’estime que pouvoit avoir d’elle celuy qu’elle aymoit si chèrement et duquel elle sçavoit estre si chèrement aymée : la jalousie le faisoit languir, ne sçachant quel parti (“’) prendre ; il se resolvoit, plustost que de blasmer celle (F) à — ceux qu’il ayme ! Y a-t’il jamais eu (mimais — Je zele, la jalousie elle (n’) conseil
+Nous avons des tendretés sur nos corps qui sont grandement contraires à la perfection ; mais plus, sans comparaison, celles que nous avons sur nos esprits. Mon Dieu ! je ne suis pas fidelle à Nostre Seigneur, et partant je n’ay point de consolation en l'oraison. Grande pitié, certes ! Mais je suis si souvent en sécheresse ! cela me fait croire que je ne suis point bien avec Dieu, qui est si plein de consolation. Voire, c’est bien dit : comme si Dieu donnoit tousjours des consolations à ses amis ! A-t’il jamais esté pure creature si digne d’estre aymée de Dieu, et qui l’ait esté davantage, que Nostre Dame et saint Joseph ? voyez s’ils sont tousjours en consolation. Se peut-il imaginer une affliction plus extreme que celle que saint Joseph ressentit lors qu’il s’apperceut que la glorieuse Vierge estoit enceinte, sçachant bien que ce n’estoit pas de son fait ? Son affliction et sa detresse estoit d’autant plus grande que la passion de l’amour est plus vehemente que les autres passions de l’ame ; et de plus, en l’amour, la jalousie est l'extremité de la peine, ainsi que le déclaré l’Espouse au Cantique des Cantiques: L’amour, dit-elle, est «cap. ult., 6. fort comme la mort, car l’amour fait les mesmes effets en l’ame qu’au corps la mort ; mais la jalousie (m') est dure comme l'enfer. Je vous laisse à penser donc quelle estoit la douleur du pauvre saint Joseph, et de Nostre Dame encore, quand elle se vid en l’estime que pouvoit avoir d’elle celuy qu’elle aymoit si chèrement et duquel elle sçavoit estre si chèrement aymée : la jalousie le faisoit languir, ne sçachant quel parti (“’) prendre ; il se resolvoit, plustost que de blasmer celle (F) à — ceux qu’il ayme ! Y a-t’il jamais eu (mimais — Je zele, la jalousie elle (n’) conseil
 
 4
 
@@ -486,7 +128,7 @@ quand — bon luy semblera.
 
 III. De la Fermeté 5i
 
-faut avoir le soin que Dieu veut que nous ayons de nous perfectionner, et neantmoins luy laisser le soin de nostre perfection. Dieu veut que nous ayons un soin tranquille et paisible, qui nous fasse faire ce qui est jugé propre par ceux qui nous conduisent, et aller fidellement tousjours avant dans le chemin qui nous est marqué par les Réglés et Directoires qui nous sont donnés ; et (r’) quant au reste, que nous nous en reposions en son soin paternel, taschant tant qu’il nous sera possible de tenir nostre ame en paix, car la demeure de Dieu a esté faite en ■paix *, et au cœur paisible et bien reposé. Vous sçavez Ps. lxxv, 2. que quand le lac est bien calme et que les vents n’agitent point ses eaux, le ciel, en une nuict bien sereine, y est si bien représenté avec les estoiles, que regardant en bas l’on void aussi bien la beauté du ciel que si on la regardoit <s’) en haut : de mesme, quand nostre ame est bien accoisée, et que les vents du soin superflu, inégalité d’esprit et inconstance ne la troublent et inquietent point (D, elle est fort capable de porter en elle l’image de Nostre Seigneur. Mais quand elle est troublée, inquiétée et agitée des diverses bourrasques des passions, et (“’) que l’on se laisse gouverner par elles et non par la raison qui nous rend semblables à Dieu, lors nous ne sommes nullement capables de représenter la belle et tres-aymable image de Nostre Seigneur crucifié, ni la diversité de ses excellentes vertus, ni nostre ame ne peut pas estre capable de luy servir de lict nuptial. Il nous faut donc laisser le soin de nous-mesmes à la mercy de la divine Providence, et faire neantmoins tout bonnement et simplement ce qui est en nostre pouvoir pour nous amender et perfectionner, prenant tousjours soigneusement garde de ne point laisser troubler et inquieter nos esprits.
+faut avoir le soin que Dieu veut que nous ayons de nous perfectionner, et neantmoins luy laisser le soin de nostre perfection. Dieu veut que nous ayons un soin tranquille et paisible, qui nous fasse faire ce qui est jugé propre par ceux qui nous conduisent, et aller fidellement tousjours avant dans le chemin qui nous est marqué par les Réglés et Directoires qui nous sont donnés ; et (r’) quant au reste, que nous nous en reposions en son soin paternel, taschant tant qu’il nous sera possible de tenir nostre ame en paix, car la demeure de Dieu a esté faite en ■paix, et au cœur paisible et bien reposé. Vous sçavez Ps. lxxv, 2. que quand le lac est bien calme et que les vents n’agitent point ses eaux, le ciel, en une nuict bien sereine, y est si bien représenté avec les estoiles, que regardant en bas l’on void aussi bien la beauté du ciel que si on la regardoit <s’) en haut : de mesme, quand nostre ame est bien accoisée, et que les vents du soin superflu, inégalité d’esprit et inconstance ne la troublent et inquietent point (D, elle est fort capable de porter en elle l’image de Nostre Seigneur. Mais quand elle est troublée, inquiétée et agitée des diverses bourrasques des passions, et (“’) que l’on se laisse gouverner par elles et non par la raison qui nous rend semblables à Dieu, lors nous ne sommes nullement capables de représenter la belle et tres-aymable image de Nostre Seigneur crucifié, ni la diversité de ses excellentes vertus, ni nostre ame ne peut pas estre capable de luy servir de lict nuptial. Il nous faut donc laisser le soin de nous-mesmes à la mercy de la divine Providence, et faire neantmoins tout bonnement et simplement ce qui est en nostre pouvoir pour nous amender et perfectionner, prenant tousjours soigneusement garde de ne point laisser troubler et inquieter nos esprits.
 
 (r’) les Réglés et — directions qui nous sont données ; et puis,
 
@@ -496,49 +138,9 @@ faut avoir le soin que Dieu veut que nous ayons de nous perfectionner, et neantm
 
 (u’) bourrasques — que causent les passions lors
 
-Je remarque en fin que l’Ange dit à saint Joseph qu’il demeurast en Egypte jusques à ce qu’il l’advertist de revenir, et que le bon (v’> Saint ne luy dit point : Et quand sera-ce, Seigneur, que vous me le direz ? pour nous enseigner que quand on nous fait commandement d’embrasser quelque exercice, il ne faut pas dire : Sera-ce pour long temps ? ains il le faut embrasser tout simplement, imitant la parfaite obéissance d’Abraham, lors que Dieu luy commanda de luy sacrifier son fils. Il n’apporta nulle répliqué, ni plainte, ni delay à exécuter le commandement de Dieu : aussi Dieu le favorisa grandement, en luy faisant trouver un belier qu’il sacrifia
+Je remarque en fin que l’Ange dit à saint Joseph qu’il demeurast en Egypte jusques à ce qu’il l’advertist de revenir, et que le bon (v’> Saint ne luy dit point : Et quand sera-ce, Seigneur, que vous me le direz ? pour nous enseigner que quand on nous fait commandement d’embrasser quelque exercice, il ne faut pas dire : Sera-ce pour long temps ? ains il le faut embrasser tout simplement, imitant la parfaite obéissance d’Abraham, lors que Dieu luy commanda de luy sacrifier son fils. Il n’apporta nulle répliqué, ni plainte, ni delay à exécuter le commandement de Dieu : aussi Dieu le favorisa grandement, en luy faisant trouver un belier qu’il sacrifia sur la montagne, au lieu de son fils, Dieu se contentant
 
-sur la montagne, au lieu de son fils, Dieu se contentant * Gen., xxn, 1-13- de sa volonté *.
-
-Je concluds par la simplicité que pratiqua saint Joseph
-
-en s’en allant, sur le commandement de l’Ange, en
-
-Egypte, où il estoit asseuré de trouver autant d’ennemis
-
-qu’il y avoit d’habitans en ce païs-là. Ne pouvoit-il pas
-
-bien dire : Vous me faites emporter l’Enfant ; vous nous
-
-faites fuir un ennemy, et vous nous allez mettre entre
-
-les mains de mille et mille autres que nous trouverons
-
-en Egypte, d’autant que nous sommes d’Israël. Il ne
-
-fait point de reflection sur le commandement, c’est
-
-pourquoy il s’en alla plein de paix et de confiance en
-
-Dieu. De mesme, mes filles, quand on nous donne
-
-quelque charge ne disons pas : Mon Dieu ! je suis si
-
-brusque, si l’on me donne telle charge je feray mille
-
-traits d’empressement ; je suis desja si distraite, si l’on
-
-me donne un tel office je le seray bien plus (w’) ; mais
-
-si l’on me laissoit dans ma cellule, je serois si modeste,
-
-si tranquille, si recueillie. Allez tout simplement en
-
-Egypte parmi la grande quantité d’ennemis que vous
-
-y aurez, car Dieu qui vous y fait aller vous y conservera,
-
-et vous n’y mourrez point ; où au contraire, si vous (v’) le.bon — et glorieux (w’) mille traits —. d’activité ; je suis desja si distraite, si l’on me fait portière je le seray bien plus, car l’on sçait tant de nouvelles à la porte demeurez en Israël où est l’ennemy de vostre propre volonté, sans doute il vous y fera mourir. Il ne seroit pas bien de prendre des charges et offices par sa propre élection, de crainte que nous n’y fissions pas nostre devoir : mais quand c’est par obéissance, n’apportons jamais nulle excuse ; car Dieu est pour nous, et nous fera profiter davantage en la perfection que si nous n’avions rien à faire. Et ne sçavez-vous pas ce que je vous ay desja dit autrefois * et qu’il n’est pas mauvais •cf.EntretienXVi. de redire, que la vertu ne requiert pas que nous soyons privés de l’occasion de trébucher en l’imperfection qui luy est contraire? «Il ne suffit pas,» dit Cassian *, * instit., lit. vin,
+Je concluds par la simplicité que pratiqua saint Joseph en s’en allant, sur le commandement de l’Ange, en Egypte, où il estoit asseuré de trouver autant d’ennemis qu’il y avoit d’habitans en ce païs-là. Ne pouvoit-il pas bien dire : Vous me faites emporter l’Enfant ; vous nous faites fuir un ennemy, et vous nous allez mettre entre les mains de mille et mille autres que nous trouverons en Egypte, d’autant que nous sommes d’Israël. Il ne fait point de reflection sur le commandement, c’est pourquoy il s’en alla plein de paix et de confiance en Dieu. De mesme, mes filles, quand on nous donne quelque charge ne disons pas : Mon Dieu ! je suis si brusque, si l’on me donne telle charge je feray mille traits d’empressement ; je suis desja si distraite, si l’on me donne un tel office je le seray bien plus (w’) ; mais si l’on me laissoit dans ma cellule, je serois si modeste, si tranquille, si recueillie. Allez tout simplement en Egypte parmi la grande quantité d’ennemis que vous y aurez, car Dieu qui vous y fait aller vous y conservera, et vous n’y mourrez point ; où au contraire, si vous (v’) le.bon — et glorieux (w’) mille traits —. d’activité ; je suis desja si distraite, si l’on me fait portière je le seray bien plus, car l’on sçait tant de nouvelles à la porte demeurez en Israël où est l’ennemy de vostre propre volonté, sans doute il vous y fera mourir. Il ne seroit pas bien de prendre des charges et offices par sa propre élection, de crainte que nous n’y fissions pas nostre devoir : mais quand c’est par obéissance, n’apportons jamais nulle excuse ; car Dieu est pour nous, et nous fera profiter davantage en la perfection que si nous n’avions rien à faire. Et ne sçavez-vous pas ce que je vous ay desja dit autrefois et qu’il n’est pas mauvais •cf.EntretienXVi. de redire, que la vertu ne requiert pas que nous soyons privés de l’occasion de trébucher en l’imperfection qui luy est contraire? «Il ne suffit pas,» dit Cassian, instit., lit. vin,
 
 . , . C. XVIII.
 

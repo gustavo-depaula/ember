@@ -2,7 +2,7 @@
 
 Ces Constitutions n’obligent aucunement d’elles mesmes à aucun péché, ni mortel ni veniel, ains seulement sont données pour la direction et conduite des personnes de la Congrégation. Mais pourtant, si quelqu’une les violoit volontairement, à dessein, avec mespris, ou bien avec scandale tant des Sœurs que des estrangers, elle commettroit sans doute une grande offense ; car on ne sçauroit exempter de coulpe celle qui avilit et deshonore les choses de Dieu, desment sa profession, renverse la Congrégation, et dissipe les fruits de bon exemple et de bonne odeur qu’elle doit produire envers le prochain : si bien qu’un tel mespris volontaire seroit en fin suivi de quelque grand chastiment du Ciel, et spécialement de la privation des grâces et dons du Saint Esprit, qui sont ordinairement ostés à ceux qui abandonnent leurs bons desseins et quittent le chemin auquel Dieu les a mis. Or le mespris des Constitutions, comme aussi de toutes bonnes œuvres, se cognoist par les considérations suivantes.
 
-Celuy là y tombe qui par mespris viole ou laisse à faire quelque ordonnance, non seulement volontairement, mais de propos délibéré ; car s’il la viole par inadvertance, oubli, ou surprise de quelque passion, c’est autre chose : car le mespris enclost en soy une volonté délibérée, et qui se détermine destinément à faire ce qu’elle fait.* De là il s’ensuit que celuy qui viole l’ordonnance ou désobéit par mespris, non seulement il désobéit, mais il veut désobéir ; non seulement il fait la désobéissance, mais il la fait avec intention de désobéir. Il est défendu de manger hors du repas : une fille mange des prunes, des abricots, ou autres fruits ; elle viole la Réglé et fait une désobéissance. Or, si elle mange attirée de la délectation qu’elle en pense recevoir, alors elle désobéit non pas par désobéissance, mais par friandise : ou bien elle mange parce qu’elle n’estime point la Réglé et n’en veut tenir compte ni se sousmettre à icelle, et alors elle désobéit par mespris et désobéissance.
+Celuy là y tombe qui par mespris viole ou laisse à faire quelque ordonnance, non seulement volontairement, mais de propos délibéré ; car s’il la viole par inadvertance, oubli, ou surprise de quelque passion, c’est autre chose : car le mespris enclost en soy une volonté délibérée, et qui se détermine destinément à faire ce qu’elle fait. De là il s’ensuit que celuy qui viole l’ordonnance ou désobéit par mespris, non seulement il désobéit, mais il veut désobéir ; non seulement il fait la désobéissance, mais il la fait avec intention de désobéir. Il est défendu de manger hors du repas : une fille mange des prunes, des abricots, ou autres fruits ; elle viole la Réglé et fait une désobéissance. Or, si elle mange attirée de la délectation qu’elle en pense recevoir, alors elle désobéit non pas par désobéissance, mais par friandise : ou bien elle mange parce qu’elle n’estime point la Réglé et n’en veut tenir compte ni se sousmettre à icelle, et alors elle désobéit par mespris et désobéissance.
 
 Il s’ensuit encor, que celuy qui désobéit par quelque allechement ou surprise de passion voudroit bien pouvoir contenter sa passion sans désobéir, et à mesme temps qu’il prend plaisir, par exemple, à manger, il est marri que ce soit avec désobéissance ; [mais celuy qui désobéit par désobéissance et mespris n’est pas marri de désobéir, ains au contraire il prend son plaisir à désobéir : de maniéré qu’en l’un] la désobéissance suit ou accompaigne l’œuvre, mais en l’autre, la désobéissance précédé l’œuvre et luy sert de cause et de motif, quoy que par friandise. Car qui mange contre le commandement, consequemment ou ensemblement, il commet désobéissance, quoy que s’il la pouvoit eviter en mangeant il ne la voudroit pas commettre ; comme celuy qui en beuvant trop voudrait bien ne s’enivrer pas, quoy que neantmoins en beuvant il s’enivre : mais celuy qui mange par mespris de la Réglé et par désobéissance, veut la désobéissance mesme, en sorte qu’il ne ferait pas l’œuvre ni ne la voudrait pas s’il n'estoit esmeu à ce faire par la volonté qu’il a de désobéir. L’un donc désobéit voulant une chose à laquelle la désobéissance est attachée, et l'autre désobéit voulant la mesme chose parce que la désobéissance y est attachée. L’un rencontre la désobéissance en la chose qu’il veut, et voudrait bien ne la rencontrer pas ; et l’autre l’y recherche, et ne veut la chose qu’avec intention de l’y trouver. L’un dit : je désobéis parce que je veux manger cet abricot que je ne puis manger sans désobéir ; et l’autre dit : je le mange parce que je veux désobéir, ce que je feray en W mangeant. La désobéissance et mespris suit l’un, et elle conduit l'autre.
 
@@ -24,7 +24,7 @@ Mais à fin que l’on puisse aucunement discerner quand une personne viole les 
 
 4. Quand elle tasche de tirer (0 les autres au mesme violement et leur oster la crainte d’iceluy, leur disant que ce n’est rien, qu’il n’y a point de danger.
 
-Ces signes, pourtant, ne sont pas si certains que quelquefois ils n’arrivent pour d’autres causes que pour celle du mespris : car il peut arriver qu’une personne se mocque de celuy qui la reprend, pour le peu d’estime qu’elle fait de luy, et qu’elle persevere par infirmité, et qu’elle conteste par despit et colere, et qu’elle desbauche les autres pour avoir des compaignes et excuser son mal. Neantmoins, il est aisé à juger par les circonstances, quand tout cela se fait par mespris ; car, en fin, l’effronterie et manifeste libertinage suit ordinairement le mespris, et ceux qui l’ont au cœur en fin le poussent jusques à la bouche, et ils disent, comme David le * PS. XI, 5. remarque * : Qui est nostre maistre ?
+Ces signes, pourtant, ne sont pas si certains que quelquefois ils n’arrivent pour d’autres causes que pour celle du mespris : car il peut arriver qu’une personne se mocque de celuy qui la reprend, pour le peu d’estime qu’elle fait de luy, et qu’elle persevere par infirmité, et qu’elle conteste par despit et colere, et qu’elle desbauche les autres pour avoir des compaignes et excuser son mal. Neantmoins, il est aisé à juger par les circonstances, quand tout cela se fait par mespris ; car, en fin, l’effronterie et manifeste libertinage suit ordinairement le mespris, et ceux qui l’ont au cœur en fin le poussent jusques à la bouche, et ils disent, comme David le PS. XI, 5. remarque : Qui est nostre maistre ?
 
 Si faut-il que j’adjouste un mot d’une tentation qui peut arriver sur ce poinct : c’est que quelquefois une
 
@@ -42,151 +42,25 @@ des —• compaignons et des excuses en personne n’estime pas d’estre déso
 
 De sorte que, qui veut vivre heureusement et parfaitement il faut qu’il s’accoustume à vivre selon la raison, les Réglés et l’obeissance, et non selon ses inclinations ou aversions ; et qu’il estime toutes les Réglés, qu’il les honore et qu’il les chérisse, au moins par la volonté supérieure : car s’il en mesprise une maintenant, demain il en mesprisera une autre, et l’autre jour encore une autre, et dés qu’une fois le lien du devoir est rompu, tout ce qui estoit lié, petit à petit s’esparpille et dissipe.
 
-Ne plaise pas à Dieu que jamais aucune des Filles de la Visitation s’esgare si fort du chemin de l’amour de Dieu, qu’elle s’aille perdre dedans ce mespris des Réglés, par désobéissance, dureté et obstination de cœur ; car, que luy pourroit-il arriver de pis ni de plus malheureux ? attendu mesme qu’il y a si peu de réglés particulières et propres de la Congrégation ; la pluspart et quasi toutes estant, ou bien des réglés generales qu’il faudroit qu’elles observassent en leurs maisons du monde si elles vouloient vivre tant soit peu avec honneur, réputation et crainte de Dieu,
+Ne plaise pas à Dieu que jamais aucune des Filles de la Visitation s’esgare si fort du chemin de l’amour de Dieu, qu’elle s’aille perdre dedans ce mespris des Réglés, par désobéissance, dureté et obstination de cœur ; car, que luy pourroit-il arriver de pis ni de plus malheureux ? attendu mesme qu’il y a si peu de réglés particulières et propres de la Congrégation ; la pluspart et quasi toutes estant, ou bien des réglés generales qu’il faudroit qu’elles observassent en leurs maisons du monde si elles vouloient vivre tant soit peu avec honneur, réputation et crainte de Dieu, ou bien qui regardent la manifeste bienséance d’une maison devote ou les officieres en particulier (b.
 
-ou bien qui regardent la manifeste bienséance d’une
+Que si quelquefois il leur arrive quelque dégoust ou aversion des Constitutions et reglemens de la Congrégation, elles se comporteront en mesme sorte qu’il se faut comporter envers les autres tentations, corrigeant l’aversion qu’elles ont par la raison, et par bonne et forte resolution de la partie supérieure de l’ame, attendant que Dieu leur envoyé de la consolation en leur chemin, et leur fasse voir (comme à Jacob, lors qu’il *Gen.,xxvin,ii,12. estoit las et recreu en son voyage) que les Réglés et methode de vie qu’elles ont embrassées sont la vraye eschelle par laquelle elles doivent, à guise d’Anges, monter à Dieu par charité, et descendre en elles mesmes par humilité.
 
-maison devote ou les officieres en particulier (b.
+Mais si, sans aversion, il leur arrivoit de violer la Réglé par infirmité, alors elles s'humilieront soudain devant Nostre Seigneur, luy demanderont pardon, renouvelleront leur resolution d’observer cette mesme Réglé, et prendront garde sur tout de ne point entrer en descouragement d’esprit et inquiétude ; ains, avec nouvelle confiance en Dieu, recourront à son saint amour.
 
-Que si quelquefois il leur arrive quelque dégoust ou
+Et quant aux violements de la Réglé qui ne se font point par pure désobéissance ni par mespris, s’ils se font par nonchalance, infirmité, tentation ou négligence, on s’en pourra et devra confesser comme de péché veniel, ou bien comme de chose où il y peut avoir péché veniel : car, bien qu’il n’y ait aucune sorte de péché en vertu de l’obligation de la Réglé, il y en peut neantmoins avoir à raison de la négligence, nonchalance, précipitation ou autres tels defauts, puisqu’il arrive rarement que voyant un bien propre à nostre ou bien — des réglés qui regardent les offices et la manifeste bienséance d’une maison devote.
 
-aversion des Constitutions et reglemens de la Congré­
-
-gation, elles se comporteront en mesme sorte qu’il se
-
-faut comporter envers les autres tentations, corrigeant
-
-l’aversion qu’elles ont par la raison, et par bonne et
-
-forte resolution de la partie supérieure de l’ame,
-
-attendant que Dieu leur envoyé de la consolation en
-
-leur chemin, et leur fasse voir (comme à Jacob, lors qu’il *Gen.,xxvin,ii,12. estoit las et recreu en son voyage *) que les Réglés et
-
-methode de vie qu’elles ont embrassées sont la vraye
-
-eschelle par laquelle elles doivent, à guise d’Anges,
-
-monter à Dieu par charité, et descendre en elles mesmes
-
-par humilité.
-
-Mais si, sans aversion, il leur arrivoit de violer la
-
-Réglé par infirmité, alors elles s'humilieront soudain
-
-devant Nostre Seigneur, luy demanderont pardon,
-
-renouvelleront leur resolution d’observer cette mesme
-
-Réglé, et prendront garde sur tout de ne point entrer
-
-en descouragement d’esprit et inquiétude ; ains, avec
-
-nouvelle confiance en Dieu, recourront à son saint
-
-amour.
-
-Et quant aux violements de la Réglé qui ne se font
-
-point par pure désobéissance ni par mespris, s’ils se
-
-font par nonchalance, infirmité, tentation ou négligence,
-
-on s’en pourra et devra confesser comme de péché
-
-veniel, ou bien comme de chose où il y peut avoir
-
-péché veniel : car, bien qu’il n’y ait aucune sorte de
-
-péché en vertu de l’obligation de la Réglé, il y en
-
-peut neantmoins avoir à raison de la négligence, non­
-
-chalance, précipitation ou autres tels defauts, puisqu’il
-
-arrive rarement que voyant un bien propre à nostre ou bien — des réglés qui regardent les offices et la manifeste bienséance d’une maison devote.
-
-corrigeant l’aversion — par la raison, considération et en descouragement — et inquiétude d’esprit avancement, et notamment estant invitées et appeilées à le faire, nous le laissions volontairement sans offenser ; car tel délaissement ne procede (°) que de négligence, affection dépravée ou manquement de ferveur, et s’il nous faut rendre compte des paroles qui sont vrayement oyseuses *, combien plus d’avoir rendu oyseuse et inutile * Matt., xn, 36. la semonce que la Réglé nous fait à son exercice !
+corrigeant l’aversion — par la raison, considération et en descouragement — et inquiétude d’esprit avancement, et notamment estant invitées et appeilées à le faire, nous le laissions volontairement sans offenser ; car tel délaissement ne procede (°) que de négligence, affection dépravée ou manquement de ferveur, et s’il nous faut rendre compte des paroles qui sont vrayement oyseuses, combien plus d’avoir rendu oyseuse et inutile Matt., xn, 36. la semonce que la Réglé nous fait à son exercice !
 
 J’ay dit qu’il arrive rarement de n’offenser pas Dieu quand nous laissons volontairement de faire un bien propre à nostre avancement, parce qu’il se peut faire qu’on ne le laisse pas volontairement, ains par oubli, inadvertance, surreption ; et lors il n’y a aucun péché, petit ni grand, sinon que la chose que nous oublions fust de si grande importance que nous fussions obligés de nous tenir attentifs pour ne point tomber en oubli, inadvertance et surreption (Q). Comme, par exemple, si une fille rompt le silence parce qu’elle n’est pas attentive qu’elle soit en silence, et partant elle ne s’en res-souvenoit pas, d’autant qu’elle pensoit à d’autres choses, ou bien elle est surprise de quelque esmotion de parler, laquelle devant qu’elle ayt bien pensé de reprimer elle aura dit quelque chose, sans doute elle ne peche point : car l’observation W du silence n’est pas de si grande importance qu'on soit obligé d’avoir une telle attention qu’on ne puisse pas l’oublier ; ains au contraire, estant chose tres-bonne pendant le silence de s’occuper en d’autres saintes et pieuses pensées, si estant attentive à icelles on s’oublie d’estre en silence, cet oubli provenant d'une si bonne cause ne peut estre mauvais, ni par conséquent le manquement de silence qui provient d’iceluy.
 
-Mais si elle oublioit de servir une malade, qui faute de service fust en danger, et qu’on luy eust enjoint ce
+Mais si elle oublioit de servir une malade, qui faute de service fust en danger, et qu’on luy eust enjoint ce service, pour lequel on se reposeroit sur elle, l’excuse ne seroit pas bonne de dire : Je n'y ay pas pensé, je ne m'en suis pas ressouvenue. Non, car la chose estoit de si grande importance, qu’il falloit se tenir en attention pour ne point y manquer, et le manquement de cette attention ne peut estre excusable, eu esgard à la qualité de la chose, qui meritoit qu’on fust attentive;
 
-service, pour lequel on se reposeroit sur elle, l’excuse ne
+W Il faut croire qü’à mesure que le divin amour fera progrès és âmes des Filles de la Congrégation, il les rendra tousjours plus exactes et soigneuses à l’observation de leurs Constitutions, quoy que d’elles mesmes elles n’obligent point sous peine de péché mortel ni veniel ; car si elles obligeoient sous peine de la mort, combien estroittement les observeroit-on ? Or, l’amour est fort comme la mort ; donques les attraits de l’amour sont aussi puissans à faire executer une resolution comme les menaces de la mort. Le zele, dit le sacré Cantique, est dur et ferme comme l’enfer; les âmes, donques, qui ont le zele, feront autant et plus en vertu d'iceluy, qu’elles ne feroient pour la crainte de l'enfer : si bien que les Filles de la Congrégation, par la suave violence de l’amour, observeront autant exactement leurs Réglés, Dieu aydant, que si elles y estoient obligées sous peine de damnation eternelle.
 
-seroit pas bonne de dire : Je n'y ay pas pensé, je ne
+En somme, elles auront perpétuelle mémoire de ce que dit Salomon aux Proverbes, xix : Qui garde le commandement garde son ame, et qui négligé sa voye il mourra : or vostre voye c’est la sorte de vie en laquelle Dieu vous a mises. Je ne dis rien icy de l'obligation que nous avons à l’observance des vœux ; car il est tout évident que qui transgresse absolument la Réglé és vœux essentiels de pauvreté, chasteté et obéissance, peche mortellement, et feroit-on le mesme, contrevenant à la closture.
 
-m'en suis pas ressouvenue. Non, car la chose estoit de
-
-si grande importance, qu’il falloit se tenir en attention
-
-pour ne point y manquer, et le manquement de cette
-
-attention ne peut estre excusable, eu esgard à la qualité
-
-de la chose, qui meritoit qu’on fust attentive;
-
-W Il faut croire qü’à mesure que le divin amour fera
-
-progrès és âmes des Filles de la Congrégation, il les
-
-rendra tousjours plus exactes et soigneuses à l’obser­
-
-vation de leurs Constitutions, quoy que d’elles mesmes
-
-elles n’obligent point sous peine de péché mortel ni
-
-veniel ; car si elles obligeoient sous peine de la mort,
-
-combien estroittement les observeroit-on ? Or, l’amour
-
-* Cant., ult., 6. est fort comme la mort * ; donques les attraits de
-
-l’amour sont aussi puissans à faire executer une resolu­
-
-tion comme les menaces de la mort. Le zele, dit le
-
-sacré Cantique *, est dur et ferme comme l’enfer; les
-
-âmes, donques, qui ont le zele, feront autant et plus en
-
-vertu d'iceluy, qu’elles ne feroient pour la crainte de
-
-l'enfer : si bien que les Filles de la Congrégation, par
-
-la suave violence de l’amour, observeront autant exac­
-
-tement leurs Réglés, Dieu aydant, que si elles y estoient
-
-obligées sous peine de damnation eternelle.
-
-En somme, elles auront perpétuelle mémoire de ce
-
-que dit Salomon aux Proverbes, xix * : Qui garde le
-
-commandement garde son ame, et qui négligé sa
-
-voye il mourra : or vostre voye c’est la sorte de vie
-
-en laquelle Dieu vous a mises. Je ne dis rien icy de
-
-l'obligation que nous avons à l’observance des vœux ;
-
-car il est tout évident que qui transgresse absolument
-
-la Réglé és vœux essentiels de pauvreté, chasteté et
-
-obéissance, peche mortellement, et feroit-on le mesme,
-
-contrevenant à la closture.
-
-[C'est à partir de cet alinéa que le Ms. de Bourges donne cet Entre­
-
-tien, sous le titre suivant :] Vive f Jésus. Suite de la déclaration de l’obligation
-
-de la Règle et Constitutions.
+[C'est à partir de cet alinéa que le Ms. de Bourges donne cet Entretien, sous le titre suivant :] Vive f Jésus. Suite de la déclaration de l’obligation de la Règle et Constitutions.
 
 Que les Sœurs fassent profession particulière de nourrir leurs cœurs en une dévotion intime, forte et genereuse.
 
@@ -200,81 +74,17 @@ Il faut encor que cette dévotion soit forte : 1. à supporter les tentations, q
 
 4. Forte à combattre ses imperfections. Car, comme il faut avoir une humilité forte, pour ne point perdre courage ains relever nostre confiance en Dieu parmi nos imbécillités, aussi faut-il avoir le courage puissant pour entreprendre la correction et amendement parfait.
 
-5. Forte à mespriser les paroles et jugemens du
+5. Forte à mespriser les paroles et jugemens du monde, qui ne manque jamais de contreroller les instituts pieux, sur tout au commencement.
 
-monde, qui ne manque jamais de contreroller les insti­
+6. Forte à se tenir indépendante des affections, amitiés ou inclinations particulières, à fin de ne point vivre selon icelles, mais selon la lumière de la vraye pieté.
 
-tuts pieux, sur tout au commencement.
+7. Forte à se tenir indépendante des tendretés, douceurs et consolations 'qui nous proviennent tant de Dieu que des créatures, pour ne point nous laisser engager par icelles.
 
-6. Forte à se tenir indépendante des affections, amitiés
+8. Forte pour entreprendre une guerre continuelle contre nos mauvaises inclinations, humeurs, habitudes et propensions.
 
-ou inclinations particulières, à fin de ne point vivre
+Il faut en fin qu’elle soit genereuse, pour ne point s’estonner des difficultés, ains au contraire aggrandir Epist. cclvi, ad son courage par icelles ; car, comme dit saint Bernard, ' r celuy là n’est pas bien vaillant, auquel le cœur ne croist pas entre les peines et contradictions. Genereuse pour prétendre au plus haut point de la perfection chrestienne, nonobstant toutes imperfections et foiblesses présentes, en s’appuyant, par une parfaite confiance, sur la misericorde divine, à l’exemple de celle qui disoit à son Bien Aimé : Tirez moy, nous courrons apres vous en l’odeur de vos onguents, comme si elle eust voulu dire : De moy mesme je suis immobile, mais quand vous me tirerez je courray. Le divin Amant de nos âmes nous laisse souvent comme englués dans nos miseres, à fin que nous sçachions que nostre délivrance vient de luy, et que, quand nous l’aurons, nous la tenions chere, comme un don précieux de sa bonté. C’est pourquoy, comme la dévotion genereuse ne cesse jamais de crier à Dieu : Tirez moy, aussi ne cesse elle jamais d’aspirer, d’esperer et de se promettre courageusement de courir, et de dire : Nous courrons apres vous. Et ne faut jamais se fascher si d’abord on Ami nous la tenions — bien chere ne court pas apres le Sauveur, pourveu que l'on die tousjours : Tirez moy, et que l’on ayt le courage bon pour dire : Nous courrons. Car encor que nous ne courions pas, il suffit que, Dieu aydant, nous courrons : ceste Congrégation, non plus que les autres Religions, n’estant pas une assemblée de personnes parfaites, mais de personnes qui prétendent de se perfectionner ; non de personnes courantes, mais de personnes qui prétendent courir, et lesquelles pour cela apprennent premièrement à marcher le petit pas, puis à se haster, puis à cheminer à demi course, puis en fin à courir.
 
-selon icelles, mais selon la lumière de la vraye pieté.
-
-7. Forte à se tenir indépendante des tendretés, dou­
-
-ceurs et consolations 'qui nous proviennent tant de
-
-Dieu que des créatures, pour ne point nous laisser
-
-engager par icelles.
-
-8. Forte pour entreprendre une guerre continuelle
-
-contre nos mauvaises inclinations, humeurs, habitudes
-
-et propensions.
-
-Il faut en fin qu’elle soit genereuse, pour ne point
-
-s’estonner des difficultés, ains au contraire aggrandir
-
-* Epist. cclvi, ad son courage par icelles ; car, comme dit saint Bernard *, ] ' r celuy là n’est pas bien vaillant, auquel le cœur ne croist
-
-pas entre les peines et contradictions. Genereuse pour
-
-prétendre au plus haut point de la perfection chres-
-
-tienne, nonobstant toutes imperfections et foiblesses
-
-présentes, en s’appuyant, par une parfaite confiance,
-
-sur la misericorde divine, à l’exemple de celle qui disoit
-
-à son Bien Aimé* : Tirez moy, nous courrons apres
-
-vous en l’odeur de vos onguents, comme si elle eust
-
-voulu dire : De moy mesme je suis immobile, mais
-
-quand vous me tirerez je courray. Le divin Amant
-
-de nos âmes nous laisse souvent comme englués dans
-
-nos miseres, à fin que nous sçachions que nostre déli­
-
-vrance vient de luy, et que, quand nous l’aurons, nous
-
-la tenions chere, comme un don précieux de sa
-
-bonté. C’est pourquoy, comme la dévotion genereuse
-
-ne cesse jamais de crier à Dieu : Tirez moy, aussi ne
-
-cesse elle jamais d’aspirer, d’esperer et de se promettre
-
-courageusement de courir, et de dire : Nous courrons
-
-apres vous. Et ne faut jamais se fascher si d’abord on
-
- Ami
-
- nous la tenions — bien chere
-
-ne court pas apres le Sauveur, pourveu que l'on die tousjours : Tirez moy, et que l’on ayt le courage bon pour dire : Nous courrons. Car encor que nous ne courions pas, il suffit que, Dieu aydant, nous courrons : ceste Congrégation, non plus que les autres Religions, n’estant pas une assemblée de personnes parfaites, mais de personnes qui prétendent de se perfectionner ; non de personnes courantes, mais de personnes qui prétendent courir, et lesquelles pour cela apprennent premièrement à marcher le petit pas, puis à se haster, puis à cheminer à demi course, puis en fin à courir.
-
-Ceste dévotion genereuse ne mesprise rien, et fait que, sans trouble ni inquiétude, nous voyons un chacun cheminer, courir et voler diversement, selon la diversité des inspirations et variété des mesures de la grâce divine qu’un chacun reçoit. C’est un advertissement que le grand Apostre saint Paul fait aux Romains, xiv * : * vers. 2,3,5,6. L’un, dit-il, croid de pouvoir manger de tout ; l’autre, qui est infirme, mange des herbes : que celuy qui mange ne mesprise point celuy qui ne mange pas, et que celuy qui ne mange pas ne juge point celuy qui mange. Que chacun abonde ■ en son sens : celuy qui mange, mange en Nostre Seigneur, et celuy qui ne mange pas, ne mange pas en Nostre Seigneur ; et tant l'un que l’autre rendent grâces à Dieu. Les Réglés ne commandent pas beaucoup de jeunes, neantmoins il se pourra faire que quelques unes, pour des nécessités particulières, obtiendront l’obedience d’en faire davantage : que celles qui jeûneront ne mes-prisent point celles qui mangent, ni celles qui mangent celles qui jeûneront. Et ainsi en toutes autres choses qui ne sont ni commandées ni défendues, qu’une chacune abonde en son sens : c’est à dire, qu’une chacune jouisse et use de sa liberté, sans juger ni contreroller les autres qui ne feront point comme elle, voulant faire trouver sa façon meilleure ; puisque mesme il se peut faire qu’une personne mange avec tel renoncement de sa propre volonté qu’une autre jeuneroit W, et qu’une personne ne die pas ses coulpes par le mesme renoncement par lequel l’autre les dira.
+Ceste dévotion genereuse ne mesprise rien, et fait que, sans trouble ni inquiétude, nous voyons un chacun cheminer, courir et voler diversement, selon la diversité des inspirations et variété des mesures de la grâce divine qu’un chacun reçoit. C’est un advertissement que le grand Apostre saint Paul fait aux Romains, xiv : vers. 2,3,5,6. L’un, dit-il, croid de pouvoir manger de tout ; l’autre, qui est infirme, mange des herbes : que celuy qui mange ne mesprise point celuy qui ne mange pas, et que celuy qui ne mange pas ne juge point celuy qui mange. Que chacun abonde ■ en son sens : celuy qui mange, mange en Nostre Seigneur, et celuy qui ne mange pas, ne mange pas en Nostre Seigneur ; et tant l'un que l’autre rendent grâces à Dieu. Les Réglés ne commandent pas beaucoup de jeunes, neantmoins il se pourra faire que quelques unes, pour des nécessités particulières, obtiendront l’obedience d’en faire davantage : que celles qui jeûneront ne mes-prisent point celles qui mangent, ni celles qui mangent celles qui jeûneront. Et ainsi en toutes autres choses qui ne sont ni commandées ni défendues, qu’une chacune abonde en son sens : c’est à dire, qu’une chacune jouisse et use de sa liberté, sans juger ni contreroller les autres qui ne feront point comme elle, voulant faire trouver sa façon meilleure ; puisque mesme il se peut faire qu’une personne mange avec tel renoncement de sa propre volonté qu’une autre jeuneroit W, et qu’une personne ne die pas ses coulpes par le mesme renoncement par lequel l’autre les dira.
 
 La genereuse dévotion ne veut pas avoir des compagnons en tout ce qu’elle fait, ains seulement en sa prétention, qui est la gloire de Dieu et l’avancement du prochain en l’amour divin ; et pourveu qu’on s’achemine droitement à ce but là, elle ne se met pas en peine par quel chemin c’est. Pourveu que celuy qui jeune, jeune pour Dieu, et que celuy qui ne jeune pas, ne jeune pas (a>) aussi pour Dieu, elle est toute satisfaite tant de l’un que de l’autre. Elle ne veut donques pas tirer les autres à son train, ains suit simplement, humblement et tranquillement son chemin. Que si mesme il arrivoit qu’une personne mangeast, non pas pour Dieu, mais par inclination, ou qu'elle ne fist pas la discipline, non pas pour Dieu, mais par naturelle aversion, encor faudroit-il que celles qui font les exercices contraires ne la jugeassent point ; ains que, sans la censurer, elles suivissent leur chemin doucement et suavement, sans mespriser ni juger au préjudice des infirmes, se ressouvenant que si en ces occasions les unes secondent peut estre trop mollement leurs inclinations et aversions, en des autres occurrences les autres en font, bien de mesme. Mais aussi, celles qui ont telles inclinations et aversions se doivent bien garder de dire des paroles, ni donner aucune sorte de signe d’avoir à desgout que les autres fassent mieux, car elles feroient une grande impertinence : ains, considerant leur foiblesse, elles doivent regarder les mieux faisantes avec une sainte, douce <b'i et cordiale reverence ; car ainsi elles pourront tirer autant de proffit de leur imbécillité par l’humilité qui en naistra, que les autres en tirent par leurs exercices. Que si ce point est bien entendu et bien observé, il conservera une merveilleuse tranquillité et suavité en la Congrégation. Que Marthe soit active, mais qu’elle ne contrerolle point Magdelaine ; que Magdelaine contemple, mais qu’elle ne mesprise point Marthe, car Nostre Seigneur prendra la cause de celle qui sera censurée.
 

@@ -1,224 +1,34 @@
 # Entretien VI. De l’espérance
 
-* Rom., iv, 18. Abraham, saint Paul* releve celle-cy au dessus de toutes
+QUI s’en alloyent pour fonder une nouvelle maison
 
-les autres : quT7 creut en l’esperance contre l’espe­
+DE LEUR INSTITUT
 
-rance mesme. Dieu luy avoit promis que sa génération
+Entre les loüanges que les Saints donnent à Abraham, saint Paul releve celle-cy au dessus de toutes les autres : quT7 creut en l’esperance contre l’esperance mesme. Dieu luy avoit promis que sa génération seroit multipliée comme les estoilles du ciel et comme *Gen.,xv,5;xxn,i7. le sablon de la mer, et cependant il reçoit le com ibid., xxii, 2. mandement de tuer son fils Isaac. Le pauvre Abraham ne perdit son esperance pourtant, ains il espera contre l’esperance mesme, que si bien il obeissoit au commandement qui luy estoit fait de tuer son fils, Dieu ne lairroit pas pourtant de luy tenir parole. Grande certes ENTRETIEN DE NOSTRE BIEN-HEUREUX PERE SUR LE SUJET DES FONDATIONS. (MS.) —■ DEPART, ENVOY OU MISSION DES FILLES DE LA VISITATION, ET COMME ELLES SE DOIVENT COMPORTER. (Coll.) Entre les loüanges que l’Escriture Sainte donne (Coll.) le — sable qui est au rivage (Coll.)
 
-seroit multipliée comme les estoilles du ciel et comme
+sacrifier (Coll.)
 
-*Gen.,xv,5;xxn,i7. le sablon de la mer*, et cependant il reçoit le com* ibid., xxii, 2. mandement de tuer son fils Isaac*. Le pauvre Abraham
+C’est le départ de la Mère Claude-Agnès Joly de la Roche et de plusieurs autres Religieuses d’Annecy, envoyées en juillet 1620 à la fondation du Monastère d’Orléans, qui donna occasion à saint François de Sales de prononcer cet Entretien. On l’appela primitivement l’Entretien De l’Esperance, et, bien que cette désignation ne figure jamais comme titre principal, elle paraît comme titre courant dans toutes les éditions. fut son esperance, car il ne voyoit en aucune façon rien en quoy il la peust appuyer, sinon sur la parole que Dieu luy avoit donnée. O que c'est un vray et solide fondement que la parole de Dieu, car elle est infaillible ! Abraham sort donc pour accomplir la volonté de Dieu avec une simplicité nompareille ; car il ne fit non plus de considération ni de répliqué que lors que Dieu luy avoit dit qu’il sortist de sa terre et de sa 'parenté, et qu’il allast au lieu qu’il luy monstreroit, sans le luy Gen., 1. spécifier, à fin qu’il s’embarquast plus simplement dans la barque de sa divine providence. Marchant donc trois jours et trois nuicts avec son fils Isaac, portant le bois du sacrifice, ceste ame innocente demanda à son pere où estoit l’holocauste; à quoy le bon Abraham respondit : .Mon fils, le Seigneur te) y pourvoira. Ibid., xxn, 6-8. O mon Dieu, que nous serions heureux si nous pouvions nous accoustumer à faire ceste response à nos cœurs lors qu’ils sont en soucy de quelque chose : Nostre Seigneur y pourvoira ; et qu’apres cela nous n’eussions plus d’anxieté, de trouble ni d’empressement, non plus qu’Isaac ! car il se tut apres, croyant que le Seigneur y pourvoiroit, ainsi que son pere luy avoit dit.
 
-ne perdit son esperance pourtant, ains il espera contre
+Grande est certes la confiance que Dieu requiert que nous ayons en son soin paternel et en sa divine providence : mais pourquoy ne l’aurions-nous pas, veu que jamais personne n’y a peu estre trompé ? Nul ne se confie en Dieu, qui ne retire les fruicts de sa confiance. Je dis cecy entre nous autres ; car quant aux gens du monde, bien souvent leur confiance est accompagnée d’appréhension ; c’est pourquoy elle n’est de nulle valeur devant Dieu. Considérons, je vous supplie, ce que Nostre Seigneur et nostre Maistre dit à ses Apostres pour establir en eux ceste sainte et amoureuse confiance : - Je- vous ay envoyés par le monde sans besaces, sans argent et sans nulles provisions, soit pour vous nourrir, soit pour vous vestir ; quelque chose vous a-t’elle *Lucæ,xxn,35,36. manqué? Et ils dirent: Non (’). Allez, leur dit-il, et ne 'pensez ni de quoy vous mangerez, ni de quoy ibîd., xn, 29. vous boirez, ni de quoy vous vous vestirez, ni mesme ce que vous aurez à dire estant devant les grands seigneurs et magistrats des provinces par où vous passerez ; car en chaque occasion vostre Pere celeste vous fournira de tout ce qui vous sera necessaire. Ne pensez point à ce que vous aurez à dire, car il parlera en vous et vous mettra en la bouche, les paroles que *ibid.,y. n;Matt., vous aurez à dire. Mais je suis si grossière, dira quel' qu’une de nos Sœurs ü), je ne sçay point comment il faut traitter avec les grands, je n’ay point de doctrine. C’est tout un ; allez et vous confiez en Dieu, car il a is., xlix, 15, 16. dit : Quand bien la femme viendrait à oublier son enfant, si ne vous oublieray-je jamais, car je vous porte gravés sur mon cœur et sur mes mains. Pensez-vous que Celuy qui a bien soin de pourvoir de nourriture aux oyseaux du ciel et aux animaux de la Matt., vi, 26 ; Lu- terre, qui ne sement ni ne recueillent rien, vienne 1 jamais à s’oublier de pourvoir de tout ce qui sera necessaire à l’homme qui se confiera pleinement en sa providence, puisque l’homme est capable d’estre uni à Dieu nostre W souverain bien ?
 
-l’esperance mesme, que si bien il obeissoit au comman­
+Cecy, mes tres-cheres Sœurs, m’a semblé estre bon à vous dire sur le sujet de vostre départ W ; car si bien vous n’estes pas capables de la dignité apostolique à cause de vostre sexe, vous estes neantmoins capables en quelque façon de l’office apostolique, et vous pouvez rendre plusieurs services à Dieu, procurant en certaine manqué ? — Ils respondirent : Rien, Seigneur. (Coli.) à dire. — Mais je suis si incivile, dites-vous (Ms.) son (Coll.)
 
-dement qui luy estoit fait de tuer son fils, Dieu ne
+de — vos devoirs ou missions (Coll.) . façon ' l’avancement de sa gloire comme les Apostres. Certes, mes cheres filles, cecy vous doit estre un motif de grande consolation, que Dieu se veuille servir de vous pour une œuvre si excellente que celle à laquelle vous estes appellées, et vous vous en devez tenir grandement honnorées devant la divine Majesté. Car, qu’est-ce que Dieu desire de vous sinon ce qu’il ordonna à ses Apostres et ce pourquoy il les envoya par le monde, qui estoit ce que Nostre Seigneur mesme estoit venu faire en ce monde, qui fut pour donner la vie aux hommes ? et non seulement cela, dit-il, mais à fin *joan.,x, 10. qu’ils vescussent d’une vie plus abondante, qu’ils eussent la vie et une vie meilleure, ce qu’il a fait en leur donnant la grâce (“). Les Apostres furent envoyés de Nostre Seigneur par toute la terre pour le mesme sujet, car Nostre Seigneur leur dit : Ainsi que mon Ibid., xx, 31. Pere m'a envoyé, je vous envoyé ; allez, et donnez la vie aux hommes. Mais ne vous contentez pas de cela : faites qu’ils vivent, et d’une vie plus parfaite par le moyen de la doctrine que vous leur enseignerez ; ils auront la vie en croyant à ma parole que vous leur exposerez, mais ils auront une vie plus abondante par le bon exemple que vous leur donnerez. Et n’ayez nul souci si vostre travail sera suivi du fruict que vous en prétendez, car ce n’est pas à vous que l’on demandera le fruict, ains seulement si vous vous serez employés fidellement à bien cultiver ces terres steriles et seches ; l’on ne vous demandera pas si vous aurez bien recueilli, ains seulement si vous aurez eu soin de bien ensemencer.
 
-lairroit pas pourtant de luy tenir parole. Grande certes
+De mesme, mes cheres filles, estes-vous maintenant commandées d’aller çà et là en divers lieux, pour faire que les âmes ayent la vie, et qu’elles vivent d’une meilleure vie : car, qu’est-ce que vous allez faire sinon tascher de donner cognoissance de la perfection de vostre Institut, et par le moyen de ceste cognoissance attirer plusieurs âmes à embrasser toutes les observances qui y sont comprises et encloses ? Mais sans prescher et conférer les Sacremens et remettre les péchés, ainsi que faisoyent les Apostrés, n’allez-vous pas donner la vie aux hommes ? mais, pour parler plus proprement, n’allez-vous pas donner la vie (°) aux filles ? puisque peut estre cent et cent filles qui se retireront à vostre exemple dans vostre Religion, se fussent perdues demeurant au monde, lesquelles iront jouïr au Ciel, pour toute éternité, de la félicité incompréhensible. Et n’est-ce pas par vostre moyen que la vie leur sera donnée, et qu’elles vivront d’une vie ■plus abondante, c’est à dire d’une vie plus parfaite et plus agréable à Dieu ? vie qui les rendra capables de s’unir plus parfaitement à la divine Bonté, car elles recevront de vous les instructions necessaires pour acquérir le vray et pur amour de Dieu, qui est ceste vie plus abondante que Nostre Seigneur est venu donner aux hommes. J’ay apporté, dit-il, le feu en la terre, qu’est-ce que je demande ou que je Levit., vi, 12. prétends, sinon qu’il brusle ? Et en un autre endroit, il commande que le feu brusle incessamment sur son autel, et que pour cela il ne soit jamais esteint, pour monstrer <Q) avec quelle ardeur il desire que le feu de son amour soit tousjours allumé sur l’autel de nostre cœur. O Dieu, quelle grâce est celle que Dieu vous fait ! il vous rend apostresses, non en la dignité, ains en l’office et au merite. Vous ne prescherez pas, non, car
 
- ENTRETIEN DE NOSTRE BIEN-HEUREUX PERE SUR LE SUJET DES FONDA­
+et encloses ? — Car, dites-moy, sans prescher, conférer les Sacremens et remettre les péchés, comme faisoyent les Apostrés, n’est-ce pas donner la vie aux hommes, mais pour parler plus clairement, (Ms. et Coll.)
 
-TIONS. (MS.) —■ DEPART, ENVOY OU MISSION DES FILLES DE LA VISITATION, ET
+lesquelles —- posséderont le Ciel pour toute éternité. N’est-ce pas par vostre moyen que la vie leur sera donnée ? De plus, ne sera-ce pas par vous (Coll.)
 
-COMME ELLES SE DOIVENT COMPORTER. (Coll.)
+jamais esteint, ■— à fin de nous insinuer et apprendre (Coll.) vostre sexe ne le permet, bien que sainte Magdelaine et sainte Marthe sa sœur Payent fait ; mais vous ne lairrez pas d’exercer l’office apostolique en la communication de vostre W maniéré de vie, ainsi que je viens de dire.
 
- Entre les loüanges que l’Escriture Sainte donne (Coll.)
+Allez donc pleines de courage faire ce à quoy vous estes appellées, mais allez en simplicité ; si vous avez des appréhensions, dites à vostre ame : Le Seigneur nous pourvoira ; si les considérations de vostre foi- * Gen., xxn, 8. blesse vous travaillent, jettez-vous en Dieu et vous confiez en luy. Les Apostres estoyent des pescheurs et ignorans la pluspart ; Dieu les rendit sçavans selon qu’il estoit necessaire pour la charge qu’il leur vouloit donner. Confiez-vous en luy, appuyez-vous sur sa providence et n’ayez peur de rien. Ne dites pas : Je n’ay point de talent pour bien parler. N’importe, allez sans faire discours W, car Dieu vous donnera ce que vous aurez à dire et à faire quand il en sera temps. Que si vous n’avez point de vertu, ou que vous n’en apperceviez point en vous, ne vous mettez pas en peine ; car si vous entreprenez pour la gloire de Dieu et pour satisfaire à l’obeissance la conduite des âmes ou quelque autre exercice quel qu’il soit, Dieu aura soin de vous, et sera obligé de vous pourvoir de tout ce qui vous sera necessaire, tant pour vous que pour celles que Dieu vous donnera en charge.
 
- le — sable qui est au rivage (Coll.)
+Il est vray, c’est une chose de grande conséquence et de grande importance que celle que vous entreprenez ; mais pourtant vous auriez tort si vous n’en esperiez un bon succès, veu que vous ne l’entreprenez pas par vostre choix, ains pour satisfaire à l’obeissance. Sans doute, nous avons grand sujet de craindre quand nous recherchons les charges et les offices, soit en Religion, soit ailleurs, et qu’elles nous sont données sur nostre poursuite ; mais quand cela n’est point, ployons humblement le col sous le joug de la sainte obéissance et acceptons de bon cœur le fardeau ; humilions-nous, car il le faut tousjours faire, mais ressouvenons-nous tousjours d’establir la générosité sur les actes de l’humilité, car autrement ces actes d’humilité ne vaudroyent rien.
 
- sacrifier (Coll.)
-
-C’est le départ de la Mère Claude-Agnès Joly de la Roche et de plu­
-
-sieurs autres Religieuses d’Annecy, envoyées en juillet 1620 à la fondation
-
-du Monastère d’Orléans, qui donna occasion à saint François de Sales de
-
-prononcer cet Entretien. On l’appela primitivement l’Entretien De l’Esperance,
-
-et, bien que cette désignation ne figure jamais comme titre principal, elle
-
-paraît comme titre courant dans toutes les éditions.
-
-fut son esperance, car il ne voyoit en aucune façon rien en quoy il la peust appuyer, sinon sur la parole que Dieu luy avoit donnée. O que c'est un vray et solide fondement que la parole de Dieu, car elle est infaillible ! Abraham sort donc pour accomplir la volonté de Dieu avec une simplicité nompareille ; car il ne fit non plus de considération ni de répliqué que lors que Dieu luy avoit dit qu’il sortist de sa terre et de sa 'parenté, et qu’il allast au lieu qu’il luy monstreroit*, sans le luy * Gen., 1. spécifier, à fin qu’il s’embarquast plus simplement dans la barque de sa divine providence. Marchant donc trois jours et trois nuicts avec son fils Isaac, portant le bois du sacrifice, ceste ame innocente demanda à son pere où estoit l’holocauste; à quoy le bon Abraham respondit : .Mon fils, le Seigneur te) y pourvoira*. * Ibid., xxn, 6-8. O mon Dieu, que nous serions heureux si nous pouvions nous accoustumer à faire ceste response à nos cœurs lors qu’ils sont en soucy de quelque chose : Nostre Seigneur y pourvoira ; et qu’apres cela nous n’eussions plus d’anxieté, de trouble ni d’empressement, non plus qu’Isaac ! car il se tut apres, croyant que le Seigneur y pourvoiroit, ainsi que son pere luy avoit dit.
-
-Grande est certes la confiance que Dieu requiert que nous ayons en son soin paternel et en sa divine providence : mais pourquoy ne l’aurions-nous pas, veu que jamais personne n’y a peu estre trompé ? Nul ne se confie en Dieu, qui ne retire les fruicts de sa confiance. Je dis cecy entre nous autres ; car quant aux gens du monde, bien souvent leur confiance est accompagnée d’appréhension ; c’est pourquoy elle n’est de nulle valeur devant Dieu. Considérons, je vous supplie, ce que Nostre Seigneur et nostre Maistre dit à ses Apostres
-
-pour establir en eux ceste sainte et amoureuse confiance : -
-
-Je- vous ay envoyés par le monde sans besaces, sans
-
-argent et sans nulles provisions, soit pour vous nourrir,
-
-soit pour vous vestir ; quelque chose vous a-t’elle
-
-*Lucæ,xxn,35,36. manqué? Et ils dirent: Non* (’). Allez, leur dit-il,
-
-et ne 'pensez ni de quoy vous mangerez, ni de quoy
-
-* ibîd., xn, 29. vous boirez, ni de quoy vous vous vestirez*, ni mesme
-
-ce que vous aurez à dire estant devant les grands
-
-seigneurs et magistrats des provinces par où vous pas­
-
-serez ; car en chaque occasion vostre Pere celeste vous
-
-fournira de tout ce qui vous sera necessaire. Ne pen­
-
-sez point à ce que vous aurez à dire, car il parlera
-
-en vous et vous mettra en la bouche, les paroles que
-
-*ibid.,y. n;Matt., vous aurez à dire*. Mais je suis si grossière, dira quel­
-
-' qu’une de nos Sœurs ü), je ne sçay point comment il
-
-faut traitter avec les grands, je n’ay point de doctrine.
-
-C’est tout un ; allez et vous confiez en Dieu, car il a
-
-* is., xlix, 15, 16. dit * : Quand bien la femme viendrait à oublier
-
-son enfant, si ne vous oublieray-je jamais, car je
-
-vous porte gravés sur mon cœur et sur mes mains.
-
-Pensez-vous que Celuy qui a bien soin de pourvoir de
-
-nourriture aux oyseaux du ciel et aux animaux de la
-
-* Matt., vi, 26 ; Lu- terre, qui ne sement ni ne recueillent rien*, vienne ... ‘ 1 jamais à s’oublier de pourvoir de tout ce qui sera neces­
-
-saire à l’homme qui se confiera pleinement en sa pro­
-
-vidence, puisque l’homme est capable d’estre uni à
-
-Dieu nostre W souverain bien ?
-
-Cecy, mes tres-cheres Sœurs, m’a semblé estre bon à
-
-vous dire sur le sujet de vostre départ W ; car si bien
-
-vous n’estes pas capables de la dignité apostolique à
-
-cause de vostre sexe, vous estes neantmoins capables
-
-en quelque façon de l’office apostolique, et vous pouvez
-
-rendre plusieurs services à Dieu, procurant en certaine
-
- manqué ? — Ils respondirent : Rien, Seigneur. (Coli.)
-
- à dire. — Mais je suis si incivile, dites-vous (Ms.)
-
- son (Coll.)
-
- de — vos devoirs ou missions (Coll.) .
-
-façon ' l’avancement de sa gloire comme les Apostres. Certes, mes cheres filles, cecy vous doit estre un motif de grande consolation, que Dieu se veuille servir de vous pour une œuvre si excellente que celle à laquelle vous estes appellées, et vous vous en devez tenir grandement honnorées devant la divine Majesté. Car, qu’est-ce que Dieu desire de vous sinon ce qu’il ordonna à ses Apostres et ce pourquoy il les envoya par le monde, qui estoit ce que Nostre Seigneur mesme estoit venu faire en ce monde, qui fut pour donner la vie aux hommes ? et non seulement cela, dit-il*, mais à fin *joan.,x, 10. qu’ils vescussent d’une vie plus abondante, qu’ils eussent la vie et une vie meilleure, ce qu’il a fait en leur donnant la grâce (“). Les Apostres furent envoyés de Nostre Seigneur par toute la terre pour le mesme sujet, car Nostre Seigneur leur dit* : Ainsi que mon * Ibid., xx, 31. Pere m'a envoyé, je vous envoyé ; allez, et donnez la vie aux hommes. Mais ne vous contentez pas de cela : faites qu’ils vivent, et d’une vie plus parfaite par le moyen de la doctrine que vous leur enseignerez ; ils auront la vie en croyant à ma parole que vous leur exposerez, mais ils auront une vie plus abondante par le bon exemple que vous leur donnerez. Et n’ayez nul souci si vostre travail sera suivi du fruict que vous en prétendez, car ce n’est pas à vous que l’on demandera le fruict, ains seulement si vous vous serez employés fidellement à bien cultiver ces terres steriles et seches ; l’on ne vous demandera pas si vous aurez bien recueilli, ains seulement si vous aurez eu soin de bien ensemencer.
-
-De mesme, mes cheres filles, estes-vous maintenant commandées d’aller çà et là en divers lieux, pour faire
-
-que les âmes ayent la vie, et qu’elles vivent d’une
-
-meilleure vie : car, qu’est-ce que vous allez faire sinon
-
-tascher de donner cognoissance de la perfection de vostre
-
-Institut, et par le moyen de ceste cognoissance attirer
-
-plusieurs âmes à embrasser toutes les observances qui
-
-y sont comprises et encloses ? Mais sans prescher et
-
-conférer les Sacremens et remettre les péchés, ainsi
-
-que faisoyent les Apostrés, n’allez-vous pas donner la
-
-vie aux hommes ? mais, pour parler plus proprement,
-
-n’allez-vous pas donner la vie (°) aux filles ? puisque
-
-peut estre cent et cent filles qui se retireront à vostre
-
-exemple dans vostre Religion, se fussent perdues demeu­
-
-rant au monde, lesquelles iront jouïr au Ciel, pour toute
-
-éternité, de la félicité incompréhensible. Et n’est-ce pas
-
-par vostre moyen que la vie leur sera donnée, et
-
-qu’elles vivront d’une vie ■plus abondante, c’est à dire
-
-d’une vie plus parfaite et plus agréable à Dieu ? vie qui
-
-les rendra capables de s’unir plus parfaitement à la
-
-divine Bonté, car elles recevront de vous les instructions
-
-necessaires pour acquérir le vray et pur amour de Dieu,
-
-qui est ceste vie plus abondante que Nostre Seigneur
-
-* Lucæ, xii, 49. est venu donner aux hommes. J’ay apporté, dit-il *, le
-
-feu en la terre, qu’est-ce que je demande ou que je
-
-* Levit., vi, 12. prétends, sinon qu’il brusle ? Et en un autre endroit*,
-
-il commande que le feu brusle incessamment sur son
-
-autel, et que pour cela il ne soit jamais esteint, pour
-
-monstrer <Q) avec quelle ardeur il desire que le feu de
-
-son amour soit tousjours allumé sur l’autel de nostre
-
-cœur. O Dieu, quelle grâce est celle que Dieu vous
-
-fait ! il vous rend apostresses, non en la dignité, ains en
-
-l’office et au merite. Vous ne prescherez pas, non, car
-
-et encloses ? — Car, dites-moy, sans prescher, conférer les Sacremens
-
-et remettre les péchés, comme faisoyent les Apostrés, n’est-ce pas donner
-
-la vie aux hommes, mais pour parler plus clairement, (Ms. et Coll.)
-
-lesquelles —- posséderont le Ciel pour toute éternité. N’est-ce pas par
-
-vostre moyen que la vie leur sera donnée ? De plus, ne sera-ce pas par vous
-
-(Coll.)
-
- jamais esteint, ■— à fin de nous insinuer et apprendre (Coll.)
-
-vostre sexe ne le permet, bien que sainte Magdelaine et sainte Marthe sa sœur Payent fait ; mais vous ne lairrez pas d’exercer l’office apostolique en la communication de vostre W maniéré de vie, ainsi que je viens de dire.
-
-Allez donc pleines de courage faire ce à quoy vous estes appellées, mais allez en simplicité ; si vous avez des appréhensions, dites à vostre ame : Le Seigneur nous pourvoira* ; si les considérations de vostre foi- * Gen., xxn, 8. blesse vous travaillent, jettez-vous en Dieu et vous confiez en luy. Les Apostres estoyent des pescheurs et ignorans la pluspart ; Dieu les rendit sçavans selon qu’il estoit necessaire pour la charge qu’il leur vouloit donner. Confiez-vous en luy, appuyez-vous sur sa providence et n’ayez peur de rien. Ne dites pas : Je n’ay point de talent pour bien parler. N’importe, allez sans faire discours W, car Dieu vous donnera ce que vous aurez à dire et à faire quand il en sera temps. Que si vous n’avez point de vertu, ou que vous n’en apperceviez point en vous, ne vous mettez pas en peine ; car si vous entreprenez pour la gloire de Dieu et pour satisfaire à l’obeissance la conduite des âmes ou quelque autre exercice quel qu’il soit, Dieu aura soin de vous, et sera obligé de vous pourvoir de tout ce qui vous sera necessaire, tant pour vous que pour celles que Dieu vous donnera en charge.
-
-Il est vray, c’est une chose de grande conséquence et de grande importance que celle que vous entreprenez ; mais pourtant vous auriez tort si vous n’en esperiez un bon succès, veu que vous ne l’entreprenez pas par vostre choix, ains pour satisfaire à l’obeissance. Sans doute, nous avons grand sujet de craindre quand nous recherchons les charges et les offices, soit en Religion, soit
-
-ailleurs, et qu’elles nous sont données sur nostre pour­
-
-suite ; mais quand cela n’est point, ployons humblement
-
-le col sous le joug de la sainte obéissance et acceptons
-
-de bon cœur le fardeau ; humilions-nous, car il le faut
-
-tousjours faire, mais ressouvenons-nous tousjours d’esta-
-
-blir la générosité sur les actes de l’humilité, car autre­
-
-ment ces actes d’humilité ne vaudroyent rien.
-
-J’ay un extreme désir de graver en vos esprits une maxime qui est d’une utilité nompareille : Ne demander rien et ne refuser rien. Non, mes cheres filles, ne demandez rien et ne refusez rien ; recevez ce que l’on vous donnera, et ne demandez point ce que l’on ne vous présentera point ou que l’on ne vous voudra pas donner ; en * Matt-., xr, 29. ceste pratique vous trouverez la paix pour vos âmes*. Ouy, mes cheres Sœurs h), tenez vos cœurs en ceste sainte indifférence de recevoir tout ce que l’on vous donnera, et de ne point desirer ce que l’on ne vous donnera pas. Je veux dire, en un mot, ne desirez rien, ains laissez-vous vous-mesmes et tous vos affaires pleinement et parfaitement au soin de la divine Providence ; laissez-luy faire de vous tout de mesme que les enfans se laissent gouverner à leurs nourrices : qu’elle vous porte sur le bras droit ou sur le gauche tout ainsi qu’il luy plaira, laissez-luy faire, car un enfant ne s'en formaliseroit point ; qu’elle vous couche ou qu'elle vous leve, laissez-luy faire, car c’est une bonne mere, qui sçait mieux ce qu’il vous faut que vous-mesmes. Je veux dire, si la divine Providence permet qu’il vous arrive des afflictions ou W mortifications, ne les refusez point, ains acceptez-les de bon cœur, amoureusement et tranquillement ; que si elle ne vous en envoyé point, ou qu’elle ne permette pas qu’il vous en arrive, ne les desirez point ni ne les demandez point. De mesme, s’il vous arrive des consolations, recevez-les avec esprit de gratitude et de nos (Ms.)
+J’ay un extreme désir de graver en vos esprits une maxime qui est d’une utilité nompareille : Ne demander rien et ne refuser rien. Non, mes cheres filles, ne demandez rien et ne refusez rien ; recevez ce que l’on vous donnera, et ne demandez point ce que l’on ne vous présentera point ou que l’on ne vous voudra pas donner ; en ceste pratique vous trouverez la paix pour vos âmes. Ouy, mes cheres Sœurs h), tenez vos cœurs en ceste sainte indifférence de recevoir tout ce que l’on vous donnera, et de ne point desirer ce que l’on ne vous donnera pas. Je veux dire, en un mot, ne desirez rien, ains laissez-vous vous-mesmes et tous vos affaires pleinement et parfaitement au soin de la divine Providence ; laissez-luy faire de vous tout de mesme que les enfans se laissent gouverner à leurs nourrices : qu’elle vous porte sur le bras droit ou sur le gauche tout ainsi qu’il luy plaira, laissez-luy faire, car un enfant ne s'en formaliseroit point ; qu’elle vous couche ou qu'elle vous leve, laissez-luy faire, car c’est une bonne mere, qui sçait mieux ce qu’il vous faut que vous-mesmes. Je veux dire, si la divine Providence permet qu’il vous arrive des afflictions ou W mortifications, ne les refusez point, ains acceptez-les de bon cœur, amoureusement et tranquillement ; que si elle ne vous en envoyé point, ou qu’elle ne permette pas qu’il vous en arrive, ne les desirez point ni ne les demandez point. De mesme, s’il vous arrive des consolations, recevez-les avec esprit de gratitude et de nos (Ms.)
 
 Ouy, — je le dis encore une fois (Coll.)
 
@@ -226,7 +36,7 @@ Je — vous dis (Ms.)
 
 des afflictions, —■ des contradictions ou des (Ms. et Coll.) recognoissance envers la divine Bonté ; que si vous n’en avez point, ne les desirez point, ains taschez de tenir vostre cœur préparé pour recevoir les divers evenemens de la divine Providence, et d’un mesme cœur autant qu’il se peut, Si on vous donne des obéissances en la Religion qui vous semblent dangereuses, comme sont les supériorités, ne les refusez point ; si l’on ne vous en donne point, ne les desirez point, et ainsi de toutes choses : j’entends des choses de la terre, car pour ce qui est des vertus nous les pouvons et devons desirer et demander à Dieu ; l’amour de Dieu les comprend toutes. Vous ne sçauriez croire, sans en avoir l'experience, combien ceste pratique apportera de profit en vos âmes ; car au lieu de vous amuser à desirer ces moyens et puis ces autres de vous perfectionner, vous vous appliquerez plus simplement et fidellement à ceux que vous rencontrerez en vostre chemin.
 
-Jettant mes yeux sur le sujet de vostre despart et sur les ressentimens inévitables que vous aurez toutes en vous separant les unes des autres, j’ay pensé que je vous devois dire quelque petite chose qui peust amoindrir ceste douleur, quoy que je ne veuille dire qu’il ne soit loisible de pleurer un peu ; car il le faut faire, d’autant qu’on ne s’en pourroit pas tenir, ayant demeuré si doucement et si amoureusement assez long temps ensemble en (a>) la pratique des mesmes exercices, ce qui a tellement uni vos cœurs, qu’ils ne peuvent sans doute souffrir nulle division ni séparation. Aussi, mes cheres filles, ne serez-vous point divisées ni séparées, car toutes s’en vont, et toutes demeurent : celles qui s’en vont demeurent, et celles qui demeurent s’en vont, non en leur personne, ains en la personne de celles qui s’en vont ; et de mesme, celles qui s’en iront demeureront en la personne de celles qui demeurent. C’est un des principaux fruicts de la Religion que ceste sainte union qui se fait par la charité, union qui est telle, que de plusieurs cœurs il n’en est fait qu’un cœur, et de plu* Act., iv, 32- sieurs membres il n’en est fait qu’ww corps * : tous sont tellement faits un en Religion, que tous les Religieux d’un Ordre ne sont, ce semble, qu’un seul Religieux. Les Sœurs domestiques chantent les Offices divins en la personne de celles qui sont dediées pour le faire, comme les autres servent aux offices domestiques en la personne de celles qui les font <b’). Et pourquoy cela ? La raison en est toute évidente, d’autant que si celles qui sont au chœur pour chanter les Offices n’y estoient pas, les autres y seroyent en leur place ; s’il n’y avoit point de Sœurs domestiques pour apprester le disner (c’), les Sœurs du chœur y seroyent employées ; si une telle Sœur n’estoit pas Supérieure, il y en aurait une autre. De mesme, celles qui s’en vont demeurent et celles qui demeurent s’en vont ; car si celles qui sont nommées pour s’en aller ne le pourvoyent faire, celles qui demeurent s’en iroyent en leur place.
+Jettant mes yeux sur le sujet de vostre despart et sur les ressentimens inévitables que vous aurez toutes en vous separant les unes des autres, j’ay pensé que je vous devois dire quelque petite chose qui peust amoindrir ceste douleur, quoy que je ne veuille dire qu’il ne soit loisible de pleurer un peu ; car il le faut faire, d’autant qu’on ne s’en pourroit pas tenir, ayant demeuré si doucement et si amoureusement assez long temps ensemble en (a>) la pratique des mesmes exercices, ce qui a tellement uni vos cœurs, qu’ils ne peuvent sans doute souffrir nulle division ni séparation. Aussi, mes cheres filles, ne serez-vous point divisées ni séparées, car toutes s’en vont, et toutes demeurent : celles qui s’en vont demeurent, et celles qui demeurent s’en vont, non en leur personne, ains en la personne de celles qui s’en vont ; et de mesme, celles qui s’en iront demeureront en la personne de celles qui demeurent. C’est un des principaux fruicts de la Religion que ceste sainte union qui se fait par la charité, union qui est telle, que de plusieurs cœurs il n’en est fait qu’un cœur, et de plu Act., iv, 32- sieurs membres il n’en est fait qu’ww corps : tous sont tellement faits un en Religion, que tous les Religieux d’un Ordre ne sont, ce semble, qu’un seul Religieux. Les Sœurs domestiques chantent les Offices divins en la personne de celles qui sont dediées pour le faire, comme les autres servent aux offices domestiques en la personne de celles qui les font <b’). Et pourquoy cela ? La raison en est toute évidente, d’autant que si celles qui sont au chœur pour chanter les Offices n’y estoient pas, les autres y seroyent en leur place ; s’il n’y avoit point de Sœurs domestiques pour apprester le disner (c’), les Sœurs du chœur y seroyent employées ; si une telle Sœur n’estoit pas Supérieure, il y en aurait une autre. De mesme, celles qui s’en vont demeurent et celles qui demeurent s’en vont ; car si celles qui sont nommées pour s’en aller ne le pourvoyent faire, celles qui demeurent s’en iroyent en leur place.
 
 Mais ce qui nous doit faire aller et demeurer de bon cœur, mes cheres filles, c’est la certitude presque infaillible <d’) que nous devons avoir que ceste séparation ne se fait que quant au corps, car quant à l’esprit vous demeurerez tousjours très uniquement unies. C’est peu
 
@@ -236,7 +46,7 @@ Mais ce qui nous doit faire aller et demeurer de bon cœur, mes cheres filles, c
 
 (d’) la — grande asseurançe et confiance (Coll.)
 
-de chose que ceste séparation corporelle, aussi bien la faudroit-il faire un jour, veuillons nous ou non ; mais la séparation des cœurs et desunion des esprits, c’est cela seul qui est à redouter. Or quant à nous autres, non seulement nous demeurerons tousjours unis par ensemble, mais bien plus, car (b nostre union s’ira tous les jours plus perfectionnant, et ce doux et tres-aymable lien de la sainte charité sera tousjours de plus en plus serré et renoué <e’) à mesure que nous nous avancerons en la vove de nostre propre perfection * ; car nous rendant * Ephes., iv, 2,3 ;
+de chose que ceste séparation corporelle, aussi bien la faudroit-il faire un jour, veuillons nous ou non ; mais la séparation des cœurs et desunion des esprits, c’est cela seul qui est à redouter. Or quant à nous autres, non seulement nous demeurerons tousjours unis par ensemble, mais bien plus, car (b nostre union s’ira tous les jours plus perfectionnant, et ce doux et tres-aymable lien de la sainte charité sera tousjours de plus en plus serré et renoué <e’) à mesure que nous nous avancerons en la vove de nostre propre perfection ; car nous rendant Ephes., iv, 2,3 ;
 
 , , , , . , —. . Coloss., 111, 14. plus capables de nous unir a Dieu, nous nous unirons davantage les uns aux autres, si qu’à chaque Communion que nous ferons nostre union sera rendue plus parfaite, car nous unissant avec Nostre Seigneur nous demeurerons tousjours plus unis ensemble : aussi la réception sacrée de ce Pain celeste et de ce tres-adorable Sacrement s’appelle Communion, c’est à dire comme <f’> union. O Dieu, quelle union est celle qu’il y a entre chaque Religieux d’un mesme Ordre ! union telle, que les biens spirituels sont autant pesle-meslés et réduits en commun comme les biens extérieurs. Le Religieux n’a rien à luy en son particulier, à cause du vœu sacré qu’il a fait de la pauvreté volontaire ; et par la profession sainte que les Religieux font de la tres-sainte charité, toutes leurs vertus sont communes, et tous sont participans des bonnes œuvres les uns des autres, et jouiront du fruict d'icelles, pourveu qu’ils se tiennent tousjours en charité et en l’observance des Réglés de la Religion en laquelle Dieu les a appellés : si que celuy qui est en quelque office domestique <s’) ou en quelque autre exercice quel que ce soit, contemple en la personne de celuy qui est en oraison au chœur ; celuy qui repose participe au travail qu’a l’autre, qui est en exercice par le commandement du Supérieur.
 
@@ -246,9 +56,9 @@ Voyez donc, mes cheres filles, comment celles qui s’en vont demeurent et celle
 
 (F) et tranquillité^ —• comme aussi pour se préparer à sortir de céans (Ms. et Coll.)
 
-Il me semble, certes, quand je regarde et considere le commencement de vostre Institut, qu’il représente bien l’histoire d’Abraham ; car comme Dieu luy eut donné parole que sa race seroit multipliée comme les estoilles du firmament et comme le sablon de la mer, il luy commanda neantmoins de luy sacrifier son fils par lequel la pronjesse de Dieu devoit estre accomplie ; Abraham espera, et s’affermit en son esperance contre l’esperance mesme *, et (D son esperance ne fut point * vide loca supra, vaine, ains fructueuse. De mesme, quand les trois premières Sœurs se rangèrent et embrassèrent ceste IM sorte de vie, Dieu avoit projetté dés toute éternité de bénir leur génération *, et de leur en donner une qui seroit * Ps. cxx, 2. grandement multipliée. Mais qui eust peu croire cela, puisqu’on les enserrant dans leur petite maison nous ne pensions à autre chose que de les faire mourir au monde ? Elles furent sacrifiées, ains elles se sacrifièrent elles-mesmes volontairement ; et Dieu se contenta tellement de leur sacrifice, qu’il ne leur donna pas seulement une nouvelle vie pour elles-mesmes, ains une vie si abondante qu’elles la peuvent par sa grâce communiquer à plusieurs aines, ainsi que l’on void maintenant.
+Il me semble, certes, quand je regarde et considere le commencement de vostre Institut, qu’il représente bien l’histoire d’Abraham ; car comme Dieu luy eut donné parole que sa race seroit multipliée comme les estoilles du firmament et comme le sablon de la mer, il luy commanda neantmoins de luy sacrifier son fils par lequel la pronjesse de Dieu devoit estre accomplie ; Abraham espera, et s’affermit en son esperance contre l’esperance mesme, et (D son esperance ne fut point vide loca supra, vaine, ains fructueuse. De mesme, quand les trois premières Sœurs se rangèrent et embrassèrent ceste IM sorte de vie, Dieu avoit projetté dés toute éternité de bénir leur génération, et de leur en donner une qui seroit Ps. cxx, 2. grandement multipliée. Mais qui eust peu croire cela, puisqu’on les enserrant dans leur petite maison nous ne pensions à autre chose que de les faire mourir au monde ? Elles furent sacrifiées, ains elles se sacrifièrent elles-mesmes volontairement ; et Dieu se contenta tellement de leur sacrifice, qu’il ne leur donna pas seulement une nouvelle vie pour elles-mesmes, ains une vie si abondante qu’elles la peuvent par sa grâce communiquer à plusieurs aines, ainsi que l’on void maintenant.
 
-Il me semble, certes, que ces trois premières Sœurs sont grandement bien représentées par les (D trois grains de bled qui se trouvèrent emmi la paille qui estoit sur le chariot de Triptolemus, laquelle servoit à conserver ses armes * ; car estant portée en un païs où * Ovid. (Metamor.,
+Il me semble, certes, que ces trois premières Sœurs sont grandement bien représentées par les (D trois grains de bled qui se trouvèrent emmi la paille qui estoit sur le chariot de Triptolemus, laquelle servoit à conserver ses armes ; car estant portée en un païs où Ovid. (Metamor.,
 
 1. V), Plin. et alii ;
 
@@ -262,7 +72,7 @@ il n’y avoit point de bled, ces trois grains furent pris sed aliter. et jetté
 
 7
 
-un temps cachées aux yeux du monde, elles ont fait le * joan., xii, 24,25. fruict * que l’on void maintenant, de sorte que dans peu de temps tous ces <m’) païs seront faits participans de vostre Institut. O qu’heureuses sont les âmes qui se dedient véritablement et absolument au service de Dieu, car Dieu ne les laisse jamais steriles ni infructueuses ! Pour un rien qu’elles quittent pour Dieu, Dieu leur donne des recompensés incomparables, tant en cette vie qu'en l’autre. Quelle grâce, je vous prie, d’estre employées au service des âmes que Dieu ayme si chèrement, et pour lesquelles sauver Nostre Seigneur a tant souffert ! Certes, c’est un honneur nompareil et duquel vous devez, mes cheres filles, faire un très-grand estât : et pour vous y employer fidellement, ne plaignez ni peine, ni soin, ni travail, car tout vous sera chèrement recompensé, bien qu’il ne faille pas se servir de ce motif pour vous encourager (“’), ains de celuy de vous rendre plus agréables à Dieu et d’augmenter d’autant plus sa gloire.
+un temps cachées aux yeux du monde, elles ont fait le joan., xii, 24,25. fruict que l’on void maintenant, de sorte que dans peu de temps tous ces <m’) païs seront faits participans de vostre Institut. O qu’heureuses sont les âmes qui se dedient véritablement et absolument au service de Dieu, car Dieu ne les laisse jamais steriles ni infructueuses ! Pour un rien qu’elles quittent pour Dieu, Dieu leur donne des recompensés incomparables, tant en cette vie qu'en l’autre. Quelle grâce, je vous prie, d’estre employées au service des âmes que Dieu ayme si chèrement, et pour lesquelles sauver Nostre Seigneur a tant souffert ! Certes, c’est un honneur nompareil et duquel vous devez, mes cheres filles, faire un très-grand estât : et pour vous y employer fidellement, ne plaignez ni peine, ni soin, ni travail, car tout vous sera chèrement recompensé, bien qu’il ne faille pas se servir de ce motif pour vous encourager (“’), ains de celuy de vous rendre plus agréables à Dieu et d’augmenter d’autant plus sa gloire.
 
 Allez donc, et demeurez courageusement pour cest exercice 1°’), et ne vous amusez point à regarder que vous ne voyez point en vous ce qui est necessaire, je veux dire les talens propres aux charges auxquelles vous serez employées (p’). Il est mieux que nous ne les voyions point en nous, car cela nous tient en humilité et nous donne plus de sujet de nous mesfier de nos forces et de nous-mesmes, et fait que nous jettons plus absolument toute nostre confiance en Dieu. Tant que nous n’avons pas besoin de la pratique d’une vertu, il est mieux que nous ne l’ayons pas W ; quand nous en aurons besoin,
 
@@ -286,71 +96,9 @@ avons présentement la pratique, tenons-nous asseurés que Dieu nous donnera cha
 
 seulement qu’il se rencontre certaines occasions dans lesquelles l’expérience de sa propre faiblesse et l’humilité qui en résulte sont plus avantageuses que la possession de toute autre vertu. Cette doctrine est accentuée mieux encore dans l’Entretien De la Simplicité.
 
-Apres cecy, que vous sçaurois-je plus dire, mes cheres
+Apres cecy, que vous sçaurois-je plus dire, mes cheres Sœurs, puisqu’il semble que tout nostre bonheur soit compris en ceste toute aymable pratique ? Je vous repre- * i Reg., vin, 5-13. senteray l’exemple des Israélites, avec lequel je finiray. Ayans longuement demeuré sans avoir un roy, il leur prit envie d’en avoir un. Grand cas (D de l’esprit humain ! comme si Dieu les eust laissés sans conduite, ou qu’il n’eust point eu de Ssoin de les régir, gouverner et defendre ! Ils s’adressèrent donc au Prophète <u’), lequel leur promit de le demander pour eux à Dieu, ce qu’il fit ; et Dieu, irrité de leur demande, leur fit response qu’il le vouloit bien, mais qu'il les advertissoit que le roy qu’ils auroyent prendroit telle domination et authorité sur eux, qu’il leur leveroit leurs enfans : et quant aux fils, qu’il feroit les uns dizeniers, les autres soldats et capitaines ; et quant à leurs filles, il feroit les unes cuisinières, les autres boulangères, les autres parfumeuses (v>). Nostre Seigneur en fait de mesme, mes cheres filles, des âmes qui se dedient à son service ; car, comme vous voyez, aux Religions il y a diverses charges et divers offices. Mais qu’est-ce que je veux dire ? Rien autre, sinon qu’il me semble que la divine Majesté vous a choisies, vous autres qui vous en allez, comme des parfumeuses ou parfumieres : ouy certes, car vous estes commises de sa part pour aller respandre les odeurs tres-suaves des vertus de vostre Institut. Et comme les jeunes filles sont amoureuses des bonnes odeurs, ainsi que dit la sacrée amante au Cantique des Cantiques, que le nom de son Bien-Aymé est comme une huile ou un baume qui respand de toutes parts des odeurs infiniment <w’) agréables, et c’est pourquoy, (t’) il leur prit un jour envie d’en avoir un. Qu’est-ce que (Ms.) (u) au prophète — Samuel (Ms.)
 
-Sœurs, puisqu’il semble que tout nostre bonheur soit
-
-compris en ceste toute aymable pratique ? Je vous repre- * i Reg., vin, 5-13. senteray l’exemple des Israélites *, avec lequel je finiray.
-
-Ayans longuement demeuré sans avoir un roy, il leur
-
-prit envie d’en avoir un. Grand cas (D de l’esprit humain !
-
-comme si Dieu les eust laissés sans conduite, ou qu’il
-
-n’eust point eu de Ssoin de les régir, gouverner et
-
-defendre ! Ils s’adressèrent donc au Prophète <u’), lequel
-
-leur promit de le demander pour eux à Dieu, ce qu’il
-
-fit ; et Dieu, irrité de leur demande, leur fit response
-
-qu’il le vouloit bien, mais qu'il les advertissoit que le
-
-roy qu’ils auroyent prendroit telle domination et autho-
-
-rité sur eux, qu’il leur leveroit leurs enfans : et quant
-
-aux fils, qu’il feroit les uns dizeniers, les autres soldats
-
-et capitaines ; et quant à leurs filles, il feroit les unes
-
-cuisinières, les autres boulangères, les autres parfu­
-
-meuses (v>). Nostre Seigneur en fait de mesme, mes
-
-cheres filles, des âmes qui se dedient à son service ;
-
-car, comme vous voyez, aux Religions il y a diverses
-
-charges et divers offices. Mais qu’est-ce que je veux
-
-dire ? Rien autre, sinon qu’il me semble que la divine
-
-Majesté vous a choisies, vous autres qui vous en allez,
-
-comme des parfumeuses ou parfumieres : ouy certes,
-
-car vous estes commises de sa part pour aller respandre
-
-les odeurs tres-suaves des vertus de vostre Institut. Et
-
-comme les jeunes filles sont amoureuses des bonnes
-
-odeurs, ainsi que dit la sacrée amante au Cantique des Cantiques *, que le nom de son Bien-Aymé est comme
-
-une huile ou un baume qui respand de toutes parts des
-
-odeurs infiniment <w’) agréables, et c’est pourquoy,
-
-(t’) il leur prit un jour envie d’en avoir un. Qu’est-ce que (Ms.)
-
-(u*) au prophète — Samuel (Ms.)
-
-(v’) et authorité sur eux, — qxVil prendroit leurs fils et les mettrait en ses chariots, et en feroit des chevaucheurs et coureurs devant ses chariots, et en ordonnerait aucuns pour estre les capitaines et centeniers, et pour labourer les champs, et potir moissonner les bleds, et pour forger les armeures. Prendra aussi de vos filles pour faire les oignemens, et estre cuisinières et boulangères. (Coll.)
-
-(w*) merveilleusement (Coll.)
+(v’) et authorité sur eux, — qxVil prendroit leurs fils et les mettrait en ses chariots, et en feroit des chevaucheurs et coureurs devant ses chariots, et en ordonnerait aucuns pour estre les capitaines et centeniers, et pour labourer les champs, et potir moissonner les bleds, et pour forger les armeures. Prendra aussi de vos filles pour faire les oignemens, et estre cuisinières et boulangères. (Coll.) (w) merveilleusement (Coll.)
 
 VI. De l’Esperance ioi
 
