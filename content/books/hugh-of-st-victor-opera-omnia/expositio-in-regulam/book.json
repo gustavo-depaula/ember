@@ -1,0 +1,114 @@
+{
+  "id": "hugh-expositio-in-regulam",
+  "cover": "classic",
+  "name": {
+    "la": "Expositio in regulam beati Augustini",
+    "en-US": "Exposition of the Rule of St. Augustine",
+    "pt-BR": "Exposição da Regra de Santo Agostinho"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Expositio in regulam beati Augustini (Hugoni attributa), commentarius in Regulam canonicorum.",
+    "en-US": "The commentary on the Rule of St. Augustine that tradition attributes to Hugh (doubtful in PL), the rule of life of the canons regular of St. Victor. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "O comentário à Regra de Santo Agostinho atribuído a Hugo (duvidoso em Migne), regra de vida dos cônegos regulares de São Vítor."
+  },
+  "composed": "c. 1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/expositio-in-regulam",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.ExInReS",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.ExInReS, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput primum. De charitate dei et proximi. De unitate cordium, et communitate rerum."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput II. De humilitate."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput III. De oratione et jejunio."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput IV. De refectione utriusque hominis."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput V. De infirmis procurandis."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput VI. De habitu exteriori et interiori"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VII. De correctione fratrum."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VIII. De custodia rerum communium."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput IX. De munditia vestium et corporum."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput X. De venia postulanda et offensa remittenda."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput XI. De obedientia."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XII. De jugi meditatione regulae."
+      }
+    }
+  ]
+}

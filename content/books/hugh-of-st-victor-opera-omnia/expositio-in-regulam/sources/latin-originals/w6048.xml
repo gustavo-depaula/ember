@@ -1,0 +1,2939 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Expositio in regulam S. Augustini</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.ExInReS</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head>CAPUT PRIMUM. DE CHARITATE DEI ET PROXIMI. DE UNITATE CORDIUM, ET COMMUNITATE RERUM.</head>
+
+<pb n="0881A"/>
+<p>Haec praecepta quae subscripta sunt ideo regula
+appellantur, quia videlicet in eis nobis recte vivendi
+norma exprimitur. Regula autem dicitur, eo quod
+recte regat, vel quod recte doceat. Et quod nos dicimus
+regulam, Graeci canonem appellant. Unde
+etiam Graeco nomine canonici, id est regulares,
+appellati sunt hi qui in monasteriis constituti juxta
+regularia praecepta sanctorum Patrum canonice
+atque apostolice vivunt, quibus dicitur.</p>
+<p> <hi>Haec sunt quae ut observetis praecipimus in monasterio
+constitutis.</hi> </p>
+<p>Ad haec nobis divina praecepta leguntur, quatenus
+<pb n="0881B"/>
+lecta intelligantur et impleantur. Metuenda illa
+sententia, qua dicitur: <hi>Servus qui scit voluntatem
+domini sui et non facit, plagis vapulabit multis <note>(Luc.
+XII)</note>
+          </hi>. Hinc Paulus ait: <hi>Non enim auditores legis, sed
+factores justificabuntur <note>(Rom. II)</note>
+          </hi>. Audiamus ergo
+sacra praecepta pii domini, et memores simus mandatorum
+ipsius ad faciendum ea. Quia sicut dicit
+beatus Jacobus: <hi>Si quis in lege perfectae perspexerit
+libertatis, et permanserit in ea, non auditor obliviosus
+factus, sed factor operis, hic beatus in facto suo erit <note>(Jacob. I)</note>
+          </hi>.
+Et Dominus in Evangelio: <hi>Beati qui audiunt
+verbum Dei et custodiunt illud <note>(Luc. XI)</note>
+          </hi>. Igitur
+quae praecipiuntur nobis in monasterio constitutis
+humiliter attendamus.</p>
+<p> <hi>Primum propter quod in unum estis congregati, ut
+<pb n="0881C"/>
+unanimes habitetis in domo, et sit vobis anima una et
+cor unum in Deo.</hi> </p>
+<p>Primo nobis admonitio fit de unitate et concordia;
+<pb n="0882A"/>
+et tali concordia quae in Deo fit. Nam concordia
+ad faciendum peccatum mala est; concordia
+vero ad faciendum bonum, et sectandam justitiam,
+et serviendum Deo bona est. Hoc est propter quod
+in unum sumus congregati, scilicet ut in servitio
+divino unum spiritum et unam animam omnes hain
+domo, et sit nobis anima una et cor unum in
+Deo. Oportet enim si in unum congregati sumus
+corporaliter, ut simul habitemus et spiritualiter.
+Non enim prodest si nos continet una domus, et separat
+diversa voluntas. Plus enim attendit Deus unitatem
+animi quam loci. Ecce in una domo sumus
+plures homines, diversi mores, diversa corda, diversae
+animae. Haec omnia debet conjungere in
+unum una intentio et unus amor in Deum. Debemus
+<pb n="0882B"/>
+ergo in hoc esse unius animi et unius voluntatis,
+ut serviamus Deo et diligamus Deum ex toto corde
+et ex tota anima, et proximum sicut nos. Necessaria
+itaque est nobis virtus concordiae, quae sic haberi
+potest si frater dum venit ad monasterium incipit
+se spoliare propria voluntate, atque illum imitari,
+qui ait: <hi>Non veni facere voluntatem meam <note>(Joan. VI)</note>
+          </hi>.
+Et iterum: <hi>Pater, non sicut ego volo, sed sicut tu <note>(Matth. XXVI)</note>
+          </hi>.
+Hoc est enim quod maxime adducit
+concordiam, si quisque non suam, sed alterius veluntatem
+facere studeat in bono. Et hoc est magnae
+humilitatis judicium. Inde generatur obedientia,
+crescit charitas, et pax atque justitia, et Ecclesiae
+virtutes; quod si volo facere voluntatem meam, et
+iste suam, fiunt divisiones, oriuntur lites, irae quoque
+<pb n="0882C"/>
+et rixae, quae sunt opera carnis. Et sicut ait
+Apostolus: <hi>Qui talia agunt regnum Dei non consequentur <note>(Galat. V)</note>
+          </hi>.
+Sunt quidam in congregatione
+<pb n="0883A"/>
+beamus. Et ideo praecipit ut unanimes habitemus
+obstinati in suo sensu, sapientes in oculis suis;
+nam, quod in animo conceperint, hoc quasi ex ratione
+defendunt; nec se aliis, sed alios sibi applicari
+contendunt. Et si viderint sibi non obtemperari,
+statim commoventur, et perturbantur. Tales
+solent esse rebelles mandatis seniorum; plurimumque
+in eis regnat passio inobedientiae et impatientiae.
+Isti non sunt idonei ad concordiam. <hi>Nam,</hi> 
+juxta Apostoli vocem, <hi>evanuerunt in cogitationibus
+suis, et obscuratum est insipiens cor eorum, dicentes
+enim se esse sapientes, stulti facti sunt <note>(Rom. I)</note>
+          </hi>.
+Magna quippe obscuritas cordis est superbia, et
+valde stulta sapientia est, aliis se velle praeferre.
+Quo contra idem Apostolus ait: <hi>Si quis videtur inter
+<pb n="0883B"/>
+vos sapiens esse, stultus fiat, ut sit sapiens <note>(I Cor. III)</note>
+          </hi>.
+Stultus enim sapiens est, et secundum
+Deum magna sapientia est omnibus se judicare inferiorem.
+Inde scriptum est: <hi>Quanto major es, tanto
+te humilia in omnibus <note>(Eccli. III)</note>
+          </hi>. Hinc Dominus
+discipulos suos inter quos contentio erat, quis
+eorum videretur esse major, statim ad humilitatis
+concordiam revocat dicens: <hi>Qui major est vestrum,
+erit ipse vester servus. Et ipse Filius hominis non venit
+ministrari, sed ministrare, et animam suam dare
+redemptionem pro multis <note>(Matth. XX)</note>
+          </hi>. Ergo unanimes
+habitemus in domo. <hi>Bonum est enim et jucundum
+Deo habitare fratres in unum <note>(Psal. CXXXII)</note>
+          </hi>.
+Nec tam placent ei nostra jejunia, nostrae orationes,
+quam concordia. Ideo dicit in Evangelio: <hi>Vade
+<pb n="0883C"/>
+prius reconciliari fratri tuo, et tunc veniens offeres
+munus tuum <note>(Matth. V)</note>
+          </hi>. Ex quibus verbis patet quia
+qui concordiam non habet, omnipotenti Deo sacrificium
+offerre non valet. Pensare ergo debemus
+quanta sit apud Deum concordiae virtus, sine qua
+non placent ipsa sacrificia quibus delentur peccata.
+Et sciendum est quia cum ad conversionem venimus,
+contra diabolum certamen assumimus. Nihil est autem,
+quod ipse tantum timeat, quantum charitatis
+unitatem. Nam si distribuimus totum, quod habemus,
+propter Deum, hoc diabolus non timet, quia
+ipse nihil possidet. Si jejunamus, hoc ipse non metuit,
+quia cibum non sumit. Si vigilemus, inde non
+terretur, quia somno non utitur. Sed si charitate
+<pb n="0883D"/>
+conjungimur, inde vehementer expavescit, quia hoc
+tenemus in terra, quod ipse in coelo contempsit servare.
+Hinc est quod sancta Ecclesia terribilis esset
+ut castrorum acies ordinata describitur, quia sicut
+hostes timent quando aciem castrorum bene ordinatam
+et conjunctam ad bellum vident, ita nimirum
+diabolus expavescit, quando spirituales viros
+virtutum armis accinctos in unitate concordiae vivere
+conspicit; victusque vehementer dolet, cum
+eos per discordiam dividere, et penetrare non valet.
+Hinc de Domino scriptum est: <hi>Factus est in pace
+locus ejus <note>(Psal. LXXV)</note>
+          </hi>. Ibi confregit potentias, arcum,
+scutum, gladium, et bellum. Ex quibus verbis
+patet, quod omnia diabolica arma frangit concordia.</p>
+<p>
+          <pb n="0884A"/> <hi>Et sit vobis anima una et cor unum in Deo.</hi> </p>
+<p>Hae sunt primitiae spiritus, qua ex primordio
+nostrae conversionis offerre omnipotenti Deo debemus,
+sicut ipsa Sapientia praecepit, dicens: <hi>Fili, da
+mihi cor tuum <note>(Prov. XXIII)</note>
+          </hi>. Prius enim corde et
+voluntate trahimur ad Deum. Ergo si corpore separamur
+a saeculo, corde et anima jungamur Deo, ut
+possimus veraciter dicere: <hi>Mihi autem adhaerere
+Deo bonum est. Nam qui adhaeret Deo, unus spiritus
+est cum eo <note>(Psal. LXXII; I Cor. VI)</note>
+          </hi>. Adhaereamus
+ergo ei, ut simus fortes per ipsum, ut simus unum
+in ipso, et beati cum ipso dicamus ei: <hi>Adhaesit
+anima mea post te <note>(Psal. LXII)</note>
+          </hi>. Charitas separat
+nos a mundo, et ipsa nos conjungit Deo. Sic erit
+nobis anima una, et unum cor in Deo, si ex toto
+<pb n="0884B"/>
+corde, et ex tota anima diligamus Deum. <hi>Deus</hi> 
+enim <hi>charitas est, et qui manet in charitate in Deo
+manet, et Deus in eo <note>(I Joan. IV)</note>
+          </hi>. Et quia charitas
+non quaerit quae sua sunt, recte subjungitur:</p>
+<p> <hi>Et non dicatis aliquid proprium, sed sint vobis
+omnia communia.</hi> </p>
+<p>Non enim debemus aliquid habere proprium,
+aut quidquam dicere meum, sed nostrum, ut
+dicatur nostra cappa, nostra tunica, nostra domus,
+et in caeteris similiter. Omnia enim in communi
+debemus habere, et omnia communi nomine appellare.</p>
+<p>Sed in hoc pensandum est quanta differentia sit
+inter carnales fratres et spirituales. Nam illi, quod
+<pb n="0884C"/>
+commune est eis, dividunt: isti quod divisum erat,
+in communi ponunt. Ibi quisque, quod suum est,
+quaerit: isti non quae sua sunt, quaerunt, sed quae
+Jesu Christi. Plus ergo valet ista propinquitas quam
+illa; quia illa deficit, ista crescit. Illa habet divisionem,
+ista unitatem. Illa transit cum saeculo, ista
+permanet cum futuro. Ad hoc enim simul modo in
+ista domo vivimus, ut postmodum in coelesti regno
+maneamus. <hi>Filii Dei sumus,</hi> ait Apostolus, <hi>sed nondum
+apparuit quid erimus. Sciemus autem cum apparuerit,
+similes ei erimus, quoniam videbimus eum
+sicuti est <note>(I Joan. III)</note>
+          </hi>; et Paulus: <hi>Non habemus hic
+manentem civitatem, sed futuram requirimus <note>(Hebr.
+XIII)</note>
+          </hi>. Ergo non debemus habere propria, sed sint
+<pb n="0884D"/>
+nobis omnia communia. Partes sibi faciunt homines
+in hoc saeculo: alius argentum et aurum; alii domos
+et familias: alius nomen grande, potentiam et
+gloriam; iste hoc: alius aliud, diversi diverso modo.
+Pars vero piorum est ipse Deus. Et nos si volumus
+habere talem partem, talem haereditatem ut est Dominus,
+tales nos oportet exhibere, ut digni simus
+eum possidere et possideri ab ipso. Ergo si volumus
+in haereditatem possidere Deum, nihil debemus habere
+extra Deum. Nam nimis est avarus cui non
+sufficit Deus. Quia si quidpiam aliquid quaerimus
+verbi gratia aurum, argentum, possessiones, cum
+istis partibus pars fieri Dominus dedignatur. Verba
+sunt Hier.: <hi>Ego,</hi> inquit, <hi>non accipio haereditatem
+inter caeteras tribus; sed quasi sacerdos et levita vive
+<pb n="0885A"/>
+decimis; et altari serviens, altaris oblatione sustentor:
+habens victum et vestitum, his contentus ero.--Beati
+enim pauperes spiritu, quoniam ipsorum est
+regnum coelorum <note>(Matth. V)</note>
+          </hi>. Et quia quandiu hic vivimus,
+corporali necessitate indigemus, recte subjungitur.</p>
+<p> <hi>Et distribuatur unicuique vestrum a praeposito vestro
+victus et vestimentum.</hi> </p>
+<p>Sic enim Dominus voluit ordinari Ecclesias suas,
+ut alii vacarent spiritualibus, alii eis temporalia
+ministrarent. Et ideo alios voluit esse praepositos,
+alios subditos. Praepositorum officium est subditis
+corporalia ministrare. Subditorum ministerium est
+spiritualibus studiis insistere: lectioni, orationi,
+contemplationi vacare, in psalmis, hymnis et canticis
+<pb n="0885B"/>
+spiritualibus coelesti Domino deservire. Tanto
+ergo opus est ut circa se sollicitius vivant, quanto
+eos aliena cura non implicat. Constitutum est a
+Domino, ut qui altari serviunt, de altari vivant: <hi>Dignus est operarius,</hi> 
+ sicut ipse ait, <hi>mercede sua <note>(Luc. X)</note>
+          </hi>.
+Et ideo si vivimus de annona Christi, et
+justum est ut laboremus in servitio Christi: et
+tunc digne mercedem accipimus, si prius boni operarii
+fuerimus. Dicit enim apostolus Paulus: <hi>Qui
+non vult operari, non manducet <note>(II Thess. V)</note>
+          </hi>. Quia si
+non laboramus et manducamus, tanto majoris criminis
+efficimur rei, quanto Dei beneficia suscipimus
+indigni. Oportet ergo ut serviamus ei a quo pascimur,
+si sine periculo animae volumus sumere hoc
+quod distribuitur, et tanto plus debemus esse solliciti
+<pb n="0885C"/>
+in bono opere, quanto ea percipimus sine magno
+labore. Nam quid mirum, si hi, qui temporalibus
+occupantur, minus studiose et religiose vivunt,
+si frequenter in cogitationibus et sermonibus atque
+actionibus suis offendunt? Usus enim saeculi hominem
+ad peccatum etiam quandoque invitum trahit.
+Hi vero quibus et cura mundi, et occasio peccandi
+deest, quanto minus religiose vivunt, tanto magis
+supernum judicem offendunt: nec sine gravi periculo
+animae etiam in minimis negligentiis offendunt.
+Pensemus ergo ad quid nobis victus, et tegumentum
+tribuitur: ut sit totum desiderium nostrum, <hi>primum quaerere regnum Dei et justitiam ejus, propter
+quod haec omnia adjiciuntur nobis 
+ <note>(Matth. VI)</note>
+          </hi>.
+Qualiter autem distribuendum sit, ostenditur cum
+<pb n="0885D"/>
+subinfertur.</p>
+<p> <hi>Non aequaliter omnibus distribuatur, quia non
+aequaliter valetis omnes, sed potius unicuique prout
+cuique opus fuerit.</hi> </p>
+<p>Et hoc auctoritate apostolica roborat, dicens:</p>
+<p> <hi>Sic enim legitis in Actibus apostolorum, quia erant
+illis omnia communia, et distribuebatur unicuique sicut
+unicuique opus erat <note>(Act. IV)</note>
+          </hi>.</p>
+<p>Hoc non est ita intelligendum, ut unicuique quod
+opus erat, sic abundanter distribueretur quod non
+haberent indigentiam. Cum enim scriptum sit, quod <hi>inter eos nullus egens erat 
+ <note>(Act. IV)</note>
+          </hi>, scriptum etiam
+legimus esse de ipsis apostolis, quod serviebant
+Deo <hi>in fame et siti, in frigore et nuditate <note>(II Cor. XI)</note>
+          </hi>.
+<pb n="0886A"/>
+Ex quibus verbis colligendum est quod multi corpore
+indigent, non animo. Sed qui semetipsos abnegant
+propter Christum, animi virtute ipsam superant
+naturam. Dei namque dilectio quae fortis est ut
+mors, non solum illicita desideria, verum etiam ipsos
+corporales et naturales exstinguit affectus. In primitiva
+quippe Ecclesia tanta erat gratiae spiritualis
+abundantia, ut non solum modico contenti essent
+sed hoc ipsum quod nihil habebant, pro summis
+deliciis deputarent. Unde Apostolus ait <hi>Nihil habentes
+et omnia possidentes <note>(II Cor. VI)</note>
+          </hi>. Hinc etiam
+quidam vir sanctus ait: <hi>Sufficiebat nobis paupertas
+nostra, ut</hi> divitiae computarentur <note>(Tob. V)</note>. Item ait
+Apostolus: <hi>Magnus,</hi> inquit, <hi>quaestus est pietas cum
+sufficientia; habentes,</hi> inquit, <hi>victum et vestitum his
+<pb n="0886B"/>
+contenti simus <note>(I Tim. VI)</note>
+          </hi>. In hujusmodi ergo non
+debemus attendere voluntatem carnis, sed valetudinem
+naturae. Plus enim appetit carnalis voluntas
+quam necessitas. Quamobrem in eo quod dicitur,
+quod unicuique quod opus est tribuatur, iste modus
+servandus est quatenus sic nutriatur caro ut serviat,
+et iterum sic reprimatur ut non superbiat; sic servetur
+necessitas naturae, ut abscindatur superfluitas
+concupiscentiae.</p>
+<p> <hi>Qui autem aliquid habebant in saeculo quando ingressi
+fuerint monasterium, libenter velint illud esse
+commune.</hi> </p>
+<p>Hoc fecerunt primitivae Ecclesiae fratres. Dignum
+enim eis videbatur, ut qui communem habebant
+gratiam, communem haberent et substantiam; et
+<pb n="0886C"/>
+quibus unus erat spiritus, unus esset et sumptus.
+Bene autem additum est hoc verbum <hi>libenter,</hi> quia <hi>hilarem datorem diligit Deus 
+ <note>(II Cor. IX)</note>
+          </hi>. Libenter
+debemus terrena dare, ut possimus coelestia comparare.
+Regnum enim coelorum tantum valet, quantum
+habes. Nihil vilius cum emitur, nihil charius
+cum possidetur. Duo sunt quae relinqui oportet
+propter Deum, facultatem scilicet possidendi, et voluntatem
+habendi: Hinc est quod Dominus ait in
+Evangelio: <hi>Qui non renuntiat omnibus quae possidet,
+non potest meus esse discipulus <note>(Luc. XIV)</note>
+          </hi>. Et iterum. <hi>Qui vult venire post me, abneget semetipsum <note>(Luc. IX)</note>
+          </hi>.
+Illud pertinet ad substantiam, hoc ad voluntatem.
+Non enim sufficit exteriorem relinquere
+substantiam, nisi interiorem abscindamus concupiscentiam.
+<pb n="0886D"/>
+Unde et subditur:</p>
+<p> <hi>Qui autem non habebant, non ea quaerant in monasterio,
+quae nec foris habere potuerunt.</hi> </p>
+<p>Etiam illi qui nihil habebant foris, habent intus
+quod relinquere possunt propter Deum scilicet voluntatem
+habendi. Unde scriptum est: <hi>Non concupisces <note>(Exod. XX)</note>
+          </hi>.
+Plus enim attendit affectum Deus
+quam censum. Hinc per Sapientem dicitur: <hi>Fili, da
+mihi cor tuum <note>(Prov. XXIII)</note>
+          </hi>. Quod fieri non potest
+nisi prius carnalis appetitus resecetur. Primum
+ergo jubemur habita deserere; deinde terrena non
+quaerere, ut postea liberius ad coelestia possimus
+anhelare. Et ne videretur pauperibus saeculi qui
+convertuntur, necessaria non debere ministrari,
+<pb n="0887A"/>
+quia nihil in monasterio quaerere praecipiuntur,
+subjunctum est:</p>
+<p> <hi>Sed tamen eorum infirmitati quod opus est tribuatur,
+etiam si paupertas eorum, quando foris erant, nec
+ipsa necessaria poterat invenire.</hi> </p>
+<p>Sive enim divites sint, sive pauperes, sive nobiles,
+sive ignobiles: quicunque accedunt ad servitium
+Christi; justum est ut vivant de annona
+Christi. <hi>Dignus est enim operarius mercede sua <note>(I Tim. V)</note>
+          </hi>.</p>
+<p> <hi>Tamen non ideo putent se esse felices, quia invenerunt
+victum et tegumentum, quale foris invenire non
+potuerunt.</hi> </p>
+<p>Multi enim ad conversionem veniunt non tam
+propter animae salutem, quam propter corporis necessitatem;
+<pb n="0887B"/>
+qui non Deum colunt, sed ventrem
+suum, de quibus ait Apostolus. <hi>Quorum Deus venter
+est <note>(Philipp. III)</note>
+          </hi>. Talibus Dominus dicit in Evangelio: <hi>Amen dico vobis, quaeritis me non quia vidistis
+signa, sed, quia manducastis ex panibus meis 
+ <note>(Joan.
+VI)</note>
+          </hi>. Horum talium tota est intentio atque felicitas
+ut bene pascantur, bene vestiantur, et bene sit eis
+temporaliter. Et quia terrena appetunt, coelestibus
+privantur. <hi>Receperunt enim,</hi> sicut Dominus ait, <hi>mercedem suam 
+ <note>(Matth. VI)</note>
+          </hi>. Unde summopere cavendum
+est, ne temporalibus adhaereamus bonis. Ideo
+Psalmista nos admonet, dicens: <hi>Divitiae si affluant,
+nolite cor apponere <note>(Psal. LXI)</note>
+          </hi>. Terrena quidem nobis
+in usu esse debent, coelestia autem in desiderio.
+Est enim quaedam admirabilis et magna multitudo
+<pb n="0887C"/>
+dulcedinis Dei quam habet in se, de qua dictum est: <hi>Quia oculus non vidit, nec auris audivit, nec in cor
+hominis ascendit, quae praeparavit Deus diligentibus
+se 
+ <note>(I Cor. II)</note>
+          </hi>. Unde scriptum est: <hi>Satiabor cum apparuerit
+gloria tua <note>(Psal. XVI)</note>
+          </hi>. Illa ergo satietas debet
+esse nostra felicitas.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT II. DE HUMILITATE.</head>
+<p> <hi>Nec erigant cervicem, quia sociantur eis ad quos
+foris accedere non audebant; sed sursum cor habeant
+et terrena vana non quaerant, ne incipiant monasteria
+divitibus esse utilia non pauperibus, si divites illic
+humiliantur et pauperes inflantur.</hi> </p>
+<p>Cervicem erigere signum superbiae est. Si superbis
+<pb n="0887D"/>
+angelis non fuit utile coelum, constat quia superbis
+hominibus non erit utile monasterium. Et si
+sanctus sit locus, si sanctus sit habitus, si sancta
+opera videantur, totum ex vitio superbiae inutile
+habebitur. Superbia enim casum habet. Ideo sanctus
+David orat ad Dominum ut <hi>non veniat ei pes superbiae,
+quia ibi ceciderunt qui operantur iniquitatem:
+expulsi sunt nec potuerunt stare <note>(Psal. XXXV)</note>
+          </hi>. Quo
+contra utilia sunt humilibus monasteria. Ipsi enim
+sunt docibiles Dei, sicut scriptum est: <hi>Docebit mites
+vias suas <note>(Psal. XXIV)</note>
+          </hi>. Itemque: <hi>Qui</hi> emittit <hi>fontes
+in convallibus <note>(Psal. CIII)</note>
+          </hi>; id est gratiam suam
+praestat humilibus. Ipsi quidem bona quae faciunt
+non amittunt, quia custodem virtutum humilitatem
+non deserunt. Et quia juxta evangelicum praeceptum
+<pb n="0888A"/>
+recumbunt in novissimo loco, et secundum prophetam
+eligunt abjecti esse in domo Domini; ideo ab
+ipso merentur exaudiri sicut scriptum est: <hi>Omnis
+qui se exaltat humiliabitur; et qui se humiliat exaltabitur <note>(Luc. XVIII)</note>
+          </hi>.
+Et iterum: <hi>Superbis Deus resistit;
+humilibus autem dat gratiam <note>(I Petr. V)</note>
+          </hi>.</p>
+<p> <hi>Rursus etiam illi, qui aliquid videbantur esse in
+saeculo, non habeant fastidio fratres suos, qui ad
+illam sanctam societatem ex paupertate venerunt.
+Magis autem studeant non de parentum divitum
+dignitate; sed de pauperum fratrum societate gloriari.</hi> </p>
+<p>Summopere cavere debent fratres, qui ad sanctam
+societatem et communem vitam venerunt, ut non
+habeat alter alterum fastidio, quamvis eo ditior sit,
+<pb n="0888B"/>
+sive nobilior, sive sapientior. Quoniam sicut dicit
+Apostolus: <hi>Infirma mundi elegit Deus et ignobilia
+et contemptibilia, ut non glorietur omnis caro in
+conspectu ejus <note>(I Cor. I)</note>
+          </hi>, scilicet neque potens in
+potentia sua; neque sapiens in sapientia sua, neque
+dives in divitiis suis. <hi>Non</hi> enim <hi>est personarum acceptio
+apud Deum <note>(Colos. III)</note>
+          </hi>. Nam idem Dominus
+dives in omnes qui invocant eum. Bene autem non
+de dignitate divitum parentum, sed de societate
+pauperum fratrum praecipimur gloriari, quoniam
+ipse qui dives est in gloria sua pauper factus est pro
+nobis. Non divitibus sed pauperibus dignatus est
+sociari; ut et nos pauperes simus propter ipsum,
+quoniam pauperibus promissum est regnum coelorum.
+Gloriari quidem de divitiis pertinet ad vanitatem
+<pb n="0888C"/>
+mundi; de paupertate vero gloriari pertinet ad
+beatitudinem.</p>
+<p> <hi>Nec extollantur si communi vitae aliquid de suis facultatibus
+contulerint; nec de suis divitiis magis superbiant,
+quia eas monasterio partiuntur, quam si in
+saecuto fruentur.</hi> </p>
+<p>Ex praecedenti sententia et iis quae sequuntur,
+nobis duo genera superbiae designantur. Unum carnale,
+aliud spirituale. Nam pauperes fastidire et de
+nobilitate gloriari ad superbiam pertinet, quae inter
+homines saeculares frequenter solet evenire. De operibus
+misericordiae se extollere superbia spiritualis,
+quae solet etiam spirituales corrumpere. Magis autem
+timenda est superbia spiritualis quam carnalis,
+<pb n="0888D"/>
+quia se extollere de bono opere aut de virtute, ab
+alto cadere est. Et quanto altior est ascensus, tanto
+periculosior est casus. Dominus dicit in Evangelio: <hi>Cum facis eleemosynam, nesciat sinistra tua quid faciat
+dextera tua, ut sit eleemosyna in abscondito; et
+ille qui videt in abscondito reddet tibi 
+ <note>(Matth. VI)</note>
+          </hi>.
+Per dexteram recta operatio; per sinistram favor
+mundi atque elatio designatur; ex his verbis admonemur
+ut recta quae agimus abscondere ab elatione
+studeamus, alioquin mercedem non habebimus apud
+Patrem nostrum. Deinde ostendit quantum sit vitium
+superbiae; cum subjungit.</p>
+<p> <hi>Alia quippe quaecunque iniquitas in malis operibus
+exercetur, ut fiant; superbia vero etiam bonis operibus
+insidiatur, ut pereant.</hi> </p>
+<p>
+          <pb n="0889A"/>Ex hoc apparet quia caeteris, vitiis major est superbia.
+Per vitia enim et virtutes exterminat humanam
+mentem; superbia Deo et hominibus odibilis
+est, de qua scriptum est: <hi>Initium omnis peccati superbia <note>(Eccli. X)</note>
+          </hi>.
+Prima est in peccando; ultima remanet
+in conflictu. Nam cum servus Dei caetera vitia
+superavit; et jam ad virtutum alta conscenderit;
+adhuc habet pugnam contra superbiam, quam nisi
+expugnaverit, in caeteris frustra laboravit. Cum ergo
+foris bona agimus, intus cor ab elatione custodiamus;
+quia nulla Deo placet cum superbia operatio. Unde
+Scriptura nos admonet dicens: <hi>Omni custodia</hi> custodi <hi>cor tuum, quia mors et vita ab ipso procedit <note>(Prov. IV)</note>
+          </hi>.</p>
+<p> <hi>Et quid prodest dispergendo dare pauperibus et
+<pb n="0889B"/>
+pauperem fieri, cum anima misera superbior efficitur
+divitias contemnendo, quam fuerat possidendo?</hi> </p>
+<p>Non prodest nobis nostra relinquere, nisi relinquamus
+et nos. Non enim dicit Dominus: <hi>Beati pauperes</hi> 
+rebus, sed <hi>spiritu, quoniam ipsorum est regnum coelorum <note>(Matth. V)</note>
+          </hi>.
+De contemptu rerum quisque debet
+esse humilior non superbior, et melius esset ut
+eas in saeculo retineret quam sic relinqueret, ut inde
+in monasterio superbiret. Sicut ergo illa anima est
+beata quae sua propter Dominum pauperibus dividit
+ut humilietur, ita est illa misera quae inde extollitur.
+Infelix profecto est qui per iter virtutum tendit
+ad vitia, et unde praemium habere debuit, inde tormentum
+incurrit. Omnis quippe superbus tanto in
+<pb n="0889C"/>
+imo est, quanto in altum se erigit, tantoque profundius
+labitur, quanto excelsius elevatur. Resecatis
+quibusdam vitiis ad unanimitatem redit, quam primo
+commendavit, dicens.</p>
+<p> <hi>Omnes ergo unanimiter et concorditer vivite, et honorate
+in vobis Deum invicem, cujus templa facti
+estis.</hi> </p>
+<p>Unanimiter vivimus si unum in Deo animum habeamus,
+quemadmodum primitiva Ecclesia, cui cor
+erat unum et anima una. Quod ait <hi>unanimiter,</hi> pertinet
+ad voluntatem. Quod vero subdit <hi>concorditer,</hi> 
+pertinet ad bonos mores. Hic est rectus ordo vivendi,
+primum ut sit voluntas una, deinde concors
+vita. Frater qui vult concorditer vivere, prius debet
+pravos mores deponere, ne sit perversus, inordinatus,
+<pb n="0889D"/>
+indisciplinatus, ne anxietate sua caeteros premat,
+deinde ita debet librare actus suos et totam vitam
+suam, ut concordare possit secundum Deum
+cum quibus vivit. Sunt ergo nonnulli qui, postquam
+saeculum relinquunt, proprias voluntates sequi volunt.
+Et rursus sunt plerique qui in suis actibus appetunt
+saecularibus apparere. Ideo dictum est:
+Omnes ergo unanimiter et concorditer vivite. Deum
+autem in nobis invicem honoramus, si nos invicem
+propter ipsum diligamus, si praecepta ejus sollicite
+custodimus et efficimur sanctum templum ejus per
+inhabitationem Spiritus ejus in nobis. Nostrum est
+Deum honorare, Dei est nos inhabitare et illustrare
+per gratiam</p>
+<p>
+          <pb n="0890A"/> <hi>Nec extollantur si communi vitae aliquid de suis facultatibus
+contulerint,</hi> etc., usque <hi>fruerentur.</hi> </p>
+<p>Melius est res suas in saeculo tenere, quam eas
+ita in monasterio distribuere, ut velint se inde extollere.
+Nam si extolluntur, dejiciuntur. Quisquis
+enim in eo quod bene agit intumescit, eo ipso tramite
+quo proficit cadit. Bona quippe actio cum elatione
+non elevat, sed gravat. Beata est ergo illa anima
+quae potest dicere cum Propheta: <hi>Domine, non est
+exaltatum cor meum, neque elati sunt oculi mei, neque
+ambulavi in magnis, neque in mirabilibus super me <note>(Psal. CXXX)</note>
+          </hi>.
+Felix plane est qui non habet occultam
+superbiam in corde, nec apertam corpore, nec
+in vultu, nec in habitu, neque in sermone, neque
+in opere, neque in caeteris motibus suis. Et si non
+<pb n="0890B"/>
+ambulat in magnis, id est si se non reputat inter
+magnos, quod nobilis fuerit aut potens, aut quod divitias
+suas communi vitae contulerit, aut quod in aliquo
+officio sit utilis. Et si non ambulat in mirabilibus
+super se, ut de religione et sanctitate desuper
+a Deo sibi collata non velit apparere tanquam admirabilis
+atque laudabilis. Raro tamen invenitur
+aliquis, qui ex his aliquam commotionem non habeat.
+Ut autem ista omnia superbiae genera possit servus
+Dei superare, semper de se debet humiliter sentire
+et non exaltare animam suam, sed in humilitate reprimere,
+juxta quod scriptum est: <hi>Quanto</hi> major <hi>es,
+tanto humilia te in omnibus <note>(Eccli. III)</note>
+          </hi>. Valde enim
+timenda sunt verba quae sequuntur: <hi>Alia enim quaecunque
+<pb n="0890C"/>
+iniquitas,</hi> etc. Avaritia enim non exercetur
+nisi in malis operibus. Luxuria non exercetur nisi
+malis operibus, similiter et caetera vitia. Sola superbia
+etiam bonis operibus insidiatur ut pereant.
+Ideo Pharisaeus perdidit bona sua, quia se egisse
+jactanter protulit. Augustinus: Sunt quidam qui de
+contemptu vanae gloriae vanius gloriantur. Similiter
+sunt plerique qui de contemptu divitiarum vanius extolluntur,
+de quibus subjungitur:</p>
+<p> <hi>Et quid prodest dispergendo dare pauperibus et
+pauperem fieri, cum anima misera superbior efficitur
+divitias contemnendo quam fuerat possidendo?</hi> </p>
+<p>Ac si aperte diceret. Quid prodest paupertas cum
+superbia? Melior est dives humilis quam superbus
+pauper. Melior est peccator humilis quam justus
+<pb n="0890D"/>
+elatus. Debet ergo in omnibus esse servus Dei providus
+et circumspectus, primum ne mala agat,
+deinde ne bona negligat, postmodum ne in nobis
+quae facit intumescat; quia tunc sunt veraciter bona
+quae agimus, si ea semper in humilitate custodimus
+Et tunc veraciter sumus pauperes Christi, si humiles
+sumus pro amore Christi. Et: <hi>Beati pauperes spiritu,
+quoniam ipsorum est regnum coelorum <note>(Matth.
+V)</note>
+          </hi>. Unde aperte subjungitur:</p>
+<p> <hi>Omnes ergo unanimiter et concorditer vivite, et honorate
+in vobis Deum invicem, cujus templa facti
+estis.</hi> </p>
+<p>Paupertas quippe, et humilitas generant charitatem.
+Charitas vero unitatem nutrit; unitas vero et
+<pb n="0891A"/>
+concordia efficiunt nos templum Dei. Et tunc veraciter
+Deum honoramus, quando unanimiter et concorditer
+vivimus. Tunc enim ostendimus quia sumus
+discipuli Christi si tenemus unitatem charitatis
+Christi. Hinc est quod Dominus ait: <hi>In hoc cognoscent
+omnes quia mei estis discipuli, si dilectionem habueritis
+ad invicem <note>(Joan. XIII)</note>
+          </hi>.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT III. DE ORATIONE ET JEJUNIO.</head>
+<p> <hi>Orationibus instate horis et temporibus constitutis.</hi> </p>
+<p>Ante tempus orare est providentia. In tempore
+constituto orare est obedientia. Tempus orandi praeterire
+est negligentia. Tanto crebrior debet esse
+oratio, quanto utilior. Instanter et ardenter orare
+debemus. Magna enim sunt bona quae promittit nobis
+<pb n="0891B"/>
+Deus. Nam <hi>oculus non vidit, nec auris audivit, nec in
+cor hominis ascendit, quae preparavit Deus diligentibus
+se <note>(I Cor. II)</note>
+          </hi>. Non vult bona sua quaerendi et inveniendi
+facilitate vilescere. Pretiosa et desirabilis merces
+avidum negotiatorem inquirit. Ideo nos Dominus
+hortatur in Evangelio dicens: <hi>Petite et dabitur vobis,
+quaerite et invenietis, pulsate et aperietur vobis <note>(Matth. VII)</note>
+          </hi>.
+Non enim otiosis, tepidis et negligentibus
+promittitur regnum Dei, sed sicut dicit Scriptura: <hi>Regnum coelorum vim patitur, et violenti rapiunt illud <note>(Matth. XI)</note>
+          </hi>.
+Amat Deus instantiam et importunitatem
+in prece. Si magna sunt bona, non debent esse
+desideria parva. Cum magnitudine praemiorum concordare
+debet magnitudo desideriorum. Quod si ad
+primas lacrymas non exaudit Dominus; nec sic quidem
+<pb n="0891C"/>
+a quaerendo et pulsando desistendum est; sed
+tanta potius perseverandum instantia tantoque obstinato
+clamore frequentandus est Salvator, donec
+impleat orantis desiderium. Quod si quisquam nostrum
+conscientiam suam vel cogitationem suam aut
+actionem vitiorum sorde sentit inquinatam; misericordiam
+Redemptoris continuis debet flagitare lamentis,
+sanctorumque intercessiones et auxilia postulare,
+quod si ad exemplum Chananeae mulieris in
+orando persistamus, fixique maneamus, aderit gratia
+Redemptoris nostri quae cuncta in nobis errata
+corrigat, immunda sanctificet, turbulenta serenet.
+Fidelis enim et justus est ut remittat nobis peccata
+nostra, ut emundet nos ab omni iniquitate, si ad illum
+sedula montis voce clamemus. Et ut secrete et
+<pb n="0891D"/>
+quiete possint orare fratres, ideo subjungitur:</p>
+<p> <hi>In oratorio nemo aliquid agat nisi ad quod factum
+est, unde et nomen accepit, ut si etiam forte aliqui
+praeter horas constitutas (si eis vacat) orare voluerint,
+non eis sint impedimento, qui ibi aliquid agendum
+putaverint.</hi> </p>
+<p>Ideo Dominus noster vendentes et ementes ejecit
+de templo dicens: <hi>Domus mea domus orationis vocabitur <note>(Matth. XXI)</note>
+          </hi>;
+ut doceat in Dominica domo
+nihil aliud esse agendum quam orandum. Ad hoc
+enim omnis ecclesia constituitur ut in ea oretur.
+Ipsa enim est domus Dei et porta coeli. Ibi peccatores
+reconciliantur, et justi sanctificantur; ibi explentur
+divina mysteria et tractantur coelestia sacramenta.
+<pb n="0892A"/>
+Unde Salomon ait: Domine, si conversus fuerit populus
+tuus et oraverit ad sanctuarium tuum, tu
+exaudies eos et dimittes peccata eorum <note>(III Reg.
+VIII)</note>. Et ideo summopere cavendum est ne aliquid
+in sanctuario fiat quod aut oculos divinae majestatis
+offendat aut ibi orare volentes impediat. Qualiter
+autem orare debemus ostenditur cum subinfertur.</p>
+<p> <hi>Psalmis et hymnis cum oratis Deum: hoc versetur
+in corde quod profertur in voce.</hi> </p>
+<p>Psallentium in ecclesia mens concordare debet
+cum voce, ut impleatur illud Apostoli: <hi>Psallam spiritu;
+psallam et mente <note>(I Cor. XIV)</note>
+          </hi>. Orandi perseverantia
+ita solum meretur esse fructifera; si quod
+ore precamur, hoc mente meditemur. Saepe namque
+oramus et alibi corde intendimus, nec ipsum quod
+<pb n="0892B"/>
+dicimus recolimus. Sed illam Deus non exaudit orationem,
+cui qui orat non intendit; quod instinctu
+diaboli saepe fieri solet. Sciens autem utilitatem
+orandi, et nobis invidens gratiam impetrandi, immittit
+orantibus cogitationum tumultus, ut mentem
+ab oratione dividat et fructum orationis tollat. Contra
+cujus malitiam debemus habere mentis constantiam,
+ut quanto plus cogitationum turba nos impugnat,
+tanto robustius mens nostra in sui status rectitudine
+fixa permaneat. Multum enim juvat ad orationis
+puritatem si in omni loco et tempore nos ab
+actibus illicitis temperemus; si semper ab otiosis
+sermonibus auditum pariter castigemus et linguam;
+si in lege Dei ambulare et testimonia ejus assuescamus
+toto corde scrutari. Quaecunque saepius agere
+<pb n="0892C"/>
+loqui, audire, solemus; eadem necesse est ad animum
+quasi solitam propriamque recurrant sedem.</p>
+<p> <hi>Et nolite cantare nisi quod legitis esse cantandum.
+Quod autem ita scriptum est ut non cantetur, non
+cantetur.</hi> </p>
+<p>Non enim decet ut cantus ecclesiasticus fieri debeat
+secundum arbitrium diversorum, sed firmiter
+servandum est secundum scripta et instituta majorum.
+Similiter caeterae consuetudines monasterii
+cum auctoritate et discretione ordinandae sunt. Si
+quid autem mutari oportet aut constitui, non debet
+hoc cito fieri aut leviter; nec arbitrio tantum duorum
+vel trium, sed convocatis fratribus sicut sanior
+pars canonicae congregationis decreverit ordinandum
+<pb n="0892D"/>
+est. Et sciendum quod auctoritas ecclesiastica
+in omnibus magis imitanda est quam ratio, quoniam
+auctoritas semper obedientiae et humilitatis est;
+ratio vero nonnunquam praesumptionis. Hoc autem
+servandum est in ordine ut semper maturitas ac
+gravitas teneatur. <hi>Nunquid levitate usus sum,</hi> ait
+Apostolus, <hi>ut apud me sit est et non? <note>(II Cor. I.)</note>
+          </hi> Honestum
+quippe est et religiosum non facile quidquam
+aut leviter variare.</p>
+<p> <hi>Carnem vestram domate jejuniis et abstinentia escae
+et potus, quantum valetudo permittit.</hi> </p>
+<p>Caro quidem concupiscit adversus spiritum, et
+spiritus adversus carnem; sed, ne caro possit praevalere,
+spirituales viri per virtutem spiritus eamdem
+concupiscentiam debent reprimere; quia,
+<pb n="0893A"/>
+quando caro domatur, spiritus roboratur. Sed cum
+adjungitur quantum valetudo permittit, virtus discretionis
+commendatur. Pereunt enim ipsa bona
+nisi cum discretione fiant. Tantum ergo debet quisquae
+carnem suam domare per abstinentiam, quantum
+valetudo permittit naturae. Qui carnem suam supra
+modum affligit, civem suum occidit. Si plus quam
+oportet alimentis reficit, hostem nutrit. Sic ergo nutrienda
+est ut serviat; sic domanda ut non superbiat.
+In omni abstinentia hoc semper attendendum
+est ut vitia exstinguantur, non caro.</p>
+<p> <hi>Quando autem aliquis non potest jejunare: non tamen
+extra horam prandii aliquid alimentorum sumat,
+nisi cum aegrotat.</hi> </p>
+<p>Primum vitium ex septem principalibus vitiis est
+<pb n="0893B"/>
+gula. Tentatio hujus vitii aliquando fit de parvis rebus
+et vilibus. Nam primus homo tentatus est non
+de porco, sed de pomo; Esau non de gallina, sed de
+lenticula. Ipse Salvator noster non de carne, sed de
+pane. Sunt autem hujus vitii tria genera. Unum
+genus est quando cibo vel potu quis immoderate utitur.
+Alterum genus est quando nimis delicatum cibum
+vel potum quis desiderat. Tertium genus quando extra
+horam cibum vel potum vult quis sumere. Extra
+horam credimus esse usque ad tertiam. Nam usque ad
+istam horam non decet fratrem comedere aut bibere
+nisi aegrotet. Aegrotanti omni hora licet. Infirmis
+enim non est lex posita. Non jejunantibus nec tamen
+infirmantibus rectam reficiendi intelligimus ab
+hora tertia usque ad sextam; jejunantibus vero ab
+<pb n="0893C"/>
+hora nona usque ad vesperam. Cum Apostolus praecipiat
+ut <hi>omnia honeste et secundum ordinem fiant <note>(I Cor. XIV)</note>
+          </hi>.
+Nec tantum cibo et potu temperate uti
+oportet; sed etiam horas constitutas observare, ne
+cui de vita nostra praebeamus offendiculum. Valde
+indecens est si nos reprehensibiliter vivimus, qui
+formam recte vivendi aliis demonstrare debemus.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IV. DE REFECTIONE UTRIUSQUE HOMINIS.</head>
+<p> <hi>Cum acceditis ad mensam, donec inde surgatis,
+quod vobis secundum consuetudinem legitur, sine
+tumultu et contentionibus audite, ne solae vobis fauces
+sumant cibum, sed et aures esuriant Dei verbum.</hi> </p>
+<p>
+          <pb n="0893D"/>Ille esuriunt Dei verbum qui desiderant audire.
+Multi sacram lectionem audiunt, qui tamen ab ipsa
+lectione vacui recedunt; nullum ubi affectum habent,
+nullum saporem sentiunt: quidquid audiunt
+facile amittunt. Judicium est illis audire quod audiunt.
+Quo contra scriptum est: <hi>Beati qui esuriunt
+et sitiunt justitiam, quoniam ipsi saturabuntur <note>(Matth.
+V)</note>
+          </hi>. Ideo saturabuntur quia prius esurierunt. Esuriendo
+enim homo dignus efficitur ut postmodum
+satietur. Primum ergo praeparare debemus cor nostrum
+ad esuriendum et desiderandum verbum Dei;
+aderit divina gratia quae nos intus perfundat et
+dulcedine atque sapore spirituale reficiat, et delectet
+nos cantare, quam dulcia faucibus meis eloquia tua,
+<pb n="0894A"/>
+Domine, super mel ori meo, et <hi>Bonum mihi lex oris
+tui super millia auri et argenti <note>(Psal. CXVIII)</note>
+          </hi>. Non
+solum debemus esse participes mensae corporalis sed
+spiritualis, nec tantum sumere cibum corporis sed
+animae. Et quanto melior est anima quam corpus,
+tanto amplius nos delectare debent alimenta animae
+quam corporis. Quoties nobis divina Scriptura legitur
+aut exponitur, cogitare debemus quia esca spiritualis
+est, quae a Deo nobis mittitur ad reficienda
+corda nostra ne deficiamus in via, et ad roborandos
+nos contra tentationes diaboli et pericula hujus
+saeculi. Talem cibum nos oportet incessanter esurire
+atque in mente jugiter retinere, ut possimus dicere
+cum Propheta: <hi>In corde meo abscondi eloquia tua
+ut non peccem tibi <note>(ibid.)</note>
+          </hi>. Qui in corde suo sacrum
+<pb n="0894B"/>
+eloquium abscondit, vitalis ei cibus animae est, qui
+a morte, id est a peccato defendit, et insuper ad vitam
+aeternam perducit. Jam quid de infirmis subjungat
+audiamus.</p>
+<p> <hi>Qui infirmi sunt ex pristina consuetudine si aliter
+tractantur in victu, non debet aliis molestum esse,
+nec injustum videri eis, quos aliqua consuetudo fecit
+esse fortiores.</hi> </p>
+<p>Ac si aperte dicat, fortiores non debent contristari
+si infirmos vident misericordius tractari; imo,
+quia fortiores sunt, in se debent abstinentiae servare
+rigorem, et aliorum imbecillitatem aequanimiter
+portare per compassionem.</p>
+<p> <hi>Nec illos ditiores putent, quia sumunt quod non
+<pb n="0894C"/>
+sumunt ipsi, sed sibi potius gratulentur, quia valent
+quod non valent illi.</hi> </p>
+<p>Melius est enim abstinere quam plus sumere.
+Nam illud est virtutis, hoc infirmitatis. Gratulari
+quisque sibi debet qui domo gratiae divinae tam sanus
+est et validus, ut possit sibi sufficere communis
+aliorum cibus et potus, qui nihil delicatum quaerit,<LACUNA>
+it superfluum. Quanto enim quisque minus appetit,
+quanto arctius vivit, tanto beatior existit. Arcta
+enim et angusta est via quae ducit ad vitam. Gaudeat
+igitur qui potest parce vivere propter Christum.
+Parca enim vita occidit vitia, libidinem exstinguit,
+virtutes nutrit, animum roborat, mentem ad coelestia
+sublevat.</LACUNA>
+        </p>
+<p> <hi>Et si eis qui venerunt ex moribus delicatioribus ad
+<pb n="0894D"/>
+monasterium aliquid alimentorum, vestimentorum,
+operimentorum datur, quod aliis fortioribus et ideo
+felicioribus non datur; cogitare debent quibus non
+datur, quantum de sua saeculari vita illi ad istam
+vitam descenderint, quamvis usque ad aliorum qui
+sunt corpore firmiores frugalitatem pervenire non potuerint.</hi> </p>
+<p>Quare haec debent cogitare? scilicet ut ex ratione
+cognoscant, quia justum est, ut hi qui plus descenderunt
+plus accipiant. Et cum hoc justum esse cognoverint,
+non velint omnes accipere quod paucos
+viderint accipere. Tolerandi enim sunt qui minus
+possunt. Et hoc est quod subjungit.</p>
+<p> <hi>Nec debent omnes velle quod paucos vident amplius,
+<pb n="0895A"/>
+non quia honorantur, sed quia tolerantur, accipere;
+ne contingat detestanda perversitas, ut in monasteriis,
+ubi quantum possunt fiunt divites laboriosi, fiant pauperes
+delicati.</hi> </p>
+<p>Valde quippe detestabile est, ut ibi fiat pauper
+delicatus, ubi fieri appetit dives laboriosus, id est
+abstinens. Quod tamen saepe videmus fieri in pluribus
+vel contingere. Multi enim quanto nobiliores et
+delicatiores fuerint in saeculo, tanto postmodum abjectius
+et districtius vivunt in monasterio. Et plerique
+quanto abjectores et pauperioris fuerunt,
+tanto plus deinde in monasterio extollentiam et
+delicationes quaerunt. Sed, sicut diximus, valde
+detestabile et perversum est, ibi pauperem delicias
+quaerere, ubi dives pro amore Dei abstinendo
+<pb n="0895B"/>
+nititur laborare. Ille servit ventri, iste spiritui; ille
+per latam et spatiosam viam tendit ad poenam,
+site per arctam et angustam viam tendit ad gloriam.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT V. DE INFIRMIS PROCURANDIS.</head>
+<p> <hi>Sane quemadmodum aegrotantes necesse habent minus
+accipere ne graventur, ita et post aegritudinem sic
+tractandi sunt ut citius recreentur, etiamsi de humillima
+saeculi paupertate venerint, tanquam hoc illis
+contulerit recentior aegritudo quod divitibus anterior
+consuetudo.</hi> </p>
+<p>Sed quaedam aegritudines sunt in quibus si cibus
+sumitur non juvat sed gravat, et tunc necesse habent
+<pb n="0895C"/>
+aegrotantes minus accipere ne graventur. Exposita
+autem aegritudine sic tractandi sunt ut citius recreentur.
+Et in hac recreatione fratrum non debet esse
+acceptio personarum, non debet contemni humillima
+paupertas in his quae postulat humana necessitas,
+cum hoc eis tribuat recens aegritudo, quod divitibus
+anterior consuetudo. Qui enim misericors est in
+alium, Deus misericors est in illum. Unde ipse ait: <hi>Beati misericordes, quoniam ipsi misericordiam consequentur <note>(Matth. V)</note>
+          </hi>.
+Beatus quoque Joannes dicit: <hi>Qui viderit fratrem suum necessitatem habere et clauserit
+ab eo viscera sua, quomodo charitas Dei manet in
+eo? 
+ <note>(I Joan. III.)</note>
+          </hi> Si ergo charitatem Dei volumus
+habere, debemus in fratribus nostris misericordiae
+opera exercere. Quod cum agimus, procul dubio ei
+<pb n="0895D"/>
+servimus qui electis suis dicturus est in judicio: <hi>Infirmus
+fui et visitastis me; esurivi et dedistis mihi
+manducare <note>(Matth. XXV)</note>
+          </hi>, etc., his similia. Quibus
+merces inde impenditur, cum dicitur: <hi>Percipite regnum
+quod vobis paratum est ab origine mundi <note>(ibid.)</note>
+          </hi>.
+Cum ergo fratribus nostris propter Deum servimus,
+ipsum regnum coelorum requirimus; et si opera sunt
+transitoria, merces tamen manet aeterna.</p>
+<p> <hi>Sed cum vires pristinas reparaverint, redeant ad
+feliciorem consuetudinem suam.</hi> </p>
+<p>Felix consuetudo est carnalia desideria quae militant
+adversus animam, abscindere, felix consuetudo
+est abstinere, felix consuetudo corpus suum
+castigare et in servitutem redigere.</p>
+<p>
+          <pb n="0896A"/> <hi>Quae famulos Dei tanto amplius decet, quanto minus
+indigent, ne cibi eos teneat voluptas jam vegetatos,
+quos necessitas levarat infirmos.</hi> </p>
+<p>Ad levandam infirmitatem necessarium est carnis
+curam agere, quae videlicet caro postquam vegetata
+fuerit, oportet eamdem curam carnis resecare, ne
+famulos Dei teneat cibi voluptas, ne serviant gulae
+qui debent animae deservire. Quanto ergo minus indigent,
+tanto amplius decet ne cibi eos voluptas
+teneat, ne gulae vitium animae virtutes tollat. Nullus
+palmam spiritualis certaminis apprehendit, qui non
+in semetipso prius per afflictam ventris concupiscentiam
+carnis incentiva devicerit. Neque enim ad
+conflictum spiritualis certaminis assurgitur, si non
+prius intra nosmetipsos hostis positus gulae videlicet
+<pb n="0896B"/>
+appetitus edomatur, quia si non prius ea quae nobis
+viciniora sunt, prosternimus, inaniter ad ea quae
+longe sunt impugnanda transimus. Multi ordinem
+certaminis ignorantes edomare gulam negligunt, et
+ad spiritualia bella consurgunt, qui etiam aliquando
+multum quae magnae fortitudinis sunt faciunt. Sed
+dominante gulae vitio per carnis illecebram omnia
+quae fortiter egerunt, perdunt, et dum venter non
+restringitur, per carnis concupiscentiam simul cunctae
+virtutes obruuntur. Hoc signat quod muros Hierusalem
+princeps cocorum destruxit, quia virtutes
+animae, dum non restringitur venter, perdit. Ex
+Aegypto populus adductus in eremo occubuit, quia
+despecto manna cibos carnium petiit. Primogenitorum
+<pb n="0896C"/>
+gloriam Esau amisit, quia magno astu desiderii
+vilem cibum, id est lenticulam, concupivit. Neque
+enim cibus, sed appetitus in vitio est. Unde et lautiores
+cibos plerumque sine culpa sumimus, et abjectiores
+non sine reatu conscientiae degustamus. Ea
+itaque sumenda sunt quae naturae necessitas quaerit,
+et non ea quae edendi libido suggerit.</p>
+<p> <hi>Illos aestiment ditiores qui in sustinenda parcitate
+fuerint fortiores.</hi> </p>
+<p>Ex fortitudine parcitatis deprimuntur vitia carnis,
+ex mortificatione vitiorum procedit pullulatio virtutum.
+Ipsae sunt verae divinae quibus ditantur animae
+continentium. Unde et subditur:</p>
+<p> <hi>Melius est minus egere quam plus habere.</hi> </p>
+<p>Melius est aliquid egestatis propter Dominum
+<pb n="0896D"/>
+sustinere., quam superabundare. Nam egestas quae
+propter Dominum est, generat humilitatem; quae est
+initium omnium honorum; abundantia vero parit
+superbiam, quae est initium omnium malorum. Servus
+ergo Dei ut voluntatem atque appetitum carnis
+possit reprimere, semper debet ad minus tendere ut
+ipsorum alimentorum et vestimentorum minus velit
+habere etiam quam necesse sit. Adjutorem quippe
+habemus internae intentionis hunc hominem quem
+exterius gestamus, et si ipsi insunt lasciviae, ipsi
+tamen affectus suppetunt operationis bonae. Unde
+necesse est ut interior homo noster aequus quidem
+arbiter praesideat inter se et eum quem exterius gestavit,
+quatenus ei homo suus exterior et semper ad
+<pb n="0897A"/>
+debitam ministerium servire sufficiat, et nunquam
+superbe libera cervice contradicat.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VI. DE HABITU EXTERIORI ET INTERIORI</head>
+<p> <hi>Non sit notabilis habitus vester, nec affectetis vestibus
+placere sed moribus.</hi> </p>
+<p>Fecit iste vir sanctus quod docuit: scriptum est
+enim quia vestimenta ejus et calceamenta nec nitida
+nimium, nec abjecta plurimum, sed ex moderato et
+competenti habitu erant. Ipse quoque de se legitur
+dixisse. Fateor quia de pretiosa veste erubesco. Non
+decet hanc professionem, nec decet hanc admonitionem;
+non decet haec membra, non decet hos canos.
+Hinc Dominus in Evangelio: <hi>Ecce qui mollibus
+<pb n="0897B"/>
+vestiuntur in domibus regum sunt <note>(Matth. XI)</note>
+          </hi>. Mollia
+dicuntur vestimenta eo quod mollem efficiunt animum.
+Mollibus vestimentis regia delectatur domus,
+asperis et humilibus Christi delectatur Ecclesia. Talia
+debent esse vestimenta clericorum, in quibus nihil
+notari possit novitatis, nihil quod pertineat ad
+superbiam et inanem gloriam. Non tenera vestis
+sacerdotem, sed munditia mentis ornat clericum.
+Ornemus ergo nos spiritualibus ornamentis scilicet
+castitate, humilitate, mansuetudine, obedientia,
+patientia, charitate. Haec sunt indumenta, quibus
+anima potest coelesti imperatori placere, non enim
+exteriorem sed interiorem pulchritudinem requirit
+invisibilis sponsus. Sicut scriptum est: <hi>Omnis gloria
+ejus filiae regis ab intus <note>(Psal. XLIV)</note>
+          </hi>. Nostrae ergo divitiae,
+<pb n="0897C"/>
+nostra pulchritudo boni mores sunt. Et beata
+illa anima cui dicitur in Cantico canticorum: <hi>Quam
+pulchra es, amica mea, et macula non est in te! <note>(Cant. IV.)</note>
+          </hi> 
+ Studeamus ergo invisibili Domino placere
+non vestibus sed moribus, ut impleatur in nobis
+quod per Apostolum praecipitur: <hi>Nolite conformari
+huic saeculo, sed reformamini in novitate
+sensus vestri <note>(Rom. XII)</note>
+          </hi>. Etsi enim exterior <hi>noster
+homo</hi> corrumpitur, interior <hi>tamen renovatur de die
+in diem <note>(II Cor. IV)</note>
+          </hi>. Deinde subjungit de incessu,
+statu et caeteris motibus, dicens:</p>
+<p> <hi>Quando procedetis simul ambulate, cum veneritis
+quo itis simul state. In incessu, statu et omnibus motibus
+vestris nihil fiat quod cujusquam offendat
+aspectum, sed quod vestram deceat sanctitatem.</hi> </p>
+<p>
+          <pb n="0897D"/>Sancta ergo perfectorum Ecclesia non solum floret
+honore religionis, sed etiam honestatis decore
+pollet, sicut scriptum est: <hi>Flores mei fructus honoris
+et honestatis <note>(Eccl. XXIV)</note>
+          </hi>; religiosum quippe et
+honestum est, ut sicut simul habitant fratres; ita
+quoque simul ambulent et simul stent. Et Apostolus
+praecepit ut <hi>omnia honestate et secundum ordinem
+fiant <note>(I Cor. XIV)</note>
+          </hi>. Potest quoque in hac corporali
+conjunctione aliquid spirituale intelligi. Sanctorum
+quoque societas terribilis ut castrorum acies ordinata
+describitur. Castrorum namque acies cum ad
+bellum se praeparat, prius se conjungere atque ordinare
+festinat, ne ab hostibus interrumpi aut penetrari
+valeat. Sic nimirum nostra spiritualis acies
+<pb n="0898A"/>
+quae bene conjuncta et ordinata simul stare, simul
+ambulare praecipitur, contra diabolum quotidie munitur
+ad bellum, ut videlicet ex sua conjunctione
+terreat antiquum hostem, qui in servis Dei nihil
+tam timet quam concordiae unitatem. Sed valde notandum
+est quod dicitur</p>
+<p> <hi>In omnibus motibus vestris nihil fiat quod cujusquam
+offendat aspectum, sed quod vestram deceat
+sanctitatem,</hi> </p>
+<p>Sic vivere debent canonici ut a nemine juste valeant
+reprehendi. Valde enim incongruum est, ut
+ipsi reprehensibiliter vivant; quorum ordo exigit ut
+caeteris formam sanctitatis ostendant. Nam ad eos
+haec sententia pertinet, qua dicitur: <hi>Estote sancti
+sicut et ego sanctus sum,</hi> dicit Dominus <note>(Lev. XIX.)</note> 
+<pb n="0898B"/>
+Vere sancti esse debemus qui nomen et habitum
+religionis et sanctitatis suscepimus, qui divino cultui
+sumus mancipati, sacrisque altaribus Christi
+consecrati, et divinis mysteriis ordinati. Ergo <hi>sic
+nos existimet homo ut ministros Christi et dispensatores
+ministeriorum Dei <note>(I Cor. IV)</note>
+          </hi>. Non praecipit
+Apostolus tamen <hi>ut ita simus, sed sic nos existimet,</hi> 
+inquit, <hi>homo. Non enim sufficit nobis vita sancta,
+nisi sit et fama bona.</hi> Nam vita bona nobis necessaria,
+propter nos, fama vero bona propter alios.
+Unde rursus ait Apostolus: <hi>Oportet nos ab his, qui
+foris sunt habere bonum testimonium <note>(I Tim. III)</note>
+          </hi>.
+Sic ergo debemus vivere ut vita concordet cum nomine,
+et professio teneatur in opere, ut si sanctus
+est ordo, sancta sit conversatio, et sicut bene de
+<pb n="0898C"/>
+nobis dicitur, testimonio bonae actionis comprobetur.
+Tunc enim religiose vivimus, si illicitos motus
+sub disciplina coercemus, si membra et sensus nostros
+studeamus restringere, ut non possint lasciviae
+et levitati deservire, ut aspectus noster sit simplex
+et humilis, ne fixe aspiciat oculus quod illicite concupiscat
+animus, ut noster auditus sit purus et discretus,
+ea quae superflua sunt et vana respuens,
+ea quae Dei sunt gratanter suscipiens, ut sermo noster
+sit sale conditus, otiosa et nocua detestans,
+bona et vilia commendans, ut sit in corde munditia,
+in vultu pudicitia, in incessu gravitas, status
+cum reverentia, motus cum maturitate, habitus
+cum religione, quatenus ubique resplendeat sanctitas,
+superemineat honestas, servetur humilitas, in
+<pb n="0898D"/>
+omnibus motibus vestris nihil fiat quod cujusquam
+offendat aspectum, sed quod vestram deceat sanctitatem.</p>
+<p> <hi>Oculi vestri, etsi jaciantur in aliquam feminarum,
+in nulla figantur. Neque enim quando proceditis feminas
+videre prohibemini, sed appetere vel ab ipsis
+appeti velle criminosum est.</hi> </p>
+<p>Unde Dominus in Evangelio: <hi>Qui viderit mulierem
+ad concupiscendum eam, jam maechatus est in
+corde sua <note>(Matth. V)</note>
+          </hi>. Et quia per illicitum visum
+concupiscentia oritur per quam integritas mentis
+violatur, necesse est ut semper servus Dei visum
+suum reprimat, ne per concupiscentiam et per immunditiam
+cordis Deum offendat. Sanctus David
+<pb n="0899A"/>
+quia oculos in feminam jecit et fixit, illicito appetitu
+devictus adulterium et homicidium perpetravit.
+Si ergo tantus vir per incuriam oculorum cecidit,
+nos qui longe ab ejus sanctitate distamus, tam mortale
+praecipitium summopere timere debemus. Teneamus
+ergo sententiam beati Job qua dicitur: <hi>Pepigi foedus cum oculis meis ut non cogitarem de
+virgine 
+ <note>(Job. XXXI)</note>
+          </hi>. Quia enim sensit sanctus vir
+quod per exteriorem visum interior animus corrumpitur,
+fecit pactum cum oculis suis ne incaute
+aspicerent quod illicite concupisceret. Non enim
+profecto vitium vincitur, nisi sollicite causa et opportunitas
+vitii caveatur. Hinc est quod Lot a Sodomis
+fugienti praecipitur ut non retrospiciat, neque
+remaneat in omni circa regione, sed in monte salvum
+<pb n="0899B"/>
+se faciat. Quisquis enim perfecte appetit incentiva
+vitiorum fugere, ab aspectu et vicinitate ipsorum
+se debet alienum facere, atque ad alta virtutum
+conscendere, ut tanto a vitiis remaneat extraneus,
+quanto ab eis virtute et corpore elongatur. Et
+quod visus sit causa concupiscentiae ostenditur cum
+subditur.</p>
+<p> <hi>Non solum tacito affectu, sed affectu et aspectu
+quoque appetitur et appetit concupiscentia feminarum.</hi> </p>
+<p>Ac si aperte dicat: Non solum tacita voluntate
+intus concupiscentia oritur, sed etiam per exteriorem
+aspectum generatur. Nisi enim sanctus David
+feminam fixe inspexisset, in tantam carnis tentationem
+<pb n="0899C"/>
+minime incidisset. Hinc per prophetam dicitur: <hi>Ascendit mors per fenestras</hi> 
+ nostras <note>(Jer. IX)</note>.
+Mors animae est concupiscentia, domus interior mens
+nostra est, fenestrae hujus domus sunt quinque corporis
+sensus. Mors ergo per fenestram ascendit
+atque domos ingreditur, quando concupiscentiae
+vitium per sensus prorumpit ad interiora mentis.
+Quapropter ne vitalis sensus per exteriorem appetitum
+intus intereat, opus est ut fenestras domus nostrae
+tanta diligentia custodiamus, ut ipsum appetitum
+tanto facilius possimus compescere quanto nullum
+vitiis permittimus ingressum patere. Valde
+enim timenda est sententia quae subditur.</p>
+<p> <hi>Nec dicatis vos habere animos pudicos si habeatis
+oculos impudicos, quia impudicus oculus impudici
+<pb n="0899D"/>
+cordis est nuntius.</hi> </p>
+<p>Saepe enim quae intus lateant exteriora membra
+denuntiant, et frequenter per habitum corporis cognoscitur
+habitus mentis. Minor est autem culpa
+dum jacet in occulto, sed jam major efficitur dum
+incipit apparere in publico.</p>
+<p>Et sciendum quia impudicitia alia est carnalis,
+alia spiritualis. Spiritualis est quae per delectationem
+cogitationum intus tantum agitur. Carnalis vero
+est quae corporaliter completur. Fit autem multis modis.
+Nam, modo per visum, modo per auditum, modo
+per tactum, modo per cogitationem, modo per locutionem,
+modo per operationem talibus fomentis
+nutritur et exercetur libido, et separatur anima a
+<pb n="0900A"/>
+Deo, fugitque castitas de moribus, exercetur in
+mentibus luxuria. Unde et subditur:</p>
+<p> <hi>Et cum se invicem sibimet etiam tacente lingua
+conspectu mutuo corda nuntiant impudica, et secundum
+concupiscentiam carnis alterutro delectantur
+ardore, etiam intactis ab immunda violatione corporibus,
+fugit ipsa castitas de moribus.</hi> </p>
+<p>Castitas quippe de moribus fugit, dum libidinosa
+voluntas conspectibus mutuis magis magisque inardescit.
+Etsi corpus ab immunda violatione non tangitur,
+ipsa tamen immunda violatio, visu, affectu,
+cogitatione, delectatione perpetratur, ipsisque fomentis
+quasi quibusdam gradibus crescit peccatum.
+Cogitatio parva delectationem parit, delectatio consensum,
+consensus operationem, operatio consuetudinem,
+<pb n="0900B"/>
+consuetudo necessitatem. Apostolus enim <hi>legem peccati</hi> 
+ dicit <hi>esse in membris <note>(Rom. VII)</note>
+          </hi>, quae
+lex consuetudo est, quam peccando concipimus, et
+ab ea cum volumus non discedimus, quia necessitatis
+vinculo per consuetudinem retinemur. Bonum
+est ergo culpam corrigere cum incipit apparere,
+quia si morari coeperit, immanitatem sceleris facit,
+et quid dicit Psalmista de hujusmodi? <hi>Prolongaverunt
+iniquitatem suam; Dominus justus concidet cer
+vices peccatorum <note>(Psal. CXXVIII)</note>
+          </hi>.</p>
+<p> <hi>Nec putare debet, qui in feminam figit oculum et
+illius in se diligit fixum, ab aliis se non videri cum hoc
+facit, videtur omnino et a quibus se videri non arbitratur.</hi> </p>
+<p>Hoc videmus frequenter de his qui culpas suas
+<pb n="0900C"/>
+volunt abscondere, quod dum vitia quasi caute et
+latenter agere existimant, ipsi seipsos dum nesciunt
+demonstrant, et culpa quae occulta esse creditur, ab
+aliis manifeste cognoscitur.</p>
+<p> <hi>Sed ecce lateat et a nemine hominum videatur, quid
+faciet de illo desuper inspectore, quem latere nihil
+potest? An ideo putandus est non videre, quia tanto
+videt patientius quanto sapientius?</hi> </p>
+<p>In cunctis ergo quae vel agendo vel loquendo vel
+cogitando delinquimus, aspectum superni judicis
+vehementer formidare debemus, quia, si aliquando
+non apparent hominibus vitia nostra, illius tamen
+oculis nuda sunt omnia et aperta. Et hoc nos a
+culpa reprimere debet quia in ejus judicio nihil
+<pb n="0900D"/>
+inultum poterit remanere. Contra vitiorum incentiva
+debemus opponere inferni tormenta, et contra transitoriam
+delectationem perpetui ignis dolorem.
+Valde stultus est qui pro eo quod parvo tempore
+luxuriae deservit, suumque miserum desiderium parvis
+delectationibus pascit, et coelestem perdit amoenitatem
+et incurrit aeternam damnationem.</p>
+<p> <hi>Ille ergo vir sanctus timeat displicere, ne velit feminae
+malae placere. Illum cogitet omnia videre, ne velit
+feminae male videri. Illius namque et in hac causa
+commendatus est timor ubi scriptum est. Abominatio
+est domino defigens oculum.</hi> </p>
+<p>Ex quibus verbis patet, quia si oculum in feminam
+figimus, Deo nostro, cui placere debuimus, abominabiles
+sumus. Et a quo debuimus recipere gloriam,
+<pb n="0901A"/>
+recipiemus poenam. Quapropter necesse est
+ut si a nostris vitiis divinus non separat amor, vel
+reprimat timor, etsi nos non delectant superna
+gaudia, vel terreant aeterna supplicia. Sic homo recedere
+a peccato incipit, si timeat displicere auctori
+suo.</p>
+<p>Si dicit aliquis: Quomodo timebo Deum? Si vis
+Deum timere, illum cogita omnia videre. Titillat te
+mala conscientia, cogita quia Deus videt te. Quidquid
+in te malum fuerit, pensa quia Deus totum
+conspicit. Quidquid egerimus, aut dixerimus, aut
+mente tractaverimus, semper attendamus super nos
+oculos Dei, semper timeamus displicere illi. Haec est
+via justitiae, haec sunt primordia sapientiae, sicut
+scriptum est: <hi>Initium sapientiae timor Domini <note>(Eccli. I)</note>
+          </hi>.
+<pb n="0901B"/>
+Sequitur: Quando ergo simul estis in ecclesia vel
+ubicunque ubi feminae sunt, invicem pudicitiam
+vestram custodite.</p>
+<p>Magna est pudicitiae virtus et multum commendata
+in Scripturis divinis. Haec virtus coelestis et
+spiritualis est. Nam hominem a terra sublevat, angelis
+sociat, Deo conjungit, de terreno coelestem, de
+carnali spiritualem facit. Haec virtus etiam humanam
+naturam transcendit. Nam quod homo pudicus est,
+quod castus, non tam virtus humana facit quam
+divina. Per hanc nos amat invisibilis sponsus. Non
+enim placet Deo anima si non est casta, si non est
+pudica. Nam si immunditiae et luxuriae deservit,
+abominabilis est ei et reproba. Pudicitiae virtus acceptabilis
+est Deo et hominibus. Hanc nobis invidet,
+<pb n="0901C"/>
+hanc impugnare non cessat antiquus humani generis
+hostis. Ipse enim est persuasor immunditiae et
+luxuriae, plures corrumpit, non parcit clericis, non
+indulget monachis, et quod magis gemendum est,
+ipsos etiam religiosos prosternit.</p>
+<p>Necesse est ergo summa vigilantia invicem nostram
+pudicitiam custodire. Nam, si eam perdimus,
+totuin perdimus, etiam nosmetipsos. Qui perdit
+pudicitiam perdit animam, perdit Deum, perdit et
+semetipsum. Sed ad hoc in unum habitamus, ut nos
+invicem custodiamus, invicem corrigamus, invicem
+erudiamur, ut quod quisque non potest per seipsum,
+possit per alium. Et quia nostra custodia non a
+nobis est, sed a Deo, bene subditur.</p>
+<p>
+          <pb n="0901D"/> <hi>Deus enim, qui habitat in vobis, etiam isto modo
+custodiet vos ex vobis.</hi> </p>
+<p>Non enim sufficiens est nobis custodia nostra nisi
+etiam adsit divina. Unde scriptum est: <hi>Nisi Dominus
+custodierit <note>(Psal. CXXVI)</note>
+          </hi>, etc. Nemo est qui pudicitiam
+possit custodire, aut in seipso, aut in alio, nisi
+per Deum. Sed si ipse habitaverit in nobis, poterimus
+per ipsum, quod non valemus per nos. Sic ergo
+studeamus vivere, ut nos in ipso et ipse in nobis
+dignetur habitare, ut justi et casti possimus esse per
+ipsum, quae vivit et regnat Deus per omnia saecula
+saeculorum. Amen.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VII. DE CORRECTIONE FRATRUM.</head>
+<p> <hi>Etsi hanc de qua loquor oculi petulantiam in aliquo
+<pb n="0902A"/>
+vestrum adverteritis, statim admonete ne coepta
+progrediantur, sed de proximo corrigantur. Si autem
+et post admonitionem iterum vel alio quocunque die
+idipsum eum facere videritis, jam velut vulneratum
+sanandum prodat, quicunque hoc potuerit invenire.
+Prius tamen est alteri vel tertio demonstrandum, ut
+duorum vel trium possit ore convinci; et competenti
+severitate coerceri.</hi> </p>
+<p>Haec sententia verbis apostolicis concordat et
+evangelicis. Ait enim beatus Paulus: <hi>Si fuerit
+homo praeoccupatus in aliquo delicto, vos qui spirituales
+estis, instruite hujusmodi in spiritu lenitatis <note>(Gal. VI)</note>
+          </hi>.
+Et Dominus in Evangelio: <hi>Si peccaverit in
+te frater tuus, corripe eum inter te et ipsum solum, si
+te audierit lucratus es fratrem tuum. Si te non audierit,
+<pb n="0902B"/>
+adhibe tibi duos vel tres, ut in ore duorum vel trium
+stet omne verbum <note>(Matth. XVIII)</note>
+          </hi>, Summa quidem diligentia
+investiganda et corrigenda est culpa. Nam, si
+eam non emendamus in hoc saeculo, damnabimur in
+futuro. Unde Apostolus: <hi>Horrendum est incidere in
+manus Dei viventis <note>(Hebr. X)</note>
+          </hi>. Melius est ergo hic
+emendare vitam quam tunc perire. Qui amat corripi
+sapiens est. Unde scriptum est: <hi>Corripe sapientem
+et amabit te. Stultus autem si corripitur irascitur.</hi> 
+Sed quid dicit Apostolus ad discipulum? <hi>Insta,</hi> 
+inquit, <hi>opportune, importune <note>(II Tim. IV)</note>
+          </hi>. <hi>Opportune</hi> 
+dicebat propter eos qui libenter audiebant verbum
+praedicationis. <hi>Importune</hi> propter eos qui inviti audiebant.
+Similiter eos qui culpas redarguunt, quandoque
+oportet esse importunos, sed ista importunitas
+<pb n="0902C"/>
+non est ex ira, sed ex charitate, et saepe is qui conturbatur
+quia corripitur, cum cogitare coeperit,
+quanto eum amore frater suus reprehenderit, gaudet
+de reprehensione, et quod deliquit studet emendare.</p>
+<p> <hi>Nec vos judicetis esse malevolos quando hoc indicatis.
+Magis quippe innocentes non estis, si fratres
+vestros quod indicando corrigere potestis, tacendo
+perire permittitis. Si enim frater tuus vulnus habet in
+corpore quod velit occultari, cum timet secari, nonne
+crudeliter abs te sileretur, et misericorditer indicaretur?
+Quanto ergo potius debes manifestare, ne deterius
+putrescat in corde</hi> </p>
+<p>Si crudelis est qui vulnus in corpore fratris celat,
+multo magis crudelis est, qui peccati vulnus in anima
+<pb n="0902D"/>
+fratris non indicat, et reus mortis illius existit,
+quem tacendo perire permittit. Sicut enim ille ex
+opere, ita iste damnatur ex taciturnitate. Quia si is
+crudelis est qui culpam non detegit, econtra ille
+misericors est qui eam non abscondit. Nec majorem
+potest erga miserum misericordiam agere, quam
+pereunti vitam praestare. Magna quoque illi merces
+debetur ab Omnipotente a quo dictum est: <hi>Beati misericordes
+quoniam ipsi misericordiam consequentur <note>(Matth. V)</note>
+          </hi>.
+Et Jacobus ait: <hi>Qui converti fecerit peccatorem
+ab errore viae suae, salvabit animam ejus a
+morte, et operiet multitudinem peccatorum <note>(Jacob. V)</note>
+          </hi>.
+Quo autem ordine culpa debeat demonstrari, ostendit
+cum subjungit:</p>
+<p> <hi>Sed, antequam aliis demonstretur per quos convincendus
+<pb n="0903A"/>
+est si negaverit, prius praeposito debet ostendi
+si admonitus neglexerit corrigi, ne forte possit secretius
+correctus non innotescere caeteris.</hi> </p>
+<p>Culpa cum occulte committitur, ab aliis fratribus,
+qui ejus culpae conscii sunt, hic qui deliquit frater
+secreto debet corrigi; quos si neglexerit audire,
+patri monasterii debet indicari, ut et ipse fratrem
+secreto corrigat, quatenus culpa, quae adhuc latens
+est, si forte secretius corrigi potuerit, non omnibus
+innotescat. Si autem negaverit tunc testes adhibeantur,
+ut convictus districtius judicetur. Et hoc
+est quod subditur.</p>
+<p> <hi>Si autem negaverit, tunc neganti adhibendi sunt alii
+etiam coram omnibus, ut possit non ab uno teste
+argui, sed a duobus vel tribus convinci. Convictus vero
+<pb n="0903B"/>
+secundum arbitrium praepositi vel etiam presbyteri ad
+cujus dispensationem pertinet arbitrium, debet emendatoriam
+subire vindictam.</hi> </p>
+<p>Qui blande castigatus non corrigitur, necesse est
+ut acrius corrigatur. Cum dolore enim abscindenda
+sunt quae leniter sanari non possunt. Qui autem admonitus
+secreto de peccato corrigi negligit, publice
+arguendus est, ut vulnus, quod occulte sanari nescit
+manifeste valeat emendari. Manifesta autem peccata
+non sunt occulta ratione purganda. Palam enim arguendi
+sunt qui palam peccant, ut dum sanantur
+aperta objurgatione, ii qui eos imitando deliquerunt
+corrigantur. Hic ergo qui secreto corrigi noluit,
+publice convictus debet emendatoriam subire vindictam.</p>
+<p>
+          <pb n="0903C"/> <hi>Quam si ferre recusaverit, etiam si inde non abscesserit,
+de vestra societate projiciatur. Non enim et
+hoc fit crudeliter sed misericorditer, ne contagione
+pestifera plurimos perdat.</hi> </p>
+<p>Melius est enim, ut pro multorum salvatione condemnetur
+unus, quam per unius exemplum plurimi
+periclitentur. Hinc Dominus ait in Evangelio: <hi>Si
+oculus tuus scandalizaverit te, erue eum et projice abs
+te. Expedit enim tibi ut unum membrorum tuorum
+pereat, quam totum corpus tuum mittatur in gehennam.
+Et si dextera manus tua scandalizaverit te, abscinde
+eam et projice abs te <note>(Matth. V)</note>
+          </hi>. Per dextrum
+oculum aut dextram manum possumus intelligere
+aliquem nostrum necessarium amicum. Qui providet
+<pb n="0903D"/>
+in causis, oculus noster est; qui ministrat in necessariis,
+manus nostra est; qui si etiam providet in
+spiritualibus, noster dexter oculus est aut dextra
+manus. Talis et tam necessarius si caeteros in Dei
+servitio scandalizaverit, de corpore, id est de societate
+est abscindendus. Melius est enim unius solatium
+perdere quam per unum totum corpus perire.</p>
+<p> <hi>Et hoc quod dixi de oculo non figendo, etiam in caeteris
+inveniendis, prohibendis, indicandis, convincendis,
+judicandisque peccatis diligenter et fideliter observetur
+cum dilectione hominum et odio vitiorum.</hi> </p>
+<p>Hinc idem beatus doctor alibi dicit: Sic diligendi
+sunt homines ut non diligantur eorum errores.
+Aliud est enim amasse quod facti sunt, aliud vero
+<pb n="0904A"/>
+odisse quod faciunt. Sunt nonnulli qui aliorum
+redarguunt culpas non tam ex charitate quam ex
+odii amaritudine, non tam ut eos corrigi velint,
+quam ut odium quod in corde gestant exercere
+valeant. Et hoc non est secundum Deum. Magis aut
+ad vindictam pertinet quam ad disciplinam. Caveant
+ergo ut neminem cum ira et indignatione, sed potius
+cum dulcedine et charitate redarguant. Et si aliquando
+culpa exigente sonat in voce asperitas, semper
+tamen maneat in mente lenitas. Juxta quod
+Apostolus praecipit dicens: <hi>Vos, qui spirituales estis,
+instruite hujusmodi in spiritu lenitatis <note>(Galat. VI)</note>
+          </hi>.
+Bene autem subjungit: <hi>Considerans temetipsum, ne
+et tu tenteris <note>(ibid.)</note>
+          </hi>. Attende enim teipsum qui alium
+reprehendis, quia peccator existis et fragilis, ne graviter
+<pb n="0904B"/>
+tenteris si quem reprehendere conaris indignando
+potius quam compatiendo. Fiat ergo cum
+dilectione hominum et odio vitiorum, ita ut amor
+servetur in corde erga hominem, et odium adversus
+vitium, quia districtio debetur vitiis, compassio
+vero naturae. Sequitur:</p>
+<p> <hi>Quicunque autem in tantum progressus fuerit malum,
+ut occulte litteras ab aliquo vel quodlibet munus
+accipiat, si hoc ultro confitetur, parcatur illi et oretur
+pro illo.</hi> </p>
+<p>Ideo progressum esse in malum magnum dicit
+fratrem qui occulte aliquid recipit, quia aliquid occultare,
+est ordinem infringere. Magnum malum
+incurrit qui ordinis sui praevaricator existit. Nisi propheta
+<pb n="0904C"/>
+sanctus magnum malum esse sciret quod Giezi
+discipulus suus a Naaman Syro munus occultum accepisset <note>(IV. Reg. V)</note>,
+nequaquam eum tam terribiliter
+passione leprae percuteret. Exemplo itaque suo nos
+docuit gravi correctione dignum esse qui committeret
+simile peccatum. Tamen, si hoc ultro confitetur,
+parcendum est ei et orandum pro eo. Nam
+culpa levior efficitur quae confessione voluntaria
+humiliter aperitur. Unde David dicit: <hi>Dixi: Confitebor,
+et tu remisisti iniquitatem peccati mei <note>(Psal.
+XXXI)</note>
+          </hi>.</p>
+<p> <hi>Si autem deprehenditur et convincitur, secundum
+arbitrium presbyteri vel praepositi gravius emendetur.</hi> </p>
+<p>Quia si gravior est culpa, gravior competit disciplina.
+<pb n="0904D"/>
+Graviter quippe et mortaliter offendit, qui malum
+quod agit etiam abscondit. De occultis litteris et munusculis
+beatus Hieronymus ita scribit: <hi>Occultas,</hi> inquit, <hi>litteras et sudariola et crebra munuscula sanctus
+amor non habet. Quisquis talibus delectatur, magna
+vanitate seducitur. Et quo plus delectatur infimis, eo
+amplius ejicitur a supernis.</hi> 
+ Ex hujusmodi autem
+mala gravia solent generari. Sed qui perfecte vitia
+cavere desiderat, non solum studet ut ea quae per
+se mala sunt caveat, sed etiam illa refugit, unde
+etiam vel prava actio, vel mala opinio procedere
+possit. Nos vero quos oportet bene vivere et bonum
+exemplum aliis demonstrare, non convenit talia
+agere, unde quis possit vel malam suspicionem
+habere.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VIII. DE CUSTODIA RERUM COMMUNIUM.</head>
+
+<pb n="0905A"/>
+<p> <hi>Vestes vestras in unum habeatis sub uno custode
+vel duobus, vel quot sufficere possint ad eas excutiendas
+ne a tinea laedantur. Et sicut pascimini ex uno
+cellario, sic induamini ex uno vestiario.</hi> </p>
+<p>Quia vestes praecipit reponi sub uno custode vel
+pluribus, duae videntur causae. Prima videlicet, ne
+per incuriam neglectae a tineis corrumpantur. Secunda,
+ne frater hanc ipsam vestem quam habet, in
+propriam se habere crederet, si in proprio loco sibi
+reponere liceret. Huic autem sententiae videntur
+verba concordare, quae sequuntur, ait enim:</p>
+<p> <hi>Et si fieri potest ad vos non pertineat, quod vobis
+indumentum pro temporum congruentia proferatur;
+<pb n="0905B"/>
+utrum hoc recipiat unusquisque, quod deposuerat, an
+aliud, quod alter habuerat; dum tamen unicuique
+prout cuique opus est non negetur.</hi> </p>
+<p>Ideo ait si fieri potest, ut si cui videatur difficile,
+liceat ipsum, quod deposuerat vestimentum suscipere.
+Ad majorem enim perfectionem pertineret si
+ad tantum contemptum sui quis pervenisset, ut eo
+solummodo, quod opus est corpori contentus esset,
+juxta quod ait Apostolus: <hi>Habentes victum et vestitum,
+his contenti esse debemus <note>(I Tim. VI)</note>
+          </hi>. Non determinat
+quantum vel quale, sed tantum ea notat quae
+sufficiant naturae. Nam in imperfectis plus semper
+voluptas appetit, quam necessitas. Sicut autem ait
+beatus Augustinus, <hi>Humana natura modico contenta
+est, sed consuetudo multa addidit: voluntas atque
+<pb n="0905C"/>
+voluptas plura copulavit.</hi> Si quis Deum perfecte diligeret,
+si carnalibus desideriis omnino renuntiaret,
+multa resecaret superflua, quae modo tenet quasi
+necessaria. Discamus ergo Deum toto corde diligere,
+quatenus per ipsius amorem studeamus, et contenti
+esse necessariis, et superflua resecare, ut dum quod
+opus est unicuique non negatur, ultra quod opus est
+a nemine requiratur. Charitas non quaerit quae sua
+sunt; charitas communia anteponit; charitas facit
+esse abjectum in domo Dei. Hanc si quisquam perfecte
+possedit, etiam ex eo quod opus erit, sibimetipsi
+resecabit.</p>
+<p> <hi>Si autem hinc inter vos contentiones, et murmura
+oriuntur, cum quaeritur aliquis se deterius accepisse
+quam prius habuerat, et indignum se esse qui non ita
+<pb n="0905D"/>
+vestiatur sicut alius frater ejus vestiebatur; hinc vos
+probate quantum vobis desit in illo interiore sancto
+habitu cordis, qui pro habitu corporis litigatis.</hi> </p>
+<p>Habitus cordis vestri sanctificatur per gratiam
+Dei; per inhabitationem Spiritus sancti, quando
+inest pax, charitas, bonitas, humilitas, patientia,
+concordia, mansuetudo, et alia hujusmodi. Haec sunt
+nostrae interiores divitiae, scilicet boni mores et virtutes.
+Sed si incipimus inter nos contendere, murmurare
+et litigare, statim ab his spiritualibus bonis
+vacui remanemus. Virtutes enim cum vitiis remanere
+non possunt. Nam <hi>fermentum modicum totam
+massam corrumpit <note>(I Cor. V)</note>
+          </hi>. Hinc se debet quisque
+probare, et sollicite pensare quantum illi intus desit,
+<pb n="0906A"/>
+et quam magnum damnum incurrit, qui pro rebus
+transeuntibus, hoc unde debet esse beatus,
+perdit. Valde ergo nobis cavendae sunt lites et contentiones,
+quia haec sunt opera carnis; et sicut ait
+Apostolus, <hi>Qui talia agunt regnum Dei non consequuntur <note>(Galat. V)</note>
+          </hi>.
+Ideo nos admonet in alio dicens: <hi>Nihil per contentionem aut inanem gloriam; superiores
+sibi invicem arbitrantes, non ea quae sua sunt singuli
+cogitantes, sed ea quae sunt alterius 
+ <note>(Philipp. II)</note>
+          </hi>.
+Plurimum enim valent haec duo ad removendas lites,
+et generandam concordiam, cum quis se inferiorem
+omnibus judicat, et ea quae sunt alterius, magis
+quam sua propria pensat. In his enim duobus humilitas
+et charitas commendatur; quae non solum non
+discordare solent, sed etiam discordantes ad concordiam
+<pb n="0906B"/>
+reducere. Et quia haec quae dicta sunt ad perfectiores
+pertinent, propter minus perfectos temperat
+sententiam cum subjungit:</p>
+<p> <hi>Tamen si vestra toleratur infirmitas, ut hoc recipiatis,
+quod deposueritis, in unum tamen locum sub
+communibus custodibus habete, quod ponitis.</hi> </p>
+<p>Ut videlicet dum in communi loco reponitur hoc
+ipsum, quod in proprium usum suscipitur, non proprium
+esse, sed commune credamus.</p>
+<p> <hi>Ita sane, ut nullus sibi aliquid operetur, sed omnia
+opera vestra in unum fiant majori studio, et frequentiori
+alacritate, quam si vobis singulis faceretis propria.</hi> </p>
+<p>Et inde apostolicam sententiam apponit, et exponit
+dicens:</p>
+<p> <hi>Charitas enim, de qua scriptum est: Quod  « non
+<pb n="0906C"/>
+quaerit quae sua sunt, »  sic intelligitur, quia communia
+propriis, non propria communibus anteponit.</hi> </p>
+<p>Haec est causa quare nullus sibi operetur, sed in
+communi fiant majori studio, et frequentiori alacritate,
+quam si essent propria. Haec causa, inquam,
+quia <hi>charitas non quaerit quae sua sunt, sed communia
+propriis anteponit.</hi> Si charitas Christi non quaerit
+quae sua sunt, nullus nostrum debet operari sibi
+Et si Christi charitas communia propriis anteponit,
+ergo majori studio et frequentiori alacritate debemus
+agere communia quam si essent propria. Major est
+enim fructus charitatis quam proprietatis. Nam <hi>quod oculus non vidit nec auris audivit, hoc praeparavit
+Deus diligentibus se 
+ <note>(I Cor. II)</note>
+          </hi>.</p>
+<p> <hi>Et ideo quanto amplius rem communem quam propria
+<pb n="0906D"/>
+vestra curaveritis, tanto amplius vos proficere noveritis,
+ut in omnibus quibus utitur transitura necessitas
+superemineat, quae permanet, charitas.</hi> </p>
+<p>Transitura quippe necessitas utitur temporalibus
+rebus, temporalibus studiis, in quibus debet semper
+charitas eminere, quia nullus potest placere
+Deo sine charitate. In cunctis ergo quae agimus necesse
+est ut semper emineat charitas, quia ipsa est
+mater virtutum, ipsa est radix omnium bonorum.
+Haec est via sublimior qua tenditur ad coelum, de
+qua Paulus apostolus ait: <hi>Adhuc excellentiorem vobis
+viam demonstro <note>(I Cor. XII)</note>
+          </hi>. Multum proficit in hac
+charitate qui pro amore Dei cuncta quae hujus
+mundi sunt despicit, nihil sibi retinere appetit,
+<pb n="0907A"/>
+quidquid habet in commune dividit. Vere per excelsam
+viam graditur, qui, calcatis terrenis, mente et
+desiderio ad coelestia sublevatur. Charitas in amore
+Dei constat et proximi. Amor autem Dei tribus modis
+exprimitur, ut nihil remaneat in homine quod
+non divinae dilectioni subdatur. Nam Deum praecipimur
+diligere <hi>ex toto corde,</hi> videlicet ut omnes cogitationes
+nostras referamus ad Deum; <hi>ex tota mente <note>(Deut. VI)</note>
+          </hi>,
+ut omnem rationem qua intelligimus et
+discernimus habeamus in ipsum; <hi>ex tota anima <note>(ibid.)</note>
+          </hi>,
+ut omnes affectiones animae dirigamus ad
+Deum. In dilectione proximi duo servanda sunt. <hi>Ut
+quod tibi non vis fieri aliis ne feceris <note>(Tob. IV)</note>
+          </hi>. Et <hi>quae vultis ut faciant vobis homines, et vos facite illis <note>(Matth. VII)</note>
+          </hi>.
+Ex hac gemina virtute dilectionis in
+<pb n="0907B"/>
+proximum omnes virtutes oriuntur, quibus aut utiliter
+quae sunt appetenda cupimus, et quae vitanda
+sunt vitamus. Ex his duobus articulis congrue diligitur
+proximus, dum et beneficiis fovetur et nulla
+malitia laeditur. In omnibus ergo quibus utitur transitura
+necessitas, debet semper eminere charitas.
+Quia quidquid agimus aut loquimur ad Dei charitatem
+debet respicere aut proximi, ut in omni nostra
+conversatione, nostrae intentionis summa versetur
+semper in charitate. <hi>In his</hi> autem <hi>duobus praeceptis
+tota lex pendet et prophetae <note>(Matth. XXII)</note>
+          </hi>.</p>
+<p> <hi>Consequens ergo est ut etiam cum quis suis filiis aut
+aliqua necessitate ad se pertinentibus in monasterio
+constitutis aliquam contulerit vestem sive quodlibet
+aliud inter necessaria deputandum, non occulte accipiatur,
+<pb n="0907C"/>
+sed sit in potestate praepositi, ut in rem communem
+redactum, cui necesse fuerit praebeatur.</hi> </p>
+<p>In omni enim vita nihil licet occulte recipere vel
+recipi, nihil proprium retineri, sed si quid alicui
+datur reddendum est praeposito, ut cui necesse fuerit
+praebeatur. Sic exstinguitur avaritia, sic superfluitas
+resecatur. Sic nutritur charitas et paupertas
+sancta custoditur, quia dum non licet terrena retinere,
+cogitur animus coelestia cogitare. Sed sunt
+quidam qui graviter conturbantur, cum ea quae ab
+aliis suscipiunt, eis non permittuntur retineri. Amant
+munuscula, delectantur in propriis. Et saepe ex parvis
+et vilibus rebus tanto inardescunt desiderio, ut
+earum occasionibus concordiam fratrum soleant
+conturbare. Quod persuasione diabolica fieri dubium
+<pb n="0907D"/>
+non est. Callidus enim hostis omnium mores novit
+et qualitates, atque eorum affectus discernit, et in
+eo unumquemque tentat in quo se magis praevalere
+cognoscit. Nec curat utrum ex magno vel ex parvo
+decipiat, tantum ut charitatem fratris corrumpere
+valeat. Debemus contra hostem callidum cauti et
+vigilantes esse, atque ejus laqueos in omni rerum
+materia praecavere, et omnia terrena quibus decipere
+potest, animi virtute calcare, ut possimus cantare
+cum Propheta: <hi>Laqueus contritus est et nos liberati
+sumus <note>(Psal. CXXIII)</note>
+          </hi>. Sed quia quidam in hoc
+capiuntur, ideo subjunctum est:</p>
+<p> <hi>Quod si aliquis rem sibi collatam celaverit, furti
+judicio condemnetur.</hi> </p>
+<p>
+          <pb n="0908A"/>Apostolus dicit: <hi>Fures et latrones regnum Dei non
+possidebunt <note>(I Cor. VI)</note>
+          </hi>. Furtum enim criminale peccatum
+est, sicut scriptum est: <hi>Non adulterabis, non furtum
+facies, non falsum testimonium dices,</hi> etc. <note>(Exod.
+XX.)</note> Quia ergo inter criminalia mala deputatur
+juxta canonum sententiam, sic judicare debet quisque
+de furto, quomodo de adulterio, quomodo de
+homicidio, quomodo de falso testimonio. Frater qui
+rem sibi collatam celaverit, Judae traditoris locum
+tenet in Ecclesia sancta, qui fur erat et latro et loculos
+habens, et ea quae mittebantur Domino, asportabat
+et abscondebat. Qui tanto cupiditatis et avaritiae
+vitio exarsit, ut Dominum suum sicut diabolus
+in cor miserat, venderet et traderet. Sed appetendo
+lucrum invenit mortem, sicut scriptum est: <hi>Dum
+<pb n="0908B"/>
+sitit lucrum pervenit ad loqueum.</hi> Tales sunt fructus
+avaritiae. Caveant ergo fratres ne lucra appetant, ne
+quamlibet rem abscondant, ne dum suadente diabolo
+tam detestabilem perpetrant culpam, justo omnipotentis
+Dei judicio mortis et damnationis perpetuae
+incurrant poenam.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IX. DE MUNDITIA VESTIUM ET CORPORUM.</head>
+<p> <hi>Indumenta vestra secundum arbitrium praepositi
+laventur sive a vobis sive a fullonibus, ne interiores
+animae sordes contrahat mundae vestis nimius appetitus.</hi> </p>
+<p>Quare vestimenta lavari secundum arbitrium praepositi
+jusserit, ipse idem causam exponit: ne videlicet
+<pb n="0908C"/>
+frater sordes in animo contrahat, si ultra modum
+vestes mundas habere concupiscit; tanto enim
+quisque polluitur intus, quanto ad inanem gloriam
+foris mundatur. Curare ergo debent praelati ne per
+nitorem vestium delinquant subjecti. Non enim nitor
+vestium, sed morum honestas ornat clericum. Unde
+Apostolus nos admonet dicens: <hi>Nolite conformari
+huic saeculo, sed reformamini in novitate sensus vestri <note>(Rom. XII)</note>
+          </hi>.
+Nam qui formam hujus saeculi appetunt,
+formam interioris hominis non requirunt. Et quanto
+exterior pulchritudo diligitur, tanto interior minus
+curatur. Haec est autem vera, et spiritualis munditia
+quam requirit in nobis Deus, dicens: <hi>Lavamini,
+mundi estote; auferte malum cogitationum vestrarum
+ab oculis meis <note>(Isa. I)</note>
+          </hi>. Non enim ait: Beati mundo
+<pb n="0908D"/>
+corpore, sed: <hi>Beati mundo corde, quoniam ipsi Deum
+videbunt <note>(Matth. V)</note>
+          </hi>. Et ne quis putaret curam carnis
+similiter esse resecandam, adjungit:</p>
+<p> <hi>Lavacrum etiam corporis cum infirmitatis necessitas
+cogit minime denegetur. Fiat autem sine murmure
+de consilio medicinae; ita etiam si nolit jubente
+praeposito faciat, quod faciendum est pro salute. Si
+autem velit et forte non expedit, suae cupiditati non
+obediatur.</hi> </p>
+<p>Haec sententia verbis apostolicis videtur concordare,
+quae carnis curam fieri prohibet in desideriis
+non in necessitate. Multum enim interest inter necessitatem
+et cupiditatem. Nam quod ex necessitate
+est, utile est; quod autem ex cupiditate, vitium est.
+<pb n="0909A"/>
+Sunt autem quidam qui dicunt religioni non competere
+corporalem medicinam. Sed si diligenter
+attenderent, ipsi recognoscerent quia hoc quod
+manducamus et bibimus, quod vestibus operimur,
+et terrenis rebus ad necessitatem utimur, corporis
+medicina est.</p>
+<p> <hi>Fiat ergo sine murmure de consilio medicinae.</hi> </p>
+<p>Et bene ait: Nolens in necessitate cogatur, volens
+ex cupiditate reprimatur, quia necessitati non
+cupiditati obediendum est. Nam aliquando etiam si
+noceat, prodesse creditur, quod delectat. Ecce quare
+homo suae cupiditati obedire non debet, quia saepe
+sic ipse sua cupiditate decipitur, ut credat id sibi
+prodesse, quod nocet. Sic fallit homines mala cupiditas;
+sic simulat bonum esse, quod malum est et
+<pb n="0909B"/>
+perniciosum est. Ecce quare adeo damnant cupiditatem
+sacrae Scripturae, et carnalem delectationem,
+quia ad mortem trahunt homines dum ipsi
+nesciunt.</p>
+<p> <hi>Aliquando etiam si noceat, prodesse creditur quod
+delectat.</hi> </p>
+<p>Sed juxta Apostoli vocem oportet nos abstinere a
+carnalibus desideriis, quae militant adversus animam,
+quia caro quidem concupiscit adversus spiritum.
+Sed per disciplinam spiritus reprimenda est
+concupiscentia carnis. Sed sunt quidam qui rigorem
+spiritus; alii qui mollitiem carnis supra modum
+sectantur. Illi dum spiritualiter vivere appetunt,
+aliquando cum vitiis, et carnem exstinguunt. Sed
+<pb n="0909C"/>
+sciendum est quia virtus, si modum non habeat, in
+vitium vertitur. Illi vero qui carnaliter volunt vivere,
+cum cura carnis student et propria desideria
+nutrire. Ponendus est igitur utriusque modus, et
+cogendi sunt illi facere, quod faciendum est, pro
+salute. Hi vero reprimendi sunt ne faciant quod
+carnaliter concupiscunt. Salus quidem corporis ad
+serviendum Deo servanda est; cupiditas vero carnis
+exstinguenda est. Et quia de manifesta infirmitate
+locutus est, de latenti dolore subjungit,
+dicens:</p>
+<p> <hi>Denique si latens est dolor, famulo Dei dicenti
+quid sibi doleat, sine dubitatione credatur.</hi> </p>
+<p>Jure enim credendus est, quem boni mores, et
+conversatio sancta famulum Dei esse commendant.
+<pb n="0909D"/>
+Non enim ex ore loquentium cognoscitur veritas aut
+falsitas, sed a fructibus eorum cognoscetis eos, dicit
+Dominus. Non sunt fallaces, non sunt duplices;
+non sunt ex illis, qui in corde, et ore locuti sunt
+falsa. Famuli Dei quales sunt in corde, tales sunt in
+ore. Bona vita fidem dat verbis. Mala vita etiam
+ipsam veritatem facit esse ambiguam. Sine dubitatione
+ergo credantur qui sine dubitatione sunt boni.
+Alio modo: Si latens est dolor, sine dubitatione credatur.
+Famulus enim Dei timet Deum offendere non solum
+in opere, sed etiam in sermone. Tales nos exhibere
+debemus, ut quidquid dixerimus sine dubitatione
+credatur. Vita debet commendare sermonem,
+et opera bona testimonium perhibere veritati
+<pb n="0910A"/>
+sicut Salvator noster de se dicit: <hi>Si mihi non
+creditis; vel operibus credite. Opera,</hi> inquit, <hi>quae facio,
+ipsa testimonium perhibent de me <note>(Joan. X)</note>
+          </hi>. Multi
+enim sunt quibus non creditur etiam si verum dicant,
+quia illi mali sunt aut in suspicione habentur
+ne mali sint. Sed si nostra vita sine suspicione coeperit
+esse bona, mox verba nostra sine dubitatione
+credentur esse vera. Quanto quisque minus bonus
+est, tanto minus ei creditur; quanto coeperit esse
+religiosior, tanto verbis ejus major fides praestatur.
+Sed quia infirmitatis necessitas aliquando appetit ea,
+quae sibi ipsi sunt contraria, ideo adjungit:</p>
+<p> <hi>Sed tamen utrum sanando illi dolori, quod delectat
+expediat, si non est certum, medicus consulatur.</hi> </p>
+<p>
+          <pb n="0910B"/>Credendum est eorum verbis, nec tamen statim
+acquiescendum est eorum desideriis, nam et famulos
+Dei illicita tentant desideria; ergo si non est
+certum, medicus consulatur. Quaeratur ille qui de
+incerto faciat certum. Nec mirum si medicorum
+consilia quaerimus, cum apostolum Paulum consilio
+medicinae usum fuisse legamus. Nam per Epistolam
+suam Discipulo suo Timotheo praecipit dicens: <hi>Modico vino utere propter stomachum et frequentes
+tuas infirmitates 
+ <note>(I Tim. V)</note>
+          </hi>. A rigore ergo abstinentiae
+discretus magister discipulum temperat, ne scilicet
+frequentibus passionibus fractus a bono praedicationis
+elanguescat. Bonum quippe erat ut discipulus ex
+infirmitate patientiae fructum redderet, sed utilius
+esse providebat Apostolus si usu medicinae aliquantulum
+<pb n="0910C"/>
+convalescens animas Deo lucrifaceret. Ex diversis
+autem bonis utiliora eligenda sunt. Hac
+autem auctoritate fulti ad haec medicinam corporalem
+quaerere debemus, ut inde majorem fructum
+Domino referamus.</p>
+<p> <hi>Nec eant ad balnea, sive quocunque ire necesse fuerit,
+minus quam duo vel tres.</hi> </p>
+<p> <hi>Provideamus bona,</hi> ait Apostolus, <hi>non tantum coram
+Deo, sed etiam coram omnibus hominibus <note>(II Cor.
+VIII)</note>
+          </hi>. Propter nos conscientia bona sufficit nobis,
+propter alios fama nostra non pollui, sed pollere
+debet in nobis. Qui fidens conscientiae suae negligit
+famam suam, crudelis est, maxime in hoc loco positus,
+de quo dicit apostolus scribens ad discipulum: <hi>Circa omnes teipsum bonorum operum praebe exemplum</hi> 
+<pb n="0910D"/> <note>(Tit. II)</note>.
+Rursus alibi dicit: <hi>Speculum facti
+sumus mundo et angelis et hominibus. Qui nos amant
+quaerunt quid in nobis laudent, qui vero nos odiunt
+detrahunt nobis. Nos autem in utroque medio constituti
+adjuvante Domino nostro Jesu Christo, et vitam
+et famam nostram sic custodire debemus, ut non erubescamus
+a detractoribus laudari.</hi> Simul ergo ire
+debent duo vel tres, et propter solatium et propter
+bonae famae testimonium. Unde Salomon ait: <hi>Vae
+soli, si ceciderit non habet sublevantem; si fuerint
+duo, fovebuntur mutuo. <note>(Eccle. IV)</note>
+          </hi>. Bene autem ait,
+cum quibus praepositus jusserit ire debet, scilicet ut
+a praelato provideatur securitas personae et a subdito
+servetur virtus obedientiae.</p>
+<p>
+          <pb n="0911A"/> <hi>Aegrotantium cura sive post aegritudinem reficiendorum,
+sive aliqua imbecillitate sive etiam febribus
+laborantium, alicui debet injungi, ut ipse de cellario
+petat, quod cuique opus esse prospexerit.</hi> </p>
+<p>Eligendus est frater timens Deum qui circa infirmos
+curam maximam gerat, et quod opus eis fuerit
+ministrare eis studeat, et eo studio et affectu eis
+deserviat, ac si ipsi Domino Jesu Christo deserviret.
+Ipse etenim dicturus est in judicio. <hi>Infirmus fui, et
+visitastis me <note>(Matth. XXV)</note>
+          </hi>. Et iterum: <hi>Quod uni ex
+minimis meis fecistis, mihi fecistis <note>(ibid.)</note>
+          </hi>. Debent
+ergo fortiores imbecillitatem portare infirmorum.
+Sic enim divina charitas adimpletur teste Apostolo
+qui ait: <hi>Alter alterius onera portate, et sic adimplebitis
+legem Christi <note>(Galat. VI)</note>
+          </hi>. Lex Christi est dilectio.
+<pb n="0911B"/>
+Dilectionis officium est invicem onera nostra
+portare. Diversa vero tempora et diversae infirmitates
+faciunt ut onera nostra portemus invicem. Nihil
+autem sic probat amicum quam oneris amici portatio.
+Sed et ipse infirmus cui pro Dei amore servitur,
+debet pensare et summopere cavere ne superfluitate
+sua aut impatientia sibi servientem contristet.
+Studeat autem Deo gratias agere, ne infirmitas quae
+data est ei ad purgationem animae, vertatur ad
+augmentum culpa</p>
+<p> <hi>Sive autem qui vestibus sive qui codicibus praeponuntur,
+sine murmure serviant fratribus suis.</hi> </p>
+<p>Tales se exhibeant, et ea charitate fratribus suis
+deserviant, ne ipsi de ministerio sibi commisso peccent
+in murmure, nec alios per suam negligentiam
+<pb n="0911C"/>
+faciant murmurare. Grave peccatum est murmuratio
+testante Gregorio qui ait: <hi>Regnum coelorum nullus
+qui murmurat accipit, nullus qui accipit murmurare
+poterit.</hi> Et Salomon: <hi>Praecordia fatui sicut
+rota carri <note>(Eccli. XXXIII)</note>
+          </hi>, fenum portat et murmurat.
+Tales ergo sunt in congregatione qui carne
+subditi non cessant a murmuratione. Apostolus: <hi>Neque murmuraveritis, sicut quidam eorum murmuraverunt,
+et a</hi> 
+ serpentibus <hi>perierunt <note>(I Cor. X)</note>
+          </hi>.
+Quare a serpentibus, nisi quia serpens venenosus
+est, et omnis qui murmurat venenum diaboli habet
+in lingua. Jacobus.: <hi>Lingua inquietum malum, plena
+veneno mortifero <note>(Jac. III)</note>
+          </hi>. <hi>Cavendum est</hi> ergo <hi>nobis
+a murmure, ne mortifero et diabolico pereamus
+<pb n="0911D"/>
+veneno.</hi> </p>
+<p> <hi>Codices certa hora petantur, extra horam qui petierit
+non accipiat.</hi> </p>
+<p>Superius praecipit instare orationibus temporibus
+constitutis. Tempora ergo sunt distinguenda quibus
+debemus orare, et quibus debemus legere. De opere
+quoque alibi admonet ut nullus sibi aliquid operetur,
+sed omnia opera vestra in unum fiant. Haec tria
+commendat nobis regula quae animae nostrae valde
+sunt necessaria, scilicet orationem, lectionem, operationem.
+Nam oratione mundamur, lectione instruimur,
+operatione beatificamur, sicut Spiritus sanctus
+dicit in Psalmo: <hi>Labores manuum tuarum quia
+manducabis, beatus es et bene tibi erit <note>(Psal. CXXVII)</note>
+          </hi>.
+Quia autem dicit ut codices singulis diebus petantur,
+<pb n="0912A"/>
+frequentia legendi commendatur. Frequenter
+debet legere servus Dei. Valde enim est utilis divina
+lectio. Nam per lectionem discimus quid cavere,
+quid agere, quo tendere debeamus. Hinc Psalmista
+ait: <hi>Lucerna pedibus meis verbum tuum <note>(Psal. CXVIII)</note>
+          </hi>.
+Perfectionem sensus et intellectus augentur. Lectio
+ad orationem nos instruit et ad operationem, et nos
+informat ad contemplativam vitam et activam.
+Ideo in Psalmo: <hi>Beatus vir,</hi> scribitur, <hi>qui in lege Domini</hi> 
+meditatur <hi>die ac nocte <note>(Psal. I)</note>
+          </hi>. Haec sunt arma,
+videlicet oratio, lectio et operatio quibus diabolus
+expugnatur. Haec sunt instrumenta quibus aeterna
+beatitudo acquiritur. His armis vitia comprimuntur,
+his alimentis virtutes nutriuntur. Sed, etsi a lectione
+cessatur, debet manuum operatio subsequi, quia
+<pb n="0912B"/>
+otiositas inimica est animae, et antiquus hostis quem
+a lectione sive ab oratione vacantem invenerit, facile
+ad vitia rapit. Per usum namque lectionis discetis
+qualiter et vos vivatis et alios doceatis; per
+manuum operationem, et corporis macerationem, et
+vitiis alimenta negabitis, et vestris necessitatibus
+subvenietis, et habebitis unde necessitate patientibus
+aliquid porrigatis.</p>
+<p> <hi>Vestimenta vero, et calceamenta quando fuerint
+indigentibus necessaria dare non differant sub quorum
+custodia sunt, quae poscuntur.</hi> </p>
+<p>Hoc est quod superius dictum est, ut sine murmure
+serviant fratribus suis. Nequando differunt
+necessaria dare, faciant fratres murmurare, et sint
+occasio peccati. Studeant ergo servire fratribus suis
+<pb n="0912C"/>
+propter Deum, et necessaria congruis temporibus
+ministrare. Et hoc faciant sine murmure, sine tristitia,
+sine dilatione, cum gaudio et hilaritate, quia <hi>hilarem datorem diligit Deus 
+ <note>(II Cor. IX)</note>
+          </hi>, ut omne
+quod opus est eis secundum modum congregationis,
+et possibilitatem loci habeant; et eis qui serviunt sit
+major ex inde merces a Domino. In indumentis vero
+et calceamentis clericorum congruus servandus est
+modus, ne pretiosa, vel nitida sint supra modum
+aut nimis abjecta et vilia; nec habentia compositionem
+plusquam decet, nec incompositionem ultra
+quam oportet. Talia ergo sint ut religionem simul
+commendent et honestatem. Caveant ergo fratres
+quibus necessaria ministrantur, ne quid expetant
+<pb n="0912D"/>
+importune, aut quod non deceat eorum religionem.
+Nam quidquid superfluum habent, mortiferum est
+illis. Perpendant ergo quoniam ea quae expendunt,
+oblationes sunt fidelium pro redemptione peccatorum.
+Et ideo non glorientur talibus uti, sed magis
+timeant, quod in Veteri Testamento de sacerdotibus
+dictum est, iniquitatem populi eos debere portare.
+Et ideo cum magno timore solliciti sint super
+eos quorum donis participant, quia magnum est
+periculum. Salubrius est autem pauperes Christi,
+sicut jam praedictum est, semper minus egere quam
+plus habere. Nam unde pauperes erimus nisi penuriam
+propter Deum aequanimiter portemus? Quantum
+ergo meminimus nos illicita commisisse, tantum
+oportet a licitis abstinere. Per angustam enim
+<pb n="0913A"/>
+portam intrare debemus, ut ad latitudinem coelestium
+gaudiorum pertingere valeamus. Nam quanto arctiorem
+vitam hic agimus, tanto majorem gloriam possidebimus
+in coelo.</p>
+<p> <hi>Lites autem nullas habeatis aut quam celerrime finiatis,
+ne ira crescat in odium, et trabem faciat de
+festuca, et animam faciat homicidam. Sic enim legitis:
+Qui odit fratrem suum homicida est <note>(I Joan III)</note>
+          </hi>.</p>
+<p>Sic paulatim saepe crescunt vitia. Sane cum ab
+otioso verbo linguam restringere nolumus, ad noxia
+dilabimur; inde aliquando ad murmura et detractiones
+decidimus; plerumque etiam usque ad lites et
+contentiones; inde ad iram et odium, et juxta
+Salomonis vocem dum negligimus corrigere minima,
+prolabimur ad majora <note>(Eccli. XIX)</note>. Dum ergo
+<pb n="0913B"/>
+vitium ex vitio oritur, iniquitas prolongatur. Hinc
+propheta ait: <hi>Vae qui trahitis iniquitatem in funiculis
+vanitatis! <note>(Isa. V.)</note>
+          </hi> Et Psalmista: <hi>Prolongaverunt
+iniquitatem suam: Dominus justus concidet cervices
+peccatorum <note>(Psal. CXXVIII)</note>
+          </hi>. Primum est ergo omnino
+cavendum peccatum. Melius est enim praecavere
+quam emendare. Quia si per fragilitatem peccare
+contigerit, facile culpa corrigitur, quae cito cognoscitur.
+Hinc est, quod Dominus de muliere ad serpentem
+dicit: <hi>Ipsa conteret caput tuum <note>(Gen. III)</note>
+          </hi>;
+caput serpentis conteritur, quando peccatum ibi
+corrigitur ubi nascitur. Debet ergo quisque esse
+sollicitus, ut mox ibi se studeat emendare ubi se
+noverit deliquisse. Quantum interest inter festucam
+<pb n="0913C"/>
+et trabem, tantum interest inter iram et odium.
+Odium enim est inveterata ira, quae quasi ex vetustate
+tantum accepit ut merito vetus appellaretur.
+Fieri enim potest ut si irascaris homini, velis etiam
+corrigi; si autem oderis, non potes eum velle corrigi.
+Per iram mentis oculus turbatur; per odium etiam
+exstinguitur. Unde Apostolus: <hi>Qui odit fratrem
+suum in tenebris est <note>(I Joan. II)</note>
+          </hi>. Nulli irascenti videtur
+ira sua injusta. Unde de omni indignatione
+cito redeundum est ad mansuetudinis lenitatem.
+Nam pertinax motus facile in ejus odium transit cui
+non celeriter ignoscitur. Unde subditur:
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT X. DE VENIA POSTULANDA ET OFFENSA REMITTENDA.</head>
+<p>
+          <pb n="0913D"/> <hi>Quicunque convicio, vel maledicto, vel etiam criminis
+objectu aliquem laeserit, meminerit satisfactione
+quam primum curare quod fecit, et ille qui laesus est
+sine disceptatione dimittere.</hi> </p>
+<p>Graviter offendit, qui convicio vel maledicto aliquem
+laedit. Apostolus ait: <hi>Maledici regnum Dei non
+possidebunt <note>(I Cor. VI)</note>
+          </hi>. Et Dominus in Evangelio: <hi>Qui dixerit fratri suo fatue: reus erit gehennae ignis <note>(Matth. V)</note>
+          </hi>.
+Debet ergo sicut graviter deliquit, graviter
+poenitere, atque ab eo quem laesit toto corde, tota
+humilitate veniam postulare; et ille qui laesus est
+sine disceptatione dimittere. Isidorus: <hi>Qui fratrem
+suam tardius reconciliat, Deum sibi tardius placat.</hi> 
+<pb n="0914A"/>
+Frustra enim sibi Deum reconciliari atque propitiari
+quaerit, qui cito placare suum proximum negligit.
+Sed sunt quidam qui de suis meritis confidentes
+pigre in se delinquentibus veniam praestant;
+sed nihil proficit esse illaesum qui non est paratus
+ad veniam, dum potius haec magna sit culpa quando
+tardius laxantur fraterna delicta. Veritate testante
+didicimus quia servus, qui decem millia talenta debebat,
+cum poenitentiam ageret, absolutionem debiti
+a Domino accepit; sed quia conservo suo centum
+denarios sibi debenti debitum non dimisit, et hic
+est jussus exigi quod ei fuerat jam dimissum <note>(Matth.
+XVIII)</note>. Ex quibus verbis constat quia si hoc quod in
+nobis delinquitur ex corde non dimittimus, et illud
+rursum exigitur quod nobis jam per poenitentiam
+<pb n="0914B"/>
+dimissum fuisse gaudebamus.</p>
+<p> <hi>Si autem invicem se laeserint; invicem sibi debita
+relaxare debebunt propter orationes vestras, quas
+utique quanto crebriores habetis, tanto saniores habere
+debetis.</hi> </p>
+<p>Quotidie dicimus Deo: <hi>Dimitte nobis debita nostra
+sicut et nos dimittimus debitoribus nostris <note>(Matth. VI)</note>
+          </hi>,
+quod si debitoribus nostris, id est eis qui in nos peccant
+nos dimittimus, cum dicimus Deo: <hi>Dimitte nobis
+debita nostra, sicut et nos dimittimus,</hi> ipsa nostra
+oratione inculpamur, et Deum adversum nos ad iracundiam
+incitamus, et ipsi super nos inducimus maledictionem
+potius quam benedictionem. Sicque fit ut
+oratio quae debebat nobis esse salubris, sit noxia, et
+peccata nostra quae debuimus minuere, orando augeamus.
+<pb n="0914C"/>
+De quotidianis autem levibus brevibusque
+peccatis sine quibus haec vita non ducitur quotidiana
+oratio fidelium satisfaciet. Eorum est enim dicere: <hi>Pater noster qui es in coelis 
+ <note>(ibid.)</note>
+          </hi>, qui jam tali Patri
+regenerati sunt ex aqua et Spiritu sancto. Delet
+omnino haec oratio minima quotidianaque peccata.
+Delet et illa a quibus vita fidelium etiam scelerate
+gesta, sed poenitendo in melius mutata discedit. Sed
+quemadmodum veraciter dicitur: <hi>Dimitte nobis debita
+nostra</hi> (quoniam non desunt quae dimittantur),
+ita veraciter dicatur, <hi>sicut et nos dimittimus debitoribus
+nostris.</hi> Idem fiat quod dicitur; quia et ipsa
+eleemosyna est veniam petenti homini ignoscere.
+Multa quidem genera sunt eleemosynarum, quae cum
+facimus adjuvamur ut dimittantur nobis peccata
+<pb n="0914D"/>
+nostra. Sed ea nihil est majus qua ex corde dimittimus
+quod in nos quisque peccavit. Minus magnum
+est erga eum benevolum esse sive etiam beneficum
+qui tibi nihil mali fecerit, illud multo grandius et
+magnificentissimae bonitatis est ut tuum quoque inimicum
+diligas, et ei qui tibi malum vult semper
+bonum velis, facias quoque quod possis audire dicentem
+Jesum: <hi>Diligite inimicos vestros, benefacite
+his qui oderunt vos, et orate pro eis qui vos persequuntur <note>(Matth. V)</note>
+          </hi>.
+Sed quoniam perfectorum sunt
+ista filiorum Dei quo se debet omnis fidelis extendere,
+et humanum animum ad hunc affectum orando
+Deum et secum agendo luctandoque perducere; tamen
+quia hoc magnum bonum tantae multitudinis
+<pb n="0915A"/>
+non est quantum nos creamus exaudiri cum in oratione
+dicitur: <hi>Dimitte nobis debita nostra sicut et
+nos dimittimus debitoribus nostris,</hi> procul dubio sponsionis
+hujus verba implentur si homo qui nondum
+ita proficit ut etiam diligat inimicum, tamen quando
+rogatur ab homine qui peccavit in eum ut ei dimittat,
+dimittit, ex corde, quia etiam sibi roganti utique
+vult dimitti cum orat et dicit: <hi>Dimitte nobis sicut
+et nos dimittimus debitoribus nostris,</hi> id est sic dimitte
+nobis rogantibus debita nostra, sicut nos dimittimus
+rogantibus debitoribus nostris. Jam vero
+qui eum in quem peccavit hominem rogat, si peccato
+suo movetur ut roget, non est adeo deputandus
+inimicus, ut eum sic diligere sit difficile, ut difficile
+erat cum inimicitias exercebat. Quisquis autem roganti
+<pb n="0915B"/>
+et peccata sua poenitenti ex corde non dimittit,
+nullo modo existimet a Domino peccata sua
+dimitti, quoniam mentiri Veritas non potest, quae
+ait: <hi>Si dimiseritis hominibus peccata eorum, dimittet
+vobis et Pater vester coelestis delicta vestra <note>(Matth. VI)</note>
+          </hi>.</p>
+<p> <hi>Melior est autem qui, quamvis ira saepe tentetur,
+tamen impetrare festinat ut sibi dimittat cui se fecisse
+agnoscit injuriam, quam qui tardius irascitur et ad
+veniam petendam tardius inclinatur.</hi> </p>
+<p>Nonnullos ira citius ascendit et facilius deserit,
+nonnullos vero tarde commovet, sed diutius tenet.
+Alius autem (quod nequius est) et citius iracundiae
+flammas accipit et tardius deponit. Nonnulli vero
+has et tardius suscipiunt et citius amittunt. In quibus
+<pb n="0915C"/>
+nimirum liquido lector agnoscit quia ad tranquillitatis
+bonum ultimus plus quam primus accedit,
+et in malo secundum tertius superat. Quanta
+sit ergo iracundiae culpa pensemus, per quam dum
+mansuetudo amittitur, similitudo supernae imaginis
+vitiatur. Per iram justitiam relinquitur, sicut scriptum
+est: <hi>Ira viri justitiam non operatur <note>(Jac. I)</note>
+          </hi>.
+Per iram gratia vitae socialis amittitur, sicut scriptum: <hi>Noli esse</hi> 
+ assiduus <hi>cum homine iracundo, ne
+forte discas semitas ejus et sumas scandalum animae <note>(Prov. XXII)</note>
+          </hi>.
+Nam qui se humana ratione non temperat,
+necesse est ut bestialiter solus vivat. Aliquando
+autem ira manus non exerit, sed in maledictionis
+jacula linguam vertit. Nonnunquam vero
+<pb n="0915D"/>
+dum accensus animus a consueta locutione restringitur,
+per accessum temporis penitus a proximi dilectione
+separatur, et acriores stimuli ad mentem
+veniunt, causaeque quae gravius exasperent oriuntur,
+atque in irati oculo festuca in trabem vertitur,
+dum ira in odium permutatur. Veremur a proximis
+despici, dedignamur injurias verbi tolerare, si contingat
+jurgium fortasse cum proximo, erubescimus
+priores satisfacere. Cor quidem carnale dum hujus
+vitae gloriam quaerit, humilitatem respuit, et plerumque
+ipse homo qui irascitur discordanti sibi reconciliari
+appetit, sed ire ad satisfaciendum prior
+erubescit. Pensemus ergo facta capitis nostri, ut
+videamus quo jaceant nostrae pravitatis errores.
+Ecce inter nos et Deum peccando discordiam fecimus,
+<pb n="0916A"/>
+et tamen ad nos Deus suos negatos prior misit,
+ut nosipsi qui peccavimus ad pacem Dei revocemur.
+Erubescat ergo humana superbia, et confundatur
+quisque si non satisfaciat proximo, quoniam post
+culpam nostram ut ei reconciliari debeamus, et
+ipse qui offensus est legatis intervenientibus obsecrat
+Deus.</p>
+<p> <hi>Qui autem non vult petere veniam aut non ex animo
+petit, sine causa est in monasterio, etiamsi inde non
+projiciatur.</hi> </p>
+<p>Cum Dominus tantum curae reconciliationis nostrae
+habeat, ut patiatur munera sua derelinqui ante
+altare et imperfecta manere atque interrumpi ministeria
+sua, donec eas et resolvas iracundiam et
+disjungas inimicitias cum fratre tuo, nec nos ipsum
+<pb n="0916B"/>
+erubescimus, sed dies multos patimur manere inimicitias,
+et trahimus sicut funem longam discordiam.
+Non iracundos tantum et malitiae memores
+punit Deus, sed et eos qui irascentes offendunt aut
+placare negligunt atque contemnunt. Quoniam quidem
+hi qui passi sunt et videntur pati injurias, necessario
+dolent et irascuntur; qui vero fecerunt, nec
+doloris aliquid nec iracundiae gerunt. Ob hoc ergo
+hunc qui ab iracundia liber est adducit ad illum qui
+in dolore est, et liber non est, ostendens quia criminis
+hujus noxa penes hunc magis est qui causam
+peccati dedit. Sed nec sic quidem emendamur. Persistimus
+enim pro rebus nullis contristare fratres
+nostros, et quasi nil mali fecerimus de satisfactione
+negligimus, et oblivioni tradimus culpam atque in
+<pb n="0916C"/>
+longum tempus protrahi patimur, ignorantes quod
+tanto largior nobis erit poena, quanto largior discordia.
+Ubi enim amicitia permanet, nihil facile recipitur,
+nihil facile creditur quod dissidium possit
+operari. Si vero semel inimicitiae occupaverint,
+omnia quae fiunt, quae dicuntur, quae audiuntur, ita
+accipiuntur et ita intelliguntur ut ad majores et
+longiores proficiant inimicitias. Si quid autem mali,
+hoc solum creditur et confirmatur. Jubet ergo Dominus
+relinqui donum ante altare et prius reconciliari
+fratri, ut ex hoc discamus quia si nec illo in
+tempore quo ad ministerium Dei jubemur accedere,
+reconciliationem dissimulari ac differri patitur Deus,
+quanto magis curanda sit haec in aliis temporibus.
+<pb n="0916D"/>
+Si forte accidat irasci, mandatur ut sub die aut iracundiam
+nostram vel inimicitias nostras finiamus. In
+hoc constringimur praecepto quo ait: <hi>Sol non occidat
+super iracundiam vestram <note>(Ephes. IV)</note>
+          </hi>. Nos contra
+nec hoc contenti sumus ut iracundiam ultra solis terminum
+producamus, sed et insidias invicem instruimus
+sive rebus sive verbis supplantare cupientes proximos,
+mordentes invicem et comedentes, quod utique
+aperta insania est. Quid enim aliud faciunt insani
+et daemone repleti, nisi membra sua morsibus dilaniant?
+Frustra est ergo in monasterio qui discordat
+cum fratre suo, quia nec Deum placat sacrificiis nec
+proficere valet operibus bonis.</p>
+<p> <hi>Proinde vobis a verbis durioribus parcite.</hi> </p>
+<p>Salomon: <hi>Responsio mollis frangit iram sermo
+<pb n="0917A"/>
+durus excitat furorem <note>(Prov. XV)</note>
+          </hi>. Itemque: <hi>Dulce
+verbum inimicos mitigat, et amicos multiplicat <note>(Eccli.
+VI)</note>
+          </hi>. Et Paulus: <hi>Vos qui spirituales estis, instruite
+hujusmodi in spiritu lenitatis <note>(Galat. VI)</note>
+          </hi>. Caveant
+ergo viri sancti a verbis duris.</p>
+<p> <hi>Quae si emissa fuerint ex ore vestro, non pigeat ex
+ore proferre medicamenta, unde facta sint vulnera.</hi> </p>
+<p>Primum quidem summopere caveamus ne duris
+verbis aliquem conturbemus, quod si aliquando
+peccamus ex fragilitate, oportet continuo ad satisfactionem
+venire, et contra sermonem durum proferre
+dulcem atque placabilem, ut vulnus commotionis
+sanet medicina humilis confessionis. Sed sicut
+praediximus: <hi>Melius est ante cavere vitium quam
+postea emendare commissum.</hi> Ideo servus Dei debet
+<pb n="0917B"/>
+semper ponere custodiam ori suo, ut non delinquat
+in lingua sua, et tunc maxime quando adversus eum
+consistit peccator, videlicet aliquis calumniosus ac
+injuriosus, sicut scriptum est: <hi>Sunt multi superbi
+et invidi qui non cessant irritare famulos Dei <note>(Eccli.
+V)</note>
+          </hi>. Ergo si est tibi intellectus, responde proximo tuo: <hi>Sin autem, sit manus tua super os tuum ne capiaris
+verbo indisciplinato et confundaris 
+ <note>(Eccli. V)</note>
+          </hi>.</p>
+<p> <hi>Quando autem necessitas disciplinae moribus coercendis
+dicere vos dura verba compellit, si etiam ipsi
+modum vos excessisse sentitis, non a vobis exigitur ut
+a vobis subditis veniam postuletis, ne apud eos quos
+oportet esse subjectos, dum nimium servatur humilitas,
+regendi frangatur auctoritas.</hi> </p>
+<p>Plerumque hoc magnis doctoribus contingit ut
+<pb n="0917C"/>
+dum coacta correctione fervent, modum correctionis
+exaggerent, et lingua aliquid, quae non debet,
+dicat, quia mentem dilectio quantum debet non
+inflammat. Unde bene per Moysem Dominus praecepit,
+dicens: <hi>Si quis abierit cum amico suo simpliciter
+in silvam ad ligna caedenda, et in succisione
+lignorum securis fugerit manum, ferrumque lapsum
+de manubrio amicum ejus percusserit et occiderit, hic
+ad unam supradictarum urbium confugiet, et vivet,
+ne forte proximus ejus cujus est effusus sanguis doloris
+stimulo prosequatur et apprehendat eum et percutiat
+animam ejus <note>(Deut. IX)</note>
+          </hi>. Ad silvam quippe cum
+amico imus quoties cum quolibet proximo ad intuenda
+delicta nostra convertimur, et simpliciter ligna
+<pb n="0917D"/>
+succidimus, cum delinquentium vitia pia intentione
+resecamus. Sed securis manum fugit, cum sese
+increpatio plusquam necesse est in asperitatem protrahit,
+ferrumque de manubrio prosilit, cum de
+correctione sermo durior excedit, et amicum percutiens
+occidit, quia auditorem suum prolata contumelia
+a spiritu dilectionis interficit. Correcti namque
+mens ad odium proruit si hunc immoderata increpatio
+plusquam debuit addicit. Sed is qui incaute
+lignum percutit et proximum exstinguit, ad tres
+necesse est urbes fugiat ut in una earum defensus
+vivat. Quia si ad poenitentiae lamenta conversus in
+unitate sacramenti sub spe, fide et charitate absconditur,
+reus perpetrati homicidii non tenetur, eumque
+exstincti proximus cum invenerit non occidit. Quia
+<pb n="0918A"/>
+et justus ille judex qui se pro nobis per naturae suae
+consortium conjunxit, ab eo procul dubio vindictam
+de culpae reatu non expetit, quem sub ejus
+venia fides, spes et charitas abscondit. Ideo subjungitur:</p>
+<p> <hi>Sed tamen petenda est venia ab omnium domino,
+qui novit eos quos plus justo forte corripitis, quanta
+benevolentia diligatis.</hi> </p>
+<p>Aliquando exceditur modus zelo malitiae, aliquando
+zelo justitiae, plerumque ex studio per deliberatam
+locutionem, plerumque per excessum locutionis.
+Dominus vero non tam attendit sermonem
+quam intentionem. Citius ergo culpa dimittitur quae
+nequaquam malitiae studio perpetratur.</p>
+<p> <hi>Non autem carnalis sed spiritualis inter vos debet
+<pb n="0918B"/>
+esse dilectio.</hi> </p>
+<p>Sunt nonnulli qui diligunt proximos, sed per affectum
+cognationis et carnis, quibus tamen in hac
+dilectione sacra eloquia non contradicunt. Sed aliud
+est quod sponte impenditur naturae, aliud quod ex
+praeceptis Dominicis ex charitate debetur obedientiae.
+Hi nimirum et proximum diligunt, et tamen
+illa sublimia dilectionis praemia non assequuntur,
+quia amorem suum non spiritualiter, sed carnaliter
+impendunt. Omnipotentis Dei esse discipulos sola
+custodia charitatis probat. Unde ipse ait: <hi>In hoc
+cognoscent omnes quia discipuli mei estis, si dilectionem
+habueritis ad invicem <note>(Joan. XIII)</note>
+          </hi>. Quae dilectio
+si cor nostrum veraciter replet, duobus modis ostendi
+solet, si amicos in Deo et inimicos diligimus propter
+<pb n="0918C"/>
+Deum. Saepe in dilectionis imagine erga inimicum
+animus fallitur, seque illum diligere falso arbitratur.
+Sed tunc inimici dilectio veraciter custoditur,
+cum nec de profectu addicimur nec de ruina
+laetamur. A duobus quidem praeceptis incipit charitas,
+sed sese ad innumera extendit. Hujus namque
+initium dilectio est Dei et proximi, sed Dei dilectio
+per tria distinguitur, quia ex toto corde et ex tota
+anima et ex tota fortitudine conditor diligi jubetur.</p>
+<p>Qua in re notandum est quod divinus sermo cum
+Deum diligere praecipit, non solum narrat, sed etiam
+informat ex quanto cum subjungit: Ex tota fortitudine,
+ut videlicet qui perfecte Deo placere desiderat,
+sibi de se nihil relinquat. Proximi autem dilectio
+<pb n="0918D"/>
+ad duo praecepta derivatur. Unde dicitur: <hi>Quod tibi
+non vis fieri vide ne tu alteri facias <note>(Tob. IV)</note>
+          </hi>. Et per
+semetipsam Veritas dicit: <hi>Quae vultis ut faciant vobis
+homines et vos facite illis <note>(Matth. VII)</note>
+          </hi>. Quibus duobus
+scilicet utriusque Testamenti mandatis per unum
+malitia compescitur, per aliud benignitas praerogatur,
+ut quod non vult malum pati quisque, non
+faciens cessat a nocendi opere; et rursum bonum
+quod sibi fieri appetit, impendens ad utilitatem proximi
+exerceat ex benignitate. Sed haec nimirum
+duo dum sollicita intentione cogitantur, cor ad innumera
+virtutum ministeria tenditur, ne vel ad inferenda
+quae non debet in desideriis inquieta mens ferveat,
+vel erga exhibenda quae debet otio resoluta
+<pb n="0919A"/>
+torpescat. Nam cum cavet alteri facere quod nequaquam
+vult ab altero tolerare, sollicita se intentione
+circumspicit, ne superbia elevet et usque ad despectum
+proximi animum dejiciens exaltet. Ne ambitio
+cogitationum laniet, cumque hanc ad appetenda
+aliena dilatat, angustet; nec luxuria polluat et subjectum
+desideriis per illicita corrumpat. Ne ira exasperet
+et usque ad proferendam contumeliam inflammet.
+Ne invidia mordeat, et alienis felicitatibus
+aemula sua se face consumat. Ne immoderate linguam
+loquacitas pertrahat, eamque ad lasciviam
+obtrectationis extendat. Ne odium malitia excitet,
+et os usque ad jaculum maledictionis irritet. Rursumque
+cum cogitat ut ea alteri faciat quae sibi ab
+altero fieri exspectat, nimirum ut malis bona, ut
+<pb n="0919B"/>
+bonis meliora respondeat, ut erga procaces mansuetudinem
+longanimitatis exhibeat, ut malitiae
+peste languentibus gratiam benignitatis impendat,
+ut discordes pace muniat, ut concordes ad concupiscentiam
+verae pacis accendat, ut indigentibus
+necessaria tribuat, ut errantibus viam rectitudinis
+ostendat, ut afflictos verbo et compassione mulceat,
+ut accensos in hujusmodi desideriis increpatione
+restringat, ut minas potentium ratiocinatione mitiget,
+ut oppressorum angustias quanta praevalet ope
+levet, et foris obsistentibus opponat patientiam, ut
+intus superbientibus exhibeat cum patientia disciplinam,
+ut erga subditos sic mansuetudo zelum
+temperet, quatenus a justitiae studio non declinet,
+si ad ultionem zelus ferveat, ne tamen pietatis limitem
+<pb n="0919C"/>
+fervendo transcendat, ut ingratos quosque ministeriis
+in amorem attrahat, ut proximorum mala
+cum corrigere non valet taceat, ut quaecunque corrigi
+possunt consensum esse silentium pertimescat,
+ut sic ea quae tacet toleret, nec tamen in animo virus
+doloris occultet, ut sic malevolis munus benignitatis
+exhibeat, ne tamen per gratiam a jure rectitudinis
+excidat, ut cuncta proximis quae praevalet impendat,
+sed impendendo non tumeat, ut sic in bonis
+quae exhibet tumoris praecipitium caveat, ne tamen
+et boni exercitio torpescat, ut sic quae possidet tribuat,
+ut quanta sit largitas remunerantis attendat,
+nec cum terrena largitur suam plus quam necesse
+est inopiam cogitet, et in oblatione muneris claritatis
+lumen tristitia obscuret. Bene ergo lex Dei multiplex
+<pb n="0919D"/>
+dicitur, quia nimirum una eademque charitas
+si mentem plene coeperit, ad innumera opera multiformiter
+accendit. Multiplex ergo ista lex est Dei
+quae singulis hic rerum articulis non permutata
+congruit, et causis se variantibus non variata conjungit.
+Cujus nimirum legis multiplicitatem bene
+Paulus ostendit, dicens: <hi>Charitas patiens est, benigna
+est,</hi> etc. <note>(I Cor. XIII)</note>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI. DE OBEDIENTIA.</head>
+<p> <hi>Praeposito tanquam Patri obediatur, multo magis
+presbytero qui omnium vestrum curam gerit.</hi> </p>
+<p>Obedientia sola virtus est quae caeteras virtutes
+inserit menti, insertasque custodit. Samuel: <hi>Melior
+<pb n="0920A"/>
+est obedientia quam victima <note>(I Reg. XV)</note>
+          </hi>; quia per
+victimas aliena caro, per obedientiam vero voluntas
+propria religatur. Salomon: <hi>Vir obediens</hi> loquitur
+victorias <note>(Prov. XXI)</note>, quia dum voci alienae humiliter
+subdimur, nos in corde superamus. Nobis quippe
+obedientia usque ad mortem servanda praecipitur.
+Per obedientiam malum nunquam fieri, aliquando
+autem etiam debet per obedientiam bonum quod
+agitur, intermitti. Sed quia nonnunquam nec jubentur
+adversa, sciendum summopere est quod obedientia
+aliquando si de suo habeat aliquid, nulla est,
+aliquando autem si de suo non habeat aliquid,
+minima est. Nam cum hujus mundi successus praecipitur,
+cum locus superior imperatur, is qui ad percipienda
+haec ex proprio desiderio anhelat, obedientiae
+<pb n="0920B"/>
+sibi virtutem evacuat. Rursum cum mundi
+despectus praecipitur, cum probra et contumeliae
+adipisci jubentur, nisi haec ex semetipso animus
+appetat, obedientiae sibi meritum minuit, quia ad ea
+quae in hac vita despecta sunt, invitus nolensque
+descendit. Debet ergo et obedientia in adversis aliquid
+ex suo habere, et rursum in prosperis ex suo
+aliquid omnino non habere, quatenus et in adversis
+tanto sit gloriosior, quanto divino ordini etiam ex
+desiderio jungitur, et in prosperis tanto sit vilior,
+quanto a praesenti ipsa, quam divinitus percipit,
+gloria funditus ex mente separatur. Innocuis autem
+mentibus ornamentum semper obedientiae jungitur,
+Domino attestante qui ait: <hi>Oves meae vocem meam
+audiunt, et ego agnosco eas, et sequuntur me <note>(Joan. X)</note>
+          </hi>.
+<pb n="0920C"/>
+Profecto Redemptori obedit qui innocens est; et
+innocens esse non potest qui obedire contemnit.</p>
+<p> <hi>Ut ergo cuncta ista serventur, et si quid minus servatum
+fuerit non negligenter praetereatur, sed ut emendandum
+corrigendumque curetur, ad praepositum
+praecipue pertinebit, ut ad presbyterum, cujus est
+apud vos major auctoritas, referat quod modum vel
+vires ejus excedit.</hi> </p>
+<p>Ad hoc quidem data sunt ista regularia praecepta
+ut cuncta serventur, et si quid minus servatum fuerit,
+oportet ut cito emendetur. Non enim possumus
+aliquid praeterire negligenter sine periculo animae
+nostrae. Etenim vovimus specialiter tenere, et secundum
+ea vivere juravimus. Et Psalmista ait: <hi>Tu mandasti
+mandata tua custodiri nimis <note>(Psal. CXVIII)</note>
+          </hi>. Et
+<pb n="0920D"/>
+apostolus Jacobus: <hi>Si quis autem totam legem servaverit,
+offendat autem in uno, factus est omnium reus <note>(Jac. II)</note>
+          </hi>.
+Pertinebit ergo ad praepositum et ad eum
+qui custos est ordinis, ut ad presbyterum cui major
+est auctoritas, id est ad abbatem referat quidquid
+per se secundum canonicam regulam non potest
+definire. Quod si in congregatione ubi est ordo canonicus
+non est abbas sed episcopus, ipse episcopus
+presbyteri nomine designatur. Ad hoc enim praelati
+constituti sunt in Ecclesia ut bene ordinata custodiant,
+errata corrigant, vitam et mores subditorum
+verbo et exemplo componant, Apostoli formam
+sectantes qui ait: <hi>Argue, obsecra, increpa <note>(I Tim. IV)</note>
+          </hi>.
+Immiscentes temporibus tempora, terroribus blandimenta,
+<pb n="0921A"/>
+indisciplinatos et inquietos debent durius
+arguere, obedientes, mites et patientes ut in melius
+proficiant obsecrare. Negligentes, contemnentes, et
+superbos aut increpent aut puniant. Neque dissimulent
+peccata delinquentium, sed mox ut coeperint
+oriri, radicitus ut praevalent, amputent, memores
+periculi Heli sacerdotis de filiis suis. Honestiores
+atque intelligibiliores prima et secunda admonitione
+corripiant; improbos et duros corde, superbos et
+inobedientes verbere et castigatione coerceant, reducentes
+illud in memoriam: Stultus verbo non corrigitur,
+percute filium tuum virga, et liberabis
+animam ejus a morte <note>(Prov. XXIII)</note>.</p>
+<p> <hi>Ipse vero qui vobis praeest non se existimet potestate
+dominante, sed charitate serviente felicem.</hi> </p>
+<p>
+          <pb n="0921B"/>Nam qui ita praesunt ut gaudeant de potestate
+dominii, non sunt veri pastores, sed mercenarii; hi
+magis praeesse appetunt quam prodesse, non quaerunt
+animarum fructum, sed temporale lucrum; non
+coelestem gloriam, sed terrenum honorem. De talibus
+ait Dominus in Evangelio: <hi>Amen dico vobis, receperunt
+mercedem suam <note>(Matth. VI)</note>
+          </hi>. Qui vero ita
+praesunt ut gaudeant de servitute charitatis, ipsi
+tenent exemplum veri pastoris, qui non venit ministrari
+sed ministrare et animam suam dare redemptionem
+pro multis. Illi vere praelati sunt et secundum
+Deum curam regiminis agunt, qui ad hoc tantum
+laborant, ut plures ad Deum secum trahant,
+quos delectat onus non honor, charitas non potestas,
+servitus impensa aliis, non suscepta ab aliis.
+<pb n="0921C"/>
+Juxta quod Apostolus ait: <hi>Cum essem liber in omnibus,
+omnium me servum feci, ut omnes lucrifacerem <note>(I Cor. IX)</note>
+          </hi>.
+Qui tamen propter auctoritatem regiminis
+honorandus est a subditis. Unde et subditur:</p>
+<p> <hi>Honore coram vobis praelatus sit vobis.</hi> </p>
+<p>Ideo scilicet, honorari debet, quia Christi vocem
+in monasterio tenet. Unde et ipse Dominus pastoribus
+ait: <hi>Qui vos audit me audit, et qui vos spernit me
+spernit <note>(Luc. X)</note>
+          </hi>. Debent ergo servi Dei suum honorare
+magistrum, cujus pro amore Dei supra se susceperunt
+magisterium. Qui tamen quanto plus honoratur exterius,
+tanto oportet ut amplius timeat, atque semetipsum
+despiciens eos a quibus honor impenditur sibi
+in cogitatione praeponat. Unde subjectum est:</p>
+<p>
+          <pb n="0921D"/> <hi>Timore coram Deo sit substratus pedibus vestris.</hi> </p>
+<p>Hinc scriptum est: <hi>Quanto major es, humilia te
+in omnibus <note>(Eccli. III)</note>
+          </hi>. Et iterum: Fili, te ducem constituerunt, <hi>noli extolli,</hi> 
+ sed <hi>esto in</hi> eis <hi>quasi unus ex</hi> 
+illis <note>(Eccli. XXXII)</note>. Et Dominus in Evangelio: <hi>Omnis
+qui se exaltat humiliabitur, et qui se humiliat exaltabitur <note>(Luc. XVIII)</note>
+          </hi>.
+Tanto quippe est major quisque
+apud Deum, quanto humilior fuerit apud semetipsum.
+Sed qualis debeat esse in moribus audiamus.</p>
+<p> <hi>Circa omnes seipsum bonorum operum praebeat
+exemplum.</hi> </p>
+<p>Sicut enim praecellit honore et dignitate et ordine,
+ita eos praecedere debet sanctitate, ut ejus exemplo
+discant subditi qualiter vivere debeant.</p>
+<p>
+          <pb n="0922A"/> <hi>Corripiat inquietos, consoletur pusillanimes, suscipiat
+infirmos, patiens sit ad omnes.</hi> </p>
+<p>Qui locum tenet regiminis, mala inferre non debet
+sed tolerare, ut ex sua mansuetudine iracundos
+valeat mitigare. Quia medicus animarum contra
+passiones vitiorum debet opponere medicamenta virtutum,
+ita scilicet ut prius mores omnium diligenter
+inquirat, ut quid cuique inferre debeat agnoscat.</p>
+<p> <hi>Disciplinam libens habeat, metuendus imponat. Et
+quamvis utrumque sit necessarium, tamen plus a vobis
+amari appetat quam timeri, semper cogitans Deo
+se pro vobis redditurum esse rationem.</hi> </p>
+<p>Oportet ut doctor ecclesiasticus sapiens sit et disciplinatus,
+quia tunc aliis recte disciplinam imponit,
+cum ipse disciplinate vivit, cum ex seipso trahit
+<pb n="0922B"/>
+magisterium quod exercet in alio. Verba sunt Apostoli
+dicentis ad Hebraeos: <hi>In disciplina perseverate,
+tanquam filiis offert se vobis Deus. Et quis filius quem
+non corripit pater? <note>(Hebr. XII.)</note>
+          </hi> Sunt autem haec duo
+necessaria ut rector suis exhibeat subditis, timorem
+scilicet et amorem. Timorem iis qui superbi hac rebelles
+et durae mentis sunt. Amorem vero eis qui
+libenter, humiliter et devote serviunt Domino
+Deo.</p>
+<p> <hi>Et quamvis utrumque sit necessarium, tamen plus
+a vobis amari appetat quam timeri.</hi> </p>
+<p>Quia praelatus, quanto plus diligitur, tanto plus auditur.
+Et magis placet Deo illa servitus, quae ex
+voluntate et amore fit, quam illa quae fit ex timore.
+Propterea dulcis magister discipulis suis ait: <hi>Jam
+<pb n="0922C"/>
+non dicam vos servos, sed amicos <note>(Joan. XV)</note>
+          </hi>. Non enim
+vult Dominus ut eum tanquam Dominum timeamus,
+sed vult ut eum diligamus tanquam patrem filii,
+et ut praecepta ejus faciamus, non timore poenae sed
+amore justitiae. Hoc semper autem cogitare debet
+qui judex est animarum, quia super se judicem habet
+Deum, ut regiminis curam tanto sollicitus agat,
+quanto strictius se redditurum rationem pro sibi
+commissis apud districtum judicem pensat. Valde
+enim sollicitus debet esse quisque in bono opere, ut
+in cunctis quae agit semper cogitet de extremo fine.
+Unde scriptum est: <hi>In omnibus operibus tuis memorare
+novissima tua, et in aeternum non peccabis <note>(Eccli.
+VII)</note>
+          </hi>.</p>
+<p> <hi>Unde vos magis obediendo non solum vestri, sed etiam
+<pb n="0922D"/>
+ipsius miseremini, qui inter vos quanto in loco superiori,
+tanto in majori periculo versatur.</hi> </p>
+<p>In periculo magno versatur, quisquis in regiminis
+loco sublimatur. Nam quanto superior gradus, tanto
+periculosior casus, et cui plus committitur, plus ab
+eo exigitur. Grande periculum est sibi et aliis vivere,
+temporalia simul et spiritualia providere. Sic
+debet sui curam agere, ut alios non negligat, sic de
+aliis cogitare, ut semetipsum obliviscendo non derelinquat;
+sic temporalia procurare, ut non refrigescat
+a spiritualibus. Sic inardescere ad spiritualia, ut sit
+sollicitus de temporalibus. Inde ergo magis subditi
+praelato obedire debent, unde magis eum pro ipsis vident
+laborare. Quod cum faciunt non sui, sed etiam
+<pb n="0923A"/>
+ipsius magis obediendo miserentur. Sui videlicet;
+quia animas suas salvant. Scriptum est enim: <hi>Miserere
+animae tuae placens Deo <note>(Eccli. XXX)</note>
+          </hi>. Ipsius quoque
+qui praeest miserentur; quia onus ejus alleviant
+obediendo. Cum enim scriptum sit: <hi>Filius sapiens
+laetificat patrem <note>(Prov. X)</note>
+          </hi>; tanto plus gaudent et liberius
+laborant Patres spirituales pro filiis, quanto
+magis eos vident spiritualibus obtemperare disciplinis.</p>
+<p> <hi>Donet Dominus ut observetis haec omnia tanquam
+spiritualis pulchritudinis amatores, et bono Christi
+odore de bona conversatione fragrantes, non sicut
+servi sub lege, sed sicut filii sub gratia constituti.</hi> </p>
+<p>Apte subditur post lectionem oratio. Sic enim
+est legere et praedicare, quomodo agrum seminare;
+<pb n="0923B"/>
+sic orare, quomodo semen operire. Sicut qui seminant
+in agro si hoc operire dissimulaverint, veniunt
+volucres, et totum quod seminatum esse videbatur
+diripiunt; ita quidem isti qui in agro sui cordis semina
+verbi. Dei psallendo, legendo, praedicando,
+asperserint, nisi postea orando in corde recluserint
+et quodammodo sepelierint, veniunt volucres, id est
+cogitationes hujus saeculi volatiles inanes et vacuae,
+et rapiunt quod in corde fuerit seminatum. Ideo post
+lectionem et praedicationem semper orandum est, ut
+virtus verbi Dei maneat in corde, et fructus spiritualis
+crescat in operatione. Bene autem ait:</p>
+<p> <hi>Tanquam spiritualis pulchritudinis amatores.</hi> </p>
+<p>Non enim possunt implere haec omnia regularia
+praecepta nisi per amorem justitiae, quae est spiritualis
+<pb n="0923C"/>
+pulchritudo animae. Nemo enim invitus bene
+agit, etiam si bonum est quod agit. Quod vero
+subdit:</p>
+<p> <hi>Et bono Christi odore de bona conversatione fragrantes.</hi> </p>
+<p>Pertinet ad bonam vitam et bonam famam. Unde
+Apostolus: <hi>Christi bonus odor sumus Deo in omni
+loco <note>(II Cor. II)</note>
+          </hi>. Servi sunt sub lege, qui ex timore
+Domino serviunt; liberi sub gratia, qui ex amore
+implent divina mandata. <hi>Gratia Dei diffusa est in
+cordibus nostris per Spiritum sanctum qui datus est
+nobis <note>(Rom. V)</note>
+          </hi>: implet legem: <hi>Justo non est lex posita <note>(I Tim. I)</note>
+          </hi>;
+ <hi>ubi enim spiritus Domini, ibi libertas <note>(II Cor. III)</note>
+          </hi>.
+Sic autem viam mandatorum Dei curremus
+libere, si dilatatum cor nostrum in charitate
+<pb n="0923D"/>
+Dei habeamus.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XII. DE JUGI MEDITATIONE REGULAE.</head>
+<p> <hi>Ut autem vos in hoc libello tanquam in speculo possitis
+<pb n="0924A"/>
+inspicere, ne per oblivionem aliquid negligatis,
+semel in septimana vobis legatur.</hi> </p>
+<p>Ideo legi praecipitur, quatenus memoriter frequenter
+teneatur. Beatus enim Jacobus dixit: <hi>Qui perspexerit
+in lege perfectae libertatis, et manserit in ea,
+non auditor obliviosus factus sed factor operis; hic
+beatus in facto suo erit <note>(Jac. I)</note>
+          </hi>. Et bene hunc libellum
+dicit speculum; quia in eo tanquam in speculo inspicere
+possumus quales sumus, sive pulchri, sive foedi,
+sive justi, sive injusti; utrum quisquam nostrum regulariter
+vivat; utrum proficiat, an deficiat; utrum Deo
+placeat an displiceat. Scriptura quippe nobis sacra
+nostram interiorem repraesentat imaginem; ostendit
+quid formosum, quid deforme sit in anima, et qualiter
+pulchritudo justitiae debeat observari, qualiter
+<pb n="0924B"/>
+debeat virtutum decor componi; quomodo vitiorum
+macula debeat abstergi. Pravorum usus est mala
+semper tegere, et quae egerint nunquam retractare.
+Quidquid faciunt caeca mente pertranseunt. At contra
+sancti viri in Scripturis sacris quotidie non cessant
+inspicere vitam suam, moresque suos vigilanter
+pensare. Et si quid deforme vel incompositum aut
+inordinatum invenerint, mox quod secundum scriptum
+vident, reformare et componere se student:
+quatenus sancti et immaculati coram Deo tam in
+corpore inveniantur quam in anima. Ideo Psalmista
+ait: <hi>Tunc non confundar cum perspexero in omnibus
+mandatis tuis <note>(Psal. CXVIII)</note>
+          </hi>. Et Apostolus admonet,
+dicens: <hi>Renovamini spiritu mentis vestrae <note>(Ephes IV)</note>
+          </hi>.
+Et iterum: <hi>Noster homo interior renovatur de die in
+<pb n="0924C"/>
+diem <note>(II Cor. IV)</note>
+          </hi>. Unde aperte subjungitur:</p>
+<p> <hi>Et ubi vos inveneritis ea quae scripta sunt facientes,
+agite gratias Deo bonorum omnium largitori.</hi> </p>
+<p>Gratiarum actiones Patri <hi>luminum</hi> semper a nobis
+debentur, a quo <hi>omne datum optimum et omne donum
+perfectum <note>(Jac. I)</note>
+          </hi>. Scriptura teste descendit. Nemo
+est enim donis Dei beatus qui donanti existit ingratus.
+Et Apostolus: <hi>Quid habes quod non accepisti? <note>(I Cor. IV.)</note>
+          </hi> 
+ Merito ergo Domino Deo nostro gratias
+agere admonemur, ut agnoscat homo si quis bene
+vivit gratia Dei se habere, et ut proficiatur in dilectione
+justitiae non aliunde consecuturum. Quae cogitatio
+pium facit. Ipsa est enim sapientia quae pietas
+vocatur, qua colitur Pater luminum. Colitur autem
+sacrificio laudis gratiarumque actionibus, ut
+<pb n="0924D"/>
+cultor ejus non in seipso sed in Domino glorietur.</p>
+<p> <hi>Ubi autem sibi quicunque vestrum videt aliquid
+deesse, doleat de praeterito, caveat de futuro, orans ut
+ei debitum dimittatur, et in tentationem non inducatur.</hi> 
+</p>
+
+</div2>
+    </body>
+  </text>
+</TEI>
