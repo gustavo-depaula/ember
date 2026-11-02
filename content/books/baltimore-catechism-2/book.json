@@ -1,0 +1,270 @@
+{
+  "id": "baltimore-catechism-2",
+  "cover": "label",
+  "name": {
+    "en-US": "Baltimore Catechism No. 2",
+    "pt-BR": "Catecismo de Baltimore nº 2"
+  },
+  "author": {
+    "en-US": "Third Plenary Council of Baltimore",
+    "pt-BR": "Terceiro Concílio Plenário de Baltimore"
+  },
+  "description": {
+    "en-US": "A Catechism of Christian Doctrine, No. 2, prepared and enjoined by order of the Third Plenary Council of Baltimore (1884; approved 6 April 1885). The full text for confirmation classes: 37 lessons and 421 numbered questions and answers, with the common prayers, devotions for Mass, confession and communion, the Rosary and the Stations of the Cross.",
+    "pt-BR": "Catecismo da Doutrina Cristã nº 2, preparado por ordem do Terceiro Concílio Plenário de Baltimore (1884; aprovado em 6 de abril de 1885). O texto completo para as classes de crisma: 37 lições e 421 perguntas e respostas numeradas, com as orações comuns, devoções para a Missa, a confissão e a comunhão, o Rosário e a Via Sacra."
+  },
+  "composed": 1885,
+  "languages": [
+    "en-US"
+  ],
+  "work": "third-plenary-council-of-baltimore/catechism",
+  "editions": {
+    "en-US": {
+      "editor": "Third Plenary Council of Baltimore",
+      "year": 1885
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/14552",
+      "description": "Project Gutenberg #14552, 'A Catechism of Christian Doctrine, No. 2: for Confirmation Classes' (transcription by Dennis McCarthy from catholic.net files). Text of 1885 (approved 6 April 1885 by Cardinal McCloskey and Archbishop Gibbons), transcribed from a printing of 1922-1929 at the latest (the closing devotions cite a decree of 4 Aug 1922). Tier A: public domain in the United States (1885 text; all printings of 1929 or earlier). The Mass and devotions appendix is the printing's own and may be a later booklet text within that window; its date is not independently verified. Transcriber's notes and the Gutenberg licence removed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prayers",
+      "title": {
+        "en-US": "Prayers"
+      }
+    },
+    {
+      "id": "lesson-01",
+      "title": {
+        "en-US": "Lesson 1 — On the End of Man"
+      }
+    },
+    {
+      "id": "lesson-02",
+      "title": {
+        "en-US": "Lesson 2 — On God and His Perfections"
+      }
+    },
+    {
+      "id": "lesson-03",
+      "title": {
+        "en-US": "Lesson 3 — On the Unity and Trinity of God"
+      }
+    },
+    {
+      "id": "lesson-04",
+      "title": {
+        "en-US": "Lesson 4 — On Creation"
+      }
+    },
+    {
+      "id": "lesson-05",
+      "title": {
+        "en-US": "Lesson 5 — On Our First Parents and the Fall"
+      }
+    },
+    {
+      "id": "lesson-06",
+      "title": {
+        "en-US": "Lesson 6 — On Sin and its Kinds"
+      }
+    },
+    {
+      "id": "lesson-07",
+      "title": {
+        "en-US": "Lesson 7 — On the Incarnation and Redemption"
+      }
+    },
+    {
+      "id": "lesson-08",
+      "title": {
+        "en-US": "Lesson 8 — On Our Lord's Passion, Death, Resurrection, and Ascension"
+      }
+    },
+    {
+      "id": "lesson-09",
+      "title": {
+        "en-US": "Lesson 9 — On the Holy Ghost and His Descent upon the Apostles"
+      }
+    },
+    {
+      "id": "lesson-10",
+      "title": {
+        "en-US": "Lesson 10 — On the Effects of the Redemption"
+      }
+    },
+    {
+      "id": "lesson-11",
+      "title": {
+        "en-US": "Lesson 11 — On the Church"
+      }
+    },
+    {
+      "id": "lesson-12",
+      "title": {
+        "en-US": "Lesson 12 — On the Attributes and Marks of the Church"
+      }
+    },
+    {
+      "id": "lesson-13",
+      "title": {
+        "en-US": "Lesson 13 — On the Sacraments in General"
+      }
+    },
+    {
+      "id": "lesson-14",
+      "title": {
+        "en-US": "Lesson 14 — On Baptism"
+      }
+    },
+    {
+      "id": "lesson-15",
+      "title": {
+        "en-US": "Lesson 15 — On Confirmation"
+      }
+    },
+    {
+      "id": "lesson-16",
+      "title": {
+        "en-US": "Lesson 16 — On the Gifts and Fruits of the Holy Ghost"
+      }
+    },
+    {
+      "id": "lesson-17",
+      "title": {
+        "en-US": "Lesson 17 — On the Sacrament of Penance"
+      }
+    },
+    {
+      "id": "lesson-18",
+      "title": {
+        "en-US": "Lesson 18 — On Contrition"
+      }
+    },
+    {
+      "id": "lesson-19",
+      "title": {
+        "en-US": "Lesson 19 — On Confession"
+      }
+    },
+    {
+      "id": "lesson-20",
+      "title": {
+        "en-US": "Lesson 20 — On the Manner of Making A Good Confession"
+      }
+    },
+    {
+      "id": "lesson-21",
+      "title": {
+        "en-US": "Lesson 21 — On Indulgences"
+      }
+    },
+    {
+      "id": "lesson-22",
+      "title": {
+        "en-US": "Lesson 22 — On the Holy Eucharist"
+      }
+    },
+    {
+      "id": "lesson-23",
+      "title": {
+        "en-US": "Lesson 23 — On the Ends for Which the Holy Eucharist Was Instituted"
+      }
+    },
+    {
+      "id": "lesson-24",
+      "title": {
+        "en-US": "Lesson 24 — On the Sacrifice of the Mass"
+      }
+    },
+    {
+      "id": "lesson-25",
+      "title": {
+        "en-US": "Lesson 25 — On Extreme Unction and Holy Orders"
+      }
+    },
+    {
+      "id": "lesson-26",
+      "title": {
+        "en-US": "Lesson 26 — On Matrimony"
+      }
+    },
+    {
+      "id": "lesson-27",
+      "title": {
+        "en-US": "Lesson 27 — On the Sacramentals"
+      }
+    },
+    {
+      "id": "lesson-28",
+      "title": {
+        "en-US": "Lesson 28 — On Prayer"
+      }
+    },
+    {
+      "id": "lesson-29",
+      "title": {
+        "en-US": "Lesson 29 — On the Commandments of God"
+      }
+    },
+    {
+      "id": "lesson-30",
+      "title": {
+        "en-US": "Lesson 30 — On the First Commandment"
+      }
+    },
+    {
+      "id": "lesson-31",
+      "title": {
+        "en-US": "Lesson 31 — The First Commandment--On the Honor and Invocation of Saints"
+      }
+    },
+    {
+      "id": "lesson-32",
+      "title": {
+        "en-US": "Lesson 32 — From the Second to the Fourth Commandment"
+      }
+    },
+    {
+      "id": "lesson-33",
+      "title": {
+        "en-US": "Lesson 33 — From the Fourth to the Seventh Commandment"
+      }
+    },
+    {
+      "id": "lesson-34",
+      "title": {
+        "en-US": "Lesson 34 — From the Seventh to the End of the Tenth Commandment"
+      }
+    },
+    {
+      "id": "lesson-35",
+      "title": {
+        "en-US": "Lesson 35 — On the First and Second Commandments of the Church"
+      }
+    },
+    {
+      "id": "lesson-36",
+      "title": {
+        "en-US": "Lesson 36 — On the Third, Fourth, Fifth and Sixth Commandments of the Church"
+      }
+    },
+    {
+      "id": "lesson-37",
+      "title": {
+        "en-US": "Lesson 37 — On the Last Judgment and the Resurrection, Hell, Purgatory, and Heaven"
+      }
+    },
+    {
+      "id": "mass-confession-devotions",
+      "title": {
+        "en-US": "The Mass, Confession, Communion and Devotions"
+      }
+    }
+  ]
+}
