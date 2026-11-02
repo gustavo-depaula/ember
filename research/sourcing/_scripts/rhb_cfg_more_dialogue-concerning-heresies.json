@@ -1,0 +1,21 @@
+{
+ "id": "more-dialogue-concerning-heresies",
+ "dir": "more-opera-omnia/dialogue-concerning-heresies",
+ "slug": "dialogue-concerning-heresies",
+ "work": "more/dialogue-concerning-heresies",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07698.xml",
+ "name": "A Dialogue concerning Heresies",
+ "name_pt": "Um Diálogo sobre as Heresias",
+ "desc": "More's first English polemic against Tyndale and Luther (1529), a dialogue between More and a messenger sent by a friend, in four books on the authority of the Church, images, relics, pilgrimages, miracles and the translation of the Bible.",
+ "desc_pt": "A primeira polêmica inglesa de More contra Tyndale e Lutero (1529), um diálogo entre More e um mensageiro, em quatro livros sobre a autoridade da Igreja, as imagens, relíquias, peregrinações, milagres e a tradução da Bíblia.",
+ "composed": 1529,
+ "editor": "Thomas More (London: John Rastell, 1529)",
+ "year": 1529,
+ "url": "https://github.com/textcreationpartnership/A07698",
+ "edition": "A dyaloge of syr Thomas More knyghte (London: 1529), EEBO-TCP A07698.",
+ "front": true,
+ "parts": true
+}
