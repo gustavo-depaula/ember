@@ -1,0 +1,144 @@
+{
+  "id": "gertrude-legatus-1",
+  "cover": "classic",
+  "name": {
+    "la": "Legatus divinae pietatis, liber I",
+    "en-US": "The Herald of Divine Love, Book I",
+    "pt-BR": "O Arauto do Amor Divino, Livro I"
+  },
+  "author": {
+    "la": "Gertrudis Magna",
+    "en-US": "St. Gertrude the Great",
+    "pt-BR": "Santa Gertrudes, a Grande"
+  },
+  "description": {
+    "la": "Liber primus: vita et virtutes Gertrudis, scripti ab una ex sororibus Helftensibus; commendatio personae, testimonia gratiae, signa caelestia.",
+    "en-US": "Book I, written by a sister of Helfta: the life and virtues of Gertrude, the witnesses of grace and the heavenly signs.",
+    "pt-BR": "Livro I, escrito por uma irmã de Helfta: vida e virtudes de Gertrudes, os testemunhos da graça e os sinais celestes."
+  },
+  "composed": "c. 1289-1302",
+  "languages": [
+    "la"
+  ],
+  "work": "gertrude/legatus-1",
+  "editions": {
+    "la": {
+      "editor": "Solesmes Benedictines (L. Paquelin)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.intratext.com/IXT/LAT0714/",
+      "edition": "Revelationes Gertrudianae ac Mechtildianae, vol. I, Poitiers/Paris: H. Oudin, 1875 (Solesmes edition), as transcribed in IntraText LAT0714.",
+      "description": "IntraText edition (EuloTech 2007), Books I-II only. The edition's [p. N] page marks are dropped and the paragraph numbers [N] become paragraph breaks (research/sourcing/_scripts/gertrude_legatus12.py).",
+      "tier": "B",
+      "tierEvidence": "IntraText is licensed under a Creative Commons license; the underlying 1875 text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput 1: De commendatione personae"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput 2: De testimoniis gratiae"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput 3: De secundo teste"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput 4: De tertio teste"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput 5: De indiciis et ornatu intellectualis coeli"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput 6: De constantia justitiae"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput 7: De zelo quem habuit ad salutem animarum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput 8: De compassiva ipsius charitate"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput 9: De mira continentia ipsius"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput 10: De dono confidentiae quo mirifice claruit"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput 11: De virtute humilitatis, caeterisque pluribus inimul positis"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput 12: De evidentioribus testimoniis coeli intellectualis"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput 13: De aliquibus miraculis insimul exempli causa positis"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput 14: De specialibus privilegiis sibi a Deo collatis"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput 15: De eo quod Dominus eam coegit ad praescripta"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput 16: De evidentioribus testimoniis quibus eam Dominus per aliorum revelationes certificavit."
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput 17: De familiariiori approximatione ipsius ad Deum"
+      }
+    }
+  ]
+}

@@ -38,3 +38,10 @@ def write_book(bookdir, meta, chapters):
 def words(path):
     import glob
     return sum(len(open(f).read().split()) for f in glob.glob(path + '/*.md'))
+
+GAUTH = {'la': 'Gertrudis Magna', 'en-US': 'St. Gertrude the Great', 'pt-BR': 'Santa Gertrudes, a Grande'}
+
+def book_meta(id, work, names, descs, composed, langs, editions, sources, toc, author=None, cover='classic'):
+    return {'id': id, 'cover': cover, 'name': names, 'author': author or GAUTH, 'description': descs,
+            'composed': composed, 'languages': langs, 'work': work, 'editions': editions,
+            'sources': sources, 'toc': toc}
