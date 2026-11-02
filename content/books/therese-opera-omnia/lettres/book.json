@@ -1,0 +1,1822 @@
+{
+  "id": "therese-lettres",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "fr-FR": "Sainte Thérèse de l’Enfant-Jésus",
+    "en-US": "St. Thérèse of Lisieux",
+    "pt-BR": "Santa Teresinha do Menino Jesus"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Thérèse (LT 1–266, avec leurs bis, fragments et variantes), de son premier billet à sa marraine de la Visitation, à quatre ans, aux dernières lettres à l’abbé Bellière en août 1897 : à ses sœurs Pauline, Marie, Céline et Léonie, à ses cousines Guérin, à ses deux frères spirituels, les abbés Bellière et Roulland, et à ses sœurs du Carmel. Classées par année d’après la numérotation de l’édition du Centenaire, texte authentique des archives du Carmel de Lisieux.",
+    "en-US": "Thérèse’s letters (LT 1–266, with their bis numbers, fragments and variants), from her first note to her cousins at the age of four to her last letters to Abbé Bellière in August 1897: to her sisters Pauline, Marie, Céline and Léonie, her Guérin cousins, her two spiritual brothers, Abbés Bellière and Roulland, and her sisters in Carmel. Arranged by year following the numbering of the Centenary edition; the authentic text from the archives of the Carmel of Lisieux.",
+    "pt-BR": "As cartas de Teresinha (LT 1–266, com os números bis, fragmentos e variantes), do primeiro bilhete, aos quatro anos, às últimas cartas ao abade Bellière em agosto de 1897: às irmãs Paulina, Maria, Celina e Leônia, às primas Guérin, aos dois irmãos espirituais, os abades Bellière e Roulland, e às irmãs do Carmelo. Organizadas por ano segundo a numeração da edição do Centenário."
+  },
+  "composed": "1877–1897",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "therese-of-lisieux/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Carmel de Lisieux (Nouvelle Édition du Centenaire)",
+      "year": 1992
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archives.carmeldelisieux.fr/correspondance/",
+      "edition": "Archives du Carmel de Lisieux, section Correspondance: the 270 entries titled \"LT …\" (e.g. /correspondance/lt-247-a-labbe-belliere-21-juin-1897/), read through the site's WordPress REST API (wp-json/wp/v2/correspondance), post body text. The Nouvelle Édition du Centenaire text; words the editors supply in square brackets are kept. The other records of the section (letters to Thérèse and family letters) are not hers and are not included.",
+      "description": "Thérèse's letters only. Left out: the facsimile images and the links to articles on the site. The title of each chapter is the site's (recipient and date, spelling of the months normalised to lower case). Indented lines of the manuscript are paragraphs; the other line breaks are kept as breaks. Includes the notes by the recipient on the letter where the site prints them (LT 214).",
+      "tier": "A",
+      "tierEvidence": "Thérèse died in 1897; the letters were first published in 1948 and 1972-73 (Lettres, Cerf), so the 25-year right in posthumous works (CPI art. L123-4) ended long ago. The site states no terms (its mentions légales page is empty, checked 2026-11-01); the editors' notes are not part of the post text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lt-1877",
+      "title": {
+        "fr-FR": "1877"
+      },
+      "children": [
+        {
+          "id": "lt-001",
+          "title": {
+            "fr-FR": "LT 1. À Louise Magdelaine, 4 avril 1877"
+          }
+        },
+        {
+          "id": "lt-002",
+          "title": {
+            "fr-FR": "LT 2. À Jeanne et Marie Guérin, 12-17 avril 1877"
+          }
+        },
+        {
+          "id": "lt-003",
+          "title": {
+            "fr-FR": "LT 3. À Marie, 10-17 juin 1877"
+          }
+        },
+        {
+          "id": "lt-004",
+          "title": {
+            "fr-FR": "LT 4. À Marie Guérin, 16 septembre 1877"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1878",
+      "title": {
+        "fr-FR": "1878"
+      },
+      "children": [
+        {
+          "id": "lt-005",
+          "title": {
+            "fr-FR": "LT 5. À Pauline, 26 juin 1878"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1880",
+      "title": {
+        "fr-FR": "1880"
+      },
+      "children": [
+        {
+          "id": "lt-006",
+          "title": {
+            "fr-FR": "LT 6. À Pauline, 1er décembre 1880"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1881",
+      "title": {
+        "fr-FR": "1881"
+      },
+      "children": [
+        {
+          "id": "lt-007",
+          "title": {
+            "fr-FR": "LT 7. À Pauline, 4 juillet 1881"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1882",
+      "title": {
+        "fr-FR": "1882"
+      },
+      "children": [
+        {
+          "id": "lt-008",
+          "title": {
+            "fr-FR": "LT 8. À Céline. Fragments. 23 avril 1882"
+          }
+        },
+        {
+          "id": "lt-009",
+          "title": {
+            "fr-FR": "LT 9. À Mère Marie de Gonzague, Nov-Déc 1882"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1883",
+      "title": {
+        "fr-FR": "1883"
+      },
+      "children": [
+        {
+          "id": "lt-010",
+          "title": {
+            "fr-FR": "LT 10. À Céline, 29 avril 1883"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1884",
+      "title": {
+        "fr-FR": "1884"
+      },
+      "children": [
+        {
+          "id": "lt-011",
+          "title": {
+            "fr-FR": "LT 11. À soeur Agnès de Jésus, 1-6 mars 1884"
+          }
+        },
+        {
+          "id": "lt-012",
+          "title": {
+            "fr-FR": "LT 12. À Marie, 8 mai 1884"
+          }
+        },
+        {
+          "id": "lt-013",
+          "title": {
+            "fr-FR": "LT 13. À Céline, 8 mai 1884"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1885",
+      "title": {
+        "fr-FR": "1885"
+      },
+      "children": [
+        {
+          "id": "lt-014",
+          "title": {
+            "fr-FR": "LT 14. À Marie Guérin, 1883-1885"
+          }
+        },
+        {
+          "id": "lt-015",
+          "title": {
+            "fr-FR": "LT 15. À Céline, 1883-1885"
+          }
+        },
+        {
+          "id": "lt-016",
+          "title": {
+            "fr-FR": "LT 16. À Mme Guérin. (Fragments), 10-17 mai 1885"
+          }
+        },
+        {
+          "id": "lt-017",
+          "title": {
+            "fr-FR": "LT 17. À Marie, 21 mai 1885"
+          }
+        },
+        {
+          "id": "lt-018",
+          "title": {
+            "fr-FR": "LT 18. À M. Martin, 25 août 1885"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1886",
+      "title": {
+        "fr-FR": "1886"
+      },
+      "children": [
+        {
+          "id": "lt-019",
+          "title": {
+            "fr-FR": "LT 19. À Marie Guérin, 26 juin 1886"
+          }
+        },
+        {
+          "id": "lt-020",
+          "title": {
+            "fr-FR": "LT 20. À Marie Guérin, 15 juillet 1886"
+          }
+        },
+        {
+          "id": "lt-021",
+          "title": {
+            "fr-FR": "LT 21. À Marie, 2 octobre 1886"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1887",
+      "title": {
+        "fr-FR": "1887"
+      },
+      "children": [
+        {
+          "id": "lt-022",
+          "title": {
+            "fr-FR": "LT 22. À Céline, 31 mars 1887"
+          }
+        },
+        {
+          "id": "lt-023",
+          "title": {
+            "fr-FR": "LT 23. À Marie Guérin, 27 juin 1887"
+          }
+        },
+        {
+          "id": "lt-024",
+          "title": {
+            "fr-FR": "LT 24. À Jeanne Guérin, 27 juin 1887"
+          }
+        },
+        {
+          "id": "lt-025",
+          "title": {
+            "fr-FR": "LT 25. À Marie Guérin, 14 juillet 1887"
+          }
+        },
+        {
+          "id": "lt-026",
+          "title": {
+            "fr-FR": "LT 26. À Marie Guérin, 18 août 1887"
+          }
+        },
+        {
+          "id": "lt-027",
+          "title": {
+            "fr-FR": "LT 27. À soeur Agnès de Jésus, 8 octobre 1887"
+          }
+        },
+        {
+          "id": "lt-028",
+          "title": {
+            "fr-FR": "LT 28. Au P. Pichon, 23 octobre 1887"
+          }
+        },
+        {
+          "id": "lt-029",
+          "title": {
+            "fr-FR": "LT 29. À Léonie, 23-30 ( ?) octobre 1887"
+          }
+        },
+        {
+          "id": "lt-030",
+          "title": {
+            "fr-FR": "LT 30. À soeur Agnès de Jésus et soeur Marie du Sacré-Coeur, 6 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-031a",
+          "title": {
+            "fr-FR": "LT 31 A. À Marie Guérin, 10 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-031b",
+          "title": {
+            "fr-FR": "LT 31 B. À Marie Guérin, 14 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-032",
+          "title": {
+            "fr-FR": "LT 32. À Mme Guérin, 14 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-033",
+          "title": {
+            "fr-FR": "LT 33. À soeur Marie du Sacré-Coeur, 14 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-034",
+          "title": {
+            "fr-FR": "LT 34. À soeur Agnès de Jésus, 14 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-035",
+          "title": {
+            "fr-FR": "LT 35. À Marie Guérin, 19 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-036",
+          "title": {
+            "fr-FR": "LT 36. À soeur Agnès de Jésus, 20 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-037",
+          "title": {
+            "fr-FR": "LT 37. À Marie Guérin, 25 novembre 1887"
+          }
+        },
+        {
+          "id": "lt-038",
+          "title": {
+            "fr-FR": "LT 38. À Mgr Hugonin, 3-8 décembre 1887"
+          }
+        },
+        {
+          "id": "lt-039",
+          "title": {
+            "fr-FR": "LT 39. À l’abbé Révérony, 16 décembre 1887"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1888",
+      "title": {
+        "fr-FR": "1888"
+      },
+      "children": [
+        {
+          "id": "lt-040",
+          "title": {
+            "fr-FR": "LT 40. À Mgr Hugonin, début janvier 1888"
+          }
+        },
+        {
+          "id": "lt-041",
+          "title": {
+            "fr-FR": "LT 41. Au chanoine Delatroëtte, 13-30 janvier 1888"
+          }
+        },
+        {
+          "id": "lt-042",
+          "title": {
+            "fr-FR": "LT 42. À soeur Marie du Sacré-Coeur, 21 février 1888"
+          }
+        },
+        {
+          "id": "lt-043",
+          "title": {
+            "fr-FR": "LT 43. À soeur Agnès de Jésus, 18 (?) Mars1888"
+          }
+        },
+        {
+          "id": "lt-044",
+          "title": {
+            "fr-FR": "LT 44. À Mgr Hugonin, 27 mars 1888"
+          }
+        },
+        {
+          "id": "lt-045",
+          "title": {
+            "fr-FR": "LT 45. À soeur Agnès de Jésus, 27 mars 1888"
+          }
+        },
+        {
+          "id": "lt-046",
+          "title": {
+            "fr-FR": "LT 46. À Louis Martin, 29 avril 1888"
+          }
+        },
+        {
+          "id": "lt-047",
+          "title": {
+            "fr-FR": "LT 47. À Céline, 8 mai 1888"
+          }
+        },
+        {
+          "id": "lt-048",
+          "title": {
+            "fr-FR": "LT 48. À Louis Martin, 8 mai 1888"
+          }
+        },
+        {
+          "id": "lt-049",
+          "title": {
+            "fr-FR": "LT 49. À soeur Marie du Sacré-Coeur, 12-20 mai 1888"
+          }
+        },
+        {
+          "id": "lt-050",
+          "title": {
+            "fr-FR": "LT 50. À Marie Guérin, 13 mai 1888"
+          }
+        },
+        {
+          "id": "lt-051",
+          "title": {
+            "fr-FR": "LT 51. À Louis Martin, 17 mai (?) 1888"
+          }
+        },
+        {
+          "id": "lt-052",
+          "title": {
+            "fr-FR": "LT 52. À Louis Martin, mai-juin (?) 1888"
+          }
+        },
+        {
+          "id": "lt-053",
+          "title": {
+            "fr-FR": "LT 53. À Céline, 17 juin 1888"
+          }
+        },
+        {
+          "id": "lt-054",
+          "title": {
+            "fr-FR": "LT 54. À soeur Agnès de Jésus, 4 (?) juillet 1888"
+          }
+        },
+        {
+          "id": "lt-055",
+          "title": {
+            "fr-FR": "LT 55. À soeur Agnès de Jésus, 5-9 juillet 1888"
+          }
+        },
+        {
+          "id": "lt-056",
+          "title": {
+            "fr-FR": "LT 56. À soeur Agnès de Jésus, 11 juillet 1888"
+          }
+        },
+        {
+          "id": "lt-057",
+          "title": {
+            "fr-FR": "LT 57. À Céline, 23 juillet 1888"
+          }
+        },
+        {
+          "id": "lt-058",
+          "title": {
+            "fr-FR": "LT 58. À Louis Martin, 31 juillet 1888"
+          }
+        },
+        {
+          "id": "lt-059",
+          "title": {
+            "fr-FR": "LT 59. À Isidore Guérin, 22 août 1888"
+          }
+        },
+        {
+          "id": "lt-060",
+          "title": {
+            "fr-FR": "LT 60. À Mme Guérin, 23 août 1888"
+          }
+        },
+        {
+          "id": "lt-061",
+          "title": {
+            "fr-FR": "LT 61. À Louis Martin, 25 août 1888"
+          }
+        },
+        {
+          "id": "lt-062",
+          "title": {
+            "fr-FR": "LT 62. À Marie Guérin, septembre 1888"
+          }
+        },
+        {
+          "id": "lt-063",
+          "title": {
+            "fr-FR": "LT 63. À Louis Martin, 30 septembre 1888"
+          }
+        },
+        {
+          "id": "lt-064",
+          "title": {
+            "fr-FR": "LT 64. À Louis Martin, 8-15 octobre (?) 1888"
+          }
+        },
+        {
+          "id": "lt-065",
+          "title": {
+            "fr-FR": "LT 65. À Céline, 20 octobre 1888"
+          }
+        },
+        {
+          "id": "lt-066",
+          "title": {
+            "fr-FR": "LT 66. À Louis Martin, 15 novembre 1888"
+          }
+        },
+        {
+          "id": "lt-067",
+          "title": {
+            "fr-FR": "LT 67. À Mme Guérin, 18 novembre 1888"
+          }
+        },
+        {
+          "id": "lt-068",
+          "title": {
+            "fr-FR": "LT 68. À Louis Martin, 25 novembre 1888"
+          }
+        },
+        {
+          "id": "lt-069",
+          "title": {
+            "fr-FR": "LT 69. À Marie Guérin, novembre (?) 1888"
+          }
+        },
+        {
+          "id": "lt-070",
+          "title": {
+            "fr-FR": "LT 70. À Mère Saint-Placide, début décembre 1888"
+          }
+        },
+        {
+          "id": "lt-071",
+          "title": {
+            "fr-FR": "LT 71. À Mme Guérin, 28 décembre 1888"
+          }
+        },
+        {
+          "id": "lt-072",
+          "title": {
+            "fr-FR": "LT 72. À Louis Martin, 30 décembre 1888"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1889",
+      "title": {
+        "fr-FR": "1889"
+      },
+      "children": [
+        {
+          "id": "lt-073",
+          "title": {
+            "fr-FR": "LT 73. À Mme Guérin, 2 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-074",
+          "title": {
+            "fr-FR": "LT 74. À soeur Agnès de Jésus, 6 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-075",
+          "title": {
+            "fr-FR": "LT 75. À soeur Marie du Sacré-Coeur, 6 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-076",
+          "title": {
+            "fr-FR": "LT 76. À soeur Agnès de Jésus, 7 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-077",
+          "title": {
+            "fr-FR": "LT 77. À Louis Martin, 8 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-078",
+          "title": {
+            "fr-FR": "LT 78. À soeur Agnès de Jésus, 8 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-079",
+          "title": {
+            "fr-FR": "LT 79. À soeur Marie du Sacré-Coeur, 8 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-080",
+          "title": {
+            "fr-FR": "LT 80. À soeur Marthe de Jésus, 10 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-081",
+          "title": {
+            "fr-FR": "LT 81. À Céline, 23-25 janvier 1889"
+          }
+        },
+        {
+          "id": "lt-082",
+          "title": {
+            "fr-FR": "LT 82. à Celine, 28 février 1889"
+          }
+        },
+        {
+          "id": "lt-083",
+          "title": {
+            "fr-FR": "LT 83. À Céline, 5 mars 1889"
+          }
+        },
+        {
+          "id": "lt-084",
+          "title": {
+            "fr-FR": "LT 84. À Mme Guérin, 12 mars 1889"
+          }
+        },
+        {
+          "id": "lt-085",
+          "title": {
+            "fr-FR": "LT 85. À Céline, 12 mars 1889"
+          }
+        },
+        {
+          "id": "lt-086",
+          "title": {
+            "fr-FR": "LT 86. À Céline, 15 mars 1889"
+          }
+        },
+        {
+          "id": "lt-087",
+          "title": {
+            "fr-FR": "LT 87. À Céline, 4 avril 1889"
+          }
+        },
+        {
+          "id": "lt-088",
+          "title": {
+            "fr-FR": "LT 88. À Marie Guérin, 24 avril 1889"
+          }
+        },
+        {
+          "id": "lt-089",
+          "title": {
+            "fr-FR": "LT 89. À Céline, 26 avril 1889"
+          }
+        },
+        {
+          "id": "lt-090",
+          "title": {
+            "fr-FR": "LT 90. À Céline, 27 (?) avril 1889"
+          }
+        },
+        {
+          "id": "lt-091",
+          "title": {
+            "fr-FR": "LT 91. À soeur Marie du Sacré-Coeur, fin mai 1889"
+          }
+        },
+        {
+          "id": "lt-092",
+          "title": {
+            "fr-FR": "LT 92. À Marie Guérin, 30 mai 1889"
+          }
+        },
+        {
+          "id": "lt-093",
+          "title": {
+            "fr-FR": "LT 93. À Marie Guérin, 14 juillet 1889"
+          }
+        },
+        {
+          "id": "lt-094",
+          "title": {
+            "fr-FR": "LT 94. À Céline, 14 juillet 1889"
+          }
+        },
+        {
+          "id": "lt-095",
+          "title": {
+            "fr-FR": "LT 95. À soeur Agnès de Jésus, juillet-août (?) 1889"
+          }
+        },
+        {
+          "id": "lt-096",
+          "title": {
+            "fr-FR": "LT 96. À Céline, 15 octobre 1889"
+          }
+        },
+        {
+          "id": "lt-097",
+          "title": {
+            "fr-FR": "LT 97. À Mme Guérin, 15 octobre 1889"
+          }
+        },
+        {
+          "id": "lt-098",
+          "title": {
+            "fr-FR": "LT 98. À Céline, 22 octobre 1889"
+          }
+        },
+        {
+          "id": "lt-099",
+          "title": {
+            "fr-FR": "LT 99. À Mme Guérin, 18 novembre 1889"
+          }
+        },
+        {
+          "id": "lt-100",
+          "title": {
+            "fr-FR": "LT 100. À M. et Mme Guérin, le 30 décembre 1889"
+          }
+        },
+        {
+          "id": "lt-101",
+          "title": {
+            "fr-FR": "LT 101. À Céline, 31 décembre 1889"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1890",
+      "title": {
+        "fr-FR": "1890"
+      },
+      "children": [
+        {
+          "id": "lt-102",
+          "title": {
+            "fr-FR": "LT 102. À Céline, 27 avril 1890"
+          }
+        },
+        {
+          "id": "lt-103",
+          "title": {
+            "fr-FR": "LT 103. À soeur Agnès de Jésus, 4 (?) mai 1890"
+          }
+        },
+        {
+          "id": "lt-104",
+          "title": {
+            "fr-FR": "LT 104. À soeur Agnès de Jésus. (Fragments), 5-6 mai 1890"
+          }
+        },
+        {
+          "id": "lt-105",
+          "title": {
+            "fr-FR": "LT 105. À Céline, 10 mai 1890"
+          }
+        },
+        {
+          "id": "lt-106",
+          "title": {
+            "fr-FR": "LT 106. À soeur Agnès de Jésus, 10 mai 1890"
+          }
+        },
+        {
+          "id": "lt-107",
+          "title": {
+            "fr-FR": "LT 107. À Céline, 19-20 mai 1890"
+          }
+        },
+        {
+          "id": "lt-108",
+          "title": {
+            "fr-FR": "LT 108. À Céline, 18 juillet 1890"
+          }
+        },
+        {
+          "id": "lt-109",
+          "title": {
+            "fr-FR": "LT 109. À Marie Guérin, 27-29 juillet 1890"
+          }
+        },
+        {
+          "id": "lt-110",
+          "title": {
+            "fr-FR": "LT 110. À soeur Agnès de Jésus, 30-31 août 1890"
+          }
+        },
+        {
+          "id": "lt-111",
+          "title": {
+            "fr-FR": "LT 111. À soeur Marie du Sacré-Coeur, 30-31 août 1890"
+          }
+        },
+        {
+          "id": "lt-112",
+          "title": {
+            "fr-FR": "LT 112. À soeur Agnès de Jésus, 1 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-113",
+          "title": {
+            "fr-FR": "LT 113. À soeur Marie du Sacré-Coeur, 2-3 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-114",
+          "title": {
+            "fr-FR": "LT 114. À soeur Agnès de Jésus, 3 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-115",
+          "title": {
+            "fr-FR": "LT 115. À soeur Agnès de Jésus, 4 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-116",
+          "title": {
+            "fr-FR": "LT 116. À soeur Marie du Sacré-Coeur, 7 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-117",
+          "title": {
+            "fr-FR": "LT 117. À soeur Marie du Sacré-Coeur, 8 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-118",
+          "title": {
+            "fr-FR": "LT 118. «Lettre d’Invitation aux Noces de soeur Thérèse de l’Enfant Jésus de la Sainte Face », 8-20 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-119",
+          "title": {
+            "fr-FR": "LT 119. À soeur Marthe de Jésus, 23 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-120",
+          "title": {
+            "fr-FR": "LT 120. À Céline, 23 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-121",
+          "title": {
+            "fr-FR": "LT 121. À soeur Marie-Joseph de la Croix, 28 septembre 1890"
+          }
+        },
+        {
+          "id": "lt-122",
+          "title": {
+            "fr-FR": "LT 122. À Céline, 14 octobre 1890"
+          }
+        },
+        {
+          "id": "lt-123",
+          "title": {
+            "fr-FR": "LT 123. À Mme Guérin, 15 octobre 1890"
+          }
+        },
+        {
+          "id": "lt-124",
+          "title": {
+            "fr-FR": "LT 124. À Céline, 20 octobre 1890"
+          }
+        },
+        {
+          "id": "lt-125",
+          "title": {
+            "fr-FR": "LT 125. À Mme Guérin, 17 novembre 1890"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1891",
+      "title": {
+        "fr-FR": "1891"
+      },
+      "children": [
+        {
+          "id": "lt-126",
+          "title": {
+            "fr-FR": "LT 126. À Céline, 3 avril 1891"
+          }
+        },
+        {
+          "id": "lt-127",
+          "title": {
+            "fr-FR": "LT 127. À Céline, 26 avril 1891"
+          }
+        },
+        {
+          "id": "lt-128",
+          "title": {
+            "fr-FR": "LT 128. À soeur Marie du Sacré-Coeur, 5 juillet 1891"
+          }
+        },
+        {
+          "id": "lt-129",
+          "title": {
+            "fr-FR": "LT 129. À Céline, 8 juillet 1891"
+          }
+        },
+        {
+          "id": "lt-130",
+          "title": {
+            "fr-FR": "LT 130. À Céline, 23 juillet 1891"
+          }
+        },
+        {
+          "id": "lt-131",
+          "title": {
+            "fr-FR": "LT 131. À Jeanne La Néele (Jeanne Guérin), 17 octobre 1891"
+          }
+        },
+        {
+          "id": "lt-132",
+          "title": {
+            "fr-FR": "LT 132. À Céline, 20 octobre 1891"
+          }
+        },
+        {
+          "id": "lt-133",
+          "title": {
+            "fr-FR": "LT 133. À Mme Guérin, 16 novembre 1891"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1892",
+      "title": {
+        "fr-FR": "1892"
+      },
+      "children": [
+        {
+          "id": "lt-134",
+          "title": {
+            "fr-FR": "LT 134. À Céline, 26 avril 1892"
+          }
+        },
+        {
+          "id": "lt-135",
+          "title": {
+            "fr-FR": "LT 135. À Céline, 15 août 1892"
+          }
+        },
+        {
+          "id": "lt-136",
+          "title": {
+            "fr-FR": "LT 136. À Marie Guérin, 16 octobre 1892"
+          }
+        },
+        {
+          "id": "lt-137",
+          "title": {
+            "fr-FR": "LT 137. À Céline, 19 octobre 1892"
+          }
+        },
+        {
+          "id": "lt-138",
+          "title": {
+            "fr-FR": "LT 138. À Mme Guérin, 17 novembre 1892"
+          }
+        },
+        {
+          "id": "lt-139",
+          "title": {
+            "fr-FR": "LT 139. À M. et Mme Guérin, 30 décembre 1892"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1893",
+      "title": {
+        "fr-FR": "1893"
+      },
+      "children": [
+        {
+          "id": "lt-140",
+          "title": {
+            "fr-FR": "LT 140. À Mère Agnès de Jésus, 20 février 1893"
+          }
+        },
+        {
+          "id": "lt-141",
+          "title": {
+            "fr-FR": "LT 141. À Céline, 25 avril 1893"
+          }
+        },
+        {
+          "id": "lt-142",
+          "title": {
+            "fr-FR": "LT 142. À Céline, 6 juillet 1893"
+          }
+        },
+        {
+          "id": "lt-143",
+          "title": {
+            "fr-FR": "LT 143. À Céline, 18 juillet 1893"
+          }
+        },
+        {
+          "id": "lt-144",
+          "title": {
+            "fr-FR": "LT 144. À Céline, 23 juillet 1893"
+          }
+        },
+        {
+          "id": "lt-145",
+          "title": {
+            "fr-FR": "LT 145. À Céline, 2 août 1893"
+          }
+        },
+        {
+          "id": "lt-146",
+          "title": {
+            "fr-FR": "LT 146. À Mme Guérin, 10 août 1893"
+          }
+        },
+        {
+          "id": "lt-147",
+          "title": {
+            "fr-FR": "LT 147. À Céline, 13 août 1893"
+          }
+        },
+        {
+          "id": "lt-148",
+          "title": {
+            "fr-FR": "LT 148. À Léonie, 13 août 1893"
+          }
+        },
+        {
+          "id": "lt-149",
+          "title": {
+            "fr-FR": "LT 149. À Céline, 20 (?) octobre 1893"
+          }
+        },
+        {
+          "id": "lt-150",
+          "title": {
+            "fr-FR": "LT 150. À Mme La Néele, 22 octobre 93"
+          }
+        },
+        {
+          "id": "lt-151",
+          "title": {
+            "fr-FR": "LT 151. À Léonie, 5 novembre 1893"
+          }
+        },
+        {
+          "id": "lt-152",
+          "title": {
+            "fr-FR": "LT 152. À Mme Guérin, 17 novembre 1893"
+          }
+        },
+        {
+          "id": "lt-153",
+          "title": {
+            "fr-FR": "LT 153. À Isidore Guérin, décembre (?) 1893"
+          }
+        },
+        {
+          "id": "lt-154",
+          "title": {
+            "fr-FR": "LT 154. À Léonie, 27 décembre 1893"
+          }
+        },
+        {
+          "id": "lt-155",
+          "title": {
+            "fr-FR": "LT 155. À M. et Mme Guérin, 29 décembre 1893"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1894",
+      "title": {
+        "fr-FR": "1894"
+      },
+      "children": [
+        {
+          "id": "lt-156",
+          "title": {
+            "fr-FR": "LT 156. À Mère Agnès de Jésus, 21 janvier 1894"
+          }
+        },
+        {
+          "id": "lt-157",
+          "title": {
+            "fr-FR": "LT 157. À Céline, mars ou mai (?) 1894"
+          }
+        },
+        {
+          "id": "lt-158",
+          "title": {
+            "fr-FR": "LT 158. À Léonie, mars (?) 1894"
+          }
+        },
+        {
+          "id": "lt-159",
+          "title": {
+            "fr-FR": "LT 159. À Céline Maudelonde, 26 mars 1894"
+          }
+        },
+        {
+          "id": "lt-160",
+          "title": {
+            "fr-FR": "LT 160. À soeur Marie-Aloysia Vallée, 3 avril 1894"
+          }
+        },
+        {
+          "id": "lt-161",
+          "title": {
+            "fr-FR": "LT 161. À Céline, 26 avril 1894"
+          }
+        },
+        {
+          "id": "lt-162",
+          "title": {
+            "fr-FR": "LT 162. À Céline, 26 avril 1894"
+          }
+        },
+        {
+          "id": "lt-163",
+          "title": {
+            "fr-FR": "LT 163. À soeur Thérèse-Dosithée (Léonie), 20 mai 1894"
+          }
+        },
+        {
+          "id": "lt-164",
+          "title": {
+            "fr-FR": "LT 164. À soeur Thérèse-Dosithée (Léonie), 22 mai 1894"
+          }
+        },
+        {
+          "id": "lt-165",
+          "title": {
+            "fr-FR": "LT 165. À Céline, 7 juillet 1894"
+          }
+        },
+        {
+          "id": "lt-166",
+          "title": {
+            "fr-FR": "LT 166. À Mme Pottier (Céline Maudelonde), 16 juillet 1894"
+          }
+        },
+        {
+          "id": "lt-167",
+          "title": {
+            "fr-FR": "LT 167. À Céline, 18 juillet 1894"
+          }
+        },
+        {
+          "id": "lt-167bis",
+          "title": {
+            "fr-FR": "LT 167 bis. PS à Mme Guérin, 19 juillet 1894"
+          }
+        },
+        {
+          "id": "lt-168",
+          "title": {
+            "fr-FR": "LT 168. À Céline, 5-10 août 1894"
+          }
+        },
+        {
+          "id": "lt-169",
+          "title": {
+            "fr-FR": "LT 169. À Céline, 19 août 1894"
+          }
+        },
+        {
+          "id": "lt-170",
+          "title": {
+            "fr-FR": "LT 170. À soeur Thérèse-Dosithée (Léonie), 20 août 1894"
+          }
+        },
+        {
+          "id": "lt-171",
+          "title": {
+            "fr-FR": "LT 171. À soeur Thérèse-Dosithée (Léonie), 11 octobre 1894"
+          }
+        },
+        {
+          "id": "lt-172",
+          "title": {
+            "fr-FR": "LT 172. À Mme Guérin, 17 novembre 1894"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1895",
+      "title": {
+        "fr-FR": "1895"
+      },
+      "children": [
+        {
+          "id": "lt-173",
+          "title": {
+            "fr-FR": "LT 173. À soeur Thérèse-Dosithée (Léonie), janvier (?) 1895"
+          }
+        },
+        {
+          "id": "lt-174",
+          "title": {
+            "fr-FR": "LT 174. À soeur Geneviève, Fin janvier 1895"
+          }
+        },
+        {
+          "id": "lt-175",
+          "title": {
+            "fr-FR": "LT 175. À soeur Thérèse-Dosithée (Léonie), 24 février 1895"
+          }
+        },
+        {
+          "id": "lt-176",
+          "title": {
+            "fr-FR": "LT 176. À soeur Thérèse-Dosithée (Léonie), 28 avril 1895"
+          }
+        },
+        {
+          "id": "lt-177",
+          "title": {
+            "fr-FR": "LT 177. À Marie Guérin, 7 juillet (?) 1895"
+          }
+        },
+        {
+          "id": "lt-178",
+          "title": {
+            "fr-FR": "LT 178. À Mme Guérin, 20-21 juillet 1895"
+          }
+        },
+        {
+          "id": "lt-179",
+          "title": {
+            "fr-FR": "LT 179. À soeur Geneviève, Après le 8 septembre 1895"
+          }
+        },
+        {
+          "id": "lt-180",
+          "title": {
+            "fr-FR": "LT 180. À Mme La Néele, 14-15 et 17 octobre 1895"
+          }
+        },
+        {
+          "id": "lt-181",
+          "title": {
+            "fr-FR": "LT 181. À Mme Guérin, 16 novembre 1895"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1896",
+      "title": {
+        "fr-FR": "1896"
+      },
+      "children": [
+        {
+          "id": "lt-182",
+          "title": {
+            "fr-FR": "LT 182. À soeur Geneviève, 23 février 1896"
+          }
+        },
+        {
+          "id": "lt-183",
+          "title": {
+            "fr-FR": "LT 183. À soeur Geneviève, 24 février 1896"
+          }
+        },
+        {
+          "id": "lt-184",
+          "title": {
+            "fr-FR": "LT 184. À soeur Geneviève, 24 février 1896"
+          }
+        },
+        {
+          "id": "lt-185",
+          "title": {
+            "fr-FR": "LT 185. À soeur Geneviève, 24 février, 17 mars 1896"
+          }
+        },
+        {
+          "id": "lt-186",
+          "title": {
+            "fr-FR": "LT 186. À Léonie, 11 avril 1896"
+          }
+        },
+        {
+          "id": "lt-187",
+          "title": {
+            "fr-FR": "LT 187. À soeur Marie de la Trinité, 30 avril 1896"
+          }
+        },
+        {
+          "id": "lt-188",
+          "title": {
+            "fr-FR": "LT 188. À soeur Marie de la Trinité, 7 mai 1896"
+          }
+        },
+        {
+          "id": "lt-189",
+          "title": {
+            "fr-FR": "LT 189. Au Père Adolphe Roulland, 23 juin 1896"
+          }
+        },
+        {
+          "id": "lt-190",
+          "title": {
+            "fr-FR": "LT 190. À Mère Marie de Gonzague, 29 juin 1896"
+          }
+        },
+        {
+          "id": "lt-191",
+          "title": {
+            "fr-FR": "LT 191. À Léonie, 12 juillet 1896"
+          }
+        },
+        {
+          "id": "lt-192",
+          "title": {
+            "fr-FR": "LT 192. À Mme Guérin, 16 juillet 1896"
+          }
+        },
+        {
+          "id": "lt-193",
+          "title": {
+            "fr-FR": "LT 193. Au P. Roulland, 30 juillet 1896"
+          }
+        },
+        {
+          "id": "lt-193bis",
+          "title": {
+            "fr-FR": "LT 193 bis. image pour le P. Roulland, 20 août 1896"
+          }
+        },
+        {
+          "id": "lt-194",
+          "title": {
+            "fr-FR": "LT 194. À soeur Marie de Saint Joseph, 8-17 septembre 1896, (fragment)"
+          }
+        },
+        {
+          "id": "lt-195",
+          "title": {
+            "fr-FR": "LT 195. À soeur Marie de Saint-Joseph, 8-17 septembre 1896 (fragments)"
+          }
+        },
+        {
+          "id": "lt-196",
+          "title": {
+            "fr-FR": "LT 196. À soeur Marie du Sacré-Coeur, 13 (?) septembre 1896"
+          }
+        },
+        {
+          "id": "lt-197",
+          "title": {
+            "fr-FR": "LT 197. À soeur Marie du Sacré-Coeur, 17 septembre 1896"
+          }
+        },
+        {
+          "id": "lt-198",
+          "title": {
+            "fr-FR": "LT 198. À l’abbé Maurice Bellière, 21 octobre 1896"
+          }
+        },
+        {
+          "id": "lt-199",
+          "title": {
+            "fr-FR": "LT 199. À soeur Marie de Saint-Joseph, 20-30 octobre (?) 1896"
+          }
+        },
+        {
+          "id": "lt-200",
+          "title": {
+            "fr-FR": "LT 200. À soeur Marie de Saint-Joseph, Fin octobre (?) 1896"
+          }
+        },
+        {
+          "id": "lt-201",
+          "title": {
+            "fr-FR": "LT 201. Au P. Roulland, 1 novembre 1896"
+          }
+        },
+        {
+          "id": "lt-202",
+          "title": {
+            "fr-FR": "LT 202. À Mme Guérin, 16 novembre 1896"
+          }
+        },
+        {
+          "id": "lt-203",
+          "title": {
+            "fr-FR": "LT 203. À Mère Agnès de Jésus, 4 décembre 1896"
+          }
+        },
+        {
+          "id": "lt-204",
+          "title": {
+            "fr-FR": "LT 204. À Mère Agnès de Jésus, 18 décembre 1896"
+          }
+        },
+        {
+          "id": "lt-205",
+          "title": {
+            "fr-FR": "LT 205. À soeur Marie de Saint-Joseph, décembre (?) 1896"
+          }
+        },
+        {
+          "id": "lt-206",
+          "title": {
+            "fr-FR": "LT 206. À soeur Marie de Saint-Joseph, décembre (?) 1896"
+          }
+        },
+        {
+          "id": "lt-207",
+          "title": {
+            "fr-FR": "LT 207. À soeur Geneviève, décembre (?) 1896"
+          }
+        },
+        {
+          "id": "lt-208",
+          "title": {
+            "fr-FR": "LT 208. À soeur Geneviève, décembre 1896"
+          }
+        },
+        {
+          "id": "lt-209",
+          "title": {
+            "fr-FR": "LT 209. À soeur Geneviève, décembre 1896"
+          }
+        },
+        {
+          "id": "lt-210",
+          "title": {
+            "fr-FR": "LT 210. À soeur Geneviève, décembre 1896"
+          }
+        },
+        {
+          "id": "lt-211",
+          "title": {
+            "fr-FR": "LT 211. À soeur Geneviève, 24 décembre 1896"
+          }
+        },
+        {
+          "id": "lt-212",
+          "title": {
+            "fr-FR": "LT 212. À soeur Marie de la Trinité, 24 décembre 1896"
+          }
+        },
+        {
+          "id": "lt-213",
+          "title": {
+            "fr-FR": "LT 213. À l’abbé Bellière, 26 décembre 1896"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lt-1897",
+      "title": {
+        "fr-FR": "1897"
+      },
+      "children": [
+        {
+          "id": "lt-214",
+          "title": {
+            "fr-FR": "LT 214. À soeur Geneviève, 3 janvier 1897"
+          }
+        },
+        {
+          "id": "lt-215",
+          "title": {
+            "fr-FR": "LT 215. À soeur Marie du Sacré-Coeur, Début 1897"
+          }
+        },
+        {
+          "id": "lt-216",
+          "title": {
+            "fr-FR": "LT 216. À Mère Agnès de Jésus, 9 janvier 1897"
+          }
+        },
+        {
+          "id": "lt-217",
+          "title": {
+            "fr-FR": "LT 217. À soeur Marie de Saint-Joseph, janvier (?) 1897"
+          }
+        },
+        {
+          "id": "lt-218",
+          "title": {
+            "fr-FR": "LT 218. Au frère Siméon, 27 janvier 1897"
+          }
+        },
+        {
+          "id": "lt-219",
+          "title": {
+            "fr-FR": "LT 219. À Mère Agnès de Jésus, 22 février 1897"
+          }
+        },
+        {
+          "id": "lt-220",
+          "title": {
+            "fr-FR": "LT 220. À l’abbé Bellière, 24 février 1897"
+          }
+        },
+        {
+          "id": "lt-221",
+          "title": {
+            "fr-FR": "LT 221. Au P. Roulland, 19 mars 1897"
+          }
+        },
+        {
+          "id": "lt-222",
+          "title": {
+            "fr-FR": "LT 222. À Mère Agnès de Jésus, 19 mars 1897"
+          }
+        },
+        {
+          "id": "lt-222bis",
+          "title": {
+            "fr-FR": "LT 222 bis. À M. Guérin, 3 avril 1897"
+          }
+        },
+        {
+          "id": "lt-223",
+          "title": {
+            "fr-FR": "LT 223. À Mère Agnès de Jésus, 4 avril 1897"
+          }
+        },
+        {
+          "id": "lt-224",
+          "title": {
+            "fr-FR": "LT 224. À l’abbé Bellière, 25 avril 1897"
+          }
+        },
+        {
+          "id": "lt-225",
+          "title": {
+            "fr-FR": "LT 225. À soeur Anne du Sacré-Coeur, 2 mai 1897"
+          }
+        },
+        {
+          "id": "lt-226",
+          "title": {
+            "fr-FR": "LT 226. Au P. Roulland, 9 mai 1897"
+          }
+        },
+        {
+          "id": "lt-227",
+          "title": {
+            "fr-FR": "LT 227. À soeur Geneviève, 13 mai 1897"
+          }
+        },
+        {
+          "id": "lt-228",
+          "title": {
+            "fr-FR": "LT 228. À soeur Geneviève, avril-mai 1897"
+          }
+        },
+        {
+          "id": "lt-229",
+          "title": {
+            "fr-FR": "LT 229. À Mère Agnès de Jésus, 23 mai 1897"
+          }
+        },
+        {
+          "id": "lt-230",
+          "title": {
+            "fr-FR": "LT 230. À Mère Agnès de Jésus, 28 mai 1897"
+          }
+        },
+        {
+          "id": "lt-231",
+          "title": {
+            "fr-FR": "LT 231. À Mère Agnès de Jésus, 30 mai 1897"
+          }
+        },
+        {
+          "id": "lt-232",
+          "title": {
+            "fr-FR": "LT 232. À Mère Agnès de Jésus, 30 mai 1897"
+          }
+        },
+        {
+          "id": "lt-233",
+          "title": {
+            "fr-FR": "LT 233. À Mère Agnès de Jésus, 1er juin 1897"
+          }
+        },
+        {
+          "id": "lt-234",
+          "title": {
+            "fr-FR": "LT 234. À soeur Marie de l’Eucharistie, 2 juin 1897"
+          }
+        },
+        {
+          "id": "lt-235",
+          "title": {
+            "fr-FR": "LT 235. À soeur Marie de l’Eucharistie, 2 juin 1897"
+          }
+        },
+        {
+          "id": "lt-236",
+          "title": {
+            "fr-FR": "LT 236. À soeur Marie de la Trinité, 2 juin 1897"
+          }
+        },
+        {
+          "id": "lt-237",
+          "title": {
+            "fr-FR": "LT 237. À Mère Agnès de Jésus, 2 juin 1897"
+          }
+        },
+        {
+          "id": "lt-238",
+          "title": {
+            "fr-FR": "LT 238. à Léonie, 3 juin 1897"
+          }
+        },
+        {
+          "id": "lt-239",
+          "title": {
+            "fr-FR": "LT 239. À Mère Agnès de Jésus, 3 juin 1897"
+          }
+        },
+        {
+          "id": "lt-240",
+          "title": {
+            "fr-FR": "LT 240. À soeur Marie de la Trinité, 3 juin 1897"
+          }
+        },
+        {
+          "id": "lt-241",
+          "title": {
+            "fr-FR": "LT 241. À soeur Marthe de Jésus, juin 1897"
+          }
+        },
+        {
+          "id": "lt-242",
+          "title": {
+            "fr-FR": "LT 242. À soeur Marie de la Trinité, 6 juin 1897"
+          }
+        },
+        {
+          "id": "lt-243",
+          "title": {
+            "fr-FR": "LT 243. À soeur Geneviève, 7 juin 1897"
+          }
+        },
+        {
+          "id": "lt-244",
+          "title": {
+            "fr-FR": "LT 244. À l’abbé Bellière, 9 juin 1897"
+          }
+        },
+        {
+          "id": "lt-245",
+          "title": {
+            "fr-FR": "LT 245. À Agnès de Jésus, Marie du Sacré-Coeur  et Geneviève, juin (?) 1897"
+          }
+        },
+        {
+          "id": "lt-246",
+          "title": {
+            "fr-FR": "LT 246. À soeur Marie de la Trinité, 13 juin 1897"
+          }
+        },
+        {
+          "id": "lt-247",
+          "title": {
+            "fr-FR": "LT 247. À l’abbé Bellière, 21 juin 1897"
+          }
+        },
+        {
+          "id": "lt-248",
+          "title": {
+            "fr-FR": "LT 248. À Léonie, Fin juin 1897"
+          }
+        },
+        {
+          "id": "lt-249",
+          "title": {
+            "fr-FR": "LT 249. À soeur Marie de la Trinité (Fragments), Mi-juillet 1897"
+          }
+        },
+        {
+          "id": "lt-250",
+          "title": {
+            "fr-FR": "LT 250. À soeur Marie de Saint-Joseph, juillet 1897"
+          }
+        },
+        {
+          "id": "lt-251",
+          "title": {
+            "fr-FR": "LT 251. À soeur Marthe de Jésus, juin-juillet (?) 1897"
+          }
+        },
+        {
+          "id": "lt-252",
+          "title": {
+            "fr-FR": "LT 252. À Mère Agnès de Jésus, 13 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-253",
+          "title": {
+            "fr-FR": "LT 253. À l’abbé Bellière, 13 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-254",
+          "title": {
+            "fr-FR": "LT 254. Au P. Roulland, 14 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-255",
+          "title": {
+            "fr-FR": "LT 255. À M. et Mme Guérin, 16 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-256",
+          "title": {
+            "fr-FR": "LT 256. À soeur Marthe de Jésus, 16 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-257",
+          "title": {
+            "fr-FR": "LT 257. À Léonie, 17 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-258",
+          "title": {
+            "fr-FR": "LT 258. À l’abbé Bellière, 18 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-259",
+          "title": {
+            "fr-FR": "LT 259. À soeur Geneviève, 22 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-260",
+          "title": {
+            "fr-FR": "LT 260. À M. et Mme Guérin, 24-25 (?) juillet 1897"
+          }
+        },
+        {
+          "id": "lt-261",
+          "title": {
+            "fr-FR": "LT 261. À l’abbé Bellière, 26 juillet 1897"
+          }
+        },
+        {
+          "id": "lt-262",
+          "title": {
+            "fr-FR": "LT 262. À soeur Geneviève, 3 août 1897"
+          }
+        },
+        {
+          "id": "lt-263",
+          "title": {
+            "fr-FR": "LT 263. À l’abbé Bellière, 10 août 1897"
+          }
+        },
+        {
+          "id": "lt-264",
+          "title": {
+            "fr-FR": "LT 264. À soeur Marie de la Trinité, 12 août 1897"
+          }
+        },
+        {
+          "id": "lt-265",
+          "title": {
+            "fr-FR": "LT 265. À soeur Marie de l’Eucharistie, 22 août 1897"
+          }
+        },
+        {
+          "id": "lt-266",
+          "title": {
+            "fr-FR": "LT 266. À l’abbé Bellière, 25 août 1897"
+          }
+        }
+      ]
+    }
+  ]
+}
