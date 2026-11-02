@@ -1,0 +1,163 @@
+{
+  "id": "chesterton-everlasting-man",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Everlasting Man",
+    "pt-BR": "O Homem Eterno"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's answer to H. G. Wells's Outline of History, and the book that, by C. S. Lewis's account, did most to shape his conversion. Part I treats man as the strange creature who draws, buries and worships, and who cannot be explained as one more animal; Part II treats Christ as a figure who cannot be explained as one more teacher. A history of religion told from the cave at the beginning to the cave at Bethlehem.",
+    "pt-BR": "A resposta de Chesterton ao Outline of History de H. G. Wells e o livro que, segundo C. S. Lewis, mais contribuiu para a sua conversão. A Parte I trata do homem como a criatura estranha que desenha, sepulta e adora, e que não se explica como mais um animal; a Parte II trata de Cristo como alguém que não se explica como mais um mestre. Uma história da religião contada da caverna do princípio à caverna de Belém."
+  },
+  "composed": "1925",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/everlasting-man",
+  "editions": {
+    "en-US": {
+      "publisher": "Hodder & Stoughton, London",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/65688",
+      "edition": "The Everlasting Man (London: Hodder & Stoughton, 1925), Project Gutenberg #65688.",
+      "description": "Introduction, both parts (14 chapters), conclusion and two appendices; Gutenberg front matter, contents and transcriber's note dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: published 1925 (US public domain) and Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction: The Plan of This Book"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: On the Creature Called Man"
+      },
+      "children": [
+        {
+          "id": "p1-01-the-man-in-the-cave",
+          "title": {
+            "en-US": "I. The Man in the Cave"
+          }
+        },
+        {
+          "id": "p1-02-professors-and-prehistoric-men",
+          "title": {
+            "en-US": "II. Professors and Prehistoric Men"
+          }
+        },
+        {
+          "id": "p1-03-the-antiquity-of-civilisation",
+          "title": {
+            "en-US": "III. The Antiquity of Civilisation"
+          }
+        },
+        {
+          "id": "p1-04-god-and-comparative-religion",
+          "title": {
+            "en-US": "IV. God and Comparative Religion"
+          }
+        },
+        {
+          "id": "p1-05-man-and-mythologies",
+          "title": {
+            "en-US": "V. Man and Mythologies"
+          }
+        },
+        {
+          "id": "p1-06-the-demons-and-the-philosophers",
+          "title": {
+            "en-US": "VI. The Demons and the Philosophers"
+          }
+        },
+        {
+          "id": "p1-07-the-war-of-the-gods-and-demons",
+          "title": {
+            "en-US": "VII. The War of the Gods and Demons"
+          }
+        },
+        {
+          "id": "p1-08-the-end-of-the-world",
+          "title": {
+            "en-US": "VIII. The End of the World"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: On the Man Called Christ"
+      },
+      "children": [
+        {
+          "id": "p2-01-the-god-in-the-cave",
+          "title": {
+            "en-US": "I. The God in the Cave"
+          }
+        },
+        {
+          "id": "p2-02-the-riddles-of-the-gospel",
+          "title": {
+            "en-US": "II. The Riddles of the Gospel"
+          }
+        },
+        {
+          "id": "p2-03-the-strangest-story-in-the-world",
+          "title": {
+            "en-US": "III. The Strangest Story in the World"
+          }
+        },
+        {
+          "id": "p2-04-the-witness-of-the-heretics",
+          "title": {
+            "en-US": "IV. The Witness of the Heretics"
+          }
+        },
+        {
+          "id": "p2-05-the-escape-from-paganism",
+          "title": {
+            "en-US": "V. The Escape from Paganism"
+          }
+        },
+        {
+          "id": "p2-06-the-five-deaths-of-the-faith",
+          "title": {
+            "en-US": "VI. The Five Deaths of the Faith"
+          }
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "title": {
+        "en-US": "Conclusion: The Summary of This Book"
+      }
+    },
+    {
+      "id": "appendix-1",
+      "title": {
+        "en-US": "Appendix I: On Prehistoric Man"
+      }
+    },
+    {
+      "id": "appendix-2",
+      "title": {
+        "en-US": "Appendix II: On Authority and Accuracy"
+      }
+    }
+  ]
+}
