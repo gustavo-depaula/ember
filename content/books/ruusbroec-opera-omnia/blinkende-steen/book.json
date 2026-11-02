@@ -13,18 +13,24 @@
   },
   "description": {
     "dum": "Kort traktaat over de drie levens van de goede, de innige en de schouwende mens, naar Apc 2,17: de blinkende steen met de nieuwe naam. Middelnederlandse tekst van J. B. David (1868).",
-    "en-US": "A short treatise on the good, the interior and the contemplative man, from Rev 2:17, the bright stone bearing a new name. The Middle Dutch text of J. B. David (1868).",
+    "en-US": "A short treatise on the good, the interior and the contemplative man, from Rev 2:17, the bright stone bearing a new name. The Middle Dutch text of J. B. David (1868). The English is C. A. Wynschenk Dom (1916), chapter for chapter.",
     "pt-BR": "Breve tratado sobre o homem bom, o homem interior e o contemplativo, a partir de Ap 2,17: a pedra brilhante com o nome novo. Texto em neerlandês médio de J. B. David (1868)."
   },
   "composed": "c. 1340-1350",
   "languages": [
-    "dum"
+    "dum",
+    "en-US"
   ],
   "work": "ruusbroec/blinkende-steen",
   "editions": {
     "dum": {
       "editor": "Jan Baptist David",
       "year": 1868
+    },
+    "en-US": {
+      "translator": "C. A. Wynschenk Dom",
+      "year": 1916,
+      "editor": "Evelyn Underhill (introduction and notes)"
     }
   },
   "sources": [
@@ -35,97 +41,120 @@
       "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
       "tier": "A",
       "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/adornmentofthesp00ruysuoft",
+      "edition": "John of Ruysbroeck, The Adornment of the Spiritual Marriage; The Sparkling Stone; The Book of Supreme Truth, translated from the Flemish by C. A. Wynschenk Dom, with an introduction and notes by Evelyn Underhill (London: J. M. Dent, 1916).",
+      "description": "OCR of the archive.org scan, rejoined across lines and pages by research/sourcing/_scripts/wyn_build.py; running heads removed; Underhill's endnotes placed as footnotes at the passage that cites them. Not proofread against the page images.",
+      "tier": "A",
+      "tierEvidence": "1916 translation, public domain."
     }
   ],
   "toc": [
     {
       "id": "prologhe",
       "title": {
-        "dum": "Prologhe"
+        "dum": "Prologhe",
+        "en-US": "Prologue"
       }
     },
     {
       "id": "c001",
       "title": {
-        "dum": "I. Van drien poenten die eenen goeden mensche maken"
+        "dum": "I. Van drien poenten die eenen goeden mensche maken",
+        "en-US": "1. Through Three Things a Man Becomes Good"
       }
     },
     {
       "id": "c002",
       "title": {
-        "dum": "II. Van drien poenten die enen ynnighen mensche maken"
+        "dum": "II. Van drien poenten die enen ynnighen mensche maken",
+        "en-US": "2. Through Three Things a Man Becomes Inward"
       }
     },
     {
       "id": "c003",
       "title": {
-        "dum": "III. Van drien poenten die eenen scouwenden mensche maken"
+        "dum": "III. Van drien poenten die eenen scouwenden mensche maken",
+        "en-US": "3. Through Three Things a Man Becomes God-seeing"
       }
     },
     {
       "id": "c004",
       "title": {
-        "dum": "IV. Vanden blickenden steene, enden nuwen name in het boec der Heimelicheit Gods"
+        "dum": "IV. Vanden blickenden steene, enden nuwen name in het boec der Heimelicheit Gods",
+        "en-US": "4. Of the Sparkling Stone, and of the New Name Written in the Book of the Secrets of God"
       }
     },
     {
       "id": "c005",
       "title": {
-        "dum": "V. Van dien werken die God ghemeynlic in allen goeden luden werct, ende van vijf partyën van sonderen"
+        "dum": "V. Van dien werken die God ghemeynlic in allen goeden luden werct, ende van vijf partyën van sonderen",
+        "en-US": "5. Of the Works Which God Works in All in Common and of Five Kinds of Sinners"
       }
     },
     {
       "id": "c006",
       "title": {
-        "dum": "VI. Van onderscheide tusschen die ghehuerde knechten ende die ghetrouwe knechten Gods"
+        "dum": "VI. Van onderscheide tusschen die ghehuerde knechten ende die ghetrouwe knechten Gods",
+        "en-US": "6. Of the Difference Between the Hirelings and the Faithful Servants of God"
       }
     },
     {
       "id": "c007",
       "title": {
-        "dum": "VII. Van ondersceide tusschen die ghetrouwe knechten Gods en heymelike vrienden Gods"
+        "dum": "VII. Van ondersceide tusschen die ghetrouwe knechten Gods en heymelike vrienden Gods",
+        "en-US": "7. Of the Difference Between the Faithful Servants and the Secret Friends of God"
       }
     },
     {
       "id": "c008",
       "title": {
-        "dum": "VIII. Van onderscheide tusschen die heymelike vriende ende die verborghene sonen Gods"
+        "dum": "VIII. Van onderscheide tusschen die heymelike vriende ende die verborghene sonen Gods",
+        "en-US": "8. Of the Difference Between the Secret Friends and the Hidden Sons of God"
       }
     },
     {
       "id": "c009",
       "title": {
-        "dum": "IX. Hoe wi moghen werden verborghene sonen Gods ende een scouwende leven besitten"
+        "dum": "IX. Hoe wi moghen werden verborghene sonen Gods ende een scouwende leven besitten",
+        "en-US": "9. How We May Become Hidden Sons of God, and Attain to the God-seeing Life"
       }
     },
     {
       "id": "c010",
       "title": {
-        "dum": "X. Hoe, al eest dat wi één met Gode sijn, dat wi nochtan een ander ewelic van Gode bliven moeten"
+        "dum": "X. Hoe, al eest dat wi één met Gode sijn, dat wi nochtan een ander ewelic van Gode bliven moeten",
+        "en-US": "10. How We, Though One with God, Must Eternally Remain Other Than God"
       }
     },
     {
       "id": "c011",
       "title": {
-        "dum": "XI. Van groten onderscheit tusscen die claerheit der heilighen en die hoechste claerheit, daer wi toe comen moeghen in desen levene"
+        "dum": "XI. Van groten onderscheit tusscen die claerheit der heilighen en die hoechste claerheit, daer wi toe comen moeghen in desen levene",
+        "en-US": "11. Of the Great Difference Between the Brightness of the Saints and the Highest Brightness to Which We Can Attain in This Life"
       }
     },
     {
       "id": "c012",
       "title": {
-        "dum": "XII. Vander transfiguracien Christi opten berch van Thabor"
+        "dum": "XII. Vander transfiguracien Christi opten berch van Thabor",
+        "en-US": "12. Of the Transfiguration of Christ on Mount Thabor"
       }
     },
     {
       "id": "c013",
       "title": {
-        "dum": "XIII. Hoe wi Gods selen ghebruken"
+        "dum": "XIII. Hoe wi Gods selen ghebruken",
+        "en-US": "13. How We Ought to Have Fruition of God"
       }
     },
     {
       "id": "c014",
       "title": {
-        "dum": "XIV. Van enen ghemeynen levene, dat coemt van scouwen ende van ghebrukene Gods"
+        "dum": "XIV. Van enen ghemeynen levene, dat coemt van scouwen ende van ghebrukene Gods",
+        "en-US": "14. Of That Common Life Which Comes from the Contemplation and Fruition of God"
       }
     }
   ]
