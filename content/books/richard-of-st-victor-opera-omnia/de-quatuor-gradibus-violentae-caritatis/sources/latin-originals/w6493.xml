@@ -1,0 +1,1185 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De quatuor gradibus violentae charitatis</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeQuGrV</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De quatuor gradibus violentae charitatis</head>
+<p>
+          <pb n="1207C"/>Vulnerata charitate ego sum. Urget charitas de
+charitate loqui, libenter me impendo charitatis obsequio,
+et dulce quidem, et omnino delectabile de
+dilectione loqui. Jucunda materia, et satis copiosa,
+et quae omnino generare non possit vel taedium scribenti,
+vel fastidium legenti. Sapit enim supra modum
+cordis palato quod charitate conditur, si dederit
+homo pro dilectione omnem substantiam domus
+suae, quasi nihil despiciet eam. Magna vis dilectionis,
+miranda virtus charitatis. Multi gradus in ea,
+et in ipsis magna differentia. Et quis eos digne distinguere
+vel saltem dinumerare sufficiat? Est sane
+in ea affectus humanitatis, sodalitatis, affinitatis,
+consanguinitatis, fraternitatis, et in hunc modum
+alii multi, super hos tamen omnes dilectionis gradus
+<pb n="1207D"/>
+est amor ille ardens et fervens qui cor penetrat,
+et affectum inflammat, animamque ipsam eousque
+medullitus transfigit, ut veraciter dicere
+possit: Vulnerata charitate ego sum. Cogitemus
+ergo quae sit illa supereminentia charitatis Christi,
+quae dilectionem parentum, nunc amorem prolis,
+uxoris affectum transcendit vel exstinguit, insuper
+et animam suam in odium vertit. O vehementia dilectionis!
+<pb n="1208C"/>
+o violentia charitatis! o excellentia, o
+supereminentia charitatis Christi! Hoc est, fratres,
+quod intendimus, hoc est illud de quo loqui volumus,
+de vehementia charitatis, de supereminentia
+perfectae aemulationis. Nostis satis quia aliud est
+loqui de ipsa charitate, et aliud de ejus consummatione.
+Aliud sane loqui de ipsa, atque aliud de ejus
+violentia. Attendo ad opera violentae charitatis, et
+invenio quae sit vehementia perfectae aemulationis.
+Ecce video alios vulneratos, alios ligatos, alios languentes,
+alios deficientes, non tamen a charitate.
+Charitas vulnerat, charitas ligat, charitas languidum
+facit, charitas defectum adducit. Quid horum
+non mirum, quid horum non violentum? Hi sunt
+gradus quibus interim toti intendere ad illam quam
+<pb n="1208D"/>
+multum concupiscitis, audite de illa, et anhelate in
+illam quam vehementer ambitis. Vultis audire de
+charitate vulnerante? <hi>Vulnerasti cor meum, soror
+mea sponsa, in uno oculorum tuorum, et in uno crine
+colli tui <note>(Cant. IV)</note>
+          </hi>. Vultis audire de charitate ligante? <hi>In funiculis Adam traham eos, in vinculis
+charitatis 
+ <note>(Osee. I)</note>
+          </hi>. Vultis audire de charitate languente? <hi>Filiae Hierusalem, si inveneritis dilectum
+<pb n="1209A"/>
+meum, annuntiate ei quia amore langueo 
+ <note>(Cant. V)</note>
+          </hi>.
+Vultis audire de charitate deficiente, et in defectum
+adducente? <hi>Defecit,</hi> inquit, <hi>in salutare tuum anima
+mea, et in verbum tuum supersperavi <note>(Psal. CXVIII)</note>
+          </hi>.
+Charitas itaque defectum facit, languorem adducit.
+Charitas vincula habet, charitas vulnera facit.</p>
+<p>Sed qui sunt isti funiculi Adam primi parentis
+nostri, nisi munera Dei? Quae, inquam, sunt
+ista charitatis vincula, nisi Dei beneficia? Bona
+naturae, gratiae et gloriae. His enim beneficentiae
+vinculis obnoxium fecit, et benevolentiae debitorem
+constituit. Naturam condidit, gratiam contulit, gloriam
+repromisit. Ecce funiculus triplex: Dona conditionis,
+bona justificationis, praemia glorificationis.
+Et scimus quia funiculus triplex difficile rumpitur,
+<pb n="1209B"/>
+fuit tamen ruptus. A saeculo enim confregit
+homo jugum, rupit vincula. Adjecit autem et Dominus
+adhuc manu valida multiplicare super nos charitatis
+suae vincula, ut nos sibi arctius astringeret,
+altius irretiret. Contulit nobis bona sua, pertulit
+pro nobis mala nostra, ut ex utroque sibi obnoxios
+redderet, et de bonis quae contulit nobis, et de malis
+quae pro nobis pertulit. In hujusmodi charitatis
+funiculis captivam duxit captivitatem, largiter donans
+dona hominibus, et libenter sustinens mala
+pro hominibus. O quam male fortis est, quem
+tot charitatis vincula tenere non possunt! O quam
+male liber est, quem hujus captivitatis jura non involvunt!
+Sed ecce ad illum amoris gradum redimus
+quem primo loco posuimus, et vulnerantem jam
+<pb n="1209C"/>
+diximus. Nonne tibi corde percussus videtur,
+quando igneus ille amoris aculeus mentem hominis
+medullitus penetrat, affectumque transverberat interim,
+ut desiderii sui aestus cohibere vel dissimulare
+omnino non valeat? Desiderio ardet, fervet
+affectu, aestuat, anhelat, profunde ingemiscens et
+longa suspiria trahens, haec tibi animae vulneratae
+certa sint signa gemitus atque suspiria, vultus pallens
+atque tabescens. Hic tamen gradus interpolationem
+recipit, et incumbentium negotiorum curis
+et sollicitudinibus caedit. Febricitantium itaque
+more qui hoc typo vexantur, nunc acrius uruntur,
+nunc occupationum suarum occasione aliquantulum
+recreantur. Sed iterum post modicam interpolationem
+aestuans, ardor ferventior redit, animumque
+<pb n="1209D"/>
+jam fractum acrius incendit et vehementius urit.
+Saepe itaque recedens semperque seipso major rediens
+paulatim animum emollit, viresque effringit
+atque exhaurit, donec plene animum sibi subigat, atque
+substernat, jugique sui memoria totum occupet,
+totum implicet, totum obliget, ita ut hoc ei excidere aut
+aliud cogitare non possit, et jam de primo gradu ad
+secundum transit. Primum enim gradum diximus qui
+vulnerat, secundum qui ligat. Nonne vere et absque
+ulla contradictione animus ligatus est, quando hoc
+unum oblivisci, aut aliud meditari non potest?
+Quidquid agat, quidquid dicat, hoc semper mente
+revolvitur perennique memoria retinetur hoc; dormiens
+somniat, hoc vigilans omni hora retractat.
+<pb n="1210A"/>
+Facile est perpendere hinc, ut arbitror, quomodo
+hic gradus superiorem transcendit, qui mentem
+hominis nec ad horam quietam esse permittit. Recte
+itaque dictum est quod prior sit ille gradus qui
+vulnerat, secundus autem ille qui ligat. Saepe enim
+minus est vulnerari quam ligari. Quis enim nesciat
+quam saepe contingat, ut miles in conflictu certaminis
+percussus et vulneratus persequentis manus
+effugiat, et cum inflicto vulnere liber tamen evadat.
+Sed postquam in congressu certaminis miles
+percussus dejicitur, dejectus comprehenditur: comprehensus
+adducitur, adductus incarceratur, incarceratus
+concatenatur atque ligatur, jam omnino
+captivus tenetur.</p>
+<p>Quid horum, quaeso, majus, quidve molestius?
+<pb n="1210B"/>
+Nonne tolerabilius est quamvis vulneratum effugere,
+tamen liberum, quam captum atque ligatum teneri
+captivum? Hic autem gradus non sicut ille superior
+aliquam interpolationem recipit, sed acutae febris
+more continuo ardore animum urit, jugique desiderii
+sui aestu incendit, nec die nec nocte animam
+quiescere sinit. Itaque, sicut ille qui lecto decubat
+vel quem catena coercet, ab eo loco quo addicti
+sunt elongari non possunt, sic utique qui ab hoc
+secundo violentae charitatis gradu absorptus est,
+quidquid agat, quocunque se vertat ab illa una et
+intima sollicitudinis suae cura avelli non potest.
+Primi itaque gradus impetum in pravis desideriis
+non resistendo, sed declinando, non tam reluctando
+quam fugiendo repellere debemus et possumus, si
+<pb n="1210C"/>
+solliciti semper ad utiles et honestas tam occupationes
+quam meditationes provida mente confugiamus, et
+impleamus quod scriptum est: <hi>Fugite fornicationem <note>(I Cor. VI)</note>
+          </hi>.
+Primi itaque gradus violentia declinari
+potest, superari non potest; secundi autem gradus vehementia
+omnino non valet nec reluctando superari,
+nec fugiendo declinari. Audi captivum et gementem,
+et de fuga desperantem: <hi>Periit fuga a me, et non
+est qui requirat animam meam <note>(Psal. CXLI)</note>
+          </hi>. Sed saepe
+ut videmus qui fugere non possunt, redimere se possunt.
+Cum ergo tentationem non possumus vel virtute
+repellere, vel prudentia declinare, debemus per
+misericordiae et obedientiae opera nos ipsos redimere,
+et a servitutis jugo eripere. Hae sunt verae et
+propriae divitiae de quibus scriptum est: <hi>Redemptio
+<pb n="1210D"/>
+animae viri, divitiae propriae <note>(Prov. XIII)</note>
+          </hi>. Sed cum ad
+hunc secundum vehementiae gradum amor excreverit,
+quid est, quaeso, quo se amplius extendere possit?
+Quid hac vehementia vehementius esse potest,
+si superari non potest, si declinari non potest? Si
+omnino insuperabilis est, si omnino inseparabilis
+est quid hac vehementia vehementius esse potest? Si
+ab alio affectu superari non potest, summus est, et
+si inseparabiliter inhaeret, sempiternus est, et quid
+ejus violentia violentius esse potest, si summus et
+sempiternus est? Sed aliud est esse summum atque
+aliud est esse solum; sicut et aliud est semper praesentem
+esse, et aliud consortem omnino non admittere.
+Possumus enim et praesentes esse et multos socios
+<pb n="1211A"/>
+habere, et prae omnibus quidem superiorem locum
+tenere. Vides ergo quanta supereminentiae magnitudo
+ad excrescendum ei adhuc supersit, ut cum
+summus jam sit, etiam solus esse possit? Ad tertium
+itaque jam violentiae gradum amor ascendit,
+quando omnem alium affectum excludit, quando
+nihil praeter unum vel propter unum diligit. In hoc
+itaque tertio violentae charitatis gradu nil omnino
+satisfacere potest praeter unum, sicut et nihil sapere
+nisi propter unum. Unum amat, unum diligit, unum
+sitit, unum concupiscit. Ad ipsum anhelat, in ipsum
+suspirat, ex ipso inardescit, in ipso requiescit. Solum
+est in quo reficitur, solum ex quo satiatur. Nil
+dulcescit, nihil sapit nisi hoc uno condiatur. Quidquid
+ultro se offerat, quidquid sponte occurrat, cito
+<pb n="1211B"/>
+rejicitur, subito conculcatur quod suo affectui non
+militat, vel ejusmodi desiderio non deserviat. Sed
+quis hujus affectus tyrannidem digne describat?
+quomodo omne desiderium expellit, quomodo omne
+studium excludit, quomodo omnem exercitum violenter
+opprimit quem suae concupiscentiae deservire
+non prospicit? Quidquid agat, quidquid fiat inutile,
+imo intolerabile videtur, nisi in unum desiderii sui
+finem concurrat atque conducat. Cum frui potest
+eo quod diligit, omnia pariter habere se credit.
+Sine illo horrent omnia, sordent universa. Si enim
+eo frui non possit corpore deficit, et corde tabescit.
+Consilium non recipit, rationi non acquiescit, nullam
+omnino consolationem admittit.</p>
+<p>In secundo adhuc gradu alienis negotiis per actionem
+<pb n="1211C"/>
+utique occupari potest, sed per cogitationem
+non potest, quia ejus quod diligit omnino oblivisci
+non potest. In hoc autem gradu mens tabida et
+amoris nimietate languida, sicut non potest alia meditari,
+sic nec potest aliena operari. Ille gradus cogitationes
+involvit, iste etiam actiones dissolvit. Ille
+ligat in cogitatione, iste enervat in actione. In illo
+gradu manus ac pedes adhuc liberos habemus, et
+febricitantis more huc atque illuc extendere atque
+jactare possumus, quia pro discretionis arbitrio
+adhuc eos extendere, et in bono opere exercere et
+possumus et debemus. In hoc autem gradu amoris
+nimietas ad languoris similitudinem manus ac pedes
+enervat, ut deinceps mens nil penitus pro arbitrio
+<pb n="1211D"/>
+agat. Mens itaque in hoc statu quasi immobilis manet,
+et nusquam se per cogitationem neque per
+actionem movet, nisi quo eam vel desiderium trahit
+vel affectus impellit. In pravis autem desideriis
+in primo adhuc gradu, ut superius dictum est, per
+circumspectionis studium fugere potest; in secundo
+autem gradu ubi fugiendi locus omnino non est, per
+bona adhuc opera redimere se potest. In hoc autem
+gradu quid his potest praesidii, quod genus potest
+esse remedii, qui jam nec necessaria meditari, nec
+utilia possunt operari? Audi tam corde quam corpore
+languidum, corpore tabidum et corde turbatum: <hi>Cor meum conturbatum est in me, dereliquit me
+virtus mea 
+ <note>(Psal. LVII)</note>
+          </hi>. Sub hoc necessitatis articulo
+nullum aliud remedii genus invenio quam ad divinam
+<pb n="1212A"/>
+clementiam respicere, ejusque misericordiam
+implorare. Si omnino languidus es, si manus et
+pedes liberos non habes, certe adhuc linguam habes,
+et labia movere potes. Si ergo tuae industriae nullus
+evadendi locus relictus est, clama ad eum qui omnia
+potest. Vides, ut arbitror, vis illa amoris quantum
+jam invaluit, cum ad hujus tertii gradus vehementiam
+exercendo ascendit, et mirum est, si habet
+adhuc aliquid quo amplius ascendere possit. In
+primo gradu transfigit affectionem, in secundo ligat
+cogitationem, in tertio dissolvit actionem. Affectio
+itaque captivatur in primo, cogitatio in secundo,
+actio autem in tertio. In his totum hominis est, et
+quid his amplius habere potest? Si ergo totum captivatum
+est quod hominis est, quid illi ulterius fieri
+<pb n="1212B"/>
+potest? Si vis illa amoris totum possidet, si amoris
+magnitudo totum absorbet, in quo se, quaeso, amplius
+dilatare valet? Si enim totum obtinuit, non est
+quod ulterius vindicare possit. Sed quid dicimus si
+totum obtinet, et totum ei sufficere non valet? Quid,
+inquam, dicturi sumus, si totum in potestate est, totum
+tamen desiderio satisfacere non potest? Certe
+incomparabiliter majus est quod homo non valet,
+quam quidquid homo valet. Utrumque tamen desiderari
+potest, et quod homo potest, et quod homo
+non potest. Vide ergo quam infinitum sit quo desiderium
+in se extendere possit, etiam postquam ad
+tertium gradum pervenerit.</p>
+<p>Quartus itaque violentae charitatis gradus est,
+quando aestuantis animi desiderio jam omnino nihil
+<pb n="1212C"/>
+satisfacere potest. Hic gradus quia humanae possibilitatis
+metas semel excessit, crescendi, ut caeteri, terminum
+nescit, quia semper invenit quod adhuc concupiscere
+possit. Quidquid agat, quidquid sibi fiat,
+desiderium ardentis animae non satiat; sitit et bibit,
+bibendo tamen sitim suam non exstinguit, sed quo
+amplius bibit, eo amplius et sitit. Avidae enim, imo
+insatiabilis animae sitis vel esuries non sedatur, sed
+irritatur dum voto suo pro voto perfruitur. In hoc
+statu non satiatur oculus visu, nec auris impletur
+auditu, dum vel absentem loquitur, vel praesentem
+intuetur. Sed hujus supremi gradus violentiam quis
+digne explicare valeat, quis ejus supereminentiam
+vel digne pensare sufficiat? Quid, quaeso, est quod
+<pb n="1212D"/>
+cor hominis profundius penetret, acerbius cruciet,
+vehementius exagitet? Quid, quaeso, molestius,
+quidve acerbius, cum sitim suam nec resistendo
+temperare, nec inebriando possit exstinguere? Miranda
+imo et miseran a ingluvies, quae nec ulla accuratione
+expellitur, nec aliqua satisfactione sedatur.
+Morbus irremediabilis et omnino desperabilis,
+ubi semper et remedium quaeritur, et nusquam invenitur,
+imo quidquid praesumitur ad remedium salutis,
+vertitur in augmentum furoris. Hic est ille
+gradus, ut diximus, qui defectum adducit, qui de
+remedio jam desperare facit. Et sicut desperatus
+aeger qui quasi praemortuis membris jacet, jam ulterius
+quid agat vel ab alio exspectare debeat non
+habet, jam ei omnis medicorum cura subtrahitur,
+<pb n="1213A"/>
+sibique ipsi totus relinquitur, solo adhuc spiritu anhelat,
+et omni hora quasi ad exitum appropinquat.
+Ultimum jam spiritum trahit, et quid circa se agatur,
+vel quid sibi fiat, nec attendit, nec advertit. Sic
+sic sane qui ejusmodi aestuantis desiderii ardore anhelat,
+quidquid sibi fiat omnino non potest vel remedium
+afferre vel consolationem adhibere. Dum
+igitur adhibita consolatio quaelibet omnino animum
+non tangit, quodammodo quasi praemortuus quae
+circa se geruntur omnino non sentit. In pravis autem
+desideriis, dum mens humana ad hunc statum
+violenter attrahitur, nil aliud jam superest, nisi ut
+pro ipso ab aliis oretur, si forte Dominus fidem illorum
+respiciens vitaeque restituens reddat illum matri
+suae, qui potens est etiam de lapidibus suscitare
+<pb n="1213B"/>
+filios Abrahae et quoties voluerit deducit ad inferos
+et reducit. In hoc statu amor saepe quasi in insaniam
+vertitur, nisi mira prudentia parique constantia
+ejus impetus refrenetur. In hoc statu inter amantes
+saepe irae surgunt, saepe rixas committunt, et cum
+verae inimicitiarum causae non suppetunt, falsas, et
+saepe nec verisimiles fingunt. In hoc statu amor saepe
+in odium transit, dum mutuo desiderio nihil satisfacere
+possit. Hinc fit illud quod saepe in quibusdam
+vidimus, ut quo se prius ardentius diligere videbantur,
+eo se postmodum vehementiori odio persequerentur;
+imo, quod magis mirum est, saepe sub
+uno eodemque tempore sic odiunt, ut tamen per
+desiderium aestuare non desinant, et sic diligunt, ut
+<pb n="1213C"/>
+tamen velut ex odio persequi non desistant. Diligendo
+itaque odiunt, et odiendo diligunt, et modo
+mirabili, imo miserabili crescit ex desiderio odium,
+et ex odio desiderium. Et ignis et grando mista pariter
+feruntur, dum nec aestus desiderii odii gelu
+possit dissolvere, nec detestationis grando concupiscentiae
+ardentis ignem possit exstinguere. Supra
+modum autem, imo supra naturam ignis convalescit
+in aqua, quia amoris incendium magis exaestuat ex
+alterutra contradictione, quam invalescere posset
+ex mutua pace.</p>
+<p>Ecce jam habemus in ardenti dilectione quatuor
+violentiae gradus, de quibus superius proposuimus.
+Primus ergo violentiae gradus est, quando mens desiderio
+suo resistere non potest; secundus autem
+<pb n="1213D"/>
+gradus est, quando illud oblivisci non potest; tertius
+vero gradus est, quando ei aliud sapere non potest;
+quartus autem, qui et ultimus, quando nec ipsum ei
+satisfacere potest. In primo itaque gradu amor est
+insuperabilis, in secundo inseparabilis, in tertio singularis,
+in quarto insatiabilis. Insuperabilis est qui
+alii affectui non cedit; inseparabilis, qui a memoria
+nunquam recedit; singularis, qui socium non recipit;
+insatiabilis, cum ei satisfieri non possit. Et
+quamvis per singulos gradus possint notari singula,
+specialius tamen in primo gradu notatur amoris excellentia,
+in secundo ejus vehementia, in tertio ejus
+violentia, in quarto ejus supereminentia. Quanta
+enim excellentia amoris quae omnem alium affectum
+excedit! Quanta, quaeso, vehementia dilectionis quae
+<pb n="1214A"/>
+mentem quiescere non sinit! Quanta, obsecro, violentia
+charitatis quae omnem alium affectum violenter
+expellit! Quanta supereminentia aemulationis cui
+omnino nihil sufficit? O excellentia amoris! o vehementia
+dilectionis! o charitatis violentia! o aemulationis
+supereminentia! Hi quatuor amoris gradus
+aliter se habent in affectibus divinis, atque aliter in
+affectibus humanis, atque omnino aliter se habent
+in desideriis spiritualibus, et in desideriis carnalibus.
+In desideriis spiritalibus, quanto major, tanto et
+melior. In desideriis carnalibus, quanto est major,
+tanto est pejor. In affectibus divinis, ipse qui summus,
+idem et praecipuus. In affectibus humanis, ille qui
+summus, ipse est et pessimus. In humanis sane affectibus
+primus potest esse bonus, secundus absque dubio
+<pb n="1214B"/>
+est malus, pejor tamen est tertius, quartus autem est
+pessimus. Scimus quia in humanis affectibus conjugalis
+amor primum locum tenere debet, et idcirco
+in nuptiali toro ille amoris gradus bonus esse valet
+qui omnibus aliis affectibus dominari solet. Mutuus
+namque intimi amoris affectus inter foederatos pacis
+vincula astringit, et indissolubilem illam perpetuandamque
+societatem gratam et jucundam reddit.
+Primus ergo gradus in humanis, ut dictum est,
+affectibus bonus esse potest, nam secundus absque
+dubio malus est. Cum enim mentem indissolubiliter
+obligaverit, dum eam in aliam sollicitudinem transire
+non sinit, saepe et providendorum curam, et disponendorum
+providentiam tollit. Tertius autem ille
+<pb n="1214C"/>
+amoris gradus qui omnem alium affectum excludit,
+non solum est malus, imo etiam incipit esse amarus;
+cum voto suo semper pro voto frui impossibile sit,
+et ex alia aliqua re consolationem recipere non
+possit. Quartus autem gradus, ut diximus, omnium
+est pessimus. Quid illo pejus inveniri possit quod
+animam non solum malam, sed et miseram reddit?
+Quid miserabilius quam ejus rei desiderio semper
+fatigari cujus fructu nunquam possis satiari? Superius
+docuimus quomodo sub hoc gradu assiduo aestu
+et gelu mens uritur, dum nec ex desiderio odium,
+nec ex odio desiderium exstinguitur. Et quid hoc
+aliud quam quaedam forma futurae damnationis esse
+videtur, ubi semper transitur de calore ignium ad
+frigora nivium, et de frigore nivium ad calores
+<pb n="1214D"/>
+ignium. Hic itaque ultimus amoris gradus in humanis
+desideriis omnium pessimus est, in divinis autem
+affectibus, ut dictum est, omnium est praecipuus.
+Ibi enim humano animo quidquid sibi fiat sufficere
+non potest, hic autem quidquid pro Deo suo
+faciat, voto suo satisfacere non potest. Ibi mens
+semper sollicita est quid sibi fiat, non quod ipsa
+faciat. Hic majorem sollicitudinem mens gerit quid
+ipsa faciat quam quid sibi fiat. In coelestibus itaque
+desideriis quanto affectus est major, quanto gradus
+superior, tanto utique melior atque pretiosior. O
+quam pretiosus primus ille dilectionis gradus in
+Dei amore, quando est insuperabilis! Multo pretiosior
+ille secundus, quando ardens affectus incipit esse
+inseparabilis! Multo tamen adhuc melior est, quando
+<pb n="1215A"/>
+in alia aliqua re quam in Deo delectari non potest.
+Summus autem atque praecipuus amoris gradus est,
+quando desiderio suo nihil satisfacere potest. Jam
+in primo gradu: <hi>Aquae non potuerunt exstinguere
+charitatem, nec flumina obruent illam <note>(Cant. VIII)</note>
+          </hi>, eo
+quod insuperabilis sit. In secundo jam gradu: <hi>Ponit
+anima dilectum suum sicut signaculum super cor
+suum <note>(ibid.)</note>
+          </hi>, eo quod illum omnino oblivisci non
+possit. In tertio jam gradu: <hi>Si dederit homo omnem
+substantiam domus suae pro dilectione quasi nihil despiciet
+eam <note>(ibid.)</note>
+          </hi>, eo quod in re alia aliquis delectari
+non possit. In quarto autem gradu: <hi>Fortis est ut
+mors, dilectio, et dura, et ut infernus aemulatio <note>(ibid.)</note>
+          </hi>,
+eo quo ei parum sit quidquid pro Deo suo
+facere vel sustinere possit. In primo gradu amor
+<pb n="1215B"/>
+insuperabilis dicitur: <hi>Diligam te, Domine, fortitudo
+mea <note>(Psal. XVII)</note>
+          </hi>. In secundo inseparabilis amor dicitur: <hi>Adhaereat lingua mea faucibus meis si non meminero
+tui 
+ <note>(Psal. CXXXVI)</note>
+          </hi>. In tertio gradu singularis
+amor dicitur: <hi>Renuit consolari anima mea, memor fui
+Dei et delectatus sum <note>(Psal. LXXVI)</note>
+          </hi>. In quarto gradu dicitur
+insatiabilis amor: <hi>Quid retribuam Domino pro
+omnibus quae retribuit mihi? <note>(Psal. CXV.)</note>
+          </hi> In primo est
+insuperabilis, et dicitur: <hi>Quis nos separabit a charitate?
+An tribulatio, an angustia, an persecutio, an fames,
+an nuditas, an periculum, an gladius? <note>(Rom. VIII.)</note>
+          </hi> 
+In secundo <hi>charitas nunquam excidit,</hi> eo quod inseparabilis
+sit, unde et dicitur: <hi>Adhaesit anima mea
+post te <note>(Psal. LXII)</note>
+          </hi>, eo quod ab illo avelli non possit.
+In tertio: <hi>Omnia arbitratur ut stercora ut Christum
+<pb n="1215C"/>
+lucrifaciat <note>(Philip. III)</note>
+          </hi>. In quarto <hi>sibi vivere Christus
+est, et mori lucrum,</hi> eo quod cupiat <hi>dissolvi et esse
+cum Christo <note>(Philip. I)</note>
+          </hi>. In primo gradu diligitur
+Deus ex corde, et ex anima et mente, nullum tamen
+horum fit ex toto. In secundo diligitur ex toto corde.
+In tertio diligitur ex tota anima. In quarto autem
+diligitur ex tota virtute. Dilectio ex corde,
+dilectio quae est ex deliberatione; diligere autem
+ex anima, est diligere ex affectione; ad cor consilium,
+ad animam autem pertinet desiderium. Vultis
+autem nosse quod consilium ad cor debeamus referre? <hi>Ephraim,</hi> 
+ inquit, <hi>columba seducta, non habens
+cor <note>(Ose. VII)</note>
+          </hi>. Quid est populum cor non habere nisi
+ipsum sine consilio esse? Quid, inquam, est populum
+<pb n="1215D"/>
+columbam esse seductam, et sine corde, nisi quod
+alibi dicit: <hi>Gens absque consilio et sine prudentia? <note>(Deut. XXXII.)</note>
+          </hi> 
+ Nihil itaque aliud est sine corde esse,
+quam consilio et prudentia carere. Sed quemadmodum
+jam dictum est, sicut ad cor consilium, sic
+ad animam pertinet desiderium: <hi>Qui perdiderit,</hi> 
+inquit, <hi>animam suam in hoc mundo, in vitam aeternam
+custodit eam <note>(Joan. XII)</note>
+          </hi>. Quid est aliud animam
+suam in hoc mundo perdere, nisi in hoc mundo
+(quemadmodum alias praeceptum est): <hi>Post concupiscentias
+suas non ire? <note>(Eccle. XVIII.)</note>
+          </hi> Quo enim
+in hoc mundo quis desideria sua propter Deum
+mortificat, eo verius ipsa ad aeternam plenitudinem
+dilatat. Diligere itaque ex corde est diligere ex consilio
+et deliberatione. Diligere ex anima, est diligere
+<pb n="1216A"/>
+ex desiderio et affectione. Illud ex studio, istud
+pro voto. Diligere ex toto corde, ex tota anima,
+et ex tota virtute, est omne studium, omne desiderium,
+omne exercitium in hoc unum impendere.</p>
+<p>Saepe ad aliquid diligendum trahimur ex affectione,
+et tamen renitimur ex ratione. Et saepe multa
+ex proposito deliberationis diligimus, quae tamen
+per desiderii appetitum minime affectamus. In carnalibus
+itaque desideriis saepe prius est diligere ex
+anima quam diligere ex corde. In spiritualibus autem
+semper prius est diligere ex deliberatione
+quam ex affectione. Nunquam enim spiritualia ex
+desiderio diligimus, nisi ad eorum affectum cum
+magno studio animum inflammemus. Si igitur
+Deum cupimus ex tota anima diligere, prius satagamus
+<pb n="1216B"/>
+diligere ex toto corde. In hoc sit omnis nostra
+cogitatio, ad hoc omnis nostra deliberatio, circa
+hoc omnis nostra meditatio, si volumus diligere ex
+toto desiderio. Sed sicut nunquam ex tota anima
+diligimus, nisi prius toto corde diligamus, sic nunquam
+tota virtute diligimus, nisi prius tota anima
+diligamus. Si enim ad aliquid affectum habemus quod
+propter Deum non diligimus, profecto adulterinus affectus
+in tantum summae charitatis con tantiam frangit
+viresque ejus imminuit, in quantum ad aliena desideria
+animum trahit vel impellit. In primo igitur gradu,
+ut dictum est, diligitur ex corde, in secundo diligitur
+ex toto corde, in tertio autem ex tota anima, et in
+quarto ex omni virtute. Forte adhuc David in primo
+gradu erat, sed jam de secundo praesumebat quando
+<pb n="1216C"/>
+psallens dicebat: <hi>Confitebor tibi, Domine, in toto corde
+meo <note>(Psal. CX)</note>
+          </hi>. Qui in secundo gradu est fiducialiter
+psallere potest: <hi>In toto corde meo exquisivi te <note>(Psal. CXVIII)</note>
+          </hi>.
+Qui tertium gradum obtinet, profecto
+ejusmodi jam dicere valet. <hi>Concupivit anima mea,
+Domine, desiderare justificationes tuas in omni tempore <note>(ibid.)</note>
+          </hi>.
+Qui quartum gradum ascendit, et Deum
+ex tota virtute diligit, dicere potest, profecto: <hi>Non
+timebo quid faciat mihi homo <note>(Psal. CXVII)</note>
+          </hi>, eo quod
+sit paratum cor ejus, sperare in Domino, confirmatum
+est cor ejus, non commovebitur in aeternum donec
+despiciat inimicos suos. In primo gradu, fit desponsatio,
+in secundo nuptiae, in tertio copula, in
+quarto puerperium. In primo gradu dilectae dicitur:
+<pb n="1216D"/> <hi>Sponsabo te mihi in sempiternum, et sponsabo te mihi
+in justitia, et judicio, et in misericordia, et in miserationibus,
+et sponsabo te mihi in fide 
+ <note>(Osee II)</note>
+          </hi>. In secundo
+gradu, fiunt nuptiae in Cana Galilaeae, et dicitur
+ei: <hi>Ecce ego vir tuus, et post me ingredi non
+cessabis <note>(Jer. III)</note>
+          </hi>. De tertio gradu dicitur: <hi>Qui adhaeret
+Domino unus spiritus est <note>(I Cor. VI)</note>
+          </hi>. De quarto
+dicitur: <hi>Concepimus, et quasi parturivimus, et peperimus
+spiritum <note>(Isa. XXVI)</note>
+          </hi>. In primo itaque gradu,
+dilecta frequenter visitatur; in secundo ducitur; in
+tertio dilecto copulatur; in quarto fecundatur. In
+primo ergo gradu semper suspensa ad reditum dilecti
+clamat, et dicit: <hi>Veni, dilecte mi, similis esto
+capreae hinnuloque cervorum super montes Bethel <note>(Cant. II)</note>
+          </hi>.
+In secundo, invitatur ut veniat, et dicitur
+<pb n="1217A"/>
+ei: <hi>Veni ad Libanum, soror mea, sponsa, veni a
+Libano <note>(Cant. IV)</note>
+          </hi>. In tertio gradu dilecto copulata
+prostratur, et dicit: <hi>Laeva ejus sub capite meo, et
+dextera illius amplexabitur me <note>(Cant. VIII)</note>
+          </hi>. In quarto
+gradu de sua fecunditate gloriatur, et dicit: <hi>Filioli
+mei quos iterum parturio donec Christus formetur in
+vobis <note>(Galat. IV)</note>
+          </hi>. Unde et ei dicitur: <hi>Duo ubera tua
+sicut duo hinnuli caprearum qui pascuntur in liliis <note>(Cant. IV)</note>
+          </hi>.
+Penetremus adhuc profundius, et loquamur
+apertius. In primo gradu anima sitit, in secundo
+sitit ad Deum, in tertio sitit in Deum, in quarto sitit
+secundum Deum. Deum anima sitit, quae dicit: <hi>Anima mea desideravit te in nocte, sed et spiritu meo
+in praecordiis meis de mane vigilabo ad te 
+ <note>(Isa. XXVI)</note>
+          </hi>.
+Ad Deum anima sitit, quae dicit: <hi>Sitivit anima mea
+<pb n="1217B"/>
+ad Deum fontem vivum, quando veniam et apparebo
+ante faciem Domini? <note>(Psal. XLI.)</note>
+          </hi> In Deum anima sitit,
+quae dicit: <hi>Sitivit in te anima mea, quam multipliciter
+tibi caro mea <note>(Psal. LXII)</note>
+          </hi>. Secundum Deum
+anima sitit, quae dicitur: <hi>Concupivit anima mea, Domine,
+justificationes tuas in omni tempore <note>(Psal.
+CXVIII)</note>
+          </hi>. Sitit anima Deum, quando experiri desiderat
+quae sit illa interna dulcedo quae mentem hominis
+inebriare solet, dum incipit gustare, et videre
+quam suavis est Dominus. Sitit anima ad Deum,
+quando per contemplationis gratiam supra se elevari,
+et Legem in decore suo videre desiderat, ut
+veraciter audeat et dicat: <hi>Quia vidi Dominum facie
+ad faciem, et salva facta est anima mea <note>(Gen. XXXII)</note>
+          </hi>.
+In Deum anima tunc sitit, quando per mentis excessum
+<pb n="1217C"/>
+tota in Deum transire concupiscit, ita ut sui
+penitus oblita veraciter dicere possit: <hi>Sive in corpore,
+sive extra corpus nescio, Deus scit <note>(II Cor. XII)</note>
+          </hi>.
+Secundum Deum anima sitit, quando de propria voluntate,
+non dicam in carnalibus, sed nec in spiritualibus
+quidem animus aliquid de suo arbitrio relinquit,
+sed totum Domino committit, nunquam cogitans
+quae sua sunt, sed quae Jesu Christi, ut et
+ipsa dicere possit: <hi>Non veni facere voluntatem meam,
+sed voluntatem Patris mei qui in coelis est <note>(Joan. V)</note>
+          </hi>.
+In primo itaque gradu Deus intrat ad animum, et
+animus redit ad seipsum. In secundo gradu ascendit
+supra seipsum et elevatur ad Deum. In tertio gradu
+animus elevatus ad Deum totus transit in ipsum. In
+<pb n="1217D"/>
+quarto animus exit propter Deum, et descendit sub
+semetipsum. In primo animus ingreditur ad seipsum,
+in secundo transgreditur semetipsum. In primo pergit
+in seipsum, in tertio pergit in Deum suum. In
+primo ingreditur propter seipsum, in quarto egreditur
+propter proximum. In primo intrat meditatione,
+in secundo ascendit contemplatione, in tertio retroducitur
+in jubilatione, in quarto egreditur ex compassione.
+In primo itaque gradu spiritus ille super
+mel dulcis intrat ad animam, et dulcedine sua inebriat
+eam, in tantum ut habeat mel et lac sub lingua
+sua, et fiant favus distillans labia sua. Memoriam
+abundantiae suavitatis eructabunt qui ejusmodi
+sunt, eo quod ex abundantia cordis os loquatur.
+Haec est prima consolatio quae abrenuntiantes saeculo
+<pb n="1218A"/>
+primo excipit, et in boni proposito consolidare
+consuevit. Hic est cibus ille coelestis qui egredientes
+de Aegypto solet reficere et per solitudinem pascere,
+hoc est illud manna absconditum quod nemo novit
+nisi qui accipit. Hic est ille dulcor spiritualis et interna
+suavitas, quae quasi modo genitos infantes
+semper solet lactare et alere, et ad maturitatis robur
+paulatim perducere.</p>
+<p>In hoc itaque statu anima a Domino in solitudinem
+ducitur, ibique lactatur, ut interna dulcedine
+inebrietur. Audi quid de hoc statu dicitur, ubi Dominus
+per prophetam loquitur: <hi>Propter hoc,</hi> inquit, <hi>ecce ego lactabo eam, et educam eam in solitudinem,
+et loquar ad cor ejus 
+ (Ose II)</hi>. Sed prius oportet
+Aegyptum deserere, prius oportet mare rubrum
+<pb n="1218B"/>
+transire. Prius necesse est Aegyptios in aquis perire,
+prius necesse est Aegypti cibos deficere, quam possimus
+hoc spirituale alimentum cibumque coelestem
+percipere, Aegyptum non solum corpore, sed et corde
+deserat, mundique amorem penitus deponat qui
+coelestis illos solitudinis cibos desiderat. Transeat rubrum
+mare, omnem moerorem et amaritudinem studeat
+de corde expellere qui satiari desiderat interna
+dulcedine. Prius subjugentur Aegyptii pareantque
+mores perversi, ne degenerem convivam dedignentur
+cives angelici. Prius necesse est Aegyptiacos cibos
+deficere, et carnales voluptates in abominationem
+vertere, quam experiri liceat quae sint illae internae et
+aeternae deliciae. Absque dubio amor Dei quanto plenius
+omnem alium affectum vincit, tanto saepius,
+<pb n="1218C"/>
+tanto uberius animum interna jucunditate reficit.
+Sub hoc itaque statu mens sugit mel de petra, oleumque
+de saxo durissimo. Sub hoc statu stillabunt
+montes dulcedinem, et colles fluent lac et mel. Sub
+hoc statu animam esurientem et sitientem saepe Dominus
+visitat, saepe interna suavitate satiat, spiritusque
+sui dulcedine inebriat. Saepe sub hoc statu Dominus
+descendit de coelis, saepe visitat sedentem in
+tenebris et umbra mortis, saepe gloria Domini implet
+tabernaculum foederis. Sic tamen praesentiam
+suam exhibet ut faciem suam minime ostendat.
+Dulcorem suum infundit, sed decorem suum non
+ostendit. Infundit suavitatem, sed non ostendit
+claritatem. Suavitas itaque ejus sentitur, sed species
+<pb n="1218D"/>
+non cernitur. Adhuc nubes et caligo in circuitu
+ejus. Adhuc thronus ejus in columna nubis. Et lene
+quidem, et blandum admodum quod sentitur,
+sed nubilum omnino quod cernitur. Nondum namque
+apparet in lumine. Et quamvis appareat in
+igne, magis tamen in igne accendente quam illuminante.
+Accendit namque affectum, sed nondum illuminat
+intellectum. Desiderium inflammat, sed intellectum
+non illuminat. In hoc itaque statu anima
+dilectum suum sentire potest, sed, sicut dictum est,
+videre non potest. Et si videt, quidem videt quasi
+in nocte, videt velut sub nube, videt denique per
+speculum in aenigmate, nondum autem facie ad faciem.
+Unde et dicit: <hi>Illumina faciem tuam super
+servum tuum <note>(Psal. CXVIII)</note>
+          </hi>. Hoc igitur ex isto primo
+<pb n="1219A"/>
+dilectionis gradu agitur ut, dum mens saepe visitatur,
+saepe reficitur, saepe inebriatur, quandoque ad
+majora audenda provocetur. Incipit ergo tandem aliquando
+ampliora praesumere, et sublimiora postulare.
+In tantum, ut audeat et dicat: <hi>Si inveni gratiam
+in oculis tuis, ostende mihi temetipsum <note>(Exod.
+XXXIII)</note>
+          </hi>. Nec tamen quod petitur statim pro voto percipitur,
+quamvis intimo desiderio postuletur. Oportet
+sane ardenter petere, diligenter quaerere, fortiter
+pulsare, et in his omnibus pertinaciter insistere, si
+optata volumus obtinere. Nonne tibi videtur jamdiu
+multumque laborasse, jamque pene deficere, et
+quasi a spe concidisse, qui dicit: <hi>Usquequo, Domine,
+oblivisceris mei in finem, usquequo avertis faciem
+tuam a me? <note>(Psal. CXII)</note>
+          </hi>. Sed sciens quia omnis
+<pb n="1219B"/>
+qui petit accipit, et qui quaerit invenit, et pulsanti
+aperietur, iterum iterum que fiduciam recipit,
+viresque ejus resumit, et dicit: <hi>Exquisivit te facies
+mea, faciem tuam, Domine, requiram <note>(Psal. XXVI)</note>
+          </hi>.
+Quando ergo mens cum magno studio ardentique desiderio
+ad divinae contemplationis gratiam proficit,
+jam quasi ad secundum amoris gradum proficit,
+quando meretur per revelationem inspicere quod
+oculos non vidit, nec auris audivit, nec in cor hominis
+ascendit, ita ut veraciter dicere possit: <hi>Nobis
+autem revelavit Deus per spiritum suum <note>(I Cor. II)</note>
+          </hi>.
+Nonne hanc gratiam videtur accepisse qui angelos
+ascendentes et descendentes meruit videre, simulque
+Dominum innixum scalae? Unde et dicit: <hi>Vidi Dominum
+facie ad faciem, et salva facta est anima
+<pb n="1219C"/>
+mea <note>(Gen. XXXII)</note>
+          </hi>. Hanc gratiam acceperat, et quasi
+assuetus repetebat, qui dicebat: <hi>Emitte lucem tuam
+et veritatem tuam, ipsa me deduxerunt et adduxerunt
+in montem sanctum tuum, et in tabernacula tua <note>(Psal. XLII)</note>
+          </hi>.
+Hanc gratiam acceperant, et penna
+contemplationis volabant quos propheta mirando
+intuebatur, et intuendo mirabatur: <hi>Qui sunt isti,</hi> 
+inquit, <hi>qui ut nubes volant, et quasi columbae ad fenestras
+suas? <note>(Isai. LX.)</note>
+          </hi> In hoc itaque gradu alii petunt
+sibi dari pennas ut aquilae: <hi>Quis,</hi> inquit, <hi>dabit
+mihi pennas sicut columbae, et volabo, et requiescam? <note>(Psal. LIV)</note>
+          </hi>.
+Et alias propheta <hi>Qui sperant,</hi> inquit, <hi>in Domino mutabunt fortitudinem, assument pennas
+ut aquilae, volabunt et non deficient 
+ <note>(Psal. XL)</note>
+          </hi>. In
+<pb n="1219D"/>
+hoc gradu contemplationis suae alis animae sustolluntur
+supra altitudinem nubium; in hoc gradu
+ejusmodi alis evolant usque ad coelum, non
+solum usque ad primum, sed etiam ad secundum,
+ita ut de reliquo dicere possint: <hi>Nostra
+conversatio in coelis est <note>(Philipp. III)</note>
+          </hi>. Supra hoc geminum
+coelum est adhuc tertium coelum, quod dicitur
+coelum coelorum. Ad hoc itaque tertium coelum
+omnino ascendere non possunt etiam illi qui ad secundum
+amoris gradum profecerunt. Quod est terra
+ad primum coelum; et quod est primum coelum ad
+secundum, hoc est secundum coelum ad coelum
+coelorum. Secundum itaque coelum, si vultis,
+terra est, et coelum, imo et coelum coeli est. Sed
+coelum coeli est ad primum coelum, terra autem
+<pb n="1220A"/>
+ad coelum coelorum. Hanc terram, ut arbitror, Propheta
+significare voluit, cum dicit: <hi>Portio mea in
+terra viventium <note>(Psal. CXLI)</note>
+          </hi>. Habet itaque haec terra
+coelum suum; habet et solem suum. Nec alium hunc
+esse arbitror quam illum quem Dominus per prophetam
+pollicetur: <hi>Non occidet ultra sol tuus, et luna
+tua non minuetur, quia Dominus erit tibi in lucem
+sempiternam <note>(Isai. LX)</note>
+          </hi>. Si igitur in hoc coelo, sive
+in hac terra es, illum solem videre habes sub quo
+aestuant et ardent illi angelici spiritus qui seraphin
+hoc est ardentes dicti sunt. Et ex re nomen habere
+meruerunt, eo quod non sit ex eis omnibus qui se
+abscondat a calore ejus. Solem itaque justitiae videre
+potes si in hac terra es, et ad secundum amoris
+gradum profecisti, et dicitur tibi: <hi>Non erit amplius
+<pb n="1220B"/>
+tibi sol ad lucendum per diem; nec splendor
+lunae illuminabit te, sed erit tibi Dominus in lucem
+sempiternam, et Deus in gloriam tuam <note>(Ibid.)</note>
+          </hi> In hoc
+itaque statu experiri licet illius sententiae veritatem,
+quam <hi>dulce lumen, et delectabile oculis videre solem <note>(Eccle. XI)</note>
+          </hi>.
+In hoc statu anima experientiae magisterio
+edocta psallit ex sententia: <hi>Quoniam melior
+est dies una in atriis tuis super millia <note>(Psal. LXXXIII)</note>
+          </hi>.
+Verum hujus visionis jucunditas quanta sit, quis
+digne exprimere possit? Haec sane jucunditas semel
+experta, semel degustata; sicut praesens nec fastidiri
+potest, sic absens nec oblivisci potest. Dum
+enim animus ab illo lumine descendit, et ad seipsum
+recidit, quasdam inde secum reliquias cogitationum
+trahit ex quibus seipsum reficit, imo et
+<pb n="1220C"/>
+diem festum agit, quemadmodum Scriptura loquitur
+quae dicit: <hi>Et reliquiae cogitationum diem festum
+agent tibi <note>(Psal. LXXVIII)</note>
+          </hi>. Cogita igitur quanta sit
+solemnitas in abundantia visionis, si festum agitur
+ex reliquiis cogitationis. Quae erit jucunditas in
+ipsa visione, si tanta delectatio est in ejus recordatione?
+Haec itaque in hoc statu divini luminis revelatio,
+revelationisque admiratio jugi recordatione,
+perennique memoria ita animum insolubiliter ligat,
+ut expertam jucunditatem oblivisci non valeat. Et
+sicut in priori gradu degustata suavitas animum
+satiat, affectumque transfigit, sic in hoc gradu inspecta
+claritas cogitationem ligat, ut illius oblivisci,
+vel aliud cogitare non possit. In secundo itaque
+<pb n="1220D"/>
+gradu, ut dictum est, coelum coelorum, lumenque
+illud inaccessibile videri potest, sed adiri non potest,
+alioquin inaccessibile non esset, si adiri potuisset: <hi>Beatus,</hi> 
+ inquit Apostolus, <hi>et solus potens Rex
+regum et Dominus dominantium, qui solus habet
+immortalitatem, et lucem inhabitat inaccessibilem <note>(I Tim. VI)</note>
+          </hi>.
+Adiri itaque non potest, quod inaccessibile
+est. Denique et Apostolus ad illam aeterni luminis
+regionem se raptum fuisse gloriatur: <hi>Scio,</hi> 
+inquit, <hi>hominem in Christo, sive in corpore, sive extra
+corpus, nescio, Deus scit: raptum hujusmodi
+usque ad tertium coelum <note>(II Cor. XII)</note>
+          </hi>. Tertius itaque
+amoris gradus est quando mens hominis in illam
+rapitur divini luminis abyssum, ita ut humanus animus
+in hoc statu exteriori omnium oblitus penitus
+<pb n="1221A"/>
+nesciat seipsum totusque transeat in Deum suum, et
+faciat quod scriptum est: <hi>Etenim non credentes inhabitare
+Dominum Deum. <note>(Psal. LXVII)</note>
+          </hi>. In hoc itaque statu
+plene compescitur, profundeque sopitur carnalium
+desideriorum turba, et fit in coelo silentium quasi
+hora dimidia. Et quidquid molestiae inest absorbetur
+a gloria. In hoc statu dum mens a seipsa alienatur,
+dum in illud divini arcani secretarium rapitur, dum
+ab illo divini amoris incendio undique circumdatur,
+intime penetratur, usquequaque inflammatur seipsam
+penitus exuit, divinum quemdam affectum induit, et
+inspectae pulchritudini configurata tota in aliam
+gloriam transit.</p>
+<p>Vide quid intersit inter ferrum et ferrum: inter
+ferrum frigidum et fervidum, hoc est inter animum
+<pb n="1221B"/>
+et animum, inter animum tepidum, et animum divino
+incendio inflammatum. Cum enim ferrum in
+ignem projicitur, tam frigidum quam nigrum procul
+dubio primo videtur. Sed dum in ignis incendio moram
+facit, paulatim incalescit, paulatim nigredinem
+deponit, sensimque incandescens, paulatim in se
+ignis similitudinem trahit, donec tandem totum liquefiat,
+et a seipso plene deficiat, et in aliam penitus
+qualitatem transeat. Sic itaque, sic anima divini
+ardoris rogo intimique amoris incendio absorpta,
+aeternorumque desideriorum globis undique circumsepta
+primo incalescit, postea incandescit, tandem
+autem tota liquescit, et a priori statu penitus deficit.
+Vultis audire ex ejusmodi igne jam incalescentes, et
+internorum desideriorum aestibus jamjamque inardescentes?
+<pb n="1221C"/> <hi>Nonne cor nostrum ardens erat in nobis
+dum loqueretur nobis in via, et aperiret nobis Scripturas? <note>(Luc. XXIV.)</note>
+          </hi> 
+ Nonne et illi ex circumfusa divinitatis
+flamma, et velut ex inspecta gloria incandescunt,
+et divinae luci configurati jam quasi in
+aliam gloriam transeunt, qui revelata facie gloriam
+Domini speculantes, in eamdem imaginem
+transformantur a claritate in claritatem tanquam a
+Domini Spiritu? Vultis adhuc audire animam divinae
+lectionis igne succensam et liquefactam: <hi>Anima mea
+liquefacta est ut dilectus locutus est <note>(Cant. V)</note>
+          </hi>.
+Statim siquidem ut ad illud internum divini arcani
+secretum admittitur, prae admirationis magnitudine,
+jucunditatisque abundantia, in seipsa, imo in
+<pb n="1221D"/>
+ipsum qui loquitur tota resolvitur, dum incipit audire
+arcana illa verba quae non licet homini loqui, et
+intelligi incerta et occulta sapientiae divinae manifestari
+sibi. In hoc itaque statu Spiritus omnia scrutatur,
+etiam profunda Dei. In hoc statu qui
+adhaeret Domino unus Spiritus est. In hoc statu,
+ut dictum est, anima in illum quem diligit tota liquescit,
+et in seipsa tota languescit, unde et dicit: <hi>Fulcite me floribus, stipate me malis quia amore
+langueo 
+ <note>(Cant. II)</note>
+          </hi>. Quemadmodum igitur in liquidis
+vel in liquefactis nihil duritiae, nil firmitatis videmus
+inesse, sed duris omnibus ac rigidis sine difficultate
+cedere, et quemadmodum in languidis
+videmus nil proprii vigoris, nil nativae virtutis
+habere; sed totum quod juvat ex alieno arbitrio
+<pb n="1222A"/>
+pendere, sic qui ad hunc tertium amoris gradum
+profecerunt, nil jam propria voluntate agunt: nihil
+omnino suo arbitrio relinquunt, sed divinae dispositioni
+omnia committunt. Omne eorum votum,
+omne desiderium ad divinum pendet nutum, ad divinum
+spectat arbitrium. Et, sicut primus gradus
+affectum sauciat, et sicut secundus cogitationem
+ligat, sic tertius actionem implicat, ut omnino circa
+aliquid occupari non possit, nisi quo eum divinae
+voluntatis virtus trahit, vel impellit.</p>
+<p>Cum igitur anima in hunc modum divino fuerit
+igne decocta, medullitus emollita, penitusque liquefacta,
+quid jam supererit nisi ut ei proponatur quae
+sit voluntas Dei bona, beneplacens atque perfecta,
+quasi quaedam ad quam informetur consummatae
+<pb n="1222B"/>
+virtutis, formula? Sicut enim exclusores
+liquefactis metallis propositisque formulis, quamlibet
+imaginem pro voluntatis arbitrio excludunt et
+vasa quaelibet juxta modum congruum formamque
+destinatam producunt; sic anima in hoc esse ad
+omnem divinae voluntatis nutum facile se applicat,
+imo spontaneo quodam desiderio ad omne ejus arbitrium
+seipsam accommodat, et juxta divini beneplaciti
+modum omnem voluntatem suam informat.
+Et, sicut metallum liquefactum quocunque ei via
+aperitur, facile ad inferiora currendo delabitur, sic
+anima in hoc esse ad omnem obedientiam se sponte
+humiliat, et ad omnem humilitatem juxta divinae
+dispositionis ordinem libenter inclinat. In hoc
+itaque statu animae ejusmodi proponitur forma
+<pb n="1222C"/>
+voluntati Christi, unde et dicitur ei: <hi>Hoc sentite in
+vobis, quod et in Christo Jesu. Qui cum in forma
+Dei esset, non rapinam arbitratus est esse aequalem
+Deo; sed semetipsum exinanivit formam servi
+accipiens, in similitudinem hominum factus, et
+habitu inventus ut homo; humiliavit autem semetipsum,
+factus obediens usque ad mortem, mortem
+autem crucis <note>(Philip. II)</note>
+          </hi>. Haec est forma humilitatis
+Christi, ad quam conformare se debet quisquis
+supernum consummatae charitatis gradum attingere
+volet. Majorem siquidem charitatem nemo habet,
+quam ut animam suam ponat quis pro amicis suis.
+Ad summum itaque charitatis culmen profecerunt,
+et jam in quarto charitatis gradu positi sunt, qui
+<pb n="1222D"/>
+pro amicis animam suam ponere, et illud Apostolicum
+implere jam possunt: <hi>Estote imitatores Dei
+sicut filii charissimi, et ambulate in dilectione sicut
+et Christus dilexit vos, et tradidit semetipsum pro
+vobis oblationem et hostiam Deo in odorem suavitatis. <note>(Ephes. V)</note>
+          </hi>.
+In tertio itaque gradu anima in
+Deum glorificatur, in quarto propter Deum humiliatur.
+In tertio gradu conformatur divinae claritati, in
+quarto vero conformatur Christianae humilitati. Et
+cum in tertio gradu quodammodo, quasi in forma
+Dei esset, nihilominus tamen in quarto gradu
+semetipsum exinanire incipit, formam servi accipiens,
+et habitu iterum invenitur ut homo. In tertio
+itaque gradu quodammodo mortificatur in Deum,
+in quarto quasi resuscitatur in Christum. Qui
+<pb n="1223A"/>
+igitur in quarto gradu est, veraciter dicere potest: <hi>Vivo autem jam non ego, vivit vero in me
+Christus 
+ <note>(Galat. II)</note>
+          </hi>. Incipit ergo in novitate vitae
+ambulare qui ejusmodi est, quia de reliquo sibi
+vivere Christus est, et mori lucrum. Coarctatur
+sane e duobus desiderium habens dissolvi et
+cum Christo esse: multo enim melius, permanere
+in carne necessarium ducit propter nos.
+Charitas enim Christi urget eum; sit igitur nova
+creatura, qui ejusmodi est; vetera transierunt, et ecce
+nova facta sunt omnia. In tertio enim gradu mortificatus,
+in quarto quasi resurgens ex mortuis, jam
+non moritur, mors illi ultra non dominabitur, quod
+enim vivit, vivit Deo. Secundum aliquem igitur modum
+anima in hoc gradu efficitur immortalis, et impassibilis.
+<pb n="1223B"/>
+Quomodo enim mortalis est si mori non
+potest? aut quomodo mori potest, si ab ea separari
+non potest, qui vita est? Scimus satis cujus sit ista
+sententia: <hi>Ego sum via, veritas, et vita <note>(Joan. XIV)</note>
+          </hi>.
+Quomodo ergo mori potest, qui ab illis separari non
+potest: <hi>Certus sum,</hi> inquit, <hi>quia neque mors neque vita,
+neque angeli, neque archangeli, neque principatus, neque
+potestates, neque virtutes, neque instantia, neque futura,
+neque fortitudo, neque altitudo, neque profundum,
+neque creatura alia poterit nos separare a charitate
+Dei, quae est in Christo Jesu <note>(Rom. VIII)</note>
+          </hi>. Nonne et
+ille secundum aliquem modum impassibilis videri
+possit, qui illata damna non sentit, qui semper ad
+omnem injuriam hilarescit, et quidquid infertur ad
+<pb n="1223C"/>
+poenam, totum praesumit ad gloriam, juxta illam
+Apostoli sententiam: <hi>Libenter,</hi> inquit, <hi>gloriabor in
+infirmitatibus meis, ut inhabitet in me virtus Christi <note>(II Cor. XII)</note>
+          </hi>.
+Quasi enim impassibilis manet, cui
+in passionibus, et contumeliis pro Christo complacet: <hi>Propter quod complaceo mihi,</hi> 
+ inquit, <hi>in infirmitatibus,
+in contumeliis, in necessitatibus, in persecutionibus,
+in angustiis pro Christo <note>(ibid.)</note>
+          </hi>. Qui in hoc
+gradu est, dicere fidenter potest: <hi>Omnia possum in
+eo qui me confortat <note>(Philip. IV)</note>
+          </hi>, eo quod sciat satiari,
+et esurire, et abundare, et penuriam pati. In hoc
+gradu charitas omnia suffert, omnia credit, omnia
+sperat, omnia sustinet. In hoc gradu charitas patiens
+est, benigna est, non est ambitiosa, non quaerit quae
+sua sunt, nescit reddere malum pro malo, nec maledictum
+<pb n="1223D"/>
+pro maledicto. Sed econtrario benedicit.
+Qui ad hunc charitatis gradum ascendit, absque
+<pb n="1224A"/>
+dubio in hoc gradu amoris est qui veraciter dicere
+potest: <hi>Omnibus omnia factus sum, ut omnes facerem
+salvos <note>(I Cor. IX)</note>
+          </hi>. Denique cupit anathema fieri
+a Christo pro fratribus suis, qui ejusmodi est. Quid
+ergo dicemus? nonne hic amoris gradus videtur animum
+hominis quasi in amentiam vertere, dum non
+sinit eum in sua aemulatione modum, mensuramve
+tenere? Nonne summae amentiae videtur esse, veram
+vitam repellere, summam sapientiam arguere, omni
+potentiae resistere? Nonne vitam repellit, qui pro
+fratribus a Christo separari cupit, sicut et ille, qui
+dicit: Aut ignosce illis hanc noxam, aut dele me de
+libro, quem scripsisti? <note>(Exod. XXXII.)</note> Nonne sapientiam
+arguere, seu velle docere videtur, qui ad Dominum
+loquitur: <hi>Absit a te ut hanc rem facias et
+<pb n="1224B"/>
+occidas cum impio justum fiatque justus sicut impius <note>(Gen. XVIII)</note>
+          </hi>.
+Non est tuum hoc, qui judicas omnem
+terram, nequaquam facies judicium? Nonne omnipotentiae
+resistere tentavit, Omnipotentisque iram
+mitigare homo praesumpsit atque praevaluit, quando
+jam egressa sententia a Domino, quando jam saeviente
+incendio, igni furenti homo se objecit, et timentes
+ac morientes medius interstetit, necessitatique
+finem imposuit? Ecce in quantam praesumptionis
+audaciam, consummatio charitatis solet mentem
+hominis erigere; ecce quomodo facit hominem
+ultra hominem praesumere. Sic enim totum plus
+est quam humanum, quod de Domino praesumit,
+quod pro Domino agit, quod in Domino agit, quod
+<pb n="1224C"/>
+in Domino vivit. Totum mirum, totum stupendum.
+Quantum praesumit de Domino, tantum se dejicit pro
+Domino. Quantum ascendit per praeumptionem,
+tantum descendit per humiliationem. Sicut supra
+hominem est quo ascendit per fiduciam, sic ultra
+hominem est quo descendit per patientiam. In primo
+itaque gradu, ut dictum est, animus redit ad se ipsum,
+in secundo ascendit in Deum, in tertio transit
+in Deum, in quarto descendit sub semetipsum. In
+primo et secundo elevatur; in tertio et quarto
+transfiguratur. In primo ad semetipsum ascendit,
+in secundo semetipsum transcendit, in tertio configuratur
+claritati Dei, in quarto configuratur humilitati
+Christi. Vel in primo reducitur, in secundo
+transfertur, in tertio transfiguratur, in quarto
+<pb n="1224D"/>
+resuscitatur.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+{
+  "id": "richard-de-quatuor-gradibus-violentae-caritatis",
+  "cover": "classic",
+  "name": {
+    "la": "De quatuor gradibus violentae caritatis",
+    "en-US": "On the Four Degrees of Violent Charity",
+    "pt-BR": "Sobre os quatro graus da caridade violenta"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "De quatuor gradibus violentae charitatis: insuperabilis, inseparabilis, singularis, insatiabilis.",
+    "en-US": "Richard’s short treatise on four degrees of love that wounds, binds, makes single and cannot be satisfied, taking as its text “I am wounded with charity” (Canticle 2:5). Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "O breve tratado de Ricardo sobre os quatro graus do amor que fere, prende, faz único e não se sacia: “Estou ferida de caridade” (Ct 2,5)."
+  },
+  "composed": "c. 1160-1170",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/de-quatuor-gradibus-violentae-caritatis",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeQuGrV",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeQuGrV, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "De quatuor gradibus violentae charitatis (pars 1)"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "De quatuor gradibus violentae charitatis (pars 2)"
+      }
+    }
+  ]
+}
