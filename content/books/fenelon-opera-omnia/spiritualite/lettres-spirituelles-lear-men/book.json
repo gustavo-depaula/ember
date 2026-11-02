@@ -1,0 +1,126 @@
+{
+  "id": "fenelon-lettres-spirituelles-lear-men",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres spirituelles : lettres à des hommes (traduction de Lear)",
+    "en-US": "Spiritual Letters to Men",
+    "pt-BR": "Cartas espirituais a homens"
+  },
+  "author": {
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Choix de lettres de direction de Fénelon à des hommes (le duc de Chevreuse, le marquis de Fénelon, le duc de Bourgogne, des ecclésiastiques et d’autres), traduit en anglais par H. L. Sidney Lear (1880).",
+    "en-US": "A selection of Fénelon’s letters of direction to men (the Duc de Chevreuse, the Marquis de Fénelon, the Duke of Burgundy, clergymen and others), translated by H. L. Sidney Lear (1880).",
+    "pt-BR": "Seleção de cartas de direção de Fénelon a homens (o duque de Chevreuse, o marquês de Fénelon, o duque de Borgonha, eclesiásticos e outros), traduzida para o inglês por H. L. Sidney Lear (1880)."
+  },
+  "composed": "1685–1715",
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/lettres-spirituelles",
+  "editions": {
+    "en-US": {
+      "translator": "H. L. Sidney Lear",
+      "year": 1880
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/spiritualletter01fngoog",
+      "edition": "Spiritual Letters of Archbishop Fénelon: Letters to Men, tr. H. L. Sidney Lear, London: Rivingtons, 1880.",
+      "description": "archive.org OCR, lightly cleaned (running heads, hyphenation); residual OCR errors remain. Some letter headings are lost in the OCR; the ## subheads are the translator’s own subject lines.",
+      "tier": "A",
+      "tierEvidence": "Published before 1900; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettres-001-005",
+      "title": {
+        "en-US": "Letters 1–5"
+      }
+    },
+    {
+      "id": "lettres-007-019",
+      "title": {
+        "en-US": "Letters 7–19"
+      }
+    },
+    {
+      "id": "lettres-020-025",
+      "title": {
+        "en-US": "Letters 20–25"
+      }
+    },
+    {
+      "id": "lettres-026-031",
+      "title": {
+        "en-US": "Letters 26–31"
+      }
+    },
+    {
+      "id": "lettres-033-041",
+      "title": {
+        "en-US": "Letters 33–41"
+      }
+    },
+    {
+      "id": "lettres-043-057",
+      "title": {
+        "en-US": "Letters 43–57"
+      }
+    },
+    {
+      "id": "lettres-058-067",
+      "title": {
+        "en-US": "Letters 58–67"
+      }
+    },
+    {
+      "id": "lettres-069-077",
+      "title": {
+        "en-US": "Letters 69–77"
+      }
+    },
+    {
+      "id": "lettres-079-087",
+      "title": {
+        "en-US": "Letters 79–87"
+      }
+    },
+    {
+      "id": "lettres-089-099",
+      "title": {
+        "en-US": "Letters 89–99"
+      }
+    },
+    {
+      "id": "lettres-100-114",
+      "title": {
+        "en-US": "Letters 100–114"
+      }
+    },
+    {
+      "id": "lettres-116-124",
+      "title": {
+        "en-US": "Letters 116–124"
+      }
+    },
+    {
+      "id": "lettres-126-129",
+      "title": {
+        "en-US": "Letters 126–129"
+      }
+    },
+    {
+      "id": "lettres-132-134",
+      "title": {
+        "en-US": "Letters 132–134"
+      }
+    }
+  ]
+}
