@@ -1,0 +1,19 @@
+# Lettre CCCLVIII. À la Baronne de Chantal
+
+*Les " mons espouvantables " de Chamonix. - Mort tragique d'un berger. Réflexions de l'Evêque à ce propos; son humilité. - Une sainte villageoise, l'une des " grandes amies " du Saint. - Dans l'aridité spirituelle, regarder simplement Notre-Seigneur. -. Il faut être à Dieu sans réserve ni division.*
+
+Fin juillet ou commencement d'août 1606 . Mon Dieu, ma bonne Fille, que vos lettres me consolent et qu'elles me representent vivement vostre cœur et confiance en mon endroit, mais avec une si pure pureté, que je suis forcé de croire que cela vient de la mesme main de Dieu.
+
+J'ay veu ces jours passés des mons espouvantables tout couvertz d'une glace espaisse de dix ou douze piques , et les habitans des vallees voysines me dirent qu'un berger, allant pour recourir une sienne vache, tomba dans une fente de douze piques de haut, en laquelle il mourut gelé. 0 Dieu, ce dis je, et l'ardeur de ce berger estoit elle si chaude a la queste de sa vache, que cette glace ne l'a point refroidy ? Et pourquoy donques suis je si lasche a la queste de mes brebis ? Certes, cela m'attendrit le cœur, et mon cœur tout glacé se fondit aucunement ( lettre 366 ). Je vis des merveilles en ces lieux la : les vallees estoyent toutes pleines de maysons, et les mons, tout pleins de glace jusques au fond. Les petites vefves, les petites villageoises, comme basses vallees, sont si fertiles, et les Evesques, si hautement eslevés en l'Eglise de Dieu, sont tout glacés ! Ah ! ne se treuvera-il pas un soleil asses fort pour fondre celle qui me transit ?
+
+A mesme tems, on m'apporta un recueil de la vie et mort d'une sainte villageoise de mon diocese, laquelle estoit decedee au mois de juin . Que voulies vous que je pensasse la dessus ? Je vous en envoyeray un jour un extrait, car, sans mentir, il y a je ne sçai quoy de bon en cette petite histoire d'une femme mariee, et qui estoit, de sa grace, de mes grandes amies et m'avoit souvent recommandé a Dieu ( lettre 360 ).
+
+Je viens de parler pour vous a Nostre Seigneur en la sainte Messe, ma tres chere Fille, et certes, je n'ay pas osé luy demander absolument vostre delivrance ; car s'il luy plaist d'escorcher l'offrande qui luy doit estre presentee, ce n'est pas a moy de desirer qu'il ne le face pas ; mais je l'ay conjuré et conjure par cette si extreme dereliction par laquelle il sua le sang ( Lc 22,43 ) et s'escria sur la croix : Mon Dieu, mon Dieu, pourquoy m'as-tu delaissé
+
+( Ps 21,1 ; Mt 27,46 ), qu'il vous tienne tous-jours de sa sainte main, comme il a fait jusques a present, bien que vous ne sçachies pas de quel costé il vous tient, ou au moins que vous ne le senties pas. Certes, vous feres bien de regarder simplement Nostre Seigneur crucifié, et de luy protester vostre amour et absoluë resignation, toute seche, aride et insensible qu'elle est, sans vous amuser a considerer ni examiner vostre mal, non pas mesme pour me le dire.
+
+En fin nous sommes tout a Dieu, sans reserve, sans division, sans exception quelconque, et sans autre pretention que de l'honneur d'estre siens, Si nous avions un seul filet d'affection en nostre cœur qui ne fust pas a luy et de luy, 0 Dieu, nous l'arracherions tout soudainement. Demeurons donq en paix, et disons avec le grand amoureux de la Croix : Au demeurant, que nul ne me vienne inquieter, car quant a moy, je porte en mon cœur
+
+les stigmates de mon Jesus ( Ga 6, 17 ). Ouy, ma. tres chere Fille, si nous sçavions un seul brin de nostre cœur qui ne fust pas marqué au coin du Crucifix, nous ne le voudrions pas garder un seul moment. A quel propos s'inquieter ? Mon ame, espere en Dieu ; pourquoy es-tu triste et pourquoy te troubles-tu ( Ps 41,6) ? puisque Dieu est mon Dieu et que mon cœur est un cœur tout sien.
+
+Ouy, ma tres chere Fille, priés pour celuy qui, incessamment, vous souhaitte mille benedictions, et la benediction des benedictions, qui est son saint amour parfait.

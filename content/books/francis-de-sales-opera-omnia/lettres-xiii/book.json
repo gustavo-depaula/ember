@@ -1,0 +1,747 @@
+{
+  "id": "sales-lettres-xiii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres de saint François de Sales, tome XIII",
+    "en-US": "Letters of St. Francis de Sales, vol. XIII",
+    "pt-BR": "Cartas de São Francisco de Sales, tomo XIII"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les lettres de saint François de Sales du tome XIII de l’édition d’Annecy (1605-1607), une lettre par chapitre, groupées par année : numéro, destinataire, résumé et date de l’édition critique, puis le texte en orthographe d’époque.",
+    "en-US": "The letters of St. Francis de Sales in volume XIII of the Annecy edition (1605-1607), one letter per chapter and grouped by year: the edition’s number, addressee, summary and date, then the text in period spelling.",
+    "pt-BR": "As cartas de São Francisco de Sales do tomo XIII da edição de Annecy (1605-1607)."
+  },
+  "composed": "1605-1607",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/lettres-xiii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/francois_de_sales_lettres_tome_3.html",
+      "edition": "Œuvres de saint François de Sales, édition d’Annecy, tome XIII (Lettres), Annecy: J. Niérat, 1900-1923; digital transcription in original spelling by JesusMarie.com.",
+      "description": "The editors’ letter numbers, addressee headings, summaries and dates are kept; footnotes, variants, the glossary, the indexes and the appendix of letters addressed to Francis are not included.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition appeared in 1900-1923, before 1930. The JesusMarie transcription is of his own text with the edition’s headings."
+    }
+  ],
+  "toc": [
+    {
+      "id": "annee-01",
+      "title": {
+        "fr-FR": "Année 1605"
+      },
+      "children": [
+        {
+          "id": "lettre-0271",
+          "title": {
+            "fr-FR": "Lettre CCLXXI. À Madame de la Thuille, sa Belle-Soeur"
+          }
+        },
+        {
+          "id": "lettre-0272",
+          "title": {
+            "fr-FR": "Lettre CCLXXII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0273",
+          "title": {
+            "fr-FR": "Lettre CCLXXIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0274",
+          "title": {
+            "fr-FR": "Lettre CCLXXIV. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0275",
+          "title": {
+            "fr-FR": "Lettre CCLXXV. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0276",
+          "title": {
+            "fr-FR": "Lettre CCLXXVI. (ndlr : Cette Lettredoitêtre Remplacée par la Suivante. Voir Notes 25,26)"
+          }
+        },
+        {
+          "id": "lettre-0276-bis",
+          "title": {
+            "fr-FR": "Lettre CCLXXVI bis. (ndlr. Lettre Découverte Après Impression des Volumes des Lettres, Placée P.481 au Tome Xxvi, Répertoriée Cclxxvi. Comme l'Indique la Note 26, Cette Lettre Doit Remplacer la Précédente.)"
+          }
+        },
+        {
+          "id": "lettre-0277",
+          "title": {
+            "fr-FR": "Lettre CCLXXVII. À la Présidente Brulart ( Voir Note 18 )"
+          }
+        },
+        {
+          "id": "lettre-0278",
+          "title": {
+            "fr-FR": "Lettre CCLXXVIII. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0279",
+          "title": {
+            "fr-FR": "Lettre CCLXXIX. À Mademoiselle de Villers"
+          }
+        },
+        {
+          "id": "lettre-0280",
+          "title": {
+            "fr-FR": "Lettre CCLXXX. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0281",
+          "title": {
+            "fr-FR": "Lettre CCLXXXI. À M. Claude de Crépy"
+          }
+        },
+        {
+          "id": "lettre-0282",
+          "title": {
+            "fr-FR": "Lettre CCLXXXII. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0283",
+          "title": {
+            "fr-FR": "Lettre CCLXXXIII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0284",
+          "title": {
+            "fr-FR": "Lettre CCLXXXIV. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0285",
+          "title": {
+            "fr-FR": "Lettre CCLXXXV. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0286",
+          "title": {
+            "fr-FR": "Lettre CCLXXXVI. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0287",
+          "title": {
+            "fr-FR": "Lettre CCLXXXVII. À l'Abbé d'Abondance, Vespasien Aiazza"
+          }
+        },
+        {
+          "id": "lettre-0288",
+          "title": {
+            "fr-FR": "Lettre CCLXXXVIII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0289",
+          "title": {
+            "fr-FR": "Lettre CCLXXXIX. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0290",
+          "title": {
+            "fr-FR": "Lettre CCXC. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0291",
+          "title": {
+            "fr-FR": "Lettre CCXCI. À Madame de Limojon"
+          }
+        },
+        {
+          "id": "lettre-0292",
+          "title": {
+            "fr-FR": "Lettre CCXCII. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0293",
+          "title": {
+            "fr-FR": "Lettre CCXCIII. À M. Claude de Crépy"
+          }
+        },
+        {
+          "id": "lettre-0294",
+          "title": {
+            "fr-FR": "Lettre CCXCIV. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0295",
+          "title": {
+            "fr-FR": "Lettre CCXCV. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0296",
+          "title": {
+            "fr-FR": "Lettre CCXCVI. À M, Antoine d'Avully"
+          }
+        },
+        {
+          "id": "lettre-0297",
+          "title": {
+            "fr-FR": "Lettre CCXCVII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0298",
+          "title": {
+            "fr-FR": "Lettre CCXCVIII. À sa Sainteté Paul V"
+          }
+        },
+        {
+          "id": "lettre-0299",
+          "title": {
+            "fr-FR": "Lettre CCXCIX. À Monseigneur Antoine de Revol, Évêque de Dol"
+          }
+        },
+        {
+          "id": "lettre-0300",
+          "title": {
+            "fr-FR": "Lettre CCC. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0301",
+          "title": {
+            "fr-FR": "Lettre CCCI. À M. Pierre de Bérulle"
+          }
+        },
+        {
+          "id": "lettre-0302",
+          "title": {
+            "fr-FR": "Lettre CCCII. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0303",
+          "title": {
+            "fr-FR": "Lettre CCCIII. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0304",
+          "title": {
+            "fr-FR": "Lettre CCCIV. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0305",
+          "title": {
+            "fr-FR": "Lettre CCCV. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0306",
+          "title": {
+            "fr-FR": "Lettre CCCVI. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0307",
+          "title": {
+            "fr-FR": "Lettre CCCVII. À Madame de Limojon"
+          }
+        },
+        {
+          "id": "lettre-0308",
+          "title": {
+            "fr-FR": "Lettre CCCVIII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0309",
+          "title": {
+            "fr-FR": "Lettre CCCIX. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0310",
+          "title": {
+            "fr-FR": "Lettre CCCX. Aux Religieuses de l'Abbaye du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0311",
+          "title": {
+            "fr-FR": "Lettre CCCXI. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0312",
+          "title": {
+            "fr-FR": "Lettre CCCXII. À M. Antoine d'Avully"
+          }
+        },
+        {
+          "id": "lettre-0313",
+          "title": {
+            "fr-FR": "Lettre CCCXIII. À une Religieuse"
+          }
+        },
+        {
+          "id": "lettre-0314",
+          "title": {
+            "fr-FR": "Lettre CCCXIV. Au Père Antoine Possevin, de la Compagnie de Jésus"
+          }
+        },
+        {
+          "id": "lettre-0315",
+          "title": {
+            "fr-FR": "Lettre CCCXV. À Madame de Rye, Religieuse de l'Abbaye de Baume-Les-Dames"
+          }
+        },
+        {
+          "id": "lettre-0316",
+          "title": {
+            "fr-FR": "Lettre CCCXVI. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0317",
+          "title": {
+            "fr-FR": "Lettre CCCXVII. À M. Amédée de Chevron, Seigneur de Villette"
+          }
+        },
+        {
+          "id": "lettre-0318",
+          "title": {
+            "fr-FR": "Lettre CCCXVIII. À M. Jean de Brétigny"
+          }
+        },
+        {
+          "id": "lettre-0319",
+          "title": {
+            "fr-FR": "Lettre CCCXIX. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0320",
+          "title": {
+            "fr-FR": "Lettre CCCXX. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0321",
+          "title": {
+            "fr-FR": "Lettre CCCXXI. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0323",
+          "title": {
+            "fr-FR": "Lettre CCCXXIII. À M. de Sillignieu"
+          }
+        },
+        {
+          "id": "lettre-0324",
+          "title": {
+            "fr-FR": "Lettre CCCXXIV. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0325",
+          "title": {
+            "fr-FR": "Lettre CCCXXV. À la Baronne de Chantal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "annee-02",
+      "title": {
+        "fr-FR": "Année 1606"
+      },
+      "children": [
+        {
+          "id": "lettre-0326",
+          "title": {
+            "fr-FR": "Lettre CCCXXVI. À M. Rodolphe des Oches, Curé de Talloires"
+          }
+        },
+        {
+          "id": "lettre-0327",
+          "title": {
+            "fr-FR": "Lettre CCCXXVII. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0328",
+          "title": {
+            "fr-FR": "Lettre CCCXXVIII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0329",
+          "title": {
+            "fr-FR": "Lettre CCCXXIX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0330",
+          "title": {
+            "fr-FR": "Lettre CCCXXX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0331",
+          "title": {
+            "fr-FR": "Lettre CCCXXXI. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0332",
+          "title": {
+            "fr-FR": "Lettre CCCXXXII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0333",
+          "title": {
+            "fr-FR": "Lettre CCCXXXIII. À Mademoiselle Acarie"
+          }
+        },
+        {
+          "id": "lettre-0334",
+          "title": {
+            "fr-FR": "Lettre CCCXXXIV. À Madame de la Faverge"
+          }
+        },
+        {
+          "id": "lettre-0335",
+          "title": {
+            "fr-FR": "Lettre CCCXXXV. À M. Louis de la Thuille, son Frëre"
+          }
+        },
+        {
+          "id": "lettre-0336",
+          "title": {
+            "fr-FR": "Lettre CCCXXXVI. À Monseigneur François Fléard Évêque de Grenoble"
+          }
+        },
+        {
+          "id": "lettre-0337",
+          "title": {
+            "fr-FR": "Lettre CCCXXXVII. À M. Claude de Crépy"
+          }
+        },
+        {
+          "id": "lettre-0338",
+          "title": {
+            "fr-FR": "Lettre CCCXXXVIII. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0339",
+          "title": {
+            "fr-FR": "Lettre CCCXXXIX. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0340",
+          "title": {
+            "fr-FR": "Lettre CCCXL. À M. Claude de Crépy"
+          }
+        },
+        {
+          "id": "lettre-0341",
+          "title": {
+            "fr-FR": "Lettre CCCXLI. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0342",
+          "title": {
+            "fr-FR": "Lettre CCCXLII. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0343",
+          "title": {
+            "fr-FR": "Lettre CCCXLIII. Au Prieur et aux Religieux du Monastère de Sixt (cf Lettres 2 Note253)"
+          }
+        },
+        {
+          "id": "lettre-0344",
+          "title": {
+            "fr-FR": "Lettre CCCXLIV. À la Duchesse de Mercoeur"
+          }
+        },
+        {
+          "id": "lettre-0345",
+          "title": {
+            "fr-FR": "Lettre CCCXLV. Au Prieur et aux Religieux du Monastère de Sixt"
+          }
+        },
+        {
+          "id": "lettre-0346",
+          "title": {
+            "fr-FR": "Lettre CCCXLVI. À une Dame Inconnue"
+          }
+        },
+        {
+          "id": "lettre-0347",
+          "title": {
+            "fr-FR": "Lettre CCCXLVII. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0348",
+          "title": {
+            "fr-FR": "Lettre CCCXLVIII. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-0349",
+          "title": {
+            "fr-FR": "Lettre CCCXLIX. Au Conseil des Chevaliers des Saints Maurice et Lazare"
+          }
+        },
+        {
+          "id": "lettre-0350",
+          "title": {
+            "fr-FR": "Lettre CCCL. À Madame de Charmoisy"
+          }
+        },
+        {
+          "id": "lettre-0351",
+          "title": {
+            "fr-FR": "Lettre CCCLI. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0352",
+          "title": {
+            "fr-FR": "Lettre CCCLII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0353",
+          "title": {
+            "fr-FR": "Lettre CCCLIII. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0354",
+          "title": {
+            "fr-FR": "Lettre CCCLIV. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0355",
+          "title": {
+            "fr-FR": "Lettre CCCLV. À M. Pierre du Tellier"
+          }
+        },
+        {
+          "id": "lettre-0356",
+          "title": {
+            "fr-FR": "Lettre CCCLVI. À M. Noel-Hugon Pergod"
+          }
+        },
+        {
+          "id": "lettre-0357",
+          "title": {
+            "fr-FR": "Lettre CCCLVII. À M. Pierre-Jérome de Lambert"
+          }
+        },
+        {
+          "id": "lettre-0358",
+          "title": {
+            "fr-FR": "Lettre CCCLVIII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0359",
+          "title": {
+            "fr-FR": "Lettre CCCLIX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0360",
+          "title": {
+            "fr-FR": "Lettre CCCLX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0361",
+          "title": {
+            "fr-FR": "Lettre CCCLXI. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0362",
+          "title": {
+            "fr-FR": "Lettre CCCLXII. Au Chevalier Charles de Loche"
+          }
+        },
+        {
+          "id": "lettre-0363",
+          "title": {
+            "fr-FR": "Lettre CCCLXIII. Au Duc de Savoie, Charles-Emmanuel 1er"
+          }
+        },
+        {
+          "id": "lettre-0364",
+          "title": {
+            "fr-FR": "Lettre CCCLXIV. À l'Empereur d'Allemagne, Rodolphe Ii"
+          }
+        },
+        {
+          "id": "lettre-0365",
+          "title": {
+            "fr-FR": "Lettre CCCLXV. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0366",
+          "title": {
+            "fr-FR": "Lettre CCCLXVI. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0367",
+          "title": {
+            "fr-FR": "Lettre CCCLXVII. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0368",
+          "title": {
+            "fr-FR": "Lettre CCCLXVIII. À M, du Chatelard"
+          }
+        },
+        {
+          "id": "lettre-0369",
+          "title": {
+            "fr-FR": "Lettre CCCLXIX. À sa Sainteté Paul V"
+          }
+        },
+        {
+          "id": "lettre-0370",
+          "title": {
+            "fr-FR": "Lettre CCCLXX. Au P. Jean-Matthieu Ancina, de la Congregation de l'Oratoire"
+          }
+        },
+        {
+          "id": "lettre-0371",
+          "title": {
+            "fr-FR": "Lettre CCCLXXI. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0372",
+          "title": {
+            "fr-FR": "Lettre CCCLXXII. Au Cardinal César Baronius"
+          }
+        },
+        {
+          "id": "lettre-0373",
+          "title": {
+            "fr-FR": "Lettre CCCLXXIII. À un Cardinal"
+          }
+        },
+        {
+          "id": "lettre-0374",
+          "title": {
+            "fr-FR": "Lettre CCCLXXIV. À une Religieuse"
+          }
+        },
+        {
+          "id": "lettre-0375",
+          "title": {
+            "fr-FR": "Lettre CCCLXXV. Au Président Antoine Favre"
+          }
+        },
+        {
+          "id": "lettre-0376",
+          "title": {
+            "fr-FR": "Lettre CCCLXXVI. À Mademoiselle Clément"
+          }
+        },
+        {
+          "id": "lettre-0377",
+          "title": {
+            "fr-FR": "Lettre CCCLXXVII. À l'Empereur d'Allemagne, Rodolphe Ii"
+          }
+        }
+      ]
+    },
+    {
+      "id": "annee-03",
+      "title": {
+        "fr-FR": "Année 1607"
+      },
+      "children": [
+        {
+          "id": "lettre-0378",
+          "title": {
+            "fr-FR": "Lettre CCCLXXVIII. À une Religieuse"
+          }
+        },
+        {
+          "id": "lettre-0379",
+          "title": {
+            "fr-FR": "Lettre CCCLXXIX. À M. Jacques de Bay"
+          }
+        },
+        {
+          "id": "lettre-0380",
+          "title": {
+            "fr-FR": "Lettre CCCLXXX. À Monseigneur Pierre-François Costa, Évêque de Savone, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0381",
+          "title": {
+            "fr-FR": "Lettre CCCLXXXI. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0382",
+          "title": {
+            "fr-FR": "Lettre CCCLXXXII. À sa Sainteté Paul V"
+          }
+        },
+        {
+          "id": "lettre-0383",
+          "title": {
+            "fr-FR": "Lettre CCCLXXXIII. Au Cardinal Pierre Aldobrandino ( Lettres 2, Note 90 )"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
