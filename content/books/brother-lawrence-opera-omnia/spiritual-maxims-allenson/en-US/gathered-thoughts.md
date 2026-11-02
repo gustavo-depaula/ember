@@ -1,0 +1,35 @@
+# Gathered Thoughts of Brother Lawrence
+
+IT matters not to me what I do, or what I suffer, so long as I abide lovingly united to God’s will,—that is my whole business.
+
+I am in the hands of God, and He has His own good purposes regarding me; therefore I trouble not myself for aught that man can do to me. If I cannot serve God here, elsewhere I shall find place wherein to serve Him.
+
+The practice of the Presence of God is the shortest and easiest Way to attain to Christian perfection: it is the Form and Life of Virtue, it is the great Preservative from Sin. The practice will become easy, if we have but courage and a good will.
+
+The whole world seems to me to be no longer real; all that my outward eyes behold pass like fantasies and dreams. That which I see with the eyes of the soul is what alone I long for, and to be not yet in the possession of my heart’s desire brings to me sorrow and drooping of spirit. On the one hand dazzled by the brightness of the Sun of Righteousness, the Scatterer of the shades of night, and, on the other, with eyes dimmed by my own sin, I feel at times as if I were beside myself. And yet, I make it my ordinary business to abide in the Presence of God with the humility of a useless, though a faithful servant.
+
+Since I first entered on the religious life, I have looked on God as the Goal and End of all the thoughts and affections of the soul. Asa novice, during the hours appointed for prayer I laboured to arrive at a conviction of the truth of the Divine Being, rather by the light of faith than by the deductions of the intellect, and by this short and certain method I grew in the knowledge of this Object of Love, in Whose Presence I resolved evermore to abide. Possessed thus entirely with the greatness and the majesty of this INFINITE BEING, I went straightway to the place which duty had marked out for me—the kitchen. There, when I had carried out all that called for me, I gave to prayer whatever time remained, as well before my work as after. Before beginning any task I would say to God, with childlike trust: ‘‘ O God, since Thou art with me, and it is Thy will that I must now apply myself to these outward duties, I beseech Thee, assist me with Thy grace that I may continue in Thy Presence; and to this end, O Lorp, be with me in this my work, accept the labour of my hands, and dwell within my heart with all Thy Fulness.” Moreover, as I wrought, I would continue to hold familiar converse, offering to Him my little acts of service, entreating the unfailing succour of His grace. When I had finished, I would examine how I had performed my duty: if I found well, I gave Him thanks; if ill, I besought His pardon, and without losing heart I set my spirit right, and returned anew unto His Presence, as though I had never wandered from Him. Thus, by rising after every fall, and by doing all in faith and love, without wearying, I have come to a state in which it would be as little possible for me not to think of God, as it was hard to discipline myself thereto at the beginning.
+
+O Lorp, O God of Gods, how wonderful Thou art in all Thy thoughts, beyond our understanding, how profound in all Thy purposes, Almighty in the works of Thy Hands!
+
+All that I have heard men tell concerning God, that I have read myself, or perceived of Him in my mind, cannot content me. Infinite in His Perfection, how can He be portrayed, or how can man find words to picture Him? Faith alone can reveal Him or teach me what He is; by Faith I learn more of God, and in a very little time, than I could do in the schools after many a long year. Oh! Faith, Faith; oh! marvellous virtue, which illumines the ‘spirit of man, and leads him on to the knowledge of his Creator. Oh! virtue altogether lovely, so little known, and still less practised, yet which, once known, is so glorious, so full of unspeakable Blessing.
+
+The greatest glory we can give to God is to distrust our own strength utterly, and to commit ourselves wholly to His safe-keeping.
+
+O Lorp, the sense of Thy love well-nigh overwhelms me. If it be Thy will, bestow these many tokens of Thy loving-kindness on those who know Thee not, to draw them to Thy service; for me it is enough to have the riches that Faith brings in the knowledge of Thee. Yet forasmuch as I must not reject the favours of Thy bounteous Hand, accept my praises, Lorp. And, I entreat, receive again these gifts, which Thou hast granted; for, Lorp, Thou knowest that it is not Thy gifts I seek, but Thee Thyself, and my heart will know no rest, till it has found Thee.
+
+O Lor», enlarge the chambers of my heart that I may find room for Thy love. Sustain me by Thy power, lest the fire of Thy love consume me.
+
+The practice of the Presence of God is of very great service in helping us to pray in truth; it restrains the mind from wandering throughout the day and holds it fixed steadfastly on God; thus it will more easily remain’ tranquil in the hour of prayer
+
+Life is full of perils and of hidden reefs, on which we shall make shipwreck without the - continual succour of the grace of God. Yet how can we ask for it, unless we are with Him? How can we be with Him, unless our thoughts are ever of Him? How can He be in our thoughts, unless we form a holy habit of abiding in His Presence, there asking for the grace we need each moment of our life?
+
+If you would go forward in the spiritual life, you must avoid relying on the subtle conclusions and fine reasonings of the unaided intellect. Unhappy they who seek to satisfy their desire therein! The Creator is the great teacher of Truth. We can reason laboriously for many years, but fuller far and deeper is the knowledge of the hidden things of Faith and of Himself, which He flashes as light into the heart of the humble.
+
+Nothing can give us so great relief in the trials and sorrows of life, as a loving intercourse with God; when such is faithfully practised, the evils that assail the body will prove light to us. God often ordains that we should suffer in the body to purify the soul, and to constrain us to abide with Him. How can anyone whose life is hid with God, and whose only desire is God, be capable of feeling pain? Let us then worship Him in our infirmities, offering to Him our sorrows, just when they press upon us, asking Him lovingly, as a child his dear father, to give us strength, j and mould our will to His. Brief prayers as — these are very proper for all sick persons, and prove a wonderful charm against sorrow.
+
+Ah, did I know that my heart loved not
+
+God, this very instant I would pluck it a out.
+
+O Loving-Kindness so old and still so new, I have been too late of loving Thee. You are young, my brethren; profit therefore I beseech you from my confession, that I cared too little to employ my early years for God. Consecrate all yours to His Love. If I had only known Him sooner, if I had only had some one to tell me then what I am telling you, I should not have so long delayed in loving Him. Believe me, count as lost each day you have not used in loving God.

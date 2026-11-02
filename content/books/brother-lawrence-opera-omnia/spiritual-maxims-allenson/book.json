@@ -1,0 +1,63 @@
+{
+  "id": "lawrence-spiritual-maxims-allenson",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Spiritual Maxims of Brother Lawrence (Allenson, 1907)",
+    "pt-BR": "As máximas espirituais do irmão Lourenço (Allenson, 1907)"
+  },
+  "author": {
+    "en-US": "Brother Lawrence of the Resurrection",
+    "pt-BR": "Frei Lourenço da Ressurreição"
+  },
+  "description": {
+    "en-US": "Brother Lawrence’s own Spiritual Maxims, or Means for Attaining to the Presence of God, in their six sections, newly translated in 1907, with The Character of Brother Lawrence by the chronicler of the Conversations (Beaufort’s Mœurs) and a set of Gathered Thoughts compiled from the Life. It is the only public-domain English of the Maxims; the Conversations and Letters are in the separate Allenson book of 1906.",
+    "pt-BR": "As Máximas espirituais do próprio irmão Lourenço, ou Meios de alcançar a presença de Deus, em suas seis seções, traduzidas em inglês em 1907, com O caráter do irmão Lourenço, pelo cronista das Conversas (os Mœurs de Beaufort), e uns Pensamentos reunidos, tirados da Vida."
+  },
+  "composed": "1666-1691",
+  "languages": [
+    "en-US"
+  ],
+  "work": "brother-lawrence/pratique-de-la-presence-de-dieu",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous, H. R. Allenson",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/spiritualmaximso01lawr",
+      "edition": "The Spiritual Maxims of Brother Lawrence, together with The Character by the chronicler of the Conversations, and Gathered Thoughts; newly translated into English, London: H. R. Allenson, Ltd. [1907]. Internet Archive scan (Duke Divinity School copy), OCR text.",
+      "description": "The translator’s Preface, the Spiritual Maxims (six sections), The Character and the Gathered Thoughts. The contents table, running heads and library stamps are left out. OCR corrected by a vocabulary check and hand fixes; a few of the footnotes of the Character and Maxims survive only as fragments inside paragraphs.",
+      "tier": "A",
+      "tierEvidence": "Brother Lawrence died in 1691; this English edition was published in London in 1907, so it is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "maxims",
+      "title": {
+        "en-US": "The Spiritual Maxims"
+      }
+    },
+    {
+      "id": "character",
+      "title": {
+        "en-US": "The Character of Brother Lawrence, Being the Teaching of His Life"
+      }
+    },
+    {
+      "id": "gathered-thoughts",
+      "title": {
+        "en-US": "Gathered Thoughts of Brother Lawrence"
+      }
+    }
+  ]
+}
