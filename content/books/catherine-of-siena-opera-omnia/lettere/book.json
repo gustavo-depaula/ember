@@ -63,9 +63,273 @@
       }
     },
     {
+      "id": "l005",
+      "title": {
+        "it": "Lettera V. A Misser Francesco da Montalcino dottore in legge civile"
+      }
+    },
+    {
+      "id": "l006",
+      "title": {
+        "it": "Lettera VI. A Monna Lapa, sua madre"
+      }
+    },
+    {
+      "id": "l007",
+      "title": {
+        "it": "Lettera VII. Al Cardinal Pietro d’Ostia"
+      }
+    },
+    {
+      "id": "l008",
+      "title": {
+        "it": "Lettera VIII. A Frate Giusto, Priore in Montoliveto"
+      }
+    },
+    {
       "id": "l009",
       "title": {
         "it": "Lettera IX. A una donna che non si nomina"
+      }
+    },
+    {
+      "id": "l010",
+      "title": {
+        "it": "Lettera X. A Benincasa di Jacomo fratello suo carnale"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "it": "Lettera XI. A Pietro Cardinal d'Ostia"
+      }
+    },
+    {
+      "id": "l012",
+      "title": {
+        "it": "Lettera XII. All’Abbate di Sant’Antimo"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "it": "Lettera XIII. A Marco Bindi, mercatante"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "it": "Lettera XIV. A tre suoi fratelli in Firenze. [^1]"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "it": "Lettera XV. A Consiglio, Giudeo"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "it": "Lettera XVI. Ad un gran Prelato"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "it": "Lettera XVII. Al venerabile religioso Frate Antonio da Nizza, dell’Ordine de’ Frati eremitani di Santo Agostino, a Selva di Lago"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "it": "Lettera XVIII. A Benincasa suo fratello, essendo esso in Firenze"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "it": "Lettera XIX. A Niccolaccio di Caterino Petroni[^1] da Siena"
+      }
+    },
+    {
+      "id": "l020",
+      "title": {
+        "it": "Lettera XX. A Benincasa suo fratello in Firenze"
+      }
+    },
+    {
+      "id": "l021",
+      "title": {
+        "it": "Lettera XXI. Ad uno il cui nome si tace.[^1]"
+      }
+    },
+    {
+      "id": "l022",
+      "title": {
+        "it": "Lettera XXII. All’abate Martino di Passignano dell’ordine di Valle Ombrosa. [^2] dell’orto dell’anima vostra, e de’ sudditi vostri. Noi siamo un giardino, Nella stampa: e. Ne’ libri sacri la voce è orto, e però la ripeto. Il Paradiso a Dante giardino.veramente orto, del quale giardino e orto n’ha fatto ortolano la prima Verità la ragione col libero arbitrio;[^3] la quale ragione, e libero arbitrio, coll’aiutorio della Divina Grazia, ha a[^4] divellere le spine de’ vizi, e piantare l’erbe odorifere delle virtù"
+      }
+    },
+    {
+      "id": "l023",
+      "title": {
+        "it": "Lettera XXIII. A Nanna[^1] Figliuola di Benincasa, Verginella, sua nipote, Firenze"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "it": "Lettera XXIV. A Biringhieri degli Arzocchi [^1] Pievano d’Asciano"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "it": "Lettera XXV. A Frate Tomaso della Fonte, de’ Frati Predicatori, in San Quirico"
+      }
+    },
+    {
+      "id": "l026",
+      "title": {
+        "it": "Lettera XXVI. A suora Eugenia sua nipote nel Monastero di Santa Agnesa di Montepulciano. [^1]"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "it": "Lettera XXVII. A D. Martino abbate di Passignano dell’Ordine di Vall’Ombrosa"
+      }
+    },
+    {
+      "id": "l028",
+      "title": {
+        "it": "Lettera XXVIII. A Messer Bernabò Visconti, signore di Milano.[^1] Per certi ambasciatori da esso signore mandati a lei"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "it": "Lettera XXIX. A Madama moglie di Bernabò Visconti"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "it": "Lettera XXX. All'Abadesssa del Monasterio di Santa Marta da Siena, e a Suora Niccolosa di detto Monasterio"
+      }
+    },
+    {
+      "id": "l031",
+      "title": {
+        "it": "Lettera XXXI. A Monna Mitarella, donna di Vico da Mogliano, senatore, che fu a Siena nel 1375. [^2] cioè che voi siate in quella fede che dà letizia e gaudio [^3] nell’anima nostra. Questa è quella dolce fede che a noi conviene avere, siccome disse il nostro Salvatore: «se voi avete tanta fede quanto è un granello di senape, e comandate a questo monte che si levi, si leverebbe». In questa fede, dilettissima suora, vi prego che permaniate"
+      }
+    },
+    {
+      "id": "l032",
+      "title": {
+        "it": "Lettera XXXII. A Frate Jacomo da Padua, Priore del monastero di Monte Oliveto di Fiorenza.[^1]"
+      }
+    },
+    {
+      "id": "l033",
+      "title": {
+        "it": "Lettera XXXIII. All’Abate maggiore dell’Ordine di Monte Oliveto, nel Contado di Siena"
+      }
+    },
+    {
+      "id": "l034",
+      "title": {
+        "it": "Lettera XXXIV. Al Priore de’ Frati di Monte Oliveto[^2] «Zaccheo, vattene alla tua casa; che oggi è di bisogno che io mangi con teco». Così doviamo fare noi: che essendo noi bassi, con stretto cuore e poca carità, noi saliamo in sull'arbore della santissima croce. Ine vedremo e toccheremo[^3] Iddio: ine troveremo il fuoco della sua inestimabile carità e amore, il quale l’ha fatto correre infino agli obbrobrii della croce, levato in alto, affamato e assetato di sete[^4] dell’onore del padre e della salute nostra"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "it": "Lettera XXXV. A Frate Niccolò di Ghida, e Frate Giovanni Zerri, e a Frate Niccolò di Jaconiodi Vannuzzo, di Mont’Oliveto"
+      }
+    },
+    {
+      "id": "l036",
+      "title": {
+        "it": "Lettera XXXVI. A certi Novizii dell’Ordine di Santa Maria di Monte Oliveta"
+      }
+    },
+    {
+      "id": "l037",
+      "title": {
+        "it": "Lettera XXXVII. A Frate Niccolò di Ghida dell’ordine di Monte Oliveto"
+      }
+    },
+    {
+      "id": "l038",
+      "title": {
+        "it": "Lettera XXXVIII. A Monna Agnesa, Donna che fu di Missere Orso Malavolti"
+      }
+    },
+    {
+      "id": "l039",
+      "title": {
+        "it": "Lettera XXXIX. A. D. Jacomo Monaco della Certosa nel Monastero di Pontignano, presso Siena"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "it": "Lettera XL. A certe Figliuole da Siena"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "it": "Lettera XLI. A Frate Tomaso della Fonte dell’Ordine de’ Predicatori, quando era a Santo Quirico nel loro Spedaletto"
+      }
+    },
+    {
+      "id": "l042",
+      "title": {
+        "it": "Lettera XLII. A Neri di Landoccio"
+      }
+    },
+    {
+      "id": "l043",
+      "title": {
+        "it": "Lettera XLIII. A Ser Cristofano di Gano Guidini[^2] sempre l’opera che vi dice il vero Padre celestiale, quando dice: «Chi non abbandona padre, madre e suora e fratelli e se medesimo, non è degno di me». Adunque pare che voglia che noi li abbandoniamo. Questo non pare che caggia nella mente nostra, di volere osservarla,[^3] sotto specie e colore di farmene coscienzia di lassarla.[^4]Questa coscienzia procede più dal dimonio che da Dio, per impedirvi lo stato perfetto al quale pare che lo Spirito Santo vi chiamasse. E se voi mi dicesse: «Iddio mi comanda che io sia obbediente a loro»; — ben è vero, in quanto non Vi ritraggono dalla via di Dio; ma se ce l’impediscono, dobbiamo passare sopra il corpo loro, e seguitare il vero Padre col gonfalone della santissima croce"
+      }
+    },
+    {
+      "id": "l044",
+      "title": {
+        "it": "Lettera XLIV. A Ser Antonio di Ciolo"
+      }
+    },
+    {
+      "id": "l045",
+      "title": {
+        "it": "Lettera XLV. A Francesco di Messer Vanni Malavolti da Siena"
+      }
+    },
+    {
+      "id": "l046",
+      "title": {
+        "it": "Lettera XLVI. A Neri di Landoccio"
+      }
+    },
+    {
+      "id": "l047",
+      "title": {
+        "it": "Lettera XLVII. A Pietro di Giovanni Venture da Siena"
+      }
+    },
+    {
+      "id": "l048",
+      "title": {
+        "it": "Lettera XLVIII. A Matteo di Giovanni Colombini da Siena.[^2] ma la bugia vede in verità, e la verità in bugia; le cose transitorie reputa ferme di grande consolazione; e elle vengono tutte meno, siccome il fiore, il quale, poi ch’è colto, subito perde la bellezza sua. Onore, ricchezze, stato, delizie, tutte passano come ’l vento: ogni cosa si è mutabile; onde dalla sanità veniamo alla infirmità, dalla ricchezza alla povertà, e dalla vita alla morte"
+      }
+    },
+    {
+      "id": "l049",
+      "title": {
+        "it": "Lettera XLIX. A Monna Alessa ecc"
       }
     },
     {
@@ -216,6 +480,150 @@
       "id": "l074",
       "title": {
         "it": "Lettera LXXIV. A Frate Niccolò da Monte Alcino[^1] dell’Ordine de’ Frati Predicatori"
+      }
+    },
+    {
+      "id": "l075",
+      "title": {
+        "it": "Lettera LXXV. Al Monasterio di San Gaggio in Firenze, e alla Badessa e Monache del Monasterio, che è in Monte Sansovino"
+      }
+    },
+    {
+      "id": "l076",
+      "title": {
+        "it": "Lettera LXXVI. A Frate Giovanni di Bindo di Doccio de’ Frati di Monte Oliveto.[^1]"
+      }
+    },
+    {
+      "id": "l077",
+      "title": {
+        "it": "Lettera LXXVII. Al venerabile Religioso Frate Guglielmo d’Inghilterra, il quale era Baccelliere dell’Ordine de’ Frati Eremitani di Santo Agostino, a Selva di Lago. [^1]"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "it": "Lettera LXXVIII. A Niccolò Povero, di Romagna, Romito a Firenze"
+      }
+    },
+    {
+      "id": "l080",
+      "title": {
+        "it": "Lettera LXXX. A Maestro Giovanni terzo dell’Ordine de’ Fidati Fremitani di Santo Agostino"
+      }
+    },
+    {
+      "id": "l081",
+      "title": {
+        "it": "Lettera LXXXI. A Francesco, di Francesco di Tolomei [^1] vestita dell’abito di San Domenico, inferma"
+      }
+    },
+    {
+      "id": "l082",
+      "title": {
+        "it": "Lettera LXXXII. A tre Donne di Firenze"
+      }
+    },
+    {
+      "id": "l083",
+      "title": {
+        "it": "Lettera LXXXIII. A Conte di Conte da Firenze, [^1] Spirituale"
+      }
+    },
+    {
+      "id": "l084",
+      "title": {
+        "it": "Lettera LXXXIV. A Frate Filippo di Vannuccio, e a Frate Niccolò di Pietro di Firenze, dell’ordine di Monte Oliveto"
+      }
+    },
+    {
+      "id": "l085",
+      "title": {
+        "it": "Lettera LXXXV. A Pietro di Tommaso de’ Bardi da. Firenze"
+      }
+    },
+    {
+      "id": "l086",
+      "title": {
+        "it": "Lettera LXXXVI. All’abbadessa del monastero di Santa Maria delli Scalzi in Firenze.[^1]"
+      }
+    },
+    {
+      "id": "l087",
+      "title": {
+        "it": "Lettera LXXXVII. A Monna Giovanna Pazza.[^1]"
+      }
+    },
+    {
+      "id": "l088",
+      "title": {
+        "it": "Lettera LXXXVIII. Ad Angelo da Ricasoli Vescovo di Fiorenza"
+      }
+    },
+    {
+      "id": "l089",
+      "title": {
+        "it": "Lettera LXXXIX. A Bartolo Usimbardi, e Francesco di Pipino da Firenze"
+      }
+    },
+    {
+      "id": "l090",
+      "title": {
+        "it": "Lettera XC. A Madonna Laudomia, Donna di Carlo delli Strozzi[^1] da Firenze"
+      }
+    },
+    {
+      "id": "l091",
+      "title": {
+        "it": "Lettera XCI. A Monna Agnesa moglie di Pipino Sarto"
+      }
+    },
+    {
+      "id": "l092",
+      "title": {
+        "it": "Lettera XCII. A uno Spirituale[^1] in Firenze"
+      }
+    },
+    {
+      "id": "l093",
+      "title": {
+        "it": "Lettera XCIII. A monna Orsa Donna di Bartolo Usimbardi, e a Monna Agnesa Donna di Francesco di Pipino sarto di Firenze"
+      }
+    },
+    {
+      "id": "l094",
+      "title": {
+        "it": "Lettera XCIV. A Frate Matteo di Francesco Tolomei dell’Ordine de’ Predicatori"
+      }
+    },
+    {
+      "id": "l095",
+      "title": {
+        "it": "Lettera XCV. A certi giovani fiorentini, figliuoli adottivi di Don Giovanni"
+      }
+    },
+    {
+      "id": "l096",
+      "title": {
+        "it": "Lettera XCVI. A Pietro Canigiani in Firenze.[^1]"
+      }
+    },
+    {
+      "id": "l097",
+      "title": {
+        "it": "Lettera XCVII. A Monna Favola da Siena, e alle sue Discepole, quando stava a Fiesole"
+      }
+    },
+    {
+      "id": "l098",
+      "title": {
+        "it": "Lettera XCVIII. A Frate Tommaso della Fonte dell’Ordine de’ Predicatori in Siena"
+      }
+    },
+    {
+      "id": "l099",
+      "title": {
+        "it": "Lettera XCIX. A Neri di Landoccio de’ Pagliaresi"
       }
     },
     {
