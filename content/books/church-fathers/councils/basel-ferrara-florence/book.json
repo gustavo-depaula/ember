@@ -1,0 +1,48 @@
+{
+  "id": "councils-basel-ferrara-florence",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Basiliense, Ferrariense, Florentinum (1431–1445)",
+    "en-US": "Council of Basel, Ferrara and Florence (1431–1445)",
+    "pt-BR": "Concílio de Basileia, Ferrara e Florença (1431–1445)"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "la": "Documenta concilii Basiliensis, Ferrariensis, Florentini et Romani (1431–1445): decreta unionis cum Graecis (Laetentur caeli), Armenis (Exultate Deo), Iacobitis (Cantate Domino).",
+    "en-US": "The documents of the seventeenth ecumenical council, which moved from Basel to Ferrara and Florence (1431–1445) and reunited the Greeks, Armenians and Copts with Rome: Laetentur caeli, Exultate Deo, Cantate Domino. Latin text.",
+    "pt-BR": "Os documentos do décimo sétimo concílio ecumênico, que passou de Basileia a Ferrara e Florença (1431–1445) e uniu gregos, armênios e coptas a Roma: Laetentur caeli, Exultate Deo, Cantate Domino."
+  },
+  "composed": "1431–1445",
+  "languages": [
+    "la"
+  ],
+  "work": "councils/basel-ferrara-florence",
+  "editions": {
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilii_Basiliensis_Documenta",
+      "edition": "Latin Wikisource, Concilii Basiliensis Documenta, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia. Wikitext fetched through action=raw.",
+      "description": "Complete as transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences, lowercase deus/dominus, and no canon numbers; the text is left as transcribed, with line breaks kept as paragraph breaks, the digitisation's split enclitics rejoined and bracketed headings turned into markdown headings. No public-domain English translation of this text has been imported yet.",
+      "tier": "B",
+      "tierEvidence": "Medieval documents; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Concilium Basiliense, Ferrariense, Florentinum (1431–1445)"
+      }
+    }
+  ]
+}
