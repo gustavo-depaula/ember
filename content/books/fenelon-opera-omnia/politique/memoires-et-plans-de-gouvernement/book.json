@@ -1,0 +1,86 @@
+{
+  "id": "fenelon-memoires-plans-de-gouvernement",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Mémoires sur la guerre, la paix et plans de gouvernement",
+    "en-US": "Memoranda on War and Peace, and Plans of Government",
+    "pt-BR": "Memoriais sobre a guerra e a paz e planos de governo"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les mémoires politiques de Fénelon : sur les moyens de prévenir la guerre de la succession d’Espagne, sur la situation de la France et sur la paix, sur Cambrai ; les Plans de gouvernement concertés avec le duc de Chevreuse (les Tables de Chaulnes, 1711) ; et les mémoires sur les précautions à prendre après la mort du duc de Bourgogne (régence, éducation du jeune prince).",
+    "en-US": "Fénelon’s political memoranda: on the means of preventing the War of the Spanish Succession, on the situation of France and on peace, on Cambrai; the Plans of Government drawn up with the Duke of Chevreuse (the Tables of Chaulnes, 1711); and the memoranda on the precautions to take after the death of the Duke of Burgundy (the regency, the education of the young prince).",
+    "pt-BR": "Os memoriais políticos de Fénelon: sobre os meios de evitar a guerra da sucessão da Espanha, sobre a situação da França e sobre a paz, sobre Cambrai; os Planos de governo concertados com o duque de Chevreuse (as Tábuas de Chaulnes, 1711); e os memoriais sobre as precauções a tomar após a morte do duque de Borgonha (regência, educação do jovem príncipe)."
+  },
+  "composed": "1700–1712",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/memoires-et-plans-de-gouvernement",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte07fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 7, p. 180–; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-memoires-succession-d-espagne",
+      "title": {
+        "fr-FR": "Mémoires sur la guerre de la succession d’Espagne et sur la paix"
+      },
+      "children": [
+        {
+          "id": "01-memoires-succession-d-espagne-01",
+          "title": {
+            "fr-FR": "Mémoires sur la guerre de la succession d’Espagne et sur la paix, partie 1"
+          }
+        },
+        {
+          "id": "01-memoires-succession-d-espagne-02",
+          "title": {
+            "fr-FR": "Mémoires sur la guerre de la succession d’Espagne et sur la paix, partie 2"
+          }
+        },
+        {
+          "id": "01-memoires-succession-d-espagne-03",
+          "title": {
+            "fr-FR": "Mémoires sur la guerre de la succession d’Espagne et sur la paix, partie 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-memoire-sur-cambrai",
+      "title": {
+        "fr-FR": "Mémoire sur Cambrai"
+      }
+    },
+    {
+      "id": "03-plans-de-gouvernement",
+      "title": {
+        "fr-FR": "Plans de gouvernement concertés avec le duc de Chevreuse (Tables de Chaulnes)"
+      }
+    },
+    {
+      "id": "04-memoires-sur-la-regence",
+      "title": {
+        "fr-FR": "Mémoires sur les précautions et les mesures à prendre après la mort du duc de Bourgogne"
+      }
+    }
+  ]
+}
