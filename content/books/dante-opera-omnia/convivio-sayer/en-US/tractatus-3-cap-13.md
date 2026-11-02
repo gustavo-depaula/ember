@@ -1,0 +1,26 @@
+# Treatise III, Chapter XIII
+
+Having seen in the beginning of the praises of this Lady how subtly it is said that she is of the Divine Substance, as was first to be considered, we proceed now to consider her as she is in the Intelligences that proceed thence. "All minds of Heaven wonder at her worth," where it is to be known that I say, "minds of Heaven," making that allusion to God which has been mentioned above; and from this one excludes the Intelligences who are exiled from the eternal country, who can never study Philosophy, because love in them is entirely extinct, and for the study of Philosophy, as has been already said, Love is necessary. One sees, therefore, that the spirits of Hell are deprived of the sight of this most beautiful Lady; and, since she is the blessing of the intellect, the deprivation of her is most bitter and full of every sadness.
+
+Then, when I say, "Mortals, enamoured, find her in their thought," I descend to show how she also may come into the Human Intelligence in a secondary degree; with which Human Philosophy I then proceed through the treatise, praising it. I say, then, that the mortals who "find her in their thought" in this life do not always find her there, but only "When Love his peace into their hearts has brought;" wherein there are to be seen three points which are alluded to in this text.
+
+The first is when one says, "Mortals, enamoured," because it seems to make a distinction in the human race, and of necessity it must be made; for, according to what manifestly appears, and which in the following treatise will be specially reasoned out, the greatest part of men live more according to the Sense than according to Reason; and those who live according to the Sense can never be enamoured of this Lady, since of her they can have no apprehension whatever.
+
+The second point is when it says, "When Love his peace into their minds has brought," where it appears to make a distinction of time. And that is necessary; for, although the separate Intelligences gaze at this Lady continually, the Human Intelligence cannot do so; since Human Nature, besides that which gives delight to the Intellect and the Reason, has need of many things requisite for its support which contemplation cannot furnish forth. Therefore our Wisdom is sometimes habitual only, and not actual; and this does not happen to the other Intelligences, which alone are perfect in their intellectual nature. And so, when our soul is not in the act of contemplation, one cannot truly say that it is in Philosophy, except inasmuch as it has the habit of it, and the power of being able to arouse it; sometimes, therefore, she is with the people who are enamoured of her here below, and sometimes not.
+
+The third point is, when it speaks of the time when those people are with her, namely, when Love has brought into their minds his peace; which means no other than when the man is in the act of contemplation, since he does not strive to feel the peace of that Lady except in the act of contemplation.
+
+And thus one sees how this Lady is firstly in the Mind of God, secondly in the other separate Intelligences through continual contemplation, and afterwards in the human intellect through interpreted contemplation. But the man who has her for his Lady is ever to be termed a Philosopher, notwithstanding that he may not be always in the final act of Philosophy, for it is usual to name other men after their habits. Wherefore we call any man virtuous, not merely when performing virtuous actions, but from having the habit or custom of virtue. And we call a man eloquent, even when he is not speaking, from his habit of eloquence, that is, of speaking well.
+
+And of this Philosophy, in which Human Intelligence has part, there will now be the following encomiums to prove how great a part of her good gifts is bestowed on Human Nature. I say, then, afterwards:
+
+Her Maker saw that she was good, and poured,
+Beyond our Nature, fulness of His Power
+On her pure Soul, whence shone this holy dower
+Through all her frame.
+
+For the capacity of our Nature is subdued by it, which it makes beautiful and virtuous. Wherefore, although into the habit of that Lady one may somewhat come, it is not possible to say that any one who enters thereinto properly has that habit; since the first study, that whereby the habit is begotten, cannot perfectly acquire that philosophy. And here one sees her lowly praise; for, perfect or imperfect, she never loses the name of perfection. And because of this her surpassing excellence, it says that the Soul of Philosophy "shone Through all her frame," that is, that God ever imparts to her of His Light.
+
+Here we may recall to mind what is said above, that Love is a form of Philosophy, and therefore here is called her Soul; which Love is manifest in the use of Wisdom, and such use brings with it a wonderful beauty, that is to say, contentment under any condition of the time, and contempt for those things which other men make their masters.
+
+Wherefore it happens that those other unhappy ones who gaze thereon, and think over their own defects from the desire for perfection, fall into the weariness of sighs; and this is meant where it says: "That from the eyes she touches heralds fly Heartward with longings, heavenward with a sigh."

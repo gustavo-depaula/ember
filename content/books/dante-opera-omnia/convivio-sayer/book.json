@@ -1,0 +1,535 @@
+{
+  "id": "dante-convivio-sayer",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Banquet (Il Convito)",
+    "pt-BR": "O Banquete (Il Convito)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "en-US": "Dante’s Convivio in the English of Elizabeth Price Sayer (1887), as The Banquet (Il Convito): four treatises, with the canzoni in verse. Sayer’s chapters do not follow the Italian chapter for chapter (treatise II has 16, against 15 in the Italian text), so this is a separate book of the same work as the Italian Convivio. The translator’s preface and her note on the date of the Convito are not imported.",
+    "pt-BR": "O Convivio de Dante na versão inglesa de Elizabeth Price Sayer (1887): quatro tratados, com as canções em verso. A divisão em capítulos difere do texto italiano."
+  },
+  "composed": "1304-1307",
+  "languages": [
+    "en-US"
+  ],
+  "work": "dante/convivio",
+  "editions": {
+    "en-US": {
+      "translator": "Elizabeth Price Sayer",
+      "year": 1887
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/12867",
+      "edition": "The Banquet (Il Convito) of Dante Alighieri, translated by Elizabeth Price Sayer (London: Routledge, 1887), Project Gutenberg #12867.",
+      "description": "Four treatises with the canzoni (as separate chapters) and 74 chapters. The preface, the table of contents and the note on the date of the work are dropped. Wicksteed’s Temple Classics version (1903) is OCR only and not imported.",
+      "tier": "A",
+      "tierEvidence": "Published 1887; Project Gutenberg distributes it."
+    }
+  ],
+  "toc": [
+    {
+      "id": "tractatus-1",
+      "title": {
+        "en-US": "Treatise I"
+      },
+      "children": [
+        {
+          "id": "tractatus-1-cap-01",
+          "title": {
+            "en-US": "Treatise I, Chapter I"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-02",
+          "title": {
+            "en-US": "Treatise I, Chapter II"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-03",
+          "title": {
+            "en-US": "Treatise I, Chapter III"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-04",
+          "title": {
+            "en-US": "Treatise I, Chapter IV"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-05",
+          "title": {
+            "en-US": "Treatise I, Chapter V"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-06",
+          "title": {
+            "en-US": "Treatise I, Chapter VI"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-07",
+          "title": {
+            "en-US": "Treatise I, Chapter VII"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-08",
+          "title": {
+            "en-US": "Treatise I, Chapter VIII"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-09",
+          "title": {
+            "en-US": "Treatise I, Chapter IX"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-10",
+          "title": {
+            "en-US": "Treatise I, Chapter X"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-11",
+          "title": {
+            "en-US": "Treatise I, Chapter XI"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-12",
+          "title": {
+            "en-US": "Treatise I, Chapter XII"
+          }
+        },
+        {
+          "id": "tractatus-1-cap-13",
+          "title": {
+            "en-US": "Treatise I, Chapter XIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tractatus-2",
+      "title": {
+        "en-US": "Treatise II"
+      },
+      "children": [
+        {
+          "id": "tractatus-2-canzone",
+          "title": {
+            "en-US": "Treatise II, the Canzone"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-01",
+          "title": {
+            "en-US": "Treatise II, Chapter I"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-02",
+          "title": {
+            "en-US": "Treatise II, Chapter II"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-03",
+          "title": {
+            "en-US": "Treatise II, Chapter III"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-04",
+          "title": {
+            "en-US": "Treatise II, Chapter IV"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-05",
+          "title": {
+            "en-US": "Treatise II, Chapter V"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-06",
+          "title": {
+            "en-US": "Treatise II, Chapter VI"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-07",
+          "title": {
+            "en-US": "Treatise II, Chapter VII"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-08",
+          "title": {
+            "en-US": "Treatise II, Chapter VIII"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-09",
+          "title": {
+            "en-US": "Treatise II, Chapter IX"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-10",
+          "title": {
+            "en-US": "Treatise II, Chapter X"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-11",
+          "title": {
+            "en-US": "Treatise II, Chapter XI"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-12",
+          "title": {
+            "en-US": "Treatise II, Chapter XII"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-13",
+          "title": {
+            "en-US": "Treatise II, Chapter XIII"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-14",
+          "title": {
+            "en-US": "Treatise II, Chapter XIV"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-15",
+          "title": {
+            "en-US": "Treatise II, Chapter XV"
+          }
+        },
+        {
+          "id": "tractatus-2-cap-16",
+          "title": {
+            "en-US": "Treatise II, Chapter XVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tractatus-3",
+      "title": {
+        "en-US": "Treatise III"
+      },
+      "children": [
+        {
+          "id": "tractatus-3-canzone",
+          "title": {
+            "en-US": "Treatise III, the Canzone"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-01",
+          "title": {
+            "en-US": "Treatise III, Chapter I"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-02",
+          "title": {
+            "en-US": "Treatise III, Chapter II"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-03",
+          "title": {
+            "en-US": "Treatise III, Chapter III"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-04",
+          "title": {
+            "en-US": "Treatise III, Chapter IV"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-05",
+          "title": {
+            "en-US": "Treatise III, Chapter V"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-06",
+          "title": {
+            "en-US": "Treatise III, Chapter VI"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-07",
+          "title": {
+            "en-US": "Treatise III, Chapter VII"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-08",
+          "title": {
+            "en-US": "Treatise III, Chapter VIII"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-09",
+          "title": {
+            "en-US": "Treatise III, Chapter IX"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-10",
+          "title": {
+            "en-US": "Treatise III, Chapter X"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-11",
+          "title": {
+            "en-US": "Treatise III, Chapter XI"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-12",
+          "title": {
+            "en-US": "Treatise III, Chapter XII"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-13",
+          "title": {
+            "en-US": "Treatise III, Chapter XIII"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-14",
+          "title": {
+            "en-US": "Treatise III, Chapter XIV"
+          }
+        },
+        {
+          "id": "tractatus-3-cap-15",
+          "title": {
+            "en-US": "Treatise III, Chapter XV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tractatus-4",
+      "title": {
+        "en-US": "Treatise IV"
+      },
+      "children": [
+        {
+          "id": "tractatus-4-canzone",
+          "title": {
+            "en-US": "Treatise IV, the Canzone"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-01",
+          "title": {
+            "en-US": "Treatise IV, Chapter I"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-02",
+          "title": {
+            "en-US": "Treatise IV, Chapter II"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-03",
+          "title": {
+            "en-US": "Treatise IV, Chapter III"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-04",
+          "title": {
+            "en-US": "Treatise IV, Chapter IV"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-05",
+          "title": {
+            "en-US": "Treatise IV, Chapter V"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-06",
+          "title": {
+            "en-US": "Treatise IV, Chapter VI"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-07",
+          "title": {
+            "en-US": "Treatise IV, Chapter VII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-08",
+          "title": {
+            "en-US": "Treatise IV, Chapter VIII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-09",
+          "title": {
+            "en-US": "Treatise IV, Chapter IX"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-10",
+          "title": {
+            "en-US": "Treatise IV, Chapter X"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-11",
+          "title": {
+            "en-US": "Treatise IV, Chapter XI"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-12",
+          "title": {
+            "en-US": "Treatise IV, Chapter XII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-13",
+          "title": {
+            "en-US": "Treatise IV, Chapter XIII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-14",
+          "title": {
+            "en-US": "Treatise IV, Chapter XIV"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-15",
+          "title": {
+            "en-US": "Treatise IV, Chapter XV"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-16",
+          "title": {
+            "en-US": "Treatise IV, Chapter XVI"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-17",
+          "title": {
+            "en-US": "Treatise IV, Chapter XVII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-18",
+          "title": {
+            "en-US": "Treatise IV, Chapter XVIII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-19",
+          "title": {
+            "en-US": "Treatise IV, Chapter XIX"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-20",
+          "title": {
+            "en-US": "Treatise IV, Chapter XX"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-21",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXI"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-22",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-23",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXIII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-24",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXIV"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-25",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXV"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-26",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXVI"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-27",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXVII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-28",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXVIII"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-29",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXIX"
+          }
+        },
+        {
+          "id": "tractatus-4-cap-30",
+          "title": {
+            "en-US": "Treatise IV, Chapter XXX"
+          }
+        }
+      ]
+    }
+  ]
+}
