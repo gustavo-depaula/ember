@@ -1,0 +1,105 @@
+{
+  "id": "newman-letter-to-the-duke-of-norfolk",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Letter Addressed to His Grace the Duke of Norfolk",
+    "pt-BR": "Carta a Sua Graça o Duque de Norfolk"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's reply of 1875 to Gladstone's pamphlet claiming that the Vatican Council of 1870 made Catholics bad citizens. He treats the ancient Church and the papal Church, divided allegiance, the Encyclical and Syllabus of Pius IX, and the Vatican definition of infallibility, and gives the passage on conscience as the aboriginal Vicar of Christ. With the Postscript replying to critics.",
+    "pt-BR": "A resposta de Newman (1875) ao panfleto de Gladstone, que sustentava que o Concílio Vaticano de 1870 tornara os católicos maus cidadãos. Ele trata da Igreja antiga e da Igreja papal, da lealdade dividida, da Encíclica e do Syllabus de Pio IX e da definição vaticana da infalibilidade, e traz a célebre passagem sobre a consciência como vigário original de Cristo. Com o Pós-escrito em resposta aos críticos."
+  },
+  "composed": "1875",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/letter-to-the-duke-of-norfolk",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition, Difficulties of Anglicans vol. 2; Newman Reader)",
+      "year": 1875
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/anglicans/volume2/gladstone/index.html",
+      "edition": "A Letter addressed to His Grace the Duke of Norfolk on occasion of Mr. Gladstone's recent Expostulation (London: Pickering, 1875; reprinted in Certain Difficulties felt by Anglicans, vol. 2), as transcribed by the Newman Reader.",
+      "description": "11 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes.  Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "section-1",
+      "title": {
+        "en-US": "1. Introductory Remarks"
+      }
+    },
+    {
+      "id": "section-2",
+      "title": {
+        "en-US": "2. The Ancient Church"
+      }
+    },
+    {
+      "id": "section-3",
+      "title": {
+        "en-US": "3. The Papal Church"
+      }
+    },
+    {
+      "id": "section-4",
+      "title": {
+        "en-US": "4. Divided Allegiance"
+      }
+    },
+    {
+      "id": "section-5",
+      "title": {
+        "en-US": "5. Conscience."
+      }
+    },
+    {
+      "id": "section-6",
+      "title": {
+        "en-US": "6. The Encyclical of 1864"
+      }
+    },
+    {
+      "id": "section-7",
+      "title": {
+        "en-US": "7. The Syllabus"
+      }
+    },
+    {
+      "id": "section-8",
+      "title": {
+        "en-US": "8. The Vatican Council"
+      }
+    },
+    {
+      "id": "section-9",
+      "title": {
+        "en-US": "9. The Vatican Definition"
+      }
+    },
+    {
+      "id": "section-10",
+      "title": {
+        "en-US": "10. Conclusion"
+      }
+    },
+    {
+      "id": "postscript",
+      "title": {
+        "en-US": "Postscript"
+      }
+    }
+  ]
+}
