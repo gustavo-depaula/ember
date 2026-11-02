@@ -1,0 +1,633 @@
+{
+  "id": "bellarmine-controversiae-de-iustificatione",
+  "cover": "classic",
+  "name": {
+    "la": "De justificatione",
+    "en-US": "On Justification",
+    "pt-BR": "Sobre a justificação"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De justificatione. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): justification of the sinner by faith and works, certainty of grace, merit. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a justificação."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-iustificatione",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia06bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 6 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De nomine justificationis, et justitiae",
+            "en-US": "Caput I. De nomine justificationis, et justitiae"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Explicantur causae justificationis",
+            "en-US": "Caput II. Explicantur causae justificationis"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Aperitur status quaestionis de fide justificante, et indicantur auctores. qui de justificatione",
+            "en-US": "Caput III. Aperitur status quaestionis de fide justificante, et indicantur auctores. qui de justificatione"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Quid sit /ales justificans, ex sententia tum hxreticorum, tum etiam Catholicorum",
+            "en-US": "Caput IV. Quid sit /ales justificans, ex sententia tum hxreticorum, tum etiam Catholicorum"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Refellitur ex cap. 11. ad Hebr. haereticorum error de notione f dei justificantis",
+            "en-US": "Caput V. Refellitur ex cap. 11. ad Hebr. haereticorum error de notione f dei justificantis"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Fidem justificantem non esse Fiduciam, probatur ex divinis litteris",
+            "en-US": "Caput VI. Fidem justificantem non esse Fiduciam, probatur ex divinis litteris"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Fidem justificantem non tam esse notitiam, quam assensum, probatur ex Scripturis",
+            "en-US": "Caput VII. Fidem justificantem non tam esse notitiam, quam assensum, probatur ex Scripturis"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Fidei justificantis objectum non esse specialem misericordiam, sed omnia quse Deus revelavit, probatur ex divinis litteris",
+            "en-US": "Caput VIII. Fidei justificantis objectum non esse specialem misericordiam, sed omnia quse Deus revelavit, probatur ex divinis litteris"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Probatur ex traditione Ecclesiastica, fidem justificantem non esse fiduciam misericordiae, sed assensum ad omnia, quae in verbo",
+            "en-US": "Caput IX. Probatur ex traditione Ecclesiastica, fidem justificantem non esse fiduciam misericordiae, sed assensum ad omnia, quae in verbo"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Probatur idem rationibus",
+            "en-US": "Caput X. Probatur idem rationibus"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Refelluntur objectiones adversariorum",
+            "en-US": "Caput XI. Refelluntur objectiones adversariorum"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Proponitur secunda quaestio, an fides sola justificet",
+            "en-US": "Caput XII. Proponitur secunda quaestio, an fides sola justificet"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Fidem justificare, sed non solam, idem enim facere timorem, spem, dilectionem, etc",
+            "en-US": "Caput XIII. Fidem justificare, sed non solam, idem enim facere timorem, spem, dilectionem, etc"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. Fidem solam non justificare, probatur ex alio principio",
+            "en-US": "Caput XIV. Fidem solam non justificare, probatur ex alio principio"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. Fidem veram posse re ipsa a dilectione aliisque virtutibus separari",
+            "en-US": "Caput XV. Fidem veram posse re ipsa a dilectione aliisque virtutibus separari"
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI. Fidem non solam justificare, probatur ex remotione causarum, quae possunt reddi, cur fides sola justificet",
+            "en-US": "Caput XVI. Fidem non solam justificare, probatur ex remotione causarum, quae possunt reddi, cur fides sola justificet"
+          }
+        },
+        {
+          "id": "b1c17",
+          "title": {
+            "la": "Caput XVII. excludatur etiam fides, qua; est quuddam opus",
+            "en-US": "Caput XVII. excludatur etiam fides, qua; est quuddam opus"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX. Solvitur argumentum primum ex Scripturis. depromptum pro sola fide",
+            "en-US": "Caput XIX. Solvitur argumentum primum ex Scripturis. depromptum pro sola fide"
+          }
+        },
+        {
+          "id": "b1c20",
+          "title": {
+            "la": "Caput XX",
+            "en-US": "Caput XX"
+          }
+        },
+        {
+          "id": "b1c21",
+          "title": {
+            "la": "Caput XXI. Solvitur argumentum tertium, ex Scripturis desumptum pro sola fide",
+            "en-US": "Caput XXI. Solvitur argumentum tertium, ex Scripturis desumptum pro sola fide"
+          }
+        },
+        {
+          "id": "b1c22",
+          "title": {
+            "la": "Caput XXII. So Icitur argumentum quartum, ex Scripturis depromptum pro sola fide",
+            "en-US": "Caput XXII. So Icitur argumentum quartum, ex Scripturis depromptum pro sola fide"
+          }
+        },
+        {
+          "id": "b1c23",
+          "title": {
+            "la": "Caput XXIII. Solvitur quintum argumentum ex Scripturis pro sola fide",
+            "en-US": "Caput XXIII. Solvitur quintum argumentum ex Scripturis pro sola fide"
+          }
+        },
+        {
+          "id": "b1c24",
+          "title": {
+            "la": "Caput XXIV. Solvitur argumentum sextum ex Scripturis. pro sola fide",
+            "en-US": "Caput XXIV. Solvitur argumentum sextum ex Scripturis. pro sola fide"
+          }
+        },
+        {
+          "id": "b1c25",
+          "title": {
+            "la": "Caput XXV. Solvitur argumentum ex traditione veterum Patrum pro sola fide",
+            "en-US": "Caput XXV. Solvitur argumentum ex traditione veterum Patrum pro sola fide"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. De variis erroribus circa formalem causam justificationis",
+            "en-US": "Caput I. De variis erroribus circa formalem causam justificationis"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Proponitu r sententia Ecclesiae, et aperitur status quaestionis",
+            "en-US": "Caput II. Proponitu r sententia Ecclesiae, et aperitur status quaestionis"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Inhaerentem esse justitiam nostram formalem, probatur ex Scripturis",
+            "en-US": "Caput III. Inhaerentem esse justitiam nostram formalem, probatur ex Scripturis"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Fidem non esse integram formalem causam justificationis",
+            "en-US": "Caput IV. Fidem non esse integram formalem causam justificationis"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Formalem causam justificationis non esse justitiam Dei essentialem, ac divinam",
+            "en-US": "Caput V. Formalem causam justificationis non esse justitiam Dei essentialem, ac divinam"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. J usti ficationen nostram non constare sola remissione peccatorum",
+            "en-US": "Caput VI. J usti ficationen nostram non constare sola remissione peccatorum"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Justificationem non consistere in imputatione. justitia: Christi",
+            "en-US": "Caput VII. Justificationem non consistere in imputatione. justitia: Christi"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. CAPUT VIII",
+            "en-US": "Caput VIII. CAPUT VIII"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX",
+            "en-US": "Caput IX"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Solvuntur argumenta ex epistolis ad Corinthios",
+            "en-US": "Caput X. Solvuntur argumenta ex epistolis ad Corinthios"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Solvuntur argumenta ex epistola ad Ephesios",
+            "en-US": "Caput XI. Solvuntur argumenta ex epistola ad Ephesios"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Solvuntur argumenta ex Actis Apostolorum, ct ex parabola publicani. i",
+            "en-US": "Caput XII. Solvuntur argumenta ex Actis Apostolorum, ct ex parabola publicani. i"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur argumenta ex Patribus",
+            "en-US": "Caput XIII. Solvuntur argumenta ex Patribus"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Solvitur argumentum petitum ex ratione",
+            "en-US": "Caput XIV. Solvitur argumentum petitum ex ratione"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Justitiam, qua formaliter justificamur, habitualem esse, non actualem",
+            "en-US": "Caput XV. Justitiam, qua formaliter justificamur, habitualem esse, non actualem"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Solvuntur objectiones contra doctrinam capitis superioris",
+            "en-US": "Caput XVI. Solvuntur objectiones contra doctrinam capitis superioris"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. De variis erroribus recentium haereticorum, circa Justificationem",
+            "en-US": "Caput I. De variis erroribus recentium haereticorum, circa Justificationem"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. Proponitur status quaestionis de incertitudine justitiae",
+            "en-US": "Caput II. Proponitur status quaestionis de incertitudine justitiae"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Recensentur varice sententiae de proposita quaestione",
+            "en-US": "Caput III. Recensentur varice sententiae de proposita quaestione"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. Probatur testimoniis Salomonis incertitudo proprix gratix, atque justitix",
+            "en-US": "Caput IV. Probatur testimoniis Salomonis incertitudo proprix gratix, atque justitix"
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V. Idem probatur testimonio, et exemplo Job, Davidis et Pauli",
+            "en-US": "Caput V. Idem probatur testimonio, et exemplo Job, Davidis et Pauli"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. Idem probatur ex variis locis Prophetarum et Apostolorum",
+            "en-US": "Caput VI. Idem probatur ex variis locis Prophetarum et Apostolorum"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. Idem probatur testimoniis sanctorum Patrum",
+            "en-US": "Caput VII. Idem probatur testimoniis sanctorum Patrum"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Idem probatur rationibus variis",
+            "en-US": "Caput VIII. Idem probatur rationibus variis"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. Solvuntur argumenta adversariorum, ex testimoniis Scripturarum deprompta",
+            "en-US": "Caput IX. Solvuntur argumenta adversariorum, ex testimoniis Scripturarum deprompta"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. Solvuntur argumenta ex Patribus",
+            "en-US": "Caput X. Solvuntur argumenta ex Patribus"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. Ee fellitur error de certitudine Praedestinationis",
+            "en-US": "Caput XII. Ee fellitur error de certitudine Praedestinationis"
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur objectiones",
+            "en-US": "Caput XIII. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. Fidem, ac justitiam non esse propriam electorum, et semel habitam amitti posse",
+            "en-US": "Caput XIV. Fidem, ac justitiam non esse propriam electorum, et semel habitam amitti posse"
+          }
+        },
+        {
+          "id": "b3c15",
+          "title": {
+            "la": "Caput XV. Solvuntur objectiones",
+            "en-US": "Caput XV. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b3c16",
+          "title": {
+            "la": "Caput XVI. Non esse omnes justos inter se pares",
+            "en-US": "Caput XVI. Non esse omnes justos inter se pares"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I",
+            "en-US": "Caput I"
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. Refutatur falsum discrimen legis et Evangelii et inde probatur operum necessitas",
+            "en-US": "Caput II. Refutatur falsum discrimen legis et Evangelii et inde probatur operum necessitas"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III",
+            "en-US": "Caput III"
+          }
+        },
+        {
+          "id": "b4c04",
+          "title": {
+            "la": "Caput IV. Ostenditur alterum discrimen legis et Evangelii",
+            "en-US": "Caput IV. Ostenditur alterum discrimen legis et Evangelii"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V. Refellitur falsa libertas Christiana, et inde probatur necessitas operum",
+            "en-US": "Caput V. Refellitur falsa libertas Christiana, et inde probatur necessitas operum"
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI. 'Asseritur vera libertas Christiana, et inde quoque probatur necessitas operum bonorum",
+            "en-US": "Caput VI. 'Asseritur vera libertas Christiana, et inde quoque probatur necessitas operum bonorum"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. Probatur ex Scripturis necessitas operum ad salutem",
+            "en-US": "Caput VII. Probatur ex Scripturis necessitas operum ad salutem"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. Probatur operum necessitas ex traditione ecclesiastica",
+            "en-US": "Caput VIII. Probatur operum necessitas ex traditione ecclesiastica"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Probatur operum, necessitas ad salutem ex ratione",
+            "en-US": "Caput IX. Probatur operum, necessitas ad salutem ex ratione"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. Proponitur quaestio de veritate justitiae operum, et sententice referuntur Haereticorum et Catholicorum",
+            "en-US": "Caput X. Proponitur quaestio de veritate justitiae operum, et sententice referuntur Haereticorum et Catholicorum"
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII. Legem Dei non esse impossibilem, probatur ex Patribus",
+            "en-US": "Caput XII. Legem Dei non esse impossibilem, probatur ex Patribus"
+          }
+        },
+        {
+          "id": "b4c13",
+          "title": {
+            "la": "Caput XIII. Legem Dei non esse impossibilem, probatur rationibus",
+            "en-US": "Caput XIII. Legem Dei non esse impossibilem, probatur rationibus"
+          }
+        },
+        {
+          "id": "b4c14",
+          "title": {
+            "la": "Caput XIV. Solvuntur objectiones hxreticorum. i",
+            "en-US": "Caput XIV. Solvuntur objectiones hxreticorum. i"
+          }
+        },
+        {
+          "id": "b4c15",
+          "title": {
+            "la": "Caput XV. Justorum operae non esse peccata, sed justitiam, probatur ex divinis litteris",
+            "en-US": "Caput XV. Justorum operae non esse peccata, sed justitiam, probatur ex divinis litteris"
+          }
+        },
+        {
+          "id": "b4c16",
+          "title": {
+            "la": "Caput XVI",
+            "en-US": "Caput XVI"
+          }
+        },
+        {
+          "id": "b4c18",
+          "title": {
+            "la": "Caput XVIII. Opera bona non solum esse vere justa, sed etiam justificare, probatur ex cap. 2. Jacobi",
+            "en-US": "Caput XVIII. Opera bona non solum esse vere justa, sed etiam justificare, probatur ex cap. 2. Jacobi"
+          }
+        },
+        {
+          "id": "b4c20",
+          "title": {
+            "la": "Caput XX. Solvuntur objectiones ex Scripturis, contra veritatem justitiae actualis",
+            "en-US": "Caput XX. Solvuntur objectiones ex Scripturis, contra veritatem justitiae actualis"
+          }
+        },
+        {
+          "id": "b4c21",
+          "title": {
+            "la": "Caput XXI. qudniamndir bona intonfionBjf riBC; pdrtebat, ab iliis - merito 'panno' mefriStruatid ubrbpaiUritUr; De fis' enini' dicit Doiiiift&Isaia* v.. iV2",
+            "en-US": "Caput XXI. qudniamndir bona intonfionBjf riBC; pdrtebat, ab iliis - merito 'panno' mefriStruatid ubrbpaiUritUr; De fis' enini' dicit Doiiiift&Isaia* v.. iV2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b5c02",
+          "title": {
+            "la": "Caput II",
+            "en-US": "Caput II"
+          }
+        }
+      ]
+    }
+  ]
+}
