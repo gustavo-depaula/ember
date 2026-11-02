@@ -1,0 +1,101 @@
+{
+  "id": "francis-vita-egidio",
+  "cover": "classic",
+  "name": {
+    "it": "Vita di frate Egidio",
+    "en-US": "The Life of Brother Giles",
+    "pt-BR": "Vida de frei Egídio"
+  },
+  "author": {
+    "it": "Anonimo (XIV secolo)",
+    "en-US": "Anonymous (14th century)",
+    "pt-BR": "Anônimo (século XIV)"
+  },
+  "description": {
+    "it": "Vita di frate Egidio d’Assisi, terzo compagno di san Francesco, in dieci capitoli.",
+    "en-US": "The Life of Brother Giles of Assisi, the third companion of St. Francis, in ten chapters. Italian.",
+    "pt-BR": "A Vida de frei Egídio de Assis, terceiro companheiro de São Francisco, em dez capítulos."
+  },
+  "composed": "14th century",
+  "languages": [
+    "it"
+  ],
+  "work": "francis-of-assisi/vita-egidio",
+  "editions": {
+    "it": {
+      "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_vitaegidio_ita.html",
+      "edition": "Vita di frate Egidio, poliba.it (Wayback Machine snapshot).",
+      "description": "Ten chapters. The English of the CCEL Hudleston revision (Part III) is not imported.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "it": "CAPITOLO I."
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "it": "CAPITOLO II."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "it": "CAPITOLO III."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "it": "CAPITOLO IV."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "it": "CAPITOLO V."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "it": "CAPITOLO VI."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "it": "CAPITOLO VII."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "it": "CAPITOLO VIII."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "it": "CAPITOLO IX."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "it": "CAPITOLO X."
+      }
+    }
+  ]
+}
