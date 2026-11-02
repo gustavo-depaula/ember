@@ -1,0 +1,48 @@
+{
+  "id": "bossuet-explication-des-prieres-de-la-messe",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Explication de quelques difficultés sur les prières de la messe, à un nouveau catholique",
+    "en-US": "Explanation of Some Difficulties on the Prayers of the Mass, for a New Catholic",
+    "pt-BR": "Explicação de algumas dificuldades sobre as orações da missa, a um novo católico"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Réponse de Bossuet à un protestant converti qui s’embarrassait de plusieurs prières du canon et de l’ordinaire de la messe : le sacrifice, l’oblation, l’intercession des saints et la prière pour les morts. Publié en 1689. Édition Lachat (1864).",
+    "en-US": "Bossuet’s answer to a converted Protestant troubled by several prayers of the canon and the ordinary of the Mass: the sacrifice, the oblation, the intercession of the saints and prayer for the dead. Published in 1689. Lachat edition (1864).",
+    "pt-BR": "Resposta de Bossuet a um protestante convertido que se embaraçava com várias orações do cânon e do ordinário da missa: o sacrifício, a oblação, a intercessão dos santos e a oração pelos mortos. Publicado em 1689. Edição Lachat (1864)."
+  },
+  "composed": "1689",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/explication-des-prieres-de-la-messe",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume017/002.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XVII, page 002. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "explication",
+      "title": {
+        "fr-FR": "Explication de quelques difficultés sur les prières de la messe, à un nouveau catholique"
+      }
+    }
+  ]
+}
