@@ -1,0 +1,150 @@
+{
+  "id": "bossuet-histoire-des-variations",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Histoire des variations des Églises protestantes",
+    "en-US": "History of the Variations of the Protestant Churches",
+    "pt-BR": "História das variações das Igrejas protestantes"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Quinze livres où Bossuet suit, de Luther à la fin du XVIIe siècle, les changements de confession des Églises issues de la Réforme (luthéranisme, Angleterre, calvinisme, albigeois, vaudois, hussites) pour opposer à leurs variations la constance de la doctrine de l’Église catholique. Publié en 1688. Édition Lachat (1864).",
+    "en-US": "Fifteen books following, from Luther to the end of the seventeenth century, the changes of confession in the Churches born of the Reformation (Lutherans, England, Calvinists, Albigensians, Waldensians, Hussites), to set against their variations the constancy of Catholic doctrine. Published in 1688. Lachat edition (1864).",
+    "pt-BR": "Quinze livros em que Bossuet segue, de Lutero ao fim do século XVII, as mudanças de confissão das Igrejas nascidas da Reforma (luteranos, Inglaterra, calvinistas, albigenses, valdenses, hussitas), para opor às suas variações a constância da doutrina da Igreja católica. Publicado em 1688. Edição Lachat (1864)."
+  },
+  "composed": "1688",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/histoire-des-variations",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume014/001.htm to volume015/004.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XIV, pages 001-015, and volume XV, pages 002-004. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "livre-01",
+      "title": {
+        "fr-FR": "Livre premier. Depuis l’an 1517 jusqu'à l’an 1520"
+      }
+    },
+    {
+      "id": "livre-02",
+      "title": {
+        "fr-FR": "Livre II. Depuis 1520 jusqu'à 1529"
+      }
+    },
+    {
+      "id": "livre-03",
+      "title": {
+        "fr-FR": "Livre III. En l’an 1530"
+      }
+    },
+    {
+      "id": "livre-04",
+      "title": {
+        "fr-FR": "Livre IV. Depuis 1530 jusqu'à 1537"
+      }
+    },
+    {
+      "id": "livre-05",
+      "title": {
+        "fr-FR": "Livre V. Réflexions générales sur les agitations de Mélanchthon, et sur l'état de la Réforme"
+      }
+    },
+    {
+      "id": "livre-06",
+      "title": {
+        "fr-FR": "Livre VI. Depuis 1537 jusqu'à l’an 1546"
+      }
+    },
+    {
+      "id": "livre-07",
+      "title": {
+        "fr-FR": "Livre VII. Récit des variations et de la Réforme d’Angleterre sous Henri VIII (1529-1547) et sous Édouard VI (1547-1553), avec la suite de l’histoire de Cranmer jusqu’à sa mort en 1556"
+      }
+    },
+    {
+      "id": "livre-08",
+      "title": {
+        "fr-FR": "Livre VIII. Depuis 1546 jusqu'à l'an 1561"
+      }
+    },
+    {
+      "id": "livre-09",
+      "title": {
+        "fr-FR": "Livre IX. En l’an 1561. Doctrine et caractère de Calvin"
+      }
+    },
+    {
+      "id": "livre-10",
+      "title": {
+        "fr-FR": "Livre X. Depuis 1558 jusqu'à 1570"
+      }
+    },
+    {
+      "id": "livre-11",
+      "title": {
+        "fr-FR": "Livre XI. Histoire abrégée des albigeois, des vaudois, des vicléfites et des hussites"
+      }
+    },
+    {
+      "id": "livre-12",
+      "title": {
+        "fr-FR": "Livre XII. Depuis 1571 jusqu'à 1579, et depuis 1603 jusqu'à 1615"
+      }
+    },
+    {
+      "id": "livre-13",
+      "title": {
+        "fr-FR": "Livre XIII. Doctrine sur l'Antéchrist, et variations sur cette matière depuis Luther jusqu'à nous"
+      }
+    },
+    {
+      "id": "livre-14",
+      "title": {
+        "fr-FR": "Livre XIV. Depuis 1601 et dans tout le reste du siècle où nous sommes"
+      }
+    },
+    {
+      "id": "livre-15",
+      "title": {
+        "fr-FR": "Livre XV. Variations sur l'article du Symbole: Je crois l'Eglise catholique. Fermeté inébranlable de l'Eglise romaine"
+      }
+    },
+    {
+      "id": "additions-livre-14",
+      "title": {
+        "fr-FR": "Additions importantes au livre XIV"
+      }
+    }
+  ]
+}
