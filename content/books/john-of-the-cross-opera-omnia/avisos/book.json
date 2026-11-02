@@ -1,0 +1,77 @@
+{
+  "id": "john-of-the-cross-avisos",
+  "name": {
+    "es-ES": "Avisos y sentencias (Dichos de luz y amor)",
+    "en-US": "Maxims and Counsels (Sayings of Light and Love)",
+    "pt-BR": "Avisos e sentenças (Ditos de luz e amor)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "Los avisos y sentencias espirituales de San Juan de la Cruz: los Dichos de luz y amor del autógrafo de Andújar con su prólogo, los Puntos de amor, las Doce estrellas y los avisos copiados por la M. Magdalena del Espíritu Santo y otros. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "The spiritual maxims and counsels of St. John of the Cross: the Sayings of Light and Love of the Andújar autograph with their prologue, the Points of Love, the Twelve Stars, and the counsels copied by Mother Magdalena of the Holy Spirit and others. Spanish critical text of P. Silverio de Santa Teresa with his notes.",
+    "pt-BR": "Os avisos e sentenças espirituais de São João da Cruz: os Ditos de luz e amor do autógrafo de Andújar com seu prólogo, os Pontos de amor, as Doze estrelas e os avisos copiados pela M. Madalena do Espírito Santo e outros."
+  },
+  "composed": "1578–1591",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-the-cross/avisos",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1931
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande04john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. IV (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1931, Avisos y sentencias, pp. 231 ff.. Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1931 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avisos-1",
+      "title": {
+        "es-ES": "Avisos y sentencias"
+      }
+    },
+    {
+      "id": "dichos",
+      "title": {
+        "es-ES": "Avisos y sentencias espirituales (Dichos de luz y amor)"
+      }
+    },
+    {
+      "id": "puntos-de-amor",
+      "title": {
+        "es-ES": "Puntos de amor"
+      }
+    },
+    {
+      "id": "doce-estrellas",
+      "title": {
+        "es-ES": "Doce estrellas para llegar a la suma perfección"
+      }
+    },
+    {
+      "id": "magdalena",
+      "title": {
+        "es-ES": "Avisos que tenía la M. Magdalena del Espíritu Santo"
+      }
+    },
+    {
+      "id": "otros-avisos",
+      "title": {
+        "es-ES": "Otros avisos"
+      }
+    }
+  ]
+}
