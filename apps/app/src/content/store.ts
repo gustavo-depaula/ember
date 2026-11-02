@@ -77,7 +77,17 @@ async function downloadToCache(hash: string, expectedSize?: number): Promise<voi
   new Directory(Paths.document, TMP_DIR).create({ intermediates: true, idempotent: true })
   const tmp = tmpFile(hash)
   try {
-    await NativeFile.downloadFileAsync(hearthUrl(blobPath(hash)), tmp, { idempotent: true })
+    // The native download has no timeout of its own: on a connection that stalls
+    // it never settles, and since callers share the in-flight promise, every
+    // retry would wait on the same dead download. Give up and let the fetch
+    // fallback (which aborts at 30s) take over.
+    let timer: ReturnType<typeof setTimeout> | undefined
+    await Promise.race([
+      NativeFile.downloadFileAsync(hearthUrl(blobPath(hash)), tmp, { idempotent: true }),
+      new Promise((_, reject) => {
+        timer = setTimeout(() => reject(new Error('native download timed out')), 30_000)
+      }),
+    ]).finally(() => clearTimeout(timer))
     const size = tmp.size ?? 0
     if (size <= 0) throw new Error('empty download')
     if (expectedSize !== undefined && size !== expectedSize) {

@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query'
+import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { X } from 'lucide-react-native'
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
@@ -380,6 +380,38 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
   // transient and a later paint still wins; retrying mounts a fresh WebView.
   const [engineError, setEngineError] = useState<string>()
   const [engineMount, setEngineMount] = useState(0)
+  // Every step before the first paint gets 20s. One that never settles (a
+  // download that stalls, a WebView that never answers) would otherwise leave
+  // the title page up forever with nothing to report, so name the step instead.
+  // A step that finishes late clears it and the next one gets its own 20s.
+  const stalledAt = (() => {
+    if (!bookEntry) return 'manifest'
+    if (!fontFaces) return 'fonts'
+    if (!session) return 'session'
+    if (initialChapter === undefined) return 'chapter'
+    return 'engine'
+  })()
+  const [stalled, setStalled] = useState(false)
+  const [loadAttempt, setLoadAttempt] = useState(0)
+  // biome-ignore lint/correctness/useExhaustiveDependencies: a new step or a retry restarts the clock.
+  useEffect(() => {
+    setStalled(false)
+    if (painted) return
+    const timer = setTimeout(() => setStalled(true), 20_000)
+    return () => clearTimeout(timer)
+  }, [painted, stalledAt, loadAttempt])
+  const queryClient = useQueryClient()
+  const retryLoad = () => {
+    setStalled(false)
+    setEngineError(undefined)
+    setLoadAttempt((n) => n + 1)
+    setEngineMount((n) => n + 1)
+    void refetchManifest()
+    void queryClient.refetchQueries({ queryKey: ['reader-font-faces'] })
+    void queryClient.refetchQueries({ queryKey: ['book-session', bookId] })
+    void queryClient.refetchQueries({ queryKey: ['book-chapter', bookId] })
+  }
+  const stallDetail = `Timed out waiting for: ${stalledAt}`
   // Scrubber dot fractions = anchor.startOffset / chapter plain-text length.
   // Foliate's column-flow doesn't expose offset→page in RN, but the linear
   // approximation is plenty accurate for a 5pt dot on a 200pt scrubber.
@@ -919,6 +951,19 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
     )
   }
 
+  if (stalled && stalledAt !== 'engine' && (bookEntry || catalogEntry)) {
+    return (
+      <ReaderFrame
+        background={config.background}
+        color={config.color}
+        isDark={config.isDark}
+        onClose={() => router.back()}
+      >
+        <ReaderErrorState detail={stallDetail} onRetry={retryLoad} />
+      </ReaderFrame>
+    )
+  }
+
   if (!bookEntry && catalogEntry) {
     return (
       <LoadingPane
@@ -1028,20 +1073,14 @@ export function BookReader({ bookId, chapter, lang: edition }: Props) {
 
       {!painted && (
         <View style={StyleSheet.absoluteFill}>
-          {engineError ? (
+          {engineError || stalled ? (
             <ReaderFrame
               background={config.background}
               color={config.color}
               isDark={config.isDark}
               onClose={() => router.back()}
             >
-              <ReaderErrorState
-                detail={engineError}
-                onRetry={() => {
-                  setEngineError(undefined)
-                  setEngineMount((n) => n + 1)
-                }}
-              />
+              <ReaderErrorState detail={engineError ?? stallDetail} onRetry={retryLoad} />
             </ReaderFrame>
           ) : (
             <LoadingPane
