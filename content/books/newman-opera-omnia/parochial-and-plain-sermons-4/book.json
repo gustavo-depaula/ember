@@ -1,0 +1,177 @@
+{
+  "id": "newman-parochial-and-plain-sermons-4",
+  "cover": "classic",
+  "name": {
+    "en-US": "Parochial and Plain Sermons, Volume 4",
+    "pt-BR": "Sermões Paroquiais e Simples, Volume 4"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Volume 4 of Newman's Parochial and Plain Sermons: 23 of the sermons he preached at St. Mary's, Oxford and Littlemore as an Anglican vicar. Newman reissued the series unchanged in 1868, as a Catholic, through his friend William John Copeland; this is the Longmans text. The sermons are on holiness, faith, the Christian year, the saints and the life of obedience.",
+    "pt-BR": "Volume 4 dos Parochial and Plain Sermons de Newman: 23 dos sermões que ele pregou em Santa Maria, Oxford, e em Littlemore, como vigário anglicano. Newman reeditou a série sem alterações em 1868, já católico, por meio do amigo William John Copeland; este é o texto da Longmans. Os sermões tratam da santidade, da fé, do ano cristão, dos santos e da vida de obediência."
+  },
+  "composed": "1837-1838",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/parochial-and-plain-sermons-4",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/parochial/volume4/index.html",
+      "edition": "Parochial and Plain Sermons, vol. 4 (London: Rivingtons, 1868 edition of the series first published 1834-1843), as transcribed by the Newman Reader.",
+      "description": "23 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Anglican-period sermons, reissued by Newman in 1868. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon 1. The Strictness of the Law of Christ"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon 2. Obedience without Love, as instanced in the Character of Balaam"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon 3. Moral Consequences of Single Sins"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon 4. Acceptance of Religious Privileges Compulsory"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon 5. Reliance on Religious Observances"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon 6. The Individuality of the Soul"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon 7. Chastisement amid Mercy"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon 8. Peace and Joy amid Chastisement"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon 9. The State of Grace"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon 10. The Visible Church for the Sake of the Elect."
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon 11. The Communion of Saints"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon 12. The Church a Home for the Lonely"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon 13. The Invisible World"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon 14. The Greatness and Littleness of Human Life"
+      }
+    },
+    {
+      "id": "sermon-15",
+      "title": {
+        "en-US": "Sermon 15. Moral Effects of Communion with God"
+      }
+    },
+    {
+      "id": "sermon-16",
+      "title": {
+        "en-US": "Sermon 16. Christ Hidden from the World"
+      }
+    },
+    {
+      "id": "sermon-17",
+      "title": {
+        "en-US": "Sermon 17. Christ Manifested in Remembrance"
+      }
+    },
+    {
+      "id": "sermon-18",
+      "title": {
+        "en-US": "Sermon 18. The Gainsaying of Korah"
+      }
+    },
+    {
+      "id": "sermon-19",
+      "title": {
+        "en-US": "Sermon 19. The Mysteriousness of our Present Being"
+      }
+    },
+    {
+      "id": "sermon-20",
+      "title": {
+        "en-US": "Sermon 20. The Ventures of Faith"
+      }
+    },
+    {
+      "id": "sermon-21",
+      "title": {
+        "en-US": "Sermon 21. Faith and Love"
+      }
+    },
+    {
+      "id": "sermon-22",
+      "title": {
+        "en-US": "Sermon 22. Watching"
+      }
+    },
+    {
+      "id": "sermon-23",
+      "title": {
+        "en-US": "Sermon 23. Keeping Fast and Festival"
+      }
+    }
+  ]
+}
