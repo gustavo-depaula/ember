@@ -1,0 +1,102 @@
+{
+  "id": "olier-journee-chretienne",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "La Journée chrétienne",
+    "en-US": "The Christian Day",
+    "pt-BR": "O Dia cristão"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "Les exercices et les actes d’une journée chrétienne : lever, messe, office, repas, travail, promenade, maladie, coucher.",
+    "en-US": "The exercises and acts of a Christian day: rising, Mass, office, meals, work, walks, sickness, sleep.",
+    "pt-BR": "Os exercícios e atos de um dia cristão: levantar, missa, ofício, refeições, trabalho, passeio, doença, deitar."
+  },
+  "composed": 1655,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "olier/journee-chretienne",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/uvrescompltesd00olie",
+      "edition": "Œuvres complètes de M. Olier, éd. Migne, Paris, 1856; archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Olier died in 1657; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Avant-propos"
+      }
+    },
+    {
+      "id": "partie-1-01",
+      "title": {
+        "fr-FR": "Première partie, partie 1"
+      }
+    },
+    {
+      "id": "partie-1-02",
+      "title": {
+        "fr-FR": "Première partie, partie 2"
+      }
+    },
+    {
+      "id": "partie-1-03",
+      "title": {
+        "fr-FR": "Première partie, partie 3"
+      }
+    },
+    {
+      "id": "partie-1-04",
+      "title": {
+        "fr-FR": "Première partie, partie 4"
+      }
+    },
+    {
+      "id": "partie-1-05",
+      "title": {
+        "fr-FR": "Première partie, partie 5"
+      }
+    },
+    {
+      "id": "partie-2-01",
+      "title": {
+        "fr-FR": "Seconde partie, partie 1"
+      }
+    },
+    {
+      "id": "partie-2-02",
+      "title": {
+        "fr-FR": "Seconde partie, partie 2"
+      }
+    },
+    {
+      "id": "partie-2-03",
+      "title": {
+        "fr-FR": "Seconde partie, partie 3"
+      }
+    },
+    {
+      "id": "partie-2-04",
+      "title": {
+        "fr-FR": "Seconde partie, partie 4"
+      }
+    }
+  ]
+}
