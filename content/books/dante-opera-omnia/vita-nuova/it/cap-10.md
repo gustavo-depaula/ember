@@ -1,0 +1,3 @@
+# Capitolo X
+
+Appresso la mia tornata, mi misi a cercare di questa donna, che lo mio signore m’avea nominata nel cammino de’ sospiri. Ed acciò che il mio parlare sia più brieve, dico che in poco tempo la feci mia difesa tanto, che troppa gente ne ragionava oltra li termini della cortesia; onde molte fiate mi pesava duramente. E per questa cagione, cioè di questa soperchievole voce, che parea che m’infamasse viziosamente, quella gentilissima, la quale fu distruggitrice di tutti i vizj e reina della virtù, passando per alcuna parte mi negò il suo dolcissimo salutare, nel quale stava tutta la mia beatitudine. E uscendo alquanto del proposito presente, voglio dare ad intendere quello che il suo salutare in me virtuosamente operava.

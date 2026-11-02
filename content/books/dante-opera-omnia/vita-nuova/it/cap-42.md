@@ -1,0 +1,3 @@
+# Capitolo XLII
+
+Appresso a questo Sonetto apparve a me una mirabil visione, nella quale vidi cose, che mi fecero proporre di non dir più di questa benedetta, infino a tanto che io non potessi più degnamente trattare di lei. E di venire a ciò io studio quanto posso, sì com’ella sa veramente. Sicchè, se piacere sarà di Colui, per cui tutte le cose vivono, che la mia vita duri per alquanti anni, spero di dire di lei quello che mai non fu detto d’alcuna. E poi piaccia a Colui, ch’è Sire della cortesia, che la mia anima se ne possa gire a vedere la gloria della sua donna, cioè di quella benedetta Beatrice, che gloriosamente mira nella faccia di Colui, *qui est per omnia saecula benedictus.*

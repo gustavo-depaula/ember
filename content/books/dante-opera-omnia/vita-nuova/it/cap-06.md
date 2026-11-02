@@ -1,0 +1,3 @@
+# Capitolo VI
+
+Dico che in questo tempo, che questa donna era ischermo di tanto amore, quanto dalla mia parte, mi venne una volontà di voler ricordare il nome di quella gentilissima, e d’accompagnarlo di molti nomi di donne, e specialmente del nome di questa gentile donna; e presi i nomi di sessanta le più belle donne della cittade, ove la mia donna fu posta dall’altissimo Sire, e composi una epistola sotto forma di Serventese, la quale io non scriverò: e non n’avrei fatta menzione, se non per dire quello che, componendola, maravigliosamente addivenne: cioè, che in alcuno altro numero non sofferse il nome della mia donna stare, se non in sul nono, tra’ nomi di queste donne.
