@@ -11,6 +11,7 @@ def clean_ws(t):
     t = strip_wiki(t)
     t = re.sub(r'\(\d{4}[A-D]?\)', '', t)
     t = re.sub(r'\[\[Patrologia Latina[^\]]*\]\]', '', t)
+    t = re.sub(r'(?m)^.*Migne Patrologia Latina Tomus.*$', '', t)
     t = re.sub(r'^.*J\. P\. Migne\s*$', '', t, flags=re.M)
     t = re.sub(r'^=+\s*(.*?)\s*=+\s*$', r'\n\1\n', t, flags=re.M)
     return t

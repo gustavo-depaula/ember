@@ -1,0 +1,67 @@
+{
+  "id": "bede-historia-abbatum",
+  "cover": "classic",
+  "name": {
+    "la": "Historia abbatum",
+    "en-US": "Lives of the Holy Abbots of Wearmouth and Jarrow",
+    "pt-BR": "Vida dos Santos Abades de Wearmouth e Jarrow"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Historia abbatum, id est Vita sanctorum abbatum monasterii in Wiramutha et Girvum: Benedicti Biscop, Ceolfridi, Eosterwini, Sigfridi et Hwaetberhti (post 716).",
+    "en-US": "Bede's history of the first abbots of his own monastery, written after 716: Benedict Biscop, who founded Wearmouth and Jarrow and brought books and builders from Rome; Ceolfrith, who carried the Codex Amiatinus on his last journey; and Eosterwine, Sigfrith and Hwaetberht. Latin text of Migne (PL 94); English translation of J. A. Giles as given by the Fordham Medieval Sourcebook.",
+    "pt-BR": "A história dos primeiros abades do próprio mosteiro de Beda, escrita depois de 716: Bento Biscop, que fundou Wearmouth e Jarrow e trouxe de Roma livros e artífices; Ceolfrido, que levou o Codex Amiatinus na última viagem; e Eosterwine, Sigfrido e Hwaetberht."
+  },
+  "composed": "c. 716-725",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bede/historia-abbatum",
+  "editions": {
+    "la": {
+      "editor": "Migne, PL 94 (1862)",
+      "year": 1862
+    },
+    "en-US": {
+      "translator": "J. A. Giles",
+      "year": 1843,
+      "from": "la"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Vita_V_sanctorum_abbatum_(Beda)",
+      "edition": "Vita V sanctorum abbatum (Beda) on Latin Wikisource, from the Corpus Corporum TEI of Migne PL 94 (Liber I and Liber II).",
+      "description": "Wikitext removed; inline PL column numbers dropped; one chapter with the two books marked.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint: public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://sourcebooks.fordham.edu/basis/bede-jarrow.asp",
+      "edition": "Bede, The Lives of the Holy Abbots of Weremouth and Jarrow, translated by J. A. Giles (1843), as given by the Internet Medieval Sourcebook (Fordham).",
+      "description": "Page chrome and bibliography removed. Giles's notes are not in the Sourcebook text. The transcription has a few OCR slips (e.g. 'resting. places', 'under taken') left uncorrected.",
+      "tier": "A",
+      "tierEvidence": "Translation of 1843: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02",
+    "en-US": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "historia-abbatum",
+      "title": {
+        "la": "Historia abbatum",
+        "en-US": "Lives of the Holy Abbots"
+      }
+    }
+  ]
+}
