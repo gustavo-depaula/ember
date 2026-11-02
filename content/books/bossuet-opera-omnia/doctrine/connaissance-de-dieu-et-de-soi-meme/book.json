@@ -1,0 +1,84 @@
+{
+  "id": "bossuet-connaissance-de-dieu-et-de-soi-meme",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "De la connaissance de Dieu et de soi-même",
+    "en-US": "On the Knowledge of God and of Oneself",
+    "pt-BR": "Do conhecimento de Deus e de si mesmo"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Traité de philosophie composé pour l’éducation du Dauphin : l’âme, le corps, leur union, puis Dieu, créateur de l’un et de l’autre, et la différence entre l’homme et la bête. Précédé de la lettre au pape Innocent XI sur les études du Dauphin. Écrit vers 1677-1678, publié en 1722. Édition Lachat (1864).",
+    "en-US": "A philosophical treatise composed for the education of the Dauphin: the soul, the body, their union, then God, creator of both, and the difference between man and beast. Preceded by the letter to Pope Innocent XI on the Dauphin’s studies. Written around 1677-78 and published in 1722. Lachat edition (1864).",
+    "pt-BR": "Tratado de filosofia composto para a educação do Delfim: a alma, o corpo, sua união, depois Deus, criador de ambos, e a diferença entre o homem e o animal. Precedido da carta ao papa Inocêncio XI sobre os estudos do Delfim. Escrito por volta de 1677-1678 e publicado em 1722. Edição Lachat (1864)."
+  },
+  "composed": "1677",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/connaissance-de-dieu-et-de-soi-meme",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume023/001.htm to 007.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXIII, pages 001-007. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "instruction-au-pape",
+      "title": {
+        "fr-FR": "De l’instruction de Monseigneur le Dauphin, au pape Innocent XI"
+      }
+    },
+    {
+      "id": "chapitre-1",
+      "title": {
+        "fr-FR": "Chapitre premier : de l’âme"
+      }
+    },
+    {
+      "id": "chapitre-2",
+      "title": {
+        "fr-FR": "Chapitre II : du corps"
+      }
+    },
+    {
+      "id": "chapitre-3",
+      "title": {
+        "fr-FR": "Chapitre III : de l’union de l’âme et du corps"
+      }
+    },
+    {
+      "id": "chapitre-4",
+      "title": {
+        "fr-FR": "Chapitre IV : de Dieu, créateur de l’âme et du corps, et auteur de leur union"
+      }
+    },
+    {
+      "id": "chapitre-5",
+      "title": {
+        "fr-FR": "Chapitre V : de la différence entre l’homme et la bête"
+      }
+    }
+  ]
+}
