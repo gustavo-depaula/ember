@@ -1,0 +1,252 @@
+{
+  "id": "eudes-predicateur",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Le Prédicateur apostolique",
+    "en-US": "The Apostolic Preacher",
+    "pt-BR": "O Pregador apostólico"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le traité de la prédication : les qualités du prédicateur, la matière et la méthode des sermons.",
+    "en-US": "The treatise on preaching: the qualities of the preacher, the matter and method of sermons.",
+    "pt-BR": "O tratado da pregação: as qualidades do pregador, a matéria e o método dos sermões."
+  },
+  "composed": 1666,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/predicateur-apostolique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_4)_000000349.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 4, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pred-01",
+      "title": {
+        "fr-FR": "Introduction (1): Le prédicateur apostolique"
+      }
+    },
+    {
+      "id": "pred-02",
+      "title": {
+        "fr-FR": "Introduction (2): Occasion et publication du prédicateur apostolique"
+      }
+    },
+    {
+      "id": "pred-03",
+      "title": {
+        "fr-FR": "Introduction (3): La prédication d'apres le v. jean eudes"
+      }
+    },
+    {
+      "id": "pred-04",
+      "title": {
+        "fr-FR": "Préface: A tous les prédicateurs et catéchistes missionnaires"
+      }
+    },
+    {
+      "id": "pred-05",
+      "title": {
+        "fr-FR": "CHAPITRE PREMIER.--Quels doivent être les prédicateurs"
+      }
+    },
+    {
+      "id": "pred-06",
+      "title": {
+        "fr-FR": "CHAPITRE II.--De l'excellence et importance de l'office de la prédication considéré en lui-même, en son"
+      }
+    },
+    {
+      "id": "pred-07",
+      "title": {
+        "fr-FR": "CHAPITRE III.--Douze moyens dont il se faut servir pour arriver à la fin pour laquelle l'office de la"
+      }
+    },
+    {
+      "id": "pred-08",
+      "title": {
+        "fr-FR": "CHAPITRE IV.--Des dispositions intérieures qui doivent précéder, accompagner et suivre la prédication"
+      }
+    },
+    {
+      "id": "pred-09",
+      "title": {
+        "fr-FR": "CHAPITRE V.--L'exemple et l'édification que les prédicateurs doivent donner"
+      }
+    },
+    {
+      "id": "pred-10",
+      "title": {
+        "fr-FR": "CHAPITRE VI.--Les livres dont les prédicateurs se doivent servir"
+      }
+    },
+    {
+      "id": "pred-11",
+      "title": {
+        "fr-FR": "CHAPITRE VII.--Les sujets et matières dont il faut prêcher"
+      }
+    },
+    {
+      "id": "pred-12",
+      "title": {
+        "fr-FR": "CHAPITRE VIII.--Continuation du chapitre précédent sur les matières dont il faut parler dans la prédication"
+      }
+    },
+    {
+      "id": "pred-13",
+      "title": {
+        "fr-FR": "CHAPITRE IX.--Diverses manières de prêcher sur diverses matières, et premièrement sur les Mystères: Autre maniere"
+      }
+    },
+    {
+      "id": "pred-14",
+      "title": {
+        "fr-FR": "CHAPITRE X.--Trois manières de prêcher sur les Évangiles, sur les Épîtres, 162 Cf. Royaume de Jésus, 3e p. VII"
+      }
+    },
+    {
+      "id": "pred-15",
+      "title": {
+        "fr-FR": "CHAPITRE XI.--La manière de prêcher sur le saint Sacrifice de la Messe"
+      }
+    },
+    {
+      "id": "pred-16",
+      "title": {
+        "fr-FR": "CHAPITRE XII.--Manière de prêcher sur les Commandements de Dieu et de l'Église"
+      }
+    },
+    {
+      "id": "pred-17",
+      "title": {
+        "fr-FR": "CHAPITRE XIII.--Manière de prêcher sur la très sainte Vierge"
+      }
+    },
+    {
+      "id": "pred-18",
+      "title": {
+        "fr-FR": "CHAPITRE XIV.--Diverses manières de prêcher sur les Saints"
+      }
+    },
+    {
+      "id": "pred-19",
+      "title": {
+        "fr-FR": "CHAPITRE XV.--La manière de prêcher sur les controverses"
+      }
+    },
+    {
+      "id": "pred-20",
+      "title": {
+        "fr-FR": "CHAPITRE XVI.--La manière de prêcher sur les principes et maximes de la vie chrétienne, et sur les vérités"
+      }
+    },
+    {
+      "id": "pred-21",
+      "title": {
+        "fr-FR": "CHAPITRE XVII.--La manière de prêcher sur les vertus: Apporter les motifs et les raisons qui nous obligent d'aimer, désirer"
+      }
+    },
+    {
+      "id": "pred-22",
+      "title": {
+        "fr-FR": "CHAPITRE XVIII.--La manière de prêcher contre le péché, et contre chaque vice en particulier: Faire voir la laideur et l'horreur du péché en général et de chaque"
+      }
+    },
+    {
+      "id": "pred-23",
+      "title": {
+        "fr-FR": "CHAPITRE XIX.--La manière de prêcher sur les quatre fins dernières, et premièrement sur la Mort: Sur le jugement"
+      }
+    },
+    {
+      "id": "pred-24",
+      "title": {
+        "fr-FR": "CHAPITRE XX.--La manière de prêcher sur le Purgatoire"
+      }
+    },
+    {
+      "id": "pred-25",
+      "title": {
+        "fr-FR": "CHAPITRE XXI.--Comme il faut composer et ordonner sa prédication"
+      }
+    },
+    {
+      "id": "pred-26",
+      "title": {
+        "fr-FR": "CHAPITRE XXII.--Du langage et de la manière de parler"
+      }
+    },
+    {
+      "id": "pred-27",
+      "title": {
+        "fr-FR": "CHAPITRE XXIII.--De la voix et prononciation"
+      }
+    },
+    {
+      "id": "pred-28",
+      "title": {
+        "fr-FR": "CHAPITRE XXIV.--De l'action et des gestes et mouvements du corps"
+      }
+    },
+    {
+      "id": "pred-29",
+      "title": {
+        "fr-FR": "CHAPITRE XXV.--Les moyens dont il se faut servir pour émouvoir et toucher les cœurs"
+      }
+    },
+    {
+      "id": "pred-30",
+      "title": {
+        "fr-FR": "CHAPITRE XXVI.--De plusieurs défauts dont il se faut garder au ministère de la prédication, et contre les"
+      }
+    },
+    {
+      "id": "pred-31",
+      "title": {
+        "fr-FR": "CHAPITRE XXVII.--Plusieurs autres avis pour les prédicateurs"
+      }
+    },
+    {
+      "id": "pred-32",
+      "title": {
+        "fr-FR": "CHAPITRE XXVIII.--Comme le prédicateur doit enseigner à ses auditeurs les dispositions requises pour entendre"
+      }
+    },
+    {
+      "id": "pred-33",
+      "title": {
+        "fr-FR": "CHAPITRE XXIX.--Pour le Catéchisme"
+      }
+    },
+    {
+      "id": "pred-34",
+      "title": {
+        "fr-FR": "CHAPITRE XXX.--Continuation du même sujet"
+      }
+    },
+    {
+      "id": "pred-35",
+      "title": {
+        "fr-FR": "CHAPITRE XXXI.-- Règles pour les enfants qui viennent au catéchisme: Instructions de saint françois de borgia pour les prédicateurs"
+      }
+    }
+  ]
+}
