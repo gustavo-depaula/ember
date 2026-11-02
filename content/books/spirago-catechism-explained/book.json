@@ -1,0 +1,390 @@
+{
+  "id": "spirago-catechism-explained",
+  "cover": "label",
+  "name": {
+    "en-US": "The Catechism Explained",
+    "pt-BR": "O Catecismo Explicado"
+  },
+  "author": {
+    "en-US": "Francis Spirago, edited by Richard F. Clarke, S.J.",
+    "pt-BR": "Francisco Spirago, editado por Richard F. Clarke, S.J."
+  },
+  "description": {
+    "en-US": "Francis Spirago's Katholischer Volkskatechismus in English, an exhaustive explanation of Catholic doctrine for preachers and catechists, edited by Fr Richard F. Clarke, S.J. (Benziger, 1899): Faith (the Creed and Christian hope), the Commandments, good works, virtue, sin and Christian perfection, and the Means of Grace (the Mass, the sacraments, indulgences, sacramentals and prayer), each point illustrated with examples and quotations.",
+    "pt-BR": "O Katholischer Volkskatechismus de Francis Spirago em inglês, explicação exaustiva da doutrina católica para pregadores e catequistas, editada pelo Pe. Richard F. Clarke, S.J. (Benziger, 1899): a Fé (o Credo e a esperança cristã), os Mandamentos, as boas obras, a virtude, o pecado e a perfeição cristã, e os meios da graça (a Missa, os sacramentos, as indulgências, os sacramentais e a oração), cada ponto ilustrado com exemplos e citações."
+  },
+  "composed": 1898,
+  "languages": [
+    "en-US"
+  ],
+  "work": "spirago/katholischer-volkskatechismus",
+  "editions": {
+    "en-US": {
+      "editor": "Richard F. Clarke",
+      "year": 1899
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/catechismexplain00spiruoft",
+      "description": "The Catechism Explained: An Exhaustive Explanation of the Catholic Religion, ed. Richard F. Clarke S.J. (New York: Benziger Brothers, 1899), via the archive.org OCR text (University of Toronto scan). Tier A: public domain in the United States (1899). The text is the OCR with systematic fixes only (running heads, hyphenation restored by dictionary, headings corrected by dictionary); the contents list, the alphabetic index and the preliminary matter are left out. The German original is not imported."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-the-knowledge-of-god",
+      "title": {
+        "en-US": "Part I, Faith: The Knowledge of God"
+      }
+    },
+    {
+      "id": "02-divine-revelation",
+      "title": {
+        "en-US": "Part I, Faith: Divine Revelation"
+      }
+    },
+    {
+      "id": "03-the-preaching-of-the-gospel",
+      "title": {
+        "en-US": "Part I, Faith: The Preaching of the Gospel"
+      }
+    },
+    {
+      "id": "04-holy-scripture-and-tradition",
+      "title": {
+        "en-US": "Part I, Faith: Holy Scripture and Tradition"
+      }
+    },
+    {
+      "id": "05-the-christian-faith",
+      "title": {
+        "en-US": "Part I, Faith: The Christian Faith"
+      }
+    },
+    {
+      "id": "06-the-motives-of-faith",
+      "title": {
+        "en-US": "Part I, Faith: The Motives of Faith"
+      }
+    },
+    {
+      "id": "07-on-the-absence-and-loss-of-faith",
+      "title": {
+        "en-US": "Part I, Faith: On the Absence and Loss of Faith"
+      }
+    },
+    {
+      "id": "08-on-the-duty-of-confessing-our-faith",
+      "title": {
+        "en-US": "Part I, Faith: On the Duty of Confessing Our Faith"
+      }
+    },
+    {
+      "id": "09-the-sign-of-the-cross",
+      "title": {
+        "en-US": "Part I, Faith: The Sign of the Cross"
+      }
+    },
+    {
+      "id": "10-the-apostles-creed-and-the-first-article",
+      "title": {
+        "en-US": "Part I, Faith: The Apostles' Creed and the First Article"
+      }
+    },
+    {
+      "id": "11-the-second-to-the-seventh-article-of-the-creed-j",
+      "title": {
+        "en-US": "Part I, Faith: The Second to the Seventh Article of the Creed: Jesus Christ"
+      }
+    },
+    {
+      "id": "12-the-eighth-article-of-the-creed-the-holy-ghost",
+      "title": {
+        "en-US": "Part I, Faith: The Eighth Article of the Creed: The Holy Ghost"
+      }
+    },
+    {
+      "id": "13-the-ninth-article-of-the-creed-the-catholic-chur",
+      "title": {
+        "en-US": "Part I, Faith: The Ninth Article of the Creed: The Catholic Church"
+      }
+    },
+    {
+      "id": "14-the-tenth-article-of-the-creed-the-forgiveness-o",
+      "title": {
+        "en-US": "Part I, Faith: The Tenth Article of the Creed: The Forgiveness of Sins"
+      }
+    },
+    {
+      "id": "15-the-eleventh-and-twelfth-articles-of-the-creed-t",
+      "title": {
+        "en-US": "Part I, Faith: The Eleventh and Twelfth Articles of the Creed: The Last Things"
+      }
+    },
+    {
+      "id": "16-christian-hope",
+      "title": {
+        "en-US": "Part I, Faith: Christian Hope"
+      }
+    },
+    {
+      "id": "17-what-commandments-has-god-given-us",
+      "title": {
+        "en-US": "Part II, The Commandments: What Commandments Has God Given Us?"
+      }
+    },
+    {
+      "id": "18-the-two-commandments-of-charity",
+      "title": {
+        "en-US": "Part II, The Commandments: The Two Commandments of Charity"
+      }
+    },
+    {
+      "id": "19-the-precept-of-the-love-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Precept of the Love of God"
+      }
+    },
+    {
+      "id": "20-the-love-of-the-world-is-opposed-to-the-love-of",
+      "title": {
+        "en-US": "Part II, The Commandments: The Love of the World Is Opposed to the Love of God"
+      }
+    },
+    {
+      "id": "21-the-commandment-of-charity-towards-our-neighbor",
+      "title": {
+        "en-US": "Part II, The Commandments: The Commandment of Charity towards Our Neighbor"
+      }
+    },
+    {
+      "id": "22-lack-of-charity-to-one-s-neighbor",
+      "title": {
+        "en-US": "Part II, The Commandments: Lack of Charity to One's Neighbor"
+      }
+    },
+    {
+      "id": "23-love-of-one-s-friends",
+      "title": {
+        "en-US": "Part II, The Commandments: Love of One's Friends"
+      }
+    },
+    {
+      "id": "24-the-commandment-to-love-our-enemy",
+      "title": {
+        "en-US": "Part II, The Commandments: The Commandment to Love Our Enemy"
+      }
+    },
+    {
+      "id": "25-the-love-of-one-s-self",
+      "title": {
+        "en-US": "Part II, The Commandments: The Love of One's Self"
+      }
+    },
+    {
+      "id": "26-the-ten-commandments-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Ten Commandments of God"
+      }
+    },
+    {
+      "id": "27-the-first-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The First Commandment of God"
+      }
+    },
+    {
+      "id": "28-the-second-and-third-commandments-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Second and Third Commandments of God"
+      }
+    },
+    {
+      "id": "29-the-six-commandments-of-the-church",
+      "title": {
+        "en-US": "Part II, The Commandments: The Six Commandments of the Church"
+      }
+    },
+    {
+      "id": "30-the-fourth-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Fourth Commandment of God"
+      }
+    },
+    {
+      "id": "31-the-fifth-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Fifth Commandment of God"
+      }
+    },
+    {
+      "id": "32-the-sixth-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Sixth Commandment of God"
+      }
+    },
+    {
+      "id": "33-the-seventh-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Seventh Commandment of God"
+      }
+    },
+    {
+      "id": "34-the-eighth-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Eighth Commandment of God"
+      }
+    },
+    {
+      "id": "35-the-ninth-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Ninth Commandment of God"
+      }
+    },
+    {
+      "id": "36-the-tenth-commandment-of-god",
+      "title": {
+        "en-US": "Part II, The Commandments: The Tenth Commandment of God"
+      }
+    },
+    {
+      "id": "37-the-works-of-mercy",
+      "title": {
+        "en-US": "Part II, The Commandments: The Works of Mercy"
+      }
+    },
+    {
+      "id": "38-the-duty-of-gratitude",
+      "title": {
+        "en-US": "Part II, The Commandments: The Duty of Gratitude"
+      }
+    },
+    {
+      "id": "39-the-poverty-of-the-christian",
+      "title": {
+        "en-US": "Part II, The Commandments: The Poverty of the Christian"
+      }
+    },
+    {
+      "id": "40-good-works",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Good Works"
+      }
+    },
+    {
+      "id": "41-virtue",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Virtue"
+      }
+    },
+    {
+      "id": "42-sin",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Sin"
+      }
+    },
+    {
+      "id": "43-vice",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Vice"
+      }
+    },
+    {
+      "id": "44-the-forgiveness-of-sin",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: The Forgiveness of Sin"
+      }
+    },
+    {
+      "id": "45-temptation",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Temptation"
+      }
+    },
+    {
+      "id": "46-occasions-of-sin",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: Occasions of Sin"
+      }
+    },
+    {
+      "id": "47-the-seven-principal-virtues-and-the-seven-princi",
+      "title": {
+        "en-US": "Part II, Good Works, Virtue, Sin, Vice: The Seven Principal Virtues and the Seven Principal Vices"
+      }
+    },
+    {
+      "id": "48-the-aspiration-after-christian-perfection",
+      "title": {
+        "en-US": "Part II, Christian Perfection: The Aspiration after Christian Perfection"
+      }
+    },
+    {
+      "id": "49-general-means-for-the-attainment-of-perfection",
+      "title": {
+        "en-US": "Part II, Christian Perfection: General Means for the Attainment of Perfection"
+      }
+    },
+    {
+      "id": "50-special-means-for-the-attainment-of-perfection",
+      "title": {
+        "en-US": "Part II, Christian Perfection: Special Means for the Attainment of Perfection"
+      }
+    },
+    {
+      "id": "51-the-eight-beatitudes",
+      "title": {
+        "en-US": "Part II, Christian Perfection: The Eight Beatitudes"
+      }
+    },
+    {
+      "id": "52-the-holy-sacrifice-of-the-mass",
+      "title": {
+        "en-US": "Part III, The Means of Grace: The Holy Sacrifice of the Mass"
+      }
+    },
+    {
+      "id": "53-the-sacraments",
+      "title": {
+        "en-US": "Part III, The Means of Grace: The Sacraments"
+      }
+    },
+    {
+      "id": "54-indulgences",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Indulgences"
+      }
+    },
+    {
+      "id": "55-the-sacramentals",
+      "title": {
+        "en-US": "Part III, The Means of Grace: The Sacramentals"
+      }
+    },
+    {
+      "id": "56-prayer",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Prayer"
+      }
+    },
+    {
+      "id": "57-the-most-important-prayers",
+      "title": {
+        "en-US": "Part III, The Means of Grace: The Most Important Prayers"
+      }
+    },
+    {
+      "id": "58-the-principal-devotional-exercises",
+      "title": {
+        "en-US": "Part III, The Means of Grace: The Principal Devotional Exercises"
+      }
+    },
+    {
+      "id": "59-religious-associations",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Religious Associations"
+      }
+    }
+  ]
+}

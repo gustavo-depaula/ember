@@ -1,0 +1,39 @@
+# Part I, Faith: The Sign of the Cross
+
+The Catholic makes confession of his faith most especially by the sign of the holy cross.
+
+By it he lets men know that he makes profession of belonging to the religion of the crucified Saviour. To Jews and Turks the cross is an object of hatred and contempt; Protestants, too, pay no honor to the holy cross, though there are indeed some of them who, in the present day, have learned the practice from the children of the Church. The sign of the cross is thus the peculiar property of Catholics all the world over. It is a custom so ancient that it is generally believed to have been introduced by the apostles. The sign of the cross is made by touching with the outstretched fingers of the right hand first the forehead, then the centre of the breast, then the left, and finally the right shoulder, saying meanwhile the words, " In the name of the Father [touch forehead], and of the Son [touch breast], and of the Holy Ghost [touch left and right shoulders], Amen." There is also another way of making the sign of the cross, by making three crosses with the thumb of the right hand on the forehead, lips, and breast successively, repeating the above words, so that each of the three crosses is made simultaneously with the name of one of the three persons of the Blessed Trinity. In making the sign of the cross the left hand should be laid across the breast, and the sign should be made deliberately — not hurriedly, as is too often done.
+
+1. In making the sign of the cross we make profession of the most important of all the mysteries of our holy religion, viz., the doctrine of the Blessed Trinity and of the Incarnation of Our Lord Jesus Christ.
+
+By uniting all the three persons, Father, Son, and Holy
+
+106 Faith-.
+
+Ghost, under one name, we make profession of onr belief in the unity of God.
+
+The " name " of God indicates His authority and power, and that we act under His commission (Mark xvi. 17; Acts iii. 16, 17; iv. 10).
+
+In making the sign of the cross, we make profession of our belief in the Blessed Trinity by the words " In the name of the Father, and of the Son and of the Holy Ghost."
+
+In making the sign of the cross, by the very form of the cross which we make upon ourselves, we make profession that the Son of God died for us upon the cross.
+
+Thus we see that in the sign of the cross we have a short summary of the whole Catholic faith. The Catholic Church holds the sign of the cross in great honor. It is repeated over and over again in holy Mass, in all the sacraments, in all blessings and consecrations ; the cross is placed on our churches, over our altars, on banners, on sacred vestments, and over the graves of the departed. Churches are built in the form of a cross.
+
+2. By means of the sign of the cross we obtain a blessing from God ; and especially by it are we protected from the assaults of the devil and from all dangers both to body and to soul.
+
+The sign of the cross is no empty ceremony, but it is of itself a blessing, and a prayer for a blessing from God. The sign of the cross chases away the devil and his temptations ; as the dog fears the whip with which he has been beaten, so the evil one dreads the sign of the cross, for it reminds him of the holy cross by which he was vanquished on Calvary. There was once a stag which bore between its antlers a tablet on which were written in golden letters the words, " I belong to the emperor, hurt me not." No huntsman ventured tr shoot this stag. So whenever we make the sign of the cross, we beat the inscription, " I belong to Jesus Christ," and this protects us from our enemy, the devil. In war no one ventures to injure those who wear on their arm a band of white to indicate that they are physicians, or nurses, or ministers of religion; so the devil does not dare attack those who are signed with the holy sign of the cross. " The sign of the cross," says St. John Damascene, " is a seal, at the sight of which the destroying angel passes on, and does us no harm." The brazen serpent fastened on a pole in the desert was an image of the cross of Christ (Numb. xxi. ; John iii. 14), and protected all who looked upon it from being bitten by the fiery serpents ; so the sign of the cross recalls to our minds the cross of Christ, and protects us from the snares of that old serpent, the devil. In the year 312, Constantine the Great, with his whole army, saw a cross of light in the sky, and upon it the words : " In this sign thou shalt conquer." These words are also true of the sign of the cross. " Even to remember the cross of Christ," says St. Augustine, "puts our hellish foe to flight, and give us strength to resist his temptations." Many of the saints used to make the sign of the cross whenever any evil thoughts assailed them. In the times of persecution the heathen gods often
+
+The Sign of the Cross. 10?
+
+fell prostrate to the ground at the sign of the cross. On the occasion of the finding of the holy cross by St. Helena, a woman who was blind was restored to sight by merely touching it. The sign of the cross often frees men from bodily evils also. Many of the holy martyrs, on making the sign of the cross, felt no more pain in their torments. St. John the Divine once had a cup with a poisoned draught put into his hand to drink. He made the sign of the cross over it, and then drank it without receiving any harm from it. Something similar happened also to St. Benedict. In the Old Testament we find an allusion to the sign of the cross in the letter Thau, mentioned by the prophet Ezechiel. God sent destruction upon the inhabitants of Jerusalem on account of the abominations committed there ; but an angel was previously commanded to mark the sign Thau upon the foreheads of all those who mourned and lamented on account of the sins of the city (Ezech. ix. 4-6).
+
+We should often make the sign of the cross, especially when we rise in the morning and when we retire to rest, before and after our prayers, before and after our meals, whenever we are tempted to sin, and when we have any important duty to perform.
+
+We should make the sign of the cross in the morning in order to obtain the blessing of God on the day; in the evening to ask for His protection during the night; before all important undertakings, that they may turn out well ; before our prayers, in order that we may not be distracted in saying them, etc. The early Christians made continual use of the sign of the cross. Tertullian (A.D. 240) says, " At the beginning and during the performance of all that we do, when we go in and out of the house, when we dress ourselves, when we lie down to rest, in fact in everything, we mark ourselves on the forehead with the sign of the cross." The sign of the cross should also be made during holy Mass; at the beginning, at the absolution which the priest gives at the foot of the altar, at the Gospel, at the Consecration, and at the priest's blessing at the end of Mass. St. Edith, the daughter of the King of England, often made the sign of the cross with her thumb upon her forehead ; thirteen years after her death her thumb remained quite incorrupt. Each time we make the sign of the cross with contrite hearts, we gain an indulgence of fifty days (Pius IX., July 28, 1863).
+
+When we make the sign of the cross, we should, if possible, make it with holy water.
+
+Holy water has a special power to defend us against all attacks of the devil. When we make the sign of the cross with holy water, we gain each time an indulgence of one hundred days (Pius IX., March 23, 1876). Holy water is placed at the doors of our churches, and should be placed at the door of our rooms. We must never be ashamed of the sign of the cross, lest Christ be ashamed of us. The devil rejoices when he sees any one neglect to make the sign of the cross, for he knows that the cross is his destruction and a sign of victory over his temptations.
+
+108 Faith.

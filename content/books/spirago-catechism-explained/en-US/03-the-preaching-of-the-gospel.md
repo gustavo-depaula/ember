@@ -1,0 +1,23 @@
+# Part I, Faith: The Preaching of the Gospel
+
+1. The truths revealed by God to men were, by God's command, proclaimed to all nations of the earth by the Catholic Church, and especially by means of the living word, that is, by preaching.
+
+The command to proclaim to all nations of the earth the truths revealed by God, was given to the apostles by Onr Lord at the time of His ascension.
+
+Our Lord, before ascending into heaven, spoke to His apostles as follows : " All power is given to Me in heaven and in earth ; going, therefore, teach ye all nations: baptizing them in the name of the Father and of the Son, and of the Holy Ghost: . . . and behold I am with you all days, even to the end of the world" (Matt, xxviii. 18-20). For this reason the apostles and their successors have never allowed themselves to be prohibited by any earthly authority from preaching the Gospel (Cf. Acts v. 29). Nor has the Church ever been turned aside from fulfilling her mission of preaching the Gospel, by the opposition of the world. Even now in many countries the State seeks to make the Church dependent on her. It is in consequence of the command given by Our Lord to the apostles, that the Popes send missionaries to the heathens, and issue Papal briefs and rescripts to Christendom ; that bishops send priests throughout their dioceses, and publish pastoral letters ; that parish priests instruct their people by sermons and Catechism. While the Catholic Church spreads the Word of God by means of preaching, Mahometans spread their beliefs with fire and sword, and Protestants by means of the Bible.
+
+It is an error to suppose that Holy Scripture is the only means intended by almighty God to communicate to the nations of the earth the truths of revelation.
+
+It was the will of God to make use of preaching for the conversion of the world. Our Lord said to His apostles, " Go and teach all nations," not " Go and write to all nations." Out of the apostles only two wrote; all the rest preached. The apostles themselves were the books of the faithful (St. Augustine). St. Paul tells us that " Faith cometh by hearing" (Rom. x. 17), not from mere books. Teaching by word of mouth corresponds to human needs ; every one prefers to be taught, rather than to have to hunt out the truth from books by Btudy. If writings were the only means by which men could arrive at a knowledge of revealed truth the Christians of the first two cen-
+
+84 Faith.
+
+turies would have been at a terrible disadvantage ; so too would those who cannot read, as well as the great mass of mankind in the present day, who have neither the knowledge nor the capacity to penetrate the meaning of the written Word. Yet it is the will of God that " All men should come to a knowledge of the truth " (1 Tim. ii. 4). Holy Scripture soon loses its value in the eyes of those who have not the assurance of the living Word that it is truly of divine origin. St. Augustine says : " I should not believe the Gospel unless the authority of the Church moved me to do so."
+
+A truth which the Church puts before us as revealed by God is called a truth of faith, or a dogma.
+
+Either a universal council (i.e., one consisting of the bishops of the whole world) acting under the authority of the Pope, or the Pope himself, has power to declare a truth to be revealed by God. Thus the Council of ISHcaBa declared the divinity of Our Lord to be an article of faith; and Pope Pius IX. the Immaculate Conception of the holy Mother of God (1854). Thereby no new doctrines were taught, but these truths were declared to have been truly revealed by God, and thenceforth they became dogmas of the faith. When a child advances in its knowledge of religious truth, it does not really change its belief; so the Church, the collected body of all the faithful, receives dogmas new to it, when, on the appearance of some new form of error, it sets forth, after careful examination, certain truths of religion in explicit form and imposes their acceptance on all the faithful. Before the definition of it by the Church it was only a " pious opinion," or one proximate to faith. Such is at the present time the belief in the assumption of the body of Our Lady into heaven.
+
+2. The Catholic Church derives from Holy Scripture and from Tradition the truths that God has revealed.
+
+Holy Scripture and Tradition are of equal authority, and claim from us equal respect. Holy Scripture is the written, Tradition the unwritten Word of God. St. Paul exhorts the faithful to holdfast the traditions they have received, whether it be by word of mouth or by writing (2 Thess. ii. 14).
