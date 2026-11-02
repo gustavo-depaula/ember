@@ -1,0 +1,300 @@
+{
+  "id": "catherine-genoa-vita-dottrina-en",
+  "cover": "classic",
+  "name": {
+    "en-US": "Life and Doctrine of Saint Catherine of Genoa",
+    "it": "Vita mirabile e dottrina santa (trad. inglese, 1874)",
+    "pt-BR": "Vida e doutrina de Santa Catarina de Gênova"
+  },
+  "author": {
+    "it": "Santa Caterina da Genova",
+    "en-US": "St. Catherine of Genoa",
+    "pt-BR": "Santa Catarina de Gênova"
+  },
+  "description": {
+    "en-US": "The life of St. Catherine Fieschi Adorno of Genoa (1447-1510), the mystic of pure love and of the divine fire that purifies, as written down by her confessor Cattaneo Marabotto and her disciple Ettore Vernazza and published as the Vita mirabile e dottrina santa: her early years and unwanted marriage, her conversion in 1473, her years of service at the Pammatone hospital, her interior purification, her sufferings and her death. In forty-two chapters, with Isaac Hecker’s introduction. This is the 1874 English translation; the Italian original (Vita mirabile, Padua 1743) exists in a long-s OCR only and is not yet imported.",
+    "it": "Vita di santa Caterina Fieschi Adorno di Genova (1447-1510), scritta dal confessore Cattaneo Marabotto e da Ettore Vernazza. Traduzione inglese del 1874; l’originale italiano non è ancora importato.",
+    "pt-BR": "A vida de santa Catarina Fieschi Adorno de Gênova (1447-1510), a mística do puro amor e do fogo divino que purifica, escrita por seu confessor Cattaneo Marabotto e pelo discípulo Ettore Vernazza. Tradução inglesa de 1874."
+  },
+  "composed": "1507-1551",
+  "languages": [
+    "en-US"
+  ],
+  "work": "catherine-of-genoa/vita",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (Catholic Publication Society, introduction by I. T. Hecker)",
+      "year": 1874
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/catherine_g/life/life",
+      "edition": "Life and Doctrine of Saint Catherine of Genoa, translated from the Italian, New York: Catholic Publication Society 1874 (reprinted Christian Press Association 1907), introduction by Isaac T. Hecker. CCEL transcription (proofed), checked against the Internet Archive scan lifedoctrineofsa0000vari.",
+      "description": "Hecker’s introduction and the forty-two chapters of the Life with their rubrics. The CCEL text lacks the heading of chapter XXXIV (How God gave the saint a confessor in her extreme need); it is restored here from the scan’s table of contents and the chapter’s start. The Spiritual Dialogue and the Treatise on Purgatory of the same volume are separate books.",
+      "tier": "A",
+      "tierEvidence": "The 1874 New York translation and its 1907 reprint are anonymous or by Hecker's circle (Hecker died 1888); public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "intro",
+      "title": {
+        "en-US": "Introduction (Hecker)"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I. Of the parents and ancestors of the blessed Catherine, and how at eight years of age she began to do penance; her gift of prayer, and of her desire to enter into religion, and her marriage against her will."
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II. She is wounded with divine love in the presence of her confessor. Manifestations of the love of God and of her own offences. The Lord appears to her carrying his cross, and she is taken up three degrees toward God."
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III. How the desire was given her to receive holy communion, and of its precious effects in her; of her sufferings when she did not receive, and how it seemed to her that she had lost faith, and walked by sight."
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV. How she was unable to take food during Lent and Advent, being sustained by the Blessed Sacrament"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V. Of her great penances and mortifications"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI. How she was withdrawn by God from the use of her senses. Of three rules given her by the Lord, and of certain words chosen from the Our Father and Hail Mary, and from the whole of the Holy Scripture."
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII. How even her humanity was affected by the burning fire of this love; how much she desired to die, and took delight in hearing masses, bells, and offices, for the dead."
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII. How the Saint devoted herself to pious works, and served in a hospital."
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "Chapter IX. Of her wonderful knowledge of God and of herself."
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter X. How impossible it was for vain-glory to enter the mind of this holy creature. Of the light which hatred of self gave her, and of the value of our own actions."
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI. Of the revelation she had concerning purity of conscience, and of the opposition of sin to God."
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII. Of the great and solicitous care which God operates in divers ways in order to attract the soul to himself, so that he seems to be in a manner our servant.--Of the blindness of man.--Of the many ways in which he is deceived by his own self-will."
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XIII. How she sees the source of goodness is in God, and how creatures participate in it."
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter XIV. How she was entirely transformed in God, and hated to say me or mine.--What pride is.--Of the error of man who seeks for plenty and happiness on earth, where they cannot be found.--What a misfortune it is to be without love."
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter XV. How contrary to pure love is even the slightest imperfection.--Of the many means by which God ministers to our salvation.--At the point of death we shall esteem the opposition made to the divine inspirations as worse than hell itself."
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Chapter XVI. That she understood her own nothingness, and therefore would not speak about herself.--Of her great faith in God.--How willful and malicious we are in ourselves, and how necessary it is to abandon all to God."
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Chapter XVII. In what manner God deals with one who corresponds with him.--And how the saint abhorred spiritual delights, and how God cast around her the chain of pure love."
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "Chapter XVIII. How she did not desire love for God or in God, nor to have any medium between herself and God.--She could not see how love could be increased in her.--Of the peace of the soul transformed in God."
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "en-US": "Chapter XIX. Of her earnest answer to a Friar Preacher who told her how much better he was prepared than herself for the divine love.--Nothing can hinder divine love, neither can it be deceived.--Also of its various conditions."
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "en-US": "Chapter XX. That God does not wish man to serve him through self-interest or through fear, but only through faith and love, and therefore he sweetly attracts his will.--The saint did not desire grace or mercy, but only justice.--That pure love fears nothing but sin."
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "en-US": "Chapter XXI. How she was disposed toward God and toward her neighbor.--What pure and simple love is."
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "en-US": "Chapter XXII. Of her vocation, which was like that of St. Paul.--That she was freed from suffering by her great love.--How terrible is man without grace.--How great is the stain of even one slight defect, and still more that of a sin."
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "en-US": "Chapter XXIII. Of self-love and of divine love, and of their conditions."
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "en-US": "Chapter XXIV. Concerning the three ways which God takes to purify the creature."
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "en-US": "Chapter XXV. The manner in which the saint was medically treated for bodily infirmity, when her suffering was from spiritual fire, and of other accidents that befell her."
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "en-US": "Chapter XXVI. Of the three things to which she could not consent, and of those which she could not refrain from desiring."
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "en-US": "Chapter XXVII. Of the sweetness of the divine precepts, and the advantage of temporal adversity."
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "en-US": "Chapter XXVIII. The process of annihilation of man in God illustrated by the figure of the eating of bread.--Of her interior and exterior."
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "en-US": "Chapter XXIX. The saint urged to give an idea of her state."
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "en-US": "Chapter XXX. Of her compunction for having desired death, every desire being an imperfection.--She relates her conversion to one of her spiritual children."
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "en-US": "Chapter XXXI. How the saint left the whole care of herself to Love; and what means Love employed to purify her from her imperfections."
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "en-US": "Chapter XXXII. How well regulated was the saint in all things.--Of the opposition of her spirit to humanity, and how humanity tormented her."
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "en-US": "Chapter XXXIII. How an evil spirit, that had possession of one of her spiritual daughters, named her Catherine Serafina."
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "en-US": "Chapter XXXIV. How God gave the saint a confessor in her extreme need, who understood her and greatly consoled her."
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "en-US": "Chapter XXXV. Treatment of the saint by her husband, and how she obtained salvation of his soul from God, and also that of Sister Tommasa Fiesca, her companion."
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "en-US": "Chapter XXXVI. How a person, hopelessly ill, was cured by the prayers of the saint."
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "en-US": "Chapter XXXVII. Continuing an account of her extraordinary way of life, and her wonderful condition for some time before her death."
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "en-US": "Chapter XXXVIII. How the sufferings she was to endure were revealed to her in spirit; and how dreadful they were to her humanity.--Seeing an image of the woman of Samaria, she asked of God that water.--Of a difference that arose between the spirit and humanity, and of other wonderful things."
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "en-US": "Chapter XXXIX. How the spirit deprived her of her confessor, who concealed himself where he could witness her peace of mind in the midst of these tortures.--She had visions of angels.--Of the experiments tried by various physicians.--Of one who had come from England.--Of further divine operations."
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "en-US": "Chapter XL. Of the many visions which the saint beheld in her last days.--Of her acute sufferings.--How she could taste nothing but the blessed sacrament, and suffered in herself the pains of the passion of our Lord."
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "en-US": "Chapter XLI. In what manner, and at what time, she passed from this life to the Lord.--Many persons saw that blessed soul, under different forms, and in different ways, unite itself with God.--What happened to her confessor when he was celebrating the Mass of the Martyrs."
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "en-US": "Chapter XLII. Of her burial, and how the body was preserved in the midst of great moisture and putrefaction.--How many prayers were granted by her intercession, and a person restored to health.--Of the order she gave to have her heart opened, which was not done."
+      }
+    }
+  ]
+}

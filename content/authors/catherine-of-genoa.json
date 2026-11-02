@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en-US": "St. Catherine of Genoa",
+    "pt-BR": "Santa Catarina de Gênova"
+  },
+  "century": 15,
+  "saint": "catherine_genoa",
+  "matches": [
+    "Catherine of Genoa",
+    "Catherine of Genoa, Saint",
+    "St. Catherine of Genoa",
+    "Caterina da Genova",
+    "Caterina Fieschi Adorno",
+    "Caterina da Genova, santa"
+  ]
+}
