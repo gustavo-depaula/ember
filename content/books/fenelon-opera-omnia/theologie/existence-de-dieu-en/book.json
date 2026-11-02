@@ -1,0 +1,66 @@
+{
+  "id": "fenelon-existence-de-dieu-1713",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Traité de l’existence de Dieu (traduction anglaise de 1713)",
+    "en-US": "The Existence of God",
+    "pt-BR": "A existência de Deus (tradução inglesa de 1713)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La première partie du Traité de l’existence de Dieu (la preuve par la nature) dans l’ancienne traduction anglaise anonyme de 1713, sans la division en chapitres de l’original ; l’introduction de H. M. n’est pas reprise.",
+    "en-US": "The first part of the Treatise on the Existence of God (the proof from nature) in the anonymous English translation of 1713, without the chapter division of the original; the introduction by H. M. is not included.",
+    "pt-BR": "A primeira parte do Tratado da existência de Deus (a prova pela natureza) na antiga tradução inglesa anônima de 1713, sem a divisão em capítulos do original."
+  },
+  "composed": 1712,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/existence-de-dieu",
+  "editions": {
+    "en-US": {
+      "translator": "anonymous",
+      "year": 1713
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/fenelon/existence",
+      "edition": "The Existence of God, anonymous translation of 1713 (CCEL etext, ed. Henry Morley’s Cassell’s National Library)",
+      "description": "archive.org OCR, lightly cleaned (running heads, hyphenation); residual OCR errors remain. Proofed etext.",
+      "tier": "A",
+      "tierEvidence": "Published before 1900; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "partie-1",
+      "title": {
+        "en-US": "The Existence of God, part 1"
+      }
+    },
+    {
+      "id": "partie-2",
+      "title": {
+        "en-US": "The Existence of God, part 2"
+      }
+    },
+    {
+      "id": "partie-3",
+      "title": {
+        "en-US": "The Existence of God, part 3"
+      }
+    },
+    {
+      "id": "partie-4",
+      "title": {
+        "en-US": "The Existence of God, part 4"
+      }
+    }
+  ]
+}
