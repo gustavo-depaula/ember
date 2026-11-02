@@ -13,18 +13,23 @@
   },
   "description": {
     "dum": "Ruusbroecs eerste traktaat: de zeven gaven van de Heilige Geest en de vijf rijken Gods. Middelnederlandse tekst van J. B. David (1861).",
-    "en-US": "Ruusbroec's earliest treatise: the seven gifts of the Holy Spirit and the five kingdoms of God. The Middle Dutch text of J. B. David (1861).",
+    "en-US": "Ruusbroec's earliest treatise: the seven gifts of the Holy Spirit and the five kingdoms of God. The Middle Dutch text of J. B. David (1861). English: T. A. Hyde, 1919, translated from Surius' Latin, chapter for chapter.",
     "pt-BR": "O primeiro tratado de Ruusbroec: os sete dons do Espírito Santo e os cinco reinos de Deus. Texto em neerlandês médio de J. B. David (1861)."
   },
   "composed": "c. 1330-1335",
   "languages": [
-    "dum"
+    "dum",
+    "en-US"
   ],
   "work": "ruusbroec/rijcke-der-ghelieven",
   "editions": {
     "dum": {
       "editor": "Jan Baptist David",
       "year": 1861
+    },
+    "en-US": {
+      "translator": "T. A. Hyde (from Surius' Latin)",
+      "year": 1919
     }
   },
   "sources": [
@@ -35,6 +40,14 @@
       "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
       "tier": "A",
       "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/kingdomofloverso00ruusuoft",
+      "edition": "The Kingdom of the Lovers of God by Blessed John Ruysbroeck, translated by T. A. Hyde (London: Kegan Paul, 1919), from the Latin of Surius.",
+      "description": "OCR of the archive.org scan (research/sourcing/_scripts/ruusen_build.py); running heads removed. Hyde translated Surius' Latin, so the wording follows the Latin; the chapters match David's. The translator's introduction and the Dutch prologue are not included.",
+      "tier": "A",
+      "tierEvidence": "1919 translation, public domain."
     }
   ],
   "toc": [
@@ -47,259 +60,302 @@
     {
       "id": "c001",
       "title": {
-        "dum": "I. Van Gods heerheit, ende vanden sceppene der enghelen ende der menschen"
+        "dum": "I. Van Gods heerheit, ende vanden sceppene der enghelen ende der menschen",
+        "en-US": "1. In What Way the Name of the Lord Applies Rightly to God, and of the Creation of All Things"
       }
     },
     {
       "id": "c002",
       "title": {
-        "dum": "II. Van Christus inkarnaciën, ende dat hi den mensce hermaect heeft mids den seven Sacramenten"
+        "dum": "II. Van Christus inkarnaciën, ende dat hi den mensce hermaect heeft mids den seven Sacramenten",
+        "en-US": "2. How Christ Has Led Us Back to Happiness ; Also Concerning the Seven Sacraments"
       }
     },
     {
       "id": "c003",
       "title": {
-        "dum": "III. Dit bescrivet enen gherechten mensche met ‧viij‧ punten"
+        "dum": "III. Dit bescrivet enen gherechten mensche met ‧viij‧ punten",
+        "en-US": "3. What Things Make a Man Just Both in the Active and in the Contem Plative Life. Furthermore the Third Point Is That in Which He Says \" Just,\" for No One Is Led Back Unless He Has Been Made Just or Justified ; Since to Justify or to Make Just, Is to Lead Back. There Are However, Four Things in Which Each One May Notice for Himself Whether He Is Just, and Has Been Led Back by Christ, in the Powerof the Holy Spirit, Through the Sacraments. the First Is, If He Trust God in All Necessities Both for Time and Eternity, and He Himself Present Himself as Faithful to God in All Things Which He Pos Sesses. Secondly, If in Will and Deed He Exercise Love and Goodwill in All the Bodily as Well as Spiritual Needs of Men. Thirdly, If He Constantly Maintain Wisdom and Gentleness in All Circumstances, Whether They Come to Him from God, or from Creatures. Fourthly, If He Be of Lofty and Upright Mind, Freed and Disengaged from All Creatures ; Also in Established Love, and Glad and Joyful Expectation, Together with Sure and Certain Hope of Eternal Life. These Four Things Render a Man Just in the Active Life. But Beyond These There Are Four Other Things Which Render a Man Just in the Contemplative Life. the First Is a Free Spirit, at Tracting Itself Through Love, and with Longing or Affection Raised and Uplifted Into the Unity of God. the Second Is an Intellect Enlightened by Grace, When Considering with Admiration the Abundance of the Most Holy Trinity, and Without Astonishment Contem Plating with Attentive Gaze, Is Transformed by the Boundless Clearness, and Uplifted in the Light of Unity. the Third Is a Delight, Yielding Propension or Inclination, and a Liquefying or Outflowing Adhesion of All Powers, and Greater Riches Than Those Po\\vers Themselves Are Able to Lay Hold Of, and Joys Which Embrace and Penetrate and Inundate Them. the Fourth Is an Outflowing Losing of Ones-self in the Abyss of This Object ; for No One Can Walk in Darkness, and We Lose Ourselves in That Eternal Object Which Is the Highest and Chief Blessedness. These Eight Things Now Spoken of Render a Man Just Both in the Active and the Contemplative Life. Thus Therefore the Lord Hath Led Back the Just Man"
       }
     },
     {
       "id": "c004",
       "title": {
-        "dum": "IV. Van drien weghen te hemelrike waert"
+        "dum": "IV. Van drien weghen te hemelrike waert",
+        "en-US": "4. What the Ways of the Kingdom of God Are. and First of the Sensible Way"
       }
     },
     {
       "id": "c005",
       "title": {
-        "dum": "V. Van den weghe des naturlics lichts"
+        "dum": "V. Van den weghe des naturlics lichts",
+        "en-US": "5. Of the Way of Natural Light"
       }
     },
     {
       "id": "c006",
       "title": {
-        "dum": "VI. Vanden derden, overnaturleken ende godliken meghe"
+        "dum": "VI. Vanden derden, overnaturleken ende godliken meghe",
+        "en-US": "6. Of the Supernatural and Divine Way"
       }
     },
     {
       "id": "c007",
       "title": {
-        "dum": "VII. Van ‧vj‧ manieren van menschen die hem niet en voeghen dese overnatuerlike godlike gaven te onfane"
+        "dum": "VII. Van ‧vj‧ manieren van menschen die hem niet en voeghen dese overnatuerlike godlike gaven te onfane",
+        "en-US": "7. Of Six Kinds of Men Who Do Not Apply Themselves to Receiving the Glfts of the Holy Spirit : and Especially of the First Kind"
       }
     },
     {
       "id": "c008",
       "title": {
-        "dum": "VIII. Vander ander partiën van quaden menschen"
+        "dum": "VIII. Vander ander partiën van quaden menschen",
+        "en-US": "8. Of the Second Kind of Evil Men"
       }
     },
     {
       "id": "c009",
       "title": {
-        "dum": "IX. Vander derder partiën van quaden menschen"
+        "dum": "IX. Vander derder partiën van quaden menschen",
+        "en-US": "9. Of the Third Kind of Evil Men"
       }
     },
     {
       "id": "c010",
       "title": {
-        "dum": "X. Vander vierder paertiën quader menschen"
+        "dum": "X. Vander vierder paertiën quader menschen",
+        "en-US": "10. Of the Fourth Kind of Evil Men"
       }
     },
     {
       "id": "c011",
       "title": {
-        "dum": "XI. Vander vijfter paertien van quaden menschen"
+        "dum": "XI. Vander vijfter paertien van quaden menschen",
+        "en-US": "11. Of the Fifth Kind of Evil Men. of the Fifth Kind Are Slaves or Men of a Servile Condition. Moreover There Are *four Things Which Render Men Slaves, Devoid of Liberty, Base and Unworthy of Divine Grace. the First Is That They Regard Themselves and Their Personal Profit, and Shun Their Own Discomfort or Loss : That Is, They Desire to Escape the Flames of Hell, and to Enjoy Heavenly Delights, and for the Sake of These Things They Do or They Omit to Do All These Things. Such Men Readily Perform Great Works, the More That They Have Themselves as an End in Everything. the Second Is That They Are Being Held Back Through the Fear of Losing or the Hope of Gain ; and Indeed Certain of Such Men Shrink from No Earthly Matters Whatever, That They May Attain Eternal Things. the Third Is That They Esteem Their Own Works and Their Own Condition, and Rely on and Confide in Their Own Deeds Rather Than in That Liberty in Respect of Which They Are the Heirs of God, and Redeemed by the Blood of Christ. the Fourth Is That They Render Themselves Hired Servants ; for Unless They Hope to Obtain Their Reward from God in No Wise Would They Be Serving Him ; and They Are More Afraid of Being Stricken with the Sentence of Eternal Dam Nation Than of Offending God, and They Strive After the Kingdom of God Itself and Their Own Happiness in It, Rather Than to Bestow Endless Praise on God and to Remain for Ever His Free Servants. Therefore Such Men Are Without Knowledge of Liberty, Nor Are They Touched by Divine Love, Since They Regard Themselves in Everything. But Charity Strives After and Seeks the Honour of God, and Renders a Man Forgetful of Himself, and Self-denying, and Also Hopeful and Trustful Most of All in God, and Brings About in Him the Desire of Serving God Continually in True Chanty Both in the Life Temporal as in the Life Eternal, and the Intention of Yielding to God Himself His Own Kingdom and That He Himself Is to Enjoy It for Ever. in This Understanding, Such Servants Ought to Yield and Convert Their Intention to God by a Certain Liberty of This Kind, Since by 'this Very Action They Are About to Become Capable of Divine Grace, to Reap Their Own Deeds and Attain to Eternal Life"
       }
     },
     {
       "id": "c012",
       "title": {
-        "dum": "XII. Vander sester partien van quaden menschen"
+        "dum": "XII. Vander sester partien van quaden menschen",
+        "en-US": "12. Of the Sixth Kind of Evil Men"
       }
     },
     {
       "id": "c013",
       "title": {
-        "dum": "XIII. Danden ͘iij͘ godliken dogheden"
+        "dum": "XIII. Danden ͘iij͘ godliken dogheden",
+        "en-US": "13. Concerning the Three Theological Virtues. Now Divine Faithjs the Beginning of Every Grace, of All Gifts, and of All Divine Virtues, Since It Is a Certain Supernatural Light and the Foundation of All Good. Those Who Wish to Obtain It and to Be Enrolled in the Number of the Sons of the Eternal Kingdom Must Urge on Their Nature Towards That Point in Which It Can Especially Excel, So That They Should Seek and Consider How God Has Created Heaven and Earth Out of Love for the Sake of Man, and Has Endowed Man Himself with Various Gifts Both of Spirit and of Body ; and for Man's Sake Has Even Suffered Death Itself, and Wishes to Give Pardon Freely for All His Sins, If Only He Refuse Not to Do Penance : How He Is Ready Freely to Infuse Into Him Divine Charity and All the Virtues, and to Bestow Himself Wholly, and All That He Possesses Upon Him, in Order That He May Enjoy Eternal Glory for Ever ; Only He Desires That He May Consider This Very Thing Within Himself, and That of His Own Free Will He May Serve Him from True Obedience. and Because God Has Done All Things with the Freest Goodness, Affection and Generosity ; and His Nature Is to Flow Forth Perpetually in Time and Eternity, Together with All His Gifts, and to Uplift All Those on Whom He Bestows His Gifts to Himself and to Lead Them to Eternal Enjoyment : Rightly Then Should a Man Perform All His Works Out of Generosity or Free Will to God's Honour, Together with a True Humility and Obedience, Nor to Seek or Desire or Demand Aught in Return for Them, Save What God Wishes to Bestow. Since He Who Is Most Generous, Most Affectionate and Beneficent, Whatever the Payment of His Service Is to Be, Will Not Remain Unrewarded, Nor Will He Pass Away Into Forgetfulness. Now in This Manner Nature Is Led Up Into Its Own Supreme Height ; Whenever It Fails, and Can Proceed No Farther, God Approaches It with Supernatural Light, and So Illumines the Intelligence, That a Man May Conceive Greater Faith and Trustfulness Than Can Be Described. Therefore ' Let Him Consider and Look Upon That Undying Good for Which He Waits, and Without Any Doubtfulness or Hesitancy Let Him Jbok to Obtain That in Which He Trusts and Hopes. for from Thence a Certain Sensible Charity Issues Which Conjoins and Unites Him in Freedom Together with God. and These Are the Three Theological Virtues, to Wit, Faith, Hope and Charity. Together with These the Holy Spirit at the Same Time Descends Upon the Man's Soul, as a Living Fountain, Issuing Forth in Seven Rivulets, Which Are the Seven Divine Gifts, with Which the Soul Is Adorned, Settled, Ordered and Perfected, and Led to Eternal Life"
       }
     },
     {
       "id": "c014",
       "title": {
-        "dum": "XIV. Vander gaven der vresen ons Geren"
+        "dum": "XIV. Vander gaven der vresen ons Geren",
+        "en-US": "14. Concerning the Gift of the Fear of the Lord, and Certain Vlrtues Springing Therefrom. Now the First Gift of These Seven Is the Loving or Affective Fear of the Lord, Which Rather Fears to Offend God Than to Lose the Reward, and Operates in a Man So as Reverently to Worship God and His Glorious Humanity, and Strongly to Desire to Refer and Shape His Whole Life and All His Actions to the Honour of Christ ; to Worship with Great Reverence All the Sacraments of the Church, the Teaching and Instructions of Christ, All His Saints and the Service of God ; and to Show Reverence to His Own Superiors Whether Secular or Spiritual with Hearty Goodwill, and Finally to Worship All Good Men in Whom He Recog Nises the Virtues of the Likeness of God. for True Humility Springs Out of This Loving Fear, and Least of All from a Feigned Casting of Himself Into the Depths, Whilst Such a One Ponders and Regards the Greatness of God and His Own Littleness, God's Wisdom and His Own Ignorance, the Riches of God and His Generosity, and His Own Poverty and Need. This Humility Always Leads a Man to Think Little of Himself, and to Abase Himself Before God, and in the Same Manner to Lower Him Self by No Means Only Below His Superiors and Equals, But Even Below His Inferiors, So That as Far as Right Reason Dictates, of His Own Poor Ability He May Humbly Attend to Them All, That He May Be Content with Food and Drink in Accordance with Nature's Demands ; That He May Manifest His Humility in Dress Also or Bodily Attention Just as His Condition Demands and Is Fitting, So That No One May Justly Srebuke Him ; and Finally, That in His Own Life, Both Outwordly and Within, He May Be Humble Before God and All Men. Furthermore from This Humility Obedience Takes Its Rise, Whereby He Shows Himself Bound and Submissive to God and All His Commands, and in the Same Way to His Own Superiors and the Holy Church, and to All Good Men in All Good Things ; and His Senses and Animal Faculties Are Subject to the Highest Faculties in Undergoing Hardship, and in the Doing of Bodily Penance, as Far as Nature Under the Guidance of Right Reason Is Able to Bear Them. Moreover Obedience Produces the Surrender of One's Own Will, Whereby Such a One Denies Himself in Performing Actions or in Omitting Them, and He Does Them or Does Them Not, in Accordance with the Will of God, Nay Even Rather in Accordance with the Will of His Own Superiors and of All Those Amongst Whom He Lives, and This Too in Lawful and Profitable Matters Having Regard to Judgment or the Decision of Right Reason. Each One Who Has Gained and Followed After the Fear of God Thus Perfectly, Each Self Will and Private Advantage Having Bee^n Trodden Underfoot and Spurned, — He Indeed Is of Those of Whom Christ Spoke : \" Blessed Are the Poor in Spirit, for Theirs Is the Kingdom of Heaven.\" for No One Is So Poor, Nor Has Anyone Forsaken More Than He Who Has Served God Throughout His Whole Life and Yet Nevertheless Desires Nothing Nor Demands Nor Seeks Aught Save What God Wishes to Bestow. He Clearly Is the Disciple S 58 Fear of the Lord and Imitator of Christ, Who of a Truth Pos Sesses Nothing, and Has a Better Confidence in God Than If He Had the Choice of All His Gifts in Time and Eternity. Nor Is He Un Fittingly to Be Compared with the Angelical Spirits of the Lowest Order, Inasmuch as He Is Their Companion and Is to Be Admitted Into Their Order. for the Angels Offer Reverence to God, and to All Angelical Spirits, and to Men, and They Venerate Them, and They Are Exceedingly Humble, and Are Most Ready Not Only to Serve God, But Even Individual Men. and in the Same Way They Are Messengers, and Minister Now to God, Now to Men, Now to All the Orders of the Angels. and Because They Have Associated Their Own with the Divine Will, Therefore They Are Henceforth Resigned in Will, and Enjoy Eternal Happiness. a Man of This Kind Is Even Like God, Both as Regards His Divine and His Human Nature. for as Regards His Own Divinity, God Pays Reverence to His Human Nature, and Vener Ates It, Since He Bore and Uplifted It Above All Heavens and All Ranks of Angels, and He Moreover Made Known to Us His Own Humility When He Assumed Our Nature, and Con- Fear of the Lord 5$ Joined and United It with Himself. He Even Became Obedient to the Desires, the Sighs, the Prayers or Outcries of Patriarchs and Prophets, and Finally Yielded Up His Will in Many and Different Ways, According to the Scriptures, and Iollowed After the Will of His Own Friends. But Christ Jesus, as Regards His Humanity, Always Venerated the Father with Boundless Reverence, Looking to and Seeding His Praise, Honour and Glory Every Where in Every Action of His. and Not Only in Acts of Duty Towards His Father, But Also Towards All Men and Towards His Own Dis Ciples He Ordered Himself Lowly and Humbly, Ministering to Them in All Things Necessary to Them, and Even in Unspeakable Humility Washes Their Feet, and Says of Himself : \" the Son of Man Came Not to Be Ministered Unto, But to Minister.\" He Yielded Also to His Father in Obedience and a Resigned Will Throughout the Whole Period of His Life, Even to His Last Breath, and in the Same Way, Wherever It Was Useful and Profitable ; to the Jewish Law Also, and Sometimes Even to the Customs of the Patriarchs and Prophets. Whosoever, as Was Said, Has Been Confirmed in This Fear of God, Has Adorned and Trans Formed with the Divine Virtues the First Element of Earth, That Is the Irascible Faculty. the Earth Is Indeed Adorned with Trees Bring Ing Forth Various Fruits-, Which Represent the Intention Rendered and Applied to God with Respect and Reverence. It Is Adorned Too, with Many Kinds of Herbs, Giving Out a Not Able Odour and Distinctive Fruits, Which Signify the Reasonable or Conscious Service in Unison with Humility Most Unfeigned. It Is Adorned Besides with Creatures of Various Kinds, Beasts of Burden, Herds of Cattle and Wild Animals, Which Symbolise the Animal Senses and Faculties, Which Ke Is to Master and Hold and Ever Restrain Under a Real Obedience. This Adorns in a Far More Marked Degree the Rational Man — That Is He Who, Renouncing Himself, Is Submissive and Obedient to God in His Own Will with Out Retraction or Dispute. in This Manner Both the Earth and the Rational Faculty Are Adorned. and This Is the Earthly Paradise in Which God Has Placed Man in Order That He Might Labour in It and Keep It. His Labouring in It Is to Rely Upon the Virtues ; His Keeping It Is to Take Care Lest He Fall Into Sin. for If He Has Sinned, He Will Lose Both the Fruits of It and Paradise Itself. But in the Midst of Paradise God Planted the Tree of Life, and the Tree of the Knowledge of Good and Evil. the Tree Represents Natural Appetite or Pleasure. Upon It Various Fruits Are Produced and Increase, Beautiful and Sweet and Delightful in Their Kind, Which the Devil and the World Offer to the Senses, That Is, to the Woman. Furthermore the Woman, That Is the Senses Offer These to the Man, That Is to the Higher Reason to Which God En Trusted the Care and Guardianship of Paradise. These Are Allowed to Partake of Consolation and Joy from All the Fruits of the Virtues-, and Thus to Be Ever Increasing in Grace ; But to Partake of the Fruit of Pleasure Is Forbidden, That Is, to Live in Accordance with the Delights of Nature. for in Whatever Supreme Hour the Reason Feeds Upon This Fruit, and Yields Its Assent to It to Gether with the Woman, That Is with the Senses and the Evil Spirit, Against the Prohibition and the Wish of God, the Man Is Cast Forth Outside Paradise, Naked and Devoid of All Virtues, Shut Out and Set Apart from God's Eternal Kingdom. But in Order That Any Man May Be Able to Possess This Fear of God Together with All the Virtues Which Grow Out from Thence in the Highest Perfection, He Must Take Care That as Earnestly as Possible His Intention May Be Raised to God, and Devoted and Fitted for God, and That He May Serve God in the Fear of the Lord Continually, and Without Re Traction, by Praising and Worshipping Him ; Also That He May Make Examination and Consider, and with True Understanding May Seek and Ponder Within Himself in What Way He May Be Set Free for God, and at the Same Time for All Men, and That in Addition He May Persevere in Virtues Ever Watchfully and Carefully, by No Means Yielding to Slumber, and Undertaking His Works with Gladness and Without Weariness and Slothfulness, and That Henceforth He May Hold His Own Will Devoted and Resigned to God Through a True Renunciation. Indeed Who Ever Lives Apart from Pleasure or Choice Can Neither Suffer Loss Either in Time or Eternity. If It Please Him to Apply His Mind to This Point He Will Gain the Fear of the Lord in His Own Supreme Perfection. There Are Four Things Which Restrain a Man from Being Able to Possess the Fear of the Lord in the Supreme Perfection of His Own Nature. in Those Who Lead an Undisciplined Life Apart from Care and Solicitude, There Is Little Fear That They May Strive to Serve God in Accordance with His Dignity. Ignorant and Heavy and Devoid of Understanding, They Learn with Difficulty How to Serve in the Palace of the Eternal King. Those Who Bear the Yoke of Obedience Un Willingly and with Annoyance Must Needs Be Full of Complaints. as Often as They Un Willingly Renounce Their Own Will, They with Difficulty Accomplish Anything, Since They Are Gloomy. These Four Things Impede a Man from Obtaining Perfection in the Fear of the Lord. There Are Four Other Things Which Drive Out and Cast Away This Fear and All the Virtues at the Same Time. Those Who Having Abandoned God Turn to Creatures, Bring Upon God Contempt and Injury. Without Know Ledge, Ignorant, Not Realising Themselves, Such a One Is Far Removed and Alien from a Living Humility. He Who Bestows No Attention on the Virtues, and Does Not Train and Exercise Them, Leads (as We Have Frequently ,said Else Where) a Life Knowing Nothing of Obedience, or Rather a Life Disobedient. Finally One's Own Will Makes Its Own Hell When They Who Are Devoted to It Are Gloomy and Wilful. These Four Things Separate a Man from God, and Bring Him to the Anguish and Disaster of Eternal Damnation"
       }
     },
     {
       "id": "c015",
       "title": {
-        "dum": "XV. Vander gaven der goedertierenheit"
+        "dum": "XV. Vander gaven der goedertierenheit",
+        "en-US": "15. Concerning the Gift of Devotion and the Virtues Arising Therefrom"
       }
     },
     {
       "id": "c016",
       "title": {
-        "dum": "XVI. Hoe goedertierenheit ghelijct der fonteinen in den paradise"
+        "dum": "XVI. Hoe goedertierenheit ghelijct der fonteinen in den paradise",
+        "en-US": "16. How Devotion May Rightly Be Com Pared to a River of Paradise"
       }
     },
     {
       "id": "c017",
       "title": {
-        "dum": "XVII. Hoe men dese gave in volcomenheit besitten can"
+        "dum": "XVII. Hoe men dese gave in volcomenheit besitten can",
+        "en-US": "17. In What Way Devotion Is Gained Most Perfectly, and What Things Hinder and What Altogether Prevent It. Now for Anyone Desirous of Possessing in the Highest Perfection This Gift of Devotion, to Gether with All the Virtues Which Spring Out of It, It Is Necessary That He Have a Mind Tranquil and Calm, Without Curiosity in Matters or Issues Which Are External to It, But Always Persevering in Simplicity, and That He Be Gentle. for He Who Is Mild-mannered Nourishes Piety Without Repining ; and It Is Necessary for Sustaining the Life of Things That He Exercise a Common Compassion Upon All the Needy and the Poor, and That He Attend to and Consider This Diligently, by Helping Them by Acts of Virtue Joined with Right Reason and a True Discretion, and That He Be Liberal in Charity and Ministering Deeds of Compassion, Which Forsooth Can Be Omitted by No One, Nor, Too, Let Him Minister It by Favour, Nor to Kinsmen Merely, But Let Him Exercise a Common Kindness Toward Each in Accordance with the Dictates of Right Reason ; and Besides, That He Be Ever Cheerful in Ad Verse Circumstances and in Afflictions, and Let Him Offer Praises and Thanks to God ; to This End, That He Be Zealous of a Free Spirit, and Deny His Nature in True Patience. He Who Is Gentle Leads an Excellent Life Without Repining. Four Things There Are Which Hinder a Man from Obtaining Devotion in the Highest Perfection : — I. That He Be Easily Moved ; That He Be Agitated in His Senses, and Externally and Internally Confused and Aroused. This Allows Not a Man to Be Gentle. Ii. to Sympathise with Friends and Kins Men Rather Than with the Generality of Men, or All Men in Common. Iii. to Give Charity Not Because of a Necessity Discovered, But by Favour, Belongs to a Man Wavering and Hesitating in Virtue"
       }
     },
     {
       "id": "c018",
       "title": {
-        "dum": "XVIII. Vander gaven der conste"
+        "dum": "XVIII. Vander gaven der conste",
+        "en-US": "18. Of the Gift of Knowledge and of True Discretion"
       }
     },
     {
       "id": "c019",
       "title": {
-        "dum": "XIX. Hoe de mensee die gave der const besitten sal"
+        "dum": "XIX. Hoe de mensee die gave der const besitten sal",
+        "en-US": "19. What He Must Do Who Desires to Possess the Gift of Knowledge ; and of the Things Which Hinder and Even Destroy It"
       }
     },
     {
       "id": "c020",
       "title": {
-        "dum": "XX. Vander gaven der starcheit"
+        "dum": "XX. Vander gaven der starcheit",
+        "en-US": "20. Concerning the Gift of Fortitude, and the Virtues Which Draw Their Origin Therefrom"
       }
     },
     {
       "id": "c021",
       "title": {
-        "dum": "XXI. Hoe die mensce de gave der starcheit besitten mach"
+        "dum": "XXI. Hoe die mensce de gave der starcheit besitten mach",
+        "en-US": "21. That Anyone May Obtain the Gift of Fortitude in a High Degree, and What Things Hinder It, or Drive It Away. Now He Who Wishes to Possess This Gift Sublimely and Excellently Must Strive That He Be Above All Mortals in an Uplifted Mind and Directed in Interior Things. It Belongs to Spiritual Fortitude to Contemplate the Goodness of God, and to Shun Whatever Draws Away from It or Is Dissimilar to It ; and in the Same Way Constantly to Attribute to Almighty God Praise and Honour with Great Strenuousness and Heedfulness. He Who Has Been Admitted to the Palace of the Heavenly King Will Be Free to Attend to Divine Praises with Immense Desire. Desire Brings About a Wound and Languor of the Heart, and Engenders an Impatient Hunger. He Who Could Endure This Until God Should Apply a Remedy to the Wound, Would Be Leading a Truly Perfect and Excellent Life. to Be Possessed by a Certain Continual Hunger of Yielding to God Perfect and Entire Praise, Honour and Reverence, That I&, That the Man Himself Should Know That God Rules — I Know How to Set Forth and Express Nothing Better Than This-, Whereby He May Be Carried Forth Into Endless Blessedness. There Are Four Things Which Hinder and Disturb a Man in Spiritual Fortitude. I. to Seek for Strange Things, or to Grasp at Delights in a Mind at Ease. Ii. to Follow and Strive with Eagerness After Softness and Sweetness^ Which Are Ex Ternal Matters"
       }
     },
     {
       "id": "c022",
       "title": {
-        "dum": "XXII. Noch vander selver gaven in hogheren dogheden"
+        "dum": "XXII. Noch vander selver gaven in hogheren dogheden",
+        "en-US": "22. Concerning Certain Higher Virtues and More Spiritual Actions Which Proceed from the Glft of Fortitude"
       }
     },
     {
       "id": "c023",
       "title": {
-        "dum": "XXIII. Goe die vriheit des willen ghelijc es den viere"
+        "dum": "XXIII. Goe die vriheit des willen ghelijc es den viere",
+        "en-US": "23. How Free Will Resembles Fire in Four Ways. Now Whosoever Has Obtained This Gift in That Manner Has Adorned the Fourth Element of Fire, That Is, Liberty of Choice or Will, Which in Four Ways Presents a Certain Similitude of Fire. for Fire from the Inward Nobility of Its Own Nature Always Aspires on High, But Is Kept Down and Driven Below by the Great Force of the Starry Heaven and the Firmament. and There Is in It the Subtile, — and That the Invisible, Spiritual and Effectual Force Which Acts Upon All Inferior Creatures. and by It All Created Things in the Earth, in the Waters, and in the Air, Live, Grow and Are Preserved in Life. Finally in Its Own Place It Persists Above All the Other Elements, Enlightening, Warming and Rendering Fertile Whatever Things Are in the Earth. and These Four Qualities Are Found Also in Free Will 108 Adorned with Divine Fortitude. for Such a Will Has Ca&t Off, Driven Away and Renounced the Yoke of Demoniacal Bondage and of All Creatures, as Far as Concerns the Vices and Their Fruition. and It Has Drawn Up the Mind and All the Powers of the Soul to Praise Its God and Lord Through All Eternity ; and It Obtains or Possesses Unity with a Perpetual Stability. and Turning Itself Downwards It Beholds the Necessities of All Mortals with True4 Pity; and It Strives and Desires to Render All Creatures Productive of the Virtues. and If Anywhere It Is Not Able to Ensure This, It Grieves and Mourns. Finally It Aspires Again Toward Celestial Things with Immense Devotion and Fervour, in the Manner of a Fire Burning and Absorbing All Things, and Drawing Them Into Unity. But Thus Far Let What Is Said Suffice Concerning Fire"
       }
     },
     {
       "id": "c024",
       "title": {
-        "dum": "XXIV. Goemen dese starcheit vercrighen sal"
+        "dum": "XXIV. Goemen dese starcheit vercrighen sal",
+        "en-US": "24. In What Ways This Fortitude May Be Obtained, and What Things Hinder It, and What Things Wholly Destroy Btrt If Anyone Desire Thus to Ensure and Possess These Things, He Mus^ Study That He Burn with Desire — All Unnecessary Occu Pations Set Aside, and That He May Be at Liberty for Beholding Divine Goodness, and the Richest Benevolence and Liberality. He Is to Look Also with the Greatest Pity Upon Rational Creatures Given Up to and Cleaving to This World : for Assuredly It Is Altogether Pitiable and an Immense Unhappiness That They Should Not Praise and Worship God with All Their Ability ; Since They Ever Remain Without Knowledge of These De Lights Which Are the Meat and Drink of the Friends of God, Bringing to Them the Sweetest Inebriation. Let Him Therefore Pray God That He May Be Merciful to Those Unhappy Persons, and in Accordance with His Clemency, He May Allow the Streams of His Own Benevolence to Flow Upon Them, That Converted to Him by the Manifestation of Praise and Honour They May Flow Again Into Unity. for Truly .as Manias We Have Said, Hunger After Justice, These Have Obtained Full Health. Those Who Discover These Things Now Mentioned in Themselves Ought Not to Doubt But That They Shall Climb Up to the Highest Step of Spiritual Fortitude. But There Are Four Certain Things Which Not Uncommonly Hinder a Man from Obtaining This Gift of Fortitude. Namely, Not Devoutly to Consider the Goodness of God, and the Evil or Wicked Works and Deeds of Men Is Great Folly and Ingratitude. Whoso with Sorrow Does Not See Them So Sadly Going Astray, and That God Remains Hid and Concealed from Them, Has Too Little Pity. Thus Those Who from Their Heart Do Not Desire and Seek to Be Recovered and Converted to the Praise and Honour of God, — Their Devotion Is Cool and Slack. Indeed Those, Whoever They Be, That Burn with a Moderate Desire Have Ii2 How Fortitude Obtained in No Wise Risen to Any Height, a Thing Which Can Be Thence Perceived — Inasmuch as Their Hunger Is Small. There Are Four Other Things Which However Great the Virtue Be, Not Only Hinder, But Even in a Certain Way Pluck It Forth and Drive It Away. Neither to Care for God or Men Belongs to Great Impiety, Great Shame and Excessive Blindness. Who Soever Grieves Not That Such Do Not Join and Apply Themselves to God, Whence the Streams of Grace Are Flowing, Is Ignorant of Pity. It Belongs to Hatred and Envy That He Should Not Turn Himself to Praise God, Nor to Seek Nor Desire It from Anyone. in Those in Whom There Is No Hunger to Satisfy Justice, Whatever That Demands, It Is Clear That They Least of All Have Risen in Spiritual Fortitude"
       }
     },
     {
       "id": "c025",
       "title": {
-        "dum": "XXV. Dander gaven des raets"
+        "dum": "XXV. Dander gaven des raets",
+        "en-US": "25. Concerning the Gift of Counsel"
       }
     },
     {
       "id": "c026",
       "title": {
-        "dum": "XXVI. Goe dese menschen Christo ghelijc sijn na sijnre menscheit"
+        "dum": "XXVI. Goe dese menschen Christo ghelijc sijn na sijnre menscheit",
+        "en-US": "26. How They Resemble Christ, According to His Human Nature, Who Have Obtained at This Step the Gift of Counsel ; and Concerning the Three Fold Kind of Men Who Exhibit a Certain Likeness to the Most Holy Trinity and the Humanity of Christ"
       }
     },
     {
       "id": "c027",
       "title": {
-        "dum": "XXVII. Vanden ‧vij‧ planeten"
+        "dum": "XXVII. Vanden ‧vij‧ planeten",
+        "en-US": "27. A Certain Mystical Application Op the Seven Planets to the Soul Now the Planets Have a Certain Likeness to the Seven Days in Which All Time Revolves and Is Embraced ; and Amongst Them the Sun Is the Most Effective and Resplendent, Just as Also the Clearest and Most Effective Light of the Mind Which Is Inclined Down Ward Is the Enlightened Reason, Which in the Kingdom of the Soul, Makes the Lord's Day, Which They Call Sunday, and Also Makes the Final Days, Disposing All the Powers of the Soul to Rest, So That What Ever It, That Is the Enlightened Reason, May Order, They May Hear and Perceive, and in Accordance with Its Command, That Is, in the Whole Time of This Present Life, They May Dispose Themselves. But Another Day of the Week in Which Work Has to Be Done Is Called Monday, Which the Self-same Moon, 136 That Is, Discretion Adorns, Who Borrows Her Own Light from the Sun of the Enlightened Reason, Wherein the Whole Week, That Is, May Dispose Itself Temperately and Discreetly All the Time. for the Moon, That Is Discretion, Is the Earth's Neighbour, When Ever She Controls the Active Life. But the Sun, That Is the Enlightened Reason, Holds a Lofty Position Which Indeed Directs and Orders the Interior, Affective Life. Moreover Mars Will Adorn the Third Day of the Week, That Is Humility and Obedience in All Things. Mercury Will Adorn the Fourth Day, That Is Charity and Generosity. for Now We Are Occupied with the Middle of the Week, That Is, in the Meantime in Which Work Is to Be Done ; If We Waste Time, It Flows and Escapes of Itself, Then When the Eternal Festival Approaches We Are Idle and Vain. Jupiter Will Adorn the Fifth Day, This Is the Affection Drawn Out and Uplifted by Loving and Praising, in Love Towards God. for the Festal Day Is Approaching and Is Present at Our Gates, in Which the Palace of the Eternal King Is to Be Entered. the Sixth Day Venus Will Adorn, This Is the Divine Touch Which, Just as the Star of Venus in the Dawn, So It Arises in the Very Origin and Principle of All Created Action, That Is, in -the Unity of the Soul ; and Then the Sun Scatters Its Own Rays by Which the Illumined .reason Is Indicated. But When This Lightbringer of the Divine Touch Arises at Dawn, the Entire Kingdom of the Soul Is Gladdened, Because That Beam Is Seen to Start Forth and Proceed from the Changeless Heaven of Divine Unity, and It Happens the Oftener When This Star of Venus or Light Bringer, by the Clearness of the Sun and the Burning of Charity Is So Transformed That It Appears as Though That Which Is Loved Is Never to Be Possessed, for This Happens at Midday, When the Acknowledged Debt Is Discharged. for When We Behold God's Immensity and Our Own Littleness, We Both Perceive and Know That We Owe Much to God and to All Men, How Plainly We Seem to Fail in Everything, and to Afford Satisfaction Neither to God Nor to Men. for the Love Within Us Is Immense, and the Illumined Reason Shines Exceedingly Clearly. There Fore on Account of Our Failing We Decline Into Lowliness, and Thus .every Debt Can Be Dis- Planets and the Soul 13$ Charged. and This Very Star Is Called Vesper When It Satisfies Each and Everyone by the Illumined Reason and by the Burning of Charity. and So Far Indeed the Sun Has Driven Before Itself This Star (that Is Charity) of the Illuminated Reason, Whilst It Is Called Lightbringing, to the Arousing of All the Vir Tues : But After Each One Has Been Satisfied in Proportion to Its Powers^ Then That Very Self-same Star, (its Name Vesper Being Taken for Granted, That Is Charity,) Follows After the Sun, Desiring to Repose Endlessly in Unity If Only It Can Attain It. Finally Saturnjvill Adorn the Last, That Is the Seventh Day of the Week, by Which We Understand the Unsatisfied Craving, That Is, Hunger and Impatience, Because We Are Not Worthy to Apprehend God. But Saturn, That Is, That Hunger, Is Placed in the Uttermost Summit of the Affective Power, and That Is Indeed a Greater Hunger Ing Which Our Deficiency in the Virtues Brings About, as to Which We Seem in These Things to Satisfy God Least of All. for This Hunger of Which We Are Now Treating Craves for Fruition ; But That Other Hunger Vehemently Desires to Arouse and to Exercise the Virtues. and This Point, Which We Have Now in Hand, Has Respect to God, But the Other to Itself. Nevertheless Either Hunger Is Occu Pied in the Same Affection, But They Are Unequal in Their Action. That Hungering, Which We Have Said Is Signified by Saturn — Angry and Ireful Planet — Arouses in the King Dom of the Soul Lightnings and Fearful Thun-derings, Huge Winds and Storms. the Light Nings, I Should Have Said, Are That Contact Which Moves the Soul to Impatience, and Reveals the Beloved in the Open Heaven of the Mind, Crowned with Incomprehensible Joys. Then the Thunders Are Aroused, That Is Vehement Surgings of Love, Because It Is Not Allowed to Gain the Beloved ; Which Things Stir Great Storms in the Soul's Kingdom, Above and Below ; and Were It Not That the Illu Mined Reason, Which God Has Annexed to This Storm, Restrained It, the Kingdom of the Soul Could in No Wise Wait Any Longer for the Banquet and the Coming of the Betrothed. But the Enlightened Reason Points Out Lucidly and Clearly That the Time Will Almost at Once Approach, in Which It Will Be Allowed, in Proportion to the Desire of All Its Powers to Gether with Every Delight and the Highest Joys, to Be at Rest In, Enjoy, and Possess the Beloved ; and This Causes the Loving Soul to Await Him Patiently and Calmly. Such, as in All the Degrees Now Mentioned It Has Been Set Forth, Should Be the Life of a Man, If He Wishes to Attain to the Soiperessential, That Is, in a Certain Divine Way, the Contemplative Life"
       }
     },
     {
       "id": "c028",
       "title": {
-        "dum": "XXVIII. Hoemen die gave des raets besitten sal"
+        "dum": "XXVIII. Hoemen die gave des raets besitten sal",
+        "en-US": "28. Of What Kind He Should Be Who Wishes to Obtain the Gift of Counsel in an Excellent Degree, and of the Four Hindrances, and of the Same Number of Expulsive Forces"
       }
     },
     {
       "id": "c029",
       "title": {
-        "dum": "XXIX. Van enen hogheren grade van der gaven des Raets"
+        "dum": "XXIX. Van enen hogheren grade van der gaven des Raets",
+        "en-US": "29. Of a Certain Loftier Rank of the Gift of Counsel, and Its More Dis Tinguished Results"
       }
     },
     {
       "id": "c030",
       "title": {
-        "dum": "XXX. Hoe de gave godlijcs Raets beseten wert inder hoechster volcomenheit"
+        "dum": "XXX. Hoe de gave godlijcs Raets beseten wert inder hoechster volcomenheit",
+        "en-US": "30. That This Rank of the Gift of Coun Sel May Be Possessed in the Highest Perfection ; and Concerning Four of Its Hindrances and Exterminations of the Same Number"
       }
     },
     {
       "id": "c031",
       "title": {
-        "dum": "XXXI. Vander gaven der Verstendicheit"
+        "dum": "XXXI. Vander gaven der Verstendicheit",
+        "en-US": "31. Concerning the Gift of Understanding"
       }
     },
     {
       "id": "c032",
       "title": {
-        "dum": "XXXII. Hoemen dese gave der verstendicheit besitten sal"
+        "dum": "XXXII. Hoemen dese gave der verstendicheit besitten sal",
+        "en-US": "32. Of What Kind He Ought to Be Who Should Be Endowed with the Glft of Understanding : and of Four Things Which Hinder Him, and of the Same Number of Things Which Exclude Him. Now That This Gift Can Be Possessed by Man, and He in Turn by It, It Must Needs Be That He May Be Endowed with These Four Things. He Who Desires to Be Enlightened Will Be Bound to Pass Beyond and Be Carried Away Into the Superessential Substance of God. for Thence in the Simplicity of the Deep Itself He Will Experience the Boundless Light of God, and Thus He Will Penetrated Entirely by the Light of Truth, Inundated and Recreated. for This Light Generally Pours Forth Its Own Rays Upon All the Pure and Enlightened, in Accordance with the Dignity of Each One ; and Relying Upon It, They Have Power to Bend the Sharp- 168 Ness of the Mind Without Intermission Upon the Fruitful Countenance of God, and to Contemplate It. for They Will Ever Most Faithfully Contemplate That Which They Enjoy, They Themselves Having Been Lost Very Far Away. for When the Beloved Shall Have Departed to a Distance, This Very Thing Causes the Mind's Eyes to Incline to the Supreme Happiness Continually. Nevertheless in the Meantime the Beloved Is Held and Possessed by the Beloved in the Unity of the Divine Solitude. and Thus Shall We Ever Remain, and Our Life Will Continually Be in a State of Desire Before the Abyss of the Highest. There Are Four Other Things Which If They Are Well Considered, Will Be Seen to Hinder the Gift of Understanding ; Those Who Always Meditate with Closed Eyes, So That They Can Enjoy the Superessential Substance of God Have No Power to Be Enlightened, Because They Do Not Incline to the Simplicity of the Divine Light. and This Is to Them a Hindrance, So That They Are Unable as Do the Cherubim, to Know the Beloved So Excellently : They Desire Indeed to Search Into the Countenance of the Divine Majesty, But Fail on Account of This Very Thing. Finally There Are Four Other Things Which Can Be Mentioned, and Which Exclude the Gift of Understanding. He Who Seeks for the Taste and Delights of Earthly Things Is Unable to Attain to the Surpassing Fruition of God. in Neither Is He Capable of the Divine Illumination, Since He Is Oppressed and Laden with the Shadows of Transient Things. and Scarcely Even Will He Be Able to Rise Up Again Because Snatching at the Joys of Meat and Drink, He Leads a Life Given Up and Devoted to Gluttony. These Things, as I Have Said, Ruin a Man and Deprive Him of Eternal Happiness"
       }
     },
     {
       "id": "c033",
       "title": {
-        "dum": "XXXIII. Van der gaven der smakender Wijsheit"
+        "dum": "XXXIII. Van der gaven der smakender Wijsheit",
+        "en-US": "33. Of the Gift of Wisdom"
       }
     },
     {
       "id": "c034",
       "title": {
-        "dum": "XXXIV. Hoe die verlichte redene Gode scouwet in vernuftighen beelden"
+        "dum": "XXXIV. Hoe die verlichte redene Gode scouwet in vernuftighen beelden",
+        "en-US": "34. That the Enlightened Reason May Contemplate God in Intellectual Images and Divine Effects"
       }
     },
     {
       "id": "c035",
       "title": {
-        "dum": "XXXV. Vanden heilighen Gheeste"
+        "dum": "XXXV. Vanden heilighen Gheeste",
+        "en-US": "35. Certain Things Worthy of Mark Con Cerning the Holy Spirit"
       }
     },
     {
       "id": "c036",
       "title": {
-        "dum": "XXXVI. Hoemen die gave der wijsheit besitten sal"
+        "dum": "XXXVI. Hoemen die gave der wijsheit besitten sal",
+        "en-US": "36. That the Gift of Wisdom Is Excellently Possessed, and What Things Hinder It, and What Forthwith They Eliminate"
       }
     },
     {
       "id": "c037",
       "title": {
-        "dum": "XXXVII. Van vijf Riken Gods. Ierst vanden sinliken Rike, ende vanden lesten Ordeel"
+        "dum": "XXXVII. Van vijf Riken Gods. Ierst vanden sinliken Rike, ende vanden lesten Ordeel",
+        "en-US": "37. Op the Five-fold Klngdom of God and of the Flrst Sensible Klngdom, and What Are the Future Things at the Last Judgment"
       }
     },
     {
       "id": "c038",
       "title": {
-        "dum": "XXXVIII. Van ‧iiij‧ gaven des gloriosen lichaems"
+        "dum": "XXXVIII. Van ‧iiij‧ gaven des gloriosen lichaems",
+        "en-US": "38. Of the Four Gifts of Glorified Bodies"
       }
     },
     {
       "id": "c039",
       "title": {
-        "dum": "XXXIX. Vanden natuerliken rike Gods"
+        "dum": "XXXIX. Vanden natuerliken rike Gods",
+        "en-US": "39. Concerning the Natural Kingdom"
       }
     },
     {
       "id": "c040",
       "title": {
-        "dum": "XL. Van dat Rike der Scrifturen"
+        "dum": "XL. Van dat Rike der Scrifturen",
+        "en-US": "40. Concerning the Kingdom of Scripture"
       }
     },
     {
       "id": "c041",
       "title": {
-        "dum": "XLI. Van dat rike der ghenaden ende der glorien"
+        "dum": "XLI. Van dat rike der ghenaden ende der glorien",
+        "en-US": "41. Of the Kingdom of Grace and Glory"
       }
     },
     {
       "id": "c042",
       "title": {
-        "dum": "XLII. Vanden ses vruchten der gracien ende der glorien"
+        "dum": "XLII. Vanden ses vruchten der gracien ende der glorien",
+        "en-US": "42. Of the Six Fruits of Grace and of Glory, of Which Three Belong to the Active, Three to the Affective Life"
       }
     },
     {
       "id": "c043",
       "title": {
-        "dum": "XLIII. Von dat rike dat God self es"
+        "dum": "XLIII. Von dat rike dat God self es",
+        "en-US": "43. Concerning the Kingdom of Divinity Beyond the Llght of Grace and Glory, and Concerning the Three-fold Fruit of the Superessential, Contemplative Life"
       }
     }
   ]
