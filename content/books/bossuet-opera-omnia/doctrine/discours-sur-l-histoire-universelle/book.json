@@ -1,0 +1,384 @@
+{
+  "id": "bossuet-discours-sur-l-histoire-universelle",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Discours sur l’histoire universelle",
+    "en-US": "Discourse on Universal History",
+    "pt-BR": "Discurso sobre a história universal"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Histoire du monde écrite pour le Dauphin en trois parties : les douze époques depuis la création jusqu’à Charlemagne, la suite de la religion depuis Adam jusqu’à l’Église, et les empires, dont les révolutions sont réglées par la Providence. Publié en 1681. Édition Lachat (1864).",
+    "en-US": "A history of the world written for the Dauphin in three parts: the twelve epochs from the creation to Charlemagne, the continuity of religion from Adam to the Church, and the empires, whose revolutions are ruled by Providence. Published in 1681. Lachat edition (1864).",
+    "pt-BR": "História do mundo escrita para o Delfim em três partes: as doze épocas desde a criação até Carlos Magno, a continuidade da religião de Adão até a Igreja, e os impérios, cujas revoluções são reguladas pela Providência. Publicado em 1681. Edição Lachat (1864)."
+  },
+  "composed": "1681",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/discours-sur-l-histoire-universelle",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume024/001.htm, 007.htm to 010.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXIV, pages 001 and 007-010. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Avant-propos"
+      }
+    },
+    {
+      "id": "premiere-partie",
+      "title": {
+        "fr-FR": "Première partie : les époques, ou la suite des temps"
+      },
+      "children": [
+        {
+          "id": "epoque-001",
+          "title": {
+            "fr-FR": "Première époque. Adam, ou la création. Premier âge du monde"
+          }
+        },
+        {
+          "id": "epoque-002",
+          "title": {
+            "fr-FR": "Deuxième époque. Noé, ou le déluge. Deuxième âge du monde"
+          }
+        },
+        {
+          "id": "epoque-003",
+          "title": {
+            "fr-FR": "Troisième époque. La vocation d'Abraham: Ou le commencement du peuple de Dieu et de l'alliance. Troisième âge du monde"
+          }
+        },
+        {
+          "id": "epoque-004",
+          "title": {
+            "fr-FR": "Quatrième époque. Moïse, ou la Loi écrite. Quatrième âge du monde"
+          }
+        },
+        {
+          "id": "epoque-005",
+          "title": {
+            "fr-FR": "Cinquième époque. La prise de troie. Quatrième âge du monde"
+          }
+        },
+        {
+          "id": "epoque-006",
+          "title": {
+            "fr-FR": "Sixième époque. Salomon, ou le temple achevé. Cinquième âge du monde"
+          }
+        },
+        {
+          "id": "epoque-007",
+          "title": {
+            "fr-FR": "Septième époque. Romulus, ou rome fondée"
+          }
+        },
+        {
+          "id": "epoque-008",
+          "title": {
+            "fr-FR": "Huitieme époque. Cyrus, ou les Juifs rétablis. Sixième âge du monde"
+          }
+        },
+        {
+          "id": "epoque-009",
+          "title": {
+            "fr-FR": "Neuvième époque. Scipion, ou carthage vaincue"
+          }
+        },
+        {
+          "id": "epoque-010",
+          "title": {
+            "fr-FR": "Dixieme époque. Naissance de Jésus-Christ. Septième et dernier âge du monde"
+          }
+        },
+        {
+          "id": "epoque-011",
+          "title": {
+            "fr-FR": "Onzième époque. Constantin, ou la paix de l'Église"
+          }
+        },
+        {
+          "id": "epoque-012",
+          "title": {
+            "fr-FR": "Douzième époque. Charlemagne, ou l'établissement du nouvel empire"
+          }
+        }
+      ]
+    },
+    {
+      "id": "seconde-partie",
+      "title": {
+        "fr-FR": "Seconde partie : la suite de la religion"
+      },
+      "children": [
+        {
+          "id": "part2-001",
+          "title": {
+            "fr-FR": "Chapitre Premier. La création, et les premiers temps"
+          }
+        },
+        {
+          "id": "part2-002",
+          "title": {
+            "fr-FR": "Chapitre II. Abraham et les patriarches"
+          }
+        },
+        {
+          "id": "part2-003",
+          "title": {
+            "fr-FR": "Chapitre III. Moïse, la Loi écrite, et l’introduction du peuple dans la terre-promise"
+          }
+        },
+        {
+          "id": "part2-004",
+          "title": {
+            "fr-FR": "Chapitre IV. David, Salomon, les rois, et les prophètes"
+          }
+        },
+        {
+          "id": "part2-005",
+          "title": {
+            "fr-FR": "Chapitre V. La vie et le ministere prophétique: Les jugemens de Dieu déclarés par les prophéties"
+          }
+        },
+        {
+          "id": "part2-006",
+          "title": {
+            "fr-FR": "Chapitre VI. Jugements de Dieu sur nabuchodonosor, sur les rois ses successeurs et sur tout l'empire de Babylone"
+          }
+        },
+        {
+          "id": "part2-007",
+          "title": {
+            "fr-FR": "Chapitre VII. Diversité des jugemens de Dieu, jugement de rigueur sur Babylone: Jugement de miséricorde sur jerusalem"
+          }
+        },
+        {
+          "id": "part2-008",
+          "title": {
+            "fr-FR": "Chapitre VIII. Retour du peuple sous zorobabel, esdras et nehemias"
+          }
+        },
+        {
+          "id": "part2-009",
+          "title": {
+            "fr-FR": "Chapitre IX. Dieu prêt à faire cesser les prophéties, répand ses lumières plus abondamment que jamais"
+          }
+        },
+        {
+          "id": "part2-010",
+          "title": {
+            "fr-FR": "Chapitre X. Prophéties de zacharie et d’aggée"
+          }
+        },
+        {
+          "id": "part2-011",
+          "title": {
+            "fr-FR": "Chapitre XI. La prophétie de malachie, qui est le dernier des prophètes, et l'achèvement du second temple"
+          }
+        },
+        {
+          "id": "part2-012",
+          "title": {
+            "fr-FR": "Chapitre XII. Les temps du second temple. Fruits des chatimens et des prophéties précédentes: Cessation de l'idolatrie et des faux prophètes"
+          }
+        },
+        {
+          "id": "part2-013",
+          "title": {
+            "fr-FR": "Chapitre XIII. La longue paix dont ils jouissent, par qui prédite"
+          }
+        },
+        {
+          "id": "part2-014",
+          "title": {
+            "fr-FR": "Chapitre XIV. Interruption et rétablissement de la paix division dans le peuple Saint: Persécution d'antiochus: Tout cela prédit"
+          }
+        },
+        {
+          "id": "part2-015",
+          "title": {
+            "fr-FR": "Chapitre XV. Attente du messie; Sur quoi fondée: Préparation à son règne, et à la conversion des Gentils"
+          }
+        },
+        {
+          "id": "part2-016",
+          "title": {
+            "fr-FR": "Chapitre XVI. Prodigieux aveuglement de l'idolatrie avant la venue du messie"
+          }
+        },
+        {
+          "id": "part2-017",
+          "title": {
+            "fr-FR": "Chapitre XVII. Corruptions et superstitions parmi les Juifs: Fausses doctrines des Pharisiens"
+          }
+        },
+        {
+          "id": "part2-018",
+          "title": {
+            "fr-FR": "Chapitre XVIII. Suite des corruptions parmi les Juifs: Signal de leur décadence, selon que zacharie l'avait prédit"
+          }
+        },
+        {
+          "id": "part2-019",
+          "title": {
+            "fr-FR": "Chapitre XIX. Jésus-Christ et sa doctrine"
+          }
+        },
+        {
+          "id": "part2-020",
+          "title": {
+            "fr-FR": "Chapitre XX. La descente du Saint-Esprit: L'établissement de l'Église: Les jugements de Dieu sur les Juifs et sur les Gentils"
+          }
+        },
+        {
+          "id": "part2-021",
+          "title": {
+            "fr-FR": "Chapitre XXI. Réflexions particulières sur le chatiment des Juifs, et sur les prédictions de Jésus-Christ qui l'avaient marqué"
+          }
+        },
+        {
+          "id": "part2-022",
+          "title": {
+            "fr-FR": "Chapitre XXII. Deux mémorables prédictions de Notre-Seigneur sont expliquées, et leur accomplissement est justifié par l'histoire"
+          }
+        },
+        {
+          "id": "part2-023",
+          "title": {
+            "fr-FR": "Chapitre XXIII. La suite des erreurs des Juifs, et la manière dont ils expliquent les propheties"
+          }
+        },
+        {
+          "id": "part2-024",
+          "title": {
+            "fr-FR": "Chapitre XXIV. Circonstances mémorables de la chute des Juifs: Suite de leurs fausses interprétations"
+          }
+        },
+        {
+          "id": "part2-025",
+          "title": {
+            "fr-FR": "Chapitre XXV. Réflexions particulières sur la conversion des Gentils. Profond conseil de Dieu, qui les voulait convertir par la croix de Jésus-Christ. Raisonnement de Saint Paul sur cette manière de les convertir"
+          }
+        },
+        {
+          "id": "part2-026",
+          "title": {
+            "fr-FR": "Chapitre XXVI. Diverses Formes De l'Idolatrie; Les Sens, l'Intérêt, L'Ignorance, Un Faux Respect De L'Antiquité, La Politique, La Philosophie, Et Les Hérésies Viennent A Son Secours: L'Église triomphe de tout"
+          }
+        },
+        {
+          "id": "part2-027",
+          "title": {
+            "fr-FR": "Chapitre XXVII. Réflexion générale sur la suite de la religion, et sur le rapport qu'il y à entre les livres de l'Écriture"
+          }
+        },
+        {
+          "id": "part2-028",
+          "title": {
+            "fr-FR": "Chapitre XXVIII. Les difficultés qu'on forme contre l'Écriture sont aisées à vaincre par les hommes de bon sens et de bonne foi"
+          }
+        },
+        {
+          "id": "part2-029",
+          "title": {
+            "fr-FR": "Chapitre XXIX. Moyen facile de remonter à la source de la religion, et d'en trouver la vérité dans son principe"
+          }
+        },
+        {
+          "id": "part2-030",
+          "title": {
+            "fr-FR": "Chapitre XXX. Les prédictions réduites à trois faits palpables: Parabole du Fils de Dieu qui en établit la liaison"
+          }
+        },
+        {
+          "id": "part2-031",
+          "title": {
+            "fr-FR": "Chapitre XXXI. Suite de l'Église catholique, et sa victoire manifeste sur toutes les sectes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "troisieme-partie",
+      "title": {
+        "fr-FR": "Troisième partie : les empires"
+      },
+      "children": [
+        {
+          "id": "part3-001",
+          "title": {
+            "fr-FR": "Chapitre Premier. Les révolutions des empires sont réglées par la providence, et servent à humilier les princes"
+          }
+        },
+        {
+          "id": "part3-002",
+          "title": {
+            "fr-FR": "Chapitre II. Les révolutions des empires ont des causes particulières que les princes doivent étudier"
+          }
+        },
+        {
+          "id": "part3-003",
+          "title": {
+            "fr-FR": "Chapitre III. Les scythes, les éthiopiens et les égyptiens"
+          }
+        },
+        {
+          "id": "part3-004",
+          "title": {
+            "fr-FR": "Chapitre IV. Les assyriens anciens et nouveaux, les mèdes et cyrus"
+          }
+        },
+        {
+          "id": "part3-005",
+          "title": {
+            "fr-FR": "Chapitre V. Les perses, les grecs, et alexandre"
+          }
+        },
+        {
+          "id": "part3-006",
+          "title": {
+            "fr-FR": "Chapitre VI. L'empire romain: Et en passant, celui de carthage et sa mauvaise constitution"
+          }
+        },
+        {
+          "id": "part3-007",
+          "title": {
+            "fr-FR": "Chapitre VII. La suite des changements de rome est expliquée"
+          }
+        },
+        {
+          "id": "part3-008",
+          "title": {
+            "fr-FR": "Chapitre VIII. Conclusion de tout le discours précédent, ou l'on montre qu'il faut tout rapporter à une providence"
+          }
+        }
+      ]
+    }
+  ]
+}
