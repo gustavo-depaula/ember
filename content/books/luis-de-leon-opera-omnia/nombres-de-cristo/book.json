@@ -1,0 +1,197 @@
+{
+  "id": "luis-nombres-de-cristo",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "De los nombres de Cristo",
+    "en-US": "The Names of Christ",
+    "pt-BR": "Dos nomes de Cristo"
+  },
+  "description": {
+    "es-ES": "Diálogo en tres libros entre Marcelo, Juliano y Sabino sobre los nombres que la Escritura da a Cristo: Pimpollo, Faces de Dios, Camino, Pastor, Monte, Padre del siglo futuro, Brazo de Dios, Rey de Dios, Príncipe de paz, Esposo, Hijo de Dios, Amado, Jesús y Cordero. Obra maestra de la prosa castellana del siglo XVI (Salamanca, 1583; 1585; el nombre Cordero, en la edición póstuma de 1595).",
+    "en-US": "A dialogue in three books between Marcelo, Juliano and Sabino on the names Scripture gives to Christ: Shoot, Face of God, Way, Shepherd, Mountain, Father of the Age to Come, Arm of God, King of God, Prince of Peace, Bridegroom, Son of God, Beloved, Jesus and Lamb. A masterpiece of sixteenth-century Castilian prose (Salamanca, 1583; 1585; the name Lamb added in the posthumous edition of 1595).",
+    "pt-BR": "Diálogo em três livros entre Marcelo, Juliano e Sabino sobre os nomes que a Escritura dá a Cristo: Renovo, Faces de Deus, Caminho, Pastor, Monte, Pai do século futuro, Braço de Deus, Rei de Deus, Príncipe da paz, Esposo, Filho de Deus, Amado, Jesus e Cordeiro. Obra-prima da prosa castelhana do século XVI (Salamanca, 1583; 1585; o nome Cordeiro, na edição póstuma de 1595)."
+  },
+  "composed": "1583–1595",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "luis-de-leon/nombres-de-cristo",
+  "editions": {
+    "es-ES": {
+      "editor": "es.wikisource transcription (text of the 1587 edition)",
+      "year": 1587
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://es.wikisource.org/wiki/De_los_nombres_de_Cristo",
+      "edition": "De los nombres de Cristo, es.wikisource, 30 pages (Tomo 1–3); pages split as (II)/(III) joined into one chapter per name. Order of Book III follows the 1595 edition (Hijo de Dios, Amado, Jesús, Cordero).",
+      "description": "Proofread transcription of a public-domain edition (cross-check: Onís, Clásicos Castellanos, archive.org delosnombresdecr01le).",
+      "tier": "A"
+    }
+  ],
+  "author": {
+    "es-ES": "Fray Luis de León",
+    "en-US": "Fray Luis de León",
+    "pt-BR": "Frei Luís de León"
+  },
+  "toc": [
+    {
+      "id": "libro-1",
+      "title": {
+        "es-ES": "Libro primero",
+        "en-US": "Book One",
+        "pt-BR": "Livro primeiro"
+      },
+      "children": [
+        {
+          "id": "l1-dedicatoria",
+          "title": {
+            "es-ES": "Dedicatoria"
+          }
+        },
+        {
+          "id": "l1-introduccion",
+          "title": {
+            "es-ES": "Introducción"
+          }
+        },
+        {
+          "id": "l1-de-los-nombres-en-general",
+          "title": {
+            "es-ES": "De los nombres en general"
+          }
+        },
+        {
+          "id": "l1-pimpollo",
+          "title": {
+            "es-ES": "Pimpollo"
+          }
+        },
+        {
+          "id": "l1-faces-de-dios",
+          "title": {
+            "es-ES": "Faces de Dios"
+          }
+        },
+        {
+          "id": "l1-camino",
+          "title": {
+            "es-ES": "Camino"
+          }
+        },
+        {
+          "id": "l1-pastor",
+          "title": {
+            "es-ES": "Pastor"
+          }
+        },
+        {
+          "id": "l1-monte",
+          "title": {
+            "es-ES": "Monte"
+          }
+        },
+        {
+          "id": "l1-padre-del-siglo-futuro",
+          "title": {
+            "es-ES": "Padre del siglo futuro"
+          }
+        }
+      ]
+    },
+    {
+      "id": "libro-2",
+      "title": {
+        "es-ES": "Libro segundo",
+        "en-US": "Book Two",
+        "pt-BR": "Livro segundo"
+      },
+      "children": [
+        {
+          "id": "l2-dedicatoria",
+          "title": {
+            "es-ES": "Dedicatoria"
+          }
+        },
+        {
+          "id": "l2-introduccion",
+          "title": {
+            "es-ES": "Introducción"
+          }
+        },
+        {
+          "id": "l2-brazo-de-dios",
+          "title": {
+            "es-ES": "Brazo de Dios"
+          }
+        },
+        {
+          "id": "l2-rey-de-dios",
+          "title": {
+            "es-ES": "Rey de Dios"
+          }
+        },
+        {
+          "id": "l2-principe-de-paz",
+          "title": {
+            "es-ES": "Príncipe de paz"
+          }
+        },
+        {
+          "id": "l2-esposo",
+          "title": {
+            "es-ES": "Esposo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "libro-3",
+      "title": {
+        "es-ES": "Libro tercero",
+        "en-US": "Book Three",
+        "pt-BR": "Livro terceiro"
+      },
+      "children": [
+        {
+          "id": "l3-dedicatoria",
+          "title": {
+            "es-ES": "Dedicatoria"
+          }
+        },
+        {
+          "id": "l3-introduccion",
+          "title": {
+            "es-ES": "Introducción"
+          }
+        },
+        {
+          "id": "l3-hijo-de-dios",
+          "title": {
+            "es-ES": "Hijo de Dios"
+          }
+        },
+        {
+          "id": "l3-amado",
+          "title": {
+            "es-ES": "Amado"
+          }
+        },
+        {
+          "id": "l3-jesus",
+          "title": {
+            "es-ES": "Jesús"
+          }
+        },
+        {
+          "id": "l3-cordero",
+          "title": {
+            "es-ES": "Cordero"
+          }
+        }
+      ]
+    }
+  ]
+}
