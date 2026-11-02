@@ -1,0 +1,7 @@
+# Letter 567. To Mother Marie Aimée de Blonay
+
+[Annecy] 9 August [1624]. Vive > Jésus!
+
+My true dearest Daughter,—Oh! indeed your letter deeply moved me, and how can I help letting you see that it did? Verily, after I wrote to you I wished I had not done so, fearing lest I might have wounded your heart, any sorrow to which is a sorrow to me. But God, my daughter, has assuredly permitted this for our good and to strengthen ever more the bond of affection that He has created between us, a bond which, if I do not deceive myself, words cannot express. Let us then abide in peace and in trust. Believe me, my true daughter, it would be impossible for me to harbour any suspicion against you any more than I feel you could against me. I confess that on the recital of all I had written to you my heart became sorrowful and with tears I sighed. But that soon passed. I tell you just plainly of my weakness. [Several lines illegible.]
+
+Oh! good and beloved daughter, if you want to comfort me you will blot all that out of your heart, for mine will never be at ease till it sees yours entirely healed. The fact is, in making me your mother, Our Lord has given me so singular an affection for you that nothing could shake it, and, in His goodness, He has given you to me to be the true daughter of my heart, and He alone knows how I prize this gift. Have no doubt about it. Yesterday I wrote to you in answer to your last two letters. My daughter, I belong to you and I love you as mine own heart. Abide in peace. God be praised.

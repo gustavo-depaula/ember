@@ -1,0 +1,11 @@
+# Letter 1051. To Mother Anne Marie Rosset
+
+My dearest Daughter,—This lady whose two daughters you have promised to receive is, I consider, somewhat too imperious in her manner of acting. You ought gently and humbly to say to the Capuchin father who brought you the message that she only wanted a word with you: ‘ Father, Madame had better not take the trouble of coming, since she has only one word to say,’ and make her understand that though we are only poor religious it will be a great blessing for her daughters to belong to our Institute. For, dearest daughter, it is well to let persons of this kind, who think they are conferring a great obligation on our houses by putting their daughters or relatives with us, know that the house obliges them quite as much by receiving subjects with such small dowries as they oblige us by sending them.
+
+Oh, but I am astonished at what you tell me about the novices having so little submission and respect for their mistress. Certainly, if daughters who fail in this way have received the black veil, a great wrong has been done to religion, for they ought not to be professed before they know how to be thoroughly supple in all things; and if they are still novices I advise you to keep them so until they have learnt true submission, and the respect which they owe to those whom God has given them for their guidance. You should often speak to them on this matter, so that they may fully understand the gravity of their fault. It is not necessary to ring the two tolls at the end of Mass: None serves for the sign.
+
+I am very much consoled that our sisters are so dutiful to you, and with such loving solicitude. They are certainly obliged so to be, but I pray you yield to their wishes for your relief, and do not talk any more about doing as the community does. Your inner life is, by God’s doing, one of peace, repose, simplicity, detachment—in a word, a state in which there is nothing at all to do. Adhere to it without entertaining any tnought to the contrary.
+
+I must conclude, for they are calling me. Be assured that I am wholly yours. A thousand salutations to all within and without. God be praised.
+
+P.S.—They are urging us to finish the ‘Answers.’ If you have any questions, send them to us, for we want to put the finishing touch to the book.

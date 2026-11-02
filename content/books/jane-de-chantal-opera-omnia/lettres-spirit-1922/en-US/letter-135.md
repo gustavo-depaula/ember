@@ -1,0 +1,7 @@
+# Letter 1317. To the same
+
+Vive > Jésus!
+
+Oh, what happiness, my true Father, to be thus wholly dedicated and immolated to the sovereign Majesty!
+
+As to your desire to be yet more filled with gratitude to our good God for the exceptional graces He has conferred upon you than you are, it seems to me that His all-seeing eye, penetrating and beholding these graces in your soul, is satisfied that you maintain them there, without worrying or occupying yourself in trying to understand such high things, or seeking to find out the occasions of them; only keep yourself prepared to act in unison with them when His adorable will presents them to you. For I think, for you, the most perfect and profitable thing to do is simply, reverently, and lovingly to bind your heart to the divine Saviour, uniting yourself to the unity of God in singleness and purity of love. The calm thus gained will enable your soul to see with greater clearness the inspirations, motions, lights communicated to it by the Holy Spirit. Try to perform your actions with the utmost piety and perfection, but without constraint or anxiety. When you commit a fault, humble your spirit before God tranquilly and simply and then think no more about it. Our holy Founder, whom you wish to imitate, said that God has not made us angels, so we must put up with the nature of man, and be satisfied with the degree of purity that can be acquired by humanity.

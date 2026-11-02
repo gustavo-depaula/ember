@@ -1,0 +1,11 @@
+# Letter 1877
+
+LETTER 1877 [No date.]
+
+Vive > Jésus!
+
+My very dear Sister and beloved Daughter in Our Lord, —Good and true daughters of the Visitation as I know you all to be, you will, I feel sure, as long as Our Lord leaves me in this miserable life, always give willing ear to all that I tell you the good God deigns to make known to me for the welfare of our little Congregation and the peace and union of our houses in the observance—a peace and union which, within the home, is of all things the most precious, and, without, spreads a sweet odour. I regret to say that we have only too much experience of the trouble and sad deterioration of several of our houses caused by a want of good understanding between the elected superiors and those deposed.1_ This is why I beseech you, I conjure you, in the name of Our Lord, my dearest daughter, you and all those who shall succeed us and who shall be deposed in our houses, faithfully to observe what is ordained in the ‘ Book of Customs,’ keeping to a holy liberty and sincere mutual confidence, for such tends only to the glory of God, to exact observance, and to the advancement of the sisters in perfection. Now to come to practical methods: I am of opinion that unless there is absolute necessity, and generally speaking, the sister Déposée must be left for one entire year without any special employment except, as the Rule says, that of counsellor to the new superior, who will do wisely humbly to take her advice on occasions and avail herself of her assistance according to her wants. The Déposée should not, however, exact this, much less show annoyance or complain when it is not required of her, for the superior ought to be left, as the Constitution says, absolute liberty of action in her charge.
+
+My God! how happy we should be if we said with all our hearts these words: ‘I resign and give up my charge of Superior,’ etc., and then, having heard these others: ‘The Congregation discharges you in the name of the Father and of the Son and of the Holy Ghost,’ held ourselves, as we are bound to do, like unto one who had not governed the house, free and exempt from all care thereof, unless the superior employs us, when, whatever the employment may be, we should give ourselves to it with promptitude and humility.[^1]
+
+[^1]: See note to Letter 1576.

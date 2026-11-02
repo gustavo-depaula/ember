@@ -1,0 +1,5 @@
+# Letter 821. To Mother Marie Jacqueline Favre
+
+My poor dearest Grande fille,—It is a long time since I have written to you, but I cannot let M. Michel [Favre] go without sending you my most loving greetings. Here we are ready to start for Orleans, from whence M. Michel will return this evening, and also from Blois. He is quite pleased and well content with the petting of our good sisters, whom he finds so much to his liking. He tells me they require a very capable Superior at Orleans, that the sisters there are fine women, and that that foundation is a big project. Weshallsee, please God, what Paris can do, and will send you all news. Let me likewise have yours, dearest daughter, and that of our dear sisters whom I love so well. My affectionate greetings to you and to them. I pray God to make you all holy. Our sisters of have much virtue and a good spirit. A widow of excellent dispositions has come here, one fit to be Superior, and I think she will be, although she is but twenty-four: but we can get a dispensation from the Archbishop.
+
+Adieu, my true and most dear daughter. May God be your All. [I remain in Him, etc.

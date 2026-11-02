@@ -1,0 +1,11 @@
+# Letter 355. To Mother Mane Aimée de Blonay
+
+To Mother Mane Aimée de Blonay, Temporary Superior and Assistant at Lyons. [Paris] 7 December, 1621. Vive >K Jésus!
+
+I have not yet seen the bearers of your letter, as they arrived during the sermon. Who is this Madame Desmoulins, my dearest daughter? I cannot remember her, but I salute her affectionately; and, from what you tell me of her, I esteem her with all my heart. Yes, I have seen the letter of the good religious, but she cannot enter amongst us without a Papal dispensation; and as she has lived so long in another religious Order the matter ought to be well considered, for it is often very hard for such to
+
+H change their habits and mode of life. We could not receive her in this town, our house being full, and a great many aspirants are anxious to enter. If I had leisure I would indeed most willingly write to your dear father, M. de Saint- Nizier, for I have an affectionate respect for him. He is a true servant of God to whom we owe a great deal.
+
+No, my daughter, I have not spoken of your affairs to the Archbishop: he is not always easy of approach; but God will help us, and, if you take my word for it, you will be satisfied with speaking of your affairs to the good M. de Saint-Nizier, unless on occasions when you have to refer to the Bishop. Leave that good Madame de Boissieux alone, since she will not believe you; for having no capable subjects for the enterprise, as M. de Maussac told me, what would be the use of your undertaking it? I expect, please God, to leave here about the beginning of Lent, so we must have patience until then. Your Sister Anne Louise de Villars will, I think, do very well if they wish to give her for Montferrand.
+
+Who doubts, my very dear daughter, but that the sisters who hold offices ought to be changed, above all when one sees them attached to their charges. Oh! there must be no pampering of such weaknesses, softnesses, and attachments. I am in admiration at the pliableness of the sisters of this house, and praise God for it. Believe me, I do not bring them up softly, and consequently we can make any use we like of them without the least difficulty. Write boldly and with confidence to M. Vincent. Adieu, my daughter. May God bless you and your dear flock, and may He be for ever blessed. Amen.

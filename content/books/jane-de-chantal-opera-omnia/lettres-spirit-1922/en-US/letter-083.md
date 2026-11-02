@@ -1,0 +1,11 @@
+# Letter 816. To Mother Mane Aimée de Blonay
+
+My very dear Daughter,—They did indeed give me a warm welcome at Saint-Etienne! I found there a great fidelity in exterior observance, but the spirit is somewhat too tight and constrained; anyhow we have enlarged it a little. Another fortnight to instruct and elucidate many points would, I feel sure, be of great service to them, and they shall have it on our return if I can manage it; for truly these daughters deserve to be very carefully trained, they are so good and upright. I have frankly told the Mother [Francoise Jéronyme de Villette] that they are not receiving sufficient instruction, and she is of opinion that the fault still lies partly with the novitiate, which, with such good subjects, can be easily remedied. Oh! no doubt about it, dearest daughter, it is not every virtuous soul that has the capacity to lead others.
+
+Poor little Sister Mary Frances will find it difficult to overcome her love of change. She says the hope of a change is meat and drink to her. However, she has promised me to leave it in Our Lord’s hands and stop thinking; for she has grown quite thin over it, and has lost her spirits.
+
+I have not forgotten anything that I should say to the good Mother. She tells me that she feels very much—and I can see this is so—that you do not treat her in your letters with the same cordiality as the others. Don’t let this go on, but without letting her know that I have told you.
+
+Neither Sister Mary Frances nor the Mistress of Novices is to my mind very suitable to succeed her. There is a young sister who has good talent, but she is young both in age and in religion. If I am able and they wish it we will help them. Urge on a little our Sister Superior of Annecy about the ‘Conferences,’ which are in the hands of M. de Thorens. When you get them, read them at leisure, and note if anything ought to be added to the sermons and counsels of our Blessed Father.
+
+You cannot imagine, my very dear daughter, what a cordial welcome the Count de Vienne has given us. He is extremely kind. Let him know, I beg of you, how grateful we feel. I was sorry to have seen so little of M. de la Faye, and I forgot to ask him to write to M. Duplont and give him a free hand in helping the sisters as far as the Rules and Constitutions allow.

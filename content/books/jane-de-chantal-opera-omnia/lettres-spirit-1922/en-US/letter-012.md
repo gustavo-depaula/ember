@@ -1,0 +1,7 @@
+# Letter 121. To Mother Mary Jacqueline Favre
+
+Perhaps these letters, which I beg of you to send to Moulins, will arrive too late, and Sister de Gouffier will have already started. Nevertheless do the best you can; we must leave it all in the hands of divine Providence. How it consoles me, dearest daughter, to know that my dear nephew has been to see you, as much for your consolation as for ours! for he will now be able to give us all your news, and I long to know it more fully. Have you none about the Archbishop [of Lyons], and is there not any means of getting to know, without delay, through the intervention of some one or other, whether or no our affairs are progressing? For we are quite resolved to see an end put to the business and to send a very worthy and devoted solicitor, who, we are sure, will, with the help of God, settle our affairs quickly and to our satisfaction. We have only time now for this note. If Sister de Gouffier goes through Lyons, introduce her to Madame Austrain, in case the latter may wish her to bring back her daughter; if not, we will keep her until Easter. She is doing a little better with her new mistress: Sister Mary Adrienne [Fichet] keeps a strict hand over her. Truly our affection for the memory of the deceased? makes us wish to do all in our power for her.
+
+A thousand salutations to our dearest daughters. I hope they will excuse me, though they are too good for me to need to use this word.
+
+Adieu, dear daughter. God be praised!

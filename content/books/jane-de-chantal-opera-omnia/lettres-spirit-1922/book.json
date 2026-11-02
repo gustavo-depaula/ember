@@ -1,0 +1,1552 @@
+{
+  "id": "chantal-lettres-spirit-1922",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Spirit of St. Jane Frances de Chantal as shown by her Letters (Harrow, 1922)",
+    "pt-BR": "O espírito de santa Joana Francisca de Chantal nas suas cartas (Harrow, 1922)"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "en-US": "A second selection of the letters of St. Jane Frances de Chantal in English, translated from the Plon edition by the Sisters of the Visitation, Harrow-on-the-Hill, numbered as in Plon: to St. Francis de Sales, her daughters in religion, her family and the great of her day.",
+    "pt-BR": "Segunda seleção das cartas de santa Joana Francisca de Chantal em inglês, traduzidas da edição Plon pelas Irmãs da Visitação de Harrow-on-the-Hill, com a numeração de Plon."
+  },
+  "composed": "1604–1641",
+  "languages": [
+    "en-US"
+  ],
+  "work": "jane-de-chantal/lettres",
+  "editions": {
+    "en-US": {
+      "translator": "Sisters of the Visitation, Harrow-on-the-Hill",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/spiritofsaintjan0000vari",
+      "edition": "The Spirit of Saint Jane Frances de Chantal as shown by her Letters, tr. the Sisters of the Visitation, Harrow-on-the-Hill, preface by Cardinal Bourne, Longmans, Green, London, 1922. Archive.org OCR.",
+      "description": "Letters only (the preface, the extracts on the Saint’s temptations, the two appendices and the index are left out). OCR cleaned by script; letter numbers follow the Plon numbering where the OCR kept them, and a heading without a number could not be read.",
+      "tier": "A",
+      "tierEvidence": "Published London 1922."
+    }
+  ],
+  "toc": [
+    {
+      "id": "letter-001",
+      "title": {
+        "en-US": "Letter 10. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-002",
+      "title": {
+        "en-US": "Letter 11. To the same"
+      }
+    },
+    {
+      "id": "letter-003",
+      "title": {
+        "en-US": "Letter 12. To the same"
+      }
+    },
+    {
+      "id": "letter-004",
+      "title": {
+        "en-US": "Letter 20. To Sister Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-005",
+      "title": {
+        "en-US": "Letter 39. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-006",
+      "title": {
+        "en-US": "Letter 49. To Mother Marie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-007",
+      "title": {
+        "en-US": "Letter 58. To the same"
+      }
+    },
+    {
+      "id": "letter-008",
+      "title": {
+        "en-US": "Letter 83. To the same"
+      }
+    },
+    {
+      "id": "letter-009",
+      "title": {
+        "en-US": "Letter 84. To the same"
+      }
+    },
+    {
+      "id": "letter-010",
+      "title": {
+        "en-US": "Letter 94. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-011",
+      "title": {
+        "en-US": "Letter 112. To the same"
+      }
+    },
+    {
+      "id": "letter-012",
+      "title": {
+        "en-US": "Letter 121. To Mother Mary Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-013",
+      "title": {
+        "en-US": "Letter 157. To Mother Péronne Marie de Chatel"
+      }
+    },
+    {
+      "id": "letter-014",
+      "title": {
+        "en-US": "Letter 171. To Mother Marnie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-015",
+      "title": {
+        "en-US": "Letter 181. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-016",
+      "title": {
+        "en-US": "Letter 184. To the same"
+      }
+    },
+    {
+      "id": "letter-017",
+      "title": {
+        "en-US": "Letter 186. To the same"
+      }
+    },
+    {
+      "id": "letter-018",
+      "title": {
+        "en-US": "Letter 189. To Mother Marnie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-019",
+      "title": {
+        "en-US": "Letter 192. To the same"
+      }
+    },
+    {
+      "id": "letter-020",
+      "title": {
+        "en-US": "Letter 195. To Mother Péronne Marie de Chatel"
+      }
+    },
+    {
+      "id": "letter-021",
+      "title": {
+        "en-US": "Letter 197. To the same"
+      }
+    },
+    {
+      "id": "letter-022",
+      "title": {
+        "en-US": "Letter 202. To the Reverend Mother M. de la Tnnité,?"
+      }
+    },
+    {
+      "id": "letter-023",
+      "title": {
+        "en-US": "Letter 210. To Mother Mane Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-024",
+      "title": {
+        "en-US": "Letter 211. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-025",
+      "title": {
+        "en-US": "Letter 219. To Mother Mane Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-026",
+      "title": {
+        "en-US": "Letter 222. To M. Michel Favre"
+      }
+    },
+    {
+      "id": "letter-027",
+      "title": {
+        "en-US": "Letter 224. To Mother Mane Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-028",
+      "title": {
+        "en-US": "Letter 228. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-029",
+      "title": {
+        "en-US": "Letter 232. To the same"
+      }
+    },
+    {
+      "id": "letter-030",
+      "title": {
+        "en-US": "Letter 236. To Mother Péronne Marie de Chatel"
+      }
+    },
+    {
+      "id": "letter-031",
+      "title": {
+        "en-US": "Letter 238. To Madame du Terire"
+      }
+    },
+    {
+      "id": "letter-032",
+      "title": {
+        "en-US": "Letter 241. To Mother Anne Marie Rosset"
+      }
+    },
+    {
+      "id": "letter-033",
+      "title": {
+        "en-US": "Letter 243. To Mademoiselle de Chantal"
+      }
+    },
+    {
+      "id": "letter-034",
+      "title": {
+        "en-US": "Letter 245. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-035",
+      "title": {
+        "en-US": "Letter 259. To the same"
+      }
+    },
+    {
+      "id": "letter-036",
+      "title": {
+        "en-US": "Letter 265. To Mother Mane Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-037",
+      "title": {
+        "en-US": "Letter 266. To M. de Palierne"
+      }
+    },
+    {
+      "id": "letter-038",
+      "title": {
+        "en-US": "Letter 279. To Madame du Tertre"
+      }
+    },
+    {
+      "id": "letter-039",
+      "title": {
+        "en-US": "Letter 280. To Sister Marie Aimée de Morville"
+      }
+    },
+    {
+      "id": "letter-040",
+      "title": {
+        "en-US": "Letter 283. To Mother Marnie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-041",
+      "title": {
+        "en-US": "Letter 285. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-042",
+      "title": {
+        "en-US": "Letter 312. To Mother Anne Mane Rosset"
+      }
+    },
+    {
+      "id": "letter-043",
+      "title": {
+        "en-US": "Letter 317. To the same"
+      }
+    },
+    {
+      "id": "letter-044",
+      "title": {
+        "en-US": "Letter 319. To Mother Marie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-045",
+      "title": {
+        "en-US": "Letter 324. To Sister Frangotse Gabrielle Bally"
+      }
+    },
+    {
+      "id": "letter-046",
+      "title": {
+        "en-US": "Letter 329. To Mother Claude Agnes Joly de la Roche"
+      }
+    },
+    {
+      "id": "letter-047",
+      "title": {
+        "en-US": "Letter 334. To Saint Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-048",
+      "title": {
+        "en-US": "Letter 337. To Mother Mane Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-049",
+      "title": {
+        "en-US": "Letter 339. To Mother Anne Marie Rosset"
+      }
+    },
+    {
+      "id": "letter-050",
+      "title": {
+        "en-US": "Letter 340. To Sister Marnie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-051",
+      "title": {
+        "en-US": "Letter 344. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-052",
+      "title": {
+        "en-US": "Letter 346. To Mother Anne Mane Rosset"
+      }
+    },
+    {
+      "id": "letter-053",
+      "title": {
+        "en-US": "Letter 349. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-054",
+      "title": {
+        "en-US": "Letter 354. To the same"
+      }
+    },
+    {
+      "id": "letter-055",
+      "title": {
+        "en-US": "Letter 355. To Mother Mane Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-056",
+      "title": {
+        "en-US": "Letter 356. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-057",
+      "title": {
+        "en-US": "Letter 459. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-058",
+      "title": {
+        "en-US": "Letter 462. To Mother Mane Héléne de Chastelleux"
+      }
+    },
+    {
+      "id": "letter-059",
+      "title": {
+        "en-US": "Letter 474. To the same"
+      }
+    },
+    {
+      "id": "letter-060",
+      "title": {
+        "en-US": "Letter 475. To Sister Marie Aimée de Morville"
+      }
+    },
+    {
+      "id": "letter-061",
+      "title": {
+        "en-US": "Letter 478. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-062",
+      "title": {
+        "en-US": "Letter 485. To Sister Marie Aimée de Morville"
+      }
+    },
+    {
+      "id": "letter-063",
+      "title": {
+        "en-US": "Letter 496. To Mother Anne Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "letter-064",
+      "title": {
+        "en-US": "Letter 505. To Mother Marie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-065",
+      "title": {
+        "en-US": "Letter 506. To Madame de Vigny}"
+      }
+    },
+    {
+      "id": "letter-066",
+      "title": {
+        "en-US": "Letter 532. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-067",
+      "title": {
+        "en-US": "Letter 536. To M. Michel Favre"
+      }
+    },
+    {
+      "id": "letter-068",
+      "title": {
+        "en-US": "Letter 550. To the Reverend Pére de la Riviere"
+      }
+    },
+    {
+      "id": "letter-069",
+      "title": {
+        "en-US": "Letter 559. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-070",
+      "title": {
+        "en-US": "Letter 566. To Mother Paule Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "letter-071",
+      "title": {
+        "en-US": "Letter 567. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-072",
+      "title": {
+        "en-US": "Letter 577. To the same"
+      }
+    },
+    {
+      "id": "letter-073",
+      "title": {
+        "en-US": "Letter 588. To Sister Marie Francoise de Livron"
+      }
+    },
+    {
+      "id": "letter-074",
+      "title": {
+        "en-US": "Letter 599. To the same"
+      }
+    },
+    {
+      "id": "letter-075",
+      "title": {
+        "en-US": "Letter 668. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-076",
+      "title": {
+        "en-US": "Letter 678. To the same"
+      }
+    },
+    {
+      "id": "letter-077",
+      "title": {
+        "en-US": "Letter 704. To Mother Marie Adrienne Fichet"
+      }
+    },
+    {
+      "id": "letter-078",
+      "title": {
+        "en-US": "Letter 780. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-079",
+      "title": {
+        "en-US": "Letter 782. To the same"
+      }
+    },
+    {
+      "id": "letter-080",
+      "title": {
+        "en-US": "Letter 786. To the same"
+      }
+    },
+    {
+      "id": "letter-081",
+      "title": {
+        "en-US": "Letter 808. To the Baroness de Chantal,1"
+      }
+    },
+    {
+      "id": "letter-082",
+      "title": {
+        "en-US": "Letter 811. To Monseigneur Sébastien Zamet"
+      }
+    },
+    {
+      "id": "letter-083",
+      "title": {
+        "en-US": "Letter 816. To Mother Mane Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-084",
+      "title": {
+        "en-US": "Letter 819. To the same"
+      }
+    },
+    {
+      "id": "letter-085",
+      "title": {
+        "en-US": "Letter 820. To Mother Mane Francoise Humbert"
+      }
+    },
+    {
+      "id": "letter-086",
+      "title": {
+        "en-US": "Letter 821. To Mother Marie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-087",
+      "title": {
+        "en-US": "Letter 835. To the same"
+      }
+    },
+    {
+      "id": "letter-088",
+      "title": {
+        "en-US": "Letter 836. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-089",
+      "title": {
+        "en-US": "Letter 838. To the same"
+      }
+    },
+    {
+      "id": "letter-090",
+      "title": {
+        "en-US": "Letter 839. To Mother Mane Héléne de Chastellux"
+      }
+    },
+    {
+      "id": "letter-091",
+      "title": {
+        "en-US": "Letter 851. To Mother Marie Aimée de Blonay, Superior of"
+      }
+    },
+    {
+      "id": "letter-092",
+      "title": {
+        "en-US": "Letter 856. To Monseigneur Sébastien Zamet"
+      }
+    },
+    {
+      "id": "letter-093",
+      "title": {
+        "en-US": "Letter 858. To Mother Anne Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "letter-094",
+      "title": {
+        "en-US": "Letter 859. To Mother Mane Aimée de Blonay, Superior of"
+      }
+    },
+    {
+      "id": "letter-095",
+      "title": {
+        "en-US": "Letter 860. To the same"
+      }
+    },
+    {
+      "id": "letter-096",
+      "title": {
+        "en-US": "Letter 867. To the Rev. Pére Maillan, Jesumt"
+      }
+    },
+    {
+      "id": "letter-097",
+      "title": {
+        "en-US": "Letter 868. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-098",
+      "title": {
+        "en-US": "Letter 869. To Mother Catherine Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "letter-099",
+      "title": {
+        "en-US": "Letter 886. To Mother Mane Jacqueline Favre, Superior of"
+      }
+    },
+    {
+      "id": "letter-100",
+      "title": {
+        "en-US": "Letter 888. To Mother Claude Agnes de la Roche"
+      }
+    },
+    {
+      "id": "letter-101",
+      "title": {
+        "en-US": "Letter 890. To Mother Catherine Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "letter-102",
+      "title": {
+        "en-US": "Letter 906. To Mother Paule Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "letter-103",
+      "title": {
+        "en-US": "Letter 918. To Mother Marnie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-104",
+      "title": {
+        "en-US": "Letter 929. To Monseigneur de Revol, Bishop of"
+      }
+    },
+    {
+      "id": "letter-105",
+      "title": {
+        "en-US": "Letter 975. To Mother Anne Marie Rosset"
+      }
+    },
+    {
+      "id": "letter-106",
+      "title": {
+        "en-US": "Letter 982. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-107",
+      "title": {
+        "en-US": "Letter 985. To Mother Anne Marguerite Clément,+"
+      }
+    },
+    {
+      "id": "letter-108",
+      "title": {
+        "en-US": "Letter 997. To Monseigneur Sébastien Zamet"
+      }
+    },
+    {
+      "id": "letter-109",
+      "title": {
+        "en-US": "Letter 1008. To Sister Anne Baptiste Chauvel"
+      }
+    },
+    {
+      "id": "letter-110",
+      "title": {
+        "en-US": "Letter 1014. To Monseigneur Alph. Louis du Plessis-Richelieu,1"
+      }
+    },
+    {
+      "id": "letter-111",
+      "title": {
+        "en-US": "Letter 1029. To Sister Anne Catherine de Sautereau"
+      }
+    },
+    {
+      "id": "letter-112",
+      "title": {
+        "en-US": "Letter 1051. To Mother Anne Marie Rosset"
+      }
+    },
+    {
+      "id": "letter-113",
+      "title": {
+        "en-US": "Letter 1058. To Mother Mane Marguerite Michel"
+      }
+    },
+    {
+      "id": "letter-114",
+      "title": {
+        "en-US": "Letter 1062. To Mother Anne Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "letter-115",
+      "title": {
+        "en-US": "Letter 1069. To the Assistant and Religious of the"
+      }
+    },
+    {
+      "id": "letter-116",
+      "title": {
+        "en-US": "Letter 1074. To Mother Marie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-117",
+      "title": {
+        "en-US": "Letter 1109. To the same"
+      }
+    },
+    {
+      "id": "letter-118",
+      "title": {
+        "en-US": "Letter 1111. To Mother Marie Constance de Bressand"
+      }
+    },
+    {
+      "id": "letter-119",
+      "title": {
+        "en-US": "Letter 1131. To Sister Marie Thérése de Labeau,s"
+      }
+    },
+    {
+      "id": "letter-120",
+      "title": {
+        "en-US": "Letter 1140. To the Reverend Mother Marie de la Trimté"
+      }
+    },
+    {
+      "id": "letter-121",
+      "title": {
+        "en-US": "Letter 1141. To Sister Mane Thérése de Labeau"
+      }
+    },
+    {
+      "id": "letter-122",
+      "title": {
+        "en-US": "Letter 1143. To Mother Marie Jacqueline Favre"
+      }
+    },
+    {
+      "id": "letter-123",
+      "title": {
+        "en-US": "Letter. To M. Noé Brulart, Commander de Sillery"
+      }
+    },
+    {
+      "id": "letter-124",
+      "title": {
+        "en-US": "Letter. To the same"
+      }
+    },
+    {
+      "id": "letter-125",
+      "title": {
+        "en-US": "Letter 1180. To Mother Louise Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "letter-126",
+      "title": {
+        "en-US": "Letter. To Sister Marie Agnes de Bauffremont,}"
+      }
+    },
+    {
+      "id": "letter-127",
+      "title": {
+        "en-US": "Letter 1205. To the Duchess de Montmorency"
+      }
+    },
+    {
+      "id": "letter-128",
+      "title": {
+        "en-US": "Letter 1207. To Mother Mane Marguerite Michel"
+      }
+    },
+    {
+      "id": "letter-129",
+      "title": {
+        "en-US": "Letter 1219. To Mother Mane Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-130",
+      "title": {
+        "en-US": "Letter 1248. To M. Noél Brulart, Commander de Siilery"
+      }
+    },
+    {
+      "id": "letter-131",
+      "title": {
+        "en-US": "Letter 1282. To Mother Louise Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "letter-132",
+      "title": {
+        "en-US": "Letter 1286. To the Reverend Mother Mane de la Trinité"
+      }
+    },
+    {
+      "id": "letter-133",
+      "title": {
+        "en-US": "Letter 1291. To His Royal Highness Victor Amadeus"
+      }
+    },
+    {
+      "id": "letter-134",
+      "title": {
+        "en-US": "Letter. To St. Vincent de Paul, at Pans"
+      }
+    },
+    {
+      "id": "letter-135",
+      "title": {
+        "en-US": "Letter 1317. To the same"
+      }
+    },
+    {
+      "id": "letter-136",
+      "title": {
+        "en-US": "Letter 1320. To Mother Jeanne Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "letter-137",
+      "title": {
+        "en-US": "Letter 1321. To Mother Marie Angéhque de Bigny"
+      }
+    },
+    {
+      "id": "letter-138",
+      "title": {
+        "en-US": "Letter 1336. To M. Noé Brulart, Commander de Sillery"
+      }
+    },
+    {
+      "id": "letter-139",
+      "title": {
+        "en-US": "Letter 1337. To Mademoiselle de la Fléchére,+"
+      }
+    },
+    {
+      "id": "letter-140",
+      "title": {
+        "en-US": "Letter 1338. To Madame de Toulonjon, the Saint’s Daughter"
+      }
+    },
+    {
+      "id": "letter-141",
+      "title": {
+        "en-US": "Letter 1356. To Mother Frangoise Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "letter-142",
+      "title": {
+        "en-US": "Letter 1364. To Mother Anne Marguerite Guérin"
+      }
+    },
+    {
+      "id": "letter-143",
+      "title": {
+        "en-US": "Letter 1369. To Mother Marie Jacqueline Favre, at the"
+      }
+    },
+    {
+      "id": "letter-144",
+      "title": {
+        "en-US": "Letter 1376. To Mother Marie Marguerite Balland"
+      }
+    },
+    {
+      "id": "letter-145",
+      "title": {
+        "en-US": "Letter 1420. To Mother Péronne Marie de Chaitel"
+      }
+    },
+    {
+      "id": "letter-146",
+      "title": {
+        "en-US": "Letter 1427. To Mother Louise Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "letter-147",
+      "title": {
+        "en-US": "Letter 1432. To Mother Francoise Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "letter-148",
+      "title": {
+        "en-US": "Letter 1439. To the Reverend Mother Marie de la Trinité"
+      }
+    },
+    {
+      "id": "letter-149",
+      "title": {
+        "en-US": "Letter 1441. To a Community of the Visitation"
+      }
+    },
+    {
+      "id": "letter-150",
+      "title": {
+        "en-US": "Letter 1450. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-151",
+      "title": {
+        "en-US": "Letter 1458. To a great Servant of God.4"
+      }
+    },
+    {
+      "id": "letter-152",
+      "title": {
+        "en-US": "Letter 1464. To M. Noé Brulart, Commander de Sillery"
+      }
+    },
+    {
+      "id": "letter-153",
+      "title": {
+        "en-US": "Letter 1483. To Mother Marie Henriette de Prunelay"
+      }
+    },
+    {
+      "id": "letter-154",
+      "title": {
+        "en-US": "Letter 1507. To the Rev. Mother Perrucard de Ballon"
+      }
+    },
+    {
+      "id": "letter-155",
+      "title": {
+        "en-US": "Letter 1510. To Mother Catherine Elizabeth de la Tour"
+      }
+    },
+    {
+      "id": "letter-156",
+      "title": {
+        "en-US": "Letter 1518. To a great Servant of God"
+      }
+    },
+    {
+      "id": "letter-157",
+      "title": {
+        "en-US": "Letter 1520. To Madame Matilde of Savoy,?"
+      }
+    },
+    {
+      "id": "letter-158",
+      "title": {
+        "en-US": "Letter 1533. To a Religious"
+      }
+    },
+    {
+      "id": "letter-159",
+      "title": {
+        "en-US": "Letter 1542. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-160",
+      "title": {
+        "en-US": "Letter 1543. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-161",
+      "title": {
+        "en-US": "Letter 1551. To Mother Marie de la Trinité"
+      }
+    },
+    {
+      "id": "letter-162",
+      "title": {
+        "en-US": "Letter 1566"
+      }
+    },
+    {
+      "id": "letter-163",
+      "title": {
+        "en-US": "Letter 1567. To Mother Mane Henriette de Prunelay"
+      }
+    },
+    {
+      "id": "letter-164",
+      "title": {
+        "en-US": "Letter 1570. To M. Noé Brulart, Commander de Sillery"
+      }
+    },
+    {
+      "id": "letter-165",
+      "title": {
+        "en-US": "Letter 1573. To Monseigneur Octave de Bellegarde"
+      }
+    },
+    {
+      "id": "letter-166",
+      "title": {
+        "en-US": "Letter 1576. To Sister Louise Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "letter-167",
+      "title": {
+        "en-US": "Letter 1578. To Sister Marie-Suzanne Duret"
+      }
+    },
+    {
+      "id": "letter-168",
+      "title": {
+        "en-US": "Letter 1583. To Mother Marie Aimée de Rabutin"
+      }
+    },
+    {
+      "id": "letter-169",
+      "title": {
+        "en-US": "Letter. To Mother Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "letter-170",
+      "title": {
+        "en-US": "Letter 1595. To Mother Marie Aimée de Rabutin"
+      }
+    },
+    {
+      "id": "letter-171",
+      "title": {
+        "en-US": "Letter 1604. To Sister Francoise Angélique de la Pesse,+"
+      }
+    },
+    {
+      "id": "letter-172",
+      "title": {
+        "en-US": "Letter 1606. To Mother Héléne Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "letter-173",
+      "title": {
+        "en-US": "Letter 1617. To Mother Madeleine Elisabeth de Lucinge"
+      }
+    },
+    {
+      "id": "letter-174",
+      "title": {
+        "en-US": "Letter 1618. To Mother Paule Jévonyme Favrot"
+      }
+    },
+    {
+      "id": "letter-175",
+      "title": {
+        "en-US": "Letter 1620. To M. Noél Brulart, Commander de Siullery"
+      }
+    },
+    {
+      "id": "letter-176",
+      "title": {
+        "en-US": "Letter 1621. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-177",
+      "title": {
+        "en-US": "Letter 1622. To Sister Anne Francoise Bourgeat"
+      }
+    },
+    {
+      "id": "letter-178",
+      "title": {
+        "en-US": "Letter 1625. To Mother Marie Jacqueline Favre,» Superior of the Com-"
+      }
+    },
+    {
+      "id": "letter-179",
+      "title": {
+        "en-US": "Letter 1626. To Mother Marie Aimée de Rabutin"
+      }
+    },
+    {
+      "id": "letter-180",
+      "title": {
+        "en-US": "Letter 1628. To Sister Anne Marie Bollain"
+      }
+    },
+    {
+      "id": "letter-181",
+      "title": {
+        "en-US": "Letter 1635. To the Reverend Pére de Condren"
+      }
+    },
+    {
+      "id": "letter-182",
+      "title": {
+        "en-US": "Letter 1646. To Sister Louise Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "letter-183",
+      "title": {
+        "en-US": "Letter 1653. To Mother Héléne Francoise Belin"
+      }
+    },
+    {
+      "id": "letter-184",
+      "title": {
+        "en-US": "Letter 1658. To St. Vincent de Paul"
+      }
+    },
+    {
+      "id": "letter-185",
+      "title": {
+        "en-US": "Letter 1661. To Mother Anne Thérése de Préchonnet"
+      }
+    },
+    {
+      "id": "letter-186",
+      "title": {
+        "en-US": "Letter 1677. To Mother Anne Louise de Marin de Saint-Michel"
+      }
+    },
+    {
+      "id": "letter-187",
+      "title": {
+        "en-US": "Letter 1685. To Mother Madeleine Elisabeth de Maupeou,}"
+      }
+    },
+    {
+      "id": "letter-188",
+      "title": {
+        "en-US": "Letter 1697. To M. Noél Brulart, Commander de Sillery"
+      }
+    },
+    {
+      "id": "letter-189",
+      "title": {
+        "en-US": "Letter 1699. To Mother Marie Aimée de Rabutin"
+      }
+    },
+    {
+      "id": "letter-190",
+      "title": {
+        "en-US": "Letter 1702. To Mother Marie Suzanne Lescalopier,}"
+      }
+    },
+    {
+      "id": "letter-191",
+      "title": {
+        "en-US": "Letter 1703. To Mother Marie Suzanne Baudet"
+      }
+    },
+    {
+      "id": "letter-192",
+      "title": {
+        "en-US": "Letter 1705. To Mother Anne Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "letter-193",
+      "title": {
+        "en-US": "Letter 1707. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-194",
+      "title": {
+        "en-US": "Letter 1721. To Mother Marie Augustine d’ Avoust"
+      }
+    },
+    {
+      "id": "letter-195",
+      "title": {
+        "en-US": "Letter 1722. To Sister Jeanne Agnes Provenchére"
+      }
+    },
+    {
+      "id": "letter-196",
+      "title": {
+        "en-US": "Letter 1723. To Mother Barbe Mane Bouvart"
+      }
+    },
+    {
+      "id": "letter-197",
+      "title": {
+        "en-US": "Letter 1738. To the Reverend Mother Marie de la Trimté"
+      }
+    },
+    {
+      "id": "letter-198",
+      "title": {
+        "en-US": "Letter 1745. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-199",
+      "title": {
+        "en-US": "Letter 1750. To Mother Jeanne Sévaphine de Chamousset"
+      }
+    },
+    {
+      "id": "letter-200",
+      "title": {
+        "en-US": "Letter 1752. To Mother Marie Aimée de Rabutin"
+      }
+    },
+    {
+      "id": "letter-201",
+      "title": {
+        "en-US": "Letter 1755. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-202",
+      "title": {
+        "en-US": "Letter 1756. To Mother Claire Madeleine de Pierre"
+      }
+    },
+    {
+      "id": "letter-203",
+      "title": {
+        "en-US": "Letter 1758. To Sister Marie Suzanne Duret"
+      }
+    },
+    {
+      "id": "letter-204",
+      "title": {
+        "en-US": "Letter 1766. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-205",
+      "title": {
+        "en-US": "Letter 1775. To Mother Anne Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "letter-206",
+      "title": {
+        "en-US": "Letter 1777. To Mother Barbe Marie Bouvart"
+      }
+    },
+    {
+      "id": "letter-207",
+      "title": {
+        "en-US": "Letter 1783. To Monseigneur J. J. de Neuchéze"
+      }
+    },
+    {
+      "id": "letter-208",
+      "title": {
+        "en-US": "Letter 1786. To Mother Marie Elisabeth Guérard"
+      }
+    },
+    {
+      "id": "letter-209",
+      "title": {
+        "en-US": "Letter 1788. To Mother Madeleine Elisabeth de Lucinge"
+      }
+    },
+    {
+      "id": "letter-210",
+      "title": {
+        "en-US": "Letter 1789. To Sister Marie Madeleine de Granieu"
+      }
+    },
+    {
+      "id": "letter-211",
+      "title": {
+        "en-US": "Letter 1800. To Mother Louise Eugénie de Fontaine"
+      }
+    },
+    {
+      "id": "letter-212",
+      "title": {
+        "en-US": "Letter 1805. To M. Chaudon"
+      }
+    },
+    {
+      "id": "letter-213",
+      "title": {
+        "en-US": "Letter 1812. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-214",
+      "title": {
+        "en-US": "Letter 1816. To a Superior of the Visitation"
+      }
+    },
+    {
+      "id": "letter-215",
+      "title": {
+        "en-US": "Letter 1817. To Mother Madeleine Elisabeth de Lucinge"
+      }
+    },
+    {
+      "id": "letter-216",
+      "title": {
+        "en-US": "Letter 1821. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-217",
+      "title": {
+        "en-US": "Letter 1822. To the same"
+      }
+    },
+    {
+      "id": "letter-218",
+      "title": {
+        "en-US": "Letter 1824. To the same"
+      }
+    },
+    {
+      "id": "letter-219",
+      "title": {
+        "en-US": "Letter 1825. To the same"
+      }
+    },
+    {
+      "id": "letter-220",
+      "title": {
+        "en-US": "Letter 1827. To Mother Francoise Madeleine Ariste1 and to"
+      }
+    },
+    {
+      "id": "letter-221",
+      "title": {
+        "en-US": "Letter 1828. To Mother Marie Armée de Blonay"
+      }
+    },
+    {
+      "id": "letter-222",
+      "title": {
+        "en-US": "Letter 1830. To Sister Frangoise Madeleine de Chaugy,}"
+      }
+    },
+    {
+      "id": "letter-223",
+      "title": {
+        "en-US": "Letter 1834. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-224",
+      "title": {
+        "en-US": "Letter 1839. To Mother Marnie Augustine @ Avoust"
+      }
+    },
+    {
+      "id": "letter-225",
+      "title": {
+        "en-US": "Letter 1850. To Mother Mane Héléne de Chastellux"
+      }
+    },
+    {
+      "id": "letter-226",
+      "title": {
+        "en-US": "Letter 1851. To Mother Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-227",
+      "title": {
+        "en-US": "Letter 1852"
+      }
+    },
+    {
+      "id": "letter-228",
+      "title": {
+        "en-US": "Letter 1854. To a Bishop"
+      }
+    },
+    {
+      "id": "letter-229",
+      "title": {
+        "en-US": "Letter 1864. To a Community of the Visitation"
+      }
+    },
+    {
+      "id": "letter-230",
+      "title": {
+        "en-US": "Letter 1866"
+      }
+    },
+    {
+      "id": "letter-231",
+      "title": {
+        "en-US": "Letter 1868"
+      }
+    },
+    {
+      "id": "letter-232",
+      "title": {
+        "en-US": "Letter 1872"
+      }
+    },
+    {
+      "id": "letter-233",
+      "title": {
+        "en-US": "Letter 1877"
+      }
+    },
+    {
+      "id": "letter-234",
+      "title": {
+        "en-US": "Letter 1892"
+      }
+    },
+    {
+      "id": "letter-235",
+      "title": {
+        "en-US": "Letter 1893"
+      }
+    },
+    {
+      "id": "letter-236",
+      "title": {
+        "en-US": "Letter 1894"
+      }
+    },
+    {
+      "id": "letter-237",
+      "title": {
+        "en-US": "Letter 1895"
+      }
+    },
+    {
+      "id": "letter-238",
+      "title": {
+        "en-US": "Letter 1908"
+      }
+    },
+    {
+      "id": "letter-239",
+      "title": {
+        "en-US": "Letter"
+      }
+    },
+    {
+      "id": "letter-240",
+      "title": {
+        "en-US": "Letter 1924"
+      }
+    },
+    {
+      "id": "letter-241",
+      "title": {
+        "en-US": "Letter 1927"
+      }
+    },
+    {
+      "id": "letter-242",
+      "title": {
+        "en-US": "Letter 1932"
+      }
+    },
+    {
+      "id": "letter-243",
+      "title": {
+        "en-US": "Letter 1936"
+      }
+    },
+    {
+      "id": "letter-244",
+      "title": {
+        "en-US": "Letter 1955"
+      }
+    },
+    {
+      "id": "letter-245",
+      "title": {
+        "en-US": "Letter 1958"
+      }
+    },
+    {
+      "id": "letter-246",
+      "title": {
+        "en-US": "Letter 1961"
+      }
+    },
+    {
+      "id": "letter-247",
+      "title": {
+        "en-US": "Letter 1964. To Sister Jeanne Marie de Fontany"
+      }
+    },
+    {
+      "id": "letter-248",
+      "title": {
+        "en-US": "Letter 1965. To Mother Frangoise Angélique Garin}"
+      }
+    },
+    {
+      "id": "letter-249",
+      "title": {
+        "en-US": "Letter 1966. To Sister Anne Francoise de Montrambault"
+      }
+    },
+    {
+      "id": "letter-250",
+      "title": {
+        "en-US": "Letter 1967. To Sister Francoise Dorothée Longis"
+      }
+    },
+    {
+      "id": "letter-251",
+      "title": {
+        "en-US": "Letter 1968"
+      }
+    },
+    {
+      "id": "letter-252",
+      "title": {
+        "en-US": "Letter 1969"
+      }
+    }
+  ]
+}

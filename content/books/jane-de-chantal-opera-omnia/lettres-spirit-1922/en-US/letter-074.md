@@ -1,0 +1,7 @@
+# Letter 599. To the same
+
+Bon Dieu! my dearest daughter, what a consolation to my soul to know that the dear family I love so tenderly and absolutely, to know, I say, that every single member of it is walking courageously in the practice of that resolution which God gave us while we were together. Eternal praise be to His divine goodness! This, believe me, is the sweetest news I could receive, although I expected none other: for truly those dear souls gave me every cause for satisfaction. And I do indeed feel that they are in the very core of my heart, where I have a perfect love for them, and continually desire that they may attain to the saintly perfection of their beautiful and most holy vocation.
+
+You must patiently bear the charge of that poor Sister N. and treat her as you judge best. Tell me at your earliest convenience how that medal was executed. Had it an image of Our Lord, Our Lady, or some of the Saints—in short, what is it like? and where could a similar one be procured possessing the same virtue—that is, if it proceeds from something holy and not from witchcraft?
+
+Our poor little Sister J. Angélique has done very wrong in giving up the frequentation of the divine sacraments. By this she gives her enemy great power over her. You ought to ask the Reverend Pére Arnoux how to act in her regard. I salute him, and I pray God more and more to replenish with His holy graces your soul and those of your dear family, whom I cordially salute. I remain, etc.

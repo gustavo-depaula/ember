@@ -1,0 +1,5 @@
+# Letter 1964. To Sister Jeanne Marie de Fontany
+
+My dear Sister,—You ought quickly and faithfully to resist this aversion, letting no word prompted by it escape you, and be careful to preserve the respect and submission you owe. By this means you will not be guilty of any fault, and even, please God, free yourself of your aversion. It would be well to approach sister and caress her, provided you do it humbly and with a desire in your heart to feel as you are acting. May God give you this grace, my very dear sister. I remain yours in His love.[^1]
+
+[^1]: During all her long religious career, Sister Jeanne Marie showed herself worthy of the happiness she had had of receiving the holy veil from St. Francis de Sales. She passed fifty-four years between the monasteries of Annecy and Seyssel, gathering, according to the words of the Saint, the little and humble virtues that grow at the foot of the Cross. Not the least of these was her patience in long years of infirmity, and her love of a life humble and hidden in God with Jesus Christ—Book of Vows of the First Monastery of the Visitation of Annecy.

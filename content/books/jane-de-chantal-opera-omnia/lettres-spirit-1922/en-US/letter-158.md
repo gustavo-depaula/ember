@@ -1,0 +1,7 @@
+# Letter 1533. To a Religious
+
+Vive > Jésus!
+
+My very good and dear Father,—May the divine Saviour be always your life and your love! As I am in great affliction of spirit from an interior trial, I bethink me that, in accordance with our complete mutual confidence, I ought to let you know that I am suffering, so that you may redouble your prayers and procure those of devout souls for me in my urgent necessity. For, as for myself, I am in such a poor and miserable condition that I can scarce pray at all. But I have great confidence in the prayers of good people, and above all in yours, my good Father. I open my heart simply and trustfully to you, knowing the holy affection God has given you for me. I know, too, that what I say to you will never be revealed, but kept in your heart, so that you may offer my poor wretched heart to God with your own virtuous and fervent one. Often assure Him of my fidelity and implore Him by His love to hold me always within His holy hand. Ask Him never to let me offend Him, but that I may do and suffer whatsoever is pleasing to Him, so that, in the end, when He wills to take me from this miserable life, which seems interminable, He will receive me into the bosom of His sweet mercy.
+
+See, my Father, with what native simplicity I lay open to you my troubles and my need—that is enough for you whose heart is so kind and fatherly towards her who is wholly yours in Jesus. May He be for ever blessed!

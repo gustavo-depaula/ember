@@ -1,0 +1,3 @@
+# Letter. To the same
+
+Vive > Jésus! seseetice 5 My very honoured Brother,—Touching your desire to be here for the opening of the tomb of our holy Founder, your coming will, I firmly believe, be to the glory of God and the profit and consolation of your soul. The glorious Virgin and our great Saint will make known to you how God wills you to accomplish the entire offering and dedication of yourself to Him; for our happiness consists in knowing and doing His holy will. Come then, very dear and honoured brother, and you will find his daughters near the Father. These daughters will consider themselves favoured by heaven if they can in any way testify their sincere devotedness and gratitude to you for the kindness and charity which places them everlastingly in your debt.

@@ -1,0 +1,15 @@
+# Letter 224. To Mother Mane Jacqueline Favre
+
+Oh, may we belong wholly without reserve to the divine Saviour, my most dear daughter!
+
+I had the pleasure of receiving your last letters in person from the dear brother of your heart. You can imagine how glad and consoled I was to see him and to be able to assure him of the high esteem and singular affection I feel for the brother of her whom I so dearly love. The news you sent me comforted me greatly. This simple and tranquil submission is peculiarly your own: to abide therein and to watch prudently and kindly over your dear little flock is all you have to do. By unbounded devotion and motherly tenderness make your daughters stretch forward to the holy love of our sweet Master, and this through a perfect and punctual observance of the Rule.
+
+His Lordship has sent me a book which I think admirable. I will have it transcribed for you, unless the Carmelites give it to you beforehand—for it is one of their Spanish mothers who wrote it and addressed it to a superior. There is excellent matter in it for superiors, and I very much wish you to have it and profit by it.
+
+I assure you, my daughter, we do not yet know who will be put here. If the house at Piedmont does not hamper us, and if you could be easily released from Lyons, I think that you, undoubtedly, should come; but between this and Easter we shall probably see our way more clearly. There is no doubt about it that, if Iam consulted, this [Paris] house will be selected as the chief house on account of its great importance. It will be the nursery of France. Oh! how I wish it a good mother (for the ultimate happiness of the houses depends, after God, on their superiors)—a mother who is gentle, prudent, zealous, and perfect in the practice of the observance and of mortification. You could not believe how discreet our Sister Anne Catherine [de Beaumont] is, and what grand example she gives. We have good professed sisters here, yet we still want at least two or three more. Now that his Lordship is at Nessy, he will see to it, but we shall have to wait till March.
+
+I have seen , who told me good Sister is very ill, and that it would be a charity to put her under a doctor. He also said that she told him that she found the minds of the sisters were kept greatly under constraint (too much so), and that she found it very difficult to accommodate herself thereto. Is not this a great misery? Our good God willed to be attached to the Cross, and we will not subject ourselves for His love to an altogether sweet and holy manner of life! Now I would very much like this sister to persevere, for I think she has a good mind. Do not appear to know her difficulty, but try to free her of it, and her heart must, if possible, be gained.
+
+May God in all accomplish. His most holy will, and fill us with graces. My dearest daughter, I remain, etc.
+
+P.S.—I have received your letters, and his Lordship’s too. I shall always send this way, and never by the post. Do the same, I beg of you.

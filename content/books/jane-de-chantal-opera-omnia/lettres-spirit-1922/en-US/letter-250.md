@@ -1,0 +1,17 @@
+# Letter 1967. To Sister Francoise Dorothée Longis
+
+at the First Monastery of Annecy.
+
+{No date.] Vive > Jésus!
+
+My very dear Daughter,—Follow my advice, I beg of you, and give up worrying about your trouble. It is a true infliction imposed upon us by God, who in His goodness permits our enemy to worry us with evil thoughts, terrible fears, and horrible imaginations, so that the sorrow and pain we feel may be to us a fire of tribulation wherein
+
+The monasteries of Castellane and Soleure were successively governed by this fervent religious, and both experienced that with this last blessing had been conferred on her a large share of the Saint’s virtue and spirit of strength and of wisdom.
+
+Returned to Annecy, Mother Longis there tasted divine consolation in the same ample measure as her soul had formerly tasted of bitterness. She died peacefully on February 10, 1683, in the presence of Monsignor d’Arenthon d’Alex. On her decease this prelate remarked: ‘ When I see a daughter of Holy Mary die, death loses, for me, all its terrors.’— Année Sainte, vol. ii.
+
+God will purify us as gold in the furnace. And this He does with His faithful servants to increase their merits. Think no longer then that it comes from a bad disposition: on the contrary, it is a grace. Be assured of it. What God requires of you in this state is an entire submission to the suffering it occasions, resigning and surrendering yourself to His holy will, either by means of acts or of words, when you can do so with facility, or by a simple acquiescence, or even by just touching your resolutions. Neither question nor ever give one voluntary thought to what passes within you: take harbour instead in God without considering how it is that you got to Him; and on no account make any reflections! Keep up a cheerful exterior notwithstanding the agony within, making merry with your sisters. Most faithfully shun the very shadow of evil, and do all the good that comes in your way, before everything carrying out with exactitude the observance; and have no doubt at all but that God holds you with His hand, which I beseech Him to do with all my heart.
+
+FRAGMENTS[^1]
+
+[^1]: St. Jane Frances de Chantal herself tells us (and what better eulogy could there be for a daughter of the Visitation?) that she had never known a soul so like her own as that of Sister F. D. Longis. Like the blessed Foundress, Sister Frangoise Dorothée passed the greater part of her life in that spiritual anguish which rendered her love extremely pure and detached, for being deprived of the pleasure by which the soul adheres to its God, He joins and unites it to His goodness directly, will to will, heart to heart, without any medium of satisfaction or expectation. The holy Foundress, understanding that the Lord wished to raise a soul so tested to the heights of sanctity, neglected no means of helping her to climb her arduous path. At one time the Saint devoted an hour every day to comforting and strengthening this sister, and on her death-bed she gave a last proof of her affection for her by confiding to Mother de Blonay this message: ‘ Tell our dear daughter Frangoise Dorothée that I bear her in my heart with joy, and tell her to rest in the assurance that I have given her; let her walk in peace in the way God leads her, and as cheerfully as she can.’ And in another letter she adds: ‘ Say privately to little Sister Frangoise Dorothée, and only to her, that I bear her with joy in my heart as a soul whom I know to be dear to God. May He bless her.’

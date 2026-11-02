@@ -1,0 +1,7 @@
+# Letter 1427. To Mother Louise Dorothée de Marigny
+
+To Mother Louise Dorothée de Marigny, Superior at Montpellier. Lyons, 26 July, 1636. Vive > Jésus | My dearest Daughter,—I should not be happy did I not send you some of our news and tell you that we have, thank God, arrived here at Lyons. Although very tired and worn out by the Jong journey, I am full of consolation about our
+
+254. SAINT JANE FRANCES DE CHANTAL monasteries that I visited. Everywhere the observance was faithfully followed. Even at Valence—where the statements that had been given me were, I found, misleading— the Mother and sisters fully satisfied me and edified me by the sincere affection I saw in them to carry out all that I had counselled. As to the two houses of Lyons, therein I find all the sweetness, simplicity, and faithful observance that could be desired. God be praised for it all. And here another consolation is ours in seeing Sister Favre Superior of Chambéry. You know she is my very worthy daughter. Our sisters of Nevers have asked for her, and we are sending her to them, to remain as long as is thought desirable.
+
+In conclusion, I congratulate you on getting into your new house; that has been altogether according to my views and wishes. I pray the divine mercy to recompense the Duchess of N. by a plenitude of graces, and to pour upon you and your dear family a thousand blessings. Recommending myself to your holy prayers, I am, etc.

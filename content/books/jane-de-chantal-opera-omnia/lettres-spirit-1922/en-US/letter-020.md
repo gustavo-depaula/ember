@@ -1,0 +1,3 @@
+# Letter 195. To Mother Péronne Marie de Chatel
+
+This is only to begin to break silence, my dearest daughter, and lovingly to salute you. I leave all the news for our Sister Mary Margaret to tell you. This line I also write in order to implore of you, by all the affection you bear me, to secure our sisters’ most fervent and persevering prayers for my son.! Get those who are most united to God to plead for him, and do you, yourself, in particular. He is good and has good impulses, but his youth carries him away. I think Our Lord is preparing some great crosses for him. May the good God give him grace to recelve them as he ought. I salute, etc.

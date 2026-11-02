@@ -1,0 +1,7 @@
+# Letter 704. To Mother Marie Adrienne Fichet
+
+My dearest Daughter,—I wrote fully to you last week, and I think profitably, so there is nothing to add now except to say, do faithfully all I have already told you. That will be enough till we meet, when the fine weather is a little more settled; for I want to have the deed of your house drawn up before going to Lorraine, and to pay you a short visit. Won’t you be glad of that? I am writing also to your sister counsellors.
+
+LETTER 780 I4I
+
+Our dear Sister de la Fléchére! arranged everything with such simplicity that we must accept all from her in the same spirit. Oh! my daughter, you should be very glad that they quote others to you—that is humility, and you should love very much these poor Bernardine sisters for whom our Blessed Father had so much affection. Keep a resolute heart amidst all these troublesome thoughts, and above all in regard to human affection, for nothing so much diverts us from God. Truly the news you give me of your house greatly consoles me, and I ask God to increase His blessings toit. If you govern with great gentleness, you will, I hope, continually receive more and more consolation, and Our Lord be more and more glorified; for this I pray. Our Sister Marie Madeleine [de Mouxy] will write the rest to you, as I have no more time. My most affectionate greetings to the Countess; I esteem her greatly. Salute our very dear sisters for me; I love them tenderly, and pray God to bless them and their Mother, etc.

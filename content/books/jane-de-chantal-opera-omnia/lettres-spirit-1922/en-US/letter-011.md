@@ -1,0 +1,9 @@
+# Letter 112. To the same
+
+To the same. Vive 0% Jésus! Annecy, 1[^1] August, 1617. My dearest Daughter, my Darling,—I had rather send you only this tiny note than lose an opportunity of writing to you. Yes, indeed, we have answered all your letters and all those of our sisters. Now God be praised! I wrote to you the other day by a man whom M. le Croix was sending. His Lordship and I are neither wanting in care nor in affection for your house, but we do not quite know how best to help you, so tactfully must that poor sister’s 1 mind be managed; and then, too, she has taken such pains with that house. I have written the enclosed note to her and left the seal open. His Lordship has also written to try to persuade her to come here. Oh, how much we wish this!
+
+LETTERS 172i a7
+
+In short, we will do all we can, as far as we can see it to be God’s will, for who can doubt but that your house is very deatatOmisuen - .. Yrs. etc.
+
+[^1]: Madame de Gouffier, who was called sister in the Order. yet we do not expect it, any more than you ought to expect to see me this year, for it is clearly impossible. You will, however, I think, see his Lordship, but nothing is so far settled. You ought, therefore, to take counsel of the good Jesuit fathers and of such friends around you as are persons of weight and consideration, asking their advice both in regard to the expediency of getting her away and the consideration due to her in return for what she has done, for never should we be guilty of ingratitude. Do this, and then write your advice and opinion fully as to what we ought to do, for, being on the spot, you can judge better than we. If immediate steps should be taken to get her out of the house, it still seems to me that it would be wiser that we should refrain from persuading her to this, and leave it to others.

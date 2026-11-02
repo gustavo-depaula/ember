@@ -1,0 +1,5 @@
+# Letter 1628. To Sister Anne Marie Bollain
+
+My ever dearest and beloved old Daughter,—When your heart sends me its news and tells me of the satisfactory state of your house, and of the charming union that exists between you and the dear Mother, it always comforts me anew. May the Author of all these favours be eternally blessed! My poor dear old daughter, my darling, I am so overwhelmed with letters, business, old age, and my charge, that I can but ask you to pray for me, and assure you that Iam always the poor old Mother, and you will ever be my very dear and valued daughter, to whose care I entirely commit the relief and preservation of the health of her good Mother [Lhuillier]. Yours, etc.
+
+P.S.—Affectionately salute all our dear sisters, and please tell dear Sister Petit! that I have prayed for her mother; and tell Sister Marguerite Dorothée [de Monsors] to continue submissive to the direction of her good Mother, and that all her troubles will turn to her good and to the glory of God, who wishes to bless her.

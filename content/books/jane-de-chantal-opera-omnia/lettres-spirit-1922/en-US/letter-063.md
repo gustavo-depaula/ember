@@ -1,0 +1,23 @@
+# Letter 496. To Mother Anne Catherine de Beaumont
+
+Superior of the First Monastery of Parts. Annecy, 29 October, 1623.
+
+Vive > Jésus!
+
+My dearest Daughter,—I regard what takes place in your soul as genuine and from God; but take little notice of it for fear of self-complacency. Be not too curious in examining whether your imagination has part in it; for the very thinking so will make it to enter in. Treasure in the depths of your soul the memory of the graces you receive, write down even something of them, so that when the feelings have passed you can recall what God demanded of you at the time. For, as our Blessed Father used to say, Our Lord does not always give spiritual understanding and affections, nevertheless He wishes us to preserve the memory of such lights, so that what He may have but once given will be of use to us for all our life.
+
+Yes, certainly, my daughter, the Superior ought to see that the assistant is admonished for a fault when she gives reason for it. She ought by no means to be exempt from humiliation, which is the great glory of religious souls.
+
+I am persuaded that Sister does not understand what she is talking about when she says that Our Lord suffered but did not feel His pain. What distinction does she make between suffering and the feeling of suffering? How could one suffer without pain? And sorrow, would it be sorrow if it was not felt? Besides, apart from this natural reasoning, it is an article of faith that Christ suffered and felt the pains of His Passion. It is true, as we know, that sorrow is the result of sin, and that Our Lord never sinned, nor could sin. It is likewise true that, in His eternal charity and incomprehensible sweetness, He has taken upon Himself our offences, and, with the price of His interior and exterior sufferings, and of His Precious Blood, paid the debt due to them. Inexplicable love! This thought has just come to my mind, and I tell it to you simply—lI see, besides, a very doubtful note in the spirituality of this sister, but I have not time to explain it. Make her speak to some learned and holy servant of God who will not snub her, for this poor dear sister is good and virtuous and, certainly, I think, dear to God. I have always remarked very strong signs of predestination in her.
+
+Verily! my dear daughter, I do not know from what point of view they consider the perfection of our Institute, nor where they find this constraint of mind. I can see nothing sweeter nor pleasanter than the road our Blessed Father has traced out for us. We are forty religious here, not counting the out-sisters, yet not one finds her path difficult. All, thank God, walk cheerfully with a holy latitude of heart in the way of their observance, and with great sweetness and union one towards the other. You know that I am the enemy of all cramping of the mind, and how I hate constraint. I see every day more clearly what sweet cordiality and holy joy does amongst the sisters, and that there is nothing it cannot do.
+
+As to our Sister Claire Marie [Amaury], she has always been so faithful to the observance that I have no doubt but that God has worked in her favour this marvel of deliverance through the intercession of our Blessed Father. And I believe we shall see her grow in every virtue, while God will continue to give her grace upon grace.
+
+Thank you, my dear daughter, for the news you give me of my son and his dear little wife. When they do themselves the honour of visiting you, tell them, from me, that there is nothing I so much desire for them as the fear of God and fidelity in His divine service. Encourage them
+
+LETTER 505 Te to prize heaven and to despise the world. I am indeed of your opinion that our houses ought charitably to assist each other, but the first and second monasteries of the same town should keep their temporal affairs apart, lest, through the weakness of poor nature, it might, in the course of time, be a stumbling-block to union and charity—few are so perfect as to be exempt from the interest of mine and thine. When I see this and consider the excellence of our Blessed Father, who lived with a perfect indifference of soul in regard to all created things, I cannot but feel sorrowful, knowing how far we are from this perfection. May God give us the grace to draw at least the love of our own humiliation from our misery.
+
+Verily, what a glorious soul had our Blessed Father, emancipated from all such considerations! So must we have great courage in mortifying ourselves and abandoning ourselves absolutely to God, if we are to be His true daughters.
+
+Ask this grace of Him for me who am all yours, etc.

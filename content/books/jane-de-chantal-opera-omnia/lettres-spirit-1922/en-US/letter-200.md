@@ -1,0 +1,7 @@
+# Letter 1752. To Mother Marie Aimée de Rabutin
+
+My very dear Daughter,—I can hardly use my hand to write without increasing the inflammation in my eye, so Sister Jeanne Thérése will tell you everything. Ah, daughter, how happy it would make me if I could but think that our good God is by this means consuming my being in His divine fire! I am not concerned about my suffering, but I fear to offend Him and to be lost. I ought to desire nothing save the accomplishment of His holy will, and to do His good pleasure. Ask this grace of Him unceasingly for me.
+
+You are in the right path. The more you put an end to all your own views and inclinations by one simple loving act of union with God in His presence, the better you will do what He requires of you. Control as much as possible this ardour for action and for suffering; conquer it by gentleness and by making use of the opportunities that God puts at each moment in your way, not permitting your mind to look ahead more than need be. I beg of you, dearest daughter, have no fears of being over-tender in regard to your body. You are incapable of it. And you may be quite certain that God wishes you to keep yourself strong and well; so do it, 1 beg of you, for I am sure such is the will of God for you.
+
+Never make apologies about anything you write or say to me. Oh no, let us live in complete and open-hearted | confidence, for my wish is that we two should have between us but one heart and one soul, and I believe Our Lord desires this. May His holy name and that of His holy Mother be blessed. Amen.
