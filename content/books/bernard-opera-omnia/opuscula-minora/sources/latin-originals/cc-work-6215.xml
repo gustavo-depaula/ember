@@ -1,0 +1,825 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Sententiae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.Senten9</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Sententiae</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0747D"/> <hi>Tres sunt qui testimonium dant in coelo: Pater,
+et Filius, et Spiritus sanctus. Tres in terra: spiritus,
+aqua et sanguis <note>(I Joan. V, 7, 8)</note>
+            </hi>. Similiter in inferno,
+ut in Isaia legimus: <hi>Vermis eorum non morietur,
+et ignis eorum non exstinguetur <note>(Isa. LXVI, 24)</note>
+            </hi>. <emph>1239</emph> 
+ Duo mala sunt, vermis et ignis; altero
+roditur conscientia, altero concremantur corpora.
+Tertium additur desperatio, quae in eo utique intelligitur
+quod dicitur, <hi>non morietur,</hi> et <hi>non exstinguetur.</hi> 
+His qui in coelo sunt, datur testimonium beatitudinis;
+his qui in terra, justificationis; his qui in
+inferno sunt, damnationis. Primum testimonium est
+gloriae, secundum gratiae, tertium irae.</p>
+        </div3>
+<pb n="0748D"/>
+
+<div3>
+          <head>2. </head>
+          <p>
+De Spiritu sancto testatur Scriptura quia procedit,
+spirat, inhabitat, replet, glorificat. Procedere
+dicitur duobus modis: unde et quo? Unde? A Patre
+et Filio. Quo? Ad creaturam. Procedendo praedestinat;
+spirando vocat quos praedestinavit; inhabitando
+justificat quos vocavit; replendo accumulat meritis
+quos justificavit; glorificando ditat praemiis quos
+accumulavit meritis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Spiritus sanctus arguit mundum de peccato
+quod dissimulat; de justitia quam non ordinat, dum
+sibi non Deo eam dat; de judicio quod usurpat,
+dum tam de se quam de aliis temere judicat,</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Usque hodie in civibus Babylonis aquarum
+<pb n="0749A"/>
+effusio, id est confusio cogitationum, terram facit
+inanem et vacuam. Dum enim fluctuat circa carnem
+cogitatio universa, nullum ex ea sperare est fructum
+salutis. Dividantur ergo aquae ab aquis <note>(Gen. I, 6)</note>,
+quatenus anima quoque, ut dignum est, partem sibi
+vindicet sollicitudinis et meditationis. Sane inferiores
+certis limitibus coerceantur, certis contineantur
+alveis, necessitatis terminos non excedant; proinde
+superiores copiosius dilatentur. Ex hoc sane dat
+Dominus benedictionem, et terra nostra dabit fructum
+suum <note>(Psal. LXXXIV, 13)</note>.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Cum in populo Dei carnales alii sint, et alii
+spirituales, nec illi tamen aeternorum, nec isti carent
+omni modo temporalium desiderio. In eo sane distant,
+quod plus alia appetunt alii, et secundum ea quae
+<pb n="0749B"/>
+praeferunt, aut spirituales, aut carnales judicantur.
+Hinc est quod in benedictionibus Jacob et Esau, et
+nos coeli, et terrae pinguedo nominatur, sed non
+eodem ordine in utroque. <hi>Det tibi Deus de rore coeli
+et de pinguedine terrae abundantiam,</hi> ait Isaac ad
+Jacob. Ad Esau vero: <hi>In pinguedine terrae,</hi> inquit, <hi>et in rore coeli desuper erit benedictio tua 
+ <note>(Gen. XXVII,
+28, 39, 40)</note>
+          </hi>. Quid autem singuli praeferant, a studiis
+eorum et sollicitudinibus innotescit.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Mors peccatorum pessima <note>(Psal. XXIII, 22)</note>
+          </hi>.
+Mala in amissione mundi, quia non possunt sine
+dolore separari ab eo quem diligunt. Pejor in dissolutione
+carnis, a qua evelluntur eorum animae a
+spiritibus malignis. Pessima in tormentis inferni,
+quando corpus et anima perpetuis simul addicuntur
+<pb n="0749C"/>
+ignibus. Econtrario bonorum mors optima, quoniam
+quidem fit ibi quies a labore, fit jucunditas de novitate,
+fit securitas de aeternitate.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>De stercore boum lapidatus est piger <note>(Eccli.
+XXII, 2)</note>
+          </hi>. Boves sunt qui in opere Dei strenue exercentur;
+qui seminant in lacrymis, sed in gaudio
+metent. Isti sane quaecunque sunt mundi hujus
+arbitrantur ut stercora. Piger vero, cujus sabbata
+videntes hostes derident, dehonestatur ab hostibus
+in olio suo, sicut boves strenui in laboribus suis
+honestantur a Deo. Quem enim maligni spiritus
+pigrum vident ad spiritualia exercitia, in cogitationibus
+ejus ingerunt importune terrena: velut de
+stercoribus boum massas coagulantes, et pigrum,
+<pb n="0749D"/>
+sicut dignus est, lapidantes.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ <hi>Osculetur me osculo oris sui <note>(Cant. I, 1)</note>
+          </hi>. Tria
+sunt oscula, reconciliatorium, muneratorium, contemplatorium.
+Primum ad pedes, secundum ad manum,
+tertium ad os sumitur. In primo accipitur remissio
+peccatorum; in secundo, munus virtutum;
+in tertio, cognitio secretorum. Vel ita osculum doctrinae,
+naturae, gratiae.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Duo sunt ubera sponsae: congratulatio et compassio.
+Gemina lactis species, exhortatio et consolatio.
+Tria unguenta, compunctio, devotio, pietas.
+Compunctio de recordatione peccatorum, devotio de
+recordatione beneficiorum, pietas ex consideratione
+miserorum.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ <hi>Revertere, revertere Sunamitis - revertere, revertere,
+<pb n="0750A"/>
+ut intueamur te <note>(Cant. VI, 12)</note>
+          </hi>. Revertere
+primo ab inepta laetitia, revertere <emph>1240</emph> secundo
+ab inutili tristitia, revertere tertio ab inani gloria,
+quarto revertere a latenti superbia. Inanis gloria est,
+quae ab ore hominum venit extrinsecus. Superbia
+latens oritur intrinsecus. Cum haec omnia vitia reliquerit
+anima, intuebitur eam sponsus ejus. Ob hoc
+autem debet ab aliis abstinere, ut digna fiat ejus
+complexibus. Unde et ad eam dicitur: <hi>Revertere, revertere,
+ut intueamur te.</hi> </p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Pastorum est vigilare super gregem propter
+tria necessaria: videlicet ad disciplinam, ad custodiam,
+ad preces. Ad disciplinam, propter morum
+correctionem, ne grex commissus propria molestia
+deficiat. Ad custodiam, propter diabolicam suggestionem,
+<pb n="0750B"/>
+ne hostili seducatur calliditate. Ad preces,
+propter tentationum instantiam, ne vincatur a pusillanimitate.
+In disciplina rigor justitiae, in custodia
+spiritus consilii, in prece affectus compassionis.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Duas ad intelligendum se condidit universitatis
+auctor creaturas, hominem et angelum. Hominem
+justificant fides et memoria: angelum beatificant
+intellectus et praesentia. Et quia homines quandoque
+perducendi sunt ad aequalitatem angelorum,
+necesse est ut interim justificentur per fidem, et
+proficiant ad intellectum. Scriptum est enim: <hi>Nisi
+credideritis, non intelligetis <note>(Isa. VII, 9, juxta LXX)</note>
+          </hi>.
+Itaque fides via est ad intelligendum: nam mundatur
+cor fide, ut intellectus videat Deum. Similiter et
+memoria Dei via est ad praesentiam Dei. Qui enim
+<pb n="0750C"/>
+hic habet mandatorum ejus, ut ea faciat, memoriam,
+merebitur quandoque ut ejus quoque videat praesentiam.
+Habeant igitur intellectum et praesentiam angeli
+Dei in coelo: habeamus et nos ejus fidem et
+memoriam in mundo.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Pars tua sumus, Domine, quam tulisti de manu
+Amorrhaei in gladio et arcu tuo <note>(Gen. XLVIII, 22)</note>.
+Gladius tuus sermo vivus et efficax <note>(Hebr. IV, 12)</note>;
+arcus tuus incarnatio tua. Ibi enim velut curvato
+sapientiae ligno, et pio quodam modo flexa divinitate,
+nervus carnis vehementer extensus, et humanitas
+ineffabiliter aucta cognoscitur. Pars ergo tua sumus
+et populus acquisitionis tuae <note>(I Petr. II, 9)</note>, quem
+acquisisti verbo praedicationis, et mysterio incarnationis.
+<pb n="0750D"/>
+</p>
+        </div3>
+<div3>
+          <head>14. </head>
+          <p>
+In circumcisione Domini nec nervus rumpitur,
+nec os comminuitur, ut robustiora quaeque et
+firmiora serventur illaesa. Aperitur autem cutis,
+amputatur caro, sanguis effunditur, ut illecebrosa
+mollities castigetur. In carne quidem peccatum,
+quod in ea manet, intellige: porro in cute operimentum
+ejus, in sanguine vero incentivum. Haec
+igitur vera circumcisio spiritu, non littera, si velamen
+excusationis et dissimulationis per compunctionem
+cordis, et confessionem oris amoveas; si peccati
+consuetudinem correctione conversionis abscindas;
+si denique, ut necessarium est, occasiones quoque
+peccati et fomitem fugias concupiscentiarum.</p>
+        </div3>
+<div3>
+          <head>15.</head>
+          <p>
+ <hi>Obtulerunt magi Domino aurum thus, et myrrham</hi> 
+<pb n="0751A"/> <note>(Matth. II, 11)</note>.
+Haec fortassis pro loco et tempore
+necessaria videbantur. Auri pretium ob paupertatem;
+myrrhae unguentum ob infantilis, ut assolet,
+corporis teneritudinem; thuris odoramentum
+ob sordidam stabuli mansionem. Nos vero quoniam
+illa jam omnia transierunt, offeramus ei acceptabiliora
+munera: myrrhae unctionem in communionem
+socialis vitae, thuris speciem in suaveolentiam bonae
+famae, auri splendorem in conscientiae puritatem:
+quo videlicet nec de officiosa conversatione familiarem
+gratiam, nec de laudabili opinione inanem gloriam,
+sed honorem Dei, et fratrum utilitatem quaerere
+studeamus.</p>
+        </div3>
+<div3>
+          <head>16.</head>
+          <p>
+ Ante omnia sine murmuratione sint fratres.
+Forte aliqui leve peccatum aestimant murmurare:
+<pb n="0751B"/>
+sed non hic, qui ante omnia monet esse cavendum <note>(S. Benedictus in Reg. cap. 34.)</note>.
+Puto autem ne illum
+quidem leve reputasse, qui murmurantibus aiebat: <hi>Non contra nos est murmur vestrum, sed contra
+Dominum. Nos enim quid sumus? 
+ <note>(Exod. XVI, 8.)</note>
+          </hi> Sed
+ne illum quoque qui dixit: <hi>Non murmuraveritis, sicut
+quidam murmuraverunt, et perierunt ab exterminatore <note>(I Cor. X, 10)</note>
+          </hi>.
+Illo nimirum exterminatore, qui positus
+est in hoc ipsum, ut a terminis beatae illius
+civitatis arceat murmurantes, et longe faciat a finibus
+ejus, cui dicitur: <hi>Lauda,</hi> <emph>1241</emph> <hi>Jerusalem,</hi> 
+<pb n="0752A"/> <hi>Dominum; lauda Deum tuum, Sion: qui posuit fines
+tuos pacem 
+ <note>(Psal. CXLVII, 12, 14)</note>
+          </hi>. Nihil enim commune
+habent murmur et pax, gratiarum actio et
+detractio, zelus amaritudinis et vox laudis. Itaque
+in ore trium et talium testium stet hoc verbum, ut
+pestem istam murmurationis summopere nobis noverimus
+esse cavendam.</p>
+        </div3>
+<div3>
+          <head>17.</head>
+          <p>
+ Tres sunt quibus reconciliari debemus; hominibus,
+angelis, Deo. Hominibus, per aperta opera;
+angelis, per occulta signa; Deo per puritatem cordis.
+Nam de operibus quae coram hominibus facienda
+sunt, scriptum est: <hi>Luceat lux vestra coram hominibus,
+ut videant vestra opera bona, et glorificent Patrem
+restrum qui in coelis est <note>(Matth. V, 16)</note>
+          </hi>. De angelis
+dicit David: <hi>In conspectu angelorum psallam
+<pb n="0752B"/>
+ibi <note>(Psal. CXXXVII, 1)</note>
+          </hi>. Occulta autem signa sunt
+gemitus, suspiria, usus cilicii, et caetera poenitentiae
+insignia, quae angelis placent. Unde est illud: <hi>Gaudium
+est angelis Dei super uno peccatore poenitentiam
+agente <note>(Luc. XV, 10)</note>
+          </hi>. Ut autem Deo reconciliemur,
+nec operibus, nec signis, sed puritate et simplicitate
+cordis indigemus. Scriptum est enim: <hi>Beati mundo
+corde quoniam ipsi Deum videbunt <note>(Matth. V, 8)</note>
+          </hi>: Et
+illud: <hi>Si oculus tuus tuus fuerit simplex <note>(Matth. VI,
+22)</note>
+          </hi>, etc.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>ALIAE S. BERNARDI SENTENTIAE.</head>
+
+<pb n="0751"/>
+<div3>
+          <head>18. </head>
+<p>
+            <pb n="0751C"/> <hi>Templum Dei sanctum est, quod estis vos <note>(I Cor.
+III, 17)</note>
+            </hi>. Templum Dei est claustrum religiosorum.
+Duo parietes claustri sunt, activi et contemplativi,
+Maria et Martha, interior et exterior. Interiori necessarii
+sunt duo ordines lapidum, cavere scilicet
+vitium voluptatis, et curiositatis. Exteriori similiter
+duo, ne sint fraudulenti, et turbulenti. Unde Dominus: <hi>Fidelis servus et prudens 
+ <note>(Matth. XXIV, 45)</note>
+            </hi>.
+Fidelis, ne sit fraudulentus; prudens, ne sit turbulentus.
+Paries ex adverso qui hunc utrumque conjungit,
+sunt praelati, et hi qui fideliter ingrediuntur
+et egrediuntur, sicut de Domino dictum est: <hi>A summo
+coelo egressio ejus, et occursus ejus usque ad summum
+ejus; nec est qui se abscondat a calore ejus <note>(Psal. XVIII, 7)</note>
+            </hi>.</p>
+        </div3>
+<pb n="0751D"/>
+
+<div3>
+          <head>19. </head>
+          <p>
+Quinque de causis addiscit homo: ut sciat, ut
+sciatur scire, ut vendat, ut aedificet, ut aedificetur.
+Ut sciat, curiositas est; ut sciatur scire, vanitas;
+ut vendat, simonia; ut aedificet, charitas; ut aedificetur,
+humilitas. Qui nutriti erant in croceis, amplexati
+sunt stercora <note>(Thren. IV, 5)</note>, id est curam
+ventris.</p>
+        </div3>
+<div3>
+          <head>20.</head>
+          <p>
+ <hi>Initium sapientiae timor Domini <note>(Psal. CX, 10)</note>
+          </hi>.
+Timor primus revocat euntes ad mortem, cui succedit
+tristitia saecularis: hanc excludit spes aeternitatis.</p>
+        </div3>
+<div3>
+          <head>21.</head>
+          <p>
+ Dubitari solet utrum dilectio Dei praecedat
+<pb n="0752C"/>
+tempore dilectionem proximi. Quod per hoc videtur,
+quod proximum propter Deum diligere non possumus,
+nisi prius diligamus Deum: et contra dilectio
+proximi videtur praecedere dilectionem Dei, quia
+scriptum est: <hi>Qui non diligit fratrem suum quem
+videt, Deum quem non videt, quomodo potest diligere <note>(I Joan. IV, 20)</note>
+          </hi>?
+sed sciendum est quod dilectio Dei
+duobus modis consideratur, incipiens et nutrita.
+Incipit enim homo diligere Deum, antequam proximum;
+sed quia illa dilectio non potest perfici, nisi
+nutriatur, et crescat per dilectionem proximi, oportet
+ut proximus diligatur. Sic ergo dilectio Dei praecedit
+ut incipiens, et praeceditur a dilectione proximi,
+ut illa nutrienda. Si qui forte pertinent ad
+gubernationem tuam, vindica, coerce cum dilectione,
+<pb n="0752D"/>
+cum charitate, attendens salutem aeternam; ne, cum
+parcis carni, anima pereat. Fac haec, et multos
+passurus es, in quos non poteris exercere disciplinam.
+Fer minas, securus esto: faciet enim Dominus
+misericordiam et judicium omnibus injuriam accipientibus.</p>
+        </div3>
+<div3>
+          <head>22.</head>
+          <p>
+ <hi>Diliges proximum tuum sicut te ipsum <note>(Matth.
+XIX, 19)</note>
+          </hi>. Debet unusquisque proximum suum diligere
+tanquam se ipsum, ut quem poterit hominem vel
+beneficentiae consolatione, vel informatione doctrinae,
+vel coercitione disciplinae, <emph>1242</emph> adducat ad Deum
+colendum. Haec qui sola discretione eligit, prudens
+<pb n="0753A"/>
+est: qui nulla hinc afflictione avertitur, fortis est;
+qui nulla alia delectatione, temperans est; qui nulla
+elatione, justus est.</p>
+        </div3>
+<div3>
+          <head>23.</head>
+          <p>
+ <hi>Non est speciosa laus in ore peccatoris <note>(Eccli.
+XV, 9)</note>
+          </hi>, in poenitente peccatore fructuosa, in justificato
+est speciosa. Sicut cum stercorantur agri,
+non est speciosum, sed fructuosum; postea vero in
+frugum collectione fit speciosum.</p>
+        </div3>
+<div3>
+          <head>24.</head>
+          <p>
+ Quatuor sunt quae impediunt confessionem:
+timor, ne perdat; pudor ne vilescat; spes honoris
+vel alicujus terreni commodi, si innocens putetur;
+desperatio earumdem rerum, si innocens non putetur.</p>
+        </div3>
+<div3>
+          <head>25.</head>
+          <p>
+ Octo sunt trinitates, quarum prima est illa
+summa et individua Trinitas, Pater, et Filius, et
+<pb n="0753B"/>
+Spiritus sanctus. Secunda est quae cecidit. Tertia
+per quam cecidit. Quarta in quam cecidit. Quinta
+per quam resurgit, quae in tres dividitur trinitates.
+Trinitas quae cecidit, est memoria, ratio et voluntas.
+Memoria infirmata est tribus modis, videlicet per
+cogitationes affectuosas, onerosas et otiosas. Ratio
+tribus modis excaecata est, quia saepe recipit vera
+pro falsis, et e converso; licita pro illicitis, et e
+converso. Voluntas tripliciter foedata est, per
+concupiscentiam carnis, per desiderium oculorum,
+et ambitionem saeculi. Trinitas per quam cecidit,
+suggestio, delectatio, consensus. Trinitas in quam
+cecidit, infirmitas, foeditas, caecitas. Trinitas per
+quam resurgit, fides, spes, charitas. Fides est trina,
+praeceptorum, signorum, promissionum. Spes quoque
+<pb n="0753C"/>
+trina est: spes veniae, spes gratiae et spes gloriae.
+Charitas etiam trina est, ex toto corde, ex tota
+anima, ex tota virtute.</p>
+        </div3>
+<div3>
+          <head>26.</head>
+          <p>
+ Duo parietes debent esse in congregatione:
+unus interior, alter exterior. Interior claustrales,
+exterior obedientiarii. Illi non debent esse curiosi,
+nec voluptuosi; isti vero nec turbulenti, nec fraudulenti.
+Et quia raro pax inter istos est, ideo tertius
+paries est, ex adverso veniens, qui conjungat divisos
+parietes; abbas videlicet et prior, et alii fratres spirituales:
+fundamentum est sanctum propositum.</p>
+        </div3>
+<div3>
+          <head>27.</head>
+          <p>
+ Adaptatio septem donorum Spiritus sancti ad
+apparitiones Domini resurgentis. Primo apparuit
+mulieribus, quibus dictum est ab angelo: <hi>Nolite
+<pb n="0753D"/>
+timere <note>(Matth. XXVIII, 9, 5)</note>
+          </hi>: ecce spiritus timoris.
+Apparuit Petro, qui negaverat <note>(Luc. XXIV, 34)</note>: ecce
+spiritus pietatis. Apparuit mulieri, cui dictum est: <hi>Noli me tangere; nondum enim ascendi ad Patrem
+meum 
+ <note>(Joan. XX, 17)</note>
+          </hi>: ecce spiritus scientiae. Apparuit
+illis undecim in monte, ubi constituerat,
+quando dixit: <hi>Data est mihi omnis potestas in coelo
+et in terra <note>(Matth. XXVIII, 18)</note>
+          </hi>: ecce spiritus fortitudinis.
+Apparuit duobus euntibus in Emmaus, de
+quibus scriptum est: <hi>Et aperuit illis sensum, ut
+intelligerent Scripturas:</hi> ecce spiritus intellectus.
+Ad ultimum apparuit illis recumbentibus, quando
+<pb n="0754A"/>
+ascendit in coelum <note>(Luc. XXIV, 27, 45, 51)</note>, quia de
+eo dictum est: <hi>Ego sapientia in altissimis habito <note>(Eccli. XXIV, 7)</note>
+          </hi>:
+ecce spiritus sapientiae.</p>
+        </div3>
+<div3>
+          <head>28.</head>
+          <p>
+ Gratia quadripartita est: gratia creans, gratia
+redimens sive miserans, gratia donans, gratia remunerans.
+Prima: <hi>Omnia per ipsum facta sunt.</hi> Secunda: <hi>Verbum caro factum est.</hi> 
+ Tertia: <hi>Plenum
+gratiae.</hi> Quarta: <hi>Et veritatis <note>(Joan. I, 14)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>29.</head>
+          <p>
+ Pax quadripartita est: erga Deum, erga
+proximum, in carne, in spiritu. Quae ut firma sit,
+substernendum est unicuique fundamentum: paci
+carnis temperantia; paci spiritus fortitudo; paci
+cum proximo prudentia; paci cum Deo justitia. <hi>Gloria in excelsis,</hi> 
+ ecce pax cum Deo; <hi>et in terra
+hominibus bonae voluntatis <note>(Luc. II, 14)</note>
+          </hi>, pax cum
+<pb n="0754B"/>
+proximo; <hi>pax vobis, videte manus et pedes meos <note>(Luc. XXIV, 36, 39)</note>
+          </hi>,
+pax carnis; <hi>accipite Spiritum
+sanctum <note>(Joan. XX, 22)</note>
+          </hi>, pax spiritus.</p>
+        </div3>
+<div3>
+          <head>30.</head>
+          <p>
+ <hi>Muscae morientes exterminant suavitatem unguenti <note>(Eccle. X, 1)</note>
+          </hi>,
+id est vanitas, curiositas et voluptas:
+quae quia in Aegypto et circa sacrificia
+Aegyptiorum abundant, non possumus in Aegypto
+sacrificare Domino Deo nostro sacrificium justitiae
+et charitatis. Ideo proficiscimur in desertum, id est
+in solitudinem cordis, <hi>via trium dierum</hi> <emph>1243</emph> <note>(Exod. VIII, 26, 27)</note>.
+De prima die dicit sponsus
+sponsae: <hi>Veni in hortum meum, soror mea sponsa <note>(Cant. V, 1)</note>
+          </hi>;
+hoc est in plantaria bonarum virtutum.
+De secunda gaudet sponsa, et dicit: <hi>Introduxit me
+<pb n="0754C"/>
+rex in cellam vinariam <note>(Cant. I, 3)</note>
+          </hi>, id est inter
+delicias Scripturarum. Tertia dies est thalamus,
+plenitudo amoris, in quo se invicem fruuntur sponsus
+et sponsa. Et nota contra vanitatem, soliditatem
+virtutum; contra curiositatem, variam delectationem
+Scripturarum; contra voluptatem, summi
+illius amoris thalamum.</p>
+        </div3>
+<div3>
+          <head>31.</head>
+          <p>
+ Duo sunt ubera charitatis, compassio et congratulatio.
+Ex compassione lac sugitur consolationis:
+ex congratulatione lac sugitur exhortationis.</p>
+        </div3>
+<div3>
+          <head>32.</head>
+          <p>
+ Tria sunt quibus servatur unitas: patientia,
+humilitas et charitas. His armari debet miles Christi,
+patientiam habens quasi scutum, quod ferat et
+circumferat contra omnia adversa; humilitatem
+quasi loricam, quae conservet interiora praecordia;
+<pb n="0754D"/>
+charitatem quasi lanceam, per quam, sicut dicit
+Apostolus, omnes impetens in provocatione charitatis <note>(Hebr. X, 24)</note>,
+et omnibus omnia se faciens
+belligeratur bellum Domini. Oportet etiam ut habeat
+galeam salutis, quae est spes, caput, id est principale
+mentis, muniens et conservans. Habeat etiam gladium
+verbi Dei, et equum boni desiderii. Goliath
+suo gladio occidendus est; vana gloria, consideratione
+ipsius vanae gloriae.</p>
+        </div3>
+<div3>
+          <head>33.</head>
+          <p>
+ Duo sunt novissima, mors et vita. Ad haec
+volamus duabus alis, timore et spe. Duabus velamus
+pedes, poenitentia cordis et confessione oris, secundum
+<pb n="0755A"/>
+illud: <hi>Corde creditur ad justitiam, ore autem
+confessio fit ad salutem <note>(Rom. X, 10)</note>
+          </hi>. Duabus velamus
+caput, dilectione Dei, et proximi. Unde Apostolus: <hi>Sive mente excedimus, Deo; sive sobrii sumus,
+vobis 
+ <note>(II Cor. V, 13)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>34.</head>
+          <p>
+ Nota quod ex timore compunctio, ex compunctione
+omnium rerum abrenuntiatio, ex qua
+vera humilitas, ex qua vera confessio, in qua omnium
+vitiorum purgatio. Ex confessione, virtutum
+pullulatio: concretae virtutes faciunt cordis puritatem,
+in qua vera sapientia et perfecta charitas. Ad
+hoc sciendum quod spiritus timoris dat timorem;
+spiritus pietatis, cumpunctionem; spiritus scientiae,
+praesentium abrenuntiationem; spiritus fortitudinis,
+veram humilitatem (humilitas enim vincit omnia);
+<pb n="0755B"/>
+spiritus consilii, confessionem; spiritus intelligentiae,
+virtutum acquisitionem; spiritus sapientiae, perfectam
+cordis puritatem et amorem.</p>
+        </div3>
+<div3>
+          <head>35.</head>
+          <p>
+ Quatuor sunt ordines in domo Domini. Quidam
+enim procidunt ad pedes Jesu, sicut Aethiopes,
+sicut Maria poenitens et confitens; quidam sedent
+ad pedes ejus, ut eadem Maria audiens verbum
+ejus; quidam jacent in sinu ejus; quidam sedent ad
+latus ejus. Duo ordines primi sibi vivunt, tertius sibi
+et proximo, ut Joannes evangelista, suscipiens et
+sugens pacem de sinu Domini, et nuntians eam
+populo. Quartus proximo, sicut Apostolus, qui ait: <hi>Bonum certamen certavi, cursum consummavi, fidem
+servavi.</hi> 
+ Unde securus subjungit: <hi>Reposita est mihi
+<pb n="0755C"/>
+corona justitiae <note>(II Tim. IV, 7, 8)</note>
+          </hi>. Et ideo <hi>cupio dissolvi
+et esse cum Christo; permanere autem in carne,
+necessarium propter vos <note>(Philipp. I, 23, 24)</note>
+          </hi>. Isti nec
+mori timent, nec vivere recusant.</p>
+        </div3>
+<div3>
+          <head>36.</head>
+          <p>
+ Superbia alia est caeca, alia vana, alia caeca
+simul et vana. Caeca, quando homo putat in se esse
+quod non est. Vana, quando gloriatur in hoc quod
+homines putant eum esse quod non est. Caeca simul
+et vana est, quando de bono quod non habet, et
+gloriatur in semetipso, et aliorum gloriam quaerit.</p>
+        </div3>
+<div3>
+          <head>37.</head>
+          <p>
+ Humilitas, alia sufficiens, alia abundans, alia
+superabundans. Sufficiens, subdi majori, nec praeferre
+se pari. Abundans, subdi pari, nec praeferre
+se minori. Superabundans, subdi minori. Inde Dominus
+ad Joannem: <hi>Sine modo; sic enim decet nos
+<pb n="0755D"/>
+implere omnem justitiam <note>(Matth. III, 15)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>38.</head>
+          <p>
+ Quicunque volunt perfecte placere Deo, tam
+castitate, quam charitate splendere debent. Castitas
+autem quinquepartita est; videlicet in auribus, in
+oculis, in odoratu, in gustu, et in tactu. Charitas
+autem quadrifaria est, quae, secundum Apostolum, <hi>omnia credit,</hi> 
+ id est, non est suspiciosa; <hi>omnia
+sperat,</hi> non est pigra; <emph>1244</emph> <hi>omnia suffert,</hi> 
+non murmurat; <hi>omnia sustinet <note>(I Cor. XIII, 7)</note>
+          </hi>, non
+est impatiens. Ecce novem, quae qui perfecte habet,
+perfectus est, et secundum novem ordines angelorum
+degit in terra. Unde Apostolus: <hi>Nostra conversatio
+in coelis est <note>(Philipp. III, 20)</note>
+          </hi>. Et ut ita
+dicam, majus meritum habet homo taliter vivens,
+quam angelus. Homini enim est virtutis, angelo
+dignitatis.
+<pb n="0756A"/>
+</p>
+        </div3>
+<div3>
+          <head>39. </head>
+          <p>
+Sancta anima carnem suam a putredine vitiorum
+mortificat, dum omnes voluptates mundi per
+continentiam abnegat: et tunc quasi myrrham
+morituro corpori adhibet, ut post judicium a corruptione
+aeterna maneat sanum. Cum vero ad coelestia
+majori desiderio se accendit, et a cordis cubiculo
+omnes superfluas cogitationes ferventer
+abjicit; quasi thuribulum cor suum coram Deo facit,
+in quo dum per dilectionem virtutes congregat,
+quasi carbones in thuribulo coaptat, in quo se
+ipsam mens in conspectu Dei igne charitatis incendat.
+Dumque ferventes et mundas orationes ad
+Deum emittit, quasi fumum aromatum ex thuribulo
+educit, ut coram dilecto suave redoleat, et proximos
+quosque ad ejus amorem per bona opera concitare
+<pb n="0756B"/>
+non desinat.</p>
+        </div3>
+<div3>
+          <head>40.</head>
+          <p>
+ <hi>Non coques haedum in lacte matris <note>(Exod.
+XXXIV, 26)</note>
+          </hi>. Haedus, peccator; mater, primi parentes,
+ex quibus omnes procreati sumus; lac, vitia
+quae de originali peccato venerunt. <hi>Non coques haedum
+in lacte matris suae:</hi> id est, non sinatur peccator
+usque ad diem mortis suae in peccatis permanere,
+sed ante mortem ad bona opera revocetur, ne
+pereat.</p>
+        </div3>
+<div3>
+          <head>41.</head>
+          <p>
+ <hi>Tres sunt qui testimonium dant in terra, spiritus,
+aqua et sanguis <note>(I Joan. V, 8)</note>
+          </hi>. Veniens Dominus
+circumcisionem et alia baptismata fecit cessare:
+baptismum vero instituit, in quo tria praedicta, quasi
+testimonium Christianitatis in terra dantia operari voluit.
+<pb n="0756C"/>
+Audi quomodo sanguis Christi facit, et signum est
+ut moriamur peccato, secundum Apostolum: <hi>An ignoratis
+quia quicunque baptizati sumus in Christo Jesu, in
+morte ipsius baptizati sumus?</hi> Aqua, quae quasi quodam
+tumulo corpus includit, signum est ut ultra
+non serviamus peccato: <hi>Consepulti enim sumus cum
+ipso per baptismum in mortem.</hi> Spiritus vivificat et
+facit, ut qui in illo aquarum elemento sepelimur,
+renovati per ipsum Spiritum resurgamus, <hi>ut quomodo
+surrexit Christus a mortuis per gloriam Patris,
+ita et nos in novitate vitae ambulemus <note>(Rom. VI, 3, 4)</note>
+          </hi>. <hi>Et hi tres</hi> 
+ quia unum operantur, <hi>unum sunt,</hi> sicut
+dicit Joannes. Unum in mysterio, non in natura.
+Sanguis igitur testis mortis, aqua sepulturae, Spiritus
+vitae. Sanguis spectat ad pretium, aqua ad lavacrum,
+<pb n="0756D"/>
+Spiritus mentem renovat. Sanguis Domini nos
+redemit, sacri fontis unda nos abluit, Spiritus per
+adoptionem filios Dei nos facit.</p>
+        </div3>
+<div3>
+          <head>42.</head>
+          <p>
+ <hi>Quarta vigilia venit ad eos</hi> (apostolos) <hi>ambulans
+super mare <note>(Matth. XIV, 25)</note>
+          </hi>. Prima dormitio
+est timor nocturnus, scilicet de adversis; subsequens
+vigilia, per prudentiam. Secunda dormitio,
+sagitta volans per diem, id est tentatio per prospera;
+vigilia, per fortitudinem. Tertia dormitio, negotium
+perambulans in tenebris, scilicet vana gloria; vigilia,
+justitia. Quarta dormitio, incursus et daemonium
+meridianum, id est intemperantia. Tunc venit ad
+eos Dominus, ambulans supra mare. Dominus supra,
+sed Petrus mergitur. Primo putatur esse phantasma,
+sed post agnoscitur. Alii tepidiores, sed tamen fideles,
+magnificant Dominum in talibus.
+<pb n="0757A"/>
+</p>
+        </div3>
+<div3>
+          <head>43. </head>
+          <p>
+Septem debent esse in oratione. Oratio enim
+debet esse fidelis, juxta illud: <hi>Quidquid orantes
+petitis, credite quia accipietis, et fiet vobis <note>(Marc. XI,
+24)</note>
+          </hi>. Deinde munda, juxta exemplum Abrahae, qui
+<pb n="0758A"/>
+aves de sacrificio abigebat. Tertio justa, quarto assidua,
+quinto humilis, sexto fervens, haec duo habens
+in grano sinapis; septimo devota.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

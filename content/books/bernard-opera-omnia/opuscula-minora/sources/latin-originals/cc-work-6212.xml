@@ -1,0 +1,455 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Officium de S. Victore</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.OfDeSVi</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>AD I VESPERAS.</head>
+
+<pb n="0775A"/>
+<p>
+          <emph>ANTIPHONAE SUPER PSALMOS.</emph>
+        </p>
+<p>Victrix anima, quae sicut passer transvolans, laqueos
+venantium evasisti; da ut tuo ab his patrocinio
+eruamur.</p>
+<p>O miles emerite, qui debitam post certamen requiem
+accepisti, respice in nos, qui et inter hostiles
+gladios tuis laudibus occupamur.</p>
+<p>O victor Jesu, quem in nostro Victore vicisse cognoscimus,
+da ei sic sibi in te gloriari, ut non subeat
+oblivio nostri</p>
+<p>
+          <emph>CAPITULUM.</emph>
+        </p>
+<p>Dilectus a Deo et hominibus sanctus Victor, cujus
+memoria in benedictione est, similem illum fecit in
+gloria sanctorum.</p>
+<p>
+          <pb n="0775B"/>R\. ( <hi>prolixum</hi> ). O vere Victor, qui ex quo vixisti,
+vicisti ab utero usque ad tumulum, continuos promerendo
+triumphos. Da nobis ut sicut tuis animamur
+victoriis, muniamur et armis.</p>
+<p>V\. Ut possimus resistere in die malo et in omnibus
+perfecti stare. Da nobis, etc.
+</p>
+      </div1>
+
+<div1>
+        <head>HYMNUS.</head>
+<p>
+          <l>Vita Victoris meritis praeclara,</l>
+<l>Hominem terris, qui non sit de terra,</l>
+<l>Velut e coelo datum repraesentat</l>
+<l rend="indent">Ad imitandum.</l>
+        </p>
+<p>
+          <l>Christus in illo vixit, et non ipse;</l>
+<l>Speculum vitae mortuis de mundo,</l>
+<l>Homo coelestis praebuit se ipsum,</l>
+<l rend="indent">Similes quaerens.</l>
+        </p>
+<p>
+          <l>
+<pb n="0775C"/>Aliquid quoque sanctius professus,</l>
+<l>Exstitit Victor forma sanctitatis,</l>
+<l>Integrum servans atque incorruptum</l>
+<l rend="indent">Decus honesti.</l>
+        </p>
+<p>
+          <l>Unde et vidit visiones Dei,</l>
+<l>Vidit et coelos aperiri sibi.</l> 
+<l>Nempe pudicos visio coelestis</l>
+<l rend="indent">Quaerit aspectus.</l>
+        </p>
+<p>
+          <l>Gloria summae Trinitati Deo,</l>
+<l>Gloria trina una personarum,</l>
+<l>Tota cujusque non divisa trium,</l>
+<l rend="indent">Tres enim unum.</l>
+        </p>
+<p> <hi>Ad Magnif. Antiphona.</hi> Magna est virtus Domini
+tui, Victor, nec minor pietas: et utinam per te
+<pb n="0775D"/>
+nobis tam sit propitius ad salutem, quam tibi magnificus
+exstitit ad virtutem! Magnifica, Victor, Dominum,
+qui magna fecit tibi, magnum te faciens, ut
+<pb n="0776A"/>
+faceres mirabilia, in quibus mirabilis fieres; dedit
+certare, ut vincere daret, et Victorem coronaret.</p>
+<p> <hi>Collecta.</hi> Exaudi, Domine, quaesumus, tibi supplicantium
+preces ut, quos corporali beati confessoris
+tui Victoris fecisti praesentia gloriari, concedas ejus
+benigna intercessione undique praemuniri. Per Dominum
+Jesum, etc</p>
+<p>
+          <emph> <emph>1258</emph> AD MATUTINUM.</emph>
+        </p>
+<p> <hi>Invitat.</hi> Confidete, Victor vicit mundum Gaudeamus
+in ejus victoria, ut vincamus.</p>
+</div1>
+
+<div1>
+        <head>HYMNUS.</head>
+<p>
+          <l>Merito dulces angelorum voces</l>
+<l>Corpore gravi audiebat homo,</l>
+<l>Carneos luxus perimens, in carne</l>
+<l rend="indent">
+<pb n="0776B"/>Angelum vivens.</l>
+        </p>
+<p>
+          <l>Sic oportebat ut jam designatum</l>
+<l>Vas in honorem sanctius maneret,</l>
+<l>Sanctitas cujus dedicata fuit</l>
+<l rend="indent">Matris in alvo.</l>
+        </p>
+<p>
+          <l>Denique carne gravidam cernentes</l>
+<l>Matrem non ferunt, fugitant paventes,</l>
+<l>Indicant nomen, confitentur sanctum</l>
+<l rend="indent">Utero clausum.</l>
+        </p>
+<p>
+          <l>Neque tenello huic tam mature</l>
+<l>Vita secura, gloriae invidit,</l>
+<l>Et quidem magis cumulavit eam</l>
+<l rend="indent">Fenore multo.</l> 
+<l>Gloria summae Trinitati, etc.</l>
+        </p>
+<p>
+          <emph>
+            <pb n="0776C"/>IN PRIMO NOCTURNO, ANTIPHONAE.</emph>
+        </p>
+<p>Beatus vir qui legem dilexit, et cathedram non
+affectavit.</p>
+<p>Servivit Domino in timore, et jam sine tremore
+exsultat ei.</p>
+<p>Domine, in lumine vultus tui ambulavit, et nunc
+signatum est super eum.</p>
+<p>Verba tua, Domine, Victor auribus et corde percepit,
+ac per ea vicit.</p>
+<p>In ore Victoris perfecta laus, quia in corde ejus
+perpetua pax.</p>
+<p>Confidenti in Domino frustra insidiati sunt, qui
+sagittant in obscuro rectos corde.</p>
+<p>
+          <emph>LECTIO I.</emph>
+        </p>
+<p>Victoris vita et gloria, etc. <hi>Vide supra inter Sermones
+<pb n="0776D"/>
+de Sanctis, col.</hi> 371.</p>
+<p>R\. O virum praecipuae sanctitatis, qui ante sanctus
+quam natus, ante Victor opere quam nomine
+<pb n="0777A"/>
+fuit, ita ut clausus in utero, jam de hoste triumpharet.</p>
+<p>V\. Domine, praevenisti cum in benedictionibus
+dulcedinis. Ita ut, etc.</p>
+<p>
+          <emph>LECTIO II.</emph>
+        </p>
+<p>Habeamus dilectissimi, in vita Victoris, etc. <hi>Vide
+supra, loco citato.</hi> </p>
+<p>R\. O jucundum et inusitatum miraculum! Leo
+rugiens fugit a facie parvuli, necdum vagientis.</p>
+<p>V\. Sicut fluit cera a facie ignis; sic pereant peccatores
+a facie, etc.</p>
+<p>
+          <emph>LECTIO III.</emph>
+        </p>
+<p>Epulemur, dilectissimi, vocati ad mensam divitis,
+etc. <hi>Vide supra, col.</hi> 372</p>
+<p>R\. O felix mater, cujus uterus sensit novitatem,
+<pb n="0777B"/>
+nulli matrum compertam a diebus Joannis Baptistae</p>
+<p>V\. Non est inventus similis illi a diebus, etc.</p>
+<p>
+          <emph>LECTIO IV.</emph>
+        </p>
+<p>Si diligenter itaque, fratres reverendissimi, considero,
+etc. <hi>Vide supra, col.</hi> 373.</p>
+<p>R\. O Jesu bone, tua est virtus, tua victoria,
+quod agniculus unus luporum multitudinem exturbavit</p>
+<p>V\. Antequam sciret puer vocare patrem aut matrem,
+luporum, etc.</p>
+<p>
+          <emph>IN SECUNDO NOCTURNO, ANTIPHONAE.</emph>
+        </p>
+<p>Ad nihilum deductus est in conspectu ejus malignus,
+ut sui nominis servaret veritatem.</p>
+<p>Domine, in virtute tua laetabitur Victor, sciens
+<pb n="0777C"/>
+non in sua virtute fecisse victoriam.</p>
+<p>Non accepit in vano animam suam, qui de ratione
+rexit vitam suam, et ideo ascendit in montem
+Domini.</p>
+<p>A timore inimici eripuisti, Domine, animam
+sancti, cui peracta victoria non restat pugna.</p>
+<p>Te decet hymnus, te decet laus, cujus opus fuit,
+ut carne solutus Victor noster hominem solveret
+catenatum.</p>
+<p>Bonum est confiteri Domino, cujus munera sanctorum
+merita, cui sanctus Victor, et quod sanctus
+est, et quod victor est, debere se confitetur.</p>
+<p>
+          <emph> <emph>1259</emph> LECTIO V.</emph>
+        </p>
+<p>Gaudete in Domino, dilectissimi, qui, etc. <hi>Vide
+supra, col.</hi> 373.</p>
+<p>
+          <pb n="0777D"/>R\. Dum transiret rex Francorum, et veniret secus
+ubi habitabat eremita, admiratus est super his quae
+dicebantur de viro hoc.</p>
+<p>V\. Quanta audivimus et cognovimus ea, et patres
+nostri narraverunt nobis, super his, etc.</p>
+<p>
+          <emph>LECTIO VI.</emph>
+        </p>
+<p>Pausat miles emeritus, et post labores, etc. <hi>Vide
+supra, col.</hi> 374.</p>
+<p>R\. Jam thesaurum absconditum fama delatrix prodiderat,
+et non potuit praeterire regem praetereuntem,
+sed divertit ad tugurium pauperis, excitus fama
+sanctitatis.</p>
+<p>V\. Ut videret opera Domini et mirabilia ejus in
+deserto, excitus, etc.</p>
+<p>
+          <emph>
+            <pb n="0778A"/>LECTIO VII.</emph>
+        </p>
+<p>Fratres, latitudo coeli dilatat corda, non arctat,
+etc. <hi>Vide supra, col.</hi> 375.</p>
+<p>R\. Ingresso rege pauperis cellam, sollicitus hospes
+quod vinum non haberet, haustam de proximo fonte
+aquam benedicens convertit in vinum. Et bibit rex,
+et qui cum eo erant.</p>
+<p>V\. Repleti sunt omnes stupore et exstasi in eo quod
+contigerat illis. Et bibit, etc.</p>
+<p>
+          <emph>LECTIO VIII.</emph>
+        </p>
+<p>Parvus ad pugnam, magnus ad victoriam, etc. <hi>Vide supra, col.</hi> 
+ 375.</p>
+<p>R\. Novum genus potentiae! aquae rubescunt hydriae;
+vinum jussa fundere mutavit unda originem.</p>
+<p>V\. Dextera Domini fecit virtutem. Vinum, etc.</p>
+<p>
+          <emph>
+            <pb n="0778B"/>IN TERTIO NOCTURNO, ANTIPHONAE.</emph>
+        </p>
+<p>Quam pium, quam dulce, quam suave, o Victor,
+in hoc loco afflictionis, et in hoc corpore mortis te
+canere, te colere, te precari!</p>
+<p>R\. Homo quidam non veritus malignari in Sanctum,
+furatus est triticum ejus, et abscondit in terram,
+et ecce miser traditur maligno spiritui.</p>
+<p>V\. Maledictus homo qui abscondit frumenta in
+populis. Traditur, etc.</p>
+<p>R\. Triste miraculum, sed justitiae plenum. Ut
+quem suggestorem, ipsum et ultorem sceleris homo
+daemonem pateretur.</p>
+<p>V\. Justus es, Domine, et rectum judicium tuum.
+Ut quem, etc.</p>
+<p>R\. Revelantur iniquitatis mysteria; daemon hominem
+<pb n="0778C"/>
+cogit, homo daemonem prodit. Victor medius
+dijudicat inter illos. Dum daemonem fugat, et
+hominem sanat, frumentum prodente ipsa malignitate
+recuperat.</p>
+<p>V\. In fraude circumvenientium adfuit illi, et honestum
+fecit illum. Dum daemonem, etc.</p>
+<p>R\. Suspiciens Victor, vidit coelos apertos, et crucem
+auream gemmis ornatam, et vox ad cum:
+Gemmae sunt animae, crucis gloriam assecutae, cujus
+ignominiam portaverunt.</p>
+<p>V\. Laetetur Israel in eo qui fecit eum, et filiae
+Sion exsultent in rege suo. Cujus, etc.</p>
+<p>
+          <emph>AD LAUDES, ANTIPHONAE.</emph>
+        </p>
+<p>Corpore terras, mente coelos Victor inhabitans,
+<pb n="0778D"/>
+aliquando aliquid nuntiantes, aliquando ineffabili
+cantus suavitate plausibiles voces angelicas audiebat.</p>
+<p>Jam caelos ingressus, quos et ante oculis apertis
+suspiciebat, vere nunc revelata facie speculatur
+gloriam Dei.</p>
+<p>Beata visio! qua in eamdem imaginem, Victor,
+transformaris de claritate in claritatem, tanquam
+a Domini Spiritu.</p>
+<p>Vere anima tua, Victor, una ex gemmis quae tibi
+in <emph>1260</emph> cruce apparuerunt, vere infixa cruci,
+cum divinae inserta gloriae, eamdem sibi induit claritatis
+imaginem, quam invenit.</p>
+<p>Omnipotens Pater, peccavimus tibi, facti filii
+alieni; sed appropiavimus in Victore nostro, qui
+<pb n="0779A"/>
+cum vicerit cupiditatem suam, vincat et iram tuam,
+nos quoque in gratia potenter restituar.</p>
+<p>R\. Filiae Jerusalem, sancta anima migrat. Exite
+obviam ei.</p>
+<p>V\. Veniens venit cum exsultatione. Exite, etc.
+</p>
+      </div1>
+
+<div1>
+        <head>HYMNUS.</head>
+<p>
+          <l>Vina de fonte non de vite manant,</l>
+<l>Musta pro rivis colorata fluunt,</l>
+<l>Benedicentis manu bene usa</l>
+<l rend="indent">Pro torculari.</l>
+        </p>
+<p>
+          <l>Subito sapor subiens novellus,</l>
+<l>In novos usus latices coegit,</l>
+<l>Rege mirante, ubi non putabat</l>
+<l rend="indent">Regium potum.</l>
+        </p>
+<p>
+          <l>Daemone tortus publicat se homo,</l>
+<l>
+<pb n="0779B"/>Furta fatetur miser vel invitus.</l> 
+<l>Pellitur tortor fure deprehenso,</l>
+<l rend="indent">Tortus et ipse.</l>
+        </p>
+<p>
+          <l>Haec satis probant aliaque multa</l>
+<l>Praerogativam gloriae Victoris;</l>
+<l>Nec minoratam, quo praeventus fuit</l>
+<l rend="indent">Spiritu bono.</l> 
+<l>Gloria summae Trinitati, etc.</l>
+        </p>
+<p> <hi>Ad Bened. Antiph.</hi> Felix generatio, cui exortum
+est lumen in tenebris. Victor, illuminare his qui in
+tenebris, et in umbra mortis sedebant.</p>
+<p> <hi>Alia.</hi> Benedictus Dominus Deus Victoris, qui
+ipsum in medio statuens, cornu salutis erexit nobis,
+et rursum de medio tollens cum principibus collocavit,
+ut habeat ex hominibus, cui hominum peccata
+<pb n="0779C"/>
+donet.</p>
+<p>V\. Haec dies tantae solemnitatis ejus, haec dies
+laetitiae gentis ejus. R\. Exsultemus et laetemur
+in ea.</p>
+<p>
+          <emph>AD PRIMAM, ANTIPHONA.</emph>
+        </p>
+<p>Hodie posito corpore Victor, quo solo praepediri
+<pb n="0780A"/>
+ab introitu gloriae videbatur, dives meritis, signis
+clarus, expeditus penetravit in sancta, similis factus
+in gloria sanctorum.</p>
+<p>
+          <emph>AD TERTIAM.</emph>
+        </p>
+<p>Nomen tuum et memoriale tuum Victor, favus
+distillans in labiis captivorum. Eia ergo, fortis
+athleta, dulcis patrone, advocate fidelis, exsurge
+in adjutorium nobis, ut de plena victoria glorieris.</p>
+<p>
+          <emph>AD SEXTAM.</emph>
+        </p>
+<p>Vincenti expandit gremium suum, qui pugnanti
+dederat spiritum suum. Ibi, ibi, tu qui ubique es,
+cogitare de miseris inspira ei, Deus; supplicantem
+pro miseris suscipe eum, Deus; exorantem pro miseris
+exaudi eum, Deus.</p>
+<p>
+          <emph>
+            <pb n="0780B"/>AD NONAM.</emph>
+        </p>
+<p>Absorptus est Victor in gloria Filii Dei: immitte
+ei nostri semper memorem fieri, nostram in tuo
+tremendo judicio suscipere et agere causam.</p>
+</div1>
+
+<div1>
+        <head>AD II VESPERAS.</head>
+<p>Sancte Victor, quis digne explicet laudes tuas,
+castimoniae decus, animi virtutem, conscientiae puritatem?</p>
+<p>Sancte Victor, quis det nobis, ut cum memoria
+abundantiae suavitatis tuae insideat nobis forma rectitudinis
+vitae tuae?</p>
+<p>Sancte Victor, mitte nobis auxilium de sancto, et
+de Sion tuere nos, qui de terra te laudamus.</p>
+<p>Sancte Victor, sanctitas tua, victoria tua, quo
+nobis salubrior, eo tibi gloriosior invenitur.</p>
+<p>
+          <pb n="0780C"/>V\. Ecce appropinquat Victor gloriosus, cito proferte
+coronam.</p>
+<p>R\. Jam intrat in gaudium Domini sui.</p>
+<p> <hi>Ad Magnif. Antiph.</hi> O magnifice Victor, etsi elevata
+est magnificentia tua super coelos, sed non
+terrae inopes tua jugis munificentia derelinquat.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,158 @@
+{
+  "id": "bernard-opuscula-minora",
+  "cover": "classic",
+  "name": {
+    "la": "Opuscula minora",
+    "en-US": "Minor Works",
+    "pt-BR": "Opúsculos menores"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Opuscula minora Bernardi: Prologus in Antiphonarium (De cantu), Officium de S. Victore, Chartae, Opuscula duo, Formula confessionis, Parabolae, Sententiae.",
+    "en-US": "Bernard’s shorter pieces gathered from Migne: the prologue to the Cistercian antiphonary (on chant), the office of Saint Victor, charters, two short opuscula, a formula of private confession, the Parables and the Sentences. The Latin is the Maurist text in Migne (Patrologia Latina 182–184). Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "Peças menores de Bernardo reunidas de Migne: o prólogo do antifonário cisterciense (sobre o canto), o ofício de São Vítor, cartas patentes, dois opúsculos, uma fórmula de confissão privada, as Parábolas e as Sentenças."
+  },
+  "composed": "c. 1120-1153",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/opuscula-minora",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182-184)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182-184 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), works 6152, 6212, 6149, 6161, 6175, 6213, 6215, from machine-corrected OCR.",
+      "description": "One group per feast or piece, as the Corpus Corporum divides them. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "w6152",
+      "title": {
+        "la": "De cantu"
+      },
+      "children": [
+        {
+          "id": "w6152-admonitio",
+          "title": {
+            "la": "Admonitio Mabillonii"
+          }
+        },
+        {
+          "id": "w6152-epistola",
+          "title": {
+            "la": "Epistola seu prologus"
+          }
+        },
+        {
+          "id": "w6152-praefatio",
+          "title": {
+            "la": "Praefatio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6212",
+      "title": {
+        "la": "Officium de S. Victore"
+      },
+      "children": [
+        {
+          "id": "w6212-sermo",
+          "title": {
+            "la": "Officium de S. Victore"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6149",
+      "title": {
+        "la": "Chartae"
+      },
+      "children": [
+        {
+          "id": "w6149-sermo",
+          "title": {
+            "la": "Chartae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6161",
+      "title": {
+        "la": "Opuscula duo"
+      },
+      "children": [
+        {
+          "id": "w6161-admonitio",
+          "title": {
+            "la": "Admonitio Mabillonii"
+          }
+        },
+        {
+          "id": "w6161-l1-prooemium",
+          "title": {
+            "la": "Prooemium"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6175",
+      "title": {
+        "la": "Formula confessionis privatae"
+      },
+      "children": [
+        {
+          "id": "w6175-sermo",
+          "title": {
+            "la": "Formula confessionis privatae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6213",
+      "title": {
+        "la": "Parabolae"
+      },
+      "children": [
+        {
+          "id": "w6213-sermo",
+          "title": {
+            "la": "Parabolae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6215",
+      "title": {
+        "la": "Sententiae"
+      },
+      "children": [
+        {
+          "id": "w6215-sermo",
+          "title": {
+            "la": "Sententiae"
+          }
+        }
+      ]
+    }
+  ]
+}

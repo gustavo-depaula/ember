@@ -1,0 +1,1004 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Opuscula duo</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 182</title>
+           <idno>BerCla.OpuDuo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<note>
+        <div1>
+          <head>MONITUM IN OPUSCULA DUO SUBSEQUENTIA.</head>
+<p>Librum sequentem ex codice membranaceo saeculi XIII luci mandamus, qui tractat <hi>De passione Christi,
+et doloribus, et planctibus Matris ejus.</hi> Conscriptus est in forma dialogi, et num sit Bernardi Clarae-Vallensis
+vel alterius abbatis Bernardi, ignoramus; eum tamen publici juris facimus, quia valde devotus
+est.</p>
+<p>Tractatum alterum <hi>De laudibus B. V. M.</hi> inscriptum ex alio codice chartaceo in quarto, ut vocant, saeculi
+XIV, exscribere necesse fuit. Hunc tractatum seu librum vidimus in Bibliotheca coenobii S. Mariae
+Magdalenae ord. Praedic. Astae, sign.  N.  A.  B. C., num.: Num vero ejusdem sit vel alterius monachi
+deflorantis opera ejusdem, judicent critici.
+</p>
+        </div1>
+      </note>
+
+<div1>
+        <head>LIBER DE PASSIONE CHRISTI ET DOLORIBUS ET PLANCTIBUS MATRIS EJUS.<note>(D. Eugenius de LEVIS, <hi>Anecdota sacra,</hi> p. 60. Augustae Taurinorum 178 . . . 4º.)</note>
+        </head>
+<p>
+          <pb n="1133A"/> <emph>702</emph> <super>2</super> Quis unquam regnans in coelo sursum, vel
+peregrinans in terra deorsum, audiens vel mente
+pertractans quomodo <hi>factus est opprobrium <note>(Psal.
+XXII, 7)</note>
+          </hi> ipse Dominus angelorum, <hi>et abjectio plebis <note>(ibid.)</note>
+          </hi> 
+ Filius Dei Patris, et poterit lacrymas continere,
+vel ei enim erit impossibile flere? Verumtamen,
+tu, gaude gaudio magno ab ipso, nunc
+glorifica in coelis, quae in mente clavis amarissimae
+fuisti confixa suae piissimae mortis. Mihi tamen,
+obsecro, lacrymas illas infunde quas habuisti in sua
+passione, ut iis fluam largius.</p>
+<p>De passione filii tui et Domini mei verba ad invicem
+conferamus.</p>
+<p>Teneris promissionem reddere quam nobis superius
+promisisti. Memini te mihi in primo exordio
+<pb n="1133B"/>
+nostri sermonis fuisse locutam de doloribus, quos
+ipsa portasti pro morte unigeniti tui, quia, ut audivi,
+<pb n="1134A"/>
+non modicum perturbatus coepi quaerere, dolens
+qui essent illi tui sermones.</p>
+<p>Cui ipsa dixit: Qui sunt isti sermones? Interim
+recogita in amaritudine animae tuae. De his in consequentibus
+ad invicem conferemus.</p>
+<p>Enarra, te flagito, seriem veritatis, quae mater
+es veritatis. Ad quem illa:</p>
+<p>Illud quaeris; caput et initium est magni doloris.
+Sed quia glorifica flere non possum, tu cum
+lacrymis scribe quae cum magnis doloribus ipsa
+persensi.</p>
+<p>Cui, inquam, flere peropto, et nihil mihi aliud
+libet, da quod jubes, et praebe quod cupio.</p>
+<p>Audi, ac servis tuis dicat domina mea. Dic mihi
+si in Jerusalem eras, quando fuit captus filius tuus,
+<pb n="1134B"/>
+et vinctus, et ductus, ad Annam tractus?</p>
+<p>At illa: In Jerusalem eram, quando hoc audivi,
+<pb n="1135A"/>
+et gressu quo potui ad Dominum meum flens perveni.
+Cumque illum fuissem intuita pugnis percuti,
+alapis caedi, faciem conspui, spinis coronari et opprobrium
+hominum fieri, <hi>commota sunt omnia viscera
+mea <note>(Gen. XLIII, 30)</note>
+          </hi>, <hi>et defecit in me spiritus meus <note>(Psal. LXXVI, 4)</note>
+          </hi> 
+ et non erat mihi fere vox, neque
+sensus. Erant et mecum meae sorores et feminae
+multae, mecum plangentes eum quasi unigenitum,
+inter quas erat Maria Magdalena, quae super omnes
+alias, excepta illa quae loquitur tecum, dolebat, et
+dum Christus Deus, clamante praecone, imperante
+Pilato, sibi bajulans crucem ad supplicium traheretur,
+et factus est concursus populorum post ipsum
+euntes, alii super ipsum plangentes, alii [ <hi>cod.</hi> ei]
+eum illudentes ridebant. Sequebatur et ipsum, prout
+<pb n="1135B"/>
+poterat, ejus moestissima mater cum mulieribus,
+quae secutae fuerant a Galilaea ministrantes ei, a
+quibus trahebatur, et tenebatur velut emortua,
+quousque perventum est ad locum ubi crucifixerunt
+eum. Ante oculos ejus fuit in cruce levatus, et ligno
+durissimis clavis affixus, et ipse <hi>tanquam agnus coram
+tondente se vocem non dabat, nec aperiebat os
+suum <note>(Isai. LIII, 7)</note>
+          </hi>. Aspiciebat ancilla Dominum
+suum, intuebatur mater filium suum in cruce pendentem,
+morte impiissima morientem, et tanto doloro
+vexabatur in mente, quanto non posset explicari
+sermone. Nec mirum, manabat ejus sanguis ex
+quatuor partibus rigantibus nudis, ligno manibus,
+pedibusque clavis confixus, de vultu illius pulchritudo
+effluxerat omnis. <hi>Et qui erat prae filiis hominum
+<pb n="1135C"/>
+speciosus <note>(Psal. XLIV, 2)</note>
+          </hi>, videbatur omnium
+indecorus. Videbam quod complebatur propheticum
+illud in eo judicium, cum <hi>et non erat illi species, neque
+decor <note>(Isai. LIII, 2)</note>
+          </hi>, quoniam iniquorum vultum
+illius verberum faedaverat livor, et videbam me deseri
+ab ipso quem genui, nec supererat alius, quoniam
+mihi erat unicus, et ideo non poterat capere
+in me dolor meus; vox mea fere perierat omnis, sed
+dabam gemitus suspiriaque doloris. Volebam loqui,
+sed dolor verba rumpebat, quoniam verbum jam
+mente conceptum, dum ad formationem praetenderet
+oris, ad se imperfectum revocabat dolor, non
+inimica cordis vox tristis sonabat foris vulnus denuntians
+mentis, verba dabat amor, qui raucum
+<pb n="1135D"/>
+sonabat, non lingua vocis magistra perdiderat usum.
+Loquendo videbam morientem, quem diligebat anima
+mea, et tota liquefiebam prae doloris angustia.
+Aspiciebat et ipse benignissimo vultu me matrem
+plorantem, et me verbis paucis consolari voluit.
+Sed ipsis consolari non poteram, sed flebam dicendo,
+et dicebam plorando: Fili mi, fili mi, quis
+mihi dabit, ut ego moriar pro te? Moritur filius,
+cur nec secum misera moritur mater ejus? Amor
+unice, fili mi dulcissime, noli me derelinquere post
+te <hi>trahe me ad te</hi> ipsum <note>(Cant. I, 3)</note>, ut ipsa moriar
+tecum. Male solus moreris, tecum morte perimatur
+ista tuageni trix, et mors, mihi miserae parcere noli,
+tu mihi sola prae cunctis placens, exere vires
+tuas, trucida matrem, et cum filio perime simul,
+<pb n="1136A"/>
+Fili et indulcor unice, singulare gaudium vitae meae,
+animae et omne desiderium, et fac ut ipsa nunc
+moriar tecum quae te genui ad mortem, sine matre
+noli mori. Recognosce me miseram matrem tuam,
+et exaudi precem meam; decet enim filium exaudire
+matrem. Exaudi me, obsecro, in tuo me suscipe
+patibulo, ut qui una carne vivimus, una carne pereamus.</p>
+<p>O Judaei, ipsi nolite mihi parcere, qui natum
+meum crucifixistis. Matrem crucifigite, aut alia quacunque
+me saeva morte perimite. Dum meo cum
+filio finiar simul, male solus moritur. O mors, orbas
+orbem radio, ne videam filium, gaudium, dulcorem!
+vita mea, salus mea perimitur, ac de terra tollitur
+spes mea. Cur ergo vivit post filium mater in dolore?
+<pb n="1136B"/>
+Tollite, suspendite matrem cum suo pignore. Non
+parcis proli, non parcas et mihi; tu mihi, mors,
+esto serva.</p>
+<p>Tunc summe gauderem, si mori possem simul
+cum Christo meo dulci, et simul mori misera. Sed
+mors optata recedit. Vae mihi infelici! Tibi, Jesu,
+praecepta vincit mors. Morte mori melius mihi
+quam vitam dulcem mortis; sed fugit a misera,
+et me infelicem relinquit, cui ipsa mors optata nunc
+esset.</p>
+<p>O fili chare, o benigne, summe nate, miserae matris
+suscipe preces. Desine matri nunc esse durus,
+qui semper fuisti benignus in cunctis. Suscipe matrem
+in morte tecum, ut vivat tecum post mortem
+semper. Nihil vivere dulcius mihi quam tecum
+<pb n="1136C"/>
+mori et vivere. Nihil vivere amarius est quam vivere
+mihi post tuam mortem.</p>
+<p> <emph>702</emph> <super>3</super> Tu mihi pater, tu mihi mater, tu mihi
+sponsus, tu mihi filius, tu mihi omnia eras. Nunc
+orbor patre et matre, viduor sponso, et desolor prae
+omnibus, omnia perdo. O fili mi, ultra quid faciam?
+Vae mihi! veni, fili. Quo vadam? Ubi me vertar,
+dulcissime? Quis mihi solamen, piissime? Quis mihi
+de caetero subsidium et consilium ultra praestabit,
+fili charissime? Omnia possibilia sunt tibi. Sed si
+non vis ut moriar tecum, mihi relinque aliquid benigne
+consilium. Cui oculis et vultu, Domine, tam
+anxie in cruce annues?</p>
+<p>De Joanne, ait: <hi>Mulier, ecce filius tuus <note>(Joan. XIX,
+26)</note>
+          </hi>, et erat ipse praesens Joannes vultu tristis, lacrymis
+<pb n="1136D"/>
+semper plorans, ac si diceret:</p>
+<p>O homolus [ <hi>cod.</hi> homulus], ad flendum mollis, ad
+dolendum! Tu scis quia ad haec veni et de te carnem
+assumpsi, ut per crucis patibulum salvarem
+genus humanum. Quomodo implebuntur Scripturae?
+Scis enim quia oportet me pati pro salute generis
+humani, sed die tertia resurgam tibi, et discipulis
+meis patenter apparens. Desine flere, dolorem depone,
+quia ad Patrem vado, gloriam paternae majestatis
+percipiendam ascendo. Quinimo et gratulare
+mihi, quia nunc inveni ovem errantem, quam tam
+longo tempore perdidi. Moritur unus, et ut idem totus
+reminiscatur mundus, ob meritum Christi, peccatores
+salvantur cuncti nunc, unius ob meritum.
+<pb n="1137A"/>
+Quod placet Deo Patri, quomodo displicet tibi, mater
+dilecta? <hi>Calicem quem dedit mihi Pater <note>(Joan.
+XVIII, 11)</note>
+          </hi>, non vis ut bibam illum? Noli flere, mulier,
+noli flere, dulcissima mater. Non te defero,
+non te derelinquo, tecum sum, tecum ero omni
+tempore saeculi; si secundum carnem subjaceo imperio
+mortis, secundum divinitatem fui, sum et ero
+semper immortalis et impassibilis. Bene scis unde
+processi et veni. Quare ergo tristaris si illuc ascendo
+unde descendi? <hi>Tempus est ut revertar ad
+eum qui me misit, et quo ego vado, non potes modo
+venire; venies autem postea <note>(Joan. XIII, 36)</note>
+          </hi>.</p>
+<p>Interim Joannes, qui nepos tuus reputabitur tibi
+filius, curam habebit tui, et erit tibi solatium fidelissimum.
+Inde Joannem intuitus ait: <hi>Ecce mater
+<pb n="1137B"/>
+tua <note>(Joan. XIX, 27)</note>
+          </hi>, ei servies, curam illius habe,
+eam tibi commendo, suscipe matrem meam, suscipe
+matrem tuam, imo magis suscipe meam.</p>
+<p>Tacebant isti virgines, ambo prae dolore loqui non
+poterant, nec respondere verbum, quia illum videbant
+quasi mortuum. Erant enim illi velut mortui,
+unde spiritus eorum voces exhalare non poterant.
+Audiebant, et tacebant, quia prae dolore loqui non
+valebant. Defecerat enim spiritus eorum, et amiserant
+virtutem loquendi; solus illis dolor, luctus qui
+remansit anxius, amabat flere, et flebat amare.
+Amare flebant, quia amare dolebant. Nam gladius
+Christi animas utriusque transibat. Transibat
+sensus saeve, perimebat utrumque, quo magis amabat
+segnior fiebat in matre. Mater sentiebat Christi
+<pb n="1137C"/>
+dolores. Virgo quem peperit gladium est passa doloris,
+Christi morientis vulnera matris erant, Christi
+dolores fuerant tortores in anima matris. Mater mater
+erat levata pignoris morte;
+<l>Morte martyr erat percussa cuspide teli</l>
+quo membra Christi servi foderunt inique, ipsa
+erait, quam dolor magnus tenebat. In mente ejus
+creverant immensi dolores, nec poterant exterius
+refundi. Intus atrocius saevientes dolores nati matris
+animam gladiebant. In carne Christus solvebat debitum
+mortis, quod gravius erat quam mori animae
+matris.</p>
+<p>Interim Christus Matri et Joanni dixit: <hi>Sitio <note>(Joan.
+XIX, 28)</note>
+          </hi>, <hi>et dederunt ei,</hi> qui crucifixerunt eum, <hi>acetum
+<pb n="1137D"/>
+cum felle mistum. Quod cum gustasset noluit
+bibere <note>(Matth. XXVII, 34)</note>
+          </hi>, et dixit <hi>Consummatum est <note>(Joan. XIX, 30)</note>
+          </hi>,
+ <hi>et clamavit voce magna,</hi> dixitque: <hi>Pater in manus tuas commendo spiritum meum 
+ <note>(Luc.
+XXIII, 46)</note>
+          </hi>. Et sic dicens <hi>exspiravit <note>(Matth. XXVII, 30)</note>
+          </hi>.
+<l>Tunc tremuit terra, tunc sol sua lumina clausit,</l>
+<l>Moerebant poli, moerebant sidera cuncta,</l>
+<l>Omne suum jubar amisit sua lumina perdens,</l>
+<l>Omnis plangendo recessit fulgor ab alto.</l> 
+<l>Scinduntur duri lapides, scinduntur culmina templi.</l>
+        </p>
+<p>Surrexerunt multi apertis tumbis sepulcri fatentes
+Christum cum voce publica Deum.</p>
+<p> <emph>702</emph> <super>4</super> Cogitare libet quantus dolor interfuit matri,
+cum sic dolebat, quae ita sensibilis erat. Non
+lingua loqui, nec mens cogitare valebat quanto dolore
+<pb n="1138A"/>
+anima tunc tenebatur Mariae. Juxta crucem
+Christi stabat emortua Virgo, quae illum concepit
+virgo de sancto Spiritu; vox non erat ulla, dolor
+abstulerat vires. Imo strata jacens pallebat quasi
+mortua, vivens vivebat, moriens vivensque moriebatur,
+nec poterat mori, quia vivens mortua erat;
+in anima illius dolor saeve saeviebat, optabat mori
+quam vivere post mortem Christi, quod male vivens
+mortua tunc erat. Ibi stabat dolens, confecta saevo
+dolore, exspectans Christi corpus deponi de cruce;
+haec plorabat, dicens, atque plorando dicebat: Laedite
+mihi miserae, vel corpus exanime. Complevisti
+vota. Exstinctum deponite. Mater, vel simili magis
+me morte jungite illi, ut cum suis pereant doloribus
+infiniti dolores. Deponite eum mihi, ut habeam
+<pb n="1138B"/>
+mecum ejus exanime corpus, mihi solamen erit,
+vel saltem defunctus.</p>
+<p> <hi>Juxta crucem stabat Maria <note>(Joan. XIX, 25)</note>
+          </hi> considerans
+vultu benigno Christum pendentem in crucis
+ligno, stipite saevo, pedibusque flexis, junctisque
+manibus levabat in altum, amplectens crucem,
+ruens, et oscula ejus, Christi qua parte sanguis
+nuda rigabat, ut Christum valeret amplecti, quae
+non poterat sursum volebat tendere manus. Sperat
+amor multa, quae raro, vel neque fieri possunt sibi
+concedi. Cuncta amor impatiens credit, volebat
+amplecti Christum in alto pendentem; sed manus
+inde frustra tensae in se complexae redibant. Se levans
+a terra sursum se erigebat ad Christum, et
+quia tangere nequibat illum, male collidebatur ad
+<pb n="1138C"/>
+terram; ibi prostrata jacebat doloris immensitate
+depressa, sed eam erigere compellebat vis magni
+amoris incensam. Impetu amoris surgebat intensis
+manibus attractare cupiens Christum. Erat enim
+vero magno cruciata dolore, terram iterum petere
+cogebatur. O quam male tunc illi erat, gravius erat
+illi vita vivere tali, quam mortis gladio ab impiis
+saeve necari, tamque mortis pallor ejus perfuderat
+mentem, vultu tamen perfuderat, et genis, et ore
+rubra erat Christi cruore. Cadentes guttas sanguinis
+ore tangebat, terram deosculans, quam cruoris unda
+rigabat.</p>
+<p>Interim quidam vir <hi>nobilis, nomine Joseph, qui
+erat discipulus ejus <note>(Matth. XXVII, 57)</note>
+          </hi>, sed tamen
+<pb n="1138D"/>
+occulte, confidenter ad Pilatum ingreditur, sibi postulans
+dari corpus Domini nostri Jesu, quo concesso
+sibi, accersivit quemdam virum sapientem, et
+legisperitum discipulum Christi occulte similiter, nomine
+Nicodemum, et convenerunt ad locum ubi
+Dominus crucifixus erat, secum instrumenta portantes,
+quibus clavis avulsis de cruce possent deponere
+eum. Quos dum mater ejus vidit volentes deponere
+ipsum; quae de morte consurgens, paululum
+reviviscens spiritus ejus, et illud, quod poterat,
+adjutorium ministrabat. Unus clavum e manibus
+trahebat, alius ne caderet corpus examine sustentabat.
+Stabat et Maria, brachia levans in altum, ut
+caput et manus dependentia Christi super pectus
+traheret ipsa simul. Quem dum attingere valuit, in
+<pb n="1139A"/>
+osculis, et amplexibus ruens de eo suo dilecto, licet
+exstincto, satiari non poterat. Hoc dum de cruce in
+terra corpus depositum fuit, super ipsum ruens prae
+incontinentia doloris et immensitate amoris quasi
+mortua stabat.</p>
+<p>Stabat ad caput exstincti filii sui mater Maria lacrymis
+faciem ejus rigans; per diversa torquebatur
+suspiria interius, frontem, et genas, oculos, quasi
+simul et nasum, omniaque frequentius osculabatur,
+ipsa lacrymarum tanta ubertate flebat, ut carnem
+cum spiritu omnem in lacrymis resolvi putares.
+Rigabat lacrymis exstinctum filii corpus expositum,
+cum fuerat in lapide, quem madebat, in quo
+ejus lacrymae adhuc apparere ferunt; illus facta
+revocabat ad mentem.</p>
+<p>
+          <pb n="1139B"/>Quis vel qualis fuerat, quem ipsa Virgo concepit
+sine umbedine, peperit et sine dolore, totum ei erat
+omne, quod ipsa videbat, tamen Deus et Dominus
+suus, et unicus filius ejus. Et sic male ei erat, sicut
+ipse omne poterat, et esse dolebat. Dicat, si potest,
+quicunque dicere cupit, quantam Christi mater tenebat
+miseriam doloris Virginis? Dolorem posse narrare
+non credo. Tamen rectus erat amoris continens
+modus; non desperabat, sed pie justeque dolebat,
+quem genuit Virgo, injusta morte dolebat
+damnatum, sperans tamen ipsum die tertio resurgere.</p>
+<p> <emph>702</emph> <super>5</super> Quaedam et illae plorabant feminae sanctae,
+quarum prior erat numerus, paucique virorum, qui
+lugerent Christum simul cum Virgine matre. Erant
+<pb n="1139C"/>
+et angeli simul cum illa dolentes, tamen dolentes
+si poterant, qui de pio dolentes, et justo dolore.
+Compatiebantur in morte Christi dolendo, gaudentes
+quod redimeretur genus humanum, flebant, ut
+arbitror, amarissime mente conturbati, quia matrem
+Christi videbant tanto dolore teneri. O quis
+angelorum vel archangelorum contra naturam illic
+non flevisset! imo contra naturam immortalis Deus
+homo mortuus jacebat. Videbant corpus Christi sic
+male tractatum ab impiis, sic vulneratum jacere
+exanime, et Mariam suo cruentatam cruore, illam
+piam, illam sanctam, totam bonam, totam dilectam,
+totam dulcem, totam pulchram, totam delectabilem
+Mariam suam beatissimam matrem tantis cruciari
+<pb n="1139D"/>
+singultibus, tam amoris repletam doloribus, sic
+amarissime flere, unde suas lacrymas non poterat
+refrenare. Flebat luctus, et planctus, et moeror ab
+angelis praesentibus ibi quales docebat luctus spiritus
+almos. Imo mirare, si angeli cuncti non flevissent
+etiam in illa beatitudine ubi est impossibile
+flere. Credo propter quod loquor, quod dolebant,
+si dolore valebant, sicut enim fuit possibile Deum
+per assumptum hominem mori, ita possibile fuit
+angelos beatos dolere in morte Domini sui.</p>
+<p>Joseph ab Arimathaea vir sanctus, et justus, qui
+cum Nicodemo deposuerat Christi corpus de cruce
+sicut Evangelium ei testimonium perhibet, posuit
+eum <hi>in sindone munda conditum pretiosissimis aromatibus <note>(Joan. XIX, 39)</note>
+          </hi>,
+et posuit illud in monumentum
+<pb n="1140A"/>
+novum, quod fecerat sibi alacriter, et devote;
+tunc ad illius exsequias angelorum millia millium
+decantabant, quia omnes convenerant ad sepulturam
+Domini sui. Illi laudes extollebant ad coelum.
+Maria plorabat amare juxta sepulcrum, dum Joseph
+et Nicodemus Deum ponerent in sepulcrum. Volebat
+mater moesta simul sepeliri cum illo. Haec
+erat enixa super dilectum suum, amplectens illum
+cum omni amore, dulcissime deosculans ipsum, dicebat: <hi>Miseremini mei, miseremini mei, saltem vos
+amici mei 
+ <note>(Job XIX, 21)</note>
+          </hi>. Illum paululum relinquite,
+ut aliquam videndo habeam consolationem, o charissimi,
+adhuc mihi, ut faciem illius sub tecto, vel
+animam valeam contemplari, nolite eum tradere
+sepulturae tam cito, date illum miserae matri suae,
+<pb n="1140B"/>
+ut habeam illum mecum, vel saltem defunctum, aut
+si illum ponitis in sepulcro, me miseram deponite
+cum illo; mallem, quia et post id supererit mihi.
+Illi ponebant Christum in tumbam, et illa trahebat
+ad seipsam. Illa volebat eum ad se retinere, et illi
+volebant eum tradere sepulturae, et sic fiebat haec
+pia lis, et miseranda contentio inter eos. Omnis
+caro tamen sic amarissime flebat, ut nullus eorum
+ad plenum verba formare posset. Videbant intrare
+matrem omni destitutam solatio, et super illam
+dabant potius planctum, quam super exstinctum
+filium suum, Dominum nostrum. Major illis erat
+dolor de matris dolore, quam fuerat de sui Domini
+morte. Flebant igitur cuncti miserando dolore gementes,
+et sic vitae Dominum mortis sepulturae
+<pb n="1140C"/>
+dederunt. Sepulto Domino, sepulcrum mater amplectitur
+omni corde, et qua poterat voce benedicebat
+filium suum. Sedens ad sepulcrum in viso
+capite illi extendebat manus desuper osculans illud,
+nimis amare Dominum deplorabat singultu.</p>
+<p>Accessit Joannes, cui eam commendaverat Christus,
+et lugens ipse eam levavit lugentem; nam
+cruciata gemitibus, fatigata dolore, afflicta plorationibus,
+pedibus stare fere nequibat, et tamen sic
+portatur, a mulieribus sanctis adjuta, a cunctis plorantibus
+simul, Jerusalem ingreditur, quam feminae
+multae videntes, motae pietate super illius dolores
+ad luctum convertebantur amarum, et illarum quaedam
+ambulantes post illam etiam lamentabantur.
+<pb n="1140D"/>
+Plorantes plorabant, multaeque condolebant Mariae.
+Nam dolor ejus multos faciebat dolores. Vix poterat
+lacrymas continere quicunque videbat eam plorantem.
+Tam pie plorabat, et tam amare dolebat,
+quod ex pio suo ploratu multos etiam invitos
+trahebat ad luctum; planctus fiebant a quocunque
+transibat.</p>
+<p>Maria plorabat ipsa, plorabant ambulantes cum
+ipsa, plorabant multi venientes obviam ei, sic usque
+deducitur a plorantibus plorantes quousque perventum
+est ad domum Joannis. Ibi resedit, ibique permansit
+in domo sua cum Joannes retinuit, et sicut
+propriam matrem eam in corde dilexit.</p>
+<p>O felix, o beatus Joannes, cui talem Dominus
+commendavit thesaurum. Reddet tibi Dominus mercedem
+<pb n="1141A"/>
+dilectionis, quam in ejus matre tibi commendata
+ab ipso semper habuisti. Benedictus tu a Christo.
+Benedictus a matre ipsius, quam dilexisti puro
+et mundo corde. Benedicti sunt omnes qui diligunt
+eam.</p>
+<p>
+          <pb n="1142A"/>Et semper sit benedictus filius ejus Jesus Christus
+Dominus noster, qui vivit et regnat cum Deo in
+unitate Spiritus sancti per omnia saecula saeculorum.
+Amen
+</p>
+      </div1>
+
+<div1>
+        <head>TRACTATUS AD LAUDEM GLORIOSAE V. MATRIS.<note>(Eugenius de LEVIS <hi>Anecdota sacra,</hi> p. 70.)</note>
+        </head>
+<p>
+          <pb n="1141B"/> <emph>702</emph> <super>6</super> Syllabae coelestibus sacramentis plenae, ore
+polluto, amorem mihi, et verecudiam intermittunt,
+quia <hi>vir pollutus labiis ego sum <note>(Isa. VI, 5)</note>
+          </hi>, cor immundum
+habeo, pollutam linguam rubigine pollutionis
+tinea denigratam. Aegra est conscientia quam
+tinea ad ultionem corruptionis corrodit. Ad loquendum
+igitur de hac salutatione non solum sermonis
+infirmitatem, sed et silentium profiteor. Supercecidit
+ignis mihi, ut non possim videre hunc solem in
+radio, imo radium, de quo sol verus procedit. Syllabas
+hujus salutationis coelestibus sacramentis plenas
+de illo libro credo sumptas, quem signatum vidit
+Isaias qui si detur scienti, vel non scienti litteras,
+neuter legere poterit <note>(Isa. XXIX, 11)</note>. Regina coelorum
+haec est, de qua loqui nitimur, sed mater misericordiae
+<pb n="1141C"/>
+terret hoc; solatur illud, sed quia mater
+misericordiae pro peccatoribus est facta porta Coeli,
+praesumit misericordiae confidentia quod dissuadet
+misericordiae altitudo. Scio siquidem quod fracti
+sunt ad numerum dentes mei. Scio certe quod non
+est splendida laus in ore peccatoris, et cum non
+praesumpserim psalmum, ut det tympanum sonum
+suum, <hi>tanquam aes sonans aut cymbalum tinniens <note>(I Cor. XIII, 1)</note>
+          </hi>,
+sed licet vox discordet a vita, scio
+tamen quod verbum de regina est ex altitudine magis
+gloriosum. Dicamus ergo: <hi>Ave, Maria, gratia plena <note>(Luc. I, 28)</note>
+          </hi>.</p>
+<p>O nova, o coelesti nectare delibata. O vere praedicanda
+salutatio: <hi>Surge, aquilo, et veni, auster <note>(Cant. IV, 16)</note>
+          </hi> 
+ perfla nobis syllabas hujus salutationis
+<pb n="1141D"/>
+in dulcedine, ut fluant aromata illius. In hac
+salutatione quaelibet syllaba odore paradisi redolet,
+quia verba haec vere sunt coeli melle mellita, et
+quia de throno procedunt in hac valle lacrymarum
+peregrina, vix habitant domos luteas Evae filiis intelligenda. <hi>Nardus cum croco, et crocus cum nardo
+fistula, et cinnamomum, myrrha, et aloe, cum universis
+lignis Libani 
+ <note>(Cant. IV, 14)</note>
+          </hi>. In salutatione mutua
+dulcedine respirant nitor verborum grammaticus,
+titubator dialecticus, exornator rhetoricus, et his
+verbis obstupescunt quod mirabilis salutatio procedens
+a throno lampades habet coruscantes, ut lychnum
+pectoris perspiciat et illustret. Haec salutatio
+<pb n="1142B"/>
+in sacrario Trinitatis est digito Dei conscripta,
+cum in consistorio coelestis palatii a notatione
+majestatis sumpsisset originem, uni de fortissimis
+palatii ad deferendum est delegata. Gabriel namque <hi>Dei fortitudinem</hi> 
+ Hebraeus interpretatur. Mittitur
+namque Gabriel archangelus, et egreditur de Rege
+ad reginam, de Imperatore ad imperantem, de civibus
+coeli ad condominam palatii. Ingreditur ad Virginem
+regis perelectam, et eo forte alacrius, ut cum
+angeli prius haberent Regem, habituri essent et reginam,
+et ut ad supplendam ordinis angelici ruinam,
+peccatores ingredi viam paradisi, <hi>mater misericordiae,</hi> 
+regina angelorum, porta fieret Coeli. Ingressus
+ergo angelus: <hi>Ave,</hi> inquit, <hi>gratia plena, Dominus
+tecum.</hi> Libet intueri, libet amplecti, libet admirari
+<pb n="1142C"/>
+in hac salutatione titulos imperatricis nostrae
+radiantes in diademate, et ipsius gemmas contemplari.
+Inspice syllabas hujus altissimae salutationis,
+et invenies in sigillo imperatricis nostrae, quasi characteres
+spiritualis gratiae annulo auctoritatis impressos.
+Videtur mihi videre in hoc sigillo quasi
+quatuor potentissimi luminis gemmas mutua redumbratione
+rutilantes. Quarum prima est <hi>Gratia plena,</hi> 
+secunda <hi>Dominus tecum,</hi> tertia <hi>benedicta tu in mulieribus,</hi> 
+quarta <hi>benedictus fructus ventris tui.</hi> Quarum
+tres tulit Gabriel de coelo, quarta loquente Spiritu
+sancto per os Elisabeth prophetantis expressit.
+Pereminet autem his quatuor veluti in fronte sigilli
+sidereum nomen Virginis, videlicet <hi>stella maris,</hi> 
+quia sequentibus in mortali luce intimi luminis radios
+<pb n="1142D"/>
+refundit. Turbulentissimo hujus mundi profundo
+superposita est haec stella maris, ut a scopulis muniat,
+a fluctibus eripiat, a piratis defendat, ad portum
+perducat. Quot autem, et quanta sint hujus impacatissimi
+maris pericula omnes filii Evae ingemiscunt,
+qui vel ad praemia suspirant, vel exsilium
+deplorant. Tota enim vita praesens tentatio est, de
+qua nimis vincitur quisquis vinci non veretur. In
+hoc enim mari magno, et spatioso manibus tot reptilia
+sunt quot vitia, tot naufragia quot excessus.
+O fidelis anima, in omni naufragio tuo leva oculos
+ad radium hujus splendidissimi sideris. Inspice stellam,
+invoca Mariam. Fige mentis aciem in hoc serenissimum
+<pb n="1143A"/>
+lumen. Si cadis, resurges. Si mergeris,
+erigeris. Si petis, accipies. Si vadis, evades. Nonne
+splendida speculatione hujus splendidissimi sideris <hi>Theophilus</hi> 
+ involutus de profundo aeternae damnationis
+enatavit? Nonne contemplatione hujus serenissimae
+claritatis <hi>Basilius</hi> in precibus exauditus
+consolationem accepit? Haec stella maris coelos
+exornat, terras illustrat, mare illuminat, abyssum
+penetrat. O singulare remedium omnibus, qui tam
+causa originis, quam damnationis Evam matrem
+circumferebant, qui in has tenebras exteriores,
+inferiores projecti tanti sideris claritate post tantae
+mortis umbram inveniuntur! Hanc stellam si aegris
+inspexeris oculis sanat, si proficientibus confortat.
+Haec stella vere medicinales habet radios, quae fugat
+<pb n="1143B"/>
+tenebras, urit vitia, auget virtutes, et quanto magis
+inspexeris, tanto magis illuminat. Hanc stellam, si
+in profundo sis, suspice; si nunquam vidisti, aspice;
+si defuisti, respice; si magis illuminari vis, inspice.
+Haec stella lexat de profundo, monstrat viam, imo
+in portum dat sine periculo.</p>
+<p>Domine Jesu Christe, sol aeterni luminis, qui voluisti
+ut mater tua esset stella maris, per stellam
+ipsam, quaeso, illumina tenebras meas. Haec stella
+maris radios habet coelis admirabiles, inferis terribiles,
+terris salutares. Hoc praeclarissimum sidus
+admirantur, et laudant astra matutina, et jubilant
+omnes filii Dei. Ad hujus credo novitatem sideris
+tota fraterna multitudo proclamat: <hi>Quae est ista quae
+ascendit? <note>(Cant. III, 6)</note>
+          </hi>, et est terribilis, inque portis
+<pb n="1143C"/>
+inferni propter virtutum quibus praeeminet excellentiam.
+Terribilis Judaeo, terribilis Manichaeo propter
+fecunditatem inauditam. Terribilis, inquam,
+haereticis, qui in filio Virginis naturam confundunt,
+vel personam. Terribilis omnibus certe, qui de partu
+Virginis conjecturis naturalibus habetati coeleste
+mysterium terrena argumentatione sugillant et
+corrodunt. Ad hujus coeleste radium lippit Judaeus,
+obtunditur haereticus, Christianus illuminatur. Lux
+enim, quae sanos delectat oculos, aegros offendit.</p>
+<p> <emph>702</emph> <super>7</super> Tibi autem, o fidelis anima, hujus stellae
+radius illustrat mentis aciem, et depellit caecitatem.
+Haec est enim <hi>gratia plena.</hi> Plena, inquam, dulcedine,
+plena omni suavitate. Hanc enim inventor
+<pb n="1143D"/>
+gratiarum omnium, distributor charismatum, Paracletus
+in accubitu totius Trinitatis tanquam regale
+palatium ornatu mirabili praeparavit. Aedificavit
+enim sibi domum in ea Dei sapientia, et spirituali
+opere columnas in ea septem erexit, dum illum
+Virgo gestavit in utero, in quo omnis pulchritudo
+divinitatis corporaliter habitavit. Si vasa pigmentorum
+diu servant aromatum fragrantiam, et diu retinent
+odorem, quem prius receperunt, quanto
+magis apotheca omnium gratiarum, in qua coelestis
+pigmentarius cum omnibus suis unguentis se collocavit,
+et cum omnibus deliciis accubuit, <hi>Nardus</hi> 
+Virginis <hi>dedit odorem suum <note>(Cant. I, 11)</note>
+          </hi>, et regem
+de accubitu gloriae attraxit, et virginalis aulae sacrarium
+angelorum plenitudo implevit. O inviolabile
+<pb n="1144A"/>
+castitatis lilium! Beatissima Virgo Maria, tu es vivum
+vivi Dei templum, Spiritus sancti sacrarium,
+cella pigmentaria, thalamus Sponsi, aureum vivi
+Salomonis reclinatorium, lectus coelestium nuptiarum,
+coetus aromatum, paradisus omnium deliciarum.
+Tu plena gratia, de qua nobis plene plena
+gratia emanavit, quae nobis omnia Pater cum Filio
+dedit, et merito caeteris es plenior, quia <hi>Dominus
+tecum</hi> in corde, tecum in utero, tecum in opere,
+tecum in verbo; tecum, ut te sanctificet, tecum,
+ut te conservet, tecum, ut in te inhabitet, tecum,
+ut te faciat matrem de filia, reginam de ancilla,
+coelum de terra. <hi>Dominus tecum,</hi> qui misit me,
+Dominus tecum, qui loquitur in me, Dominus tecum,
+qui praevenit me. Sub eo, qui miserat, discurrebat
+<pb n="1144B"/>
+angelus, sed mentes praevenit, quia velociter
+cucurrit sermo ejus. Deus vero in omni creatura
+est, quodammodo eum significat in propositione,
+cum dicitur fuisse in Maria virgine. In prophetis
+quidem, et apostolis fuit per inhabitantem gratiam,
+sed longe aliter in Virgine, quae facta est ipsius
+habitantis gratia gratiae habitaculum, et in utraque
+natura inviolatum Verbo Deo praebuit hospitium. <hi>Dominus tecum</hi> 
+ Pater cum Filio, Dominus tecum
+Filius cum Paracleto, Trinitatis opere indiviso. Et
+ideo <hi>Benedicta tu in mulieribus,</hi> quae singularis
+meriti es, <hi>Benedicta tu in mulieribus,</hi> quae mulier
+salvatrix es, <hi>Benedicta tu in mulieribus,</hi> quae mater
+et virgo es. O vere femina super feminas benedicta!
+O benedicta super omnes benedictas praeelecta! O
+<pb n="1144C"/>
+vere praeelecta super omnes praeelectas unica! O vere
+gemma inaestimabilis de thesauro sapientiae coelestis
+producta, et totius Trinitatis artificio inseparabiliter
+adornata! O mater, et matrum gloria! O singularis puerpera,
+de cujus partu stupet Romanamet
+fides, miratur natura, fugit consuetudo. Utrumque
+enim supra rationem est; utrumque credere fidei
+meritum est: et quae mater virgo, et qui Deus homo.
+Mater Eva, mater doloris, quae prius filios damnasti
+quam pareres, amplectere cum omnibus filiabus
+pedes hujus novae matris, quia ipsa tollit antiquam
+amaritudinem, tollit opprobrium, rescindit damnationis
+chirographum, delet proscriptionem.</p>
+<p>O Virgo, virga nobilis, virga Jesse, per quam in
+ramo convaluit, quod perierat in radice. Radix
+<pb n="1144D"/>
+amaritudinis Eva, radix aeternae dulcedinis Maria.
+Haec est miranda, et profundissima dispensatrix sapientiae,
+quae talis virga nascetur de tali radice
+talis filia de tali matre, talis libera de tali proscripta,
+talis imperatrix de tali captiva, tam florens
+rosa de tam sicca spina! Mater tua vix habuit
+innocentiam, et amisit. Vix stetit, et cecidit. Nondum
+pepererat, et nascituros damnavit. Sed beatissima
+virgo Maria contra lethiferum suasionis venenum
+facta est regale antidotum, ut ex suo utero
+praepararet medicinae coelestis arcanum. Tu es vere
+benedicta in mulieribus, quia tu es mira medicina,
+virginum decus, innocentiae speculum, castitatis
+exemplum, integritatis forma, ut adducantur regi
+virgines; servit iis virgo mater prima, et proximae
+<pb n="1145A"/>
+ejus post eam afferunt laetitiam, et exsultationem.
+Si enim filiae regis in exsultatione, honore sponsi, <hi>si filiae Tyri intrant 
+ <note>(Psal. XLIV, 13)</note>
+          </hi> ad
+nuptias, quanto magis tu Virgo, mater Sponsi,
+regina virginum <hi>in vestitu</hi> deaurato circumdata
+varietate <note>(Ibid., 10)</note>, omnes choros coelestium
+spirituum exornas. Tu es igitur ornamentum coelestis
+curiae, stupor angelorum; tota unum miraculum,
+tota unum inaestimabile novum. Tu es via compendiosa
+in coelo, obses fidei, arca spei in cordibus
+fidelium. Tu es inter Deum et hominem vivum vivi
+foederis tabernaculum. Tu es propitiatorium, quod
+non solum obumbrat cherubim, imo, et totius Trinitatis
+sanctorum sancta. Vere igitur <hi>Benedicta tu
+in mulieribus,</hi> quia benedictum nomen tuum. Benedicta
+<pb n="1145B"/>
+maternitas tua, benedicta verba tua, benedicta
+pudicitia tua, benedicta humilitas tua, benedicta
+plenitudo tua, benedicta integritas tua. Et inde juste,
+quod <hi>Benedictus fructus ventris tui.</hi> Fructus vitae,
+imo vitae vita, omnesque paradisi delicias, aromatizans
+sub tantae dulcedinis essentia. Hujus fructus
+odore homo de terra ad patriam trahit. Angelus in
+patria satiatur. Hujus fructus odor non enim, ut
+Jacob, <hi>odor agri pleni <note>(Gen. XXVII, 27)</note>
+          </hi>, sed plenitudo
+communis boni inebrians plene, satians plene, non
+labens per aetatem quia <hi>delectationes in dextera ejus
+usque in finem <note>(Psal. XV, 11)</note>
+          </hi>. In hoc fructu ventris
+tui amplectitur anima, quia lignum vitae de paradiso
+in convallem transplantatum, et pretioso filo balsami
+surculo insitum, ubi intus suavis ligni nobilitas
+<pb n="1145C"/>
+quadam gemina dulcedine reddit odorem suum.</p>
+<p> <emph>702</emph> <super>8</super> Tu es igitur pretiosi odoris filo balsami
+odor beata Virgo, imo quasi lignum vitae, Verbum
+Patris in utero tuo. Cum felix illa peccatrix <hi>funderet
+unguentum super pedes Jesu, impleta est domus
+odore unguenti <note>(Luc. VII, 38; Joan. XII, 3)</note>
+          </hi>. Quanto
+magis domus pudici pectoris reddit odorem suum
+omnium gratiarum chrismatibus perfusum illustratione
+Spiritus sancti. <hi>Unguentum effusum nomen
+tuum,</hi> Virgo Maria <note>(Cant. I, 2)</note>. Unguentum est nomen
+Sponsi, qui ex te natus est. Trahe nos post te, ut
+curramus in odorem ventris tui, quia adolescentes
+diligentes Sponsum diligunt te. Fac nos intrare ad
+nuptias Sponsi ubi bibunt amici, et inebriantur lumine,
+<pb n="1145D"/>
+saturantur figurarum mysteriis, videlicet ut
+pagina, ubi virginei partus novitatem tot praecedentia
+signa designarunt, sicut Moysis visionem in ardentem
+rubum <note>(Exod. III)</note>; veneratur Aaron in arida
+virga flores unius sacramenti. Stupet Gedeon in sicca
+terra, velut in Madian <note>(Jud. VII)</note>. In porta Ezechiel
+miratur clausa solius regis transitum <note>(Ezech. XLIV,
+2)</note>. Thronum quoque fecit Salomon ex ebore, quem
+vestivit auro purissimo castitatis suae, et charitatis
+suae Matris virgo signans privilegium. Sed praecedentium
+figurarum, quasi stellae minores, velut coruscantibus
+radiis hujus diem salutationis Gabriel
+angelus plenius illustrat dicens: <hi>Ave, gratia plena,
+Dominus tecum.</hi> Speciosa et suavis facta es in deliciis
+tuis sancta Dei Genitrix, quia totum tuis aspirat
+<pb n="1146A"/>
+unguentis quidquid habet hortus odoris, vel
+thesaurus spiritualium deliciarum in cubiculo, et
+in hortis aromatum. O Virgo benedicta, et inter
+benedictas unica, ex intemeratae tuae pudicitiae thalamo
+sacramenta nostrae redemptionis ordinata sunt.
+Tu es laus et decus humani generis, advocata pacis,
+et hominis in terris, miraculum angelorum, naturae
+ornamentum, lampas solis, imo sol solis Tabernaculum
+illuminans mirabiliter a montibus aeternis.</p>
+<p>Ex te ineffabiliter ascendit lumen in testa nostrae
+carnis, ut drachmam diu perditam choris revocaret
+angelorum sapientia coelestis. Secundum est ut, cum
+te, serenissima Virgo, tot gratiarum radiis sol vivus
+perfundet, qui non solum in septentrionali polo, sed
+et in toto mundo coelum et terram illuminans rutilares
+<pb n="1146B"/>
+stella maris, et qui te ministrante lumen divinitatis
+in testa nostrae carnis per inventionem drachmae
+decimae hoc auctum est angelis, ut non solum
+de coelestibus haberet gaudia, sed et in conversione
+peccatorum ampliorem gaudendi materiam inveniret
+in terris. O clementissima Virgo Maria, qui creavit
+te, regnat in te, et in suo corporaliter habitare
+figmento figulus non dedignatur. Unde gratulanter
+mons Sion dicet: <hi>Homo, et homo natus est in ea, et
+ipse fundavit eam Altissimus, et sicut laetantium omnium
+habitatio est in te, sancta Dei genitrix. Exsultabimus
+ergo, et laetabimur in te memores uberum tuorum.
+Meliora unguenta tua, Sion, super omnia aromata.
+Multae filiae congregaverunt divitias, tu supergressa
+es universas <note>(Psal. LXXXVI)</note>
+          </hi>. Quia ergo congrue dicitur,
+<pb n="1146C"/>
+ut tibi oranti nihil negari possit, fac nos
+tecum introduci in cellam vinariam, ubi rex ordinavit
+in te charitatem suam, ubi Joannes evangelista
+custos tibi delegatus est, et ubi Gabriel paranymphus
+miratur plenitudinem tuam, ubi inter coelestis
+militiae Theophenias chori virginum sequuntur
+te reginam, ubi vera stella maris quasi eumdem
+cuncto sole tenens circulum, ubi lux es eclipsim
+nesciens, ubi immortalis charitas est inter te et Filium. <hi>Ubi gloriosa aicta sunt de te, civitas Dei 
+ <note>(Psal.
+LXXXVI, 3)</note>
+          </hi>, Mater Dei, sedes totius gratiae, lampas
+lucis aeternae. Si enim <hi>Justi fulgebunt sicut sol in
+regno</hi> Patris eorum <note>(Sap. III, 7)</note>, quanto magis tu,
+quae lumen de lumine, lumen a Patre luminum, lumen
+<pb n="1146D"/>
+omnium protulisti astrorum. O serenissima
+stella maris, respice pro me peccatore, preca suppliciter
+ad solem tuum, ut possim videre hanc stellam
+cum suo sole inter speculationes angelicas tantae
+claritatis intuentium. Deus meus, illumina tenebras
+meas. O beata Virgo, descendentem in te Filium Dei
+Christiana pietas sincerae fidei brachiis amplectitur,
+quae quidquid in aliis matribus natura refert infirmum,
+totum tibi transivit in sacramentum, ut
+inaestimabile generante secretum ullo modo praesumat
+attingere cor humanum, nisi forte quasi similitudine
+dissimili ut rorem in lana, qui trajecto per
+solis radium speculo sic genitale aulae thalamum
+verbum Patris introisse dixit. Non in igne, non in
+commotione domus, sed spiritus aurae tenuis, et in
+<pb n="1147A"/>
+eo domus contremiscit, ut populus in deserto, quem
+terrent coruscationes, et fulgura, sed ad ultimum
+sol in conspectu luminis ex Virgine videndum se
+praebuit, pia tamen nube carnis opposita.</p>
+<p> <emph>702</emph> <super>9</super> Gaude, beata Virgo, cujus gaudium in
+hac vita lucis contemplatione semper est indeficiens,
+dum eum lactas in terris, qui angelos nutrivit in
+coelum. O gaudium matris contra matrem transcendens
+gaudia, cujus filius mortuos suscitat, et de
+morte triumphat, coelos penetrat. Duo haec nomina,
+Mater, et virgo in materiali repugnantia tibi, beata
+Virgo mirabiliter conveniunt, et quasi geminata luce
+tam salutarem quam mirabilem perpetuam merito
+claritatem infundunt. Tibi enim Christiana pietas
+plenissime credit esse collatam quamdam participationem
+<pb n="1147B"/>
+divinitatis a Domino filio tuo gratuitam,
+Virgo mater capere potuit, vel sustinere. Sicut enim
+Deus Pater nulli angelorum dixit: <hi>Filius meus es
+tu</hi> nisi Unigenito <note>(Psal. II, 7)</note>, ita nulli inter filias
+Evae dixit: <hi>Mater Filii mei es tu,</hi> nisi tibi, beatissima
+Virgo. Si autem cherubim et seraphim ardore
+charitatis ita inflammantur, ut forsitan quod tunc
+creatura potest in deitatis transeat statum, quanto
+magis tu mater Virgo unita es filio tuo, et tuam carnem
+deificatam in filio multitudo angelorum adorat.
+Licet enim Christiana pietas omnium sanctorum
+patrociniis juvetur, specialiter tamen plenitudo gratiae
+humano generi ex tua intercessione, quasi puteus
+aquarum viventium de Libano coelesti copiosius
+emicat. Persuadet enim, imo compellit tua nos celsitudo
+<pb n="1147C"/>
+credere quod per angelos, et per angelorum
+ministeria saepe tuis devotis subvenias, et postremum
+ad regnum filii tui perducas. Si enim angelus angelorum
+mittitur, confidenter debet credere Christianus
+devotus, quod imperatrix angelorum tanto magis
+habet angelos in obsequium, quanto differentius
+per illum <hi>nomen haereditavit <note>(Hebr. I, 14)</note>
+          </hi>. Si autem
+cherubim et seraphim, immerito hoc hausto de fonte
+vitae bibentes inferioribus angelorum ordinibus, ita
+de consilio palatii quaedam arcana revelant ut <hi>fluminis
+impetus totam illam laetificet civitatem <note>(Psal. LXXXVI)</note>
+          </hi>; quanto magis tu gloriosa <hi>theodotos [Sic. An</hi> <foreign xml:lang="greek">θεοτόνος</foreign>
+?] de occultis filii in amplexu ejus degustata
+mysteria, et angelis et hominibus copiosius effundis.</p>
+<p>Quid dicemus de te, o praeclara mater inter mulieres?
+Si solem te dixerimus, splendidior es. Si
+<pb n="1148A"/>
+rosam, floridior es. Si cinnamomum, et balsamum
+aromatizans species, percellis odore, quia privilegia
+tibi concessa, non solum hominibus, sed et angelis,
+credimus admiranda. <hi>Si splendida facta est facies
+Moysi ex consortio sermonis Domini <note>(Exod. XXXIV 29)</note>
+          </hi>;
+quam gloriosum credimus inter omnes sanctos lumen
+vultus tui, quae cum filio una es caro ex mirabili
+genitura, et unus unius ardentissimae charitatis
+spiritus. Si Josue dux Israel cum esset in sanguinis
+effusione jussit solem stare in Gabaon, quomodo non
+omnia sidera ad nutum imperatricis gloriosae discurrunt?
+Respice ergo beatissima Virgo, ad nos proscriptos
+in exsilio filios Evae, in quibus, et primitiae
+calamitatis participia et tributa mortis, et vectigalia
+peccati adhuc damnavit. Adhuc enim vae quod propinavit
+<pb n="1148B"/>
+Eva damnat in nobis. Adhuc in pugna sumus.
+Adhuc serpens Evam, Eva virum impugnat.
+Adhuc enim sensualitas rationem, adhuc rationis
+instantia partem inferiorem sollicitat. Adhuc in
+eadem domo quinque in tres, et tres dividuntur in
+duos, <hi>et inimici hominis domestici ejus <note>(Mich. VII, 6)</note>
+          </hi>.
+Ut igitur in eorum conflictu habeamus constantiam,
+mitte nobis illum egregium coelestis curiae principem
+paranymphum tuum Gabrielem, qui, sicut nomine,
+ita et virtute fortitudinem divinam nobis ex sua
+benignitate mittere velit. O Mater misericordiae,
+resiliente te non est in tota sanctorum conversatione,
+qui pro nobis loquatur, qui pro nobis intercedat ad
+filium tuum. Sed, te intercedente, <hi>quatuor animalia,
+et viginti quatuor seniores mittentes voces suas procidunt
+<pb n="1148C"/>
+ante thronum coram Agno <note>(Apoc. IV)</note>
+          </hi>, et universa
+multitudo sanctorum confidentium pro nobis
+orationem assumit. Precatur Moyses in conspectu
+Domini Dei sui, et orans pro populo suo rogat, ut
+memor sit juramenti, quod habuit ad Abraham, et
+Isaac, et Jacob, et placatus est Dominus. Sed tu,
+mitissima Virgo, roga Filium tuum, ut memor sit
+foederis sempiterni, quod firmavit Verbum in carne
+de te sumpta, quod pepigit Verbum in sanguinis
+effusione, quod sigillavit indissolubili chirographo
+in sacramentis redemptionis nostrae. Qui ergo sub
+tua protectione confugimus, assume orationem ad
+judicem nostrum, Filium tuum, ut tu salus, quae
+salutem nostram proficiendo inchoasti, intercedendo
+perficias. Amen.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

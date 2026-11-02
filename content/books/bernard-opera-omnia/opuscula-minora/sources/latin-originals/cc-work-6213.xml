@@ -1,0 +1,1175 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Parabolae</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.Parabo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>1245</emph> PARABOLA I. <hi>De pugna spirituali</hi> [alias, <hi>De fuga et reductione filii prodigi</hi> ].</head>
+
+<pb n="0757B"/>
+<div3>
+          <head>1.</head>
+          <p>
+ Rex dives et praepotens Deus omnipotens filium
+sibi fecit hominem, quem creaverat, cui sicut puero
+delicato paedagogos delegavit legem, prophetas,
+caeterosque tutores et actores usque ad praefinitum
+tempus ejus consummationis. Instruxit eum et monuit,
+dominum eum paradisi constituens, omnesque
+thesauros gloriae suae ei ostendens et repromittens,
+si se non desereret. Et ne quid deesset bonis ejus,
+etiam liberum arbitrium ei indulsit, ut bonum ejus
+esset voluntarium, non coactum. Accepta licentia
+boni et mali, coepit eum taedere bonorum suorum,
+a concupiscentia sciendi bonum et malum. Egressus
+<pb n="0757C"/>
+igitur de paradiso bonae conscientiae, nova quaerens
+quae nesciebat, qui nulla adhuc nisi bona noverat;
+paternis [ <hi>alias,</hi> patriis] legibus et paedagogis relictis,
+manducavit de ligno scientiae boni et mali contra
+vetitum Patris: et abscondens se miser, et fugiens
+a facie Domini, coepit vagari puer insipiens per
+montes altitudinis, per valles curiositatis, per
+campos licentiae, per nemora luxuriae, per paludes
+voluptatum carnalium, per fluctus curarum saecularium.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Videns autem antiquus praedo lascivum puerum
+sine custode, sine rectore, procul a domo Patris
+vagantem; accessit, et pomula illa inobedientiae
+manu malae persuasionis ei porrigens, postquam ab
+eo consensum elicuit, aggressus est miserum, et in
+<pb n="0757D"/>
+terram, id est in terrena eum desideria praecipitans,
+pedesque, id est mentis affectiones, ne resurgat,
+fortissimis ei saecularis concupiscentiae vinculis alligans,
+manusque operationis, et oculos mentis;
+misit eum in navim malae securitatis, et flante vehementer
+vento adulationis, transvexit eum in longinquam
+regionem dissimilitudinis. Veniens ille in regionem
+non suam, venalis factus est omnibus qui
+praetergrediuntur viam. Discit porcos pascere, siliquas
+porcorum manducare: dediscit omnia quae
+didicerat, et discit quae nesciebat, servilia scilicet
+opera. Vinctusque in desperationis carcere, ubi in
+circuitu impii ambulant, in mola impiae circuitionis
+<pb n="0758B"/>
+cogitur molere emolumenta malae conscientiae. Proli
+dolor!</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Et ubi modo est pater ille potentissimus et
+dulcissimus atque liberalissimus? Nunquid potest
+oblivisci filium uteri sui? Absit, absit! Non obliviscitur,
+sed miseretur, condolet et conqueritur de
+absentia et perditione filii sui. Mandat amicis, sollicitat
+servos, omnesque suscitat ad requirendum
+eum. Unus servorum Timor, ad imperium Domini,
+filii fugitivi vestigia prosequens, in profundo carceris
+invenit filium regis, carnalibus peccatorum sordibus
+obsitum, vinculis et catenis malae consuetudinis
+ligatum, miserum et amentem, in miseriis
+securum et ridentem: quem verbis et verberibus
+urgens ut exiret et rediret, tanta miserum confusione
+<pb n="0758C"/>
+dejecit, ut sicut morti jam vicinus jaceret,
+et adhaereret in terra venter ejus. Egressus evestigio
+alius, cui nomen Spes, vidensque filium regis a
+Timore non erutum, sed obrutum; non adjutum,
+sed dejectum: accessit leniter, et suscitans a terra
+inopem, et de stercore erigens pauperem, levansque
+caput ejus, et coacta in unum consolationis veste,
+oculos ejus detergens et faciem: Heu, inquit, quanti
+mercenarii in domo patris tui abundant panibus, tu
+autem hic fame peris! Surge, obsecro, et vade ad
+patrem tuum, et dic ei: Pater, fac me sicut unum
+ex mercenariis tuis. Tunc ille tandem vix ad se
+modicum reversus: Tunc es, inquit, Spes? Et quomodo
+Spei introitus potuit patere in tantum et tam
+horribile profundum desperationis meae? Ego, ego,
+<pb n="0758D"/>
+inquit, sum Spes, a patre tibi transmissa, te adjutura,
+te non desertura, donec te introducam in domum
+patris tui, et in cubiculum genitricis tuae. Et:
+O, inquit ille, dulce levamen laborum, dulcis consolatio <emph>1246</emph> 
+ miserorum! o una, et non infima de
+tribus cubiculi regii assistricibus! vides carceris
+mei profundum immane; vides vincula, quae tamen
+ad ingressum tuum jam maxima ex parte dirupta
+sunt et dissoluta; vides captivorum meorum
+immanem multitudinem, fortitudinem, velocitatem,
+astutiam: et quis tibi locus hic? At Spes: Ne timeas,
+inquit; qui nos adjuvat, misericors est; qui
+pro nobis pugnat, omnipotens est; pluresque sunt
+<pb n="0759A"/>
+nobiscum, quam cum illis. Super haec omnia, adduxi
+ubi a patre missum equum Desiderii: cui cum insederis,
+me duce ab his omnibus securus proficisceris.
+Dixit, et mollibus stramentis piae Devotionis
+submissis, et bonorum exemplorum calcaribus additis,
+equo Desiderii imposuit filium regis; sed frenum
+defuit, tanta erat festinatio fugiendi. Illico
+equus currit infrenis, trahit Spes ante. Timor autem
+retro verberibus urget et minis. Tunc videntes
+hoc conturbati sunt principes Edom, robustos Moab
+obtinuit tremor, obriguerunt omnes inhabitatores
+Chanaan. Irruat super eos formido et pavor in magnitudine
+brachii tui; fiant immobiles quasi lapis,
+donec pertranseat filius tuus, Domine, filius iste,
+quem possedisti <note>(Exod. XV, 15, 16)</note>. Sed cum sic
+<pb n="0759B"/>
+ferantur praecipites, effugiunt quidem, sed non sine
+periculo; quia sine modo, sine consilio.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Propter quod a Patre transmissa accurrit Prudentia,
+una de summis principibus palatii, in comitatu
+amicam habens Temperantiam; et tenens currentes:
+Parcius, inquit, obsecro parcius: dicit
+enim Salomon noster: <hi>Qui festinus est, pedibus offendit <note>(Prov. XIX, 2)</note>
+          </hi>.
+Si sic curritis, offenditis; si
+offenditis, caditis; si caditis, filium regis, quem
+suscepistis liberandum, inimicis redditis. Nam si
+ceciderit, illico manus eorum erit super eum. Haec
+dicens, frenum Discretionis imposuit fervido illi
+equo Desiderii, ejusque habenas Temperantiae regendas
+commisit. Cumque Timor retro de vicinia et
+virtute inimicorum, et tarditate fugae causaretur:
+<pb n="0759C"/>
+Vade, inquit Prudentia, retro, Satana, scandalum
+es nobis. Fortitudo et laus nostra Dominus, et factus
+est nobis in salutem. Et ecce Fortitudo, miles
+Dei egregius, accurrens per campum Fiduciae, extracto
+gladio laetitiae: Nolite, inquit, turbari; plures
+nobiscum sunt quam cum illis. Tunc Prudentia curiae
+coelestis assueta consiliis: Cavete, inquit, obsecro,
+quia <hi>haereditas illa, ad quam festinatur in initio,</hi> sicut
+dicit Salomon noster, <hi>in fine benedictione carebit <note>(Prov. XX, 21)</note>
+          </hi>.
+Proficiscimini igitur, non tam festinanter,
+quam prudenter. Inimici enim non sunt in
+itinere; sed juxta iter scandalum ponere solent, in
+biviis et triviis, et viarum aufractibus. Praecedam
+itaque; vos autem tenete viam Justitiae, et velociter
+<pb n="0759D"/>
+introducemus vos in castra Sapientiae, quae jam non
+procul sunt a nobis. Sapientia enim est, de qua
+dicitur: <hi>Concupiscens sapientiam, disce justitiam <note>(Eccli. I, 33)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Sic itaque dum viam carpunt, urget Timor,
+Spes trahit, munit Fortitudo, Temperantia moderatur,
+providet et instruit Prudentia, ducit et perducit
+Justitia. Appropinquat filius regis castris Sapientiae:
+quae novi hospitis audito adventu, praeoccupat eum,
+qui se concupiscit, occurrit et ostendit se in viis
+hilariter. Fossa vero profundae Humilitatis castra
+cingebat: super quam fortissimus et pulcherrimus
+murus Obedientiae aedificatus coelos penetrabat,
+quem bonorum exemplorum historiae undique depictae
+mirabiliter decorabant. Aedificatus autem erat
+<pb n="0760A"/>
+cum propugnaculis: mille clypei ex eo dependebant,
+omnis armatura fortium. Porta Professionis omnibus
+patens; janitor in limine dignos inducens, et indignos
+abjiciens. Praeco super portam clamans: Si
+quis diligit Sapientiam, ad me declinet, et eam inveniet;
+et eam cum invenerit, beatus est si tenuerit
+eam. Huc filius regis, occurrentis sibi Sapientiae
+ducatu introductus, imo ulnis deportatus, familiae
+regiae vallatus obsequiis, ad mediae civitatis arcem
+perducitur, ubi ipsa aedificavit sibi domum, excidit
+columnas septem, subdidit sibi gentes, superborumque
+et sublimium colla propria virtute calcavit. Ibi
+collocatur in lecto Sapientiae, quem ambiunt sexaginta
+fortissimi ex fortibus Israel, uniuscujusque
+ensis super femur <emph>1247</emph> suum. Adest David in
+<pb n="0760B"/>
+tympano et choro, in chordis et organo; caeterique
+coelestis curiae paranymphi, gaudentes et exsultantes
+magis super uno peccatore poenitentiam agente,
+quam super nonaginta novem justis, qui non indigent
+poenitentia.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Et ecce veniens ab aquilone ventus turbinis et
+ignis involvens totam concussit domum, Sapientiae
+castra turbavit. Egressus est enim Pharao cum curribus
+et equitibus, persequens fugientem Israel <note>(Exod. XIV, 5, 8)</note>.
+Cogitaverunt etiam unanimiter
+simul adversus eum, testamentum disposuerunt tabernacula
+Idumaeorum et Ismaelitae, Moab et Agareni,
+Gebal et Ammon et Amalech, alienigenae cum
+habitantibus Tyrum. Etenim Assur, ille magnus
+exterminator diabolus, venit cum illis <hi>(Psal. LXXXII,
+<pb n="0760C"/>
+6-9)</hi>. Quid multa? Obsessa est civitas. Jam surgunt
+tentationum machinae; urget undique inimicus ille,
+in insidiis draco, in aperto leo; cogit socios, ignes
+injicit, perfodit muros, bella suscitat, insidias submittit,
+totius urbis minitans excidium. Intus vero
+timor et angustiae; et a vehementi et improviso
+hostium impetu omnes turbati sunt, et moti sunt
+sicut ebrius, et omnis sapientia eorum devorata est,
+et clamaverunt ad Dominum cum tribularentur <note>(Psal. CVI, 27, 28)</note>.
+Curritur ad arcem Sapientiae;
+mala nuntiantur; consilium quaeritur. Reversa enim
+ad se Prudentia consulit Sapientiam, quid facto
+opus sit. Illa accelerandum testatur, et quaerendum
+summi regis auxilium. Et quis, inquit, ibit nobis?
+<pb n="0760D"/>
+At Sapientia: Oratio, inquit. Et ne moram faciat in
+eundo, ascendat super equum Fidei. Quaesita diu
+Oratio, et in tanto tumultu vix tandem inventa est.
+Ascendit super equum Fidei, proficiscitur per viam
+coeli, nec cessat, donec intret portas Domini in
+confessione, atria ejus in hymnis. Et, sicut familiare
+mancipium, cum fiducia accedens ad thronum gratiae
+ejus, exponit necessitatis suae negotium. Audito
+rex filii periculo, conversus ad consortem regni sui
+Charitatem: O, inquit, quem mittam, et quis ibit
+nobis? At illa: Ecce ego, inquit, mitte me. Tunc
+rex: Praevalens, inquit, praevalebis, et liberabis
+eum. Egredere; et fac ita. Illico egressam a facie
+Domini reginam coeli, Charitatem, tota comitatur
+militia coelestis; veniensque et descendens in castra,
+<pb n="0761A"/>
+virtute et laetitia praesentiae suae illico omnia exhilaravit,
+commota composuit, turbata pacavit. Reddita
+est miseris lux, timidis fiducia. Redit coram Spes,
+quae pene aufugerat; Fortitudo, quae pene corruerat.
+Resumit constantiam tota Sapientiae militia. At
+inimici civitatem obsidentes: Quaenam est, inquiunt,
+exsultatio in castris? non fuit tanta exsultatio heri
+et nudiustertius. Vae nobis, venit Deus in castra!
+vae nobis! Fugiamus Israelem: Dominus enim pugnat
+pro eis. Sic fugientibus inimicis, gratiae Dei
+impetus laetificat civitatem Dei, sanctificavit tabernaculum
+suum Altissimus. Deus in medio ejus, non
+commovebitur, adjuvabit eam Deus mane diluculo.
+Conturbatae sunt gentes, et inclinata sunt regna;
+dedit vocem suam, mota est terra. Dominus virtutum
+<pb n="0761B"/>
+nobiscum: susceptor noster Deus Jacob <note>(Psal.
+XLV, 5-8)</note>. Suscipiens ergo puerum Dei, puerum
+suum regina Charitas evexit ad coelum, Patrique
+Deo repraesentavit. Cui Pater placidus ac serenus
+occurrens: <hi>Cito,</hi> inquit, <hi>proferte stolam primam, et
+induite illum, et date annulum in manu ejus, et calceamenta
+in pedibus ejus. Et producite vitulum saginatum,
+et occidite illum. Epulari enim et gaudere
+oportet, quia iste filius meus mortuus fuerat, et revixit;
+perierat, et inventus est <note>(Luc. XV, 11-32)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Nota hic quatuor in pueri nostri liberatione.
+Primo poenitentiam, sed fatuam; secundo fugam,
+sed temerariam et irrationabilem; tertio pugnam,
+sed trepidam et meticulosam; quarto victoriam validam
+et sapientem: quae omnia in uno quolibet
+<pb n="0761C"/>
+fugiente de saeculo invenies. Primo enim est egens
+[ <hi>alias,</hi> hebes] et insipiens; postea, praeceps et temerarius
+in prosperis; deinde, trepidus et pusillanimis
+in adversis; postremo, providus, et eruditus et
+perfectus in regno charitatis.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head> <emph>1248</emph> PARABOLA II. <hi>De pugna spirituali</hi> [alias, <hi>De conflictu vitiorum et virtutum</hi> ].</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Inter Babylonem et Jerusalem nulla pax est,
+sed guerra continua. Habet unaquaeque civitas regem
+suum. Rex Jerusalem Christus Dominus est,
+rex Babylonis diabolus. Et cum alterum in justitia,
+alterum in malitia regnare delectet, rex Babylonis
+quos potest de civibus Jerusalem per ministros suos,
+<pb n="0761D"/>
+scilicet spiritus immundos, seducere, ut servire eos
+faciat iniquitati ad iniquitatem, in Babylonem trahit.
+Unde dum unum de civibus suis constitutus speculator
+super muros Jerusalem trahi cerneret, nuntiavit
+regi captam praedam in Babylonem duci. Rex
+vero Jerusalem advocans spiritum timoris, militem
+in talibus strenuum: Vade, inquit, eripe praedam
+nostram. Ille ut semper ad omnia imperata paratus,
+cum velocitate hostes persequitur, et in auribus
+eorum factus est repente sonus tanquam advenientis
+spiritus vehementis. Timor enim super eos intonuit,
+et ad vocem virtutis ejus hostium robur omne contremuit:
+quos in fugam conversos Timor non longius
+persecutus est, sed ereptum concivem reducebat
+ad propria. Verum unus ex adversariis, tristitiae
+<pb n="0762A"/>
+spiritus, non erat cum eis, quando Timor advenit.
+Hic cum cerneret socios subito fugientes, ab insidiis,
+in quibus latebat, ocius advolavit. A Timore, inquiunt,
+solo factum est istud, et est opprobrium omnibus
+nobis. At ille: Ne timeatis a Timore isto: scio
+enim quid facto opus sit. Ibo et ero spiritus mendax
+in angulis semitarum, et amicum me simulabo Timoris.
+Novi enim hominem, nec est agendum cum
+eo vi, sed fraude. Vos autem exspectate finem. Fecit
+ut dixerat, et viarum compendia captans, praecessit
+Timorem. Referensque iter per viam, qua
+gradiebatur Timor, obvius ei factus est, amica, sed
+iniqua cum eo colloquia commiscens, ita ut seducere
+eum coeperit: et Timor nescius bono animo sequebatur.
+Prope jam erat, ut eum in foveam desperationis
+<pb n="0762B"/>
+impelleret. Sed spectator regi indicat quid
+agatur. Rex autem unum de militibus suis, Spem
+scilicet, praecepit accersiri, quem cum equo Desiderii,
+et ense Laetitiae in auxilium jubet accelerare
+Timoris, Fidelis miles ad imperium egrediens, cum
+pervenisset ad locum, vibrans ensem Laetitiae, Tristitiam
+effugavit. Sicque liberatum concivem, et impositum
+equo Desiderii praecedens, trahebat funiculo
+promissionum, et Timor sequens urgebat facto flagello
+de funiculis peccatorum.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Ibat igitur voluntarius equus, hinc attractus,
+inde compulsus; sed in tam rapido cursu timendum
+ei fuerat ab incursu. Unde et collegerunt milites
+Babylonici consilium, dicentes: Quid facimus, quia
+sic evadit, quem jam quasi cum securitate possidebamus?
+<pb n="0762C"/>
+Quomodo plausus inferni versus est in planctum,
+et per solos duos milites gaudium est in coelis
+super sui liberatione concivis? Quomodo periit versutia
+diabolicae fraudis? Unus autem ex eis caeteris
+nequior, cum sceleris hujus opifex esset, profanum
+protulit consilium, dicens: Vos nescitis quidquam,
+nec cogitatis, quia modo ad capiendum facilior sit;
+et si captus, difficilius eripi possit. Vos igitur a longe
+prosequimini; ego me in angelum lucis transfiguro,
+ut ignaros viae, tanquam advenas et peregrinos, docendi
+simulatione decipiam. Hunc igitur in modum
+fraude disposita, regi nostro speculator annuntiat,
+venire quidem hominem equo impositum Desiderii,
+sed plus quam oporteat properare, eo quod frenum
+<pb n="0762D"/>
+et sella deesset. Hostes, inquit, a longe prosequuntur;
+alii, tanquam inveterati malorum, viarum compendia
+captant. Sed et nunc unum video, in quo
+armorum nostrorum relucet effigies; a nobis tamen
+ille non exivit. Necesse est eat qui interrogare noverit
+eum: Noster es, an adversariorum?</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Porro rex, cujus animum cura semper sollicitat
+animarum, duos consiliarios suos emittit, Prudentiam
+et Temperantiam. Quarum Temperantia
+quidem <emph>1249</emph> equo frenum Discretionis imposuit,
+et Spem moderatius incedere persuasit. Prudentia
+vero Timorem increpans et arguens improbitatis, de
+futuro commonuit: et equo sellam Circumspectionis
+apposuit, ut non caderet ascensor ejus retro; sed
+retro praeteriti confessioni peccati, ante meditationi
+<pb n="0763A"/>
+judicii, a sinistris patientiae inniteretur, a dextris
+humilitati. Porro Spes et Timor dedere calcaria,
+Spes in dextro pede exspectationem praemii, Timor
+in sinistro supplicii metum.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Et facta mora cum advesperasceret, et inclinata
+esset jam dies, rursus congregati sunt hostes in multitudine,
+ut dimicent contra eos. Pavet Timor, Spes
+accelerat; sed vix tandem ad consilium eos Prudentia,
+Temperantiaque revocavit. Et illa: Videtis,
+inquit, quia dies praecessit, et nox appropinquavit:
+et qui ambulat in tenebris, nescit quo vadat? Porro
+vobis grandis restat via, nec parva est hostium multitudo.
+Est autem miles quidam regi nostro fidelissimus,
+quem ego novi, castrum habens prope nos
+positum, et firmissimum est habitaculum; quia in
+<pb n="0763B"/>
+petra posuit nidum suum. Divertamus ad illum, si
+placet, quia bonum est illic esse. Quod cum placuisset
+omnibus, et ducem itineris quaesissent, ait Prudentia:
+Armiger meus Ratio praecedet nos. Est enim
+gnarus viarum, et notus Justitiae, utpote consanguineus
+ejus. Praecedente itaque Ratione, caeteris subsequentibus,
+antevenit Ratio; et salutata Justitia,
+nuntiavit hospites adventare. Quaerit illa qui sint;
+unde, ad quid veniant, sciscitatur. Et cum regem
+cognovisset, hilari vultu surgens fugientibus occurrit
+cum panibus, et obviavit illis quasi mater honorificata,
+susceptamque animam ab equo deposuit, et
+in penetralibus domus avida collocavit.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Insequitur hostilis exercitus, et castrum obsidens,
+undique inquirit, si quis forte pateret ingressus,
+<pb n="0763C"/>
+ac tanquam leo circuit quaerens quem devoret.
+Sed cum undique illud munitum inveniunt, tentoria
+figunt, et excubias ordinant, ne quis ingredi aut
+egredi valeat, ut mane facto instructis machinis diruant
+et irruant super eos. Interim Pavor paviditate
+et sollicitudine non piger, nec unquam securus, commilitones
+excitat, Justitiam convenit, de munitione
+loci, de praeparatione armorum quaerit, adjiciens et
+illud, ne forte sustentationi deficiant alimenta. Ad
+haec justitia respondit: Situs loci, ut animadvertere
+potestis, saxosus et inaccessibilis est, nec in armis,
+nec in machinis inimicorum timet insultum. Sed quia
+aridus est, paucos habet indigenas, quos arido hordeacei
+panis cibo utcunque sustentat. Et nunc supersunt
+nobis quinque panes hordeacei, et duo pisces.
+<pb n="0763D"/>
+Et Timor: Quid haec, inquit, sunt inter tantos?
+Coepit igitur magis pavere et taedere: et arguens
+animam quod ab equo Desiderii descendisset, illud
+saepius memorabat, esse novissima hominis illius
+pejora prioribus. Equus enim ille praepeti cursu festinus
+advolabat ad urbem, nunc solius Rationis commissus
+ducatui. Ipse, inquit, videris, si non melius
+erat tibi tunc magis, quam nunc.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Prope jam erat ut adversus Spem contraria
+sentientem Timor insurgeret; sed Temperantia Prudentiam
+advocavit. Accersita Prudentia improbitatem
+Timoris objurgans: In adversarios, inquit, tuus,
+o Timor, mucro desaeviat. Nescis quia rex noster,
+rex virtutum est, Dominus fortis et potens, Dominus
+<pb n="0764A"/>
+potens in praelio? Eat igitur nuntius, qui suorum
+necessitates exponat, adjutorium flagitet, auxiliatorem
+adducat. Et quis ire poterit, ait Timor? Tenebrae
+operiunt terram, et muros obsidet hostium pervigil
+multitudo; et ignari viae, tanquam in regione longinqua.
+Advocaverunt igitur hospitem suum Justitiam.
+Si quid, inquiunt, potes, adjuva nos. Quibus
+illa: Bono animo estote. Est enim mihi nuntius fidelissimus
+regi, bene notus curiae, Oratio scilicet, qui
+in secreto noctis silentio per ignotas semitas arcana
+coeli penetrare, et cubiculum regis adire, et opportuna
+importunitate pium regis animum flectere non
+indoctus, supplicatione miserabili laborantibus auxilium
+solitus <emph>1250</emph> impetrare. Eat ille si placet:
+ecce enim praesto est. Cumque respondissent omnes:
+<pb n="0764B"/>
+Placet! Prudentia quid regi insinuet, dictante Justitia
+ut fideliter agat, et ne vacuus revertatur praecipiente,
+caeteris, et maxime Timore, ut iter acceleraret deprecantibus,
+per occultos quosdam muri exitus dimissus
+est. At ille hostium cuneos penetrans securus
+omni ave velocior, in momento, in ictu oculi usque
+ad portas novae Jerusalem pervenit. Quas cum clausas
+reperisset et pulsasset, janitoribus aegre ferentibus,
+quod intempestae noctis silentio civitatem impleret
+clamoribus, et regi ipsi importunus esse non vereretur,
+ille perseverabat pulsans, et amplius loquebatur:
+Aperite mihi, inquit, portas justitiae, et ingressus
+in eas confitebor Domino regi nostro in ore
+meo secundum multitudinem dolorum meorum, qui
+sunt in corde meo. Haec, inquit, porta Domini mei.
+<pb n="0764C"/>
+Justitia me misit ad vos, ut introducar ad regem,
+quia ad ipsum habeo secreta quae perferam. Vox turbinis
+audita est in terra nostra.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Rex cum cognovisset nuntium esse Justitiae,
+introduci eum praecepit. Ingressa Oratio ad regem,
+adoravit, et ait: Rex, in aeternum vive. Et ille:
+Rectene sunt omnia circa dominum tuum, et quae
+illius sunt? Et Oratio: Recte, Domine, vestri gratia.
+Porro unum est necessarium. Servus ille vester a
+cornibus unicornium ad imperium regis ereptus,
+divertit ad militem vestrum dominum meum; et:
+Domine mi, terra illa australis et arens est, et cibum
+non habet. Det Dominus benedictionem, et terra
+nostra det fructum suum. En congregati hostes in
+multitudine, ut dimicent contra nos: da nobis, Domine,
+<pb n="0764D"/>
+auxilium de tribulatione; quia non est alius
+qui pugnet pro nobis, nisi tu, Deus noster. Porro
+rex noster, cujus natura bonitas, motus his lacrymis
+ait: Quem mittemus? Ad quem Charitas: Ecce ego,
+Domine, mitte me. Rex autem quaerebat de sociis;
+sed Charitas domesticam sibi familiam respondit
+sufficere. Exit ergo una cum nobili illo comitatu suo,
+Gaudio, Pace, Patientia, Longanimitate, Benignitate,
+Bonitate, Mansuetudine. His stipatus dux insignis
+progreditur, certusque de victoria, erecto signo
+triumphali primam pertransit inimicorum, secundamque
+custodiam, Cumque venisset ad portam,
+ultro aperta est ei. Ad cujus ingressum facta est
+laetitia magna in oppido. Cumque suadente Gaudio
+<pb n="0765A"/>
+vociferarentur omnes et acclamarent, exortus clamor
+exterorum castra perterruit. Et illi: Quae est
+ista, inquiunt, vox exsultationis in auribus nostris
+de castris Israel? Non ita heri et nudiustertius. Forte
+venit eis auxilium, et impetum facient in nos. Fugiamus
+ergo Israelem; Dominus enim pugnat pro eis
+contra nos. Interim Charitas morae impatiens, ordinari
+exercitum, aperiri portas, et persequi praecipit
+inimicos, aperte denuntians: Vadam ad portas inferi.
+Sicque uno impetu universus Charitatis exercitus
+procedit, quos Babylonii non ferentes fugiunt,
+sed non effugiunt. Cadunt a latere Timoris mille, et
+a dextris Charitatis decem millia.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>PARABOLA III. <hi>De pugna spirituali.</hi> </head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0765B"/>Inter Jerusalem et Babylonem ordinatae sunt
+acies ad bellum. Hinc David manu fortis aciem producit
+virtutum terribilem et ordinatam: inde Nabuchodonosor
+Babylonis spiritualia nequitiae, suumque
+vitiorum tumultuosum exercitum dirigit ex adverso.
+Procedit de castris David tirunculus novitius, nuper
+in militiam regis juratus, et per manus ipsius aeterni
+David verbi Dei gladio accinctus, et spiritualibus
+armis insignitus, ingentes gerens animos, et contra
+regis edictum, ad faciendum sibi nomen plusquam
+ad hostem vincendum impatientissimus. Equus erat
+ci fervidus, proprium corpus; de succo adhuc saeculi
+fortis, viridis, lascivus, animusque ejus conveniens,
+cui insidens ferebatur insignis; castrorumque
+suorum dedignans disciplinam, contemptis sociis,
+<pb n="0765C"/>
+stolida quadam praesumptione longe prae caeteris
+progrediebatur, aestuans et <emph>1251</emph> anhelans ad faciendum
+sibi nomen. Videns David impetuosam ejus
+praesumptionen, per Filium suum Salomonem sub
+interminatione ei mandavit: <hi>Vae soli, quia si ceciderit,
+non habebit sublevantem <note>(Eccle. IV, 10)</note>
+            </hi>. Cujus
+ille monita parvi pendens, cum sibi vel aliis ostendere
+magnae virtutis suae quaereret occasiones, et
+praeclarum aliquod facinus moliretur, conspicatur
+eminus in parte hostili unum de inimicis fortis malitiae,
+astutae nequitiae, arma habentem ignea, manusque
+plenas jaculis igneis, multos vulnerantem,
+vulneratos occidentem, occisos conculcantem, facile
+capientem, difficile relaxantem, spiritum Fornicationis.</p>
+        </div3>
+<pb n="0765D"/>
+
+<div3>
+          <head>2. </head>
+          <p>
+Hic se ostensurum praesumens praeclaram virtutem
+suam, impetum in eum dirigit, et promptum
+illum equum suum jejuniorum verberibus, et vigiliarum
+calcaribus perurgens, totus fertur in illum.
+Clamat a tergo Prudentia, Parce, parce! clamat
+Discretio, Sustine, sustine! totusque eum concrepat
+Davidicus exercitus. Quos ille omnes surda aure
+praeteriens, fertur miser totus in malum suum, et
+nescit. Videns Nabuchodonosor infremit, et malum
+ei parans dolos praemittit. Occurrunt enim illi a
+latere in praeceps ruenti sorores duae, Superbia et
+Vana Gloria, acclamantes ei in dolo: Euge, euge!
+Quibus ille miser nimis credulus, totus fertur in
+praeceps, et nescit quae jam undique cum circumvallent
+<pb n="0766A"/>
+insidiae. Spiritus quidem Fornicationis, jam
+crebro tales et talium impetus expertus, fugam simulat,
+et delusum miserum sequi provocat, donec
+per patentem portam in medio Babylonis introductum
+suis illum sociis tradidit illudendum. Gastrimargia
+et Fornicatio equum sibi vindicant, nec dominum
+suum jus in eo habere ultra permittunt. Jam
+quippe deficiebat, jam fatigatus divertere quaerebat.
+In medio quippe pugnae sub pugnante ceciderat, et
+casu suo vehementer attriverat sessorem suum:
+quem illi cibis Babylonis refectum, reimpinguatum
+suis subdidere servitiis. In miserum vero Ira, Invidia,
+caeteraque vitiorum turba consurgit, et fiducialiter
+supra dorsum ejus fabricant peccatores. Sed et
+Fornicatio cujus nisi terga fugientis nil adhuc ille
+<pb n="0766B"/>
+viderat, aperta jam facie et impudenti fronte in eum
+consurgit, et spicula ignea in cor ejus torquet, gladiumque
+in cervicem ejus exserit, projectumque in
+terram conculcat; et coquo regis Babyloniorum Nabuzardam
+eum tradens, ejus immundis gurgitationibus
+subdidit illudendum. Nec jam patitur, ut honesta
+in eum vitia manum mittant; sed immundis scurris
+de coquina regis, id est foedis et horrendis vitiis,
+exhibet irridendum. Sic igitur captus ab inimicis,
+ligatur funibus malae consuetudinis, et praecipitatur
+in carcerem Desperationis.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Rex autem David cooperto capite lugebat, dicens:
+Absalon fili mi, fili mi Absalon! Vocansque
+unum regiae clientelae ac sedis in hujusmodi utilem
+et probatum, Timorem scilicet, ad requirendum eum
+<pb n="0766C"/>
+dirigit, et Obedientiam secum mandavit, ut ereptum
+de carcere tutelae committeret Obedientiae. Missus
+Timor venit, et suscitat miserum, ereptumque de
+carceralibus claustris et vinculis, sicut sibi jussum
+fuerat, Obedientiae tradidit: equum suum ei restituit,
+sed ferocem et rebellem, et qui vix ultra dominum
+dignaretur agnoscere. Quem Obedientia apprehendens
+et freno ferreo cohibens, licet renitentem
+plurimum et recalcitrantem, antiquo domino subdidit,
+docuitque eum mutare fortitudinem.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Susceptum itaque a Timore Obedientia deducens
+militem Christi, per aliam viam reduxit in regionem
+suam, primamque ei mansionem apud Pietatem
+constituit: ut scilicet animos ejus, quos Timor
+<pb n="0766D"/>
+exacerbaverat, Pietas patris revocantis refocillaret.
+Secundam, apud Scientiam, ut sciret unde et
+quo sibi esset redeundum: sciretque uti et Pietate,
+et Timore, ne Pietas extolleret, Timor frangeret.
+Tertiam, apud Fortitudinem, quae cum ad peragendum
+reditus sui iter confortaret. Quartam, apud
+Consilium, ut alterius cum consilio omnia faceret,
+nec a ducatu obedientiae in aliquo declinaret. Quintam,
+apud Intellectum, ut non jam <emph>1252</emph> consilio
+tantum hominum, sed ipse jam intelligere inciperet
+quae sit voluntas Domini bona, beneplacens et perfecta.
+Ad sextam mansionem pervenit miles Christi
+Sapientiae, hospitibus suis eum prosequentibus, nec
+iter ejus deserentibus, ut jam ei sapiant bona Domini,
+et exinde cum Moyse, velut de monte Abarim,
+<pb n="0767A"/>
+repromissiones Dei incipiat contemplari <note>(Deut. XXXII,
+49)</note>. Et hinc jam pervenitur in Jerusalem, in regnum
+et civitatem David, in visionem pacis: ubi beati
+pacifici filii Dei interius et exterius omnibus pacificatis
+ingressi, gaudium Domini sui celebrant, sabbatum
+sabbatorum. Amen
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>PARABOLA IV <hi>De Christo et Ecclesia.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ <hi>Simile est regnum coelorum homini regi, qui
+fecit nuptias filio suo <note>(Matth. XXII, 2)</note>
+          </hi>. Cumque dies
+instaret nuptiarum, consuluit Pater Filium, quam
+vellet ducere. Ille se elegisse et praeelegisse Ecclesiam
+respondit a saeculo. At Pater: Sed captiva,
+inquit, tenetur in Aegypto, ibique servit in luto et
+latere <note>(Exod. I, 14)</note>, venundata sub peccato. Induratum
+<pb n="0767B"/>
+est cor Pharaonis super eam, et aggravata
+manus, nec dimittet eam nisi in manu forti <note>(Exod.
+III)</note>. Et ego, inquit Filius, manus tua et brachium
+fortitudinis tuae, intrabo Aegyptum in manu forti et
+brachio extento, et liberabo eam. Et ut obstruam
+os loquentium iniqua, et redimam eam a calumniis
+hominum, appendam in statera juxta pretium quo
+venundata est sub peccato, voluntatem scilicet peccati;
+et e contra pretium sanguinis mei: et invenietur
+illa minus habens, et perveniet ad victoriam
+judicium meum. At Pater: Plane, inquit, perveniet;
+sed lex est conjugii sponsae requirere assensum.
+Requiretur, inquit. Inveni David servum meum,
+virum secundum cor meum. Mittam eum cum eithara,
+<pb n="0767C"/>
+ut loquatur ad cor ejus, et advocet eam, et
+demulceat animos ejus, in luto Aegypti assuetos et
+putrefactos. Missus David Aegyptum ingreditur; et
+praeparatum habens dulcissimum epithalamii canticum,
+eructavit de corde suo hoc verbum bonum: <hi>Audi, filia, et vide, et inclina aurem tuam, et obliviscere
+populum tuum, et domum patris tui; et concupiscet
+rex decorem tuum, quoniam ipse est Dominus
+Deus tuus 
+ <note>(Psal. XLIV, 11, 12)</note>
+          </hi>. Jussus etiam Isaias
+e vestigio subsequitur, vidensque illam in vinculis
+captivitatis: <hi>Consurge,</hi> inquit, <hi>consurge, induere
+fortitudinem brachii Domini. Elevare, elevare, consurge,
+Jerusalem; solve vincula colli tui, captiva filia
+Sion <note>(Isa. LI, 9; LII, 1, 2)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Cumque etiam alii multi intrassent patriarchae
+<pb n="0767D"/>
+et prophetae, omnes eadem nuntiantes, tandem aliquando
+intelligens illa gratiam Dei, surgensque de
+pulvere, dixit: Recordatus es mei, Domine Deus
+meus. Misereris, cujus misereris, et misericordiam
+praestas, cujus misertus eris <note>(Exod. XXXIII, 19)</note>. Et
+subsequens quod sapiens illa Abigail: <hi>Quis,</hi> inquit, <hi>me det in ancillam servorum Domini mei, ut lavem
+pedes servorum Domini mei? 
+ <note>(I Reg. XXV, 41.)</note>
+          </hi> Moxque
+exsurgens, sicut ipsa Abigail, ascendit super
+asinam, id est, subdidit sibi carnem suam, et secuta
+est servos regis. Occurrit sponsus festivus et hilaris:
+tenensque manum dexteram ejus, et in voluntate
+sua deducens eam, et cum gloria suscipiens eam,
+<pb n="0768A"/>
+introduxit in civitatem regni sui, et in cubiculum
+genitricis suae. Et in lectulo charitatis suae eam collocans,
+et gratiae suae ornamentis eam condecorans,
+laevamque suam sub capite ejus ponens, et dextera
+sua eam amplexans: <hi>Adjuro vos,</hi> inquit, <hi>filiae Jerusalem,
+ut non suscitetis, neque evigilare faciatis dilectam
+donec ipsa velit <note>(Cantic. II, 6, 7)</note>
+          </hi>. Posuitque
+sexaginta ex fortissimis Israel, qui ambirent lectum,
+ad bella doctissimos: et uniuscujusque ensis super
+femur suum, propter timores nocturnos. Osculansque
+eam osculo oris sui <note>(Cantic. I, 1)</note>, et valedicens
+ei abiit in regionem longinquam accipere sibi regnum,
+et reverti. Mandavitque ei per Osee prophetam: <hi>Multo tempore me exspectabis; et non erit tibi
+sacerdos, nec sacrificium 
+ <note>(Ose. III, 3, 4)</note>
+          </hi>.
+<pb n="0768B"/>
+</p>
+        </div3>
+<div3>
+          <head>3. </head>
+          <p>
+Cujus Pharao ille Aegyptius captans absentiam,
+convocato exercitu: Veni, inquit, <hi>persequar et comprehendam,
+dividam spolia, implebitur anima mea:</hi> <emph>1253</emph> 
+ <hi>evaginabo gladium meum, interficiet eos manus
+mea <note>(Exod. XV, 9)</note>
+          </hi>. Surgensque cum omni malitiae
+suae nequitia, Ecclesiae persecutionem indixit.
+Moxque ejus castra aggrediens, comprehensum Petrum,
+fratremque ejus Andream crucifixit, Paulum
+decollavit, Joannem exsiliavit, Bartholomaeum decoriavit,
+Stephanum lapidavit, Laurentium et Vincentium
+ustulavit, et sanctorum mortibus, mortiumque
+et tormentorum generibus omnia complevit.
+Posuerunt morticina servorum Dei escas volatilibus
+coeli, carnes sanctorum bestiis terrae. Effuderunt
+<pb n="0768C"/>
+sanguinem innocentem tanquam aquam in circuitu
+Jerusalem, et non erat qui sepeliret <note>(Psal. LXXVIII,
+2, 3)</note>. Videns Ecclesia defensores suos positos ut
+oves escarum, ingemuit, et facta est amaritudo
+ejus amara. Sed terra Ecclesiae sanguine martyrum
+impinguata, fidelium segetes multiplici quodam germine
+refundebat: et in praecisione unius centum
+vel mille reddens, unde vinci sperabatur vincebat.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quod barbara illa inimici nequitia deprehendens
+infremuit, et ad nota calliditatis suae arma refugiens,
+a persecutione interim conquievit, viresque
+contraxit, gladium revocavit, consilium mutavit.
+Nullus pejor, inquit, quam domesticus inimicus.
+Effundam igitur contentionem super principes eorum,
+et errare eos faciam in invio, et non in via
+<pb n="0768D"/> <note>(Psal. CVI, 40)</note>.
+Et cum dicent: Pax, pax; non erit
+pax <note>(Jerem. VI, 14)</note>. Sed suscitabo inter eos haereses
+et schismata, et civili et intestino quodam bello
+omnia turbabo: et facilius suo eos gladio faciam interire,
+quam meo. Dixit, et mox terribilis illa hactenus
+Ecclesiae acies ordinata facta est non terribilis,
+quia deordinata. Mutuis quippe se vulneribus impetentes,
+seque invicem hostiliter concidentes, hostibus
+a longe stantibus et ridentibus, risum et insultationem,
+Ecclesiae vero luctum et intolerabilem
+incussere dolorem. Amaritudo enim ejus prius amara,
+nunc facta est amarior, cum vipereo quodam
+malo a filiis suis deflebat discerpi viscera sua. Sed
+<pb n="0769A"/>
+continuo egregii curiae Christianae milites praevalere
+videntes astutam inimici malitiam, spiritum resumpserunt,
+arma fidei corripuerunt: et malum ex semetipsis
+viriliter auferentes, Alexander cum multis
+Ariam; Augustinus Manichaeum multosque alios;
+Hieronymus Epicuraeum Jovinianum, caeterique
+caeteras haeresum et schismatum pestes pervadentes
+vel fortiter trucidaverunt, vel prudenter a castris
+propulerunt, pacemque Ecclesiae et gaudium restituerunt.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sed heu, heu! nec mare fluctibus, nec ista vita
+carere potest tentationibus; nec potest esse pax
+firma et solida, nisi in regione sua. Videns enim
+peccator, et invide irascitur, dentibus fremit et tabescit,
+et nova paraus bella ad spiritualia malitiae
+<pb n="0769B"/>
+arma se convertit; convocansque sui exercitus
+egregios illos duces, spiritum scilicet Fornicationis,
+spiritum Gulae, spiritum Avaritiae: Videtis, inquit,
+quia nihil proficimus, et jam totus mundus post
+ipsos abiit. Sed adhuc experiri habent vires nostras,
+qui gloriantur se jam effugisse vel elusisse artes meas.
+Dixit, et castris eos Ecclesiae immittens, et dormientes
+omnes et ebrios nocte inveniens (qui enim
+dormiunt, et qui ebrii sunt, nocte dormiunt et
+nocte ebrii sunt) <note>(I Thess. V, 7)</note>, continue omnia
+turbavit. Mox enim omnes se ipsos amantes, quae
+sua sunt quaerentes, non quae Jesu Christi, haereditate
+sibi vindicaverunt sanctuarium Dei, et polluerunt
+tabernaculum nominis ejus <note>(Psal. LXXIII, 7)</note>:
+non Deo in eo, sed voluntatibus et voluptatibus suis
+<pb n="0769C"/>
+servientes, quaeque Deo oblata vel sacrata, in suos
+usus vertentes. Facientes enim sibi de nominibus et
+officiis religionis nomina et auctoritates avaritiae,
+elationis et vanitatis, tunicam illam charitatis inconsutilem
+desuper textam per totum <note>(Joan. XIX, 23)</note>,
+purpureumque illud fidei pallium pretioso sanguine
+tinctum, quibus nuditatem sponsae Sponsus operuerat
+caeteraque religionis ornamenta, reluctanti et
+reclamanti. Ecclesiae detraxerunt: eamque denudantes,
+nec se vestientes, quam custodire debuerant,
+nudam reliquerunt, et de statu quietis eam exturbantes,
+quantum in ipsis est, de mundo fugere
+compulerunt.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sed illa clamans, plorans, et nudata turpitudine,
+<pb n="0769D"/> <emph>1254</emph> 
+ et discoopertis natibus, omnia
+occulta et pudenda sua risui omnium deflens exposita,
+orat filios uteri sui, nec miserentur; obsecrat,
+et irridetur. Et utraque manu totis viribus panniculos
+quosdam canonicae vel monasticae religionis,
+qui vix manus diripientium effugerunt, circa
+cor et vitales illas partes astringens, hos saltem
+dimitti sibi precatur, nec auditur. Et ipsos enim
+sui illi, non custodes, sed latrones, diripere conantur;
+ut vel nuditatem suam non ferens, de hoc
+mundo fugiat, vel inter eos in frigore malitiae eorum
+moriatur. Fingentes tamen nonnunquam se misereri,
+vestem de simulatione Virtutum et dissimulatione
+Vitiorum, manu Hypocrisis utrimque contextam
+vendere illi conantur. Quam illa detestans et
+<pb n="0770A"/>
+et abominans, non suscipit, non recognoscit. Novit
+illam Sapientiae manibus contextam, tinctam et
+sacratam Agni sanguine, a Sponso sibi derelictam,
+a filiis sublatam. Aliam nescit, sed abjicit et respuit.
+Ideo abjicitur, respuitur, conspuitur, et omnibus
+opprobrio habetur.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Haec sunt nostra, haec sunt Ecclesiae periculosa
+tempora: in quibus in pace facta est amaritudo
+ejus amarissima <note>(Isa. XXXVIII, 17)</note>. Sed tria vae abierunt:
+adhuc restat unum vae, scilicet angelus Satanae,
+in angelum lucis se transfiguraturus, sessurus
+in templo Dei, et ostensurus se tanquam sit Deus.
+Qui jam mysteria iniquitatis operatur <note>(II Thess. II,
+3-10)</note>, praenuntiis ejus jam undique Ecclesiae suggillantibus: <hi>Ecce hic, et ecce illic 
+ <note>(Luc. XVII, 23)</note>
+          </hi>.
+<pb n="0770B"/>
+Sed, o Sponsa Christi, noli credere, noli exire: sed
+sustine Sponsum tuum, qui te non despicit, nec
+obliviscitur in tribulatione: sed quarta vigilia veniet
+ad te ambulans super mare <note>(Matth. XIV, 25)</note>. Et
+veni, Domine; veni ad liberandum eam, Domine
+Deus virtutum, qui vivis et regnas per omnia saecula
+saeculorum. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>PARABOLA V. <hi>De fide, spe, et charitate.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Rex nobilis et potens tres habuit filias, Fidem,
+Spem et Charitatem. His delegavit civitatem eximiam,
+humanam Animam. In qua cum tres sint
+arces, Rationabilitas, Concupiscibilitas, Irascibilitas,
+unicuique suam contradidit: Fidei primam,
+Spei secundam, Charitati tertiam. Rationabilitati
+<pb n="0770C"/>
+praeficitur Fides, quia fides non habet meritum, cui
+humana ratio praebet experimentum. Concupiscibilitati
+Spes, quia concupiscere nos non licet quae videmus,
+sed quae speramus; et spes quae videtur, non
+est spes. Irascibilitati Charitas, fervor scilicet fervori,
+ut fervor virtutis fervori naturae dominetur,
+imo fervor naturalis attollat se in fervorem virtutis.
+Ingressae illae, unaquaeque pro posse suo domum
+suam ordinat et procurat. Custodem ergo domus
+suae in Rationabilitate Fides ponit Prudentiam, ut
+suum jus in ea sibi conservet, et rationem sub legibus
+fidei et intra terminos a fide positos cohibeat.
+Ut autem fiducialiter in domo ageret, addidit et
+Obedientiam. Ut Obedientia processum operis, et
+<pb n="0770D"/>
+tolerantiam haberet laboris, subdidit et Patientiam.
+Ut autem etiam inferiorem actuum vel sensuum familiam
+regere bene posset et dispensare, ipsam ei
+Dispensationem suffecit. Ut secundum Apostolum
+honeste et secundum ordinem omnia fierent <note>(I Cor.
+XIV, 40)</note>, addidit etiam et Ordinem. Ne maledictio
+intraret domum (maledicta omnis domus indisciplinata),
+custodem in porta posuit Disciplinam.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Spes autem in Concupiscibilitate domui suae
+Sobrietatem praefecit, ut jus suum in ea sibi conservaret,
+et principales ejus sibi semper servire compelleret.
+Ut autem inferiorem voluntatum et voluptatum
+familiam discrete regere sufficeret, ipsa ei
+subdidit Discretionem. Cui etiam contra concupiscentiam
+carnis addidit Continentiam contra concupiscentiam
+<pb n="0771A"/>
+oculorum, Constantiam; contra ambitionem
+saeculi, Humilitatem. Et ne egestas intraret
+domum ( <hi>ubi</hi> enim <hi>multa verba sunt,</hi> sicut dicit Salomon, <hi>ibi multa egestas 
+ <note>(Prov. XIV, 23)</note>
+          </hi>, Silentium
+custodem posuit in limine.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ At Charitas suam domum ad austrum et meridiem <emph>1255</emph> 
+ positam, amicae sibi Pietati commisit;
+jusque suum omne ei tradidit, subdens ei ad obsequium
+primum Munditiam corporis; deinde, congruas
+exercitationes, videlicet lectiones, meditationes,
+orationes, et spirituales affectiones. Et ne
+ingressa domum miseria conturbaret Beatitudinem
+filiorum Dei, qui in septimo gradu <note>(Matth. V, 9)</note>, id
+est in perfectione beatitudinis positi, in domo Charitatis
+ludunt et jucundantur, ipsam Pacem custodem
+<pb n="0771B"/>
+in porta constituit. Sic ordinatis domibus suis,
+totius civitatis quasi praepositum quemdam et oeconomum
+posuerunt Liberum Arbitrium.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Quo peracto, redeunt in domum patris puellae
+regiae. Inimicus homo superveniens, ordinem et
+gloriam civitatis videns et invidens, machinatur
+insidias; et ingredi cupiens, corruptis duobus de
+praecipuis civibus, Discretione et Dispensatione,
+universae malitiae suae exercitum introduxit per portas
+Rationabilitatis et Concupiscibilitatis. Praepositus
+civitatis Liberum Arbitrium, qui totius civitatis
+dimissus erat custos et arbiter (paterfamilias quippe
+peregre proficiscens dedit servis suis potestatem
+cujusque operis), ligatur vinculis ferreis et in carcerem
+<pb n="0771C"/>
+mittitur. Praecipitatis de arce Rationabilitatis
+custodibus suis, mox contra Fidem Blasphemia inducitur.
+Cum qua irruentes contradictiones, commotiones
+et confusiones, caeteraque hujusmodi turba,
+cunctaque sibi diripientes, sibique quidquid libebat
+vindicantes, in Rationabilitate nihil rationis reliquerunt;
+et janitore perempto, scilicet Disciplina, omnibus
+intrandi et exeundi copiam praebuerunt.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Porro in domum Spei, Concupiscibilitatem
+scilicet, ingressa, et omnia sibi vindicans domina
+Luxuria, totam eam de superioribus dejectam ad
+ima devolvit, et Concupiscentiae carnis Continentiam,
+Concupiscentiae oculorum Constantiam, Ambitioni
+saeculi Humilitatem conculcandam tradidit et
+illudendam. Et perempto Silentio janitore, omnibus
+<pb n="0771D"/>
+et intrantibus et exeuntibus fecit portam patere.
+Sobrietatem vero et socias sobrietatis virtutes aut
+occidit, aut incarceravit, aut in exsilium destinavit.
+Exinde ad superiorem civitatis arcem conscenditur,
+et Pace janitore et custode summae beatitudinis perempto,
+Miseria ingreditur. Mox enim domina
+<pb n="0772A"/>
+Superbia ascendens in arcem ( <hi>Superbia</hi> enim <hi>eorum
+qui te oderunt, ascendit semper <note>(Psal. LXXIII, 23)</note>
+          </hi>,
+Pietatem de ea impie deturbavit, totamque illam
+Pietatis et Pacis familiam morte vel exsilio damnavit.
+Jam quicunque vult, sanctuarium Dei ingreditur:
+quaecunque sancta in eo, quaecunque hactenus filiis
+Levi tantum accessibilia erant et visibilia, jam profanata,
+jam direpta ab inimicis, in Babylonem
+transferuntur; et de vasis templi concubinis regis
+Babylonii propinatur. Sic capta est et confusa tota
+civitas; secundum gloriam ejus facta est ignominia
+ejus.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Confusis omnibus, ad dominas tristis nuntius
+venit perditae civitatis. Conturbatae illae pedibus
+Patris provolvuntur, auxilium deprecantes. Causante
+<pb n="0772B"/>
+illo et custodis Liberi Arbitrii arguente negligentiam:
+Quid, inquiunt, o Pater, Liberum Arbitrium
+potest sine adjutrice gratia? Et ego, inquit, dabo
+gratiam; sed praemittendus est Timor. Ipse enim
+praeibit ante illam parare vias ejus. Egressus Timor
+a facie Domini, venit ad civitatem, baculum habens
+disciplinae in manu ejus; invenitque portam difficultatis
+obseratam, et obfirmatam vectibus malae consuetudinis.
+Janitor procax et improbus carnis lascivia
+in portis aderat, qui Timori satis infestus, opprobriis
+et conviciis eum fatigabat. At ille facto
+impetu fiduciae, frangens vectes malae consuetudinis,
+portas diruens difficultatis, miserum illum corripit,
+et baculo eum disciplinae quem tenebat, usque ad
+mortem perurget: statimque signum advenientis
+<pb n="0772C"/>
+Gratiae super portas elevans, totam civitatem vertit
+in timorem. Post quem Gratia ingreditur civitatem,
+secum totum illum Virtutum coelestium exercitum
+adducens. Mox pars inimica disparuit, Virtutes vero
+ad nota praesidia recurrunt. Procedentes illico et se
+ipsas deceptas fuisse accusantes Discretio et Dispensatio <emph>1256</emph> 
+ veniam precantur: prodit de vinculis
+et ad occursum dominae Gratiae festinat Arbitrium,
+sub regno Gratiae nunc tandem se sperans fore liberum.
+Fercula praeparantur filiabus regis domus suae,
+et mensae ponuntur congruae. In mensa quippe Fidei
+panis ponitur doloris, et aqua angustiae, et caetera
+poenitentiae fercula. In mensa Spei panis confortans,
+et oleum exhilarans faciem, et caetera consolationis
+<pb n="0772D"/>
+fercula. In mensa Charitatis panis vitae, vinumque
+laetificans, et omnes deliciae paradisi. Jam ingrediuntur
+et epulantur, et custodiunt civitatem. Sed
+nisi Dominus custodierit civitatem, frustra vigilat
+qui custodit eam <note>(Psal. CXXVI, 1)</note>.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>
