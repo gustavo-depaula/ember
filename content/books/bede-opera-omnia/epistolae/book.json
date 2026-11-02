@@ -1,0 +1,147 @@
+{
+  "id": "bede-epistolae",
+  "cover": "classic",
+  "name": {
+    "la": "Epistolae",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Epistolae Bedae: ad Albinum abbatem, ad Ecgberctum antistitem (734), ad Plegwinum de aetatibus mundi, ad Wicredam de Pascha, ad Accam episcopum, ad Nothelmum, ad Eusebium (Hwaetberht) et aliae de scripturis.",
+    "en-US": "Bede's surviving letters: to Abbot Albinus on the Ecclesiastical History, the famous letter to Bishop Egbert of York (734) on the reform of the Northumbrian church, the apology to Plegwin on the six ages of the world, letters to Wicred on Easter, to Bishop Acca and others as prefaces to his biblical commentaries, and short exegetical letters. Latin text of Migne (PL 94); no public-domain English translation of the whole is available here.",
+    "pt-BR": "As cartas de Beda que sobreviveram: a Albino sobre a História Eclesiástica, a célebre carta ao bispo Egberto de York (734) sobre a reforma da Igreja da Nortúmbria, a apologia a Plegwin sobre as seis idades do mundo, as cartas a Wicred sobre a Páscoa, a Acca e outros como prefácios dos comentários bíblicos, e breves cartas exegéticas."
+  },
+  "composed": "c. 700-734",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/epistolae",
+  "editions": {
+    "la": {
+      "editor": "Migne, PL 94 (1862), after Giles and Smith",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Epistolae_(Beda)",
+      "edition": "Epistolae (Beda) on Latin Wikisource, from the Corpus Corporum TEI of Migne PL 94 (the 'Epistula ad Albinum abbatem' page is the same text as Letter I).",
+      "description": "Wikitext removed; PL column numbers and source notes dropped; one file per letter.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century texts in Migne's reprint: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "e01",
+      "title": {
+        "la": "Epistola I, Ad Albinum Abbatem"
+      }
+    },
+    {
+      "id": "e02",
+      "title": {
+        "la": "Epistola II, Ad Ecgberctum Antistitem"
+      }
+    },
+    {
+      "id": "e03",
+      "title": {
+        "la": "Epistola III, Ad Plegwinum Apologetica"
+      }
+    },
+    {
+      "id": "e04",
+      "title": {
+        "la": "Epistola IV, Ad Wicredam"
+      }
+    },
+    {
+      "id": "f01",
+      "title": {
+        "la": "Fragmentum: appendix ad epistolam praecedentem"
+      }
+    },
+    {
+      "id": "e05",
+      "title": {
+        "la": "Epistola V, Ad Accam. de Principio Genesis"
+      }
+    },
+    {
+      "id": "e06",
+      "title": {
+        "la": "Epistola VI, Ad Eumdem Accam"
+      }
+    },
+    {
+      "id": "e07",
+      "title": {
+        "la": "Epistola VII, Ad Nothelmum Presbyterum"
+      }
+    },
+    {
+      "id": "e08",
+      "title": {
+        "la": "Epistola VIII, Ad Accam Episcopum"
+      }
+    },
+    {
+      "id": "e09",
+      "title": {
+        "la": "Epistola IX, Ad Accam. de Evangelio Lucae"
+      }
+    },
+    {
+      "id": "e10",
+      "title": {
+        "la": "Epistola X, Ad Accam. de Expositione Actuum"
+      }
+    },
+    {
+      "id": "e11",
+      "title": {
+        "la": "Epistola XI, Praefatio de Retractatione Actuum"
+      }
+    },
+    {
+      "id": "e12",
+      "title": {
+        "la": "Epistola XII, Ad Eusebium"
+      }
+    },
+    {
+      "id": "e13",
+      "title": {
+        "la": "Epistola XIII, Ad Accam"
+      }
+    },
+    {
+      "id": "e14",
+      "title": {
+        "la": "Epistola XIV, De Mansionibus Filiorum Israel"
+      }
+    },
+    {
+      "id": "e15",
+      "title": {
+        "la": "Epistola XV, De Eo Quod Ait Isaias"
+      }
+    },
+    {
+      "id": "e16",
+      "title": {
+        "la": "Epistola XVI, De Septem Epistolis Canonicis"
+      }
+    }
+  ]
+}
