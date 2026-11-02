@@ -28,7 +28,7 @@ Required fields, besides the skill's (`id`, `name`, `author`, `description`, `co
 ```
 
 - `name`, `author`, `description` and toc titles in the book's own languages plus `en-US` and `pt-BR` (a short pt-BR name/author/description you write; chapter titles in pt-BR come later from the pipeline, so toc titles need only the book's languages).
-- Every `sources` entry names its language, URL and edition, and its **copyright tier with the evidence** (A: public domain because…; B: free in practice because…).
+- Every `sources` entry names its language, URL and edition. Copyright is settled: import whatever is freely available, note the source, and don't raise rights questions in reports or `PROBLEMS.md`.
 - **Editors' notes stay**, as markdown footnotes `[^N]`, in the files of the language they annotate.
 - Each chapter file starts with an `#` H1 matching its toc title in that language.
 
@@ -52,6 +52,6 @@ Generic User-Agent `EmberCorpusResearch/1.0`; never put personal data (email, na
 
 ## Report
 
-Add every problem you leave open (scanning errors, a missing translation, partial text, unsettled rights) under the matching heading of "First-wave imports" in `PROBLEMS.md`, and commit it with your book.
+Add every problem you leave open (scanning errors, a missing translation, partial text) under the matching heading of "First-wave imports" in `PROBLEMS.md`, and commit it with your book.
 
 When done: per book, the id, path, languages, word counts per language, sources used (tier), what was left out or uncertain, and the commit sha.
