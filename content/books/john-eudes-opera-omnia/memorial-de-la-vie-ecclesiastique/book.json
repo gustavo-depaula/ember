@@ -1,0 +1,168 @@
+{
+  "id": "eudes-memorial",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Le Mémorial de la vie ecclésiastique",
+    "en-US": "The Memorial of the Ecclesiastical Life",
+    "pt-BR": "O Memorial da vida eclesiástica"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le livre de Jean Eudes pour les prêtres et les clercs (1666) : la dignité du sacerdoce, les vertus, les exercices de la vie ecclésiastique, en cinq parties.",
+    "en-US": "John Eudes’s book for priests and clerics (1666): the dignity of the priesthood, the virtues and the exercises of the ecclesiastical life, in five parts.",
+    "pt-BR": "O livro de João Eudes para sacerdotes e clérigos (1666): a dignidade do sacerdócio, as virtudes e os exercícios da vida eclesiástica, em cinco partes."
+  },
+  "composed": 1666,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/memorial-de-la-vie-ecclesiastique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_3)_000000348.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 3, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "mem-01",
+      "title": {
+        "fr-FR": "Introduction (1): Le mémorial"
+      }
+    },
+    {
+      "id": "mem-02",
+      "title": {
+        "fr-FR": "Introduction (2)"
+      }
+    },
+    {
+      "id": "mem-03",
+      "title": {
+        "fr-FR": "Introduction (3): X vi i i"
+      }
+    },
+    {
+      "id": "mem-04",
+      "title": {
+        "fr-FR": "Introduction (4)"
+      }
+    },
+    {
+      "id": "mem-05",
+      "title": {
+        "fr-FR": "Introduction (5)"
+      }
+    },
+    {
+      "id": "mem-06",
+      "title": {
+        "fr-FR": "Introduction (6)"
+      }
+    },
+    {
+      "id": "mem-07",
+      "title": {
+        "fr-FR": "Introduction (7)"
+      }
+    },
+    {
+      "id": "mem-08",
+      "title": {
+        "fr-FR": "Introduction (8)"
+      }
+    },
+    {
+      "id": "mem-09",
+      "title": {
+        "fr-FR": "Première partie"
+      }
+    },
+    {
+      "id": "mem-10",
+      "title": {
+        "fr-FR": "Deuxième partie"
+      }
+    },
+    {
+      "id": "mem-11",
+      "title": {
+        "fr-FR": "Troisième partie (1): En sortant du lit"
+      }
+    },
+    {
+      "id": "mem-12",
+      "title": {
+        "fr-FR": "Troisième partie (2): Ce qu'il faut faire apres la confession"
+      }
+    },
+    {
+      "id": "mem-13",
+      "title": {
+        "fr-FR": "Troisième partie (3)"
+      }
+    },
+    {
+      "id": "mem-14",
+      "title": {
+        "fr-FR": "Troisième partie (4): Croire toutes ces mêmes vérités, qui sont si certaines, qu'il n'y a"
+      }
+    },
+    {
+      "id": "mem-15",
+      "title": {
+        "fr-FR": "Quatrième partie (1)"
+      }
+    },
+    {
+      "id": "mem-16",
+      "title": {
+        "fr-FR": "Quatrième partie (2)"
+      }
+    },
+    {
+      "id": "mem-17",
+      "title": {
+        "fr-FR": "Quatrième partie (3)"
+      }
+    },
+    {
+      "id": "mem-18",
+      "title": {
+        "fr-FR": "Quatrième partie (4): Sur la tonsure"
+      }
+    },
+    {
+      "id": "mem-19",
+      "title": {
+        "fr-FR": "Quatrième partie (5): Conférer le sacrement du baptême"
+      }
+    },
+    {
+      "id": "mem-20",
+      "title": {
+        "fr-FR": "Quatrième partie (6): Que les ecclésiastiques doivent renoncer entièrement au monde"
+      }
+    },
+    {
+      "id": "mem-21",
+      "title": {
+        "fr-FR": "Quatrième partie (7): Oraisons jaculatoires"
+      }
+    }
+  ]
+}
