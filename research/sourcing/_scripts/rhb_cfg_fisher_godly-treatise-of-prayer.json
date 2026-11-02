@@ -1,0 +1,21 @@
+{
+ "id": "fisher-godly-treatise-of-prayer",
+ "dir": "fisher-opera-omnia/godly-treatise-of-prayer",
+ "slug": "godly-treatise-of-prayer",
+ "work": "fisher/godly-treatise-of-prayer",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00762.xml",
+ "name": "A Godly Treatise Declaring the Benefits of Prayer",
+ "name_pt": "Um Piedoso Tratado sobre os Benefícios da Oração",
+ "desc": "Fisher's treatise on the necessity and benefits of prayer in the English translation of Anthony Browne, Viscount Montagu (1560).",
+ "desc_pt": "O tratado de Fisher sobre a necessidade e os benefícios da oração, na tradução inglesa de Anthony Browne, visconde Montagu (1560).",
+ "composed": 1535,
+ "editor": "John Fisher, tr. Anthony Browne (1560; EEBO-TCP A00762)",
+ "year": 1560,
+ "url": "https://github.com/textcreationpartnership/A00762",
+ "edition": "A godlie treatisse declaryng the benefites of prayer (1560), EEBO-TCP A00762.",
+ "front": true,
+ "parts": true
+}

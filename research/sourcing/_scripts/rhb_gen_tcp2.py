@@ -1,0 +1,7 @@
+from rhb_gen_fisher1 import cfg
+cfg('godly-treatise-of-prayer', 'fisher', src='A00762.xml', name='A Godly Treatise Declaring the Benefits of Prayer', name_pt='Um Piedoso Tratado sobre os Benefícios da Oração',
+ desc="Fisher's treatise on the necessity and benefits of prayer in the English translation of Anthony Browne, Viscount Montagu (1560).", desc_pt="O tratado de Fisher sobre a necessidade e os benefícios da oração, na tradução inglesa de Anthony Browne, visconde Montagu (1560).",
+ composed=1535, editor='John Fisher, tr. Anthony Browne (1560; EEBO-TCP A00762)', year=1560, url='https://github.com/textcreationpartnership/A00762', edition='A godlie treatisse declaryng the benefites of prayer (1560), EEBO-TCP A00762.', front=True, parts=True)
+cfg('utopia-burnet', 'more', work='more/utopia', id='more-utopia-burnet', src='A51327.xml', name="Utopia (Gilbert Burnet's translation)", name_pt='Utopia (tradução de Gilbert Burnet)',
+ desc="Gilbert Burnet's English version of More's Utopia (1684), the most read English translation, in the spelling of its first printing.", desc_pt="A versão inglesa de Gilbert Burnet (1684) da Utopia de More, a tradução inglesa mais lida, na grafia da primeira impressão.",
+ composed=1516, editor='Thomas More, tr. Gilbert Burnet (London: Richard Chiswell, 1684; EEBO-TCP A51327)', year=1684, url='https://github.com/textcreationpartnership/A51327', edition='Utopia, translated by Gilbert Burnet (London: 1684), EEBO-TCP A51327.', front=True, parts=True)

@@ -1,0 +1,101 @@
+{
+  "id": "fisher-godly-treatise-of-prayer",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Godly Treatise Declaring the Benefits of Prayer",
+    "pt-BR": "Um Piedoso Tratado sobre os Benefícios da Oração"
+  },
+  "author": {
+    "en-US": "St. John Fisher",
+    "pt-BR": "São João Fisher"
+  },
+  "description": {
+    "en-US": "Fisher's treatise on the necessity and benefits of prayer in the English translation of Anthony Browne, Viscount Montagu (1560).",
+    "pt-BR": "O tratado de Fisher sobre a necessidade e os benefícios da oração, na tradução inglesa de Anthony Browne, visconde Montagu (1560)."
+  },
+  "composed": 1535,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fisher/godly-treatise-of-prayer",
+  "editions": {
+    "en-US": {
+      "editor": "John Fisher, tr. Anthony Browne (1560; EEBO-TCP A00762)",
+      "year": 1560
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A00762",
+      "edition": "A godlie treatisse declaryng the benefites of prayer (1560), EEBO-TCP A00762.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 43 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. John Fisher died in 1535; the edition is of 1560 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "The translatour to the Reader"
+      }
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "A Treatise vpon these vvordes of our Sauiour Christe. Oportet Semper Orare"
+      },
+      "children": [
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "A Treatise vpon these vvordes of our Sauiour Christe. Oportet Semper Orare"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "The seconde Reason"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "The thirde Reason"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "The last Reason"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Of the three chiefe and principall fruites of Prayer"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Of the thirde fruite of Prayer"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "To vvhat thing vve ought chiefly to bende our minde in the time of our prayer"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Whether the prayer of the hart onlye be more fruitefull than that wherin the mouth & hart also is occupied"
+          }
+        }
+      ]
+    }
+  ]
+}
