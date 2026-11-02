@@ -1,0 +1,499 @@
+{
+  "id": "more-answer-to-a-poisoned-book",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Answer to a Poisoned Book",
+    "pt-BR": "A Resposta a um Livro Envenenado"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's last published polemic (1533), against the Supper of the Lord, an anonymous attack on the Real Presence, defending the doctrine of the Eucharist.",
+    "pt-BR": "A última polêmica publicada de More (1533), contra A Ceia do Senhor, ataque anônimo à Presença Real, em defesa da doutrina eucarística."
+  },
+  "composed": 1533,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/answer-to-a-poisoned-book",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: William Rastell, 1533)",
+      "year": 1533
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07690",
+      "edition": "The answere to the fyrst parte of the poysened booke (London: 1533), EEBO-TCP A07690.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 626 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1533 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "The preface. Syr Thomas More knyght to the chrysten reader"
+      }
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "The fyrst booke"
+      },
+      "children": [
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "The. i. chapyter"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "The. ii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "The. iii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "The. iiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "The exposycyon of the sayd texte"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "The. vi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "The. vii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "The. viii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "The. ix. chapyter"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "The. x. chapyter"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "The. xi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "The. xii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "The. xiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "The. xiiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "The. xv. chapyter"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "The. xvi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "The. xvii chapyter"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "The. xviii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "The. xix. chapyter"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "The. xx. chapyter"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "The. xxi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "The. xxii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-25",
+          "title": {
+            "en-US": "The. xxiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-26",
+          "title": {
+            "en-US": "The. xxiiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-27",
+          "title": {
+            "en-US": "The. xxv. chapyter"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "The secunde boke"
+      },
+      "children": [
+        {
+          "id": "chapter-28",
+          "title": {
+            "en-US": "The. i. chapyter"
+          }
+        },
+        {
+          "id": "chapter-29",
+          "title": {
+            "en-US": "The. ii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-30",
+          "title": {
+            "en-US": "The. iii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-31",
+          "title": {
+            "en-US": "The. iiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-32",
+          "title": {
+            "en-US": "The. v. chapyter"
+          }
+        },
+        {
+          "id": "chapter-33",
+          "title": {
+            "en-US": "The. v. chapyter"
+          }
+        },
+        {
+          "id": "chapter-34",
+          "title": {
+            "en-US": "The. vii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-35",
+          "title": {
+            "en-US": "The. vii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-36",
+          "title": {
+            "en-US": "The. ix. chapyter"
+          }
+        },
+        {
+          "id": "chapter-37",
+          "title": {
+            "en-US": "The. x. chapyter"
+          }
+        },
+        {
+          "id": "chapter-38",
+          "title": {
+            "en-US": "The. xi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-39",
+          "title": {
+            "en-US": "The. xii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-40",
+          "title": {
+            "en-US": "The. xiii. chapyter"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "The thyrd boke"
+      },
+      "children": [
+        {
+          "id": "chapter-41",
+          "title": {
+            "en-US": "The fyrste chapyter"
+          }
+        },
+        {
+          "id": "chapter-42",
+          "title": {
+            "en-US": "The. ii chapyter"
+          }
+        },
+        {
+          "id": "chapter-43",
+          "title": {
+            "en-US": "The. iii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-44",
+          "title": {
+            "en-US": "The. iiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-45",
+          "title": {
+            "en-US": "The. v. chapyter"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "The fourth boke"
+      },
+      "children": [
+        {
+          "id": "chapter-46",
+          "title": {
+            "en-US": "The fourth boke"
+          }
+        },
+        {
+          "id": "chapter-47",
+          "title": {
+            "en-US": "The. ii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-48",
+          "title": {
+            "en-US": "The. iii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-49",
+          "title": {
+            "en-US": "The. iiii. chapiter"
+          }
+        },
+        {
+          "id": "chapter-50",
+          "title": {
+            "en-US": "The. v. chapyter"
+          }
+        },
+        {
+          "id": "chapter-51",
+          "title": {
+            "en-US": "The. vi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-52",
+          "title": {
+            "en-US": "The. vii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-53",
+          "title": {
+            "en-US": "The. viii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-54",
+          "title": {
+            "en-US": "The. ix. chapyter"
+          }
+        },
+        {
+          "id": "chapter-55",
+          "title": {
+            "en-US": "The. x. chapyter"
+          }
+        },
+        {
+          "id": "chapter-56",
+          "title": {
+            "en-US": "The. xi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-57",
+          "title": {
+            "en-US": "The. xii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-58",
+          "title": {
+            "en-US": "The. xiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-59",
+          "title": {
+            "en-US": "The. xiiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-60",
+          "title": {
+            "en-US": "The. xv. chapyter"
+          }
+        },
+        {
+          "id": "chapter-61",
+          "title": {
+            "en-US": "The. xvi. capyter"
+          }
+        },
+        {
+          "id": "chapter-62",
+          "title": {
+            "en-US": "The. xvii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-63",
+          "title": {
+            "en-US": "The. xviii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-64",
+          "title": {
+            "en-US": "The. xix. chapyter"
+          }
+        },
+        {
+          "id": "chapter-65",
+          "title": {
+            "en-US": "The. xx. chapyter"
+          }
+        },
+        {
+          "id": "chapter-66",
+          "title": {
+            "en-US": "The. xxii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-67",
+          "title": {
+            "en-US": "The. xxiii. chapyter"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-7",
+      "title": {
+        "en-US": "The fyfth booke and the laste of the fyrste parte"
+      },
+      "children": [
+        {
+          "id": "chapter-68",
+          "title": {
+            "en-US": "The fyrste chapyter"
+          }
+        },
+        {
+          "id": "chapter-69",
+          "title": {
+            "en-US": "The secunde chapyter"
+          }
+        },
+        {
+          "id": "chapter-70",
+          "title": {
+            "en-US": "The. iii. chapyter"
+          }
+        }
+      ]
+    }
+  ]
+}

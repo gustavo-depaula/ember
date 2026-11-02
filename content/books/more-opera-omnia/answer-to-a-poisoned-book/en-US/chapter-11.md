@@ -1,0 +1,35 @@
+# The. ix. chapyter
+
+THan was our lord playne with them and sayed, I am the brede of life / he yu cometh to me shal not hūger, and he that beleueth in me shall neuer thyrste.
+
+Lo sayth our lord the brede of life that I speke of is my self whom my father gyueth downe from heuyn, to geue not onely nuryshynge, but also lyfe to the worlde.
+
+The comen brede doth but helpe to kepe and conserue the lyfe that the man hath all redy. But my father hath sent me down / me I say the very brede wherof angelles fede, not onely to conserue and kepe the life of the body / (all be it that do I to, & hele of your syke folkes full many) but also to quycken them that are dede, many in body and al the whole world in soule / wherof none can haue lyfe but by me.
+
+And therfore he yt cometh to me, that is to wytte, who so wyll wurke the wurke of god that I tolde you, ye is to wytte come by fayth vn to me, and byleue in hym whom the father hath sent, that is to wytte in my self, hys hunger and thyrste shall I take awaye for euer.
+
+Good is it good readers to consyder well these wordꝭ, leste by these wordes wronge vnderstanden, some men myghte wene (as these heretyques teche, that now a dayes renew that olde heresye that bothe saynte Iamys and saynte Poule by playne[^1] expresse wordes reproue) that oure[^2] lorde wolde aske no more of any chri sten man but onely bare faythe alone. Whyche heresye / (wherof they so myche bosted a whyle) these heretykes now fele so fully cōfuted, that though they lyue styll lyke those that byleue it, yet in theyr wordes & wrytynge they be fayne to retrete for […], & to seke suche gloses to saue theyr olde wrytynge, as myght make vnwyse men wene that they neuer ment otherwyse than the whole catholyke chyrche comenly techeth and precheth. Whiche yf they had ment none other in dede (as in dede they ment and yet mene farre other styll) than hadde they ye wote well made myche bysynes about nought.
+
+But lettynge these heretyques passe / ye shall good chrysten readers vnderstande, that lyke as yf a man wold teche a chyld to rede, he muste fyrst begynne at his A B c (for without the knowlege of hys letters he can neuer go forward) so for as mich as no […] can come vnto Cryst without fayth, but faith must nedes be the fyrst entre toward all chrysten vertues, syth no man can eyther hope in hym or loue hym whom he knoweth not, and Chryst can no man chrystenly know, but by fayth (for as […] Poule sayth he that commeth vnto[^3] god he must nedes byleue) so dyd our sauyour therfore as a good & a wyse mayster of his chrysten scole, bygyn ther with ye Iewys that there offred them self as his scolers, he began I say with fayth. But yet he ment not that to saluacyon they shold nede no thynge elles but onely bare fayth / so that yf they wold byleue all thynges that he sholde tell them, they sholde therby be surely saued, though they wolde do nothynge that he wold byd theym.
+
+But than what saye we to these wordes of our sauyour? He that byleueth in me shall neuer thyrste. By thys worde of neuer thyrstynge, he meneth euerlastyng saluacyō, which he promyseth here to all those that by leue in hym / wherfore it may seme yt who so euer byleue though he do no thynge els, shall by this promyse of our sauyour be saued.
+
+Saynt Iohn̄ the baptyst at suche tyme as people came to hym, & asked[^4] what they sholde do whereby they myght auoyde dāpnaciō he bode thē geue almoyse. And whan the Publicanys asked hym what they shold do to auoyde dāpnacyon, he bode theym forbere brybys, and take no more thā the dew custumes & toll. And to the souldyours askynge hym the same questyon for theyr part, he answered that they sholde pyke no querellys, nor do no man no violence, nor take […] by force, but holde theym selfe content wyth theyr wagys. […] dyd he not mene that any of all thesse lessons was inough to saue thē wythout any more / but he tolde them for the whyle, eche of them the thyng that sholde be most metely for them / and moste proprely pertayne to theyr persons, and therfore moste metely for them to lerne fyrste / and the remanaūt shold ech of thē after lerne, […] and lytell at length, so that at laste they sholde eche of them do that one thynge wyth all other thynges necessary also, and wythout whych that one thyng could not saue them.
+
+Thus dyd our sauyoure also, bycause the Iewys were full of infydelyte and full of incredulyte / which vnbylyefe endurynge, they coulde not entre into the way of saluacyon. He therfore fyrste taughte theym fyrst the lesson of bylyefe and fayth / whyche onys hadde, they shoulde be mete to lerne on the remanaunt, & encreace both in hope & in well wurkyng cheryte / so that fayth ones had, he tolde them they shold not […]. For yf they onys byleued his worde / it was a meane to make them hope in hym and loue hym both, & those […] thynges wold make them obay hym and wurke in suche other vertuouse, as he wolde for theyr owne […] commande them.
+
+There are also good readers dyuerse holy doctours, that saye that in these wordes by whych our sauyour sayde vnto the Iewes, he that byleueth in me shall neuer thyrst / he ment not hym that had a bare fayth alone (which is as saynt Iamys sayth but[^5] adede fayth) but hym that had fayth well formed wyth hope & cheryte.
+
+And therfore sayth holy saynt Au stayne thus: Chryst sayth not byleue hym, but byleue in hym. For it foloweth not by and by that who so byleue, hym, byleueth in hym. For the deuyls byleued hym, but they byleued not in hym. And we byleue saint Poule, but we byleue not in saynt Poule. To by leue therfore in hym, is wyth byleuynge to go into hym, and to be incorporate in hys membrys. This is the fayth that god requireth and exac […] of vs / that is to wytte the fayth that by loue wyll wurke well. yet ys fayth dyscerned and seuered frō workys / as the apostle sayth a man is iu stifyed by fayth without the wurkes of the lawe. And there are wurkes that seme good without the fayth of Chryste, but they be not / for they be not referred vnto that ende of whiche all good thynges come. For the ende of the law is Christ vnto iustice vnto all that byleue. And therfore our sauyour wold not dyscerne and deuyde fayth from the worke / but sayth that the fayth it selfe was yt worke of god / that is to wytte the fayth that by loue wurketh.
+
+[…] ye perceyue good readers, that to byleue meritoriousely, so as […] shalbe rewarded with saluacion, may not be fayth alone, but fayth wyth a wurkynge loue. Nor it may not be a bare byleuynge of Cryst, but it must be a byleuynge in Cryste / that is as saynt Austayn sayth, not an […] dede […] bylyefe, but a bylyefe lyuely, quycke, & styrynge, & by cheryte and good wurkes euer walkyng and goyng into Cryst. And than they that so byleue in hym, not wyth the bare onely fayth that these heretykes preche, but with the well wurkyng faith yt the catholyke chyrche techeth / they shalbe saued sayth our sauyour from eternall hunger & thyrst.
+
+[^1]: Iacobi. 2.
+
+[^2]: Gala. 5.
+
+[^3]: […]. 11a
+
+[^4]: […]. […]
+
+[^5]: […].

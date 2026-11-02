@@ -1,0 +1,21 @@
+{
+ "id": "more-answer-to-a-poisoned-book",
+ "dir": "more-opera-omnia/answer-to-a-poisoned-book",
+ "slug": "answer-to-a-poisoned-book",
+ "work": "more/answer-to-a-poisoned-book",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07690.xml",
+ "name": "The Answer to a Poisoned Book",
+ "name_pt": "A Resposta a um Livro Envenenado",
+ "desc": "More's last published polemic (1533), against the Supper of the Lord, an anonymous attack on the Real Presence, defending the doctrine of the Eucharist.",
+ "desc_pt": "A última polêmica publicada de More (1533), contra A Ceia do Senhor, ataque anônimo à Presença Real, em defesa da doutrina eucarística.",
+ "composed": 1533,
+ "editor": "Thomas More (London: William Rastell, 1533)",
+ "year": 1533,
+ "url": "https://github.com/textcreationpartnership/A07690",
+ "edition": "The answere to the fyrst parte of the poysened booke (London: 1533), EEBO-TCP A07690.",
+ "front": true,
+ "parts": true
+}

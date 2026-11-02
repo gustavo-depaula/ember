@@ -1,0 +1,23 @@
+# The. xvi. chapyter
+
+BUt yet shall ye se that vpon the wordes of Cryste folowynge,
+
+Now saynte saynte all waye more and more declareth that Christ spake there of his very body, that he wold geue men to eate in the blessed sacrament. For it foloweth in the text of the gospell.
+
+Than sayd Iesus vnto the Jewes, Ueryly veryly I say vnto you, but yf ye eate the flesshe of the soue of man ye shall not haue lyfe in you. He that eateth my flesshe and drynketh my bloude, hath euerlastynge lyfe.
+
+Uppon those wordes thus[^1] sayth saynt Cyrill.
+
+Cryst is very mercyfull and mylde as the thynge it selfe she weth. For he answereth not here sharpely to theyr hote wordes, nor falleth at no conten cyon wyth them / but goeth about to inprente in theyr myndes the lyuely knowlege of thys sacrament or mystery. And as for how (that is to wyt in what maner) he shall geue thē hys flesshe to eate, he teacheth them not. For they coulde not vnderstande yt. But how greate good they shold get by the eating if they eate it with faith that thynge agayne and agayne he declareth them to dreue them to faith by the desyre of eternall lyfe / & fayth fyrst onys had, they shold be than the more easy to be tawght. For the prophete[^2] Esay sayth, But yf ye byleue ye shall not vnderstaude. Therfore it was of necessyte requysyte / that they sholde fyrst fasten the rotes of fayth in theyr mynde, and than aske suche thynges as were metely for a man to aske. But they before they wolde byleue, wolde out of season aske theyr importune questyons fyrste. And for thys cause our sauyour declared not vnto them how it myght be done / but exhorteth them to seke the thynge by fayth. So vnto the tother syde, to his dyscyples that byleued, he gaue the peces of the brede sayeng: Take you and eate this is my body. And in like wyse he gaue them the cuppe about sayenge, drynke you of this all, thys is the cuppe of my bloude, whyche shall be shed for many, for remyssyon of synnes. Here thou seest that to thē that asked wythout fayth, he opened not the maner of thys mystery or sacrament. But to thē that byleued, he expouned it though they asked not. Therfore let theym heare thys, those folke I saye that of arrogaunce and pryde wyll not byleue the faythe of Chryste.
+
+Here ye se good readers that saynt Cyrill playnely declareth you, that our saliyour wolde not teache theym at that tyme the maner of the eatynge, bycause of theyr infydesyte for all theyr askynge / but after ward he tolde and taught it hys faythfull dyscypses at hys faste […] and maūdye, whan he toke them the bred and bode them eate it, and tolde them that the same was hys body / and the cuppe and bode them drynke therof, and shewed theym that that was his bloud. And thus you se well by saynt Cyrill that mayster Masker here, whych by hys exposycyd wold make vs wene that our sauyour in all hys worde here to the iewes, ment onely to tell them of ye geuyng of hys flesh to the deth, & that he ment nothyng of the geuynge of hys fleshe to eate in the blessed facrament, doth in all hys exposycyon but play with false dyce to deceyue you.
+
+Now as for that saint Crrif here calleth it by the name of brede, that is I trow the thynge that can nothynge trouble you, For I haue shewed you before by the wordes of that greate holy doctour Theophylactus, that it is called bred, bycause it was bred, and bycause of the forme of brede ye remayneth / & yet is no brede in dede, but is the very blessed body of Crist his very flesshe and hys bloude. As you se also by saynt Cyrill here, whi che of thys blessed sacramēt so often reherseth and inculketh the myracle, exhortynge all folke that no man be moued to mystruste it, though the thynge be meruelouse, nor aske as ye Iewes dyd how such a wunderfull wurke can be wrought / but mekely byleue it, syth he is god that sayth it / & therfore as he sayth it, so do wt not but he […] do it / as he doth other lyke thynges, and dyd ere he were born in to thys world / of whyche thynges saint Cyrill hath here rebersed some. As the turnynge of the water into bloude, as he turneth in the sacramēt the wyne into bloud / and the turnyng[^3] of Aarons rod into a serpēt / and that into such a serpent as deuowred vp all the serpentes of the Egypcyane wytches. Lyke as our sauyour in the blessed sacrament turneth the brede into hys owne body, yt holy holesome serpent that deuowreth all the poysened serpentes of hell / and was therfore figured by the brasyn serpent that Moyses dyd sette vp in the maner[^4] of a crosse in the desert / the byhol dyng wherof deuowred & destroyed the venym of all the poysen serpent that had stongen any man there.
+
+[^1]: Lyrissus si. 4. ca. I + in eud. […].
+
+[^2]: Esal. 7.
+
+[^3]: Exodi. 7
+
+[^4]: Nume. 21.

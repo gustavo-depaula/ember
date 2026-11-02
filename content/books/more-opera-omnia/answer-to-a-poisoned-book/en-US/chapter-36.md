@@ -1,0 +1,39 @@
+# The. ix. chapyter
+
+THan sayeth mayster Masker ferther in the same place, Neyther ceace they dayely to crucylye and offre vp Chryst agayne, whyche was onys for euer and all, offred vp as Poule testyfyeth hebre. 9.
+
+To what lewd boldenes it geueth, whan a man maye walke about in a vysor vnknowen? Mayster masker careth not what he sayth whyle hys vysor of dyssymulacyon is on, that men knowe hym not. For who sayth that Chryst is dayly new crucyfyed? Trouth it is that the chyrche sayth that Chryst is at ye awter euery daye offered, his owne blessed body in the sacramēt. This of trouth the chyrch sayth, and that Chryste is our dayly sacryfyce. But no man sayth that he is dayly crucyfied of new, and dayly put to new payne. But as he was vnys crucyfyed and kylled & offered on the crosse, so is that one deth oblacyon and sacrifice dayly represented, by the selfe same body ye onely quicke sacryfyce and oblacyon that god hath lefte vnto his new chrysten chyrche, instede of all the manyfold sacryfyces and obsacyons of this olde synagoge the Iewes. And that ye maye knowe yt I fayne you not fantasyes: […] declareth it very playnely, whose wordes are these. what is that than that we do? Do[^1] not we offre dayly? yes forloth. But we do it in remēbrance of hys deth. And thys hooste is one hooste & not many. Now is it one hooste and not many? For bycause that hooste was onys offered, and was offered into […] holyest tabernacle, and […] sacryfyce is a copte or example of that. we offer alwaye the selfe same, Nor we offre not now one lambe, & to […] ano ther, but […] the same. This sacryfyce […] one. For ellys bycause it is […] in many places at ones / ate there many […] veryly. For it is but one Crist euery where, being bothe here hole, & there hole one […] For in lyke maner as he that is […] euery where, is but one body and not many bodyes: so it is also but one sacryfyce. And he is our bysshop that […] the hooste that clenseth vs we offre […] also the same hooste […] was than offered, and can […] be consumed. And thys that we do, is done in remembraunce of that that was done. For (he fayth) do ye this in remebraunce of me. It is none other sacryfyce / as it is none other bysshop but alwaye we do the same, or rather we make a remembraunce of that same sacryfyce.
+
+what wordes can there he […], to proue mayster Masker a very fonde blasphemouse […] thanne these? by whyche this holy doctour saynt Crysostome, agaynst mayster Masker mockynge here the masse, […] his false foly clerely. And not onely sheweth that it is a sacrifice and an […]: but also she weth that it is the dayly […] of […] fame offryng & sacrifisyng, by which he was sacrifysed & offred vp on the […]. And yet to stoppe maister mas […] mouth in ye hole mater: he she […] yt this […], this blessed sacrifice the sacrament of the awter, is all one oblacyon, all one hoste, though it be offred at onys in neuer so many places. And he she weth also, that it is ye very self same body that was offred on the crosse. And that in thys sacryfyce of offerynge vp the selfe […] body in the […], […] the […], as a […] is […] after a […] and do […] the […] same sacry fyee, by which Chryst the very selfe same body was […] on the croffe.
+
+Nowe can mayster Masker & more playnely […] and […], than saynt […] foundeth hym, vpon […] of […] foly she […] he mouse […] of his? wyth whyche be realeth […] the chyrche, and sayth […] not […] to […] as though the chyrch at this day […] put Cryst to new payne, bycause his deth is represented in the masse, and of his goodnes his very blessed body offered vp dayly a swete sacryfyce for our synnys.
+
+Lracian also recyteth in ye decrees for our purpose in euery ponnt, as effectuall wordes of saynt Ambrose de consecrat. distinctione 2. cap. In Chrysto semef.
+
+Saynt Austayne also in the. xvi.[^2] booke de ciuitate dei, sayth of the holy masse in this wyse.
+
+That sacryfyce is succeded into the place of all those sacryfyces of the old lawe, whyche sacryfyces were offered for a shadow of the thynge to come. And for yt cause also we knowe that voyce in the. xxxix. psalme, the prophe cye of our medyatour Chryste, where he sayth, Sacryfyce & oblacyon thou woldest not haue, but the body thou hast perfyted me. For in the stede of all those sacryfyces and oblacyons, his body is offered and mynistred vnto them that wylbe part takers of it.
+
+What speke I of saynt Crysostome and saynt Austayne, all the old holy doctours and sayntes of chryste chyrche, without any excepcion, were euer more clere in thys poynt that mayster Masker here now denyeth and thus iesteth on, that the blessed sa crament in the masse is a sacry fyce & an oblacyon.
+
+And this can not mayster Masker hym selfe denye. For his owne fyrste mayster Martyn Luther, the late well sprynge of all this flode of heresyes, in hys pestysent booke of babilonica, puttynae forth this heresye that mayster Masker towcheth here, yt the blessed sacramēt in ye masse is no sacrifice, nor none oblaciō, obiec teth agarnst hym selfe & saith thus.
+
+Now muste we take awaye another[^3] occasyon of ruyne, that is that the masse is euery where byleued to be a sacryfyce, that is offered vnto god.
+
+And for that opyniō, semen to sowne the canon of the masse, where it is sayd, these gyftes, these holy sacryfyces, this oblacyon and offrynge. And therfore is Chryste called the hoste or sacryfyce of the awter. Than cometh there also on this parte the sayenges or sentences of the holy fathers and than so many exemples.
+
+Agaynst all these thynges bycause they be very fastely receiued, we must very constantely obiecte the wordes & ensample of Chryste at his maūdy.
+
+And afterward he sayth agayne, what shall we say than to the canon of the masse and to the sayenges of the olde holy doctours and sayntes: I say that yf we haue nothynge ellys to say: let vs yet rather denye them all, than graunte that the masse shold be any good wurke or any sacryfyce, leste we sholde denye the worde of Cryste, and cast downe fayth & […] and all.
+
+Thus you se good readers that Luther hym selfe confesseth, that in thys heresye agaynste the sacryfyce and oblacyon of the masse, whyche mayster Masker with two other he resyes to, bryngeth here forth now, the olde holy doctours and sayntes are agaynst hym / and than were we wyse, yf we wolde wene that Martyne Luther & mayster masker euyll chrysten heretykes vnderstand Chri stes wordes better, than euerdyd all the holy doctours of chrystes chyrch before.
+
+And thus you se good readers what a compendyouse wryter mayster masker is, that hath in lesse than thre lynes, compacted vp together such thre abomynable blasphemouse heresyes, as the deuyll hym selfe neuer deuysed vurse.
+
+In the syxte the. vii. the. viii. the ix. the. x. lefe, he hath certayne argumentes agaynst all men in generall, that expoune those wordes of Cryst in the syxte chapyter of Iohin̄, to be spoken and ment of the very eatynge of his blessed body in the sacrament, and not onely of a spyrytuall eatyng by bysyefe of hys deth. And some solucyons hath he there suche as they be, agaynste myne argument in specyaff made vnto Fryth: All whyche thynges I wyll sorte into theyr places a parte from his exposycyon, so that ye maye se some of the fawtes of his exposycyon by them selfe, and his argumentes answered by them selfe, and his solucyons auoyded by them selfe, and the notable notes that he maketh of my notable repugnaū ces laste of all layed open to you by them selfe, bycause I wyll laye all thynge in ordre playne before your eyen / so that whan ye se the thynge in such wyse before you without interlacynge, ruffle, & confusyon: ye shall the more easyly iudge whyther mayster Masker in his mummery be an honest man, or ellys a false haserder and play with false dyce.
+
+[^1]: Chriso. hom. 17 in epist. ad […].
+
+[^2]: Augu. […]. 16. […] ciuitare del.
+
+[^3]: Martinns Luther in capt. babi.

@@ -1,0 +1,27 @@
+# The. iiii. chapyter
+
+ANd se nowe good reader also, howe myche pestylent poyson mayster Masker hath in thys pyece of his exposycyon put here, by this one syllable onys.
+
+For it is not inough to hym to say, that who so eate Chryste by fayth shall neuer hunger (whiche wordes he myghte expoune by perseueraūce and abydynge styll wyth hym after his onys comynge to hym, as Cryst meneth by his) but he sayth who so come to hym by fayth onys, he shall neuer hunger nor thyrst. And yet this worde onys, is not there in the texte of Crystes wordes, but added by mayster Masker in his glose.
+
+And yet if mayster Masker were a good catholyke man, I wolde not myche marke hys worde, onys.
+
+But syth he she weth hym selfe wel, that he is of mayster Tindals secte, or is peraduenture mayster […] hym selfe, one of whose false heresyesis, that who so haue ones ye fayth can neuer after fall therfrom, nor neuer fall after into dedly synne: therfore I can not let mayster Maskers onys, thys onys passe vnmarkyd by me, by whyche he sayth / that who so come onys to Cryst by faith, that is to say sayth he, who so byleue onys that Crist suffered hys passion for our synnes, he shall neuer hunger nor thyrste / but that is he sayth to be vnderstanden that he shall neuer after desyre none other.
+
+But now wolde I wht of mayster Masker onys agayne, what he meaneth by this worde none other.
+
+If he meane that no man that onys byleueth that Cryste suffred […] for vs, shall after at any tyme desyre any other sauiour, bysyde yt he sayth one false heresye in that word onys. (For that fayth maye be onys hadde and afterwarde loste agayne, as testyfye[^1] not onely all holy doctours &[^2] the catholyke fayth, but the playne scrypture to) he hath in those wordes I saye bysyde that false heresye, a very false wyly foly. For the catholyke chyrche of chrystcndome whych he to wcheth in prayenge to sayntes & goynge in pylgrymages, do seke no saynt as theyr sauyour / but onely as them whom theyr sauyour loueth, & whose intercessyon and prayour for them he wylbe content to here, and whō for his sake he wold they sholde honour, & whom whyle for his sake they do honour, the honour that is done them for his sake, specyally redowndeth to hym selfe / as hym selfe saith, he that hereth them hereth him,[^3] and he that dyspiseth them dyspyseth hym, and in lyke wyse he that wurshyppeth them for his sake wurshyp peth hym.
+
+Now yf mayster Masker wyll say that by these […], who so onys byleueth that Chryste dyed for vs, shall neuer after desyre none other: he meneth that he shall so mynde and desyre euer after onely Chryst, that he shall not hunger nor thyrst nor desyre after that any other thynge but god. Than syth mayster Masker in this boke of his, asketh me so many questyons, and saith so often, I aske mayster More this: mayster Masker muste of reason geue M. More leue to aske Mayster masker some questyons agayne.
+
+Nowe myghte I aske hym ye se well, whyther he that hath had onys that bylyefe, sholde neuer after in suche wyse be an hungred, that he sholde desyre his dyner. But than wold mayster masker cal me maister Mokke, & say that it were but a scoffynge questyon. And yet out of all questyon that same scoffing questyon wold quyte ouerthrow his ernest exposycyō. But now bycause I wyll not angre hym, I wyll lette that scof fyng question go, & I wyll aske hym now another maner thynge `a thynge of yt wayght & grauite, that it wayeth some sowlys downe vnto ye depe pyt of hell. For yf mayster masker be mayster Tyndale, than wyll I aske hym whyther he beyng a preste, desy red none other thyng but onely god, whan synnys yt he sayd he had onys that bylyefe, he hath beynge a preste brokē his promyse made onys to god & gone ofter than onys a woynge.
+
+And yf mayster Masker be mayster […] Ioy / than wold I aske hym whyther that after that bylyefe onys hadde, he desyred nothynge but god, whan beynge a preste he brake his promyse to god / and wedded a wydowe, and by such weddynge neuer made her wyfe, but made her a prestys harlotte.
+
+If mayster Maysker be neyther of these twayn, yet syth what so euer he be, he is a dyscyple of Luther and […] Huyskyn both (as contraryouse as they be both eche of them to other) I shall aske hym than, whyther bothe his maysters beynge both professed frerys, and hauynge bothe vowed perpetuall chastyte to god, dyd after that fayth onys had, neuer after desyre any other thynge but onely god, not than whan they brake bothe theyr solempne vowys made vnto god, and ran out of relpgyone and wedded, the tone a single womā, the tother a nonne, and made theym frerys harlottes bothe? dyd not than frere Luther and frere Huyskyn bothe contrary to mayster Maskers wordes, desyre another, and eche of them go seke by nyght to loue another, byfore whom he wolde lay his gryefe? what answere shal mayster Masker make M. More to thys? he muste eyther confesse agaynste hys owne exposicyon, that after that bylyefe had onys, his owne maysters the archeretykes them selfe, thyrsted in the desyre of some other thyng besyde god, or els muste he fall to blasphemy and call a frerys harlot god, or saye that for goddys sake they wedded, and than for hys sake they wedded agaynste hys wyll, or ellys afferme finally that the maysters of hys fayth had neuer the faith yet, not the selfe same fayth that they teche. And why sholde any man than be so madde to gyue eare to suche beretykes, & byleue theyr faythlesse talys?
+
+[^1]: […]. 6.
+
+[^2]: Roma. 11. 1. […]. 10
+
+[^3]: […]. 10
