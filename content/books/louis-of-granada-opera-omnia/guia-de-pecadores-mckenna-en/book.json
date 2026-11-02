@@ -1,0 +1,327 @@
+{
+  "id": "granada-guia-de-pecadores-mckenna",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Sinner's Guide (McKenna)",
+    "pt-BR": "Guia de pecadores (McKenna, inglês)"
+  },
+  "author": {
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "en-US": "The Sinner's Guide in the English of a Dominican Father (C. H. McKenna OP, 1883): both books of Granada's Guía de pecadores in 48 chapters, from the TAN reprint.",
+    "pt-BR": "A Guia de pecadores na tradução inglesa de um padre dominicano (C. H. McKenna OP, 1883), em 48 capítulos."
+  },
+  "composed": "1567",
+  "languages": [
+    "en-US"
+  ],
+  "work": "louis-of-granada/guia-de-pecadores",
+  "editions": {
+    "en-US": {
+      "translator": "C. H. McKenna OP (\"a Dominican Father\")",
+      "year": 1883
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/sinnersguide0000vene",
+      "edition": "The Sinner's Guide, translated from the Spanish by a Dominican Father [C. H. McKenna OP] (London 1883); archive.org scan of the TAN Books reprint, OCR text.",
+      "description": "All 48 chapters of the 1883 translation, which divides the work differently from the Spanish (48 chapters against 29 + 23). The TAN introduction, the papal brief and the publisher's pages are removed. Section headings are kept. The last page's OCR is damaged at the line starts and was repaired by hand.",
+      "tier": "A",
+      "tierEvidence": "Translation of 1883 (McKenna)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c1",
+      "title": {
+        "en-US": "Chapter 1. The First Motive which obliges us to practice Virtue and to serve God: His Being in itself, and the excellence of His Perfections"
+      }
+    },
+    {
+      "id": "c2",
+      "title": {
+        "en-US": "Chapter 2. The Second Motive which obliges us to practice virtue and to serve God: Gratitude for our Creation"
+      }
+    },
+    {
+      "id": "c3",
+      "title": {
+        "en-US": "Chapter 3. The Third Motive which obliges us to serve God: Gratitude for our Preservation and for the Government of His Providence"
+      }
+    },
+    {
+      "id": "c4",
+      "title": {
+        "en-US": "Chapter 4. The Fourth Motive which obliges us to practice Virtue: Gratitude for the Inestimable Benefit of our Redemption"
+      }
+    },
+    {
+      "id": "c5",
+      "title": {
+        "en-US": "Chapter 5. The Fifth Motive which obliges us to practice Virtue: Gratitude for our Justification"
+      }
+    },
+    {
+      "id": "c6",
+      "title": {
+        "en-US": "Chapter 6. The Sixth Motive which obliges us to practice Virtue: Gratitude for the Incomprehensible Benefit of Election"
+      }
+    },
+    {
+      "id": "c7",
+      "title": {
+        "en-US": "Chapter 7. The Seventh Motive for practicing Virtue: The Thought of Death, the First of the Four Last Things"
+      }
+    },
+    {
+      "id": "c8",
+      "title": {
+        "en-US": "Chapter 8. The Eighth Motive for practicing Virtue: The Thought of the Last Judgment, the Second of the Four Last Things"
+      }
+    },
+    {
+      "id": "c9",
+      "title": {
+        "en-US": "Chapter 9. The Ninth Motive for practicing Virtue: The Thought of Heaven, the Third of the Four Last Things"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "Chapter 10. The Tenth Motive for practicing Virtue: The Thought of Hell, the Fourth of the Four Last Things"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter 11. The Eleventh Motive for practicing Virtue: The Inestimable Advantages promised it even in this Life"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter 12. The First Privilege of Virtue: God’s fatherly | Care of the Just |"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter 13. The Second Privilege of Virtue: The Grace with which the Holy Spirit fills Devout Souls"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "Chapter 14. The Third Privilege of Virtue: The Supernatural Light and Knowledge granted to Virtuous Souls"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter 15. The Fourth Privilege of Virtue: The Consolations with which the Holy Spirit visits the Just"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "Chapter 16. The Fifth Privilege of Virtue: The Peace of a Good Conscience"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "Chapter 17. The Sixth Privilege of Virtue: The Confidence of the Just"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "Chapter 18. The Seventh Privilege of Virtue: The True Liberty of the Just"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "en-US": "Chapter 19. The Eighth Privilege of Virtue: The Peace enjoyed by the Just"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "en-US": "Chapter 20. The Ninth Privilege of Virtue: The Manner in which God hears the Prayers of the Just"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "en-US": "Chapter 21. The Tenth Privilege of Virtue: The Consolation and Assistance with which God sustains the Just in their Afflictions"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "en-US": "Chapter 22. The Eleventh Privilege of Virtue: God’s Care for the Temporal Needs of the Just"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "en-US": "Chapter 23. The Twelfth Privilege of Virtue: The Happy Death of the Just"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "en-US": "Chapter 24. The Folly of those who Defer their Conversion"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "en-US": "Chapter 25. Of those who Defer their Conversion until the Hour of Death"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "en-US": "Chapter 26. Of those who Continue in Sin, trusting in the Mercy of God"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "en-US": "Chapter 27. Of those who allege that the Path of Virtue is too Difficult"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "en-US": "Chapter 28. Of those who refuse to practice Virtue because they love the World"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "en-US": "Chapter 29. The First Remedy against Sin: A Firm Resolution not to commit it"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "en-US": "Chapter 30. Remedies against Pride"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "en-US": "Chapter 31. Remedies against Covetousness"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "en-US": "Chapter 32. Remedies against Lust"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "en-US": "Chapter 33. e Remedies against Envy"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "en-US": "Chapter 34. Remedies against Gluttony"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "en-US": "Chapter 35. Remedies against Anger and Hatred"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "en-US": "Chapter 36. Remedies against Sloth"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "en-US": "Chapter 37. Other Sins to be avoided"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "en-US": "Chapter 38. Venial Sins"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "en-US": "Chapter 39. Shorter Remedies against Sins, particularly the Seven Deadly Sins"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "en-US": "Chapter 40. The Three Kinds of Virtues in which the Fullness of Justice Consists; and first, Man’s Duty to Himself"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "en-US": "Chapter 41. Man’s Duty to his Neighbor"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "en-US": "Chapter 42. Man’s Duty to God"
+      }
+    },
+    {
+      "id": "c43",
+      "title": {
+        "en-US": "Chapter 43. The Obligations of our State"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "en-US": "Chapter 44. e The Relative Importance and Values of the Virtues"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "en-US": "Chapter 45. Four Important Corollaries of the preceding Doctrine"
+      }
+    },
+    {
+      "id": "c46",
+      "title": {
+        "en-US": "Chapter 46. e The Different Vocations in the Church"
+      }
+    },
+    {
+      "id": "c47",
+      "title": {
+        "en-US": "Chapter 47. e The Vigilance and Care necessary in the Practice of Virtue"
+      }
+    },
+    {
+      "id": "c48",
+      "title": {
+        "en-US": "Chapter 48. The Courage necessary in the Practice of Virtue"
+      }
+    }
+  ]
+}
