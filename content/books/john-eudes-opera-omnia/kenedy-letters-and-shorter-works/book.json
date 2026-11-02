@@ -1,0 +1,208 @@
+{
+  "id": "eudes-kenedy-letters",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letters and Shorter Works",
+    "pt-BR": "Cartas e obras menores"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "en-US": "The 1948 English selection of two hundred and forty-three letters and the shorter works of John Eudes (the Memoriale, the Vow, the Contract with the Virgin, the Letter to the Virgin, the Testament), translated by Ruth Hauser.",
+    "pt-BR": "A seleção inglesa de 1948 de duzentas e quarenta e três cartas e das obras menores de João Eudes, em tradução de Ruth Hauser."
+  },
+  "composed": 1948,
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-eudes/letters-and-shorter-works",
+  "editions": {
+    "en-US": {
+      "translator": "Ruth Hauser",
+      "year": 1948
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.liberius.net/livres/Letters_and_shorter_works_000000346.pdf",
+      "edition": "Letters and Shorter Works, translated by Ruth Hauser, New York, P. J. Kenedy & Sons, 1948. Text layer of the Bibliothèque Saint Libère PDF (liberius.net), from the Eudist Fathers series, 1946–48.",
+      "description": "Converted by script: running heads and page numbers removed, paragraphs rejoined, hyphenation repaired. The OCR of the PDF text layer leaves some residual errors (for example 0 for O, rn for m); the translator’s introduction and notes are kept. The translation is not aligned chapter by chapter to the French edition, so it is a separate book.",
+      "tier": "B",
+      "tierEvidence": "Copyright 1946–48 P. J. Kenedy & Sons; no renewal in the Copyright Office records 1950–2001."
+    }
+  ],
+  "toc": [
+    {
+      "id": "letters-01",
+      "title": {
+        "en-US": "Letter I"
+      }
+    },
+    {
+      "id": "letters-02",
+      "title": {
+        "en-US": "Letters 2–10"
+      }
+    },
+    {
+      "id": "letters-03",
+      "title": {
+        "en-US": "Letters 11–18"
+      }
+    },
+    {
+      "id": "letters-04",
+      "title": {
+        "en-US": "Letters 19–26"
+      }
+    },
+    {
+      "id": "letters-05",
+      "title": {
+        "en-US": "Letters 27–40"
+      }
+    },
+    {
+      "id": "letters-06",
+      "title": {
+        "en-US": "Letters 41–50"
+      }
+    },
+    {
+      "id": "letters-07",
+      "title": {
+        "en-US": "Letters 51–55"
+      }
+    },
+    {
+      "id": "letters-08",
+      "title": {
+        "en-US": "Letters 56–62"
+      }
+    },
+    {
+      "id": "letters-09",
+      "title": {
+        "en-US": "Letters 63–74"
+      }
+    },
+    {
+      "id": "letters-10",
+      "title": {
+        "en-US": "Letters 75–88"
+      }
+    },
+    {
+      "id": "letters-11",
+      "title": {
+        "en-US": "Letters 89–98"
+      }
+    },
+    {
+      "id": "letters-12",
+      "title": {
+        "en-US": "Letters 99–108"
+      }
+    },
+    {
+      "id": "letters-13",
+      "title": {
+        "en-US": "Letters 109–114"
+      }
+    },
+    {
+      "id": "letters-14",
+      "title": {
+        "en-US": "Letters 115–121"
+      }
+    },
+    {
+      "id": "letters-15",
+      "title": {
+        "en-US": "Letters 122–138"
+      }
+    },
+    {
+      "id": "letters-16",
+      "title": {
+        "en-US": "Letters 139–157"
+      }
+    },
+    {
+      "id": "letters-17",
+      "title": {
+        "en-US": "Letters 158–180"
+      }
+    },
+    {
+      "id": "letters-18",
+      "title": {
+        "en-US": "Letters 181–205"
+      }
+    },
+    {
+      "id": "letters-19",
+      "title": {
+        "en-US": "Letters 206–220"
+      }
+    },
+    {
+      "id": "letters-20",
+      "title": {
+        "en-US": "Letters 221–243"
+      }
+    },
+    {
+      "id": "shorter-01",
+      "title": {
+        "en-US": "Shorter Works"
+      }
+    },
+    {
+      "id": "shorter-02",
+      "title": {
+        "en-US": "Memoriale Beneficiorum Dei: Memoir of the principal favors which I have received from God (1)"
+      }
+    },
+    {
+      "id": "shorter-03",
+      "title": {
+        "en-US": "Memoriale Beneficiorum Dei: Memoir of the principal favors which I have received from God (2)"
+      }
+    },
+    {
+      "id": "shorter-04",
+      "title": {
+        "en-US": "Vow(1): or Prayer to Jesus, to offer himself as a sacrifice and victim"
+      }
+    },
+    {
+      "id": "shorter-05",
+      "title": {
+        "en-US": "Contract(1): of Holy Matrimony"
+      }
+    },
+    {
+      "id": "shorter-06",
+      "title": {
+        "en-US": "Letter to the Most Holy Virgin"
+      }
+    },
+    {
+      "id": "shorter-07",
+      "title": {
+        "en-US": "Last Will and Testament: Of Saint John Eudes"
+      }
+    },
+    {
+      "id": "shorter-08",
+      "title": {
+        "en-US": "Prayer to the Blessed Virgin Mary"
+      }
+    }
+  ]
+}

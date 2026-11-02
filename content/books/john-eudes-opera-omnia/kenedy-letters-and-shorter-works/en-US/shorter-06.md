@@ -1,0 +1,17 @@
+# Letter to the Most Holy Virgin
+
+Most august Mother of God, most glorious Empress of heaven and earth, prostrate in mind and heart at the feet of thy Supreme Majesty, in all the humility, respect and devotion of all the hearts that love thee, and desiring that my mind, understanding, memory, will, heart, tongue, band and pen may render thee all possible homage, I venture, though infinitely unworthy, to take the liberty of writing thee this letter, in imitation of others among thy children.
+
+First of all, it is to protest to thee, in the face of heaven and earth, that I acknowledge and honor thee as the most worthy sanctuary of the Holy Trinity, the most worthy daughter of the eternal Father, the dearest Mother of His Son, the beloved Spouse of the Holy Spirit, the most powerful Queen of the universe, my sovereign Lady, my most honored Mother, and the holiest, wisest, sweetest, happiest and most beautiful, powerful, generous, compliant, glorious, admirable and amiable of all creatures.
+
+Secondly, it is to offer t hee all the respect, service, veneration, praise, honor and glory which are due to thy grandeurs, and have been and ever shall be rendered in all times past, present and yet to come.
+
+Thirdly, it is to render thee all possible gratitude and thanksgiving
+
+for the countless results of thine incomparable goodness toward me and all created things.
+
+Fourthly, it is to ask pardon of thee most humbly and to make honorable amends for all m y ingratitude, negligence and unfaithfulness toward thee, and for all the wrongs and offenses thou hast received from men and demons; and to offer thee, in supplement and reparation, the most amiable Heart of thy Son Jesus, all aflame with love for thee, together with all the love and honor which has been and ever shall be rendered thee in time and in eternity.
+
+Fifthly, it is to beseech thee most humbly, by the most ardent love which thy Son Jesus bears thee, by that which thou bearest Him, and by all the kindness of thy maternal Heart, to obtain from Him pardon for me for all my sins, to atone for all my offenses against His Divine Majesty, to destroy within me all that is displeasing to Him, to establish perfectly in me the reign of His divine love and adorable will, to let me share with thee in all things, in whatever way is most pleasing to Him, to fashion me wholly after His Heart and thine, to give me knowledge, if such be His pleasure, of the time when He shall be pleased to call me unto Himself, to assist me at my death, to obtain the favor for me from my Saviour that my last breath may be an act of pure love for Him and thee, to receive my soul when it leaves my body, to present it to my Jesus, to lodge it in His Heart and thine, and to plunge, engulf and consume it in that fiery furnace of divine love for evermore.
+
+These are the most humble and earnest prayers which I venture to offer thine incomparable benignity, 0 Mother of grace, not only for myself but for all thy children, with whom I desire to have but one heart and soul in order to live the same life and die the same death in the holy love of the most amiable Heart of Jesus and Mary, to whom and through whom I am, Most august Mother of my God, most gentle Queen of my heart, and most pious and good Mother of my soul, Thy Sovereign Majesty's Most humble, obedient, grateful and sincerely devoted servant in all things, JOHN EUDES, missionary priest.
