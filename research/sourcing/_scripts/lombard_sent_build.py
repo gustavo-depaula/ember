@@ -57,7 +57,7 @@ def chapters(d2):
         raw = ws(flat(h, True))
         hn = notes(h)
         m = re.match(r'(\d+)\.?\s*(.*)', raw)
-        # two heads lost their number in the source (I d. 33?, III d. 2): it is the previous one plus 1
+        # two heads lost their number in the source (I d. 19, III d. 2): it is the previous one plus 1
         num, title = (m.group(1), m.group(2).strip()) if m else (str(len(res) + 1), raw)
         lines = []
         if hn:
