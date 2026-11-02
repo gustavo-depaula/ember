@@ -130,6 +130,17 @@ def build(cfg):
     words = 0; toc = []; part = None; warn = []; nchap = 0; npart = 0
     def write(cid, title, ps):
         nonlocal words
+        if cfg.get('h2'):
+            ps = ['## ' + tcase(x) if re.fullmatch(cfg['h2'], x) else x for x in ps]
+        if cfg.get('pgfn'):
+            notes, keep = {}, []
+            for x in ps:
+                fm = re.fullmatch(r'\[Footnote (\d+): (.*)\]', x)
+                if fm: notes[fm.group(1)] = fm.group(2)
+                else: keep.append(x)
+            keep = [re.sub(r'\[(\d+)\]', lambda m: '[^%s]' % m.group(1) if m.group(1) in notes else m.group(0), x) for x in keep]
+            ps = keep + [''] * 0
+            if notes: ps = keep + ['\n'.join('[^%s]: %s' % (k, v) for k, v in sorted(notes.items(), key=lambda kv: int(kv[0])))]
         md = '# %s\n\n%s\n' % (title, '\n\n'.join(ps))
         open('%s/%s/%s.md' % (root, lang, cid), 'w').write(md); words += len(md.split())
     def add(node):

@@ -1,0 +1,111 @@
+{
+  "id": "benson-paradoxes-of-catholicism",
+  "cover": "classic",
+  "name": {
+    "en-US": "Paradoxes of Catholicism",
+    "pt-BR": "Paradoxos do Catolicismo"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's Advent sermons preached in Westminster Cathedral (1913): the Catholic faith as a union of apparent contradictions, as in its Lord, God and Man: peace and war, wealth and poverty, sanctity and sin, joy and sorrow, love of God and of man, faith and reason, authority and liberty, corporateness and individualism, meekness and violence, the Seven Words, and life and death.",
+    "pt-BR": "Sermões de Benson (1913): a fé católica como união de contradições aparentes, como em seu Senhor, Deus e Homem: paz e guerra, riqueza e pobreza, santidade e pecado, alegria e tristeza, amor a Deus e ao homem, fé e razão, autoridade e liberdade, espírito de corpo e individualismo, mansidão e violência, as Sete Palavras, vida e morte."
+  },
+  "composed": 1913,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/paradoxes-of-catholicism",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1913)",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/16309",
+      "edition": "Paradoxes of Catholicism (London: Hutchinson, 1913), Project Gutenberg #16309, proofread.",
+      "description": " Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1913, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Introductory"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "I. Peace and War"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "II. Wealth and Poverty"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "III. Sanctity and Sin"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "IV. Joy and Sorrow"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "V. Love of God and Love of Man"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "VI. Faith and Reason"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "VII. Authority and Liberty"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "VIII. Corporateness and Individualism"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "IX. Meekness and Violence"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "X. The Seven Words"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "XI. Life and Death"
+      }
+    }
+  ]
+}

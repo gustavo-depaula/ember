@@ -1,0 +1,72 @@
+{
+ "id": "benson-paradoxes-of-catholicism",
+ "dir": "benson-opera-omnia/paradoxes-of-catholicism",
+ "slug": "paradoxes-of-catholicism",
+ "name": "Paradoxes of Catholicism",
+ "name_pt": "Paradoxos do Catolicismo",
+ "desc": "Benson's Advent sermons preached in Westminster Cathedral (1913): the Catholic faith as a union of apparent contradictions, as in its Lord, God and Man: peace and war, wealth and poverty, sanctity and sin, joy and sorrow, love of God and of man, faith and reason, authority and liberty, corporateness and individualism, meekness and violence, the Seven Words, and life and death.",
+ "desc_pt": "Sermões de Benson (1913): a fé católica como união de contradições aparentes, como em seu Senhor, Deus e Homem: paz e guerra, riqueza e pobreza, santidade e pecado, alegria e tristeza, amor a Deus e ao homem, fé e razão, autoridade e liberdade, espírito de corpo e individualismo, mansidão e violência, as Sete Palavras, vida e morte.",
+ "composed": 1913,
+ "editor": "Robert Hugh Benson (London: Hutchinson, 1913)",
+ "year": 1913,
+ "url": "https://www.gutenberg.org/ebooks/16309",
+ "edition": "Paradoxes of Catholicism (London: Hutchinson, 1913), Project Gutenberg #16309, proofread.",
+ "src": "robert-hugh-benson/pg/pg16309.txt",
+ "manual": [
+  [
+   107,
+   "Introductory"
+  ],
+  [
+   500,
+   "I. Peace and War"
+  ],
+  [
+   721,
+   "II. Wealth and Poverty"
+  ],
+  [
+   908,
+   "III. Sanctity and Sin"
+  ],
+  [
+   1129,
+   "IV. Joy and Sorrow"
+  ],
+  [
+   1351,
+   "V. Love of God and Love of Man"
+  ],
+  [
+   1601,
+   "VI. Faith and Reason"
+  ],
+  [
+   1866,
+   "VII. Authority and Liberty"
+  ],
+  [
+   2104,
+   "VIII. Corporateness and Individualism"
+  ],
+  [
+   2277,
+   "IX. Meekness and Violence"
+  ],
+  [
+   2532,
+   "X. The Seven Words"
+  ],
+  [
+   3261,
+   "XI. Life and Death"
+  ]
+ ],
+ "start": 106,
+ "end": 3487,
+ "label": "",
+ "mode": "pg",
+ "pgfn": true,
+ "h2": "THE (FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH) WORD|INTRODUCTION",
+ "died": 1914
+}
