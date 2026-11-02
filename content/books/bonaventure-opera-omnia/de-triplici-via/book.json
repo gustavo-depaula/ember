@@ -1,0 +1,66 @@
+{
+  "id": "bonaventure-de-triplici-via",
+  "cover": "classic",
+  "name": {
+    "la": "De triplici via",
+    "en-US": "The Threefold Way",
+    "pt-BR": "Os três caminhos"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Tractatus de via purgativa, illuminativa et unitiva, in tribus capitibus, alias Incendium amoris dictus. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "A treatise on the purgative, illuminative and unitive ways, also called “The Fire of Love”: the soul’s ascent in three chapters, from the lament over its misery to the contemplation that reaches true wisdom. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Tratado sobre as vias purgativa, iluminativa e unitiva, também chamado «Incêndio de amor»."
+  },
+  "composed": "c. 1260",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/de-triplici-via",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De oratione, qua deploratur miseria , imploratur misericordia , exhihetur latria,"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De contemplatione, qiia pervenitu?' ad veram sapientiam"
+      }
+    }
+  ]
+}
