@@ -13,17 +13,22 @@
   },
   "description": {
     "it": "Vita di frate Ginepro, il «buon giullare di Dio» compagno di san Francesco, in quindici capitoli, dalla raccolta dei Fioretti.",
-    "en-US": "The Life of Brother Juniper, Francis’s companion and “God’s good jester”, in fifteen chapters, from the Fioretti family of texts. Italian.",
+    "en-US": "The Life of Brother Juniper, Francis’s companion and “God’s good jester”, in fifteen chapters, from the Fioretti family of texts. Italian",
     "pt-BR": "A Vida de frei Junípero, companheiro de São Francisco, em quinze capítulos, da família dos Fioretti."
   },
   "composed": "14th century",
   "languages": [
-    "it"
+    "it",
+    "en-US"
   ],
   "work": "francis-of-assisi/vita-ginepro",
   "editions": {
     "it": {
       "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated (the Cesari text family)"
+    },
+    "en-US": {
+      "translator": "first English translation (Lady Georgiana Fullerton, 1864), revised by Dom Roger Hudleston",
+      "year": 1926
     }
   },
   "sources": [
@@ -34,97 +39,120 @@
       "description": "Fifteen chapters. The English of the CCEL Hudleston revision (Part II) is not imported.",
       "tier": "B",
       "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/ugolino/flowers",
+      "edition": "The Little Flowers of St. Francis, first English translation revised and emended by Dom Roger Hudleston (London: Burns Oates, 1926), Christian Classics Ethereal Library, flowers.txt.",
+      "description": "The corresponding part of the CCEL text, one chapter to a chapter of the Italian, with the chapter headings as titles. The Heritage Press introduction by Arthur Livingston (1965) is not imported.",
+      "tier": "A",
+      "tierEvidence": "Translation of 1864, revision of 1926 (Hudleston d. 1925); CCEL marks it public domain."
     }
   ],
   "toc": [
     {
       "id": "cap-001",
       "title": {
-        "it": "CAPITOLO I."
+        "it": "CAPITOLO I.",
+        "en-US": "Chapter I: How brother juniper cut off the foot of a pig to give it to a sick brother"
       }
     },
     {
       "id": "cap-002",
       "title": {
-        "it": "CAPITOLO II."
+        "it": "CAPITOLO II.",
+        "en-US": "Chapter II: An instance of brother juniper's great power against the devil"
       }
     },
     {
       "id": "cap-003",
       "title": {
-        "it": "CAPITOLO III."
+        "it": "CAPITOLO III.",
+        "en-US": "Chapter III: How, by the contrivance of the devil, brother juniper was condemned to the gallows"
       }
     },
     {
       "id": "cap-004",
       "title": {
-        "it": "CAPITOLO IV."
+        "it": "CAPITOLO IV.",
+        "en-US": "Chapter IV: How brother juniper gave all that he had to the poor for the love of god"
       }
     },
     {
       "id": "cap-005",
       "title": {
-        "it": "CAPITOLO V."
+        "it": "CAPITOLO V.",
+        "en-US": "Chapter V: How brother juniper took certain little bells from the altar, and gave them away for the love of god"
       }
     },
     {
       "id": "cap-006",
       "title": {
-        "it": "CAPITOLO VI."
+        "it": "CAPITOLO VI.",
+        "en-US": "Chapter VI: How brother juniper kept silence for six months"
       }
     },
     {
       "id": "cap-007",
       "title": {
-        "it": "CAPITOLO VII."
+        "it": "CAPITOLO VII.",
+        "en-US": "Chapter VII: His remedy for temptations of the flesh"
       }
     },
     {
       "id": "cap-008",
       "title": {
-        "it": "CAPITOLO VIII."
+        "it": "CAPITOLO VIII.",
+        "en-US": "Chapter VIII: How brother juniper made himself contemptible for the love of god"
       }
     },
     {
       "id": "cap-009",
       "title": {
-        "it": "CAPITOLO IX."
+        "it": "CAPITOLO IX.",
+        "en-US": "Chapter IX: How brother juniper, in order to be despised, played at see-saw"
       }
     },
     {
       "id": "cap-010",
       "title": {
-        "it": "CAPITOLO X."
+        "it": "CAPITOLO X.",
+        "en-US": "Chapter X: How brother juniper once cooked for the brethren enough to last for a fortnight"
       }
     },
     {
       "id": "cap-011",
       "title": {
-        "it": "CAPITOLO XI."
+        "it": "CAPITOLO XI.",
+        "en-US": "Chapter XI: How brother juniper went one day to assisi for his own confusion"
       }
     },
     {
       "id": "cap-012",
       "title": {
-        "it": "CAPITOLO XII."
+        "it": "CAPITOLO XII.",
+        "en-US": "Chapter XII: How brother juniper fell into an ecstasy during the celebration of mass"
       }
     },
     {
       "id": "cap-013",
       "title": {
-        "it": "CAPITOLO XIII."
+        "it": "CAPITOLO XIII.",
+        "en-US": "Chapter XIII: Of the sorrow which brother juniper felt at the loss of his companion brother amazialbene"
       }
     },
     {
       "id": "cap-014",
       "title": {
-        "it": "CAPITOLO XIV."
+        "it": "CAPITOLO XIV.",
+        "en-US": "Chapter XIV: Of the hand which brother juniper saw in the air"
       }
     },
     {
       "id": "cap-015",
       "title": {
-        "it": "CAPITOLO XV."
+        "it": "CAPITOLO XV.",
+        "en-US": "Chapter XV: How st francis commanded brother leo to wash the stone"
       }
     }
   ]
