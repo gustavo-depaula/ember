@@ -1,0 +1,387 @@
+{
+  "id": "suso-vita",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Life of Blessed Henry Suso by Himself",
+    "pt-BR": "A Vida do Beato Henrique Suso, por ele mesmo"
+  },
+  "author": {
+    "en-US": "Bl. Henry Suso (c. 1295-1366)",
+    "pt-BR": "Bem-aventurado Henrique Suso (c. 1295-1366)"
+  },
+  "description": {
+    "en-US": "Suso's life written with Elsbeth Stagel (the Exemplar's Vita): the Servitor's austerities, trials and teachings, with the letters of direction to his spiritual daughter, in T. F. Knox's English of 1865. The Middle High German original (Bihlmeyer 1907) is not yet imported: its only free scans are garbled Gothic-type OCR.",
+    "pt-BR": "A vida de Suso, escrita com Elsbeth Stagel: as austeridades, provações e ensinamentos do Servidor, e as cartas de direção à filha espiritual, na tradução inglesa de T. F. Knox (1865)."
+  },
+  "composed": "c. 1361-1363",
+  "languages": [
+    "en-US"
+  ],
+  "work": "suso/vita",
+  "editions": {
+    "en-US": {
+      "translator": "T. F. Knox",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thelifeofsuso00seusuoft",
+      "edition": "The Life of the Blessed Henry Suso, by Himself, translated by Thomas F. Knox (London: Burns, Lambert & Oates, 1865).",
+      "description": "OCR of the archive.org scan (research/sourcing/_scripts/suso_en.py); chapter titles from the book's contents; running heads removed. Translator's preface not included. Not proofread.",
+      "tier": "A",
+      "tierEvidence": "1865 translation, public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "1. Introductory"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "2. Of the preliminary combats of a beginner"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "3. Of a supernatural rapture which befell him"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "4. How he spiritually espoused the Eternal Wisdom"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "5. How he inscribed upon his heart the gracious Name of Jesus"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "6. Of the foretaste of divine consolations, with which God sometimes allures beginners"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "7. How one, who had begun well, was drawn onwards in his search after divine consolation"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "8. Of certain visions"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "en-US": "9. Of the way in which he went to table"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "en-US": "10. How he began the New Year"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "11. Of the words Sursum corda"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "12. How he kept the feast of Candlemas"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "13. How he spent the Carnival time"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "en-US": "14. How he began the month of May"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "15. Of the sorrowful way of the Cross, which he made with Christ when He was being led forth to death"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "en-US": "16. Of the useful virtue called silence"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "en-US": "17. Of the chastisement of his body"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "en-US": "18. Of the sharp cross which he bore upon his back"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "en-US": "19. Of his bed"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "en-US": "20. How he broke himself from drink"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "en-US": "21. How he was directed to the rational school, in which the art of true detachment is taught"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "en-US": "22. How painful it is to die interiorly"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "en-US": "23. Of interior sufferings"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "en-US": "24. How he went forth to succour and to save his neighbour"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "en-US": "25. Concerning manifold sufferings"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "en-US": "26. Of the great suffering which befell him through his sister"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "en-US": "27. Of a grievous suffering which befell him through a companion"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "en-US": "28. Of a murderer . . . . .'"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "en-US": "29. Of perils by water"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "en-US": "30. Of a short interval of rest which God once granted him"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "en-US": "31. How he once entered into a loving account with God"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "en-US": "32. How his sufferings once brought him nigh to death"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "en-US": "33. How a man should offer up his sufferings to the praise and glory of God"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "en-US": "34. Of the joys with which God recompenses in this present life those who suffer for Him"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "en-US": "35. Of the Servitor's spiritual daughter"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "en-US": "36. Of the first beginnings of a beginner"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "en-US": "37. Of the first lessons and examples which are suitable for a beginner, and how he should regulate his exercises with discretion"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "en-US": "38. Of certain devout practices of a young beginner in his early years"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "en-US": "39. How he drew light-minded persons to God, and comforted those who were in suffering"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "en-US": "40. Of a grievous suffering which befell him while thus occupied"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "en-US": "41. Of interior sufferings „"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "en-US": "42. What sufferings are the most useful to men, and bring most glory to God?"
+      }
+    },
+    {
+      "id": "c43",
+      "title": {
+        "en-US": "43. How he drew certain hearts from earthly love to the love of God"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "en-US": "44. How God multiplied drink for His friends"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "en-US": "45. Of certain sufferers, who were attached to the Servitor by special ties of friendship and affection"
+      }
+    },
+    {
+      "id": "c46",
+      "title": {
+        "en-US": "46. How Christ appeared to him under the form of a Seraph, and taught him how to suffer"
+      }
+    },
+    {
+      "id": "c47",
+      "title": {
+        "en-US": "47. How steadfastly he must fight who would win the spiritual prize"
+      }
+    },
+    {
+      "id": "c48",
+      "title": {
+        "en-US": "48. How the Servitor's face was once seen to shine with light while he was preaching"
+      }
+    },
+    {
+      "id": "c49",
+      "title": {
+        "en-US": "49. Of the lovely Name of Jesus"
+      }
+    },
+    {
+      "id": "c50",
+      "title": {
+        "en-US": "50. A good distinction between a true and false use of reason noticeable in certain persons"
+      }
+    },
+    {
+      "id": "c51",
+      "title": {
+        "en-US": "51. How to distinguish between a well-ordered reason and one which is all flowers and glitter"
+      }
+    },
+    {
+      "id": "c52",
+      "title": {
+        "en-US": "52. A good distinction between true and false detachment"
+      }
+    },
+    {
+      "id": "c53",
+      "title": {
+        "en-US": "53. Maxims, conformable to right reason, for the guidance of an exterior man into his interior"
+      }
+    },
+    {
+      "id": "c54",
+      "title": {
+        "en-US": "54. Of the high questions which the well-exercised daughter put to her spiritual father"
+      }
+    },
+    {
+      "id": "c55",
+      "title": {
+        "en-US": "55. An explanation where and how God is . -"
+      }
+    },
+    {
+      "id": "c56",
+      "title": {
+        "en-US": "56. Of the very highest flight of a soul experienced in the ways of God"
+      }
+    },
+    {
+      "id": "c57",
+      "title": {
+        "en-US": "57. The conclusion of the contents of this book in a few simple words"
+      }
+    }
+  ]
+}
