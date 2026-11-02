@@ -17,7 +17,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Montfort (gaps) · Bérulle · Olier. Left: Montfort's Rosary methods, cantiques, other letters, minor writings (no free source found); Olier's Grandeurs de saint Joseph; split Migne files where headings were lost
 - [x] John Eudes (23 books + 6 Kenedy English). Left: Marie des Vallées; chapters split by size need real titles
 - [x] Fénelon (62 books). Left: tome 2 works (De summi Pontificis auctoritate, Réfutation de Malebranche, Lettres au P. Lami, Lettre à l'évêque d'Arras, Opuscules théologiques: text now at lines ~93,740–95,700 of research/sourcing/fenelon/oc1848_t2.txt), tome 6 Opuscules divers, English (Dialogues of the Dead, Fables, Eloquence, Lives, Metcalf), a second witness for the Odyssée
-- [ ] Bossuet
+- [x] Bossuet (56 books). Left: the Apocalypse commentary (mirror lacks it; Lachat OCR), Trévoux instructions gaps, Urbain-Levesque letters, Lebarq sermons check, English (Discours, Politique, Avertissements, Communion, Tradition défendue, Devotion to the Virgin)
 - [ ] Catherine of Siena (rest) · Catherine of Genoa · Scupoli (rest) · Philip Neri
 - [ ] Mary Magdalene de' Pazzi · Bernardine of Siena
 - [ ] Dante (rest) · Francis of Assisi (rest and early sources)
