@@ -1,0 +1,1027 @@
+{
+  "id": "bellarmine-controversiae-de-eucharistia",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramento eucharistiae et de missa",
+    "en-US": "On the Eucharist and the Mass",
+    "pt-BR": "Sobre a Eucaristia e a missa"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De sacramento eucharistiae et de missa. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the Eucharist: the real presence, transubstantiation, communion and the sacrifice of the Mass. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a Eucaristia e a missa."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-eucharistia",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia04bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 4 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De hseresibus",
+            "en-US": "Caput I. De hseresibus"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Explicatur sententia Catholicae Ecclesiae",
+            "en-US": "Caput II. Explicatur sententia Catholicae Ecclesiae"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Ex figuris Testamenti veteris demonstratur praesentia corporis Domini in Eucharistia",
+            "en-US": "Caput III. Ex figuris Testamenti veteris demonstratur praesentia corporis Domini in Eucharistia"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Refellitur solutio adversariorum ad argumentum nostrum",
+            "en-US": "Caput IV. Refellitur solutio adversariorum ad argumentum nostrum"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Quod Joan. vi. agatur de Eucharistia",
+            "en-US": "Caput V. Quod Joan. vi. agatur de Eucharistia"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Probatur veritas corporis Domini in Eucharistia ex cap. VI. Joannis",
+            "en-US": "Caput VI. Probatur veritas corporis Domini in Eucharistia ex cap. VI. Joannis"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII",
+            "en-US": "Caput VII"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Referuntur varix expositiones verborum Domini: Hoc est corpus meum",
+            "en-US": "Caput VIII. Referuntur varix expositiones verborum Domini: Hoc est corpus meum"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX",
+            "en-US": "Caput IX"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Explicantur verba institutionis, et refelluntur haereticorum depravationes",
+            "en-US": "Caput X. Explicantur verba institutionis, et refelluntur haereticorum depravationes"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI",
+            "en-US": "Caput XI"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Probatur veritas corporis Domini in Eucharistia ex locis Scripturae quae * continent usum hujus Sacramenti, ac primum ex cap. x, prioris ad Corinthios",
+            "en-US": "Caput XII. Probatur veritas corporis Domini in Eucharistia ex locis Scripturae quae * continent usum hujus Sacramenti, ac primum ex cap. x, prioris ad Corinthios"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Idem probatur ex cap. XI. prioris ad Corinthios",
+            "en-US": "Caput XIII. Idem probatur ex cap. XI. prioris ad Corinthios"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. Solvuntur argumenta adversariorum deprompta ex verbo Dei",
+            "en-US": "Caput XIV. Solvuntur argumenta adversariorum deprompta ex verbo Dei"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. PRIMA JETAS ECCLESIAS AB ANNO DOMINI USQUE AD 100",
+            "en-US": "Caput I. PRIMA JETAS ECCLESIAS AB ANNO DOMINI USQUE AD 100"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Testimonium S. Ignatii",
+            "en-US": "Caput II. Testimonium S. Ignatii"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Testimonium S. Dionysii Areopacjitx",
+            "en-US": "Caput III. Testimonium S. Dionysii Areopacjitx"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. SECUNDA /ETAS ECCLESIA AB ANNO DOMINI 100. AD 200",
+            "en-US": "Caput IV. SECUNDA /ETAS ECCLESIA AB ANNO DOMINI 100. AD 200"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Testimonium S. Pii 1 Papse",
+            "en-US": "Caput V. Testimonium S. Pii 1 Papse"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. TERTIA JETAS ECCLESI.E AB ANNO DOMINI",
+            "en-US": "Caput VII. TERTIA JETAS ECCLESI.E AB ANNO DOMINI"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Testimonium Origenis",
+            "en-US": "Caput VIII. Testimonium Origenis"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Testimonium S. Cypriani",
+            "en-US": "Caput IX. Testimonium S. Cypriani"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Quarta.et as ecclesia ab anno Domini 300. ad 400",
+            "en-US": "Caput X. Quarta.et as ecclesia ab anno Domini 300. ad 400"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Testimonium S. Athanasii",
+            "en-US": "Caput XI. Testimonium S. Athanasii"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII",
+            "en-US": "Caput XII"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII",
+            "en-US": "Caput XIII"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Testimonium S. Ambrosii",
+            "en-US": "Caput XIV. Testimonium S. Ambrosii"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Testimonium S. Basilii",
+            "en-US": "Caput XV. Testimonium S. Basilii"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Testimonium S. Gregorii Nysseni",
+            "en-US": "Caput XVI. Testimonium S. Gregorii Nysseni"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Testimonium Beati Optati Mileoitani",
+            "en-US": "Caput XVII. Testimonium Beati Optati Mileoitani"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. Testimonium. S. Grerjorii Naziauzeni",
+            "en-US": "Caput XVIII. Testimonium. S. Grerjorii Naziauzeni"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. biles, et sine ullo dubio manducemus carnem, et bibamus sanguinem",
+            "en-US": "Caput XIX. biles, et sine ullo dubio manducemus carnem, et bibamus sanguinem"
+          }
+        },
+        {
+          "id": "b2c20",
+          "title": {
+            "la": "Caput XX. Testimonium S. Fpiphanii",
+            "en-US": "Caput XX. Testimonium S. Fpiphanii"
+          }
+        },
+        {
+          "id": "b2c21",
+          "title": {
+            "la": "Caput XXI. QUINTA jETAS ECCLESLE AB ANNO DOMINI 400. ad 500",
+            "en-US": "Caput XXI. QUINTA jETAS ECCLESLE AB ANNO DOMINI 400. ad 500"
+          }
+        },
+        {
+          "id": "b2c22",
+          "title": {
+            "la": "Caput XXII. Testimonium S. Chrysostomi",
+            "en-US": "Caput XXII. Testimonium S. Chrysostomi"
+          }
+        },
+        {
+          "id": "b2c23",
+          "title": {
+            "la": "Caput XXIII. Testimonium sancti Hieronymi",
+            "en-US": "Caput XXIII. Testimonium sancti Hieronymi"
+          }
+        },
+        {
+          "id": "b2c24",
+          "title": {
+            "la": "Caput XXIV",
+            "en-US": "Caput XXIV"
+          }
+        },
+        {
+          "id": "b2c25",
+          "title": {
+            "la": "Caput XXV",
+            "en-US": "Caput XXV"
+          }
+        },
+        {
+          "id": "b2c26",
+          "title": {
+            "la": "Caput XXVI. Testimonium Procli Episcopi Constantinopolitani",
+            "en-US": "Caput XXVI. Testimonium Procli Episcopi Constantinopolitani"
+          }
+        },
+        {
+          "id": "b2c27",
+          "title": {
+            "la": "Caput XXVII. Testimonium Theodoreti et Gelasii",
+            "en-US": "Caput XXVII. Testimonium Theodoreti et Gelasii"
+          }
+        },
+        {
+          "id": "b2c28",
+          "title": {
+            "la": "Caput XXVIII. Testimonium S, Leonis,",
+            "en-US": "Caput XXVIII. Testimonium S, Leonis,"
+          }
+        },
+        {
+          "id": "b2c29",
+          "title": {
+            "la": "Caput XXIX. Testimonium Hilarii Papae",
+            "en-US": "Caput XXIX. Testimonium Hilarii Papae"
+          }
+        },
+        {
+          "id": "b2c30",
+          "title": {
+            "la": "Caput XXX",
+            "en-US": "Caput XXX"
+          }
+        },
+        {
+          "id": "b2c31",
+          "title": {
+            "la": "Caput XXXI. Testimonia Patrum 17, relatis Remigii, et Primasii",
+            "en-US": "Caput XXXI. Testimonia Patrum 17, relatis Remigii, et Primasii"
+          }
+        },
+        {
+          "id": "b2c32",
+          "title": {
+            "la": "Caput XXXII",
+            "en-US": "Caput XXXII"
+          }
+        },
+        {
+          "id": "b2c34",
+          "title": {
+            "la": "Caput XXXIV. Testimonia Patrum IX aetatis Thenphy lacti et Paschasii",
+            "en-US": "Caput XXXIV. Testimonia Patrum IX aetatis Thenphy lacti et Paschasii"
+          }
+        },
+        {
+          "id": "b2c35",
+          "title": {
+            "la": "Caput XXXV. Testimonia Patrum X. aetatis, Stephani Eduensis, et Fulberti Carnotensis",
+            "en-US": "Caput XXXV. Testimonia Patrum X. aetatis, Stephani Eduensis, et Fulberti Carnotensis"
+          }
+        },
+        {
+          "id": "b2c36",
+          "title": {
+            "la": "Caput XXXVI. Testimonia Patrum XI. vetatis Ause Imi et OEcumenii",
+            "en-US": "Caput XXXVI. Testimonia Patrum XI. vetatis Ause Imi et OEcumenii"
+          }
+        },
+        {
+          "id": "b2c37",
+          "title": {
+            "la": "Caput XXXVII. Testimonia Patrum XII vetatis Euthymii, et S. Bernardi,",
+            "en-US": "Caput XXXVII. Testimonia Patrum XII vetatis Euthymii, et S. Bernardi,"
+          }
+        },
+        {
+          "id": "b2c38",
+          "title": {
+            "la": "Caput XXXVIII. ab adversariis citantur, Catholicum sensum habere, quidquid tandem significent",
+            "en-US": "Caput XXXVIII. ab adversariis citantur, Catholicum sensum habere, quidquid tandem significent"
+          }
+        },
+        {
+          "id": "b2c39",
+          "title": {
+            "la": "Caput XXXIX. Compendium argumentorum, quae sumuntur ex Patribus",
+            "en-US": "Caput XXXIX. Compendium argumentorum, quae sumuntur ex Patribus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. Quae sit regula cognoscendi quid Deus possit",
+            "en-US": "Caput II. Quae sit regula cognoscendi quid Deus possit"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Posse unum corpus simul esse in pluribus locis",
+            "en-US": "Caput III. Posse unum corpus simul esse in pluribus locis"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. Solvuntur objectiones, quibus adversarii probare conantur implicare contradictionem, ut unum corpus sit in pluribus locis",
+            "en-US": "Caput IV. Solvuntur objectiones, quibus adversarii probare conantur implicare contradictionem, ut unum corpus sit in pluribus locis"
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V. Proponitur, et explicatur secunda difficultas } quse in eo posita est, quod corpus non occupet locum",
+            "en-US": "Caput V. Proponitur, et explicatur secunda difficultas } quse in eo posita est, quod corpus non occupet locum"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. Posse corpus alicubi esse, et locum non occupare",
+            "en-US": "Caput VI. Posse corpus alicubi esse, et locum non occupare"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. Solvuntur objectiones adversariorum",
+            "en-US": "Caput VII. Solvuntur objectiones adversariorum"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Ostenditur Deum voluisse, et fecisse, ut reipsa corpus Domini in Eucharistia prxsens adesset",
+            "en-US": "Caput VIII. Ostenditur Deum voluisse, et fecisse, ut reipsa corpus Domini in Eucharistia prxsens adesset"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. Solvitur objectio deprompta ab inutilitate rcalis prsesentix",
+            "en-US": "Caput IX. Solvitur objectio deprompta ab inutilitate rcalis prsesentix"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. Solvitur altera objectio, quae sumitur ab indignitate rei",
+            "en-US": "Caput X. Solvitur altera objectio, quae sumitur ab indignitate rei"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. De modo exislentiae corporis Domini in Eucharistia, sententiae variae referuntur",
+            "en-US": "Caput XI. De modo exislentiae corporis Domini in Eucharistia, sententiae variae referuntur"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. Refellitur Secundus error Bercngarianorum",
+            "en-US": "Caput XII. Refellitur Secundus error Bercngarianorum"
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. Refellitur error Durandi",
+            "en-US": "Caput XIII. Refellitur error Durandi"
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. Refellitur quartus error",
+            "en-US": "Caput XIV. Refellitur quartus error"
+          }
+        },
+        {
+          "id": "b3c15",
+          "title": {
+            "la": "Caput XV. Refellitur error Ruperti",
+            "en-US": "Caput XV. Refellitur error Ruperti"
+          }
+        },
+        {
+          "id": "b3c16",
+          "title": {
+            "la": "Caput XVI. Reffellitur error Joannis Pansiensis",
+            "en-US": "Caput XVI. Reffellitur error Joannis Pansiensis"
+          }
+        },
+        {
+          "id": "b3c17",
+          "title": {
+            "la": "Caput XVII. Refellitur error Ubiquis tarum",
+            "en-US": "Caput XVII. Refellitur error Ubiquis tarum"
+          }
+        },
+        {
+          "id": "b3c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b3c19",
+          "title": {
+            "la": "Caput XIX. Probatur ex verbo Dei transubstantiatio",
+            "en-US": "Caput XIX. Probatur ex verbo Dei transubstantiatio"
+          }
+        },
+        {
+          "id": "b3c20",
+          "title": {
+            "la": "Caput XX. Transubstantiatio probatur testimoniis Patrum",
+            "en-US": "Caput XX. Transubstantiatio probatur testimoniis Patrum"
+          }
+        },
+        {
+          "id": "b3c21",
+          "title": {
+            "la": "Caput XXI. Probatur idem ex definitione, et consensu Ecclesix ab annis quingentis",
+            "en-US": "Caput XXI. Probatur idem ex definitione, et consensu Ecclesix ab annis quingentis"
+          }
+        },
+        {
+          "id": "b3c22",
+          "title": {
+            "la": "Caput XXII. Probatur eadem veritas ex convenientia rationis",
+            "en-US": "Caput XXII. Probatur eadem veritas ex convenientia rationis"
+          }
+        },
+        {
+          "id": "b3c23",
+          "title": {
+            "la": "Caput XXIII. Refelluntur Kemnitii objectiones",
+            "en-US": "Caput XXIII. Refelluntur Kemnitii objectiones"
+          }
+        },
+        {
+          "id": "b3c24",
+          "title": {
+            "la": "Caput XXIV. Refelluntur objectiones Petri Martyris",
+            "en-US": "Caput XXIV. Refelluntur objectiones Petri Martyris"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I. Quid sit propria Sacramentum Eucharistiae, et num extra usum sit vere corpus Domini sub specie consecrati panis",
+            "en-US": "Caput I. Quid sit propria Sacramentum Eucharistiae, et num extra usum sit vere corpus Domini sub specie consecrati panis"
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. Probatur ex verbis institutionis Dominion, Sacramentum Eucharistiae esse rem permanentem, et in eo corpus Domini permanenter existere",
+            "en-US": "Caput II. Probatur ex verbis institutionis Dominion, Sacramentum Eucharistiae esse rem permanentem, et in eo corpus Domini permanenter existere"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III. Probatur ex dissimilitudine Baptismi, et Eucharistiae, Eucharistiam. rem esse permanentem",
+            "en-US": "Caput III. Probatur ex dissimilitudine Baptismi, et Eucharistiae, Eucharistiam. rem esse permanentem"
+          }
+        },
+        {
+          "id": "b4c04",
+          "title": {
+            "la": "Caput IV. Probatur eadem veritas testimoniis Patrum",
+            "en-US": "Caput IV. Probatur eadem veritas testimoniis Patrum"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V. Diluuntur responsiones adversariorum ad testimonia Patrum",
+            "en-US": "Caput V. Diluuntur responsiones adversariorum ad testimonia Patrum"
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI. Explicatur quid proprie sit Sacramentum Eucharistix",
+            "en-US": "Caput VI. Explicatur quid proprie sit Sacramentum Eucharistix"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. De materia Eucharistiae, sitne azymo pane, an fermentato Sacramentum *hon fidendum",
+            "en-US": "Caput VII. De materia Eucharistiae, sitne azymo pane, an fermentato Sacramentum *hon fidendum"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. Probatur Christum instituisse Sacramentum",
+            "en-US": "Caput VIII. Probatur Christum instituisse Sacramentum"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Solvuntur argumenta Graecorum, et aliorum, qui quocumque modo eis favent",
+            "en-US": "Caput IX. Solvuntur argumenta Graecorum, et aliorum, qui quocumque modo eis favent"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. De vino temperando aqua in sacro calice",
+            "en-US": "Caput X. De vino temperando aqua in sacro calice"
+          }
+        },
+        {
+          "id": "b4c11",
+          "title": {
+            "la": "Caput XI. Solvuntur argumenta adversariorum",
+            "en-US": "Caput XI. Solvuntur argumenta adversariorum"
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII",
+            "en-US": "Caput XII"
+          }
+        },
+        {
+          "id": "b4c13",
+          "title": {
+            "la": "Caput XIII. Solis Domini verbis fieri consecrationem",
+            "en-US": "Caput XIII. Solis Domini verbis fieri consecrationem"
+          }
+        },
+        {
+          "id": "b4c15",
+          "title": {
+            "la": "Caput XV. Mendacia Kemnitii de forma Sacramenti Eucharistiae",
+            "en-US": "Caput XV. Mendacia Kemnitii de forma Sacramenti Eucharistiae"
+          }
+        },
+        {
+          "id": "b4c16",
+          "title": {
+            "la": "Caput XVI. De ministro Sacramenti Eucitaristiic",
+            "en-US": "Caput XVI. De ministro Sacramenti Eucitaristiic"
+          }
+        },
+        {
+          "id": "b4c17",
+          "title": {
+            "la": "Caput XVII. De effectu Eucharistiae, et de praeparatione ad Communionem: sententiae haereticorum",
+            "en-US": "Caput XVII. De effectu Eucharistiae, et de praeparatione ad Communionem: sententiae haereticorum"
+          }
+        },
+        {
+          "id": "b4c18",
+          "title": {
+            "la": "Caput XVIII. Indigne sumere Eucharistiam omnes illos, qui accedunt cum conscientia peccati mortalis",
+            "en-US": "Caput XVIII. Indigne sumere Eucharistiam omnes illos, qui accedunt cum conscientia peccati mortalis"
+          }
+        },
+        {
+          "id": "b4c19",
+          "title": {
+            "la": "Caput XIX",
+            "en-US": "Caput XIX"
+          }
+        },
+        {
+          "id": "b4c20",
+          "title": {
+            "la": "Caput XX. ibidem; in omnibus Liturgiis habentur preces, quibus oratur Deus, ut faciat Sacramentum nobis esse in remissionem peccatorum",
+            "en-US": "Caput XX. ibidem; in omnibus Liturgiis habentur preces, quibus oratur Deus, ut faciat Sacramentum nobis esse in remissionem peccatorum"
+          }
+        },
+        {
+          "id": "b4c21",
+          "title": {
+            "la": "Caput XXI",
+            "en-US": "Caput XXI"
+          }
+        },
+        {
+          "id": "b4c22",
+          "title": {
+            "la": "Caput XXII. Totam Sacramenti rationem in vini specie inveniri",
+            "en-US": "Caput XXII. Totam Sacramenti rationem in vini specie inveniri"
+          }
+        },
+        {
+          "id": "b4c23",
+          "title": {
+            "la": "Caput XXIII",
+            "en-US": "Caput XXIII"
+          }
+        },
+        {
+          "id": "b4c24",
+          "title": {
+            "la": "Caput XXIV. Non pugnare cum divinis litteris, seu cum Christi mandato Communionem sub una specie, probatur variis rationibus",
+            "en-US": "Caput XXIV. Non pugnare cum divinis litteris, seu cum Christi mandato Communionem sub una specie, probatur variis rationibus"
+          }
+        },
+        {
+          "id": "b4c25",
+          "title": {
+            "la": "Caput XXV",
+            "en-US": "Caput XXV"
+          }
+        },
+        {
+          "id": "b4c26",
+          "title": {
+            "la": "Caput XXVI. modum praescribunt, ut si id fiat, fiat in memoriam Dominicae passionis",
+            "en-US": "Caput XXVI. modum praescribunt, ut si id fiat, fiat in memoriam Dominicae passionis"
+          }
+        },
+        {
+          "id": "b4c27",
+          "title": {
+            "la": "Caput XXVII. Refelluntur objectiones ex ratione",
+            "en-US": "Caput XXVII. Refelluntur objectiones ex ratione"
+          }
+        },
+        {
+          "id": "b4c28",
+          "title": {
+            "la": "Caput XXVIII. Ecclesiam justis de causis preecepisse Communionem sub una specie",
+            "en-US": "Caput XXVIII. Ecclesiam justis de causis preecepisse Communionem sub una specie"
+          }
+        },
+        {
+          "id": "b4c29",
+          "title": {
+            "la": "Caput XXIX. De veneratione hujus Sacramenti",
+            "en-US": "Caput XXIX. De veneratione hujus Sacramenti"
+          }
+        },
+        {
+          "id": "b4c30",
+          "title": {
+            "la": "Caput XXX. Solvuntur objectiones",
+            "en-US": "Caput XXX. Solvuntur objectiones"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b5c01",
+          "title": {
+            "la": "Caput I. De voce, Missa",
+            "en-US": "Caput I. De voce, Missa"
+          }
+        },
+        {
+          "id": "b5c02",
+          "title": {
+            "la": "Caput II. De sacrificii definitione",
+            "en-US": "Caput II. De sacrificii definitione"
+          }
+        },
+        {
+          "id": "b5c03",
+          "title": {
+            "la": "Caput III. Mortem Christi sacrificium esse proprie clictum",
+            "en-US": "Caput III. Mortem Christi sacrificium esse proprie clictum"
+          }
+        },
+        {
+          "id": "b5c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Caput IV"
+          }
+        },
+        {
+          "id": "b5c05",
+          "title": {
+            "la": "Caput V. Explicatur status controversias, et sententia: referuntur Catholicorum et haereticorum",
+            "en-US": "Caput V. Explicatur status controversias, et sententia: referuntur Catholicorum et haereticorum"
+          }
+        },
+        {
+          "id": "b5c06",
+          "title": {
+            "la": "Caput VI. In Missa verum sacrificium offerri, probatur ex primo testimonio Scriptura et ex sacerdotio Melchisedech",
+            "en-US": "Caput VI. In Missa verum sacrificium offerri, probatur ex primo testimonio Scriptura et ex sacerdotio Melchisedech"
+          }
+        },
+        {
+          "id": "b5c07",
+          "title": {
+            "la": "Caput VII. Probatur sacrificium Missx ex figura agni paschalis",
+            "en-US": "Caput VII. Probatur sacrificium Missx ex figura agni paschalis"
+          }
+        },
+        {
+          "id": "b5c08",
+          "title": {
+            "la": "Caput VIII. advcrs. Leg. et Prophet. c. 18. et Leone serm. 8. de passione Domini, qui omnia sacrificia veteris legis quantumvis cruenta, figuras fuisse docet sacrificii Eucharistia",
+            "en-US": "Caput VIII. advcrs. Leg. et Prophet. c. 18. et Leone serm. 8. de passione Domini, qui omnia sacrificia veteris legis quantumvis cruenta, figuras fuisse docet sacrificii Eucharistia"
+          }
+        },
+        {
+          "id": "b5c09",
+          "title": {
+            "la": "Caput IX. Probatur sacrificium Missse ex vaticiniis Prophetarum",
+            "en-US": "Caput IX. Probatur sacrificium Missse ex vaticiniis Prophetarum"
+          }
+        },
+        {
+          "id": "b5c10",
+          "title": {
+            "la": "Caput X. Probatur idem ex Malae hia",
+            "en-US": "Caput X. Probatur idem ex Malae hia"
+          }
+        },
+        {
+          "id": "b5c11",
+          "title": {
+            "la": "Caput XI",
+            "en-US": "Caput XI"
+          }
+        },
+        {
+          "id": "b5c12",
+          "title": {
+            "la": "Caput XII. Probatur sacrificium Missse cx verbis institutionis",
+            "en-US": "Caput XII. Probatur sacrificium Missse cx verbis institutionis"
+          }
+        },
+        {
+          "id": "b5c13",
+          "title": {
+            "la": "Caput XIII. Probatur sacrificium Missie ex cap. xjii",
+            "en-US": "Caput XIII. Probatur sacrificium Missie ex cap. xjii"
+          }
+        },
+        {
+          "id": "b5c14",
+          "title": {
+            "la": "Caput XIV. mino; et Jiine etiam factum est, ut Graeci Missa} celebrationem XsiTouoyetav appellent",
+            "en-US": "Caput XIV. mino; et Jiine etiam factum est, ut Graeci Missa} celebrationem XsiTouoyetav appellent"
+          }
+        },
+        {
+          "id": "b5c15",
+          "title": {
+            "la": "Caput XV. Probatur sacrificium Missse ex traditione Patrum, ac primum ex vocibus saaificii, oblationis, immolationis, etc",
+            "en-US": "Caput XV. Probatur sacrificium Missse ex traditione Patrum, ac primum ex vocibus saaificii, oblationis, immolationis, etc"
+          }
+        },
+        {
+          "id": "b5c17",
+          "title": {
+            "la": "Caput XVII. Idem 'probatur ex nomine Sacerdotis",
+            "en-US": "Caput XVII. Idem 'probatur ex nomine Sacerdotis"
+          }
+        },
+        {
+          "id": "b5c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b5c19",
+          "title": {
+            "la": "Caput XIX. Idem probatur ex iis, pro quibus sacrificium Missx o f fertur",
+            "en-US": "Caput XIX. Idem probatur ex iis, pro quibus sacrificium Missx o f fertur"
+          }
+        },
+        {
+          "id": "b5c20",
+          "title": {
+            "la": "Caput XX. Probatur sacrificium Missae ex coni unctione legis, et sacrificii",
+            "en-US": "Caput XX. Probatur sacrificium Missae ex coni unctione legis, et sacrificii"
+          }
+        },
+        {
+          "id": "b5c21",
+          "title": {
+            "la": "Caput XXI. Probatur sacrificium Missu; ex comparatione legis Christianae ad Mosa icam",
+            "en-US": "Caput XXI. Probatur sacrificium Missu; ex comparatione legis Christianae ad Mosa icam"
+          }
+        },
+        {
+          "id": "b5c24",
+          "title": {
+            "la": "Caput XXIV. Solvuntur objectiones Lutheri",
+            "en-US": "Caput XXIV. Solvuntur objectiones Lutheri"
+          }
+        },
+        {
+          "id": "b5c25",
+          "title": {
+            "la": "Caput XXV. Solvuntur argumenta Joannis Calvini",
+            "en-US": "Caput XXV. Solvuntur argumenta Joannis Calvini"
+          }
+        },
+        {
+          "id": "b5c26",
+          "title": {
+            "la": "Caput XXVI. Solvuntur objectiones Kemnitii",
+            "en-US": "Caput XXVI. Solvuntur objectiones Kemnitii"
+          }
+        },
+        {
+          "id": "b5c27",
+          "title": {
+            "la": "Caput XXVII. Solvitur ultima objectio, et explicatur in qua parte Missa; proprie consistat essentia sacrificii",
+            "en-US": "Caput XXVII. Solvitur ultima objectio, et explicatur in qua parte Missa; proprie consistat essentia sacrificii"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI"
+      },
+      "children": [
+        {
+          "id": "b6intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    }
+  ]
+}
