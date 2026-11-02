@@ -12,7 +12,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Elisabeth of the Trinity · Curé of Ars. Left: Elisabeth's complete letters, poems, Journal and notes (no clean text online); the French Esprit, the Curé's letters, English sermons
 - [x] Francis de Sales (French complete, 25 books). Left: letters 231–270 and MMXI–MMXLVII (from archive.org Annecy XII and XXI OCR), splitting run-together sermons; English (Mackey Controversy, Letters, Canticle, Spiritual Directory) for the English pass
 - [x] Jane de Chantal. Left: the 1665 Réponses (long-s print, needs re-OCR), ~50 letters folded into neighbours
-- [ ] Vincent de Paul
+- [x] Vincent de Paul (Coste, 12 books)
 - [ ] Caussade · Lallemant · Brother Lawrence (rest) · Surin
 - [ ] Montfort (gaps) · Bérulle · Olier
 - [ ] John Eudes
