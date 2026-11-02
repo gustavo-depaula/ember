@@ -4,7 +4,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from core import ROOT
 
 def toc_from(d, lang='fr-FR', order=None):
-    files = sorted((d / lang).glob('*.md'), key=lambda p: (order.index(p.stem) if order and p.stem in order else (-1 if p.stem == 'avant-propos' else 0), p.stem))
+    files = sorted((d / lang).glob('*.md'), key=lambda p: (next((i for i, o in enumerate(order or []) if p.stem.startswith(o)), -1 if p.stem == 'avant-propos' else 99), p.stem))
     toc = []
     for p in files:
         h1 = p.read_text(encoding='utf-8').split('\n', 1)[0][2:].strip()

@@ -1,0 +1,66 @@
+{
+  "id": "berulle-elevations",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Élévations",
+    "en-US": "Elevations",
+    "pt-BR": "Elevações"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Trois élévations à Jésus, à la Trinité et à Dieu sur la part de Marie dans le mystère de l’Incarnation, et l’oraison à la Vierge.",
+    "en-US": "Three elevations to Jesus, to the Trinity and to God on Mary’s part in the mystery of the Incarnation, and the prayer to the Virgin.",
+    "pt-BR": "Três elevações a Jesus, à Trindade e a Deus sobre a parte de Maria no mistério da Encarnação, e a oração à Virgem."
+  },
+  "composed": 1620,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/elevations",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "elevation-a-jesus",
+      "title": {
+        "fr-FR": "Élévation à Jésus sur ses principaux états et mystères"
+      }
+    },
+    {
+      "id": "elevation-trinite",
+      "title": {
+        "fr-FR": "Élévation à la très sainte Trinité sur le mystère de l’Incarnation"
+      }
+    },
+    {
+      "id": "elevation-part-de-marie",
+      "title": {
+        "fr-FR": "Élévation à Dieu et à la Vierge sur la part de Marie dans le mystère de l’Incarnation"
+      }
+    },
+    {
+      "id": "oraison-a-marie",
+      "title": {
+        "fr-FR": "Oraison à la très sainte Vierge Marie, Mère de Dieu"
+      }
+    }
+  ]
+}

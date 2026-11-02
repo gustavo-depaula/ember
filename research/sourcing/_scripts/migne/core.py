@@ -13,8 +13,31 @@ def upper_ratio(s):
     return sum(c.isupper() for c in letters) / len(letters) if letters else 0
 
 
+import difflib
+REF = ['CONTROVERSE', 'COMPLETES', 'CARDINAL', 'BERULLE', 'EUCHARISTIE', 'GRANDEURS', 'LETTRES', 'OEUVRES', 'PIETE', 'REGLEMENT', 'OLIER', 'MEMOIRES', 'CATECHISME', 'INTRODUCTION', 'JOURNEE', 'CEREMONIES', 'ORDRES', 'ENERGUMENES', 'MEMORIAL', 'DIRECTION']
+EXTRA_REF = []
+
+
+def _norm(t):
+    return t.upper().translate(str.maketrans('ÉÈÊÀÂÎÔÛŒÇ', 'EEEAAIOUOC'))
+
+
+def looks_runhead(s):
+    if len(s) > 110 or upper_ratio(s) < 0.75:
+        return False
+    if not re.search(r'[—–\-]|\d{2,4}\s*$|^\W*\d{2,4}', s):
+        return False
+    for t in re.findall(r"[A-Za-zÀ-ÿŒ]{5,}", s):
+        for r in REF + EXTRA_REF:
+            if difflib.SequenceMatcher(None, _norm(t), r).ratio() >= 0.72:
+                return True
+    return False
+
+
 def is_runhead(s, extra=None):
     s = s.strip()
+    if looks_runhead(s):
+        return True
     if not s:
         return False
     if re.fullmatch(r'[\d\sIil|.,\-—_=~^*<>■§•]{1,6}', s):
@@ -252,3 +275,32 @@ def title_from(prefix, sub):
         s = re.sub(r'\b(jésus|dieu|marie|christ|vierge|trinité|incarnation|eucharistie|esprit|père|fils|verbe)\b', lambda m: m.group(1).capitalize(), s)
         return f'{prefix}. {s}'
     return prefix
+
+
+def rom_pieces(s):
+    s = s.upper().replace('Ï', 'I').replace('Î', 'I').replace('|', 'I').replace('1', 'I').replace('!', 'I').replace('Y', 'V').replace('U', 'V').replace('H', 'II')
+    s = re.sub(r'[^IVXLC]', '', s)
+    vals = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100}
+    t = 0
+    for a, b in zip(s, s[1:] + ' '):
+        v = vals[a]
+        t += -v if vals.get(b, 0) > v else v
+    return t
+
+
+PIECE = re.compile(r"^\W{0,3}§?\s*([IVXLClÏÎ1|!yYuUhH]{1,9})\s?[.,:]\s{1,8}(\S.*)$")
+
+
+def find_pieces(L, a, b, maxn, jump=4, minupper=0.6, start=0):
+    prev, out = start, []
+    for i in range(a, b):
+        m = PIECE.match(L[i].strip())
+        if not m or is_runhead(L[i]):
+            continue
+        rest = m.group(2)
+        if upper_ratio(rest) < minupper:
+            continue
+        n = rom_pieces(m.group(1))
+        if prev < n <= min(prev + jump, maxn):
+            out.append((n, i)); prev = n
+    return out
