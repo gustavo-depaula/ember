@@ -1,0 +1,85 @@
+{
+  "id": "teresa-opusculos",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Constituciones, Visita de descalzas, Avisos y otros opúsculos",
+    "en-US": "Constitutions, Visitation of the Nunneries, Maxims and other short works",
+    "pt-BR": "Constituições, Visita das descalças, Avisos e outros opúsculos"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "es-ES": "Los escritos breves de Santa Teresa para el gobierno de sus monjas y para sus amigos: las Constituciones (1567), el Modo de visitar los conventos de las Carmelitas Descalzas, los Avisos, la Respuesta a un desafío espiritual, el Vejamen y los Pensamientos y sentencias. Un capítulo por pieza; texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "St. Teresa's short writings for the government of her nuns and for her friends: the Constitutions (1567), the Manner of Visiting the Convents of Discalced Carmelites, the Maxims, the Reply to a Spiritual Challenge, the Vejamen and the Thoughts and Sayings. One chapter per piece; P. Silverio de Santa Teresa's critical text with his notes (Spanish only).",
+    "pt-BR": "Os escritos breves de Santa Teresa para o governo das suas monjas e para os amigos: as Constituições, o Modo de visitar os conventos, os Avisos, a Resposta a um desafio espiritual, o Vejamen e os Pensamentos e sentenças."
+  },
+  "composed": "1567–1581",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "teresa-of-avila/opusculos",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1919
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesantatere06tere",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. VI: Opúsculos (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1919, pp. 5–125. Princeton Theological Seminary scan, primary OCR.",
+      "description": "Spanish critical text with Silverio's notes kept as footnotes; his introduction and appendices are not included. OCR of two independent scans merged word by word.",
+      "tier": "A",
+      "tierEvidence": "Teresa died in 1582; the volume was published in 1919 (public domain in the US) and P. Silverio died in 1954, so his notes are public domain under life+70 since 1 January 2025."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdestateresa06tere",
+      "edition": "The same volume, Wellesley College scan, used as the second witness.",
+      "tier": "A",
+      "tierEvidence": "Same edition as above."
+    }
+  ],
+  "toc": [
+    {
+      "id": "constituciones",
+      "title": {
+        "es-ES": "Constituciones"
+      }
+    },
+    {
+      "id": "visita",
+      "title": {
+        "es-ES": "Modo de visitar los conventos"
+      }
+    },
+    {
+      "id": "avisos",
+      "title": {
+        "es-ES": "Avisos"
+      }
+    },
+    {
+      "id": "desafio",
+      "title": {
+        "es-ES": "Respuesta a un desafío espiritual"
+      }
+    },
+    {
+      "id": "vejamen",
+      "title": {
+        "es-ES": "Vejamen"
+      }
+    },
+    {
+      "id": "pensamientos",
+      "title": {
+        "es-ES": "Pensamientos y sentencias"
+      }
+    }
+  ]
+}
