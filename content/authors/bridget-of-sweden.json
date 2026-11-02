@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en-US": "St. Bridget of Sweden",
+    "pt-BR": "Santa Brígida da Suécia"
+  },
+  "century": 14,
+  "saint": "bridget_sweden",
+  "matches": [
+    "Bridget of Sweden",
+    "St. Bridget of Sweden",
+    "Saint Bridget of Sweden",
+    "Birgitta of Sweden",
+    "Birgitta de Regno Swecie",
+    "Brígida da Suécia",
+    "Birgitta Birgersdotter"
+  ]
+}

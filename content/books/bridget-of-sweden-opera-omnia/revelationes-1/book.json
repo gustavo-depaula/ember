@@ -1,0 +1,408 @@
+{
+  "id": "bridget-revelationes-1",
+  "cover": "classic",
+  "name": {
+    "la": "Revelationes, liber I: Liber celestis reuelacionum",
+    "en-US": "Revelations, Book I: The Heavenly Book of Revelations",
+    "pt-BR": "Revelações, Livro I"
+  },
+  "author": {
+    "la": "Birgitta de Regno Swecie",
+    "en-US": "St. Bridget of Sweden",
+    "pt-BR": "Santa Brígida da Suécia"
+  },
+  "description": {
+    "la": "Primus liber reuelacionum, cum prologo magistri Mathie de Suecia: verba Christi et Marie ad Birgittam de incarnacione, de fide et de statu Ecclesie.",
+    "en-US": "The first book of the Revelations, with Master Matthias's prologue: words of Christ and of Mary to Bridget on the Incarnation, the faith and the state of the Church.",
+    "pt-BR": "O primeiro livro das Revelações, com o prólogo do mestre Matias: palavras de Cristo e de Maria a Brígida sobre a Encarnação, a fé e o estado da Igreja."
+  },
+  "composed": "c. 1344-1349",
+  "languages": [
+    "la"
+  ],
+  "work": "bridget-of-sweden/revelationes-1",
+  "editions": {
+    "la": {
+      "editor": "Carl-Gustaf Undhagen (Svenska fornskriftsällskapet critical edition)",
+      "year": 1978
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.documentacatholicaomnia.eu/04z/z_1303-1373__Birgitta_de_Regno_Swecie__Revelaciones__LT.doc.html",
+      "edition": "Sancta Birgitta, Revelaciones / Opera minora, Samlingar utgivna av Svenska fornskriftsällskapet, Ser. 2, Latinska skrifter VII, ed. Carl-Gustaf Undhagen (Stockholm, 1978).",
+      "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"I\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
+      "tier": "B",
+      "tierEvidence": "Freely distributed online transcription of a medieval text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput 1"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput 2"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput 3"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput 4"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput 5"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput 6"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput 7"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput 8"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput 9"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput 10"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput 11"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput 12"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput 13"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput 14"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput 15"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput 16"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput 17"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput 18"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput 19"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput 20"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput 21"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput 22"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput 23"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Caput 24"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Caput 25"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Caput 26"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Caput 27"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Caput 28"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Caput 29"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Caput 30"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Caput 31"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Caput 32"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Caput 33"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Caput 34"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Caput 35"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Caput 36"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Caput 37"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Caput 38"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Caput 39"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Caput 40"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Caput 41"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Caput 42"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Caput 43"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Caput 44"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Caput 45"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Caput 46"
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Caput 47"
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Caput 48"
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Caput 49"
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Caput 50"
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Caput 51"
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Caput 52"
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Caput 53"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "la": "Caput 54"
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "la": "Caput 55"
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "la": "Caput 56"
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "la": "Caput 57"
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "la": "Caput 58"
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "la": "Caput 59"
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "la": "Caput 60"
+      }
+    }
+  ]
+}
