@@ -1,0 +1,91 @@
+{
+  "id": "bellarmine-responsio-ad-triplici-nodo",
+  "cover": "classic",
+  "name": {
+    "la": "Responsio ad librum inscriptum Triplici nodo triplex cuneus",
+    "en-US": "Reply to Triplici nodo, triplex cuneus",
+    "pt-BR": "Resposta ao Triplici nodo, triplex cuneus"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Responsio Matthaei Torti ad librum Jacobi regis (1608). Textus ex editione Vivès (1870-74), tomo XII, ex scanno OCR.",
+    "en-US": "The reply of \"Matthaeus Tortus\" to the book of James I, on the oath of allegiance (1608). Latin only: the Vivès edition (1870-74), volume 12, from an OCR scan.",
+    "pt-BR": "A resposta de \"Matthaeus Tortus\" ao livro de Tiago I (1608)."
+  },
+  "composed": "1608",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/responsio-ad-triplici-nodo",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia12bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 12 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "la": "Pars 1",
+        "en-US": "Part 1"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "la": "Pars 2",
+        "en-US": "Part 2"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "la": "Pars 3",
+        "en-US": "Part 3"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "la": "Pars 4",
+        "en-US": "Part 4"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "la": "Pars 5",
+        "en-US": "Part 5"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "la": "Pars 6",
+        "en-US": "Part 6"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "la": "Pars 7",
+        "en-US": "Part 7"
+      }
+    }
+  ]
+}
