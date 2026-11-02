@@ -1,0 +1,57 @@
+# CHAPITRE VI.--La cinquième qualité du Confesseur, qui est la prudence
+
+Ce n'est pas assez à un confesseur d'avoir du zèle, de la science et de la charité, s'il n'a de la prudence. Entre toutes les fonctions ecclésiastiques, il n'y en a point où la prudence soit tant requise comme en celle-ci. Un confesseur sans prudence est un aveugle qui tombera en mille précipices, et qui y fera souvent tomber ses pénitents avec lui. C'est pourquoi ceux qui entrent dans le tribunal de la Pénitence, doivent beaucoup demander à Dieu cette vertu, et étudier soigneusement les règles suivantes, afin de les observer.
+
+Examiner différemment les pénitents, selon la différence du sexe, de l'âge et de la condition.
+
+Les examiner de telle sorte qu'on prenne bien garde de ne leur apprendre pas le mal qu'ils ne savent point. Ne leur faire pas des corrections au commencement ni au milieu de la confession, mais attendre à la fin, de peur de les troubler et effrayer, et de leur ôter la facilité de se confesser.
+
+Considérer attentivement la disposition de chaque pénitent, pour le traiter conformément à cela.
+
+Si par exemple on le voit travaillé de honte, lui donner assurance, lui remontrant: que nous ne sommes pas Anges non plus que lui; que nous sommes tous pécheurs; que l'on ne s'étonne pas d'entendre de grands péchés, parce qu'on sait bien que la fragilité humaine est grande, que les tentations de l'esprit malin sont fréquentes et violentes; que c'est chose humaine de pécher, mais que ce serait une chose diabolique de demeurer dans son péché, 218 faute de le confesser; que c'est une chose si secrète que la confession, qu'un confesseur qui craint tant soit peu Dieu, aimerait mieux être brûlé tout vif, que de révéler la moindre faute qu'il a entendue en confession; qu'enfin Dieu nous commande de confesser nos péchés aux prêtres, et partant qu'il le faut faire pour l'amour de lui, et en l'honneur de la confusion qu'il a portée en la croix à raison de nos crimes; et qu'il vaut bien mieux avoir la honte de confesser son péché à l'oreille d'un seul homme, que d'être confondu devant tous les Anges et les hommes, et devant Dieu au jour du Jugement, et après cela d'être damné éternellement 162.
+
+Si au contraire on voit le pénitent effronté et sans appréhension, lui représenter fortement, mais toujours avec douceur, qu'il est devant Dieu; que c'est aux pieds de Jésus-Christ son Juge souverain, et non pas d'un homme seulement, qu'il vient se prosterner; qu'il doit se regarder comme 160 Cf. S. François de Sales, Avertissements aux Confesseurs.
+
+162 Cf. S. François de Sales, Avertissements aux Confesseurs. un criminel de lèse-majesté divine, qui a mérité la damnation; qu'il est question ici d'une action très importante, en laquelle il s'agit de son salut éternel, et d'appliquer à son âme le fruit du sang et de la mort de Jésus-Christ; et qu'à l'heure de la mort, il ne rendra compte d'aucune chose si étroitement que des mauvaises confessions qu'il aura faites 163.
+
+Interroger de telle sorte sur le sixième commandement, qu'on se garde des deux extrémités, dont la première est de n'interroger pas suffisamment et des choses nécessaires, la seconde est d'interroger trop et sans nécessité. Pour éviter l'un et l'autre, il faut se donner beaucoup au SaintEsprit, puis aller de degré en degré, des pensées aux désirs, des désirs aux paroles, des paroles aux actions, comme baisers, attouchements, etc. Si on trouve le pénitent innocent dans les pensées, dans les désirs et dans 219 les actions susdites, ne lui en demander pas davantage. Si on le trouve coupable, passer outre, mais toujours avec tant de modestie et de discrétion, qu'on ne lui donne pas sujet de mauvaise édification dans les interrogations qu'on lui fera, et qu'on ne lui apprenne pas le mal qu'il ne sait point.
+
+Si on trouve des choses difficiles à résoudre, élever son esprit à Dieu et demander lumière au Saint-Esprit. Si nonobstant cela on n'y voit pas assez clair, demander temps au pénitent pour y penser, et pour en conférer s'il est besoin.
+
+S'il y a quelques réconciliations ou restitutions à faire, ou quelque occasion prochaine de péché à quitter, n'attendre pas à la fin de la confession à mettre le pénitent dans la disposition en laquelle il doit être sur ce sujet; mais le faire à l'instant qu'on l'interroge et qu'on le trouve coupable sur quelqu'une de ces choses.
+
+Lorsqu'on trouve quelques-uns qui sont en bonne foi, et avec ignorance invincible, dans un péché, soit qu'ils l'aient déjà commis ou qu'ils soient en volonté de le commettre, et qu'on croit probablement qu'en les avertissant et tirant de leur bonne foi et ignorance, par la connaissance qu'on leur donnera du péché, ils ne se résoudront pourtant pas de le quitter, ou ne laisseront pas de le commettre, alors on ne doit point les avertir, car cela serait inutile, et même dommageable au pénitent. Si néanmoins il avait le moindre doute de son péché et qu'il en demandât avis, on serait obligé de lui dire la vérité, encore qu'on sait bien qu'il ne ferait rien de ce qu'on lui dirait; car depuis qu'il commence à douter pour peu que ce soit, il n'est plus en bonne foi. Exemple: deux personnes mariées sont en degré prohibé, et par conséquent le mariage est nul, mais ils ne le savent pas: le mari vient à confesse, et le confesseur croit probablement qu'en l'avertissant de cet empêchement, il n'y remédiera pas, il ne lui en doit rien dire, mais le laisser en sa bonne foi. 220 Appliquer des remèdes convenables aux diverses maladies des âmes, et imposer des pénitences salutaires. Sur quoi il faut remarquer qu'on ne doit pas donner des pénitences dont l'accomplissement soit capable de scandaliser le pénitent, en découvrant son péché qui était caché; qu'on doit avoir égard à la qualité des péchés, mais que l'on doit aussi considérer l'âge, le sexe, la condition et la disposition des personnes, afin de donner des pénitences qu'elles puissent faire facilement; que l'on doit plutôt donner des pénitences légères et faciles, que trop grandes et difficiles, spécialement dans un temps d'Indulgence plénière; parce que l'Indulgence supplée la pénitence; qu'après avoir imposé une pénitence facile, il faut avertir le pénitent qu'il en méritait une plus grande, mais qu'on a mieux aimé la lui donner petite, afin qu'il la fasse plus volontiers; qu'enfin, après l'imposition de la pénitence, il faut demander au pénitent s'il l'a bien entendue et s'il la fera de bon cœur, afin que, si on voit qu'il ne l'accepte pas volontiers, on lui en donne une autre plus aisée et qu'il fasse avec dévotion.
+
+Quand on est obligé de refuser ou de différer l'absolution, faire en sorte que cela ne paraisse pas, ni ne puisse pas être aperçu de ceux qui sont proche. Et pour cet effet, dire le Misereatur et l'Indulgentiam, et se comporter extérieurement comme si on la donnait; mais avertir ensuite le pénitent qu'on ne la lui a pas donnée.
+
+Surtout, le sage confesseur doit imiter la prudence du serpent, ayant soin de mettre sa tête à couvert, c'est-à-dire ce qu'il a de plus cher et de plus important, qui est son salut, afin de ne se perdre pas en voulant sauver les autres. Pour cette fin il doit faire quatre choses:
+
+La première est de s'humilier beaucoup en la vue de son indignité, de son incapacité et de sa fragilité; se regardant soi-même dans tous les crimes dont on s'accuse devant lui; reconnaissant qu'il est capable de les commettre tous, si Dieu ne l'en préservait, puisqu'il en 221 porte la racine dedans soi, et qu'il n'est rien de lui- même que péché, que ténèbres, et qu'ignorance: 163 Cf. S. François de Sales, I, c. ce qui lui doit donner une grande frayeur de lui-même, et une grande défiance de son esprit, de sa science, de son expérience et de tout ce qu'il est, et l'obliger à mettre toute sa confiance en Dieu seul.
+
+La seconde est de pratiquer ces paroles du Saint-Esprit: Modestia vestra nota sit omnibus hominibus 164 « Que votre modestie soit connue de tous les hommes. » Ce qui se doit faire en tout temps, et en tout lieu, et en toutes choses, spécialement dans les fonctions sacerdotales, mais surtout en celle-ci, en laquelle le prêtre exerçant un si haut ministère et à la vue de tout le monde, doit être dans un maintien très modeste, ne permettant pas à ses yeux de s'égarer de côté et d'autre; mais les mortifiant si bien, et composant sa posture et ses gestes de telle sorte, que tous ceux qui le voient n'en reçoivent que de l'édification. S'il a soin de disposer ainsi son extérieur afin de bien faire cette action pour l'amour de son Dieu, sa divine bonté prendra soin de conserver son intérieur, et de protéger son âme dans un emploi si périlleux comme est celui-ci, là où il faut toucher la poix sans se souiller, et être dans le feu sans brûler. Ce qui ne se peut faire que par une grâce particulière de Dieu, laquelle il ne manque jamais de donner à ceux qui la demandent et qui tâchent de se disposer à la recevoir, en s'humiliant, en se défiant d'eux-mêmes, en se confiant en la divine miséricorde, en ne cherchant que Dieu dans cette action, en maintenant leur extérieur dans la modestie convenable, et en se servant des autres moyens qui suivent.
+
+La troisième chose que doit faire le confesseur pour la conservation de son salut, est d'avoir infiniment en horreur tout ce qui est contraire à la pureté; et afin 222 d'éviter tout ce qui la peut blesser, d'observer exactement les choses suivantes:
+
+1. Quand il vient au sixième commandement, renoncer fortement à tout esprit d'impureté, et se donner de tout son cœur à la haine infinie que Notre-Seigneur a contre l'impureté, et a l'amour immense qu'il a pour la pureté.
+
+## 2. Se garder bien de faire aucune interrogation par esprit d'impureté ou de curiosité
+
+## 3. Ne s'arrêter dans ces interrogations, qu'autant qu'il est absolument nécessaire
+
+4. Faire en sorte que la tête des personnes d'un autre sexe qui se confessent à lui ne touche point à la sienne; et que leur visage soit tourné à côté du sien, en sorte qu'elles ne le voient pas, et qu'elles ne lui parlent pas droit dans l'oreille, mais à côté.
+
+5. Ne les regarder jamais en face, mais faire une paction avec ses yeux, qu'ils ne se laisseront point aller à de semblables regards, qui ne peuvent être que très pernicieux.
+
+6. Fermer entièrement la porte de son cœur aux affections humaines et sensuelles, qui s'y glissent insensiblement; et n'y laisser pas entrer des attaches, qui d'abord paraissent fort raisonnables et toutes spirituelles, et qui peu après deviennent toutes charnelles et détestables, et qui produisent souvent des effets très funestes et très damnables.
+
+7. Si on sent plus d'inclination à confesser des femmes que des hommes, s'en humilier profondément, l'appréhender comme une chose très dangereuse, et la mortifier puissamment en faisant tout le contraire de ce qu'elle suggère.
+
+8. Si on fait quelques fautes contre les règles susdites, s'en humilier et en avoir confusion devant Dieu; les détester, et lui en demander pardon de tout son cœur; s'en confesser sincèrement; prendre une forte résolution de 223 s'en corriger; demander grâce à Dieu pour cela, et implorer l'assistance de la bienheureuse Vierge pour l'obtenir.
+
+La quatrième chose que doit faire le confesseur, pour se conserver soi-même en travaillant au salut des autres, c'est de se maintenir dans l'esprit de piété, dont il sera parlé au chapitre suivant.
+
+---
+
+*Notes de l’éditeur (Œuvres complètes, 1905–11)*
+
+161 Cf. S. François de Sales, I. c.

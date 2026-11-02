@@ -1,0 +1,372 @@
+{
+  "id": "eudes-bon-confesseur",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Le Bon Confesseur",
+    "en-US": "The Good Confessor",
+    "pt-BR": "O Bom Confessor"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le traité du bon confesseur : ses qualités, sa conduite envers les pénitents, la manière d’entendre les confessions.",
+    "en-US": "The treatise on the good confessor: his qualities, his conduct toward penitents, the manner of hearing confessions.",
+    "pt-BR": "O tratado do bom confessor: suas qualidades, sua conduta com os penitentes, a maneira de ouvir confissões."
+  },
+  "composed": 1666,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/bon-confesseur",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_4)_000000349.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 4, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "conf-01",
+      "title": {
+        "fr-FR": "Introduction (1): Le bon confesseur"
+      }
+    },
+    {
+      "id": "conf-02",
+      "title": {
+        "fr-FR": "Introduction (2): Occasion et publication du « bon confesseur »"
+      }
+    },
+    {
+      "id": "conf-03",
+      "title": {
+        "fr-FR": "Introduction (3): Appréciations élogieuses du « bon confesseur.»"
+      }
+    },
+    {
+      "id": "conf-04",
+      "title": {
+        "fr-FR": "CHAPITRE I.--La dignité et la puissance admirable du Sacerdoce, avec l'excellence et l'importance de l'action"
+      }
+    },
+    {
+      "id": "conf-05",
+      "title": {
+        "fr-FR": "CHAPITRE II.-- La première qualité d'un Confesseur, qui est le zèle du salut des âmes (1)"
+      }
+    },
+    {
+      "id": "conf-06",
+      "title": {
+        "fr-FR": "CHAPITRE II.-- La première qualité d'un Confesseur, qui est le zèle du salut des âmes (2)"
+      }
+    },
+    {
+      "id": "conf-07",
+      "title": {
+        "fr-FR": "CHAPITRE III.--La seconde qualité d'un Confesseur, qui est la puissance judiciaire"
+      }
+    },
+    {
+      "id": "conf-08",
+      "title": {
+        "fr-FR": "CHAPITRE IV.--La troisième qualité d'un Confesseur, qui est la science"
+      }
+    },
+    {
+      "id": "conf-09",
+      "title": {
+        "fr-FR": "CHAPITRE V.--La quatrième qualité d'un Confesseur, qui est la charité"
+      }
+    },
+    {
+      "id": "conf-10",
+      "title": {
+        "fr-FR": "CHAPITRE VI.--La cinquième qualité du Confesseur, qui est la prudence"
+      }
+    },
+    {
+      "id": "conf-11",
+      "title": {
+        "fr-FR": "CHAPITRE VII.--La sixième qualité du Confesseur, qui est la piété"
+      }
+    },
+    {
+      "id": "conf-12",
+      "title": {
+        "fr-FR": "CHAPITRE VIII.--La septième qualité du Confesseur, qui est la justice (1)"
+      }
+    },
+    {
+      "id": "conf-13",
+      "title": {
+        "fr-FR": "CHAPITRE VIII.--La septième qualité du Confesseur, qui est la justice (2)"
+      }
+    },
+    {
+      "id": "conf-14",
+      "title": {
+        "fr-FR": "CHAPITRE IX.--La huitième qualité du Confesseur, qui est la fidélité à garder le sceau de la Confession"
+      }
+    },
+    {
+      "id": "conf-15",
+      "title": {
+        "fr-FR": "CHAPITRE X.--Sept choses que le Confesseur doit faire dans la Confession"
+      }
+    },
+    {
+      "id": "conf-16",
+      "title": {
+        "fr-FR": "CHAPITRE XI.--Plusieurs autres Avertissements aux Confesseurs"
+      }
+    },
+    {
+      "id": "conf-17",
+      "title": {
+        "fr-FR": "CHAPITRE XII.--Manière pour bien examiner chaque pénitent, et pour lui aider à faire une bonne et parfaite"
+      }
+    },
+    {
+      "id": "conf-18",
+      "title": {
+        "fr-FR": "CHAPITRE XIII.--Sur le premier Commandement"
+      }
+    },
+    {
+      "id": "conf-19",
+      "title": {
+        "fr-FR": "CHAPITRE XIV.--Sur le second Commandement"
+      }
+    },
+    {
+      "id": "conf-20",
+      "title": {
+        "fr-FR": "CHAPITRE XV.--Sur le troisième Commandement"
+      }
+    },
+    {
+      "id": "conf-21",
+      "title": {
+        "fr-FR": "CHAPITRE XVI.--Sur le quatrième Commandement"
+      }
+    },
+    {
+      "id": "conf-22",
+      "title": {
+        "fr-FR": "CHAPITRE XVII.--Sur le cinquième Commandement"
+      }
+    },
+    {
+      "id": "conf-23",
+      "title": {
+        "fr-FR": "CHAPITRE XVIII.--Sur le sixième Commandement"
+      }
+    },
+    {
+      "id": "conf-24",
+      "title": {
+        "fr-FR": "CHAPITRE XIX.--Sur le septième Commandement"
+      }
+    },
+    {
+      "id": "conf-25",
+      "title": {
+        "fr-FR": "CHAPITRE XX.--Sur le huitième Commandement"
+      }
+    },
+    {
+      "id": "conf-26",
+      "title": {
+        "fr-FR": "CHAPITRE XXI.--Sur le neuvième Commandement"
+      }
+    },
+    {
+      "id": "conf-27",
+      "title": {
+        "fr-FR": "CHAPITRE XXII.--Sur le dixième Commandement"
+      }
+    },
+    {
+      "id": "conf-28",
+      "title": {
+        "fr-FR": "CHAPITRE XXIII.--Sur les Commandements de l'Église"
+      }
+    },
+    {
+      "id": "conf-29",
+      "title": {
+        "fr-FR": "CHAPITRE XXIV.--Sur les Sacrements"
+      }
+    },
+    {
+      "id": "conf-30",
+      "title": {
+        "fr-FR": "CHAPITRE XXV.--Sur les sept péchés capitaux"
+      }
+    },
+    {
+      "id": "conf-31",
+      "title": {
+        "fr-FR": "CHAPITRE XXVI.--Autre examen pour les personnes suivantes, et premièrement Pour les Ecclésiastiques"
+      }
+    },
+    {
+      "id": "conf-32",
+      "title": {
+        "fr-FR": "CHAPITRE XXVII.--Pour les Religieux et Religieuses"
+      }
+    },
+    {
+      "id": "conf-33",
+      "title": {
+        "fr-FR": "CHAPITRE XXVIII.--Pour les Gouverneurs, Magistrats, et autres Seigneurs t e mp orels: S'ils ont point maltraité et outragé leurs vassaux et sujets"
+      }
+    },
+    {
+      "id": "conf-34",
+      "title": {
+        "fr-FR": "CHAPITRE XXIX.--Pour les Officiers des finances"
+      }
+    },
+    {
+      "id": "conf-35",
+      "title": {
+        "fr-FR": "CHAPITRE XXX.--Pour les Juges et Conseillers: S'ils ont la capacité requise pour exercer leurs offices"
+      }
+    },
+    {
+      "id": "conf-36",
+      "title": {
+        "fr-FR": "CHAPITRE XXXI.--Pour les Capitaines et Soldats: S'ils ont retenu l'argent du roi, qui appartenait à leurs compagnons"
+      }
+    },
+    {
+      "id": "conf-37",
+      "title": {
+        "fr-FR": "CHAPITRE XXXII.--Pour les Sénéchaux des Seigneuries"
+      }
+    },
+    {
+      "id": "conf-38",
+      "title": {
+        "fr-FR": "CHAPITRE XXXIII.--Pour les Gens du Roi, Avocats et Procureurs: S'ils ont manqué de dénoncer, d'informer, ou de se rendre partie"
+      }
+    },
+    {
+      "id": "conf-39",
+      "title": {
+        "fr-FR": "CHAPITRE XXXIV.--Pour les Greffiers"
+      }
+    },
+    {
+      "id": "conf-40",
+      "title": {
+        "fr-FR": "CHAPITRE XXXV.--Pour les Notaires ou Tabellions"
+      }
+    },
+    {
+      "id": "conf-41",
+      "title": {
+        "fr-FR": "CHAPITRE XXXVI.--Pour les Receveurs, Exacteurs et semblables"
+      }
+    },
+    {
+      "id": "conf-42",
+      "title": {
+        "fr-FR": "CHAPITRE XXXVII.--Pour les Huissiers et Sergents"
+      }
+    },
+    {
+      "id": "conf-43",
+      "title": {
+        "fr-FR": "CHAPITRE XXXVIII.--Pour les Enfants"
+      }
+    },
+    {
+      "id": "conf-44",
+      "title": {
+        "fr-FR": "CHAPITRE XXXIX.--Pour les Héritiers"
+      }
+    },
+    {
+      "id": "conf-45",
+      "title": {
+        "fr-FR": "CHAPITRE XL.--Pour les Serviteurs et Servantes"
+      }
+    },
+    {
+      "id": "conf-46",
+      "title": {
+        "fr-FR": "CHAPITRE XLI.--Pour les Tuteurs et Curateurs"
+      }
+    },
+    {
+      "id": "conf-47",
+      "title": {
+        "fr-FR": "CHAPITRE XLII.--Pour ceux qui ont des procès"
+      }
+    },
+    {
+      "id": "conf-48",
+      "title": {
+        "fr-FR": "CHAPITRE XLIII.--Pour les Médecins, Apothicaires et Chirurgiens"
+      }
+    },
+    {
+      "id": "conf-49",
+      "title": {
+        "fr-FR": "CHAPITRE XLIV.--Pour les Marguilliers et autres administrateurs du bien d'Église ou des Hôpitaux: S'ils ont point différé de se dessaisir de l'argent reçu: et il faut"
+      }
+    },
+    {
+      "id": "conf-50",
+      "title": {
+        "fr-FR": "CHAPITRE XLV.--Pour les Marchands et Artisans"
+      }
+    },
+    {
+      "id": "conf-51",
+      "title": {
+        "fr-FR": "CHAPITRE XLVI.--Pour les Taverniers, Cabaretiers et Bouchers: S'ils ont point donné à boire pendant le service divin, contre"
+      }
+    },
+    {
+      "id": "conf-52",
+      "title": {
+        "fr-FR": "CHAPITRE XLVII.--Pour les Simoniaques: S'ils ont vendu ou ont eu volonté d'acheter un bénéfice, ou quelque"
+      }
+    },
+    {
+      "id": "conf-53",
+      "title": {
+        "fr-FR": "CHAPITRE XLVIII.--Cas et vœux réservés, à Sa Sainteté 2 4 1"
+      }
+    },
+    {
+      "id": "conf-54",
+      "title": {
+        "fr-FR": "CHAPITRE XLIX.--Des Empêchements qui rendent le Mariage nul"
+      }
+    },
+    {
+      "id": "conf-55",
+      "title": {
+        "fr-FR": "CHAPITRE L.--Manière très efficace pour convertir les pécheurs 2 4 3"
+      }
+    }
+  ]
+}
