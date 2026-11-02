@@ -1,0 +1,293 @@
+{
+  "id": "chesterton-well-and-the-shallows",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Well and the Shallows",
+    "pt-BR": "O Poço e os Baixios"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A late collection of Chesterton's essays, written as a Catholic of some years' standing. It opens with 'An Apology for Buffoons' and the seven-part 'My Six Conversions', then turns to the return to religion, hermits and asceticism, the Church and the modern mind, distributism and the family, St. Thomas More, and the quarrel with Protestant and sceptical opinion.",
+    "pt-BR": "Coletânea tardia de ensaios de Chesterton, escritos como católico de alguns anos. Abre com 'Uma apologia dos bufões' e a série 'Minhas seis conversões', e segue com o retorno à religião, os eremitas e o ascetismo, a Igreja e a mente moderna, o distributismo e a família, São Tomás More e a controvérsia com a opinião protestante e cética."
+  },
+  "composed": "1935",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/well-and-the-shallows",
+  "editions": {
+    "en-US": {
+      "publisher": "Sheed & Ward, London",
+      "year": 1935
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://gutenberg.net.au/ebooks13/1301661h.html",
+      "edition": "The Well and the Shallows (London: Sheed & Ward, 1935), as transcribed by Project Gutenberg Australia (Roy Glashan, 2013).",
+      "description": "Introductory note and 40 essays (the 'My Six Conversions' series grouped as one part); site furniture and contents dropped. The text in sources/en-US-originals/ is the plain-text extraction of the page's paragraphs and headings (HTML tags removed). Titles set in title case from the transcription's capitals.",
+      "tier": "A",
+      "tierEvidence": "Public domain by author's death: Chesterton died in 1936, so the text has been public domain in Brazil, the UK, the EU, Canada and Australia for more than 70 years. In the US the 1935 book is still within its 95-year term (to 1 Jan 2031) unless unrenewed; no renewal was found in the Copyright Office records (see research/sourcing/chesterton.md). Imported under README decision 3."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introductory-note",
+      "title": {
+        "en-US": "Introductory Note"
+      }
+    },
+    {
+      "id": "an-apology-for-buffoons",
+      "title": {
+        "en-US": "An Apology for Buffoons"
+      }
+    },
+    {
+      "id": "my-six-conversions",
+      "title": {
+        "en-US": "My Six Conversions"
+      },
+      "children": [
+        {
+          "id": "conversion-1-the-religion-of-fossils",
+          "title": {
+            "en-US": "I. The Religion of Fossils"
+          }
+        },
+        {
+          "id": "conversion-2-when-the-world-turned-back",
+          "title": {
+            "en-US": "II. When the World Turned Back"
+          }
+        },
+        {
+          "id": "conversion-3-the-surrender-upon-sex",
+          "title": {
+            "en-US": "III. The Surrender upon Sex"
+          }
+        },
+        {
+          "id": "conversion-4-the-prayer-book-problem",
+          "title": {
+            "en-US": "IV. The Prayer-Book Problem"
+          }
+        },
+        {
+          "id": "conversion-5-the-collapse-of-materialism",
+          "title": {
+            "en-US": "V. The Collapse of Materialism"
+          }
+        },
+        {
+          "id": "conversion-6-the-case-of-spain",
+          "title": {
+            "en-US": "VI. The Case of Spain"
+          }
+        },
+        {
+          "id": "conversion-7-the-well-and-the-shallows",
+          "title": {
+            "en-US": "VII. The Well and the Shallows"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-the-return-to-religion",
+      "title": {
+        "en-US": "The Return to Religion"
+      }
+    },
+    {
+      "id": "04-the-reaction-of-the-intellectuals",
+      "title": {
+        "en-US": "The Reaction of the Intellectuals"
+      }
+    },
+    {
+      "id": "05-levity-or-levitation",
+      "title": {
+        "en-US": "Levity—or Levitation"
+      }
+    },
+    {
+      "id": "06-the-case-for-hermits",
+      "title": {
+        "en-US": "The Case for Hermits"
+      }
+    },
+    {
+      "id": "07-killing-the-nerve",
+      "title": {
+        "en-US": "Killing the Nerve"
+      }
+    },
+    {
+      "id": "08-the-case-of-claudel",
+      "title": {
+        "en-US": "The Case of Claudel"
+      }
+    },
+    {
+      "id": "09-the-higher-nihilism",
+      "title": {
+        "en-US": "The Higher Nihilism"
+      }
+    },
+    {
+      "id": "10-the-ascetic-at-large",
+      "title": {
+        "en-US": "The Ascetic at Large"
+      }
+    },
+    {
+      "id": "11-the-backward-bolshie",
+      "title": {
+        "en-US": "The Backward Bolshie"
+      }
+    },
+    {
+      "id": "12-the-last-turn",
+      "title": {
+        "en-US": "The Last Turn"
+      }
+    },
+    {
+      "id": "13-the-new-luther",
+      "title": {
+        "en-US": "The New Luther"
+      }
+    },
+    {
+      "id": "14-babies-and-distributism",
+      "title": {
+        "en-US": "Babies and Distributism"
+      }
+    },
+    {
+      "id": "15-three-foes-of-the-family",
+      "title": {
+        "en-US": "Three Foes of the Family"
+      }
+    },
+    {
+      "id": "16-the-don-and-the-cavalier",
+      "title": {
+        "en-US": "The Don and the Cavalier"
+      }
+    },
+    {
+      "id": "17-the-church-and-agoraphobia",
+      "title": {
+        "en-US": "The Church and Agoraphobia"
+      }
+    },
+    {
+      "id": "18-back-in-the-fog",
+      "title": {
+        "en-US": "Back in the Fog"
+      }
+    },
+    {
+      "id": "19-the-historic-moment-1",
+      "title": {
+        "en-US": "The Historic Moment (1)"
+      }
+    },
+    {
+      "id": "20-mary-and-the-convert",
+      "title": {
+        "en-US": "Mary and the Convert"
+      }
+    },
+    {
+      "id": "21-a-century-of-emancipation",
+      "title": {
+        "en-US": "A Century of Emancipation"
+      }
+    },
+    {
+      "id": "22-trade-terms",
+      "title": {
+        "en-US": "Trade Terms"
+      }
+    },
+    {
+      "id": "23-frozen-free-thought",
+      "title": {
+        "en-US": "Frozen Free Thought"
+      }
+    },
+    {
+      "id": "24-shocking-the-modernists",
+      "title": {
+        "en-US": "Shocking the Modernists"
+      }
+    },
+    {
+      "id": "25-a-grammar-of-knighthood",
+      "title": {
+        "en-US": "A Grammar of Knighthood"
+      }
+    },
+    {
+      "id": "26-reflections-on-a-rotten-apple",
+      "title": {
+        "en-US": "Reflections on a Rotten Apple"
+      }
+    },
+    {
+      "id": "27-sex-and-property",
+      "title": {
+        "en-US": "Sex and Property"
+      }
+    },
+    {
+      "id": "28-st-thomas-more",
+      "title": {
+        "en-US": "St. Thomas More"
+      }
+    },
+    {
+      "id": "29-the-return-of-caesar",
+      "title": {
+        "en-US": "The Return of Caesar"
+      }
+    },
+    {
+      "id": "30-austria",
+      "title": {
+        "en-US": "Austria"
+      }
+    },
+    {
+      "id": "31-the-scripture-reader",
+      "title": {
+        "en-US": "The Scripture Reader"
+      }
+    },
+    {
+      "id": "32-an-explanation",
+      "title": {
+        "en-US": "An Explanation"
+      }
+    },
+    {
+      "id": "33-why-protestants-prohibit",
+      "title": {
+        "en-US": "Why Protestants Prohibit"
+      }
+    },
+    {
+      "id": "34-where-is-the-paradox",
+      "title": {
+        "en-US": "Where Is the Paradox?"
+      }
+    }
+  ]
+}
