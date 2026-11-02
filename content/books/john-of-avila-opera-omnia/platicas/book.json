@@ -1,0 +1,54 @@
+{
+  "id": "avila-platicas",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Dos pláticas a sacerdotes",
+    "en-US": "Two Talks to Priests",
+    "pt-BR": "Duas palestras a sacerdotes"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Las dos pláticas de san Juan de Ávila a los clérigos de Córdoba sobre la dignidad y las obligaciones del sacerdocio (Elegit nos ab omni vivente; Bonitatem et disciplinam et scientiam doce me), publicadas por primera vez en Córdoba en 1595.",
+    "en-US": "The two talks of St. John of Ávila to the clergy of Córdoba on the dignity and duties of the priesthood (Elegit nos ab omni vivente; Bonitatem et disciplinam et scientiam doce me), first printed at Córdoba in 1595.",
+    "pt-BR": "As duas palestras de São João de Ávila aos clérigos de Córdoba sobre a dignidade e as obrigações do sacerdócio, publicadas pela primeira vez em Córdoba em 1595."
+  },
+  "composed": "c. 1560",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-avila/platicas",
+  "editions": {
+    "es-ES": {
+      "editor": "Apostolado de la Prensa (1941), reprinted by Apostolado Mariano",
+      "year": 2007
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obras-de-san-juan-de-avila-tomo-2",
+      "edition": "Obras de San Juan de Ávila, tomo I (Audi, filia; Documentos espirituales; Pláticas a sacerdotes), Madrid: Apostolado de la Prensa 1941 / Sevilla: Apostolado Mariano 2007; archive.org upload, Tesseract OCR.",
+      "description": "The two Dos pláticas a sacerdotes with the editor's footnotes. The other pláticas (to nuns and others) of the critical edition are not in this volume.",
+      "tier": "B",
+      "tierEvidence": "Ávila's text is public domain; the edition is freely posted on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "platica-1",
+      "title": {
+        "es-ES": "Plática primera a los clérigos de Córdoba"
+      }
+    },
+    {
+      "id": "platica-2",
+      "title": {
+        "es-ES": "Plática segunda a los clérigos de Córdoba"
+      }
+    }
+  ]
+}
