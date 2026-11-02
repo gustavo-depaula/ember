@@ -1,0 +1,519 @@
+{
+  "id": "bellarmine-controversiae-de-poenitentia",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramento poenitentiae",
+    "en-US": "On the Sacrament of Penance",
+    "pt-BR": "Sobre o sacramento da penitência"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De sacramento poenitentiae. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the sacrament of penance: contrition, confession, satisfaction, indulgences. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre o sacramento da penitência."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-poenitentia",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia04bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 4 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Deteguntur imposturae, et mendacia quaedam crassiora Lutheri",
+            "en-US": "Caput II. Deteguntur imposturae, et mendacia quaedam crassiora Lutheri"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III",
+            "en-US": "Caput III"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Calumnias, et mendacia Tilmanni Heshusii",
+            "en-US": "Caput IV. Calumnias, et mendacia Tilmanni Heshusii"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Calumniae et mendacia Joannis Calvini, et Theodori Bezae",
+            "en-US": "Caput V. Calumniae et mendacia Joannis Calvini, et Theodori Bezae"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. De nomine Poenitentiae",
+            "en-US": "Caput VII. De nomine Poenitentiae"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. PROPONITUR CONTROVERSIA PRIMA",
+            "en-US": "Caput VIII. PROPONITUR CONTROVERSIA PRIMA"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Explicantur sententia Adversariorum de proposita qusestione",
+            "en-US": "Caput IX. Explicantur sententia Adversariorum de proposita qusestione"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Poenitentiam Sacramentum esse proprie dictum",
+            "en-US": "Caput X. Poenitentiam Sacramentum esse proprie dictum"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI",
+            "en-US": "Caput XI"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. An Poenitentiae Sacramentum a Sacramento Baptismi diversum sit",
+            "en-US": "Caput XII. An Poenitentiae Sacramentum a Sacramento Baptismi diversum sit"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Probatur veritas",
+            "en-US": "Caput XIII. Probatur veritas"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. De partibus essentialibus Sacramenti Poenitentiae",
+            "en-US": "Caput XV. De partibus essentialibus Sacramenti Poenitentiae"
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI",
+            "en-US": "Caput XVI"
+          }
+        },
+        {
+          "id": "b1c17",
+          "title": {
+            "la": "Caput XVII. De partibus materialibus Sacramenti Poenitentiae: Quaestio inter Catholicos",
+            "en-US": "Caput XVII. De partibus materialibus Sacramenti Poenitentiae: Quaestio inter Catholicos"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX. Refelluntur sententise Haereticorum, et Catholica confirmatur",
+            "en-US": "Caput XIX. Refelluntur sententise Haereticorum, et Catholica confirmatur"
+          }
+        },
+        {
+          "id": "b1c20",
+          "title": {
+            "la": "Caput XX. Respondetur ad argumenta A dversariorum",
+            "en-US": "Caput XX. Respondetur ad argumenta A dversariorum"
+          }
+        },
+        {
+          "id": "b1c21",
+          "title": {
+            "la": "Caput XXI. De tertia partitione Poenitentiae, in privatam, publicam, et solemnem",
+            "en-US": "Caput XXI. De tertia partitione Poenitentiae, in privatam, publicam, et solemnem"
+          }
+        },
+        {
+          "id": "b1c22",
+          "title": {
+            "la": "Caput XXII. De ritibus Pcenitentise solemnis",
+            "en-US": "Caput XXII. De ritibus Pcenitentise solemnis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. Proponitur doctrina Catholica",
+            "en-US": "Caput I. Proponitur doctrina Catholica"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Contritionem esse actionem bonam, et liberam atque ad Evangelium pertinentem",
+            "en-US": "Caput II. Contritionem esse actionem bonam, et liberam atque ad Evangelium pertinentem"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. cum eorum testimonia in laudem Poeitentia? sive Contritionis passim occurrant",
+            "en-US": "Caput III. cum eorum testimonia in laudem Poeitentia? sive Contritionis passim occurrant"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. CAPUT IV",
+            "en-US": "Caput IV. CAPUT IV"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Solvuntur objectiones",
+            "en-US": "Caput V. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. In Contritione includi propositum recte vivendi",
+            "en-US": "Caput VI. In Contritione includi propositum recte vivendi"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Solvuntur objectiones",
+            "en-US": "Caput VII. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Contritionem ad justificationem omnino necessariam esse",
+            "en-US": "Caput VIII. Contritionem ad justificationem omnino necessariam esse"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Solvuntur objectiones",
+            "en-US": "Caput IX. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. De quantitate Contritionis",
+            "en-US": "Caput X. De quantitate Contritionis"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. enim ad rem nostram hoc loco non pertinet",
+            "en-US": "Caput XI. enim ad rem nostram hoc loco non pertinet"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Contritionem causam esse remissionis peccatorum",
+            "en-US": "Caput XII. Contritionem causam esse remissionis peccatorum"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII",
+            "en-US": "Caput XIII"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Solvuntur objectiones",
+            "en-US": "Caput XIV. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Nullum esse peccatum, quod per veram Poenitentiam non deleatur",
+            "en-US": "Caput XV. Nullum esse peccatum, quod per veram Poenitentiam non deleatur"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI",
+            "en-US": "Caput XVI"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Contritionem imperfectam, sive attritionem ex timore pcense ortam, bonam atque utilem esse",
+            "en-US": "Caput XVII. Contritionem imperfectam, sive attritionem ex timore pcense ortam, bonam atque utilem esse"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. Solvuntur objectiones",
+            "en-US": "Caput XVIII. Solvuntur objectiones"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. De erroribus circa Confessionis necessitatem",
+            "en-US": "Caput I. De erroribus circa Confessionis necessitatem"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II",
+            "en-US": "Caput II"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Confirmatur eadem veritas ex figuris, quae Confessionem sacramentalem praecesserunt",
+            "en-US": "Caput III. Confirmatur eadem veritas ex figuris, quae Confessionem sacramentalem praecesserunt"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. Confirmatur eadem veritas ex aliis locis novi Testamenti",
+            "en-US": "Caput IV. Confirmatur eadem veritas ex aliis locis novi Testamenti"
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. Testimonia Patrum ab anno 200 ad 300",
+            "en-US": "Caput VII. Testimonia Patrum ab anno 200 ad 300"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Testimonia Patrum ab anno 300. ad 400",
+            "en-US": "Caput VIII. Testimonia Patrum ab anno 300. ad 400"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX",
+            "en-US": "Caput IX"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. Testimonia reliquorum Patrum ab anno 500. ad 1200",
+            "en-US": "Caput X. Testimonia reliquorum Patrum ab anno 500. ad 1200"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. Refelluntur solutiones Kemnitii ad loca Patrum",
+            "en-US": "Caput XI. Refelluntur solutiones Kemnitii ad loca Patrum"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. Confessionem esse juris divini, confirmatur aliquot argumentis",
+            "en-US": "Caput XII. Confessionem esse juris divini, confirmatur aliquot argumentis"
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. Solvitur argumentum I Joannis Calvini,",
+            "en-US": "Caput XIII. Solvitur argumentum I Joannis Calvini,"
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. Solvitur argumentum II. Calvini, ubi tractatur historia de facto Nectarii",
+            "en-US": "Caput XIV. Solvitur argumentum II. Calvini, ubi tractatur historia de facto Nectarii"
+          }
+        },
+        {
+          "id": "b3c15",
+          "title": {
+            "la": "Caput XV. Solvitur argumentum III. Joannis Calvini",
+            "en-US": "Caput XV. Solvitur argumentum III. Joannis Calvini"
+          }
+        },
+        {
+          "id": "b3c16",
+          "title": {
+            "la": "Caput XVI. Argumentum IV. Calvini",
+            "en-US": "Caput XVI. Argumentum IV. Calvini"
+          }
+        },
+        {
+          "id": "b3c17",
+          "title": {
+            "la": "Caput XVII. Diluitur argumentum V. Calvini",
+            "en-US": "Caput XVII. Diluitur argumentum V. Calvini"
+          }
+        },
+        {
+          "id": "b3c18",
+          "title": {
+            "la": "Caput XVIII. Diluitur /. objectio Martini Kemnitii",
+            "en-US": "Caput XVIII. Diluitur /. objectio Martini Kemnitii"
+          }
+        },
+        {
+          "id": "b3c19",
+          "title": {
+            "la": "Caput XIX. Diluitur II. objectio Kemnitii",
+            "en-US": "Caput XIX. Diluitur II. objectio Kemnitii"
+          }
+        },
+        {
+          "id": "b3c20",
+          "title": {
+            "la": "Caput XX. Diluitur III. objectio Kemnitii, et simul objectiones Brentii",
+            "en-US": "Caput XX. Diluitur III. objectio Kemnitii, et simul objectiones Brentii"
+          }
+        },
+        {
+          "id": "b3c21",
+          "title": {
+            "la": "Caput XXI. Solvitur IV. objectio Kemnitii",
+            "en-US": "Caput XXI. Solvitur IV. objectio Kemnitii"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    }
+  ]
+}
