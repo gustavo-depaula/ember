@@ -58,8 +58,10 @@ def page_body(pg):
         else: x += 1
     mid = best[1]
     if DEBUG: print('MID', mid, best)
-    cols = {0: [], 1: []}
+    cols = {0: [], 1: []}; centred = []
     for ws in lines:
+        if ws[0][0] < mid - 30 and ws[-1][2] > mid + 30 and ws[-1][2] - ws[0][0] < 0.45 * W:   # a centred head, not a column line
+            centred.append(ws); continue
         l = [x for x in ws if (x[0] + x[2]) / 2 < mid]; r = [x for x in ws if (x[0] + x[2]) / 2 >= mid]
         if l: cols[0].append(l)
         if r: cols[1].append(r)
@@ -69,7 +71,7 @@ def page_body(pg):
         L = cols[ci]
         wide = [ws for ws in L if ws[-1][2] - ws[0][0] > 500]
         if len(wide) < 5: continue
-        left = edge([ws[0][0] for ws in wide if ws[0][0] > (150 if ci == 0 else mid + 20)] or [ws[0][0] for ws in wide])
+        left = edge([ws[0][0] for ws in wide if ws[0][0] > (60 if ci == 0 else mid + 20)] or [ws[0][0] for ws in wide])
         right = edge([ws[-1][2] for ws in wide], True)
         # drop marginal words
         L2 = []
@@ -89,6 +91,7 @@ def page_body(pg):
         # a note that the pitch test missed (a one- or two-line note at the foot): from its marker line to the column end
         mark = next((i for i, ws in enumerate(L2) if tops[i] > 0.55 * pg['h'] and NOTE_MARK.match(' '.join(x[4] for x in ws))), len(L2))
         sm = [f or i >= mark for i, f in enumerate(sm)]
+        if DEBUG: print(ci, [(int(t), f, ws[0][4]) for t, f, ws in zip(tops, sm, L2)][:6], left, right)
         body = [ws for ws, f in zip(L2, sm) if not f]
         runs = [ws for ws, f in zip(L2, sm) if f]
         bh = statistics.median([lh(ws) for ws in body]) if body else 29
@@ -96,7 +99,7 @@ def page_body(pg):
         for ws in body:
             t = ' '.join(x[4] for x in ws)
             keyed.append(((ci, statistics.median([x[3] for x in ws])), (t, ws[0][0] > left + 40, ws, left, right)))
-    for ws in big:
+    for ws in big + centred:
         c = 0 if (ws[0][0] + ws[-1][2]) / 2 < mid + 0.12 * W else 1
         keyed.append(((c, statistics.median([x[3] for x in ws]) - 0.5), ('@@' + ' '.join(x[4] for x in ws), False, ws, 0, 0)))
     keyed.sort(key=lambda k: k[0])
@@ -114,7 +117,7 @@ RUNHEAD_R = re.compile(r'\s+(?:C[O0]LL\w{0,5}|SERMO)[ .]+[IVXLlHU1]{1,7}[.,]?(?:
 SUMM = re.compile(r'^[SB5]\s?[uUn][mn][mn]\s?[aA][rR]', re.I)
 COLL = re.compile(r'^(?:COLLATIO|COLL\w{0,4}[ .]*\w{0,3}|C[O0]LL[A-Z.\\]{2,6})\s+([IVXLlHU1]+)\.?$')
 
-def stream(pages, a, b):
+def stream(pages, a, b, heads=None):
     """Body lines of djvu pages a..b (1-based): ('H', text) for all-caps heads that matter, ('L', text, indent) for text."""
     out = []
     for n in range(a, b + 1):
@@ -126,28 +129,29 @@ def stream(pages, a, b):
             title = [' '.join(x[4] for x in ws) for ws in span[:si]]
             out.append(('S', join(title)))
         body, _ = page_body(pg)
-        for t, ind, *_ in body:
+        for t, ind, ws_, lft, rgt in body:
             t = re.sub(r'\s+', ' ', t).strip()
             if not t: continue
             if t.startswith('@@'): out.append(('H', t[2:])); continue
             t = RUNHEAD_L.sub('', t); t = RUNHEAD_R.sub('', t)   # a page head the OCR merged into the first/last text line
             if not t: continue
+            if heads and heads.match(t) and len(t) < 40: out.append(('H', t)); continue
             if HEAD.match(t) and not re.match(r'^\d+[.,] ', t):
                 continue
-            out.append(('L', t, ind))
+            out.append(('L', t, ind, bool(ws_) and ws_[-1][2] < rgt - 110))
     return out
 
 def paragraphs(items, newpara=None):
     """items from stream -> list of ('H', text) / ('P', text); a paragraph starts at an indented line or a numbered one."""
-    res = []; cur = []
+    res = []; cur = []; prev_short = False
     def flush():
         nonlocal cur
         if cur: res.append(('P', join(cur))); cur = []
     for it in items:
         if it[0] in 'HS': flush(); res.append(it); continue
-        _, t, ind = it
-        if (ind or re.match(r'^\d{1,2}\s?[.,] ?[A-Z]', t)) and cur: flush()
-        cur.append(t)
+        _, t, ind, short = it
+        if cur and (re.match(r'^\d{1,2}\s?[.,] ?[A-Z]', t) or (ind and (prev_short or re.search(r'[.:;?!)\]»]$', cur[-1])))): flush()
+        cur.append(t); prev_short = short
     flush()
     return res
 
@@ -166,9 +170,9 @@ def roman(n):
 
 def head_roman(t):
     """Roman numeral token at the end of an OCR'd head ('COLLATIO XIIL' -> 'XIII'), None if there is none."""
-    m = re.search(r'\b([IiVXLlUYKH1Nn]{1,7})\.?\s*$', t)
+    m = re.search(r'\b([IiVXLlUYKH1NnJT]{1,7})\.?\s*$', t)
     if not m: return None
-    r = m.group(1).replace('n', 'II').replace('N', 'II').replace('l', 'I').upper().replace('1', 'I').replace('Y', 'V').replace('K', 'V').replace('U', 'II').replace('H', 'II')
+    r = m.group(1).replace('n', 'II').replace('N', 'II').replace('l', 'I').replace('J', 'I').replace('T', 'I').upper().replace('1', 'I').replace('Y', 'V').replace('K', 'V').replace('U', 'II').replace('H', 'II')
     if r.endswith('L'): r = r[:-1] + 'I'
     return r
 
