@@ -39,6 +39,12 @@
   ],
   "toc": [
     {
+      "id": "p1-00",
+      "title": {
+        "la": "Prooemium"
+      }
+    },
+    {
       "id": "p1-01",
       "title": {
         "la": "1. De renuntiatione saeculi"
@@ -71,7 +77,7 @@
     {
       "id": "p1-06",
       "title": {
-        "la": "6. Confessorum"
+        "la": "6. De labore et oratione confessorum"
       }
     },
     {
