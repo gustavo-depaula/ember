@@ -1,0 +1,122 @@
+{
+  "id": "fenelon-lettres-juridiction",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres et mémoires sur la juridiction épiscopale et métropolitaine de l’archevêque de Cambrai",
+    "en-US": "Letters and Memoranda on the Episcopal and Metropolitan Jurisdiction of the Archbishop of Cambrai",
+    "pt-BR": "Cartas e memoriais sobre a jurisdição episcopal e metropolitana do arcebispo de Cambrai"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Quatrième section de la correspondance : lettres et mémoires de Fénelon sur ses droits et ses devoirs d’archevêque de Cambrai (juridiction, visites, régime ecclésiastique de son diocèse). Les lettres adressées à Fénelon sont imprimées avec les siennes là où l’édition les place.",
+    "en-US": "Fourth section of the correspondence: letters and memoranda by Fénelon on his rights and duties as Archbishop of Cambrai (jurisdiction, visitations, ecclesiastical governance of his diocese). Letters written to Fénelon are printed with his own where the edition places them.",
+    "pt-BR": "Quarta seção da correspondência: cartas e memoriais de Fénelon sobre seus direitos e deveres como arcebispo de Cambrai (jurisdição, visitas, regime eclesiástico de sua diocese). As cartas escritas a Fénelon são impressas com as dele onde a edição as coloca."
+  },
+  "composed": "1695–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-et-memoires-juridiction",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte08fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 8, tome 8, section IV; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-juridiction",
+      "title": {
+        "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai"
+      },
+      "children": [
+        {
+          "id": "01-juridiction-01",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 1"
+          }
+        },
+        {
+          "id": "01-juridiction-02",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 2"
+          }
+        },
+        {
+          "id": "01-juridiction-03",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 3"
+          }
+        },
+        {
+          "id": "01-juridiction-04",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 4"
+          }
+        },
+        {
+          "id": "01-juridiction-05",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 5"
+          }
+        },
+        {
+          "id": "01-juridiction-06",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 6"
+          }
+        },
+        {
+          "id": "01-juridiction-07",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 7"
+          }
+        },
+        {
+          "id": "01-juridiction-08",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 8"
+          }
+        },
+        {
+          "id": "01-juridiction-09",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 9"
+          }
+        },
+        {
+          "id": "01-juridiction-10",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 10"
+          }
+        },
+        {
+          "id": "01-juridiction-11",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 11"
+          }
+        },
+        {
+          "id": "01-juridiction-12",
+          "title": {
+            "fr-FR": "Lettres et mémoires sur la juridiction de l’archevêque de Cambrai, partie 12"
+          }
+        }
+      ]
+    }
+  ]
+}
