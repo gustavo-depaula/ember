@@ -1,0 +1,13 @@
+# Introduction to the Deposition
+
+Taken from pages 191 to 311 of the Process drawn up by Apostolic Authority at Annecy in 1627, by their Lordships Andrew Fremyot, Archbishop of Bourges, John Peter Camus, Bishop of Belley, and the Reverend George Ramus, Protonotary Apostolic, concerning the Cause of the Beatification and Canonisation of Saint Francis de Sales; and collated with another Process drawn up in the same Cause, at the afore-mentioned Annecy in 1658, volume six, page 230 to page 346, line 9.
+
+IN THE NAME OF GOD. AMEN.
+
+In the year 1627, Indiction X, on July 27, at eight o'clock in the morning, it being neither a day of obligation, nor a feast day, but a lawful day, in the fourth year of the Pontificate of Pope Urban VIII, before the Most Illustrious and Right Reverend Andrew Frumyot, Lord Arch bishop of Bourges, John Peter Camus, Lord Bishop of Belley, and the Very Reverend George
+
+46 Saint Sane #. tie CfjantaPs Depositions
+
+Ramus, Protonotary Apostolic, all three judges sub-delegated by tbe Sacred Congregation of Kites to draw up, by apostolic authority, the Process concerning the life and miracles of the servant of God, Francis of Sales, Bishop of Geneva : the aforesaid Judges holding their court in the parlour of the Convent of this town of Annecy, which is the place they have chosen and appointed for receiving the oaths and de positions of the devout Nuns of the said Convent of the Visitation, and at the request of the Very Reverend Father Dom Justus Guerin, of the Order of the Clerks-regular of St. Paul, Provincial of Piedmont, and representative in this Cause of His Highness Victor Amadeus of Savoy, Prince of Piedmont, and of the Venerable Chapter of the Cathedral Church of St. Peter at Geneva, and also of all the Venerable Clergy of the same diocese, and further of the Syndics and Councillors of the town of Annecy, there appeared Jane Frances Fremyot, First Religious of the Order of the Visitation, who, on account of her excellent virtues was the Foundress of ten Convents of the same order. She was presented as a witness before the delegated Judges, and summoned on the fourth of this month, by the Venerable John Favre, one of the officials appointed in this Cause, as is officially proved by the account of the serving of the summons. After due warning, by the delegated Judges, of the gravity of perjury, she was sworn, before the said Judges, laying her hand upon her heart, to tell the truth in this
+
+Cause, both in answer to the preliminary questions and concerning the points to be investigated, and the whole of the present Cause, without being moved by hatred or favouritism or self-seeking or any other human consideration. She was then examined as follows :

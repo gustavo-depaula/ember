@@ -1,0 +1,19 @@
+# Article quatrième. Sa conduite pendant ses études à Annecy et à Paris
+
+Ad quartum respondit :
+
+Je dis que la voix publique et notoire est qu'il fut envoyé par ses parents au collège d'Annecy, où bientôt il se rendit recommandable à ses compagnons. M. de Sales ' , prévôt de la cathédrale de Genève , homme de vie exemplaire et de grande doctrine, m'a dit que la seule présence de notre Bienheureux Père tenait les autres écoliers , ses compagnons, en respect ; même que dès lors il avait cette gravité et ce maintien judicieux et humble qu'il a eu toute sa vie ; qu'il supportait avec patience et douceur les humeurs impertinentes des autres écoliers ; qu'il était si compassif à leurs fautes que souvent il s'offrait de recevoir les châtiments qu'ils avaient mérités; et lorsque ses compagnons allaient à l'ébat, sur le soir, il demeurait au logis, et invitait la dame chez laquelle il était en pension à entendre la lecture de la Vie des Saints en lui disant : Ma tante, fai bien quelque chose de bon à vous dire.
+
+Ce Bienheureux Prélat m'a dit que Dieu , dès sa jeunesse, lui avait appris à se confler en sa providence céleste.
+
+Il m'a dit aussi que, croissant en âge, messieurs ses parents l'envoyèrent à Paris sous la conduite deM. Déage, son précepteur, prêtre de grande doctrine et de bonne vie, lequel sieur Déage a dit une infinité de fois que ce Bienheureux lui obéissait et l'honorait exactement, et a assuré qu'il se rendait si agréable à tous par sa modestie , qu'on prenait plaisir à le regarder quand ce Bienheureux allait par les rues ; même que les artisans le remarquaient parmi ses compagnons, et que jamais ce Bien-
+
+heureux ne lui avait baillé du mécontentement par ses déportements, ni études, et qu'aussi il ne lui fit oncques aucun châtiment, sinon un soufflet ou repoussement , parce qu'il s'employait à obtenir pardon pour un de ses compagnons, et qu'alors ce saint jeune homme se retira en paix sans plainte ; qu'il ne sortait point du logis sans congé , bien qu'il l'eût pu faire étant déjà grand, et que quand son précepteur le lui refusait , il se retirait en sa chambre sans se fâcher.
+
+Ce Bienheureux me raconta une fois, pour me conforter en quelque trouble que j'avais , qu'étant écolier à Paris , il tomba en de grandes tentations et extrêmes, angoisses d'esprit; il lui semblait absolument qu'il était réprouvé , et qu'il n'y avait point de salut pour lui, dont il transissait surtout au souvenir de l'impuissance que les damnés ont d'aimer Dieu et de voir la Très-Sainte Vierge.
+
+Nonobstant l'excès de ce travail, il eut toujours, au fond de son esprit , cette résolution d'aimer et servir Dieu de toutes ses forces durant sa vie, et d'autant plus affeclionnément et fidèlement qu'il lui semblait qu'il n'en aurait le pouvoir pour l'éternité. Ce travail lui dura trois semaines pour le moins , ou environ six, selon qu'il me peut souvenir , avec telle violence , qu'il perdit quasi tout le manger et le dormir, et devint tout maigre et jaune comme de cire, dont son précepteur était en très-grande peine.
+
+Or, un jour qu'il plut à la divine Providence de le délivrer, ce Bienheureux, comme il retournait du palais, passant par devant une église, le nom de laquelle j'ai oublié, il y entra pour faire son oraison, il s'alla mettre devant un autel de Notre- Dame, où il se trouva une oraison qui était collée sur un ais, qui se commence : Souvenez-vous , o glorieuse V/ej-ge Marie, que personne ne s'est adressé à vous, etc. ; et il la dit tout du long, puis se leva, et en ce même instant se trouva parfaitement et enlièrement guéri, et il lui sembla que son mal était tombé sur ses pieds comme des écailles d'une lèpre. Et ceci est vrai, public et notoire, comme je l'ai spécifié.[^1]
+
+[^1]: C'est le chanoine Louis de Sales, qui succéda à saint François de Sales dans la dignité de prévôt.

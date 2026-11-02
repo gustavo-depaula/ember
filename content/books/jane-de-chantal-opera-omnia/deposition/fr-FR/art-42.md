@@ -1,0 +1,37 @@
+# Article quarante-deuxième. Son assiduité au confessionnal
+
+Ad quadracjesimum secundum articulum respondit :
+
+Je dis que notre Bienheureux Fondateur a été tout à fait incomparable en la charité qu'il a exercée au confessionnal et au zèle avec lequel il s'y employait. Il se donnait tout entier à ce saint exercice sans mesure ni limite que de la nécessité de ceux qui recouraient à lui ; il quittait tout pour cela, excepté qu'il fût occupé pour quelque affaire plus importante à la gloire de Dieu, parce qu'il savait qu'en ce sacrement se faisait le grand profit des âmes. Tous les dimanches et fêtes, quantité de personnes qui y venaient, seigneurs, dames , bourgeois, soldats, chambrières, paysans, mendiants, personnes malades, galeuses, puantes et remplies de grandes abjections, il les recevait tous sans différence ni acception de personne, avec égal amour et douceur; car jamais il ne refusait aucune créature pour chétive qu'elle fût ; au contraire , je crois fermement qu'il les recevait avec plus de charité intérieure , et les caressait plus tendrement que les riches et bien faits, et disait que c'était où s'exerçait la vraie charité. Les enfants mêmes n'étaient pas éconduits par ce Bienheureux ; ains il les recevait si amiablcment qu'ils prenaient plaisir d'y retourner.
+
+Il donnait à ses pénitents tout le temps et le loisir qu'ils désiraient pour se bien déclarer. Jamais il ne les pressait. Et en outre, de tous les jours susdits, à quel jour et heure qu'on le demandât, il quittait tout, même quelquefois d'aller à l'Office de la cathédrale, il retardait de dire la sainte messe, bien qu'il fût tout revêtu, il quittait ses repas, bien que ses gens s'en plaignaient et l'en voulussent détourner.
+
+Aux grandes fêtes, jubilés et autres occasions semblables, il fallait souvent qu'il entendît les confessions de jour et de nuit, dont je le vis une fois tout accablé : " Ces jours, me disait-il , )) me sont au poids de l'or, pour la multitude des confessions.» Aussi disait-il à ses pénitents pour leur donner confiance : « Ne " faites point de différence entre votre cœur et le mien; je suis n tout vôtre, nos âmes sont égales, u m'écrivit un jour : « Nous avons eu ici un grand jubilé qui m'a - !enu occupé, mais consolé en la réception de plusieurs con- " fessions générales et changements de conscience, si que je " moissonne avec des larmes, partie de joie, partie d'amour, " parmi nos pénitents. »
+
+II m'écrivit une autre fois : a II y a quatre jours que j'ai reçu » au giron de l'Église et en confession un gentilhomme de vingt « ans. Sauveur de mon âme ! quelle joie de le voir si sainte- " ment accuser ses péchés, et parmi les discours d'iceux faire " voir une Providence de Dieu si spéciale et si particulière à le " retirer par des mouvements et ressorts si cachés à l'œil hu- " main, si relevés et admirables! il me mit hors de moi-même. •' Que de baisers de paix je lui donnai! »
+
+Quand il connaissait qu'on avait peine à se faire entendre en confession ou par honte ou par crainte, il tâchait par tous moyens d'ouvrir le cœur et accroître la confiance. « Ne suis-je >. pas voire père?» et disait cela jusqu'à ce qu'on lui eût dit oui; et sur cela : « Ne voulez-vous pas bien me dire tout? Dieu attend " que vous ouvriez votre cœur, il a les bras ouverts pour vous " recevoir. Voyez-vous je tiens la place de Dieu , et vous avez « honte de moi ! mais au partir de là je suis pécheur, et si vous « aviez fait tous les maux du monde, je ne m'en étonnerais » point. »
+
+II aidait même avec une douceur non pareille à expliquer les péchés quand il voyait que par ignorance ou par honte on avait peine à les dire.
+
+Après la confession il disait des paroles si cordiales : « Qhl " que votre âme m'est chère, et tout ce qu'elle m'a déclaré ! et " les anges maintenant se réjouissent et font fêle sur celte ac- " tion , et moi je vous en féUcite avec eux; mais il faut pour- » tant bien promettre à Notre Seigneur de n'y retourner pas, et " à moi aussi. »
+
+Quand il voyait qu'il n'y avait pas contrition, il faisait dire quelques courles paroles, comme : « Vous voudriez n'avoir jamais offensé Dieu, n'est-ce pas? « Et quelquefois il faisait redire quelque chose de ce qu'on s'était accusé pour faire rompre la répugnance qu'on avait à le dire.
+
+Il donnait de fort petites pénitences, et disait : « Ne ferez-vous pas bien ce que je vous dirai? dites donc telle chose » , qui était quelque oraison vocale que l'on piit dire aisément, et n'ordonnait point de faire des considérations sur quelque mystère ou semblables pour pénitence.
+
+Il aimait grandement que l'on fût clair, simple et naïf à la confession, et disait à ses pénitents qu'il fallait bien faire entendre les mouvements par lesquels on fait les fautes, et que l'on ne se confessât point à la légère, ains que l'on fit bien voir à son confesseur tous les ressorts et mouvements par lesquels on commet les péchés; que si l'on faisait autrement on ne pouvait jamais être bien nettoyé. Et par ce zèle qu'il avait d'épurer les âmes par des confessions claires, il a arraché des passions mauvaises que d'autres eussent pu laisser pour ne pas tenir cette méthode.
+
+Avec cette incomparable débonnaireté , il ouvrait les cœurs les plus fermés, il en tirait tout le mal qui était dedans, et y établissait des affections et résolutions solides. Il était incomparablement résolutif, et éclaircissait les doutes et scrupules de conscience sur-le-champ, inspirant dans leur intérieur un parfait accoisement et repos.
+
+Le même jour, à deux heures après-midi.
+
+En continuant sur le précédent article quarante-deuxième, je dis que l'on ne saurait nombrer le grand nombre de personnes, qui, par le moyen de noire Bienheureux, se sont avancées à la perfection chrétienne; véritablement cela n'est croyable, sinon à ceux qui l'ont va comme nous, qui avons vu plusieurs de ses pénitents avec des ardents désirs, qui de changement [de vie], qui d'avancement en la perfection. Bref, chacun qui s'approchait dûment en sortait avec grand profit de leurs âmes et désir nouveau de retourner à lui, et se donnaient les uns aux autres du courage et de l'envie pour cela.
+
+Je dis en ceci ce que j'ai vu à Paris où il confessait souvent dans notre église, et à Grenoble de même; c'était une aflluence de toutes sortes de personnes de qualité de l'un ou de l'autre sexe. Dieu seul peut savoir le nombre inflai d'âmes que Sa Majesté divine s'est acquises par l'entremise de ce Bienheureux; car sa réputation, répandue partout, qu'il était l'unique en douceur et en piété , et qu'en matière de bien gouverner les âmes il était incomparable, faisait qu'on accourait à lui de toutes parts.
+
+Quand on savait qu'il passait par des villes et qu'il allait par les champs en quelque maison de ses amis, partout il fallait ouïr des confessions générales; et comme il disait, toujours on lui gardait le fond des consciences et ce que l'on avait grande difficulté de dire aux autres. Et ceci est vrai, notoire et public.[^1][^2]
+
+[^1]: a pleuré avec quelques-uns leurs péchés, et traitait si amiablement ses pénitents, qu'ils se fondaient devant lui. Il i'jii
+
+[^2]: parlait peu en confession , sinon pour lever les vains scrupules et jiour éclairer ses pénitents de ce qui était péché ou qui ne l'était pas; et ce qu'il disait touchait davantage le cœur que les grands discours n'eussent pu faire; et l'on sortait de devant lui avec grand courage et souvent avec recueillement et grand sentiment de Dieu. « Oh I que le service des âmes , m'écrivit-il une fois , m'est » une douce el honorable peine ! »

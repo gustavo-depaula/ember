@@ -1,0 +1,467 @@
+{
+  "id": "chantal-deposition",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Déposition pour la canonisation de saint François de Sales",
+    "en-US": "Deposition in the Cause of the Canonisation of St. Francis de Sales",
+    "pt-BR": "Depoimento para a canonização de são Francisco de Sales"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "La déposition de sainte Jeanne-Françoise de Chantal au procès apostolique d’Annecy (1627) pour la béatification et la canonisation de saint François de Sales : les six interrogats, puis cinquante-cinq articles sur l’enfance, la jeunesse, l’apostolat et les vertus du saint évêque, suivis de la lettre qu’elle écrivit au père dom Jean de Saint-François.",
+    "en-US": "The deposition of St. Jane Frances de Chantal at the apostolic process of Annecy (1627) for the beatification and canonisation of St. Francis de Sales: the six preliminary questions and fifty-five points on the childhood, youth, apostolate and virtues of the holy bishop. The French edition adds her letter to Dom Jean de Saint-François.",
+    "pt-BR": "O depoimento de santa Joana Francisca de Chantal no processo apostólico de Annecy (1627) para a beatificação e canonização de são Francisco de Sales: os seis interrogatórios e cinquenta e cinco artigos sobre a infância, a juventude, o apostolado e as virtudes do santo bispo, seguidos da carta ao padre dom João de São Francisco."
+  },
+  "composed": "1627",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "jane-de-chantal/deposition",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1876
+    },
+    "en-US": {
+      "translator": "J. S., revised by a priest of the Archdiocese of Westminster (Visitation Convent, Harrow)",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_3",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1876, tome III (Œuvres diverses II), pp. 93–248: Déposition. Archive.org OCR of the Sainte-Geneviève copy.",
+      "description": "OCR cleaned by script; running heads removed, notes turned into footnotes. The Latin formula before each answer (Ad primum respondit) is the notary’s and is kept.",
+      "tier": "A",
+      "tierEvidence": "Plon 1876; text of 1627."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/themysticalexpla00franuoft",
+      "edition": "The Mystical Explanation of the Canticle of Canticles … and the Depositions of St. Jane Frances de Chantal (Library of St. Francis de Sales, vol. VI), Visitation Convent, Harrow / Burns & Oates, 1908. Part II. Archive.org OCR (Toronto scan).",
+      "description": "OCR cleaned by script. The English follows the French in the same 55 points; the final letter to Dom Jean de Saint-François is not in this volume.",
+      "tier": "A",
+      "tierEvidence": "Published 1908."
+    }
+  ],
+  "toc": [
+    {
+      "id": "teneur",
+      "title": {
+        "fr-FR": "Teneur de la déposition de la vénérable Mère Jeanne-Françoise Frémyot de Chantal",
+        "en-US": "Introduction to the Deposition"
+      }
+    },
+    {
+      "id": "interrogats",
+      "title": {
+        "fr-FR": "Interrogats",
+        "en-US": "Preliminary Questions"
+      }
+    },
+    {
+      "id": "art-01",
+      "title": {
+        "fr-FR": "Article premier. Détails sur les père et mère du serviteur de Dieu",
+        "en-US": "First point. Particulars concerning the father and mother of the servant of God"
+      }
+    },
+    {
+      "id": "art-02",
+      "title": {
+        "fr-FR": "Article second. Son enfance",
+        "en-US": "Second point. His childhood"
+      }
+    },
+    {
+      "id": "art-03",
+      "title": {
+        "fr-FR": "Article troisième. La charité qu’il témoignait dès son enfance pour les pauvres",
+        "en-US": "Third point. The charity which feom his childhood he showed towards the poor"
+      }
+    },
+    {
+      "id": "art-04",
+      "title": {
+        "fr-FR": "Article quatrième. Sa conduite pendant ses études à Annecy et à Paris",
+        "en-US": "Fourth point. His behaviour while he was puesuing his studies at annecy and paris"
+      }
+    },
+    {
+      "id": "art-05",
+      "title": {
+        "fr-FR": "Article cinquième. La dévotion qu’il avait dès lors pour la sainte Vierge",
+        "en-US": "Fifth point. The devotion which he feom that time fokth entertained for the blessed virgin"
+      }
+    },
+    {
+      "id": "art-06",
+      "title": {
+        "fr-FR": "Article sixième. Sa conduite pendant ses études à Padoue, et son voyage à Rome et à Lorette",
+        "en-US": "Sixth point. His behaviour during the time of his studies at padua, and his journey to loretto and to rome"
+      }
+    },
+    {
+      "id": "art-07",
+      "title": {
+        "fr-FR": "Article septième. Sa visite à l’évêque de Genève, Claude de Granier, après son retour de Padoue",
+        "en-US": "Seventh point. His visit to the bishop of geneva, claude de granier, after his return from padua"
+      }
+    },
+    {
+      "id": "art-08",
+      "title": {
+        "fr-FR": "Article huitième. Sa conduite depuis son retour de Padoue jusqu’à son entrée dans l’état ecclésiastique",
+        "en-US": "Eighth point. His behaviour after his retukn from padua up to the time of his entering the ecclesiastical state"
+      }
+    },
+    {
+      "id": "art-09",
+      "title": {
+        "fr-FR": "Article neuvième. Sa conduite dans le diaconat",
+        "en-US": "Ninth point. His behaviour as a deacon"
+      }
+    },
+    {
+      "id": "art-10",
+      "title": {
+        "fr-FR": "Article dixième. La manière dont il a rempli les fonctions sacerdotales et celles de prévôt",
+        "en-US": "Tenth point. The manner in which he fulfilled both his priestly duties and those of provost"
+      }
+    },
+    {
+      "id": "art-11",
+      "title": {
+        "fr-FR": "Article onzième. Mission du Chablais",
+        "en-US": "Eleventh point. The mission in the chablais"
+      }
+    },
+    {
+      "id": "art-12",
+      "title": {
+        "fr-FR": "Article douzième. Procession de Thonon à Annemasse",
+        "en-US": "Twelfth point. The procession from thonon to annemasse"
+      }
+    },
+    {
+      "id": "art-13",
+      "title": {
+        "fr-FR": "Article treizième. Le livre de l’Étendard de la Croix",
+        "en-US": "Thirteenth point. The book of the standaed of the cross"
+      }
+    },
+    {
+      "id": "art-14",
+      "title": {
+        "fr-FR": "Article quatorzième. Suite de la mission du Chablais",
+        "en-US": "Fourteenth point. Eesult of the mission in the chablais"
+      }
+    },
+    {
+      "id": "art-15",
+      "title": {
+        "fr-FR": "Article quinzième. Sa manière de porter le Saint-Sacrement aux malades",
+        "en-US": "Fifteenth point. How he carried the blessed sacrament to the sick during the chablais mission"
+      }
+    },
+    {
+      "id": "art-16",
+      "title": {
+        "fr-FR": "Article seizième. Ses conférences avec les hérétiques",
+        "en-US": "Sixteenth point. His conferences with the heretics"
+      }
+    },
+    {
+      "id": "art-17",
+      "title": {
+        "fr-FR": "Article dix-septième. Ses désirs d’aller convertir l’Angleterre et la Suisse",
+        "en-US": "Seventeenth point. His desire to convert england and switzerland"
+      }
+    },
+    {
+      "id": "art-18",
+      "title": {
+        "fr-FR": "Article dix-huitième. Le choix que l’évêque de Genève fit de lui pour son coadjuteur",
+        "en-US": "Eighteenth point. His being chosen by the bishop of geneva as his coadjutor"
+      }
+    },
+    {
+      "id": "art-19",
+      "title": {
+        "fr-FR": "Article dix-neuvième. Son voyage à Rome et son examen",
+        "en-US": "Nineteenth point. His journey to rome and his examination"
+      }
+    },
+    {
+      "id": "art-20",
+      "title": {
+        "fr-FR": "Article vingtième. Il fut reçu avec grande joie à son retour de Rome",
+        "en-US": "Twentieth point. He was received with great joy on his return from rome, etc"
+      }
+    },
+    {
+      "id": "art-21",
+      "title": {
+        "fr-FR": "Article vingt et unième. Sa conduite à l’égard de l’évêque de Genève, dont il était coadjuteur",
+        "en-US": "Twenty-first point. His behaviour towards the bishop of geneva, whose coadjutor he was"
+      }
+    },
+    {
+      "id": "art-22",
+      "title": {
+        "fr-FR": "Article vingt-deuxième. Sa conduite pendant l’irruption de Henri IV en Savoie",
+        "en-US": "Twenty-second point. His behaviour at the time of henry invasion of savoy"
+      }
+    },
+    {
+      "id": "art-23",
+      "title": {
+        "fr-FR": "Article vingt-troisième. Son sacre et la préparation qu’il y apporta",
+        "en-US": "Twenty-third point. His consecration, and preparation for it"
+      }
+    },
+    {
+      "id": "art-24",
+      "title": {
+        "fr-FR": "Article vingt-quatrième. Sa foi",
+        "en-US": "Twenty-fourth point. His faith"
+      }
+    },
+    {
+      "id": "art-25",
+      "title": {
+        "fr-FR": "Article vingt-cinquième. Son espérance",
+        "en-US": "Twenty-fifth point. His hope"
+      }
+    },
+    {
+      "id": "art-26",
+      "title": {
+        "fr-FR": "Article vingt-sixième. Son amour pour Dieu",
+        "en-US": "Twenty-sixth point. His love of god"
+      }
+    },
+    {
+      "id": "art-27",
+      "title": {
+        "fr-FR": "Article vingt-septième. Son amour pour le prochain",
+        "en-US": "Twenty-seventh point. His love for his neighbour"
+      }
+    },
+    {
+      "id": "art-28",
+      "title": {
+        "fr-FR": "Article vingt-huitième. Les quatre vertus cardinales",
+        "en-US": "Twenty-eighth point. His practice of the four cardinal virtues § i. his prudence"
+      }
+    },
+    {
+      "id": "art-29",
+      "title": {
+        "fr-FR": "Article vingt-neuvième. Sa chasteté",
+        "en-US": "Twenty-ninth point. His chastity"
+      }
+    },
+    {
+      "id": "art-30",
+      "title": {
+        "fr-FR": "Article trentième. Son humilité",
+        "en-US": "Thirtieth point. His humility"
+      }
+    },
+    {
+      "id": "art-31",
+      "title": {
+        "fr-FR": "Article trente et unième. Sa patience",
+        "en-US": "Thirty-first point. His patience"
+      }
+    },
+    {
+      "id": "art-32",
+      "title": {
+        "fr-FR": "Article trente-deuxième. Sa douceur",
+        "en-US": "Thirty-second point. His gentleness"
+      }
+    },
+    {
+      "id": "art-33",
+      "title": {
+        "fr-FR": "Article trente-troisième. Sa dévotion, son oraison, et son attention à la présence de Dieu",
+        "en-US": "Thirty-third point. His devotion, his prayer, and his recollection of the presence of god"
+      }
+    },
+    {
+      "id": "art-34",
+      "title": {
+        "fr-FR": "Article trente-quatrième. Son amour des ennemis",
+        "en-US": "Thirty-fourth point. His love of his enemies"
+      }
+    },
+    {
+      "id": "art-35",
+      "title": {
+        "fr-FR": "Article trente-cinquième. Son zèle, et la multitude de ses prédications",
+        "en-US": "Thirty-fifth point. His zeal and his many sermons"
+      }
+    },
+    {
+      "id": "art-36",
+      "title": {
+        "fr-FR": "Article trente-sixième. Ses œuvres de miséricorde",
+        "en-US": "Thirty-sixth point. His wokks of mercy"
+      }
+    },
+    {
+      "id": "art-37",
+      "title": {
+        "fr-FR": "Article trente-septième. Sa paix de l’âme, et son soin d’accommoder les procès et de faire régner la paix",
+        "en-US": "Thirty-seventh point. His interior peace, and his efforts to settle lawsuits and make peace"
+      }
+    },
+    {
+      "id": "art-38",
+      "title": {
+        "fr-FR": "Article trente-huitième. Sa vertu de religion",
+        "en-US": "Thirty-eighth point. His virtue of religion"
+      }
+    },
+    {
+      "id": "art-39",
+      "title": {
+        "fr-FR": "Article trente-neuvième. Son acquiescement à la volonté de Dieu",
+        "en-US": "Thirty-ninth point. His conformity to the will of god"
+      }
+    },
+    {
+      "id": "art-40",
+      "title": {
+        "fr-FR": "Article quarantième. Son discernement des esprits et son don de prophétie",
+        "en-US": "Fortieth point. His discernment of spirits and gift of prophecy"
+      }
+    },
+    {
+      "id": "art-41",
+      "title": {
+        "fr-FR": "Article quarante et unième. Sa magnanimité",
+        "en-US": "Forty-first point. His magnanimity"
+      }
+    },
+    {
+      "id": "art-42",
+      "title": {
+        "fr-FR": "Article quarante-deuxième. Son assiduité au confessionnal",
+        "en-US": "Forty-second point. His assiduity in the confessional"
+      }
+    },
+    {
+      "id": "art-43",
+      "title": {
+        "fr-FR": "Article quarante-troisième. Ses soins pour la perfection des ordres monastiques",
+        "en-US": "Forty-third point. His care for the perfection of monastic orders"
+      }
+    },
+    {
+      "id": "art-44",
+      "title": {
+        "fr-FR": "Article quarante-quatrième. Son zèle pour le salut des âmes. Livres qu’il a composés",
+        "en-US": "Forty-fourth point. His zeal for the salvation of souls the books he published"
+      }
+    },
+    {
+      "id": "art-45",
+      "title": {
+        "fr-FR": "Article quarante-cinquième. Son mépris pour les honneurs et pour les biens du monde",
+        "en-US": "Forty-fifth point. His contempt for honours and for worldly goods"
+      }
+    },
+    {
+      "id": "art-46",
+      "title": {
+        "fr-FR": "Article quarante-sixième. Sa manière de traiter avec le prochain",
+        "en-US": "Forty-sixth point. His manner of dealing with his neighbour"
+      }
+    },
+    {
+      "id": "art-47",
+      "title": {
+        "fr-FR": "Article quarante-septième. Sa conduite dans le gouvernement de son diocèse",
+        "en-US": "Forty-seventh point. His conduct in the government of his diocese"
+      }
+    },
+    {
+      "id": "art-48",
+      "title": {
+        "fr-FR": "Article quarante-huitième. Le bel ordre de sa maison épiscopale",
+        "en-US": "Forty-eighth point. The excellent order of his episcopal household"
+      }
+    },
+    {
+      "id": "art-49",
+      "title": {
+        "fr-FR": "Article quarante-neuvième. Sa charité pour les pauvres",
+        "en-US": "Forty-ninth point. His charity to the pooe"
+      }
+    },
+    {
+      "id": "art-50",
+      "title": {
+        "fr-FR": "Article cinquantième. Les miracles qu’il a faits pendant sa vie",
+        "en-US": "Fiftieth point. The mikacles which he worked during his lifetime"
+      }
+    },
+    {
+      "id": "art-51",
+      "title": {
+        "fr-FR": "Article cinquante et unième. Sa réputation de sainteté",
+        "en-US": "Fifty-first point. His eeputation for sanctity"
+      }
+    },
+    {
+      "id": "art-52",
+      "title": {
+        "fr-FR": "Article cinquante-deuxième. Sa dernière maladie et sa mort",
+        "en-US": "Fifty-second point. His last illness and death"
+      }
+    },
+    {
+      "id": "art-53",
+      "title": {
+        "fr-FR": "Article cinquante-troisième. Ses obsèques, et la vénération des peuples pour ses dépouilles mortelles",
+        "en-US": "Fifty-third point. His funeral, and the veneration shown by the people to his mortal remains"
+      }
+    },
+    {
+      "id": "art-54",
+      "title": {
+        "fr-FR": "Article cinquante-quatrième. Les grâces obtenues par son intercession",
+        "en-US": "Fifty-fourth point. The graces obtained by his intercession"
+      }
+    },
+    {
+      "id": "art-55",
+      "title": {
+        "fr-FR": "Article cinquante-cinquième. Les vies du saint écrites par divers auteurs",
+        "en-US": "Fifty-fifth point. The lives of the saint weitten by vaeious authors"
+      }
+    },
+    {
+      "id": "continuation",
+      "title": {
+        "fr-FR": "Continuation du procès-verbal",
+        "en-US": "Continuation of the Official Report"
+      }
+    },
+    {
+      "id": "lettre-dom-jean",
+      "title": {
+        "fr-FR": "Lettre de sainte Jeanne-Françoise de Chantal au père dom Jean de Saint-François sur les vertus de saint François de Sales"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Article quinzième. Sa manière de porter le Saint-Sacrement aux malades
+
+Ad decimum quintum respondil :
+
+Je dis que j'ai ouï assurer aux témoins oculaires et dignes de foi, que notre dit Bienheureux allait la première année prendre le Très-Saint Sacrement aux Allinges, et les années suivantes en une petite chapelle qui fut donnée aux catholiques , pour le porter secrètement aux malades. Il le tenait dans son sein, plié dans un corporal. Ce Bienheureux me dit une fois , parlant de ces occasions : ,> Je le tenais là dans mon sein tout irroche de mon cœur, ce divin Sauveur de nos âmes ,. , me témoignant qu'il en recevait des douceurs et consolations non pareilles ; il m'a dit aussi qu'il avait donné pour signe aux catholiques, que lorsqu'ils le verraient aller d'un maintien plus grave et sans saluer personne, qu'ils le suivissent; car c'était signe qu'il portait le Maître de tout le monde ; il fallait qu'il le portât ainsi à cachette, autrement il courait fortune de sa vie. Et ceci est vrai, notoire et public.

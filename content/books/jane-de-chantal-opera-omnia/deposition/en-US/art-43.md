@@ -1,0 +1,23 @@
+# Forty-third point. His care for the perfection of monastic orders
+
+Her answer on the forty-third point teas :
+
+I have always observed in our Blessed Founder, a great love for the work of reforming Religious Houses of either men or women, and of perfecting souls called by God to that holy vocation, and with these objects in view, he drew up with his own hand excellent memorials, which he gave to his Highness the Prince of Piedmont, who was very anxious about the reform of the monasteries in his dominions.
+
+He expended great labour and care upon several Religious Houses, and among others on that of St. Catherine of the Order of St. Bernard, close to this town of Annecy, in which God blessed his efforts greatly, the Nuns living there at this present time in a most pious and edifying manner though not enclosed; and some of them, by the advice of our Blessed Founder, have retired to Rumilly, a little town in this diocese, where they live a cloistered life with so much perfection, that they have attracted numbers of Nuns of that Order, and also many young girls from the world, forming three or four Houses of this reform, to the great glory of God. It would be impossible in writing, to give an idea of the patience exercised by the holy Bishop towards the Mother Abbess of St. Catherine, in order to win her confidence and to persuade her to let him hear the confessions of her Nuns, which she did not wish to do, although they all desired it ardently, and to give him the entire charge of their consciences; for, as some of them have told me, his very presence inspired them with devotion and a hatred of sin.
+
+He reformed the Priory of Talloires, o> Order of St. Benedict, spending much ti pains upon this work, and also the Ab Sixt in his diocese, of the Canons Regu St. Augustine, and prescribed for them
+
+206 Saint Sane $. to CfjantaP* according to which they live and serve God. He went twice to a Benedictine Abbey in Burgundy.
+
+He revived the devotion due to the Blessed Virgin under the title of the Visitation, which devotion had, before the ravages of heresy, been practised in the mountain district of Voiron, about nine miles from Geneva. There he established a Congregation of hermits, to whom he gave rules, and I have heard that their lives are most exem plary and edifying, most useful to all the neighbour hood as a model of spiritual excellence, and many come there secretly on pilgrimage from Geneva.
+
+He intended to establish other Congregations in his bishopric, among which may be mentioned the Oratorians, whom he wished to place at Rumilly, but his death prevented the accomplish ment of this purpose.
+
+He established two colleges of Barnabite Fathers in this diocese, as has been already said, and finally he instituted our Order of the Visita tion of Holy Mary, the customs of which were imitated by other Nuns in the reform of many of their Convents, urged thereto by the sweetness and serenity which they had observed in our manner of life.
+
+The considerations which moved him to this latter work were purely divine, and in conformity with the thoughts with which God had inspired him long years before. Indeed those who saw and knew of the birth and progress of the Order cannot attribute its origin to any human cause, and, thanks to God, it has flourished, and gained so high a reputation for piety, that since it was established seventeen years ago, the number of its Convents and their inmates has so greatly increased in Savoy, France, and Lorraine, that there are now as many as twenty-eight Houses actually established, as well as several all ready to be so, both in Piedmont and in other parts of France.
+
+In short, it is impossible to give you an idea of his ardent zeal for the souls of Religious. He said one day and with extraordinary feeling : " If a person living in the world were to ask me what she must do in order to save her soul, I should answer : Keep the commandments of God, and you will infallibly do so. But to a Nun I should say : By giving yourself absolutely and entirely to God. The King of Kings will have all or nothing, He will reign alone or not at all It will not be God Who will judge Monks and Nuns, but the Saints, who will say to them : We had the same flesh and bones as you have, and yet we walked along the road marked out for us by our Master!' He used also to say that it was better to be cold than lukewarm, because coldness was at least recognisable, but that the lukewarm were intolerable to our Divine Lord; that He would cast them away from Him. All this is true, &c.
+
+208 Saint Sane J. tie Cental's impositions

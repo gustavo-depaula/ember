@@ -1,0 +1,5 @@
+# Article neuvième. Sa conduite dans le diaconat
+
+Ad nonum respondit :
+
+Je dis que notre Bienheureux n'étant encore que diacre, feu monseigneur de Granier, son prédécesseur, lui commanda de prêcher, et notre Bienheureux m'a dit que se reconnaissant indigne de monter en chaire, il lui répondit néanmoins qa^à sa parole il jetterait lesjîlets. Il fit sa première prédication le jour de saint Jean-Baptiste. Quand il ouït sonner la prédication, il lui prit une si violente colique et un mal universel par tout le corps, qu'il fut contraint de se mettre sur un lit; et je ne me souviens pas de ce qu'il me dit ensuite de sa délerminalion ; mais je crois qu'il se résigna totalement entre les mains de Dieu pour faire réussir cette action à son honneur et selon son bon plaisir; ce qui arriva, car, à ce que l'on dit communément, le peuple en fut merveilleusement édifié. J'ai ouï assurer, et c'est la voix publique, qu'à ce premier sermon assista un seigneur principal du duché de Chablais, nommé M. d'AvuUy, hérétique des plus opiniâtres et savants, qui en fut tellement louché, que de là à quelque temps il se fit catéchiser. Et ceci est vrai , notoire et public.

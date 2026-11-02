@@ -1,0 +1,95 @@
+# Twenty-seventh point. His love for his neighbour
+
+Her answer on the twenty-seventh point was :
+
+It is well known to all those who came into contact with our Blessed Founder, that his charity towards his neighbour was most perfect in its kind and in its extent. I have no hesita tion in declaring what I fully believe, that he possessed this virtue in the highest degree, and practised it faithfully to the very end of his life with the greatest perfection. Indeed for about nineteen years, during which time I had the happiness of frequent intercourse with him, both before I entered religion and afterwards, I never knew him to fail in doing all the good and rendering all the service in his power to his neighbour. That was a matter in which he never spared himself. This I know and have seen, and have had more experience on the sub ject than I can possibly tell you.
+
+Our Blessed Founder loved God in man, and man in God, and used to say that, except in God, he did not desire to be anything to any one, nor was any one anything to him. He was full of charity, full of true and universal love for souls. " For," he would say, " it has pleased God to make my heart thus. My poor neighbour ! I wish to love him so much, so very much; and yet at the same time I feel that I really love none but God and all souls for God, and that what is not God or for God is nothing to me."
+
+Another time he wrote to me thus: "Ah, when shall we be all steeped, as it were, in sweet ness and tenderness towards our neighbours ? When shall we look upon their souls as hidden in the sacred breast of Our Saviour. Alas ! who ever looks upon his neighbour in any other place but that, runs the risk of loving him neither purely, steadfastly, nor impartially. But there who would not love him ? who would not bear with him ? who would not put up with his imperfections ? who would find him unattractive or wearisome ? for this neighbour, resting on the breast, hidden in the Heart of our Divine Saviour, is there so much loved and so lovable, that the Lover dies for love of him."
+
+He even told me once, speaking of the pesti lence which it was feared at that time might break out in our city, that should it do so, he would not stir from the place, but would remain to give all possible help to the souls of the poor plague-stricken inhabitants, telling me exactly how he should arrange matters and behave on the occasion.
+
+The same day, July 2 8th, at three o'clock in the afternoon, she continued her deposition on the twenty-seventh point in these terms :
+
+Continuing the subject of the twenty-seventh point, I may tell you that a certain lady of quality,
+
+96 Saint Sane $. to ffityantal's depositions who had fallen into sin, desired to retire from the world into one of our Houses. I consulted our Blessed Founder on the subject, and he re plied : " You must not ask my advice about that, for I am biassed always by charity." It is indeed perfectly well known that he never rejected any one, miserable sinner though he or she might be. He often gave large alms to women leading bad lives, that he might thus reclaim them. If any of them fell back again into sin, and then after a while once more had recourse to him, he re ceived them with his accustomed kindliness, and when his servants told him that it was only time and money wasted, he replied that it was indeed a miserable state of things, but that while there was any hope of the conversion of sinners, we must help them.
+
+On one occasion a lay sister, one of our novices, got it into her head that she would like to take the black veil. I could not make up my mind to grant such a request, and consulted our Blessed Founder, who said : " Where their humility fails them, our charity must abound."
+
+From all these examples we see plainly that his love for his neighbour was one of perfect charity, for he was absolutely impartial in serving rich and poor; he made no difference between them; it was all one to him, provided that God was equally glorified.
+
+Many believe — and I among the rest — that his life was actually worn out and shortened by this loving devotion to his neighbour's service, for he often neglected food and sleep for it, and underwent hardships and privations which would have been intolerable to any other man. This I know.
+
+He used to say, that we must never refuse our neighbour any aid or comfort which we have it in our power to give him. When it was repre sented to him that he was injuring his health, and that it would be impossible for him to drag on such a laborious and painful existence very long, he replied gently, that ten years more or less of life were nothing. In short, our Blessed Founder, as far as he could, extended a loving and universal care towards his neighbour, as all those who came in contact with him bear witness.
+
+He never refused to see any one, whatever the hour might be, and however important the business which was occupying him at the time. He scarcely ever dismissed those who came to see him, nor did he ever show the slightest weari ness of, or distaste to their conversation. When he was blamed for this easy urbanity, which allowed so much of his time to be wasted, they said, upon persons of small consideration, and matters of slight importance, he would answer gently : " These little people, whom you consider so in significant, have as much need to be heard and helped in their affairs, as the great people in theirs. If one soul is as much troubled about a mere nothing as another would be about some great matter, it must equally be relieved and sent away satisfied. Little affairs are just as im-
+
+G
+
+98 Saint Sane JK to ffifjantal's liepostttons portant to poor people as great ones to the rich. Are we not debtors to all ? They come in search of consolation; must we not give it to them ? "
+
+Our Blessed Founder indeed received all sorts of people, with such gracious and kindly looks and gestures, and with such encouraging words, that although his whole appearance was exceed ingly grave and majestic, no one was afraid to approach him, and all were ready to tell him their wants with perfect confidence. Nor was it ever known that any one left his presence unsatisfied, or without a feeling of love full of respect and esteem for his incomparable kind ness and charity.
+
+In fact it is impossible to say on how many occasions he rendered services and gave aid to his neighbour, towards whom he never displayed the faintest dislike or contempt, and whose churlishness — when it was exhibited — he never seemed to notice. I have often observed that he put up with the follies and really impertinent ill-humours of some people that he might help and console them. It seemed as if he only lived to serve and comfort his neighbours.
+
+Our Blessed Founder's Confessor has told me that when he was going out and saw any poor people in his lobby or courtyard, he would go up to them and take their papers from them, to have them quickly attended to; and if he was surrounded by persons of quality, he would send one of his household to these poor petitioners, to see that their business was despatched at once.
+
+When he could not grant what was asked of him, because it would have been unjust to do so, he spoke so kindly, and showed such regret at being obliged to give a refusal, that all the sting was taken out of it.
+
+He used to say that we should be very careful not to annoy or inconvenience any one; that he would have liked to oblige all, as indeed he did whenever it was possible, but that as far as could be, he placed himself under obligation to no one.
+
+He also helped his neighbour with his own means, although they were not large. It is true, however, that God so blessed him that, almost miraculously he was able to provide for the support of his episcopal household, which was a considerable one, and also for the continual alms and hospitalities which he dispensed. He gave a lodging to any Monks who might be passing by and who had no House of their Order in the town, and to many Ecclesiastics who came here for different purposes. And all this charity he exercised with so much affectionate kindness, that his guests were delighted with their recep tion, as well as with the respectful and generous manner with which they were waited on and entertained.
+
+Besides daily almsgiving, there was a general dole made twice a week, on Mondays and Thursdays; and at a period of the year when the people were more pinched and straitened by poverty, he commanded a more ample distribuioo Saint Sane J. tie Ctljantai's depositions tion to be made. Several credible eye-witnesses, and indeed his own Almoner himself, declare that our Blessed Founder never refused alms to any one, whether he were a stranger or not; and if the person who carried his alms did not happen to be at hand, he would borrow from some one, giving to each according to his present necessities.
+
+The last time he was in Paris, he asked us to lend him eight or ten crowns, giving us in pledge a little box of lapis-lazuli, and I know positively that he wanted this money for a poor young lady, whom I think he had converted to the Catholic Faith, or on whom he had conferred some other great spiritual benefit.
+
+A worthy man in this city came to ask our Blessed Founder to lend him some money. He felt it impossible to refuse, although he had none, because he knew that the good man wanted to send it to his son, who was then pur suing his studies in Paris. Our Blessed Founder came therefore to borrow it of us, telling me that it was more a gift than a loan, as indeed, I believe it was, but truly he has well repaid us for it.
+
+Often he gave away his clothes, his linen, and his shoes and stockings. Once even he took the very shoes he was wearing off his feet, to give to some needy claimant. This I was assured of by his valet, an eye-witness of the fact. This man was also employed to purchase all that was wanted to be distributed among the necessitous poor; and I verily believe that if our Blessed Founder had had the management of his own money, he would not have been able to refrain from distributing it all in such charities.
+
+Two Jesuit Fathers told me, the year after our Blessed Founder's death, that they had had some conversation with a schoolmaster in a straggling village of Faucigny, who showed them an undervest which he had given to him. One winter, when the poor man was very badly clothed, our Blessed Founder asked him if he had nothing better to wear ? He said no, upon which our good Father went into his study, took off his undervest, and having dressed again with out it, brought it to him secretly and gave it to him, and this vest is now held in great venera tion. From what these Fathers told me, many people borrowed it to put it upon the sick; and if I remember rightly, they also told me that they took a piece of this same undervest with great reverence and devotion and preserved it as a relic. Indeed they expressed to me deep reverence and devotion for our Blessed Founder, and found great consolation in offering their prayers at his tomb.
+
+His Confessor, who was an eye-witness, assured me, that the alms bestowed by him on the bashful poor were innumerable. Our Blessed Founder himself sought them out, or had secret inquiries made after them by others, and then with his own hands or through those of his Al moners, or some trusty person, distributed generous alms to them. He did this also to some of his
+
+102 Saint Sane £. to Cfjantal'g Impositions penitents after confession, and impressed upon them, as I am told, that they were to apply to him always in this mode. One of his Almoners told me that he often had to make up little packets of money for our Blessed Founder to give away after confessions, and that he knew from what the Father said himself, that if he had had the handling of his own revenue, and had not felt that it would be wronging his household more than himself to do so, he would have expended the whole of it in similar charities. When he was away from home he gave orders that these alms should be distributed just the same, and it is certain that no person or place in the town, including hospitals and monasteries, ever wanted for any help he could give them, if he were aware of their needs. When our Order was first established we were somewhat needy; and our Blessed Founder, knowing this, brought us about twelve or fifteen crowns out of a bill of exchange which had fallen in to him, and which he seized upon, without the knowledge of the person who managed his temporal affairs.
+
+The good Father visited the hospitals, the sick, and prisoners, to the great consolation of these poor sufferers, who were encouraged by him to bear their pains and afflictions patiently. Even to persons of good means, he never failed to offer whatever he happened to have in his own house which he thought might relieve them.
+
+He had ready cooked food taken to the poor, and when he thought they needed a doctor, sent one to visit them, and this he did especially in the case of strangers. Many sent to beg from what was left upon his plate after meals, or for anything that he had touched. This was done especially by the Poor Clares, and by us also sometimes.
+
+Our Blessed Founder gave liberal alms to all the mendicant religious houses in the town, particularly to the Capuchin Fathers. He also desired his dispenser to distribute to them whatever they needed, either for their sick or for any chance comers; sometimes he would dine with them, always taking care to send on before hand the provisions for the meal.
+
+On Maundy Thursday, when he was in this town, he washed the feet of thirteen poor men, in remembrance of the Last Supper, kissing their feet tenderly, soiled and repulsive though they were. This charitable act he performed with the most admirable devotion and humility. Before I entered religion, I have seen him do this, and it was a sight not to be forgotten; afterwards he entertained the poor men at dinner, and gave to each a handsome present of money.
+
+Almost all the sick sent entreaties to our good Father, that he would either come and give them his holy blessing or would at least send it to them, feeling certain that if they received it they would be relieved. Indeed it was a general belief that, if any one had been lingering on in weakness and pain for a long time, he would, if he could obtain this blessing, either soon
+
+104 Saint Smt JF* te Cfjantal'g recover, or die a speedy and very happy death, which we know by experience to have been the case.
+
+Our Blessed Founder was most generous and charitable in various ways to many converts from Geneva and other places, who came to him for help and protection. Some of them he kept for a long time in his own house, others he had taught trades. He placed the daughter of Captain Larose, who had left Geneva with his whole family (this daughter being a nun), with the Poor Clares of Annecy, and kept her there at his own expense, bestowing many kind nesses upon her. To others he gave large pensions, in one notable instance to a Priest, one M. Boucard, who had become a pervert, arid for many years had been a Minister at Lausanne. As he afterwards returned to the Faith, our Blessed Founder promised him a large pension, which he continued to pay him up to the time of his death, and this good Father used to say that if he had had large means he would have taken most of the inhabitants of Geneva away from the place.
+
+He also gave a pension to two poor old Priests, to a man who was paralysed, and to three other people. In one instance, when he had no money to provide for the absolute needs of a poor Parish Priest, he gave two silver candlesticks. To another worthy man, who had sustained losses and misfortunes in consequence of his abjuring heresy, he gave a silver vase, considering that a large gold coin which he had already bestowed on him would not be sufficient for his present necessities.
+
+It would be impossible for me to tell you how much help, spiritual as well as temporal, our Blessed Founder gave to all sorts of people, but especially to Monks and Priests, converted to the Faith.
+
+He also gave a great many presents to Churches. To his own Cathedral Church of Saint-Pierre he gave six tall silver candlesticks and a large lamp of the same precious metal, also a rich chasuble of stiff cloth of gold, and tunics and dalmatics to match. He gave our Church of the Visitation in this town of Annecy a very beautiful brocaded chasuble. To the Church at Thorens in which he was baptized, and to that of Viuz, which was in his diocese, he gave two large and beautiful pictures richly framed, and to various other Churches in different places he gave similar presents.
+
+I am forgetting to mention that our Blessed Founder was exceedingly generous to a poor young lady who wished to take the veil in this very Convent of the Visitation, giving four hundred gold crowns to our Convent for her dowry.
+
+I know that to another young lady who feared she would not have the means required to enable her to enter religion in this very House, he promised her dowry, telling her that she was not to be troubled, for that he would give her io6 Saint Sane JJ\ tie (tljantal's all that was needed, and even the pension for the year of her noviciate.
+
+Always eager to do good to his neighbour, he offered on one occasion the whole of his silver plate to redeem a Knight of Malta who was a prisoner in the hands of the Turks, the Knight being a native of this district and one of the family of Serisier.
+
+I remember also that one year, when there was a great scarcity of corn in the place and it was exceedingly dear, our Blessed Founder distributed quantities of corn through the Confessors, who knew the individual needs of the people.
+
+The last time he visited Piedmont, the Princess of that country presented him with a most mag nificent diamond, and he at once exclaimed : " This will be useful to our poor people ! "
+
+Part of these things which I have narrated, I learned from our Blessed Founder himself and from other well-authenticated sources, and indeed they are for the most part well known to the public.
+
+I repeat, that the alms and charities bestowed by our Blessed Founder on his neighbour in all ways which were possible to him, were so large, considering the smallness of his income, as to be almost incredible and altogether admirable. Indeed, nothing but a special blessing, or a mir acle, could have made such munificence possible; and what enhanced the beauty of this charity was that it was prompted by his tender and perfect love for his neighbour, a love whose intensity cannot be fully expressed, and the effects of which far surpass the bounds of imagination.
+
+He was a great enemy to litigation; on one occasion, hearing of a father and son going to law against one another, he tried to make peace between them, and finding that it only required a little money to settle their dispute, he pro duced his silver candlesticks, as a means of putting an end to both contention and lawsuit.
+
+This is a well-known fact.
