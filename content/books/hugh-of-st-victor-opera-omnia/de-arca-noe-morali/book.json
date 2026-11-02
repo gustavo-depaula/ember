@@ -1,0 +1,362 @@
+{
+  "id": "hugh-de-arca-noe-morali",
+  "cover": "classic",
+  "name": {
+    "la": "De arca Noe morali",
+    "en-US": "Noah’s Moral Ark",
+    "pt-BR": "A arca moral de Noé"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De arca Noe morali, in quattuor libris: arca cordis ad aedificandam sapientiae domum.",
+    "en-US": "Hugh’s Moral Ark of Noah, in four books: the ark as the heart and the Church built by wisdom, a meditation on the interior life told to his brethren. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "A Arca moral de Noé de Hugo, em quatro livros: a arca como o coração e a Igreja edificados pela sabedoria, uma meditação sobre a vida interior."
+  },
+  "composed": "c. 1125-1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/de-arca-noe-morali",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeArNoM",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeArNoM, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus."
+      }
+    },
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput primum. Quae igitur sit differentia, etc."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput II. Quod duobus modis inhabitet Deus cor hominis, et quod multis nominibus dicatur inhabitatio Dei, et inhabitator Deus, et quod arca sit exemplar aedificii spiritualis."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput III. De forma et quantitate arcae secundum litteram."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput IV. De arca Ecclesiae, seu Ecclesia."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput primum. De arca sapientiae."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput II. De ostio, et fenestra hujus arc ae"
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput III. De quatuor modis exeundi per actionem."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput IV. De quatuor modis exeundi per contemplationem."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput V. Quomodo ramus olivae deportetur ad arcam sapientiae."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput VI. De tribus mansionibus arcae sapientiae, sive intellectualis."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput VII. De columna in medio arcae hujus erecta."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput VIII. De diversitate arcam ascendentium."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput IX. De ligno vitae, et libro vitae in columna."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput X. De duobus, quae sunt in ligno, et de libro, et ligno vitae."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput XI. De diversis libris, et quis liber vitae dicatur."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput XII. De tribus libris."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput XIII. De tribus verbis."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput XIV. De tribus lignis vitae."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput XV. Item de tribus libris vitae."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput XVI. Item de tribus verbis."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput XVII. De trivus paradisis, et comparatione trium lignorum quae sunt in eis."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput XVIII. De arbore sapientiae, et vero ligno vitae, ejusque incrementis, et profectu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius"
+      },
+      "children": [
+        {
+          "id": "c024",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput primum. De seminatione arboris sapientiae per timorem."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput II. De rigatione arboris sapientiae per gratiam."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput III. De putrefactione arboris savientiae per dolorem."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput IV. De radicatione arboris sapientiae per fidem."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput V. De germinatione arboris sapientiae per devotionem."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput VI. De ortu arboris sapientiae per compunctionem."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput VII. De incremento arboris sapientiae per desiderium."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput VIII. De roboratione arboris sapientiae per charitatem."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput IX. De virore arboris sapientiae per spem."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput X. Quomodo frondescat arbor sapientiae per circumspectionem."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput XI Quomodo floreat arbor sapientiae per disciplinam."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput XII. Quomodo fructificet per virtutem."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput XIII. Quomodo per patientiam, et perseverantiam maturescat."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput XIV. Quomodo per mortem carpatur."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput XV. Quomodo per contemplationem cibat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus"
+      },
+      "children": [
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput primum. Ubi et ex quo aedificata domus Dei."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput II. De ordine et dispositione cogitationum nostrarum, quae finitae non sunt, ut ex eis construatur domus Dei."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput III. De duobus operibus Dei, id est conditionis et restaurationis, in quibus exercendus est animus, ne a mundo distrahatur."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput IV. Quare in abdito, et obscure locutus sit Deus."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Caput V. Quare cum paucis, et raro loquatur, et locutus sit Deus."
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput VI. Quod aliter pensant electi opera Dei, et aliter reprobi."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput VII. Duos esse mundos visibilem, et invisibilem."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput VIII. De tribus speciebus hominum respectu arcae."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput IX. Quae sunt opera restaurationis humanae."
+          }
+        }
+      ]
+    }
+  ]
+}

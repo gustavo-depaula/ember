@@ -1,0 +1,4127 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De arca Noe morali</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeArNoM</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  <note>XML corrections by Jan Ctibor in 2023: isolated heads moved to corresponding divs</note>
+      </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>PROLOGUS.</head>
+<p>
+          <pb n="0617"/>Cum sederem aliquando in conventu fratrum, et illis interrogantibus, meque respondente, multa in
+medium prolata fuissent, ad hoc tandem deducta sunt verba, ut de humani potissimum cordis instabilitate
+et inquietudine admirari omnes simul, et suspirare inciperemus; cumque magno quidem desiderio
+exposcerent, demonstrari sibi quae causa in corde hominis tantas cogitationum fluctuationes ageret,
+ac deinde si qua arte, sive laboris cujuslibet exercitatione huic tanto malo obviam iri posset, summopere
+doceri flagitarent; nos quantum Deo inspirante valuimus, in utroque charitati fratrum satisfacere
+volentes, utriusque quaestionis nodum ductis tam ex auctoritate quam ex ratione firmamentis solvimus.
+In collatione autem, quia quaedam specialiter placuisse fratribus scio, ea potissimum stylo commendare
+volui, non tantum ideo quod ea digna scribi existimem, sed quia quaedam ibi prius inaudita quodammodo
+magis grata esse cognovi. Primo igitur demonstrandum est, unde tanta in corde hominis vicissitudo oriatur,
+ac deinceps quomodo ad pacem stabilem mens humana reduci, qualiterque in eadem stabilitate sua
+conservari possit insinuandum. Et licet hoc proprium divinae gratiae opus esse non dubitem, et non tam
+humana industria, quam divino munere, et sancti Spiritus inspiratione possideri; scio tamen quod cooperari
+nobis vult Deus, et sic gratis pietatis suae dona praestat, ut ingratis ea etiam, quae praestiterit saepe
+<pb n="0619"/>
+subtrahat. Praeterea etiam idcirco non inutile est, et infirmitatis nostrae magnitudinem, et reparationis modum
+agnoscere, quia qui quanta sibi gratia collata sit nescit, quantas largitori grates debeat non intelligit.
+Primus itaque homo ad hoc conditus fuit, ut si non peccasset, per contemplationis praesentiam vultui Creatoris
+sui semper assisteret, ut eum semper videndo, semper amaret, semper amando, semper ei adhaereret,
+semper ei adhaerendo, qui immortalis est, etiam in ipso vitam sine termino possideret. Hoc ergo erat unum
+et verum bonum hominis, plena videlicet et perfecta cognitio sui conditoris, plena scilicet secundum illam
+plenitudinem, quam creatus acceperat, non secundum illam quam post peractam obedientiam accepturus
+erat. Sed projectus est a facie Domini quoniam propter peccatum caecitate ignorantiae percussus ab intima
+contemplationis illius luce foras venit, eoque profundius ad desideria terrena mentem inclinavit, quo magis
+supernorum dulcedinem (quorum jam gustum perdiderat) oblivisci coepit; sicque factus est vagus, et profugus
+super terram. Vagus videlicet per inordinatam concupiscentiam profugus per peccatricem conscientiam.
+Cujus voce etiam illud apte subjungitur. <hi>Quisquis enim invenerit me, occidet me <note>(Gen. IV)</note>
+          </hi>. Quia mentem divino
+desertam auxilio quaecunque tentatio impetierit, subvertit. Cor ergo hominis, quod prius divino amori
+affixum stabile praestitit, et unum amando unum permansit, postquam per desideria terrena difluere coepit;
+quasi in tot divisum est, quod ea sunt quae concupiscit. Sicque fit, ut mens quae verum bonum amare
+nescit, nunquam valeat esse stabilis, quia desiderii sui finem in his quae amplectitur non inveniens,
+dum semper se desiderio extendit sequens quod consequi non valet, nunquam requiescit; hinc igitur nascitur
+motus sine stabilitate, labor sine requie, cursus sine perventione, ita ut semper sit inquietum cor nostrum,
+donec illi adhaerere coeperit; ubi et desiderio suo nihil deesse gaudeat, et ea quae diligit semper
+mansura confidat. Ecce ostendimus morbum cor fluctuans, cor instabile, cor inquietum. Et causam morbi,
+amorem videlicet mundi, et remedium morbi amorem Dei, quibus necessario quartum adjungitur, adeptio
+remedii, scilicet qualiter possimus pertingere ad amorem Dei, sine quo caetera agnovisse aut parum, aut
+nihil proderit.</p>
+</div1>
+
+
+<div1>
+        <head>LIBER PRIMUS</head>
+        <pb n="0619"/>
+        <head>Cujus haec sunt capitula:</head>
+<div2>
+          <head>CAP. I. </head>
+          <p>
+ <hi>Quae sit differentia inter amorem Dei et amorem mundi, et qualiter possimus ad amorem Dei pertingere,
+et domus ejus ac mansio effici.</hi> --CAP. II. <hi>Quod duobus modis inhabitet Deus cor hominis, et multis nominibus
+dicatur inhabitatio, et Deus inhabitator. Et quod arca sit exemplar aedificii spiritualis.</hi> --CAP. III. <hi>De
+forma, et quantitate arcae secundum litteram.</hi> --CAP. IV. <hi>De arca Ecclesiae, seu Ecclesia.</hi> 
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. PRIMUM. <hi>Quae igitur sit differentia,</hi> etc.</head>
+
+<pb n="0619A"/>
+<p>Inter amorem hujus mundi et amorem Dei haec est
+differentia, quod hujus mundi amor in principio dulcis
+esse videtur sed finem habet amarum. Amor vero
+Dei ab amaritudine incipit, sed ultima ejus dulcedine
+plena sunt. Quod pulcherrima similitudine evangelicus
+sermo nobis ostendit, cum de sponsi nostri nuptiis
+decantaret, dicens: <hi>Omnis homo primum vinum
+bonum ponit, et cum inebriati fuerint, tunc id quod
+deterius est; tu autem servasti bonum vinum usque
+adhuc <note>(Joan. II)</note>
+            </hi>. Omnis namque homo, id est carnalis
+primum vinum bonum ponit, quia in sua delectatione
+falsam quamdam dulcedinem sentit, sed postquam
+furor mali desiderii mentem inebriaverit,
+tunc quod deterius est propinat, quia spina conscientiae
+<pb n="0619B"/>
+superveniens mentem, quam prius falso delectabat,
+graviter cruciat. Sed sponsus noster postremo
+vinum bonum porrigit, dum mentem, quam sui dulcedine
+amoris replere disponit, quadam prius tribulationum
+compunctione amaricari sinit, ut post
+gustum amaritudinis avidius bibatur suavissimum
+poculum charitatis. <hi>Et hoc est</hi> primum signum quod
+<pb n="0620A"/> <hi>Jesus fecit</hi> 
+ coram discipulis suis, <hi>et crediderunt in
+eum <note>(ibid.)</note>
+            </hi>. Quia inde peccator et poenitens primum
+de misericordia Dei fiduciam habere incipit, quod est
+post longa moeroris taedia sancti Spiritus consolatione
+cor suum sentit revelari. Quaeramus ergo quo
+ad amorem Dei pertingere possimus, quia ipse colliget,
+et stabilitet corda nostra, ipse pacem restituet,
+et continuam praestabit laetitiam. Nemo autem
+amare potest quod nescit, et ideo si Deum amare
+cupimus primum eum cognoscere satagamus, praecipue
+cum ipse talis sit, qui nequeat sciri, et non
+amari. Tanta est enim species pulchritudinis ejus,
+ut qui eum potuerit videre, non possit non diligere.
+Homo qui vult alterius hominis mores et secreta
+agnoscere, facit se ei familiarem, frequenter in domo
+<pb n="0620B"/>
+ejus conversatur, et cum iis, qui illi familiares sunt.
+Et si viderit ea, quae circa ipsum sunt, honeste et
+prudenter disponi certior jam de virtute ipsius efficitur,
+et amore jam dignum judicat, cujus probitatis
+tam aperta se indicia invenisse cognoscit. Et nos
+igitur inquiramus ubi habitet Deus, ubi domus ejus
+sit, interrogemus notos ejus de ipso. Utrum prudens
+<pb n="0621A"/>
+est, utrum fidelis est, utrum laude dignus est, utrum
+pius est. Siquidem humilis est, dignus est. Si domus
+suae curam bene agit, prudens est. Si servientes sibi
+fraudare non novit, fidelis est. Si peccantibus libenter
+parcit, pius est. Si afflictis compatitur, misericors
+est. Si subjectos non premendo, sed juvando regit,
+humilis est. Sed fortassis interrogas ubi ista domus
+Dei quaerenda sit, ubi inveniri possit? Domus Dei
+totus est mundus, domus Dei Ecclesia catholica est,
+domus Dei etiam est quaelibet fidelis anima. Sed
+Deus aliter mundum inhabitat, aliter Ecclesiam, aliter
+unamquamque fidelem animam; in mundo est,
+ut imperator in regno; in Ecclesia est, ut paterfamilias
+in domo; in anima est, ut sponsus in thalamo.
+Pagani et infideles quique in domo ejus sunt, id est
+<pb n="0621B"/>
+in regno quia ipse omne quod condidit per divinitatis
+suae potentiam tenet et regit; falsi fideles in domo
+ejus sunt, id est in ecclesia quia ipse omnibus quos
+ad fidem vocavit, sacramentorum suorum participationem
+credit; fideles vero in domo ejus sunt,
+id est in thalamo, et ut verius dicam ipsi domus
+ejus sunt, quia eos per dilectionem inhabitans possidet
+et regit. Omnes in domo ejus sumus per conditionem,
+qua creavit nos; in domo ejus sumus per fidem
+qua vocavit nos in domo ejus; sumus per dilectionem,
+qua justificavit nos. Si in domo Dei tantum
+es per conditionem, etiam diabolus tecum est. Si in
+domo Dei es tantum per fidem, etiam palea cum
+granis in area tua est. Si autem in domo Dei fueris
+per charitatem, beatus es, quia non solum tu in domo
+<pb n="0621C"/>
+Dei, sed tu domus Dei esse coepisti, ut ipse tecum
+habitet in te, qui fecit te. Haec est salutaris mansio,
+haec sunt tabernacula justorum, in quibus vox laetitiae
+et exsultationis semper personat, ubi habitant
+beati, cujus decorem, propheta concupivit, cujus
+inhabitationem optavit, cujus desiderio flagravit. Si
+ergo haec mansio in nobis esse coepit, intremus et
+habitemus cum eo. Ibi pacem inveniemus et requiem
+ubi ille habitare dignatur, cujus locus in pace factus
+est. Si vero necdum in nobis esse coepit aedificemus
+eam, quia si locum ei praeparaverimus ad nos libenter
+veniet, qui idcirco fecit nos, ut in nobis habitet
+Jesus Christus Dominus noster.</p>
+</div2>
+
+<div2>
+          <head>CAP. II. <hi>Quod duobus modis inhabitet Deus cor hominis, et quod multis nominibus dicatur inhabitatio Dei, et inhabitator Deus, et quod arca sit exemplar aedificii spiritualis.</hi> </head>
+
+<pb n="0621D"/>
+<p>Duobus modis Deus cor humanum inhabitat, per
+cognitionem videlicet et amorem, una tamen mansio
+est, quia et omnis qui novit cum diligit, et nemo
+diligere potest qui non novit. In hoc tamen differre
+videtur, quod scientia per cognitionem fidei fabricam
+erigit, dilectio autem per virtutem quasi colore
+superducto aedificium pingit. Sic autem utrum libet
+necessarium perspicitur, quia nec splendere potest
+si non fuerit, nec placere si non splenduerit. Ingredere
+ergo nunc si secretum cordis tui, et fac habitaculum
+Deo, fac templum, fac domum, fac tabernaculum,
+fac arcam testamenti, fac arcam diluvii,
+<pb n="0622A"/>
+vel quocunque nomine appelles, una est domus Dei.
+In templo adoret psalma Creatorem, in domo veneretur
+filius patrem, in tabernaculo honoret miles regem,
+in testamento auscultet assecla praeceptorem,
+in diluvio imploret naufragus gubernatorem. Totum
+tibi factus est Deus, et totum tibi fecit Deus. Fecit
+habitaculum, factus est patrocinium; hoc unum totum
+est, et totum hoc unum est, domus Dei est, civitas
+regis est, corpus Christi est, sponsa Agni est.
+Coelum est, sol est, luna est, stella matutina est, aurora
+est, tuba est, mons est, desertum est, terra promissionis
+est, navis est, via in mari est, sagena est,
+vinea est, ager est, arca est, horreum est, praesepe
+est, subjugale est, equus est, apotheca est, aula est,
+thalamus est, turris est, castra est, acies est, populus
+<pb n="0622B"/>
+est, regnum est, sacerdotium est, grex est, pastor
+est, ovis est, pascua est, paradisus est, hortus
+est, palma est, rosa est, lilium est, fons est, fluvius
+est, porticus est, columba est, vestis est, margaritum
+est, corona est, sceptrum est, thronus est, mensa
+est, panis est, conjux est, mater est, filia est, soror
+est. Et ut brevius concludam de hac, et ad hanc, et
+propter hanc omnis Scriptura factus est. Propter
+hanc mundus factus est. Propter hanc verbum caro
+factum est. Deus humilis, homo sublimis. Si hanc ergo
+habes, totum habes, si totum habes, nihil est amplius,
+quod exspectes, et requiescit cor tuum. Hujus
+vero spiritualis aedificii exemplar tibi dabo arcam
+Noe, quam foris videbit oculus tuus, ut ad ejus similitudinem
+intus fabricetur animus tuus. Videbis ibi
+<pb n="0622C"/>
+colores quosdam, formas et figuras, quae delectent
+visum. Sed scire debes, ideo haec posita esse, ut in
+eis discas sapientiam, disciplinam atque virtutem,
+quae exornent animum tuum. Et quia haec arca Ecclesiam
+significat, ecclesia autem corpus Christi est,
+ut evidentius exemplar tibi fiat, totam personam
+Christi, id est caput cum membris in forma visibili
+depinxi, ut cum totum videris, quae deinde de parte
+dicuntur facilius intelligere possis. Talem autem personam
+hanc exprimere tibi cupio qualem Isaias so
+vidisse testabatur, et idcirco ejus ipsius verba in
+medium proferam, atque ex ipsis quod tibi demonstrare
+volo sumam, ut quod dicit littera probet propheta.
+Ait ergo: <hi>Vidi Dominum sedentem super solium
+<pb n="0622D"/>
+excelsum et elevatum <note>(Isai. VI)</note>
+            </hi>. Excelsum est
+quod situm est in sublimi, elevatum est quod de inferioribus
+translatum est ad superiora. Solium ergo
+excelsum sunt angelici spiritus, solium elevatum animae
+sanctorum de hujus mundi voragine translatae
+ad gaudia supernae pacis. Et quia utrisque praesidet
+Deus, ideo sedere perhibetur super solium excelsum
+et elevatum. Quod vero in sequentibus dicitur: <hi>Plena
+est omnis terra</hi> majestate <hi>ejus <note>(ibid.)</note>
+            </hi>, per terram
+omnis corporea creatura significatur, quae plena est
+majestate Dei. Quia divina essentia sicut spirituali
+creaturae per cognitionem praesidet, ita corpoream
+creaturam regendo atque disponendo implet. Quod ergo
+alibi dicitur:  « Coelum et terram ego impleo. »  Et
+rursum: <hi>Coelum mihi sedes est, et terra scabellum pedum
+<pb n="0623A"/>
+meorum <note>(Isa. LXVI)</note>
+            </hi>; hoc hic dicitur: Vidi Dominum
+sedentem super solium excelsum et elevatum,
+deinde: Plena est omnis terra majestate ejus, <hi>et ea
+quae sub ipso erant replebant templum <note>(Isa. VI)</note>
+            </hi>. Templum
+est angelici sive humani intellectus capacitas,
+quod scilicet templum impletur ab his quae sub eo
+sunt. Quia tanta est divinorum operum immensitas,
+ut ad ea perfecte comprehendenda nullius creaturae
+intelligentia sufficiat. Implet cor nostrum consideratio
+eorum non comprehenditur a corde nostro immensitas
+eorum. Quomodo ergo factorem operis
+comprehendere valebimus, qui ipsum opus factoris
+ad plenum capere non valemus? Possumus etiam
+dicere quod solium hoc excelsum et elevatum, in
+quo sedet Deus, aeternitas sit deitatis, quia de ipso
+<pb n="0623B"/>
+solo dicitur: Qui habitat <hi>aeternitatem <note>(Isa. LVII)</note>
+            </hi>,
+non quod aliud sit Deus, et aliud aeternitas ejus, sed
+quia solium regnantium est, et ideo recte in solio
+aeternitatis sedere perhibetur, quia sicut essentiae
+ejus, ita etiam omnipotentiae ipsius nec principium
+nec finis invenitur. Semper fuit, semper omnipotens
+fuit, semper in se, et a se plenus, et perfectus fuit,
+nec tamen redundans. Dicat ergo: Vidi Dominum
+sedentem super solium excelsum et elevatum, quia
+virtus divinitatis omnem creaturam et aeternitate
+praecedit, et dignitate transcendit, et potestate disponit.
+Sequitur: Et ea, quae sub ipso erant, replebant
+templum. Templum in hoc loco intelligi potest
+circuitus temporum et ambitus saeculorum. Tempora
+namque dum cursu suo in seipsa redeunt, quasi
+<pb n="0623C"/>
+quemdam templi ambitum gyrando circumscribunt.
+Quid ergo dicit: Ea, quae sub ipso erant replebant
+templum, sic intelligendum est, quod omnia saeculorum
+tempora plena sunt operibus Dei, et omnis generatio
+narrat mirabilia ejus. Vel sic legi potest.
+Ea, quae sub ipso erant, implebant templum, id est
+ea, quae implebant templum sub ipso erant, quia
+quidquid temporaliter volvitur, intra et infra aeternitatem
+invenitur, immensitas enim aeternitatis temporales
+angustias intra se claudit, quia et prius
+tempore est, quod nunquam coepit, et posterius
+tempore, quod finem nescit. Et supra tempus est,
+quod mutabilitatem non recepit. <hi>Seraphim stabant
+super illud <note>(Isa. VI)</note>
+            </hi>, Duo seraphim duo sun. Testamenta.
+Et pulchre seraphim, quod interpretatur
+<pb n="0623D"/> <hi>ardens,</hi> 
+ divinam Scripturam significat, quae eos quos
+per cognitionem prius illuminaverit per amorem
+postmodum fortiter ardere facit. Dum enim menti
+nostrae quod desiderare debeat ostendit, prius eam
+illuminat, ac deinde ardentem facit. Ardet ergo quia
+ardentes facit, sicut alibi lucere dicitur quia illuminat,
+de hac enim, Petrus apostolus ait: <hi>Habemus
+firmiorem propheticum sermonem, cui benefacitis
+attendentes quasi lucernae lucenti in caliginoso loco,
+donec dies illucescat, et lucifer oriatur in cordibus vestris <note>(II Petr. I)</note>
+            </hi>.
+Et fortassis secundum hanc similitudinem
+qua ipsi Scripturae attribui solet quod ipsa
+in cordibus efficit audientium, hoc dictum est: Seraphim
+stabant super illud. Surgit enim cum nos
+<pb n="0624A"/>
+erigit, ambulat cum nos perficere facit, stat cum nos
+in bono proposito figit. Sed inquirendum est quare
+super solium Deus sedere dicitur, et seraphim super
+solium non sedere, sed stare perhibentur. Et quia
+superius duobus modis hoc solium interpretati
+sumus, secundum utrumque modum expositionem
+adaptare debemus. Si ergo per solium Dei spirituales
+creaturas accipimus, recte super solium Deus sedens
+describitur quia dignitas deitatis ut sit super omnia
+nec virtute proficit, nec sapientia crescit, cum plenitudo
+augeri possit, nec aeternitas variari; mens vero
+humana quoties per cognitionem sacrae Scripturae
+illuminata ad coelestia contemplanda sublevatur, si
+ipsos quoque angelorum chorus transcendens usque
+ad praesentiam conditoris sui profecerit, super solium
+<pb n="0624B"/>
+quidem ascendit, sed tamen stat non sedet, quia
+illuc proficiendo per laborem venit, ubi per naturam
+manere non habuit. Stare namque laborantis est,
+sedere quiescentis, et ideo super solium nos stamus.
+Deus sedet, quia esse incipimus per gratiam, ubi
+ipse est per naturam. Similiter si per solium aeternitatem
+Dei intelligimus nos super solium stamus,
+quia ejus immortalitatem non nisi per mortis laborem
+pervenire possumus, et qui ex conditione fine
+obnoxii sumus, ex adoptione aeternitatis haeredes
+efficimur.</p>
+<p> <hi>Sex alae uni, et sex alae alteri <note>(Isa. VI)</note>
+            </hi>, id est utrumque
+sex alas habebat, quae juncta binae et binae tria
+paria alarum faciunt. Utrumque <hi>duabus <note>(Ibid.)</note>
+            </hi> corpus
+suum tegit non domini, hoc est primum par. Utrumque
+<pb n="0624C"/>
+duas extendit, alteram ad tegendum caput non
+suum sed Domini, alteram ad tegendos pedes non
+suos sed Domini, hoc est secundum par. Utrumque
+duabus volat alter ad alterum, hoc est tertium par.
+Si ergo seraphim Scripturam sacram significat, tria
+paria alarum tres sunt intellectus ejusdem Scripturae,
+id est historia, allegoria, tropologia, quae singula
+idcirco bina sunt, quia singula ad dilectionem Dei
+et proximi legentium animos accendunt. Duae alae,
+quae corpus seraphim tegunt, historia est, quae per
+velamen litterae mysticos tegit intellectus. Duae alae,
+quae usque ad caput et pedes Domini extenduntur,
+allegoria est; quia cum mystica divinae Scripturae
+discimus, usque ad ipsius divinitatis agnitionem,
+quae ante omnia, et post omnia est, per illuminationem
+<pb n="0624D"/>
+mentis penetramus. Sed sciendum est quod alae
+extensae usque ad caput, et pedes attinguntur, sed
+utrumque tangentes tegunt, quia quoties ad ejus
+aeternitatem cogitandam per excessum mentis rapimur,
+nullum in eo principium aut finem invenimus.
+Sed hac eadem ala nobis caput ejus velamus, quia
+qualiter in eo nullum sit principium comprehendere
+non valeamus. Alam ad pedes extendimus, dum eum
+post omnia esse non tempore, sed aeternitate consideramus.
+Sed pedes tegimus, dum in eo finem non
+invenimus. Tangendo ergo caput ejus, et pedes tegimus,
+quia quanto magis ejus aeternitatem mens
+humana investigare nititur, tanto magis incomprehensibilem
+esse miratur. Quod autem in Isaia scriptum
+<pb n="0625A"/>
+non est velabant caput ejus, sed scriptum est: <hi>Velabant faciem ejus 
+ <note>(Ibid.)</note>
+            </hi>, eo modo intelligi debet,
+quo dictum est ad Moysem: <hi>Non poteris videre
+faciem meam. Non enim videbit me homo, et vivet <note>(Exod. XXXIII)</note>
+            </hi>.
+Illa quippe plena cognitio divinitatis,
+quae sanctis in aeterna vita promittitur, de qua dicit
+Apostolus: <hi>Videbimus eum facie ad faciem <note>(I. Cor. XIII)</note>
+            </hi>,
+et rursus: <hi>Tunc cognoscam sicut et cognitus sum <note>(ibid.)</note>
+            </hi>.
+In hac adhuc mortalitate degentibus velata
+est, et abscondita. In illa autem vita aeterna non
+velata, sed revelata est et manifesta, sicut Dominus
+in Evangelio de beatis angelis testatur: <hi>Angeli eorum
+semper vident faciem Patris <note>(Matth. XVIII)</note>
+            </hi>. Quia ergo
+ad praesentem tractatum magis pertinebat, ut facies
+nuda remaneret, verba prophetiae non mutantes, sed
+<pb n="0625B"/>
+praetermittentes ut verum sit, quod nullum in Deo
+principium comprehenditur, caput desuper velamus,
+et ut stare possit quod dicitur: Angeli eorum semper
+vident in coelis faciem Patris, faciem apertam
+relinquimus; caetera quoque, quae hic aliter dicuntur,
+non ad prophetiam, sed ad picturam referenda
+sunt.</p>
+<p> <hi>Duabus alis volabant <note>(Isa. VI)</note>
+            </hi>. Istae duae alae, quibus
+volabant seraphim, tropologiam significant, quia
+dum per lectionem divinae Scripturae ad bona opera
+instruimur, quasi quibusdam alis ad alta sublevamur.
+Quibus etiam volamus alter ad alterum, dum
+per studium bonae operationis nos invicem exhortamur.
+Volantes autem Sanctus, sanctus, sanctus,
+clamamus, si per bona opera nostra non nostram,
+<pb n="0625C"/>
+sed Patris nostri, qui in coelis est, gloriam amplificare
+satagimus. Quid est enim: <hi>Sanctus, sanctus,
+sanctus <note>(ibid.)</note>
+            </hi> clamare, nisi Creatoris gloriam, quam
+agnovimus intus, in aperto praedicare? His breviter
+explanatis ea, quae sequuntur, deinceps tractare
+incipiamus. Restat enim ut postquam ostendimus
+quid sibi vult, quod caput Domini, et pedes ejus
+nobis abscondita esse leguntur, etiam quid de reliquo
+corpore cogitandum sit demonstremus. Si ergo
+caput Dei dicimus esse quod fuit ante constitutionem
+hujus mundi, et pedes ejus quod futurum est post
+consummationem saeculi, recte longitudinem corporis
+ejus accipimus, quod inter principium et finem
+medium est spatium temporis. Caput ergo et pedes
+teguntur, quia prima et novissima investigare non possumus.
+<pb n="0625D"/>
+Corpus apparet, quia ea quae media in hoc praesenti
+saeculo geruntur, videmus. Hoc corpus est Ecclesia,
+quae coepit a principio mundi, et usque ad finem
+saeculi durabit. Haec est arca, de qua loqui proposuimus,
+quae a capite usque ad pedes pertingit, quia a principio
+usque ad finem per successionem generationum sancta
+Ecclesia se extendit. Sed sciendum est quod sicut
+in persona hominis alia sunt circa corpus ejus, et
+neque in corpore sunt, neque de corpore, ita etiam
+est in corpore Christi, id est Ecclesia, quae habitat
+in medio pravae nationis, et dum assultus infidelium
+excipit, quasi quibusdam fluctibus procellosis foris
+arca tunditur; dum vero a falsis fratribus tribulationem
+sustinet, quasi quibusdam noxiis humoribus intus
+<pb n="0626A"/>
+corpus torquetur. Quaecunque ergo corpori contraria
+sunt sive intus sive extra sint, non sunt de corpore.
+Quod autem brachia Domini hinc inde complectuntur
+omnia, hoc significat, quod sub ejus potestate
+sunt universa, et nemo manum ejus vel dextram ad
+praemium, vel sinistram ejus effugere potest ad supplicium.
+Cur ergo amplius membra de salute corporis
+sollicita sint, quae talem capitis potestatem
+agnoverunt? Ipse novit quid expediat corpori suo,
+qui et per compassionem sentit periculum, et per
+potestatem praestat remedium. Ipse est, qui in mari
+viam ponit, quia corpus suum, id est Ecclesiam
+suam, quasi arcam in diluvio, sic inter hujus vitae
+procellas regens usque ad portum quietis aeternae
+perducit. Si ergo salvari cupimus, oportet nos intrare
+<pb n="0626B"/>
+hanc arcam. Et sicut supra dixi, hanc, arcam in
+nobis debemus facere, ut possimus intra nos in ea
+habitare. Non enim sufficit si extra nos in ea sumus,
+si non etiam didicerimus qualiter in nobis habitare
+eam debeamus. Ad quod nobis tria principaliter
+consideranda sunt, primum qualiter eam debeamus
+aedificare in nobis, secundum qualiter eam debeamus
+intrare in nobis, tertium qualiter eam debeamus
+habitare in nobis.</p>
+<p>Sed ecce dum de una arca loqui proponimus, ita
+per consequentiam rerum ducitur mens nostra, ut
+jam non de una tantum, sed de quatuor loquendum
+nobis videamus. E quibus duae visibiles exterius visibiliter
+factae sunt, duae autem invisibiles invisibili
+structura intus invisibiliter fiunt. Prima est, quam
+<pb n="0626C"/>
+fecit Noe securibus et dolabris ex materia lignorum
+et bitumine. Secunda est, quam fecit Christus per
+praedicatores suos ex collectione populorum in una
+fidei confessione. Tertia, quam sapientia quotidie
+aedificat in cordibus nostris ex jugi legis Dei meditatione.
+Quarta est, quam mater gratia operatur
+in nobis ex confoederatione multarum virtutum in
+una charitate. Prima est in te, secunda in fide, tertia
+in cognitione, quarta in virtute. Primam vocemus
+arcam Noe, secundam arcam Ecclesiae, tertiam
+arcam sapientiae, quartam arcam matris gratiae.
+Quodammodo tamen una ubique arca est, quia unica
+ubique similitudo est, et non discrepare debet in
+nomine, quod non discrepat in proprietate, una est
+forma, diversa materia, quia quod est in ligno, hoc
+<pb n="0626D"/>
+est in populo, et quod est in mente, idem est in
+charitate. Nos tamen specialiter de arca sapientiae
+loqui suscepimus, et idcirco reliquarum trium expositionem
+breviter transcurremus, ut in explanatione
+hujus postmodum liberius morari valeamus.
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. III. <hi>De forma et quantitate arcae secundum litteram.</hi> </head>
+<p>Qui studiosius indagare cupiunt earum rerum veritatem,
+quae de arca Noe secundum litteram referuntur,
+duo praecipue inquirere debent, videlicet
+formam et quantitatem arcae. Et de forma quidem
+sic dicit Origenes:  « Ego puto quantum ex his quae
+describuntur apparet, quatuor angulis ex imo consurgentem
+eisdemque paulatim usque ad summum
+<pb n="0627A"/>
+in augustum attractis in spatium unius cubiti fuisse
+collectam. »  Cui sententiae plura refragari videntur,
+primum quod haec forma ad natandum non videtur
+esse idonea. Constat namque tantae molis machinam,
+tot et tantis onustam animalibus, atque cibariis,
+nequaquam ita potuisse supernatare venientibus
+aquis, ut non ex magna parte sui deorsum premeretur;
+cujus rei experimentum adhuc capere
+possumus in navibus magna gestantibus onera. Si
+ergo, ut dicitur, statim ab imo contrahi coepit, ut
+intumescentes fluctus latera hinc inde inclinantia
+non repellerent, sed exciperent, et non tam aquae
+arcam, quam arca aquas portaret? quomodo fieri
+poterat, ut non tota statim ad ima descenderet;
+rursum cum dicit. <hi>Pones ostium in latere deorsum</hi> 
+<pb n="0627B"/> <note>(Gen. VI)</note>.
+Per latus deorsum videtur significare parietem
+lateralem ad differentiam lateris, quod sursum
+erat in tecto, in quo fortassis fenestra posita
+fuit. Et iterum dicit: <hi>Aperiens Noe tectum arcae <note>(Gen. VIII)</note>
+            </hi>,
+satis consequenter innuit ipsam arcam
+deorsum habuisse parietes, quibus superpositum
+fuit tectum, quod erat supremae mansioni, in qua
+homo morabatur, contiguum. Propter has, et alias
+hujuscemodi causas, videtur nobis quod in ipsa arca
+parietes in quatuor partibus fuerint erecti quibus
+tectum superpositum in cacumine suo ad mensuram
+unius cubiti contraheretur. Cujus autem altitudinis
+fuerint parietes ipsi, hoc auctoritas non dicit, sed
+tamen quantum conjicimus altitudo parietum usque
+ad fundum quartae mansionis extendebatur. Affirmant
+<pb n="0627C"/>
+namque doctores ostium arcae inter secundam
+et tertiam mansionem locatum, ita ut lumen ejus
+fundo tertiae mansionis esset contiguum. Introitus
+autem ejus sursum in latere ejusdem mansionis excisus,
+ita ut ab ostio duae quidem mansiones deorsum
+essent, tres vero sursum. Et unam dicunt ad
+fimum animalium recipiendum ordinatam, secundam
+ad cibaria eorum. In tertia fuisse indomita animilia,
+in quarta mitia animalia, in quinta (quae suprema
+erat) homines et volatilia. Et verisimile est,
+quod duae illae inferiores mansiones natante arca
+deorsum inter aquas premerentur. Tertia vero, in
+qua animalia erant, quae spiramento aperti aeris
+eguerunt, prima supra aquas emineret, ita ut foris
+per aquam ad arcam ascendentibus ostium fere per
+<pb n="0627D"/>
+planum occurreret. Et secundum hunc modum fortassis
+dictum est: Pones ostium deorsum. Vel deorsum
+ideo quia in quacunque mansione poneretur,
+deorsum erat, ut arca intrantium pedes exciperet.</p>
+<p>Si vero quaeritur utrum aequalis fuerit altitudo
+singularum mansionum necne, nos quidem ex auctoritate
+probare non possumus, quid inde sentiendum
+sit. Interim tantum, quod auctoritati contrarium
+non sit, nobis concedi postulamus. Volumus
+enim sic distinguere, ut primae mansioni demus in
+altitudine, quatuor cubitos, secundae quinque, tertiae
+sex, quartae septem, quintae octo, et sic altitudo
+parietum quindecim habebit cubitos, et quindecim
+altitudo tecti.</p>
+<p>
+            <pb n="0628A"/>In parietibus hujus arcae foris facti erant nidi sive
+mansiunculae quasi ad ipsos parietes affixi, ita ut
+introitus eorum extrinsecus pateret, ipso pariete integro
+permanente intrinsecus. Et hos nidos dicunt
+factos esse propter illa animalia, quae nec semper in
+aqua nec semper in arida degere possunt, sicut est
+lutra et vituli marini. Haec de forma arcae dicta
+sunt.</p>
+<p>De quantitate dicitur: <hi>Trecentorum cubitorum
+erit longitudo, quinquaginta latitudo, tringinta altitudo <note>(Gen. VI)</note>
+            </hi>.
+Sed sunt qui dicant, quod haec magnitudo
+ad tot genera animalium, et ad eorum cibos,
+quibus per annum integrum vescerentur, capiendos
+non sufficeret. Quam quaestionem doctores hac ratione
+solvunt. Aiunt namque quod Moyses, qui ut de
+<pb n="0628B"/>
+eo Scriptura testatur omni sapientia Aegyptiorum
+fuerat eruditus, secundum autem geometricam,
+quam praecipue Aegyptii callent, cubitorum numerum
+in hoc loco posuit, qua in sex cubitis unus deputatur.
+Quae utique ratio si observetur in hujus arcae
+mensura, invenientur tanta spatia longitudinis, et
+latitudinis, et altitudinis, quae vere totius mundi reparanda
+germina, et universorum animantium capere
+potuerint re divina seminaria. Sciendum quoque
+est, quod illa animalia, quae non de coitu generantur,
+sed de humore terrae vel cadaverum, sive cujuslibet
+alterius rei corruptione, vel illa, quae ex commistione
+diversi generis nascuntur, ut muli et burdones,
+necesse non fuit in arca contineri. Ex quibus
+colligitur non fuisse impossibile, ut reliquorum omnium
+<pb n="0628C"/>
+animantium seminaria reparanda tantae capacitatis
+locus contineret. Si autem libet diligentius
+inquirere ea, quae ad geometricalium dimensionum
+rationem pertinent, magna hic horum elucet disciplina,
+ex quibus nos pauca causa brevitatis perstringimus.
+Digitus est pars minima agrestium mensurarum
+propriam appellationem habentium. Quidquid
+enim digito minus est a partibus respondemus, ut
+est secunda, tertia vel quarta pars. Per quem videlicet
+digitum sic mensuramus, ut per transversum
+pollicem pollici lateraliter conjungentes radices unguium
+recta linea respondere faciamus. Et haec ratione
+quatuor digiti faciunt palmum unum, quatuor
+palmi faciunt pedem unum. Pes et dimidius cubitum
+<pb n="0628D"/>
+parvum, sex parvi cubiti cubitum magnum, et sic
+magnus cubitus habebit novem pedes. Parvus sesqui
+pedem. Longitudo ergo trecentorum cubitorum magnorum
+habebat parvos cubitos mille octingentos.
+Pedes duo millia, et septingentos. Palmos autem decem
+millia et octingentos, digitos vero quadraginta
+tria [duo] millia ducentos. Rursus quinque pedes
+faciunt passum unum, centum viginti quinque passus
+stadium unum, octo stadia milliare unum. Ac per
+hoc patet, quod haec arca in longitudine sua habuit
+passus quingentos quadraginta, et stadia quatuor
+(id est dimidium milliare) et quadraginta passus.
+Simili ratione possunt ista in latitudine et altitudine
+reperiri. Quod si etiam scire delectat, quod quadratorum,
+sive pedum, sive cubitorum fuerit embadion,
+<pb n="0629A"/>
+id est arca, multiplica majus latus per minus, et quot
+a summa inde excreverit, tot quadratorum erit arca.
+Verbi gratia: Dic quinquagies trecenti fiunt quindecim
+millia, tot cubitorum quadratorum est arca.
+Et sic de aliis: Si hujus tetragoni diagonalem lineam
+quaeris, haec tibi sit regula. Multiplica utrumque
+latus, id est majus, unumquodque per se, ac
+deinde illius summae, quae inde excrescit, in unum
+coacervatae latus quaere, et hoc prodiagonio habeto.
+Verbi gratia. Dic trecenties trecenti fiunt nonaginta
+millia: Dic quinquagies quinquaginta fiunt duo
+millia quingenti. Hujus summae latus est trecenti
+quatuor et semis unum, hoc est non integrum. Si
+dimidium hujus sumis, habes centum quinquaginta
+duo et semis uno minus. Haec est, quae extenditur
+<pb n="0629B"/>
+ab angulo usque ad medium. Si hanc habueris pro
+base, et in medio arcae in altitudinem tringinta cubitorum
+ratetum erexeris, et de ipso rateto a supremo
+tertiae mansionis sursum quindecim sumpseris,
+et hoc pro rateto habueris, eique pedetenus hanc
+basim secundum geometricalem regulam comparaveris,
+videbis mirabili ratione omnes angulares hypotemisas
+in mensuram centum quinquaginta duorum,
+et semis provenire. Similiter si basim a fronte
+hinc inde venientem cum rateto contuleris, videbis
+etiam hypotemisas a frontibus procedentes in centum
+quinquaginta duo semis porrigi. Quae autem a
+lateribus veniunt hypotemisae in viginti octo, et semis
+extendentur habentes bases viginti quinque cubitorum.
+Regula inveniendi hypotemisam haec est
+<pb n="0629C"/>
+ut ratetum in se multiplices, similiter basim in se,
+et has summas simul componas, et illius numeri,
+qui inde excrescit latus pro hypotemisa habeto. In
+hac autem arca hypotemisae vicem gerunt tigna
+oblique ab imo ad superiora porrecta.</p>
+<p>Ratenus est stylus in medio arcae erectus usque
+ad supremum cubitum. Basis est linea jacens ab
+angulo arcae usque ad ratetum porrecta. Diagonalis
+linea vocatur, quae protenditur ab angulo in angulum
+illi oppositum. In trigonis his, et tetragonis
+multa alia invenies ad subtilitatem geometricae disciplinae
+pertinentia, quae omnia nos propter fastidium
+declinamus. Sunt alii, qui dicunt in arca non fuisse
+nisi tres mansiones, et ex his unam semel cameratam,
+<pb n="0629D"/>
+mediam bicameratam, supremam tricameratam;
+et aiunt has distinctiones mansionum Scripturarum
+appellasse caenacula; ipsas autem mansiones
+tres tristega. Et hanc formam nos idcirco potius
+quam reliquas depinximus, quia non facile altitudinem
+parietum in plano demonstrare potuimus.
+In hac enim forma tigna hinc inde surgentia paulatim
+contrahuntur donec in cacumine ad unius cubiti
+mensuram conveniunt.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV. <hi>De arca Ecclesiae, seu Ecclesia.</hi> </head>
+<p>Haec secundum litteram dicta sunt de arca Noe.
+Restat nunc ut videamus, quae sit arca Ecclesiae,
+vel ut expressius loquar, ipsa Ecclesia arca est,
+quam summus Noe, id est Dominus noster Jesus
+Christus, gubernator, et portus inter procellas hujus
+<pb n="0630A"/>
+vitae regens per se ducit ad se. Trecentorum cubitorum
+longitudo, praesens saeculum designat, quod
+tribus temporibus decurrit, id est tempore naturalis
+legis, tempore scriptae legis, tempore gratiae, per
+quae sancta Ecclesia a principio mundi usque ad finem,
+a praesenti vita ad futuram gloriam tendit.
+Quinquaginta cubitorum latitudo universos fideles
+significat, qui sub uno capite sunt constituti, id est
+Christo. Nam quinquaginta constat ex septies septem,
+id est quadraginta novem, qui numerus universitatem
+fidelium designat, et uno superaddito,
+quod significat Christum <hi>qui est caput Ecclesiae</hi> suae <note>(Ephes. V)</note>,
+et finis desideriorum nostrorum. Propter
+quod in uno cubito consummatur. Altitudo tringinta
+cubitorum significat tringinta volumina divinae paginae,
+<pb n="0630B"/>
+id est viginti duo Veteris Testamenti, et octo
+Novi, in quibus summa omnium continetur, quae
+Deus vel fecit vel facturus est propter Ecclesiam
+suam. Tres mansiones significant tres ordines fidelium,
+qui sunt in sancta Ecclesia, quorum primi
+utuntur mundo, licite tamen. Secundi fugiunt et
+obliviscuntur mundum. Tertii jam obliti sunt mundum,
+et ii sunt propinqui Deo. Quod in superioribus
+arca contrahitur, in inferioribus dilatatur, hoc significat,
+quod in sancta Ecclesia major est numerus
+carnalem vitam ducentium quam spiritualium, ita
+ut semper quanto perfectiores, tanto sint pauciores.
+In supremo ad unius cubiti mensuram arca contrahitur,
+quia Christus caput Ecclesiae suae, qui est
+Sanctus sanctorum, per naturam consimilem inter
+<pb n="0630C"/>
+homines est et per virtutem singularem supra homines
+est. Centum anni, in quibus aedificata est arca,
+idem significant quod centum cubiti. Nam centum
+anni significant tempus gratiae, quia sancta
+Ecclesia, quae ab initio mundi coepit, in tempore
+gratiae per immolationem Agni immaculati redemptionem
+accepit. Tunc namque fabricata est arca,
+quando de latere Christi in cruce pendentis in
+sanguine et aqua profluxerunt Ecclesiae sacramenta.
+Quando Agnus immolatus est, tunc est
+sponsa Agni nata. Quando Adam soporatus est, tunc
+Eva fabricata est <note>(Gen. II)</note>. Ascendit sponsus noster
+thalami sui lectum, dormivit, moriendo exhibuit
+quod ab initio profuit, fecit quod ab initio fuit.
+<pb n="0630D"/>
+Vide an idem dicere velit Scriptura, quando loquitur
+de fabricatione hujus arcae, hoc est Ecclesiae.
+Quid dicis?  A. <hi>In libro,</hi> inquit, <hi>vitae Agni qui occisus
+est ab origine mundi <note>(Apoc. XIII)</note>
+            </hi>. Qui est hoc? In
+fine saeculi in carnem venit Filius Dei, permisit se
+crucifigi pro salute hominum, permisit se occidi,
+permisit se immolari. In fine ergo saeculi occisus est
+Agnus, semel enim tantum est occisus, et quomodo
+stare potest quod dicitur occisus est ab origine
+mundi? Nunquid prius potuit occidi quam incarnari?
+Nihil adhuc mortale habuit, et quomodo mori
+potuit? Quod si ab initio occisus est, prius occisus
+est quam incarnatus est. Si ab initio occisus est, non
+jam semel, sed saepe, imo semper occisus est. Nam
+quod ab initio fuit, semper fuit; et quod ab initio.
+<pb n="0631A"/>
+est, semper est. Sed fortasse si dixeris, occisus est
+ab initio, id est, iis qui fuerunt ab initio, hoc est
+ad redemptionem, ad salutem, ad reconciliationem
+eorum, qui fuerunt ab initio, ita ut per hoc quod
+dicitur ab initio determines non tempus occisionis
+sed salutis, jam inconveniens nullum erit, si et semel,
+et ab initio dicatur esse occisus. Prius etiam
+mors ejus profuit, quam fuit prius promissio, ac
+deinde exhibitio. Ab initio ergo saeculi occisus est,
+quia ab initio saeculi illi fuerunt, pro quibus in fine
+saeculi occisus est. Sed tamen quando induit decorem,
+id est carnem immaculatam, carnem impollutam,
+carnem speciosam de virgineis membris
+assumpsit, et praecinxit se fortitudine, id est per
+crucis trophaea aerias potestates debellavit, ex tunc
+<pb n="0631B"/>
+parata est sedes ejus ex tunc redempta est ecclesia
+ejus, extunc reducta est ovis, quae perierat,
+extunc coelestis regni aditus patefactus est, qui
+prius clausus fuerat. Vides ergo nunc quomodo
+arca et trecentorum cubitorum longa est, et tamen
+non trecentis, sed centum annis fabricata est, quia
+Ecclesia, quae ab initio saeculi fuit, in fine saeculi
+redempta est. Quod vero sexies longa est ad latitudinem
+suam haec arca, et decies ad altitudinem,
+suam, humani corporis instar ostendit, in quo
+Christus apparuit; nam et ipsa corpus ejus est. Corporis
+enim longitudo a avertice usque ad vestigium
+sexies tantum habet quantum latitudo, quae est ab
+uno latere usque ad alterum latus, et decies tantum
+quantum et altitudo, cujus altitudinis mensura est
+<pb n="0631C"/>
+in latere a dorso in ventrem, velut si jacentem hominem
+metiaris supinum sive pronum, sexies tantum
+longitudinis est a capite usque ad pedes, quantum
+latus a dextra in sinistram, vel a sinistra in
+dexteram, et decies quantum latus a terra. Sexies
+est numerus quinquagenarius in trecentis, et sex
+aetates sunt in tribus temporibus saeculi. Vel trecenti
+significant fidem Trininatis, vel crucem propter <hi>Tau,</hi> 
+ quod in numeris trecentos significat, et adhuc
+apud suos formam retinet crucis. Quinquaginta
+remissionem peccatorum designant, triginta mensuram
+aetatis plenitudinis Christi. Secundum illam
+sententiam, qua intrinsecus altitudinem arcae distinguimus
+in quinque mansiones, arca est Ecclesia, et
+quinque mansiones sunt quinque status, tres praesentis
+<pb n="0631D"/>
+vitae, et duo futurae. Primus status est illorum
+hominum, qui dicuntur carnales, de quibus dicit
+Apostolus: <hi>Non potui loqui vobis quasi spiritualibus,
+sed quasi carnalibus lac vobis potum dedi, non
+escam <note>(I Cor. III)</note>
+            </hi>. Secundus status est illorum hominum,
+qui vocantur animales, de quibus dicit rursum: <hi>Animalis homo non percipit ea quae sunt Dei 
+ <note>(I Cor. II)</note>
+            </hi>;
+tertius status est spiritalium, de quibus ait: <hi>Spiritualis
+judicat omnia, et ipse a nemine judicatur (Ibidem)</hi>;
+quartus status est animarum exutarum a
+corpore; quintus status est in anima et corpore resurgentium,
+qui supremus est, et cubito supremo
+contignus. Quod res inferiores mansiones secundum
+altitudinem parietum in directum ascendunt, et versus
+<pb n="0632A"/>
+supremum cubitum non inclinantur, hoc significat,
+quod quantumlibet in hac vita proficimus,
+adhuc tamen a facie conditoris nostri quasi aversi
+sumus, quia et per meritum ascendimus, sed per
+praesentiam contemplationis ad ipsum non inclinamur.
+Unde recte in Canticis canticorum sponsa dilectum
+suum <hi>post parietem</hi> stare <note>(Cant. II)</note> commemorat,
+quia quandiu hujus corruptionis tegmine
+circumdamur, quasi quodam pariete interposito ab
+ejus facie prohibemur. Quarta autem et quinta
+mansio in ascensu suo ad unum colliguntur, quia
+animae sanctorum et nunc deposito carnis onere in
+contemplatione sui conditoris laetantur, et cum iterum
+corpora sua immortalia et impassibilia receperint,
+tunc plenius et vicinius ei per contemplationis
+<pb n="0632B"/>
+praesentiam adhaerebunt. Quod enim arca in tecto
+suo sursum in unum colligitur, quid aliud significat,
+nisi quod cum ab hujus vitae tenebris educti
+fuerimus, tunc omnium desideriorum nostrorum finem
+ad unum referemus, quoniam sicuti est, Deum
+videre coepimus, ut jam nil libeat, nisi ejus faciem
+sine intermissione intueri, ejus dulcedine sine fastidio
+satiari, ejus amore sine defectu perfrui. Hoc est
+enim ad ipsum tendere, et ad ipsum pertingere,
+semper eum et per desiderium quaerere, et per cognitionem
+invenire, et per gustum tangere. Illi
+mansioni, quae fundo erat contigua, deputatus erat
+fimus animalium, qui recte vitam carnalium exprimit,
+quoniam ii qui carnis desideriis inserviunt,
+quid aliud quam putredo fiunt? Secunda abhinc
+<pb n="0632C"/>
+mansio continet cibaria animalium, per quae convenienter
+designantur ii, qui in sancta Ecclesia
+quemdam medium statum tenent, qui neque prorsus
+per illicita desideria carni succumbunt, neque per
+contemptum mundi ad dignitatem spiritualium pertingere
+possunt. Hi autem dum a spiritualibus spiritualibus spirituali
+comparantes pro erogatione verbi Dei doctoribus
+suis terrenae substantiae subsidia reddunt, quid
+aliud quam sanctorum animalium apotheca fiunt?
+Tertia denique mansio animalia quidem tenet sed
+immansueta, per quae designatur vita spiritualium,
+qui quandiu in hac corruptione tenentur, et legi
+Dei per rationem subjecti sunt, et tamen in sua
+carne portant per quod adhuc legi contradicunt.
+Animalia ergo sunt, quia vivunt per rationem mentis,
+<pb n="0632D"/>
+sed immansueta per illicita desideria carnis. In
+quarta mansione sunt mitia animalia, quia sicut
+dicit Apostolus: <hi>Qui mortuus est, justificatus est a
+peccato <note>(Rom. VI)</note>
+            </hi>. Et secundum Prophetae sententiam. <hi>In illa die peribunt omnes cogitationes eorum. 
+ <note>(Psal.
+CXLV)</note>
+            </hi>. Quoniam ubi a vinculis carnis corruptibilis
+exeunt, deinceps ab illicitis desideriis mansuescunt.
+Quintam mansionem homo tenet, et volatilia. Per
+hominem designatur vivacitas rationis, et intelligentiae,
+in volatilli exprimitur agilitas incorruptibilis
+naturae. Quando ergo <hi>mortale hoc induerit immortalitatem,
+et corruptibile hoc</hi> vestierit <hi>incorruptionem <note>(I Cor. XV)</note>
+            </hi>,
+tunc mente pariter, et corpore
+spiritales effecti, secundum modulum nostrum, et
+<pb n="0633A"/>
+per mentis illuminationem omnia sciemus, et per
+corporis incorruptibilis levitatem ubique esse poterimus.
+Volabimus mente per contemplationem, volabimus
+corpore per incorruptionem. Discernemus
+mente, et, ut ita dicam, discernemus et corpore,
+quando ipsi sensus nostri corporei vertentur in rationem,
+ratio in intellectum, intellectus transibit in
+Deum, cui nos conjungemur per unum mediatorem
+Dei, et hominum Dominum Jesum Christum.</p>
+<p>Quod autem forma arcae desuper ad similitudinem
+curtae pyramidis usque ad summum cacumen non
+pervenit, hoc significare potest, quod quid infra
+Deum est, minus perfecto est, quia et ipse redemptor
+noster secundum formam susceptae humanitatis
+minor patre est, et ipse hoc Patri per obedientiam
+<pb n="0633B"/>
+subjicit, quod ipse a Patre per aequalitatem majestatis
+non accepit. Si quis autem voluerit indagare
+mysteria numerorum, quos supra in altitudine unius
+cujusque mansionis distribuimus, videbit congrue
+quaternarium primae mansioni deputatum. Quia
+enim corpus humanum ex quatuor elementis componitur,
+ex quatuor humorum complexione compaginatur,
+recte carnalium vita, qui voluptatibus corporis
+deserviunt, per quaternarium exprimitur. De
+hinc quinarius propter quinque sensus apte animales
+homines figurat, qui quamvis flagitiis carnalibus
+turpiter non subjaceant, quia tamen quae sit delectatio
+spiritus non noverunt, ea quae foris ad delectationem
+sensuum pertinent, sequuntur et diligunt.
+Senarius propter perfectionem operum spiritualibus
+<pb n="0633C"/>
+congruit. Septenarius, quia requiem significat,
+animarum est in spe requiescentium et praestolantium
+gloriam resurrectionis. Octonarius, quia
+signum est beatitudinis, illis convenit, qui jam
+receptis corporibus beata immortalitate laetantur.
+Est adhuc aliud quod dicere possumus de tribus
+primis mansionibus, habet namque unusquisque
+nostrum tres voluntates in se, quarum prima est
+carnalis, secunda animalis, tertia spiritualis. Carnalis
+voluntas est laxare frena concupiscentiae desideriis
+carnalibus per omnia sine retractione obedire.
+Legi non subesse, neminem timere, quidquid
+libeurit facere. Cui econtrario concupiscentia spiritus
+adversata ita desiderat tota spiritualibus studiis
+inhaerere, ut etiam necessarios carnis usus optet
+<pb n="0633D"/>
+excludere. Inter has igitur utrasque concupiscentias
+animae voluntas in meditullio quodam temperatiore
+consistens, nec vitiorum flagitiis oblectatur, nec
+virtutum doloribus acquiescit; sic quaerens a passionibus
+tempererare carnalibus, ut nequaquam
+consentiat dolores necessarios sustinere, sine quibus
+desideria spiritus nequeunt possideri, donum castitatis
+desiderans obtinere absque castigatione vel
+maceratione carnis, sine vigiliarum labore cordis
+<pb n="0634A"/>
+puritatem acquirere; humilitatem Christi sine honoris
+mundani jactura exhibere. Postremo sic vult
+futura consequi bona, ut non amittat praesentia
+Quae voluntas nunquam nos ad perfectionem veram
+perduceret, sed in tempore quodam teterrimo collocaret,
+nisi hunc tepidissimum statum intrinsecus
+haec insurgentia bella dirumperent. Nam cum huic
+voluntati famulantes volumus nosmetipsos paululum
+relaxare, confestim aculei carnis insurgentes, nequaquam
+nos in illa, qua delectamur, teporis puritate
+innoxia stare permittunt, sed ad illam, quam
+horremus, frigidam et plenam sentibus vitiorum
+pertrahunt viam. Rursum cum succensi fervore
+spiritus opera carnis volumus exstinguere sine ullo
+respectu fragilitatis humanae, et nosmetipsos totos
+ad immoderata virtutum studia cordis elatione conferre,
+<pb n="0634B"/>
+imbecillitas carnis interpellans ab illa reprehensibili
+nimietate spiritus revocat, ac retardat, et ita
+fit utraque concupiscentia tali colluctatione alterna
+sibimet repugnante, ut animae voluntas, quae nec
+totam se carnalibus desideriis dedere, nec virtutum
+laboribus vult desudare, quodam justo moderamine
+temperetur, quadam aequalitatis libra in
+statera nostri corporis constituta, quae spiritus,
+carnisque examine, nec a dextra mentem spiritus
+ardore succensam, nec a laeva carnem vitiorum
+aculeis praeponderare permittens, tepidum illum
+animalis voluntatis statum excludit, et ad illud
+quartum quod volumus salubriter venire compellit,
+ut virtutes non otio et securitate, sed
+<pb n="0634C"/>
+jugi sudore et contritione spiritus acquiramus,
+ne in illo perniciosissimo tepore permanentes,
+ab ore suo nos emovere incipiat Deus. Hanc
+vero luctam carnis et spiritus, et fructus ejus
+Apostolus manifestat ubi dicit: <hi>Dico</hi> autem <hi>spiritu
+ambulate, et desideria carnis non perficietis.
+Caro enim concupiscit adversus spiritum, et spiritus
+adversus carnem. Haec autem sibi invicem adversantur,
+ut non quaecunque vultis, illa faciatis <note>(Gal. V)</note>
+            </hi>.
+Moraliter autem. Quisque se ab hujus mundi delectatione
+separare, et virtutibus operam dare contendit,
+cooperante Dei gratia, aedificare debet intus aedificium
+virtutum, cujus longitudo in fide Trinitatis
+trecentos cubitos habeat, in latitudine charitatis
+quinquaginta, in altitudine spei quae in Christo est
+<pb n="0634D"/>
+triginta, ut sit in bona operatione longus, in dilectione
+amplus, in desiderio altus, ut cor suum habeat
+ubi Christus est in dextera Dei sedens. Unde et
+ipsius crucifixi caput in altitudine crucis positum
+est, manus autem in latitudine expansae sunt, ut
+affectus cordis nostri usque ad inimicos diligendos
+extendatur. In longitudine crucis corpus crucifixi
+positum est, ut non sit remissa operatio nostra, sed
+extensa, ut perseveret usque in finem.
+</p>
+        </div2>
+      </div1>
+
+
+<div1>
+        <head>LIBER SECUNDUS,</head>
+        <pb n="0635"/>
+        <head>Cujus haec sunt capitula.</head>
+<div2>
+          <head>CAP. I. </head>
+          <p>
+ <hi>De arca sapientiae.</hi> --CAP. II. <hi>De ostio, et fenestra ejusdem arcae.</hi> --CAP. III. <hi>De quatuor modis
+exeundi per actionem.</hi> --CAP. IV. <hi>De quatuor modis exeundi per contemplationem.</hi> --CAP. V. <hi>Quomodo
+ramus olivae deportetur ad arcam sapientiae.</hi> --CAP. VI. <hi>De tribus mansionibus arcae sapientiae, sive intellectualis.</hi> --CAP. VII. <hi>Quod columna in medio arcae hujus erecta sit.</hi> --CAP. VIII. <hi>De diversitate arcam
+ascendentium.--CAP. IX. De ligno vitae, et libro vitae in columna.--CAP. X. De duobus quae sunt in ligno;
+et rursum de libro et ligno vitae.</hi> --CAP. XI. <hi>De diversis libris, et quis liber vitae dicatur.</hi> --CAP. XII. <hi>De
+tribus libris.</hi> --CAP. XIII. <hi>De tribus verbis.</hi> --CAP. XIV. <hi>De tribus lignis vitae.</hi> --CAP. XV. <hi>De tribus libris
+vitae.</hi> --CAP. XVI. <hi>De tribus verbis.</hi> --CAP. XVII. <hi>De tribus paradisis, et comparatione trium lignorum,
+quae sunt in eis.</hi> --CAP. XVIII. <hi>De arbore sapientiae, et vero ligno, ejusque incrementis, et profectu.</hi> 
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. PRIMUM. <hi>De arca sapientiae.</hi> </head>
+
+<pb n="0635A"/>
+<p>Quod dicere volumus de arca sapientiae ita distinguendum
+est ab iis quae secundum allegoriam
+superius assignata sunt Ecclesiae, ut quod ibi demonstratum
+est in re, hoc hic quaeratur in cogitatione.
+Habent enim quoddam esse suum res in
+mente hominis, ubi illa etiam, quae in seipsis vel
+jam praeterierunt, vel adhuc futura sunt, simul
+subsistere possunt. Et in hoc quodammodo rationalis
+anima similitudinem sui Creatoris habet, quia
+sicut in mente divina omnium rerum causae aeternaliter
+sine mutabilitate, et distinctione temporali
+substiterunt, ita etiam in mente nostra praeterita,
+praesentia, et futura per cogitationem simul subsistunt.
+Si ergo per studium meditationis assidue cor
+<pb n="0635B"/>
+nostrum inhabitare coeperimus, jam quodammodo
+temporales esse desistimus, et quasi mortui mundo
+facti intus cum Deo vivimus. Tunc quidquid fortuna
+extra molitur facile contemnimus, si ibi fixum
+est desiderium nostrum, ubi mutabilitati non subjacemus.
+Ubi nec praeterita relinquamus, nec exspectemus
+futura, ubi nec cupiamus hujus vitae prospera,
+nec timeamus adversa. Habeamus ergo rectas,
+habeamus utiles et castas cogitationes, quia
+de tali materia fabricabimus arcam nostram. Ista
+sunt ligna, quae in aquam missa natant, in igne
+posita ardent, quia tales cogitationes fluxus carnalium
+delectationum deorsum non premit. sed flamma
+charitatis incendit. Nec timeas hunc ignem in tectis
+tuis. Vae tibi si non arserit ex eo tabernaculum
+<pb n="0635C"/>
+tuum. Postea bituminabis arcam tuam intus et
+extra. Extra ut mansuetudinem exhibeas, intus ut
+charitatem non amittas. Nullatenus enim in secreto
+conscientiae tuae suaviter pausare poteris, nisi prius
+malos, et extra per mansuetudinem tolerare, et intus
+didiceris per charitatem non odisse. Bitumen
+calidae naturae est, et nascitur de terra fulminata,
+et charitas procreatur in anima timore divini judicii
+percussa. Deinceps videamus de mensura arcae,
+qualiter fieri possit in nobis diximus supra trecentos
+cabitos praesens saeculum designare. Si ergo tu cogitationem
+tuam duxeris ab exordio mundi usque
+ad finem, et pertransiens consideraveris quae, et
+quanta Deus mirabilia propter electos suos operatus
+<pb n="0636A"/>
+sit, vel adhuc operaturus, trecentorum cubitorum
+longitudinem in corde tuo metieris. Si cogitatione
+percurris Ecclesiam, et vitam fidelium contemplatus
+eam tibi ad exemplum proponis, et in
+latitudinem quinquaginta cubitorum cor extendis.
+Si vero divinae paginae, quae triginta libris continetur,
+scientiam adeptus fueris, in altitudinem triginta
+cubitorum cor tuum erigis. Haec est arca,
+quam aedificare debes. Isti sunt termini patrum tuorum,
+quos tibi transgredi non licet, quos Altissimus
+constituit juxta numerum filiorum Israel, quando
+separabat filios Adam, et gentes dividebat. Haec est
+terra, quam inhabitare debes, et pasci in divitiis
+ejus. Requiesce ergo intra hos parietes, sub hoc
+tecto mane, habita in domo hac, procella et tempestas
+<pb n="0636B"/>
+foris saevit, quacunque prodieris naufragium
+patieris. Si superbe per sapientiam tuam divina
+secreta rimari conaris, quae nobis Deus per scripturam
+suam aperire noluit, altitudinem triginta
+cubitorum transcendis. Si usque in finem saeculi
+non credis Ecclesiam duraturam, sed aliquando Dei
+destituendam auxilio, tunc centum cubitorum longitudinem
+transis. Si frequenter de amatoribus hujus
+mundi, et de vana conversatione illorum cogitare
+delectaris quinquaginta cubitorum mensuram
+transgrederis.</p>
+</div2>
+
+<div2>
+          <head>CAP. II. <hi>De ostio, et fenestra hujus arc ae</hi> </head>
+<p>Arca diluvii, sicut jam dictum est, cordis nostri
+secretum est, in quo latere debemus a strepitu hujus
+<pb n="0636C"/>
+mundi. Sed quia ipsa nostrae conditionis infirmitas
+diu nos in silentio intimae contemplationis
+pausare non patitur, exitum habemus per ostium
+et fenestram. Ostium significat exitum per operationem,
+fenestra exitum qui fit per cogitationem.
+Ostium deorsum est, fenestra sursum, quia actiones
+ad corpus pertinent, cogitationes ad animam. Hinc
+est quod per fenestram aves exierunt, per ostium
+bestiae et homines. Quod autem per avem anima
+significetur, et per hominem corpus, habemus ex
+libro Job ubi dicitur: <hi>Homo ad laborem nascitur,
+avis ad volatum <note>(Job V)</note>
+            </hi>. Quoniam sic nati in hac
+vita sumus, ut si volumus animam per contemplationem
+sublevare, necesse sit corpus per exercitia
+laboris atterere. Quod vero ostium in latere positum
+<pb n="0637A"/>
+dicitur, hoc significat quod nunquam a secreto
+cordis nostri per operationem exire debemus ex
+proposito intentionis, sed ex accidenti occasione
+necessitatis. Et fortassis non sine causa hoc de
+fenestra tacuit Scriptura; quia, etsi per cogitationem
+aliquando voluntate exire liceat, nunquam tamen
+per operationem foras prodire debemus, nisi
+ex necessitate. Quod etiam per hoc convenienter
+innuitur, quod homo ipse quando voluit fenestram
+aperuit, ut aves emitteret. Ostium vero foris a Deo
+et clausum, et rursum apertum ab eo esse legitur,
+ut homo exiret.</p>
+</div2>
+
+<div2>
+          <head>CAP. III. <hi>De quatuor modis exeundi per actionem.</hi> </head>
+<p>Quatuor autem modis eximus per actionem. Actiones
+namque aliae sunt carnales, id est quae ad
+<pb n="0637B"/>
+usum corporis pertinent; aliae spirituales, qua pertinent
+ad instructionem mentis. Ad utrasque boni
+et mali exeunt. Qui ad explendam voluptatem terrenis
+actionibus foris inserviunt, similes sunt immundis
+animalibus, quae de arca exierunt. Qui autem
+eas ad usum necessitatis administrant, animalia
+quidem sunt, sed munda. Qui vero ecclesiastici
+regiminis curam, quae videlicet actio spiritualis
+est, agendam suscipiunt, et a secreto internae quietis,
+non ex ambitione, sed ex praecepto obedientiae
+ad publicum prodeunt; similes sunt Noe, qui exiens
+de arca sacrificium obtulit, quia saepe tales eo magis
+per abstinentiam omnes in se carnis motus occidunt,
+quo graviora internae quietis damna per occupationem
+se pertulisse cognoscunt. Illi autem qui
+<pb n="0637C"/>
+propter gloriam propriam honores in Ecclesia suscipiunt,
+et cum se in sublimi positos vident, caeteros
+despiciunt, et infirmioribus quibusque in Ecclesia
+positis ex compassione condescendere nolunt,
+similes sunt Cham, qui denudati patris verenda derisit,
+et ab hoc meruit sententiam maledictionis
+accipere.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV. <hi>De quatuor modis exeundi per contemplationem.</hi> </head>
+<p>Quatuor etiam modis eximus per contemplationem.
+Primus modus est, quando consideramus omnem
+creaturam quid sit ex se, et invenimus omnia
+esse vanitatem, quia omnis creatura sicut de
+nullo adesse venit, ita et quotidiana immutatione
+<pb n="0637D"/>
+indicat, quod quantum in se est ad nihilum
+tendit.</p>
+<p>Secundus modus est, quando consideramus quid
+sit in eadem creatura ex dono Creatoris, et cernimus
+in ea divinae rationis similitudinem, quia
+ipsa, quae pro sua conditione mutabilitati subjacent,
+dum hoc ex beneficio Creatoris accipiunt,
+ut nunquam prorsus esse desinant, quodammodo
+opus temporale aeterni opificis imitatur stabilitatem.</p>
+<p>Tertius modus est, quando consideramus quomodo
+utatur Deus ministerio creaturarum ad implenda
+judicia sua, sive pro sua misericordia beneficia
+largiendo, sive pro nostro merito supplicia. In
+hac autem consideratione invenimus omnia esse instrumentum
+<pb n="0638A"/>
+divinae dispensationis, et nostrae pravitatis
+argumentum. In hoc genere contemplationis
+audimus omnem creaturam tribus vocibus nobis loquentem.</p>
+<p>Prima vox dicit accipe, secunda dicit redde, tertia
+dicit fuge:  « Accipe beneficium, redde debitum,
+fuge supplicium. »  Prima vox est famulantis, secunda
+admonentis, tertia comminantis. Vox famulantis
+est. Coelum dicit: Ministro tibi lucem in die
+ut vigiles; tenebras in nocte ut pauses. Ego ad oblectationem
+tuam gratas temporum vicissitudines
+pario, tempore veris, et aestatis fervorem, autumni
+plenitudinem et algorem hiemis. Ego alternantibus
+incrementis dierum et noctium spatia simili ratione
+dissimiliter extendo, ut et varietas tollat fastidium
+<pb n="0638B"/>
+et ratio pariat oblectamentum. Aer dicit: Vitalem
+tibi praebeo flatum, et omne genus avium ad tuum
+mitto obsequium. Aqua dicit: Potum tibi praebeo,
+sordes purgo, arentia vegeto, et diversorum genera
+piscium ad tuum esum ministro. Terra dicit. Ego te
+porto, te nutrio, pane conforto, vino laetifico, omnigenis
+fructibus oblecto, diversis animalibus mensas teas
+repleo. Vox admonentis est. Mundus dicit: Vide
+homo quomodo amavit te, qui propter te fecit me.
+Servio tibi, quia factus sum propter te, ut et tu
+servias illi, qui fecit et me, et te. Me propter te, et
+te propter se. Si sentis beneficium, redde debitum.
+Accipis benignitatem, redde charitatem. Hoc tribuit,
+et hoc exigit Deus. Vox comminantis est. Ignis dicit:
+<pb n="0638C"/>
+A me combureris. Aqua dicit: In me submergeris.
+Terra dicit: A me absorbeberis. Infernus
+dicit: A me deglutieris. Quia omnis creatura sicut
+ex conditione sua homini famulatur, sic etiam peccatoribus
+pro malorum meritorum conscientia comminatur,
+ut in singulis creaturis perpeti timeant,
+quod se meruisse cognoscunt. Propter quod etiam
+dictum est, quod <hi>nemine persequente fugit impius <note>(Prov. XXVIII)</note>
+            </hi>,
+quoniam ita est in securitate impius
+pavidus, sicut justus in supplicio securus.</p>
+<p>Quartus modus contemplationis est, quando inspicimus
+creaturas, secundum hoc quod homo eis
+uti potest ad explendam carnalis concupiscentiae voluptatem,
+et in eis cogitamus non naturalis infirmitas
+subsidium, sed libidinis oblectamentum. Hoc
+<pb n="0638D"/>
+oculo <hi>Eva lignum vidit, quam esset pulchrum</hi> visu, <hi>et ad vescendum</hi> 
+ suave, <hi>et tulit de fructu</hi> ejus, <hi>et
+comedit <note>(Gen. III)</note>
+            </hi>. Qui hoc modo per cogitationem
+exeunt, similes sunt corvo, qui reversus non est,
+quia dum foris quod male delectat inveniunt, ad
+arcam conscientiae amplius redire nolunt. Reliqua
+vero tria contemplationis genera in exitu columbae
+figurata sunt, quae cum emissa esset, et non inveniret
+ubi requiesceret pes ejus, reversa est ad vesperum
+portans ramum olivae virentis in ore suo. Vacua
+exiit, sed vacua non rediit, quia foris invenit,
+quod intus non habuit, nec tamen foris amavit, quod
+intro detulit.</p>
+</div2>
+
+<div2>
+          <head>CAP. V. <hi>Quomodo ramus olivae deportetur ad arcam sapientiae.</hi> </head>
+
+<pb n="0639A"/>
+<p>Ramus olivae virentis bonum mentis affectum
+demonstrat, quia saepe sancti viri quanto magis
+foris opera divina aspiciunt, tanto magis intus in
+amore Conditoris inardescunt. Dum enim rerum
+praesentium mutabilitatem aspiciunt, continuo omnia
+quae in hoc mundo pulchra videntur, eis in
+cogitatione vilescunt, et quasi revertentes olivam
+in ore deferunt, quoniam eo ardentius Conditoris sui
+speciem concupiscunt, quo in rebus conditis quod
+delectaret minus invenerunt. Delectabiliter intus
+mens pascitur, quia delectabiliter foris non tenetur,
+et quasi ad arcae suae portum reducta jam secura
+tripudiat, quae in mundi fluctibus prius naufraga
+<pb n="0639B"/>
+erat. Similiter in secundo genere contemplationis
+quoties in rebus visibilibus invisibilem Dei virtutem
+et sapientiam admirari discimus, quasi ramus
+olivae ab aquis ad arcam reportamus, quia in rebus
+mutabilibus extra nos illum agnoscimus, quem in
+nobis immutabiliter diligamus. In tertio itidem
+contemplationis genere dum judicia ejus foris attendimus,
+in timore ejus, et amore intus renovamur.
+In primo ergo materia vanitatis inspecta, in
+nobis generat contemptum mundi, in secundo simulacrum
+rationis, laudem Dei, in tertio instrumentum
+dispensationis timorem et amorem Dei, in
+quarto fomes cupiditatis incentivum libidinis. Hunc
+igitur exitum caveamus, ne egrediamur temere.
+Nemo de conscientia sua confidat. Dina intus virgo,
+<pb n="0639C"/>
+intus casta, intus columba fuit, sed quia columba
+seducta fuit non habens cor, egressa foras colorem
+pariter cum nomine mutavit. Sic enim scriptum est: <hi>Egressa est Dina, ut videret mulieres regionis illius.
+Quam cum vidisset Sichem filius Hemor Evaei, princeps
+terrae illius, adamavit, et rapuit eam, et dormivit
+cum illa, vi opprimens virginem 
+ <note>(Gen. XXXIV)</note>
+            </hi>.
+Quae vi opprimitur patet quod non ideo exit ut
+corrumpatur, sed tamen quia temere exiit, pudicitiae
+suae damna etiam invita sustinuit. Quod autem
+subjungitur, conglutinavit eam sibi; hoc est corvus
+cadaver invenit, et amplius ad arcam redire
+noluit.</p>
+</div2>
+
+<div2>
+          <head>CAP. VI. <hi>De tribus mansionibus arcae sapientiae, sive intellectualis.</hi> </head>
+
+<pb n="0639D"/>
+<p>Tres mansiones in intellectuali arca, quae significant
+tria genera cogitationum, rectum, utile, necessarium.
+Si ego diligere coepero meditationem
+Scripturarum, et libenter cogitavero de virtutibus
+sanctorum, et de operibus Dei, et de aliis quaecunque
+ad emendationem morum, sive ad exercitationem
+mentis pertinent, jam in arcae mansione prima esse
+coepi. Sed si bonum quod novi adhuc imitari differo
+et detracto, tunc dicere possum, quod recta
+sit cogitatio mea et inutilis, quia bonum quidem
+est, quod de aliis cogito, et quod in aliis cognosco,
+sed inutile mihi, si illud ad exemplum vivendi non
+traho. Quia aliena virtus mihi non prodest, si illam
+(quantum possum) imitari neglexero. <hi>Thesaurus</hi> 
+<pb n="0640A"/>
+absconditus, <hi>et</hi> scientia abscondita, <hi>quae utilitas in
+utrisque? <note>(Eccli. XX.)</note>
+            </hi> Scientiam abscondo, si bonum
+quod novi opere non ostendo, et ideo mihi non
+potest prodesse, quod cum sciam habere dissimulo.
+Si autem operam dedero non tantum ut sciam, sed
+etiam ut agam quae bona sunt et utilia, et in hoc
+sedula fuerit cogitatio cordis mei, quatenus virtutes,
+quas in aliis jam amare, et admirari didici,
+meas faciam per exercitium disciplinae, et formam
+recte vivendi, tunc possum dicere, quod utilis sit
+cogitatio cordis mei, et tunc ascendi in secundam
+mansionem, et cor meum in unum, jam magis collegi,
+ut non discurrat per ea quae vana sunt, et ad
+utilitatem non pertinent. Restat tertium, ut cum
+habere coepero opera virtutum, elaborem quoque
+<pb n="0640B"/>
+ipsas virtutes habere, hoc est, ut quod foris demonstro
+in opere intus possideam in virtute. Alioquin
+non multum mihi prodest habere opere, nisi etiam
+virtutes operum habeam. Si ergo ad hoc cogitationem
+cordis mei instituo, ut quidquid boni in me
+foris humanis apparet aspectibus, divinis, intus satagam
+praesentare obtutibus, tunc ascendi in tertiam
+mansionem, ubi virtutes sunt, quae sunt necessariae.
+Sed inter has omnes praecipue una necessaria
+est, id est charitas, quae nos Deo conjungit, et
+ideo in supremo arca ad unum colligitur; ut jam
+unum cogitemus, unum exspectemus, unum desideremus
+Dominum nostrum Jesum Christum. In prima
+ergo mansione est cognitio, in secunda opus, in
+tertia virtus, in supremo praemium virtutis Dominus
+<pb n="0640C"/>
+Jesus Christus. Hos gradus habes in psalmo
+ubi dicit: <hi>Bonitatem, et disciplinam et scientiam <note>(Psal. CXVIII)</note>
+            </hi>,
+si convertas scientiam, et disciplinam,
+et bonitatem <hi>doce me <note>(ibid.)</note>
+            </hi> Domine Jesu
+Christe.</p>
+</div2>
+
+<div2>
+          <head>CAP. VII. <hi>De columna in medio arcae hujus erecta.</hi> </head>
+<p>Columna in medio arcae erecta in altitudinem
+triginta cubitorum, cui universa fabrica innititur,
+cujus praecisio sursum per quadrum in singulis lateribus
+unius cubiti mensuram habet, ipsa est lignum
+vitae, quod plantatum est in medio paradisi,
+id est Dominus Jesus Christus in medio Ecclesiae
+suae, quasi praemium laboris, quasi merces operis,
+quasi meta itineris, quasi corona certaminis in communi
+<pb n="0640D"/>
+omnibus fidelibus propositus, qui de terra
+ortus est, et coelos penetravit, qui ad ima venit et
+summa non deseruit, qui sursum ipse est et deorsum,
+sursum majestate, deorsum compassione.
+Sursum ut trahat desiderium, deorsum ut praestet
+subsidium. Deorsum intra nos, sursum supra nos.
+Deorsum quod a nobis sumpsit, sursum quod nobis
+proposuit. Iste est <hi>mons domus Domini praeparatus
+in vertice montium,</hi> ad quem fluunt omnes gentes <note>(Mich. IV)</note>,
+et de quatuor angulis arcae quasi de
+quatuor mundi partibus ascendut.</p>
+</div2>
+
+<div2>
+          <head>CAP. VIII. <hi>De diversitate arcam ascendentium.</hi> </head>
+<p>Alii siquidem ascendunt de calore orientis, alii
+de calore occidentis, alii de frigore orientis, alii de
+frigore occidentis. Calor orientis est fervor spiritualis,
+<pb n="0641A"/>
+calor occidentis est concupiscentia carnis.
+Frigus orientis tumor superbiae, frigus occidentis
+caecitas ignorantiae. In calore orientis creatus est
+homo, propter quod et positus est in hortis Eden
+ad australem orientis, sed transivit ad frigus orientis,
+quando ad illius participationem se contulit,
+qui primus ad aquilonem sedem se positurum dixit <note>(Isa. XIV)</note>.
+Deinde ad calorem occidentis cecidit,
+quando post peccatum <hi>aliam legem in membris</hi> suis <hi>repugnantem legi mentis</hi> 
+ invenit <note>(Rom. VII)</note>. Tunc
+quoque ad frigus occidentis corruit, quando ignorantiae
+caecitate percussus, illius coelestis panis
+esum oblivisci coepit. In calore orientis principium
+est bonae naturae, in frigore orientis initium culpae.
+In calore, et frigore occidentis poena corporis et
+<pb n="0641B"/>
+animae. In calore orientis in alto creatus fuit homo
+in frigore orientis, superbe exaltare se voluit homo,
+et idcirco in calore et frigore occidentis ad ima
+corruit homo. Sed per mediatorem Dei et hominum
+Dominum Jesum Christum, ecce isti <hi>jam</hi> veniunt <hi>ab Oriente, et</hi> 
+ illi <hi>ab Occidente</hi> ut recumbant <hi>cum
+Abraham et Isaac, et Jacob in regno coelorum <note>(Matth.
+VIII)</note>
+            </hi>. Jam clamant aquiloni ut det, et austro ne
+prohibeat filios Dei <note>(Isa. XLIII)</note>. Quia enim Jesus
+Christus verus Deus et verus homo est, in homine
+praebet exemplum, ex divinitate remedium. Ex humilitatione
+susceptae infirmitatis nostram, et superbiam
+reprimit, et illuminat caecitatem; ex virtute
+majestatis et animas nostras cibo invisibli pascit,
+et corpora nostra per obumbrationem Spiritus sancti
+<pb n="0641C"/>
+ab aestu vitiorum protegit. Idem ergo nobis et
+lignum vitae, et liber vitae efficitur, lignum, quia
+obumbrat et pascit, liber quia increpat et erudit.
+Increpat elatos, illuminat caecos, esurientes cibat,
+aestuantes obumbrat. Audiant elati increpationem,
+et humilientur, audiant caeci animo doctrinam, et
+illuminentur. Quos exurit aestus vitiorum, umbram
+petant ut refrigerentur. Qui esuriunt et sitiunt justitiam,
+huc properent ut saturentur. Nemo se excuset,
+omnis homo congruum suo morbo remedium
+invenit, ubi et malis locus datur, ut se corrigant,
+et bonis ut meliores fiant. Ascendamus ergo omni
+occasione postposita. Ascendamus alacres, ascendamus
+laetantes, quia <hi>in domum Domini ibimus (Psal.
+<pb n="0641D"/>
+CXXI)</hi>. Ascendamus ad festa supernae patriae <hi>tribus
+Israel ad confitendum nomini Domini</hi> in turribus
+Hierusalem <note>(ibid.)</note>. Levemus sursum oculos nostros,
+et videamus purpureas semitas stratas in lateribus
+montium aeternorum, et calles supernae directos usque
+ad portas Hierusalem. Ibi vexillum crucis in
+sublimi luce, luce rosea micans, hostes terret et
+amicos confortat. Portae civitatis apertae sunt, et in
+plateis ejus voces canentium <hi>Alleluia.</hi> Videbis illuc
+ascendentes populos multos, accinctos in psalmis
+canentes ex omnibus gentibus et nationibus et linguis,
+alios in vestitu roseo fulgentes, alios amictu
+candido nitentes, alios in viola sandicina praelucentes
+omnis ornatus ad solemnitatem. Grandis et innumerabilis
+populus qui praeparatus est ad diem
+<pb n="0642A"/>
+Domini. Ipse rex sursum est, et invitat nos. Deorsum
+est, et adjuvat nos. Excitantur pigri, confortantur
+timidi, roborantur infirmi, et animosiores red
+duntur strenui. Omnis aetas, utriusque sexus, omnis
+conditio concurrunt ex omnibus mundi partibus, et
+ascendunt certatim cum alacritate et laetitia videre
+regem in decore suo. Cupiunt omnes, cupiunt singuli
+in die tantae solemnitatis apparere festivi
+Loquamur ergo nunc de his gradibus ascensionum,
+quibus in coelum scanditur, ut nullum
+terreat labor itineris, quem delectat praemium
+repromissionis. Sunt quidem ibi purpurei ascensus,
+quia cum labore ascenditur, sed substernitur charitas,
+qua labor ipse allevetur. Primus itaque ascensus
+est de frigore orientis, hoc est de tumore superbiae
+<pb n="0642B"/>
+quia oportet primo peccatorem humiliari, et per
+obedientiam resurgere, qui per inobedientiam lapsum
+incurrerat culpae. Secundus ascensus est de calore
+occidentis quia necesse est deinde vitia carnis calcare,
+ut non ambulemus secundum desideria nostra, et
+mortificare <hi>membra</hi> nostra, <hi>quae sunt super terram,</hi> 
+ut non serviamus ultra peccato <note>(Colos. III)</note>. Tertius
+ascensus est de frigore occidentis, quia cum jam
+perfecte affectus carnales per abstinentiam, et exercitium
+disciplinae in nobis exstinxerimus, tunc libere
+meditationi, et doctrinae divinarum Scripturarum
+vacare poterimus, ut per studium lectionis et meditationem
+rursus illuminetur oculus mentis, sicut
+dicit Psalmista: <hi>Declinate a me maligni et scrutabor
+mandata Dei mei <note>(Psal. CXVIII)</note>
+            </hi>. Quartus ascensus
+<pb n="0642C"/>
+est de calore orientis, ubi de bono proficimus in
+melius, quia nequaquam ad perfectionem venire
+possumus, nisi etiam in bonis, quae agimus, sine
+intermissione crescere studeamus. Quod autem columnam
+triginta cubitorum altitudinem habentem
+in medio arcae ereximus, sive ita ad litteram factum
+esse credamus, sive non, nihil interest, si tamen
+spatium ejusdem dimensionis, et quantitatis ab uno
+sursum patuisse intelligamus. Rursum quod per
+triginta cubitorum altitudinem divinam Scripturam
+significari diximus, et postea per columnam triginta
+cubitos habentem in altitudine Christum figurari
+asseruimus, contrarium non est, quia omnis Scriptura
+divina unus liber est, et ille unus liber Christus
+est, quia omnis Scriptura divina de Christo
+<pb n="0642D"/>
+loquitur, et omnis Scriptura divina in Christo impletur,
+et legendo Scripturam hoc quaerimus, ut ejus
+facta, et dicta, atque praecepta agnoscentes, quod
+jussit facere, et quod promisit percipere mereamur.
+Sicque et cognitione veritatis, et merito virtutis crescentes,
+usque ad ejus conformitatem et <hi>mensuram
+aetatis plenitudinis <note>(Ephes. IV)</note>
+            </hi> ipsius specialiter pertingamus.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>CAP IX. <hi>De ligno vitae, et libro vitae in columna.</hi> </head>
+<p>Igitur ut melius pateant quae diximus, ipsam supradictam
+columnam in medio arcae depinximus,
+eidemque in latere australi lignum vitae, in latere
+vero aquilonari liber vitae nomen ascripsimus. Unde
+et in eodem latere triginta volumina divinae paginae
+<pb n="0643A"/>
+secundum ordinem ab uno sursum, hoc est in singulis
+mansionibus decem disposuimus, quia sicut
+diximus, omnis divina Scriptura unus ille liber est,
+qui liber vitae est. Et sciendum quod Christus cum
+in gemina natura una aeterna constet persona, secundum
+utramque naturam et liber vitae, et lignum
+dici potest, attamen specialiter nobis secundum
+formam humanitatis assumptae liber vitae factus est,
+quia in homine praebuit exemplum. Secundum formam
+divinitatis lignum vitae factus est, quia ex
+virtute divinitatis praestare remedium.</p>
+
+
+<div2>
+          <head>CAP. X. <hi>De duobus, quae sunt in ligno, et de libro, et ligno vitae.</hi> </head>
+<p>Lignum in se duo habet, fructum et folia, fructu
+pascit et foliis obumbrat. Sic virtus divinitatis illuminatarum
+<pb n="0643B"/>
+mentium refectio est, et infirmantium
+obumbratio. Liber vitae ad aquilonem respicit, quia
+per humanitatem Salvatoris exortum est lumen habitantibus
+in regione umbrae mortis. Et lignum vitae
+ad austrum vertitur, ut robustos gustu suae dulcedinis
+pascat et provehat, et infirmos adhuc, ne deficiant
+in aestu tentationum, sub alis protectionis
+suae quasi in umbraculo meridiano abscondat. Haec
+ipsa si paululum prosequamur non sit onerosum.
+Volumus enim nunc more exponentis planis, et paucis
+verbis sensum aperire, nunc meditantis, nunc
+quasi dubitationes, nunc quasi invenientes huc illucque
+acie mentis discurrere.</p>
+</div2>
+
+<div2>
+          <head>CAP. XI. <hi>De diversis libris, et quis liber vitae dicatur.</hi> </head>
+<p>
+            <pb n="0643C"/>Sunt autem diversi libri. Alii enim sunt libri
+scripti a Deo, alii scripti ab hominibus. Libri, quos
+scribunt homines, ex pellibus mortuorum animalium,
+sive ex alia qualicunque corruptibili materia
+fiunt, et cum pusillum duraverint, ipsi quoque veterascunt,
+et quadam sua more resolvuntur in nihilum,
+nullum de se deinceps relinquentes vestigium. Et
+istos libros omnes qui legunt, moriuntur aliquando,
+et nemo semper vivens invenitur. Ii ergo, quia ex
+mortuis a mortalibus morituti fiunt, et suis lectoribus,
+suis amatoribus vitam semper permanentem
+dare non possunt, nequaquam libri vitae, sed mortis
+potius, vel mortuorum, vel morientium appellari
+digni sunt. Quod si ego talem librum invenire possim,
+cujus origo aeterna, cujus incorruptibilis essentia,
+<pb n="0643D"/>
+cujus cognitio sit vita, cujus scriptura indelebilis,
+cujus inspectus desiderabilis, cujus doctrina
+facilis, cujus scientia dulcis, cujus profunditas imperscrutabilis,
+cujus verba innumerabilia, et unum
+tamen verbum omnia, hic sit liber vitae. Hos sic
+distinguentes altius videbimus.</p>
+</div2>
+
+<div2>
+          <head>CAP. XII. <hi>De tribus libris.</hi> </head>
+<p>Tres sunt libri. Primus est quem facit homo de
+aliquo; secundus, quem creavit Deus de nihilo; tertius
+quem Deus genuit Deum de se Deo. Primus est
+opus hominis corruptibile; secundus est opus Dei,
+quod nunquam desinit esse, in quo opere visibili invisibilis
+sapientia Creatoris visibiliter scripta est;
+tertius est non opus Dei, sed sapientia, per quam
+<pb n="0644A"/>
+fecit omnia opera sua Deus, quam genuit non fecit,
+in qua ab aeterno cuncta, quae facturus erat secundum
+sententiam providentiae et praedestinationis praescripta
+habuit. Et hic est liber vitae, in quo quidquid
+semel scriptum fuerit, nunquam abolebitur, et
+omnes, qui meruerint pervenire usque ad ejus inspectionem,
+vivent in aeternum.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIII. <hi>De tribus verbis.</hi> </head>
+<p>Item tria sunt verba. Primum est verbum hominis,
+quod prolatum desinit; secundum est verbum
+Dei, id est opus Dei, quod creatum non invariabiliter
+subsistit, nec tamen aliquando desinit; tertium
+est verbum Dei, quod genitum non creatum, finem
+et principium nescit, neque ullam mutabilitatem
+recipit, et hoc est, verbum vitae.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIV. <hi>De tribus lignis vitae.</hi> </head>
+
+<pb n="0644B"/>
+<p>Item sunt tria ligna vitae. Primum est arbor illa
+materialis, quam produxit Dominus Deus de humo
+in principio, cum plantaret paradisum in medio
+ejus. Cujus fructum ne post peccatum tangeret homo,
+ejectus est a paradiso. Secundum est Dominus Jesus
+Christus, qui secundum formam assumptae humanitatis
+in medio Ecclesiae suae, quasi <hi>lignum vitae in
+medio paradisi <note>(Gen. II)</note>
+            </hi> plantatus est, de cujus
+fructu quisquis digne manducare meruerit, vivet in
+aeternum. Tertium est lignum vitae, quod plantatum
+est in illo invisibili paradiso, id est sapientia Dei,
+cujus fructus cibus est beatorum angelorum. Secundum
+et tertium unum est lignum vitae. Sed ad tertium
+creatus fuit homo, a primo ejectus est homo,
+<pb n="0644C"/>
+per secundum revocatur homo. Igitur lignum vitae
+non est nisi in paradiso, extra inveniri non potest,
+ibi est locus ejus, ibi figit radices, ibi ramos expandit,
+et profert fructum in tempore suo. Et credo,
+propter decursus aquarum viventium, quia plantatum
+est propter fontem, qui oritur in medio paradisi,
+et irrigat universum paradisum, et ideo nec siccari
+radix ejus, nec rami arescere, nec folia defluere
+possunt, sed permanet virens in perpetuum. Habes
+igitur tres libros, tria verba, et tria ligna, quae si in
+singulis sibi invicem comparare volueris, videbis
+quam sit nihil imum comparatum cum medio, nec
+tamen id esse potest medium comparatum, cum
+summo, quod imum est comparatum cum medio.</p>
+</div2>
+
+<div2>
+          <head>CAP. XV. <hi>Item de tribus libris vitae.</hi> </head>
+
+<pb n="0644D"/>
+<p>Verbi gratia, tres tibi libros praescripsimus; primum
+qui est opus hominis; secundum qui est opus Dei, tertium
+qui est non opus Dei, sed sapientia Dei; per quam
+facit omnia opera sua Deus. Dic ergo opus hominis,
+opus Dei, et sapientia Dei. Inter haec qualis sit comparatio
+videamus. Certe Salomon cum respexisset ad
+opera hominum et considerasset ea, ait sic: <hi>Vanitas
+vanitatum, vanitas vanitatum, et omnia vanitas. Quid
+habet amplius homo de universo labore suo, quo laborat
+sub sole? <note>(Eccle. I.)</note>
+            </hi> Non ergo satis fuit ei solum
+modo dixisse vanitas, nisi congeminans repotisset:
+Vanitas vanitatum, vanitas vanitatum, et omnia
+vanitas. Et bene. Si enim testante Psalmista: <hi>Vanitas
+est omnis homo vivens <note>(Psal. XXXVIII)</note>
+            </hi>; merito opus
+<pb n="0645A"/>
+hominis non solum vanitas dicitur, sed vanitas vanitatum.
+De operibus autem Dei quid sentiat paulo
+post manifestat, dicens: <hi>Didici quod omnia opera,
+quae fecit Deus perseverent in</hi> aeternum. <hi>Non possumus
+eis quidquam addere, nec auferre, quae fecit Deus, ut
+timeatur. Quod factum est, ipsum permanet <note>(Eccle. III)</note>
+            </hi>.
+Quid igitur dicam? Si opera hominum cum operibus
+Dei comparare voluero, dicam aliquid opus hominis
+esse, an non? Quando consideratur aliquid in se esse
+videtur, quando comparatur nihil esse videtur, quia
+inaestimabile est, quantum in comparatione superetur.
+Si tamen altius ascendens opus factori suo comparaveris,
+minus adhuc invenis esse omne spatium
+temporis comparatum aeternitati deitatis. Sic etiam
+est de verbo.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVI. <hi>Item de tribus verbis.</hi> </head>
+
+<pb n="0645B"/>
+<p>Aliud est verbum hominis, aliud est verbum
+Dei, opus Dei non Deus, atque aliud verbum
+Dei Deus. Sed opus Dei, quia visibile est, extrinsecum
+verbum dicitur, quasi oris prolatio. Sapientia
+vero Dei, quia invisibilis est, intrinsecum
+verbum appellatur, quasi mentis conceptio. Et sicut
+vox prolata statim perit, intellectus autem permanet,
+sic quod Deus fecit variatur, quod est Deus
+non mutatur. Et sicut per prolationem vocis cognoscitur
+cogitatio cordis, sic in opere suo manifestatur
+sapientia Creatoris. Opus enim hoc, opus pulchrum.
+Opus Deo opifice dignum, opus quod sapientem deceat,
+opus quod nemo nisi omnipotens, facere queat,
+et ideo specie sua tanquam voce quadam virtutem
+<pb n="0645C"/>
+sui conditoris protestatur, et sapientiam loquitur.
+Quae sapientia sic fecundavit universa, ut habitet
+in eis quae fecit, in singulis tota, et in toto tota, nec
+minor in toto, nec minor in singulis, et ideo non
+totum majus, non singula minus, quia totum totam,
+et singula totam loquuntur sapientiam. Verbum
+igitur loquitur verbum, sed verbum quod factum
+est verbum quod fecit, verbum quod transit,
+verbum quod mutabilitatem non recipit; verbum
+quod sensu percipitur, verbum quod mundo corde
+videtur; verbum pulchrum, verbum pulcherrimum;
+verbum quod oculos corporis delectat, verbum quod
+oculos cordis illuminat, verbum creatum, verbum
+non creatum, sed natum, non ore prolatum, sed de
+corde eructatum, non quod desinit emissum, sed
+<pb n="0645D"/>
+quod permanet genitum. Propterea si sapientiae
+opus suum comparas, minus est omne quod transit
+ad id quod mutabilitatem nescit, quam vel unius
+<pb n="0646A"/>
+momenti instans tempori quamtumvis diuturno
+comparatum, quod temporis angustias non excedit.
+Sic est de ligno.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVII. <hi>De trivus paradisis, et comparatione trium lignorum quae sunt in eis.</hi> </head>
+<p>Tres sunt paradisi. Unus terrestris, cujus incola
+fuit primus Adam terrenus. Secundus fidelis, quod
+est Ecclesia sanctorum, quam fundavit et inhabitat
+secundus Adam coelestis, id est Christus. Tertius
+coelestis, qui est regnum Dei, et vita aeterna, et
+terra viventium, vel potius terra vivens, in qua habitat
+Deus. In primo paradiso lignum vitae est arbor
+materialis. In secundum lignum vitae est humanitas
+Salvatoris. In tertio lignum vitae est sapientia Dei,
+verbum Patris, fons vitae, et origo boni, et haec est
+<pb n="0646B"/>
+vere vita aeterna. Nunc veniamus ad comparationem.
+Certe lignum vitae, quod erat in paradiso terrestri,
+corporalem solummodo vitam sine defectu vegetare
+potuit. Lignum autem vitae fidelis paradisi, id est
+Jesus Christus manducantibus carnem suam, et bibentibus
+sanguinem suum vitam aeternam repromittit,
+et tamen idem ipse exprimere volens quantum
+distaret sacramentum a virtute, ait: <hi>Corpus nihil
+prodest, spiritus est qui vivificat <note>(Joan. VI)</note>
+            </hi>. Quasi diceretur:
+Si me corporaliter in sacramento sumitis,
+non hoc vobis sufficere credatis, nisi etiam me quemadmodum
+verbum vitae sum illuminans animas,
+justificans peccatores, et mortuos vivificans, spiritualiter
+edere dediceretis.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVIII. <hi>De arbore sapientiae, et vero ligno vitae, ejusque incrementis, et profectu.</hi> </head>
+
+<pb n="0646C"/>
+<p>Hoc est igitur vere lignum vitae verbum Patris, in
+excelsis sapientia Dei, quae in cordibus sanctorum
+tanquam in paradiso invisibili per timorem seminatur,
+per gratiam rigatur, per dolorem moritur, per
+fidem radicatur, per devotionem germinat, per
+compunctionem oritur, per desiderium crescit, per
+charitatem roboratur, per spem viret; per circumspectionem
+frondet, et expandit ramos, per disciplinam
+floret, per virtutem fructificat, per patientiam
+maturescit, per mortem carpitur, per contemplationem
+cibat. Sed quia longius sermo processit paululum
+respiremus, simul orantes ipsam Dei sapientiam,
+ut nos gustu dulcedinis suae dignetur satiare,
+<pb n="0646D"/>
+quae nos per gustum amarae mortis non dedignata
+est redimere. Cui honor, et imperium in aeterna
+saecula saeculorum. Amen.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>LIBER TERTIUS,</head>
+<div2>
+          <head>Cujus haec sunt capitula:</head>
+<pb n="0645"/>
+          <p>CAP. I. <hi>De seminatione arboris sapientiae per timorem.</hi> --CAP. II. <hi>De rigatione arboris sapientiae per gratiam.</hi> --CAP.
+III <hi>De putrefactione arboris sapientiae per dolorem.</hi> --CAP. IV. <hi>De radicatione arboris sapientiae per
+fidem.</hi> --CAP. V. <hi>De germinatione arboris sapientiae per devotionem.</hi> --CAP. VI. <hi>De ortu arboris sapientiae
+per compunctionem.</hi> --CAP. VII. <hi>De incremento arboris sapientiae per desiderium.</hi> --CAP. VIII. <hi>De
+roboratione ejus per charitatem.</hi> --CAP. IX. <hi>De virore ejusdem per spem.</hi> --CAP. X. <hi>Quomodo arbor sapientiae
+frondescat per circumspectionem, et quae ad eum pertineant.</hi> --CAP. XI. <hi>Quomodo per disciplinam
+<pb n="0647"/>
+floreat.</hi> --CAP. XII. <hi>Quomodo fructificet per virtutum.</hi> --CAP. XIII. <hi>Quomodo per patientiam, et
+perseverantiam maturescat.</hi> --CAP. XIV. <hi>Quomodo per mortem carpatur.</hi> --CAP. XV. <hi>Quomodo per contemplationem
+cibet.</hi> </p>
+</div2>
+
+<div2>
+          <head>PROLOGUS.</head>
+
+<pb n="0647A"/>
+<p>In fine praecedentis libri per similitudinem cujusdam
+arboris demonstravimus qualiter sapientia oriatur,
+et crescat in nobis. Hic ipsius incrementi gradus,
+quos ibi breviter et summatim perstrinximus,
+latius per singula prosequendo explanabimus.</p>
+</div2>
+
+<div2>
+          <head>CAP. PRIMUM. <hi>De seminatione arboris sapientiae per timorem.</hi> </head>
+<p>Primo igitur ibi de sapientia dictum est, quod per
+timorem seminatur. Et quidem pulchre per timorem
+seminatur sapientia, quia timor Domini principium
+est sapientiae <note>(Eccli. I)</note>. Et sicut de seminibus oriuntur
+germina, ita de timore Domini nascitur sapientia.
+Charitas enim ipsa est sapientia, quia per charitatem
+Deum gustamus, gustando autem cognoscimus
+<pb n="0647B"/>
+sicut dicit Psalmista: <hi>Gustate, et videte quoniam
+suavis est Dominus <note>(Psal. XXXIII)</note>
+            </hi>. Timor autem
+Domini ipse ad nos charitatem adducit, quia
+dum docet timere periculum, facit amare praesidium.
+Consideratis enim poenis inferni et tormentis,
+quae damnatos exspectant, subito animus terrore
+concutitur, ac deinde ad se reversus, ac viam evadendi
+quaerens, statim illum ex desiderio requirit,
+per quem instans periculum evadere se posse agnoscit.
+Quem postquam invenit, ex affectu dilectionis
+amplectitur; tunc ille horror primum intolerabilis
+ex amore mitigatur, et sic de timore charitatis quidem
+nascitur, sed per charitatem timor consumitur.
+Praeterea timor Domini postquam venit ad cor facit
+<pb n="0647C"/>
+pauperem spiritu, paupertas autem spiritus duplex
+est. Nam sunt et corporales divitiae in affluentia
+rerum temporalium, et sunt spiritales divitiae in
+possessione virtutum. Uterque ergo apud Deum dives
+esse convincitur. Uterque a regno coelorum
+prohibetur, et ille videlicet, qui temporalibus his,
+et perituris bonis superfluo abundare concupiscit,
+et ille qui quasi magnum aliquid de se aestimans
+sua se virtute gloriatur stare. Sed timor Domini ad
+mentem veniens, dum pondus futuri examinis, et
+quam districtus venturus sit judex nobis in cogitatione
+anteponit, omnem mox terrenae concupiscentiae
+delectationem exstinguit, et nostram infirmitatem
+utiliter ad memoriam revocans, quam humilia
+de nobis sentire debeamus ostendit. Sopito deinde
+<pb n="0647D"/>
+terrenorum desideriorum strepitu, continuo mens
+ad quietem internae pacis componitur, et ut capax
+esse possit coelestis sapientiae, ex ipsa sua tranquillitate
+praeparatur. Sapientia enim habitare nescit
+nisi in corde pacifico, et ideo illi, in quibus adhuc
+terrena desideria perstrepunt, quae sit sapientia non
+noverunt. Nam sicut beatus Job testatur - Mare loquitur
+secum non esse sapientiam <note>(Job. XXVIII)</note>, quia
+mentes, quas curae carnales exagitant, non comprehendunt
+eam, sed qui minoratur actu ipse invenit
+<pb n="0648A"/>
+eam, quia dum animus ab exterioribus abstractus
+ad seipsum colligitur, robustior ad contemplanda
+aeterna sublevatur. Sic ergo timor Domini facit
+pauperem spiritu paupertas spiritus tranquillat cor,
+tranquillitas cordis inchoatio est sapientiae coelestis.</p>
+</div2>
+
+<div2>
+          <head>CAP. II. <hi>De rigatione arboris sapientiae per gratiam.</hi> </head>
+<p>Secundo dictum est, quod per gratiam rigatur.
+Sicut enim timor similis est semini, ita gratia similis
+est humori, qui rigat semen jactam in terram,
+et germinare facit. Postquam enim mens hominis
+quadam, ut ita dixerim, violentia a delectatione
+carnali per timorem abstracta fuerit, necesse est ut
+statim jam aliquid spiritualis gaudii praegustare incipiat,
+<pb n="0648B"/>
+ne si omnino a delectatione aliena remanserit,
+quasi semen aridum absque humore ad germen
+sapientiae convalescere non queat. Fit igitur divina
+gratia aspirante, ut cum animus perfecte a corporeis
+passionibus, et desideriis terrenis exutus fuerit,
+quadam statim insolita laetitia perfundatur, ut eo
+amplius amarum esse agnoscat quod deseruit, quo
+magis dulcis sentit esse quod invenit. Haec est gratia,
+quae jactum in cor hominis per timorem semen
+sapientiae, desuper insula rigat, quia illas mentes
+internae dulcedinis desiderium trahit, quas nullus
+concupiscentiae carnalis affectus foris religavit. Dicatur
+ergo de sapientia, per timorem seminatur,
+per gratiam rigatur, quia timor primum carnalis
+<pb n="0648C"/>
+delectationis affectum ab animo praecidit, ac deinde
+gratia eumdem animam quasi jam defaecatum et
+purum a sordibus spiritali delectatione perfundit.</p>
+</div2>
+
+<div2>
+          <head>CAP. III. <hi>De putrefactione arboris savientiae per dolorem.</hi> </head>
+<p>Tertio dictum est, quod per dolorem moritur.
+Sicut semina germinare non possunt, nisi prius in
+terra computrescant, et quodam modo moriantur,
+ita nos germen bonum proferre non possumus, nisi
+prius per salubrem quemdam, et vivificum dolorem
+huic mundo moriamur. Dolor hic est de praesentis
+vitae exsilio. Et bene post perceptionem gratiae,
+dolor nascitur, quia tunc vere in quibus malis simus
+agnoscimus, quando per infusionem divinae
+gratiae illuminati dulcedinem spiritualium bonorum
+<pb n="0648D"/>
+aliquatenus degustare valemus. Unde Salomon dicit: <hi>Qui addit scientiam, addit et</hi> 
+ dolorem <note>(Eccle. I)</note>.
+Quincunque enim spiritualium bonorum dulcedinem
+non noverunt, carnalis concupiscentiae passiones
+etiam tunc amant cum affligunt, et idcirco gratia
+cor praevenit ut excitet illud, ut agnoscat homo exsilium
+suum, et flere discat mala quae tolerat. Et
+inde est, quod post acceptum donum gratiae continuo
+mens ad lamenta solvitur, dolore pascitur fletibus
+delectatur, et tanto jam impatientibus mala
+<pb n="0649A"/>
+praesentia tolerat, quanto ardentius e vicino admonita
+ad bona futura suspirat. Jam non solum mundum
+deserit, sed fugit, non solum postponit, sed
+odit, et quae prius timore coacta ea, quae illicite
+possidebat dereliquit, nunc salubri dolore compuncta
+etiam iis, quae humanae conditionis infirmitas
+exigit, necessitatibus inservire ingemiscit. Et sicut
+prius per timorem ab illicitis mundi actionibus se
+sequestravit, ita nunc omnem mundi speciem
+(quantum possibile est) in hac adhuc mortalitate
+viventi, a cogitatione funditus excludit.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV. <hi>De radicatione arboris sapientiae per fidem.</hi> </head>
+<p>Quarto dictum est, quod per fidem radicatur.
+Tria sunt genera hominum: infideles, infirmi in
+fide, fideles. Infideles sunt gentes, quae ignorant,
+<pb n="0649B"/>
+Deum quae non credunt Evangelio Christi, qui praeter
+hanc vitam, qua temporaliter hic vivitur, aliam
+vitam nullam esse arbitrantur. Hi in terra radices
+figunt, quia eo magis praesentibus inhiant, quo bona
+perpetua, quae sequuntur minus noverunt. Terrena
+ambiunt felices hic esse quaerunt, quia post hanc
+vitam se nihil futuros esse existimant. De numero
+istorum fuit stultus ille, qui in libro Job, per Eliphaz
+subsannatur. <hi>Vidi,</hi> inquit, <hi>stultum firma radice
+et maledixi pulchritudini ejus statim <note>(Job V)</note>
+            </hi>.
+Stultus est, qui ignorat ad quid factus sit, qui praeter
+id quod videt nihil esse credit, qui quae sibi
+mala restant praevidere nescit, atque haec peritura
+et falsa quaedam bona, quasi semper sint permansura,
+diligit. Hic aliquando firmiter radicatus esse
+<pb n="0649C"/>
+videtur, dum temporaliter floret, sed sapiens ejus
+pulchritudini statim maledicit, quia post haec momentanea
+bona ad quae sit mala rapiendus agnoscit.
+De hoc quoque stulto Psalmista dicit: <hi>Dixit
+insipiens in corde suo, non est Deus <note>(Psal. LII)</note>
+            </hi>; et
+deinde annumeratis complicibus ejus. <hi>Non est,</hi> inquit, <hi>timor Dei ante oculos eorum 
+ <note>(Psal. XIII)</note>
+            </hi>. Quomodo
+enim timere Deum possint, qui esse Deum
+non credunt? Unde consequenter ostenditur, quod
+eos, ad quos Dei timor non pervenit, etiam ad
+ipsum principium sapientiae pertingere non contingit.
+Nunc jam videamus de iis, quos secundos
+numeravimus, an sint radicati, aut ubi fixerint
+radices suas. Non videntur ii habere radices.
+Infirmi enim in fide sunt, quibus jam aliquid
+<pb n="0649D"/>
+persuasum est de veritate, sed adhuc in quadam
+ancipiti mentis sententia fluctuantes, iis quae
+in sacro eloquio de futuris praemiis bonorum, vel
+poenis malorum referuntur, nec omnino contradicunt,
+nec prorsus acquiescunt. Vident enim quaedam
+in hoc mundo sic geri, ex quibus et Deum esse,
+et humana curare possit intelligi, et quod cuncta
+hominum facta, sive bona, sive mala, reserventur
+ad judicium. Hoc ergo considerantes timere incipiunt,
+quod minatur Deus, atque hoc timore percussi
+quod jubet facere, et quod prohibet vitare
+proponunt, et fit nonnunquam, ut cum ad tempus
+hoc timore exercitati fuerint, jam non solum timeant
+quod minatur Deus, sed etiam quodam mentis
+<pb n="0650A"/>
+affectu appetere incipiant quod promittit. Sed
+cum rursum malos in hoc mundo florere conspiciunt,
+et multa alia in hac vita, ita confuso ordine
+volui, ut nequaquam mundus per providentiam Dei
+gubernari, sed omnium rerum eventus fortuitis
+subjacere casibus videantur continuo zelare incipiunt
+pacem peccatorum, et in hoc mundo ipsi
+quoque florere concupiscunt. Tacitis sibi cogitationibus
+dicunt, vanum esse timere judicium, nihil
+esse quod stulti homines de poenis inferni, et de
+suppliciis malorum confinxerunt, ex timore non ex
+veritate hoc processisse, cum utique Deus si ita
+districte facta hominum pensaret, tam manifestis
+indiciis hoc declararet, ut nemo deinceps ambigere
+potuisset. Postremo autem valde esse a ratione
+<pb n="0650B"/>
+alienum, pro incertis certa relinquere, et sectando
+invisibilia quaedam, quae utrum vere sint, an decepti
+homines ea ita esse finxerunt, nemini unquam
+scire datum est, certa et praesentia bona, quae commune
+hominum judicium et sensus probat, non solum
+bona esse, sed etiam humanae naturae valde necessaria,
+quadam improba praesumptione contemnere
+maxime cum haec omnia Deus non nisi ad
+utilitatem hominum creasse probetur. Et idcirco
+Deo non fieri injuriam si utantur bonis; quae non ob
+aliud nisi ut homines eis uterentur creavit. Isti ergo
+tales, qui fidem suam non nisi secundum incertos
+rerum eventus pensare noverunt, non possunt esse
+stabiles, quia sicut quadam mentis levitate facile
+verbo veritatis ad tempus credunt, ita etiam facile
+<pb n="0650C"/>
+in tempore tentationis a fide veritatis recedunt,
+quia facile cum tentantur falsum esse persuadetur,
+unde et prius dubitabant etiam cum stare videbantur.
+Talium hominum typum in se Propheta expressit
+cum diceret: <hi>Mei autem pene moti sunt pedes,
+pene effusi sunt gressus mei <note>(Psal. LXXII)</note>
+            </hi>. <hi>Quia zelavi</hi> 
+in peccatoribus <hi>pacem peccatorum videns <note>(ibid.)</note>
+            </hi>.
+Et paulo post: <hi>Quomodo,</hi> inquiunt, <hi>scit Deus; et
+est scientia in Excelso, quia ipsi peccatores et abundantes
+in saeculo obtinuerunt divitias <note>(ibid.)</note>
+            </hi>. Interrogant
+enim isti, et dubitant, et quibusdam cogitationum
+suarum aestibus circumferuntur nescientes ad
+quam partem potius sententiam suae mentis inclinent.
+Credere non possunt et negare non praesumunt.
+Assertio dubia est, et fides suspecta. Qui
+<pb n="0650D"/>
+autem fideles sunt, ii radices habent, sed non sicut
+increduli radices figunt in hoc mundo, sed sunt
+per fidem et dilectionem radicati et fundati in Deo.
+Isti sunt vinea Domini Sorec, vinea fidelis, vinea
+justa, quam ipse bonus agricola plantavit, imo
+transplantavit, quia <hi>de Aegypto</hi> transtulit, <hi>et</hi> ejecit <hi>gentes, et</hi> 
+ plantavit <hi>eam <note>(Psal. LXXIX)</note>
+            </hi>. De his alibi
+Dominus per prophetam dicit: <hi>Plantabo eos super
+humum suam, et non evellam eos</hi> amplius <note>(Amos IX)</note>.
+Humus namque, et patria nostra Deus est, in quo
+plantamur, quando ei per devotionem mentis adhaeremus
+dicentes cum Psalmista: <hi>Mihi</hi> autem <hi>adhaerere
+Deo bonum est, ponere in Domino Deo spem
+meam <note>(Psal. LXXII)</note>
+            </hi>. De qua videlicet humo amplius
+<pb n="0651A"/>
+non evellimur, si usque in finem in ejus dilectione
+permanemus. De hac quoque radicatione Spiritus
+sanctus per prophetam dicit: <hi>Quodcunque reliquum
+fuerit de domo Judae mittet radices deorsum, et faciet
+fructum sursum <note>(Psal. XXXVII)</note>
+            </hi>. In reliquiis enim
+domus Judae fideles significantur, qui radicem
+deorsum mittunt, quia omnem cogitationem cordis
+sui ad interna gaudia defigunt. Fructum autem
+sursum faciunt, quia in superna patria, quam in
+hac vita per amorem semper requirunt, vitae dona
+postmodum in retributione percipiunt. Quod ergo
+infideles negant, et de quo infirmi in fide dubitant,
+fideles et credunt et exspectant. Et quod infideles diligunt,
+infirmi autem in fide zelant, hoc fideles fugiunt.
+Fides igitur est, per quam radicat sapientia, quia per
+<pb n="0651B"/>
+fidem firmatur animus, et constabilitur affectus. Qui
+autem in fide haesitat, hic neque in timore Dei, neque
+in amore Dei perfectus esse potest. Aliter enim timemus
+quod suspicamur, aliter timemus quod credimus.
+Quod credimus, perfecte timemus; quod autem
+suspicamur, hoc plerumque idcirco timere negligimus,
+quia ex ipsa nostra dubitatione in quamdam
+perniciosam securitatem cadimus, ut jam id solum
+esse justum credamus, quod a nostra cupiditate
+non discordare cernimus, ita ut saepe mens nostra
+decepta hoc potius venturum esse existimet, quod
+magis sibi evenire desiderat. Ut igitur nec timor
+remissus, nec affectus tepidus sit, necesse est ut
+firmam et inconcussam fidem habeamus, per quam
+firmiter radicati ea, quae in tribus praecedentibus
+<pb n="0651C"/>
+accepimus bona confirmemus.</p>
+</div2>
+
+<div2>
+          <head>CAP. V. <hi>De germinatione arboris sapientiae per devotionem.</hi> </head>
+<p>Quinto loco adjunctum est, quod per devotionem
+germinant. Devotio est fervor bonae voluntatis, quem
+mens cohibere non valens certis manifestat indiciis.
+Haec dividitur in tria, in zelum et compassionem, et
+benevolentiam. Zelus est, dum pro amore justitiae
+defensorem ultro se offert animus calumniam veritatis
+pati non sustinens. Compassio est, quando
+miseriis aliorum condolemus. Benevolentia est,
+quando prompta voluntate beneficia rogati annuimus.
+Et pulchra est similitudo: Germinare enim
+grana tunc dicimus, quando natura quadam occulta
+<pb n="0651D"/>
+vi integrum rumpit ut germen prodeat, quod intus
+latuit, et non secus bona voluntas celare se non
+valens quadam, ut ita dicam, violentia ad exhibitionem
+boni operis foras exit.</p>
+</div2>
+
+<div2>
+          <head>CAP. VI. <hi>De ortu arboris sapientiae per compunctionem.</hi> </head>
+<p>Sexto loco de sapientia dictum est, quod per compunctionem
+oritur. Hic mihi occurrit evangelica illa
+parabola, in qua <hi>regnum coelorum thesauro abscondito
+in agro</hi> comparatur <note>(Matth. XIII)</note>. Regnum
+quippe coelorum est vita aeterna. Vita autem aeterna
+Christus est. Christus autem sapientia est, sapientia
+vero thesaurus est. Et hic thesaurus est absconditus
+in agro cordis humani, ubi factus est homo ad
+imaginem et similitudinem Creatoris sui. Quoniam
+ita conditum est cor hominis, ut in eo tanquam in
+<pb n="0652A"/>
+speculo quodam suo divina sapientia reluceret, et
+quae in se videri non potuit, in sua imagine visibilis
+appareret. Magna prorsus dignitas hominis portare
+imaginem Dei, et illius in se jugiter vultum aspicere,
+atque eum semper per contemplationem praesentem
+habere. Sed postquam primus ille parens, vetitum
+assecutus, et interdictum tangens delectationem
+suam in terram sparsit, peccati pulvis superjectus
+cordi humano pretiosum thesaurum istum ab oculis
+nostris abscondit, et caligo ignorantiae obtensa lumen
+sapientiae intercepit. Et hoc est illud quod in
+templo Salomonis figuratum est, ubi legitur quod
+postquam perfecit Salomon omne opus ad aedificationem
+domus Domini, et consummata sunt universa,
+quae ad instructionem domus pertinebant, continuo
+<pb n="0652B"/> <hi>nebula implevit domum, ita ut sacerdotes ministrare
+non possent 
+ <note>(III Reg. VIII)</note>
+            </hi>. Salomon quippe interpretatur <hi>pacificus,</hi> 
+ et significat illum qui est pax
+nostra, qui reconciliavit nos Deo in sanguine suo. Et
+quia idem ipse, Jesus Christus Dominus noster sapientia
+est Patris; Salomon Deo templum aedificat,
+quia per sapientiam Dei cor hominis factum est, ut
+in eo quasi in templo Deus habitaret. Haec est sapientia,
+quae aedificavit sibi domum, quia descendens <hi>in</hi> 
+ orbem <hi>terrarum</hi> delicias suas dicit <hi>esse cum filiis
+hominum <note>(Prov. VIII)</note>
+            </hi>. Sed haec domus, ut aedificata
+est, nebula impletur, quia homo conditus, ac deinde
+peccando ab illa internae contemplationis specula
+corruens, in has miseras praesentis vitae tenebras
+labitur, ubi digne Deo ministrare non valet, quia
+<pb n="0652C"/>
+caligine ignorantiae obvolutus quid agendum vel vitandum
+sibi sit ex maxima parte jam non videt.
+Absconditus ergo est thesaurus iste in agro cordis
+nostri, qui tunc invenitur, quando sapientia oritur.
+Sapientia autem oritur, quando veritas manifestatur.
+Veritas autem manifestatur, quando ignorantia pellitur,
+ignorantia autem pellitur, quando mens illuminatur.
+Pulsa autem ignorantia veritas manifestatur.
+Manifestata veritate sapientia oritur, oriente sapientia
+thesaurus invenitur. Haec compunctio, et quasi palus
+acutus terram cordis nostri fodit, et quasi ignis rubiginem
+exurit, et quasi splendor tenebras pellit. Per
+hanc debemus fodere altos puteos in cordibus nostris,
+ejicientes omnem terrenitatem a nobis, ut possimus,
+<pb n="0652D"/>
+invenire thesauros absconditos, et occultam venam
+aquarum viventium. Sic Abraham, Isaac et Jacob patres
+nostri puteos foderunt, quaerentes aquam vivam
+sapientiae, et quando Alophyli puteos illos absentibus
+eis terra repleverunt, ipsi rursum foderunt, rursumque
+aquam vivam quaerebant, et hoc frequenter
+faciebant. Ita et nos si maligni spiritus corda nostra
+studio compunctionis ab omni terrenitate emundata
+rursus insidiantes terra repleverint, iterum fodere
+ea per compunctionem, iterumque emundare debemus.
+Et hoc tandiu facere oportet, quousque aquam
+vivam inveniamus, et quousque thesaurum pretiosum
+reperiamus. Cum autem invenerimus abscondere
+eum debemus, quia cito amittitur quod incaute
+manifestatur. Thesaurum autem inventum manifestat,
+<pb n="0653A"/>
+qui acceptum donum sapientiae in ostentatione
+portat. Thesaurum autem inventum abscondit, qui
+accepto dono sapientiae non foris in oculis hominum,
+sed intus coram Deo inde gloriari quaerit. Oportet
+etiam nos ire, et vendere omnia quae habemus, et
+emere agrum istum, quia quicunque ille est, cui
+interna gaudia jam revelata sunt, pro contuitu eorum
+libenter debet contemnere omnia, quae in hoc
+mundo ipsum delectare poterunt. Sed inter haec sollicite
+considerandum est iis, qui sapientiam quaerunt,
+quod non ob aliud, sed propter seipsam quaerenda
+est sapientia. Nihil enim melius est sapientia,
+et ideo indignus est sapientia, qui aliud quam ipsam
+per ipsam obtinere intendit, qui non ut possideat,
+sed ut vaenalem prostituat sapientiam quaerit. Praeterea,
+<pb n="0653B"/>
+si Christus est sapientia, qui sapientiam pro
+humana laude quaerit, similis esse convincitur proditori
+Judae, qui Christum vendidit. Quaeramus ergo
+thesauros absconditos, quaeramus sapientiam, quaeramus
+Christum, sed non sicut Judas, qui Christum
+quaesivit ut venderet, non ut possideret. Quaesivit
+enim Christum Judas, et invenit et tenuit, sed non
+retinuit, quia vendidit. Sed sanctae mulieres ad sepulcrum
+cum aromatibus venientes Christum quaesiverunt
+et invenerunt, tenuerunt et retinuerunt, quia
+non quaerebant ut venderent, sed ut possiderent <note>(Matth. XXVIII)</note>.
+Dicamus ergo de sapientia, per timorem
+seminatur, per gratiam rigatur, per dolorem
+moritur, per fidem radicat, per compunctionem oritur.
+Hi gradus videntur mihi significari, ubi jubetur
+<pb n="0653C"/>
+Abraham exire de terra sua, et de cognatione sua,
+et de domo patris sui, at tunc demum terra ei demonstranda
+permittitur. <hi>Exi,</hi> inquit Dominus, <hi>de
+terra tua, et de cognatione tua, et de domo patris tui;
+et veni in terram quam</hi> monstravero <hi>tibi <note>(Gen. XII)</note>
+            </hi>.
+Igitur per timorem eximus de terra nostra, per gratiam
+eximus de cognatione nostra, per dolorem de
+domo patris nostri egredimur, per fidem et devotionem
+Dominum sequimur, ac sic deinde in sexto
+gradu terra nobis promissa per compunctionem demonstratur.
+Per timorem relinquimus censum terrenum,
+per gratiam et dolorem mutamus affectum,
+per fidem et devotionem confirmamus animum, per
+compunctionem invenimus desiderium. De terra
+<pb n="0653D"/>
+nostra eximus, cum ea quae foris possidentur terrena
+bona derelinquimus. De cognatione nostra
+eximus, quando vitiis, quae in nobis, et ex nobis
+nata sunt abrenuntiamus. De domo patris nostri eximus,
+quando mundum omnem, et ea quae in mundo
+sunt, prorsus a cogitatione nostra sequestramus, et
+omnem animi intentionem in sola aeterna defigimus.
+Pater noster secundum illam nativitatem, qua in
+peccatis nati sumus, diabolus est, quia secundum
+nativitatem ad ejus dominium pertinemus, qui auctor
+est peccati. Ejus domus est mundus iste, quia
+merito suae perversitatis mundi hujus, et eorum qui
+mundum istum amant, princeps factus est. Egressis
+autem de terra nostra, et de cognatione nostra, et
+de domo patris nostri, alia a Domino terra ostenditur,
+<pb n="0654A"/>
+quando, nobis perfecte huic mundo mortuis
+quiddam jam de futuris gaudiis quasi de longe odorare
+conceditur. Afflatus enim, Spiritu sancto insolito
+gaudio animus hilarescit, et miratur quale ad
+gustandum esse possit, quod tam mire etiam per
+odorem reficit.</p>
+</div2>
+
+<div2>
+          <head>CAP. VII. <hi>De incremento arboris sapientiae per desiderium.</hi> </head>
+<p>Septimo loco adjunctum est, quod per desiderium
+crescit. Sicut enim compunctio incendio comparatur,
+ita desiderium simile est fumo, qui de incendio
+nascitur, qui in directum ascendit, et quanto magis
+sursum tollitur, tanto amplius extenuatur, tandemque
+elevatus in sublime ab oculis intuentium prorsus
+subducitur. Postquam enim per ignem compunctionis
+<pb n="0654B"/>
+rubigo peccati a mente fuerit consumpta, et ille
+internus fulgor in corde micare coeperit, confestim
+animus in quamdam contemplationis speculam sublevatur,
+ibique quodammodo seipso altior effectus,
+quamdam, ut ita dixerim, lucidam regionem, et
+terram novam eminus prospicit, qualem nunquam
+antea vel vidisse se meminit, vel esse existimavit.
+Miratur et ipse qui videt, et prae gaudio praesentis
+luminis praeteritas ignorantiae suae tenebras accusat,
+miratur subter se in imo, quo prostratus jacuit, miratur
+super se in summo, quo elevatus tendit. Gaudet
+se tantum jam evasisse ab eo quod doluit dolet
+se tantum adhuc abesse ab eo quod, diligit. Conatur
+igitur festinat, ascendit, crescit per desiderium, et
+quemadmodum virgula fumi, quanto magis sursum
+<pb n="0654C"/>
+tollitur, tanto amplius extenuatur, ita coelestibus
+appropinquans, et omnem terrenae concupiscentiae
+nebulam evaporans totus spiritalis efficitur, tandemque
+se humanis subducit aspectibus, dum ad
+terrena ista, et visibilia concupiscenda amplius extra
+recusans, intus in abscondito faciei Domini gloriatur.</p>
+</div2>
+
+<div2>
+          <head>CAP. VIII. <hi>De roboratione arboris sapientiae per charitatem.</hi> </head>
+<p>Octavo loco adjunctum est: per charitatem roboratur.
+Charitas similis est vino. Vinum namque eos,
+quos inebriaverit reddit hilares, audaces, fortes,
+obliviosos, et quodammodo insensibiles. Sic charitas
+mundando conscientiam mentem exhilarat, deinde
+<pb n="0654D"/>
+audacem reddit, quando per munditiam conscientiae,
+fiduciam praestat. Deinde vires auget, quia, sicut
+testatur Scriptura, fortis est ut leo <hi>qui confidit in
+Domino <note>(Prov. XXVIII)</note>
+            </hi>. Conscientia enim munda
+nullis adversis superari potest, quia cum intus de
+Dei semper adjutorio confidit, quidquid adversi foris
+tolerat facile contemnit, et vincit. Oblivionem
+quoque generat, quia, dum totam animi intentionem
+ad desideria aeternorum trahit, omnium quae transeunt
+memoriam ab animo funditus evellit. Insensibilem
+reddit, quia dum mentem per internam dulcedinem
+medullitus replet, quidquid exterius amarum
+infertur contemnit, quasi non sentiatur. Charitas
+ergo sapientiam roborat, dum menti et fiduciam,
+et fortitudinem, et insuperabilem quodammodo insensibilem
+<pb n="0655A"/>
+reddendo constantiam praestat. Possumus
+si volumus in his octo gradibus octo beatitudines
+per ordinem expressas notare, ita ut id quod dictum
+est, per timorem seminatur, pertineat ad id quod
+dicitur. <hi>Beati pauperes spiritu, quoniam ipsorum est
+regnum coelorum <note>(Matth. V)</note>
+            </hi>. Id quod dictum est, per
+gratiam rigatur, pertineat ad id quod dicitur: <hi>Beati
+mites, quoniam ipsi possidebunt terram <note>(ibid.)</note>
+            </hi>. Id
+quod dicitur, per dolorem moritur, pertineat ad id
+quod dicitur: <hi>Beati qui lugent, quoniam ipsi consolabuntur <note>(ibid.)</note>
+            </hi>.
+Id quod dictum est, per fidem radicat,
+pertineat ad id quod dicitur. <hi>Beati qui esuriunt,
+et sitiunt justitiam, quoniam ipsi saturabuntur <note>(ibid.)</note>
+            </hi>.
+Id quod dictum est, per devotionem germinat, pertineat
+ad id quod dicitur: <hi>Beati misericordes, quoniam
+<pb n="0655B"/>
+ipsi misericordiam consequentur <note>(ibid.)</note>
+            </hi>. Id quod
+dicitur, per compunctionem oritur, pertineat ad id
+quod dicitur: <hi>Beati mundo corde quoniam ipsi Deum
+videbunt <note>(ibid.)</note>
+            </hi>. Id quod dictum est, per desiderium
+crescit, pertineat ad id quod dicitur: <hi>Beati pacifici,
+quoniam filii Dei vocabuntur <note>(ibid.)</note>
+            </hi>. Id quod dictum
+est per charitatem roboratur, pertineat ad id quod
+dicitur: <hi>Beati qui persecutionem patiuntur propter
+justitiam, quoniam ipsorum est regnum coelorum <note>(ibid.)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAP. IX. <hi>De virore arboris sapientiae per spem.</hi> </head>
+<p>Nono loco adjunctum est, per spem viret. Spes
+futurorum bonorum in mente quasi scintillatio quaedam
+est, quae nutritur in fomite. Est enim spes quasi
+memoria quaedam invisibilium gaudiorum, quae in
+<pb n="0655C"/>
+corde hominis recondita calefacit illud intrinsecus,
+et non sinit arescere frigore infidelitatis in hieme
+praesentis vitae. Et quandiu haec spes vivit in nostra
+mente, nunquam arescit arbor sapientiae, sed quemadmodum
+lignum illaesum servat virorem suum,
+dum aequalem habet contemperantiam humoris et
+caloris, sic animus arescere non potest, quem et
+calor Spiritus sancti, qui desuper radiat, nutrit, et
+studium bonae operationis quod subtus est, rigat.</p>
+</div2>
+
+<div2>
+          <head>CAP. X. <hi>Quomodo frondescat arbor sapientiae per circumspectionem.</hi> </head>
+<p>Decimo loco adjunctum est quod per circumspectionem
+frondescit, et expandit ramos suos. Quidam
+sunt, in quibus sapientia in altum crescit, quidam
+vero, in quibus in latum se expandit. In comtemplativis
+<pb n="0655D"/>
+in altum surgit, qui per acumen mentis penetrant
+usque ad contemplanda secreta coelestia. In activis
+in latum se expandit, quia illi intentionem
+mentis suae multipliciter foras spargunt ad dispensanda
+terrena. Sunt vero nonnulli, qui per quietem
+divinitus sibi concessam, primo multum in contemplatione
+excrescunt, sed dum vident alios simpliciores
+fratres terrenis actionibus occupari, eos in
+comparatione sui despiciunt, et cum ipsi steriles sint
+a bono opere, bona tamen opera in aliis non pertimescunt
+judicare. Qui ergo in humilitate stare negligunt,
+vento elationis conquassati, a fastigio contemplationis
+cadunt. Dejectique variis patent erroribus
+et multipliciter ab illa interna pace distrahuntur.
+<pb n="0656A"/>
+Quorum videlicet errorum principium hoc est,
+quod infirmitatem suam humiliter nolunt agnoscere,
+sed de Dei munere, quod acceperunt, incaute se extollunt.
+Necesse enim est ut in oculis eorum vilescant
+facta aliena, qui de suis meritis sentiunt tam immoderata.
+Nec fieri posset, ut vitam alienam judicare
+praesumerent, nisi prius in se tomuissent. Hic
+igitur error semel illapsus animo late venena sua
+diffundit, et occulte serpens, et immiscens se cunctis
+motibus animae, voluntates immutat, consilia dissipat,
+cogitationes intorquet, et corrumpit desideria,
+curasque inducit superfluas. Et quia semel inflatus
+animus magna de se existimare didicit, facta
+sua ad examen rationis revocare contemnit, et eo liberius
+vitam persequitur alienam, quo minus in se
+<pb n="0656B"/>
+quidquam reprehensione dignum esse credit. Quae
+tamen superbia primum se palliat sub specie boni
+zeli, et persuadet deceptae menti non esse perfectum
+amatorem justitiae, qui consensum praebet culpae
+alienae. Eum autem delicto alieno omnimodo consentire,
+qui negligit, non potest, delinquentem arguere.
+Hoc igitur male provida mens errore decepta,
+totam se curiositati dedit, et paulatim crescente
+morbo, dum primum errata aliorum immoderate
+persequi assuescit, postremo ad hoc deducitur, ut
+quidquid viderit vel aperte calumniari, vel sinistre
+interpretari conetur; unde, si forte aliquos pro communi
+utilitate aliquantulum sollicitari viderint, hos
+cupidos vocant. Quos providos esse perspexerint,
+avaros nominant. Eos autem qui se affabiles et hilares
+<pb n="0656C"/>
+omnibus praebent, vitio adulationis inservire
+dicunt. Illos vero qui saepius tristitiam vultu praeferunt,
+invidia tabescere credunt. Et quos alacres et
+devotos in ministrando perspexerint, leves et inquietos
+esse asserunt. Quos debiles aut graves invenerint,
+quasi pigros et inertes accusant. Abstemios,
+morbo hypocrisis laborare, et eos qui plus necessitati
+indulgent, luxui deservire existimant. Et hunc
+quidem errorem multiplex confusio sequitur. Mala
+siquidem et pestilens curiositas, quae secretum alienum
+improbe scrutari contendit, saepe, quamvis nihil
+inveniat quod juste reprehendere possit, perversa
+tamen suspicari non desistit. Si vero aliquid dignum
+reprehensione invenerit, statim tumidam mentem
+non ad compassionem, sed ad contemptum trahit.
+<pb n="0656D"/>
+Contemptus autem iram excitat, quia typo superbiae
+inflatus animus intolerabile esse credit, quidquid ab
+eo sustinet, quam despicit. Deinde ira in indignationem
+crescit, indignatio in contumeliam procedit,
+contumelia odium parit, odium autem inveteratum
+in invidiam transit, invidia vero animo taedium gignit,
+taedium autem cum insederit cordi, quasi tinea
+demolitur illud, et suffocato gaudio interno in semetipsa
+conscientia tabescit. Fit sibi ipsi gravis animus
+et quasi plumbum immobilis permanens sursum
+erigi non valet. Et qui prius pennis contemplationis
+coelos penetrare consueverat, nunc gravis pressus
+pondere sub se cadit. Perhorrescit tenebras suas,
+quas intus patitur, et si possibile esset, vellet aufugere
+<pb n="0657A"/>
+semetipsum. Igitur relicta conscientia foras
+funditus terrenis se immiscet actionibus, ut vel occupatus
+oblivisci possit malorum suorum. Et quia
+levius esse judicat omne malum eo ipso quod intus
+tolerat, jam miser etiam dolores suae occupationis
+foris amat. Et quia veram dulcedinem longo taedio
+palatum cordis gustare dedidicit, carnalis concupiscentiae
+acetum sitiens anima cum desiderio bibit.
+Inventam igitur in curis exterioribus diabolus corrumpit,
+et jam nullo sibi judicio rationis renitentem,
+ad quaelibet erroris praecipitia trahit. Sed quia nunc
+diximus ad quanta nos mala superbia praecipitat, dignum
+est ut etiam consideremus quid sit medicamentum,
+per quod nos gratia divina restaurat. Tale
+est enim antidotum hoc ut non solum pristinam reformet
+<pb n="0657B"/>
+sanitatem, sed et majorem addat fortitudinem.
+Non solum reparet quod periit, verum etiam superaddat
+quod defuit. Unde per omnia laudabilis et
+gloriosus Deus, solus misericors et pius, qui gratis
+largitur donum, et gratis restaurat amissum, et qui
+indigni eramus etiam id recipere, quod perdidimus,
+sic restituit ut non ad interitum, sed ad incrementum
+cecidisse videamur. Igitur iste, qui per sapientiam
+excreverat, de altitudine sua superbivit, et
+ideo bonum est ei ut praecidatur, et assuescat in latum
+expandere ramos suos. Bonum est ei, ut intermisso
+studio contemplationis ad tempus foras exire compellatur,
+et exteriora dispensanda suscipiat, ut discat
+experimento, quam difficile fit per officium exterioribus
+inservire, et tamen per desiderium interiora
+<pb n="0657C"/>
+non deserere. Et cum se ad curam suscepti regiminis
+imparem esse agnoverit, tunc sciat quid de iis
+sensisse debuerat, quos prius in eodem loco positos
+inconsiderate despiciebat. Et quia majorem potestatem
+major solet sollicitudo comitari, ipsa eum cura
+exerceat, ut dicat esse providus et circumspectus,
+et non torpescat otio, ut ante periculum animum
+firmet, ut non solum quid eveniat, sed quid evenire
+possit, attendat. Arridenti fortunae non nimium
+credat, in adversis fiduciam non amittat, et quidquid
+finem habiturum est, sive bonum sit sive malum,
+aeque despiciat. Omnem eventum consilio suo
+praeveniat, amicos ante necessitatem comparare studeat,
+in proprio sensu non plusquam oportet confidat,
+<pb n="0657D"/>
+omnes diligere, non omnibus aeque credere.
+Majoribus obedientiam debitam, aequalibus dilectionem
+subjectis paternam sollicitudinem impendat. Et
+sic per diversa virtutum studia sapientiae suae ramos
+diffundat, et tunc demum arbor illa sapientiae, quae
+prius in modum flexibilis arundinis nudo stipite male
+excreverat, jugi jam studio virtutum roborata, et
+frondibus circumspectionis undique vestita, rursum
+ad alta cacumen elevet, tanto tunc melior quanto
+fortior, quanto robustior, quanto exercitatior, quanto
+circumspectione ornatior, ita ut etiam ipsa praecisio
+sua ei profuisse videatur.</p>
+<p>Sed quia ipsa sapientia per circumspectionem ramos
+suos expandit, diffiniamus nunc quosdam generales
+modos, quibus circumspectio exercetur. Sunt
+<pb n="0658A"/>
+autem quatuor. Timor, cura, necessitas, affectus.
+Timor est anxietas periclitandi. Cura est sollicitudo
+evadendi incommodi aut commodi adipiscendi. Necessita
+est debitum dandi, aut indigentia accipiendi.
+Affectus est desiderium perfruendi. Timor premit,
+cura trahit, necessitas ligat, affectus vulnerat. Sic
+solent agricolae quando volunt expandere ramos arborum,
+aut supernonere eis pondera quae deorsum
+premant, aut subtus alligare quae deorsum trahant,
+aut juxta affigere stipites et alligare ramos, ne sursum
+eleventur, sed in latum se diffundant, aut ipsi
+nudo trunco infigere surculos, ut ubi concrescentes
+arborem vestiant. Timor igitur est quasi pondus
+superpositum. Cura quasi pondus subtus appensum.
+Necessitas est similis stipiti qui ligat. Affectus est
+<pb n="0658B"/>
+quasi surculus, qui infixus vulnerat. Ista quatuor
+nascuntur ex quatuor generibus malorum, quae homo
+sustinet in hoc mundo. Quae sunt ira Dei, vanitas
+mundi, infirmitas humanae conditionis, invidia diaboli.
+Ira Dei est dum flagellis atterimur. Vanitas
+mundi est eum modum necessitatis excedendo in voluptatem
+abimus. Infirmitas humanae conditionis est
+quod facile laedimur adversis, et difficile ad bona
+agenda convalescimus. Invidia est dum ipso
+instigante ad vitia inflammamur. Igitur ira Dei timore
+premit, vanitas mundi curas superfluas mittendo
+deorsum trahit. Infirmitas nostrae conditionis
+diris nos necessitatibus ligat. Invidia diaboli illicitis
+desideriis nos inflammando vulnerat. Sed in his omnibus
+Dei servus exercetur an praemium, et tunc ei
+<pb n="0658C"/>
+quoque mala subjecta serviunt, cum eum affligendo
+probant, non subvertunt. Istae siquidem passiones
+omnes, videlicet timor, cura et desiderium illicitum
+malae sunt, et ipsa quoque necessitas vitae praesentis
+a Domino militia appellatur. Sed Deus idcirco haec
+ad tempus electorum suorum mentibus dominari
+permittit ut cum per experimentum didicerint quanta
+miseria falsis illis delectationibus insit, ardentius
+aeterna illa et vera gaudia requirant, quae nulla
+tristitia corrumpit. Et salubriter, aliquando derelicti
+permittuntur ad tempus servire passionibus carnis
+suae, ut agnoscant infirmitatem suam, et de se non
+praesumant, et tanto devotius postmodum divinae
+gratiae se subjiciant, quanto manifestius ex praecedenti
+<pb n="0658D"/>
+casu didicerint ex sua virtute non esse quod
+stant. Est etiam adhuc aliud, pro quo nonnunquam
+servis Dei utile est, ut tententur, ut videlicet ipsae
+tentationes eos exerceant, et cautiores reddant;
+quia conflictus vitiorum exercitia sunt virtutum. Et
+sicut saepe cadendo discit homo qualiter gressum
+figere, et caute ambulare debeat, et in conflictu
+belli qui frequenter plagatus est, cautius venientem
+ictum excipit, sic qui a diabolo saepe decipitur, subtilius
+post modum versutias ejus deprehendit, et
+machinationes subvertit. Et hoc est quod multos
+videmus post multa scelera ad virtutum summam
+ascendere, et tanta virtute omnes diaboli conatus
+contra se erectos atterere, ut in quo saepius vicisse
+gaudebat, jam non spoliasse, sed contra se armasse
+<pb n="0659A"/>
+potius videatur. Hoc quippe altum, hoc secretum
+Dei consilium est, ut illud etiam electis suis proficiat
+ad coronam, quod inimicus sibi gloriabatur cecidisse
+ad victoriam. Libet itaque nunc considerare
+qualiter ex ipsis, quas supra memoravimus, passionibus
+exercitia nascantur, ac deinde qualiter per
+ipsa exercitia circumspectio augeatur. Quatuor
+enim sunt timor, cura, necessitas, affectus; et ex
+tribus, id est timore, necessitate, affectu, nascitur
+quartum, id est cura. Quod enim timemus incidere sollicite
+studemus evitare, et quod dolemus adesse
+sollicite studemus a nobis removere, et quod desideramus
+adipisci, sollicite studemus obtinere; et
+sic post affectionem passionis requiritur cura sollicitudinis
+et post curam sollicitudinis sequitur conatus
+<pb n="0659B"/>
+in exercitio operationis, et per exercitium operationis
+crescit cautela circumspectionis. Et quia
+ex vitio nostrae corruptionis hoc nobis inest ut magis
+solliciti simus pro eo adipiscendo, quod perverse
+cupimus, vel eo evitando, quod superflue
+formidamus, fit ut cautelam circumspectionis, quam
+in bonis studiis comparare negleximus per mala
+studia facile acquiramus. Saepe etenim qui animae
+mortem non metuit, mori in carne pertimescit, et
+qui perpetuos gehennae cruciatus non considerat,
+poenas temporales pati reformidat. Saepe qui illam
+confusionem, quae ante Dei oculos et sanctorum angelorum
+peccatoribus ventura est, timere adhuc
+non didicit, vilis esse in oculis hominum erubescit.
+<pb n="0659C"/>
+Et pro his evitandis laborant homines, quae servis
+Dei non solum fugienda non sunt, imo etiam nonnunquam
+cum fructu eorum agnoscuntur appetenda.
+Similiter sunt multi, qui animae suae jejunium ignorant,
+et pro cibo ventris comparando vehementer
+insudant. Et saepe homines pro carnalibus desideriis
+adimplendis plurimos labores graves et amaros
+libenter, tolerant, quos pro amore aeternae vitae,
+vel ad modicum subire recusant, cum e contrario
+electi sine intermissione laborent, et affligant semetipsos,
+ne desideria carnis perficiant. Qui etiam necessitatibus
+suis non sine timore deserviunt, timentes
+ne usque ad delectationem effluat voluptatis, quod
+exigit infirmitas conditionis. Carnales autem quique,
+qui pro adimplendis desideriis suis libenter labores
+<pb n="0659D"/>
+tolerant, foris non tantum opere, sed et mente
+vagantur. Et dum per experimenta rerum multa
+discunt, quasi ex ipsa occupatione sui prudentiores
+fiunt. De quibus Dominus in Evangelio dicit: <hi>Filii
+hujus saeculi prudentiores sunt filiis lucis in generatione
+sua <note>(Luc. XVI)</note>
+            </hi>. Sed hi tales alioquin miseratione
+divina ab errore suo conversi, prava studia
+deserunt, sed prudentia quam in pravis studiis
+didicerunt, non amittunt, et in bonis agendis
+tanto cautiores fiunt, quanto in malis perpetrandis
+prius studiosiores exstiterint. Unde manifeste
+ostenditur etiam hoc eis profuisse, quod ad tempus
+derelicti videbantur. Propter hoc superius dictum
+est quatuor esse quae exercent circum spectionem,
+timorem videlicet, curam, necessitatem, affectum.</p>
+<p>
+            <pb n="0660A"/>Tres autem sunt timores mundani vel carnales,
+timor vilitatis, timor poenae, timor mortis, quorum
+singuli suas curas generant. Necessitas autem duplex,
+alia indebito dandi, alia indigentia accipiendi.
+Aliter enim dicitur. Necesse est tributum dare
+Caesari, et aliter dicitur. Necesse est escas dare
+ventri. Imo enim necesse est ut tributum des Caesari,
+quia tu dare debes, imo necesse est, ut escas
+des ventri, quia indiget accipere. Uterque tamen
+exactor est, et Caesar, et venter. Utrumque tributum
+est et esca et pecunia. Sed si propius considerare
+volumus, minus nocet Caesar tollendo pecuniam,
+quam venter accipiendo escam. Caesar enim
+semel auferendo pecuniam sollicitudinem tollit,
+venter autem sine intermissione escam exigendo
+<pb n="0660B"/>
+nunquam nos sine sollicitudine esse permittit.
+Caesar auferendo pecuniam magis nos allevat, venter
+accipiendo escam per abundantiam ad vilia nos
+inflammat. Et ut breviter concludam ego per omnia
+miserabiliorem video eum qui servit ventri, quam
+illum qui servit Caesari. Necessitas ergo alia est in
+debito dandi, alia in indigentia accipiendi. Et illa
+quidem, quae in debito dandi est, multis modis accipitur.
+Debent enim praelati subjectis providentiam,
+debent subjecti praelatis obedientiam, debent aequales
+aequalibus charitatem fraternam, debent sapientes
+insipientibus doctrinam, debent divites pauperibus
+alimoniam. Sed quia sine prudentia et circumspectione,
+nec juste persolvere possumus quod
+debemus, nec petendo impetrare id quo indigemus,
+<pb n="0660C"/>
+dum istis necessitatibus subjicimur, quid
+aliud quam ad prudentiam, et ad circumspectionem
+erudimur? Et sicut de timoribus dictum
+est, etiam singulae necessitates generant curas
+suas.</p>
+<p>Affectus est desiderium perfruendi. Desideriorum
+alia sunt bona, alia sunt mala. Et bona desideria
+sunt spiritulia, mala desideria carnalia. Spiritale
+desiderium quasi vinum dulce suaviter inebriat,
+carnale desiderium quasi vinum acidum, et intoxicatum
+bibentes aut in furorem vertit, aut necat.
+De illo vino dicitur, quod <hi>calix in manu Domini
+vini meri plenus misto <note>(Psal. LXXIV)</note>
+            </hi>, videlicet quod
+laetificat <hi>cor hominis <note>(Psal. CIII)</note>
+            </hi>. Et alibi: <hi>Calix</hi> 
+<pb n="0660D"/>
+Domini <hi>inebrians quam praeclarus est! <note>(Psal. XXII.)</note>
+            </hi> 
+Multa de illo vino in Scriptura dicuntur. De hoc
+autem vino dictum est: <hi>Fel draconum vinum eorum,
+et venenum aspidum insanabile <note>(Deut. XXXII)</note>
+            </hi>,
+quod exprimitur de botro amarissimo, quod propinat
+Babylon de calice aureo fornicationum suarum, de quo
+inebriantur omnes gentes. De hoc etiam vino dictum
+est in Evangelio: <hi>Omnis homo primum bonum vinum
+ponit, et cum inebriati fuerint, tunc id quod deterius
+est <note>(Joan. II)</note>
+            </hi>. De illo autem vino dictum est: <hi>Tu
+servasti vinum bonum usque adhuc <note>(ibid.)</note>
+            </hi>. Hoc carnale
+desiderium quasi peregrinus surculus infixus
+menti graviter eam vulnerat. Et hic est peregrinus,
+de quo per Nathan ad David dicitur <hi>qui ad divitem
+venerat,</hi> pro quo <hi>peregrino</hi> pascendo dives relictis
+<pb n="0661A"/>
+centum propriis <hi>ovibus unam</hi> oviculam <hi>pauperis</hi> auferebat <note>(II Reg. XII)</note>.
+Desiderium enim carnalis
+concupiscentiae quasi hospes peregrinus ad David
+venerat, quando deambulans <hi>in solario domus</hi> suae <hi>Bersabee uxorem Uriae se lavantem</hi> 
+ conspexit, et
+adamavit <note>(II Reg. I)</note>. Tunc autem in pastu peregrini
+relictis centum ovibus suis unam oviculam
+pauperis occidit, quando relictis multis uxoribus
+suis ad implendam voluptatem suam unicam Uriae
+uxorem abstulit. Peregrini igitur surculi nudo
+trunco infiguntur, ut eum vestiant, quia saepe omnipotens
+Deus quos in otio suo tepidos, et quasi nudos
+a bonis operibus esse conspicit, illicitis desideriis
+ad tempus vulnerari permittit, ut timorati et
+circumspecti fiant. Qualiter autem isti affectus cum
+<pb n="0661B"/>
+sint mali hominem exerceant, difficile est agnoscere,
+difficilius enarrare, ille autem novit qui
+facit.
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. XI <hi>Quomodo floreat arbor sapientiae per disciplinam.</hi> </head>
+<p>Per disciplinam floret. In flore tria sunt: spes,
+species, odor, quae omnia per similitudinem in bono
+opere invenimus. Sicut enim in flore futurus fructus
+promittitur, ita in bono opere futurae retributionis
+praemium exspectatur. Et eos, in quibus bona opera
+cernimus, ad sortem supernae retributionis pertinere
+speramus. Item sicut flos per speciem fulget et
+per odorem demulcet, ita bonum opus per exemplum
+quidem fulget, quando praesentibus laudabile
+apparet, eosque ad imitationem accendit. Per odorem
+<pb n="0661C"/>
+autem demulcet, quando absentibus, et longe
+positis per opinionem bonae famae innotescit.</p>
+</div2>
+
+<div2>
+          <head>CAP. XII. <hi>Quomodo fructificet per virtutem.</hi> </head>
+<p>Per virtutem fructificat. Fructus boni operis est
+virtus occulta rectae intentionis. Sub flore enim boni
+operis, quod foris per exemplum lucet, quasi quidam
+intus in mente absconditus fructus virtutis latet.
+Proinde quisquis vacuus a virtute bonum opus
+in oculis hominum foris exhibet, velut arbor est,
+quae sine fructu floret.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIII. <hi>Quomodo per patientiam, et perseverantiam maturescat.</hi> </head>
+<p>Per patientiam et perseverantiam maturescit.
+Inchoata virtus non prodest, nisi ad finem perducatur.
+<pb n="0661D"/>
+Ac per hoc quisquis virtutem inchoat, quasi
+quemdam in se bonitatis fructum format; sed si
+virtutem, quam incipit, ante finem deserit, velut
+immaturus et non aptus esui ante tempus fructus
+cadit. Et ideo patientia, et perseverantia valde nobis
+necessaria est, ut in bono, quod per Dei gratiam
+recte inchoavimus constanter usque in finem perseveremus.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIV. <hi>Quomodo per mortem carpatur.</hi> </head>
+<p>Per mortem carpitur. Quando fructus maturus
+est tunc discerpitur, ut ad patrisfamilias mensam
+veniat. Et nos, cum ad modulum nostrae perfectionis
+perducti fuerimus, ab hac vita per mortem praecidimur,
+ut ad convivium Regis aeterni transferamur.
+Et hoc est quod in cantico amoris, sponsa ad dilectum
+<pb n="0662A"/>
+suum loquitur, dicens: <hi>Veniat dilectus meus
+in hortum suum, et comedat fructum pomorum suorum <note>(Cant. V)</note>
+            </hi>;
+et ipse versa vice ad ipsam ibidem
+respondet: <hi>Veni in hortum meum, soror mea sponsa,
+messui myrrham meam cum aromatibus meis, comedi
+favum meum cum melle meo, bibi vinum meum cum
+lacte mea <note>(ibid.)</note>
+            </hi>. Per mortem ergo carpimur, ut
+quasi fructus bene redolentes ad nuptias. Regis
+aeterni praesentemur. Nos ibi cibus Dei erimus, quia
+ei complacebit in nobis, et ipse cibus noster erit,
+quia nos delectabimur in ipso faciem gloriam ejus
+contemplantes, ita ut illud prophetae compleatur in
+nobis: <hi>Satiabor cum apparuerit gloria ejus <note>(Psal. XVI)</note>
+            </hi>.
+Concludamus ergo summum perfectionis gradum, et
+dicamus.</p>
+</div2>
+
+<div2>
+          <head>CAP. XV. <hi>Quomodo per contemplationem cibat</hi> </head>
+
+<pb n="0662B"/>
+<p>Per contemplationem cibat. Iste est cibus. Ista
+est refectio, de qua Psalmista dicit: <hi>Adimplebis me
+laetitia cum vultu tuo, delectationes in dextera tua
+usque in finem <note>(Psal. XV)</note>
+            </hi>. Amen. Ecce arbor sapientiae
+nostrae per quindecim gradus usque ad summum
+incrementum pervenit; hic autem numerus magni
+mysterii conscius est. Primum quia ex septem et
+octo componitur. Septenarius vero praesentem vitam,
+quae septem diebus currit, significat. Octonarius
+autem, qui post septem venit, aeternam vitam
+designat. Septenarius ergo ad Vetus Testamentum
+pertinet, in quo promittuntur bona temporalia. Octonarius
+autem homo testamento congruit, in quo
+<pb n="0662C"/>
+sperare jubemur aeterna. Crescat ergo per septem
+et octo sapientia. Per septem incipiat, et per octo
+ad consummationem pertingat. Prima sapientia sit a
+Deo terrena bona petere. Secunda sapientia et maxima
+sit a Deo Deum desiderare. Item quindecim si
+duplicentur triginta efficiunt, et sapientia si adjuncta
+charitate per dilectionem Dei et proximi geminetur,
+usque ad conformitatem aetatis plenitudinis Christi
+nos perducit. Item in quindecim medius idem
+est qui octavus, hinc inde habens septenarium. Et
+satis claret, quod septenarius ad requiem pertinet,
+hinc maxime quod <hi>septima die requievit
+Dominus ab omni opere quod patrarat <note>(Gen. II)</note>
+            </hi>. Rursum
+per prophetam repromittit Deus suis dilectoribus <hi>Sabbatum</hi> 
+ pro <hi>Sabbato, et</hi> mensem pro <hi>mense</hi> 
+<pb n="0662D"/> <note>(Isa. VI)</note>;
+hoc est requiem pro requie, perfectionem
+pro perfectione; pro requie mentis requiem mentis
+et corporis, pro requie qua non consentiunt malis,
+requiem qua nulla sentiunt mala. Item pro perfectione
+operis perfectionem retributionis. Idem est
+enim quod dicis Sabbatum pro Sabbato, ac si diceret
+requiem pro requie; et quod dicit mensem pro
+mense, ac si diceret perfectionem pro perfectione.
+Prima igitur requies primum Sabbatum nobis esse
+debet in praesenti vita cessare a malo, ut secundum
+Sabbatum adipisci mereamur, ut in aeternum requiescamus
+cum Christo. Sed quisquis hoc modo a malis
+sabbatizare proponit, necesse est priusquam ad
+illud futurum Sabbatum veniat, multa in hoc mundo
+adversa patiatur. Et ideo in arbore sapientiae octavo
+<pb n="0663A"/>
+gradu inter septem et septem, quasi inter Sabbatum
+et Sabbatum, tolerantia laboris figitur in centro
+mediae unitatis, cum dicitur per charitatem roboratur.
+Contra enim magnas tribulationes necessaria
+est vel robusta charitas. Et hoc est quod Dominus
+in Evangelio, cum septem beatitudines enumerasset,
+in octava ad tolerantiam passionis admonuit,
+dicens: <hi>Beati qui persecutionem patiuntur
+propter justitiam, quoniam ipsorum est regnum coelorum <note>(Matth. V)</note>
+            </hi>.
+Nam quod ibi dicitur: Beati qui
+<pb n="0664A"/>
+persecutionem patiuntur propter justitiam, hoc hic
+dicitur per charitatem roboratur. Sed jam, dum incidentium
+rationum expositionem prosequimur, longius
+a proposito nostro digressi sumus. Unde et de
+hoc quoque veniam postulamus, quia ut verum
+fatear, saepius in hoc tractatu scribenda plura invenimus,
+quam inventa scribemus. Neque enim vel in
+hoc meam insipientiam fateri erubesco. Nunc ergo
+ad propositum revertentes de fabricatione arcae
+sapientiae prosequamur.</p>
+</div2>
+      </div1>
+
+
+<div1>
+        <head>LIBER QUARTUS,</head>
+        <pb n="0663"/>
+        <head>Cujus haec sunt capitula:</head>
+<div2>
+          <head>CAP. I. </head>
+          <p>
+ <hi>Ubi et ex quo aedificata sit arca, id est domus Dei.</hi> --CAP. II. <hi>De ordine et dispositione cogitationum
+nostrarum quae finitae non sunt, ut ex eis construatur domus Dei.</hi> --CAP. III. <hi>De duobus operibus Dei, id
+est conditionis et restaurationis, in quibus exercendus est animus, ne a mundo distrahatur.</hi> --CAP. IV. <hi>Quare in abdito, et obscure locutus sit Deus.</hi> 
+--CAP. V. <hi>Quare cum paucis, et raro loquatur, et locutus sit
+Deus.</hi> --CAP. VI. <hi>Quod aliter pensant electi opera Dei, et aliter reprobi.</hi> --CAP. VII. <hi>Duos esse mundos,
+visibilem et invisibilem.</hi> --CAP. VIII. <hi>De tribus speciebus hominum respectu arcae.</hi> --CAP. IX. <hi>Quae sunt
+opera restaurationis et operationis humanae.</hi> 
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. PRIMUM. <hi>Ubi et ex quo aedificata domus Dei.</hi> </head>
+
+<pb n="0663B"/>
+<p>De aedificatione domus Domini loqui volumus, si
+tamen nos, qui indigni sumus de tanta re loqui,
+aliquid digne sufficimus. Sed et si ex nobis sufficientes
+non sumus, potens est ille sufficientiam nobis
+praestare, sine quo digne de eo non dicam loqui, sed
+nec cogitare quidquam idonei invenimur. Primum
+designandus est locus, in quo aedificari oporteat domum
+Domini. Deinde scribenda materia. Locus est
+cor hominis, materia cogitationes mundae. Nemo se
+excuset. Nemo dicat, non possum aedificare domum
+Domino, non sufficit tantis impendiis tenuis paupertas
+mea, cui et ipse locus deest exsuli, et peregrino,
+et in terra aliena degenti. Hoc opus est regum, hoc
+multorum est opus populorum. Ego vero quomodo
+<pb n="0663C"/>
+aedificabo domum Domino? Cur sic cogites homo?
+Non hoc exigit a te Deus tuus. Non dicit tibi, ut
+fundum emas alienum ad amplificanda atria sua. Cor
+tuum inhabitare vult, hoc amplifica, dilata; dilata
+inquam, quia magnus est Dominus, et nescit in loco
+angusto habitare. Dilata ergo cor tuum, ut capere
+possis, quem capere non potest mundus. Dilata cor
+tuum, ut habere merearis hospitem Deum, et non
+(sicut consuetudo est inter homines) unius noctis
+hospitem, sed aeternum habitatorem. Dilata ergo
+cor tuum. Quod si tu in dilatando deficis, ipse tibi
+dilatabit, cui ille aliquando dilatus ab eo dixit: <hi>Viam
+mandatorum tuorum cucurri, cum dilatasti cor meum <note>(Psal. CXVII)</note>
+            </hi>.
+Et de impensa quid dicam? Non necesse
+est maria transire, et ignotas exquirere regiones
+<pb n="0663D"/>
+ad comparandos lapides pretiosos, et marmora
+electa, nec cedros excelsas incisas de Libano per
+alta maria navibus conductis advehere, aut nescio
+quot numerosa artificum millia congregare, qui et
+thesauros regum attenuare possent. Nihil horum a
+<pb n="0664B"/>
+te postulatur in te, et de te fabricabis domum Domino
+Deo tuo. Ipse artifex eris, cor tuum locus,
+cogitationes tuae materia. Nec timeas imperitiam
+tuam, qui hoc a te requirit peritus est artifex, et
+alios quos vult artifices facit. Multos ab eo eruditos
+testimonio divinarum Scripturarum didicimus. Ipse
+Noe arcam fabricare docuit. Ipse Moysi, ad cujus similitudinem
+arcam fabricaret, exemplar ostendit.
+Ipse Beseleel erudivit. Ipse Salomonem, ut aedificaret
+templum nomini ejus, sapientia illustravit. Paulum
+quoque Apostolum architectum fecit; et multos
+alios quos enumerare longum est. Et postremo nullus
+doctus fuit, qui ab eo non didicit, et quisquis ab eo
+discere meruit, nemo imperitus remansit. Sed, si te
+de operibus ejus aliquid audire delectat, omnia haec
+<pb n="0664C"/>
+quae vides, ipse de nihilo creavit. Ipse admirabilem
+mundi hujus machinam fabricavit. Ipse singula quaeque
+qualiter in formas et species suas producenda
+fuerant, excogitavit, et universorum pulchritudinem
+ipse condidit. Perpende ergo quantum in rebus invisibilibus
+possit, qui haec visibilia tam mira ratione
+disposuit. Hunc ergo invoca, hunc ora, hunc obsecra,
+ut te quoque docere dignetur. Invoca eum,
+dilige eum; hoc est enim invocare eum, diligere
+eum. Dilige ergo eum, et ipse ad te veniet, et docebit
+te sicut promisit diligentibus se. <hi>Si quis diligit
+me, sermonem meum servabit, et Pater meus diliget
+eum, et ad eum veniemus, et mansionem apud eum
+faciemus <note>(Joan. XIV)</note>
+            </hi>. Non dixit, facta mansione veniemus,
+sed veniemus, inquit, et mansionem apud
+<pb n="0664D"/>
+eum faciemus. Ego sic intelligo, quod mundi cordis
+amator apud nos manere non possit, nisi prius ipse
+sibi in nobis mansionem fecerit. Ipse quippe est
+sapientia, de qua dicitur: <hi>Sapientia aedificavit sibi
+domum <note>(Prov. IX)</note>
+            </hi>; et in alio loco, ipsa sapientia ubi
+<pb n="0665A"/>
+et unde domus ejus constructa sit manifestat, dicens: <hi>Ego sapientia in consilio habito, et</hi> 
+ sensatis <hi>intersum
+cogitationibus <note>(Prov. VIII)</note>
+            </hi>. Et alibi sedes sapientiae
+appellatur animae justi. Constat ergo, quod in
+corde hominis de cogitationibus sensatis sapientia
+sibi domum fabrefecit. Tria ergo sunt, locus, materia,
+artifex. Et, sicut diximus, locus est cor hominis,
+materia cogitationes cordis, artificium autem
+duorum est, Dei videlicet et hominis, simul operantur
+haec duo. Deus enim, qui dignatur cum hominibus
+habitare, non dedignatur cum homine habitaculum
+sibi praeparare. Proinde non debet homo suam
+imperitiam aut infirmitatem considerans desperare,
+sed eum potius, qui secum operari dignatur, attendere.
+Deus enim est virtus et sapientia, et non potest
+<pb n="0665B"/>
+aliquis aut cum virtute deficere, aut cum sapientia
+ignorare, maxime cum idem ipse sit, qui et nobis
+operantibus bonum cooperatur, et non operantibus
+ut velimus, et possimus bonum operari, largitur.
+Dei quippe opus in nobis nobiscum est, et nostrum
+opus in nobis ab ipso est. Ejus opus in nobis nobiscum
+est, nostrum adjutorium, et nostrum
+opus in nobis ab ipso est, et ipsius donum. His
+dictis ad ea, quae proposuimus veniamus, id est
+ut postquam agnoveris ubi, et unde, et cum quo
+operari debeas, nunc qualiter opereris agnoscas. In
+omni aedificatione tria sunt praecipue consideranda,
+ordo, dispositio et definita dimensio, habens principium
+et finem determinatum. Superest nunc igitur
+<pb n="0665C"/>
+inquiramus qualem esse oportet ordinem, et dispositionem
+cogitationum nostrarum, ut ex eis construatur
+domus Dei. Deinde etiam diligenter considerandum
+est, qua ratione domus haec, quam ad inhabitandum
+Deo aedificamus, definitam dimensionem
+recipere possit, cum ipse ejus inhabitator Deus
+infinitus sit et immensus. Quod primum investigandum
+proposuimus primum prosequamur.</p>
+</div2>
+
+<div2>
+          <head>CAP. II. <hi>De ordine et dispositione cogitationum nostrarum, quae finitae non sunt, ut ex eis construatur domus Dei.</hi> </head>
+<p>Omnium rerum numerus quantum ad nostrae intelligentiae
+capacitatem pertinet infinitus est, quia a
+nobis comprehendi non potest. Ubi autem non est
+definitio, non est certitudo; et ubi certitudo non est,
+<pb n="0665D"/>
+confusio est; ubi vero confusio est, ordo esse non
+potest. Hinc ergo procedit, quod, dum corda nostra
+ad appetitum terrenarum rerum immoderate laxamus,
+oborta mox inanium cogitationum turba, ita
+in diversa mens nostra rapitur, ut ipse quoque naturalis
+discretionis ordo perturbetur. Nam quia res
+mundanae, quas inordinate appetimus, infinitae sunt,
+cogitationes quoque, quas ex ipsarum rerum memoria
+intrinsecus concipimus, finitae esse non possunt.
+Nam dum per singula momenta aliae ex aliis
+orientes multipliciter prodeunt, nec ipsi nos comprehendere
+valemus, quo ordine, vel quomodo ad
+cor veniunt, aut a corde recedunt. Proinde si ordinatas,
+et stabiles, ac quietas cogitationes habere
+volumus ab hac immoderata distractione corda nostra
+<pb n="0666A"/>
+cohibere studeamus. Hoc autem fieri poterit, si
+certas quasdam et determinatas res nobis praescribamus,
+in quibus assidue intentio cordis nostri versari,
+et meditatio exerceri possit. Tria enim sunt,
+id est per infinita distrahi, in eodem semper persistere,
+moderate vagari, quorum primum habere
+non debemus, secundum hic habere non possumus,
+et idcirco solum hoc tertium superest, ut quia adhuc
+vere corde stabiles esse non possumus, interim saltem
+ab immoderata distractione corda nostra colligamus,
+ut dum semper nitimur minus instabiles
+fieri, semper magis ac magis incipiamus veram stabilitatem
+imitari. Et ut quod loquimur, per exemplum
+manifestius fiat, tres constituamus res; unam in imo,
+alteram in summo, tertiam in medio. In imo ponamus
+<pb n="0666B"/>
+mundum, in summo Deum, et in medio collocemus
+humanum animum. Deinde consideremus
+deorsum in mundo isto magnam quamdam, et horribilem
+omnium rerum confusionem, et infinitam
+humanarum mentium distractionem; sursum autem
+apud Deum perpetuam et inconcussam stabilitatem.
+Post haec imaginemur quasi humanum animum de
+hoc mundo sursum ad Deum ascendentem, et in
+ascendendo magis semper ac magis in unum sese
+colligentem, et tunc spiritaliter videre poterimus
+formam arcae nostrae, quae in imo lata fuit, et sursum
+in angustum surrexit, quousque ad mensuram
+unius cubiti in cacumine suo perveniret. Similiter
+enim nos de hoc profundo, de hac convalle lacrymarum
+<pb n="0666C"/>
+per quaedam incrementa virtutum, quasi per
+quosdam gradus in corde nostro dispositos, ascendentes
+paulatim in unum colligimur, quousque ad
+illam simplicem unitatem, et veram simplicitatem,
+aeternamque stabilitatem, quae apud Deum est, pertingamus.
+Nemo subito perfectus fit, sed proficiendo
+quisque ad perfectionem tendit, qui quandiu adhuc
+habet, in quo proficere possit, nondum ad summam
+perfectionem pervenit. Hic, si volumus, considerare
+possumus modum reparationis nostrae. Omnipotens
+enim Deus, cui nihil impossibile est, posset utique
+si vellet eos, quibus misereri proposuit, de laboribus,
+et aerumnis, et de periculis praesentis vitae,
+quae tentationibus plena est, subito et absque dilatione
+ad aeternae vitae stabilitatem transferre, sed
+<pb n="0666D"/>
+vult ut electi sui per varias tribulationes, et tentationes
+plurimas purgandi transeant, ut cum per
+multos dolores ad eum redeunt, discant quam longe
+ab eo peccando discesserint. Dum enim viam, per
+quam abierant peccando, poenitendo non translati,
+sed reducti pergunt, ex ipsa diuturna (ut ita dicam)
+itineris fatigatione agnoscunt, quod de longinquo
+adducti sunt. Et hoc totum fit, ut hominibus gratia
+Dei commendetur, ut tanto ardentius Deum diligant,
+quanto minus se ab eo etiam cum longe fuerint,
+vident derelictos, sicut per prophetam Isaiam
+ipse promisit dicens: <hi>Abducam ab oriente semen
+tuum, et ab occidente congregabo te. Dicam aquiloni:
+Da; et austro: Noli, prohibere. Affer filios meos de
+longinquo, et filias meas ab extremis terrae (Isa.
+<pb n="0667A"/>
+XLIII)</hi>. Potest unusquisque nostrum, qui memor est
+ubi fuerit, et agnoscit ubi sit, in seipso fortassis
+videre quomodo homo per divinam misericordiam
+de longinquo adducatur, et de dispersione sui unum
+colligatur. Restat nunc ut consideremus, quae sint
+illae res, quas supradiximus, in quibus exerceri
+oporteat animum, ut paulatim assuescat se ab hujus
+mundi distractione retrahere, ut ad illam summam
+stabilitatem, id est contemplationem Dei roboratus
+assurgat, quod sic videri potest.</p>
+</div2>
+
+<div2>
+          <head>CAP. III. <hi>De duobus operibus Dei, id est conditionis et restaurationis, in quibus exercendus est animus, ne a mundo distrahatur.</hi> </head>
+<p>Omnia opera Dei propter hominem facta sunt,
+sive ea quae pertinent ad primam conditionem hominis,
+<pb n="0667B"/>
+sive ea quae facta sunt ad hominis reparationem.
+Ad conditionem hominis pertinet creatio
+mundi, id est coeli et terrae, et omnium, quae in primordio
+facta esse leguntur a Deo. Ad reparationem
+hominis pertinet incarnatio Verbi, et omnia quae
+vel ante ipsam incarnationem ab initio ad ipsam
+praefigurandam et praenuntiandam praecesserunt, vel
+quae post eam usque ad finem mundi propter ipsam
+praedicandam, et credendam fiunt. Cum autem secundum
+illa prima opera, quae ad conditionem hominis
+pertinent, omnium Deus sit, quia ipsa omnes
+creavit et haec temporalia bona indiscrete omnibus
+bonis, et malis tribuit; secundum illa opera, quae
+ad reparationem hominis pertinent, non omnium
+Deus esse voluit, sed eorum tantum, quos ipse ante
+<pb n="0667C"/>
+tempora saecularia in proposito bonae voluntatis suae
+elegit, ut eos certo tempore vocaret, et justificaret,
+et glorificaret in dilecto Filio suo Domino nostro
+Jesu Christo <note>(Rom. VIII)</note>. Inde est, quod in sacra
+Scriptura specialiter quorumdam se Deum nominat,
+sicut est illud: <hi>Ego sum Deus Abraham, et Deus Isaac,
+et Deus Jacob <note>(Exod. III)</note>
+            </hi>, quia, sicut dictum est,
+qui omnes creavit, non omnes redimit, sed alios
+per misericordiam salvat, et alios per justitiam
+damnat. Igitur, ea quae ad reparationem hominis
+facta sunt, non ad omnes pertinent, sed ad eos
+tantum, qui salvi fiunt. Et sicut non omnium sunt,
+ita etiam non apud omnes facta sunt, nec ad omnium
+notitiam pervenerunt, sed facta sunt certis
+<pb n="0667D"/>
+quibusdam locis, et temporibus, et cum certis personis
+secundum altitudinem divini consilii ad hoc
+ordinatis. Cum enim Deus secundum omnipotentiam
+suam multis modis ad restaurationis hominis uti
+potuisset, hunc tamen potissimum elegit, qui nostrae
+infirmitati caeteris convenientior fuit, ut opus
+misericordiae suae non solum potenter et juste, sed
+et sapienter impleret. Primus autem homo deseruit
+Creatorem suum, cum eum per contemplationem
+praesentem aspiceret; nunc autem homo Creatorem,
+quem non videt per speciem, quaerit per fidem.
+Primus autem homo sine labore stare potuit, et
+sponte cecidit; nunc autem sponte surgens homo
+ad Deum etiam per tormenta redit. Ordinatissimum
+igitur est de nostra reparatione divinae dispensationis
+<pb n="0668A"/>
+consilium, ut qui sponte cecidit, non coactus,
+sed sponte surgat; et qui per liberum arbitrium
+infirmatus est, sanitatem non recuperet, donec per
+liberum arbitrium sanari velit. Hoc autem ex nobis
+non est ut velimus, sed Deus in nobis hoc operatur.
+Gratia enim Dei praevenit, et excitat liberum arbitrium
+nostrum, ut possit velle sanari, quia per se
+non potest velle sanari, qui per se potuit velle infirmari.
+Hoc igitur est quod nunc in electis agitur,
+ut videlicet in praesenti vita ad futuram beatitudinem
+praeparentur, ut homo in hac infelicitate positus
+mereatur ad illam felicitatem ascendere, sicut
+primus homo in illa felicitate positus meruit ad
+hanc infelicitatem devenire. Sed et illud meritum,
+quo homo infelix esse meruit, tantummodo ex homine
+<pb n="0668B"/>
+fuit. Hoc vero meritum, quo felicitatem aeternam
+meretur, non ex homine est, sed gratia Dei
+hoc in homine operatur. Non ergo sine causa fit,
+quod Deus hominem post peccatum a caecitate ignorantiae
+revocans, sic cognitionem suam ab eo temperat,
+ut innotescat quidem et tamen semper maneat
+occultus. Si enim ita aperte se manifestaret
+hominibus, ut nullus de eo dubitare posset, tunc
+nec fides meritum, nec infidelitas haberet locum.
+Innotescit igitur ut fides nutriatur, et occultus permanet
+ne infidelitas convincatur. Occultus permanet
+ut fides probetur, innotescit ut infidelitas condemnetur.
+Quia enim et fideles aliquid habent, unde dubitare
+possent, et infideles unde credere valerent si
+vellent juste, et illis pro fide redditur praemium, et
+<pb n="0668C"/>
+istis pro infidelitate supplicium. Placuit autem Deo
+ut beatitudinem, quam gratis daturus erat homini,
+prius hominem promereri faceret, sic tamen ut ab
+ipso esset et meritum et meriti praemium. Differt
+igitur nunc dare quod daturus est, plenam videlicet
+sanitatem, plenam cognitionem, plenam felicitatem,
+et interim per fidem illuminat nostram caecitatem,
+ut per ipsam proficiendo ad manifestam mereamur
+pervenire ejus claritatem</p>
+</div2>
+
+<div2>
+          <head>CAP. IV. <hi>Quare in abdito, et obscure locutus sit Deus.</hi> </head>
+<p>Hoc est quod ab initio cum paucis, raro, obscure
+et in abscondito locutus est Deus. Scrutemur Scripturas,
+et inveniemus vix unquam Deum in multitudine
+<pb n="0668D"/>
+locutum, sed quotiescunque hominibus innotescere
+voluit, non gentibus et populis, sed vel singulis,
+vel admodum paucis, et a communi frequentia
+hominum segregatis, vel per nocturna silentia,
+vel in campis, vel in solitudinibus et montibus se
+manifestavit. Sic locutus est cum Noe, cum Abraham,
+cum Isaac, cum Jacob, cum Moyse, cum Samuel,
+cum David et cum omnibus prophetis. Denique
+in carne apparens, quamvis manifeste locutus
+sit mundo, tamen discipulos, ut illis gloriam suam
+manifestaret, seorsum in montem duxit <note>(Marc. IX)</note>.
+Quibus et alibi dicit: <hi>Vobis datum est nosse mysterium
+regni Dei, caeteris autem in parabolis <note>(Matth.
+XIII)</note>
+            </hi>, et rursum: <hi>Quod dico vobis in tenebris, dicite
+in luce, et quod in aure auditis, praedicate super tecta</hi> 
+<pb n="0669A"/> <note>(Matth. X)</note>.
+Sed nec illi antiquo populo legem dedit
+in Aegypto, nec alibi, donec eum eduxisset in solitudinem
+seorsum. Neque ibi palam omnibus, sed
+Moyses solus ascendit in montem, ut legem acciperet.
+Quid est ergo quod semper in secreto loquitur
+Deus, nisi quod nos ad secretum vocat? et quid
+quod cum paucis, nisi ut nos colligat? Considerate
+haec duo quae dixi, colligit et ad secretum vocat.
+Primus homo antequam peccaret non opus habuit,
+ut ei extrinsecus loqueretur Deus, qui aurem cordis
+intrinsecus habuit, qua vocem Dei spiritualiter audire
+posset, sed postquam foris aurem ad suasionem
+serpentis aperuit, aurem intus ad vocem Dei clausit.
+Quia ergo homo auditum intus perdidit, quo
+Deum loquentem audiat, revocans nos Deus ad se
+<pb n="0669B"/>
+foris clamat. Sed cum loquitur, semper quasi occultari
+volens se subtrahit, ut mentem humanam
+et per hoc quod loquitur de se admoneat, et per hoc
+quod se occultando fugit ad se trahat. Irritat enim
+desiderium nostrum ut augeat, quia et loquendo
+amorem sui in nobis excitat, et fugiendo ut se sequamur
+inflammat. Tale est enim cor hominis, ut
+si quod diligit adipisci non valeat, amplius desiderio
+suo inardescat. Sic in Canticis canticorum
+Sponsus venit: <hi>Stat post parietem,</hi> prospicit <hi>per fenestras,
+et cancellos <note>(Cant. II)</note>
+            </hi>, ut quasi lateat et
+non lateat. <hi>Mittit manum suam per foramen <note>(Cant.
+V)</note>
+            </hi>, tangit Sponsam et sono depresso, voce tenui
+vocat eam, et dicit: <hi>Veni, amica mea, columba mea.
+Ecce hiems transiit, imber abiit, et recessit. Flores
+<pb n="0669C"/>
+apparuerunt in terra nostra; vox turturis audita est
+in terra nostra <note>(Cant. II)</note>
+            </hi>. Illa ut audit Sponsum
+adesse surgit mox, festinat, aperit <hi>pessulum ostii</hi> sui <note>(Cant. V)</note>,
+et quasi venientem exceptura brachia ad
+amplectendum parat; vix tolerat, vix sustinet, vix
+exspectat. Liquescit <hi>anima</hi> ejus <note>(ibid.)</note>, ardet cor
+ejus, fervent praecordia ejus, exsultat, gaudet, tripudiat,
+jucundatur, ruit obviam venienti. Sed ille,
+cum jam teneri putatur, declinat, et subito quasi
+de mediis elapsus amplexibus fugit. Quid est hoc?
+Dum non quaeritur quaerit, dum non vocatur venit,
+dum autem quaeritur declinat, et dum vocatur fugit.
+Si non diligit, quare venit? aut si diligit, quare
+fugit? Diligit autem, et ideo venit, sed quia hic non
+<pb n="0669D"/>
+diligit, ideo fugit. Quid est hoc, quod dixi, hic non
+diligit? In hoc mundo, in hoc saeculo, in hac terra,
+in hac patria, in hoc exsilio. Sed vocat nos ad terram
+suam, quia non decet talis amor patriam istam,
+immunitio amoris esset utilitas regionis. Jucundus
+amor amoenum quaerit locum, ideo commendat nobis
+terram suam, ideo laudat patriam suam, ideo dicit:
+Flores apparuerunt in terra nostra; <hi>vineae florentes
+odorem dederunt <note>(Cant. II)</note>
+            </hi>; vox turturis audita est
+in terra nostra. Ut concupiscamus talem regionem,
+ut desideremus talem patriam, et sequamur eum.
+Ibi nos amat, ibi amore nostro frui desiderat, ibi
+amplecti a nobis postulat, ibi sequentes se non fugit,
+sed venientes ad se exspectat. Offert ergo se
+dum non quaeritur, ut nos ad amorem sui accendat.
+<pb n="0670A"/>
+Dum quaeritur fugit, ut nos post se currere
+faciat. Nisi enim prius ipse se nobis ostenderet,
+nemo eum diligeret. Et nisi dum quaeritur fugeret,
+nemo eum sequi vellet. Flores, inquit, apparuerunt
+in terra nostra, non in terra mea, sed in terra nostra,
+ut eam communicaret nobiscum. Quasi diceret
+fidelis vobis adsum nuntius, vidi quod testor, audivi
+quod loquor. Nolite timere, nolite diffidere, nolite
+haesitare. Sequimini quo voco, quia inde estis unde
+venio, non habetis hic manentem civitatem. Peregrinum
+est quod incolitis. Aliunde huc venistis, si
+patriae vestrae memores essetis, utique peregrinationem
+non diligeritis. Propterea et ego huc veni, ut
+hinc vos educerem, non ut vobiscum hic permanerem.
+Et ideo de abscondito ad vos clamo, quia innotescere
+<pb n="0670B"/>
+hic tantum, non permanere volo. Ideo de
+longinquo vos voco, quia ad reditum festino. Sufficit
+me tantum processisse, ut audiri possim. Damnum
+me pati existimarem, si quod superest viae
+pergerem. Gravis est omnis mora. Flores apparuerunt
+in terra nostra. Discite quantum vos festinare
+debetis dum me fugientem cernitis. Non venissem,
+nisi vos post me trahere vellem. Haec est causa,
+quare Deus in abscondito semper loquatur. Sicut in
+lege, et prophetis, et in Evangelio per parabolas,
+et aenigmata locutus est. Dignum est enim, ut sub
+figuris verborum abscondantur secreta mysticorum
+intellectum, quia cito vilescerent si passim omnibus
+paterent. Ita enim veritas et per inquisitionem fideles
+<pb n="0670C"/>
+exercet, et ne ab infidelibus inveniatur, occulta permanet.
+Istos, dum difficile invenitur, majori desiderio
+inflammat; illos, dum omnino inveniri non potest,
+excaecat. Ex eodem ergo et fideles proficiunt
+et infideles cadunt, quia et illi humiliter audiendo,
+et fideliter inquirendo verba Dei ad agnitionem veritatis
+perveniunt; isti autem vel negligendo, vel
+contemnendo, vel prave intelligendo nunquam ad
+veritatem pertingunt. Jam diximus quare obscure,
+et in abscondito loquatur Deus; nunc restat dicere,
+quare cum paucis, et raro loquatur.</p>
+</div2>
+
+<div2>
+          <head>CAP. V. <hi>Quare cum paucis, et raro loquatur, et locutus sit Deus.</hi> </head>
+<p>Primi hominis natura ita a Deo, ordinata, et instituta
+fuerat, ut anima, quae corpori praeerat, per
+<pb n="0670D"/>
+sensus quidem ministeria corporis foris impleret, sed
+intus per rationem semper ad Creatorem suum intenderet.
+Hoc est membra corporis sensificando foris
+ad agendum quidem moveret, sed intentionem,
+et desiderium intus ad solum Creatorem dirigeret,
+et nihil foris ageret, quod ex ejus dilectione non
+procederet, et ad ejus dilectionem non pertineret,
+ita ut omnem actum et charitas imperaret, et ratio
+disponeret, et sensus impleret atque perficeret.
+Quandiu ergo hunc ordinem naturae suae tenuit, quamvis
+foris per actionem variaretur, intus tamen per
+intentionem et amorem stabilis permansit, quia
+unum intendebat, et propter unum omnia faciebat,
+unum diligebat, et omnium voluntatum, atque actionum
+suarum finem ad unum referebat, et indeffessa
+<pb n="0671A"/>
+mentis acie ad unum jugiter respiciebat Creatorem
+suum. Unde nec dubitare de Creatore suo poterat,
+cui semper intus per contemplationem praesens erat.
+Cujus visio, et per cognitionem cor ejus illuminavit,
+et per amorem stare et requiescere fecit. Sed postquam
+merito praevaricationis suae ejectus est a facie
+Domini, factus est caecus et instabilis. Caecus per
+ignorantiam mentis, instabilis per concupiscentiam
+carnis. Quibus ab illo in omnem posteritatem transfusis,
+universa mala exorta sunt. Per ignorantiam
+enim ad hoc tandem devoluti sunt homines, ut Creatorem
+suum non agnoscerent, et aut omnino Deum
+non esse existimarent, aut divinitatem iis, qui dii
+non erant, attribuerent. Per concupiscentiam vero
+infinitis erroribus distracti, et dissipati sunt. Necesse
+<pb n="0671B"/>
+enim fuerat, ut per concupiscentiam terrenarum
+rerum, quae videbantur, immoderate diffluerent,
+qui tenebris ignorantiae pressi alia invisibilia
+bona esse nescirent. Volens ergo Deus ab hac distractione
+corda nostra colligere, et ad interna
+gaudia contemplanda revocare, foris loquitur, ut
+nos intus redire admoneat. Sed quia mens visibilibus
+assueta nescit tam cito ad invisibilia consurgere,
+idcirco voluit ipse quaedam etiam visibiliter
+exhibere miracula, in quibus nostrum affectum enutriret,
+et suam nobis charitatem commendaret. Haec
+autem sunt specialiter illa, quae ad reparationem
+hominis pertinent; nam ea, quae ad conditionem hominis
+facta sunt, magis nobis potentiam opificis indicant;
+ea vero, quae ad redemptionem hominis facta
+<pb n="0671C"/>
+sunt, praecipue ad charitatem spectant. Haec igitur
+operatus est Deus, ut qualem erga nos haberet dilectionem
+ostenderet, et nos ab amore hujus mundi ad
+amorem sui revocaret. Haec igitur opera ita moderari
+voluit ne infinita essent, ne animum nostrum,
+qui colligendus erat, in occupatione sua distraherent;
+tamen multa essent, ut eumdem animum perfectae
+adhuc stabilitatis impatientem rerum varietate
+delectarent. Propterea elegit unam gentem, et unum
+locum, ubi sacramenta non ad unius gentis tantum,
+sed ad salutem totius mundi pertinentia initiaret, ut
+unitas ubique commendaretur, et humanus animus
+intus et foris ad unitatem revocaretur, ut sicut ab uno
+Salvatore est salus omnium, ita etiam ab uno loco,
+et ab uno populo manaret salutis initium. Qui enim
+<pb n="0671D"/>
+propter nos omnia fecit, sic utique fecit, sicut magis
+nobis expedire cognovit. Haec autem partim per homines,
+partim per angelos, partim per semetipsum
+operatus est Deus. Plurima per homines, per angelos
+multa, per semetipsum pauca. Propterea ut dum
+in meditatione eorum humanus animus de factis
+hominum ad facta angelorum, et de factis angelorum
+ad facta Dei ascendendo proficit, paulatim sese in
+unum colligere assuescat, et quando magis multiplicitatem
+evadit, tanto amplius ad veram simplicitatem
+appropinquare incipiat. Dum ergo Deus. cum
+paucis et raro loquendo mentes nostra in unum colligit,
+obscure autem et in abscondito loquendo sursum
+ad se trahit, quid aliud quam, ut ita dicam,
+<pb n="0672A"/>
+invisibilis cujusdam arcae in cordibus nostris formam
+fingit? Quamvis ergo omnia opera sua propter hominem
+fecerit, alia tamen voluit esse opera illa,
+quae sanis exhiberent obsequium, atque alia quae infirmis
+conferrent remedium. Poterat enim mundus
+sano servire, sed non poterat aegrotum reparare.
+Proinde post illam primam rerum conditionem, quae
+facta fuerunt, ut stantibus subessent, necesse erat
+alia facere, quae jacentes erigerent. Quae tanto primis
+digniora sunt, quanto magis necessaria, et
+quanto dignitate praecedunt, tanto prolixiori tempore
+currunt. Illa enim sex diebus facta sunt, ista
+sex aetatibus fiunt. Sex enim diebus facta est rerum
+conditio, et sex aetatibus perficitur hominum reparatio.</p>
+</div2>
+
+<div2>
+          <head>CAP. VI. <hi>Quod aliter pensant electi opera Dei, et aliter reprobi.</hi> </head>
+
+<pb n="0672B"/>
+<p>Sed sciendum est quod opera divina aliter electi
+atque aliter reprobi pensant. Electi namque opera
+restaurationis praeferunt operibus primae conditionis,
+quia illa ad servitutem, ista ad salutem facta
+sunt. Sed e contrario reprobi plus amant opera conditionis,
+quam opera restaurationis quia praesentem
+quaerunt delectationem, non futuram felicitatem.
+Philosophi gentillum superstitiosa quadam curiositate
+naturas rerum, id est opera conditionis investigando,
+in cogitationibus suis evanuerunt. Philosophi
+Christianorum opera restaurationis jugiter meditando,
+omnem a cogitationibus suis vanitatem repellunt.
+<pb n="0672C"/>
+Electi restaurationem sui considerantes, igne divini
+amoris inardescunt. Reprobi autem pulchritudinem
+rerum conditarum perverse amantes ab amore Dei
+refrigescunt. Reprobi dum rebus transitoriis cogitationes
+suas immergunt Creatoris sui obliviscuntur.
+Electi autem Creatoris sui oblivisci non possunt, de
+cujus misericordia semper circa sui reparationem
+meditantur. Reprobi dum temporalibus inhiant, cognitionem
+aeternorum perdunt. Electi autem dum
+temporalia Dei beneficia recolunt, ad agnitionem
+aeternorum proficiunt. Reprobi per visibilia ab invisibilibus
+cadunt; electi autem per visibilia ad invisibilia
+ascendunt. Sed sciendum est, quod alia sunt
+illa visibilia, de quibus ascendunt, alia illa sunt, per
+quae ascendunt. De operibus conditionis per opera
+<pb n="0672D"/>
+restaurationis, ad conditionis et restaurationis auctorem
+ascendunt. Ascensus autem isti non extrinsecus,
+sed intrinsecus cogitandi sunt, per gradus in
+corde de virtute in virtutem dispositos. Quod sic
+fortassis facilius intelligere poterimus.</p>
+</div2>
+
+<div2>
+          <head>CAP. VII. <hi>Duos esse mundos visibilem, et invisibilem.</hi> </head>
+<p>Sicut duo opera, id est opera conditionis, et opera
+restaurationis distinximus, ita duos mundos esse
+intelligamus visibilem, et invisibilem. Visibilem
+quidem hanc machinam universitatis, quam corporeis
+oculis cernimus, invisibilem vero cor hominis,
+quod videre non possumus. Et sicut in diebus Noe
+aquae diluvii universam terram operuerunt, sola autem
+arca aquis superferebatur, et non solum mergi
+<pb n="0673A"/>
+non poterat, verum etiam quanto amplius aquae
+intumescebant, tanto altius in sublime elevabatur,
+ita et nunc intelligamus in corde hominis concupiscentiam
+hujus mundi esse, quasi quasdam aquas
+diluvii arcam vero, quae desuper ferebatur, fidem
+Christi, quae transitoriam delectationem calcat, et
+ad ea quae sursum sunt, aeterna bona anhelat. Ideo
+autem aquis concupiscentia hujus mundi comparatur,
+quia fluxa est et lubrica, et ad similitudinem
+aquae deorsum currentis semper ima petit, suosque
+sequaces instabiles, et dissolutos reddit. Si intraverit
+homo ad cor suum, videre poterit quomodo
+semper et concupiscentia deorsum in ea quae transitoria
+sunt, defluat; et fides in ea quae sursum sunt,
+bona perpetua tendat. Sed cum Scriptura dicat concupiscentiam
+<pb n="0673B"/>
+in carne habitare, fidem in corde,
+quomodo nos utramque in corde esse affirmamus,
+nisi quia tunc carne concupiscere dicimur, quando
+corde carnaliter concupiscimus? Utrumque tamen
+cordis est et concupiscere et credere, sed aliud habet
+ex hoc quod terrena diligit, aliud habet ex hoc
+quod coelestia quaerit; ideo concupiscentia deorsum
+est, fides sursum. Concupiscentia ex carne cordi
+innascitur, fides non a carne, sed a Deo cordi inspiratur.
+Proinde Dominus cum fidelem Petri confessionem
+laudaret: <hi>Caro,</hi> inquit, <hi>et sanguis non revelavit
+tibi, sed Pater meus qui est in coelis <note>(Matth. XVI)</note>
+            </hi>.
+De concupiscentia autem Paulus dicit: <hi>Non ego operor
+illud, sed peccatum, quod habitat in me <note>(Rom. VII)</note>
+            </hi>.
+Et quid sit in me eodem loco determinat. <hi>Scio,</hi> 
+<pb n="0673C"/>
+inquit, <hi>quia non habitat in me hoc est in carne mea,
+bonum <note>(ibid.)</note>
+            </hi>. Rursumque peccatum ipsum, quod in
+carne habitare dixerat, quid sit alibi declarat. <hi>Spiritu
+ambulate, et desideria carnis non perficietis <note>(Gal.
+V)</note>
+            </hi>. Utique desideria carnis concupiscentiam appellans.</p>
+<p>Igitur concupiscentia in carne habitat, hoc est deorsum
+in corde, fides vero non in carne, sed in spiritu.
+Illud tamen diligenter considerandum est quod Apostolus
+cum dixit: Spiritu ambulate, et desideria carnis
+non perficietis, et non dixit non sentietis, sed non
+perficietis; manifeste declaravit omni homini quandiu
+in hac vita est, concupiscendi necessitatem ex
+corruptione primae nativitatis inesse, adjuvante tamen
+<pb n="0673D"/>
+gratia Dei, ut eidem concupiscentiae non consentiat,
+nulli impossibile. Propterea alibi dixit: <hi>Non regnet peccatum in vestro mortali corpore 
+ <note>(Rom.
+VI)</note>
+            </hi>. Quasi diceret, non potest fieri, ut in vestro mortali
+corpore peccatum, id est fomes peccati, incentivum
+vitiorum, stimulus concupiscentiae non sit,
+sed adjuvante gratia Dei fieri potest, ut non regnet,
+ut non praesit. Impossibile est ut illud non sentiatis,
+sed non necesse est ut illi consentiatis. Igitur omnis
+homo quoddam intus in corde suo diluvium concupiscentiae
+patitur, a quo nullus nisi per arcam fidei
+liberatur. Ubi malus homo per siccum ambulans
+mergitur, et bonus homo in profundo maris mersus
+non laeditur. Periculosum prorsus naufragium, quod<LACUNA>
+tus est. Vae ei qui ibi periclitatur! Nullus portus
+<pb n="0674A"/>
+illi tutus est, nulla statio secura, nulla serenitas
+tranquilla, qui intrinsecus concupiscentiae suae aestibus
+jactatur, et insatiabili libidinum voragine absorbetur.
+</LACUNA>
+          </p>
+        </div2>
+
+<div2>
+          <head>CAP. VIII. <hi>De tribus speciebus hominum respectu arcae.</hi> </head>
+<p>Hic considerare possumus tres hominum species,
+alios qui intus diluvium habent et non arcam, alios
+qui et diluvium, et arcam intus habent, sed in arca
+non sunt, alios qui in diluvio et arcam habent, et in
+arca manent. In diluvio sine arca sunt infideles,
+quos carnis desideria involvunt, qui praeter hanc vitam
+transitoriam aliam esse nesciunt. In diluvio arcam
+habent, sed in ea non manent ii, qui jam per
+fidem post hujus mutabilitatis finem vitam immortalem
+<pb n="0674B"/>
+esse venturam credere didicerunt, sed posthabita
+hac temporalium rerum delectationi animum
+suum subjiciunt. Dicit enim Scriptura: <hi>Ubi est thesaurus
+tuus, ibi est et cor tuum <note>(Matth. VI)</note>
+            </hi>. Ubi est
+delectatio tua, ibi est et cogitatio tua. Ubi vero est
+cogitatio tua, ibi est interioris hominis habitatio.
+Nam ibi quisque secundum interiorem hominem habitare
+dicitur, ubi cogitatione conversatur. Itaque
+ii, qui delectationem cordis sui in vanitate hujus
+mundi constituunt, quamvis arcam fidei habeant,
+intus tamen naufragi sunt. Ut autem taceam caeteros
+mundi amatores, quot modo litteratos cernimus,
+qui vocari Christiani volunt, et cum caeteris fidelibus
+Ecclesiam intrant, et de sacramentis Christi participant,
+in quorum cordibus saepius est memoria Saturni
+<pb n="0674C"/>
+et Jovis, Herculis et Martis, sive Achillis et
+Hectoris, Pollucis et Castoris, Socratis et Platonis et
+Aristotelis, quam Christi et sanctorum ejus? Nugas
+poetarum diligunt; et veritatem divinarum Scripturarum
+aut negligunt, aut (quod pejus est!) irrident,
+et contemnunt. Videant nunc quid eis prosit foris
+Ecclesiam ingredi, et intus in corde a fide fornicari.
+Ego eis pronuntio, quod illis in fine sociandi sunt,
+quos nunc in cogitationibus suis per affectum cordis
+sibi conjungunt, et quorum hic vitam diligunt, eorum
+illic supplici participes erunt. Quid illis prodest habere
+fidem, et non manere in fide? Quid illis prodest
+navem integram habere, et in fluctibus naufragium,
+non dicam pati, sed sponte facere? Quid
+prodest veritatem cognoscere, et falsitatem diligere?
+<pb n="0674D"/>
+Non sunt tales qui vere fideles sunt. Vis scire quales
+sint? Audi qualis unus illorum fuerit, et tales
+omnes intellige. Dissimiles enim esse non possunt,
+qui veritate unum sunt. Audi ergo quid de illo: <hi>Lex
+Dei ejus in corde ipsius <note>(Psal. XXXVI)</note>
+            </hi>, hoc est arcam
+intus habere, et quia hoc fortassis non sufficit. Audi
+iterum: <hi>In lege Domini voluntas ejus <note>(Psal. I)</note>
+            </hi>; hoc
+est in arca habitare. Hic perfectus est, <hi>qui diligit
+quod credit,</hi> ut habeat fidem operantem ex dilectione, <hi>quae mundum vincit 
+ <note>(Gal. V; I Joan. V)</note>
+            </hi>. Haec est
+arca, in qua nos salvari oportet, quae ab aquis portari
+potest, submergi autem omnino non potest, quia
+hoc mundo utitur quidem ad necessitatem, sed non
+succumbit ei per cupiditatem. Hoc est quod in psalmo
+<pb n="0675A"/>
+dicitur: <hi>Hoc mare magnum, et spatiosum manibus,
+illic reptilia quorum non est numerus. Animalia
+pusilla cum magnis, illic naves pertransibunt <note>(Psal. CIII)</note>
+            </hi>.</p>
+<p>Matre enim in nobis est concupiscentia hujus
+mundi, in qua si quae delectationes inveniri possunt
+multis amaritudinibus aspersae sunt, quae secundum
+affectum carnalem deorsum in corde nostro
+fluunt. Reptilia sunt carnales cogitationes diversorum
+vitiorum feditate deformes. Quas dum inordinate
+ad cor nostrum admittimus quasi quibusdam
+monstruosis reptilibus interiora nostra replemus.
+Navis est illa arca spiritualis, id est fides nostra,
+quae intrinsecus sursum suspensa calcat concupiscentiam
+mundi. Naves autem dixit propter multas
+<pb n="0675B"/>
+animas. Nam et multae animae una anima propter
+unam fidem et dilectionem, et una fides multae fides
+propter multas animas fideles, quomodo dictum est.
+Fides tua te salvam fecit, et fides mea, et fides illius
+cum tamen una sit fides catholica. Sola ergo navis
+fidei mare transit, sola arca diluvium evadit, et nos
+si salvari cupimus non solum ipsa in nobis sit, sed
+nos in ipsa oportet maneamus. Et nemo fidens conscientiae
+suae dicat. Quid mihi cum hac arca? Exsiccatum
+est in me diluvium carnalis concupiscentiae.
+Qui foris est, nescit quid intus agatur; sed si redierit
+homo ad cor suum inveniet, ibi tempestuosum
+salum saevis mundantium passionum et desideriorum
+malorum procellis exagitari, quae toties animum
+deorsum mergunt, quoties eum per consensum sibi
+<pb n="0675C"/>
+subjiciunt. In omni enim homine, quandiu in hac vita
+corruptibili vivit, ubi caro concupiscit adversus spiritum,
+hoc diluvium est; vel potius omnis homo in
+hoc diluvio est, sed boni in eo sunt sicut ii, qui in
+mari portantur a navibus, mali vero in eo sunt sicut
+naufragi, qui volvuntur in fluctibus. In bonis quidem
+aquae hujus diluvii in hac vita minui incipiunt, et
+secundum differentiam gratiarum in singulis plus
+minusve decrescunt, plene tamen nunquam exsiccari
+potest terra humani cordis, quandiu in hac vita
+vivunt. Et ideo columba emissa non invenit hic, ubi
+requiescat pes ejus, sed semper ad arcam revertitur,
+quia mens pura, dum in hoc mundo nihil reperire
+potest, ubi affectionis suae pedem secure figat, diu
+<pb n="0675D"/>
+extra custodiam internae meditationis morari reformidat;
+sed si forte aliquando per cogitationem exiverit,
+cito quasi columba avolans, et elongans ad
+solitudinem conscientiae redit ubique a strepitu exteriori,
+quasi in arca a fluctibus requiescit. Intelligamus
+ergo in nobis esse quod fugimus, in nobis
+esse quo fugere debemus concupiscentiam, et fidem.
+Concupiscentiam quam fugere debemus; fidem,
+quam debemus apprehendere. De concupiscentia
+ascendere, ut illam proficiendo relinquamus; per
+fidem ascendere, ut illam tenendo in melius semper
+proficiamus. Concupiscentia pertinet ad opera conditionis,
+fides pertinet ad opera restaurationis, quia
+et illa inordinate amando per concupiscentiam difluimus,
+et ista pie credendo per fidem solidamur.
+<pb n="0676A"/>
+Et idcirco divina monita toties clamant nobis, et
+suadent mundum fugere, non utique ut extra coelum
+et terram exeamus, sed ut in concupiscentia mundi
+non maneamus. Quid est non maneamus? Quis
+manet in concupiscentia mundi? Qui delectationem
+animi sui in ea ponit, et ad eam explendam jugiter
+intendit. Qui de ea assidue cogitat, et propositum
+animi sui in ea confirmat. Qui eam ex deliberatione
+sequitur, atque in ea per consensum delectatur.
+Ideo ergo mundus in sacra Scriptura maledicitur,
+ideo inimicus Dei appellatur, videlicet non quia substantia
+mundi mala sit, sed quia pulchritudo mundi
+animas seducit. Substantia enim mundi fugienda non
+esset, si concupiscentia mundi mala non esset. Cum
+ergo concupiscentiam mundi fugimus, ideo fugimus
+<pb n="0676B"/>
+quia mala est, cum vero substantiam mundi fugimus,
+ideo fugimus non quia mala sed quia occasio mali
+est. Excogitata enim mundi specie nascitur affectus
+concupiscentiae. Proinde, si concupiscentiam mundi
+declinare volumus, prius necesse est memoriam
+mundi hujus a cogitatione nostra excludamus. <hi>In
+meditatione mea</hi> ait Propheta, <hi>exardescit ignis <note>(Psal.
+XXXVIII)</note>
+            </hi>. Sicut ignem ligna nutriunt, sic cogitationes
+desideria pascunt. Si bonae cogitationes in meditatione
+fuerint, exardescet ignis charitatis. Sin autem malae
+fuerint cogitationes, exardescet ignis cupiditatis.
+Nam sicut oculus pascitur ex specie, sic animus pascitur
+ex cogitatione, et turpi quodam commercio
+impudica mens desiderio suo fruitur, dum quodammodo
+intus per cogitationem rem concupitam amplexatur.
+<pb n="0676C"/>
+Fit etiam nonnunquam, ut quod frequenter
+cogitamus otiose, aliquando concupiscamus illicite,
+reusque facti judicatur, qui per consensum in cogitatione
+delectatur. Sicut ergo infirmi a quibusdam
+cibis abstinent, non quia mali sint ipsi cibi, sed
+quia ipsis ad utendum idonei non sint; sic et nos
+terrenarum rerum speciem a cogitationibus nostris
+arcere debemus, non quia res ipsae malae sint, sed
+ne animus noster, qui ex semetipso infirmatur, ex
+earum rerum recordatione amplius corrumpatur.
+Caeterum quantum ad ipsas res pertinet, quia omnis
+creatura Dei bona est, nulla res est, quae cogitari
+non possit sine peccato. Rursumque si pravos affectus
+attendimus, nulla res est, in qua peccare non
+<pb n="0676D"/>
+possimus cogitando. Nam et de malo bene, et de
+bono male, et de immundo munde, et de mundo immunde
+possumus cogitare. Cogitationes enim non ex
+re de qua surgunt, sed ex affectu quem gignunt, judicandae
+sunt. Legimus sanctos viros non solum cogitasse,
+sed et locutos esse et scripsisse de rebus
+immundis quod utique non fecissent, si cogitationes
+rerum immundarum animam inquinarent. Nihil interest,
+quale sit illud quod cogitatur, sed qualis ex
+ipsa cogitatione affectus consequatur, quia cogitatio
+mentem non polluit, ubi delectatio conscientiam non
+corrumpit. Expedit tamen nobis sicut diximus, ut
+obliviscamur mundum istum, et deleamus memoriam
+ejus de corde nostro, ne forte dum frequente<LACUNA>
+de eo cogitamus, ad ejus concupiscentiam inflectamur.
+<pb n="0677A"/>
+Satis, ut reor, aperte jam demonstratum est,
+unde haec infinita, quam patimur, cogitationum nostrarum
+distractio oriatur, a mundo videlicet et concupiscentia
+ejus, hoc est ab operibus conditionis.
+Rursumque quid sit illud, per quod colligi possunt in
+unum cogitationes nostrae, hoc est per opera restaurationis.
+Et quia, sicut supradictum est, ordo esse
+non potest, ubi finis non est, superest ut relictis
+operibus conditionis quaeramus ordinem cogitationum
+nostrarum ibi, ubi finitae sunt, hoc est in operibus
+restaurationis; hoc est, quod superius investigare
+proposuimus, quisnam videlicet cogitationum
+nostrarum ordo esse deberet, quatenus ex eis spiritualis
+domus sapientiae in nobis aedificari possit. Et
+quia ex rebus cogitationes veniunt, oportet ut ex
+<pb n="0677B"/>
+ordine rerum sumatur ordo cogitationum. Deinceps
+ergo tractare incipiemus de operibus restaurationis
+relictis operibus conditionis, de quibus quasi de
+quodam subterfluente diluvio egressi sumus, et nunc
+in opera restaurationis quasi in arcam ingredimur.
+</LACUNA>
+          </p>
+        </div2>
+
+<div2>
+          <head>CAP. IX. <hi>Quae sunt opera restaurationis humanae.</hi> </head>
+<p>Igitur opera restaurationis sunt omnia quae ab initio
+mundi usque ad finem saeculi facta sunt, vel facienda
+pro restauratione hominum, in quibus et res
+gestas, et personas ipsas, per quas, et propter quas,
+et apud quas gestae sunt, loca simul, et tempora, ubi
+et quando gestae sunt, considerare oportet. In operibus
+restaurationis tribus modis ordo consideratur, secundum
+locum, secundum tempus, secundum dignitatem.
+<pb n="0677C"/>
+Secundum locum, ut quid prope, quid longe gestum
+sit. Secundum teinpus, quid prius, quid posterius
+gestum sit. Secundum dignitatem, quid humilius,
+quid excellentius sit. Hoc postremum in multas partes
+dividitur, quid sanctum, quid sanctius, quid utile,
+quid utilius, quid honestum, quid honestius, quid
+pulchrum, quid pulchrius, quid mirabile, quid mirabilius,
+quid rarum, quid rarius, quid difficile,
+quid difficilius, quid credibile, quid credibilius,
+quid magnum, quid majus, quid obscurum, quid
+obscurius, et si qua sunt talia. Et hic ordo cuidem,
+qui est secundum dignitatem, videtur ad altitudinem
+arcae pertinere, ut si dixerimus ea, quae
+sancta sunt in prima mansione computari, quae sunt
+<pb n="0677D"/>
+sanctiora in secunda, quae vero sanctissima sunt in
+tertia, et sic de caeteris quae enumeravimus.</p>
+<p>Ordo autem loci, et ordo temporis fere per omnia
+secundum rerum gestarum seriem concurrere videntur,
+et ita per divinam providentiam videtur esse
+dispositum, ut quae in principio temporum gerebantur
+in Oriente, quasi in principio mundi gererentur,
+ac deinde ad finem profluente tempore usque ad
+Occidentem rerum summa descenderet, ut ex ipso
+agnoscamus appropinquare finem saeculi, quia rerum
+cursus jam attigit finem mundi. Imo primus homo
+in Oriente, in hortis Eden jam conditus collocatur,
+ut ab illo principio propago posteritatis in orbem
+proflueret. Item post diluvium principium regnorum
+et caput mundi in Assyriis, et Chaldaeis, et Medis
+<pb n="0678A"/>
+in partibus Orientis fuit. Deinde ad Graecos venit,
+postremo circa finem saeculi ad Romanos in Occidente,
+quasi in fine mundi habitantes, potestas
+summa descendit. Atque ita serie rerum ab Oriente
+in Occidentem recta linea decurrente, ea, quae a
+dextris vel a sinistris, hoc est ad aquilonem vel ad
+austrum gesta sunt, ita suis significationibus respondent,
+ut si quis diligentius consideraverit, per
+divinam Providentiam ita disposita esse ambigere
+non possit. Verbi gratia ut de multis pauca dicamus.
+Aegyptus ab Hierusalem ad austrum est, Babylon
+vero ad aquilonem. Aegyptus interpretatur <hi>tenebrae,</hi> 
+et auster ventus est calidus. Designat ergo Aegyptus
+mundum istum in tenebris ignorantiae, et calore carnalis
+concupiscentiae positum. Babylon autem interpretatur
+<pb n="0678B"/> <hi>confusio,</hi> 
+ et significat infernum, ubi nullus
+ordo est, sed sempiternus horror inhabitans. Legimus
+autem, quod ille antiquus Hebraeorum populus
+prius in Aegypto in luto et latere servivit, ac deinde
+multis annis intercurrentibus captivus in Babylonem
+abductus est. Quod factum quid aliud nobis innuit,
+quam totius humani generis casum? quod propter
+peccatum originale a coelesti patria exsulando, prius
+in hac vita mortali, per ignorantiam et concupiscentiam
+subditur vitiis, ac deinde post hanc vitam
+apud inferos captivatur in tormentis, hoc est in Babylone,
+ad aquilonem scilicet, ubi ille primus apostata
+angelus sedem posuit.</p>
+<p>Igitur ordo dignitatis ad altitudinem arcae pertinet,
+ordo temporis ad longitudinem arcae, ordo loci
+<pb n="0678C"/>
+ad altitudinem simul et longitudinem. Ad longitudinem
+arcae pertinet: <hi>Simile est regnum coelorum homini
+patrifamilias, qui exiit primo mane conducere operarios
+in vineam suam, similiter et circa horam tertiam,
+et sextam, et nonam, et undecimam</hi> egressus, <hi>et</hi> videns <hi>alios stantes</hi> 
+ misit eos <hi>in vineam suam <note>(Matth.
+XX)</note>
+            </hi>. Ad latitudinem arcae pertinet: <hi>In omnem terram
+exivit sonus eorum, et in fines orbis terrae verbo
+eorum <note>(Psal. XVIII)</note>
+            </hi>. Ad altitudinem arcae pertinet. <hi>Illuc enim ascenderunt tribus, tribus Domini, testimonium
+Israel ad confitendum nomini Domini 
+ <note>(Psal.
+CXXI)</note>
+            </hi>. Et ne per singula eundo moras innectam, breviter
+tibi dicam quod dicendum est. In his tribus dimensionibus
+omnis divina Scriptura continetur. Historia
+<pb n="0678D"/>
+enim longitudinem arcae metitur, quia in serie
+rerum gestarum ordo temporis invenitur. Allegoria
+latitudinem arcae metitur, quia in participatione
+sacramentorum constat collectio populorum fidelium.
+Tropologia altitudinem arcae metitur, quia in profectu
+virtutum crescit dignitas meritorum. Possumus
+adhuc, si volumus, aliter altitudinem arcae distinguere,
+ut doctrina multiplex fiat manente eadem
+veritate. Nam ad hoc admonitum lectorem esse volumus,
+saepe nos eamdem rem in hoc tractatu diversis
+modis protulisse, propter affluentem doctrinae
+exercitationem, ut omnem scientiae viam prudens
+animus experiatur, hoc tantum observato, ut nihil
+quod veritati contrarium sit, aut sentiatur aut dicatur.
+Sicut ergo arca in tres mansiones distinguitur,
+<pb n="0679A"/>
+ita etiam opera restaurationis in tres ordines distinguuntur.
+In primo ordine quasi in prima mansione
+est umbra. In secundo ordine quasi in secunda
+mansione est corpus. In tertio ordine quasi in tertia
+mansione est spiritus, vel, si mavis hoc modo dicere.
+Figura, res, veritas, ut idem intelligas esse umbram
+et figuram, idem corpus et rem, idem spiritum et
+veritatem. Unde umbra dicuntur illa, quae ante adventum
+Christi sub lege naturali, et sub scripta lege
+corporaliter et visibiliter gesta sunt ad praefiguranda
+ea, quae nunc post adventum Christi in tempore
+gratiae corporaliter et visibiliter geruntur, quae ideo
+umbra dicuntur, quia corporalia erant et figura corporalium.
+Corpus vocantur ipsa nostra sacramenta,
+quae nunc in ista Ecclesia visibiliter geruntur. Spiritus
+<pb n="0679B"/>
+autem est id quod gratia Dei sub visibilibus sacramentis
+invisibiliter operatur, verbi gratia (ut
+unum exemplum ponamus): Mare Rubrum praefiguravit
+baptisma, quod nunc in sancta Ecclesia consecratur.
+Ipsum autem baptisma visibile significat
+emundationem criminum, quam Spiritus sanctus
+sub sacramento, quo corpora unguntur, invisibiliter
+in animabus operatur. Mare Rubrum igitur umbra
+et figura est; baptisma autem aquae visibilis, quod
+nunc habemus, corpus et res; emundatio vero peccatorum
+spiritus et veritas. Est adhuc, et alius modus,
+de quo superius locuti sumus, per quem altitudinem
+arcae distinguere possumus. Opera enim restaurationis
+partim per homines, partim per angelos,
+partim per semetipsum operatus est Deus. In prima
+<pb n="0679C"/>
+ergo mansione collocamus opera hominum. In secunda
+mansione opera angelorum. In tertia mansione
+opera Dei. Vel moraliter, prima mansio est fides,
+secunda mansio est spes, tertia mansio est charitas.
+Vel secundum anagogem, prima mansio est
+cogitatio recta, secunda mansio est meditatio provida,
+tertia mansio est contemplatio clara. Vel secundum
+operationem, prima mansio est scientia,
+secunda mansio est disciplina, tertia mansio est boninitas.
+Vel secundum status differentes, prima mansio
+est natura, secunda mansio est lex scripta, tertia
+mansio est gratia. Haec enim tria si secundum tempus
+considerantur, longitudinem arcae metiuntur, si
+secundum dignitatem discernuntur, altitudinem arcae
+<pb n="0679D"/>
+distinguunt, quia sicut tempore se subsequuntur, ita
+dignitate se praecedunt.</p>
+<p>Quae est ergo haec arca, de qua tam multa dicuntur,
+et in qua tam multiplices viae scientiarum continentur?
+Nunquid putas est labyrinthus? Non labyrinthus,
+nec labor intus, sed requies intus; unde
+hoc scio? Quia ille in ea habitat, qui dicebat: <hi>Venite
+ad me omnes qui laboratis, et onerati estis, et ego reficiam
+<pb n="0680A"/>
+vos, et invenietis requiem animabus vestris <note>(Matth. I)</note>
+            </hi>.
+Si enim labor est ubi ipse est, quomodo
+requiem inveniunt qui ad eum veniunt? Nunc vero <hi>in pace factus est locus ejus, et in Sion habitatio ejus.
+Ibi confregit potentias arcuum, scutum, gladium et
+bellum 
+ <note>(Psal. LXXV)</note>
+            </hi>; unde omnis strepitus, et tumultuatio
+longe abest, et ubi gaudium, et pax, et requies
+semper praesens est. Qualis ergo est haec arca?
+vis scire qualis? Sustine me ut de multis pauca tibi
+dicam. Haec arca similis est apothecae omnium deliciarum
+varietate refertae. Nihil in ea quaesieris
+quod non invenias, et cum inveneris unum, multa
+tibi patefacta videbis. Ibi universa opera restaurationis
+nostrae a principio mundi usque ad finem plenissime
+continentur, et status universalis Ecclesiae
+<pb n="0680B"/>
+figuratur. Ibi historia rerum gestarum texitur, ibi
+mysteria sacramentorum inveniuntur, ibi dispositi
+sunt gradus affectuum, cogitationum, meditationum,
+contemplationum, bonorum operum, virtutum et
+et praemiorum. Ibi quid credere, quid agere, quid
+sperare debeamus ostenditur. Ibi forma vitae hominis,
+et summa perfectionis continetur. Ibi elucent occulta,
+ibi operosa apparent facilia, et quae per se videri
+poterant minus congrua, in ordine suo considerata
+probantur idonea. Ibi quoddam universitatis corpus
+effingitur, et concordia singulorum explicatur. Ibi
+alter quidam mundus huic praetereunti et transitorio
+contrarius invenitur, quia ea quae in hoc mundo
+per diversa tempora transeunt, in illo mundo quasi
+<pb n="0680C"/>
+in quodam aeternitatis statu simul consistunt. Ibi
+praeteritis praesentia non succedunt, nec praesentibus
+futura superveniunt, sed quidquid ibi est, praesen<LACUNA>
+est, propter quod et ibi manent, et semper permanent,
+et semper gaudent, nihil dolentes praeteritum,
+nihil timentes futurum, habentes quod diligunt, videntes
+quod concupiscunt, et ideo fortassis, dixit
+Apostolus: <hi>Praeterit figura hujus mundi <note>(I Cor. VII)</note>
+              </hi>,
+forma hujus mundi, species hujus mundi, pulchritudo
+hujus mundi, qui est alter mundus, cujus figura
+non praeterit, cujus forma non transit, cujus species
+non marcescit, cujus pulchritudo non deficit.
+Ille mundus in isto mundo est, et iste mundus illo
+mundo minor est, quia ille capit quem capere iste
+non potest. Istum mundum vident oculi carnis, illum
+<pb n="0680D"/>
+mundum intrinsecus contemplantur oculi cordis.
+In isto mundo habent oblectamenta sua homines, in
+illo mundo ineffabiles sunt delectationes. In hoc
+mundo currunt homines, et plaudunt ad spectacula
+vanitatis, in illo mundo per aeternum silentium exercentur,
+et jucundantur mundi corde in contemplatione
+veritatis. Quam, etc.
+
+</LACUNA>
+          </p>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
