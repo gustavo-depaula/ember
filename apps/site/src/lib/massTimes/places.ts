@@ -1,13 +1,16 @@
+import { municipalityAt } from './municipalities'
+
 // Where a church is, as the pages that list churches by place need it. The directory's
 // region and city fields come from many importers and read "SP", "São Paulo", "Sao Paulo",
 // "SP, 19200-000", "Recife, PE", "State of Paraná" or nothing at all for the same state, so a
 // page per raw value would scatter one state over many. Countries whose states have a fixed
-// list resolve to it; elsewhere the cleaned text is kept as it is.
+// list resolve to it; elsewhere the cleaned text is kept as it is. In Brazil, where the city field
+// is the worst of all, the coordinates decide both (municipalities.ts).
 
 export type Located = {
   /** The state's display name and slug. */
   region?: { name: string; slug: string }
-  /** The city as written, freed of a trailing state code. */
+  /** The city: in Brazil the municipality the church stands in, elsewhere as written. */
   city?: string
 }
 
@@ -175,6 +178,12 @@ const stateLists: Record<string, StateList> = {
   US: { names: usStates, aliases: {} },
 }
 
+/** A state's postal abbreviation ("MG"), where the country has a fixed list of them. */
+export function stateAbbreviation(countryCode: string, regionSlug: string): string | undefined {
+  const names = stateLists[countryCode.toUpperCase()]?.names ?? {}
+  return Object.entries(names).find(([, name]) => slug(name) === regionSlug)?.[0]
+}
+
 const key = (text: string) =>
   slug(text)
     .replace(/^(state-of|estado-de|estado-do|estado-da)-/, '')
@@ -236,12 +245,23 @@ export function locate(church: RawPlace): Located {
 
 type Placed = RawPlace & { lat: number; lng: number }
 
+const brStateWords = [...Object.keys(brStates), ...Object.values(brStates)]
+
+/** A Brazilian church's state and city from the municipality its coordinates fall in. */
+function locateBrazil(church: Placed): Located | undefined {
+  if ((church.countryCode ?? '').toUpperCase() !== 'BR') return undefined
+  const found = municipalityAt(church.lat, church.lng, church.city, brStateWords)
+  if (!found) return undefined
+  const name = brStates[found.uf]
+  return { region: { name, slug: slug(name) }, city: found.name }
+}
+
 /**
  * Every church's state and city, the states its fields leave unknown taken from the nearest church
  * of the same country whose state is known: a church a street from others is in their state.
  */
 export function locateAll<T extends Placed>(churches: T[]): Map<T, Located> {
-  const out = new Map(churches.map((church) => [church, locate(church)]))
+  const out = new Map(churches.map((church) => [church, locateBrazil(church) ?? locate(church)]))
   const known = churches.filter((church) => out.get(church)?.region)
   for (const church of churches) {
     const located = out.get(church) as Located

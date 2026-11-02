@@ -9,6 +9,7 @@ import {
   type DirectoryChurch,
   directory,
 } from '~/lib/massTimes/data'
+import { stateAbbreviation } from '~/lib/massTimes/places'
 import { href } from '~/routes'
 
 interface Props {
@@ -30,7 +31,12 @@ if (citySlug && !city) throw new Error(`No city ${code}/${regionSlug}/${citySlug
 
 const countryLabel = countryName(code, locale)
 const section = pt ? 'Horários de Missa' : 'Mass times'
-const placeName = city ? `${city.name}, ${region?.name}` : (region?.name ?? countryLabel)
+// A city is searched by its own name; the state's abbreviation tells apart the towns that share it.
+const placeName = (() => {
+  if (!city || !region) return region?.name ?? countryLabel
+  const abbreviation = stateAbbreviation(code, region.slug)
+  return abbreviation ? `${city.name} (${abbreviation})` : `${city.name}, ${region.name}`
+})()
 const churches = city?.churches ?? region?.churches ?? country.churches
 const count = churches.length
 const counted = new Intl.NumberFormat(locale).format(count)
