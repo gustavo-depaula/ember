@@ -1,0 +1,785 @@
+{
+  "id": "dante-commedia",
+  "cover": "classic",
+  "name": {
+    "it": "La Divina Commedia",
+    "en-US": "The Divine Comedy",
+    "pt-BR": "A Divina Comédia"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "it": "Il poema sacro di Dante Alighieri (1265-1321): il viaggio del poeta, guidato da Virgilio e da Beatrice, attraverso l’Inferno, il Purgatorio e il Paradiso, in cento canti e circa quattordicimila versi in terzine incatenate. Testo della vulgata nella costituzione critica di Giorgio Petrocchi (1966-67), nella trascrizione del Progetto Gutenberg; ogni verso è una riga, con le terzine separate da una riga vuota.",
+    "en-US": "The sacred poem of Dante Alighieri (1265-1321): the poet's journey, guided by Virgil and Beatrice, through Hell, Purgatory and Paradise, in one hundred cantos and some fourteen thousand lines of interlocking tercets. The Italian is the vulgate text in Giorgio Petrocchi's critical constitution (1966-67), as transcribed by Project Gutenberg; the English is Henry Wadsworth Longfellow's blank-verse translation (1867), which follows the Italian canto for canto and line for line. One verse to a line, tercets set apart.",
+    "pt-BR": "O poema sagrado de Dante Alighieri (1265-1321): a viagem do poeta, guiado por Virgílio e Beatriz, pelo Inferno, pelo Purgatório e pelo Paraíso, em cem cantos e cerca de catorze mil versos em tercetos encadeados."
+  },
+  "composed": "1308-1320",
+  "languages": [
+    "it",
+    "en-US"
+  ],
+  "work": "dante/commedia",
+  "editions": {
+    "it": {
+      "editor": "Giorgio Petrocchi (La Commedia secondo l’antica vulgata, Milano: Mondadori)",
+      "year": 1967
+    },
+    "en-US": {
+      "translator": "Henry Wadsworth Longfellow",
+      "year": 1867
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.gutenberg.org/ebooks/1012",
+      "edition": "La Divina Commedia di Dante, Project Gutenberg #1012 (UTF-8), the vulgate text established by Giorgio Petrocchi (Mondadori, 1966-67), as also published on it.wikisource.",
+      "description": "All 100 cantos (Inferno 34, Purgatorio 33, Paradiso 33; 14,233 lines). The Gutenberg header, transcription legend and footer are dropped; each verse is one line (markdown hard break) and tercets are separated by a blank line. No commentary or notes. Line counts per cantica (4,720 / 4,755 / 4,758 verses plus the canto heading) match the poem.",
+      "tier": "B",
+      "tierEvidence": "Dante's words are public domain (d. 1321). The Petrocchi critical constitution (1966-67) is past the 20-year protection Italian law (L. 633/1941 art. 85-quater) gives critical editions; Gutenberg, Wikisource and Liber Liber all redistribute it freely. Free in practice. The 1921 Società Dantesca (Vandelli) text on archive.org is a tier-A alternative."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1004",
+      "edition": "The Divine Comedy of Dante Alighieri, translated by Henry Wadsworth Longfellow (Boston: Ticknor and Fields, 1867), Project Gutenberg #1004 (complete).",
+      "description": "All 100 cantos in blank verse, line for line with the Italian (Longfellow's own notes, argument summaries, sonnets and introductory matter are not imported). Longfellow's translation of Arnaut Daniel's Provençal at Purgatorio XXVI is kept as a footnote.",
+      "tier": "A",
+      "tierEvidence": "Published 1867; Longfellow died 1882: public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "inferno",
+      "title": {
+        "it": "Inferno",
+        "en-US": "Inferno",
+        "pt-BR": "Inferno"
+      },
+      "children": [
+        {
+          "id": "inferno-01",
+          "title": {
+            "it": "Inferno, Canto I",
+            "en-US": "Inferno, Canto I"
+          }
+        },
+        {
+          "id": "inferno-02",
+          "title": {
+            "it": "Inferno, Canto II",
+            "en-US": "Inferno, Canto II"
+          }
+        },
+        {
+          "id": "inferno-03",
+          "title": {
+            "it": "Inferno, Canto III",
+            "en-US": "Inferno, Canto III"
+          }
+        },
+        {
+          "id": "inferno-04",
+          "title": {
+            "it": "Inferno, Canto IV",
+            "en-US": "Inferno, Canto IV"
+          }
+        },
+        {
+          "id": "inferno-05",
+          "title": {
+            "it": "Inferno, Canto V",
+            "en-US": "Inferno, Canto V"
+          }
+        },
+        {
+          "id": "inferno-06",
+          "title": {
+            "it": "Inferno, Canto VI",
+            "en-US": "Inferno, Canto VI"
+          }
+        },
+        {
+          "id": "inferno-07",
+          "title": {
+            "it": "Inferno, Canto VII",
+            "en-US": "Inferno, Canto VII"
+          }
+        },
+        {
+          "id": "inferno-08",
+          "title": {
+            "it": "Inferno, Canto VIII",
+            "en-US": "Inferno, Canto VIII"
+          }
+        },
+        {
+          "id": "inferno-09",
+          "title": {
+            "it": "Inferno, Canto IX",
+            "en-US": "Inferno, Canto IX"
+          }
+        },
+        {
+          "id": "inferno-10",
+          "title": {
+            "it": "Inferno, Canto X",
+            "en-US": "Inferno, Canto X"
+          }
+        },
+        {
+          "id": "inferno-11",
+          "title": {
+            "it": "Inferno, Canto XI",
+            "en-US": "Inferno, Canto XI"
+          }
+        },
+        {
+          "id": "inferno-12",
+          "title": {
+            "it": "Inferno, Canto XII",
+            "en-US": "Inferno, Canto XII"
+          }
+        },
+        {
+          "id": "inferno-13",
+          "title": {
+            "it": "Inferno, Canto XIII",
+            "en-US": "Inferno, Canto XIII"
+          }
+        },
+        {
+          "id": "inferno-14",
+          "title": {
+            "it": "Inferno, Canto XIV",
+            "en-US": "Inferno, Canto XIV"
+          }
+        },
+        {
+          "id": "inferno-15",
+          "title": {
+            "it": "Inferno, Canto XV",
+            "en-US": "Inferno, Canto XV"
+          }
+        },
+        {
+          "id": "inferno-16",
+          "title": {
+            "it": "Inferno, Canto XVI",
+            "en-US": "Inferno, Canto XVI"
+          }
+        },
+        {
+          "id": "inferno-17",
+          "title": {
+            "it": "Inferno, Canto XVII",
+            "en-US": "Inferno, Canto XVII"
+          }
+        },
+        {
+          "id": "inferno-18",
+          "title": {
+            "it": "Inferno, Canto XVIII",
+            "en-US": "Inferno, Canto XVIII"
+          }
+        },
+        {
+          "id": "inferno-19",
+          "title": {
+            "it": "Inferno, Canto XIX",
+            "en-US": "Inferno, Canto XIX"
+          }
+        },
+        {
+          "id": "inferno-20",
+          "title": {
+            "it": "Inferno, Canto XX",
+            "en-US": "Inferno, Canto XX"
+          }
+        },
+        {
+          "id": "inferno-21",
+          "title": {
+            "it": "Inferno, Canto XXI",
+            "en-US": "Inferno, Canto XXI"
+          }
+        },
+        {
+          "id": "inferno-22",
+          "title": {
+            "it": "Inferno, Canto XXII",
+            "en-US": "Inferno, Canto XXII"
+          }
+        },
+        {
+          "id": "inferno-23",
+          "title": {
+            "it": "Inferno, Canto XXIII",
+            "en-US": "Inferno, Canto XXIII"
+          }
+        },
+        {
+          "id": "inferno-24",
+          "title": {
+            "it": "Inferno, Canto XXIV",
+            "en-US": "Inferno, Canto XXIV"
+          }
+        },
+        {
+          "id": "inferno-25",
+          "title": {
+            "it": "Inferno, Canto XXV",
+            "en-US": "Inferno, Canto XXV"
+          }
+        },
+        {
+          "id": "inferno-26",
+          "title": {
+            "it": "Inferno, Canto XXVI",
+            "en-US": "Inferno, Canto XXVI"
+          }
+        },
+        {
+          "id": "inferno-27",
+          "title": {
+            "it": "Inferno, Canto XXVII",
+            "en-US": "Inferno, Canto XXVII"
+          }
+        },
+        {
+          "id": "inferno-28",
+          "title": {
+            "it": "Inferno, Canto XXVIII",
+            "en-US": "Inferno, Canto XXVIII"
+          }
+        },
+        {
+          "id": "inferno-29",
+          "title": {
+            "it": "Inferno, Canto XXIX",
+            "en-US": "Inferno, Canto XXIX"
+          }
+        },
+        {
+          "id": "inferno-30",
+          "title": {
+            "it": "Inferno, Canto XXX",
+            "en-US": "Inferno, Canto XXX"
+          }
+        },
+        {
+          "id": "inferno-31",
+          "title": {
+            "it": "Inferno, Canto XXXI",
+            "en-US": "Inferno, Canto XXXI"
+          }
+        },
+        {
+          "id": "inferno-32",
+          "title": {
+            "it": "Inferno, Canto XXXII",
+            "en-US": "Inferno, Canto XXXII"
+          }
+        },
+        {
+          "id": "inferno-33",
+          "title": {
+            "it": "Inferno, Canto XXXIII",
+            "en-US": "Inferno, Canto XXXIII"
+          }
+        },
+        {
+          "id": "inferno-34",
+          "title": {
+            "it": "Inferno, Canto XXXIV",
+            "en-US": "Inferno, Canto XXXIV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "purgatorio",
+      "title": {
+        "it": "Purgatorio",
+        "en-US": "Purgatorio",
+        "pt-BR": "Purgatório"
+      },
+      "children": [
+        {
+          "id": "purgatorio-01",
+          "title": {
+            "it": "Purgatorio, Canto I",
+            "en-US": "Purgatorio, Canto I"
+          }
+        },
+        {
+          "id": "purgatorio-02",
+          "title": {
+            "it": "Purgatorio, Canto II",
+            "en-US": "Purgatorio, Canto II"
+          }
+        },
+        {
+          "id": "purgatorio-03",
+          "title": {
+            "it": "Purgatorio, Canto III",
+            "en-US": "Purgatorio, Canto III"
+          }
+        },
+        {
+          "id": "purgatorio-04",
+          "title": {
+            "it": "Purgatorio, Canto IV",
+            "en-US": "Purgatorio, Canto IV"
+          }
+        },
+        {
+          "id": "purgatorio-05",
+          "title": {
+            "it": "Purgatorio, Canto V",
+            "en-US": "Purgatorio, Canto V"
+          }
+        },
+        {
+          "id": "purgatorio-06",
+          "title": {
+            "it": "Purgatorio, Canto VI",
+            "en-US": "Purgatorio, Canto VI"
+          }
+        },
+        {
+          "id": "purgatorio-07",
+          "title": {
+            "it": "Purgatorio, Canto VII",
+            "en-US": "Purgatorio, Canto VII"
+          }
+        },
+        {
+          "id": "purgatorio-08",
+          "title": {
+            "it": "Purgatorio, Canto VIII",
+            "en-US": "Purgatorio, Canto VIII"
+          }
+        },
+        {
+          "id": "purgatorio-09",
+          "title": {
+            "it": "Purgatorio, Canto IX",
+            "en-US": "Purgatorio, Canto IX"
+          }
+        },
+        {
+          "id": "purgatorio-10",
+          "title": {
+            "it": "Purgatorio, Canto X",
+            "en-US": "Purgatorio, Canto X"
+          }
+        },
+        {
+          "id": "purgatorio-11",
+          "title": {
+            "it": "Purgatorio, Canto XI",
+            "en-US": "Purgatorio, Canto XI"
+          }
+        },
+        {
+          "id": "purgatorio-12",
+          "title": {
+            "it": "Purgatorio, Canto XII",
+            "en-US": "Purgatorio, Canto XII"
+          }
+        },
+        {
+          "id": "purgatorio-13",
+          "title": {
+            "it": "Purgatorio, Canto XIII",
+            "en-US": "Purgatorio, Canto XIII"
+          }
+        },
+        {
+          "id": "purgatorio-14",
+          "title": {
+            "it": "Purgatorio, Canto XIV",
+            "en-US": "Purgatorio, Canto XIV"
+          }
+        },
+        {
+          "id": "purgatorio-15",
+          "title": {
+            "it": "Purgatorio, Canto XV",
+            "en-US": "Purgatorio, Canto XV"
+          }
+        },
+        {
+          "id": "purgatorio-16",
+          "title": {
+            "it": "Purgatorio, Canto XVI",
+            "en-US": "Purgatorio, Canto XVI"
+          }
+        },
+        {
+          "id": "purgatorio-17",
+          "title": {
+            "it": "Purgatorio, Canto XVII",
+            "en-US": "Purgatorio, Canto XVII"
+          }
+        },
+        {
+          "id": "purgatorio-18",
+          "title": {
+            "it": "Purgatorio, Canto XVIII",
+            "en-US": "Purgatorio, Canto XVIII"
+          }
+        },
+        {
+          "id": "purgatorio-19",
+          "title": {
+            "it": "Purgatorio, Canto XIX",
+            "en-US": "Purgatorio, Canto XIX"
+          }
+        },
+        {
+          "id": "purgatorio-20",
+          "title": {
+            "it": "Purgatorio, Canto XX",
+            "en-US": "Purgatorio, Canto XX"
+          }
+        },
+        {
+          "id": "purgatorio-21",
+          "title": {
+            "it": "Purgatorio, Canto XXI",
+            "en-US": "Purgatorio, Canto XXI"
+          }
+        },
+        {
+          "id": "purgatorio-22",
+          "title": {
+            "it": "Purgatorio, Canto XXII",
+            "en-US": "Purgatorio, Canto XXII"
+          }
+        },
+        {
+          "id": "purgatorio-23",
+          "title": {
+            "it": "Purgatorio, Canto XXIII",
+            "en-US": "Purgatorio, Canto XXIII"
+          }
+        },
+        {
+          "id": "purgatorio-24",
+          "title": {
+            "it": "Purgatorio, Canto XXIV",
+            "en-US": "Purgatorio, Canto XXIV"
+          }
+        },
+        {
+          "id": "purgatorio-25",
+          "title": {
+            "it": "Purgatorio, Canto XXV",
+            "en-US": "Purgatorio, Canto XXV"
+          }
+        },
+        {
+          "id": "purgatorio-26",
+          "title": {
+            "it": "Purgatorio, Canto XXVI",
+            "en-US": "Purgatorio, Canto XXVI"
+          }
+        },
+        {
+          "id": "purgatorio-27",
+          "title": {
+            "it": "Purgatorio, Canto XXVII",
+            "en-US": "Purgatorio, Canto XXVII"
+          }
+        },
+        {
+          "id": "purgatorio-28",
+          "title": {
+            "it": "Purgatorio, Canto XXVIII",
+            "en-US": "Purgatorio, Canto XXVIII"
+          }
+        },
+        {
+          "id": "purgatorio-29",
+          "title": {
+            "it": "Purgatorio, Canto XXIX",
+            "en-US": "Purgatorio, Canto XXIX"
+          }
+        },
+        {
+          "id": "purgatorio-30",
+          "title": {
+            "it": "Purgatorio, Canto XXX",
+            "en-US": "Purgatorio, Canto XXX"
+          }
+        },
+        {
+          "id": "purgatorio-31",
+          "title": {
+            "it": "Purgatorio, Canto XXXI",
+            "en-US": "Purgatorio, Canto XXXI"
+          }
+        },
+        {
+          "id": "purgatorio-32",
+          "title": {
+            "it": "Purgatorio, Canto XXXII",
+            "en-US": "Purgatorio, Canto XXXII"
+          }
+        },
+        {
+          "id": "purgatorio-33",
+          "title": {
+            "it": "Purgatorio, Canto XXXIII",
+            "en-US": "Purgatorio, Canto XXXIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "paradiso",
+      "title": {
+        "it": "Paradiso",
+        "en-US": "Paradiso",
+        "pt-BR": "Paraíso"
+      },
+      "children": [
+        {
+          "id": "paradiso-01",
+          "title": {
+            "it": "Paradiso, Canto I",
+            "en-US": "Paradiso, Canto I"
+          }
+        },
+        {
+          "id": "paradiso-02",
+          "title": {
+            "it": "Paradiso, Canto II",
+            "en-US": "Paradiso, Canto II"
+          }
+        },
+        {
+          "id": "paradiso-03",
+          "title": {
+            "it": "Paradiso, Canto III",
+            "en-US": "Paradiso, Canto III"
+          }
+        },
+        {
+          "id": "paradiso-04",
+          "title": {
+            "it": "Paradiso, Canto IV",
+            "en-US": "Paradiso, Canto IV"
+          }
+        },
+        {
+          "id": "paradiso-05",
+          "title": {
+            "it": "Paradiso, Canto V",
+            "en-US": "Paradiso, Canto V"
+          }
+        },
+        {
+          "id": "paradiso-06",
+          "title": {
+            "it": "Paradiso, Canto VI",
+            "en-US": "Paradiso, Canto VI"
+          }
+        },
+        {
+          "id": "paradiso-07",
+          "title": {
+            "it": "Paradiso, Canto VII",
+            "en-US": "Paradiso, Canto VII"
+          }
+        },
+        {
+          "id": "paradiso-08",
+          "title": {
+            "it": "Paradiso, Canto VIII",
+            "en-US": "Paradiso, Canto VIII"
+          }
+        },
+        {
+          "id": "paradiso-09",
+          "title": {
+            "it": "Paradiso, Canto IX",
+            "en-US": "Paradiso, Canto IX"
+          }
+        },
+        {
+          "id": "paradiso-10",
+          "title": {
+            "it": "Paradiso, Canto X",
+            "en-US": "Paradiso, Canto X"
+          }
+        },
+        {
+          "id": "paradiso-11",
+          "title": {
+            "it": "Paradiso, Canto XI",
+            "en-US": "Paradiso, Canto XI"
+          }
+        },
+        {
+          "id": "paradiso-12",
+          "title": {
+            "it": "Paradiso, Canto XII",
+            "en-US": "Paradiso, Canto XII"
+          }
+        },
+        {
+          "id": "paradiso-13",
+          "title": {
+            "it": "Paradiso, Canto XIII",
+            "en-US": "Paradiso, Canto XIII"
+          }
+        },
+        {
+          "id": "paradiso-14",
+          "title": {
+            "it": "Paradiso, Canto XIV",
+            "en-US": "Paradiso, Canto XIV"
+          }
+        },
+        {
+          "id": "paradiso-15",
+          "title": {
+            "it": "Paradiso, Canto XV",
+            "en-US": "Paradiso, Canto XV"
+          }
+        },
+        {
+          "id": "paradiso-16",
+          "title": {
+            "it": "Paradiso, Canto XVI",
+            "en-US": "Paradiso, Canto XVI"
+          }
+        },
+        {
+          "id": "paradiso-17",
+          "title": {
+            "it": "Paradiso, Canto XVII",
+            "en-US": "Paradiso, Canto XVII"
+          }
+        },
+        {
+          "id": "paradiso-18",
+          "title": {
+            "it": "Paradiso, Canto XVIII",
+            "en-US": "Paradiso, Canto XVIII"
+          }
+        },
+        {
+          "id": "paradiso-19",
+          "title": {
+            "it": "Paradiso, Canto XIX",
+            "en-US": "Paradiso, Canto XIX"
+          }
+        },
+        {
+          "id": "paradiso-20",
+          "title": {
+            "it": "Paradiso, Canto XX",
+            "en-US": "Paradiso, Canto XX"
+          }
+        },
+        {
+          "id": "paradiso-21",
+          "title": {
+            "it": "Paradiso, Canto XXI",
+            "en-US": "Paradiso, Canto XXI"
+          }
+        },
+        {
+          "id": "paradiso-22",
+          "title": {
+            "it": "Paradiso, Canto XXII",
+            "en-US": "Paradiso, Canto XXII"
+          }
+        },
+        {
+          "id": "paradiso-23",
+          "title": {
+            "it": "Paradiso, Canto XXIII",
+            "en-US": "Paradiso, Canto XXIII"
+          }
+        },
+        {
+          "id": "paradiso-24",
+          "title": {
+            "it": "Paradiso, Canto XXIV",
+            "en-US": "Paradiso, Canto XXIV"
+          }
+        },
+        {
+          "id": "paradiso-25",
+          "title": {
+            "it": "Paradiso, Canto XXV",
+            "en-US": "Paradiso, Canto XXV"
+          }
+        },
+        {
+          "id": "paradiso-26",
+          "title": {
+            "it": "Paradiso, Canto XXVI",
+            "en-US": "Paradiso, Canto XXVI"
+          }
+        },
+        {
+          "id": "paradiso-27",
+          "title": {
+            "it": "Paradiso, Canto XXVII",
+            "en-US": "Paradiso, Canto XXVII"
+          }
+        },
+        {
+          "id": "paradiso-28",
+          "title": {
+            "it": "Paradiso, Canto XXVIII",
+            "en-US": "Paradiso, Canto XXVIII"
+          }
+        },
+        {
+          "id": "paradiso-29",
+          "title": {
+            "it": "Paradiso, Canto XXIX",
+            "en-US": "Paradiso, Canto XXIX"
+          }
+        },
+        {
+          "id": "paradiso-30",
+          "title": {
+            "it": "Paradiso, Canto XXX",
+            "en-US": "Paradiso, Canto XXX"
+          }
+        },
+        {
+          "id": "paradiso-31",
+          "title": {
+            "it": "Paradiso, Canto XXXI",
+            "en-US": "Paradiso, Canto XXXI"
+          }
+        },
+        {
+          "id": "paradiso-32",
+          "title": {
+            "it": "Paradiso, Canto XXXII",
+            "en-US": "Paradiso, Canto XXXII"
+          }
+        },
+        {
+          "id": "paradiso-33",
+          "title": {
+            "it": "Paradiso, Canto XXXIII",
+            "en-US": "Paradiso, Canto XXXIII"
+          }
+        }
+      ]
+    }
+  ]
+}
