@@ -1,0 +1,147 @@
+{
+  "id": "bellarmine-de-scriptoribus-ecclesiasticis",
+  "cover": "classic",
+  "name": {
+    "la": "De scriptoribus ecclesiasticis",
+    "en-US": "On Ecclesiastical Writers",
+    "pt-BR": "Sobre os escritores eclesiásticos"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Liber unus de scriptoribus ecclesiasticis (1613), saeculorum ordine, cum Chronologia brevi. Textus ex editione Vivès (1870-74), tomo XII, ex scanno OCR.",
+    "en-US": "A survey of ecclesiastical writers by century (1613), with the short chronology. Latin only: the Vivès edition (1870-74), volume 12, from an OCR scan.",
+    "pt-BR": "Um panorama dos escritores eclesiásticos por século (1613), com a cronologia breve."
+  },
+  "composed": "1613",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/de-scriptoribus-ecclesiasticis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia12bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 12 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "la": "Pars 1",
+        "en-US": "Part 1"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "la": "Pars 2",
+        "en-US": "Part 2"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "la": "Pars 3",
+        "en-US": "Part 3"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "la": "Pars 4",
+        "en-US": "Part 4"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "la": "Pars 5",
+        "en-US": "Part 5"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "la": "Pars 6",
+        "en-US": "Part 6"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "la": "Pars 7",
+        "en-US": "Part 7"
+      }
+    },
+    {
+      "id": "p08",
+      "title": {
+        "la": "Pars 8",
+        "en-US": "Part 8"
+      }
+    },
+    {
+      "id": "p09",
+      "title": {
+        "la": "Pars 9",
+        "en-US": "Part 9"
+      }
+    },
+    {
+      "id": "p10",
+      "title": {
+        "la": "Pars 10",
+        "en-US": "Part 10"
+      }
+    },
+    {
+      "id": "p11",
+      "title": {
+        "la": "Pars 11",
+        "en-US": "Part 11"
+      }
+    },
+    {
+      "id": "p12",
+      "title": {
+        "la": "Pars 12",
+        "en-US": "Part 12"
+      }
+    },
+    {
+      "id": "p13",
+      "title": {
+        "la": "Pars 13",
+        "en-US": "Part 13"
+      }
+    },
+    {
+      "id": "p14",
+      "title": {
+        "la": "Pars 14",
+        "en-US": "Part 14"
+      }
+    },
+    {
+      "id": "p15",
+      "title": {
+        "la": "Pars 15",
+        "en-US": "Part 15"
+      }
+    }
+  ]
+}
