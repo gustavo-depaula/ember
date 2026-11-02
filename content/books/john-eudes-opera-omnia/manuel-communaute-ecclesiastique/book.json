@@ -1,0 +1,150 @@
+{
+  "id": "eudes-manuel",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Manuel de piété pour une communauté ecclésiastique",
+    "en-US": "Manual of Piety for an Ecclesiastical Community",
+    "pt-BR": "Manual de piedade para uma comunidade eclesiástica"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le manuel de la Congrégation de Jésus et Marie : exercices de la journée, de la semaine, du mois et de l’année, pour les séminaires et les communautés de prêtres.",
+    "en-US": "The manual of the Congregation of Jesus and Mary: exercises for the day, week, month and year, for seminaries and communities of priests.",
+    "pt-BR": "O manual da Congregação de Jesus e Maria: exercícios do dia, da semana, do mês e do ano, para os seminários e comunidades de sacerdotes."
+  },
+  "composed": 1659,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/manuel-communaute-ecclesiastique",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_3)_000000348.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 3, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "man-01",
+      "title": {
+        "fr-FR": "Introduction (1): Contenant plusieurs exercices de piété"
+      }
+    },
+    {
+      "id": "man-02",
+      "title": {
+        "fr-FR": "Introduction (2): Sur la très sainte Trinité que nous devons glorifier en toutes choses"
+      }
+    },
+    {
+      "id": "man-03",
+      "title": {
+        "fr-FR": "Partie première (1)"
+      }
+    },
+    {
+      "id": "man-04",
+      "title": {
+        "fr-FR": "Partie première (2): Oremus 67"
+      }
+    },
+    {
+      "id": "man-05",
+      "title": {
+        "fr-FR": "Partie première (3): Sancta sancte: et divina digne deo"
+      }
+    },
+    {
+      "id": "man-06",
+      "title": {
+        "fr-FR": "Partie seconde (1)"
+      }
+    },
+    {
+      "id": "man-07",
+      "title": {
+        "fr-FR": "Partie seconde (2): Trois dispositions pour bien faire cette action"
+      }
+    },
+    {
+      "id": "man-08",
+      "title": {
+        "fr-FR": "Partie troisième"
+      }
+    },
+    {
+      "id": "man-09",
+      "title": {
+        "fr-FR": "Partie quatrième (1)"
+      }
+    },
+    {
+      "id": "man-10",
+      "title": {
+        "fr-FR": "Partie quatrième (2): Pour la veille de la fête"
+      }
+    },
+    {
+      "id": "man-11",
+      "title": {
+        "fr-FR": "Partie quatrième (3): Pour le samedi de la quinquagésime"
+      }
+    },
+    {
+      "id": "man-12",
+      "title": {
+        "fr-FR": "Partie quatrième (4): Jour de l'invention de la sainte croix"
+      }
+    },
+    {
+      "id": "man-13",
+      "title": {
+        "fr-FR": "Partie quatrième (5): Jour de la fête de sainte anne"
+      }
+    },
+    {
+      "id": "man-14",
+      "title": {
+        "fr-FR": "Partie quatrième (6): Jour de la fête du très adorable cœur de jésus"
+      }
+    },
+    {
+      "id": "man-15",
+      "title": {
+        "fr-FR": "Partie quatrième (7)"
+      }
+    },
+    {
+      "id": "man-16",
+      "title": {
+        "fr-FR": "Partie quatrième (8): Adoration de l'enfant jésus"
+      }
+    },
+    {
+      "id": "man-17",
+      "title": {
+        "fr-FR": "Partie cinquième (1)"
+      }
+    },
+    {
+      "id": "man-18",
+      "title": {
+        "fr-FR": "Partie cinquième (2): Psaume 19"
+      }
+    }
+  ]
+}
