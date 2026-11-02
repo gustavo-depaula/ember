@@ -1,0 +1,1114 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Dialogus de veritate</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DiDeVe</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>109</emph> PROLOGUS.</head>
+<p>Tres tractatus pertinentes ad studium sacrae Scripturae
+quondam feci diversis temporibus, consimiles
+in hoc quia facti sunt per interrogationem et responsionem;
+et persona interrogantis nomine notatur
+discipuli, respondentis vero nomine magistri.
+Quartum enim, quem simili modo edidi, non inutilem,
+ut puto, introducendis ad dialecticam, cujus
+initium est: De grammatico, quoniam ad diversum
+ab his tribus studium pertinet, istis nolo connumerare.
+Unus horum trium est De veritate: quid, scilicet,
+sit veritas, et in quibus rebus soleat dici; et
+quid sit justitia. Alius vero De libertate arbitrii, quid
+sit, et utrum eam semper habeat homo; et quot sint
+ejus diversitates in habendo, vel non habendo rectitudinem
+<pb n="0467C"/>
+voluntatis, ad quam servandam est data
+creaturae rationali; in quo naturalem tantum fortitudinem
+voluntatis ad servandam acceptam rectitudinem;
+non quomodo necessarium ad hoc ipsum illi
+sit, ut gratia subsequatur, ostendi. Tertius autem
+est De quaestione qua quaeritur quid peccavit
+diabolus, quia non stetit in veritate: cum Deus non
+dederit ei perseverantiam quam nisi eo dante habere
+non potuit: quoniam si Deus dedisset, ille habuisset,
+sicut boni angeli habuerunt illam, quia illis
+dedit Deus. Quem tractatum, quamvis ibi de confirmatione
+bonorum angelorum dixerim, de casu diaboli
+titulavi: quoniam illud contingens fuit, quod
+dixi de bonis angelis; quod autem scripsi de malis,
+ex proposito fuit quaestionis. Qui videlicet tractatus,
+quamvis nulla continuatione dictaminis cohaereant,
+materia tamen eorum, et similitudo disputationis
+ exigit, ut simul eo, quo illos commemoravi,
+ordine conscribantur. Licet itaque a quibusdam
+festinantibus alio ordine sint conscripti, antequam
+perfecti essent, sic tamen eos, ut hic posui, volo
+ordinari.
+<pb n="0468C"/>
+        </p>
+
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Quod veritas non habeat principium, vel finem</hi>.</head>
+<p>DISC. Quoniam Deum, veritatem esse credimus, et
+veritatem in multis aliis esse dicimus, vellem scire
+an ubicunque veritas dicitur, Deum eam esse fateri
+debeamus. Nam tu quoque in Monologio tuo <note>(cap. 18,
+al. 17)</note> per veritatem orationis probas summam veritatem
+non habere principium vel finem, dicens:
+ « Cogitet qui potest, quando incoepit, aut quando
+<pb n="0469A"/>
+non fuit hoc verum, scilicet, quia futurum erat aliquid:
+aut quando desinet, et non erit hoc verum,
+scilicet, quia praeteritum erit aliquid. Quod si neutrum
+istorum cogitari potest, et utrumque hoc
+verum sine veritate esse non potest, impossibile est
+vel cogitare quod veritas principium, aut finem habeat.
+Denique si veritas habuit principium, aut habebit
+finem, antequam ipsa inciperet, verum erat
+tunc quia non erat veritas; et postquam finita
+erit, verum erit quia non erit veritas. Atqui verum
+ non potest esse sine veritate: erat igitur
+veritas, antequam esset veritas; et erit veritas,
+postquam finita erit veritas: quod inconvenientissimum
+est. Sive igitur dicatur veritas habere, sive
+intelligatur non habere principium vel finem, nullo
+<pb n="0469B"/>
+claudi potest veritas principio vel fine. »  Haec tu in
+Monologio tuo. Quapropter veritatis diffinitionem a
+te audire exspecto. MAG. Non memini me invenisse
+diffinitionem veritatis: sed si vis, quaeramus
+per rerum diversitates, in quibus veritatem dicimus
+esse, quid sit veritas. DISC. Si aliud non potero, vel
+audiendo juvabo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>De veritate significationis, et de duabus veritatibus enuntiationis</hi>.</head>
+<p>MAG. Quaeramus ergo primum quid sit veritas in
+enuntiatione: quoniam hanc saepius dicimus veram,
+vel falsam. DISC. Quaere tu; et quidquid inveneris,
+ego observabo. MAG. Quando est enuntiatio vera?
+DISC. Quando est quod enuntiat, sive affirmando,
+<pb n="0469C"/>
+sive negando: dico enim esse quod enuntiat, etiam
+quando negat esse quod non est; quia sic enuntiat, <emph>110</emph> 
+ quemadmodum res est. MAG. An ergo
+tibi videtur quod res enuntiata sit veritas enuntiationis?
+DISC. Non. MAG. Quare? DISC. Quia nihil est
+verum, nisi participando veritatem: et ideo veri
+veritas in ipso vero est; res vero enuntiata non
+est in enuntiatione vera, unde non ejus veritas, sed
+causa veritatis ejus dicenda est. Quapropter non
+nisi in ipsa oratione quaerenda mihi videtur ejus veritas.
+MAG. Vide ergo an ipsa oratio, aut ejus significatio,
+aut aliquid eorum, quae sunt in diffinitione
+enuntiationis, sit quod quaeris? DISC. Non puto.
+MAG. Quare. DISC. Quia si hoc esset, semper esset
+<pb n="0469D"/>
+vera; quoniam eadem manent omnia, quae sunt
+in enuntiationis diffinitione; et cum est, quod enuntiat,
+et cum non est: eadem est enim oratio, et eadem
+significatio, et caetera similiter. MAG. Quid igitur
+tibi videtur ibi veritas? DISC. Nihil aliud scio, nisi
+<pb n="0470A"/>
+quia cum significat esse, quod est, tunc est in
+ea veritas, et est vera. MAG. Ad quid facta est affirmatio?
+DISC. Ad significandum esse, quod est. MAG.
+Hoc ergo debet? DISC. Certum est. MAG. Cum ergo
+significat esse, quod est, significat quod debet.
+DISC. Palam est. MAG. At cum significat quod debet,
+recte significat. Disc. Ita est. MAG. Cum autem significat
+recte, recta est significatio? DISC. Non est
+dubium. MAG. Cum ergo significat esse quod est,
+reeta est significatio? DISC. Ita sequitur. MAG. Item
+cum significat esse quod est, vera est significatio?
+DISC. Vere et recta et vera est, cum significat esse
+quod est. MAG. Idem igitur est illi, et rectam, et veram
+esse, id est, significare esse quod est?
+DISC. Vere idem. MAG. Ergo non est illi aliud veritas,
+quam rectitudo. DISC. Aperte nunc video veritatem
+<pb n="0470B"/>
+hanc esse rectitudinem. MAG. Similiter est,
+cum enuntiatio significat non esse quod non
+est. DISC. Video quod dicis: sed doce me quid respondere
+possim, si quis dicat quod etiam cum ratio
+significat esse quod non est, significat quod debet:
+pariter namque accepit significare esse et quod est,
+et quod non est. Nam si non accepisset significare
+esse, etiam quod non est, non id significaret. Quare
+etiam cum significat esse quod non est, significat
+quod debet. At si quod debet significando, recta et
+vera est sicut ostendisti; vera est oratio, etiam cum
+enuntiat esse quod non est. MAG. Vera quidem non
+solet dici, cum significat esse quod non est; veritatem
+tamen et rectitudinem habet, quia facit quod
+<pb n="0470C"/>
+debet. Sed cum significat esse quod est, dupliciter
+facit quod debet: quoniam significat et quod accepit
+significare, et quod facta est. Sed secundum hanc
+rectitudinem et veritatem, qua significat esse, quod
+est usu recta et vera dicitur enuntiatio, non secundum
+illam, qua significat esse, etiam quod non est.
+Plus enim debet propter quod accepit significationem,
+quam propter quod non accepit. Non enim
+accepit significare rem esse, cum non est, vel non
+esse, cum est; nisi quia non potuit illi dari tunc
+solummodo significare esse, quando est, vel non
+esse, quando non est. Alia igitur est rectitudo et
+veritas enuntiationis, quia significat ad quod
+significandum facta est: alia vero quia significat
+quod accepit significare. Quippe ista immutabilis
+<pb n="0470D"/>
+est ipsi orationi; illa vero, mutabilis: hanc namque
+semper habet; illam vero non semper: istam enim
+naturaliter habet; illam vero, accidentaliter et secundum
+usum. Nam cum dico: Dies est, ad significandum
+<pb n="0471A"/>
+esse quod est, recte utor hujus orationis significatione:
+quia ad hoc facta est, et ideo tunc
+recte dicitur significare. Cum vero eadem oratione
+significo esse quod non est, non ea recte utor: quia
+non ad hoc facta est; et idcirco tunc non recta ejus
+significatio dicitur: quamvis in quibusdam enuntiationibus
+inseparabiles sint istae duae rectitudines, seu
+veritates: ut, cum dicimus: Homo animal est, aut,
+Homo lapis non est. Semper enim haec affirmatio
+significat esse quod est; et haec negatio, non esse
+quod non est: nec illa possumus uti ad significandum
+esse quod non est; semper enim homo animal
+est; nec ista ad significandum non esse, quod est,
+quia homo nunquam lapis est. De illa igitur veritate,
+quam habet oratio, secundum quod aliquis ea
+<pb n="0471B"/>
+recte utitur, incoepimus quaerere: quoniam secundum
+hanc, veram eam esse judicat usus communis
+locutionis. De illa autem veritate quam non habere
+non potest, postea dicemus. DISC. Redi igitur ad id
+quod incoepisti: quoniam sufficienter mihi inter duas
+veritates orationis discrevisti; si tamen aliquam eam
+veritatem ostenderis habere, cum mentitur, sicut tu
+dicis. MAG. De veritate significationis, de qua incoepimus,
+interim ista sufficiant. Eadem enim ratio
+veritatis, quam in propositione vocis perspeximus,
+consideranda est in omnibus signis, quae fiunt ad significandum
+aliquid esse, vel non esse, ut sunt scripturae,
+vel digitorum loquela. DISC. Ergo transi ad
+alia.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>De veritate opinionis</hi>.</head>
+<p>MAG. Cogitationem quoque dicimus veram, cum
+est quod aut ratione aut aliquo modo putamus esse,
+et falsam, cum non est. DISC. Ita usus habet.
+MAG. Quid ergo tibi videtur veritas in cogitatione?
+DISC. Secundum rationem, quam de propositione
+vidimus, nihil rectius dicitur veritas cogitationis,
+quam rectitudo ejus. Ad hoc namque nobis datum
+est posse cogitare esse, vel non esse aliquid: ut cogitemus
+esse, quod est, et non esse, quod non est.
+Quapropter qui putat esse, quod est, putat quod debet,
+atque ideo recta est cogitatio. Si ergo vera et
+recta est cogitatio, non ob aliud, quam quia putamus
+esse quod est; aut non esse, quod non est: non est
+<pb n="0471D"/>
+aliud ejus veritas, quam rectitudo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>De veritate voluntatis</hi>.</head>
+<p>MAG. Recte consideras. Sed et in voluntate dicit
+ipsa Veritas veritatem esse, cum dicit diabolum non
+stetisse in veritate <note>(Joan. VIII, 44)</note>. Non enim erat
+in veritate, neque deseruit veritatem, nisi in voluntate.
+DISC. Ita credo. Si enim semper voluisset,
+<pb n="0472A"/>
+quod debuit; nunquam peccasset, qui non, nisi peccando,
+veritatem deseruit. MAG. Dic ergo quid ibi
+intelligas veritatem? DISC. Non nisi rectitudinem.
+Nam si quandiu voluit quod debuit, ad quod se licet
+voluntatem acceperat, in rectitudine et veritate fuit:
+et cum voluit quod non debuit, rectitudinem et veritatem
+deseruit: non aliud potest ibi intelligi veritas,
+quam rectitudo; quoniam sive veritas, sive
+rectitudo, non aliud in ejus voluntate fuit, quam
+velle quod debuit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>De actionis naturalis et non naturalis veritate</hi>.</head>
+<p>MAG. Bene intelligis. Verum in actione quoque
+nihilominus veritas credenda est, sicut Dominus dixit.
+<pb n="0472B"/>
+Quia <hi>Qui male agit, odit lucem</hi>; et: <hi>Qui facit veritatem,
+venit ad lucem <note>(Joan. III, 20, 21)</note>
+            </hi>. DISC. Video quod dicis.
+MAG. Considera igitur quid ibi sit veritas, si potes.
+DISC. Nisi fallor, eadem ratione qua supra veritatem
+in aliis cognovimus, in actione quoque contemplanda
+est. MAG. Ita est. Nam si male agere, et veritatem
+facere opposita sunt, sicut ostendit Dominus cum
+dicit: <hi>Qui male agit odit lucem</hi>; et: <hi>Qui facit veritatem,
+venit ad lucem</hi>; idem est, <hi>veritatem</hi> facere, quod est, <emph>111</emph> 
+ bene facere. Bene namque facere, ad male
+facere contrarium est. Quapropter si veritatem facere,
+et bene facere idem sunt in oppositione, non
+sunt diversa in significatione: sed sententia est omnium
+quia qui facit quod debet, bene facit, et rectitudinem
+facit. Unde sequitur quod rectitudinem facere
+<pb n="0472C"/>,
+est facere veritatem. Constat namque facere
+veritatem, esse bene facere; et bene facere, esse
+rectitudinem facere. Quare nihil apertius quam veritatem
+actionis, esse rectitudinem. DISC. In nullo
+video titubare considerationem tuam. MAG. Inspice
+an omnis actio, quae facit quod debet, veritatem
+facere convenienter dicatur. Est quippe actio
+rationalis, ut dare eleemosynam; et est irrationalis
+actio, ut actio ignis, qui calefacit. Vide ergo an
+convenienter dicamus ignem facere veritatem? DISC.
+Si ignis ab eo, a quo habet esse, accepit calefacere,
+cum calefacit, facit quod debet. Igitur non video
+quae inconvenientia sit ignem facere veritatem et
+rectitudinem, cum facit quod debet. MAG. Mihi quoque
+<pb n="0472D"/>
+aliter non videtur. Unde animadverti potest
+rectitudinem seu veritatem actionis, aliam esse necessariam,
+aliam non necessariam. Ex necessitate
+namque ignis facit veritatem et rectitudinem, cum
+calefacit; et non ex necessitate facit homo rectitudinem
+et veritatem, cum bene facit: facere autem
+non solum pro eo quod proprie dicitur facere, sed
+pro omni verbo Dominus voluit intelligere, cum
+<pb n="0473A"/>
+dixit quoniam <hi>qui facit veritatem venit ad lucem <note>(Joan. III, 21)</note>
+            </hi>.
+Non enim separat illum ab hac veritate
+sive luce; qui patitur persecutionem propter
+justitiam; aut qui est, quando, et ubi debet
+esse; aut qui stat, vel sedet, quando debet, et similia.
+Nullus namque dicit tales non bene facere. Et
+cum dicit Apostolus quia <hi>recipiet unusquisque prout
+gessit <note>(II Cor. V, 10)</note>
+            </hi>, intelligendum ibi est quidquid
+solemus dicere bene facere, vel male facere.
+DISC. Usus quoque communis locutionis hoc habet,
+ut et pati, et multa alia dicat facere, quae non sunt
+facere. Quare rectam quoque voluntatem, de cujus
+veritate, ante veritatem actionis, supra contemplati
+sumus, inter rectas actiones, nisi fallor, computare
+possumus. MAG. Non falleris. Nam qui vult quod debet,
+<pb n="0473B"/>
+recte et bene facere dicitur, nec ab his qui veritatem
+faciunt excluditur. Sed quoniam de veritate
+investigando, illam loquimur, et Dominus de illa
+veritate quae in voluntate est, specialiter videtur
+dicere, cum dicit de diabolo quia <hi>in veritate non
+stetit <note>(Joan. VIII, 44)</note>
+            </hi>: ideo separatim quid in voluntate
+veritas esset, considerare volui. DISC. Placet
+mihi ita factum esse. MAG. Cum ergo constet actionis
+veritatem aliam naturalem esse, aliam non naturalem,
+sub naturali ponenda est illa veritas erationis,
+quam supra vidimus <note>(cap. 2)</note> ab illa non posse
+separari. Sicut enim ignis, cum calefacit, veritatem
+facit, quia ab eo accepit a quo habet esse: ita et
+haec oratio, scilicet, dies est, veritatem facit, cum
+significat diem esse, sive dies sit, sive dies non sit,
+<pb n="0473C"/>
+quoniam hoc naturaliter accepit facere. DISC. Nunc
+primum video in falsa oratione veritatem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>De sensuum veritate, et quod falsitas, quae putatur esse in sensu, sit in opinione</hi>.</head>
+<p>MAG. Putasne nos praeter summam veritatem,
+omnes sedes invenisse veritatis? DISC. Reminiscor
+nunc cujusdam veritatis, quam in his, de quibus
+tractasti, non invenio. MAG. Quae est illa? DISC. Est
+quidem in sensibus corporis veritas, sed non semper:
+nam fallunt nos aliquando. Nam cum video
+aliquando per medium vitrum aliquid, fallit me visus:
+quia aliquando renuntiat mihi corpus, quod
+video ultra vitrum, ejusdem esse coloris cujus est
+et vitrum, cum alterius sit coloris: aliquando vero
+<pb n="0473D"/>
+facit me putare vitrum habere colorem rei, quam
+ultra video, cum non habeat. Multa sunt alia, in
+quibus visus, et alii sensus fallunt. MAG. Non mihi
+videtur haec veritas, vel falsitas in sensibus esse,
+sed in opinione. Ipse namque sensus interior se
+<pb n="0474A"/>
+fallit, non illi mentitur exterior. Quod aliquando
+facile cognoscitur, aliquando difficile. Cum enim
+puer timet sculptum draconem aperto ore, facile
+cognoscitur quia hoc non facit visus, qui nihil aliud
+puero renuntiat, quam senibus, sed puerilis sensus
+interior, qui nondum bene scit discernere inter rem
+et rei similitudinem. Tale est cum videntes hominem
+alicui similem, putamus illum esse cui similis;
+aut cum audiens quis non hominis vocem, putat
+esse vocem hominis. Nam et hoc facit sensus interior.
+Quod autem dicis de vitro, ideo est, quia cum
+visus transit per corpus aliquod aerei coloris, non
+aliter impeditur assumere similitudinem coloris,
+quem ultra videt, quam cum transit per aera:
+nisi inquantum illud corpus, quod transit, spissius,
+<pb n="0474B"/>
+aut obscurius est aere: ut, cum transit per vitrum
+sui coloris, id est cui nullus alius admistus est color;
+aut per purissimam aquam, aut per crystallum,
+aut per aliquid similem habens colorem. Cum vero
+transit idem visus per alium colorem, ut per vitrum
+non sui eoloris, sed cui alius color est additus, ipsum
+colorem qui prius occurrit accipit. Quapropter, quoniam
+post unum acceptum colorem, secundum quod
+illo affectus est, alium quicunque occurrat, aut nullatenus,
+aut minus integre suscipit: ideo illum
+quem prius cepit, aut solum, aut cum eo qui post
+occurrit, renuntiat. Si enim visus, quantum capax
+est coloris, tantum afficitur priore colore, non potest
+alium sentire simul colorem: si autem minus
+quam colorem sentire possit, priori afficitur, potest
+<pb n="0474C"/>
+alium sentire: ut, si transit per aliquod corpus velut
+per vitrum, quod ita perfecte sit rubicundum, ut
+omnino ipse visus afficiatur ejus rubore, nequit diverso
+simul affici colore: si autem non tam perfectum
+invenit ruborem qui prior occurrit, quantum
+coloris capax est, quasi nondum plenus, adhuc
+alium valet assumere colorem, inquantum ejus capacitas
+priori colore non est satiata. Qui ergo hoc
+nescit, putat visum renuntiare quia omnia quae
+post prius assumptum colorem sentit, aut omnino,
+aut aliquatenus ejusdem sint coloris. Unde contingit
+ut sensus interior culpam suam imputet sensui exteriori.
+Similiter cum fustis integer, cujus pars est
+intra aquam, et pars extra, putatur fractus: aut
+cum putamus quod visus noster vultus nostros inveniat
+<pb n="0474D"/>
+in speculo, et cum multa alia nobis aliter videntur
+visus et alii sensus nuntiare quam sint, non
+culpa sensuum est, qui renuntiant quod possunt,
+quoniam ita posse acceperunt; sed judicio animae
+imputandum est, quod non bene discernit quid possint
+<pb n="0475A"/>
+illi, aut quid debeant. Quod ostendere quoniam
+laboriosum magis est quam fructuosum ad
+hoc quod intendimus, in hoc modo tempus insumendum
+ non arbitror. Hoc tantum sufficiat dicere:
+quia sensus quidquid renuntiare videantur, sive ex
+sui natura hoc faciant, sive ex aliqua alia causa,
+faciunt quod debent; et ideo rectitudinem et veritatem
+faciunt: et continetur haec veritas sub illa
+veritate, quae est in actione. DISC. Satisfecisti mihi
+tua responsione, et nolo te amplius morari in hac
+de sensibus quaestione.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>De veritate essentiae rerum</hi> .</head>
+<p>MAG. Jam considera an praeter summam veritatem,
+in aliqua re veritas sit intelligenda, exceptis his quae
+<pb n="0475B"/>
+supra conspecta sunt. DISC. Quid illud esse potest?
+MAG. An putas aliquid esse aliquando, aut alicubi,
+quod <emph>112</emph> non sit in summa veritate, et quod inde
+non acceperit quod est, inquantum est: aut quod
+possit aliud esse, quam quod ibi est? DISC. Non est
+putandum. MAG. Quidquid igitur est vere est, inquantum
+hoc est quod ibi est. DISC. Absolute concludere
+potes quia omne quod est vere est, quoniam non est
+aliud quam quod ibi est. MAG. Est igitur veritas in
+omnium quae sunt essentia, quia hoc sunt quod in
+summa veritate sunt. DISC. Video ita ibi esse veritatem,
+ut nulla ibi possit esse falsitas, quoniam
+quod falso est non est. MAG. Bene dicis. Sed dic an
+aliquid aliud debeat esse, quam quod est in summa
+veritate? DISC. Non. MAG. Si ergo omnia hoc
+<pb n="0475C"/>
+sunt quod ibi sunt sine dubio hoc sunt quod debent.
+DISC. Vere hoc sunt quod debent. MAG.
+Quidquid vero est quod debet esse, recte est.
+DISC. Aliter esse non potest. MAG. Igitur omne quod
+est recte est. DISC. Nihil consequentius MAG. Si
+ergo veritas et rectitudo idcirco sunt in rerum essentia,
+quia hoc sunt quod sunt in summa veritate,
+certum est veritatem rerum esse rectitudinem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>De diversis intellectibus</hi>, debere, <hi>et</hi> non debere; posse, <hi>et</hi> non posse.</head>
+<p>DISC. Nihil planius, quantum ad consequentiam argumentationis.
+Sed secundum rei veritatem,
+quomodo possumus dicere quia quidquid est
+debet esse, cum sint multa opera mala quae certum
+<pb n="0475D"/>
+est esse non debere? MAG. Quid mirum, si eadem
+res debet esse et non esse? DISC. Quomodo potest
+hoc esse? MAG. Scio te non dubitare quia nihil
+omnino est, nisi Deo aut faciente, aut permittente.
+<pb n="0476A"/>
+DISC. Nihil mihi certius. MAG. An audebis dicere
+quia Deus aliquid faciat aut permittat non sapienter,
+aut non bene? DISC. Imo assero quia nihil nisi bene
+et sapienter. MAG. An judicabis non debere esse quod
+tanta bonitas et tanta sapientia facit, aut permittit?
+DISC. Quis intelligens audeat hoc cogitare? MAG.
+Debet igitur esse pariter, et quod faciente, et quod
+permittente Deo fit. DISC. Patet quod dicis. MAG.
+Dic etiam: an putas esse debere malae voluntatis
+affectum? DISC. Idem est ac si dicas an debeat esse
+opus malum: quod nullus sensatus concedet. MAG.
+Permittit tamen Deus aliquos male facere, quod
+male volunt. DISC. Utinam non tam saepe permitteret.
+MAG. Idem igitur debet esse, et non esse: debet
+enim esse, quia bene et sapienter ab eo, quo
+<pb n="0476B"/>
+non permittente fieri non posset, permittitur; et non
+debet esse, quantum ad illum, cujus iniqua voluntate
+concipitur. Hoc igitur modo Dominus Jesus,
+quia solus innocens erat, non debuit mortem
+pati, nec ullus eam illi debuit inferre; et tamen
+eam debuit pati, quia ipse sapienter, et benigne, et
+utiliter voluit eam sufferre. Multis enim modis
+eadem res suscipit diversis considerationibus contraria:
+quod in actione saepe contingit, ut in percussione.
+Percussio namque et agentis est et patientis:
+unde et actio dici, et passio potest, quamvis,
+secundum ipsum nomen, actio vel percussio, et quae
+similiter dicta a passivis in activa significatione dicuntur
+magis videantur esse patienter quam agentis.
+Quippe secundum id quod agit, magis proprie
+<pb n="0476C"/>
+videntur dici agentia vel percutientia; et secundum
+id quod patitur, actio vel percussio. Nam agentia
+et percutientia, ab agente et percutiente dicuntur
+(sicut providentia a providente, et continentia a
+continente) quae scilicet agens et percutiens, providens
+et continens, activa sunt; actio vero et percussio,
+ab acto et percusso, quae passiva sunt, derivantur.
+Sed quoniam (ut in uno dicam quod in
+caeteris intelligas) sicut percutiens non est sine percussione,
+nec percussus absque percutiente, ita percutientia
+et percussio sine invicem esse nequeunt;
+imo una et eadem res est diversis nominibus secundum
+diversas partes significata: idcirco percussio,
+et percutientis, et percussi esse dicitur. Quapropter
+secundum quod agens vel patiens eidem subjacent
+<pb n="0476D"/>
+judicio, vel contrariis, ipsa quoque actio ex utraque
+parte similiter judicabitur, aut contrarie. Cum
+ergo et qui percutit recte percutit, et qui percutitur
+recte percutitur: ut, cum peccans, ab eo ad quem
+<pb n="0477A"/>
+pertinet corrigitur, ex utraque parte recta est, quia
+ex utraque parte debet esse percussio. E contrario,
+quando ab iniquo justus percutitur, quia nec iste
+percuti, nec ille percutere debet, ex utraque parte
+non recta est, quia ex neutra parte debet esse, percussio.
+Cum vero peccans ab eo ad quem non pertinet
+percutitur, quoniam et iste debet percuti, et
+ille non debet percutere, debet et non debet esse
+percussio: et ideo recta, et non recta negari non potest.
+Quod si ad supernae sapientiae bonitatisque consideres
+judicium, sive ex altera tantum, sive ex
+utraque parte, agentis scilicet et patientis, non debeat
+esse percussio: quis audebit negare debere
+esse, quod tanta bonitate et sapientia permittur?
+DISC. Neget qui audet, ego vero non audeo. MAG.
+<pb n="0477B"/>
+Quid etiam, si secundum naturam rerum consideres,
+ut cum clavi ferrei impressi sunt in corpus Domini:
+an dices fragilem carnem non debuisse penetrari,
+aut acuto ferro penetratam non debuisse
+dolere? DISC. Contra naturam dicerem. MAG. Potest
+igitur contingere ut debeat esse secundum naturam
+actio, vel passio, quae secundum agentem vel
+patientem esse non debet, quoniam nec ille agere,
+nec iste debet pati. DISC. Nihil horum negare possum.
+MAG. Vides igitur saepissime posse contingere
+ut eadem actio debeat esse et non debeat esse, diversis
+considerationibus. DISC. Ita aperte hoc ostendis,
+ut non possim non videre. MAG. Verum inter
+haec te scire volo quia debere et non debere,
+aliquando dicitur improprie; ut, cum dico quia
+<pb n="0477C"/>
+debeo amari a te. Si enim vere debeo, debitor
+sum reddere quod debeo; et in culpa sum, si non
+amor a te. DISC. Ita sequitur. MAG. Sed cum debeo
+amari a te, non est a me exigendum, sed a te. DISC.
+Fateri me ita esse oportet. MAG. Cum ergo
+dico quia debeo amari a te, non ita dicitur,
+quasi ego aliquid debeam, sed quia tu debes
+amare me. Similiter cum dico quia non debeo amari
+a te, non aliud intelligitur, quam quia tu non debes
+amare me. Qui modus loquendi est etiam in potentia
+et in impotentia, ut cum dicitur: Hector potuit
+vinci ab Achille, et Achilles non potuit vinci ab
+Hectore. Non enim fuit potentia in illo qui potuit
+vinci, sed in illo qui vincere potuit: nec impotentia
+<pb n="0477D"/>
+in illo qui vinci non potuit, sed in illo qui vincere
+non potuit. DISC. Placet mihi quod dicis:
+quippe utile puto hoc cognoscere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX [ <hi>al</hi>., X]. <hi>Quod omnis actio significet aut verum aut falsum</hi>.</head>
+<p>MAG. Recte putas: sed redeamus ad veritatem
+<pb n="0478A"/>
+significationis, a qua ideo incepi, ut te a notioribus
+ad ignotiora perducerem. Omnes enim de veritate
+significationis loquuntur: veritatem vero, quae est
+in rerum essentia, pauci considerant. DISC. Profuit
+mihi quia hoc ordine me duxisti. MAG. Videamus
+ergo quam lata sit veritas significationis. Namque
+non solum in his quae signa solemus dicere, sed et
+in aliis omnibus quae diximus est significatio vera
+vel falsa. Quoniam namque non est ab aliquo faciendum,
+nisi quod quis debet facere; eo ipso quod
+aliquis aliquid facit, dicit et significat hoc se debere
+facere: quod si <emph>113</emph> debet facere quod facit, verum
+dicit, si autem non debet, mentitur. DISC. Quamvis
+videar mihi intelligere, tamen quia inauditum
+ hactenus fuit, apertius ostende quod dicis.
+<pb n="0478B"/>
+MAG. Si esses in loco ubi scires esse salubres herbas
+et mortiferas, sed nescires eas discernere et
+esset ibi aliquis, de quo non dubitares quin illas
+discernere sciret, tibique interroganti quae salubres
+essent et quae mortiferae, alias verbo salubres
+diceret esse, et alias comederet; cui magis crederes,
+verbo an actioni ejus? DISC. Non tantum crederem
+verbo quantum operi. MAG. Plus ergo tibi
+diceret quae salubres essent opere quam verbo.
+DISC. Ita est. MAG. Sic itaque, si nescires non esse
+mentiendum, et mentiretur aliquis coram te,
+etiamsi diceret tibi ipse se non debere mentiri, plus
+ipse tibi diceret opere se mentiri debere, quam verbo
+non debere. Similiter dum cogitat aliquis, aut
+<pb n="0478C"/>
+vult aliquid, si nescires an deberet id velle, sive
+cogitare, si voluntatem ejus et cogitationem videres,
+significaret tibi ipso opere quia hoc deberet
+cogitare et velle. Quod si ita deberet, verum
+diceret; sin autem, mentiretur. In rerum quoque
+existentia est similiter vera vel falsa significatio;
+quoniam eo ipso quia est, dicit se debere esse.
+DISC. Video nunc aperte quod hactenus non animadverti.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X [ <hi>al</hi>., XI]. <hi>De summa veritate</hi>.</head>
+<p>MAG. Progrediamur ad ea quae restant. DISC. Praecede,
+et sequar. MAG. Summam autem veritatem non
+negabis esse rectitudinem? DISC. Imo nihil aliud
+illam possum fateri. MAG. Considera quia cum omnes
+<pb n="0478D"/>
+supradictae rectitudines ideo sint rectitudines,
+quia illa in quibus sunt, aut sunt aut faciunt quod
+debent; summa veritas non ideo est rectitudo, quia
+debet aliquid. Omnia enim illi debent: ipsa
+vero nulli quidquam debet, nec ulla ratione est quod
+est, nisi quia est. DISC. Intelligo. MAG. Vides etiam
+<pb n="0479A"/>
+quomodo ista rectitudo causa sit omnium aliarum
+veritatum et rectitudinum, et nihil sit causa
+illius? DISC. Video et animadverto in aliis quasdam
+esse tantum effecta; quasdam vero esse causas, et
+effecta: ut, cum veritas, quae est in rerum existentia,
+sit effectum summae veritatis, ipsa quoque causa
+est veritatis quae cogitationis est, et ejus quae est in
+propositione: et istae duae veritates nullius sunt causa
+veritatis. MAG. Bene consideras: unde jam intelligere
+potes quomodo summam veritatem in meo
+Monologio <note>(cap. 18)</note> probavi non habere principium
+vel finem, per veritatem orationis. Cum enim dixi,
+quando non fuit verum quia futurum erat aliquid,
+non ita dixi ac si absque principio ista
+oratio fuisset, quae assereret futurum aliquid esse,
+<pb n="0479B"/>
+aut ista veritas esset Deus: sed quoniam non
+potest intelligi quando, si oratio ista esset, veritas
+illi deesset, ut per hoc quia non intelligitur
+quando ista veritas esse non potuerit, si esset oratio
+in qua esse posset, intelligatur illa veritas sine principio
+fuisse, quae prima causa est hujus veritatis.
+Quippe veritas orationis non semper posset esse, si
+ejus causa non semper esset. Etenim non est vera
+oratio, quae dicit futurum esse aliquid, nisi
+reipsa sit aliquid futurum; neque aliquid est futurum,
+si non sit in summa veritate. Similiter de
+illa intelligendum est oratione, quae dicit quia
+praeteritum est aliquid. Nam si nullo intellectu veritas
+orationi huic, si facta fuerit, deesse poterit,
+necesse est ut ejus veritatis, quae summa causa est
+<pb n="0479C"/>
+istius, nullus finis intelligi possit. Idcirco namque
+vere dicitur praeteritum esse aliquid, quia ita
+est in re: et ideo est aliquid praeteritum, quia sic
+est in veritate summa. Quapropter si nunquam potuit
+non esse verum, futurum esse aliquid, et nunquam
+poterit non esse verum, praeteritum aliquid
+esse, impossibile est principium summae veritatis
+fuisse, aut finem futurum esse. DISC. Nihil tuae rationi
+objici posse video.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI [ <hi>al</hi>., XII]. <hi>De veritatis diffinitione</hi>.</head>
+<p>MAG. Redeamus ad indagationem veritatis
+quam incoepimus. DISC. Totum hoc pertinet ad indagandam
+veritatem; verumtamen redi ad quod vis.
+MAG. Dic ergo mihi an tibi videatur esse aliqua
+<pb n="0479D"/>
+rectitudo alia, praeter has quas contemplati sumus.
+DISC. Non alia praeter has, nisi illa quae est in rebus
+corporeis, quae multum est aliena ab istis, ut
+rectitudo virgae. MAG. In quo tibi illa videtur differre
+ab istis. DISC. Quia illa visu corporeo cognosci
+potest; istas rationis capit contemplatio. MAG.
+<pb n="0480A"/>
+Nonne rectitudo illa corporum ratione intelligitur,
+praeter subjectum, et cognoscitur? Aut si alicujus
+corporis absentis linea dubitetur an recta sit, et
+monstrari potest quia in nullam partem flectitur,
+nonne ratione colligitur quia rectam eam necesse
+est esse? DISC. Etiam. Sed eadem quae sic ratione
+intelligitur, visu sentitur, in subjecto; illae vero nonnisi
+sola mente percipi possunt. MAG. Possumus
+igitur, nisi fallor, diffinire quia veritas est rectitudo
+sola mente perceptibilis. DISC. Nullo modo hoc dicentem
+falli video. Nempe nec plus, nec minus continet
+ista diffinitio veritatis quam expediat, quoniam
+nomen rectitudinis dividit eam ab omni re,
+quae rectitudo non vocatur. Quod vero sola mente
+percipi dicitur, separat eam a rectitudine visibili.
+<pb n="0480B"/>
+          </p>
+</div2>
+
+<div2>
+          <head>CAPUT XII [ <hi>al</hi>., XIII] <hi>De justitiae diffinitione</hi>.</head>
+<p>Sed quoniam docuisti me omnem veritatem esse
+rectitudinem, et rectitudo idem videtur mihi esse
+quod justitia, justitiam quoque doce me, quid esse
+intelligam. Videtur namque quia omne quod rectum
+est esse, justum etiam est esse: et conversim, quia
+quod justum est esse, rectum est esse. Justum enim et
+rectum videtur, ignem calidum esse; et unumquemque
+hominem, diligentem se diligere. Nam si quidquid
+debet esse, recte et juste est; nec aliud recte
+ et juste est, nisi quod debet esse: sicut puto,
+non potest aliud esse justitia quam rectitudo. In
+summa namque et simplici natura, quamvis non
+ideo sit recta et justa, quia debeat aliquid, dubium
+<pb n="0480C"/>
+tamen non est, idem esse rectitudinem et justitiam.
+MAG. Habes igitur diffinitionem justitiae, si justitia
+non est aliud quam rectitudo. Et quoniam de rectitudine
+sola mente perceptibili loquimur, invicem
+sese diffiniunt veritas, et rectitudo, et justitia: ut
+qui unam earum noverit, et alias nescierit, per notam
+ad ignotarum scientiam pertingere possit; imo
+qui noverit unam, alias nescire non possit. DISC.
+Quid ergo? An dicemus lapidem justum, cum a superioribus
+inferiora petit; quia hoc facit, quod debet,
+quemadmodum dicimus hominem justum, qui
+quod debet facit? MAG. Non solemus hujusmodi
+justitia justum dicere. DISC. Cur ergo magis
+homo quam lapis justus est, si uterque juste
+facit? MAG. Tu ipse an non putas facere hominis,
+<pb n="0480D"/>
+a facere lapidis aliquo modo differre? DISC. Scio
+quia homo sponte, lapis naturaliter et non sponte
+facit. MAG. Idcirco lapis non dicitur justus, quia
+non est justus qui facit quod debet, si non vult quod
+facit. DISC. Dicemus ergo justum esse equum, cum
+vult pascere, quia volens facit quod debet? MAG.
+<pb n="0481A"/>
+Non <emph>114</emph> dixi justum esse eum, qui facit volens
+quod debet; sed dixi non esse justum, qui non facit
+volens quod debet. DISC. Dic ergo quis sit justus?
+MAG. Quaeris, ut video, diffinitionem justitiae,
+cui laus debetur; sicut contrario ejus, scilicet injustitiae
+debetur vituperatio. DISC. Illam quaero.
+MAC. Constat quia illa justitia non est in ulla natura,
+quae rectitudinem non agnoscit. Quidquid enim non
+vult rectitudinem, etiamsi eam tenet, non meretur
+laudem, quia tenet rectitudinem; velle autem illam
+non valet, qui nescit eam. DISC. verum est. MAG.
+Rectitudo igitur, quae tenenti se laudem acquirit,
+non est nisi in rationali natura, quae sola rectitudinem,
+de qua loquimur, percipit. DISC. Ita sequitur
+MAG. ergo quoniam omnis justitia est rectitudo,
+<pb n="0481B"/>
+nullatenus est justitia, quae servantem se facit laudabilem,
+nisi in rationalibus. DISC. Non potest aliter
+esse. MAG. Ubi igitur tibi videtur ista justitia in
+homine, quia rationalis est? DISC. Non est nisi aut
+in voluntate, aut in scientia, aut in opere. MAG.
+Quid, si quis recte intelligit, aut recte operatur,
+non autem recte velit; laudabit eum quisquam de
+justitia? DISC. Non. MAG. Ergo non est ista justitia
+scientiae rectitudo, aut rectitudo actionis; sed rectitudo
+voluntatis. DISC. Aut hoc erit, aut nihil. MAG.
+Videtur tibi sufficienter esse diffinita justitia quam
+quaerimus? DISC. Tu vide. MAG. Quicunque vult quod
+debet, putas eum recte velle et habere rectitudinem
+voluntatis? DISC. Si quis nesciens vult quod debet:
+ut cum vult ostium claudere contra illum qui, ipso
+<pb n="0481C"/>
+nesciente, vult in domo alium occidere; sive iste
+habeat, sive non habeat aliquam voluntatis rectitudinem,
+non habet illam quam quaerimus. MAG. Quid
+dicis de illo qui scit se debere velle quod vult? DISC.
+Potest contingere ut intelligens velit quod debet, et
+nolit se debere. Nam cum latro cogitur ablatam
+reddere pecuniam, palam est quia non vult se debere; 
+quoniam ideo cogitur velle reddere, quia
+debet: sed hic nullatenus laudandus est hac rectitudine.
+MAG. Qui cibat esurientem pauperem propter
+inanem gloriam, vult se debere velle quod vult:
+idcirco namque laudatur, quia vult facere quod debet:
+quid itaque de isto judicas? DISC. Non est hujus
+rectitudo laudanda; et ideo non sufficit ad justitiam
+quam quaerimus. Sed ostende jam quae sufficiat.
+<pb n="0481D"/>
+MAG. Omnis voluntas sicut vult aliquid, ita vult
+propter aliquid. Nam quemadmodum considerandum
+est quid velit, ita videndum est cur velit. Quippe
+non magis recta debet esse volendo quod debet,
+quam volendo propter quod debet. Quapropter omnis
+voluntas habet quid, et cur: omnino namque
+nihil volumus nisi sit cur velimus. DISC. Omnes hoc
+<pb n="0482A"/>
+in nobis cognoscimus. MAG. Cur autem tibi videtur
+unicuique volendum quod vult, ut laudabilem habeat
+voluntatem? Quid enim volendum sit, palam est;
+quia qui non vult quod debet, justus non est. DISC.
+Nec minus apertum mihi videtur quia sicut volendum
+est unicuique quod debet; ita volendum est
+ideo, quia debet, ut justa sit ejus voluntas. MAG.
+Bene intelligis haec duo necessaria esse voluntati ad
+justitiam: velle scilicet quod debet; ac ideo, quia
+debet. Sed dic an sufficiant. DISC. Cur non? MAG.
+Cum aliquis vult quod debet, quia cogitur; et ideo
+cogitur, quia hoc velle debet: nonne hic quodammodo
+vult quod debet quoniam debet? DISC. Non
+possum negare; sed alio modo vult iste, alio
+modo vult justus. MAG. Distingue istos modos. DISC.
+<pb n="0482B"/>
+Justus namque, cum vult quod debet, servat voluntatis
+rectitudinem non propter aliud, inquantum
+justus est, quam propter ipsam rectitudinem. Qui
+autem nonnisi coactus, aut extranea mercede conductus,
+vult quod debet (si servare dicendus est
+rectitudinem) non eam servat propter ipsam, sed
+propter aliud. MAG. Voluntas ergo illa justa dicenda
+est, quae sui rectitudinem servat propter ipsam
+rectitudinem. DISC. Aut ista, aut nulla voluntas
+justa est. MAG. Justitia igitur est rectitudo voluntatis
+propter se servata. DISC. haec est justitiae diffinitio,
+quam quaerebam. MAG. Vide tamen ne forte
+aliquid in ea debeat corrigi. DISC. Ego nihil in ea
+corrigendum. MAG. Nec ego. Nulla namque justitia
+est, quae non est rectitudo; nec alia, quam rectitudo
+<pb n="0482C"/>
+voluntatis, justitia dicitur per se. Dicitur enim
+rectitudo actionis, justitia; sed nonnisi cum justa
+voluntate fit actio. Rectitudo autem voluntatis,
+etiamsi impossibile sit fieri quod recte volumus,
+tamen nequaquam amittit nomen justitiae. Quia autem
+servata dicitur: Forte dicet aliquis, si rectitudo
+voluntatis nonnisi cum servatur, dicenda est
+justitia; non mox ut habetur, est justitia: nec accipimus
+ justitiam, cum illam accipimus; sed nos,
+servando, facimus eam justitiam esse. Nam prius
+accipimus illam et habemus, quam servemus: non
+enim ideo illam accipimus, nec idcirco illam primitus
+habemus, quia servamus; sed illam incipimus
+ideo servare, quia accipimus et habemus. Sed ad
+hoc respondere nos possumus quia simul accipimus
+<pb n="0482D"/>
+illam et velle et habere: non enim illam habemus,
+nisi volendo; et, si eam volumus, hoc ipso eam
+ habemus. Sicut autem illam simul habemus, et
+volumus; ita illa simul volumus et servamus: quoniam
+sicut eam non servamus, nisi cum illam volumus;
+sic non est quando eam velimus, et non servemus:
+sed quandiu eam volumus, servamus; et
+<pb n="0483A"/>
+donec servamus, volumus. Quoniam ergo eodem
+tempore contingit nobis illam et velle et habere:
+nec diverso tempore in nobis sunt et velle, et servare
+eam; ex necessitate simul accipimus et habere
+illam, et servare: et sicut quandiu servamus, habemus
+illam; ita quandiu habemus, servamus: nec
+ulla ex his generatur inconvenientia. Quippe
+sicut ejusdem rectitudinis acceptio natura prius est
+quam habere, aut velle illam: quoniam habere
+illam, aut velle, non est causa acceptionis, sed acceptio
+facit velle illam et habere: et tamen simul
+sunt tempore acceptio, et habere et velle: simul
+enim incipimus illam et accipere, et habere, et
+velle; et tamen simul sunt tempore, acceptio, et
+habere, et velle: et mox ut est accepta, est habita
+<pb n="0483B"/>
+et volumus eam; ita habere, seu velle illam, quamvis
+natura prius sint, quam servare illam; simul
+ tamen sunt tempore. Quare a quo simul accipimus
+et habere, et velle, et servare voluntatis
+rectitudinem, ab illo accipimus justitiam: et mox
+ut habemus et volumus eamdem rectitudinem
+voluntatis, justitia dicenda est. Quod vero addidimus, <hi>propter se</hi>,
+ita necessarium est ut nullo modo
+eadem rectitudo, nisi propter se servata, justitia sit.
+DISC. Nihil possum cogitare contra. MAG. Videtur
+tibi quod ista diffinitio possit aptari summae justitiae,
+secundum quod de re loqui possumus, de qua nihil,
+aut vix proprie aliquid potest dici? DISC. Licet nonnisi
+tibi aliud voluntas, aliud rectitudo: tamen sicut
+dicimus potestatem divinitatis, aut divinam potestatem,
+<pb n="0483C"/>
+sive potentem divinitatem (cum in divinitate
+non sit aliud potestas quam divinitas); ita non inconvenienter
+dicimus ibi rectitudinem voluntatis,
+aut voluntariam rectitudinem, seu rectam voluntatem.
+Si vero illam rectitudinem dicimus propter se
+servari, de nulla alia rectitudine tam convenienter
+ dici posse videtur. Sicut enim non aliud illam,
+sed ipsa se servat, nec per aliud sed per se, ita
+non propter aliud quam propter se. MAG. Indubitanter
+itaque possumus dicere quia justitia est
+rectitudo voluntatis: quae rectitudo propter se servatur.
+Et quoniam verbi, quod hic dico (servatur)
+non habemus participium passivum praesentis temporis,
+pro praesenti, possumus uti passivo praeterito
+participio ejusdem verbi. DISC. Hunc usum habemus
+<pb n="0483D"/>
+notissimum, ut praeteritis <emph>115</emph> participiis passivis
+utamur pro praesentibus, quae latinitas non
+habet; sicut non habet praeterita participia a verbis
+activis et neutris; et pro praeteritis, quae non habet,
+<pb n="0484A"/>
+utitur praesentibus: ut si dicatur de aliquo:
+Hic quod studens et legens didicit, nonnisi coactus
+docet, id est quod dum studuit et legit, didicit, nonnisi
+cum cogitur docet. MAG. Bene ergo diximus
+justitiam esse rectitudinem voluntatis servatam propter
+se, id est quae servatur propter se. Et hinc est,
+quod justi dicuntur aliquando recti corde, id est
+recti voluntate; aliquando recti, sine adjectione cordis;
+quoniam nullus alius intelligitur rectus, nisi
+qui rectam habet voluntatem: ut est illud: <hi>Gloriamini
+omnes recti corde <note>(Psal. XXXI, 11)</note>
+            </hi>. Et illud: <hi>Videbunt recti, et laetabuntur 
+ <note>(Psal. CVI, 42)</note>
+            </hi>. DIS. Satisfecisti
+etiam pueris de diffinitione justitiae:
+transeamus ad alia.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII [ <hi>al</hi>., XIV]. <hi>Quod una sit veritas in omnibus veris</hi> .</head>
+<p>MAG. Redeamus ad rectitudinem seu veritatem:
+quibus duobus nominibus (quoniam de rectitudine
+mente sola perceptibili loquimur una res significatur,
+quae genus est justitiae: et quaeramus an sit una
+sola veritas in omnibus istis, in quibus veritatem
+dicimus esse: an ita sint veritates plures, sicut
+plura sunt, in quibus constat esse veritatem. DISC.
+Hoc multum nosse desidero. MAG. Constat quia in
+quacunque re sit veritas, non est aliud quam rectitudo.
+DISC. Non hinc dubito. MAG. Si ergo plures
+sunt veritates, secundum plures res, plures quoque
+sunt rectitudines. DISC. Hoc quoque non minus certum
+est. MAG. Si secundum diversitates rerum,
+necesse est esse diversas rectitudines, utique, secundum
+<pb n="0484C"/>
+res ipsas, habent esse suum eaedem rectitudines:
+et sicut res ipsae, in quibus sunt, variantur,
+sic quoque rectitudines varias esse necesse est. DISC.
+In una re in qua rectitudinem esse dicimus, ostende
+quod in caeteris intelligam. MAG. Dico quia si rectitudo
+significationis ideo est alia, quam voluntatis
+rectitudo, quia ista in voluntate, illa in significatione
+est, habet suum esse rectitudo propter significationem,
+et secundum eam mutatur. DISC. Ita est.
+Cum enim significatur esse quod est, aut non esse
+quod non est, recta significatio est, et constat esse
+rectitudinem, sine qua significatio recta nequit esse.
+Si vero significetur esse quod non est, aut non
+esse quod est, aut si nihil omnino significetur, nulla
+erit rectitudo significationis, quae nonnisi in significatione
+<pb n="0484D"/>
+est. Quapropter per significationem habet
+esse, et per eam mutatur ejus rectitudo: quemadmodum
+color per corpus habet esse, et non esse.
+Existente namque corpore, colorem ejus necesse
+<pb n="0485A"/>
+est esse; et pereunte corpore, colorem ejus manere
+impossibile est. MAG. Non similiter se habent color
+ad corpus et rectitudo ad significationem. DISC.
+Ostende dissimilitudinem. MAG. Si nullus aliquo significare
+velit signo quod significandum est, erit ulla per
+signa significatio? DISC. Nulla. MAG. An ideo non erit
+rectum ut significetur quod significari debet? DISC. Non
+idcirco minus erit rectum, aut minus hoc exiget rectitudo.
+MAG. Ergo non existente significatione, non perit
+rectitudo, qua rectum est, et qua exigitur, ut quod
+significandum est, significetur. DISC. Si interiisset,
+non esset rectum hoc, nec ipsa hoc exigeret. MAG.
+Putasne, cum significatur quod significari debet,
+significationem tunc rectam esse propter hanc et
+secundum hanc ipsam rectitudinem? DISC. Imo non
+<pb n="0485B"/>
+possum aliter cogitare. Si enim alia rectitudine
+recta est significatio; pereunte ista, nihil prohibet
+rectam esse significationem. Sed nulla est
+recta significatio, quae significat quod non est rectum
+significari, aut quod non exigit rectitudo. MAG. Nulla
+igitur significatio est recta alia rectitudine, quam
+illa quae permanet pereunte significatione. DISC.
+Palam est. MAG. An itaque non vides quia non ideo
+est rectitudo in significatione, quia tunc incipit
+esse, cum significatur esse quod est, vel non esse
+quod non est; sed quia significatio tunc fit secundum
+rectitudinem, quae semper est: nec ob hoc abest a
+significatione, quia perit, cum non sic ut debet, aut
+cum nulla sit significatio; sed quoniam tunc significatio
+deficit a non deficiente rectitudine? DISC. Sic
+<pb n="0485C"/>
+video, ut non possim non videre. MAG. Rectitudo
+ergo, qua significatio recta dicitur, non habet esse,
+aut aliquem motum, per significationem: quomodocunque
+moveatur ipsa significatio. DISC. Mihi
+nihil jam clarius. MAG. Potesne probare colorem
+similiter se habere ad corpus, quomodo rectitudo se
+habet ad significationem? DISC. Paratior nunc
+sum probare quia valde dissimiliter. MAG. Puto quia
+jam tibi notum est quid de voluntate et ejus rectitudine,
+et de aliis quae rectitudinem habere debent,
+sentiendum sit. DISC. Omnino video
+hac ipsa ratione probari, quoquo modo ipsa sint,
+rectitudinem immutabilem permanere. MAG. Quid
+itaque consequi existimas de ipsis rectitudinibus.
+<pb n="0486A"/>
+Sunt aliae ab invicem; aut est una et eadem omnium
+rectitudo. DISC. Supra concessi quia si ideo sunt
+plures rectitudines, quoniam plures sunt res in
+quibus considerantur, necesse est eas existere et variari
+secundum res ipsas: quod nequaquam fieri
+demonstratum est. Quapropter non ideo sunt plures
+rectitudines, quia plures sunt res, in quibus sunt.
+MAG. An habes aliquam aliam rationem, cur tibi
+plures esse videantur? praeter ipsam rerum pluralitatem?
+DISC. Sicut istam nullam esse cognosco; ita
+nullam aliam inveniri posse considero. MAG. Una
+igitur et eadem est omnium rectitudo. DISC. Sic me
+fateri necesse est. MAG. Amplius: Si rectitudo
+non est in rebus illis, quae debent rectitudinem, nisi
+cum sunt secundum quod debent, et hoc solum est
+<pb n="0486B"/>
+illis rectas esse, manifestum est earum omnium
+unam solam esse rectitudinem. DISC. Non potest
+negari. MAG. Una igitur in omnibus illis est veritas.
+DISC. Et hoc negari impossibile est: sed tamen
+ostende mihi cur dicimus hujus vel illius rei veritatem,
+velut ad distinguendas veritatum differentias,
+si nullam ab ipsis rebus assumunt diversitatem?
+Multi namque vix concedent nullam esse
+differentiam inter veritatem voluntatis, et eam quae
+dicitur actionis, aut alicujus aliorum. MAG. Improprie
+hujus, vel illius rei esse dicitur; quoniam illa
+non in ipsis rebus, aut ex ipsis, aut per ipsas, in
+quibus esse dicitur, habet suum esse: sed cum res
+ipsae secundum illam sunt, quae semper praesto est
+his quae sunt sicut debent, tunc dicitur hujus vel
+<pb n="0486C"/>
+illius rei veritas: ut veritas vocis, actionis, voluntatis
+; quemadmodum dicitur tempus hujus, vel
+illius rei, cum unum et idem sit tempus omnium,
+quae sunt in eodem tempore simul. Et si non esset
+haec vel illa res, non minus esset idem tempus: non
+enim dicitur ideo tempus hujus vel illius rei, quia
+tempus est in ipsis rebus; sed quia ipsae sunt in
+tempore. Et sicut tempus per se consideratum non
+dicitur tempus alicujus, sed cum res, quae in illo
+sunt, consideramus, dicimus tempus hujus vel illius
+rei; ita summa veritas per se subsistens nullius rei
+est: sed cum aliquid secundum illam est, tunc ejus
+dicitur veritas, vel rectitudo.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+{
+  "id": "anselm-de-veritate",
+  "cover": "classic",
+  "name": {
+    "la": "De veritate",
+    "en-US": "On Truth",
+    "pt-BR": "Sobre a verdade"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Dialogus de veritate: quid sit veritas in enuntiatione, in opinione, in voluntate, in actione, in sensibus et in ipsa rerum essentia, et quod una sit veritas in omnibus veris. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s dialogue between teacher and student on truth as rightness: truth in statements, opinion, will, action, the senses and the essence of things, and the one Truth in all true things. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR, with the chapter divisions of Migne.",
+    "pt-BR": "O diálogo de Anselmo entre mestre e discípulo sobre a verdade como retidão: a verdade no enunciado, na opinião, na vontade, na ação, nos sentidos e na essência das coisas, e a Verdade una em todas as coisas verdadeiras."
+  },
+  "composed": "c. 1080-1085",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-veritate",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10619",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10619, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. Dialogue turns are set as separate paragraphs. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quod veritas non habeat principium, vel finem"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De veritate significationis, et de duabus veritatibus enuntiationis"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De veritate opinionis"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De veritate voluntatis"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. De actionis naturalis et non naturalis veritate"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. De sensuum veritate, et quod falsitas, quae putatur esse in sensu, sit in opinione"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. De veritate essentiae rerum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. De diversis intellectibus, debere, et non debere; posse, et non posse"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Quod omnis actio significet aut verum aut falsum"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. De summa veritate"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. De veritatis diffinitione"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. De justitiae diffinitione"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quod una sit veritas in omnibus veris"
+      }
+    }
+  ]
+}
