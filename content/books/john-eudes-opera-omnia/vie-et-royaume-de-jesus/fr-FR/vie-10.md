@@ -1,151 +1,99 @@
-# Première partie (2): Exercice durant la journée
+# Première partie (3): Ce qu'il faut faire devant la confession
 
-## Exercice durant la journée
+## Pour la confession
 
-V I I . - Que Jésus est notre centre et notre paradis, et qu'il doit être notre unique
+## XIII.- Ce qu'il faut faire devant la confession
 
-## objet.(Bérulle, Opusc.pp.455-456, 441 et sq)
+C'est une chose très nécessaire, très sainte et très utile à la gloire de Dieu et à la sanctification des âmes chrétiennes, que le fréquent usage du sacrement de Pénitence, dont la confession est une partie, pourvu qu'on s'en approche avec les conditions qui sont requises. Mais c'est une chose déplorable de voir l'étrange abus que plusieurs font aujourd'hui de ce sacrement, qui venant aux pieds des prêtres pour y recevoir l'absolution de leurs fautes, n'en remportent que leur condamnation, d'autant qu'ils n'apportent pas les dispositions qui sont nécessaires à une véritable et solide pénitence. Ce qui est extrêmement à redouter, même pour ceux qui se confessent souvent, parce qu'il y a grand sujet de craindre qu'ils ne le fassent plutôt par routine que par un vrai esprit de pénitence, spécialement quand on ne voit aucun changement en leur vie et en leurs mœurs, ni aucun avancement dans les vertus chrétiennes. C'est pourquoi, d'autant plus que vous fréquentez ce sacrement, d'autant plus devez-vous avoir soin d'y apporter les préparations convenables. Pour cet effet vous avez trois choses à faire.
 
-Le premier et principal, voire l'unique objet du regard, de l'amour et de la complaisance du Père éternel, c'est son Fils Jésus. Je dis l'unique; car, comme ce Père divin a voulu que son Fils Jésus soit 154 L'âmese trouvant face à face avec le souverain Bien, pour lequel elle est faite, ne peut pas ne pas l'aimer. L'acte par lequel les bienheureux aiment Dieu n'est donc pas libre, c'est un acte nécessaire. Il en est de même de tous les actes inséparables de l'amour de Dieu. Cf. S.Th.I, 82, 1 et 2 et passim.
+1. Vous devez vous mettre à genoux aux pieds de Notre-Seigneur, en quelque lieu retiré, s'il est possible, pour le considérer et adorer dans la pénitence très rigoureuse, et dans la contrition et humiliation très profonde qu'il a portée de vos péchés durant toute sa vie, et spécialement au jardin des Olives; et pour le supplier instamment qu'il vous rende participant de son esprit de pénitence, et qu'il vous donne la grâce de connaître vos péchés, de les haïr et détester autant qu'il le désire, de les confesser clairement , d'y renoncer absolument, et de vous convertir parfaitement à lui, en renonçant à toutes les occasions du péché, et en vous servant des remèdes nécessaires pour la guérison des plaies de votre âme. A cette fin vous pourrez vous servir de la prière suivante, ou de quelque autre semblable.
 
-tout en toutes choses 155, et que toutes choses soient consistantes en lui 156 et par lui, selon la parole de son Apôtre; aussi il regarde et aime que lui en toutes choses. Et, comme ce même apôtre nous enseigne qu'il a fait toutes choses en lui et par lui 157, aussi il nous apprend qu'il a fait toutes choses pour lui
+O mon très cher Jésus, vous contemplant dans le jardin des Olives, à l'entrée de votre sainte Passion, je vous vois prosterné contre terre devant la face de votre Père, au nom de tous les pécheurs, comme vous étant chargé de tous les péchés du monde et des miens en particulier, que vous avec rendus vôtres en quelque manière, Je vois que par votre divine lumière vous vous mettez tous ces mêmes péchés devant les yeux, pour les confesser à votre Père au nom de tous les pécheurs, pour en porter l'humiliation et la contrition devant lui, et pour vous offrir à lui afin d'en faire la satisfaction et pénitence qu'il lui plaira. En suite de cette vue de l'horreur de mes crimes, et du déshonneur qui est rendu à votre Père par eux, je vous vois réduit, ô bon Jésus, dans une étrange agonie, dans une horrible tristesse, et dans une douleur et contrition si extrême, que la violence de la douleur rend votre bénite âme triste jusqu'à la mort, et vous fait suer jusqu'au sang en telle abondance que la terre en est toute baignée.
 
-158. Et, comme il a mis en lui tous les trésors de sa science et sagesse 159, de sa bonté et beauté, de sa gloire et félicité, et de toutes ses autres divines perfections; aussi lui-même nous annonce hautement et par plusieurs fois qu'il a mis toute sa complaisance et ses délices en ce Fils unique et bien aimé 160. Ce qui n'exclut pas néanmoins le Saint-Esprit, puisque c'est l'esprit de Jésus et qu'il n'est qu'un avec Jésus.
+O mon Sauveur, je vous adore, je vous aime et glorifie dans cet état et dans cet esprit de pénitence auquel votre amour et mes offenses vous ont réduit. Je me donne à vous pour entrer maintenant avec vous dans cet esprit. Faites-moi participant, s'il vous plaît, de cette lumière par laquelle vous avec pris connaissance de mes fautes, afin que je les connaisse pour m'en accuser et les détester. Faites-moi participant de l'humiliation et contrition que vous en avez portée devant votre Père, comme aussi de l'amour avec lequel vous vous êtes offert à lui pour en faire pénitence, et de la haine et horreur que vous avez du péché, et me donnez la grâce de faire cette confession avec une parfaite humilité, sincérité et repentance, et avec une ferme et puissante résolution de ne vous offenser plus à l'avenir.
 
-A l'imitation de ce Père céleste, que nous devons suivre et imiter comme notre Père, Jésus doit être l'unique objet de notre esprit et de notre cœur. Nous devons regarder et aimer toutes choses en lui, et nous ne rien regarder et aimer que lui en toutes choses. Nous devons faire toutes nos actions en lui et pour lui. Nous devons mettre tout notre contentement et notre paradis en lui; car, comme il est le paradis du Père éternel, dans lequel il prend sa complaisance, aussi ce Père saint nous l'a donné, et il s'est donné lui-même à nous pour être notre paradis. C'est pourquoi il nous commande de faire notre demeure dedans lui: «Manete in me:»Demeurez en moi 161.« Et son disciple bien-aimé nous réitère ce commandement par deux fois: Demeurez en lui, ce dit-il, mes petits enfants, demeurez en lui 162. Et saint Paul, pour nous porter à cela, nous assure qu'il n'y a point de damnation pour ceux qui demeurent en Jésus-Christ 163. Au contraire on peut bien dire que, hors de là, il n'y a que perdition, malédiction et enfer.
+169 Apoc.XIV, 13.
 
-Mais remarquez encore ici, s'il vous plaît, que, quand je dis que Jésus doit être notre unique objet, cela n'exclut pas le Père et le Saint-Esprit. Car ce même Jésus nous assurant que celui qui le voit, voit son Père 164;il s'ensuit que celui qui parle de lui, parle aussi de son Père et de son SaintEsprit; que celui qui l'honore et qui l'aime, honore et aime semblablement son Père et son SaintEsprit; et que celui qui le regarde comme son unique objet, regarde ensemblement le Père et le SaintEsprit.
+O Mère de Jésus, obtenez-moi, s'il vous plaît, ces grâces de votre Fils.
 
-Regardez donc ce très aimable Sauveur comme l'unique objet de vos pensées, désirs et affections; comme l'unique fin de toutes vos actions; comme votre centre, votre paradis et votre tout. De toutes parts retirez-vous en lui comme dans un lieu de refuge, par élévation d'esprit et de cœur vers lui. Demeurez toujours en lui, c'est-à-dire que votre esprit et votre cœur, toutes vos pensées, désirs et affections soient en lui, et que toutes vos actions soient faites en lui et pour lui, en la manière qui sera expliquée plus particulièrement en la sixième partie de ce livre.
+O mon saint Ange gardien, priez Notre-Seigneur pour moi, qu'il me donne la grâce de connaître mes péchés, de les bien confesser, d'en avoir une vraie contrition, et de me convertir parfaitement.
 
-Repassez souvent dans votre esprit cette sienne parole: Unum est necessarium 165: «une seule chose est nécessaire», à savoir de servir, aimer et glorifier Jésus. Considérez que, hors cela, tout le reste n'est que folie, tromperie, illusion, perte de temps, affliction de corps et d'esprit, néant, vanité, et vanité des vanités 166; que vous n'êtes en la terre que pour cette seule chose-là; que c'est la principale, la plus importante, la plus nécessaire, la plus pressée, voire l'unique affaire que vous ayez au monde; que ce doit être votre principal et unique soin; que toutes vos pensées, paroles et actions doivent tendre à cette fin. A raison de quoi vous devez avoir soin, au commencement de vos actions, spécialement des principales, de les offrir à Notre-Seigneur, lui protestant que vous les voulez faire pour sa pure gloire.
+2. Ayant fait cette prière, il faut vous examiner soigneusement, et tâcher de vous souvenir des péchés que vous avez commis depuis votre confession dernière; puis, les ayant reconnus, essayer de former en votre cœur un vrai regret, une parfaite repentance et contrition d'avoir offensé un si bon Dieu, lui demandant pardon de vos fautes, les détestant et y renonçant parce qu'elles lui déplaisent, prenant une ferme résolution de vous en séparer à l'avenir, moyennant sa grâce, d'en fuir toutes les occasions et de vous servir des moyens propres et efficaces pour parvenir à une véritable conversion, qui est ce en quoi consiste la contrition.
 
-155 Ephes. I, 23; Col.III, 11. 156 «Ipse est ante omnes, et omnia in ipso constant.» Col.I, 17. 157 « In ipso condita sunt universa in coelis et in terra, visibilia et invisibilia, sive throni, sive dominationes, sive principatus, sive potestates: omnia per ipsum et in ipso creata sunt.» Col.I, 16. 158 «Propter quem (Jesum) omnia et per quem omnia.» Heb. II, 10. 159 «In quo (Christo) sunt omnes thesauri sapientiae et scientiae absconditi.» Col.II, 3. 160 « Hic est Filius meus dilectus in quo mihi complacui.» Matth.,III, 17.Cf.Luc. III, 35; II Pet, I, 17. 161 Joan.XV, 4. 162 « Et sicut docuit vos, manete in eo. Et nunc, filioli, manete in eo; ut cum apparuerit, habeamus fiduciam, et non confundamur ab eo in adventu ejus.» I Joan. II, 27-28. 163 «Nihil ergo nunc damnationis est iis qui sunt in Christo Jesu, qui non secundum carnem ambulant.» Rom. VIII, 1. 164 « Philippe, qui videt me, videt et Patrem»". Joan, XIV, 9. 165 Luc.X, 42
+Mais, parce que cette même contrition est extrêmement nécessaire et importante, non seulement dans la confession, mais encore en plusieurs autres occasions, je désire vous faire voir plus particulièrement en quoi elle consiste, quand et comment il faut faire des actes de contrition; et ce sera après vous avoir dit la troisième chose requise pour la perfection de la confession, et ce qu'il faut faire après s'être confessé.
 
-vanitas...Vidi cuncta quae fiunt sub sole, et ecce universa vanitas et afflictio spiritus.» Eccl.I, 2, 14. Cf. etiam XII, 8, 13.
+3. La troisième chose que vous avez à faire pour faire une parfaite confession, est que vous alliez aux pieds du prêtre , comme de celui vous représente la personne et qui tient la place de JésusChrist; et que vous y alliez en qualité de criminel de lèse-majesté divine, avec un grand dessein de vous humilier et confondre, de prendre le parti de Dieu contre vous-même, comme contre son ennemi, en tant que pécheur, et de vous revêtir du zèle de sa justice contre le péché, et de la haine infinie qu'il lui porte; comme aussi avec une puissante résolution de confesser humblement, entièrement et clairement tous vos péchés, sans les déguiser, excuser, ni rejeter sur autrui, mais de vous en accuser comme si vous étiez à l'article de la mort. Car vous devez considérer qu'il vaut bien mieux dire ses péchés à l'oreille d'un prêtre , que d'en avoir la honte au jour du jugement devant tout le monde, et être damné pour jamais; et d'ailleurs que nous devons embrasser de bon cœur la peine et la confusion qu'il yaà confesser nos péchés, pour rendre hommage à la confusion et aux tourments que Notre-Seigneur Jésus-Christ a soufferts en la croix pour ces mêmes péchés, comme aussi pour glorifier ce même Seigneur par cette humiliation, nous souvenant que tant plus nous nous abaissons, tant plus il est exalté en nous.
 
-Si vous tombez en quelque faute, ne vous découragez pas, quand même vous y tomberiez plusieurs fois; mais humiliez-vous profondément devant Dieu dans votre propre esprit, et même quelquefois, si le lieu et le temps vous le permet, retirez-vous en quelque endroit pour vous mettre à genoux et lui demander pardon, essayant de former quelque acte de contrition, et suppliant Notre-Seigneur Jésus-Christ qu'il répare votre faute, qu'il vous donne nouvelle grâce et force pour vous garder d'y retomber, et qu'il imprime derechef en vous la résolution de plutôt mourir que de l'offenser.
+X I V . - Ce qu'il faut faire après la confession.
 
-Souvenez-vous de temps en temps, que vous êtes devant Dieu et dedans Dieu même 167; que Notre-Seigneur Jésus-Christ, selon sa divinité, vous environne de tous côtés, voire qu'il vous pénètre et vous remplit tellement qu'il est plus en vous que vous-même; qu'il pense continuellement à vous, et qu'il a toujours les yeux et le cœur tournés vers vous. Que cela vous excite à penser aussi à lui, sinon toujours, au moins à ne laisser pas écouler une heure entière sans élever votre esprit et votre cœur vers lui par quelqu'une des élévations suivantes, ou par quelques autres semblables qu'il plaira à son divin Esprit vous inspirer.
+Après vous être confessé, et avoir reçu le pardon de vos péchés par le moyen du sacrement de la Pénitence, ayez soin de remercier Notre-Seigneur de vous avoir fait une grâce si grande. Car lorsqu'il nous délivre de quelque péché, soit en nous gardant d'y tomber, soit en nous le pardonnant y étant tombés, quand ce ne serait que le moindre péché véniel du monde, il nous fait une plus grande grâce, et nous sommes plus obligés de l'en remercier, que s'il nous préservait ou délivrait de toutes les pestes, maladies et autres afflictions corporelles qui nous peuvent arriver. Remerciez-le donc en cette sorte et le priez qu'il vous préserve du péché pour l'avenir.
 
-## VIII.- Élévations à Jésus durant la journée
+Béni soyez-vous, ô bon Jésus; béni soyez-vous mille fois ! Que tous vos Anges, vos Saint et votre sainte Mère vous bénissent maintenant et à jamais, d'avoir établi dans votre Église le sacrement de la Pénitence, et de nous avoir donné un moyen si présent, si facile et si puissant pour effacer nos péchés et nous réconcilier avec vous! Béni soyez-vous pour toute la gloire qui vous a été et sera rendue jusqu'à la fin du monde par ce sacrement! Béni soyez-vous aussi pour toute la gloire que vous-même avez rendue à votre Père par la confession, s'il faut ainsi parler, que vous lui avez faite de nos péchés dans le jardin des Olives, et par l'humiliation, contrition et pénitence que vous en avez portée! O mon Sauveur, imprimez, s'il vous plaît, dedans moi une haine, une horreur et une crainte du péché, plus grande que tous les autres maux qui sont en la terre et en l'enfer, et faites que j e meure plutôt mille fois que de vous offenser pour l'avenir.
 
-O Jésus! ô bon Jésus! ô l'unique de mon cœur! ô le bien-aimé de mon âme!
+X V . - Ce que c'est que la contrition.
 
-O l'objet de tous mes amours, quand sera-ce que je vous aimerai parfaitement?
+La contrition est une chose si puissante, si sainte et si aimable, qu'un seul vrai acte de contrition est capable d'effacer mille péchés mortels, s'ils étaient dans une âme. Or voici en quoi elle consiste.
 
-O mon divin soleil, illuminez les ténèbres de mon esprit, embrassez les froidures de mon cœur!
+La contrition, c'est un acte de haine et d'horreur, de douleur et de repentance au regard du péché qu'on a commis, à cause qu'il déplaît à Dieu; c'est-à-dire, c'est un acte de notre volonté, par lequel nous protestons à Dieu que nous voulons haïr et détester nos péchés, que nous sommes marris de les avoir commis, et que nous y renonçons et avons désir de nous en séparer, non pas tant pour la considération de notre propre intérêt que pour celle du sien. Je veux dire, non pas tant à cause du mal, du tort et du dommage que nous nous sommes fait à nous-même par nos péchés, qu'à cause de l'injure, du déshonneur, des grands tourments et de la mort très cruelle que nous avons fait souffrir à NotreSeigneur par ces mêmes péchés.
 
-O lumière de mes yeux, que je vous connaisse et que je me connaisse, afin que je vous aime et que je me haïsse!
+En suite de quoi il est à remarquer qu'encore qu'il soit vrai que la moindre offense faite contre une bonté infinie est si détestable, que quand nous pleurerions jusqu'au jour du jugement, ou que nous mourrions de douleur pour la plus petite de nos fautes, ce serait encore trop peu; néanmoins il n'est pas nécessaire absolument, pour avoir une vraie contrition, de répandre des larmes, ni de concevoir une douleur sensible ou un sentiment douloureux de ses péchés. Car la contrition étant un acte spirituel et intérieur de la volonté, qui est une puissance spirituelle et non sensible de notre âme, on peut faire un acte de contrition sans avoir aucune douleur sensible; d'autant qu'il suffit de protester à Notre-Seigneur, d'une véritable volonté, que nous voulons haïr et détester nos péchés, et nous en séparer pour l'avenir, à cause qu'ils lui déplaisent, et que nous avons le désir de nous en confesser à la première confession que nous ferons.
 
-O ma douce lumière, faites que je voie clairement que tout ce qui n'est point vous n'est que néant, tromperie et vanité!
+Remarquez aussi que la contrition est un don de Dieu et un effet de la grâce à raison de quoi, quand vous sauriez très bien en quoi elle consiste, et que vous emploieriez toutes les forces de votre esprit et de votre volonté pour en produire quelque acte, vous ne le pourriez jamais faire, si le Saint Esprit ne vous en donnait la grâce. Mais ce qui vous doit consoler, c'est qu'il ne vous la refusera pas, si vous la lui demandez avec humilité, confiance et persévérance, et que vous n'attendiez pas l'heure de la mort à la lui demander; car d'ordinaire elle est refusée, à cette heure-là, à ceux qui l'ont négligée durant leur vie.
 
-O mon Dieu et mon tout, séparez-moi de tout ce qui n'est point vous, pour m'unir tout à vous!
+Notez encore que, pour avoir une véritable contrition, quatre autres choses sont nécessaires, dont la première est de rendre au plus tôt le bien d'autrui, quand on l'a et qu'on le peut rendre, même en s'incommodant, et de faire restitution de sa renommée quand on [la] lui a ravie par quelque calomnie ou médisance.
 
-O mon cher Tout, soyez-moi tout, et que tout le reste ne me soit plus rien!
+La seconde, de faire de son côté tout ce qu'on peut pour se réconcilier à ceux avec lesquels on est en discorde.
 
-O mon Jésus, soyez-moi Jésus!
+La troisième, d'avoir une volonté ferme et constante, non seulement de confesser ses péchés et d'y renoncer, mais aussi d'employer les remèdes et les moyens nécessaires pour vaincre ses mauvaises habitudes, et pour commencer une vie vraiment chrétienne.
 
-O la Vie de mon âme, ô le Roi de mes amours, vivez et régnez en moi parfaitement!
+La quatrième, de quitter effectivement toutes les occasions, tant actives que passives du péché, c'est-à-dire tant celles qu'on donne aux autres d'offenser Dieu, que celles par lesquelles on est porté à l'offenser: telles que sont aux concubinaires et adultères leurs vilaines; aux ivrognes les tavernes; aux joueurs et blasphémateurs les jeux, quand ils ont coutume d'y jurer et blasphémer, ou d'y perdre beaucoup de temps ou d'argent; aux femmes et aux filles la nudité de leurs gorges, ou leur trop grande curiosité et vanité en leurs cheveux et habits, et à plusieurs autres les méchants livres, les vilains tableaux, les bals, les danses, les comédies, la fréquentation de certains lieux, de certaines compagnies ou de certaines personnes; comme aussi certaines professions et offices qu'on ne peut exercer sans péché. Car, lorsque le Fils de Dieu nous dit: Si ta main, ou ton pied, ou ton oeil te scandalisent, coupe-les arrache-les et les jette bien loin de toi, parce qu'il vaut mieux que tu entres dans le ciel avec une main, ou un pied, ou un oeil seulement, que non pas être précipité dans l'enfer ayant deux mains, ou deux pieds, ou deux yeux 170, c'est un commandement absolu qu'il nous fait sous peine d'une damnation éternelle, selon l'explication des saints Pères, de retrancher de nous et de quitter entièrement toutes les choses qui sont occasion de ruine pour nous ou pour autrui, même celles qui de soi ne sont mauvaises, comme certaines professions et offices, quand on ne peut néanmoins les exercer sans péché, et celles qui nous sont extrêmement conjointes, chères et précieuses, lorsqu'elles nous sont occasion de perdition.
 
-Vive Jésus, vive le Roi de mon cœur, vive la Vie de ma vie, et qu'il soit à jamais aimé et glorifié par tout et en toutes choses!
+On peut faire des actes de contrition en tout temps, et en toute occasion, mais spécialement on en doit faire:
 
-O feu divin, feu immense, qui êtes partout, feu consommant et dévorant, que ne me consommezvous tout dans vos flammes sacrées?
+1. Lorsqu'on va à confesse, car la contrition ( ou tout au moins l'attrition qui est une contrition imparfaite ) est une partie nécessaire à la Pénitence. C'est pourquoi j'ai dit par ci-devant, et le dis 170« Si autem manus tua vel pes tuus scandalizat te, abscide eum et projice abs te: bonum tibi est ab vitam ingredi debilem vel claudium, quam duas manus vel duos pedes habentem mitti in ignem aeternum. Et si oculus tuus scandalizat te, erue eum et projice abs te: bonum tibi est cum uno oculo in vitam intrare, quam duos oculos habentem mitti in gehennam ignis. » Math. XVIII, 8. encore, qu'il faut avoir un grand soin auparavant que de se confesser, après s'être examiné, de demander à Dieu la contrition, et ensuite tâcher d'en former des actes.
 
-O feux, ô flammes célestes, venez fondre sur moi, et me transformez tout en une pure flamme d'amour vers mon Jésus!
+## 2. Lorsqu'on est tombé en quelque péché, afin de se relever tout aussitôt par le moyen de la contrition
 
-O Jésus, vous êtes tout feu et tout flamme d'amour vers moi: eh que ne suis-je tout flamme et tout feu d'amours vers vous!
+3. Le matin et le soir, afin que, si on a commis quelques péchés durant la nuit et durant le jour , ils soient effacés par la contrition, et qu'ainsi on se conserve toujours en la grâce de Dieu. C'est pourquoi je vous ai marqué plusieurs actes de contrition dans l'exercice du soir, en suite de l'examen.
 
-O Jésus, vous êtes tout à moi: que je sois tout à vous pour jamais!
+Mais outre cela, afin de vous faciliter d'avantage le moyen et la manière de pratiquer une chose si nécessaire et si importante, et dont nous avons besoin à toute heure, j'ai ajouté encore ici plusieurs actes de contrition en diverses manières, desquels vous pourrez faire usage, vous servant tantôt de l'un, tantôt de l'autre, selon le mouvement et la conduite de l'esprit de Dieu.
 
-Ah! le Dieu de mon cœur! Ah! l'unique partage de mon âme, que veux-je au ciel et en la terre sinon vous?
+Mais ne vous trompez pas, vous imaginant que, pour avoir la contrition de vos péchés, i l suffise de lire et prononcer avec attention les actes qui sont couchés en ce livre, ou en d'autres semblables; car, outre qu'il est nécessaire que la vraie contrition soit accompagnée des conditions susdites, vous devez principalement vous souvenir qu'il vous est impossible d'en produire aucun acte, sans une grâce particulière de Dieu. Et partant, lorsque vous désirez entrer dans une véritable repentance et contrition de vos fautes, ayez soin de prier Notre-Seigneur qu'il vous en donne la grâce, en cette façon.
 
-O unum necessarium! Unum quaera, unum desidero, unum volo, unum mihi est necessarium, Jesus meus, et omnia! O un nécessaire! C'est cet un que je cherche, c'est cet un que je désire, c'est cet un que je veux, c'est cet un qui m'est nécessaire, mon Jésus, qui est toutes choses, et hors lequel tout n'est rien.
+X V I . - Pour demander à Dieu la contrition.
 
-Veni, Domine Jesu! Venez, ô seigneur Jésus, venez dans mon cœur et dans mon âme, pour vous y aimer vous-même parfaitement.
+O bon Jésus, je désire avoir toute la contrition et repentance de mes péchés que vous désirez que j'aie; mais vous savez que je ne puis l'avoir si vous ne me la donnez. Donnez-la moi donc, s'il vous plaît , mon Sauveur, par votre très grande miséricorde. Je sais bien, que je suis très indigne d'être regardé et exaucé de vous; mais j'ai confiance en votre infinie bonté, que vous m'accorderez ce que je vous demande très instamment, par les mérites de votre sainte Passion, de votre sainte Mère, de tous vos Anges et de tous vos Saints.
 
-Hé Jésus, quand sera-ce qu'il n'y aura plus rien en moi qui soi contraire à votre saint amour?
+O Mère de Jésus, ô saints Anges, ô bienheureux Saints et Saintes, priez Jésus pour moi, qu'il me donne une parfaite repentance de mes péchés.
 
-O Mère de Jésus, montrez que vous êtes Mère de Jésus, en le formant et faisant vivre dans mon âme!
+Ensuite de cela, essayez de produire des actes de contrition, en quelqu'une des manières suivantes.
 
-O Mère d'amour, aimez votre Fils pour moi!
+## XVII.- Actes de contrition
 
-O bon Jésus, rendez-vous à vous-même au centuple tout l'amour que j'aurais dû vous rendre en toute ma vie, et que toutes vos créatures vous devraient rendre!
+O mon très aimable Jésus, je veux haïr et détester mes péchés pour l'amour de vous.
 
-O Jésus, je vous offre tout l'amour du ciel et de la terre!
+O mon Sauveur, je renonce pour jamais à tout péché, parce qu'il vous déplaît.
 
-O Jésus, je vous donne mon cœur, remplissez-le de votre saint amour!
+O mon Jésus, je veux haïr et avoir en horreur mes offenses, à cause de l'injure et du déshonneur que je vous ai fait par icelles.
 
-O Jésus, que tous mes pas rendent hommage aux pas que vous avez faits sur la terre!
+O mon Dieu, à la mienne volonté 171 ne vous avoir jamais offensé, parce que vous êtes digne de tout honneur et amour.
 
-O Jésus, que toutes mes pensées soient consacrées à l'honneur de vos saintes pensées!
+O mon Seigneur, je veux avoir toute la contrition que vous voulez que j'aie de mes péchés.
 
-167 «Non longe est ab unoquoque nostrum. In ipso enim vivimus, et movemur, et sumus.» Act. XVII, 27-28.Cf.Jerem, XXIII, 23-24.
+O mon Dieu, à ma volonté avoir en moi toute la douleur et contrition que tous les saints pénitents ont jamais eue de leurs péchés.
 
-O Jésus, que toutes mes paroles rendent hommage à vos saintes paroles!
+O bon Jésus, faites-moi participant de la contrition que vous-même avez portée de mes péchés: car je désire avoir la même contrition que vous en avez portée, autant qu'il m'est possible.
 
-O Jésus, que toutes mes actions rendent gloire à vos divines actions!
+O Père de Jésus, je vous offre la contrition et pénitence que votre Fils bien-aimé a portée de mes péchés, me joignant à cette même contrition.
 
-O ma Gloire, que je sois tout sacrifié à votre gloire éternellement!
+O très aimable Jésus, que je haïsse et que j'aie en horreur mes péchés, parce qu'ils ont été la cause des tourments et de la mort que vous avez soufferte en la croix.
 
-O mon Tout, je renonce à tout ce qui n'est point vous, et me donne tout à vous pour jamais.
+O mon Dieu, je veux haïr mes péchés de la même haine de laquelle vos Anges et vous Sains les haïssent.
 
-## Je ne veux rien, et je veux toute chose,
+O mon Dieu, je veux haïr et détester mes péchés comme vous-même les haïssez et détestez.
 
-## Jésus m'est tout, sans lui tout ne m'est rien
+171 Ala mienne volonté, tournure vieillie qu'on employait pour exprimer un vœu, un souhait. « A la mienne volonté que je n'eusse jamais péché..» S. François de Sales, Traité de l'amour de Dieu, liv.1, ch.7.
 
-## Otez-moi tout, donnez-moi ce seul bien,
+Vous pouvez encore faire un acte de contrition, en frappant votre poitrine, comme ce pauvre publicain de l'Évangile, et disant avec lui: Deus, propitius esto mihi peccatori 172: « O Dieu, soyez propice à moi pécheur»; mais désirant de faire et de dire cela dans la même contrition avec laquelle i l faisait et disait ces mêmes choses, et en vertu de laquelle il s'en retourna justifié en sa maison, selon le témoignage même du Fils de Dieu.
 
-## Et j'aurai tout, n'ayant aucune chose
-
-## Exercice pour le soir
-
-Il n'est pas moins important de bien finir que de bien commencer la journée, et de consacrer spécialement à Dieu les dernières actions de chaque jour aussi bien que les premières. Pour cet effet, ayez soin le soir, auparavant que de prendre votre repos, de vous mettre à genoux au moins l'espace d'un quart d'heure, afin de remercier Dieu des grâces qu'il vous a faites durant la journée, de faire votre examen de conscience, et de vous offrir à lui derechef par les exercices et pratiques suivantes.
-
-I X . - Exercice de remerciement.
-
-O Jésus, mon Seigneur, je vous adore comme celui qui êtes le principe et la source, avec votre Père et votre Saint-Esprit, de tout ce qu'il y a de bon, de saint et de parfait au ciel et en la terre, en l'ordre de nature, de grâce et de gloire. Je vous réfère tous les dons et tous les biens célestes et terrestres, temporels et éternels, qui sont jamais procédés de vous, spécialement en ce jour, dans la terre et dans le ciel.
-
-Je vous bénis et remercie infinies fois, pour tout ce que vous êtes en vous-même, et pour tous les effets de bonté que vous avez jamais opérés, spécialement en ce jour, au regard de toutes vos créatures; mais plus particulièrement pour ceux que vous avez opérés au regard de moi, la plus chétive de vos créatures, et que vous avez dessein de toute éternité d'y opérer.
-
-Je vous offre tout l'amour et les louanges qui vous ont été jamais rendues, mais spécialement celles qui vous ont été rendues aujourd'hui au ciel en la terre. Que tous vos Anges, tous vos Saints, toutes vos créatures et toutes les puissances de votre divinité et de votre humanité vous bénissent éternellement.
-
-## X.- Exercice touchant l'examen de conscience
-
-O Seigneur Jésus, je vous adore comme souverain Juge; je me soumets très volontiers à la puissance que vous avez de me juger, et je suis bien aise que vous ayez ce pouvoir sur moi. Faitesmoi participant, s'il vous plaît, de la lumière par laquelle vous me ferez voir mes péchés, lorsque j e comparaîtrai devant votre tribunal à l'heure de la mort, afin que dans la clarté de cette lumière j e puisse connaître les péchés que j'ai commis contre votre divine Majesté. Faites-moi aussi participant du zèle de votre divine Justice, et de la haine que vous portez au péché, afin que je haïsse mes péchés comme vous les haïssez.
-
-Après cela, faites brièvement une revue sur toute la journée, pour voir en quoi vous avez offensé Dieu; et ayant reconnu les péchés que vous avez commis, accusez-vous-en devant lui, et lui en demandez pardon, formant des actes de contrition en cette façon.
-
-X I . - Actes de contrition pour le soir.
-
-O Mon Sauveur, je m'accuse devant vous, devant tous vos Anges et vos Saints, de tous les péchés que j'ai commis en toute ma vie, et particulièrement en cette journée, contre votre divine Majesté. Je vous supplie, mon Seigneur, par votre très grande miséricorde, par le précieux sang que vous avez répandu pour moi, et par les prières et mérites de votre très sainte Mère et de tous vos Anges et Saints, que vous me donniez maintenant la grâce d'en concevoir une parfaite contrition et repentance.
-
-O mon Dieu, je déteste ces miens péchés de tout mon cœur de toute l'étendue de ma volonté; et je les déteste à cause de l'offense, de l'injure et du déshonneur que vous ai rendus par eux. Je les haïs parce que vous les haïssez, et parce qu'il vous sont infiniment désagréables. O bon Jésus, ces miens péchés ont été cause de vous faire souffrir les tourments les plus atroces qui aient jamais été soufferts, de vous faire répandre votre sang jusqu'à la dernière goutte, et de vous faire mourir de la mort la plus cruelle de toutes les morts. C'est à cause de cela, mon bon Sauveur que je les ai en horreur, et que j'y renonce pour jamais. Oh! qui me donnera toute la douleur et contrition d'un saint Pierre, d'une sainte Madeleine et de tous saints pénitents, pour pleurer les offenses que j'ai faites contre mon Dieu, avec tant de sentiment et de regret comme ils ont pleuré les leurs! Oh! qui fera que je haïsse autant mes iniquités, comme les Anges et les Saints les haïssent!
-
-Oh! s'il était possible, mon Dieu, que j'eusse autant d'horreur de mes péchés comme vousmême en avez! Mon Seigneur, que je les déteste comme vous les détestez, que je les aie en horreur comme vous les avez en horreur, et que j'aie en abomination tout ce qui vous est désagréable!
-
-O mon très aimable Seigneur, que je meure plutôt mille fois, s'il était possible, que de vous offenser désormais mortellement, voire même que de vous offenser en quelque manière que ce soit, de volonté délibérée! Je proteste, moyennant votre grâce, que je m'accuserai de tous mes péchés en la première confession que je ferai, et que j'ai une ferme résolution de m'en séparer à l'avenir pour l'amour de vous. O mon Dieu, oui, de tout mon cœur, je renonce pour jamais à toute sorte de péché, et je m'offre à vous pour faire et souffrir tout ce qu'il vous plaira en satisfaction de mes offenses; acceptant de bon cœur dès maintenant, par hommage à votre divine justice, toutes les peines et pénitences qu'il vous plaira m'imposer, soit en ce monde, soit en l'autre, en expiration de mes fautes, et vous offrant, en satisfaction du déshonneur que je vous ai rendu par mes péchés, toute la gloire qui vous a été donnée aujourd'hui par vous-même, par votre sacrée Mère, par vos Anges, par vos Saints et par toutes les saintes âmes qui sont en la terre.
-
-O bon Jésus, je me donne tout à vous: anéantissez en moi tout ce qui vous déplaît; réparez pour moi les offenses que j'ai commises au regard de votre Père éternel, de vous, de votre Saint-Esprit, de votre bienheureuse Mère, de vos Anges, de vos Saints et de toutes vos créatures; et me donnez force et grâce pour ne vous offenser jamais.
-
-O Anges de Jésus, Saints et Saintes de Jésus, Mère de Jésus, suppléez, s'il vous plaît, à mes défauts; réparez pour moi le déshonneur que j'ai rendu à mon Dieu par mes péchés, et lui rendez au centuple tout l'amour et la gloire que j'aurais dû lui rendre en ce jour et en toute ma vie.
-
-O Mère de Jésus, Mère de miséricorde, priez votre Fils qu'il me fasse miséricorde. Mère de grâce, priez votre Fils qu'il me donne grâce pour ne l'offenser plus, et pour le servir et aimer fidèlement.
-
-O bienheureux saint Joseph, ô mon saint Ange gardien, ô bienheureux saint Jean, bienheureuse sainte Madeleine, intercédez pour moi, afin que j'obtienne miséricorde et grâce pour être plus fidèle à mon Dieu. Pater, Ave, Credo. X I I . - Pour offrir votre repos à Jésus.
-
-O Jésus, je vous offre ce repos que je vais prendre, en l'honneur du repos éternel que vous avez dans le sein de votre Père, et en hommage du dormir et du repos temporel que vous avez pris, tant dans le sein de votre Mère, que durant le temps que vous avez été en la terre.
-
-Je vous offre toutes les respirations que je ferai durant cette nuit, tous les battements de mon cœur et de mes veines, désirant que ce soient autant d'actes de louange et d'adoration vers vous. Je me joins à toutes les louanges qui vous seront rendues durant cette nuit et à jamais au ciel et en la terre. Et je supplie tous vos Anges et vos Saints, votre bienheureuse Mère, et vous-même, de vous aimer et glorifier pour moi durant cette nuit et à toute éternité.
-
-Après cela, en vous couchant, il faut faire le signe de la croix; et étant couché, dire la dernière prière que Jésus a faite à son Père au dernier moment de sa vie, à savoir: Pater, in manus tuas commendo spiritum meum 168: «O Seigneur Jésus, je recommande mon esprit entre vos mains»; et en parlant à Jésus: In manus tuas, Domine Jesu, commendo spiritum meum: «O Seigneur Jésus, j e recommande mon esprit entre vos mains.» Et il faut dire cette prière pour la dernière heure de votre vie, et tacher de la dire avec la même dévotion avec laquelle vous la voudriez dire, si vous étiez en cette dernière heure. Et pour cet effet, il faut désirer de la dire, autant qu'il se peut, avec l'amour, l'humilité, la confiance et toutes les dispositions saintes et divines avec lesquelles Jésus l'a dite; vous unissant dès maintenant pour l'heure de votre mort à ces dernières dispositions avec 168 Luc,XXIII, 46.Cf. Ps XXX, 6.
-
-lesquelles Jésus a fini sa vie en disant cette prière, et le priant qu'il les imprime en vous, et qu'il vous les conserve pour la dernière heure de votre vie, afin que par ce moyen vous mouriez en Jésus, c'està-dire dans les dispositions saintes et divines dans lesquelles Jésus est mort, et qu'ainsi vous soyez de ceux desquels il est écrit: Beati mortui qui in Domino moriuntur 169:«Bienheureux les morts qui meurent au Seigneur.»
-
-Enfin, ayez soin que la dernière action que vous ferez devant que de vous endormir, soit le signe de la croix: que la dernière pensée que vous aurez, soit de Jésus; que le dernier acte intérieur que vous ferez, soit un acte d'amour vers Jésus; et que la dernière parole que vous direz, soit le saint nom de Jésus et de Marie, afin de mériter par là que les dernières paroles que vous direz en votre vie, soient celles-ci: Jesus, Maria! Vive Jésus et Marie! O bon Jésus, soyez-moi Jésus! O Marie, mère de Jésus, soyez mère de mon âme !
-
----
-
-*Notes de l’éditeur (Œuvres complètes, 1905–11)*
-
-166 «Vanitas vanitatum, dixit Ecclesiastes; vanitas vanitatum et omnia
+Voilà divers actes de contrition dont le moindre est capable d'effacer toutes sortes de péchés, pourvu qu'il soit prononcé, soit de bouche, soit de cœur seulement, avec une véritable volonté, mue par l'opération de la grâce, et avec une ferme résolution de quitter le péché et les occasions du péché, de s'en confesser et d'effectuer au plus tôt les autres conditions marquées ci-dessus.
