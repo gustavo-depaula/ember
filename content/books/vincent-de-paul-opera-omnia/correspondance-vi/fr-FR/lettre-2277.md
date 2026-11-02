@@ -1,0 +1,29 @@
+# Lettre 2277. Jean Martin, Supérieur à Turin, à Saint Vincent
+
+Savigliano, 7 juin 1657.
+
+Monsieur,
+
+Nous sommes maintenant au plus fort de cette mission, qui est une des plus grandes que nous ayons encore faites en ce pays ; à laquelle Dieu donne une particulière bénédiction, nonobstant la pauvreté des ouvriers et leur petit nombre. Nous avons sur les bras un grand lieu, dont les habitants ne traitent présentement d’autre chose que de faire pénitence et de se convertir ; et ce qui m’étonne davantage est que presque tous les religieux de cinq ou six couvents assistent aux prédications, tous les prêtres font leurs confessions générales et toute la noblesse, qui est fort nombreuse, ne pense à autre chose qu’à se mettre dans une sincère disposition d’une véritable pénitence ; de sorte que nous avons été obligés de prier tous ces bons religieux de nous aider à confesser, et même d’appeler pour la même fin du secours de la ville de Turin. La providence de Dieu nous a envoyés en ce lieu en un temps auquel les soldats qui y avaient fait leurs quartiers d’hiver devaient en partir pour aller à l’armée, ce qui leur a donné moyen avant leur départ, et particulièrement à plusieurs capitaines et soldats français, d’assister aux prédications et catéchismes pendant une semaine Il y en a eu un assez grand nombre qui ont fait leurs confessions générales avec des sentiments tout extraordinaires, devant que de s’aller exposer aux dangers de la guerre. Il faut que je confesse que je ne me souviens point avoir eu en ma vie une telle consolation, que celle que j’ai ressentie, voyant des gens de cette profession, qui depuis plusieurs années n’avaient point approché des sacrements, fondre en larmes aux pieds de leurs confesseurs en prendre des résolutions vraiment chrétiennes et fort extraordinaires à des personnes qui portent les armes. Ce sont des effets tout singuliers de la miséricorde de Dieu, dont j’espère que vous aurez la charité de nous aider à lui rendre grâces.
+
+2278. *—* A GUILLAUME DESDAMES
+
+De Paris, ce 8e de juin 1657.
+
+Monsieur,
+
+La grâce de N.-S. soit avec vous pour jamais !
+
+Il y a longtemps que je n’ai pas reçu de vos lettres, mais je n’en suis pas en peine, sachant les empêchements que vous avez pour écrire, et apprenant de vos nouvelles par M. Ozenne, qui me mande tout ce qu’il en sait. Béni soit Dieu, Monsieur, de toutes ses conduites sur vous, qui sont extraordinaires, et de ce que les vôtres sont si bonnes, par sa miséricorde, qu’il n’y a personne qui n’en soit édifié ! Je vous avoue que notre compagnie l’est autant qu’elle le puisse être de la vie d’un vrai missionnaire ; et pour moi, j’en ai une consolation des plus sensibles que j’aie jamais eues. Vous pouvez penser de quel cœur nous remercions Dieu d’une telle grâce, et quels sont les sentiments d’estime et de tendresse que nous avons pour vous, en la vue de votre patience et de votre fidélité. Mais, d’un autre côté, Monieur, Dieu sait l’affliction où nous sommes des agitations que vous souffrez et en votre corps et en votre esprit, et en vos exercices et en vos paroissiens, par craintes, troubles, persécutions, outrages, travaux, pauvreté et compassion, qui vous pressent de toutes parts et qui nous percent l’âme de douleur, autant de fois qu’on nous mande les dangers auxquels vous êtes exposé, et que la charité de Dieu et le zèle d’un vigilant pasteur vous font supporter avec tant de courage et de fermeté. Plaise à l’infinie bonté de Dieu de se glorifier de la force et de la confiance qu’il vous donne en lui, de vous établir de plus en plus dans son esprit pour agir toujours selon ses opérations, de vous conduire de vertu en vertu pour vous faire enfin arriver à l’état de perfection où sa bonté vous appelle, comme aussi, Monsieur, de donner le calme à la pauvre Pologne agitée et la première vigueur à l’Église souffrante et languissante ! Ce sont les prières que nous lui faisons incessamment et que nous continuerons de faire, Dieu aidant, tant que les choses seront en l’état présent. Je vous prie, au nom de N.-S., Monsieur, de veiller à votre propre conservation d’un soin particulier, de ne vous laisser manquer d’aucune chose nécessaire, de prendre de l’argent, si vous en trouvez, ou de quelque marchand, ou de quelque Français, qui le veuille recevoir en France, où nous le rendrons ; si vous n’en trouvez pas, recourez à M. Ozenne, qui en trouvera plus facilement et qui a charge de nous de vous en fournir. J’avais grande peine de vous savoir seul, aussi bien que de voir M. Duperroy obligé de s’en éloigner pour un mal qui semble incurable ; néanmoins je viens d’apprendre deux choses qui diminuent ma crainte : la première est qu’il y a quelque espérance que ce bon serviteur de Dieu guérira ; et la seconde, que le séminariste qui vous avait quitté est revenu à vous, et qu’en effet il vous soulage dans le service de la paroisse, dont je rends grâces à Dieu. J’espère certes que sa providence adorable pourvoira à tous vos besoins et qu’il sera pendant toute l’éternité votre grande récompense pour tous les services que vous lui rendez et les bons exemples que vous donnez à la compagnie, laquelle je recommande à vos prières, et je m’y recommande moi-même.
+
+Elle va toujours son petit train. Nous n’avons rien de nouveau qui soit considérable, sinon que la peste est fort échauffée à Gênes, et que la ville a pris notre maison pour y mettre ceux qui seront suspects de cette maladie, et ordonné à nos gens de se loger ailleurs. Dieu veuille avoir pitié de nous !
+
+Je suis, en son amour, Monsieur, votre très humble et affectionné serviteur.
+
+VINCENT DEPAUL, i. p. d. l. M.
+
+Suscription : A Monsieur Monsieur Desdames, prêtre de la Mission, à Varsovie. [^1] [^2]
+
+[^1]: - Abelly, *op. cit, *1*. *Il, chap. I, sect. VI. p. 83. Le biographe de Jean Martin reproduit le même extrait *(Notices *t. I p. 287), avec de notables variantes.
+
+[^2]: L. s — Dossier de Cracovie, original

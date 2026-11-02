@@ -1,0 +1,5 @@
+# Lettre 2151. À Etienne Blatiron, Supérieur, à Gênes
+
+Du 29 septembre 1656.
+
+Je renouvelle la recommandation que je vous ai faite déjà plusieurs fois de veiller à votre propre conservation et à celle de la famille, autant qu’une prudente charité vous le permettra. Si Monseigneur le cardinal ordonne que quelqu’un des vôtres s’expose pour le salut des malades, à la bonne heure. La volonté de Dieu vous sera par ce moyen connue. Mais, hors cela, contentez-vous de vous offrir en esprit à sa divine bonté pour tout ce qu’il lui plaira, sans demander à d’autres d’être employés à ce service dangereux, pour lequel j’estime qu’on trouvera assez d’autres prêtres et religieux. Quoi qu’il en soit, je suis plein de confiance que Dieu vous conservera et que vous y contribuerez de tout votre pouvoir. Que s’il plaisait à Dieu de nous affliger de quelque effet contraire et de faire un hôpital de votre maison, ainsi qu’on propose, nous eh bénirons son saint nom et tâcherons de nous tenir en paix par une humble soumission à sa conduite, qui, étant toute bonne et toute sage, fera que tout tournera à un plus grand bien.

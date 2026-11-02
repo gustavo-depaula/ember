@@ -1,0 +1,9 @@
+# Lettre 2200. Jean Martin, à Saint Vincent
+
+3 février 1657.
+
+Nous sommes, par la miséricorde de Dieu, retournés de la Mission de Raconi [^1], où il a plu à sa bonté de nous conserver en assez bonne disposition pendant six semaines de travail continuel, au sortir d’une autre mission, qui nous avait déjà fort fatigués. Nous n’eussions pas osé entreprendre cette seconde en un lieu qui est le plus peuplé de tout le Piémont, si M. l’archevêque de Turin ne nous l’eût ordonné, sur les grandes instances que lui en avaient faites le clergé et le peuple et quoique nous ayons été secourus pour les confessions par quatre bons ecclésiastiques de la ville et par plusieurs vertueux religieux qui ont travaillé avec nous, nous n’avons pu néanmoins satisfaire pleinement à la dévotion de tout ce peuple, qui nous pressait tellement qu’il ne nous laissait pas un moment de repos. Le concours aux prédications et aux catéchismes a été continuel, et le désir de se confesser si grand, qu’ils venaient nous éveiller dès minuit pour recevoir de nous ce service. Il s’en est trouvé qui ont demeuré plusieurs jours et plusieurs nuits, pendant la rigueur de ce temps d’hiver, sans retourner en leurs maisons, pour avoir la commodité de se confesser. Les bons effets et les fruits ont correspondu, par la grâce de Dieu, à toutes ces bonnes dispositions, par le moyen de quantité de restitutions et de réconciliations qui se sont faites. Le clergé même, composé d’environ quarante prêtres et clercs, a donné l’exemple au peuple ; nous leur faisions une conférence toutes les semaines, et ils ont pris résolution de les continuer toujours. Nous y avons établi la confrérie de la Charité pour les pauvres malades et les personnes qui la composent ont commencé avec grande ferveur à s’appliquer à leur rendre service. [^2]
+
+[^1]: Probablement Racconigi.
+
+[^2]: Abelly, *op. cit,* 1. II, chap. I, sect. VI, p. 83.

@@ -1,0 +1,2313 @@
+{
+  "id": "vincent-correspondance-vi",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance de saint Vincent de Paul, tome VI",
+    "en-US": "Correspondence of St. Vincent de Paul, vol. VI",
+    "pt-BR": "Correspondência de São Vicente de Paulo, tomo VI"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les lettres 2091 à 2474 de la Correspondance de saint Vincent, tome VI de l’édition de Pierre Coste (1656-1657), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
+    "en-US": "Letters 2091 to 2474 of St. Vincent’s Correspondence, vol. VI of Pierre Coste’s edition (1656-1657), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
+    "pt-BR": "As cartas 2091 a 2474 da Correspondência de São Vicente, tomo VI da edição de Pierre Coste (1656-1657)."
+  },
+  "composed": "1656-1657",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/correspondance-vi",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tome VI; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All letters of the tome, one per chapter, including the letters to Vincent that Coste prints among them, with Coste’s source notices and footnotes kept as notes. Coste’s introduction is not included; letters whose heading the transcription lost stay inside the preceding chapter.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Année 1656"
+      },
+      "children": [
+        {
+          "id": "lettre-2091",
+          "title": {
+            "fr-FR": "Lettre 2091. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2092",
+          "title": {
+            "fr-FR": "Lettre 2092. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2093",
+          "title": {
+            "fr-FR": "Lettre 2093. Au Frère Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-2094",
+          "title": {
+            "fr-FR": "Lettre 2094. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2095",
+          "title": {
+            "fr-FR": "Lettre 2095. Claude Dufour, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2096",
+          "title": {
+            "fr-FR": "Lettre 2096. À Dominique Lhuillier"
+          }
+        },
+        {
+          "id": "lettre-2097",
+          "title": {
+            "fr-FR": "Lettre 2097. À Nicolas Bagni"
+          }
+        },
+        {
+          "id": "lettre-2098",
+          "title": {
+            "fr-FR": "Lettre 2098. À Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-2099",
+          "title": {
+            "fr-FR": "Lettre 2099. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2100",
+          "title": {
+            "fr-FR": "Lettre 2100. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2101",
+          "title": {
+            "fr-FR": "Lettre 2101. À Jean-Jacques Planchamp"
+          }
+        },
+        {
+          "id": "lettre-2102",
+          "title": {
+            "fr-FR": "Lettre 2102. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2103",
+          "title": {
+            "fr-FR": "Lettre 2103. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2104",
+          "title": {
+            "fr-FR": "Lettre 2104. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2105",
+          "title": {
+            "fr-FR": "Lettre 2105. À Louis de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-2106",
+          "title": {
+            "fr-FR": "Lettre 2106. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2107",
+          "title": {
+            "fr-FR": "Lettre 2107. À Nicolas Duperroy"
+          }
+        },
+        {
+          "id": "lettre-2108",
+          "title": {
+            "fr-FR": "Lettre 2108. À Edme Jolly, Supérieur à Rome"
+          }
+        },
+        {
+          "id": "lettre-2110",
+          "title": {
+            "fr-FR": "Lettre 2110. À la Sœur Charlotte Royer, Supérieure, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-2111",
+          "title": {
+            "fr-FR": "Lettre 2111. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2112",
+          "title": {
+            "fr-FR": "Lettre 2112. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2113",
+          "title": {
+            "fr-FR": "Lettre 2113. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2114",
+          "title": {
+            "fr-FR": "Lettre 2114. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2115",
+          "title": {
+            "fr-FR": "Lettre 2115. Un Évêque à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2116",
+          "title": {
+            "fr-FR": "Lettre 2116. A * à François Liebe, Supérieur, à Notre-Dame de Lorm"
+          }
+        },
+        {
+          "id": "lettre-2117",
+          "title": {
+            "fr-FR": "Lettre 2117. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2118",
+          "title": {
+            "fr-FR": "Lettre 2118. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2119",
+          "title": {
+            "fr-FR": "Lettre 2119. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2120",
+          "title": {
+            "fr-FR": "Lettre 2120. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2121",
+          "title": {
+            "fr-FR": "Lettre 2121. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2122",
+          "title": {
+            "fr-FR": "Lettre 2122. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2123",
+          "title": {
+            "fr-FR": "Lettre 2123. À Pierre Leclerc, Frère Coadjuteur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2124",
+          "title": {
+            "fr-FR": "Lettre 2124. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2125",
+          "title": {
+            "fr-FR": "Lettre 2125. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2127",
+          "title": {
+            "fr-FR": "Lettre 2127. À Madame Legouz"
+          }
+        },
+        {
+          "id": "lettre-2128",
+          "title": {
+            "fr-FR": "Lettre 2128. À un Prêtre de la Mission, à Rennes"
+          }
+        },
+        {
+          "id": "lettre-2129",
+          "title": {
+            "fr-FR": "Lettre 2129. À Antoine Durand, Supérieur, à Agde"
+          }
+        },
+        {
+          "id": "lettre-2130",
+          "title": {
+            "fr-FR": "Lettre 2130. À Guillaume Delville, Prêtre de la Mission, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2131",
+          "title": {
+            "fr-FR": "Lettre 2131. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2132",
+          "title": {
+            "fr-FR": "Lettre 2132. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2133",
+          "title": {
+            "fr-FR": "Lettre 2133. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2134",
+          "title": {
+            "fr-FR": "Lettre 2134. Au Duc de Noirmoutiers"
+          }
+        },
+        {
+          "id": "lettre-2135",
+          "title": {
+            "fr-FR": "Lettre 2135. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2136",
+          "title": {
+            "fr-FR": "Lettre 2136. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2137",
+          "title": {
+            "fr-FR": "Lettre 2137. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2138",
+          "title": {
+            "fr-FR": "Lettre 2138. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2139",
+          "title": {
+            "fr-FR": "Lettre 2139. À Monsieur Aubert"
+          }
+        },
+        {
+          "id": "lettre-2140",
+          "title": {
+            "fr-FR": "Lettre 2140. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2141",
+          "title": {
+            "fr-FR": "Lettre 2141. À Monsieur Aubert"
+          }
+        },
+        {
+          "id": "lettre-2142",
+          "title": {
+            "fr-FR": "Lettre 2142. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2143",
+          "title": {
+            "fr-FR": "Lettre 2143. À Guillaume Delville, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2144",
+          "title": {
+            "fr-FR": "Lettre 2144. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2145",
+          "title": {
+            "fr-FR": "Lettre 2145. Au Père Bagot"
+          }
+        },
+        {
+          "id": "lettre-2146",
+          "title": {
+            "fr-FR": "Lettre 2146. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2147",
+          "title": {
+            "fr-FR": "Lettre 2147. À Jacques Desclaux, Évêque de Dax"
+          }
+        },
+        {
+          "id": "lettre-2148",
+          "title": {
+            "fr-FR": "Lettre 2148. À la Sœur Nicole Haran, Supérieure, à Nantes"
+          }
+        },
+        {
+          "id": "lettre-2149",
+          "title": {
+            "fr-FR": "Lettre 2149. À Charles Ozenne, Supérieur, en Pologne"
+          }
+        },
+        {
+          "id": "lettre-2150",
+          "title": {
+            "fr-FR": "Lettre 2150. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2151",
+          "title": {
+            "fr-FR": "Lettre 2151. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2152",
+          "title": {
+            "fr-FR": "Lettre 2152. À la Sœur Marguerite Chétif, Supérieure, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2153",
+          "title": {
+            "fr-FR": "Lettre 2153. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2154",
+          "title": {
+            "fr-FR": "Lettre 2154. À la Supérieure du Premier Monastère de la Visitatton de Paris"
+          }
+        },
+        {
+          "id": "lettre-2155",
+          "title": {
+            "fr-FR": "Lettre 2155. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2156",
+          "title": {
+            "fr-FR": "Lettre 2156. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2157",
+          "title": {
+            "fr-FR": "Lettre 2157. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2158",
+          "title": {
+            "fr-FR": "Lettre 2158. La Duchesse d’Aiguillon à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2159",
+          "title": {
+            "fr-FR": "Lettre 2159. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2160",
+          "title": {
+            "fr-FR": "Lettre 2160. À la Sœur Marguerite Chétif"
+          }
+        },
+        {
+          "id": "lettre-2161",
+          "title": {
+            "fr-FR": "Lettre 2161. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2162",
+          "title": {
+            "fr-FR": "Lettre 2162. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2163",
+          "title": {
+            "fr-FR": "Lettre 2163. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2164",
+          "title": {
+            "fr-FR": "Lettre 2164. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2165",
+          "title": {
+            "fr-FR": "Lettre 2165. À Balthazar Grangier de Liverdi, Évêque de Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2166",
+          "title": {
+            "fr-FR": "Lettre 2166. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2167",
+          "title": {
+            "fr-FR": "Lettre 2167. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2169",
+          "title": {
+            "fr-FR": "Lettre 2169. Au Marquis de Fabert"
+          }
+        },
+        {
+          "id": "lettre-2170",
+          "title": {
+            "fr-FR": "Lettre 2170. À Louis Serre, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-2171",
+          "title": {
+            "fr-FR": "Lettre 2171. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2172",
+          "title": {
+            "fr-FR": "Lettre 2172. À Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-2173",
+          "title": {
+            "fr-FR": "Lettre 2173. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Année 1656 (2e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-2174",
+          "title": {
+            "fr-FR": "Lettre 2174. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2175",
+          "title": {
+            "fr-FR": "Lettre 2175. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2176",
+          "title": {
+            "fr-FR": "Lettre 2176. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2177",
+          "title": {
+            "fr-FR": "Lettre 2177. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2178",
+          "title": {
+            "fr-FR": "Lettre 2178. À Guillaume Delville, Prêtre de la Mission, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2179",
+          "title": {
+            "fr-FR": "Lettre 2179. À la Mère Jeanne-Françoise le Tort"
+          }
+        },
+        {
+          "id": "lettre-2180",
+          "title": {
+            "fr-FR": "Lettre 2180. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2181",
+          "title": {
+            "fr-FR": "Lettre 2181. À un Frère Coadjuteur"
+          }
+        },
+        {
+          "id": "lettre-2182",
+          "title": {
+            "fr-FR": "Lettre 2182. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2183",
+          "title": {
+            "fr-FR": "Lettre 2183. À Donat Cruoly, Supérieur, au Nans"
+          }
+        },
+        {
+          "id": "lettre-2184",
+          "title": {
+            "fr-FR": "Lettre 2184. À Jean Martin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-03",
+      "title": {
+        "fr-FR": "Année 1657"
+      },
+      "children": [
+        {
+          "id": "lettre-2185",
+          "title": {
+            "fr-FR": "Lettre 2185. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2186",
+          "title": {
+            "fr-FR": "Lettre 2186. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2187",
+          "title": {
+            "fr-FR": "Lettre 2187. À Guillaume Delville, Prêtre de la Mission, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2188",
+          "title": {
+            "fr-FR": "Lettre 2188. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-2189",
+          "title": {
+            "fr-FR": "Lettre 2189. À N *"
+          }
+        },
+        {
+          "id": "lettre-2190",
+          "title": {
+            "fr-FR": "Lettre 2190. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2191",
+          "title": {
+            "fr-FR": "Lettre 2191. À Jean Chrétien, Supérieur, à la Rose"
+          }
+        },
+        {
+          "id": "lettre-2192",
+          "title": {
+            "fr-FR": "Lettre 2192. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2193",
+          "title": {
+            "fr-FR": "Lettre 2193. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2194",
+          "title": {
+            "fr-FR": "Lettre 2194. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2195",
+          "title": {
+            "fr-FR": "Lettre 2195. À Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-2196",
+          "title": {
+            "fr-FR": "Lettre 2196. À Nicolas Pavillon, Évêque d’Alet"
+          }
+        },
+        {
+          "id": "lettre-2197",
+          "title": {
+            "fr-FR": "Lettre 2197. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2198",
+          "title": {
+            "fr-FR": "Lettre 2198. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2200",
+          "title": {
+            "fr-FR": "Lettre 2200. Jean Martin, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2201",
+          "title": {
+            "fr-FR": "Lettre 2201. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-2202",
+          "title": {
+            "fr-FR": "Lettre 2202. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2203",
+          "title": {
+            "fr-FR": "Lettre 2203. À Guillaume Delville, Prêtre de la Mission, — À Arras"
+          }
+        },
+        {
+          "id": "lettre-2204",
+          "title": {
+            "fr-FR": "Lettre 2204. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2205",
+          "title": {
+            "fr-FR": "Lettre 2205. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2206",
+          "title": {
+            "fr-FR": "Lettre 2206. À Madame de Herse"
+          }
+        },
+        {
+          "id": "lettre-2207",
+          "title": {
+            "fr-FR": "Lettre 2207. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2208",
+          "title": {
+            "fr-FR": "Lettre 2208. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2209",
+          "title": {
+            "fr-FR": "Lettre 2209. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2210",
+          "title": {
+            "fr-FR": "Lettre 2210. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2211",
+          "title": {
+            "fr-FR": "Lettre 2211. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2212",
+          "title": {
+            "fr-FR": "Lettre 2212. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-2213",
+          "title": {
+            "fr-FR": "Lettre 2213. À Guillaume Delville, Prêtre de la Mission, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2214",
+          "title": {
+            "fr-FR": "Lettre 2214. À la Sœur Marguerite Chétif"
+          }
+        },
+        {
+          "id": "lettre-2215",
+          "title": {
+            "fr-FR": "Lettre 2215. Toussaint Bourdaise, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2216",
+          "title": {
+            "fr-FR": "Lettre 2216. Toussait Bourdaise, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2217",
+          "title": {
+            "fr-FR": "Lettre 2217. À Jean-Jacques Planchamp"
+          }
+        },
+        {
+          "id": "lettre-2218",
+          "title": {
+            "fr-FR": "Lettre 2218. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2219",
+          "title": {
+            "fr-FR": "Lettre 2219. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2220",
+          "title": {
+            "fr-FR": "Lettre 2220. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2221",
+          "title": {
+            "fr-FR": "Lettre 2221. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2222",
+          "title": {
+            "fr-FR": "Lettre 2222. À N *"
+          }
+        },
+        {
+          "id": "lettre-2223",
+          "title": {
+            "fr-FR": "Lettre 2223. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2224",
+          "title": {
+            "fr-FR": "Lettre 2224. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2225",
+          "title": {
+            "fr-FR": "Lettre 2225. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2226",
+          "title": {
+            "fr-FR": "Lettre 2226. À la Duchesse d’Aiguillon"
+          }
+        },
+        {
+          "id": "lettre-2227",
+          "title": {
+            "fr-FR": "Lettre 2227. À la Sœur Haran, Supérieure, à Nantes"
+          }
+        },
+        {
+          "id": "lettre-2228",
+          "title": {
+            "fr-FR": "Lettre 2228. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2229",
+          "title": {
+            "fr-FR": "Lettre 2229. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2230",
+          "title": {
+            "fr-FR": "Lettre 2230. À Monsieur de Mauroy"
+          }
+        },
+        {
+          "id": "lettre-2231",
+          "title": {
+            "fr-FR": "Lettre 2231. À la Duceiesse d’Aiguillon"
+          }
+        },
+        {
+          "id": "lettre-2232",
+          "title": {
+            "fr-FR": "Lettre 2232. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2233",
+          "title": {
+            "fr-FR": "Lettre 2233. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2234",
+          "title": {
+            "fr-FR": "Lettre 2234. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2235",
+          "title": {
+            "fr-FR": "Lettre 2235. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2236",
+          "title": {
+            "fr-FR": "Lettre 2236. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2237",
+          "title": {
+            "fr-FR": "Lettre 2237. À un Évêque"
+          }
+        },
+        {
+          "id": "lettre-2238",
+          "title": {
+            "fr-FR": "Lettre 2238. À Jean Deslyons, Doyen de Senlis"
+          }
+        },
+        {
+          "id": "lettre-2239",
+          "title": {
+            "fr-FR": "Lettre 2239. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2240",
+          "title": {
+            "fr-FR": "Lettre 2240. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2241",
+          "title": {
+            "fr-FR": "Lettre 2241. À Louis Serre, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-2242",
+          "title": {
+            "fr-FR": "Lettre 2242. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2243",
+          "title": {
+            "fr-FR": "Lettre 2243. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2244",
+          "title": {
+            "fr-FR": "Lettre 2244. À Monsieur Aubert"
+          }
+        },
+        {
+          "id": "lettre-2245",
+          "title": {
+            "fr-FR": "Lettre 2245. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2246",
+          "title": {
+            "fr-FR": "Lettre 2246. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2248",
+          "title": {
+            "fr-FR": "Lettre 2248. Louis Serre, Supérieur à Saint-Méen, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2249",
+          "title": {
+            "fr-FR": "Lettre 2249. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2250",
+          "title": {
+            "fr-FR": "Lettre 2250. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2251",
+          "title": {
+            "fr-FR": "Lettre 2251. Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2252",
+          "title": {
+            "fr-FR": "Lettre 2252. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2253",
+          "title": {
+            "fr-FR": "Lettre 2253. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2254",
+          "title": {
+            "fr-FR": "Lettre 2254. À Guillaume Delville, Prêtre de la Mission, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2255",
+          "title": {
+            "fr-FR": "Lettre 2255. — à Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2256",
+          "title": {
+            "fr-FR": "Lettre 2256. Monsieur Horcholle"
+          }
+        },
+        {
+          "id": "lettre-2257",
+          "title": {
+            "fr-FR": "Lettre 2257. À Madenoiselle de Vervin"
+          }
+        },
+        {
+          "id": "lettre-2258",
+          "title": {
+            "fr-FR": "Lettre 2258. À Nicolas Guillot, Supérieur, à Montmirail"
+          }
+        },
+        {
+          "id": "lettre-2259",
+          "title": {
+            "fr-FR": "Lettre 2259. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2260",
+          "title": {
+            "fr-FR": "Lettre 2260. À Antoine Durand, Supérieur, à Agde"
+          }
+        },
+        {
+          "id": "lettre-2261",
+          "title": {
+            "fr-FR": "Lettre 2261. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2262",
+          "title": {
+            "fr-FR": "Lettre 2262. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2263",
+          "title": {
+            "fr-FR": "Lettre 2263. À Philippe-Emmanuel de Gondi"
+          }
+        },
+        {
+          "id": "lettre-2264",
+          "title": {
+            "fr-FR": "Lettre 2264. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2265",
+          "title": {
+            "fr-FR": "Lettre 2265. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-2266",
+          "title": {
+            "fr-FR": "Lettre 2266. À Firmin Get, Supérieur, à Marseille"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-04",
+      "title": {
+        "fr-FR": "Année 1657 (2e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-2267",
+          "title": {
+            "fr-FR": "Lettre 2267. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2268",
+          "title": {
+            "fr-FR": "Lettre 2268. Au Cardinal Nicolas Bagni, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2269",
+          "title": {
+            "fr-FR": "Lettre 2269. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2270",
+          "title": {
+            "fr-FR": "Lettre 2270. La Duchesse d’Aiguillon à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2271",
+          "title": {
+            "fr-FR": "Lettre 2271. À Charles Ozenne, Supérieur, à Opole"
+          }
+        },
+        {
+          "id": "lettre-2272",
+          "title": {
+            "fr-FR": "Lettre 2272. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2273",
+          "title": {
+            "fr-FR": "Lettre 2273. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2274",
+          "title": {
+            "fr-FR": "Lettre 2274. À Achille le Vazeux, Supérieur, à Annecy"
+          }
+        },
+        {
+          "id": "lettre-2275",
+          "title": {
+            "fr-FR": "Lettre 2275. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2276",
+          "title": {
+            "fr-FR": "Lettre 2276. À Nicolas Duperroy"
+          }
+        },
+        {
+          "id": "lettre-2277",
+          "title": {
+            "fr-FR": "Lettre 2277. Jean Martin, Supérieur à Turin, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2279",
+          "title": {
+            "fr-FR": "Lettre 2279. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2280",
+          "title": {
+            "fr-FR": "Lettre 2280. Sœur Toussaint David à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2282",
+          "title": {
+            "fr-FR": "Lettre 2282. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-2283",
+          "title": {
+            "fr-FR": "Lettre 2283. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2284",
+          "title": {
+            "fr-FR": "Lettre 2284. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2286",
+          "title": {
+            "fr-FR": "Lettre 2286. À Jean Barreau, Consul, à Alger"
+          }
+        },
+        {
+          "id": "lettre-2287",
+          "title": {
+            "fr-FR": "Lettre 2287. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2288",
+          "title": {
+            "fr-FR": "Lettre 2288. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-2289",
+          "title": {
+            "fr-FR": "Lettre 2289. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2290",
+          "title": {
+            "fr-FR": "Lettre 2290. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2291",
+          "title": {
+            "fr-FR": "Lettre 2291. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2292",
+          "title": {
+            "fr-FR": "Lettre 2292. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2293",
+          "title": {
+            "fr-FR": "Lettre 2293. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2294",
+          "title": {
+            "fr-FR": "Lettre 2294. À Dominique Lhuillier"
+          }
+        },
+        {
+          "id": "lettre-2295",
+          "title": {
+            "fr-FR": "Lettre 2295. À Edme Barry, Supérieur, à N.-D. de Lorm"
+          }
+        },
+        {
+          "id": "lettre-2296",
+          "title": {
+            "fr-FR": "Lettre 2296. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2297",
+          "title": {
+            "fr-FR": "Lettre 2297. À Nicolas Duperroy, Prêtre de la Mission, en Pologne"
+          }
+        },
+        {
+          "id": "lettre-2298",
+          "title": {
+            "fr-FR": "Lettre 2298. À Charles Ozenne, Supérieur, en Pologne"
+          }
+        },
+        {
+          "id": "lettre-2299",
+          "title": {
+            "fr-FR": "Lettre 2299. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2300",
+          "title": {
+            "fr-FR": "Lettre 2300. À Nicolas Demonchy"
+          }
+        },
+        {
+          "id": "lettre-2301",
+          "title": {
+            "fr-FR": "Lettre 2301. À Pierre Gabel"
+          }
+        },
+        {
+          "id": "lettre-2302",
+          "title": {
+            "fr-FR": "Lettre 2302. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2303",
+          "title": {
+            "fr-FR": "Lettre 2303. À N *"
+          }
+        },
+        {
+          "id": "lettre-2304",
+          "title": {
+            "fr-FR": "Lettre 2304. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2305",
+          "title": {
+            "fr-FR": "Lettre 2305. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2306",
+          "title": {
+            "fr-FR": "Lettre 2306. À Nicolas Duport, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2307",
+          "title": {
+            "fr-FR": "Lettre 2307. À Gilles Buhot"
+          }
+        },
+        {
+          "id": "lettre-2308",
+          "title": {
+            "fr-FR": "Lettre 2308. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2309",
+          "title": {
+            "fr-FR": "Lettre 2309. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2310",
+          "title": {
+            "fr-FR": "Lettre 2310. À Edme Barry, Supérieur, à N.-D. De-Lorm"
+          }
+        },
+        {
+          "id": "lettre-2311",
+          "title": {
+            "fr-FR": "Lettre 2311. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2312",
+          "title": {
+            "fr-FR": "Lettre 2312. À N *"
+          }
+        },
+        {
+          "id": "lettre-2313",
+          "title": {
+            "fr-FR": "Lettre 2313. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2314",
+          "title": {
+            "fr-FR": "Lettre 2314. À Charles Ozenne, Supérieur, à Opole"
+          }
+        },
+        {
+          "id": "lettre-2315",
+          "title": {
+            "fr-FR": "Lettre 2315. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2316",
+          "title": {
+            "fr-FR": "Lettre 2316. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2317",
+          "title": {
+            "fr-FR": "Lettre 2317. À François Caulet, Évêque de Pamiers"
+          }
+        },
+        {
+          "id": "lettre-2318",
+          "title": {
+            "fr-FR": "Lettre 2318. À Pierre Cabel, Prêtre de la Mission, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-2320",
+          "title": {
+            "fr-FR": "Lettre 2320. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2321",
+          "title": {
+            "fr-FR": "Lettre 2321. À Nicolas Duport, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2322",
+          "title": {
+            "fr-FR": "Lettre 2322. A Etienne Blatiron, Supérieur, à Gênes,"
+          }
+        },
+        {
+          "id": "lettre-2323",
+          "title": {
+            "fr-FR": "Lettre 2323. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2324",
+          "title": {
+            "fr-FR": "Lettre 2324. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2325",
+          "title": {
+            "fr-FR": "Lettre 2325. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2326",
+          "title": {
+            "fr-FR": "Lettre 2326. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2327",
+          "title": {
+            "fr-FR": "Lettre 2327. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2328",
+          "title": {
+            "fr-FR": "Lettre 2328. À Pierre Cabel"
+          }
+        },
+        {
+          "id": "lettre-2329",
+          "title": {
+            "fr-FR": "Lettre 2329. À Jean d’Aranthon d’Alex"
+          }
+        },
+        {
+          "id": "lettre-2330",
+          "title": {
+            "fr-FR": "Lettre 2330. À Honoré Bélart"
+          }
+        },
+        {
+          "id": "lettre-2331",
+          "title": {
+            "fr-FR": "Lettre 2331. À Monsieur Avril"
+          }
+        },
+        {
+          "id": "lettre-2332",
+          "title": {
+            "fr-FR": "Lettre 2332. À Henri Arnauld, Évêque d’Angers"
+          }
+        },
+        {
+          "id": "lettre-2333",
+          "title": {
+            "fr-FR": "Lettre 2333. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2334",
+          "title": {
+            "fr-FR": "Lettre 2334. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2335",
+          "title": {
+            "fr-FR": "Lettre 2335. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2336",
+          "title": {
+            "fr-FR": "Lettre 2336. Jean Martin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2337",
+          "title": {
+            "fr-FR": "Lettre 2337. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2338",
+          "title": {
+            "fr-FR": "Lettre 2338. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2339",
+          "title": {
+            "fr-FR": "Lettre 2339. - à Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2340",
+          "title": {
+            "fr-FR": "Lettre 2340. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2341",
+          "title": {
+            "fr-FR": "Lettre 2341. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2342",
+          "title": {
+            "fr-FR": "Lettre 2342. À Guillaume Delville, Prêtre de la Mission, à Arras"
+          }
+        },
+        {
+          "id": "lettre-2343",
+          "title": {
+            "fr-FR": "Lettre 2343. À Barbe Angiboust, Fille de la Charité, à Châteaudun"
+          }
+        },
+        {
+          "id": "lettre-2344",
+          "title": {
+            "fr-FR": "Lettre 2344. À la Mère Elisabeth de Maupeou Supérieure du Premier Monastère de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-2345",
+          "title": {
+            "fr-FR": "Lettre 2345. À Nicolas Demonchy"
+          }
+        },
+        {
+          "id": "lettre-2346",
+          "title": {
+            "fr-FR": "Lettre 2346. À Nicolas Duperroy"
+          }
+        },
+        {
+          "id": "lettre-2347",
+          "title": {
+            "fr-FR": "Lettre 2347. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2348",
+          "title": {
+            "fr-FR": "Lettre 2348. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2349",
+          "title": {
+            "fr-FR": "Lettre 2349. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2350",
+          "title": {
+            "fr-FR": "Lettre 2350. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-05",
+      "title": {
+        "fr-FR": "Année 1657 (3e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-2351",
+          "title": {
+            "fr-FR": "Lettre 2351. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2352",
+          "title": {
+            "fr-FR": "Lettre 2352. À Jacques Chiroye"
+          }
+        },
+        {
+          "id": "lettre-2353",
+          "title": {
+            "fr-FR": "Lettre 2353. À Edme Menestrier"
+          }
+        },
+        {
+          "id": "lettre-2354",
+          "title": {
+            "fr-FR": "Lettre 2354. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2355",
+          "title": {
+            "fr-FR": "Lettre 2355. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2356",
+          "title": {
+            "fr-FR": "Lettre 2356. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-2357",
+          "title": {
+            "fr-FR": "Lettre 2357. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2358",
+          "title": {
+            "fr-FR": "Lettre 2358. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2359",
+          "title": {
+            "fr-FR": "Lettre 2359. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2363",
+          "title": {
+            "fr-FR": "Lettre 2363. À Henri Arnauld, Évêque d’Angers"
+          }
+        },
+        {
+          "id": "lettre-2364",
+          "title": {
+            "fr-FR": "Lettre 2364. À Gérard Brin, Supérieur, à Meaux"
+          }
+        },
+        {
+          "id": "lettre-2365",
+          "title": {
+            "fr-FR": "Lettre 2365. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2366",
+          "title": {
+            "fr-FR": "Lettre 2366. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2367",
+          "title": {
+            "fr-FR": "Lettre 2367. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2368",
+          "title": {
+            "fr-FR": "Lettre 2368. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2369",
+          "title": {
+            "fr-FR": "Lettre 2369. À Firmin Get, Supérieur. à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2370",
+          "title": {
+            "fr-FR": "Lettre 2370. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2371",
+          "title": {
+            "fr-FR": "Lettre 2371. À Pierre de Beaumont, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-2372",
+          "title": {
+            "fr-FR": "Lettre 2372. À Edme Menestrier"
+          }
+        },
+        {
+          "id": "lettre-2373",
+          "title": {
+            "fr-FR": "Lettre 2373. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2375",
+          "title": {
+            "fr-FR": "Lettre 2375. À Edme Barry, Supérieur, à N.-D.-de-Lorm"
+          }
+        },
+        {
+          "id": "lettre-2376",
+          "title": {
+            "fr-FR": "Lettre 2376. Au Frère Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-2377",
+          "title": {
+            "fr-FR": "Lettre 2377. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2378",
+          "title": {
+            "fr-FR": "Lettre 2378. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2379",
+          "title": {
+            "fr-FR": "Lettre 2379. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2380",
+          "title": {
+            "fr-FR": "Lettre 2380. À Pierre Cabel, Prêtre de la Mission, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-2381",
+          "title": {
+            "fr-FR": "Lettre 2381. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2382",
+          "title": {
+            "fr-FR": "Lettre 2382. À Louis Rivet"
+          }
+        },
+        {
+          "id": "lettre-2383",
+          "title": {
+            "fr-FR": "Lettre 2383. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2384",
+          "title": {
+            "fr-FR": "Lettre 2384. Au Chapitre de Paris"
+          }
+        },
+        {
+          "id": "lettre-2385",
+          "title": {
+            "fr-FR": "Lettre 2385. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2386",
+          "title": {
+            "fr-FR": "Lettre 2386. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2387",
+          "title": {
+            "fr-FR": "Lettre 2387. Au Cardinal Nicolas Bagni"
+          }
+        },
+        {
+          "id": "lettre-2388",
+          "title": {
+            "fr-FR": "Lettre 2388. À Louis Serre, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-2389",
+          "title": {
+            "fr-FR": "Lettre 2389. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2390",
+          "title": {
+            "fr-FR": "Lettre 2390. À Edme Menestrier"
+          }
+        },
+        {
+          "id": "lettre-2391",
+          "title": {
+            "fr-FR": "Lettre 2391. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2392",
+          "title": {
+            "fr-FR": "Lettre 2392. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2393",
+          "title": {
+            "fr-FR": "Lettre 2393. À un Prêtre de la Mission, à Troyes"
+          }
+        },
+        {
+          "id": "lettre-2394",
+          "title": {
+            "fr-FR": "Lettre 2394. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2395",
+          "title": {
+            "fr-FR": "Lettre 2395. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2396",
+          "title": {
+            "fr-FR": "Lettre 2396. Louise de Marillac à Saint Vincent et en Réponse du Saint"
+          }
+        },
+        {
+          "id": "lettre-2397",
+          "title": {
+            "fr-FR": "Lettre 2397. À la Sœur Françoise Ménage"
+          }
+        },
+        {
+          "id": "lettre-2398",
+          "title": {
+            "fr-FR": "Lettre 2398. À Denis Laudin, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2399",
+          "title": {
+            "fr-FR": "Lettre 2399. À l’Abbé de Saint-Just, Grand Vicaire, à Lyon"
+          }
+        },
+        {
+          "id": "lettre-2400",
+          "title": {
+            "fr-FR": "Lettre 2400. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2401",
+          "title": {
+            "fr-FR": "Lettre 2401. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2402",
+          "title": {
+            "fr-FR": "Lettre 2402. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2403",
+          "title": {
+            "fr-FR": "Lettre 2403. À Louis Serre, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-2404",
+          "title": {
+            "fr-FR": "Lettre 2404. À Pierre Cabel, Prêtre de la Mission, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-2405",
+          "title": {
+            "fr-FR": "Lettre 2405. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2406",
+          "title": {
+            "fr-FR": "Lettre 2406. À Georges des Jardins"
+          }
+        },
+        {
+          "id": "lettre-2407",
+          "title": {
+            "fr-FR": "Lettre 2407. À Nicolas Guillot"
+          }
+        },
+        {
+          "id": "lettre-2408",
+          "title": {
+            "fr-FR": "Lettre 2408. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-2409",
+          "title": {
+            "fr-FR": "Lettre 2409. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2410",
+          "title": {
+            "fr-FR": "Lettre 2410. À Hugues Perraud"
+          }
+        },
+        {
+          "id": "lettre-2411",
+          "title": {
+            "fr-FR": "Lettre 2411. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2412",
+          "title": {
+            "fr-FR": "Lettre 2412. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2413",
+          "title": {
+            "fr-FR": "Lettre 2413. À Monsieur Duport, à Soissons"
+          }
+        },
+        {
+          "id": "lettre-2414",
+          "title": {
+            "fr-FR": "Lettre 2414. Thomas Lumsden, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2415",
+          "title": {
+            "fr-FR": "Lettre 2415. À Guillaume Delville"
+          }
+        },
+        {
+          "id": "lettre-2416",
+          "title": {
+            "fr-FR": "Lettre 2416. À la Duchesse de Liancourt"
+          }
+        },
+        {
+          "id": "lettre-2417",
+          "title": {
+            "fr-FR": "Lettre 2417. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2418",
+          "title": {
+            "fr-FR": "Lettre 2418. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2419",
+          "title": {
+            "fr-FR": "Lettre 2419. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2420",
+          "title": {
+            "fr-FR": "Lettre 2420. À Denis Laudin, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2421",
+          "title": {
+            "fr-FR": "Lettre 2421. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2422",
+          "title": {
+            "fr-FR": "Lettre 2422. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2423",
+          "title": {
+            "fr-FR": "Lettre 2423. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2424",
+          "title": {
+            "fr-FR": "Lettre 2424. Au Frère Martin Baucher, Frère Coadjuteur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2425",
+          "title": {
+            "fr-FR": "Lettre 2425. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-2426",
+          "title": {
+            "fr-FR": "Lettre 2426. À Nicolas Duperroy"
+          }
+        },
+        {
+          "id": "lettre-2427",
+          "title": {
+            "fr-FR": "Lettre 2427. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2428",
+          "title": {
+            "fr-FR": "Lettre 2428. À Hugues Perraud"
+          }
+        },
+        {
+          "id": "lettre-2429",
+          "title": {
+            "fr-FR": "Lettre 2429. Au Frère Jean Parre, à Reims"
+          }
+        },
+        {
+          "id": "lettre-2430",
+          "title": {
+            "fr-FR": "Lettre 2430. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2431",
+          "title": {
+            "fr-FR": "Lettre 2431. À François Villain, Prêtre de la Mission, à Troyes"
+          }
+        },
+        {
+          "id": "lettre-2432",
+          "title": {
+            "fr-FR": "Lettre 2432. Les Administrateurs de l’Hôpital de Châteaudun, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2433",
+          "title": {
+            "fr-FR": "Lettre 2433. À Charles Ozenne, Supérieur, en Pologne"
+          }
+        },
+        {
+          "id": "lettre-2434",
+          "title": {
+            "fr-FR": "Lettre 2434. Louise de Marillac à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-06",
+      "title": {
+        "fr-FR": "Année 1657 (4e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-2435",
+          "title": {
+            "fr-FR": "Lettre 2435. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2436",
+          "title": {
+            "fr-FR": "Lettre 2436. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2437",
+          "title": {
+            "fr-FR": "Lettre 2437. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2438",
+          "title": {
+            "fr-FR": "Lettre 2438. Jean Martin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2439",
+          "title": {
+            "fr-FR": "Lettre 2439. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-2440",
+          "title": {
+            "fr-FR": "Lettre 2440. À Denis Laudin"
+          }
+        },
+        {
+          "id": "lettre-2441",
+          "title": {
+            "fr-FR": "Lettre 2441. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2442",
+          "title": {
+            "fr-FR": "Lettre 2442. À Guillaume Delville"
+          }
+        },
+        {
+          "id": "lettre-2443",
+          "title": {
+            "fr-FR": "Lettre 2443. À Edme Barry, Supérieur, à N.-D.-de-Lorm"
+          }
+        },
+        {
+          "id": "lettre-2444",
+          "title": {
+            "fr-FR": "Lettre 2444. À Georges des Jardins, Supérieur, à Toul"
+          }
+        },
+        {
+          "id": "lettre-2445",
+          "title": {
+            "fr-FR": "Lettre 2445. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2446",
+          "title": {
+            "fr-FR": "Lettre 2446. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2447",
+          "title": {
+            "fr-FR": "Lettre 2447. À Pierre Cabel"
+          }
+        },
+        {
+          "id": "lettre-2448",
+          "title": {
+            "fr-FR": "Lettre 2448. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2449",
+          "title": {
+            "fr-FR": "Lettre 2449. À Raoul de la Guibourgere, Évêque de la Rochelle"
+          }
+        },
+        {
+          "id": "lettre-2450",
+          "title": {
+            "fr-FR": "Lettre 2450. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2451",
+          "title": {
+            "fr-FR": "Lettre 2451. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2452",
+          "title": {
+            "fr-FR": "Lettre 2452. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2453",
+          "title": {
+            "fr-FR": "Lettre 2453. À Pierre Cabel"
+          }
+        },
+        {
+          "id": "lettre-2454",
+          "title": {
+            "fr-FR": "Lettre 2454. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2455",
+          "title": {
+            "fr-FR": "Lettre 2455. À Guillaume Delville"
+          }
+        },
+        {
+          "id": "lettre-2456",
+          "title": {
+            "fr-FR": "Lettre 2456. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-2457",
+          "title": {
+            "fr-FR": "Lettre 2457. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2458",
+          "title": {
+            "fr-FR": "Lettre 2458. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2459",
+          "title": {
+            "fr-FR": "Lettre 2459. À Nicolas Guillot, Supérieur, à Montmirail"
+          }
+        },
+        {
+          "id": "lettre-2460",
+          "title": {
+            "fr-FR": "Lettre 2460. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2461",
+          "title": {
+            "fr-FR": "Lettre 2461. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2462",
+          "title": {
+            "fr-FR": "Lettre 2462. À Charles Ozenne, * Prêtre de la Mission, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-2463",
+          "title": {
+            "fr-FR": "Lettre 2463. À Pierre Cabel, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-2465",
+          "title": {
+            "fr-FR": "Lettre 2465. Emerand Bajoue, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2466",
+          "title": {
+            "fr-FR": "Lettre 2466. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2467",
+          "title": {
+            "fr-FR": "Lettre 2467. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2468",
+          "title": {
+            "fr-FR": "Lettre 2468. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2469",
+          "title": {
+            "fr-FR": "Lettre 2469. À Madame de Ventelet"
+          }
+        },
+        {
+          "id": "lettre-2470",
+          "title": {
+            "fr-FR": "Lettre 2470. À Guillaume Delville"
+          }
+        },
+        {
+          "id": "lettre-2471",
+          "title": {
+            "fr-FR": "Lettre 2471. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2472",
+          "title": {
+            "fr-FR": "Lettre 2472. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2473",
+          "title": {
+            "fr-FR": "Lettre 2473. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2474",
+          "title": {
+            "fr-FR": "Lettre 2474. À Louise de Marillac"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
