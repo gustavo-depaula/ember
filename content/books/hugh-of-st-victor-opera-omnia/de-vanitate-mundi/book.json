@@ -1,0 +1,104 @@
+{
+  "id": "hugh-de-vanitate-mundi",
+  "cover": "classic",
+  "name": {
+    "la": "De vanitate mundi",
+    "en-US": "On the Vanity of the World",
+    "pt-BR": "Sobre a vaidade do mundo"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De vanitate mundi, in quattuor libris: dialogus Philomelae et Hugonis de fugacitate rerum.",
+    "en-US": "A dialogue in four books on the vanity of the world and the love of God. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "Um diálogo em quatro livros sobre a vaidade do mundo e o amor de Deus."
+  },
+  "composed": "c. 1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/de-vanitate-mundi",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeVaMu",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeVaMu, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Caput I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "c002",
+          "title": {
+            "la": "Prooemium"
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius. Intermissis rebus transeuntibus, inquiritur de divinis"
+      },
+      "children": [
+        {
+          "id": "c004",
+          "title": {
+            "la": "Liber tertius. Intermissis rebus transeuntibus, inquiritur de divinis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus. De inquisitione mysticae arcae, et de contextu historiae sacrae et profanae, per quam…"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Liber quartus. De inquisitione mysticae arcae, et de contextu historiae sacrae et profanae, per quam…"
+          }
+        }
+      ]
+    }
+  ]
+}

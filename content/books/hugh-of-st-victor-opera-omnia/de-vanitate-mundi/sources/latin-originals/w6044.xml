@@ -1,0 +1,2383 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De vanitate mundi</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeVaMu</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>LIBER PRIMUS</head>
+<p divs_removed="true">
+          <pb n="0703B"/>D. O munde immunde, o munde immunde, quare sic
+dileximus te? Hiccine est fructus tuus? Haec promissio
+tua? Haec de te spes nostra? Quare in te speravimus?
+Quare tibi credidimus? Quare de te cogitare
+voluimus? Ecce quomodo decepti sumus. Nihil reliqui
+habemus, inanes remansi sumus. O munde immunde,
+quare sic dileximus te? I. Quid vides, o
+homo?  D. Nihil melius quam fugere. I. Non satis intelligo
+quid dicere velis: video tamen, sicut iste tuus
+stupor indicat, quod vel grave aliquid pateris, vel
+novum vidisti, vel malum moliris. Ne igitur abscondas
+quidquid illud sit, quia si periculum est, simul
+liberasti me. Sin autem nullum est periculum, et
+vane conturbaris, forsitan consolabor te.  D. Consurge,
+et ascende, et aspice mecum, et ostendam tibi
+<pb n="0703C"/>
+mirabilia magna, antiquis vetera, praesentibus nova,
+et posteriora futuris. I. Quando rem ipsam videro,
+de qua loqueris, tunc melius fortasse intelligam quid
+dicere velis. Nunc igitur ostende mihi quo ascendere
+debeam, ut et ego videre possim mirabilia ista, de
+quibus tu sic conturbaris.  D. Oculus carnis quanto
+sublimior, et in altiore loco constitutus fuerit, tanto
+amplius per visionem in latum se diffundit. Facilius
+quippe desuper in subjecta acie visionis expanditur,
+quando omnia quodammodo coram posita intuetur;
+sed haec quidem eo ipso, quo per corporis instrumentum
+emicat, multis ac variis modis nullo etiam
+foris interveniente obstaculo, in semetipsa caligat.
+Nam quia angusta est, maxima comprehendere non
+<pb n="0703D"/>
+sufficit; et quia hebes est, minima non discernit,
+quia autem pigra est, cum in remotissima extenditur
+etiam si intercurrat, sola tamen spatii longinquitate
+hebetatur, quia vero perspicax non est, intima quaeque
+non penetrat, sed ea sola, quae in rerum superficie
+sunt constituta, oberrat. Sed nec ea quae praeterita
+sunt respicere, nec ea quae futura sunt potest
+providere. Hoc ego dixi, ut scias quantas angustias
+corporea haec visio patiatur, quae nisi coram posita
+intueri non valet. In his quoque, eam et maxima
+<pb n="0704B"/>
+quantitate excedunt, et minima subtilitate fugiunt,
+et remota longinquitate evadunt, et intima obscuritate
+subducunt. Nolo igitur ut cogites visionem hujus
+oculi, quando audis te ad videndum invitari.
+Habes alium oculum intus multo clariorem isto, qui
+praeterita, praesentia et futura simul respicit, qui
+suae visionis lumen et aciem per cuncta diffundit,
+qui occulta penetrat, subtilia investigat, luce aliena
+ad videndum non indigens, sed sua ac propria luce
+prospiciens. Quia igitur ea, quae tibi demonstraturus
+sum, carnis oculus simul comprehendere non potest,
+ad hanc visionem non carnis, sed cordis oculus praeparandus
+est. Constitue igitur te quasi in quadam
+mentis specula, et ejus aciem in arcam hujus mundi
+circumquaque lustrandam dirige, ut totus contemplanti
+<pb n="0704C"/>
+coram positus sit mundus, et inde tibi universa
+demonstrabo, quae prius vel non visa ignorasti, vel
+visa non quomodo oportuit, considerasti.
+
+        </p>
+        <div3 moved_from_p="true">
+            <head>I.</head>
+          <p>
+ Vere nunc fateor, quod nihil universorum
+aspectui cernentis absconditur, cum cordis oculos
+studiose ad videndum aperitur. Quando autem
+carnis oculum ad videndum aperio, quamlibet
+late cuncta pateant, in comparatione totius minimum
+est, quod comprehendo. Sed ecce dum conor,
+quantum valeo, cor sursum erigere, invenio me
+hucusque non solum corpore, sed corde quoque
+deorsum fuisse. Nam quanto magis contemplandis
+quibusdam mundi rebus affectu et cogitatione succubui,
+tanto ad contemplandam rerum universitatem
+<pb n="0704D"/>
+minus idoneus minusque expeditus fui. Nunc igitur
+ab his quibus hactenus inhaerebam, mentem exuo,
+et quasi deposito onere levatus sim, cunctis me statim
+superiorem agnosco. Nescio enim quo pacto
+mirabili, subito in me hoc factum sit, ut, dum studeo
+nullis specialiter per cupiditatem inhaerere, cunctis
+incipiam per contemplationem superexcellere. Incipe
+igitur, quia mundum jam universum coram me constitutum
+aspicio, et quidquid ex omnibus mihi demonstrare
+volueris sine mora ac difficultate videbo.
+<pb n="0705A"/>
+D. Vides igitur mundum istum? I. Video et bene.
+Nunquam tam bene vidi, quia nunquam tam diligenter
+consideravi. D. Quid ergo tibi videtur? Qualis est
+species ejus? I. Pulchra valde. Miror tale opus Dei.
+ D. Deum in cunctis mirabilem invenis, omnes hoc
+jam cognoverunt.</p>
+        </div3>
+<p>Sed sileamus interim de operibus Dei, opera haec
+hominum tanta ac talia videns mundum admirari
+coepisti. Nam et hoc scire debes, quod mundum hic
+accipio non hanc solummodo speciem divini operis,
+sed mutabilitatem humanae in hoc mundo conversionis.
+Dic igitur mihi opera hominum, quae vides,
+qualia sunt? Quid tibi videtur? I. Magnum quoque
+in his decorem aspicio, et dum considero quid homo
+sit, miror quomodo talia facere possit.  D. Si bene
+<pb n="0705B"/>
+considerares quid sit homo, non mirareris quod talia
+facere posset, sed quod in talibus confideret. Sed
+quia mundum attendere coepisti, nec dignitatem hominis,
+nec vilitatem humani operis, idcirco tam
+stulte et inordinate admiraris. I. Quamvis multum
+contra meam existimationem loquaris, fieri tamen
+potest, ut et ego deceptus sim, et tu verum dixeris.
+Volo igitur magis auscultare quam contendere, ut
+si assertionem tuam probare potueris, impudenter
+restitisse non poeniteat, si autem non poteris, prudenter
+tacuisse non noceat. Dic ergo quae sit dignitas
+hominis, quae vilitas humani operis. Quia profecto si
+id quod foris apparet solum inspicitur, homo ipse
+opere suo nec quantitate major, nec forma decentior,
+nec tempore diuturnior invenitur.  D. Primum
+<pb n="0705C"/>
+de operibus hominum tecum disputare volo.</p>
+<p>Vides igitur universa opera hominum quanta et
+qualia sunt. I. Magna et admiranda satis mihi videntur:
+sed nunquid tu aliter existimas?  D. Prorsus
+aliter existimo, et aliter te quoque existimare volo.
+ I. Non sum tam pertinax, quin libenter a veritate
+vinci velim, tantum perge quo libet, et sequar te.  D. 
+Respice omnia, et considera diligenter singula. I.
+Respicio et considero, et quid in his omnibus demonstrare
+velis exspecto. D. Quid vides? I. Navigantes
+video in mari, et magnam tranquillitatem maris,
+magnamque serenitatem aeris, ventis quoque secundis
+leniter spirantibus, optato cursu navigium ferri.
+Viros autem per navem discumbentes ad epulas, et
+canentes in lyris, et tibiis, et citharis omni genere
+<pb n="0705D"/>
+dulcis cantilenae auditum mulcentes. Ipsis etiam
+aquis melodia resultantibus pisce maris greges circumducere,
+et exsultantibus alludendo laetitiam augere.
+ D. Quid tibi videtur? I. Quid? nisi magnum
+gaudium, magna jucunditas, et (si esse posset
+diuturna) magna felicitas.  D. Istud ergo est, propter
+quod mundus placet tibi. I. Et cur displicere
+debeat ignoro.  D. Fige paulisper oculum, et noli declinare
+intuitum dum videas finem. I. Persequor
+euntes, et quid sequatur exspecto. D. Quid vides?
+ I. Timeo dicere quod tamen celare non possum.  D. 
+Quid igitur vides? I. Video undique nigrescere coelum,
+et acri ventorum concursu nubes agitari et conturbari,
+mare fluctibus intumescere et quasi ab uno
+<pb n="0706A"/>
+sursum fundo totum in cumulum ferri, heu quid laudavi?
+ D. Quid est? I. O miseri, quid vobis cum mari?
+Quare fallaci sereno credidistis? Quare in dubio
+securi fuistis? Quare tranquillitatem aequoris suspectam
+non habuistis? Quare perfido elemento vitam
+vestram committere non timuistis? Quare soliditatem
+littoris deseruistis? Quare securum iter in
+terra non tenuistis? Quid vobis lucra tanto periculo
+acquisita? Ecce quam exiguum bonum secuti estis,
+et ecce quantam calamitatem incurristis, et quia
+verum malum, quod vobis imminebat, providere noluistis,
+ab appetitu fallacis boni, qui vos trahebat,
+animos non cohibuistis? O infelices et miseri! Ecce
+illa laetitia vestra quomodo tam cito mutata est, et
+vita vestra ad quam miseriam devoluta est! Prius
+<pb n="0706B"/>
+vobis inaniter exsultantibus pisces maris alluserunt,
+nunc vos naufragos et miserabiliter abjectos pisces
+maris in pastum accipiunt.  D. Quid tibi videtur,
+quale est hoc opus hominum? I. Vanitas est, et vanitas
+vanitatum.  D. Converte te nunc ad aliud, et
+vide. I. Conversus sum, et video.  D. Quid vides? I.
+Video homines pergentes viam suam multis et magnis
+mercibus onustos, camelos innumerabilies onera
+diversa portantes, plaustra plurima, et bigas non
+paucas in comitatu euntium. Omnem speciem pigmentorum
+atque aromatum ibi video, omnia genera
+pretiosarum vestium agnosco, ingentes massas metallorum
+omnium, et omnem lapidem pretiosum ibi
+conspicio, equos et mulos, et mancipia, greges armentorum
+et pecorum, absque numero.  D. Unde putas
+<pb n="0706C"/>
+isti veniunt, aut quo vadunt? I. Videtur quod homines
+de regione longinqua adveniant, et omnes has
+rerum copias in exteras nationes lucri causa commutandas
+traducant. Apparent autem viri ferventes
+et alacres, et quantum ex ipso eorum gaudio datur
+intelligi, prospere incedentes. D. Quid tibi videtur?
+ I. Studium satis laboriosum ego video, sed rerum
+novitas, et lucri cupiditas dulcia laborantibus solatia
+praestant.  D. Exspecta, et videbis tantus labor quantum
+capiet fructum. I. Fructus praesens est, si permanens
+esse potest.  D. Sustine parumper, quod
+futurum est cito veniet. I. Jam longius processerunt.
+ D. Quid vides? I. Cuneum armatorum de fauce prodire
+ego video, et timeo ne insidiae sint.  D. Timor
+<pb n="0706D"/>
+tardus dolorem non effugiet. I. Uno pariter impetu
+descendunt, et quasi viri latrones ad diripiendam
+praedam veniunt. Jam viatores nostros anxios et
+trementes circa sarcinas suas conglobari video, arma
+capessere quemque e regione sui oneris adventum
+hostium exspectare, omnia circumspicere, nullum
+hominem praeter eos hinc aut illinc patere, loca circum
+omnia longe lateque deserta esse, omnem hominum
+conversationem procul consistere, auxilium
+nullum vel sperari posse. Undique hostes concurrere,
+uno animo impetum facere, multitudine plures,
+cupiditate fortes, solitudine audaces. Quid, miseri,
+frustra contenditis? Quid resistitis? Quid in supremo
+periculo constituti, vitam cum rebus perdere
+vultis? Hei mihi, jam alios necari, alios spoliari
+<pb n="0707A"/>
+prospicio, alios mortuos cadere, alios vix nudos
+effugere video. Sed utrum sic cadentes, an sic effugientes
+magis miseros dicam, ignoro. Illi enim moriendo
+a miseria liberantur, isti mortem effugiendo
+ad alteram miseriam reservantur. Quos potius plangam?
+Quos magis arguam? Plangam morientes, et
+arguam fugientes. Nonne etiam rectissime et illi de
+tali morte arguendi, et isti de tali fuga plangendi
+sunt? Quia et illos in mortem miseram traxit avaritia,
+et istos fugientes a morte excipit morte
+major miseria.  D. Quid tibi videtur, quale est hoc
+opus hominis? I. Vanitas est, et vanitas vanitatum.</p>
+<p> D. Adhucconvertere ad alia, et vide. I. Conversus
+sum, et video. D. Quid vides? I. Video domum divitis.
+<pb n="0707B"/>
+D. Quid ibi vides? I. Rerum omnium affluentiam.
+Natos proficientes, servos alacres, fecundos
+greges, horrea plena, apothecas redundantes, in vita
+sanitatem, in abundantia pacem, in pace securitatem,
+in securitate felicitatem. D. Quid tibi videtur?
+ I. Nihil ego hic dolendum vel timendum video. Prioribus
+tamen exemplis edoctus temere deinceps
+quempiam beatificare non praesumo. Volo potius a te
+audire quid existimandum sit.  D. Talem ergo felicem
+putas? I. Cur non putem nescio.  D. Quid ergo
+plus felicem facit multa possidere an paucis indigere?
+ I. Magis paucis indigere quam multa possidere.
+ D. Ergo felicius est nullis indigere? I. Felicius
+plane.  D. Non ergo felix existimandus est homo si
+multa possidet, sed si multis non indiget. I. Sed tamen
+<pb n="0707C"/>
+felicem homines vocant, qui habet unde necessitatem
+suppleat, quia experti sunt quam miser sit ille,
+quem in sua necessitate rerum inopia coangustat.
+ D. Si mala pauperis et divitis comparare volueris,
+divitem magis quam pauperem miserum agnoscis.
+Dives enim quanto plura possidet, tanto majorem
+sollicitudinem habet. Et cum solus prae omnibus
+sollicitudinis pondus sustineat, aliis amplius quam
+ipsi prosunt ea, quae vel cupide quaerit, vel avare
+conservat. Hunc enim sine intermissione suarum
+aestus curarum exagitat. Timet ne parta deficiant,
+quoniam tametsi magna est rerum possessio, non
+est tamen minor distrahentium multitudo. Timet
+violentiam potentum, suspectam habet fidem familiarium,
+semper imminentes pavet insidias exterorum,
+<pb n="0707D"/>
+et quod se scit cum odio omnium possidere,
+hoc misera quadam et infelici contentione contra
+omnes nititur defendere, sicque fit ut, dum se studio
+pravitatis a communi omnium societate separat,
+cunctis odiosus, et ab omnium charitate alienus
+fiat. Certum etiam habet, quod si quando eum rerum
+abundantia defecerit, nulla eum alienae compassionis
+miseratio exceptura sit. Rerum suarum ipsum quidem
+cura non deserit, sed usus ad alienos transit
+interim, ut saepe illis etiam largiri necesse sit, a
+quibus nec honorem, nec gratiam, nec utilitatem
+sperare possit. Cum retinet maledicitur, non tribuit,
+vanis adulationibus irridetur, sed mens conscia non
+minus irrisione sui quam maledictione offenditur.
+<pb n="0708A"/>
+Semper acerba, semper tristis, semper pusillanimis,
+semper cura praesentium oppressa, et timore futurorum
+anxia; in bonis praesentibus non confidens,
+sed semper mala imminentia metuens. In tantis ergo
+doloribus et perturbationibus mentis, quae, quaeso,
+potest vera esse sanitas, aut delectatio carnis? Quod
+fomentum corpori acerbum non redditur, ubi conscientia
+talibus aculeis laceratur? Haec est felicitas
+divitum, quam tu dum falsa foris bona cerneres
+laudare coeperas, quia veram intus miseriam non
+videbas. I. Si sic diviti est, inimicus sibi fit, qui
+multa possidere concupiscit.  D. Quid ergo tibi videtur,
+quale est hoc opus hominum? I. Hoc quoque
+vanitas est et vanitas vanitatum.  D. Converte nunc
+te ad alia, et vide. I. Conversus sum, et video.  D. 
+<pb n="0708B"/>
+Quid tu vides? I. Video nuptias celebrari.  D. Quid
+tibi in eis videtur? I. Magna laetitia ibi est, magnus
+ornatus, et apparatus multus, et (ut quod mihi videtur
+non taceam) hoc opus idcirco caeteris operibus
+hominum beatius judico, quoniam ipsum praecipue
+est, quod per dilectionis vinculum pacem et concordiam
+parit animorum. Hoc societatem commendat,
+amorem sanctificat, amicitiam servat. Hinc fructus
+prolis oritur, hinc generis nostri propago dilatatur,
+hinc mortis dirae necessitati resistitur, et damna
+patrum in filiis reparantur. Nam cur illud commemorem,
+quod in hoc solo carnis concupiscentia, quae
+alio nec sine magno labore cohiberi, nec sine turpitudine
+laxari potest, ita honeste atque pudice conjugali
+commercio excipitur, ut quasi nulla castitatis
+<pb n="0708C"/>
+damna sentiantur. Nam, etsi ipsa concupiscentia
+experiri voluptatem suam linitur, nulla tamen pudicitiae
+confusio generatur. Quis ergo tot ac tanta bona
+contemnenda existimet nisi qui ea, quae hoc excepto
+mala sequuntur, non videt?  D. Recte de bonis nuptiarum
+judicare posses, si etiam mala earum attenderes.
+Nam quia solum bona, et non mala nuptiarum
+consideras, idcirco in earum consideratione
+rectam judicii censuram non servas. Negari enim
+non potest aliqua quidem bona nuptiis inesse, sed
+si diligenter considerare volumus, plura eis mala
+admista inveniemus. Nam illa animorum concordia
+quam rara sit, quis ignorat? Imo vero velociter cum
+pertaesum fuerit societatis, idipsum, quod concordiam
+generare debuerat, odii et discordiae fomitem
+<pb n="0708D"/>
+subministrat, et tanto jam miserabilius simul vivere
+incipiunt, quanto discordes ab invicem separari
+minus possunt. Hinc rixae quotidianae et jurgia crebrescunt,
+post dura verba, dira verbera succedunt.
+Neuter alterum effugere potest, una domus, una
+mensa, unus lectus, in quo nihil durius est quam
+nec concordem socium, nec hostem habere separatum.
+Nam sicut iis, quibus in charitate mens una
+est, nihil obstat etiam si corpore separati sunt, ita
+magnum tormentum est iis, qui corporaliter sociati
+sunt, si animo convenire non possunt. Praeterea
+quod de propagatione hominum testimonium laudis
+adduxisti, nos sic quidem verum esse concedimus
+ut tamen officium nuptiarum non sanitatis gaudium
+<pb n="0709A"/>
+sed infirmitatis remedium ostendamus, majus enim
+esset ut nullus vivens moreretur, quam ut quisquam
+morienti successurus nasceretur. Nunc autem qualiscunque
+infelicitati nostrae consolatio tribuitur,
+quando ii, qui morientes retineri non possunt, per
+nascentes restaurantur, ut quia semper permanentes
+habere non possumus, saltem semper succedentes
+habemus. Suscipiamus ergo, imo sustineamus
+qualecunque hoc doloris nostri remedium, sed non in
+eo putemus esse felicitatis oblectamentum. Laudamus
+potionem, quam quidem non sine amaritudine
+bibimus, non sine tortione eructamus, quia majorem
+et periculosiorem per eam amaritudinem expellimus.
+Si consideramus delectationem concumbentis,
+consideremus etiam angustiam parturientis. Et ut
+<pb n="0709B"/>
+interim taceamus alias molestias et incommoditates,
+quae voluptatem carnis sequuntur, quia ipsa et vigorem
+naturalem frangit, et omnem virtutem atque
+decorem corporis tam intus quam extra emarcescere
+facit: quis dicere potest, nisi qui expertus est, quantus
+labor, quanta molestia sit infantes excipere, et
+praeter caeteras miserias, quae magis tacendae sunt,
+lactare, educare, nutrire, pueros instruere, disciplina
+pariter et scientia informare, et ad legitimam usque
+aetatem perducere? Quis non satis care unius noctis
+delectationem emisse se dicat, quam tot annorum
+labore et cura recompensat? Si hoc nubentes attendere
+vellent, certe in nuptiis magis flendum quam
+ridendum sibi fore cognoscerent. Nunc autem quasi
+<pb n="0709C"/>
+modica eis concupiscentiae esca in hamo anteponitur
+ut ad diram laboris et doloris necessitatem capiantur.
+Tale est gaudium, quod vides. I. Nihil per omnia
+contradici potest, validae sunt rationes tuae.  D. Quid
+ergo tibi videtur, quale est hoc opus hominum?
+ I. Vanitas est hoc quoque, et vanitas vanitatum.</p>
+<p> D. Converte adhuc te ad aliud et vide? I. Conversus
+sum, et video. D. Quid vides? I. Scholam discentium
+video. Magna est multitudo, diversas ibi aetates
+hominum conspicio, pueros, adolescentes, juvenes,
+senes; diversa quoque studia. Alii ad formata nova
+elementa atque voces insolitas edendas rudem adhuc
+linguam inflectere discunt. Alii verborum inflexiones,
+compositiones et derivationes, primum audiendo
+<pb n="0709D"/>
+cognoscere, deinde conferendo adinvicem, atque
+identidem repetendo memoriae commendare satagunt.
+Alii ceras stylo exarant. Alii figuras variis modis et
+diversis coloribus in membranis docta manu calamum
+ducente designant. Alii autem acriori et ferventiori
+quodam studio de magnis (ut videtur) negotiis
+disceptationes quasdam ad invicem exercent, et
+se quibusdam verborum innexionibus et gryphis
+vicissim fallere contendunt. Calculantes etiam quosdam
+ibi video. Alii tensum in ligno nervum percutientes
+diversorum sonorum, melodias proferunt.
+Alii vero quasdam descriptiones, et mensurarum
+formas explicant. Alii cursus et positiones siderum,
+et coeli conversionem quibusdam instrumentis manifeste
+describunt. Alii de natura herbarum, de constitutionibus
+<pb n="0710A"/>
+hominum, de qualitate rerum omnium
+et virtute pertractant. In his autem omnibus licet
+non una sit discendi forma, una tamen omnibus est
+proficiendi voluntas, hoc autem sive otium negotiosum,
+sive negotium otiosum appellandum sit,
+cunctis humanis actionibus tuo quoque judicio praeferendum
+existimo, eo quod nihil transitorium, nihil
+caducum, sed quod aeternum est sapientiae decus,
+per id mentibus inseritur, et radix ejus amplius non
+eradicanda plantatur. D. Imago veritatis fallit te.
+Nam et ista est consuetudo mundi hujus, ut id quod
+magis ad animos hominum illaqueandos praeparat,
+ne caveri aut vitari possit quadam similitudine veritatis
+intexat. Error enim quanto manifestius
+agnoscitur, tanto citius reprobatur. Occultus autem
+<pb n="0710B"/>
+dum foris speciem veritatis erexit, intus venenum
+falsitatis infundit. Talia sunt ista non sapientiae,
+sed dementiae humanae studia quibus imprudentes
+et stulti tam inutili quam pertinaci labore
+naturas rerum inquirunt, Auctorem vero suum,
+et naturarum simul omnium artificem ignorant,
+et tamen quaerere negligunt, quasi sine Deo
+aut veritas possit inveniri, aut felicitas possideri.
+Et ut apertius adhuc agnoscas quam infructuosa,
+imo quam perniciosa sint studia haec, animos non
+solum ad cognoscendam veritatem non illuminant,
+sed ne veritatem agnoscere possint, prorsus excaecant.
+Rapiunt enim cor hominis, et quodammodo
+extra semetipsum abducunt, ut dum ad alia, quae
+ad rem non pertinent, consideranda trahitur, ad
+<pb n="0710C"/>
+circumspectionem sui minime revertatur. Sic solent
+aves capi, quibus in tenebris terrae noctis hinc
+quod intueantur lumen ostenditur, hinc quo capiantur
+laqueus praeparatur. Quid ergo prodest homini,
+si rerum omnium naturam subtiliter investiget, efficaciter
+comprehendat; ipse autem unde venerit,
+aut quo post hanc vitam iturus sit non consideret,
+nec intelligat? Quid enim est ista vita mortalis,
+nisi via quaedam? Transeuntes enim sumus, et ea
+quae in hoc mundo sunt quasi a latere transeundo
+conspicimus. Quid ergo, si nova aliqua et ignota
+nobis transeuntes cernimus, nunquid ad inquirenda
+ea aut subsistere, aut ab itinere nostro declinare
+debemus? Hoc faciunt isti quos tu vides, qui quasi
+<pb n="0710D"/>
+stulti viatores, propositivi obliti sunt, et ad inquirenda
+haec, quae vident ignota, quasi in via consederunt.
+Jamque usu et assiduitate hujus vanitatis
+adeo a semetipsis exsulant, ut nec in via se esse
+meminerint, nec patriam requirant. I. Si sic est,
+ut dicis, omnibus aliis istos miserabiliores judico,
+quorum vita tanto errore involvitur, ut non solum
+alii, verum etiam ipsi in studio suo decipiantur.  D. 
+Prorsus sic esse et conversatio eorum probat, et
+finis demonstrat. Conversatio quidem, qua nihil
+turpius, finis vero, quo nihil infelicius esse potest,
+ut morientes spem salutis non habeant, qui viventes
+per iter virtutis incedere nolebant. I. Vere fateor
+quod omnino ineptum est illum sapientem dicere,
+qui quamlibet ab alia oculum habeat apertum,
+<pb n="0711A"/>
+suum tamen interitum aut praevidere nequeat, aut
+cavere detrectet. Quod autem ejusmodi homines nec
+cautelam instantium, nec providentiam habeant futurorum,
+lubrica eorum vita, et dissoluta conversatio,
+<pb n="0712A"/>
+nec non et infames gressus satis demonstrant.
+ D. Quid ergo tibi videtur, quale est hoc opus hominum?
+ I. Video plane quod et hoc vanitas, et vanitas
+vanitatum est.</p>
+</div1>
+
+<div1>
+        <head>LIBER SECUNDUS.</head>
+
+<pb n="0711"/>
+<p>
+          <pb n="0711A"/>Longum est per singula vanitatem hujus mundi
+demonstrare. Scias tamen quod ex istis omnibus
+quae vides nihil permanens est <note>(Eccle. II)</note>, sed <hi>transeunt
+universa, et revertuntur</hi> illuc unde orta sunt.
+<pb n="0711B"/>
+Omnia sicut initium, ita habent et finem, sed dissimiliter
+currunt, et non aeque perveniunt. Alia recens
+orta sunt, alia jam olim occiderunt, alia inter
+medium pertranseunt, alia ortis nascentia succedunt,
+simul tamen omnia defluunt, et ad unum
+locum tendunt. O magnum flumen, quo raperis?
+Parvus est ortus tuus, de fonte exiguo manas, de
+vena modica erumpis. Curris et crescis, descendis
+et absorberis. Curris, sed deorsum; crescis, sed ad
+interitum: venis et praeteris, sed effluis, sed absorberis.
+O vena quae non deficis, o cursus qui non
+requiescis, o vorago quae non repleris! Quantum
+vanitas subjicit! Quantum mortalitas trahit, tantum
+insanabilis mors deglutit! Nec illa edere, nec ista
+trahere, neque haec unquam cessat ahsorbere. Semper
+<pb n="0711C"/>
+praesentia transeunt, semper futura succedunt,
+et quia continuus est successus, perpetuus status
+esse putatur. Sunt enim oculi mortalium depressi,
+et cursum universorum non respiciunt, atque in
+exiguis rerum particulis defixi, quid agatur in toto
+non attendunt. Brevis est etiam vita hominis super
+terram, et dies ejus in certa sorte percurrunt.
+Mens vero tenebris suis obvoluta non multum valet
+aut futura prospicere, aut praeterita meminisse.
+Cumque solum iis, quae coram posita sint, occupata
+tenetur, innovatio praesentium aufert ei praeteritorum
+memoriam. Hinc est quod homines cum de
+mutabilitate rerum aliquid audiunt, continuo stupent
+et admirantur quasi novum aliquid acciderit,
+quia profecto hoc sermo loquentis improvidis mentibus
+<pb n="0711D"/>
+novum ingerit, quod in rerum cursu jam olim
+vetus fuit. Sic ergo mutabilitas rerum praesentium
+semper vetus est, semperque nova. Vetus iis, qui
+pridem illam experimento vel ratione didicerunt,
+nova iis, qui nunc primum vel experimento excitati,
+vel doctrina admoniti illam cognoscere incipiunt.
+Sed et futuris posterior erit ista cognitio,
+quia ii quoque, qui post nos futuri sunt, non mox
+ut mundo uti coeperint, nisi post longa experimenta
+istam mutabilitatis ejus cognitionem habebunt.
+Respice ergo hunc mundum miserum, et magis
+miseros qui diligunt eum. Iste est, quem putavimus
+aliquando nobis esse amicum, in quo nobis
+tempora longa promisimus, vitam quietam, tranquillam
+<pb n="0712A"/>
+pacem, felicitatem perpetuam. Iste est, cujus
+pulchritudinem dileximus, cujus speciem laudavimus,
+cujus jucunditatem concupivimus, cujus
+gloriam desideravimus, cujus gaudium amplexi sumus.
+<pb n="0712B"/>
+Certe vides nunc quam sint vana haec omnia,
+et nunquam sapientibus, aut virtutis amatoribus
+appetenda. Ubi enim sunt patres nostri? Ubi sunt
+illi divites et potentes, quos olim in hujus mundi
+gloria elatos vidimus? Ubi postremo sunt omnes,
+de quorum amicitia et familiaritate praesumebamus?
+Ecce transierunt universi ante nos, et nos
+soli relicti sumus post eos. Cogitemus nunc saeculum
+illud praeteritorum temporum, quando cum illis fuimus,
+et quae futura adhuc fuerant nesciebamus,
+quando unum nobis cum illis erat propositum, una
+voluntas, unum desiderium, una mansio, una dilectio,
+unus amor vitae, una mortis exspectatio.
+Modo sublati sunt illi a nobis, et quasi praecurrentes
+citius hinc exierunt, ubi erant exsules, et citius illuc
+<pb n="0712C"/>
+pervenerunt, ubi sunt cives. Nos igitur si illos praesentes
+vere dileximus, nunc in eorum absentia
+amorem nostrum comprobemus. Sequamur desiderio
+ubi illi sunt, et citius ad eos pervenire, simulque
+cum eis esse desideremus. Infideles pariter, et
+inconstantes esse comprobamur, si propter amorem
+praesentium prioris dilectionis obliviscimur.
+O saeculum antiquum, ubi es? Olim enim dum eras
+dilexi te, et modo iterum cum non es diligo te, neque
+unquam transitus tuus amorem tui minuere
+potuit apud me. Quando eras dilexi te, ut permaneres,
+modo autem quando non es, diligo te, non
+tamen volo ut huc revertaris ad me. Miror ipse
+desiderium meum et affectum meum convenio, nec
+comprehendo. Quid ergo diligo in te si nolo ut subsistas,
+<pb n="0712D"/>
+nec opto ut redeas? Quis est affectus iste
+tam extraneus, tam inauditus, ubi res diligitur, et
+praesentia ejus non amatur? Quis explicet cordi meo
+quae sit ista dilectio? Scio quidem quod diligo te,
+neque tamen volo ut revertaris ad me. Et ideo fortassis
+iterum redire te nolo, quia ibi potius ubi tu
+es tecum esse desidero. Olim ergo perverse dilexi
+te, quia ubi ego sum, te ut mecum transires esse
+volui, nunc consideratius diligo te, quia ibi tecum
+esse volo, ubi semper subsistas. Ego in exsilio sum,
+ut in patria es, et idcirco de te cogitare nunquam
+fastidio, quia per memoriam et recordationem tui
+quodammodo mente ad patriam recurro. O quam
+dulce est in terra aliena praeteritorum meminisse!
+<pb n="0713A"/>
+Non saturatur mens desiderio, sequitur praeteritorum
+semitam, videt intus viam qua transeat, videt
+finem quo tendat, videt locum quo perveniat,
+videt portum ubi requiescat. I. Sicut olim cum
+mundum istum existimavi stabilem, species ejus me
+accendebat ad amorem praesentium; ita nunc mirum
+in modum ejus mutabilitas me provocat ad
+desiderium futurorum. Rapior affectu et trahor desiderio
+quo currunt omnia, etiam nunc in rebus hoc
+ipsum, quod transeunt, diligo, quia ex ipsa mutatione,
+et exemplo universorum ad transeundum hinc
+amplius inardesco. Videntur mihi in quodam procinctu
+esse universa et totius naturae quasi clamor
+exhortationis aures meas pulsat simul currentium,
+ut ad finem suum cuncta perveniant.</p>
+<p> D. Ergo cognoscis omnia, quae in hoc mundo sunt
+<pb n="0713B"/>
+caduca, esse transitoria? I. Res ipsa probat, etiam
+si ego non cognoverim.  D. Quid ergo illis erit, qui
+in istis confidunt? I. Quid nisi ut inanes et vacui
+remaneant cum pertransierint ipsa quae diligunt?
+ D. Bonum est ergo fugere hinc, et certiorem mansionem
+quaerere. I. Nihil melius, sed quaeso te,
+edoce me quo extra mundum ibimus, ut cunctis
+quae in mundo sunt transeuntibus, nos stabiles permanere
+possimus?  D. Interim considera mundum
+hunc universum, propter mutabilitatem rerum omnium
+quasi diluvium quoddam decurrentium aquarum.
+ I. Video plane nihil esse stabile, sed omnia ire
+in praeceps.  D. Deinde cogita amatores hujus mundi
+quasi quosdam naufragos qui mersi in hujus salis
+<pb n="0713C"/>
+profundo deorsum rapiuntur. I. Nihil convenientius
+dici potest, sic sunt omnes, qui transitoria diligunt,
+cum iis, quibus inhaerent defluunt.  D. Puto autem
+te non ambigere quin apud Deum nihil praetereat,
+sed omnia immutabili aeternitate subsistant. I. Nemo
+est qui ambigat.  D. Contemplare ergo Deum quasi
+sursum in summo, mundum autem hunc deorsum
+in imo. Illum in eodem semper aeternitatis suae
+statu consistere, hunc autem cursu mutabilitatis
+suae semper fluere atque instabilem esse. I. Manifesta
+res est, prosequere incoeptum tuum.  D. Deinde
+considera humanum animum quasi in quodam medio
+collocatum, qui quadam conditionis suae excellentia,
+et huic, quae deorsum est, mutabilitati superemineat,
+et ad illam, quae sursum est apud Deum
+<pb n="0713D"/>
+verum, immutabilitatem necdum pertingat. I. Pulchra
+est, et admodum placet dispositio ista.  D. Si
+autem animus his, quae deorsum transeunt, se per
+cupiditatem immerserit, statim per infinitas distractiones
+rapitur, et a semetipso quodammodo divisus
+dissipatur. I. Perquam periculosa est ista distractio.
+At scire velim utrum quisquam ita late
+dispersus rursus colligi possit.  D. Potest omnino si
+se iterum erexerit, et haec infima excutiens, rursus
+esse secum didicerit. Tanto denique amplius quisque
+animo in unum colligitur, quanto magis ima
+deserens cogitatione et desiderio sursum elevatur,
+donec tandem omnino immutabilis sit, cum ad illam
+unam, et summam immutabilitatem pervenerit.
+<pb n="0714A"/>
+Ascendit ergo animus ab hac infinita distractione,
+quae deorsum est, tantoque magis, ut dictum est,
+in unum colligitur, quanto magis sursum elevatur,
+donec ad veram et unicam (quae est apud Deum)
+immutabilitatem perveniat, ubi perpetuo sine omni
+immutabilitatis vicissitudine, requiescat. I. Quia
+prius de diluvio mentionem feceras, videtur mihi
+quasi nunc consequenter quamdam specialis arcae
+formam in corde humano effingas. Sane mihi diligentius
+consideranti admirabilis apparet fabrica ista, et
+quamvis adhuc nesciam propter quid ad illam sermonem
+diverteris, existimo tamen magnum aliquid
+esse, quod demonstrare conaris. Tria siquidem proponis
+mihi hactenus tam incognita quam inaudita,
+nunc autem tam insolita quam admiranda. Primum
+est universus mundus iste cum omnibus quae in eo
+<pb n="0714B"/>
+sunt in modum decurrentium aquarum praeterfluens,
+cujus inundationes, et motus mutabilitatis sive diluvio
+omnia occupanti, sive mari magno comparemus,
+res ipsa simillima est. Secundum est cor humanum
+ab his transitoriis et mutabilibus se erigens,
+et paulatim colligens se in unum ut ubi mutabilibus
+proximum est, ibi quasi arca deorsum in fundo latum
+appareat, coadunatur autem, et quodammodo
+in unum colligatur, ubi magis aeternis et immutabilibus
+appropinquat. Deinde in supremo et tertio loco
+Deum constituis, ut arcam cordis humani deorsum
+huic fluctuanti salo insidentem, et quasi gubernator
+dirigat, et quasi anchora teneat, et quasi portus
+excipiat. Video itaque haec tria imo quasi diluvium
+<pb n="0714C"/>
+quoddam, mundum istum in medio quasi arcam
+quamdam, cor humanum in supremo quasi gubernatorem
+Deum. Porro arca haec non solum novitate,
+sed magnitudine quoque me ad stuporem excitat,
+quam tantae immensitatis esse conspicio, ut et deorsum
+fundus ejus aquis hujus diluvii insideat, et cacumen
+ejus sursum usque ad Deum pertingat. Verum
+haec quid ad propositum nostri sermonis pertineant,
+quamvis sine causa te ea commemorasse non
+existimo, scire tamen plenius concupisco.  D. Recolis
+quid primum tibi persuadere coeperim? I. Recolo;
+dixisti enim mundum istum fugiendum esse,
+et quod spes in eo habenda non sit. Propterea quod
+nihil omnium, quae in eo sunt, diu subsistere ac
+permanere possit. Quod cum manifesta et irrefragabili
+<pb n="0714D"/>
+veritate mihi comprobasses, coepi ego quoque
+hoc vehementer velle, et quomodo hinc fugiendum
+esset nulla potui ratione invenire. Deinde tu quaedam
+inducere coepisti, utrum ad demonstrandum
+hoc nescio, ubi distinctione quadam pulchra satis et
+artificiosa mundum hunc quasi diluvium quoddam
+in imo, cor humanum quasi arcam quamdam in medio,
+Deum vero quasi gubernatorem constituisti in
+supremo.  D. Profecto haec idcirco adduxi, ut tibi
+periclitanti viam salutis ostenderem, et quasi vere
+naufrago vel in diluvio arcam, vel in mari navem
+praepararem. Cum enim in medio fluctuantis hujus
+sali profundo jacteris, quomodo putas aut periculum
+evadere, aut ad portum pervenire poteris, nisi
+<pb n="0715A"/>
+hujus salutaris ligni (sive hoc arcam, sive navem
+nomines) adminiculo transveharis? I. Novae istae
+similitudines tuae in novam ambiguitatem me pertrahunt.
+Si enim totus mundus mare vel diluvium
+est, ad quem locum extra mundum navigabimus,
+ubi tranquillam et stabilem mansionem inveniamus?
+Praeterea si cor hominis arca, et navis est, qua ratione
+homo vel intrare cor suum, vel cum corde suo
+mundum transnavigare potest? Postremo cum Deus,
+quem tu portum esse dixisti, sursum sit, qualis
+erit cursus iste, ubi more insolito et inaudito et iter
+navis sursum dirigitur, et navigans a semetipso
+portatur?  D. Quando mentis oculum ad invisibilia
+erigere volumus, similitudines visibilium rerum quasi
+quaedam cognitionis vestigia respicere debemus. In
+<pb n="0715B"/>
+spiritualibus ergo, et invisibilibus cum aliquid supremum
+dicitur, non quasi localiter supra culmen
+aut verticem coeli constitutum, sed intimum omnium
+significatur. Ascendere ergo ad Deum hoc est
+intrare ad semetipsum, et non solum ad se intrare,
+sed ineffabili quodammodo in intimis etiam seipsum
+transire. Qui ergo seipsum, ut ita dicam, interius
+intrans et intrinsecus penetrans transcendit, ille
+veraciter ad Deum ascendit. Quando autem homo
+per sensus carnis ad visibilia ista, quae transitoria
+sunt et caduca, concupiscendo exit, tunc nimirum
+a dignitate conditionis suae quasi ad infima quaedam
+et abjecta descendit. Quod ergo intimum est, hoc
+est proximum, et supremum, et aeternum; et quod
+extremum est, hoc est infimum, et longinquum, et
+<pb n="0715C"/>
+transitorium. Ab extremo itaque redire ad intimum,
+hoc est ab imo ascendere ad supremum, atque a
+dispersione confusionis et mutabilitatis colligi in
+idipsum. Quia vero mundum hunc extra nos, Deum
+autem intra nos esse cognoscimus, ob hoc a mundo
+ad Deum revertentes, et quasi ab imo sursum ascendentes
+per nosmetipsos transire debemus. Sicque
+ipsi quodammodo inter undas nos transvehimus,
+quando ab his quae foris mutabilia sunt, ad nos
+ingressi stabilitatem invenimus. I. O arcam salutarem,
+o portum felicem! Beatus qui hoc tempestuosum
+salum illaesus potest evadere, et ad illam unicae
+quietis tranquillitatem pervenire. Optarem in illam
+ingredi, optarem in illa salvari, optarem in illa
+<pb n="0715D"/>
+perduci. Doce ergo, obsecro, quomodo quisque cordis
+sui arcam intrare debeat, et cum in illa fuerit,
+quid agendo, periculum evadere, et ad portum
+optatae quietis possit pervenire.  D. Quia semel rerum
+similitudines in loquendo suscepimus, justum est,
+ut in decursu nostri sermonis prout res postulat
+deinceps eas teneamus. Mundus diluvium est, cor
+autem hominis, si per amorem mundanorum se
+deorsum inclinat, naufragatur inter fluctus saeculi,
+et mutabilibus admistum inter labentia fluit geminoque
+salutis periculo et per affectum infimorum
+profunde mergitur, et per occupationem plurimorum
+late dissipatur. Si vero rursum se ab amore
+praesentium per desiderium erexerit aeternorum, ac
+per considerationem propriam cogitationes suas ad
+<pb n="0716A"/>
+semetipsum collegerit, jam quodammodo fluctibus
+rerum superenatat, et cuncta transitoria quasi subterlabentia
+calcat, atque in eo quod se paulatim per
+gradus virtutum, magis semper ac magis sursum
+erigit et in unum colligit, quamdam arcae formam
+spiritualiter in se expressam repraesentat.</p>
+<p>Quaedam ergo corda sursum sunt, quaedam semetipsa
+deorsum demerserunt. Deorsum sunt illa
+corda, quae configurantur huic saeculo, sursum vero
+sunt illa, quae conversationem suam habent in coelo.
+Deorsum sunt, quae terrena sapiunt; sursum sunt,
+quae jugiter meditantur coelestia; secundum id ergo
+cui per amorem conjungitur, cor hominis sursum
+ac deorsum esse judicatur. Et reete extra semetipsum
+esse dicitur, quando ad exteriora et transitoria
+<pb n="0716B"/>
+haec expetenda dilabitur. Tunc autem ad semetipsum
+revertitur, quando ea quae ad suam salutem
+pertinent, meditatur. Sunt ergo quaedam quae amando
+et cogitando cor hominis deorsum premitur, scissumque
+per varia dissipatur et sunt iterum quaedam,
+quae amando et meditando sursum elevatur, et ad
+semetipsum colligitur. Propter quod oportet nos omnium
+rerum speciem in duo dividere, et in altera
+parte opera conditionis, in altera vero opera restaurationis
+collocare. Et ut breviter distinctionem horum
+signemus, opera conditionis sunt elementa
+mundi hujus quae facta sunt, ut stanti homini servirent.
+Opera restaurationis sunt sacramenta incarnationis
+Verbi, quae ad remedium data sunt, ut
+lapsum erigerent. Haec duo opera tantum differenti
+<pb n="0716C"/>
+tempore facta sunt, quantum dignitate se praecedunt.
+Opera enim conditionis quasi exiguum aliquid
+divinae virtutis indicium brevi in principio mundi
+tempore, hoc est sex diebus perfecta sunt. Opera
+vero restaurationis a principio saeculi usque ad finem
+non nisi sex aetatum emenso spatio quasi eximia
+quaedam majestatis et divinitatis insignia perfici
+aut consummari possunt. Opera ergo conditionis ad
+tempus data, post in servitutem facta sunt. Opera
+vero restaurationis in perpetuum data sunt ad salutem.
+Propter quod electi opera restaurationis magis
+diligunt, reprobi autem opera conditionis operibus
+restaurationis anteponunt. Reprobi visibilibus
+inhaerendo cum transeuntibus defluunt, electi vero
+<pb n="0716D"/>
+visibilia, et transitoria contemnendo ad aeterna
+conscendunt. Illi per visibilia ab invisibilibus corruunt.
+Isti a visibilibus ad invisibilia ascendunt. De
+operibus ergo conditionis subter defluentibus electi
+quasi de quodam naufragio emergunt, et per opera
+restaurationis, id est sacramenta salutis suae subvecti
+quasi in quadam salutari arca mergi amplius
+omnino non possunt. Quia igitur homo opera conditionis
+perverse amando dispersus fuerat. et per
+opera restaurationis colligendus erat, ipsa quidem
+restaurationis opera sic facta sunt, ut et multa quidem
+essent, non tamen infinita, quatenus cor hominis
+verae adhuc stabilitatis impatiens, et varietate
+reficerent et paucitate in unum congregarent.
+Et sicut prius homo per visibilia a contemplatione
+<pb n="0717A"/>
+Dei ceciderat, ita nunc per visibilia Dei opera admonitus
+ad ipsum iterum contemplandum resurgere
+consuescat. Quia rursum ipsa restaurationis opera
+quaedam per homines, quaedam per angelos, quaedam
+per semetipsum operatus est Deus, cum de operibus
+hominum ad opera angelorum, et iterum de operibus
+angelorum ad opera Dei contemplanda transimus,
+quasi de prima mansione ad secundam, et de secunda
+ad tertiam mansionem in spirituali arca ascendimus,
+et tandem ipsum supremum, in quo arca consummatur,
+cubitum tangimus, quando per opera Dei ad
+ejus cognitionem pervenimus.</p>
+<p divs_removed="true">Arca autem in longitudine trecentorum cubitorum
+porrigitur, quia, sicut dictum est,  « opera restaurationis
+nostrae a principio mundi usque ad finem per
+<pb n="0717B"/>
+tria tempora, naturae, legis et gratiae, quasi per tres
+centenarios extenditur. »  Latitudo autem ejus in
+quinquaginta cubitos, et altitudo in triginta definitur,
+quia omnis multitudo fidelium, in quibus et
+propter quos haec facta sunt, per septies septem,
+id est quadraginta novem uno adjecto capite Christo
+exprimitur, et omnis summa gestorum, quae a principio
+Deus fecit propter hominem, in triginta voluminibus
+divinae paginae continetur. Docebo ergo te
+quid facias. Calca et contemne caduca et transitoria,
+et ecce de diluvio emersisti. Considera jugiter et
+meditare reparationis tuae sacramenta et divinae pietatis
+tibi impensa beneficia, et in arcam intrasti.
+Quando autem cogitationem tuam ab exordio mundi
+usque ad finem saeculi in contemplationem mirabilium
+<pb n="0717C"/>
+Dei ducis, et quid propter nostram salutem
+vel sub naturali lege, vel sub scripta, vel tandem
+sub gratia operatus sit perpendis, quasi trecentorum
+cubitorum longitudinem in corde tuo metiris.
+Quando autem universitatem fidelium consideras,
+quasi in mensuram quinquaginta cubitorum cor
+tuum dilatas. Quando vero scientiam divinae Scripturae
+studio et assiduitate comprehendis, in altitudinem
+triginta cubitorum cor tuum erigis. Longitudo
+igitur arcae in tempore est, latitudo in multitudine,
+altitudo in operum quantitate. Sive etiam
+longitudo considerari potest in gestis, hoc est historia,
+latitudo in sacramentis, hoc est allegoria,
+altitudo in virtutibus, hoc est, tropologia, ut in his
+finibus concludatur omnis Scriptura divina. De his
+<pb n="0717D"/>
+scriptionibus in alio quodam libro, quem <hi>De arca</hi> 
+composuimus, plura diximus, quae omnia hic recapitulare
+non oportet. Hoc autem solum restat ut intremus
+in hoc salutare habitaculum, quatenus et
+mala ista quae foris sunt effugere et delectationes
+illas dulcedinis Dei, quas ipse abscondit diligentibus
+se, intus valeamus invenire. Haec est enim domus
+Dei et cella vinaria, quo rex sponsam suam introduxit,
+ut ordinaret in ea charitatem suam <note>(Cant. I)</note>,
+quam si semel ingressi fuerimus, poterimus, Deo
+juvante, tam facile in illa jucunditate universa
+mundi hujus oblectamenta despicere quam in illa
+securi adversa non timere.
+
+        </p>
+        <div3 moved_from_p="true">
+            <head>I.</head>
+          <p>
+ Quomodo intrabimus in domum Domini?  D. In
+<pb n="0718A"/>
+multitudine misericordiae ejus. I. Quid est in multitudine
+misericordiae ejus?  D. Quia multa est miseria
+nostra, idcirco multitudo misericordiae nobis est necessaria.
+Quoties enim mens ad semetipsam redire,
+suosque affectus et cogitationes pariter ad secretum
+internae contemplationis retrahere nititur,
+tot obsistentes aditum ei ingredienti praecludunt,
+quot vitae veteris desideria ad priscae consuetudinis
+discursus, erroresque ipsam retrahendo stabilem
+esse non sinunt. Sed expetenda est atque imploranda
+divina misericordia, quae nos promoveat
+quoties ab ingressu quietis intimae nostra miseria
+nos retardat. I. Ecce ingredimur in domum Domini
+quandiu permanebimus in ea?  D. Donec transeat
+iniquitas, donec cessent aquae diluvii, in arca nos
+<pb n="0718B"/>
+esse oportet, postea securi exibimus, quia finito hoc
+saeculo non erit amplius quod timendum sit, quando
+nec mundus foris caducum, nec homo intus corruptum
+aliquid habebit. I. Et postquam ingressi
+fuerimus in domum Domini, quid ibi faciemus?  D. 
+Erimus in pace perpetua et jucunditate. Omnes
+enim qui ibi manent, non laborant neque solliciti
+sunt, quia nec indigentia illic est praesentium, nec
+timor futurorum. I. Quid ergo faciemus ibi, si non
+laborabimus?  D. Unum est ibi omnium contemplari
+mirabilia Dei, et laudare eum in operibus suis. Et
+si onerosum tibi non esset, unum exemplum proponerem,
+in quo quemadmodum in illo interiori cordis
+habitaculo conversari debeas, patenter demonstrarem.
+ I. Imo vero hoc vehementer expeto, nec
+<pb n="0718C"/>
+onerosum ullatenus esse poterit, quod desiderantem
+animum ad effectum desiderii sui perducit.  D. Habitaculum
+illud interius, quod propter varias rerum
+similitudines, nunc arcam, nunc domum appellare
+solemus, quasi domus est divitis patrisfamilias, animus
+autem quasi filius delicatus, qui in domo patris
+sui tantum delicate nutritur, quantum tenere
+diligitur. Consideremus ergo quomodo vivat parvulus
+in domo patris sui, quia in domo Dei oportet, et
+nos taliter conversari. Ipse namque dicit: <hi>Nisi efficiamini
+sicut parvulus iste, non intrabitis in regnum
+coelorum <note>(Matth. XXVIII)</note>
+            </hi>. Quid ergo parvulus facit?
+ D. Non est sollicitus, nec concupiscit, ludo simplici,
+et innocenti exercet se, in tantum domestica diligit,
+<pb n="0718D"/>
+ut ad regnum etiam translatus magis antiqua requirat,
+et solitis interesse desideret. Cognoscit possessionem
+patris sui, nunc in campo, nunc in horto,
+nunc in pomeriis, nunc in pratis, nunc ad fontes,
+nunc ad vineas discurrit singulis anni temporibus,
+proprias delectationes habet. In vere arantes et seminantes
+sequitur, in aestate metentes et in autumno
+vindemiantes comitatur. Ubique pastum, ubique
+jocum, ubique refectionem, ubique delectationem
+invenit, et praeter illas quotidianas et domesticas
+epulas, quibus domi pascitur, etiam foris cibariis
+servorum nonnunquam degustatis ad priores delicias
+renovatur. Gaudet novellos fructus decerpere, et
+spicas immaturis adhuc granis igne tostas confricare,
+betros maturescentes eligere, avicularum nidos
+<pb n="0719A"/>
+explorare, et vel ova, vel pullos inventos cum
+magno gaudio et tripudio domum deportare, et
+quasi de sua venatione, licet tenui, magis quam de
+alienis copiis refectionem quaerere. Si forte cognoverit
+patrem suum quoquam iturum sive ad villam,
+sive ad castellum, sive ad nundinas, sive ad solemnitates,
+et in proximo rediturum, optat simul ire ut
+illa nova, et insolita videat, ut reversus possit sodalibus
+suis narrare quae viderit, quis cultus hominum,
+quis situs loco rum, quae magnitudo urbium,
+quae celsitudo domorum, quae copia rerum venalium,
+quod invenerit, quod emerit, quod attulerit. Reversurus
+ergo libenter exit, sed si quis exsilium, unde
+reditus amplius sperari non posset, ire eum compelleret,
+non sine magno gemitu et dolore de patria
+<pb n="0719B"/>
+domo exiret. Libenter ergo exit, ut redeat, videre
+ea quae foris sunt, aliquando appetit ut vel ditior vel
+recentior ad sua revertatur. Mansionem autem perpetuam
+non nisi in domo patris sui, et cum domesticis
+ejus, inter quos natus, et cum quibus enutritus
+est, habere desiderat, cum illis vivere et inter
+illos senescere, ab illis optat nec in morte separari,
+ut nec moriens deserat, quos vivos, et notos, et charos
+habebat. Hanc cupit semper habere societatem,
+hanc mansionem, has delicias, hanc jucunditatem.
+Nihil extra requirit, nihil amplius concupiscit.
+Taliter studeamus conversari in domo Domini,
+et inveniemus pacem pariter, et requiem, et
+jucunditatem. Simus simplices aliena non concupiscentes,
+delectationes quas nobis Deus praeparavit,
+<pb n="0719C"/>
+quae in domo ejus inveniuntur, magis quam oblectamenta
+mundi hujus amantes. In eis jugiter exerceamus
+cor nostrum. Laetificemus animum nostrum,
+accendamus affectum. Habemus ibi fontes lucidissimos.
+Habemus prata florida, campos planos et spatiosos,
+vineas uberes, greges fecundos, messem fertilem,
+pomaria fructifera, hortos irriguos, et omnium
+deliciarum genera, quae mens bene potest appetere
+vel feliciter possidere. I. Dic, oro apertius, quaenam
+sint haec, quae recitasti, oblectamenta.  D. Arbores
+fructiferae sunt homines justi bonorum operum
+exempla nobis ad refectionem portantes, fontes sunt
+sapientes, campi humiles, vineae per disciplinam
+semetipsos excolentes, diversis virtutibus quasi
+<pb n="0719D"/>
+horti, et prata vernantes, messe laboris sui alios reficientes,
+et gregem fidelium verbo, et exemplo alios
+ad fidem trahendo, et quasi pariendo multiplicantes.
+Has delicias in domo Dei extrinsecus habemus,
+exceptis illis singularibus epulis, quibus mater gratia
+nos intrinsecus quotidie saginat et reficit. Ingrediamur
+ergo nunc, et Dominus dux erit nobis, ut dirigat
+gressus nostros in semita mandatorum suorum,
+ut recolentes miserationes ejus, quae a saeculo sunt,
+in ejus amore exerceamus cor nostrum, et accendamus
+desiderium <note>(Psal. CXVIII)</note>. Cum autem ingressi
+fuerimus, ego ducam te praecedens per omnia a prima
+fronte domus usque ad interiora penetralium, in
+longum, et latum, et altum, universa lustrabimus
+caenacula, et tristega, tandem conscendemus et non
+<pb n="0720A"/>
+cessabimus donec ad solium regis perveniamus. Deambulabimus
+per cuncta opera restaurationis nostrae
+ab exordio usque ad consummationem saeculi secundum
+decursum temporum, eventus rerum et facta
+hominum. Cumque intrinsecus quae sunt contemplati
+fuerimus, ego aliquando aperiam fenestram
+arcae, et alternatim ea, quae foris sunt, respicientes
+in aquis hujus diluvii oculos mentis renovabimus.
+Magis enim delectabile erit alternis vicibus, nunc
+ea, quae evasimus quasi de quadam statione, mala
+prospicere nunc ea quae invenimus et possidemus
+bona reductis ad interiora oculis considerare. I. Arctius
+ipsa bona amabimus, si vicissim miseriae
+quoque et periculi semper reminisci, semper moneri
+studuerimus.  D. Tuum ergo erit ex omnibus,
+<pb n="0720B"/>
+quae vel intrinsecus vel extrinsecus videris mirabilia,
+quantum volueris et dignum judicaveris interrogare,
+meum autem erit quantum voluero tuis interrogationibus
+respondere. Introducam autem primum
+te in partem superiorem domus. hoc est in
+frontem, quae est ad orientem ut ingressus noster
+simul fiat ab initio mundi, et ab initio saeculi. Nam
+quia longitudo domus trecentorum est cubitorum,
+superior frons orientem tangit, inferior autem
+usque ad occidentem pervenit. Latus vero sinistrum
+ad austrum et dextrum ad aquilonem respicit, qui
+divina providentia decursum rerum sic ordinavit, ut
+ea quae in principio saeculi facta sunt, in oriente
+quasi in principio mundi fierent, tandemque decurrentibus
+temporibus ad finem saeculi rerum summa
+<pb n="0720C"/>
+ad occidentem descenderet, hoc est ad finem mundi;
+ideo primus homo postquam creatus est, positus
+est in paradiso; in plaga orientali, ut inde quasi a
+principio mundi per omnes terras proflueret universa
+propago generis humani. Deinde caput regnorum
+primum in oriente apud Assyrios fuit, novissimis
+autem temporibus saeculi ad Romanos in occidente
+positos potestas summa descendit. Incipientibus
+ergo nobis ab origine rerum omnium et per
+opera restaurationis secundum longitudinem arcae
+decurrentibus ad finem et consummationem universorum,
+semita strata est per medium saeculi, ut
+transeuntibus a latere hinc inde pateant quaecunque
+sive ad aquilonem sive ad austrum, hoc est, ad
+dextram et sinistram quasi extra arcam in diluvio
+<pb n="0720D"/>
+fiant. Spatiosa quidem, sed non fastidiosa erit ista
+deambulatio, ubi intrinsecus tantarum rerum varia
+oblectatio transeuntibus erit obvia, et rursum per
+fenestram prospicientibus foris tam mirabilis confusio
+et fluctuatio mutabilitatis mundanae, oculis
+longe lateque de alta specula ac firmissima statione
+intuentibus erit subjecta. I. Ecce ad principium
+mundi ingredimur, sed ego cum oculos retrorsum
+flectere incipio quasi extra mundum, et ante tempora
+quid sit scire cupiens nihil video.  D. Ab alto
+exordio interrogationes tuae initium sumunt.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>LIBER TERTIUS. Intermissis rebus transeuntibus, inquiritur de divinis. Interloquuntur autem <hi>A</hi> et <hi>R,</hi> id est, ut ego interpretor, Anima et Ratio.</head>
+
+<pb n="0721"/>
+<p>
+          <pb n="0721A"/>A. Quoties Dei aeternitatem mente volvo, qualiter
+aut ubi ante rerum omnium principium exstiterit,
+nullatenus comprehendo. Ubi enim esse potuisset,
+cum non esset aliquid ubi esse potuisset? Hoc itaque
+meam considerationem perturbat, quod invenire
+non possum ubi Deus fuit quando praeter Deum
+nihil fuit.  R. Si consideres omne quod est, et perpendas
+totum hoc ubi est, quis extra locus erit?
+Totum capiat cum nihil sit, quod totum non capiat.
+Si ergo universitatis locum non invenis, quomodo
+universitatis auctorem loco concludis? Non enim
+propterea Deus mundum fecit, ut mundus contineret
+Deum, quasi stabilis esse non potuisset fulcimento
+carens, sed sicut aeternitate totum praecessit,
+ita immensitate totum excedit nullo indigens, si
+<pb n="0721B"/>
+neque operis sui perfectione consummatus, cui sine
+illo, et cum non esset nihil defuit, et ex illo cum factum
+esset nihil accessit.  A. Quare ergo fecit Deus
+creaturam, si bonum ejus auctum non est per
+creaturam?  R. Charitate non necessitate fecit Deus
+opera sua, non ut ab eis bonum suum augeret, sed
+ut eis bonum suum impenderet. Fecit enim rationalem
+creaturam, ut eam in se beatificaret, cui quidem
+ad obsequium caetera omnia subjecit, seipsum
+in praemium ad gloriam proponens. Ut ergo laus
+Dei consummata esset, visibilia et invisibilia omnia
+uno commercio sociavit, quia rationalem creaturam,
+quam ad gloriam suam condiderat, partim
+jussit in sua puritate persistere, partim eam corporeis
+indumentis et terrenis mansionibus copulans,
+<pb n="0721C"/>
+luteam materiam fecit ad vitae sensum vegetare.
+Haec autem dispensatio Creatoris magnae fuit machinationis
+principium, quia in eorum conditione prius
+ostendere voluit, quod postmodum in eis ipse ex dignatione
+facturus fuit. Ad ostendendam ergo aeternam
+charitatem, facta sunt exemplaria nova et infimorum
+summa imis sociata sunt, quia summorum ima summo
+omnium socianda sunt, ut quod esset corpus spiritui,
+hoc esset spiritus Conditori. Nam quia in rebus conditis
+nihil excellentius est spiritu, nihil terra infirmius vel
+corruptibilius invenitur, dum corpori humano de
+terra facto, et corruptibilem materiam habenti rationalem
+spiritum, id est animam rationalem sociam
+tribuit, in unum quodammodo consortium summis
+ima conjunxit, praemittens, scilicet futurae societatis
+<pb n="0721D"/>
+exemplum, ut quod tunc esset in conditione corpus
+spiritui, hoc postmodum fieret ex dignatione
+assumptus spiritus sibi. Sicut enim excellentiam
+spiritus infirmitati corporalis naturae conjunxerat
+una creationis conditio, ita humilitatem creaturae
+spiritualis sociare debuerat excellentiae Creatoris
+una pietatis dignatio.  A. Cum constet rationalem
+<pb n="0722A"/>
+spiritum, qui ad vegetandum corpus humanum datus
+est, excellentiorem fuisse in sua puritate perstitisset,
+quomodo ad charitatem facientis pertinuit,
+quod ad depressionem patientis accessit?  R. Quoniam
+ad hoc in parte humiliata est, ut in toto sublimaretur
+rationalis creaturae conditio, ut mirabilius postmodum
+sublimis fieret, quo sine miseria prius ex parte
+humiliata fuisset. Quia enim omnis illa natura socianda
+fuerat in gloria excellentiae Creatoris, expediebat
+ut prius disceret quantum infra illum esset
+per naturam, quae copulanda illi fuerat, et quodammodo
+coaequanda per gratiam, ut inde amplius diligeret
+munus gratiae in gloria, quo verius cognosceret
+conditionem naturae in humiliatione sua. Comprobavit
+ergo Deus potentiam suam fingendo hominem,
+<pb n="0722B"/>
+quam postmodum exhibiturus erat hominem
+glorificando, ut sciret homo, quod si potuit Deus tam
+disparem naturam corporis et animae ad unam foederationem
+atque amicitiam conjungere, nequaquam
+ei impossibile futurum rationalis creaturae humilitatem,
+licet longe inferiorem, ad suae gloriae participationem
+sublimare. Et si tanta fuit sapientia Conditoris
+in societate animae ac corporis temperanda, ut
+tam excellenti naturae non solum poena non sit vel
+miseria inferioris consortium, sed hoc ei pro summa
+poena constet, cum ab ea lege mortalitatis addicta
+morti, cogitur pati divortium, quanto magis ineffabilis
+erit, cum sibi factam naturam eamdem per
+charitatem uniens, illam veram summeque beatam
+vitam, vitae alteri a se factae ad aeternam vitam infundens,
+<pb n="0722C"/>
+felicem beatamque unionem nunquam dissidium
+passuram efficiet.</p>
+<p> A. Multum tamen charitatis privilegio refragari
+videtur, quod spiritualis naturae luteae substantiae
+copulata est, quia, licet exemplum illis profuerit ad
+agnitionem charitatis, qui in sua puritate permanserunt,
+tamen quantum illis detraxerit gloriae, qui
+humiliati sunt, constat. Quapropter, quantum illi
+amplius gratiae debent, qui sine depressione edocti
+sunt, tantum justae querelae adversus charitatem habere
+videntur, qui propter aliorum eruditionem sunt
+humiliati.  R. Sed recompensatur glorificationi, quod
+datum non est humiliationi, et tanto in exaltatione
+amplius accipiunt, quanto minus in conditione acceperunt.
+Quia enim per terram carnis puritati
+<pb n="0722D"/>
+aliorum homo subjicitur, postmodum per gloriam
+ejusdem carnis ad consortium angelorum sublevatur,
+ut non solum de sui clarificatione spiritus gaudeat,
+sed ut illius quoque gloria, cujus infimitas ei detrimento
+fuisse visa est, in augmentum glorificationis
+accedat. Sic igitur plus angelis in conditione datum
+est, sed hominibus in glorificatione amplius est
+<pb n="0723A"/>
+collatum, quia in eo quoque ad gloriam conscendunt,
+in quo paulominus humiliati a gloria inferiores
+fuisse visi sunt, ut in una charitate similiter
+gaudeant, qui ad unam charitatem vocati, et ad
+unam claritatem conditi, unam gloriae mensuram
+dissimili licet distributione percipientes exsultant.
+Ergo Deus spiritum rationalem, quem ad suam gloriam
+condiderat, ita, ut dictum est, dispari sorte
+disponens, partim jussit in sua puritate persistere,
+partim ut corporibus terrenis sociatus ad vitam ea,
+et sensum animaret, illis quos in sua puritate reliquerat,
+sursum in coelo mansionem constituens;
+illos vero, quos corporibus terrenis sociaverat, deorsum
+in terrena habitatione disponens utrisque regulam
+obedientiae proponens, quatenus et illi ab eo
+<pb n="0723B"/>
+ubi erant non caderent, et isti ab eo ubi erant ad
+id, ubi illi erant ascenderent, ut cum isti pervenissent,
+illi non discessissent supra id quod facti erant,
+ad id quod facti erant pertingerent, ut cum eo essent
+a quo facti erant.  A. Quia propositum nostrum ad
+hominis conditionem specialiter respicit, ad ea quae
+de ipso post haec dicenda sunt, narrationem deflecte.
+ R. Posuit ergo Deus hominem in paradisum quasi
+in locum disciplinae et scholam virtutum, ut ibi per
+obedientiam mandati exercitaretur, accepturus si
+persisteret praemium, si praevaricaretur, poenam.
+Quapropter in paradiso solum bonum, sed non summum
+positum est, ut in eo quod solum erat bonum
+a puritate virtus inciperet, in eo autem quod summum
+non erat bonum esset quo exercitata proficeret.
+<pb n="0723C"/>
+Sed quia homo praevaricando obedientiam deseruit,
+sententia maledictionis percussus, in ea
+quam incorruptam acceperat, natura poenam mortalitatis,
+quam ad omnem posteritatem suam transmitteret,
+seminandam accepit. Hic omnes homines
+ex radice vitiata mortales procreati, testimonium
+primae praevaricationis asserimus. Et quamvis quidem
+per gratiam ad vitam renascamur, omnes tamen
+per naturam ad mortem nascimur et damnationem.</p>
+<p> A. Processus saeculi deinde qualis fuit?  R. Protoplastus
+Adam ejectus a sede paradisi, ut pater fieret
+qui non erat filius, ex ea quam latus edidit, et costa
+produxit, duos genuit divisionis signum et divisionis
+principium, propter quod ex illa perditionis massa
+jam tunc dividi inceperunt vasa irae et vasa misericordiae.
+<pb n="0723D"/>
+Nam justum impius zelando dum noluit mutare
+quod fuit, non potuit tolerare quod vidit. Peremit
+itaque frater fratrem, affectum naturae oblitus,
+et ne periret, signo perditionis accepto, vagus et
+profugus super terram effectus est. Testem quippe
+sui sceleris fugere volens, et conscientiam non valens,
+tremens et stupens, seorsum solus habitare
+coepit, propterea societate hominum indignus, quod
+societatis amicam et concordiae vinculum pacem
+disrupit primus. Adam autem, cum esset centum
+triginta annorum, genuit Seth pro Abel quem occiderat
+Cain, eo quod semen justum omnino perire
+non potuit. Seth autem centum et quinque annorum
+genuit Enos, qui coepit invocare nomen Domini,
+<pb n="0724A"/>
+non quidem religionis institutor primus, sed paternae
+devotionis egregius imitator effectus. Enos
+vero nonagenarius genuit Cainam. Cainam autem
+septuaginta annos habens genuit Malaleel. Et Malaleel
+sexaginta quinque annorum genuit Jared. Jared
+autem centum sexaginta duos annos vixit, et genuit
+Henoch. Et vixit Henoch annos sexaginta quinque,
+et genuit Mathusalem, et ambulavit Henoch cum
+Deo. Postquam autem genuit Mathusalem, vixit
+trecentos annos, et non comparuit ultra, quia tulit
+eum Deus extra homines mansurum, et ultra homines
+victurum, ut vivus nasciturum exspectaret socium,
+postea cum socio interiturus. Mathusalem
+autem cum vixisset centum octoginta septem annos,
+genuit Lamech. Vixit autem Lamech centum octoginta
+<pb n="0724B"/>
+duos annos, et genuit Noe consummationis
+terminum, et perfectionis signum sub quo finem
+haberet iniquitas, reparationem mortalitas, aequitas
+consummationem <note>(Gen. V)</note>. Porro Cain filius Adam,
+auctor discordiae et divisionis caput, propaginem
+generationis seorsum extendens, primo genuit filium,
+quem vocavit Henoch, aedificavitque civitatem, quam
+appellavit Henoch ex nomine filii sui, ostendens
+quod in hac vita mansionem quaereret, et ad illam,
+quae in futuro sanctis servatur, haereditatem se posse
+pervenire desperaret. Henoch autem filius Cain genuit
+Irad, et Irad genuit Maviael, Maviael vero
+genuit Mathusael, et Mathusael genuit Lamech. qui
+occidit Cain <note>(Gen. IV)</note>, ut qui in primo filio suo
+mansionem dedicaverat, acciperet in septimo perditionem.
+<pb n="0724C"/>
+Sicut econtrario in linea justorum Abel
+primus occiditur, et Henoch septimus, qui interpretatur <hi>dedicatio,</hi> 
+ non mortuus sed translatus memoratur,
+quia nimirum prius in hac vita mali quidem
+gaudent, sed boni tribulationem sustinent, et post
+cum mali pereunt, tunc boni plene a malo liberati ad
+vitam et gaudium sempiternum pertingunt. Lamech
+igitur <hi>accepit duas uxores, quarum uni erat nomen
+Ada, alteri Sella <note>(ibid.)</note>
+          </hi>, primus incontinentiae exemplum
+proponens, prius imitator patris, post interfector
+futurus. <hi>Genuitque Ada Jabel, qui fuit pater
+habitantium in tentoriis atque pastorum <note>(ibid.)</note>
+          </hi>, superstitionis
+scilicet atque avaritiae inventor, et <hi>Thubal</hi> 
+ [Jubal], qui <hi>fuit pater canentium cithara et
+organo <note>(ibid.)</note>
+          </hi>, lasciviam atque luxuriae mollitiem
+<pb n="0724D"/>
+secutus. <hi>Sella quoque genuit Tubalcain, qui fuit
+malleator et faber in cuncta opera aeris et ferri <note>(ibid.)</note>
+          </hi>,
+furori videlicet arma ministrans. Noemam quoque
+genuit Sella sororem Tubalcain, quae undecima generatione
+sua transgressionem malorum significat,
+et novissima intentionem demonstrat. Quid est
+enim quod in generatione malorum femina novissima
+ponitur, nisi ut patenter detur intelligi, quod
+pravorum intentio omnis ad delectationem carnalem
+dirigitur? Omne siquidem quod agunt in hoc
+fine constituunt atque inde Dei praecepta transgrediuntur
+unde se ad promissa ejus non extendunt.</p>
+<p> A. Valde admiror, et stupeo in memetipsa cum
+dispositionem divinam in rebus transactis considero
+<pb n="0725A"/>
+quoniam ex ipsa rerum praetereuntium ordine nescio
+quo pacto fixam quamdam providentiam attendo.</p>
+<p> R. Quid mirum? Quia enim Deus nobis per
+opera sua loquitur, quid aliud quam vocem loquentis
+ad nos percipimus, cum oculos mentis nostrae ad
+consideranda mirabilia ejus aperimus?</p>
+<p> A. Perge igitur, et prosequamur ea quae restant, ut
+in his quae facta sunt invenire possimus eum qui fecit.
+ R. Breviter ad memoriam revocanda sunt quae diximus.
+A primo namque parente incipientes duas generationes
+seorsum extendimus, alteram per Seth,
+quae numeri simul et progressionis suae metam in
+denario collocavit, alteram vero per Cain, id est
+malorum, cujus porrectionem septenarius continuit,
+multitudo autem usque ad undenarium se effudit.
+<pb n="0725B"/>
+Praeceperat autem Deus, ne generatio justorum propagini
+impiorum misceretur, ne forte succum amaritudinis
+traheret, si vitiatae radici inserta fuisset.
+Primo servabatur mandatum Dei, permansitque diu
+utrorumque discreta religio. Procurrente anni tempore
+dum mora negligentiam aleret, simulque cupiditas
+persuaderet praesumptionem, vicit tandem
+amor carnis reverentiam Creatoris. Et <hi>videntes filii
+Dei filias hominum,</hi> hoc est fideles impiorum filias, <hi>quod essent pulchrae,</hi> 
+ elegerunt sibi ex omnibus
+quascunque voluerunt, et <hi>ingressi ad eas genuerunt</hi> 
+homines peccatores, semen nequam, qui per impiam
+superbiam Deum contemnerent, et malis quotidie
+operibus iram atque furorem ultionis divinae in se
+provocare non timerent. Et <hi>poenituit</hi> Deum <hi>quod
+<pb n="0725C"/>
+hominem fecisset in terra <note>(Gen. VI)</note>
+          </hi>. Poenituit Deum,
+non sui mutatione sed nostri. Poenituit, non quia
+ipse male fecerat, sed quia quod bene fecerat ipse,
+a bono defecerat. Ideo poenituit Deum non corrigendo
+quod fecerat, quia bene fecerat, sed corruptum
+cernens quod ipse sine corruptione ad incorruptionem
+creaverat. Non ergo poenituit eum de suo, sed
+de nostro poenituit eum pro suo, quia quod suum
+erat bonum erat, quod nostrum erat malum erat, et
+in suo erat. Non enim alibi potuisset esse malum,
+quod nostrum erat, nisi in suo quod suum non erat,
+et ideo mota est pietas, ne periret bonum a malo,
+quod factum non erat ad malum. Poenituit ergo
+Deum quod hominem fecisset in terra, et voluit delere
+de terra quod malum erat in terra, et nisi justus
+<pb n="0725D"/>
+stetisset coram eo, periisset radix generis humani
+cum vitio suo et totum corruptum cum corruptione
+subiisset judicium, nisi misericordia interveniente
+et gratia veritas liberasset justum. <hi>Noe</hi> enim <hi>invenit
+gratiam coram Domino, et erat Noe vir justus atque
+perfectus in generatione sua <note>(ibid.)</note>
+          </hi>, et ideo invenit
+gratiam, quoniam, etsi erat comparatione pessimorum
+justus, ut placere debuisset ne periret, erat tamen
+cur et ipse judicium evadere non potuisset,
+nisi gratiam inveniret. Invenit ergo gratiam justus
+ne periret, quia etiam hoc prius ex gratia acceperat,
+ut justus esset, et subeunte mundo exterminium
+servatus est in mundo sine mortis periculo,
+qui vixerat in mundo sine dolo. Justus
+<pb n="0726A"/>
+quippe erat nec sine peccato erat, sed sub peccato
+non erat, quia gratiam invenerat. Propterea
+monstratum est ei in quo salvus esse potuisset, lignum,
+et venientibus aquis illaesus permanere sub
+arcae culmine, quam ipse fabricavit jubente Deo, ut
+in futuro saeculo semen servaretur.</p>
+<p>Anno igitur sexcentesimo vitae Noe <hi>inundaverunt
+aquae diluvii super terram <note>(Gen. VII)</note>
+          </hi>, et deleta est
+omnis caro de sub coelo in terra. Et erat <hi>Noe</hi> in arca
+ipse, <hi>et uxor ejus,</hi> tres <hi>filii ejus, et uxores filiorum
+ejus <note>(ibid.)</note>
+          </hi>, octo animae ut viverent et non perirent
+cum mundo in signum futurae posteritatis, et sacramentum
+resurrectionis, qui primum judicium in aqua
+salvi evaderent, ut consummationis in igne formam
+demonstrarent.  A. Magna valde et stupenda sunt
+<pb n="0726B"/>
+universis opera Dei, quibus non solum praeteritorum
+scelerum exercet judicium, sed et futurorum format
+exemplum. Quae mens in horum consideratione non
+corruat, ut non dicam subsistat, nec tota dissolvatur
+a semetipsa in perscrutatione? Sed quia ipsa, quae
+pro miraculo et districtione pertimescimus, pro veritate
+libenter amplecti debemus, ut ea non sentiamus
+ad damnationem, semper audire ad eruditionem
+studeamus.  R. Noe intra claustra arcae saevientis
+diluvii periculo tutus columba indice in ramo olivae
+virentis cum didicisset, quod cessassent aquae super
+terram, exivit de arca Deo referente claustra, ac
+patefaciente in principium saeculi venturi. Et educta
+sunt pariter omnia animantia, quae inibi servabantur
+in posteritatis propaginem super terram. Sed et
+<pb n="0726C"/>
+Sem, et Cham, et Japhet, filii ejus, et uxores eorum
+cum eo: et coepit iterum mundus alio exortu prodire
+prioris generationis damna compensans <note>(Gen. VII-X)</note>.
+Et erat genus humanum, stirpe jam triplici, totum
+ut cresceret, quo ex una radice prodierat. Sem ergo
+et Japhet honorem dantes principio suo benedictionem
+meruerunt super terram et multiplicati sunt in
+haereditate promissionis. Cham maledictionis haeres
+in filio suo dolorem possidet quem ipse prior intulit
+paternitati. Disseminatum est deinde genus humanum,
+et multiplicata sunt iterum mala, et supervenerunt
+pariter excogitantes cogitationes malignas,
+ut se contra Deum erigerent, et aedificarent aedificationem
+in coelo, qui corde erant in terra. Hoc fecerunt
+filii hominum provocantes iram de excelso,
+<pb n="0726D"/>
+nec recordantes judicia metuenda, et putaverunt
+ascendendo sine poena peccare, ut aquam evaderent
+in igne judicandi <note>(Gen. XI)</note>. Et ecce machina illa
+contradictionis in sublime cacumen extulerat, et
+laetabantur impii vota sua completum iri in malum,
+cum subito respectus desuper linguas omnium confundens
+malignam conspirationem dissipavit et dispersi
+sunt ex eo loco in omnem terram malitia non
+recedentes ab invicem. In hoc tempore surrexit
+Heber patriarcha magnus, ut non deficerent viri virtutum,
+qui nomen bonum et dilectum Deo posteritati
+reliquit, ut sciant ii, qui Deo placent, quoniam
+transire oportet et recedere a generatione pessima.
+Deinde venit Abram <note>(Gen. XIII)</note>, nominis patrum
+<pb n="0727A"/>
+haeres, et egressus jubente Deo de terra sua, de Ur
+Chaldaeorum transivit, ut veniret in terram promissionis
+quia illam promiserat ei Deus. Haec est terra
+dilecta Deo, quae ab initio fundata est, et praeparata
+iis, qui haereditatem possidebunt, non illa gentium,
+quae contaminatur ab impiis, sed illa, quam non vident,
+nec inveniunt nisi beati. Haec terra in coelis
+est figuram habens in terra, non quod bonum hominis
+in terra sit, sed quia signo in terra quaeritur,
+quod in coelo a spiritu possidetur. In terram itaque
+Chanaan venit Abraham, et fuit peregrinus in ea
+omnibus diebus, spe promissionem exspectans, et
+non minoratus est obedientia propter dilationem, ut
+non immolaret unigenitum, in quo promissionem acceperat,
+si providentia divina voce desuper lapsa
+<pb n="0727B"/>
+dextram non cohibuisset parentis <note>(Gen. XXII)</note>. Post
+eum successit Isaac sacrificium vivum, stans pro
+patre in gaudium, et ipse decedens reliquit Jacob
+successorem, qui fuit luctator fortis, ut vinceret et
+benediceretur. Ex quo duodecim tribus ortae sunt,
+et populus sanctus Israel. Post hoc Joseph a fratribus
+venditur <note>(Gen. XXXVII)</note>, quem mox secutus pater,
+cum septuaginta animabus in Aegyptum venit, ut
+habitaret ibi in tempore angustiae. Mortuo autem
+Jacob et filiis ejus, coepit multiplicari Israel, et crescere
+vehementer, ut manifestum fieret quod Deus
+Hebraeorum Dominus esset in universa terra. Jam
+enim erat populus Dei, et gens sancta segregata ab
+impiorum natione, ex eo pullulare incipiens quo
+Abraham exivit de Ur Chaldaeorum, ut separaretur
+<pb n="0727C"/>
+ab iis, cum quibus habitabat, et non fieret unum
+cum iis, ad quos pergebat. Propterea ergo populus
+Dei divisus ab impiis a generatione sua primum
+modicus ut cresceret, ut sciant qui recta gradiuntur
+via, quoniam oportet a parvis incipere, ut ad
+magna perveniatur. Potens est enim Deus noster
+modica exaltare, et alta deprimere, ut non habeat
+homo fiduciam in magnificentia sua, quia spes hominis
+mortalis est sicut ipse homo.</p>
+<p> A. Magni isti et potentes virtutibus viri in saeculis
+suis, cum quibus Deus locutus est secreta sua,
+qui oculis suis antiqua viderunt, quae nostra generatio
+miratur praeterita. Velim autem nosse quales
+illi fuerunt, inter quos isti conversatione probati
+placuerunt, ut alterutrum hinc bonorum aemulatio
+<pb n="0727D"/>
+provocet, illinc malorum despectio exemplum patientiae
+confirmet.  R. Erant temporibus illis mali
+potentes in saeculo numerositate, et viribus atque
+divitiis in tantum superiores, ut bonorum vita inter
+eos posset esse, sed cognosci ab eis perpaucitate non
+posset. Jam tunc enim regna mundi in filiis hujus
+saeculi cum magno fastu et pompa surgentia, a quatuor
+plagis mundum cinxerant quasi proprium possessura;
+Assyriorum ab oriente, ubi primus regnavit
+Belus; et Sycioniorum ab occidente, ubi primus regnavit
+Agialeus - et Scytharum ab aquilone, ubi primus
+regnavit Thanus; et Aegyptiorum a meridie, ubi
+primus regnavit Mineus. Sed Assyriorum regnum
+potentia et viribus famosissimum post Belum Ninus
+<pb n="0728A"/>
+filius ejus obtinuit, qui patris affectum orbatus consolari
+volens sculptilibus ad paternam imaginem
+fabrefactis idololatriae exordium jecit. Dum enim
+memoriam parentis per vultus sculptiles apud homines
+perpetuam facere voluit, posteris causam primam
+nescientibus exemplum erroris reliquit. Videntes
+enim homines putaverunt divinum aliquod
+imaginibus praesentari, et culturam exhibentes sculptili
+Bel fecerunt, famosum malum in terra. Inde alii
+post alios mutuato [ <hi>al.</hi> imitato] errore cum nomine,
+singuli per linguas suas una vanitate diversa numina,
+Bel et Belial, et Baalim, Beelzebub quoque et
+Beelphegor vocaverunt. Et sic quidem sculptilium
+culturam humanus error suscepit, quam prius stultitia
+humana vana pietate instituit. Ninus autem
+<pb n="0728B"/>
+regnum Assyriorum virtute et industria ampliando
+totam pene Asiam tandem suae ditioni subjecit, qui
+et Zoroastrem regem Bactrianorum bello superans
+interfecit, et ejus maleficii codices igne concremavit,
+ut Dei justitia, quae cuncta disponit, recte in hoc
+victoriam praestitisse videatur impio, ut impietas
+non regnaret. Hujus itaque anno quadragesimo tertio
+Abraham patriarcha natus est, qui tunc quidem
+obscurus latuit inter potentes hujus saeculi, magnus
+futurus et excelsus in regno Dei. Post Ninum Semiramis
+uxor ejus gubernandum suscepit imperium,
+quae virilem habitum assumens, virtuti artem superadjiciens,
+Indos quoque extremos populos bello
+perdomuit, et ad ultimos usque fines terrae dilatans
+imperium, Babyloniae muros incredibili humanis
+<pb n="0728C"/>
+mentibus amplitudine exstruxit, confusionem extollens
+ut iret ipsa in opus suum. Nam tandem in ultima
+confusione a filio per incestum cognita abominandum
+cunctis scelus perpetrans, primum viscera
+sua per libidinem polluit, postea in viscera sua ulciscentem
+parricidio maculavit, justo scelere ab eo
+interfecta, quem scelere majori ipsa necaverat [ <hi>al.</hi> 
+polluerat]. Suscipiens ergo filius post mortem matris
+lugubre imperium haeres factus est, et tyrannus,
+trucidatae parentis successor violentus effectus. Post
+hunc cucurrit Assyriorum imperium exempla scelerum
+ad posteros transmittens, ut in libidine semper
+et sanguine versarentur, qui libidinis pariter et sanguinis
+tam crudele ac detestandum ab initio documentum
+acceperant. Nec enim decuit Babyloniae regnum
+<pb n="0728D"/>
+aliis studiis ampliari, nisi ut immunditia et
+crudelitate grassarentur filii confusionis. Et quis
+omnes horum temporum pestilentias et confusiones
+enumerare queat, quae per orbem terrarum regna
+mundi invicem se collidentia passa sunt? Nam et
+Scythae, et Amazones his temporibus seminarunt
+novum ac singulare malum in terris; et Aegyptus
+supra se vires effundens, et quasi intumescendo
+terminos suos egrediens, dum aliena inconsulte appetit,
+propria amisit, multa sunt alia, quae dinumerare
+si nunc conaremur, ne illis quidem solis propositum
+nostrum sufficere potuisset, sed nos in parte
+totum judicantes, videamus quanta sit confusio hujus
+mundi, et quemadmodum nihil tutum esse possit
+<pb n="0729A"/>
+in terra, gratias agentes quod haec omnia mala jam
+mente secura contemnimus, et quasi de tuta statione
+fluctuantem, et bullientem in se mundum sine
+periculo admiramur.  A. Revertamur iterum ad domesticam
+<pb n="0730A"/>
+narrationem, quia magis nunc libet
+audire quae vera sunt, quia vana et falsa audiendo
+quantum illa fastidio, tantum ad ista inardesco.
+</p>
+      </div1>
+
+<div1>
+        <head>LIBER QUARTUS. De inquisitione mysticae arcae, et de contextu historiae sacrae et profanae, per quam cognoscitur etiam regnorum instabilitas; concluditque, rebus transeuntibus prudenter utendum. Loquitur autem in exordio, ut opinor, Ratio significata per <hi>R.</hi> </head>
+
+<pb n="0729"/>
+<p>
+          <pb n="0729A"/>Cum tempus jam advenisset, ut educeret populum
+suum Deus de Aegypto, apparuit Moysi in rubo per
+<pb n="0729B"/>
+ignem ostendens charitatem <note>(Exod. III)</note>; quia ipsa
+est, quae liberat a morte, et non est qua Deus ad
+hominem veniat nisi per charitatem. Dedit ergo
+mandatum, ut educeret filios Israel de Aegypto in
+prodigiis, et plagis, et portentis, ut ostenderet mirabilia
+sua, et scirent omnes gentes, quod Deus ipse
+est omnipotens. Venit Moyses in praecepto, et scindens
+mare Rubrum virga aperuit, ut daret viam
+populo eunti ad salutem. Educta ergo sunt agmina
+filiorum Israel de Aegypto per semitam abyssi, quos
+Pharao secutus in virtute sua cum curribus et exercitibus
+absorptus est quasi non fuisset, et populus
+liberatus laudem Domino decantavit <note>(Exod. XIV)</note>. Dehinc
+per deserti viam gradientes coeleste obsequium
+<pb n="0729C"/>
+comitatur in columna nubis et ignis praeeunte viam
+ostendens in invio, in aestu umbram praebens, et
+lucem in tenebris <note>(Exod. XIII)</note>. Coeli manna pluerunt,
+et spiritus congregavit volatilium multitudinem.
+Petra autem fudit potum ad mensam filiorum
+Dei. In tantis mirabilibus significavit se Deus hominibus,
+ut in Sina legem daret, et mandata, et tabernaculum
+coelestium imaginem, et arcam foederis
+aeterni cum tabulis consignatis. Post annos quadraginta
+ascendit Moyses in montem, et vidit terram de
+longe, et contestatus populum de ritu sacro mandatorum
+decessit in pace <note>(Deut. XXXIV)</note>. Tunc Josue minister
+ejus surrexit, et traduxit in terram promissionis
+filios Israel. Non enim potuit Jordanis sustinere
+sacra mirabilia, sed deterritus fugit, et viam
+<pb n="0729D"/>
+patefecit, ut transirent agmina exercitus pugnaturi <note>(Josue. I)</note>.
+Tunc Josue gentes praeliis delevit et divisit
+terram tribubus duodecim in funiculo distributionis <note>(Josue XV)</note>.
+Post hunc Othoniel populum
+judicavit, et Sangar sexcentos stravit viros vomere <note>(Jud. III)</note>.
+Aioth in populi liberationem periculo se
+dedit, et regem alienigenam nuntius crudelis
+exstinxit. Debbora quoque in verbo prophetia confortata,
+Sisaram in torrente Cison, et Jabin, multitudinem
+eorum dispersit, et delevit hostes Dei victoria
+gloriosa <note>(Jud. V)</note>. Dehinc Gedeon vellus expandit
+in area, et rore concepto, et ipse novo triumpho
+lagenas et lampades cum trecentis a flumine portavit,
+ad bellum <note>(Jud. IX)</note>. Abimelech autem cerebro
+excusso, et vertice contrito parabolarum omen invenit
+<pb n="0730A"/>
+rhammus a lignis silvarum conculcatus <note>(Jud. IX)</note>.
+Post haec Thola, et Jair Judices fuerunt temporibus
+<pb n="0730B"/>
+suis <note>(Jud. X)</note>. Dehinc Jephte pro victoria belli voto
+obligatus filiam immolavit, crudele posteris pietatis relinquens
+exemplum <note>(Jud. X)</note>. Post hunc venit Abessan
+judex populi, cui successit Abialon, et ille
+moriens judicem Abdon habuit successorem <note>(Jud.
+XII)</note>.</p>
+<p>Hujus temporibus famosa illa cunctis malis suis
+Troja Myrmidonum manibus excisa concidit, cujus
+aerumnas, et lamentabiles casus ne te a proposito
+divertam narrare devito. Post Abdontem venit
+Samson fortissimus, et ipse salvavit populum suum
+tempore suo mirabilibus magnis <note>(Jud. XIII)</note>. Mille
+viros stravit in mandibula capitis asinini, cum arma
+non haberet, spiritu irruente in eum <note>(Jud. XV)</note>. Et
+<pb n="0730C"/>
+portae fores cum postibus ejus extulit in humeris ad
+terrorem inimicorum suorum <note>(Jud. XVI)</note>. Mulier una
+vicit invincibilem, et virtutem horrendam cunctis
+feminae petulantia emollivit. Captus gaudium fecit
+inimicis suis, et damnatus tenebris sempiternis
+molae gyrum ducere jubetur, opprobrium superborum.
+Sed virtus deifica jam satis ludificato illabitur,
+et capillo capitis pullulante pristinum robur membris
+marcentibus reparatur. Quassat columnas lacertis
+et manibus, et ruente culmine morte sua
+ulciscitur in hostes <note>(ibid.)</note>. Plangit Israel, quem miratur
+salvatorem suum, et quem vivum exegit ad
+mortem, mortuum agnovit redemptorem. Hinc Heli,
+quadraginta annis populum judicavit, et ipse stultitiae
+suae exemplum efferens, dum filiorum suorum
+<pb n="0730D"/>
+intemperantiam cohihere distulit, poenam cum filiis
+pereuntibus corruens dedit <note>(I Reg. I)</note>. Tunc arca
+Dei in alienigenas deportatur propter peccata populi,
+sed cadens Dagon truncatus majestati contestatur <note>(I Reg. I)</note>.
+Dehinc secreta pudoris putrefacta superbos
+compellunt consortium timere sanctitatis, et sic
+arca testamenti ad cultores pietatis remissa est.
+Surrexit Samuel propheta sanctus <note>(I Reg. X et seq.)</note>,
+et unxit regem populo, et Saul mandatum non servans
+abjectus est, obedientiae virtutem reprobationis
+exemplo confirmans. Post haec in Bethleem mittitur
+in lentisco olivum, et exquiritur inter fratres puer
+David, qui pascebat oves in deserto, ut rex esset in
+Israel. Spiritus autem recessit a Saule, ut requiesceret
+super David, et cum vesania torqueretur impius,
+<pb n="0731A"/>
+cithara modulamine mystico impetum mitigavit.
+Cadit Philistaeus in gladio suo, et lapide fundae, et
+gloriosus bellator capite amputato Goliath tropaeum
+reportavit. Hinc motus invidia rex persequitur innocentem.
+Sed manus omnipotentis fortiter dirigebat,
+donec in solio regni humilem collocaret. Cadit
+in Gelboe Saul, et Jonathas; sed David dilectionis
+memor planctum levavit super eos. Propterea exaltatus
+est et magnificatus valde, et nominatus in
+universa terra. Subjecit hostes in fortitudine, et
+mensus est terram inimicorum suorum. In diebus
+ejus exaltatum est regnum Israel, et ipse magnificavit
+gloriam, et addidit ut ampliaret cultum sanctitatis <note>(II Reg. I et seq.)</note>.
+Post eum surrexit Salomon
+filius ejus <note>(III Reg. I. et seq.)</note>, qui aedificavit
+<pb n="0731B"/>
+templum Domino, et ostendit sapientiam suam in
+operibus suis. Non enim erat sapiens in terra sicut
+Salomon, quem repleverat Deus scientia et intellectu,
+ut investigaret omnia, et esset scrutator mirabilium
+secretorum. Sed species carnis decepit cor
+ejus, et corruit prudentia in conspectu pulchritudinum
+exterarum. Propter hoc Deus scidit regnum
+ejus in manu filii ejus, et dedit illud servo suo Jeroboam
+filio Nabath, ut praevaricatio surgeret in
+Israel. Tunc recesserunt decem tribus, ne essent
+cum domo David. Sed judas stetit cum fide, ne
+rueret gloria Hierusalem. Jeroboam filius Nabath
+excogitavit malitiam de corde suo, ut firmaret impietate
+thronum suum, et constituit vitulos aureos,
+ut gloriam tolleret ab Israel. Ibi cecidit Israel, et
+<pb n="0731C"/>
+Ephraim praecipitatus est, et dereliquerunt Dominum,
+et abierunt in nihilum, ut delerentur a terra.
+Tunc surrexerunt prophetae, et viri scrutatores, et
+locuti sunt in spiritu, ut averterent indignationem.
+Et venit Elias Thesbites <note>(III Reg. XVII)</note> cohibens
+pluviam de coelo, et rorem ne stillaret super terram.
+Ipse traxit ignem et descendere fecit flammam desuper
+in ira furoris Domini, ut ostenderet virtutem
+ex alto <note>(IV Reg. I)</note>. Prophetae Baal corruerunt coram
+eo, et praevaluit solus in testamento sancto, ut
+daret gloriam Deo. Mortuus surrexit in prece ejus
+quasi dormiens suscitatus, et ipse curru igneo raptus
+in aethera non visus est ab hominibus ultra super
+terram <note>(IV Reg. II et seq.)</note>. Eliseus rapta chlamide
+divisit Jordanem, et transivit ut staret in loco
+<pb n="0731D"/>
+ejus spiritu duplicato. Ipse dulces fecit aquas, et cibum
+mortis condimento mitigavit, revocans et ipse
+animas abeuntes in tabernacula sua. Agmina missa
+alia via produxit ad conspectum principis demonstrans
+in mirabilibus multitudinem curruum ignitorum.
+Michaeas Dominum vidit in solio suo, et regem
+ipsum constanter arguens, non timuit in comminationibus
+suis <note>(Michae. I)</note>. Jonas ceto absorptus item
+in siccum projicitur, ut nuntiet in mandato Ninivitis
+subversionem <note>(Jonae. I, II)</note>. Isaias propheta videns
+et ipse thronum Excelsi ventura praedixit, et consolatus
+est Hierusalem in tempore angustiae <note>(Isa. I et
+seq.)</note>. Sed in his omnibus non sunt reversi filii Israel
+a viis suis, ut redirent ad Dominum. Sed ipse quoque
+<pb n="0732A"/>
+Ezechias, qui placere videbatur Chaldaeis, revelavit
+secreta in gloriationem. Propterea dicit Deus
+ut traderet populum suum in manus Chaldaeorum,
+et misit Jeremiam sanctificatum ex utero, ut ventura
+praediceret. Nam Israel persistens in aversione
+ad Assyrios abierat, et Juda cum Hierusalem non
+timuit ne provocaret Dominum in iracundia magna.
+Idcirco locutus est super eos abjectionem, et venit
+rex Babyloniae, et transtulit Judam in terram suam
+in Chaldaeos, ut deserta esset sanctificatio. Sed
+Ezechiel, et Daniel potentes in mirabilibus, viderunt
+visiones, et regna ventura, et consolati sunt peregrinationem
+in terra aliena.</p>
+<p>Post annos septuaginta revocavit Dominus populum
+suum in Hierusalem, et Esdras, et Nehemias,
+<pb n="0732B"/>
+et Zorobabel aedificaverunt templum et civitatem.
+Jesus sacerdos magnus populum gubernavit in tempore
+suo, et reliquit infulis honorem post se in generationes.
+Sed cum furor indignationis advenisset,
+surrexit Mathathias cum filiis suis ut defenderet
+legem Domini, et praevaluerunt viri virtutum, ut non
+in perpetuum dominaretur iniquitas. Judas Machabaeus
+terror inimicorum suorum accinxit se ad praelium
+in fortitudine, et fugavit agmina, et exercitum
+gentium contrivit, ut staret Hierusalem. Post hunc
+surrexit Jonathas frater ejus, et dedit se periculo
+pro gente sua, et ipse salvavit eos in tempore suo.
+Post hunc Simon frater ejus suscepit imperium, ut
+pacem poneret in terra. Sed fraude circumventus
+proximorum decessit, exemplum virtutis posteris
+<pb n="0732C"/>
+relinquens. Joannes autem filius ejus vir gloriosus
+pro patre stetit munimentum populi temporibus
+suis. Sed filii praevaricationis pactum testamenti tenere
+noluerunt, et ideo translatum est regnum ad
+semen alienum. Venit enim Herodes, qui non erat
+de Israel, et arripuit sceptrum dominationis in populum,
+ut ad exortum coelestis imperii carnale
+regnum deficeret, et promissus a saeculis rex Israel
+cum non esset sceptrum in Juda, ut prophetia impleretur,
+aeternum reciperet quod temporale transierat.</p>
+<p> A. In exordio magnarum rerum ab integro potius
+sermonem formare debemus, et idcirco placet, ut
+prius ea, quae de superiorum temporum excursu
+adjicienda sunt, explicentur, ut in his, quae ad salutem
+<pb n="0732D"/>
+veram suscipere oportet, finem faciamus. Dic
+ergo nunc breviter, quas in his, quae modo cursim
+transisti, temporibus mundus in suis concussiones
+et fluctuationes passus sit. Hoc enim conducit, ut ad
+nostra recentes iterum veniamus.  R. Assyriorum
+regnum, cum multa tyrannide, et sanguinis effusione
+mundum longe, lateque oppressisset, novissime ad
+regem vastatorem sui devolutum est. Qui gloriam
+praecedentium regum vita ignominiosa obfuscans,
+quasi vir in feminam (primae commutationis transverso
+ordine) abierat, ignavia et turpitudine universis
+odiosus. Hunc Arbaces praefectus Medorum
+obsidens vitam miseram miserabiliore morte finire
+coegit, regnumque illud (crudelitate sua ubique famosum)
+<pb n="0733A"/>
+subito prosternens potestatem in Medos traduxit.
+Medorum postea regnum Persae sub Cyro
+rege destruxerunt; qui et ipse Chaldaeorum imperio
+obtento Babyloniam illam a saeculis famosam et
+obtinuit et delevit, ne ultra glorietur mundus in sublimi.
+Cyrus, rex Persarum, magnificus triumphis,
+tantis rebus effectis nihil ultra sibi obstare putavit,
+et Tanaim transiens Scytharum regnum manu horrenda
+invasit. Sed ut ostendatur, quod homo gloriari
+non debet in semetipso, sanguinem, quem vivus
+sitiit, mortuus bibit. Deinde Persarum regnum
+cum multa diu superbia et crudelitate effervens
+Macedonum tandem manibus subvertitur, et comminutum
+(quasi per membra corpus pestiferum)
+dissipatur; hinc Aegyptus reges suos armata tyrannide.
+<pb n="0733B"/>
+Syria vero, et Asia, et Graecia viscera sua
+mutua crudelitate dilacerant, quousque tandem
+(cum tempus advenisset ultionis) Roma potestatem
+suam exaltans omnium regnorum cumulum aemulatur.
+Sic alternis agitationibus mundus nunquam
+stabilis esse potest, sed quidquid alteri accrescit,
+ut surgat, alteri decrescit, ut corruat.  A. Satis est
+haec modo pro exemplo miseriae commemorasse, ut
+ad ea rursum, quae nos prae oculis semper habere
+oportet, et nunquam oblivisci, citius revertamur.
+Hoc ergo nunc, ut arbitror, primum commemorandum
+secundum narrationis seriem, quemadmodum
+deficientibus regibus legitimis in Judaea, et arripiente
+alienigena principatum rex coelestis sui adventus quasi
+in hoc causam esse commodiorem voluerit, ut suum
+<pb n="0733C"/>
+vindicaret imperium.  R. Licet pro Judaeae imperio
+totius mundi Factor et Dominus ad terras non descenderit,
+qui totum mundum suo adventu salvare
+disposuit, tamen quia in Judaea tantum prophetiae
+praecesserant, et illis nuntiatus fuit, qui electi
+erant quasi ministri per quos dispensatio salutis
+omnium ageretur, propterea adventus sui principium
+ex eis congrue moderari debuit, qui non pro
+eis tantum, sed pro omnibus fuit nasciturus. Tamen
+si diligentem statum universitatis attendimus, non
+minus adventum illius ex regno gentium, quam
+Judaeorum intelligi posse manifesta ratione invenimus.
+Quia enim ille et Judaeorum regnum quasi
+suum vindicare, et gentium regnum quasi contrarium
+<pb n="0733D"/>
+expugnare, et sibi subjicere venit, idcirco et
+in Judaea alienigenam regnantem, et in gentibus
+(collectis quasi in unum viribus) regnum stabile ac
+robustum invenire voluit. Neque enim decuit, ut
+adversarios tunc aggrederetur expugnandos, quando
+collapsis viribus in semetipsis ruituri viderentur, ne
+forte victoria non fortitudini vincentis, sed subacti
+potius infirmitati ascribenda putaretur. Idcirco
+exspectavit donec mundus totus in unum vires suas
+conflasset imperium, et Roma victrix super regna
+omnia superbo fastu caput extulisset. Tunc ergo
+dominante superbia humilis venit, ut in sua humilitate
+celsitudinem mundi sterneret, manifeste demonstrans
+quantus in sua majestate foret, qui in
+nostra infirmitate positus, universa subjecit. Nascituro
+<pb n="0734A"/>
+igitur in carne humana Dei Filio, angelus ad
+virginem mittitur adventum nuntiaturus majestatis,
+ut virgo, quae nova lege paritura fuit, novo modo
+conciperet. Sic Virgo credula Verbum concepit per
+aurem, ut immaculatam conceptionem generatio
+incorrupta sequeretur. Natus est ergo in Bethlehem
+panis coeli, ut reficeret mundum languidum, et
+positus in praesepio significavit se esse pabulum
+animalium sanctorum. Huic angeli cum splendore
+lucis venientes locuti sunt in terra pacem de excelsis
+et pastores currentes ad praesepium juxta eis datum
+signum in pannis invenerunt involutum.</p>
+<p>Stella Magos rutilans desuper excitavit, et radio
+splendoris sui cultores Numinis nova novos conduxit
+ad cunabala. Suscitantur prophetae, et currunt
+<pb n="0734B"/>
+obviam venienti, Simeon et Anna, exspectantes
+redemptionem Israel, et suscepto in ulnas puero,
+mundo nuntiant Salvatorem. Dedicata autem primum
+Hierusalem civitate sancta adventu suo, ut etiam
+gentes visitaret, in Aegyptum deportatur ubi, completo
+tempore quod praedefinitum erat, quasi post
+introitum gentium ad colligendas iterum reliquias
+Israel in Judaeam revertitur. Interim currente tempore
+cum virum implesset aetate corporis, aeternitatis
+Dominus, venit ad Joannem apud Jordanem, ut
+aquas criminibus diluendis suo ingressu sanctificaret,
+ubi coelis apertis, et throno Dei desuper coruscante,
+Spiritus sanctus in specie columbae descendit
+super eum, voce pariter delapsa: Tu es <hi>Filius
+meus dilectus, in quo complacui mihi <note>(Matth. III)</note>
+          </hi>. His
+<pb n="0734C"/>
+mirabilibus completis tremente Baptista ascendit de
+Jordane Filius Dei, et exemplum formans conservandae
+sanctificationis desertum petiit, habitans eremum
+in jejunio quadraginta dierum et noctium. Sed ut
+ostenderetur, quod vita hominis super terram tentatio
+est, et quod ubique, pugnando vincere oportet, admissus
+est hostis voluntate permittentis, non saevientis
+potestate, et proponens suasiones ineptas ratione
+confutatur, potestate puniendus. Dehinc victor obsequio
+angelorum honoratus, post jejunium sibi salutem
+hominum esuriens procedit ad publicum, et manifesta
+mundum exhortatione contestans nuntiat venisse
+regnum coelorum. Poenitentibus veniam spondet
+peccatorum, persistentibus in crimine poenas
+<pb n="0734D"/>
+venturas gehennae tormenta in judicio extremo praeparata
+annuntians. Et ut veritas ubique manifesta
+fieret, et nullum latere potuisset, qua via hominem
+ad vitam redire oporteat, elegit duodecim discipulos
+ut irent in mundum universum praedicare Evangelium
+regni, et verbum vitae hominibus. Ipso autem
+completo mysterio, et mortem morte sua triumphans,
+cum reversus fuisset ab inferis spoliato tartaro,
+videntibus discipulis suis ad dexteram Patris
+aeterni perenniter victurus ascendit, mittens illos in
+mundum testificari resurrectioni vitae, et baptizare
+in remissionem peccatorum credentes in eum. Contestantibus
+autem angelis venturum ad judicium, et
+judicaturum mundum in operibus suis, in terrore
+horribili paventes, continuo profecti sunt pronuntiantes
+<pb n="0735A"/>
+gentibus universis sacra mirabilia. Repleti
+etenim Spiritu sancto, miraculis multis et prodigiis
+verbum confirmaverunt, et coeperunt homines concurrere
+undique stupentes et admirantes in his quae
+fiebant pavescenda. Tunc mundus infremuit, et antiqui
+erroris ritus corruere cernens amata relinquere
+noluit, nec suscipere incognita. Trucidantur itaque
+praecones veritatis, ne falsitas subvertatur, sed patientia
+morientium irrefragabile praebuit vivis testimonium
+veritatis. Cadentibus igitur granis paucis
+seges multiplicata surrexit, quia inde auctus est in
+vivis numerus fidelium, unde in morientibus minui
+videbatur. Mirare ergo in duodecim viris mundum
+debellatum, et qualibus non est multum laboris ostendere,
+ut miraculum Dei, non hominum sit opus
+<pb n="0735B"/>
+eximium. Pauci numero et despicabiles sapientiam
+mundi sine eloquentia infatuaverunt, vires autem et
+ferocitatis impetum patientia prostraverunt. Et surrexit
+fidelium numerus in universo mundo, aucta
+fide et florente disciplina exornato sanctorum populo,
+exsultantibus animis pro regno coelorum et vita
+perpetua in pressuris alacres effecti. Tunc ingemuit
+diabolus vinci se arte sua, et oppressum iri in eo,
+quo se existimavit servos Dei oppressurum. Vidit
+enim mundus nova bella, et victorias insperatas, et
+contemni se in flore suo miratus est prius amatus
+sterilis. Milites autem Christi regem suum sequentes
+nec minis, nec blandimentis teneri potuerunt, quippe
+qui prospera promittentem despexerunt, nec timuerunt
+adversa comminantem. Propterea coelestis
+<pb n="0735C"/>
+vita in terra colebatur, et virtutum flores quasi de
+paradiso Dei in deserto saeculi pullulare coeperunt.
+Alii martyrio rosas, alii lilia castitate, alii puritate
+violas plantaverunt, et omnes sanctorum populi
+mundum sua praesentia et virtute vernantes decoraverunt.
+Alii miraculis coruscaverunt, alii virtutibus
+et signis effulserunt, alii secreta coelorum videre
+meruerunt, alii ventura praenuntiaverunt, alii daemones
+ex obsessis corporibus fugaverunt. Alii gratia
+sanitatum mirabiles apparuerunt. Alii in populis
+virtutum exempla efferentes posterioris imitatione
+digni exstiterunt. Alii secreta eremi penetrantes
+interioris hominis habitum studiosissime coluerunt.
+Hi sunt adhuc quos mundus pariter minatur et odit,
+quorum licet humilitatem superbus despiciat, conservationem
+<pb n="0735D"/>
+tamen attingere non potest infirmus.</p>
+<p> A. Quemadmodum in patribus antiquis exempla
+subjecta virtutem docuerunt, ita nunc oportet aemulationem
+proposita inspectione novis exemplaribus
+suscitare.  R. Duodecim viri in primis mundum debellaverunt
+electi a Christo in miraculum concertationis,
+ut veteres figuras nova veritate adimpleret.
+Vellus enim carnis jam rorem conceperat Deitatis,
+et electi de cunctis flumine hausto cum lagenis et
+tubis ad praelium perrexerunt. Non fuerunt arma
+miraculo pugnaturis, sed lampades latuerunt dum
+vasa testea frangerentur. Dextrae tubas bajularunt,
+ut in omnem terram exiret sonus eorum et honor
+verbi corporis obsequio in sui clarificatione uteretur,
+<pb n="0736A"/>
+dum conscissis viribus in morte carnis lampades
+miraculorum coruscarent. Non ergo stare potuerunt
+hostes visis mirabilibus contra Dei bellatores, et
+castra Madiam in toto mundo timore constrata lumini
+coruscanti reverentiam praebuerunt. Petrus autem
+vexillum efferens crucis primus hostes aggreditur,
+et ut impios sacerdotes debellaret assumpto
+secum Joanne Verbi amico ascendit in templum. Ad
+imperium autem libentis claudus prosiliens statim
+turbas populorum in unum congregavit, et contestante
+Petro in conspectu omnium resurrectionem
+in Christo (vitae et mortis indicium) agmina multiplicavit
+in millibus. Post haec in synagoga pontificum
+contumaciam humiliavit rationis constantia, quia
+reserato carceris ingressu, angelis famulantibus, in
+<pb n="0736B"/>
+templo docuerunt. Cum autem quinque millia hominum
+docentibus apostolis credidissent, tribus millibus
+adjunctis, consummatus est numerus ad beatitudinem
+consignatus. Sed hostes zelantes tantam
+gloriam ferre non potuerunt, et quia digni inventi
+non sunt qui reciperentur in vocationem acquisitionis,
+medicos salutis ejecerunt. Tunc Philippus
+elevata lampade signorum tuba praedicationis insonuit,
+et antiquum prophetarum certamen consummaturus
+Samariam aggreditur veterem eorum parentem.
+Jamque enim elevatus in curru Agnum praedicaverat
+immolatum prophetarum excipiens excolenda
+novalia, et ideo alienigena baptizato, ab alienatis
+revocavit. Matthaeus Aethiopiam, Bartholomaeus
+et Thomas Indiam, Andreas Achaiam, Joannes
+<pb n="0736C"/>
+Asiam, Simon et Judas Zelotes Persidem, et
+caput illud antiquum superbiae Babyloniam aggressi
+subegerunt. Paulus vero ultimus tempore, primus
+certamine Graeciam magnam, et insulas regionum ab
+Hierusalem ad fines multos perdomuit, ut tandem
+cum Petro principe consors potestatis in culmine
+mundi triumpharet. Deinde milites ducum industria
+exercitati quae commemoranda et digna relatu gesserint,
+si cuncta dici non possunt, non sunt silentio
+praetereunda universa. Primus Stephanus audens
+praeeuntem regem secutus ad praelium, hostes provocavit,
+sine formidine consistens in multitudine
+inimieorum, et cum fremerent indignantes, et unum
+multi superare non possent, ille Jesum ad dexteram
+Dei videre contestatur, ut quo propugnatore in auxilio
+<pb n="0736D"/>
+opportuno invincibilis esset turbae ostenderet.
+Sed cum lapides torrentes ad impetum ferocium volitarent,
+nocentes miseratus genua curvavit in precem,
+ibique immaculatum Deo spiritum commendans
+Sauli conversionem obtinuit cum salute multorum.
+Jacobus autem pertinaciam Judaeae non abhorrens
+gladio triumphavit poenam relinquens tyranno, ut
+sanctorum patientia demonstretur in sustentatione
+ordinata habitura judicium cum potentia. Hinc alii
+atque alii fortiter agentes per diversa praeliorum
+certamina constantiam tenuerunt, ut in omni gente
+fidei palma floreret, et qui electi fuerunt ab initio,
+intrarent in repromissionem. Petrus enim Romae
+throno veritatis constituto per crucem triumphans
+<pb n="0737A"/>
+ascenderat, et Clemens successor cathedrae infulam
+pontificalem acceperat. Qui et ipse lacessitus fortiter
+laborem sustinuit, et ne castra Dei impetus inimicorum
+concuteret, ultro se opponens dignitatem
+traditae potestatis martyrio compensavit. Dionysius
+Areopagita, accepto mandato Galliam penetravit, et
+pugnans ut vinceret, praevaluit stabilire leges coeli
+in terra. Ipse enim, ut ostenderet viam vitae, propter
+testimonium veritatis verbum sanguine consecravit,
+et ne mors vitam haereditaret, in mortuis vitae signum
+faciens, caput manibus bajulavit occisus.</p>
+<p>Laurentius in craticula ignem vicit, et flammas
+incendii et Caesarem stupefactum arguens carnem
+edendam obtulit frustra saevienti in carnem. Vincentius
+autem nominis sui memor tyrannum derisit
+<pb n="0737B"/>
+crudelia comminantem, et ungulas cum equuleo despiciens,
+flagra quoque et incendia superavit. Et erat
+haud modicum nisi et feminae ad praelium properarent
+viros confundere in judicio aequitatis. Venit
+Agatha, et mammillas praebuit amputandas, ostendens
+quod ad ferrum non expavesceret Spiritu sancto
+confortata, ut lac fidei credentibus ministraret. Agnes
+inter flammas ambulavit intrepida, ut sexum et aetatem
+natura miraretur martyrio robustam, quae sensu
+consuevit necdum maturo consistere. Margarita
+bellans vicit admirabili constantia, ut mentem carnis
+tormenta non subderent in abalienationem aequitatis.
+Hostem enim in manifestam producit confusionem,
+qui victus retrorsum foris paruit, duplici ignominia
+confutandus. Cecilia coronas merebatur [ <hi>al.</hi> 
+<pb n="0737C"/>
+mercabatur] merito castitatis probata, juvenibus
+incorruptionis lilia amplexantibus cum fide, ubi rosas
+etiam miscuit cum purpura in martyrio cruoris
+decoranda. Lucia autem sponsum praedonem castitatis
+ad immortalis aspectum [ <hi>al.</hi> apicem] conferre
+non dignata (matre precihus sanata) opes pauperibus
+erogavit, ut post oblata munera seipsam Deo
+holocaustum superimpenderet suavitatis. Compensavit
+autem virilis sexus infantilis victorias feminarum,
+ut undique circumstarent palmae triumphorum
+in gloria Dei.</p>
+<p>Venit Vitus puer et ipse annis virtutem adjiciens
+pugnavit viriliter, coronam arripiens per vulnera
+pretiosa, nunquam exemplo gloriae et fortitudinis
+aemulationi futurus sine stupore spectabilis. Cyricus
+<pb n="0737D"/>
+cum matre, tanta pertulit et tam horrenda tormentorum
+genera, ut quid amplius mireris non invenias,
+nisi forte infantiam cumulandam existimes gloria ad
+laudem constantiae muliebris. Venerat ut jam mundus
+patientia vinceretur bellatorum Christi, et efferbuit
+pusillum plus solito in novissima defectione pacandus.
+Jam enim millia multa simul mandat perimenda,
+et grassatur in turmas populorum caede crudeli,
+quoniam victum expavit congressu certaminis
+singularis.</p>
+<p>Gloriosa Thebaeorum agmina legiones suas ad
+martyrii palmam armaverunt, ut jam voti esse pro
+Christo mori, non necessitatis constaret. Nam et molam
+Victor post ungulas et equuleum cum laureis
+<pb n="0738A"/>
+saevientis tyranni trucibus edictis non territus elisit,
+et trocleas comminuit, quia angelus Dei sua praesentia
+invictum animo martyrem patenti miraculo
+clarificavit ut vinceret. Vox enim elapsa desuper vicisse
+Victorem palam protestatur, quia palmas
+triumphorum (quas non potuerunt videre oculi impiorum)
+ut confunderentur semper, aliquando audire
+debuerunt. Et alii atque alii plurimi quasi uno et
+vere uno duce spiritu ultro se ad martyria offerentes,
+ostenderunt se amplius posse patiendo, quam
+ii, qui insania vexabantur, potuerunt nocendo. Non
+ergo ultra se potuit continere ut confusionem sui
+non erubesceret mundus, sed dedit manus patientia
+superatus, ne totus occideret, si saevitiam in membris,
+quae resecabantur iu fine prolongaret. Non
+<pb n="0738B"/>
+enim causa perire potuit justitiae aeternae, et ideo
+cessavit aliquando iniquitas persequentium, et patientium
+virtus sicut non novit cedere, sic minis
+minui non novit. Ceciditque altitudo potentiae contradictionis,
+et ferocitas minarum impietatis pacata
+est in humiliationem peccatorum sine contradictione,
+ut mandaretur placabilis, et summus pontifex
+Sylvester fontem vivum regis precibus in terrore
+magno complacatus in purificationem demonstravit.
+Ipse vero cum cognovisset virtutem Altissimi
+in lavacro emundationis, praecepit aras daemonum et
+culturas coinquinationis finem habere in ruinam
+confusionis, ut vere rex fieret in aequitate, qui prius
+fuerat persecutor. Sacerdos autem Dei sacra confirmatus
+gratia, potentia verborum et ratione confutavit
+<pb n="0738C"/>
+rebelles et incredulos, mystica legis edisserens
+sacramenta in concione populorum frequentium regis
+et principum cum indicibus propositionum, atque
+inde miraculis crebrescentibus ipsum esse Jesum
+Christum, qui in hunc mundum pro salute hominum
+advenerat Dei Patris imperio palam omnibus verissime
+confirmavit. Fulget crucis vexillum in loco sanctitatis,
+et regina compos voti cum gaudio remeavit,
+nec potuit ultra signo gloriae sublimato potestas
+adversa prosperari.</p>
+<p>Post haec ergo in toto mundo lilia pacis pullulare
+coeperunt, et Ecclesia mater jam martyrum purpura
+decorata, confessorum quoque candore adornari
+gaudebat. Non enim in uno tantum loco fulsit gratia,
+sed ad fines usque orbis terrarum vernantia
+<pb n="0738D"/>
+spectacula ager plenus benedictione pandebat. Nam
+et deserta in ubertatem versa infusionem pinguedinis
+supernae dum acciperent in jucunditate floruerunt.
+Plena erant invia, et sicca fluenta manabant gratia.
+Paulus enim, et Antonius, et Hilarion, lapides pretiosi
+inventi sunt, ubi non erat pretium et decor,
+et ipsi in fundamento positi mirabilem structuram
+superaedificaverunt, ut aedificaretur domus saltus
+Libani in deserto, et saltus in Carmel computaretur
+ad Libanum. Macharius, et Pannucius, et Arsenius,
+et Pastor juncto sibi Moyse in spiritu eodem
+et virtute populum multum Deo ad terram promissionis
+per desertum saeculi traduxerunt, et cum his
+omnes nominati, et potentes in mirabilibus viri
+<pb n="0739A"/>
+sancti, et electi transierunt. Ut autem filiae quoque
+Pharaonis domum verus Salomon aedificaret, Ephrem,
+et Basilius, et Gregorius, Hieronymus, et Ambrosius,
+et Augustinus cum multis aliis per orbem
+terrarum columnae erecti sunt, mira sapientia fabricati
+et sculpti in omnem formam decoris et gratiae.
+Nam Gregorius alter spiritu plenus, et ipse
+domum vario decore adornavit, ministrans pulchritudines
+multas et jucunditates veritatis. Martinus,
+et Nicolaus, et Benedictus miraculis effulserunt in
+sanctitate mirabili, et in his omnibus plenitudo in
+finem properans, alios quoque omnes qui vocati
+sunt associans, quotidie consummatur. Unde nos
+considerare oportet quanta illic gloria futura sit,
+cujus simulacrum est omne hoc quod cernimus,
+<pb n="0739B"/>
+exiguum quidem excellentia decoris quo tendit ut
+perficiatur, quoad nobis sit consummatum. Illuc
+animos erigere atque intimis desideriis properare
+debemus, ne forte in eo quod jam vidimus speciem
+boni, in opprobrium agnitionis prospexerimus, et
+fructum in gaudium felicitatis non capiamus. Hoc
+enim totum imago est Hierusalem coelestis in terra,
+ad quam bene in gradibus virtutum ascenditur ab
+iis qui praesenti aemulatione ad veram pacem, stabilitatemque
+aeternam totis desideriis colliguntur.
+Multi et varii sunt sermones hominis, quia cor hominis,
+unum non est. Nam, quia intus mens fonte
+veritatis per multa desideria scinditur, propterea
+foris sermo in multas assertiones derivatur. Salomon
+vitae humanae incertum considerans, et qualiter inconstantia
+<pb n="0739C"/>
+fluctuaret mortalitatis conditio, dum et
+foris rerum mutabilium varietate quatitur et intus
+desideriorum inconstantia dissipatur, utrumque hoc
+in semetipso exemplo pariter et eruditione proposuit,
+cum se et rerum transitu, et mentis defectu
+toties mutatum ostendit. Audivimus enim jam supra
+quoties animum suum de alia appetenda transtulerit,
+et cum experimento rerum admonitus de vanitate
+praesentium semper habita despexerit, tamen fluctibus
+<pb n="0740A"/>
+concupiscentiae suae jactatus nunquam ambire
+cessaverit habenda. Quia enim existimavit se in rebus
+transeuntibus stabile invenire posse, ubi delectationem
+suam tranquilla pace, inconcussa stabilitate
+defigeret, idcirco quoties in rebus habitis vel
+id quod concupierat invenit, vel quod amaverat
+perdidit, ad alia rursum appetenda conversus desiderium
+suum vel supplere, vel reparare contendit.
+Nunc autem tandem omnibus experimento probatis
+mutabilium conditionem agnoscit, et quod nihil ex
+omnibus, quae transeunt, perpetuo stare possit,
+fatetur dicens: <hi>Omnia tempus habent, et suis spatiis
+transeunt universa <note>(Eccles. III)</note>
+          </hi>. Omnia tempus habent,
+ut nihil perpetuum, semperque permanens
+inveniatur, sed omne quod est aut aliud subsequatur
+<pb n="0740B"/>
+ut non ab initio veniat, aut praecurrat aliud ut
+usque ad finem se non extendat. Omnia etiam tempus
+habent, videlicet certum ac definitum, vel
+quando incipiant, vel quando finiantur. Sive etiam
+quandiu subsistant, ut prudens animus in his omnibus
+non putet aliquid esse, quod semper stare
+possit, ut in eo fiduciam ponat, sed potius veris,
+et permanentibus bonis se conformans, ita rerum
+mutabilium vanitatem despiciat, ut licet unaquaque
+re pro tempore utatur dum praesens est, nunquam
+tamen in ejus transitu animum a statu suo declinare
+permittat. Ille enim prudentissimus est, qui
+sic scit transeuntia in usum vertere, ut tamen non
+norit in eorum defectu mentem a sua stabilitate
+declinare. Male ergo fecit cum quaedam sibi (quasi
+<pb n="0740C"/>
+potiora) ex omnibus ad jucunditatem elegit, et in
+eis felicem se esse posse credidit, quia et omnia suo
+tempore bene utenti bona sunt et tamen omnia,
+quae mutabilitati subjacent, licet in miseria qualemcunque
+consolationem praebeant, felicitatem tamen
+conferre non possunt. Nihil ergo suo tempore abjiciendum,
+et nihil non suo tempore eligendum; sed
+sic animus ad usum temporis praeparetur, ut tamen
+ad mutabilitatem temporis non mutetur.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>
