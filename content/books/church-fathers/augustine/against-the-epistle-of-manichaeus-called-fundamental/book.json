@@ -2,18 +2,29 @@
   "id": "augustine-against-the-epistle-of-manichaeus-called-fundamental",
   "cover": "quarter",
   "name": {
+    "la": "Contra epistulam Manichaei quam vocant Fundamenti",
     "en-US": "Against the Epistle of Manichaeus Called Fundamental",
     "pt-BR": "Contra a Epístola de Mani Chamada Fundamental"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo",
     "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/contro_lettera_mani/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages contro_lettera_mani of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1405.htm",
@@ -24,6 +35,7 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Contra epistulam Manichaei quam vocant Fundamenti",
         "en-US": "Against the Epistle of Manichaeus Called Fundamental",
         "pt-BR": "Contra a Epístola de Mani Chamada Fundamental"
       }
@@ -31,6 +43,23 @@
   ],
   "arrived": {
     "en-US": "2026-06-04",
-    "pt-BR": "2026-10-24"
+    "pt-BR": "2026-10-24",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/contra-epistulam-fundamenti",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "Richard Stothert",
+      "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
   }
 }
