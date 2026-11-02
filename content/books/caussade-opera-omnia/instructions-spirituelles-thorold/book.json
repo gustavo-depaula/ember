@@ -1,0 +1,242 @@
+{
+  "id": "caussade-instructions-spirituelles-thorold",
+  "cover": "classic",
+  "name": {
+    "en-US": "On Prayer: Spiritual Instructions in the Form of Dialogues on the Various States of Prayer",
+    "pt-BR": "Sobre a oração: instruções espirituais em forma de diálogos sobre os diversos estados de oração"
+  },
+  "author": {
+    "en-US": "Jean-Pierre de Caussade",
+    "pt-BR": "Jean-Pierre de Caussade",
+    "fr-FR": "Jean-Pierre de Caussade"
+  },
+  "description": {
+    "en-US": "The only book Jean-Pierre de Caussade, S.J. (1675-1751) published in his lifetime (Perpignan, 1741, anonymously): a set of dialogues, in question and answer, on the states of prayer according to Bossuet’s Instruction sur les divers états d’oraison. Book I defends the true mystics against the Quietist errors, drawing on Bossuet, Francis de Sales and Jane de Chantal; Book II teaches the practice, the four purities, the rules of recollection, and advice for beginners, the advanced and those far on. Algar Thorold’s English of 1931 from the 1892-95 French text, with the Abbot of Downside’s (Dom John Chapman’s) Introduction, Thorold’s Note and Fr. Ludovic de Besse’s Preface. The French text could not be found in a clean edition, so this book has the English only.",
+    "pt-BR": "O único livro que Jean-Pierre de Caussade, S.J. (1675-1751) publicou em vida (Perpignan, 1741, anonimamente): diálogos em perguntas e respostas sobre os estados de oração segundo a Instruction sur les divers états d’oraison de Bossuet. O Livro I defende os verdadeiros místicos contra os erros quietistas; o Livro II ensina a prática, as quatro purezas, as regras do recolhimento e conselhos para principiantes e adiantados. Tradução inglesa de Algar Thorold (1931), com a introdução de Dom John Chapman, a nota do tradutor e o prefácio de Ludovic de Besse. O texto francês não foi encontrado em edição limpa."
+  },
+  "composed": "1741",
+  "languages": [
+    "en-US"
+  ],
+  "work": "caussade/instructions-spirituelles",
+  "editions": {
+    "en-US": {
+      "translator": "Algar Thorold",
+      "year": 1931
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/onprayer_201911",
+      "edition": "Jean-Pierre de Caussade, On Prayer: Spiritual Instructions in the form of Dialogues on the various States of Prayer according to the doctrine of Bossuet, Bishop of Meaux, translated by Algar Thorold from the Bussenot text (Reims, 1892-95) of the Perpignan 1741 edition, with an Introduction by the Abbot of Downside and a Preface by Fr. Ludovic de Besse, London: Burns Oates & Washbourne, 1931. Internet Archive scan, OCR text.",
+      "description": "Introduction, Translator’s Note, Preface, and both Books (Book I: preliminary dialogue and sixteen dialogues; Book II: preliminary dialogue and ten dialogues, with the closing prayer) with the translator’s footnotes. The contents tables, the Bossuet appendix and the printer’s matter are left out. OCR corrected only by script: running heads and page numbers stripped, hyphenation rejoined, question and answer marks normalised, footnotes tied to their markers by page; quotation marks misread as digits or \"£\", some footnote markers and the notes that continue over a page remain imperfect, and one upside-down page in Book I, Dialogue XI is lost.",
+      "tier": "A",
+      "tierEvidence": "Published London 1931, imprimatur 27 April 1931; Thorold died in 1936 and Chapman in 1933, so the text is public domain by the death rule. Caussade died in 1751."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction by the Abbot of Downside"
+      }
+    },
+    {
+      "id": "translators-note",
+      "title": {
+        "en-US": "Translator’s Note"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface by Fr. Ludovic de Besse"
+      }
+    },
+    {
+      "id": "book-1",
+      "title": {
+        "en-US": "Book I. The errors of the false mystics and the doctrine of Bossuet"
+      },
+      "children": [
+        {
+          "id": "b1-prelim",
+          "title": {
+            "en-US": "Book I. Preliminary Dialogue: On the occasion of Bossuet’s publishing his Instruction sur les divers états d’oraison, and the author’s twofold intention"
+          }
+        },
+        {
+          "id": "b1-d01",
+          "title": {
+            "en-US": "Book I. Dialogue I: General exposition of the errors of the false mystics on prayer; how these errors penetrated into France"
+          }
+        },
+        {
+          "id": "b1-d02",
+          "title": {
+            "en-US": "Book I. Dialogue II: On the particular errors of the false mystics of the seventeenth century: Bossuet opposes to them the principles of the true mystics"
+          }
+        },
+        {
+          "id": "b1-d03",
+          "title": {
+            "en-US": "Book I. Dialogue III: Bossuet refutes in particular the insidious passages in the books of the new mystics, and lays down the rule for distinguishing between the writings of the false and the true mystics"
+          }
+        },
+        {
+          "id": "b1-d04",
+          "title": {
+            "en-US": "Book I. Dialogue IV: The doctrine of the saints opposed to the modern errors of the false mystics"
+          }
+        },
+        {
+          "id": "b1-d05",
+          "title": {
+            "en-US": "Book I. Dialogue V: The imperceptibility of our acts: the soul begins, by means of the prayer of pure faith, to distinguish intellectual acts from acts of the senses"
+          }
+        },
+        {
+          "id": "b1-d06",
+          "title": {
+            "en-US": "Book I. Dialogue VI: Other errors of the false mystics: to be aware of one’s acts is culpable only in so far as it feeds one’s self-love"
+          }
+        },
+        {
+          "id": "b1-d07",
+          "title": {
+            "en-US": "Book I. Dialogue VII: The reality of passive prayer: various passive prayers"
+          }
+        },
+        {
+          "id": "b1-d08",
+          "title": {
+            "en-US": "Book I. Dialogue VIII: The same subject continued: this kind of prayer does not exclude the acts commanded for the Christian life"
+          }
+        },
+        {
+          "id": "b1-d09",
+          "title": {
+            "en-US": "Book I. Dialogue IX: On perfect love of God, which does not exclude the hope of reward"
+          }
+        },
+        {
+          "id": "b1-d10",
+          "title": {
+            "en-US": "Book I. Dialogue X: S. Francis de Sales professes the same doctrine: Christian indifference, and how it should be understood"
+          }
+        },
+        {
+          "id": "b1-d11",
+          "title": {
+            "en-US": "Book I. Dialogue XI: The Bishop of Meaux’s views on the prayer of the Venerable Mother de Chantal, approved by S. Francis de Sales"
+          }
+        },
+        {
+          "id": "b1-d12",
+          "title": {
+            "en-US": "Book I. Dialogue XII: On the prayer of the Venerable Mother de Chantal (continued): what writings she has left us on this important matter"
+          }
+        },
+        {
+          "id": "b1-d13",
+          "title": {
+            "en-US": "Book I. Dialogue XIII: On the impossible suppositions by which S. Francis de Sales and several other saints have from the beginning of the Church expressed the excess of love"
+          }
+        },
+        {
+          "id": "b1-d14",
+          "title": {
+            "en-US": "Book I. Dialogue XIV: On the trials of afflicted souls and the act of abandonment most perfect and most fitting to their state"
+          }
+        },
+        {
+          "id": "b1-d15",
+          "title": {
+            "en-US": "Book I. Dialogue XV: On the acts of the condemnation of the Quietists: the precautions taken by the Bishops in condemning errors not to harm the teaching of the saints"
+          }
+        },
+        {
+          "id": "b1-d16",
+          "title": {
+            "en-US": "Book I. Dialogue XVI: The Ordinances continued: the views of the Bishop of Meaux on the same subject"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": {
+        "en-US": "Book II. The practice of prayer"
+      },
+      "children": [
+        {
+          "id": "b2-prelim",
+          "title": {
+            "en-US": "Book II. Preliminary Dialogue: On several questions touching the direct acts in which the different forms of mystical prayer consist, and the various names Bossuet gave to these forms of prayer"
+          }
+        },
+        {
+          "id": "b2-d01",
+          "title": {
+            "en-US": "Book II. Dialogue I: On purity of conscience"
+          }
+        },
+        {
+          "id": "b2-d02",
+          "title": {
+            "en-US": "Book II. Dialogue II: On purity of heart"
+          }
+        },
+        {
+          "id": "b2-d03",
+          "title": {
+            "en-US": "Book II. Dialogue III: On purity of spirit"
+          }
+        },
+        {
+          "id": "b2-d04",
+          "title": {
+            "en-US": "Book II. Dialogue IV: On purity of action"
+          }
+        },
+        {
+          "id": "b2-d05",
+          "title": {
+            "en-US": "Book II. Dialogue V: On the proximate dispositions for recollection, which consist in two rules to be observed"
+          }
+        },
+        {
+          "id": "b2-d06",
+          "title": {
+            "en-US": "Book II. Dialogue VI: Advice for beginners"
+          }
+        },
+        {
+          "id": "b2-d07",
+          "title": {
+            "en-US": "Book II. Dialogue VII: Advice to advanced souls on the aridities of their prayer, and on the particular temptations which accompany them"
+          }
+        },
+        {
+          "id": "b2-d08",
+          "title": {
+            "en-US": "Book II. Dialogue VIII: On emptiness of spirit, on the impotence which follows and the extraordinary revolts of the passions"
+          }
+        },
+        {
+          "id": "b2-d09",
+          "title": {
+            "en-US": "Book II. Dialogue IX: Advice to those who have made great progress"
+          }
+        },
+        {
+          "id": "b2-d10",
+          "title": {
+            "en-US": "Book II. Dialogue X: The same subject continued"
+          }
+        }
+      ]
+    }
+  ]
+}
