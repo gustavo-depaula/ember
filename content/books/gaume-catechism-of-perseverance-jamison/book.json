@@ -1,0 +1,1308 @@
+{
+  "id": "gaume-catechism-of-perseverance-jamison",
+  "cover": "label",
+  "name": {
+    "en-US": "The Catechism of Perseverance (Jamison)",
+    "pt-BR": "O Catecismo de Perseverança (Jamison)"
+  },
+  "author": {
+    "en-US": "Jean-Joseph Gaume, translated by F. B. Jamison",
+    "pt-BR": "Jean-Joseph Gaume, traduzido por F. B. Jamison"
+  },
+  "description": {
+    "en-US": "Abbé Gaume's Petit catéchisme de persévérance in the Rev. F. B. Jamison's English: a historical, doctrinal, moral and liturgical exposition of the Catholic religion in short questions and answers, in four courses of some fifty chapters each. Course 1 covers creation, man, the fall and the prophecies; Course 2 the life of Christ and the Creed; Course 3 the history of the Church; Course 4 worship, the Mass and the liturgical year.",
+    "pt-BR": "O Petit catéchisme de persévérance do Abbé Gaume no inglês do Rev. F. B. Jamison: uma exposição histórica, doutrinal, moral e litúrgica da religião católica em perguntas e respostas curtas, em quatro cursos de cerca de cinquenta capítulos cada. O Curso 1 trata da criação, do homem, da queda e das profecias; o Curso 2 da vida de Cristo e do Credo; o Curso 3 da história da Igreja; o Curso 4 do culto, da Missa e do ano litúrgico."
+  },
+  "composed": 1838,
+  "languages": [
+    "en-US"
+  ],
+  "work": "gaume/petit-catechisme-de-perseverance",
+  "editions": {
+    "en-US": {
+      "translator": "F. B. Jamison",
+      "year": 1850
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/catechismperserv00gaumuoft",
+      "description": "The Catechism of Perseverance, trans. Rev. F. B. Jamison, fiftieth edition, revised and enlarged (Boston: Thomas Noonan; first edition 1850), via the archive.org OCR text (University of Toronto scan). Tier A: public domain in the United States (a nineteenth-century text). Uncorrected OCR beyond systematic fixes (running heads, spacing, line-end hyphens restored by dictionary); questions are numbered per chapter by this edition's markup, not by the source."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "prayer-before-and-after-catechism",
+      "title": {
+        "en-US": "Prayer before and after Catechism"
+      }
+    },
+    {
+      "id": "course-1-chapter-01",
+      "title": {
+        "en-US": "Course 1, Chapter 1: Teaching of Religion. — Catechism"
+      }
+    },
+    {
+      "id": "course-1-chapter-02",
+      "title": {
+        "en-US": "Course 1, Chapter 2: Teaching of Religion. — Scripture and Tradition"
+      }
+    },
+    {
+      "id": "course-1-chapter-03",
+      "title": {
+        "en-US": "Course 1, Chapter 3: Knowledge of God. — God considered in himself"
+      }
+    },
+    {
+      "id": "course-1-chapter-04",
+      "title": {
+        "en-US": "Course 1, Chapter 4: Knowledge of God — God considered in his works. First day of the creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-05",
+      "title": {
+        "en-US": "Course 1, Chapter 5: Knowledge of God — God considered in his works. Second day of the Creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-06",
+      "title": {
+        "en-US": "Course 1, Chapter 6: Knowledge of God — God considered in his work*. Third day of Creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-07",
+      "title": {
+        "en-US": "Course 1, Chapter 7: Knowledge of God — God considered in his works. End of third day and beginning of the fourth day of the Creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-08",
+      "title": {
+        "en-US": "Course 1, Chapter 8: Knowledge of God — God considered in his works. End of the fourth day of the Creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-09",
+      "title": {
+        "en-US": "Course 1, Chapter 9: Knowledge of God — God considered in Ms works. Fifth day of the Creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-10",
+      "title": {
+        "en-US": "Course 1, Chapter 10: Knowledge of God — God considered in his works. End of the fifth and beginning of the sixth day of the Creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-11",
+      "title": {
+        "en-US": "Course 1, Chapter 11: Knowledge of God — God considered in his works. End of the sixth day of the Creation"
+      }
+    },
+    {
+      "id": "course-1-chapter-12",
+      "title": {
+        "en-US": "Course 1, Chapter 12: Knowledge of Man. — Man considered in himself"
+      }
+    },
+    {
+      "id": "course-1-chapter-13",
+      "title": {
+        "en-US": "Course 1, Chapter 13: Knowledge of Man. — Man considered in his relations • to creatures"
+      }
+    },
+    {
+      "id": "course-1-chapter-14",
+      "title": {
+        "en-US": "Course 1, Chapter 14: Man considered in his relations to God"
+      }
+    },
+    {
+      "id": "course-1-chapter-15",
+      "title": {
+        "en-US": "Course 1, Chapter 15: Knowledge of the Angels"
+      }
+    },
+    {
+      "id": "course-1-chapter-16",
+      "title": {
+        "en-US": "Course 1, Chapter 16: The fall of Man"
+      }
+    },
+    {
+      "id": "course-1-chapter-17",
+      "title": {
+        "en-US": "Course 1, Chapter 17: Justice reconciled with divine mercy in the punish ment of original sin"
+      }
+    },
+    {
+      "id": "course-1-chapter-18",
+      "title": {
+        "en-US": "Course 1, Chapter 18: Necessity and perpetuity of faith in the mystery of the Redemption. — History of Job"
+      }
+    },
+    {
+      "id": "course-1-chapter-19",
+      "title": {
+        "en-US": "Course 1, Chapter 19: Knowledge of Religion; — it is a great grace"
+      }
+    },
+    {
+      "id": "course-1-chapter-20",
+      "title": {
+        "en-US": "Course 1, Chapter 20: What is Religion?"
+      }
+    },
+    {
+      "id": "course-1-chapter-21",
+      "title": {
+        "en-US": "Course 1, Chapter 21"
+      }
+    },
+    {
+      "id": "course-1-chapter-22",
+      "title": {
+        "en-US": "Course 1, Chapter 22: The Messiah promised and prefigured. — Noah the third figure, A. C. 2348"
+      }
+    },
+    {
+      "id": "course-1-chapter-23",
+      "title": {
+        "en-US": "Course 1, Chapter 23: The Messiah promised and prefigured — Second promise and fourth figure of the Messiah. — Melchisedech. A. C. 2247-1921"
+      }
+    },
+    {
+      "id": "course-1-chapter-24",
+      "title": {
+        "en-US": "Course 1, Chapter 24: The Messiah promised and prefigured — Isaac the fifth figure of the Messiah, A. C. 1871-1836"
+      }
+    },
+    {
+      "id": "course-1-chapter-25",
+      "title": {
+        "en-US": "Course 1, Chapter 25: The Messiah promised and prefigured — Third and fourth promises — Sixth figure of the Messiah- Jacob, (A. C. 1739.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-26",
+      "title": {
+        "en-US": "Course 1, Chapter 26: The Messiah promised and prefigured — Seventh figure of the Messiah — Joseph. (A. C. 1729-1689.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-27",
+      "title": {
+        "en-US": "Course 1, Chapter 27: The Messiah promised and prefigured — Fifth promise. Eighth figure of the Messiah — The Paschal Lamb. — (A. C. 1491.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-28",
+      "title": {
+        "en-US": "Course 1, Chapter 28: The Messiah promised and prefigured — Ninth figure of the Messiah — The Manna — Sixth promise. — (A. C. 1491.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-29",
+      "title": {
+        "en-US": "Course 1, Chapter 29"
+      }
+    },
+    {
+      "id": "course-1-chapter-30",
+      "title": {
+        "en-US": "Course 1, Chapter 30: The Messiah promised and prefigured — Twelfth figure of the Messiah — Moses. (A. C. 1451.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-31",
+      "title": {
+        "en-US": "Course 1, Chapter 31: The Messiah promised and prefigured. — Thirteenth figure of the Messiah. -Josue. (A. C. 1450-1426.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-32",
+      "title": {
+        "en-US": "Course 1, Chapter 32: The Messiah promised and prefigured — Fourteenth figure of the Messiah. — Gideon. (A. C. 1405.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-33",
+      "title": {
+        "en-US": "Course 1, Chapter 33: The Messiah promised and prefigured — Fifteenth figure of the Messiah. — Sampson. (A. C. 1245-1117.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-34",
+      "title": {
+        "en-US": "Course 1, Chapter 34: The Messiah promised and prefigured — Seventh promise of the Messiah. (A. C. 1116-1048.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-35",
+      "title": {
+        "en-US": "Course 1, Chapter 35: Th 3 Messiah promised and prefigured — Sixteenth fig~ ure of the Messiah — David. (A. C. 1022-1015.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-36",
+      "title": {
+        "en-US": "Course 1, Chapter 36: The Messiah promised and prefigured. — Seventeenth figure of the Messiah. — Solomon. (A. C. 1015-982.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-37",
+      "title": {
+        "en-US": "Course 1, Chapter 37: The Messiah promised and prefigured — Eighteenth figure of the Messiah — Jonas. (A. C. 975-825.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-38",
+      "title": {
+        "en-US": "Course 1, Chapter 38: Messiah foretold. — Prophecies of David"
+      }
+    },
+    {
+      "id": "course-1-chapter-39",
+      "title": {
+        "en-US": "Course 1, Chapter 39: Messiah foretold — Prophecies of Isaias. (A. C. 720.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-40",
+      "title": {
+        "en-US": "Course 1, Chapter 40: Messiah foretold — Prophecies of Osee, Micheas, Joel and Jeremias. (A. C. 600.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-41",
+      "title": {
+        "en-US": "Course 1, Chapter 41: Messiah foretold — Prophecy of Ezechiel. (A. C. 580. \\"
+      }
+    },
+    {
+      "id": "course-1-chapter-42",
+      "title": {
+        "en-US": "Course 1, Chapter 42: Messiah foretold — Prophecies of Daniel. (A. C. 551-538.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-43",
+      "title": {
+        "en-US": "Course 1, Chapter 43: Messiah foretold — Prophecies of Aggens, Zacharias and Malachias. (A. C. 538-454.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-44",
+      "title": {
+        "en-US": "Course 1, Chapter 44: A general summary and application of the promises, figures and prophecies, to our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "course-1-chapter-45",
+      "title": {
+        "en-US": "Course 1, Chapter 45: Preparation for the Messiah — Monarchy of the As syrians and Persians. (A. C. 900-460.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-46",
+      "title": {
+        "en-US": "Course 1, Chapter 46: Preparation for the Messiah — History of Judith, (A. C. 810.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-47",
+      "title": {
+        "en-US": "Course 1, Chapter 47: Preparation for the Messiah — History of Tobias. (A. C. 611.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-48",
+      "title": {
+        "en-US": "Course 1, Chapter 48: Preparation for the Messiah — History of Esther. (A. C. 460.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-49",
+      "title": {
+        "en-US": "Course 1, Chapter 49: Preparation for the Messiah — Monarchy of the Greeks and Romans. (A. C. 336-170.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-50",
+      "title": {
+        "en-US": "Course 1, Chapter 50: Preparation for the Messiah — History of the Machabees. (A. C. 170.)"
+      }
+    },
+    {
+      "id": "course-1-chapter-51",
+      "title": {
+        "en-US": "Course 1, Chapter 51: Unity of Religion and of the Church"
+      }
+    },
+    {
+      "id": "course-1-chapter-52",
+      "title": {
+        "en-US": "Course 1, Chapter 52: Influence of Religion"
+      }
+    },
+    {
+      "id": "course-2-chapter-01",
+      "title": {
+        "en-US": "Course 2, Chapter 1: State of the world at the coining of the Messiah"
+      }
+    },
+    {
+      "id": "course-2-chapter-02",
+      "title": {
+        "en-US": "Course 2, Chapter 2: Birth of the Messiah"
+      }
+    },
+    {
+      "id": "course-2-chapter-03",
+      "title": {
+        "en-US": "Course 2, Chapter 3: Hidden Life of our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "course-2-chapter-04",
+      "title": {
+        "en-US": "Course 2, Chapter 4: Public Life of our Lord — First year"
+      }
+    },
+    {
+      "id": "course-2-chapter-05",
+      "title": {
+        "en-US": "Course 2, Chapter 5: Public Life of our Lord — First Year"
+      }
+    },
+    {
+      "id": "course-2-chapter-06",
+      "title": {
+        "en-US": "Course 2, Chapter 6: Public Life of our Lord — First year"
+      }
+    },
+    {
+      "id": "course-2-chapter-07",
+      "title": {
+        "en-US": "Course 2, Chapter 7: Public Life of our Lord — Second year"
+      }
+    },
+    {
+      "id": "course-2-chapter-08",
+      "title": {
+        "en-US": "Course 2, Chapter 8: Public Life of our Lord — Second year"
+      }
+    },
+    {
+      "id": "course-2-chapter-09",
+      "title": {
+        "en-US": "Course 2, Chapter 9: Public Life of our Lord — Third year"
+      }
+    },
+    {
+      "id": "course-2-chapter-10",
+      "title": {
+        "en-US": "Course 2, Chapter 10: Public Life of our Lord — Third year"
+      }
+    },
+    {
+      "id": "course-2-chapter-11",
+      "title": {
+        "en-US": "Course 2, Chapter 11: Public Life of our Lord — Third year"
+      }
+    },
+    {
+      "id": "course-2-chapter-12",
+      "title": {
+        "en-US": "Course 2, Chapter 12: Passion of our Lord"
+      }
+    },
+    {
+      "id": "course-2-chapter-13",
+      "title": {
+        "en-US": "Course 2, Chapter 13: Passion of our Lord — Continued"
+      }
+    },
+    {
+      "id": "course-2-chapter-14",
+      "title": {
+        "en-US": "Course 2, Chapter 14: The Burial and Resurrection of our Lord"
+      }
+    },
+    {
+      "id": "course-2-chapter-15",
+      "title": {
+        "en-US": "Course 2, Chapter 15: The glorious life of our Lord"
+      }
+    },
+    {
+      "id": "course-2-chapter-16",
+      "title": {
+        "en-US": "Course 2, Chapter 16: Our Lord restorer of the world"
+      }
+    },
+    {
+      "id": "course-2-chapter-17",
+      "title": {
+        "en-US": "Course 2, Chapter 17: Our Lord, the new Adam"
+      }
+    },
+    {
+      "id": "course-2-chapter-18",
+      "title": {
+        "en-US": "Course 2, Chapter 18: Union of our intellect with our Lord, the new Adam, by faith. — First and second articles of the Symbol"
+      }
+    },
+    {
+      "id": "course-2-chapter-19",
+      "title": {
+        "en-US": "Course 2, Chapter 19: Union of our intellect with our Lord, the new Adam, by faith. — Third, fourth and fifth articles of the Symbol"
+      }
+    },
+    {
+      "id": "course-2-chapter-20",
+      "title": {
+        "en-US": "Course 2, Chapter 20: Of union with our Lord, the new Adam, by faith. Purgatory"
+      }
+    },
+    {
+      "id": "course-2-chapter-21",
+      "title": {
+        "en-US": "Course 2, Chapter 21: Of union with our Lord, the new Adam, by faith. Sixth and seventh articles of the Creed"
+      }
+    },
+    {
+      "id": "course-2-chapter-22",
+      "title": {
+        "en-US": "Course 2, Chapter 22: Of union with our Lord, the new Adam, by faith, Eighth, ninth, tenth and eleventh articles of the Creed"
+      }
+    },
+    {
+      "id": "course-2-chapter-23",
+      "title": {
+        "en-US": "Course 2, Chapter 23: Of union with our Lord, the new Adam, by faith. Twelfth article of the Creed — Sign of the Cross"
+      }
+    },
+    {
+      "id": "course-2-chapter-24",
+      "title": {
+        "en-US": "Course 2, Chapter 24: Of union with our Lord, the new Adam, by charity. Hope and Charity"
+      }
+    },
+    {
+      "id": "course-2-chapter-25",
+      "title": {
+        "en-US": "Course 2, Chapter 25: Of union with our Lord, the new Adam, by charity. Charity. — The Decalogue"
+      }
+    },
+    {
+      "id": "course-2-chapter-26",
+      "title": {
+        "en-US": "Course 2, Chapter 26: Of union with our Lord, the new Adam, by cnarity. First Commandment"
+      }
+    },
+    {
+      "id": "course-2-chapter-27",
+      "title": {
+        "en-US": "Course 2, Chapter 27: Of union with our Lord, the new Adam, by charity. First Commandment continued — Second Command* ment"
+      }
+    },
+    {
+      "id": "course-2-chapter-28",
+      "title": {
+        "en-US": "Course 2, Chapter 28: Of union with our Lord, the new Adam, by charity. Second Commandment continued — Third Commandment"
+      }
+    },
+    {
+      "id": "course-2-chapter-29",
+      "title": {
+        "en-US": "Course 2, Chapter 29: Of union with our Lord, the new Adam, by charity. The Fourth Commandment"
+      }
+    },
+    {
+      "id": "course-2-chapter-30",
+      "title": {
+        "en-US": "Course 2, Chapter 30: Of union with our Lord, the new Adam, by charity. Fifth, sixth and ninth Commandments"
+      }
+    },
+    {
+      "id": "course-2-chapter-31",
+      "title": {
+        "en-US": "Course 2, Chapter 31: Of union with our Lord, the new Adam, by charity. Seventh and tenth Commandments"
+      }
+    },
+    {
+      "id": "course-2-chapter-32",
+      "title": {
+        "en-US": "Course 2, Chapter 32: Of union with our Lord, the new Adam, by charity. Eighth Commandment"
+      }
+    },
+    {
+      "id": "course-2-chapter-33",
+      "title": {
+        "en-US": "Course 2, Chapter 33: Of union with our Lord the new Adam, by Communion. — The Sacraments"
+      }
+    },
+    {
+      "id": "course-2-chapter-34",
+      "title": {
+        "en-US": "Course 2, Chapter 34: Of union with our Lord, the new Adam, by Communion. — Of Baptism"
+      }
+    },
+    {
+      "id": "course-2-chapter-35",
+      "title": {
+        "en-US": "Course 2, Chapter 35: Of union with our Lord, the new Adam, by Communion. — Baptism continued"
+      }
+    },
+    {
+      "id": "course-2-chapter-36",
+      "title": {
+        "en-US": "Course 2, Chapter 36: Of union with our Lord, the new Adam, by Communion. — Of Confirmation"
+      }
+    },
+    {
+      "id": "course-2-chapter-37",
+      "title": {
+        "en-US": "Course 2, Chapter 37: Of union with our Lord, the new Adam, by Communion. — The Eucharist"
+      }
+    },
+    {
+      "id": "course-2-chapter-38",
+      "title": {
+        "en-US": "Course 2, Chapter 38: Of union with our Lord, the new Adam, by Communion. — The Eucharist continued"
+      }
+    },
+    {
+      "id": "course-2-chapter-39",
+      "title": {
+        "en-US": "Course 2, Chapter 39: Of union with our Lord, the new Adam, by Communion. — Penance"
+      }
+    },
+    {
+      "id": "course-2-chapter-40",
+      "title": {
+        "en-US": "Course 2, Chapter 40: Of union with our Lord, the new Adam, by Communion. — Penance continued"
+      }
+    },
+    {
+      "id": "course-2-chapter-41",
+      "title": {
+        "en-US": "Course 2, Chapter 41: Of union with our Lord, the new Adam, by Communion. — Penance continued"
+      }
+    },
+    {
+      "id": "course-2-chapter-42",
+      "title": {
+        "en-US": "Course 2, Chapter 42: Of union with our Lord, the new Adam, by Communion. — Indulgence — The Jubilee"
+      }
+    },
+    {
+      "id": "course-2-chapter-43",
+      "title": {
+        "en-US": "Course 2, Chapter 43: Of union with our Lord, the new Adam, by Communion. — Extreme Unction"
+      }
+    },
+    {
+      "id": "course-2-chapter-44",
+      "title": {
+        "en-US": "Course 2, Chapter 44: Of union with our Lord, the new Adam, by Communion. — Sacrament of Holy Orders"
+      }
+    },
+    {
+      "id": "course-2-chapter-45",
+      "title": {
+        "en-US": "Course 2, Chapter 45: Of union with our Lord, the new Adam, by Communion — Sacrament of Holy Orders continued"
+      }
+    },
+    {
+      "id": "course-2-chapter-46",
+      "title": {
+        "en-US": "Course 2, Chapter 46: Of union with our Lord, the new Adam, by Communion. — Sacrament of Matrimony"
+      }
+    },
+    {
+      "id": "course-2-chapter-47",
+      "title": {
+        "en-US": "Course 2, Chapter 47: Conditions of union with our Lord, the new Adam. — Grace and Prayer"
+      }
+    },
+    {
+      "id": "course-2-chapter-48",
+      "title": {
+        "en-US": "Course 2, Chapter 48: End of our union with Christ, the new Adam"
+      }
+    },
+    {
+      "id": "course-2-chapter-49",
+      "title": {
+        "en-US": "Course 2, Chapter 49: End of our union with Christ, the new Adam, continued"
+      }
+    },
+    {
+      "id": "course-2-chapter-50",
+      "title": {
+        "en-US": "Course 2, Chapter 50: Obstacles to union with our Lord, the new Adam"
+      }
+    },
+    {
+      "id": "course-2-chapter-51",
+      "title": {
+        "en-US": "Course 2, Chapter 51: Perpetuation of our union with the new Adam. — The Church"
+      }
+    },
+    {
+      "id": "course-2-chapter-52",
+      "title": {
+        "en-US": "Course 2, Chapter 52: Perpetuation of our union with the new Adam. — The Church continued"
+      }
+    },
+    {
+      "id": "course-3-chapter-01",
+      "title": {
+        "en-US": "Course 3, Chapter 1: Christianity established — First Preaching of the Apostles. — First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-02",
+      "title": {
+        "en-US": "Course 3, Chapter 2: Christianity established. — Lives of St. Peter and St. Paul — First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-03",
+      "title": {
+        "en-US": "Course 3, Chapter 3: • rlstianity established. — Life of St. Paul continued, First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-04",
+      "title": {
+        "en-US": "Course 3, Chapter 4: Christianity established. — Lives of the other Apostles. First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-05",
+      "title": {
+        "en-US": "Course 3, Chapter 5: Christianity established. — Manners of the Pagans. First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-06",
+      "title": {
+        "en-US": "Course 3, Chapter 6: Christianity established. — Manners of the Christians. First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-07",
+      "title": {
+        "en-US": "Course 3, Chapter 7: Christianity established. — Manners of the Christians"
+      }
+    },
+    {
+      "id": "course-3-chapter-08",
+      "title": {
+        "en-US": "Course 3, Chapter 8: Christianity established. — Manners of the Christians, continued. — First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-09",
+      "title": {
+        "en-US": "Course 3, Chapter 9: Christianity established. — First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-10",
+      "title": {
+        "en-US": "Course 3, Chapter 10: Christianity established. — First and second Persecutions. — First Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-11",
+      "title": {
+        "en-US": "Course 3, Chapter 11: Christianity established. — Third and fourth Perseciu tions. — First and second Centuries"
+      }
+    },
+    {
+      "id": "course-3-chapter-12",
+      "title": {
+        "en-US": "Course 3, Chapter 12: Christianity established. — Fifth and sixth Persecutions. — Second Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-13",
+      "title": {
+        "en-US": "Course 3, Chapter 13: Christianity established. — Sixth Persecution. Second Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-14",
+      "title": {
+        "en-US": "Course 3, Chapter 14: Christianity established. — Seventh Persecution. Third Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-15",
+      "title": {
+        "en-US": "Course 3, Chapter 15: Christianity established. — Eighth and ninth persecutions. — -Third Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-16",
+      "title": {
+        "en-US": "Course 3, Chapter 16: Christianity established. — Tenth persecution. — Third and fourth Centuries"
+      }
+    },
+    {
+      "id": "course-3-chapter-17",
+      "title": {
+        "en-US": "Course 3, Chapter 17: Christianity established. — Tenth persecution continued. — Fourth Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-18",
+      "title": {
+        "en-US": "Course 3, Chapter 18: Christianity established. — Tenth persecution continued. — Fourth Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-19",
+      "title": {
+        "en-US": "Course 3, Chapter 19: Christianity established. — Tenth persecution continued. — Fourth Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-20",
+      "title": {
+        "en-US": "Course 3, Chapter 20: Christianity established. — Divinity of Religion. Fourth Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-21",
+      "title": {
+        "en-US": "Course 3, Chapter 21: Christianity preserved and propagated. — Arius — St. Athanasius. — Fourth Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-22",
+      "title": {
+        "en-US": "Course 3, Chapter 22"
+      }
+    },
+    {
+      "id": "course-3-chapter-23",
+      "title": {
+        "en-US": "Course 3, Chapter 23"
+      }
+    },
+    {
+      "id": "course-3-chapter-24",
+      "title": {
+        "en-US": "Course 3, Chapter 24"
+      }
+    },
+    {
+      "id": "course-3-chapter-25",
+      "title": {
+        "en-US": "Course 3, Chapter 25"
+      }
+    },
+    {
+      "id": "course-3-chapter-26",
+      "title": {
+        "en-US": "Course 3, Chapter 26"
+      }
+    },
+    {
+      "id": "course-3-chapter-27",
+      "title": {
+        "en-US": "Course 3, Chapter 27: Christianity preserved and propagated. — St. John the Almoner continued. — Tne true Cross restored. Seventh Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-28",
+      "title": {
+        "en-US": "Course 3, Chapter 28"
+      }
+    },
+    {
+      "id": "course-3-chapter-29",
+      "title": {
+        "en-US": "Course 3, Chapter 29"
+      }
+    },
+    {
+      "id": "course-3-chapter-30",
+      "title": {
+        "en-US": "Course 3, Chapter 30"
+      }
+    },
+    {
+      "id": "course-3-chapter-31",
+      "title": {
+        "en-US": "Course 3, Chapter 31"
+      }
+    },
+    {
+      "id": "course-3-chapter-32",
+      "title": {
+        "en-US": "Course 3, Chapter 32"
+      }
+    },
+    {
+      "id": "course-3-chapter-33",
+      "title": {
+        "en-US": "Course 3, Chapter 33: Christianity preserved and propagated. — St. Bruno, St. William, St. Peter Damian, St. Gregory VII, Eleventh Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-34",
+      "title": {
+        "en-US": "Course 3, Chapter 34"
+      }
+    },
+    {
+      "id": "course-3-chapter-35",
+      "title": {
+        "en-US": "Course 3, Chapter 35"
+      }
+    },
+    {
+      "id": "course-3-chapter-36",
+      "title": {
+        "en-US": "Course 3, Chapter 36"
+      }
+    },
+    {
+      "id": "course-3-chapter-37",
+      "title": {
+        "en-US": "Course 3, Chapter 37"
+      }
+    },
+    {
+      "id": "course-3-chapter-38",
+      "title": {
+        "en-US": "Course 3, Chapter 38"
+      }
+    },
+    {
+      "id": "course-3-chapter-39",
+      "title": {
+        "en-US": "Course 3, Chapter 39"
+      }
+    },
+    {
+      "id": "course-3-chapter-40",
+      "title": {
+        "en-US": "Course 3, Chapter 40"
+      }
+    },
+    {
+      "id": "course-3-chapter-41",
+      "title": {
+        "en-US": "Course 3, Chapter 41"
+      }
+    },
+    {
+      "id": "course-3-chapter-42",
+      "title": {
+        "en-US": "Course 3, Chapter 42"
+      }
+    },
+    {
+      "id": "course-3-chapter-43",
+      "title": {
+        "en-US": "Course 3, Chapter 43"
+      }
+    },
+    {
+      "id": "course-3-chapter-44",
+      "title": {
+        "en-US": "Course 3, Chapter 44"
+      }
+    },
+    {
+      "id": "course-3-chapter-45",
+      "title": {
+        "en-US": "Course 3, Chapter 45: Christianity preserved and propagated. — Combat of the Church with Protestantism. — Sixteenth Century"
+      }
+    },
+    {
+      "id": "course-3-chapter-46",
+      "title": {
+        "en-US": "Course 3, Chapter 46"
+      }
+    },
+    {
+      "id": "course-3-chapter-47",
+      "title": {
+        "en-US": "Course 3, Chapter 47"
+      }
+    },
+    {
+      "id": "course-3-chapter-48",
+      "title": {
+        "en-US": "Course 3, Chapter 48"
+      }
+    },
+    {
+      "id": "course-3-chapter-49",
+      "title": {
+        "en-US": "Course 3, Chapter 49"
+      }
+    },
+    {
+      "id": "course-3-chapter-50",
+      "title": {
+        "en-US": "Course 3, Chapter 50"
+      }
+    },
+    {
+      "id": "course-3-chapter-51",
+      "title": {
+        "en-US": "Course 3, Chapter 51"
+      }
+    },
+    {
+      "id": "course-3-chapter-52",
+      "title": {
+        "en-US": "Course 3, Chapter 52"
+      }
+    },
+    {
+      "id": "course-4-chapter-01",
+      "title": {
+        "en-US": "Course 4, Chapter 1: Christianity visible. — Necessity and advantages of exterior worship"
+      }
+    },
+    {
+      "id": "course-4-chapter-02",
+      "title": {
+        "en-US": "Course 4, Chapter 2: Christianity visible. — Advantages of exterior worship, continued. — Origin of ceremonies"
+      }
+    },
+    {
+      "id": "course-4-chapter-03",
+      "title": {
+        "en-US": "Course 4, Chapter 3: Christianity visible. — Of Churches"
+      }
+    },
+    {
+      "id": "course-4-chapter-04",
+      "title": {
+        "en-US": "Course 4, Chapter 4: Christianity visible. — Churches continued"
+      }
+    },
+    {
+      "id": "course-4-chapter-05",
+      "title": {
+        "en-US": "Course 4, Chapter 5: Christianity visible. — Of Blessings and of Cemeteries"
+      }
+    },
+    {
+      "id": "course-4-chapter-06",
+      "title": {
+        "en-US": "Course 4, Chapter 6: Christianity visible. — Of Festivals, their object and their beauty"
+      }
+    },
+    {
+      "id": "course-4-chapter-07",
+      "title": {
+        "en-US": "Course 4, Chapter 7: Christianity visible. — The Sunday. — The Office"
+      }
+    },
+    {
+      "id": "course-4-chapter-08",
+      "title": {
+        "en-US": "Course 4, Chapter 8: Christianity visible. — The Office, continued"
+      }
+    },
+    {
+      "id": "course-4-chapter-09",
+      "title": {
+        "en-US": "Course 4, Chapter 9: Christianity visible. — Office, continued"
+      }
+    },
+    {
+      "id": "course-4-chapter-10",
+      "title": {
+        "en-US": "Course 4, Chapter 10: Christianity visible. — The Office, concluded. — Use of Latin. — The Chant"
+      }
+    },
+    {
+      "id": "course-4-chapter-11",
+      "title": {
+        "en-US": "Course 4, Chapter 11: Christianity visible. — Of Sacrifice in general, and the Sacrifice of the Mass in particular"
+      }
+    },
+    {
+      "id": "course-4-chapter-12",
+      "title": {
+        "en-US": "Course 4, Chapter 12: Christianity visible. — Of the Vestments of the Priest"
+      }
+    },
+    {
+      "id": "course-4-chapter-13",
+      "title": {
+        "en-US": "Course 4, Chapter 13: Christianity visible. — Ornaments of Bishops. — Color of the Ornaments"
+      }
+    },
+    {
+      "id": "course-4-chapter-14",
+      "title": {
+        "en-US": "Course 4, Chapter 14: Christianity visible. — The Sacred Vessels and the Holy Water"
+      }
+    },
+    {
+      "id": "course-4-chapter-15",
+      "title": {
+        "en-US": "Course 4, Chapter 15: Christianity visible. — Processions and the first part of the Mass"
+      }
+    },
+    {
+      "id": "course-4-chapter-16",
+      "title": {
+        "en-US": "Course 4, Chapter 16: Christianity visible. — Use of incense, and the second part of the Mass"
+      }
+    },
+    {
+      "id": "course-4-chapter-17",
+      "title": {
+        "en-US": "Course 4, Chapter 17: Christianity visible. — The second part of the Mass, continued"
+      }
+    },
+    {
+      "id": "course-4-chapter-18",
+      "title": {
+        "en-US": "Course 4, Chapter 18: Christianity visible. — The second and third part of the Mass"
+      }
+    },
+    {
+      "id": "course-4-chapter-19",
+      "title": {
+        "en-US": "Course 4, Chapter 19: Christianity visible. — Third part of the Mass"
+      }
+    },
+    {
+      "id": "course-4-chapter-20",
+      "title": {
+        "en-US": "Course 4, Chapter 20: Christianity visible. — Third and fourth part of the"
+      }
+    },
+    {
+      "id": "course-4-chapter-21",
+      "title": {
+        "en-US": "Course 4, Chapter 21: Christianity visible. — The fourth part of the Mass continued"
+      }
+    },
+    {
+      "id": "course-4-chapter-22",
+      "title": {
+        "en-US": "Course 4, Chapter 22: Christianity visible. — The fifth part of the Mass"
+      }
+    },
+    {
+      "id": "course-4-chapter-23",
+      "title": {
+        "en-US": "Course 4, Chapter 23: Christianity visible. — The sixth part of the Mass"
+      }
+    },
+    {
+      "id": "course-4-chapter-24",
+      "title": {
+        "en-US": "Course 4, Chapter 24: Christianity visible. — The days o f the week and month"
+      }
+    },
+    {
+      "id": "course-4-chapter-25",
+      "title": {
+        "en-US": "Course 4, Chapter 25: Christianity visible. — Advent"
+      }
+    },
+    {
+      "id": "course-4-chapter-26",
+      "title": {
+        "en-US": "Course 4, Chapter 26: Christianity visible. — Feast of the Immaculate ception of the B. Virgin"
+      }
+    },
+    {
+      "id": "course-4-chapter-27",
+      "title": {
+        "en-US": "Course 4, Chapter 27: Christianity visible. — The Ember Days and Vigils"
+      }
+    },
+    {
+      "id": "course-4-chapter-28",
+      "title": {
+        "en-US": "Course 4, Chapter 28: Christianity visible. — Christmas"
+      }
+    },
+    {
+      "id": "course-4-chapter-29",
+      "title": {
+        "en-US": "Course 4, Chapter 29: Christianity visible. — Feast of the Circumcision"
+      }
+    },
+    {
+      "id": "course-4-chapter-30",
+      "title": {
+        "en-US": "Course 4, Chapter 30: Christianity visible. — Epiphany"
+      }
+    },
+    {
+      "id": "course-4-chapter-31",
+      "title": {
+        "en-US": "Course 4, Chapter 31: Christianity visible. — Purification"
+      }
+    },
+    {
+      "id": "course-4-chapter-32",
+      "title": {
+        "en-US": "Course 4, Chapter 32: Christianity visible. — Lent"
+      }
+    },
+    {
+      "id": "course-4-chapter-33",
+      "title": {
+        "en-US": "Course 4, Chapter 33: Christianity visible. — Ash- Wednesday. — Liturgy of Lent"
+      }
+    },
+    {
+      "id": "course-4-chapter-34",
+      "title": {
+        "en-US": "Course 4, Chapter 34: Christianity visible. — Last fifteen days of Lent"
+      }
+    },
+    {
+      "id": "course-4-chapter-35",
+      "title": {
+        "en-US": "Course 4, Chapter 35: Christianity visible. — Palm Sunday. — Holy Thursday"
+      }
+    },
+    {
+      "id": "course-4-chapter-36",
+      "title": {
+        "en-US": "Course 4, Chapter 36: Christianity visible. — Good Friday"
+      }
+    },
+    {
+      "id": "course-4-chapter-37",
+      "title": {
+        "en-US": "Course 4, Chapter 37: Christianity visible. — Holy Saturday"
+      }
+    },
+    {
+      "id": "course-4-chapter-38",
+      "title": {
+        "en-US": "Course 4, Chapter 38: Christianity visible. — Easter"
+      }
+    },
+    {
+      "id": "course-4-chapter-39",
+      "title": {
+        "en-US": "Course 4, Chapter 39: Christianity visible. — The Annunciation"
+      }
+    },
+    {
+      "id": "course-4-chapter-40",
+      "title": {
+        "en-US": "Course 4, Chapter 40: Christianity visible. — Month of Mary. — Scapular. — Rosary"
+      }
+    },
+    {
+      "id": "course-4-chapter-41",
+      "title": {
+        "en-US": "Course 4, Chapter 41: Christianity visible. — Rogations. — Procession of St. Mark"
+      }
+    },
+    {
+      "id": "course-4-chapter-42",
+      "title": {
+        "en-US": "Course 4, Chapter 42: Christianity visible. — The Ascension"
+      }
+    },
+    {
+      "id": "course-4-chapter-43",
+      "title": {
+        "en-US": "Course 4, Chapter 43: Christianity visible. — Pentecost"
+      }
+    },
+    {
+      "id": "course-4-chapter-44",
+      "title": {
+        "en-US": "Course 4, Chapter 44: Christianity visible. — Feast of the Holy Trinity"
+      }
+    },
+    {
+      "id": "course-4-chapter-45",
+      "title": {
+        "en-US": "Course 4, Chapter 45: Christianity visible. — Corpus Ghristi"
+      }
+    },
+    {
+      "id": "course-4-chapter-46",
+      "title": {
+        "en-US": "Course 4, Chapter 46: Christianity visible. — Feast of the Sacred Heart"
+      }
+    },
+    {
+      "id": "course-4-chapter-47",
+      "title": {
+        "en-US": "Course 4, Chapter 47: Christianity visible. — Visitation. — Assumption"
+      }
+    },
+    {
+      "id": "course-4-chapter-48",
+      "title": {
+        "en-US": "Course 4, Chapter 48: Christianity visible. — Nati vi ty. — Presentation"
+      }
+    },
+    {
+      "id": "course-4-chapter-49",
+      "title": {
+        "en-US": "Course 4, Chapter 49: Christianity visible. — Finding and Exaltation of the Holy Cross"
+      }
+    },
+    {
+      "id": "course-4-chapter-50",
+      "title": {
+        "en-US": "Course 4, Chapter 50: Thristianity visible. — Feast of St. Michael and the Guardian Angels"
+      }
+    },
+    {
+      "id": "course-4-chapter-51",
+      "title": {
+        "en-US": "Course 4, Chapter 51: Christianity visible. — Feast of All-Saints"
+      }
+    },
+    {
+      "id": "course-4-chapter-52",
+      "title": {
+        "en-US": "Course 4, Chapter 52: Christianity visible. — All-Souls"
+      }
+    },
+    {
+      "id": "course-4-chapter-53",
+      "title": {
+        "en-US": "Course 4, Chapter 53: Christianity visible. — Dedication"
+      }
+    },
+    {
+      "id": "course-4-chapter-54",
+      "title": {
+        "en-US": "Course 4, Chapter 54: General Summary. — Religion in time and in eternity"
+      }
+    }
+  ]
+}
