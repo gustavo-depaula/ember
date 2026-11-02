@@ -22,7 +22,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Mary Magdalene de' Pazzi · Bernardine of Siena. Left: Bernardine's Latin Opera (needs fresh OCR), 1424–25 sermons (lending-only), English (Fabrini 1900, Robins 1920)
 - [x] Dante (rest) · Francis of Assisi (rest and early sources). Left: Speculum perfectionis, Robinson 1906 Writings (page-image pass), Actus LXIX–LXXVI (Sabatier 1902), Legenda ad usum chori, English for Celano, Three Companions, Sacrum commercium, Vita nuova, Rime
 - [ ] Bonaventure (17 books done: Legendae, Itinerarium, De reductione, Breviloquium, 10 opuscula). Left: Collationes, Quaestiones disputatae, sermons, Scripture commentaries, Sentences commentary (Quaracchi folio OCR needs a layout-aware cleaner), English Legendae
-- [ ] Benedict · Bede (rest) · Gregory the Great (rest)
+- [x] Benedict · Bede (rest) · Gregory the Great (rest). Left: Bede's Gospel Homilies (Wikisource text garbled; use Giles vol. 5 / PL 94), Martyrology, De locis sanctis, grammatical works; English for Felix, Letters, Apocalypse; Gregory's doubtful hymns
 - [ ] Anselm (rest) · Bernard (rest)
 - [ ] Victorines
 - [ ] Peter Lombard (rest)
