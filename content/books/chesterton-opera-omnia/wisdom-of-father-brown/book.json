@@ -1,0 +1,111 @@
+{
+  "id": "chesterton-wisdom-of-father-brown",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Wisdom of Father Brown",
+    "pt-BR": "A Sabedoria do Padre Brown"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Twelve more cases of the little priest whose knowledge of sin, learned in the confessional, solves what the detectives cannot: from the vanishing of Mr Glass and the Paradise of Thieves to the God of the Gongs and the Fairy Tale of Father Brown.",
+    "pt-BR": "Mais doze casos do pequeno padre cujo conhecimento do pecado, aprendido no confessionário, resolve o que os detetives não conseguem: do sumiço do Sr. Glass e do Paraíso dos Ladrões ao Deus dos Gongos e ao Conto de Fadas do Padre Brown."
+  },
+  "composed": "1914",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/wisdom-of-father-brown",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/223",
+      "edition": "The Wisdom of Father Brown (London: Cassell, 1914), Project Gutenberg #223.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1914 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-absence-of-mr-glass",
+      "title": {
+        "en-US": "The Absence of Mr Glass"
+      }
+    },
+    {
+      "id": "ch02-the-paradise-of-thieves",
+      "title": {
+        "en-US": "The Paradise of Thieves"
+      }
+    },
+    {
+      "id": "ch03-the-duel-of-dr-hirsch",
+      "title": {
+        "en-US": "The Duel of Dr Hirsch"
+      }
+    },
+    {
+      "id": "ch04-the-man-in-the-passage",
+      "title": {
+        "en-US": "The Man in the Passage"
+      }
+    },
+    {
+      "id": "ch05-the-mistake-of-the-machine",
+      "title": {
+        "en-US": "The Mistake of the Machine"
+      }
+    },
+    {
+      "id": "ch06-the-head-of-caesar",
+      "title": {
+        "en-US": "The Head of Caesar"
+      }
+    },
+    {
+      "id": "ch07-the-purple-wig",
+      "title": {
+        "en-US": "The Purple Wig"
+      }
+    },
+    {
+      "id": "ch08-the-perishing-of-the-pendragons",
+      "title": {
+        "en-US": "The Perishing of the Pendragons"
+      }
+    },
+    {
+      "id": "ch09-the-god-of-the-gongs",
+      "title": {
+        "en-US": "The God of the Gongs"
+      }
+    },
+    {
+      "id": "ch10-the-salad-of-colonel-cray",
+      "title": {
+        "en-US": "The Salad of Colonel Cray"
+      }
+    },
+    {
+      "id": "ch11-the-strange-crime-of-john-boulnois",
+      "title": {
+        "en-US": "The Strange Crime of John Boulnois"
+      }
+    },
+    {
+      "id": "ch12-the-fairy-tale-of-father-brown",
+      "title": {
+        "en-US": "The Fairy Tale of Father Brown"
+      }
+    }
+  ]
+}
