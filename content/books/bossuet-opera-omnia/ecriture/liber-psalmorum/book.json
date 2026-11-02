@@ -1,0 +1,1000 @@
+{
+  "id": "bossuet-liber-psalmorum",
+  "cover": "classic",
+  "name": {
+    "la": "Liber Psalmorum, additis Canticis",
+    "en-US": "The Book of Psalms with the Canticles",
+    "pt-BR": "O livro dos Salmos, com os cânticos"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "la": "Liber Psalmorum, additis Canticis, cum notis. Dissertatio de Psalmis, centum quinquaginta psalmi (versio Vulgata et versio S. Hieronymi juxta Hebraeos, cum commentariis), Cantica Veteris et Novi Testamenti, Admonitio. Composita circa 1690, edita 1691. Editio Lachat (1862).",
+    "en-US": "Bossuet’s Latin commentary on the Psalms (1691): a dissertation on the Psalms, the hundred and fifty psalms in the Vulgate and in St Jerome’s version from the Hebrew with notes, the canticles of the Old and New Testaments, and an admonition. Lachat edition (1862).",
+    "pt-BR": "Comentário latino de Bossuet aos Salmos (1691): uma dissertação sobre os Salmos, os cento e cinquenta salmos na Vulgata e na versão de são Jerônimo segundo o hebraico, com notas, os cânticos do Antigo e do Novo Testamento e uma advertência. Edição Lachat (1862)."
+  },
+  "composed": "1690",
+  "languages": [
+    "la"
+  ],
+  "work": "bossuet/liber-psalmorum",
+  "editions": {
+    "la": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://web.archive.org/web/2022/https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/bossuet/volume001/005.htm, 007.htm, 008.htm, 009.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Bibliothèque monastique (Abbaye Saint-Benoît de Port-Valais), Wayback Machine",
+      "description": "Typed transcription of volume I, pages 005 and 007-009.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dissertatio",
+      "title": {
+        "la": "Dissertatio de Psalmis"
+      },
+      "children": [
+        {
+          "id": "dissertatio-0",
+          "title": {
+            "la": "Dissertatio de Psalmis"
+          }
+        },
+        {
+          "id": "dissertatio-001",
+          "title": {
+            "la": "Caput V. de textu ac versionibus"
+          }
+        },
+        {
+          "id": "dissertatio-002",
+          "title": {
+            "la": "Caput I"
+          }
+        },
+        {
+          "id": "dissertatio-003",
+          "title": {
+            "la": "Caput II. de grandiloquentia, et suavitate psalmorum"
+          }
+        },
+        {
+          "id": "dissertatio-004",
+          "title": {
+            "la": "Caput III. de variis psalmorum, generibus"
+          }
+        },
+        {
+          "id": "dissertatio-005",
+          "title": {
+            "la": "Caput IV. de profunditate et obscuritate psalmorum"
+          }
+        },
+        {
+          "id": "dissertatio-006",
+          "title": {
+            "la": "Caput V. de textu ac versionibus (commentarius)"
+          }
+        },
+        {
+          "id": "dissertatio-007",
+          "title": {
+            "la": "Caput VII. de ratione legendi et intelligendi psalmos"
+          }
+        },
+        {
+          "id": "dissertatio-008",
+          "title": {
+            "la": "Caput VIII. de usu psalmorum in quocumque vitæ statu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-1",
+      "title": {
+        "la": "Liber Primus Psalmorum"
+      },
+      "children": [
+        {
+          "id": "psalmus-001",
+          "title": {
+            "la": "Psalmus I. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-002",
+          "title": {
+            "la": "Psalmus II. Propheticus"
+          }
+        },
+        {
+          "id": "psalmus-003",
+          "title": {
+            "la": "Psalmus V. Historicus et moralis"
+          }
+        },
+        {
+          "id": "psalmus-004",
+          "title": {
+            "la": "Psalmus VI. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-005",
+          "title": {
+            "la": "Psalmus VII. Historicus et moralis"
+          }
+        },
+        {
+          "id": "psalmus-006",
+          "title": {
+            "la": "Psalmus VIII. Laudis et admirationis"
+          }
+        },
+        {
+          "id": "psalmus-007",
+          "title": {
+            "la": "Psalmus IX. Historicus et moralis"
+          }
+        },
+        {
+          "id": "psalmus-008",
+          "title": {
+            "la": "Psalmus X. Secundum hæbreos"
+          }
+        },
+        {
+          "id": "psalmus-009",
+          "title": {
+            "la": "Psalmus XI. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-010",
+          "title": {
+            "la": "Psalmus XII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-011",
+          "title": {
+            "la": "Psalmus XIII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-012",
+          "title": {
+            "la": "Psalmus XIV. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-013",
+          "title": {
+            "la": "Psalmus XV. Historicus et propheticus"
+          }
+        },
+        {
+          "id": "psalmus-014",
+          "title": {
+            "la": "Psalmus XVI. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-015",
+          "title": {
+            "la": "Psalmus XVII. Historicus"
+          }
+        },
+        {
+          "id": "psalmus-016",
+          "title": {
+            "la": "Psalmus XVIII. Laudis et exhortationis"
+          }
+        },
+        {
+          "id": "psalmus-017",
+          "title": {
+            "la": "Psalmus XIX. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-018",
+          "title": {
+            "la": "Psalmus XX. Eucharisticis"
+          }
+        },
+        {
+          "id": "psalmus-019",
+          "title": {
+            "la": "Psalmus XXI. Propheticus"
+          }
+        },
+        {
+          "id": "psalmus-020",
+          "title": {
+            "la": "Psalmus XXII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-021",
+          "title": {
+            "la": "Psalmus XXIII. Historicus et moralis"
+          }
+        },
+        {
+          "id": "psalmus-022",
+          "title": {
+            "la": "Psalmus XXIV. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-023",
+          "title": {
+            "la": "Psalmus XXV. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-024",
+          "title": {
+            "la": "Psalmus XXVI. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-025",
+          "title": {
+            "la": "Psalmus XXVII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-026",
+          "title": {
+            "la": "Psalmus XXVIII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-027",
+          "title": {
+            "la": "Psalmus XXIX. Eucharisticis"
+          }
+        },
+        {
+          "id": "psalmus-028",
+          "title": {
+            "la": "Psalmus XXX. Eucharisticis et deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-029",
+          "title": {
+            "la": "Psalmus XXXI. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-030",
+          "title": {
+            "la": "Psalmus XXXII. Laudis ac spei"
+          }
+        },
+        {
+          "id": "psalmus-031",
+          "title": {
+            "la": "Psalmus XXXIII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-032",
+          "title": {
+            "la": "Psalmus XXXIV. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-033",
+          "title": {
+            "la": "Psalmus XXXV. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-034",
+          "title": {
+            "la": "Psalmus XXXVI. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-035",
+          "title": {
+            "la": "Psalmus XXXVII. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-036",
+          "title": {
+            "la": "Psalmus XXXVIII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-037",
+          "title": {
+            "la": "Psalmus XXXIX. Consolatorius : propheticus"
+          }
+        },
+        {
+          "id": "psalmus-038",
+          "title": {
+            "la": "Psalmus XL. Moralis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-2",
+      "title": {
+        "la": "Liber Secundus Psalmorum"
+      },
+      "children": [
+        {
+          "id": "psalmus-039",
+          "title": {
+            "la": "Psalmus XLI. Consolationis"
+          }
+        },
+        {
+          "id": "psalmus-040",
+          "title": {
+            "la": "Psalmus XLII. Deprecatorius et consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-041",
+          "title": {
+            "la": "Psalmus XLIII. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-042",
+          "title": {
+            "la": "Psalmus XLIV. Historicus"
+          }
+        },
+        {
+          "id": "psalmus-043",
+          "title": {
+            "la": "Psalmus XLVI. Laudis et exultationis : propheticus"
+          }
+        },
+        {
+          "id": "psalmus-044",
+          "title": {
+            "la": "Psalmus XLVII. Eucharisticis"
+          }
+        },
+        {
+          "id": "psalmus-045",
+          "title": {
+            "la": "Psalmus XLVIII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-046",
+          "title": {
+            "la": "Psalmus XLIX. Moralis et propheticus"
+          }
+        },
+        {
+          "id": "psalmus-047",
+          "title": {
+            "la": "Psalmus L. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-048",
+          "title": {
+            "la": "Psalmus LI. Increpator ius"
+          }
+        },
+        {
+          "id": "psalmus-049",
+          "title": {
+            "la": "Psalmus LII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-050",
+          "title": {
+            "la": "Psalmus LIII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-051",
+          "title": {
+            "la": "Psalmus LIV. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-052",
+          "title": {
+            "la": "Psalmus LV. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-053",
+          "title": {
+            "la": "Psalmus LVI. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-054",
+          "title": {
+            "la": "Psalmus LVII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-055",
+          "title": {
+            "la": "Psalmus LIX. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-056",
+          "title": {
+            "la": "Psalmus LX. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-057",
+          "title": {
+            "la": "Psalmus LXI. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-058",
+          "title": {
+            "la": "Psalmus LXII. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-059",
+          "title": {
+            "la": "Psalmus LXIII. Deprecatorius et increpat0r1us"
+          }
+        },
+        {
+          "id": "psalmus-060",
+          "title": {
+            "la": "Psalmus LXIV. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-061",
+          "title": {
+            "la": "Psalmus LXV. Laudis et gratiarum actionis"
+          }
+        },
+        {
+          "id": "psalmus-062",
+          "title": {
+            "la": "Psalmus LXVI. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-063",
+          "title": {
+            "la": "Psalmus LXVII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-064",
+          "title": {
+            "la": "Psalmus LXVIII. Propheticus"
+          }
+        },
+        {
+          "id": "psalmus-065",
+          "title": {
+            "la": "Psalmus LXIX. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-066",
+          "title": {
+            "la": "Psalmus LXX. Deprecatorius et consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-067",
+          "title": {
+            "la": "Psalmus LXXI. Historicus et propheticus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-3",
+      "title": {
+        "la": "Liber Tertius Psalmorum"
+      },
+      "children": [
+        {
+          "id": "psalmus-068",
+          "title": {
+            "la": "Psalmus LXXII. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-069",
+          "title": {
+            "la": "Psalmus LXXIII. Propheticus"
+          }
+        },
+        {
+          "id": "psalmus-070",
+          "title": {
+            "la": "Psalmus LXXIV. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-071",
+          "title": {
+            "la": "Psalmus LXXV. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-072",
+          "title": {
+            "la": "Psalmus LXXVI. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-073",
+          "title": {
+            "la": "Psalmus LXXVII. Hortatorius et increpatorius"
+          }
+        },
+        {
+          "id": "psalmus-074",
+          "title": {
+            "la": "Psalmus LXXVIII. Propheticus"
+          }
+        },
+        {
+          "id": "psalmus-075",
+          "title": {
+            "la": "Psalmus LXXIX. Deprecatorius et propheticus"
+          }
+        },
+        {
+          "id": "psalmus-076",
+          "title": {
+            "la": "Psalmus LXXX. Laudis et gratiarum actionis"
+          }
+        },
+        {
+          "id": "psalmus-077",
+          "title": {
+            "la": "Psalmus LXXXI. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-078",
+          "title": {
+            "la": "Psalmus LXXXII. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-079",
+          "title": {
+            "la": "Psalmus LXXXIII. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-080",
+          "title": {
+            "la": "Psalmus LXXXIV. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-081",
+          "title": {
+            "la": "Psalmus LXXXV. Deprecatorius et propheticus"
+          }
+        },
+        {
+          "id": "psalmus-082",
+          "title": {
+            "la": "Psalmus LXXXVII. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-083",
+          "title": {
+            "la": "Psalmus LXXXVIII. Luctus et invocationis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-4",
+      "title": {
+        "la": "Liber Quartus Psalmorum"
+      },
+      "children": [
+        {
+          "id": "psalmus-084",
+          "title": {
+            "la": "Psalmus LXXXIX. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-085",
+          "title": {
+            "la": "Psalmus XC. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-086",
+          "title": {
+            "la": "Psalmus XCI. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-087",
+          "title": {
+            "la": "Psalmus XCII. Laudis"
+          }
+        },
+        {
+          "id": "psalmus-088",
+          "title": {
+            "la": "Psalmus XCIII. Moralis et increpat0r1us"
+          }
+        },
+        {
+          "id": "psalmus-089",
+          "title": {
+            "la": "Psalmus XCIV. Laudis et adorationis"
+          }
+        },
+        {
+          "id": "psalmus-090",
+          "title": {
+            "la": "Psalmus XCV. Eucharisticus et propheticus"
+          }
+        },
+        {
+          "id": "psalmus-091",
+          "title": {
+            "la": "Psalmus XCVI. Laudis"
+          }
+        },
+        {
+          "id": "psalmus-092",
+          "title": {
+            "la": "Psalmus XCVII. Laudis et exultationis"
+          }
+        },
+        {
+          "id": "psalmus-093",
+          "title": {
+            "la": "Psalmus XCVIII. Laudis"
+          }
+        },
+        {
+          "id": "psalmus-094",
+          "title": {
+            "la": "Psalmus XCIX. Laudis et exultationis"
+          }
+        },
+        {
+          "id": "psalmus-095",
+          "title": {
+            "la": "Psalmus C. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-096",
+          "title": {
+            "la": "Psalmus CI. Luctus"
+          }
+        },
+        {
+          "id": "psalmus-097",
+          "title": {
+            "la": "Psalmus CII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-098",
+          "title": {
+            "la": "Psalmus CIII. Laudis et admirationis"
+          }
+        },
+        {
+          "id": "psalmus-099",
+          "title": {
+            "la": "Psalmus CIV. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-100",
+          "title": {
+            "la": "Psalmus CV. Eucharisticus et increpator ius"
+          }
+        },
+        {
+          "id": "psalmus-101",
+          "title": {
+            "la": "Psalmus CVI. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-102",
+          "title": {
+            "la": "Psalmus CVII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-103",
+          "title": {
+            "la": "Psalmus CVIII. Increpatorius et propheticus"
+          }
+        },
+        {
+          "id": "psalmus-104",
+          "title": {
+            "la": "Psalmus CIX. Propheticus"
+          }
+        },
+        {
+          "id": "psalmus-105",
+          "title": {
+            "la": "Psalmus CXI. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-106",
+          "title": {
+            "la": "Psalmus CXII. Laudis et consolationis"
+          }
+        },
+        {
+          "id": "psalmus-107",
+          "title": {
+            "la": "Psalmus CXIII. Laudis et admirationis"
+          }
+        },
+        {
+          "id": "psalmus-108",
+          "title": {
+            "la": "Psalmus CXV. Secundum hebræos"
+          }
+        },
+        {
+          "id": "psalmus-109",
+          "title": {
+            "la": "Psalmus CXVI. Eucharisticus et propheticus"
+          }
+        },
+        {
+          "id": "psalmus-110",
+          "title": {
+            "la": "Psalmus CXVII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-111",
+          "title": {
+            "la": "Psalmus CXVIII. Moralis : consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-112",
+          "title": {
+            "la": "Psalmus CXIX. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-113",
+          "title": {
+            "la": "Psalmus CXX. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-114",
+          "title": {
+            "la": "Psalmus CXXI. Lætitiæ et amoris in sanctam civitatem"
+          }
+        },
+        {
+          "id": "psalmus-115",
+          "title": {
+            "la": "Psalmus CXXII. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-116",
+          "title": {
+            "la": "Psalmus CXXIII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-117",
+          "title": {
+            "la": "Psalmus CXXIV. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-118",
+          "title": {
+            "la": "Psalmus CXXV. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-119",
+          "title": {
+            "la": "Psalmus CXXVI. Eucharisticus et consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-120",
+          "title": {
+            "la": "Psalmus CXXVII. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-121",
+          "title": {
+            "la": "Psalmus CXXVIII. Consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-122",
+          "title": {
+            "la": "Psalmus CXXIX. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-123",
+          "title": {
+            "la": "Psalmus CXXX. Moralis"
+          }
+        },
+        {
+          "id": "psalmus-124",
+          "title": {
+            "la": "Psalmus CXXXI. Historicus et eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-125",
+          "title": {
+            "la": "Psalmus CXXXII. Eucharisticus et consolatorius"
+          }
+        },
+        {
+          "id": "psalmus-126",
+          "title": {
+            "la": "Psalmus CXXXIV"
+          }
+        },
+        {
+          "id": "psalmus-127",
+          "title": {
+            "la": "Psalmus CXXXV. Laudis et gratiarum actionis"
+          }
+        },
+        {
+          "id": "psalmus-128",
+          "title": {
+            "la": "Psalmus CXXXVI. Consolationis"
+          }
+        },
+        {
+          "id": "psalmus-129",
+          "title": {
+            "la": "Psalmus CXXXVII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-130",
+          "title": {
+            "la": "Psalmus CXXXVIII. Moralis et deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-131",
+          "title": {
+            "la": "Psalmus CXXXIX. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-132",
+          "title": {
+            "la": "Psalmus CXL. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-133",
+          "title": {
+            "la": "Psalmus CXLI. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-134",
+          "title": {
+            "la": "Psalmus CXLII. Deprecatorius"
+          }
+        },
+        {
+          "id": "psalmus-135",
+          "title": {
+            "la": "Psalmus CXLIII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-136",
+          "title": {
+            "la": "Psalmus CXLIV. Laudis et exultationis"
+          }
+        },
+        {
+          "id": "psalmus-137",
+          "title": {
+            "la": "Psalmus CXLV. Laudis et consolationis"
+          }
+        },
+        {
+          "id": "psalmus-138",
+          "title": {
+            "la": "Psalmus CXLVI. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-139",
+          "title": {
+            "la": "Psalmus CXLVII. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-140",
+          "title": {
+            "la": "Psalmus CXLVIII. Laudis"
+          }
+        },
+        {
+          "id": "psalmus-141",
+          "title": {
+            "la": "Psalmus CXLIX. Eucharisticus"
+          }
+        },
+        {
+          "id": "psalmus-142",
+          "title": {
+            "la": "Psalmus CL. Laudis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cantica",
+      "title": {
+        "la": "Veteris et Novi Testamenti cantica"
+      }
+    },
+    {
+      "id": "supplenda",
+      "title": {
+        "la": "Supplenda in Psalmos admonitio"
+      }
+    }
+  ]
+}
