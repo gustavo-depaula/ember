@@ -1,0 +1,74 @@
+{
+  "id": "fenelon-essai-gouvernement-civil",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Essai philosophique sur le gouvernement civil (d’après Fénelon)",
+    "en-US": "Philosophical Essay on Civil Government (after Fénelon)",
+    "pt-BR": "Ensaio filosófico sobre o governo civil (segundo Fénelon)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Traité de la nécessité, de l’origine, des bornes et des différentes formes de la souveraineté, « selon les principes de feu M. François de Salignac de La Mothe-Fénelon ». Rédigé par le chevalier de Ramsay d’après les principes de Fénelon, non écrit de la main de Fénelon lui-même ; première édition 1721.",
+    "en-US": "Treatise on the necessity, origin, limits and different forms of sovereignty, “according to the principles of the late François de Salignac de La Mothe-Fénelon”. Written up by the Chevalier de Ramsay from Fénelon’s principles, not by Fénelon himself; first edition 1721.",
+    "pt-BR": "Tratado da necessidade, da origem, dos limites e das diferentes formas da soberania, «segundo os princípios do falecido François de Salignac de La Mothe-Fénelon». Redigido pelo cavaleiro de Ramsay a partir dos princípios de Fénelon, não pelo próprio Fénelon; primeira edição de 1721."
+  },
+  "composed": "1721",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/essai-sur-le-gouvernement-civil",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte07fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 7, p. 106–; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-essai-sur-le-gouvernement-civil",
+      "title": {
+        "fr-FR": "Essai philosophique sur le gouvernement civil"
+      },
+      "children": [
+        {
+          "id": "01-essai-sur-le-gouvernement-civil-01",
+          "title": {
+            "fr-FR": "Essai philosophique sur le gouvernement civil, partie 1"
+          }
+        },
+        {
+          "id": "01-essai-sur-le-gouvernement-civil-02",
+          "title": {
+            "fr-FR": "Essai philosophique sur le gouvernement civil, partie 2"
+          }
+        },
+        {
+          "id": "01-essai-sur-le-gouvernement-civil-03",
+          "title": {
+            "fr-FR": "Essai philosophique sur le gouvernement civil, partie 3"
+          }
+        },
+        {
+          "id": "01-essai-sur-le-gouvernement-civil-04",
+          "title": {
+            "fr-FR": "Essai philosophique sur le gouvernement civil, partie 4"
+          }
+        }
+      ]
+    }
+  ]
+}
