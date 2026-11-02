@@ -1,0 +1,158 @@
+{
+  "id": "bossuet-conference-avec-m-claude",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Conférence avec M. Claude, ministre de Charenton, sur la matière de l’Église",
+    "en-US": "Conference with M. Claude, Minister of Charenton, on the Matter of the Church",
+    "pt-BR": "Conferência com o Sr. Claude, ministro de Charenton, sobre a matéria da Igreja"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Compte rendu de la conférence tenue en 1678 entre Bossuet et le ministre Jean Claude chez Mlle de Duras, sur l’autorité de l’Église et la sûreté du salut, avec la préparation qui la précède et les Réflexions de Bossuet sur l’écrit de Claude. Publié en 1682. Édition Lachat (1864).",
+    "en-US": "Account of the conference held in 1678 between Bossuet and the minister Jean Claude at the house of Mlle de Duras, on the authority of the Church and the assurance of salvation, with its preparation and Bossuet’s Reflections on Claude’s paper. Published in 1682. Lachat edition (1864).",
+    "pt-BR": "Relato da conferência realizada em 1678 entre Bossuet e o ministro Jean Claude em casa da Srta. de Duras, sobre a autoridade da Igreja e a segurança da salvação, com a preparação que a precede e as Reflexões de Bossuet sobre o escrito de Claude. Publicado em 1682. Edição Lachat (1864)."
+  },
+  "composed": "1678",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/conference-avec-m-claude",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume013/016.htm to 020.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XIII, pages 016-020. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avertissement",
+      "title": {
+        "fr-FR": "Avertissement"
+      }
+    },
+    {
+      "id": "preparation",
+      "title": {
+        "fr-FR": "Préparation à la conférence, et instruction particulière"
+      }
+    },
+    {
+      "id": "conference",
+      "title": {
+        "fr-FR": "La conférence"
+      }
+    },
+    {
+      "id": "suite",
+      "title": {
+        "fr-FR": "Suite de la conférence"
+      }
+    },
+    {
+      "id": "reflexions",
+      "title": {
+        "fr-FR": "Réflexions sur un écrit de M. Claude"
+      },
+      "children": [
+        {
+          "id": "reflexion-0",
+          "title": {
+            "fr-FR": "Réflexions sur un écrit de M. Claude"
+          }
+        },
+        {
+          "id": "reflexion-001",
+          "title": {
+            "fr-FR": "Ière Réflexion sur la réponse de M. Claude aux Actes tirés de la discipline des prétendus réformés"
+          }
+        },
+        {
+          "id": "reflexion-002",
+          "title": {
+            "fr-FR": "IIe Réflexion sur une des propositions avouées par M. Claude dans la Conférence, et sur l'examen qu'il prescrit après le jugement de l'Eglise"
+          }
+        },
+        {
+          "id": "reflexion-003",
+          "title": {
+            "fr-FR": "IIIe Réflexion, sur une autre proposition avouée par M. Claude dans la Conférence: explication de la manière d'instruire les chrétiens, et que l'autorité infaillible de l'Eglise est nécessaire pour reconnaître et entendre l'Ecriture"
+          }
+        },
+        {
+          "id": "reflexion-004",
+          "title": {
+            "fr-FR": "IVe Réflexion sur ce que M. Claude nous fait sur l'Eglise la même difficulté que nous lui faisons sur l'Ecriture"
+          }
+        },
+        {
+          "id": "reflexion-005",
+          "title": {
+            "fr-FR": "Ve Réflexion sur ce que M. Claude nous allègue ici l'Église grecque et les autres semblables: que c'est vouloir embrouiller la matière, et non pas résoudre la difficulté"
+          }
+        },
+        {
+          "id": "reflexion-006",
+          "title": {
+            "fr-FR": "VIe Réflexion sur ce que M. Claude réduit, autant qu'il peut, cette dispute à l'instruction des enfants"
+          }
+        },
+        {
+          "id": "reflexion-007",
+          "title": {
+            "fr-FR": "VIIe Réflexion sur ce que M. Claude a dit, dans sa Relation, que j'avais paru embarrassé en cet endroit de la dispute"
+          }
+        },
+        {
+          "id": "reflexion-008",
+          "title": {
+            "fr-FR": "VIIIe Réflexion sur une autre proposition, que M. Claude avoua dans la Conférence, où est exposée la manière dont toutes les fausses églises se sont établies"
+          }
+        },
+        {
+          "id": "reflexion-009",
+          "title": {
+            "fr-FR": "IXe Réflexion sur la visibilité de l'Eglise: que M. Claude ne combat la doctrine que j'ai expliquée qu'après s'en être formé une fausse idée"
+          }
+        },
+        {
+          "id": "reflexion-010",
+          "title": {
+            "fr-FR": "Xe Réflexion sur ce que la Confession de foi des prétendus réformés ne reconnaît point d'Église qui ne soit visible, et sur ce que M. Claude répond à cette difficulté"
+          }
+        },
+        {
+          "id": "reflexion-011",
+          "title": {
+            "fr-FR": "XIe Réflexion sur ce que M. Claude reconnaît lui-même la perpétuelle visibilité de l'Eglise: doctrine surprenante de ce ministre"
+          }
+        },
+        {
+          "id": "reflexion-012",
+          "title": {
+            "fr-FR": "XIIe Réflexion sur deux principales objections de M. Claude, résolues par sa doctrine"
+          }
+        },
+        {
+          "id": "reflexion-013",
+          "title": {
+            "fr-FR": "XIIIe et dernière Réflexion: que la doctrine de M. Claude montre à Messieurs de la religion prétendue réformée, qu'il n'y a de salut pour eux que dans l'Eglise romaine"
+          }
+        }
+      ]
+    }
+  ]
+}
