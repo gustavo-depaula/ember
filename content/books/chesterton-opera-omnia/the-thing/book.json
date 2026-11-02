@@ -1,0 +1,249 @@
+{
+  "id": "chesterton-the-thing",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Thing: Why I Am a Catholic",
+    "pt-BR": "A Coisa: Por que sou católico"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Thirty-four essays on the Catholic Church and its critics, in Chesterton's most direct defence of the faith after his reception into it. The 'thing' is the Church itself. Among them: 'Why I Am a Catholic', 'Is Humanism a Religion?', 'The Drift from Domesticity', 'The Mask of the Agnostic' and 'The Spirit of Christmas'. The text is the American edition (Dodd, Mead, 1930), which carries the English edition's essays under the title The Thing: Why I Am a Catholic.",
+    "pt-BR": "Trinta e quatro ensaios sobre a Igreja Católica e seus críticos, a defesa mais direta que Chesterton fez da fé depois de entrar na Igreja. A 'coisa' é a própria Igreja. Entre eles: 'Por que sou católico', 'O humanismo é uma religião?', 'A deriva para longe da vida doméstica', 'A máscara do agnóstico' e 'O espírito do Natal'. O texto é o da edição norte-americana (Dodd, Mead, 1930)."
+  },
+  "composed": "1929",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/the-thing",
+  "editions": {
+    "en-US": {
+      "publisher": "Dodd, Mead & Company, New York (as The Thing: Why I Am a Catholic; English edition Sheed & Ward, London, 1929)",
+      "year": 1930
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thingwhyiamcatho00ches_0",
+      "edition": "The Thing: Why I Am a Catholic (New York: Dodd, Mead, 1930), Internet Archive scan from the Princeton Theological Seminary copy, machine OCR (djvu text).",
+      "description": "Introduction and 34 essays. The OCR text in sources/en-US-originals/ is raw; for the chapter files the running heads and page numbers were removed, line-end hyphenation resolved, paragraphs broken by page heads rejoined, and obvious OCR faults corrected (small-capital openings such as 'Ir' for 'It', 'mediaeval' ligatures, stray marks), one line restored from the independent 1946 reprint scan (in.ernet.dli.2015.475818). Not proofread against the page images. Two footnotes (The Forum) are kept as footnotes; the OCR does not carry italics, so none are marked.",
+      "tier": "A",
+      "tierEvidence": "Public domain: published in 1929-1930 (the 1930 US edition entered the US public domain on 1 January 2026) and Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "01-the-sceptic-as-a-critic",
+      "title": {
+        "en-US": "The Sceptic as a Critic"
+      }
+    },
+    {
+      "id": "02-is-humanism-a-religion",
+      "title": {
+        "en-US": "Is Humanism a Religion?"
+      }
+    },
+    {
+      "id": "03-the-drift-from-domesticity",
+      "title": {
+        "en-US": "The Drift from Domesticity"
+      }
+    },
+    {
+      "id": "04-logic-and-lawn-tennis",
+      "title": {
+        "en-US": "Logic—and Lawn Tennis"
+      }
+    },
+    {
+      "id": "05-obstinate-orthodoxy",
+      "title": {
+        "en-US": "Obstinate Orthodoxy"
+      }
+    },
+    {
+      "id": "06-the-usual-article",
+      "title": {
+        "en-US": "The Usual Article"
+      }
+    },
+    {
+      "id": "07-why-i-am-a-catholic",
+      "title": {
+        "en-US": "Why I Am a Catholic"
+      }
+    },
+    {
+      "id": "08-what-do-they-think",
+      "title": {
+        "en-US": "What Do They Think?"
+      }
+    },
+    {
+      "id": "09-the-mask-of-the-agnostic",
+      "title": {
+        "en-US": "The Mask of the Agnostic"
+      }
+    },
+    {
+      "id": "10-the-early-bird-in-history",
+      "title": {
+        "en-US": "The Early Bird in History"
+      }
+    },
+    {
+      "id": "11-protestantism-a-problem-novel",
+      "title": {
+        "en-US": "Protestantism: A Problem Novel"
+      }
+    },
+    {
+      "id": "12-a-simple-thought",
+      "title": {
+        "en-US": "A Simple Thought"
+      }
+    },
+    {
+      "id": "13-the-call-to-the-barbarians",
+      "title": {
+        "en-US": "The Call to the Barbarians"
+      }
+    },
+    {
+      "id": "14-on-the-novel-with-a-purpose",
+      "title": {
+        "en-US": "On the Novel with a Purpose"
+      }
+    },
+    {
+      "id": "15-the-revolt-against-ideas",
+      "title": {
+        "en-US": "The Revolt Against Ideas"
+      }
+    },
+    {
+      "id": "16-the-feasts-and-the-ascetic",
+      "title": {
+        "en-US": "The Feasts and the Ascetic"
+      }
+    },
+    {
+      "id": "17-who-are-the-conspirators",
+      "title": {
+        "en-US": "Who Are the Conspirators?"
+      }
+    },
+    {
+      "id": "18-the-hat-and-the-halo",
+      "title": {
+        "en-US": "The Hat and the Halo"
+      }
+    },
+    {
+      "id": "19-on-two-allegories",
+      "title": {
+        "en-US": "On Two Allegories"
+      }
+    },
+    {
+      "id": "20-the-protestant-superstitions",
+      "title": {
+        "en-US": "The Protestant Superstitions"
+      }
+    },
+    {
+      "id": "21-on-courage-and-independence",
+      "title": {
+        "en-US": "On Courage and Independence"
+      }
+    },
+    {
+      "id": "22-the-nordic-hindoo",
+      "title": {
+        "en-US": "The Nordic Hindoo"
+      }
+    },
+    {
+      "id": "23-a-spiritualist-looks-back",
+      "title": {
+        "en-US": "A Spiritualist Looks Back"
+      }
+    },
+    {
+      "id": "24-the-roots-of-sanity",
+      "title": {
+        "en-US": "The Roots of Sanity"
+      }
+    },
+    {
+      "id": "25-some-of-our-errors",
+      "title": {
+        "en-US": "Some of Our Errors"
+      }
+    },
+    {
+      "id": "26-the-slavery-of-the-mind",
+      "title": {
+        "en-US": "The Slavery of the Mind"
+      }
+    },
+    {
+      "id": "27-inge-versus-barnes",
+      "title": {
+        "en-US": "Inge versus Barnes"
+      }
+    },
+    {
+      "id": "28-what-we-think-about",
+      "title": {
+        "en-US": "What We Think About"
+      }
+    },
+    {
+      "id": "29-the-optimist-as-a-suicide",
+      "title": {
+        "en-US": "The Optimist as a Suicide"
+      }
+    },
+    {
+      "id": "30-the-outline-of-the-fall",
+      "title": {
+        "en-US": "The Outline of the Fall"
+      }
+    },
+    {
+      "id": "31-the-idols-of-scotland",
+      "title": {
+        "en-US": "The Idols of Scotland"
+      }
+    },
+    {
+      "id": "32-if-they-had-believed",
+      "title": {
+        "en-US": "If They Had Believed"
+      }
+    },
+    {
+      "id": "33-peace-and-the-papacy",
+      "title": {
+        "en-US": "Peace and the Papacy"
+      }
+    },
+    {
+      "id": "34-the-spirit-of-christmas",
+      "title": {
+        "en-US": "The Spirit of Christmas"
+      }
+    }
+  ]
+}
