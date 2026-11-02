@@ -1,0 +1,244 @@
+{
+  "id": "anselm-proslogion",
+  "cover": "classic",
+  "name": {
+    "la": "Proslogion",
+    "en-US": "The Proslogion",
+    "pt-BR": "Proslógio"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Opusculum Anselmi, Fides quaerens intellectum inscriptum, in quo uno argumento Deum esse et quaecumque de Deo credimus ostendere conatur: oratio ad contemplandum Deum, quae «id quo maius cogitari nequit» in medio ponit. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "The short work, first titled Faith Seeking Understanding, in which Anselm of Canterbury tries to prove in a single argument that God exists and whatever we believe about Him: a prayer that seeks to lift the mind to the contemplation of God and sets out the argument for “that than which nothing greater can be conceived.” The Latin is the Migne text (Patrologia Latina 158, 1853), from a machine-corrected OCR; the English is Sidney Norton Deane’s 1903 translation, chapter for chapter. Gaunilo’s reply and Anselm’s answer are not included.",
+    "pt-BR": "O breve tratado, primeiro intitulado A fé que busca a inteligência, em que Anselmo de Cantuária procura provar num único argumento que Deus existe e tudo o que cremos a seu respeito: uma oração para elevar o espírito à contemplação de Deus, que expõe o argumento de «aquilo do qual nada maior se pode pensar»."
+  },
+  "composed": "1077-1078",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "anselm/proslogion",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    },
+    "en-US": {
+      "translator": "Sidney Norton Deane",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10631",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10631, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. Dialogue turns are set as separate paragraphs. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/anselm/basic_works/cache/basic_works.txt",
+      "edition": "St. Anselm: Proslogium; Monologium; an Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo, translated from the Latin by Sidney Norton Deane (Chicago: Open Court, 1903). Christian Classics Ethereal Library plain-text edition.",
+      "description": "The Proslogium only (Deane’s introduction, Gaunilo’s pleading and Anselm’s reply are not imported). Chapter titles are Deane’s chapter headings; translator’s notes are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Published in Chicago in 1903, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Prooemium",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I",
+        "en-US": "Chapter I. Exhortation of the mind to the contemplation of God"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Quod vere sit Deus, etsi insipiens dixit in corde suo: Non est Deus",
+        "en-US": "Chapter II. Truly there is a God, although the fool hath said in his heart, There is no God"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quod Deus non possit cogitari non esse",
+        "en-US": "Chapter III. God cannot be conceived not to exist"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Quomodo insipiens dixit in corde suo, quod cogitari non potest",
+        "en-US": "Chapter IV. How the fool has said in his heart what cannot be conceived"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quod Deus sit quidquid melius est esse, quam non esse; et solus existens per se, omnia faciat de nihilo",
+        "en-US": "Chapter V. God is whatever it is better to be than not to be; and he, as the only self-existent being, creates all things from nothing"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Quomodo Deus sit sensibilis, cum non sit corpus",
+        "en-US": "Chapter VI. How God is sensible (sensibilis) although he is not a body"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Quomodo sit omnipotens, cum multa non possit",
+        "en-US": "Chapter VII. How he is omnipotent, although there are many things of which he is not capable"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Quomodo sit misericors et impassibilis",
+        "en-US": "Chapter VIII. How he is compassionate and passionless. God is compassionate, in terms of our experience, because we experience the effect of compassion. God is not compassionate, in terms of his own being, because he does not experience the feeling (affectus) of compassion"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX",
+        "en-US": "Chapter IX. How the all-just and supremely just God spares the wicked, and justly pities the wicked. He is better who is good to the righteous and the wicked than he who is good to the righteous alone. Although God is supremely just, the source of his compassion is hidden. God is supremely compassionate, because he is supremely just. He saveth the just, because justice goes with them; he frees sinners by the authority of justice. God spares the wicked out of justice; for it is just that God, than whom none is better or more powerful, should be good even to the wicked, and should make the wicked good. If God ought not to pity, he pities unjustly. But this it is impious to suppose. Therefore, God justly pities"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Quomodo juste puniat, et juste parcat malis",
+        "en-US": "Chapter X. How he justly punishes and justly spares the wicked"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Quomodo universae viae Domini misericordia et veritas; et tamen justus Dominus in omnibus viis suis",
+        "en-US": "Chapter XI. How all the ways of God are compassion and truth; and yet God is just in all his ways"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Quod Deus sit ipsa vita qua vivit; et sic de similibus",
+        "en-US": "Chapter XII. God is the very life whereby he lives; and so of other like attributes"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quomodo solus sit incircumscriptus et aeternus; cum alii spiritus sint incircumscripti, et aeterni",
+        "en-US": "Chapter XIII. How he alone is uncircumscribed and eternal, although other spirits are uncircumscribed and eternal"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Quomodo, et cur videtur, et non videtur Deus a quaerentibus eum",
+        "en-US": "Chapter XIV. How and why God is seen and yet not seen by those who seek him"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Quod major sit, quam cogitari possit",
+        "en-US": "Chapter XV. He is greater than can be conceived"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Quod haec sit inaccessibilis, quam inhabitat",
+        "en-US": "Chapter XVI. This is the unapproachable light wherein he dwells"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Quod in Deo sit harmonia, odor, sapor, levitas, pulchritudo, suo ineffabili modo",
+        "en-US": "Chapter XVII. In God is harmony, fragrance, sweetness, pleasantness to the touch, beauty, after his ineffable manner"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII",
+        "en-US": "Chapter XVIII. God is life, wisdom, eternity, and every true good"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Quod non sit in loco aut tempore, sed omnia sint in illo",
+        "en-US": "Chapter XIX. He does not exist in place or time, but all things exist in him"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Quod sit ante et ultra omnia etiam aeterna",
+        "en-US": "Chapter XX. He exists before all things and transcends all things, even the eternal things"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. An hoc sit saeculum saeculi, sive saecula saeculorum",
+        "en-US": "Chapter XXI. Is this the age of the age, or ages of ages?--The eternity of God contains the ages of time themselves, and can be called the age of the age or ages of ages"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Quod solus sit quod est, et qui est",
+        "en-US": "Chapter XXII. He alone is what he is and who he is"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII",
+        "en-US": "Chapter XXIII. This good is equally Father, and Son, and Holy Spirit. And this is a single, necessary Being, which is every good, and wholly good, and the only good"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Conjectatio quale et quantum sit hoc bonum",
+        "en-US": "Chapter XXIV. Conjecture as to the character and the magnitude of this good"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Quae et quanta bona sint fruentibus eo",
+        "en-US": "Chapter XXV. What goods and how great, belong to those who enjoy this good"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI. An hoc fit gaudium plenum quod promittit Dominus. --Beati tantum gaudebunt quantum amabunt: tantum amabunt, quantum cognoscent",
+        "en-US": "Chapter XXVI. Is this joy which the Lord promises made full?--The blessed shall rejoice according as they shall love; and they shall love according as they shall know"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": {
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "century": 11,
+  "saint": "anselm",
+  "matches": [
+    "St. Anselm of Canterbury",
+    "Anselm of Canterbury",
+    "Anselm, Saint, Archbishop of Canterbury"
+  ]
+}
