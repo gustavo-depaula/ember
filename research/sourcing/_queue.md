@@ -30,7 +30,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Thomas à Kempis (26 books). Left: Pohl I (De tribus tabernaculis, De vera compunctione, Sermones ad fratres, De fideli dispensatore, Soliloquium animae; Sommalius scans need fresh OCR), Van goeden woerden, Pohl VII (Dialogus noviciorum, lives), Scully's English Sermones ad novicios
 - [x] Bridget of Sweden (12 books). Left: collation with the SSFS critical Latin, English for Books VI, VIII and Extravagantes, Regula English
 - [x] Gertrude · Mechtilde (5 books). Left: Latin Exercitia (no online text), Latin Legatus III–V (1579 long-s print, or find Solesmes vol. I), Mechthild of Magdeburg's Lux divinitatis, lost Mechtilde chapter splits
-- [ ] Rhineland mystics (Ruusbroec, Suso, Tauler)
+- [x] Rhineland mystics (18 books; Ruusbroec complete in Middle Dutch). Left: Suso and Tauler in Middle High German (Bihlmeyer and Vetter only as Gothic-type OCR or not online), Ruusbroec letters, Winkworth's Tauler, Suso's Portuguese Vida (long-s)
 - [ ] Augustine in Latin
 - [ ] Councils (rest) · Denzinger
 - [ ] Catechisms (rest)
