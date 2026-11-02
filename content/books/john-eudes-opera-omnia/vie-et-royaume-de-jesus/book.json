@@ -1,0 +1,294 @@
+{
+  "id": "eudes-vie-et-royaume",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "La Vie et le Royaume de Jésus dans les âmes chrétiennes",
+    "en-US": "The Life and Kingdom of Jesus in Christian Souls",
+    "pt-BR": "A Vida e o Reino de Jesus nas almas cristãs"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Le grand livre de Jean Eudes (1637) : sept parties d’exercices pour faire vivre et régner Jésus dans l’âme, de la journée, de l’année, des vertus, des mystères, des sacrements et de la mort.",
+    "en-US": "John Eudes’s great book (1637): seven parts of exercises to make Jesus live and reign in the soul, covering the day, the year, the virtues, the mysteries, the sacraments and death.",
+    "pt-BR": "O grande livro de João Eudes (1637): sete partes de exercícios para fazer Jesus viver e reinar na alma, sobre o dia, o ano, as virtudes, os mistérios, os sacramentos e a morte."
+  },
+  "composed": 1637,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/vie-et-royaume-de-jesus",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_1)_000000215.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 1, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "vie-01",
+      "title": {
+        "fr-FR": "Introduction (1): Régner jésus dans nos âmes"
+      }
+    },
+    {
+      "id": "vie-02",
+      "title": {
+        "fr-FR": "Introduction (2): I.- importance du « royaume de jésus »"
+      }
+    },
+    {
+      "id": "vie-03",
+      "title": {
+        "fr-FR": "Introduction (3): L'oblation de soi-même à Jésus"
+      }
+    },
+    {
+      "id": "vie-04",
+      "title": {
+        "fr-FR": "Introduction (4): Jésus en toutes choses"
+      }
+    },
+    {
+      "id": "vie-05",
+      "title": {
+        "fr-FR": "Introduction (5): I v . - les sources du « royaume de jésus »"
+      }
+    },
+    {
+      "id": "vie-06",
+      "title": {
+        "fr-FR": "Introduction (6): Les éditions du « royaume de jésus»"
+      }
+    },
+    {
+      "id": "vie-07",
+      "title": {
+        "fr-FR": "Introduction (7): A p p r o b a ti o n s"
+      }
+    },
+    {
+      "id": "vie-08",
+      "title": {
+        "fr-FR": "Introduction (8): Jean eudes,"
+      }
+    },
+    {
+      "id": "vie-09",
+      "title": {
+        "fr-FR": "Première partie (1): Régner jésus en nous"
+      }
+    },
+    {
+      "id": "vie-10",
+      "title": {
+        "fr-FR": "Première partie (2): Exercice durant la journée"
+      }
+    },
+    {
+      "id": "vie-11",
+      "title": {
+        "fr-FR": "Première partie (3): Ce qu'il faut faire devant la confession"
+      }
+    },
+    {
+      "id": "vie-12",
+      "title": {
+        "fr-FR": "Première partie (4): Pour la sainte communion"
+      }
+    },
+    {
+      "id": "vie-13",
+      "title": {
+        "fr-FR": "Première partie (5): Professions chrétiennes"
+      }
+    },
+    {
+      "id": "vie-14",
+      "title": {
+        "fr-FR": "Seconde partie (1): Que le vie chrétienne doit être une continuation de la très sainte"
+      }
+    },
+    {
+      "id": "vie-15",
+      "title": {
+        "fr-FR": "Seconde partie (2): Viii, 32"
+      }
+    },
+    {
+      "id": "vie-16",
+      "title": {
+        "fr-FR": "Seconde partie (3)"
+      }
+    },
+    {
+      "id": "vie-17",
+      "title": {
+        "fr-FR": "Seconde partie (4): Des vertus chrétiennes"
+      }
+    },
+    {
+      "id": "vie-18",
+      "title": {
+        "fr-FR": "Seconde partie (5): De l'humilité de cœur"
+      }
+    },
+    {
+      "id": "vie-19",
+      "title": {
+        "fr-FR": "Seconde partie (6): Ps. XXXII, 22"
+      }
+    },
+    {
+      "id": "vie-20",
+      "title": {
+        "fr-FR": "Seconde partie (7): Pratique de la parfaite soumission chrétienne"
+      }
+    },
+    {
+      "id": "vie-21",
+      "title": {
+        "fr-FR": "Seconde partie (8): De la formation de Jésus en nous"
+      }
+    },
+    {
+      "id": "vie-22",
+      "title": {
+        "fr-FR": "Seconde partie (9): Xliii, 22"
+      }
+    },
+    {
+      "id": "vie-23",
+      "title": {
+        "fr-FR": "Troisième partie (1)"
+      }
+    },
+    {
+      "id": "vie-24",
+      "title": {
+        "fr-FR": "Troisième partie (2): Jésus"
+      }
+    },
+    {
+      "id": "vie-25",
+      "title": {
+        "fr-FR": "Troisième partie (3): De la dévotion vers la tres sainte vierge"
+      }
+    },
+    {
+      "id": "vie-26",
+      "title": {
+        "fr-FR": "Troisième partie (4): Excellence et pratique de la Retraite annuelle"
+      }
+    },
+    {
+      "id": "vie-27",
+      "title": {
+        "fr-FR": "Troisième partie (5): Comme il faut finir l'année avec Jésus"
+      }
+    },
+    {
+      "id": "vie-28",
+      "title": {
+        "fr-FR": "Quatrième partie (1): Ce qu'il faut faire au premier et dernier jour du mois"
+      }
+    },
+    {
+      "id": "vie-29",
+      "title": {
+        "fr-FR": "Quatrième partie (2)"
+      }
+    },
+    {
+      "id": "vie-30",
+      "title": {
+        "fr-FR": "Quatrième partie (3)"
+      }
+    },
+    {
+      "id": "vie-31",
+      "title": {
+        "fr-FR": "Cinquième partie (1): De trois jours de la semaine que nous devons employer avec plus"
+      }
+    },
+    {
+      "id": "vie-32",
+      "title": {
+        "fr-FR": "Cinquième partie (2)"
+      }
+    },
+    {
+      "id": "vie-33",
+      "title": {
+        "fr-FR": "Sixième partie (1): Saintement, et pour faire vivre et régner jésus en nous"
+      }
+    },
+    {
+      "id": "vie-34",
+      "title": {
+        "fr-FR": "Sixième partie (2): Ce qu'il faut faire pour assister dignement au saint sacrifice"
+      }
+    },
+    {
+      "id": "vie-35",
+      "title": {
+        "fr-FR": "Sixième partie (3): De la préparation qui est requise pour le dire saintement"
+      }
+    },
+    {
+      "id": "vie-36",
+      "title": {
+        "fr-FR": "Sixième partie (4): Que l'usage en est très saint et agréable"
+      }
+    },
+    {
+      "id": "vie-37",
+      "title": {
+        "fr-FR": "Septième partie (1): Des devoirs que nous aurions dû rendre à Dieu au moment de notre"
+      }
+    },
+    {
+      "id": "vie-38",
+      "title": {
+        "fr-FR": "Septième partie (2): Élévation à Jésus, pour renouveler la profession que nous avons faite"
+      }
+    },
+    {
+      "id": "vie-39",
+      "title": {
+        "fr-FR": "Septième partie (3): Pour le second jour"
+      }
+    },
+    {
+      "id": "vie-40",
+      "title": {
+        "fr-FR": "Septième partie (4): Du testament de Jésus et de celui qu'il nous faut faire en l'honneur"
+      }
+    },
+    {
+      "id": "vie-41",
+      "title": {
+        "fr-FR": "Septième partie (5): Du Jugement particulier qui se fait à l'heure de la mort"
+      }
+    },
+    {
+      "id": "vie-42",
+      "title": {
+        "fr-FR": "Septième partie (6): Pour le dixieme jour"
+      }
+    }
+  ]
+}

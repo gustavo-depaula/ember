@@ -1,0 +1,13 @@
+{
+  "name": {
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "century": 17,
+  "saint": "john_eudes",
+  "matches": [
+    "St. John Eudes",
+    "Saint Jean Eudes",
+    "John Eudes"
+  ]
+}
