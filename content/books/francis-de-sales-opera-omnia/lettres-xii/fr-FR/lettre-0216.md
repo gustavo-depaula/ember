@@ -1,0 +1,31 @@
+# Lettre CCXVI. À la Même
+
+*Le désir de la sainteté et l'amour de la viduité sont pour une veuve les deux supports de l'édifice spirituel: comment les affermir. - Amour de Dieu et de la sainte Eglise. - Devoir de prier pour les pasteurs et prédicateurs. Envoi d'un écrit de dévotion.*
+
+Annecy, 3 mai 1604.
+
+Madame,
+
+C'est tous-jours pour vous asseurer davantage que j'observeray soigneusement la promesse que je vous ay faitte de vous escrire le plus souvent que je pourray. Plus je me suis esloigné de vous selon l'exterieur, plus me sens-je joint et lié selon l'interieur. Je ne cesseray jamais de prier nostre bon Dieu qu'il luy plaise de parfaire en vous son saint ouvrage (Ph 1,6), c'est a dire le bon desir et dessein de parvenir a la perfection de la vie chrestienne; desir lequel vous deves cherir et nourrir tendrement en vostre cœur, comme une besoigne du Saint Esprit et une estincelle de son feu divin.
+
+J'ay veu un arbre planté par le bienheureux saint Dominique a Romme : chacun le va voir et cherit pour l'amour du plantateur ; c'est pourquoy, ayant veu en vous l'arbre du desir de sainteté que Nostre Seigneur a planté en vostre ame, je le cheris tendrement, et prens playsir a le considerer plus maintenant qu'en presence, et je vous exhorte d'en faire de mesme et de dire avec moy : Dieu vous croisse, 0 bel arbre planté; divine semence celeste, Dieu vous veuille faire produire vostre fruit a maturité (Ps 1,3 ), et lhors que vous l'aures produit, Dieu vous veuille garder du vent qui fait tomber les fruitz en terre, ou les bestes vilaines les vont manger. Madame, ce desir doit estre en vous comme les orangers de la coste marine de Gennes, qui sont presque toute l'annee chargés de fruitz, de fleurs et de feuilles tout ensemble ; car vostre desir doit tousjours fructifier par les occasions qui se presentent d'en effectuer quelque partie tous les jours, et neanmoins il doit ne jamais cesser de souhaitter des nouveaux objetz et sujetz de passer plus avant, et ces souhaitz sont les fleurs de l'arbre de vostre dessein ; les feuilles seront les frequentes reconnoissances de vostre imbecillité, qui conservent et les bonnes œuvres et les bons desirs : c'est la l'une des colomnes de vostre tabernacle.
+
+L'autre est l'amour de vostre viduité, amour saint et desirable pour autant de raysons qu'il y a d'estoilles au ciel, et sans lequel la viduité est mesprisable et fause. Saint Paul (1 Tm 5,3) nous commande d'honnorer les vefves qui sont vrayement vefves ; mays celles qui n'ayment pas leur viduité ne sont vefves qu'en apparence, leur cœur est marié. Ce ne sont pas celles desquelles il est dit (Ps 131,15) : Benissant je beniray la
+
+vefve ; et ailleurs (Ps 67,6 ; 145,9 ), que Dieu est le juge, protecteur et defenseur des vefves. Loüé soit Dieu, qui vous a donné ce cher et saint amour ; faites le croistre tous les jours de plus en plus, et la consolation vous en accroistra tout de mesme, puisque tout l'edifice de vostre bonheur est appuyé sur ces deux colomnes. Regardés au moins une fois le moys si l'une ou l'autre est point esbranlee, par quelque devote meditation et consideration pareille a celle de laquelle je vous envoye une copie, et que j'ay communiquee avec quelque fruit a des autres ames que j'ay en charge. Ne vous lies pas toutefois a cette mesme meditation, car je ne la vous envoye pas a cet effect, mais seulement pour vous faire voir a quoy doit tendre l'examen et espreuve de soy mesme que vous deves faire tous les moys, affin que vous sachies vous en prevaloir plus aysement. Que si vous aymes mieux repeter cette mesme meditation, elle ne vous sera pas inutile. Mais je dis, si vous l'aymes mieux, car en tout et par tout je desire que vous ayés une sainte liberté d'esprit touchant les moyens de vous perfectionner ; pourveu que les deux colomnes en soyent conservees et affermies, il n'importe pas beaucoup comment.
+
+Gardés vous des scrupules et vous reposes entierement sur ce que je vous ay dit de bouche, car je l'ay dit en Nostre Seigneur. Tenes vous fort en la presence de Dieu par les moyens que vous sçaves. Gardés vous des empressemens et inquietudes, car il n'y a rien qui nous empesche plus de cheminer en la perfection. Jettés doucement vostre cœur es playes de Nostre Seigneur, et non pas a force de bras ; ayés une extreme confiance en sa misericorde et bonté qu'il ne vous abandonnera point, mays ne laissés pas pour cela de vous bien prendre a sa sainte Croix.
+
+Apres l'amour de Nostre Seigneur je vous recommande celuy de son espouse l'Eglise, de cette chere et douce colombe laquelle seule peut pondre et faire esclorre les colombeaux et colombelles a l'Espoux. Loüés Dieu cent fois le jour d'estre " fille de l'Eglise, " a l'exemple de la Mere Therese qui repetoit souvent ce mot a l'heure de sa mort avec une extreme consolation ( Ribera, Vita M.Teresiae 3,15). Jettés vos yeux sur l'Espoux et sur l'Espouse, et dites a l'Espoux : 0 que vous estes Espoux d'une belle Espouse ! et a l'Espouse : Hé, que vous estes Espouse d'un divin Espoux ! Ayés grande compassion a tous les pasteurs et predicateurs de l'Eglise, et voyés comme ilz sont espars sur toute la face de la terre, car il n'y a province au monde ou il n'yen ayt plusieurs. Priés Dieu pour eux affin qu'en se sauvant ilz procurent fructueusement le salut des ames ; et en cet endroit, je vous supplie de ne jamais m'oublier, puisque Dieu me donne tant de volonté de ne jamais vous oublier aussi.
+
+Je vous envoye un escrit touchant la perfection de la vie de tous les Chrestiens . Je l'ay dressé non pour vous, mays pour plusieurs autres ; neanmoins vous verrés en quoy vous le pourrés faire valoir pour vous. Escrives-moy, je vous supplie, le plus souvent que vous pourres, avec toute la confiance que vous sçaures ; car l'extreme desir que j'ay de vostre bien et advancement me donnera de l'affliction si je ne sçay souvent a quoy vous en estes. Recommandés moy a Nostre Seigneur, car j'en ay plus de besoin que nul homme du monde. Je le supplie qu'il vous donne abondamment son saint amour, et a tout ce qui vous appartient.
+
+Je suis sans fin et vous supplie me tenir pour
+
+Vostre serviteur tout asseuré
+
+et dedié en Jesus Christ,
+
+FRANÇ', E. de Geneve.
+
+A Neci, le jour Sainte Croix 1604

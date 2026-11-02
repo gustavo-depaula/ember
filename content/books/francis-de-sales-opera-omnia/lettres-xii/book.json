@@ -1,0 +1,745 @@
+{
+  "id": "sales-lettres-xii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres de saint François de Sales, tome XII",
+    "en-US": "Letters of St. Francis de Sales, vol. XII",
+    "pt-BR": "Cartas de São Francisco de Sales, tomo XII"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les lettres de saint François de Sales du tome XII de l’édition d’Annecy (1599-1604), une lettre par chapitre, groupées par année : numéro, destinataire, résumé et date de l’édition critique, puis le texte en orthographe d’époque.",
+    "en-US": "The letters of St. Francis de Sales in volume XII of the Annecy edition (1599-1604), one letter per chapter and grouped by year: the edition’s number, addressee, summary and date, then the text in period spelling.",
+    "pt-BR": "As cartas de São Francisco de Sales do tomo XII da edição de Annecy (1599-1604)."
+  },
+  "composed": "1599-1604",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/lettres-xii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1902
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/francois_de_sales_lettres_tome_2.html",
+      "edition": "Œuvres de saint François de Sales, édition d’Annecy, tome XII (Lettres), Annecy: J. Niérat, 1900-1923; digital transcription in original spelling by JesusMarie.com.",
+      "description": "The editors’ letter numbers, addressee headings, summaries and dates are kept; footnotes, variants, the glossary, the indexes and the appendix of letters addressed to Francis are not included.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition appeared in 1900-1923, before 1930. The JesusMarie transcription is of his own text with the edition’s headings."
+    }
+  ],
+  "toc": [
+    {
+      "id": "annee-01",
+      "title": {
+        "fr-FR": "Année 1599"
+      },
+      "children": [
+        {
+          "id": "lettre-0121",
+          "title": {
+            "fr-FR": "Lettre CXXI. À Monseigneur Claude de Granier, Évêque de Genève"
+          }
+        },
+        {
+          "id": "lettre-0122",
+          "title": {
+            "fr-FR": "Lettre CXXII. Au Chanoine Louis de Sales, son Cousin"
+          }
+        },
+        {
+          "id": "lettre-0123",
+          "title": {
+            "fr-FR": "Lettre CXXIII. Au Père Juvénal Ancina"
+          }
+        },
+        {
+          "id": "lettre-0124",
+          "title": {
+            "fr-FR": "Lettre CXXIV. Au Chevalier Joseph de Ruffia"
+          }
+        },
+        {
+          "id": "lettre-0126",
+          "title": {
+            "fr-FR": "Lettre CXXVI. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0127",
+          "title": {
+            "fr-FR": "Lettre CXXVII. Au Même"
+          }
+        },
+        {
+          "id": "lettre-0128",
+          "title": {
+            "fr-FR": "Lettre CXXVIII. Au Duc de Savoie, Charles-Emmanuel Ier"
+          }
+        },
+        {
+          "id": "lettre-0129",
+          "title": {
+            "fr-FR": "Lettre CXXIX. À M. Philippe de Quoex"
+          }
+        },
+        {
+          "id": "lettre-0130",
+          "title": {
+            "fr-FR": "Lettre CXXX. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0131",
+          "title": {
+            "fr-FR": "Lettre CXXXI. Au Même"
+          }
+        }
+      ]
+    },
+    {
+      "id": "annee-02",
+      "title": {
+        "fr-FR": "Année 1600"
+      },
+      "children": [
+        {
+          "id": "lettre-0132",
+          "title": {
+            "fr-FR": "Lettre CXXXII. Au Cardinal César Baronius"
+          }
+        },
+        {
+          "id": "lettre-0133",
+          "title": {
+            "fr-FR": "Lettre CXXXIII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0134",
+          "title": {
+            "fr-FR": "Lettre CXXXIV. À M. Aaron Pothon"
+          }
+        },
+        {
+          "id": "lettre-0135",
+          "title": {
+            "fr-FR": "Lettre CXXXV. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "annee-03",
+      "title": {
+        "fr-FR": "Année 1601"
+      },
+      "children": [
+        {
+          "id": "lettre-0136",
+          "title": {
+            "fr-FR": "Lettre CXXXVI. À Monseigneur Claude de Granier, Évêque de Genève"
+          }
+        },
+        {
+          "id": "lettre-0137",
+          "title": {
+            "fr-FR": "Lettre CXXXVII. Au Père Juvénal Ancina, de la Congrégation de l'Oratoire"
+          }
+        },
+        {
+          "id": "lettre-0138",
+          "title": {
+            "fr-FR": "Lettre CXXXVIII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0139",
+          "title": {
+            "fr-FR": "Lettre CXXXIX. À M. Antoine d'Avully"
+          }
+        },
+        {
+          "id": "lettre-0140",
+          "title": {
+            "fr-FR": "Lettre CXL. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0141",
+          "title": {
+            "fr-FR": "Lettre CXLI. À des Amis"
+          }
+        },
+        {
+          "id": "lettre-0142",
+          "title": {
+            "fr-FR": "Lettre CXLII. À Monseigneur Jules-César Riccardi Archevêque de Bari, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0143",
+          "title": {
+            "fr-FR": "Lettre CXLIII. À Monseigneur Conrad Tartarini, Évêque de Forli"
+          }
+        },
+        {
+          "id": "lettre-0144",
+          "title": {
+            "fr-FR": "Lettre CXLIV. Au Duc de Savoie, Charles-Emmanuel Ier"
+          }
+        },
+        {
+          "id": "lettre-0145",
+          "title": {
+            "fr-FR": "Lettre CXLV. Au Baron de Lux"
+          }
+        },
+        {
+          "id": "lettre-0146",
+          "title": {
+            "fr-FR": "Lettre CXLVI. Au Cardinal Pierre Aldobrandino"
+          }
+        },
+        {
+          "id": "lettre-0147",
+          "title": {
+            "fr-FR": "Lettre CXLVII. À M. Claude de Quoex"
+          }
+        },
+        {
+          "id": "lettre-0148",
+          "title": {
+            "fr-FR": "Lettre CXLVIII. À un Inconnu"
+          }
+        },
+        {
+          "id": "lettre-0149",
+          "title": {
+            "fr-FR": "Lettre CXLIX. À Monseigneur Conrad Tartarini Évêque de Forli, Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0150",
+          "title": {
+            "fr-FR": "Lettre CL. À M. Louis de Sales, son Frère"
+          }
+        },
+        {
+          "id": "lettre-0151",
+          "title": {
+            "fr-FR": "Lettre CLI. À M. Claude de Quoex"
+          }
+        },
+        {
+          "id": "lettre-0152",
+          "title": {
+            "fr-FR": "Lettre CLII. À Monseigneur Claude de Granier, Évêque de Genève"
+          }
+        },
+        {
+          "id": "lettre-0153",
+          "title": {
+            "fr-FR": "Lettre CLIII. À M. Claude de Quoex"
+          }
+        },
+        {
+          "id": "lettre-0154",
+          "title": {
+            "fr-FR": "Lettre CLIV. À Monseigneur Claude de Granier, Évêque de Genève"
+          }
+        },
+        {
+          "id": "lettre-0155",
+          "title": {
+            "fr-FR": "Lettre CLV. Au Même"
+          }
+        },
+        {
+          "id": "lettre-0156",
+          "title": {
+            "fr-FR": "Lettre CLVI. Au Même"
+          }
+        },
+        {
+          "id": "lettre-0157",
+          "title": {
+            "fr-FR": "Lettre CLVII. À la Duchesse de Mercoeur"
+          }
+        },
+        {
+          "id": "lettre-0158",
+          "title": {
+            "fr-FR": "Lettre CLVIII. À M. Claude de Quoex"
+          }
+        },
+        {
+          "id": "lettre-0159",
+          "title": {
+            "fr-FR": "Lettre CLIX. À M. de Soulfour"
+          }
+        },
+        {
+          "id": "lettre-0160",
+          "title": {
+            "fr-FR": "Lettre CLX. À une Dame Inconnue"
+          }
+        },
+        {
+          "id": "lettre-0161",
+          "title": {
+            "fr-FR": "Lettre CLXI. À M. du Chemin"
+          }
+        },
+        {
+          "id": "lettre-0162",
+          "title": {
+            "fr-FR": "Lettre CLXII. Au Duc de Savoie, Charles-Emmanuel Ier"
+          }
+        },
+        {
+          "id": "lettre-0163",
+          "title": {
+            "fr-FR": "Lettre CLXIII. À M. Claude Marin ( Cf Tome Xi,lettres1,note 287)"
+          }
+        },
+        {
+          "id": "lettre-0164",
+          "title": {
+            "fr-FR": "Lettre CLXIV. À M. Claude de Blonay"
+          }
+        },
+        {
+          "id": "lettre-0164-bis",
+          "title": {
+            "fr-FR": "Lettre CLXIV bis. (1)"
+          }
+        },
+        {
+          "id": "lettre-0165",
+          "title": {
+            "fr-FR": "Lettre CLXV. À sa Sainteté Clément Viii"
+          }
+        },
+        {
+          "id": "lettre-0166",
+          "title": {
+            "fr-FR": "Lettre CLXVI. Au Même"
+          }
+        },
+        {
+          "id": "lettre-0167",
+          "title": {
+            "fr-FR": "Lettre CLXVII. Aux Syndics d'Annecy"
+          }
+        },
+        {
+          "id": "lettre-0168",
+          "title": {
+            "fr-FR": "Lettre CLXVIII. Aux Religieuses du Monastère des Filles-Dieu"
+          }
+        },
+        {
+          "id": "lettre-0169",
+          "title": {
+            "fr-FR": "Lettre CLXIX. À M. Janus de la Faverge"
+          }
+        },
+        {
+          "id": "lettre-0170",
+          "title": {
+            "fr-FR": "Lettre CLXX. À M. Pierre Favier"
+          }
+        },
+        {
+          "id": "lettre-0171",
+          "title": {
+            "fr-FR": "Lettre CLXXI. À M. Pierre de Bérulle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "annee-04",
+      "title": {
+        "fr-FR": "Année 1603"
+      },
+      "children": [
+        {
+          "id": "lettre-0172",
+          "title": {
+            "fr-FR": "Lettre CLXXII. À M. Claude d'Orlié"
+          }
+        },
+        {
+          "id": "lettre-0173",
+          "title": {
+            "fr-FR": "Lettre CLXXIII. À Monseigneur Juvénal Ancina, Évêque de Saluces"
+          }
+        },
+        {
+          "id": "lettre-0174",
+          "title": {
+            "fr-FR": "Lettre CLXXIV. À la Soeur de Soulfour,"
+          }
+        },
+        {
+          "id": "lettre-0175",
+          "title": {
+            "fr-FR": "Lettre CLXXV. À Madame de Beauvilliers, Abbesse de Montmartre"
+          }
+        },
+        {
+          "id": "lettre-0176",
+          "title": {
+            "fr-FR": "Lettre CLXXVI. Au Père Guillaume Boulliette, Cordelier"
+          }
+        },
+        {
+          "id": "lettre-0177",
+          "title": {
+            "fr-FR": "Lettre CLXXVII. Au Chevalier Joseph de Ruffia"
+          }
+        },
+        {
+          "id": "lettre-0178",
+          "title": {
+            "fr-FR": "Lettre CLXXVIII. À M. Antoine de Revol, Évêque Nommé de Dol"
+          }
+        },
+        {
+          "id": "lettre-0179",
+          "title": {
+            "fr-FR": "Lettre CLXXIX. À une Tante"
+          }
+        },
+        {
+          "id": "lettre-0180",
+          "title": {
+            "fr-FR": "Lettre CLXXX. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0181",
+          "title": {
+            "fr-FR": "Lettre CLXXXI. À Mademoiselle de Soulfour (cf Note 176)"
+          }
+        },
+        {
+          "id": "lettre-0182",
+          "title": {
+            "fr-FR": "Lettre CLXXXII. À La. Duchesse de Nemours, Anne d'Este"
+          }
+        },
+        {
+          "id": "lettre-0183",
+          "title": {
+            "fr-FR": "Lettre CLXXXIII. À M. François de Menthon de Lornay Doyen de Notre-Dame d'Annecy"
+          }
+        },
+        {
+          "id": "lettre-0184",
+          "title": {
+            "fr-FR": "Lettre CLXXXIV. À M. Antoine de Revol, Évêque Nommé de Dol"
+          }
+        },
+        {
+          "id": "lettre-0185",
+          "title": {
+            "fr-FR": "Lettre CLXXXV. À M. Antoine de la Porte"
+          }
+        },
+        {
+          "id": "lettre-0186",
+          "title": {
+            "fr-FR": "Lettre CLXXXVI. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0187",
+          "title": {
+            "fr-FR": "Lettre CLXXXVII. À M. de Soulfour"
+          }
+        },
+        {
+          "id": "lettre-0188",
+          "title": {
+            "fr-FR": "Lettre CLXXXVIII. Aux Chanoines de la Collégiale de Saint-Jacques de Sallanches"
+          }
+        },
+        {
+          "id": "lettre-0189",
+          "title": {
+            "fr-FR": "Lettre CLXXXIX. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0190",
+          "title": {
+            "fr-FR": "Lettre CXC. À Mademoiselle de Soulfour"
+          }
+        },
+        {
+          "id": "lettre-0191",
+          "title": {
+            "fr-FR": "Lettre CXCI. À un Inconnu"
+          }
+        },
+        {
+          "id": "lettre-0192",
+          "title": {
+            "fr-FR": "Lettre CXCII. Au Baron de Lux"
+          }
+        },
+        {
+          "id": "lettre-0193",
+          "title": {
+            "fr-FR": "Lettre CXCIII. Au Duc de Nemours, Henri de Savoie"
+          }
+        },
+        {
+          "id": "lettre-0194",
+          "title": {
+            "fr-FR": "Lettre CXCIV. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0195",
+          "title": {
+            "fr-FR": "Lettre CXCV. À M. Claude de Charmoisy"
+          }
+        },
+        {
+          "id": "lettre-0196",
+          "title": {
+            "fr-FR": "Lettre CXCVI. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0197",
+          "title": {
+            "fr-FR": "Lettre CXCVII. À M . Antoine de la Porte"
+          }
+        },
+        {
+          "id": "lettre-0198",
+          "title": {
+            "fr-FR": "Lettre CXCVIII. Au Maire et aux Échevins de Dijon"
+          }
+        },
+        {
+          "id": "lettre-0199",
+          "title": {
+            "fr-FR": "Lettre CXCIX. À M. Jacques Excoffier, Curé de Chevênoz"
+          }
+        },
+        {
+          "id": "lettre-0200",
+          "title": {
+            "fr-FR": "Lettre CC. À M. Louis Bonier"
+          }
+        },
+        {
+          "id": "lettre-0201",
+          "title": {
+            "fr-FR": "Lettre CCI. À Monseigneur Charles Broglia, Archevêque de Turin"
+          }
+        },
+        {
+          "id": "lettre-0202",
+          "title": {
+            "fr-FR": "Lettre CCII. Au Prieur et aux Religieux du Monastère de Sixt"
+          }
+        },
+        {
+          "id": "lettre-0203",
+          "title": {
+            "fr-FR": "Lettre CCIII. Au Duc de Savoie, Charles-Emmanuel Ier"
+          }
+        },
+        {
+          "id": "lettre-0204",
+          "title": {
+            "fr-FR": "Lettre CCIV. À sa Sainteté Clément Viii"
+          }
+        },
+        {
+          "id": "lettre-0205",
+          "title": {
+            "fr-FR": "Lettre CCV. À Monseigneur Paul Tolosa, Évêque de Bovino Nonce Apostolique a Turin"
+          }
+        },
+        {
+          "id": "lettre-0206",
+          "title": {
+            "fr-FR": "Lettre CCVI. À Madame de Boisy, sa Mère"
+          }
+        },
+        {
+          "id": "lettre-0207",
+          "title": {
+            "fr-FR": "Lettre CCVII. À un Prélat"
+          }
+        },
+        {
+          "id": "lettre-0208",
+          "title": {
+            "fr-FR": "Lettre CCVIII. À Monseigneur Glsbert Masius, Évêque de Bois-Le-Duc"
+          }
+        },
+        {
+          "id": "lettre-0209",
+          "title": {
+            "fr-FR": "Lettre CCIX. À M. Antoine Dunant, Curé d'Abondance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "annee-05",
+      "title": {
+        "fr-FR": "Année 1604"
+      },
+      "children": [
+        {
+          "id": "lettre-0210",
+          "title": {
+            "fr-FR": "Lettre CCX. À M. Antoine des Hayes"
+          }
+        },
+        {
+          "id": "lettre-0211",
+          "title": {
+            "fr-FR": "Lettre CCXI. À un Inconnu"
+          }
+        },
+        {
+          "id": "lettre-0212",
+          "title": {
+            "fr-FR": "Lettre CCXII. Au Duc de Savoie, Charles-Emmanuel Ier"
+          }
+        },
+        {
+          "id": "lettre-0213",
+          "title": {
+            "fr-FR": "Lettre CCXIII. À sa Sainteté Clément Viii"
+          }
+        },
+        {
+          "id": "lettre-0214",
+          "title": {
+            "fr-FR": "Lettre CCXIV. À M. Jacques de Vallon"
+          }
+        },
+        {
+          "id": "lettre-0215",
+          "title": {
+            "fr-FR": "Lettre CCXV. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0216",
+          "title": {
+            "fr-FR": "Lettre CCXVI. À la Même"
+          }
+        },
+        {
+          "id": "lettre-0217",
+          "title": {
+            "fr-FR": "Lettre CCXVII. À la Présidente Brulart"
+          }
+        },
+        {
+          "id": "lettre-0218",
+          "title": {
+            "fr-FR": "Lettre CCXVIII. À Madame Bourgeois, Abbesse du Puits-D'orbe"
+          }
+        },
+        {
+          "id": "lettre-0219",
+          "title": {
+            "fr-FR": "Lettre CCXIX. À un Calviniste"
+          }
+        },
+        {
+          "id": "lettre-0220",
+          "title": {
+            "fr-FR": "Lettre CCXX. Au Duc de Savoie, Charles-Emmanuel 1 Er"
+          }
+        },
+        {
+          "id": "lettre-0221",
+          "title": {
+            "fr-FR": "Lettre CCXXI. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0222",
+          "title": {
+            "fr-FR": "Lettre CCXXII. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0223",
+          "title": {
+            "fr-FR": "Lettre CCXXIII. À la Baronne de Chantal"
+          }
+        },
+        {
+          "id": "lettre-0224",
+          "title": {
+            "fr-FR": "Lettre CCXXIV. À sa Sainteté Clément Vlll"
+          }
+        },
+        {
+          "id": "lettre-0225",
+          "title": {
+            "fr-FR": "Lettre CCXXV. À M. Charles d'Albigny"
+          }
+        },
+        {
+          "id": "lettre-0226",
+          "title": {
+            "fr-FR": "Lettre CCXXVI. À M. Claude de Blonay"
+          }
+        },
+        {
+          "id": "lettre-0227",
+          "title": {
+            "fr-FR": "Lettre CCXXVII. À Monseigneur Antoine de Revol, Évêque de Dol"
+          }
+        },
+        {
+          "id": "lettre-0228",
+          "title": {
+            "fr-FR": "Lettre CCXXVIII. À M. Jean-François de Blonay"
+          }
+        },
+        {
+          "id": "lettre-0229",
+          "title": {
+            "fr-FR": "Lettre CCXXIX. À Monseigneur André Frémyot, Archevêque de Bourges"
+          }
+        },
+        {
+          "id": "lettre-0230",
+          "title": {
+            "fr-FR": "Lettre CCXXX. Au Président Bénigne Frémyot"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
