@@ -1,0 +1,115 @@
+{
+  "id": "chesterton-manalive",
+  "cover": "classic",
+  "name": {
+    "en-US": "Manalive",
+    "pt-BR": "Manalive"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Innocent Smith bursts into a London boarding house on a great wind and is later charged with burglary, desertion and polygamy. His accusers learn that he has only been trying to make himself and others love again what they own. Chesterton's comic novel of the astonishment of being alive, in two parts: the enigmas and the explanations.",
+    "pt-BR": "Innocent Smith irrompe numa pensão londrina com um grande vento e é depois acusado de roubo, abandono e poligamia. Seus acusadores descobrem que ele só procurava fazer com que ele próprio e os outros amassem de novo aquilo que possuem. O romance cômico de Chesterton sobre o assombro de estar vivo, em duas partes: os enigmas e as explicações."
+  },
+  "composed": "1912",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/manalive",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas Nelson and Sons",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1718",
+      "edition": "Manalive (Thomas Nelson and Sons, 1912), Project Gutenberg #1718.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1912 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part01-part-i-the-enigmas-of-innocent-smith",
+      "title": {
+        "en-US": "Part I: The Enigmas of Innocent Smith"
+      },
+      "children": [
+        {
+          "id": "ch01-how-the-great-wind-came-to-beacon",
+          "title": {
+            "en-US": "I. How the Great Wind Came to Beacon House"
+          }
+        },
+        {
+          "id": "ch02-the-luggage-of-an-optimist",
+          "title": {
+            "en-US": "II. The Luggage of an Optimist"
+          }
+        },
+        {
+          "id": "ch03-the-banner-of-beacon",
+          "title": {
+            "en-US": "III. The Banner of Beacon"
+          }
+        },
+        {
+          "id": "ch04-the-garden-of-the-god",
+          "title": {
+            "en-US": "IV. The Garden of the God"
+          }
+        },
+        {
+          "id": "ch05-the-allegorical-practical-joker",
+          "title": {
+            "en-US": "V. The Allegorical Practical Joker"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part02-part-ii-the-explanations-of-innocent-smith",
+      "title": {
+        "en-US": "Part II: The Explanations of Innocent Smith"
+      },
+      "children": [
+        {
+          "id": "ch06-the-eye-of-death-or-the-murder",
+          "title": {
+            "en-US": "I. The Eye of Death; or, the Murder Charge"
+          }
+        },
+        {
+          "id": "ch07-the-two-curates-or-the-burglary-charge",
+          "title": {
+            "en-US": "II. The Two Curates; or, the Burglary Charge"
+          }
+        },
+        {
+          "id": "ch08-the-round-road-or-the-desertion-charge",
+          "title": {
+            "en-US": "III. The Round Road; or, the Desertion Charge"
+          }
+        },
+        {
+          "id": "ch09-the-wild-weddings-or-the-polygamy-charge",
+          "title": {
+            "en-US": "IV. The Wild Weddings; or, the Polygamy Charge"
+          }
+        },
+        {
+          "id": "ch10-how-the-great-wind-went-from-beacon",
+          "title": {
+            "en-US": "V. How the Great Wind Went from Beacon House"
+          }
+        }
+      ]
+    }
+  ]
+}
