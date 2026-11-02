@@ -122,6 +122,7 @@ def stream(pages, a, b, heads=None):
     out = []
     for n in range(a, b + 1):
         pg = pages[n-1]
+        out.append(('G', n))
         # a collatio/sermon opens with full-width lines: title, then the editors' Summarium (dropped)
         span = sorted([ws for ws in pg['lines'] if ws[-1][2] - ws[0][0] > 0.62 * pg['w'] and ws[0][3] > 200 * pg['h'] / 3398], key=lambda ws: ws[0][3])
         si = next((i for i, ws in enumerate(span) if SUMM.match(' '.join(x[4] for x in ws))), None)
@@ -141,15 +142,17 @@ def stream(pages, a, b, heads=None):
             out.append(('L', t, ind, bool(ws_) and ws_[-1][2] < rgt - 110))
     return out
 
-def paragraphs(items, newpara=None):
+def paragraphs(items, marker=None):
     """items from stream -> list of ('H', text) / ('P', text); a paragraph starts at an indented line or a numbered one."""
     res = []; cur = []; prev_short = False
     def flush():
         nonlocal cur
         if cur: res.append(('P', join(cur))); cur = []
     for it in items:
+        if it[0] == 'G': res.append(it); continue
         if it[0] in 'HS': flush(); res.append(it); continue
         _, t, ind, short = it
+        if marker and marker.match(t): flush(); res.append(('M', t)); prev_short = True; continue
         if cur and (re.match(r'^\d{1,2}\s?[.,] ?[A-Z]', t) or (ind and (prev_short or re.search(r'[.:;?!)\]»]$', cur[-1])))): flush()
         cur.append(t); prev_short = short
     flush()

@@ -1,0 +1,426 @@
+{
+  "id": "bonaventure-sermones-de-tempore",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones de tempore",
+    "en-US": "Sermons for the Church Year",
+    "pt-BR": "Sermões do ano litúrgico"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Sermones dominicales et festivi de tempore, ab Adventu usque ad dominicam vicesimam quartam post Pentecosten, ex codicibus editi. Textus ex editione Quaracchi (Opera omnia IX, 1901), ex scanno OCR, sine notis criticis.",
+    "en-US": "Bonaventure’s sermons for the Sundays and feasts of the liturgical year, from Advent to the twenty-fourth Sunday after Pentecost, edited from the manuscripts. The Latin is the Quaracchi edition (Opera omnia IX, 1901) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Sermões do ano litúrgico."
+  },
+  "composed": "1250-1274",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/sermones-de-tempore",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic09bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. IX (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1901), pp. 23-461.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type notes are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain. Sermon numbers within each feast follow the edition; where the OCR lost a sermon head the number is inferred.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1901 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "la": "Dominica prima Adventus"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "la": "Dominica secunda Adventus"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "la": "Dominica tertia Adventus"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "la": "Dominica quarta Adventus"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "la": "Vigilia Nativitatis Domini"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "la": "Nativitas Domini"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "la": "Dominica infra octavam Nativitatis Domini"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "la": "Circumcisio Domini"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "la": "Vigilia Epiphaniae"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "la": "Epiphania"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "la": "Dominica infra octavam Epiphaniae"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "la": "In octava Epiphaniae"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "la": "Dominica II post Epiphaniam"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "la": "Dominica III post Epiphaniam"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "la": "Dominica IV post Epiphaniam"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "la": "Dominica V post Epiphaniam"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "la": "Dominica in Septuagesima"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "la": "Dominica in Sexagesima"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "la": "Dominica in Quinquagesima"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "la": "Dominica prima in Quadragesima"
+      }
+    },
+    {
+      "id": "s21",
+      "title": {
+        "la": "Feria V post Dominicam primam in Quadragesima"
+      }
+    },
+    {
+      "id": "s22",
+      "title": {
+        "la": "Dominica secunda in Quadragesima"
+      }
+    },
+    {
+      "id": "s23",
+      "title": {
+        "la": "Feria II post Dominicam secundam in Quadragesima"
+      }
+    },
+    {
+      "id": "s24",
+      "title": {
+        "la": "Dominica tertia in Quadragesima"
+      }
+    },
+    {
+      "id": "s25",
+      "title": {
+        "la": "Dominica quarta in Quadragesima"
+      }
+    },
+    {
+      "id": "s26",
+      "title": {
+        "la": "Dominica de Passione"
+      }
+    },
+    {
+      "id": "s27",
+      "title": {
+        "la": "Dominica in Palmis"
+      }
+    },
+    {
+      "id": "s28",
+      "title": {
+        "la": "Feria quinta in Coena Domini"
+      }
+    },
+    {
+      "id": "s29",
+      "title": {
+        "la": "Feria sexta in Parasceve"
+      }
+    },
+    {
+      "id": "s30",
+      "title": {
+        "la": "Sabbato sancto"
+      }
+    },
+    {
+      "id": "s31",
+      "title": {
+        "la": "In Resurrectione Domini"
+      }
+    },
+    {
+      "id": "s32",
+      "title": {
+        "la": "Feria II post Pascha"
+      }
+    },
+    {
+      "id": "s33",
+      "title": {
+        "la": "Dominica in Albis"
+      }
+    },
+    {
+      "id": "s34",
+      "title": {
+        "la": "Dominica II post Pascha"
+      }
+    },
+    {
+      "id": "s35",
+      "title": {
+        "la": "Dominica III post Pascha"
+      }
+    },
+    {
+      "id": "s36",
+      "title": {
+        "la": "Dominica IV post Pascha"
+      }
+    },
+    {
+      "id": "s37",
+      "title": {
+        "la": "Dominica V post Pascha"
+      }
+    },
+    {
+      "id": "s38",
+      "title": {
+        "la": "In Ascensione Domini"
+      }
+    },
+    {
+      "id": "s39",
+      "title": {
+        "la": "Dominica infra octavam Ascensionis"
+      }
+    },
+    {
+      "id": "s40",
+      "title": {
+        "la": "In Pentecoste"
+      }
+    },
+    {
+      "id": "s41",
+      "title": {
+        "la": "Dominica prima post Pentecosten"
+      }
+    },
+    {
+      "id": "s42",
+      "title": {
+        "la": "Dominica secunda post Pentecosten"
+      }
+    },
+    {
+      "id": "s43",
+      "title": {
+        "la": "Dominica tertia post Pentecosten"
+      }
+    },
+    {
+      "id": "s44",
+      "title": {
+        "la": "Dominica quarta post Pentecosten"
+      }
+    },
+    {
+      "id": "s45",
+      "title": {
+        "la": "Dominica quinta post Pentecosten"
+      }
+    },
+    {
+      "id": "s46",
+      "title": {
+        "la": "Dominica sexta post Pentecosten"
+      }
+    },
+    {
+      "id": "s47",
+      "title": {
+        "la": "Dominica septima post Pentecosten"
+      }
+    },
+    {
+      "id": "s48",
+      "title": {
+        "la": "Dominica octava post Pentecosten"
+      }
+    },
+    {
+      "id": "s49",
+      "title": {
+        "la": "Dominica nona post Pentecosten"
+      }
+    },
+    {
+      "id": "s50",
+      "title": {
+        "la": "Dominica decima post Pentecosten"
+      }
+    },
+    {
+      "id": "s51",
+      "title": {
+        "la": "Dominica undecima post Pentecosten"
+      }
+    },
+    {
+      "id": "s52",
+      "title": {
+        "la": "Dominica duodecima post Pentecosten"
+      }
+    },
+    {
+      "id": "s53",
+      "title": {
+        "la": "Dominica decima tertia post Pentecosten"
+      }
+    },
+    {
+      "id": "s54",
+      "title": {
+        "la": "Dominica decima quarta post Pentecosten"
+      }
+    },
+    {
+      "id": "s55",
+      "title": {
+        "la": "Dominica decima quinta post Pentecosten"
+      }
+    },
+    {
+      "id": "s56",
+      "title": {
+        "la": "Dominica decima sexta post Pentecosten"
+      }
+    },
+    {
+      "id": "s57",
+      "title": {
+        "la": "Dominica decima septima post Pentecosten"
+      }
+    },
+    {
+      "id": "s58",
+      "title": {
+        "la": "Dominica decima octava post Pentecosten"
+      }
+    },
+    {
+      "id": "s59",
+      "title": {
+        "la": "Dominica decima nona post Pentecosten"
+      }
+    },
+    {
+      "id": "s60",
+      "title": {
+        "la": "Dominica vigesima post Pentecosten"
+      }
+    },
+    {
+      "id": "s61",
+      "title": {
+        "la": "Dominica vigesima prima post Pentecosten"
+      }
+    },
+    {
+      "id": "s62",
+      "title": {
+        "la": "Dominica vigesima secunda post Pentecosten"
+      }
+    },
+    {
+      "id": "s63",
+      "title": {
+        "la": "Dominica vigesima tertia post Pentecosten"
+      }
+    },
+    {
+      "id": "s64",
+      "title": {
+        "la": "Dominica vigesima quarta post Pentecosten"
+      }
+    }
+  ]
+}
