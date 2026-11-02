@@ -1,0 +1,84 @@
+{
+  "id": "bonaventure-quaestiones-disputatae-de-scientia-christi",
+  "cover": "classic",
+  "name": {
+    "la": "Quaestiones disputatae de scientia Christi",
+    "en-US": "Disputed Questions on the Knowledge of Christ",
+    "pt-BR": "Questões disputadas sobre a ciência de Cristo"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Septem quaestiones disputatae de scientia Christi, ubi de scientia divina, de ideis, de cognitione Christi secundum naturam humanam. Textus ex editione Quaracchi (Opera omnia V, 1891), ex scanno OCR, sine notis criticis.",
+    "en-US": "Seven disputed questions on the knowledge of Christ: the divine knowledge of infinite things, the ideas, certitude and wisdom, and what the soul of Christ knew. The text is the Quaracchi edition (Opera omnia V, 1891) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Sete questões disputadas sobre a ciência de Cristo."
+  },
+  "composed": "c. 1254",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/quaestiones-disputatae-de-scientia-christi",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1891
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic05bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. V (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1891), pp. 1-41.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type scholia are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1891 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "la": "Quaestio I"
+      }
+    },
+    {
+      "id": "q02",
+      "title": {
+        "la": "Quaestio II"
+      }
+    },
+    {
+      "id": "q03",
+      "title": {
+        "la": "Quaestio III. I>l SCII:NTI CHKISTI QUAKST. 111"
+      }
+    },
+    {
+      "id": "q04",
+      "title": {
+        "la": "Quaestio IV"
+      }
+    },
+    {
+      "id": "q05",
+      "title": {
+        "la": "Quaestio V"
+      }
+    },
+    {
+      "id": "q06",
+      "title": {
+        "la": "Quaestio VI"
+      }
+    },
+    {
+      "id": "q07",
+      "title": {
+        "la": "Quaestio VII"
+      }
+    }
+  ]
+}
