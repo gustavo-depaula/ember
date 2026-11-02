@@ -1,0 +1,108 @@
+{
+  "id": "bernard-de-moribus-et-officio-episcoporum",
+  "cover": "classic",
+  "name": {
+    "la": "De moribus et officio episcoporum",
+    "en-US": "On the Conduct and Office of Bishops",
+    "pt-BR": "Sobre a conduta e o ofício dos bispos"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Epistola Bernardi 42 seu tractatus ad Henricum Senonensem archiepiscopum, de moribus et officio episcoporum.",
+    "en-US": "Bernard’s Letter 42, a treatise for Henry, archbishop of Sens, on the life and duties of bishops. Mabillon moved it from the letters to the treatises; in the Latin letters book it is represented by a cross-reference. Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "A carta 42 de Bernardo, tratado para Henrique, arcebispo de Sens, sobre a vida e os deveres dos bispos."
+  },
+  "composed": "1126-1128",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/de-moribus-et-officio-episcoporum",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268/6159",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), work 6159, from machine-corrected OCR.",
+      "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "admonitio",
+      "title": {
+        "la": "Admonitio Mabillonii"
+      }
+    },
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Arduum ac periculosum esse munus episcopi; ideoque ei bonis consiliariis opus"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Honorem et decus dignitatis ecclesiasticae non consistere in externo splendore, sed in morum et virtutum decore"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Praesulum potissima et dignissima ornamenta, castitas, charitas, humilitas"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Cura sincerae fidei, et charitatis non fictae, praesuli maxime necessaria"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. De virtute humilitatis omnibus quidem, sed praelatis in primis necessaria"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Laus et vera gloria in conscientia cujusque reponenda; attamen non sine formidine, quia Deus est scrutator et judex cordium"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Ambitionem ecclesiasticorum, promotionem juniorum, et pluralitatem beneficiorum perstringit"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Humilitatem et modestiam episcopo commendat"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Abbates exemptionibus praepostere studentes arguuntur"
+      }
+    }
+  ]
+}
