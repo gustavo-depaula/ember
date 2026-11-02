@@ -1,0 +1,23 @@
+# Lettre 2500. À Georges des Jardins, Supérieur, à Toul
+
+De Paris, ce 29° décembre 1657.
+
+Monsieur,
+
+La grâce de N.-S. soit avec vous pour jamais !
+
+Madame la présidente de Herse est fort en peine du second ballot qu’elle vous a adressé pour les Carmélites de Neufchâteau, et de n’avoir aucune réponse de vous sur les lettres qu’elle vous a écrites sur ce sujet, ni aucune nouvelle de leur part, pour savoir si elles ont reçu cette aumône. Elle m’en a témoigné un grand déplaisir et m’en a donné à même temps beaucoup de la voir souffrir par notre faute. Je vous prie, Monsieur, de lui écrire au plus tôt pour l’assurer que vous avez reçu et rendu ces hardes-là, en cas que cela soit, comme je n’en doute pas. Traitez-la avec grand respect et faites-lui, s’il vous plaît, vos excuses d’avoir tant tardé. Pour moi, j’attribue ce retardement à la mission que vous avez faite, qui vous a empêché de retourner ou d’envoyer ce ballot à ces religieuses. Et si cela est vrai, dites-lui cela ; car, sachant votre absence pour un si bon sujet, elle en sera satisfaite, pourvu que, à votre retour, vous ayez fait ce qu’elle vous a prié.
+
+Gardez-vous bien, Monsieur, de lui parler du port ni du premier, ni du second paquet ; je lui ai promis que vous le paieriez ; et n’en prenez rien de ces pauvres filles, quand bien elles voudraient vous le rendre ; car si madite dame le savait, elle en serait fort mésédifiée, dans la connaissance qu’elle a de leur pauvreté et de l’obligation que nous avons de nous incommoder pour le soulagement des pauvres. Elle est bienfaitrice de notre compagnie, et des plus considérables ; et, pour cette raison, nous lui devons obéir et tâcher de la contenter, mais de bonne grâce. C’est pourquoi, Monsieur, je vous prie derechef de lui faire une lettre qui lui fasse connaître que vous avez ce désir. En voici une qu’elle vous a fait écrire de nouveau, et une autre pour la maîtresse du coche, pour lui demander raison du ballot, si tant est qu’elle ne vous l’ait pas délivré.
+
+Nous ne sommes pas au bout des lettres de l’union, mais nous sommes toujours après et dans l’espérance de les avoir. Dieu a-t-il béni vos travaux en cette dernière mission ? Comment vous portez-vous ? Je prie sa divine bonté qu’elle vous conserve et sanctifie avec la petite famille, que je salue. C’est, en l’amour de N.-S., Monsieur, votre très humble serviteur.
+
+VINCENT DEPAUL, i. p. d. l. M.
+
+25001. — A UN PRÊTRE DE LA MISSION
+
+Notre congrégation ne permet pas à ceux qui se sont donnés à Dieu parmi nous d’aller en leur pays, tant à cause de l’expérience qu’elle a du déchet que la visite des parents apporte à leur première ferveur, que parce que Notre-Seigneur, qui connaissait la malignité qu’il y a dans la hantise des parents pour ceux qui font profession de le suivre, ne voulut pas qu’un de ses disciples allât seulement ensevelir son père, ni qu’un autre s’en retournât pour disposer de ses biens. Après ces exemples, vous ne pouvez faillir de prier vos parents de vous excuser si vous ne les allez voir ; et je ne puis vous donner un meilleur conseil que celui que Notre-Seigneur vous a donné lui-même de quitter père et mère, frères, sœurs et possessions, si vous le voulez suivre et être du nombre de ses disciples. Si vous craignez quelque division dans votre famille, tâchez d’y remédier par lettres, priant quelque homme de bien du lieu de s’entremettre pour l’accommodement ; et s’il s’agit de quelque bien temporel où vous ayez intérêt, envoyez votre procuration à quelque parent ou ami pour faire en votre absence ce que vous pourriez faire étant présent. Il y aurait sujet de craindre que, si vous traitiez vous-même avec vos parents de leurs affaires, au lieu d’y mettre l’ordre que vous souhaiteriez, ils ne vous attirassent à leurs passions et ne vous embarrassassent dans leurs intérêts ; ce qui n’arrive que trop aux ecclésiastiques qui s’en veulent mêler. Si vous dites que ce n’est que pour leur profiter spirituellement, souvenez-vous que la hantise avec les proches diminue l’esprit et l’ôte souvent tout à fait, et qu’alors on est incapable de faire aucun fruit parmi eux. C’est pour cela que rarement on est prophète en son pays. Notre-Seigneur ne retourna qu’une fois en sa ville de Nazareth depuis qu’il eut commencé le ministère de la prédication, et cette même fois les habitants le voulurent précipiter du haut d’un rocher en bas ; ce qu’il permit peut-être pour apprendre aux ouvriers évangéliques qu’ils sont en danger, retournant chez eux,- de déchoir de la haute opinion où leurs œuvres les ont élevés et de tomber dans quelque funeste précipice. [^1] [^2]
+
+[^1]: L. s. — Dossier de Turin, original.
+
+[^2]: Abelly, *op cit*, 2° éd., 1. II, chap. XXIII p. 250.

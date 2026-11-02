@@ -1,0 +1,25 @@
+# Lettre 2710. À Antoine Fleury, Prêtre de la Mission, à Saintes
+
+De Paris, ce 6 de novembre 1658.
+
+Monsieur,
+
+La grâce de Notre-Seigneur soit avec vous pour jamais !
+
+Je suis en peine de n’avoir reçu aucune de vos lettres depuis que vous êtes à Saintes. Je vous en donne des miennes pour savoir de vous l’état de votre santé, comment réussissent les missions de delà, si le peuple profite de vos exercices et s’il se rend assidu à vos instructions. Je le veux espérer de la bonté de Dieu et de la bonne façon dont vous y procédez. Mais, d’un autre côté, je crains que, comme c’est un pays mêlé d’hérétiques et où l’hérésie a d’autrefois établi son trône, il n’en reste encore des impressions malignes dans les pauvres catholiques, que les pères ont données aux enfants et les enfants à leurs enfants. Il faut avoir patience et espérer que peu à peu la lumière de la foi dissipera toutes ces ombres et que Jésus-Christ sera le maître sur la croyance et sur les mœurs de ces pauvres gens, que l’esprit malin a toujours tâché de pervertir. Il faut espérer aussi, Monsieur, que sa grande miséricorde se servira de vous pour cela ; car, selon la voie ordinaire, elle veut sauver les hommes par les hommes ; et Notre-Seigneur s’est lui-même fait homme pour les sauver tous.
+
+Oh ! quel bonheur pour vous d’être employé à faire ce qu’il a fait ! Il est venu évangéliser les pauvres, et voilà votre sort et votre occupation. Si notre perfection se trouve en la charité, comme il est constant, il n’y en a point une plus grande que de se donner soi-même pour sauver les âmes et de se consommer comme Jésus-Christ pour elles. Voilà à quoi vous êtes appelé, Monsieur, et à quoi vous êtes prêt de répondre, grâces à Dieu. C’est pour ce dessein que vous êtes entré en la compagnie, toute consacrée à l’imitation de Notre-Seigneur, et voilà la résolution que vous prendriez encore si vous ne l’aviez déjà prise. Oh ! quel exemple vous donnez à tant et tant d’ecclésiastiques qui sont autant d’ouvriers envoyés en la vigne du Seigneur, mais qui n’en font pas les œuvres ! Béni soit Dieu, Monsieur, de la grâce qu’il vous a faite de vous choisir entre mille pour contribuer à détruire l’ignorance et le péché qui désolent l’Église ! Et béni soit à jamais son saint nom de celle qu’il vous fait de bien réussir en ce divin emploi, ainsi que M. Rivet me l’a mandé ! Je ne puis assez en remercier Notre-Seigneur, ni le prier qu’il continue à vous bénir en votre personne et en vos travaux, quoique je le fasse bien souvent.
+
+Je ne doute pas, Monsieur, que le diable ne fasse ses efforts pour vous tirer de là, prévoyant les conquêtes que vous ferez sur lui. Il vous montrera de plus grands biens à faire ; mais il n’y en a point ; ne l’écoutez pas. Non, donnez-lui la confusion tout entière en vous affectionnant aux occasions présentes que Dieu vous donne d’avancer sa gloire contre les desseins de cet ennemi, qui tâchera de vous la faire quitter pour des sujets apparents, éloignés et incertains.
+
+Le monde, d’un autre côté, vous pourra présenter ses plaisirs et ses vanités, mais trop tard, puisque vous voulez être crucifié avec J.-C. et constituer en lui seul vos délices et vos honneurs.
+
+Les parents aussi pourront donner quelque atteinte à votre résolution ; mais vous savez ce que dit N.-S. : "Qui aime son père ou sa mère plus que moi, il n’est pas digne de moi [^1]" et "Quiconque les quitte à cause de moi, ou frères, ou sœurs, ou maisons, etc., il en aura cent fois autant et héritera la vie éternelle [^2]." Bienheureux sont les vôtres, Monsieur, d’avoir donné au divin Maître un tel serviteur que vous, qui leur pouvez procurer plus de biens et de consolations en le servant en la vocation où vous êtes, qu’en quelqu’autre état qu’ils vous puissent souhaiter, puisque vous attirerez sur vous et sur eux les bénédictions du ciel et de la terre.
+
+Il vous pourra encore arriver une autre tentation de votre part : c’est quelqu’ennui de vous voir toujours faire les mêmes choses, ou quelque découragement pour n’en voir que peu ou point de fruit. Mais le remède au premier est de penser qu’il n’y a que la persévérance qui couronne, et que sans elle tout est perdu ; et pour le second, de vous persuader que Dieu demande seulement de vous que vous jetiez les rets dans la mer, et non pas que vous preniez les poissons, parce que c’est à lui de les faire entrer dedans. Ne doutez pas qu’il ne le fasse, si, pêchant toute la nuit, nonobstant les difficultés de l’entreprise et l’endurcissement des cœurs, presque tous endormis pour les choses de Dieu, vous attendez en patience que le jour soit venu, que le soleil de justice les réveille et que sa lumière les éclaire et les échauffe. A ce travail et à cette patience il faut joindre l’humilité, les prières et le bon exemple ; et puis vous verrez la gloire du Sauveur, et dans ces avis la véritable affection, Monsieur, de votre très humble serviteur. [^3]
+
+[^1]: Évangile de saint Mathieu X, 37.
+
+[^2]: Évangile de saint Mathieu XIX, 29.
+
+[^3]: L. non s. — Dossier de la Mission, minute, de la main du secrétaire.

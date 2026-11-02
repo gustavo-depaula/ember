@@ -1,0 +1,11 @@
+# Lettre 2671. À Edme Jolly, Supérieur, à Rome
+
+Du 27 septembre 1658.
+
+Je crois bien qu’il n’y a rien à espérer de la proposition de Tolède, avant que la paix soit faite entre les deux couronnes ; et c’est, à mon avis, ce que M. du Loeus [^1] vous veut faire entendre, sans le dire, avec ses réponses générales et indéterminées. Comme, par la grâce de Dieu, nous ne voulons que ce qu’il veut, nous attendrons avec grande patience le temps que sa Providence a ordonné pour l’exécution de ses desseins. Ce que je dis aussi au sujet d’un logement pour votre famille, puisque vraisemblablement celui que vous avez vu ne vous sera pas donné, pour les difficultés qui s’y rencontrent, et qu’il ne s’en pourra présenter de longtemps un autre qui vous convienne, ou qui n’ait aussi ses difficultés. Plaise à Dieu de nous faire recevoir tous les événements d’un même cœur ! Je veux dire, les bons et les mauvais, avec indifférence. Ce qu’il fera sans doute si nous anéantissons nos désirs et nos conduites en sa présence, nous laissant gouverner par sa sagesse et croyant que tout ce qui arrive est le meilleur pour nous, bien qu’il soit contraire à nos sentiments. Si Dieu châtie ceux qu’il aime, nous devons estimer qu’il nous est favorable lorsque les affaires ne nous succèdent pas.
+
+Je me réjouis de ce que vous pressez l’expédition des bulles de Saint-Lazare. C’est là le sceau qui doit affermir cette communauté et même toute la compagnie, qui, après Dieu, a son centre et son fondement en ce lieu. Et de là vous voyez combien est important le service que vous lui rendez en lui donnant moyen de se défendre des attaques dont on la menace ; car on a dessein de nous ébranler d’ici, si on peut, ainsi que je vous ai mandé. Nous devons tout craindre, après un procès que nous venons de perdre, contre toutes les apparences divines et humaines, touchant la ferme d’Orsigny, que nous avons aussi perdue. Mais Dieu soit loué ! Il nous a fait la grâce de recevoir ce coup comme un coup de sa main paternelle, qui nous ôte un peu de bien temporel pour nous augmenter la confiance en sa bonté et la patience dans les adversités, tant nécessaires aux chrétiens et aux missionnaires. [^2]
+
+[^1]: Nom latinisé de Jacques Duley, futur évêque de Limerick.
+
+[^2]: Reg. 2, p. 247.

@@ -1,0 +1,19 @@
+# Lettre 2696. A Etienne Bienvenu, Prêtre de la Mission, au Mans
+
+De Paris, ce 26 d’octobre 1658.
+
+Monsieur,
+
+Je reste fort surpris de votre lettre, parce que, venant de la part d’une personne que j’affectionne, elle me fait voir une proposition fort éloignée de l’estime que j’en ai, et du traitement qu’elle a reçu de la compagnie. Quel sujet vous a-t-elle donné de vous en retirer ?
+
+Ne vous a-t-elle pas supporté, subvenu et élevé comme une mère son enfant ? Et le bon Dieu, à qui vous vous êtes donné, ne mérite-t-il pas que vous le serviez à présent aussi bien que pour lors ? Vous me direz à cela que vous avez dessein de le servir partout. Mais pour prévenir une telle réponse, je vous dirai, Monsieur, qu’il est très clair que vous cherchez autre chose que Dieu lorsque vous demandez dispense de vos vœux, et que c’est le malin esprit qui vous suggère cela pour vous détourner du bien commencé. Ne savez-vous pas, Monsieur, que les promesses qui se font à Dieu ne se peuvent pas rompre par les hommes ? Si les vôtres étaient nulles, il faudrait avoir d’autres causes de nullité que celles que vous me mandez. Vous ne me dites rien des premiers vœux que vous fîtes au sortir de votre séminaire, et néanmoins vous êtes obligé de les garder tout aussi bien que si vous ne les aviez pas renouvelés. Vous me parlez seulement des derniers vœux, que vous avez faits, en suite du bref de Sa Sainteté. Vous dites que vous n’aviez pas intention de les faire. Si cela est, vous avez fait un péché mortel, et ne laissez pas d’être engagé de tenir à ce que vous avez promis, parce que l’action extérieure engage l’intérieur. On ne dispenserait pas un prêtre des saints ordres qu’il a reçus, qui dirait qu’il n’a pas eu intention de les prendre, ni on ne casserait pas un mariage quand le mari ou la femme diraient qu’ils ont consenti seulement de la bouche et non pas du cœur, parce qu’on juge des choses cachées par celles qui paraissent.
+
+Vous dites de plus que deux choses vous ont fait faire les vœux. La première est la détermination de M. votre père, qui veut que vous demeuriez en la Mission ; et la seconde, la crainte que la compagnie vous mît dehors si vous n’aviez fait comme les autres, et que vous ne saviez où aller, et n’aviez de quoi subsister.
+
+Ne voyez-vous pas que ce sont là des respects humains qui vous obligent de faire pénitence, et non pas des sujets raisonnables pour vous dispenser de vos promesses ? Si votre raisonnement était recevable, on pourrait impunément commettre des blasphèmes et des sacrilèges, abuser des choses saintes et tromper les hommes par des paroles feintes et de beaux semblants.
+
+Croyez-moi, Monsieur, n’écoutez pas la nature ; car elle vous fournira assez de motifs pour vous mettre au large et dans le chemin qui mène à perdition. Mais pensez à la mort, qui est proche, et peut-être plus que vous ne pensez, et au terrible jugement de Dieu, où vos paroles et vos actions seront pesées au poids du sanctuaire. Si vous êtes gêné de ces vœux, c’est que vous ne soumettez pas votre volonté au joug de Jésus-Christ. Vous voudriez avoir les commodités de notre vie commune et rejeter les peines et les difficultés qui s’y rencontrent. Cela ne se peut : toutes les conditions qui sont au monde ont leurs douceurs et leurs amertumes ; il les faut boire toutes deux. Le ciel souffre violence, et, pour suivre Notre-Seigneur, il faut se renoncer soi-même. C’est à quoi je vous prie de travailler et de vous donner à Dieu de nouveau et d’une bonne sorte pour l’observance des règles et des pratiques de la communauté. Et ainsi vous serez content, vous serez à bon exemple et vous éprouverez combien il vous est bon et glorieux de servir à Dieu Notre-Seigneur, qui est notre maître, et je suis, en son amour…
+
+Au bas de la première page : M. Bienvenu. [^1]
+
+[^1]: L. non s. — Dossier de la Mission, minute de la main du secrétaire.

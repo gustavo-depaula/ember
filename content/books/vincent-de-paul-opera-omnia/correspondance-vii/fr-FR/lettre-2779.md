@@ -1,0 +1,7 @@
+# Lettre 2779. À Dominique Lhuillier, * Prêtre de la Mission, à Crécy
+
+Saint-Lazare, ce dernier de janvier 1659
+
+J’ai reçu votre lettre et appris votre maladie, dont j’ai grande douleur. J’ai prié Dieu et fait prier pour vous, à ce qu’il lui plaise de vous redonner la santé et cependant de vous faire la grâce de profiter de l’état où vous êtes pour vous et pour autrui, car, Notre-Seigneur ayant paru avoir plus aimé Dieu et racheté les hommes par la souffrance que par d’autres manières, il a montré à ses serviteurs que c’est par là qu’ils les peuvent plus utilement servir. Il faut pourtant faire tout ce qui se pourra pour vous bien porter, et je vous prie d’y contribuer tout ce qui dépend de vous. Et parce que vous n’êtes pas en lieu où vous puissiez être bien assisté, nous avons pensé de vous faire venir ici, et j’envoie ce porteur exprès pour en apprendre le moyen. Voyez, Monsieur, si vous êtes en état d’aller à Meaux prendre une place au coche, ou si vous pourrez porter la fatigue d’un cheval, ou s’il faut vous envoyer un brancard, ce que je ferai aussitôt que j’en serai averti de quelque façon que ce soit. Je vous prie de vous mettre en devoir de l’exécuter sans attendre autre résolution de nous, qui enverrons un prêtre à votre place lundi matin pour arriver le soir. Je vous dis derechef que je suis bien affligé de votre maladie ; mais quoi ! il faut se conformer au bon plaisir de Dieu et espérer de sa bonté que ce ne sera rien. J’aurai grande joie de vous voir et toute la maison. [^1]
+
+[^1]: Manuscrit de Marseille.

@@ -1,0 +1,27 @@
+# Lettre 2768. À la Sœur Anne Hardemont, Supérieure, à Ussel
+
+4 janvier 1659.
+
+Ma Sœur,
+
+La grâce de N-S. soit avec vous pour jamais !
+
+J’ai reçu deux de vos lettres qui m’ont très fort affligé, et avec sujet, voyant la manière dont vous vous comportez de delà ; et en effet, qui ne s’affligerait de voir une Fille de la Charité, des plus anciennes de la compagnie, que la Providence a conduite en Limousin pour y exercer les œuvres de miséricorde, qui n’est pas sitôt arrivée sur le lieu qu’elle s’en veut revenir par pure fantaisie et se plaint sans cesse de ce qu’on la laisse là, quoiqu’elle n’y souffre d’autres peines que celles qu’elle se fait ? A la vérité, si ces plaintes ne sortaient pas hors de la compagnie, il n’y aurait pas grand mal ; mais elles sont connues d’un chacun ; on les a écrites à Madame la duchesse [^1], et vous-même vous me parlez d’une autre personne qui les sait ; après cela, il ne faut pas douter que toute la province ne les sache. Or, voyez, je vous prie, le scandale que vous donnez et l’injure qu’en reçoit N.-S., qui vous a appelée à son service, et le tort que vous faites à Madame la duchesse, qui vous a amenée en ses terres pour le soulagement des pauvres et l’édification de ses sujets. Ne doit-elle pas trouver étrange votre procédé, si contraire à ses intentions ? Ne doit-on pas s’étonner de voir votre inquiétude, d’entendre vos murmures et de savoir que vous n’agissez pas conformément à votre vocation ? En quoi vous faites plus de mal à votre compagnie que vous ne lui avez jamais fait de bien. Et vous vous faites un grand préjudice à vous-même de vous laisser aller à la nature, parce que, prenant le dessus, vous aurez plus de peine à la surmonter pour vivre selon l’esprit et accomplir la volonté de Dieu, qui est pourtant ce que nous devons faire pour nous sauver ; autrement, "si vous vivez selon la chair, dit saint Paul [^2], vous mourrez"
+
+Mais, Monsieur, me direz-vous, je vous ai mandé dès le commencement que je ne pouvais pas durer en ce pays ; je m’y déplais trop. Je vous réponds à cela, ma Sœur, que personne ne se plaît dans les pays étrangers : et pourtant on y va et on y demeure. Combien y a-t-il de filles qu’on a mariées bien loin, qui sont mécontentes et de leur demeure et de leurs maris ! Mais pour cela elles ne retournent pas en la maison de leurs pères. Il faut bien qu’elles mortifient leur inclination. Pensez-vous que les religieuses et tant d’autres filles et femmes qui sont allées en Canada [^3] aient beaucoup de plaisir d’y être ? Au contraire, elles y ont de grandes répugnances, et avec raison ; mais pourtant elles y demeurent, parce que Dieu les y a appelées.
+
+Vous me direz encore que vous n’avez pas de l’emploi suffisamment. Je réponds que, si vous êtes fidèle en peu, Dieu vous constituera sur beaucoup. Faites bien le peu que vous avez à faire, et croyez que le travail ne vous manquera pas. D’ailleurs, comme vous êtes infirme, l’excès vous pourrait accabler, et vous auriez plus de sujet de vous en plaindre que vous n’en avez du défaut, qui vous donne du temps pour penser à vous. Mais aussi ne devez-vous pas toujours demeurer en votre chambre, mais aller visiter et servir les pauvres tour à tour avec votre sœur, ou conjointement avec elle ; c’est un moyen pour ne vous ennuyer pas.
+
+Si vous me répliquez que vous ne vous accordez pas bien avec votre sœur, je vous dirai que c’est là un grand mal, auquel il faut remédier, non pas en vous éloignant d’elle, puisque ce serait adhérer au diable, qui fait ses efforts pour vous séparer, mais en vous unissant par une affection réciproque, en vous aimant comme sœurs, en vous estimant et respectant comme filles de N.-S., faites à l’image de Dieu, en vous supportant en vos petites infirmités comme vous voulez être supportées, et enfin en usant de condescendance l’une vers l’autre, sans jamais contester ensemble. La sœur Avoie surtout doit suivre vos avis, puisque vous avez la conduite ; mais vous devez aussi, de votre côté, conduire humblement, doucement et sagement. Au nom de Dieu, ma Sœur, ayez patience ; tâchez d’entrer dans les sentiments de cette lettre et dans la résolution de ne faire jamais votre propre volonté ; car autrement vous tomberiez dans le malheur des âmes qui se perdent pour ne se soumettre pas aux personnes que Dieu a établies pour les diriger dans les voies de leur salut. Et à propos de ceci, vous ne devez pas perdre la confiance que vous devez avoir en Mademoiselle. Elle est votre mère, qui a droit de vous donner les instructions qu’elle juge à propos et qui a reçu grâces de Dieu pour le faire. Cependant vous vous en êtes tellement rebutée que vous ne voulez plus lui écrire, à ce que vous dites. Prenez garde, ma Sœur. C’est une résolution d’un esprit mutin et orgueilleux, capable de vous priver des grâces de Dieu, qui ne les donne qu’aux humbles et débonnaires. Je prie sa divine bonté qu’elle vous fasse du nombre.
+
+Je suis, en son amour, ma Sœur, votre très affectionné frère et serviteur.
+
+VINCENT DEPAUL, i. p. d. l. M. [^4]
+
+[^1]: La duchesse de Ventadour
+
+[^2]: Épître aux Romains VIII, 13.
+
+[^3]: Quand saint Vincent écrivait cette lettre, Mademoiselle Mance et la sœur Marguerite Bourgeois, toutes deux revenues du Canada cherchaient en France des personnes de bonne volonté pour aller travailler dans ce pays lointain à l’instruction des enfants, ou s’y consacrer aux œuvres hospitalières. *(Histoire de la colonie française en Canada, *par Faillon, Villemarie, 1865, 3 vol. in-4°, t. II, pp. 306. 313)
+
+[^4]: Reg I, f° 22 v°
