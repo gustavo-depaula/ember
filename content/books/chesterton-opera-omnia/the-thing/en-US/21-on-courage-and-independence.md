@@ -1,6 +1,6 @@
 # On Courage and Independence
 
-WHEN we are pressed and taunted upon our obstinacy in saying the Mass in a dead language, we are tempted to reply to our questioners by telling them that they are apparently not fit to be trusted with a living language. When we consider what they have done with the noble English language, as compared with the English of the Anglican Prayer-Book, let alone the Latin of the Mass, we feel that their development may well be called degenerate.
+When we are pressed and taunted upon our obstinacy in saying the Mass in a dead language, we are tempted to reply to our questioners by telling them that they are apparently not fit to be trusted with a living language. When we consider what they have done with the noble English language, as compared with the English of the Anglican Prayer-Book, let alone the Latin of the Mass, we feel that their development may well be called degenerate.
 
 The language called dead can never be called degenerate. Surely even they might understand our taking refuge in it, by the time that (in the vernacular) the word “immaculate” is applied only to the shirt-fronts of snobs; or “unction” means not Extreme Unction, but only unctous rectitude. It is needless to note once more how the moral qualities have lost their mystical quality; and with it all their dignity and delicacy and spontaneous spiritual appeal. Charity, that was the flaming - heart of the world, has become a name for a niggardly and pompous patronage of the poor, generally amounting by this time to the enslavement of the poor.
 
