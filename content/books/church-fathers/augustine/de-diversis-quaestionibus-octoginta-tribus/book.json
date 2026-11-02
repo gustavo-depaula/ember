@@ -1,0 +1,75 @@
+{
+  "id": "augustine-de-diversis-quaestionibus-octoginta-tribus",
+  "cover": "quarter",
+  "name": {
+    "la": "De diversis quaestionibus octoginta tribus",
+    "en-US": "Eighty-Three Different Questions",
+    "pt-BR": "Oitenta e três questões diversas"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "De diversis quaestionibus octoginta tribus. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "Eighty-Three Different Questions (388-396), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Oitenta e três questões diversas (388-396), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "388-396",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/de-diversis-quaestionibus-octoginta-tribus",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/ottantatre_questioni/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages ottantatre_questioni of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 1–46"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 47–61"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 62–68"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 69–79"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "De diversis quaestionibus octoginta tribus, Quaestiones 80–83"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
