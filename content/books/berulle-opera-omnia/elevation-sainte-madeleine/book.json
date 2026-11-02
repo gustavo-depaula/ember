@@ -1,0 +1,168 @@
+{
+  "id": "berulle-elevation-sainte-madeleine",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Élévation à Jésus-Christ sur la conduite de sa grâce vers sainte Madeleine",
+    "en-US": "Elevation to Jesus Christ on the Conduct of His Grace toward St. Mary Magdalene",
+    "pt-BR": "Elevação a Jesus Cristo sobre a conduta de sua graça para com santa Madalena"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Vingt chapitres (1627), dédiés à la reine Henriette d’Angleterre, sur la conversion, l’amour et la pénitence de sainte Madeleine, suivis des Observations sur le texte de saint Luc.",
+    "en-US": "Twenty chapters (1627), dedicated to Queen Henrietta Maria of England, on the conversion, love and penance of St. Mary Magdalene, followed by the Observations on St. Luke’s text.",
+    "pt-BR": "Vinte capítulos (1627), dedicados à rainha Henriqueta Maria da Inglaterra, sobre a conversão, o amor e a penitência de santa Madalena, seguidos das Observações sobre o texto de são Lucas."
+  },
+  "composed": 1627,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/elevation-sainte-madeleine",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Épître à la reine d’Angleterre"
+      }
+    },
+    {
+      "id": "chapitre-02",
+      "title": {
+        "fr-FR": "Chapitre 2"
+      }
+    },
+    {
+      "id": "chapitre-03",
+      "title": {
+        "fr-FR": "Chapitre 3"
+      }
+    },
+    {
+      "id": "chapitre-04",
+      "title": {
+        "fr-FR": "Chapitre 4"
+      }
+    },
+    {
+      "id": "chapitre-05",
+      "title": {
+        "fr-FR": "Chapitre 5"
+      }
+    },
+    {
+      "id": "chapitre-06",
+      "title": {
+        "fr-FR": "Chapitre 6"
+      }
+    },
+    {
+      "id": "chapitre-07",
+      "title": {
+        "fr-FR": "Chapitre 7"
+      }
+    },
+    {
+      "id": "chapitre-08",
+      "title": {
+        "fr-FR": "Chapitre 8"
+      }
+    },
+    {
+      "id": "chapitre-09",
+      "title": {
+        "fr-FR": "Chapitre 9"
+      }
+    },
+    {
+      "id": "chapitre-10",
+      "title": {
+        "fr-FR": "Chapitre 10"
+      }
+    },
+    {
+      "id": "chapitre-11",
+      "title": {
+        "fr-FR": "Chapitre 11"
+      }
+    },
+    {
+      "id": "chapitre-12",
+      "title": {
+        "fr-FR": "Chapitre 12"
+      }
+    },
+    {
+      "id": "chapitre-13",
+      "title": {
+        "fr-FR": "Chapitre 13"
+      }
+    },
+    {
+      "id": "chapitre-14",
+      "title": {
+        "fr-FR": "Chapitre 14"
+      }
+    },
+    {
+      "id": "chapitre-15",
+      "title": {
+        "fr-FR": "Chapitre 15"
+      }
+    },
+    {
+      "id": "chapitre-16",
+      "title": {
+        "fr-FR": "Chapitre 16"
+      }
+    },
+    {
+      "id": "chapitre-17",
+      "title": {
+        "fr-FR": "Chapitre 17"
+      }
+    },
+    {
+      "id": "chapitre-18",
+      "title": {
+        "fr-FR": "Chapitre 18"
+      }
+    },
+    {
+      "id": "chapitre-19",
+      "title": {
+        "fr-FR": "Chapitre 19"
+      }
+    },
+    {
+      "id": "chapitre-20",
+      "title": {
+        "fr-FR": "Chapitre 20. Prière a sainte madeleine , et fin du discours"
+      }
+    },
+    {
+      "id": "observations",
+      "title": {
+        "fr-FR": "Observations sur le texte de saint Luc"
+      }
+    }
+  ]
+}
