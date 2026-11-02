@@ -1,0 +1,19 @@
+{
+ "id": "fisher-treatise-of-prayer",
+ "dir": "fisher-opera-omnia/treatise-of-prayer",
+ "slug": "treatise-of-prayer",
+ "work": "fisher/treatise-of-prayer",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00765.xml",
+ "name": "A Treatise of Prayer",
+ "name_pt": "Um Tratado da Oração",
+ "desc": "The English version of Fisher's treatise on the necessity and benefits of prayer, in the 1640 translation of 'R.A.'.",
+ "desc_pt": "A versão inglesa do tratado de Fisher sobre a necessidade e os benefícios da oração, na tradução de 'R.A.' de 1640.",
+ "composed": 1535,
+ "editor": "John Fisher, tr. R.A. (1640; EEBO-TCP A00765)",
+ "year": 1640,
+ "url": "https://github.com/textcreationpartnership/A00765",
+ "edition": "A treatise of prayer (1640), EEBO-TCP A00765."
+}
