@@ -2,28 +2,58 @@
   "id": "gregory-great-pope-pastoral-rule",
   "cover": "quarter",
   "name": {
+    "la": "Regula pastoralis",
     "en-US": "Pastoral Rule",
     "pt-BR": "Regra Pastoral"
   },
   "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
     "en-US": "Gregory the Great, Pope (c. 540-604)",
     "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
+  "work": "gregory-the-great/regula-pastoralis",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Sainte-Marthe), Migne PL 77",
+      "year": 1849
+    },
+    "en-US": {
+      "translator": "James Barmby",
+      "year": 1895
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
+  },
   "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Regulae_Pastoralis",
+      "edition": "Migne, Patrologia Latina 77 (Maurist text), as transcribed from Documenta Catholica Omnia on Latin Wikisource",
+      "description": "Regula pastoralis, Part I (with the letter to John of Ravenna), Part II chapters 1-11, Part III prologue and chapters 1-40, Part IV. One file per Part, as in the English: the English headings 'Introduction' and 'Chapter N' correspond to 'Praefatio' and 'Caput N' (the English 'Preface' is the translator's note and has no Latin counterpart). Wikitext templates and line wraps removed, paragraphs rebuilt from blank lines, chapter rubrics set in bold. Checked against the DCO LT text (41.9k words with page numbers). Latin of the Maurist edition has no editors' notes in this transcription.",
+      "tier": "A",
+      "evidence": "Text of a 6th-century work in the Maurist/Migne edition (1705, 1849), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/3601.htm",
-      "description": "Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight."
+      "description": "Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight.",
+      "tier": "A",
+      "evidence": "Barmby (1830-1913) translation, published 1895: public domain."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
+        "la": "Pars prima",
         "en-US": "Book I",
         "pt-BR": "Livro I"
       }
@@ -31,6 +61,7 @@
     {
       "id": "ch002",
       "title": {
+        "la": "Pars secunda",
         "en-US": "Book II",
         "pt-BR": "Livro II"
       }
@@ -38,6 +69,7 @@
     {
       "id": "ch003",
       "title": {
+        "la": "Pars tertia",
         "en-US": "Book III",
         "pt-BR": "Livro III"
       }
@@ -45,6 +77,7 @@
     {
       "id": "ch004",
       "title": {
+        "la": "Pars quarta",
         "en-US": "Book IV",
         "pt-BR": "Livro IV"
       }
