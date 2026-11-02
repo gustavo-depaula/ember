@@ -1,0 +1,13 @@
+# 147. Supplioue de la Reine Anne d’Autriche au Pape
+
+(1647)
+
+Par la Bulle de l’établissement de la congrégation de la Mission en l’année 1632 par notre Saint-Père le Pape Urbain VIII, d’heureuse mémoire, lesdits prêtres ont pouvoir, sous l’autorité des Ordinaires, d’établir les confréries de la Charité pour le soulagement des pauvres malades ès paroisses de la campagne où ils font la mission ; ce qu’ils ont fait avec tant de bénédiction dans la plupart des villages du diocèse de Paris et autres du royaume que quelques dames charitables de cette ville de Paris en ont été si touchées qu’elles ont moyenné par messieurs leurs curés un pareil établissement dans leurs paroisses pour le soulagement des pauvres malades.
+
+Et d’autant que les dames dont lesdites confréries sont composées sont pour la plupart de haute condition, qui ne leur permet pas de faire les plus basses fonctions qu’il y convient exercer, elles ont pris, avec permission de Monsieur de Paris et de l’avis du supérieur général de ladite congrégation, quelques veuves et filles des champs, auxquelles Dieu a donné la pensée de se dédier au service des pauvres malades, lesquelles depuis plusieurs années s’emploient à toutes les plus basses fonctions avec édification du public et consolation des malades, et qui sont dressees à cela par une bonne et vertueuse veuve, dans la maison de laquelle elles sont entretenues quelque temps et puis envoyées dans les paroisses, tant des villes que des bourgs et villages, où elles sont demandées, lesquelles s’appellent *servantes des pauvres de le Charité *et qui sont établies
+
+Document 147. — Archive de la Mission, copie.
+
+sous ce titre par monsieur l’archevêque de Paris, à la charge que ladite confrérie ou société demeurera à petpétuité sous son autorité et dépendance.
+
+Or, d’autant que ce bon œuvre s’est étendu en plusieurs évêchés de ce royaume, comme Angers, Nantes, Poitiers, Sens, Rouen, Beauvais, Reims, etc…, et que les autres prélats ne voudront pas les recevoir sous cette condition, et que ce bon œuvre a été commencé et cultivé depuis près de quatorze ans par le général de ladite congrégation de la Mission, et qu’à présent par l’établissement de ladite confrérie ou société Monsieur de Paris l’en constitue le directeur pendant sa vie, la reine fait supplier Sa Sainteté de nommer pour directeurs perpétuels de ladite confrérie ou société des servantes des pauvres de la Charité ledit supérieur général de ladite congrégation de la Mission et ses successeurs en la même charge. Et ainsi faisant, il y a sujet d’espérer que ce bon œuvre ira toujours en augmentant et que l’Eglise en sera édifiée et les pauvres plus soulagés.

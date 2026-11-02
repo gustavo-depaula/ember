@@ -1,0 +1,1275 @@
+{
+  "id": "vincent-documents",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Documents de saint Vincent de Paul",
+    "en-US": "Documents of St. Vincent de Paul",
+    "pt-BR": "Documentos de São Vicente de Paulo"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les documents réunis par Pierre Coste au tome XIII : pièces relatives à la vie de saint Vincent, règlements et actes de la Congrégation de la Mission, règlements des confréries de la Charité, des Filles de la Charité et des Dames de la Charité, conseils, canevas d’entretien, suppléments.",
+    "en-US": "The documents gathered by Pierre Coste in tome XIII: papers on the life of St. Vincent, regulations and acts of the Congregation of the Mission, rules of the Confraternities of Charity, of the Daughters of Charity and of the Ladies of Charity, councils, outlines of conferences, supplements.",
+    "pt-BR": "Os documentos reunidos por Pierre Coste no tomo XIII: peças sobre a vida de São Vicente, regulamentos da Congregação da Missão, regras das Confrarias da Caridade, das Filhas da Caridade e das Damas da Caridade."
+  },
+  "composed": "1596-1660",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/documents",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1924
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tome XIII; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All numbered documents of Coste’s tome XIII, one per chapter, with notes; Latin documents are followed by Coste’s French translation. The supplements after document 202 are one chapter.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "partie-1",
+      "title": {
+        "fr-FR": "Première partie : Documents relatifs à saint Vincent"
+      },
+      "children": [
+        {
+          "id": "document-001",
+          "title": {
+            "fr-FR": "1. Lettres de Tonsure"
+          }
+        },
+        {
+          "id": "document-002",
+          "title": {
+            "fr-FR": "2. Lettres des Ordres Mineurs"
+          }
+        },
+        {
+          "id": "document-003",
+          "title": {
+            "fr-FR": "4. Lettres de Sous-Diaconat"
+          }
+        },
+        {
+          "id": "document-004",
+          "title": {
+            "fr-FR": "5. Lettres Dimissoriales pour le Diaconat"
+          }
+        },
+        {
+          "id": "document-005",
+          "title": {
+            "fr-FR": "6. Lettres de Diaconat"
+          }
+        },
+        {
+          "id": "document-006",
+          "title": {
+            "fr-FR": "7. Lettres Dimissoriales pour la Prêtrise"
+          }
+        },
+        {
+          "id": "document-007",
+          "title": {
+            "fr-FR": "8. Lettres de Prêtrise"
+          }
+        },
+        {
+          "id": "document-008",
+          "title": {
+            "fr-FR": "9. Résignation de l’Abbaye Saint-Léonard — De Chaume en Faveur de Saint Vincent"
+          }
+        },
+        {
+          "id": "document-009",
+          "title": {
+            "fr-FR": "10. Don de Saint Vincent à l’Hôpital de la Charité"
+          }
+        },
+        {
+          "id": "document-010",
+          "title": {
+            "fr-FR": "11. Acte de Prise de Possession de la Curé de Clichy"
+          }
+        },
+        {
+          "id": "document-011",
+          "title": {
+            "fr-FR": "12. Reconnaissance d’Une Dette"
+          }
+        },
+        {
+          "id": "document-012",
+          "title": {
+            "fr-FR": "13. Saint Vincent de Paul, Chanoine d’Ecouis"
+          }
+        },
+        {
+          "id": "document-013",
+          "title": {
+            "fr-FR": "14. Sernon de Saint Vincent sur le Catéchisme"
+          }
+        },
+        {
+          "id": "document-014",
+          "title": {
+            "fr-FR": "15. Sermon de Saint Vincent sur la Communion"
+          }
+        },
+        {
+          "id": "document-015",
+          "title": {
+            "fr-FR": "16. Sermon de Saint Vincent sur la Communion"
+          }
+        },
+        {
+          "id": "document-016",
+          "title": {
+            "fr-FR": "17. Résignation par Saint Vincent de l’Abbaye — Saint-Léonard de Chaume"
+          }
+        },
+        {
+          "id": "document-017",
+          "title": {
+            "fr-FR": "18. Acte de Résignation de la Curé de Châtillon — En Faveur de Saint Vincent"
+          }
+        },
+        {
+          "id": "document-018",
+          "title": {
+            "fr-FR": "19. Acte de Nomination de Saint Vincent de Paul — A la Curé de Châtillon"
+          }
+        },
+        {
+          "id": "document-019",
+          "title": {
+            "fr-FR": "20. Acte de Prise de Possession de la Curé — De Châtillon-les-Dombes"
+          }
+        },
+        {
+          "id": "document-020",
+          "title": {
+            "fr-FR": "21. Rapport de Charles Demia sur le Séjour — De Saint Vincent à Châtillon-les-Dombes"
+          }
+        },
+        {
+          "id": "document-021",
+          "title": {
+            "fr-FR": "22. Prise de Possession de la Curé de Châtillon — Par Louis Girard"
+          }
+        },
+        {
+          "id": "document-022",
+          "title": {
+            "fr-FR": "24. Procuration pour la Prise de Possession — Du Prieuré Saint-Nicolas de Grosse-Sauve"
+          }
+        },
+        {
+          "id": "document-023",
+          "title": {
+            "fr-FR": "25. Canevas d’Un Sermon de Saint Vincent — Sur la Prochaine Visite de l’Évêque"
+          }
+        },
+        {
+          "id": "document-024",
+          "title": {
+            "fr-FR": "26. Reçu d’Une Somme d’Argent"
+          }
+        },
+        {
+          "id": "document-025",
+          "title": {
+            "fr-FR": "27. Donation de Saint Vincent a ses Parents"
+          }
+        },
+        {
+          "id": "document-026",
+          "title": {
+            "fr-FR": "28. Attestation par Saint Vincent — D’Une Guérison Miraculeuse"
+          }
+        },
+        {
+          "id": "document-027",
+          "title": {
+            "fr-FR": "29. Déposition de Saint Vincent de Paul au Procès — De Béatification de Saint Prançois de Sales"
+          }
+        },
+        {
+          "id": "document-028",
+          "title": {
+            "fr-FR": "30. Nomination de Saint Vincent — Comme Supérieur de la Visitation de Paris"
+          }
+        },
+        {
+          "id": "document-029",
+          "title": {
+            "fr-FR": "31. Reçu d’Une Somme d’Argent"
+          }
+        },
+        {
+          "id": "document-030",
+          "title": {
+            "fr-FR": "32. Témoignage de Saint Vincent — Au Sujet de l’Abbé de Saint-Cyran"
+          }
+        },
+        {
+          "id": "document-031",
+          "title": {
+            "fr-FR": "33. Interrogatoire de l’Abbé de Saint-Cyran"
+          }
+        },
+        {
+          "id": "document-032",
+          "title": {
+            "fr-FR": "34. Vision des Trois Globes"
+          }
+        },
+        {
+          "id": "document-033",
+          "title": {
+            "fr-FR": "36. Dédicace du Manuscrit — \"dix Méditations\" de Louis Machon"
+          }
+        },
+        {
+          "id": "document-034",
+          "title": {
+            "fr-FR": "37. Dédicace de l’\"hortus Pastorum\""
+          }
+        },
+        {
+          "id": "document-035",
+          "title": {
+            "fr-FR": "38. Extraits des Carnets de Mazarin"
+          }
+        },
+        {
+          "id": "document-036",
+          "title": {
+            "fr-FR": "40. Obedience pour une Visitandine"
+          }
+        },
+        {
+          "id": "document-037",
+          "title": {
+            "fr-FR": "41. Canevas d’Entretien a des Ordinands"
+          }
+        },
+        {
+          "id": "document-038",
+          "title": {
+            "fr-FR": "42. Conseils a une Personne de Qualité"
+          }
+        },
+        {
+          "id": "document-039",
+          "title": {
+            "fr-FR": "43. Réflexions sur la Beauté de Dieu"
+          }
+        },
+        {
+          "id": "document-040",
+          "title": {
+            "fr-FR": "44. Réflexions sur la Retraite Spirituelle"
+          }
+        },
+        {
+          "id": "document-041",
+          "title": {
+            "fr-FR": "45. Réflexions sur la Vie de Communauté"
+          }
+        },
+        {
+          "id": "document-042",
+          "title": {
+            "fr-FR": "46. Plan d’Un Entretien aux Sœurs — De la Visitation"
+          }
+        },
+        {
+          "id": "document-043",
+          "title": {
+            "fr-FR": "47. Différence entre l’Esprit du Monde — Et Celui de Jésus-Christ"
+          }
+        },
+        {
+          "id": "document-044",
+          "title": {
+            "fr-FR": "48. Étude sur la Grâce * — De la Grâce"
+          }
+        },
+        {
+          "id": "document-045",
+          "title": {
+            "fr-FR": "49. Instruction Donnée aux Pauvres du Nom De-Jésus"
+          }
+        },
+        {
+          "id": "document-046",
+          "title": {
+            "fr-FR": "50. Exhortation a un Prêtre pour l’Engager"
+          }
+        },
+        {
+          "id": "document-047",
+          "title": {
+            "fr-FR": "51. Allocution aux Prêtres de Saint-Sulpice — A l’Occasion de la Mort de Leur Fondateur"
+          }
+        },
+        {
+          "id": "document-048",
+          "title": {
+            "fr-FR": "52. Conseils a un Ami qui Souhaitait un Accord — Avec les Jansénistes"
+          }
+        },
+        {
+          "id": "document-049",
+          "title": {
+            "fr-FR": "53. Dédicace à Saint Vincent de l’Ouvrage — \"dictionnaire de la Lanque de Madagascar\""
+          }
+        },
+        {
+          "id": "document-050",
+          "title": {
+            "fr-FR": "54. Récit d’Une Conversation avec un Prêtre — Favorable aux Jansénistes"
+          }
+        },
+        {
+          "id": "document-051",
+          "title": {
+            "fr-FR": "55. Obedience pour une Visitandine"
+          }
+        },
+        {
+          "id": "document-052",
+          "title": {
+            "fr-FR": "56. Conseils Donnés à M. Loger, Procureur au Parlement"
+          }
+        },
+        {
+          "id": "document-053",
+          "title": {
+            "fr-FR": "57. Journal des Derniers Jours de Saint Vincent"
+          }
+        },
+        {
+          "id": "document-054",
+          "title": {
+            "fr-FR": "58. Lettre de Gilbert Cuissot à Jean Dehorcny — Sur les Vertus de Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "partie-2",
+      "title": {
+        "fr-FR": "Deuxième partie : Documents relatifs à la Congrégation de la Mission"
+      },
+      "children": [
+        {
+          "id": "document-055",
+          "title": {
+            "fr-FR": "59. Contrat de Fondation — De la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-056",
+          "title": {
+            "fr-FR": "60. Acte par Lequel l’Archevêque de Paris — Approuvé la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-057",
+          "title": {
+            "fr-FR": "61. Acte d’Association des Premiers Missionnaires"
+          }
+        },
+        {
+          "id": "document-058",
+          "title": {
+            "fr-FR": "62. Lettres Patentes par Lesquelles le Roi — Approuvé la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-059",
+          "title": {
+            "fr-FR": "63. Acte d’Union du Collège des Bons-Enfants — A la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-060",
+          "title": {
+            "fr-FR": "64. Prise de Possession du Collège des Bons-Enfants — Au Nom de la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-061",
+          "title": {
+            "fr-FR": "65. Lettres Patentes du Roi pour l’Union — Du Collège des Bons-Enfants à la Mission"
+          }
+        },
+        {
+          "id": "document-062",
+          "title": {
+            "fr-FR": "67. Lettre du Nonce au Cardinal Ludovisio"
+          }
+        },
+        {
+          "id": "document-063",
+          "title": {
+            "fr-FR": "68. Lettre du Roi Louis XIII au Pape Urbain VIII"
+          }
+        },
+        {
+          "id": "document-064",
+          "title": {
+            "fr-FR": "69. Lettre du Roi Louis XIII à M. de Béthune — Ambassadeur de France Près le Saint-Siège"
+          }
+        },
+        {
+          "id": "document-065",
+          "title": {
+            "fr-FR": "70. Lettre du Nonce à Mgr Ingoli, — Secrétaire de la Propagande"
+          }
+        },
+        {
+          "id": "document-066",
+          "title": {
+            "fr-FR": "71. Lettre du Nonce au Cardinal Ludovisio"
+          }
+        },
+        {
+          "id": "document-067",
+          "title": {
+            "fr-FR": "72. Rapport Présente à la Propagande — Sur la Supplique de Saint Vincent de Juin 1628"
+          }
+        },
+        {
+          "id": "document-068",
+          "title": {
+            "fr-FR": "73. Décision de la Propagande sur la Supplique — À Elle Adressée par Saintvincent en Juin 1628"
+          }
+        },
+        {
+          "id": "document-069",
+          "title": {
+            "fr-FR": "74. Lettres Patentes pour Ordonner — Au Parlement d’Entériner Leslettres de Mai 1627"
+          }
+        },
+        {
+          "id": "document-070",
+          "title": {
+            "fr-FR": "75. Opposition des Curés de Paris — A l’Approbation de la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-071",
+          "title": {
+            "fr-FR": "76. Enregistrement au Parlement des Lettres — Patentes de Mai 1627 et du 15 février 1630"
+          }
+        },
+        {
+          "id": "document-072",
+          "title": {
+            "fr-FR": "77. Contrat d’Union du Prieuré de Saint-Lazare — A la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-073",
+          "title": {
+            "fr-FR": "78. Entrée des Prêtres de la Mission à Saint-Lazare"
+          }
+        },
+        {
+          "id": "document-074",
+          "title": {
+            "fr-FR": "79. Approbation par l’Archevêque de Paris — De l’Union de Saint-Lazare à la Mission"
+          }
+        },
+        {
+          "id": "document-075",
+          "title": {
+            "fr-FR": "80. Lettres Patentes pour Confirmer — L’Union de Saint-Lazare à la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-076",
+          "title": {
+            "fr-FR": "81. Bulle d’Érection de la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-077",
+          "title": {
+            "fr-FR": "82. Déclaration d’Adrien le Bon — Au Sujet du Concordat du 7 janvier 1632"
+          }
+        },
+        {
+          "id": "document-078",
+          "title": {
+            "fr-FR": "83. Approbation par l’Archevêque de Paris — De l’Union de Saint-Lazare à la Mission"
+          }
+        },
+        {
+          "id": "document-079",
+          "title": {
+            "fr-FR": "84. Lettres Patentes pour Confirmer l’Union"
+          }
+        },
+        {
+          "id": "document-080",
+          "title": {
+            "fr-FR": "85. Règlement des Prêtres de la Mission — Envoyés aux Armées à Titre d’Aumôniers,"
+          }
+        },
+        {
+          "id": "document-081",
+          "title": {
+            "fr-FR": "86. Permission Donnée à Louis Lebreton — De s’Établir à Rome"
+          }
+        },
+        {
+          "id": "document-082",
+          "title": {
+            "fr-FR": "87. Approbation par l’Archevêque de Paris — Des Vœux en Usage dans la Mission"
+          }
+        },
+        {
+          "id": "document-083",
+          "title": {
+            "fr-FR": "88. Acceptation par le Roi de la Bulle — \"salvatoris Nostri\""
+          }
+        },
+        {
+          "id": "document-084",
+          "title": {
+            "fr-FR": "89. Procès-Verbal des Actes de l’Assemblée — Tenue à Saint-Lazare en Octobre 1642"
+          }
+        },
+        {
+          "id": "document-085",
+          "title": {
+            "fr-FR": "90. Fondation de l’Établissement de Marseill. E — Par la Duchesse d’Aiguillon"
+          }
+        },
+        {
+          "id": "document-086",
+          "title": {
+            "fr-FR": "92. Fondation de l’Établissement de Sedan"
+          }
+        },
+        {
+          "id": "document-087",
+          "title": {
+            "fr-FR": "93. Avis de Saint Vincent à M. Nouelly — Et au Frère Barreau Avant Leur Départ pour Alger"
+          }
+        },
+        {
+          "id": "document-088",
+          "title": {
+            "fr-FR": "94. Lettres de Provision du Consulat d’Alger — En Faveur de Lambert aux Couteaux"
+          }
+        },
+        {
+          "id": "document-089",
+          "title": {
+            "fr-FR": "95. Attributions de l’Aumônier Royal des Galères"
+          }
+        },
+        {
+          "id": "document-090",
+          "title": {
+            "fr-FR": "96. Règlement pour les Prêtres de la Mission — De Marseille Charges des Galériens"
+          }
+        },
+        {
+          "id": "document-091",
+          "title": {
+            "fr-FR": "97. Emplois des Consuls et des Missionnaires de Barbarie"
+          }
+        },
+        {
+          "id": "document-092",
+          "title": {
+            "fr-FR": "98. Obedience pour Charles Nacquart — Et Nicolas Gondrée, Envoyés à l’Ile de Madagascar"
+          }
+        },
+        {
+          "id": "document-093",
+          "title": {
+            "fr-FR": "99. Obedience pour Plusieurs Prêtres et Frères — De la Mission Envoyés en Divers Établissements"
+          }
+        },
+        {
+          "id": "document-094",
+          "title": {
+            "fr-FR": "100. Érection par la Propagande — De la Mission de Madagascar"
+          }
+        },
+        {
+          "id": "document-095",
+          "title": {
+            "fr-FR": "101. Facultés Concédée par le Saint-Office — À Nicolas Duport, Nommé Missionnaire à Madagascar"
+          }
+        },
+        {
+          "id": "document-096",
+          "title": {
+            "fr-FR": "102. - Résolutions"
+          }
+        },
+        {
+          "id": "document-097",
+          "title": {
+            "fr-FR": "103. Sauf-Conduit pour les Prêtres de la Mission — Envoyés en Champagne et en Picardie"
+          }
+        },
+        {
+          "id": "document-098",
+          "title": {
+            "fr-FR": "104. Procès-Verbal de l’Assemblée — Tenue à Saint-Lazare en 1651"
+          }
+        },
+        {
+          "id": "document-099",
+          "title": {
+            "fr-FR": "105. Récit de l’Assemblée — Tenue à Saint-Lazare en 1651"
+          }
+        },
+        {
+          "id": "document-100",
+          "title": {
+            "fr-FR": "106. Approbation des Règles de la Congrégation — De la Mission par l’Assemblée Générale de 1651"
+          }
+        },
+        {
+          "id": "document-101",
+          "title": {
+            "fr-FR": "107. Obedience pour Lambert aux Couteaux — Et Ceux Oui l’Accompagnaient en Pologne"
+          }
+        },
+        {
+          "id": "document-102",
+          "title": {
+            "fr-FR": "108. Laissez-Passer pour les Missionnaires — Envoyés par Saint Vincent à Palaiseau"
+          }
+        },
+        {
+          "id": "document-103",
+          "title": {
+            "fr-FR": "109. Règlement de Vie — Pour Jean le Vacher et Martin Husson"
+          }
+        },
+        {
+          "id": "document-104",
+          "title": {
+            "fr-FR": "110. Étude sur les Vœux Emis dans la Mission — Et le Privilege de l’Exemption"
+          }
+        },
+        {
+          "id": "document-105",
+          "title": {
+            "fr-FR": "112. Bulle d’Alexandre VII pour l’Union — Du Prieuré de Saint-Lazare à la Mission"
+          }
+        },
+        {
+          "id": "document-106",
+          "title": {
+            "fr-FR": "113. Acte d’Acceptation par la Maison — De Saint-Lazare du Bref \"ex Commissa Nobis\""
+          }
+        },
+        {
+          "id": "document-107",
+          "title": {
+            "fr-FR": "115. Fondation — Pour l’Assistance des Esclaves de Barbarie"
+          }
+        },
+        {
+          "id": "document-108",
+          "title": {
+            "fr-FR": "117. Bulle par Laquelle l’Abbaye de Saint-Méen — Est Unie au Séminaire Établi en Cette Localité"
+          }
+        },
+        {
+          "id": "document-109",
+          "title": {
+            "fr-FR": "118. Pondation et Fermeture — Du Grand Séminaire de Montpellier"
+          }
+        },
+        {
+          "id": "document-110",
+          "title": {
+            "fr-FR": "120. Bref sur le Vœu de Pauvreté — Emis dans la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "document-111",
+          "title": {
+            "fr-FR": "121. Billet de l’Élection du Vicaire Général"
+          }
+        },
+        {
+          "id": "document-112",
+          "title": {
+            "fr-FR": "122. Billet de l’Élection du Supérieur Général"
+          }
+        },
+        {
+          "id": "document-113",
+          "title": {
+            "fr-FR": "123. Lettres Patentes pour Confirmer — Lunion du Prieuré de Saint-Lazare à la Mission"
+          }
+        }
+      ]
+    },
+    {
+      "id": "partie-3",
+      "title": {
+        "fr-FR": "Troisième partie : Documents relatifs aux confréries de la Charité"
+      },
+      "children": [
+        {
+          "id": "document-114",
+          "title": {
+            "fr-FR": "124. Règlement Général des Charités de Femmes"
+          }
+        },
+        {
+          "id": "document-115",
+          "title": {
+            "fr-FR": "125. Règlement Général des Charités de Femmes"
+          }
+        },
+        {
+          "id": "document-116",
+          "title": {
+            "fr-FR": "126. Charité de Femmes de Châtillon-les-Dombes (@)"
+          }
+        },
+        {
+          "id": "document-117",
+          "title": {
+            "fr-FR": "127. Charité de Femmes de Joigny"
+          }
+        },
+        {
+          "id": "document-118",
+          "title": {
+            "fr-FR": "128. Charité Mixte de Joigny"
+          }
+        },
+        {
+          "id": "document-119",
+          "title": {
+            "fr-FR": "129. Charité de Femmes de Montmirail"
+          }
+        },
+        {
+          "id": "document-120",
+          "title": {
+            "fr-FR": "130. Autre Règlement de la Charité de Femmes — De Montmirail Jésus, Maria"
+          }
+        },
+        {
+          "id": "document-121",
+          "title": {
+            "fr-FR": "131. Charité de Femmes de Folleville, Paillard — Et Sérévillers"
+          }
+        },
+        {
+          "id": "document-122",
+          "title": {
+            "fr-FR": "132. Charité d’Hommes de Folleville, Paillart — Et Sérivillers"
+          }
+        },
+        {
+          "id": "document-123",
+          "title": {
+            "fr-FR": "133. La Charité Mixtede Mâcon — D’Après le Récit de M. l’Abbé Laplatte"
+          }
+        },
+        {
+          "id": "document-124",
+          "title": {
+            "fr-FR": "134. La Charité de Mâcon — D’Après les Registres de l’Hôtel de Ville"
+          }
+        },
+        {
+          "id": "document-125",
+          "title": {
+            "fr-FR": "135. La Charité Mixte de Mâcon — D’Après le Registre des Délibérations Capitulaires"
+          }
+        },
+        {
+          "id": "document-126",
+          "title": {
+            "fr-FR": "136. Règlement d’Une Charité Mixte — Jésus, Maria"
+          }
+        },
+        {
+          "id": "document-127",
+          "title": {
+            "fr-FR": "137. Charité Mixte de Courboin"
+          }
+        },
+        {
+          "id": "document-128",
+          "title": {
+            "fr-FR": "138. Charité Mixte de Montreuil"
+          }
+        },
+        {
+          "id": "document-129",
+          "title": {
+            "fr-FR": "139. Charité de Femmes — De la Paroisse Saint-Sauveur à Paris"
+          }
+        },
+        {
+          "id": "document-130",
+          "title": {
+            "fr-FR": "140. Fin d’Un Règlement de la Charité — De la Paroisse Saint-Sauveur à Paris"
+          }
+        },
+        {
+          "id": "document-131",
+          "title": {
+            "fr-FR": "141. Règlement de la Charité de Femmes — De la Paroisse Saint-Nicolas-du-Chardonnet à Paris"
+          }
+        },
+        {
+          "id": "document-132",
+          "title": {
+            "fr-FR": "142. Charité de Femmes d’Argenteuil"
+          }
+        }
+      ]
+    },
+    {
+      "id": "partie-4",
+      "title": {
+        "fr-FR": "Quatrième partie : Documents relatifs aux Filles de la Charité"
+      },
+      "children": [
+        {
+          "id": "document-133",
+          "title": {
+            "fr-FR": "143. Règlement des Sœurs de l’Hôpital d’Angers"
+          }
+        },
+        {
+          "id": "document-134",
+          "title": {
+            "fr-FR": "144. Déclaration Concernant la Mise en Dépôt — D’Une Somme d’Argent"
+          }
+        },
+        {
+          "id": "document-135",
+          "title": {
+            "fr-FR": "145. Règlement des Filles de la Charité :"
+          }
+        },
+        {
+          "id": "document-136",
+          "title": {
+            "fr-FR": "146. Érection de la Compagnie — Des Filles de la Charité en Confrérie ;"
+          }
+        },
+        {
+          "id": "document-137",
+          "title": {
+            "fr-FR": "147. Supplioue de la Reine Anne d’Autriche au Pape"
+          }
+        },
+        {
+          "id": "document-138",
+          "title": {
+            "fr-FR": "148. Avis de Saint Vincent — Aux Sœurs de l’Hôpital de Nantes"
+          }
+        },
+        {
+          "id": "document-139",
+          "title": {
+            "fr-FR": "149. Approbation de la Compagnie — Des Filles de la Charité par le Cardinal de Retz"
+          }
+        },
+        {
+          "id": "document-140",
+          "title": {
+            "fr-FR": "150. Acte d’Établissement des Filles de la Charité — Et Nomination des Officières"
+          }
+        },
+        {
+          "id": "document-141",
+          "title": {
+            "fr-FR": "151. Obedience des Sœurs Envoyées à Arras"
+          }
+        },
+        {
+          "id": "document-142",
+          "title": {
+            "fr-FR": "152. Lettres Patentes par Lesquelles le Roi — Approuvé la Compagnie des Filles de la Charité"
+          }
+        },
+        {
+          "id": "document-143",
+          "title": {
+            "fr-FR": "153. Enregistrement par le Parlement — Des Lettres Patentes de Novembre 1657"
+          }
+        },
+        {
+          "id": "document-144",
+          "title": {
+            "fr-FR": "154. Obedience Donnée aux Sœurs Envoyées à Narbonne"
+          }
+        },
+        {
+          "id": "document-145",
+          "title": {
+            "fr-FR": "156. Conseil du 28 juin 1646"
+          }
+        },
+        {
+          "id": "document-146",
+          "title": {
+            "fr-FR": "157. Conseil du 5 juillet 1646"
+          }
+        },
+        {
+          "id": "document-147",
+          "title": {
+            "fr-FR": "158. Conseil du 25 octobre 1646"
+          }
+        },
+        {
+          "id": "document-148",
+          "title": {
+            "fr-FR": "159. Conseil du 19 juin 1647"
+          }
+        },
+        {
+          "id": "document-149",
+          "title": {
+            "fr-FR": "160. Conseil du 20 juin 1647"
+          }
+        },
+        {
+          "id": "document-150",
+          "title": {
+            "fr-FR": "161. Conseil du 30 octobre 1647"
+          }
+        },
+        {
+          "id": "document-151",
+          "title": {
+            "fr-FR": "162. Conseil du 22 mars [1648]"
+          }
+        },
+        {
+          "id": "document-152",
+          "title": {
+            "fr-FR": "163. Conseil du 13 avril 1651"
+          }
+        },
+        {
+          "id": "document-153",
+          "title": {
+            "fr-FR": "164. Conseil du 15 avril 1651"
+          }
+        },
+        {
+          "id": "document-154",
+          "title": {
+            "fr-FR": "165. Conseil du 9 novembre 1653"
+          }
+        },
+        {
+          "id": "document-155",
+          "title": {
+            "fr-FR": "166. Conseil du 11 juin 1654"
+          }
+        },
+        {
+          "id": "document-156",
+          "title": {
+            "fr-FR": "167. Conseil du 8 avril 1655"
+          }
+        },
+        {
+          "id": "document-157",
+          "title": {
+            "fr-FR": "168. Conseil du 8 septembre 1655"
+          }
+        },
+        {
+          "id": "document-158",
+          "title": {
+            "fr-FR": "169. Conseil du 19 février 1656"
+          }
+        },
+        {
+          "id": "document-159",
+          "title": {
+            "fr-FR": "170. Conseil du 27 février 1656"
+          }
+        },
+        {
+          "id": "document-160",
+          "title": {
+            "fr-FR": "171. Conseil du 25 avril 1656"
+          }
+        },
+        {
+          "id": "document-161",
+          "title": {
+            "fr-FR": "172. Conseil du 27 avril 1656"
+          }
+        },
+        {
+          "id": "document-162",
+          "title": {
+            "fr-FR": "173. Conseil du 29 avril 1656"
+          }
+        },
+        {
+          "id": "document-163",
+          "title": {
+            "fr-FR": "174. Conseil du 25 juin 1656"
+          }
+        },
+        {
+          "id": "document-164",
+          "title": {
+            "fr-FR": "175. Conseil du 27 juillet 1656"
+          }
+        },
+        {
+          "id": "document-165",
+          "title": {
+            "fr-FR": "176. Conseil du 43 août 1656"
+          }
+        },
+        {
+          "id": "document-166",
+          "title": {
+            "fr-FR": "177. Conseil du 26 décembre 1656"
+          }
+        },
+        {
+          "id": "document-167",
+          "title": {
+            "fr-FR": "178. Conseil du 21 juillet 1657"
+          }
+        },
+        {
+          "id": "document-168",
+          "title": {
+            "fr-FR": "179. Conseil du 29 février 1658"
+          }
+        },
+        {
+          "id": "document-169",
+          "title": {
+            "fr-FR": "180. Conseil du 9 février 1659"
+          }
+        },
+        {
+          "id": "document-170",
+          "title": {
+            "fr-FR": "181. Conseil du 23 mars 1659"
+          }
+        },
+        {
+          "id": "document-171",
+          "title": {
+            "fr-FR": "182. Conseil du 25 avril 1659"
+          }
+        },
+        {
+          "id": "document-172",
+          "title": {
+            "fr-FR": "183. Conseil du 31 juillet 1658"
+          }
+        },
+        {
+          "id": "document-173",
+          "title": {
+            "fr-FR": "184. Conseil du 27 novembre 1659"
+          }
+        }
+      ]
+    },
+    {
+      "id": "partie-5",
+      "title": {
+        "fr-FR": "Cinquième partie : Documents relatifs aux Dames de la Charité"
+      },
+      "children": [
+        {
+          "id": "document-174",
+          "title": {
+            "fr-FR": "185. Canevas d’Entretien aux Dames — Sur la Visite des Malades"
+          }
+        },
+        {
+          "id": "document-175",
+          "title": {
+            "fr-FR": "186. Canevas d’Entretien aux Dames — Sur la Préparation des Malades de l’Hôtel-dieu A la Confession Générale"
+          }
+        },
+        {
+          "id": "document-176",
+          "title": {
+            "fr-FR": "187. Canevas d’Entretien aux Dames — Sur les Raisons Qu’ont les Dames De se Réunir de Temps à Autre"
+          }
+        },
+        {
+          "id": "document-177",
+          "title": {
+            "fr-FR": "188. Canevas d’Entretien aux Dames — Sur les Réunions Et les Œuvres de la Compagnie"
+          }
+        },
+        {
+          "id": "document-178",
+          "title": {
+            "fr-FR": "189. Canevas d’Entretien aux Dames — Sur l’Œuvre des Enfants Trouvés"
+          }
+        },
+        {
+          "id": "document-179",
+          "title": {
+            "fr-FR": "190. Canevas d’Entretien aux Dames — Sur les Œuvres De l’Hôtel-dieu et des Enfants Trouvés"
+          }
+        },
+        {
+          "id": "document-180",
+          "title": {
+            "fr-FR": "191. Canevas d’Entretien aux Dames — Sur les Œuvres de Charité"
+          }
+        },
+        {
+          "id": "document-181",
+          "title": {
+            "fr-FR": "192. Canevas d’Entretien aux Dames — Sur la Persévérance dans les Bonnes Œuvres"
+          }
+        },
+        {
+          "id": "document-182",
+          "title": {
+            "fr-FR": "193. Canevas d’Entretien aux Dames — Sur la Persévérance dans les Bonnes Œuvres"
+          }
+        },
+        {
+          "id": "document-183",
+          "title": {
+            "fr-FR": "194. Canevas d’Entretien aux Dames — Sur la Persévérance dans les Bonnes Œuvres"
+          }
+        },
+        {
+          "id": "document-184",
+          "title": {
+            "fr-FR": "195. Canevas d’Entretien aux Dames — Sur l’Œuvre des Enfants Trouvés"
+          }
+        },
+        {
+          "id": "document-185",
+          "title": {
+            "fr-FR": "197. Extrait d’Un Canevas d’Entretien aux Dames — Rapport sur les Œuvres"
+          }
+        },
+        {
+          "id": "document-186",
+          "title": {
+            "fr-FR": "198. Entretien aux Dames — Rapport sur l’État des Œuvres"
+          }
+        },
+        {
+          "id": "document-187",
+          "title": {
+            "fr-FR": "199. Projet de Règlement — Pour les Dames de la Charité de la Cour"
+          }
+        },
+        {
+          "id": "document-188",
+          "title": {
+            "fr-FR": "200. Règlement de la Compagnie des Dames de l’Hôtel-dieu"
+          }
+        },
+        {
+          "id": "document-189",
+          "title": {
+            "fr-FR": "201. Lettre des Échevins de Rethel — Aux Dames de la Charité"
+          }
+        },
+        {
+          "id": "document-190",
+          "title": {
+            "fr-FR": "202. Lettre des Échevins de Rethel — Aux Dames de la Charité"
+          }
+        },
+        {
+          "id": "document-191",
+          "title": {
+            "fr-FR": "203. À Jean Barreau, Consul à Alger"
+          }
+        },
+        {
+          "id": "document-192",
+          "title": {
+            "fr-FR": "204. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "document-193",
+          "title": {
+            "fr-FR": "205. Louise de Marillac"
+          }
+        },
+        {
+          "id": "document-194",
+          "title": {
+            "fr-FR": "206. À François Boulart"
+          }
+        },
+        {
+          "id": "document-195",
+          "title": {
+            "fr-FR": "207. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "document-196",
+          "title": {
+            "fr-FR": "208. A la Mère Anne de Compans, — Abbesse du Val-de-Grâce"
+          }
+        }
+      ]
+    },
+    {
+      "id": "partie-6",
+      "title": {
+        "fr-FR": "Suppléments"
+      },
+      "children": [
+        {
+          "id": "document-197",
+          "title": {
+            "fr-FR": "203. Suppléments à la Correspondance et Documents Ajoutés"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

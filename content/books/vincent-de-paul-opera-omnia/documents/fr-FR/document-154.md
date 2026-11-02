@@ -1,0 +1,11 @@
+# 165. Conseil du 9 novembre 1653
+
+Le dimanche neuvième jour de novembre, dans la petite conférence qui fut faite en la présence de notre très honoré Père, Monsieur Vincent, pour envoyer nos sœurs à Nantes, en la place de la sœur Jeanne Lepeintre, ma sœur Catherine et ma sœur Jacquette, qui en étaient rappelées, savoir ma sœur Marie-Marthe pour sœur servante, ma sœur Anne de Vaux et ma sœur Madeleine Micquel en la place des deux autres, sa charité nous dit que, quand nous étions appelées aux conférences pour dire notre avis, il fallait recommander cela à Dieu et se préparer à dire premièrement, étant interrogées : "Je suis de tel avis pour telles et telles raisons" Mais notez bien, mes sœurs, qu’il faut dire
+
+Document 165. — Arch. des Filles de la Charité, écriture de sœur Mathurine Guérin.
+
+votre avis devant qu’alléguer les raisons qui vous font être dans cette pensée Que si une autre a parlé devant vous et que son avis soit différent du vôtre, il faut répondre aux raisons qu’elle a proposées par d’autres raisons, et dire : "Pour ce qui a été dit, qui est telle et telle chose, je réponds à cela telle et telle raison."
+
+Cela dit, notre très honoré Père nous fit voir le grand bien qu’il y a d’être dans la maison et de travailler pour toutes les sœurs en général, nous disant :
+
+Mes sœurs, si vous saviez combien les sœurs qui travaillent dans la maison peuvent servir à la Compagnie, combien est agréable à Dieu une fille qui est portée de parole vers lui et à exemple en ses actions aux sœur ! Cette fille-là fait plus que si elle était en quelque lieu où elle ferait merveille, parce qu’elle travaille ici pour former la Compagnie. Oui, mes sœurs, quand les Filles de la Charité qui sont en Pologne feraient des miracles cela n’est rien ; c’est bien quelque chose, mais peu, au prix de ce que font celles qui sont à la maison quand elles font bien, donnant bon exemple à leurs sœurs, particulièrement aux nouvelles venues, par leur patience, support, douceur, cordialité, humilité et charité les unes pour les autres Je crois que ce sont ces vertus-là qui maintiendront la Compagnie et qui l’ont maintenue ; et au contraire, il n’y a rien qui fasse plus de mal dans les communautés que le mauvais exemple.

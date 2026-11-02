@@ -1,0 +1,5 @@
+# 176. Conseil du 43 août 1656
+
+Du dimanche 13e jour d’août 1656, Monsieur notre très honoré Père ayant fait assembler au parloir de Saint-Lazare Mademoiselle Le Gras et trois ou quatre sœurs, sa charité demanda à l’une, qui était gouvernante des Enfants trouvés, si elle fournirait bientôt de grandes filles de cette maison pour être Filles de la Charité. Laquelle dit qu’il y en avait d’assez grandes, mais qu’elle croyait que, si on donnait l’habit des Filles de la Charité à des filles trouvées, cela pourrait faire peine à nos sœurs et donner à penser au monde que toutes les Filles de La Charité seraient des enfants trouvées.
+
+En suite de ce que la sœur dit, notre très honoré Père rapporta la vision qu’eut saint Pierre lorsqu’il lui fut présenté un linceul plein de toutes sortes d’animaux, avec commandement d’en manger, ajoutant qu’il n’y avait pas de danger de voir si quelqu’une pourrait être propre, sans lui donner l’habit, et cela par essai, comme de toutes autres choses, et sous le silence, n’étant pas certain que cela se pût faire.

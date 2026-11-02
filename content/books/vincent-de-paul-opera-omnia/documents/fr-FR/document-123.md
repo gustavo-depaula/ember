@@ -1,0 +1,69 @@
+# 133. La Charité Mixtede Mâcon — D’Après le Récit de M. l’Abbé Laplatte
+
+(Septembre 1621)
+
+L’année suivante 1623 (1) fut remarquable par un second établissement, bien plus utile que le précédent puisqu’il eut pour objet le soulagement de tous les pauvres de la ville, sains et malades, mendiants et honteux. Ce fut M. Vincent de Paul, curé de Châtillon-les-Dombes, qui y commença cette bonne œuvre. Quelque attention qu’eût eue A. Gaspard Dinet de renouveler la face du diocèse pendant les dix-neuf ans qu’il fut évêque, il ne lui fut pas possible de conduire ce grand ouvrage à sa perfection ; il resta encore bien des abus à réformer après sa mort. Un des principaux fut le désordre des pauvres de la ville. Ils vivaient dans une ignorance si profonde des vérités de la religion et croupissaient dans des habitudes si criminelles qu’on ne pouvait les voir sans étlonnemer.t. M. Vincent, que se ; vertus ont fait mettre avec justice au catalogue des saints, passant par Mâcon, vit lui-même ce triste spectacle ; sa charité en fut émue et son zèle lui fit chercher les moyens d’y remédier. Comme il était en Usage de faire quelques demandes sur les éléments de la religion aux pauvres qu’il soulageait, il fut surpris de trouver
+
+Document 133. — Le travail de l’abbé Laplatte est resté manuscrit.
+
+1). L’abbé Laplatte se trompe ; la Charité de Mâcon fut fondée en 1621. (Voir les documents 134 et 135)
+
+des vieillards âgés de soixante ans et plus qui ne connaissaient pas seulement Jésus-Christ et scs mystères. Le prix de ces pauvres âmes, qui se perdaient, fit sur son cœur une si vive impression qu’il résoltut à l’instant d’y mettre ordre, à quelque prix que ce fût.
+
+Sa charité fut industrieuse ; il trouva bientôt des moyens qui lui parurent capables de remplir ses vues ; mais, présumant qu’on formerait bien des obstacles à cette bonne œuvre, il s’arma de fermeté. Ce qu’il avait prévu arriva Ayant communiqué son plan à quelques personnes de la ville, les unes en regardèrent l’exécution comme impossible, les autres le traiterent de téméraire et d’orgueilleux, qui voulait se mêler de ce qui ne le regardait pas ; les autres enfin, retenus par le respect humain, lui disaient que ce serait une bonne œuvre, mais qu’ils ne voyaient pas commen s’y prendre pour l’exécuter. Saint Vincent de Paul, bien loin de se rebuter par tant d’obstacles, reconnut, au contraire, que c’était le caractère des œuvres de Dieu d’être contredites, mais que la patience et la fermeté le rendraient vlctorieux.
+
+En effet, il sut si bien manier les esprits de ceux qui gouvernaient dans la ville qu’enfin ils approuvèrent son plan et se prêtèrent à son exécution. On forma donc une assemblée de personnes charitables, qui se chargèrent de soulager avec ordre et discrétion tous les pauvres de la ville, mendiants et honteux, valides et malades. Pour fournir aux frais de cette bonne œuvre, les riches s’obligèrent, par écrit de donner chaque année du blé, du vin, de la viande, du bois et du linge, suivant leurs facultés.
+
+Cette compagnie de personnes charitables convint de s’assembler tous les mercredis à Saint-Nizier pour y porter le produit de leur collecte, y indiquer les personnes de leur quartier tombées malades ou dans l’in dlgence, afin de les soulager la semaine suivante, faire retrancher du catalogue des pauvres ceux ou celles dont la misère aurait cessé, ou qui, s’étant mal conduits pendant la semaine, mériteraient d’être privés de l’aumône le dimanche suivant.
+
+Les premières dames de la ville et un grand nombre de bourgeoisie se firent un honneur d’être de cette pieuse assemblée, de visiter deux fois par semaine les malades de leurs quartiers, leur procurer ce qui convenait à leur rétablissement, fournir les remèdes necessaires et enfin pourvoir à leur sépulture, si Dieu les appelait à lui. Les fonds nécessaires à procurer ces différentes chanités se tiraient de la caisse où les riches versaient leurs aulmônes chaque mois.
+
+Monsieur l’évêque, Louis Dinet, Messieurs Chambon, doyen de la cathédrale, de Rhébé, prévôt de SaintPierre, Hugues Foillard, lieutenant général, animèrent et soutinrent sette bonne œuvre naissante par leurs soins et leur assiduité. Ils formèrent même un bureau composé de dix recteurs, savoir, deux ecclésiastiques, dont d’un présidait en l’absence de M. l’évêque, deux officiers de bailliage, deux officiers de l’élection, un avocat, un procureur et deux bourgeois, dont l’un était receveur. Ce règlement fut arrêté le 26 septembre 1623 (2).
+
+A l’égard des pauvres, voici l’ordre que M. Vincent établit :
+
+1° Il fit faire u, n catalogue de tous les pauvres qui demeuraient dans la ville, qui se monta environ à 300.
+
+2° Il exigea d’eux qu’ils s’assembleraient tous les dimanches à Saint-Nizier, où ils entendraient la messe et l’instruction, s’y confesseraient une fois chaque mois et communieraient lorsqu’on les trouverait capables.
+
+2). Ou plutôt le 16 septenbre 1621.
+
+3° Après l’office, tous les pauvres qui auraient assisté recevraient du pain et de l’argent à proportion de leur misère et du nombre d’enfants dont ils seraient chargés, qu’en hiver on y ajouterait du bois.
+
+4° Que tous ceux qu’on trouverait mendier pendant la semaine dans les rues et dans les églises, ou dont les dames auraient fait de justes plaintes, n’auraient rien le dimanche suivant.
+
+5° Que les pauvres passants seraient logés une nuit et renvoyés le lendemain avec deux sols.
+
+6° Que les pauvres honteux indiqués par les dames ou autres personnes de probité seraient assistés sans éclat et pourvus dans leurs maladies des aliments et remèdes convenables pour accélérer leur guérison, s’il était possible.
+
+7° Qu’enfin l’assemblée ne voulant pas fomenter la paresse des pauvres valildes, ni de leur famille, on ne leur donnerait que ce qui serait nécessaire pour suppléer aux modiques salaires de leurs travaux.
+
+Lorsqu’on commença cette bonne œuvre, il n’y avait presque aucun fonds de prêt pour l’exécuter, mais M. Vincent parla d’une manière si forte et si touchante sur la nécessité et les avantages de l’aumône, sur la facilité qu’il y avait de la faire, soit en retranchant sur son luxe, sa table, son ameublement, ses vêtements, son jeu ; soit en donnant des grains, des meubles, des vieux linges ou habillements, si on n’avait point d’argent ; il fit si bien voir le bon ordre qui en résulterait à Mâcon, si on voulait entrer dans ses vues, que chacun s’empressa de seconder son zèle. On porta au lieu destine pour le dépôt des aumônes du grain, du pain, des légumes, du linge, du bois, des ustensilles de ménage, des habits, des lits, etc… Et bientôt on se vit en état d’entretenir ce bien naissant. M. Vincent, au comble de ses souhaits de voir ses peines suivies de succès, donna son aumône le premier, et continua sa route, dit l’auteur de sa vie.
+
+Le Père Desmoulins, prêtre de l’Oratoire, était alors supérieur du séminaire de Mâcon, établi par M. Gaspard Dinet ; il vit lui-même tout ce qui se passa lors de cet établissement et l’écrivit d’une manière si naïve et si véridique que j’ai cru devoir copier le mémoire qu’il en laissa pour confirmer ce que j’ai rapporté jusqu’ici de ce saint établissement.
+
+Si le lecteur trouve que je m’étends trop sur cet article, j’avoue que je passe les bornes d’une juste étendue, mais je le prie d’excuser mon intention. Il y a si longtemps que je désire voir cette sainte asse,~blée rétablie dans Mâcon que je saisis volontiers les occasions de faire connaître les moyens d’y parvenir, puisqu’il suffirait de suivre le plan que nous a laissé M. Vincent, en y faisant seuleument quelques changements relatifs au temps où nous vivons et aux circonstances où nous nous trouvons pour ne pas aigrir certains esprits.
+
+"Je n’ai appris de personne, dit donc le P. Desmoulins, l’état des pauvres de Mâcon ; je l’ai reconnu moi-même ; car, lors de l’institution de cette assemblée de charité, comme il fut ordonné que, les premiers jours de chaque mois, tous les pauvres qui recevaient l’aumône se confesseraient, les autres confesseurs et mot trouvions des vieillards âgés de soixante ans et plus, qui nous disaient librement qu’ils ne s’étaient jamais confessés ; et lorsqu’on leur parlait de Dieu, de la Trinité, de l’Incarnation, c’était un langage qu’ils n’entendaient pas (3). Mais, par le moyen de cette pieuse con-
+
+3). D’après Abelly (*op. cit., *L I*, *chap. XV, p. 61), le P. Desmoulins aurait ajouté à cet endroit "Or, par le moyen de cette confrérie, on pourvut à ces désordres, et en peu de ternps on mit les pauvres hors de leurs misères de corps et d’esprit. M. l’évêque de Mâcon, qui était alors Messire Louis Dinet, approuva ce dessein de M. Vincent ; mes- frérie de Charité que M. Vincent établit, on pourvut à ces désordres, et en peu de temps on remédia aux besoins du corps et de l’âme de cette multitude de pauvres. Près de 300 furent logés, nourris, vêtus et chauffés fort raisonnablement. 0n ne se vit plus obsédé, soit à l’église, soit dans les rues, par ces mendiants valides, qui ne sont occupés le jour entier qu’à chercher leur vie, sans respect pour les églises, sans égards pour ceux qui en méritent, sans ménagement pour ceux qui ne veulent pas céder à leurs importunités."
+
+Les registres de la ville nous instruisent de plusieurs autres circonstances de cet établissement, qui en fait connaître de plus en plus le bon gouvernement et l’avantage qui en résultait Ils disent donc que, pour soulager 200 pauvres familles qui étaient à Mâcon, sans compter les mendiants, on avait fait un fonds : 1° de ce que le clergé et les citoyens aisés promirent de donner chaque année en argent, blé, vin, bois et habillements ; 2° de certaines amendes qu’on appliqua à cette bonne œuvre ; 3° des droits d’entrée de tous les officiers de la
+
+sieurs du chapitre de la cathédrale et messieurs du chapitre de Saint-Pierre, qui sont des chanoines nobles de quatre races, l’appuyèrent
+
+"M. Chambon, doyen de la cathédrale, et M. de Relets, prévôt de Saint-Pierre, furent priés d’en être les directeurs, avec M Failart, lieutenant général Il suivirent le règlement que donna M. Vincent : c’est à savoir qu’on ferait un catalogue de tous les pauvres de la ville qui s’y voudraient arrêter ; qu’à ceux-là on donnerait l’aumône en certains jours, et que, si on les trouvait mendier dans les églises ou par les maisons, ils seraient punis de quelque peine, avec défense de leur rien donner ; que les passants seraient logés pour une nuit et renvoyés le lendemain avec deux sous ; que les pauvres honteux de la ville seraient assistés en leurs maladies et pourvus d’aliments et de remèdes convenables, comme dans les autres lieux où la Charité était établie.
+
+Cet ordre commenca sans qu’il y eut aucuns deniers communs ; mais M. Vincent sut si bien ménager les grands et les petits, qu’un chacun se porta volontairement à contribuer à une si bonne œuvre, les uns en argent, les autres en blé, ou en d’autres denrées, selon leur pouvoir ; de sorte que près de trois cents pauvres étaient logés, nourris et entretenus fort raisonnablement. M. Vincent donna la première aumône, et puis il se retira."
+
+ville ; 4° des quêtes que faisaient chaque dimanche les demoiselles de la ville.
+
+Ces quatre objets réunis devaient former un fonds consldérable, puisque les registres ajoutent qu’on distribuait chaque dimanche, après la messe dite à Saint-Nizier, 1 200 livres de pain, 18 ou 20 fr. d’argent, 12 ou 15 fr. aux dames pour les pauvres honteux, sans compter le linge, le bois et le charbon, qui faisaient un objet considérable, 100 ou 120 fr. de gages aux apothicaires pour les remèdes, 20 fr. au chirurgien, 4 fr. par mois à deux femmes qui servaient les malades, 20 fr. aux bedeaux qui empêchaient les mendiants étrangers de séjourner dans la ville.
+
+On peut juger par ce détail du bien que, produisit dans la vllle cet établissement ; mais les guerres qui survinrent 12 ans après, et la peste de 1629 et 1630 mirent les citoyens dans l’impuissance de fournir des fonds suffisants pour continuer les aumônes avec la même étendue. On vit passer leurs biens à des héritiers qui n’imitèrent pas la charité de ceux qui les avaient précédé,. Dès l’année 1639 et 1640, on s’aperçut sensiblement de cette diminution ; les échevins, pour suppléer, prièrent Louis XIII de permettre qu’on mît un impôt de 5 fr. sur chaque botte de vin pour soulager les pauvres, qui commençaient à souffrir beaucoup. On ignore la réponse de la cour ; mais l’histoire de France nous apprenant que les pauvres des provinces souffrirent beaucoup, depuis 1640 jusqu’en I659, à cause des guerres civiles occasionnées par la minorité de Louis XIV, ll est à présumer que ceux de Mâcon éprouvèrent le même sort.
+
+Je n’ai, plus trouvé de mémoires instructifs sur cette assemblée de Charité jusqu’à l’année 1680, où deux respectables citoyens cherchèrent les moyens de procurer du pain dans] a vieillesse à ces anciens artisans qui, ayant porté les charges de la ville 30 à 40 années, se trouvaient réduits à la dernière misère, à cause du modique produit qu’ils retiraient du fruit de leur faible travail. Ils crurent que le meilleur moyen de réussir dans cette pieuse entreprise était de les réunir tous dans une même maisoin pour les servir plus aisément.
+
+En conséquence, M. Etienne Mathoud, président de l’élection, qui, le premier, avait conçu ce noble dessein, acheta, rue Bourgneuf, en 1680, plusieurs maisons contigues, qui lui coûtèrent cent mille livres ; il y fit faire des portes de comrnunication pour la facilité de la desserte et commença à retirer plusieurs vieillards infirmes. Ce bel exemple de charité excita l’émulation de plusieurs autres personnes respectables. La seconde fut Joseph Bernard, dit le beau ; il donna aussi cent mille livres pour continuer la bonne œuvre.
+
+Tels furent les commencements de l’hôpital de la Charité de notre ville, qui sert d’asile à un grand nombre de personnes affligées ou délaissées.

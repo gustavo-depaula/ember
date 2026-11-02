@@ -1,0 +1,3 @@
+# 45. Réflexions sur la Vie de Communauté
+
+Quiconque veut vivre en communauté doit se résoudre de vivre comme un pèlerin sur la terre, de se faire fol pour Jésus-Christ, de changer de mœurs, de mortifier toutes ses passions, de chercher Dieu purement, de s’asservir à un chacun, comme le moindre de tous, de se persuader qu’il est venu pour servir et non pour gouverner, pour souffrir et travailler et non~pour vivre en délices et en oisiveté. Il doit savoir que l’on y est éprouvé comme l’or en la fournaise, qu’on ne peut y persévérer si l’on ne veut s’humilier pour Dieu, et se persuader q~u’en ce faisant, on aura un véritable contentement en ce monde et la vie éternelle en l’autre (l).

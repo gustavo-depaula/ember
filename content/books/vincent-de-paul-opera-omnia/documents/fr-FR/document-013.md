@@ -1,0 +1,53 @@
+# 14. Sernon de Saint Vincent sur le Catéchisme
+
+Je ne monte point en chaire pour vous faire une prédication, comme l’on a accoutumé, mais pour vous dire quelque chose du catéchisme, parce que monsieur le comte (1) l’a désiré, avec la permission de monsieur le curé… afin de disputer un peu avec eux des choses de la foi, pendant qu’il sera ici, sachant que Dieu n’a pas seulement établi les seigneurs pour retirer les cens et les rentes de ses sujets, mais pour leur administrer la justice, maintenir la religion et les faire aimer, servir et honorer Dieu et apprendre sa sainte volonté.
+
+Encore que la fin de toute prédication soit d’attirer les âmes au ciel, si est-ce que ceux qui en ont fait des traités en remarquent. de trois sortes : l’une pour enseigner, l’autre pour exhorter, et l’autre, mixte, pour enseigner et pour exhorter tout ensemble. Celle qui est poulr enseigner a pour matière les choses de la foi ; celle qui est pour exhorter a pour sujet la vertu et le vice ; et la mixte, enseigner et exhorter, c’est-à-dire elle enseigne les choses qui appartiennent à la foi et donne de l’amour de la vertu et de l’horreur du vice. La première est pour ceux qui ne savent pas ce qu’il faut qu’ils sachent ; la seconde, pour ceux qui le savent et qu’il faut faire bons ; la 3è, pour ceux qui ne sont pas trop bien instruits et qui ont besoin d’être retirés du vice et être échauffés à la vertu. La première s’appelle *catéchiser *et regarde les petits enfants et les infidèles ; la 2e et 3 regardent les catholiques qui sont déjà grands et aucunement instruits. Nous ne traiterons point les deux dernières, pource que
+
+Document 14. — Doc. aut. — Arch. de la Mission, original. Cet entretien semble avoir été écrit entre 1613, date de l’entrée de saint Vincent chez les Gondi, et 1616, date de la résignation de l’abbaye Saint-l. éonard de Chaume, plutôt vers 1616.
+
+1). Philippe-Emmanuel de Gondi, comte de Joigny.
+
+vous avez des sermons ordinairement à cette fin, mais nous plarlerons de la première, qui est de catéchiser, c’est-à-dire d’instruire les petits enfants, assurant néanmoins les grands qu’ils y feront du fruit. *Quicumque crediderit, *etc… (2)*. Sine fide impossibile est cuicumque placere Deo* (3). *Quicumque vult salvus fieri, ante omnia opus est ut teneat catholicam fidem *(4),
+
+Le catéchisme, c’est ce petit livre que vous voyez, où est contenu ce que le chrétien est obligé de savoir et de croire et qui a été dressé pour l’instruction du peuple, afin qu’il sache ce qu’il doit savoir et faire. Il enseigne qui est celui qui mérite le titre de chrétien, la fin pour laquelle l’homme a été créé, comme il y a un Dieu en trois personnes et trois personnes en un Dieu, les commandemants de Dieu et de son Eglise, les sacrements et : l’exercice du chrétien ; qui, est enfin tout ce que nous sommes obligés de savoir, le tout réduit en si petit volume et en telle méthode qu’on l’apprendra en peu de temps.
+
+La fin pour laquelle il a été dressé du commencement, c’est pour instruire les infidèles ; mais il est arrivé depuis qu’il a fallu le pratiquer envers les chrétiens mêmes et que les gens d’église sont obligés à l’enseigner aux petits enfants, parce que les pères et les parrains et marraines qui sont obligés de leur enseigner les choses de la foi ne s’en acquittent pas comme il faut, et qu’aussi plusieurs y seraient bien emipêchés eux-mêmes pour n’avoir pas aussi été instruits et 4ue, par ce moyen, la plus grande partie des âmes est au chemin de perdition. *Quicumque non crediderit condemnabitur. "`* (5)
+
+Et ne pensez pas que ce soit chose nouvelle en l’Eglise.
+
+2. Evangile de saint Marc XVI, 16.
+
+3. Epître aux Hébreux XI, 6.
+
+4. Symbole de saint Athanase.
+
+5. Evangile de saint Marc XVI, 16.
+
+Origène, qui, vivait bien l’an 200, sous Sévère, pratiquait le cathéchisme. Saint Basile, qui vivait sous Julien l’Apostat, 350 ; saint Ambroise, sous Théodose, 320 ; saint Augustin, sous Arcade et Honoré, l’an 400 ; et saint Cyrille Alexandrin, l’an 430, sous Valentinien III ; tous ceux-là ont enseigné le catéchisme, comme moi aujourd’hui, et ont fait des livres entiers, et cela pource qu’ayant considéré les chrétiens être les uns spirituels et les autres charnels, les charnels qui vaquaient beaucoup aux choses du corps et peu à celles de l’âme, et qu’il était aussi nécessaire pour les petits enfants. Mais que dis-je ? Notre-Seigneur même, le Fils de Dieu, n’a-t-il pas insinué d’instruire les petits enfants et de les catéchiser en quelque façon quand, en saint Matthieu, 19, il prêche les juifs et les apôtres, voulant empêcher les petits enfants d’aller à lui ? Il s’en prend garde et dit : *Sinite patvulos venire ad me et nolite prohibere eos, talium est enim regnum caelorum. *(6) Et les embrassant, il les bénissait. Il leur donne des anges gardiens ; *Angeli eorum semper vident faciem Patris* (7). Il les rend propres héritiers du ciel : *Talium, *etc… Il donne une peine notable à ceux qui les scandaliseront. Ceux qui les reçoivent le reçoivent lui-même. Qui sont des prérogatives qu’il a données aux petits enfants, si nous croyons à l’Evangile. *Amen, amen dico vobis, nisi conversi fueritis et efficiamini sicut parvuli isti, non intrabilis in regnum caelorum. Quicumque se humiliaverit sicut parvulus iste, major erit in regno caelorum. Qui autem susceperit unum parvulum in nomine meo me suscipit. Qui autem scandalizaverit unum de pusillis istis, expedit ei ut suspendatur mola asinaria in collo ejus. *(8) Pour la nécessité, chacun la connaît ; je vous en ferai
+
+6). Evangile de saint Matthieu XIX, 14.
+
+7). Evangile de saint Matthieu XVIII, 10.
+
+8). Evangile de saint Matthieu XVIII, 3-6.
+
+vous-mêmes juges, savoir si tous savent ce qu’il faut qu’ils croient. N’est-il pas vrai que l’ignorance est si grande, que je me suis trouvé avec des personnes chrétiennes et catholiques auxquels j’ai demandé s’ils savaient les com~mandements de Dieu, qui répondaient qu’ils n’avaient jamais été à l’école, et d’autres au’ils les savaient bien lire dans les heures ? O ignorance crasse ! O aveuglement du diable que nous soyons venus jusques à ce point qu’un chrétien ne sache Ipoint en qui il croit !
+
+Quand il n’y aurait autre chose sinon que nous voyons que les huguenots, nos ennemis, nous ont ôté les armes des poings pour nous en ruiner, ne devrions-nous point les reprendre pour nous en défendre ? Car savez-vous avec quel soin ils l’enseignent et l’apprennent ? Ils l’ont tel, qu’ils l’enseignent tous les dimanches, l’après-dînée, à leurs enfants, et les enseignent de façon qu’il n’y a celui qui ne rende raison de sa foi et qui n’en dispute pertinemment, ou, pour mieux dire, pertinacement (?). Ceux qui sont piqués de l’aspic reprennent le même aspic et l’écrasent sur la plaie et guérissent par ce moyen. Les huguenots se servent du catéchisme pour ruiner notre foi. Reprenons le même catéchisme et l’écrasons sur la plaie.
+
+L’utilité en est infinie. Premièrement, le catéchisme nous enseigne la foi. Il nous fait mettre nos espérances en Dieu en nos adversités. Il nous fait aimer et craindre Dieu et notre prochain, nous assure contre les tentations du diable, nous rend assurés contre les ennemis de la foi et finalement nous obtient le paradis.
+
+Et surtout, pères et mères, apprenez que vos enfants vous seront beaucoup plus obéissants qu’ils ne sont. Comment pensez-vous que l’Italie ait conservé la foi en sa pureté, que par le catéchisme ? Et comment l’Espagne ? Et comment le Canada, le Pérou et le Brésil sont [-ils] réduits à la foi, que par le c. atéchisme ? Comment, d’ailleurs, pensez-vous que l’on conserve la foi en France, où il y a des huguenots, que par le catéchisme, comme à La Rochelle ? O chose digne d’un grand peuple ! Il y a à La Rochelle environ 1500 catholiques, et tout le reste de la religion. Ces catholiques ne savaient en qui ils croyaient il y a quinze ou seize ans jusques à ce que Dieu y envoyât un bon docteur, qui commença à catéchlser les enfants, et a fait si bien peu à peu, par la grâce de Dieu et de ce petit catéchisme, qu’il a rendu ce peuple si bien, que j’ai honte moi-même, lorsque je me trouve parmi eux et vois qu’ils me surpassent beau, coup en charité.
+
+L’on qn’objectera : "Qu’avons-nous à faire de votre catéchisme ? Nous sommes chrétiens, car nous allons à l’église, nous entendons la messe, vêpres ; nous nous confessons à Pâques ; qu’est-il besoi. n d’autre chose ?" Que je n’ai point trouvé en toute la Sainte Ecriture qu’il soit assez à un chrétien d’ouïr la messe, vêpres et se confesser, et que j’y ai trouvé que quiconque ne croit à tout ce qui appartient à la foi n’est pas sauvé. Et puis quel fruit tire de la messe celui qui ne sait pas ce que c’est, ni de la confession celui qui ne sait en quoi elle consiste ?
+
+La disposition qu’il faut de notre côté, c’est celle qu’il faut à un vase pour conserver la liqueulr en sa bonté. Il faut premièrement que le vase soit net, en terre et bouché. Vos cœurs sont des vases, et la doctrine chrétienne la liqueur. Comme le vase qui a des ordures dedans, ne conservera la liqueur en sa pureté, de même l’enfant superbe, gourmand et opiniâtre ne conservera point la doctrine en sa pureté. Si le vase est fendu, la liqueur verse. Ainsi, si, quand vous êtes au catéchisme, vous pensez à autre chose, vous êtes un vase fendu et tenez point ce qui vous est enseigné. Il faut donc que ceux qui voudront apprendre renoncent aux vices et aux péchés, qui sont comme des ordures de l’âme, et dans peu de temps ils loueront Dieu d’avoir appris ce qu’ils apprendront et ne voudraient pour tout ce qui est au monde.
+
+Partant donc j exhorte les pères et mères qui sont ici présents et qui ont des enfants de les y envoyer et d’y venir eux-mêmes, pensant au regret que vous aurez un jour si vous et vos enfants êtes damnés, faute de savoir ce qui est nécessaire de savoir, en ayant même le moyen si facile.
+
+L’ordre que je tiendrai pour enseigner sera si facile qu’un chacun en sera capable, aussi bien les indoctes comme les doctes et les petits comme les grands, rejetant toute sorte de questions vaines et inutiles et toutes enquêtes même superflues.
+
+La question est d’un docteur qui demande à un enfant s’il est chrétien. L’enfant répond qu’oui, par la grâce de Dieu. Vous, chers petits enfants, quand vous dites qu’oui, par la grâce de Dieu, [vous dites] que c’est Dieu seul qui vous a faits chrétiens, par sa grâce, et non pas que vous l’ayez mérité, ni que ce n’est pas votre père qui vous a faits chrétiens, mais que vous en avec l’obligation à Dieu seul, qui vous pouvait faire naître d’un paien. Vous apprendrez aussi que ce n’est pas la doctrine d’un homme qui le fait chrétien, mais Dieu.
+
+Gratia Dei sum id quod sum.
