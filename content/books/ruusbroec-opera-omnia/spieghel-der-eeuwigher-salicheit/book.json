@@ -1,0 +1,198 @@
+{
+  "id": "ruusbroec-spieghel-der-eeuwigher-salicheit",
+  "cover": "classic",
+  "name": {
+    "dum": "Die spieghel der ewigher salicheit",
+    "en-US": "The Mirror of Eternal Blessedness",
+    "pt-BR": "O Espelho da Bem-aventurança Eterna"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Ruusbroecs traktaat voor een kloosterzuster over de Eucharistie en de standen van het innige leven. Middelnederlandse tekst van J. B. David (1860).",
+    "en-US": "Ruusbroec's treatise, written for a nun, on Holy Communion and the stages of the interior life. The Middle Dutch text of J. B. David (1860).",
+    "pt-BR": "Tratado de Ruusbroec, escrito para uma religiosa, sobre a Sagrada Comunhão e os graus da vida interior. Texto em neerlandês médio de J. B. David (1860)."
+  },
+  "composed": "c. 1359",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/spieghel-der-eeuwigher-salicheit",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1860
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae03_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 3: Die spieghel der ewigher salicheit. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1860).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Hoemen verstaen sal sijn leringhe"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Die ierste partye van beghinnende menschen"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Dit is vander ander pertien van menschen in een voirtgaende leven"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Hoe men dat Sacrament ontfaen sal"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Van vijf punten des heilighen Sacraments"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. Van materien ende formen des heylichs Sacraments"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Wise ende maniere hoe Christus hem selven gaf in den heilighen Sacramente"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Vier punten vander ewigher minnen Gods"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Sake ende waer omme dat Christus hem selven gaf bedect ende verborghen in den heylighen Sacramente, niet openbaer inder formen alsoe hi doe was op ertrike, ende nu is inden hemel"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. Ondersceit der personen die ten heylighen Sacramente gaen, sommigbe in ewigher salicheit, ende selke tot hare ewigher verdoemenissen"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. Vander ander partien van menschen"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. Vander derder partyen van menschen"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. Vander vierder partyen van menscen"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. Vander vijfter partien van menschen"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "dum": "XV. Vander sester partyen van menschen"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "dum": "XVI. Vander sevender partyen van menschen"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "dum": "XVII. Van bescouwende leven, ende ierst vanden gheesteliken levende leven, dat binnen ons is"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "dum": "XVIII. Vanden vernietenden levene in minnen"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "dum": "XIX. Van ledighen state in eenvoldighen aert ende puerheit van gheeste"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "dum": "XX. Vander edelheit ende vander groter macht ons Heren Jhesn Christi"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "dum": "XXI. Van rechten bescouwene, met verclaringhe vanden levenden levene"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "dum": "XXII. Die verclaringhe vander naturen des levens"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "dum": "XXIII. Vander oefeninghen des levenden levens"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "dum": "XXIV. Vanden wesene des levenden levens"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "dum": "XXV. Vanden overwesene des levenden levens"
+      }
+    }
+  ]
+}
