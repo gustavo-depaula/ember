@@ -1,0 +1,273 @@
+{
+  "id": "sales-sermons-ix",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Sermons de saint François de Sales, tome IX",
+    "en-US": "Sermons of St. Francis de Sales, vol. IX",
+    "pt-BR": "Sermões de São Francisco de Sales, tomo IX"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les sermons du tome IX de l’édition d’Annecy (vol. III des Sermons, 1593-1622), un sermon par chapitre, en orthographe d’époque.",
+    "en-US": "The sermons in volume IX of the Annecy edition (Sermons, vol. III; 1593-1622), one sermon per chapter, in period spelling.",
+    "pt-BR": "Os sermões do tomo IX da edição de Annecy (1593-1622)."
+  },
+  "composed": "1593-1622",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/sermons-ix",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1898
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. IX: Sermons, 1896-1898 (file 09), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original 17th-century spelling, extracted from the PDF text layer (layout mode). Marginal references, variants and footnotes, the editors’ introductions and tables are not included. Sermon titles come from the headings and dates printed above each sermon.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-001",
+      "title": {
+        "fr-FR": "Sermon pour la veille de Noël 24 décembre 1613"
+      }
+    },
+    {
+      "id": "sermon-002",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint blaise sur le mystère"
+      }
+    },
+    {
+      "id": "sermon-003",
+      "title": {
+        "fr-FR": "Sermon pour le deuxième dimanche de Carême 23 février 1614"
+      }
+    },
+    {
+      "id": "sermon-004",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche des Rameaux 23 mars 1614"
+      }
+    },
+    {
+      "id": "sermon-005",
+      "title": {
+        "fr-FR": "Sermon pour le vendredi-saint (c 28 mars 1614"
+      }
+    },
+    {
+      "id": "sermon-006",
+      "title": {
+        "fr-FR": "Sermon pour le troisième dimanche de Carême 22 mars 1615"
+      }
+    },
+    {
+      "id": "sermon-007",
+      "title": {
+        "fr-FR": "Sermon pour le quatrième dimanche de Carême 29 mars 1615"
+      }
+    },
+    {
+      "id": "sermon-008",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche de la passion 5 avril 1615"
+      }
+    },
+    {
+      "id": "sermon-009",
+      "title": {
+        "fr-FR": "Sermon pour le dimanche des Rameaux 12 avril 1615"
+      }
+    },
+    {
+      "id": "sermon-010",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint jean porte-latine 6 mai 1616 ou 1617"
+      }
+    },
+    {
+      "id": "sermon-011",
+      "title": {
+        "fr-FR": "Sermon de profession 29 septembre 1617"
+      }
+    },
+    {
+      "id": "sermon-012",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Toussaint ier novembre 1617"
+      }
+    },
+    {
+      "id": "sermon-013",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Présentation de la sainte Vierge 21 novembre 1617"
+      }
+    },
+    {
+      "id": "sermon-014",
+      "title": {
+        "fr-FR": "Sermon de profession"
+      }
+    },
+    {
+      "id": "sermon-015",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Visitation de la sainte Vierge 2 juillet 1618"
+      }
+    },
+    {
+      "id": "sermon-016",
+      "title": {
+        "fr-FR": "Sermon pour la fête de l’Assomption - * de la sainte Vierge 15 août 1618"
+      }
+    },
+    {
+      "id": "sermon-017",
+      "title": {
+        "fr-FR": "Sermon pour le dix-septième dimanche après la Pentecôte"
+      }
+    },
+    {
+      "id": "sermon-018",
+      "title": {
+        "fr-FR": "Sermon pour üne vêture 9 octobre 1618"
+      }
+    },
+    {
+      "id": "sermon-019",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint côme et de saint damien 27 septembre 1619"
+      }
+    },
+    {
+      "id": "sermon-020",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Présentation de la sainte Vierge 21 novembre 1619"
+      }
+    },
+    {
+      "id": "sermon-021",
+      "title": {
+        "fr-FR": "Sermon de profession t pour la fête de saint ambroise 7 décembre 1619 d"
+      }
+    },
+    {
+      "id": "sermon-022",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Purification ï a février 1620"
+      }
+    },
+    {
+      "id": "sermon-023",
+      "title": {
+        "fr-FR": "Sermon pour le vendredi-saint t 17 avril 1620"
+      }
+    },
+    {
+      "id": "sermon-024",
+      "title": {
+        "fr-FR": "Sermon pour le mardi de Pâques 21 avril 1620"
+      }
+    },
+    {
+      "id": "sermon-025",
+      "title": {
+        "fr-FR": "Sermon de véture"
+      }
+    },
+    {
+      "id": "sermon-026",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Pentecôte 7 juin 1620"
+      }
+    },
+    {
+      "id": "sermon-027",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint augustin 28 août 1620"
+      }
+    },
+    {
+      "id": "sermon-028",
+      "title": {
+        "fr-FR": "Sermon dé vêture et de profession 10 septembre 1620"
+      }
+    },
+    {
+      "id": "sermon-029",
+      "title": {
+        "fr-FR": "Sermon pour une veture 17 octobre 1620"
+      }
+    },
+    {
+      "id": "sermon-030",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Toussaint icr novembre 1620"
+      }
+    },
+    {
+      "id": "sermon-031",
+      "title": {
+        "fr-FR": "Sermon pour la fête de la Présentation de la sainte Vierge 21 novembre 1620"
+      }
+    },
+    {
+      "id": "sermon-032",
+      "title": {
+        "fr-FR": "Sermon pour le deuxième dimanche de l’avent 6 décembre 1620"
+      }
+    },
+    {
+      "id": "sermon-033",
+      "title": {
+        "fr-FR": "Sermon pour le troisième dimanche de l’avent 13 décembre 1620"
+      }
+    },
+    {
+      "id": "sermon-034",
+      "title": {
+        "fr-FR": "Sermon pour le quatrième dimanche de l’a vent 20 décembre 1620"
+      }
+    },
+    {
+      "id": "sermon-035",
+      "title": {
+        "fr-FR": "Sermon pour la veille de Noël 24 décembre 1620"
+      }
+    },
+    {
+      "id": "sermon-036",
+      "title": {
+        "fr-FR": "Sermon sur le premier verset du cantique des cantiques (d meliora sunt ubera tua vino, fragran­ tia unguentis optimis"
+      }
+    },
+    {
+      "id": "sermon-037",
+      "title": {
+        "fr-FR": "Sermons recueillis par les religieuses de la Visitation"
+      }
+    },
+    {
+      "id": "sermon-038",
+      "title": {
+        "fr-FR": "Sermons autographes"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
