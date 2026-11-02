@@ -1,0 +1,116 @@
+{
+  "id": "bossuet-ecrits-pour-les-nouveaux-catholiques",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Écrits pour les nouveaux catholiques",
+    "en-US": "Writings for the New Catholics",
+    "pt-BR": "Escritos para os novos católicos"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Lettre pastorale aux protestants convertis du diocèse de Meaux pour les exhorter à faire leurs Pâques, lettre sur l’adoration de la croix à un converti, et règlement des Filles de la propagation de la foi établies à Metz. Édition Lachat (1864).",
+    "en-US": "A pastoral letter to the converted Protestants of the diocese of Meaux exhorting them to make their Easter duties, a letter to a convert on the adoration of the cross, and the rule of the Daughters of the Propagation of the Faith established at Metz. Lachat edition (1864).",
+    "pt-BR": "Carta pastoral aos protestantes convertidos da diocese de Meaux para exortá-los a cumprir a Páscoa, carta sobre a adoração da cruz a um convertido, e regra das Filhas da Propagação da Fé estabelecidas em Metz. Edição Lachat (1864)."
+  },
+  "composed": "1686",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/ecrits-pour-les-nouveaux-catholiques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume017/005.htm to 007.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XVII, pages 005-007. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettre-pastorale",
+      "title": {
+        "fr-FR": "Lettre pastorale aux nouveaux catholiques de son diocèse, pour les exhorter à faire leurs Pâques"
+      }
+    },
+    {
+      "id": "adoration-de-la-croix",
+      "title": {
+        "fr-FR": "Lettre à un protestant converti, sur l’adoration de la croix"
+      }
+    },
+    {
+      "id": "reglement",
+      "title": {
+        "fr-FR": "Règlement pour les filles de la propagation de la foi, établies en la ville de Metz"
+      },
+      "children": [
+        {
+          "id": "reglement-chap-001",
+          "title": {
+            "fr-FR": "Préface"
+          }
+        },
+        {
+          "id": "reglement-chap-002",
+          "title": {
+            "fr-FR": "Chapitre Premier. Quel est rétablissement de ce séminaire, et des personnes qui doivent y être reçues"
+          }
+        },
+        {
+          "id": "reglement-chap-003",
+          "title": {
+            "fr-FR": "Chapitre II. Des vertus principales qui doivent être pratiquées dans le séminaire"
+          }
+        },
+        {
+          "id": "reglement-chap-004",
+          "title": {
+            "fr-FR": "Chapitre III. Pratiques de dévotion, et occupations de charité ordinaires dans la maison"
+          }
+        },
+        {
+          "id": "reglement-chap-005",
+          "title": {
+            "fr-FR": "Chapitre IV. Du gouvernement du séminaire, et de la police qui y sera gardée"
+          }
+        },
+        {
+          "id": "reglement-chap-006",
+          "title": {
+            "fr-FR": "Chapitre V. Du travail, ensemble du silence et de l'amour de la retraite"
+          }
+        },
+        {
+          "id": "reglement-chap-007",
+          "title": {
+            "fr-FR": "Chapitre VI. Des lieux réguliers et des officières de la maison"
+          }
+        },
+        {
+          "id": "reglement-chap-008",
+          "title": {
+            "fr-FR": "Chapitre VII Et Dernier. Distribution des heures du jour, suivant le précédent Règlement"
+          }
+        },
+        {
+          "id": "reglement-chap-009",
+          "title": {
+            "fr-FR": "Instruction"
+          }
+        }
+      ]
+    }
+  ]
+}
