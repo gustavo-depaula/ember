@@ -1,0 +1,45 @@
+{
+  "id": "fisher-sermon-against-luther",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermon Against the Pernicious Doctrine of Martin Luther",
+    "pt-BR": "Sermão Contra a Perniciosa Doutrina de Martinho Lutero"
+  },
+  "author": {
+    "en-US": "St. John Fisher",
+    "pt-BR": "São João Fisher"
+  },
+  "description": {
+    "en-US": "Fisher's sermon preached at St Paul's on 12 May 1521, when Luther's books were burned.",
+    "pt-BR": "O sermão de Fisher pregado em São Paulo a 12 de maio de 1521, quando os livros de Lutero foram queimados."
+  },
+  "composed": 1521,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fisher/sermon-against-luther",
+  "editions": {
+    "en-US": {
+      "editor": "John Fisher (London: 1521; EEBO-TCP A00771)",
+      "year": 1521
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A00771",
+      "edition": "This sermon ... agayn the pernicious doctrin of Martin Luther, EEBO-TCP A00771.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 4 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. John Fisher died in 1535; the edition is of 1521 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Quū venerit paracletus quem ego mittam vobis spiritū veritatis qui a patre procedit ille testimonium perhibe"
+      }
+    }
+  ]
+}

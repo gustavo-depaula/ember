@@ -1,0 +1,19 @@
+{
+ "id": "fisher-sermon-against-luther",
+ "dir": "fisher-opera-omnia/sermon-against-luther",
+ "slug": "sermon-against-luther",
+ "work": "fisher/sermon-against-luther",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00771.xml",
+ "name": "Sermon Against the Pernicious Doctrine of Martin Luther",
+ "name_pt": "Sermão Contra a Perniciosa Doutrina de Martinho Lutero",
+ "desc": "Fisher's sermon preached at St Paul's on 12 May 1521, when Luther's books were burned.",
+ "desc_pt": "O sermão de Fisher pregado em São Paulo a 12 de maio de 1521, quando os livros de Lutero foram queimados.",
+ "composed": 1521,
+ "editor": "John Fisher (London: 1521; EEBO-TCP A00771)",
+ "year": 1521,
+ "url": "https://github.com/textcreationpartnership/A00771",
+ "edition": "This sermon ... agayn the pernicious doctrin of Martin Luther, EEBO-TCP A00771."
+}
