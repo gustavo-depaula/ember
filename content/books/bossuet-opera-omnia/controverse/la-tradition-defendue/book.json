@@ -1,0 +1,394 @@
+{
+  "id": "bossuet-la-tradition-defendue-communion",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "La tradition défendue sur la matière de la communion sous une espèce",
+    "en-US": "Tradition Defended on the Matter of Communion under One Kind",
+    "pt-BR": "A tradição defendida sobre a comunhão sob uma só espécie"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Réponse de Bossuet au ministre Jurieu et à d’autres défenseurs de la communion sous les deux espèces : la tradition est nécessaire pour entendre le précepte, puis la longue suite d’exemples de communion sous une espèce (réserve eucharistique, communion des malades et des enfants, office des Présanctifiés). Publié en 1700. Édition Lachat (1864).",
+    "en-US": "Bossuet’s answer to the minister Jurieu and other defenders of communion under both kinds: tradition is needed to understand the precept, followed by a long series of examples of communion under one kind (eucharistic reservation, communion of the sick and of children, the Office of the Presanctified). Published in 1700. Lachat edition (1864).",
+    "pt-BR": "Resposta de Bossuet ao ministro Jurieu e a outros defensores da comunhão sob as duas espécies: a tradição é necessária para entender o preceito; segue-se a longa série de exemplos de comunhão sob uma espécie (reserva eucarística, comunhão dos doentes e das crianças, ofício dos Pré-santificados). Publicado em 1700. Edição Lachat (1864)."
+  },
+  "composed": "1700",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/la-tradition-defendue",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume016/009.htm to 010.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XVI, pages 009-010. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "premiere-partie",
+      "title": {
+        "fr-FR": "Première partie : que la tradition est nécessaire pour entendre le précepte de la communion sous une ou sous deux espèces"
+      },
+      "children": [
+        {
+          "id": "avertissement",
+          "title": {
+            "fr-FR": "Avertissement"
+          }
+        },
+        {
+          "id": "partie1-chap-001",
+          "title": {
+            "fr-FR": "Chapitre Premier. Premier argument tiré du baptême par infusion ou aspersion"
+          }
+        },
+        {
+          "id": "partie1-chap-002",
+          "title": {
+            "fr-FR": "Chapitre II. Du baptême des petits enfants: de celui qui est donné par les hérétiques: de celui qui est donné par les simples fidèles en cas de nécessité"
+          }
+        },
+        {
+          "id": "partie1-chap-003",
+          "title": {
+            "fr-FR": "Chapitre III. Second argument tiré de l'Eucharistie. Les protestants n'observent point dans la célébration de la Cène ce que Jésus-Christ a fait, et ils omettent plusieurs choses importantes"
+          }
+        },
+        {
+          "id": "partie1-chap-004",
+          "title": {
+            "fr-FR": "Chapitre IV. De la forme de l'Eucharistie: les protestants ne joignent pas la parole à l'action"
+          }
+        },
+        {
+          "id": "partie1-chap-005",
+          "title": {
+            "fr-FR": "Chapitre V. Que la seule tradition explique quel est le ministre de l'Eucharistie, et décide de la Communion des petits enfants"
+          }
+        },
+        {
+          "id": "partie1-chap-006",
+          "title": {
+            "fr-FR": "Chapitre VI. La Communion de ceux qui ne peuvent pas boire du vin: M. Jurieu abandonné, quoiqu'il soit le seul qui raisonne bien selon les principes communs des protestants. L'hydromel et ce qu'on mange au lieu de pain dans quelques pays, peuvent selon les protestants servir pour l'Eucharistie"
+          }
+        },
+        {
+          "id": "partie1-chap-007",
+          "title": {
+            "fr-FR": "Chapitre VII. De la prière pour les morts. Tradition rapportée dans le Traité de la Communion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "seconde-partie",
+      "title": {
+        "fr-FR": "Seconde partie : qu’il y a toujours dans l’Église chrétienne et catholique des exemples approuvés, et une tradition constante de la communion sous une espèce"
+      },
+      "children": [
+        {
+          "id": "partie2-chap-001",
+          "title": {
+            "fr-FR": "Chapitre Premier. Que l'examen de la tradition est nécessaire, et qu'il n'est ni impossible ni embarrassant: histoire de la Communion sous une espèce. Que, de l'aveu de nos adversaires, elle s'est établie sans contradiction"
+          }
+        },
+        {
+          "id": "partie2-chap-002",
+          "title": {
+            "fr-FR": "Chapitre II. Décret du concile de Constance: équité de ce décret"
+          }
+        },
+        {
+          "id": "partie2-chap-003",
+          "title": {
+            "fr-FR": "Chapitre III. Il n'y a que contention dans les discours des ministres: ils rejettent l'argument dont Pierre de Dresde et Jacobel se servaient pour autoriser leur révolte"
+          }
+        },
+        {
+          "id": "partie2-chap-004",
+          "title": {
+            "fr-FR": "Chapitre IV. Mépris de Luther et des premiers réformateurs, pour les défenseurs de la Communion sous les deux espèces"
+          }
+        },
+        {
+          "id": "partie2-chap-005",
+          "title": {
+            "fr-FR": "Chapitre V. La Communion sous une ou sous deux espèces reconnue indifférente dans la Confession d’Augsbourg"
+          }
+        },
+        {
+          "id": "partie2-chap-006",
+          "title": {
+            "fr-FR": "Chapitre VI. La Communion sous une ou sous deux espèces jugée égale, dès la première antiquité, du consentement unanime de tous les chrétiens"
+          }
+        },
+        {
+          "id": "partie2-chap-007",
+          "title": {
+            "fr-FR": "Chapitre VII. De la Communion domestique"
+          }
+        },
+        {
+          "id": "partie2-chap-008",
+          "title": {
+            "fr-FR": "Chapitre VIII. Pourquoi l'on a fait la réserve de l'Eucharistie plutôt sous l'espèce du pain que sous celle du vin: que les solitaires ne recevaient que l'espèce du pain"
+          }
+        },
+        {
+          "id": "partie2-chap-009",
+          "title": {
+            "fr-FR": "Chapitre IX. La réserve de l'Eucharistie aussi nécessaire pour tous les fidèles, surtout dans les temps de persécution, que pour les solitaires: on ne réservait que l'espèce du pain: preuves tirées de Tertullien et de l'histoire de saint Satyre"
+          }
+        },
+        {
+          "id": "partie2-chap-010",
+          "title": {
+            "fr-FR": "Chapitre X. Suite des preuves de la réserve sous la seule espèce du pain: saint Optat: Jean Moschus"
+          }
+        },
+        {
+          "id": "partie2-chap-011",
+          "title": {
+            "fr-FR": "Chapitre XI. Suite: Sacramentaire de Reims; dispute du cardinal Humbert avec les Grecs"
+          }
+        },
+        {
+          "id": "partie2-chap-012",
+          "title": {
+            "fr-FR": "Chapitre XII. Suite: Actes de saint Tharsice et des martyrs de Nicomédie"
+          }
+        },
+        {
+          "id": "partie2-chap-013",
+          "title": {
+            "fr-FR": "Chapitre XIII. Suite: Vie de sainte Eudoxe"
+          }
+        },
+        {
+          "id": "partie2-chap-014",
+          "title": {
+            "fr-FR": "Chapitre XIV. Communion des malades"
+          }
+        },
+        {
+          "id": "partie2-chap-015",
+          "title": {
+            "fr-FR": "Chapitre XV. De la Réserve"
+          }
+        },
+        {
+          "id": "partie2-chap-016",
+          "title": {
+            "fr-FR": "Chapitre XVI. De la Communion de saint Ambroise mourant"
+          }
+        },
+        {
+          "id": "partie2-chap-017",
+          "title": {
+            "fr-FR": "Chapitre XVII. Les ministres abusent de la synecdoque: deux raisons d'exclure cette figure des passages où le corps de Notre-Seigneur est nommé seul, et en particulier dans ceux où il s'agit de la Communion des mourants"
+          }
+        },
+        {
+          "id": "partie2-chap-018",
+          "title": {
+            "fr-FR": "Chapitre XVIII. Examen des endroits où il est parlé de la Réserve"
+          }
+        },
+        {
+          "id": "partie2-chap-019",
+          "title": {
+            "fr-FR": "Chapitre XIX. Suite de la même matière"
+          }
+        },
+        {
+          "id": "partie2-chap-020",
+          "title": {
+            "fr-FR": "Chapitre XX. Suite: examen d'un canon du deuxième concile de Tours"
+          }
+        },
+        {
+          "id": "partie2-chap-021",
+          "title": {
+            "fr-FR": "Chapitre XXI. Réflexions sur la prodigieuse opposition qui se trouve entre les premiers chrétiens et les protestants"
+          }
+        },
+        {
+          "id": "partie2-chap-022",
+          "title": {
+            "fr-FR": "Chapitre XXII. Réponses aux objections des ministres contre la réserve de l'Eucharistie"
+          }
+        },
+        {
+          "id": "partie2-chap-023",
+          "title": {
+            "fr-FR": "Chapitre XXIII. Qu'on n'a jamais réservé l'Eucharistie sous l'espèce du vin: réponse aux preuves que les ministres prétendent tirer de l'antiquité"
+          }
+        },
+        {
+          "id": "partie2-chap-024",
+          "title": {
+            "fr-FR": "Chapitre XXIV. Réponse aux preuves que les ministres prétendent tirer des modernes"
+          }
+        },
+        {
+          "id": "partie2-chap-025",
+          "title": {
+            "fr-FR": "Chapitre XXV. Examen des passages de Baronius"
+          }
+        },
+        {
+          "id": "partie2-chap-026",
+          "title": {
+            "fr-FR": "Chapitre XXVI. Examen de quelques autres endroits où M. de la Roque a cru trouver la réserve de l'Eucharistie sous les deux espèces pour la Communion des malades"
+          }
+        },
+        {
+          "id": "partie2-chap-027",
+          "title": {
+            "fr-FR": "Chapitre XXVII. Examen des Sacramentaires du Père Ménard"
+          }
+        },
+        {
+          "id": "partie2-chap-028",
+          "title": {
+            "fr-FR": "Chapitre XXVIII. Examen d'un canon d'un concile de Tours"
+          }
+        },
+        {
+          "id": "partie2-chap-029",
+          "title": {
+            "fr-FR": "Chapitre XXIX. Les pénitents n'étaient pas les seuls qu'on communiait dans la maladie, il était ordinaire de donner la Communion à tous les malades"
+          }
+        },
+        {
+          "id": "partie2-chap-030",
+          "title": {
+            "fr-FR": "Chapitre XXX. Communion des enfants sous la seule espèce du vin: chicanes des ministres sur le passage de saint Cyprien: passages de saint Augustin, de saint Paulin, de Gennade"
+          }
+        },
+        {
+          "id": "partie2-chap-031",
+          "title": {
+            "fr-FR": "Chapitre XXXI. Passage de Jobius, auteur grec"
+          }
+        },
+        {
+          "id": "partie2-chap-032",
+          "title": {
+            "fr-FR": "Chapitre XXXII. De la nécessité de la Communion des petits enfants: si elle a été crue dans l'ancienne Eglise, et si en tout cas elle fait quelque chose contre nous en cette occasion"
+          }
+        },
+        {
+          "id": "partie2-chap-033",
+          "title": {
+            "fr-FR": "Chapitre XXXIII. De la Communion donnée sous la seule espèce du pain aux enfants plus avancés en âge: histoire rapportée par Evagrius et par Grégoire de Tours: second concile de Mâcon"
+          }
+        },
+        {
+          "id": "partie2-chap-034",
+          "title": {
+            "fr-FR": "Chapitre XXXIV. De la Communion sous une espèce dans l'office public de l'Eglise"
+          }
+        },
+        {
+          "id": "partie2-chap-035",
+          "title": {
+            "fr-FR": "Chapitre XXXV. Le l'Office des Présanctifiés parmi les Grecs: définition de cet office par M. de la Roque, et ses deux différences d'avec le sacrifice parfait"
+          }
+        },
+        {
+          "id": "partie2-chap-036",
+          "title": {
+            "fr-FR": "Chapitre XXXVI. Antiquité de l'Office des Présanctifiés"
+          }
+        },
+        {
+          "id": "partie2-chap-037",
+          "title": {
+            "fr-FR": "Chapitre XXXVII. Le corps et le sang nommes, quoiqu'il n'y ait qu'une espèce, parce que leur substance et leur vertu sont inséparables"
+          }
+        },
+        {
+          "id": "partie2-chap-038",
+          "title": {
+            "fr-FR": "Chapitre XXXVIII. De l'Office des présanctifiés parmi les Latins"
+          }
+        },
+        {
+          "id": "partie2-chap-039",
+          "title": {
+            "fr-FR": "Chapitre XXXIX. Que le vin n'est point consacré par le mélange du corps"
+          }
+        },
+        {
+          "id": "partie2-chap-040",
+          "title": {
+            "fr-FR": "Chapitre XL. Réponses aux preuves des ministres: Ordre romain"
+          }
+        },
+        {
+          "id": "partie2-chap-041",
+          "title": {
+            "fr-FR": "Chapitre XLI. Suite des Réponses aux preuves des ministres; premier concile d'Orange"
+          }
+        },
+        {
+          "id": "partie2-chap-042",
+          "title": {
+            "fr-FR": "Chapitre XLII. Ce que signifie le mot sanctifié dans l’Ordre romain"
+          }
+        },
+        {
+          "id": "partie2-chap-043",
+          "title": {
+            "fr-FR": "Chapitre XLIII. La nouvelle manière de consacrer, imaginée par les ministres, est sans fondement, et ils n'en peuvent tirer aucun avantage"
+          }
+        },
+        {
+          "id": "partie2-chap-044",
+          "title": {
+            "fr-FR": "Chapitre XLIV. Amalarius et l'abbé Rupert n'autorisent pas la consécration par le mélange"
+          }
+        },
+        {
+          "id": "partie2-chap-045",
+          "title": {
+            "fr-FR": "Chapitre XLV. La coutume de mêler de sang de Notre-Seigneur avec du vin n'a jamais été approuvée: dans les églises où l'on communiait le Vendredi saint sous les deux espèces, elles étaient toutes deux réservées de la veille"
+          }
+        },
+        {
+          "id": "partie2-chap-046",
+          "title": {
+            "fr-FR": "Chapitre XLVI. Absurdités et excès de l’Anonyme pour trouver la consécration du vin dans l'office du Vendredi saint"
+          }
+        },
+        {
+          "id": "partie2-chap-047",
+          "title": {
+            "fr-FR": "Chapitre XLVII. Il est absurde de prétendre que la consécration se fait dans l'office du Vendredi saint par le Pater"
+          }
+        },
+        {
+          "id": "partie2-chap-048",
+          "title": {
+            "fr-FR": "Chapitre XLVIII. Dans l'office des Présanctifiés des Grecs, il n'y a aucune prière à laquelle on puisse attribuer la consécration: la doctrine constante des Grecs et des Latins est que la consécration du calice, comme celle du pain, se fait par les paroles de Jésus-Christ"
+          }
+        }
+      ]
+    }
+  ]
+}
