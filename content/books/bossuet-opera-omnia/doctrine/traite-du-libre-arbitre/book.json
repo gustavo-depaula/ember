@@ -1,0 +1,108 @@
+{
+  "id": "bossuet-traite-du-libre-arbitre",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Traité du libre arbitre",
+    "en-US": "Treatise on Free Will",
+    "pt-BR": "Tratado do livre-arbítrio"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Comment accorder la liberté de l’homme avec la providence et les décrets de Dieu : la liberté est connue naturellement, Dieu gouverne cependant nos volontés, et Bossuet propose quatre moyens de concilier ces deux vérités. Composé pour l’éducation du Dauphin, publié en 1731. Édition Lachat (1864).",
+    "en-US": "How to reconcile human freedom with God’s providence and decrees: freedom is known naturally, yet God governs our wills, and Bossuet proposes four ways of reconciling the two truths. Composed for the education of the Dauphin and published in 1731. Lachat edition (1864).",
+    "pt-BR": "Como conciliar a liberdade do homem com a providência e os decretos de Deus: a liberdade é conhecida naturalmente, e no entanto Deus governa nossas vontades; Bossuet propõe quatro meios de conciliar as duas verdades. Composto para a educação do Delfim e publicado em 1731. Edição Lachat (1864)."
+  },
+  "composed": "1677",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/traite-du-libre-arbitre",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume023/011.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXIII, page 011. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapitre-001",
+      "title": {
+        "fr-FR": "Chapitre Premier. Définition de la liberté dont il s'agit. Différence entre ce qui est permis, ce qui est volontaire, et ce qui est libre"
+      }
+    },
+    {
+      "id": "chapitre-002",
+      "title": {
+        "fr-FR": "Chapitre II. Que cette liberté est dans l'homme, et que nous connaissons cela naturellement"
+      }
+    },
+    {
+      "id": "chapitre-003",
+      "title": {
+        "fr-FR": "Chapitre III. Que nous connaissons naturellement que Dieu gouverne notre liberté, et ordonne de nos actions"
+      }
+    },
+    {
+      "id": "chapitre-004",
+      "title": {
+        "fr-FR": "Chapitre IV. Que la raison seule nous oblige à croire ces deux vérités, quand même nous ne pourrions trouver le moyen de les accorder ensemble"
+      }
+    },
+    {
+      "id": "chapitre-005",
+      "title": {
+        "fr-FR": "Chapitre V. Divers moyens pour accorder ces deux vérités. — Premier moyen: mettre dans le volontaire l'essence de la liberté. Raisons décisives qui combattent cette opinion"
+      }
+    },
+    {
+      "id": "chapitre-006",
+      "title": {
+        "fr-FR": "Chapitre VI. Second moyen pour accorder notre liberté avec la certitude des décrets de Dieu: la science moyenne ou conditionnée. Faiblesse de cette opinion"
+      }
+    },
+    {
+      "id": "chapitre-007",
+      "title": {
+        "fr-FR": "Chapitre VII. Troisième moyen pour accorder notre liberté avec les décrets de Dieu: la contempération et la suavité, ou la délectation qu'on appelle victorieuse. Insuffisance de ce moyen"
+      }
+    },
+    {
+      "id": "chapitre-008",
+      "title": {
+        "fr-FR": "Chapitre VIII. Quatrième et dernier moyen pour accorder notre liberté avec les décrets de Dieu: la prémotion et la prédétermination physique. Elle sauve parfaitement notre liberté et notre dépendance de Dieu"
+      }
+    },
+    {
+      "id": "chapitre-009",
+      "title": {
+        "fr-FR": "Chapitre IX. Objections et réponses, où l'on compare l'action libre de la volonté avec les autres actions qu'on attribue à l’âme, et avec celles qu'on attribue au corps"
+      }
+    },
+    {
+      "id": "chapitre-010",
+      "title": {
+        "fr-FR": "Chapitre X. La différence des deux états de la nature humaine, innocente et corrompue, assignée scion les principes posés"
+      }
+    },
+    {
+      "id": "chapitre-011",
+      "title": {
+        "fr-FR": "Chapitre XI. Des actions mauvaises, et de leurs causes"
+      }
+    }
+  ]
+}
