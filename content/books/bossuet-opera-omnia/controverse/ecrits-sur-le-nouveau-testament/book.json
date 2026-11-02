@@ -1,0 +1,226 @@
+{
+  "id": "bossuet-ecrits-sur-le-nouveau-testament",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Écrits sur le Nouveau Testament : Réflexions morales et version de Trévoux",
+    "en-US": "Writings on the New Testament: the Moral Reflections and the Trévoux Version",
+    "pt-BR": "Escritos sobre o Novo Testamento: Reflexões morais e versão de Trévoux"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "L’Avertissement qui accompagne les Réflexions morales du P. Quesnel sur le Nouveau Testament (1699) et les deux Instructions sur la version du Nouveau Testament imprimée à Trévoux, par Richard Simon (1702-1703). Édition Lachat (1862).",
+    "en-US": "The Warning that accompanies Father Quesnel’s Moral Reflections on the New Testament (1699) and the two Instructions on the New Testament version printed at Trévoux, by Richard Simon (1702-03). Lachat edition (1862).",
+    "pt-BR": "O Aviso que acompanha as Reflexões morais do P. Quesnel sobre o Novo Testamento (1699) e as duas Instruções sobre a versão do Novo Testamento impressa em Trévoux, de Richard Simon (1702-1703). Edição Lachat (1862)."
+  },
+  "composed": "1699",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/ecrits-sur-le-nouveau-testament",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume003/001.htm, 003.htm, 006.htm, 010.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume III, pages 001, 003, 006 and 010. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "reflexions-morales",
+      "title": {
+        "fr-FR": "Avertissement sur le livre des Réflexions morales"
+      },
+      "children": [
+        {
+          "id": "reflexions-morales-001",
+          "title": {
+            "fr-FR": "§1. De l'utilité de ces Réflexions, et pourquoi on les publia dans le diocèse de Châlons"
+          }
+        },
+        {
+          "id": "reflexions-morales-002",
+          "title": {
+            "fr-FR": "§ II. Nouveaux soins dans la translation de M. de Châlons à Paris. Un libelle scandaleux est publié, et quel en est le dessein"
+          }
+        },
+        {
+          "id": "reflexions-morales-003",
+          "title": {
+            "fr-FR": "§ III. Malicieuse suppression des passages, où les Réflexions morales expriment très-clairement la résistance à la grâce"
+          }
+        },
+        {
+          "id": "reflexions-morales-004",
+          "title": {
+            "fr-FR": "§IV. Suppression, autant affectée, des passages où il est dit que la grâce ne nécessite pas"
+          }
+        },
+        {
+          "id": "reflexions-morales-005",
+          "title": {
+            "fr-FR": "§V. Si c'est induire une grâce nécessitante que de dire qu'on ne peut pas résister à la volonté de Dieu"
+          }
+        },
+        {
+          "id": "reflexions-morales-006",
+          "title": {
+            "fr-FR": "§ VI. Que la doctrine de saint Augustin sur la grâce qu'on nomme efficace et victorieuse, est nécessaire à la piété"
+          }
+        },
+        {
+          "id": "reflexions-morales-007",
+          "title": {
+            "fr-FR": "§ VII. Objection qu'on fait à l'auteur sur la grâce de Jésus-Christ"
+          }
+        },
+        {
+          "id": "reflexions-morales-008",
+          "title": {
+            "fr-FR": "§ viii. Doctrine du livre des Réflexions morales contre l'impossibilité des commandements de Dieu"
+          }
+        },
+        {
+          "id": "reflexions-morales-009",
+          "title": {
+            "fr-FR": "§ IX. Doctrine de saint Augustin et de l'Ecole de saint Thomas sur le pouvoir, et qu'il y a un pouvoir qui n'est que le vouloir même"
+          }
+        },
+        {
+          "id": "reflexions-morales-010",
+          "title": {
+            "fr-FR": "§ X. Doctrine de saint Augustin sur la possibilité d'éviter les péchés véniels"
+          }
+        },
+        {
+          "id": "reflexions-morales-011",
+          "title": {
+            "fr-FR": "§XI. Sur le don de persévérance, deux décisions du concile de Trente et doctrine de saint Augustin"
+          }
+        },
+        {
+          "id": "reflexions-morales-012",
+          "title": {
+            "fr-FR": "§ XII. Sur les paroles de Notre-Seigneur: Nul ne peut venir à moi, si mon Père ne le tire"
+          }
+        },
+        {
+          "id": "reflexions-morales-013",
+          "title": {
+            "fr-FR": "§ xiii. Ce que c'est d'être laissé à soi-même, dans saint Pierre et dans les autres justes qui tombent dans le péché"
+          }
+        },
+        {
+          "id": "reflexions-morales-014",
+          "title": {
+            "fr-FR": "§ XIV. Récapitulation de la doctrine des Réflexions morales, et conclusion de ce qui regarde la chute de saint Pierre et des autres justes"
+          }
+        },
+        {
+          "id": "reflexions-morales-015",
+          "title": {
+            "fr-FR": "§ XV. Sur le principe de foi, que Dieu ne délaisse que ceux qui le délaissent les premiers"
+          }
+        },
+        {
+          "id": "reflexions-morales-016",
+          "title": {
+            "fr-FR": "§ XVI. Sur la volonté de sauver tous les hommes"
+          }
+        },
+        {
+          "id": "reflexions-morales-017",
+          "title": {
+            "fr-FR": "§ xvii. Sur le don de la foi, et s'il est donné à tous"
+          }
+        },
+        {
+          "id": "reflexions-morales-018",
+          "title": {
+            "fr-FR": "§ xviii. Rétablissement d'une preuve de la divinité de Jésus-Christ, qui avait été affaiblie dans les versions de l'Evangile"
+          }
+        },
+        {
+          "id": "reflexions-morales-019",
+          "title": {
+            "fr-FR": "§XIX. Sur les endroits où il est dit que sans la grâce on ne peut faire que le mal"
+          }
+        },
+        {
+          "id": "reflexions-morales-020",
+          "title": {
+            "fr-FR": "§ XX. Sur les vertus théologales, en tant que séparées de la charité"
+          }
+        },
+        {
+          "id": "reflexions-morales-021",
+          "title": {
+            "fr-FR": "§ XXI. Sur la crainte de l'enfer, et sur le commencement de l'amour de Dieu"
+          }
+        },
+        {
+          "id": "reflexions-morales-022",
+          "title": {
+            "fr-FR": "§ xxii. Sur les excommunications et les persécutions des serviteurs de Dieu"
+          }
+        },
+        {
+          "id": "reflexions-morales-023",
+          "title": {
+            "fr-FR": "§ xxiii. Sur les membres de Jésus-Christ"
+          }
+        },
+        {
+          "id": "reflexions-morales-024",
+          "title": {
+            "fr-FR": "§ xxiv. Sur l'état de pure nature"
+          }
+        },
+        {
+          "id": "reflexions-morales-025",
+          "title": {
+            "fr-FR": "§ XXV. Conclusion et répétition importante des principes fondamentaux de la grâce"
+          }
+        }
+      ]
+    },
+    {
+      "id": "version-de-trevoux",
+      "title": {
+        "fr-FR": "Instructions sur la version du Nouveau Testament de Trévoux"
+      },
+      "children": [
+        {
+          "id": "premiere-instruction",
+          "title": {
+            "fr-FR": "Première instruction : sur le dessein et le caractère du traducteur"
+          }
+        },
+        {
+          "id": "seconde-instruction",
+          "title": {
+            "fr-FR": "Seconde instruction : sur les passages particuliers de la version du Nouveau Testament imprimée à Trévoux"
+          }
+        }
+      ]
+    }
+  ]
+}
