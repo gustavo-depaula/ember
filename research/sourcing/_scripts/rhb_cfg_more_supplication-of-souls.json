@@ -1,0 +1,21 @@
+{
+ "id": "more-supplication-of-souls",
+ "dir": "more-opera-omnia/supplication-of-souls",
+ "slug": "supplication-of-souls",
+ "work": "more/supplication-of-souls",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A68478.xml",
+ "name": "The Supplication of Souls",
+ "name_pt": "A Suplicação das Almas",
+ "desc": "More's answer of 1529 to Simon Fish's Supplication of Beggars, in the person of the souls in purgatory: a defence of prayer for the dead and of the clergy.",
+ "desc_pt": "A resposta de More (1529) à Suplicação dos Mendigos de Simon Fish, na pessoa das almas do purgatório: uma defesa da oração pelos mortos e do clero.",
+ "composed": 1529,
+ "editor": "Thomas More (London: William Rastell, 1529)",
+ "year": 1529,
+ "url": "https://github.com/textcreationpartnership/A68478",
+ "edition": "The supplycacyon of soulys (London: 1529), EEBO-TCP A68478.",
+ "front": true,
+ "parts": true
+}

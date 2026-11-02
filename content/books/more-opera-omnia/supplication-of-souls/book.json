@@ -1,0 +1,57 @@
+{
+  "id": "more-supplication-of-souls",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Supplication of Souls",
+    "pt-BR": "A Suplicação das Almas"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's answer of 1529 to Simon Fish's Supplication of Beggars, in the person of the souls in purgatory: a defence of prayer for the dead and of the clergy.",
+    "pt-BR": "A resposta de More (1529) à Suplicação dos Mendigos de Simon Fish, na pessoa das almas do purgatório: uma defesa da oração pelos mortos e do clero."
+  },
+  "composed": 1529,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/supplication-of-souls",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: William Rastell, 1529)",
+      "year": 1529
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A68478",
+      "edition": "The supplycacyon of soulys (London: 1529), EEBO-TCP A68478.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 369 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1529 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Chapter 2"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "The ſeconde boke"
+      }
+    }
+  ]
+}
