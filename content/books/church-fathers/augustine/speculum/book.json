@@ -1,0 +1,99 @@
+{
+  "id": "augustine-speculum",
+  "cover": "quarter",
+  "name": {
+    "la": "Speculum (De scriptura sacra) [doubtful]",
+    "en-US": "The Mirror (On Sacred Scripture) [doubtful]",
+    "pt-BR": "O Espelho (Sobre a Sagrada Escritura) [duvidoso]"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Speculum (De scriptura sacra) [doubtful]. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "The Mirror (On Sacred Scripture) [doubtful], by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "O Espelho (Sobre a Sagrada Escritura) [duvidoso], de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "date uncertain",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/speculum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/speculum/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages speculum of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 1–58"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 59–134"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 135–219"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 220–255"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 256–289"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 290–327"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 328–365"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 366–405"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Speculum (De scriptura sacra) [doubtful], Capita 406–429"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
