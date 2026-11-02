@@ -2,18 +2,29 @@
   "id": "augustine-christian-doctrine",
   "cover": "quarter",
   "name": {
+    "la": "De doctrina christiana",
     "en-US": "Christian Doctrine",
     "pt-BR": "A Doutrina Cristã"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo",
     "pt-BR": "Santo Agostinho de Hipona"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/dottrina_cristiana/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages dottrina_cristiana of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1202.htm",
@@ -24,6 +35,7 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Prologus",
         "en-US": "PREFACE",
         "pt-BR": "PREFÁCIO"
       }
@@ -31,6 +43,7 @@
     {
       "id": "ch002",
       "title": {
+        "la": "Liber I",
         "en-US": "On Christian Doctrine (Book I)",
         "pt-BR": "Sobre a Doutrina Cristã (Livro I)"
       }
@@ -38,6 +51,7 @@
     {
       "id": "ch003",
       "title": {
+        "la": "Liber II",
         "en-US": "On Christian Doctrine (Book II)",
         "pt-BR": "Sobre a Doutrina Cristã (Livro II)"
       }
@@ -45,6 +59,7 @@
     {
       "id": "ch004",
       "title": {
+        "la": "Liber III",
         "en-US": "On Christian Doctrine (Book III)",
         "pt-BR": "Sobre a Doutrina Cristã (Livro III)"
       }
@@ -52,12 +67,30 @@
     {
       "id": "ch005",
       "title": {
+        "la": "Liber IV",
         "en-US": "On Christian Doctrine (Book IV)",
         "pt-BR": "Sobre a Doutrina Cristã (Livro IV)"
       }
     }
   ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/de-doctrina-christiana",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "James Shaw",
+      "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
   }
 }
