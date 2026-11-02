@@ -1,0 +1,152 @@
+{
+  "id": "fenelon-education-des-filles",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "De l’éducation des filles",
+    "en-US": "On the Education of Girls",
+    "pt-BR": "Da educação das meninas"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le traité écrit vers 1685 pour la duchesse de Beauvillier, suivi de l’Avis à une dame de qualité sur l’éducation de sa fille : la formation de l’enfant par la douceur, l’exemple et les récits, l’instruction religieuse, la vanité, les devoirs des femmes et le choix des gouvernantes. L’anglais est la traduction de Thomas Frognall Dibdin (1805), qui suit les treize chapitres.",
+    "en-US": "The treatise written about 1685 for the Duchess of Beauvillier, followed by the Advice to a Lady of Quality on the education of her daughter: forming the child by gentleness, example and stories, religious instruction, vanity, the duties of women and the choice of governesses. The English is Thomas Frognall Dibdin’s translation of 1805, which follows the thirteen chapters (it lacks the Advice).",
+    "pt-BR": "O tratado escrito por volta de 1685 para a duquesa de Beauvillier, seguido do Aviso a uma dama de qualidade sobre a educação de sua filha: a formação da criança pela doçura, o exemplo e as histórias, a instrução religiosa, a vaidade, os deveres das mulheres e a escolha das governantas."
+  },
+  "composed": 1687,
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "fenelon/education-des-filles",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    },
+    "en-US": {
+      "translator": "Thomas Frognall Dibdin",
+      "year": 1805
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte05fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 5, p. 563–610; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/47621",
+      "edition": "Fenelon’s Treatise on the Education of Daughters, tr. Thomas Frognall Dibdin, London 1805; Project Gutenberg #47621 (proofread by Distributed Proofreaders). Dibdin’s own notes kept as footnotes; his preface is not included.",
+      "description": "archive.org OCR, lightly cleaned (running heads, hyphenation); residual OCR errors remain. Proofread text.",
+      "tier": "A",
+      "tierEvidence": "Published before 1900; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapitre-01",
+      "title": {
+        "fr-FR": "Chapitre I. De l’importance de l’éducation des filles",
+        "en-US": "Chapter I. On the Importance of the Education of Daughters"
+      }
+    },
+    {
+      "id": "chapitre-02",
+      "title": {
+        "fr-FR": "Chapitre II. Inconvéniens des éducations ordinaires",
+        "en-US": "Chapter II. Errors in the Ordinary Mode of Education"
+      }
+    },
+    {
+      "id": "chapitre-03",
+      "title": {
+        "fr-FR": "Chapitre III. Quels sont les premiers fondemens de l’éducation",
+        "en-US": "Chapter III. Of the First Foundations of Education"
+      }
+    },
+    {
+      "id": "chapitre-04",
+      "title": {
+        "fr-FR": "Chapitre IV. Imitation à craindre",
+        "en-US": "Chapter IV. The Danger of Imitation"
+      }
+    },
+    {
+      "id": "chapitre-05",
+      "title": {
+        "fr-FR": "Chapitre V. Instructions indirectes : il ne faut pas presser les enfans",
+        "en-US": "Chapter V. Indirect Instructions: we should not be too urgent with Children"
+      }
+    },
+    {
+      "id": "chapitre-06",
+      "title": {
+        "fr-FR": "Chapitre VI. De l’usage des histoires pour les enfans",
+        "en-US": "Chapter VI. Of the Use of History for Children"
+      }
+    },
+    {
+      "id": "chapitre-07",
+      "title": {
+        "fr-FR": "Chapitre VII. Comment il faut faire entrer dans l’esprit des enfans les premiers principes de la religion",
+        "en-US": "Chapter VII. Of Inculcating Principles of Religion in the Minds of Children"
+      }
+    },
+    {
+      "id": "chapitre-08",
+      "title": {
+        "fr-FR": "Chapitre VIII. Instruction sur le Décalogue, sur les Sacremens et sur la Prière",
+        "en-US": "Chapter VIII. On Religious Studies.*[^7]"
+      }
+    },
+    {
+      "id": "chapitre-09",
+      "title": {
+        "fr-FR": "Chapitre IX. Remarques sur plusieurs défauts des enfans",
+        "en-US": "Chapter IX. Remarks on Ordinary Defects among Girls"
+      }
+    },
+    {
+      "id": "chapitre-10",
+      "title": {
+        "fr-FR": "Chapitre X. De la vanité de la beauté et des ajustemens",
+        "en-US": "Chapter X. The Vanity of Beauty and Dress"
+      }
+    },
+    {
+      "id": "chapitre-11",
+      "title": {
+        "fr-FR": "Chapitre XI. Instruction des femmes sur leurs devoirs",
+        "en-US": "Chapter XI. Instruction of Women in their Duties"
+      }
+    },
+    {
+      "id": "chapitre-12",
+      "title": {
+        "fr-FR": "Chapitre XII. Suite des devoirs des femmes",
+        "en-US": "Chapter XII. Continuation of the Duties of Women"
+      }
+    },
+    {
+      "id": "chapitre-13",
+      "title": {
+        "fr-FR": "Chapitre XIII. Des gouvernantes",
+        "en-US": "Chapter XIII. Of Governesses"
+      }
+    },
+    {
+      "id": "avis-a-une-dame",
+      "title": {
+        "fr-FR": "Avis à une dame de qualité sur l’éducation de sa fille"
+      }
+    }
+  ]
+}
