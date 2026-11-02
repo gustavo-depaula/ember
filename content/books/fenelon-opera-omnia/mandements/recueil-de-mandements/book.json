@@ -1,0 +1,102 @@
+{
+  "id": "fenelon-mandements",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Recueil de mandements",
+    "en-US": "Collected Pastoral Letters (Mandements)",
+    "pt-BR": "Coletânea de mandamentos"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les mandements de Fénelon, archevêque de Cambrai, pour le jubilé, le carême et des prières publiques (1701-1713), avec le mandement latin sur l’édition du rituel. Les pièces relatives à la condamnation des Maximes et au jansénisme sont dans leurs classes.",
+    "en-US": "The pastoral letters (mandements) of Fénelon, Archbishop of Cambrai, for the jubilee, Lent and public prayers (1701-1713), with the Latin mandate on the publication of the ritual. The documents on the condemnation of the Maxims and on Jansenism are in their own classes.",
+    "pt-BR": "Os mandamentos de Fénelon, arcebispo de Cambrai, para o jubileu, a Quaresma e orações públicas (1701-1713), com o mandamento latino sobre a edição do ritual. As peças relativas à condenação das Máximas e ao jansenismo estão em suas próprias classes."
+  },
+  "composed": "1701–1713",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/recueil-de-mandements",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 449–; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-jubile-de-l-annee-sainte",
+      "title": {
+        "fr-FR": "Mandement pour le jubilé de l’année sainte 1701"
+      }
+    },
+    {
+      "id": "02-careme-1",
+      "title": {
+        "fr-FR": "Mandement pour le carême (I)"
+      }
+    },
+    {
+      "id": "03-careme-2",
+      "title": {
+        "fr-FR": "Mandement pour le carême (II)"
+      }
+    },
+    {
+      "id": "04-prieres-1",
+      "title": {
+        "fr-FR": "Mandement pour des prières (I)"
+      }
+    },
+    {
+      "id": "05-prieres-2",
+      "title": {
+        "fr-FR": "Mandement pour des prières (II)"
+      }
+    },
+    {
+      "id": "06-prieres-3",
+      "title": {
+        "fr-FR": "Mandement pour des prières (III)"
+      }
+    },
+    {
+      "id": "07-jubile",
+      "title": {
+        "fr-FR": "Mandement pour le jubilé"
+      }
+    },
+    {
+      "id": "08-prieres-publiques",
+      "title": {
+        "fr-FR": "Mandement pour des prières publiques"
+      }
+    },
+    {
+      "id": "09-careme-3",
+      "title": {
+        "fr-FR": "Mandement pour le carême (III)"
+      }
+    },
+    {
+      "id": "10-careme-4",
+      "title": {
+        "fr-FR": "Mandement pour le carême (IV)"
+      }
+    }
+  ]
+}
