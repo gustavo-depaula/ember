@@ -1,0 +1,360 @@
+{
+  "id": "richard-de-statu-interioris-hominis",
+  "cover": "classic",
+  "name": {
+    "la": "De statu interioris hominis",
+    "en-US": "On the State of the Inner Man",
+    "pt-BR": "Sobre o estado do homem interior"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "De statu interioris hominis tractatus.",
+    "en-US": "Richard’s treatise on the state of the inner man after the Fall: free will, counsel, the weakness of fleshly desire and the restoration by grace. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "O tratado de Ricardo sobre o estado do homem interior depois da queda."
+  },
+  "composed": "c. 1150-1160",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/de-statu-interioris-hominis",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeStInH",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeStInH, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput primum."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput II. De tribus principalibus in homine."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput III. De dignitate liberi arbitrii."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput IV. De utilitate consilii."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput V. De infirmitate carnalis desiderii."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VI. De principatu liberi arbitrii."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VII. De virtute utilis consilii."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput VIII. De inquietudine carnalis desiderii."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput IX. De inquietudine humani affectus."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput X. De inquietatione carnalis appetitus."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XI. De triplici incommodo hominis."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XII. De infirmitate liberi arbitrii."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XIII. Quid sit libertatis vel quid potestatis."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XIV. De potestate liberi arbitrii ante peccatum."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput XV. De privatione primae potestatis."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput XVI. De recuperatione primae potestatis."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput XVII. De perturbatione internae pacis et conflictatione virtutum cum vitiis."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput XVIII. Quomodo vitium vitio resistat."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput XIX. Quomodo virtus virtuti contradicat."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput XX. De gratia et natura."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput XXI. De integritate gratiae ante peccatum."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput XXII. De stabilitate gratiae ante peccatum."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Caput XXIII. De tribus gradibus libertatis, et quod summam libertatem habeat homo."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Caput XXIV. De ignorantia boni et mali."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Caput XXV. De gemino errore judicii."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Caput XXVI. De quinque gradibus discretionis."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Caput XXVII. Quod discretionis gratia modo datur, modo subtrahitur."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Caput XXVIII. De duobus gradibus deliberationis."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Caput XXIX. De discretionis et deliberationis norma, et quae talenta, quomodo sint augenda."
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Caput XXX. Cur non sint quinque gradus deliberationis, sicut et discretionis."
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Caput XXXI. Quod illuminantem gratiam non semper habemus praesentem, nunquam autem sufficientem."
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Caput XXXII. De concupiscentia mali."
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Caput XXXIII. Quod totum hominis infirmitati subjacet."
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Caput XXXIV. Quomodo sit inordinatus, vel quam immoderatus affectus."
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Caput XXXV. Quomodo homo ad legitimam integritatis mensuram perducitur."
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Caput XXXVI. Quibus gradibus ad integritatis plenitudinem perducimur."
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Caput XXXVII. Quod eadem perfectionis forma futura sit in cogitatione, et in affectione."
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Caput primum."
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Caput II. Quid sit vitium, et quid sit peccatum."
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Caput III. Quod tribus modis peccata contrahimus."
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Caput IV. Quid quibus peccatis sit proprium."
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Caput V. De peccato triplici, actionis, cogitationis, consuetudinis."
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Caput VI. Quod praedicta singula tribus modis possint accipi."
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Caput VII. Quid quibus peccatis sit familiare."
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Caput primum."
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Caput II. De triplici institutione."
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Caput III. De triplici comminatione."
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Caput IV. De triplici promissione."
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Caput V. De triplici virtute triplicis promissionis."
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Caput VI. De triplici levamine contra triplicem dolorem."
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Caput VII. Assignatio triplicis promissionis."
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Caput VIII. Assignatio multiplicis utilitatis in divinis promissionibus, et praedictorum recapitulatio."
+      }
+    }
+  ]
+}
