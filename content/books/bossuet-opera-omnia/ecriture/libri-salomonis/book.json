@@ -1,0 +1,872 @@
+{
+  "id": "bossuet-libri-salomonis",
+  "cover": "classic",
+  "name": {
+    "la": "Libri Salomonis : Proverbia, Ecclesiastes, Canticum canticorum, Sapientia, Ecclesiasticus",
+    "en-US": "The Books of Solomon: Proverbs, Ecclesiastes, Song of Songs, Wisdom, Ecclesiasticus",
+    "pt-BR": "Os livros de Salomão: Provérbios, Eclesiastes, Cântico dos Cânticos, Sabedoria, Eclesiástico"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "la": "Libri Salomonis, Proverbia, Ecclesiastes, Canticum canticorum, Sapientia, Ecclesiasticus, cum notis. Composita circa 1690, edita 1693. Editio Lachat (1862).",
+    "en-US": "Bossuet’s Latin commentaries with notes on the Wisdom books attributed to Solomon, with the Vulgate text: Proverbs, Ecclesiastes, the Song of Songs, Wisdom and Ecclesiasticus (Sirach). Published in 1693. Lachat edition (1862).",
+    "pt-BR": "Comentários latinos de Bossuet, com notas, aos livros sapienciais atribuídos a Salomão, com o texto da Vulgata: Provérbios, Eclesiastes, Cântico dos Cânticos, Sabedoria e Eclesiástico (Sirácida). Publicados em 1693. Edição Lachat (1862)."
+  },
+  "composed": "1690",
+  "languages": [
+    "la"
+  ],
+  "work": "bossuet/libri-salomonis",
+  "editions": {
+    "la": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://web.archive.org/web/2022/https://www.bibliotheque-monastique.ch/bibliotheque/bibliotheque/bossuet/volume001/010.htm to 012.htm, volume002/030.htm, 031.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Bibliothèque monastique (Abbaye Saint-Benoît de Port-Valais), Wayback Machine",
+      "description": "Typed transcription of volume I, pages 010-012, and volume II, pages 030-031.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "proverbia",
+      "title": {
+        "la": "Liber Proverbiorum"
+      },
+      "children": [
+        {
+          "id": "proverbia-0",
+          "title": {
+            "la": "Præfatio"
+          }
+        },
+        {
+          "id": "proverbia-001",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "proverbia-002",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "proverbia-003",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "proverbia-004",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "proverbia-005",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "proverbia-006",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "proverbia-007",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "proverbia-008",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "proverbia-009",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "proverbia-010",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "proverbia-011",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "proverbia-012",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "proverbia-013",
+          "title": {
+            "la": "Caput XIII"
+          }
+        },
+        {
+          "id": "proverbia-014",
+          "title": {
+            "la": "Caput XIV"
+          }
+        },
+        {
+          "id": "proverbia-015",
+          "title": {
+            "la": "Caput XV"
+          }
+        },
+        {
+          "id": "proverbia-016",
+          "title": {
+            "la": "Caput XVI"
+          }
+        },
+        {
+          "id": "proverbia-017",
+          "title": {
+            "la": "Caput XVII"
+          }
+        },
+        {
+          "id": "proverbia-018",
+          "title": {
+            "la": "Caput XVIII"
+          }
+        },
+        {
+          "id": "proverbia-019",
+          "title": {
+            "la": "Caput XIX"
+          }
+        },
+        {
+          "id": "proverbia-020",
+          "title": {
+            "la": "Caput XX"
+          }
+        },
+        {
+          "id": "proverbia-021",
+          "title": {
+            "la": "Caput XXI"
+          }
+        },
+        {
+          "id": "proverbia-022",
+          "title": {
+            "la": "Caput XXII"
+          }
+        },
+        {
+          "id": "proverbia-023",
+          "title": {
+            "la": "Caput XXIII"
+          }
+        },
+        {
+          "id": "proverbia-024",
+          "title": {
+            "la": "Caput XXIV"
+          }
+        },
+        {
+          "id": "proverbia-025",
+          "title": {
+            "la": "Caput XXV"
+          }
+        },
+        {
+          "id": "proverbia-026",
+          "title": {
+            "la": "Caput XXVI"
+          }
+        },
+        {
+          "id": "proverbia-027",
+          "title": {
+            "la": "Caput XXVII"
+          }
+        },
+        {
+          "id": "proverbia-028",
+          "title": {
+            "la": "Caput XXVIII"
+          }
+        },
+        {
+          "id": "proverbia-029",
+          "title": {
+            "la": "Caput XXIX"
+          }
+        },
+        {
+          "id": "proverbia-030",
+          "title": {
+            "la": "Caput XXX"
+          }
+        },
+        {
+          "id": "proverbia-031",
+          "title": {
+            "la": "Caput XXXI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ecclesiastes",
+      "title": {
+        "la": "Liber Ecclesiastes"
+      },
+      "children": [
+        {
+          "id": "ecclesiastes-0",
+          "title": {
+            "la": "Præfatio"
+          }
+        },
+        {
+          "id": "ecclesiastes-001",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "ecclesiastes-002",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "ecclesiastes-003",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "ecclesiastes-004",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "ecclesiastes-005",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "ecclesiastes-006",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "ecclesiastes-007",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "ecclesiastes-008",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "ecclesiastes-009",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "ecclesiastes-010",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "ecclesiastes-011",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "ecclesiastes-012",
+          "title": {
+            "la": "Caput XII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sapientia",
+      "title": {
+        "la": "Liber Sapientiæ"
+      },
+      "children": [
+        {
+          "id": "sapientia-0",
+          "title": {
+            "la": "Præfatio"
+          }
+        },
+        {
+          "id": "sapientia-001",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "sapientia-002",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "sapientia-003",
+          "title": {
+            "la": "Caput II (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-004",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "sapientia-005",
+          "title": {
+            "la": "Caput III (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-006",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "sapientia-007",
+          "title": {
+            "la": "Caput IV (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-008",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "sapientia-009",
+          "title": {
+            "la": "Caput V (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-010",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "sapientia-011",
+          "title": {
+            "la": "Caput VI (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-012",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "sapientia-013",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "sapientia-014",
+          "title": {
+            "la": "Caput VIII (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-015",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "sapientia-016",
+          "title": {
+            "la": "Caput X. 21"
+          }
+        },
+        {
+          "id": "sapientia-017",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "sapientia-018",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "sapientia-019",
+          "title": {
+            "la": "Caput XI (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-020",
+          "title": {
+            "la": "Caput XI (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-021",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "sapientia-022",
+          "title": {
+            "la": "Caput XIII"
+          }
+        },
+        {
+          "id": "sapientia-023",
+          "title": {
+            "la": "Caput XIII (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-024",
+          "title": {
+            "la": "Caput XIV"
+          }
+        },
+        {
+          "id": "sapientia-025",
+          "title": {
+            "la": "Caput XIV (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-026",
+          "title": {
+            "la": "Caput XV"
+          }
+        },
+        {
+          "id": "sapientia-027",
+          "title": {
+            "la": "Caput XV (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-028",
+          "title": {
+            "la": "Caput XVI"
+          }
+        },
+        {
+          "id": "sapientia-029",
+          "title": {
+            "la": "Caput XVI (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-030",
+          "title": {
+            "la": "Caput XVII"
+          }
+        },
+        {
+          "id": "sapientia-031",
+          "title": {
+            "la": "Caput XVII (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-032",
+          "title": {
+            "la": "Caput XVIII"
+          }
+        },
+        {
+          "id": "sapientia-033",
+          "title": {
+            "la": "Caput XVIII (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-034",
+          "title": {
+            "la": "Caput XIX"
+          }
+        },
+        {
+          "id": "sapientia-035",
+          "title": {
+            "la": "Caput XIX (commentarius)"
+          }
+        },
+        {
+          "id": "sapientia-036",
+          "title": {
+            "la": "Caput XIX (commentarius)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ecclesiasticus",
+      "title": {
+        "la": "Liber Ecclesiasticus"
+      },
+      "children": [
+        {
+          "id": "ecclesiasticus-0",
+          "title": {
+            "la": "Præfatio"
+          }
+        },
+        {
+          "id": "ecclesiasticus-001",
+          "title": {
+            "la": "Caput primum"
+          }
+        },
+        {
+          "id": "ecclesiasticus-002",
+          "title": {
+            "la": "Caput II"
+          }
+        },
+        {
+          "id": "ecclesiasticus-003",
+          "title": {
+            "la": "Caput III"
+          }
+        },
+        {
+          "id": "ecclesiasticus-004",
+          "title": {
+            "la": "Caput IV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-005",
+          "title": {
+            "la": "Caput V"
+          }
+        },
+        {
+          "id": "ecclesiasticus-006",
+          "title": {
+            "la": "Caput VI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-007",
+          "title": {
+            "la": "Caput VII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-008",
+          "title": {
+            "la": "Caput VIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-009",
+          "title": {
+            "la": "Caput IX"
+          }
+        },
+        {
+          "id": "ecclesiasticus-010",
+          "title": {
+            "la": "Caput X"
+          }
+        },
+        {
+          "id": "ecclesiasticus-011",
+          "title": {
+            "la": "Caput XI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-012",
+          "title": {
+            "la": "Caput XII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-013",
+          "title": {
+            "la": "Caput XIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-014",
+          "title": {
+            "la": "Caput XIV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-015",
+          "title": {
+            "la": "Caput XV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-016",
+          "title": {
+            "la": "Caput XVI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-017",
+          "title": {
+            "la": "Caput XVII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-018",
+          "title": {
+            "la": "Caput XVIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-019",
+          "title": {
+            "la": "Caput XIX"
+          }
+        },
+        {
+          "id": "ecclesiasticus-020",
+          "title": {
+            "la": "Caput XXI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-021",
+          "title": {
+            "la": "Caput XXII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-022",
+          "title": {
+            "la": "Caput XXIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-023",
+          "title": {
+            "la": "Caput XXIV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-024",
+          "title": {
+            "la": "Caput XXV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-025",
+          "title": {
+            "la": "Caput XXVI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-026",
+          "title": {
+            "la": "Caput XXVII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-027",
+          "title": {
+            "la": "Caput XXVIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-028",
+          "title": {
+            "la": "Caput XXIX"
+          }
+        },
+        {
+          "id": "ecclesiasticus-029",
+          "title": {
+            "la": "Caput XXX"
+          }
+        },
+        {
+          "id": "ecclesiasticus-030",
+          "title": {
+            "la": "Caput XXXI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-031",
+          "title": {
+            "la": "Caput XXXII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-032",
+          "title": {
+            "la": "Caput XXXIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-033",
+          "title": {
+            "la": "Caput XXXIV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-034",
+          "title": {
+            "la": "Caput XXXV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-035",
+          "title": {
+            "la": "Caput XXXVI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-036",
+          "title": {
+            "la": "Caput XXXVII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-037",
+          "title": {
+            "la": "Caput XXXVIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-038",
+          "title": {
+            "la": "Caput XXXIX"
+          }
+        },
+        {
+          "id": "ecclesiasticus-039",
+          "title": {
+            "la": "Caput XL"
+          }
+        },
+        {
+          "id": "ecclesiasticus-040",
+          "title": {
+            "la": "Caput XLI"
+          }
+        },
+        {
+          "id": "ecclesiasticus-041",
+          "title": {
+            "la": "Caput XLII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-042",
+          "title": {
+            "la": "Caput XLIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-043",
+          "title": {
+            "la": "Caput XLIV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-044",
+          "title": {
+            "la": "Caput XLV"
+          }
+        },
+        {
+          "id": "ecclesiasticus-045",
+          "title": {
+            "la": "Caput XLVII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-046",
+          "title": {
+            "la": "Caput XLVIII"
+          }
+        },
+        {
+          "id": "ecclesiasticus-047",
+          "title": {
+            "la": "Caput XLIX"
+          }
+        },
+        {
+          "id": "ecclesiasticus-048",
+          "title": {
+            "la": "Caput L"
+          }
+        },
+        {
+          "id": "ecclesiasticus-049",
+          "title": {
+            "la": "Caput LI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "canticum",
+      "title": {
+        "la": "Canticum canticorum"
+      }
+    }
+  ]
+}
