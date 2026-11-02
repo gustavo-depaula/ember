@@ -1,0 +1,129 @@
+{
+  "id": "chesterton-man-who-was-thursday",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Man Who Was Thursday: A Nightmare",
+    "pt-BR": "O Homem que Foi Quinta-Feira: Um Pesadelo"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "A poet-detective infiltrates the Central Council of Anarchists, whose seven members bear the names of the days of the week, and finds that each of them is a detective too, and that their terrible President, Sunday, is something stranger. Chesterton's metaphysical thriller, subtitled A Nightmare, ends in a vision of God and the problem of suffering.",
+    "pt-BR": "Um poeta-detetive se infiltra no Conselho Central dos Anarquistas, cujos sete membros têm nomes de dias da semana, e descobre que cada um deles também é detetive e que o seu terrível Presidente, Domingo, é algo mais estranho. O thriller metafísico de Chesterton, com o subtítulo Um Pesadelo, termina numa visão de Deus e do problema do sofrimento."
+  },
+  "composed": "1908",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/man-who-was-thursday",
+  "editions": {
+    "en-US": {
+      "editor": "Arrowsmith",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/1695",
+      "edition": "The Man Who Was Thursday: A Nightmare (Arrowsmith, 1908), Project Gutenberg #1695.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1908 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-two-poets-of-saffron-park",
+      "title": {
+        "en-US": "I. The Two Poets of Saffron Park"
+      }
+    },
+    {
+      "id": "ch02-the-secret-of-gabriel-syme",
+      "title": {
+        "en-US": "II. The Secret of Gabriel Syme"
+      }
+    },
+    {
+      "id": "ch03-the-man-who-was-thursday",
+      "title": {
+        "en-US": "III. The Man Who Was Thursday"
+      }
+    },
+    {
+      "id": "ch04-the-tale-of-a-detective",
+      "title": {
+        "en-US": "IV. The Tale of a Detective"
+      }
+    },
+    {
+      "id": "ch05-the-feast-of-fear",
+      "title": {
+        "en-US": "V. The Feast of Fear"
+      }
+    },
+    {
+      "id": "ch06-the-exposure",
+      "title": {
+        "en-US": "VI. The Exposure"
+      }
+    },
+    {
+      "id": "ch07-the-unaccountable-conduct-of-professor-de-worms",
+      "title": {
+        "en-US": "VII. The Unaccountable Conduct of Professor De Worms"
+      }
+    },
+    {
+      "id": "ch08-the-professor-explains",
+      "title": {
+        "en-US": "VIII. The Professor Explains"
+      }
+    },
+    {
+      "id": "ch09-the-man-in-spectacles",
+      "title": {
+        "en-US": "IX. The Man in Spectacles"
+      }
+    },
+    {
+      "id": "ch10-the-duel",
+      "title": {
+        "en-US": "X. The Duel"
+      }
+    },
+    {
+      "id": "ch11-the-criminals-chase-the-police",
+      "title": {
+        "en-US": "XI. The Criminals Chase the Police"
+      }
+    },
+    {
+      "id": "ch12-the-earth-in-anarchy",
+      "title": {
+        "en-US": "XII. The Earth in Anarchy"
+      }
+    },
+    {
+      "id": "ch13-the-pursuit-of-the-president",
+      "title": {
+        "en-US": "XIII. The Pursuit of the President"
+      }
+    },
+    {
+      "id": "ch14-the-six-philosophers",
+      "title": {
+        "en-US": "XIV. The Six Philosophers"
+      }
+    },
+    {
+      "id": "ch15-the-accuser",
+      "title": {
+        "en-US": "XV. The Accuser"
+      }
+    }
+  ]
+}
