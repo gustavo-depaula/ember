@@ -1,0 +1,11 @@
+# Lettre 1051. À un Clerc de la Mission
+
+15 juillet 1648.
+
+Je veux suspendre mon jugement au sujet de votre lettre, tandis que M…. ne m’en dira mot. J’ai peine à croire que son procédé soit tel que vous le décrivez, ou que la parole qui vous est si sensible soit sortie de lui sans beaucoup de sujet. Je sais que sa conduite est assez douce, grâces à Dieu ; personne que vous ne m’en a encore fait plainte ; et je trouve la vôtre d’autant plus étrange que sa douceur a été considérable en votre endroit, non seulement pour supporter vos fautes, mais pour les cacher aux autres, comme il voulut faire à moi-même, lorsque vous m’écrivîtes une lettre moins digérée qu’il ne fallait ; car il m’en fit une pour votre justification.
+
+Mais supposons qu’il se soit échappé, comme il vous semble ; faut-il s’alarmer de si peu de chose ? De qui supporterez-vous les imperfections et quelle injure êtes-vous capable de souffrir, si, de votre propre supérieur, une parole inconsidérée vous est insupportable ? Peut-être l’a-t-il dite exprès pour vous éprouver ; et en ce cas cette épreuve ne lui a pas mal réussi, puisque votre indisposition a paru aussitôt en plusieurs manières : 1° vous excusez votre faute par la comparaison de celle de votre frère ; 2° vous vous plaignez que la leçon des enfants vous est une pesante surcharge ; 3° vous demandez à changer de maison ; 4° vous vous montrez plein de propre estime, et vous présumez que toute la communauté rendre témoignage de n’avoir jamais rien remarqué en vous qui mérite la correction qui vous a été faite. Toutes ces choses sont bien éloignées des sentiments du pauvre publicain et de ceux que doit avoir un bon missionnaire, et néanmoins vous me les écrivez, dites-vous, pour conserver votre vocation. Dieu veuille, mon cher frère, que vous en ayez le dessein ! mais ce n’en est guère le chemin. La pratique de la patience, de l’humilité et de l’exactitude au règlement est la bonne marque de notre persévérance.
+
+Nous verrons si désormais vous travaillerez à l’acquisition de ces vertus et si vous donnerez à votre supérieur plus de satisfaction que par le passé. Je vous assure, mon cher Frère, que ce serait là une de mes plus sensibles consolations. Je demanderai à Dieu qu’il vous fasse cette grâce ; car votre âme m’est plus chère que je ne vous puis exprimer. [^1]
+
+[^1]: Reg. 2, p. 296.

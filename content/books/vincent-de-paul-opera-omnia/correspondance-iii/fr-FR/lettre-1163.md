@@ -1,0 +1,13 @@
+# Lettre 1163. Alain de Solminihac à Saint Vincent
+
+De Mercuès, le 15 décembre 1649.
+
+Après vous avoir rendu mille grâces du soin qu’il vous a plu prendre de parler à Monsieur le chancelier et lui avoir si bien exposé les raisons qui le peuvent mouvoir à m’accorder la grâce que je lui demande, et vous avoir supplié de me vouloir continuer les mêmes soins près la reine je vous dirai que je tiens mon évocation aussi assurée que si je l’avais entre les mains, parce qu’il ne faut pour cela qu’un commandement de Sa Majesté à Monsieur le chancelier, car, ne m’ayant jamais refusé aucune chose que je lui aie demandée, ce qui a été toujours pour les autres comment pourrais-je douter quelle me refuse cette grâce que je lui demande pour ma chère Épouse, après avoir fait et souffert, comme j’ai fait, pour le service du roi et de Sa Majesté pouvant dire avec vérité que, depuis le commencement de ce trouble jusqu’à présent, je n’ai laissé passer aucune occasion que je n’aie ménagée et employée pour cela. Je n’ai pas même attendu qu’elles se présentassent mais les ai recherchées et me suis opposé fortement et constamment à tout ce que j’ai connu contraire au service de Leurs Majestés, et qu’après cela, me trouvant dans l’extrémité dans laquelle je me vois, elle me refuse sa protection, je ne le saurais croire.
+
+Vous recevrez par les mains des députés une copie de notre conférence, que je n’ai encore envoyée à aucun de Messeigneurs les prélats qui y ont assisté, qu’à Monseigneur de Périgueux, n’ayant pas eu le temps de la revoir et l’examiner ; ce que je ferai après être sorti de mes exercices, que je fais présentement. J’ai ajouté, après vous l‘avoir envoyée, au commencement de l’article de la visite, les mots que vous verrez dans le billet ci-inclus, que j’ai jugé à propos d’insérer comme étant conformes aux conciles et aux saints décrets. Vous verrez comme quoi il a été résolu d’établir des séminaires et que ceux qui ne le pourront enverront les ecclésiastiques de leur diocèse dans le plus prochain Et pour ce qui est de la conduite, nous avons toujours entendu qu’elle fût donnée aux vôtres. Nous demeurâmes aussi d’accord qu’il fallait établir un collège ou maison pour y recevoir les personnes qui se dédieront au service de Dieu, pour être élevées à la piété et dans l’esprit de l’Église pendant leurs études ; et ce fut pour lors que je dis qu’il en fallait donner la conduite aux vôtres, et apportai plusieurs raisons pour cela. Aussi fut-ce une proposition agréée de toute la compagnie, etc.
+
+ALAIN DE SOLMINHIAC,
+
+évêque de Cahors. [^1]
+
+[^1]: Arch. de l’évêché de Cahors, cahier, copie prise sur l’original

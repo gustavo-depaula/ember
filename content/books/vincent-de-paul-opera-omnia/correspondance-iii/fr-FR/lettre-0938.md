@@ -1,0 +1,9 @@
+# Lettre 938. - à Claude Dufour, Supérieur, à Saintes
+
+Du 23 avril 1647.
+
+Je vous remercie très humblement, Monsieur, de la confiance que vous me témoignez, demandant mon avis sur la pensée que vous avez d’entrer aux Chartreux. Je vous dirai tout simplement ce que je voudrais vous avoir conseillé à l’heure de ma mort, qui est que vous marchiez dans la vocation dans laquelle il a plu à Dieu de vous appeler, sans écouter désormais la suggestion de l’esprit ennemi de la persévérance finale au bien commencé, son dessein étant de vous tirer de là où Dieu vous a mis, sous prétexte de la plus grande sûreté de votre salut, afin que vous entriez dans un plus grand danger de le faire, car, s’il vous tire du lieu où vous êtes, il vous empêchera ensuite d’entrer là où vous prétendez, ou bien il vous en fera sortir après que vous y serez. On m’a dit qu’il y a cent Jésuites dans Paris qui sont sortis du sein de leur sainte mère, sous prétexte de faire des merveilles ailleurs, et la plupart sont à scandale et en grand péril de se perdre.
+
+Au nom de Dieu, Monsieur, tenez-vous ferme dans l’état auquel Notre Seigneur vous a mis, et rejetez la pensée contraire comme ennemie des desseins éternels de Dieu sur vous et sur tant d’âmes que sa divine Majesté veut sauver par votre moyen. Que si le séjour de Saintes, ou l’emploi que vous avez, ne vous agréent pas, mandez-le-moi, s’il vous plaît ; nous vous destinerons ailleurs. Je vous dis derechef, Monsieur, que je me donne à Dieu pour répondre à sa divine Majesté, pour vous et pour moi, du conseil que je vous donne. Cependant je prie Notre-Seigneur qu’il vous fasse voir la malignité de cette tentation, comme il me semble que je la vois, qui tend a vous faire perdre le certain pour l’incertain, et qui vous fait prendre l’opinion pour inspiration et la lassitude pour sollicitude. [^1]
+
+[^1]: reg 2, p 294

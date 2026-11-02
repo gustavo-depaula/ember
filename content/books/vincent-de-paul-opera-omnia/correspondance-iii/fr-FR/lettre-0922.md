@@ -1,0 +1,19 @@
+# Lettre 922. À Jean Dehorgny, Supérieur, à Rome
+
+Mars 1647.
+
+Dieu vous fournir d’autres ouvriers, quand il en sera temps. Le besoin ne vous en a pas fort pressé jusqu’à maintenant, puisque vous n’avez pas fait d’ordination et que vous en avez passablement pour les missions, quoique non pas à souhait. Nous faisons ici et ailleurs comme nous pouvons. Serait-il raisonnable que nous fussions dans l’abondance des hommes, laquelle les rend inutiles une partie du temps, pendant que Dieu en manque en d’autres lieux où il nous appelle ? Saint Ignace ne fit-il par cent établissements, avant sa mort, de deux ou trois personnes chacun ? Ce n’était pas sans beaucoup d’inconvénients, puisqu’il y envoyait des novices et que parfois il était obligé de les établir supérieurs ; mais ce n’était pas aussi sans fruit ni sans providence. Si nous en avons entrepris quelques-uns, ce n’a pas été, Dieu merci, par aucun désir de nous étendre, sa divine bonté le sait, mais seulement de correspondre à ses desseins. Ce n’a pas été, non plus, de notre choix, ni par notre sollicitation, mais par la seule disposition d’en haut, que notre indifférence nous a donné loisir d’éprouver et de reconnaître.
+
+Qui nous assurera que Dieu ne nous appelle point présentement en Perse ? Il ne le faut pas conjecturer de ce que nos maisons ne sont pas remplies ; car celles qui le sont davantage ne font pas le plus de fruit. N’avons-nous pas occasion de croire plutôt le contraire, même de craindre que Dieu n’abandonne l’Europe à la merci des hérésies qui combattent l’Église depuis un siècle et qui ont fait de si grands ravages qu’elles l’ont réduite comme à un petit point ? Et par un surcroît de malheur, ce qui en reste semble se disposer à une division par les opinions nouvelles qui pullulent tous les jours. Que savons-nous, dis-je, si Dieu ne veut pas transférer la même Église chez les infidèles, lesquels gardent peut-être plus d’innocence dans leurs mœurs que la plupart des chrétiens, qui n’ont rien moins à cœur que les saints mystères de notre religion ? Pour moi, je sais que ce sentiment me demeure depuis longtemps. Mais quand Dieu n’aurait pas ce dessein, ne devons-nous pas contribuer à l’extension de l’Église ? Oui, sans doute ; et cela étant, en qui réside le pouvoir d’envoyer *ad gentes *; ? Il faut que ce soit au pape ou aux conciles ou aux évêques. Or ceux-ci n’ont de juridiction que dans leurs diocèses ; des conciles, il n’en est point en ce temps ; il faut donc que ce soit en la personne du premier. Si donc il a droit de nous envoyer, nous avons aussi obligation d’aller ; autrement, son pouvoir serait vain.
+
+Vous savez, Monsieur, depuis quel temps la Sacrée Congrégation a jeté les yeux sur nous, combien de fois elle nous a fait solliciter, combien peu nous nous sommes hâtés pour ne mêler rien d’humain dans la résolution de cette sainte entreprise ; mais, comme nous sommes de nouveau pressés et par lettres et par Monseigneur le nonce [^1], je ne doute plus qu’il n’en faille venir à l’exécution. J’avais disposé pour Babylone M. Féret ; mais Monseigneur de Paris le voulant avoir pour Saint-Nicolas-du-Chardonnet [^2], m’a fait plainte de ce que je voulais le lui ôter. Je vous ai mandé que, ne sachant à qui m’adresser hors la compagnie, j’avais pensé à M. Gil les ; ce qui n’a pas été trouvé convenable. J’en ai sondé d’autres parmi ces Messieurs de notre conférence ; mais je n’en ai trouvé ni d’assez résolus ni d’assez propres. Il me reste seulement à voir M. Brandon ; si celui-ci manque [^3], je me vois obligé de rentrer dans la compagnie pour en prendre un. Priez Dieu pour cela, s’il vous plaît Quand le choix sera déterminé dedans ou dehors, je vous en donnerai avis. Cependant j’attendrai le mémoire que M. de Montheron vous a promis au sujet de ce voyage.
+
+Je suis…. [^4]
+
+[^1]: Nicolas Bagni.
+
+[^2]: Il occupa cette cure du 7 septembre 1646 au 16 janvier 1676.
+
+[^3]: Brandon n’accepta pas.
+
+[^4]: Reg. 2, p. 72

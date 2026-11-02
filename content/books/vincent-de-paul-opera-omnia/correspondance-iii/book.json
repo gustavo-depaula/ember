@@ -1,0 +1,2293 @@
+{
+  "id": "vincent-correspondance-iii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance de saint Vincent de Paul, tome III",
+    "en-US": "Correspondence of St. Vincent de Paul, vol. III",
+    "pt-BR": "Correspondência de São Vicente de Paulo, tomo III"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les lettres 829 à 1205 de la Correspondance de saint Vincent, tome III de l’édition de Pierre Coste (1646-1650), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
+    "en-US": "Letters 829 to 1205 of St. Vincent’s Correspondence, vol. III of Pierre Coste’s edition (1646-1650), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
+    "pt-BR": "As cartas 829 a 1205 da Correspondência de São Vicente, tomo III da edição de Pierre Coste (1646-1650)."
+  },
+  "composed": "1646-1650",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/correspondance-iii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tome III; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All letters of the tome, one per chapter, including the letters to Vincent that Coste prints among them, with Coste’s source notices and footnotes kept as notes. Coste’s introduction is not included; letters whose heading the transcription lost stay inside the preceding chapter.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Année 1646"
+      },
+      "children": [
+        {
+          "id": "lettre-0829",
+          "title": {
+            "fr-FR": "Lettre 829. À Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-0830",
+          "title": {
+            "fr-FR": "Lettre 830. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0831",
+          "title": {
+            "fr-FR": "Lettre 831. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0832",
+          "title": {
+            "fr-FR": "Lettre 832. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0833",
+          "title": {
+            "fr-FR": "Lettre 833. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0834",
+          "title": {
+            "fr-FR": "Lettre 834. Julien Guérin, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0835",
+          "title": {
+            "fr-FR": "Lettre 835. Au Cardinal Mazarin"
+          }
+        },
+        {
+          "id": "lettre-0836",
+          "title": {
+            "fr-FR": "Lettre 836. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0837",
+          "title": {
+            "fr-FR": "Lettre 837. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0838",
+          "title": {
+            "fr-FR": "Lettre 838. -a des Parents"
+          }
+        },
+        {
+          "id": "lettre-0839",
+          "title": {
+            "fr-FR": "Lettre 839. À Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-0840",
+          "title": {
+            "fr-FR": "Lettre 840. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0841",
+          "title": {
+            "fr-FR": "Lettre 841. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0842",
+          "title": {
+            "fr-FR": "Lettre 842. À Gilbert Cuissot"
+          }
+        },
+        {
+          "id": "lettre-0843",
+          "title": {
+            "fr-FR": "Lettre 843. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0844",
+          "title": {
+            "fr-FR": "Lettre 844. Le Cardinal Mazarin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0845",
+          "title": {
+            "fr-FR": "Lettre 845. Jean Garron à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0846",
+          "title": {
+            "fr-FR": "Lettre 846. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0847",
+          "title": {
+            "fr-FR": "Lettre 847. À Louis Callon"
+          }
+        },
+        {
+          "id": "lettre-0848",
+          "title": {
+            "fr-FR": "Lettre 848. À Jean Martin, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0849",
+          "title": {
+            "fr-FR": "Lettre 849. À Jean Dehorgny, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0850",
+          "title": {
+            "fr-FR": "Lettre 850. À Jean Bourdet, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-0851",
+          "title": {
+            "fr-FR": "Lettre 851. Au Cardinal Mazarin"
+          }
+        },
+        {
+          "id": "lettre-0852",
+          "title": {
+            "fr-FR": "Lettre 852. À Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-0853",
+          "title": {
+            "fr-FR": "Lettre 853. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0854",
+          "title": {
+            "fr-FR": "Lettre 854. Le Cardinal Mazarin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0855",
+          "title": {
+            "fr-FR": "Lettre 855. À Claude de Marbeuf"
+          }
+        },
+        {
+          "id": "lettre-0856",
+          "title": {
+            "fr-FR": "Lettre 856. À N*"
+          }
+        },
+        {
+          "id": "lettre-0857",
+          "title": {
+            "fr-FR": "Lettre 857. À Jean de Fonteneil"
+          }
+        },
+        {
+          "id": "lettre-0858",
+          "title": {
+            "fr-FR": "Lettre 858. À Claude Dufour"
+          }
+        },
+        {
+          "id": "lettre-0859",
+          "title": {
+            "fr-FR": "Lettre 859. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0860",
+          "title": {
+            "fr-FR": "Lettre 860. À Jean-François de Gondi, Archevêque de Paris"
+          }
+        },
+        {
+          "id": "lettre-0861",
+          "title": {
+            "fr-FR": "Lettre 861. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0862",
+          "title": {
+            "fr-FR": "Lettre 862. À Jean Dehorgny, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0863",
+          "title": {
+            "fr-FR": "Lettre 863. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0864",
+          "title": {
+            "fr-FR": "Lettre 864. À René Alméras, Père"
+          }
+        },
+        {
+          "id": "lettre-0865",
+          "title": {
+            "fr-FR": "Lettre 865. Au Supérieur de la Maison de Toul"
+          }
+        },
+        {
+          "id": "lettre-0866",
+          "title": {
+            "fr-FR": "Lettre 866. À une Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-0867",
+          "title": {
+            "fr-FR": "Lettre 867. Au Cardinal Grimaldi"
+          }
+        },
+        {
+          "id": "lettre-0868",
+          "title": {
+            "fr-FR": "Lettre 868. À Monsieur Desgordes"
+          }
+        },
+        {
+          "id": "lettre-0869",
+          "title": {
+            "fr-FR": "Lettre 869. À André Prat, Consul de France, à Salé"
+          }
+        },
+        {
+          "id": "lettre-0870",
+          "title": {
+            "fr-FR": "Lettre 870. À Antoine Portail, Prêtre de la Mission, à la Rose"
+          }
+        },
+        {
+          "id": "lettre-0871",
+          "title": {
+            "fr-FR": "Lettre 871. À François du Coudray"
+          }
+        },
+        {
+          "id": "lettre-0872",
+          "title": {
+            "fr-FR": "Lettre 872. Etienne Blatiron, Supérieur à Gênes, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0873",
+          "title": {
+            "fr-FR": "Lettre 873. À une Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-0874",
+          "title": {
+            "fr-FR": "Lettre 874. René Alméras, Père, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0875",
+          "title": {
+            "fr-FR": "Lettre 875. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0877",
+          "title": {
+            "fr-FR": "Lettre 877. À Antoine Portail, Prêtre de la Mission, à la Rose"
+          }
+        },
+        {
+          "id": "lettre-0878",
+          "title": {
+            "fr-FR": "Lettre 878. Au Marquis de Mirepoix, Gouverneur — Du Comte de Foix"
+          }
+        },
+        {
+          "id": "lettre-0879",
+          "title": {
+            "fr-FR": "Lettre 879. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0880",
+          "title": {
+            "fr-FR": "Lettre 880. Nicolas Pavillon, Évêque d’Alet, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0881",
+          "title": {
+            "fr-FR": "Lettre 881. A Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-0882",
+          "title": {
+            "fr-FR": "Lettre 882. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0883",
+          "title": {
+            "fr-FR": "Lettre 883. À François Perrochel, Évêque de Boulogne"
+          }
+        },
+        {
+          "id": "lettre-0884",
+          "title": {
+            "fr-FR": "Lettre 884. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0885",
+          "title": {
+            "fr-FR": "Lettre 885. À Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-0886",
+          "title": {
+            "fr-FR": "Lettre 886. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0887",
+          "title": {
+            "fr-FR": "Lettre 887. À Jean Dehorgny, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0888",
+          "title": {
+            "fr-FR": "Lettre 888. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0889",
+          "title": {
+            "fr-FR": "Lettre 889. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0890",
+          "title": {
+            "fr-FR": "Lettre 890. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0891",
+          "title": {
+            "fr-FR": "Lettre 891. À Michel Alix"
+          }
+        },
+        {
+          "id": "lettre-0892",
+          "title": {
+            "fr-FR": "Lettre 892. À Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-0893",
+          "title": {
+            "fr-FR": "Lettre 893. - à Guillaume Delattre"
+          }
+        },
+        {
+          "id": "lettre-0894",
+          "title": {
+            "fr-FR": "Lettre 894. À Antoine Portail, Prêtre de la Mission, à Cahors"
+          }
+        },
+        {
+          "id": "lettre-0895",
+          "title": {
+            "fr-FR": "Lettre 895. À Boniface Nouelly"
+          }
+        },
+        {
+          "id": "lettre-0896",
+          "title": {
+            "fr-FR": "Lettre 896. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0897",
+          "title": {
+            "fr-FR": "Lettre 897. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0898",
+          "title": {
+            "fr-FR": "Lettre 898. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0899",
+          "title": {
+            "fr-FR": "Lettre 899. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0900",
+          "title": {
+            "fr-FR": "Lettre 900. À Louis Thibault"
+          }
+        },
+        {
+          "id": "lettre-0901",
+          "title": {
+            "fr-FR": "Lettre 901. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0902",
+          "title": {
+            "fr-FR": "Lettre 902. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-0903",
+          "title": {
+            "fr-FR": "Lettre 903. À Jacques Tholard"
+          }
+        },
+        {
+          "id": "lettre-0904",
+          "title": {
+            "fr-FR": "Lettre 904. À Jean Martin, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0905",
+          "title": {
+            "fr-FR": "Lettre 905. À Bernard Codoing, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-0906",
+          "title": {
+            "fr-FR": "Lettre 906. À Louis Rivet, Prêtre de la Mission à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0907",
+          "title": {
+            "fr-FR": "Lettre 907. À Denis Gautier, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0908",
+          "title": {
+            "fr-FR": "Lettre 908. À Jacques Chiroye, Prêtre de la Mission. à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0909",
+          "title": {
+            "fr-FR": "Lettre 909. Julien Guérin, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0910",
+          "title": {
+            "fr-FR": "Lettre 910. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0911",
+          "title": {
+            "fr-FR": "Lettre 911. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Année 1647"
+      },
+      "children": [
+        {
+          "id": "lettre-0912",
+          "title": {
+            "fr-FR": "Lettre 912. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0913",
+          "title": {
+            "fr-FR": "Lettre 913. Alain de Solminhiac, Évêque de Cahors, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0914",
+          "title": {
+            "fr-FR": "Lettre 914. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0915",
+          "title": {
+            "fr-FR": "Lettre 915. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0916",
+          "title": {
+            "fr-FR": "Lettre 916. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0917",
+          "title": {
+            "fr-FR": "Lettre 917. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0918",
+          "title": {
+            "fr-FR": "Lettre 918. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0919",
+          "title": {
+            "fr-FR": "Lettre 919. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0920",
+          "title": {
+            "fr-FR": "Lettre 920. À François Adhemar de Monteil, Archevêque d’Arles"
+          }
+        },
+        {
+          "id": "lettre-0921",
+          "title": {
+            "fr-FR": "Lettre 921. Alain de Solminihac, Évêque de Cahors — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0922",
+          "title": {
+            "fr-FR": "Lettre 922. À Jean Dehorgny, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0923",
+          "title": {
+            "fr-FR": "Lettre 923. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0924",
+          "title": {
+            "fr-FR": "Lettre 924. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0925",
+          "title": {
+            "fr-FR": "Lettre 925. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0926",
+          "title": {
+            "fr-FR": "Lettre 926. À Monseigneur Ingoli"
+          }
+        },
+        {
+          "id": "lettre-0927",
+          "title": {
+            "fr-FR": "Lettre 927. Un Prêtre de la Miss0n à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0928",
+          "title": {
+            "fr-FR": "Lettre 928. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0929",
+          "title": {
+            "fr-FR": "Lettre 929. À un Prêtre de la Mission * à Rome"
+          }
+        },
+        {
+          "id": "lettre-0930",
+          "title": {
+            "fr-FR": "Lettre 930. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0931",
+          "title": {
+            "fr-FR": "Lettre 931. À Claude Dufour"
+          }
+        },
+        {
+          "id": "lettre-0932",
+          "title": {
+            "fr-FR": "Lettre 932. À un Supérieur"
+          }
+        },
+        {
+          "id": "lettre-0933",
+          "title": {
+            "fr-FR": "Lettre 933. À François Adhemar de Monteil, Archevêque d’Arles"
+          }
+        },
+        {
+          "id": "lettre-0934",
+          "title": {
+            "fr-FR": "Lettre 934. Julien Guérin, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0935",
+          "title": {
+            "fr-FR": "Lettre 935. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0936",
+          "title": {
+            "fr-FR": "Lettre 936. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0937",
+          "title": {
+            "fr-FR": "Lettre 937. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0938",
+          "title": {
+            "fr-FR": "Lettre 938. - à Claude Dufour, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-0939",
+          "title": {
+            "fr-FR": "Lettre 939. Aux Filles de la Charité de l’Hôpital de Nantes"
+          }
+        },
+        {
+          "id": "lettre-0940",
+          "title": {
+            "fr-FR": "Lettre 940. Jacques Lesc0t, Évêque de Chartres, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0942",
+          "title": {
+            "fr-FR": "Lettre 942. À Jean Dehorgny, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0943",
+          "title": {
+            "fr-FR": "Lettre 943. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0944",
+          "title": {
+            "fr-FR": "Lettre 944. Etienne Blatiron, Supérieur à Gênes, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0945",
+          "title": {
+            "fr-FR": "Lettre 945. À Jean Dehorgny, *prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0946",
+          "title": {
+            "fr-FR": "Lettre 946. À René Alméras"
+          }
+        },
+        {
+          "id": "lettre-0947",
+          "title": {
+            "fr-FR": "Lettre 947. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0948",
+          "title": {
+            "fr-FR": "Lettre 948. À Bernard Codoing, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-0949",
+          "title": {
+            "fr-FR": "Lettre 949. À la Mère Catherine de Beaumont"
+          }
+        },
+        {
+          "id": "lettre-0950",
+          "title": {
+            "fr-FR": "Lettre 950. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0951",
+          "title": {
+            "fr-FR": "Lettre 951. Julien Guérin, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0952",
+          "title": {
+            "fr-FR": "Lettre 952. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0953",
+          "title": {
+            "fr-FR": "Lettre 953. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0955",
+          "title": {
+            "fr-FR": "Lettre 955. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0956",
+          "title": {
+            "fr-FR": "Lettre 956. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0957",
+          "title": {
+            "fr-FR": "Lettre 957. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0958",
+          "title": {
+            "fr-FR": "Lettre 958. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-0959",
+          "title": {
+            "fr-FR": "Lettre 959. À Antoine Portail, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0960",
+          "title": {
+            "fr-FR": "Lettre 960. À Claude Dufour, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-0961",
+          "title": {
+            "fr-FR": "Lettre 961. Julien Guérin, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0962",
+          "title": {
+            "fr-FR": "Lettre 962. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0964",
+          "title": {
+            "fr-FR": "Lettre 964. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0965",
+          "title": {
+            "fr-FR": "Lettre 965. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0966",
+          "title": {
+            "fr-FR": "Lettre 966. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0967",
+          "title": {
+            "fr-FR": "Lettre 967. À Louis Serre, Prêtre de la Mission, à Crécy"
+          }
+        },
+        {
+          "id": "lettre-0968",
+          "title": {
+            "fr-FR": "Lettre 968. À un Prêtre de la Mission de la Maison de Richelieu"
+          }
+        },
+        {
+          "id": "lettre-0969",
+          "title": {
+            "fr-FR": "Lettre 969. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0970",
+          "title": {
+            "fr-FR": "Lettre 970. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0971",
+          "title": {
+            "fr-FR": "Lettre 971. Les Filles de la Charité de la Maison-Mère — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0972",
+          "title": {
+            "fr-FR": "Lettre 972. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0973",
+          "title": {
+            "fr-FR": "Lettre 973. Lambert aux Couteaux à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0974",
+          "title": {
+            "fr-FR": "Lettre 974. Jean Barreau, Consul à Alger, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0975",
+          "title": {
+            "fr-FR": "Lettre 975. Julien Guérin, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0977",
+          "title": {
+            "fr-FR": "Lettre 977. À un Prêtre de la Mission,"
+          }
+        },
+        {
+          "id": "lettre-0978",
+          "title": {
+            "fr-FR": "Lettre 978. Julien Guérin, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0979",
+          "title": {
+            "fr-FR": "Lettre 979. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0980",
+          "title": {
+            "fr-FR": "Lettre 980. Alain de Solminhiac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0981",
+          "title": {
+            "fr-FR": "Lettre 981. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0982",
+          "title": {
+            "fr-FR": "Lettre 982. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0983",
+          "title": {
+            "fr-FR": "Lettre 983. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-0984",
+          "title": {
+            "fr-FR": "Lettre 984. À Jean François de Gondi, Archevêque de Paris"
+          }
+        },
+        {
+          "id": "lettre-0985",
+          "title": {
+            "fr-FR": "Lettre 985. À Mathurin Gentil"
+          }
+        },
+        {
+          "id": "lettre-0986",
+          "title": {
+            "fr-FR": "Lettre 986. À Antoine Portail, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0987",
+          "title": {
+            "fr-FR": "Lettre 987. Charles Testacy, Supérieur, à Cahors"
+          }
+        },
+        {
+          "id": "lettre-0988",
+          "title": {
+            "fr-FR": "Lettre 988. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0989",
+          "title": {
+            "fr-FR": "Lettre 989. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-0990",
+          "title": {
+            "fr-FR": "Lettre 990. À Jean Barreau, Consul de France, à Alger"
+          }
+        },
+        {
+          "id": "lettre-0991",
+          "title": {
+            "fr-FR": "Lettre 991. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-0992",
+          "title": {
+            "fr-FR": "Lettre 992. À Jacques Desclaux, Évêque de Dax"
+          }
+        },
+        {
+          "id": "lettre-0993",
+          "title": {
+            "fr-FR": "Lettre 993. À Antoine Portail, à Rome"
+          }
+        },
+        {
+          "id": "lettre-0994",
+          "title": {
+            "fr-FR": "Lettre 994. Le Cardinal Mazarin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0995",
+          "title": {
+            "fr-FR": "Lettre 995. À Guillaume Delville"
+          }
+        },
+        {
+          "id": "lettre-0996",
+          "title": {
+            "fr-FR": "Lettre 996. À Jean Chrétien, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0997",
+          "title": {
+            "fr-FR": "Lettre 997. À Jean le Vacher, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-0998",
+          "title": {
+            "fr-FR": "Lettre 998. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-0999",
+          "title": {
+            "fr-FR": "Lettre 999. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1000",
+          "title": {
+            "fr-FR": "Lettre 1000. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1001",
+          "title": {
+            "fr-FR": "Lettre 1001. Alain de Solminihac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1002",
+          "title": {
+            "fr-FR": "Lettre 1002. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1003",
+          "title": {
+            "fr-FR": "Lettre 1003. Etienne Blatiron, Supérieur à Gênes, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1004",
+          "title": {
+            "fr-FR": "Lettre 1004. À Antoine Portail, Prêtre de la Mission, à Gênes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-03",
+      "title": {
+        "fr-FR": "Année 1648"
+      },
+      "children": [
+        {
+          "id": "lettre-1005",
+          "title": {
+            "fr-FR": "Lettre 1005. À Nicolas Pavillon, Évêque d’Alet"
+          }
+        },
+        {
+          "id": "lettre-1006",
+          "title": {
+            "fr-FR": "Lettre 1006. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1007",
+          "title": {
+            "fr-FR": "Lettre 1007. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1008",
+          "title": {
+            "fr-FR": "Lettre 1008. À Plusieurs Prêtres"
+          }
+        },
+        {
+          "id": "lettre-1009",
+          "title": {
+            "fr-FR": "Lettre 1009. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1010",
+          "title": {
+            "fr-FR": "Lettre 1010. À la Duchesse d’Aiguillon"
+          }
+        },
+        {
+          "id": "lettre-1011",
+          "title": {
+            "fr-FR": "Lettre 1011. Nicolas Pavillon à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1012",
+          "title": {
+            "fr-FR": "Lettre 1012. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1013",
+          "title": {
+            "fr-FR": "Lettre 1013. Balthazar Grangier, Évêque de Tréguier, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1014",
+          "title": {
+            "fr-FR": "Lettre 1014. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1015",
+          "title": {
+            "fr-FR": "Lettre 1015. À Antoine Portail, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1016",
+          "title": {
+            "fr-FR": "Lettre 1016. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-1017",
+          "title": {
+            "fr-FR": "Lettre 1017. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1018",
+          "title": {
+            "fr-FR": "Lettre 1018. À la Marquise de Maignelay"
+          }
+        },
+        {
+          "id": "lettre-1019",
+          "title": {
+            "fr-FR": "Lettre 1019. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1020",
+          "title": {
+            "fr-FR": "Lettre 1020. À Charles Nacquart, Prêtre de la Mission,"
+          }
+        },
+        {
+          "id": "lettre-1022",
+          "title": {
+            "fr-FR": "Lettre 1022. À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1023",
+          "title": {
+            "fr-FR": "Lettre 1023. Nicolas Gondrée, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1024",
+          "title": {
+            "fr-FR": "Lettre 1024. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1025",
+          "title": {
+            "fr-FR": "Lettre 1025. Jean-Jacques Olier à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1026",
+          "title": {
+            "fr-FR": "Lettre 1026. Alain de Solminihac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1027",
+          "title": {
+            "fr-FR": "Lettre 1027. À Antoine Portail, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1028",
+          "title": {
+            "fr-FR": "Lettre 1028. À Denis Gautier, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1029",
+          "title": {
+            "fr-FR": "Lettre 1029. Louise De. Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1030",
+          "title": {
+            "fr-FR": "Lettre 1030. À Antoine Portail, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1031",
+          "title": {
+            "fr-FR": "Lettre 1031. Julien Guérin, Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1032",
+          "title": {
+            "fr-FR": "Lettre 1032. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1033",
+          "title": {
+            "fr-FR": "Lettre 1033. À Jean Martin, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1034",
+          "title": {
+            "fr-FR": "Lettre 1034. Denis Gautier, Supérieur à Richelieu, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1035",
+          "title": {
+            "fr-FR": "Lettre 1035. Jean Barreau, Consul à Alger, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1036",
+          "title": {
+            "fr-FR": "Lettre 1036. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1037",
+          "title": {
+            "fr-FR": "Lettre 1037. À Jean Martin, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1038",
+          "title": {
+            "fr-FR": "Lettre 1038. À Jean Martin, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1039",
+          "title": {
+            "fr-FR": "Lettre 1039. À Mathurin Gentil, Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1040",
+          "title": {
+            "fr-FR": "Lettre 1040. Thomas Turchi, Supérieur Général des Dominicains, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1041",
+          "title": {
+            "fr-FR": "Lettre 1041. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1042",
+          "title": {
+            "fr-FR": "Lettre 1042. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1043",
+          "title": {
+            "fr-FR": "Lettre 1043. À Jean Dehorgny *"
+          }
+        },
+        {
+          "id": "lettre-1044",
+          "title": {
+            "fr-FR": "Lettre 1044. Charles Nacquart, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1045",
+          "title": {
+            "fr-FR": "Lettre 1045. À Jean Martin, Prêtre de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1046",
+          "title": {
+            "fr-FR": "Lettre 1046. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-1047",
+          "title": {
+            "fr-FR": "Lettre 1047. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1048",
+          "title": {
+            "fr-FR": "Lettre 1048. Jean le Vacher, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1049",
+          "title": {
+            "fr-FR": "Lettre 1049. À Bernard Codoing, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-1050",
+          "title": {
+            "fr-FR": "Lettre 1050. Au *bureau des Finances de la Ville de Paris"
+          }
+        },
+        {
+          "id": "lettre-1051",
+          "title": {
+            "fr-FR": "Lettre 1051. À un Clerc de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1052",
+          "title": {
+            "fr-FR": "Lettre 1052. Alain de Solminhiac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1053",
+          "title": {
+            "fr-FR": "Lettre 1053. Alain de Solminhiac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1054",
+          "title": {
+            "fr-FR": "Lettre 1054. — à Claude Dufour, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1055",
+          "title": {
+            "fr-FR": "Lettre 1055. À un Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1056",
+          "title": {
+            "fr-FR": "Lettre 1056. Alain de Solminhiac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1057",
+          "title": {
+            "fr-FR": "Lettre 1057. À Denis Gautier, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1058",
+          "title": {
+            "fr-FR": "Lettre 1058. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1059",
+          "title": {
+            "fr-FR": "Lettre 1059. Edmond Dwyer, Évêque de Limerick, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1060",
+          "title": {
+            "fr-FR": "Lettre 1060. À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1061",
+          "title": {
+            "fr-FR": "Lettre 1061. Jean le Vacher, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1062",
+          "title": {
+            "fr-FR": "Lettre 1062. À la Sœur Madeleine-Elisabeth de Maupeou — Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-1063",
+          "title": {
+            "fr-FR": "Lettre 1063. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1064",
+          "title": {
+            "fr-FR": "Lettre 1064. À Jean Dehorgny"
+          }
+        },
+        {
+          "id": "lettre-1065",
+          "title": {
+            "fr-FR": "Lettre 1065. À Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-1066",
+          "title": {
+            "fr-FR": "Lettre 1066. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1067",
+          "title": {
+            "fr-FR": "Lettre 1067. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1068",
+          "title": {
+            "fr-FR": "Lettre 1068. À René Alméras"
+          }
+        },
+        {
+          "id": "lettre-1069",
+          "title": {
+            "fr-FR": "Lettre 1069. À Antoine Portail, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1070",
+          "title": {
+            "fr-FR": "Lettre 1070. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1071",
+          "title": {
+            "fr-FR": "Lettre 1071. À un Évêque Nouvellement Élu"
+          }
+        },
+        {
+          "id": "lettre-1072",
+          "title": {
+            "fr-FR": "Lettre 1072. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1073",
+          "title": {
+            "fr-FR": "Lettre 1073. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1074",
+          "title": {
+            "fr-FR": "Lettre 1074. À Mathurin Gentil, Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1075",
+          "title": {
+            "fr-FR": "Lettre 1075. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1076",
+          "title": {
+            "fr-FR": "Lettre 1076. Henri de Maupas de Tours, Évêque du Puy, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1077",
+          "title": {
+            "fr-FR": "Lettre 1077. Thomas Turchi, Supérieur Général des Dominicains, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1078",
+          "title": {
+            "fr-FR": "Lettre 1078. À Jean Barreau, Consul de France, à Alger"
+          }
+        },
+        {
+          "id": "lettre-1079",
+          "title": {
+            "fr-FR": "Lettre 1079. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1080",
+          "title": {
+            "fr-FR": "Lettre 1080. Etienne Blatiron à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1081",
+          "title": {
+            "fr-FR": "Lettre 1081. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1082",
+          "title": {
+            "fr-FR": "Lettre 1082. Thomas Turchi à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1083",
+          "title": {
+            "fr-FR": "Lettre 1083. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1084",
+          "title": {
+            "fr-FR": "Lettre 1084. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1085",
+          "title": {
+            "fr-FR": "Lettre 1085. Au Marquis Desportes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-04",
+      "title": {
+        "fr-FR": "Année 1649"
+      },
+      "children": [
+        {
+          "id": "lettre-1086",
+          "title": {
+            "fr-FR": "Lettre 1086. À Lambert aux Couteaux, Prêtre de la Mission, — À Saint-Lazare"
+          }
+        },
+        {
+          "id": "lettre-1087",
+          "title": {
+            "fr-FR": "Lettre 1087. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-1088",
+          "title": {
+            "fr-FR": "Lettre 1088. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1089",
+          "title": {
+            "fr-FR": "Lettre 1089. À Jacques Norais"
+          }
+        },
+        {
+          "id": "lettre-1090",
+          "title": {
+            "fr-FR": "Lettre 1090. Aux Dames de la Charité"
+          }
+        },
+        {
+          "id": "lettre-1091",
+          "title": {
+            "fr-FR": "Lettre 1091. À Denis Gautier"
+          }
+        },
+        {
+          "id": "lettre-1092",
+          "title": {
+            "fr-FR": "Lettre 1092. La Duchesse d’Aiguillon à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1094",
+          "title": {
+            "fr-FR": "Lettre 1094. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1095",
+          "title": {
+            "fr-FR": "Lettre 1095. Edmond Dwyer, Évêque de Limerick, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1096",
+          "title": {
+            "fr-FR": "Lettre 1096. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1097",
+          "title": {
+            "fr-FR": "Lettre 1097. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1098",
+          "title": {
+            "fr-FR": "Lettre 1098. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1099",
+          "title": {
+            "fr-FR": "Lettre 1099. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1100",
+          "title": {
+            "fr-FR": "Lettre 1100. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1101",
+          "title": {
+            "fr-FR": "Lettre 1101. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1102",
+          "title": {
+            "fr-FR": "Lettre 1102. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-1103",
+          "title": {
+            "fr-FR": "Lettre 1103. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1104",
+          "title": {
+            "fr-FR": "Lettre 1104. Charles Nacquart, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1105",
+          "title": {
+            "fr-FR": "Lettre 1105. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1106",
+          "title": {
+            "fr-FR": "Lettre 1106. Un Prêtre de la Mission de Barbarie à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1107",
+          "title": {
+            "fr-FR": "Lettre 1107. Benjamin Huguier, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1108",
+          "title": {
+            "fr-FR": "Lettre 1108. À Michel Thépault de Rumelin"
+          }
+        },
+        {
+          "id": "lettre-1109",
+          "title": {
+            "fr-FR": "Lettre 1109. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1110",
+          "title": {
+            "fr-FR": "Lettre 1110. À Gabriel Delespiney"
+          }
+        },
+        {
+          "id": "lettre-1111",
+          "title": {
+            "fr-FR": "Lettre 1111. Au Frère Jacques Rivet"
+          }
+        },
+        {
+          "id": "lettre-1112",
+          "title": {
+            "fr-FR": "Lettre 1112. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1113",
+          "title": {
+            "fr-FR": "Lettre 1113. Au Frère Jacques Rivet"
+          }
+        },
+        {
+          "id": "lettre-1114",
+          "title": {
+            "fr-FR": "Lettre 1114. À la Mère Jeanne-Marguerite Chahu"
+          }
+        },
+        {
+          "id": "lettre-1115",
+          "title": {
+            "fr-FR": "Lettre 1115. À Bernard Codoing, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1116",
+          "title": {
+            "fr-FR": "Lettre 1116. - à Louis Thibault, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-1117",
+          "title": {
+            "fr-FR": "Lettre 1117. À Hugues Perraud, Prêtre de la Mission, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1118",
+          "title": {
+            "fr-FR": "Lettre 1118. À un Prêtre de la Mission, de la Maison de Gênes"
+          }
+        },
+        {
+          "id": "lettre-1119",
+          "title": {
+            "fr-FR": "Lettre 1119. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1120",
+          "title": {
+            "fr-FR": "Lettre 1120. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1121",
+          "title": {
+            "fr-FR": "Lettre 1121. Alain de Solminihac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1122",
+          "title": {
+            "fr-FR": "Lettre 1122. À Bernard Codoing, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1123",
+          "title": {
+            "fr-FR": "Lettre 1123. Alain de Solminihac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1124",
+          "title": {
+            "fr-FR": "Lettre 1124. Au Frère François Fournier, Clerc de la Mission, — À Agen"
+          }
+        },
+        {
+          "id": "lettre-1125",
+          "title": {
+            "fr-FR": "Lettre 1125. À Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-1126",
+          "title": {
+            "fr-FR": "Lettre 1126. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1127",
+          "title": {
+            "fr-FR": "Lettre 1127. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1128",
+          "title": {
+            "fr-FR": "Lettre 1128. Louise de Marllac à Saint Vincent~"
+          }
+        },
+        {
+          "id": "lettre-1129",
+          "title": {
+            "fr-FR": "Lettre 1129. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1130",
+          "title": {
+            "fr-FR": "Lettre 1130. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1131",
+          "title": {
+            "fr-FR": "Lettre 1131. À N *"
+          }
+        },
+        {
+          "id": "lettre-1132",
+          "title": {
+            "fr-FR": "Lettre 1132. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1133",
+          "title": {
+            "fr-FR": "Lettre 1133. À Monsieur des Vergnes"
+          }
+        },
+        {
+          "id": "lettre-1134",
+          "title": {
+            "fr-FR": "Lettre 1134. Au Frère Jacques Rivet"
+          }
+        },
+        {
+          "id": "lettre-1135",
+          "title": {
+            "fr-FR": "Lettre 1135. À la Supérieure du Second Monastère — De la Visitation de Paris"
+          }
+        },
+        {
+          "id": "lettre-1137",
+          "title": {
+            "fr-FR": "Lettre 1137. À un Prêtre de la Mission de la Maison, de Rome"
+          }
+        },
+        {
+          "id": "lettre-1138",
+          "title": {
+            "fr-FR": "Lettre 1138. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1139",
+          "title": {
+            "fr-FR": "Lettre 1139. À Claude Dufour, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1140",
+          "title": {
+            "fr-FR": "Lettre 1140. Au R. P. François Blanchart"
+          }
+        },
+        {
+          "id": "lettre-1141",
+          "title": {
+            "fr-FR": "Lettre 1141. À Philibert de Beaumanoir de Lavardin, — Évêque du Mans"
+          }
+        },
+        {
+          "id": "lettre-1142",
+          "title": {
+            "fr-FR": "Lettre 1142. À Jacques Chiroye"
+          }
+        },
+        {
+          "id": "lettre-1143",
+          "title": {
+            "fr-FR": "Lettre 1143. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1144",
+          "title": {
+            "fr-FR": "Lettre 1144. À Mathurin Gentil, Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1145",
+          "title": {
+            "fr-FR": "Lettre 1145. Mazarin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1146",
+          "title": {
+            "fr-FR": "Lettre 1146. Etienne Blatiron, Supérieur à Gênes, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1147",
+          "title": {
+            "fr-FR": "Lettre 1147. À Guillaume Delattre, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-1148",
+          "title": {
+            "fr-FR": "Lettre 1148. À Monseigneur Denis Massari"
+          }
+        },
+        {
+          "id": "lettre-1150",
+          "title": {
+            "fr-FR": "Lettre 1150. Etienne Blatir0n, Supérieur à Gênes, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1151",
+          "title": {
+            "fr-FR": "Lettre 1151. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1152",
+          "title": {
+            "fr-FR": "Lettre 1152. Au Frère Jacques Rivet, Frère Coadjuteur à la Rose"
+          }
+        },
+        {
+          "id": "lettre-1153",
+          "title": {
+            "fr-FR": "Lettre 1153. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1154",
+          "title": {
+            "fr-FR": "Lettre 1154. - Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1155",
+          "title": {
+            "fr-FR": "Lettre 1155. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1156",
+          "title": {
+            "fr-FR": "Lettre 1156. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1157",
+          "title": {
+            "fr-FR": "Lettre 1157. À Jean Gicquel, Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1158",
+          "title": {
+            "fr-FR": "Lettre 1158. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1159",
+          "title": {
+            "fr-FR": "Lettre 1159. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1160",
+          "title": {
+            "fr-FR": "Lettre 1160. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1161",
+          "title": {
+            "fr-FR": "Lettre 1161. À Simon le Gras, Évêque de Soissons"
+          }
+        },
+        {
+          "id": "lettre-1162",
+          "title": {
+            "fr-FR": "Lettre 1162. À Bernard Codoing, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1163",
+          "title": {
+            "fr-FR": "Lettre 1163. Alain de Solminihac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1164",
+          "title": {
+            "fr-FR": "Lettre 1164. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1165",
+          "title": {
+            "fr-FR": "Lettre 1165. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1166",
+          "title": {
+            "fr-FR": "Lettre 1166. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1167",
+          "title": {
+            "fr-FR": "Lettre 1167. À Bernard Codoing, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1168",
+          "title": {
+            "fr-FR": "Lettre 1168. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1169",
+          "title": {
+            "fr-FR": "Lettre 1169. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-05",
+      "title": {
+        "fr-FR": "Année 1650"
+      },
+      "children": [
+        {
+          "id": "lettre-1170",
+          "title": {
+            "fr-FR": "Lettre 1170. Alain de Solminihac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1171",
+          "title": {
+            "fr-FR": "Lettre 1171. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1172",
+          "title": {
+            "fr-FR": "Lettre 1172. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-1173",
+          "title": {
+            "fr-FR": "Lettre 1173. À Louis Serre, Prêtre de la Mission, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-1174",
+          "title": {
+            "fr-FR": "Lettre 1174. À un Évêque"
+          }
+        },
+        {
+          "id": "lettre-1175",
+          "title": {
+            "fr-FR": "Lettre 1175. À la Mère Anne-Marie Bollaini, — Supérieure, au Couvent de la Madeleine"
+          }
+        },
+        {
+          "id": "lettre-1176",
+          "title": {
+            "fr-FR": "Lettre 1176. Aux Supérieurs des Maisons de la Compagnie"
+          }
+        },
+        {
+          "id": "lettre-1177",
+          "title": {
+            "fr-FR": "Lettre 1177. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1178",
+          "title": {
+            "fr-FR": "Lettre 1178. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1179",
+          "title": {
+            "fr-FR": "Lettre 1179. Charles Nacquart, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1180",
+          "title": {
+            "fr-FR": "Lettre 1180. À Guillaume Delattre, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-1181",
+          "title": {
+            "fr-FR": "Lettre 1181. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1182",
+          "title": {
+            "fr-FR": "Lettre 1182. À Mathurin Gentil, Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1183",
+          "title": {
+            "fr-FR": "Lettre 1183. Charles Nacquart, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1184",
+          "title": {
+            "fr-FR": "Lettre 1184. Aux Filles de la Charité de Valpuiseaux"
+          }
+        },
+        {
+          "id": "lettre-1185",
+          "title": {
+            "fr-FR": "Lettre 1185. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1186",
+          "title": {
+            "fr-FR": "Lettre 1186. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1187",
+          "title": {
+            "fr-FR": "Lettre 1187. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1188",
+          "title": {
+            "fr-FR": "Lettre 1188. Charles Nacquart, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1189",
+          "title": {
+            "fr-FR": "Lettre 1189. Charles Nacquart, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1190",
+          "title": {
+            "fr-FR": "Lettre 1190. À Louis Rivet, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1191",
+          "title": {
+            "fr-FR": "Lettre 1191. À un Prêtre de la Mission de la Maison de Saintes"
+          }
+        },
+        {
+          "id": "lettre-1192",
+          "title": {
+            "fr-FR": "Lettre 1192. À la Sœur Jeanne Lepeintre"
+          }
+        },
+        {
+          "id": "lettre-1193",
+          "title": {
+            "fr-FR": "Lettre 1193. À Bernard Codoing, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1194",
+          "title": {
+            "fr-FR": "Lettre 1194. Mathurin Gentil, Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1195",
+          "title": {
+            "fr-FR": "Lettre 1195. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1196",
+          "title": {
+            "fr-FR": "Lettre 1196. 1196. un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1197",
+          "title": {
+            "fr-FR": "Lettre 1197. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1198",
+          "title": {
+            "fr-FR": "Lettre 1198. À Mathurin Gentil, Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1199",
+          "title": {
+            "fr-FR": "Lettre 1199. À Antoine Lucas, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1200",
+          "title": {
+            "fr-FR": "Lettre 1200. À René Alméras, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1201",
+          "title": {
+            "fr-FR": "Lettre 1201. Au Père Blanchart"
+          }
+        },
+        {
+          "id": "lettre-1202",
+          "title": {
+            "fr-FR": "Lettre 1202. À un Prêtre de la Mission de la Maison de Saintes"
+          }
+        },
+        {
+          "id": "lettre-1203",
+          "title": {
+            "fr-FR": "Lettre 1203. Baltazar Grangier, Évêque de Tréguier, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1204",
+          "title": {
+            "fr-FR": "Lettre 1204. À un Évêque"
+          }
+        },
+        {
+          "id": "lettre-1205",
+          "title": {
+            "fr-FR": "Lettre 1205. À un Évêque"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

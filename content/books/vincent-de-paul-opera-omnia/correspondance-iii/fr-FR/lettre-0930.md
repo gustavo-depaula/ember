@@ -1,0 +1,7 @@
+# Lettre 930. Un Prêtre de la Mission à Saint Vincent
+
+La mission de Gémozac [^1] a donné de très consolants résultats : sept ou huit hérétiques ont abjuré leurs erreurs ; d’autres les auraient imités s’ils n’avaient craint d’être surchargés de tailles par les principaux de la localité, qui sont de la religion réformée. Ceux des habitants qui ne vont pas à la messe par respect humain seraient bien aises que le roi les obligeât à remplir ce devoir. "L’un de ces Convertis est un vieillard, lequel nous avions exhorté plusieurs fois, mais inutilement ; et après avoir fait notre dernier effort, un peu avant notre départ, voyant que nous ne pouvions rien gagner sur lui, nous eûmes la pensée de recourir à la sainte Vierge et la supplier d’employer ses intercessions pour obtenir la conversion de ce pauvre dévoyé. Nous allâmes à cette intention nous prosterner à genoux et réciter les litanies ; et voilà que, les ayant achevées, nous voyons notre vieillard revenir à nous et nous avouer qu’il reconnaissait la vérité et qu’il était en volonté d’abjurer son hérésie ; ce que nous lui fîmes faire, et ensuite sa confession générale ; et puis nous le reçûmes à la sainte communion. Et en nous disant adieu, il nous pria instamment de le recommander aux prières de tous les catholiques." [^2]
+
+[^1]: Chef-lieu de canton de l’arrondissement de Saintes.
+
+[^2]: Abelly, *op. cil., *1. II, chap. I, sect. II, § 2, 1er éd., p. 28.

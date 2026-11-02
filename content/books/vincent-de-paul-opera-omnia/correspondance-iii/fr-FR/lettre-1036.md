@@ -1,0 +1,11 @@
+# Lettre 1036. Louise de Marillac à Saint Vincent
+
+Monsieur,
+
+Il est vrai que j’ai une affection toute particulière pour la fête de la Pentecôte et que ce temps-ci de son attente m’est très cher. Je me souviens d’avoir eu, y a quelque temps, une grande consolation, Oyant un prédicateur dire que ce fut en ce jour-là que Dieu donna sa loi écrite à Moïse, et qu’en la loi de grâce il avait donné, en ce même jour, à son Église la loi de son amour, qui portait puissance de l’effectuer. Et parce que, en ce même jour, il a plu à Dieu mettre en mon cœur une loi qui n’en est jamais sortie, nonobstant toutes mes méchancetés [^1], je souhaiterais volontiers, s’il m’était permis, qu’en ce même jour sa bonté fit entendre les moyens d’observer cette loi selon sa sainte volonté. Je ne sais si ce n’a point été pour cela que j’ai eu pensée de vous demander permission de nous disposer à cette fête par la privation de la sainte communion ces onze jours que la sainte Vierge, les apôtres et saintes femmes ont été séparés de leur cher Maître nous servant aussi de cette occasion pour penser au mauvais usage que nous avons fait toute l’année de nos communions, afin d’exciter en nous un nouveau désir de communier avec plus de ferveur et d’utilité pour la gloire de Dieu, et afin aussi de participer avec les apôtres au baptême qu’ils reçurent d’amour et de ferveur pour le service du prochain. Je vous supplie très humblement, Monsieur, que les faiblesses de mon esprit que je vous ai fait paraître, n’exigent point de votre charité la condescendance qui vous pourrait donner pensée que je voudrais que vous déférassiez à mes pensées ; car cela est tout à fait extorqué de mon désir, et n’ai point plus grand plaisir que quand je suis raisonnablement contrariée, Dieu me faisant la grâce presque toujours de connaître et estimer les avis d’autrui tout autres que les miens, et particulièrement quand c’est une charité. Je suis assurée de voir évidemment cette vérité, quoique ce soit en des sujets qui me soient cachés pour un temps. [^2] [^3]
+
+[^1]: , Voir lettre 753, note l.
+
+[^2]: L. a. — Dossier des Filles de la Charité, original.
+
+[^3]: Après 1649, Louise de Marillac emploie toujours en tête de ses lettres l’expression : "Mon très honoré Père."

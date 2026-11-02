@@ -1,0 +1,9 @@
+# Lettre 1196. 1196. un Prêtre de la Mission à Saint Vincent
+
+1650
+
+le dois vous rendre compte du fruit que vos prières et saints sacrifices ont opéré tant à Joigny qu’à Longron [^1], où nous faisons maintenant la mission. Je n’ai rien à dire de Joigny, si ce n’est que j’admire l’assiduité des habitants à entendre les prédications et catéchismes et leur diligence à se lever matin, car on a commencé quelquefois à sonner la prédication à deux heures après minuit, et néanmoins l’église se trouvait pleine. Il faut pourtant que j’avoue franchement que je trouve encore plus de bénédiction dans les champs que dans les villes et que j’y reconnais plus de marques d’une véritable et sincère pénitence et de la première droiture et simplicité du christianisme naissant. Ces bonnes gens ne se présentent ordinairement à la confession que fondant en larmes ; ils s’estiment les plus grands pécheurs du monde et demandent de plus grandes pénitences que celles qu’on leur impose. Hier, une personne qui s’était confessée à un autre missionnaire me vint prier de lui imposer une plus grande pénitence que celle qui lui avait été donnée, et de lui ordonner de jeûner trois jours la semaine pendant toute cette année ; un autre, que je lui donnasse pour pénitence de marcher nu-pieds sur la terre pendant le temps de la gelée. Et en la même journée d’hier, un homme me vint trouver, qui me dit ces paroles : "Monsieur, j’ai entendu à la prédication qu’il n’y avait point de meilleur moyen pour ne plus jurer que de se jeter aussitôt à genoux en présence de ceux devant qui on avait juré ; c’est ce que je viens de faire car aussitôt que je me suis avisé que j’avais juré ma foi, je me suis mis à genoux et j’ai demandé miséricorde à Dieu." [^2]
+
+[^1]: Le Grand-Longueron, hameau de la commune de Champlay, près Joigny (Yonne)
+
+[^2]: Abelly, *op cit., *1 II, chap I, sect II, § 7, 1er éd, P. 46

@@ -1,0 +1,25 @@
+# Lettre 929. À un Prêtre de la Mission * à Rome
+
+*1657 (la lettre devrait être reportée au tome VI)
+
+Je ressens beaucoup votre peine, et néanmoins je suis bien aise que vous me l’ayez découverte. La conduite de Dieu est telle sur ceux qu’il destine à quelque chose de grand ou de bien particulier pour son service, qu’il les exerce auparavant par des dégoûts, traverses, aversions *(2) et mouvements d’inconstance, tantôt pour les éprouver, tantôt pour leur faire expérimenter leur faiblesse, tantôt pour les détacher davantage des créatures *(3), d’autres fois pour abattre les fumées de quelque vaine complaisance, et toujours pour les rendre plus agréables à ses yeux. Ne doutez pas, Monsieur, que la tentation que vous souffrez ne contribue à votre avancement spirituel, si vous lui résistez.
+
+Mais peut-être que vous ne pensez pas que ce soit une tentation, se cachant, comme elle fait, sous l’apparence d’un bien, car vous dites que vous ne voulez plus donner scandale à la compagnie. Je vous prie de croire que vous ne lui en pouvez donner un plus grand que de vous en séparer pour aller faire votre propre volonté.
+
+Vous dites aussi que vous aimez la règle, mais ensuite vous témoignez le contraire, disant que vous ne voulez pas être obligé de l’observer. Il est vrai que la vraie charité fait aimer les bonnes choses, mais il est vrai aussi que la nature rebute celles qui captivent sa liberté ; et il est à craindre que vous adhériez plutôt à ce rebut de la chair qu’à l’attrait de cette vertu, puisque vous dites que vous n’accomplissez plus le règlement par un pur amour de Dieu, et qu’au lieu de vous redresser de ce défaut, vous voulez passer outre et aller même contre cet amour, en secouant tout à fait le joug de Jésus-Christ et vous reprenant vous-même, après vous être quitté pour lui. Je prie sa divine bonté qu’elle ne le permette pas. Vous avez grand besoin de reconnaître l’esprit qui vous pousse, et de considérer en même temps qu’il n’y a homme, pour parfait et pour affermi qu’il puisse être en sa vocation, qui ne souffre parfois de fâcheuses secousses. L’ennemi fut bien si téméraire que d’entreprendre même le Fils de Dieu, pour se faire adorer de lui, qui est la plus horrible tentation que la malice ait pu inventer. Y a-t-il eu quelqu’un entre les apôtres, ni entre tous les saints, qui n’ait eu besoin de se faire violence pour résister aux attaques de la chair et du monde ? Vous nous avez raconté vous-même que pour entrer dans notre congrégation vous fîtes un grand effort sur vous, venant plusieurs fois céans demander d’être reçu, malgré la nature qui désirait un refus de notre part ; vous l’avez dit avec reconnaissance de ce que le mouvement de Dieu avait prévalu, et nous l’avons ouï avec consolation, comme un présage de vos futures victoires sur vos passions. En effet, vous les avez depuis beaucoup mortifiées, par sa grâce ; et si vous comparez votre vie de missionnaire à celle d’auparavant, vous y trouverez grande différence.
+
+Courage donc, Monsieur ! tenons ferme ; car maintenant que nous sommes prêtres, nous sommes obligés à une plus grande perfection et à secourir davantage les âmes. Serait-il bien possible que, d. ans les belles occasions que Dieu nous en donne, une petite répugnance nous fît tout abandonner ! A Dieu ne plaise, puisque l’Apôtre dit qu’il est impossible que ceux qui ont été éclairés et se sont retirés de la lumière, retournent en l’état duquel ils sont déchus *(4) ! Conformément à cela, nous en voyons plusieurs qui, pour bonne intention qu’ils aient, et pour belles que soient leurs résolutions, se trouvent néanmoins courts quand il faut en venir aux effets, ou qu’il s’agit de vaincre les difficultés, parce qu’ayant manqué à la grâce, la grâce leur manque, et alors les scrupules les rongent, leur amour-propre se forme une conscience qui s’accommode avec la sensualité, et la nature reprend le dessus. Je n’exagère rien ; l’expérience le montre journellement.
+
+Je vous en dis pourtant trop, mon cher Monsieur, parce qu’à l’heure où je vous écris, vous êtes peut-être délivré de la suggestion qui vous travaillait. Si cela est, j’en loue Dieu ; et, si cela n’est pas, je le prie qu’il vous en délivre.
+
+Demandez-lui vous-même cette grâce, c’est le premier moyen que je vous donne ; et le second est qu’en cas que le séjour où vous êtes, ou les personnes qui sont avec vous, vous fassent quelque peine, vous vous en alliez à…. J’écris au supérieur qu’il vous y reçoive avec toute la cordialité possible ; ce qu’il fera volontiers, à cause de l’estime et de l’affection qu’il me témoigne avoir pour vous. [^1] [^2]
+
+[^1]: Reg. 2, p. 294. * On trouve dans le dossier de Turin la minute de cette lettre, écrite de la main du frère Ducourneau.
+
+    *1) Date écrite par le frère Ducourneau en marge de la minute. La lettre n’est donc pas de 1647, comme l’a cru le copiste du registre 2.
+
+    *2) Texte de la minute : par des dégoûts fâcheux.
+
+    *3) Texte de la minute : des choses crées.
+
+[^2]: Épître aux Hébreux VI, 4-6.

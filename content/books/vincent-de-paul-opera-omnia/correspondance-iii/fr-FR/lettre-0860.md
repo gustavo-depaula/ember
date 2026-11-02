@@ -1,0 +1,31 @@
+# Lettre 860. À Jean-François de Gondi, Archevêque de Paris
+
+[Entre août et novembre 1646] [^1]
+
+Supplie humblement Vincent Depaul, supérieur général de la congrégation des prêtres de la Mission, disant qu’ayant plu à votre charité pastorale donner auxdits prêtres de la Mission le pouvoir d’établir la confrérie de la Charité pour l’assistance des pauvres malades en toutes les paroisses de votre diocèse où elle se pouvait convenablement établir, après avoir fait ledit établissement en plusieurs villages avec bénédiction, quelques dames charitables de Paris en ont été si touchées qu’elles ont moyenné par Messieurs leurs curés un pareil établissement dans leurs paroisses, comme sont Saint-Germain-l’Auxerrois, Saint-Nicolas-du-Chardonnet, Saint-Leu, Saint-Sauveur, Saint-Médéric [^2], Saint-Etienne, Saint-Sulpice, Saint-Gervais, Saint-Paul et autres, où ladite Charité est établie et s’exerce avec bénédiction.
+
+Mais pource que les dames dont elle est composée sont la plupart de condition qui ne leur permet pas de faire les plus basses et viles fonctions qu’il convient exercer, comme de porter le pot par la ville, faire les saignées, les lavements, panser les plaies, faire les lits et veiller les malades qui sont seuls et tendent à la mort, elles ont pris quelques bonnes filles des champs à qui Dieu avait donné le désir d’assister les pauvres malades, lesquelles vaquent à tous ces petits services, après avoir été dressées à cet effet par une vertueuse veuve nommée Mademoiselle Le Gras, et ont été entretenues, pendant qu’elles ont demeuré en la maison de ladite demoiselle, par l’assistance de quelques charitables veuves et autres personnes, qui y ont contribué de leurs aumônes, de sorte que, depuis treize ou quatorze ans que cet œuvre est commencé, Dieu y a donné sa bénédiction, si bien qu’à présent il y a en chacune desdites paroisses deux ou trois de ces filles, lesquelles travaillent tous les jours à l’assistance desdits pauvres malades et même quelquefois à l’instruction des pauvres filles, quand elles le peuvent, et vivent aux dépens de ladite confrérie des paroisses où elles sont employées, mais si frugalement qu’elles ne dépensent que cent livres au plus par an pour leur nourri ture et vêtement, et en quelques paroisses vingt-cinq écus seulement.
+
+Outre l’emploi desdites filles dans les paroisses, il y en a trois qui sont employées par les dames de la Charité de l’Hôtel-Dieu pour y servir les pauvres malades et leur apprêter les petites douceurs qu’elles leur portent tous les jours audit Hôtel-Dieu. De plus, il y en a d’ordinaire dix ou douze employées pour élever les petits enfants trouvés de cette ville et deux ou trois pour l’assistance des pauvres forçats. Et outre celles qui sont employées ès choses susdites en cette ville, il y en a qui le sont encore à l’hôpital d’Angers, à celui de Nantes, à Richelieu, à Saint-Germain-en-Laye, à l’Hôtel-Dieu de Saint-Denis en France et en d’autres lieux de la campagne, où elles font à peu près les mêmes exercices pour ce qui regarde le traitement des malades, la guérison des plaies et l’instruction des petites filles.
+
+Et pour fournir desdites filles en tous ces lieux et en tous les autres où l’on en demande, ladite demoiselle en élève d’autres chez elle et en a d’ordinaire plus de trente, qu’elle emploie, les unes à instruire les petites filles pauvres qui vont chez elle à l’école, les autres à visiter les malades de la paroisse pour leur porter leur nourriture et des médicaments, ou pour les soigner, les autres pour panser les maux des pauvres de dehors qui les viennent trouver à cet effet, les autres apprendre à lire et à écrire, et les autres à faire le petit ménage de la maison.
+
+Et elle les entretient partie de l’argent que lesdites filles gagnent par leur travail manuel, quand elles ont du temps de reste après leurs emplois ordinaires, partie par l’assistance desdites veuves, qui y contribuent selon leurs facultés, partie par les aumônes ordinaires, mais particulièrement par le revenu que le feu roi et Madame la duchesse d’Aiguillon leur ont charitablement donné à perpétuité, qui se monte environ à deux mille livres par an. Et Ce qui est encore bien considérable dans les emplois de ces pauvres filles, c’est qu’outre le service corporel qu’elles rendent aux pauvres malades, elles tâchent de contribuer au spirituel en la manière qu’elles le peuvent, particulièrement en leur disant de fois à autre quelque bon mot, et donnant quelques avis à ceux qui sont pour mourir à ce qu’ils partent de ce monde en bon état, et à ceux qui guérissent pour leur aider à bien vivre. Et Notre-Seigneur bénit tellement le petit service qu’elles apportent dans leur simplicité, qu’il y a sujet de le glorifier pour les effets qui en réussissent [^3].
+
+Mais parce que les œuvres qui regardent le service de Dieu finissent d’ordinaire en ceux qui les commencent, s’il n’y a quelque liaison spirituelle entre les personnes qui s’y emploient, le suppliant craint qu’il n’arrive de même de cette compagnie, si elle n’est érigée en confrérie. C’est pourquoi il représente à Votre Seigneurie Illustrissime, avec tout le respect qui lui est possible, qu’il semble être à souhaiter qu’il vous plaise ériger ladite assemblée de filles et de veuves en confrérie, sous le titre de *Confrérie de la Charité des servantes des pauvres malades des paroisses, *et de leur bailler pour règlement les articles suivants, selon lesquels elles ont vécu jusques à maintenant et se proposent de vivre le reste de leurs jours [^4].
+
+VINCENT DEPAUL,
+
+supérieur général de la congrégation de La Mission très indigne.
+
+Suscription : A Monseigneur Monseigneur l’Illustrissime et Révérendissime archevêque de Paris. [^5]
+
+[^1]: La première date est celle de l’entrée des sœurs à l’hôpital de Nantes ; la seconde, celle de l’approbation de la supplique.
+
+[^2]: Saint-Merry.
+
+[^3]: Le saint a supprimé ici un assez long passage de la première supplique, probablement parce qu’il contenait l’éloge de son œuvre.
+
+[^4]: Le règlement sera publié au volume des documents.
+
+[^5]: Dossier des Filles de la Charité, copie du temps. Louise de Marillac a elle-même écrit au dos du document "copie de requeste présentée à Monseigneur de Paris pour l’establissement des Filles de la Charité." Cette supplique est une seconde rédaction ; la première a été publiée sous le no 773.

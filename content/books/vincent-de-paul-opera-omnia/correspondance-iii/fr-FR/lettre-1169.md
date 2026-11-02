@@ -1,0 +1,11 @@
+# Lettre 1169. À Etienne Blatiron, Supérieur, à Gênes
+
+Du dernier de l’an 1649.
+
+J’avais bien prévu que votre voyage de Rome se ferait à contretemps si vous l’entrepreniez dans la conjoncture présente de vos affaires ; et je vous ai mandé de le différer, si vous le jugiez convenable Votre compagnie a eu raison aussi de le désirer, mais elle a mal procédé dans la manière de vous retenir : 1° parce qu’elle doit déférer à la conduite du supérieur et aux ordres du général ; 2° qu’elle ne s’est pas adressée à moi pour me représenter les inconvénients de votre éloignement ; 3° de ce que pour l’empêcher elle a eu recours à des moyens extérieurs, ayant imploré l’aide de ceux qui ne sont pas de la congrégation ; car encore que nous devions obéissance aux prélats quant à nos emplois envers le prochain, la direction intérieure appartient néanmoins au supérieur et aux officiers de la compagnie ; 4° dans une famille, on ne voit que les raisons particulières qui la regardent ; et nous voyons non seulement celles-là, mais les raisons générales pour lesquelles on doit ordonner les choses, lesquelles étant inconnues aux particuliers, ils ne doivent pas aussi mettre empêchement à ce qui n’est pas de leur ressort. Enfin, Monsieur, la compagnie est tombée en sa naissance dans le désordre où d’autres ne se trouvent qu’après plusieurs siècles ; et le chemin à la division demeure ouvert, quand les sujets improuvent ce que font les supérieurs. Je veux croire que les vôtres n’ont pas fait réflexion à cela, et partant je les excuse ; mais ne laissez pas de faire entendre au visiteur, qui sera bientôt chez vous, ce que je viens de vous écrire, afin qu’il leur en parle de si bonne façon qu’ils ne tombent plus dans une telle faute.
+
+Vous me dites qu’il y a un surveillant chez vous qui remarque et qui rapporte ce qui se passe ; je vous prie de me dire si c’est un Français, et son nom en termes couverts. Je sais que vous menez tous une vie où non seulement il n’y a rien à reprendre, mais qui est pleine d’édification ; néanmoins je confesse qu’il est bien fâcheux d’être ainsi syndiqués [^1], pource que les esprits adonnés à cela ne jugent jamais des choses selon qu’elles sont, mais selon qu’ils sont eux-mêmes. [^2]
+
+[^1]: *Syndiqués, *censurés.
+
+[^2]: Reg 2,. p 264
