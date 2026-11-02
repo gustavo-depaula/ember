@@ -23,7 +23,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Dante (rest) · Francis of Assisi (rest and early sources). Left: Speculum perfectionis, Robinson 1906 Writings (page-image pass), Actus LXIX–LXXVI (Sabatier 1902), Legenda ad usum chori, English for Celano, Three Companions, Sacrum commercium, Vita nuova, Rime
 - [x] Bonaventure (63 books). Left: vol. VIII dubia and Rhythmica, vol. VII dubia, vol. VI appendix collations, Ars concionandi; editors' notes dropped; Sentences questions not marked inside books; English Legendae
 - [x] Benedict · Bede (rest) · Gregory the Great (rest). Left: Bede's Gospel Homilies (Wikisource text garbled; use Giles vol. 5 / PL 94), Martyrology, De locis sanctis, grammatical works; English for Felix, Letters, Apocalypse; Gregory's doubtful hymns
-- [ ] Anselm (rest) · Bernard (rest)
+- [x] Anselm (rest) · Bernard (rest). Left: Anselm letters III–IV need re-OCR/proofread (draft, Tesseract eng model), dubia; English (Webb, Eales, Mount Melleray, Lewis, Mills, Williams)
 - [ ] Victorines
 - [ ] Peter Lombard (rest)
 - [ ] Bellarmine
