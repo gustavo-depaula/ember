@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Liber sextus reuelacionum, ex Neapolitano et Romano tempore: reuelaciones de Christo, Maria, regibus et statu Ecclesiae.",
-    "en-US": "The sixth book of the Revelations, from her years in Naples and Rome: revelations on Christ, Mary, kings and the state of the Church.",
+    "en-US": "The sixth book of the Revelations, from her years in Naples and Rome: revelations on Christ, Mary, kings and the state of the Church. The Latin is the SSFS critical text; the English (anonymous, from catholic-saints.net) covers only the few chapters it contains.",
     "pt-BR": "O sexto livro das Revelações, dos anos de Nápoles e Roma: revelações sobre Cristo, Maria, os reis e o estado da Igreja."
   },
   "composed": "c. 1350-1372",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bridget-of-sweden/revelationes-6",
   "editions": {
     "la": {
       "editor": "Birger Bergh (Svenska fornskriftsällskapet critical edition)",
       "year": 1991
+    },
+    "en-US": {
+      "translator": "Anonymous (catholic-saints.net)",
+      "year": 2013
     }
   },
   "sources": [
@@ -35,6 +40,14 @@
       "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"VI\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
       "tier": "B",
       "tierEvidence": "Freely distributed online transcription of a medieval text."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/the-prophecies-and-revelations-of-saint-bridget-of-sweden",
+      "edition": "The Prophecies and Revelations of Saint Bridget of Sweden, texts from www.Catholic-Saints.net (Jazzybee Verlag, 2013); translator not named.",
+      "description": "OCR of the ebook text, paragraphs rejoined across page breaks and line-end hyphens closed; each chapter keeps its rubric in italics. ",
+      "tier": "B",
+      "tierEvidence": "Distributed freely online under a Creative Commons Attribution-ShareAlike licence."
     }
   ],
   "toc": [
@@ -335,7 +348,8 @@
     {
       "id": "c050",
       "title": {
-        "la": "Caput 50"
+        "la": "Caput 50",
+        "en-US": "Chapter 50"
       }
     },
     {
@@ -347,7 +361,8 @@
     {
       "id": "c052",
       "title": {
-        "la": "Caput 52"
+        "la": "Caput 52",
+        "en-US": "Chapter 52"
       }
     },
     {
@@ -425,7 +440,8 @@
     {
       "id": "c065",
       "title": {
-        "la": "Caput 65"
+        "la": "Caput 65",
+        "en-US": "Chapter 65"
       }
     },
     {
@@ -593,7 +609,8 @@
     {
       "id": "c093",
       "title": {
-        "la": "Caput 93"
+        "la": "Caput 93",
+        "en-US": "Chapter 93"
       }
     },
     {
