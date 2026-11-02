@@ -1,0 +1,123 @@
+{
+  "id": "challoner-grounds-catholic-doctrine",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Grounds of the Catholic Doctrine",
+    "pt-BR": "Os Fundamentos da Doutrina Católica"
+  },
+  "author": {
+    "en-US": "Bp. Richard Challoner",
+    "pt-BR": "D. Richard Challoner"
+  },
+  "description": {
+    "en-US": "The Grounds of the Catholic Doctrine, as contained in the Profession of Faith of Pius IV (1732): the creed of Pius IV in Challoner's translation, with a catechism in question and answer on the Church, Scripture and tradition, the sacraments, the real presence, communion in one kind, the Mass, purgatory, the invocation of saints, images, indulgences and the supremacy of St. Peter, and an appendix of motives for the Catholic faith.",
+    "pt-BR": "Os Fundamentos da Doutrina Católica, contidos na Profissão de Fé de Pio IV (1732): o credo de Pio IV na tradução de Challoner, com um catecismo em perguntas e respostas sobre a Igreja, a Escritura e a tradição, os sacramentos, a presença real, a comunhão sob uma espécie, a Missa, o purgatório, a invocação dos santos, as imagens, as indulgências e a supremacia de S. Pedro, e um apêndice de motivos da fé católica."
+  },
+  "composed": 1732,
+  "languages": [
+    "en-US"
+  ],
+  "work": "challoner/grounds-catholic-doctrine",
+  "editions": {
+    "en-US": {
+      "editor": "Bp. Richard Challoner (London: Robert Washbourne, 1868)",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/GroundsOfCatholicDoctrine1868",
+      "edition": "The Grounds of the Catholic Doctrine, as contained in the Profession of Faith, first published by authority of Pope Pius IV and translated into English by Richard Challoner, republished with the approbation of the Catholic bishops in England (London: Robert Washbourne, 1868), Internet Archive full-text OCR.",
+      "description": "The profession of faith, the eleven chapters, the conclusion and the appendix; the publisher's list of books is dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Bp. Richard Challoner died in 1781 and the edition is of 1868, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "profession",
+      "title": {
+        "en-US": "A Profession of Catholic Faith"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. Of the Church"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. Of Scripture and Tradition"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. Of the Sacraments"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. Of the Real Presence and Transubstantiation"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. Of Communion in One Kind"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. Of the Mass"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII. Of Purgatory"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII. Of the Veneration and Invocation of Saints"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter IX. Of Images"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter X. Of Indulgences"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter XI. Of the Supremacy of St. Peter and his Successors"
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": {
+        "en-US": "Conclusion"
+      }
+    },
+    {
+      "id": "appendix",
+      "title": {
+        "en-US": "Appendix"
+      }
+    }
+  ]
+}

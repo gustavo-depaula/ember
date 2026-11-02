@@ -1,0 +1,102 @@
+{
+ "id": "challoner-grounds-catholic-doctrine",
+ "dir": "challoner-opera-omnia/grounds-catholic-doctrine",
+ "slug": "grounds-catholic-doctrine",
+ "work": "challoner/grounds-catholic-doctrine",
+ "name": "The Grounds of the Catholic Doctrine",
+ "name_pt": "Os Fundamentos da Doutrina Cat\u00f3lica",
+ "author": "Bp. Richard Challoner",
+ "author_pt": "D. Richard Challoner",
+ "died": 1781,
+ "desc": "The Grounds of the Catholic Doctrine, as contained in the Profession of Faith of Pius IV (1732): the creed of Pius IV in Challoner's translation, with a catechism in question and answer on the Church, Scripture and tradition, the sacraments, the real presence, communion in one kind, the Mass, purgatory, the invocation of saints, images, indulgences and the supremacy of St. Peter, and an appendix of motives for the Catholic faith.",
+ "desc_pt": "Os Fundamentos da Doutrina Cat\u00f3lica, contidos na Profiss\u00e3o de F\u00e9 de Pio IV (1732): o credo de Pio IV na tradu\u00e7\u00e3o de Challoner, com um catecismo em perguntas e respostas sobre a Igreja, a Escritura e a tradi\u00e7\u00e3o, os sacramentos, a presen\u00e7a real, a comunh\u00e3o sob uma esp\u00e9cie, a Missa, o purgat\u00f3rio, a invoca\u00e7\u00e3o dos santos, as imagens, as indulg\u00eancias e a supremacia de S. Pedro, e um ap\u00eandice de motivos da f\u00e9 cat\u00f3lica.",
+ "composed": 1732,
+ "editor": "Bp. Richard Challoner (London: Robert Washbourne, 1868)",
+ "year": 1868,
+ "url": "https://archive.org/details/GroundsOfCatholicDoctrine1868",
+ "edition": "The Grounds of the Catholic Doctrine, as contained in the Profession of Faith, first published by authority of Pope Pius IV and translated into English by Richard Challoner, republished with the approbation of the Catholic bishops in England (London: Robert Washbourne, 1868), Internet Archive full-text OCR.",
+ "srcnote": "The profession of faith, the eleven chapters, the conclusion and the appendix; the publisher's list of books is dropped.",
+ "src": "challoner/ia/GroundsOfCatholicDoctrine1868_djvu.txt",
+ "start": 107,
+ "end": 3302,
+ "fn": false,
+ "front": [
+  {
+   "id": "profession",
+   "title": "A Profession of Catholic Faith",
+   "from": 109,
+   "to": 254
+  }
+ ],
+ "back": [],
+ "label": {
+  "SECTION": "Section"
+ },
+ "units": [
+  {
+   "id": "chapter-1",
+   "title": "Chapter I. Of the Church",
+   "from": 256
+  },
+  {
+   "id": "chapter-2",
+   "title": "Chapter II. Of Scripture and Tradition",
+   "from": 768
+  },
+  {
+   "id": "chapter-3",
+   "title": "Chapter III. Of the Sacraments",
+   "from": 1008
+  },
+  {
+   "id": "chapter-4",
+   "title": "Chapter IV. Of the Real Presence and Transubstantiation",
+   "from": 1336
+  },
+  {
+   "id": "chapter-5",
+   "title": "Chapter V. Of Communion in One Kind",
+   "from": 1499
+  },
+  {
+   "id": "chapter-6",
+   "title": "Chapter VI. Of the Mass",
+   "from": 1676
+  },
+  {
+   "id": "chapter-7",
+   "title": "Chapter VII. Of Purgatory",
+   "from": 1817
+  },
+  {
+   "id": "chapter-8",
+   "title": "Chapter VIII. Of the Veneration and Invocation of Saints",
+   "from": 2008
+  },
+  {
+   "id": "chapter-9",
+   "title": "Chapter IX. Of Images",
+   "from": 2507
+  },
+  {
+   "id": "chapter-10",
+   "title": "Chapter X. Of Indulgences",
+   "from": 2669
+  },
+  {
+   "id": "chapter-11",
+   "title": "Chapter XI. Of the Supremacy of St. Peter and his Successors",
+   "from": 2737
+  },
+  {
+   "id": "conclusion",
+   "title": "Conclusion",
+   "from": 2871
+  },
+  {
+   "id": "appendix",
+   "title": "Appendix",
+   "from": 2919
+  }
+ ]
+}
