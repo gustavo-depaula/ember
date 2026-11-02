@@ -1,0 +1,301 @@
+{
+  "id": "bellarmine-de-potestate-summi-pontificis",
+  "cover": "classic",
+  "name": {
+    "la": "Tractatus de potestate Summi Pontificis in rebus temporalibus",
+    "en-US": "Treatise on the Power of the Supreme Pontiff in Temporal Matters",
+    "pt-BR": "Tratado sobre o poder do Sumo Pontífice nas coisas temporais"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Adversus Guilielmum Barclaium (1610). Textus ex editione Vivès (1870-74), tomo XII, ex scanno OCR.",
+    "en-US": "Against William Barclay (1610). Latin only: the Vivès edition (1870-74), volume 12, from an OCR scan.",
+    "pt-BR": "Contra Guilherme Barclay (1610)."
+  },
+  "composed": "1610",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/de-potestate-summi-pontificis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia12bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 12 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. De Excusatione B arclaii",
+        "en-US": "Caput I. De Excusatione B arclaii"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Excutitur principium sive fundamentum doctrinas Barclaii",
+        "en-US": "Caput II. Excutitur principium sive fundamentum doctrinas Barclaii"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Potestatem Summi Pontificis in temporalibus, non esse rem dubiam, neque ab opinionibus doctorum solum pendere",
+        "en-US": "Caput III. Potestatem Summi Pontificis in temporalibus, non esse rem dubiam, neque ab opinionibus doctorum solum pendere"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De falsa causa originis temporalis potestatis Pontificiae a Barclaio assignata",
+        "en-US": "Caput IV. De falsa causa originis temporalis potestatis Pontificiae a Barclaio assignata"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. De potestate in temporalia, quam indirecte theologi summo Pontifici tribuunt",
+        "en-US": "Caput V. De potestate in temporalia, quam indirecte theologi summo Pontifici tribuunt"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Cur primis septingentis annis Summi Pontifices non deposuerunt reges haereticos, vel apostatas",
+        "en-US": "Caput VI. Cur primis septingentis annis Summi Pontifices non deposuerunt reges haereticos, vel apostatas"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX",
+        "en-US": "Caput IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Discutitur sententia Othonis Frisingensis de judicio Gregorii septimi Pontificis",
+        "en-US": "Caput X. Discutitur sententia Othonis Frisingensis de judicio Gregorii septimi Pontificis"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI",
+        "en-US": "Caput XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Diluuntur argumenta adversus Theologorum sententiam 'de Potestate Pontificis Maximi",
+        "en-US": "Caput XII. Diluuntur argumenta adversus Theologorum sententiam 'de Potestate Pontificis Maximi"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Defenditur prima ratio Bellarmini pro potestate Pontificis in temporalibus",
+        "en-US": "Caput XIII. Defenditur prima ratio Bellarmini pro potestate Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Defenditur confirmatio primae rationis Bellarmini",
+        "en-US": "Caput XIV. Defenditur confirmatio primae rationis Bellarmini"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Refutatur digressio Barclaii",
+        "en-US": "Caput XV. Refutatur digressio Barclaii"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Refellitur alia digressio Barclaii",
+        "en-US": "Caput XVI. Refellitur alia digressio Barclaii"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Defenditur secunda ratio pro potestate Summi Pontificis in temporalibus",
+        "en-US": "Caput XVII. Defenditur secunda ratio pro potestate Summi Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Defenditur secunda pars rationis secundse pro potestate Summi Pontificis in temporalibus",
+        "en-US": "Caput XVIII. Defenditur secunda pars rationis secundse pro potestate Summi Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. De sententia S. Bernardi circa potestatem Pontificis Maximi in temporalibus",
+        "en-US": "Caput XIX. De sententia S. Bernardi circa potestatem Pontificis Maximi in temporalibus"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Defenditur tertia ratio Bellarmini",
+        "en-US": "Caput XX. Defenditur tertia ratio Bellarmini"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Defenditur confirmatio rationis tertiae principalis",
+        "en-US": "Caput XXI. Defenditur confirmatio rationis tertiae principalis"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Defenditur altera confirmatio rationis tertiae principalis",
+        "en-US": "Caput XXII. Defenditur altera confirmatio rationis tertiae principalis"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. Defenditur tertia confirmatio tertiae rationis principalis",
+        "en-US": "Caput XXIII. Defenditur tertia confirmatio tertiae rationis principalis"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Defenditur ratio quarta Bellarmini pro potestate Pontificis in temporalibus",
+        "en-US": "Caput XXIV. Defenditur ratio quarta Bellarmini pro potestate Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Defenditur quinta ratio Bellarmini pro potestate Summi Pontificis in temporalibus",
+        "en-US": "Caput XXV. Defenditur quinta ratio Bellarmini pro potestate Summi Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI. Detenditur prima pars rationis quintae pro potestate summi Pontificis in temporalibus",
+        "en-US": "Caput XXVI. Detenditur prima pars rationis quintae pro potestate summi Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII. Utrum votum, an juramentum magis obliget",
+        "en-US": "Caput XXVII. Utrum votum, an juramentum magis obliget"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII. Digressio circa sententiam cap. Inter corporalia, de translatione Episcopi. [",
+        "en-US": "Caput XXVIII. Digressio circa sententiam cap. Inter corporalia, de translatione Episcopi. ["
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "la": "Caput XXIX. De vero sensu cap. Inter corporalia, de translatione Episcopi",
+        "en-US": "Caput XXIX. De vero sensu cap. Inter corporalia, de translatione Episcopi"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "la": "Caput XXX. Respondetur ad objectiones contra primam partem rationis quintae pro protestate Summi Pontificis in temporalibus",
+        "en-US": "Caput XXX. Respondetur ad objectiones contra primam partem rationis quintae pro protestate Summi Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "la": "Caput XXXI. Dialogismus inter Populum nimis addictum regi terreno, et pontificem populo salubriter consulentem",
+        "en-US": "Caput XXXI. Dialogismus inter Populum nimis addictum regi terreno, et pontificem populo salubriter consulentem"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "la": "Caput XXXII. Refutantur falsa quaedam pronunc iata Barclaii, quae digrediendo effutiit",
+        "en-US": "Caput XXXII. Refutantur falsa quaedam pronunc iata Barclaii, quae digrediendo effutiit"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "la": "Caput XXXIII. Defenditur pars secunda rationis quintae principalis pro potestate summi Pontificis in temporalibus",
+        "en-US": "Caput XXXIII. Defenditur pars secunda rationis quintae principalis pro potestate summi Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "la": "Caput XXXIV. Refutatur error Barclaii de exemptione clericorum",
+        "en-US": "Caput XXXIV. Refutatur error Barclaii de exemptione clericorum"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "la": "Caput XXXVI. Defenditur secunda, et tertia 'pars rationis quintae principalis pro potestate Pontificis Maximi in temporalibus",
+        "en-US": "Caput XXXVI. Defenditur secunda, et tertia 'pars rationis quintae principalis pro potestate Pontificis Maximi in temporalibus"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "la": "Caput XXXVII. Defenditur primum exemplum allatum pro potestate summi Pontificis in temporalibus",
+        "en-US": "Caput XXXVII. Defenditur primum exemplum allatum pro potestate summi Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "la": "Caput XXXVIII. Defenditur secundum exemplum pro potestate Pontificis in temporalibus",
+        "en-US": "Caput XXXVIII. Defenditur secundum exemplum pro potestate Pontificis in temporalibus"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "la": "Caput XXXIX. Defenditur tertium exemplum allatum pro potestate summi Pontificis in temporalibus",
+        "en-US": "Caput XXXIX. Defenditur tertium exemplum allatum pro potestate summi Pontificis in temporalibus"
+      }
+    }
+  ]
+}
