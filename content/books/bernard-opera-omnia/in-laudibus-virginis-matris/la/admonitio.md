@@ -1,0 +1,3 @@
+# Admonitio Mabillonii
+
+Sequentes quatuor homiliae, quod unum est ex primis Bernardi operibus, etsi vulgo inscribantur « Super *Missus est;* ex mente tamen auctoris, ipsius inquam Bernardi, inscribendae, « De Laudibus Virginis matris. » Nam sic ipse in praesenti Praefatione, et in epistola 18 ad Petrum diaconum cardinalem: « Scio, » inquit, « me scripsisse quatuor Homilias in laudibus Virginis matris; nam hunc habent titulum, » etc. Et iterum epistola 89, ad Ogerium: « Alium libellum a me nuper editum in Laudibus Virginis matris tibi transmitto. » Porro videndus Bernardus tractatu de Baptismo, ad Hugonem, cap. 5, ubi sententiam quamdam primi hujus sermonis explicat et a calumnia vindicat.

@@ -1,0 +1,2319 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De laudibus Virginis Matris</title>
+              <author ref="http://viaf.org/viaf/59875293">Bernardus Claraevallensis<date>1090-1153</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 183</title>
+           <idno>BerCla.DeLaViM</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<note>
+        <div1>
+          <head>MONITUM IN SEQUENTES HOMILIAS.</head>
+<p>Sequentes quatuor homiliae, quod unum est ex primis Bernardi operibus, etsi vulgo inscribantur  « Super <hi>Missus est;</hi> 
+ ex mente tamen auctoris, ipsius inquam Bernardi, inscribendae,  « De Laudibus Virginis matris. » 
+Nam sic ipse in praesenti Praefatione, et in epistola 18 ad Petrum diaconum cardinalem:  « Scio, »  inquit,
+ « me scripsisse quatuor Homilias in laudibus Virginis matris; nam hunc habent titulum, »  etc. Et iterum
+epistola 89, ad Ogerium:  « Alium libellum a me nuper editum in Laudibus Virginis matris tibi transmitto. » 
+Porro videndus Bernardus tractatu de Baptismo, ad Hugonem, cap. 5, ubi sententiam quamdam
+primi hujus sermonis explicat et a calumnia vindicat.</p>
+</div1>
+      </note>
+
+<div1>
+        <head>PRAEFATIO.</head>
+
+<pb n="0055C"/>
+<p>Scribere me aliquid et devotio jubet, et prohibet
+occupatio. Verumtamen quia praepediente corporali
+modestia, fratrum ad praesens non valeo sectari
+conventum; id tantillum otii, quod vel mihi de
+somno fraudans in noctibus intercipere sinor, non
+sinam otiosum. Libet ergo tentare id potissimum
+aggredi, quod saepe animum pulsavit; loqui videlicet
+aliquid in laudibus Virginis matris, super illa
+lectione evangelica, in qua, Luca referente, Dominicae
+Annuntiationis continetur historia. Ad quod
+sane opus faciendum etsi nulla fratrum (quorum
+<pb n="0055D"/>
+me profectibus deservire necesse est) vel necessitas
+urgeat, vel utilitas moveat [ <hi>alias</hi> moneat]; dum
+tamen ex hoc non impediar, quo ad quaeque ipsorum
+necessaria minus paratus inveniar, non arbitror
+eos debere gravari, si propriae satisfacio devotioni.</p>
+</div1>
+
+<div1>
+        <head> <emph>733</emph> HOMILIA I. <hi>Missus est angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David: et nomen Virginis Maria <note>(Luc. I, 26, 27)</note>
+          </hi>.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Quid sibi voluit evangelista, tot propria nomina
+rerum in hoc loco tam signanter exprimere? Credo
+<pb n="0056C"/>
+quia noluit nos negligenter audire, quod tam diligenter
+studuit enarrare. Nominat siquidem nuntium
+qui mittitur, Dominum a quo mittitur, Virginem ad
+quam mittitur, sponsum quoque virginis: amborumque
+genus, civitatem ac regionem propriis designat
+nominibus. Utquid hoc? Putasne aliquid horum
+supervacue positum sit? Nequaquam. Si enim nec
+folium de arbore sine causa, nec unus ex passeribus
+sine Patre coelesti cadit super terram <note>(Matth. X, 29)</note>;
+putem ego de ore sancti Evangelistae superfluum
+difluere verbum, praesertim in sacra historia Verbi?
+Non puto. Plena quippe sunt omnia supernis mysteriis,
+ac coelesti singula dulcedine redundantia; si
+tamen diligentem habeant inspectorem, qui noverit
+sugere mel de petra, oleumque de saxo durissimo
+<pb n="0056D"/>
+Nempe in illa die stillarunt montes dulcedinem, et
+colles fluxerunt lac et mel <hi>(Joel III, 18)</hi>, quando
+rorantibus coelis desuper, nubibusque pluentibus
+justum, aperta est terra laeta germinans Salvatorem <note>(Isa. XLV, 8)</note>:
+quando Domino dante benignitatem,
+et terra nostra reddente fructum suum, super illum
+montem montium, montem coagulatum et pinguem
+misericordia et veritas obviaverunt sibi, justitia et
+pax osculatae sunt <note>(Psal. LXXXIV, 11)</note>. Illo quoque
+in tempore unus iste inter caeteros montes non
+modicus, beatus hic videlicet evangelista, dum
+desideratum nobis nostrae salutis exordium suo mellifluo
+<pb n="0057A"/>
+commendavit eloquio, veluti perflante austro,
+atque e vicino sole radiante justitiae, quaedam ex eo
+spiritualia profluxerunt aromata. Utinam et nunc
+Deus emittat verbum suum, et liquefaciat ea nobis;
+perflet spiritus ejus, et fiant nobis intelligibilia
+verba evangelica: fiant in cordibus nostris desiderabilia
+super aurum et lapidem pretiosum multum,
+fiant et dulciora super mel et favum!</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Ait itaque: <hi>Missus est angelus Gabriel a Deo.</hi> 
+Non arbitror hunc angelum de minoribus esse, qui
+qualibet ex causa, crebra soleant ad terras fungi
+legatione: quod ex ejus nomine palam intelligi
+datur, quod interpretatum <hi>fortitudo Dei</hi> dicitur; et
+quia non ab alio aliquo forte excellentiori se (ut
+assolet) spiritu, sed ab ipso Deo mitti perhibetur.
+<pb n="0057B"/>
+Propter hoc ergo positum est, <hi>a Deo;</hi> vel ideo dictum
+est, <hi>a Deo,</hi> ne cui vel beatorum spiritum suum Deus,
+antequam Virgini, revelasse putetur consilium, excepto
+duntaxat archangelo Gabriele, qui utique tantae
+inter suos inveniri potuerit excellentiae, ut tali et
+nomine dignus haberetur, et nuntio. Nec discordat
+nomen a nuntio. Dei quippe virtutem Christum
+quem melius nuntiare decebat, quam hunc, quem
+simile nomen honorat? Nam quid est aliud fortitudo,
+quam virtus? Non autem dedecens aut incongruum
+videatur, dominum et nuntium communi censeri
+vocabulo; cum similis in utroque appellationis, non
+sit tamen utriusque similis causa. Aliter quippe
+Christus fortitudo vel virtus Dei dicitur, aliter angelus.
+<pb n="0057C"/>
+Angelus enim tantum nuncupative, Christus
+autem etiam substantive Christus Dei virtus <note>(I Cor. I,
+24)</note> et dicitur et est, quae forti armato, qui suum
+atrium in pace custodire solebat, fortior superveniens,
+ipsum suo brachio debellavit; et sic ei vasa
+captivitatis potenter eripuit. Angelus vero fortitudo
+Dei appellatus est, vel quod hujusmodi meruerit
+praerogativam officii, quo ejusdem nuntiaret adventum
+virtutis: vel quia virginem natura pavidam,
+simplicem, verecundam, de miraculi novitate ne
+expavesceret, confortare deberet: quod et fecit, <hi>Ne timeas,</hi> 
+ inquiens, <hi>Maria, invenisti gratiam apud
+Deum.</hi> Sed et ipsius sponsum, hominem utique nihilominus
+humilem ac timoratum, non irrationabiliter
+forsitan idem angelus confortasse <emph>734</emph> creditur,
+<pb n="0057D"/>
+quanquam tunc ab evangelista non nominetur. <hi>Joseph,</hi> 
+ inquit, <hi>fili David, ne timeas accipere Mariam
+conjugem tuam <note>(Matth. I, 20)</note>
+          </hi>. Convenienter itaque
+Gabriel ad hoc opus eligitur: imo quia tale illi negotium
+injungitur, recte tali nomine designatur.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Missus est ergo angelus Gabriel a Deo. Quo? <hi>In civitatem Galilaeae, cui nomen Nazareth.</hi> 
+ Videamus
+si, ut ait Nathanael, <hi>a Nazareth potest aliquid boni
+esse <note>(Joan. I, 46)</note>
+          </hi>. Nazareth interpretatur <hi>flos.</hi> Videntur
+autem mihi quoddam semen fuisse divinae cognitionis,
+tanquam e coelo jactatum in terras, allocutiones
+et promissiones factae coelitus ad patres,
+Abraham scilicet, Isaac et Jacob; de quo semine
+scriptum est: <hi>Nisi Dominus Sabaoth reliquisset nobis
+semen, sicut Sodoma fuissemus; et quasi Gomorrha
+<pb n="0058A"/>
+similes essemus <note>(Isa. I, 9)</note>
+          </hi>. Floruit autem hoc semen
+in mirabilibus, quae ostensa sunt in exitu Israel de
+Aegypto, in figuris et aenigmatibus per totum iter
+in deserto usque in terram promissionis, et deinceps
+in visionibus et vaticiniis prophetarum, in ordinatione
+quoque regni ac sacerdotii usque ad
+Christum. Christus autem hujus seminis et horum
+florum non immerito fructus esse intelligitur, dicente
+David: <hi>Dominus dabit benignitatem. et terra
+nostra dabit fructum suum <note>(Psal. LXXXIV, 13)</note>
+          </hi>; et
+iterum: <hi>De fructu ventris tui ponam super sedem
+tuam <note>(Psal. CXXXI, 11)</note>
+          </hi>. In Nazareth ergo nuntiatur
+Christus nasciturus; quia in flore speratur fructus
+processurus. Sed prodeunte fructu, flos decidit, quia
+veritate apparente in carne, figura pertransiit. Unde
+<pb n="0058B"/>
+et Nazareth civitas Galilaeae dicitur, id est <hi>transmigrationis:</hi> 
+quia nascente Christo, omnia illa transierunt
+quae superius enumeravi, quae, ut ait Apostolus, <hi>in
+figura contingebant illis <note>(I Cor. X, 11)</note>
+          </hi>. Hos ergo
+flores et nos qui jam fructum tenemus, pertransisse
+videmus: et dum adhuc florere videbantur, transituri
+praevidebantur. Unde David: <hi>Mane sicut herba
+transeat, mane floreat et transeat: vespere decidat,
+induret et arescat <note>(Psal. LXXXIX, 6)</note>
+          </hi>. Vespere etenim,
+id est, quando venit plenitudo temporis, in quo
+misit Deus Unigenitum suum, factum ex muliere,
+factum sub lege <note>(Galat. IV, 4)</note>, dicente ipso: <hi>Ecce
+nova facio omnia <note>(Apoc. XXI, 5)</note>
+          </hi>; vetera transierunt
+et disparuerunt, quomodo in novitate succrescentis
+fructus flores decidunt et arescunt. Unde rursus
+<pb n="0058C"/>
+scriptum est: <hi>Fenum aruit, et flos decidit; verbum
+autem Domini manet in aeternum.</hi> Credo, non ambigis
+quin verbum fructus sit; Verbum autem Christus
+est.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Bonus itaque fructus Christus, qui manet in
+aeternum. Sed ubi est fenum quod aruit? ubi est flos
+qui decidit? Propheta respondeat. <hi>Omnis caro fenum;
+et omnis gloria ejus, tanquam flos feni <note>(Isa.
+XL, 8)</note>
+          </hi>. Si omnis caro fenum; ergo carnalis ille populus
+Judaeorum ut fenum aruit [ <hi>alias,</hi> fuit]. Annon
+fenum aruit, dum idem populus ab omni spiritus
+pinguedine vacuus, siccae litterae adhaesit? Annon
+etiam flos decidit, quando gloriatio, quam habebant
+in lege, non remansit? Si flos non decidit, ubi ergo
+<pb n="0058D"/>
+regnum, ubi sacerdotium, ubi prophetae, ubi templum,
+ubi denique magnalia illa, de quibus gloriari
+solebant, et dicere: <hi>Quanta audivimus et cognovimus
+ea, et patres nostri narraverunt nobis?</hi> et iterum: <hi>Quanta mandavit patribus nostris nota facere ea filiis
+suis? 
+ <note>(Psal. LXXVII, 3.)</note>
+          </hi> Et haec dicta sunt pro eo quod
+positum est: <hi>In Nazareth civitatem Galilaeae.</hi> </p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ In illam ergo civitatem missus est angelus Gabriel
+a Deo. Ad quem? <hi>Ad Virginem desponsatam
+viro, cui nomen erat Joseph.</hi> Quae est haec Virgo
+tam venerabilis, ut salutetur ab angelo; tam humilis,
+ut desponsata sit fabro? Pulchra permistio virginitatis
+et humilitatis: nec mediocriter placet Deo
+illa anima, in qua et humilitas commendat virginitatem,
+et virginitas exornat humilitatem. Sed
+<pb n="0059A"/>
+quanta putas veneratione digna est, in qua humilitatem
+exaltat fecunditas, et partus consecrat virginitatem?
+Audis virginem, audis humilem: si non
+potes virginitatem humilis, imitare humilitatem virginis.
+Laudabilis virtus virginitas, sed magis necessaria
+humilitas. Illa consulitur, ista praecipitur. Ad
+illam invitaris, ad istam cogeris. De illa dicitur: <hi>Qui potest capere, capiat 
+ <note>(Matth. XIX, 12)</note>
+          </hi>; de ista
+dicitur: <hi>Nisi quis efficiatur sicut parvulus iste, non
+intrabit in regnum</hi> <emph>735</emph> <hi>coelorum <note>(Matth. XVIII, 3)</note>
+          </hi>.
+Illa ergo remuneratur, ista exigitur. Potes denique
+sine virginitate salvari; sine humilitate non potes.
+Potest, inquam, placere humilitas, quae virginitatem
+deplorat amissam; sine humilitate autem (audeo
+dicere) nec virginitas Mariae placuisset. <hi>Super quem,</hi> 
+<pb n="0059B"/>
+inquit, <hi>requiescet spiritus meus, nisi super humilem
+et quietum? <note>(Isai. LXVI, 2.)</note> Super humilem,</hi> dixit, non,
+super virginem. Si igitur Maria humilis non esset,
+super eam Spiritus sanctus non requievisset; si
+super eam non requievisset, nec impraegnasset.
+Quomodo enim de ipso sine ipso conciperet? Patet
+itaque, quia ut de Spiritu sancto conciperet, sicut
+ipsa perhibet, <hi>respexit humilitatem ancillae suae Deus <note>(Luc. I, 48)</note>
+          </hi>,
+potius quam virginitatem. Et si placuit
+ex virginitate, tamen ex humilitate concepit. Unde
+constat, quia etiam ut placeret virginitas, humilitas
+procul dubio fecit.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Quid dicis, virgo superbe? Maria virginem se
+oblita gloriatur de humilitate: et tu negligendo humilitatem,
+blandiris tibi de virginitate? <hi>Respexit,</hi> 
+<pb n="0059C"/>
+ait illa, <hi>humilitatem ancillae suae.</hi> Quae illa? Virgo
+utique sancta, virgo sobria, virgo devota. Nunquid
+tu castior illa? nunquid devotior? Aut nunquid tua
+forte pudicitia gratior castitate Mariae; ut tu scilicet
+sine humilitate placere sufficias ex tua, quod illa non
+potuit ex sua? Denique quanto honorabilior es ex
+singulari munere castimoniae, tanto tibi tu majorem
+injuriam facis, quod ejus in te decorem foedas permistione
+superbiae. Alioquin expedit tibi virginem
+non esse, quam de virginitate insolescere. Non omnium
+quidem est virginitas: multo tamen pauciorum
+est cum virginitate humilitas, Si igitur virginitatem
+in Maria uon potes nisi mirari, stude humilitatem
+imitari, et sufficit tibi. Quod si et virgo, et
+humilis es, quisquis es, magnus es.
+<pb n="0059D"/>
+</p>
+        </div3>
+<div3>
+          <head>7. </head>
+          <p>
+Est tamen majus aliquid quod mireris in Maria:
+scilicet cum virginitate fecunditas. A saeculo enim
+non est auditum, ut aliqua simul mater esset et virgo.
+O si [ <hi>alias,</hi> quod si] et cujus est mater attendas! quo
+te tua super ejus mirabili celsitudine ducet admiratio?
+Nonne ad hoc, ut te videas nec satis posse mirari?
+Nonne tuo, imo Veritatis judicio, illa quae Deum
+habuit filium, super omnes etiam choros exaltabitur
+angelorum? Annon Deum et Dominum angelorum
+Maria suum audacter appellat filium, dicens: <hi>Fili,
+quid fecisti nobis sic? <note>(Luc. II, 48.)</note>
+          </hi> Quis hoc audeat
+angelorum? Sufficit eis, et pro magno habent, quod
+cum sint spiritus ex conditione, ex gratia facti sunt
+et vocati angeli, testante David: <hi>Qui facit,</hi> inquit,
+<pb n="0060A"/> <hi>angelos suos spiritus 
+ <note>(Psal. CIII, 4)</note>
+          </hi>. Maria vero matrem
+se agnoscens, majestatem illam, cui illi cum
+reverentia serviunt, cum fiducia suum nuncupat
+filium. Nec dedignatur nuncupari Deus quod esse
+dignatus est. Nam paulo post subdit evangelista: <hi>Et
+erat,</hi> inquiens, <hi>subditus illis <note>(Luc. II, 51)</note>
+          </hi>. Quis, quibus?
+Deus hominibus, Deus, inquam, cui angeli subditi
+sunt, cui principatus et potestates obediunt,
+subditus erat Mariae, nec tantum Mariae, sed etiam
+Joseph propter Mariam. Mirare ergo utrumlibet, et
+elige quid amplius mireris, sive Filii benignissimam
+dignationem, sive Matris excellentissimam dignitatem.
+Utrinque stupor, utrinque miraculum. Et
+quod Deus feminae obtemperet, humilitas absque
+exemplo; et quod Deo femina principetur, sublimitas
+<pb n="0060B"/>
+sine socio. In laudibus virginum singulariter canitur,
+quod sequuntur Agnum quocunque ierit <note>(Apoc.
+XIV, 4)</note>. Quibus ergo laudibus judicas dignam, quae
+etiam praeit?</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Disce, homo, obedire; disce, terra, subdi;
+disce, pulvis, obtemperare. De auctore tuo loquens
+evangelista, <hi>Et erat,</hi> inquit, <hi>subditus illis;</hi> haud
+dubium, quin Mariae et Joseph. Erubesce, superbe
+cinis! Deus se humiliat, et tu te exaltas? Deus se
+hominibus subdit, et tu dominari gestiens hominibus,
+tuo te praeponis auctori? Utinam mihi aliquando,
+tale aliquid cogitanti, Deus respondere dignetur,
+quod et suo increpando respondit apostolo: <hi>Vade,</hi> 
+ inquit, <hi>post me, Satana, quia</hi> <emph>736</emph> <hi>non sapis
+ea quae Dei sunt <note>(Matth. XVI, 23)</note>
+          </hi>. Quoties enim hominibus
+<pb n="0060C"/>
+praeesse desidero, toties Deum meum praeire
+contendo: et tunc vere non sapio ea quae Dei
+sunt. De ipso namque dictum est: <hi>Et erat subditus
+illis.</hi> Si hominis, o homo, imitari dedignaris exemplum,
+certe non erit tibi indignum sequi Auctorem
+tuum. Si non potes forsitan sequi eum quocunque
+ierit, dignare vel sequi quo tibi condescendit. Hoc
+est, si non potes sublimem incedere semitam virginitatis,
+sequere vel Deum per tutissimam viam humilitatis:
+a cujus rectitudine si qui etiam de virginibus
+deviaverint, ut verum fatear, nec ipsi sequuntur
+Agnum quocunque ierit. Sequitur quidem Agnum
+coinquinatus humilis, sequitur et virgo superbus;
+sed neuter quocunque ierit: quia nec ille ascendere
+<pb n="0060D"/>
+potest ad munditiam Agni, qui sine macula est; nec
+is ad ejusdem mansuetudinem descendere dignatur,
+quia scilicet non coram tondente, sed coram occidente,
+se obmutuit. Attamen salubriorem elegit sequendi
+partem in humilitate peccator, quam in virginitate
+superbus: cum et illius immunditiam sua
+humilis satisfactio purget, et hujus pudicitiam superbia
+inquinet.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Sed felix Maria, cui nec humilitas defuit, nec
+virginitas. Et quidem singularis virginitas, quam
+non temeravit, sed honoravit fecunditas: et nihilominus
+specialis humilitas, quam non abstulit, sed
+extulit fecunda virginitas: et incomparabilis prorsus
+fecunditas, quam virginitas simul comitatur et
+humilitas. Quid horum non mirabile? quid non
+<pb n="0061A"/>
+incomparabile? quid non singulare? Mirum vero si
+non haesitas in eorum ponderatione, quid tua judices
+dignius admiratione, utrum videlicet potius stupenda
+sit fecunditas in virgine, an in matre integritas;
+sublimitas in prole, an cum tanta sublimitate
+humilitas: nisi quod indubitanter horum singulis
+praeferenda sunt simul cuncta, et incomparabiliter
+excellentius est atque felicius, omnia percepisse,
+quam aliqua. Et quid mirum si Deus, qui mirabilis
+legitur et cernitur in sanctis suis <note>(Psal. LXVII, 36)</note>,
+mirabiliorem se exhibuit in Matre sua? Veneramini
+ergo, conjuges, in carne corruptibili carnis integritatem:
+miramini etiam, vos sacrae virgines, in virgine
+fecunditatem: imitamini, omnes homines, Dei
+Matris humilitatem. Honorate, sancti Angeli, vestri
+<pb n="0061B"/>
+Regis Matrem, qui nostrae adoratis Virginis Prolem,
+ipsum utique nostrum pariter ac vestrum regem,
+nostri generis reparatorem, vestrae civitatis instauratorem.
+Cujus apud vos tam sublimis, inter nos tam
+humilis, a vobis pariter, et a nobis detur et dignitati
+debita reverentia, et dignationi honor et gloria in
+saecula saeculorum. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>HOMILIA II. <hi>In Luc. I, 26, 27.</hi> </head>
+<div3>
+          <head>1.</head>
+          <p>
+ Novum quidem canticum illud, quod solis dabitur
+in regno Dei cantare virginibus, ipsam virginum
+Reginam cum caeteris, imo primam inter caeteras
+esse cantaturam, nemo est qui ambigat. Puto
+autem illam, praeter illud quod solis licet, cum omnibus
+<pb n="0061C"/>
+tamen virginibus ei, ut dixi, commune erit,
+dulciori quodam atque elegantiori carmine laetificaturam
+esse civitatem Dei. Cujus utique dulcisonos
+depromere vel exprimere modulos ne ipsarum quidem
+virginum ulla digna invenietur; quia soli merito
+decantandum servabitur, quae sola de partu, et
+partu divino gloriatur. Gloriatur dixerim de partu,
+non in se, sed in ipso quem peperit. Deus siquidem
+(Deus enim est quem peperit). Matrem suam singulari
+in coelestibus donaturus gloria, singulari in terris
+praevenire curavit et gratia, qua videlicet ineffabiliter
+et intacta conciperet, et pareret incorrupta.
+Porro Deo hujusmodi decebat nativitas, qua nonnisi
+de Virgine nasceretur: talis congruebat et
+<pb n="0061D"/>
+Virgini partus, ut non pareret nisi Deum. Proinde
+factor hominum ut homo fieret, <emph>737</emph> nasciturus de
+homine, talem sibi ex omnibus debuit deligere, imo
+condere matrem, qualem et se decere sciebat, et
+sibi noverat placituram. Voluit itaque esse virginem,
+de qua immaculata immaculatus procederet, omnium
+maculas purgaturus: voluit et humilem, de qua mitis
+et humilis corde prodiret, harum in se virtutum
+necessarium omnibus saluberrimumque exemplum
+ostensurus. Dedit ergo Virgini partum, qui ei jam
+ante et virginitatis inspiraverat votum, et humilitatis
+praerogaverat meritum. Alioquin quomodo angelus
+<pb n="0062A"/>
+eam in sequentibus gratia plenam pronuntiat, si
+quidpiam vel parum boni, quod ex gratia non esset,
+habebat?</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Ut igitur quae Sanctum sanctorum conceptura
+erat pariter et paritura, sancta esset corpore, accepit
+donum virginitatis: ut esset et mente, accepit et
+humilitatis. His nimirum Virgo regia gemmis ornata
+virtutum, geminoque mentis pariter et corporis
+decore praefulgida, specie sua et pulchritudine
+sua in coelestibus cognita, coeli civium in se provocavit
+aspectus, ita ut et Regis animum in sui concupiscentiam
+inclinaret, et coelestem nuntium ad se
+de supernis educeret. Et hoc est quod nobis hic
+Evangelista commendat, cum angelum perhibet a
+Deo destinatum ad Virginem: <hi>A Deo,</hi> inquit, <hi>ad virginem:</hi> 
+<pb n="0062B"/>
+id est, a celso ad humilem, a Domino ad
+ancillam, a Creatore ad creaturam. Quanta dignatio
+Dei! quanta Virginis excellentia! Currite, matres;
+currite, filiae; currite, omnes quae post Evam, et ex
+Eva, et parturimini cum tristitia, et parturitis. Adite
+virginalem thalamum, ingredimini, si potestis, pudicum
+sororis vestrae cubiculum. Ecce enim Deus
+mittit ad Virginem, ecce affatur angelus Mariam.
+Apponite aurem parieti, auscultate quid nuntiet ei,
+si forte audiatis unde consolemini.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Laetare, pater Adam, sed magis tu, o Eva mater,
+exsulta, qui, sicut omnium parentes, ita omnium
+fuistis peremptores; et, quod infelicius est, prius peremptores,
+quam parentes. Ambo, inquam, consolamini
+<pb n="0062C"/>
+super filia, et tali filia; sed illa amplius, de qua
+malum ortum est prius, cujus opprobrium in omnes
+pertransiit mulieres. Instat namque tempus, quo
+jam tollatur opprobrium, nec habeat vir quid causetur
+adversus feminam: qui utique dum se imprudenter
+excusare conaretur, crudeliter illam accusare
+non cunctatus est, dicens, <hi>Mulier quam dedisti
+mihi, dedit mihi de ligno, et comedi <note>(Gen. III,
+12)</note>
+          </hi>. Propterea curre, Eva, ad Mariam; curre, mater,
+ad filiam; filia pro matre respondeat, ipsa
+[ <hi>alias,</hi> ita] matris opprobrium auferat, ipsa patri pro
+matre satisfaciat: quia ecce si vir cecidit per feminam,
+jam non erigitur nisi per feminam. Quid dicebas, o
+Adam? <hi>Mulier quam dedisti mihi, dedit mihi de ligno,
+et comedi.</hi> Verba malitiae sunt haec, quibus magis
+<pb n="0062D"/>
+augeas quam deleas culpam. Verumtamen Sapientia
+vicit malitiam, cum occasionem veniae, quam a te
+Deus interrogando elicere tentavit, sed non potuit,
+in thesauro indeficientis suae pietatis invenit. Redditur
+nempe femina pro femina, prudens pro fatua,
+humilis pro superba; quae pro ligno mortis gustum
+tibi porrigat vitae, et pro venenoso cibo illo amaritudinis
+dulcedinem pariat fructus aeterni. Muta ergo
+iniquae excusationis verbum in vocem gratiarum
+actionis, et dic: Domine, mulier, quam dedisti
+mihi, dedit mihi de ligno vitae, et comedi; et dulce
+factum est super mel ori meo, quia in ipso vivificasti
+<pb n="0063A"/>
+me. Ecce enim ad hoc missus est angelus ad Virginem,
+O admirandam et omni honore dignissimam
+Virginem! o feminam singulariter venerandam, super
+omnes feminas admirabilem, parentum reparatricem,
+posterorum vivificatricem!</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ <hi>Missus est,</hi> inquit, <hi>angelus ad Virginem.</hi> Virginem
+carne, virginem mente, virginem professione,
+virginem denique, qualem describit Apostolus, mente
+et corpore sanctam <note>(I Cor. VII, 34)</note>; nec noviter,
+nec fortuitu inventam, sed a saeculo electam, ab Altissimo
+praecognitam et sibi praeparatam, ab angelis
+servatam, a patribus praesignatam, a prophetis promissam.
+Scrutare <emph>738</emph> Scripturas, et proba quae
+dico. Visne ut et ego aliqua ex his testimonia hic
+inseram? Ut pauca loquar de pluribus, quam tibi
+<pb n="0063B"/>
+aliam praedixisse Deus videtur, quando ad serpentem
+ait: <hi>Inimicitias ponam inter te et mulierem?</hi> Et si
+adhuc dubitas quod de Maria non dixerit, audi quod
+sequitur: <hi>Ipsa conteret caput tuum <note>(Gen. III, 15)</note>
+          </hi>.
+Cui haec servata victoria est, nisi Mariae? Ipsa procul
+dubio caput contrivit venenatum, quae omnimodam
+maligni suggestionem tam de carnis illecebra,
+quam de mentis superbia deduxit ad nihilum.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ Quam vero aliam Salomon requirebat, cum
+dicebat: <hi>Mulierem fortem quis inveniet?</hi> Noverat
+quippe vir sapiens hujus sexus infirmitatem, fragile
+corpus, lubricam mentem. Quia tamen et Deum legerat
+promisisse, et ita videbat congruere ut qui
+vicerat per feminam, vinceretur per ipsam, vehementer
+admirans aiebat: <hi>Mulierem fortem quis inveniet?</hi> 
+<pb n="0063C"/>
+Quod est dicere: Si ita de manu feminae
+pendet et nostra omnium salus, et innocentiae restitutio,
+et de hoste victoria: fortis omnino necesse est
+ut provideatur [ <hi>alias,</hi> praevideatur], quae ad tantum
+opus possit esse idonea. Sed mulierem fortem quis
+inveniet? At ne hoc quaesisse putetur desperando,
+subdit prophetando, <hi>Procul et de ultimis finibus
+pretium ejus <note>(Prov. XXXI, 10)</note>
+          </hi>: hoc est non vile, non
+parvum, non mediocre, non denique de terra; sed de
+coelo, nec de coelo proximo terris pretium fortis hujus
+mulieris, sed a summo coelo egressio ejus. Quid
+deinde rubus ille quondam Mosaicus portendebat,
+flammas quidem emittens, sed non ardens <note>(Exod.
+III, 2)</note>, nisi Mariam parientem, et dolorem non sentientem?
+<pb n="0063D"/>
+Quid, rogo, virga Aaron florida <note>(Num.
+XVII, 8)</note>, nec humectata, nisi ipsam concipientem,
+quamvis virum non cognoscentem? Hujus magni
+miraculi majus mysterium Isaias edisserit, dicens, <hi>Egredietur virga de radice Jesse, et flos de radice ejus ascendet 
+ <note>(Isa. XI,1)</note>
+          </hi>: virgam, virginem; florem,
+virginis partum intelligens.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Sed si tibi quod nunc in flore Christus intelligi
+dicitur, superiori videtur adversari sententiae, qua
+non virgae flore, sed floris fructu designari dicebatur;
+noveris in eadem Aaronica virga (quae non solum
+floruit, sed et fronduit, et fructum emisit) non
+solum flore vel fructu, sed ipsis etiam frondibus
+eumdem significari. Noveris et apud Moysen nec
+fructu virgae, nec flore, sed ipsa virga demonstrari;
+<pb n="0064A"/>
+illa utique virga, qua feriente, aqua vel dividitur
+transituris <note>(Exod. XIV, 16)</note>, vel de petra excutitur
+bibituris <note>(Exod. XVII, 6)</note>. Nullum autem inconveniens
+est, diversis rebus diversis ex causis Christum figurari;
+et in virga quidem potentiam, in flore vero
+fragrantiam, in fructu autem saporis dulcedinem, in
+frondibus quoque sedulam ejus intelligi protectionem,
+qua videlicet parvulos ad se confugientes sub
+umbra alarum suarum protegere non desinit, sive
+ab aestu carnalium desideriorum, sive a facie impiorum,
+qui eos afflixerunt. Bona et desiderabilis
+umbra sub alis Jesu, ubi tutum est fugientibus refugium,
+gratum fessis refrigerium. Miserere mei,
+Domine Jesu, miserere mei; quoniam in te confidit
+anima mea, et in umbra alarum tuarum sperabo,
+<pb n="0064B"/>
+donec transeat iniquitas <note>(Psal. LVI, 2)</note>. In hoc tamen
+Isaiae testimonio, florem Filium, virgam intellige
+Matrem; quoniam et virga floruit absque germine,
+et virgo concepit non ex homine. Nec virgae
+virorem floris laesit emissio, nec virginis pudorem
+sacri partus editio.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Proferamus et alia Virgini Matri, Deoque Filio
+congrua de Scripturis testimonia. Quid illud Gedeonis
+vellus significat, quod utique de carne tonsum,
+sed sine vulnere carnis in area ponitur, et nunc quidem
+lana, nunc vero area rore perfunditur <note>(Jud. VI,
+37-40)</note>, nisi carnem assumptam de carne Virginis,
+et absque detrimento virginitatis? Cui utique distillantibus
+coelis tota se infudit plenitudo divinitatis:
+adeo ut ex hac plenitudine omnes acceperimus [ <hi>alias,</hi> 
+<pb n="0064C"/>
+acciperemus], qui vere sine ipsa non aliud quam terra
+arida sumus. Huic quoque Gedeonico facto propheticum
+dictum pulchre satis convenire videtur,
+ubi legitur: <hi>Descendet sicut pluvia in vellus.</hi> Nam
+per hoc quod sequitur, <hi>et sicut stillicidia stillantia
+super terram <note>(Psal. LXXI, 6)</note>
+          </hi>, idem datur intelligi,
+quod per inventam <emph>739</emph> rore madidam aream.
+Pluvia nempe voluntaria, quam segregavit Deus
+haereditati suae, placide prius et absque strepitu operationis
+humanae, suo se quietissimo illapsu [ <hi>alias,</hi> 
+elapsu] virgineum demisit in uterum: postmodum
+vero ubique terrarum diffusa est per ora praedicatorum,
+non jam sicut pluvia in vellus, sed sicut stillicidia
+stillantia super terram, cum quodam utique
+<pb n="0064D"/>
+strepitu verborum, ac sonitu miraculorum. Siquidem
+recordatae sunt nubes illae, quae portabant pluviam,
+praeceptum sibi fuisse cum mitterentur: <hi>Quod dico
+vobis in tenebris, dicite in lumine; et quod in aure
+auditis, praedicate super tecta <note>(Matth. X, 27)</note>
+          </hi>. Quod et
+fecerunt: etenim <hi>in omnem terram exivit sonus eorum,
+et in fines orbis terrae verba eorum <note>(Psal. XVIII, 5)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Audiamus et Jeremiam nova veteribus vaticinantem,
+et quem praesentem monstrare non poterat,
+venturum et ardenter desiderantem, et fidenter
+promittentem: <hi>Novum,</hi> inquit, <hi>creavit Dominus super
+terram: femina circumdabit virum <note>(Jerem. XXXI,
+22)</note>
+          </hi>. Quae est haec femina? quis vero iste vir? Aut si
+vir, quomodo a femina circumdatus? aut si a femina
+circumdari potest, quomodo vir? Et ut apertius
+<pb n="0065A"/>
+dicam, quomodo potest simul et vir esse, et in utero
+matris? hoc est enim virum a femina circumdari,
+Novimus [ <hi>alias,</hi> dicimus] viros, qui scilicet infantiam,
+pueritiam, adolescentiam atque juventutem
+transeuntes, ad gradum usque senectuti proximum
+pervenerunt. Qui ergo jam adeo grandis est, quomodo
+a femina circumdari potest? Si dixisset, Femina
+circumdabit infantem; vel, Femina circumdabit
+parvulum; nec novum videretur, nec mirum. Nunc
+autem quia nil tale posuit, sed dixit <hi>virum,</hi> quaerimus
+quae sit haec novitas, quam Deus fecit in terra,
+ut femina circumdaret virum, et vir intra feminei
+unius corpusculi membra sese cohiberet? quid est
+hoc miraculi? <hi>Nunquid potest homo,</hi> ut ait Nicodemus, <hi>in ventrem matris suae iterato introire, et renasci?</hi> 
+<pb n="0065B"/> <note>(Joan. III, 4.)</note> </p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ Sed verto me ad conceptum partumque virginalem,
+si forte inter plurima nova ac mira, quae ibi
+profecto inspicit qui diligenter inquirit, etiam hanc,
+quam de Propheta protuli, reperiam novitatem.
+Porro ibi agnoscitur longitudo brevis, latitudo angusta,
+altitudo subdita, profunditas plana [ <hi>alias,</hi> 
+plena]. Ibi agnoscitur lux non lucens, verbum infans,
+aqua sitiens, panis esuriens. Videas, si attendas,
+potentiam regi, sapientiam instrui, virtutem sustentari:
+Deum denique lactentem, sed angelos reficientem;
+vagientem, sed miseros consolantem.
+Videas, si attendas, tristari laetitiam, pavere fiduciam,
+salutem pati, vitam mori, fortitudinem infirmari.
+Sed, quod non minus mirandum est, ipsa
+<pb n="0065C"/>
+ibi cernitur tristitia laetificans, pavor confortans,
+passio salvans, mors vivificans, infirmitas roborans.
+Cui jam illud quoque non occurrat, quod quaerebam?
+Nunquid non facile tibi est inter haec feminam
+agnoscere virum circumdantem, cum Mariam
+videas virum approbatum a Deo Jesum suo utero
+circumplectentem? Virum autem dixerim fuisse
+Jesum, non solum jam cum diceretur <hi>vir propheta,
+potens in opere et sermone <note>(Luc. XXIV, 19)</note>
+          </hi>, sed etiam
+cum tenera adhuc infantis membra Dei mater blando
+vel foveret in gremio, vel gestaret in utero. Vir
+igitur erat Jesus necdum etiam natus, sed sapientia,
+non aetate; animi vigore, non viribus corporis; maturitate
+sensuum, non corpulentia membrorum.
+Neque enim minus habuit sapientiae, vel potius
+<pb n="0065D"/>
+non minus [ <hi>alias,</hi> minor] fuit sapientia Jesus conceptus,
+quam natus; parvus, quam magnus. Sive
+ergo latens in utero, sive vagiens in praesepio, sive
+jam grandiusculus interrogans doctores in templo,
+sive jam perfectae aetatis docens in populo, aeque
+profecto plenus fuit Spiritu sancto. Nec fuit hora
+in quacunque aetate sua, qua de plenitudine illa
+quam in sui conceptione accepit in utero, vel aliquid
+minueretur, vel aliquid eidem adjiceretur: sed
+a principio perfectus, a principio, inquam, plenus
+fuit spiritu sapientiae et intellectus, spiritu consilii
+et fortitudinis, spiritu scientiae et pietatis, spiritu
+timoris Domini <note>(Isa. XI, 2, 3.)</note>.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Nec te moveat, quod de ipso legis in alio
+<pb n="0066A"/>
+loco: <emph>740</emph> <hi>Jesum autem proficiebat sapientia, et
+aetate, et gratia apud Deum et homines <note>(Luc. II, 52)</note>
+          </hi>.
+Nam quod de sapientia et gratia hic dictum est, non
+secundum quod erat, sed secundum quod apparebat,
+intelligendum est: non quia videlicet aliquid ei novum
+accederet, quod ante non haberet; sed quod
+accedere videretur, quando volebat ipse ubi videretur
+[ <hi>alias,</hi> ut videretur]. Tu, homo, cum proficis,
+non quando, nec quantum vis proficis: sed te nesciente
+tuus moderatur profectus, tua vita disponitur.
+At vero puer Jesus, qui disponit vitam [vitam <hi>deest aliis</hi> 
+] tuam, ipse disponebat et suam, et quando
+volebat, et quibus volebat sapiens apparebat,
+quando et quibus volebat sapientior, quando et quibus
+volebat sapientissimus: quanquam in se nunquam
+<pb n="0066B"/>
+esset nisi sapientissimus. Similiter et cum
+semper omni gratia plenus fuisset, sive quam apud
+Deum, sive quam apud homines habere deberet,
+pro suo tamen arbitrio eam nunc plus, nunc minus
+ostendebat, prout cernentium vel meritis congruere,
+vel saluti expedire sciebat. Constat ergo quia semper
+Jesus virilem animum habuit, etsi semper in
+corpore vir non apparuit. Cur denique dubito virum
+fuisse in utero, quem inibi Deum fuisse non ambigo?
+Minus quippe est esse virum, quam esse Deum.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Sed vide si non etiam hanc Jeremiae novitatem
+Isaias lucidissime aperit, qui et novos superius
+Aaronicos flores exposuit. <hi>Ecce,</hi> inquit, <hi>virgo concipiet,
+et pariet filium.</hi> En habes, feminam, scilicet
+Virginem. Vis et de viro audire quis scit? <hi>Et vocabitur,</hi> 
+<pb n="0066C"/>
+ait, <hi>nomen ejus Emmanuel,</hi> id est, <hi>Nobiscum
+Deus <note>(Isa. VII, 14)</note>
+          </hi>. Femina itaque circumdans
+virum, Virgo est concipiens Deum. Vides quam
+pulchre et concorditer sanctorum mira facta et mystica
+dicta sibi invicem concinant. Vides quam stupendum
+sit hoc unum de Virgine et in Virgine
+factum miraculum, quod tot miracula praevenerunt,
+tot oracula promiserunt. Unus nimirum fuit spiritus
+prophetarum, et licet diversis modis, signis et
+temporibus, eamdem rem diversi, non diverso spiritu
+et praeviderunt, et praedixerunt. Quod Moysi
+monstratum est in rubo et igne, Aaroni in virga et
+flore, Gedeoni in vellere et rore; hoc aperte Salomon
+praedixit in forti muliere et ejus pretio; apertius
+Jeremias praecinuit de femina et viro, apertissime
+<pb n="0066D"/>
+Isaias declaravit de Virgine et Deo, Gabriel tandem
+exhibuit ipsam Virginem [ <hi>Virginem</hi> deest
+aliis] salutando. Ipsa namque est, de qua nunc
+Evangelista: <hi>Missus est,</hi> ait, <hi>angelus Gabriel a Deo
+ad Virginem, desponsatam Joseph.</hi> </p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ <hi>Ad Virginem,</hi> inquit, <hi>desponsatam.</hi> Quare desponsatam?
+Cum esset, inquam, virgo electa, et, ut ostensum
+est, virgo conceptura, virgo paritura, mirum
+cur desponsata fuerit, non nuptura. Nunquid
+vel hoc casu factum quis dixerit? Non est casu
+factum, quod rationabilis causa commendat, causa
+valde utilis et necessaria, et divini prorsus adinventione
+consilii digna. Dicam quod mihi, imo quod
+ante me Patribus visum fuit. Illa utique fuit ratio
+<pb n="0067A"/>
+desponsationis Mariae, quae et dubitationis Thomae.
+Mos siquidem Judaeorum erat, ut a die desponsationis
+suae, usque ad tempus nuptiarum, sponsis sponsae
+traderentur custodiendae: quatenus earum ipsi eo
+sibi pudicitiam curiosius servarent, quo sibi ipsi
+fideliores existerent. Sicut ergo Thomas dubitando,
+palpando, constantissimus factus est Dominicae confessor
+resurrectionis, ita et Joseph Mariam sibi
+desponsando ejusque conversationem in tempore
+custodiae studiosius comprobando, factus est pudicitiae
+fidelissimus testis. Pulchra utriusque rei convenientia:
+et dubitatio Thomae, et desponsatio
+Mariae. Poterant quidem similis erroris laqueum
+nobis injicere, fidei videlicet in illo, castitatis in
+illa, veritatem in suspicionem adducere: sed valde
+<pb n="0067B"/>
+prudenter et pie factum est per contrarium, ut
+unde metuebatur suspicio, firma sit certitudo. Nam
+et de Filii resurrectione citius quidem ego, qui
+infirmus sum, crediderim Thomae dubitanti et palpanti,
+quam Cephae audienti et credenti: et de
+Matris continentia facilius sponso ejus custodienti
+et experienti, quam ipsi quoque Virgini de sola sua
+conscientia se defendenti. Dic, quaeso, quis <emph>741</emph> 
+eam videns non desponsatam et gravidam, non potius
+diceret meretricem [ <hi>alias,</hi> corruptam] quam virginem?
+Non autem decebat hoc dici de Matre Domini.
+Tolerabilius vero atque honestius fuit putari ad
+tempus Christum de conjugio fuisse natum, quam
+de fornicatione.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Sed non poterat, inquis, Deus apertum aliquod
+<pb n="0067C"/>
+ostendere signum, quo videlicet fieret ut ejus
+nec ortus infamaretur, nec mater criminaretur?
+Poterat utique; sed non poterat latere daemones,
+quod scirent homines. Oportebat autem a principe
+mundi aliquandiu celari divini consilii sacramentum:
+non quod Deus, si palam opus suum facere
+vellet, impediri posse ab illo metueret: sed quia
+ipse, qui non solum potenter, sed etiam sapienter
+quaecunque voluit fecit, sicut in omnibus operibus
+suis quasdam rerum vel temporum congruentias propter
+ordinis pulchritudinem servare consuevit, ita
+in hoc quoque tam magnifico opere suo, nostrae
+videlicet reparationis, non tantum potentiam suam,
+sed et prudentiam ostendere voluit. Et quanquam
+illud aliter, quomodo vellet, perficere potuisset; placuit
+<pb n="0067D"/>
+ei tamen eo potius et modo, et ordine hominem
+sibi reconciliare, quo noverat cecidisse: ut, sicut
+diabolus prius seduxit feminam, et postmodum virum
+per feminam vicit, ita prius a femina virgine
+seduceretur, et post a viro Christo aperte debellaretur:
+quatenus malitiae fraudi dum ars pietatis illuderet,
+ac maligni fortitudinem Christi virtus contereret,
+diabolo Deus et prudentior appareret et fortior.
+Ita quippe decuit incarnatam Sapientiam
+spiritualem vincere malitiam, quo non solum attingeret
+a fine usque ad finem fortiter, sed et disponeret
+omnia suaviter <note>(Sap. VIII, 1)</note>. Attingit autem a
+fine usque ad finem, id est a coelo usque ad infernum. <hi>Si ascendero,</hi> 
+ inquit, <hi>in coelum,tu illic es: si
+<pb n="0068A"/>
+descendero in infernum, ades <note>(Psal. CXXXVIII, 8)</note>
+          </hi>.
+Utrobique vero fortiter, quando et de supernis expulit
+superbum, et apud inferos spoliavit avarum.
+Conveniens ergo erat ut suaviter quoque omnia,
+coelestia scilicet et terrena, disponeret: quatenus et
+illinc dejiciens inquietum, reliquos in pace firmaret,
+et hic debellaturus invidum, nobis prius suae humilitatis
+et mansuetudinis valde necessarium exemplum
+relinqueret: sicque mirabili fieret moderamine
+sapientiae, ut et suis suavis, et hostibus fortis appareret.
+Quid enim prodesset diabolum a Deo vinci,
+nobis manentibus superbis? Necessario igitur desponsata
+est Maria Joseph, quando per hoc et a canibus
+sanctum absconditur, et a sponso virginitas comprobatur,
+et Virginis tam verecundiae parcitur, quam
+<pb n="0068B"/>
+famae providetur. Quid sapientius, quid dignius
+divina providentia? Uno tali consilio secretis coelestibus
+et admittitur testis, et excluditur hostis, et
+integra servatur fama Virginis matris. Alioquin
+quando pepercisset justus adulterae? scriptum est
+autem: <hi>Joseph autem vir ejus, cum esset justus et
+nollet eam traducere, voluit occulte dimittere eam <note>(Matth. I, 19)</note>
+          </hi>.
+Bene, cum esset justus, noluit eam
+traducere: quia sicut nequaquam justus esset, si
+cognitam ream consensisset; sic nihilominus justus
+non esset, si probatam innoxiam condemnasset.
+Cum ergo justus esset et nollet eam traducere, voluit
+occulte dimittere eam.</p>
+        </div3>
+<div3>
+          <head>14.</head>
+          <p>
+ Quare voluit dimittere eam? Accipe et in hoc
+non meam, sed Patrum sententiam. Propter hoc
+<pb n="0068C"/>
+Joseph voluit dimittere eam, propter quod et Petrus
+Dominum a se repellebat, dicens: <hi>Exi a me, Domine,
+quia homo peccator sum <note>(Luc. V, 8)</note>
+          </hi>: propter
+quod et Centurio a domo sua eum prohibebat, cum
+diceret: <hi>Domine, non sum dignus ut intres sub
+tectum meum <note>(Matth. VIII, 8)</note>
+          </hi>. Ita ergo et Joseph indignum
+et peccatorem se reputans, dicebat intra
+se, a tali et a tanta non debere sibi ultra familiare
+praestari contubernium, cujus supra se mirabilem
+expavescebat dignitatem. Videbat et horrebat divinae
+praesentiae certissimum gestantem insigne: et
+quia mysterium penetrare non poterat, volebat dimittere
+eam. Expavit Petrus potentiae magnitudinem,
+expavit Centurio praesentiae majestatem. Exhorruit
+nimirum et Joseph, sicut homo, hujus tanti
+<pb n="0068D"/>
+novitatem, mysterii profunditatem: et ideo
+occulte voluit dimittere eam. <emph>742</emph> Miraris quod
+Joseph praegnantis sese consortio Virginis judicabat
+indignum, cum audias et sanctam Elisabeth ejus
+non posse ferre praesentiam, nisi cum tremore quidem
+et reverentia? Ait namque: <hi>Unde hoc mihi, ut
+veniat mater Domini mei ad me? <note>(Luc. I, 43.)</note>
+          </hi> Ideo
+itaque Joseph voluit dimittere eam. Sed quare
+occulte, et non palam? Ne videlicet divortii causam
+inquireretur, exigeretur rationem. Quid enim vir
+justus responderet populo durae cervicis, populo
+non credenti et contradicenti? Si diceret quod sentiebat,
+quod de illics puritate comprobaverat,
+nonne mox increduli et crudeles Judaei subsannarent
+<pb n="0069A"/>
+illum, lapidarent illam? Quando namque Veritati
+crederent tacenti in utero, quam postea contempserunt
+clamantem in templo? Quid facerent
+necdum apparenti, qui postmodum impias manus
+injecerunt etiam miraculis coruscanti? Merito ergo
+vir justus, ne aut mentiri, aut diffamare cogeretur
+innoxiam, voluit occulte dimittere eam.</p>
+        </div3>
+<div3>
+          <head>15.</head>
+          <p>
+ Sin vero aliter quis sentiat, et Joseph sicut
+hominem dubitasse contendat, sed quia justus erat,
+noluisse quidem habitare cum ea propter suspicionem,
+nec tamen (quia pius erat) traducere voluisse
+suspectam, et ideo voluerit occulte dimittere
+eam, breviter respondeo, etiam sic dubitationem
+illam Joseph fuisse necessariam, quae divino meruit
+certificari oraculo. Sic quippe scriptum est: <hi>Haec
+<pb n="0069B"/>
+autem eo cogitante,</hi> scilicet quod occulte dimitteret
+eam, <hi>apparuit ei angelus in somnis, dicens: Joseph
+fili David, noli timere accipere Mariam conjugem
+tuam. Quod enim in ea natum est, de Spiritu sancto
+est <note>(Matth. I, 20)</note>
+          </hi>. Itaque propter istas rationes
+desponsata est Maria Joseph, vel potius, sicut ponit
+evangelista, <hi>viro, cui nomen erat Joseph.</hi> Virum nominat,
+non quia maritus, sed quod homo virtutis
+erat. Vel potius quia, juxta alium evangelistam,
+non vir simpliciter, sed vir ejus dictus est, merito
+appellatur quod necessarie putatur. Debuit ergo vir
+ejus appellari, quia necesse fuit et putari: sicut et
+pater Salvatoris non quidem esse, sed dici meruit,
+ut putaretur esse, dicente hoc ipso evangelista: <hi>Et
+ipse</hi> Jesus <hi>erat incipiens quasi annorum triginta, ut
+<pb n="0069C"/>
+putabatur, filius Joseph <note>(Luc. III, 23)</note>
+          </hi>. Nec vir ergo
+matris, nec filii pater exstitit, quamvis certa (ut
+dictum est) et necessaria dispensatione utrumque ad
+tempus et appellatus sit et putatus.</p>
+        </div3>
+<div3>
+          <head>16.</head>
+          <p>
+ Conjice tamen ex hac appellatione, qua, licet
+dispensatoria, meruit honorari a Deo, ut pater Dei
+et dictus, et creditus sit: conjice et ex proprio vocabulo
+(quod <hi>augmentum</hi> non dubitas interpretari)
+quis et qualis homo fuerit iste Joseph. Simul et
+memento magni illius quondam patriarchae venditi
+in Aegypto <note>(Gen. XXXVII, 27)</note>: et scito ipsius istum
+non solum vocabulum fuisse sortitum, sed et castimoniam
+adeptum, innocentiam assecutum et gratiam.
+Siquidem ille Joseph, fraterna ex invidia venditus
+<pb n="0069D"/>
+et ductus in Aegyptum, Christi venditionem
+praefiguravit: iste Joseph Herodianam invidiam
+fugiens, Christum in Aegyptum portavit <note>(Matth. II,
+14)</note>. Ille domino suo fidem servans, dominae noluit
+commisceri <note>(Gen. XXXIX, 12)</note>: iste dominam suam,
+Domini sui matrem, virginem agnoscens, et ipse
+continens fideliter custodivit. Illi data est intelligentia
+in mysteriis somniorum <note>(Gen. XL, XLI)</note>: isti
+datum est conscium fieri atque participem coelestium
+sacramentorum <note>(Matth. I, 20)</note>. Ille frumenta servavit
+non sibi, sed omni populo <note>(Gen. XL, XLI)</note>: iste
+panem vivum e coelo servandum accepit tam sibi
+quam toti mundo. Non est dubium quin bonus et
+fidelis homo fuerit iste Joseph, cui Mater desponsata
+est Salvatoris. Fidelis, inquam, servus et prudens,
+<pb n="0070A"/>
+quem constituit Dominus suae matris solatium, suae
+carnis nutritium, solum denique in terris magni
+consilii coadjutorem sibi fidelissimum. Huc accedit
+ quod dicitur fuisse de domo David. Vere enim de
+domo David, vere de regia stirpe descendit vir iste
+Joseph, nobilis genere, mente nobilior. Plane filius
+David, non degenerans a patre suo David. Prorsus,
+inquam, filius David, non tantum carne, sed fide,
+sed sanctitate, sed devotione: quem tanquam alterum
+David Dominus invenit secundum cor suum,
+cui tuto committeret secretissimum atque sacratissimum
+sui cordis arcanum: cui tanquam <emph>743</emph> alteri
+David incerta et occulta sapientiae suae manifestavit,
+et dedit illi non ignarum esse mysterii, quod nemo
+principum hujus saeculi agnovit: cui denique datum
+<pb n="0070B"/>
+est quod multi reges et prophetae, cum vellent videre,
+non viderunt; audire, et non audierunt; non
+solum videre et audire, sed etiam portare, deducere,
+amplecti, deosculari, nutrire et custodire.
+Non tantum autem Joseph, sed et Maria descendisse
+credenda est de domo David. Alioquin non fuisset
+desponsata viro de domo David, si non esset et ipsa
+de domo David. Ambo igitur erant de domo David;
+sed in altera completa est veritas, quam juravit
+Dominus David, altero tamen conscio et teste adimpletae
+promissionis.</p>
+        </div3>
+<div3>
+          <head>17.</head>
+          <p>
+ In fine autem versus, <hi>Et nomen,</hi> inquit, <hi>Virginis
+Maria.</hi> Loquamur pauca et super hoc nomine,
+quod interpretatum <hi>maris stella</hi> dicitur, et matri
+Virgini valde convenienter aptatur. Ipsa namque
+<pb n="0070C"/>
+aptissime sideri comparatur; quia, sicut sine sui
+corruptione sidus suum emittit radium, sic absque
+sui laesione virgo parturit filium. Nec sideri radius
+suam minuit claritatem, nec Virgini Filius suam
+integritatem. Ipsa est igitur nobilis illa stella ex
+Jacob orta, cujus radius universum orbem illuminat,
+cujus splendor et praefulget in supernis, et inferos
+penetrat: terras etiam perlustrans, et calefaciens
+magis mentes quam corpora, fovet virtutes, excoquit
+vitia. Ipsa, inquam, est praeclara et eximia
+stella, super hoc mare magnum et spatiosum necessario
+sublevata, micans meritis, illustrans exemplis.
+O quisquis te intelligis in hujus saeculi profluvio
+magis inter procellas et tempestates fluctuare, quam
+<pb n="0070D"/>
+per terram ambulare; ne avertas oculos a fulgore
+hujus sideris, si non vis obrui procellis. Si insurgant
+venti tentationum, si incurras scopulos tribulationum,
+respice stellam, voca Mariam. Si jactaris
+superbiae undis, si ambitionis, si detractionis, si
+aemulationis; respice stellam, voca Mariam. Si
+iracundia, aut avaritia, aut carnis illecebra naviculam
+concusserit mentis, respice ad Mariam. Si
+criminum immanitate turbatus, conscientiae foeditate
+confusus, judicii horrore perterritus, barathro incipias
+absorberi tristitiae, desperationis abysso; cogita
+Mariam. In periculis, in angustiis, in rebus dubiis,
+Mariam cogita, Mariam invoca. Non recedat ab ore,
+non recedat a corde; et ut impetres ejus orationis
+suffragium, non deseras conversationis exemplum.
+<pb n="0071A"/>
+Ipsam sequens non devias: ipsam rogans non
+desperas: ipsam cogitans non erras. Ipsa tenente
+non corruis; ipsa protegente non metuis; ipsa duce
+non fatigaris; ipsa propitia pervenis: et sic in temetipso
+experiris quam merito dictum sit, <hi>Et nomen
+Virginis Maria.</hi> Sed jam modice pausandum
+est, ne et nos in transitu claritatem tanti luminis
+intueamur. Ut enim verbis apostolicis utar, <hi>Bonum
+est nos hic esse <note>(Matth. XVII, 4)</note>
+          </hi>: et libet dulciter
+contemplari in silentio, quod laboriosa non sufficit
+explicare locutio. Interim autem ex devota scintillantis
+sideris contemplatione, ferventior reparabitur
+in his quae secuuntur, disputatio.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>HOMILIA III. <hi>In Luc. cap.</hi> I, 28-32.</head>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0071B"/>Libenter, ubi mihi congruere video, verba
+sanctorum assumo, quo vel vasculorum pulchritudine
+gratiora fiant quaecunque in eis lectori apposuerim.
+Ut autem nunc a propheticis verbis incipiam: <hi>Vae mihi,</hi> 
+ non quidem, sicut prophetae, <hi>quia
+tacui,</hi> sed quia locutus sum, <hi>quoniam vir pollutus
+labiis ego sum! <note>(Isa. VI, 5.)</note>
+            </hi> Heu! quot vana, quot
+falsa, quot turpia per hoc ipsum spurcissimum os
+meum evomuisse me recolo, in quo nunc coelestia
+revolvere verba praesumo! Vehementer timeo, ne
+jamjam audiam ad me dictum: <hi>Quare tu enarras
+justitias meas, et assumis testamentum meum per os
+tuum? <note>(Psal. XLIX, 16.)</note>
+            </hi> Utinam et mihi de superno
+altari, non quidem carbo unus, sed ingens globus
+igneus afferatur, qui videlicet multam et inveteratam
+<pb n="0071C"/>
+prurientis <emph>744</emph> oris mei rubiginem ad plenum excoquere
+sufficiat! quatenus angeli ad Virginem, et
+Virginis ad ipsum grata invicem ac casta colloquia
+dignus habear meo qualicunque replicare sermone.
+Ait igitur evangelista: <hi>Et ingressus Angelus ad
+eam,</hi> haud dubium quin ad Mariam, <hi>dixit: Ave,
+gratia plena, Dominus tecum.</hi> Quo ingressus ad eam?
+Puto in secretarium pudici cubiculi, ubi illa fortassis
+clauso super se ostio orabat Patrem suum in
+abscondito. Solent angeli astare orantibus, et delectari
+in his quos vident levare puras manus in
+oratione: holocaustum sanctae devotionis gaudent
+se offerre Deo in odorem suavitatis. Mariae autem
+orationes quantum placuerint in conspectu Altissimi,
+<pb n="0071D"/>
+angelus indicavit, qui ingressus ad eam, tam reverenter
+salutavit. Nec fuit difficile angelo per clausum
+ostium penetrare ad abdita Virginis, qui utique
+ex subtilitate substantiae suae hoc habet in natura,
+ut nec seris ferreis ejus arceatur ingressus, quocunque
+suus eum impetus ferat. Angelicis enim spiritibus
+parietes non obsistunt, sed cuncta illis visibilia
+cedunt, cuncta aeque corpora, quantumlibet
+solida vel spissa, penetrabilia sunt eis ac pervia.
+Suspicandum igitur non est, quod apertum invenerit
+angelus ostiolum Virginis, cui nimirum in
+proposito erat hominum fugere frequentias, vitare
+colloquia; ne vel orantis perturbaretur silentium,
+vel continentis castitas tentaretur. Clauserat itaque
+etiam illa hora suum super se habitaculum Virgo
+<pb n="0072A"/>
+prudentissima, sed hominibus, non angelis. Proinde
+etsi ad eam potuit intrare Angelus, sed nulli hominum
+facilis patebat accessus.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ Ingressus ergo Angelus ad eam dixit: <hi>Ave,
+gratia plena, Dominus tecum.</hi> Legimus in Actibus
+apostolorum, et Stephanum plenum gratia <note>(Act. VI,
+5)</note>, et apostolos fuisse repletos Spiritu sancto <note>(Act.
+II, 4)</note>; sed longe dissimiliter a Maria. Alioquin nec
+in illo habitavit plenitudo divinitatis corporaliter,
+quemadmodum in Maria: nec illi conceperunt de
+Spiritu sancto, quomodo Maria. <hi>Ave,</hi> inquit, <hi>gratia
+plena, Dominus tecum.</hi> Quid mirum si gratia plena
+erat, cum qua Dominus erat? Sed hoc potius mirandum,
+quomodo qui Angelum miserat ad Virginem,
+ab Angelo inventus est esse cum Virgine. Itane
+<pb n="0072B"/>
+velocior Angelo fuit Deus, ut festinantem nuntium
+celerior ipse praeveniret ad terras? Nec mirum
+Nam cum esset Rex in accubitu suo, nardus Virginis
+dedit odorem suum, et ascendit in conspectu
+gloriae ejus fumus aromatis, et invenit gratiam coram
+oculis Domini, clamantibus qui circumstabant: <hi>Quae est ista quae ascendit per desertum, sicut vir
+gula fumi, ex aromatibus myrrhae et thuris? 
+ <note>(Cantic.
+III, 6.)</note>
+          </hi> Statimque Rex egrediens de loco sancte
+suo, exsultavit ut gigas ad currendam viam; et
+licet a summo coelo egressio ejus <note>(Psal. XVIII, 6, 7)</note>,
+nimio tamen pervolans desiderio praevenit suum
+nuntium ad Virginem quam amaverat, quam sibi
+elegerat, cujus decorem concupierat. Quem prospiciens
+a longe venientem gratulans et exsultans ait
+<pb n="0072C"/>
+Ecclesia: <hi>Ecce venit is saliens in montibus, transiliens
+colles <note>(Cantic. II, 8)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ Merito autem concupivit Rex decorem Virginis.
+Fecerat enim quidquid longe antea praemonita fuerat
+a patre suo David, dicente sibi: <hi>Audi, filia, et
+vide, et inclina aurem tuam, et obliviscere populum
+tuum et domum patris tui.</hi> Et si hoc feceris, <hi>concupiscet
+rex decorem tuum <note>(Psal. XLIV, 11, 12)</note>
+          </hi>. Audivit
+quippe et vidit, non ut quidam, qui audientes
+non audiunt, et videntes non intelligunt; sed audivit
+et credidit, vidit et intellexit. Et inclinavit aurem
+suam ad obedientiam, et cor suum ad disciplinam,
+et oblita est populum suum, et domum patris sui:
+quia nec populum suum augere prolis successione,
+<pb n="0072D"/>
+nec domui patris sui relinquere curavit haeredem;
+sed quidquid honoris in populo, quidquid de paterna
+domo rerum terrenarum habere potuisset, omnia
+arbitrata est ut stercora, ut Christum lucrifaceret.
+Nec fefellit eam intentio, quando et Christum sibi
+filium vindicavit, nec propositum pudicitiae violavit.
+Bene igitur gratia plena, quae et virginitatis
+gratiam tenuit, et insuper fecunditatis gloriam acquisivit. <emph>745</emph>
+</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ <hi>Ave,</hi> inquit, <hi>gratia plena, Dominus tecum.</hi> 
+Non dixit, Dominus in te; sed, <hi>Dominus tecum.</hi> 
+Deus enim qui ubique aequaliter totus est per suam
+simplicem substantiam, aliter tamen in rationalibus
+creaturis quam in caeteris; et ipsarum aliter in
+bonis quam in malis est per efficaciam. Ita sane est
+<pb n="0073A"/>
+in irrationalibus creaturis, ut tamen non capiatur
+ab ipsis. A rationalibus autem omnibus quidem
+capi potest per cognitionem, sed a bonis tantum
+capitur etiam per amorem. In solis ergo bonis ita
+est, ut etiam sit cum ipsis propter concordiam voluntatis.
+Nam dum suas voluntates ita justitiae subdunt,
+ut Deum non dedeceat velle quod ipsi volunt:
+per hoc quod ab ejus voluntate non dissertiunt,
+Deum sibi specialiter jungunt. Sed cum ita sit cum
+omnibus sanctis, specialiter tamen cum Maria:
+cum qua utique tanta ei consensio fuit, ut illius
+non solum voluntatem, sed etiam carnem sibi conjungeret;
+ac de sua Virginisque substantia unum
+Christum efficeret, vel potius unus Christus fieret:
+qui, etsi nec totus de Deo, nec totus de Virgine;
+<pb n="0073B"/>
+totus tamen Dei, et totus Virginis esset; nec duo
+filii, sed unus utriusque filius. Ait itaque: <hi>Ave,
+gratia plena, Dominus tecum.</hi> Nec tantum Dominus
+Filius tecum, quem carne tua induis; sed et Dominus
+Spiritus sanctus, de quo concipis; et Dominus
+Pater, qui genuit quem concipis. Pater, inquam,
+tecum, qui Filium suum facit et tuum. Filius tecum,
+qui ad condendum in te mirabile sacramentum,
+miro modo et sibi reserat genitale secretum, et tibi
+servat virginale signaculum. Spiritus sanctus tecum;
+qui cum Patre et Filio tuum sanctificat uterum,
+Dominus ergo tecum.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>Benedicta tu in mulieribus.</hi> Libet adjungere
+quod Elisabeth, cujus haec verba sunt, prosecuta
+subjunxit: <hi>Et benedictus fructus ventris tui (Luc.
+<pb n="0073C"/>
+I, 42)</hi>. Non quia tu benedicta, ideo benedictus fructus
+ventris tui: sed quia ille te praevenit in benedictionibus
+dulcedinis, ideo tu benedicta. Vere
+etenim benedictus fructus ventris tui, in quo benedictae
+sunt omnes gentes, de cujus plenitudine tu
+quoque accepisti cum caeteris, etsi differentius a
+caeteris. Ac propterea quidem benedicta tu, sed in
+mulieribus; ille vero benedictus non in hominibus,
+non inter angelos, sed, <hi>qui est,</hi> ut ait Apostolus, <hi>super omnia benedictus Deus in saecula 
+ <note>(Rom. IX, 5)</note>
+          </hi>.
+Dicitur benedictus vir, benedictus panis, benedicta
+mulier, benedicta terra, vel, si quid tale in creaturis
+benedictum esse memoratur: sed singulariter benedictus
+fructus ventris tui, cum sit <hi>super omnia benedictus
+<pb n="0073D"/>
+Deus in saecula.</hi> </p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Benedictus ergo fructus ventris tui.</hi> Benedictus
+in odore, benedictus in sapore, benedictus in specie.
+Hujus odoriferi fructus fragrantiam sentiebat qui
+dicebat: <hi>Ecce odor filii mei, sicut odor agri pleni,
+cui benedixit Dominus <note>(Gen. XXVII, 27)</note>
+          </hi>. Annon vere
+benedictus, cui benedixit Dominus? De sapore hujus
+fructus quidam qui gustaverat [ <hi>alias,</hi> quod gustaverat],
+taliter eructabat, dicens: <hi>Gustate et videte
+quoniam suavis est Dominus <note>(Psal. XXXIII, 9)</note>
+          </hi>; et
+alibi: <hi>Quam magna multitudo dulcedinis tuae, Domine,
+quam abscondisti timentibus te <note>(Psal. XXX, 20)</note>
+          </hi>.
+Et alius quidam: <hi>Si tamen,</hi> inquit, <hi>gustastis quoniam
+dulcis est Dominus <note>(I Petr. II, 3)</note>
+          </hi>. Et ipse Fructus
+de se, invitans nos ad se: <hi>Qui edit me,</hi> ait, <hi>adhuc
+<pb n="0074A"/>
+esuriet; et qui bibit me, adhuc sitiet <note>(Eccli. XXIV, 29)</note>
+          </hi>.
+Utique propter saporis dulcedinem hoc dicebat, qui
+semel gustatus magis excitat appetitum. Bonus fructus,
+qui animarum esurientium et sitientium justitiam,
+et esca, et potus est. Audisti de odore,
+audisti de sapore: audi et de specie. Si enim fructus
+ille mortis non solum suavis fuit ad vescendum,
+sed etiam, teste Scriptura, <hi>delectabilis aspectu <note>(Gen.
+III, 6)</note>
+          </hi>; quanto magis hujus vitalis fructus vivificum
+decorem debemus inquirere, <hi>in quem,</hi> teste alia
+Scriptura, <hi>desiderant</hi> etiam <hi>angeli prospicere? <note>(I
+Petr. I, 12.)</note>
+          </hi> Cujus pulchritudinem in spiritu videbat,
+et in corpore videre cupiebat, qui dicebat: <hi>Ex Sion species decoris ejus 
+ <note>(Psal. XLIX, 2)</note>
+          </hi>. Et ne
+mediocrem tibi videatur commendasse decorem,
+<pb n="0074B"/>
+recole quod in alio psalmo legis: <hi>Speciosus forma prae filiis hominum: diffusa est gratia in labiis tuis,
+propterea benedixit te Deus in aeternum <note>(Psal.
+XLIV, 3)</note>
+          </hi>. <emph>746</emph>
+</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Benedictus</hi> ergo <hi>fructus ventris tui,</hi> cui
+benedixit Deus in aeternum: ex cujus benedictione
+benedicta etiam tu in mulieribus; quia non potest
+mala arbor fructum facere bonum. <hi>Benedicta,</hi> inquam, <hi>tu in mulieribus,</hi> 
+ quae illam generalem maledictionem
+evasisti, qua dictum est, <hi>In tristitia paries filios <note>(Gen. III, 16)</note>
+          </hi>;
+et nihilominus illam, qua secutum
+est, <hi>Maledicta sterilis in Israel <note>(Exod. XXIII, 26;
+Deut. VII, 14)</note>
+          </hi>: ac singularem consecuta es benedictionem,
+ut nec sterilis maneas, nec cum dolore
+parturias. Dura necessitas, et grave jugum super
+<pb n="0074C"/>
+omnes filias Evae! Et si parturiunt, cruciantur: et
+si non parturiunt, maledicuntur. Et dolor prohibet
+parere, et non parere maledictio. Quid facies, Virgo,
+quae haec audis, quae haec legis? Si parturis, angustiaris:
+si sterilis manes, malediceris. Quid eliges,
+Virgo prudens? Angustiae, inquit, mihi sunt undique:
+melius est tamen mihi maledictum incurrere,
+et castam manere, quam prius quidem concipere
+per concupiscentiam, quod merito post cum dolore
+parturiam. Hinc etenim etsi video maledictum, sed
+non peccatum: illinc vero et peccatum simul et
+cruciatum. Denique haec maledictio quid aliud est,
+quam hominum exprobratio? Neque ob aliud sane
+dicitur sterilis maledicta, nisi quod opprobrio et
+<pb n="0074D"/>
+contemptui sit habenda, tanquam inutilis et infructuosa,
+et hoc in Israel tantum. Mihi autem pro minimo
+est quod hominibus displiceo, dum me possim
+virginem castam exhibere Christo. O Virgo prudens,
+o Virgo devota, quis te docuit Deo placere virginitatem?
+Quae lex, quae justitia, quae pagina Veteris
+Testamenti vel praecipit, vel consulit, vel hortatur
+in carne non carnaliter vivere, et in terris angelicam
+ducere vitam? Ubi legeras, beata Virgo: <hi>Sapientia
+carnis mors est <note>(Rom. VIII, 6)</note>
+          </hi>; et: <hi>Curam
+carnis ne perfeceritis in desiderio <note>(Rom. XIII, 14)</note>
+          </hi>?
+Ubi legeras de virginibus, <hi>quia cantant canticum
+novum, quod nemo alius cantare potest, et sequuntur
+Agnum quocunque ierit? <note>(Apoc, XIV, 4.)</note>
+          </hi> Ubi legeras
+laudatos esse, <hi>qui se castraverunt propter regnum
+<pb n="0075A"/>
+coelorum? <note>(Matth. XIX, 12.)</note>
+          </hi> Ubi legeras: <hi>In carne
+enim ambulantes, non secundum carnem militamus <note>(II Cor. X, 3)</note>
+          </hi>;
+et: <hi>Qui matrimonio jungit virginem
+suam, bene facit; et qui non jungit, melius facit?</hi> Ubi
+audieras: <hi>Volo vos omnes esse sicut et me ipsum?</hi> et <hi>Bonum est homini, si sic permaneat secundum meum
+consilium? De virginibus,</hi> 
+ inquit, <hi>praeceptum non
+habeo, consilium autem do <note>(I Cor. VII, 38, 7, 40, 25)</note>
+          </hi>.
+Tu vero non dicam praeceptum, sed nec consilium,
+nec exemplum: nisi quod unctio docebat te de
+omnibus; ac sermo Dei vivus et efficax, ante tibi
+factus magister quam filius, prius instruxerit mentem,
+quam induerit carnem. Christo ergo devoves
+te exhibere virginem; et nescis quod ipsi exhibere
+te oporteat etiam matrem. Eligis in Israel esse contemptibilis,
+<pb n="0075B"/>
+et ut illi placeas cui te probasti, maledictum
+incurrere sterilitatis: et ecce maledictio benedictione
+commutatur, sterilitas fecunditate recompensatur.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Aperi, virgo, sinum, expande gremium, praepara
+uterum: quia ecce facturus est tibi magna qui
+potens est, in tantum ut pro maledictione Israel,
+beatam te dicant omnes generationes. Nec suspectam
+habeas, prudens Virgo, fecunditatem, quia non auferet
+integritatem. Concipies, sed sine peccato, gravida
+eris, sed non gravata; paries, sed non cum
+tristitia: nescies virum, et gignes filium. Qualem
+filium? Illius eris mater, cujus Deus est Pater. Filius
+paternae claritatis [ <hi>al.,</hi> charitatis; <hi>al.,</hi> majestatis]
+erit corona tuae castitatis. Sapientia paterni cordis
+<pb n="0075C"/>
+erit fructus uteri virginalis. Deum denique paries,
+et de Deo concipies. Confortare ergo, Virgo fecunda,
+casta Puerpera, Mater intacta; quia non eris in
+Israel ultra maledicta, neque inter steriles deputata.
+Et si adhuc malediceris ab Israel secundum carnem,
+non quia sterilem vident. Sed quia fecundam invident:
+memento quod et Christus maledictum pertulit
+crucis, qui te suam matrem benedixit in coelis:
+sed et in terris ab angelo benedicta, et a cunctis
+generationibus terrae merito beata praedicaris. Benedicta
+ergo tu in mulieribus, et benedictus fructus
+ventris tui.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ <hi>Quae cum audisset, turbata est in sermone ejus,
+et cogitabat</hi> <emph>747</emph> <hi>qualis esset ista salutatio.</hi> Solent
+virgines, quae verae virgines sunt, semper pavidae, et
+<pb n="0075D"/>
+nunquam esse securae; et ut caveant timida, etiam
+tuta pertimescere, scientes se in vasis fictilibus thesaurum
+portare pretiosum, et nimis arduum esse
+vivere angelice inter homines, et in terris more
+coelestium conversari, et in carne caelibem agere
+vitam. Ac proinde quidquid novum, quidquid subitum
+fuerit ortum, suspectas habent insidias, totum
+contra se aestimant machinatum. Idcirco et Maria
+turbata est in sermone angeli. Turbata est, sed non
+perturbata. <hi>Turbatus sum,</hi> inquit, <hi>et non sum locutus;</hi> 
+sed, <hi>cogitavi dies antiquos, et annos aeternos in
+mente habui <note>(Psal. LXXVI, 5, 6)</note>
+          </hi>. Ita ergo et Maria
+turbata est, et non est locuta, sed cogitabat qualis
+esset ista salutatio. Quod turbata est, verecundiae
+<pb n="0076A"/>
+fuit virginalis: quod non perturbata, fortitudinis:
+quod tacuit et cogitavit, prudentiae. <hi>Cogitabat autem
+qualis esset ista salutatio.</hi> Sciebat prudens virgo,
+quod saepe angelus Satanae transfigurat se in angelum
+lucis: et quia nimirum humilis et simplex erat,
+nihil tale penitus a sancto angelo sperabat; et ideo
+cogitabat qualis esset ista salutatio.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Tunc angelus intuitus Virginem, et varias
+secum volvere cogitationes facillime deprehendens,
+pavidam consolatur, confirmat dubiam, ac familiariter
+vocans ex nomine, benigne ne timeat persuadet. <hi>Ne timeas,</hi> 
+ inquit, <hi>Maria, invenisti gratiam apud
+Deum</hi> Nihil hic doli, nihil hic fallaciae est. Nullam
+circumventionem, nullas hic suspiceris insidias. Non
+sum homo, sed spiritus; et Dei angelus, non Satanae.
+<pb n="0076B"/> <hi>Ne timeas, Maria, invenisti gratiam apud Deum.</hi> 
+ O si
+scires quantum tua humilitas Altissimo placeat,
+quanta te apud ipsum sublimitas maneat! angelico
+te indignam nec alloquio judicares, nec obsequio.
+Ut quid enim indebitam tibi dixeris gratiam angelorum,
+quae invenisti gratiam apud Deum? Invenisti
+quod quaerebas, invenisti quod nemo ante te potuit
+invenire, invenisti gratiam apud Deum. Quam gratiam?
+Dei et hominum pacem, mortis destructionem,
+vitae reparationem. Haec est ergo gratia, quam
+invenisti apud Deum. Et hoc tibi signum: <hi>Ecce
+concipies et paries filium, et vocabis nomen ejus Jesum.</hi> 
+Intellige, prudens Virgo, ex nomine Filii promissi,
+quantam et quam specialem gratiam inveneris
+apud Deum. <hi>Et vocabis,</hi> ait, <hi>nomen ejus Jesum.</hi> Rationem
+<pb n="0076C"/>
+hujus vocabuli alius evangelista ponit, angelo
+sic interpretante: <hi>Ipse enim salvum faciet populum
+suum a peccatis eorum <note>(Matth. I, 21)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Duos Jesus lego in typo hujus, quem nunc in manibus
+habemus, praecessisse, ambos populis praefuisse:
+quorum unus populum suum de Babylone eduxit <note>(Agg.
+I; III Esdr. V, 5)</note>, alter suum in terram promissionis
+introduxit <hi>(Josue, I, 11)</hi>. Et illi quidem illos, quibus
+praeerant, ab hostibus defendebant; sed nunquid
+salvabant a peccatis eorum? Is autem noster Jesus
+et a peccatis salvat populum suum, et introduxit in
+terram viventium. <hi>Ipse enim salvum faciet populum
+suum a peccatis eorum.</hi> Quis est hic qui etiam peccata
+dimittit? Utinam et me peccatorem dignetur Dominus
+<pb n="0076D"/>
+Jesus annumerare populo suo, ut salvum me
+faciat a peccatis meis! Vere enim beatus populus
+cujus iste Jesus Dominus Deus ejus, quia ipse salvum
+faciet populum suum a peccatis eorum. Vereor
+autem ne multi se profiteantur esse de populo ejus,
+quos tamen ipse non habeat pro populo suo, vereor
+ne plerisque, qui quasi in populo ejus religiosiores
+esse videntur, ipse aliquando dicat: <hi>Populus hic labiis
+me honorat, cor autem eorum longe est a me <note>(Matth. XV, 8)</note>
+          </hi>.
+Novit enim Dominus Jesus qui sunt
+ejus <note>(II Tim. II, 19)</note>; novit et quos elegit a principio. <hi>Quid me vocatis,</hi> 
+ ait, <hi>Domine, Domine, et non
+facitis quae dico? <note>(Luc. VI, 46.)</note>
+          </hi> Vis scire an pertineas
+ad populum ejus, vel potius vis esse de populo ejus?
+Eac quae dicit Jesus; et computabit te in populo
+<pb n="0077A"/>
+suo; fac quae jubet in Evangelio Dominus Jesus,
+quae jubet in lege et propetis, quae jubet per ministros
+suos qui sunt in Ecclesia; obtempera ejus
+vicariis praepositis tuis, non tantum bonis et modestis,
+sed etiam dyscolis; et disce ab ipso Jesu, quia
+mitis est et humilis corde; et <emph>748</emph> eris de beato
+populo ejus, quem elegit in haereditatem sibi; eris
+de laudabili populo ejus, quem Dominus exercituum
+benedixit, dicens: <hi>Opus manuum mearum tu es,
+haereditas mea Israel <note>(Isai. XIX, 25)</note>
+          </hi>: cui, ne forte
+Israel carnalem aemuleris, etiam testimonium perhibet,
+dicens: <hi>Populus, quem non cognovi, servivit
+mihi, in auditu auris obedivit mihi <note>(Psal. XVII, 45)</note>
+          </hi>.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ Sed audiamus quid idem angelus sentiat de
+illo, cui necdum concepto tale indidit nomen. Ait
+<pb n="0077B"/>
+namque: <hi>Hic erit magnus, et Filius Altissimi vocabitur.</hi> 
+Bene magnus, qui <hi>Filius Altissimi</hi> merebitur
+appellari. An non magnus, <hi>cujus magnitudinis non est
+finis? <note>(Psal. CXLIV, 3.)</note>
+          </hi> Et <hi>quis magnus,</hi> ait, <hi>sicut
+Deus noster? <note>(Psal. LXXVI, 14.)</note>
+          </hi> Plane magnus, qui
+tam magnus, quam Altissimus, quia et ipse Altissimus.
+Neque enim Altissimi Filius rapinam arbitrabitur
+esse se aequalem Altissimo <note>(Philipp. II, 6)</note>. Ille
+merito arbitrandus est cogitasse rapinam, qui cum
+de nihilo in angelicam formam factus fuisset, factori
+suo se comparans, usurpavit sibi quod Filii Altissimi
+proprium est, qui utique in forma Dei a Deo non
+factus, sed genitus est. Altissimus enim Deus Pater,
+quamvis omnipotens sit, non potuit tamen vel aequalem
+sibi condere creaturam, vel inaequalem gignere
+<pb n="0077C"/>
+filium. Fecit itaque angelum magnum, sed non
+quantus ipse: et ideo nec altissimum. Solum autem
+Unigenitum, quem non fecit, sed genuit Omnipotens
+omnipotentem, Altissimus altissimum, Aeternus
+coaeternum; ipsum sibi per omnia comparari,
+nec rapinam aestimat, nec injuriam. Recte ergo hic
+erit magnus, qui Filius Altissimi vocabitur.</p>
+        </div3>
+<div3>
+          <head>13.</head>
+          <p>
+ Sed quare hic erit, et non potius est magnus,
+qui semper aequaliter magnus, non habet quo crescat,
+nec major post conceptum futurus sit, quam
+ante vel sit, vel fuerit? An forte propterea dixerit, <hi>erit,</hi> 
+ quia qui magnus Deus erat, magnus homo futurus
+sit? Bene ergo, <hi>Hic erit magnus.</hi> Magnus homo,
+magnus doctor, magnus propheta. Sic enim dicitur
+<pb n="0077D"/>
+de eo in Evangelio: <hi>Quia propheta magnus surrexit
+in nobis <note>(Luc. VII, 16)</note>
+          </hi>. Et a minori quodam propheta
+magnus itidem propheta venturus promittitur: <hi>Ecce,</hi> 
+inquit, <hi>veniet propheta magnus, et ipse renovabit Jerusalem.</hi> 
+Et tu quidem, o Virgo, parvulum paries,
+parvulum nutries, parvulum lactabis: sed videns
+parvulum, cogita magnum. Erit enim magnus, quia
+magnificabit eum Deus in conspectu regum, adeo ut
+adorent eum omnes reges, omnes gentes serviant
+ei. Magnificet ergo et anima tua Dominum, quia <hi>hic
+erit magnus, et Filius Altissimi vocabitur.</hi> Magnus
+erit, et magna faciet tibi qui potens est, et sanctum
+nomen ejus Quod enim sanetius nomen, quam quod <hi>Filius Altissimi vocabitur?</hi> 
+ Magnificetur et a nobis
+parvulis magnus Dominus, quos ut faceret magnos,
+<pb n="0078A"/>
+factus est parvulus. <hi>Parvulus,</hi> ait, <hi>natus est nobis,
+et filius datus est nobis <note>(Isai. IX, 6)</note>
+          </hi>. Nobis, inquam,
+non sibi, qui utique ante tempora multo nobilius
+natus ex Patre, nasci temporaliter non indigebat ex
+matre. Non angelis quoque, qui, cum magnum haberent,
+parvulum non requirebant. Nobis ergo natus,
+nobis et datus, quia nobis necessarius.</p>
+        </div3>
+<div3>
+          <head>14.</head>
+          <p>
+ Jam de nobis nato et dato faciamus ad quod
+natus est et datus. Utamur nostro in nostram utilitatem,
+de Salvatore salutem operemur. Ecce parvulus
+in medio statuitur. O parvulus, parvulis [ <hi>Al.,</hi> 
+parvulus] desideratus! O vere parvulus, sed malitia,
+non sapientia! Studeamus effici sicut parvulus iste;
+discamus ab ipso, quia mitis est et humilis corde:
+ne magnus videlicet Deus sine causa factus sit homo
+<pb n="0078B"/>
+parvus, ne gratis mortuus, ne in vacuum crucifixus. Discamus ejus humilitatem, imitemur mansuetudinem, amplectamur dilectionem, communicemus passionibus,
+lavemur in sanguine ejus. Ipsum offeramus
+propitiationem pro peccatis nostris; quoniam ad hoc
+ipse natus et datus est nobis. Ipsum oculis Patris,
+ipsum offeramus et suis: quia et Pater proprio Filio
+suo non pepercit, sed pro nobis tradidit illum <note>(Rom.
+VIII, 32)</note>, et ipse filius semetipsum exinanivit formam
+servi accipiens <note>(Philipp. II, 7)</note>. Ipse tradidit in mortem
+animam suam, et cum sceleratis reputatus est;
+et ipse peccata <emph>749</emph> multorum tulit, et pro transgressoribus
+rogavit ut non perirent <note>(Isa. LIII, 12)</note>.
+Non possunt perire pro quibus Filius rogat ne pereant,
+pro quibus Pater tradidit Filium in mortem
+<pb n="0078C"/>
+ut vivant. Aequaliter ergo ab utroque speranda est
+venia, quibus aequalis est in pietate misericrodia,
+par in voluntate potentia, una in deitate substantia,
+in qua unus cum eis Spiritus sanctus vivit et regnat
+Deus per omnia saecula saeculorum. Amen.
+</p>
+        </div3>
+      </div1>
+
+<div1>
+        <head>HOMILIA IV. <hi>In Luc. cap.</hi> I, V. 32-38.</head>
+<div3>
+          <head>1.</head>
+          <p>
+ Non est dubium, quidquid in laudibus Matris
+proferimus, ad Filium pertinere; et rursum, cum
+Filium honoramus, a gloria Matris non recedimus.
+Nam, si juxta Salomonem, <hi>Filius sapiens gloria est
+patris <note>(Prov. X, 1)</note>
+          </hi>: quanto magis gloriosum est matrem
+ipsius effici Sapientiae? Sed quid ego tento in
+<pb n="0078D"/>
+ejus laudibus, quam laudabilem praedicant prophetae,
+perhibet angelus, narrat evangelista? Non ergo
+laudo, quia non audeo; sed tantum replico devotus,
+quod jam explicavit per os evangelistae Spiritus sanctus.
+Sequitur namque, et ait: <hi>Et dabit illi Dominus
+Deus sedem David patris sui.</hi> Verba sunt angeli
+ad Virginem de promisso Filio, promittentis quod
+debeat possidere regnum David. Quod de stirpe David
+duxerit originem Dominus Jesus, nemo dubitat.
+Quaero autem, quomodo dederit ei Deus sedem David
+patris sui, cum ipse in Jerusalem non regnaverit,
+quin imo turbis eum volentibus constituere
+regem, non acquieverit <note>(Joan. VI, 15)</note>, sed et ante
+faciem Pilati protestatus sit: <hi>Regnum meum non est
+de hoc mundo <note>(Joan. XVIII, 36)</note>
+          </hi>. Denique quid magnum
+<pb n="0079A"/>
+promittitur ei qui sedet super Cherubim <note>(Psal. LXXIX, 2)</note>,
+quem propheta vidit sedentem
+super solium excelsum et elevatum <note>(Isai. VI, 1)</note>,
+sedere in throno David patris sui? Sed novimus
+quamdam aliam Jerusalem ab ea quae nunc est, in
+qua regnavit David, significatam, multo ista nobiliorem,
+multo ditiorem. Hanc igitur puto hic fuisse
+significatam, illo videlicet usu loquendi, quo saepe
+reperis in Scripturis significans poni pro significato.
+Tunc sane dedit illi Deus sedem David patris sui,
+quando <hi>constitutus</hi> est <hi>rex ab eo super Sion montem
+sanctum ejus <note>(Psal. II, 6)</note>
+          </hi>. Sed hic propheta de quo
+regno dixerit, expressius aperuisse videtur, in eo
+quod non in Sion posuit, sed <hi>super Sion.</hi> Nam ideo
+fortassis dictum est, <hi>super,</hi> quia in Sion quidem
+<pb n="0079B"/>
+regnavit David: super Sion vero regnum est illius,
+de quo dictum est ad David: <hi>De fructu ventris tui
+ponam super sedem tuam <note>(Psal CXXXI, II)</note>
+          </hi>: de quo
+et dictum est per alium prophetam, <hi>Super solium
+David, et super regnum ejus sedebit <note>(Isai. IX, 7)</note>
+          </hi>. Vides
+quia ubique reperis, <hi>super? Super Sion, super sedem,
+super solium, super regnum.</hi> Dabit ergo ei Dominus
+Deus sedem David patris sui, non typicam, sed veram;
+non temporalem, sed aeternam; non terrenam,
+sed coelestem. Quae idcirco, ut jam dictum est,
+memoratur fuisse David, quia haec, in qua temporaliter
+sedit, aeternae illius gerebat imaginem.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>Et regnabit in domo Jacob in aeternum, et regni
+ejus non erit finis.</hi> Hic quoque, si domum Jacob temporalem
+accipimus, quomodo in illa, quae aeterna
+<pb n="0079C"/>
+non est, in aeternum regnaturus est? Quaerenda est
+ergo domus aeterna Jacob, in qua regnet in aeternum,
+cujus regni non erit finis. An non denique domus
+illa Jacob exasperaus impie abnegavit eum, et insipienter
+respuit ante faciem Pilati, quando illo perhibente, <hi>Regem vestrum crucifigam?</hi> 
+ uno ore respondendo
+clamavit: <hi>Non habemus regem nisi Caesarem? <note>(Joan. XIX, 15.)</note>
+          </hi> 
+ Require itaque Apostolum, et discernet
+tibi eum qui in occulto Judaeus est, ab illo
+qui in manifesto; et quae in spiritu est circumcisio,
+ab ea quae fit in carne <note>(Rom. II, 28)</note>: spiritualem
+Israel a carnali, et filios fidei Abrahae a filiis carnis. <hi>Non enim,</hi> 
+ inquit, <hi>omnes qui ex Israel, hi sunt Israelitae:
+neque qui semen sunt Abrahae, hi filii (Rom. IX,
+<pb n="0079D"/>
+6, 7)</hi>. Sequere ergo et dic: Similiter non omnes qui
+ex Jacob, hi reputandi sunt in domo Jacob. Jacob
+quippe ipse est qui Israel. Solos igitur qui in fide
+Jacob perfecti inveniendi sunt, reputa <emph>750</emph> in domo
+Jacob, vel potius ipsos noveris fore spiritualem et
+aeternam domum Jacob, in qua regnabit Dominus
+Jesus in aeternum. Quis ex nobis est, qui juxta interpretationem
+nominis Jacob, supplantet diabolum de
+corde suo, luctetur cum vitiis et concupiscentiis
+suis. ut non regnet peccatum in suo mortali corpore,
+sed regnet in eo Jesu, et nunc quidem per
+gratiam, et in aeternum per gloriam? Beati in quibus
+Jesus regnabit in aeternum, quia et ipsi cum eo
+regnabunt, et regni hujus non erit finis. O quam
+gloriosum est regnum illud, in quo reges congregati
+<pb n="0080A"/>
+sunt, convenerunt in unum, ad laudandum scilicet
+et glorificandum eum qui super omnes est Rex
+regum, et Dominus dominantium: de cujus splendidissima
+contemplatione fulgebunt justi sicut sol in
+regno Patris eorum <note>(Matth. XIII, 43)</note>. O si et mei
+peccatoris meminerit Jesus in beneplacito populi
+sui, cum venerit in regnum suum! O si me in illa
+die, quando traditurus est regnum Deo et Patri,
+visitare dignabitur in salutari suo, ad videndum
+scilicet in bonitate electorum suorum, ad laetandum
+in laetitia gentis suae, ut laudetur etiam a me cum
+haereditate sua! Veni interim, Domine Jesu, auter
+scandala de regno tuo, quod est anima mea, ut
+regnes tu (qui debes) in ea. Venit enim avaritia, et
+vindicat in me sibi sedem; jactantia cupit dominari
+<pb n="0080B"/>
+mihi; superbia vult mihi esse rex. Luxuria dicit:
+Ego regnabo; ambitio, detractio, invidia et iracundia
+certant in me ipso de me ipso, cujus ego potissimum
+esse videar. Ego autem quantum valeo resisto; renitor
+quantum juvor. Dominum meum Jesum reclamo;
+ipsi me defendo; quia ipsius me juris agnosco.
+Ipsum mihi Deum, ipsum mihi Dominum teneo, et
+dico: Non habeo regem nisi Dominum Jesum. Veni
+ergo, Domine, disperge illos in virtute tua, et regnabis
+in me, quia tu es ipse Rex meus, et Deus
+meus, qui mandas salutes Jacob.</p>
+        </div3>
+<div3>
+          <head>3.</head>
+          <p>
+ <hi>Dixit autem Maria ad angelum: Quomodo fiet
+istud? quoniam virum non cognosco.</hi> Primo quidem
+prudenter tacuit, cum adhuc dubia cogitabat qualis
+esset ista salutatio; maleus nimirum humiliter non
+<pb n="0080C"/>
+respondere, quam temere loqui quod nesciret. Jam
+vero confortata et bene praemeditata, angelo quidem
+foris loquente, sed Deo intus persuadente (erat enim
+Dominus cum illa, dicente angelo: <hi>Dominus tecum):</hi> 
+ita ergo confirmata, fide scilicet depellente timorem,
+laetitia verecundiam, dixit ad angelum: <hi>Quomodo
+fiet istud? quoniam virum non cognosco.</hi> Non dubitat
+de facto, sed modum requirit et ordinem. Nec enim
+quaerit an fiet istud, sed quomodo. Quasi dicat: Cum
+sciat Dominus meus, testis conscientiae meae, votum
+esse ancillae suae non cognoscere virum; qua lege,
+quo ordine placebit ei ut fiat istud? Si oportuerit
+me frangere votum, ut pariam talem filium; et gaudeo
+de filio, et doleo de proposito: fiat tamen voluntas
+<pb n="0080D"/>
+ejus. Sin vero virgo concipiam, virgo et pariam
+quod utique si placuerit ei, impossibile non erit;
+tunc scio vere quia respexit humilitatem ancillae
+suae. <hi>Quomodo ergo fiet istud? quoniam virum non
+cognosco. Et respondens angelus dixit ei: Spiritus
+sanctus superveniet in te, et virtus Altissimi obumbrabit
+tibi.</hi> Superius dicta est fuisse <hi>gratia plena:</hi> et
+nunc quomodo dicitur, <hi>Spiritus sanctus superveniet
+in te, et virtus Altissimi obumbrabit tibi?</hi> Nunquid
+potuit repleri gratia, et necdum habere Spiritum
+sanctum, cum ipse sit dator gratiarum? Si autem
+jam Spiritus sanctus in ea erat, quomodo adhuc
+tanquam noviter superventurus repromittitur? An
+forte ideo non dixit simpliciter, <hi>veniet in re,</hi> sed
+addidit <hi>super,</hi> quia et prius quidem in ea fuit per
+<pb n="0081A"/>
+multam gratiam, sed nunc supervenire nuntiatur,
+propter abundatioris gratiae plenitudinem, quam
+effusurus est super illam? At vero cum plena jam
+sit, illud amplius quomodo capere poterit? Si autem
+plus aliquid capere potest, quomodo et ante plena
+fuisse intelligenda est? An prior quidem gratia ejus
+tantum repleverat mentem, sequens vero etiam
+ventrem perfundere debet: quatenus scilicet plenitudo
+divinitatis, quae ante in illa, sicut et in multis
+sanctorum, spiritualiter <emph>751</emph> habitabat, etiam sicut
+in nullo sanctorum corporaliter in ipsa habitare
+incipiat?</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Ait itaque: <hi>Spiritus sanctus superveniet in te,
+et virtus Altissimi obumbrabit tibi?</hi> Quid est, <hi>et virtus
+Altissimi obumbrabit tibi?</hi> Qui potest capere, capiat.
+<pb n="0081B"/>
+Quis enim, excepta fortassis illa quae hoc sola in se
+felicissime meruit experiri, intellectu capere, ratione
+discernere possit, qualiter splendor ille inaccessibilis
+virgineis sese visceribus infuderit; et ut illa
+inaccessibilem accedere ad se ferre potuisset, de
+portiuncula ejusdem corporis, cui se animatae contemperavit,
+reliquae massae umbraculum fecerit? Et
+fortasse propter hoc maxime dictum est, <hi>obumbrabit
+tibi,</hi> quia res nimirum in sacramento erat, et quod
+sola per se Trinitas in sola et cum sola Virgine voluit
+operari, soli datum est nosse, cui soli datum est
+experiri. Dicatur ergo, <hi>Spiritus sanctus superveniet
+in te,</hi> qui utique sua potentia fecundabit te. <hi>Et virtus
+Altissimi obumbrabit tibi:</hi> hoc est, illum modum
+quo de Spiritu sancto concipies, Dei virtus, et Dei
+<pb n="0081C"/>
+sapientia Christus, sic in suo secretissimo consilio
+obumbrando conteget et occultabit, quatenus sibi
+tantum notus habeatur et tibi. Ac si angelus respondeat
+ad Virginem: Quid a me requiris, quod in te
+mox experieris? Scies, scies, et feliciter scies, sed
+illo doctore, quo et auctore. Ego autem missus sum
+nuntiare virginalem conceptum, non creare. Nec
+potest doceri nisi a donante: nec potest addisci nisi
+a suscipiente. <hi>Ideoque et quod nascetur ex te Sanctum,
+vocabitur Filius Dei.</hi> Quod est dicere: Quoniam non
+de homine, sed de Spiritu sancto concipies [ <hi>Al.</hi> 
+Quoniam non est de homine, sed de Spiritu sancto,
+quod concipies], concipies autem Altissimi virtutem,
+hoc est Filium Dei; <hi>Ideoque et quod nascetur ex
+te Sanctum, vocabitur Filius Dei:</hi> id est, non solum
+<pb n="0081D"/>
+qui de sinu Patris in uterum tuum veniens obumbrabit
+tibi, sed etiam id quod de tua substantia
+sociabit sibi, ex hoc jam vocabitur Filius Dei,
+quemadmodum et is qui a Patre est ante saecula
+genitus, tuus quoque amodo reputabitur filius. Sic
+autem et quod natum est ex ipso Patre, erit tuus, et
+quod nascetur ex te, erit ejus; ut tamen non siut duo
+filii, sed unus. Et licet aliud quidem ex te, aliud ex
+illo sit; jam non tamen cujusque suus, sed unus
+utriusque erit filius.</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>Ideoque et quod nascetur ex te Sanctum, vocabitur
+Filius Dei.</hi> Attende, quaeso, quam reverenter dixerit, <hi>quod nascetur ex te Sanctum.</hi> 
+ Utquid enim ita simpliciter <hi>Sanctum,</hi> 
+ et absque additamento? Credo quia
+<pb n="0082A"/>
+non habuit quid proprie digneve nominaret illud
+eximium, illud magnificum, illud reverendum, quod
+de purissima videlicet Virginis carne cum sua anima
+Unico Patris erat uniendum. Si diceret, sancta caro,
+vel sanctus homo, vel sanctus infans; quidquid tale
+poneret, parum sibi dixisse videretur. Posuit ergo
+indefinite, <hi>Sanctum:</hi> quia quidquid illud sit quod
+Virgo genuit, sanctum procul dubio ac singulariter
+sanctum fuit, et per Spiritus sanctificationem, et per
+Verbi assumptionem.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ Et adjecit angelus: <hi>Et ecce Elisabeth, cognata
+tua, et ipsa concepit filium in senectute sua.</hi> Quid
+fuit necesse etiam hujus sterilis Virgini nuntiare
+conceptum? Nunquid forte dubiam adhuc et incredulam
+oraculo, recentiori voluit confirmare miraculo?
+<pb n="0082B"/>
+Absit! Legimus et Zachariae incredulitatem
+ab hoc ipso angelo fuisse castigatam: Mariam autem
+in aliquo reprehensam non legimus; quin potius
+fidem! ipsius Elisabeth prophetante laudatam agnovimus. <hi>Beata,</hi> 
+ inquit, <hi>quae credidisti, quoniam perficientur
+in te quae dicta sunt tibi a Domino <note>(Luc. I,
+45)</note>
+          </hi>. Sed ideo sterilis cognatae conceptus Virgini
+nuntiatur, ut, dum miraculo miraculo miraculum additur,
+gaudium gaudio cumuletur. Porro necesse erat non
+modico laetitiae et amoris praeveniente inflammari
+incendio, quae Filium paternae dilectionis cum gaudio
+Spiritus sancti mox fuerat conceptura. Neque
+enim nisi in devotissimo corde atque hilarissimo
+tanta se capere poterat dulcedinis et alacritatis
+affluentia. Vel ideo conceptus Elisabeth nuntiatur
+<pb n="0082C"/>
+Mariae, quia profecto <emph>752</emph> decebat ut verbum
+mox divulgandum ubique prius sciret Virgo per
+angelum, quam audiret ab homine: ne Mater videlicet
+Dei a consiliis Filii videretur amota, si eorum
+quae in terris tam prope gererentur, remansisset
+ignara. Vel ideo potius conceptus Elisabeth Mariae
+nuntiatus est, ut dum nunc Salvatoris, nunc praecursoris
+edocetur adventum, rerum tempus et ordinem
+tenens, ipsa melius postmodum scriptoribus
+ac praedicatoribus Evangelii reseraret veritatem,
+quae et plene de omnibus a principio coelitus fuerit
+instructa mysteriis. Vel ideo adhuc nuntiatur Mariae
+conceptus Elisabeth, ut audiens cognatam vetulam
+et gravidam, cogitet juvencula de obsequio: sicque
+illa properante ad visitandum, parvulo prophetae
+<pb n="0082D"/>
+locus et occasio detur, quo minori adhuc Domino suo
+officii valeat exhibere primitias; et dum ad se invicem
+occurrit matrum, infantumque ab alterutro excitata
+devotio, mirabilius fiat miraculum de miraculo.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ Vide autem ne haec tam magnifica, quae ab
+angelo audis praenuntiata, ab ipso speres perficienda.
+A quo ergo si quaeris; ipsum audi Angelum. <hi>Quia
+non erit,</hi> inquit, <hi>impossibile apud Deum omne verbum;</hi> 
+tanquam diceret: Haec quae ego tam fideliter promitto,
+non de mea, sed de illius qui me misit, virtute
+praesumo. <hi>Quia non erit impossible apud Deum
+omne verbum.</hi> Quale enim illi verbum impossibile
+poterit esse, qui omnia fecit in Verbo? Movet me et
+hoc in verbis angelicis, quod signanter non ait?
+<pb n="0083A"/> <hi>Quia non erit impossibile apud Deum omne</hi> 
+ factum;
+sed, <hi>omne verbum.</hi> An idcirco posuit verbum, quia
+quam facile possunt homines loqui quod volunt,
+etiam quod nullatenus facere possunt; tam facile,
+imo incomparabiliter facilius valet Deus opere implere,
+quidquid illi verbo valent exprimere? Dicam
+apertius. Si hominibus tam facile esset facere quam
+dicere quod volunt; et ipsis quoque non esset impossibile
+omne verbum. Nunc autem quoniam vulgaris
+et vetus sermo est, multum interesse inter
+loqui et facere, sed apud homines, non apud Deum:
+soli Deo quia idem est facere quod loqui, idem loqui
+quod velle; merito non erit impossibile apud Deum
+omne verbum. Verbi gratia: potuerunt praevidere et
+praedicere prophetae Virginem vel sterilem concepturam
+<pb n="0083B"/>
+ac parituram; sed nunquid facere ut conciperet
+et pareret? Deus autem, qui dedit eis posse
+praevidere, quam facile potuit tunc quod voluit, per
+illos praedicere, tam facile potuit nunc quando voluit,
+per se ipsum quod promisit implere. Siquidem
+apud Deum nec verbum dissidet ab intentione, quia
+veritas est; nec factum a verbo, quia virtus est;
+nec modus a facto, quia sapientia est: ac per hoc
+non erit impossible apud Deum omne verbum.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ Audisti, Virgo, factum; audisti et modum:
+utrumque mirum, utrumque jucundum. Jucundare,
+filia Sion; et exsulta satis, filia Jerusalem <note>(Zach.
+IX, 9)</note>. Et quoniam auditui tuo datum est gaudium et
+laetitia, audiamus et nos a te responsum laetitiae quod
+<pb n="0083C"/>
+desideramus, ut jam exsultent ossa humiliata. Audisti,
+inquam, factum, et credidisti: crede et de
+modo quod audisti. Audisti quia concipies, et paries
+filium: audisti quod non per hominem, sed per
+Spiritum sanctum. Exspectat angelus responsum:
+tempus est enim ut revertatur ad Deum qui misit
+illum. Exspectamus et nos, o Domina, verbum miserationis,
+quos miserabiliter premit sententia damnationis.
+Et ecce offertur tibi pretium salutis nostrae:
+statim liberabimur si consentis. In sempiterno
+Dei Verbo facti sumus omnes, et ecce morimur: in
+tuo brevi responso sumus reficiendi, ut ad vitam
+revocemur. Hoc supplicat a te, o pia Virgo, flebilis
+Adam cum misera sobole sua exsul de paradiso, hoc
+Abraham, hoc David. Hoc caeteri flagitant sancti
+<pb n="0083D"/>
+Patres, patres scilicet tui, qui et ipsi habitant in
+regione umbrae mortis. Hoc totus mundus tuis genibus
+provolutus exspectat. Nec immerito quando ex
+ore tuo pendet consolatio miserorum, redemptio
+captivorum, liberatio damnatorum: <emph>753</emph> salus
+denique universorum filiorum Adam, totius generis
+tui. Da, Virgo, responsum festinanter. O Domina,
+responde verbum, quod terra, quod inferi, quod
+exspectant et superi. Ipse quoque omnium Rex et
+Dominus quantum concupivit decorem tuum, tantum
+desiderat et responsionis assensum: in qua
+nimirum proposuit salvare mundum. Et cui placuisti
+in silentio jam magis placebis ex verbo, cum ipse
+<pb n="0084A"/>
+tibi clamet e coelo: O pulchra inter mulieres, fac
+me audire vocem tuam. Si ergo tu eum facias audire
+vocem tuam, ipse te faciet videre salutem nostram.
+Nunquid non hoc est quod quaerebas, quod gemebas,
+quod diebus et noctibus orando suspirabas? Quid
+igitur? tu es cui hoc promissum est, an aliam exspectamus?
+Imo tu ipsa, non alia. Tu, inquam, illa
+promissa, illa exspectata, illa desiderata, ex qua
+sanctus pater tuus Jacob jam morti appropinquans
+vitam sperabat aeternam, cum dicebat: <hi>Exspectabo
+salutare tuum, Domine <note>(Gen. XLIX, 18)</note>
+          </hi>. In qua denique,
+et per quam Deus ipse rex noster ante saecula
+disposuit operari salutem in medio terrae. Quid ab
+alia speras, quod tibi offertur? quid per aliam exspectas,
+quod per te mox exhibebitur, dummodo
+<pb n="0084B"/>
+praebeas assensum, respondeas verbum? Responde
+itaque citius angelo, imo per angelum Domino.
+Responde verbum, et suscipe Verbum: profer tuum,
+et concipe divinum: emitte transilorium, et amplectere
+sempiternum. Quid tardas? quid trepidas?
+Crede, confitere, et suscipe. Sumat humilitas audaciam,
+verecundia fiduciam. Nullatenus convenit
+nunc ut virginalis simplicitas obliviscatur prudentiam.
+In hac sola re ne timeas, prudens Virgo, praesumptionem:
+quia, etsi grata in silentio verecundia,
+magis tamen nunc in verbo pietas necessaria. Aperi,
+Virgo beata, cor fidei, labia confessioni, viscera
+Creatori. Ecce desideratus cunctis gentibus foris
+pulsat ad ostium. O si te morante pertransierit, et
+<pb n="0084C"/>
+rursus incipias dolens quaerere quem diligit anima
+tua! Surge, curre, aperi. Surge per fidem, curre
+per devotionem, aperi per confessionem.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ <hi>Ecce,</hi> inquit, <hi>ancilla Domini, fiat mihi secundum
+verbum tuum.</hi> Semper solet esse gratiae divinae
+familiaris virtus humilitas. Deus enim superbis resistit,
+humilibus autem dat gratiam. Humiliter ergo
+respondet, ut sedes gratiae praeparetur. <hi>Ecce,</hi> inquit, <hi>ancilla Domini.</hi> 
+ Quae est haec tam sublimis humilitas,
+quae cedere non novit honoribus, insolescere gloria
+nescit? Mater Dei eligitur, et ancillam se nominat.
+Non mediocris revera humilitatis insigne, nec oblata
+tanta gloria oblivisci humilitatem. Non magnum est
+esse humilem in abjectione; magna prorsus et rara
+virtus, humilitas honorata. Si me miserum homuncionem
+<pb n="0084D"/>
+meis decepta simulationibus ad aliquem vel
+mediocrem honorem provexerit Ecclesia, Deo nimirum
+hoc vel propter mea, vel propter subditorum
+peccata permittente; nonne statim oblitus qui fuerim,
+talem me puto, qualis ab hominibus (qui cor
+non vident) putatus sum? Credo famae [ <hi>alias,</hi> sane],
+conscientiam non attendo; et reputans non honorem
+virtutibus, sed virtutes honori, eo sanctiorem,
+quo superiorem me aestimo. Videas plerosque in
+Ecclesia de ignobilibus nobiles, de pauperibus divites
+factos, subito intumescere, pristinae oblivisci abjectionis:
+genus quoque suum erubescere, et infimos
+dedignari parentes. Videas et homines pecuniosos
+<pb n="0085A"/>
+[ <hi>al.</hi> perniclosos.] ad honores quosque ecclesiasticos
+pervolare; moxque sibi applaudere sanctitatem,
+vestium duntaxat mutatione, non mentium; et dignos
+se aestimare dignitate ad quam ambiendo pervenerunt;
+quodque (si audeo dicere) adepti sunt
+nummis, attribuere meritis. Omitto autem de his
+quos excaecat ambitio, et honor ipse superbiendi eis
+materia est.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ Sed video (quod magis doleo) post spretam
+saeculi pompam nonnullos in schola humilitatis superbiam
+magis addiscere, ac sub alis mitis humilisque
+magistri gravius insolescere, et impatientes
+amplius fieri in claustro, quam fuissent in saeculo.
+Quodque magis <emph>754</emph> perversum est, plerique in
+domo Dei non patiuntur haberi contemptui, qui in
+<pb n="0085B"/>
+sua nonnisi contemptibiles esse potuerunt: ut quia
+videlicet, ubi a pluribus honores appetuntur, ipsi
+locum habere non meruerunt, saltem ibi honorabiles
+videantur, ubi ab omnibus honores contemnuntur.
+Video et alios (quod non sine dolore videri debet)
+post aggressam Christi militiam, rursus saecularibus
+implicari negotiis, rursus cupiditatibus terrenis
+immergi: cum magna cura erigere muros, et negligere
+mores: sub praetextu quoque communis utilitatis,
+verba vendere divitibus, et matronis salutationes:
+sed et contra Imperatoris sui edictum concupiscere
+aliena, et sua cum lite repetere; non audientes
+apostolum ex imperio Regis tubicinantem: <hi>Hoc ipsum,</hi> 
+ inquit, <hi>delictum est in vobis, quod causas
+habetis. Quare non magis fraudem patimini? (I Cor. VI,
+<pb n="0085C"/>
+7.)</hi> Itane mundum sibi, et se mundo crucifixerunt,
+ut qui antea vix in suo vico vel oppido cogniti fuerant,
+modo circumeuntes provincias et curias frequentantes,
+regum notitias, principumque familiaritates
+assecuti sint? Quid de ipso habitu dicam, in
+quo jam non calor, sed color requiritur; magisque
+cultui vestium, quam virtutum insistitur? Pudet dicere!
+vincuntur in suo studio mulierculae, quando
+a monachis pretium affectatur in vestibus, non necessitas:
+nec saltem forma religionis retenta, in
+habitu ornari, non armari appetunt milites Christi:
+qui, dum se praeparare ad praelium, et contra aereas
+potestates praetendere paupertatis insigne debuerant
+(quod utique adversarii valde formidant), in mollitie
+<pb n="0085D"/>
+vestimentorum pacis potius praeferentes indicium,
+ultro se hostibus sine sanguine tradunt inermes. Nec
+aliunde haec omnia mala contingunt, nisi quod
+illam, qua saeculum deseruimus, deserentes humilitatem,
+dum per hoc cogimur inepta denuo sectari
+studia saecularium, canes efficimur revertentes ad
+vomitum.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ Audiamus itaque, quotquot tales sumus, quid
+illa responderit, quae Dei mater eligebatur, sed humilitatem
+non obliviscebatur. <hi>Ecce,</hi> ait, <hi>ancilla Domini,
+fiat mihi secundum verbum tuum. Fiat</hi> est
+desiderii signum, non dubitationis indicium. Et <LACUNA>
+hoc quod dicit, <hi>fiat mihi secundum verbum tuum,</hi> 
+magis intelligenda est affectum exprimere desiderantis,
+quam effectum requirere more dubitantis.
+<pb n="0086A"/>
+Quanquam nil obstat intelligi, <hi>fiat,</hi> esse verbum
+orantis. Nemo quippe orat, nisi quod credit et sperat.
+Vult autem a se requiri Deus etiam quod pollicetur.
+Et ideo forte multa quae dare disposuit, prius
+pollicetur, ut ex promissione devotio excitetur:
+sicque quod gratis daturus erat, devota oratio promereatur.
+Sic pius Dominus, qui omnes homines
+vult salvos fieri, merita nobis extorquet a nobis: et
+dum nos praevenit tribuendo quod retribuat, gratis
+agit, ne gratis tribuat. Hoc utique prudens Virgo
+intellexit, quando praevenienti se muneri gratuitae
+promissionis, junxit meritum suae orationis: <hi>fiat,</hi> 
+inquiens, <hi>mihi secundum verbum tuum.</hi> Fiat mihi
+de Verbo secundum verbum tuum. Verbum quod
+erat in principio apud Deum, fiat caro de carne mea
+<pb n="0086B"/>
+secundum verbum tuum. Fiat, obsecro, mihi verbum,
+non prolatum quod transeat, sed conceptum
+ut maneat, carne videlicet indutum, non aere. Fiat
+mihi non tantum audibile auribus, sed et visibile
+oculis, palpabile manibus, gestabile humeris. Nec
+fiat mihi verbum scriptum et mutum, sed incarnatum
+et vivum: hoc est, non mutis figuris, mortuis
+in pellibus exaratum - sed in forma humana meis
+castis visceribus vivaciter impressum: et hoc non
+mortui calami depictione, sed sancti Spiritus operatione.
+Eo videlicet modo fiat mihi, quo nemini
+ante me factum est, nemini post me faciendum.
+Porro multifariam multisque modis olim Deus locutus
+est Patribus in prophetis; et aliis quidem in
+aure, aliis in ore, aliis etiam in manu factum esse
+<pb n="0086C"/>
+verbum Domini memoratur: mihi autem oro ut in
+utero fiat juxta verbum tuum. Nolo autem ut fiat
+mihi aut declamatorie praedicatum, aut figuraliter
+significatum, aut imaginatorie somniatum; sed silenter <emph>755</emph> 
+ inspiratum, personaliter incarnatum,
+corporaliter invisceratum. Verbum igitur, quod in
+se nec poterat fieri, nec indigebat, dignetur in me,
+dignetur et mihi fieri secundum verbum tuum. Fiat
+quidem generaliter omni mundo, sed specialiter fiat
+mihi secundum verbum tuum.
+<p>
+              <emph> <hi>Excusatio S. Bernardi, quod locum istum Evangelii
+post alios expositores tractandum sumpserit.</hi> </emph>
+            </p>
+<p>Lectionem evangelicam exposui, sicut potui: nec
+ignoro quod non omnibus placebit. sed scio me ob
+hanc rem multorum fore indignationi obnoxium; et
+<pb n="0086D"/>
+aut judicabor superfluus, aut praesumptor, quod
+videlicet post Patres, qui hunc ipsum locum plenissime
+exposuerunt, rursus in eodem novus expositor
+ausus fuerim mittere manum. Sed si quid dictum
+est post Patres quod non sit contra Patres; nec
+Patribus arbitror, nec cuiquam displicere debere.
+Ubi autem dixi quod a Patribus accepi, dum sic
+absit typhus praesumptionis, ut non desit fructus
+devotionis, patienter audiam de superfluitate causantes.
+Noverint tamen qui me tanquam de otiosa
+et non necessaria explanatione suggillant, non tam
+intendisse exponere Evangelium, quam ex Evangelio
+sumere occasionem loquendi quod loqui delectabat.
+Si vero peccavi, quod propriam magis ex hoc excitarim
+<pb n="0087A"/>
+devotionem, quam communem quaesierim utilitatem:
+potens erit pia Virgo apud suum misericordem
+Filiam hoc meum excusare peccatum, cui hoc
+<pb n="0088A"/>
+meum qualecumque opusculum devotissime destinavi.
+
+</p>
+          </LACUNA>
+        </p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>
