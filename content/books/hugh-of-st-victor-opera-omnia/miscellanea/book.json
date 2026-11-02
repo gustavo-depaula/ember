@@ -1,0 +1,5558 @@
+{
+  "id": "hugh-miscellanea",
+  "cover": "classic",
+  "name": {
+    "la": "Miscellanea",
+    "en-US": "Miscellanea",
+    "pt-BR": "Miscelânea"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Miscellaneorum libri quinque: elucidationes variae in Scripturam, sententiae et quaestiones (partim Hugonis).",
+    "en-US": "The five books of the Miscellanea printed in PL 177 under Hugh’s name: biblical elucidations, sentences and questions, collected by the Victorine school and only partly Hugh’s own. Latin only, from the Migne text (Patrologia Latina 177, 1854), a machine-corrected OCR.",
+    "pt-BR": "Os cinco livros da Miscelânea impressos por Migne sob o nome de Hugo: elucidações bíblicas, sentenças e questões reunidas pela escola de São Vítor, apenas em parte de Hugo."
+  },
+  "composed": "12th century",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/miscellanea",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 177)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AuInHuD.Miscel2",
+      "edition": "Migne, Patrologia Latina 177 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text AuInHuD.Miscel2, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus. Elucidationes variae in scripturam moraliter"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Titulus I. De eo quod spiritualis dijudicat omnia, et de judicio veri et boni."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Tit. II. De cibo Emmanuelis, de quo scriptum est: « Butyrum et mel comedet, » etc."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Tit. III. Apologus probans omne cor pronum esse ad commendationem sui et suorum."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Tit. IV. De stulto qui ut « luna mutatur, » et de justo qui « vir unus » est."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Tit. V. Quod in sensu bonum hominis non est."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Tit. VI. De triplici pace."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Tit. VII. De dignitate et libertate rationalis creaturae."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Tit. VIII. De triplici exercitatione, et quibus activa et contemplativa vitae figurantur nominibus."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Tit. IX. Quod elementum duobus modis dicitur."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Tit. X. De trinitate universitatis."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Tit. XI. Quod in originali peccato vitia tria, inobedientiae duae et peccatum unum fuerunt."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Tit. XII. Quod Christus et sapientia a diversis variis quaeruntur modis."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Tit. XIII. Quod Deus in Scriptura homini foris loquitur per praeceptiones, prohibitiones, promissiones et minationes."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Tit. XIV. Quod Deus cum homine sit quatuor modis."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Tit. XV. De progressionibus cognitionis."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Tit. XVI. Quod animus quatuor modis agenda tractat."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Tit. XVII. De dissimili operatione Dei."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Tit. XVIII. De fide, quid sit, et quae ad eam spectent."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Tit. XIX. De Charitate, Fide et Spe."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Tit. XX. De quatuor debitoribus."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Tit. XXI. De impedimento cognitionis."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Tit. XXII. De tribus motibus in homine."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Tit. XXIII. De instrumentis cognitionis."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Tit. XXIV. De sensu homionis, carnali et spirituali."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Tit. XXV. De divinis luminibus."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Tit. XXVI. De conceptu et partu Sapientiae."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Tit. XXVII. De triplici genere aspirationum."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Tit. XXVIII. De quinque jugis."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Tit. XXIX. Quod Deo nihil inordinatum esse potest."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Tit. XXX. Quod Deus non transmutatur."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Tit. XXXI. De mysterio in forma coeli et terrae."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Tit. XXXII. De serie temporum et amandorum ratione."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Tit. XXXIII. De fructu et desiderio justitiae."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Tit. XXXIV. De sacramento corporis Christi."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Tit. XXXV. De gloria et poena corporis humani."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Tit. XXXVI. Quod Moyses typus fuit Christi, inter Deum et homines futuri Mediatoris."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Tit. XXXVII. Quod creatura non potest bene esse sine creatore."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Tit. XXXVIII. De divisione per iniquitatem et unione per charitatem."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Tit. XXXIX. De triplici operatione philosophiae."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Tit. XL. De triplici eruditione et duplici operatione spiritus."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Tit. XLI. Quod prius pusillanime fovendi sunt per consolationem ut surgant; postea terrore confirmandi per increpationem ne recidant."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Tit. XLII. Quod pro temporalium abundantia non debet fraternitatis frangi concordia."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Tit. XLIII. Quod virtus et veritas simul esse volunt."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Tit. XLIV. De duplici amore et superaedificatione."
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Tit. XLV. De carne jumento et spiritu sessore."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Tit. XLVI. De occultis et manifestis hominis et homini."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Tit. XLVII. De vita et morte, gaudio et dolore duplicibus."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Tit. XLVIII. De duabus civitatibus et duobus populis et regibus."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Tit. XLIX. De officio et potestate praelatorum."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Tit. L. De tribus crucibus."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Tit. LI. De duplici oleo, scilicet Dei et mundi."
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Tit. LII. De falsitate consolationis mundanae."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Tit. LIII. De quadruplici recordatione praeteritorum malorum."
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Tit. LIV. Unde vitium originem trahat?"
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Tit. LV. De variis viis hominis."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Tit. LVI. De duabus viis in Evangelio."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Tit. LVII. De virtute et justitia."
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Tit. LVIII. De activa et passiva justitia."
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Tit. LIX. De lectulo et ferculo Salomonis."
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Tit. LX. De eisdem."
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Tit. LXI. De ferculo, id est lectica seu vehiculo Salomonis, a ferendo dicto, et de curru Pharaonis."
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Tit. LXII. De ferculo et lectulo Salomonis"
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Tit. LXIII. De quatuor modis quibus notitia Dei manifestatur homini, seu de natura gratia et Deo."
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Tit. LXIV. De superbia et humilitate."
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Tit. LXV. De triplici contemplatione et eruditione."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Tit. LXVI. De tribus gradibus fidei."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Tit. LXVII. Quod charitas nunquam excidit."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Tit. LXVIII. Quare conscientiae hominum velatae sint."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Tit. LXIX. De servitute et timore Dei."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Tit. LXX. Quod bonus animus sit hortus voluptatis."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Tit. LXXI. De conformitate Christi induenda."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Tit. LXXII. De cognitione veri, quam sit naturalis."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Tit. LXXIII. Cur Filius Dei rogat Patrem."
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Tit. LXXIV. De magna peccatoris respiratione, et dubiorum circa conscientiam decisione."
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Tit. LXXV. Quod sacra Scriptura sit cathedra"
+          }
+        },
+        {
+          "id": "c076",
+          "title": {
+            "la": "Tit. LXXVI. Quomodo sapientia vicit malitiam."
+          }
+        },
+        {
+          "id": "c077",
+          "title": {
+            "la": "Tit. LXXVII. De quinque statibus humanis."
+          }
+        },
+        {
+          "id": "c078",
+          "title": {
+            "la": "Tit. LXXVIII. De sex modis operandi."
+          }
+        },
+        {
+          "id": "c079",
+          "title": {
+            "la": "Tit. LXXIX. De fuga a vitiis et eorum occasionibus."
+          }
+        },
+        {
+          "id": "c080",
+          "title": {
+            "la": "Tit. LXXX. Quod non solum corde tenenda, sed et ore confitenda sit fides Christiana, ad archiepiscopum Hispalensem, qui eam ore negaverat."
+          }
+        },
+        {
+          "id": "c081",
+          "title": {
+            "la": "Tit. LXXXI. De eo quod scriptum est: « Cum esset Jesus annorum duodecim » quomodo Verbum caro factum nobis remedium praestat et exemplum. De Jerusalem quae descendit de coelo; de confessione et veritate, quae de terra oritur, et quomodo prosit."
+          }
+        },
+        {
+          "id": "c082",
+          "title": {
+            "la": "Tit. LXXXII. De nuptiis factis in Cana Galilaeae, et de hydriarum typo."
+          }
+        },
+        {
+          "id": "c083",
+          "title": {
+            "la": "Tit. LXXXIII. De theophania multiplici, et in quibus est praecipua divina apparitio."
+          }
+        },
+        {
+          "id": "c084",
+          "title": {
+            "la": "Tit. LXXXIV. De tribus voluntatibus in Christo."
+          }
+        },
+        {
+          "id": "c085",
+          "title": {
+            "la": "Tit. LXXXV. Quod Christus se hominibus in humanitate exhibuit, qui ab eis in divinitate non poterat comprehendi."
+          }
+        },
+        {
+          "id": "c086",
+          "title": {
+            "la": "Tit. LXXXVI. Quomodo Christus dixit: « Pater meus."
+          }
+        },
+        {
+          "id": "c087",
+          "title": {
+            "la": "Tit. LXXXVII. Quare idem Deus, et homo."
+          }
+        },
+        {
+          "id": "c088",
+          "title": {
+            "la": "Tit LXXXVIII. Mysterium de purificatione Mariae."
+          }
+        },
+        {
+          "id": "c089",
+          "title": {
+            "la": "Tit. LXXXIX. De Dei. Mulieris et diaboli, de mortis incurrenda assertione."
+          }
+        },
+        {
+          "id": "c090",
+          "title": {
+            "la": "Tit. XC. De paenitentia Dei et amore ejus in creaturas vario."
+          }
+        },
+        {
+          "id": "c091",
+          "title": {
+            "la": "Tit. XCI. « Exi de terra tua et de cognatione tua. » Sermo ad fratres."
+          }
+        },
+        {
+          "id": "c092",
+          "title": {
+            "la": "Tit. XCII. De duplici vita animae."
+          }
+        },
+        {
+          "id": "c093",
+          "title": {
+            "la": "Tit. XCIII. De conscientia et fama."
+          }
+        },
+        {
+          "id": "c094",
+          "title": {
+            "la": "Tit. XCIV. De duplici vetustate"
+          }
+        },
+        {
+          "id": "c095",
+          "title": {
+            "la": "Tit. XCV. De tribus locis filiorum Israel, Aegypto, deserto, et terra promissionis."
+          }
+        },
+        {
+          "id": "c096",
+          "title": {
+            "la": "Tit. XCVI. De duobus discipulis currentibus ad monumentum Domini responsio epistolaris."
+          }
+        },
+        {
+          "id": "c097",
+          "title": {
+            "la": "Tit. XCVII. De duobus discipulis currentibus ad monumentum, altera epistola."
+          }
+        },
+        {
+          "id": "c098",
+          "title": {
+            "la": "Tit. XCVIII. De Petri et Joannis dilectione."
+          }
+        },
+        {
+          "id": "c099",
+          "title": {
+            "la": "Tit. XCIX. De gratitudine beneficiorum Dei, et de judicio de se et proximo faciendo."
+          }
+        },
+        {
+          "id": "c100",
+          "title": {
+            "la": "Tit. C. De apparitione Christi duobus discipulis euntibus in castellum quod dicitur Emmaus."
+          }
+        },
+        {
+          "id": "c101",
+          "title": {
+            "la": "Tit. CI. De Christo, ove et pastore bono."
+          }
+        },
+        {
+          "id": "c102",
+          "title": {
+            "la": "Tit. CII. De eo quod scriptum est: « Nisi ego abiero Paracletus non veniet. »"
+          }
+        },
+        {
+          "id": "c103",
+          "title": {
+            "la": "Tit. CIII. De Spiritu Dei et spiritu mundi per quem consummata sunt omnia."
+          }
+        },
+        {
+          "id": "c104",
+          "title": {
+            "la": "Tit. CIV. De sacramento et re sacramenti poenitentiae."
+          }
+        },
+        {
+          "id": "c105",
+          "title": {
+            "la": "Tit. CV. De virtute poenitentiae."
+          }
+        },
+        {
+          "id": "c106",
+          "title": {
+            "la": "Tit. CVI. De tribus quae sunt in poenitentia."
+          }
+        },
+        {
+          "id": "c107",
+          "title": {
+            "la": "Tit. CVII. De sapientia in faciendo bono, et de patientia in tolerando malo."
+          }
+        },
+        {
+          "id": "c108",
+          "title": {
+            "la": "Tit. CVIII. Quomodo se debeat quisque Deo in cibum praeparare."
+          }
+        },
+        {
+          "id": "c109",
+          "title": {
+            "la": "Tit. CIX. De fuga Eliae a facie Jezabel."
+          }
+        },
+        {
+          "id": "c110",
+          "title": {
+            "la": "Tit. CX. De duobus nuntiis ad nos missis."
+          }
+        },
+        {
+          "id": "c111",
+          "title": {
+            "la": "Tit. CXI. De deserto quod est cor hominis; de virgula fumi et de pigmentario et aromatibus."
+          }
+        },
+        {
+          "id": "c112",
+          "title": {
+            "la": "Tit. CXII. De tribus festis, virginum, confessorum et martyrum, et de bono confessionis."
+          }
+        },
+        {
+          "id": "c113",
+          "title": {
+            "la": "Tit. CXIII. De festis sanctorum recolendis."
+          }
+        },
+        {
+          "id": "c114",
+          "title": {
+            "la": "Tit. CXIV. Quod finis legis Christus est, et de bono finis."
+          }
+        },
+        {
+          "id": "c115",
+          "title": {
+            "la": "Tit. CXV. De duplici quiete et inquietudine."
+          }
+        },
+        {
+          "id": "c116",
+          "title": {
+            "la": "Tit. CXVI. De eo quod scriptum est: « Favus distillans labia mea. »"
+          }
+        },
+        {
+          "id": "c117",
+          "title": {
+            "la": "Tit. CXVII. De duplici gloria veri Salomonis Christi, a patre et matre."
+          }
+        },
+        {
+          "id": "c118",
+          "title": {
+            "la": "Tit. CXVIII. Quod generalis praedicatio Deum deceat, particularis homines; atque ita quomodo Deus ubique est, et de argutiis dialecticis."
+          }
+        },
+        {
+          "id": "c119",
+          "title": {
+            "la": "Tit. CXIX. Quomodo debitores non sumus carni, etc."
+          }
+        },
+        {
+          "id": "c120",
+          "title": {
+            "la": "Tit. CXX. De duplici et item triplici contemplatione Dei."
+          }
+        },
+        {
+          "id": "c121",
+          "title": {
+            "la": "Tit. CXXI. Quod anima hominem excruciat et exercet in hac vita."
+          }
+        },
+        {
+          "id": "c122",
+          "title": {
+            "la": "Tit. CXXII. Quod verbum Dei solum bonum est animae."
+          }
+        },
+        {
+          "id": "c123",
+          "title": {
+            "la": "Tit. CXXIII. Quod scientia et cura dupliciter Deo attribuitur."
+          }
+        },
+        {
+          "id": "c124",
+          "title": {
+            "la": "Tit. CXXIV. De duabus partibus concupiscentiae mundanae."
+          }
+        },
+        {
+          "id": "c125",
+          "title": {
+            "la": "Tit. CXXV. De tribus gradibus abstinentiae."
+          }
+        },
+        {
+          "id": "c126",
+          "title": {
+            "la": "Tit. CXXVI. Quod multi sola curiositate veritatem quaerunt."
+          }
+        },
+        {
+          "id": "c127",
+          "title": {
+            "la": "Tit. CXXVII. De duplici superbia."
+          }
+        },
+        {
+          "id": "c128",
+          "title": {
+            "la": "Tit. CXXVIII. De duplici humilitate."
+          }
+        },
+        {
+          "id": "c129",
+          "title": {
+            "la": "Tit. CXXIX. Quid vere sit homo."
+          }
+        },
+        {
+          "id": "c130",
+          "title": {
+            "la": "Tit. CXXX. De tribus spiritibus."
+          }
+        },
+        {
+          "id": "c131",
+          "title": {
+            "la": "Tit. CXXXI. De dilectore et dilecto duplici."
+          }
+        },
+        {
+          "id": "c132",
+          "title": {
+            "la": "Tit. CXXXII. « Venite ad me, omnes qui laboratis et onerati estis. »"
+          }
+        },
+        {
+          "id": "c133",
+          "title": {
+            "la": "Tit. CXXXIII. De mortis duabus portis."
+          }
+        },
+        {
+          "id": "c134",
+          "title": {
+            "la": "Tit. CXXXIV. Quomodo malus bono vivat, et quod esse bonum et in eo perseverare non sit ab homine."
+          }
+        },
+        {
+          "id": "c135",
+          "title": {
+            "la": "Tit. CXXXV. De duplici fine et medio."
+          }
+        },
+        {
+          "id": "c136",
+          "title": {
+            "la": "Tit. CXXXVI. De duplici judicio superborum."
+          }
+        },
+        {
+          "id": "c137",
+          "title": {
+            "la": "Tit. CXXXVII. Societatem vitae praesentis instabilem esse et separationem tristem."
+          }
+        },
+        {
+          "id": "c138",
+          "title": {
+            "la": "Tit. CXXXVIII. De laude compassionis."
+          }
+        },
+        {
+          "id": "c139",
+          "title": {
+            "la": "Tit. CXXXIX. Quare bestiae crucientur quae culpam non habent."
+          }
+        },
+        {
+          "id": "c140",
+          "title": {
+            "la": "Tit. CXL. Quomodo homo a Deo et se recessit et quomodo redit."
+          }
+        },
+        {
+          "id": "c141",
+          "title": {
+            "la": "Tit. CXLI. Quod homo se et sua male diligit."
+          }
+        },
+        {
+          "id": "c142",
+          "title": {
+            "la": "Tit. CXLII. De itinere trium dierum et trium noctium; et de accessu ad Deum et recessu ab eo."
+          }
+        },
+        {
+          "id": "c143",
+          "title": {
+            "la": "Tit. CXLIII. Quomodo Deus et cibus dicitur per cognitionem et potus per dilectionem."
+          }
+        },
+        {
+          "id": "c144",
+          "title": {
+            "la": "Tit. CXLIV. De trina refectione animae."
+          }
+        },
+        {
+          "id": "c145",
+          "title": {
+            "la": "Tit. CXLV. Quae Dei sunt incomparabilia esse"
+          }
+        },
+        {
+          "id": "c146",
+          "title": {
+            "la": "Tit. CXLVI. Quod et sua et aliena ordinat Deus."
+          }
+        },
+        {
+          "id": "c147",
+          "title": {
+            "la": "Tit. CXLVII. Quod septem modis suscepit Deus homines."
+          }
+        },
+        {
+          "id": "c148",
+          "title": {
+            "la": "Tit. CXLVIII. De exercitationibus et profectibus hominum."
+          }
+        },
+        {
+          "id": "c149",
+          "title": {
+            "la": "Tit. CXLIX. De triplici fructu lectionis."
+          }
+        },
+        {
+          "id": "c150",
+          "title": {
+            "la": "Tit. CL. De duplici fructu jejunii, laboris et orationis."
+          }
+        },
+        {
+          "id": "c151",
+          "title": {
+            "la": "Tit. CLI. Quare damnentur qui non peccaverunt."
+          }
+        },
+        {
+          "id": "c152",
+          "title": {
+            "la": "Tit. CLII. Quomodo sapientia vincit malitiam."
+          }
+        },
+        {
+          "id": "c153",
+          "title": {
+            "la": "Tit. CLIII. De dispensatione."
+          }
+        },
+        {
+          "id": "c154",
+          "title": {
+            "la": "Tit. CLIV. Quod Deus prius temporale esse dat, et postea aeternum."
+          }
+        },
+        {
+          "id": "c155",
+          "title": {
+            "la": "Tit. CLV. Quod Scriptura aliquando ostendit, et aliquando tribuit mores bonos et virtutem."
+          }
+        },
+        {
+          "id": "c156",
+          "title": {
+            "la": "Tit. CLVI. De duplici perfectione charitatis."
+          }
+        },
+        {
+          "id": "c157",
+          "title": {
+            "la": "Tit. CLVII. De terrore et blandimento Dei."
+          }
+        },
+        {
+          "id": "c158",
+          "title": {
+            "la": "Tit. CLVIII. Quid significet quod scriptum est: « Melior est iniquitas viri quam mulier, etc »"
+          }
+        },
+        {
+          "id": "c159",
+          "title": {
+            "la": "Tit. CLIX. De Filii Dei generatione aeterna."
+          }
+        },
+        {
+          "id": "c160",
+          "title": {
+            "la": "Tit. CLX. De tribus quae sunt in sermone Dei."
+          }
+        },
+        {
+          "id": "c161",
+          "title": {
+            "la": "Tit. CLXI. De duplici cibo et potu Scripturarum."
+          }
+        },
+        {
+          "id": "c162",
+          "title": {
+            "la": "Tit. CLXII. De duplici sensu animae, de intelligentia et sapientia."
+          }
+        },
+        {
+          "id": "c163",
+          "title": {
+            "la": "Tit. CLXIII. De duplici permissione et prohibitione divina."
+          }
+        },
+        {
+          "id": "c164",
+          "title": {
+            "la": "Tit. CLXIV. Quod Deus tribus modis cor emollit."
+          }
+        },
+        {
+          "id": "c165",
+          "title": {
+            "la": "Tit. CLXV. De libertate et servitute charitatis."
+          }
+        },
+        {
+          "id": "c166",
+          "title": {
+            "la": "Tit. CLXVI. De illo Pauli: « Per quem mihi mundus crucifixus est, et ego mundo. »"
+          }
+        },
+        {
+          "id": "c167",
+          "title": {
+            "la": "Tit. CLXVII. De essentia et forma animae."
+          }
+        },
+        {
+          "id": "c168",
+          "title": {
+            "la": "Tit. CLXVIII. De triplici acceptione naturae."
+          }
+        },
+        {
+          "id": "c169",
+          "title": {
+            "la": "Tit. CLXIX. Quod Pater non judicat quemquam, sed omne judicium dedit Filio."
+          }
+        },
+        {
+          "id": "c170",
+          "title": {
+            "la": "Tit. CLXX. De eo quod scriptum est: « Dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. »"
+          }
+        },
+        {
+          "id": "c171",
+          "title": {
+            "la": "Tit. CLXXI. Quod amor Dei sit vita cordis."
+          }
+        },
+        {
+          "id": "c172",
+          "title": {
+            "la": "Tit. CLXXII. Duobus modis humilitatem impugnari."
+          }
+        },
+        {
+          "id": "c173",
+          "title": {
+            "la": "Tit. CLXXIII. De naturis ignis et speciebus."
+          }
+        },
+        {
+          "id": "c174",
+          "title": {
+            "la": "Tit. CLXXIV. De ratione et sensualitate animae."
+          }
+        },
+        {
+          "id": "c175",
+          "title": {
+            "la": "Tit. CLXXV. Descriptiones temporis et liberi arbitrii."
+          }
+        },
+        {
+          "id": "c176",
+          "title": {
+            "la": "Tit. CLXXVI. Quod is solus laudabiliter in alio peccatum ulciscitur qui ad consensum peccati non inclinatur."
+          }
+        },
+        {
+          "id": "c177",
+          "title": {
+            "la": "Tit. CLXXVII. Mystica descriptio naturae cervae."
+          }
+        },
+        {
+          "id": "c178",
+          "title": {
+            "la": "Tit. CLXXVIII. De quadruptici sanorum et aegretorum differentia."
+          }
+        },
+        {
+          "id": "c179",
+          "title": {
+            "la": "Tit. CLXXIX. De eo quod scriptum est: « Sequuntur Agnum quocunque ierit. »"
+          }
+        },
+        {
+          "id": "c180",
+          "title": {
+            "la": "Tit. CLXXX. De triplici compassione."
+          }
+        },
+        {
+          "id": "c181",
+          "title": {
+            "la": "Tit. CLXXXI. Mysterium de numero procedentium ad pugnam cum Gedeone."
+          }
+        },
+        {
+          "id": "c182",
+          "title": {
+            "la": "Tit. CLXXXII. Quid est quod quieverit terra quadraginta annis post peccatum Gedeonis."
+          }
+        },
+        {
+          "id": "c183",
+          "title": {
+            "la": "Tit. CLXXXIII. Quid propter praescientiam et praedestinationem Dei clamant quotidie perversi."
+          }
+        },
+        {
+          "id": "c184",
+          "title": {
+            "la": "Tit. CLXXXIV. De sapientia Dei et hominis, et quod sit duplex, superior et inferior."
+          }
+        },
+        {
+          "id": "c185",
+          "title": {
+            "la": "Tit. CLXXXV. De obedientia, quibus sit praestanda."
+          }
+        },
+        {
+          "id": "c186",
+          "title": {
+            "la": "Tit. CLXXXVI. De bono summo et non summo, et de multiplici malo, peccato et delicto."
+          }
+        },
+        {
+          "id": "c187",
+          "title": {
+            "la": "Tit. CLXXXVII. De duobus denariis."
+          }
+        },
+        {
+          "id": "c188",
+          "title": {
+            "la": "Tit. CLXXXVIII. De eo qui malum vel bonum male facit, et postea poenitentiam agit."
+          }
+        },
+        {
+          "id": "c189",
+          "title": {
+            "la": "Tit. CLXXXIX. De naturae hominis comprobatione."
+          }
+        },
+        {
+          "id": "c190",
+          "title": {
+            "la": "Tit. CXC. De egressu et regressu Sapientiae."
+          }
+        },
+        {
+          "id": "c191",
+          "title": {
+            "la": "Tit. CXCI. Cur Deus dictus Pater luminum."
+          }
+        },
+        {
+          "id": "c192",
+          "title": {
+            "la": "Tit. CXCII. Quomodo Sapientia parturiebatur."
+          }
+        },
+        {
+          "id": "c193",
+          "title": {
+            "la": "Tit. CXCIII. De quatuor timoribus."
+          }
+        },
+        {
+          "id": "c194",
+          "title": {
+            "la": "Tit. CXCIV. De tribus generibus hominum circa conflictum cum vitiis"
+          }
+        },
+        {
+          "id": "c195",
+          "title": {
+            "la": "Tit. CXCV. De tribus tyrannis."
+          }
+        },
+        {
+          "id": "c196",
+          "title": {
+            "la": "Tit. CCXVI. De corde et delectatione, et cogitationibus."
+          }
+        },
+        {
+          "id": "c197",
+          "title": {
+            "la": "Tit. CXCVII. De sapientia Dei et mundi."
+          }
+        },
+        {
+          "id": "c198",
+          "title": {
+            "la": "Tit. CXCVIII. De trina refectione animae."
+          }
+        },
+        {
+          "id": "c199",
+          "title": {
+            "la": "Tit. CXCIX. De contemptu mundi inducendo."
+          }
+        },
+        {
+          "id": "c200",
+          "title": {
+            "la": "Tit. CC. De solutione quatuor quaestionum per Ranulphum de Mauriaco propositarum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus. Adnotationes elucidatoriae in quosdam psalmos david"
+      },
+      "children": [
+        {
+          "id": "c201",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c202",
+          "title": {
+            "la": "Caput I. De fabrica cathedrae pestilentiae, et quae eam concernunt."
+          }
+        },
+        {
+          "id": "c203",
+          "title": {
+            "la": "Caput II. De habentibus legem in corde, non cor in lege."
+          }
+        },
+        {
+          "id": "c204",
+          "title": {
+            "la": "Caput III. De quatuor generibus hominum judicio Dei obnoxiorum."
+          }
+        },
+        {
+          "id": "c205",
+          "title": {
+            "la": "Caput IV. De aeterna Christi generatione."
+          }
+        },
+        {
+          "id": "c206",
+          "title": {
+            "la": "Caput V. Quod ex natura homo ad imaginem Dei creatus sit: Ex sola autem gratia in Domino laetari possit."
+          }
+        },
+        {
+          "id": "c207",
+          "title": {
+            "la": "Caput VI. Quod duobus modis Deus hominem perdit."
+          }
+        },
+        {
+          "id": "c208",
+          "title": {
+            "la": "Caput VII. Quod hic expelli debet peccatum per confessionem; ne in judicium compellatur ad confusionem."
+          }
+        },
+        {
+          "id": "c209",
+          "title": {
+            "la": "Caput VIII. De causa litis inter Deum hominem et diabolum."
+          }
+        },
+        {
+          "id": "c210",
+          "title": {
+            "la": "Caput IX. Quomodo Deus dextrum, et sinistrum oculos habere dicatur."
+          }
+        },
+        {
+          "id": "c211",
+          "title": {
+            "la": "Caput X. Quod locutio sit in voce et opere; et quis vanitatem in corde habeat, quis loquatur; et quis loquatur eam ad proximum."
+          }
+        },
+        {
+          "id": "c212",
+          "title": {
+            "la": "Caput XI. Qui sint timorem Dei habentes, et Christo credentes et quomodo via pacis Christus cognoscatur."
+          }
+        },
+        {
+          "id": "c213",
+          "title": {
+            "la": "Caput XII. Quid Deus homo factus invenerit in mundo quod suum esset; et quid, quod diaboli; et quomodo uterque pro suo jure certaverit."
+          }
+        },
+        {
+          "id": "c214",
+          "title": {
+            "la": "Caput XIII. Quid sit providere Dominum in conspectu suo semper."
+          }
+        },
+        {
+          "id": "c215",
+          "title": {
+            "la": "Caput XIV. Quibus et quando Dominus et diabolus a dextris et a sinistris sint."
+          }
+        },
+        {
+          "id": "c216",
+          "title": {
+            "la": "Caput XV. Laetitia impleri ubi detur."
+          }
+        },
+        {
+          "id": "c217",
+          "title": {
+            "la": "Caput XVI. Dextera et sinistra Dei quae sint, et ubi delectatio usque in finem."
+          }
+        },
+        {
+          "id": "c218",
+          "title": {
+            "la": "Caput XVII. De tribus orantium generibus."
+          }
+        },
+        {
+          "id": "c219",
+          "title": {
+            "la": "Caput XVIII. De examine bonorum et malorum, sed non mediocrium."
+          }
+        },
+        {
+          "id": "c220",
+          "title": {
+            "la": "Caput XIX. De viis duris hujus vitae, et qui eas custodiunt propter verba labiorum Dei."
+          }
+        },
+        {
+          "id": "c221",
+          "title": {
+            "la": "Caput XX. De viis, et semitis Dei."
+          }
+        },
+        {
+          "id": "c222",
+          "title": {
+            "la": "Caput XXI. Dextera Dei, quae sit et qui ei resistant: Et quomodo ab eis custodiri cupiat justus."
+          }
+        },
+        {
+          "id": "c223",
+          "title": {
+            "la": "Caput XXII. Quae sint alae Dei, sub quibus protegamur."
+          }
+        },
+        {
+          "id": "c224",
+          "title": {
+            "la": "Caput XXIII. Faciem et latus currenti opponere, quid sit."
+          }
+        },
+        {
+          "id": "c225",
+          "title": {
+            "la": "Caput XXIV. Praevenire, et supplantare quid sint."
+          }
+        },
+        {
+          "id": "c226",
+          "title": {
+            "la": "Caput XXV. Quod framea sit Christi anima; quae partem ab inferno abscidit."
+          }
+        },
+        {
+          "id": "c227",
+          "title": {
+            "la": "Caput XXVI. Quomodo Deus noster est liberator noster, refugium nostrum, firmamentum, fortitudo, Deus, adjutor, spes, protector, cornu salutis, susceptor, etc."
+          }
+        },
+        {
+          "id": "c228",
+          "title": {
+            "la": "Caput XXVII. Dolores, et laquei mortis, et inferni, et torrentes iniquitatis, qui sint."
+          }
+        },
+        {
+          "id": "c229",
+          "title": {
+            "la": "Caput XXVIII. Salus humana et divina quomodo homini impertiatur."
+          }
+        },
+        {
+          "id": "c230",
+          "title": {
+            "la": "Caput XXIX. Dextera et sinistra Dei quos suscipiat."
+          }
+        },
+        {
+          "id": "c231",
+          "title": {
+            "la": "Caput XXX. De fine bono et malo, et de disciplina Domini in finem corrigente."
+          }
+        },
+        {
+          "id": "c232",
+          "title": {
+            "la": "Caput XXXI. Quid subtus, et quid supra nos; et cujus vestigia non infirmentur."
+          }
+        },
+        {
+          "id": "c233",
+          "title": {
+            "la": "Caput XXXII. Quid sint inimici spirituales, et quomodo eos persequamur."
+          }
+        },
+        {
+          "id": "c234",
+          "title": {
+            "la": "Caput XXXIII. De timore servili et custodia legis divinae et delectatione vana. De terra, firmamento, oculo, et necessitate variis, deque humilitate."
+          }
+        },
+        {
+          "id": "c235",
+          "title": {
+            "la": "Caput XXXIV. Misericordiam et veritatem Dei poenitentibus esse necessariam."
+          }
+        },
+        {
+          "id": "c236",
+          "title": {
+            "la": "Caput XXXV. De agnitione, et dilectione veritatis."
+          }
+        },
+        {
+          "id": "c237",
+          "title": {
+            "la": "Caput XXXVI. De tabernaculo Dei."
+          }
+        },
+        {
+          "id": "c238",
+          "title": {
+            "la": "Caput XXXVII. Deum fortitudinem, et refugium esse pugnantium."
+          }
+        },
+        {
+          "id": "c239",
+          "title": {
+            "la": "Caput XXXVIII. De vanitate rerum temporalium."
+          }
+        },
+        {
+          "id": "c240",
+          "title": {
+            "la": "Caput XXXIX. Reprobatio luxuriae, avaritiae, et superbiae."
+          }
+        },
+        {
+          "id": "c241",
+          "title": {
+            "la": "Caput XL. Occultos justorum inimicos in judicium re servari, manifestos in hac vita etiam aliquando puniri."
+          }
+        },
+        {
+          "id": "c242",
+          "title": {
+            "la": "Caput XLI. De armis sapientiae et scuto patientiae."
+          }
+        },
+        {
+          "id": "c243",
+          "title": {
+            "la": "Caput XLII. De manifestis et occultis diaboli insidiis."
+          }
+        },
+        {
+          "id": "c244",
+          "title": {
+            "la": "Caput XLIII. Quod temporalis malorum prosperitas, electis testimonium est aeternae felicitatis."
+          }
+        },
+        {
+          "id": "c245",
+          "title": {
+            "la": "Caput XLIV. Quod occulta est interim bonorum justitia donec educatur judicanda de praemio."
+          }
+        },
+        {
+          "id": "c246",
+          "title": {
+            "la": "Caput XLV. De utili subjectione erga Deum, et ipsius recta exspectatione."
+          }
+        },
+        {
+          "id": "c247",
+          "title": {
+            "la": "Caput XLVI. De quatuor hominum generibus, quantum ad vulnera, et cicatrices; de vera sapientia, et praeteritorum memoria"
+          }
+        },
+        {
+          "id": "c248",
+          "title": {
+            "la": "Caput XVII. De duplici hominum vanitate."
+          }
+        },
+        {
+          "id": "c249",
+          "title": {
+            "la": "Caput XLVIII. Quia dies hominis brevis, mala, et incerta est, quid dicendum Deo."
+          }
+        },
+        {
+          "id": "c250",
+          "title": {
+            "la": "Caput XLIX. De mirabilium Dei multitudine et profunditate."
+          }
+        },
+        {
+          "id": "c251",
+          "title": {
+            "la": "Caput L. De curiosi et suspiciosi malo."
+          }
+        },
+        {
+          "id": "c252",
+          "title": {
+            "la": "Caput LI. Quod fontium nomine summum bonum significetur; idque maxime sit desiderabile, et quae toto psalmo tractentur."
+          }
+        },
+        {
+          "id": "c253",
+          "title": {
+            "la": "Caput LII. De judicio secundum causam, et secundum retributionem. De luce, et veritate Dei; de monte, et tabernaculo; et de laetificatione juventae nostrae."
+          }
+        },
+        {
+          "id": "c254",
+          "title": {
+            "la": "Caput LIII. Quas semitas declinaverit Dominus."
+          }
+        },
+        {
+          "id": "c255",
+          "title": {
+            "la": "Caput LIV. De pulvere cogitationum, et terra desideriorum inutilium."
+          }
+        },
+        {
+          "id": "c256",
+          "title": {
+            "la": "Caput LV. De forma, gratia, et benedictione a Deo, ad hoc, et propter hoc, etc."
+          }
+        },
+        {
+          "id": "c257",
+          "title": {
+            "la": "Caput LVI. Quomodo Deus mentem beatam sibi per pacem, et amorem conjunctam adjuvet, et quando?"
+          }
+        },
+        {
+          "id": "c258",
+          "title": {
+            "la": "Caput LVII. Quae sint opera Domini nobis videnda et prodigia quae posuit super terram."
+          }
+        },
+        {
+          "id": "c259",
+          "title": {
+            "la": "Caput LVIII. Qualiter orandum sit pro remissione peccatorum a Deo obtinenda, ad imitationem David."
+          }
+        },
+        {
+          "id": "c260",
+          "title": {
+            "la": "Caput LIX. Quod Deus in sanctis, id est intus plus quam foris mirabilis est."
+          }
+        },
+        {
+          "id": "c261",
+          "title": {
+            "la": "Caput LX. Quod adhaerere Deo, et ponere spem in eo semper bonum sit."
+          }
+        },
+        {
+          "id": "c262",
+          "title": {
+            "la": "Caput LXI. De tribus malis, quibus homo affligitur, et quatuor bonis quibus consolatur."
+          }
+        },
+        {
+          "id": "c263",
+          "title": {
+            "la": "Caput LXII. De quadruplici pace quam diversis loquitur Dominus."
+          }
+        },
+        {
+          "id": "c264",
+          "title": {
+            "la": "Caput LXIII. Misericordia, et veritas, qua disceptatione sibi mutuo obviam venerint, et justitia, et pax se osculatae sint."
+          }
+        },
+        {
+          "id": "c265",
+          "title": {
+            "la": "Caput LXIV. De confessione duplici, et quod Dominus mitis est et suavis."
+          }
+        },
+        {
+          "id": "c266",
+          "title": {
+            "la": "Caput LXV. De spirituali cithara."
+          }
+        },
+        {
+          "id": "c267",
+          "title": {
+            "la": "Caput LXVI. De fide operatione, et retributione bonorum."
+          }
+        },
+        {
+          "id": "c268",
+          "title": {
+            "la": "Caput LXVII. De duabus scholis virtutis et veritatis, et duplici genere discentium; et quod omnes cupiant esse beati, et pauci studeant esse immaculati."
+          }
+        },
+        {
+          "id": "c269",
+          "title": {
+            "la": "Caput LXVIII. De nominibus praeceptorum Dei, contentis psalmo CXVIII, et de causis eorumdem."
+          }
+        },
+        {
+          "id": "c270",
+          "title": {
+            "la": "Caput LXIX. De tribus viis."
+          }
+        },
+        {
+          "id": "c271",
+          "title": {
+            "la": "Caput LXX. Qui sint in lege Domini ambulantes, qui stantes, et qui ab ea declinantes."
+          }
+        },
+        {
+          "id": "c272",
+          "title": {
+            "la": "Caput LXXI. De directione cordis humani."
+          }
+        },
+        {
+          "id": "c273",
+          "title": {
+            "la": "Caput LXXII. Qui Deum ex toto corde exquirant et quid sit Deum exquirere et quomodo sit exquirendus. Et quomodo quis repellatur a mandatis Dei."
+          }
+        },
+        {
+          "id": "c274",
+          "title": {
+            "la": "Caput LXXIII. Abscondenda quomodo sint eloquia Domini."
+          }
+        },
+        {
+          "id": "c275",
+          "title": {
+            "la": "Caput LXXIV. Quod justificationes fiant propter opera."
+          }
+        },
+        {
+          "id": "c276",
+          "title": {
+            "la": "Caput LXXV. Loquendi quae sint impedimenta et quae judicia cordis et oris. Item de quatuor quibus judicia fiunt."
+          }
+        },
+        {
+          "id": "c277",
+          "title": {
+            "la": "Caput LXXVI. Quis in mandatis Dei exerceatur."
+          }
+        },
+        {
+          "id": "c278",
+          "title": {
+            "la": "Caput LXXVII. De multiplici via Dei, et qui eam considerent."
+          }
+        },
+        {
+          "id": "c279",
+          "title": {
+            "la": "Caput LXXVIII. Quomodo dulcia dicat eloquia Domini faucibus suis, utrum ea manducando, et si sic cibus sunt, qualis ergo cibus."
+          }
+        },
+        {
+          "id": "c280",
+          "title": {
+            "la": "Caput LXXIX. Quomodo Christus sit nobis lucerna."
+          }
+        },
+        {
+          "id": "c281",
+          "title": {
+            "la": "Caput LXXX. Oculi bonorum quomodo sint ad Dominum, etc."
+          }
+        },
+        {
+          "id": "c282",
+          "title": {
+            "la": "Caput LXXXI. Bonum, et jucundum simul quod sit."
+          }
+        },
+        {
+          "id": "c283",
+          "title": {
+            "la": "Caput LXXXII. Quare Dominus judicium suum in finem servavit."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius. Adnotationes in scripturam, sermones, sermonum fragmenta, etc"
+      },
+      "children": [
+        {
+          "id": "c284",
+          "title": {
+            "la": "Tit. I. De consequentibus sacramentum baptismatis."
+          }
+        },
+        {
+          "id": "c285",
+          "title": {
+            "la": "Tit. II. De totius mali circumcisione, et de triplici cibo Israelitis dato."
+          }
+        },
+        {
+          "id": "c286",
+          "title": {
+            "la": "Tit. III. De tubis sacrae Scripturae, et quod ejus attenta lectio mundi pariat contemptum."
+          }
+        },
+        {
+          "id": "c287",
+          "title": {
+            "la": "Tit. IV. De altari ex lapidibus constructo et Deuteronomio in eis scripto."
+          }
+        },
+        {
+          "id": "c288",
+          "title": {
+            "la": "Tit. V. De Chananaei triplici statu."
+          }
+        },
+        {
+          "id": "c289",
+          "title": {
+            "la": "Tit. VI. Judicem Ecclesiae non semper gladio, id est austeritate, sed interdum parte aratri, id est lenitate, in subditos uti docere."
+          }
+        },
+        {
+          "id": "c290",
+          "title": {
+            "la": "Tit. VII. De Madianitarum expugnatione et de vellere Gedeonis et rore ejus, etc."
+          }
+        },
+        {
+          "id": "c291",
+          "title": {
+            "la": "Tit. VIII. De trecentis qui bibentes aquam fluvialem non curvaverunt genua."
+          }
+        },
+        {
+          "id": "c292",
+          "title": {
+            "la": "Tit. IX. De septemplici lepra superbiae humanae."
+          }
+        },
+        {
+          "id": "c293",
+          "title": {
+            "la": "Tit. X. De septemplici humilitate Christi."
+          }
+        },
+        {
+          "id": "c294",
+          "title": {
+            "la": "Tit. XI. De aegrotatione Ezechiae regis et ejus curatione morali."
+          }
+        },
+        {
+          "id": "c295",
+          "title": {
+            "la": "Tit. XII. De missione ad Sehon, id est diabolum, et qui sint filii ejus, et quae sit via regia per quam nobis transeundum est."
+          }
+        },
+        {
+          "id": "c296",
+          "title": {
+            "la": "Tit. XIII. De quadruplici lucta et supplantatione Jacob."
+          }
+        },
+        {
+          "id": "c297",
+          "title": {
+            "la": "Tit. XIV. De altari aeneo et oblatis super ipsum."
+          }
+        },
+        {
+          "id": "c298",
+          "title": {
+            "la": "Tit. XV. Quod sacerdotum Domini pars sit Dominus; sacerdotum Pharaonis, terrena possessio."
+          }
+        },
+        {
+          "id": "c299",
+          "title": {
+            "la": "Tit. XVI. De veste non mutanda, et moribus non simulandis per hypocrisim."
+          }
+        },
+        {
+          "id": "c300",
+          "title": {
+            "la": "Tit. XVII. Testimonia tria sanctorum in confirmationem fidei Christianae."
+          }
+        },
+        {
+          "id": "c301",
+          "title": {
+            "la": "Tit. XVIII. De duplici circumcisione necessaria iis qui canticum novum Domino cantare volunt."
+          }
+        },
+        {
+          "id": "c302",
+          "title": {
+            "la": "Tit. XIX. De Ziphaeis David Sauli prodere conantibus, sicut electos morti conatur diabolus."
+          }
+        },
+        {
+          "id": "c303",
+          "title": {
+            "la": "Tit. XX. De obsidione et expugnatione quadruplici Jerusalem moraliter."
+          }
+        },
+        {
+          "id": "c304",
+          "title": {
+            "la": "Tit. XXI. De perfecta civitate et ei necessariis."
+          }
+        },
+        {
+          "id": "c305",
+          "title": {
+            "la": "Tit. XXII. De multiplici visione."
+          }
+        },
+        {
+          "id": "c306",
+          "title": {
+            "la": "Tit. XXIII. De tribus hostibus, et de tribus apud Salomonem difficilibus."
+          }
+        },
+        {
+          "id": "c307",
+          "title": {
+            "la": "Tit. XXIV. De septem sceleribus seu peccatis."
+          }
+        },
+        {
+          "id": "c308",
+          "title": {
+            "la": "Tit. XXV. Unus quis dicendus et quis plures."
+          }
+        },
+        {
+          "id": "c309",
+          "title": {
+            "la": "Tit. XXVI. De quatuor hominum ordinibus, et de triplici mundi loco."
+          }
+        },
+        {
+          "id": "c310",
+          "title": {
+            "la": "Tit. XXVII. De tribus contemplativorum ordinibus, et de triplici terra scalae Jacob."
+          }
+        },
+        {
+          "id": "c311",
+          "title": {
+            "la": "Tit. XXVIII. De sacerdotibus et praelatis, et triplici eorum officio."
+          }
+        },
+        {
+          "id": "c312",
+          "title": {
+            "la": "Tit. XXIX. De iis quae traxerunt Christum ad nos et de nostra duritia."
+          }
+        },
+        {
+          "id": "c313",
+          "title": {
+            "la": "Tit. XXX. De tribus sanctis, Deo, homine et loco, et de triplici sanctificatione."
+          }
+        },
+        {
+          "id": "c314",
+          "title": {
+            "la": "Tit. XXXI. De triplici labore et tribus laborantibus et tribus crucibus, mortibus, sepulcris."
+          }
+        },
+        {
+          "id": "c315",
+          "title": {
+            "la": "Tit. XXXII. De triplici confessione, tribus nominibus Jerusalem, et tribus diebus vivificationis."
+          }
+        },
+        {
+          "id": "c316",
+          "title": {
+            "la": "Tit. XXXIII. De quadripartita locutione Dei, et responsione facienda ad eam."
+          }
+        },
+        {
+          "id": "c317",
+          "title": {
+            "la": "Tit. XXXIV. De tribus linguis hominum."
+          }
+        },
+        {
+          "id": "c318",
+          "title": {
+            "la": "Tit. XXXV. De triplici adventu Domini."
+          }
+        },
+        {
+          "id": "c319",
+          "title": {
+            "la": "Tit. XXXVI. De virga et flore moraliter."
+          }
+        },
+        {
+          "id": "c320",
+          "title": {
+            "la": "Tit. XXXVII. De pastoribus et eorum officio."
+          }
+        },
+        {
+          "id": "c321",
+          "title": {
+            "la": "Tit. XXXVIII. De duobus capreae hinnulis, tribus umbris, et variis diebus."
+          }
+        },
+        {
+          "id": "c322",
+          "title": {
+            "la": "Tit. XXXIX. De auro, thure et myrrha."
+          }
+        },
+        {
+          "id": "c323",
+          "title": {
+            "la": "Tit. XL. De meditanda morte, dum adhuc fortes videmur, et de bene agendo."
+          }
+        },
+        {
+          "id": "c324",
+          "title": {
+            "la": "Tit. XLI. De triplici apertione cordis, sextuplici mandato, et triplici bello ac pace."
+          }
+        },
+        {
+          "id": "c325",
+          "title": {
+            "la": "Tit. XLII. De benignitate et severitate Dei erga peccatorem."
+          }
+        },
+        {
+          "id": "c326",
+          "title": {
+            "la": "Tit. XLIII. De tribus bonis hominis, et tribus flagellis Dei, et de causis eorum."
+          }
+        },
+        {
+          "id": "c327",
+          "title": {
+            "la": "Tit. XLIV. De signaculo Dei nobis impresso."
+          }
+        },
+        {
+          "id": "c328",
+          "title": {
+            "la": "Tit. XLV. De septem rivis peccatorum exeuntibus a primis parentibus."
+          }
+        },
+        {
+          "id": "c329",
+          "title": {
+            "la": "Tit. XLVI. De concordi religiosorum cohabitatione quam sit diabolo formidolosa."
+          }
+        },
+        {
+          "id": "c330",
+          "title": {
+            "la": "Tit. XLVII. De quadruplici languore unde nos liberavit Christi adventus."
+          }
+        },
+        {
+          "id": "c331",
+          "title": {
+            "la": "Tit. XLVIII. De quadruplici statu hominis."
+          }
+        },
+        {
+          "id": "c332",
+          "title": {
+            "la": "Tit. XLIX. De tribus mansionibus Aegypti."
+          }
+        },
+        {
+          "id": "c333",
+          "title": {
+            "la": "Tit. L. De triplici locutione Dei."
+          }
+        },
+        {
+          "id": "c334",
+          "title": {
+            "la": "Tit. LI. De ascensionis cordis ad Deum gradibus."
+          }
+        },
+        {
+          "id": "c335",
+          "title": {
+            "la": "Tit. LII. Sabbata quae derideantur."
+          }
+        },
+        {
+          "id": "c336",
+          "title": {
+            "la": "Tit. LIII. Quid sit: « Pones eos ut clibanum ignis. »"
+          }
+        },
+        {
+          "id": "c337",
+          "title": {
+            "la": "Tit. LIV. De nominis Jerusalem interpretatione secundum quadruplicem sensum."
+          }
+        },
+        {
+          "id": "c338",
+          "title": {
+            "la": "Tit. LV. De nominibus filiarum Dei et diaboli: Et egressu earum ad regem suum."
+          }
+        },
+        {
+          "id": "c339",
+          "title": {
+            "la": "Tit. LVI. De expositione sacrae Scripturae."
+          }
+        },
+        {
+          "id": "c340",
+          "title": {
+            "la": "Tit. LVII. Primogenita diversis modis esse Dei et sacerdotum."
+          }
+        },
+        {
+          "id": "c341",
+          "title": {
+            "la": "Tit. LVIII. De Levitarum purificatione et officiis in typum cleri Christiani."
+          }
+        },
+        {
+          "id": "c342",
+          "title": {
+            "la": "Tit. LIX. De bove et asino, id est stolido et rustico cum ceciderint sublevandis."
+          }
+        },
+        {
+          "id": "c343",
+          "title": {
+            "la": "Tit. LX. De diligentibus et timentibus Deum, et de confitentibus Deo."
+          }
+        },
+        {
+          "id": "c344",
+          "title": {
+            "la": "Tit. LXI. De triplici cella in quam introducimur."
+          }
+        },
+        {
+          "id": "c345",
+          "title": {
+            "la": "Tit. LXII. Rursus de interpretatione Jerusalem."
+          }
+        },
+        {
+          "id": "c346",
+          "title": {
+            "la": "Tit. LXIII. De custodia viae hominis in locutione, et de non divulgandis mysteriis."
+          }
+        },
+        {
+          "id": "c347",
+          "title": {
+            "la": "Tit. LXIV. Butyrum et mel comedet, etc."
+          }
+        },
+        {
+          "id": "c348",
+          "title": {
+            "la": "Tit. LXV. De quinque civitatibus Aegypti loquentibus lingua Chananaea."
+          }
+        },
+        {
+          "id": "c349",
+          "title": {
+            "la": "Tit. LXVI. Quomodo loquatur Deus ad cor hominis."
+          }
+        },
+        {
+          "id": "c350",
+          "title": {
+            "la": "Tit. LXVII. De novissimis et antiquis ad verbi incarnationem applicatis."
+          }
+        },
+        {
+          "id": "c351",
+          "title": {
+            "la": "Tit. LXVIII. De dimidiantibus dies suos et non dimidiantibus, et de loco mortis eorum."
+          }
+        },
+        {
+          "id": "c352",
+          "title": {
+            "la": "Tit. LXIX. De duabus tubis argenteis et earum usu ad Petrum et Paulum applicatis."
+          }
+        },
+        {
+          "id": "c353",
+          "title": {
+            "la": "Tit. LXX. De duplici labore, saeculi scilicet et Dei, et utroque triplici."
+          }
+        },
+        {
+          "id": "c354",
+          "title": {
+            "la": "Tit. LXXI. De fine qui consumit et consummat. Et de mandato quod est latum nimis."
+          }
+        },
+        {
+          "id": "c355",
+          "title": {
+            "la": "Tit. LXXII. De triplici statu in corpore quam habet anima diligens Deum."
+          }
+        },
+        {
+          "id": "c356",
+          "title": {
+            "la": "Tit. LXXIII. De triplici benedictione, duplici manu, et utriusque digitis, et de obedientia triplici."
+          }
+        },
+        {
+          "id": "c357",
+          "title": {
+            "la": "Tit. LXXIV. De praemiis arefactae et mortificatae carnis per religiosam obedientiam."
+          }
+        },
+        {
+          "id": "c358",
+          "title": {
+            "la": "Tit. LXXV. Quomodo Deus exaltetur in nobis, et de altitudine cordis nostri."
+          }
+        },
+        {
+          "id": "c359",
+          "title": {
+            "la": "Tit. LXXVI. De triplici disciplina."
+          }
+        },
+        {
+          "id": "c360",
+          "title": {
+            "la": "Tit. LXXVII. De quatuor agonibus Christianorum."
+          }
+        },
+        {
+          "id": "c361",
+          "title": {
+            "la": "Tit. LXXVIII. De ira, facie et praesentia Dei; de fumo, flamma et carbonibus."
+          }
+        },
+        {
+          "id": "c362",
+          "title": {
+            "la": "Tit. LXXIX. De triplici loco Dei."
+          }
+        },
+        {
+          "id": "c363",
+          "title": {
+            "la": "Tit. LXXX. De fonte patente et occulto, Christo scilicet Domino nostro."
+          }
+        },
+        {
+          "id": "c364",
+          "title": {
+            "la": "Tit. LXXXI. De humiliatione triplici."
+          }
+        },
+        {
+          "id": "c365",
+          "title": {
+            "la": "Tit. LXXXII. De turpi mutatione hominis."
+          }
+        },
+        {
+          "id": "c366",
+          "title": {
+            "la": "Tit. LXXXIII. De claustri agro, in quo sunt uvae, rosae, lilia, violae et olivae."
+          }
+        },
+        {
+          "id": "c367",
+          "title": {
+            "la": "Tit. LXXXIV. De virore calami et junci."
+          }
+        },
+        {
+          "id": "c368",
+          "title": {
+            "la": "Tit. LXXXV. Quod dulcedo hominis vermes sint."
+          }
+        },
+        {
+          "id": "c369",
+          "title": {
+            "la": "Tit. LXXXVI. Oleum de capite non deficere."
+          }
+        },
+        {
+          "id": "c370",
+          "title": {
+            "la": "Tit. LXXXVII. Ut speciem suam visitet quisque."
+          }
+        },
+        {
+          "id": "c371",
+          "title": {
+            "la": "Tit. LXXXVIII. Quid sit sacerdotes caput non radere, nec tamen comam nutrire."
+          }
+        },
+        {
+          "id": "c372",
+          "title": {
+            "la": "Tit. LXXXIX. De sacculo pertuso et integro."
+          }
+        },
+        {
+          "id": "c373",
+          "title": {
+            "la": "Tit. XC. Oculi sapientis in capite ejus."
+          }
+        },
+        {
+          "id": "c374",
+          "title": {
+            "la": "Tit. XCI. De abscondente frumenta."
+          }
+        },
+        {
+          "id": "c375",
+          "title": {
+            "la": "Tit. XCII. De proximi vitiis perimendis."
+          }
+        },
+        {
+          "id": "c376",
+          "title": {
+            "la": "Tit. XCIII. De adulatione perniciosa."
+          }
+        },
+        {
+          "id": "c377",
+          "title": {
+            "la": "Tit. XCIV. De divitiarum contemptu."
+          }
+        },
+        {
+          "id": "c378",
+          "title": {
+            "la": "Tit. XCV. Quod justus ut palma floreat."
+          }
+        },
+        {
+          "id": "c379",
+          "title": {
+            "la": "Tit. XCVI. De triplici habitatione Dei."
+          }
+        },
+        {
+          "id": "c380",
+          "title": {
+            "la": "Tit. XCVII. De igni in altari semper ardente."
+          }
+        },
+        {
+          "id": "c381",
+          "title": {
+            "la": "Tit. XCVIII. De pane subcinericio."
+          }
+        },
+        {
+          "id": "c382",
+          "title": {
+            "la": "Tit. XCIX. De sententiae supremi judicii ad parturientem comparatione."
+          }
+        },
+        {
+          "id": "c383",
+          "title": {
+            "la": "Tit. C. Descendere in infernum cum armis."
+          }
+        },
+        {
+          "id": "c384",
+          "title": {
+            "la": "Tit. CI. Ferro poenam duram, sed transitoriam, aere signari aeternam."
+          }
+        },
+        {
+          "id": "c385",
+          "title": {
+            "la": "Tit. CII. Necessaria hujus vitae non esse abominanda."
+          }
+        },
+        {
+          "id": "c386",
+          "title": {
+            "la": "Tit. CIII. Una trutina nos et proximos metiamur."
+          }
+        },
+        {
+          "id": "c387",
+          "title": {
+            "la": "Tit. CIV. Disputare a cedro ad hyssopum."
+          }
+        },
+        {
+          "id": "c388",
+          "title": {
+            "la": "Tit. CV. De absconsione Eliae in Carith."
+          }
+        },
+        {
+          "id": "c389",
+          "title": {
+            "la": "Tit. CVI. De spiritu triplici quem ab Elia petiit Eliseus, et de largitate Christi."
+          }
+        },
+        {
+          "id": "c390",
+          "title": {
+            "la": "Tit. CVII. Quid sit a canibus et avibus comedi."
+          }
+        },
+        {
+          "id": "c391",
+          "title": {
+            "la": "Tit. CVIII. De filio viduae ab Eliseo suscitato."
+          }
+        },
+        {
+          "id": "c392",
+          "title": {
+            "la": "Tit. CIX. De mysterio altaris ab Elia constructi et actorum ab eo circa ipsum."
+          }
+        },
+        {
+          "id": "c393",
+          "title": {
+            "la": "Tit. CX. De incarnatione Verbi figurata per vas novum in quod Eliseus salem misit."
+          }
+        },
+        {
+          "id": "c394",
+          "title": {
+            "la": "Tit. CXI. De praelatorum in sagittandis et perimendis vitiis officio."
+          }
+        },
+        {
+          "id": "c395",
+          "title": {
+            "la": "Tit. CXII. De virtute patientiae per adversa monstranda, et ad granum sinapis comparanda."
+          }
+        },
+        {
+          "id": "c396",
+          "title": {
+            "la": "Tit. CXIII. De duplici pace."
+          }
+        },
+        {
+          "id": "c397",
+          "title": {
+            "la": "Tit. CXIV. De peccatoris captione et excaecatione."
+          }
+        },
+        {
+          "id": "c398",
+          "title": {
+            "la": "Tit. CXV. De hypocrisi et simulatione virtutis."
+          }
+        },
+        {
+          "id": "c399",
+          "title": {
+            "la": "Tit. CXVI. De murmure vitando et concordia servanda praesertim in claustris."
+          }
+        },
+        {
+          "id": "c400",
+          "title": {
+            "la": "Tit. CXVII. De Ecclesiae ad vitem comparatione."
+          }
+        },
+        {
+          "id": "c401",
+          "title": {
+            "la": "Tit. CXVIII. De Noe et Christo a suis irrisis."
+          }
+        },
+        {
+          "id": "c402",
+          "title": {
+            "la": "Tit. CXIX. De Christo et fide ejus in David per stragem Goliae et arma ejus figuratis."
+          }
+        },
+        {
+          "id": "c403",
+          "title": {
+            "la": "Tit. CXX. De rubo quem vidit Moyses incombustum."
+          }
+        },
+        {
+          "id": "c404",
+          "title": {
+            "la": "Tit. CXXI. De ferculo Salomonis."
+          }
+        },
+        {
+          "id": "c405",
+          "title": {
+            "la": "Tit. CXXII. De mutatione vestis sacerdotalis."
+          }
+        },
+        {
+          "id": "c406",
+          "title": {
+            "la": "Tit. CXXIII. Tintinnabula cur pendebant olim ad vestem sacerdotis, et in eis mala punica."
+          }
+        },
+        {
+          "id": "c407",
+          "title": {
+            "la": "Tit. CXXIV. De aqua spirituali et naturali."
+          }
+        },
+        {
+          "id": "c408",
+          "title": {
+            "la": "Tit. CXXV. De reginis, concubinis et adolescentulis mysticis veri Salomonis."
+          }
+        },
+        {
+          "id": "c409",
+          "title": {
+            "la": "Tit. CXXVI. Cum angelo luctari Jacob."
+          }
+        },
+        {
+          "id": "c410",
+          "title": {
+            "la": "Tit. CXXVII. Poenitentiam agere in cinere et cilicio."
+          }
+        },
+        {
+          "id": "c411",
+          "title": {
+            "la": "Tit. CXXVIII. De malarum cogitationum et peccatorum et ortu et defensione."
+          }
+        },
+        {
+          "id": "c412",
+          "title": {
+            "la": "Tit. CXXIX. De triplici osculo."
+          }
+        },
+        {
+          "id": "c413",
+          "title": {
+            "la": "Tit. CXXX. De laude et utilitate psalmodiae."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus. Sermones, sermonum fragmenta, epistolae, etc"
+      },
+      "children": [
+        {
+          "id": "c414",
+          "title": {
+            "la": "Tit. I. De Annuntiatione et incarnatione Verbi; de paradiso spirituali et quae in eo sunt."
+          }
+        },
+        {
+          "id": "c415",
+          "title": {
+            "la": "Tit. II. De Scripturae statura, altitudine et aspectu horribili"
+          }
+        },
+        {
+          "id": "c416",
+          "title": {
+            "la": "Tit. III. De lamentationibus, carmine, et vae in libro Ezechielis scriptis."
+          }
+        },
+        {
+          "id": "c417",
+          "title": {
+            "la": "Tit. IV. De arca Noe ad Ecclesiam comparatione."
+          }
+        },
+        {
+          "id": "c418",
+          "title": {
+            "la": "Tit. V. Cur candelabro comparetur Christus."
+          }
+        },
+        {
+          "id": "c419",
+          "title": {
+            "la": "Tit. VI. Quomodo Gedeon poenitentis typum gesserit."
+          }
+        },
+        {
+          "id": "c420",
+          "title": {
+            "la": "Tit. VII. Quomodo Job poenitentem figuret."
+          }
+        },
+        {
+          "id": "c421",
+          "title": {
+            "la": "Tit. VIII. De caecitate qua percutiuntur iniqui."
+          }
+        },
+        {
+          "id": "c422",
+          "title": {
+            "la": "Tit. IX. De poenitentia in vaccae immolatione."
+          }
+        },
+        {
+          "id": "c423",
+          "title": {
+            "la": "Tit. X. De mentis nostrae custodia per custodiam Isboseth figurata."
+          }
+        },
+        {
+          "id": "c424",
+          "title": {
+            "la": "Tit. XI. Quomodo boves mare aeneum sustinentes, sacerdotes pastores significent."
+          }
+        },
+        {
+          "id": "c425",
+          "title": {
+            "la": "Tit. XII. Quod per poenitentiam in unitate fidei servabitur peccator."
+          }
+        },
+        {
+          "id": "c426",
+          "title": {
+            "la": "Tit. XIII. De Ecclesiae doctoribus per vectes signatis."
+          }
+        },
+        {
+          "id": "c427",
+          "title": {
+            "la": "Tit. XIV. De virtute eloquii per citharam."
+          }
+        },
+        {
+          "id": "c428",
+          "title": {
+            "la": "Tit. XV. Quid vita saecularium bene viventium, licet non sit excellens, est tamen secura."
+          }
+        },
+        {
+          "id": "c429",
+          "title": {
+            "la": "Tit. XVI. Quomodo nobis sit facies per humilitatem velanda exemplo Eliae."
+          }
+        },
+        {
+          "id": "c430",
+          "title": {
+            "la": "Tit. XVII. Quod avaritia apud Deum et sanctam Ecclesiam non sit quaerenda."
+          }
+        },
+        {
+          "id": "c431",
+          "title": {
+            "la": "Tit. XVIII. Sal discretionis, non mel adulationis nec voluptatis, esse sacris adhibendum."
+          }
+        },
+        {
+          "id": "c432",
+          "title": {
+            "la": "Tit. XIX. De schismate vitando."
+          }
+        },
+        {
+          "id": "c433",
+          "title": {
+            "la": "Tit. XX. De superfluitate verborum et rerum vitanda."
+          }
+        },
+        {
+          "id": "c434",
+          "title": {
+            "la": "Tit. XXI. Quomodo sol justitiae ad auxilium bonorum nunc quoque stet. Et quod daemones in morte magis sint molesti."
+          }
+        },
+        {
+          "id": "c435",
+          "title": {
+            "la": "Tit. XXII. Quam aquam sapientiae auferre conentur daemones."
+          }
+        },
+        {
+          "id": "c436",
+          "title": {
+            "la": "Tit. XXIII. De consilio dando et pede figendo."
+          }
+        },
+        {
+          "id": "c437",
+          "title": {
+            "la": "Tit. XXIV. De egressu animae a Deo, et de revocatione ejusdem ad eumdem."
+          }
+        },
+        {
+          "id": "c438",
+          "title": {
+            "la": "Tit. XXV. Quid sit affligi in palea, luto et latere, et Pharaoni civitates construere."
+          }
+        },
+        {
+          "id": "c439",
+          "title": {
+            "la": "Tit. XXVI. De primis, mediis et novissimis."
+          }
+        },
+        {
+          "id": "c440",
+          "title": {
+            "la": "Tit. XXVII. Quid sit in spelunca duplici sepeliri."
+          }
+        },
+        {
+          "id": "c441",
+          "title": {
+            "la": "Tit. XXVIII. Quid sit ab Jezabel ad speluncam fugere, et Dominum in spiritu leni agnoscere."
+          }
+        },
+        {
+          "id": "c442",
+          "title": {
+            "la": "Tit. XXIX. Quomodo melior sit iniquitas viri, quam mulier benefaciens."
+          }
+        },
+        {
+          "id": "c443",
+          "title": {
+            "la": "Tit. XXX. De fuga quam suadet nobis Scripturae et de pane quem ministrat."
+          }
+        },
+        {
+          "id": "c444",
+          "title": {
+            "la": "Tit. XXXI. De triplici basi in Scriptura. Et de Samsone ejusque aenigmate."
+          }
+        },
+        {
+          "id": "c445",
+          "title": {
+            "la": "Tit. XXXII. De caesarie Absalonis."
+          }
+        },
+        {
+          "id": "c446",
+          "title": {
+            "la": "Tit. XXXIII. De bonis bonorum cum Domino natis, et terriculis malorum."
+          }
+        },
+        {
+          "id": "c447",
+          "title": {
+            "la": "Tit. XXXIV. De unguento descendente a Christo in oram, etc., id est in electos ejus."
+          }
+        },
+        {
+          "id": "c448",
+          "title": {
+            "la": "Tit. XXXV. De puero nato et oppresso, moraliter ad simulatam religionem applicito."
+          }
+        },
+        {
+          "id": "c449",
+          "title": {
+            "la": "Tit. XXXVI. De daemonum et vanarum cogitationum a sacrificio mentis abactione."
+          }
+        },
+        {
+          "id": "c450",
+          "title": {
+            "la": "Tit. XXXVII. De rationis et sensualitatis officiis in figura Abrahae et Sarae."
+          }
+        },
+        {
+          "id": "c451",
+          "title": {
+            "la": "Tit. XXXVIII. De lignis frustra quaerentibus sibi regem et de malis monachis praesidem."
+          }
+        },
+        {
+          "id": "c452",
+          "title": {
+            "la": "Tit. XXXIX. Quod Christus sit ros et pluvia, coelum Trinitas beata, nubes prophetae."
+          }
+        },
+        {
+          "id": "c453",
+          "title": {
+            "la": "Tit. XL. Quomodo ad Deum redeant compuncti, mendici, devoti et contemplativi."
+          }
+        },
+        {
+          "id": "c454",
+          "title": {
+            "la": "Tit. XLI. De officio Moysi, id est legistatoris; Aaron id est sacerdotis, et Samuelis, id est prophetae applicando monachis."
+          }
+        },
+        {
+          "id": "c455",
+          "title": {
+            "la": "Tit. XLII. De septem fluminibus Aegypti, id est vitiis mundi, et de musca, id est anima illis infecta, et de sibilo Dei quo ab illis avellitur. Et de ape, id est hypocrita, etiam a Domino abacta, et de duplici terra, bona et mala."
+          }
+        },
+        {
+          "id": "c456",
+          "title": {
+            "la": "Tit. XLIII. Quae servi, quae mercenarii, et quae filii offerre debeant Deo."
+          }
+        },
+        {
+          "id": "c457",
+          "title": {
+            "la": "Tit. XLIV. Quid sit adorare in atrio Domini."
+          }
+        },
+        {
+          "id": "c458",
+          "title": {
+            "la": "Tit. XLV. De cedris Libani confractis in bono religioso, et de duplici vitulo."
+          }
+        },
+        {
+          "id": "c459",
+          "title": {
+            "la": "Tit. XLVI. De duplici igne, et multiplici puritate per tres pueros figurata."
+          }
+        },
+        {
+          "id": "c460",
+          "title": {
+            "la": "Tit. XLVII. De proprietatibus cervi imitandis."
+          }
+        },
+        {
+          "id": "c461",
+          "title": {
+            "la": "Tit. XLVIII. Quae a dextris et quae a sinistris Dei stent, et quid sit charitatis varietate vestiri."
+          }
+        },
+        {
+          "id": "c462",
+          "title": {
+            "la": "Tit. XLIX. De opprobrio et contemptu."
+          }
+        },
+        {
+          "id": "c463",
+          "title": {
+            "la": "Tit. L. De extremo terrae unde producuntur nubes, fulgura et pluviae."
+          }
+        },
+        {
+          "id": "c464",
+          "title": {
+            "la": "Tit. LI. De primogenitis Aegypti."
+          }
+        },
+        {
+          "id": "c465",
+          "title": {
+            "la": "Tit. LII. De vulva, liberis, et uberibus."
+          }
+        },
+        {
+          "id": "c466",
+          "title": {
+            "la": "Tit. LIII. De uberibus sponso attributis."
+          }
+        },
+        {
+          "id": "c467",
+          "title": {
+            "la": "Tit. LIV. De gratiarum actione pudica et mera ad Deum ut ad fontem unde omnia bona, referenda."
+          }
+        },
+        {
+          "id": "c468",
+          "title": {
+            "la": "Tit. LV. De funiculo triplici."
+          }
+        },
+        {
+          "id": "c469",
+          "title": {
+            "la": "Tit. LVI. Oratio funebris et lamentatio de morte prudentis amici et religiosi."
+          }
+        },
+        {
+          "id": "c470",
+          "title": {
+            "la": "Tit. LVII. De venatore et laqueo animarum, et de verbo aspero ad monachos."
+          }
+        },
+        {
+          "id": "c471",
+          "title": {
+            "la": "Tit. LVIII. De quatuor generibus ovium, et de caula earum ac carnis custodia quadruplici."
+          }
+        },
+        {
+          "id": "c472",
+          "title": {
+            "la": "Tit. LIX. De panibus Salomonis, et duplici amore, pravo et bono."
+          }
+        },
+        {
+          "id": "c473",
+          "title": {
+            "la": "Tit. LX. De triplici unguento bonorum."
+          }
+        },
+        {
+          "id": "c474",
+          "title": {
+            "la": "Tit. LXI. De quatuor unguentis in quorum odore currit sponsa."
+          }
+        },
+        {
+          "id": "c475",
+          "title": {
+            "la": "Tit. LXII. De quadruplici Dei in nos beneficio, illuminationis, justificationis, doctrinae et redemptionis."
+          }
+        },
+        {
+          "id": "c476",
+          "title": {
+            "la": "Tit. LXIII. De tribus sagittis expetendis."
+          }
+        },
+        {
+          "id": "c477",
+          "title": {
+            "la": "Tit. LXIV. De quatuor tentationibus conversi ad Dominum."
+          }
+        },
+        {
+          "id": "c478",
+          "title": {
+            "la": "Tit. LXV. De duplici impetu spiritus et carnis."
+          }
+        },
+        {
+          "id": "c479",
+          "title": {
+            "la": "Tit. LXVI. De tribus filiabus Job."
+          }
+        },
+        {
+          "id": "c480",
+          "title": {
+            "la": "Tit. LXVII. De ostio et fenestris arcae Noe."
+          }
+        },
+        {
+          "id": "c481",
+          "title": {
+            "la": "Tit. LXVIII. De quatuor modis exeundi per operationem et totidem per cogitationem."
+          }
+        },
+        {
+          "id": "c482",
+          "title": {
+            "la": "Tit. LXIX. De duabus zonis in Veteri Testamento."
+          }
+        },
+        {
+          "id": "c483",
+          "title": {
+            "la": "Tit. LXX. De quatuor montibus."
+          }
+        },
+        {
+          "id": "c484",
+          "title": {
+            "la": "Tit. LXXI. De quatuor vinculis Pharaonis et quatuor vestimentis noxiis."
+          }
+        },
+        {
+          "id": "c485",
+          "title": {
+            "la": "Tit. LXXII. De vestimentis contra noxias vestes."
+          }
+        },
+        {
+          "id": "c486",
+          "title": {
+            "la": "Tit. LXXIII. De duobus calcaribus."
+          }
+        },
+        {
+          "id": "c487",
+          "title": {
+            "la": "Tit. LXXIV. De dispositione domus quadruplicis."
+          }
+        },
+        {
+          "id": "c488",
+          "title": {
+            "la": "Tit. LXXV. De duabus tribubus sacerdotalibus."
+          }
+        },
+        {
+          "id": "c489",
+          "title": {
+            "la": "Tit. LXXVI De quadruplici sacerdotum officio"
+          }
+        },
+        {
+          "id": "c490",
+          "title": {
+            "la": "Tit. LXXVII. De tribus panibus quibus alimur."
+          }
+        },
+        {
+          "id": "c491",
+          "title": {
+            "la": "Tit. LXXVIII. De tribus rivis e corpore Domini."
+          }
+        },
+        {
+          "id": "c492",
+          "title": {
+            "la": "Tit. LXXIX. De tribus piscinis Scripturae"
+          }
+        },
+        {
+          "id": "c493",
+          "title": {
+            "la": "Tit. LXXX. De tribus fomentis ignis"
+          }
+        },
+        {
+          "id": "c494",
+          "title": {
+            "la": "Tit. LXXXI. De tribus contemplantium fenestris."
+          }
+        },
+        {
+          "id": "c495",
+          "title": {
+            "la": "Tit. LXXXII. De quatuor fontibus paradisi"
+          }
+        },
+        {
+          "id": "c496",
+          "title": {
+            "la": "Tit. LXXXIII. De tribus ostiis ad vitam."
+          }
+        },
+        {
+          "id": "c497",
+          "title": {
+            "la": "Tit. LXXXIV. De triplici vino in scypho Domini."
+          }
+        },
+        {
+          "id": "c498",
+          "title": {
+            "la": "Tit. LXXXV. De triplici sacerdotum veste."
+          }
+        },
+        {
+          "id": "c499",
+          "title": {
+            "la": "Tit. LXXXVI. De tribus religiosorum tunicis."
+          }
+        },
+        {
+          "id": "c500",
+          "title": {
+            "la": "Tit. LXXXVII. De sex alis Seraphin."
+          }
+        },
+        {
+          "id": "c501",
+          "title": {
+            "la": "Tit. LXXXVIII. De duobus soliis Domini."
+          }
+        },
+        {
+          "id": "c502",
+          "title": {
+            "la": "Tit. LXXXIX. De quatuor pennis animalium"
+          }
+        },
+        {
+          "id": "c503",
+          "title": {
+            "la": "Tit. XC. De sex alis animalium novae legis"
+          }
+        },
+        {
+          "id": "c504",
+          "title": {
+            "la": "Tit. XCI. De duplici domo Dei."
+          }
+        },
+        {
+          "id": "c505",
+          "title": {
+            "la": "Tit. XCII. De duplici arca veteris legis."
+          }
+        },
+        {
+          "id": "c506",
+          "title": {
+            "la": "Tit. XCIII. De triplici curru in Scripturis."
+          }
+        },
+        {
+          "id": "c507",
+          "title": {
+            "la": "Tit. XCIV. De fluviis in quibus balneant peccatores."
+          }
+        },
+        {
+          "id": "c508",
+          "title": {
+            "la": "Tit. XCV. De fluviis in quibus lavantur justi."
+          }
+        },
+        {
+          "id": "c509",
+          "title": {
+            "la": "Tit. XCVI. De quatuor fidelium canticis."
+          }
+        },
+        {
+          "id": "c510",
+          "title": {
+            "la": "Tit. XCVII. De pedibus et equis quibus inniti debemus"
+          }
+        },
+        {
+          "id": "c511",
+          "title": {
+            "la": "Tit. XCVIII. De tribus speluncis in Scripturis."
+          }
+        },
+        {
+          "id": "c512",
+          "title": {
+            "la": "Tit. XCIX. De tribus coelis ad quos rapimur."
+          }
+        },
+        {
+          "id": "c513",
+          "title": {
+            "la": "Tit. C. De sex civitatibus refugii."
+          }
+        },
+        {
+          "id": "c514",
+          "title": {
+            "la": "Tit. CI. De triplici paradiso."
+          }
+        },
+        {
+          "id": "c515",
+          "title": {
+            "la": "Tit. CII. De quatuor aliis montibus."
+          }
+        },
+        {
+          "id": "c516",
+          "title": {
+            "la": "Tit. CIII. De duobus nos ab instituto devocantibus."
+          }
+        },
+        {
+          "id": "c517",
+          "title": {
+            "la": "Tit. CIV. De quatuor nuditatis nostrae palliis."
+          }
+        },
+        {
+          "id": "c518",
+          "title": {
+            "la": "Tit. CV. De tribus hostibus quibus tradimur."
+          }
+        },
+        {
+          "id": "c519",
+          "title": {
+            "la": "Tit. CVI. De quatuor latronibus rerum nostrarum."
+          }
+        },
+        {
+          "id": "c520",
+          "title": {
+            "la": "Tit. CVII. De tribus osculis."
+          }
+        },
+        {
+          "id": "c521",
+          "title": {
+            "la": "Tit. CVIII. De triplici in Scripturis virga."
+          }
+        },
+        {
+          "id": "c522",
+          "title": {
+            "la": "Tit. CIX. De cibo triplici Israelitarum."
+          }
+        },
+        {
+          "id": "c523",
+          "title": {
+            "la": "Tit. CX. De tribus liberatis et tribus ad sacerdotium assumptis."
+          }
+        },
+        {
+          "id": "c524",
+          "title": {
+            "la": "Tit. CXI. De gladio et arcu quibus Dominus nos partem suam tulit de manu Amorrhaei."
+          }
+        },
+        {
+          "id": "c525",
+          "title": {
+            "la": "Tit. CXII. De circumcisionis mysterio."
+          }
+        },
+        {
+          "id": "c526",
+          "title": {
+            "la": "Tit. CXIII. De mystica aquarum divisione."
+          }
+        },
+        {
+          "id": "c527",
+          "title": {
+            "la": "Tit. CXIV. De desiderio unde spirituales carnalesve censendi sunt homines juxta benedictionem Jacob et Esau."
+          }
+        },
+        {
+          "id": "c528",
+          "title": {
+            "la": "Tit. CXV. De tabernaculis, atriis et domibus quid differunt."
+          }
+        },
+        {
+          "id": "c529",
+          "title": {
+            "la": "Tit. CXVI. Duo clementium esse ubera."
+          }
+        },
+        {
+          "id": "c530",
+          "title": {
+            "la": "Tit. CXVII. De pedibus, id est sensibus nostris lavandis."
+          }
+        },
+        {
+          "id": "c531",
+          "title": {
+            "la": "Tit. CXVIII. De duobus denariis erogandis."
+          }
+        },
+        {
+          "id": "c532",
+          "title": {
+            "la": "Tit. CXIX. De pastoribus omnium, de mercenariis et lupis"
+          }
+        },
+        {
+          "id": "c533",
+          "title": {
+            "la": "Tit. CXX. De quad ruplici cruce et crucifixionis causa ac fine."
+          }
+        },
+        {
+          "id": "c534",
+          "title": {
+            "la": "Tit. CXXI. Mons Oliveti cur sit mons trium luminum dictus, et cur Trinitatem figuret, et de triplici lumine in nobis."
+          }
+        },
+        {
+          "id": "c535",
+          "title": {
+            "la": "Tit. CXXII. De januis tribus et ostiis disciplinae adversario claudendis."
+          }
+        },
+        {
+          "id": "c536",
+          "title": {
+            "la": "Tit. CXXIII. De arantis allegorico officio."
+          }
+        },
+        {
+          "id": "c537",
+          "title": {
+            "la": "Tit. CXXIV. De triplici modo et fine faciendi."
+          }
+        },
+        {
+          "id": "c538",
+          "title": {
+            "la": "Tit. CXXV. Quod mors tripliciter est pretiosa."
+          }
+        },
+        {
+          "id": "c539",
+          "title": {
+            "la": "Tit. CXXVI. De iis quae in fronte praeferimus."
+          }
+        },
+        {
+          "id": "c540",
+          "title": {
+            "la": "Tit. CXXVII. De funiculis quibus trahimur."
+          }
+        },
+        {
+          "id": "c541",
+          "title": {
+            "la": "Tit. CXXVIII. De contemplativo ad activum comparato per palmam masculam et femellam."
+          }
+        },
+        {
+          "id": "c542",
+          "title": {
+            "la": "Tit. CXXIX. De culcitra, cervicali et coopertorio conscientiae."
+          }
+        },
+        {
+          "id": "c543",
+          "title": {
+            "la": "Tit. CXXX. De diversitate eorum qui praesunt et eorum quibus praesunt."
+          }
+        },
+        {
+          "id": "c544",
+          "title": {
+            "la": "Tit. CXXXI. De praelatorum constantia et duritia."
+          }
+        },
+        {
+          "id": "c545",
+          "title": {
+            "la": "Tit. CXXXII. De triplici oleo, et de fide ac charitate."
+          }
+        },
+        {
+          "id": "c546",
+          "title": {
+            "la": "Tit. CXXXIII. De quadruplici siti restringenda per totidem flumina paradisi."
+          }
+        },
+        {
+          "id": "c547",
+          "title": {
+            "la": "Tit. CXXXIV. De iis quibus conservatur virtus."
+          }
+        },
+        {
+          "id": "c548",
+          "title": {
+            "la": "Tit. CXXXV. De triplici longanimitate."
+          }
+        },
+        {
+          "id": "c549",
+          "title": {
+            "la": "Tit. CXXXVI. De orationis multiplici modo."
+          }
+        },
+        {
+          "id": "c550",
+          "title": {
+            "la": "Tit. CXXXVII. De tribus bene faciendi gratiis."
+          }
+        },
+        {
+          "id": "c551",
+          "title": {
+            "la": "Tit. CXXXVIII. Qui plenus sit gratiae et veritatis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Liber quintus. Tractatuum moralium fragmenta, epistolae, etc"
+      },
+      "children": [
+        {
+          "id": "c552",
+          "title": {
+            "la": "Tit. I. De reparatione nominum per duplicem Trinitatem divinarum personarum et virtutum theologicarum."
+          }
+        },
+        {
+          "id": "c553",
+          "title": {
+            "la": "Tit. II. In hypocrisi quae sint mala."
+          }
+        },
+        {
+          "id": "c554",
+          "title": {
+            "la": "Tit. III. De triplici cognitione ex visione Dei."
+          }
+        },
+        {
+          "id": "c555",
+          "title": {
+            "la": "Tit. IV. De duodecim virtutum gradibus."
+          }
+        },
+        {
+          "id": "c556",
+          "title": {
+            "la": "Tit. V. De triplici bonorum conversione."
+          }
+        },
+        {
+          "id": "c557",
+          "title": {
+            "la": "Tit. VI. De tribus montibus in quos ascendit Dominus."
+          }
+        },
+        {
+          "id": "c558",
+          "title": {
+            "la": "Tit. VII. De duplici scandalo et instrumento ejus."
+          }
+        },
+        {
+          "id": "c559",
+          "title": {
+            "la": "Tit. VIII. De duabus clavibus coeli."
+          }
+        },
+        {
+          "id": "c560",
+          "title": {
+            "la": "Tit. IX. De triplici statu fidelis animae."
+          }
+        },
+        {
+          "id": "c561",
+          "title": {
+            "la": "Tit. X. De tribus animae inimicis."
+          }
+        },
+        {
+          "id": "c562",
+          "title": {
+            "la": "Tit. XI. De tribus hominis patribus."
+          }
+        },
+        {
+          "id": "c563",
+          "title": {
+            "la": "Tit. XII. De quatuor ab anima superandis, et triplici ejus decore."
+          }
+        },
+        {
+          "id": "c564",
+          "title": {
+            "la": "Tit. XIII. De tribus quae insunt poenitentiae."
+          }
+        },
+        {
+          "id": "c565",
+          "title": {
+            "la": "Tit. XIV. De duplici oleo, Dei scilicet et mundi."
+          }
+        },
+        {
+          "id": "c566",
+          "title": {
+            "la": "Tit. XV. De pace et bello triplici."
+          }
+        },
+        {
+          "id": "c567",
+          "title": {
+            "la": "Tit. XVI. De tribus modis unum est."
+          }
+        },
+        {
+          "id": "c568",
+          "title": {
+            "la": "Tit. XVII. De triplici genere quaerentium Deum et sapientiam."
+          }
+        },
+        {
+          "id": "c569",
+          "title": {
+            "la": "Tit. XVIII. De tribus aedificantibus super fundamentum fidei, et tribus superaedificatis."
+          }
+        },
+        {
+          "id": "c570",
+          "title": {
+            "la": "Tit. XIX. De quatuor humilitatem conferentibus."
+          }
+        },
+        {
+          "id": "c571",
+          "title": {
+            "la": "Tit. XX. De triplici fratrum cohabitatione."
+          }
+        },
+        {
+          "id": "c572",
+          "title": {
+            "la": "Tit. XXI. De pastore, ove et lupo."
+          }
+        },
+        {
+          "id": "c573",
+          "title": {
+            "la": "Tit. XXII. De conscientia et fama."
+          }
+        },
+        {
+          "id": "c574",
+          "title": {
+            "la": "Tit. XXIII. De tribus exemplis Dei ad vitam, et tribus diaboli ad mortem."
+          }
+        },
+        {
+          "id": "c575",
+          "title": {
+            "la": "Tit. XXIV. De coeli, terrae et inferni habitatoribus peculiaribus, et de tribus dantibus in singulis testimonium."
+          }
+        },
+        {
+          "id": "c576",
+          "title": {
+            "la": "Tit. XXV. De triplici labore hominis, et triplici ejus remedio."
+          }
+        },
+        {
+          "id": "c577",
+          "title": {
+            "la": "Tit. XXVI. De tribus panibus quibus reficiendus est superveniens amicus."
+          }
+        },
+        {
+          "id": "c578",
+          "title": {
+            "la": "Tit. XXVII. Quatuor modis orationem fieri."
+          }
+        },
+        {
+          "id": "c579",
+          "title": {
+            "la": "Tit. XXVIII. Duobus modis impediri orationem peccatoris ne exaudiatur."
+          }
+        },
+        {
+          "id": "c580",
+          "title": {
+            "la": "Tit. XXIX. De tribus vitiis per tres equos in Apocalypsi praesignatis, et de innocentia per equum album."
+          }
+        },
+        {
+          "id": "c581",
+          "title": {
+            "la": "Tit. XXX. De tribus dissolutionibus et tribus cinctoriis hominum."
+          }
+        },
+        {
+          "id": "c582",
+          "title": {
+            "la": "Tit. XXXI. De praeconiis b. Joannis. Baptistae viro innovato et perseveranti applicandis."
+          }
+        },
+        {
+          "id": "c583",
+          "title": {
+            "la": "Tit. XXXII. Quomodo sobrie, pie et juste vivamus."
+          }
+        },
+        {
+          "id": "c584",
+          "title": {
+            "la": "Tit. XXXIII. De quatuor vocationibus et duabus electionibus."
+          }
+        },
+        {
+          "id": "c585",
+          "title": {
+            "la": "Tit. XXXIV. Quomodo in electis suis thronum suum ponat Deus."
+          }
+        },
+        {
+          "id": "c586",
+          "title": {
+            "la": "Tit. XXXV. De tribus quae sunt in matrimonio et de triplici fornicatione, et ejus remedio."
+          }
+        },
+        {
+          "id": "c587",
+          "title": {
+            "la": "Tit. XXXVI. Quod persecutio fit tribus de causis et quatuor gladiis."
+          }
+        },
+        {
+          "id": "c588",
+          "title": {
+            "la": "Tit. XXXVII. Ad quae docenda missi sunt Filius et Spiritus sanctus."
+          }
+        },
+        {
+          "id": "c589",
+          "title": {
+            "la": "Tit. XXXVIII. Quid sit Deum diligere « ex toto corde, ex tota anima, et ex tota virtute; » et quae tria diverso gradu diligi possint."
+          }
+        },
+        {
+          "id": "c590",
+          "title": {
+            "la": "Tit. XXXIX. De fide, quos et per quos salvet aut non salvet tam nunc quam olim."
+          }
+        },
+        {
+          "id": "c591",
+          "title": {
+            "la": "Tit. XL. De quadruplici pace claustrali"
+          }
+        },
+        {
+          "id": "c592",
+          "title": {
+            "la": "Tit. XLI. De castelli etymo morali."
+          }
+        },
+        {
+          "id": "c593",
+          "title": {
+            "la": "Tit. XLII. De filio prodigo et de panibus tribus illi ut amico de via venienti commodandis."
+          }
+        },
+        {
+          "id": "c594",
+          "title": {
+            "la": "Tit. XLIII. Quod quilibet similis b. Petro apostolo secundum etymon trium nominum ejus liberabitur de manu hostili."
+          }
+        },
+        {
+          "id": "c595",
+          "title": {
+            "la": "Tit. XLIV. De b. Mariae semper virginis praeconiis."
+          }
+        },
+        {
+          "id": "c596",
+          "title": {
+            "la": "Tit. XLV. De praelio per auxilium angelorum contra diabolos a nobis gerendo."
+          }
+        },
+        {
+          "id": "c597",
+          "title": {
+            "la": "Tit. XLVI. De misericordia et fide purgantibus peccata."
+          }
+        },
+        {
+          "id": "c598",
+          "title": {
+            "la": "Tit. XLVII. De inevitabili judicio Dei quam sit tremendum, nisi ad misericordiam confugerimus."
+          }
+        },
+        {
+          "id": "c599",
+          "title": {
+            "la": "Tit. XLVIII. De oculo lucerna corporis moraliter, id est de praelato."
+          }
+        },
+        {
+          "id": "c600",
+          "title": {
+            "la": "Tit. XLIX. De exitu Christi a Patre et reditu ad Patrem, et sapientiae a corde et ad cor."
+          }
+        },
+        {
+          "id": "c601",
+          "title": {
+            "la": "Tit. L. De quatuor in electione apostolorum notandis."
+          }
+        },
+        {
+          "id": "c602",
+          "title": {
+            "la": "Tit. LI. De duplici nativitate, etc."
+          }
+        },
+        {
+          "id": "c603",
+          "title": {
+            "la": "Tit. LII. De tribus coelis, terris et testimoniis in eis, iterum aliter."
+          }
+        },
+        {
+          "id": "c604",
+          "title": {
+            "la": "Tit. LIII. De tribus donis Dei in homine."
+          }
+        },
+        {
+          "id": "c605",
+          "title": {
+            "la": "Tit. LIV. De triplici forma mundi: Et de triplici vetustate et ejus remediis."
+          }
+        },
+        {
+          "id": "c606",
+          "title": {
+            "la": "Tit. LV. De triplici proprietate lapidis et amoris, et de bono et malo pastore."
+          }
+        },
+        {
+          "id": "c607",
+          "title": {
+            "la": "Tit. LVI. De optima parte eligenda."
+          }
+        },
+        {
+          "id": "c608",
+          "title": {
+            "la": "Tit. LVII. Quomodo succingi deceat ad viam, accingi ad praelium, et praecingi ad mensam, et de zona qua cingamur."
+          }
+        },
+        {
+          "id": "c609",
+          "title": {
+            "la": "Tit. LVIII. De surditate, morte et paupertate triplici."
+          }
+        },
+        {
+          "id": "c610",
+          "title": {
+            "la": "Tit. LIX. Cur ter dictum: « Pasce oves meas. »"
+          }
+        },
+        {
+          "id": "c611",
+          "title": {
+            "la": "Tit. LX. De refectione spirituali, et de arbore paradisi et fermento veteri."
+          }
+        },
+        {
+          "id": "c612",
+          "title": {
+            "la": "Tit. LXI. De triplici transmigratione et nube."
+          }
+        },
+        {
+          "id": "c613",
+          "title": {
+            "la": "Tit. LXII. De tabula poenitentiae, de alis columbae et corvi, labroque aeneo quod fecit Moyses de speculis mulierum."
+          }
+        },
+        {
+          "id": "c614",
+          "title": {
+            "la": "Tit. LXIII. De contemnendo mundo et laqueis ejus."
+          }
+        },
+        {
+          "id": "c615",
+          "title": {
+            "la": "Tit. LXIV. De multiplici luctatione fidelium in hoc mundo."
+          }
+        },
+        {
+          "id": "c616",
+          "title": {
+            "la": "Tit. LXV. De multiplici ingressu Christi."
+          }
+        },
+        {
+          "id": "c617",
+          "title": {
+            "la": "Tit. LXVI. De verbo Dei misso in villam, castellum et civitatem; et quid differant."
+          }
+        },
+        {
+          "id": "c618",
+          "title": {
+            "la": "Tit. LXVII. De lumine vultus divini, de attributis Trinitati, et virtutibus animae."
+          }
+        },
+        {
+          "id": "c619",
+          "title": {
+            "la": "Tit. LXVIII. De seminante in spiritu vel carne."
+          }
+        },
+        {
+          "id": "c620",
+          "title": {
+            "la": "Tit. LXIX. De duplici captura piscium."
+          }
+        },
+        {
+          "id": "c621",
+          "title": {
+            "la": "Tit. LXX. De lavandis et plicandis retibus."
+          }
+        },
+        {
+          "id": "c622",
+          "title": {
+            "la": "Tit. LXXI. De piscibus in verbo Domini capiendis."
+          }
+        },
+        {
+          "id": "c623",
+          "title": {
+            "la": "Tit. LXXII. De negotiatione claustralium."
+          }
+        },
+        {
+          "id": "c624",
+          "title": {
+            "la": "Tit. LXXIII. De tribus Christianae perfectionis statibus."
+          }
+        },
+        {
+          "id": "c625",
+          "title": {
+            "la": "Tit. LXXIV. De quadruplici tristitia et gaudio."
+          }
+        },
+        {
+          "id": "c626",
+          "title": {
+            "la": "Tit. LXXXV. De triplicis regni aquisitione."
+          }
+        },
+        {
+          "id": "c627",
+          "title": {
+            "la": "Tit. LXXVI. De triplici statu animae, et de ratione paenitentiae faciendae."
+          }
+        },
+        {
+          "id": "c628",
+          "title": {
+            "la": "Tit. LXXVII. Quae ad orationis puritatem sint necessaria."
+          }
+        },
+        {
+          "id": "c629",
+          "title": {
+            "la": "Tit. LXXVIII. De suscitato a morte animae."
+          }
+        },
+        {
+          "id": "c630",
+          "title": {
+            "la": "Tit. LXXIX. De quatuor voluntatibus hominis."
+          }
+        },
+        {
+          "id": "c631",
+          "title": {
+            "la": "Tit. LXXX. De quatuor quibus servimus"
+          }
+        },
+        {
+          "id": "c632",
+          "title": {
+            "la": "Tit. LXXXI. De titillationum carnis causis."
+          }
+        },
+        {
+          "id": "c633",
+          "title": {
+            "la": "Tit. LXXXII. Quomodo ascendendum de convalle et deserto, et quod triplex desertum."
+          }
+        },
+        {
+          "id": "c634",
+          "title": {
+            "la": "Tit. LXXXIII. De sagittis quibus utitur Dominus."
+          }
+        },
+        {
+          "id": "c635",
+          "title": {
+            "la": "Tit. LXXXIV. De ebrietatis vino."
+          }
+        },
+        {
+          "id": "c636",
+          "title": {
+            "la": "Tit. LXXXV. De gradibus bonae condescensionis."
+          }
+        },
+        {
+          "id": "c637",
+          "title": {
+            "la": "Tit. LXXXVI. De quinque contra peccatum praeliis."
+          }
+        },
+        {
+          "id": "c638",
+          "title": {
+            "la": "Tit. LXXXVII. De diversitate gradientium ad Deum."
+          }
+        },
+        {
+          "id": "c639",
+          "title": {
+            "la": "Tit. LXXXVIII. De triplici praelatorum timore."
+          }
+        },
+        {
+          "id": "c640",
+          "title": {
+            "la": "Tit. LXXXIX. De triplici sanctorum dolore."
+          }
+        },
+        {
+          "id": "c641",
+          "title": {
+            "la": "Tit. XC. Quae sint in Christo montium monte."
+          }
+        },
+        {
+          "id": "c642",
+          "title": {
+            "la": "Tit. XCI. De variis portis."
+          }
+        },
+        {
+          "id": "c643",
+          "title": {
+            "la": "Tit. XCII. De tribus lucernis."
+          }
+        },
+        {
+          "id": "c644",
+          "title": {
+            "la": "Tit. XCIII. De modis quibus interrogat Deus."
+          }
+        },
+        {
+          "id": "c645",
+          "title": {
+            "la": "Tit. XCIV. De adversitati opponendis."
+          }
+        },
+        {
+          "id": "c646",
+          "title": {
+            "la": "Tit. XCV. De tribus postulandis ab electis."
+          }
+        },
+        {
+          "id": "c647",
+          "title": {
+            "la": "Tit. XCVI. De tribus frustra optatis."
+          }
+        },
+        {
+          "id": "c648",
+          "title": {
+            "la": "Tit. XCVII. De tribus agendis Christiano."
+          }
+        },
+        {
+          "id": "c649",
+          "title": {
+            "la": "Tit. XCVIII. De Christi attributis."
+          }
+        },
+        {
+          "id": "c650",
+          "title": {
+            "la": "Tit. XCIX. De differentia surgendi, exsurgendi, resurgendi, insurgendi, assurgendi, et consurgendi."
+          }
+        },
+        {
+          "id": "c651",
+          "title": {
+            "la": "Tit. C. De conditionibus fumi in peccatore."
+          }
+        },
+        {
+          "id": "c652",
+          "title": {
+            "la": "Tit. CI. De funiculi significationibus."
+          }
+        },
+        {
+          "id": "c653",
+          "title": {
+            "la": "Tit. CII. De fide et fidei intelligentia."
+          }
+        },
+        {
+          "id": "c654",
+          "title": {
+            "la": "Tit. CIII. Bonum quadrupliciter dici."
+          }
+        },
+        {
+          "id": "c655",
+          "title": {
+            "la": "Tit. CIV. De differentia inter logicum et theologum Et de triplici intellectu."
+          }
+        },
+        {
+          "id": "c656",
+          "title": {
+            "la": "Tit. CV. De triplici similitudine."
+          }
+        },
+        {
+          "id": "c657",
+          "title": {
+            "la": "Tit. CVI. De triplici baptismate."
+          }
+        },
+        {
+          "id": "c658",
+          "title": {
+            "la": "Tit. CVII. De quadruplici mutatione."
+          }
+        },
+        {
+          "id": "c659",
+          "title": {
+            "la": "Tit. CVIII. De multiplici debito."
+          }
+        },
+        {
+          "id": "c660",
+          "title": {
+            "la": "Tit. CIX. De affectione exspectantis Deum."
+          }
+        },
+        {
+          "id": "c661",
+          "title": {
+            "la": "Tit. CX. De tribus nuptiis, et de variis verbis Dei."
+          }
+        },
+        {
+          "id": "c662",
+          "title": {
+            "la": "Tit. CXI. De tribus armis fidelium."
+          }
+        },
+        {
+          "id": "c663",
+          "title": {
+            "la": "Tit. CXII. De tribus praelato necessariis."
+          }
+        },
+        {
+          "id": "c664",
+          "title": {
+            "la": "Tit. CXIII. De tribus speciebus poenitentiae."
+          }
+        },
+        {
+          "id": "c665",
+          "title": {
+            "la": "Tit. CXIV. De tribus mirabiliter mutatis."
+          }
+        },
+        {
+          "id": "c666",
+          "title": {
+            "la": "Tit. CXV. De tribus impedientibus poenitentiam."
+          }
+        },
+        {
+          "id": "c667",
+          "title": {
+            "la": "Tit. CXVI. De triplici ascensu Domini."
+          }
+        },
+        {
+          "id": "c668",
+          "title": {
+            "la": "Tit. CXVII. De regni coelorum acquisitione."
+          }
+        },
+        {
+          "id": "c669",
+          "title": {
+            "la": "Tit. CXVIII. De instrumentis vindictae Dominicae."
+          }
+        },
+        {
+          "id": "c670",
+          "title": {
+            "la": "Tit. CXIX. De triplici lecto animae."
+          }
+        },
+        {
+          "id": "c671",
+          "title": {
+            "la": "Tit. CXX. De duobus fluviis quibus se lavant peccatores, et quibus justi."
+          }
+        },
+        {
+          "id": "c672",
+          "title": {
+            "la": "Tit. CXXI. De quatuor herbis aut floribus in horto Dominico crescentibus."
+          }
+        },
+        {
+          "id": "c673",
+          "title": {
+            "la": "Tit. CXXII. De tribus paradisis."
+          }
+        },
+        {
+          "id": "c674",
+          "title": {
+            "la": "Tit. CXXIII. De rerum nostrarum furibus."
+          }
+        },
+        {
+          "id": "c675",
+          "title": {
+            "la": "Tit. CXXIV. De tribus panibus."
+          }
+        },
+        {
+          "id": "c676",
+          "title": {
+            "la": "Tit. CXXV. De assumptione et decem praeconiis Mariae semper Virginis."
+          }
+        },
+        {
+          "id": "c677",
+          "title": {
+            "la": "Tit. CXXVI. De triplici gaudio."
+          }
+        },
+        {
+          "id": "c678",
+          "title": {
+            "la": "Tit. CXXVII. De exaltatione Dei in nobis per cor altum, latum et profundum."
+          }
+        },
+        {
+          "id": "c679",
+          "title": {
+            "la": "Tit. CXXVIII. De triplici promotione hominis."
+          }
+        },
+        {
+          "id": "c680",
+          "title": {
+            "la": "Tit. CXXIX. Esse ex Deo, a Deo et de Deo."
+          }
+        },
+        {
+          "id": "c681",
+          "title": {
+            "la": "Tit. CXXX. De pastoris boni officio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Liber sextus. Adnotationes elucidatoriae in scripturam, tractatuum moralium fragmenta, etc"
+      },
+      "children": [
+        {
+          "id": "c682",
+          "title": {
+            "la": "Tit. I. De quadruplici potestate Christo data, et quadruplici statu creaturarum."
+          }
+        },
+        {
+          "id": "c683",
+          "title": {
+            "la": "Tit. II. De silentio animae contemplativae."
+          }
+        },
+        {
+          "id": "c684",
+          "title": {
+            "la": "Tit. III. De ubere maternae affectionis."
+          }
+        },
+        {
+          "id": "c685",
+          "title": {
+            "la": "Tit. IV. Responsum a triplici spiritu accipi."
+          }
+        },
+        {
+          "id": "c686",
+          "title": {
+            "la": "Tit. V. De infirmo, causa morbi, medico et remedio morbi."
+          }
+        },
+        {
+          "id": "c687",
+          "title": {
+            "la": "Tit. VI. De triplici edicto, et de Moyse in fiscella clauso, per allegoriam ad Christum."
+          }
+        },
+        {
+          "id": "c688",
+          "title": {
+            "la": "Tit. VII. De vigiliis, somnis, quando et a quibus surgendum."
+          }
+        },
+        {
+          "id": "c689",
+          "title": {
+            "la": "Tit. VIII. De triplici jugo suavi et onere levi, obedientiae et inobedientiae."
+          }
+        },
+        {
+          "id": "c690",
+          "title": {
+            "la": "Tit. IX. De triplici divinae gratiae operatione."
+          }
+        },
+        {
+          "id": "c691",
+          "title": {
+            "la": "Tit. X. De equi boni conditionibus."
+          }
+        },
+        {
+          "id": "c692",
+          "title": {
+            "la": "Tit. XI. Qualis sit rector erga subditos."
+          }
+        },
+        {
+          "id": "c693",
+          "title": {
+            "la": "Tit. XII. De galli et praedicatoris consimili officio."
+          }
+        },
+        {
+          "id": "c694",
+          "title": {
+            "la": "Tit. XIII. De quatuor considerandis."
+          }
+        },
+        {
+          "id": "c695",
+          "title": {
+            "la": "Tit. XIV. De tribus supplicationibus, seu rogationibus principalibus."
+          }
+        },
+        {
+          "id": "c696",
+          "title": {
+            "la": "Tit. XV. Forma exordiendi sermonis."
+          }
+        },
+        {
+          "id": "c697",
+          "title": {
+            "la": "Tit. XVI. Ad pastores et praelatos sermo de officio pastorali."
+          }
+        },
+        {
+          "id": "c698",
+          "title": {
+            "la": "Tit. XVII. De verbi Dei efficacia."
+          }
+        },
+        {
+          "id": "c699",
+          "title": {
+            "la": "Tit. XVIII. De Pharisaicis sui admiratoribus, et hypocritis occultis detractoribus."
+          }
+        },
+        {
+          "id": "c700",
+          "title": {
+            "la": "Tit. XIX. De incremento seminis jacti in terram, id est fidei et caeterarum virtutum."
+          }
+        },
+        {
+          "id": "c701",
+          "title": {
+            "la": "Tit. XX. De hydriis vacuis et plenis."
+          }
+        },
+        {
+          "id": "c702",
+          "title": {
+            "la": "Tit. XXI. De pigro, de luctante et vincente."
+          }
+        },
+        {
+          "id": "c703",
+          "title": {
+            "la": "Tit. XXII. De nocte, cursu ac itineribus ejus."
+          }
+        },
+        {
+          "id": "c704",
+          "title": {
+            "la": "Tit. XXIII. De multiplici acceptione Eucharistiae corporis Dominici."
+          }
+        },
+        {
+          "id": "c705",
+          "title": {
+            "la": "Tit. XXIV. De praeparamentis ad Purificationem Mariae digne celebrandam."
+          }
+        },
+        {
+          "id": "c706",
+          "title": {
+            "la": "Tit. XXV. De triplici descriptione ad conjugium, ad continentiam, et ad virginitatem."
+          }
+        },
+        {
+          "id": "c707",
+          "title": {
+            "la": "Tit. XXVI. De vocatione Lazari in sepulcro, moraliter alludendo primo ad hoc quod « abyssus abyssum invocat; » deinde de tertia decima mansione Judaeorum in deserto, et quae sequuntur."
+          }
+        },
+        {
+          "id": "c708",
+          "title": {
+            "la": "Tit. XXVII. Quod multiplici ratione Maria dicatur virga, et Christus flos ejus."
+          }
+        },
+        {
+          "id": "c709",
+          "title": {
+            "la": "Tit. XXVIII. De matre et puero in Aegyptum profugis moraliter, et persecutione puerorum sanctorum Innocentium."
+          }
+        },
+        {
+          "id": "c710",
+          "title": {
+            "la": "Tit. XXIX. De sacramentorum diversitate."
+          }
+        },
+        {
+          "id": "c711",
+          "title": {
+            "la": "Tit. XXX. De saucio, vulneribus ejus, et medico et medicamentis, et operibus misericordiae."
+          }
+        },
+        {
+          "id": "c712",
+          "title": {
+            "la": "Tit. XXXI. De duabus portis summe vel bonis vel malis."
+          }
+        },
+        {
+          "id": "c713",
+          "title": {
+            "la": "Tit. XXXII. De quadruplici timore."
+          }
+        },
+        {
+          "id": "c714",
+          "title": {
+            "la": "Tit. XXXIII. De triplici vitio, triplici peccato, et triplici remedio."
+          }
+        },
+        {
+          "id": "c715",
+          "title": {
+            "la": "Tit. XXXIV. De publicani justificatione."
+          }
+        },
+        {
+          "id": "c716",
+          "title": {
+            "la": "Tit. XXXV. De consilio impiorum in quatuor."
+          }
+        },
+        {
+          "id": "c717",
+          "title": {
+            "la": "Tit. XXXVI. De consilio piorum, etc."
+          }
+        },
+        {
+          "id": "c718",
+          "title": {
+            "la": "Tit. XXXVII. De tribus salutationum in Evangelio generibus."
+          }
+        },
+        {
+          "id": "c719",
+          "title": {
+            "la": "Tit. XXXVIII. De quatuor augentibus gratiam devotionis et religionis."
+          }
+        },
+        {
+          "id": "c720",
+          "title": {
+            "la": "Tit. XXXIX. De tribus quibus nos erudit Dominus."
+          }
+        },
+        {
+          "id": "c721",
+          "title": {
+            "la": "Tit. XL. De tribus nobis prohibitis, et tribus nobis licitis."
+          }
+        },
+        {
+          "id": "c722",
+          "title": {
+            "la": "Tit. XLI. Poenitentiae tria necessaria."
+          }
+        },
+        {
+          "id": "c723",
+          "title": {
+            "la": "Tit. XLII. De tribus in quibus obnoxii Deo sumus."
+          }
+        },
+        {
+          "id": "c724",
+          "title": {
+            "la": "Tit. XLIII. De triplici via ad mortem."
+          }
+        },
+        {
+          "id": "c725",
+          "title": {
+            "la": "Tit. XLIV. De triplici via arcta."
+          }
+        },
+        {
+          "id": "c726",
+          "title": {
+            "la": "Tit. XLV. De tribus in quibus Christum imitari debemus."
+          }
+        },
+        {
+          "id": "c727",
+          "title": {
+            "la": "Tit. XLVI. Quod impii quatuor modis dicuntur filii."
+          }
+        },
+        {
+          "id": "c728",
+          "title": {
+            "la": "Tit. XLVII. De tribulationis triplici bono."
+          }
+        },
+        {
+          "id": "c729",
+          "title": {
+            "la": "Tit. XLVIII. De triplici electorum exercitio."
+          }
+        },
+        {
+          "id": "c730",
+          "title": {
+            "la": "Tit. XLIX. De tribus in nobis principibus."
+          }
+        },
+        {
+          "id": "c731",
+          "title": {
+            "la": "Tit. L. De tribus calicibus a Domino propinatis."
+          }
+        },
+        {
+          "id": "c732",
+          "title": {
+            "la": "Tit. LI. De tribus vestimentis electorum."
+          }
+        },
+        {
+          "id": "c733",
+          "title": {
+            "la": "Tit. LII. De tribus puellis pervertentibus sensum."
+          }
+        },
+        {
+          "id": "c734",
+          "title": {
+            "la": "Tit. LIII. De quadruplici sacerdotum officio."
+          }
+        },
+        {
+          "id": "c735",
+          "title": {
+            "la": "Tit. LIV. De tribus generibus hominum quibus mare hujus saeculi pervium est."
+          }
+        },
+        {
+          "id": "c736",
+          "title": {
+            "la": "Tit. LV. De quintuplici obedientia."
+          }
+        },
+        {
+          "id": "c737",
+          "title": {
+            "la": "Tit. LVI. De triplici bono quod nobis indicat Propheta."
+          }
+        },
+        {
+          "id": "c738",
+          "title": {
+            "la": "Tit. LVII. De triplici animarum statu."
+          }
+        },
+        {
+          "id": "c739",
+          "title": {
+            "la": "Tit. LVIII. De triplici coelestis verbi auditore."
+          }
+        },
+        {
+          "id": "c740",
+          "title": {
+            "la": "Tit. LIX. De triplici vita hominis."
+          }
+        },
+        {
+          "id": "c741",
+          "title": {
+            "la": "Tit. LX. De tribus mansionibus hominum."
+          }
+        },
+        {
+          "id": "c742",
+          "title": {
+            "la": "Tit. LXI. De triplici virginitate."
+          }
+        },
+        {
+          "id": "c743",
+          "title": {
+            "la": "Tit. LXII. De tribus quae desponsata recipit."
+          }
+        },
+        {
+          "id": "c744",
+          "title": {
+            "la": "Tit. LXIII. De tribus Christi gestatoribus."
+          }
+        },
+        {
+          "id": "c745",
+          "title": {
+            "la": "Tit. LXIV. Praedicatori tria necessaria."
+          }
+        },
+        {
+          "id": "c746",
+          "title": {
+            "la": "Tit. LXV. De tribus quibus nocet luxuria."
+          }
+        },
+        {
+          "id": "c747",
+          "title": {
+            "la": "Tit. LXVI. De tribus in quibus confessio."
+          }
+        },
+        {
+          "id": "c748",
+          "title": {
+            "la": "Tit. LXVII. De tribus in quibus contritio."
+          }
+        },
+        {
+          "id": "c749",
+          "title": {
+            "la": "Tit. LXVIII. De tribus silentiis ante gratiam."
+          }
+        },
+        {
+          "id": "c750",
+          "title": {
+            "la": "Tit. LXIX. De tribus silentiis aliis."
+          }
+        },
+        {
+          "id": "c751",
+          "title": {
+            "la": "Tit. LXX. De quatuor vigiliis vitae nostrae."
+          }
+        },
+        {
+          "id": "c752",
+          "title": {
+            "la": "Tit. LXXI. De triplici odore vitae."
+          }
+        },
+        {
+          "id": "c753",
+          "title": {
+            "la": "Tit. LXXII. De tribus gradibus superbiae et humilitatis."
+          }
+        },
+        {
+          "id": "c754",
+          "title": {
+            "la": "Tit. LXXIII. De tribus cinctoriis."
+          }
+        },
+        {
+          "id": "c755",
+          "title": {
+            "la": "Tit. LXXIV. De tribus castris, etc."
+          }
+        },
+        {
+          "id": "c756",
+          "title": {
+            "la": "Tit. LXXV. De duplici compunctione."
+          }
+        },
+        {
+          "id": "c757",
+          "title": {
+            "la": "Tit. LXXVI. De triplici hominis acceptione."
+          }
+        },
+        {
+          "id": "c758",
+          "title": {
+            "la": "Tit LXXVII. De triplici somni acceptione."
+          }
+        },
+        {
+          "id": "c759",
+          "title": {
+            "la": "Tit. LXXVIII. De duplici respectu Dei."
+          }
+        },
+        {
+          "id": "c760",
+          "title": {
+            "la": "Tit. LXXIX. De quatuor modis peccandi."
+          }
+        },
+        {
+          "id": "c761",
+          "title": {
+            "la": "Tit. LXXX. De triplici adventu Dei."
+          }
+        },
+        {
+          "id": "c762",
+          "title": {
+            "la": "Tit. LXXXI. De anima cur Christi sit sponsa."
+          }
+        },
+        {
+          "id": "c763",
+          "title": {
+            "la": "Tit. LXXXII. De quincupertito gulae vitio."
+          }
+        },
+        {
+          "id": "c764",
+          "title": {
+            "la": "Tit. LXXXIII. De tribus sacerdotum vitiis."
+          }
+        },
+        {
+          "id": "c765",
+          "title": {
+            "la": "Tit. LXXXIV. De tribus in quibus consistit salus."
+          }
+        },
+        {
+          "id": "c766",
+          "title": {
+            "la": "Tit. LXXXV. De triplici damno ferendo."
+          }
+        },
+        {
+          "id": "c767",
+          "title": {
+            "la": "Tit. LXXXVI. De triplici adventu Domini."
+          }
+        },
+        {
+          "id": "c768",
+          "title": {
+            "la": "Tit. LXXXVII. De via carnis et spiritus."
+          }
+        },
+        {
+          "id": "c769",
+          "title": {
+            "la": "Tit. LXXXVIII. Sapientiam quinque modis concupisci."
+          }
+        },
+        {
+          "id": "c770",
+          "title": {
+            "la": "Tit. LXXXIX. De tribus cognationibus."
+          }
+        },
+        {
+          "id": "c771",
+          "title": {
+            "la": "Tit. XC. De tribus inobedientiae comitibus, et tribus obedientiae bonis."
+          }
+        },
+        {
+          "id": "c772",
+          "title": {
+            "la": "Tit. XCI. De tribus in cruce animadvertendis."
+          }
+        },
+        {
+          "id": "c773",
+          "title": {
+            "la": "Tit. XCII. De tribus imitatori Christi agendis."
+          }
+        },
+        {
+          "id": "c774",
+          "title": {
+            "la": "Tit. XCIII. De tribus piscinis, diaboli, mundi, et Dei, et earum porticibus."
+          }
+        },
+        {
+          "id": "c775",
+          "title": {
+            "la": "Tit. XCIV. De triplici materia gaudii animae."
+          }
+        },
+        {
+          "id": "c776",
+          "title": {
+            "la": "Tit. XCV. De tribus florum et animarum dotibus."
+          }
+        },
+        {
+          "id": "c777",
+          "title": {
+            "la": "Tit. XCVI. De ingressu verbi Dei."
+          }
+        },
+        {
+          "id": "c778",
+          "title": {
+            "la": "Tit. XCVII. De tribus donis corpori humano et totidem spiritui in conditione collatis."
+          }
+        },
+        {
+          "id": "c779",
+          "title": {
+            "la": "Tit. XCVIII. De tribus in redemptione hominis ipsum ad dilectionem Dei incitantibus."
+          }
+        },
+        {
+          "id": "c780",
+          "title": {
+            "la": "Tit. XCIX. De quadruplici dilectione."
+          }
+        },
+        {
+          "id": "c781",
+          "title": {
+            "la": "Tit. C. De septem gradibus confessionis."
+          }
+        },
+        {
+          "id": "c782",
+          "title": {
+            "la": "Tit. CI. Quod hodie tripliciter dicatur."
+          }
+        },
+        {
+          "id": "c783",
+          "title": {
+            "la": "Tit. CII. De triplici hominum statu, et triplici oblatione eidem facienda."
+          }
+        },
+        {
+          "id": "c784",
+          "title": {
+            "la": "Tit. CIII. De tribus testimonium perhibentibus in coelo, et totidem in terra, et totidem in inferno: Rursum."
+          }
+        },
+        {
+          "id": "c785",
+          "title": {
+            "la": "Tit. CIV. Quomodo Spiritus sanctus arguat mundum."
+          }
+        },
+        {
+          "id": "c786",
+          "title": {
+            "la": "Tit. CV. De nomine Christiano, etc."
+          }
+        },
+        {
+          "id": "c787",
+          "title": {
+            "la": "Tit. CVI. De septem gradibus humilitatis."
+          }
+        },
+        {
+          "id": "c788",
+          "title": {
+            "la": "Tit. CVII. De armis virtutis et nequitiae."
+          }
+        },
+        {
+          "id": "c789",
+          "title": {
+            "la": "Tit. CVIII. De tribus poenitentiae necessariis."
+          }
+        },
+        {
+          "id": "c790",
+          "title": {
+            "la": "Tit. CIX. Quae tria habeat humilitas."
+          }
+        },
+        {
+          "id": "c791",
+          "title": {
+            "la": "Tit. CX. De inaequalitate gradientium ad Deum."
+          }
+        },
+        {
+          "id": "c792",
+          "title": {
+            "la": "Tit. CXI. De tribus quae electos manent."
+          }
+        },
+        {
+          "id": "c793",
+          "title": {
+            "la": "Tit. CXII. De triplici electorum desiderio."
+          }
+        },
+        {
+          "id": "c794",
+          "title": {
+            "la": "Tit. CXIII. De triplici praelatorum timore."
+          }
+        },
+        {
+          "id": "c795",
+          "title": {
+            "la": "Tit. CXIV. De tribus vitulis Domino immolandis."
+          }
+        },
+        {
+          "id": "c796",
+          "title": {
+            "la": "Tit. CXV. De quadruplici pressura hominis."
+          }
+        },
+        {
+          "id": "c797",
+          "title": {
+            "la": "Tit. CXVI. De fumo, igne, et caligine respectu Dei."
+          }
+        },
+        {
+          "id": "c798",
+          "title": {
+            "la": "Tit. CXVII. Quomodo Deus ambulet, volet, et nobiscum habitet."
+          }
+        },
+        {
+          "id": "c799",
+          "title": {
+            "la": "Tit. CXVIII. De portis mundi, inferi, coeli."
+          }
+        },
+        {
+          "id": "c800",
+          "title": {
+            "la": "Tit. CXIX. De quadruplici retributione."
+          }
+        },
+        {
+          "id": "c801",
+          "title": {
+            "la": "Tit. CXX. De tribus lucernis."
+          }
+        },
+        {
+          "id": "c802",
+          "title": {
+            "la": "Tit. CXXI. De triplici semine"
+          }
+        },
+        {
+          "id": "c803",
+          "title": {
+            "la": "Tit. CXXII. Quod sapientia Dei est ut perdix, gallina, et aquila erga pullos, id est auditores."
+          }
+        },
+        {
+          "id": "c804",
+          "title": {
+            "la": "Tit. CXXIII. De triplici veste bonorum."
+          }
+        },
+        {
+          "id": "c805",
+          "title": {
+            "la": "Tit. CXXIV. De veste Esau et pelliculis haedorum."
+          }
+        },
+        {
+          "id": "c806",
+          "title": {
+            "la": "Tit. CXXV. De tribus ad puritatem necessariis."
+          }
+        },
+        {
+          "id": "c807",
+          "title": {
+            "la": "Tit. CXXVI. De tribus bonis quae confert puritas."
+          }
+        },
+        {
+          "id": "c808",
+          "title": {
+            "la": "Tit. CXXVII. Quod reprobi sunt fumus, pulvis, cera."
+          }
+        },
+        {
+          "id": "c809",
+          "title": {
+            "la": "Tit. CXXVIII. De portis triplicibus."
+          }
+        },
+        {
+          "id": "c810",
+          "title": {
+            "la": "Tit. CXXIX. Religiosos in tribus obnoxios esse Deo."
+          }
+        },
+        {
+          "id": "c811",
+          "title": {
+            "la": "Tit. CXXX. Tribus modis nos interrogat Deus."
+          }
+        },
+        {
+          "id": "c812",
+          "title": {
+            "la": "Tit. CXXXI. De tribus bonis tribulationis."
+          }
+        },
+        {
+          "id": "c813",
+          "title": {
+            "la": "Tit. CXXXII. De tribus adversitati opponendis."
+          }
+        },
+        {
+          "id": "c814",
+          "title": {
+            "la": "Tit. CXXXIII. De triplici exercitatione electorum."
+          }
+        },
+        {
+          "id": "c815",
+          "title": {
+            "la": "Tit. CXXXIV. De tribus mirabilibus in Maria."
+          }
+        },
+        {
+          "id": "c816",
+          "title": {
+            "la": "Tit. CXXXV. De bonis fecunditatis Mariae."
+          }
+        },
+        {
+          "id": "c817",
+          "title": {
+            "la": "Tit. CXXXVI. De tribus quae praestolantur electi, et de tribus quae optant reprobi."
+          }
+        },
+        {
+          "id": "c818",
+          "title": {
+            "la": "Tit. CXXXVII. Quod quadruplices sint exspectantes Deum, et quid ab eo sperent iterum."
+          }
+        },
+        {
+          "id": "c819",
+          "title": {
+            "la": "Tit. CXXXVIII. De tribus nuptiis spiritualibus."
+          }
+        },
+        {
+          "id": "c820",
+          "title": {
+            "la": "Tit. CXXXIX. De ternis fidelium armis."
+          }
+        },
+        {
+          "id": "c821",
+          "title": {
+            "la": "Tit. CXL. De tribus praelato necessariis."
+          }
+        },
+        {
+          "id": "c822",
+          "title": {
+            "la": "Tit. CXLI. De poenitentiae speciebus et partibus."
+          }
+        },
+        {
+          "id": "c823",
+          "title": {
+            "la": "Tit. CXLII. De triplici mutatione."
+          }
+        },
+        {
+          "id": "c824",
+          "title": {
+            "la": "Tit. CXLIII. De triplici impiorum refugio."
+          }
+        },
+        {
+          "id": "c825",
+          "title": {
+            "la": "Tit. CXLIV. De quadruplici specie terrae."
+          }
+        },
+        {
+          "id": "c826",
+          "title": {
+            "la": "Tit. CXLV. De quadruplici deserto."
+          }
+        },
+        {
+          "id": "c827",
+          "title": {
+            "la": "Tit. CXLVI. De quadruplici curru."
+          }
+        },
+        {
+          "id": "c828",
+          "title": {
+            "la": "Tit. CXLVII. De triplici ascensu Domini."
+          }
+        },
+        {
+          "id": "c829",
+          "title": {
+            "la": "Tit. CXLVIII. De acquisitione regni coelorum."
+          }
+        },
+        {
+          "id": "c830",
+          "title": {
+            "la": "Tit. CXLIX. De iis quae pretiosam faciunt mortem."
+          }
+        },
+        {
+          "id": "c831",
+          "title": {
+            "la": "Tit. CL. De quadruplici visitatione Dei."
+          }
+        },
+        {
+          "id": "c832",
+          "title": {
+            "la": "Tit. CLI. De quatuor virginibus ducendis."
+          }
+        },
+        {
+          "id": "c833",
+          "title": {
+            "la": "Tit. CLII. De tribus candelabris."
+          }
+        },
+        {
+          "id": "c834",
+          "title": {
+            "la": "Tit. CLIII. De tribus munitionibus animae."
+          }
+        },
+        {
+          "id": "c835",
+          "title": {
+            "la": "Tit. CLIV. De tribus spem roborantibus."
+          }
+        },
+        {
+          "id": "c836",
+          "title": {
+            "la": "Tit. CLV. De tribus quibus Deus vincit hostes."
+          }
+        },
+        {
+          "id": "c837",
+          "title": {
+            "la": "Tit. CLVI. De triplici lecto animae."
+          }
+        },
+        {
+          "id": "c838",
+          "title": {
+            "la": "Tit. CLVII. De tribus vitrinis."
+          }
+        },
+        {
+          "id": "c839",
+          "title": {
+            "la": "Tit. CLVIII. De septem lampadibus mentis."
+          }
+        },
+        {
+          "id": "c840",
+          "title": {
+            "la": "Tit. CLIX. De triplici edulio apposito."
+          }
+        },
+        {
+          "id": "c841",
+          "title": {
+            "la": "Tit. CLX. De triplici horto animarum."
+          }
+        },
+        {
+          "id": "c842",
+          "title": {
+            "la": "Tit. CLXI. De tribus mensis appositis."
+          }
+        },
+        {
+          "id": "c843",
+          "title": {
+            "la": "Tit. CLXII. De tribus thesauris faciendis."
+          }
+        },
+        {
+          "id": "c844",
+          "title": {
+            "la": "Tit. CLXIII. De quatuor differentiis panum."
+          }
+        },
+        {
+          "id": "c845",
+          "title": {
+            "la": "Tit. CLXIV. De voto tribus altaribus imponendo"
+          }
+        },
+        {
+          "id": "c846",
+          "title": {
+            "la": "Tit. CLXV. De tribus puellis sensum nostrum evertentibus, de quibus ut de aliis multis prolixius habitum est supra."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "title": {
+        "la": "Liber septimus. De diversis"
+      },
+      "children": [
+        {
+          "id": "c847",
+          "title": {
+            "la": "Tit. I. De ecclesiarum et aedium sanctarum spirituali ornatu."
+          }
+        },
+        {
+          "id": "c848",
+          "title": {
+            "la": "Tit. II. De aedificatione templi sive Ecclesiae morali ex ligno, auro et lapide."
+          }
+        },
+        {
+          "id": "c849",
+          "title": {
+            "la": "Tit. III. De templo Salomonis allegorice."
+          }
+        },
+        {
+          "id": "c850",
+          "title": {
+            "la": "Tit. IV. De eodem."
+          }
+        },
+        {
+          "id": "c851",
+          "title": {
+            "la": "Tit. V. De eodem."
+          }
+        },
+        {
+          "id": "c852",
+          "title": {
+            "la": "Tit. VI. De eodem."
+          }
+        },
+        {
+          "id": "c853",
+          "title": {
+            "la": "Tit. VII. De eodem."
+          }
+        },
+        {
+          "id": "c854",
+          "title": {
+            "la": "Tit. VIII. De eodem."
+          }
+        },
+        {
+          "id": "c855",
+          "title": {
+            "la": "Tit. IX. De cereo et quae in eo sunt mystice."
+          }
+        },
+        {
+          "id": "c856",
+          "title": {
+            "la": "Tit. X. De horis canonicis in quibus fit Dominicae passionis commemoratio. Et primo de hora prima."
+          }
+        },
+        {
+          "id": "c857",
+          "title": {
+            "la": "Tit. XI. De hora tertia canonica."
+          }
+        },
+        {
+          "id": "c858",
+          "title": {
+            "la": "Tit. XII. De hora nona canonica."
+          }
+        },
+        {
+          "id": "c859",
+          "title": {
+            "la": "Tit. XIII. De Vespertina et matutina."
+          }
+        },
+        {
+          "id": "c860",
+          "title": {
+            "la": "Tit. XIV. De hora completorii."
+          }
+        },
+        {
+          "id": "c861",
+          "title": {
+            "la": "Tit. XV. De vigiliis nocturnis canonicis."
+          }
+        },
+        {
+          "id": "c862",
+          "title": {
+            "la": "Tit. XVI. De oratione ante lectiones."
+          }
+        },
+        {
+          "id": "c863",
+          "title": {
+            "la": "Tit. XVII. De benedictione ab lecturo ante lectionem petenda."
+          }
+        },
+        {
+          "id": "c864",
+          "title": {
+            "la": "Tit. XVIII. De campanarum significatione."
+          }
+        },
+        {
+          "id": "c865",
+          "title": {
+            "la": "Tit. XIX. De Dominicis Adventus et earum officiis."
+          }
+        },
+        {
+          "id": "c866",
+          "title": {
+            "la": "Tit. XX. De primae Dominicae Adventus officio."
+          }
+        },
+        {
+          "id": "c867",
+          "title": {
+            "la": "Tit. XXI. De secundae Dominicae Adventus officio."
+          }
+        },
+        {
+          "id": "c868",
+          "title": {
+            "la": "Tit. XXII. De duabus missis in nocte Natalis Domini et de una in die."
+          }
+        },
+        {
+          "id": "c869",
+          "title": {
+            "la": "Tit. XXIII. Quod Alleluia, in Septuagesima non canatur, et quare."
+          }
+        },
+        {
+          "id": "c870",
+          "title": {
+            "la": "Tit. XXIV. De Septuagesimae ratione et paschali laetitia."
+          }
+        },
+        {
+          "id": "c871",
+          "title": {
+            "la": "Tit. XXV. De Sexagesimae officio."
+          }
+        },
+        {
+          "id": "c872",
+          "title": {
+            "la": "Tit. XXVI. De Quinquagesimae officio."
+          }
+        },
+        {
+          "id": "c873",
+          "title": {
+            "la": "Tit. XXVII. De quadragesimae officio"
+          }
+        },
+        {
+          "id": "c874",
+          "title": {
+            "la": "Tit. XXVIII. De die cinerum in Capite jejunii"
+          }
+        },
+        {
+          "id": "c875",
+          "title": {
+            "la": "Tit. XXIX. De poenitentia incipienda eadem die."
+          }
+        },
+        {
+          "id": "c876",
+          "title": {
+            "la": "Tit. XXX. De secundae dominicae officio vacante:"
+          }
+        },
+        {
+          "id": "c877",
+          "title": {
+            "la": "Tit. XXXI. De Dominica tertia quadragesimae."
+          }
+        },
+        {
+          "id": "c878",
+          "title": {
+            "la": "Tit. XXXII. De Dominica « Laetare, » quae est quarta."
+          }
+        },
+        {
+          "id": "c879",
+          "title": {
+            "la": "Tit. XXXIII. De Dominica in Passione."
+          }
+        },
+        {
+          "id": "c880",
+          "title": {
+            "la": "Tit. XXXIV. De Sabbato in ramis Palmarum."
+          }
+        },
+        {
+          "id": "c881",
+          "title": {
+            "la": "Tit. XXXV. De Dominica in ramis Palmarum."
+          }
+        },
+        {
+          "id": "c882",
+          "title": {
+            "la": "Tit. XXXVI. De feria tertia post ramos Palmarum."
+          }
+        },
+        {
+          "id": "c883",
+          "title": {
+            "la": "Tit. XXXVII. De officio in Coena Domini, praecipue de chrismate tunc instituto."
+          }
+        },
+        {
+          "id": "c884",
+          "title": {
+            "la": "Tit. XXXVIII. De mysterio in lotione pedum."
+          }
+        },
+        {
+          "id": "c885",
+          "title": {
+            "la": "Tit. XXXIX. De duplici mandato perficiendo."
+          }
+        },
+        {
+          "id": "c886",
+          "title": {
+            "la": "Tit. XL. De officio trium noctium, videlicet in coena Domini, in Parasceve, et sabbato sequenti."
+          }
+        },
+        {
+          "id": "c887",
+          "title": {
+            "la": "Tit. XLI. De ignis exstincti mystica recuperatione per dictum tempus."
+          }
+        },
+        {
+          "id": "c888",
+          "title": {
+            "la": "Tit. XLII. De incrementis tristitiae Ecclesiae, immi nente Dominica passione."
+          }
+        },
+        {
+          "id": "c889",
+          "title": {
+            "la": "Tit. XLIII. De Parasceve quare sit dolore potius quam gaudio celebranda; et de poenitentia tunc agenda, et de Passione secundum Joannem."
+          }
+        },
+        {
+          "id": "c890",
+          "title": {
+            "la": "Tit. XLIV. De gustato vino felle misto."
+          }
+        },
+        {
+          "id": "c891",
+          "title": {
+            "la": "Tit. XLV. De chlamide purpurea seu coccinea."
+          }
+        },
+        {
+          "id": "c892",
+          "title": {
+            "la": "Tit. XLVI. De arundine Christo in manum data"
+          }
+        },
+        {
+          "id": "c893",
+          "title": {
+            "la": "Tit. XLVII. De spinea corona et colaphis, et quod Domini non franguntur crura et de sanguine et aqua de latere ejus profluentibus."
+          }
+        },
+        {
+          "id": "c894",
+          "title": {
+            "la": "Tit. XLVIII. De precibus quae tunc pro omnibus fiunt."
+          }
+        },
+        {
+          "id": "c895",
+          "title": {
+            "la": "Tit. XLIX. De triplici aqua, quae in Christo profluxit lacrymante, sudante et jam mortuo."
+          }
+        },
+        {
+          "id": "c896",
+          "title": {
+            "la": "Tit. L. De triplici dedicatione templi."
+          }
+        },
+        {
+          "id": "c897",
+          "title": {
+            "la": "Tit. LI. De quinque in quibus consistit templi dedicatio moraliter explicatis."
+          }
+        },
+        {
+          "id": "c898",
+          "title": {
+            "la": "Tit. LII. De lotione pedum in coena: Aliter."
+          }
+        },
+        {
+          "id": "c899",
+          "title": {
+            "la": "Tit. LIII. De purificatione triplici, et sex hydriis."
+          }
+        },
+        {
+          "id": "c900",
+          "title": {
+            "la": "Tit. LIV. De quadruplici purificatione per Christum instituta, in die Purificationis."
+          }
+        },
+        {
+          "id": "c901",
+          "title": {
+            "la": "Tit. LV. De tribus tabernaculis, de quibus Petrus: « Faciamus hic tria tabernacula. »"
+          }
+        },
+        {
+          "id": "c902",
+          "title": {
+            "la": "Tit. LVI. De passionis Dominicae voluntarie susceptae et crucis sublimitate et fructu."
+          }
+        },
+        {
+          "id": "c903",
+          "title": {
+            "la": "Tit. LVII. De sindone munda et corona spinea in passione Dominica."
+          }
+        },
+        {
+          "id": "c904",
+          "title": {
+            "la": "Tit. LVIII. De obedientia, patientia, et perseverantia in passione Christi designatis."
+          }
+        },
+        {
+          "id": "c905",
+          "title": {
+            "la": "Tit. LIX. De triplici voluntate signanda in tristitia Christi usque ad mortem."
+          }
+        },
+        {
+          "id": "c906",
+          "title": {
+            "la": "Tit. LX. Quare prophetiae et Epistolae in officio divino dispari voce terminentur."
+          }
+        },
+        {
+          "id": "c907",
+          "title": {
+            "la": "Tit. LXI. De tribus quae Dominum mori pro nobis voluntaria quadam coactione compulerunt."
+          }
+        },
+        {
+          "id": "c908",
+          "title": {
+            "la": "Tit. LXII. De quadruplici traditione Christi."
+          }
+        },
+        {
+          "id": "c909",
+          "title": {
+            "la": "Tit. LXIII. De triplici effusione sanguinis Christi."
+          }
+        },
+        {
+          "id": "c910",
+          "title": {
+            "la": "Tit. LXIV. De varia Christi apparitione variis facta, et in locis et modis; et de nostra apparitione."
+          }
+        }
+      ]
+    }
+  ]
+}
