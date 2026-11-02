@@ -1,0 +1,338 @@
+{
+  "id": "denzinger-enchiridion",
+  "cover": "quarter",
+  "name": {
+    "la": "Enchiridion symbolorum, definitionum et declarationum de rebus fidei et morum",
+    "en-US": "Enchiridion symbolorum: Handbook of Creeds, Definitions and Declarations on Faith and Morals",
+    "pt-BR": "Enchiridion symbolorum: Compêndio dos símbolos, definições e declarações sobre a fé e os costumes"
+  },
+  "author": {
+    "la": "Henricus Denzinger",
+    "en-US": "Heinrich Denzinger",
+    "pt-BR": "Heinrich Denzinger"
+  },
+  "description": {
+    "la": "Symbola, definitiones et declarationes Ecclesiae de rebus fidei et morum, secundum numerationem Denzingerianam (D), editio undecima, Bannwart, 1911.",
+    "en-US": "Heinrich Denzinger's handbook of the Church's creeds, conciliar definitions, papal and curial doctrinal acts and condemned propositions, from the early creeds to Pius X, in the numbering of the eleventh edition (Clemens Bannwart, Freiburg 1911) that the literature cites as D. Each paragraph carries its D number. Latin only; the entries are in Denzinger's order, in chapters of about forty numbers.",
+    "pt-BR": "O manual de Heinrich Denzinger com os símbolos da fé, as definições conciliares, os atos doutrinais pontifícios e curiais e as proposições condenadas, dos primeiros credos a Pio X, na numeração da undécima edição (Bannwart, 1911) que a literatura cita como D. Cada parágrafo traz seu número D. Apenas em latim."
+  },
+  "composed": "1854–1911",
+  "languages": [
+    "la"
+  ],
+  "work": "denzinger/enchiridion-symbolorum",
+  "editions": {
+    "la": {
+      "editor": "Clemens Bannwart, S.J. (11th ed.); text of the entries from catho.org's Latin Denzinger",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/enchiridionsymbo00denz",
+      "edition": "H. Denzinger, Enchiridion symbolorum, definitionum et declarationum de rebus fidei et morum, editio undecima, quam paravit Clemens Bannwart S.J., Freiburg: Herder, 1911. archive.org OCR and DjVu XML (word boxes).",
+      "description": "Determines the selection, the D numbers and the section headings. The OCR was read by box geometry (main-text lines against the small print of footnotes and apparatus, margin numbers against the text block) and the longest monotone run of D numbers was taken: it confirms 1,814 of the 2,147 numbers. The Greek columns, the apparatus of sources and the footnotes of the edition are not reproduced.",
+      "tier": "A",
+      "tierEvidence": "Published 1911 in Freiburg (before 1931); Bannwart died in 1936 and the documents are public."
+    },
+    {
+      "language": "la",
+      "url": "http://catho.org/9.php?d=g1",
+      "edition": "catho.org, Denzinger (latin): the Latin text of the Enchiridion with DS and old D numbers (also on Documenta Catholica Omnia as 1957 Denzinger Enchiridion Symbolorum LT.doc).",
+      "description": "The clean Latin text of each entry, matched to the 1911 D number by that number and confirmed against the OCR by word overlap (where the two disagree the catho text is taken, since the OCR has li/ll, Greek-column and apparatus damage). The catho text follows the later (Schönmetzer) recension: it keeps a few editorial parentheses, ellipses and source marks such as '(c. 7, n. 1)' and the headings it adds are not reproduced. Entries whose D number the OCR could not confirm (275) are included from catho alone; entries with no catho counterpart and a readable OCR (132) come from the OCR (OCR slips remain). D 1–47 (the early creeds with their variant apparatus) and a few dozen ambiguous numbers are not included.",
+      "tier": "B",
+      "tierEvidence": "The documents are public domain; the digital text is catho.org's, with no licence statement on the site; its DS selection derives from Herder's post-1963 edition."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "D 48–92"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "D 93–133"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "D 134–181"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "D 182–223"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "D 224–264"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "D 265–309"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "D 310–351"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "D 353–402"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "D 403–442"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "D 443–488"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "D 489–535"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "D 536–580"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "D 581–632"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "D 633–674"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "D 675–718"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "D 719–762"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "D 765–812"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "D 813–854"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "D 855–894"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "D 895–934"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "D 935–976"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "D 977–1018"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "D 1019–1061"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "D 1062–1106"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "D 1107–1163"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "D 1164–1212"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "D 1214–1255"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "D 1256–1296"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "D 1297–1342"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "la": "D 1343–1387"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "la": "D 1388–1433"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "la": "D 1435–1476"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "la": "D 1477–1518"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "la": "D 1519–1560"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "la": "D 1561–1602"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "la": "D 1603–1645"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "la": "D 1646–1689"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "la": "D 1690–1751"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "la": "D 1752–1798"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "la": "D 1799–1839"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "la": "D 1840–1881"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "la": "D 1882–1927"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "la": "D 1928–1971"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "la": "D 1972–2014"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "la": "D 2015–2061"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "la": "D 2063–2102"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "la": "D 2103–2142"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "la": "D 2143–2146"
+      }
+    }
+  ]
+}
