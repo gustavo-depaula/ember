@@ -18,13 +18,18 @@
   },
   "composed": "1688",
   "languages": [
-    "fr-FR"
+    "fr-FR",
+    "en-US"
   ],
   "work": "bossuet/histoire-des-variations",
   "editions": {
     "fr-FR": {
       "editor": "Abbé F. Lachat",
       "year": 1864
+    },
+    "en-US": {
+      "translator": "Anonymous (Dublin: Coyne)",
+      "year": 1836
     }
   },
   "sources": [
@@ -35,6 +40,14 @@
       "description": "Typed transcription of volume XIV, pages 001-015, and volume XV, pages 002-004. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
       "tier": "A",
       "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/historyofvariati01boss",
+      "edition": "The History of the Variations of the Protestant Churches, anonymous translation, 2 vols., Dublin: Richard Coyne, 1836 (archive.org historyofvariati01boss, historyofvariati02boss; OCR text, cleaned)",
+      "description": "Books I-XV and the preface; the French remarques historiques and the additions to book XIV have no English counterpart.",
+      "tier": "A",
+      "tierEvidence": "Published 1836; translator anonymous."
     }
   ],
   "toc": [
@@ -47,97 +60,113 @@
     {
       "id": "preface",
       "title": {
-        "fr-FR": "Préface"
+        "fr-FR": "Préface",
+        "en-US": "Preface"
       }
     },
     {
       "id": "livre-01",
       "title": {
-        "fr-FR": "Livre premier. Depuis l’an 1517 jusqu'à l’an 1520"
+        "fr-FR": "Livre premier. Depuis l’an 1517 jusqu'à l’an 1520",
+        "en-US": "Book I. From the year 1517 to the year 1520"
       }
     },
     {
       "id": "livre-02",
       "title": {
-        "fr-FR": "Livre II. Depuis 1520 jusqu'à 1529"
+        "fr-FR": "Livre II. Depuis 1520 jusqu'à 1529",
+        "en-US": "Book II. From the year 1520 to 1529"
       }
     },
     {
       "id": "livre-03",
       "title": {
-        "fr-FR": "Livre III. En l’an 1530"
+        "fr-FR": "Livre III. En l’an 1530",
+        "en-US": "Book III. From the year 1529 to the year 1530"
       }
     },
     {
       "id": "livre-04",
       "title": {
-        "fr-FR": "Livre IV. Depuis 1530 jusqu'à 1537"
+        "fr-FR": "Livre IV. Depuis 1530 jusqu'à 1537",
+        "en-US": "Book IV. From the year 1530 to 1537"
       }
     },
     {
       "id": "livre-05",
       "title": {
-        "fr-FR": "Livre V. Réflexions générales sur les agitations de Mélanchthon, et sur l'état de la Réforme"
+        "fr-FR": "Livre V. Réflexions générales sur les agitations de Mélanchthon, et sur l'état de la Réforme",
+        "en-US": "Book V. General Reflections on the agitations of Melancthon, and the State of the Reformation"
       }
     },
     {
       "id": "livre-06",
       "title": {
-        "fr-FR": "Livre VI. Depuis 1537 jusqu'à l’an 1546"
+        "fr-FR": "Livre VI. Depuis 1537 jusqu'à l’an 1546",
+        "en-US": "Book VI. From the year 1537 to the year 1546"
       }
     },
     {
       "id": "livre-07",
       "title": {
-        "fr-FR": "Livre VII. Récit des variations et de la Réforme d’Angleterre sous Henri VIII (1529-1547) et sous Édouard VI (1547-1553), avec la suite de l’histoire de Cranmer jusqu’à sa mort en 1556"
+        "fr-FR": "Livre VII. Récit des variations et de la Réforme d’Angleterre sous Henri VIII (1529-1547) et sous Édouard VI (1547-1553), avec la suite de l’histoire de Cranmer jusqu’à sa mort en 1556",
+        "en-US": "Book VII"
       }
     },
     {
       "id": "livre-08",
       "title": {
-        "fr-FR": "Livre VIII. Depuis 1546 jusqu'à l'an 1561"
+        "fr-FR": "Livre VIII. Depuis 1546 jusqu'à l'an 1561",
+        "en-US": "Book VIII. From the year 1546 to the year 1561"
       }
     },
     {
       "id": "livre-09",
       "title": {
-        "fr-FR": "Livre IX. En l’an 1561. Doctrine et caractère de Calvin"
+        "fr-FR": "Livre IX. En l’an 1561. Doctrine et caractère de Calvin",
+        "en-US": "Book IX"
       }
     },
     {
       "id": "livre-10",
       "title": {
-        "fr-FR": "Livre X. Depuis 1558 jusqu'à 1570"
+        "fr-FR": "Livre X. Depuis 1558 jusqu'à 1570",
+        "en-US": "Book X. From the Year 1553 to 1570. J"
       }
     },
     {
       "id": "livre-11",
       "title": {
-        "fr-FR": "Livre XI. Histoire abrégée des albigeois, des vaudois, des vicléfites et des hussites"
+        "fr-FR": "Livre XI. Histoire abrégée des albigeois, des vaudois, des vicléfites et des hussites",
+        "en-US": "Book XI"
       }
     },
     {
       "id": "livre-12",
       "title": {
-        "fr-FR": "Livre XII. Depuis 1571 jusqu'à 1579, et depuis 1603 jusqu'à 1615"
+        "fr-FR": "Livre XII. Depuis 1571 jusqu'à 1579, et depuis 1603 jusqu'à 1615",
+        "en-US": "Book XII"
       }
     },
     {
       "id": "livre-13",
       "title": {
-        "fr-FR": "Livre XIII. Doctrine sur l'Antéchrist, et variations sur cette matière depuis Luther jusqu'à nous"
+        "fr-FR": "Livre XIII. Doctrine sur l'Antéchrist, et variations sur cette matière depuis Luther jusqu'à nous",
+        "en-US": "Book XIII"
       }
     },
     {
       "id": "livre-14",
       "title": {
-        "fr-FR": "Livre XIV. Depuis 1601 et dans tout le reste du siècle où nous sommes"
+        "fr-FR": "Livre XIV. Depuis 1601 et dans tout le reste du siècle où nous sommes",
+        "en-US": "Book XIV. Fi'om the Year IGOl, to that part of the Seventeenth Century, wherein the Author wrote and conchided his History"
       }
     },
     {
       "id": "livre-15",
       "title": {
-        "fr-FR": "Livre XV. Variations sur l'article du Symbole: Je crois l'Eglise catholique. Fermeté inébranlable de l'Eglise romaine"
+        "fr-FR": "Livre XV. Variations sur l'article du Symbole: Je crois l'Eglise catholique. Fermeté inébranlable de l'Eglise romaine",
+        "en-US": "Book XV. Variations in the Aiticlcs of the Creed: I believe the Holy Catholic Church.. The unshaken steadiness of tiie Church of Rome"
       }
     },
     {
