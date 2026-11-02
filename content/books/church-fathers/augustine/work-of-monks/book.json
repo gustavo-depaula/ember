@@ -2,18 +2,29 @@
   "id": "augustine-work-of-monks",
   "cover": "quarter",
   "name": {
+    "la": "De opere monachorum",
     "en-US": "On the Work of Monks",
     "pt-BR": "Sobre o Trabalho dos Monges"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo",
     "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/lavoro_monaci/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages lavoro_monaci of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1314.htm",
@@ -24,6 +35,7 @@
     {
       "id": "ch001",
       "title": {
+        "la": "De opere monachorum",
         "en-US": "On the Work of Monks",
         "pt-BR": "Sobre o Trabalho dos Monges"
       }
@@ -31,6 +43,23 @@
   ],
   "arrived": {
     "en-US": "2026-06-04",
-    "pt-BR": "2026-10-04"
+    "pt-BR": "2026-10-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/de-opere-monachorum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "H",
+      "year": 1887
+    },
+    "pt-BR": {
+      "translator": "Ember",
+      "year": 2026,
+      "from": "en-US"
+    }
   }
 }
