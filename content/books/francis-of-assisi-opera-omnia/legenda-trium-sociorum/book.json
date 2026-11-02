@@ -1,0 +1,155 @@
+{
+  "id": "three-companions-legenda",
+  "cover": "classic",
+  "name": {
+    "la": "Legenda trium sociorum",
+    "en-US": "The Legend of the Three Companions",
+    "pt-BR": "A Legenda dos Três Companheiros"
+  },
+  "author": {
+    "la": "Leo, Rufinus, Angelus (traditur)",
+    "en-US": "The Three Companions (Leo, Rufino and Angelo)",
+    "pt-BR": "Os Três Companheiros (Leão, Rufino e Ângelo)"
+  },
+  "description": {
+    "la": "Legenda trium sociorum (1246), epistola Graecii data et XVIII capita de vita et conversione sancti Francisci, a fratribus Leone, Rufino et Angelo, ut traditur, scripta.",
+    "en-US": "The Legend of the Three Companions (1246): the dedicatory letter from Greccio and eighteen chapters on the life and conversion of St. Francis, traditionally by Brothers Leo, Rufino and Angelo, in Latin. The English of E. Gurney Salter (1902) is OCR only and is not imported.",
+    "pt-BR": "A Legenda dos Três Companheiros (1246): a carta-dedicatória de Greccio e dezoito capítulos sobre a vida e a conversão de São Francisco."
+  },
+  "composed": "1246",
+  "languages": [
+    "la"
+  ],
+  "work": "three-companions/legenda-trium-sociorum",
+  "editions": {
+    "la": {
+      "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_trecompagni_lat.html",
+      "edition": "Legenda trium sociorum, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "Rubric, letter and 18 chapters. Latin only.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "la": "[Epistola]"
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "la": "Caput I - De nativitate eius et de vanitate et curiositate et prodigalitate ipsius et qualiter ex his pervenit ad largitatem et caritatem circa pauperes."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "la": "Caput II - Qualiter captivatus fuit Perusii, et de duabus visionibus quas habuit volens fieri miles."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "la": "Caput III - Qualiter Dominus primo visitavit cor eius mirabili dulcedine, virtute cuius coepit proficere per contemptum sui et omnium vanitatum atque per orationem et eleemosynas et amorem paupertatis."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "la": "Caput IV - Qualiter a leprosis coepit vincere seipsum et sentire dulcedinem in his quae prius erant sibi amara."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "la": "Caput V - De prima allocutione Crucifixi ad ipsum et qualiter ex tunc portavit in corde passionem Christi usque ad mortem."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "la": "Caput VI - Qualiter primo fugit persecutiones patris et propinquorum, stando cum sacerdote Sancti Damiani in cuius fenestra proiecerat pecuniam."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "la": "Caput VII - De maximo labore et afflictione ipsius pro reparatione ecclesiae Sancti Damiani et qualiter coepit vincere seipsum eundo pro eleemosyna."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "la": "Caput VIII - Qualiter auditis et intellectis consiliis Christi in Evangelio, statim mutavit habitum exteriorem et induit novum habitum perfectionis interius et exterius."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "la": "Caput IX - De modo vocationis fratris Sylvestri et de visione quam habuit ante ingressum ordinis."
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "la": "Caput X - Qualiter praedixit sex sociis suis omnia quae ventura erant illis euntibus per mundum, exhortans eos ad patientiam."
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "la": "Caput XI - De receptione aliorum quatuor fratrum et de ardentissima caritate: quam habebant ad invicem primi fratres, et de sollicitudine laborandi et orandi, et de perfecta oboedientia ipsorum."
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "la": "Caput XII - Qualiter beatus Franciscus cum undecim sociis ivit ad curiam papae ut notificaret ei suum propositum et faceret confirmari regulam quam scripserat."
+      }
+    },
+    {
+      "id": "cap-014",
+      "title": {
+        "la": "Caput XIII - De efficacia praedicationis ipsius et de primo loco quem habuit et qualiter fratres stabant ibi et quomodo inde recesserunt."
+      }
+    },
+    {
+      "id": "cap-015",
+      "title": {
+        "la": "Caput XIV - De capitulo quod fiebat bis in anno in loco Sanctae Mariae de Portiuncula."
+      }
+    },
+    {
+      "id": "cap-016",
+      "title": {
+        "la": "Caput XV - De morte domini Iohannis primi protectoris et de assumptione domini Hugolini Ostiensis in patrem et protectorem Ordinis."
+      }
+    },
+    {
+      "id": "cap-017",
+      "title": {
+        "la": "Caput XVI - De electione primorum ministrorum et qualiter fuerunt missi per mundum."
+      }
+    },
+    {
+      "id": "cap-018",
+      "title": {
+        "la": "Caput XVII - De sacratissima morte beati Francisci et qualiter per biennium ante receperat stigmata Domini nostri Iesu Christi."
+      }
+    },
+    {
+      "id": "cap-019",
+      "title": {
+        "la": "Caput XVIII - De canonizatione ipsius."
+      }
+    }
+  ]
+}
