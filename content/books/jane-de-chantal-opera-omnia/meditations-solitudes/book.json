@@ -1,0 +1,307 @@
+{
+  "id": "chantal-meditations-solitudes",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Méditations pour les solitudes annuelles",
+    "en-US": "Meditations for Retreats",
+    "pt-BR": "Meditações para os retiros anuais"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "Trente-trois méditations pour la retraite annuelle des Sœurs de la Visitation, tirées des écrits de saint François de Sales et disposées par sainte Jeanne-Françoise de Chantal en trois points, avec des affections ; précédées de son avis aux Sœurs, et suivies de sa lettre à la Mère de Châtel sur les solitudes et de l’examen pour les confessions annuelles. Terminées à Annecy le 15 août 1637.",
+    "en-US": "Thirty-three meditations for the annual retreat of the Sisters of the Visitation, taken from the writings of St. Francis de Sales and arranged by St. Jane Frances de Chantal in three points with affections; preceded by her note to the Sisters and followed by her letter to Mother de Châtel on retreats and the examen for annual confessions. Completed at Annecy on 15 August 1637.",
+    "pt-BR": "Trinta e três meditações para o retiro anual das Irmãs da Visitação, tiradas dos escritos de são Francisco de Sales e dispostas por santa Joana Francisca de Chantal em três pontos, com afetos; precedidas do seu aviso às Irmãs e seguidas da carta à Madre de Châtel sobre os retiros e do exame para as confissões anuais."
+  },
+  "composed": "1637",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "jane-de-chantal/meditations-solitudes",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1876
+    },
+    "en-US": {
+      "translator": "A Visitandine of Baltimore",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_3",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1876, tome III (Œuvres diverses II), pp. 1–92 (reproducing the 1642 edition). Archive.org OCR of the Sainte-Geneviève copy.",
+      "description": "OCR cleaned by script. The points are marked; the \"affections\" stay inside the points. The meditations are substantially Francis de Sales’s text, arranged by Jane de Chantal.",
+      "tier": "A",
+      "tierEvidence": "Plon 1876; text of 1637."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/MeditationsForRetreats",
+      "edition": "Meditations for Retreats, taken from the writings of St. Francis de Sales, arranged by St. Jane Frances Fremiot de Chantal, from the French by a Visitandine of Baltimore, Benziger Brothers, New York, 1900. Google scan, archive.org OCR.",
+      "description": "OCR cleaned by script; the Benziger Brothers’ catalogue pages at the end are left out. The English follows the French in chapters 1–33, the letter and the examen.",
+      "tier": "A",
+      "tierEvidence": "Published New York 1900."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avis",
+      "title": {
+        "fr-FR": "Avis de notre très-digne Mère sur les méditations de la solitude",
+        "en-US": "Mother de Chantal to the Sisters of the Visitation"
+      }
+    },
+    {
+      "id": "med-01",
+      "title": {
+        "fr-FR": "Première méditation. De la création",
+        "en-US": "First meditation. The creation"
+      }
+    },
+    {
+      "id": "med-02",
+      "title": {
+        "fr-FR": "Deuxième méditation. De la fin pour laquelle nous sommes créés",
+        "en-US": "Second meditation. The end for which we were created"
+      }
+    },
+    {
+      "id": "med-03",
+      "title": {
+        "fr-FR": "Troisième méditation. Des bénéfices",
+        "en-US": "Third meditation. The benefits of God"
+      }
+    },
+    {
+      "id": "med-04",
+      "title": {
+        "fr-FR": "Quatrième méditation. Des péchés",
+        "en-US": "Fourth meditation. Sin"
+      }
+    },
+    {
+      "id": "med-05",
+      "title": {
+        "fr-FR": "Cinquième méditation. De la mort",
+        "en-US": "Fifth meditation. Death"
+      }
+    },
+    {
+      "id": "med-06",
+      "title": {
+        "fr-FR": "Sixième méditation. Du jugement",
+        "en-US": "Sixth meditation. Judgment"
+      }
+    },
+    {
+      "id": "med-07",
+      "title": {
+        "fr-FR": "Septième méditation. De l’enfer",
+        "en-US": "Seventh meditation. Hell"
+      }
+    },
+    {
+      "id": "med-08",
+      "title": {
+        "fr-FR": "Huitième méditation. Du paradis",
+        "en-US": "Eighth meditation. Heaven"
+      }
+    },
+    {
+      "id": "med-09",
+      "title": {
+        "fr-FR": "Neuvième méditation. De la pauvreté religieuse",
+        "en-US": "Ninth meditation. Religious poverty"
+      }
+    },
+    {
+      "id": "med-10",
+      "title": {
+        "fr-FR": "Dixième méditation. De l’obéissance",
+        "en-US": "Tenth meditation. Obedience"
+      }
+    },
+    {
+      "id": "med-11",
+      "title": {
+        "fr-FR": "Onzième méditation. De la chasteté",
+        "en-US": "Eleventh meditation. Chastity"
+      }
+    },
+    {
+      "id": "med-12",
+      "title": {
+        "fr-FR": "Douzième méditation. Pour nous aider à connaître notre misère et faiblesse",
+        "en-US": "Twelfth meditation. To assist us to know our misery and weakness"
+      }
+    },
+    {
+      "id": "med-13",
+      "title": {
+        "fr-FR": "Treizième méditation. De la soumission que le Sauveur pratique en sa divine enfance",
+        "en-US": "Thirteenth meditation. The submission that Our Saviour practised in His divine infancy"
+      }
+    },
+    {
+      "id": "med-14",
+      "title": {
+        "fr-FR": "Quatorzième méditation. Sur la grâce incomparable que nous avons d’être filles de la très-sainte Église",
+        "en-US": "Fourteenth meditation. The incomparable grace that we possess in being daughters of Holy Church"
+      }
+    },
+    {
+      "id": "med-15",
+      "title": {
+        "fr-FR": "Quinzième méditation. Du bénéfice singulier de la vocation religieuse",
+        "en-US": "Fifteenth meditation. The particular benefit of the religious vocation"
+      }
+    },
+    {
+      "id": "med-16",
+      "title": {
+        "fr-FR": "Seizième méditation. Que la vie religieuse nous oblige étroitement à la suite du Sauveur",
+        "en-US": "Sixteenth meditation. The obligation imposed by the religious life of strictly imitating Our Saviour"
+      }
+    },
+    {
+      "id": "med-17",
+      "title": {
+        "fr-FR": "Dix-septième méditation. Des leçons principales que le Sauveur apprend à l’âme religieuse",
+        "en-US": "Seventeenth meditation. The principal lessons that Our Saviour teaches the religious soul"
+      }
+    },
+    {
+      "id": "med-18",
+      "title": {
+        "fr-FR": "Dix-huitième méditation. Par quel moyen l’âme religieuse ravit le Cœur de son Bien-Aimé",
+        "en-US": "Eighteenth meditation. The means by which the religious soul ravishes the Heart of her Beloved"
+      }
+    },
+    {
+      "id": "med-19",
+      "title": {
+        "fr-FR": "Dix-neuvième méditation. De l’amour du prochain",
+        "en-US": "Nineteenth meditation. The love of our neighbor"
+      }
+    },
+    {
+      "id": "med-20",
+      "title": {
+        "fr-FR": "Vingtième méditation. Du jardin des Oliviers",
+        "en-US": "Twentieth meditation. The Garden of Olives"
+      }
+    },
+    {
+      "id": "med-21",
+      "title": {
+        "fr-FR": "Vingt et unième méditation. De l’amour du Sauveur parmi ses travaux",
+        "en-US": "Twenty-first meditation. The love of Our Saviour in the midst of His labors"
+      }
+    },
+    {
+      "id": "med-22",
+      "title": {
+        "fr-FR": "Vingt-deuxième méditation. Du Sauveur sur la Croix",
+        "en-US": "Twenty-second meditation. Our Saviour on the Cross"
+      }
+    },
+    {
+      "id": "med-23",
+      "title": {
+        "fr-FR": "Vingt-troisième méditation. Des cinq premières paroles que Notre-Seigneur dit en croix",
+        "en-US": "Twenty-third meditation. The first five words that Our Saviour spoke on the Cross"
+      }
+    },
+    {
+      "id": "med-24",
+      "title": {
+        "fr-FR": "Vingt-quatrième méditation. Du séjour de la très-sainte Vierge au pied de la Croix",
+        "en-US": "Twenty-fourth meditation. The Blessed Virgin standing at the foot of the Cross"
+      }
+    },
+    {
+      "id": "med-25",
+      "title": {
+        "fr-FR": "Vingt-cinquième méditation. Du trépas du Sauveur en la Croix",
+        "en-US": "Twenty-fifth meditation. The death of Our Saviour on the Cross"
+      }
+    },
+    {
+      "id": "med-26",
+      "title": {
+        "fr-FR": "Vingt-sixième méditation. Que la joie et le bonheur de l’âme dévote est en la Croix",
+        "en-US": "Twenty-sixth meditation. The joy and happiness that the devout soul experiences in the Cross"
+      }
+    },
+    {
+      "id": "med-27",
+      "title": {
+        "fr-FR": "Vingt-septième méditation. De la résurrection du Sauveur",
+        "en-US": "Twenty-seventh meditation. The Resurrection of Our Lord"
+      }
+    },
+    {
+      "id": "med-28",
+      "title": {
+        "fr-FR": "Vingt-huitième méditation. De l’ascension de Notre-Seigneur",
+        "en-US": "Twenty-eighth meditation. The Ascension of Our Lord"
+      }
+    },
+    {
+      "id": "med-29",
+      "title": {
+        "fr-FR": "Vingt-neuvième méditation. De la descente du Saint-Esprit",
+        "en-US": "Twenty-ninth meditation. The descent of the Holy Ghost"
+      }
+    },
+    {
+      "id": "med-30",
+      "title": {
+        "fr-FR": "Trentième méditation. De la présence de Dieu",
+        "en-US": "Thirtieth meditation. The presence of God"
+      }
+    },
+    {
+      "id": "med-31",
+      "title": {
+        "fr-FR": "Trente et unième méditation. De la providence de Dieu",
+        "en-US": "Thirty-first meditation. The providence of God"
+      }
+    },
+    {
+      "id": "med-32",
+      "title": {
+        "fr-FR": "Trente-deuxième méditation. De la volonté de Dieu",
+        "en-US": "Thirty-second meditation. The will of God"
+      }
+    },
+    {
+      "id": "med-33",
+      "title": {
+        "fr-FR": "Trente-troisième méditation. Du dépouillement, et conclusion de la solitude",
+        "en-US": "Thirty-third meditation. Detachment, and the conclusion of the retreat"
+      }
+    },
+    {
+      "id": "lettre-solitudes",
+      "title": {
+        "fr-FR": "Lettre de notre très-digne Mère Jeanne-Françoise Frémyot de Chantal à la Mère de Châtel, pour les solitudes",
+        "en-US": "Letter of Mother Jane Frances Fremiot de Chantal to Mother de Châtel on annual retreats"
+      }
+    },
+    {
+      "id": "examen",
+      "title": {
+        "fr-FR": "Examen pour aider à faire les confessions annuelles",
+        "en-US": "Examen for annual confessions"
+      }
+    }
+  ]
+}

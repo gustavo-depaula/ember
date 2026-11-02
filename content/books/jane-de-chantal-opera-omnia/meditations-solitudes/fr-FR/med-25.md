@@ -1,0 +1,19 @@
+# Vingt-cinquième méditation. Du trépas du Sauveur en la Croix
+
+Considérez, que ce fut sur la croix que le Fils Éternel donna le baiser de l'amour à son Père céleste en faveur des humains : ce fut alors que le Père sentit une suave odeur sortir des vêtements de son Fils, c'est-à-dire de sa sainte humanité. Ah ! dit-il, l'odeur de mon Fils ressemble à l'odeur d'un champ Jleuri et abondant : oui; car }èsvs, Jleur des champs, ayant été pressé sous le pressoir de la croix, donna une odeur qui réjouit Dieu, et ravit les Anges, et sauva les hommes.
+
+**Premier point.**
+
+Ainsi le Sauveur se mit à dire : « 'fout est consommé ,■:■> la Rédemption du monde est faite : néanmoins, a mon Père, je remets mon esprit entre vos mains; ^^ je vous ai déjà remis mon corps, mes sueurs, mon sang; il ne me reste plus que l'esprit qui anime ce corps tout déchiré : mon Père, je le remets entre vos mains, faites-en ce qu'il vous plaira; quoique tout soit accompli, s'il vous plaît qu'il demeure encore en ce corps, ou bien que je l'expire, mon Père, je le remets entre vos mains.
+
+**Deuxième point.**
+
+Considérez, que le doux Jésus, voyant que son Père voulait qu'il trépassât, la mort ne pouvant jamais entrer dans celui qui tient les clefs de la vie et de la mort, l'amour ouvrit la porte a la mort, afln qu'elle allât saccager ce divin corps : et Jésus ayant incliné son chef pour donner le baiser de paix à sa trèssainte Mère et à son Eglise naissante, il expira par une élection d'amour; et alors, ô Dieu! les sépulcres s'ouvrirent, la terre trembla, et le voile du Temple se fendit, toutes choses rendant hommage au triomphateur de la mort.
+
+Première affection. — Jésus de Nazareth, Roi des Juifs, -ah! que la douce et divine liqueur qui sort de votre très-saint corps est précieuse: hélas! vous voilà tout seul, personne ne vous aide à tourner ce pressoir très-pesant ; aussi votre sacré corps, divin vêtement de votre âme, est rendu tout roiujc de son propre sanfj , parce que vous êtes au jour de vos vendanges : ah! Père Éternel, regardez en la face de votre Chuist, et ayez pitié de ses frères! Doux Jésus, pressé, foulé et navré de toutes parts, quelle confusion de ne vouloir point que l'on m'entame par la mortification! Et, néanmoins, je ne jetterai jamais la douce liqueur des vertus que par ce moyen. âmes religieuses! ayez honte de vous dire membres de Jésus-Christ, si vous ne voulez souffrir avec Jésus-Christ; car c'est une imprudence trop grande de voir des membres délicats et sensuels, sous un chef couronné d'épines.
+
+Deuxième affection. — mon cher Jésus! je sais que les tourments, si griefs qu'ils eussent pu faire mourir tout un monde, n'étaient néanmoins pas suffisants de vous faire mourir; il fallait que vous remissiez vous-même votre esprit entre les mains de votre Père, tout étant accompli et consommé. Ah! que vous m'apprenez bien ici la quintessence de la vie spirituelle, par un parfait abandonnement de tout entre les mains du Père céleste. Hélas! que je devrais souvent prononcer cette sainte parole : Mon Père, je remets mon esprit entre vos mains, faites de moi ceci ou cela selon votre volonté : mes supérieurs, j'ai accompli votre obéissance , quoique laborieuse et abjecte : mais je me remets entre vos mains , afln que , s'il vous plaît , je la recommence ; heureuse serais-je si je vivais en cette sorte.
+
+Troisième affection. — Penchez votre tête, ô mon divin Roi!
+
+appelez la mort pour me donner la vie. Ah! pourquoi redouler la mort? mon Jésus a fait ce passage. Hé! Jésus , Dieu de la vie, faites-moi la grâce qu'à l'heure de ma mort je remette mon esprit entre vos mains : car vous êtes mon vrai Père. Fondez-vous d'amour et de douleur, ô mon âme! voyant Jésus expiré pour votre péché; ne sortez point de dessus cette sainte montagne que vous n'ayez enseveli cet Époux en votre cœur.
