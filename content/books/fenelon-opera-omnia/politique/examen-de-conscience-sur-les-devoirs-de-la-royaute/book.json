@@ -1,0 +1,62 @@
+{
+  "id": "fenelon-examen-de-conscience-royaute",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Examen de conscience sur les devoirs de la royauté",
+    "en-US": "Examination of Conscience on the Duties of Kingship",
+    "pt-BR": "Exame de consciência sobre os deveres da realeza"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le questionnaire que Fénelon composa pour l’instruction de Louis de France, duc de Bourgogne, petit-fils de Louis XIV, afin qu’il examine devant Dieu l’exercice de sa charge : devoirs envers Dieu, la religion, la justice, les finances, la guerre, la paix, les ministres et les peuples.",
+    "en-US": "The questionnaire Fénelon composed for the instruction of Louis of France, Duke of Burgundy, grandson of Louis XIV, so that he might examine before God the exercise of his office: duties towards God, religion, justice, finances, war, peace, ministers and peoples.",
+    "pt-BR": "O questionário que Fénelon compôs para a instrução de Luís da França, duque de Borgonha, neto de Luís XIV, a fim de que examinasse diante de Deus o exercício de seu cargo: deveres para com Deus, a religião, a justiça, as finanças, a guerra, a paz, os ministros e os povos."
+  },
+  "composed": "1695–1711",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/examen-de-conscience-sur-les-devoirs-de-la-royaute",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte07fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 7, p. 1–; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-examen-de-conscience",
+      "title": {
+        "fr-FR": "Examen de conscience sur les devoirs de la royauté"
+      },
+      "children": [
+        {
+          "id": "01-examen-de-conscience-01",
+          "title": {
+            "fr-FR": "Examen de conscience sur les devoirs de la royauté, partie 1"
+          }
+        },
+        {
+          "id": "01-examen-de-conscience-02",
+          "title": {
+            "fr-FR": "Examen de conscience sur les devoirs de la royauté, partie 2"
+          }
+        }
+      ]
+    }
+  ]
+}
