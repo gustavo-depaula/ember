@@ -1,0 +1,66 @@
+{
+  "id": "fenelon-dialogues-sur-leloquence",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Dialogues sur l’éloquence en général, et sur celle de la chaire en particulier",
+    "en-US": "Dialogues on Eloquence in General and on That of the Pulpit in Particular",
+    "pt-BR": "Diálogos sobre a eloquência em geral e a do púlpito em particular"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Trois dialogues sur l’art de l’orateur, composés vers 1679 et publiés en 1718 : la vraie éloquence, le sermon, la prédication selon l’Écriture et les Pères. Suivis de la Lettre à l’Académie, dans un autre livre.",
+    "en-US": "Three dialogues on the art of the orator, composed about 1679 and published in 1718: true eloquence, the sermon, preaching according to Scripture and the Fathers.",
+    "pt-BR": "Três diálogos sobre a arte do orador, compostos por volta de 1679 e publicados em 1718: a verdadeira eloquência, o sermão, a pregação segundo a Escritura e os Padres."
+  },
+  "composed": "1679–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/dialogues-sur-leloquence",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 546–570; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-premier-dialogue",
+      "title": {
+        "fr-FR": "Premier dialogue"
+      }
+    },
+    {
+      "id": "02-second-troisieme-01",
+      "title": {
+        "fr-FR": "Second et troisième dialogues, partie 1"
+      }
+    },
+    {
+      "id": "02-second-troisieme-02",
+      "title": {
+        "fr-FR": "Second et troisième dialogues, partie 2"
+      }
+    },
+    {
+      "id": "02-second-troisieme-03",
+      "title": {
+        "fr-FR": "Second et troisième dialogues, partie 3"
+      }
+    }
+  ]
+}
