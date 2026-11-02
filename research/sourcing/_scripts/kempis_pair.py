@@ -55,7 +55,10 @@ def chapters(cfg, lang):
         if lang == 'la' and not cfg.get('no_repair'):
             ls = kf.repair_open(ls)
         raw = cl(ls)
-        if pt:
+        if cfg.get('toc'):
+            pt = cfg['toc'][len(res)]
+            raw = [pt] + raw
+        elif pt:
             raw = [uptitle(pt) if lang == 'la' else pt] + raw
         if not raw:
             res.append((gi, '', []))

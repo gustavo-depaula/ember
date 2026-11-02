@@ -101,7 +101,13 @@ def _prefixes(k):
 def repair_open(lines, n=16):
     """Apply frag_line to the first n non-empty lines of a chapter."""
     out, k, prev = [], 0, ''
+    KEEP = {'O', 'A', 'E', 'ET', 'IN', 'AD', 'DE', 'EX', 'SI', 'UT', 'NON', 'SED', 'QVI', 'QUI', 'CVM', 'CUM'}
     for l in lines:
+        if l.strip() and k == 0:  # junk glyphs where the drop capital stood
+            tk = re.sub(r'\s+', ' ', l).strip().split(' ')
+            while len(tk) > 2 and len(re.sub(r'[a-z]', '', tk[0])) == len(tk[0]) and tk[0] not in KEEP and len(tk[0]) <= 5 and lexicon().get(re.sub(r'[^a-z]', '', tk[1].lower()), 0) >= 50:
+                tk = tk[1:]
+            l = ' '.join(tk)
         if l.strip() and k < n:
             l = frag_line(re.sub(r'\s+', ' ', l), prev, k == 0)
             k += 1
@@ -115,6 +121,8 @@ def tidy(p):
     """Drop glyph-junk tokens left by drop capitals ('y^^^On', '^LM'); a token with one stray symbol keeps its letters."""
     out = []
     for t in p.split(' '):
+        if t in ('t5', 'i5', 't0', 'i0', 'ro', 'so5'):
+            continue
         n = len(re.findall(r'[\^@■•¢€§|{}~<>\\]', t))
         if n >= 2 or (n and len(t) <= 3):
             continue

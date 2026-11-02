@@ -2,7 +2,7 @@
 running heads, hyphenated line breaks) into paragraphs."""
 import re
 
-LN = r'(?:5|10|15|20|25|30|35|40|2s|1o|3o|2o|4o|1s|3s)'
+LN = r'(?:5|10|15|20|25|30|35|40|2s|1o|3o|2o|4o|1s|3s|i0)'
 
 
 def clean(lines):
@@ -23,6 +23,7 @@ def clean(lines):
         if len(s) < 28 and not re.search(r'[a-z]{4}', s) and re.search(r'\d', s):
             continue
         s = re.sub(r'^' + LN + r'(?=\s*[A-Za-z])\s*', '', s)  # leading line number
+        s = re.sub(r'(?<=[a-z][,.;:])\s+(?:io|to|i0|i5|ro)$', '', s)
         s = re.sub(r'(?<=[a-z,.;:])\s*' + LN + r'_?\s*$', '', s)  # trailing line number
         s = re.sub(r'\s+\d{1,2}_?$', '', s) if re.search(r'[a-z.,;]\s+(5|10|15|20|25|30)_?$', s) else s
         out.append(s)
