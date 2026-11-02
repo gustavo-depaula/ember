@@ -1,0 +1,23 @@
+# Part 2, lesson 13
+
+That in uniting ourselves to Jesus Christ, we participate in the operations of the Holy Spirit not only in him, but also in each of the saints of the church-
+
+Q. Can you show me how, in uniting ourselves to our Lord, we participate in his Holy Spi rit, and all his operations not only in him, but also in the saints, for example, in the blessed Virgin ?
+
+* Factus in spiritum vivificantcm. 1. C ->r xv, 45.
+
+A. Yes, I can show it to you very easily. Is it not true, that he who receives more, receives less, and that he who partici pates in the cause, participates also in its effects. Since then, in uniting ourselves to our Lord, we also unite ourselves to his Holy Spirit dwelling in him, we consequently participate in the operations of that divine Spirit both in our Saviour him self and in his saints. This riches and abundance of gifts, spread in holy souls, and in which we have a right to share, is like a mystical banquet, in which we can choose, according to the inclination of the interior Spirit, such spiritual food as may be most pleasing to us.
+
+I might exemplify this beau tiful doctrine by an admirable figure taken from the Old Testa ment, I mean, the manna which God gave to his people. This food, though the same for all, had the taste of the various viands which the children of Israel craved. It is so with the gifts which we receive from God by the communion of saints. When we desire to participate in any of the graces of the blessed, we have only to unite ourselves to the Spirit of our Lord, the source of these graces. Hence the practice, so common in the church, to receive communion in honor of the saints, in order to participate in their spirit and graces, a participation in which we really enter, when we unite ourselves to our Lord in the Sacrament of the altar, with the intention of sharing in the fa vors he bestows in it upon his saints. I will unfold to you another no less consoling mys tery. When we communicate, we can likewise participate in the graces of the j ust who are still upon earth. For example, when you see in any one a great hu mility, charity, or patience, in stead of being jealous of it, whicli might happen by a suggestion of self-love, unite yourself to the Spirit of our Lord in the Sa crament of the altar; adore him as the source of these virtues, ask him the grace of participating in them, and you will soon per ceive how useful and advanta geous this practice is.
+
+To explain this truth still bet ter, I shall make use of another figure, which we find in the holy scripture. The prophet Isaias, in a mysterious vision, saw the Son of God, full of glory and ma jesty, sitting upon a magnificent throne, and the scripture ob serves, that a part of his rich gar ments,* which was under him, filled the whole temple. Now, by this portion of the garments of the Son of God, we can un derstand the divine operations * Isai. vi, 1.
+
+of his Holy Spirit, which fill the whole church, and are spread in all the^saints. For, the Holy Spirit dwelt first in Christ our head, and produced in him those graces, which were one day to pass from him into each member of his mystical body; so that all the graces which we see in the saints, who already enjoy the felicity of hea ven, or in the just, who are still travelling in the pilgrimage of this world, flow from Jesus Christ, as their only source. They are communicated to them by the Holy Spirit, who, being sent by our Lord to his mem bers, infuses his gifts into them, and makes them partakers of his divine life.
+
+I advise ^ou then to unite yourself continually to the Holy Spirit, that you may perform all your actions in the disposi tions of our Saviour himself, that your weakness may be strengthened, and your charity inflamed. Unite yourself to him by a lively faith and an ar dent love; he is that river of fire, mentioned in the Scrip ture,* flowing from the face of God. This river represents two things, the way and the life; it figures the impetuosity of the love with which we ought
+
+* Fluvius igneus, ranidusque, e^redhbatur ;l facie ejus. Dan. vii, 10 to go to Almighty God, and the strength of the Spirit of Grace, which coming from Jesus Christ enters into us, to be our way, our truth, and our life.
+
+Q. This being so, it is very consoling, indeed, to be a Chris tian. For nothing is so sweet for a man, as to abandon him self to love, and to be sure of the perfect possession of God.
+
+A. You see now how impor tant it is to give ourselves to the Holy Spirit, when we have to act or pray. We must fre quently unite ourselves to him, that we may always act by his divine impulse, instead of act ing, as is too often the case, by a principle of self-love, that car ries us to sin.

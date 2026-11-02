@@ -1,0 +1,276 @@
+{
+  "id": "olier-catechisme-chretien-1852",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Catéchisme chrétien pour la vie intérieure (traduction anglaise de 1852)",
+    "en-US": "Catechism of an Interior Life (1852 English translation)",
+    "pt-BR": "Catecismo cristão para a vida interior (tradução inglesa de 1852)"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "La traduction anglaise anonyme de 1852 (Baltimore, Murphy) du Catéchisme chrétien d’Olier, en deux parties.",
+    "en-US": "The anonymous 1852 English translation (Baltimore: Murphy) of Olier’s Christian Catechism, in two parts.",
+    "pt-BR": "A tradução inglesa anônima de 1852 (Baltimore, Murphy) do Catecismo cristão de Olier, em duas partes."
+  },
+  "composed": 1656,
+  "languages": [
+    "en-US"
+  ],
+  "work": "olier/catechisme-chretien",
+  "editions": {
+    "en-US": {
+      "translator": "anonymous",
+      "year": 1852
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/catechismofanint00olieuoft",
+      "edition": "A Catechism of an Interior Life, Baltimore: Fielding Lucas / Murphy & Co., 1852 (anonymous translation); archive.org OCR of the Toronto copy.",
+      "description": "OCR cleaned: running heads and page numbers removed, hyphenation joined. Lessons whose heading the OCR lost sit inside the previous lesson.",
+      "tier": "A",
+      "tierEvidence": "Published 1852."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-lecon-01",
+      "title": {
+        "en-US": "Part 1, lesson 1. Of the Spirit, and of the two lives of our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "p1-lecon-02",
+      "title": {
+        "en-US": "Part 1, lesson 2. Of the loss of grace after baptism, and of the labor of penance necessary to re cover it"
+      }
+    },
+    {
+      "id": "p1-lecon-03",
+      "title": {
+        "en-US": "Part 1, lesson 3"
+      }
+    },
+    {
+      "id": "p1-lecon-04",
+      "title": {
+        "en-US": "Part 1, lesson 4. Of the Spirit and inclinations of Adam ; that the Christian Spirit is very different from them"
+      }
+    },
+    {
+      "id": "p1-lecon-05",
+      "title": {
+        "en-US": "Part 1, lesson 5. That Christians are obliged to mortify in themselves the inclinations of Adam and of the flesh, and crucify the old man"
+      }
+    },
+    {
+      "id": "p1-lecon-06",
+      "title": {
+        "en-US": "Part 1, lesson 6. Of the source of the malignity of the flesh, which we are obliged to renounce"
+      }
+    },
+    {
+      "id": "p1-lecon-07",
+      "title": {
+        "en-US": "Part 1, lesson 7. Of the love of the cross, that is, of abjec tion, sufferings, and poverty, which the Holy Ghost gives us in Baptism"
+      }
+    },
+    {
+      "id": "p1-lecon-08",
+      "title": {
+        "en-US": "Part 1, lesson 8"
+      }
+    },
+    {
+      "id": "p1-lecon-09",
+      "title": {
+        "en-US": "Part 1, lesson 9"
+      }
+    },
+    {
+      "id": "p1-lecon-10",
+      "title": {
+        "en-US": "Part 1, lesson 10"
+      }
+    },
+    {
+      "id": "p1-lecon-11",
+      "title": {
+        "en-US": "Part 1, lesson 11. Of Pride, and of the desire of honor, which we must resist"
+      }
+    },
+    {
+      "id": "p1-lecon-12",
+      "title": {
+        "en-US": "Part 1, lesson 12. That honor is due to G-od alone ; how we ought to act, when we are despised"
+      }
+    },
+    {
+      "id": "p1-lecon-13",
+      "title": {
+        "en-US": "Part 1, lesson 13. That the miserable desire of being honored is a common and universal desire; of the manner of combating and renouncing it"
+      }
+    },
+    {
+      "id": "p1-lecon-14",
+      "title": {
+        "en-US": "Part 1, lesson 14. Of the obligation we are under tc love pains, sufferings, and persecutions, founded upon the fact that by ourselves we are sin"
+      }
+    },
+    {
+      "id": "p1-lecon-15",
+      "title": {
+        "en-US": "Part 1, lesson 15. Explanation of the preceding doctrine"
+      }
+    },
+    {
+      "id": "p1-lecon-16",
+      "title": {
+        "en-US": "Part 1, lesson 16. Continuation of the same subject ; that our flesh is nothing but sin"
+      }
+    },
+    {
+      "id": "p1-lecon-17",
+      "title": {
+        "en-US": "Part 1, lesson 17. That our flesh is wholly opposed and re bellious to God and his divine Spirit"
+      }
+    },
+    {
+      "id": "p1-lecon-18",
+      "title": {
+        "en-US": "Part 1, lesson 18. That the malignity of the flesh deserves every kind ot humiliations on the part of God and creatures"
+      }
+    },
+    {
+      "id": "p1-lecon-19",
+      "title": {
+        "en-US": "Part 1, lesson 19. Of the obligation we are under, in conse quence of our sins, to bear poverty, which is the third branch of the cross of Christians"
+      }
+    },
+    {
+      "id": "p1-lecon-20",
+      "title": {
+        "en-US": "Part 1, lesson 20. Of the grace wrought in the soul by the mysteries of our Lord in which we must participate. First, of the mystery of the Incarnation"
+      }
+    },
+    {
+      "id": "p1-lecon-21",
+      "title": {
+        "en-US": "Part 1, lesson 21. Of the mystery of the Crucifixion, and its grace"
+      }
+    },
+    {
+      "id": "p1-lecon-22",
+      "title": {
+        "en-US": "Part 1, lesson 22. Of the mystery of the Death of our Lord, and of the state of death which it ope rates in us"
+      }
+    },
+    {
+      "id": "p1-lecon-23",
+      "title": {
+        "en-US": "Part 1, lesson 23. Of the mystery of the Burial of our Lord, and in what the grace of this mystery differs from that of death"
+      }
+    },
+    {
+      "id": "p1-lecon-24",
+      "title": {
+        "en-US": "Part 1, lesson 24. Of the mystery of the Resurrection, and of the grace that it operates in us"
+      }
+    },
+    {
+      "id": "p1-lecon-25",
+      "title": {
+        "en-US": "Part 1, lesson 25. Of the mystery of the Ascension of our Lord ; of its grace and state, which is that of the perfect"
+      }
+    },
+    {
+      "id": "p2-lecon-01",
+      "title": {
+        "en-US": "Part 2, lesson 1. That prayer is the principal means ; and that it is necessary to pray with humility and confidence"
+      }
+    },
+    {
+      "id": "p2-lecon-02",
+      "title": {
+        "en-US": "Part 2, lesson 2. Of the intercession of Saints, who pray for us in Christ and by Christ"
+      }
+    },
+    {
+      "id": "p2-lecon-03",
+      "title": {
+        "en-US": "Part 2, lesson 3. That the sacrifice of the altar is the same as that of the cross; and that our Lord carries to it the same dispositions that he had upon the cross"
+      }
+    },
+    {
+      "id": "p2-lecon-04",
+      "title": {
+        "en-US": "Part 2, lesson 4. That we can receive holy communion for the good and advantage of others"
+      }
+    },
+    {
+      "id": "p2-lecon-05",
+      "title": {
+        "en-US": "Part 2, lesson 5. That our Lord Jesus Christ dwells in us, and that we can at all times communi cate spiritually"
+      }
+    },
+    {
+      "id": "p2-lecon-06",
+      "title": {
+        "en-US": "Part 2, lesson 6. How we may communicate spiritually, and unite ourselves to the Spirit of our Lord in all our actions"
+      }
+    },
+    {
+      "id": "p2-lecon-07",
+      "title": {
+        "en-US": "Part 2, lesson 7. Application of the preceding doctrine to the exercise of meditation"
+      }
+    },
+    {
+      "id": "p2-lecon-08",
+      "title": {
+        "en-US": "Part 2, lesson 8. Method to be followed in meditation"
+      }
+    },
+    {
+      "id": "p2-lecon-09",
+      "title": {
+        "en-US": "Part 2, lesson 9. That we can pray to God, although we may not know him perfectly, and are even ignorant of our wants"
+      }
+    },
+    {
+      "id": "p2-lecon-11",
+      "title": {
+        "en-US": "Part 2, lesson 11. That in uniting ourselves to Christ in me ditation, we enter into a participation of his prayers and graces"
+      }
+    },
+    {
+      "id": "p2-lecon-12",
+      "title": {
+        "en-US": "Part 2, lesson 12. How we may know that we are united to our Lord in meditation"
+      }
+    },
+    {
+      "id": "p2-lecon-13",
+      "title": {
+        "en-US": "Part 2, lesson 13"
+      }
+    },
+    {
+      "id": "p2-lecon-14",
+      "title": {
+        "en-US": "Part 2, lesson 14. How often we should unite ourselves tc ths Spirit of Jesus Christ during prayer"
+      }
+    },
+    {
+      "id": "p2-lecon-15",
+      "title": {
+        "en-US": "Part 2, lesson 15. That the happiness of Christians in medi tation and holy communion, approaches the happiness of the blessed in heaven"
+      }
+    }
+  ]
+}
