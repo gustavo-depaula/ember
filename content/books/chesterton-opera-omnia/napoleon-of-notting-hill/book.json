@@ -1,0 +1,169 @@
+{
+  "id": "chesterton-napoleon-of-notting-hill",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Napoleon of Notting Hill",
+    "pt-BR": "O Napoleão de Notting Hill"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's first novel: in a London of 1984 grown grey and bureaucratic, a boy who loves his neighbourhood is made king by a joke and takes the joke seriously, and the little streets of Notting Hill go to war for their honour. A fantasy of local patriotism and the lost romance of small things.",
+    "pt-BR": "O primeiro romance de Chesterton: numa Londres de 1984 cinzenta e burocrática, um menino que ama o seu bairro é feito rei por uma brincadeira e leva a brincadeira a sério, e as ruazinhas de Notting Hill vão à guerra pela sua honra. Uma fantasia de patriotismo local e do romance perdido das coisas pequenas."
+  },
+  "composed": "1904",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/napoleon-of-notting-hill",
+  "editions": {
+    "en-US": {
+      "editor": "John Lane",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/20058",
+      "edition": "The Napoleon of Notting Hill (John Lane, 1904), Project Gutenberg #20058.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1904 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part01-book-i",
+      "title": {
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "ch01-introductory-remarks-on-the-art-of-prophecy",
+          "title": {
+            "en-US": "I. Introductory Remarks on the Art of Prophecy"
+          }
+        },
+        {
+          "id": "ch02-the-man-in-green",
+          "title": {
+            "en-US": "II. The Man in Green"
+          }
+        },
+        {
+          "id": "ch03-the-hill-of-humour",
+          "title": {
+            "en-US": "III. The Hill of Humour"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part02-book-ii",
+      "title": {
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "ch04-the-charter-of-the-cities",
+          "title": {
+            "en-US": "I. The Charter of the Cities"
+          }
+        },
+        {
+          "id": "ch05-the-council-of-the-provosts",
+          "title": {
+            "en-US": "II. The Council of the Provosts"
+          }
+        },
+        {
+          "id": "ch06-enter-a-lunatic",
+          "title": {
+            "en-US": "III. Enter a Lunatic"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part03-book-iii",
+      "title": {
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "ch07-the-mental-condition-of-adam-wayne",
+          "title": {
+            "en-US": "I. The Mental Condition of Adam Wayne"
+          }
+        },
+        {
+          "id": "ch08-the-remarkable-mr-turnbull",
+          "title": {
+            "en-US": "II. The Remarkable Mr. Turnbull"
+          }
+        },
+        {
+          "id": "ch09-the-experiment-of-mr-buck",
+          "title": {
+            "en-US": "III. The Experiment of Mr. Buck"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part04-book-iv",
+      "title": {
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "ch10-the-battle-of-the-lamps",
+          "title": {
+            "en-US": "I. The Battle of the Lamps"
+          }
+        },
+        {
+          "id": "ch11-the-correspondent-of-the-court-journal",
+          "title": {
+            "en-US": "II. The Correspondent of the Court Journal"
+          }
+        },
+        {
+          "id": "ch12-the-great-army-of-south-kensington",
+          "title": {
+            "en-US": "III. The Great Army of South Kensington"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part05-book-v",
+      "title": {
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "ch13-the-empire-of-notting-hill",
+          "title": {
+            "en-US": "I. The Empire of Notting Hill"
+          }
+        },
+        {
+          "id": "ch14-the-last-battle",
+          "title": {
+            "en-US": "II. The Last Battle"
+          }
+        },
+        {
+          "id": "ch15-two-voices",
+          "title": {
+            "en-US": "III. Two Voices"
+          }
+        }
+      ]
+    }
+  ]
+}
