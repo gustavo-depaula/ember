@@ -1,0 +1,7 @@
+# Lettre 3124. Edme Jolly Supérieur à Rome, — À Saint Vincent
+
+Mai 1960
+
+Je crois devoir vous donner avis, Monsieur de quelque opposition qui s’est faite depuis peu de temps à la continuation des exercices de l'ordination. Premièrement il y a quelque temps que monsieur le cardinal vicaire me fit l'honneur de me dire qu'une autre communauté avait demandé de faire ces exercices et qu'on lui envoyât les ordinands, et non point è nous ce que Son Eminence leur avait absolument refusé J'avais déjà été averti par quelqu'autre personne de cette sollicitation, qui m'avait aussi déclaré quelle était cette communauté. En second lieu on m'a encore donné avis que dans le dernier examen qui se fit pour les ordres sacrés, le Révérend Père... avait dit que puisqu'il se présentait quantité de personnes de condition pour recevoir les ordres à Rome, l'on ne pouvait pas continuer à les obliger d'aller aux exercices de la.Mission et qu'on en parlerait au Pape. Or j'ai su qu'on lui en a parlé et qu’on a fait ce qu'on a pu pour lui persuader de ne plus obliger les ordinands à venir céans, et que Sa Sainteté, qui était fort bien informée de ce qui se faisait dans les exercices des ordinands, n’avait point voulu avoir égard à toutes ces remontrances et était demeurée ferme dans ses premières résolutions. Voilà,.Monsieur, comme nous avons la grâce de dépendre visiblement de la protection de Notre-Seigneur et de sa sainte Mère [^1]
+
+[^1]: Abelly, *op. cit.*, l. 2, chap. II, sect. VI, 1re éd., p. 242.

@@ -1,0 +1,9 @@
+# Lettre 3216. À René Alméras, Prêtre de la Mission, — À Richelieu
+
+Du 22 août 1660.
+
+Votre lettre et celle de notre frère Gautier, qui m’a écrit l'état de votre indisposition, m'ont ôté d'une grande peine par l'espérance qu'elles me donnent de votre prochain rétablissement, fondée sur beaucoup de raisons ; dont je rends grâces à Dieu. Quand sera-ce donc, Monsieur, que nous aurons la consolation entière de vous savoir remis ? Oh ! que je le souhaite ! Oh ! que Dieu nous fera une grande grâce ! Je la lui demande souvent, non seulement pour mon intérêt particulier, qui n'est pas petit, puisque, étant plein d'estime et de tendresse pour vous, je suis le premier qui souffre de votre mal et de votre absence, mais encore pour le bien de la compagnie, laquelle, ayant reçu de vous, par la grâce de Dieu, une grande édification, a encore besoin de votre secours et de vos exemples. Je vous dis ceci, Monsieur, avec sentiment de reconnaissance envers Dieu et envers vous, et je n'en dis pas davantage, parce que cela suffit pour la fin que je prétends, qui est de vous montrer que vous ferez un sacrifice à Dieu de vous conserver et de vous guérir. Je vous en supplie très humblement.
+
+Mais cela dépend-il de moi, me direz-vous? Oui, ce me semble, Monsieur, en tant que cela dépend du repos et des remèdes, qui sont en votre pouvoir, et surtout du bon plaisir de Dieu, qui ne vous refusera pas les forces de corps et d'esprit nécessaires aux desseins qu'il a sur vous dans la compagnie, si vous les lui demandez par son Fils Notre-Seigneur, qui, ayant suscité la même compagnie pour son service, vous y a aussi appelé si utilement par sa grâce. N'épargnez donc rien de ce qui peut contribuer à votre santé et à l'avancement de votre retour, après lequel nous soupirons. Ne vous engagez pourtant pas au voyage, que de l'avis des médecins, particulièrement durant les chaleurs. Nous aurons patience. [^1]
+
+[^1]: Reg. 2, p. 269.

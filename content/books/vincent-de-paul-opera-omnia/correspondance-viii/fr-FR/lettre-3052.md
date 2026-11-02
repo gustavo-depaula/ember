@@ -1,0 +1,11 @@
+# Lettre 3052. À la Sœur Mathurine Guérin, Supérieure — À la Fère
+
+20 décembre 1659.
+
+J'ai été fort consolé d’apprendre, par les lettres que vous avez écrites à Mademoiselle Le Gras et par notre frère Jean Parre, le bien que Dieu fait par vous et par notre sœur, et la bénédiction qu'il donne à votre petite famille et à vos emplois. Je l’en remercie de tout mon cœur, et je prie sa divine bonté qu'elle continue à sanctifier vos âmes et à bénir vos exercices pour la sanctification du prochain. Je n'ai pu m'empêcher de vous donner ce témoignage de ma joie et de ma reconnaissance
+
+J'ai su le bruit qui a couru de notre sœur Marthe [^1] J'ai peine à croire ce qu'on m'en a dit, et j'ai sujet de me persuader le contraire. C'est une calomnie pour elle et une humiliation pour vous. Dieu permet qu'il en arrive à ceux qui le servent ; et même il est dit que ceux qui croiront en Jésus-Christ et qui le suivront seront persécutés. Il faut s'attendre à cela, et, au lieu de s’en étonner, il faut s'estimer bien heureuse de souffrir quelque chose. C'est un bien, selon Dieu, d’être traité comme Notre-Seigneur, quoique cela paraisse un mal, selon le monde ; or, le Sauveur a été injurié, accusé et méprisé injustement ; pourquoi nous plaindrons-nous s'il nous honore de ses livrées ? Vous ferez donc bien, ma Sœur, de ne point vous arrêter aux paroles qu'on dit et de n'entrer jamais en justification. Les discours qui n'ont pas la vérité pour fondement s'évanouissent comme de la fumée, et les âmes qui s'abandonnent à Notre-Seigneur pour tout faire et pour tout souffrir seront justi- fiées par lui, et elles auront l'honneur et le mérite de lui ressembler. Confiez-vous en sa bonté infinie et ne doutez pas qu'il ne vous fortifie dans les épreuves qu'il voudra faire de votre patience, si véritablement vous méprisez tous les sujets d'opprobre qui vous peuvent venir des hommes. Je le prie qu'il vous fasse cette grâce, et à notre bonne sœur, que je salue avec toutes les tendresses de mon cœur, et vous avec elle, étant de toutes les deux, en l'amour de Notre-Seigneur, après m'être recommandé à ses prières et aux vôtres, ma Sœur, votre très affectionné frère... [^2]
+
+[^1]: Marie-Marthe Trumeau.
+
+[^2]: *Recueil de pièces relatives aux Filles de la Charité*, p. 652. (Arch. des Filles de la Charité).

@@ -1,0 +1,11 @@
+# Lettre 3153. À François Fouquet, Archevêque — De Narbonne
+
+[1660] [^1]
+
+Je rougis de honte, Monseigneur, toutes les fois que je lis la dernière lettre que vous m'avez fait l'honneur de m'écrire, et même toutes les fois que j'y pense, voyant à quel point Votre Grandeur s'abaisse devant un pauvre porcher de naissance et un misérable vieillard rempli de péchés ; et en même temps je ressens une grande peine de vous avoir donné sujet d'en venir là. Quand j'ai pris la confiance de représenter à Votre Grandeur que nous étions hors d'état de lui donner les hommes qu’elle demande, elle peut bien penser que ce n'a pas été par aucun défaut de respect ni de soumission pour toutes ses volontés, mais par une pure impuissance de lui obéir en cette occasion. Je la supplie très humblement de nous donner six mois de terme. Nous serions grandement consolés de vous donner plus tôt cette satisfaction ; mais il ne plaît pas à Dieu que nous le puissions faire. Au nom de Dieu, Monseigneur, ayez la bonté d'excuser notre pauvreté, et réservez, s'il vous plaît, votre voyage de Paris pour une occasion plus importante. Ce me serait une bénédiction de Dieu de re- cevoir encore une fois celle de Votre Grandeur, mais j'aurais un regret inconcevable qu'elle vînt se fatiguer ici pour une affaire qui n'en serait pas plus avancée. Vous savez bien, Monseigneur, qu'il n'y a gens au monde plus disposés à recevoir vos commandements que nous le sommes, et moi particulièrement, sur qui Dieu vous a donné un pouvoir souverain. [^2] [^3]
+
+[^1]: Quelque temps après avoir obtenu trois prêtres pour son séminaire, en septembre 1659 (cf. lettre 2979), François Fouquet écrivit au saint pour en avoir davantage (cf. lettre 3281). La réponse ci-dessus ne peut se rapporter qu'à cette seconde demande. (cf. lettre 2952.) Le prélat insista ; ce qui provoqua la lettre 3281, du 17 septembre 1660.
+
+[^2]: Abelly, *op. cit.*, l. 3, chap. XI, sect. VI, p. 143.
+
+[^3]: Abelly se contente de dire que la lettre est adressée à un archevêque. Or, Paris excepté, saint Vincent n'a établi sa congrégation en france que dans deux archevêchés, ceux de Reims et de Narbonne ; et le ton de la lettre montre bien que le saint s'adresse à François Fouquet.

@@ -1,0 +1,2603 @@
+{
+  "id": "vincent-correspondance-viii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance de saint Vincent de Paul, tome VIII",
+    "en-US": "Correspondence of St. Vincent de Paul, vol. VIII",
+    "pt-BR": "Correspondência de São Vicente de Paulo, tomo VIII"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les lettres 2888 à 3316 de la Correspondance de saint Vincent, tome VIII de l’édition de Pierre Coste (1659-1661), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
+    "en-US": "Letters 2888 to 3316 of St. Vincent’s Correspondence, vol. VIII of Pierre Coste’s edition (1659-1661), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
+    "pt-BR": "As cartas 2888 a 3316 da Correspondência de São Vicente, tomo VIII da edição de Pierre Coste (1659-1661)."
+  },
+  "composed": "1659-1661",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/correspondance-viii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tome VIII; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All letters of the tome, one per chapter, including the letters to Vincent that Coste prints among them, with Coste’s source notices and footnotes kept as notes. Coste’s introduction is not included; letters whose heading the transcription lost stay inside the preceding chapter.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Année 1659"
+      },
+      "children": [
+        {
+          "id": "lettre-2888",
+          "title": {
+            "fr-FR": "Lettre 2888. À François Fournier"
+          }
+        },
+        {
+          "id": "lettre-2889",
+          "title": {
+            "fr-FR": "Lettre 2889. Au Procureur du Roi à Paris"
+          }
+        },
+        {
+          "id": "lettre-2890",
+          "title": {
+            "fr-FR": "Lettre 2890. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2891",
+          "title": {
+            "fr-FR": "Lettre 2891. À Jean Monvoisin, Prêtre de la Mission, — À Montmirail"
+          }
+        },
+        {
+          "id": "lettre-2892",
+          "title": {
+            "fr-FR": "Lettre 2892. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2893",
+          "title": {
+            "fr-FR": "Lettre 2893. À Jérome Lejuge, Prêtre de la Mission, — À Gênes"
+          }
+        },
+        {
+          "id": "lettre-2894",
+          "title": {
+            "fr-FR": "Lettre 2894. À Monsieur Favier, — Lieutenant Général du Bailliage de Toul"
+          }
+        },
+        {
+          "id": "lettre-2895",
+          "title": {
+            "fr-FR": "Lettre 2895. À Monsieur de Séraucourt"
+          }
+        },
+        {
+          "id": "lettre-2896",
+          "title": {
+            "fr-FR": "Lettre 2896. À Thomas Berthe"
+          }
+        },
+        {
+          "id": "lettre-2897",
+          "title": {
+            "fr-FR": "Lettre 2897. À Thomas Berthe, Prêtre de la Mission, — À Toul"
+          }
+        },
+        {
+          "id": "lettre-2898",
+          "title": {
+            "fr-FR": "Lettre 2898. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2899",
+          "title": {
+            "fr-FR": "Lettre 2899. À Firmin Get, Supérieur, à Montpellier"
+          }
+        },
+        {
+          "id": "lettre-2900",
+          "title": {
+            "fr-FR": "Lettre 2900. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2901",
+          "title": {
+            "fr-FR": "Lettre 2901. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-2902",
+          "title": {
+            "fr-FR": "Lettre 2902. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2903",
+          "title": {
+            "fr-FR": "Lettre 2903. À Charles de Saveuses"
+          }
+        },
+        {
+          "id": "lettre-2904",
+          "title": {
+            "fr-FR": "Lettre 2904. Jean Martin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2905",
+          "title": {
+            "fr-FR": "Lettre 2905. Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2908",
+          "title": {
+            "fr-FR": "Lettre 2908. À Philippe le Vacher, Prêtre de la Mission, — À Marseille"
+          }
+        },
+        {
+          "id": "lettre-2909",
+          "title": {
+            "fr-FR": "Lettre 2909. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2910",
+          "title": {
+            "fr-FR": "Lettre 2910. À Gaspard Stelle, Prêtre de la Mission, — À Gênes"
+          }
+        },
+        {
+          "id": "lettre-2911",
+          "title": {
+            "fr-FR": "Lettre 2911. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-2912",
+          "title": {
+            "fr-FR": "Lettre 2912. À Aubin Gautier, Frère de la Mission, — À Turin"
+          }
+        },
+        {
+          "id": "lettre-2913",
+          "title": {
+            "fr-FR": "Lettre 2913. À Jean-Jacques Planchamp"
+          }
+        },
+        {
+          "id": "lettre-2914",
+          "title": {
+            "fr-FR": "Lettre 2914. À Jean Parre, Frère de la Mission, — À Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-2915",
+          "title": {
+            "fr-FR": "Lettre 2915. À Anne-Marguerite Guérin, Supérieure — Du Second Monastère de la Visitation, à Paris"
+          }
+        },
+        {
+          "id": "lettre-2916",
+          "title": {
+            "fr-FR": "Lettre 2916. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2917",
+          "title": {
+            "fr-FR": "Lettre 2917. La Duchesse d’Aiguillon à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2918",
+          "title": {
+            "fr-FR": "Lettre 2918. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2919",
+          "title": {
+            "fr-FR": "Lettre 2919. À Jean Monvoisin, Prêtre de la Mission, à Montmirail"
+          }
+        },
+        {
+          "id": "lettre-2920",
+          "title": {
+            "fr-FR": "Lettre 2920. À Jacques Pesnelle, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2921",
+          "title": {
+            "fr-FR": "Lettre 2921. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2922",
+          "title": {
+            "fr-FR": "Lettre 2922. À Louis Fouquet, Évêque d’Agde"
+          }
+        },
+        {
+          "id": "lettre-2923",
+          "title": {
+            "fr-FR": "Lettre 2923. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2924",
+          "title": {
+            "fr-FR": "Lettre 2924. À Monsieur de Forges"
+          }
+        },
+        {
+          "id": "lettre-2925",
+          "title": {
+            "fr-FR": "Lettre 2925. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2926",
+          "title": {
+            "fr-FR": "Lettre 2926. À Marin Baucher, Frère de la Mission, — À Saintes"
+          }
+        },
+        {
+          "id": "lettre-2927",
+          "title": {
+            "fr-FR": "Lettre 2927. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2928",
+          "title": {
+            "fr-FR": "Lettre 2928. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2929",
+          "title": {
+            "fr-FR": "Lettre 2929. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2930",
+          "title": {
+            "fr-FR": "Lettre 2930. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2931",
+          "title": {
+            "fr-FR": "Lettre 2931. À Jacques Tholard"
+          }
+        },
+        {
+          "id": "lettre-2932",
+          "title": {
+            "fr-FR": "Lettre 2932. Au Chanoine de Rumelin"
+          }
+        },
+        {
+          "id": "lettre-2933",
+          "title": {
+            "fr-FR": "Lettre 2933. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2934",
+          "title": {
+            "fr-FR": "Lettre 2934. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2935",
+          "title": {
+            "fr-FR": "Lettre 2935. À Jacques Pesnelle, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2936",
+          "title": {
+            "fr-FR": "Lettre 2936. À Jean Parre, Frère de la Mission — À Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-2937",
+          "title": {
+            "fr-FR": "Lettre 2937. À Jean Monvoisin, Prêtre de la Mission, — À Montmirail"
+          }
+        },
+        {
+          "id": "lettre-2938",
+          "title": {
+            "fr-FR": "Lettre 2938. À Edme Jolly, Supérieur. à Rome"
+          }
+        },
+        {
+          "id": "lettre-2939",
+          "title": {
+            "fr-FR": "Lettre 2939. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2940",
+          "title": {
+            "fr-FR": "Lettre 2940. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-2941",
+          "title": {
+            "fr-FR": "Lettre 2941. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-2942",
+          "title": {
+            "fr-FR": "Lettre 2942. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-2943",
+          "title": {
+            "fr-FR": "Lettre 2943. A Etienne de Flacourt, à Rouen"
+          }
+        },
+        {
+          "id": "lettre-2944",
+          "title": {
+            "fr-FR": "Lettre 2944. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2945",
+          "title": {
+            "fr-FR": "Lettre 2945. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-2946",
+          "title": {
+            "fr-FR": "Lettre 2946. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-2947",
+          "title": {
+            "fr-FR": "Lettre 2947. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-2948",
+          "title": {
+            "fr-FR": "Lettre 2948. À François Feydin, Prêtre de la Mission, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-2949",
+          "title": {
+            "fr-FR": "Lettre 2949. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2950",
+          "title": {
+            "fr-FR": "Lettre 2950. À Louise-Marie de Gonzague, — Reine de Polocne"
+          }
+        },
+        {
+          "id": "lettre-2951",
+          "title": {
+            "fr-FR": "Lettre 2951. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2952",
+          "title": {
+            "fr-FR": "Lettre 2952. À François Fouquet, Archevêque — De Narbonne"
+          }
+        },
+        {
+          "id": "lettre-2953",
+          "title": {
+            "fr-FR": "Lettre 2953. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2955",
+          "title": {
+            "fr-FR": "Lettre 2955. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-2956",
+          "title": {
+            "fr-FR": "Lettre 2956. À Toussaint Lebas, Prêtre de la Mission, — À Agde"
+          }
+        },
+        {
+          "id": "lettre-2957",
+          "title": {
+            "fr-FR": "Lettre 2957. À Antoine Durand, Supérieur, à Agde"
+          }
+        },
+        {
+          "id": "lettre-2958",
+          "title": {
+            "fr-FR": "Lettre 2958. À Charles Boussordec, Prêtre de la M1ssion à la Rose"
+          }
+        },
+        {
+          "id": "lettre-2959",
+          "title": {
+            "fr-FR": "Lettre 2959. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2960",
+          "title": {
+            "fr-FR": "Lettre 2960. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2961",
+          "title": {
+            "fr-FR": "Lettre 2961. À Firmin Get, Supérieur, à Montpellier"
+          }
+        },
+        {
+          "id": "lettre-2962",
+          "title": {
+            "fr-FR": "Lettre 2962. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2963",
+          "title": {
+            "fr-FR": "Lettre 2963. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-2964",
+          "title": {
+            "fr-FR": "Lettre 2964. À l’Official d’Arras"
+          }
+        },
+        {
+          "id": "lettre-2965",
+          "title": {
+            "fr-FR": "Lettre 2965. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-2966",
+          "title": {
+            "fr-FR": "Lettre 2966. À Mademoiselle de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-2967",
+          "title": {
+            "fr-FR": "Lettre 2967. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-2968",
+          "title": {
+            "fr-FR": "Lettre 2968. À Jean de Fricourt, — Clerc de la Mission (1), à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2969",
+          "title": {
+            "fr-FR": "Lettre 2969. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2970",
+          "title": {
+            "fr-FR": "Lettre 2970. À Louis Rivet, Supérieur, à Saintes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Année 1659 (2e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-2971",
+          "title": {
+            "fr-FR": "Lettre 2971. À Denis Laudin, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2972",
+          "title": {
+            "fr-FR": "Lettre 2972. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2973",
+          "title": {
+            "fr-FR": "Lettre 2973. Louis et Claude de Chandenier, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2974",
+          "title": {
+            "fr-FR": "Lettre 2974. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2975",
+          "title": {
+            "fr-FR": "Lettre 2975. Au Cardinal Durazzo"
+          }
+        },
+        {
+          "id": "lettre-2976",
+          "title": {
+            "fr-FR": "Lettre 2976. Au Cardinal Bagni"
+          }
+        },
+        {
+          "id": "lettre-2977",
+          "title": {
+            "fr-FR": "Lettre 2977. Au Cardinal Brancaccio"
+          }
+        },
+        {
+          "id": "lettre-2978",
+          "title": {
+            "fr-FR": "Lettre 2978. Au Père Hilarion"
+          }
+        },
+        {
+          "id": "lettre-2979",
+          "title": {
+            "fr-FR": "Lettre 2979. À François Fouquet, Archevêque — De Narbonne"
+          }
+        },
+        {
+          "id": "lettre-2980",
+          "title": {
+            "fr-FR": "Lettre 2980. À Guillaume Desdames, Supérieur, — À Varsovie"
+          }
+        },
+        {
+          "id": "lettre-2981",
+          "title": {
+            "fr-FR": "Lettre 2981. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-2982",
+          "title": {
+            "fr-FR": "Lettre 2982. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2983",
+          "title": {
+            "fr-FR": "Lettre 2983. À Gabriel Delespiney, Supérieur, — À Marseille"
+          }
+        },
+        {
+          "id": "lettre-2984",
+          "title": {
+            "fr-FR": "Lettre 2984. À Jean Parre, Frère de la Mission — À Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-2985",
+          "title": {
+            "fr-FR": "Lettre 2985. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2986",
+          "title": {
+            "fr-FR": "Lettre 2986. À Jean Dehorgny"
+          }
+        },
+        {
+          "id": "lettre-2987",
+          "title": {
+            "fr-FR": "Lettre 2987. À Dominique Lhuillier, — Prêtre de la Mission, à Crécy"
+          }
+        },
+        {
+          "id": "lettre-2988",
+          "title": {
+            "fr-FR": "Lettre 2988. À Monsieur Desbordes"
+          }
+        },
+        {
+          "id": "lettre-2989",
+          "title": {
+            "fr-FR": "Lettre 2989. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2990",
+          "title": {
+            "fr-FR": "Lettre 2990. À Jacques Pesnelle, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2991",
+          "title": {
+            "fr-FR": "Lettre 2991. À Jean Parre, Frère de la Mission, — À Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-2992",
+          "title": {
+            "fr-FR": "Lettre 2992. À Jean Dehorgny"
+          }
+        },
+        {
+          "id": "lettre-2993",
+          "title": {
+            "fr-FR": "Lettre 2993. À un Jeune Homme de Dax"
+          }
+        },
+        {
+          "id": "lettre-2994",
+          "title": {
+            "fr-FR": "Lettre 2994. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2995",
+          "title": {
+            "fr-FR": "Lettre 2995. À Gabriel Delespiney"
+          }
+        },
+        {
+          "id": "lettre-2996",
+          "title": {
+            "fr-FR": "Lettre 2996. À Nicolas Duperroy"
+          }
+        },
+        {
+          "id": "lettre-2997",
+          "title": {
+            "fr-FR": "Lettre 2997. Jean Dehorgny, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2998",
+          "title": {
+            "fr-FR": "Lettre 2998. À Jean Dehorgny, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-2999",
+          "title": {
+            "fr-FR": "Lettre 2999. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-3000",
+          "title": {
+            "fr-FR": "Lettre 3000. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3001",
+          "title": {
+            "fr-FR": "Lettre 3001. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-3002",
+          "title": {
+            "fr-FR": "Lettre 3002. Jean Dehorgny, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3003",
+          "title": {
+            "fr-FR": "Lettre 3003. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3004",
+          "title": {
+            "fr-FR": "Lettre 3004. À Edme Barry, Supérieur, — À Notre-Dame-de-Lorm"
+          }
+        },
+        {
+          "id": "lettre-3005",
+          "title": {
+            "fr-FR": "Lettre 3005. À Gabriel Delespiney, Supérieur, — À Marseille"
+          }
+        },
+        {
+          "id": "lettre-3006",
+          "title": {
+            "fr-FR": "Lettre 3006. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3007",
+          "title": {
+            "fr-FR": "Lettre 3007. À Dominique Lhuillier"
+          }
+        },
+        {
+          "id": "lettre-3008",
+          "title": {
+            "fr-FR": "Lettre 3008. À Jacques Pesnelle, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-3009",
+          "title": {
+            "fr-FR": "Lettre 3009. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3010",
+          "title": {
+            "fr-FR": "Lettre 3010. Louis et Claude de Chandenier à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3011",
+          "title": {
+            "fr-FR": "Lettre 3011. À Pierre Cabel, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-3012",
+          "title": {
+            "fr-FR": "Lettre 3012. Au Maréchal de la Meilleraye"
+          }
+        },
+        {
+          "id": "lettre-3013",
+          "title": {
+            "fr-FR": "Lettre 3013. À Toussaint Bourdaise, — Prêtre de la Mission, à Madagascar"
+          }
+        },
+        {
+          "id": "lettre-3014",
+          "title": {
+            "fr-FR": "Lettre 3014. À Jacoues Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-3015",
+          "title": {
+            "fr-FR": "Lettre 3015. À la Sœur Nicole Haran, Supérieure, — À Nantes"
+          }
+        },
+        {
+          "id": "lettre-3016",
+          "title": {
+            "fr-FR": "Lettre 3016. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3017",
+          "title": {
+            "fr-FR": "Lettre 3017. À la Mère Marie-Agnes le Roy"
+          }
+        },
+        {
+          "id": "lettre-3018",
+          "title": {
+            "fr-FR": "Lettre 3018. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3019",
+          "title": {
+            "fr-FR": "Lettre 3019. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-3020",
+          "title": {
+            "fr-FR": "Lettre 3020. À Louis de Chandenier,a Rome"
+          }
+        },
+        {
+          "id": "lettre-3021",
+          "title": {
+            "fr-FR": "Lettre 3021. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-3022",
+          "title": {
+            "fr-FR": "Lettre 3022. À la Mère Marie-Agnes le Roy"
+          }
+        },
+        {
+          "id": "lettre-3023",
+          "title": {
+            "fr-FR": "Lettre 3023. À un Évêque"
+          }
+        },
+        {
+          "id": "lettre-3024",
+          "title": {
+            "fr-FR": "Lettre 3024. À Jean Monvoisin, Prêtre de la Mission, — À Montmirail"
+          }
+        },
+        {
+          "id": "lettre-3025",
+          "title": {
+            "fr-FR": "Lettre 3025. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3026",
+          "title": {
+            "fr-FR": "Lettre 3026. Au Maréchal de la Meilleraye"
+          }
+        },
+        {
+          "id": "lettre-3027",
+          "title": {
+            "fr-FR": "Lettre 3027. À Nicolas Etienne, Prêtre de la Mission, — À Nantes"
+          }
+        },
+        {
+          "id": "lettre-3028",
+          "title": {
+            "fr-FR": "Lettre 3028. À Pierre Cabel, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-3029",
+          "title": {
+            "fr-FR": "Lettre 3029. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3030",
+          "title": {
+            "fr-FR": "Lettre 3030. À Nicolas Etienne, Prêtre de la Mission, — À Nantes"
+          }
+        },
+        {
+          "id": "lettre-3031",
+          "title": {
+            "fr-FR": "Lettre 3031. À Edme Jolly, Supérieur. à Rome"
+          }
+        },
+        {
+          "id": "lettre-3032",
+          "title": {
+            "fr-FR": "Lettre 3032. À Philippe Patte, — Frère de la Mission, à Nantes"
+          }
+        },
+        {
+          "id": "lettre-3033",
+          "title": {
+            "fr-FR": "Lettre 3033. Edme Jolly, Supérieur à Rome, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3034",
+          "title": {
+            "fr-FR": "Lettre 3034. Louis de Chandenier à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3035",
+          "title": {
+            "fr-FR": "Lettre 3035. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-3036",
+          "title": {
+            "fr-FR": "Lettre 3036. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-3037",
+          "title": {
+            "fr-FR": "Lettre 3037. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3038",
+          "title": {
+            "fr-FR": "Lettre 3038. À Louis de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-3039",
+          "title": {
+            "fr-FR": "Lettre 3039. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3040",
+          "title": {
+            "fr-FR": "Lettre 3040. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3041",
+          "title": {
+            "fr-FR": "Lettre 3041. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-3042",
+          "title": {
+            "fr-FR": "Lettre 3042. À la Sœur Nicole Haran, Supérieure — À Nantes"
+          }
+        },
+        {
+          "id": "lettre-3043",
+          "title": {
+            "fr-FR": "Lettre 3043. À Jean Monvoisin, Prêtre de la Mission, — À Montmirail"
+          }
+        },
+        {
+          "id": "lettre-3044",
+          "title": {
+            "fr-FR": "Lettre 3044. À Mademoiselle d’Hauterive"
+          }
+        },
+        {
+          "id": "lettre-3045",
+          "title": {
+            "fr-FR": "Lettre 3045. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-3046",
+          "title": {
+            "fr-FR": "Lettre 3046. À Edme Menestrier, Supérieur, à Agen"
+          }
+        },
+        {
+          "id": "lettre-3047",
+          "title": {
+            "fr-FR": "Lettre 3047. À Pierre Cabel, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-3048",
+          "title": {
+            "fr-FR": "Lettre 3048. À Denis Laudin, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-3049",
+          "title": {
+            "fr-FR": "Lettre 3049. À Guillaume Desdames, Supérieur, — À Varsovie"
+          }
+        },
+        {
+          "id": "lettre-3050",
+          "title": {
+            "fr-FR": "Lettre 3050. À Jean Martin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-03",
+      "title": {
+        "fr-FR": "Année 1659 (3e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-3051",
+          "title": {
+            "fr-FR": "Lettre 3051. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3052",
+          "title": {
+            "fr-FR": "Lettre 3052. À la Sœur Mathurine Guérin, Supérieure — À la Fère"
+          }
+        },
+        {
+          "id": "lettre-3053",
+          "title": {
+            "fr-FR": "Lettre 3053. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3054",
+          "title": {
+            "fr-FR": "Lettre 3054. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3055",
+          "title": {
+            "fr-FR": "Lettre 3055. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3057",
+          "title": {
+            "fr-FR": "Lettre 3057. À la Duchesse d’Aiguillon"
+          }
+        },
+        {
+          "id": "lettre-3058",
+          "title": {
+            "fr-FR": "Lettre 3058. À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3059",
+          "title": {
+            "fr-FR": "Lettre 3059. À un Supérieur"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-04",
+      "title": {
+        "fr-FR": "Année 1660"
+      },
+      "children": [
+        {
+          "id": "lettre-3060",
+          "title": {
+            "fr-FR": "Lettre 3060. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3061",
+          "title": {
+            "fr-FR": "Lettre 3061. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-3062",
+          "title": {
+            "fr-FR": "Lettre 3062. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3063",
+          "title": {
+            "fr-FR": "Lettre 3063. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-3064",
+          "title": {
+            "fr-FR": "Lettre 3064. À Jean Dehorgny, Prêtre de la Mission, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3065",
+          "title": {
+            "fr-FR": "Lettre 3065. À Edme Jolly"
+          }
+        },
+        {
+          "id": "lettre-3066",
+          "title": {
+            "fr-FR": "Lettre 3066. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3067",
+          "title": {
+            "fr-FR": "Lettre 3067. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3068",
+          "title": {
+            "fr-FR": "Lettre 3068. À un Supérieur"
+          }
+        },
+        {
+          "id": "lettre-3069",
+          "title": {
+            "fr-FR": "Lettre 3069. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3070",
+          "title": {
+            "fr-FR": "Lettre 3070. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3071",
+          "title": {
+            "fr-FR": "Lettre 3071. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-3072",
+          "title": {
+            "fr-FR": "Lettre 3072. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-3073",
+          "title": {
+            "fr-FR": "Lettre 3073. À la Sœur Marie-Cécile Thomassin"
+          }
+        },
+        {
+          "id": "lettre-3074",
+          "title": {
+            "fr-FR": "Lettre 3074. À Jean Dehorgny, Prêtre de la Mission, — À Cahors"
+          }
+        },
+        {
+          "id": "lettre-3075",
+          "title": {
+            "fr-FR": "Lettre 3075. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-3076",
+          "title": {
+            "fr-FR": "Lettre 3076. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-3077",
+          "title": {
+            "fr-FR": "Lettre 3077. À Jacques de la Fosse, Prêtre de la Mission, — À Troyes"
+          }
+        },
+        {
+          "id": "lettre-3078",
+          "title": {
+            "fr-FR": "Lettre 3078. À Guillaume Desdames, Supérieur, — À Varsovie"
+          }
+        },
+        {
+          "id": "lettre-3079",
+          "title": {
+            "fr-FR": "Lettre 3079. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-3080",
+          "title": {
+            "fr-FR": "Lettre 3080. Pierre Anger à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3081",
+          "title": {
+            "fr-FR": "Lettre 3081. Edme Jolly, Supérieur à Rome, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3082",
+          "title": {
+            "fr-FR": "Lettre 3082. Au Chanoine de Rumelin"
+          }
+        },
+        {
+          "id": "lettre-3083",
+          "title": {
+            "fr-FR": "Lettre 3083. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3084",
+          "title": {
+            "fr-FR": "Lettre 3084. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3085",
+          "title": {
+            "fr-FR": "Lettre 3085. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-3086",
+          "title": {
+            "fr-FR": "Lettre 3086. Nicolas Etienne, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3087",
+          "title": {
+            "fr-FR": "Lettre 3087. À la Mère Anne-Marie Bollain"
+          }
+        },
+        {
+          "id": "lettre-3088",
+          "title": {
+            "fr-FR": "Lettre 3088. À Gilles Buhot"
+          }
+        },
+        {
+          "id": "lettre-3089",
+          "title": {
+            "fr-FR": "Lettre 3089. À Sœur Mathurine Guérin, — Supérieure, à la Fère"
+          }
+        },
+        {
+          "id": "lettre-3091",
+          "title": {
+            "fr-FR": "Lettre 3091. À Cuillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-3092",
+          "title": {
+            "fr-FR": "Lettre 3092. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3093",
+          "title": {
+            "fr-FR": "Lettre 3093. À Louis de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-3094",
+          "title": {
+            "fr-FR": "Lettre 3094. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3095",
+          "title": {
+            "fr-FR": "Lettre 3095. À Pierre Cabel, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-3098",
+          "title": {
+            "fr-FR": "Lettre 3098. À Pierre de Beaumont, Supérieur, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3099",
+          "title": {
+            "fr-FR": "Lettre 3099. Edme Jolly, Supérieur à Rome, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3100",
+          "title": {
+            "fr-FR": "Lettre 3100. À la Sœur Charlotte Royer, Supérieure, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3101",
+          "title": {
+            "fr-FR": "Lettre 3101. Au Chanoine Jean de Saint-Martin (1), à Dax"
+          }
+        },
+        {
+          "id": "lettre-3102",
+          "title": {
+            "fr-FR": "Lettre 3102. Aux Supérieures des Maisons de la Visitation de Paris, de Chaillot et de Saint-Denis"
+          }
+        },
+        {
+          "id": "lettre-3103",
+          "title": {
+            "fr-FR": "Lettre 3103. À Guillaume Desdames, Supérieur, — À Varsovie"
+          }
+        },
+        {
+          "id": "lettre-3104",
+          "title": {
+            "fr-FR": "Lettre 3104. À la Sœur Nicole Haran"
+          }
+        },
+        {
+          "id": "lettre-3105",
+          "title": {
+            "fr-FR": "Lettre 3105. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-3106",
+          "title": {
+            "fr-FR": "Lettre 3106. Edme Jolly, Supérieur , à Rome , — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3107",
+          "title": {
+            "fr-FR": "Lettre 3107. À Michel Caset, Supérieur, à Toul"
+          }
+        },
+        {
+          "id": "lettre-3108",
+          "title": {
+            "fr-FR": "Lettre 3108. À Madame Marie Girardin, à Troyes"
+          }
+        },
+        {
+          "id": "lettre-3109",
+          "title": {
+            "fr-FR": "Lettre 3109. À la Sœur Jeanne Lacroix, Supérieure, — À Chateaudun"
+          }
+        },
+        {
+          "id": "lettre-3110",
+          "title": {
+            "fr-FR": "Lettre 3110. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-3111",
+          "title": {
+            "fr-FR": "Lettre 3111. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-3112",
+          "title": {
+            "fr-FR": "Lettre 3112. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3113",
+          "title": {
+            "fr-FR": "Lettre 3113. À la Sœur Mathurine Guérin, — À la Fère"
+          }
+        },
+        {
+          "id": "lettre-3114",
+          "title": {
+            "fr-FR": "Lettre 3114. À Pierre de Beaumont, Supérieur, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3115",
+          "title": {
+            "fr-FR": "Lettre 3115. Madame le Vayer (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3116",
+          "title": {
+            "fr-FR": "Lettre 3116. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3117",
+          "title": {
+            "fr-FR": "Lettre 3117. Edme Jolly, Supérieur à Rome, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3118",
+          "title": {
+            "fr-FR": "Lettre 3118. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3119",
+          "title": {
+            "fr-FR": "Lettre 3119. À la Sœur Mathurine Guérin, — Fille de la Charité, à la Fère"
+          }
+        },
+        {
+          "id": "lettre-3120",
+          "title": {
+            "fr-FR": "Lettre 3120. À Pierre de Beaumont, Supérieur, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3121",
+          "title": {
+            "fr-FR": "Lettre 3121. Thomas Berthe,prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3122",
+          "title": {
+            "fr-FR": "Lettre 3122. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-3123",
+          "title": {
+            "fr-FR": "Lettre 3123. À Claude le Pelletier"
+          }
+        },
+        {
+          "id": "lettre-3124",
+          "title": {
+            "fr-FR": "Lettre 3124. Edme Jolly Supérieur à Rome, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3125",
+          "title": {
+            "fr-FR": "Lettre 3125. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3126",
+          "title": {
+            "fr-FR": "Lettre 3126. Aux Supérieurs"
+          }
+        },
+        {
+          "id": "lettre-3127",
+          "title": {
+            "fr-FR": "Lettre 3127. À Pierre de Beaumont, Supérieur, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3128",
+          "title": {
+            "fr-FR": "Lettre 3128. À Gabriel Delespiney, — Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3129",
+          "title": {
+            "fr-FR": "Lettre 3129. À N *"
+          }
+        },
+        {
+          "id": "lettre-3130",
+          "title": {
+            "fr-FR": "Lettre 3130. Edme Jolly, Supérieur à Rome, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3131",
+          "title": {
+            "fr-FR": "Lettre 3131. À la Sœur Mathurine Guérin, — Supérieure à la Fère"
+          }
+        },
+        {
+          "id": "lettre-3132",
+          "title": {
+            "fr-FR": "Lettre 3132. À la Sœur Marguerite Chétif, Supérieure — À Arras"
+          }
+        },
+        {
+          "id": "lettre-3133",
+          "title": {
+            "fr-FR": "Lettre 3133. À Guillaume Desdames, Supérieur, — À Varsovie"
+          }
+        },
+        {
+          "id": "lettre-3134",
+          "title": {
+            "fr-FR": "Lettre 3134. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-3135",
+          "title": {
+            "fr-FR": "Lettre 3135. Edme Jolly, Supérieur à Rome, — À Saint Vinvent"
+          }
+        },
+        {
+          "id": "lettre-3136",
+          "title": {
+            "fr-FR": "Lettre 3136. À un Prêtre de la Mission en Barbarie"
+          }
+        },
+        {
+          "id": "lettre-3137",
+          "title": {
+            "fr-FR": "Lettre 3137. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3138",
+          "title": {
+            "fr-FR": "Lettre 3138. À une Nièce d’Antoine Portail"
+          }
+        },
+        {
+          "id": "lettre-3139",
+          "title": {
+            "fr-FR": "Lettre 3139. À la Sœur Jeanne Lacroix, Supérieure, — À Chateaudun"
+          }
+        },
+        {
+          "id": "lettre-3140",
+          "title": {
+            "fr-FR": "Lettre 3140. À Dominique Lhuillier"
+          }
+        },
+        {
+          "id": "lettre-3141",
+          "title": {
+            "fr-FR": "Lettre 3141. Au Père Eusèbe Chastellain"
+          }
+        },
+        {
+          "id": "lettre-3142",
+          "title": {
+            "fr-FR": "Lettre 3142. À Gabriel des Jardins, Supérieur, — À Narbonne"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-05",
+      "title": {
+        "fr-FR": "Année 1660 (2e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-3143",
+          "title": {
+            "fr-FR": "Lettre 3143. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3144",
+          "title": {
+            "fr-FR": "Lettre 3144. À Guillaume Desdames, Supérieur, — À Varsovie"
+          }
+        },
+        {
+          "id": "lettre-3145",
+          "title": {
+            "fr-FR": "Lettre 3145. À Monsieur Tristan"
+          }
+        },
+        {
+          "id": "lettre-3146",
+          "title": {
+            "fr-FR": "Lettre 3146. À Denis Laudin, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-3147",
+          "title": {
+            "fr-FR": "Lettre 3147. À une Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-3148",
+          "title": {
+            "fr-FR": "Lettre 3148. Aux Supérieurs"
+          }
+        },
+        {
+          "id": "lettre-3149",
+          "title": {
+            "fr-FR": "Lettre 3149. Charles de Latre à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3150",
+          "title": {
+            "fr-FR": "Lettre 3150. À la Sœur F’rançoise Carcireux, Supérieure, à Narbonne"
+          }
+        },
+        {
+          "id": "lettre-3151",
+          "title": {
+            "fr-FR": "Lettre 3151. À la Sœur Anne Denoual"
+          }
+        },
+        {
+          "id": "lettre-3152",
+          "title": {
+            "fr-FR": "Lettre 3152. À Jean Parre, Frère de la Mission, — À Reims"
+          }
+        },
+        {
+          "id": "lettre-3153",
+          "title": {
+            "fr-FR": "Lettre 3153. À François Fouquet, Archevêque — De Narbonne"
+          }
+        },
+        {
+          "id": "lettre-3154",
+          "title": {
+            "fr-FR": "Lettre 3154. Au Cardinal Durazzo"
+          }
+        },
+        {
+          "id": "lettre-3155",
+          "title": {
+            "fr-FR": "Lettre 3155. À Jean Parre, Frère de la Mission, — À Reims"
+          }
+        },
+        {
+          "id": "lettre-3156",
+          "title": {
+            "fr-FR": "Lettre 3156. Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-3157",
+          "title": {
+            "fr-FR": "Lettre 3157. M. Desnoyers à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3158",
+          "title": {
+            "fr-FR": "Lettre 3158. À Jean Parre, Frère de la Mission, — À Reims"
+          }
+        },
+        {
+          "id": "lettre-3159",
+          "title": {
+            "fr-FR": "Lettre 3159. À Pierre Pingré, Évêque de Toulon"
+          }
+        },
+        {
+          "id": "lettre-3160",
+          "title": {
+            "fr-FR": "Lettre 3160. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-3161",
+          "title": {
+            "fr-FR": "Lettre 3161. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-3162",
+          "title": {
+            "fr-FR": "Lettre 3162. Madame du Boulet-Brular à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3163",
+          "title": {
+            "fr-FR": "Lettre 3163. À Jean Parre, Frère de la Mission, — À Reims"
+          }
+        },
+        {
+          "id": "lettre-3164",
+          "title": {
+            "fr-FR": "Lettre 3164. M. Dufresner à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3165",
+          "title": {
+            "fr-FR": "Lettre 3165. Sœur Nicole Haran, Supérieure à Nantes, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3166",
+          "title": {
+            "fr-FR": "Lettre 3166. À Mademoiselle d’Aubrai"
+          }
+        },
+        {
+          "id": "lettre-3167",
+          "title": {
+            "fr-FR": "Lettre 3167. À Jacques Pesnelle, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-3168",
+          "title": {
+            "fr-FR": "Lettre 3168. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3169",
+          "title": {
+            "fr-FR": "Lettre 3169. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-3170",
+          "title": {
+            "fr-FR": "Lettre 3170. J. de Brevedent à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3171",
+          "title": {
+            "fr-FR": "Lettre 3171. À Jean Parre, Frère de la Mission, — À Reims"
+          }
+        },
+        {
+          "id": "lettre-3172",
+          "title": {
+            "fr-FR": "Lettre 3172. M. Bourdet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3173",
+          "title": {
+            "fr-FR": "Lettre 3173. Jean Larmurye à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3174",
+          "title": {
+            "fr-FR": "Lettre 3174. À René Alméras, à Tours"
+          }
+        },
+        {
+          "id": "lettre-3175",
+          "title": {
+            "fr-FR": "Lettre 3175. Au Frère Melchior Gaudoin, au Mans"
+          }
+        },
+        {
+          "id": "lettre-3176",
+          "title": {
+            "fr-FR": "Lettre 3176. Jean de Fricourt, Clerc de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3177",
+          "title": {
+            "fr-FR": "Lettre 3177. Sœur Jolly à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3178",
+          "title": {
+            "fr-FR": "Lettre 3178. Le Chanoine le Mareschal à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3179",
+          "title": {
+            "fr-FR": "Lettre 3179. Madame de Flacourt (1) à Saint Vincent`"
+          }
+        },
+        {
+          "id": "lettre-3180",
+          "title": {
+            "fr-FR": "Lettre 3180. Claude de Pouilly, Marquise d’Esne, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3181",
+          "title": {
+            "fr-FR": "Lettre 3181. À Denis Laudin"
+          }
+        },
+        {
+          "id": "lettre-3182",
+          "title": {
+            "fr-FR": "Lettre 3182. La Mère de Monluc à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3183",
+          "title": {
+            "fr-FR": "Lettre 3183. Montigny-Seruyent à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3184",
+          "title": {
+            "fr-FR": "Lettre 3184. De la Visitation de Paris à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3185",
+          "title": {
+            "fr-FR": "Lettre 3185. Louise-Eugénie de Fonteines — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3186",
+          "title": {
+            "fr-FR": "Lettre 3186. Edme Picardat (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3187",
+          "title": {
+            "fr-FR": "Lettre 3187. Madame Potier de Lamoignon — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3188",
+          "title": {
+            "fr-FR": "Lettre 3188. Pierre Bausset, Prévôt de Marseille, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3189",
+          "title": {
+            "fr-FR": "Lettre 3189. Louise-Eugénie de Fonteines à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3190",
+          "title": {
+            "fr-FR": "Lettre 3190. Anne-Marguerite Guérin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3191",
+          "title": {
+            "fr-FR": "Lettre 3191. À Jean du Haut de Salies, — Évêque de Lescar"
+          }
+        },
+        {
+          "id": "lettre-3192",
+          "title": {
+            "fr-FR": "Lettre 3192. Marie-Agnes le Roy à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3193",
+          "title": {
+            "fr-FR": "Lettre 3193. Marie-Catherine le Gay à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3194",
+          "title": {
+            "fr-FR": "Lettre 3194. Le Père Claude Séguenot à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3195",
+          "title": {
+            "fr-FR": "Lettre 3195. M. Pinon à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3196",
+          "title": {
+            "fr-FR": "Lettre 3196. Joseph Bayn à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3197",
+          "title": {
+            "fr-FR": "Lettre 3197. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3198",
+          "title": {
+            "fr-FR": "Lettre 3198. À Jacques Pesnelle, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-3199",
+          "title": {
+            "fr-FR": "Lettre 3199. Anne Marguerite Guérin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3200",
+          "title": {
+            "fr-FR": "Lettre 3200. À Jean Parre, Frère de la Mission, — À Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-3201",
+          "title": {
+            "fr-FR": "Lettre 3201. Jean Hudicourt à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3202",
+          "title": {
+            "fr-FR": "Lettre 3202. Pierre de Bertier, Évêque de Montauban — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3203",
+          "title": {
+            "fr-FR": "Lettre 3203. Martin Husson à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3204",
+          "title": {
+            "fr-FR": "Lettre 3204. Jacques-Bénigne Bossuet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3205",
+          "title": {
+            "fr-FR": "Lettre 3205. Françoise-Marie Sibour à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3206",
+          "title": {
+            "fr-FR": "Lettre 3206. À René Alméras, Prêtre de la Mission, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3207",
+          "title": {
+            "fr-FR": "Lettre 3207. À Jean Parre, Frère de la Mission, — À Saint-Quentin"
+          }
+        },
+        {
+          "id": "lettre-3208",
+          "title": {
+            "fr-FR": "Lettre 3208. M. Pesnelle à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3209",
+          "title": {
+            "fr-FR": "Lettre 3209. Jacques-Bénigne Bossuet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3210",
+          "title": {
+            "fr-FR": "Lettre 3210. Jacques-Bénigne Bossuet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3211",
+          "title": {
+            "fr-FR": "Lettre 3211. Balthazar Grangier de Liverdi, — Évêque de Tréguier, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3212",
+          "title": {
+            "fr-FR": "Lettre 3212. M. d’Abancour à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3213",
+          "title": {
+            "fr-FR": "Lettre 3213. À Jacques Pesnelle, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-3214",
+          "title": {
+            "fr-FR": "Lettre 3214. Mathurine Guérin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3215",
+          "title": {
+            "fr-FR": "Lettre 3215. Thomas Bayn à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3216",
+          "title": {
+            "fr-FR": "Lettre 3216. À René Alméras, Prêtre de la Mission, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-3217",
+          "title": {
+            "fr-FR": "Lettre 3217. Madame Potier de Lamoignon — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3218",
+          "title": {
+            "fr-FR": "Lettre 3218. Le Marquis de Lionne à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3219",
+          "title": {
+            "fr-FR": "Lettre 3219. Nicolas Sevin, Évêque de Cahors, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3220",
+          "title": {
+            "fr-FR": "Lettre 3220. Aux Supérieurs"
+          }
+        },
+        {
+          "id": "lettre-3221",
+          "title": {
+            "fr-FR": "Lettre 3221. À François Péan"
+          }
+        },
+        {
+          "id": "lettre-3222",
+          "title": {
+            "fr-FR": "Lettre 3222. Françoise Carcireux à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-06",
+      "title": {
+        "fr-FR": "Année 1660 (3e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-3223",
+          "title": {
+            "fr-FR": "Lettre 3223. Marie-Agnes le Roy à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3224",
+          "title": {
+            "fr-FR": "Lettre 3224. Anne de Saujon (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3225",
+          "title": {
+            "fr-FR": "Lettre 3225. Jacques Charton à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3226",
+          "title": {
+            "fr-FR": "Lettre 3226. M. Delaforcade à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3227",
+          "title": {
+            "fr-FR": "Lettre 3227. À Madame Anne de Saujon"
+          }
+        },
+        {
+          "id": "lettre-3228",
+          "title": {
+            "fr-FR": "Lettre 3228. M Robineau à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3229",
+          "title": {
+            "fr-FR": "Lettre 3229. François Fouquet, — Archevêque de Narbonne, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3230",
+          "title": {
+            "fr-FR": "Lettre 3230. Joseph Bayn à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3231",
+          "title": {
+            "fr-FR": "Lettre 3231. M. Pesnelle à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3232",
+          "title": {
+            "fr-FR": "Lettre 3232. Maurice de la Tour d’Auvergne — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3233",
+          "title": {
+            "fr-FR": "Lettre 3233. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-3234",
+          "title": {
+            "fr-FR": "Lettre 3234. Anne-Marguerite Guérin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3235",
+          "title": {
+            "fr-FR": "Lettre 3235. Le Prieur de la Pérouse à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3236",
+          "title": {
+            "fr-FR": "Lettre 3236. Louise-Eugénie de Fonteines — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3237",
+          "title": {
+            "fr-FR": "Lettre 3237. Le Père Fulgence Daudignier — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3238",
+          "title": {
+            "fr-FR": "Lettre 3238. Le Prieur de la Pérouse à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3239",
+          "title": {
+            "fr-FR": "Lettre 3239. Le Président Frémyn à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3240",
+          "title": {
+            "fr-FR": "Lettre 3240. Le Prieur de la Pérouse à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3241",
+          "title": {
+            "fr-FR": "Lettre 3241. Sœur Avoie Vigneron à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3242",
+          "title": {
+            "fr-FR": "Lettre 3242. Jacques Coignet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3243",
+          "title": {
+            "fr-FR": "Lettre 3243. M. Leprestre à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3244",
+          "title": {
+            "fr-FR": "Lettre 3244. Jacques Charton à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3245",
+          "title": {
+            "fr-FR": "Lettre 3245. M. Aubert à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3246",
+          "title": {
+            "fr-FR": "Lettre 3246. Anne-Marguerite Guérin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3247",
+          "title": {
+            "fr-FR": "Lettre 3247. La Baronne de Renty (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3248",
+          "title": {
+            "fr-FR": "Lettre 3248. Madame Pottier de Lamoignon — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3249",
+          "title": {
+            "fr-FR": "Lettre 3249. M. Petit, Curé de St-Fargeau, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3250",
+          "title": {
+            "fr-FR": "Lettre 3250. Anne Gabrielle Doreau à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3251",
+          "title": {
+            "fr-FR": "Lettre 3251. Louise-Eugénie de Fonteine — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3252",
+          "title": {
+            "fr-FR": "Lettre 3252. Sœur Madeleine Maupeou à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3253",
+          "title": {
+            "fr-FR": "Lettre 3253. Sœur Marthe de Jésus (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3254",
+          "title": {
+            "fr-FR": "Lettre 3254. À Guillaume Desdames"
+          }
+        },
+        {
+          "id": "lettre-3255",
+          "title": {
+            "fr-FR": "Lettre 3255. Léonard Daniel (1) à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3256",
+          "title": {
+            "fr-FR": "Lettre 3256. Marie-Agnes le Roy à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3257",
+          "title": {
+            "fr-FR": "Lettre 3257. Jacques Coignet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3258",
+          "title": {
+            "fr-FR": "Lettre 3258. À N *"
+          }
+        },
+        {
+          "id": "lettre-3259",
+          "title": {
+            "fr-FR": "Lettre 3259. Le Cardinal Ludovisio à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3260",
+          "title": {
+            "fr-FR": "Lettre 3260. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-3261",
+          "title": {
+            "fr-FR": "Lettre 3261. 3161. - Madeleine Maupeou à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3262",
+          "title": {
+            "fr-FR": "Lettre 3262. M. Fournier à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3263",
+          "title": {
+            "fr-FR": "Lettre 3263. M. Fournier à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3264",
+          "title": {
+            "fr-FR": "Lettre 3264. M. Marin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3265",
+          "title": {
+            "fr-FR": "Lettre 3265. Sœur Françoise Carcireux à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3266",
+          "title": {
+            "fr-FR": "Lettre 3266. Nicolas Demousol à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3267",
+          "title": {
+            "fr-FR": "Lettre 3267. Monsieur Sanguinet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3268",
+          "title": {
+            "fr-FR": "Lettre 3268. Jacques-Bénigne Bossuet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3269",
+          "title": {
+            "fr-FR": "Lettre 3269. M Pillé à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3270",
+          "title": {
+            "fr-FR": "Lettre 3270. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3274",
+          "title": {
+            "fr-FR": "Lettre 3274. Louise-Eugénie de Fonteines à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3275",
+          "title": {
+            "fr-FR": "Lettre 3275. M. Roy à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3276",
+          "title": {
+            "fr-FR": "Lettre 3276. Jean Fouquet à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3277",
+          "title": {
+            "fr-FR": "Lettre 3277. Louise-Eugénie de Fonteines"
+          }
+        },
+        {
+          "id": "lettre-3278",
+          "title": {
+            "fr-FR": "Lettre 3278. À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3279",
+          "title": {
+            "fr-FR": "Lettre 3279. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-3280",
+          "title": {
+            "fr-FR": "Lettre 3280. À Firnin Get Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3281",
+          "title": {
+            "fr-FR": "Lettre 3281. À François Fouquet, — Archevêque de Narbonne"
+          }
+        },
+        {
+          "id": "lettre-3282",
+          "title": {
+            "fr-FR": "Lettre 3282. M Ameline à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3283",
+          "title": {
+            "fr-FR": "Lettre 3283. M. Garbuzat à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3284",
+          "title": {
+            "fr-FR": "Lettre 3284. Anne-Marguerite Guérin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3285",
+          "title": {
+            "fr-FR": "Lettre 3285. Le Cardinal Paul-Nicolas Bagni — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3286",
+          "title": {
+            "fr-FR": "Lettre 3286. Le Cardinal Durazzo à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3287",
+          "title": {
+            "fr-FR": "Lettre 3287. Jacques Lambert à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3288",
+          "title": {
+            "fr-FR": "Lettre 3288. Madame Poirier à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3290",
+          "title": {
+            "fr-FR": "Lettre 3290. Madame Fiesque à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3291",
+          "title": {
+            "fr-FR": "Lettre 3291. M. Barbier à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3292",
+          "title": {
+            "fr-FR": "Lettre 3292. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-3293",
+          "title": {
+            "fr-FR": "Lettre 3293. Nicolas Cabart à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3294",
+          "title": {
+            "fr-FR": "Lettre 3294. À Jean de Maupeou, — Évêque de Chalon-sur-Saône, à Paris"
+          }
+        },
+        {
+          "id": "lettre-3295",
+          "title": {
+            "fr-FR": "Lettre 3295. Anne-Marguerite Guérin à Saint Vincent"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-07",
+      "title": {
+        "fr-FR": "Année 1661"
+      },
+      "children": [
+        {
+          "id": "lettre-3296",
+          "title": {
+            "fr-FR": "Lettre 3296. Nicolas Etienne à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3297",
+          "title": {
+            "fr-FR": "Lettre 3297. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3298",
+          "title": {
+            "fr-FR": "Lettre 3298. Madade de Villeneuve à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3299",
+          "title": {
+            "fr-FR": "Lettre 3299. lambert aux couteaux,"
+          }
+        },
+        {
+          "id": "lettre-3300",
+          "title": {
+            "fr-FR": "Lettre 3300. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3301",
+          "title": {
+            "fr-FR": "Lettre 3301. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-3302",
+          "title": {
+            "fr-FR": "Lettre 3302. Madame de Villeneuve à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3303",
+          "title": {
+            "fr-FR": "Lettre 3303. À Guillaume Gallais, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-3304",
+          "title": {
+            "fr-FR": "Lettre 3304. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3305",
+          "title": {
+            "fr-FR": "Lettre 3305. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-3306",
+          "title": {
+            "fr-FR": "Lettre 3306. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3307",
+          "title": {
+            "fr-FR": "Lettre 3307. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-3308",
+          "title": {
+            "fr-FR": "Lettre 3308. À M Horcholle"
+          }
+        },
+        {
+          "id": "lettre-3310",
+          "title": {
+            "fr-FR": "Lettre 3310. À Louis de Chandenier, Abbé de Tournus"
+          }
+        },
+        {
+          "id": "lettre-3311",
+          "title": {
+            "fr-FR": "Lettre 3311. Jean Barreau, Consul de France,"
+          }
+        },
+        {
+          "id": "lettre-3312",
+          "title": {
+            "fr-FR": "Lettre 3312. À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3313",
+          "title": {
+            "fr-FR": "Lettre 3313. Jean Barreau, Consul de France, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-3314",
+          "title": {
+            "fr-FR": "Lettre 3314. À Joseph Beaulac, Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-3315",
+          "title": {
+            "fr-FR": "Lettre 3315. À Gabriel Delespiney, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-3316",
+          "title": {
+            "fr-FR": "Lettre 3316. À Thomas Berthe"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
