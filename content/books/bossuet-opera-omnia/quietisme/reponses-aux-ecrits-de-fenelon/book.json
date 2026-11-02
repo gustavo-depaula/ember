@@ -1,0 +1,90 @@
+{
+  "id": "bossuet-reponses-aux-ecrits-de-fenelon",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Réponses aux écrits de Fénelon et pièces de la controverse",
+    "en-US": "Replies to Fénelon’s Writings and Documents of the Controversy",
+    "pt-BR": "Respostas aos escritos de Fénelon e peças da controvérsia"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Réponses de Bossuet aux lettres et aux défenseurs de l’archevêque de Cambrai (1698) : la Réponse d’un théologien, la Réponse aux Préjugés décisifs, les Passages éclaircis, le dernier éclaircissement, le mandement de Meaux et la relation des actes et délibérations de l’assemblée. Édition Lachat (1864).",
+    "en-US": "Bossuet’s replies to the letters and defenders of the Archbishop of Cambrai (1698): the Reply of a Theologian, the Reply to the Decisive Prejudices, the Passages Cleared Up, the final clarification, the mandate of Meaux and the account of the acts and deliberations of the assembly. Lachat edition (1864).",
+    "pt-BR": "Respostas de Bossuet às cartas e aos defensores do arcebispo de Cambrai (1698): a Resposta de um teólogo, a Resposta aos Preconceitos decisivos, as Passagens esclarecidas, o último esclarecimento, o mandamento de Meaux e a relação dos atos e deliberações da assembleia. Edição Lachat (1864)."
+  },
+  "composed": "1698",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/reponses-aux-ecrits-de-fenelon",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume020/006.htm to 013.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XX, pages 006-013. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "reponse-theologien",
+      "title": {
+        "fr-FR": "Réponse d’un théologien à la première lettre de M. l’archevêque de Cambrai"
+      }
+    },
+    {
+      "id": "reponse-prejuges",
+      "title": {
+        "fr-FR": "Réponse aux Préjugés décisifs pour M. l’archevêque de Cambrai"
+      }
+    },
+    {
+      "id": "passages-eclaircis-1",
+      "title": {
+        "fr-FR": "Avertissement sur la signature des docteurs : les passages éclaircis (chapitres I-V)"
+      }
+    },
+    {
+      "id": "passages-eclaircis-2",
+      "title": {
+        "fr-FR": "Les passages éclaircis, suite"
+      }
+    },
+    {
+      "id": "passages-eclaircis-3",
+      "title": {
+        "fr-FR": "Les passages éclaircis (chapitres VI-XXVIII)"
+      }
+    },
+    {
+      "id": "reflexions",
+      "title": {
+        "fr-FR": "Réflexions, ou dernier éclaircissement sur la réponse de M. l’archevêque de Cambrai aux Remarques de M. de Meaux"
+      }
+    },
+    {
+      "id": "mandement",
+      "title": {
+        "fr-FR": "Mandement de Monseigneur l’évêque de Meaux"
+      }
+    },
+    {
+      "id": "relation-des-actes",
+      "title": {
+        "fr-FR": "Relation des actes et délibérations"
+      }
+    }
+  ]
+}
