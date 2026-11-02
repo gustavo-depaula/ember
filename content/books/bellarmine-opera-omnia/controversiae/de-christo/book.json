@@ -1,0 +1,724 @@
+{
+  "id": "bellarmine-controversiae-de-christo",
+  "cover": "classic",
+  "name": {
+    "la": "De Christo",
+    "en-US": "On Christ",
+    "pt-BR": "Sobre Cristo"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De Christo. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the second general controversy: the divinity, incarnation and soul of Christ against the Arians and others. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre Cristo."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-christo",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia01bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 1 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Explicatur sententia novorum Arianorum",
+            "en-US": "Caput II. Explicatur sententia novorum Arianorum"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Deum unum numero esse, ex Scripturis et Patribus demonstratur",
+            "en-US": "Caput III. Deum unum numero esse, ex Scripturis et Patribus demonstratur"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Divinitas Filii Dei asseritur",
+            "en-US": "Caput IV. Divinitas Filii Dei asseritur"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Secunda Classis ex veteri Testamento",
+            "en-US": "Caput V. Secunda Classis ex veteri Testamento"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Quarta Classis ex nominibus veri Dei",
+            "en-US": "Caput VII. Quarta Classis ex nominibus veri Dei"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. \\ ' f » r' t; \" j ' |-2l",
+            "en-US": "Caput VIII. \\ ' f » r' t; \" j ' |-2l"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Sexta Classis ex operibus",
+            "en-US": "Caput IX. Sexta Classis ex operibus"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X",
+            "en-US": "Caput X"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Octava Classis ex Sibyllis",
+            "en-US": "Caput XI. Octava Classis ex Sibyllis"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Mona classis ex divinis testimoniis visionum et miraculorum",
+            "en-US": "Caput XII. Mona classis ex divinis testimoniis visionum et miraculorum"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Demonstratur Divinitas Spiritus sancti",
+            "en-US": "Caput XIII. Demonstratur Divinitas Spiritus sancti"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. lib. I, de Trinit. cap. 6. lib. 1 cont. Maxim, in fin. B. Thomas lib. IV. cont. gent. a cap. 16. ad 27",
+            "en-US": "Caput XIV. lib. I, de Trinit. cap. 6. lib. 1 cont. Maxim, in fin. B. Thomas lib. IV. cont. gent. a cap. 16. ad 27"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. Solvitur argumentum Secundum",
+            "en-US": "Caput XV. Solvitur argumentum Secundum"
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI. Solvitur argumentum Tertium",
+            "en-US": "Caput XVI. Solvitur argumentum Tertium"
+          }
+        },
+        {
+          "id": "b1c17",
+          "title": {
+            "la": "Caput XVII. Solvitur argumentum Quartum",
+            "en-US": "Caput XVII. Solvitur argumentum Quartum"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX. Solvitur argumentum Sextum",
+            "en-US": "Caput XIX. Solvitur argumentum Sextum"
+          }
+        },
+        {
+          "id": "b1c20",
+          "title": {
+            "la": "Caput XX. Solvuntur objectiones contra Divinitatem Spiritus sancti",
+            "en-US": "Caput XX. Solvuntur objectiones contra Divinitatem Spiritus sancti"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II",
+            "en-US": "Caput II"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De vocibus Essentia et Homousios",
+            "en-US": "Caput III. De vocibus Essentia et Homousios"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. De vocibus Hypostasis et substantia",
+            "en-US": "Caput IV. De vocibus Hypostasis et substantia"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. De cceteris vocibus",
+            "en-US": "Caput V. De cceteris vocibus"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. Ostenditur distinctio personarum",
+            "en-US": "Caput VI. Ostenditur distinctio personarum"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII",
+            "en-US": "Caput VII"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Diluitur argumentum secundum",
+            "en-US": "Caput VIII. Diluitur argumentum secundum"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Diluitur argumentum tertium",
+            "en-US": "Caput IX. Diluitur argumentum tertium"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X",
+            "en-US": "Caput X"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Diluitur argumentum quintum",
+            "en-US": "Caput XI. Diluitur argumentum quintum"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Diluitur argumentum sextum",
+            "en-US": "Caput XII. Diluitur argumentum sextum"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. Diluitur argumentum septimum",
+            "en-US": "Caput XIII. Diluitur argumentum septimum"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Diluitur argumentum octavum",
+            "en-US": "Caput XIV. Diluitur argumentum octavum"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Diluitur argumentum nonum",
+            "en-US": "Caput XV. Diluitur argumentum nonum"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI",
+            "en-US": "Caput XVI"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Diluitur argumentum undecimum",
+            "en-US": "Caput XVII. Diluitur argumentum undecimum"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. An Filius Dei sit autotheos",
+            "en-US": "Caput XIX. An Filius Dei sit autotheos"
+          }
+        },
+        {
+          "id": "b2c21",
+          "title": {
+            "la": "Caput XXI. De Origine hujus hceresis",
+            "en-US": "Caput XXI. De Origine hujus hceresis"
+          }
+        },
+        {
+          "id": "b2c22",
+          "title": {
+            "la": "Caput XXII. Ex Scripturis ostenditur, Spiritum a Filio procedere",
+            "en-US": "Caput XXII. Ex Scripturis ostenditur, Spiritum a Filio procedere"
+          }
+        },
+        {
+          "id": "b2c23",
+          "title": {
+            "la": "Caput XXIII",
+            "en-US": "Caput XXIII"
+          }
+        },
+        {
+          "id": "b2c24",
+          "title": {
+            "la": "Caput XXIV. Idem probatur ex Patribus Latinis",
+            "en-US": "Caput XXIV. Idem probatur ex Patribus Latinis"
+          }
+        },
+        {
+          "id": "b2c25",
+          "title": {
+            "la": "Caput XXV",
+            "en-US": "Caput XXV"
+          }
+        },
+        {
+          "id": "b2c26",
+          "title": {
+            "la": "Caput XXVI. Et ratione idem confirmatur",
+            "en-US": "Caput XXVI. Et ratione idem confirmatur"
+          }
+        },
+        {
+          "id": "b2c27",
+          "title": {
+            "la": "Caput XXVII. Solvuntur argumenta Gr oecorum",
+            "en-US": "Caput XXVII. Solvuntur argumenta Gr oecorum"
+          }
+        },
+        {
+          "id": "b2c28",
+          "title": {
+            "la": "Caput XXVIII. Demonstratur recte factam additionem illam, Filioque",
+            "en-US": "Caput XXVIII. Demonstratur recte factam additionem illam, Filioque"
+          }
+        },
+        {
+          "id": "b2c29",
+          "title": {
+            "la": "Caput XXIX. Solvuntur objectiones Graecorum",
+            "en-US": "Caput XXIX. Solvuntur objectiones Graecorum"
+          }
+        },
+        {
+          "id": "b2c30",
+          "title": {
+            "la": "Caput XXX. Concluditur disputatio divino testimonio",
+            "en-US": "Caput XXX. Concluditur disputatio divino testimonio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. Explicatur hceresis Eutychetis",
+            "en-US": "Caput II. Explicatur hceresis Eutychetis"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Refellitur hceresis Eutychetis",
+            "en-US": "Caput III. Refellitur hceresis Eutychetis"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. Solvuntur argumenta, quee fiebant olim adversus ea, quae superiore capite demonstrata sunt",
+            "en-US": "Caput IV. Solvuntur argumenta, quee fiebant olim adversus ea, quae superiore capite demonstrata sunt"
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V. Explicatur hceresis Nestorii",
+            "en-US": "Caput V. Explicatur hceresis Nestorii"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. Refellitur hceresis Nestorii",
+            "en-US": "Caput VI. Refellitur hceresis Nestorii"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. Solvuntur argumenta adversariorum",
+            "en-US": "Caput VII. Solvuntur argumenta adversariorum"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Explicatur, in quo proprie consistat unio hypostatica duarum naturarum",
+            "en-US": "Caput VIII. Explicatur, in quo proprie consistat unio hypostatica duarum naturarum"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX",
+            "en-US": "Caput IX"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. Ex unione hypostatica non fluxisse communicationem idiomatum realem respectu naturarum",
+            "en-US": "Caput X. Ex unione hypostatica non fluxisse communicationem idiomatum realem respectu naturarum"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. Refellitur Ubiquitas humanitatis Christi, quia pugnat cum Scripturis",
+            "en-US": "Caput XI. Refellitur Ubiquitas humanitatis Christi, quia pugnat cum Scripturis"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. Refellitur Ubiquitas corporis Christi, quia repugnat Symbolo Apostolico",
+            "en-US": "Caput XII. Refellitur Ubiquitas corporis Christi, quia repugnat Symbolo Apostolico"
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. Refellitur Ubiquitas, quia repugnat prcesentice corporis Domini in Eucharistia",
+            "en-US": "Caput XIII. Refellitur Ubiquitas, quia repugnat prcesentice corporis Domini in Eucharistia"
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. Refellitur Ubiquitas testimoniis Patrum",
+            "en-US": "Caput XIV. Refellitur Ubiquitas testimoniis Patrum"
+          }
+        },
+        {
+          "id": "b3c15",
+          "title": {
+            "la": "Caput XV. Solvitur argumentum haereticorum",
+            "en-US": "Caput XV. Solvitur argumentum haereticorum"
+          }
+        },
+        {
+          "id": "b3c16",
+          "title": {
+            "la": "Caput XVI",
+            "en-US": "Caput XVI"
+          }
+        },
+        {
+          "id": "b3c18",
+          "title": {
+            "la": "Caput XVIII. Solvitur argumentum ex Patrum testimoniis petitum",
+            "en-US": "Caput XVIII. Solvitur argumentum ex Patrum testimoniis petitum"
+          }
+        },
+        {
+          "id": "b3c19",
+          "title": {
+            "la": "Caput XIX. Solvitur argumentum depromptum ex doctrina Scholasticorum",
+            "en-US": "Caput XIX. Solvitur argumentum depromptum ex doctrina Scholasticorum"
+          }
+        },
+        {
+          "id": "b3c20",
+          "title": {
+            "la": "Caput XX. Solvitur postrema objectio ex naturali ratione deducta",
+            "en-US": "Caput XX. Solvitur postrema objectio ex naturali ratione deducta"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I. Proponitur controversia prima de scientia animae Christi",
+            "en-US": "Caput I. Proponitur controversia prima de scientia animae Christi"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III",
+            "en-US": "Caput III"
+          }
+        },
+        {
+          "id": "b4c04",
+          "title": {
+            "la": "Caput IV. Idem probatur rationibus",
+            "en-US": "Caput IV. Idem probatur rationibus"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII",
+            "en-US": "Caput VII"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII",
+            "en-US": "Caput VIII"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Proponitur tertius error refellendus de descensu Christi ad inferos",
+            "en-US": "Caput IX. Proponitur tertius error refellendus de descensu Christi ad inferos"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. Inferos esse loca subterranea distincta a sepulchris",
+            "en-US": "Caput X. Inferos esse loca subterranea distincta a sepulchris"
+          }
+        },
+        {
+          "id": "b4c11",
+          "title": {
+            "la": "Caput XI. Animas piorum non fuisse in coelo ante Christi ascensionem",
+            "en-US": "Caput XI. Animas piorum non fuisse in coelo ante Christi ascensionem"
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII. Christum ad inferos descendisse vere, ostenditur ex Scripturis",
+            "en-US": "Caput XII. Christum ad inferos descendisse vere, ostenditur ex Scripturis"
+          }
+        },
+        {
+          "id": "b4c13",
+          "title": {
+            "la": "Caput XIII. Explicatur locus obscurissimus ex epistola prima S. Petri, cap. III et IV",
+            "en-US": "Caput XIII. Explicatur locus obscurissimus ex epistola prima S. Petri, cap. III et IV"
+          }
+        },
+        {
+          "id": "b4c14",
+          "title": {
+            "la": "Caput XIV",
+            "en-US": "Caput XIV"
+          }
+        },
+        {
+          "id": "b4c15",
+          "title": {
+            "la": "Caput XV. Christum proprie, ac reipsa descendisse ad, inferos",
+            "en-US": "Caput XV. Christum proprie, ac reipsa descendisse ad, inferos"
+          }
+        },
+        {
+          "id": "b4c16",
+          "title": {
+            "la": "Caput XVI. Solvuntur quaedam dubia",
+            "en-US": "Caput XVI. Solvuntur quaedam dubia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b5c02",
+          "title": {
+            "la": "Caput II. Refutatur error Stancaride Mediatore",
+            "en-US": "Caput II. Refutatur error Stancaride Mediatore"
+          }
+        },
+        {
+          "id": "b5c03",
+          "title": {
+            "la": "Caput III. Refutantur ex Scripturis errores Calvinistarum et Lutheronorum de Mediatore",
+            "en-US": "Caput III. Refutantur ex Scripturis errores Calvinistarum et Lutheronorum de Mediatore"
+          }
+        },
+        {
+          "id": "b5c04",
+          "title": {
+            "la": "Caput IV. Refellitur idem error ex Patribus",
+            "en-US": "Caput IV. Refellitur idem error ex Patribus"
+          }
+        },
+        {
+          "id": "b5c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b5c07",
+          "title": {
+            "la": "Caput VII. Explicantur testimonia Patrum, quce adversarii proferunt",
+            "en-US": "Caput VII. Explicantur testimonia Patrum, quce adversarii proferunt"
+          }
+        },
+        {
+          "id": "b5c08",
+          "title": {
+            "la": "Caput VIII. Solvuntur argumenta ex ratione petita",
+            "en-US": "Caput VIII. Solvuntur argumenta ex ratione petita"
+          }
+        },
+        {
+          "id": "b5c09",
+          "title": {
+            "la": "Caput IX. Ostenditur, Christum sibi etiam aliquid meruisse",
+            "en-US": "Caput IX. Ostenditur, Christum sibi etiam aliquid meruisse"
+          }
+        },
+        {
+          "id": "b5c10",
+          "title": {
+            "la": "Caput X. Solvuntur argumenta Calvini",
+            "en-US": "Caput X. Solvuntur argumenta Calvini"
+          }
+        }
+      ]
+    }
+  ]
+}
