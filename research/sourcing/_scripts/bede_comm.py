@@ -37,7 +37,7 @@ def units(text, restart=False, label='Liber'):
     return out
 def tcase2(s):
     s = s.rstrip('.').strip()
-XXf build(srcs, restart=False):
+def build(srcs, restart=False):
     """srcs: list of (ws name, unit title or None). Returns (toc, chapters, rawtext)."""
     toc = []; chs = {}; raw = []
     k = 0
