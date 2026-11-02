@@ -1,0 +1,68 @@
+{
+  "id": "fenelon-jansenisme-dissertationes",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Dissertationes quatuor ad Jansenismi controversiam spectantes (1823)",
+    "en-US": "Four Dissertations on the Jansenist Controversy (1823)",
+    "pt-BR": "Quatro dissertações sobre a controvérsia jansenista (1823)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Quatre dissertations latines de Fénelon, publiées en 1823 : sur l’infaillibilité de l’Église touchant les textes dogmatiques (au cardinal Gabrielli), sur une nouvelle profession de foi touchant la condamnation de Jansénius, sur la prémotion physique des thomistes et la délectation invincible des jansénistes, et une lettre sur la préface générale des Bénédictins à l’édition de saint Augustin.",
+    "en-US": "Four Latin dissertations by Fénelon, first published in 1823: on the Church’s infallibility regarding dogmatic texts (to Cardinal Gabrielli), on a new profession of faith concerning the condemnation of Jansenius, on the physical premotion of the Thomists and the invincible delectation of the Jansenists, and a letter on the general preface of the Benedictines to the edition of St Augustine.",
+    "pt-BR": "Quatro dissertações latinas de Fénelon, publicadas em 1823: sobre a infalibilidade da Igreja quanto aos textos dogmáticos (ao cardeal Gabrielli), sobre uma nova profissão de fé a respeito da condenação de Jansenius, sobre a premoção física dos tomistas e a deleitação invencível dos jansenistas, e uma carta sobre o prefácio geral dos beneditinos à edição de santo Agostinho."
+  },
+  "composed": "1703–1714",
+  "languages": [
+    "la"
+  ],
+  "work": "fenelon/dissertationes-jansenisme",
+  "editions": {
+    "la": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/oeuvrescomplte05fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 5, p. 188–221; archive.org OCR (ABBYY).",
+      "description": "Latin text. Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors left uncorrected (the spelling vote is French only); period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-dissertationes-quatuor",
+      "title": {
+        "la": "Dissertationes quatuor ad Jansenismi controversiam spectantes"
+      },
+      "children": [
+        {
+          "id": "01-dissertationes-quatuor-01",
+          "title": {
+            "la": "Dissertationes quatuor ad Jansenismi controversiam spectantes, pars 1"
+          }
+        },
+        {
+          "id": "01-dissertationes-quatuor-02",
+          "title": {
+            "la": "Dissertationes quatuor ad Jansenismi controversiam spectantes, pars 2"
+          }
+        },
+        {
+          "id": "01-dissertationes-quatuor-03",
+          "title": {
+            "la": "Dissertationes quatuor ad Jansenismi controversiam spectantes, pars 3"
+          }
+        }
+      ]
+    }
+  ]
+}
