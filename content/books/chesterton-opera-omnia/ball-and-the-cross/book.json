@@ -1,0 +1,159 @@
+{
+  "id": "chesterton-ball-and-the-cross",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Ball and the Cross",
+    "pt-BR": "A Bola e a Cruz"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's novel of a Catholic Highlander and an atheist editor who set out to fight a duel over the Virgin Mary and are chased across England and into a madhouse by a world that cannot bear to see anyone believe anything. A comedy of faith and unbelief that ends in an apocalyptic dream.",
+    "pt-BR": "O romance de Chesterton sobre um highlander católico e um editor ateu que decidem duelar por causa da Virgem Maria e são perseguidos pela Inglaterra, até um manicômio, por um mundo que não suporta ver alguém crer em coisa alguma. Uma comédia de fé e descrença que termina num sonho apocalíptico."
+  },
+  "composed": "1909",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/ball-and-the-cross",
+  "editions": {
+    "en-US": {
+      "editor": "Wells Gardner, Darton & Co.",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/5265",
+      "edition": "The Ball and the Cross (London: Wells Gardner, Darton & Co., 1910; serialised 1905-06), Project Gutenberg #5265.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1909 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-a-discussion-somewhat-in-the-air",
+      "title": {
+        "en-US": "I. A Discussion Somewhat in the Air"
+      }
+    },
+    {
+      "id": "ch02-the-religion-of-the-stipendiary-magistrate",
+      "title": {
+        "en-US": "II. The Religion of the Stipendiary Magistrate"
+      }
+    },
+    {
+      "id": "ch03-some-old-curiosities",
+      "title": {
+        "en-US": "III. Some Old Curiosities"
+      }
+    },
+    {
+      "id": "ch04-a-discussion-at-dawn",
+      "title": {
+        "en-US": "IV. A Discussion at Dawn"
+      }
+    },
+    {
+      "id": "ch05-the-peacemaker",
+      "title": {
+        "en-US": "V. The Peacemaker"
+      }
+    },
+    {
+      "id": "ch06-the-other-philosopher",
+      "title": {
+        "en-US": "VI. The Other Philosopher"
+      }
+    },
+    {
+      "id": "ch07-the-village-of-grassley-in-the-hole",
+      "title": {
+        "en-US": "VII. The Village of Grassley-in-the-hole"
+      }
+    },
+    {
+      "id": "ch08-an-interlude-of-argument",
+      "title": {
+        "en-US": "VIII. An Interlude of Argument"
+      }
+    },
+    {
+      "id": "ch09-the-strange-lady",
+      "title": {
+        "en-US": "IX. The Strange Lady"
+      }
+    },
+    {
+      "id": "ch10-the-swords-rejoined",
+      "title": {
+        "en-US": "X. The Swords Rejoined"
+      }
+    },
+    {
+      "id": "ch11-a-scandal-in-the-village",
+      "title": {
+        "en-US": "XI. A Scandal in the Village"
+      }
+    },
+    {
+      "id": "ch12-the-desert-island",
+      "title": {
+        "en-US": "XII. The Desert Island"
+      }
+    },
+    {
+      "id": "ch13-the-garden-of-peace",
+      "title": {
+        "en-US": "XIII. The Garden of Peace"
+      }
+    },
+    {
+      "id": "ch14-a-museum-of-souls",
+      "title": {
+        "en-US": "XIV. A Museum of Souls"
+      }
+    },
+    {
+      "id": "ch15-the-dream-of-macian",
+      "title": {
+        "en-US": "XV. The Dream of Macian"
+      }
+    },
+    {
+      "id": "ch16-the-dream-of-turnbull",
+      "title": {
+        "en-US": "XVI. The Dream of Turnbull"
+      }
+    },
+    {
+      "id": "ch17-the-idiot",
+      "title": {
+        "en-US": "XVII. The Idiot"
+      }
+    },
+    {
+      "id": "ch18-a-riddle-of-faces",
+      "title": {
+        "en-US": "XVIII. A Riddle of Faces"
+      }
+    },
+    {
+      "id": "ch19-the-last-parley",
+      "title": {
+        "en-US": "XIX. The Last Parley"
+      }
+    },
+    {
+      "id": "ch20-dies-irae",
+      "title": {
+        "en-US": "XX. Dies Irae"
+      }
+    }
+  ]
+}
