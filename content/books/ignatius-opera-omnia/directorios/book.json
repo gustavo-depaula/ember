@@ -1,0 +1,60 @@
+{
+  "id": "ignatius-directorios",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Directorios de los Ejercicios",
+    "en-US": "Directories of the Exercises",
+    "pt-BR": "Diretórios dos Exercícios"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "es-ES": "Los directorios de San Ignacio para dar los Ejercicios: el Directorio autógrafo, las notas dadas de palabra (recogidas por Polanco) y el Directorio dictado al P. Vitoria (hacia 1555).",
+    "en-US": "St. Ignatius's directories for giving the Exercises: the autograph Directory, the notes given by word of mouth (taken down by Polanco) and the Directory dictated to Fr. Vitoria (c. 1555). Spanish only for now.",
+    "pt-BR": "Os diretórios de Santo Inácio para dar os Exercícios: o Diretório autógrafo, as notas dadas de viva voz (recolhidas por Polanco) e o Diretório ditado ao P. Vitória (por volta de 1555)."
+  },
+  "composed": "1540–1555",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "ignatius-of-loyola/directorios",
+  "editions": {
+    "es-ES": {
+      "editor": "Documenta Catholica Omnia, from Monumenta Ignatiana Series II (Exercitia spiritualia et eorum Directoria)",
+      "year": 1555
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.documentacatholicaomnia.eu/03d/1491-1556,_Ignacio_Loyola,_Directorios_de_Ejercicios,_ES.pdf",
+      "edition": "Directorios de Ejercicios, Documenta Catholica Omnia PDF: the autograph Directory (chapters 1-3), the notes given by word of mouth (Polanco) and the Directory dictated to Vitoria. Page numbers removed.",
+      "description": "Rubrics and chapter titles printed in capitals in the PDF are kept as they stand inside the first paragraph of each part. The English of Longridge (1919) appends a Directory but does not follow these divisions.",
+      "tier": "B",
+      "tierEvidence": "Sixteenth-century texts dictated or written by Ignatius; distributed by Documenta Catholica Omnia without any copyright claim or licence; free in practice."
+    }
+  ],
+  "toc": [
+    {
+      "id": "directorio-autografo",
+      "title": {
+        "es-ES": "Directorio autógrafo"
+      }
+    },
+    {
+      "id": "notas-de-palabra",
+      "title": {
+        "es-ES": "Notas sobre los Ejercicios dadas de palabra"
+      }
+    },
+    {
+      "id": "directorio-dictado",
+      "title": {
+        "es-ES": "Directorio dictado al P. Vitoria"
+      }
+    }
+  ]
+}
