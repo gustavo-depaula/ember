@@ -1,0 +1,196 @@
+{
+  "id": "bellarmine-controversiae-de-matrimonio",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramento matrimonii",
+    "en-US": "On the Sacrament of Marriage",
+    "pt-BR": "Sobre o sacramento do matrimônio"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De sacramento matrimonii. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the sacrament of marriage: its unity, firmness and impediments. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre o sacramento do matrimônio."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-matrimonio",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia05bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 5 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Controversia I",
+        "en-US": "Controversy I"
+      },
+      "children": [
+        {
+          "id": "b1intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De statu qusestionis, et erroribus hxreticorum",
+            "en-US": "Caput I. De statu qusestionis, et erroribus hxreticorum"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Matrimonium sacramentum esse, probatur ex divinis litteris",
+            "en-US": "Caput II. Matrimonium sacramentum esse, probatur ex divinis litteris"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Matrimonium Sacramentum esse, probatur ex Patribus",
+            "en-US": "Caput III. Matrimonium Sacramentum esse, probatur ex Patribus"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Probatur ratione, Matrimonium esse sacramentum proprie dictum",
+            "en-US": "Caput IV. Probatur ratione, Matrimonium esse sacramentum proprie dictum"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Solvuntur argumenta adversariorum",
+            "en-US": "Caput V. Solvuntur argumenta adversariorum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Controversia II",
+        "en-US": "Controversy II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Controversia III",
+        "en-US": "Controversy III"
+      },
+      "children": [
+        {
+          "id": "b3intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Controversia IV",
+        "en-US": "Controversy IV"
+      },
+      "children": [
+        {
+          "id": "b4intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Controversia V",
+        "en-US": "Controversy V"
+      },
+      "children": [
+        {
+          "id": "b5intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "title": {
+        "la": "Controversia VI",
+        "en-US": "Controversy VI"
+      },
+      "children": [
+        {
+          "id": "b6intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b7",
+      "title": {
+        "la": "Controversia VII",
+        "en-US": "Controversy VII"
+      },
+      "children": [
+        {
+          "id": "b7intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    }
+  ]
+}

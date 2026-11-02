@@ -1,0 +1,5 @@
+# Praefatio
+
+De Sacramento matrimonii septem controversias sunt. Prima, de genere, an sit sacramentum novae legis. Secunda, de materia, forma et ministro. Tertia, de unitate matrimonii. Quarta, de indissolubilitate, sive de divortio. Quinta, de impedimentis. Sexta, de judice causarum matrimonialium. Septima, de coeremoniis.
+
+Scribunt autem de Matrimonio adversus haereticos, Thomas Waldensis, tomo ii. cap. 130. et sequentibus; Joannes Roffensis in defensione libri Regis Henrici VIII; Alphons. a Castro, lib. ii. contra haereses, verbo Nuptiae; Ruardus Tapperus in explicatione articuli 18. 19 et 20. Lovaniensium; Petrus a Soto, in institutione Sacerdotum, in lectionibus de matrimonio; Dominicus a Soto in iv, distinet. 26. Hosius Cardinalis, in explicatione Symboli, cap. 55 et 56; Gulielmus Lindanus, lib. iv. Panopliae, cap. 94; Joan. Eckius in iv, tomo sermonum, a 69 sermone, usque ad finem; Tilmannus in libro de septem Sacramentis, cap. 6. Franciscus Victoria in relectione de Matrimonio. Javellus in libro de Philosophia Christiana, parte 5.
