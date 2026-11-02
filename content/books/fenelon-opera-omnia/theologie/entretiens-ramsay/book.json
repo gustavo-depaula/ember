@@ -1,0 +1,48 @@
+{
+  "id": "fenelon-entretiens-ramsay",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Entretiens de Fénelon et de M. de Ramsai sur la vérité de la religion",
+    "en-US": "Conversations of Fénelon and Ramsay on the Truth of Religion",
+    "pt-BR": "Conversas de Fénelon e de Ramsay sobre a verdade da religião"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les entretiens entre Fénelon et le chevalier de Ramsay (1710), rédigés par Ramsay, d’après Fénelon : écrits de seconde main, extraits de l’Histoire de la vie et des ouvrages de Fénelon (Bruxelles, 1723).",
+    "en-US": "The conversations between Fénelon and the Chevalier Ramsay (1710), written up by Ramsay after Fénelon: a second-hand text, taken from the History of the Life and Works of Fénelon (Brussels, 1723).",
+    "pt-BR": "As conversas entre Fénelon e o cavaleiro de Ramsay (1710), redigidas por Ramsay a partir de Fénelon: texto de segunda mão, extraído da História da vida e das obras de Fénelon (Bruxelas, 1723)."
+  },
+  "composed": "1710",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/entretiens-ramsay",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvresdefenelon01fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 1, p. 218–230; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). After Fénelon, in Ramsay’s redaction.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "entretiens",
+      "title": {
+        "fr-FR": "Entretiens de Fénelon et de M. de Ramsai sur la vérité de la religion"
+      }
+    }
+  ]
+}
