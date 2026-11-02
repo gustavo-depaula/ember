@@ -129,6 +129,8 @@ def process(lines, cfg, counts, fnstate):
             merged[-1] = E.join_lines([merged[-1], p])
         else: merged.append(p)
     return merged
+def root_dir(cfg):
+    return os.path.join(ROOT, 'content/books', cfg['dir'])
 def roman(n):
     out = ''
     for v, r in ((1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'), (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'), (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')):
@@ -136,15 +138,63 @@ def roman(n):
     return out
 def pre_key(part, cfg):
     return (part['id'].split('-')[1] + '.') if part and len(cfg['levels']) > 1 else ''
+def units_mode(cfg, all_lines, counts, root):
+    """explicit units: [{id,title,from,part?}] (1-based start lines, in order); each runs to the next start or cfg['end'].
+    Leading capitals / numeral blocks (the printed headings) are dropped."""
+    us = cfg['units']; fnstate = {'n': 0, 'notes': {}}; toc = []; part = None; words = 0
+    for fr in cfg.get('front', []):
+        n0 = fnstate['n']; paras = process(all_lines[fr['from'] - 1:fr['to'] - 1], cfg, counts, fnstate)
+        words += emit(root, fr['id'], fr['title'], paras, fnstate, n0); toc.append({'id': fr['id'], 'title': {'en-US': fr['title']}})
+    for i, u in enumerate(us):
+        e = us[i + 1]['from'] if i + 1 < len(us) else cfg['end']
+        seg = all_lines[u['from'] - 1:e - 1]
+        bl = blocks_of(seg)
+        while bl and (capsy(' '.join(bl[0])) or re.fullmatch(r'[\W\dIVXLivxl]{0,8}', ' '.join(bl[0]).strip())): bl.pop(0)
+        lines = [l for b in bl for l in b + ['']]
+        n0 = fnstate['n']; paras = process(lines, cfg, counts, fnstate)
+        words += emit(root, u['id'], u['title'], paras, fnstate, n0)
+        node = {'id': u['id'], 'title': {'en-US': u['title']}}
+        if u.get('part'):
+            if not part or part['id'] != u['part']['id']:
+                part = {'id': u['part']['id'], 'title': {'en-US': u['part']['title']}, 'children': []}; toc.append(part)
+            part['children'].append(node)
+        else: part = None; toc.append(node)
+    return toc, words, fnstate
+def emit(root, cid, title, paras, fnstate, n0):
+    notes = {k: v for k, v in fnstate['notes'].items() if k > n0}
+    keys = sorted(notes); mp = {k: i + 1 for i, k in enumerate(keys)}
+    body = re.sub(r'\[\^(\d+)\]', lambda m: '[^%d]' % mp[int(m.group(1))] if int(m.group(1)) in mp else m.group(0), '\n\n'.join(paras))
+    md = '# %s\n\n%s\n' % (title, body)
+    if keys: md += '\n' + '\n\n'.join('[^%d]: %s' % (mp[k], notes[k]) for k in keys) + '\n'
+    open('%s/en-US/%s.md' % (root, cid), 'w').write(md)
+    return len(md.split())
+def write_book(cfg, root, toc, words, nn, all_lines):
+    open(root + '/sources/en-US-originals/%s-ia.txt' % cfg['slug'], 'w').write('\n'.join(all_lines[cfg['start'] - 1:cfg['end'] - 1]))
+    book = {'id': cfg['id'], 'cover': 'classic',
+            'name': {'en-US': cfg['name'], 'pt-BR': cfg['name_pt']},
+            'author': {'en-US': cfg['author'], 'pt-BR': cfg['author_pt']},
+            'description': {'en-US': cfg['desc'], 'pt-BR': cfg['desc_pt']},
+            'composed': cfg['composed'], 'languages': ['en-US'], 'work': cfg['work'],
+            'editions': {'en-US': {'editor': cfg['editor'], 'year': cfg['year']}},
+            'sources': [{'language': 'en-US', 'url': cfg['url'], 'edition': cfg['edition'],
+                         'description': cfg.get('srcnote', '') + ' Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.',
+                         'tier': 'A', 'tierEvidence': '%s died in %d and the edition is of %d, so the text is public domain.' % (cfg['author'], cfg['died'], cfg['year'])}],
+            'toc': toc}
+    json.dump(book, open(root + '/book.json', 'w'), ensure_ascii=False, indent=2); open(root + '/book.json', 'a').write('\n')
+    print(root, len(os.listdir(root + '/en-US')), 'files', words, 'words;', nn, 'footnotes')
 def main():
     global cfg_kws
     cfg = json.load(open(sys.argv[1]))
-    cfg_kws = cfg['levels'] + cfg.get('inline', [])
+    cfg_kws = cfg.get('levels', []) + cfg.get('inline', [])
     src = cfg['src'] if os.path.isabs(cfg['src']) else os.path.join(ROOT, 'research/sourcing', cfg['src'])
     all_lines = open(src, encoding='utf8', errors='ignore').read().split('\n')
     for k, v in cfg.get('fixlines', {}).items(): all_lines[int(k) - 1] = v
+    os.makedirs(root_dir(cfg) + '/en-US', exist_ok=True); os.makedirs(root_dir(cfg) + '/sources/en-US-originals', exist_ok=True)
     body_lines = all_lines[cfg['start'] - 1:cfg['end'] - 1]
     counts = runhead_counts(blocks_of(body_lines))
+    if cfg.get('units'):
+        toc, words, fs = units_mode(cfg, all_lines, counts, root_dir(cfg))
+        write_book(cfg, root_dir(cfg), toc, words, fs['n'], all_lines); return
     marks = split_units(body_lines, cfg)
     lv = {k: i for i, k in enumerate(cfg['levels'])}
     root = os.path.join(ROOT, 'content/books', cfg['dir'])

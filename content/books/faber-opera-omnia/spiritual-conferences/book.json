@@ -1,0 +1,207 @@
+{
+  "id": "faber-spiritual-conferences",
+  "cover": "classic",
+  "name": {
+    "en-US": "Spiritual Conferences",
+    "pt-BR": "Conferências Espirituais"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Twelve of the addresses Faber gave at the London Oratory in Advent, Lent and the Months of Mary, published in 1859: Kindness (in general, thoughts, words, actions), Death (its aspects, characteristics, the preparation for it, the death precious in the sight of God), Self-Deceit, why so little comes of frequent confession, weariness in welldoing, wounded feelings, confidence the only worship, taking scandal, a taste for reading, the monotony of piety, Heaven and Hell, and the special vocation of every man.",
+    "pt-BR": "Doze das conferências que Faber pronunciou no Oratório de Londres no Advento, na Quaresma e nos Meses de Maria, publicadas em 1859: a bondade (em geral, pensamentos, palavras, ações), a morte (seus aspectos, características, preparação e a morte preciosa aos olhos de Deus), o engano de si mesmo, por que tão pouco resulta da confissão frequente, o cansaço no bem-fazer, os sentimentos feridos, a confiança como único culto, o escândalo recebido, o gosto pela leitura, a monotonia da piedade, Céu e Inferno e a vocação especial de cada homem."
+  },
+  "composed": 1859,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/spiritual-conferences",
+  "editions": {
+    "en-US": {
+      "editor": "Fr. Frederick William Faber (London: Richardson and Son, 1859)",
+      "year": 1859
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a580835700fabeuoft",
+      "edition": "Spiritual Conferences (London: Thomas Richardson and Son, 1859), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The preface is kept; the dedication, the contents and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fr. Frederick William Faber died in 1863 and the edition is of 1859, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "kindness",
+      "title": {
+        "en-US": "Kindness"
+      },
+      "children": [
+        {
+          "id": "kindness-1",
+          "title": {
+            "en-US": "On Kindness in General"
+          }
+        },
+        {
+          "id": "kindness-2",
+          "title": {
+            "en-US": "Kind Thoughts"
+          }
+        },
+        {
+          "id": "kindness-3",
+          "title": {
+            "en-US": "Kind Words"
+          }
+        },
+        {
+          "id": "kindness-4",
+          "title": {
+            "en-US": "Kind Actions"
+          }
+        }
+      ]
+    },
+    {
+      "id": "death",
+      "title": {
+        "en-US": "Death"
+      },
+      "children": [
+        {
+          "id": "death-1",
+          "title": {
+            "en-US": "The Aspects of Death"
+          }
+        },
+        {
+          "id": "death-2",
+          "title": {
+            "en-US": "The Characteristics of Death"
+          }
+        },
+        {
+          "id": "death-3",
+          "title": {
+            "en-US": "Preparation for Death"
+          }
+        },
+        {
+          "id": "death-4",
+          "title": {
+            "en-US": "A Death Precious in the Sight of God"
+          }
+        }
+      ]
+    },
+    {
+      "id": "self-deceit",
+      "title": {
+        "en-US": "Self-Deceit"
+      },
+      "children": [
+        {
+          "id": "self-deceit-1",
+          "title": {
+            "en-US": "Simplicity"
+          }
+        },
+        {
+          "id": "self-deceit-2",
+          "title": {
+            "en-US": "The Fountains of Self-Deceit"
+          }
+        },
+        {
+          "id": "self-deceit-3",
+          "title": {
+            "en-US": "The Varieties of Self-Deceit"
+          }
+        },
+        {
+          "id": "self-deceit-4",
+          "title": {
+            "en-US": "The Characteristics of Self-Deceit"
+          }
+        },
+        {
+          "id": "self-deceit-5",
+          "title": {
+            "en-US": "The Remedies of Self-Deceit"
+          }
+        },
+        {
+          "id": "self-deceit-6",
+          "title": {
+            "en-US": "The Place and Hour When We Become True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frequent-confession",
+      "title": {
+        "en-US": "Why So Little Comes of Frequent Confession"
+      }
+    },
+    {
+      "id": "weariness-in-welldoing",
+      "title": {
+        "en-US": "Weariness in Welldoing"
+      }
+    },
+    {
+      "id": "wounded-feelings",
+      "title": {
+        "en-US": "Wounded Feelings"
+      }
+    },
+    {
+      "id": "confidence",
+      "title": {
+        "en-US": "Confidence the Only Worship"
+      }
+    },
+    {
+      "id": "taking-scandal",
+      "title": {
+        "en-US": "Taking Scandal"
+      }
+    },
+    {
+      "id": "taste-for-reading",
+      "title": {
+        "en-US": "A Taste for Reading Considered as a Help in the Spiritual Life"
+      }
+    },
+    {
+      "id": "monotony-of-piety",
+      "title": {
+        "en-US": "The Monotony of Piety"
+      }
+    },
+    {
+      "id": "heaven-and-hell",
+      "title": {
+        "en-US": "Heaven and Hell"
+      }
+    },
+    {
+      "id": "special-vocation",
+      "title": {
+        "en-US": "All Men Have a Special Vocation"
+      }
+    }
+  ]
+}

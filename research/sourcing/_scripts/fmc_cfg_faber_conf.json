@@ -1,0 +1,207 @@
+{
+ "id": "faber-spiritual-conferences",
+ "dir": "faber-opera-omnia/spiritual-conferences",
+ "slug": "spiritual-conferences",
+ "work": "faber/spiritual-conferences",
+ "name": "Spiritual Conferences",
+ "name_pt": "Confer\u00eancias Espirituais",
+ "author": "Fr. Frederick William Faber",
+ "author_pt": "Pe. Frederick William Faber",
+ "died": 1863,
+ "desc": "Twelve of the addresses Faber gave at the London Oratory in Advent, Lent and the Months of Mary, published in 1859: Kindness (in general, thoughts, words, actions), Death (its aspects, characteristics, the preparation for it, the death precious in the sight of God), Self-Deceit, why so little comes of frequent confession, weariness in welldoing, wounded feelings, confidence the only worship, taking scandal, a taste for reading, the monotony of piety, Heaven and Hell, and the special vocation of every man.",
+ "desc_pt": "Doze das confer\u00eancias que Faber pronunciou no Orat\u00f3rio de Londres no Advento, na Quaresma e nos Meses de Maria, publicadas em 1859: a bondade (em geral, pensamentos, palavras, a\u00e7\u00f5es), a morte (seus aspectos, caracter\u00edsticas, prepara\u00e7\u00e3o e a morte preciosa aos olhos de Deus), o engano de si mesmo, por que t\u00e3o pouco resulta da confiss\u00e3o frequente, o cansa\u00e7o no bem-fazer, os sentimentos feridos, a confian\u00e7a como \u00fanico culto, o esc\u00e2ndalo recebido, o gosto pela leitura, a monotonia da piedade, C\u00e9u e Inferno e a voca\u00e7\u00e3o especial de cada homem.",
+ "composed": 1859,
+ "editor": "Fr. Frederick William Faber (London: Richardson and Son, 1859)",
+ "year": 1859,
+ "url": "https://archive.org/details/a580835700fabeuoft",
+ "edition": "Spiritual Conferences (London: Thomas Richardson and Son, 1859), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The preface is kept; the dedication, the contents and the index are dropped.",
+ "src": "faber/ia/a580835700fabeuoft_djvu.txt",
+ "start": 264,
+ "end": 17411,
+ "fn": true,
+ "front": [
+  {
+   "id": "preface",
+   "title": "Preface",
+   "from": 73,
+   "to": 167
+  }
+ ],
+ "back": [],
+ "label": {},
+ "romanheads": false,
+ "units": [
+  {
+   "id": "kindness-1",
+   "title": "On Kindness in General",
+   "from": 264,
+   "part": {
+    "id": "kindness",
+    "title": "Kindness"
+   }
+  },
+  {
+   "id": "kindness-2",
+   "title": "Kind Thoughts",
+   "from": 962,
+   "part": {
+    "id": "kindness",
+    "title": "Kindness"
+   }
+  },
+  {
+   "id": "kindness-3",
+   "title": "Kind Words",
+   "from": 1475,
+   "part": {
+    "id": "kindness",
+    "title": "Kindness"
+   }
+  },
+  {
+   "id": "kindness-4",
+   "title": "Kind Actions",
+   "from": 1963,
+   "part": {
+    "id": "kindness",
+    "title": "Kindness"
+   }
+  },
+  {
+   "id": "death-1",
+   "title": "The Aspects of Death",
+   "from": 2548,
+   "part": {
+    "id": "death",
+    "title": "Death"
+   }
+  },
+  {
+   "id": "death-2",
+   "title": "The Characteristics of Death",
+   "from": 3464,
+   "part": {
+    "id": "death",
+    "title": "Death"
+   }
+  },
+  {
+   "id": "death-3",
+   "title": "Preparation for Death",
+   "from": 4614,
+   "part": {
+    "id": "death",
+    "title": "Death"
+   }
+  },
+  {
+   "id": "death-4",
+   "title": "A Death Precious in the Sight of God",
+   "from": 5516,
+   "part": {
+    "id": "death",
+    "title": "Death"
+   }
+  },
+  {
+   "id": "self-deceit-1",
+   "title": "Simplicity",
+   "from": 6428,
+   "part": {
+    "id": "self-deceit",
+    "title": "Self-Deceit"
+   }
+  },
+  {
+   "id": "self-deceit-2",
+   "title": "The Fountains of Self-Deceit",
+   "from": 7043,
+   "part": {
+    "id": "self-deceit",
+    "title": "Self-Deceit"
+   }
+  },
+  {
+   "id": "self-deceit-3",
+   "title": "The Varieties of Self-Deceit",
+   "from": 7744,
+   "part": {
+    "id": "self-deceit",
+    "title": "Self-Deceit"
+   }
+  },
+  {
+   "id": "self-deceit-4",
+   "title": "The Characteristics of Self-Deceit",
+   "from": 8191,
+   "part": {
+    "id": "self-deceit",
+    "title": "Self-Deceit"
+   }
+  },
+  {
+   "id": "self-deceit-5",
+   "title": "The Remedies of Self-Deceit",
+   "from": 8800,
+   "part": {
+    "id": "self-deceit",
+    "title": "Self-Deceit"
+   }
+  },
+  {
+   "id": "self-deceit-6",
+   "title": "The Place and Hour When We Become True",
+   "from": 9442,
+   "part": {
+    "id": "self-deceit",
+    "title": "Self-Deceit"
+   }
+  },
+  {
+   "id": "frequent-confession",
+   "title": "Why So Little Comes of Frequent Confession",
+   "from": 9806
+  },
+  {
+   "id": "weariness-in-welldoing",
+   "title": "Weariness in Welldoing",
+   "from": 10653
+  },
+  {
+   "id": "wounded-feelings",
+   "title": "Wounded Feelings",
+   "from": 11433
+  },
+  {
+   "id": "confidence",
+   "title": "Confidence the Only Worship",
+   "from": 12086
+  },
+  {
+   "id": "taking-scandal",
+   "title": "Taking Scandal",
+   "from": 12606
+  },
+  {
+   "id": "taste-for-reading",
+   "title": "A Taste for Reading Considered as a Help in the Spiritual Life",
+   "from": 13053
+  },
+  {
+   "id": "monotony-of-piety",
+   "title": "The Monotony of Piety",
+   "from": 13746
+  },
+  {
+   "id": "heaven-and-hell",
+   "title": "Heaven and Hell",
+   "from": 14593
+  },
+  {
+   "id": "special-vocation",
+   "title": "All Men Have a Special Vocation",
+   "from": 16445
+  }
+ ]
+}
