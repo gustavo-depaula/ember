@@ -1,0 +1,786 @@
+{
+  "id": "bernard-sermones-de-diversis",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones de diversis",
+    "en-US": "Sermons on Various Subjects",
+    "pt-BR": "Sermões diversos"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Sermones de diversis, CXXV, in editione Mabillonii.",
+    "en-US": "Bernard’s 125 sermons on various subjects as Mabillon edited them: on the fleetingness of life, the knowledge of oneself, the virtues and vices, the gifts of the Spirit and the stages of the soul’s ascent. The Latin is the Maurist text in Migne (Patrologia Latina 183, 1854). Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "Os 125 sermões de Bernardo sobre assuntos diversos, na edição de Mabillon: a brevidade da vida, o conhecimento de si, as virtudes e os vícios, os dons do Espírito e os graus da ascensão da alma."
+  },
+  "composed": "c. 1125-1153",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/sermones-de-diversis",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 183)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268/6216",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 183 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), work 6216, from machine-corrected OCR.",
+      "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s001",
+      "title": {
+        "la": "Sermo I. De fallacia et brevitate vitae praesentis"
+      }
+    },
+    {
+      "id": "s002",
+      "title": {
+        "la": "Sermo II. De obedientia, patientia et sapientia; seu, de noscendo se ipsum, quod homines sumus"
+      }
+    },
+    {
+      "id": "s003",
+      "title": {
+        "la": "Sermo III. De cantico Ezechiae regis, « Ego dixi in dimidio dierum meorum, » etc. (Isa. XXXVIII, 10-20.)"
+      }
+    },
+    {
+      "id": "s004",
+      "title": {
+        "la": "Sermo IV. De quaerendo Deo, et triplici vinculo quo cohaeremus Deo"
+      }
+    },
+    {
+      "id": "s005",
+      "title": {
+        "la": "Sermo V. De verbis Habacuc, II, 1, « Super custodiam meam stabo. »"
+      }
+    },
+    {
+      "id": "s006",
+      "title": {
+        "la": "Sermo VI. De cute, carne et ossibus animae"
+      }
+    },
+    {
+      "id": "s007",
+      "title": {
+        "la": "Sermo VII. De triplici gloria, in illud Apostoli, « Qui gloriatur, in Domino glorietur. » (II Cor. X, 17, 18.)"
+      }
+    },
+    {
+      "id": "s008",
+      "title": {
+        "la": "Sermo VIII. De diversis affectionibus vel statibus, quibus anima est sub Deo"
+      }
+    },
+    {
+      "id": "s009",
+      "title": {
+        "la": "Sermo IX. De verbis Apostoli ad Rom. I, 20, « Invisibilia Dei a creatura mundi, » etc., et de verbis psalmi LXXXIV, 9, « Audiam quid loquatur in me Dominus Deus, » etc"
+      }
+    },
+    {
+      "id": "s010",
+      "title": {
+        "la": "Sermo X. De vita et quinque sensibus animae"
+      }
+    },
+    {
+      "id": "s011",
+      "title": {
+        "la": "Sermo XI. De duplici baptismo, et de relinquenda propria voluntate"
+      }
+    },
+    {
+      "id": "s012",
+      "title": {
+        "la": "Sermo XII. De primordiis, mediis, et novissimis, in illud Ecclesiastici, VII, 40, « Memorare novissima tua, » etc"
+      }
+    },
+    {
+      "id": "s013",
+      "title": {
+        "la": "Sermo XIII. De triplici misericordia, et quatuor miserationibus"
+      }
+    },
+    {
+      "id": "s014",
+      "title": {
+        "la": "Sermo XIV. De septem donis Spiritus sancti contra septem vitia"
+      }
+    },
+    {
+      "id": "s015",
+      "title": {
+        "la": "Sermo XV. De quaerenda sapientia"
+      }
+    },
+    {
+      "id": "s016",
+      "title": {
+        "la": "Sermo XVI. De triplici genere bonorum, et vigilantia super cogitationibus"
+      }
+    },
+    {
+      "id": "s017",
+      "title": {
+        "la": "Sermo XVII. De triplici custodia, manus, linguae et cordis"
+      }
+    },
+    {
+      "id": "s018",
+      "title": {
+        "la": "Sermo XVIII. De gaudio spirituali, seu de verbis Apostoli, « Non est regnum Dei esca et potus, » etc. (Rom. XIV, 17.)"
+      }
+    },
+    {
+      "id": "s019",
+      "title": {
+        "la": "Sermo XIX. De eisdem verbis apostoli, « Non est regnum Dei esca et potus. » (Rom. IV, 17.)"
+      }
+    },
+    {
+      "id": "s020",
+      "title": {
+        "la": "Sermo XX. De verbis Domini, « Omnis qui se exaltat, humiliabitur: et qui se humiliat, exaltabitur. » (Luc. XVIII, 14.)"
+      }
+    },
+    {
+      "id": "s021",
+      "title": {
+        "la": "Sermo XXI. De verbis Sapientiae (X, 10): « Justum deduxit Dominus per vias rectas, » etc"
+      }
+    },
+    {
+      "id": "s022",
+      "title": {
+        "la": "Sermo XXII. De quadruplici debito"
+      }
+    },
+    {
+      "id": "s023",
+      "title": {
+        "la": "Sermo XXIII. De discretione spirituum"
+      }
+    },
+    {
+      "id": "s024",
+      "title": {
+        "la": "Sermo XXIV. De multiplici utilitate verbi Dei"
+      }
+    },
+    {
+      "id": "s025",
+      "title": {
+        "la": "Sermo XXV. De verbis Apostoli, « Volo primum fieri obsecrationes, orationes, » etc. (I Tim. II, 1)"
+      }
+    },
+    {
+      "id": "s026",
+      "title": {
+        "la": "Sermo XXVI. De voluntate nostra divinae voluntati subjicienda"
+      }
+    },
+    {
+      "id": "s027",
+      "title": {
+        "la": "Sermo XXVII. Contra pessimum vitium ingratitudinis"
+      }
+    },
+    {
+      "id": "s028",
+      "title": {
+        "la": "Sermo XXVIII. De eo quod legitur in Job (V, 19): « In sex tribulationibus liberabit te, et in septima non tanget te malum. »"
+      }
+    },
+    {
+      "id": "s029",
+      "title": {
+        "la": "Sermo XXIX. De triplici dilectione Dei"
+      }
+    },
+    {
+      "id": "s030",
+      "title": {
+        "la": "Sermo XXX. De ligno, feno et stipula"
+      }
+    },
+    {
+      "id": "s031",
+      "title": {
+        "la": "Sermo XXXI. De sollicita cura cogitationum"
+      }
+    },
+    {
+      "id": "s032",
+      "title": {
+        "la": "Sermo XXXII. De triplici judicio, proprio, humano et divino"
+      }
+    },
+    {
+      "id": "s033",
+      "title": {
+        "la": "Sermo XXXIII. De verbis psalmi XXIII, « Quis ascendit in montem Domini? »"
+      }
+    },
+    {
+      "id": "s034",
+      "title": {
+        "la": "Sermo XXXIV. De verbis Origenis in Levit. X, 9"
+      }
+    },
+    {
+      "id": "s035",
+      "title": {
+        "la": "Sermo XXXV. De tribus ordinibus Ecclesiae, ad patres in capitulo habitus"
+      }
+    },
+    {
+      "id": "s036",
+      "title": {
+        "la": "Sermo XXXVI. De altitudine et bassitudine cordis"
+      }
+    },
+    {
+      "id": "s037",
+      "title": {
+        "la": "Sermo XXXVII. In labore messis, de verbis psalmi XXIII, 6: « Haec est generatio quaerentium Dominum, quaerentium faciem Dei Jacob. »"
+      }
+    },
+    {
+      "id": "s038",
+      "title": {
+        "la": "Sermo XXXVIII. II. In labore messis, in illud Apostoli, « Diligentibus Deum omnia cooperantur in bonum. » (Rom. VIII, 28.)"
+      }
+    },
+    {
+      "id": "s039",
+      "title": {
+        "la": "Sermo XXXIX. III. In labore messis: De duabus mensis, seu de superiori et inferiori irriguo"
+      }
+    },
+    {
+      "id": "s040",
+      "title": {
+        "la": "Sermo XL. De septem gradibus confessionis"
+      }
+    },
+    {
+      "id": "s041",
+      "title": {
+        "la": "Sermo XLI. De virtute obedientiae, et septem ejus gradibus"
+      }
+    },
+    {
+      "id": "s042",
+      "title": {
+        "la": "Sermo XLII. De quinque negotiationibus, et quinque regionibus"
+      }
+    },
+    {
+      "id": "s043",
+      "title": {
+        "la": "Sermo XLIII. De magnanimitate, longanimitate, unanimitate"
+      }
+    },
+    {
+      "id": "s044",
+      "title": {
+        "la": "Sermo XLIV. De his in quibus mysteria Christi necdum videntur impleta"
+      }
+    },
+    {
+      "id": "s045",
+      "title": {
+        "la": "Sermo XLV. De varia Trinitate, Dei scilicet et Hominis"
+      }
+    },
+    {
+      "id": "s046",
+      "title": {
+        "la": "Sermo XLVI. De Virginitatis et humilitatis connexione"
+      }
+    },
+    {
+      "id": "s047",
+      "title": {
+        "la": "Sermo XLVII. De quadruplici superbia"
+      }
+    },
+    {
+      "id": "s048",
+      "title": {
+        "la": "Sermo XLVIII. De paupertate voluntaria"
+      }
+    },
+    {
+      "id": "s049",
+      "title": {
+        "la": "Sermo XLIX. De triplici Verbo"
+      }
+    },
+    {
+      "id": "s050",
+      "title": {
+        "la": "Sermo L. De affectionibus recte ordinandis"
+      }
+    },
+    {
+      "id": "s051",
+      "title": {
+        "la": "Sermo LI. De Mariae Purificatione, et Christi Circumcisione"
+      }
+    },
+    {
+      "id": "s052",
+      "title": {
+        "la": "Sermo LII. De domo divinae Sapientiae, id est Virgine Maria"
+      }
+    },
+    {
+      "id": "s053",
+      "title": {
+        "la": "Sermo LIII. De nominibus Salvatoris"
+      }
+    },
+    {
+      "id": "s054",
+      "title": {
+        "la": "Sermo LIV. De apparitione Christi"
+      }
+    },
+    {
+      "id": "s055",
+      "title": {
+        "la": "Sermo LV. De sex hydriis spiritualibus"
+      }
+    },
+    {
+      "id": "s056",
+      "title": {
+        "la": "Sermo LVI. De hydriis mysticis implendis triplici timore"
+      }
+    },
+    {
+      "id": "s057",
+      "title": {
+        "la": "Sermo LVII. De septem signaculis per Christum solutis"
+      }
+    },
+    {
+      "id": "s058",
+      "title": {
+        "la": "Sermo LVIII. De tribus mulieribus mortuum ungentibus, id est mente, manu, lingua, salutem proximi curantibus"
+      }
+    },
+    {
+      "id": "s059",
+      "title": {
+        "la": "Sermo LIX. De tribus panibus hominis spiritualis"
+      }
+    },
+    {
+      "id": "s060",
+      "title": {
+        "la": "Sermo LX. De Christi itemque nostro descensu, et ascensu"
+      }
+    },
+    {
+      "id": "s061",
+      "title": {
+        "la": "Sermo LXI. De quatuor montibus ascendendis"
+      }
+    },
+    {
+      "id": "s062",
+      "title": {
+        "la": "Sermo LXII. De varia et vera sequela Christe"
+      }
+    },
+    {
+      "id": "s063",
+      "title": {
+        "la": "Sermo LXIII. De tribus mediis recuperandae beatitudinis a Christo praescriptis in illud: « Qui vult venire post me, » etc. (Luc. IX, 23)"
+      }
+    },
+    {
+      "id": "s064",
+      "title": {
+        "la": "Sermo LXIV. De pretiosa vita et morte sanctorum"
+      }
+    },
+    {
+      "id": "s065",
+      "title": {
+        "la": "Sermo LXV. De connexione triplicis parabolae apud Matthaeum XIII, 44-48: « Simile est regnum coelorum thesauro abscondito in agro, » etc"
+      }
+    },
+    {
+      "id": "s066",
+      "title": {
+        "la": "Sermo LXVI. De octo beatitudinibus oppositis tolidem peccatis"
+      }
+    },
+    {
+      "id": "s067",
+      "title": {
+        "la": "Sermo LXVII. De duplicibus legis praeceptis, moralibus et figuralibus"
+      }
+    },
+    {
+      "id": "s069",
+      "title": {
+        "la": "Sermo LXIX. De triplici renovatione triplicis vetustatis"
+      }
+    },
+    {
+      "id": "s070",
+      "title": {
+        "la": "Sermo LXX. De vigilantia et sollicitudine curandae salutis"
+      }
+    },
+    {
+      "id": "s071",
+      "title": {
+        "la": "Sermo LXXI. Servitutis Aegyptiacae cum servitute diaboli comparatio"
+      }
+    },
+    {
+      "id": "s072",
+      "title": {
+        "la": "Sermo LXXII. De via impiorum et via Domini"
+      }
+    },
+    {
+      "id": "s073",
+      "title": {
+        "la": "Sermo LXXIII. De insipientia hominum non timentium nec diligentium Deum"
+      }
+    },
+    {
+      "id": "s074",
+      "title": {
+        "la": "Sermo LXXIV. De corruptione hominum"
+      }
+    },
+    {
+      "id": "s075",
+      "title": {
+        "la": "Sermo LXXV. De poenitentia in mortem non differenda"
+      }
+    },
+    {
+      "id": "s076",
+      "title": {
+        "la": "Sermo LXXVI. De necessitate et commendatione divinae gratiae"
+      }
+    },
+    {
+      "id": "s077",
+      "title": {
+        "la": "Sermo LXXVII. De varia sorte hominum cognoscentium et non cognoscentium Deum, item cognitorum et non cognitorum a Deo"
+      }
+    },
+    {
+      "id": "s078",
+      "title": {
+        "la": "Sermo LXXVIII. De differentia tabernaculi, atrii, domus"
+      }
+    },
+    {
+      "id": "s079",
+      "title": {
+        "la": "Sermo LXXIX. De voluntate Deo semper et in omnibus subjicienda"
+      }
+    },
+    {
+      "id": "s080",
+      "title": {
+        "la": "Sermo LXXX. De multiplici unitate"
+      }
+    },
+    {
+      "id": "s081",
+      "title": {
+        "la": "Sermo LXXXI. De laudatione Dei in ore peccatoris"
+      }
+    },
+    {
+      "id": "s082",
+      "title": {
+        "la": "Sermo LXXXII. De diligenti custodia cordis"
+      }
+    },
+    {
+      "id": "s083",
+      "title": {
+        "la": "Sermo LXXXIII. De laude humana caute recipienda"
+      }
+    },
+    {
+      "id": "s084",
+      "title": {
+        "la": "Sermo LXXXIV. De constantia adversus diabolum tentantem"
+      }
+    },
+    {
+      "id": "s085",
+      "title": {
+        "la": "Sermo LXXXV. De casu animae irretractabili"
+      }
+    },
+    {
+      "id": "s086",
+      "title": {
+        "la": "Sermo LXXXVI. De creatione in certo pondere, mensura et numero"
+      }
+    },
+    {
+      "id": "s087",
+      "title": {
+        "la": "Sermo LXXXVII. De osculo sponsi, seu gratia contemplationis"
+      }
+    },
+    {
+      "id": "s088",
+      "title": {
+        "la": "Sermo LXXXVIII. De recto usu donorum Dei"
+      }
+    },
+    {
+      "id": "s089",
+      "title": {
+        "la": "Sermo LXXXIX. De osculo a sponsa desiderato, id est Spiritu sancto"
+      }
+    },
+    {
+      "id": "s090",
+      "title": {
+        "la": "Sermo XC. De triplici unguento, compunctionis, devotionis, pietatis"
+      }
+    },
+    {
+      "id": "s091",
+      "title": {
+        "la": "Sermo XCI. De tribus emissionibus"
+      }
+    },
+    {
+      "id": "s092",
+      "title": {
+        "la": "Sermo XCII. De triplici introductione, in hortum, in cellarium et in cubiculum"
+      }
+    },
+    {
+      "id": "s093",
+      "title": {
+        "la": "Sermo XCIII. De dentium proprietatibus, ad monasticae vitae professionem relatis"
+      }
+    },
+    {
+      "id": "s094",
+      "title": {
+        "la": "Sermo XCIV. De processu vitae christianae seu spiritualis, juxta tropologiam Eliae, Jezabel fugientis"
+      }
+    },
+    {
+      "id": "s095",
+      "title": {
+        "la": "Sermo XCV. De doctrinae amaritudine per praedicatores temperanda"
+      }
+    },
+    {
+      "id": "s096",
+      "title": {
+        "la": "Sermo XCVI. De quatuor fontibus Salvatoris, et aquis inde hauriendis"
+      }
+    },
+    {
+      "id": "s097",
+      "title": {
+        "la": "Sermo XCVII. De suavitate verbi ac jugi Christi, foris quidem duri, sed intus dulcissimi"
+      }
+    },
+    {
+      "id": "s098",
+      "title": {
+        "la": "Sermo XCVIII. De filiis pacis, in quibus habitat Deus"
+      }
+    },
+    {
+      "id": "s099",
+      "title": {
+        "la": "Sermo XCIX. De quatuor generibus hominum coelum obtinentium"
+      }
+    },
+    {
+      "id": "s100",
+      "title": {
+        "la": "Sermo C. De discrimine inter plebem et praesulem"
+      }
+    },
+    {
+      "id": "s101",
+      "title": {
+        "la": "Sermo CI. De quatuor modis diligendi"
+      }
+    },
+    {
+      "id": "s102",
+      "title": {
+        "la": "Sermo CII. De modo redeundi ad Deum"
+      }
+    },
+    {
+      "id": "s103",
+      "title": {
+        "la": "Sermo CIII. De quatuor gradibus, quibus electorum profectus distinguitur"
+      }
+    },
+    {
+      "id": "s104",
+      "title": {
+        "la": "Sermo CIV. De quatuor impedimentis confessionis"
+      }
+    },
+    {
+      "id": "s105",
+      "title": {
+        "la": "Sermo CV. De requisitis ad justificationem et salutem"
+      }
+    },
+    {
+      "id": "s106",
+      "title": {
+        "la": "Sermo CVI. De tribus ad agendam poenitentiam necessariis"
+      }
+    },
+    {
+      "id": "s107",
+      "title": {
+        "la": "Sermo CVII. De affectionibus orantium"
+      }
+    },
+    {
+      "id": "s108",
+      "title": {
+        "la": "Sermo CVIII. De spirituali minutione sanguinis"
+      }
+    },
+    {
+      "id": "s109",
+      "title": {
+        "la": "Sermo CIX. De inani splendore virtutum cavendo"
+      }
+    },
+    {
+      "id": "s110",
+      "title": {
+        "la": "Sermo CX. De allocutione hominis ad se ipsum, vel animam suam"
+      }
+    },
+    {
+      "id": "s111",
+      "title": {
+        "la": "Sermo CXI. De fide, vita et moribus contestanda; seu de sex testimoniis Deo perhibendis"
+      }
+    },
+    {
+      "id": "s112",
+      "title": {
+        "la": "Sermo CXII. De quadruplici conscientia"
+      }
+    },
+    {
+      "id": "s113",
+      "title": {
+        "la": "Sermo CXIII. De cavendis propriis et alienis peccatis"
+      }
+    },
+    {
+      "id": "s114",
+      "title": {
+        "la": "Sermo CXIV. De multiplici pace"
+      }
+    },
+    {
+      "id": "s115",
+      "title": {
+        "la": "Sermo CXV. De triplici corde"
+      }
+    },
+    {
+      "id": "s116",
+      "title": {
+        "la": "Sermo CXVI. De duabus mortibus et totidem resurrectionibus"
+      }
+    },
+    {
+      "id": "s117",
+      "title": {
+        "la": "Sermo CXVII. De quatuor spiritualibus fontibus quatuor animae morbis medentibus"
+      }
+    },
+    {
+      "id": "s118",
+      "title": {
+        "la": "Sermo CXVIII. De septem ascensionis gradibus"
+      }
+    },
+    {
+      "id": "s119",
+      "title": {
+        "la": "Sermo CXIX. De tribus in Incarnatione considerandis"
+      }
+    },
+    {
+      "id": "s120",
+      "title": {
+        "la": "Sermo CXX. De triplici ministerio"
+      }
+    },
+    {
+      "id": "s121",
+      "title": {
+        "la": "Sermo CXXI. De doctrina timoris et charitatis"
+      }
+    },
+    {
+      "id": "s122",
+      "title": {
+        "la": "Sermo CXXII. De duplici vitio jejunantibus timendo"
+      }
+    },
+    {
+      "id": "s123",
+      "title": {
+        "la": "Sermo CXXIII. De vita spiritus"
+      }
+    },
+    {
+      "id": "s124",
+      "title": {
+        "la": "Sermo CXXIV. De quatuor gradibus bonae voluntatis"
+      }
+    },
+    {
+      "id": "s125",
+      "title": {
+        "la": "Sermo CXXV. De glorificanda Dei sapientia"
+      }
+    }
+  ]
+}
