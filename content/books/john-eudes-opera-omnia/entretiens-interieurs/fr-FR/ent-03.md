@@ -74,9 +74,7 @@ O mon Dieu, hélas! j'ai bien mal suivi cette divine règle. Oh ! que je suis co
 
 O mon Dieu, au lieu que, par le passé, je me suis détourné de vous qui êtes mon principe, ma fin et mon souverain bien; et que je me suis tourné vers moi-même, vers le monde et vers Satan, en préférant leurs volontés et les miennes aux vôtres: je vous proteste que je veux maintenant renoncer entièrement et pour jamais à Satan, au monde et à moi-même, pour me convertir et me donner à vous absolument et pour toujours.
 
-O mon Dieu, je me donne à vous comme à mon principe; possédez-moi totalement. Que je demeure toujours 36 « Confitentur se nosse Deum, factis autem negant »Ad Tit.I,16.
-
-en vous; que je ne fasse rien qui ne soit digne de mon origine; et que vous soyez le principe et la fin de toutes mes actions.
+O mon Dieu, je me donne à vous comme à mon principe; possédez-moi totalement. Que je demeure toujours 36 « Confitentur se nosse Deum, factis autem negant »Ad Tit.I,16. en vous; que je ne fasse rien qui ne soit digne de mon origine; et que vous soyez le principe et la fin de toutes mes actions.
 
 O mon Dieu, je me donne à vous comme à ma fin, à mon centre et à mon souverain bien. Tirez-moi à vous. Que je tende continuellement à vous, et que vous soyez tout mon contentement, ma gloire , mon trésor et mon tout .
 

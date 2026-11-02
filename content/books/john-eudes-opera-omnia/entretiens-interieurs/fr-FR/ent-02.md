@@ -36,9 +36,7 @@ Adorons et bénissons, et invitons toutes les créatures à bénir et louer avec
 
 Mais cette bonté indicible avec laquelle Dieu a créé toutes les choses qui sont en cet univers, paraît encore en ce que, non seulement il les a créées pour nous et nous les a données, mais aussi en ce que il nous les a données avec un amour infini: de telle sorte que, si chaque morceau de pain que nous mangeons et chaque goutte d'eau que nous buvons était d'un prix infini, il nous les donnerait 15 2 Prov. XVI, 4.
 
-21 « Et coelum et terra et omnia quae in eis sunt, ecce undique mihi dicunt ut te amem; nec cessant dicere omnibus ut sint inexcusabiles ». Conf. X, 6.
-
-avec autant d'amour comme il nous les donné. Et ainsi en est-il de toutes les autres choses qui servent à nos usages. Tellement que, qui pourrait compter toutes les créatures qui sont en ce monde, il compterait autant d'obligations, toutes infinies, que nous avons à celui qui les a créées, et qui nous les a données avec un amour infini.
+21 « Et coelum et terra et omnia quae in eis sunt, ecce undique mihi dicunt ut te amem; nec cessant dicere omnibus ut sint inexcusabiles ». Conf. X, 6. avec autant d'amour comme il nous les donné. Et ainsi en est-il de toutes les autres choses qui servent à nos usages. Tellement que, qui pourrait compter toutes les créatures qui sont en ce monde, il compterait autant d'obligations, toutes infinies, que nous avons à celui qui les a créées, et qui nous les a données avec un amour infini.
 
 O mon Dieu, que ferai-je pour vous, et que vous rendrai-je pour tant d'effets de votre bonté immense vers moi ? Que pour le moins j'apprenne des créatures inanimées et irraisonnables à vous servir et glorifier, et me soumettre à vos lois et à vos ordres, si je ne veux être du nombre de ces insensés contre lesquels toutes vos créatures s'armeront au jour du jugement, pour prendre vengeance des injures qu'ils auront faites leur Créateur: Pugnabit cum illo orbis terrarum contra insensatos 22 .
 

@@ -42,6 +42,40 @@ ORAISON JACULATOIRE: Nobis autem adhaerere Deo bonum est, ut societas nostra sit
 
 105 « Postea sacerdos interrogat baptizandum nominatim, dicens: N., Abrenuntias Satanae? -- Respondet patrinus: Abrenuntio. -- Sacerdos: Et omnibus operibus ejus.? -- Patrinus: Abrenuntio. -- Sacerdos: Et omnibus pompis ejus ? -- Patrirus: Abrenuntio. » Rit. Rom. Ordo baptismi parvulorum.
 
+Dieu, afin que notre société soit avec notre Père céleste, et avec son Fils Jésus-Christ. »
+
+MÉDITATION (Bérulle, Opusc.pp.535-565m Retraite de M.Bérulle)
+
+Sur le choix d'une condition.
+
+I Considérez qu'il ne vous est point permis de choisir aucune condition, que celle que Dieu a choisie pour vous de toute éternité; et que vous ne devez prendre aucun emploi, que celui auquel il lui plaira de vous appeler, parce que vous n'êtes pas à vous, mais à lui, et par une infinité de titres: par le titre de la création, de la conservation, de la rédemption, de la justification, de la souveraineté qu'il a sur toutes ses créatures, et par autant de droits que le Fils de Dieu a eu de pensées, a dit de paroles, a fait d'actions, a porté de souffrances et a répandu de gouttes de sang, pour vous racheter de l'esclavage du diable et du péché.
+
+À raison de quoi c'est à lui à disposer de vous, de votre vie et de vos emplois, puisque vous lui appartenez plus infiniment qu'un sujet n'appartient à son roi, un esclave à son maître, une maison à celui qui l'a achetée, et un enfant à son père. Et partant, renoncez à vous-même, donnez-vous à Dieu, protestez-lui que non seulement vous voulez être à lui et le servir, mais que vous désirez le servir en la manière qui lui sera la plus agréable, et en l'état auquel il lui plaira de vous appeler. Priez-le qu'il vous fasse connaître sa sainte volonté là-dessus, et prenez résolution d'apporter de votre part toutes les dispositions requises, afin d'en avoir connaissance et de la suivre. II Considérez que, pour vous disposer à connaître la divine volonté touchant votre vocation, vous avez sept choses à faire.
+
+La première est de vous humilier profondément, reconnaissant que vous êtes infiniment indigne de servir Dieu, en quelque état et condition que ce puisse être; qu'étant rempli de ténèbres, vous ne pouvez pas vous-même connaître la volonté de Dieu sur ce sujet, et que vous ne méritez point qu'il vous communique ses divines lumières à cette fin.
+
+La seconde est de bien purifier votre âme de toute sorte de péché et d'affection au péché, par le moyen d'une vraie pénitence et d'une confession extraordinaire, afin d'ôter de vous ce qui pourrait mettre empêchement aux lumières et aux grâces du ciel dont vous avez besoin en cette occasion.
+
+La troisième, de protester à Dieu que vous désirez être à lui absolument, pour le servir de tout votre cœur et pour l'amour de lui-même, dans le genre de vie auquel il lui plaira de vous appeler.
+
+La quatrième, de vous mettre dans une entière indifférence au regard de toutes les professions dans lesquelles on peut plaire à Dieu, et [de] vous dépouiller de toutes sortes de desseins et de prétentions, mettant aux pieds de Notre-Seigneur tous vos sentiments, volontés désirs et inclinations, afin qu'il vous revête des siennes; lui résignant pleinement votre liberté, afin qu'il dispose de vous selon son bon plaisir; et mettant votre cœur entre ses mains comme une cire molle, ou comme une carte blanche, afin qu'il y grave et écrive les caractères de sa très adorable volonté.
+
+La cinquième, de le prier instamment et avec grande confiance, que par son infinie miséricorde, encore que vous en soyez infiniment indigne, il vous mette dans l'état qu'il a daigné choisir pour vous de toute éternité; et qu'il vous donne les lumières et les grâces nécessaires et convenables, tant pour y entrer que pour l'y servir fidèlement.
+
+La sixième, d'accompagner votre prière de quelques mortifications, aumônes, ou autres bonnes œuvres corporelles ou spirituelles.
+
+La septième, d'implorer le secours de la bienheureuse Vierge, de saint Joseph, de votre bon Ange, et de tous les autres Anges et Saints, afin qu'ils vous obtiennent la grâce de connaître et de suivre ce que Dieu demande de vous.
+
+Voilà les sept choses que vous avez à faire pour vous disposer à connaître la vocation de Dieu sur vous. Priez-le qu'il vous donne la grâce de les pratiquer; et de votre côté tâchez de le faire, moyennant son aide.
+
+III Si après avoir pratiqué les choses susdites, et être entré dans les dispositions qui y sont marquées, vous sentez quelque mouvement et inclination à quelque genre de vie, vous ne devez pas le suivre tout aussitôt, mais le bien examiner auparavant, de peur de prendre les instincts de votre propre volonté, ou de votre amour-propre, ou de l'esprit malin, pour ceux de l'esprit de Dieu. Et afin de n'y être pas trompé, considérez soigneusement: 1. si la condition à laquelle vous êtes attiré est telle que vous y puissiez facilement servir Dieu et faire votre salut; -- 2. si Dieu vous a donné les qualités de corps et d'esprit qui y sont convenables, et les conditions qui sont requises pour y entrer; -- 3. si le désir que vous en avez est stable et permanent; -- 4. si le motif qui vous y porte est pur et désintéressé, n'ayant point d'autre intention que d'honorer Dieu et d'accomplir sa très sainte volonté; -- 5. si votre dessein est approuvé et confirmé par le conseil de quelques serviteurs de Dieu, capables de vous diriger dans une affaire de si grande conséquence.
+
+Voilà cinq marques de la véritable vocation de Dieu. Si elles se rencontrent dans le désir que vous avez de quelque état ou genre de vie, il ne reste qu'à prendre une puissante résolution de le mettre en effet; à chercher les moyens qui vous peuvent conduire à cette fin; à prier Dieu qu'il vous donne toutes les grâces qui vous sont nécessaires pour y parvenir, et pour l'y servir et honorer selon tous les desseins qu'il daigne avoir sur vous; et à invoquer pour cette fin les intercessions de la très sacrée Vierge, des Anges et des Saints.
+
+ORAISON JACULATOIRE: Notam fac mihi viam in qua ambulem, quia ad te levavi animam meam 107 : « Seigneur, faites-moi connaître la voie par laquelle je dois marcher; car j'ai élevé mon cœur vers vous, attendant cette grâce de votre seule bonté. »
+
+## Vive jésus et marie !
+
 ---
 
 *Notes de l’éditeur (Œuvres complètes, 1905–11)*
@@ -65,3 +99,7 @@ ORAISON JACULATOIRE: Nobis autem adhaerere Deo bonum est, ut societas nostra sit
 102 I Thess. V, 19.
 
 103 Ps. CVI, 8.
+
+106 Ps. LXXII, 28; I Joan, I. 3.
+
+107 Ps. CXLII, 8.
