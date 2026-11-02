@@ -1,0 +1,17 @@
+# Primera parte, capítulo IV. De cinco partes que puede tener la oración
+
+Éstas son, cristiano lector, las meditaciones en que te pueden ejercitar los días de la semana, para que así no te falte materia en. que pensar. Mas aquí es de notar que (como arriba dijimos) antes desta meditación pueden preceder dos cosas, y seguirse otras dos, de manera que sean por todas cinco partes las que entrevengaa en este ejercicio, conviene saber: preparación, lición, meditación, hacimiento de gracias y petición.
+
+Porque primeramente, antes que entremos en la oración, es necesario aparejar el corazón para aquel sancto ejercicio, que es como quien tiempla la vihuela para haber de tañer en ella. Por lo cual dijo el Eclesiástico ;i}: Antes de la oración apareja tu ánima, 3' no seas como el hombre que tienta á Dios. Tentar á Dios es querer que haga milagro en las cosas que se pueden hacer por otros medios. Pues como el aparejo del corazón sea un tan principal medio para alcanzar la devoción, el que pretende alcanzarla sin este medio, por el mismo caso quiere que Dios haga con él milagro, lo cual dice aquí el Eclesiástico que es como tentar á Dios.
+
+Después de la preparación se sigue la lición del paso que se ha de meditar en aquel día, según el repartimiento de los días de la semana que arriba se hizo. Lo cual sin dubda es necesario á los principios, hasta que el hombre sepa lo que ha de meditar. Mas después que por el uso de algunos días se sabe ya esto, no será más necesaria esta lición, sino luego podemos proceder á la meditación.
+
+Después de la meditación se puede seguir luego un devoto hacimiento de gracias por los beneficios recibidos, el cual ha de acompañar siempre todas nuestras oraciones, según que lo aconseja el Apóstol diciendo [^1]: Ocupaos con mucha instancia en la oración, velando en ella con hacimiento de gracias. Porque como dice Sant Augustín, ¿qué cosa mejor podemos tener en el corazón, y pronunciar por la boca, y escrebir con la pluma, que esta palabra: Gracias á Dios? No ha}^ cosa que más brevemente se diga, ni más dulcemente se oya, ni más alegremente se entienda, ni más fructuosamente se haga.
+
+La última parte es la petición, que propiamente se llama oración, en la cual pedimos todo aquello que conviene así para nuestra salud como para la de nuestros prójimos y de toda la Iglesia.
+
+Estas cinco partes pueden entrevenir en la oración, las cuales entre otros provechos tienen también éste , que dan al hombre aún más copiosa materia de meditar, poniéndole delante todas estas diferencias de manjares, para que si no pudiere comer de uno, coma de otro, y para que si en una cosa se le acabare el hilo de la meditación, entre luego en otra donde se le ofrezca otra cosa en que meditar.
+
+Bien veo que ni todas estas partes ni esta orden es siempre necesaria para todos: mas todavía servirá esto á los que de nuevo comienzan, para que tengan alguna orden y hilo por donde se puedan á los principios regir. Cierto es que algunas cosas son necesarias á los principios para enseñar una facultad, que después de sabida serían demasiadas, Y por esto de ninguna cosa que aquí dijéremos, quiero que se haga ley perpetua ni regla general, porque mi intento no fué hacer le}', sino introdución, para imponer á los nuevos en este camino: en el cual, después que hobieren entrado por esta puerta, el uso (como dijimos) y el Espíritu Sancto les enseñará lo demás. Lo cual, dicho una vez en este lugar, quiero que se entienda en toda esta cscriptura.
+
+[^1]: Eccli. 18. (2) Col. 4.

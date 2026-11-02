@@ -1,0 +1,362 @@
+{
+  "id": "granada-libro-de-la-oracion",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Libro de la oración y meditación",
+    "en-US": "Book of Prayer and Meditation",
+    "pt-BR": "Livro da oração e meditação"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Libro de Fray Luis de Granada (1554) que enseña a orar meditando los misterios de la fe: catorce meditaciones para los días de la semana (la Pasión por la mañana; muerte, juicio, infierno, gloria y beneficios por la noche), el método de la oración, la segunda parte sobre la devoción y sus impedimentos, tres sermones sobre la oración y los tres breves tratados de la oración, el ayuno y la limosna.",
+    "en-US": "Fray Luis de Granada's book (1554) teaching how to pray by meditating on the mysteries of the faith: fourteen meditations for the days of the week (the Passion in the morning; death, judgment, hell, heaven and God's benefits at night), the method of prayer, the second part on devotion and its obstacles, three sermons on prayer and the three short treatises on prayer, fasting and almsgiving.",
+    "pt-BR": "Livro de Frei Luís de Granada (1554) que ensina a rezar meditando os mistérios da fé: catorze meditações para os dias da semana, o método da oração, a segunda parte sobre a devoção e seus impedimentos, três sermões sobre a oração e os três breves tratados da oração, do jejum e da esmola."
+  },
+  "composed": "1554-1566",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/libro-de-la-oracion",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue02luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 2 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the 1554 first edition with the later additions (the three sermons and the Tres breves tratados of the 1566 redaction).",
+      "description": "Prologue, the 14 meditations (mornings: the Passion; nights: the seven treatises) with the chapters on method, the second part on devotion, the three sermons on prayer and the three short treatises. Cuervo's 3000-line apparatus of variants between the editions is not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "epistola",
+      "title": {
+        "es-ES": "Epístola del autor"
+      }
+    },
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo y argumento deste libro"
+      }
+    },
+    {
+      "id": "parte-1",
+      "title": {
+        "es-ES": "Primera parte: de la materia de la oración"
+      },
+      "children": [
+        {
+          "id": "p1-cap1",
+          "title": {
+            "es-ES": "Primera parte, capítulo I. De la virtud y excelencias de la oración"
+          }
+        },
+        {
+          "id": "p1-cap2",
+          "title": {
+            "es-ES": "Primera parte, capítulo II. De dos maneras de oración y de las meditaciones para los días de la semana"
+          }
+        },
+        {
+          "id": "p1-cap3",
+          "title": {
+            "es-ES": "Primera parte, capítulo III. De cinxo partes que tiene la oración"
+          }
+        },
+        {
+          "id": "p1-m1-manana",
+          "title": {
+            "es-ES": "Meditación del lunes por la mañana"
+          }
+        },
+        {
+          "id": "p1-m2-manana",
+          "title": {
+            "es-ES": "Meditación del martes por la mañana"
+          }
+        },
+        {
+          "id": "p1-m3-manana",
+          "title": {
+            "es-ES": "Meditación del miércoles por la mañana"
+          }
+        },
+        {
+          "id": "p1-m4-manana",
+          "title": {
+            "es-ES": "Meditación del jueves por la mañana"
+          }
+        },
+        {
+          "id": "p1-m5-manana",
+          "title": {
+            "es-ES": "Meditación del viernes por la mañana"
+          }
+        },
+        {
+          "id": "p1-m6-manana",
+          "title": {
+            "es-ES": "Meditación del sábado por la mañana"
+          }
+        },
+        {
+          "id": "p1-m7-manana",
+          "title": {
+            "es-ES": "Meditación del domingo por la mañana"
+          }
+        },
+        {
+          "id": "p1-m1-noche",
+          "title": {
+            "es-ES": "Meditación del lunes en la noche"
+          }
+        },
+        {
+          "id": "p1-tratado1",
+          "title": {
+            "es-ES": "Tratado primero. De la consideración de los pecados"
+          }
+        },
+        {
+          "id": "p1-m2-noche",
+          "title": {
+            "es-ES": "Meditación del martes en la noche"
+          }
+        },
+        {
+          "id": "p1-tratado2",
+          "title": {
+            "es-ES": "Tratado segundo. De la consideración de las miserias de la vida humana"
+          }
+        },
+        {
+          "id": "p1-m3-noche",
+          "title": {
+            "es-ES": "Meditación del miércoles en la noche"
+          }
+        },
+        {
+          "id": "p1-tratado3",
+          "title": {
+            "es-ES": "Tratado tercero. En el cual se trata de la consideración de la muerte"
+          }
+        },
+        {
+          "id": "p1-m4-noche",
+          "title": {
+            "es-ES": "Meditación del jueves en la noche"
+          }
+        },
+        {
+          "id": "p1-tratado4",
+          "title": {
+            "es-ES": "Tratado cuarto. De la consideración del juicio final"
+          }
+        },
+        {
+          "id": "p1-m5-noche",
+          "title": {
+            "es-ES": "Meditación del viernes en la noche"
+          }
+        },
+        {
+          "id": "p1-tratado5",
+          "title": {
+            "es-ES": "Tratado quinto. De la consideración de las penas del infierno"
+          }
+        },
+        {
+          "id": "p1-m6-noche",
+          "title": {
+            "es-ES": "Meditación del sábado en la noche"
+          }
+        },
+        {
+          "id": "p1-tratado6",
+          "title": {
+            "es-ES": "Tratado sexto. De la consideración de la gloria del paraíso"
+          }
+        },
+        {
+          "id": "p1-m7-noche",
+          "title": {
+            "es-ES": "Meditación del domingo en la noche"
+          }
+        },
+        {
+          "id": "p1-tratado7",
+          "title": {
+            "es-ES": "Tratado séptimo. De la consideración de los beneficios divinos"
+          }
+        },
+        {
+          "id": "p1-cap4",
+          "title": {
+            "es-ES": "Primera parte, capítulo IV. De cinco partes que puede tener la oración"
+          }
+        },
+        {
+          "id": "p1-cap5",
+          "title": {
+            "es-ES": "Primera parte, capítulo V. De la preparación que se requiere para antes de la oración"
+          }
+        },
+        {
+          "id": "p1-cap6",
+          "title": {
+            "es-ES": "Primera parte, capítulo VI. De la lición"
+          }
+        },
+        {
+          "id": "p1-cap7",
+          "title": {
+            "es-ES": "Primera parte, capítulo VII. De la meditación"
+          }
+        },
+        {
+          "id": "p1-cap8",
+          "title": {
+            "es-ES": "Primera parte, capítulo VIII. Del hacimiento de gracias"
+          }
+        },
+        {
+          "id": "p1-cap9",
+          "title": {
+            "es-ES": "Primera parte, capítulo IX. De la petición"
+          }
+        },
+        {
+          "id": "p1-cap10",
+          "title": {
+            "es-ES": "Primera parte, capítulo X. De algunos avisos que se han de tener en estas clnco partes susodichas, especialmente acerca de la meditación"
+          }
+        },
+        {
+          "id": "p1-cap11",
+          "title": {
+            "es-ES": "Primera parte, capítulo último. De seis cosas que debemos meditar en la Pasión del Salvador"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-2",
+      "title": {
+        "es-ES": "Segunda parte: de la devoción y de las cosas que la ayudan o impiden"
+      },
+      "children": [
+        {
+          "id": "p2-cap1",
+          "title": {
+            "es-ES": "Segunda parte, capítulo I. En el cual se declara qué cosa sea devoción"
+          }
+        },
+        {
+          "id": "p2-cap2",
+          "title": {
+            "es-ES": "Segunda parte, capítulo II. De las cosas que ayudan para alcanzar la verdadera devoción"
+          }
+        },
+        {
+          "id": "p2-cap3",
+          "title": {
+            "es-ES": "Segunda parte, capítulo III. De las cosas que impiden la devoción"
+          }
+        },
+        {
+          "id": "p2-cap4",
+          "title": {
+            "es-ES": "Segunda parte, capítulo IV. De las tentaciones más comunes que suelen fatigar a las personas que se dan á la oración"
+          }
+        },
+        {
+          "id": "p2-cap5",
+          "title": {
+            "es-ES": "Segunda parte, capítulo V. De algunos avisos que se deben tener en estos ejercicios contra los engaños del enemigo"
+          }
+        },
+        {
+          "id": "p2-conclusion",
+          "title": {
+            "es-ES": "Conclusión de la segunda parte"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parte-3",
+      "title": {
+        "es-ES": "Tercera parte: sermones de la oración"
+      },
+      "children": [
+        {
+          "id": "p3-intro",
+          "title": {
+            "es-ES": "Tercera parte: al lector. De la oración en la cual se trata de la virtud y perseverancia de la oración"
+          }
+        },
+        {
+          "id": "p3-sermon1",
+          "title": {
+            "es-ES": "Sermón primero. En el cual así por razones como por experiencia se declara de cuánto provecho sea esta virtud"
+          }
+        },
+        {
+          "id": "p3-sermon2",
+          "title": {
+            "es-ES": "Sermón segundo. Y asimismo de la utilidad grande della"
+          }
+        },
+        {
+          "id": "p3-sermon3",
+          "title": {
+            "es-ES": "Sermón tercero. De la oración"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tres-tratados",
+      "title": {
+        "es-ES": "Tres breves tratados: oración, ayuno y limosna"
+      },
+      "children": [
+        {
+          "id": "t3-prologo",
+          "title": {
+            "es-ES": "Tres breves tratados: prólogo"
+          }
+        },
+        {
+          "id": "t3-oracion",
+          "title": {
+            "es-ES": "Tratado primero, de la oración. De la virtud y excelencia. de la oración"
+          }
+        },
+        {
+          "id": "t3-ayuno",
+          "title": {
+            "es-ES": "Tratado segundo, del ayuno. De la virtud del ayuno v asperezas corporales"
+          }
+        },
+        {
+          "id": "t3-limosna",
+          "title": {
+            "es-ES": "Tratado tercero, de la limosna. De la limosna y misericordia"
+          }
+        }
+      ]
+    }
+  ]
+}
