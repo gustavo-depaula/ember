@@ -1,0 +1,200 @@
+{
+  "id": "eudes-lettres",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Les lettres de Jean Eudes dans les Œuvres complètes (1905–11) : livre I aux prêtres de la Congrégation de Jésus et Marie, livre II aux religieuses de Notre-Dame de Charité, livre III à diverses personnes.",
+    "en-US": "The letters of John Eudes in the Complete Works (1905–11): book I to the priests of the Congregation of Jesus and Mary, book II to the sisters of Our Lady of Charity, book III to various persons.",
+    "pt-BR": "As cartas de João Eudes nas Obras completas (1905–11): livro I aos sacerdotes da Congregação de Jesus e Maria, livro II às religiosas de Nossa Senhora da Caridade, livro III a diversas pessoas."
+  },
+  "composed": "1630–1680",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_10)_000000355.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 10, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    },
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_11)_000000356.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 11, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "livre-1",
+      "title": {
+        "fr-FR": "Livre premier : aux prêtres de la Congrégation de Jésus et Marie"
+      },
+      "children": [
+        {
+          "id": "livre-1-01",
+          "title": {
+            "fr-FR": "Introduction"
+          }
+        },
+        {
+          "id": "livre-1-02",
+          "title": {
+            "fr-FR": "Lettres I–XXI"
+          }
+        },
+        {
+          "id": "livre-1-03",
+          "title": {
+            "fr-FR": "Lettres XXII–XXVI"
+          }
+        },
+        {
+          "id": "livre-1-04",
+          "title": {
+            "fr-FR": "Lettres XXVII–XLVI"
+          }
+        },
+        {
+          "id": "livre-1-05",
+          "title": {
+            "fr-FR": "Lettres XLVIII–LXVII"
+          }
+        },
+        {
+          "id": "livre-1-06",
+          "title": {
+            "fr-FR": "Lettres LXVIII–LXXXVI"
+          }
+        },
+        {
+          "id": "livre-1-07",
+          "title": {
+            "fr-FR": "Lettres LXXXVII–CXV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-2",
+      "title": {
+        "fr-FR": "Livre deuxième : aux religieuses de Notre-Dame de Charité"
+      },
+      "children": [
+        {
+          "id": "livre-2-01",
+          "title": {
+            "fr-FR": "Lettres I–VII"
+          }
+        },
+        {
+          "id": "livre-2-02",
+          "title": {
+            "fr-FR": "Lettres VIII–XII"
+          }
+        },
+        {
+          "id": "livre-2-03",
+          "title": {
+            "fr-FR": "Lettres XIII–XIX"
+          }
+        },
+        {
+          "id": "livre-2-04",
+          "title": {
+            "fr-FR": "Lettres XX–XXVI"
+          }
+        },
+        {
+          "id": "livre-2-05",
+          "title": {
+            "fr-FR": "Lettres XXVII–XLI"
+          }
+        },
+        {
+          "id": "livre-2-06",
+          "title": {
+            "fr-FR": "Lettres XLII–LI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-3",
+      "title": {
+        "fr-FR": "Livre troisième : à diverses personnes"
+      },
+      "children": [
+        {
+          "id": "livre-3-01",
+          "title": {
+            "fr-FR": "Lettre I"
+          }
+        },
+        {
+          "id": "livre-3-02",
+          "title": {
+            "fr-FR": "Lettres II–X"
+          }
+        },
+        {
+          "id": "livre-3-03",
+          "title": {
+            "fr-FR": "Lettres XI–XVII"
+          }
+        },
+        {
+          "id": "livre-3-04",
+          "title": {
+            "fr-FR": "Lettres XVIII–XXVI"
+          }
+        },
+        {
+          "id": "livre-3-05",
+          "title": {
+            "fr-FR": "Lettres XXVII–XXX"
+          }
+        },
+        {
+          "id": "livre-3-06",
+          "title": {
+            "fr-FR": "Lettres XXXI–XLIV"
+          }
+        },
+        {
+          "id": "livre-3-07",
+          "title": {
+            "fr-FR": "Lettres XLV–LXV"
+          }
+        },
+        {
+          "id": "livre-3-08",
+          "title": {
+            "fr-FR": "Lettres LXVI–LXXV"
+          }
+        }
+      ]
+    }
+  ]
+}
