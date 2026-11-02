@@ -1,0 +1,41 @@
+{
+ "id": "manning-love-of-jesus-to-penitents",
+ "dir": "manning-opera-omnia/love-of-jesus-to-penitents",
+ "slug": "love-of-jesus-to-penitents",
+ "work": "manning/love-of-jesus-to-penitents",
+ "name": "The Love of Jesus to Penitents",
+ "name_pt": "O Amor de Jesus pelos Penitentes",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Manning's book of 1862 on the Sacrament of Penance, written in Rome and dedicated to Fr. Coffin, Redemptorist: the sacrament as the special sacrament of the compassion of Jesus, as a means of self-knowledge, and the dispositions, the examination and the fruits of a good confession.",
+ "desc_pt": "O livro de Manning (1862) sobre o sacramento da Penit\u00eancia, escrito em Roma e dedicado ao Pe. Coffin, redentorista: o sacramento como o sacramento especial da compaix\u00e3o de Jesus, como meio de autoconhecimento, e as disposi\u00e7\u00f5es, o exame e os frutos de uma boa confiss\u00e3o.",
+ "composed": 1862,
+ "editor": "Henry Edward Manning (London: Burns and Lambert, 1862; this printing 1872)",
+ "year": 1872,
+ "url": "https://archive.org/details/a591692200mannuoft",
+ "edition": "The Love of Jesus to Penitents (London: Burns, Oates, 1872 printing of the 1862 edition), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The dedicatory letter and the five chapters; the contents and the advertisements are dropped.",
+ "src": "manning/ia/a591692200mannuoft_djvu.txt",
+ "start": 122,
+ "end": 3604,
+ "levels": [
+  "CHAPTER"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "dedication",
+   "title": "Dedicatory Letter to Fr. Coffin",
+   "from": 28,
+   "to": 84
+  }
+ ],
+ "back": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "titles": {
+  "2": "The Sacrament of Penance a Means of Self-Knowledge"
+ }
+}

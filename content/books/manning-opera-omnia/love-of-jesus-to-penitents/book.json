@@ -1,0 +1,75 @@
+{
+  "id": "manning-love-of-jesus-to-penitents",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Love of Jesus to Penitents",
+    "pt-BR": "O Amor de Jesus pelos Penitentes"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Manning's book of 1862 on the Sacrament of Penance, written in Rome and dedicated to Fr. Coffin, Redemptorist: the sacrament as the special sacrament of the compassion of Jesus, as a means of self-knowledge, and the dispositions, the examination and the fruits of a good confession.",
+    "pt-BR": "O livro de Manning (1862) sobre o sacramento da Penitência, escrito em Roma e dedicado ao Pe. Coffin, redentorista: o sacramento como o sacramento especial da compaixão de Jesus, como meio de autoconhecimento, e as disposições, o exame e os frutos de uma boa confissão."
+  },
+  "composed": 1862,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/love-of-jesus-to-penitents",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Lambert, 1862; this printing 1872)",
+      "year": 1872
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591692200mannuoft",
+      "edition": "The Love of Jesus to Penitents (London: Burns, Oates, 1872 printing of the 1862 edition), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The dedicatory letter and the five chapters; the contents and the advertisements are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1872, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedication",
+      "title": {
+        "en-US": "Dedicatory Letter to Fr. Coffin"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The Sacrament of Penance the Special Sacrament of the Compassion of Jesus"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The Sacrament of Penance a Means of Self-Knowledge"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. The Sacrament of Penance the Means of Perfecting our Contrition"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The Sacrament of Penance the Sacrament of Reparation"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. The Sacrament of Penance the Sacrament of Perseverance"
+      }
+    }
+  ]
+}
