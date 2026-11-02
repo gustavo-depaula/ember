@@ -1,0 +1,96 @@
+{
+  "id": "bonaventure-collationes-de-septem-donis",
+  "cover": "classic",
+  "name": {
+    "la": "Collationes de septem donis Spiritus Sancti",
+    "en-US": "Collations on the Seven Gifts of the Holy Spirit",
+    "pt-BR": "Colações sobre os sete dons do Espírito Santo"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Novem collationes de donis Spiritus Sancti, Parisiis anno 1268 habitae: de gratia, de virtutibus et donis, et de gradibus ascensus ad sapientiam. Textus ex editione Quaracchi (Opera omnia V, 1891), ex scanno OCR, sine notis criticis.",
+    "en-US": "Nine collations on the gifts of the Holy Spirit, preached at Paris in 1268: grace, the virtues and the gifts, and the steps by which the soul rises to wisdom. The text is the Quaracchi edition (Opera omnia V, 1891) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Nove colações sobre os dons do Espírito Santo, pregadas em Paris em 1268."
+  },
+  "composed": "1268",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/collationes-de-septem-donis",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1891
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic05bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. V (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1891), pp. 455-503.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ Summarium and footnotes (variant readings, cross-references) are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1891 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Collatio I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Collatio II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Collatio III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Collatio IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Collatio V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Collatio VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Collatio VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Collatio VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Collatio IX"
+      }
+    }
+  ]
+}

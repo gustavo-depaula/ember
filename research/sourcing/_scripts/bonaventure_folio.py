@@ -109,6 +109,8 @@ if __name__ == '__main__':
         print('=== PAGE', n, 'notes cut', nn)
         for t, ind, *_ in body: print(('   ' if ind else '') + t)
 
+RUNHEAD_L = re.compile(r'^(?:\d{3}\s+)?(?:(?:DE|IN|SERMO|SERMONES)\s+[A-ZÀ-Ý.\- ]{2,40}?\s+)?(?:C[O0]LL\w{0,5}|SERMO|SERM\w{0,3})[ .]+[IVXLlHU1]{1,7}[.,]?\s+(?=\S)')
+RUNHEAD_R = re.compile(r'\s+(?:C[O0]LL\w{0,5}|SERMO)[ .]+[IVXLlHU1]{1,7}[.,]?(?:\s+\d{3})?$')
 SUMM = re.compile(r'^[SB5]\s?[uUn][mn][mn]\s?[aA][rR]', re.I)
 COLL = re.compile(r'^(?:COLLATIO|COLL\w{0,4}[ .]*\w{0,3}|C[O0]LL[A-Z.\\]{2,6})\s+([IVXLlHU1]+)\.?$')
 
@@ -128,6 +130,8 @@ def stream(pages, a, b):
             t = re.sub(r'\s+', ' ', t).strip()
             if not t: continue
             if t.startswith('@@'): out.append(('H', t[2:])); continue
+            t = RUNHEAD_L.sub('', t); t = RUNHEAD_R.sub('', t)   # a page head the OCR merged into the first/last text line
+            if not t: continue
             if HEAD.match(t) and not re.match(r'^\d+[.,] ', t):
                 continue
             out.append(('L', t, ind))
@@ -162,9 +166,9 @@ def roman(n):
 
 def head_roman(t):
     """Roman numeral token at the end of an OCR'd head ('COLLATIO XIIL' -> 'XIII'), None if there is none."""
-    m = re.search(r'([IVXLlUYKH1]{1,7})\.?\s*$', t)
+    m = re.search(r'\b([IiVXLlUYKH1Nn]{1,7})\.?\s*$', t)
     if not m: return None
-    r = m.group(1).replace('l', 'I').replace('1', 'I').replace('Y', 'V').replace('K', 'V').replace('U', 'II').replace('H', 'II')
+    r = m.group(1).replace('n', 'II').replace('N', 'II').replace('l', 'I').upper().replace('1', 'I').replace('Y', 'V').replace('K', 'V').replace('U', 'II').replace('H', 'II')
     if r.endswith('L'): r = r[:-1] + 'I'
     return r
 
