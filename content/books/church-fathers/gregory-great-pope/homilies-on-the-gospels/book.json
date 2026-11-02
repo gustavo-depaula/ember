@@ -1,0 +1,290 @@
+{
+  "id": "gregory-great-pope-homilies-on-the-gospels",
+  "cover": "classic",
+  "name": {
+    "la": "Homiliae XL in Evangelia",
+    "en-US": "Forty Gospel Homilies",
+    "pt-BR": "Quarenta Homilias sobre os Evangelhos"
+  },
+  "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
+    "en-US": "Gregory the Great, Pope (c. 540-604)",
+    "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
+  },
+  "description": {
+    "la": "Quadraginta homiliae in Evangelia, in duos libros divisae, quas Gregorius Romae ad populum habuit vel dictavit (590-593), cum epistola ad Secundinum Tauromenitanum episcopum.",
+    "en-US": "The forty homilies on the Gospel readings of the Roman year that Gregory preached or dictated in Rome in 590-593, in two books, with his prefatory letter to Bishop Secundinus of Taormina. Latin text of the Maurist edition (Migne, PL 76), as transcribed on Latin Wikisource; no public-domain English translation of the whole is known.",
+    "pt-BR": "As quarenta homilias sobre os Evangelhos do ano litúrgico romano que Gregório pregou ou ditou em Roma entre 590 e 593, em dois livros, com a carta-prefácio a Secundino, bispo de Taormina. Texto latino da edição beneditina (Migne, PL 76)."
+  },
+  "composed": "590-593",
+  "languages": [
+    "la"
+  ],
+  "work": "gregory-the-great/homiliae-in-evangelia",
+  "editions": {
+    "la": {
+      "editor": "Maurist edition (Sainte-Marthe, 1705), as reprinted in Migne, PL 76 (1849)"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Homiliarum_in_Evangelia",
+      "edition": "Homiliarum in Evangelia, preface and homilies I-XL, on Latin Wikisource (from Documenta Catholica Omnia, PL 76); cross-checked in word count (91.6k) against the DCO transcription.",
+      "description": "Wikitext removed, wrapped lines rejoined into paragraphs; one file per homily.",
+      "tier": "A",
+      "tierEvidence": "Text of a 6th-century work in the 1705 Maurist edition (Migne 1849): public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "h01",
+      "title": {
+        "la": "Homilia I"
+      }
+    },
+    {
+      "id": "h02",
+      "title": {
+        "la": "Homilia II"
+      }
+    },
+    {
+      "id": "h03",
+      "title": {
+        "la": "Homilia III"
+      }
+    },
+    {
+      "id": "h04",
+      "title": {
+        "la": "Homilia IV"
+      }
+    },
+    {
+      "id": "h05",
+      "title": {
+        "la": "Homilia V"
+      }
+    },
+    {
+      "id": "h06",
+      "title": {
+        "la": "Homilia VI"
+      }
+    },
+    {
+      "id": "h07",
+      "title": {
+        "la": "Homilia VII"
+      }
+    },
+    {
+      "id": "h08",
+      "title": {
+        "la": "Homilia VIII"
+      }
+    },
+    {
+      "id": "h09",
+      "title": {
+        "la": "Homilia IX"
+      }
+    },
+    {
+      "id": "h10",
+      "title": {
+        "la": "Homilia X"
+      }
+    },
+    {
+      "id": "h11",
+      "title": {
+        "la": "Homilia XI"
+      }
+    },
+    {
+      "id": "h12",
+      "title": {
+        "la": "Homilia XII"
+      }
+    },
+    {
+      "id": "h13",
+      "title": {
+        "la": "Homilia XIII"
+      }
+    },
+    {
+      "id": "h14",
+      "title": {
+        "la": "Homilia XIV"
+      }
+    },
+    {
+      "id": "h15",
+      "title": {
+        "la": "Homilia XV"
+      }
+    },
+    {
+      "id": "h16",
+      "title": {
+        "la": "Homilia XVI"
+      }
+    },
+    {
+      "id": "h17",
+      "title": {
+        "la": "Homilia XVII"
+      }
+    },
+    {
+      "id": "h18",
+      "title": {
+        "la": "Homilia XVIII"
+      }
+    },
+    {
+      "id": "h19",
+      "title": {
+        "la": "Homilia XIX"
+      }
+    },
+    {
+      "id": "h20",
+      "title": {
+        "la": "Homilia XX"
+      }
+    },
+    {
+      "id": "h21",
+      "title": {
+        "la": "Homilia XXI"
+      }
+    },
+    {
+      "id": "h22",
+      "title": {
+        "la": "Homilia XXII"
+      }
+    },
+    {
+      "id": "h23",
+      "title": {
+        "la": "Homilia XXIII"
+      }
+    },
+    {
+      "id": "h24",
+      "title": {
+        "la": "Homilia XXIV"
+      }
+    },
+    {
+      "id": "h25",
+      "title": {
+        "la": "Homilia XXV"
+      }
+    },
+    {
+      "id": "h26",
+      "title": {
+        "la": "Homilia XXVI"
+      }
+    },
+    {
+      "id": "h27",
+      "title": {
+        "la": "Homilia XXVII"
+      }
+    },
+    {
+      "id": "h28",
+      "title": {
+        "la": "Homilia XXVIII"
+      }
+    },
+    {
+      "id": "h29",
+      "title": {
+        "la": "Homilia XXIX"
+      }
+    },
+    {
+      "id": "h30",
+      "title": {
+        "la": "Homilia XXX"
+      }
+    },
+    {
+      "id": "h31",
+      "title": {
+        "la": "Homilia XXXI"
+      }
+    },
+    {
+      "id": "h32",
+      "title": {
+        "la": "Homilia XXXII"
+      }
+    },
+    {
+      "id": "h33",
+      "title": {
+        "la": "Homilia XXXIII"
+      }
+    },
+    {
+      "id": "h34",
+      "title": {
+        "la": "Homilia XXXIV"
+      }
+    },
+    {
+      "id": "h35",
+      "title": {
+        "la": "Homilia XXXV"
+      }
+    },
+    {
+      "id": "h36",
+      "title": {
+        "la": "Homilia XXXVI"
+      }
+    },
+    {
+      "id": "h37",
+      "title": {
+        "la": "Homilia XXXVII"
+      }
+    },
+    {
+      "id": "h38",
+      "title": {
+        "la": "Homilia XXXVIII"
+      }
+    },
+    {
+      "id": "h39",
+      "title": {
+        "la": "Homilia XXXIX"
+      }
+    },
+    {
+      "id": "h40",
+      "title": {
+        "la": "Homilia XL"
+      }
+    }
+  ]
+}
