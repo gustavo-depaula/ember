@@ -1,0 +1,42 @@
+{
+ "id": "faber-foot-of-the-cross",
+ "dir": "faber-opera-omnia/foot-of-the-cross",
+ "slug": "foot-of-the-cross",
+ "work": "faber/foot-of-the-cross",
+ "name": "The Foot of the Cross, or the Sorrows of Mary",
+ "name_pt": "Ao P\u00e9 da Cruz, ou as Dores de Maria",
+ "author": "Fr. Frederick William Faber",
+ "author_pt": "Pe. Frederick William Faber",
+ "died": 1863,
+ "desc": "Faber's treatise of 1858 on the sorrows of Our Lady: nine chapters on the martyrdom of Mary, the foot of the cross, her compassion and the devotion of the Seven Dolours, in which each chapter is divided into sections.",
+ "desc_pt": "O tratado de Faber (1858) sobre as dores de Nossa Senhora: nove cap\u00edtulos sobre o mart\u00edrio de Maria, o p\u00e9 da cruz, a sua compaix\u00e3o e a devo\u00e7\u00e3o \u00e0s Sete Dores, cada cap\u00edtulo dividido em se\u00e7\u00f5es.",
+ "composed": 1858,
+ "editor": "Fr. Frederick William Faber (London: Richardson and Son, 1858)",
+ "year": 1858,
+ "url": "https://archive.org/details/a580635100fabeuoft",
+ "edition": "The Foot of the Cross, or the Sorrows of Mary (London: Richardson and Son, 1858), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The preface is kept; the analytic table of contents and the advertisements are dropped. Faber's sections are headings within each chapter.",
+ "src": "faber/ia/a580635100fabeuoft_djvu.txt",
+ "start": 390,
+ "end": 23500,
+ "levels": [
+  "CHAPTER"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "preface",
+   "title": "Preface",
+   "from": 170,
+   "to": 238
+  }
+ ],
+ "back": [],
+ "label": {
+  "SECTION": "Section"
+ },
+ "romanheads": false,
+ "inline": [
+  "SECTION"
+ ]
+}

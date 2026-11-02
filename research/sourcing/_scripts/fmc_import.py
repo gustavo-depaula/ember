@@ -32,10 +32,14 @@ def capsy(l):
     a = [c for c in l if c.isalpha()]
     return len(a) >= 2 and sum(c.isupper() for c in a) >= 0.7 * len(a)
 def title_case(t):
-    t = re.sub(r'\s+', ' ', t).strip().rstrip('.,')
+    t = re.sub(r'(^|\s)[_\W]+(?=\s)', r'\1', re.sub(r'\s+', ' ', t).strip()).strip().rstrip('.,')
     ws = ['of' if w == 'op' else w for w in t.lower().split(' ')]
     SM = {'of', 'the', 'and', 'in', 'to', 'a', 'an', 'by', 'for', 'on', 'with', 'from', 'at', 'or', 'as', 'is', 'his', 'her', 'our', 'its', 'but', 'not'}
-    return ' '.join(w if (i and w in SM) else re.sub(r"^(\W*)(\w)", lambda m: m.group(1) + m.group(2).upper(), w) for i, w in enumerate(ws))
+    out = []
+    for i, w in enumerate(ws):
+        first = i == 0 or ws[i - 1].endswith(('.', ':', ';'))
+        out.append(w if (not first and w in SM) else re.sub(r"^(\W*)(\w)", lambda m: m.group(1) + m.group(2).upper(), w))
+    return ' '.join(out)
 def split_units(lines, cfg):
     kws = cfg['levels'] + cfg.get('inline', [])
     rx = re.compile(r'^\s*(' + '|'.join(kws) + r')\s+' + NUM + r'\s*[.,]?\s*\S{0,3}\s*$')

@@ -1,0 +1,99 @@
+{
+  "id": "faber-foot-of-the-cross",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Foot of the Cross, or the Sorrows of Mary",
+    "pt-BR": "Ao Pé da Cruz, ou as Dores de Maria"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Faber's treatise of 1858 on the sorrows of Our Lady: nine chapters on the martyrdom of Mary, the foot of the cross, her compassion and the devotion of the Seven Dolours, in which each chapter is divided into sections.",
+    "pt-BR": "O tratado de Faber (1858) sobre as dores de Nossa Senhora: nove capítulos sobre o martírio de Maria, o pé da cruz, a sua compaixão e a devoção às Sete Dores, cada capítulo dividido em seções."
+  },
+  "composed": 1858,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/foot-of-the-cross",
+  "editions": {
+    "en-US": {
+      "editor": "Fr. Frederick William Faber (London: Richardson and Son, 1858)",
+      "year": 1858
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a580635100fabeuoft",
+      "edition": "The Foot of the Cross, or the Sorrows of Mary (London: Richardson and Son, 1858), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The preface is kept; the analytic table of contents and the advertisements are dropped. Faber's sections are headings within each chapter. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fr. Frederick William Faber died in 1863 and the edition is of 1858, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The Martyrdom of Mary"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The First Dolour. The Prophecy of St, Simeon"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. The Second Dolour. The Flight Into Egypt"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The Third Dolour. The Three Days’ Loss"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. The Fourth Dolour. Meeting Jesus with the Cross"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. The Fifth Dolour. The Crucifixion"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII. The Sixth Dolour. The Taking Down from the Cross"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII. The Seventh Dolour.  the Burial of Jesus"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter IX. The Compassion of Mary"
+      }
+    }
+  ]
+}
