@@ -51,6 +51,10 @@ def to_md(wt):
     s = re.sub(r"\{\{Encabezado.*?\}\}", "", s, flags=re.S | re.I)
     s = re.sub(r"\{\{(?:Pie|Plantilla:Pie|Fin|Navegación)[^}]*\}\}", "", s, flags=re.I)
     s = re.sub(r"<!--.*?-->", "", s, flags=re.S)
+    s = re.sub(r"<poem[^>]*>(.*?)</poem>", lambda m: "\n\n" + re.sub(r"[ \t]*\n(?!\s*\n)", "  \n", m.group(1).strip()) + "\n\n", s, flags=re.S)
+    s = re.sub(r"[ \t]*<br\s*/?>[ \t]*\n", "  \n", s)
+    s = re.sub(r"\{\{DP[^{}]*\}\}", "", s)
+    s = re.sub(r"(?:\{\{bc\||<pre>)(.*?)(?:\}\}|</pre>)", lambda m: "\n\n" + re.sub(r"[ \t]*\n(?!\s*\n)", "  \n", m.group(1).strip()) + "\n\n", s, flags=re.S)
     # footnotes
     notes = []
     def ref(m):
@@ -64,6 +68,7 @@ def to_md(wt):
     s = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", s)
     s = re.sub(r"'''(.+?)'''", r"**\1**", s)
     s = re.sub(r"''(.+?)''", r"*\1*", s)
+    s = re.sub(r"[ \t]*<br\s*/?>[ \t]*\n", "  \n", s)
     s = re.sub(r"<br\s*/?>", "\n", s)
     s = re.sub(r"</?(?:poem|center|div|span|small|big|blockquote|sup|sub)[^>]*>", "", s)
     s = re.sub(r"^=+\s*(.*?)\s*=+\s*$", lambda m: "\n\n## " + m.group(1) + "\n\n", s, flags=re.M)

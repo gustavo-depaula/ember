@@ -71,6 +71,9 @@ These books were imported from scans and corrected by script, not proofread. Pro
 
 - `luis-de-leon-opera-omnia/exposicion-de-job`, `es-ES/`: the verse paraphrase of Job in tercets (Luis's last piece in the printed edition) is not on es.wikisource and is not in the book; the chapter pages carry only the translation and the exposition.
 
+- `luis-de-leon-opera-omnia/poesias` (es-ES) and `poesias-phillips` (en-US): es.wikisource has only 11 original poems and 3 Virgil pieces (Eclogues I and V, Georgics I), about 11,000 words of the roughly 30,000: the other odes, the Psalm and Job paraphrases and the translations of Horace, Pindar, Petrarch and others are missing; BAE 37 (OCR too noisy) and Mayans 1761 have them. Phillips 1883 is OCR with lost stanza breaks and a few stray marks.
+- `luis-de-leon-opera-omnia`: not imported yet: the letters and writings from the trial (Cartas, Proceso, Teresa dedicatory letter) and all the Latin works (the 1891-95 Opera is not online in full).
+
 ### English left out
 
 - `john-of-the-cross-opera-omnia/{cantico-a,llama-b,avisos,opuscula,epistolario,poesias}`: Spanish only. Lewis/Zimmerman (1912/1919) has English for the letters (18 of Silverio's 26, numbered differently), the poems, the maxims (a different, longer compilation than the Andújar *Dichos*) and "Instructions and Precautions" (the Cautelas and the Counsels), but they are not yet cleaned or paired; they would be their own books. Cántico A and Llama B have no free English.

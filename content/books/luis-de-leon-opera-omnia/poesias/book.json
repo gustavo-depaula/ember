@@ -1,0 +1,155 @@
+{
+  "id": "luis-poesias",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Poesías",
+    "en-US": "Poems",
+    "pt-BR": "Poesias"
+  },
+  "description": {
+    "es-ES": "Las odas y el soneto de Fray Luis de León que recoge Wikisource (A Felipe Ruiz, A Francisco Salinas, Noche serena, Profecía del Tajo, Vida retirada, Al salir de la cárcel…) y sus versiones de las Bucólicas y de las Geórgicas I y II de Virgilio. Primera edición de las poesías: Quevedo, 1631.",
+    "en-US": "The odes and sonnet of Fray Luis de León preserved on Wikisource (To Felipe Ruiz, To Francisco Salinas, Serene Night, Prophecy of the Tagus, The Retired Life, On leaving prison…) and his translations of Virgil's Eclogues and Georgics I and II. First printed by Quevedo in 1631.",
+    "pt-BR": "As odes e o soneto de Frei Luís de León reunidos na Wikisource (A Felipe Ruiz, A Francisco Salinas, Noite serena, Profecia do Tejo, Vida retirada, Ao sair do cárcere…) e as suas versões das Bucólicas e das Geórgicas I e II de Virgílio. Primeira edição das poesias: Quevedo, 1631."
+  },
+  "composed": "1550–1591",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "luis-de-leon/poesias",
+  "editions": {
+    "es-ES": {
+      "editor": "es.wikisource transcription",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://es.wikisource.org/wiki/Autor:Fray_Luis_de_León",
+      "edition": "Individual poem pages on es.wikisource (category Poesías de Fray Luis de León, Sonetos, Bucólicas, Geórgicas), from the Obras of BAE 37 (1855).",
+      "description": "Partial: Wikisource lacks the other odes, the Psalm paraphrases and the translations of Horace, Pindar, Petrarch and others; see PROBLEMS.md.",
+      "tier": "A"
+    }
+  ],
+  "author": {
+    "es-ES": "Fray Luis de León",
+    "en-US": "Fray Luis de León",
+    "pt-BR": "Frei Luís de León"
+  },
+  "toc": [
+    {
+      "id": "originales",
+      "title": {
+        "es-ES": "Poesías originales",
+        "en-US": "Original poems",
+        "pt-BR": "Poesias originais"
+      },
+      "children": [
+        {
+          "id": "ori-a-felipe-ruiz",
+          "title": {
+            "es-ES": "A Felipe Ruiz"
+          }
+        },
+        {
+          "id": "ori-a-francisco-salinas",
+          "title": {
+            "es-ES": "A Francisco Salinas"
+          }
+        },
+        {
+          "id": "ori-al-apartamiento",
+          "title": {
+            "es-ES": "Al apartamiento"
+          }
+        },
+        {
+          "id": "ori-al-salir-de-la-carcel",
+          "title": {
+            "es-ES": "Al salir de la cárcel"
+          }
+        },
+        {
+          "id": "ori-al-salir-de-la-prision",
+          "title": {
+            "es-ES": "Al salir de la prisión"
+          }
+        },
+        {
+          "id": "ori-imitacion-de-diversos",
+          "title": {
+            "es-ES": "Imitación de diversos"
+          }
+        },
+        {
+          "id": "ori-noche-serena",
+          "title": {
+            "es-ES": "Noche serena"
+          }
+        },
+        {
+          "id": "ori-profecia-del-tajo",
+          "title": {
+            "es-ES": "Profecía del Tajo"
+          }
+        },
+        {
+          "id": "ori-vida-retirada",
+          "title": {
+            "es-ES": "Vida retirada"
+          }
+        },
+        {
+          "id": "ori-soneto-cuando-me-paro-a-contemplar-mi-vida",
+          "title": {
+            "es-ES": "Soneto: «Cuando me paro a contemplar mi vida»"
+          }
+        },
+        {
+          "id": "ori-preguntas-de-amor",
+          "title": {
+            "es-ES": "Preguntas de amor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bucolicas",
+      "title": {
+        "es-ES": "Traducción de las Bucólicas de Virgilio",
+        "en-US": "Translation of Virgil's Eclogues",
+        "pt-BR": "Tradução das Bucólicas de Virgílio"
+      },
+      "children": [
+        {
+          "id": "buc-egloga-i",
+          "title": {
+            "es-ES": "Égloga I"
+          }
+        },
+        {
+          "id": "buc-egloga-v",
+          "title": {
+            "es-ES": "Égloga V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "georgicas",
+      "title": {
+        "es-ES": "Traducción de las Geórgicas de Virgilio (libros I y II)",
+        "en-US": "Translation of Virgil's Georgics (Books I and II)",
+        "pt-BR": "Tradução das Geórgicas de Virgílio (livros I e II)"
+      },
+      "children": [
+        {
+          "id": "geo-georgica-i",
+          "title": {
+            "es-ES": "Geórgica I"
+          }
+        }
+      ]
+    }
+  ]
+}
