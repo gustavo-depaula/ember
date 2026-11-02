@@ -1,0 +1,149 @@
+{
+  "id": "francis-detti-egidio",
+  "cover": "classic",
+  "name": {
+    "it": "Detti di frate Egidio",
+    "en-US": "The Sayings of Brother Giles",
+    "pt-BR": "Ditos de frei Egídio"
+  },
+  "author": {
+    "it": "Frate Egidio d’Assisi (attribuito)",
+    "en-US": "Brother Giles of Assisi (attributed)",
+    "pt-BR": "Frei Egídio de Assis (atribuído)"
+  },
+  "description": {
+    "it": "I Detti di frate Egidio d’Assisi, diciotto capitoli di massime sui vizi e le virtù: la fede, l’umiltà, la pazienza, la carità, la preghiera, la contemplazione.",
+    "en-US": "The Sayings of Brother Giles of Assisi: eighteen chapters of maxims on vices and virtues, faith, humility, patience, charity, prayer and contemplation. Italian.",
+    "pt-BR": "Os Ditos de frei Egídio de Assis: dezoito capítulos de máximas sobre os vícios e as virtudes."
+  },
+  "composed": "13th century",
+  "languages": [
+    "it"
+  ],
+  "work": "francis-of-assisi/detti-egidio",
+  "editions": {
+    "it": {
+      "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_dettiegidio_ita.html",
+      "edition": "Detti di frate Egidio, poliba.it (Wayback Machine snapshot).",
+      "description": "Eighteen chapters. The English of the CCEL Hudleston revision (Part IV) is not imported.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "it": "1. Capitolo de vizj, e della virtù."
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "it": "2. Capitolo della Fede."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "it": "3. Capitolo della santa Umiltade."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "it": "4. Capitolo dello santo timore di Dio."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "it": "5. Capitolo della santa pazienzia."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "it": "6. Capitolo dell'oziositade."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "it": "7. Capitolo del dispiacimento delle cose temporali."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "it": "8. Capitolo della santa castitade."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "it": "9. Capitolo delle tentazioni."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "it": "10. Capitolo della santa penitenzia."
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "it": "11. Capitolo della santa orazione."
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "it": "12. Capitolo della santa cautela spirituale."
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "it": "13. Capitolo della scienzia utile, e non utile."
+      }
+    },
+    {
+      "id": "cap-014",
+      "title": {
+        "it": "14. Capitolo del bene parlare e del male."
+      }
+    },
+    {
+      "id": "cap-015",
+      "title": {
+        "it": "15. Capitolo della buona perseverazione."
+      }
+    },
+    {
+      "id": "cap-016",
+      "title": {
+        "it": "16. Capitolo della vera Religione."
+      }
+    },
+    {
+      "id": "cap-017",
+      "title": {
+        "it": "17. Capitolo della santa obbedienzia."
+      }
+    },
+    {
+      "id": "cap-018",
+      "title": {
+        "it": "18. Capitolo della memoria della morte."
+      }
+    }
+  ]
+}
