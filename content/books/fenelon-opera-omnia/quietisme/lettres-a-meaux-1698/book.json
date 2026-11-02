@@ -1,0 +1,124 @@
+{
+  "id": "fenelon-quietisme-lettres-meaux",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Querelle du quiétisme IV : Lettres à M. de Meaux (1698)",
+    "en-US": "The Quietism Dispute IV: Letters to the Bishop of Meaux (1698)",
+    "pt-BR": "Querela do quietismo IV: Cartas ao bispo de Meaux (1698)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les cinq Lettres à M. de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, et les trois Lettres pour servir de réponse à celle de M. de Meaux (1698).",
+    "en-US": "The five Letters to the Bishop of Meaux in reply to the various writings and memoranda on the book of the Maxims, and the three Letters in reply to the letter of the Bishop of Meaux (1698).",
+    "pt-BR": "As cinco Cartas ao bispo de Meaux em resposta aos diversos escritos e memoriais sobre o livro das Máximas, e as três Cartas em resposta à carta do bispo de Meaux (1698)."
+  },
+  "composed": "1698",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-a-meaux-1698",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Livre:Œuvres_complètes_de_Fénelon_(1848-1852),_tome_2.djvu",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1848-1852 (éd. Gosselin, Saint-Sulpice), tome 2, p. 554–T. II fin; text layer of the Wikimedia Commons djvu scan.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1848-52 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-cinq-lettres",
+      "title": {
+        "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes"
+      },
+      "children": [
+        {
+          "id": "01-cinq-lettres-01",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, partie 1"
+          }
+        },
+        {
+          "id": "01-cinq-lettres-02",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, partie 2"
+          }
+        },
+        {
+          "id": "01-cinq-lettres-03",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, partie 3"
+          }
+        },
+        {
+          "id": "01-cinq-lettres-04",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, partie 4"
+          }
+        },
+        {
+          "id": "01-cinq-lettres-05",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, partie 5"
+          }
+        },
+        {
+          "id": "01-cinq-lettres-06",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, partie 6"
+          }
+        },
+        {
+          "id": "01-cinq-lettres-07",
+          "title": {
+            "fr-FR": "Lettres à M. l’évêque de Meaux en réponse aux divers écrits ou mémoires sur le livre des Maximes, partie 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-trois-lettres",
+      "title": {
+        "fr-FR": "Lettres pour servir de réponse à celle de M. l’évêque de Meaux"
+      },
+      "children": [
+        {
+          "id": "02-trois-lettres-01",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à celle de M. l’évêque de Meaux, partie 1"
+          }
+        },
+        {
+          "id": "02-trois-lettres-02",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à celle de M. l’évêque de Meaux, partie 2"
+          }
+        },
+        {
+          "id": "02-trois-lettres-03",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à celle de M. l’évêque de Meaux, partie 3"
+          }
+        },
+        {
+          "id": "02-trois-lettres-04",
+          "title": {
+            "fr-FR": "Lettres pour servir de réponse à celle de M. l’évêque de Meaux, partie 4"
+          }
+        }
+      ]
+    }
+  ]
+}
