@@ -1,0 +1,789 @@
+{
+  "id": "tauler-sermons-elliott",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Sermons and Conferences of John Tauler",
+    "pt-BR": "Os Sermões e Conferências de João Tauler"
+  },
+  "author": {
+    "en-US": "John Tauler (c. 1300-1361)",
+    "pt-BR": "João Tauler (c. 1300-1361)"
+  },
+  "description": {
+    "en-US": "The complete cycle of Tauler's sermons for the Church year and for feasts (122 sermons and conferences) in Walter Elliott's English of 1910, translated from the German critical edition and checked against Surius, with Elliott's synopses, introduction and the legendary History and the Interview with the Beggar. Tauler's Middle High German (Vetter 1910) is not yet imported.",
+    "pt-BR": "O ciclo completo dos sermões de Tauler para o ano litúrgico e as festas (122 sermões e conferências), na tradução inglesa de Walter Elliott (1910), com sinopses, introdução e a lendária História de Tauler."
+  },
+  "composed": "c. 1330-1361",
+  "languages": [
+    "en-US"
+  ],
+  "work": "tauler/predigten",
+  "editions": {
+    "en-US": {
+      "translator": "Walter Elliott",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/sermonsconferenc00tauluoft",
+      "edition": "The Sermons and Conferences of John Tauler (Washington: Apostolic Mission House, 1910), translated by Walter Elliott.",
+      "description": "OCR of the archive.org scan (research/sourcing/_scripts/tauler_build.py): sermons split at Elliott's 'Synopsis' lines, titles from the table of contents, running heads removed; his asterisk footnotes stay as short paragraphs at their page end. Index and subscriber list not included. Not proofread. The 'History' and the 'Interview with a Beggar' come from the spurious Meisterbuch tradition and are marked as doubtful by Elliott.",
+      "tier": "A",
+      "tierEvidence": "1910 translation, public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "history",
+      "title": {
+        "en-US": "The History of the Reverend Master John Tauler"
+      }
+    },
+    {
+      "id": "interview",
+      "title": {
+        "en-US": "The Interview of Master John Tauler with a Beggar"
+      }
+    },
+    {
+      "id": "s001",
+      "title": {
+        "en-US": "1. Advent and Its Lessons — Sermon for the First Sunday of Advent"
+      }
+    },
+    {
+      "id": "s002",
+      "title": {
+        "en-US": "2. Going Into the Dessert to Find God — Sermon for the Third Sunday of Advent"
+      }
+    },
+    {
+      "id": "s003",
+      "title": {
+        "en-US": "3. Unity and Multiplicity — Sermon for the Fourth Sunday of Advent"
+      }
+    },
+    {
+      "id": "s004",
+      "title": {
+        "en-US": "4. The Three Births of Christ — First Sermon for the Feast of Christmas"
+      }
+    },
+    {
+      "id": "s005",
+      "title": {
+        "en-US": "5. The Four Dwelling Places of Christ — Second Sermon for the Feast of Christmas"
+      }
+    },
+    {
+      "id": "s006",
+      "title": {
+        "en-US": "6. The Generation of the Word in a Perfect Soul — Sermon for the Sunday After Christmas"
+      }
+    },
+    {
+      "id": "s007",
+      "title": {
+        "en-US": "7. Lessons for the New Year — Sermon for NewYear's Day"
+      }
+    },
+    {
+      "id": "s008",
+      "title": {
+        "en-US": "8. The Holy Trinity in the Soul's Essence — Sermon for the Sunday After New Year's"
+      }
+    },
+    {
+      "id": "s009",
+      "title": {
+        "en-US": "9. The Day of Perfection — First Sermon for the Vigil of the Epiphany"
+      }
+    },
+    {
+      "id": "s010",
+      "title": {
+        "en-US": "10. Seeking for God — Second Sermon for the Vigil of the Epiphany"
+      }
+    },
+    {
+      "id": "s011",
+      "title": {
+        "en-US": "11. How Bitter Myrrh is Turned into Sweet Incense — First Sermon for the Feast of the Epiphany"
+      }
+    },
+    {
+      "id": "s012",
+      "title": {
+        "en-US": "12. How Ignorance Leads to Wisdom — Second Sermon for the Feast of the Epiphany"
+      }
+    },
+    {
+      "id": "s013",
+      "title": {
+        "en-US": "13. God's Light in the Soul — Third Sermon for the Feast of the Epiphany"
+      }
+    },
+    {
+      "id": "s014",
+      "title": {
+        "en-US": "14. God is Gained by Detachment from Creatures — Sermon for the First Sunday After the Epiphany"
+      }
+    },
+    {
+      "id": "s015",
+      "title": {
+        "en-US": "15. How Men Thrist After God Differently — Sermon for the Second Sunday After the Epiphany"
+      }
+    },
+    {
+      "id": "s016",
+      "title": {
+        "en-US": "16. The Ftve Porches of the Pool of Healing — Sermon for the Third Sunday After the Epiphany"
+      }
+    },
+    {
+      "id": "s017",
+      "title": {
+        "en-US": "17. Marks of a Truly Converted Soul — Sermon for the Fourth Sunday After the Epiphany"
+      }
+    },
+    {
+      "id": "s018",
+      "title": {
+        "en-US": "18. The Yoke of Christ is the Soul's Thought of God — Sermon for the Fifth Sunday After the Epiphany"
+      }
+    },
+    {
+      "id": "s019",
+      "title": {
+        "en-US": "19. Signs of a True Scholar of Christ — Sermon for the Sixth Sunday After the Epiphany"
+      }
+    },
+    {
+      "id": "s020",
+      "title": {
+        "en-US": "20. The Different Degrees of Spirituality— Sermon for Septuagesima Sunday"
+      }
+    },
+    {
+      "id": "s021",
+      "title": {
+        "en-US": "21. Not Our Own, but God's Activity Makes Us Perfect — Sermon for Sexagesima Sunday"
+      }
+    },
+    {
+      "id": "s022",
+      "title": {
+        "en-US": "22. Suffering a Condition for Interior Progress — Sermon for Quinquagesima Sunday"
+      }
+    },
+    {
+      "id": "s023",
+      "title": {
+        "en-US": "23. Gradations of Merit — Sermon for Ash Wednesday"
+      }
+    },
+    {
+      "id": "s024",
+      "title": {
+        "en-US": "24. True and False Spiriiuality Compared — Sermon for the First Sunday of Lent"
+      }
+    },
+    {
+      "id": "s025",
+      "title": {
+        "en-US": "25. The Hi iumf.nts of Perfection— First Sermon for the Second Sunday of Lent •"
+      }
+    },
+    {
+      "id": "s026",
+      "title": {
+        "en-US": "26. lh tanrsM as an Element 01 I )evotion— Second Sermon for the Second Sunday of Lent 19i ciini'KKN or Abraham: True and False— Sermon for the Third Sunday of Lent"
+      }
+    },
+    {
+      "id": "s027",
+      "title": {
+        "en-US": "27. JESUS THE l'<xrs ok Divine Light— First Sermon for the Fourth Sunday of Lent"
+      }
+    },
+    {
+      "id": "s028",
+      "title": {
+        "en-US": "28. Tin: Soil's FESTIVAL Day— Second Sermon for the Fourth Sunday of Lent"
+      }
+    },
+    {
+      "id": "s029",
+      "title": {
+        "en-US": "29. IUahi.m. and Bleeding fob Christ— First Sermon for Passion Sunday"
+      }
+    },
+    {
+      "id": "s030",
+      "title": {
+        "en-US": "30. < u 1 h siring to ex Perfect — Second Sermon for Passion Sunday"
+      }
+    },
+    {
+      "id": "s031",
+      "title": {
+        "en-US": "31. Bhori Ci is to Holiness — First Sermon for Palm Sunday"
+      }
+    },
+    {
+      "id": "s032",
+      "title": {
+        "en-US": "32. Chbibt's <i eansing of the Temple of the Soul — Second Sermon for Palm Sunday ^28 l i bsoiib OF Christ's Passion — First Sermon for Good Friday"
+      }
+    },
+    {
+      "id": "s033",
+      "title": {
+        "en-US": "33. How <;oi> Draws Soils to Himself — Second Sermon for Good Friday"
+      }
+    },
+    {
+      "id": "s034",
+      "title": {
+        "en-US": "34. I'mon With God — Sermon for Easter Sunday : First Part"
+      }
+    },
+    {
+      "id": "s035",
+      "title": {
+        "en-US": "35. Union With God — Sermon for Easter Sunday : Second Part"
+      }
+    },
+    {
+      "id": "s036",
+      "title": {
+        "en-US": "36. The DE6REE8 of Love — Sermon for Easter Monday"
+      }
+    },
+    {
+      "id": "s037",
+      "title": {
+        "en-US": "37. The Qualities of Love — Sermon for Thursday in Easter Week"
+      }
+    },
+    {
+      "id": "s038",
+      "title": {
+        "en-US": "38. The Call to Peace — First Sermon for Low Sunday"
+      }
+    },
+    {
+      "id": "s039",
+      "title": {
+        "en-US": "39. Prayers Outward and Inward — Second Sermon for Low Sunday 26S The Winter of the Soul — Sermon for the Second Sunday After Easter"
+      }
+    },
+    {
+      "id": "s040",
+      "title": {
+        "en-US": "40. The Paraclete's Judgment Against the World — First Sermon for the Fourth Sunday After Easter"
+      }
+    },
+    {
+      "id": "s041",
+      "title": {
+        "en-US": "41. Hindering the Coming of the Holy Ghost — Second Sermon for the Fourth Sun. lay After Easter"
+      }
+    },
+    {
+      "id": "s042",
+      "title": {
+        "en-US": "42. Why Prayer is Without Fruit — Sermon for the Rogation Days"
+      }
+    },
+    {
+      "id": "s043",
+      "title": {
+        "en-US": "43. Why Christ Upbraids Men — First Sermon for the Feast of the Ascension"
+      }
+    },
+    {
+      "id": "s044",
+      "title": {
+        "en-US": "44. The Suit's Five Captivities — Second Sermon for the Feast of the Ascension"
+      }
+    },
+    {
+      "id": "s045",
+      "title": {
+        "en-US": "45. How to Ascend with Christ into Heaven — Third Sermon for the Feast of the Ascension"
+      }
+    },
+    {
+      "id": "s046",
+      "title": {
+        "en-US": "46. IIdw We Witness to Christ in Unrest and Suffering — Fourth Sermon f«>r the Feast of the Ascension"
+      }
+    },
+    {
+      "id": "s047",
+      "title": {
+        "en-US": "47. The Exchange of Matthias for Judas in the Inner Life — Fifth Sermon for the Feast of the Ascension"
+      }
+    },
+    {
+      "id": "s048",
+      "title": {
+        "en-US": "48. Prudence and Praying— Sermon for the Sunday After the Ascension"
+      }
+    },
+    {
+      "id": "s049",
+      "title": {
+        "en-US": "49. Preparing to Receive the Holy Ghost — First Sermon for the Feast of Pentecost"
+      }
+    },
+    {
+      "id": "s050",
+      "title": {
+        "en-US": "50. Giving God Unhindered Liberty in the Soul — Second Sermon for the Feast of Pentecost"
+      }
+    },
+    {
+      "id": "s051",
+      "title": {
+        "en-US": "51. Tin GIFTS of the Holy Ghost— Third Sermon for the Feast of Pentecost"
+      }
+    },
+    {
+      "id": "s052",
+      "title": {
+        "en-US": "52. The Good Shepherd and His Sheep — Fourth Sermon for the Feast of Pentecost"
+      }
+    },
+    {
+      "id": "s053",
+      "title": {
+        "en-US": "53. The Apostles Before Pentecost — Fifth Sermon for the Feast of Pentecost"
+      }
+    },
+    {
+      "id": "s054",
+      "title": {
+        "en-US": "54. THE I >ra\\vin<; of the Holy Ghost— Sixth Sermon for Pentecost"
+      }
+    },
+    {
+      "id": "s055",
+      "title": {
+        "en-US": "55. Knowing God— First Sermon for Trinity Sunday"
+      }
+    },
+    {
+      "id": "s056",
+      "title": {
+        "en-US": "56. The Trinity and the Interior Life— Second Sermon for Trinity Sunday"
+      }
+    },
+    {
+      "id": "s057",
+      "title": {
+        "en-US": "57. ^--^^On Holy Communion — First Sermon for the Feast of Corpus Christi 36S Dispositions for Holy Communion — Second Sermon for the Feast of Corpus Christi"
+      }
+    },
+    {
+      "id": "s058",
+      "title": {
+        "en-US": "58. The Dignity and Worth of Holy Communion — Third Sermon for the Feast of Corpus Christi"
+      }
+    },
+    {
+      "id": "s059",
+      "title": {
+        "en-US": "59. The Fruit of Holy Communion — Fourth Sermon for the Feast of Corpus Christi"
+      }
+    },
+    {
+      "id": "s060",
+      "title": {
+        "en-US": "60. Foretastes of Heaven— Sermon for the Second Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s061",
+      "title": {
+        "en-US": "61. ?-Three Foundation Stones: Humility, Love and Detachment — First Sermon for the Third Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s062",
+      "title": {
+        "en-US": "62. Four Classes of Sinners — Second Sermon for the Third Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s063",
+      "title": {
+        "en-US": "63. God's Deep Searching of Our Souls — Third Sermon for the Third Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s064",
+      "title": {
+        "en-US": "64. Patience with Men and Patience with God — First Sermon for the Fourth Trinity"
+      }
+    },
+    {
+      "id": "s065",
+      "title": {
+        "en-US": "65. Giving God Good Measure — Second Sermon for the Fourth Sunday After Trinity 42S Prayer, Vocal and Mental — First Sermon for the Fifth Sunday After J _— Trinity"
+      }
+    },
+    {
+      "id": "s066",
+      "title": {
+        "en-US": "66. Fishing in Deep Waters — Second Sermon for the Fifth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s067",
+      "title": {
+        "en-US": "67. Interior Obedience to God — Third Sermon for the Fifth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s068",
+      "title": {
+        "en-US": "68. From the Alpha to the Omega of Perfection — Sermon for the Sixth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s069",
+      "title": {
+        "en-US": "69. Who May Go Often to Communion — Sermon for the Seventh Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s070",
+      "title": {
+        "en-US": "70. The Inspirations of Grace — Sermon for the Eighth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s071",
+      "title": {
+        "en-US": "71. Fidelity in Little Things — First Sermon for the Tenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s072",
+      "title": {
+        "en-US": "72. Election and Reprobation — Second Sermon for the Tenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s073",
+      "title": {
+        "en-US": "73. Hindering and Helping a Worthy Communion — Sermon for the Eleventh Suuday After Trinity"
+      }
+    },
+    {
+      "id": "s074",
+      "title": {
+        "en-US": "74. How Patience Begets Hope and Love — First Sermon for the Twelfth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s075",
+      "title": {
+        "en-US": "75. Spiritual Deafness — Second Sermon for the Twelfth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s076",
+      "title": {
+        "en-US": "76. Spiritual Blindness — First Sermon for the Thirteenth Sunday After Trinity 49S The Inner Revelation — Second Sermon for the Thirteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s077",
+      "title": {
+        "en-US": "77. In What Way a Perfect Man is Like God — Sermon for the Fourteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s078",
+      "title": {
+        "en-US": "78. Ideals High and Low — First Sermon for the Fifteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s079",
+      "title": {
+        "en-US": "79. Trusting God — Second Sermon for the Fifteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s080",
+      "title": {
+        "en-US": "80. The Dimensions of the Soul — Third Sermon for the Fifteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s081",
+      "title": {
+        "en-US": "81. Bfi.innkrs, Proficients and the Perfect — First Sermon for the Sixteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s082",
+      "title": {
+        "en-US": "82. Peaci Through Patience and Mkekness — Second Sermon for Sixteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s083",
+      "title": {
+        "en-US": "83. 1\\\\\\am> Pharisaism — Sermon for the Seventeenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s084",
+      "title": {
+        "en-US": "84. Renewal of Spirit — Sormon for the Eighteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s085",
+      "title": {
+        "en-US": "85. A i iikim, iiik Bride for the Bridegroom — First Sermon for the Nineteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s086",
+      "title": {
+        "en-US": "86. Laying the Axe to the Roots of Imperfection — Second Sermon for the Nineteenth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s087",
+      "title": {
+        "en-US": "87. i >\\ Ti mii AiiciNs Sermon for the Twentieth Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s088",
+      "title": {
+        "en-US": "88. Tin Wide Sweep of Love — Sermon for the Twenty-first Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s089",
+      "title": {
+        "en-US": "89. Sin Deception, Its Cause and Its Cure — First Sermon for the Twentythird Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s090",
+      "title": {
+        "en-US": "90. God Alone— Second Sermon for the Twenty-third Sunday After Trinity"
+      }
+    },
+    {
+      "id": "s091",
+      "title": {
+        "en-US": "91. Dwelling with GodSermon for the Feast of St. Andrew, the Apostle"
+      }
+    },
+    {
+      "id": "s092",
+      "title": {
+        "en-US": "92. I M mini; Honestly with God — Sermon for the Feast of St. Barbara, or for that of any Virgin"
+      }
+    },
+    {
+      "id": "s093",
+      "title": {
+        "en-US": "93. Holy Severity with Self — Sermon for the Feast of Our Lady's Coneept ion"
+      }
+    },
+    {
+      "id": "s094",
+      "title": {
+        "en-US": "94. A Dying Life Sermon for the Feast of St. Stephen"
+      }
+    },
+    {
+      "id": "s095",
+      "title": {
+        "en-US": "95. Si 1 1 I in i iiKix and Its Root — Sermon for the Feast of Our Lady's Nativity"
+      }
+    },
+    {
+      "id": "s096",
+      "title": {
+        "en-US": "96. Mystical Prayer — Sermon for the Feast of Our Lady's Visitation, or for the o.tave of Her Nativity"
+      }
+    },
+    {
+      "id": "s097",
+      "title": {
+        "en-US": "97. Christian Purity — Sermon for the Feast of St. Agnes, Virgin and Martyr"
+      }
+    },
+    {
+      "id": "s098",
+      "title": {
+        "en-US": "98. The VIRGINAL State — Sermon for the Feast of St. Agatha, Virgin and Martyr"
+      }
+    },
+    {
+      "id": "s099",
+      "title": {
+        "en-US": "99. Mary's Place in the Incarnation — Sermon for the Feast of the Annunciation of Our Blessed Lady"
+      }
+    },
+    {
+      "id": "s100",
+      "title": {
+        "en-US": "100. Sim RevelationFirst Sermon for the Feast of the Nativity of St. John the Baptist"
+      }
+    },
+    {
+      "id": "s101",
+      "title": {
+        "en-US": "101. Con the Light or the Son. — Second Sermon for the Feast of the Nativity ..I\" St. John the Baptist"
+      }
+    },
+    {
+      "id": "s102",
+      "title": {
+        "en-US": "102. Fraternal Correction — Sermon for the Feast of St. Timothy"
+      }
+    },
+    {
+      "id": "s103",
+      "title": {
+        "en-US": "103. ii mNG off Superfluities — Sermon for the Feast of St. Mary Magdalene"
+      }
+    },
+    {
+      "id": "s104",
+      "title": {
+        "en-US": "104. Guidanci : Human and Divine— Sermon for the Feast of St. Lawrence, Martyr"
+      }
+    },
+    {
+      "id": "s105",
+      "title": {
+        "en-US": "105. Watching fob Friends and Enemies — Sermon for the Feast of St. Augustine"
+      }
+    },
+    {
+      "id": "s106",
+      "title": {
+        "en-US": "106. The Supri m acy oi the < uoss ok Christ — First Sermon for the Feast of the Exaltation of the Holy Cross"
+      }
+    },
+    {
+      "id": "s107",
+      "title": {
+        "en-US": "107. Interior Cructfiction— Second Sermon for the Feast of the Exaltation of the Holy Cross"
+      }
+    },
+    {
+      "id": "s108",
+      "title": {
+        "en-US": "108. Jesus fine nun Third Sermon for the Feast of the Exaltation of the Holy Cross"
+      }
+    },
+    {
+      "id": "s109",
+      "title": {
+        "en-US": "109. Giving Up All Sermon for the Feast of St. Matthew, Apostle and Evangelist"
+      }
+    },
+    {
+      "id": "s110",
+      "title": {
+        "en-US": "110. Paqe The Holy Angels — Sermon for the Feast of St. Michael and all Holy Angels"
+      }
+    },
+    {
+      "id": "s111",
+      "title": {
+        "en-US": "111. The Beatitudes — First Sermon for the Feast of all Saints"
+      }
+    },
+    {
+      "id": "s112",
+      "title": {
+        "en-US": "112. Interior Cleanliness — Second Sermon for the Feast of all Saints"
+      }
+    },
+    {
+      "id": "s113",
+      "title": {
+        "en-US": "113. Perfection the Pearl of Great Price — Sermon for the Feast of St. Catherine, Virgin and Martyr 72S How Holy Love Joins Us to the Three Divine Persons — Sermon for the Feast of all the Holy Apostles"
+      }
+    },
+    {
+      "id": "s114",
+      "title": {
+        "en-US": "114. The Suffering of a Bloodless Martyrdom and its Crown — Sermon for the Feast of Many Holy Martyrs"
+      }
+    },
+    {
+      "id": "s115",
+      "title": {
+        "en-US": "115. How to Meet Temptations — Sermon for the Feast of a Holy Martyr"
+      }
+    },
+    {
+      "id": "s116",
+      "title": {
+        "en-US": "116. On Human Respect — Sermon for the Feast of a Holy Bishop Confessor"
+      }
+    },
+    {
+      "id": "s117",
+      "title": {
+        "en-US": "117. The Mistake of Turning Outward Instead of Inward — Sermon for a Feast of Many Holy Confessors"
+      }
+    },
+    {
+      "id": "s118",
+      "title": {
+        "en-US": "118. The Triple Crown of Holy Love : Self-abnegation, Patience and Earnestness— Sermon for a Feast of Many Holy Virgins"
+      }
+    },
+    {
+      "id": "s119",
+      "title": {
+        "en-US": "119. Human Nature Depraved and Sanctified — First Sermon for the Adversary of the Dedication of a Church"
+      }
+    },
+    {
+      "id": "s120",
+      "title": {
+        "en-US": "120. Faith as a Practical Means of Sanctification — Second Sermon for the Anniversary of the Dedication of a Church"
+      }
+    },
+    {
+      "id": "s121",
+      "title": {
+        "en-US": "121. Two Useful Instructions About Confession"
+      }
+    },
+    {
+      "id": "s122",
+      "title": {
+        "en-US": "122. On the Attributes of God"
+      }
+    }
+  ]
+}
