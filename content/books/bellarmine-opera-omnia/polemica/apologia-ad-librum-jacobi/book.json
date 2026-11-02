@@ -1,0 +1,154 @@
+{
+  "id": "bellarmine-apologia-ad-librum-jacobi",
+  "cover": "classic",
+  "name": {
+    "la": "Responsio ad librum Jacobi Magnae Britanniae regis (Apologia)",
+    "en-US": "Reply to the Book of James I of England",
+    "pt-BR": "Resposta ao livro de Tiago I da Inglaterra"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Apologia Bellarmini pro responsione sua ad librum Jacobi regis (1609). Textus ex editione Vivès (1870-74), tomo XII, ex scanno OCR.",
+    "en-US": "Bellarmine's defence of his reply to the book of James I, on the oath of allegiance (1609). Latin only: the Vivès edition (1870-74), volume 12, from an OCR scan.",
+    "pt-BR": "A defesa de Belarmino de sua resposta ao livro de Tiago I (1609)."
+  },
+  "composed": "1609",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/responsio-ad-apologiam-jacobi-regis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia12bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 12 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. DE INSCRIPTIONE PR^FATIONE",
+        "en-US": "Caput I. DE INSCRIPTIONE PR^FATIONE"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Quod, non sit communis causa regis A ng lorum, cum regibus, et principibus orthodoxis, et Catholicis",
+        "en-US": "Caput II. Quod, non sit communis causa regis A ng lorum, cum regibus, et principibus orthodoxis, et Catholicis"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De comparatione regis, et Pontificis",
+        "en-US": "Caput III. De comparatione regis, et Pontificis"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De comparatione regis, et Cardinalis",
+        "en-US": "Caput IV. De comparatione regis, et Cardinalis"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V",
+        "en-US": "Caput V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Quod Card. Bello, rminus directe responderit ad Apologiam pro juramento fidelitatis adversarius vero statum causae mutet, et ad alia extra rem digrediatur",
+        "en-US": "Caput VI. Quod Card. Bello, rminus directe responderit ad Apologiam pro juramento fidelitatis adversarius vero statum causae mutet, et ad alia extra rem digrediatur"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Jacobum regem ab hseresi excusari nulla ratione posse",
+        "en-US": "Caput VII. Jacobum regem ab hseresi excusari nulla ratione posse"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Non esse recentia dogmata, sed antiquissima, intercessionem Sanctorum, Missam privatam, transsubstantiationem, et alia, quse rex Anglise novitia et nupera vocat",
+        "en-US": "Caput VIII. Non esse recentia dogmata, sed antiquissima, intercessionem Sanctorum, Missam privatam, transsubstantiationem, et alia, quse rex Anglise novitia et nupera vocat"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Nulla probabilitate ex cap. ii. Epist. secundae ad Thessal. colligi posse Romanum Pontificem esse Antichristum,",
+        "en-US": "Caput IX. Nulla probabilitate ex cap. ii. Epist. secundae ad Thessal. colligi posse Romanum Pontificem esse Antichristum,"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. De Henoch, et Elia,",
+        "en-US": "Caput XI. De Henoch, et Elia,"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. De qua tuor visionibus S. Joannis in Apocalypsi, quibus Antichristus designatur ex sententia regis",
+        "en-US": "Caput XII. De qua tuor visionibus S. Joannis in Apocalypsi, quibus Antichristus designatur ex sententia regis"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Diluuntur variae calumniae",
+        "en-US": "Caput XIII. Diluuntur variae calumniae"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV",
+        "en-US": "Caput XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Sequuntur Historiae, quas rex ementitas dicit cum responsione",
+        "en-US": "Caput XVI. Sequuntur Historiae, quas rex ementitas dicit cum responsione"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Sequuntur nova dogmata, quae rex notavit in meo libello",
+        "en-US": "Caput XVII. Sequuntur nova dogmata, quae rex notavit in meo libello"
+      }
+    }
+  ]
+}
