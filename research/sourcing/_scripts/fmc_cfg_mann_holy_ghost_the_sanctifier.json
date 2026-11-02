@@ -1,0 +1,120 @@
+{
+ "id": "manning-holy-ghost-the-sanctifier",
+ "dir": "manning-opera-omnia/holy-ghost-the-sanctifier",
+ "slug": "holy-ghost-the-sanctifier",
+ "work": "manning/holy-ghost-the-sanctifier",
+ "name": "The Holy Ghost the Sanctifier",
+ "name_pt": "O Esp\u00edrito Santo Santificador",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "The Holy Ghost the Sanctifier (1873): Manning on the Holy Ghost as the source of grace in the soul, the devotion of the Church to the Third Person, sanctifying grace and the adoption of sons, the theological virtues, the seven gifts, the fruits and the beatitudes, the law of liberty, and devotion to the Holy Ghost.",
+ "desc_pt": "O Esp\u00edrito Santo Santificador (1873): Manning sobre o Esp\u00edrito Santo como fonte da gra\u00e7a na alma, a devo\u00e7\u00e3o da Igreja \u00e0 Terceira Pessoa, a gra\u00e7a santificante e a ado\u00e7\u00e3o filial, as virtudes teologais, os sete dons, os frutos e as bem-aventuran\u00e7as, a lei da liberdade e a devo\u00e7\u00e3o ao Esp\u00edrito Santo.",
+ "composed": 1873,
+ "editor": "Henry Edward Manning (London: Burns and Oates, 1873)",
+ "year": 1873,
+ "url": "https://archive.org/details/theholyghostthes00mannuoft",
+ "edition": "The Holy Ghost the Sanctifier (London: Burns and Oates, 1873), Internet Archive full-text OCR.",
+ "srcnote": "The eighteen chapters; the contents and the publisher's list of books are dropped.",
+ "src": "manning/ia/theholyghostthes00mannuoft_djvu.txt",
+ "start": 111,
+ "end": 6458,
+ "fn": true,
+ "back": [],
+ "front": [],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "units": [
+  {
+   "id": "chapter-1",
+   "title": "Chapter 1. The Devotion of the Catholic Church to the Holy Ghost",
+   "from": 111
+  },
+  {
+   "id": "chapter-2",
+   "title": "Chapter 2. Salvation by Sanctifying Grace",
+   "from": 349
+  },
+  {
+   "id": "chapter-3",
+   "title": "Chapter 3. The Adoption of Sons",
+   "from": 726
+  },
+  {
+   "id": "chapter-4",
+   "title": "Chapter 4. The Virtue of Faith",
+   "from": 925
+  },
+  {
+   "id": "chapter-5",
+   "title": "Chapter 5. The Virtue of Hope",
+   "from": 1278
+  },
+  {
+   "id": "chapter-6",
+   "title": "Chapter 6. The Virtue of Charity",
+   "from": 1655
+  },
+  {
+   "id": "chapter-7",
+   "title": "Chapter 7. The Gifts of the Holy Ghost",
+   "from": 2127
+  },
+  {
+   "id": "chapter-8",
+   "title": "Chapter 8. The Gift of Holy Fear",
+   "from": 2341
+  },
+  {
+   "id": "chapter-9",
+   "title": "Chapter 9. The Gift of Piety",
+   "from": 2712
+  },
+  {
+   "id": "chapter-10",
+   "title": "Chapter 10. The Gift of Fortitude",
+   "from": 3056
+  },
+  {
+   "id": "chapter-11",
+   "title": "Chapter 11. The Gift of Science",
+   "from": 3302
+  },
+  {
+   "id": "chapter-12",
+   "title": "Chapter 12. The Gift of Counsel",
+   "from": 3612
+  },
+  {
+   "id": "chapter-13",
+   "title": "Chapter 13. The Gift of Intellect",
+   "from": 4005
+  },
+  {
+   "id": "chapter-14",
+   "title": "Chapter 14. The Gift of Wisdom",
+   "from": 4407
+  },
+  {
+   "id": "chapter-15",
+   "title": "Chapter 15. The Fruits of the Holy Ghost",
+   "from": 4688
+  },
+  {
+   "id": "chapter-16",
+   "title": "Chapter 16. The Beatitudes",
+   "from": 5043
+  },
+  {
+   "id": "chapter-17",
+   "title": "Chapter 17. The Law of Liberty",
+   "from": 5521
+  },
+  {
+   "id": "chapter-18",
+   "title": "Chapter 18. Devotion to the Holy Ghost",
+   "from": 5965
+  }
+ ]
+}

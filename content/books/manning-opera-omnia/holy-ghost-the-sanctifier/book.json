@@ -1,0 +1,147 @@
+{
+  "id": "manning-holy-ghost-the-sanctifier",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Holy Ghost the Sanctifier",
+    "pt-BR": "O Espírito Santo Santificador"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "The Holy Ghost the Sanctifier (1873): Manning on the Holy Ghost as the source of grace in the soul, the devotion of the Church to the Third Person, sanctifying grace and the adoption of sons, the theological virtues, the seven gifts, the fruits and the beatitudes, the law of liberty, and devotion to the Holy Ghost.",
+    "pt-BR": "O Espírito Santo Santificador (1873): Manning sobre o Espírito Santo como fonte da graça na alma, a devoção da Igreja à Terceira Pessoa, a graça santificante e a adoção filial, as virtudes teologais, os sete dons, os frutos e as bem-aventuranças, a lei da liberdade e a devoção ao Espírito Santo."
+  },
+  "composed": 1873,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/holy-ghost-the-sanctifier",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, 1873)",
+      "year": 1873
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theholyghostthes00mannuoft",
+      "edition": "The Holy Ghost the Sanctifier (London: Burns and Oates, 1873), Internet Archive full-text OCR.",
+      "description": "The eighteen chapters; the contents and the publisher's list of books are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1873, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter 1. The Devotion of the Catholic Church to the Holy Ghost"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter 2. Salvation by Sanctifying Grace"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter 3. The Adoption of Sons"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter 4. The Virtue of Faith"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter 5. The Virtue of Hope"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter 6. The Virtue of Charity"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter 7. The Gifts of the Holy Ghost"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter 8. The Gift of Holy Fear"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter 9. The Gift of Piety"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter 10. The Gift of Fortitude"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Chapter 11. The Gift of Science"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Chapter 12. The Gift of Counsel"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "Chapter 13. The Gift of Intellect"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "Chapter 14. The Gift of Wisdom"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "Chapter 15. The Fruits of the Holy Ghost"
+      }
+    },
+    {
+      "id": "chapter-16",
+      "title": {
+        "en-US": "Chapter 16. The Beatitudes"
+      }
+    },
+    {
+      "id": "chapter-17",
+      "title": {
+        "en-US": "Chapter 17. The Law of Liberty"
+      }
+    },
+    {
+      "id": "chapter-18",
+      "title": {
+        "en-US": "Chapter 18. Devotion to the Holy Ghost"
+      }
+    }
+  ]
+}
