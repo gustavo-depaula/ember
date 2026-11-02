@@ -39,14 +39,14 @@
       "edition": "Migne, Patrologia Latina 77 (Maurist text), as transcribed from Documenta Catholica Omnia on Latin Wikisource",
       "description": "Regula pastoralis, Part I (with the letter to John of Ravenna), Part II chapters 1-11, Part III prologue and chapters 1-40, Part IV. One file per Part, as in the English: the English headings 'Introduction' and 'Chapter N' correspond to 'Praefatio' and 'Caput N' (the English 'Preface' is the translator's note and has no Latin counterpart). Wikitext templates and line wraps removed, paragraphs rebuilt from blank lines, chapter rubrics set in bold. Checked against the DCO LT text (41.9k words with page numbers), kept raw in sources/la-originals. Latin of the Maurist edition has no editors' notes in this transcription.",
       "tier": "A",
-      "evidence": "Text of a 6th-century work in the Maurist/Migne edition (1705, 1849), long public domain."
+      "tierEvidence": "Text of a 6th-century work in the Maurist/Migne edition (1705, 1849), long public domain."
     },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/3601.htm",
       "description": "Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight.",
       "tier": "A",
-      "evidence": "Barmby (1830-1913) translation, published 1895: public domain."
+      "tierEvidence": "Barmby (1830-1913) translation, published 1895: public domain."
     }
   ],
   "toc": [
