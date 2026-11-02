@@ -1,0 +1,328 @@
+{
+  "id": "bellarmine-de-officio-principis",
+  "cover": "classic",
+  "name": {
+    "la": "De officio principis christiani",
+    "en-US": "The Duty of the Christian Prince",
+    "pt-BR": "O dever do príncipe cristão"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Tres libri de officio principis christiani (1619): virtutes principis, vitae sanctorum principum Veteris et Novi Testamenti. Textus ex editione Vivès (1870-74), tomo VIII, ex scanno OCR.",
+    "en-US": "Three books on the duty of the Christian prince (1619): the virtues of a ruler and the lives of holy princes of the Old and New Testament. Latin only: the Vivès edition (1870-74), volume 8, from an OCR scan.",
+    "pt-BR": "Três livros sobre o dever do príncipe cristão (1619)."
+  },
+  "composed": "1619",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/de-officio-principis-christiani",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De officio principis Christiani erga Deum",
+            "en-US": "Caput I. De officio principis Christiani erga Deum"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De eodem officio",
+            "en-US": "Caput II. De eodem officio"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. De eodem officio",
+            "en-US": "Caput III. De eodem officio"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. De officio principis Christiani erga summum Pontificem",
+            "en-US": "Caput IV. De officio principis Christiani erga summum Pontificem"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. De officio principis Christiani erga Episcopum proprium",
+            "en-US": "Caput V. De officio principis Christiani erga Episcopum proprium"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. De officio principis Christiani erga suum confessorium",
+            "en-US": "Caput VI. De officio principis Christiani erga suum confessorium"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Pe charitate paterna principi necessaria ad regendos populos",
+            "en-US": "Caput VII. Pe charitate paterna principi necessaria ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. De prudentia principi necessaria ad regendos populos",
+            "en-US": "Caput VIII. De prudentia principi necessaria ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. De justitia principi necessaria ad regendos populos",
+            "en-US": "Caput IX. De justitia principi necessaria ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. De justitia particulari principi necessaria ad regendos populos",
+            "en-US": "Caput X. De justitia particulari principi necessaria ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. De fortitudine principi necessaria ad regendos populos",
+            "en-US": "Caput XI. De fortitudine principi necessaria ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. De temperantia principi ad regendos populos necessaria",
+            "en-US": "Caput XII. De temperantia principi ad regendos populos necessaria"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. De Sapientia principi necessaria ad regendos populos",
+            "en-US": "Caput XIII. De Sapientia principi necessaria ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. De magnificentia, quae principi necessaria est ad regendos populos",
+            "en-US": "Caput XIV. De magnificentia, quae principi necessaria est ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV. De clementia, quae principi necessaria est ad regendos populos",
+            "en-US": "Caput XV. De clementia, quae principi necessaria est ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI. De misericordia principi necessaria ad regendos populos",
+            "en-US": "Caput XVI. De misericordia principi necessaria ad regendos populos"
+          }
+        },
+        {
+          "id": "b1c17",
+          "title": {
+            "la": "Caput XVII. De officio principis Christiani erga domesticos suos",
+            "en-US": "Caput XVII. De officio principis Christiani erga domesticos suos"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII. De officio principis Christiani erga amicos, et consiliarios",
+            "en-US": "Caput XVIII. De officio principis Christiani erga amicos, et consiliarios"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX. De officio principis Christiani erga Judices",
+            "en-US": "Caput XIX. De officio principis Christiani erga Judices"
+          }
+        },
+        {
+          "id": "b1c20",
+          "title": {
+            "la": "Caput XX. De officio principis Christiani erga milites et domesticos famulos",
+            "en-US": "Caput XX. De officio principis Christiani erga milites et domesticos famulos"
+          }
+        },
+        {
+          "id": "b1c21",
+          "title": {
+            "la": "Caput XXI. De officio principis Christiani erga pares",
+            "en-US": "Caput XXI. De officio principis Christiani erga pares"
+          }
+        },
+        {
+          "id": "b1c22",
+          "title": {
+            "la": "Caput XXII. De officio principis Christiani erga seipsum",
+            "en-US": "Caput XXII. De officio principis Christiani erga seipsum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2p01",
+          "title": {
+            "la": "Pars 1",
+            "en-US": "Part 1"
+          }
+        },
+        {
+          "id": "b2p02",
+          "title": {
+            "la": "Pars 2",
+            "en-US": "Part 2"
+          }
+        },
+        {
+          "id": "b2p03",
+          "title": {
+            "la": "Pars 3",
+            "en-US": "Part 3"
+          }
+        },
+        {
+          "id": "b2p04",
+          "title": {
+            "la": "Pars 4",
+            "en-US": "Part 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3p01",
+          "title": {
+            "la": "Pars 1",
+            "en-US": "Part 1"
+          }
+        },
+        {
+          "id": "b3p02",
+          "title": {
+            "la": "Pars 2",
+            "en-US": "Part 2"
+          }
+        },
+        {
+          "id": "b3p03",
+          "title": {
+            "la": "Pars 3",
+            "en-US": "Part 3"
+          }
+        },
+        {
+          "id": "b3p04",
+          "title": {
+            "la": "Pars 4",
+            "en-US": "Part 4"
+          }
+        },
+        {
+          "id": "b3p05",
+          "title": {
+            "la": "Pars 5",
+            "en-US": "Part 5"
+          }
+        },
+        {
+          "id": "b3p06",
+          "title": {
+            "la": "Pars 6",
+            "en-US": "Part 6"
+          }
+        },
+        {
+          "id": "b3p07",
+          "title": {
+            "la": "Pars 7",
+            "en-US": "Part 7"
+          }
+        },
+        {
+          "id": "b3p08",
+          "title": {
+            "la": "Pars 8",
+            "en-US": "Part 8"
+          }
+        },
+        {
+          "id": "b3p09",
+          "title": {
+            "la": "Pars 9",
+            "en-US": "Part 9"
+          }
+        },
+        {
+          "id": "b3p10",
+          "title": {
+            "la": "Pars 10",
+            "en-US": "Part 10"
+          }
+        }
+      ]
+    }
+  ]
+}
