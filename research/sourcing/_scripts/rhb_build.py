@@ -69,6 +69,7 @@ def paras(lines, cfg, counts=None):
     for b in blocks_of(lines):
         t = fix(joinb(b, cfg['mode']), cfg['mode'])
         if not t: continue
+        if cfg.get('dropfull') and re.fullmatch(cfg['dropfull'], t): continue
         if counts is not None and is_head(t, counts, cfg): continue
         out.append(t)
     res = []

@@ -1,0 +1,129 @@
+{
+  "id": "benson-light-invisible",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Light Invisible",
+    "pt-BR": "A Luz Invisível"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's first book of fiction (1903), written while still an Anglican: a priest recounts the stories told to him by an old friend, a hermit-priest gifted with spiritual sight, of apparitions, conscience and the unseen Presence behind the world.",
+    "pt-BR": "O primeiro livro de ficção de Benson (1903), escrito quando ainda era anglicano: um padre narra as histórias que lhe contou um velho amigo, sacerdote eremita dotado de visão espiritual, sobre aparições, consciência e a Presença invisível por trás do mundo."
+  },
+  "composed": 1903,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/light-invisible",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Isbister, 1903)",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/58433",
+      "edition": "The Light Invisible (London: Isbister, 1903), Project Gutenberg #58433, proofread.",
+      "description": " Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1903, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "The Green Robe"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "The Watcher"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "The Blood-Eagle"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Over the Gateway"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Poena Damni"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "“Consolatrix Afflictorum”"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "The Bridge over the Stream"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "In the Convent Chapel"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Under Which King?"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "With Dyed Garments"
+      }
+    },
+    {
+      "id": "chapter-11",
+      "title": {
+        "en-US": "Unto Babes"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "The Traveller"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "The Sorrows of the World"
+      }
+    },
+    {
+      "id": "chapter-14",
+      "title": {
+        "en-US": "In the Morning"
+      }
+    },
+    {
+      "id": "chapter-15",
+      "title": {
+        "en-US": "The Expected Guest"
+      }
+    }
+  ]
+}

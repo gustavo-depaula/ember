@@ -1,0 +1,83 @@
+{
+ "id": "benson-light-invisible",
+ "dir": "benson-opera-omnia/light-invisible",
+ "slug": "light-invisible",
+ "name": "The Light Invisible",
+ "name_pt": "A Luz Invisível",
+ "desc": "Benson's first book of fiction (1903), written while still an Anglican: a priest recounts the stories told to him by an old friend, a hermit-priest gifted with spiritual sight, of apparitions, conscience and the unseen Presence behind the world.",
+ "desc_pt": "O primeiro livro de ficção de Benson (1903), escrito quando ainda era anglicano: um padre narra as histórias que lhe contou um velho amigo, sacerdote eremita dotado de visão espiritual, sobre aparições, consciência e a Presença invisível por trás do mundo.",
+ "composed": 1903,
+ "editor": "Robert Hugh Benson (London: Isbister, 1903)",
+ "year": 1903,
+ "url": "https://www.gutenberg.org/ebooks/58433",
+ "edition": "The Light Invisible (London: Isbister, 1903), Project Gutenberg #58433, proofread.",
+ "src": "robert-hugh-benson/pg/pg58433.txt",
+ "manual": [
+  [
+   222,
+   "The Green Robe"
+  ],
+  [
+   422,
+   "The Watcher"
+  ],
+  [
+   628,
+   "The Blood-Eagle"
+  ],
+  [
+   946,
+   "Over the Gateway"
+  ],
+  [
+   1191,
+   "Poena Damni"
+  ],
+  [
+   1382,
+   "“Consolatrix Afflictorum”"
+  ],
+  [
+   1668,
+   "The Bridge over the Stream"
+  ],
+  [
+   1862,
+   "In the Convent Chapel"
+  ],
+  [
+   2200,
+   "Under Which King?"
+  ],
+  [
+   2471,
+   "With Dyed Garments"
+  ],
+  [
+   2710,
+   "Unto Babes"
+  ],
+  [
+   3049,
+   "The Traveller"
+  ],
+  [
+   3420,
+   "The Sorrows of the World"
+  ],
+  [
+   3816,
+   "In the Morning"
+  ],
+  [
+   4049,
+   "The Expected Guest"
+  ]
+ ],
+ "start": 140,
+ "end": 4223,
+ "label": "",
+ "mode": "pg",
+ "dropfull": "(?i)(The\\ Green\\ Robe|The\\ Watcher|The\\ Blood\\-Eagle|Over\\ the\\ Gateway|Poena\\ Damni|“Consolatrix\\ Afflictorum”|The\\ Bridge\\ over\\ the\\ Stream|In\\ the\\ Convent\\ Chapel|Under\\ Which\\ King\\?|With\\ Dyed\\ Garments|Unto\\ Babes|The\\ Traveller|The\\ Sorrows\\ of\\ the\\ World|In\\ the\\ Morning|The\\ Expected\\ Guest)",
+ "died": 1914
+}
