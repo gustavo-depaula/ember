@@ -1,0 +1,196 @@
+{
+  "id": "anselm-responsio-ad-gaunilonem",
+  "cover": "classic",
+  "name": {
+    "la": "Pro insipiente et Responsio ad Gaunilonem",
+    "en-US": "Gaunilo’s In Behalf of the Fool and Anselm’s Reply",
+    "pt-BR": "Gaunilo, Em favor do insensato, e a Resposta de Anselmo"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Gaunilonis monachi Maioris Monasterii Liber pro insipiente adversus Proslogion, et Anselmi Liber apologeticus contra Gaunilonem: disputatio de argumento «id quo maius cogitari nequit». Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "The exchange on the argument of the Proslogion: the monk Gaunilo’s “In Behalf of the Fool” in eight sections (the lost-island objection) and Anselm’s reply in ten chapters. The Latin is the Migne text (Patrologia Latina 158, 1853): Anselm’s reply from a machine-corrected OCR, Gaunilo from Latin Wikisource; the English is Sidney Norton Deane’s 1903 translation, which follows the Latin section for section.",
+    "pt-BR": "A troca de argumentos sobre o Proslógio: o «Em favor do insensato» do monge Gaunilo, em oito partes (a objeção da ilha perdida), e a resposta de Anselmo, em dez capítulos."
+  },
+  "composed": "c. 1078",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "anselm/responsio-ad-gaunilonem",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    },
+    "en-US": {
+      "translator": "Sidney Norton Deane",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10624",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10624, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Liber_pro_insipiente",
+      "edition": "Gaunilo, Liber pro insipiente adversus S. Anselmi in Proslogio ratiocinationem, as printed in Migne, Patrologia Latina 158 (cols 241-248), from Latin Wikisource.",
+      "description": "Gaunilo’s eight sections, with the PL column markers dropped.",
+      "tier": "A",
+      "tierEvidence": "Gaunilo wrote in the eleventh century; Migne’s 1853 printing is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/anselm/basic_works/cache/basic_works.txt",
+      "edition": "St. Anselm: Proslogium; Monologium; an Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo, translated from the Latin by Sidney Norton Deane (Chicago: Open Court, 1903). Christian Classics Ethereal Library plain-text edition.",
+      "description": "Gaunilon’s “In Behalf of the Fool” and Anselm’s Apologetic (Deane’s introduction and notes are not imported). Chapter titles are Deane’s chapter summaries; translator’s notes are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Published in Chicago in 1903, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g1",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, I",
+        "en-US": "Gaunilo, In Behalf of the Fool, I"
+      }
+    },
+    {
+      "id": "g2",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, II",
+        "en-US": "Gaunilo, In Behalf of the Fool, II"
+      }
+    },
+    {
+      "id": "g3",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, III",
+        "en-US": "Gaunilo, In Behalf of the Fool, III"
+      }
+    },
+    {
+      "id": "g4",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, IV",
+        "en-US": "Gaunilo, In Behalf of the Fool, IV"
+      }
+    },
+    {
+      "id": "g5",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, V",
+        "en-US": "Gaunilo, In Behalf of the Fool, V"
+      }
+    },
+    {
+      "id": "g6",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, VI",
+        "en-US": "Gaunilo, In Behalf of the Fool, VI"
+      }
+    },
+    {
+      "id": "g7",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, VII",
+        "en-US": "Gaunilo, In Behalf of the Fool, VII"
+      }
+    },
+    {
+      "id": "g8",
+      "title": {
+        "la": "Gaunilonis Pro insipiente, VIII",
+        "en-US": "Gaunilo, In Behalf of the Fool, VIII"
+      }
+    },
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Generatim refellitur adversarii ratiocinatio; et ostenditur id quo majus cogitari non potest, esse reipsa",
+        "en-US": "Chapter I. A general refutation of Gaunilon's argument. It is shown that a being than which a greater cannot be conceived exists in reality"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Magis urgetur ratiocinatio praeposita; et ostenditur id quo majus cogitari nequit, cogitari posse, atque adeo etiam esse",
+        "en-US": "Chapter II. The argument is continued. It is shown that a being than which a greater is inconceivable can be conceived, and also, in so far, exists"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Ad instantiam adversarii: quod sequeretur insulam fictitiam esse reipsa, quia cogitatur",
+        "en-US": "Chapter III. A criticism of Gaunilon's example, in which he tries to show that in this way the real existence of a lost island might be inferred from the fact of its being conceived"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Differentia inter posse cogitari, et intelligi non esse",
+        "en-US": "Chapter IV. The difference between the possibility of conceiving of non-existence, and understanding non-existence"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Specialis discussio variorum adversarii dictorum: ac primum quod initio infideliter retulerit ratiocinationem, quam refellendam suscepit",
+        "en-US": "Chapter V. A particular discussion of certain statements of Gaunilon's. In the first place, he misquoted the argument which he undertook to refute"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Discutitur dictum adversarii in num. 2, quaelibet falsa similiter possent intelligi, atque adeo essent",
+        "en-US": "Chapter VI. A discussion of Gaunilon's argument in his second chapter: that any unreal beings can be understood in the same way, and would, to that extent, exist"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Contra dictum aliud adversarii ibidem: nempe quod summum magnum aeque possit concipi non esse; ac Deus ab insipiente concipitur",
+        "en-US": "Chapter VII. In answer to another objection: that the supremely great being may be conceived not to exist, just as by the fool God is conceived not to exist"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Comparatio picturae num. 3 proposita examinatur. Et unde conjici queat summum magnum, de quo adversarius num. 4 quaesierat",
+        "en-US": "Chapter VIII. The example of the picture, treated in Gaunilon's third chapter, is examined.--From what source a notion may be formed of the supremely great being, of which Gaunilon inquired in his fourth chapter"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Summum magnum cogitari et intelligi posse: et roboratur ratio contra insipientem facta",
+        "en-US": "Chapter IX. The possibility of understanding and conceiving of the supremely great being. The argument advanced against the fool is confirmed"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Firmitas rationis praedictae, et libelli clausula",
+        "en-US": "Chapter X. The certainty of the foregoing argument.--The conclusion of the book"
+      }
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Liber apologeticus contra Gaunilonem</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.LiApCoG</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Liber apologeticus contra Gaunilonem</head>
+
+<p> <emph>37</emph> Quoniam non me reprehendit in his dictis
+ille insipiens, contra quem sum locutus in meo
+opusculo; sed quidam non insipiens, et catholicus,
+pro insipiente, sufficere mihi potest respondere
+catholico.
+<pb n="0249A"/>
+        </p>
+
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<p> <hi>Generatim refellitur adversarii ratiocinatio; et ostenditur
+id quo majus cogitari non potest, esse reipsa</hi>.</p>
+<p>Dicis quidem (quicunque es qui dicis haec
+posse dicere insipientem) quia non est in intellectu
+aliquid, quo majus cogitari non possit, aliter
+quam quod secundum veritatem cujusque rei
+nequit saltem cogitari: et quia non magis consequitur
+ hoc, quod dico, quo majus cogitari non
+possit, ex eo quia est in intellectu, esse et in re,
+quam perditam insulam certissime existere ex
+eo quia cum describitur verbis, audiens eam non
+ambigit in intellectu suo esse. Ego vero dico: Si,
+quo majus cogitari non potest, non intelligitur, vel
+cogitatur, nec est in intellectu vel cogitatione; profecto
+<pb n="0249B"/>
+Deus aut non est quo majus cogitari non possit,
+aut non intelligitur vel cogitatur, et non est
+in intellectu vel cogitatione. Quod quam falsum sit,
+fide et conscientia tua pro firmissimo utor argumento.
+Ergo quo majus cogitari non potest, vere
+intelligitur et cogitatur, et est in intellectu et cogitatione.
+Quare, aut vera non sunt quibus contra
+conaris probare, aut ex eis non consequitur
+quod te consequenter opinaris concludere. Quod
+autem putas ex eo, quid intelligitur aliquid quo
+majus cogitari nequit, non consequi illud esse in
+intellectu; nec si est in intellectu, ideo esse in re:
+certe ego dico: si vel cogitari potest esse, necesse
+est illud esse. Nam quo majus cogitari
+nequit, non potest cogitari esse, nisi sine initio.
+<pb n="0249C"/>
+Quidquid autem potest cogitari esse, et non est:
+per initium potest cogitari esse. Non ergo quo majus
+cogitari nequit, cogitari potest esse, et non
+est. Si ergo potest cogitari esse, ex necessitate
+ est. Amplius. Si utique vel cogitari potest,
+neccsse est illud esse. Nullus enim negans aut dubitans
+esse aliquid, quo majus cogitari non possit,
+negat vel dubitat quia si esset, nec actu nec intellectu
+posset non esse. Aliter namque non esset
+<pb n="0250A"/>
+quo majus cogitari non posset; sed quidquid
+cogitari potest, et non est; si esset, posset, vel
+actu vel intellectu non esse. Quare si vel cogitari
+potest, non potest non esse quo majus cogitari
+nequit. Sed ponamus non esse, si vel cogitari
+valet: at quidquid cogitari potest, et non est;
+si esset, non esset quo majus cogitari non possit. Si
+ergo esset quo majus cogitari non possit, non esset
+quo majus cogitari non possit: quo [quod] nimis
+est absurdum. Falsum est igitur non esse aliquid,
+quo majus eogitari non possit si vel cogitari
+potest: multo itaque magis, si intelligi aut in
+intellectu esse potest. Plus aliquid dicam: procul
+dubio quidquid alicubi aut aliquando non est,
+etiamsi est alicubi aut aliquando; potest tamen
+<pb n="0250B"/>
+ cogitari nunquam et nusquam esse,
+sicut non est alicubi aut aliquando. Nam quod heri
+non fuit, et hodie est: sicut heri non fuisse intelligitur;
+ita nunquam esse subintelligi potest: et quod
+hic non est, et alibi est, sicut non est hic, ita
+potest cogitari nusquam esse. Similiter cujus partes
+singulae non sunt ubi aut quando sunt aliae partes
+ejus; omnes partes, et ideo ipsum totum, possunt
+cogitari nunquam aut nusquam esse. Nam etsi dicatur
+tempus semper esse, et mundus ubique;
+non tamen illud totum semper, aut iste totus est
+ubique: et sicut singulae partes temporis non
+sunt, quando aliae sunt; ita possunt nunquam esse
+cogitari; et singulae mundi partes, sicut non
+sunt ubi aliae sunt; ita subintelligi possunt nusquam
+<pb n="0250C"/>
+esse: sed et quod partibus conjunctum est,
+cogitatione dissolvi, et non esse potest. Quare quidquid
+alicubi aut aliquando totum non est, etiamsi
+est, potest cogitari non esse: at quo majus cogitari
+nequit, si est, non potest cogitari non
+esse, alioquin si est, non est quo majus cogitari
+non potest: quod non convenit. Nullatenus ergo
+alicubi, aut aliquando totum non est; sed semper
+et ubique totum est. Putasne aliquatenus
+<pb n="0251A"/>
+posse cogitari vel intelligi, aut esse in cogitatione
+vel intellectu, de quo haec intelliguntur? Si enim
+non potest, non possunt haec intelligi de eo.
+Quod si dicis non intelligi et non esse in intellectu,
+quod non penitus intelligitur; dic quia qui
+non potest intueri purissimam lucem solis, non videt
+lucem diei, quae non est nisi lux solis. Certe vel
+hactenus intelligitur, et est in intellectu, quo
+majus cogitari nequit; ut haec de eo intelligantur.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Magis urgetur ratiocinatio praeposita; et ostenditur
+id quo majus cogitari nequit, cogitari posse, atque
+adeo etiam esse</hi>.</p>
+<p>Dixi itaque in argumentatione, quam reprehendis,
+quia cum insipiens audit proferri, quo majus
+<pb n="0251B"/>
+cogitari non potest, intelligit quod audit. Utique
+qui non intelligit, si nota lingua dicitur, aut nullum,
+aut nimis obtusum habet intellectum.
+Deinde <emph>38</emph> dixi quia si intelligitur, est in intellectu.
+An est in nullo intellectu, quod necessario
+in rei veritate esse monstratum est?
+Sed dices quia etsi est in intellectu, non
+tamen consequenter quia intelligitur. Vide
+quia consequitur esse in intellectu, ex eo quia
+intelligitur. Sicut enim quod cogitatur, cogitatione
+cogitatur; et quod cogitatione cogitatur, sicut
+cogitatur, sic est in cogitatione; ita quod intelligitur,
+intellectu intelligitur: et quod intellectu intelligitur,
+sicut intelligitur, sic est in intellectu.
+<pb n="0251C"/>
+Quid hoc planius? Postea dixi quia, si est vel in solo
+intellectu, potest cogitari esse et in re; quod majus
+ est. Si ergo in intellectu solo est, idipsum
+scilicet quo majus non potest cogitari, est quo majus
+cogitari potest: rogo quid consequentius? An enim
+si est vel in solo intellectu, non potest cogitari
+esse et in re? Aut si potest, nonne qui hoc cogitat,
+aliquid cogitat majus eo; si est in solo
+<pb n="0252A"/>
+intellectu? Quid ergo consequentius, quam si quo
+majus cogitari nequit, est in solo intellectu; idem
+esse quo majus cogitari possit? Sed utique, quo
+majus cogitari potest, in nullo intellectu est quo
+majus cogitari non possit. An ergo non consequitur,
+quo majus cogitari nequit, si est in ullo
+intellectu, non esse in solo intellectu? Si enim
+est in solo intellectu, est quo majus cogitari potest:
+quod non convenit.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Ad instantiam adversarii: quod sequeretur insulam
+fictitiam esse reipsa, quia cogitatur</hi>.</p>
+<p>Sed tale est, inquis, ac si aliquis insulam
+Oceani, omnes terras sua fertilitate vincentem, quae
+difficultate, imo impossibilitate inveniendi quod non
+<pb n="0252B"/>
+est, perdita nominatur, dicat idcirco non posse dubitari
+vere esse in re, quia verbis descriptam facile
+quis intelligit. Fidens loquor; quia si quis
+invenerit mihi aliquid aut reipsa, aut sola cogitatione
+existens, praeter quo majus cogitari non
+possit, cui aptare valeat connexionem hujus
+meae argumentationis, inveniam, et dabo illi perditam
+insulam amplius non perdendam. Palam autem
+jam videtur quo non valet cogitari majus, non posse
+cogitari non esse, quod tam certa ratione veritatis
+existit; aliter enim nullatenus existeret. Denique si
+quis dicit se cogitare illud non esse: dico quod tum
+cum hoc cogitat aut cogitat aliquid, quo
+majus cogitari non possit, aut non cogitat. Si non
+cogitat, non cogitat non esse quod non cogitat.
+<pb n="0252C"/>
+Si vero cogitat, utique cogitat aliquid, quod nec
+cogitari possit non esse. Si enim posset cogitari
+non esse, cogitari posset habere principium et finem;
+sed hoc non potest. Qui ergo illud cogitat,
+aliquid cogitat quod nec cogitari possit non esse;
+hoc vero qui cogitat, non cogitat idipsum non
+esse; alioquin cogitat quod cogitari non potest.
+<pb n="0253A"/>
+Non igitur potest cogitari non esse quo majus nequit
+cogitari.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Differentia inter posse cogitari, et intelligi non esse</hi>.</p>
+<p>Quod autem dicis: quia cum dicitur quod summa
+res ista non esse nequeat cogitari, melius fortasse
+diceretur quod non esse, aut etiam posse
+non esse, non possit intelligi; potius dicendum fuit,
+non possit cogitari. Si enim dixissem rem ipsam
+non posse intelligi non esse, fortasse tu ipse, qui
+dicis quia secundum proprietatem verbi istius falsa
+nequeunt intelligi, objiceres nihil, quod est,
+posse intelligi non esse, falsum est enim non
+esse quod est: quare non esset proprium Deo,
+non posse intelligi non esse. Quod sic aliquid
+<pb n="0253B"/>
+eorum, quae certissime sunt, potest intelligi non
+esse similiter et alia certa posse intelligi non
+esse. Sed hoc utique non potest objici de
+cogitatione, si bene consideretur. Nam etsi nulla
+quae sunt, possunt intelligi non esse; omnia
+tamen possunt cogitari non esse, praeter id
+quod summe est. Illa quippe omnia et sola possunt
+cogitari non esse, quae initium, aut finem, aut partium
+habent conjunctionem, et, sicut jam dixi, quidquid
+alicubi aut aliquando totum non est; illud vero
+solum non potest cogitari non esse, in quo nec
+initium, nec finem, nec partium conjunctionem, et
+quod nonnisi semper et ubique totum ulla invenit
+cogitatio. Scito igitur quia potes cogitare te non
+esse, quandiu esse certissime scis: quod te miror
+<pb n="0253C"/>
+dixisse nescire. Multa namque cogitamus
+non esse, quae scimus esse; et multa esse, quae non
+esse scimus: non existimando, sed fingendo
+ita esse ut cogitamus. Et quidem possumus cogitare
+aliquid non esse, quandiu scimus esse, quia
+<pb n="0254A"/>
+simul et illud possumus, et istud scimus; et non
+possumus cogitare non esse quandiu scimus esse;
+quia non possumus cogitare esse simul, et non
+esse. Si quis igitur sic distinguat hujus prolationis
+has duas sententias: intelliget nihil,
+quandiu esse scitur, posse cogitari non esse; et
+quidquid est, praeter id quo majus cogitari nequit,
+etiam cum scitur esse, posse cogitari non esse. Sic
+igitur et proprium est Deo, non posse cogitari
+non esse; et, tamen multa non possunt cogitari.
+quandiu sunt, non esse. Quomodo autem dicatur
+cogitari Deus non esse, in ipso libello puto sufficienter
+esse dictum.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Specialis discussio variorum adversarii dictorum: ac
+<pb n="0254B"/>
+primum quod initio infideliter retulerit ratiocinationem,
+quam refellendam suscepit</hi>.</p>
+<p>Qualia vero sint et alia quae mihi objicis pro insipiente
+facile est deprehendere vel parum sapienti;
+et ideo id ostendere supersedendum existimaveram.
+Sed quoniam audio quibusdam ea legentibus aliquid
+contra me valere videri, paucis de illis commemorabo.
+Primum, quod saepe repetis me dicere quia
+quod est majus omnibus, est in intellectu; et si
+est in intellectu, est et in re: aliter enim omnibus
+majus non esset omnibus majus. Nusquam in
+omnibus dictis meis invenitur talis probatio. Non
+enim idem valet, quod dicitur; majus omnibus,
+et, quo majus cogitari nequit, ad probandum
+quia est in re quod dicitur. Si quis enim dicat quo
+<pb n="0254C"/>
+majus cogitari non possit, non esse aliquid in
+re, aut posse non esse, aut vel non esse posse cogitari,
+facile refelli potest. Nam quod non est, potest
+non esse; et quod non esse potest, cogitari potest
+non esse. Quidquid autem cogitari potest non
+<pb n="0255A"/>
+esse; si est, non est quo majus cogitari non possit:
+quod si non est, utique si esset, non esset quo majus
+non possit cogitari. Sed dici non potest; quia
+quo majus non possit cogitari, si est, non est
+quo majus cogitari non possit; aut si esset, non
+esset quo non possit cogitari majus. Patet ergo
+quia nec non est, nec potest non esse, aut cogitari
+non esse. Aliter enim, si est, non est quod dicitur;
+et si esset, non esset. Hoc autem non tam
+facile probari posse videtur de eo quod majus
+omnibus dicitur. Non enim ita patet quia quod non
+esse cogitari potest, non est majus omnibus quae
+sunt; sicut quia non est quo majus cogitari non possit:
+nec sic est indubitabile quia, si est aliquid
+ majus omnibus, non est aliud quam quo
+<pb n="0255B"/>
+majus non possit cogitari; aut si esset, non esset
+similiter aliud: quomodo certum est de eo quod
+dicitur, quo majus cogitari nequit. Quid enim:
+si quis dicat esse aliquid majus omnibus quae
+sunt, et idipsum tamen posse cogitari non esse; et
+aliquid majus eo, etiamsi non sit posse tamen
+cogitari: an hic sic aperte inferri potest, non
+est ergo <emph>39</emph> majus omnibus quae sunt, sicut ibi
+apertissime diceretur; ergo non est quo majus
+cogitari nequit? Illud namque alio indiget argumento,
+quam hoc quod dicitur, <hi>omnibus majus</hi>. In
+isto vero non est opus alio, quam hoc ipso quod sonat,
+ <hi>quo majus cogitari non possit</hi>. Ergo si non
+similiter potest probari de eo quod majus omnibus
+dicitur, quod de se per seipsum probat quo majus
+<pb n="0255C"/>
+nequit cogitari, injuste me reprehendisti dixisse quod
+non dixi, cum tantum differat ab eo quod dixi. Si
+vero vel aliud argumentum potest: nec sic
+me debuisti reprehendere dixisse quod probari potest.
+Utrum autem possit, facile perpendit, qui
+hoc posse, quo majus cogitari nequit, cognoscit:
+nullatenus enim potest intelligi quo magis cogitari
+non possit; nisi id quod solum omnibus est majus.
+<pb n="0256A"/>
+Sicut ergo quo majus cogitari nequit intelligitur,
+et est in intellectu; et ideo esse in rei veritate
+asseritur: sic quod majus dicitur omnibus intelligi,
+et esse in intellectu; et idcirco reipsa esse
+ex necessitate concluditur. Vides ergo quam recte
+me comparasti stulto illi, qui hoc solo quod descripta
+intelligeretur, perditam insulam esse vellet
+asserere.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>Discutitur dictum adversarii in num</hi>. 2, <hi>quaelibet falsa
+similiter possent intelligi, atque adeo essent</hi>.</p>
+<p>Quod autem objicis, quaelibet falsa vel dubia similiter
+posse intelligi, et esse in intellectu: quemadmodum
+illud, quod dicebam. Miror quid hic sensisti
+contra me, dubium probare volentem; cui
+<pb n="0256B"/>
+primum hoc satis erat, ut quolibet modo illud intelligi
+et esse in intellectu ostenderem: quatenus
+consequenter consideraretur utrum esset
+ in solo intellectu, velut falsa; an et in re, ut
+ vera. Nam si falsa et dubia hoc modo intelliguntur,
+et sunt in intellectu; quia, cum dicuntur,
+audiens intelligit quid dicens significet: nihil prohibet
+quod dixi intelligi, et esse in intellectu. Quomodo
+autem sibi conveniant quod dicis quia falsa
+dicente aliquo, quaecunque ille diceret, intelligeres:
+et quia illud quod est non eo modo quo etiam
+falsa habentur in cogitatione, non diceris auditum
+cogitare, aut in cogitatione habere; quia scilicet,
+non possis hoc aliter cogitare, nisi intelligendo,
+id est, scientia comprehendendo reipsa illud existere?
+<pb n="0256C"/>
+Quomodo, inquam, conveniant, et falsa intelligi;
+et intelligere esse scientia comprehendere
+existere aliquid: nihil ad me, tu videris. Quod
+si et falsa aliquo modo intelliguntur; et non omnis,
+sed cujusdam intellectus est haec deffinitio: Non
+debui reprehendi, quia dixi quo majus cogitari non
+possit intelligi, et in intellectu esse; etiam antequam
+certum esset reipsa illud existere.
+<pb n="0257A"/>
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Contra dictum aliud adversarii ibidem: nempe quod
+summum magnum aeque possit concipi non esse; ac
+Deus ab insipiente concipitur</hi>.</p>
+<p>Deinde quod dicis vix unquam posse esse credibile,
+cum dictum et auditum fuerit, istud non
+eo modo posse cogitari non esse, quo etiam potest
+ cogitari non esse Deus. Respondeant pro me, qui
+vel parvam scientiam disputandi argumentandique
+attigerunt. An enim rationabile est, ut idcirco neget
+aliquis quod intelligit; quia esse dicitur id quod ideo
+negat, quia non intelligit? Aut si aliquando
+negatur, quod aliquatenus intelligitur, et idem est
+illi, quod nulla tenus intelligitur; nonne facilius probatur
+quod dubium est, de illo quod in aliquo, quam
+de eo quod in nullo est intellectu? Quare nec credibile
+<pb n="0257B"/>
+potest esse, idcirco quemlibet negare quo majus
+cogitari nequit, quod auditum aliquatenus intelligit;
+quia negat Deum, cujus sensum nullo modo
+cogitat. Aut si et aliud, quia non omnino intelligitur,
+negatur, nonne tamen facilius id quod
+aliquo modo, quam id quod nullo modo intelligitur,
+probatur? Non ergo irrationabiliter contra insipientem,
+ad probandum Deum esse, attulit, quo majus
+cogitari non possit; cum illud nullo modo, istud
+aliquo modo intelligeret.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Comparatio picturae num</hi>. 3 <hi>proposita examinatur. Et
+unde conjici queat summum magnum, de quo
+adversarius num</hi>. 4 <hi>quaesierat</hi>.</p>
+<p>Quod vero tam studiose probas, quo majus cogitari
+<pb n="0257C"/>
+nequit, non tale esse; qualis nondum facta
+pictura in intellectu pictoris, sine causa fit. Non enim
+ad hoc protuli picturam praecogitatam, ut tale illud,
+de quo agebatur, vellem asserere; sed tantum, ut
+aliquid esse in intellectu, quod non esse intelligeretur,
+possem ostendere. Item, quod dicis:
+quo majus cogitari nequit, secundum rem vel ex
+genere tibi vel ex specie notam, te cogitare auditum,
+vel in intellectu habere non posse; quoniam nec
+ipsam rem nosti, nec eam ex alia simili potes
+<pb n="0258A"/>
+cognoscere; palam est rem aliter sese habere.
+Quoniam namque omne minus bonum in tantum est
+simile majori bono, in quantum est bonum; patet
+cuilibet rationali menti quia de minoribus bonis
+ad majora conscendendo, ex his, quibus
+aliquid cogitari potest majus, multum possumus
+conjicere illud, quo nihil potest majus
+cogitari. Quis enim, verbi gratia, vel hoc cogitare
+non potest, etiam si non credat in re esse quod
+cogitat, scilicet, si bonum est aliquid, quod
+initium et finem habet; multo melius esse bonum,
+quod, licet incipiat, non tamen desinit: et sicut istud
+illo melius est, ita isto esse melius illud, quod
+nec finem habet nec initium, etiamsi semper de praeterito
+per praesens transeat ad futurum: et sive
+<pb n="0258B"/>
+sit in re aliquid hujusmodi, sive non sit; valde
+tamen eo melius esse id, quod nullo modo indiget
+vel cogitur mutari, vel moveri: an hoc cogitari
+non potest; aut aliquid hoc majus cogitari potest,
+aut non est hoc ex iis, quibus majus cogitari valet,
+conjicere id quo majus cogitari nequit? Est
+igitur unde possit conjici, quo majus cogitari nequeat.
+Sic itaque facile refelli potest insipiens, qui sacram
+auctoritatem non recipit; si negat, quo majus cogitari
+non valet, ex aliis rebus conjici posse.
+At si quis Catholicus hoc neget, meminerit quia <hi>invisibilia Dei a creatura mundi, per ea quae facta
+sunt, intellecta conspiciuntur; sempiterna quoque
+ejus virtus et divinitas 
+ <note>(Rom. I, 20)</note>
+            </hi>.
+<pb n="0258C"/>
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Summum magnum cogitari et intelligi posse: et roboratur
+ratio contra insipientem facta</hi>.</p>
+<p>Sed etsi verum esset non posse cogitari vel
+intelligi illud, <hi>quo majus nequit cogitari;</hi> non
+tamen falsum esset quo majus cogitari nequit,
+cogitari posse et intelligi. Sicut enim nihil
+prohibet dici, <hi>ineffabile;</hi> licet illud dici non possit,
+quod ineffabile dicitur; et quemadmodum cogitari
+potest <hi>non cogitabile</hi>, quamvis illud cogitari non
+possit, cui convenit non cogitabile dici: ita
+<pb n="0259A"/>
+cum dicitur, <hi>quo nihil majus valet cogitari</hi>; procul
+dubio quod auditur, cogitari et intelligi potest,
+etiamsi res illa cogitari non valeat aut intelligi, qua
+majus cogitari nequit. Nam etsi quisquam est
+tam insipiens, ut dicat non esse aliquid quo
+majus non possit cogitari, non tamen ita erit impudens,
+ut dicat se non posse intelligere aut
+cogitare quid dicat: <emph>40</emph> aut si quis talis invenitur,
+non modo sermo ejus est respuendus, sed et
+ipse conspuendus. Quisquis igitur negat aliquid esse,
+quo majus nequeat cogitari; utique intelligit et cogitat
+negationem, quam facit: quam negationem
+intelligere aut cogitare non potest sine partibus ejus:
+pars autem ejus est, <hi>quo majus cogitari non potest</hi>.
+Quicunque igitur hoc negat; intelligit et cogitat, quo
+<pb n="0259B"/>
+majus cogitari nequit. Palam autem est quia similiter
+potest cogitari et intelligi, quod non potest non
+esse; majus vero cogitat qui hoc cogitat, quam
+qui cogitat quod possit non esse. Cum ergo cogitatur,
+quo majus non possit cogitari, si cogitatur
+quod possit non esse, non cogitatur quo non
+possit cogitari majus; sed nequit idem simul cogitari,
+et non cogitari. Quare qui cogitat quo
+majus non possit cogitari, non cogitat quod possit,
+sed quod non possit non esse. Quapropter necesse
+est esse quod cogitat; quia quidquid non esse potest,
+non est quod cogitat.
+<pb n="0260A"/>
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Firmitas rationis praedictae, et libelli clausula</hi>.</p>
+<p>Puto quia monstravi me non infirma, sed satis
+necessaria argumentatione probasse in praefato
+libello, reipsa existere aliquid, quo majus cogitari
+ non possit; nec eam alicujus objectionis infirmari
+firmitate. Tantam enim vim hujus probationis
+ in se continet significatio; ut hoc ipsum
+quod dicitur, ex necessitate, eo ipso quod intelligitur
+vel cogitatur, et revera probetur existere, et
+idipsum esse quidquid de divina substantia oportet
+credere. Credimus namque de divina substantia,
+quidquid absolute cogitari potest melius esse
+quam esse. Verbi gratia: melius est esse aeternum,
+<pb n="0260B"/>
+quam non aeternum; bonum, quam non bonum;
+imo bonitatem ipsam, quam non bonitatem ipsam.
+Nihil autem hujusmodi non esse potest, quo
+majus aliquid cogitari non potest. Necesse igitur est,
+quo majus cogitari non potest, esse quidquid de
+divina essentia credi oportet. Gratias ago benignitati
+ tuae et in reprehensione, et in laude opusculi
+mei. Cum enim ea, quae tibi digna susceptione
+videntur, tanta laude extulisti, satis apparet, quia
+quae tibi infirma visa sunt, benevolentia, non malevolentia,
+reprehendisti.
+
+</p>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
