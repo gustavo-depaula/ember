@@ -1,0 +1,66 @@
+{
+  "id": "eudes-avertissements-confesseurs",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Avertissements aux confesseurs missionnaires",
+    "en-US": "Warnings to Missionary Confessors",
+    "pt-BR": "Avisos aos confessores missionários"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Des avis pour les confesseurs des missions, en deux parties.",
+    "en-US": "Counsels for the confessors of missions, in two parts.",
+    "pt-BR": "Avisos para os confessores das missões, em duas partes."
+  },
+  "composed": 1644,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/avertissements-aux-confesseurs",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_4)_000000349.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 4, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avert-01",
+      "title": {
+        "fr-FR": "Avertissements: Avertissements aux confesseurs missionnaires"
+      }
+    },
+    {
+      "id": "avert-02",
+      "title": {
+        "fr-FR": "Introduction (1)"
+      }
+    },
+    {
+      "id": "avert-03",
+      "title": {
+        "fr-FR": "Introduction (2): Il faut bien considérer s'ils y sont tenus, et ne les y obliger pas,"
+      }
+    },
+    {
+      "id": "avert-04",
+      "title": {
+        "fr-FR": "Deuxième partie: Ce qu'il faut faire avant l'examen"
+      }
+    }
+  ]
+}
