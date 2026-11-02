@@ -1,0 +1,208 @@
+{
+  "id": "suso-horologium-sapientiae",
+  "cover": "classic",
+  "name": {
+    "la": "Horologium sapientiae",
+    "en-US": "The Clock of Wisdom (Horologium Sapientiae)",
+    "pt-BR": "O Relógio da Sabedoria"
+  },
+  "author": {
+    "la": "Henricus Suso (c. 1295-1366)",
+    "en-US": "Bl. Henry Suso (c. 1295-1366)",
+    "pt-BR": "Bem-aventurado Henrique Suso (c. 1295-1366)"
+  },
+  "description": {
+    "la": "Horologium sapientiae, a Susone Latine conscriptum: libri duo de Passione Christi, de vita et morte, dialogus Discipuli cum aeterna Sapientia. Editio saeculi XX, cum notis.",
+    "en-US": "Suso's own Latin expansion of his Little Book of Eternal Wisdom, written about 1334, in two books: the Passion and the love of Wisdom, then life, death and the praise of God. Twentieth-century critical edition with the editor's footnotes (scriptural and patristic references).",
+    "pt-BR": "A versão latina ampliada, escrita pelo próprio Suso por volta de 1334, do Livrinho da Sabedoria Eterna, em dois livros sobre a Paixão e o amor da Sabedoria, e sobre a vida, a morte e o louvor de Deus."
+  },
+  "composed": "c. 1334",
+  "languages": [
+    "la"
+  ],
+  "work": "suso/horologium-sapientiae",
+  "editions": {
+    "la": {
+      "editor": "Unnamed 20th-century editor (Horologium Sapientiae, ed. of 1929)",
+      "year": 1929
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/horologiumsapien0000henr",
+      "edition": "Horologium Sapientiae (archive.org scan, ed. 1929 after Strange 1861).",
+      "description": "OCR of the archive.org scan with marginal line marks stripped (research/sourcing/_scripts/suso_la.py); editor's page-foot notes turned into footnotes where the marker was legible. Editor's Latin preface not included. Not proofread.",
+      "tier": "A",
+      "tierEvidence": "Latin text of Suso (d. 1366) in an early twentieth-century edition."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "liber-1",
+      "title": {
+        "la": "Liber primus"
+      },
+      "children": [
+        {
+          "id": "l1-c01",
+          "title": {
+            "la": "1. Qualiter quidam electi et divina gratia praeventi ad Deum mirabiliter trahuntur, et specialiter quomodo quidam iuvenis fuit tractus"
+          }
+        },
+        {
+          "id": "l1-c02",
+          "title": {
+            "la": "2. Quomodo Christi passio sit praeambula ad cognitionem divinitatis, et qualem formam Christus contraxerit ex acerbitate suae passionis"
+          }
+        },
+        {
+          "id": "l1-c03",
+          "title": {
+            "la": "3. De quibusdam Christi passionibus, et qualiter verus amator se eisdem debet conformare, et quare Deus per talem mortem voluit genus humanum redimere. |"
+          }
+        },
+        {
+          "id": "l1-c04",
+          "title": {
+            "la": "4. Qualiter anima, quae sponsum per peccatum perdiderat, ipsum sub cruce per fervidam poenitentiam invenit, Christi passione adiuta"
+          }
+        },
+        {
+          "id": "l1-c05",
+          "title": {
+            "la": "5. Planctus super exstincto fervore devotionis in diversis personis utriusque sexus moderni temporis, quos Christus per suam passionem revocat ad verum amorem"
+          }
+        },
+        {
+          "id": "l1-c06",
+          "title": {
+            "la": "6. Qualis sit divina sponsa, aeterna Sapientia, et de qualitate amoris ipsius"
+          }
+        },
+        {
+          "id": "l1-c07",
+          "title": {
+            "la": "7. Quod divina Sapientia amabilis sit pariter et terribilis"
+          }
+        },
+        {
+          "id": "l1-c08",
+          "title": {
+            "la": "8. De vicissitudine visitationis divinae, et qualiter anima debet se tunc tenere"
+          }
+        },
+        {
+          "id": "l1-c09",
+          "title": {
+            "la": "9. Quare divina Sapientia suos caros in hoc mundo permittit tam multipliciter- tribulari"
+          }
+        },
+        {
+          "id": "l1-c10",
+          "title": {
+            "la": "10. De cruciatibus infernalibus"
+          }
+        },
+        {
+          "id": "l1-c11",
+          "title": {
+            "la": "11. De gaudiis supercaelestibus"
+          }
+        },
+        {
+          "id": "l1-c12",
+          "title": {
+            "la": "12. Determinatio quarundam obiectionum, quae in praecedentibus sunt omissae"
+          }
+        },
+        {
+          "id": "l1-c13",
+          "title": {
+            "la": "13. Quam utile sit servo Dei in hoc mundo multas sustinere tribulationes"
+          }
+        },
+        {
+          "id": "l1-c14",
+          "title": {
+            "la": "14. Quam utile sit passionem Christi iugiter habere in memoria"
+          }
+        },
+        {
+          "id": "l1-c15",
+          "title": {
+            "la": "15. Quomodo verus Christi discipulus debet se configurare passionibus ipsius"
+          }
+        },
+        {
+          "id": "l1-c16",
+          "title": {
+            "la": "16. Commendatio singularis beatae Virginis, et de dolore eius inaestimabili, quem habuit in passione Filii"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-2",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "l2-c01",
+          "title": {
+            "la": "1. E De diversitate admiranda doctrinarum atque discipulorum"
+          }
+        },
+        {
+          "id": "l2-c02",
+          "title": {
+            "la": "2. De scientia utilissima homini mortali, quae est scire mori"
+          }
+        },
+        {
+          "id": "l2-c03",
+          "title": {
+            "la": "3. Formula compendiosa vitae spiritualis"
+          }
+        },
+        {
+          "id": "l2-c04",
+          "title": {
+            "la": "4. Qualiter Christus in sacramento Eucharistiae sit devote recipiendus"
+          }
+        },
+        {
+          "id": "l2-c05",
+          "title": {
+            "la": "5. Qualiter aeterna Sapientia sit ex toto corde et ex tota anima iugiter omni tempore laudanda"
+          }
+        },
+        {
+          "id": "l2-c06",
+          "title": {
+            "la": "6. Informatio, qualiter praemissa sint trahenda ad sermones et collationes"
+          }
+        },
+        {
+          "id": "l2-c07",
+          "title": {
+            "la": "7. Qualiter multi fideles possint Sapientiam divinam desponsare et quomodo per cotidiana quaedam levia exercitia debeant se continue in eiusdem amore renovare"
+          }
+        },
+        {
+          "id": "l2-c08",
+          "title": {
+            "la": "8. Fructus multiplex divinae benedictionis, quem discipuli Sapientiae merentur accipere ex eius desponsatione"
+          }
+        }
+      ]
+    }
+  ]
+}
