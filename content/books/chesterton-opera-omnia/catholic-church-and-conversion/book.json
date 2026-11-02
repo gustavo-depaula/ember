@@ -1,0 +1,82 @@
+{
+  "id": "chesterton-catholic-church-and-conversion",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Catholic Church and Conversion",
+    "pt-BR": "A Igreja Católica e a Conversão"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's contribution to Hilaire Belloc's Calvert Series: why people come into the Church, what keeps them out, and what a convert sees that a born Catholic cannot. Six chapters, from the Catholic faith as a 'new religion' of the twentieth century, through the obvious blunders and the real obstacles of the outsider, to the present prospects, with the series editor's note.",
+    "pt-BR": "A contribuição de Chesterton à Calvert Series, dirigida por Hilaire Belloc: por que as pessoas entram na Igreja, o que as mantém de fora e o que um convertido vê que um católico de nascença não vê. Seis capítulos, da fé católica como uma 'nova religião' do século XX, passando pelos erros óbvios e pelos obstáculos reais de quem está de fora, até as perspectivas atuais, com a nota do editor da série."
+  },
+  "composed": "1926",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/catholic-church-and-conversion",
+  "editions": {
+    "en-US": {
+      "editor": "Hilaire Belloc (general editor, Calvert Series)",
+      "publisher": "The Macmillan Company, New York",
+      "year": 1926
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/76305",
+      "edition": "The Catholic Church and Conversion (New York: Macmillan, 1926; Calvert Series), Project Gutenberg #76305, proofread by Online Distributed Proofreading Team.",
+      "description": "The series editor's note and six chapters; title pages, series list, imprimatur, contents, half-titles and the Gutenberg licence dropped, line wraps joined, underscored italics converted, curly quotation marks kept. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: published 1926 (US public domain) and Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU). The editor's note is by Hilaire Belloc (died 1953), also public domain in Brazil and, being published in 1926, in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "editors-note",
+      "title": {
+        "en-US": "Editor’s Note"
+      }
+    },
+    {
+      "id": "ch01-introductory-a-new-religion",
+      "title": {
+        "en-US": "I. Introductory: A New Religion"
+      }
+    },
+    {
+      "id": "ch02-the-obvious-blunders",
+      "title": {
+        "en-US": "II. The Obvious Blunders"
+      }
+    },
+    {
+      "id": "ch03-the-real-obstacles",
+      "title": {
+        "en-US": "III. The Real Obstacles"
+      }
+    },
+    {
+      "id": "ch04-the-world-inside-out",
+      "title": {
+        "en-US": "IV. The World Inside Out"
+      }
+    },
+    {
+      "id": "ch05-the-exception-proves-the-rule",
+      "title": {
+        "en-US": "V. The Exception Proves the Rule"
+      }
+    },
+    {
+      "id": "ch06-a-note-on-present-prospects",
+      "title": {
+        "en-US": "VI. A Note on Present Prospects"
+      }
+    }
+  ]
+}
