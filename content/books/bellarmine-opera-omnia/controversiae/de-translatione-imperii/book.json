@@ -1,0 +1,223 @@
+{
+  "id": "bellarmine-controversiae-de-translatione-imperii",
+  "cover": "classic",
+  "name": {
+    "la": "De translatione imperii Romani",
+    "en-US": "On the Transfer of the Roman Empire",
+    "pt-BR": "Sobre a transferência do império romano"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De translatione imperii Romani. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the transfer of the Roman Empire to the Franks. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a transferência do império romano."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-translatione-imperii",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia06bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 6 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. Complectitur contradictiones Illyrici",
+            "en-US": "Caput I. Complectitur contradictiones Illyrici"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II",
+            "en-US": "Caput II"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Refelluntur prolegomena Illyrici",
+            "en-US": "Caput III. Refelluntur prolegomena Illyrici"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Imperium Romanum translatum a Grzcis ad",
+            "en-US": "Caput IV. Imperium Romanum translatum a Grzcis ad"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Proferuntur testimonia confessiones prin- cipum de translatione imperii a Grsecis",
+            "en-US": "Caput V. Proferuntur testimonia confessiones prin- cipum de translatione imperii a Grsecis"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII",
+            "en-US": "Caput VII"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Non accepisse Carolum Magnum a Deo immediate imperii dignitatem",
+            "en-US": "Caput VIII. Non accepisse Carolum Magnum a Deo immediate imperii dignitatem"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Imperium Humanum non venisse ad Carolum jure hsereditario",
+            "en-US": "Caput IX. Imperium Humanum non venisse ad Carolum jure hsereditario"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Non accepisse Carolum Magnum imperii dignitatem auctore senatu, populovc Romano",
+            "en-US": "Caput X. Non accepisse Carolum Magnum imperii dignitatem auctore senatu, populovc Romano"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Mon devenisse ad Germanos imperium donatione Graecorum,",
+            "en-US": "Caput XI. Mon devenisse ad Germanos imperium donatione Graecorum,"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. Romanum Pontificem jure suo imperium a Grxcis in Germanos transtulisse",
+            "en-US": "Caput XII. Romanum Pontificem jure suo imperium a Grxcis in Germanos transtulisse"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur, raut soluta demonstrantur argumenta Illyrici",
+            "en-US": "Caput XIII. Solvuntur, raut soluta demonstrantur argumenta Illyrici"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. Successionem explicat Caroli Magni",
+            "en-US": "Caput I. Successionem explicat Caroli Magni"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Othonem I non autem Henricum, aut Chun- radum imperatorem primum ex gente Sa-",
+            "en-US": "Caput II. Othonem I non autem Henricum, aut Chun- radum imperatorem primum ex gente Sa-"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Eumdem Othonem a Summo Pontifice Joanne XII ad imperium provectum ostendit",
+            "en-US": "Caput III. Eumdem Othonem a Summo Pontifice Joanne XII ad imperium provectum ostendit"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Caput IV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. Electores ante Gregorii X Pontificis, et Fri- (lerici II imperatoris tempora designatos",
+            "en-US": "Caput I. Electores ante Gregorii X Pontificis, et Fri- (lerici II imperatoris tempora designatos"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. Objectiones Onuphrii refellit",
+            "en-US": "Caput II. Objectiones Onuphrii refellit"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Electores imperii non ab Oihone III imperatore, sed a Gregorio V Pontifice Maximo institutos ostendit",
+            "en-US": "Caput III. Electores imperii non ab Oihone III imperatore, sed a Gregorio V Pontifice Maximo institutos ostendit"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Caput IV"
+          }
+        }
+      ]
+    }
+  ]
+}
