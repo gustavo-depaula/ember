@@ -1,0 +1,133 @@
+{
+  "id": "benson-winnowing",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Winnowing",
+    "pt-BR": "A Peneira"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's novel of 1910 in which a family is winnowed by sudden death, and faith and doubt are tested.",
+    "pt-BR": "O romance de Benson (1910) em que uma família é peneirada pela morte repentina, e fé e dúvida são postas à prova."
+  },
+  "composed": 1910,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/winnowing",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1910)",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/winnowing00bensuoft",
+      "edition": "A Winnowing (London: Hutchinson, 1910), Internet Archive full-text OCR (winnowing00bensuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1910, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II"
+      },
+      "children": [
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        }
+      ]
+    }
+  ]
+}
