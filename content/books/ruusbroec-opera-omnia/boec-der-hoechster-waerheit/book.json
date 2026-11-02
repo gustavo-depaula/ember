@@ -13,18 +13,24 @@
   },
   "description": {
     "dum": "Ruusbroecs verduidelijking van de eenheid met God, geschreven om valse mystiek te weerleggen (ook 'Boecsken der verclaringhe'). Middelnederlandse tekst van J. B. David (1868).",
-    "en-US": "Ruusbroec's clarification of union with God, written against false mysticism (also called the Little Book of Enlightenment). The Middle Dutch text of J. B. David (1868).",
+    "en-US": "Ruusbroec's clarification of union with God, written against false mysticism (also called the Little Book of Enlightenment). The Middle Dutch text of J. B. David (1868). The English is C. A. Wynschenk Dom (1916), chapter for chapter.",
     "pt-BR": "Esclarecimento de Ruusbroec sobre a união com Deus, escrito contra a falsa mística (também chamado Livrinho de Esclarecimento). Texto em neerlandês médio de J. B. David (1868)."
   },
   "composed": "c. 1340-1350",
   "languages": [
-    "dum"
+    "dum",
+    "en-US"
   ],
   "work": "ruusbroec/boec-der-hoechster-waerheit",
   "editions": {
     "dum": {
       "editor": "Jan Baptist David",
       "year": 1868
+    },
+    "en-US": {
+      "translator": "C. A. Wynschenk Dom",
+      "year": 1916,
+      "editor": "Evelyn Underhill (introduction and notes)"
     }
   },
   "sources": [
@@ -35,97 +41,120 @@
       "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
       "tier": "A",
       "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/adornmentofthesp00ruysuoft",
+      "edition": "John of Ruysbroeck, The Adornment of the Spiritual Marriage; The Sparkling Stone; The Book of Supreme Truth, translated from the Flemish by C. A. Wynschenk Dom, with an introduction and notes by Evelyn Underhill (London: J. M. Dent, 1916).",
+      "description": "OCR of the archive.org scan, rejoined across lines and pages by research/sourcing/_scripts/wyn_build.py; running heads removed; Underhill's endnotes placed as footnotes at the passage that cites them. Not proofread against the page images.",
+      "tier": "A",
+      "tierEvidence": "1916 translation, public domain."
     }
   ],
   "toc": [
     {
       "id": "prologhe",
       "title": {
-        "dum": "Prologhe"
+        "dum": "Prologhe",
+        "en-US": "Prologue"
       }
     },
     {
       "id": "c001",
       "title": {
-        "dum": "I. Hier seghet hi wat dat die sake was, dat hi dit boecsken makede"
+        "dum": "I. Hier seghet hi wat dat die sake was, dat hi dit boecsken makede",
+        "en-US": "1. Wherefore This Book Was Written"
       }
     },
     {
       "id": "c002",
       "title": {
-        "dum": "II. Hier seit hi een recapitulacie van der alre hoechster leren, die hi in allen sinen boeken geschreven heeft"
+        "dum": "II. Hier seit hi een recapitulacie van der alre hoechster leren, die hi in allen sinen boeken geschreven heeft",
+        "en-US": "2. A Short Repetition of All the Highest Teachings Written by the Author"
       }
     },
     {
       "id": "c003",
       "title": {
-        "dum": "III. Vander eninghen overmits middel"
+        "dum": "III. Vander eninghen overmits middel",
+        "en-US": "3. Of the Union Through Means"
       }
     },
     {
       "id": "c004",
       "title": {
-        "dum": "IV. Van verkeerden ledighen menschen"
+        "dum": "IV. Van verkeerden ledighen menschen",
+        "en-US": "4. Of the Men Who Practise a False Vacancy"
       }
     },
     {
       "id": "c005",
       "title": {
-        "dum": "V. Vander eninghe sonder middel"
+        "dum": "V. Vander eninghe sonder middel",
+        "en-US": "5. Of the Union \\vi1hoit Means"
       }
     },
     {
       "id": "c006",
       "title": {
-        "dum": "VI. Van hemelscher ghesonden en van helscher qualen"
+        "dum": "VI. Van hemelscher ghesonden en van helscher qualen",
+        "en-US": "6. Of Heavenly Weal and Hellish Woe"
       }
     },
     {
       "id": "c007",
       "title": {
-        "dum": "VII. Waer omme alle goede menschen hier niet toe en comen"
+        "dum": "VII. Waer omme alle goede menschen hier niet toe en comen",
+        "en-US": "7. Showing Wherefore All Good Men Do Not Attain to the Unmediated Union with God"
       }
     },
     {
       "id": "c008",
       "title": {
-        "dum": "VIII. Hoe hem die ynnighe mensce oefenen sal, dat hi Gode verenicht moghe werden sonder middel"
+        "dum": "VIII. Hoe hem die ynnighe mensce oefenen sal, dat hi Gode verenicht moghe werden sonder middel",
+        "en-US": "8. Showing How the Inward Man Should Exercise Himself, That He May Be United with God Without Means"
       }
     },
     {
       "id": "c009",
       "title": {
-        "dum": "IX. Van sommighen werken der ghenaden Gods"
+        "dum": "IX. Van sommighen werken der ghenaden Gods",
+        "en-US": "9. "
       }
     },
     {
       "id": "c010",
       "title": {
-        "dum": "X. Vanden behaghene der godliker persone, ende vanden behaghene tusscen God ende den goeden menschen"
+        "dum": "X. Vanden behaghene der godliker persone, ende vanden behaghene tusscen God ende den goeden menschen",
+        "en-US": "10. "
       }
     },
     {
       "id": "c011",
       "title": {
-        "dum": "XI. Hoe die goede menschen, in haren scouwene Gods minne voir hebben, ende hoe sy te Gode verhaven werden"
+        "dum": "XI. Hoe die goede menschen, in haren scouwene Gods minne voir hebben, ende hoe sy te Gode verhaven werden",
+        "en-US": "11. How Good Men in Their Contemplation Have the Love of God Before Them, and How They Are Lifted Up Into God"
       }
     },
     {
       "id": "c012",
       "title": {
-        "dum": "XII. Vander hoechster enicheit sonder differencie, dat is sonder ondersceit"
+        "dum": "XII. Vander hoechster enicheit sonder differencie, dat is sonder ondersceit",
+        "en-US": "12. Of the Highest Union, Without Difference or Distinction"
       }
     },
     {
       "id": "c013",
       "title": {
-        "dum": "XIII. Van Christus drivoldech ghebet, dat wy één met Gode werden moghen"
+        "dum": "XIII. Van Christus drivoldech ghebet, dat wy één met Gode werden moghen",
+        "en-US": "13. Of the Threefold Prayer of Christ, That We Might Be One with God"
       }
     },
     {
       "id": "c014",
       "title": {
-        "dum": "XIV. Hier laet hem de auctoir onder die sentencie der heyligher Kerken van allen dien dat hi ghescreven heeft"
+        "dum": "XIV. Hier laet hem de auctoir onder die sentencie der heyligher Kerken van allen dien dat hi ghescreven heeft",
+        "en-US": "14. Here the Author Declares That He Submits All That He Has Written to the Judgment of Holy Church"
       }
     }
   ]
