@@ -1,0 +1,298 @@
+{
+  "id": "eudes-kenedy-life-and-kingdom",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Life and the Kingdom of Jesus in Christian Souls",
+    "pt-BR": "A Vida e o Reino de Jesus nas almas cristãs"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "en-US": "The 1946 English translation of John Eudes’s Life and Kingdom of Jesus in Christian Souls, complete, in seven parts.",
+    "pt-BR": "A tradução inglesa de 1946 de A Vida e o Reino de Jesus nas almas cristãs, completa, em sete partes."
+  },
+  "composed": 1946,
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-eudes/vie-et-royaume-de-jesus",
+  "editions": {
+    "en-US": {
+      "translator": "a Trappist Father of the Abbey of Gethsemani",
+      "year": 1946
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.liberius.net/livres/The_life_and_kingdom_of_Jesus_000000343.pdf",
+      "edition": "The Life and the Kingdom of Jesus in Christian Souls, translated by a Trappist Father of the Abbey of Gethsemani, New York, P. J. Kenedy & Sons, 1946. Text layer of the Bibliothèque Saint Libère PDF (liberius.net), from the Eudist Fathers series, 1946–48.",
+      "description": "Converted by script: running heads and page numbers removed, paragraphs rejoined, hyphenation repaired. The OCR of the PDF text layer leaves some residual errors (for example 0 for O, rn for m); the translator’s introduction and notes are kept. The translation is not aligned chapter by chapter to the French edition, so it is a separate book.",
+      "tier": "B",
+      "tierEvidence": "Copyright 1946–48 P. J. Kenedy & Sons; no renewal in the Copyright Office records 1950–2001."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lk-01",
+      "title": {
+        "en-US": "Part one (1)"
+      }
+    },
+    {
+      "id": "lk-02",
+      "title": {
+        "en-US": "Part one (2): The Christian Life Must be a Continuation of the Most Holy"
+      }
+    },
+    {
+      "id": "lk-03",
+      "title": {
+        "en-US": "Part one (3): Second Foundation of Christian Life and Sanctity: Hatred of Sin"
+      }
+    },
+    {
+      "id": "lk-04",
+      "title": {
+        "en-US": "Part one (4): Self-detachment"
+      }
+    },
+    {
+      "id": "lk-05",
+      "title": {
+        "en-US": "Part one (5): Qualities of Prayer"
+      }
+    },
+    {
+      "id": "lk-06",
+      "title": {
+        "en-US": "Part one (6): Dignity, Necessity and Importance of Christian Humility"
+      }
+    },
+    {
+      "id": "lk-07",
+      "title": {
+        "en-US": "Part one (7): Xix Practice of Christian Humility"
+      }
+    },
+    {
+      "id": "lk-08",
+      "title": {
+        "en-US": "Part one (8): Additional Points on Confidence"
+      }
+    },
+    {
+      "id": "lk-09",
+      "title": {
+        "en-US": "Part one (9): Perfection of Submission and Christian Obedience"
+      }
+    },
+    {
+      "id": "lk-10",
+      "title": {
+        "en-US": "Part one (10): Charity and Zeal for the Salvation of Souls"
+      }
+    },
+    {
+      "id": "lk-11",
+      "title": {
+        "en-US": "Part one (11): True Christian Devotion 81"
+      }
+    },
+    {
+      "id": "lk-12",
+      "title": {
+        "en-US": "Part one (12): Spirit of Martyrdom"
+      }
+    },
+    {
+      "id": "lk-13",
+      "title": {
+        "en-US": "Part one (13): Spirit of Martyrdom 99"
+      }
+    },
+    {
+      "id": "lk-14",
+      "title": {
+        "en-US": "Part two (1): Some Devotional Exercises Necessary to,"
+      }
+    },
+    {
+      "id": "lk-15",
+      "title": {
+        "en-US": "Part two (2): EVERYTHING THAT You Do SHOULD BEGIN AND END WITH JESUS"
+      }
+    },
+    {
+      "id": "lk-16",
+      "title": {
+        "en-US": "Part two (3): PLEASING To GOD"
+      }
+    },
+    {
+      "id": "lk-17",
+      "title": {
+        "en-US": "Part two (4): Act of Oblation"
+      }
+    },
+    {
+      "id": "lk-18",
+      "title": {
+        "en-US": "Part two (5): Prayer to Beg God for Contrition"
+      }
+    },
+    {
+      "id": "lk-19",
+      "title": {
+        "en-US": "Part two (6): Xxiv. Prayer to the Blessed Virgin Mary, Mother of God"
+      }
+    },
+    {
+      "id": "lk-20",
+      "title": {
+        "en-US": "Part three (1): Devotional Exercises to Be Done Each Day"
+      }
+    },
+    {
+      "id": "lk-21",
+      "title": {
+        "en-US": "Part three (2): Obligation and Method to Perform Your Actions Devoutly"
+      }
+    },
+    {
+      "id": "lk-22",
+      "title": {
+        "en-US": "Part three (3): Employing the Actions and Sufferings of Others for the Glory of God"
+      }
+    },
+    {
+      "id": "lk-23",
+      "title": {
+        "en-US": "Part three (4): Xxvi. Prayer During Holy Mass"
+      }
+    },
+    {
+      "id": "lk-24",
+      "title": {
+        "en-US": "Part three (5): Another Method of Saying the Divine Office with Devotion"
+      }
+    },
+    {
+      "id": "lk-25",
+      "title": {
+        "en-US": "Part three (6): Xxxviii. Rosary of Jesus, Maria"
+      }
+    },
+    {
+      "id": "lk-26",
+      "title": {
+        "en-US": "Part four (1): Part Four"
+      }
+    },
+    {
+      "id": "lk-27",
+      "title": {
+        "en-US": "Part four (2): Sixth Meditation-friday"
+      }
+    },
+    {
+      "id": "lk-28",
+      "title": {
+        "en-US": "Part five (1): Devotional Exercises to Be Done Each Month to"
+      }
+    },
+    {
+      "id": "lk-29",
+      "title": {
+        "en-US": "Part five (2): Exercise for the First and Last Days of the Month"
+      }
+    },
+    {
+      "id": "lk-30",
+      "title": {
+        "en-US": "Part five (3): Rosary of the Eternal Father"
+      }
+    },
+    {
+      "id": "lk-31",
+      "title": {
+        "en-US": "Part five (4): X. Acts of Love in Honor of the Birth and Holy Childhood of Jesus"
+      }
+    },
+    {
+      "id": "lk-32",
+      "title": {
+        "en-US": "Part six (1): Devotional Exercises for the Beginning and"
+      }
+    },
+    {
+      "id": "lk-33",
+      "title": {
+        "en-US": "Part six (2): Beginning the New Year with Jesus"
+      }
+    },
+    {
+      "id": "lk-34",
+      "title": {
+        "en-US": "Part six (3): Viii. Seven Methods of Venerating the Mysteries of Our Lord"
+      }
+    },
+    {
+      "id": "lk-35",
+      "title": {
+        "en-US": "Part six (4): Xii. Mysteries of the Life of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "lk-36",
+      "title": {
+        "en-US": "Part six (5): Prayer to Jesus for the Renewal of the Three Vows of Religion"
+      }
+    },
+    {
+      "id": "lk-37",
+      "title": {
+        "en-US": "Part seven (1): Devotional Exercises for the Anniversary"
+      }
+    },
+    {
+      "id": "lk-38",
+      "title": {
+        "en-US": "Part seven (2): CONCERNING THE RIGHTFUL HOMAGE YOU OUGHT To HAVE RENDERED To GOD AT"
+      }
+    },
+    {
+      "id": "lk-39",
+      "title": {
+        "en-US": "Part seven (3): Prayer to Jesus"
+      }
+    },
+    {
+      "id": "lk-40",
+      "title": {
+        "en-US": "Part seven (4): Meditation on Submission to the Divine Will"
+      }
+    },
+    {
+      "id": "lk-41",
+      "title": {
+        "en-US": "Part seven (5): Sixth Day"
+      }
+    },
+    {
+      "id": "lk-42",
+      "title": {
+        "en-US": "Part seven (6): The Particular Judgment"
+      }
+    },
+    {
+      "id": "lk-43",
+      "title": {
+        "en-US": "Part seven (7): Conclusion of the Exercise"
+      }
+    }
+  ]
+}
