@@ -1,0 +1,132 @@
+{
+  "id": "ruusbroec-boec-der-hoechster-waerheit",
+  "cover": "classic",
+  "name": {
+    "dum": "Dat boec der hoechster waerheit",
+    "en-US": "The Book of Supreme Truth",
+    "pt-BR": "O Livro da Suprema Verdade"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Ruusbroecs verduidelijking van de eenheid met God, geschreven om valse mystiek te weerleggen (ook 'Boecsken der verclaringhe'). Middelnederlandse tekst van J. B. David (1868).",
+    "en-US": "Ruusbroec's clarification of union with God, written against false mysticism (also called the Little Book of Enlightenment). The Middle Dutch text of J. B. David (1868).",
+    "pt-BR": "Esclarecimento de Ruusbroec sobre a união com Deus, escrito contra a falsa mística (também chamado Livrinho de Esclarecimento). Texto em neerlandês médio de J. B. David (1868)."
+  },
+  "composed": "c. 1340-1350",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/boec-der-hoechster-waerheit",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae06_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 6: Hier deghint dat boec der hoechster waerheit. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1868).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Hier seghet hi wat dat die sake was, dat hi dit boecsken makede"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Hier seit hi een recapitulacie van der alre hoechster leren, die hi in allen sinen boeken geschreven heeft"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Vander eninghen overmits middel"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Van verkeerden ledighen menschen"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Vander eninghe sonder middel"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. Van hemelscher ghesonden en van helscher qualen"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Waer omme alle goede menschen hier niet toe en comen"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Hoe hem die ynnighe mensce oefenen sal, dat hi Gode verenicht moghe werden sonder middel"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Van sommighen werken der ghenaden Gods"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. Vanden behaghene der godliker persone, ende vanden behaghene tusscen God ende den goeden menschen"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. Hoe die goede menschen, in haren scouwene Gods minne voir hebben, ende hoe sy te Gode verhaven werden"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. Vander hoechster enicheit sonder differencie, dat is sonder ondersceit"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. Van Christus drivoldech ghebet, dat wy één met Gode werden moghen"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. Hier laet hem de auctoir onder die sentencie der heyligher Kerken van allen dien dat hi ghescreven heeft"
+      }
+    }
+  ]
+}
