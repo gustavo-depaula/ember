@@ -1,0 +1,61 @@
+{
+ "id": "more-four-last-things",
+ "dir": "more-opera-omnia/four-last-things",
+ "slug": "four-last-things",
+ "name": "The Four Last Things",
+ "name_pt": "Os Quatro Novíssimos",
+ "desc": "More's unfinished English treatise (c. 1522) on Memorare novissima (Ecclesiasticus 7:40): the remembrance of death, then the remedies against the seven deadly sins (pride, envy, wrath, covetousness, gluttony and sloth), breaking off in the middle of sloth. Dom Daniel O'Connor's modernised edition of 1903.",
+ "desc_pt": "O tratado inglês inacabado de More (c. 1522) sobre Memorare novissima (Eclesiástico 7,40): a lembrança da morte e os remédios contra os pecados capitais (soberba, inveja, ira, avareza, gula e preguiça), interrompido no meio da preguiça. Edição modernizada de Dom Daniel O'Connor (1903).",
+ "composed": 1522,
+ "editor": "Thomas More, ed. Dom Daniel O’Connor (London: Sands, 1903)",
+ "year": 1903,
+ "url": "https://archive.org/details/fourlastthings00more",
+ "edition": "The Four Last Things, ed. Dom Daniel O'Connor (London: Sands, 1903), spelling modernised by the editor; Internet Archive full-text OCR.",
+ "src": "more-and-fisher/ia/fourlastthings00more_djvu.txt",
+ "manual": [
+  [
+   91,
+   "Preface by Dom Daniel O’Connor"
+  ],
+  [
+   190,
+   "Memorare Novissima"
+  ],
+  [
+   957,
+   "The Remembrance of Death"
+  ],
+  [
+   1808,
+   "Of Pride"
+  ],
+  [
+   2188,
+   "Of Envy"
+  ],
+  [
+   2388,
+   "Of Wrath"
+  ],
+  [
+   2710,
+   "Of Covetise"
+  ],
+  [
+   3250,
+   "Of Gluttony"
+  ],
+  [
+   3739,
+   "Of Sloth"
+  ]
+ ],
+ "start": 91,
+ "end": 3784,
+ "label": "",
+ "mode": "ia",
+ "died": 1535,
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "work": "more/four-last-things"
+}

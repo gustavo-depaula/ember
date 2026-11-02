@@ -1,0 +1,93 @@
+{
+  "id": "more-four-last-things",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Four Last Things",
+    "pt-BR": "Os Quatro Novíssimos"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's unfinished English treatise (c. 1522) on Memorare novissima (Ecclesiasticus 7:40): the remembrance of death, then the remedies against the seven deadly sins (pride, envy, wrath, covetousness, gluttony and sloth), breaking off in the middle of sloth. Dom Daniel O'Connor's modernised edition of 1903.",
+    "pt-BR": "O tratado inglês inacabado de More (c. 1522) sobre Memorare novissima (Eclesiástico 7,40): a lembrança da morte e os remédios contra os pecados capitais (soberba, inveja, ira, avareza, gula e preguiça), interrompido no meio da preguiça. Edição modernizada de Dom Daniel O'Connor (1903)."
+  },
+  "composed": 1522,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/four-last-things",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More, ed. Dom Daniel O’Connor (London: Sands, 1903)",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/fourlastthings00more",
+      "edition": "The Four Last Things, ed. Dom Daniel O'Connor (London: Sands, 1903), spelling modernised by the editor; Internet Archive full-text OCR.",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535 and the edition is of 1903, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface by Dom Daniel O’Connor"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Memorare Novissima"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "The Remembrance of Death"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Of Pride"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Of Envy"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Of Wrath"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Of Covetise"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Of Gluttony"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Of Sloth"
+      }
+    }
+  ]
+}
