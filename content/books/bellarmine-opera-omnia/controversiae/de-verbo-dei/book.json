@@ -1,0 +1,449 @@
+{
+  "id": "bellarmine-controversiae-de-verbo-dei",
+  "cover": "classic",
+  "name": {
+    "la": "De verbo Dei",
+    "en-US": "On the Word of God",
+    "pt-BR": "Sobre a Palavra de Deus"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De verbo Dei. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the first general controversy: Scripture, tradition and the interpretation of the Word of God. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a Palavra de Deus."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-verbo-dei",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia01bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 1 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. Sitne Scriptura Vwbum Dei",
+            "en-US": "Caput I. Sitne Scriptura Vwbum Dei"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Libris, qui Canonici nominantur, verbum Dei contineri",
+            "en-US": "Caput II. Libris, qui Canonici nominantur, verbum Dei contineri"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Refellitur objectio ex verbis B. Pauli: Littera occidit, spiritus autem vivificat",
+            "en-US": "Caput III. Refellitur objectio ex verbis B. Pauli: Littera occidit, spiritus autem vivificat"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Qui sint libri Sacri",
+            "en-US": "Caput IV. Qui sint libri Sacri"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V",
+            "en-US": "Caput V"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. De haereticis, qui libros Testamenti novi supra numeratos oppugnarunt",
+            "en-US": "Caput VI. De haereticis, qui libros Testamenti novi supra numeratos oppugnarunt"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. De libro Esther",
+            "en-US": "Caput VII. De libro Esther"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. De libro Baruch",
+            "en-US": "Caput VIII. De libro Baruch"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. De quibusdam capitibus Danielis",
+            "en-US": "Caput IX. De quibusdam capitibus Danielis"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. De libris T obice, Judith, Sapientiae, Ecclesiastici, et Machabccorum",
+            "en-US": "Caput X. De libris T obice, Judith, Sapientiae, Ecclesiastici, et Machabccorum"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. De libro Tobiee",
+            "en-US": "Caput XI. De libro Tobiee"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. De libro Judith",
+            "en-US": "Caput XII. De libro Judith"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. De libro Sapientiae",
+            "en-US": "Caput XIII. De libro Sapientiae"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. De Ecclesiastico",
+            "en-US": "Caput XIV. De Ecclesiastico"
+          }
+        },
+        {
+          "id": "b1c15",
+          "title": {
+            "la": "Caput XV",
+            "en-US": "Caput XV"
+          }
+        },
+        {
+          "id": "b1c16",
+          "title": {
+            "la": "Caput XVI. De quibusdam partibus librorum Marci, Lucae, Joannis",
+            "en-US": "Caput XVI. De quibusdam partibus librorum Marci, Lucae, Joannis"
+          }
+        },
+        {
+          "id": "b1c17",
+          "title": {
+            "la": "Caput XVII. De epistola ad Hebrceos",
+            "en-US": "Caput XVII. De epistola ad Hebrceos"
+          }
+        },
+        {
+          "id": "b1c18",
+          "title": {
+            "la": "Caput XVIII",
+            "en-US": "Caput XVIII"
+          }
+        },
+        {
+          "id": "b1c19",
+          "title": {
+            "la": "Caput XIX. De Apocalypsi",
+            "en-US": "Caput XIX. De Apocalypsi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. Ostenditur, editionem Hebraicam Mosis, et Prophetarum nunquam periisse",
+            "en-US": "Caput I. Ostenditur, editionem Hebraicam Mosis, et Prophetarum nunquam periisse"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Num Hebraica editio sit corrupta. flh",
+            "en-US": "Caput II. Num Hebraica editio sit corrupta. flh"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De editione Chaldaica",
+            "en-US": "Caput III. De editione Chaldaica"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. De editione Syriaca",
+            "en-US": "Caput IV. De editione Syriaca"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. De variis Grcecis editionibus",
+            "en-US": "Caput V. De variis Grcecis editionibus"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. De interpretatione LXX. Seniorum",
+            "en-US": "Caput VI. De interpretatione LXX. Seniorum"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. De editione Grceca Testamenti novi",
+            "en-US": "Caput VII. De editione Grceca Testamenti novi"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. De auctore vulgata editionis",
+            "en-US": "Caput IX. De auctore vulgata editionis"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. De auctoritate Latince editionis vulgatae",
+            "en-US": "Caput X. De auctoritate Latince editionis vulgatae"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Defenduntur loca, quce Kemnitius depravata esse dicit in editione vulgata",
+            "en-US": "Caput XII. Defenduntur loca, quce Kemnitius depravata esse dicit in editione vulgata"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII. Defenduntur loca, quce in Psalmis male reddita fuisse a Latino interprete Calvinus contendit",
+            "en-US": "Caput XIII. Defenduntur loca, quce in Psalmis male reddita fuisse a Latino interprete Calvinus contendit"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Defenduntur loca, quee haeretici aiunt esse corrupta in editione Latina Testamenti novi",
+            "en-US": "Caput XIV. Defenduntur loca, quee haeretici aiunt esse corrupta in editione Latina Testamenti novi"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Solvuntur objectiones haereticorum",
+            "en-US": "Caput XVI. Solvuntur objectiones haereticorum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. Scripturam non esse tam apertam per se, ut sine explicatione sufficiat ad controversias Fidei terminandas. s",
+            "en-US": "Caput I. Scripturam non esse tam apertam per se, ut sine explicatione sufficiat ad controversias Fidei terminandas. s"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. Solvuntur objectiones adversariorum",
+            "en-US": "Caput II. Solvuntur objectiones adversariorum"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. Proponitur quaestio de judice controversiarum, et simul disseritur de sensibus Scripturarum",
+            "en-US": "Caput III. Proponitur quaestio de judice controversiarum, et simul disseritur de sensibus Scripturarum"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. Adferuntur testimonia ex Testamento veteri pro sententia Catholicorum",
+            "en-US": "Caput IV. Adferuntur testimonia ex Testamento veteri pro sententia Catholicorum"
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V. Idem probatur ex Testamento novo",
+            "en-US": "Caput V. Idem probatur ex Testamento novo"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. Idem probatur ex consuetudine Ecclesice",
+            "en-US": "Caput VI. Idem probatur ex consuetudine Ecclesice"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. Idem probatur testimoniis Pontificum et Imperatorum",
+            "en-US": "Caput VII. Idem probatur testimoniis Pontificum et Imperatorum"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Idem probatur testimoniis Patrum",
+            "en-US": "Caput VIII. Idem probatur testimoniis Patrum"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. Idem probatur ex ratione",
+            "en-US": "Caput IX. Idem probatur ex ratione"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X",
+            "en-US": "Caput X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I. Qui potissimum defenderint vel oppugnaverint non scriptas Traditiones",
+            "en-US": "Caput I. Qui potissimum defenderint vel oppugnaverint non scriptas Traditiones"
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. Quid sit. et quotuplex Traditio",
+            "en-US": "Caput II. Quid sit. et quotuplex Traditio"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III",
+            "en-US": "Caput III"
+          }
+        },
+        {
+          "id": "b4c04",
+          "title": {
+            "la": "Caput IV. Ostenditur necessitas Traditionum",
+            "en-US": "Caput IV. Ostenditur necessitas Traditionum"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V. Esse aliquas veras Traditiones demonstratur ex Scripturis",
+            "en-US": "Caput V. Esse aliquas veras Traditiones demonstratur ex Scripturis"
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI. Idem ostenditur testimoniis Pontificum et Conciliorum",
+            "en-US": "Caput VI. Idem ostenditur testimoniis Pontificum et Conciliorum"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. Idem probatur ex Patribus",
+            "en-US": "Caput VII. Idem probatur ex Patribus"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. Idem probatur quatuor aliis Argumentis",
+            "en-US": "Caput VIII. Idem probatur quatuor aliis Argumentis"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Explicantur regulce quinque, quibus in cogni: tionem verarum Traditionum devenimus",
+            "en-US": "Caput IX. Explicantur regulce quinque, quibus in cogni: tionem verarum Traditionum devenimus"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. Solvuntur objectiones adversariorum, quee ex Scripturis petuntur",
+            "en-US": "Caput X. Solvuntur objectiones adversariorum, quee ex Scripturis petuntur"
+          }
+        },
+        {
+          "id": "b4c11",
+          "title": {
+            "la": "Caput XI. Solvuntur objectiones ex Patribus",
+            "en-US": "Caput XI. Solvuntur objectiones ex Patribus"
+          }
+        }
+      ]
+    }
+  ]
+}
