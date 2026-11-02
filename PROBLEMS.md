@@ -38,6 +38,8 @@ Each book's `book.json` source notes give the details. The scripts that built th
 
 ### Scanning errors left after cleanup
 
+- `john-of-the-cross-opera-omnia/{cantico-a,llama-b,avisos,opuscula,epistolario,poesias}`, `es-ES/`: Silverio OCR corrected by script against Pacho (consulted only), not proofread. Known leftovers: a few misread letters and stray "!" for "l" inside words (e.g. "este!" in `cantico-a/c13-14`); some footnotes whose reference mark the OCR lost were attached by hand or dropped (`llama-b/c1` "perfección" and `c2` "según", `poesias/poesia-8`, `-9`); `epistolario` letters II and III are fragments with uncertain dates; in `poesias` the stanza divisions of unnumbered poems (romances, glosses) follow the scan's line order and the title lines are italicised by rule.
+
 These books were imported from scans and corrected by script, not proofread. Proofread them against the page images (the `audit-book-vs-pdf` skill), worst first:
 
 - `scupoli-opera-omnia/combattimento-spirituale`, `it/`: about 3% of words are still wrong, and about 25 chapter titles were rebuilt from fragments.
@@ -66,6 +68,8 @@ These books were imported from scans and corrected by script, not proofread. Pro
 
 ### English left out
 
+- `john-of-the-cross-opera-omnia/{cantico-a,llama-b,avisos,opuscula,epistolario,poesias}`: Spanish only. Lewis/Zimmerman (1912/1919) has English for the letters (18 of Silverio's 26, numbered differently), the poems, the maxims (a different, longer compilation than the Andújar *Dichos*) and "Instructions and Precautions" (the Cautelas and the Counsels), but they are not yet cleaned or paired; they would be their own books. Cántico A and Llama B have no free English.
+
 These books have no English because the only public-domain translations are badly scanned or don't follow the original's divisions:
 
 - `bernard-opera-omnia/sermones-super-cantica`: Eales (1896) is scanned with misplaced sermon breaks and lost footnote markers.
@@ -77,6 +81,9 @@ These books have no English because the only public-domain translations are badl
 - `teresa-opera-omnia/poesias`: no English. Stanbrook's 36 poems (Minor Works, 1913) are numbered and grouped differently from Silverio's 31, so they would be their own book.
 
 ### Partial texts
+
+- `john-of-the-cross-opera-omnia/avisos`, `avisos-1.md`: pages 231-232 of Silverio t. IV (the first six sayings and the opening of the seventh of the first set) are missing from the Princeton scan's OCR, so the chapter opens mid-sentence at saying 7 ("el carbón encendido…").
+- `john-of-the-cross-opera-omnia/opuscula`: *Cautelas*, *Consejos* and the *Censura* only. Not imported: the *Grados de perfección* (doubtful, only in Gerardo), the *Monte de perfección* drawing with its sayings (Silverio only describes it in t. I; its inscriptions are already quoted in the Subida) and the "Documentos varios" (licences, election acts) after the Censura. The other Avisos sets (Antequera, Gerona, María de Jesús) and the Appendix letters of Silverio t. IV are not included; the *epistolario* has Silverio's 26 letters, not Pacho's 33.
 
 - `john-of-avila-opera-omnia/epistolario`: the 100 letters of the Epistolario espiritual only, from the modernised Apostolado Mariano edition (OCR, not proofread; Latin quotations replaced by Spanish glosses in brackets). About 106 of the other letters of Sala Balust's critical edition (BAC 1952, 252 letters) are in `epistolario-sala-balust`; the rest are listed there. English: `epistolario-1631-en`, `epistolario-stanbrook-en`.
 - `peter-of-alcantara-opera-omnia/cartas`: only 2 of his 12 authenticated letters (to Teresa and to the bishop of Ávila, 1562). The other ten (Infantas Isabel and María of Portugal, Luisa de la Cerda, Álvaro de Mendoza…) are only in Barrado Manzano 1965 and BAC 570 (1996); leads: Archivo Ibero-Americano 22 (1962), *Salmanticensis* 1955. English exists only for the first, as Willoughby's free rendering.
