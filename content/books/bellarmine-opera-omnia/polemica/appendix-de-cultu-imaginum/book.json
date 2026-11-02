@@ -1,0 +1,84 @@
+{
+  "id": "bellarmine-appendix-de-cultu-imaginum",
+  "cover": "classic",
+  "name": {
+    "la": "Appendix de cultu imaginum",
+    "en-US": "Appendix on the Veneration of Images",
+    "pt-BR": "Apêndice sobre o culto das imagens"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Appendix ad tractatum de reliquiis et imaginibus sanctorum. Textus ex editione Vivès (1870-74), tomo VII, ex scanno OCR.",
+    "en-US": "An appendix to the treatise on relics and images. Latin only: the Vivès edition (1870-74), volume 7, from an OCR scan.",
+    "pt-BR": "Apêndice ao tratado sobre as relíquias e imagens."
+  },
+  "composed": "1608",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/appendix-de-cultu-imaginum",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia07bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 7 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I",
+        "en-US": "Caput I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II",
+        "en-US": "Caput II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III",
+        "en-US": "Caput III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV",
+        "en-US": "Caput IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Sequitur pars tertia, id est, Epistola Eugenii Papee ad Michaelem, et Theophilum ejus filium imperatores, (quam epistolam",
+        "en-US": "Caput V. Sequitur pars tertia, id est, Epistola Eugenii Papee ad Michaelem, et Theophilum ejus filium imperatores, (quam epistolam"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI",
+        "en-US": "Caput VI"
+      }
+    }
+  ]
+}
