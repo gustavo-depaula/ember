@@ -2,15 +2,26 @@
   "id": "augustine-predestination-of-the-saints-gift-of-perseverance",
   "cover": "quarter",
   "name": {
+    "la": "De praedestinatione sanctorum et de dono perseverantiae",
     "en-US": "The Predestination of the Saints/Gift of Perseverance"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo"
   },
   "languages": [
+    "la",
     "en-US"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/predestinazione_santi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages predestinazione_santi, dono_perseveranza of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1512.htm",
@@ -21,17 +32,31 @@
     {
       "id": "ch001",
       "title": {
+        "la": "De praedestinatione sanctorum",
         "en-US": "BOOK I"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "De dono perseverantiae",
         "en-US": "BOOK II"
       }
     }
   ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/de-praedestinatione-sanctorum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "Peter Holmes and Robert Ernest Wallis, and revised by Benjamin B",
+      "year": 1887
+    }
   }
 }
