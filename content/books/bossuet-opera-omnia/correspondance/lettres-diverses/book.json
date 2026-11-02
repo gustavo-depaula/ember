@@ -1,0 +1,1590 @@
+{
+  "id": "bossuet-lettres-diverses",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres diverses",
+    "en-US": "Miscellaneous Letters",
+    "pt-BR": "Cartas diversas"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "La correspondance générale de Bossuet (lettres I à CCXLIX, de Metz en 1658 à Meaux en 1697) : à saint Vincent de Paul, au maréchal de Bellefonds, à Louis XIV, au cardinal d’Estrées, à l’abbé de Rancé, avec la correspondance latine sur l’affaire de Castorie et du cardinal Cibo, les lettres de Leibniz et les pièces annexes. Édition Lachat (1864), tome XXVI.",
+    "en-US": "Bossuet’s general correspondence (letters I to CCXLIX, from Metz in 1658 to Meaux in 1697): to Saint Vincent de Paul, Marshal de Bellefonds, Louis XIV, Cardinal d’Estrées, Abbot de Rancé, with the Latin correspondence on Castoria and Cardinal Cibo, Leibniz’s letters and related pieces. Lachat edition (1864), volume XXVI.",
+    "pt-BR": "A correspondência geral de Bossuet (cartas I a CCXLIX, de Metz em 1658 a Meaux em 1697): a são Vicente de Paulo, ao marechal de Bellefonds, a Luís XIV, ao cardeal d’Estrées, ao abade de Rancé, com a correspondência latina e as cartas de Leibniz. Edição Lachat (1864), tomo XXVI."
+  },
+  "composed": "1658–1697",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/lettres-diverses",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume026/005.htm to 017.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXVI, pages 005-017 (Lettres diverses). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l001",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "l002",
+      "title": {
+        "fr-FR": "Lettre première. Bossuet à M. de Thiolet, Maitre Échevin de Metz. Verdun. 19 octobre 1983"
+      }
+    },
+    {
+      "id": "l003",
+      "title": {
+        "fr-FR": "Lettre II. Bossuet à Saint Vincent de Paul. À Metz, ce 12 janvier 1658"
+      }
+    },
+    {
+      "id": "l004",
+      "title": {
+        "fr-FR": "Lettre III. M. Bedacier, Évêque d’Auguste, à Saint Vincent de Paul. De Metz, le 29 janvier 1658"
+      }
+    },
+    {
+      "id": "l005",
+      "title": {
+        "fr-FR": "Lettre IV. Bossuet à Saint Vincent de Paul. À Metz, ce 1er février 1638"
+      }
+    },
+    {
+      "id": "l006",
+      "title": {
+        "fr-FR": "Lettre V. Bossuet à M. de Monchy. À Metz, ce 1er février 1658"
+      }
+    },
+    {
+      "id": "l007",
+      "title": {
+        "fr-FR": "Lettre VI. Bossuet à Saint Vincent de Paul à Metz, ce 10 février 1658"
+      }
+    },
+    {
+      "id": "l008",
+      "title": {
+        "fr-FR": "Lettre VII. Bossuet à Saint Vincent de Paul. À Metz, ce 2 mars 1658"
+      }
+    },
+    {
+      "id": "l009",
+      "title": {
+        "fr-FR": "Lettre VIII. Bossuet à Saint Vincent de Paul. À Metz, ce 23 mai 1658"
+      }
+    },
+    {
+      "id": "l010",
+      "title": {
+        "fr-FR": "Lettre IX. Bossuet à Condé"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "fr-FR": "Lettre X. Bossuet à Messieurs les Vénérables Princier, Chanoines et Chapitre de l’Église Cathédrale de Metz. Paris, le 11 octobre 1669"
+      }
+    },
+    {
+      "id": "l012",
+      "title": {
+        "fr-FR": "Lettre XI. Bossuet au Marquis (Isaac) de Feuquières, Ambassadeur de France en Suède. À Versailles, 22 février 1674"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "fr-FR": "Lettre XII. Bossuet à M. Conquart, Membre de l’Académie Française. À Saint-Germain-en-Laye, 22 mai 1671"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "fr-FR": "Lettre XIII. Bossuet à Une Dame de Considération. Sur la Mort de son Mari"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "fr-FR": "Lettre XV. Bossuet à la Mère de Bellefonds, Carmélite. À Saint-Germain-en-Laye, ce 25 avril 1672"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "fr-FR": "Lettre XV. Bossuet à la Mère de Bellefonds, Carmélite. Mercredi matin, 1672"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "fr-FR": "Lettre XVI. Bossuet au Maréchal de Bellefonds. À Saint-Germain-en-Laye, ce 25 avril 1672"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "fr-FR": "Lettre XVII. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 1er juin 1672"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "fr-FR": "Lettre XVIII. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 30 juin 1672"
+      }
+    },
+    {
+      "id": "l020",
+      "title": {
+        "fr-FR": "Lettre XIX. Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 8 septembre 1672"
+      }
+    },
+    {
+      "id": "l021",
+      "title": {
+        "fr-FR": "Lettre XX. Bossuet au Maréchal de Bellefonds. À Versailles, ce 19 septembre 1672"
+      }
+    },
+    {
+      "id": "l022",
+      "title": {
+        "fr-FR": "Lettre XXI. Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 17 novembre 1672"
+      }
+    },
+    {
+      "id": "l023",
+      "title": {
+        "fr-FR": "Lettre XXII. Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 20 novembre 1672"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "fr-FR": "Lettre XXIII. Bossuet à M. Dirois, Docteur de Sorbonne. À Saint-Germain, ce 12 janvier 1673"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "fr-FR": "Lettre XXIV. Bossuet à M. Dirois, Docteur de Sorbonne. À Saint-Germain, ce 26 avril 1673"
+      }
+    },
+    {
+      "id": "l026",
+      "title": {
+        "fr-FR": "Lettre XXV. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 7 juillet 1673"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "fr-FR": "Lettre XXVI. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 25 décembre 1673"
+      }
+    },
+    {
+      "id": "l028",
+      "title": {
+        "fr-FR": "Lettre XXVII. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 27 janvier 1674"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "fr-FR": "Lettre XXVIII. Bossuet au Maréchal de Bellefonds. À Versailles, ce 8 février 1674"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "fr-FR": "Lettre XXIX. Bossuet au Maréchal de Bellefonds. À Versailles, ce 3 mars 1674"
+      }
+    },
+    {
+      "id": "l031",
+      "title": {
+        "fr-FR": "Lettre XXX. Bossuet au Maréchal de Bellefonds. À Versailles, ce 6 avril 1674"
+      }
+    },
+    {
+      "id": "l032",
+      "title": {
+        "fr-FR": "Lettre XXXI. Bossuet au Maréchal de Bellefonds. À Dijon, ce 24 mai 1674"
+      }
+    },
+    {
+      "id": "l033",
+      "title": {
+        "fr-FR": "Lettre XXXII. Bossuet au Maréchal de Bellefonds. À Versailles, ce 5 août 1674"
+      }
+    },
+    {
+      "id": "l034",
+      "title": {
+        "fr-FR": "Lettre XXXIII. Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 1er septembre 1674"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "fr-FR": "Lettre XXXIV. Bossuet au Maréchal de Bellefonds. À Versailles, ce 29 septembre 1674"
+      }
+    },
+    {
+      "id": "l036",
+      "title": {
+        "fr-FR": "Epistola XXXV. Ad Ferdinandum Furstembergium, Episcopum et Principem Paderbornensem, et Coadjutorem Monasteriensem"
+      }
+    },
+    {
+      "id": "l037",
+      "title": {
+        "fr-FR": "Lettre XXXVI. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 1er décembre 1674"
+      }
+    },
+    {
+      "id": "l038",
+      "title": {
+        "fr-FR": "Lettre XXXVII. Bossuet à la Mère Agnès de Bellefonds. À Saint-Germain, 19 mars 1675"
+      }
+    },
+    {
+      "id": "l039",
+      "title": {
+        "fr-FR": "Lettre XXXVIII. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 19 mars 1675"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "fr-FR": "Lettre XXXIX. Bossuet à Dom Mabillon, Religieux Bénédictin. À Saint-Germain, ce 28 mai 1675"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "fr-FR": "Lettre XL. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 20 juin 1675"
+      }
+    },
+    {
+      "id": "l042",
+      "title": {
+        "fr-FR": "Lettre XLI. Bossuet à Louis XIV"
+      }
+    },
+    {
+      "id": "l043",
+      "title": {
+        "fr-FR": "Lettre XLII. Bossuet à Louis XIV. À Saint-Germain, ce 10 juillet 1675"
+      }
+    },
+    {
+      "id": "l044",
+      "title": {
+        "fr-FR": "Instruction Donnée à Louis XIV, en 1675. Quelle est la dévotion d’un roi"
+      }
+    },
+    {
+      "id": "l045",
+      "title": {
+        "fr-FR": "Lettre XLIII. Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 23 août 1675"
+      }
+    },
+    {
+      "id": "l046",
+      "title": {
+        "fr-FR": "Lettre XLIV. (extrait). M. de Pontchateau à M. de Castorie. Ce 9 octobre 1675"
+      }
+    },
+    {
+      "id": "l047",
+      "title": {
+        "fr-FR": "Ex epistola XLV. Castoriensis ad Abbatem de Pontchateau"
+      }
+    },
+    {
+      "id": "l048",
+      "title": {
+        "fr-FR": "Epistola XLVI. Castoriensis ad Abbatem de Pontchateau"
+      }
+    },
+    {
+      "id": "l049",
+      "title": {
+        "fr-FR": "Lettre XLIX. L’abbé de Pontchateau à M. de Castorie. Ce 23 janvier 1676"
+      }
+    },
+    {
+      "id": "l050",
+      "title": {
+        "fr-FR": "Lettre L. Condomensis ad Castoriensis Observationes Responsum. De Libello Expositionis Fidei"
+      }
+    },
+    {
+      "id": "l051",
+      "title": {
+        "fr-FR": "Epistola LI. Castoriensis ad Abbatem de Pontchateau"
+      }
+    },
+    {
+      "id": "l052",
+      "title": {
+        "fr-FR": "Epistola LII. Castoriensis Condomensi"
+      }
+    },
+    {
+      "id": "l053",
+      "title": {
+        "fr-FR": "Lettre LIII. Bossuet au P. Bouhours, Jésuite. Versailles, 12 septembre 1676"
+      }
+    },
+    {
+      "id": "l054",
+      "title": {
+        "fr-FR": "Lettre LIV. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 16 mars 1676"
+      }
+    },
+    {
+      "id": "l055",
+      "title": {
+        "fr-FR": "Lettre LV. Bossuet à M. Dirois, Docteur de Sorbonne. À Saint-Germain, ce 25 novembre 1676"
+      }
+    },
+    {
+      "id": "l056",
+      "title": {
+        "fr-FR": "Epistola LVI. Condomensis Castoriensi"
+      }
+    },
+    {
+      "id": "l057",
+      "title": {
+        "fr-FR": "Epistola LVII. Castoriensis Condomensi"
+      }
+    },
+    {
+      "id": "l058",
+      "title": {
+        "fr-FR": "Lettre LVIII. Bossuet au Maréchal de Bellefonds. À Versailles, ce 6 juillet 1677"
+      }
+    },
+    {
+      "id": "l059",
+      "title": {
+        "fr-FR": "Lettre LIX. Bossuet à M. le Roi, Abbé de Haute-Fontaine. À Versailles, ce 10 août 1677"
+      }
+    },
+    {
+      "id": "l060",
+      "title": {
+        "fr-FR": "Lettre LX. (extrait). Le Maréchal de Bellefonds à Bossuet"
+      }
+    },
+    {
+      "id": "l061",
+      "title": {
+        "fr-FR": "Lettre LXI. Bossuet au Maréchal de Bellefonds"
+      }
+    },
+    {
+      "id": "l062",
+      "title": {
+        "fr-FR": "Lettre LXII. Bossuet aux Religieuses DE Port-Royal, Sur la signature pure et simple du Formulaire contre le livre de Jansénius"
+      }
+    },
+    {
+      "id": "l063",
+      "title": {
+        "fr-FR": "Lettre LXIII. Bossuet à M"
+      }
+    },
+    {
+      "id": "l064",
+      "title": {
+        "fr-FR": "Lettres Diverses de l’Autorité des Jugements Ecclésiastiques, Ou Sont Notés les Auteurs des Schismes et des Hérésies"
+      }
+    },
+    {
+      "id": "l065",
+      "title": {
+        "fr-FR": "Epistola LXIV. Viro Clarissimo Amplissimoque. Michaeli Angel0 Riccio"
+      }
+    },
+    {
+      "id": "l066",
+      "title": {
+        "fr-FR": "Epistola LXV. Bossuetus Reverendissimo Patri M. Laurentio de Laurea. Jacobus Benignus, Episcopus Condomensis. In palatio San-Germano 12 kalendas januarii 1672"
+      }
+    },
+    {
+      "id": "l067",
+      "title": {
+        "fr-FR": "Epistola LXVI. Castoriensis Episcopi Condomensi"
+      }
+    },
+    {
+      "id": "l068",
+      "title": {
+        "fr-FR": "Epistola LXVII. Condomensis Castoriensi"
+      }
+    },
+    {
+      "id": "l069",
+      "title": {
+        "fr-FR": "Epistola LXVIII. Bossuetus Eminentissimo Principi Alderando Cibo, S. R. E. Cardinali, Jacobus Benignes, Episcopus Condomensis, Salutem"
+      }
+    },
+    {
+      "id": "l070",
+      "title": {
+        "fr-FR": "Epistola LXIX. Bossuetus ad Innocentium XL"
+      }
+    },
+    {
+      "id": "l071",
+      "title": {
+        "fr-FR": "Lettre LXIX. Bossuet à Innocent XI"
+      }
+    },
+    {
+      "id": "l072",
+      "title": {
+        "fr-FR": "Epistola LXX. Cardinalis Cibo ad Bossuetum"
+      }
+    },
+    {
+      "id": "l073",
+      "title": {
+        "fr-FR": "Lettre LXXI. Bossuet au Maréchal de Bellefonds. À Saint-Germain, ce 22 janvier 1678"
+      }
+    },
+    {
+      "id": "l074",
+      "title": {
+        "fr-FR": "Lettre LXXII. Rossuet à M. Nicaise, Chanoine de la Sainte Chapelle de Dijon. À Saint-Germain, ce 9 février 1679"
+      }
+    },
+    {
+      "id": "l075",
+      "title": {
+        "fr-FR": "Epistola LXXIII. Bossuetus ad Cardinalem Cibo"
+      }
+    },
+    {
+      "id": "l076",
+      "title": {
+        "fr-FR": "Epistola LXXIV. Cardinalis Cibo"
+      }
+    },
+    {
+      "id": "l077",
+      "title": {
+        "fr-FR": "Epistola LXXV. Ad Cardinalem Cibo"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "fr-FR": "Epistola LXXVI. Ad Innocentium XI"
+      }
+    },
+    {
+      "id": "l079",
+      "title": {
+        "fr-FR": "Epistola LXXVII. Cardinalis Cibo"
+      }
+    },
+    {
+      "id": "l080",
+      "title": {
+        "fr-FR": "Epistola LXXVIII. Castoriensis Condomensi"
+      }
+    },
+    {
+      "id": "l081",
+      "title": {
+        "fr-FR": "Lettre LXXX. Bossuet à M. Spon, Docteur en Médecine. Ce 15 octobre 1679"
+      }
+    },
+    {
+      "id": "l082",
+      "title": {
+        "fr-FR": "Lettre LXXXI. Bossuet à M. Mignard, Premier Peintre du Roi"
+      }
+    },
+    {
+      "id": "l083",
+      "title": {
+        "fr-FR": "Epistola LXXXII. Ad Cardinalem Cibo"
+      }
+    },
+    {
+      "id": "l084",
+      "title": {
+        "fr-FR": "Epistola LXXXIII. Bossuetus Castoriensi"
+      }
+    },
+    {
+      "id": "l085",
+      "title": {
+        "fr-FR": "Epistola LXXXIV. Bossuetus Castoriensi"
+      }
+    },
+    {
+      "id": "l086",
+      "title": {
+        "fr-FR": "Epistola LXXXV. Castoriensis Condomensi"
+      }
+    },
+    {
+      "id": "l087",
+      "title": {
+        "fr-FR": "Epistola LXXXVI. Meldensis Castoriensi"
+      }
+    },
+    {
+      "id": "l088",
+      "title": {
+        "fr-FR": "Lettre LXXXVII. Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 23 mai 1681"
+      }
+    },
+    {
+      "id": "l089",
+      "title": {
+        "fr-FR": "Lettre LXXXVIII. Bossuet à M. de Rancé, Abbé de la Trappe. À Paris, ce 22 juin 1681"
+      }
+    },
+    {
+      "id": "l090",
+      "title": {
+        "fr-FR": "Lettre LXXXIX. Bossuet à M. l’abbé Nicaise, Chanoine de la Sainte Chapelle de Dijon. À Paris, ce 8 juillet 1681"
+      }
+    },
+    {
+      "id": "l091",
+      "title": {
+        "fr-FR": "Epistola XC. Castoriensis Condomensi"
+      }
+    },
+    {
+      "id": "l092",
+      "title": {
+        "fr-FR": "Epistola XCI. Condomensis Castoriensi"
+      }
+    },
+    {
+      "id": "l093",
+      "title": {
+        "fr-FR": "Epistola XCII. Condomensis Castoriensi"
+      }
+    },
+    {
+      "id": "l094",
+      "title": {
+        "fr-FR": "Lettre XCIII. Bossuet à M. Dirois, Docteur de Sorbonne. Paris, au mois de septembre 1681"
+      }
+    },
+    {
+      "id": "l095",
+      "title": {
+        "fr-FR": "Lettre XCIV. Bossuet à M. de Rancé, Abbé de la Trappe. À Fontainebleau, au mois de septembre 1681"
+      }
+    },
+    {
+      "id": "l096",
+      "title": {
+        "fr-FR": "Epistola XCV. Breve Innocentii XI ad Episcopum Condomensem"
+      }
+    },
+    {
+      "id": "l097",
+      "title": {
+        "fr-FR": "Epistola XCVI. Bossuetus ad Innocentium XI"
+      }
+    },
+    {
+      "id": "l098",
+      "title": {
+        "fr-FR": "Epistola XCVII. Castoriensis Condomensi"
+      }
+    },
+    {
+      "id": "l099",
+      "title": {
+        "fr-FR": "Lettre XCVIII. Bossuet à M. Dirois, Docteur de Sorbonne. À Paris, ce 10 novembre 1681"
+      }
+    },
+    {
+      "id": "l100",
+      "title": {
+        "fr-FR": "Epistola XCIX. Castoriensis Meldensi"
+      }
+    },
+    {
+      "id": "l101",
+      "title": {
+        "fr-FR": "Lettre C. Bossuet au Cardinal d’Estrées. À Paris, ce 1er décembre 1681"
+      }
+    },
+    {
+      "id": "l102",
+      "title": {
+        "fr-FR": "Lettre CI. Bossuet à M. Dirois, Docteur de Sorbonne. À Paris, ce 29 décembre 1681"
+      }
+    },
+    {
+      "id": "l103",
+      "title": {
+        "fr-FR": "Lettre CII. Bossuet à M. Dirois, Docteur en Sorbonne. À Saint-Germain, ce 26 janvier 1682"
+      }
+    },
+    {
+      "id": "l104",
+      "title": {
+        "fr-FR": "Lettre CIII. Bossuet à M. Dirois, Docteur de Sorbonne. À Paris, ce 6 février 1682"
+      }
+    },
+    {
+      "id": "l105",
+      "title": {
+        "fr-FR": "Lettre CIV. Bossuet à M. Dirois, Docteur de Sorbonne. À Paris, ce 6 mars 1682"
+      }
+    },
+    {
+      "id": "l106",
+      "title": {
+        "fr-FR": "Lettre CV. Bossuet à M. de Rancé, Abbé de la Trappe. À Paris, ce 8 juillet 1682"
+      }
+    },
+    {
+      "id": "l107",
+      "title": {
+        "fr-FR": "Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 13 juillet 1682"
+      }
+    },
+    {
+      "id": "l108",
+      "title": {
+        "fr-FR": "Lettre CVII. Bossuet à M. Dirois, Docteur de Sorbonne. À Versailles, ce 28 octobre 1682"
+      }
+    },
+    {
+      "id": "l109",
+      "title": {
+        "fr-FR": "Lettre CVIII. Bossuet au Grand Condé. Paris, le 1er mai 1682"
+      }
+    },
+    {
+      "id": "l110",
+      "title": {
+        "fr-FR": "Lettre CIX. Bossuet au Grand Condé. Versailles, 30 octobre 1682"
+      }
+    },
+    {
+      "id": "l111",
+      "title": {
+        "fr-FR": "Lettre CX. Bossuet à M. de Rancé, Abbé de la Trappe. À Paris, ce 30 octobre 1682"
+      }
+    },
+    {
+      "id": "l112",
+      "title": {
+        "fr-FR": "Lettre CXI. Bossuet à M. de Rancé, Abbé de la Trappe. À Meaux, ce 13 septembre 1682"
+      }
+    },
+    {
+      "id": "l113",
+      "title": {
+        "fr-FR": "Lettre CXII. Bossuet à M. le Comte d’Ayau, Ambassadeur de France à la Haye. À Meaux, le 17 décembre 1682"
+      }
+    },
+    {
+      "id": "l114",
+      "title": {
+        "fr-FR": "Lettre CXIII. Bossuet à M. de Rangé, Abbé de la Trappe. Paris, ce 31 décembre 1682"
+      }
+    },
+    {
+      "id": "l115",
+      "title": {
+        "fr-FR": "Lettre CXIV. Bossuet à M. de Rancé, Miré de la Trappe. Paris ce samedi 6 février 1683"
+      }
+    },
+    {
+      "id": "l116",
+      "title": {
+        "fr-FR": "Lettre CXV. Bossuet à M. de Rancé, Abbé de la Trappe. À Meaux, ce 16 mai 1682"
+      }
+    },
+    {
+      "id": "l117",
+      "title": {
+        "fr-FR": "Lettre CXVI. Bossuet au Grand Condé. Paris, ce 19 mai 1683"
+      }
+    },
+    {
+      "id": "l118",
+      "title": {
+        "fr-FR": "Lettre CXVII. Bossuet à M. Brueys. Versailles, ce 2 décembre 1683"
+      }
+    },
+    {
+      "id": "l119",
+      "title": {
+        "fr-FR": "Epistola CXVIII. Castoriensis Meldensi"
+      }
+    },
+    {
+      "id": "l120",
+      "title": {
+        "fr-FR": "Epistola CXIX. Meldensis Castoriensi"
+      }
+    },
+    {
+      "id": "l121",
+      "title": {
+        "fr-FR": "Epistola CXX. Castobiensis Meldensi"
+      }
+    },
+    {
+      "id": "l122",
+      "title": {
+        "fr-FR": "Epistola CXXI. Meldensis Castoriensi"
+      }
+    },
+    {
+      "id": "l123",
+      "title": {
+        "fr-FR": "Epistola CXXII. Castoriensis Meldensi"
+      }
+    },
+    {
+      "id": "l124",
+      "title": {
+        "fr-FR": "Lettre CXXIII. Bossuet à M. Dirois, Docteur de Sorbonne. À Germigny, ce 12 août 1684"
+      }
+    },
+    {
+      "id": "l125",
+      "title": {
+        "fr-FR": "Lettre CXXIV. Bossuet à M. de Rancé, Abbé de la Trappe. À Meaux, ce 23 octobre 1684"
+      }
+    },
+    {
+      "id": "l126",
+      "title": {
+        "fr-FR": "Lettre CXXV. Bossuet au Grand Condé. Fontainebleau, 23 septembre 1683"
+      }
+    },
+    {
+      "id": "l127",
+      "title": {
+        "fr-FR": "Lettre CXXVI. Bossuet à Condé. Germigny, 10 octobre 1684"
+      }
+    },
+    {
+      "id": "l128",
+      "title": {
+        "fr-FR": "Lettre CXXVII. Condé à Bossuet. Paris, [avant le 14] octobre 1684"
+      }
+    },
+    {
+      "id": "l129",
+      "title": {
+        "fr-FR": "Lettre CXXVIII. Antoine Bossuet au Grand Condé. Paris, samedi 14 octobre 1684, à minuit"
+      }
+    },
+    {
+      "id": "l130",
+      "title": {
+        "fr-FR": "Lettre CXXIX. Antoine Bossuet au Grand Condé. Paris, octobre 1681. (Postérieure au 14, antérieure au 19.)"
+      }
+    },
+    {
+      "id": "l131",
+      "title": {
+        "fr-FR": "Lettre CXXX. Antoine Bossuet au Grand Condé. Paris, 19 octobre 1684"
+      }
+    },
+    {
+      "id": "l132",
+      "title": {
+        "fr-FR": "Lettre CXXXI. Bossuet au Grand Condé. Paris, 25 octobre 1684"
+      }
+    },
+    {
+      "id": "l133",
+      "title": {
+        "fr-FR": "Lettre CXXXII. Bossuet à Condé. [Germigny] octobre 1684"
+      }
+    },
+    {
+      "id": "l134",
+      "title": {
+        "fr-FR": "Lettre CXXXIII. Bossuet au Grand Condé. À Germigny, 9 octobre 1685"
+      }
+    },
+    {
+      "id": "l135",
+      "title": {
+        "fr-FR": "Lettre CXXXIV. Bossuet au Grand Condé. Meaux, 28 décembre 1684"
+      }
+    },
+    {
+      "id": "l136",
+      "title": {
+        "fr-FR": "Lettre CXXXV. Bossuet au Grand Condé. Germigny, 4 juillet 1685"
+      }
+    },
+    {
+      "id": "l137",
+      "title": {
+        "fr-FR": "Lettre CXXXVI. Bossuet au Grand Condé. Germigny, 27 juillet 1685"
+      }
+    },
+    {
+      "id": "l138",
+      "title": {
+        "fr-FR": "Lettre CXXXVII. Bossuet au Grand Condé. Germigny, 24 septembre 1686"
+      }
+    },
+    {
+      "id": "l139",
+      "title": {
+        "fr-FR": "Lettre CXXXVIII. Bossuet à Henri-Jules de Bourbon, Devenu en décembre 1686 Prince de Condé, par la Mort du Grand Condé, son Père. À Meaux, 18 mars 1692,"
+      }
+    },
+    {
+      "id": "l140",
+      "title": {
+        "fr-FR": "Lettre CXXXIX.. Bossuet au Duc de Noailles. À Meaux, 20 septembre 1684"
+      }
+    },
+    {
+      "id": "l141",
+      "title": {
+        "fr-FR": "Lettre CXL. Bossuet au Duc de Noailles. À Meaux, 23 octobre 1684"
+      }
+    },
+    {
+      "id": "l142",
+      "title": {
+        "fr-FR": "Lettre CXLI. Bossuet au Duc de Noailles. À Meaux, 31 octobre,1084"
+      }
+    },
+    {
+      "id": "l143",
+      "title": {
+        "fr-FR": "Lettre CXLII. Bossuet à M. Dirois, Docteur de Sorbonne. À Meaux, ce 14 novembre 1684"
+      }
+    },
+    {
+      "id": "l144",
+      "title": {
+        "fr-FR": "Lettre CXLIII. Bossuet à M. de Rancé, Abbé de la Trappe. À Paris, ce 8 décembre 1684"
+      }
+    },
+    {
+      "id": "l145",
+      "title": {
+        "fr-FR": "Epistola CXLIV. Castoriensis Meldensi"
+      }
+    },
+    {
+      "id": "l146",
+      "title": {
+        "fr-FR": "Lettre CXLV. Bossuet à M. de Rancé, Abbé de la Trappe. À Meaux, ce 6 janvier 1685"
+      }
+    },
+    {
+      "id": "l147",
+      "title": {
+        "fr-FR": "Lettre CXLVI. Réponse de Bossuet à la Question Envoyée par M. l’évêque d’Angers"
+      }
+    },
+    {
+      "id": "l148",
+      "title": {
+        "fr-FR": "Lettre CXLVII. Bossuet à M. Dirois, Docteur en Sorbonne. À Germigny, ce 30 avril 1685"
+      }
+    },
+    {
+      "id": "l149",
+      "title": {
+        "fr-FR": "Lettre CXLVIII. Bossuet à Dom Mabillon, Religieux Bénédictin. À Germigny, ce 12 août 1(585"
+      }
+    },
+    {
+      "id": "l150",
+      "title": {
+        "fr-FR": "Lettre CXLIX. Dom Mabillon à Bossuet. À Rome, ce 9 octobre 1685"
+      }
+    },
+    {
+      "id": "l151",
+      "title": {
+        "fr-FR": "Lettre CL. Bossuet à Un de ses Diocésains, Réfugié en Hollande. À Meaux, ce 17 octobre 1685"
+      }
+    },
+    {
+      "id": "l152",
+      "title": {
+        "fr-FR": "Déclaration Donnée à M. de Bordes"
+      }
+    },
+    {
+      "id": "l153",
+      "title": {
+        "fr-FR": "Lettre CLI. Bossuet à Monsieur Perrault de l’Académie Française. À Germigny, 25 décembre 1685"
+      }
+    },
+    {
+      "id": "l154",
+      "title": {
+        "fr-FR": "Lettre CLII. Milord, Duc de Perth à Bossuet"
+      }
+    },
+    {
+      "id": "l155",
+      "title": {
+        "fr-FR": "Lettre CLIII. Milord, Duc de Perth à Bossuet. À Windsor, octobre 1685"
+      }
+    },
+    {
+      "id": "l156",
+      "title": {
+        "fr-FR": "Lettre CLIV. Milord Duc de Perth à Bossuet"
+      }
+    },
+    {
+      "id": "l157",
+      "title": {
+        "fr-FR": "Lettre CLV. Mllord Perth à Bossuet. De Londres, ce 12 novembre 1685"
+      }
+    },
+    {
+      "id": "l158",
+      "title": {
+        "fr-FR": "Lettre CLVI. Bossuet à Milord Perth. À Paris, ce 28 novembre 1685"
+      }
+    },
+    {
+      "id": "l159",
+      "title": {
+        "fr-FR": "Lettre CLVII. Mllord Perth à Bossuet. À Edimbourg, ce 8 février 1686"
+      }
+    },
+    {
+      "id": "l160",
+      "title": {
+        "fr-FR": "Lettre CLVIII. Bossuet A UN Juif Retiré EN Angleterre, Qui, après avoir embrasse la religion catholique, l’avait quittée pour passer chez les protestants. À Saint-Germain"
+      }
+    },
+    {
+      "id": "l161",
+      "title": {
+        "fr-FR": "Lettre CLIX. Bossuet à Un Réfugié. À Meaux. 3 avril 1686"
+      }
+    },
+    {
+      "id": "l162",
+      "title": {
+        "fr-FR": "Lettre CLX. Bossuet à Monsieur Hermant, Docteur de Sorbonne, et Chanoine de Beauvais. À Versailles, ce 22 mai 1686"
+      }
+    },
+    {
+      "id": "l163",
+      "title": {
+        "fr-FR": "Lettre CLXI. Bossuet à Dom Thierri Ruinart, Religieux Bénédictin. À Meaux, ce 11 juin 1686"
+      }
+    },
+    {
+      "id": "l164",
+      "title": {
+        "fr-FR": "Lettre CLXII. Dom Ruinart à Bossuet. De l’Abbaye de Saint-Germain-des-Prés, à Paris, ce 14 juin 1686"
+      }
+    },
+    {
+      "id": "l165",
+      "title": {
+        "fr-FR": "Lettre CLXIII. Milord Perth. À Bossuet. De Windsor, ce 23 juillet 1686"
+      }
+    },
+    {
+      "id": "l166",
+      "title": {
+        "fr-FR": "Lettre CLIV. Bossuet à Monsieur de Rancé Abbe de la Trappe. À Paris, ce 14 septembre 1686"
+      }
+    },
+    {
+      "id": "l167",
+      "title": {
+        "fr-FR": "Lettre CLXV. Bossuet à Monsieur l’abbé Nicaise, Chanoine de la Sainte Chapelle de Dijon. À Germigny, ce 7 octobre 1686"
+      }
+    },
+    {
+      "id": "l168",
+      "title": {
+        "fr-FR": "Lettre CLXVI. Milord Perth à Bossuet. Au château de Drummond, ce 15 octobre 1686"
+      }
+    },
+    {
+      "id": "l169",
+      "title": {
+        "fr-FR": "Lettre CLXVII. Milord Perth A Bossuet, Edimbourg, ce 16 novembre 1682"
+      }
+    },
+    {
+      "id": "l170",
+      "title": {
+        "fr-FR": "Lettre CLXVIII. Milord Perth à Bossuet. Edimbourg, ce 15 janvier I6S7"
+      }
+    },
+    {
+      "id": "l171",
+      "title": {
+        "fr-FR": "Lettre CLXIX. Bossuet à M. l’Evêque de Saintes. À Versailles, le 26 février 1687"
+      }
+    },
+    {
+      "id": "l172",
+      "title": {
+        "fr-FR": "Lettre CLXX. Bossuet à M. de Rancé, Abbé de la Trappe. À Meaux, ce 6 avril 1687"
+      }
+    },
+    {
+      "id": "l173",
+      "title": {
+        "fr-FR": "Lettre CLXXI. Bossuet à Un Disciple du P. Malebranche. À Versailles, ce 21 mai 1687"
+      }
+    },
+    {
+      "id": "l174",
+      "title": {
+        "fr-FR": "Lettre CLXXII. Bossuet au R. P. Rapin, de la Compagnie de Jésus. Meaux, 3 août 1687"
+      }
+    },
+    {
+      "id": "l175",
+      "title": {
+        "fr-FR": "Lettre CLXXIII. Milord Perth à Bossuet. Ce 4 septembre 1687"
+      }
+    },
+    {
+      "id": "l176",
+      "title": {
+        "fr-FR": "Lettre CLXXIV. Bossuet à M. de Rancé, Abbé de la Trappe. À Paris, ce 4 octobre 1687"
+      }
+    },
+    {
+      "id": "l177",
+      "title": {
+        "fr-FR": "Lettre CLXXV. Bossuet à M. de Rancé, Abbé de la Trappe. À Meaux, ce 11 novembre 1687"
+      }
+    },
+    {
+      "id": "l178",
+      "title": {
+        "fr-FR": "Lettre CLXXVI. Bossuet à M. de Rancé, Abbé de la Trappe. À Paris, ce 4 décembre 1687"
+      }
+    },
+    {
+      "id": "l179",
+      "title": {
+        "fr-FR": "Proposition"
+      }
+    },
+    {
+      "id": "l180",
+      "title": {
+        "fr-FR": "Observations DE M. L’Evêque DE Meaux, Sur la proposition raisonnée"
+      }
+    },
+    {
+      "id": "l181",
+      "title": {
+        "fr-FR": "Réponse de l’Auteur de la Proposition"
+      }
+    },
+    {
+      "id": "l182",
+      "title": {
+        "fr-FR": "Lettre CLXXVII. Bossuet à Dom François Lami. À Meaux, ce 24 décembre 1687"
+      }
+    },
+    {
+      "id": "l183",
+      "title": {
+        "fr-FR": "Lettre CLXXVIII. Bossuet à Dom François Lami. À Paris, ce 7 janvier 1688"
+      }
+    },
+    {
+      "id": "l184",
+      "title": {
+        "fr-FR": "Lettre CLXXIX. Dom François Lami à Bossuet"
+      }
+    },
+    {
+      "id": "l185",
+      "title": {
+        "fr-FR": "Lettre CLXXX. Bossuet à Dom François Lami. À Versailles, ce 26 janvier 1688"
+      }
+    },
+    {
+      "id": "l186",
+      "title": {
+        "fr-FR": "Lettre CLXXXI. Dom François Lami à Bossuet"
+      }
+    },
+    {
+      "id": "l187",
+      "title": {
+        "fr-FR": "Sentiment DE M. L’Évêque DE Meaux Sur la démonstration de dom François Lami, au sujet de la satisfaction de Jésus-Christ"
+      }
+    },
+    {
+      "id": "l188",
+      "title": {
+        "fr-FR": "Appendice. Objections contre la démonstration"
+      }
+    },
+    {
+      "id": "l189",
+      "title": {
+        "fr-FR": "Lettre CLXXXII. Bossuet à M. le Fèvre d’Ormesson. À Meaux, ce 29 octobre 1687"
+      }
+    },
+    {
+      "id": "l190",
+      "title": {
+        "fr-FR": "Lettre CLXXXIII. Bossuet à Dom Mabillon. À Paris, ce 29 janvier 1688"
+      }
+    },
+    {
+      "id": "l191",
+      "title": {
+        "fr-FR": "Lettre CLXXXIV. Bossuet à M. de Rancé, Abbé de la Trappe. À Germigny, ce 2 septembre 1688"
+      }
+    },
+    {
+      "id": "l192",
+      "title": {
+        "fr-FR": "Lettre CLXXXV. Bossuet à Dom Mabillon. À Coulommiers, ce 9 octobre 1688"
+      }
+    },
+    {
+      "id": "l193",
+      "title": {
+        "fr-FR": "Lettre CLXXXVI. Bossuet à M. l’abbé Renaudot. À Meaux, ce 22 décembre 1688"
+      }
+    },
+    {
+      "id": "l194",
+      "title": {
+        "fr-FR": "Lettre CLXXXVII. M. l’abbé Renaudot à Bossuet"
+      }
+    },
+    {
+      "id": "l195",
+      "title": {
+        "fr-FR": "Lettre CLXXXVIII. Milord Perth à Bossuet. Du château de Sterling, ce 21 janvier 1689"
+      }
+    },
+    {
+      "id": "l196",
+      "title": {
+        "fr-FR": "Lettre CLXXXIX. Bossuet à Milord Perth. À Meaux, ce 14 mars 1089"
+      }
+    },
+    {
+      "id": "l197",
+      "title": {
+        "fr-FR": "Lettre CXC. Bossuet à M. de Rancé, Abbé de la Trappe. À Meaux, ce 15 mars 1689"
+      }
+    },
+    {
+      "id": "l198",
+      "title": {
+        "fr-FR": "Lettre CXCI. Bossuet à M. de Rancé Abbé de la Trappe. À Paris, ce 2 janvier 1690"
+      }
+    },
+    {
+      "id": "l199",
+      "title": {
+        "fr-FR": "Lettre CXCII. Bossuet au R. P. De Montfaucon, Bénédictin. À Versailles, ce 10 avril 1690"
+      }
+    },
+    {
+      "id": "l200",
+      "title": {
+        "fr-FR": "Lettre CXCIII. Bossuet à M. Santeul, Chanoine Régulier de Saint-Victor. À Versailles, ce 15 avril 1690"
+      }
+    },
+    {
+      "id": "l201",
+      "title": {
+        "fr-FR": "Lettre CXCIV. Bossuet à M. de Rancé, Abbé de la Trappe, ce 19 septembre 1690"
+      }
+    },
+    {
+      "id": "l202",
+      "title": {
+        "fr-FR": "Lettre CXCV. Bossuet à M. Santeul, Chanoine Régulier de Saint-Victor. 1690"
+      }
+    },
+    {
+      "id": "l203",
+      "title": {
+        "fr-FR": "Lettre CXCVI. Bossuet à M. Santeul, Chanoine Régulier de Saint-Victor. 1690"
+      }
+    },
+    {
+      "id": "l204",
+      "title": {
+        "fr-FR": "Lettre CXCVII. À M. l’abbé Renaudot. À Meaux, ce 7 janvier 1691"
+      }
+    },
+    {
+      "id": "l205",
+      "title": {
+        "fr-FR": "Lettre CXCVIII. Au P. Mauduit, Prêtre de l’Oratoire. À Versailles, ce 7 mars 1691"
+      }
+    },
+    {
+      "id": "l206",
+      "title": {
+        "fr-FR": "Lettre CXCIX. Bossuet à.M. de Rancé, Abbé de la Trappe. À Paris, ce 29 août 1691"
+      }
+    },
+    {
+      "id": "l207",
+      "title": {
+        "fr-FR": "Lettre CC. Bossu et à M. Nicole. À Meaux, ce 7 décembre 1691"
+      }
+    },
+    {
+      "id": "l208",
+      "title": {
+        "fr-FR": "Lettre CCI. Bossuet au Maréchal de Bellefonds. À Germigny, ce 10 août 1692"
+      }
+    },
+    {
+      "id": "l209",
+      "title": {
+        "fr-FR": "Lettre CCII. Bossuet à M. le Curé de Doué. À Germigny, ce 6 octobre 1092"
+      }
+    },
+    {
+      "id": "l210",
+      "title": {
+        "fr-FR": "Lettre CCIII. À Mademoiselle du Pré. À Versailles, ce 14 février 1693"
+      }
+    },
+    {
+      "id": "l211",
+      "title": {
+        "fr-FR": "Lettre CCIV. Bossuet à Mademoiselle de Scudery"
+      }
+    },
+    {
+      "id": "l212",
+      "title": {
+        "fr-FR": "Lettre CCV. Sur la Mort de M. Pelisson. ce 6 mars 1693"
+      }
+    },
+    {
+      "id": "l213",
+      "title": {
+        "fr-FR": "Lettre CCVI. Bossuet à M. Nicol E. À Meaux, ce 17 août 1693"
+      }
+    },
+    {
+      "id": "l214",
+      "title": {
+        "fr-FR": "Lettre CCVII. Bossuet à Milord Perth. À Meaux, ce 3 septembre 1693"
+      }
+    },
+    {
+      "id": "l215",
+      "title": {
+        "fr-FR": "Lettre CCVIII. Bossuet à N. À Meaux, ce 22 octobre 1693"
+      }
+    },
+    {
+      "id": "l216",
+      "title": {
+        "fr-FR": "Lettre CCIX. M. de la Broue, Évêque de Mirepoix à Bossuet. À Narbonne, ce 19 novembre 1693"
+      }
+    },
+    {
+      "id": "l217",
+      "title": {
+        "fr-FR": "Lettre CCX. Bossuet au Cardinal de Janson. Réponse à une consultation de Jacques II, roi d’Angleterre. Du 22 mai 1693"
+      }
+    },
+    {
+      "id": "l218",
+      "title": {
+        "fr-FR": "Lettre CCXI. Bossuet au Premier Président de Harlay. À Meaux, 2 novembre 1693"
+      }
+    },
+    {
+      "id": "l219",
+      "title": {
+        "fr-FR": "Lettre CCXII. Bossuet au Premier Président de Harlay. À Meaux, 28 novembre 1693"
+      }
+    },
+    {
+      "id": "l220",
+      "title": {
+        "fr-FR": "Lettre CCXIII. L’Eveque d’Amiens au Premier Président de Harlay. Amiens, le 3 novembre 1693"
+      }
+    },
+    {
+      "id": "l221",
+      "title": {
+        "fr-FR": "Lettre CCXIV. L’évêque d’Orléans au Premier Président. D’Orléans, ce 3 novembre"
+      }
+    },
+    {
+      "id": "l222",
+      "title": {
+        "fr-FR": "Lettre CCXV. L’évêque d’Angers au Premier Président de Harlay"
+      }
+    },
+    {
+      "id": "l223",
+      "title": {
+        "fr-FR": "Lettre CCXVI. L’évêque de Chalons-sur-Marne au Premier Président de Harlay. À Châlons, le 4 de décembre 1693"
+      }
+    },
+    {
+      "id": "l224",
+      "title": {
+        "fr-FR": "Lettre CCXVII. Leibniz à Bossuet. Sur l’essence des corps. 1693"
+      }
+    },
+    {
+      "id": "l225",
+      "title": {
+        "fr-FR": "Réflexions de Leibniz. Sur l’avancement de la métaphysique réelle, et particulièrement sur la nature de la substance expliquée par la force"
+      }
+    },
+    {
+      "id": "l226",
+      "title": {
+        "fr-FR": "Réponse de Leibniz. Aux objections faites contre l’explication de la nature du corps, par la notion de la force"
+      }
+    },
+    {
+      "id": "l227",
+      "title": {
+        "fr-FR": "Lettre CCXVIII. Bossuet à Leibniz"
+      }
+    },
+    {
+      "id": "l228",
+      "title": {
+        "fr-FR": "Lettre CCXIX. Leibniz à Bossuet"
+      }
+    },
+    {
+      "id": "l229",
+      "title": {
+        "fr-FR": "Lettre CCXX. Leibniz à Bossuet"
+      }
+    },
+    {
+      "id": "l230",
+      "title": {
+        "fr-FR": "Lettre CCXXI. Bossuet à M. de Rancé, Abbé de la Trappe. À Paris, ce 1er janvier 1694"
+      }
+    },
+    {
+      "id": "l231",
+      "title": {
+        "fr-FR": "Lettre CCXXII. Bossuet à M. de Saint-André, Curé de Vareddes. Germigny, ce 18 juin 1695"
+      }
+    },
+    {
+      "id": "l232",
+      "title": {
+        "fr-FR": "Lettre CCXXIII. Bossuet à M. l’abbé Renaudot. 1695"
+      }
+    },
+    {
+      "id": "l233",
+      "title": {
+        "fr-FR": "Lettre CCXXIV. Bossuet à M. le Pelletier, Evêque d’Angers. Ce 10 juillet 1695"
+      }
+    },
+    {
+      "id": "l234",
+      "title": {
+        "fr-FR": "Lettre CCXXV. M. de Noailles, Évêque de Chalons, à M. le Pelletier Évêque d’Angers. À Paris, ce 18 juillet 1695"
+      }
+    },
+    {
+      "id": "l235",
+      "title": {
+        "fr-FR": "Epistola CCXXVI. Bossuetus ad Cardinale. M. de Aguirre. Datum Meldis, 13 augusti 1695"
+      }
+    },
+    {
+      "id": "l236",
+      "title": {
+        "fr-FR": "Epistola CCXXVII. Cardinalis de Aguirre ad Bossuetum. Illustrissimo et Reverendissimo D. J. B. Bossueto, Episcopo Meldensi. Salutem Plurimam. Neapoli, hàc die 10 septembr"
+      }
+    },
+    {
+      "id": "l237",
+      "title": {
+        "fr-FR": "Lettre CCXXXVIII. Bossuet à Milord Perth. À Meaux, ce 9 octobre 1695"
+      }
+    },
+    {
+      "id": "l238",
+      "title": {
+        "fr-FR": "Lettre CCXXIX. Milord Perth à Bossuet. À Rome, ce 14 novembre 1695"
+      }
+    },
+    {
+      "id": "l239",
+      "title": {
+        "fr-FR": "Lettre CCXXX. M. de Menize, Gentilhomme Ecossais. Ami de Milord Perth, à Bossuet"
+      }
+    },
+    {
+      "id": "l240",
+      "title": {
+        "fr-FR": "Epistola CCXXXI. Bossuetus ad Cardinalem de Aguirre. Parisiis, 13 martii 1696"
+      }
+    },
+    {
+      "id": "l241",
+      "title": {
+        "fr-FR": "Epistola CCXXXII. Cardinalis de Aguirre ad Bossuetum. Romae, die 10 julii 1690"
+      }
+    },
+    {
+      "id": "l242",
+      "title": {
+        "fr-FR": "Lettre CCXXXIII. Bossuet à M. l’abbé Renaudot. À Meaux, ce 23 juin 1898"
+      }
+    },
+    {
+      "id": "l243",
+      "title": {
+        "fr-FR": "Lettre CCXXXIV. Bossuet à M. Pastel, Docteur de Sorbonne. À Meaux, ce 3 août 1696"
+      }
+    },
+    {
+      "id": "l244",
+      "title": {
+        "fr-FR": "Lettre CCXXXV. Bossuet à M. Païen, Lieutenant Général. Président au Présidial de Meaux. À Germigny, au mois d’août 1696"
+      }
+    },
+    {
+      "id": "l245",
+      "title": {
+        "fr-FR": "Lettre CCXXXVI. Bossuet à M. l’abbé Renaudot. 1696"
+      }
+    },
+    {
+      "id": "l246",
+      "title": {
+        "fr-FR": "Lettre CCXXXVII. Bossuet à Milord Perth. À Meaux, ce 16 août 1696"
+      }
+    },
+    {
+      "id": "l247",
+      "title": {
+        "fr-FR": "Lettre CCXXXVIII. Bossuet à M. de Noailles, Archevêque de Paris. À Meaux, 26 décembre 1695"
+      }
+    },
+    {
+      "id": "l248",
+      "title": {
+        "fr-FR": "Lettre CCXXXIX. Bossuet à M. de Noailles, Archevêque de Paris. À Meaux, 1er novembre 1696"
+      }
+    },
+    {
+      "id": "l249",
+      "title": {
+        "fr-FR": "Lettre CCXL. Bossuet à M. de Noailles, Archevêque de Paris. Dimanche"
+      }
+    },
+    {
+      "id": "l250",
+      "title": {
+        "fr-FR": "Lettre CCXLI. Bossuet à M. de Noailles, Archevêque de Paris. À Meaux, 15 août 1697"
+      }
+    },
+    {
+      "id": "l251",
+      "title": {
+        "fr-FR": "Epistola CCXLII. Bossuetus ad Cardinalem Noris. 3 Septembris 1696"
+      }
+    },
+    {
+      "id": "l252",
+      "title": {
+        "fr-FR": "Epistola CCXLIII. Bossuetus Abbati Gravinae. In Germiniaco nostro, XIV kal. decemb. 1696"
+      }
+    },
+    {
+      "id": "l253",
+      "title": {
+        "fr-FR": "Epistola CCXLIV. Illustrissimorum et Reverendisslmorum Ecclesia Principum,"
+      }
+    },
+    {
+      "id": "l254",
+      "title": {
+        "fr-FR": "Epistola CCXLV. Innocentii Papae XII Responsa"
+      }
+    },
+    {
+      "id": "l255",
+      "title": {
+        "fr-FR": "Lettre CCXLVI. Bossuet à Milord Perth. À Meaux, ce 31 mars 1694"
+      }
+    },
+    {
+      "id": "l256",
+      "title": {
+        "fr-FR": "Lettre CCXLVII. Bossuet au Cardinal de Aguirre. 1697"
+      }
+    },
+    {
+      "id": "l257",
+      "title": {
+        "fr-FR": "Epistola Ccxlviil. Cardinalis de Aguirre ad Bossuetum. Romaæ, die 26 septembris 1697"
+      }
+    },
+    {
+      "id": "l258",
+      "title": {
+        "fr-FR": "Lettre CCXLIX. Bossuet au Cardinal de Aguirre. À Versailles, ce 20 décembre 1697"
+      }
+    }
+  ]
+}
