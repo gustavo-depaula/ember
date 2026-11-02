@@ -1,0 +1,104 @@
+{
+  "id": "therese-prieres-1898",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Prières (édition de 1898)",
+    "en-US": "Prayers (1898 selection)",
+    "pt-BR": "Orações (edição de 1898)"
+  },
+  "author": {
+    "fr-FR": "Sainte Thérèse de l’Enfant-Jésus",
+    "en-US": "St. Thérèse of Lisieux",
+    "pt-BR": "Santa Teresinha do Menino Jesus"
+  },
+  "description": {
+    "fr-FR": "Les prières de Thérèse que Mère Agnès de Jésus joignit à l’« Histoire d’une âme » de 1898 : l’Acte d’offrande à l’Amour miséricordieux (9 juin 1895), la Consécration à la sainte Face, les prières à l’Enfant Jésus et à la sainte Face, la prière inspirée par une image de Jeanne d’Arc et la prière pour obtenir l’humilité. Texte de l’édition d’alors, non le texte authentique des Prières, donné à part.",
+    "en-US": "The prayers of Thérèse that Mother Agnes of Jesus added to the 1898 “Histoire d’une âme”: the Act of Oblation to Merciful Love (9 June 1895), the Consecration to the Holy Face, the prayers to the Holy Child and the Holy Face, the prayer inspired by a picture of Joan of Arc and the prayer to obtain humility. The edited text of the time, not the authentic text of the Prayers, which is a separate book.",
+    "pt-BR": "As orações de Teresinha que Madre Inês de Jesus juntou à «História de uma alma» de 1898: o Ato de Oferenda ao Amor Misericordioso (9 de junho de 1895), a Consagração à Santa Face, as orações ao Menino Jesus e à Santa Face, a oração inspirada por uma imagem de Joana d’Arc e a oração para obter a humildade. Texto da edição de então, não o texto autêntico das orações, que é outro livro."
+  },
+  "composed": "1893–1897",
+  "languages": [
+    "fr-FR",
+    "en-US"
+  ],
+  "work": "therese-of-lisieux/prieres-1898",
+  "editions": {
+    "fr-FR": {
+      "editor": "Mère Agnès de Jésus (Pauline Martin), Carmel de Lisieux",
+      "year": 1898
+    },
+    "en-US": {
+      "translator": "T. N. Taylor",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Histoire_d’une_âme/2",
+      "edition": "Histoire d’une âme. Histoire et poésies (1898), 1912 printing, pp. 303-308, the prayers (Wikisource subpages /2/2 to /2/8, proofread against the page scans). The text as Mother Agnes edited it in 1898.",
+      "description": "Prayers only; the footnotes (scripture references and the editor's headnotes) are kept. Wikisource's page apparatus is removed.",
+      "tier": "A",
+      "tierEvidence": "Published in 1898 (reprinted 1912); Thérèse died in 1897 and the editor Mother Agnès died in 1951; the 1898 edition is public domain in the US."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/16772",
+      "edition": "T. N. Taylor (tr.), Soeur Thérèse of Lisieux, the Little Flower of Jesus, London: Burns Oates & Washbourne, 1912, the section \"Prayers of Soeur Thérèse\" (Project Gutenberg 16772). Taylor's eight prayers; the seven that match the French are here.",
+      "description": "Taylor's \"A Morning Prayer\" is not in the French 1898 selection and is left out of this book (it is Pri 10 in the authentic Prières). Footnotes kept with the numbers Taylor gives them across the section.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1912; T. N. Taylor's death date was not verified, but the date of publication makes the text public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p-offrande",
+      "title": {
+        "fr-FR": "Acte d’offrande à l’Amour miséricordieux",
+        "en-US": "Act of Oblation as a Victim of Divine Love"
+      }
+    },
+    {
+      "id": "p-sainte-face-consecration",
+      "title": {
+        "fr-FR": "Consécration à la sainte Face",
+        "en-US": "Act of Consecration to the Holy Face"
+      }
+    },
+    {
+      "id": "p-prieres",
+      "title": {
+        "fr-FR": "Prières",
+        "en-US": "Various Prayers"
+      }
+    },
+    {
+      "id": "p-enfant-jesus",
+      "title": {
+        "fr-FR": "Prière à l’Enfant Jésus",
+        "en-US": "Prayer to the Holy Child"
+      }
+    },
+    {
+      "id": "p-sainte-face",
+      "title": {
+        "fr-FR": "Prière à la sainte Face",
+        "en-US": "Prayer to the Holy Face"
+      }
+    },
+    {
+      "id": "p-jeanne-darc",
+      "title": {
+        "fr-FR": "Prière inspirée par une image de Jeanne d’Arc",
+        "en-US": "Prayer Inspired by a Statue of Joan of Arc"
+      }
+    },
+    {
+      "id": "p-humilite",
+      "title": {
+        "fr-FR": "Prière pour obtenir l’humilité",
+        "en-US": "Prayer to Obtain Humility"
+      }
+    }
+  ]
+}
