@@ -1,0 +1,187 @@
+{
+  "id": "lawrence-practice-presence-of-god-allenson",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Practice of the Presence of God (Allenson, 1906)",
+    "pt-BR": "A prática da presença de Deus (Allenson, 1906)"
+  },
+  "author": {
+    "en-US": "Brother Lawrence of the Resurrection",
+    "pt-BR": "Frei Lourenço da Ressurreição"
+  },
+  "description": {
+    "en-US": "The four Conversations that Abbé de Beaufort took down from Brother Lawrence in 1666-1667 and his sixteen Letters, in the English of the new and revised Allenson edition of 1906, which compared the older translation with the French of 1692, put the letters in chronological order and added a letter (the seventh) and part of the original preface. The letters are therefore numbered differently from the French; the French book of the same work has the Maxims, the Éloge and the Mœurs besides. This edition does not carry Brother Lawrence’s Spiritual Maxims, which are in the separate Allenson book of 1907.",
+    "pt-BR": "As quatro Conversas que o abade de Beaufort recolheu do irmão Lourenço em 1666-1667 e as suas dezesseis Cartas, no inglês da edição nova e revista de Allenson (1906), que cotejou a tradução antiga com o francês de 1692, pôs as cartas em ordem cronológica e acrescentou uma carta (a sétima) e parte do prefácio original. A numeração das cartas difere, portanto, da do francês."
+  },
+  "composed": "1666-1691",
+  "languages": [
+    "en-US"
+  ],
+  "work": "brother-lawrence/pratique-de-la-presence-de-dieu",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (revised by H. G.), H. R. Allenson",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/ThePracticeOfThePresenceOfGod",
+      "edition": "The Practice of the Presence of God, being Conversations and Letters of Brother Lawrence (Nicholas Herman of Lorraine), new and revised edition with an additional letter, London: H. R. Allenson, Ltd. [1906]. Internet Archive scan (Google), OCR text.",
+      "description": "Allenson’s Preface and the extract from the 1692 preface, the four Conversations and the sixteen Letters in the edition’s chronological order with their footnotes. The publisher’s catalogue at the end, the contents table and the page furniture are left out. OCR corrected by a vocabulary check against the corpus’s English books and a few hand fixes; some stray marks and misreadings may remain.",
+      "tier": "A",
+      "tierEvidence": "Brother Lawrence died in 1691; this English edition was published in London in 1906, so it is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "preface-1692",
+      "title": {
+        "en-US": "From the Preface to the Original Edition (1692)"
+      }
+    },
+    {
+      "id": "conversations",
+      "title": {
+        "en-US": "Conversations"
+      },
+      "children": [
+        {
+          "id": "conversation-01",
+          "title": {
+            "en-US": "First Conversation"
+          }
+        },
+        {
+          "id": "conversation-02",
+          "title": {
+            "en-US": "Second Conversation"
+          }
+        },
+        {
+          "id": "conversation-03",
+          "title": {
+            "en-US": "Third Conversation"
+          }
+        },
+        {
+          "id": "conversation-04",
+          "title": {
+            "en-US": "Fourth Conversation"
+          }
+        }
+      ]
+    },
+    {
+      "id": "letters",
+      "title": {
+        "en-US": "Letters"
+      },
+      "children": [
+        {
+          "id": "letter-01",
+          "title": {
+            "en-US": "First Letter"
+          }
+        },
+        {
+          "id": "letter-02",
+          "title": {
+            "en-US": "Second Letter"
+          }
+        },
+        {
+          "id": "letter-03",
+          "title": {
+            "en-US": "Third Letter"
+          }
+        },
+        {
+          "id": "letter-04",
+          "title": {
+            "en-US": "Fourth Letter"
+          }
+        },
+        {
+          "id": "letter-05",
+          "title": {
+            "en-US": "Fifth Letter"
+          }
+        },
+        {
+          "id": "letter-06",
+          "title": {
+            "en-US": "Sixth Letter"
+          }
+        },
+        {
+          "id": "letter-07",
+          "title": {
+            "en-US": "Seventh Letter"
+          }
+        },
+        {
+          "id": "letter-08",
+          "title": {
+            "en-US": "Eighth Letter"
+          }
+        },
+        {
+          "id": "letter-09",
+          "title": {
+            "en-US": "Ninth Letter"
+          }
+        },
+        {
+          "id": "letter-10",
+          "title": {
+            "en-US": "Tenth Letter"
+          }
+        },
+        {
+          "id": "letter-11",
+          "title": {
+            "en-US": "Eleventh Letter"
+          }
+        },
+        {
+          "id": "letter-12",
+          "title": {
+            "en-US": "Twelfth Letter"
+          }
+        },
+        {
+          "id": "letter-13",
+          "title": {
+            "en-US": "Thirteenth Letter"
+          }
+        },
+        {
+          "id": "letter-14",
+          "title": {
+            "en-US": "Fourteenth Letter"
+          }
+        },
+        {
+          "id": "letter-15",
+          "title": {
+            "en-US": "Fifteenth Letter"
+          }
+        },
+        {
+          "id": "letter-16",
+          "title": {
+            "en-US": "Sixteenth Letter"
+          }
+        }
+      ]
+    }
+  ]
+}

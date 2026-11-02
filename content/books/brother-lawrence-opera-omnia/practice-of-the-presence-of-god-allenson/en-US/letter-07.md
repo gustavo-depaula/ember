@@ -1,0 +1,5 @@
+# Seventh Letter
+
+*To the Reverend Mother*
+
+My Reverend and Greatly Honoured Mother, — My prayers, of little worth though they be, will not fail you; I have promised it, and I will keep my word. How happy we might be, if only we could find the Treasure, of which the Gospel tells us, — all else would seem to us nothing. How infinite it is! The more one toils and searches in it, the greater are the riches that one finds. Let us toil therefore unceasingly in this search, and let us not grow weary and leave off, till we have found. [Then follow some private matters, after which the writer goes on to say], I know not what I shall become: it seems to me that peace of soul and repose of spirit descend on me, even in sleep. To be without the sense of this peace, would be affliction indeed; but with this calm in my soul even for purgatory I would console myself I know not what God purposes with me, or keeps me for; I am in a calm so great that I fear nought. What can I fear, when I am with Him? And with Him, in His Presence, I hold myself the most I can. May all things praise Him. Amen. — Yours, etc.

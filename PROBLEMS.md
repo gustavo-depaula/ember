@@ -89,7 +89,7 @@ These books were imported from scans and corrected by script, not proofread. Pro
 These books have no English because the only public-domain translations are badly scanned or don't follow the original's divisions:
 
 - `bernard-opera-omnia/sermones-super-cantica`: Eales (1896) is scanned with misplaced sermon breaks and lost footnote markers.
-- `brother-lawrence-opera-omnia/pratique-de-la-presence-de-dieu`: the English orders and numbers the letters differently, so it would be its own book.
+- `brother-lawrence-opera-omnia/pratique-de-la-presence-de-dieu`: the English is the two books `practice-of-the-presence-of-god-allenson` (1906: Conversations and 16 Letters, numbered chronologically, unlike the French) and `spiritual-maxims-allenson` (1907: Maxims, Character, Gathered Thoughts). There is no public-domain English of Beaufort's *Éloge*. In the 1907 book a few footnotes survive only as fragments inside paragraphs.
 - `francis-of-assisi-opera-omnia/opuscula`: Robinson (1906) groups the pieces differently.
 - `anselm-opera-omnia/{de-veritate,de-libertate-arbitrii,de-casu-diaboli}`: McKeon (1929) doesn't follow Migne's chapters.
 - `ignatius-opera-omnia/ejercicios`: the English has no [1]–[370] section numbers, because Mullan's paragraphs don't match the Spanish units.
