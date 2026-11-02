@@ -1,0 +1,634 @@
+{
+  "id": "adam-sequentiae-wrangham",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Liturgical Poetry of Adam of St. Victor (Wrangham)",
+    "pt-BR": "A poesia litúrgica de Adão de São Vítor (Wrangham)"
+  },
+  "author": {
+    "la": "Adamus de Sancto Victore",
+    "en-US": "Adam of St. Victor",
+    "pt-BR": "Adão de São Vítor"
+  },
+  "description": {
+    "en-US": "Digby S. Wrangham’s English verse translations of the sequences of Adam of St. Victor (1881), made in the original metres from Léon Gautier’s Latin text: sequences I to CII, for the feasts of the Lord, the saints and Our Lady. Gautier’s selection and numbering differ from the thirty-six prosae of Migne, so this is a separate book from the Latin Sequentiae; the same work. English only, from a machine-read scan (some slips remain); the translator’s notes and the doubtful sequences are not imported. One verse to a line.",
+    "pt-BR": "As traduções em verso inglês de Digby S. Wrangham (1881) das sequências de Adão de São Vítor, nos metros originais, a partir do texto latino de Léon Gautier: sequências I a CII."
+  },
+  "composed": "c. 1130-1170 (translation 1881)",
+  "languages": [
+    "en-US"
+  ],
+  "work": "adam/sequentiae",
+  "editions": {
+    "en-US": {
+      "translator": "Digby S. Wrangham",
+      "year": 1881
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/liturgicalpoetry01adamuoft",
+      "edition": "The Liturgical Poetry of Adam of St. Victor, from the text of Gautier, with translations into English in the original metres and short explanatory notes by Digby S. Wrangham, 3 vols (London: Trubner, 1881); archive.org liturgicalpoetry01adamuoft, 02adamuoft, 03adamuoft (OCR text).",
+      "description": "Only the English translations of sequences I-CII are imported; the facing Latin of Gautier, the translator’s notes, the index and the doubtful sequences are left out. Stanza breaks are inferred from sentence ends; the OCR carries slips.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1881; the translator is out of copyright everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s001",
+      "title": {
+        "en-US": "Sequence 1. Christmas"
+      }
+    },
+    {
+      "id": "s002",
+      "title": {
+        "en-US": "Sequence 2. Christmas"
+      }
+    },
+    {
+      "id": "s003",
+      "title": {
+        "en-US": "Sequence 3. Christmas. Is"
+      }
+    },
+    {
+      "id": "s004",
+      "title": {
+        "en-US": "Sequence 4. Christmas"
+      }
+    },
+    {
+      "id": "s005",
+      "title": {
+        "en-US": "Sequence 5. Christmas"
+      }
+    },
+    {
+      "id": "s006",
+      "title": {
+        "en-US": "Sequence 6. Christmas"
+      }
+    },
+    {
+      "id": "s007",
+      "title": {
+        "en-US": "Sequence 7. Christmas"
+      }
+    },
+    {
+      "id": "s008",
+      "title": {
+        "en-US": "Sequence 8. The Circumcision of Christ"
+      }
+    },
+    {
+      "id": "s009",
+      "title": {
+        "en-US": "Sequence 9. Easter"
+      }
+    },
+    {
+      "id": "s010",
+      "title": {
+        "en-US": "Sequence 10. Easter"
+      }
+    },
+    {
+      "id": "s011",
+      "title": {
+        "en-US": "Sequence 11. Easter"
+      }
+    },
+    {
+      "id": "s012",
+      "title": {
+        "en-US": "Sequence 12. Easter"
+      }
+    },
+    {
+      "id": "s013",
+      "title": {
+        "en-US": "Sequence 13. Easter"
+      }
+    },
+    {
+      "id": "s014",
+      "title": {
+        "en-US": "Sequence 14. Easter"
+      }
+    },
+    {
+      "id": "s015",
+      "title": {
+        "en-US": "Sequence 15. Ascension"
+      }
+    },
+    {
+      "id": "s016",
+      "title": {
+        "en-US": "Sequence 16. Whitsuntide"
+      }
+    },
+    {
+      "id": "s017",
+      "title": {
+        "en-US": "Sequence 17. Whitsuntide"
+      }
+    },
+    {
+      "id": "s018",
+      "title": {
+        "en-US": "Sequence 18. Whitsuntide"
+      }
+    },
+    {
+      "id": "s019",
+      "title": {
+        "en-US": "Sequence 19. Whitsuntide"
+      }
+    },
+    {
+      "id": "s020",
+      "title": {
+        "en-US": "Sequence 20. Whitsuntide"
+      }
+    },
+    {
+      "id": "s021",
+      "title": {
+        "en-US": "Sequence 21. Trinity"
+      }
+    },
+    {
+      "id": "s022",
+      "title": {
+        "en-US": "Sequence 22. Trinity. I"
+      }
+    },
+    {
+      "id": "s023",
+      "title": {
+        "en-US": "Sequence 23. Oat the Dedication of a Church"
+      }
+    },
+    {
+      "id": "s024",
+      "title": {
+        "en-US": "Sequence 24. On the Dedication of a Church"
+      }
+    },
+    {
+      "id": "s025",
+      "title": {
+        "en-US": "Sequence 25. On the Dedication of a Church"
+      }
+    },
+    {
+      "id": "s026",
+      "title": {
+        "en-US": "Sequence 26. On the Dedication of a Church"
+      }
+    },
+    {
+      "id": "s027",
+      "title": {
+        "en-US": "Sequence 27. St. Andrew"
+      }
+    },
+    {
+      "id": "s028",
+      "title": {
+        "en-US": "Sequence 28. St. Nicholas"
+      }
+    },
+    {
+      "id": "s029",
+      "title": {
+        "en-US": "Sequence 29. St. Stephen"
+      }
+    },
+    {
+      "id": "s030",
+      "title": {
+        "en-US": "Sequence 30. St. Stephen"
+      }
+    },
+    {
+      "id": "s031",
+      "title": {
+        "en-US": "Sequence 31. St. John the Evangelist"
+      }
+    },
+    {
+      "id": "s032",
+      "title": {
+        "en-US": "Sequence 32. St. John the Evangelist"
+      }
+    },
+    {
+      "id": "s033",
+      "title": {
+        "en-US": "Sequence 33. St. John the Evangelist"
+      }
+    },
+    {
+      "id": "s034",
+      "title": {
+        "en-US": "Sequence 34. S. John the Evangelist"
+      }
+    },
+    {
+      "id": "s035",
+      "title": {
+        "en-US": "Sequence 35. St. Thomas of Canterbury"
+      }
+    },
+    {
+      "id": "s036",
+      "title": {
+        "en-US": "Sequence 36. St. Thomas of Canterbury"
+      }
+    },
+    {
+      "id": "s037",
+      "title": {
+        "en-US": "Sequence 37. St. Thomas of Canterbury"
+      }
+    },
+    {
+      "id": "s038",
+      "title": {
+        "en-US": "Sequence 38. St. Genevieve"
+      }
+    },
+    {
+      "id": "s039",
+      "title": {
+        "en-US": "Sequence 39. St. Agnes"
+      }
+    },
+    {
+      "id": "s040",
+      "title": {
+        "en-US": "Sequence 40. St. Vincent"
+      }
+    },
+    {
+      "id": "s041",
+      "title": {
+        "en-US": "Sequence 41. St. Vincent"
+      }
+    },
+    {
+      "id": "s042",
+      "title": {
+        "en-US": "Sequence 42. S. Vincent"
+      }
+    },
+    {
+      "id": "s043",
+      "title": {
+        "en-US": "Sequence 43. The Conversion of St. Paul"
+      }
+    },
+    {
+      "id": "s044",
+      "title": {
+        "en-US": "Sequence 44. Purification of St. Mary the Virgin"
+      }
+    },
+    {
+      "id": "s045",
+      "title": {
+        "en-US": "Sequence 45. Annuncia Tion of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s046",
+      "title": {
+        "en-US": "Sequence 46. Annunciation of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s047",
+      "title": {
+        "en-US": "Sequence 47. The Invention of the Cross"
+      }
+    },
+    {
+      "id": "s048",
+      "title": {
+        "en-US": "Sequence 48. The Conversion of St. Augustine"
+      }
+    },
+    {
+      "id": "s049",
+      "title": {
+        "en-US": "Sequence 49. St. Nereus and St. Achilleus"
+      }
+    },
+    {
+      "id": "s050",
+      "title": {
+        "en-US": "Sequence 50. Relics of St. Victor"
+      }
+    },
+    {
+      "id": "s051",
+      "title": {
+        "en-US": "Sequence 51. Nativity of St. John the Baptist"
+      }
+    },
+    {
+      "id": "s052",
+      "title": {
+        "en-US": "Sequence 52. St. Peter and St. Paul"
+      }
+    },
+    {
+      "id": "s053",
+      "title": {
+        "en-US": "Sequence 53. St. Peter and St. Paul"
+      }
+    },
+    {
+      "id": "s054",
+      "title": {
+        "en-US": "Sequence 54. St. Peter and St. Paul"
+      }
+    },
+    {
+      "id": "s055",
+      "title": {
+        "en-US": "Sequence 55. Commemoration of St. Paul"
+      }
+    },
+    {
+      "id": "s056",
+      "title": {
+        "en-US": "Sequence 56. S Margaret"
+      }
+    },
+    {
+      "id": "s057",
+      "title": {
+        "en-US": "Sequence 57. Victor"
+      }
+    },
+    {
+      "id": "s058",
+      "title": {
+        "en-US": "Sequence 58. St. Victor"
+      }
+    },
+    {
+      "id": "s060",
+      "title": {
+        "en-US": "Sequence 60. St. James the Greater"
+      }
+    },
+    {
+      "id": "s062",
+      "title": {
+        "en-US": "Sequence 62. The Transfiguration of Our Lord"
+      }
+    },
+    {
+      "id": "s064",
+      "title": {
+        "en-US": "Sequence 64. St. Lawrence"
+      }
+    },
+    {
+      "id": "s065",
+      "title": {
+        "en-US": "Sequence 65. Assumption of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s066",
+      "title": {
+        "en-US": "Sequence 66. Assumption of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s067",
+      "title": {
+        "en-US": "Sequence 67. St. Bartholomew"
+      }
+    },
+    {
+      "id": "s068",
+      "title": {
+        "en-US": "Sequence 68. St. Augustine"
+      }
+    },
+    {
+      "id": "s069",
+      "title": {
+        "en-US": "Sequence 69. St. Augustine"
+      }
+    },
+    {
+      "id": "s070",
+      "title": {
+        "en-US": "Sequence 70. Beheading of St. John Baptist"
+      }
+    },
+    {
+      "id": "s071",
+      "title": {
+        "en-US": "Sequence 71. St. Giles"
+      }
+    },
+    {
+      "id": "s072",
+      "title": {
+        "en-US": "Sequence 72. St. Giles"
+      }
+    },
+    {
+      "id": "s073",
+      "title": {
+        "en-US": "Sequence 73. The Nativity of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s074",
+      "title": {
+        "en-US": "Sequence 74. The Nativity of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s075",
+      "title": {
+        "en-US": "Sequence 75. The Nativity of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s076",
+      "title": {
+        "en-US": "Sequence 76. The Exaltation of the Cross"
+      }
+    },
+    {
+      "id": "s077",
+      "title": {
+        "en-US": "Sequence 77. St. Michael and All Angels"
+      }
+    },
+    {
+      "id": "s078",
+      "title": {
+        "en-US": "Sequence 78. St. Remigius"
+      }
+    },
+    {
+      "id": "s079",
+      "title": {
+        "en-US": "Sequence 79. St. Leger"
+      }
+    },
+    {
+      "id": "s080",
+      "title": {
+        "en-US": "Sequence 80. St., Denis"
+      }
+    },
+    {
+      "id": "s081",
+      "title": {
+        "en-US": "Sequence 81. St. Savinian and St. Potentian"
+      }
+    },
+    {
+      "id": "s082",
+      "title": {
+        "en-US": "Sequence 82. St. Gratian"
+      }
+    },
+    {
+      "id": "s083",
+      "title": {
+        "en-US": "Sequence 83. St. Magloire"
+      }
+    },
+    {
+      "id": "s084",
+      "title": {
+        "en-US": "Sequence 84. St. Magloire"
+      }
+    },
+    {
+      "id": "s085",
+      "title": {
+        "en-US": "Sequence 85. St. Quintin"
+      }
+    },
+    {
+      "id": "s086",
+      "title": {
+        "en-US": "Sequence 86. St. Marcellus"
+      }
+    },
+    {
+      "id": "s087",
+      "title": {
+        "en-US": "Sequence 87. St. Martin"
+      }
+    },
+    {
+      "id": "s088",
+      "title": {
+        "en-US": "Sequence 88. St. Catharine"
+      }
+    },
+    {
+      "id": "s089",
+      "title": {
+        "en-US": "Sequence 89. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s090",
+      "title": {
+        "en-US": "Sequence 90. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s091",
+      "title": {
+        "en-US": "Sequence 91. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s092",
+      "title": {
+        "en-US": "Sequence 92. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s093",
+      "title": {
+        "en-US": "Sequence 93. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s094",
+      "title": {
+        "en-US": "Sequence 94. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s095",
+      "title": {
+        "en-US": "Sequence 95. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s096",
+      "title": {
+        "en-US": "Sequence 96. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s097",
+      "title": {
+        "en-US": "Sequence 97. Of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "s098",
+      "title": {
+        "en-US": "Sequence 98. Of the Holy Apostles"
+      }
+    },
+    {
+      "id": "s099",
+      "title": {
+        "en-US": "Sequence 99. Of the Holy Apostles"
+      }
+    },
+    {
+      "id": "s100",
+      "title": {
+        "en-US": "Sequence 100. Of the Holy Apostles"
+      }
+    },
+    {
+      "id": "s101",
+      "title": {
+        "en-US": "Sequence 101. Of the Holy Evangelists"
+      }
+    },
+    {
+      "id": "s102",
+      "title": {
+        "en-US": "Sequence 102. Of the Holy Evangelists"
+      }
+    }
+  ]
+}
