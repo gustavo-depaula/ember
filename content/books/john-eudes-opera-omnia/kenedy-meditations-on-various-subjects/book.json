@@ -1,0 +1,298 @@
+{
+  "id": "eudes-kenedy-meditations",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Meditations on Various Subjects",
+    "pt-BR": "Meditações sobre diversos assuntos"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "en-US": "The 1947 English selection of John Eudes’s meditations: on prayer, for each day of the week, on the virtues, the Christian life and the priesthood.",
+    "pt-BR": "A seleção inglesa de 1947 das meditações de João Eudes: sobre a oração, para cada dia da semana, sobre as virtudes, a vida cristã e o sacerdócio."
+  },
+  "composed": 1947,
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-eudes/meditations-on-various-subjects",
+  "editions": {
+    "en-US": {
+      "translator": "unnamed translator (introduction by Charles Lebrun, C.J.M.)",
+      "year": 1947
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.liberius.net/livres/Meditations_on_various_subjects_000000345.pdf",
+      "edition": "Meditations on Various Subjects, translated by unnamed translator (introduction by Charles Lebrun, C.J.M.), New York, P. J. Kenedy & Sons, 1947. Text layer of the Bibliothèque Saint Libère PDF (liberius.net), from the Eudist Fathers series, 1946–48.",
+      "description": "Converted by script: running heads and page numbers removed, paragraphs rejoined, hyphenation repaired. The OCR of the PDF text layer leaves some residual errors (for example 0 for O, rn for m); the translator’s introduction and notes are kept. The translation is not aligned chapter by chapter to the French edition, so it is a separate book.",
+      "tier": "B",
+      "tierEvidence": "Copyright 1946–48 P. J. Kenedy & Sons; no renewal in the Copyright Office records 1950–2001."
+    }
+  ],
+  "toc": [
+    {
+      "id": "med-01",
+      "title": {
+        "en-US": "Introduction: General Preface 1x"
+      }
+    },
+    {
+      "id": "med-02",
+      "title": {
+        "en-US": "Meditations for the Feast of the Holy Heart: Of Mary"
+      }
+    },
+    {
+      "id": "med-03",
+      "title": {
+        "en-US": "Meditations for the Feast of the Sacred Heart (1): Of Jesus"
+      }
+    },
+    {
+      "id": "med-04",
+      "title": {
+        "en-US": "Meditations for the Feast of the Sacred Heart (2): Nature of Mental Prayer"
+      }
+    },
+    {
+      "id": "med-05",
+      "title": {
+        "en-US": "Meditation (1): Introduction Xxxv11"
+      }
+    },
+    {
+      "id": "med-06",
+      "title": {
+        "en-US": "Meditation (2): Prayers Before and After Meditation (1)"
+      }
+    },
+    {
+      "id": "med-07",
+      "title": {
+        "en-US": "Meditations for Each Day: Of the Week(1): Of the Week(1)"
+      }
+    },
+    {
+      "id": "med-08",
+      "title": {
+        "en-US": "Meditations for Each Day of the Week': The Divine Life of Jesus"
+      }
+    },
+    {
+      "id": "med-09",
+      "title": {
+        "en-US": "Meditations for Each Day 19: The Holy Childhood of Jesus"
+      }
+    },
+    {
+      "id": "med-10",
+      "title": {
+        "en-US": "Meditations for Each Day 21: Jesus Loved Me During his Childhood"
+      }
+    },
+    {
+      "id": "med-11",
+      "title": {
+        "en-US": "Meditations for Each Day 23: JESUS IN His LIFE OF LABOR"
+      }
+    },
+    {
+      "id": "med-12",
+      "title": {
+        "en-US": "Meditations for Each Day 27: The Passion and Death of Jesus"
+      }
+    },
+    {
+      "id": "med-13",
+      "title": {
+        "en-US": "Meditations for Each Day 29: JESUS MANIFESTS His LOVE OF THE ETERNAL FATHER"
+      }
+    },
+    {
+      "id": "med-14",
+      "title": {
+        "en-US": "Meditations for Each Day 37 (1): Interior Colloquies"
+      }
+    },
+    {
+      "id": "med-15",
+      "title": {
+        "en-US": "Meditations for Each Day 37 (2): Fourth Colloquy"
+      }
+    },
+    {
+      "id": "med-16",
+      "title": {
+        "en-US": "Meditations for Each Day 37 (3): Mortal Sin is a Violation of All the Rights"
+      }
+    },
+    {
+      "id": "med-17",
+      "title": {
+        "en-US": "Meditations for Each Day 37 (4): Our Obligations as Members of Jesus Christ"
+      }
+    },
+    {
+      "id": "med-18",
+      "title": {
+        "en-US": "Meditations for Each Day 37 (5): Baptism is a Death and Resurrection"
+      }
+    },
+    {
+      "id": "med-19",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (1): The Choice of a State of Life"
+      }
+    },
+    {
+      "id": "med-20",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (2): Because of Our Sins We Have Deserved"
+      }
+    },
+    {
+      "id": "med-21",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (3): We Are Slaves of Sin"
+      }
+    },
+    {
+      "id": "med-22",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (4): We Have Merited the Wrath of All Creatures"
+      }
+    },
+    {
+      "id": "med-23",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (5): Seventeenth Meditation"
+      }
+    },
+    {
+      "id": "med-24",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (6): Third Meditation (2)"
+      }
+    },
+    {
+      "id": "med-25",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (7): Prayer to the Most Holy Trinity(6)"
+      }
+    },
+    {
+      "id": "med-26",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (8): Intentions for Our Last Holy Communion"
+      }
+    },
+    {
+      "id": "med-27",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (9): We Should Look Upon This Day as the Last of Our Life and"
+      }
+    },
+    {
+      "id": "med-28",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (10): Let Us Give Ourselves to Jesus, Begging Him to Make"
+      }
+    },
+    {
+      "id": "med-29",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (11): Simplicity of Mary During her Childhood"
+      }
+    },
+    {
+      "id": "med-30",
+      "title": {
+        "en-US": "Meditation: The Choice of a State of Life: Conformity to the Holy Will of God in the Choice (12): Silence of the Blessed Virgin"
+      }
+    },
+    {
+      "id": "med-31",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (1): Of the Holy Heart of Mary"
+      }
+    },
+    {
+      "id": "med-32",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (2): The Holy Heart of Mary is the Principle of All the"
+      }
+    },
+    {
+      "id": "med-33",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (3): The Holy Heart of Mary is Our Treasure"
+      }
+    },
+    {
+      "id": "med-34",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (4): The Gifts of Wisdom, Piety, and Fear"
+      }
+    },
+    {
+      "id": "med-35",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (5): Our Duties to the Sacred Heart of Jesus"
+      }
+    },
+    {
+      "id": "med-36",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (6): Hatred of the Heart of Jesus for the Glory"
+      }
+    },
+    {
+      "id": "med-37",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (7): The Sacred Heart of Jesus is the Temple"
+      }
+    },
+    {
+      "id": "med-38",
+      "title": {
+        "en-US": "Meditations for the Feast and Octave: of the Holy Heart of Mary: The Vigil of the Feast (8): Miracles of the Sacred Heart of Jesus"
+      }
+    },
+    {
+      "id": "med-39",
+      "title": {
+        "en-US": "Meditations for Special Days: Of the Year': Meditation for New Year's Day: Of the Year'"
+      }
+    },
+    {
+      "id": "med-40",
+      "title": {
+        "en-US": "Meditation: The Vigil of the Ascension of Our Lord: Adoration and Thanksgiving: The Vigil of the Ascension of Our Lord"
+      }
+    },
+    {
+      "id": "med-41",
+      "title": {
+        "en-US": "Meditation: The Vigil of the Assumption of Our Lady: Homage and Thanksgiving: The Vigil of the Assumption of Our Lady"
+      }
+    },
+    {
+      "id": "med-42",
+      "title": {
+        "en-US": "Meditation (3): The Feast of the Holy RELICS (2)"
+      }
+    },
+    {
+      "id": "med-43",
+      "title": {
+        "en-US": "Meditation (4): The Last Day of the Year"
+      }
+    }
+  ]
+}
