@@ -1,0 +1,240 @@
+{
+  "id": "eudes-opuscules",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Opuscules et fragments",
+    "en-US": "Opuscules and Fragments",
+    "pt-BR": "Opúsculos e fragmentos"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Trente-trois petites pièces de Jean Eudes : le Memoriale beneficiorum Dei, le Vœu, les mémoires et requêtes, la Protestation de haine contre le péché, le Contrat d’une sainte alliance avec la Vierge, la Lettre à la très sainte Vierge, le Testament, des exhortations, des maximes, et l’Office et la Messe du Bienheureux.",
+    "en-US": "Thirty-three short pieces by John Eudes: the Memoriale beneficiorum Dei, the Vow, memoirs and petitions, the Protestation of hatred against sin, the Contract of a holy alliance with the Virgin, the Letter to the Most Holy Virgin, the Testament, exhortations, maxims, and the Office and Mass of the Blessed John Eudes.",
+    "pt-BR": "Trinta e três pequenas peças de João Eudes: o Memoriale beneficiorum Dei, o Voto, memoriais e petições, o Protesto de ódio ao pecado, o Contrato de santa aliança com a Virgem, a Carta à santíssima Virgem, o Testamento, exortações, máximas, e o Ofício e a Missa do Beato João Eudes."
+  },
+  "composed": "1630–1680",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/opuscules",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_12)_000000357.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 12, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "op-01",
+      "title": {
+        "fr-FR": "Memoriale beneficiorum Dei"
+      }
+    },
+    {
+      "id": "op-02",
+      "title": {
+        "fr-FR": "Introduction (1)"
+      }
+    },
+    {
+      "id": "op-03",
+      "title": {
+        "fr-FR": "Introduction (2)"
+      }
+    },
+    {
+      "id": "op-04",
+      "title": {
+        "fr-FR": "II. voeu"
+      }
+    },
+    {
+      "id": "op-05",
+      "title": {
+        "fr-FR": "III. mémoires aux peres de l'oratoire"
+      }
+    },
+    {
+      "id": "op-06",
+      "title": {
+        "fr-FR": "IV. REQUETE à l'Assemblée du Clergé de France"
+      }
+    },
+    {
+      "id": "op-07",
+      "title": {
+        "fr-FR": "V. statutorum congregationis jesu et mariae"
+      }
+    },
+    {
+      "id": "op-08",
+      "title": {
+        "fr-FR": "VI. requête a monseigneur d'angennes"
+      }
+    },
+    {
+      "id": "op-09",
+      "title": {
+        "fr-FR": "VII. requete a l'archeveque de rouen 10"
+      }
+    },
+    {
+      "id": "op-10",
+      "title": {
+        "fr-FR": "VIII. EXHORTATION A SES PRÊTRES au temps de la Fronde"
+      }
+    },
+    {
+      "id": "op-11",
+      "title": {
+        "fr-FR": "IX. SUR LA VÉN. MARGUERITE DE BEAUNE qui venait de mourir"
+      }
+    },
+    {
+      "id": "op-12",
+      "title": {
+        "fr-FR": "XI. REQUÊTE A MONSEIGNEUR MOLÉ, Évêque de Bayeux"
+      }
+    },
+    {
+      "id": "op-13",
+      "title": {
+        "fr-FR": "XII. sur la soeur marie des vallées 17"
+      }
+    },
+    {
+      "id": "op-14",
+      "title": {
+        "fr-FR": "XIII. protestation de haine contre le péché 18"
+      }
+    },
+    {
+      "id": "op-15",
+      "title": {
+        "fr-FR": "XIV. élévation a jésus pendant un orage 19"
+      }
+    },
+    {
+      "id": "op-16",
+      "title": {
+        "fr-FR": "XV. EXHORTATION aux Religieuses de Notre-Dame de Charité, à l'occasion du renouvellement de leurs vœux"
+      }
+    },
+    {
+      "id": "op-17",
+      "title": {
+        "fr-FR": "XVI. CONTRAT d'une sainte Alliance avec la très sacrée Vierge Marie, Mère de Dieu"
+      }
+    },
+    {
+      "id": "op-18",
+      "title": {
+        "fr-FR": "XVII. lettre a la tres sainte vierge 24"
+      }
+    },
+    {
+      "id": "op-19",
+      "title": {
+        "fr-FR": "XVIII. testament du bienheureux jean eudes 25"
+      }
+    },
+    {
+      "id": "op-20",
+      "title": {
+        "fr-FR": "XIX. MÉMOIRE Sur la Congrégation de Jésus et Marie"
+      }
+    },
+    {
+      "id": "op-21",
+      "title": {
+        "fr-FR": "XX. ACTE D'ASSOCIATION Aux prières de la Congrégation de Jésus et M arie"
+      }
+    },
+    {
+      "id": "op-22",
+      "title": {
+        "fr-FR": "XXI. ACCORD Entre les Prêtres de la Congrégation de Jésus et Marie et les Religieuses de Notre-Dame de"
+      }
+    },
+    {
+      "id": "op-23",
+      "title": {
+        "fr-FR": "XXII. FORMULE DE VOEU DE CHASTETÉ Pour une personne du monde"
+      }
+    },
+    {
+      "id": "op-24",
+      "title": {
+        "fr-FR": "XXIII. EXHORTATION Du B. Jean Eudes à ses Missionnaires"
+      }
+    },
+    {
+      "id": "op-25",
+      "title": {
+        "fr-FR": "XXIV. sur le saint nom de jésus 41"
+      }
+    },
+    {
+      "id": "op-26",
+      "title": {
+        "fr-FR": "XXV. maximes sur la supériorité 42"
+      }
+    },
+    {
+      "id": "op-27",
+      "title": {
+        "fr-FR": "XXVI. CONSEILS Sur l'admission des sujets à N. D. de Charité"
+      }
+    },
+    {
+      "id": "op-28",
+      "title": {
+        "fr-FR": "XXVIII. EXTRAITS Du Registre des Fondateurs et Bienfaiteurs signalés de la Congrégation de Jésus et Marie"
+      }
+    },
+    {
+      "id": "op-29",
+      "title": {
+        "fr-FR": "XXIX. NOTE Pour mettre en tête du Régistre des Bienfaiteurs de chaque 44 Hérambourg, I, ch. 5; Costil"
+      }
+    },
+    {
+      "id": "op-30",
+      "title": {
+        "fr-FR": "XXX. DEUX ARTICLES NÉCROLOGIQUES Écrits de la main du B. Jean Eudes dans un Nécrologe général de la"
+      }
+    },
+    {
+      "id": "op-31",
+      "title": {
+        "fr-FR": "XXXII. EXTRAITS Du Livre des Visites du Séminaire de Rouen"
+      }
+    },
+    {
+      "id": "op-32",
+      "title": {
+        "fr-FR": "XXXIII. PENSÉES ET MAXIMES du Bienheureux Jean Eudes qui nous ont été conservées par ses biographes (1)"
+      }
+    },
+    {
+      "id": "op-33",
+      "title": {
+        "fr-FR": "XXXIII. PENSÉES ET MAXIMES du Bienheureux Jean Eudes qui nous ont été conservées par ses biographes (2)"
+      }
+    }
+  ]
+}
