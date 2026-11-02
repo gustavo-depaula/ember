@@ -1,0 +1,2234 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De processione Spiritus sancti contra Graecos</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DePrSpS2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head>PROLOGUS.</head>
+<pb n="0285A"/>
+<p>Negatur a Graecis quod Spiritus sanctus de Filio
+procedat, sicut nos Latini confitemur. Nec recipiunt
+doctores nostros Latinos, quos in hoc sequimur.
+Qui quoniam evangelia nobiscum venerantur, et in
+aliis de trino et uno Deo credunt hoc ipsum per omnia
+quod nos, qui de eadem re certi sumus: spero per
+auxilium ejusdem Spiritus sancti, quia si malunt
+solidae veritati acquiescere quam pro inani victoria
+ contendere, per hoc quod absque ambiguitate
+confitentur, ad hoc quod non recipiunt, rationabiliter
+duci possunt. Quamvis igitur multi sint, qui
+hoc melius me possint efficere; tamen quoniam mihi
+a pluribus hoc injungitur, quorum petitioni, tum
+pro debito veritatis amore, tum pro eorum charitate
+<pb n="0285B"/>
+et religiosa voluntate non audeo resistere; invoco
+eumdem Spiritum sanctum ut ad hoc me dignetur
+dirigere. Hac itaque spe pro meae scientiae
+ humilitate, scientioribus altiora relinquens,
+quod postulant aggrediar; et Graecorum fide atque
+his, quae credunt indubitanter et confitentur,
+pro certissimis argumentis ad probandum quod
+ non credunt, utar.</p>
+</div2>
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+<p> <hi>Quae communis est Latinis et Graecis fides de Trinitate</hi>.</p>
+<p>Credunt quidem unum et solum ac perfectum esse
+Deum, nec ullam eum habere partem, sed totum
+esse quidquid est. Hunc quoque confitentur esse
+Patrem, et Filium, et Spiritum sanctum; ita ut sive
+<pb n="0285C"/>
+solus dicatur Pater, aut Filius, aut Spiritus sanctus;
+sive duo simul, Pater et Filius, aut Pater et Spiritus
+sanctus, aut Filius et Spiritus sanctus; sive tres
+<pb n="0286A"/>
+simul, Pater, Filius, et Spiritus sanctus, idem totus
+et perfectus designetur Deus, quamvis non idem
+significet nomen Patris aut Filii, quod nomen Dei.
+Non enim idem est esse Deum, quod est esse Patrem,
+aut Filium. Nomen autem Spiritus sancti,
+ideo quia Spiritus sanctus alicujus intelligitur spiritus,
+pro relativo nomine ponitur. Nam quamvis
+Pater sit spiritus, et sanctus; et Filius sit spiritus,
+et sanctus; non est tamen Pater alicujus spiritus,
+nec Filius alicujus est spiritus: sicut Spiritus
+sanctus alicujus est spiritus; est enim spiritus
+Dei, et spiritus Patris, et Filii. Quamvis enim Graeci
+negent de Filio illum procedere; non tamen negant
+eum esse spiritum Filii. Credunt quoque et confitentur
+Deum de Deo esse nascendo, et Deum esse
+<pb n="0286B"/>
+de Deo procedendo; quia Filius Deus est de
+Patre Deo, nascendo; et Spiritus sanctus Deus est
+de Patre Deo, procedendo. Nec putant alium
+esse Deum, qui nascitur, quam de quo nascitur: et
+qui procedit, quam de quo procedit, quamvis secundum
+nomina significantia quia est de quo aliquis
+nascitur, et est qui de aliquo nascitur, et est qui
+de aliquo procedit, pluralitatem admittat; secundum
+quam plures et alii sunt ab invicem Pater,
+et Filius, et Spiritus sanctus. Nam cum dicitur
+Deus esse Pater, significatur esse de quo
+aliquis nascitur; et cum nominatur Filius, intelligitur
+esse qui de aliquo nascitur; et quando Spiritus
+sanctus nominatur, quia non absolute spiritum,
+sed spiritum Dei intelligimus, monstratur esse qui
+<pb n="0286C"/>
+de aliquo procedit. Sed cum dicitur quia Filius est
+de Patre, et Spiritus sanctus est de Patre intelligitur <emph>50</emph> 
+ quia hoc quod est Filius, aut Spiritus
+<pb n="0287A"/>
+sanctus, habent de Patre. Sed alio modo intelligitur
+Filius esse de Patre, et aliter Spiritus sanctus:
+Filius enim est de Patre suo, id est de Deo qui est
+Pater ejus; Spiritus sanctus vero non est de Deo patre
+suo, sed tantum de Deo qui est Pater. Ergo Filius
+secundum quod est de Deo, dicitur Filius ejus; et
+ille de quo est, Pater ejus: Spiritus sanctus autem
+non secundum quod est de Deo est filius ejus
+; nec ille de quo est pater ejus. Certum est etiam
+quia Deus non est Pater aut Filius, aut Spiritus
+alicujus nisi Dei; nec ulla res est Deus, nisi
+idem Pater, et Filius, et Spiritus sanctus. Et sicut
+unus Deus est, sic unus tantum Pater, unus Filius,
+unus Spiritus sanctus est. Unde fit ut non sit illa
+Trinitate Pater nisi ejusdem Filii; nec Filius, nisi
+<pb n="0287B"/>
+ejusdem Patris; neque Spiritus sanctus alicujus spiritus,
+nisi ejusdem Patris et Filii. Haec itaque sola
+causa pluralitatis est in Deo; ut Pater, et Filius, et
+Spiritus sanctus dici non possint de invicem, sed alii
+sint ab invicem; quia praedictis duobus modis
+est Deus de Deo. Quod totum potest dici relatio:
+nam, quoniam Filius existit de Deo nascendo, et
+Spiritus sanctus, procedendo; ipsa diversitate nativitatis,
+et processionis referuntur ad invicem, ut
+diversi et alii ab invicem. Et quando substantia
+habet esse de substantia, duae fiunt ibi relationes insociabiles;
+si secundum illas nomina ponantur
+substantiae: cum enim homo est, gignendo, de homine;
+dicitur homo, de quo est homo, pater; et
+homo, qui est de homine, filius. Impossibilile igitur
+<pb n="0287C"/>
+est patrem esse illum filium, cujus pater est; et
+filium esse illum patrem, cujus filius est: quamvis
+patrem esse filium, et filium esse patrem nihil prohibeat,
+cum unus homo pater est, et filius; quoniam
+ad alium est pater, et ad alium filius. Nempe
+cum Isaac sit pater Jacob, et filius Abrahae; pater
+est filius, et filius pater sine repugnantia; quoniam
+ad alium pater dicitur quam ad suum patrem;
+et filius ad alium quam ad suum filium; patrem
+autem esse in eodem Isaac illum filium, cujus
+pater est; aut filium esse illum patrem, cujus
+est filius, non est possibile. Ita ergo in Deo,
+cum Deus sit Pater, et Filius, et Spiritus sanctus;
+nec sit Pater, nisi ejusdem Filii; nec Filius, nisi
+ejusdem Patris; nec Spiritus alicujus, nisi
+<pb n="0287D"/>
+ejusdem Patris et Filii: Pater non est Filius, aut
+Spiritus sanctus; Filius non est Pater; nec Spiritus
+<pb n="0288A"/>
+sanctus est Pater. Quippe quoniam Filius
+est de Patre, et Spiritus sanctus est de Patre;
+nec ille, de quo est aliquis, potest esse ille qui de se
+est; nec ille, qui de aliquo est, valet esse is de quo
+est, sicut jam dictum est: idcirco nec Pater est
+Filius, aut Spiritus sanctus; nec Filius, sive Spiriritus
+sanctus est Pater. Filius autem, ut interim
+aliam causam dicam, quoniam nondum constat quod
+Spiritus sanctus de illo sit et procedat, ideo non
+est Spiritus sanctus, nec Spiritus sanctus est Filius;
+quia Filius, nascendo, habet esse de Patre; Spiritus
+sanctus vero, non nascendo, sed procedendo, nec
+Filius potest esse suus spiritus, nec Spiritus sanctus
+valet esse ille cujus spiritus est.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p>
+          <pb n="0288B"/> <hi>Quomodo indivisibilis unitas, et insociabilis pluralitas
+in Deo conveniant</hi>.</p>
+<p>His praemissis, quomodo indivisibilis unitas, et insociabilis
+pluralitas in Deo se ad invicem habeant,
+inquiramus. Quoniam autem haec, quae dicta sunt,
+pariter credimus indubitanter et confitemur: et nos
+qui dicimus Spiritum sanctum de Filio procedere,
+et Graeci qui nobiscum de hac re non sentiunt, debemus
+absque ulla ambiguitate, quae ex his necessarie
+consequuntur, uno consensu suscipere. Sequitur
+enim secundum unitatis Dei, quae nullas habet partes,
+proprietatem; ut quidquid de uno Deo, qui totus
+est quidquid est, dicitur, de toto Deo Patre dicatur,
+et de Filio, et de Spiritu sancto; quia unusquisque
+solus, et totus, et perfectus Deus est. Supradicta
+<pb n="0288C"/>
+vero relationis oppositio, quae ex hoc nascitur
+ quia supradictis duobus modis Deus de Deo est,
+prohibet Patrem, et Filium, et Spiritum sanctum de
+invicem dici, et propria singulorum aliis attribui.
+Sic ergo hujus unitatis, et hujus relationis consequentiae
+se contemperant; ut nec pluralitas quae
+sequitur relationem transeat ad ea in quibus praedictae
+simplicitas sonat unitatis; nec unitas cohibeat
+pluralitatem, ubi eadem relatio significatur;
+quatenus nec unitas amittat aliquando suam consequentiam,
+ubi non obviat aliqua relationis oppositio;
+nec relatio perdat quod suum est, nisi ubi
+obsistit unitas inseparabilis. Quod si per exempla
+consideremus, clarius apparebit qualiter quidem
+unitatis simplicitas a se excludat pluralitatem,
+<pb n="0288D"/>
+quae est in relativorum nominum significatione, facile
+est cognoscere: confitemur enim quia Pater non
+<pb n="0289A"/>
+est Filius, aut Spiritus sanctus; nec Filius Pater,
+aut Spiritus sanctus; nec Spiritus sanctus Pater, aut
+Filius. Sequitur ergo alios ab invicem, et plures
+esse, Patrem, et Filium, et Spiritum sanctum. At
+Pater est Deus, Filius est Deus, et Spiritus sanctus
+est Deus. Quid itaque consequentius, si praedicta
+personarum pluralitas suam servat proprietatem,
+quam Patrem et Filium et Spiritum sanctum plures
+deos esse, et alios ab invicem? Sed hoc nullatenus
+admittit inviolabilis simplicitas Deitatis, quam
+unum solum Deum esse credimus. Sic repellit unitas
+essentiae Dei, relativorum consequentiam. Considerandum
+quoque est quomodo relationum pluralitas
+obviet unitatis consequentiae; si prius posuerimus
+aliqua ex his, in quibus nulla obsistit oppositio.
+<pb n="0289B"/>
+Dicimus unum Deum esse Patrem, et esse Filium,
+et esse Spiritum sanctum, et unum eumdemque
+ Deum esse, sive singuli, sive bini, sive tres
+simul dicantur. Si ergo Deus est aeternus, propter
+unitatem Deitatis, ex necessitate sequitur quia
+aeternus est Pater, aeternus est Filius, aeternus est
+Spiritus sanctus. Et quoniam sive singuli, sive plures
+simul, sunt unus Deus; non est nisi unus aeternus.
+Similis consequentia, si Deus dicitur creator, sive
+justus, sive aliquid aliorum, in quibus nulla praedicta
+intelligitur relatio.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p> <hi>Quomodo unitatis Dei consequentiam restringat relatio</hi>.</p>
+<p>Videamus nunc quomodo hanc unitatis Dei
+<pb n="0289C"/>
+consequentiam restringat relatio. Dicimus enim quia
+Deus est Pater. Quoniam ergo unus est Deus Pater,
+et Filius, et Spiritus sanctus, exigit unitas Dei ut
+Filius sit Pater, et Spiritus sanctus sit Pater; sed
+obviat relatio quae prohibet Filium aut Spiritum
+sanctum esse Patrem. Quippe nec natura permittit,
+nec intellectus capit existentem de aliquo esse de
+quo existit; aut de quo existit, esse existentem de
+se. Existit autem Filius et Spiritus sanctus de Patre;
+quare non potest Filius aut Spiritus sanctus
+esse Pater, quamvis Deus sit Pater, et unus idemque
+Deus sit Pater et Filius et Spiritus sanctus.
+Idipsum cognoscitur, si dicitur Deus esse Filius:
+vult enim unitatis Dei consequentia, ut et Pater,
+et Spiritus sanctus sit Filius. Sed Pater, de
+<pb n="0289D"/>
+quo est Filius, non potest esse qui de se est; Spiritus
+vero sanctus, qui existit de Patre procedendo, non
+est ille qui est de Patre nascendo. Item: Cum dicitur,
+Deus est Spiritus sanctus; requirit unitas praedicta
+<pb n="0290A"/>
+Patrem quoque et Filium esse Spiritum sanctum;
+sed nec Pater, de quo est Spiritus sanctus
+potest ille esse qui de se est; nec Filius, qui
+existit de Patre nascendo, est ille qui de eodem <emph>51</emph> 
+ Patre est procedendo, id est Spiritus sanctus.
+Cum autem apparebit quia Spiritus sanctus est de
+Filio, tunc quoque palam erit quia propter hoc nequit
+esse Filius Spiritus sanctus, et Spiritus sanctus
+Filius. Consideremus adhuc quomodo supradictae
+oppositiones obsistant consequentiae
+praedictae unitatis: Deus est de Deo. Hoc ergo semel
+accepto, quoniam idem Deus est Pater et Filius
+et Spiritus sanctus; sequitur secundum hanc identitatem
+ut Deus Pater sit Deus de Deo, et Deus de
+quo est Deus; et similiter Filius, Deus de Deo, et
+<pb n="0290B"/>
+Deus de quo est Deus; et eodem modo Spiritus
+sanctus. Verum quaerere utrum unusquisque sit
+Deus de quo est Deus, non est aliud quam considerare
+utrum singulus quisque sit Deus de Deo.
+Non enim potest de Deo Deus esse, nisi Pater
+aut Filius aut Spiritus sanctus; et nisi de Patre aut
+de Filio aut de Spiritu sancto. Inspiciamus ergo
+utrum unusquisque sit Deus de Deo, et patebit
+utrum sit singulus quisque Deus de quo est Deus.
+Sed Pater non potest esse de Deo, propter praedictam
+oppositionem. Cum enim non sit Deus nisi
+aut Pater aut Filius aut Spiritus sanctus, aut duo
+ex his, aut tres simul; non potest esse Deus Pater
+de Deo, nisi aut de Patre, hoc est de seipso, aut de
+Filio, aut de Spiritu sancto, aut de duobus, aut
+<pb n="0290C"/>
+de tribus. De seipso non potest esse; quia existens
+de aliquo, et de quo existit non potest idem esse.
+De Filio non est; quia Filius est de ipso: et ideo
+non potest esse de Filio. De Spiritu sancto non est,
+quia de illo est Spiritus sanctus; nec valet esse ille
+ qui de se est. De duobus vel tribus simul nequit
+esse Pater, propter eamdem oppositionis rationem.
+Filium vero Deum necesse est esse de Patre Deo,
+quia Pater non est de illo; de Filio vero, hoc est de
+seipso esse nequit; non est idem existens de aliquo,
+et de quo existit. Utrum autem sit de Spiritu sancto,
+aut Spiritus sanctus de illo post monstrabitur.
+Sed prius dicemus de Spiritu sancto si secundum
+consequentiam praedictam sit de Patre, et de seipso.
+De Patre quidem necesse est eum esse; quia nulla
+<pb n="0290D"/>
+obviat oppositio: non enim est Pater de illo. De
+seipso vero impossibile est eum esse; quia non potest
+existens de aliquo, et de quo est, idem esse.
+In his omnibus nihil obviat consequentiae unius identitatis
+<pb n="0291A"/>,
+nisi aliqua de supradictis oppositio. Quod
+vero in his cognoscitur, in omnibus, quae de Deo
+dicuntur, immutabiliter evenire necesse est.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p> <hi>Cum Filius non sit de Spiritu sancto, ipse Spiritus ex
+Filio procedit</hi>.</p>
+<p>Nunc quaerendum est per supradictas irrefragabiles
+rationes, utrum Filius sit de Spiritu sancto,
+aut Spiritus sanctus de Filio. Dico quia sicut, per
+supradictam rationem, aut Pater est de Filio, aut
+Filius de patre: et similiter aut est de Spiritu sancto
+Pater aut Spiritus sanctus de Patre; ita est
+aut Filius de Spiritu sancto, aut Spiritus sanctus de
+Filio. Quod qui negat, neget etiam necesse est unum
+solum Deum esse; aut Filium Deum esse; aut Spiritum
+<pb n="0291B"/>
+sanctum Deum esse; aut Deum esse de Deo,
+quia ex his sequitur quod dico. Amplius: Non est
+ Filius aut Spiritus sanctus de Patre, nisi de Patris
+essentia, quae una est illi cum Filio et Spiritu
+sancto. Cum ergo dicitur quia Filius est de Deo Patre;
+si idem Deus est Pater et Spiritus sanctus,
+sequitur, secundum unitatem Deitatis, ut sit etiam
+de Spiritu sancto. Eodem modo: Quando confitemur
+Spiritum sanctum esse de Deo Patre; si idem
+Deus est, Pater et Filius, sequitur secundum eamdem
+Deitatis unitatem, ut sit et de Filio. Ex his
+igitur aperte cognoscitur quia aut Filius est de Spiritu
+sancto, aut Spiritus sanctus de Filio; quoniam
+utrumque nequit esse verum aut falsum. Necesse
+est ergo Spiritum sanctum esse de Filio; si
+<pb n="0291C"/>
+potest monstrari Filium non esse de illo. Nam si
+quis dicit non sequi Filium esse de Patre et de Spiritu
+sancto, idcirco quoniam unus est Deus,
+Pater et Spiritus sanctus; etiamsi non opponitur
+aliud, aut Spiritum sanctum esse de Patre et
+Filio, quoniam unus est Deus Pater et Filius; quamvis
+non sit Filius de Spiritu sancto: consideret,
+quia cum est Deus de Deo, aut est totus de toto, aut
+pars de parte, aut totus de parte, aut pars de toto.
+Sed Deus nullam habet partem: impossibile igitur
+est ut sit Deus de Deo, aut ut totus de parte,
+aut ut pars de toto, aut ut pars de parte. Necesse
+est igitur ut, si est Deus de Deo, totus sit de toto.
+<pb n="0291D"/>
+Cum ergo Filius dicitur esse de Deo qui est Pater
+<pb n="0292A"/>
+et Spiritus sanctus, aut alius totus erit Pater,
+alius totus Spiritus sanctus, ut de toto Patre sit, et
+non de toto Spiritu sancto; aut si idem totus Deus
+est Pater et Spiritus sanctus: ex necessitate cum
+est de Deo toto, qui unus totus est Pater et Spiritus
+sanctus; est pariter de Patre et Spiritu sancto, si
+non repugnat aliud. Eodem modo, cum dicitur Spiritus
+sanctus esse de toto Deo, qui est Pater et Filius;
+aut alius totus erit Pater, alius totus Filius, ut sit de
+toto Patre, et non de toto Filio Spiritus sanctus; aut
+cum est de Patre Spiritus sanctus, non potest non
+esse de Filio; si non est Filius de Spiritu sancto.
+Nulla enim alia ratione potest negari Spiritus
+sanctus esse de Filio.</p>
+<p>Dicet aliquis: Si quoniam unus Deus est Pater
+<pb n="0292B"/>
+et Spiritus sanctus, cum Filius est de Patre, sequitur
+eum esse de Spiritu sancto; aut cum Spiritus
+sanctus est de Patre, quia idem Deus est Pater
+et Filius, est etiam de Filio: cum Pater gignit Filium,
+necesse est eum gignere quoque Spiritum
+sanctum; quia unus idemque Deus est Filius et
+Spiritus sanctus. Et cum Spiritus sanctus procedit
+de Patre, propter eamdem unitatem Deitatis Filii
+et Spiritus sancti, procedit et Filius de Patre ita
+sicut Spiritus sanctus. Si vero unitas Dei in Filio
+et Spiritu sancto non illam habet vim consequentiae,
+ut uterque similiter sit genitus et procedens,
+videtur quod non ex eo quod unus Deus
+est Pater et Spiritus sanctus sequitur Filium
+esse de Spiritu sancto, aut Spiritum sanctum esse
+<pb n="0292C"/>
+de Filio; quoniam idem Deus est Pater et Filius, ut
+dicis. Ad quod ego:</p>
+<p>Habent utique a Patre esse Filius et Spiritus sanctus,
+sed diverso modo; quia alter nascendo, alter procedendo,
+ut alii sint per hoc ab invicem, ut dictum est.
+Et ideo, cum nascitur unus, non potest cum eo nasci
+ille, qui per hoc est alius ab eo, quia non similiter nascitur,
+sed procedit, et cum unus procedit; nequit ille
+simul procedere, qui per hoc est alius ab illo, quia
+non similiter procedit, sed nascitur. Et ideo non
+habet hic unitas illam vim consequentiae; quia
+pluralitas obviat, quae ex nativitate nascitur et processione.
+Nam et si per aliud non essent plures Filius
+<pb n="0292D"/>
+et Spiritus sanctus, per hoc solum essent diversi.
+<pb n="0293A"/>
+Cum autem dico ex eo quia Pater unus Deus est
+cum Filio aut cum Spiritu sancto, sequi Filium esse
+ de Spiritu sancto, aut Spiritum sanctum esse
+de Filio: nulla ibi pluralitas generatur, quae unitatis
+obviet consequentiae; quia non utrumque dico
+esse, sed alterum tantum. Omnimoda igitur et inexpugnabili
+necessitate concluditur, quia si vera sunt
+quae supra dixi nos pariter cum Graecis credere, aut
+Filius est de Spiritu sancto, aut Spiritus sanctus est
+de Filio. Quod autem Filius non sit de Spiritu sancto,
+palam est ex catholica fide. Non enim est Deus
+de Deo, nisi aut nascendo, ut Filius; aut procedendo,
+ut Spiritus sanctus. Filius autem non nascitur
+de Spiritu sancto: si enim nascitur de illo, est filius
+Spiritus sancti, et Spiritus sanctus est pater ejus;
+<pb n="0293B"/>
+sed alter alterius nec pater, nec filius est. Non
+ergo nascitur de Spiritu sancto Filius; nec minus
+apertum est quia non procedit de illo. Esset enim
+spiritus ejusdem Spiritus sancti. Quod aperte negatur,
+cum Spiritus sanctus dicitur et creditur spiritus
+Filii. Non enim <emph>52</emph> potest esse spiritus sui spiritus.
+Quare non procedit Filius de Spiritu sancto.
+Nullo ergo modo est de Spiritu sancto Filius. Sequitur
+itaque inexpugnabili ratione Spiritum sanctum
+esse de Filio, sicut est de Patre.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p> <hi>Evincitur Spiritum sanctum hoc, quod est, habere a
+Patre; contra quemdam episcopum Graecis faventem</hi>.
+<pb n="0293C"/>
+        </p>
+<p>Forsitan negabunt Graeci Spiritum sanctum esse
+Deum de Deo, sicut est Filius Deus de Deo; quoniam
+probamus per hoc illum esse et procedere de
+Filio; nec est positum in illo symbolo, in quo reprehendimur
+ab illis addidisse processionem ejus de
+Filio. Sed qui hoc putat, negat aut Patrem esse
+Deum, de quo est Spiritus sanctus; aut Spiritum
+sanctum esse Deum, qui est de Patre; aut hoc ipsum
+quod est Spiritus sanctus esse de Patre. At
+Patrem non esse Deum, aut Spiritum sanctum, nullus
+ suscipit Christianus. Videamus igitur utrum
+hoc ipsum quod est essentialiter Spiritus sanctus,
+sit de Patre: quod quemdam episcopum, Graecis
+forsitan faventem, in Barensi civitate sensi nolle
+sentire. Nam si non est hoc ipsum de Patre,
+<pb n="0293D"/>
+quod est: cum sit unus idemque Deus, qui Pater;
+inveniri nequit unde sit alius a Patre. Non enim
+inde alius est, quia Pater habet Filium, et Spiritus
+<pb n="0294A"/>
+sanctus non habet Filium. Per hoc enim probari
+possunt quia alii sunt ab invicem; non tamen
+haec est causa ut diversae sint personae. Quippe
+si duo sint homines, quorum alter habeat filium,
+alter non, quamvis per hoc ostendi possint esse
+diversi; non tamen ob hoc alii sunt ab invicem,
+quia quoquomodo se habeant in habendo et non
+habendo filium, diversitatem tamen non amittunt.
+Ita in Patre et Spiritu sancto, non quia alius Filium
+habet, alius non habet, idcirco sunt diversi;
+sed quoniam diversi sunt, ideo nihil prohibet eos in
+habendo et non habendo Filium esse dissimiles.
+Similiter responderi potest, si ideo dicitur alius,
+quia non ab alio procedit Spiritus sanctus, sicut ipse
+procedit a Patre. Quippe, ut secundum illos loquar
+<pb n="0294B"/>
+qui negant Spiritum sanctum de Filio procedere,
+sicut non est haec causa, quia Spiritum sanctum
+Filius de se procedentem non habet, sicut Pater; ut
+alius sit a Patre (sequeretur enim ut si Spiritus
+sanctus procederet de Filio, Filius non esset alius
+a Patre), ita per hoc non est Spiritus sanctus a Patre
+alius, quia non habet Filium, aut Spiritum sanctum
+de se procedentem, sicut Pater. Et quemadmodum
+Filius non ideo est alius a Patre; quia Patrem
+habet, et Pater non habet patrem, (si enim
+Pater haberet patrem, alius tamen esset a Filio)
+ita Spiritus sanctus, quia de aliquo procedit, et Pater
+a nullo, non propter hoc est alius a Patre; quia
+si Pater de aliquo procederet non minus tamen
+esset alius a Patre, de quo procedit. Palam igitur
+<pb n="0294C"/>
+est quia non ideo est Spiritus sanctus alius a Patre,
+quia non habet Filium, aut Spiritum sanctum de se
+procedentem, sicut Pater; nec quia de aliquo procedit,
+et Pater de nullo. Sed neque per hoc intelligi
+potest esse a Patre alius, quia Spiritus est Patris;
+si de illo non habet esse. Potest enim intelligi aliquis
+alius ab aliquo, priusquam sit illius; quamvis
+alicujus nequeat esse, nisi sit alius: ut cum dicitur
+homo dominus alicujus, aut homo alterius hominis,
+prius intelligitur alius ab illo, cujus esse dicitur,
+quam sit ejus dominus vel homo. Sic itaque, si
+Spiritus sanctus non est de Patre, nihil prohibet
+eum intelligi prius alium ab illo, quam sit illius.
+Quare non facit illum alium esse a Patre hoc quia
+Spiritus ejus est: si per hoc non habet ut sit alius ab
+<pb n="0294D"/>
+illo, per hoc quod est Spiritus illius; sicut Filius
+per hoc est alius a Patre, per quod est Filius ejus:
+quod non est aliud nisi quia de ipso existit nascendo
+<pb n="0295A"/>.
+Videatur itaque quod Spiritus sanctus non sit per
+aliud a Patre alius, nisi quia ab illo habet esse quod
+est; quamvis alio suo modo, quam Filius. Investigemus
+tamen hoc diligentius. Utique aut postquam
+fuit Spiritus sanctus hoc quod est, contigit
+illi alium esse a Patre, aut in existendo habet unde
+alius est. Contingit enim aliquem esse quod est,
+priusquam sit alius; et contingit aliquem alium in
+existendo fieri: prius autem quemquam esse alium,
+quam sit hoc quod est, non est possibile. Namque
+primus homo, priusquam de illo esset homo aliquis,
+erat ipse homo, sed non erat alius: cum vero primum
+exstitit de illo aliquis; et ille de quo exstitit
+postquam fuit, factus est alius; et qui de illo
+exstitit, simul habuit et esse, et alium esse. Aut
+ergo Spiritus sanctus, sicut dixi, postquam fuit,
+<pb n="0295B"/>
+factus est a Patre alius; aut habet in existendo
+propter quod alius dicitur. Sed si postquam fuit,
+contigit illi alium esse a Patre; cum non sit alia
+persona, nisi quoniam alius est ab illo, non fuerunt
+illae semper tres personae; quia ista non semper
+fuit, sicut non semper fuit Spiritus sanctus
+alius a Patre. Quoniam itaque falsa sunt haec:
+patet quia in existendo habet unde alius est. Esse
+autem nequit nisi aut ex aliquo, sicut Filius; aut
+ex nullo, sicut Pater. Quod si ex nullo quemadmodum
+Pater existit; aut ita existit unusquisque per
+se, ut neuter ab altero quidquam habeat; et sunt
+duo dii, Pater et Spiritus sanctus: aut quoniam
+unus Deus sunt, si uterque de nullo est, penitus
+<pb n="0295C"/>
+nihil inveniri valet in fide Christiana, unde sint ab
+invicem alii; sed unus idemque est Pater, et
+Spiritus sanctus, et una persona: quae vera fides
+abhorret. Non est ergo verum Spiritum sanctum a
+nullo esse. Si autem est ab aliquo, non est nisi ex
+Deo qui est Pater, et Filius, et Spiritus sanctus; sed
+a seipso nequit esse, quoniam nulla persona a seipsa
+potest existere. Quare si quis eum negat esse a
+Filio, negare nequit illum a Patre esse. Si quis autem
+dicit quia licet non habeat esse de Patre; tamen
+per processionem alius potest intelligi. Ad hoc quoque
+respondendum arbitror, ne possit aliquid in hac
+quaestione nostrae objici assertioni, cui nostra responsio
+<pb n="0295D"/>
+non obviet: nec miretur aliquis me tantum
+<pb n="0296A"/>
+in hoc immorari, quoniam non parvae auctoritatis
+erat ille inter suos, quem sensi non sentire Spiritum
+sanctum hoc, quod est, habere ex Patre; nec
+tunc habui opportunitatem respondendi.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+<p> <hi>Spiritum sanctum, nisi esse a Patre habeat, non
+posse intelligi alium esse ab eo, per missionem seu
+processionem</hi>.</p>
+<p>Qui ergo Spiritum sanctum dicere vult ex sola
+processione alium esse a Patre, licet non sit ex illo,
+intelligit aut idipsum esse procedere de Patre solummodo,
+quod est mitti vel dari a Patre: ut cum mittit
+vel dat eum Pater, tunc tantum procedat a Patre,
+aut hoc esse procedere, quod est de Patre; sed
+si idem est procedere, quod est dari vel mitti,
+<pb n="0296B"/>
+procedit pariter a Filio sicut a Patre Spiritus sanctus;
+quoniam ab illo similiter mittitur et datur.
+Item: Si non aliud Spiritui sancto procedere, quam
+mitti vel dari; non est alius a Patre, nec procedit
+a Patre, nisi cum datur vel mittitur: quod nemo,
+puto, intelligit. Semper enim est alius a Patre Spiritus
+sanctus, etiam ante creaturam; non autem
+datur, vel mittitur, nisi creaturae; nec tamen dicendum
+est quod accidat ei dari, vel mitti. Nam cum
+ipse sit ubique et immutabilis, accipienti quidem
+accidit aliquid, quia circa illum fit quod prius non
+erat, et abesse potest; circa Spiritum sanctum
+vero nihil fit quod prius non erat. Cum enim
+caecus in luce non sentit lucem, non magis nec
+ minus habet aliquid lux; et si depulsa caecitate
+<pb n="0296C"/>
+sentiat caecus lucem, circa illum fit motus,
+non circa lucem. Patet itaque non esse Spiritum <emph>53</emph> 
+ sanctum alium a Patre per sic intellectam
+processionem, ut non sit aliud illi procedere quam
+dari vel mitti. Est ergo patens eum per processionem
+habere esse de Patre; et per hoc alium
+esse a Patre, sicut Filius non per aliud est a Patre
+alius quam per hoc quia de illo existit. Est igitur
+Deus de Deo, et procedit de Deo; quia et ipse est
+Deus, et Pater Deus, de quo est et procedit. At si
+dicimus duas Spiritus sancti posse nominari processiones:
+unam, quando existit de Patre; alteram,
+quando datur vel mittitur. Non puto hoc esse negandum,
+<pb n="0296D"/>
+si unaquaeque in suo sensu intelligitur.
+<pb n="0297A"/>
+De illa quippe processione, qua datur vel mittitur,
+non incongrue Dominum sic dixisse intelligimus: <hi>Spiritus ubi vult spirat, et vocem ejus audis, et nescis
+unde veniat, aut quo vadat 
+ <note>(Joan. III, 8)</note>
+          </hi>. Sic enim hoc
+potuisse dici videtur: <hi>Nescis unde</hi> procedit, <hi>aut quo</hi> 
+recedat. Cum enim datur, quasi de occulto venit et
+procedit; cum vero subtrahitur, velut ad occultum
+vadit, et recedit. De hac processione potest dici quia
+idem illi est procedere, quod mitti.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p> <hi>Spiritus sancti processio de Patre importat ejus
+processionem de Filio</hi>.</p>
+<p>Sive igitur non procedat, nisi existendo de Patre;
+sive nonnisi cum datur, aut mittitur, et procedit ad
+sanctificandam creaturam; sive utroque modo
+<pb n="0297B"/>
+procedat, sequitur ut procedat de Filio. Si enim est
+de Patre, Deus est de Deo: unde probatur, ut dictum
+est, esse quoque de Filio et procedere. Ab illo
+namque procedit de quo est, et de illo existit a
+quo procedit. Si vero tunc tantum procedit, cum
+mittitur vel datur, procedit a Filio, a quo datur et
+mittitur. Quod si utroque modo procedit, pariter
+utroque modo procedere cognoscitur a Filio.
+Ecce videmus Spiritum sanctum esse Deum de Deo,
+et procedere de Deo; quod non est positum in
+praefato symbolo: si ergo ideo negant eum esse et
+procedere de Filio, quia ibi tacetur, negent similiter
+eum esse de Deo et procedere, quod ibidem
+ non dicitur. Aut si hoc diffiteri nequeunt, non
+timeant confiteri nobiscum Spiritum sanctum esse
+<pb n="0297C"/>
+et procedere de Filio; quoniam hoc in eodem
+symbolo non inveniunt. At dicent: Satis
+ibi significatur quia est et procedit de Deo, cum
+dicitur quia a Patre procedit, quoniam Pater est
+ Deus: et nos similiter dicimus quia aperte
+monstratur procedere de Filio, cum dicitur procedere
+de Deo, quia Filius est Deus. Interrogo
+enim utrum ideo intelligendus sit Spiritus
+sanctus esse de Patre, quia de Deo est; aut idcirco
+esse de Deo, quia est de Patre. Licet enim invicem
+alterum altero probetur (si enim est de Patre, est
+de Deo; et si est de Deo, est de Patre; quoniam
+nulla supradicta obviat relatio): non tamen similiter
+<pb n="0297D"/>
+invicem sunt alterum alterius causa. Nam si
+<pb n="0298A"/>
+esse Spiritum sanctum de Patre, est causa ut sit de
+Deo; cum dicitur esse de Patre, non est intelligendum
+quod sit de hoc, quod Pater est Deus, id est
+de divina essentia; sed de hoc quod Deus Pater
+est, id est de hoc unde refertur ad Filium. Erit igitur
+divina essentia in Spiritu sancto, non de deitate
+Patris, sed de relatione: quod stultissimum est
+dicere. Quamvis et si hoc velit aliquis accipere, non
+minus sequitur Spiritum sanctum de Filio quam de
+Patre procedere. Nempe nulla relatio est Patris sine
+relatione Filii, sicut nihil est Filii relatio sine Patris
+relatione. Si ergo altera nihil est sine altera,
+non potest aliquid de relatione Patris esse sine relatione
+Filii. Quare sequitur Spiritum sanctum
+esse de utraque, si est de una. Itaque si est de Patre
+<pb n="0298B"/>
+secundum relationem, erit similiter et de Filio
+secundum eumdem sensum. Verum quia nemo
+tam insipiens est qui hoc opinetur, credendum et
+confitendum est ideo de Patre Spiritum sanctum
+esse, quia est de Deo. Non autem magis est Pater
+Deus quam Filius; sed unus solus verus Deus, Pater
+et Filius. Quapropter si Spiritus sanctus est de Patre
+quia est de Deo qui Pater est, negari nequit esse
+quoque de Filio, cum sit de Deo qui est Filius.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+<p> <hi>Spiritus sanctus procedit de Patre et Filio, quia
+procedit de solo vero Deo, qui Pater est et Filius</hi>.</p>
+<p>Consideremus etiam quod Dominus dicit in Evangelio.
+Ait enim: <hi>Haec est autem vita aeterna, ut
+cognoscant te solum verum Deum, et, quem misisti,
+<pb n="0298C"/>
+Jesum Christum <note>(Joan. XVII, 3)</note>
+          </hi>. Aut ergo ita intelligendus
+est iste solus verus Deus, ut cum nominamus
+solum Patrem, non significetur ille solus
+verus Deus, neque quando nominamus solum Filium;
+sed tunc solummodo intelligatur iste solus
+verus Deus, quando simul dicimus Patrem et Filium.
+Aut solus verus Deus intelligitur, cum nominamus
+solum Patrem, aut solum Filium; at si
+solo Patre nominato, aut solo Filio, non intelligitur
+solus verus Deus sine abjectione nominis alterius,
+non est Pater perfectus Deus, neque Filius
+perfectus Deus; sed est Deus compositus ex Patre
+et Filio. Sed credimus Patrem esse perfectum,
+<pb n="0298D"/>
+et solum verum Deum et Filium similiter perfectum
+<pb n="0299A"/>
+et solum verum Deum. Cum ergo nominamus Patrem
+solum aut Filium, non aliud intelligimus, excepta
+relatione qua referuntur ad invicem, quam solum
+verum Deum et eumdem quem in utriusque prolatione
+cognoscimus. Itaque cum dixit Dominus: <hi>Haec
+est autem vita aeterna, ut cognoscant te solum verum
+Deum, et, quem misisti, Jesum Christum <note>(Joan. XVII,
+3)</note>
+          </hi>; si addidisset, dicens: <hi>Et de hoc solo vero Deo
+procedit Spiritus sanctus</hi>, quis auderet separare Filium
+ab illa processione, cum ille solus verus Deus
+non magis aut minus sit Pater quam Filius? Quapropter
+si idem solus verus Deus intelligitur, cum
+solus Pater dicitur aut Filius et cum ambo simul
+nominantur: quid apertius quam quia de solo vero
+Deo, qui Pater est et Filius, procedit Spiritus sanctus,
+<pb n="0299B"/>
+cum dicitur a patre procedere? Quare sicut intelligeretur
+de Filio procedere, si idem Filius dixisset
+de solo vero Deo illum procedere, quando dixit
+se et Patrem solum verum Deum esse; ita cum dicit
+eum de Patre procedere, absque dubio significat
+eum de se procedere.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IX</head>
+<p> <hi>Missio Spiritus in nomine Filii et a Filio confirmat
+Processionem ejus de Filio</hi>.</p>
+<p>Dicit etiam Dominus: <hi>Paraclitus autem Spiritus
+sanctus, quem mittet Pater in nomine meo <note>(Joan. XIV,
+26)</note>
+          </hi>. Et rursum: <hi>Cum autem venerit Paraclitus,
+quem ego mittam vobis a Patre <note>(Joan. XV, 26)</note>
+          </hi>. Quid
+ergo intelligendum est, cum dicit: <hi>Quem mittet Pater
+in nomine meo?</hi> an quia Spiritus sanctus habebit
+<pb n="0299C"/>
+nomen ejus, ut, cum mittet Pater Spiritum sanctum,
+idem sit quod mittere Filium? Sed quod ait: <hi>Quem ego mittam vobis a Patre</hi> 
+ non recipit
+hunc sensum; quia eumdem ipsum Spiritum sanctum,
+quem mittit Pater, mittit et Filius; neque
+mittit Filius Filium. Denique nusquam legimus, et
+omnino negamus Spiritum sanctum esse Filium.
+Quid itaque est: <hi>Quem mittet Pater in nomine meo</hi>,
+nisi, quem Pater mittet, Filius quoque mittet? Sicut
+cum dicit: <hi>Quem ego mittam a Patre</hi>, non est aliud
+quam ego mittam et Pater. Filius namque est nomen
+illius qui dicebat: <hi>Mittet Pater in nomine meo</hi> <emph>54</emph> 
+Non est ergo aliud: <hi>Mittet Pater in nomine meo</hi> 
+nisi, <hi>mittet Pater in nomine</hi> Filii. Quid igitur est, <hi>mittet Pater in nomine</hi> 
+ Filii, nisi, <hi>mittet Pater</hi>,
+<pb n="0299D"/>
+tanquam si mittat Filius, ut in missione Patris,
+<pb n="0300A"/>
+missio intelligatur Filii? Quod vero ait: <hi>Quem
+ego mittam vobis a Patre</hi>, quomodo intelligendum
+est? Utique a quo eum mittit Filius, ab eo mittitur.
+Mittit autem eum a Patre: ergo a Patre mittitur.
+Sed ille mittit a quo mittitur: Pater itaque mittere
+intelligitur, cum Filius dicit: <hi>Ego mittam a Patre</hi>.
+Quid est ergo, <hi>Ego mittam a Patre</hi>, nisi, Ego mittam
+tanquam si Pater mittat, ut una et eadem sit
+missio mea et Patris? Cum itaque Filius tanta
+diligentia ostendat unam esse missionem Patris et
+suam; ut nec Pater mittat, nisi cum Filius mittit;
+nec Filius mittat, nisi cum mittit Pater: quid
+vult significare, aut quid intelligi, nisi quia
+non aliter se habeat ad Patrem Spiritus sanctus, et
+aliter ad Filium; nec magis est unius quam alterius?
+<pb n="0300B"/>
+Quamobrem nimis difficile, imo impossibile est,
+ostendere quomodo non procedat ab utroque. Unde
+enim est Filio simul cum Patre dare vel mittere
+Spiritum sanctum, et hunc esse utriusque; si simul
+non est de utroque? Cur enim magis dat Filius Spiritum
+sanctum, quam Spiritus sanctus Filium? Aut
+cur magis Spiritus sanctus est Filii, quam Filius
+Spiritus sancti, nisi quia Filius non est ita de Patre
+simul et de Spiritu sancto, sicut Spiritus sanctus est
+de Patre simul et de Filio? Si ergo Spiritus
+sanctus non est de Filio, non detur a Filio, nec dicatur
+ esse Filii: sicut Filius non datur a Spiritu
+sancto, nec dicitur esse Spiritus sancti; quoniam non
+est de Spiritu sancto. Si autem dicunt quia Spiritus
+sanctus mittit etiam Filium, sicut idem ipse dicit
+<pb n="0300C"/>
+per prophetam: <hi>Et nunc Dominus Deus misit me,
+et Spiritus ejus <note>(Isai. XLVIII, 16)</note>
+          </hi>, hoc secundum hominem,
+quem gerebat, intelligendum est, qui Patris
+et Spiritus sancti una voluntate et dispositione mundum
+redempturus in mundo apparuit.</p>
+<p>Quaero tamen ab his qui negant Spiritum sanctum
+esse et procedere de Filio, quomodo intelligant
+ eum sic esse Spiritum Filii, ut Filius
+tanquam suum Spiritum illum mittat? An putant
+quia Pater dedit Filio Spiritum sanctum suum
+tanquam a se non habenti? Aut enim habet a se aut
+ab alio. Sed ab alio non potest habere, nisi a Patre.
+Accepit igitur a Patre, a quo habet; et dedit ei Pater
+Spiritum sanctum, ut a se non habenti. Hic ostendant,
+cum aequales sint Pater et Filius et Spiritus
+<pb n="0300D"/>
+sanctus, et unusquisque sibi sit sufficiens, quae
+<pb n="0301A"/>
+fuit causa, vel quae indigentia Filii, ut Pater daret
+ei Spiritum suum, magis quam Spiritui sancto Filium
+suum. Non negamus hoc modo habere Filium
+Spiritum sanctum a Patre; quia a quo habet esse,
+ab eo habet ut de se Spiritum existentem habeat
+sicut Pater; quoniam idem esse est Patris et Filii.
+Non est enim idem a Patre accipere essentiam, de qua
+procedit Spiritus sanctus, et accipere a Patre
+Spiritum sanctum. Cum enim dicitur habere a Patre
+essentiam, de qua Spiritus sanctus procedit, nulla
+monstratur indigentia Filii. Cum vero dicitur quia
+Filius accipit a Patre Spiritum sanctum, quem
+de se non habet sicut Pater, videtur significari Filius
+quasi minus aliquid habere quam habeat Pater;
+et velut ad supplementum ei dari Spiritum sanctum.
+<pb n="0301B"/>
+Sed non apparet cur magis egeat Filius Spiritu
+sancto, quam Spiritus sanctus Filio. Si enim
+respondetur ad hoc datum esse Spiritum sanctum
+Filio, ut cum ipse quoque cum Patre daret eumdem
+Spiritum sanctum, pars illi cum Patre gratia
+imputaretur: terrena est haec opinio, et longe ab intellectu
+divinitatis extranea, ut tanquam homo homini,
+Deus Deo quasi indigenti subveniat. Namque
+si dat Pater Spiritum sanctum Filio, dat Deus Deum
+Deo. Pater enim Deus, et Filius Deus, et Spiritus
+sanctus Deus, et unus idemque Deus. Non autem
+intelligimus Deum a Deo Deum accipere;
+nisi hoc dicatur, cum Deus est de Deo ut Filius
+et Spiritus sanctus. Dicitur ergo Spiritus sanctus
+Filii Spiritus, non ob aliud nisi quia ex
+<pb n="0301C"/>
+ipso est</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p> <hi>Eadem processio probatur ex Christi insufflatione in
+apostolos</hi>.</p>
+<p>Post Resurrectionem legimus quia insufflavit Dominus
+in discipulos suos, et ait illis: <hi>Accipite
+Spiritum sanctum <note>(Joan. XX, 22)</note>
+          </hi>. Quid sibi vult ista
+insufflatio? Scimus enim quia flatus ille, qui de ore
+ejus tunc processit, non erat Spiritus sanctus. Non
+ergo credimus illam insufflationem sine aliquo mysterio
+factam esse. Quid igitur rectius hic intelligi
+potest, aut aptius, quam hoc ideo illum fecisse
+ut intelligeremus Spiritum sanctum de illo procedere?
+<pb n="0302A"/>
+Ac si diceret: Sicut videtis hunc flatum per
+quem vobis Spiritum sanctum, sicut sensibilibus
+insensibilia significari queunt, significo de intimo
+corporis mei et de persona mea procedere; ita scitote
+Spiritum sanctum, quem vobis per hunc flatum
+significo, de secreto deitatis meae et de mea persona
+procedere. Unam enim personam Verbi et hominis,
+et in ea duas naturas, divinam scilicet et humanam,
+credimus et confitemur. Sed dicent forsitan: Flatus
+utique ille non erat de substantia humana, et tamen
+quasi suum illum emittebat. Quapropter docemur
+per hujusmodi Spiritus sancti dationem,
+quia cum dat Filius Spiritum sanctum dat et mittit
+suum spiritum; sed non de suae divinitatis essentia.
+Dicant igitur, si qui hoc opinantur, quia sicut flatus
+<pb n="0302B"/>
+non est humana natura, cum emittitur ab homine;
+ita Spiritus sanctus non est divina substantia, cum
+datur vel mittitur a Deo Filio: quod nullus confitetur
+Christianus. Dicant etiam cum audimus: <hi>Verbo Domini coeli firmati sunt, et spiritus oris ejus
+omnis virtus eorum 
+ <note>(Psal. XXXII, 6)</note>
+          </hi>, si ibi non negant
+intelligendum per spiritum oris Domini, Spiritum
+sanctum; non illum esse de essentia Domini, cujus
+oris spiritus dicitur; quia spiritus qui ex ore solet
+hominum procedere, non est de substantia illius de
+cujus ore procedit. Quod si non audeat dicere, spiritum
+scilicet Dei non esse de essentia Dei, et per
+verba rerum sensibilium, id est per spiritum oris,
+intelligunt Spiritum sanctum de secreto ejus essentiae
+procedere, cujus oris spiritus dicitur: fateantur
+<pb n="0302C"/>
+etiam eumdem Spiritum sanctum de illius essentia
+procedere, cujus labiorum spiritus dicitur. Legimus
+enim in propheta de Christo quia <hi>spiritu labiorum
+suorum interficiet impium <note>(Isai. XI, 4)</note>
+          </hi>. Aut ergo
+ostendant diversitatem inter spiritum oris et spiritum
+labiorum, quod fieri nequit; aut pariter
+concedant Spiritum sanctum procedere de illo cujus
+oris, et de illo cujus labiorum spiritus designatur. At
+si dicunt nequaquam per spiritum labiorum ibi intelligi
+Spiritum sanctum debere, sed verba praedicationis
+ejus quae ex isto aereo spiritu humano in ore
+formavit; quia verbis suis interficit impium,
+cum docendo ab homine avertit impietatem:
+<pb n="0303A"/>
+Non utique hoc faciunt verba sensibilia; et iste
+sensibilis spiritus, sed Spiritus sanctus, de quo dicit
+Deus per prophetam: <hi>Auferam cor lapideum de carne
+vestra, et dabo vobis cor carneum, et Spiritum meum
+ponam in medio vestri</hi>. <note>(Ezech. XXXVI, 26)</note>. Spiritus
+ergo sanctus interficit impium, cum cor ejus
+convertit ab impietate ad pietatem. Quod si
+intelligimus in illo impio Antichristum, quem Dominus
+Jesus interficiet spiritu oris sui, non puto quod
+aliquis tantum attribuat virtutem illam spiritui
+vocis humanae, quantum spiritui divino. Si ergo
+Spiritus sanctus intelligitur in his dictis, cum pariter
+dicatur spiritus oris Domini, cujus <hi>verbo coeli
+firmati sunt</hi>, id est Patris, et spiritus oris Domini
+Jesu, et spiritus labiorum ejus; non apparet cur
+<pb n="0303B"/>
+magis intelligi debeat procedere de ore Patris, quam
+de ore Filii. Et si per os Patris intelligimus essentiam
+Patris, non enim est aliud os ejus quam
+essentia ejus, ut sicut verbum Domini est essentia
+ejus, ita spiritus oris ejus non sit nisi de essentia
+ejus: quid apertius quam, sicut spiritus
+oris Patris est de essentia Patris et procedit, ita <emph>55</emph> 
+ spiritus oris et labiorum Filii, de Filii essentia
+sit et procedat? Puto enim quia nemo intelliget
+simpliciter, ubi dictum est: <hi>Verbo Domini coeli
+firmati sunt, et spiritus oris ejus omnis virtus eorum <note>(Psal. XXXII, 6)</note>
+          </hi>:
+verba transitoria, et spiritum qui
+de hoc aere assumptus per loquentis os emittitur.
+Sed quomodocunque hoc aliquis exponere conetur,
+sufficit quod in illa insufflatione Domini in discipulos,
+<pb n="0303C"/>
+cujus feci mentionem, factum est ad significandum
+quia de ejusdem personae secreto procedat ille
+Spiritus quem dabat, de cujus occulto Spiritus ille
+procedebat, quem insufflabat. Denique, cum Scriptura
+divina significat aliquid secretum per sensibilium
+similitudines; non per omnia quae significant
+et quae significantur, similia possunt esse:
+non enim hoc esset similitudo, sed identitas, nisi
+forte quis dicere voluerit illam insufflationem ita
+simpliciter esse factam a sapientia Dei, sine omni
+spirituali significatione Dei. Sed neminem puto ita
+insensatum, ut hoc sentiat.
+<pb n="0304A"/>
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XI</head>
+<p> <hi>Eadem processio arguitur ex verbis Christi</hi>: Ille de
+meo accipiet</p>
+<p>Item Filius dicit de Spiritu sancto: <hi>Non enim loquetur
+a semetipso; sed quaecunque audiet, loquetur <note>(Joan. XVI, 13)</note>
+          </hi>.
+Quid est, <hi>Non loquetur a semetipso</hi> 
+nisi ab alio habebit quod loquetur? Et quid est, ab
+alio habebit quod loquetur, nisi: ab alio habebit
+scientiam eorum quae loquetur? Unde postquam
+dixit: <hi>Non loquetur a semetipso</hi>, addidit: <hi>Sed quaecunque
+audiet, loquetur</hi>. Quid est audire Spiritui
+sancto nisi quasi discere? Et quid est discere,
+nisi scientiam accipere? Si ergo scientia ejus non est
+aliud nisi essentia ejus, ab illo habet essentiam a
+quo audit ea quae loquitur et quae docet; quoniam
+<pb n="0304B"/>
+idem est illi loqui quod docere. Non audit autem,
+neque habet essentiam ab alio nisi aut a Patre, aut
+a Filio. Verum si habet esse a Patre, secundum
+supradictam rationem, habet etiam a Filio. Unde
+et idem Filius dicit: <hi>Ille me clarificabit, quia de meo
+accipiet et annuntiabit vobis <note>(ibid., 14)</note>
+          </hi>. Quippe
+quid est aliud hoc dicere quam a me audiet, hoc est
+a me sciet quod annuntiabit vobis? Cum dixit: <hi>Quaecunque
+audiet, loquetur</hi>, non determinavit a quo
+audiet. Cum vero ait: <hi>De meo accipiet</hi>, ne quis soli
+Patri attribuat quod ab alio audit; aperte se esse, a
+quo sicut a Patre, scientiam sive essentiam accipiat,
+demonstrat. Sicut enim, cum dicitur: <hi>Non loquetur
+a semetipso; sed quaecunque audiet, loquetur et
+annuntiabit vobis</hi>, significatur ab eo esse et procedere,
+<pb n="0304C"/>
+a quo audit. Ita, cum profert Filius: <hi>De
+meo accipiet et annuntiabit vobis</hi>, palam ostendit
+eum de suo, hoc, de essentia sua essentiam habere
+et procedere. Quod enim divina essentia non
+est, sub Spiritu sancto est; nec ipse accipit aliquid
+de hoc, quod sub se est. Quare cum Filius dicit: <hi>De meo accipiet</hi>,
+non aliud ibi suum significat quam
+suam essentiam.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p> <hi>Urgentur ad idem verba alia Christi</hi>: Nemo novit
+Filium nisi Pater, etc.</p>
+<p>Illud forsitan, quod dixit Filius: <hi>De meo accipiet,
+et annuntiabit vobis <note>(Joan. XVI, 14)</note>
+          </hi>, aliter
+<pb n="0305A"/>
+conabuntur intelligere quam ego exposuerim. Sed
+quid dicent, ubi ait: <hi>Nemo novit Fillum nisi Pater;
+neque Patrem quis novit, nisi Filius, aut cui voluerit
+Filius revelare</hi>? <note>(Matth. XI, 27.)</note> Audimus quia
+ nemo novit Patrem, aut Filium, nisi Pater, aut
+Filius, et cui revelat Filius. Non dicit autem,
+nemo quasi nullus homo, sed ac si diceret, nullus
+omnino. Quippe si hoc intelligerit, non adderet <hi>nisi
+Pater</hi>; quia Pater non est homo. Et cum ait: <hi>Neque
+Patrem quis novit</hi> in hac monosyllaba dictione videlicet, <hi>quis</hi>,
+non magis intelligitur humana, quam
+quaelibet persona. Omnino igitur nullus habet hanc
+notitiam, nisi Pater et Filius, et cui Filius idem revelat.
+Aut itaque Spiritus sanctus non cognoscit Patrem
+et Filium, quod impium est opinari; aut Filius
+<pb n="0305B"/>
+revelat ei sui et Patris scientiam, quae non est aliud
+quam ejusdem Spiritus sancti essentia. Quod si dicunt
+quia licet Filius, quantum ad pronuntiationem
+attinet, nullum ad hanc admittat notitiam, nisi
+se et Patrem, et cui ipse revelat; non tamen Spiritum
+sanctum aut ab illa separatum, aut illam a Filio
+ accipere fatendum est; quoniam Pater et
+Filius non se cognoscunt, nisi per hoc quod unum
+sunt cum Spiritu sancto. Et ideo, cum ait Patrem
+et Filium invicem se nosse, intelligendus est simul
+Spiritus sanctus; et cum revelat Filius, non Spiritui
+sancto, sed creaturae revelat. Si inquam, hoc dicunt,
+nos statim constanter inferimus. Ergo si ubi
+aperte veritas, secundum quod verba oris ejus pronuntiant,
+negat Spiritum sanctum nosse nisi revelante
+<pb n="0305C"/>
+Filio Patrem et Filium: dicunt etiam non
+tantum nos verba attendere debere, quantum
+unitatem essentiae, quae una tribus et inseparabalis
+est; multo magis debemus hujus unitatis servare
+consequentiam, de qua supra locutus sum, cum eam
+nulla aut scripto, aut sensu negat auctoritas;
+nec profert aliquid, quod contrarium sit, aut aliquo
+modo repugnet. Eligant itaque Graeci unum de
+duobus, si aperte volunt veritati resistere: aut,
+scilicet Spiritum sanctum non nosse Patrem et Filium,
+nisi revelante Filio; aut propterea quia in
+hoc per quod se cognoscunt Pater et Filius,
+unum sunt cum Spiritu sancto, quando ipsi dicuntur
+se nosse consequi ex necessitate ut in eadem
+<pb n="0305D"/>
+notitia intelligatur Spiritus sanctis: nempe nihil est
+medium si nolunt hanc notitiam a Spiritu saneto,
+aut veritatem a verbis veritatis penitus abdicare.
+<pb n="0306A"/>
+Quae utraque exsecratur vera confessio. Sic
+enim ait Veritas: <hi>Nemo novit Filium nisi Pater;
+neque Patrem quis novit nisi Filius, et cui voluerit
+Filius revelare? <note>(Matth. XI, 27.)</note>
+          </hi> Siquidem eligunt
+Spiritum sanctum nosse Patrem et Filium per revelationem
+Filii; habet a Filio nosse, quod non est
+aliud illi quam esse. Est igitur et procedit a Filio;
+quoniam ab illo procedit a quo est. Si autem dicunt,
+cum Pater et Filius dicuntur nosse se, quia essentia,
+per quam se noscunt, eadem est Spiritui sancto,
+consequi Spiritum sanctum ejusdem esse consortem
+notitiae: cum legunt illum a Patre procedere,
+de quo ait Filius: <hi>Ego et Pater unum sumus</hi>, confiteantur
+nobiscum, propter essentialem identitatem
+Patris et Filii, illum a Filio quoque proculdubio
+<pb n="0306B"/>
+ procedere.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+<p> <hi>Spiritus sanctus procedens a Filio non est eo posterior
+aut minor</hi>.</p>
+<p>Si vero objicitur, cum dicimus Filium a
+Patre nasci, et Spiritum sanctum a Patre et Filio
+procedere, quia quosdam gradus et quaedam intervalla
+constituimus quasi Spiritus sanctus esse non
+possit, nisi Filius prius nascatur a Patre, ut posterior
+Filio sit Spiritus sanctus: et ideo rectius dici
+quod pariter sint a Patre, Filius nascendo, et Spiritus
+sanctus procedendo, ita ut nec Filius a Spiritu sancto
+sit, nec Spiritus sanctus a Filio, sicut splendor
+et calor pariter sunt de uno sole, nec splendor a
+calore est, nec calor a splendore; si, inquam, hoc
+<pb n="0306C"/>
+aliquis nostrae objicit assertioni, respondemus: Nos
+nec gradus dignitatis ponimus in Deo, qui unus est;
+nec in existendo Filium de Patre, aut Spiritum sanctum
+procedere de Patre et Filio, intervalla in
+aeternitate, quae est extra omne tempus, statuimus.
+Similiter enim omnes Christianam fidem tenentes
+confitemur nec minorem, nec posteriorem Filium
+esse Patre; quamvis nonnisi de illo <emph>56</emph> sit. Ita
+quoque nos qui dicimus Spiritum sanctum de Filio
+esse sive procedere nec minorem nec posteriorem
+eum Filio fatemur. Nempe quamvis splendor et
+calor de sole procedant, nec possint esse nisi sit
+ille de quo sunt; nihil tamen prius aut posterius in
+tribus, in sole scilicet, et splendore, et calore
+<pb n="0306D"/>
+intelligimus: multo itaque minus, cum haec in rebus
+temporalibus ita sint, in aeternitate, quae tempore
+non clauditur, praedictae tres personae in existendo
+<pb n="0307A"/>
+susceptibiles intervalli possunt intelligi.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XIV</head>
+<p> <hi>Disparitas inter Filii ac Spiritus sancti processionem
+de Patre, et splendoris ac caloris processionem de
+sole</hi>.</p>
+<p>Quod autem dicitur quia Filius et Spiritus sanctus
+sic possunt esse de solo Patre ut nec Filius sit
+de Spiritu sancto, nec Spiritis sanctus de Filio;
+sicut splendor et calor simul procedunt de uno sole,
+ut alter non sit de altero: non recte hoc nobis opponitur.
+Cum enim dicimus Filium de Patre esse,
+et Spiritum sanctum de Patre esse, Filium fatemur
+Deum, et Spiritum sanctum Deum esse de Patre
+Deo, et has tres personas unum solum Deum esse,
+et idipsum esse de eodem ipso. In sole vero non
+<pb n="0307B"/>
+dicimus solem esse de sole, cum splendor aut calor
+est de sole; nec idipsum esse solem et quod est de
+ sole; nec illa tria unum esse solem. Nam si sol
+et splendor unus essent sol, aut si sol et calor similiter
+unus sol essent, necesse esset aut splendorem
+esse de calore, cum esset de toto sole, qui idipsum
+esset quod calor; aut calorem de splendore
+esse, cum de sole haberet esse, qui non a splendoris
+differret essentia. Ponamus tamen Filium et
+Spiritum sanctum ita pariter esse de solo Patre sicut
+calor et splendor sunt de uno sole. Sed, si ita
+est, unde habent, qui hoc dicunt, quod Spiritum
+sanctum confitentur esse Filii, et Filium negant esse
+Spiritus sancti? Nam, sicut nulla ratio admittit ut
+calor sit splendoris, aut splendor caloris; ita non
+<pb n="0307C"/>
+patitur veritas ut Spiritus sanctus magis sit Filii,
+quam Filius Spiritus sancti. Quapropter si negare
+non audent Spiritum sanctum esse Filii, negent
+Filium et Spiritum sanctum ita esse pariter de solo
+Patre, sicut sunt splendor et calor de uno sole.
+Quare, si hoc nobis objiciunt quod dixi de splendore
+et calore solis, nec cum illis nec contra nos est.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XV.</head>
+<p> <hi>Quod Graeci non recte dicant Spiritum sanctum procedere
+de Patre per Filium per quem sunt omnia;
+sed ipse procedat ex Deitate, quae una est Patris et
+Filii</hi>.</p>
+<p>Sicut nobis dicitur, ne omnino separent Filium a
+Patris communione in hac Spiritus sancti processione,
+asserunt eum de Patre per Filium procedere.
+<pb n="0307D"/>
+Sed hoc quomodo intelligi possit, non videtur;
+praesertim cum nusquam legant, unde hoc aperte
+<pb n="0308A"/>
+probare queant. Nam, si hoc sibi suffragari existimant
+quod legimus de Deo: <hi>Quia ex ipso, et per
+ipsum, et in ipso sunt omnia <note>(Rom. XI, 36)</note>
+          </hi>, ut ex
+quo sunt omnia sit Pater et per quem Filius et in
+quo Spiritus sanctus: et inter omnia, quae sunt per
+Filium Spiritus sanctus intelligatur. Hoc quidem
+quod ex Patre sint omnia, et per Filium, et in
+Spiritu sancto, sine scrupulo accipimus; illud vero
+quod Spiritus sanctus sit inter omnia, quae sic esse
+dicit Apostolus, nimis est scrupulosum asserere.
+Impossibile namque est unam quamlibet de illis tribus
+personis inter illa omnia includere, et duas
+alias excludere. Quod si Pater et Filius et Spiritus
+sanctus sunt inter omnia, quae sunt ex Patre,
+et per Filium, et in Spiritu sancto: et videat mens
+<pb n="0308B"/>
+rationalis quanta sequatur confusio. Cum ergo dicit
+Apostolus: <hi>Ex ipso, et per ipsum, et in ipso sunt
+omnia</hi>, intelligere debemus sine dubio omnia creata a
+Deo, quae ita sunt ex <hi>ipso, et per ipsum, et in ipso</hi>,
+sicut aliud ex alio, et per aliud, et in alio. Quidquid
+enim factum est, non est idem Deo, sed ab illo
+aliud. Spiritus autem sanctus non est aliud, sed
+idem ipsum quod est Pater et Filius. Utique
+nihil aliud intelligi potest, quo ostendere possint
+ Spiritum sanctum per Filium de Patre (sicut
+aiunt) procedere. Cum enim Pater et Filius non
+differant in unitate deitatis nec Spiritus sanctus
+procedat de Patre nisi de deitate; si eadem deitas
+est Filii, nequit intelligi quomodo procedat de deitate
+Patris per deitatem Filii, et non de ejusdem Filii
+<pb n="0308C"/>
+deitate; nisi forte quis dicat Spiritum sanctum non
+procedere de deitate Patris, sed de paternitate; nec
+per deitatem Filii, sed per filiationem: quae opinio
+sua se patenti fatuitate suffocat. Quod si dicit
+aliquis quia cum dico illum procedere de deitate
+Patris et Filii, non possum deitatem Spiritus
+sancti ab hac Patris et Filii deitate separare; quoniam
+una et eadem est deitas trium: et ideo sequi,
+si de deitate Patris et Filii procedit de sua quoque
+eum procedere: et ob hoc Spiritum sanctum de
+seipso procedere. Ad hoc jam supra me sufficienter
+memini respondisse quia nulla persona ex seipsa
+esse potest: nam, sicut Filius, cum est de Patris
+essentia, quamvis non sit alia sed eadem Filii essentia
+quae est Patris, non tamen est de seipso, sed
+<pb n="0308D"/>
+de Patre solo; ita Spiritus sanctus, cum est de
+essentia Patris et Filii, quae est eadem illi, non tamen
+<pb n="0309A"/>
+est de seipso, sed tantummodo de Patre et
+Filio.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XVI [ <hi>al</hi>. XV].</head>
+<p> <hi>Quod Spiritus sanctus non procedat a Patre per
+Filium; sicut omnia a Patre per Verbum sunt
+facta</hi>.</p>
+<p>Dicent: Cur non similiter dicere possumus
+Spiritum sanctum de Patre per Filium procedere,
+sicut dicimus a Patre omnia facta per Verbum quod
+est Filius? Sicut enim cum Pater facit per Verbum
+suum, non facit per aliud quam per hoc quod
+ipse est, hoc est per essentialem potestatem, quae
+est eadem Verbi; et tamen dicitur facere per Verbum: 
+cur non similiter dicimus Spiritum sanctum
+a Patre procedere per Verbum cum non procedat
+<pb n="0309B"/>
+a Patre, nisi de hoc et per hoc quod idem est
+ illi cum Filio quamvis non ut creatura, sed ut
+idipsum de eodem ipso? Videamus quid sequatur,
+si hoc dicimus; et pax sit inter nos. Nempe quae
+facta sunt a Patre per Verbum, facta sunt ab ipso
+Verbo: ipsum namque Verbum dicit: <hi>Quaecunque
+enim Pater fecerit, haec et Filius similiter facit <note>(Joan. V, 19)</note>
+          </hi>.
+Dicamus igitur quia Spiritus sanctus,
+cum procedit a Patre per Filium, procedit et a Filio
+similiter; sicut quae facta sunt a Patre per Verbum,
+facta sunt similiter ab ipso Verbo, nisi forte intelligunt
+Spiritum sanctum procedere de Patre per Filium
+quemadmodum cum fons fluit in rivum, et
+rivus colligitur in lacum, dicitur lacus esse de fonte
+per rivum. Sed ibi non est rivus in fonte, sed extra
+<pb n="0309C"/>
+fontem sicut est Filius in Patre, et non extra Patrem.
+Quare non sic est Spiritus sanctus de
+Patre per Filium, sicut est lacus de fonte per rivum.
+Si tamen sic est, negari nequit esse de Filio quamvis
+sit de Patre per Filium; sicut fatendum est lacum
+esse de rivo quamvis sit de fonte per rivum.
+Qui enim negat lacum esse de rivo quoniam
+prius est de fonte rivus: dicat se non esse de Patre
+suo, sed de Adam, quoniam per Patrem suum est de
+Adam. Dicat etiam Filium virginis non esse de
+Maria, nec de David, nec de Abraham; quoniam isti
+prius fuerunt de Adam: et dicat falsum esse quod
+dictum est Abrahae: <hi>In semine tuo benedicentur omnes
+gentes <note>(Gen. XXII, 18)</note>
+          </hi>. Et ad David: <hi>De fructu ventris
+tui ponam super sedem tuam <note>(Psal. CXXXI, 11)</note>
+          </hi>. Et ad
+<pb n="0309D"/>
+Mariam: <hi>Benedictus fructus ventris tui <note>(Luc. I, 42)</note>
+          </hi>.
+Dicatque Christum non esse semen horum, vel fructum <emph>57</emph> 
+ sed Adae; quoniam isti ab illo descenderunt.
+Sed neque de Adam est Filius Virginis,
+secundum hunc sensum; sed de limo, de quo factus
+<pb n="0310A"/>
+est Adam. At inferent: Bene dicimus Spiritum
+sanctum non procedere de Filio, sed de Patre
+per Filium, quamvis sit de Patre et de Filio, sicut
+dicis lacum esse de fonte et de rivo. De processionis
+namque verbo quaestio est inter nos, quam vos asseritis
+esse de Filio, et nos negamus: ecce enim
+videtis rivum de fonte procedere, quasi de originali
+principio; lacus autem non procedit, sed colligitur
+de rivo, quamvis habeat esse de illo. Ita igitur etsi
+Spiritus sanctus habeat esse de Filio, non tamen
+procedere proprie dicitur de Filio, sed de Patre
+quasi de principio. Hoc forsitan diceretur recte, si
+Filius nascens de Patre procederet extra Patrem, et
+medio quodam spatio interveniente, prius intelligeretur
+esse Spiritus sanctus de Patre quam de Filio;
+<pb n="0310B"/>
+sicut rivus de fonte fluens extra fontem procedit, et
+quodam intervallo in lacum colligitur, et prius est
+lacus de fonte quam de rivo: et ideo est de fonte
+per rivum, non de rivo per fontem. Verum cum
+Filius nascens de Patre non exeat extra Patrem;
+sed in ipso manens, nec loco, nec tempore, nec essentia
+divisus sit a Patre; et cum unum sit idemque
+Patri et Filio id unde procedit Spiritus sanctus,
+nec intelligi potest, nec dici debet Spiritum sanctum
+procedere de Patre, et non de Filio. Non ergo
+videtur qua ratione dicatur Spiritus sanctus non
+procedere de Filio, sed de Patre per Filium, cum
+etiamsi per Filium nequeat, non de Filio. Si quis tamen
+vult dicere Filium de Patre procedere magis
+proprie quam Spiritum sanctum de Filio, quamvis
+<pb n="0310C"/>
+Spiritus sanctus de illo; sicut rivus magis illi videtur
+procedere de fonte quam lacus de rivo: ne concedat
+Spiritum sanctum procedere de Filio, de
+quo habet esse, sicut lacus de rivo, nos non negamus
+nascentem aliquo modo procedere de illo, de
+quo nascitur; et Spiritum sanctum asserimus suo
+modo, non quasi de duobus fontibus, sed vere de uno
+fonte procedere; ita tamen ut nomen nativitatis nec
+processio Filii amittat, nec Spiritus sancti processio
+recipiat. Non est igitur cur magis dici debeat Filius
+procedere de Patre quam Spiritus sanctus de Filio.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XVII [ <hi>al</hi>. XVII].</head>
+<p> <hi>Quod sicut lacus est de rivo et fonte, ita Spiritus sanctus
+procedat de Patre et Filio</hi>.</p>
+<p>Diligentius consideremus quomodo lacus sit de
+<pb n="0310D"/>
+fonte, pariter et de rivo: ut per hoc, sicut per temporale
+et locale aliquid potest intelligi quod aeternum
+est, cognoscamus Spiritum sanctum esse de
+Patre et Filio. Multa enim in horum consideratione,
+sicut in epistola ad venerabilis memoriae Urbanum
+<pb n="0311A"/>
+papam de incarnatione Verbi scripsi, inveniuntur
+quae uni Deo et tribus personis per quamdam
+similitudinem aptantur. Constat quia una
+eademque aqua est, quae et fons, et rivus, et lacus
+dicitur, non tres aquae, quamvis tres sint, fons, rivus
+et lacus. Discernamus itaque inter fontem, rivum et
+lacum; et videamus quid singula haec, cum tria
+sint, in una intelligantur aqua. In fonte quidem
+aqua de abysso ascendens ebullit; in rivo de fonte
+descendens fluit; in lacu colligitur et manet.
+Per fontem ergo intelligitur aqua de abysso ebuliens;
+per rivum, quia de fonte fluit; per lacum,
+quia simul ibi coadunatur. Videmus autem quia rivus
+non est de hoc unde aqua fons dicitur; sed de
+hoc quod est, id est de aqua; nec lacus est de hoc
+<pb n="0311B"/>
+unde aqua dicitur fons aut rivus, sed de ipsa aqua,
+quae una et eadem est in fonte et rivo. Non ergo de
+hoc, unde differunt fons et rivus; sed de hoc in quo
+unum sunt, lacus existit. Si ergo non magis fons est
+hoc unde lacus est quam rivus, nequit intelligi lacus
+magis esse de fonte quam de rivo. Sic itaque
+cum dicitur Deus Pater, aut Filius, aut Spiritus
+sanctus; una in tribus intelligitur essentia, et unus
+Deus, quod nomen est ipsius significativum essentiae;
+sed in Patre intelligitur gignens, in Filio genitus,
+et in Spiritu sancto singulari quodam et ineffabili
+modo procedens. Quemadmodum igitur lacus
+non est de hoc, unde diversi sunt ab invicem fons et
+rivus; sed de aqua in qua unum sunt; ita Spiritus
+sanctus non est de hoc, unde alii sunt ab invicem
+<pb n="0311C"/>
+Pater et Filius; sed de divina essentia, in qua
+unum sunt. Si ergo non magis est Pater hoc unde
+Spiritus sanctus est quam Filius, intelligi nequit cur
+magis sit de Patre quam de Filio.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XVIII [ <hi>al</hi>. XVII].</head>
+<p> <hi>Pater et Filius sunt unum principium Spiritus sancti</hi>.</p>
+<p>Quod si dicunt non eum esse posse de duabus causis,
+sive ex duobus principiis, respondemus: Quoniam
+sicut non credimus Spiritum sanctum esse de
+hoc unde duo sunt Pater et Filius, sed de hoc in quo
+unum sunt, ita non dicimus duo esse ejus principia,
+sed unum principium. Quippe cum dicimus
+Deum principium creaturae, intelligimus Patrem et
+Filium et Spiritum sanctum unum principium, non
+tria principia; sicut unum Creatorem, non tres creatores,
+<pb n="0311D"/>
+quamvis tres sint Pater et Filius et Spiritus
+sanctus; quoniam per hoc in quo unum sunt, non
+per hoc quod tres sunt est Pater aut Filius aut
+<pb n="0312A"/>
+Spiritus sanctus principium sive creator. Si igitur
+quamvis Pater sit principium, et Filius sit principium,
+et Spiritus sanctus sit principium, non tamen
+sunt tria principia, sed unum: ita, cum Spiritus
+sanctus dicitur esse de Patre et de Filio, non est de
+duobus principiis, sed de uno, quod est Pater et
+Filius, sicut est de uno Deo qui est Pater et Filius;
+si tamen dici debet Deus habere principium aut
+causam. Principium namque videtur nonnisi rei incipientis
+esse et causa nonnisi effectus alicujus; et
+Spiritus sanctus nunquam incoepit esse, nec est effectus
+alicujus. Quod enim incipit esse, proficit
+de non esse ad esse: et nomen effectus, rei quae fit
+aptari videtur proprie. Quoniam tamen verum
+est Filium esse de Patre, et Spiritum sanctum de
+<pb n="0312B"/>
+Patre et Filio, si suo ineffabili quodam modo
+intelligitur, quoniam aliter proferri nequit, dici non
+incongrue potest Pater quodammodo principium
+Filii, et Pater et Filius principium Spiritus sancti.
+Nec tamen duo confitemur principia; unum, Patrem
+ad Filium; alterum, Patrem et Filium ad Spiritum
+sanctum. Sicut non credimus alium Deum Patrem
+de quo est Filius, et alium Deum Patrem et
+Filium de quo est Spiritus sanctus, quamvis de eodem
+Deo, sive de eodem principio suo quisque modo sit,
+alter scilicet nascendo, alter procedendo; si quodam
+ singulari et ineffabili modo intelligitur
+ista processio. Processio namque multis modis dicitur,
+de quibus iste solitarius intelligitur, sicut nativitas
+Filii singularis cognoscitur. Idipsum intelligitur
+<pb n="0312C"/>,
+si dicimus Patrem esse causam Filii,
+et Patrem et Filium causam Spiritus sancti. Non
+enim duas possumus dicere causas, aliam videlicet
+Filii, aliam Spiritus sancti, sed unam: quemadmodum
+non duo dii sunt, sed unus Deus, de quo est
+Filius et Spiritus sanctus.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XIX [ <hi>al</hi>. XVIII].</head>
+<p> <hi>Infringitur argumentum ductum ex eo quod Christus
+expresserit solam Spiritus sancti processionem a
+Patre.</hi> </p>
+<p>Si autem quaeritur, cum Dominus dixit: <hi>Cum venerit
+Paraclitus, quem ego mittam vobis a Patre, Spiritum,
+Spiritus veritatis, qui a Patre procedit <note>(Joan.
+XV, 26)</note>
+          </hi>: cur non addidit, <hi>et a Filio</hi>, vel <hi>a me</hi> si sic
+voluit intelligi? Non est hoc inusitatum in dictis
+<pb n="0312D"/>
+illius, ut cum attribuit aliquid <emph>58</emph> Patri quasi soli,
+vel sibi, vel Spiritui sancto; velit in aliis intelligi
+quod in uno loquitur. Nam cum dicit: <hi>Beatus es,
+<pb n="0313A"/>
+Simon Barjona, quia caro et sanguis non revelavit
+tibi, sed Pater meus qui in coelis est <note>(Matth. XVI, 17)</note>
+          </hi>.
+Nonne ipse Filius et Spiritus sanctus intelligendus
+est revelasse cum Patre? Quoniam enim Pater non
+revelat per hoc, quia Pater est; sed per hoc,
+quod Deus est, et idem Deus est Filius et Spiritus
+sanctus; sequitur ut, quod revelat Pater, revelet
+Filius, et Spiritus sanctus. Item cum dicit: <hi>Nemo
+novit Filium, nisi Pater; neque Patrem quis novit,
+nisi Filius, et cui voluerit Filius revelare <note>(Matth.
+XI, 27)</note>
+          </hi>, quasi solus Filius cognoscat et revelet
+Patrem, et se; et solus Pater cognoscat Filium:
+intelligendum est ibi revelare et nosse, tribus personis
+esse commune; quoniam non per hoc, quod alii
+sunt ab invicem; sed per hoc, quod unum sunt Pater
+<pb n="0313B"/>
+et Filius et Spiritus sanctus, cognoscunt et
+revelant. Cum etiam dicit Patrem nosse Filium,
+et Filium nosse Patrem, et revelare se et Patrem,
+aperte vult intelligi quia Pater cognoscit Spiritum
+sanctum, et Filius noscit et revelat Spiritum sanctum;
+quoniam idipsum quod est Pater et Filius,
+est etiam Spiritus sanctus. Similiter cum dicit: <hi>Qui me videt, videt et Patrem 
+ <note>(Joan. XIV, 9)</note>
+          </hi>, non est
+separandus Spiritus sanctus; quoniam qui videt hoc
+in quo unum sunt Pater et Filius et Spiritus
+sanctus, non potest videre unum de his tribus sine
+aliis duobus. De Spiritu sancto quoque dicit ad apostolos: <hi>Cum autem venerit ille Spiritus veritatis, docebit
+vos omnem veritatem 
+ <note>(Joan. XVI, 13)</note>
+          </hi>, quasi solus
+Spiritus sanctus doceat omnem veritatem; cum
+<pb n="0313C"/>
+nec sine Patre, nec sine Filio doceat omnem veritatem.
+Non enim per hoc, quia est Spiritus alicujus,
+scilicet Patris et Filii et Spiritus; sed per hoc, quod
+unum est cum Patre et Filio, id est per hoc quod
+Deus est, docet omnem veritatem. Videtis igitur quomodo
+in his quae proposui, quod uni quasi soli
+attribuit, ab aliis duabus personis non possit
+ separari. Multa hujusmodi in sacra Scriptura
+legimus: ut quod de una persona singulariter dicitur,
+indifferenter de tribus intelligatur. Quidquid
+enim de una persona pronuntiatur, de aliis pariter
+oportet intelligi; nisi cum hoc, unde aliae sunt,
+ut dixi, ab invicem obviare cognoscitur. Quapropter
+cum credimus Spiritum sanctum de Patre procedere;
+quoniam Deus de Deo, id est essentia Spiritus
+<pb n="0313D"/>
+sancti de essentia Patris, quae una est in tribus,
+esse intelligitur: necesse est ut de Filio eum similiter
+esse confiteamur, si Filius non est de illo; de
+<pb n="0314A"/>
+hoc enim est Spiritus sanctus, quod est Filius et
+quod est Pater
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XX [ <hi>al</hi>. XIX].</head>
+<p> <hi>Ejusdem argumenti confirmatio refutatur</hi>.</p>
+<p>Sed dicet aliquis: Ideo intelligimus Filium et Spiritum
+sanctum revelare, quod solus Pater revelare
+dicitur; et Patrem et Spiritum sanctum revelare et
+nosse, quod solus Filius facere dicitur; et Patrem
+et Filium docere, quod solus spiritus sanctus doctum
+ire promittitur, quia quod de uno solo in uno loco
+legitur, de aliis alibi aperte significatur. Cum
+vero dicit Spiritum sanctum de Patre procedere,
+non legimus alicubi cum de Filio procedere. Per
+quod monemur non nostro sensu, quod nusquam
+dictum est, asserere. Ad quod respondemus quia
+<pb n="0314B"/>
+potius docemur per haec quae sic dicta sunt, ea, quae
+in similibus dictis tacentur, similiter intelligere;
+praesertim cum ex his quae dicuntur, nulla ratione
+contradicente, ea, quae non dicuntur, rationabili necessitate
+consequi apertissime viderimus. Cum
+enim dicit Dominus ad Patrem: <hi>Haec est autem vita
+aeterna, ut cognoscant te solum verum Deum, et quem
+misisti Jesum Christum <note>(Joan. XVII, 3)</note>
+          </hi>; an ideo debemus
+separare ab hac salubri et vitali cognitione
+Spiritum sanctum, quia nusquam legitur: <hi>Haec est
+autem vita aeterna, ut cognoscant Patrem solum verum
+Deum, et Spiritum sanctum</hi>. Aut: <hi>Haec est vita aeterna,
+ut cognoscant Filium solum verum Deum et Spiritum
+sanctum</hi>? Aut cum legimus: Quia <hi>sicut Pater
+habet vitam in semetipso; sic dedit et Filio vitam
+<pb n="0314C"/>
+habere in semetipso <note>(Joan. V, 26)</note>
+          </hi>, dicemus Spiritum
+sanctum non habere a Patre, a quo est, ut habeat
+in semetipso vitam, sicut habet Pater et Filius; quoniam
+hoc nusquam dicit Filius de Spiritu sancto,
+sicut de seipso. Item cum dicit: <hi>Pater in me est, et
+ego in Patre</hi>. Et: <hi>Qui videt me, videt et Patrem <note>(Joan. XIV, 10)</note>
+          </hi>,
+an negabimus Spiritum sanctum
+esse in Patre et Filio, et Patrem et Filium esse in
+Spiritu sancto; aut eum, qui videt Filium, videre
+Spiritum sanctum, sicut videt Patrem; si haec non
+eadem pronuntiatione leguntur, qua de Patre et
+Filio proferuntur? Imo quoniam unus idemque Deus
+est, Pater, et Filius, et Spiritus sanctus: cum dicitur
+cognoscere solum verum Deum Patrem et Filium
+esse vitam aeternam, inseparabiliter intelligendus
+<pb n="0314D"/>
+est in illa cognitione Spiritus sanctus. Et cum
+legimus: Quia <hi>sicut Pater habet vitam in semetipso;
+sic dedit Filio habere vitam in semetipso</hi>, non debemus
+<pb n="0315A"/>
+vitam eamdem existimare alienam a Spiritu
+sancto, aut quod illam non in semetipso habeat.
+Et cum audimus: <hi>Pater in me est, et ego in Patre</hi>.
+Et: <hi>Qui me videt, videt et Patrem</hi>, cognoscere debemus
+per haec quae ita dicuntur, quia Spiritus sanctus
+non est extra Patrem et Filium, aut Pater et
+Filius extra Spiritum sanctum; et quia per visionem
+ Filii videtur Spiritus sanctus sicut Pater.
+Sicut enim non est alius Deus Pater, alius Deus
+Filius, alius Deus Spiritus sanctus; sic non habet
+Deus aliud in seipso quam Deum; nec est Deus extra
+Deum; nec Deus est dissimilis Deo. Denique,
+ubi legimus in propheta, aut evangelista, aut
+Apostolo his verbis Deum unum esse tres personas,
+aut unum Deum esse Trinitatem, aut Deum de Deo?
+<pb n="0315B"/>
+sed neque in illo Symbolo, in quo non est prolata
+processio Spiritus sancti de Filio, invenimus nomen
+personae, vel Trinitatis. Quoniam tamen ex his
+quae legimus haec apertissime sequuntur, constanter
+ea et corde credimus, et ore confitemur. Quare non
+tantum suscipere cum certitudine debemus quae in
+sacra Scriptura leguntur, sed etiam ea quae ex his,
+nulla alia contradicente ratione, rationabili necessitate
+sequuntur.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXI [ <hi>al</hi>. XX].</head>
+<p> <hi>Processio Spiritus sancti de Filio exprimitur, cum
+Spiritus sanctus dicitur Spiritus Filii</hi>.</p>
+<p>Quamvis quae supra jam dicta sunt sufficere possint,
+adhuc tamen aliquid addam, unde Spiritus
+sanctus cognoscatur esse de Filio. Confitentur Graeci
+nobiscum Spiritum sanctum esse Spiritum Dei, et Spiritum
+<pb n="0315C"/>
+Patris, et Spiritum Filii. Quaero itaque si eodem
+modo intelligunt illum esse Spiritum Dei, et Spiritum
+Patris, et Spiritum Filii; aut dissimiliter? Certum
+est autem quia non dicitur Spiritus Dei, sicut possessio;
+ut cum dicitur equus alicujus, vel domus. Major enim
+est qui possidet, quam quod possidetur. Deus autem
+non est major Spiritu sancto; quia Spiritus sanctus
+est Deus, nec Deus est major Deo. Neque dicitur Spiritus
+Dei, ut membrum Dei, sicut manus vel pes hominis:
+nos enim Deus habet membrum, aut partem ullam.
+Quomodo ergo intelligendus est Spiritus esse Dei,
+nisi quia hoc, quod est, ex Deo? Non autem significat
+aliud nomen Patris, quam Deum, qui est Pater;
+aut relationem ejus ad Filium, ex qua nomen Patris
+<pb n="0315D"/>
+habet. Similiter dicendum est de Filio. Quid namque
+<pb n="0316A"/>
+intelligitur in nomine Filii, nisi Deus qui Filius est,
+aut relatio qua refertur ad Patrem, per quam Filius
+appellatur? Sed nullus sensus capit Spiritum sanctum
+esse Spiritum Patris, aut Filii, secundum quod alter est
+Pater, alter Filius; sed secundum quod uterque unus
+idemque Deus est. Quare idem est intellectus, cum dicitur
+Spiritus Dei, et Spiritus Patris, et Spiritus Filii;
+sed Spiritus Dei, et Spiritus Patris dicitur, quia est et <emph>59</emph> 
+ procedit de Deo, et de Patre. Itaque est et procedit
+etiam de Filio, quia eodem sensu spiritus
+Filii dicitur. Nam, cum Spiritus sanctus dicitur
+spiritus Dei spiritus Domini, si non intelligimus
+ibi spiritum Filii eo sensu quo spiritum Patris, aut
+separabimus Filium a nomine Dei vel Domini, aut
+bifariam intelligetur Spiritus Dei, sive spiritus Domini.
+<pb n="0316B"/>
+Sed unde hunc habent sensum, aut ubi legitur
+in sacra Scriptura quod similiter non intelligatur
+de Patre et de Filio, cum legimus spiritum Dei
+aut spiritum Domini, aut quid invenitur, unde
+hoc sequatur? Nam si dicunt: Cum dicitur spiritus
+Patris, duobus modis intelligitur: Est enim
+spiritus Patris, quia est de Patre, et quia datur a
+Patre; Filii vero spiritus non est, nisi quia datur
+a Filio. Hoc est quod quaero, unde habeant. Et si
+dicunt quod in nulla authentica dictum est pagina;
+nec sequitur ex eo quod ibi scriptum sit: cur
+nos reprehendunt, cum dicimus Spiritum sanctum
+procedere de Filio, ideo quia haec verba non legunt;
+cum ex his, quae legunt et credunt, hoc ex necessitate
+sequi intelligamus? Judicent quoque ipsi
+quid potius suscipiendum sit, quamvis in sacra
+<pb n="0316C"/>
+pagina utrumque taceatur; an hoc, quod nos dicimus,
+Spiritum sanctum procedere de Filio, quod
+ostendimus ex his consequi quae veraciter credimus;
+an quod ipsi dicunt, Spiritum sanctum aliter esse
+Spiritum Patris, aliter esse Filii: quod nec auctoritate,
+nec ratione, nec ex his quae certa sunt,
+possunt ostendere. Utique aut debent cessare ab
+hac sua sententia, si tamen hoc dicunt, ut audio,
+quod Spiritus sanctus aliter est Filii spiritus,
+quam spiritus Patris; cum nusquam hoc legant, vel
+unde hoc probent; aut saltem nos reprehendere non
+debent, qui dicimus Spiritum sanctum procedere
+de Filio; quamvis his verbis hoc non legamus,
+quoniam ex his, quae pariter credimus, hoc
+<pb n="0316D"/>
+consequi monstramus. Sed si cessant ab hac sua
+<pb n="0317A"/>
+assertione, credant pariter nobiscum Spiritum sanctum
+similiter esse Patris et Filii spiritum, et intelligant
+eum a Filio, sicut a Patre procedere. Et si nos
+reprehendere desinunt, fateantur nobiscum hoc,
+unde cognoscunt nos reprehendi non debere.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXII [ <hi>al</hi>. XXI].</head>
+<p> <hi>Cur in Symbolo non sit expressa processio Spiritus
+sancti a Filio: et cur a Latinis fuerit adjecta,
+Graecis inconsultis</hi>.</p>
+<p>Ad hoc autem, quod nos reprehendunt in Symbolo
+illo, quod pariter nos et illi suscipimus et tenemus
+addidisse Spiritum sanctum a Filio procedere;
+et quaerunt cur hoc factum sit, et quare hoc
+prius eorum Ecclesiae monstratum non est, ut communiter
+consideraretur, et communi consensu adderetur
+<pb n="0317B"/>
+quod addendum erat: ad hoc, inquam, responsum
+sufficiens habemus. Nam si quaeritur cur
+factum sit, dicimus quia necesse erat propter quosdam
+minus intelligentes, qui non animadvertebant
+in illis, quae universa credit Ecclesia, contineri, et
+ex his sequi Spiritum sanctum de Filio procedere;
+ne forte hoc credere dubitarent. Quod quam necessarium
+fuerit, per illos qui hoc negant, quia in illo
+Symbolo positum non est, cognoscimus. Quoniam
+igitur et necessitas cogebat, et nulla ratio prohibebat,
+et vera fides hoc admittebat; fiducialiter asseruit
+Latinitas, quod credendum et confitendum
+esse cognoscebat. Scimus enim quod non omnia,
+quae credere et confiteri debemus, ibi dicta sunt;
+nec illi qui Symbolum illud dictavere, voluerunt
+<pb n="0317C"/>
+fidem Christianam esse contentam ea tantummodo
+credere et confiteri, quae ubi posuerunt. Ut enim
+alia taceam, non ibi dicitur Dominus ad infernum
+descendisse; quod tamen pariter et nos et
+Graeci credimus. Si autem dicunt nullo modo debuisse
+corrumpi Symbolum tanta auctoritate taxatum,
+nos non judicamus esse corruptionem, ubi
+nihil addimus quod his, quae ibi dicta sunt, adversetur.
+Et quamvis defendere possemus hanc
+adjectionem non esse corruptionem, si quis tamen
+hoc contentiose voluerit asserere, respondemus nos
+illud non corrupisse, sed aliud novum edidisse: illud
+enim secundum proprietatem Graeci dictaminis
+translatum, cum illis integrum servamus et veneramur;
+<pb n="0317D"/>
+istud autem, quo frequentius in populi
+audientia utimur, Latino more dictatum cum
+addimento supradicto edidimus. Quod autem quaeritur,
+quare hoc Graecorum ecclesiae consensu factum
+<pb n="0318A"/>
+non est. Respondemus quia et nimis erat difficile
+Latinis, eorum episcopos ad consulendum de hac
+re colligere; nec erat necesse unde non dubitant hoc
+in quaestionem adducere. Quae est enim Ecclesia
+quae vel per amplitudinem unius regni dilatatur,
+cui non liceat aliquid secundum rectam fidem constituere,
+quod in conventu populi utiliter legatur
+aut cantetur? Quanto ergo magis licuit Latinis hoc
+constanter proferre, in quo omnes gentes et omnia
+regna, quae Latinis utuntur litteris, pariter concordant.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXIII [ <hi>al</hi>. XXII]</head>
+<p> <hi>Summa doctrinae et probationum processionis Spiritus
+sancti de Filio</hi>.</p>
+<p>Colligamus breviter quod supra pluribus rationibus
+<pb n="0318B"/>
+effectum est. Constat inexpugnabili ratione Spiritum
+sanctum esse de Filio, sicuti est de Patre;
+nec tamen esse quasi de duobus diversis, sed quasi
+de uno. Ex eo enim, quod Pater et Filius unum
+sunt, id est ex Deo, est Spiritus sanctus; non ex
+eo, unde alii sunt ab invicem, sed quoniam Deus,
+de quo est Spiritus sanctus, est Pater et Filius;
+idcirco vere dicitur esse de Patre et Filio, qui duo
+sunt. Et quoniam Pater non est prior aut posterior
+Filio, aut major aut minor, nec alter magis aut
+minus est Deus quam alter: non est Spiritus sanctus
+prius de Patre, quam de Filio; nec de Filio,
+quam de Patre; nec major nec minor est existens
+de Patre, quam existens de Filio; nec magis nec
+minus est de uno, quam de altero. Nam si prius aut
+<pb n="0318C"/>
+post, vel major vel minor, aut magis aut minus
+de uno esset quam de altero, ex necessitate sequeretur
+ut aut Spiritus sanctus non esset de hoc, in
+quo unum sunt Pater et Filius; aut ipsum unum non
+esset perfecte et simpliciter unum, sed esset ibi aliqua
+diversitas, de qua illa, quam dixi, in existendo
+de eodem uno Spiritum sanctum, esset varietas.
+Sed dici non potest quod Spiritus sanctus non sit
+de hoc, in quo unum sunt Pater et Filius; alioquin
+non esset de Deo. Nec credi debet quod in ipso
+uno sit, secundum quod est, aliqua diversitas.
+Quare nec prius nec post, nec major aut minor, nec
+magis aut minus est Spiritus sanctus de Patre,
+quam de Filio; aut de Filio, quam de Patre. Non
+<pb n="0318D"/>
+enim unus idemque Spiritus sanctus, qui semel
+totus est de Deo toto, magis aut minuspotest
+esse de uno et summe simplici Deo.
+<pb n="0319A"/>
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXIV [ <hi>al</hi>. XXIII].</head>
+<p> <hi>Quod Spiritus sanctus non sit principaliter de Patre</hi>.</p>
+<p>Quod si dicitur quia Spiritus sanctus principaliter
+est de Patre, quasi magis sit de Patre quam
+de Filio, non ita dicendum est ut intelligatur ulla
+praedictarum varietatum inesse; sed quoniam Filius
+hoc quod est, de Patre habet, idcirco hoc ipsum
+quod Spiritus sanctus est de Filio, habere de Patre,
+de quo habet esse, non inconvenienter asseritur.
+Quoniam tamen sic habet esse de Patre Filius, ut
+omnino idipsum sit quod Pater, et unus idemque
+Deus: sicut solus et simplex Deus non potest esse
+major vel minor seipso, nec prior nec posterior, nec
+aliquid in se habet diversum; sic <emph>60</emph> Filius nec
+prior nec posterior, nec major nec minor est Patre,
+<pb n="0319B"/>
+nec habet aliquid in se diversum ab eo; sed sicut
+habet ab illo perfecte esse, ita habet per omnia ab
+eodem aequalem illi et similem, imo idipsum esse.
+Quapropter sicut Pater non est magis Deus quam
+Filius, quamvis Filius habeat esse de Patre;
+ita non est magis Spiritus sanctus de Patre quam
+de Filio, licet Filius a Patre habeat, ut de illo sit
+Spiritus sanctus. In eo enim in quo est unus idemque
+cum Patre, id est in eo quod Deus est, non est
+alius ille, et alius Pater; neque dissimiliter habet
+aliquid, quia non est alius Deus Pater, et
+alius Deus Filius; neque dissimiliter sunt id quod
+sunt, sed in eo quod ille est Pater, iste Filius; est
+alius ille, et alius iste. Et sicut Filius non est
+alius Deus quam Pater; ita secundum quod Deus
+<pb n="0319C"/>
+est, non habet aliquid ab alio quam a seipso.
+Nam cum dicimus Deum de Deo, Filium de Patre,
+non alium intelligimus Deum de Deo alio; sed eumdem
+ipsum Deum de eodem ipso Deo, quamvis dicamus
+alium de alio, Filium scilicet de Patre. Sicut
+enim supra dictum est, quemadmodum Deus, secundum
+nomen significans unitatem, nullam recipit diversitatem;
+ita secundum nomina significantia Deum
+esse de Deo, necessario admittit pluralitatem. Si
+ergo dicitur quod Spiritus sanctus principaliter a
+Patre sit; non aliud significatur quam quia ipse Filius,
+de quo est Spiritus sanctus, a Patre habet
+hoc ipsum, ut Spiritus sanctus sit de illo; quoniam
+ id quod est, habet a Patre. Non quemadmodum
+<pb n="0319D"/>
+in rebus creatis, dum aliquid asserimus esse
+<pb n="0320A"/>
+principaliter, volumus significare quod magis sit hoc
+quod dicitur esse principaliter, quam illud ad quod
+refertur: ut cum dispensator alicujus domini ejus
+praecepto pascit familiam domus, dominus principaliter
+et magis eam pascere recte dicitur, quam
+dispensator. Nam non omnia quae sunt domini,
+sunt dispensatoris aequaliter; sicut ea quae sunt
+Patris, Filii quoque sunt non inaequaliter.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXV.</head>
+<p> <hi>Processio haec nullam intra Deum prioritatem inducit,
+nisi originis</hi>.</p>
+<p>Quaeret forsitan aliquis et mirabitur dicens:
+Quomodo potest intelligi ut aliquid habeat esse
+de aliquo; et non sit aliquo modo id, de quo est,
+<pb n="0320B"/>
+principalius et dignius; et hoc, quod ex eo est,
+quodammodo minus et quasi secundarium: praesertim
+cum id quod est de aliquo, videatur indigere;
+ut sit, eo de quo est; illud vero, de quo est,
+nequaquam egeat eo quod de se est? Ad quod respondendum
+quia sicut essentia Dei valde diversa et
+aliena est a creata essentia, ita, cum dicimus Deum
+de Deo existere nascendo vel procedendo, longe aliter
+intelligenda est ista nativitas sive processio,
+quam cum dicimus in aliis rebus aliquid nasci vel
+procedere. Ibi enim nihil est aut natura, aut
+tempore, aut in aliquo prius aut posterius, magis
+aut minus, aut ulla ratione aliquo indigens:
+sed totum quod est non tam aequale vel simile
+sibi et coaeternum, quam idem sibi ipsi, et per se
+<pb n="0320C"/>
+sibi ipsi omnino sufficiens; nec nascitur vel procedit
+ibi aliquid, quasi de non esse proficiens ad esse.
+Sicut igitur intellectus noster non potest transire
+ultra aeternitatem, ut quasi de principio ejus judicet;
+sic non potest de hac nativitate vel processione
+nec debet ad similitudinem creaturae sentire vel judicare.
+Sed quoniam et quod nascitur et quod procedit,
+non est aliud quam id de quo est nascens
+vel procedens, quod est solus et unus Deus: sicut
+idem Deus non est seipso major vel minor; ita in
+tribus, hoc est in Patre et Filio et Spiritu sancto,
+non est aliquid majus vel minus, nec est alius alio
+hoc, quod est majus vel minus; quamvis verum sit
+<pb n="0320D"/>
+quia Deus est de Deo, nascendo et procedendo.
+<pb n="0321A"/>
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXVI.</head>
+<p> <hi>Veritas processionis Spiritus sancti a Filio, ideo maxime
+firmatur; quia fide certa sunt, ex quibus necessario
+sequitur</hi>.</p>
+<p>Ecce vidimus de quanta veritate et quanta
+necessitate sequatur Spiritum sanctum de Filio procedere.
+Quod si verum non est aut aliquid eorum,
+ex quibus hoc diximus consequi, falsum est: quod
+est contra Christianam fidem, quam cum Graecis
+tenemus; aut non consequenter conclusimus; quod
+ostendi nequit. Quare si verum non est, fides Christiana
+destruitur. Palam etiam est intelligenti, si
+falsum esse ponitur, quia nulla inde veritas nascitur.
+Consideremus quoque quid eveniat, cum pro
+vero asseritur. Utique si verum est Spiritum sanctum
+<pb n="0321B"/>
+procedere a Filio sicut a Patre, sequitur quia
+Filii spiritus est sicut Patris, et mittitur et datur a
+Filio sicut a Patre; quod divina docet auctoritas,
+et nulla penitus sequitur falsitas. Cum autem processio
+Spiritus sancti a Filio negata tantam inducat
+falsitatem, ut illa ex quibus eam consequi monstravimus,
+destruat contra fidem Christianam, nec ullam
+generet veritatem, et asserta tantam probet
+veritatem, sicut ostendimus, nec aliquam ullatenus
+ secum trahat falsitatem, cogitet cor rationale
+qua ratione illam excludat a fide Christiana.
+Denique si error est hanc credere de Filio Spiritus
+sancti processionem, ipsa divina auctoritas nos in
+errorem inducit, cum et illa ex quibus haec sequitur
+processio et quae illam sequuntur, nos docet;
+<pb n="0321C"/>
+nec alicubi aut illam negat, aut quod ille repugnet
+aliquo modo pronuntiat. Si ergo opponitur, quia
+nusquam eam profert divina auctoritas, ideo non
+esse dicendam. Dicatur similiter, quia nusquam
+illam negat, nec aliquid dicit quod repugnet, non esse
+negandam. Dicimus etiam quia satis illam affirmat,
+cum illa asserit, unde probatur; et nullo modo aliquid
+significat, unde negetur.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXVII.</head>
+<p> <hi>Si Spiritus sanctus a Filio non procederet, non esset
+cur Filius non procederet de Spiritu sancto</hi>.</p>
+<p>Patet ergo, sicut supra praemisi, praeter hoc
+quia Filius existit nascendo, et Spiritus sanctus
+procedendo; hac quoque causa, quia scilicet Spiritus
+sanctus est de Filio, eos de invicem non posse
+<pb n="0321D"/>
+dici, et propter hoc solum, Filium non posse esse
+de Spiritu sancto. Nam, quoniam, ut dictum est,
+aut Filius est de Spiritu sancto, aut Spiritus sanctus
+de Filio; si non esset Spiritus sanctus de Filio,
+<pb n="0322A"/>
+sequoretur de Spiritu sancto Filium esse. Apparet
+itaque per supradictas rationes, quia Pater est Deus
+de quo Deus est, et non est Deus de Deo; et Filius est
+Deus de Deo, et Deus de quo est Deus; et Spiritus
+sanctus est Deus de Deo, nec est Deus de quo
+est Deus. Et quamvis de Patre sint duo, id est Filius
+et Spiritus sanctus, non tamen duo dii sunt de
+Patre, sed unus est Deus qui est Filius et Spiritus
+sanctus. Et licet duo sint, de quo est Filius et qui
+est de Filio; id est Pater et Spiritus sanctus, non
+tamen sunt duo dii, sed unus Deus, qui est Pater et
+Spiritus sanctus. Et quanquam Spiritus sanctus
+sit de duobus, id est de Patre et Filio, non tamen
+de duobus est diis, sed de uno Deo, qui est Pater
+et Filius. Si autem Pater et Filius et Spiritus sanctus
+<pb n="0322B"/>
+bini considerentur, liquet ex his quae dicta
+sunt, quia necesse est alterum ex altero aut esse,
+quia ille non ex se est: aut non esse quia ille est
+ex se. Nam si conferamus Patrem et Filium, videmus
+Filium esse de Patre, quia Pater non est de illo;
+et Patrem non esse de Filio, quia Filius est de
+Patre. Et similiter si consideramus Patrem et
+Spiritum sanctum, invenimus Spiritum sanctum
+esse de Patre; quia non est de illo Pater; et Patrem
+non esse de Spiritu <emph>61</emph> sancto, quia Spiritus sanctus
+est de illo. Ita quoque si Filius et Spiritus
+sanctus quomodo sint ad invicem, speculamur;
+intelligimus Spiritum sanctum esse de Filio,
+quia Filius non est de illo; et Filium non esse de
+Spiritu sancto, quia Spiritus sanctus est de Filio.
+<pb n="0322C"/>
+Apparet igitur, quod supra dixi, quia relationes
+praedictae licet sint in uno, non possunt unitati
+immittere pluralitatem suam; nec unitas relationibus
+singularitatem suam.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXVIII.</head>
+<p> <hi>Communia et propria Patri, ac Filio, et Spiritui
+sancto</hi> </p>
+<p>Porro sex sunt differentiae Patris et Filii et Spiritus
+sancti, ex his nascentes nominibus, id est habere
+Patrem et non habere Patrem; habere Filium, et
+non habere Filium; habere Spiritum sanctum de se
+procedentem, et non habere Spiritum sanctum de se
+procedentem. Harum differentiarum singulus quisque
+habet unam propriam, qua differt ab aliis duobus;
+<pb n="0322D"/>
+et duas ita communes et proprias, ut qua communicat
+ uni, ea differat ab altero. Pater namque
+habet Filium solus, quo differt ab aliis duobus;
+habet Spiritum sanctum procedentem de se, quod
+<pb n="0323A"/>
+commune est illi cum Filio, et quo differt a Spiritu
+sancto; Patrem autem non habet, sicut nec Spiritus
+sanctus, et in hoc differt a Filio. Filius solus habet
+Patrem, in quo differt a Patre et Spiritu sancto:
+et est illi commune cum Patre, sicut dictum est,
+quia procedit de illo Spiritus sanctus, unde ab eodem
+Spiritu sancto divisus est; caret autem Filio,
+sicut Spiritus sanctus unde discrepat a Patre. Spiritus
+sanctus solus est de quo alius non procedit:
+commune est illi cum Patre, ut dixi, non habere
+Patrem, in quo dissimilis est Filio; cum Filio quoque
+est illi commune, ut jam monstratum est, non
+habere Filium unde Patri non concordat. Solus itaque
+Pater est qui est de nullo, et de quo sunt alii
+duo. Solus e contra Spiritus sanctus est qui de
+<pb n="0323B"/>
+duobus, et de quo nullus. Solus Filius qui de uno,
+et de quo unus. Est autem tribus commune, ad
+duos habere relationem: Pater enim ad Filium et
+Spiritum sanctum refertur, sicut ad illos qui de se
+sunt: Filius ad Patrem et ad Spiritum sanctum, quia
+est de Patre, et Spiritus sanctus de illo; Spiritus
+sanctus ad Patrem et Filium, quia est de utroque.
+Possidet ergo unusquisque suas proprietates, quarum
+collectio in alio non est eadem, ad similitudinem
+diversarum hominum personarum. Per hoc enim
+hominum personae diversae sunt ab invicem, quia
+uniuscujusque proprietatum collectio non est in
+alia eadem. Interest tamen aliquid: nam in personis
+hominum si una est persona, unus est homo;
+et si unus est homo, una est persona: item, si plures
+<pb n="0323C"/>
+sunt personae, plures quoque sunt homines; et
+si isti plures sunt, illae et pluralitatem non effugiunt.
+In Deo vero quamvis tres personae sint, unus
+tamen est Deus: et licet sit unus Deus, nequaquam
+tamen personae pluralitatem amittunt. In hoc
+itaque quod relative Deus ad Deum dicitur, sicut
+plures homines, personarum admittit pluralitatem
+ et diversitatem; in hoc vero quod per se est, id
+est, in Deo, inseparabilem, ad similitudinem
+unius hominis, servat singularitatem: pluralitas namque
+humanarum personarum non est nisi in pluribus
+hominibus, nec unus homo pluralitatem accipit
+personarum; Deus vero unus est tres personae, et
+<pb n="0323D"/>
+personae tres unus Deus. Hoc itaque modo nec unius
+<pb n="0324A"/>
+nec diversarum integre servat aliarum personarum
+proprietatem.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT XXIX.</head>
+<p> <hi>In Deo per ea propria est personarum pluralitas; per
+communia vero, essentiae unitas</hi>.</p>
+<p>Cur autem ita sit, quamvis in praefata epistola
+de incarnatione Verbi, de hoc aliquantulum dixerim,
+breviter tamen hic repetam. Saepe fit ut plura
+conveniant in unum sub eodem nomine et eadem
+quantitate, quam habebant singula antequam
+unum fierint. Quippe si puncto punctum addimus
+sine intervallo aut aequalem lineam in aequali linea,
+aut superficiem aequalem in aequali superficie
+ collocamus, non fit nisi unus punctus, una
+linea, una superficies. In multis si quis voluerit quaerere
+<pb n="0324B"/>
+inveniet similia. Hoc itaque modo, quamvis
+non sint plures aeternitates, si tamen dicitur
+aeternitas in aeternitate, non est nisi una aeternitas;
+et lumen in lumine, unum tantum lumen est. Eodem
+modo quaecunque de Dei dicuntur essentia, si in se
+replicentur, nec quantitatem augent, nec pluralitatem
+admittunt. Quoniam autem Deus est aeternitas,
+sicut extra aeternitatem nihil est omnino, ita extra
+Deum penitus non est aliquid: atque sicut aeternitas
+in aeternitate non est nisi una aeternitas, sic Deus
+ in Deo, unus est solus Deus. Habemus autem ex
+vera fide Deum esse de Deo, nascendo, et Deum de
+Deo, procedendo. Sed quoniam non est aliquid extra
+Deum, cum nascitur Deus de Deo vel cum procedit
+Deus de Deo non exit nascens vel procedens
+<pb n="0324C"/>
+extra Deum, sed manet in Deo. Quoniam ergo Deus
+in Deo non est nisi unus Deus, cum nascitur Deus
+de Deo, unus solus est Deus gignens et genitus: et
+cum procedit Deus de Deo, unus tantummodo
+Deus est procedens et de quo procedit. Unde
+inevitabiliter sequitur: quoniam Deus nullas habet
+partes, sed totus est quidquid est; unum eumdemque,
+et non alium Deum, totum esse Patrem, totum
+esse Filium, totum esse Spiritum sanctum,
+Quare Pater et Filius et Spiritus sanctus, per hoc
+quia cum est Deus de Deo et Deus in Deo, non est
+ nisi unus Deus; servant in Deitate ad similitudinem
+unius hominis, singularitatem: per hoc vero,
+<pb n="0324D"/>
+quia cum Deus est de Deo aut nascendo aut procedendo,
+<pb n="0325A"/>
+non potest unus idemque esse qui est de aliquo,
+et de quo est; secundum nomina has relationes
+significantia, tenent, sicut diversae hominum personae,
+pluralitatem. Notandum tamen quia nec Deus
+est sine persona, nec persona sine Deo; et quia singulis
+personis attribuimus aliquando propria singularum
+aliquando uni quasi proprium, quod commune
+est aliis. Nam cum dicimus: solus Pater est in
+tribus personis, qui a nullo est,
+solus Filius est
+qui de uno et de quo unus est; solus Spiritus sanctus
+est, de quo nullus est; singulas personas nominantes,
+singulis propria attribuimus. Cum vero
+legimus: <hi>Nemo novit Filium, nisi Pater; neque Patrem
+quis novit nisi Filius <note>(Math. XI, 27)</note>
+          </hi>. Et <hi>quae
+sunt Dei, nemo cognovit nisi Spiritus Dei</hi>, <hi>(I Cor. II.
+<pb n="0325B"/>
+11)</hi>. Quamvis videatur Scriptura quod de una dicit
+persona, negare de aliis; commune tamen est omnibus,
+<pb n="0326A"/>
+quod singulis quasi proprium attribuit. Non
+enim ignorat Pater aut Filius seipsum et quae Dei
+sunt, neque Spiritus sanctus Patrem aut Filium. Cur
+autem et quando quod de uno quasi de solo dicitur,
+de aliis intelligatur, satis supra dictum est.
+</p>
+
+<div1>
+          <head> <hi>Operis clausula</hi>.</head>
+<p>Haec de processione Spiritus sancti, aliis cogentibus,
+non de me, sed de eodem Spiritu sancto confidens,
+pro Latinis contra Graecos scribere; et ea occasione
+de unitate Deitatis et de Trinitate personarum
+aliquid addere praesumpsi quamvis inumerabiles
+sint inter illos qui Latinis utuntur litteris, qui hoc
+melius quam ego facere possint. Quidquid ergo dixi
+quod suscipiendum sit, non mihi attribuatur, sed
+Spiritui veritatis. Si autem aliquid protuli quod aliquatenus
+<pb n="0326B"/>
+corrigendum sit, mihi imputetur, non sensui
+Latinitatis [Ecclesiae Latinae].
+</p>
+</div1>
+</div2>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,228 @@
+{
+  "id": "anselm-de-processione-spiritus-sancti",
+  "cover": "classic",
+  "name": {
+    "la": "De processione Spiritus Sancti",
+    "en-US": "On the Procession of the Holy Spirit",
+    "pt-BR": "Sobre a processão do Espírito Santo"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Anselmi de processione Spiritus Sancti contra Graecos, quam in concilio Barensi (1098) disputavit et postea composuit. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s defence of the Latin doctrine that the Holy Spirit proceeds from the Father and the Son, against the Greeks, as argued before the Council of Bari (1098) and written down afterwards. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR.",
+    "pt-BR": "A defesa de Anselmo da doutrina latina de que o Espírito Santo procede do Pai e do Filho, contra os gregos, tal como a discutiu no Concílio de Bari (1098) e depois a redigiu."
+  },
+  "composed": "1098-1102",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-processione-spiritus-sancti",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10613",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10613, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quae communis est Latinis et Graecis fides de Trinitate"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Quomodo indivisibilis unitas, et insociabilis pluralitas in Deo conveniant"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quomodo unitatis Dei consequentiam restringat relatio"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Cum Filius non sit de Spiritu sancto, ipse Spiritus ex Filio procedit"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Evincitur Spiritum sanctum hoc, quod est, habere a Patre; contra quemdam episcopum Graecis faventem"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Spiritum sanctum, nisi esse a Patre habeat, non posse intelligi alium esse ab eo, per missionem seu processionem"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Spiritus sancti processio de Patre importat ejus processionem de Filio"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Spiritus sanctus procedit de Patre et Filio, quia procedit de solo vero Deo, qui Pater est et Filius"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Missio Spiritus in nomine Filii et a Filio confirmat Processionem ejus de Filio"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Eadem processio probatur ex Christi insufflatione in apostolos"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Eadem processio arguitur ex verbis Christi: Ille de meo accipiet"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Urgentur ad idem verba alia Christi: Nemo novit Filium nisi Pater, etc"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Spiritus sanctus procedens a Filio non est eo posterior aut minor"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Disparitas inter Filii ac Spiritus sancti processionem de Patre, et splendoris ac caloris processionem de sole"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Quod Graeci non recte dicant Spiritum sanctum procedere de Patre per Filium per quem sunt omnia; sed ipse procedat ex Deitate, quae una est Patris et Filii"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Quod Spiritus sanctus non procedat a Patre per Filium; sicut omnia a Patre per Verbum sunt facta"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Quod sicut lacus est de rivo et fonte, ita Spiritus sanctus procedat de Patre et Filio"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Pater et Filius sunt unum principium Spiritus sancti"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Infringitur argumentum ductum ex eo quod Christus expresserit solam Spiritus sancti processionem a Patre"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Ejusdem argumenti confirmatio refutatur"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Processio Spiritus sancti de Filio exprimitur, cum Spiritus sanctus dicitur Spiritus Filii"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Cur in Symbolo non sit expressa processio Spiritus sancti a Filio: et cur a Latinis fuerit adjecta, Graecis inconsultis"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. Summa doctrinae et probationum processionis Spiritus sancti de Filio"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Quod Spiritus sanctus non sit principaliter de Patre"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Processio haec nullam intra Deum prioritatem inducit, nisi originis"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI. Veritas processionis Spiritus sancti a Filio, ideo maxime firmatur; quia fide certa sunt, ex quibus necessario sequitur"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII. Si Spiritus sanctus a Filio non procederet, non esset cur Filius non procederet de Spiritu sancto"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII. Communia et propria Patri, ac Filio, et Spiritui sancto"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "la": "Caput XXIX. In Deo per ea propria est personarum pluralitas; per communia vero, essentiae unitas"
+      }
+    },
+    {
+      "id": "clausula",
+      "title": {
+        "la": "Operis clausula"
+      }
+    }
+  ]
+}
