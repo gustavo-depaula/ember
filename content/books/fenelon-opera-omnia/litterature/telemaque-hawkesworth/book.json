@@ -1,0 +1,186 @@
+{
+  "id": "fenelon-telemaque-hawkesworth",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Les Aventures de Télémaque (traduction anglaise de Hawkesworth, 1768)",
+    "en-US": "The Adventures of Telemachus",
+    "pt-BR": "As Aventuras de Telêmaco (tradução inglesa de Hawkesworth, 1768)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le roman de Fénelon dans la traduction anglaise de John Hawkesworth (1768), en vingt-quatre livres selon l’édition authentique de 1717.",
+    "en-US": "Fénelon’s romance in John Hawkesworth’s English translation (1768), in twenty-four books as in the authentic edition of 1717.",
+    "pt-BR": "O romance de Fénelon na tradução inglesa de John Hawkesworth (1768), em vinte e quatro livros como na edição autêntica de 1717."
+  },
+  "composed": "1693–1699",
+  "languages": [
+    "en-US"
+  ],
+  "work": "fenelon/telemaque",
+  "editions": {
+    "en-US": {
+      "translator": "John Hawkesworth",
+      "year": 1768
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/adventuresoftel00fn",
+      "edition": "The Adventures of Telemachus, the Son of Ulysses, tr. John Hawkesworth, London 1768 (archive.org OCR)",
+      "description": "archive.org OCR, lightly cleaned (running heads, hyphenation); residual OCR errors remain. The long s of the print was read as f by the OCR; the text was repaired word by word against the corpus English vocabulary, so a few misreadings remain.",
+      "tier": "A",
+      "tierEvidence": "Published before 1900; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "book-01",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "book-02",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "book-03",
+      "title": {
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "book-04",
+      "title": {
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "book-05",
+      "title": {
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "book-06",
+      "title": {
+        "en-US": "Book VI"
+      }
+    },
+    {
+      "id": "book-07",
+      "title": {
+        "en-US": "Book VII"
+      }
+    },
+    {
+      "id": "book-08",
+      "title": {
+        "en-US": "Book VIII"
+      }
+    },
+    {
+      "id": "book-09",
+      "title": {
+        "en-US": "Book IX"
+      }
+    },
+    {
+      "id": "book-10",
+      "title": {
+        "en-US": "Book X"
+      }
+    },
+    {
+      "id": "book-11",
+      "title": {
+        "en-US": "Book XI"
+      }
+    },
+    {
+      "id": "book-12",
+      "title": {
+        "en-US": "Book XII"
+      }
+    },
+    {
+      "id": "book-13",
+      "title": {
+        "en-US": "Book XIII"
+      }
+    },
+    {
+      "id": "book-14",
+      "title": {
+        "en-US": "Book XIV"
+      }
+    },
+    {
+      "id": "book-15",
+      "title": {
+        "en-US": "Book XV"
+      }
+    },
+    {
+      "id": "book-16",
+      "title": {
+        "en-US": "Book XVI"
+      }
+    },
+    {
+      "id": "book-17",
+      "title": {
+        "en-US": "Book XVII"
+      }
+    },
+    {
+      "id": "book-18",
+      "title": {
+        "en-US": "Book XVIII"
+      }
+    },
+    {
+      "id": "book-19",
+      "title": {
+        "en-US": "Book XIX"
+      }
+    },
+    {
+      "id": "book-20",
+      "title": {
+        "en-US": "Book XX"
+      }
+    },
+    {
+      "id": "book-21",
+      "title": {
+        "en-US": "Book XXI"
+      }
+    },
+    {
+      "id": "book-22",
+      "title": {
+        "en-US": "Book XXII"
+      }
+    },
+    {
+      "id": "book-23",
+      "title": {
+        "en-US": "Book XXIII"
+      }
+    },
+    {
+      "id": "book-24",
+      "title": {
+        "en-US": "Book XXIV"
+      }
+    }
+  ]
+}
