@@ -1,0 +1,720 @@
+{
+  "id": "hugh-didascalicon",
+  "cover": "classic",
+  "name": {
+    "la": "Didascalicon de studio legendi",
+    "en-US": "Didascalicon: On the Study of Reading",
+    "pt-BR": "Didascálicon: sobre a arte de ler"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "Didascalicon de studio legendi, in sex libris: quid discendum, quo ordine et quomodo, de artibus et de Scripturis.",
+    "en-US": "Hugh’s guide to study in six books: what is to be learned, in what order and how, from the arts of philosophy (Books I-III) to the reading of Scripture, with the famous counsel to “learn everything; you will see afterwards that nothing is superfluous”. The seventh book of the Migne text, On the Three Days, is a separate book. Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "O guia de estudo de Hugo em seis livros: o que se deve aprender, em que ordem e como, das artes da filosofia (livros I a III) à leitura da Escritura. O sétimo livro do texto de Migne, Sobre os três dias, é um livro à parte."
+  },
+  "composed": "c. 1127",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/didascalicon",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.EruDid",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.EruDid, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus - de studio legendi"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Caput I. Duo esse praecipua, quibus ad scientiam quisque instruitur; et quae sit operis hujus materia."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput II. De origine artium, et animae perfectione."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput III. Quod studium sapientiae philosophia sit."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput IV. Triplicem esse vim animae, et solum hominem ratione praeditum."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput V. Quae res ad philosophiam pertineant."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput VI. De ortu theoricae, practicae, mechanicae."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput VII. De tribus rerum differentiis."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput VIII. De mundo superlunari et sublunari."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput IX. In quo homo similis sit Deo."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput X. De triplicibus operibus."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput XI. Quid sit natura."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput XII. De ortu logicae"
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput XIII. Epilogus supradictorum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus"
+      },
+      "children": [
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput I. De discretione artium."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput II. In quas partes dividatur philosophia."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput III. De theologia."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput IV. De mathematica."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput V. De quaternario animae."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput VI. De quaternario corporis."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput VII. De quadrivio."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput VIII. De arithmetica."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput IX. De musica."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput X. De Geometria."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput XI. De astronomia."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput XII. De arithmetica."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput XIII. De musica triplici."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput XIV. De geometria."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput XV. De astronomia."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput XVI. Diffinitio quadrivii."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput XVII. De physica."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput XVIII. Quid sit proprium uniuscujusque artis."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput XIX. Collatio supradictorum, et divisio theoricae."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput XX. Divisio practicae."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput XXI. Divisio mechanicae in septem scientias."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput XXII. De lanificio."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput XXIII. De armatura et fabrili."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput XXIV. De navigatione."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput XXV. De agricultura."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput XXVI. De venatione."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput XXVII. De medicina."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput XXVIII. De theatrica scientia."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput XXIX. De logica quae est quarta pars philosophiae; et de grammatica."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput XXX. De grammaticae divisione."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Caput XXXI, De ratione disserendi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius"
+      },
+      "children": [
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput I. De disciplina et ejus divisione."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput II. De auctoribus artium."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput III. Quae artes praecipue legendae sint."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput IV. De duobus generibus scripturarum."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Caput V. De artium cohaerentia."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Caput VI. Unicuique arti quod est tribuendum esse."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Caput VII. Quid sit necessarium studentibus."
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Caput VIII. De ingenio et memoria, quae duo pertinent ad naturam."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Caput IX. De ordine legendi."
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Caput X. De modo legendi."
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Caput XI. De meditatione."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Caput XII. De memoria."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Caput XIII. De disciplina."
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Caput XIV. De humilitate."
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Caput XV. De studio quaerendi."
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Caput XVI. De quatuor reliquis praeceptis."
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Caput XVII. De quiete."
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Caput XVIII. De scrutinio."
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Caput XIX. De parcitate."
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Caput XX. De exsilio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus"
+      },
+      "children": [
+        {
+          "id": "c065",
+          "title": {
+            "la": "Caput I. De studio divinarum Scripturarum."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Caput II. De ordine et numero librorum."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Caput III. De auctoribus divinorum librorum."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Caput IV. De bibliotheca."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Caput V. De Interpretibus."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Caput VI. De auctoribus Novi Testamenti."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Caput VII. Caetera esse apocrypha et quid sit apocryphum."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Caput VIII. Ratio divinorum librorum."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Caput IX. De Novo Testamento."
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Caput X. De canonibus Evangeliorum."
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Caput XI. De canonibus conciliorum."
+          }
+        },
+        {
+          "id": "c076",
+          "title": {
+            "la": "Caput XII. Quatuor esse principales synodos."
+          }
+        },
+        {
+          "id": "c077",
+          "title": {
+            "la": "Caput XIII. Qui bibliothecas fecerunt."
+          }
+        },
+        {
+          "id": "c078",
+          "title": {
+            "la": "Caput XIV. Quae scripturae sunt authenticae."
+          }
+        },
+        {
+          "id": "c079",
+          "title": {
+            "la": "Caput XV. Quae sint apocryphae scripturae."
+          }
+        },
+        {
+          "id": "c080",
+          "title": {
+            "la": "Caput XVI. Quaedam etymologiae dictionum ad lectionem pertinentium."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Liber quintus"
+      },
+      "children": [
+        {
+          "id": "c081",
+          "title": {
+            "la": "Caput I. De quibusdam sacrae Scripturae proprietatibus praemonitio."
+          }
+        },
+        {
+          "id": "c082",
+          "title": {
+            "la": "Caput II. De triplici intelligentia."
+          }
+        },
+        {
+          "id": "c083",
+          "title": {
+            "la": "Caput III. Quod res etiam significent in divina Scriptura."
+          }
+        },
+        {
+          "id": "c084",
+          "title": {
+            "la": "Caput IV. De septem regulis."
+          }
+        },
+        {
+          "id": "c085",
+          "title": {
+            "la": "Caput V. Quid studium impediat."
+          }
+        },
+        {
+          "id": "c086",
+          "title": {
+            "la": "Caput VI. Qui sit fructus divinae lectionis."
+          }
+        },
+        {
+          "id": "c087",
+          "title": {
+            "la": "Caput VII. Quomodo legenda sit Scriptura divina ad correctionem morum."
+          }
+        },
+        {
+          "id": "c088",
+          "title": {
+            "la": "Caput VIII. Lectionem esse incipientum, opus perfectorum, et quid monacho competat"
+          }
+        },
+        {
+          "id": "c089",
+          "title": {
+            "la": "Caput IX. De quinque gradibus, quibus exercetur vita justorum."
+          }
+        },
+        {
+          "id": "c090",
+          "title": {
+            "la": "Caput X. De tribus generibus legentium seu lectorum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Liber sextus"
+      },
+      "children": [
+        {
+          "id": "c091",
+          "title": {
+            "la": "Caput I. Quomodo legenda sit sacra Scriptura a quaerentibus scientiam in ea."
+          }
+        },
+        {
+          "id": "c092",
+          "title": {
+            "la": "Caput II. De ordine qui est in disciplinis."
+          }
+        },
+        {
+          "id": "c093",
+          "title": {
+            "la": "Caput III. De historia, et libris in ea legendis."
+          }
+        },
+        {
+          "id": "c094",
+          "title": {
+            "la": "Caput IV. De allegoria."
+          }
+        },
+        {
+          "id": "c095",
+          "title": {
+            "la": "Caput V. De tropologia et moralitate."
+          }
+        },
+        {
+          "id": "c096",
+          "title": {
+            "la": "Caput VI. De ordine librorum."
+          }
+        },
+        {
+          "id": "c097",
+          "title": {
+            "la": "Caput VII. De ordine narrationis."
+          }
+        },
+        {
+          "id": "c098",
+          "title": {
+            "la": "Caput VIII. De ordine expositionis."
+          }
+        },
+        {
+          "id": "c099",
+          "title": {
+            "la": "Caput IX. De littera."
+          }
+        },
+        {
+          "id": "c100",
+          "title": {
+            "la": "Caput X. De sensu."
+          }
+        },
+        {
+          "id": "c101",
+          "title": {
+            "la": "Caput XI. De sententia."
+          }
+        },
+        {
+          "id": "c102",
+          "title": {
+            "la": "Caput XII. De modo legendi."
+          }
+        },
+        {
+          "id": "c103",
+          "title": {
+            "la": "Caput XIII. De meditatione cur nunc sit praetermittendum."
+          }
+        },
+        {
+          "id": "c104",
+          "title": {
+            "la": "Caput XIV. Diffinitio trium remediorum philosophiam concernentium contra totidem mala, et de philosophiae altera divisione."
+          }
+        },
+        {
+          "id": "c105",
+          "title": {
+            "la": "Caput XV. De magica et partibus ejus."
+          }
+        }
+      ]
+    }
+  ]
+}
