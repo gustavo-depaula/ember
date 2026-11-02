@@ -1,0 +1,5 @@
+# Chapitre IX. Des Prières que l'on doit faire quand on sort de la maison pour aller à la ville, et quand on
+
+Ayant à sortir en ville, on va devant le Saint-Sacrement pour consacrer sa sortie et tout ce que l'on va faire, à la gloire de la très sainte Trinité, pour l'offrir à Notre-Seigneur Jésus-Christ, pour se mettre en la protection de la bienheureuse Vierge, pour invoquer l'assistance des Anges et des Saints, et pour prendre la bénédiction du Supérieur et de la Supérieure de la maison, c'est-à dire de Jésus et de Marie. A ces fins on dit: Gloria Patri etc; Gloria tibi Domine,etc; Ave Maria; Sub tuum praesidium, etc.; Sancti Angeli et omnes Sancti, etc.; Benedictum sit, etc.
+
+Au retour on va encore devant le Saint-Sacrement, pour adorer et remercier la très sainte Trinité et Notre Seigneur Jésus-Christ, pour saluer et remercier la sacrée Vierge, les Anges Gardiens de la maison, et tous les Saints. Pour cet effet on dit le Gloria Patri, le Gloria tibi Domine, l'Ave Maria, l'Avete omnes Angeli, et Benedictum sit, etc.

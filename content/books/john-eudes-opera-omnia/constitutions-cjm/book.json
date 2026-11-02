@@ -1,0 +1,828 @@
+{
+  "id": "eudes-constitutions-cjm",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Statuts et Constitutions de la Congrégation de Jésus et Marie",
+    "en-US": "Statutes and Constitutions of the Congregation of Jesus and Mary",
+    "pt-BR": "Estatutos e Constituições da Congregação de Jesus e Maria"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Les Constitutions françaises de la Congrégation de Jésus et Marie, en treize parties, avec l’introduction historique de l’édition de 1909.",
+    "en-US": "The French Constitutions of the Congregation of Jesus and Mary, in thirteen parts, with the historical introduction of the 1909 edition.",
+    "pt-BR": "As Constituições francesas da Congregação de Jesus e Maria, em treze partes, com a introdução histórica da edição de 1909."
+  },
+  "composed": 1644,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/constitutions-cjm",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_9)_000000354.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 9, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "intro-01",
+      "title": {
+        "fr-FR": "Introduction: 1. --composition et histoire des « regles et constitutions »"
+      }
+    },
+    {
+      "id": "intro-02",
+      "title": {
+        "fr-FR": "Ii. les regles"
+      }
+    },
+    {
+      "id": "intro-03",
+      "title": {
+        "fr-FR": "Iii. les constitutions (1)"
+      }
+    },
+    {
+      "id": "intro-04",
+      "title": {
+        "fr-FR": "Iii. les constitutions (2): Conclusion des « Constitutions »"
+      }
+    },
+    {
+      "id": "const-01",
+      "title": {
+        "fr-FR": "Constitutions: De la congrégation"
+      }
+    },
+    {
+      "id": "const-02",
+      "title": {
+        "fr-FR": "Partie première"
+      }
+    },
+    {
+      "id": "const-03",
+      "title": {
+        "fr-FR": "Chapitre I. D e quelles personnes cette Congrégation est composée, et quel est son état"
+      }
+    },
+    {
+      "id": "const-04",
+      "title": {
+        "fr-FR": "Chapitre II. De la dépendance que la Congrégation a de Messeigneurs les Évêques"
+      }
+    },
+    {
+      "id": "const-05",
+      "title": {
+        "fr-FR": "Chapitre IV. Quel est le but et la fin de cette Congrégation"
+      }
+    },
+    {
+      "id": "const-06",
+      "title": {
+        "fr-FR": "Chapitre V. Quels sont les Fondements de cette Congrégation"
+      }
+    },
+    {
+      "id": "const-07",
+      "title": {
+        "fr-FR": "Chapitre VI. Quel est l'Esprit de cette Congrégation"
+      }
+    },
+    {
+      "id": "const-08",
+      "title": {
+        "fr-FR": "Partie deuxième: Contenant les constitutions communes et générales,"
+      }
+    },
+    {
+      "id": "const-09",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. Des choses qui doivent être observés en tout temps"
+      }
+    },
+    {
+      "id": "const-10",
+      "title": {
+        "fr-FR": "Chapitre II. Des choses qui doivent être observées en chaque jour"
+      }
+    },
+    {
+      "id": "const-11",
+      "title": {
+        "fr-FR": "Chapitre III. De ce qu'il faut faire en chaque semaine"
+      }
+    },
+    {
+      "id": "const-12",
+      "title": {
+        "fr-FR": "Chapitre IV. De ce qu'il faut faire en chaque mois"
+      }
+    },
+    {
+      "id": "const-13",
+      "title": {
+        "fr-FR": "Chapitre V. De ce qu'il faut faire en chaque année"
+      }
+    },
+    {
+      "id": "const-14",
+      "title": {
+        "fr-FR": "Chapitre VI. De ce qui regarde les choses temporelles"
+      }
+    },
+    {
+      "id": "const-15",
+      "title": {
+        "fr-FR": "Partie troisième: Particulier de la vertu de religion"
+      }
+    },
+    {
+      "id": "const-16",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. De la vertu de Religion au regard de Dieu, de la Mère de Dieu et des Saints"
+      }
+    },
+    {
+      "id": "const-17",
+      "title": {
+        "fr-FR": "Chapitre II. De la vertu de Religion au regard des saintes Reliques"
+      }
+    },
+    {
+      "id": "const-18",
+      "title": {
+        "fr-FR": "Chapitre IV. De la vertu de Religion au regard de la Sainte Église"
+      }
+    },
+    {
+      "id": "const-19",
+      "title": {
+        "fr-FR": "Chapitre V. Avertissements à tous les vrais chrétiens sur la manière en laquelle ils se doivent comporter en"
+      }
+    },
+    {
+      "id": "const-20",
+      "title": {
+        "fr-FR": "Chapitre VI. De la vertu de Religion au regard des fonctions ecclésiastiques"
+      }
+    },
+    {
+      "id": "const-21",
+      "title": {
+        "fr-FR": "Chapitre VII. Au regard du sacrifice de louange, c'est-à-dire de l ' O ffice divin"
+      }
+    },
+    {
+      "id": "const-22",
+      "title": {
+        "fr-FR": "Chapitre VIII. Des Prières qu'on doit dire allant par le chemin"
+      }
+    },
+    {
+      "id": "const-23",
+      "title": {
+        "fr-FR": "Chapitre IX. Des Prières que l'on doit faire quand on sort de la maison pour aller à la ville, et quand on"
+      }
+    },
+    {
+      "id": "const-24",
+      "title": {
+        "fr-FR": "Chapitre X. Des autres Prières vocales que l'on fait en la Communauté"
+      }
+    },
+    {
+      "id": "const-25",
+      "title": {
+        "fr-FR": "Chapitre XI. Des Confessions que les prêtres entendent"
+      }
+    },
+    {
+      "id": "const-26",
+      "title": {
+        "fr-FR": "Chapitre XII. Des Prédications et des Catéchismes"
+      }
+    },
+    {
+      "id": "const-27",
+      "title": {
+        "fr-FR": "Chapitre XIII. L e s Matières des entretiens et conférences qui se doivent faire dans la Congrégation"
+      }
+    },
+    {
+      "id": "const-28",
+      "title": {
+        "fr-FR": "Partie quatrième: Contenant ce qui concerne la charité chrétienne"
+      }
+    },
+    {
+      "id": "const-29",
+      "title": {
+        "fr-FR": "Chapitre I. D e la Charité fraternelle que tous ceux de la Congrégation doivent avoir les uns pour les"
+      }
+    },
+    {
+      "id": "const-30",
+      "title": {
+        "fr-FR": "Chapitre II. D e la charité et union qui doit être entre les maisons de l a Congrégation"
+      }
+    },
+    {
+      "id": "const-31",
+      "title": {
+        "fr-FR": "Chapitre III. De l'uniformité aux habits"
+      }
+    },
+    {
+      "id": "const-32",
+      "title": {
+        "fr-FR": "Chapitre IV. Moyens pour conserver et fortifier l'union qui doit être entre les sujets de la Congrégation"
+      }
+    },
+    {
+      "id": "const-33",
+      "title": {
+        "fr-FR": "Chapitre VI. De la Charité vers les externes"
+      }
+    },
+    {
+      "id": "const-34",
+      "title": {
+        "fr-FR": "Chapitre VII. Comme il faut se comporter au sujet des procès, pour y conserver la charité"
+      }
+    },
+    {
+      "id": "const-35",
+      "title": {
+        "fr-FR": "Chapitre VIII. De la Gratitude et Reconnaissance au regard des Fondateurs e t Bienfaiteurs de la Congrégation"
+      }
+    },
+    {
+      "id": "const-36",
+      "title": {
+        "fr-FR": "Chapitre IX. Sur le Zèle du salut des âmes"
+      }
+    },
+    {
+      "id": "const-37",
+      "title": {
+        "fr-FR": "Chapitre X. Sur la conservation de la santé des corps"
+      }
+    },
+    {
+      "id": "const-38",
+      "title": {
+        "fr-FR": "Partie cinquième"
+      }
+    },
+    {
+      "id": "const-39",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. De l'Humilité"
+      }
+    },
+    {
+      "id": "const-40",
+      "title": {
+        "fr-FR": "Chapitre II. Plusieurs pratiques d'humilité"
+      }
+    },
+    {
+      "id": "const-41",
+      "title": {
+        "fr-FR": "Chapitre III. De l'obéissance"
+      }
+    },
+    {
+      "id": "const-42",
+      "title": {
+        "fr-FR": "Chapitre IV. Conditions et qualités de la vraie et parfaite Obéissance"
+      }
+    },
+    {
+      "id": "const-43",
+      "title": {
+        "fr-FR": "Chapitre V. De la Pauvreté"
+      }
+    },
+    {
+      "id": "const-44",
+      "title": {
+        "fr-FR": "Chapitre VI. De la Chasteté"
+      }
+    },
+    {
+      "id": "const-45",
+      "title": {
+        "fr-FR": "Chapitre VII. De la Sobriété"
+      }
+    },
+    {
+      "id": "const-46",
+      "title": {
+        "fr-FR": "Chapitre VIII. De la Modestie"
+      }
+    },
+    {
+      "id": "const-47",
+      "title": {
+        "fr-FR": "Chapitre IX. De la Simplicité"
+      }
+    },
+    {
+      "id": "const-48",
+      "title": {
+        "fr-FR": "Chapitre X. De la Vérité et Fidélité en ses paroles et promesses"
+      }
+    },
+    {
+      "id": "const-49",
+      "title": {
+        "fr-FR": "Chapitre XI. De la Netteté et Propreté, et l'Office du Préfet de la netteté"
+      }
+    },
+    {
+      "id": "const-50",
+      "title": {
+        "fr-FR": "Chapitre XII. Du Silence: Partie sixieme"
+      }
+    },
+    {
+      "id": "const-51",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. Comme il faut se comporter au regard de ceux qui demandent d'être reçus en la"
+      }
+    },
+    {
+      "id": "const-52",
+      "title": {
+        "fr-FR": "Chapitre II. Des choses que l'on observera en la maison de Probation"
+      }
+    },
+    {
+      "id": "const-53",
+      "title": {
+        "fr-FR": "Chapitre III. Exercices particuliers de la Maison de Probation"
+      }
+    },
+    {
+      "id": "const-54",
+      "title": {
+        "fr-FR": "Chapitre IV. Les Matières des Entretiens et des Conférences"
+      }
+    },
+    {
+      "id": "const-55",
+      "title": {
+        "fr-FR": "Chapitre V. La manière de faire ces Entretiens et Conférences"
+      }
+    },
+    {
+      "id": "const-56",
+      "title": {
+        "fr-FR": "Chapitre VI. A utres choses à observer par les Jeunes au temps de leur Probation"
+      }
+    },
+    {
+      "id": "const-57",
+      "title": {
+        "fr-FR": "Chapitre VII. L'Office du Directeur des Jeunes, et de son Aide ou Compagnon"
+      }
+    },
+    {
+      "id": "const-58",
+      "title": {
+        "fr-FR": "Chapitre VIII. L e temps de la Probation; et ce qu'il faut faire des Jeunes après les premières"
+      }
+    },
+    {
+      "id": "const-59",
+      "title": {
+        "fr-FR": "Chapitre IX. Qui sont ceux qui doivent être incorporés en la Congrégation"
+      }
+    },
+    {
+      "id": "const-60",
+      "title": {
+        "fr-FR": "Chapitre X. Qui sont ceux qu'il faut renvoyer; par qui, et pour quelles causes ils doivent être renvoyés"
+      }
+    },
+    {
+      "id": "const-61",
+      "title": {
+        "fr-FR": "Chapitre XI. De la manière en laquelle on se comportera au regard de ceux que l'on renverra, et de ceux qui"
+      }
+    },
+    {
+      "id": "const-62",
+      "title": {
+        "fr-FR": "Chapitre XII. P our ce qui regarde l'étude et la science, et pour les étudiants"
+      }
+    },
+    {
+      "id": "const-63",
+      "title": {
+        "fr-FR": "Chapitre XIII. Les moyens de bien étudier"
+      }
+    },
+    {
+      "id": "const-64",
+      "title": {
+        "fr-FR": "Chapitre XIV. Ce que il faut faire de ceux qui ont fait leurs études: Partie septième"
+      }
+    },
+    {
+      "id": "const-65",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. De ceux qu'on recevra dans le Séminaire"
+      }
+    },
+    {
+      "id": "const-66",
+      "title": {
+        "fr-FR": "Chapitre II. Les choses qu'on enseignera dans le Séminaire"
+      }
+    },
+    {
+      "id": "const-67",
+      "title": {
+        "fr-FR": "Chapitre III. Les officiers du Séminaire"
+      }
+    },
+    {
+      "id": "const-68",
+      "title": {
+        "fr-FR": "Chapitre IV. Pour les Séminaristes"
+      }
+    },
+    {
+      "id": "const-69",
+      "title": {
+        "fr-FR": "Chapitre V. L'Office du Préfet des Séminaristes"
+      }
+    },
+    {
+      "id": "const-70",
+      "title": {
+        "fr-FR": "Chapitre VI. L'office des Confesseurs du Séminaire"
+      }
+    },
+    {
+      "id": "const-71",
+      "title": {
+        "fr-FR": "Chapitre VII. La Manière en laquelle les Officiers du Séminaire et tous ceux de la Congrégation se doivent: Partie huitième"
+      }
+    },
+    {
+      "id": "const-72",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. Les Règles des Missionnaires"
+      }
+    },
+    {
+      "id": "const-73",
+      "title": {
+        "fr-FR": "Chapitre II. Des Exercices de la Mission"
+      }
+    },
+    {
+      "id": "const-74",
+      "title": {
+        "fr-FR": "Chapitre III. Matières des Prédications de la Mission"
+      }
+    },
+    {
+      "id": "const-75",
+      "title": {
+        "fr-FR": "Chapitre IV. Matières des Conférences pour les Prêtres"
+      }
+    },
+    {
+      "id": "const-76",
+      "title": {
+        "fr-FR": "Chapitre V. Matières des Conférences pour les gentilshommes"
+      }
+    },
+    {
+      "id": "const-77",
+      "title": {
+        "fr-FR": "Chapitre VI. Matières des Conférences pour les Missionnaires"
+      }
+    },
+    {
+      "id": "const-78",
+      "title": {
+        "fr-FR": "Chapitre VII. Comme il faut finir la Mission: Partie neuvième"
+      }
+    },
+    {
+      "id": "const-79",
+      "title": {
+        "fr-FR": "Chapitre VI. L'Office du Préfet des pensionnaires étudiants du Séminaire de Lisieux"
+      }
+    },
+    {
+      "id": "const-80",
+      "title": {
+        "fr-FR": "Chapitre VII. L e s Règles des Pensionnaires étudiants du Séminaire de Lisieux: Les pensionnaires étudiants se lèveront tous à même heure, à savoir,"
+      }
+    },
+    {
+      "id": "const-81",
+      "title": {
+        "fr-FR": "Chapitre VIII. Pour ce qui regarde les Cures: Partie dixième"
+      }
+    },
+    {
+      "id": "const-82",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. Auquel plusieurs moyens nécessaires pour conserver et augmenter la Congrégation sont"
+      }
+    },
+    {
+      "id": "const-83",
+      "title": {
+        "fr-FR": "Chapitre II. Le temps et le lieu auxquels l'Assemblée générale se doit faire; par qui elle doit être"
+      }
+    },
+    {
+      "id": "const-84",
+      "title": {
+        "fr-FR": "Chapitre III. La manière de faire la députation en chaque maison: Modèle de la procuration"
+      }
+    },
+    {
+      "id": "const-85",
+      "title": {
+        "fr-FR": "Chapitre IV. Autre manière de choisir et députer ceux qui se trouveront en l'Assemblée générale, au cas que: Ordre pour les députations de ceux qui seront nommés"
+      }
+    },
+    {
+      "id": "const-86",
+      "title": {
+        "fr-FR": "Chapitre V. Les officiers de l'Assemblée générale"
+      }
+    },
+    {
+      "id": "const-87",
+      "title": {
+        "fr-FR": "Chapitre VI. Ce qu'il faut observer pour l'extérieur de l'Assemblée"
+      }
+    },
+    {
+      "id": "const-88",
+      "title": {
+        "fr-FR": "Chapitre VII. Ce qu'il faut observer en l'Assemblée pour ce qui regarde l'intérieur et la piété"
+      }
+    },
+    {
+      "id": "const-89",
+      "title": {
+        "fr-FR": "Chapitre VIII. Du pouvoir de l'Assemblée. Des choses qui s'y traiteront. De la manière en laquelle on s'y"
+      }
+    },
+    {
+      "id": "const-90",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. Qu'il est nécessaire qu'elle ait un Supérieur général"
+      }
+    },
+    {
+      "id": "const-91",
+      "title": {
+        "fr-FR": "Chapitre II. De l'élection du Supérieur de la Congrégation"
+      }
+    },
+    {
+      "id": "const-92",
+      "title": {
+        "fr-FR": "Chapitre IV. De la dépendance que le Supérieur général de la Congrégation à de Messeigneurs les Évêques; et"
+      }
+    },
+    {
+      "id": "const-93",
+      "title": {
+        "fr-FR": "Chapitre V. Du pouvoir que la Congrégation a sur le Supérieur général"
+      }
+    },
+    {
+      "id": "const-94",
+      "title": {
+        "fr-FR": "Chapitre VI. L'office du Supérieur de la Congrégation"
+      }
+    },
+    {
+      "id": "const-95",
+      "title": {
+        "fr-FR": "Chapitre VII. De la Visite annuelle"
+      }
+    },
+    {
+      "id": "const-96",
+      "title": {
+        "fr-FR": "Chapitre VIII. I nstruction des choses sur lesquelles le Visiteur doit interroger les particuliers de"
+      }
+    },
+    {
+      "id": "const-97",
+      "title": {
+        "fr-FR": "Chapitre III. L'office du Supérieur particulier de chaque maison: Des choses qui regardent l'intérieur et le spirituel"
+      }
+    },
+    {
+      "id": "const-98",
+      "title": {
+        "fr-FR": "Chapitre IV. L'office des Assistants en général, tant du Supérieur de l a Congrégation que des"
+      }
+    },
+    {
+      "id": "const-99",
+      "title": {
+        "fr-FR": "Chapitre V. L'office du premier Assistant de chaque Supérieur particulier"
+      }
+    },
+    {
+      "id": "const-100",
+      "title": {
+        "fr-FR": "Chapitre VI. L'office du second Assistant de chaque Supérieur particulier"
+      }
+    },
+    {
+      "id": "const-101",
+      "title": {
+        "fr-FR": "Chapitre VII. L'office de l'Aide ou Moniteur, tant du Supérieur général, que des particuliers"
+      }
+    },
+    {
+      "id": "const-102",
+      "title": {
+        "fr-FR": "Chapitre VIII. L'office de l'Économe"
+      }
+    },
+    {
+      "id": "const-103",
+      "title": {
+        "fr-FR": "Chapitre PREMIER. L'office du Sacristain"
+      }
+    },
+    {
+      "id": "const-104",
+      "title": {
+        "fr-FR": "Chapitre II. P our la netteté de toutes les choses qui appartiennent à l'église"
+      }
+    },
+    {
+      "id": "const-105",
+      "title": {
+        "fr-FR": "Chapitre III. L'office du Directeur du chœur et des cérémonies"
+      }
+    },
+    {
+      "id": "const-106",
+      "title": {
+        "fr-FR": "Chapitre IV. L'office du Directeur des Retraites"
+      }
+    },
+    {
+      "id": "const-107",
+      "title": {
+        "fr-FR": "Chapitre V. Diverses matières de Méditation"
+      }
+    },
+    {
+      "id": "const-108",
+      "title": {
+        "fr-FR": "Chapitre VI. L'Office du Préfet de la Bibliothèque"
+      }
+    },
+    {
+      "id": "const-109",
+      "title": {
+        "fr-FR": "Chapitre VII. Pour celui qui fait la lecture au réfectoire: Dispositions intérieures avec lesquelles il faut faire cette action"
+      }
+    },
+    {
+      "id": "const-110",
+      "title": {
+        "fr-FR": "Chapitre VIII. Pour ceux qui servent au réfectoire: Trois dispositions intérieures avec lesquelles il faut faire cette"
+      }
+    },
+    {
+      "id": "const-111",
+      "title": {
+        "fr-FR": "Chapitre IX. L'office du Préfet de la santé"
+      }
+    },
+    {
+      "id": "const-112",
+      "title": {
+        "fr-FR": "Chapitre X. L'office de l'Infirmier"
+      }
+    },
+    {
+      "id": "const-113",
+      "title": {
+        "fr-FR": "Chapitre XI. L'office du Dépensier"
+      }
+    },
+    {
+      "id": "const-114",
+      "title": {
+        "fr-FR": "Chapitre XII. L'office du Vêtier"
+      }
+    },
+    {
+      "id": "const-115",
+      "title": {
+        "fr-FR": "Chapitre XIII. L'office du Linger"
+      }
+    },
+    {
+      "id": "const-116",
+      "title": {
+        "fr-FR": "Chapitre XIV. L'office du Réfectorier"
+      }
+    },
+    {
+      "id": "const-117",
+      "title": {
+        "fr-FR": "Chapitre XV. L'office du Jardinier"
+      }
+    },
+    {
+      "id": "const-118",
+      "title": {
+        "fr-FR": "Chapitre XVI. L'office de l'Acheteur"
+      }
+    },
+    {
+      "id": "const-119",
+      "title": {
+        "fr-FR": "Chapitre XVII. L'office du Portier"
+      }
+    },
+    {
+      "id": "const-120",
+      "title": {
+        "fr-FR": "Chapitre XVIII. L'office du Cuisinier"
+      }
+    },
+    {
+      "id": "const-121",
+      "title": {
+        "fr-FR": "Chapitre XIX. L'office de celui qui doit éveiller au matin"
+      }
+    },
+    {
+      "id": "const-122",
+      "title": {
+        "fr-FR": "Chapitre XX. L'office de celui qui doit visiter les chambres au soir, après le signal de la retraite"
+      }
+    },
+    {
+      "id": "const-123",
+      "title": {
+        "fr-FR": "Chapitre XXI. Pour ce qui concerne les Frères domestiques"
+      }
+    },
+    {
+      "id": "const-124",
+      "title": {
+        "fr-FR": "Chapitre XXII. L'office des Frères domestiques"
+      }
+    },
+    {
+      "id": "const-125",
+      "title": {
+        "fr-FR": "Chapitre XXIII. L'office du Directeur des Frères domestiques"
+      }
+    },
+    {
+      "id": "const-126",
+      "title": {
+        "fr-FR": "Chapitre XXIV. A quoi obligent les Constitutions de la Congrégation"
+      }
+    },
+    {
+      "id": "const-127",
+      "title": {
+        "fr-FR": "Chapitre XXV. Qui doit être lu au réfectoire, au commencement de J anvier , de Mai et de Septembre, après: Premier moyen"
+      }
+    }
+  ]
+}

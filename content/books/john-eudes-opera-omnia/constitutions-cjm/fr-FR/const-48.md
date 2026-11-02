@@ -1,0 +1,7 @@
+# Chapitre X. De la Vérité et Fidélité en ses paroles et promesses
+
+Chacun aura dévotion d'honorer Notre-Seigneur Jésus-Christ en deux qualités qui l'accompagnent partout, et qu'il aime infiniment, marquées en ces paroles qui sont dites de lui : Fidelis et verax 617. Et pour cet effet, on aimera ardemment la vérité et la fidélité, et on abhorrera extrêmement tout ce qui leur est contraire: détestant tout mensonge, supercherie et tromperie comme l'engeance de Satan; se gardant bien de rien promettre qu'on n'ait la volonté de l'accomplir; se rendant prompt, fidèle et exact à effectuer ses promesses; et traitant toujours avec le prochain en toute sorte de sincérité et fidélité.
+
+On s'abstiendra, dans ses discours, de toute exagération, s'étudiant de parler toujours dans une grande vérité et simplicité; et rejetant tout à fait le langage des enfants du siècle, qui est plein de termes superlatifs, et dans un tel excès que, quand ils veulent dire qu'ils sont bien aises d'une chose, ils disent qu'ils sont ravis; quand au contraire, ils veulent dire qu'ils sont marris, ils disent qu'ils sont au désespoir; quand ils veulent dire qu'une chose est bonne, ils disent qu'elle est bonne à merveille ou à miracle, ou qu'elle est ravissante.
+
+Toutes ces façons de parler, et autres semblables, ne doivent avoir aucune part en la bouche de ceux qui ont consacré leur langue à la vérité et simplicité évangélique.

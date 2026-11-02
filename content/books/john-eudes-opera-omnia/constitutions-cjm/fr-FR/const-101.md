@@ -1,0 +1,11 @@
+# Chapitre VII. L'office de l'Aide ou Moniteur, tant du Supérieur général, que des particuliers
+
+Son office sera d'avertir sincèrement et fidèlement le Supérieur des fautes qu'il commettra en sa charge ou en sa personne; et chacun pourra s'adresser à lui pour avertir le même Supérieur par son moyen.
+
+Il ne l'avertira pourtant pas toujours, ni de toutes les choses que les particuliers lui suggéreront, ni de toutes celles qui lui viendront en la pensée; et il prendra garde de n'importuner point son esprit par de trop fréquents et inutiles avertissements, et pour des fautes légères, passagères et qui ne tirent point à conséquence; mais il l'avertira seulement des choses qui seront importantes, et spécialement de celles dont la plus grande partie des Assistants et anciens de la Communauté demeureront d'accord qu'il doit être averti. Enfin il exercera cet office avec grand respect, prudence, charité et humilité, et après avoir beaucoup recommandé le tout à Dieu.
+
+Quand il aura averti le Supérieur d'une chose de cette nature, et qu'il n'y remédiera point, i l sera de son office de réitérer plusieurs fois l'avertissement, avec la modestie et le respect convenable. Si cela ne produit aucun fruit, alors il en donnera avis au Supérieur de la Congrégation, afin qu'il y apporte le remède qu'il jugera à propos. S'il s'agit de ce même Supérieur, son Moniteur en avertira ses Assistants.
+
+Il prendra garde qu'à l'occasion de son office, le respect, l'obéissance et la soumission qui est due au Supérieur, tant par lui que par les autres, ne souffre aucune diminution ou altération, ni en l'extérieur, ni en l'intérieur; au contraire, il s'efforcera de servir en cela même d'exemple à toute la Communauté, de telle sorte néanmoins que ce respect ne lui ôte pas la liberté avec laquelle il doit exercer ce même office. Jamais il ne donnera connaissance au Supérieur de ceux qui l'auront prié de l'avertir; ni ne dira non plus à personne ce qu'il aura dit au Supérieur, ni ce que le Supérieur lui aura répondu.
+
+Si néanmoins les Assistants et anciens de la maison lui donnaient commission par un commun consentement de dire quelque chose d'importance au Supérieur, et qu'ensuite ils l'interrogeassent de ce qu'il aurait fait, il serait obligé en ce cas, de leur rendre compte de son office.
