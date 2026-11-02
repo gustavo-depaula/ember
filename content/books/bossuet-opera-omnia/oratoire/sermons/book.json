@@ -1,0 +1,1036 @@
+{
+  "id": "bossuet-sermons",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Sermons",
+    "en-US": "Sermons",
+    "pt-BR": "Sermões"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les sermons de Bossuet, ordonnés selon l’année liturgique : Toussaint, Avent, Noël, Circoncision, Épiphanie, Carême, Semaine sainte, Pâques, Pentecôte, fêtes de la Vierge, vêtures et professions religieuses, sermon sur l’unité de l’Église (1681), exhortations aux Ursulines de Meaux, pensées chrétiennes. Édition Lachat (1863), avec ses plans, abrégés et fragments.",
+    "en-US": "Bossuet’s sermons in the order of the liturgical year: All Saints, Advent, Christmas, Circumcision, Epiphany, Lent, Holy Week, Easter, Pentecost, feasts of Our Lady, clothings and professions, the sermon on the unity of the Church (1681), exhortations to the Ursulines of Meaux, Christian thoughts. Lachat edition (1863), with its outlines, abridgements and fragments.",
+    "pt-BR": "Os sermões de Bossuet, na ordem do ano litúrgico: Todos os Santos, Advento, Natal, Circuncisão, Epifania, Quaresma, Semana Santa, Páscoa, Pentecostes, festas de Nossa Senhora, tomadas de hábito e profissões, sermão sobre a unidade da Igreja (1681), exortações às Ursulinas de Meaux, pensamentos cristãos. Edição Lachat (1863), com seus planos, resumos e fragmentos."
+  },
+  "composed": "1649–1704",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/sermons",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1863
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume008-011 (all pages) and volume012/034.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of the Lachat edition, volume008-011 (all pages) and volume012/034.htm. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "toussaint-avent-noel",
+      "title": {
+        "fr-FR": "Toussaint, Avent, Noël, Épiphanie, Septuagésime"
+      },
+      "children": [
+        {
+          "id": "s08-001",
+          "title": {
+            "fr-FR": "Remarques historiques"
+          }
+        },
+        {
+          "id": "s08-002",
+          "title": {
+            "fr-FR": "Premier sermon pour la fête de Tous les Saints (première rédaction)"
+          }
+        },
+        {
+          "id": "s08-003",
+          "title": {
+            "fr-FR": "Premier sermon pour la fête de tous les saints. (seconde rédaction)"
+          }
+        },
+        {
+          "id": "s08-004",
+          "title": {
+            "fr-FR": "Second sermon pour la fête de Tous les Saints"
+          }
+        },
+        {
+          "id": "s08-005",
+          "title": {
+            "fr-FR": "Troisième Sermon pour la fête de Tous les Saints"
+          }
+        },
+        {
+          "id": "s08-006",
+          "title": {
+            "fr-FR": "Esquisse d'un sermon pour la fête de Tous les Saints"
+          }
+        },
+        {
+          "id": "s08-007",
+          "title": {
+            "fr-FR": "Exorde d'un sermon sur la Charité envers les pauvres"
+          }
+        },
+        {
+          "id": "s08-008",
+          "title": {
+            "fr-FR": "Sermons pour le jour des morts"
+          }
+        },
+        {
+          "id": "s08-009",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Ier Dimanche de L'Avent"
+          }
+        },
+        {
+          "id": "s08-010",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour la Première Semaine de lAvent"
+          }
+        },
+        {
+          "id": "s08-011",
+          "title": {
+            "fr-FR": "Second Sermon pour le Ier Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-012",
+          "title": {
+            "fr-FR": "Exorde d'un Sermon pour le Ier Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-013",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le Ier Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-014",
+          "title": {
+            "fr-FR": "Premier Sermon pour le IIème Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-015",
+          "title": {
+            "fr-FR": "Second Exorde pour le IIe Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-016",
+          "title": {
+            "fr-FR": "Second Sermon pour le IIe Dimanche de lAvent. Sur la vérité de la religion"
+          }
+        },
+        {
+          "id": "s08-017",
+          "title": {
+            "fr-FR": "Sermon pour le IIIe Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-018",
+          "title": {
+            "fr-FR": "Fragments d'un Sermon pour le IIIe Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-019",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le IIIe Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-020",
+          "title": {
+            "fr-FR": "Sermon pour le IVe Dimanche de l'Avent"
+          }
+        },
+        {
+          "id": "s08-021",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Jour de Noël"
+          }
+        },
+        {
+          "id": "s08-022",
+          "title": {
+            "fr-FR": "Second Sermon pour le Jour de Noël"
+          }
+        },
+        {
+          "id": "s08-023",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le Jour de Noël"
+          }
+        },
+        {
+          "id": "s08-024",
+          "title": {
+            "fr-FR": "Exorde d'un Sermon pour la semaine de Noël; Pensées détachées pour la Semaine de Noël"
+          }
+        },
+        {
+          "id": "s08-025",
+          "title": {
+            "fr-FR": "Exorde et fragment pour le dimanche dans l'Octave de Noël"
+          }
+        },
+        {
+          "id": "s08-026",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Fête de la Circoncision"
+          }
+        },
+        {
+          "id": "s08-027",
+          "title": {
+            "fr-FR": "Second Sermon pour la Fête de la Circoncision"
+          }
+        },
+        {
+          "id": "s08-028",
+          "title": {
+            "fr-FR": "Troisième Sermon pour la Fête de la Circoncision"
+          }
+        },
+        {
+          "id": "s08-029",
+          "title": {
+            "fr-FR": "Quatrième Sermon pour la Fête de la Circoncision"
+          }
+        },
+        {
+          "id": "s08-030",
+          "title": {
+            "fr-FR": "Cinquième Sermon pour la Fête de la Circoncision"
+          }
+        },
+        {
+          "id": "s08-031",
+          "title": {
+            "fr-FR": "Seconde péroraison pour les deux Sermons précédents"
+          }
+        },
+        {
+          "id": "s08-032",
+          "title": {
+            "fr-FR": "Sermon pour le IIe Dimanche après l'Epiphanie"
+          }
+        },
+        {
+          "id": "s08-033",
+          "title": {
+            "fr-FR": "Fragments d'un Sermon pour le IIe Dimanche après l'Epiphanie"
+          }
+        },
+        {
+          "id": "s08-034",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le IIIe Dimanche après l'Epiphanie"
+          }
+        },
+        {
+          "id": "s08-035",
+          "title": {
+            "fr-FR": "Sermon abrégé pour le Ve Dimanche après l'Epiphanie"
+          }
+        },
+        {
+          "id": "s08-036",
+          "title": {
+            "fr-FR": "Sermon pour le Dimanche de la Septuagésime"
+          }
+        },
+        {
+          "id": "s08-037",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le Dimanche de la Septuagésime"
+          }
+        },
+        {
+          "id": "s08-038",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Dimanche de la Quinquagésime, sur l'utilité des souffrances"
+          }
+        },
+        {
+          "id": "s08-039",
+          "title": {
+            "fr-FR": "Second Sermon pour le Dimanche de la Quinquagésime"
+          }
+        },
+        {
+          "id": "s08-040",
+          "title": {
+            "fr-FR": "Second Exorde pour le Sermon précédent"
+          }
+        },
+        {
+          "id": "s08-041",
+          "title": {
+            "fr-FR": "Sermon pour le Jubilé sur la Pénitence"
+          }
+        },
+        {
+          "id": "s08-042",
+          "title": {
+            "fr-FR": "Sermon pour le Vendredi après les Cendres"
+          }
+        },
+        {
+          "id": "s08-043",
+          "title": {
+            "fr-FR": "Sermon pour le Samedi après les Cendres sur l'Eglise"
+          }
+        }
+      ]
+    },
+    {
+      "id": "careme",
+      "title": {
+        "fr-FR": "Carême, Passion et Rameaux"
+      },
+      "children": [
+        {
+          "id": "s09-001",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Premier Dimanche de Carême sur les Démons"
+          }
+        },
+        {
+          "id": "s09-002",
+          "title": {
+            "fr-FR": "Second Sermon pour le Premier Dimanche de Carême sur les Démons"
+          }
+        },
+        {
+          "id": "s09-003",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le Premier Dimanche de Carême ; Quatrième Sermon pour le Premier Dimanche de Carême sur la Pénitence"
+          }
+        },
+        {
+          "id": "s09-005",
+          "title": {
+            "fr-FR": "Plan d'un Sermon pour le Premier Dimanche de Carême"
+          }
+        },
+        {
+          "id": "s09-006",
+          "title": {
+            "fr-FR": "Sermon incomplet pour le Lundi de la Première Semaine de Carême, sur l'Aumône"
+          }
+        },
+        {
+          "id": "s09-007",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le Vendredi de la Première Semaine de Carême"
+          }
+        },
+        {
+          "id": "s09-008",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Deuxième Dimanche de Carême"
+          }
+        },
+        {
+          "id": "s09-009",
+          "title": {
+            "fr-FR": "Second Sermon pour le Deuxième Dimanche de Carême sur la Parole de Dieu"
+          }
+        },
+        {
+          "id": "s09-010",
+          "title": {
+            "fr-FR": "Sermon pour le Mardi de la Deuxième Semaine de Carême sur l'honneur"
+          }
+        },
+        {
+          "id": "s09-011",
+          "title": {
+            "fr-FR": "Fragment ou Dissertation sur l'honneur"
+          }
+        },
+        {
+          "id": "s09-012",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Jeudi de la IIe Semaine de Carême"
+          }
+        },
+        {
+          "id": "s09-013",
+          "title": {
+            "fr-FR": "Second Sermon pour le Jeudi de la IIe Semaine de Carême"
+          }
+        },
+        {
+          "id": "s09-014",
+          "title": {
+            "fr-FR": "Premier Sermon pour le IIIe dimanche de Carême, sur l'amour des plaisirs"
+          }
+        },
+        {
+          "id": "s09-015",
+          "title": {
+            "fr-FR": "Second Sermon pour le IIIe Dimanche de Carême, sur les rechutes"
+          }
+        },
+        {
+          "id": "s09-016",
+          "title": {
+            "fr-FR": "Sermon pour le Mardi de la IIIe Semaine de Carême, sur la charité fraternelle"
+          }
+        },
+        {
+          "id": "s09-017",
+          "title": {
+            "fr-FR": "Sermon pour le Vendredi de la IIIe Semaine de Carême, sur le culte du à Dieu"
+          }
+        },
+        {
+          "id": "s09-018",
+          "title": {
+            "fr-FR": "Sermon pour le Samedi de la IIIe Semaine de Carême, sur les jugements humains"
+          }
+        },
+        {
+          "id": "s09-019",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le Samedi de la IIIe semaine de Carême"
+          }
+        },
+        {
+          "id": "s09-020",
+          "title": {
+            "fr-FR": "Premier Sermon pour le IVe Dimanche de Carême"
+          }
+        },
+        {
+          "id": "s09-021",
+          "title": {
+            "fr-FR": "Deuxième Sermon pour le IVe Dimanche de Carême, sur l'ambition"
+          }
+        },
+        {
+          "id": "s09-022",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le IVème Dimanche de Carême sur l'amour des grandeurs humaines"
+          }
+        },
+        {
+          "id": "s09-023",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le Mardi de la IVe Semaine de Carême, sur la médisance"
+          }
+        },
+        {
+          "id": "s09-024",
+          "title": {
+            "fr-FR": "Plan d'un Sermon pour le Mercredi de la IVe Semaine de Carême, sur l'Evangile de l'aveugle-né"
+          }
+        },
+        {
+          "id": "s09-025",
+          "title": {
+            "fr-FR": "Sermon pour le Vendredi de la IVe Semaine de Carême, sur la mort"
+          }
+        },
+        {
+          "id": "s09-026",
+          "title": {
+            "fr-FR": "Fragment sur la brièveté de la vie et le néant de l'homme"
+          }
+        },
+        {
+          "id": "s09-027",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Dimanche de la Passion sur la possibilité d'accomplir les commandements"
+          }
+        },
+        {
+          "id": "s09-028",
+          "title": {
+            "fr-FR": "Second Sermon pour le Dimanche de la Passion sur la Soumission et le respect dû à la vérité"
+          }
+        },
+        {
+          "id": "s09-029",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le Dimanche de la Passion sur les causes de la haine des hommes contre la vérité"
+          }
+        },
+        {
+          "id": "s09-030",
+          "title": {
+            "fr-FR": "Sermon pour le Mardi de la Semaine de la Passion, sur la satisfaction"
+          }
+        },
+        {
+          "id": "s09-031",
+          "title": {
+            "fr-FR": "Premier Sermon pour les trois derniers jours de la Semaine de la Passion, sur l'efficacité de la pénitence"
+          }
+        },
+        {
+          "id": "s09-032",
+          "title": {
+            "fr-FR": "Second Sermon pour les trois derniers jours de la Semaine de la Passion, sur l'ardeur de la pénitence"
+          }
+        },
+        {
+          "id": "s09-033",
+          "title": {
+            "fr-FR": "Troisième Sermon pour les trois derniers jours de la Semaine de la Passion, sur l'ardeur de la pénitence"
+          }
+        },
+        {
+          "id": "s09-034",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Vendredi de la Semaine de la Passion, sur la Compassion de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s09-035",
+          "title": {
+            "fr-FR": "Second Sermon pour le Vendredi de la Semaine de la Passion, sur la Compassion de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s09-036",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le Vendredi de la semaine de la Passion, sûr la nécessité de laumône; Plan d'un sermon pour le Vendredi de la Semaine de la Passion, sur la nécessité de l'aumône; Abrégé d'un Sermon pour le samedi de la Semaine la Passion, sur le jugement de Jésus-Christ contre le monde"
+          }
+        },
+        {
+          "id": "s09-037",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Dimanche des Rameaux, sur l'honneur du monde"
+          }
+        },
+        {
+          "id": "s09-038",
+          "title": {
+            "fr-FR": "Second Sermon pour le Dimanche des Rameaux, sur la nécessité des souffrances"
+          }
+        },
+        {
+          "id": "s09-039",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le Dimanche des Rameaux, sur les devoirs du Roi"
+          }
+        },
+        {
+          "id": "s09-040",
+          "title": {
+            "fr-FR": "Quatrième Sermon pour le Dimanche des Rameaux, sur la justice"
+          }
+        }
+      ]
+    },
+    {
+      "id": "paques-pentecote",
+      "title": {
+        "fr-FR": "Vendredi saint, Pâques, Pentecôte et dimanches après la Pentecôte"
+      },
+      "children": [
+        {
+          "id": "s10-001",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Vendredi Saint sur la Passion de Notre-Seigneur Jésus-Christ"
+          }
+        },
+        {
+          "id": "s10-002",
+          "title": {
+            "fr-FR": "Second Sermon pour le Vendredi Saint sur la Passion de Notre-Seigneur Jésus-Christ"
+          }
+        },
+        {
+          "id": "s10-003",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le Vendredi Saint sur la Passion de Notre-Seigneur Jésus-Christ"
+          }
+        },
+        {
+          "id": "s10-005",
+          "title": {
+            "fr-FR": "Premier Sermon pour le Jour de Pâques, sur la nécessité de mourir avec Jésus-Christ, de ressusciter avec lui et d'être comme lui immortel à la grâce"
+          }
+        },
+        {
+          "id": "s10-006",
+          "title": {
+            "fr-FR": "Second Sermon pour le jour de Pâques, sur la vie nouvelle du chrétien ressuscité avec le Sauveur"
+          }
+        },
+        {
+          "id": "s10-007",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le jour de Pâques, sur la nécessité de renouveler, de consacrer et d'entretenir le temple de notre coeur"
+          }
+        },
+        {
+          "id": "s10-008",
+          "title": {
+            "fr-FR": "Quatrième Sermon pour le jour de Pâques"
+          }
+        },
+        {
+          "id": "s10-009",
+          "title": {
+            "fr-FR": "Premier abrégé d'un sermon pour le jour de Pâques; Second abrégé d'un sermon pour le jour de Pâques"
+          }
+        },
+        {
+          "id": "s10-011",
+          "title": {
+            "fr-FR": "Sermon pour le IIIe Dimanche après Pâques, sur la Providence"
+          }
+        },
+        {
+          "id": "s10-012",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le IIIe Dimanche après Pâques"
+          }
+        },
+        {
+          "id": "s10-013",
+          "title": {
+            "fr-FR": "Sermon pour le Ve Dimanche de Pâques"
+          }
+        },
+        {
+          "id": "s10-014",
+          "title": {
+            "fr-FR": "Sermon pour l'Ascension de Notre-Seigneur Jésus-Christ"
+          }
+        },
+        {
+          "id": "s10-015",
+          "title": {
+            "fr-FR": "Premier Sermon pour le jour de la Pentecôte ; Autre exorde et fragments du premier sermon pour le jour de la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-016",
+          "title": {
+            "fr-FR": "Second Sermon pour le jour de la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-017",
+          "title": {
+            "fr-FR": "Troisième Sermon pour le jour de la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-018",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le jour de la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-019",
+          "title": {
+            "fr-FR": "Sermon pour le jour de la Très-Sainte Trinité"
+          }
+        },
+        {
+          "id": "s10-020",
+          "title": {
+            "fr-FR": "Sermon pour le IIIe Dimanche après la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-021",
+          "title": {
+            "fr-FR": "Sermon pour Ve Dimanche après la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-022",
+          "title": {
+            "fr-FR": "Sermon pour IXe Dimanche après la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-023",
+          "title": {
+            "fr-FR": "Abrégé d'un Sermon pour le XXIe Dimanche après la Pentecôte"
+          }
+        },
+        {
+          "id": "s10-024",
+          "title": {
+            "fr-FR": "Premier Sermon de l'Exaltation de la Sainte Croix"
+          }
+        },
+        {
+          "id": "s10-025",
+          "title": {
+            "fr-FR": "Second Sermon de l'Exaltation de la Sainte Croix"
+          }
+        },
+        {
+          "id": "s10-026",
+          "title": {
+            "fr-FR": "Précis d'un Sermon pour le jour de l'Exaltation de la Sainte Croix"
+          }
+        }
+      ]
+    },
+    {
+      "id": "exhortations",
+      "title": {
+        "fr-FR": "Exhortations, discours aux religieuses et pensées"
+      },
+      "children": [
+        {
+          "id": "s10-027",
+          "title": {
+            "fr-FR": "Exhortation aux Nouvelles Catholiques"
+          }
+        },
+        {
+          "id": "s10-028",
+          "title": {
+            "fr-FR": "Fragments d'un discours sur la vie chrétienne"
+          }
+        },
+        {
+          "id": "s10-029",
+          "title": {
+            "fr-FR": "Première exhortation aux Ursulines de Meaux"
+          }
+        },
+        {
+          "id": "s10-030",
+          "title": {
+            "fr-FR": "Deuxième exhortation aux Ursulines de Meaux"
+          }
+        },
+        {
+          "id": "s10-031",
+          "title": {
+            "fr-FR": "Ordonnances notifiées aux Ursulines de Meaux"
+          }
+        },
+        {
+          "id": "s10-032",
+          "title": {
+            "fr-FR": "Troisième Exhortation aux Ursulines de Meaux"
+          }
+        },
+        {
+          "id": "s10-033",
+          "title": {
+            "fr-FR": "Quatrième Exhortation aux Ursulines de Meaux"
+          }
+        },
+        {
+          "id": "s10-034",
+          "title": {
+            "fr-FR": "Conférence aux Ursulines de Meaux"
+          }
+        },
+        {
+          "id": "s10-035",
+          "title": {
+            "fr-FR": "Instruction aux Ursulines de Meaux"
+          }
+        },
+        {
+          "id": "s10-036",
+          "title": {
+            "fr-FR": "Profession d'une Ursuline"
+          }
+        },
+        {
+          "id": "s10-037",
+          "title": {
+            "fr-FR": "Précis d'un discours fait aux Visitandines de Meaux"
+          }
+        },
+        {
+          "id": "s10-038",
+          "title": {
+            "fr-FR": "Discours sur l'Union de Jésus-Christ à son Epouse"
+          }
+        },
+        {
+          "id": "s10-039",
+          "title": {
+            "fr-FR": "Pensées Chrétiennes et Morales sur différents sujets"
+          }
+        },
+        {
+          "id": "s10-040",
+          "title": {
+            "fr-FR": "Pensées Détachées"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fetes-de-la-vierge",
+      "title": {
+        "fr-FR": "Fêtes de la Vierge, vêtures et professions, Assemblée du clergé"
+      },
+      "children": [
+        {
+          "id": "s11-001",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Fête de la Conception de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-002",
+          "title": {
+            "fr-FR": "Second Sermon pour la Fête de la Conception de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-003",
+          "title": {
+            "fr-FR": "Troisième Sermon pour la Fête de la Conception de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-004",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Fête de la Nativité de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-005",
+          "title": {
+            "fr-FR": "Second Sermon pour la Fête de la Nativité de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-006",
+          "title": {
+            "fr-FR": "Troisième Sermon pour la Fête de la Nativité de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-007",
+          "title": {
+            "fr-FR": "Précis d'un Sermon pour la Fête de la Nativité de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-008",
+          "title": {
+            "fr-FR": "Précis d'un Sermon pour la Fête de la Présentation de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-009",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Fête de l'Annonciation"
+          }
+        },
+        {
+          "id": "s11-010",
+          "title": {
+            "fr-FR": "Second Sermon pour la Fête de l'Annonciation"
+          }
+        },
+        {
+          "id": "s11-011",
+          "title": {
+            "fr-FR": "Troisième Sermon pour la Fête de l'Annonciation"
+          }
+        },
+        {
+          "id": "s11-012",
+          "title": {
+            "fr-FR": "Quatrième Sermon pour la Fête de l'Annonciation"
+          }
+        },
+        {
+          "id": "s11-013",
+          "title": {
+            "fr-FR": "Exorde d'un Sermon pour la Fête de l'Annonciation"
+          }
+        },
+        {
+          "id": "s11-014",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Fête de la Visitation de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-015",
+          "title": {
+            "fr-FR": "Entretien Familier pour la fête de la Visitation de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-016",
+          "title": {
+            "fr-FR": "Second Sermon pour la Fête de la Visitation de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-017",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Fête de la Purification de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-018",
+          "title": {
+            "fr-FR": "Second Sermon pour la Fête de la Purification de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-019",
+          "title": {
+            "fr-FR": "Troisième Sermon pour la Fête de la Purification de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-020",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Fête de l'Assomption"
+          }
+        },
+        {
+          "id": "s11-021",
+          "title": {
+            "fr-FR": "Second Sermon pour la Fête de l'Assomption"
+          }
+        },
+        {
+          "id": "s11-022",
+          "title": {
+            "fr-FR": "Plan d'un Sermon pour la Fête de l'Assomption"
+          }
+        },
+        {
+          "id": "s11-023",
+          "title": {
+            "fr-FR": "Méditation pour la veille de l'Assomption de la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-024",
+          "title": {
+            "fr-FR": "Sermon pour la Fête du Rosaire"
+          }
+        },
+        {
+          "id": "s11-025",
+          "title": {
+            "fr-FR": "Sermon pour le Jour du Scapulaire sur la Dévotion à la Sainte Vierge"
+          }
+        },
+        {
+          "id": "s11-026",
+          "title": {
+            "fr-FR": "Sermons de Vêtures et de Professions religieuses: Sermon pour la vêture de Mademoiselle de Bouillon de Château-Thierry"
+          }
+        },
+        {
+          "id": "s11-027",
+          "title": {
+            "fr-FR": "Premier Sermon pour la Vêture d'une Nouvelle Catholique"
+          }
+        },
+        {
+          "id": "s11-028",
+          "title": {
+            "fr-FR": "Second Sermon pour la Vêture d'une Nouvelle Catholique"
+          }
+        },
+        {
+          "id": "s11-029",
+          "title": {
+            "fr-FR": "Premier Sermon pour la vêture d'une postulante Bernardine"
+          }
+        },
+        {
+          "id": "s11-030",
+          "title": {
+            "fr-FR": "Second Sermon pour la vêture d'une postulante Bernardine"
+          }
+        },
+        {
+          "id": "s11-031",
+          "title": {
+            "fr-FR": "Sermon pour la vêture de Marie-Thérèse-Henriette de la Vieuville"
+          }
+        },
+        {
+          "id": "s11-032",
+          "title": {
+            "fr-FR": "Sermon pour une profession, prêché le jour de l'Epiphanie"
+          }
+        },
+        {
+          "id": "s11-033",
+          "title": {
+            "fr-FR": "Sermon pour une profession, prêché le jour de l'Exaltation de la Sainte Croix"
+          }
+        },
+        {
+          "id": "s11-034",
+          "title": {
+            "fr-FR": "Sermon pour une Profession sur la Virginité"
+          }
+        },
+        {
+          "id": "s11-035",
+          "title": {
+            "fr-FR": "Sermon pour la profession de Marie-Anne de Saint François Bailly"
+          }
+        },
+        {
+          "id": "s11-036",
+          "title": {
+            "fr-FR": "Sermon pour la Profession de Madame de La Vallière"
+          }
+        },
+        {
+          "id": "s11-037",
+          "title": {
+            "fr-FR": "Sermon prêché à l'ouverture de l'Assemblée Générale du Clergé de France, sur l'Unité de l'Eglise"
+          }
+        },
+        {
+          "id": "s11-038",
+          "title": {
+            "fr-FR": "Sermon pour la profession de Madeleine-Angélique de Beauvais"
+          }
+        }
+      ]
+    },
+    {
+      "id": "academie",
+      "title": {
+        "fr-FR": "Discours de réception à l’Académie française"
+      }
+    }
+  ]
+}
