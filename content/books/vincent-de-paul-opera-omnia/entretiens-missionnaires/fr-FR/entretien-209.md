@@ -1,0 +1,15 @@
+# 209. Entretien de [1653] — Privation Imposee à la Communauté Par Suite de la Gelée des Vignes
+
+Un jour, comme des froids tardifs avaient gelé les blés et les vignes, le saint, parlant aux siens, termina son discours par ces mots :
+
+Il faut gémir sous la charge des pauvres et souffrir avec ceux qui souffrent, autrement nous ne sommes pas disciples de Jésus-Christ. Mais encore que ferons-nous? Les habitants d'une ville assiégée regardent de temps en temps aux vivres qu'ils ont. Combien avons-nous de blé ? disent-ils. Tant. Combien sommes-nous de bouches ? Tant. Et là-dessus ils règlent le pain que chacun doit avoir et disent : "A deux livres par jour, nous pourrons
+
+Entretien 209.— Abelly, op.cit., L.III, chap. XXIV, sect. Il, p. 356.
+
+1, Abelly ne donne pas l'année ; mais il dit que "la gelée avait gâté les blés et les vignes". Ces mots font penser à l'année 1659.
+
+aller jusque-là". Et comme ils voient que le siège est pour durer davantage et que les vivres diminuent, ils se réduisent à une livre de pain, à dix onces, à six et à quatre onces pour soutenir longtemps et empêcher d être pris par la famine. Et sur la mer, comment fait-on quand il arrive qu'un navire a été jeté par la tempête et arrêté longtemps dans quelque coin ? On compte le biscuit, on prend garde à la boisson, et, s'il y en a trop peu pour arriver au lieu où ils prétendent aller, ils en donnent moins ; et plus ils retardent, plus ils diminuent la portion. Or, si les gouverneurs des villes et les capitaines des vaisseaux en usent de la sorte, et si la sagesse même requiert qu'ils agissent avec cette précaution, parce qu'autrement ils pourraient périr, pourquoi ne ferons-nous pas de même ? Pensez-vous que les bourgeois ne retranchent pas de leur ordinaire, et que les meilleures maisons, voyant que les vendanges sont faites pour cette année, ne ménagent pas leur vin, dans la crainte de n'en trouver pas aisément l'année prochain? Hier des personnes de la ville et de condition, qui étaient céans, me disaient que la plupart des maisons retrancheraient entièrement le vin aux serviteurs ; on leur dira : "Pourvoyez-vous ; il n'y a plus de vin céans que pour le maître."
+
+Tout cela, mes frères, nous a fait penser à ce que nous avions à faire, et j'assemblai hier les prêtres anciens de la Compagnie pour prendre leurs avis ; enfin on a trouvé à propos de nous réduire à demi-setier par repas pour cette année. Ceci fera de la peine à quelques uns, qui pensent avoir besoin de boire un peu plus de vin ; mais, comme ils sont habitués à se soumettre aux ordres de la Providence et à surmonter leurs appétits, il, feront bon usage de cette peine, comme ils font des autres sujets de mortification, dont ils ne se plaignent pas.
+
+Il y en aura peut-être d'autres qui s'en plaindront par attache à leurs satisfactions : esprits de chair, gens sensuels et enclins à leurs plaisirs, qui ne veulent en perdre aucun et qui murmurent de tout ce qui n'est pas selon leur goût. O Sauveur, gardez-nous de cet esprit de sensualité.

@@ -1,0 +1,23 @@
+# 193. Répétition d’Oraison du 11 novembre 1658
+
+Je recommande aux prières de la Compagnie nos infirmes; je recommande de plus ces messieurs qui ont fait le trajet de mer, non sans danger. Les uns se sont mis dans un gros vaisseau fort, et ceux-là étaient plus en sûreté; les autres dans un autre petit vaisseau, et ils n'ont pas été sans beaucoup de danger, à cause des courses des Turcs qui sont sur cette mer, de Marseille à Gênes et Rome.
+
+Je recommande aussi nos bons Messieurs Desdames et Duperroy. Je reçus hier ou avant-hier de leurs lettres.Ils me mandent que la peste est encore à Varsovie et que, dans leur paroisse de Sainte-Croix, il meurt environ vingt personnes par semaine. Ils m'écrivent en sorte que vous diriez qu'ils sont au-dessus de ces dangers, sans
+
+Entretien 193. - Manuscrit des répétitions d'oraison, f° 84.
+
+1. En marge : *Nota *que ceux dont il parle ici, ce sont M. Berthe et ceux de la Compagnie qu'il avait menés avec lui pour Gênes et Rome.
+
+qu'il me paraisse, par leurs lettres, qu'ils aient peur le moins du monde.
+
+Je recommande pareillement à vos prières un de nos frères, au sujet d'un grand danger dans lequel il est, cause par un accident qui vient d'arriver; c'est notre bon frère Barreau, qui est à Alger. Voici ce que c'est.
+
+Il y a, à cinquante lieues d'Alger, entre Tunis et Alger c'est-à-dire environ à mi-chemin de ces deux villes, un bastion occupé par les Français, dans lequel il y avait un gouverneur, avec garnison même; cela fut accordé au roi de France par le Grand Seigneur lors du traité qui fut fait ensemble, moyennant pourtant quelque rétribution que l'on devait payer chaque année à la ville d'Alger. Ce bastion avait été obtenu par le roi de France, afin de favoriser le commerce des chrétiens avec les Arabes et les gens de ces pays-là. Depuis quelques années, l'on n'a point payé ce tribut. Ceux d'Alger, voyant cela, y ont envoyé quatre chaouchs et environ cinquante Maures. Le gouverneur, voyant ces gens qui lui allaient demander de l'argent, ne s'est point mis en peine de cela. Ces chaouchs l'ont menacé et lui ont dit que, s'il n'e payait, il viendrait une armée, qui n'était pas loin, et qu'on le ferait bien payer par force. Ce gouverneur, entendant cela, fait mettre sa garnison en armes, se saisit de ces chaouchs, de ces quarante ou cinquante Maures et autres hommes qu'ils avaient avec eux, les lie, les met dans un vaisseau, fait charger tous les meubles qu'il peut et qui étaient dans ce bastion; il les fait, dis-je, charger dans un vaisseau. Cela fait, il sort du bastion avec tout son monde, puis met le feu dedans et s'en va droit en Italie.
+
+Or, je vous donne à penser, mes frères, en quel danger est maintenant notre pauvre frère le consul d'Alger et tant de pauvres chrétiens esclaves français dont le nombre approche de dix mille qu'il y a en cette ville d'Alger et des environs. O Sauveur ! ô mon Sauveur ! que deviendront ces pauvres gens ? Que feront-ils ? Mais que fera notre pauvre frère, cet homme qui a quitté son pays, sa patrie, ses parents, le lieu de sa naissance, où il pouvait vivre doucement? Et cependant il a quitté tout cela pour Dieu, pour servir Dieu, pour assister son prochain, c'est-à-dire ces pauvres esclaves !
+
+M. Bourdaise, mes frères, M. Bourdaise, qui est si loin et tout seul, et qui, comme vous avez su, a engendré à Jésus-Christ, avec tant de peine et de soin, grand nombre de ces pauvres gens du pays où il est, prions aussi pour lui. M. Bourdaise, êtes-vous encore en vie, ou non? Si vous l'êtes, plaise à Dieu vous vouloir conserver la vie ; Si vous êtes au ciel, priez pour nous ! O mes frères, quel bonheur pour la Compagnie d'avoir de si bons sujets, tels que sont tous ces siens serviteurs dont je viens de parler ! C'est ainsi, mes frères, c'est en cet état que tous, tant que nous sommes, devons être, à savoir être tout prêts et disposés à tout quitter pour servir Dieu et le prochain, et le prochain, voyez vous, et le prochain pour l'amour de Dieu.
+
+Voyez saint Martin; ce qu'il a fait, on vient de nous le dire. Ce grand saint, quoique catéchumène, voyant qu'un pauvre lui demandait l'aumône, prit son épée et coupa la moitié de son manteau pour la lui donner; action de charité qui plut tant à Notre-Seigneur, que lui même lui apparut, la nuit suivante, couvert de cette même moitié de manteau. Et l'Eglise a eu tant d'estime et de vénération pour cette action de charité de saint Martin, qu'elle nous le représente, non pas comme un évêque ou archevêque, quoique ce soit une dignité très relevée, mais elle nous le fait voir à cheval, habillé en soldat, coupant la moitié de son manteau.
+
+Ensuite M. Vincent, se leva et finit de la sorte ce petit discours.

@@ -1,0 +1,3 @@
+# 164. Extrait d’Entretien, Janvier 1657 — Sur l’Amour des Pauvres
+
+Dieu aime les pauvres, et par conséquent il. aime ceux qui aiment les pauvres ; car, lorsqu’on aime bien quelqu’un, on a de l’affection pour ses amis et pour ses serviteurs. Or, la petite Compagnie de la Mission tâche de s’appliquer avec affection à servir les pauvres, qui sont le, bien-aimés de Dieu ; et ainsi nous avons sujet d’espérer que, pour l’amour d’eux, Dieu nous aimera. Allons donc, mes frères, et nous employons avec un nouvel amour à servir les pauvres, et même cherchons les plus pauvres et les plus abandonnés reconnaissons devant Dieu que ce sont nos seigneurs et nos maîtres, et que nous sommes indignes de leur rendre nos petits services.

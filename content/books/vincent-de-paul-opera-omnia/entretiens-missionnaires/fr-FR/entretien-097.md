@@ -1,0 +1,3 @@
+# 97. Entretien du 5 septembre 1642
+
+Monsieur Vincent recommanda de recevoir avec une grande charité ceux qui revenaient des champs et dit qu'il fallait les recevoir comme des personnes qui viennent de bannir le diable, faire régner Jésus-Christ et faire triompher le nom de Dieu. Si l'on a coutume de recevoir avec triomphe ceux qui ont gagné quelque bataille, pourquoi non ceux qui viennent de batailler avec le diable ? Et pour cela, il dit qu'il fallait, quand quelqu'un d'iceux revenait, que le portier sonnât la cloche, cinq ou six coups, pour appeler le procureur et celui qui a soin des exercitants, afin qu'ils se rendent aussitôt. Au son de la cloche, ils doivent quitter tout, hors le saint sacrifice de la messe.

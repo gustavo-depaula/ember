@@ -1,0 +1,9 @@
+# 40. Extrait d’entretien — Sur l’Humilité
+
+N'est-ce pas une chose étrange, que l'on conçoit bien que les particuliers d'une Compagnie, comme Pierre, Jean & Jacques, doivent fuir l'honneur, & aimer le mépris ; mais la Compagnie, dit-on, & la Communauté doit acquérir & conserver de l'estime & de l'honneur dans le monde ? Car, je vous prie, comment se pourra-t-il faire que Pierre, Jean & Jacques puissent vraiment & sincèrement aimer & chercher le mépris, & que néanmoins la Compagnie, qui n'est composée que de Pierre, Jean & Jacques & autres particuliers, doive aimer & rechercher l'honneur ? Il faut certainement reconnaître & confesser que ces deux choses sont incompatibles ; & partant, tous les missionnaires doivent être contents, non seulement quand ils se trouveront dans quelque occasion d'abjection ou de mépris pour leur particulier, mais aussi quand on méprisera leur Compagnie ; car pour lors ce sera une marque qu'ils seront véritablement humbles [^1]. [^2]
+
+[^1]: Cf. toujours 18 avril 1659, XII, 203.
+
+    [XII, 199] Qu'est-ce que la vie de ce divin Sauveur, sinon une humiliation continuelle, active & passive ? Il l'a tellement aimée, qu'il ne l'a jamais quittée sur la terre pendant sa vie ; & même après sa mort, il a voulu que l'Eglise nous ait représenté sa personne divine par la figure d'un crucifix, afin de paraître à nos yeux dans un état d'ignominie, comme ayant été pendu pour nous ainsi qu'un criminel, & comme ayant souffert la mort la plus honteuse & la plus infâme qu'on ait pu s'imaginer. Pourquoi cela ? [XII, 200] C'est parce qu'il connaissait l'excellence des humiliations & la malice du péché contraire, qui non seulement aggrave les autres péchés, mais qui rend vicieuses les œuvres qui de soi ne sont pas mauvaises, & qui peut infecter & corrompre celles qui sont bonnes, même les plus saintes.
+
+[^2]: Abelly, op. cit., L. III, chap. XIII p, 200.

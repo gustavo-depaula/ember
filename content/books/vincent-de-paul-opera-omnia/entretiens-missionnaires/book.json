@@ -1,0 +1,1363 @@
+{
+  "id": "vincent-entretiens-missionnaires",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Entretiens de saint Vincent de Paul aux Missionnaires",
+    "en-US": "Conferences of St. Vincent de Paul to the Missionaries",
+    "pt-BR": "Colóquios de São Vicente de Paulo aos Missionários"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les conférences, répétitions d’oraison, avis et résumés de saint Vincent aux prêtres et aux frères de la Congrégation de la Mission (1617-1660), édités par Pierre Coste (tomes XI-XII) : la vocation du missionnaire, les règles communes, les vertus de la Compagnie, avec les notes de l’éditeur.",
+    "en-US": "The conferences, repetitions of prayer, counsels and summaries of St. Vincent to the priests and brothers of the Congregation of the Mission (1617-1660), edited by Pierre Coste (vols. XI-XII): the missionary vocation, the Common Rules, the virtues of the Company, with the editor’s notes.",
+    "pt-BR": "As conferências, repetições de oração e avisos de São Vicente aos padres e irmãos da Congregação da Missão (1617-1660), editados por Pierre Coste (tomos XI-XII): a vocação do missionário, as regras comuns, as virtudes da Companhia."
+  },
+  "composed": "1617-1660",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/entretiens-missionnaires",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1924
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tomes XI-XII; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All items of Coste’s tomes XI and XII, one per chapter, with Coste’s headnotes and footnotes kept as notes. Coste’s introductions are not included.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Tome XI"
+      },
+      "children": [
+        {
+          "id": "entretien-001",
+          "title": {
+            "fr-FR": "1. Extrait d’Entretien — Sur la Vocation de Missionnaire"
+          }
+        },
+        {
+          "id": "entretien-002",
+          "title": {
+            "fr-FR": "2. Extrait d’Entretien"
+          }
+        },
+        {
+          "id": "entretien-003",
+          "title": {
+            "fr-FR": "3. Extrait d’entretien — Sur les Fruits de Deux Missions"
+          }
+        },
+        {
+          "id": "entretien-004",
+          "title": {
+            "fr-FR": "4. Extrait d’Entretien — Sur la Formation du Clergé"
+          }
+        },
+        {
+          "id": "entretien-005",
+          "title": {
+            "fr-FR": "5. Extrait d’entretien — Sur la Formation du Clergé"
+          }
+        },
+        {
+          "id": "entretien-006",
+          "title": {
+            "fr-FR": "6. Extrait d’entretien — Sur l’Œuvre des Ordinands"
+          }
+        },
+        {
+          "id": "entretien-007",
+          "title": {
+            "fr-FR": "7. Extrait d’entretien — Sur l’Œuvre des Ordinands"
+          }
+        },
+        {
+          "id": "entretien-008",
+          "title": {
+            "fr-FR": "8. Extrait d’entretien — Sur l’Œuvre des Conférences Ecclésiastiques"
+          }
+        },
+        {
+          "id": "entretien-009",
+          "title": {
+            "fr-FR": "9. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-010",
+          "title": {
+            "fr-FR": "10. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-011",
+          "title": {
+            "fr-FR": "11. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-012",
+          "title": {
+            "fr-FR": "12. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-013",
+          "title": {
+            "fr-FR": "13. Extrait d’entretien — Sur les Pensionnaires, Aliénés ou Vicieux, Enfermés à Saint-Lazare"
+          }
+        },
+        {
+          "id": "entretien-014",
+          "title": {
+            "fr-FR": "14. Résumé d’Une Conférence — Sur l’Emploi d’Aumônier Auprès d’Un Grand"
+          }
+        },
+        {
+          "id": "entretien-015",
+          "title": {
+            "fr-FR": "15. Avis a de Jeunes Étudiants — Récemment Sortis du Séminaire Interne"
+          }
+        },
+        {
+          "id": "entretien-016",
+          "title": {
+            "fr-FR": "16. Avis Donnés au Chapitre"
+          }
+        },
+        {
+          "id": "entretien-017",
+          "title": {
+            "fr-FR": "17. Avis Donnés au Chapitre"
+          }
+        },
+        {
+          "id": "entretien-018",
+          "title": {
+            "fr-FR": "18. Extrait d’entretien — Sur la Foi"
+          }
+        },
+        {
+          "id": "entretien-019",
+          "title": {
+            "fr-FR": "19. Extrait d’entretien — Sur l’Esprit de Foi"
+          }
+        },
+        {
+          "id": "entretien-020",
+          "title": {
+            "fr-FR": "20. Extrait d’entretien — Récit d’Une Tentation Contre la Foi"
+          }
+        },
+        {
+          "id": "entretien-021",
+          "title": {
+            "fr-FR": "21. Extrait d’entretien — Sur la Conversion d’Un Hérétique"
+          }
+        },
+        {
+          "id": "entretien-022",
+          "title": {
+            "fr-FR": "22. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-023",
+          "title": {
+            "fr-FR": "23. Extrait d’entretien — Sur la Confiance en Dieu"
+          }
+        },
+        {
+          "id": "entretien-024",
+          "title": {
+            "fr-FR": "24. Extrait de l’entretien du 21 février 1659, 4° motif"
+          }
+        },
+        {
+          "id": "entretien-025",
+          "title": {
+            "fr-FR": "25. Extrait d’entretien — Sur l’Amour de Dieu"
+          }
+        },
+        {
+          "id": "entretien-026",
+          "title": {
+            "fr-FR": "26. Canevas d’Une Conférence — Sur l’Amour de Dieu"
+          }
+        },
+        {
+          "id": "entretien-027",
+          "title": {
+            "fr-FR": "27. Extrait d’entretien — Sur la Conformité à la Volonté de Dieu"
+          }
+        },
+        {
+          "id": "entretien-028",
+          "title": {
+            "fr-FR": "28. Extrait d’entretien — Sur la Conformité à la Volonté de Dieu"
+          }
+        },
+        {
+          "id": "entretien-029",
+          "title": {
+            "fr-FR": "29. Extrait d’entretien — Sur la Conformité à la Volonté de Dieu"
+          }
+        },
+        {
+          "id": "entretien-030",
+          "title": {
+            "fr-FR": "30. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-031",
+          "title": {
+            "fr-FR": "31. Extrait d’entretien — Sur le Service de Dieu"
+          }
+        },
+        {
+          "id": "entretien-032",
+          "title": {
+            "fr-FR": "32. Extrait d’entretien — Sur le Respect du aux Reliques des Saints"
+          }
+        },
+        {
+          "id": "entretien-033",
+          "title": {
+            "fr-FR": "33. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-034",
+          "title": {
+            "fr-FR": "34. Extrait d’entretien — Sur la Simplicité dans la Prédication"
+          }
+        },
+        {
+          "id": "entretien-035",
+          "title": {
+            "fr-FR": "35. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-037",
+          "title": {
+            "fr-FR": "37. Extrait d’entretien — Sur l’Humilité"
+          }
+        },
+        {
+          "id": "entretien-038",
+          "title": {
+            "fr-FR": "38. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-039",
+          "title": {
+            "fr-FR": "39. Extrait d’entretien — Sur l’Humilité"
+          }
+        },
+        {
+          "id": "entretien-040",
+          "title": {
+            "fr-FR": "40. Extrait d’entretien — Sur l’Humilité"
+          }
+        },
+        {
+          "id": "entretien-041",
+          "title": {
+            "fr-FR": "41. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-042",
+          "title": {
+            "fr-FR": "42. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-043",
+          "title": {
+            "fr-FR": "43. Extrait d’entretien — Sur le Respect Hunain"
+          }
+        },
+        {
+          "id": "entretien-044",
+          "title": {
+            "fr-FR": "44. Extrait d’entretien — Sur la Douceur"
+          }
+        },
+        {
+          "id": "entretien-045",
+          "title": {
+            "fr-FR": "45. Extrait d’entretien — Sur la Douceur"
+          }
+        },
+        {
+          "id": "entretien-046",
+          "title": {
+            "fr-FR": "46. Extrait d’entretien — Sur la Douceur dans les Controverses"
+          }
+        },
+        {
+          "id": "entretien-047",
+          "title": {
+            "fr-FR": "47. Abrégé de Quelques Avis — Sur la Douceur"
+          }
+        },
+        {
+          "id": "entretien-048",
+          "title": {
+            "fr-FR": "48. Extrait d’entretien — Sur l’Affabilité"
+          }
+        },
+        {
+          "id": "entretien-049",
+          "title": {
+            "fr-FR": "49. Extrait d’entretien — Sur l’Affabilité"
+          }
+        },
+        {
+          "id": "entretien-050",
+          "title": {
+            "fr-FR": "50. Extrait d’entretien — Sur l’Esprit de Condescendance"
+          }
+        },
+        {
+          "id": "entretien-051",
+          "title": {
+            "fr-FR": "51. Extrait d’entretien — Sur l’Esprit de Condescendance"
+          }
+        },
+        {
+          "id": "entretien-052",
+          "title": {
+            "fr-FR": "52. Extrait d’entretien — Sur la Mortification"
+          }
+        },
+        {
+          "id": "entretien-053",
+          "title": {
+            "fr-FR": "53. Extrait d’entretien — Sur la Mortification"
+          }
+        },
+        {
+          "id": "entretien-054",
+          "title": {
+            "fr-FR": "54. Extrait d’entretien — Sur la Sensualité"
+          }
+        },
+        {
+          "id": "entretien-055",
+          "title": {
+            "fr-FR": "55. Extrait d’entretien — Sur l’Utilité & le Bon Usage des Maladies"
+          }
+        },
+        {
+          "id": "entretien-057",
+          "title": {
+            "fr-FR": "57. Extrait d’entretien (après 1648) — Sur le Zèle"
+          }
+        },
+        {
+          "id": "entretien-058",
+          "title": {
+            "fr-FR": "58. Extrait d’entretien — Sur la Force dans les Persécutions"
+          }
+        },
+        {
+          "id": "entretien-059",
+          "title": {
+            "fr-FR": "59. Extrait d’entretien — Sur la Charité"
+          }
+        },
+        {
+          "id": "entretien-060",
+          "title": {
+            "fr-FR": "60. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-061",
+          "title": {
+            "fr-FR": "61. Extrait d’entretien — Sur l’Esprit de Compassion"
+          }
+        },
+        {
+          "id": "entretien-062",
+          "title": {
+            "fr-FR": "62. Extrait d’entretien — Sur l’Obéissance aux Puissances Civiles"
+          }
+        },
+        {
+          "id": "entretien-063",
+          "title": {
+            "fr-FR": "63. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-064",
+          "title": {
+            "fr-FR": "64. Extrait d’entretien — Sur l’Attachement aux Biens Temporels"
+          }
+        },
+        {
+          "id": "entretien-065",
+          "title": {
+            "fr-FR": "65. Resume d’Une Conférence — Sur l’Observance des Règles"
+          }
+        },
+        {
+          "id": "entretien-066",
+          "title": {
+            "fr-FR": "66. Extrait d’entretien — Sur la Régularité"
+          }
+        },
+        {
+          "id": "entretien-067",
+          "title": {
+            "fr-FR": "67. Extrait d’entretien — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-068",
+          "title": {
+            "fr-FR": "68. Extraits de divers entretiens — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-069",
+          "title": {
+            "fr-FR": "69. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-070",
+          "title": {
+            "fr-FR": "70. Répétition d’oraison"
+          }
+        },
+        {
+          "id": "entretien-071",
+          "title": {
+            "fr-FR": "71. Répétition d’oraison — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-072",
+          "title": {
+            "fr-FR": "72. Répétition d’oraison — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-073",
+          "title": {
+            "fr-FR": "73. Répétition d’oraison — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-074",
+          "title": {
+            "fr-FR": "74. Répétition d’oraison — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-075",
+          "title": {
+            "fr-FR": "75. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-076",
+          "title": {
+            "fr-FR": "76. Résumé d’une conférence — Sur le Silence"
+          }
+        },
+        {
+          "id": "entretien-077",
+          "title": {
+            "fr-FR": "77. Extrait d’entretien"
+          }
+        },
+        {
+          "id": "entretien-078",
+          "title": {
+            "fr-FR": "78. Avis à des Missionnaires — Sur la Conduite à Tenir en Voyage"
+          }
+        },
+        {
+          "id": "entretien-079",
+          "title": {
+            "fr-FR": "79. Extrait d’entretien — Sur les Avertissements"
+          }
+        },
+        {
+          "id": "entretien-080",
+          "title": {
+            "fr-FR": "80. Résumé d’une répétition d’oraison — Sur l’Envie"
+          }
+        },
+        {
+          "id": "entretien-081",
+          "title": {
+            "fr-FR": "81. Résumé d’entretien — Sur la Paresse"
+          }
+        },
+        {
+          "id": "entretien-082",
+          "title": {
+            "fr-FR": "82. Extrait d’entretien — Mort d’Une Personne Très Attachée à la Compagnie"
+          }
+        },
+        {
+          "id": "entretien-083",
+          "title": {
+            "fr-FR": "83. Avis Donnés — Pendant la Retraite Annuelle de 1632"
+          }
+        },
+        {
+          "id": "entretien-084",
+          "title": {
+            "fr-FR": "84. Avis Donnés — Pendant la Retraite Annuelle de 1635"
+          }
+        },
+        {
+          "id": "entretien-085",
+          "title": {
+            "fr-FR": "85. Chapitre du 29 octobre 1638"
+          }
+        },
+        {
+          "id": "entretien-086",
+          "title": {
+            "fr-FR": "86. Conférence du 29 octobre 1638 — Sur la Persévérance dans sa Vocation"
+          }
+        },
+        {
+          "id": "entretien-087",
+          "title": {
+            "fr-FR": "87. Chapitre du 17 décembre 1638"
+          }
+        },
+        {
+          "id": "entretien-088",
+          "title": {
+            "fr-FR": "88. Chapitre du 19 janvier 1642"
+          }
+        },
+        {
+          "id": "entretien-089",
+          "title": {
+            "fr-FR": "89. Entretien du 19 février 1642"
+          }
+        },
+        {
+          "id": "entretien-090",
+          "title": {
+            "fr-FR": "90. Répétition d’Oraison du 18 mars 1642 — Sur l’Humilité"
+          }
+        },
+        {
+          "id": "entretien-091",
+          "title": {
+            "fr-FR": "91. Entretien du 21 mars 1642"
+          }
+        },
+        {
+          "id": "entretien-092",
+          "title": {
+            "fr-FR": "92. Entretien du 22 mars 1642 — Sur les Vertus Theologales"
+          }
+        },
+        {
+          "id": "entretien-093",
+          "title": {
+            "fr-FR": "93. Répétition d’Oraison du 26 juin 1642"
+          }
+        },
+        {
+          "id": "entretien-094",
+          "title": {
+            "fr-FR": "94. Chapitre du 27 juin 1642"
+          }
+        },
+        {
+          "id": "entretien-095",
+          "title": {
+            "fr-FR": "95. Conférence du 27 juin 1642 — Sur l’Union entre les Maisons de la Compagnie"
+          }
+        },
+        {
+          "id": "entretien-096",
+          "title": {
+            "fr-FR": "96. Répétition d’Oraison du 20 juillet 1642"
+          }
+        },
+        {
+          "id": "entretien-097",
+          "title": {
+            "fr-FR": "97. Entretien du 5 septembre 1642"
+          }
+        },
+        {
+          "id": "entretien-098",
+          "title": {
+            "fr-FR": "98. Répétition d’Oraison d’Octobre 1643 — Sur l’Étude"
+          }
+        },
+        {
+          "id": "entretien-099",
+          "title": {
+            "fr-FR": "99. Répétition d’Oraison du 21 octobre 1643"
+          }
+        },
+        {
+          "id": "entretien-100",
+          "title": {
+            "fr-FR": "100. Repetion d’Oraison du 25 octobre 1643"
+          }
+        },
+        {
+          "id": "entretien-101",
+          "title": {
+            "fr-FR": "101. Conférence de 1644 — Sur les Charges et les Offices"
+          }
+        },
+        {
+          "id": "entretien-102",
+          "title": {
+            "fr-FR": "102. Exhortation a un Frère Mourant, 1645"
+          }
+        },
+        {
+          "id": "entretien-103",
+          "title": {
+            "fr-FR": "103. Répétition d’Oraison de 1645 — Sur les Tentations"
+          }
+        },
+        {
+          "id": "entretien-104",
+          "title": {
+            "fr-FR": "104. Répétition d’Oraison — Sur la Lecture à Haute Voix"
+          }
+        },
+        {
+          "id": "entretien-105",
+          "title": {
+            "fr-FR": "105. Extrait d’Entretien — Sur l’Œuvre des Ordinands"
+          }
+        },
+        {
+          "id": "entretien-106",
+          "title": {
+            "fr-FR": "106. Conférence du 1er octobre 1649 — Sur les Vertus du Frère Simon Busson"
+          }
+        },
+        {
+          "id": "entretien-107",
+          "title": {
+            "fr-FR": "107. Entretien du 9 avril 1651 — Reconnaissance Due au Prieur Adrien le Bon"
+          }
+        },
+        {
+          "id": "entretien-108",
+          "title": {
+            "fr-FR": "108. Extrait d’Entretien [juin 1653 ] — Sur la Condamnation de Jansénius"
+          }
+        },
+        {
+          "id": "entretien-110",
+          "title": {
+            "fr-FR": "110. Conférences des 16 et 23 octobre 1654 — Sur la Pauvreté"
+          }
+        },
+        {
+          "id": "entretien-111",
+          "title": {
+            "fr-FR": "111. Conférence du 13 novembre 1654 — Sur la Chasteté"
+          }
+        },
+        {
+          "id": "entretien-112",
+          "title": {
+            "fr-FR": "112. Répétition d’Oraison du 25 janvier 1655 — Sur les Origines de la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "entretien-113",
+          "title": {
+            "fr-FR": "113. Répétition d’Oraison du Dimanche 4 avril 1655 — Sur l’Hospitalite Donnée au Cardinal de Retz Dans l’Établissement de Rome"
+          }
+        },
+        {
+          "id": "entretien-114",
+          "title": {
+            "fr-FR": "114. Extrait d’Entretien, Avril 1655 — Nouvelles de François le Blanc, Missionnaire en Ecosse"
+          }
+        },
+        {
+          "id": "entretien-115",
+          "title": {
+            "fr-FR": "115. Répétition d’Oraison du 11 avril 1655 — Sur l’Épreuve de la Tentation"
+          }
+        },
+        {
+          "id": "entretien-116",
+          "title": {
+            "fr-FR": "116. Fin d’Une Conférence sur la Tempérance Avril 1655 — Élection d’Alexandre Vii"
+          }
+        },
+        {
+          "id": "entretien-117",
+          "title": {
+            "fr-FR": "117. Conclusion de la Conférence du 30 avril 1655 — Sur l’Offrande de Nos Actions à Dieu"
+          }
+        },
+        {
+          "id": "entretien-118",
+          "title": {
+            "fr-FR": "118. Répétition d’Oraison du 23 mai 1655 — Sur la Fête de la Sainte Trinité"
+          }
+        },
+        {
+          "id": "entretien-119",
+          "title": {
+            "fr-FR": "119. Répétition d’Oraison du 27 mai 1655"
+          }
+        },
+        {
+          "id": "entretien-120",
+          "title": {
+            "fr-FR": "120. Conférence du 11 juin 1655 — Sur la Superbe"
+          }
+        },
+        {
+          "id": "entretien-121",
+          "title": {
+            "fr-FR": "121. Répétition d’Oraison du 13 juin 1655"
+          }
+        },
+        {
+          "id": "entretien-122",
+          "title": {
+            "fr-FR": "122. Répétition d’Oraison du 14 juillet 1655"
+          }
+        },
+        {
+          "id": "entretien-123",
+          "title": {
+            "fr-FR": "123. Répétition d’Oraison du 18 juillet 1655 — Eloge d’Adrien Bourdoise"
+          }
+        },
+        {
+          "id": "entretien-124",
+          "title": {
+            "fr-FR": "124. Répétition d’Oraison du 20 juillet 1655"
+          }
+        },
+        {
+          "id": "entretien-125",
+          "title": {
+            "fr-FR": "125. Répétition d’Oraison du 24 juillet 1655"
+          }
+        },
+        {
+          "id": "entretien-126",
+          "title": {
+            "fr-FR": "126. Répétition d’Oraison du 28 juillet 1655 — Sur la Génuflexion"
+          }
+        },
+        {
+          "id": "entretien-127",
+          "title": {
+            "fr-FR": "127. Conférence du 30 juillet 1655 — Sur la Chasteté"
+          }
+        },
+        {
+          "id": "entretien-128",
+          "title": {
+            "fr-FR": "128. Répétition d’Oraison du 1er août 1655"
+          }
+        },
+        {
+          "id": "entretien-129",
+          "title": {
+            "fr-FR": "129. Répétition d’Oraison du 4 août 1655 — Excès à Éviter dans l’Amour de Dieu"
+          }
+        },
+        {
+          "id": "entretien-130",
+          "title": {
+            "fr-FR": "130. Conférence du 6 août 1655 — Sur la Pauvreté"
+          }
+        },
+        {
+          "id": "entretien-131",
+          "title": {
+            "fr-FR": "131. Répétition d’Oraison du 10 août 1655 — Sur l’Œuvre des Retraites"
+          }
+        },
+        {
+          "id": "entretien-132",
+          "title": {
+            "fr-FR": "132. Conférence du 13 août 1655 — Sur la Pauvreté"
+          }
+        },
+        {
+          "id": "entretien-133",
+          "title": {
+            "fr-FR": "133. Répétition d’Oraison du 16 août 1655"
+          }
+        },
+        {
+          "id": "entretien-134",
+          "title": {
+            "fr-FR": "134. Conférence du 20 août 1655 — Sur la Méthode à Suivre dans les Prédications"
+          }
+        },
+        {
+          "id": "entretien-135",
+          "title": {
+            "fr-FR": "135. Répétition d’Oraison du 22 août 1655"
+          }
+        },
+        {
+          "id": "entretien-137",
+          "title": {
+            "fr-FR": "137. Répétition d’Oraison du 14 août 1655"
+          }
+        },
+        {
+          "id": "entretien-138",
+          "title": {
+            "fr-FR": "138. Répétition d’Oraison du 25 août 1655"
+          }
+        },
+        {
+          "id": "entretien-139",
+          "title": {
+            "fr-FR": "139. Extrait d’Entretien [1655] — Sur François le Blanc, Missionnaire en Ecosse"
+          }
+        },
+        {
+          "id": "entretien-140",
+          "title": {
+            "fr-FR": "140. Répétition d’Oraison du 12 septembre 1655 — Nouvelles des Missions de Pologne et de Barbarie"
+          }
+        },
+        {
+          "id": "entretien-141",
+          "title": {
+            "fr-FR": "141. Extrait d’Entretien [septembre 1655] — Sur les Prêtres"
+          }
+        },
+        {
+          "id": "entretien-142",
+          "title": {
+            "fr-FR": "142. Conférence du 15 octobre 1655 — Sur la Conformité à la Volonté de Dieu"
+          }
+        },
+        {
+          "id": "entretien-143",
+          "title": {
+            "fr-FR": "143. Répétition d’Oraison du 17 octobre 1655"
+          }
+        },
+        {
+          "id": "entretien-144",
+          "title": {
+            "fr-FR": "144. Extrait d’Entretien — Eloge du Zèle de Jean le Vacher"
+          }
+        },
+        {
+          "id": "entretien-145",
+          "title": {
+            "fr-FR": "145. Répétition d’Oraison du 20 février 1656"
+          }
+        },
+        {
+          "id": "entretien-146",
+          "title": {
+            "fr-FR": "146. Répétition d’Oraison du 27 février 1656 — Sur l’Humilité"
+          }
+        },
+        {
+          "id": "entretien-147",
+          "title": {
+            "fr-FR": "147. Répétition d’Oraison du 12 mars 1656"
+          }
+        },
+        {
+          "id": "entretien-148",
+          "title": {
+            "fr-FR": "148. Répétition d’Oraison du 16 mars 1656"
+          }
+        },
+        {
+          "id": "entretien-149",
+          "title": {
+            "fr-FR": "149. Répétition d’Oraison du 19 mars 1656 — Sur le Jubilé"
+          }
+        },
+        {
+          "id": "entretien-150",
+          "title": {
+            "fr-FR": "150. Extrait d’Entretien du [7 mai 1656] — Persécution Suscitée à Jean le Vacher par le Dey de Tunis"
+          }
+        },
+        {
+          "id": "entretien-152",
+          "title": {
+            "fr-FR": "152. Entretien du 6 août [16561] — Sur l’Esprit de Compassion et de Miséricorde"
+          }
+        },
+        {
+          "id": "entretien-153",
+          "title": {
+            "fr-FR": "153. Avis à Antoine Durand, — Nommé Supérieur du Séminaire d’Agde (1) [1656]"
+          }
+        },
+        {
+          "id": "entretien-154",
+          "title": {
+            "fr-FR": "154. Entretien de Septembre 1656"
+          }
+        },
+        {
+          "id": "entretien-155",
+          "title": {
+            "fr-FR": "155. Répétition d’Oraison du 18 octobre 1656"
+          }
+        },
+        {
+          "id": "entretien-156",
+          "title": {
+            "fr-FR": "156. Conférence du 27 octobre 1656 — Sur les Sorties en Ville"
+          }
+        },
+        {
+          "id": "entretien-157",
+          "title": {
+            "fr-FR": "157. Répétitions d’Oraison — Des 2 et 3 novembre 1656"
+          }
+        },
+        {
+          "id": "entretien-158",
+          "title": {
+            "fr-FR": "158. Répétition d’Oraison du 11 novembre 1656"
+          }
+        },
+        {
+          "id": "entretien-159",
+          "title": {
+            "fr-FR": "159. Répétition d’Oraison du 12 novembre 1656"
+          }
+        },
+        {
+          "id": "entretien-160",
+          "title": {
+            "fr-FR": "160. Répétition d’Oraison du 15 novembre 1656"
+          }
+        },
+        {
+          "id": "entretien-161",
+          "title": {
+            "fr-FR": "161. Conférence du 17 novembre 1656 — Sur le Devoir de Catéchiser les Pauvres"
+          }
+        },
+        {
+          "id": "entretien-162",
+          "title": {
+            "fr-FR": "162. Répétition d’Oraison du 19 novembre 1656 — Sur la Parabole du Grain de Moutarde"
+          }
+        },
+        {
+          "id": "entretien-164",
+          "title": {
+            "fr-FR": "164. Extrait d’Entretien, Janvier 1657 — Sur l’Amour des Pauvres"
+          }
+        },
+        {
+          "id": "entretien-165",
+          "title": {
+            "fr-FR": "165. Extrait d’Entretien [avril ou Mai 1657] — Sur l’Humilité"
+          }
+        },
+        {
+          "id": "entretien-166",
+          "title": {
+            "fr-FR": "166. Conférence du 27 avril 1657 — Sur les Vertus du Frère Jourdain"
+          }
+        },
+        {
+          "id": "entretien-167",
+          "title": {
+            "fr-FR": "167. Répétition d’Oraison du 17 juin 1657"
+          }
+        },
+        {
+          "id": "entretien-168",
+          "title": {
+            "fr-FR": "168. Répétition d’Oraison du 10 août 1657 — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-169",
+          "title": {
+            "fr-FR": "169. Répétition d’Oraison du 24 août 1657"
+          }
+        },
+        {
+          "id": "entretien-170",
+          "title": {
+            "fr-FR": "170. Extrait d’Entretien"
+          }
+        },
+        {
+          "id": "entretien-171",
+          "title": {
+            "fr-FR": "171. Répétition d’Oraison du 25 août 1657"
+          }
+        },
+        {
+          "id": "entretien-172",
+          "title": {
+            "fr-FR": "172. Répétition d’Oraison du 30 août 1657"
+          }
+        },
+        {
+          "id": "entretien-173",
+          "title": {
+            "fr-FR": "173. Conférence du 7 septembre 1657 — Sur les Vertus de Mathurin de Belleville"
+          }
+        },
+        {
+          "id": "entretien-174",
+          "title": {
+            "fr-FR": "174. Répétition d’Oraison du 23 septembre 1657 — Mort de Plusieurs Prêtres de la Mission à Gênes"
+          }
+        },
+        {
+          "id": "entretien-175",
+          "title": {
+            "fr-FR": "175. Répétition d’Oraison du 1er novembre 1657"
+          }
+        },
+        {
+          "id": "entretien-176",
+          "title": {
+            "fr-FR": "176. Répétition d’Oraison du 11 novembre 1657"
+          }
+        },
+        {
+          "id": "entretien-177",
+          "title": {
+            "fr-FR": "177. Répétition d’Oraison du 25 novembre 1657"
+          }
+        },
+        {
+          "id": "entretien-178",
+          "title": {
+            "fr-FR": "178. Répétition d’Oraison"
+          }
+        },
+        {
+          "id": "entretien-179",
+          "title": {
+            "fr-FR": "179. Entretien de [1658] — Dévouement de Jean le Vacher pour les Esclaves"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Tome XII"
+      },
+      "children": [
+        {
+          "id": "entretien-180",
+          "title": {
+            "fr-FR": "180. Conférence du 17 mai 1658 — Sur l’Observance des Règles"
+          }
+        },
+        {
+          "id": "entretien-181",
+          "title": {
+            "fr-FR": "181. Répétition d’Oraison — Sur l’Œuvre des Ordinands"
+          }
+        },
+        {
+          "id": "entretien-182",
+          "title": {
+            "fr-FR": "182. Conférence du 8 juin 1658 — Sur le Détachement des Biens de la Terre"
+          }
+        },
+        {
+          "id": "entretien-183",
+          "title": {
+            "fr-FR": "183. Répétition d’Oraison du 9 juin 1658 — Sur le Don des Langues"
+          }
+        },
+        {
+          "id": "entretien-184",
+          "title": {
+            "fr-FR": "184. Conférence du 28 juin 1658 — Sur le Bon Usage des Infirmités"
+          }
+        },
+        {
+          "id": "entretien-185",
+          "title": {
+            "fr-FR": "185. Conférence du 5 juillet 1658 — Sur le Support"
+          }
+        },
+        {
+          "id": "entretien-186",
+          "title": {
+            "fr-FR": "186. Répétition d’Oraison du 4 août 1658"
+          }
+        },
+        {
+          "id": "entretien-187",
+          "title": {
+            "fr-FR": "187. Conférence du 23 août 1658 — Sur la Sobriété"
+          }
+        },
+        {
+          "id": "entretien-188",
+          "title": {
+            "fr-FR": "188. Conférence du (30 août 1658°) — Sur l’Indifférence aux Emplois"
+          }
+        },
+        {
+          "id": "entretien-189",
+          "title": {
+            "fr-FR": "189. Entretien de (septembre 1658°) — Sur la Perte de la Ferme d’Orsigny"
+          }
+        },
+        {
+          "id": "entretien-190",
+          "title": {
+            "fr-FR": "190. Conférence du 20 septembre 1658 — Sur le Silence"
+          }
+        },
+        {
+          "id": "entretien-191",
+          "title": {
+            "fr-FR": "191. Entretien du 23 octobre 1658 — Conseils a de Jeunes Étudiants Prêts à Commencer Leur Philosophie"
+          }
+        },
+        {
+          "id": "entretien-192",
+          "title": {
+            "fr-FR": "192. Répétition d’Oraison de Novembre 1658"
+          }
+        },
+        {
+          "id": "entretien-193",
+          "title": {
+            "fr-FR": "193. Répétition d’Oraison du 11 novembre 1658"
+          }
+        },
+        {
+          "id": "entretien-194",
+          "title": {
+            "fr-FR": "194. Répétition d’Oraison du 17 novembre 1658"
+          }
+        },
+        {
+          "id": "entretien-195",
+          "title": {
+            "fr-FR": "195. Conférence du 6 décembre 1658 — Sur la Fin de la Congrégation de la Mission"
+          }
+        },
+        {
+          "id": "entretien-196",
+          "title": {
+            "fr-FR": "196. Conférence du 13 décembre 1658 — Des Membres de la Congrégation de la Mission Et de Leurs Emplois"
+          }
+        },
+        {
+          "id": "entretien-197",
+          "title": {
+            "fr-FR": "197. Conférence du 14 février 1659 — Des Maximes Évangéliques"
+          }
+        },
+        {
+          "id": "entretien-198",
+          "title": {
+            "fr-FR": "198. Conférence du 21 février 1659 — Sur la Recherche du Royaume de Dieu"
+          }
+        },
+        {
+          "id": "entretien-199",
+          "title": {
+            "fr-FR": "199. Conférence du 7 mars 1659 — De la Conformité à la Volonté de Dieu"
+          }
+        },
+        {
+          "id": "entretien-200",
+          "title": {
+            "fr-FR": "200. Entretien avec Louis Langlois, — Prêtre de la Mission, Mars 1659"
+          }
+        },
+        {
+          "id": "entretien-201",
+          "title": {
+            "fr-FR": "201. Conférence du 14 mars 1659 — De la Simplicité et de la Prudence"
+          }
+        },
+        {
+          "id": "entretien-202",
+          "title": {
+            "fr-FR": "202. Conférence du 28 mars 1659 — De la Douceur"
+          }
+        },
+        {
+          "id": "entretien-203",
+          "title": {
+            "fr-FR": "203. Conférence du 18 avril 1659 — De l’Humilité"
+          }
+        },
+        {
+          "id": "entretien-204",
+          "title": {
+            "fr-FR": "204. Conférence du 2 mai 1659 — De la Mortification"
+          }
+        },
+        {
+          "id": "entretien-205",
+          "title": {
+            "fr-FR": "205. Conférence du 16 mai 1659 — De l’Indifférence"
+          }
+        },
+        {
+          "id": "entretien-206",
+          "title": {
+            "fr-FR": "206. Conférence du 23 mai 1659 — De l’Uniformité"
+          }
+        },
+        {
+          "id": "entretien-207",
+          "title": {
+            "fr-FR": "207. Conférence du 30 mai 1659 — De la Charité"
+          }
+        },
+        {
+          "id": "entretien-208",
+          "title": {
+            "fr-FR": "208. Conférence du 6 juin 1659 — Du Bon Usage des Calomnies"
+          }
+        },
+        {
+          "id": "entretien-209",
+          "title": {
+            "fr-FR": "209. Entretien de [1653] — Privation Imposee à la Communauté Par Suite de la Gelée des Vignes"
+          }
+        },
+        {
+          "id": "entretien-210",
+          "title": {
+            "fr-FR": "210. Conférence du 5 août 1659 — Sur la Théologie Morale, la Prédication, Le Catéchisme et l’Administration des Sacrements"
+          }
+        },
+        {
+          "id": "entretien-211",
+          "title": {
+            "fr-FR": "211. Conférence du 22 août 1659 — Sur les Cinq Vertus Fondamentales"
+          }
+        },
+        {
+          "id": "entretien-212",
+          "title": {
+            "fr-FR": "212. Conférence du 29 août 1659 — Des Maximes Contraires aux Maximes Évangéliques"
+          }
+        },
+        {
+          "id": "entretien-213",
+          "title": {
+            "fr-FR": "213. Conférence du 26 septembre 1659 — Sur la Récitation de l’Office Divin"
+          }
+        },
+        {
+          "id": "entretien-214",
+          "title": {
+            "fr-FR": "214. Conférence du 17 octobre 1659 — Des Vraies Lumières et des Illusions"
+          }
+        },
+        {
+          "id": "entretien-215",
+          "title": {
+            "fr-FR": "215. Conférence du [24 octobre 1659 (1)] — De l’Obligation d’Avertir le Supérieur des Fautes Notables et des Tentations du Prochain"
+          }
+        },
+        {
+          "id": "entretien-216",
+          "title": {
+            "fr-FR": "216. Conférence du [7 novembre 1659 (l)] — Des Vœux"
+          }
+        },
+        {
+          "id": "entretien-217",
+          "title": {
+            "fr-FR": "217. Conférence du 14 novembre 1659 (1)] — De la Pauvreté"
+          }
+        },
+        {
+          "id": "entretien-219",
+          "title": {
+            "fr-FR": "219. Conférence : du [28 novembre 1659] — Sur le Désir d’Avoir des Bénéfices"
+          }
+        },
+        {
+          "id": "entretien-220",
+          "title": {
+            "fr-FR": "220. Conférence du [5 décembre 1659 (l)]"
+          }
+        },
+        {
+          "id": "entretien-221",
+          "title": {
+            "fr-FR": "221. Conférence du [12 décembre 1659 (1)] — De la Chasteté"
+          }
+        },
+        {
+          "id": "entretien-222",
+          "title": {
+            "fr-FR": "222. Conférence du [19 décembre 1659 (1)] — De l’Obéissance"
+          }
+        },
+        {
+          "id": "entretien-223",
+          "title": {
+            "fr-FR": "223. Répétition d’Oraison du 27 décembre"
+          }
+        },
+        {
+          "id": "entretien-224",
+          "title": {
+            "fr-FR": "224. Resume d’Une Conférence — Comment s’Occuper des Retraitants"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

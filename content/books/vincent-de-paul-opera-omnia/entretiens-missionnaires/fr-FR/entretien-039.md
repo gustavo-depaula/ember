@@ -1,0 +1,5 @@
+# 39. Extrait d’entretien — Sur l’Humilité
+
+Saint Vincent disait un jour que nous ne devions jamais jeter les yeux, ni les arrêter, sur ce qu'il y a de bien en nous, mais nous étudier à connaître ce qu'il y a de mal & de défectueux, & que c'était là un grand moyen pour conserver l'humilité. *Il ajoutait que* ni le don de convertir les âmes, ni tous les autres talents extérieurs qui étaient en nous, n'étaient point pour nous, que nous n'en étions que les portefaix, & qu'avec tout cela on pouvait bien se damner ; & partant, que personne ne devait se flatter, ni se complaire en soi-même, ni en concevoir aucune propre estime, voyant que Dieu opère de grandes choses par son moyen ; mais qu'il devait d'autant plus s'humilier, & se reconnaître pour un chétif instrument dont Dieu daigne se servir, ainsi qu'il fit de la verge de Moïse, laquelle faisait des prodiges & des miracles, & n'était pourtant qu'une chétive verge & une frêle baguette. [^1]
+
+[^1]: Abelly, op. cit, l III, chap. XIII, sect. II, p. 226.

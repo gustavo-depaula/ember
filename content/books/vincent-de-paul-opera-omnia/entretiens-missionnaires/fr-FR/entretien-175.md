@@ -1,0 +1,23 @@
+# 175. Répétition d’Oraison du 1er novembre 1657
+
+Après que notre très honoré Père eut fait répéter à trois ou quatre personnes de la Compagnie les pensées que Dieu leur avait données en l’oraison, il dit à la Compagnie qu’elle devait s’élever à Dieu en ce saint jour de tous les saints et lui demander ses grâces et les besoins d’un chacun en particulier et pour la Compagnie en général. Voyez-vous, dit-il, Notre-Seigneur a coutume de verser ses grâces en plus grande abondance en ce jour sur les fidèles qui les lui demandent comme il faut, et cela par l’entremise de tous les saints ; car, comme il y a plus d’intercesseurs pour nous auprès de Dieu, aussi ne devons-nous pas douter que les grâces qu’il verse sur les fidèles en ce jour, ne soient bien plus abondantes qu’aux autres fêtes particulières des saints. Ce que nous devons donc faire, Messieurs et mes frères, c’est de remercier sa divine Majesté de tous les dons et grâces qu’elle a eu agréable de faire à tous les saints en général qui sont là-haut au ciel, et à chacun d’eux en particulier, du bon usage qu’ils ont fait de ces mêmes grâces, de la persévérance qu’ils ont eue à la pratique des bonnes œuvres jusqu’à la fin ; remercier Dieu de tout cela et de ce qu’ils ont si bien pratiqué cette première leçon que Notre-Seigneur a enseignée à eux et à nous : bienheureux sont les pauvres d’esprit, parce que le royaume des cieux leur appartient [^1].
+
+O belle et sainte humilité, que tu es agréable aux yeux de Dieu, puisque Notre-Seigneur Jésus-Christ a voulu venir exprès lui-même ici-bas en terre pour nous l’enseigner par l’exemple et par parole ! O Messieurs ô mes frères, plût à Dieu que l’amour et le désir de cette vertu fussent bien imprimés dans nos cœurs ! Oui, l’amour de notre mépris ; agréer que l’on se moque de nous, que l’on nous estime peu de chose, que l’on n’en
+
+XI. — 28
+
+fasse point de cas, que le monde nous croie gens de peu de vertu, ignorants, propres à rien.
+
+Non seulement un chacun de la Compagnie doit aimer cela à son égard, mais aussi il le doit aimer pour le regard de la Compagnie en général. Oui, aimer que l’on en parle comme d’une communauté la moins utile de l’Église de Dieu, la plus imparfaite ; aimer qu’on dise d’elle qu’elle est la plus ignorante et qu’elle est impropre à toutes choses. Le Fils de Dieu a voulu passer par là ; il a été tenu parmi le peuple pour un séducteur ; il a souffert d’être postposé à Barabbas, de passer pour un démoniaque, dans le rebut du. peuple ; bref, il a agréé, aimé cet état. Cela étant ainsi, que le Fils de Dieu a aimé cet état, pourquoi ne l’aimerions-nous pas ? Voyez-vous, il faut nous efforcer toujours d’aimer l’abjection, la confusion qui nous arrive de nos fautes ; il faut haïr et détester le mal lorsqu’il va jusqu’au péché, et faire notre possible pour nous en corriger. Mais, étant une fois commis, nous devons aimer la confusion qui nous en revient et être bien aises qu’à cause de cela nous soyons méprisés.
+
+J’ai connu une bonne fille [^2] qui avait une cuisse une fois aussi grosse que l’autre ; et à cause de cela, ne pouvant pas, comme les autres dans le monde, aller au bal, etc., elle se retira pour vivre en solitude et ne se point marier ; et, depuis, elle disait ces paroles : "O ma bénite jambe, qui avez été cause que je me suis retirée du monde ! ô confusion aimable, qui m’avez procuré un si grand bien !"
+
+Je lisais hier au soir une lettre, touchant notre bon ; défunt M. Duiguin, par laquelle on me mande que sa mort a mis tout le monde en pleurs, voyant qu’ils perdaient leur bon père (ainsi le tenaient-ils) ; et grands et petits, tous étaient en larmes ; aussi est-il leur père, pour les avoir engendrés à Jésus-Christ. Cela peut donner quelque sujet d’estime d’abord à la Compagnie, voyant cela ; mais ce que nous devons faire en ces rencontres, c’est de dire, aussitôt que nous voyons et entendons cela : "A vous seul, Seigneur, la gloire ! A vous, mon Dieu, toute la gloire !" Et ainsi rabattre en nous tout ce qui nous pourrait donner quelque pensée de vaine estime de nous en particulier, ou de la Compagnie en général. Plaise à Dieu faire la grâce à la Compagnie de s’étudier particulièrement et principalement aux moyens d’acquérir cette sainte vertu d’humilité et d’abjection de nous-mêmes ! Oui, mes frères je le redis, nous devrions courir après l’acquisition de cette vertu d’humilité. Sa divine Majesté nous en fasse la grâce, s’il lui plaît ! [^3]
+
+[^1]: Matthieu 5, 3.
+
+[^2]: Isabelle du Fay.
+
+    Il faut suivre en tout la volonté de Dieu pour l’amour de Dieu. — Zèle des deux frères Jean et Philippe Le Vacher, missionnaires en Barbarie.
+
+[^3]: Manuscrit des répétitions d’oraison, f° 63 v°.

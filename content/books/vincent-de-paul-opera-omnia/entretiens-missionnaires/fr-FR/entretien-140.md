@@ -1,0 +1,25 @@
+# 140. Répétition d’Oraison du 12 septembre 1655 — Nouvelles des Missions de Pologne et de Barbarie
+
+Parlant au sujet des misères et des guerres de la Pologne, M. Vincent dit que le corps de la Compagnie souffrait en quelques parties de ses membres, entendant parler des missionnaires de Pologne, qu’il croyait avoir eu ordre de se retirer de Varsovie pour éviter la furie de l’armée suédoise, qui avait pillé Posnanie, tué le suffragant de l’évêché et plusieurs autres prêtres ; que Dieu a ses raisons pour lesquelles il permet que toutes choses aillent ainsi, et que, s’il nous faisait connaître la raison qu’il a d’en user de la sorte, nous dirions qu’il fait bien et a raison de le faire. Une des premières choses que Dieu fera voir aux hommes là-haut au ciel, lorsque la divine Majesté leur fera la grâce d’y arriver, ce sera de leur découvrir les raisons et pourquoi il en a usé de la sorte sur la terre ; car, voyez-vous, Dieu ne fait rien qu’à bonne fin et que très justement ; c’est pourquoi nous nous devons conformer en tout à ses volontés et adorer ses conduites toujours admirables, quoique souvent inconnues aux hommes, et qu’ils ne connaîtront jamais qu’au ciel.
+
+Voici un autre sujet de souffrance, mais en quelque
+
+XI. — 20
+
+chose différent néanmoins. M. Le Vacher, de Tunis, me mande que le dey, c’est-à-dire le roi en ce pays-là, l’envoya quérir pour lui dire qu’il avait avis qu’il détournait avec une industrie merveilleuse les chrétiens qui voulaient se faire turcs, à ne le pas faire, et que pour cela il eût à sortir de la ville. A quoi M. Le Vacher obéit, et s’en alla à Bizerte, accompagné d’un garde et de son truchement, où étant arrivé, il trouva deux barques de pauvres chrétiens, lesquels il exhorta à la confession, et pour cet effet obtint du commandant qu’ils fussent déchaînés ; ce qui lui fut accordé.
+
+Alors M. Vincent, s’exclamant, dit :
+
+Qui sait, Messieurs, si ce n’a pas été le dessein de Dieu de permettre que cette petite disgrâce soit arrivée au bon M. Le Vacher pour lui donner moyen d’assister et aider ces pauvres chrétiens à se mettre en bon état ? Ensuite, dit-il, M. Husson, qui est le consul, ayant été voir le dey pour le prier d’avoir agréable de rappeler M. Le Vacher, sur ce qu’il lui remontra qu’il ne s’employait qu’après de pauvres chrétiens, qu’il ne se mêlait point de la religion turquesque, etc., il le lui accorda et envoya ordre au gouverneur de Bizerte de ne point laisser embarquer M. Le Vacher pour s’en retourner en France, en cas qu’il le voulût faire, et que, sans faire semblant de rien, il retournât à Tunis dans un mois, afin que cela ne parut pas ; d’autant que le dey vit bien qu’on le pourrait taxer de légèreté d’avoir exilé un homme pour une chose semblable, et que, s’il passait en chrétienté, il ferait qu’on maltraiterait les turcs qui y sont détenus.
+
+Voilà les raisons que l’on dit qu’il a eues de rappeler M. Le Vacher à Tunis. Or, je vous dirai que ce bon homme, M. Le Vacher, étant à Bizerte, m’a écrit qu’il attendait notre ordre ou pour repasser en France, ou pour s’en aller à Alger. Un cœur large et ami de ses aises aurait été bien aise d’avoir cette occasion pour s’en revenir en France, et cependant le voilà qui est tout prêt de s’en aller à Alger, où il y a encore plus de travail qu’à Tunis ! Voilà, Messieurs, comme sont faits les véritables serviteurs de Dieu qui sont animés de son esprit.
+
+En vérité, si, d’un côté, Dieu permet qu’il en sorte de leur vocation [^1], il y a sujet de consolation, d’autre côté, de voir de si bons sujets dans la Compagnie.
+
+M. Le Vacher, d’Alger, son frère, qu’est-ce que c’est encore ? Un homme qui est tout feu, et qui s’expose au point que, si l’on avait su ce qu’il a fait, quand il aurait eu cent vies, il les aurait perdues. Il n’y va rien moins que du feu. Comme, par exemple, ce qu’il a fait auprès d’un religieux qui s’est fait turc, pour lui faire renoncer à cette maudite loi. Si cela avait été su, il n’y. allait pas moins que d’être brûlé tout vif. Et c’est ainsi. qu’ils en usent en ce pays-là. Enfin c’est un homme qui travaille perpétuellement. Vous dirai-je encore qu’à Pâques dernier, voyant qu’il n’avait que huit jours de temps pour assister les pauvres gens et qu’il n’en pourrait point venir à bout en si peu de temps, à moins de travailler extraordinairement, il s’enferma avec eux dans leur bagne et passa ces huit jours à travailler jour et nuit, sans reposer que très peu, exposant ainsi sa vie pour l’assistance du prochain !
+
+Cela n’est-il pas beau, Messieurs ? Que vous en semble ? N’avons-nous pas sujet de bénir Dieu de ce qu’il a donné de tels sujets à la Compagnie que ces siens serviteurs ? Oh ! que je prie Dieu de bon cœur de donner à la Compagnie l’esprit de souffrance, d’être bien aise de souffrir pour l’amour de Notre-Seigneur ! Demandons-le à Dieu, Messieurs. Et vous, mes chers frères, priez sa divine Majesté de donner à la Compagnie ce même esprit. [^2]
+
+[^1]: En marge : M. Vageot était sorti de la Compagnie depuis huit ou dix jours.
+
+[^2]: Manuscrit des répétitions d’oraison, f° 32.

@@ -1,0 +1,9 @@
+# 28. Extrait d’entretien — Sur la Conformité à la Volonté de Dieu
+
+Voyez les dispositions toutes saintes dans lesquelles [le chrétien soumis à la volonté de Dieu] passe sa vie, & les bénédictions qui accompagnent tout ce qu'il fait : il ne tient qu'à Dieu, & c'est Dieu qui le conduit en tout & partout ; de sorte qu'il peut dire avec le prophète [^1] : *Tenuisti manum dexteram meam, & in voluntate tua deduxisti me. *Dieu le tient comme par la main droite, &, se tenant réciproquement avec une entière soumission à cette divine conduite, vous le verrez demain, après-demain, toute la semaine, toute l'année, & enfin toute sa vie, en paix & tranquillité, en ardeur & tendance continuelle vers Dieu, & répandant toujours dans les âmes de son prochain les douces & salutaires opérations de l'esprit qui l'anime. Si vous le comparez avec ceux qui suivent leurs propres inclinations, vous verrez ses conduites toutes brillantes de lumière, & toujours fécondes en fruits ; on remarque un progrès notable en sa personne, une force & énergie en toutes ses paroles ; Dieu donne une bénédiction particulière à toutes ses entreprises, & accompagne de sa grâce les desseins qu'il prend pour lui, & les conseils qu'il donne aux autres ; & toutes ses actions sont de grande édification. Mais, d'un autre côté, l'on voit que les personnes attachées à leurs inclinations & plaisirs n'ont que des pensées de terre, des discours d'esclaves & des œuvres mortes. Et cette différence vient de ce que ceux-ci s'attachent aux créatures, & que celui-là s'en sépare ; la nature agit dans ces âmes basses, & la grâce dans celles. qui s'élèvent à Dieu & qui ne respirent que sa volonté. [^2]
+
+[^1]: Psaume 72, 24.
+
+    En un temps où la maladie menaçait de lui enlever plusieurs de ses prêtres & particulièrement un des plus méritants de la Compagnie, le saint dit à sa communauté :
+
+[^2]: Abelly, op. cit., L. III, chap. V, sect. I, p. 40.
