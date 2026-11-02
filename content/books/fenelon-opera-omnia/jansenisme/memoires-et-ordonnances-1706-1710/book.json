@@ -1,0 +1,170 @@
+{
+  "id": "fenelon-jansenisme-memoires-ordonnances",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Jansénisme IV : mémoires, lettres sur l’ordonnance de Noailles, ordonnance pour la bulle Vineam Domini et lettres (1703-1709)",
+    "en-US": "Jansenism IV: Memoranda, Letters on Noailles’s Ordinance, the Ordinance for the Bull Vineam Domini, and Letters (1703-1709)",
+    "pt-BR": "Jansenismo IV: memoriais, cartas sobre a ordenança de Noailles, ordenança para a bula Vineam Domini e cartas (1703-1709)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les mémoires sur l’état du diocèse de Cambrai et sur les progrès du jansénisme, les lettres sur l’ordonnance du cardinal de Noailles contre le Cas de conscience, l’examen des raisons contre la réception du bref de Clément XI, l’ordonnance et instruction pastorale pour la bulle Vineam Domini (1706) et les lettres suivantes (à l’évêque de Saint-Pons, au P. Quesnel, à l’électeur de Cologne), certaines en latin dans le texte de l’édition.",
+    "en-US": "The memoranda on the state of the diocese of Cambrai and the progress of Jansenism, the letters on Cardinal de Noailles’s ordinance against the Case of Conscience, the examination of the reasons against receiving Clement XI’s brief, the ordinance and pastoral instruction for the bull Vineam Domini (1706) and the letters that follow (to the Bishop of Saint-Pons, to Father Quesnel, to the Elector of Cologne), some in Latin within the edition’s text.",
+    "pt-BR": "Os memoriais sobre o estado da diocese de Cambrai e os progressos do jansenismo, as cartas sobre a ordenança do cardeal de Noailles contra o Caso de consciência, o exame das razões contra a recepção do breve de Clemente XI, a ordenança e instrução pastoral para a bula Vineam Domini (1706) e as cartas seguintes (ao bispo de Saint-Pons, ao padre Quesnel, ao eleitor de Colônia), algumas em latim no texto da edição."
+  },
+  "composed": "1703–1709",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/memoires-et-ordonnances-1706-1710",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte04fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 4, p. 450–fin; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-memoires-sur-le-jansenisme",
+      "title": {
+        "fr-FR": "Mémoires sur les progrès du jansénisme"
+      }
+    },
+    {
+      "id": "02-lettres-ordonnance-de-noailles",
+      "title": {
+        "fr-FR": "Lettres sur l’ordonnance du cardinal de Noailles"
+      }
+    },
+    {
+      "id": "03-examen-et-refutation",
+      "title": {
+        "fr-FR": "Examen et réfutation des raisons alléguées contre la réception du bref de Clément XI"
+      }
+    },
+    {
+      "id": "04-memoriale-et-ordonnance-vineam-domini",
+      "title": {
+        "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres"
+      },
+      "children": [
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-01",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 1"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-02",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 2"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-03",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 3"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-04",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 4"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-05",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 5"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-06",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 6"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-07",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 7"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-08",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 8"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-09",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 9"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-10",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 10"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-11",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 11"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-12",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 12"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-13",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 13"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-14",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 14"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-15",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 15"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-16",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 16"
+          }
+        },
+        {
+          "id": "04-memoriale-et-ordonnance-vineam-domini-17",
+          "title": {
+            "fr-FR": "Memoriale ; ordonnance et instruction pastorale pour la bulle Vineam Domini ; lettres, partie 17"
+          }
+        }
+      ]
+    }
+  ]
+}
