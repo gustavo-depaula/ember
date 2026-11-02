@@ -1,0 +1,99 @@
+{
+  "id": "chesterton-secret-of-father-brown",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Secret of Father Brown",
+    "pt-BR": "O Segredo do Padre Brown"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Eight stories framed by Father Brown's own account to a young American of how he does it: not by method but by becoming the criminal in imagination and repenting for him. The Mirror of the Magistrate, The Man with Two Beards and The Song of the Flying Fish, with Flambeau's last appearance.",
+    "pt-BR": "Oito histórias emolduradas pelo relato do próprio Padre Brown a um jovem americano sobre como ele faz: não por método, mas tornando-se o criminoso na imaginação e arrependendo-se por ele. O Espelho do Magistrado, O Homem das Duas Barbas e A Canção do Peixe-Voador, com a última aparição de Flambeau."
+  },
+  "composed": "1927",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/secret-of-father-brown",
+  "editions": {
+    "en-US": {
+      "editor": "Cassell and Company",
+      "year": 1927
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/70175",
+      "edition": "The Secret of Father Brown (Cassell and Company, 1927), Project Gutenberg #70175.",
+      "description": "Chapter divisions as printed; Gutenberg front and back matter dropped, line wraps joined, underscored italics converted, double hyphens set as em dashes. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Chesterton died in 1936 (more than 70 years ago, so public domain in Brazil, the UK and the EU) and the book was published in 1927 (public domain in the US)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch01-the-secret-of-father-brown",
+      "title": {
+        "en-US": "The Secret of Father Brown"
+      }
+    },
+    {
+      "id": "ch02-the-mirror-of-the-magistrate",
+      "title": {
+        "en-US": "The Mirror of the Magistrate"
+      }
+    },
+    {
+      "id": "ch03-the-man-with-two-beards",
+      "title": {
+        "en-US": "The Man with Two Beards"
+      }
+    },
+    {
+      "id": "ch04-the-song-of-the-flying-fish",
+      "title": {
+        "en-US": "The Song of the Flying Fish"
+      }
+    },
+    {
+      "id": "ch05-the-actor-and-the-alibi",
+      "title": {
+        "en-US": "The Actor and the Alibi"
+      }
+    },
+    {
+      "id": "ch06-the-vanishing-of-vaudrey",
+      "title": {
+        "en-US": "The Vanishing of Vaudrey"
+      }
+    },
+    {
+      "id": "ch07-the-worst-crime-in-the-world",
+      "title": {
+        "en-US": "The Worst Crime in the World"
+      }
+    },
+    {
+      "id": "ch08-the-red-moon-of-meru",
+      "title": {
+        "en-US": "The Red Moon of Meru"
+      }
+    },
+    {
+      "id": "ch09-the-chief-mourner-of-marne",
+      "title": {
+        "en-US": "The Chief Mourner of Marne"
+      }
+    },
+    {
+      "id": "ch10-the-secret-of-flambeau",
+      "title": {
+        "en-US": "The Secret of Flambeau"
+      }
+    }
+  ]
+}
