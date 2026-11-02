@@ -1,0 +1,90 @@
+{
+  "id": "eudes-servir-la-messe",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "La Manière de bien servir à la sainte Messe",
+    "en-US": "The Manner of Serving Holy Mass Well",
+    "pt-BR": "A maneira de servir bem à santa Missa"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Une instruction pour les servants de messe, avec les dispositions et les prières.",
+    "en-US": "An instruction for Mass servers, with dispositions and prayers.",
+    "pt-BR": "Uma instrução para os coroinhas, com disposições e orações."
+  },
+  "composed": 1650,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/servir-la-messe",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_4)_000000349.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 4, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "messe-01",
+      "title": {
+        "fr-FR": "La Manière de bien servir: La manière de bien servir a la sainte messe"
+      }
+    },
+    {
+      "id": "messe-02",
+      "title": {
+        "fr-FR": "Introduction: F. g. hubert,"
+      }
+    },
+    {
+      "id": "messe-03",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    },
+    {
+      "id": "messe-04",
+      "title": {
+        "fr-FR": "CHAPITRE PREMIER.--Combien c'est une chose grande et sainte que de servir la sainte Messe"
+      }
+    },
+    {
+      "id": "messe-05",
+      "title": {
+        "fr-FR": "CHAPITRE II.--Ce que doit faire à l'extérieur celui qui sert la sainte Messe"
+      }
+    },
+    {
+      "id": "messe-06",
+      "title": {
+        "fr-FR": "CHAPITRE III.--Quand il y a deux Clercs à servir la sainte Messe, ce qu'ils doivent faire"
+      }
+    },
+    {
+      "id": "messe-07",
+      "title": {
+        "fr-FR": "CHAPITRE IV.--Des choses qu'il faut répondre à la sainte Messe"
+      }
+    },
+    {
+      "id": "messe-08",
+      "title": {
+        "fr-FR": "CHAPITRE V.--Dispositions intérieures pour bien servir la sainte Messe 2 8 2"
+      }
+    }
+  ]
+}
