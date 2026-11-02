@@ -232,4 +232,4 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 - Not imported from vol. V: the synodal statutes and ordinances, the Cerfroid and Jouarre documents (pages 027-031), which are administrative acts.
 - `bossuet-oraisons-funebres` (Wikisource, Dupuis 1699) keeps the 1699 spellings (`&`, "vanitéz"); two of its date lines were lowercased (for example "Prononcée a saint denis").
 - Sermon titles and Lachat headings that stand in capitals were recased by rule; a few proper names may be wrongly cased.
-- No PD English was attached: the 1900 *Sermon on the Mount* (Capes) and the 1899 *Devotion to the Blessed Virgin* are not imported yet.
+- `bossuet-sermon-on-the-mount-capes` (1900) is an uncorrected archive.org OCR of a Google scan (day headings and page marks partly garbled, some words broken) and holds 37 of the 46 days, so it is a separate book of the work. The 1899 *Devotion to the Blessed Virgin* and the Herder 1919 *Great French Sermons* (funeral orations and sermons in English) are not imported yet.
