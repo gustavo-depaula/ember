@@ -1,0 +1,81 @@
+{
+  "id": "benson-spiritual-letters",
+  "cover": "classic",
+  "name": {
+    "en-US": "Spiritual Letters to One of His Converts",
+    "pt-BR": "Cartas Espirituais a Um de Seus Convertidos"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Extracts from Benson's letters (1915) to one of his converts, in six parts: Anglican letters, early Catholic letters, letters from Rome, letters of spiritual direction, to one beginning a literary career, and to one entering religion.",
+    "pt-BR": "Trechos das cartas de Benson (1915) a um de seus convertidos, em seis partes: cartas anglicanas, primeiras cartas católicas, cartas de Roma, cartas de direção espiritual, a quem inicia uma carreira literária e a quem entra na vida religiosa."
+  },
+  "composed": 1915,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/spiritual-letters",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Longmans, Green, 1915)",
+      "year": 1915
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/spiritualletters00bensuoft",
+      "edition": "Spiritual Letters to One of His Converts (London: Longmans, Green, 1915), Internet Archive full-text OCR (spiritualletters00bensuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1915, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "I. Anglican Letters"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "II. Early Catholic Letters"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "III. Letters from Rome"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "IV. Letters of Spiritual Direction"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "V. To One Beginning a Literary Career"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "VI. To One Entering Religion"
+      }
+    }
+  ]
+}

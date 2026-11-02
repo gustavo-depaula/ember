@@ -1,0 +1,54 @@
+{
+ "id": "benson-spiritual-letters",
+ "dir": "benson-opera-omnia/spiritual-letters",
+ "slug": "spiritual-letters",
+ "name": "Spiritual Letters to One of His Converts",
+ "name_pt": "Cartas Espirituais a Um de Seus Convertidos",
+ "desc": "Extracts from Benson's letters (1915) to one of his converts, in six parts: Anglican letters, early Catholic letters, letters from Rome, letters of spiritual direction, to one beginning a literary career, and to one entering religion.",
+ "desc_pt": "Trechos das cartas de Benson (1915) a um de seus convertidos, em seis partes: cartas anglicanas, primeiras cartas católicas, cartas de Roma, cartas de direção espiritual, a quem inicia uma carreira literária e a quem entra na vida religiosa.",
+ "composed": 1915,
+ "editor": "Robert Hugh Benson (London: Longmans, Green, 1915)",
+ "year": 1915,
+ "url": "https://archive.org/details/spiritualletters00bensuoft",
+ "edition": "Spiritual Letters to One of His Converts (London: Longmans, Green, 1915), Internet Archive full-text OCR (spiritualletters00bensuoft).",
+ "src": "robert-hugh-benson/ia/spiritualletters00bensuoft_djvu.txt",
+ "manual": [
+  [
+   110,
+   "Preface"
+  ],
+  [
+   330,
+   "__skip"
+  ],
+  [
+   356,
+   "I. Anglican Letters"
+  ],
+  [
+   915,
+   "II. Early Catholic Letters"
+  ],
+  [
+   2017,
+   "III. Letters from Rome"
+  ],
+  [
+   3001,
+   "IV. Letters of Spiritual Direction"
+  ],
+  [
+   3860,
+   "V. To One Beginning a Literary Career"
+  ],
+  [
+   4416,
+   "VI. To One Entering Religion"
+  ]
+ ],
+ "start": 110,
+ "end": 5468,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}
