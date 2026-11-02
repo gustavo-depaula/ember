@@ -1,0 +1,3 @@
+# Caput 27
+
+27.42. Ideoque dicam, quod verum est coram te, Domine, cum homines *idiotae* atque *infideles*, quibus initiandis atque lucrandis necessaria sunt sacramenta initiorum et *magnalia* miraculorum, quae nomine piscium et coetorum significari credimus, suscipiunt corporaliter reficiendos aut in aliquo usu praesentis vitae adiuvandos pueros tuos, cum id quare faciendum sit et quo pertineat ignorent, nec illi istos pascunt nec isti ab illis pascuntur, quia nec illi haec sancta et recta voluntate operantur nec isti eorum datis, ubi fructum nondum vident, laetantur. Inde quippe animus pascitur, unde laetatur. Et ideo pisces et coeti non vescuntur escis, quas non germinat nisi iam terra ab amaritudine marinorum fluctuum distincta atque discreta.

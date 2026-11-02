@@ -1,0 +1,3 @@
+# Caput 7
+
+7.11. Quid ergo amo, cum Deum meum amo? Quis est ille super caput animae meae? Per ipsam animam meam ascendam at illum. Transibo vim meam, qua haereo corpori et vitaliter compagem eius repleo. Non ea vi reperio Deum meum: nam reperiret et *equus et mulus, quibus non est intellectus*, et est eadem vis, qua vivunt etiam eorum corpora. Est alia vis, non solum qua vivifico sed etiam qua sensifico carnem meam, quam mihi fabricavit Dominus, iubens oculo, ut non audiat, et auri, ut non videat, sed illi, per quem videam, huic, per quam audiam, et propria singillatim ceteris sensibus sedibus suis et officiis suis: quae diversa per eos ago unus ego animus. Transibo et istam vim meam; nam et hanc habet equus et mulus; sentiunt enim etiam ipsi per corpus.

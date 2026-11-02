@@ -1,0 +1,3 @@
+# Caput 1
+
+1.1. Multa satagit cor meum, Domine, in hac inopia vitae meae pulsatum verbis sanctae Scripturae tuae, et ideo plerumque in sermone copiosa est egestas humanae intellegentiae, quia plus loquitur inquisitio quam inventio et longior est petitio quam impetratio et operosior est manus pulsans quam sumens. Tenemus promissum: quis corrumpet illud? *Si Deus pro nobis, quis contra nos*? *Petite, et accipietis; quaerite, et invenietis; pulsate, et aperietur vobis. Omnis enim, qui petit, accipit et quaerens inveniet et pulsanti aperietur*. Promissa tua sunt, et quis falli timeat, cum promittit Veritas?

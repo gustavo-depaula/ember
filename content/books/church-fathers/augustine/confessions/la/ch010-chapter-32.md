@@ -1,0 +1,3 @@
+# Caput 32
+
+32.48. De illecebra odorum non satago nimis: cum absunt, non requiro, cum adsunt, non respuo, paratus eis etiam semper carere. Ita mihi videor; forsitan fallar. Sunt enim et istae plangendae tenebrae, in quibus me latet facultas mea, quae in me est, ut animus meus de viribus suis ipse se interrogans non facile sibi credendum existimet, quia et quod inest plerumque occultum est, nisi experientia manifestetur, et nemo securus esse debet in ista vita, quae *tota temptatio* nominatur, utrum qui fieri potuit ex deteriore melior, non fiat etiam ex meliore deterior. Una spes, una fiducia, una firma promissio misericordia tua.

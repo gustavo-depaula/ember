@@ -1,0 +1,3 @@
+# Caput 39
+
+39.64. Intus etiam, intus est aliud in eodem genere temptationis malum, quo inanescunt qui placent sibi de se, quamvis aliis vel non placeant vel displiceant nec placere affectent ceteris. Sed sibi placentes multum tibi displicent non tantum de non bonis quasi bonis, verum etiam de bonis tuis quasi suis, aut etiam sicut de tuis, sed tamquam ex meritis suis, aut etiam sicut ex tua gratia, non tamen socialiter gaudentes, sed aliis invidentes eam. In his omnibus atque in huiuscemodi periculis et laboribus vides tremorem cordis mei, et vulnera mea magis subinde a te sanari quam mihi non infligi sentio.

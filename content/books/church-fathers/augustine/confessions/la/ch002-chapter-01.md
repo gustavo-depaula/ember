@@ -1,0 +1,3 @@
+# Caput 1
+
+1.1. Recordari volo transactas foeditates meas et carnales corruptiones animae meae, non quod eas amem, sed ut amem te, Deus meus. Amore amoris tui facio istuc, recolens vias meas nequissimas in amaritudine recogitationis meae, ut tu dulcescas mihi, dulcedo non fallax, dulcedo felix et secura, et colligens me a dispersione, in qua frustatim discissus sum, dum ab uno te aversus in multa evanui. Exarsi enim aliquando satiari inferis in adulescentia et silvescere ausus sum variis et umbrosis amoribus, et contabuit species mea et computrui coram oculis tuis placens mihi et placere cupiens oculis hominum.

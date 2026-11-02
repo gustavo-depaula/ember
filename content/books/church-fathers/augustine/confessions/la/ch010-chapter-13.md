@@ -1,0 +1,3 @@
+# Caput 13
+
+13.20. Haec omnia memoria teneo et quomodo ea didicerim memoria teneo. Multa etiam, quae adversus haec falsissime disputantur, audivi et memoria teneo; quae tametsi falsa sunt tamen ea meminisse me non est falsum; et discrevisse me inter illa vera et haec falsa, quae contra dicuntur, et hoc memini aliterque nunc video discernere me ista, aliter autem memini saepe me discrevisse, cum ea saepe cogitarem. Ergo et intellexisse me saepius ista memini, et quod nunc discerno et intellego, recondo in memoria, ut postea me nunc intellexisse meminerim. Ergo et meminisse me memini, sicut postea, quod haec reminisci nunc potui, si recordabor, utique per vim memoriae recordabor.

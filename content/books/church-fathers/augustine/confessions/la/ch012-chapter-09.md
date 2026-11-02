@@ -1,0 +1,3 @@
+# Caput 9
+
+9.9. Ideoque Spiritus, doctor famuli tui, cum te commemorat fecisse *in principio caelum et terram*, tacet de temporibus, silet de diebus. Nimirum enim *caelum caeli*, quod *in principio* fecisti, creatura est aliqua intellectualis, quamquam nequaquam tibi, Trinitati, coaeterna, particeps tamen aeternitatis tuae, valde mutabilitatem suam prae dulcedine felicissimae contemplationis tuae cohibet et sine ullo lapsu, ex quo facta est, inhaerendo tibi excedit omnem volubilem vicissitudinem temporum. Ista vero informitas, *terra invisibilis et incomposita*, nec ipsa in diebus numerata est. Ubi enim nulla species, nullus ordo, nec venit quidquam nec praeterit, et ubi hoc non fit, non sunt utique dies nec vicissitudo spatiorum temporalium.

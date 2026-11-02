@@ -1,0 +1,3 @@
+# Caput 14
+
+14.17. Mira profunditas eloquiorum tuorum, quorum ecce ante nos superficies blandiens parvulis: sed mira profunditas, Deus meus, mira profunditas! Horror est intendere in eam, horror honoris et tremor amoris. Odi hostes eius vehementer: o si occidas eos de gladio bis acuto, et non sint hostes eius! Sic enim amo eos occidi sibi, ut vivant tibi. Ecce autem alii non reprehensores, sed laudatores libri *Geneseos*: "Non, inquiunt, hoc voluit in his verbis intellegi Spiritus Dei, qui per Moysen famulum eius ista conscripsit, non hoc voluit intellegi, quod tu dicis, sed aliud, quod nos dicimus". Quibus ego te arbitro, Deus omnium nostrum, ita respondeo.

@@ -1,0 +1,3 @@
+# Caput 5
+
+5.13. Renuntiavi peractis vindemialibus, ut scholasticis suis Mediolanenses venditorem verborum alium providerent, quod et tibi ego servire delegissem et illi professioni prae difficultate spirandi ac dolore pectoris non sufficerem. Et insinuavi per litteras antistiti tuo, viro sancto Ambrosio, pristinos errores meos et praesens votum meum, ut moneret, quid mihi potissimum de libris tuis legendum esset, quo percipiendae tantae gratiae paratior aptiorque fierem. At ille iussit Isaiam prophetam, credo, quod prae ceteris Evangelii vocationisque gentium sit praenuntiator apertior. Verumtamen ego primam huius lectionem non intellegens totumque talem arbitrans distuli repetendum exercitatior in dominico eloquio.

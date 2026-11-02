@@ -1,0 +1,3 @@
+# Caput 4
+
+4.6. Ecce sunt caelum et terra, clamant, quod facta sint; mutantur enim atque variantur. Quidquid autem factum non est et tamen est, non est in eo quidquam, quod ante non erat: quod est mutari atque variari. Clamant etiam, quod se ipsa non fecerint: "Ideo sumus, quia facta sumus; non ergo eramus, antequam essemus, ut fieri possemus a nobis". Et vox dicentium est ipsa evidentia. Tu ergo, Domine, fecisti ea, qui pulcher es: pulchra sunt enim; qui bonus es: bona sunt enim; qui es: sunt enim. Nec ita pulchra sunt nec ita bona sunt nec ita sunt, sicut tu Conditor eorum, quo comparato nec pulchra sunt nec bona sunt nec sunt. Scimus haec, gratias tibi, et scientia nostra scientiae tuae comparata ignorantia est.

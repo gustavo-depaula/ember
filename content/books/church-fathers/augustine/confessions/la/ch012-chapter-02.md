@@ -1,0 +1,3 @@
+# Caput 2
+
+2.2. Confitetur altitudini tuae humilitas linguae meae, quoniam tu fecisti caelum et terram; hoc caelum, quod video, terramque, quam calco, unde est haec terra, quam porto; tu fecisti. Sed ubi est caelum caeli, Domine, de quo audivimus in voce Psalmi: *Caelum caeli Domino; terram autem dedit filiis hominum*? Ubi est caelum, quod non cernimus, cui terra est hoc omne, quod cernimus? Hoc enim totum corporeum non ubique totum ita cepit speciem pulchram in novissimis, cuius fundus est terra nostra, sed ad illud *caelum caeli* etiam terrae nostrae caelum terra est. Et hoc utrumque magnum corpus non absurde terra est ad illud nescio quale *caelum*, quod *Domino* est, non *filiis hominum*.

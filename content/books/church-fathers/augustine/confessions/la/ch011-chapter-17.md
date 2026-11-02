@@ -1,0 +1,3 @@
+# Caput 17
+
+17.22. Quaero, pater, non affirmo: Deus meus, praeside mihi *et rege me*. Quisnam est, qui dicat mihi non esse tria tempora, sicut pueri didicimus puerosque docuimus, praeteritum, praesens et futurum, sed tantum praesens, quoniam illa duo non sunt? An et ipsa sunt, sed ex aliquo procedit occulto, cum ex futuro fit praesens, et in aliquod recedit occultum, cum ex praesenti fit praeteritum? Nam ubi ea viderunt qui futura cecinerunt, si nondum sunt? Neque enim potest videri id quod non est. Et qui narrant praeterita, non utique vera narrarent, si animo illa non cernerent; quae si nulla essent, cerni omnino non possent. Sunt ergo et futura et praeterita.

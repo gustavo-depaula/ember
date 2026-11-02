@@ -1,0 +1,3 @@
+# Caput 3
+
+3.4. Quod autem in primis conditionibus dixisti: *Fiat lux, et facta est lux*, non incongruenter hoc intellego in creatura spiritali, quia erat iam qualiscumque vita, quam illuminares. Sed sicut non te promeruerat, ut esset talis vita, quae illuminari posset, ita nec cum iam esset promeruit te, ut illuminaretur. Neque enim eius informitas placeret tibi, si non lux fieret non existendo, sed intuendo illuminantem lucem eique cohaerendo, ut et quod utcumque vivit et quod beate vivit, non deberet nisi gratiae tuae, conversa per commutationem meliorem ad id, quod neque in melius neque in deterius mutari potest; quod tu solus es, quia solus simpliciter es, cui non est aliud vivere, aliud beate vivere, quia tua beatitudo es.

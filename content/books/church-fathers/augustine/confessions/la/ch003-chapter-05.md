@@ -1,0 +1,3 @@
+# Caput 5
+
+5.9. Itaque institui animum intendere in Scripturas sanctas et videre, quales essent. Et ecce video rem non compertam superbis neque nudatam pueris, sed incessu humilem, successu excelsam et velatam mysteriis, et non eram ego talis, ut intrare in eam possem aut inclinare cervicem ad eius gressus. Non enim sicut modo loquor, ita sensi, cum attendi ad illam scripturam, sed visa est mihi indigna, quam Tullianae dignitati compararem. Tumor enim meus refugiebat modum eius et acies mea non penetrabat interiora eius. Verum autem illa erat, quae cresceret cum parvulis, sed ego dedignabar esse parvulus et turgidus fastu mihi grandis videbar.

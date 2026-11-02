@@ -1,0 +1,3 @@
+# Caput 28
+
+28.43. Et vidisti, Deus, omnia quae fecisti, et *ecce bona valde*, quia et nos videmus ea, et *ecce* omnia *bona valde*. In singulis generibus operum tuorum, cum dixisses, ut fierent, et facta essent, illud atque illud vidisti quia bonum est. Septiens numeravi scriptum esse te vidisse, quia bonum est quod fecisti; et hoc octavum est, quia vidisti omnia quae fecisti, et *ecce* non solum bona sed etiam *valde bona* tamquam simul omnia. Nam singula tantum bona erant, simul autem omnia et *bona* et *valde*. Hoc dicunt etiam quaeque pulchra corpora, quia longe multo pulchrius est corpus, quod ex membris pulchris omnibus constat, quam ipsa membra singula, quorum ordinatissimo conventu completur universum, quamvis et illa etiam singillatim pulchra sint.

@@ -1,0 +1,3 @@
+# Caput 3
+
+3.3. Capiunt ergone te caelum et terra, quoniam tu imples ea? An imples et restat, quoniam non te capiunt? Et quo refundis quidquid impleto caelo et terra restat ex te? An non opus habes, ut quoquam continearis, qui contines omnia, quoniam quae imples continendo imples? Non enim vasa, quae te plena sunt, stabilem te faciunt, quia etsi frangantur non effunderis. Et cum effunderis super nos, non tu iaces, sed erigis nos, nec tu dissiparis, sed conligis nos. Sed quae imples omnia, te toto imples omnia. An quia non possunt te totum capere omnia, partem tui capiunt et eamdem partem simul omnia capiunt? An singulas singula et maiores maiora, minores minora capiunt? Ergo est aliqua pars tua maior, aliqua minor? An ubique totus es et res nulla te totum capit?

@@ -1,0 +1,3 @@
+# Caput 15
+
+15.24. *Exaudi*, Domine, *deprecationem meam*, ne deficiat anima mea sub disciplina tua neque deficiam in confitendo tibi miserationes tuas, quibus eruisti me ab omnibus viis meis pessimis, ut dulcescas mihi super omnes seductiones, quas sequebar, et amem te validissime et amplexer manum tuam totis praecordiis meis et servas me ab omni temptatione *usque in finem*. Ecce enim tu, Domine, *rex meus et Deus meus*, tibi serviat quidquid utile puer didici, tibi serviat quod loquor et scribo et lego et numero, quoniam cum vana discerem, tu disciplinam dabas mihi et in eis vanis peccata delectationum mearum dimisisti mihi. Didici enim in eis multa verba utilia; sed et in rebus non vanis disci possunt, et ea via tuta est, in qua pueri ambularent.

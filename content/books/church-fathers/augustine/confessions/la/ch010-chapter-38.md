@@ -1,0 +1,3 @@
+# Caput 38
+
+38.63. *Egenus et pauper ego sum* et melior in occulto gemitu displicens mihi et quaerens misericordiam tuam, donec reficiatur defectus meus et perficiatur usque in pacem, quam nescit arrogantis oculus. Sermo autem ore procedens et facta, quae innotescunt hominibus, habent temptationem periculosissimam ab amore laudis, qui ad privatam quamdam excellentiam contrahit emendicata suffragia; temptat, et cum a me in me arguitur, eo ipso, quo arguitur, et saepe de ipso vanae gloriae contemptu vanius gloriatur ideoque non iam de ipso contemptu gloriae gloriatur; non enim eam contemnit, cum gloriatur.

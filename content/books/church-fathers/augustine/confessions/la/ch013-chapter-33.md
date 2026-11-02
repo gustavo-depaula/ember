@@ -1,0 +1,3 @@
+# Caput 33
+
+33.48. Laudant te opera tua, ut amemus te, et amamus te, ut laudent te opera tua. Habent initium et finem ex tempore, ortum et occasum, profectum et defectum, speciem et privationem. Habent ergo consequentia mane et vesperam partim latenter partim evidenter. De nihilo enim a te, non de te facta sunt, non de aliqua non tua vel quae antea fuerit, sed de concreata, id est simul a te creata materia, quia eius informitatem sine ulla temporis interpositione formasti. Nam cum aliud sit caeli et terrae materies, aliud caeli et terrae species, materiem quidem de omnino nihilo, mundi autem speciem de informi materia, simul tamen utrumque fecisti, ut materiam forma nulla morae intercapedine sequeretur.

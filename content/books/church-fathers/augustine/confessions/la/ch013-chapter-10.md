@@ -1,0 +1,3 @@
+# Caput 10
+
+10.11. Beata creatura, quae non novit aliud, cum esset ipsa aliud, nisi dono tuo, quod superfertur super omne mutabile, mox ut facta est attolleretur nullo intervallo temporis in ea vocatione, qua dixisti: *Fiat lux*, et fieret *lux*. In nobis enim distinguitur tempore, quod *tenebrae* fuimus et *lux* efficimur; in illa vero dictum est, quid esset, nisi illuminaretur, et ita dictum est, quasi prius fuerit fluxa et tenebrosa, ut appareret causa, qua factum est, ut aliter esset, id est ut ad lumen indeficiens conversa lux esset. Qui potest, intellegat, a te petat. Ut quid *mihi molestus est*, quasi ego illuminem ullum *hominem venientem in hunc mundum*?

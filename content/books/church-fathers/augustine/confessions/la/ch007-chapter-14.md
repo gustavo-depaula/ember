@@ -1,0 +1,3 @@
+# Caput 14
+
+14.20. *Non est sanitas* eis, quibus displicet aliquid creaturae tuae, sicut mihi non erat, cum displicerent multa, quae fecisti. Et quia non audebat anima mea, ut ei displiceret Deus meus, nolebat esse tuum quidquid ei displicebat. Et inde ierat in opinionem duarum substantiarum et non requiescebat et aliena loquebatur. Et inde rediens fecerat sibi Deum per infinita spatia locorum omnium et eum putaverat esse te et eum collocaverat in corde suo et facta erat rursus templum idoli sui abominandum tibi. Sed posteaquam fovisti caput nescientis et clausisti *oculos meos, ne viderent vanitatem*, cessavi de me paululum, et consopita est insania mea; et evigilavi in te et vidi te infinitum aliter, et visus iste non a carne trahebatur.

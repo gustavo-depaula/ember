@@ -2,19 +2,26 @@
   "id": "augustine-confessions-schaff",
   "cover": "quarter",
   "name": {
+    "la": "Confessiones",
     "en-US": "Confessions",
     "pt-BR": "Confissões"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo",
     "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
   "work": "augustine/confessions",
   "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
     "en-US": {
       "translator": "J. G. Pilkington",
       "year": 1876
@@ -27,6 +34,14 @@
   },
   "sources": [
     {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/confessioni/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages confessioni of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
+    {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1101.htm",
       "description": "Translated by J.G. Pilkington. From Nicene and Post-Nicene Fathers, First Series, Vol. 1, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight."
@@ -36,6 +51,7 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Liber I",
         "en-US": "BOOK 1",
         "pt-BR": "LIVRO 1"
       },
@@ -43,6 +59,7 @@
         {
           "id": "ch001-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. He Proclaims the Greatness of God, Whom He Desires to Seek and Invoke, Being Awakened by Him.",
             "pt-BR": "Capítulo 1. Proclama a grandeza de Deus, a quem deseja buscar e invocar, despertado por Ele."
           }
@@ -50,6 +67,7 @@
         {
           "id": "ch001-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. That the God Whom We Invoke is in Us, and We in Him.",
             "pt-BR": "Capítulo 2. O Deus que invocamos está em nós, e nós nele."
           }
@@ -57,6 +75,7 @@
         {
           "id": "ch001-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. Everywhere God Wholly Fills All Things, But Neither Heaven Nor Earth Contains Him.",
             "pt-BR": "Capítulo 3. Deus enche inteiramente todas as coisas em toda parte, mas nem o céu nem a terra o contêm."
           }
@@ -64,6 +83,7 @@
         {
           "id": "ch001-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. The Majesty of God is Supreme, and His Virtues Inexplicable.",
             "pt-BR": "Capítulo 4. A majestade de Deus é suprema, e suas virtudes, inexplicáveis."
           }
@@ -71,6 +91,7 @@
         {
           "id": "ch001-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. He Seeks Rest in God, and Pardon of His Sins.",
             "pt-BR": "Capítulo 5. Busca repouso em Deus e perdão de seus pecados."
           }
@@ -78,6 +99,7 @@
         {
           "id": "ch001-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. He Describes His Infancy, and Lauds the Protection and Eternal Providence of God.",
             "pt-BR": "Capítulo 6. Descreve sua primeira infância e louva a proteção e a eterna providência de Deus."
           }
@@ -85,6 +107,7 @@
         {
           "id": "ch001-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. He Shows by Example that Even Infancy is Prone to Sin.",
             "pt-BR": "Capítulo 7. Mostra por um exemplo que até a primeira infância é propensa ao pecado."
           }
@@ -92,6 +115,7 @@
         {
           "id": "ch001-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. That When a Boy He Learned to Speak, Not by Any Set Method, But from the Acts and Words of His Parents.",
             "pt-BR": "Capítulo 8. Quando menino, aprendeu a falar sem método estabelecido, pelos atos e palavras de seus pais."
           }
@@ -99,6 +123,7 @@
         {
           "id": "ch001-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. Concerning the Hatred of Learning, the Love of Play, and the Fear of Being Whipped Noticeable in Boys: and of the Folly of Our Elders and Masters.",
             "pt-BR": "Capítulo 9. O ódio ao estudo, o amor às brincadeiras e o medo dos açoites nos meninos; e a insensatez de nossos mais velhos e mestres."
           }
@@ -106,6 +131,7 @@
         {
           "id": "ch001-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. Through a Love of Ball-Playing and Shows, He Neglects His Studies and the Injunctions of His Parents.",
             "pt-BR": "Capítulo 10. Por amor ao jogo de bola e aos espetáculos, negligencia os estudos e as ordens de seus pais."
           }
@@ -113,6 +139,7 @@
         {
           "id": "ch001-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. Seized by Disease, His Mother Being Troubled, He Earnestly Demands Baptism, Which on Recovery is Postponed— His Father Not as Yet Believing in Christ.",
             "pt-BR": "Capítulo 11. Acometido de uma doença, estando sua mãe aflita, pede com insistência o batismo; ao se recuperar, o batismo é adiado — seu pai ainda não cria em Cristo."
           }
@@ -120,6 +147,7 @@
         {
           "id": "ch001-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. Being Compelled, He Gave His Attention to Learning; But Fully Acknowledges that This Was the Work of God.",
             "pt-BR": "Capítulo 12. Obrigado, dedica-se ao estudo, mas reconhece plenamente que isso foi obra de Deus."
           }
@@ -127,6 +155,7 @@
         {
           "id": "ch001-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. He Delighted in Latin Studies and the Empty Fables of the Poets, But Hated the Elements of Literature and the Greek Language.",
             "pt-BR": "Capítulo 13. Deleitava-se nos estudos latinos e nas vãs fábulas dos poetas, mas odiava as primeiras letras e a língua grega."
           }
@@ -134,6 +163,7 @@
         {
           "id": "ch001-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. Why He Despised Greek Literature, and Easily Learned Latin.",
             "pt-BR": "Capítulo 14. Por que desprezava as letras gregas e aprendeu facilmente o latim."
           }
@@ -141,6 +171,7 @@
         {
           "id": "ch001-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. He Entreats God, that Whatever Useful Things He Learned as a Boy May Be Dedicated to Him.",
             "pt-BR": "Capítulo 15. Suplica a Deus que tudo de útil que aprendeu quando menino lhe seja dedicado."
           }
@@ -148,6 +179,7 @@
         {
           "id": "ch001-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. He Disapproves of the Mode of Educating Youth, and He Points Out Why Wickedness is Attributed to the Gods by the Poets.",
             "pt-BR": "Capítulo 16. Reprova o modo de educar a juventude e mostra por que os poetas atribuem maldade aos deuses."
           }
@@ -155,6 +187,7 @@
         {
           "id": "ch001-chapter-17",
           "title": {
+            "la": "Caput 17",
             "en-US": "Chapter 17. He Continues on the Unhappy Method of Training Youth in Literary Subjects.",
             "pt-BR": "Capítulo 17. Prossegue na crítica ao infeliz método de formar a juventude nas letras."
           }
@@ -162,6 +195,7 @@
         {
           "id": "ch001-chapter-18",
           "title": {
+            "la": "Caput 18",
             "en-US": "Chapter 18. Men Desire to Observe the Rules of Learning, But Neglect the Eternal Rules of Everlasting Safety.",
             "pt-BR": "Capítulo 18. Os homens desejam observar as regras do saber, mas negligenciam as regras eternas da salvação."
           }
@@ -171,6 +205,7 @@
     {
       "id": "ch002",
       "title": {
+        "la": "Liber II",
         "en-US": "BOOK 2",
         "pt-BR": "LIVRO 2"
       },
@@ -178,6 +213,7 @@
         {
           "id": "ch002-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. He Deplores the Wickedness of His Youth.",
             "pt-BR": "Capítulo 1. Lamenta a maldade de sua juventude."
           }
@@ -185,6 +221,7 @@
         {
           "id": "ch002-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. Stricken with Exceeding Grief, He Remembers the Dissolute Passions in Which, in His Sixteenth Year, He Used to Indulge.",
             "pt-BR": "Capítulo 2. Tomado de imensa dor, recorda as paixões dissolutas a que se entregava aos dezesseis anos."
           }
@@ -192,6 +229,7 @@
         {
           "id": "ch002-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. Concerning His Father, a Freeman of Thagaste, the Assister of His Son's Studies, and on the Admonitions of His Mother on the Preservation of Chastity.",
             "pt-BR": "Capítulo 3. Seu pai, homem livre de Tagaste, que custeava os estudos do filho, e as advertências de sua mãe sobre a preservação da castidade."
           }
@@ -199,6 +237,7 @@
         {
           "id": "ch002-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. He Commits Theft with His Companions, Not Urged on by Poverty, But from a Certain Distaste of Well-Doing.",
             "pt-BR": "Capítulo 4. Comete um furto com seus companheiros, movido não pela pobreza, mas por certa aversão a fazer o bem."
           }
@@ -206,6 +245,7 @@
         {
           "id": "ch002-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. Concerning the Motives to Sin, Which are Not in the Love of Evil, But in the Desire of Obtaining the Property of Others.",
             "pt-BR": "Capítulo 5. Os motivos do pecado não estão no amor ao mal, mas no desejo de obter os bens alheios."
           }
@@ -213,6 +253,7 @@
         {
           "id": "ch002-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. Why He Delighted in that Theft, When All Things Which Under the Appearance of Good Invite to Vice are True and Perfect in God Alone.",
             "pt-BR": "Capítulo 6. Por que se deleitou naquele furto, se tudo o que, sob aparência de bem, convida ao vício só em Deus é verdadeiro e perfeito."
           }
@@ -220,6 +261,7 @@
         {
           "id": "ch002-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. He Gives Thanks to God for the Remission of His Sins, and Reminds Every One that the Supreme God May Have Preserved Us from Greater Sins.",
             "pt-BR": "Capítulo 7. Agradece a Deus pela remissão de seus pecados e lembra a todos que o Deus supremo pode ter-nos preservado de pecados maiores."
           }
@@ -227,6 +269,7 @@
         {
           "id": "ch002-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. In His Theft He Loved the Company of His Fellow-Sinners.",
             "pt-BR": "Capítulo 8. No furto, amou a companhia dos que pecavam com ele."
           }
@@ -234,6 +277,7 @@
         {
           "id": "ch002-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. It Was a Pleasure to Him Also to Laugh When Seriously Deceiving Others.",
             "pt-BR": "Capítulo 9. Também lhe dava prazer rir ao enganar gravemente os outros."
           }
@@ -241,6 +285,7 @@
         {
           "id": "ch002-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. With God There is True Rest and Life Unchanging.",
             "pt-BR": "Capítulo 10. Em Deus há verdadeiro repouso e vida imutável."
           }
@@ -250,6 +295,7 @@
     {
       "id": "ch003",
       "title": {
+        "la": "Liber III",
         "en-US": "BOOK 3",
         "pt-BR": "LIVRO 3"
       },
@@ -257,6 +303,7 @@
         {
           "id": "ch003-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. Deluded by an Insane Love, He, Though Foul and Dishonourable, Desires to Be Thought Elegant and Urbane.",
             "pt-BR": "Capítulo 1. Iludido por um amor insensato, embora impuro e desonrado, deseja ser considerado elegante e refinado."
           }
@@ -264,6 +311,7 @@
         {
           "id": "ch003-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. In Public Spectacles He is Moved by an Empty Compassion. He is Attacked by a Troublesome Spiritual Disease.",
             "pt-BR": "Capítulo 2. Nos espetáculos públicos, comove-se com uma compaixão vazia. É acometido por uma penosa doença espiritual."
           }
@@ -271,6 +319,7 @@
         {
           "id": "ch003-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. Not Even When at Church Does He Suppress His Desires. In the School of Rhetoric He Abhors the Acts of the Subverters.",
             "pt-BR": "Capítulo 3. Nem mesmo na igreja reprime seus desejos. Na escola de retórica, abomina os atos dos perturbadores."
           }
@@ -278,6 +327,7 @@
         {
           "id": "ch003-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. In the Nineteenth Year of His Age (His Father Having Died Two Years Before) He is Led by the “Hortensius” Of Cicero to “Philosophy,” To God, and a Better Mode of Thinking.",
             "pt-BR": "Capítulo 4. Aos dezenove anos, tendo seu pai morrido dois anos antes, é conduzido pelo “Hortênsio” de Cícero à “filosofia”, a Deus e a um modo melhor de pensar."
           }
@@ -285,6 +335,7 @@
         {
           "id": "ch003-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. He Rejects the Sacred Scriptures as Too Simple, and as Not to Be Compared with the Dignity of Tully.",
             "pt-BR": "Capítulo 5. Rejeita as Sagradas Escrituras por serem simples demais e não se compararem à dignidade de Cícero."
           }
@@ -292,6 +343,7 @@
         {
           "id": "ch003-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. Deceived by His Own Fault, He Falls into the Errors of the Manichæans, Who Gloried in the True Knowledge of God and in a Thorough Examination of Things.",
             "pt-BR": "Capítulo 6. Enganado por sua própria culpa, cai nos erros dos maniqueus, que se gloriavam do verdadeiro conhecimento de Deus e de um exame minucioso das coisas."
           }
@@ -299,6 +351,7 @@
         {
           "id": "ch003-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. He Attacks the Doctrine of the Manichæans Concerning Evil, God, and the Righteousness of the Patriarchs.",
             "pt-BR": "Capítulo 7. Combate a doutrina dos maniqueus sobre o mal, Deus e a justiça dos patriarcas."
           }
@@ -306,6 +359,7 @@
         {
           "id": "ch003-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. He Argues Against the Same as to the Reason of Offences.",
             "pt-BR": "Capítulo 8. Argumenta contra os mesmos acerca da razão das transgressões."
           }
@@ -313,6 +367,7 @@
         {
           "id": "ch003-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. That the Judgment of God and Men as to Human Acts of Violence, is Different.",
             "pt-BR": "Capítulo 9. O juízo de Deus e o dos homens sobre os atos humanos de violência são diferentes."
           }
@@ -320,6 +375,7 @@
         {
           "id": "ch003-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. He Reproves the Triflings of the Manichæans as to the Fruits of the Earth.",
             "pt-BR": "Capítulo 10. Reprova as futilidades dos maniqueus a respeito dos frutos da terra."
           }
@@ -327,6 +383,7 @@
         {
           "id": "ch003-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. He Refers to the Tears, and the Memorable Dream Concerning Her Son, Granted by God to His Mother.",
             "pt-BR": "Capítulo 11. Relata as lágrimas de sua mãe e o sonho memorável que Deus lhe concedeu a respeito do filho."
           }
@@ -334,6 +391,7 @@
         {
           "id": "ch003-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. The Excellent Answer of the Bishop When Referred to by His Mother as to the Conversion of Her Son.",
             "pt-BR": "Capítulo 12. A excelente resposta do bispo consultado por sua mãe sobre a conversão do filho."
           }
@@ -343,6 +401,7 @@
     {
       "id": "ch004",
       "title": {
+        "la": "Liber IV",
         "en-US": "BOOK 4",
         "pt-BR": "LIVRO 4"
       },
@@ -350,6 +409,7 @@
         {
           "id": "ch004-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. Concerning that Most Unhappy Time in Which He, Being Deceived, Deceived Others; And Concerning the Mockers of His Confession.",
             "pt-BR": "Capítulo 1. Aquele tempo infelicíssimo em que, enganado, enganava os outros; e os que zombam de sua confissão."
           }
@@ -357,6 +417,7 @@
         {
           "id": "ch004-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. He Teaches Rhetoric, the Only Thing He Loved, and Scorns the Soothsayer, Who Promised Him Victory.",
             "pt-BR": "Capítulo 2. Ensina retórica, a única coisa que amava, e despreza o adivinho que lhe prometeu a vitória."
           }
@@ -364,6 +425,7 @@
         {
           "id": "ch004-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. Not Even the Most Experienced Men Could Persuade Him of the Vanity of Astrology to Which He Was Devoted.",
             "pt-BR": "Capítulo 3. Nem os homens mais experientes conseguiam convencê-lo da vaidade da astrologia à qual se dedicava."
           }
@@ -371,6 +433,7 @@
         {
           "id": "ch004-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. Sorely Distressed by Weeping at the Death of His Friend, He Provides Consolation for Himself.",
             "pt-BR": "Capítulo 4. Profundamente afligido pelo pranto à morte de seu amigo, procura consolo para si."
           }
@@ -378,6 +441,7 @@
         {
           "id": "ch004-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. Why Weeping is Pleasant to the Wretched.",
             "pt-BR": "Capítulo 5. Por que o pranto é agradável aos infelizes."
           }
@@ -385,6 +449,7 @@
         {
           "id": "ch004-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. His Friend Being Snatched Away by Death, He Imagines that He Remains Only as Half.",
             "pt-BR": "Capítulo 6. Tendo seu amigo sido arrebatado pela morte, imagina que só lhe resta metade de si."
           }
@@ -392,6 +457,7 @@
         {
           "id": "ch004-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. Troubled by Restlessness and Grief, He Leaves His Country a Second Time for Carthage.",
             "pt-BR": "Capítulo 7. Perturbado pela inquietação e pela dor, deixa sua terra pela segunda vez e vai a Cartago."
           }
@@ -399,6 +465,7 @@
         {
           "id": "ch004-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. That His Grief Ceased by Time, and the Consolation of Friends.",
             "pt-BR": "Capítulo 8. Sua dor cessou com o tempo e o consolo dos amigos."
           }
@@ -406,6 +473,7 @@
         {
           "id": "ch004-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. That the Love of a Human Being, However Constant in Loving and Returning Love, Perishes; While He Who Loves God Never Loses a Friend.",
             "pt-BR": "Capítulo 9. O amor de um ser humano, por mais constante que seja em amar e retribuir o amor, perece; mas quem ama a Deus nunca perde um amigo."
           }
@@ -413,6 +481,7 @@
         {
           "id": "ch004-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. That All Things Exist that They May Perish, and that We are Not Safe Unless God Watches Over Us.",
             "pt-BR": "Capítulo 10. Todas as coisas existem para perecer, e não estamos seguros se Deus não velar por nós."
           }
@@ -420,6 +489,7 @@
         {
           "id": "ch004-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. That Portions of the World are Not to Be Loved; But that God, Their Author, is Immutable, and His Word Eternal.",
             "pt-BR": "Capítulo 11. Não se devem amar as partes do mundo; Deus, seu autor, é imutável, e seu Verbo, eterno."
           }
@@ -427,6 +497,7 @@
         {
           "id": "ch004-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. Love is Not Condemned, But Love in God, in Whom There is Rest Through Jesus Christ, is to Be Preferred.",
             "pt-BR": "Capítulo 12. O amor não é condenado, mas deve-se preferir o amor em Deus, em quem há repouso por Jesus Cristo."
           }
@@ -434,6 +505,7 @@
         {
           "id": "ch004-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. Love Originates from Grace and Beauty Enticing Us.",
             "pt-BR": "Capítulo 13. O amor nasce da graça e da beleza que nos atraem."
           }
@@ -441,6 +513,7 @@
         {
           "id": "ch004-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. Concerning the Books Which He Wrote “On the Fair and Fit,” Dedicated to Hierius.",
             "pt-BR": "Capítulo 14. Os livros que escreveu “Sobre o Belo e o Conveniente”, dedicados a Hiério."
           }
@@ -448,6 +521,7 @@
         {
           "id": "ch004-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. While Writing, Being Blinded by Corporeal Images, He Failed to Recognise the Spiritual Nature of God.",
             "pt-BR": "Capítulo 15. Ao escrever, cegado pelas imagens corpóreas, não reconheceu a natureza espiritual de Deus."
           }
@@ -455,6 +529,7 @@
         {
           "id": "ch004-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. He Very Easily Understood the Liberal Arts and the Categories of Aristotle, But Without True Fruit.",
             "pt-BR": "Capítulo 16. Compreendeu com grande facilidade as artes liberais e as Categorias de Aristóteles, mas sem verdadeiro fruto."
           }
@@ -464,6 +539,7 @@
     {
       "id": "ch005",
       "title": {
+        "la": "Liber V",
         "en-US": "BOOK 5",
         "pt-BR": "LIVRO 5"
       },
@@ -471,6 +547,7 @@
         {
           "id": "ch005-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. That It Becomes the Soul to Praise God, and to Confess Unto Him.",
             "pt-BR": "Capítulo 1. Convém à alma louvar a Deus e confessar-se a Ele."
           }
@@ -478,6 +555,7 @@
         {
           "id": "ch005-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. On the Vanity of Those Who Wished to Escape the Omnipotent God.",
             "pt-BR": "Capítulo 2. A vaidade dos que desejavam escapar do Deus onipotente."
           }
@@ -485,6 +563,7 @@
         {
           "id": "ch005-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. Having Heard Faustus, the Most Learned Bishop of the Manichæans, He Discerns that God, the Author Both of Things Animate and Inanimate, Chiefly Has Care for the Humble.",
             "pt-BR": "Capítulo 3. Depois de ouvir Fausto, o mais instruído bispo dos maniqueus, percebe que Deus, autor das coisas animadas e inanimadas, cuida sobretudo dos humildes."
           }
@@ -492,6 +571,7 @@
         {
           "id": "ch005-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. That the Knowledge of Terrestrial and Celestial Things Does Not Give Happiness, But the Knowledge of God Only.",
             "pt-BR": "Capítulo 4. O conhecimento das coisas terrestres e celestes não dá felicidade, mas somente o conhecimento de Deus."
           }
@@ -499,6 +579,7 @@
         {
           "id": "ch005-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. Of Manichæus Pertinaciously Teaching False Doctrines, and Proudly Arrogating to Himself the Holy Spirit.",
             "pt-BR": "Capítulo 5. Mani ensina obstinadamente falsas doutrinas e arroga a si, com soberba, o Espírito Santo."
           }
@@ -506,6 +587,7 @@
         {
           "id": "ch005-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. Faustus Was Indeed an Elegant Speaker, But Knew Nothing of the Liberal Sciences.",
             "pt-BR": "Capítulo 6. Fausto era, de fato, um orador elegante, mas nada sabia das ciências liberais."
           }
@@ -513,6 +595,7 @@
         {
           "id": "ch005-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. Clearly Seeing the Fallacies of the Manichæans, He Retires from Them, Being Remarkably Aided by God.",
             "pt-BR": "Capítulo 7. Vendo claramente as falácias dos maniqueus, afasta-se deles, ajudado de modo admirável por Deus."
           }
@@ -520,6 +603,7 @@
         {
           "id": "ch005-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. He Sets Out for Rome, His Mother in Vain Lamenting It.",
             "pt-BR": "Capítulo 8. Parte para Roma, enquanto sua mãe o lamenta em vão."
           }
@@ -527,6 +611,7 @@
         {
           "id": "ch005-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. Being Attacked by Fever, He is in Great Danger.",
             "pt-BR": "Capítulo 9. Acometido de febre, corre grande perigo."
           }
@@ -534,6 +619,7 @@
         {
           "id": "ch005-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. When He Had Left the Manichæans, He Retained His Depraved Opinions Concerning Sin and the Origin of the Saviour.",
             "pt-BR": "Capítulo 10. Depois de deixar os maniqueus, conserva suas opiniões depravadas sobre o pecado e a origem do Salvador."
           }
@@ -541,6 +627,7 @@
         {
           "id": "ch005-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. Helpidius Disputed Well Against the Manichæans as to the Authenticity of the New Testament.",
             "pt-BR": "Capítulo 11. Elpídio argumentava bem contra os maniqueus a respeito da autenticidade do Novo Testamento."
           }
@@ -548,6 +635,7 @@
         {
           "id": "ch005-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. Professing Rhetoric at Rome, He Discovers the Fraud of His Scholars.",
             "pt-BR": "Capítulo 12. Ao ensinar retórica em Roma, descobre a fraude de seus alunos."
           }
@@ -555,6 +643,7 @@
         {
           "id": "ch005-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. He is Sent to Milan, that He, About to Teach Rhetoric, May Be Known by Ambrose.",
             "pt-BR": "Capítulo 13. É enviado a Milão para ensinar retórica e ali se tornar conhecido de Ambrósio."
           }
@@ -562,6 +651,7 @@
         {
           "id": "ch005-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. Having Heard the Bishop, He Perceives the Force of the Catholic Faith, Yet Doubts, After the Manner of the Modern Academics.",
             "pt-BR": "Capítulo 14. Depois de ouvir o bispo, percebe a força da fé católica, mas ainda duvida, à maneira dos filósofos da Nova Academia."
           }
@@ -571,6 +661,7 @@
     {
       "id": "ch006",
       "title": {
+        "la": "Liber VI",
         "en-US": "BOOK 6",
         "pt-BR": "LIVRO 6"
       },
@@ -578,6 +669,7 @@
         {
           "id": "ch006-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. His Mother Having Followed Him to Milan, Declares that She Will Not Die Before Her Son Shall Have Embraced the Catholic Faith.",
             "pt-BR": "Capítulo 1. Sua mãe, tendo-o seguido até Milão, declara que não morrerá antes que seu filho abrace a fé católica."
           }
@@ -585,6 +677,7 @@
         {
           "id": "ch006-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. She, on the Prohibition of Ambrose, Abstains from Honouring the Memory of the Martyrs.",
             "pt-BR": "Capítulo 2. Diante da proibição de Ambrósio, ela se abstém de prestar homenagens à memória dos mártires."
           }
@@ -592,6 +685,7 @@
         {
           "id": "ch006-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. As Ambrose Was Occupied with Business and Study, Augustine Could Seldom Consult Him Concerning the Holy Scriptures.",
             "pt-BR": "Capítulo 3. Como Ambrósio estava ocupado com seus deveres e estudos, Agostinho raramente podia consultá-lo sobre as Sagradas Escrituras."
           }
@@ -599,6 +693,7 @@
         {
           "id": "ch006-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. He Recognises the Falsity of His Own Opinions, and Commits to Memory the Saying of Ambrose.",
             "pt-BR": "Capítulo 4. Reconhece a falsidade de suas opiniões e guarda na memória uma sentença de Ambrósio."
           }
@@ -606,6 +701,7 @@
         {
           "id": "ch006-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. Faith is the Basis of Human Life; Man Cannot Discover that Truth Which Holy Scripture Has Disclosed.",
             "pt-BR": "Capítulo 5. A fé é a base da vida humana; o homem não pode descobrir a verdade que a Sagrada Escritura revelou."
           }
@@ -613,6 +709,7 @@
         {
           "id": "ch006-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. On the Source and Cause of True Joy—The Example of the Joyous Beggar Being Adduced.",
             "pt-BR": "Capítulo 6. A fonte e a causa da verdadeira alegria — o exemplo do mendigo alegre."
           }
@@ -620,6 +717,7 @@
         {
           "id": "ch006-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. He Leads to Reformation His Friend Alypius, Seized with Madness for the Circensian Games.",
             "pt-BR": "Capítulo 7. Leva à mudança de vida seu amigo Alípio, tomado de paixão insensata pelos jogos do circo."
           }
@@ -627,6 +725,7 @@
         {
           "id": "ch006-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. The Same When at Rome, Being Led by Others into the Amphitheatre, is Delighted with the Gladiatorial Games.",
             "pt-BR": "Capítulo 8. O mesmo Alípio, em Roma, levado por outros ao anfiteatro, deleita-se com os combates de gladiadores."
           }
@@ -634,6 +733,7 @@
         {
           "id": "ch006-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. Innocent Alypius, Being Apprehended as a Thief, is Set at Liberty by the Cleverness of an Architect.",
             "pt-BR": "Capítulo 9. O inocente Alípio, preso como ladrão, é libertado pela perspicácia de um arquiteto."
           }
@@ -641,6 +741,7 @@
         {
           "id": "ch006-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. The Wonderful Integrity of Alypius in Judgment. The Lasting Friendship of Nebridius with Augustine.",
             "pt-BR": "Capítulo 10. A admirável integridade de Alípio no exercício da justiça. A amizade duradoura de Nebrídio com Agostinho."
           }
@@ -648,6 +749,7 @@
         {
           "id": "ch006-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. Being Troubled by His Grievous Errors, He Meditates Entering on a New Life.",
             "pt-BR": "Capítulo 11. Perturbado por seus graves erros, pensa em iniciar uma vida nova."
           }
@@ -655,6 +757,7 @@
         {
           "id": "ch006-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. Discussion with Alypius Concerning a Life of Celibacy.",
             "pt-BR": "Capítulo 12. Discussão com Alípio sobre a vida celibatária."
           }
@@ -662,6 +765,7 @@
         {
           "id": "ch006-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. Being Urged by His Mother to Take a Wife, He Sought a Maiden that Was Pleasing Unto Him.",
             "pt-BR": "Capítulo 13. Instado por sua mãe a casar-se, procura uma jovem que lhe agrade."
           }
@@ -669,6 +773,7 @@
         {
           "id": "ch006-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. The Design of Establishing a Common Household with His Friends is Speedily Hindered.",
             "pt-BR": "Capítulo 14. O projeto de estabelecer uma casa em comum com seus amigos logo encontra obstáculos."
           }
@@ -676,6 +781,7 @@
         {
           "id": "ch006-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. He Dismisses One Mistress, and Chooses Another.",
             "pt-BR": "Capítulo 15. Dispensa uma concubina e escolhe outra."
           }
@@ -683,6 +789,7 @@
         {
           "id": "ch006-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. The Fear of Death and Judgment Called Him, Believing in the Immortality of the Soul, Back from His Wickedness, Him Who Aforetime Believed in the Opinions of Epicurus.",
             "pt-BR": "Capítulo 16. O temor da morte e do juízo afasta da maldade aquele que antes acreditava nas opiniões de Epicuro e agora crê na imortalidade da alma."
           }
@@ -692,6 +799,7 @@
     {
       "id": "ch007",
       "title": {
+        "la": "Liber VII",
         "en-US": "BOOK 7",
         "pt-BR": "LIVRO 7"
       },
@@ -699,6 +807,7 @@
         {
           "id": "ch007-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. He Regarded Not God Indeed Under the Form of a Human Body, But as a Corporeal Substance Diffused Through Space.",
             "pt-BR": "Capítulo 1. Concebia Deus não sob a forma de um corpo humano, mas como uma substância corpórea difundida pelo espaço."
           }
@@ -706,6 +815,7 @@
         {
           "id": "ch007-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. The Disputation of Nebridius Against the Manichæans, on the Question “Whether God Be Corruptible or Incorruptible.”",
             "pt-BR": "Capítulo 2. A argumentação de Nebrídio contra os maniqueus sobre a questão de “ser Deus corruptível ou incorruptível”."
           }
@@ -713,6 +823,7 @@
         {
           "id": "ch007-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. That the Cause of Evil is the Free Judgment of the Will.",
             "pt-BR": "Capítulo 3. A causa do mal é o livre-arbítrio da vontade."
           }
@@ -720,6 +831,7 @@
         {
           "id": "ch007-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. That God is Not Corruptible, Who, If He Were, Would Not Be God at All.",
             "pt-BR": "Capítulo 4. Deus não é corruptível, pois, se o fosse, de modo algum seria Deus."
           }
@@ -727,6 +839,7 @@
         {
           "id": "ch007-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. Questions Concerning the Origin of Evil in Regard to God, Who, Since He is the Chief Good, Cannot Be the Cause of Evil.",
             "pt-BR": "Capítulo 5. Questões sobre a origem do mal em relação a Deus, que, sendo o sumo Bem, não pode ser a causa do mal."
           }
@@ -734,6 +847,7 @@
         {
           "id": "ch007-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. He Refutes the Divinations of the Astrologers, Deduced from the Constellations.",
             "pt-BR": "Capítulo 6. Refuta as adivinhações dos astrólogos, deduzidas das constelações."
           }
@@ -741,6 +855,7 @@
         {
           "id": "ch007-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. He is Severely Exercised as to the Origin of Evil.",
             "pt-BR": "Capítulo 7. É profundamente atormentado pela questão da origem do mal."
           }
@@ -748,6 +863,7 @@
         {
           "id": "ch007-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. By God's Assistance He by Degrees Arrives at the Truth.",
             "pt-BR": "Capítulo 8. Com o auxílio de Deus, chega aos poucos à verdade."
           }
@@ -755,6 +871,7 @@
         {
           "id": "ch007-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. He Compares the Doctrine of the Platonists Concerning the Λόγος With the Much More Excellent Doctrine of Christianity.",
             "pt-BR": "Capítulo 9. Compara a doutrina dos platônicos sobre o Λόγος com a doutrina muito mais excelente do cristianismo."
           }
@@ -762,6 +879,7 @@
         {
           "id": "ch007-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. Divine Things are the More Clearly Manifested to Him Who Withdraws into the Recesses of His Heart.",
             "pt-BR": "Capítulo 10. As coisas divinas se manifestam mais claramente a quem se recolhe ao íntimo do coração."
           }
@@ -769,6 +887,7 @@
         {
           "id": "ch007-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. That Creatures are Mutable and God Alone Immutable.",
             "pt-BR": "Capítulo 11. As criaturas são mutáveis, e somente Deus é imutável."
           }
@@ -776,6 +895,7 @@
         {
           "id": "ch007-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. Whatever Things the Good God Has Created are Very Good.",
             "pt-BR": "Capítulo 12. Tudo o que o Deus bom criou é muito bom."
           }
@@ -783,6 +903,7 @@
         {
           "id": "ch007-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. It is Meet to Praise the Creator for the Good Things Which are Made in Heaven and Earth.",
             "pt-BR": "Capítulo 13. É justo louvar o Criador pelas coisas boas feitas no céu e na terra."
           }
@@ -790,6 +911,7 @@
         {
           "id": "ch007-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. Being Displeased with Some Part Of God's Creation, He Conceives of Two Original Substances.",
             "pt-BR": "Capítulo 14. Descontente com uma parte da criação de Deus, concebe duas substâncias originárias."
           }
@@ -797,6 +919,7 @@
         {
           "id": "ch007-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. Whatever Is, Owes Its Being to God.",
             "pt-BR": "Capítulo 15. Tudo o que existe deve seu ser a Deus."
           }
@@ -804,6 +927,7 @@
         {
           "id": "ch007-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. Evil Arises Not from a Substance, But from the Perversion of the Will.",
             "pt-BR": "Capítulo 16. O mal nasce não de uma substância, mas da perversão da vontade."
           }
@@ -811,6 +935,7 @@
         {
           "id": "ch007-chapter-17",
           "title": {
+            "la": "Caput 17",
             "en-US": "Chapter 17. Above His Changeable Mind, He Discovers the Unchangeable Author of Truth.",
             "pt-BR": "Capítulo 17. Acima de sua mente mutável, descobre o autor imutável da verdade."
           }
@@ -818,6 +943,7 @@
         {
           "id": "ch007-chapter-18",
           "title": {
+            "la": "Caput 18",
             "en-US": "Chapter 18. Jesus Christ, the Mediator, is the Only Way of Safety.",
             "pt-BR": "Capítulo 18. Jesus Cristo, o Mediador, é o único caminho de salvação."
           }
@@ -825,6 +951,7 @@
         {
           "id": "ch007-chapter-19",
           "title": {
+            "la": "Caput 19",
             "en-US": "Chapter 19. He Does Not Yet Fully Understand the Saying of John, that “The Word Was Made Flesh.”",
             "pt-BR": "Capítulo 19. Ainda não compreende plenamente a afirmação de João de que “o Verbo se fez carne”."
           }
@@ -832,6 +959,7 @@
         {
           "id": "ch007-chapter-20",
           "title": {
+            "la": "Caput 20",
             "en-US": "Chapter 20. He Rejoices that He Proceeded from Plato to the Holy Scriptures, and Not the Reverse.",
             "pt-BR": "Capítulo 20. Alegra-se por ter passado de Platão às Sagradas Escrituras, e não o contrário."
           }
@@ -839,6 +967,7 @@
         {
           "id": "ch007-chapter-21",
           "title": {
+            "la": "Caput 21",
             "en-US": "Chapter 21. What He Found in the Sacred Books Which are Not to Be Found in Plato.",
             "pt-BR": "Capítulo 21. O que encontrou nos livros sagrados e não se encontra em Platão."
           }
@@ -848,6 +977,7 @@
     {
       "id": "ch008",
       "title": {
+        "la": "Liber VIII",
         "en-US": "BOOK 8",
         "pt-BR": "LIVRO 8"
       },
@@ -855,6 +985,7 @@
         {
           "id": "ch008-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. He, Now Given to Divine Things, and Yet Entangled by the Lusts of Love, Consults Simplicianus in Reference to the Renewing of His Mind.",
             "pt-BR": "Capítulo 1. Já dedicado às coisas divinas, mas ainda enredado nas paixões amorosas, consulta Simpliciano sobre a renovação de sua mente."
           }
@@ -862,6 +993,7 @@
         {
           "id": "ch008-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. The Pious Old Man Rejoices that He Read Plato and the Scriptures, and Tells Him of the Rhetorician Victorinus Having Been Converted to the Faith Through the Reading of the Sacred Books.",
             "pt-BR": "Capítulo 2. O piedoso ancião alegra-se por ele ter lido Platão e as Escrituras e lhe conta como o retórico Vitorino se converteu à fé pela leitura dos livros sagrados."
           }
@@ -869,6 +1001,7 @@
         {
           "id": "ch008-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. That God and the Angels Rejoice More on the Return of One Sinner Than of Many Just Persons.",
             "pt-BR": "Capítulo 3. Deus e os anjos se alegram mais com o retorno de um pecador do que com o de muitos justos."
           }
@@ -876,6 +1009,7 @@
         {
           "id": "ch008-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. He Shows by the Example of Victorinus that There is More Joy in the Conversion of Nobles.",
             "pt-BR": "Capítulo 4. Mostra, pelo exemplo de Vitorino, que há maior alegria na conversão dos nobres."
           }
@@ -883,6 +1017,7 @@
         {
           "id": "ch008-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. Of the Causes Which Alienate Us from God.",
             "pt-BR": "Capítulo 5. As causas que nos afastam de Deus."
           }
@@ -890,6 +1025,7 @@
         {
           "id": "ch008-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. Pontitianus' Account of Antony, the Founder of Monachism, and of Some Who Imitated Him.",
             "pt-BR": "Capítulo 6. O relato de Ponticiano sobre Antão, fundador do monaquismo, e alguns que o imitaram."
           }
@@ -897,6 +1033,7 @@
         {
           "id": "ch008-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. He Deplores His Wretchedness, that Having Been Born Thirty-Two Years, He Had Not Yet Found Out the Truth.",
             "pt-BR": "Capítulo 7. Lamenta sua miséria, pois, tendo trinta e dois anos, ainda não havia encontrado a verdade."
           }
@@ -904,6 +1041,7 @@
         {
           "id": "ch008-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. The Conversation with Alypius Being Ended, He Retires to the Garden, Whither His Friend Follows Him.",
             "pt-BR": "Capítulo 8. Terminada a conversa com Alípio, retira-se para o jardim, aonde seu amigo o segue."
           }
@@ -911,6 +1049,7 @@
         {
           "id": "ch008-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. That the Mind Commands the Mind, But It Wills Not Entirely.",
             "pt-BR": "Capítulo 9. A mente ordena à mente, mas não quer inteiramente."
           }
@@ -918,6 +1057,7 @@
         {
           "id": "ch008-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. He Refutes the Opinion of the Manichæans as to Two Kinds of Minds—One Good and the Other Evil.",
             "pt-BR": "Capítulo 10. Refuta a opinião dos maniqueus sobre duas espécies de mentes — uma boa e outra má."
           }
@@ -925,6 +1065,7 @@
         {
           "id": "ch008-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. In What Manner the Spirit Struggled with the Flesh, that It Might Be Freed from the Bondage of Vanity.",
             "pt-BR": "Capítulo 11. Como o espírito lutou com a carne para se libertar da escravidão da vaidade."
           }
@@ -932,6 +1073,7 @@
         {
           "id": "ch008-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. Having Prayed to God, He Pours Forth a Shower of Tears, And, Admonished by a Voice, He Opens the Book and Reads the Words in Rom. XIII. 13; By Which, Being Changed in His Whole Soul, He Discloses the Divine Favour to His Friend and His Mother.",
             "pt-BR": "Capítulo 12. Depois de rezar a Deus, derrama uma torrente de lágrimas e, advertido por uma voz, abre o livro e lê as palavras de Romanos 13:13; transformado por elas em toda a sua alma, revela o favor divino ao amigo e à mãe."
           }
@@ -941,6 +1083,7 @@
     {
       "id": "ch009",
       "title": {
+        "la": "Liber IX",
         "en-US": "BOOK 9",
         "pt-BR": "LIVRO 9"
       },
@@ -948,6 +1091,7 @@
         {
           "id": "ch009-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. He Praises God, the Author of Safety, and Jesus Christ, the Redeemer, Acknowledging His Own Wickedness.",
             "pt-BR": "Capítulo 1. Louva a Deus, autor da salvação, e a Jesus Cristo, o Redentor, reconhecendo sua própria maldade."
           }
@@ -955,6 +1099,7 @@
         {
           "id": "ch009-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. As His Lungs Were Affected, He Meditates Withdrawing Himself from Public Favour.",
             "pt-BR": "Capítulo 2. Com os pulmões enfermos, pensa em se afastar do favor público."
           }
@@ -962,6 +1107,7 @@
         {
           "id": "ch009-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. He Retires to the Villa of His Friend Verecundus, Who Was Not Yet a Christian, and Refers to His Conversion and Death, as Well as that of Nebridius.",
             "pt-BR": "Capítulo 3. Retira-se para a propriedade de seu amigo Verecundo, que ainda não era cristão, e relata sua conversão e morte, assim como as de Nebrídio."
           }
@@ -969,6 +1115,7 @@
         {
           "id": "ch009-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. In the Country He Gives His Attention to Literature, and Explains the Fourth Psalm in Connection with the Happy Conversion of Alypius. He is Troubled with Toothache.",
             "pt-BR": "Capítulo 4. No campo, dedica-se às letras e explica o quarto salmo em relação à feliz conversão de Alípio. Sofre de dor de dente."
           }
@@ -976,6 +1123,7 @@
         {
           "id": "ch009-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. At the Recommendation of Ambrose, He Reads the Prophecies of Isaiah, But Does Not Understand Them.",
             "pt-BR": "Capítulo 5. Por recomendação de Ambrósio, lê as profecias de Isaías, mas não as compreende."
           }
@@ -983,6 +1131,7 @@
         {
           "id": "ch009-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. He is Baptized at Milan with Alypius and His Son Adeodatus. The Book “De Magistro.”",
             "pt-BR": "Capítulo 6. É batizado em Milão com Alípio e seu filho Adeodato. O livro “De Magistro”."
           }
@@ -990,6 +1139,7 @@
         {
           "id": "ch009-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. Of the Church Hymns Instituted at Milan; Of the Ambrosian Persecution Raised by Justina; And of the Discovery of the Bodies of Two Martyrs.",
             "pt-BR": "Capítulo 7. Os hinos da Igreja instituídos em Milão; a perseguição de Justina contra Ambrósio; e a descoberta dos corpos de dois mártires."
           }
@@ -997,6 +1147,7 @@
         {
           "id": "ch009-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. Of the Conversion of Evodius, and the Death of His Mother When Returning with Him to Africa; And Whose Education He Tenderly Relates.",
             "pt-BR": "Capítulo 8. A conversão de Evódio e a morte de sua mãe quando voltava com ele para a África; relata com ternura a educação dela."
           }
@@ -1004,6 +1155,7 @@
         {
           "id": "ch009-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. He Describes the Praiseworthy Habits of His Mother; Her Kindness Towards Her Husband and Her Sons.",
             "pt-BR": "Capítulo 9. Descreve os costumes louváveis de sua mãe e sua bondade para com o marido e os filhos."
           }
@@ -1011,6 +1163,7 @@
         {
           "id": "ch009-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. A Conversation He Had with His Mother Concerning the Kingdom of Heaven.",
             "pt-BR": "Capítulo 10. Uma conversa que teve com sua mãe sobre o reino dos céus."
           }
@@ -1018,6 +1171,7 @@
         {
           "id": "ch009-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. His Mother, Attacked by Fever, Dies at Ostia.",
             "pt-BR": "Capítulo 11. Sua mãe, acometida de febre, morre em Óstia."
           }
@@ -1025,6 +1179,7 @@
         {
           "id": "ch009-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. How He Mourned His Dead Mother.",
             "pt-BR": "Capítulo 12. Como chorou sua mãe morta."
           }
@@ -1032,6 +1187,7 @@
         {
           "id": "ch009-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. He Entreats God for Her Sins, and Admonishes His Readers to Remember Her Piously.",
             "pt-BR": "Capítulo 13. Suplica a Deus pelos pecados dela e exorta os leitores a recordá-la piedosamente."
           }
@@ -1041,6 +1197,7 @@
     {
       "id": "ch010",
       "title": {
+        "la": "Liber X",
         "en-US": "BOOK 10",
         "pt-BR": "LIVRO 10"
       },
@@ -1048,6 +1205,7 @@
         {
           "id": "ch010-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. In God Alone is the Hope and Joy of Man.",
             "pt-BR": "Capítulo 1. Somente em Deus estão a esperança e a alegria do homem."
           }
@@ -1055,6 +1213,7 @@
         {
           "id": "ch010-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. That All Things are Manifest to God. That Confession Unto Him is Not Made by the Words of the Flesh, But of the Soul, and the Cry of Reflection.",
             "pt-BR": "Capítulo 2. Todas as coisas estão manifestas a Deus. A confissão a Ele não se faz pelas palavras da carne, mas pelas da alma e pelo clamor da reflexão."
           }
@@ -1062,6 +1221,7 @@
         {
           "id": "ch010-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. He Who Confesses Rightly Unto God Best Knows Himself.",
             "pt-BR": "Capítulo 3. Quem se confessa retamente a Deus conhece melhor a si mesmo."
           }
@@ -1069,6 +1229,7 @@
         {
           "id": "ch010-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. That in His Confessions He May Do Good, He Considers Others.",
             "pt-BR": "Capítulo 4. Tem os outros em vista para fazer o bem por meio de suas confissões."
           }
@@ -1076,6 +1237,7 @@
         {
           "id": "ch010-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. That Man Knows Not Himself Wholly.",
             "pt-BR": "Capítulo 5. O homem não conhece inteiramente a si mesmo."
           }
@@ -1083,6 +1245,7 @@
         {
           "id": "ch010-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. The Love of God, in His Nature Superior to All Creatures, is Acquired by the Knowledge of the Senses and the Exercise of Reason.",
             "pt-BR": "Capítulo 6. O amor a Deus, cuja natureza é superior a todas as criaturas, é adquirido pelo conhecimento dos sentidos e pelo exercício da razão."
           }
@@ -1090,6 +1253,7 @@
         {
           "id": "ch010-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. That God is to Be Found Neither from the Powers of the Body Nor of the Soul.",
             "pt-BR": "Capítulo 7. Deus não pode ser encontrado pelas faculdades do corpo nem pelas da alma."
           }
@@ -1097,6 +1261,7 @@
         {
           "id": "ch010-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. — Of the Nature and the Amazing Power of Memory.",
             "pt-BR": "Capítulo 8. — A natureza e o admirável poder da memória."
           }
@@ -1104,6 +1269,7 @@
         {
           "id": "ch010-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. Not Only Things, But Also Literature and Images, are Taken from the Memory, and are Brought Forth by the Act of Remembering.",
             "pt-BR": "Capítulo 9. Não só as coisas, mas também o saber e as imagens são retirados da memória e trazidos à presença pelo ato de recordar."
           }
@@ -1111,6 +1277,7 @@
         {
           "id": "ch010-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. Literature is Not Introduced to the Memory Through the Senses, But is Brought Forth from Its More Secret Places.",
             "pt-BR": "Capítulo 10. O saber não é introduzido na memória pelos sentidos, mas retirado de seus lugares mais secretos."
           }
@@ -1118,6 +1285,7 @@
         {
           "id": "ch010-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. What It is to Learn and to Think.",
             "pt-BR": "Capítulo 11. O que é aprender e pensar."
           }
@@ -1125,6 +1293,7 @@
         {
           "id": "ch010-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. On the Recollection of Things Mathematical.",
             "pt-BR": "Capítulo 12. A recordação das coisas matemáticas."
           }
@@ -1132,6 +1301,7 @@
         {
           "id": "ch010-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. Memory Retains All Things.",
             "pt-BR": "Capítulo 13. A memória retém todas as coisas."
           }
@@ -1139,6 +1309,7 @@
         {
           "id": "ch010-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. Concerning the Manner in Which Joy and Sadness May Be Brought Back to the Mind and Memory.",
             "pt-BR": "Capítulo 14. Como a alegria e a tristeza podem ser trazidas de volta à mente e à memória."
           }
@@ -1146,6 +1317,7 @@
         {
           "id": "ch010-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. In Memory There are Also Images of Things Which are Absent.",
             "pt-BR": "Capítulo 15. Na memória também há imagens de coisas ausentes."
           }
@@ -1153,6 +1325,7 @@
         {
           "id": "ch010-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. The Privation of Memory is Forgetfulness.",
             "pt-BR": "Capítulo 16. A privação da memória é o esquecimento."
           }
@@ -1160,6 +1333,7 @@
         {
           "id": "ch010-chapter-17",
           "title": {
+            "la": "Caput 17",
             "en-US": "Chapter 17. God Cannot Be Attained Unto by the Power of Memory, Which Beasts and Birds Possess.",
             "pt-BR": "Capítulo 17. Deus não pode ser alcançado pelo poder da memória, que os animais e as aves possuem."
           }
@@ -1167,6 +1341,7 @@
         {
           "id": "ch010-chapter-18",
           "title": {
+            "la": "Caput 18",
             "en-US": "Chapter 18. A Thing When Lost Could Not Be Found Unless It Were Retained in the Memory.",
             "pt-BR": "Capítulo 18. Uma coisa perdida não poderia ser encontrada se não fosse conservada na memória."
           }
@@ -1174,6 +1349,7 @@
         {
           "id": "ch010-chapter-19",
           "title": {
+            "la": "Caput 19",
             "en-US": "Chapter 19. What It is to Remember.",
             "pt-BR": "Capítulo 19. O que é recordar."
           }
@@ -1181,6 +1357,7 @@
         {
           "id": "ch010-chapter-20",
           "title": {
+            "la": "Caput 20",
             "en-US": "Chapter 20. We Should Not Seek for God and the Happy Life Unless We Had Known It.",
             "pt-BR": "Capítulo 20. Não buscaríamos Deus e a vida feliz se não a tivéssemos conhecido."
           }
@@ -1188,6 +1365,7 @@
         {
           "id": "ch010-chapter-21",
           "title": {
+            "la": "Caput 21",
             "en-US": "Chapter 21. How a Happy Life May Be Retained in the Memory.",
             "pt-BR": "Capítulo 21. Como a vida feliz pode ser conservada na memória."
           }
@@ -1195,6 +1373,7 @@
         {
           "id": "ch010-chapter-22",
           "title": {
+            "la": "Caput 22",
             "en-US": "Chapter 22. A Happy Life is to Rejoice in God, and for God.",
             "pt-BR": "Capítulo 22. A vida feliz consiste em alegrar-se em Deus e por Deus."
           }
@@ -1202,6 +1381,7 @@
         {
           "id": "ch010-chapter-23",
           "title": {
+            "la": "Caput 23",
             "en-US": "Chapter 23. All Wish to Rejoice in the Truth.",
             "pt-BR": "Capítulo 23. Todos desejam alegrar-se na verdade."
           }
@@ -1209,6 +1389,7 @@
         {
           "id": "ch010-chapter-24",
           "title": {
+            "la": "Caput 24",
             "en-US": "Chapter 24. He Who Finds Truth, Finds God.",
             "pt-BR": "Capítulo 24. Quem encontra a verdade encontra Deus."
           }
@@ -1216,6 +1397,7 @@
         {
           "id": "ch010-chapter-25",
           "title": {
+            "la": "Caput 25",
             "en-US": "Chapter 25. He is Glad that God Dwells in His Memory.",
             "pt-BR": "Capítulo 25. Alegra-se porque Deus habita em sua memória."
           }
@@ -1223,6 +1405,7 @@
         {
           "id": "ch010-chapter-26",
           "title": {
+            "la": "Caput 26",
             "en-US": "Chapter 26. God Everywhere Answers Those Who Take Counsel of Him.",
             "pt-BR": "Capítulo 26. Deus responde em toda parte aos que lhe pedem conselho."
           }
@@ -1230,6 +1413,7 @@
         {
           "id": "ch010-chapter-27",
           "title": {
+            "la": "Caput 27",
             "en-US": "Chapter 27. He Grieves that He Was So Long Without God.",
             "pt-BR": "Capítulo 27. Lamenta ter passado tanto tempo sem Deus."
           }
@@ -1237,6 +1421,7 @@
         {
           "id": "ch010-chapter-28",
           "title": {
+            "la": "Caput 28",
             "en-US": "Chapter 28. On the Misery of Human Life.",
             "pt-BR": "Capítulo 28. A miséria da vida humana."
           }
@@ -1244,6 +1429,7 @@
         {
           "id": "ch010-chapter-29",
           "title": {
+            "la": "Caput 29",
             "en-US": "Chapter 29. All Hope is in the Mercy of God.",
             "pt-BR": "Capítulo 29. Toda esperança está na misericórdia de Deus."
           }
@@ -1251,6 +1437,7 @@
         {
           "id": "ch010-chapter-30",
           "title": {
+            "la": "Caput 30",
             "en-US": "Chapter 30. Of the Perverse Images of Dreams, Which He Wishes to Have Taken Away.",
             "pt-BR": "Capítulo 30. As imagens perversas dos sonhos, que deseja ver afastadas."
           }
@@ -1258,6 +1445,7 @@
         {
           "id": "ch010-chapter-31",
           "title": {
+            "la": "Caput 31",
             "en-US": "Chapter 31. About to Speak of the Temptations of the Lust of the Flesh, He First Complains of the Lust of Eating and Drinking.",
             "pt-BR": "Capítulo 31. Ao tratar das tentações da paixão carnal, queixa-se primeiro da paixão por comer e beber."
           }
@@ -1265,6 +1453,7 @@
         {
           "id": "ch010-chapter-32",
           "title": {
+            "la": "Caput 32",
             "en-US": "Chapter 32. Of the Charms of Perfumes Which are More Easily Overcome.",
             "pt-BR": "Capítulo 32. Os encantos dos perfumes, que são vencidos mais facilmente."
           }
@@ -1272,6 +1461,7 @@
         {
           "id": "ch010-chapter-33",
           "title": {
+            "la": "Caput 33",
             "en-US": "Chapter 33. He Overcame the Pleasures of the Ear, Although in the Church He Frequently Delighted in the Song, Not in the Thing Sung.",
             "pt-BR": "Capítulo 33. Venceu os prazeres do ouvido, embora na igreja frequentemente se deleitasse no canto, e não no que era cantado."
           }
@@ -1279,6 +1469,7 @@
         {
           "id": "ch010-chapter-34",
           "title": {
+            "la": "Caput 34",
             "en-US": "Chapter 34. Of the Very Dangerous Allurements of the Eyes; On Account of Beauty of Form, God, the Creator, is to Be Praised.",
             "pt-BR": "Capítulo 34. As perigosíssimas seduções dos olhos; pela beleza das formas, deve-se louvar a Deus, o Criador."
           }
@@ -1286,6 +1477,7 @@
         {
           "id": "ch010-chapter-35",
           "title": {
+            "la": "Caput 35",
             "en-US": "Chapter 35. Another Kind of Temptation is Curiosity, Which is Stimulated by the Lust of the Eyes.",
             "pt-BR": "Capítulo 35. Outra espécie de tentação é a curiosidade, estimulada pela paixão dos olhos."
           }
@@ -1293,6 +1485,7 @@
         {
           "id": "ch010-chapter-36",
           "title": {
+            "la": "Caput 36",
             "en-US": "Chapter 36. A Third Kind is “Pride” Which is Pleasing to Man, Not to God.",
             "pt-BR": "Capítulo 36. Uma terceira espécie é a “soberba”, que agrada ao homem, não a Deus."
           }
@@ -1300,6 +1493,7 @@
         {
           "id": "ch010-chapter-37",
           "title": {
+            "la": "Caput 37",
             "en-US": "Chapter 37. He is Forcibly Goaded on by the Love of Praise.",
             "pt-BR": "Capítulo 37. É fortemente instigado pelo amor ao louvor."
           }
@@ -1307,6 +1501,7 @@
         {
           "id": "ch010-chapter-38",
           "title": {
+            "la": "Caput 38",
             "en-US": "Chapter 38. Vain-Glory is the Highest Danger.",
             "pt-BR": "Capítulo 38. A vanglória é o maior perigo."
           }
@@ -1314,6 +1509,7 @@
         {
           "id": "ch010-chapter-39",
           "title": {
+            "la": "Caput 39",
             "en-US": "Chapter 39. Of the Vice of Those Who, While Pleasing Themselves, Displease God.",
             "pt-BR": "Capítulo 39. O vício dos que, agradando a si mesmos, desagradam a Deus."
           }
@@ -1321,6 +1517,7 @@
         {
           "id": "ch010-chapter-40",
           "title": {
+            "la": "Caput 40",
             "en-US": "Chapter 40. The Only Safe Resting-Place for the Soul is to Be Found in God.",
             "pt-BR": "Capítulo 40. O único lugar seguro de repouso para a alma encontra-se em Deus."
           }
@@ -1328,6 +1525,7 @@
         {
           "id": "ch010-chapter-41",
           "title": {
+            "la": "Caput 41",
             "en-US": "Chapter 41. Having Conquered His Triple Desire, He Arrives at Salvation.",
             "pt-BR": "Capítulo 41. Tendo vencido seu tríplice desejo, chega à salvação."
           }
@@ -1335,6 +1533,7 @@
         {
           "id": "ch010-chapter-42",
           "title": {
+            "la": "Caput 42",
             "en-US": "Chapter 42. In What Manner Many Sought the Mediator.",
             "pt-BR": "Capítulo 42. De que maneira muitos buscaram o Mediador."
           }
@@ -1342,6 +1541,7 @@
         {
           "id": "ch010-chapter-43",
           "title": {
+            "la": "Caput 43",
             "en-US": "Chapter 43. That Jesus Christ, at the Same Time God and Man, is the True and Most Efficacious Mediator.",
             "pt-BR": "Capítulo 43. Jesus Cristo, ao mesmo tempo Deus e homem, é o verdadeiro e eficacíssimo Mediador."
           }
@@ -1351,6 +1551,7 @@
     {
       "id": "ch011",
       "title": {
+        "la": "Liber XI",
         "en-US": "BOOK 11",
         "pt-BR": "LIVRO 11"
       },
@@ -1358,6 +1559,7 @@
         {
           "id": "ch011-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. By Confession He Desires to Stimulate Towards God His Own Love and That of His Readers.",
             "pt-BR": "Capítulo 1. Pela confissão, deseja estimular seu próprio amor e o de seus leitores por Deus."
           }
@@ -1365,6 +1567,7 @@
         {
           "id": "ch011-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. He Begs of God that Through the Holy Scriptures He May Be Led to Truth.",
             "pt-BR": "Capítulo 2. Suplica a Deus que, pelas Sagradas Escrituras, seja conduzido à verdade."
           }
@@ -1372,6 +1575,7 @@
         {
           "id": "ch011-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. He Begins from the Creation of the World— Not Understanding the Hebrew Text.",
             "pt-BR": "Capítulo 3. Começa pela criação do mundo — sem compreender o texto hebraico."
           }
@@ -1379,6 +1583,7 @@
         {
           "id": "ch011-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. Heaven and Earth Cry Out that They Have Been Created by God.",
             "pt-BR": "Capítulo 4. O céu e a terra proclamam que foram criados por Deus."
           }
@@ -1386,6 +1591,7 @@
         {
           "id": "ch011-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. God Created the World Not from Any Certain Matter, But in His Own Word.",
             "pt-BR": "Capítulo 5. Deus criou o mundo não de alguma matéria determinada, mas em seu próprio Verbo."
           }
@@ -1393,6 +1599,7 @@
         {
           "id": "ch011-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. He Did Not, However, Create It by a Sounding and Passing Word.",
             "pt-BR": "Capítulo 6. Contudo, não o criou por uma palavra sonora e passageira."
           }
@@ -1400,6 +1607,7 @@
         {
           "id": "ch011-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. By His Co-Eternal Word He Speaks, and All Things are Done.",
             "pt-BR": "Capítulo 7. Por seu Verbo coeterno, Ele fala, e todas as coisas são feitas."
           }
@@ -1407,6 +1615,7 @@
         {
           "id": "ch011-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. That Word Itself is the Beginning of All Things, in the Which We are Instructed as to Evangelical Truth.",
             "pt-BR": "Capítulo 8. O próprio Verbo é o princípio de todas as coisas, no qual somos instruídos na verdade evangélica."
           }
@@ -1414,6 +1623,7 @@
         {
           "id": "ch011-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. Wisdom and the Beginning.",
             "pt-BR": "Capítulo 9. A Sabedoria e o Princípio."
           }
@@ -1421,6 +1631,7 @@
         {
           "id": "ch011-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. The Rashness of Those Who Inquire What God Did Before He Created Heaven and Earth.",
             "pt-BR": "Capítulo 10. A temeridade dos que perguntam o que Deus fazia antes de criar o céu e a terra."
           }
@@ -1428,6 +1639,7 @@
         {
           "id": "ch011-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. They Who Ask This Have Not as Yet Known the Eternity of God, Which is Exempt from the Relation of Time.",
             "pt-BR": "Capítulo 11. Os que fazem essa pergunta ainda não conheceram a eternidade de Deus, que está livre da relação com o tempo."
           }
@@ -1435,6 +1647,7 @@
         {
           "id": "ch011-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. What God Did Before the Creation of the World.",
             "pt-BR": "Capítulo 12. O que Deus fazia antes da criação do mundo."
           }
@@ -1442,6 +1655,7 @@
         {
           "id": "ch011-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. Before the Times Created by God, Times Were Not.",
             "pt-BR": "Capítulo 13. Antes dos tempos criados por Deus, não havia tempos."
           }
@@ -1449,6 +1663,7 @@
         {
           "id": "ch011-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. Neither Time Past Nor Future, But the Present Only, Really is.",
             "pt-BR": "Capítulo 14. Nem o tempo passado nem o futuro, mas somente o presente existe realmente."
           }
@@ -1456,6 +1671,7 @@
         {
           "id": "ch011-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. There is Only a Moment of Present Time.",
             "pt-BR": "Capítulo 15. Só há um instante de tempo presente."
           }
@@ -1463,6 +1679,7 @@
         {
           "id": "ch011-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. Time Can Only Be Perceived or Measured While It is Passing.",
             "pt-BR": "Capítulo 16. O tempo só pode ser percebido ou medido enquanto passa."
           }
@@ -1470,6 +1687,7 @@
         {
           "id": "ch011-chapter-17",
           "title": {
+            "la": "Caput 17",
             "en-US": "Chapter 17. Nevertheless There is Time Past and Future.",
             "pt-BR": "Capítulo 17. Contudo, há tempo passado e futuro."
           }
@@ -1477,6 +1695,7 @@
         {
           "id": "ch011-chapter-18",
           "title": {
+            "la": "Caput 18",
             "en-US": "Chapter 18. Past and Future Times Cannot Be Thought of But as Present.",
             "pt-BR": "Capítulo 18. Os tempos passado e futuro só podem ser pensados como presentes."
           }
@@ -1484,6 +1703,7 @@
         {
           "id": "ch011-chapter-19",
           "title": {
+            "la": "Caput 19",
             "en-US": "Chapter 19. We are Ignorant in What Manner God Teaches Future Things.",
             "pt-BR": "Capítulo 19. Ignoramos de que maneira Deus ensina as coisas futuras."
           }
@@ -1491,6 +1711,7 @@
         {
           "id": "ch011-chapter-20",
           "title": {
+            "la": "Caput 20",
             "en-US": "Chapter 20. In What Manner Time May Properly Be Designated.",
             "pt-BR": "Capítulo 20. De que maneira o tempo pode ser designado adequadamente."
           }
@@ -1498,6 +1719,7 @@
         {
           "id": "ch011-chapter-21",
           "title": {
+            "la": "Caput 21",
             "en-US": "Chapter 21. How Time May Be Measured.",
             "pt-BR": "Capítulo 21. Como o tempo pode ser medido."
           }
@@ -1505,6 +1727,7 @@
         {
           "id": "ch011-chapter-22",
           "title": {
+            "la": "Caput 22",
             "en-US": "Chapter 22. He Prays God that He Would Explain This Most Entangled Enigma.",
             "pt-BR": "Capítulo 22. Pede a Deus que explique esse enigma tão intrincado."
           }
@@ -1512,6 +1735,7 @@
         {
           "id": "ch011-chapter-23",
           "title": {
+            "la": "Caput 23",
             "en-US": "Chapter 23. That Time is a Certain Extension.",
             "pt-BR": "Capítulo 23. O tempo é uma certa extensão."
           }
@@ -1519,6 +1743,7 @@
         {
           "id": "ch011-chapter-24",
           "title": {
+            "la": "Caput 24",
             "en-US": "Chapter 24. That Time is Not a Motion of a Body Which We Measure by Time.",
             "pt-BR": "Capítulo 24. O tempo não é o movimento de um corpo, que medimos pelo tempo."
           }
@@ -1526,6 +1751,7 @@
         {
           "id": "ch011-chapter-25",
           "title": {
+            "la": "Caput 25",
             "en-US": "Chapter 25. He Calls on God to Enlighten His Mind.",
             "pt-BR": "Capítulo 25. Invoca a Deus para que ilumine sua mente."
           }
@@ -1533,6 +1759,7 @@
         {
           "id": "ch011-chapter-26",
           "title": {
+            "la": "Caput 26",
             "en-US": "Chapter 26. We Measure Longer Events by Shorter in Time.",
             "pt-BR": "Capítulo 26. Medimos os acontecimentos mais longos pelos mais breves no tempo."
           }
@@ -1540,6 +1767,7 @@
         {
           "id": "ch011-chapter-27",
           "title": {
+            "la": "Caput 27",
             "en-US": "Chapter 27. Times are Measured in Proportion as They Pass by.",
             "pt-BR": "Capítulo 27. Os tempos são medidos à medida que passam."
           }
@@ -1547,6 +1775,7 @@
         {
           "id": "ch011-chapter-28",
           "title": {
+            "la": "Caput 28",
             "en-US": "Chapter 28. Time in the Human Mind, Which Expects, Considers, and Remembers.",
             "pt-BR": "Capítulo 28. O tempo na mente humana, que espera, considera e recorda."
           }
@@ -1554,6 +1783,7 @@
         {
           "id": "ch011-chapter-29",
           "title": {
+            "la": "Caput 29",
             "en-US": "Chapter 29. That Human Life is a Distraction But that Through the Mercy of God He Was Intent on the Prize of His Heavenly Calling.",
             "pt-BR": "Capítulo 29. A vida humana é dispersão, mas, pela misericórdia de Deus, ele se voltava para o prêmio de sua vocação celeste."
           }
@@ -1561,6 +1791,7 @@
         {
           "id": "ch011-chapter-30",
           "title": {
+            "la": "Caput 30",
             "en-US": "Chapter 30. Again He Refutes the Empty Question, “What Did God Before the Creation of the World?”",
             "pt-BR": "Capítulo 30. Refuta novamente a pergunta vazia: “O que Deus fazia antes da criação do mundo?”"
           }
@@ -1568,6 +1799,7 @@
         {
           "id": "ch011-chapter-31",
           "title": {
+            "la": "Caput 31",
             "en-US": "Chapter 31. How the Knowledge of God Differs from that of Man.",
             "pt-BR": "Capítulo 31. Como o conhecimento de Deus difere do conhecimento do homem."
           }
@@ -1577,6 +1809,7 @@
     {
       "id": "ch012",
       "title": {
+        "la": "Liber XII",
         "en-US": "BOOK 12",
         "pt-BR": "LIVRO 12"
       },
@@ -1584,6 +1817,7 @@
         {
           "id": "ch012-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1 .— The Discovery of Truth is Difficult, But God Has Promised that He Who Seeks Shall Find.",
             "pt-BR": "Capítulo 1. — A descoberta da verdade é difícil, mas Deus prometeu que quem busca encontrará."
           }
@@ -1591,6 +1825,7 @@
         {
           "id": "ch012-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. Of the Double Heaven—The Visible, and the Heaven of Heavens.",
             "pt-BR": "Capítulo 2. O duplo céu — o visível e o céu dos céus."
           }
@@ -1598,6 +1833,7 @@
         {
           "id": "ch012-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. Of the Darkness Upon the Deep, and of the Invisible and Formless Earth.",
             "pt-BR": "Capítulo 3. As trevas sobre o abismo e a terra invisível e informe."
           }
@@ -1605,6 +1841,7 @@
         {
           "id": "ch012-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. From the Formlessness of Matter, the Beautiful World Has Arisen.",
             "pt-BR": "Capítulo 4. Da matéria sem forma surgiu o belo mundo."
           }
@@ -1612,6 +1849,7 @@
         {
           "id": "ch012-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. What May Have Been the Form of Matter.",
             "pt-BR": "Capítulo 5. Qual pode ter sido a forma da matéria."
           }
@@ -1619,6 +1857,7 @@
         {
           "id": "ch012-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. He Confesses that at One Time He Himself Thought Erroneously of Matter.",
             "pt-BR": "Capítulo 6. Confessa que ele próprio outrora pensava erroneamente sobre a matéria."
           }
@@ -1626,6 +1865,7 @@
         {
           "id": "ch012-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. Out of Nothing God Made Heaven and Earth.",
             "pt-BR": "Capítulo 7. Do nada, Deus fez o céu e a terra."
           }
@@ -1633,6 +1873,7 @@
         {
           "id": "ch012-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. Heaven and Earth Were Made “In the Beginning;” Afterwards the World, During Six Days, from Shapeless Matter.",
             "pt-BR": "Capítulo 8. O céu e a terra foram feitos “no princípio”; depois, durante seis dias, o mundo foi feito de matéria informe."
           }
@@ -1640,6 +1881,7 @@
         {
           "id": "ch012-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. That the Heaven of Heavens Was an Intellectual Creature, But that the Earth Was Invisible and Formless Before the Days that It Was Made.",
             "pt-BR": "Capítulo 9. O céu dos céus era uma criatura intelectual, mas a terra era invisível e informe antes dos dias em que foi feita."
           }
@@ -1647,6 +1889,7 @@
         {
           "id": "ch012-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. He Begs of God that He May Live in the True Light, and May Be Instructed as to the Mysteries of the Sacred Books.",
             "pt-BR": "Capítulo 10. Suplica a Deus que possa viver na luz verdadeira e ser instruído nos mistérios dos livros sagrados."
           }
@@ -1654,6 +1897,7 @@
         {
           "id": "ch012-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. What May Be Discovered to Him by God.",
             "pt-BR": "Capítulo 11. O que lhe pode ser revelado por Deus."
           }
@@ -1661,6 +1905,7 @@
         {
           "id": "ch012-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. From the Formless Earth God Created Another Heaven and a Visible and Formed Earth.",
             "pt-BR": "Capítulo 12. Da terra informe, Deus criou outro céu e uma terra visível e formada."
           }
@@ -1668,6 +1913,7 @@
         {
           "id": "ch012-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. Of the Intellectual Heaven and Formless Earth, Out of Which, on Another Day, the Firmament Was Formed.",
             "pt-BR": "Capítulo 13. O céu intelectual e a terra informe, da qual, em outro dia, foi formado o firmamento."
           }
@@ -1675,6 +1921,7 @@
         {
           "id": "ch012-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. Of the Depth of the Sacred Scripture, and Its Enemies.",
             "pt-BR": "Capítulo 14. A profundidade da Sagrada Escritura e seus inimigos."
           }
@@ -1682,6 +1929,7 @@
         {
           "id": "ch012-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. He Argues Against Adversaries Concerning the Heaven of Heavens.",
             "pt-BR": "Capítulo 15. Argumenta contra os adversários a respeito do céu dos céus."
           }
@@ -1689,6 +1937,7 @@
         {
           "id": "ch012-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. He Wishes to Have No Intercourse with Those Who Deny Divine Truth.",
             "pt-BR": "Capítulo 16. Deseja não ter relações com os que negam a verdade divina."
           }
@@ -1696,6 +1945,7 @@
         {
           "id": "ch012-chapter-17",
           "title": {
+            "la": "Caput 17",
             "en-US": "Chapter 17. He Mentions Five Explanations of the Words of Genesis I. I.",
             "pt-BR": "Capítulo 17. Menciona cinco explicações das palavras de Gênesis 1:1."
           }
@@ -1703,6 +1953,7 @@
         {
           "id": "ch012-chapter-18",
           "title": {
+            "la": "Caput 18",
             "en-US": "Chapter 18. What Error is Harmless in Sacred Scripture.",
             "pt-BR": "Capítulo 18. Que erro é inofensivo na interpretação da Sagrada Escritura."
           }
@@ -1710,6 +1961,7 @@
         {
           "id": "ch012-chapter-19",
           "title": {
+            "la": "Caput 19",
             "en-US": "Chapter 19. He Enumerates the Things Concerning Which All Agree.",
             "pt-BR": "Capítulo 19. Enumera as coisas sobre as quais todos concordam."
           }
@@ -1717,6 +1969,7 @@
         {
           "id": "ch012-chapter-20",
           "title": {
+            "la": "Caput 20",
             "en-US": "Chapter 20. Of the Words, “In the Beginning,” Variously Understood.",
             "pt-BR": "Capítulo 20. As palavras “no princípio”, entendidas de diversas maneiras."
           }
@@ -1724,6 +1977,7 @@
         {
           "id": "ch012-chapter-21",
           "title": {
+            "la": "Caput 21",
             "en-US": "Chapter 21. Of the Explanation of the Words, “The Earth Was Invisible.”",
             "pt-BR": "Capítulo 21. A explicação das palavras “a terra era invisível”."
           }
@@ -1731,6 +1985,7 @@
         {
           "id": "ch012-chapter-22",
           "title": {
+            "la": "Caput 22",
             "en-US": "Chapter 22. He Discusses Whether Matter Was from Eternity, or Was Made by God.",
             "pt-BR": "Capítulo 22. Discute se a matéria existia desde a eternidade ou foi feita por Deus."
           }
@@ -1738,6 +1993,7 @@
         {
           "id": "ch012-chapter-23",
           "title": {
+            "la": "Caput 23",
             "en-US": "Chapter 23. Two Kinds of Disagreements in the Books to Be Explained.",
             "pt-BR": "Capítulo 23. Duas espécies de divergências na explicação dos livros."
           }
@@ -1745,6 +2001,7 @@
         {
           "id": "ch012-chapter-24",
           "title": {
+            "la": "Caput 24",
             "en-US": "Chapter 24. Out of the Many True Things, It is Not Asserted Confidently that Moses Understood This or That.",
             "pt-BR": "Capítulo 24. Entre muitas coisas verdadeiras, não se afirma com certeza que Moisés tenha entendido esta ou aquela."
           }
@@ -1752,6 +2009,7 @@
         {
           "id": "ch012-chapter-25",
           "title": {
+            "la": "Caput 25",
             "en-US": "Chapter 25. It Behoves Interpreters, When Disagreeing Concerning Obscure Places, to Regard God the Author of Truth, and the Rule of Charity.",
             "pt-BR": "Capítulo 25. Convém aos intérpretes, quando divergem sobre passagens obscuras, ter em vista Deus, autor da verdade, e a regra da caridade."
           }
@@ -1759,6 +2017,7 @@
         {
           "id": "ch012-chapter-26",
           "title": {
+            "la": "Caput 26",
             "en-US": "Chapter 26. What He Might Have Asked of God Had He Been Enjoined to Write the Book of Genesis.",
             "pt-BR": "Capítulo 26. O que teria pedido a Deus se lhe tivesse sido ordenado escrever o livro do Gênesis."
           }
@@ -1766,6 +2025,7 @@
         {
           "id": "ch012-chapter-27",
           "title": {
+            "la": "Caput 27",
             "en-US": "Chapter 27. The Style of Speaking in the Book of Genesis is Simple and Clear.",
             "pt-BR": "Capítulo 27. O modo de falar no livro do Gênesis é simples e claro."
           }
@@ -1773,6 +2033,7 @@
         {
           "id": "ch012-chapter-28",
           "title": {
+            "la": "Caput 28",
             "en-US": "Chapter 28. The Words, “In the Beginning,” And, “The Heaven and the Earth,” Are Differently Understood.",
             "pt-BR": "Capítulo 28. As palavras “no princípio” e “o céu e a terra” são entendidas de modos diferentes."
           }
@@ -1780,6 +2041,7 @@
         {
           "id": "ch012-chapter-29",
           "title": {
+            "la": "Caput 29",
             "en-US": "Chapter 29. Concerning the Opinion of Those Who Explain It “At First He Made.”",
             "pt-BR": "Capítulo 29. A opinião dos que explicam a expressão como “primeiro Ele fez”."
           }
@@ -1787,6 +2049,7 @@
         {
           "id": "ch012-chapter-30",
           "title": {
+            "la": "Caput 30",
             "en-US": "Chapter 30. In the Great Diversity of Opinions, It Becomes All to Unite Charity and Divine Truth.",
             "pt-BR": "Capítulo 30. Na grande diversidade de opiniões, convém a todos unir a caridade e a verdade divina."
           }
@@ -1794,6 +2057,7 @@
         {
           "id": "ch012-chapter-31",
           "title": {
+            "la": "Caput 31",
             "en-US": "Chapter 31. Moses is Supposed to Have Perceived Whatever of Truth Can Be Discovered in His Words.",
             "pt-BR": "Capítulo 31. Supõe-se que Moisés tenha percebido toda a verdade que se pode descobrir em suas palavras."
           }
@@ -1801,6 +2065,7 @@
         {
           "id": "ch012-chapter-32",
           "title": {
+            "la": "Caput 32",
             "en-US": "Chapter 32. First, the Sense of the Writer is to Be Discovered, Then that is to Be Brought Out Which Divine Truth Intended.",
             "pt-BR": "Capítulo 32. Primeiro deve-se descobrir o sentido pretendido pelo escritor; depois, expor o que a Verdade divina quis dizer."
           }
@@ -1810,6 +2075,7 @@
     {
       "id": "ch013",
       "title": {
+        "la": "Liber XIII",
         "en-US": "BOOK 13",
         "pt-BR": "LIVRO 13"
       },
@@ -1817,6 +2083,7 @@
         {
           "id": "ch013-chapter-01",
           "title": {
+            "la": "Caput 1",
             "en-US": "Chapter 1. He Calls Upon God, and Proposes to Himself to Worship Him.",
             "pt-BR": "Capítulo 1. Invoca a Deus e se propõe adorá-lo."
           }
@@ -1824,6 +2091,7 @@
         {
           "id": "ch013-chapter-02",
           "title": {
+            "la": "Caput 2",
             "en-US": "Chapter 2. All Creatures Subsist from the Plenitude of Divine Goodness.",
             "pt-BR": "Capítulo 2. Todas as criaturas subsistem pela plenitude da bondade divina."
           }
@@ -1831,6 +2099,7 @@
         {
           "id": "ch013-chapter-03",
           "title": {
+            "la": "Caput 3",
             "en-US": "Chapter 3. Genesis I. 3—Of “Light,”— He Understands as It is Seen in the Spiritual Creature.",
             "pt-BR": "Capítulo 3. Gênesis 1:3 — entende a “luz” como aquela que se vê na criatura espiritual."
           }
@@ -1838,6 +2107,7 @@
         {
           "id": "ch013-chapter-04",
           "title": {
+            "la": "Caput 4",
             "en-US": "Chapter 4. All Things Have Been Created by the Grace of God, and are Not of Him as Standing in Need of Created Things.",
             "pt-BR": "Capítulo 4. Todas as coisas foram criadas pela graça de Deus e não procedem dele por ter Ele necessidade das coisas criadas."
           }
@@ -1845,6 +2115,7 @@
         {
           "id": "ch013-chapter-05",
           "title": {
+            "la": "Caput 5",
             "en-US": "Chapter 5. He Recognises the Trinity in the First Two Verses of Genesis.",
             "pt-BR": "Capítulo 5. Reconhece a Trindade nos dois primeiros versículos do Gênesis."
           }
@@ -1852,6 +2123,7 @@
         {
           "id": "ch013-chapter-06",
           "title": {
+            "la": "Caput 6",
             "en-US": "Chapter 6. Why the Holy Ghost Should Have Been Mentioned After the Mention of Heaven and Earth.",
             "pt-BR": "Capítulo 6. Por que o Espírito Santo foi mencionado depois do céu e da terra."
           }
@@ -1859,6 +2131,7 @@
         {
           "id": "ch013-chapter-07",
           "title": {
+            "la": "Caput 7",
             "en-US": "Chapter 7. That the Holy Spirit Brings Us to God.",
             "pt-BR": "Capítulo 7. O Espírito Santo nos conduz a Deus."
           }
@@ -1866,6 +2139,7 @@
         {
           "id": "ch013-chapter-08",
           "title": {
+            "la": "Caput 8",
             "en-US": "Chapter 8. That Nothing Whatever, Short of God, Can Yield to the Rational Creature a Happy Rest.",
             "pt-BR": "Capítulo 8. Nada, exceto Deus, pode proporcionar à criatura racional um repouso feliz."
           }
@@ -1873,6 +2147,7 @@
         {
           "id": "ch013-chapter-09",
           "title": {
+            "la": "Caput 9",
             "en-US": "Chapter 9. Why the Holy Spirit Was Only “Borne Over” The Waters.",
             "pt-BR": "Capítulo 9. Por que somente o Espírito Santo “pairava sobre” as águas."
           }
@@ -1880,6 +2155,7 @@
         {
           "id": "ch013-chapter-10",
           "title": {
+            "la": "Caput 10",
             "en-US": "Chapter 10. That Nothing Arose Save by the Gift of God.",
             "pt-BR": "Capítulo 10. Nada surgiu senão pelo dom de Deus."
           }
@@ -1887,6 +2163,7 @@
         {
           "id": "ch013-chapter-11",
           "title": {
+            "la": "Caput 11",
             "en-US": "Chapter 11. That the Symbols of the Trinity in Man, to Be, to Know, and to Will, are Never Thoroughly Examined.",
             "pt-BR": "Capítulo 11. Os símbolos da Trindade no homem — ser, conhecer e querer — nunca são examinados inteiramente."
           }
@@ -1894,6 +2171,7 @@
         {
           "id": "ch013-chapter-12",
           "title": {
+            "la": "Caput 12",
             "en-US": "Chapter 12. Allegorical Explanation of Genesis, Chap. I., Concerning the Origin of the Church and Its Worship.",
             "pt-BR": "Capítulo 12. Explicação alegórica de Gênesis, capítulo 1, sobre a origem da Igreja e de seu culto."
           }
@@ -1901,6 +2179,7 @@
         {
           "id": "ch013-chapter-13",
           "title": {
+            "la": "Caput 13",
             "en-US": "Chapter 13. That the Renewal of Man is Not Completed in This World.",
             "pt-BR": "Capítulo 13. A renovação do homem não se completa neste mundo."
           }
@@ -1908,6 +2187,7 @@
         {
           "id": "ch013-chapter-14",
           "title": {
+            "la": "Caput 14",
             "en-US": "Chapter 14. That Out of the Children of the Night and of the Darkness, Children of the Light and of the Day are Made.",
             "pt-BR": "Capítulo 14. Dos filhos da noite e das trevas são feitos filhos da luz e do dia."
           }
@@ -1915,6 +2195,7 @@
         {
           "id": "ch013-chapter-15",
           "title": {
+            "la": "Caput 15",
             "en-US": "Chapter 15. Allegorical Explanation of the Firmament and Upper Works, Ver. 6.",
             "pt-BR": "Capítulo 15. Explicação alegórica do firmamento e das obras superiores, versículo 6."
           }
@@ -1922,6 +2203,7 @@
         {
           "id": "ch013-chapter-16",
           "title": {
+            "la": "Caput 16",
             "en-US": "Chapter 16. That No One But the Unchangeable Light Knows Himself.",
             "pt-BR": "Capítulo 16. Ninguém, exceto a Luz imutável, conhece a si mesmo."
           }
@@ -1929,6 +2211,7 @@
         {
           "id": "ch013-chapter-17",
           "title": {
+            "la": "Caput 17",
             "en-US": "Chapter 17. Allegorical Explanation of the Sea and the Fruit-Bearing Earth— Verses 9 and 11.",
             "pt-BR": "Capítulo 17. Explicação alegórica do mar e da terra que produz frutos — versículos 9 e 11."
           }
@@ -1936,6 +2219,7 @@
         {
           "id": "ch013-chapter-18",
           "title": {
+            "la": "Caput 18",
             "en-US": "Chapter 18. Of the Lights and Stars of Heaven— Of Day and Night, Ver. 14.",
             "pt-BR": "Capítulo 18. Os luzeiros e as estrelas do céu — o dia e a noite, versículo 14."
           }
@@ -1943,6 +2227,7 @@
         {
           "id": "ch013-chapter-19",
           "title": {
+            "la": "Caput 19",
             "en-US": "Chapter 19. All Men Should Become Lights in the Firmament of Heaven.",
             "pt-BR": "Capítulo 19. Todos os homens devem tornar-se luzeiros no firmamento do céu."
           }
@@ -1950,6 +2235,7 @@
         {
           "id": "ch013-chapter-20",
           "title": {
+            "la": "Caput 20",
             "en-US": "Chapter 20. Concerning Reptiles and Flying Creatures (Ver. 20)—The Sacrament of Baptism Being Regarded.",
             "pt-BR": "Capítulo 20. Os répteis e as criaturas aladas (versículo 20) — em relação ao sacramento do batismo."
           }
@@ -1957,6 +2243,7 @@
         {
           "id": "ch013-chapter-21",
           "title": {
+            "la": "Caput 21",
             "en-US": "Chapter 21. Concerning the Living Soul, Birds, and Fishes (Ver. 24)— The Sacrament of the Eucharist Being Regarded.",
             "pt-BR": "Capítulo 21. A alma vivente, as aves e os peixes (versículo 24) — em relação ao sacramento da Eucaristia."
           }
@@ -1964,6 +2251,7 @@
         {
           "id": "ch013-chapter-22",
           "title": {
+            "la": "Caput 22",
             "en-US": "Chapter 22. He Explains the Divine Image (Ver. 26) of the Renewal of the Mind.",
             "pt-BR": "Capítulo 22. Explica a imagem divina (versículo 26) em relação à renovação da mente."
           }
@@ -1971,6 +2259,7 @@
         {
           "id": "ch013-chapter-23",
           "title": {
+            "la": "Caput 23",
             "en-US": "Chapter 23. That to Have Power Over All Things (Ver. 26) is to Judge Spiritually of All.",
             "pt-BR": "Capítulo 23. Ter poder sobre todas as coisas (versículo 26) é julgar espiritualmente todas elas."
           }
@@ -1978,6 +2267,7 @@
         {
           "id": "ch013-chapter-24",
           "title": {
+            "la": "Caput 24",
             "en-US": "Chapter 24. Why God Has Blessed Men, Fishes, Flying Creatures, and Not Herbs and the Other Animals (Ver. 28).",
             "pt-BR": "Capítulo 24. Por que Deus abençoou os homens, os peixes e as criaturas aladas, e não as ervas e os outros animais (versículo 28)."
           }
@@ -1985,6 +2275,7 @@
         {
           "id": "ch013-chapter-25",
           "title": {
+            "la": "Caput 25",
             "en-US": "Chapter 25. He Explains the Fruits of the Earth (Ver. 29) of Works of Mercy.",
             "pt-BR": "Capítulo 25. Explica os frutos da terra (versículo 29) em relação às obras de misericórdia."
           }
@@ -1992,6 +2283,7 @@
         {
           "id": "ch013-chapter-26",
           "title": {
+            "la": "Caput 26",
             "en-US": "Chapter 26. In the Confessing of Benefits, Computation is Made Not as to The “Gift,” But as to the “Fruit,”— That Is, the Good and Right Will of the Giver.",
             "pt-BR": "Capítulo 26. Ao reconhecer os benefícios, leva-se em conta não o “dom”, mas o “fruto” — isto é, a vontade boa e reta de quem dá."
           }
@@ -1999,6 +2291,7 @@
         {
           "id": "ch013-chapter-27",
           "title": {
+            "la": "Caput 27",
             "en-US": "Chapter 27. Many are Ignorant as to This, and Ask for Miracles, Which are Signified Under the Names Of “Fishes” And “Whales.”",
             "pt-BR": "Capítulo 27. Muitos ignoram isso e pedem milagres, que são significados pelos nomes de “peixes” e “baleias”."
           }
@@ -2006,6 +2299,7 @@
         {
           "id": "ch013-chapter-28",
           "title": {
+            "la": "Caput 28",
             "en-US": "Chapter 28. He Proceeds to the Last Verse, “All Things are Very Good,”— That Is, the Work Being Altogether Good.",
             "pt-BR": "Capítulo 28. Passa ao último versículo, “todas as coisas são muito boas” — isto é, a obra é boa em seu conjunto."
           }
@@ -2013,6 +2307,7 @@
         {
           "id": "ch013-chapter-29",
           "title": {
+            "la": "Caput 29",
             "en-US": "Chapter 29. Although It is Said Eight Times that “God Saw that It Was Good,” Yet Time Has No Relation to God and His Word.",
             "pt-BR": "Capítulo 29. Embora se diga oito vezes que “Deus viu que era bom”, o tempo não tem relação com Deus e seu Verbo."
           }
@@ -2020,6 +2315,7 @@
         {
           "id": "ch013-chapter-30",
           "title": {
+            "la": "Caput 30",
             "en-US": "Chapter 30. He Refutes the Opinions of the Manichæans and the Gnostics Concerning the Origin of the World.",
             "pt-BR": "Capítulo 30. Refuta as opiniões dos maniqueus e dos gnósticos sobre a origem do mundo."
           }
@@ -2027,6 +2323,7 @@
         {
           "id": "ch013-chapter-31",
           "title": {
+            "la": "Caput 31",
             "en-US": "Chapter 31. We Do Not See “That It Was Good” But Through the Spirit of God Which is in Us.",
             "pt-BR": "Capítulo 31. Só vemos “que era bom” pelo Espírito de Deus que está em nós."
           }
@@ -2034,6 +2331,7 @@
         {
           "id": "ch013-chapter-32",
           "title": {
+            "la": "Caput 32",
             "en-US": "Chapter 32. Of the Particular Works of God, More Especially of Man.",
             "pt-BR": "Capítulo 32. As obras particulares de Deus, especialmente o homem."
           }
@@ -2041,6 +2339,7 @@
         {
           "id": "ch013-chapter-33",
           "title": {
+            "la": "Caput 33",
             "en-US": "Chapter 33. The World Was Created by God Out of Nothing.",
             "pt-BR": "Capítulo 33. O mundo foi criado por Deus do nada."
           }
@@ -2048,6 +2347,7 @@
         {
           "id": "ch013-chapter-34",
           "title": {
+            "la": "Caput 34",
             "en-US": "Chapter 34. He Briefly Repeats the Allegorical Interpretation of Genesis (Ch. I.), and Confesses that We See It by the Divine Spirit.",
             "pt-BR": "Capítulo 34. Retoma brevemente a interpretação alegórica do Gênesis (capítulo 1) e confessa que a vemos pelo Espírito divino."
           }
@@ -2055,6 +2355,7 @@
         {
           "id": "ch013-chapter-35",
           "title": {
+            "la": "Caput 35",
             "en-US": "Chapter 35. He Prays God for that Peace of Rest Which Hath No Evening.",
             "pt-BR": "Capítulo 35. Pede a Deus aquela paz do repouso que não tem ocaso."
           }
@@ -2062,6 +2363,7 @@
         {
           "id": "ch013-chapter-36",
           "title": {
+            "la": "Caput 36",
             "en-US": "Chapter 36. The Seventh Day, Without Evening and Setting, the Image of Eternal Life and Rest in God.",
             "pt-BR": "Capítulo 36. O sétimo dia, sem tarde nem ocaso, imagem da vida eterna e do repouso em Deus."
           }
@@ -2069,6 +2371,7 @@
         {
           "id": "ch013-chapter-37",
           "title": {
+            "la": "Caput 37",
             "en-US": "Chapter 37. Of Rest in God Who Ever Works, and Yet is Ever at Rest.",
             "pt-BR": "Capítulo 37. O repouso em Deus, que sempre age e, contudo, está sempre em repouso."
           }
@@ -2076,6 +2379,7 @@
         {
           "id": "ch013-chapter-38",
           "title": {
+            "la": "Caput 38",
             "en-US": "Chapter 38. Of the Difference Between the Knowledge of God and of Men, and of the Repose Which is to Be Sought from God Only.",
             "pt-BR": "Capítulo 38. A diferença entre o conhecimento de Deus e o dos homens, e o repouso que se deve buscar somente em Deus."
           }
@@ -2084,6 +2388,7 @@
     }
   ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
   }
 }

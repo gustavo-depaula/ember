@@ -1,0 +1,3 @@
+# Caput 16
+
+16.21. Et tamen, Domine, sentimus intervalla temporum et comparamus sibimet et dicimus alia longiora et alia breviora. Metimur etiam, quanto sit longius aut brevius illud tempus quam illud et respondemus duplum esse hoc vel triplum, illud autem simplum aut tantum hoc esse quantum illud. Sed praetereuntia metimur tempora, cum sentiendo metimur; praeterita vero, quae iam non sunt, aut futura, quae nondum sunt, quis metiri potest, nisi forte audebit quis dicere metiri posse quod non est? Cum ergo praeterit tempus, sentiri et metiri potest, cum autem praeterierit, quoniam non est, non potest.
