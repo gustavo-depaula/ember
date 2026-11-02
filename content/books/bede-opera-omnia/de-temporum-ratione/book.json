@@ -1,0 +1,549 @@
+{
+  "id": "bede-de-temporum-ratione",
+  "cover": "classic",
+  "name": {
+    "la": "De temporum ratione",
+    "en-US": "The Reckoning of Time",
+    "pt-BR": "O Cômputo do Tempo"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "De temporum ratione liber, ad Hwaetberhtum abbatem: computus ecclesiasticus, cum chronica maiore.",
+    "en-US": "Bede's masterwork of the calendar (725): finger-counting, the divisions of time, the months of the Greeks, Romans and English, the lunar and solar cycles, the calculation of Easter, and, in chapter 66, the Chronica maiora, a chronicle of the six ages of the world. Latin text of Migne (PL 90); no public-domain English translation is known.",
+    "pt-BR": "A obra-prima de Beda sobre o calendário (725): o cômputo digital, as divisões do tempo, os meses de gregos, romanos e ingleses, os ciclos lunar e solar, o cálculo da Páscoa e, no capítulo 66, a Chronica maior, uma crônica das seis idades do mundo."
+  },
+  "composed": "725",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/de-temporum-ratione",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 90 (1862), after Giles (1843)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "De ratione temporum on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina.",
+      "description": "Wikitext removed; inline PL column numbers dropped; one file per chapter with its rubric.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint of Giles: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I",
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II",
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III",
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV",
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V",
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI",
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII",
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII",
+        "en-US": "Chapter VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX",
+        "en-US": "Chapter IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X",
+        "en-US": "Chapter X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI",
+        "en-US": "Chapter XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII",
+        "en-US": "Chapter XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII",
+        "en-US": "Chapter XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV",
+        "en-US": "Chapter XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV",
+        "en-US": "Chapter XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI",
+        "en-US": "Chapter XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII",
+        "en-US": "Chapter XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII",
+        "en-US": "Chapter XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX",
+        "en-US": "Chapter XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX",
+        "en-US": "Chapter XX"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI",
+        "en-US": "Chapter XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII",
+        "en-US": "Chapter XXII"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII",
+        "en-US": "Chapter XXIII"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV",
+        "en-US": "Chapter XXIV"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV",
+        "en-US": "Chapter XXV"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI",
+        "en-US": "Chapter XXVI"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII",
+        "en-US": "Chapter XXVII"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII",
+        "en-US": "Chapter XXVIII"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "la": "Caput XXIX",
+        "en-US": "Chapter XXIX"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "la": "Caput XXX",
+        "en-US": "Chapter XXX"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "la": "Caput XXXI",
+        "en-US": "Chapter XXXI"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "la": "Caput XXXII",
+        "en-US": "Chapter XXXII"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "la": "Caput XXXIII",
+        "en-US": "Chapter XXXIII"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "la": "Caput XXXIV",
+        "en-US": "Chapter XXXIV"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "la": "Caput XXXV",
+        "en-US": "Chapter XXXV"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "la": "Caput XXXVI",
+        "en-US": "Chapter XXXVI"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "la": "Caput XXXVII",
+        "en-US": "Chapter XXXVII"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "la": "Caput XXXVIII",
+        "en-US": "Chapter XXXVIII"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "la": "Caput XXXIX",
+        "en-US": "Chapter XXXIX"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "la": "Caput XL",
+        "en-US": "Chapter XL"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "la": "Caput XLI",
+        "en-US": "Chapter XLI"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "la": "Caput XLII",
+        "en-US": "Chapter XLII"
+      }
+    },
+    {
+      "id": "c43",
+      "title": {
+        "la": "Caput XLIII",
+        "en-US": "Chapter XLIII"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "la": "Caput XLIV",
+        "en-US": "Chapter XLIV"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "la": "Caput XLV",
+        "en-US": "Chapter XLV"
+      }
+    },
+    {
+      "id": "c46",
+      "title": {
+        "la": "Caput XLVI",
+        "en-US": "Chapter XLVI"
+      }
+    },
+    {
+      "id": "c47",
+      "title": {
+        "la": "Caput XLVII",
+        "en-US": "Chapter XLVII"
+      }
+    },
+    {
+      "id": "c48",
+      "title": {
+        "la": "Caput XLVIII",
+        "en-US": "Chapter XLVIII"
+      }
+    },
+    {
+      "id": "c49",
+      "title": {
+        "la": "Caput XLIX",
+        "en-US": "Chapter XLIX"
+      }
+    },
+    {
+      "id": "c50",
+      "title": {
+        "la": "Caput L",
+        "en-US": "Chapter L"
+      }
+    },
+    {
+      "id": "c51",
+      "title": {
+        "la": "Caput LI",
+        "en-US": "Chapter LI"
+      }
+    },
+    {
+      "id": "c52",
+      "title": {
+        "la": "Caput LII",
+        "en-US": "Chapter LII"
+      }
+    },
+    {
+      "id": "c53",
+      "title": {
+        "la": "Caput LIII",
+        "en-US": "Chapter LIII"
+      }
+    },
+    {
+      "id": "c54",
+      "title": {
+        "la": "Caput LIV",
+        "en-US": "Chapter LIV"
+      }
+    },
+    {
+      "id": "c55",
+      "title": {
+        "la": "Caput LV",
+        "en-US": "Chapter LV"
+      }
+    },
+    {
+      "id": "c56",
+      "title": {
+        "la": "Caput LVI",
+        "en-US": "Chapter LVI"
+      }
+    },
+    {
+      "id": "c57",
+      "title": {
+        "la": "Caput LVII",
+        "en-US": "Chapter LVII"
+      }
+    },
+    {
+      "id": "c58",
+      "title": {
+        "la": "Caput LVIII",
+        "en-US": "Chapter LVIII"
+      }
+    },
+    {
+      "id": "c59",
+      "title": {
+        "la": "Caput LIX",
+        "en-US": "Chapter LIX"
+      }
+    },
+    {
+      "id": "c60",
+      "title": {
+        "la": "Caput LX",
+        "en-US": "Chapter LX"
+      }
+    },
+    {
+      "id": "c61",
+      "title": {
+        "la": "Caput LXI",
+        "en-US": "Chapter LXI"
+      }
+    },
+    {
+      "id": "c62",
+      "title": {
+        "la": "Caput LXII",
+        "en-US": "Chapter LXII"
+      }
+    },
+    {
+      "id": "c63",
+      "title": {
+        "la": "Caput LXIII",
+        "en-US": "Chapter LXIII"
+      }
+    },
+    {
+      "id": "c64",
+      "title": {
+        "la": "Caput LXIV",
+        "en-US": "Chapter LXIV"
+      }
+    },
+    {
+      "id": "c65",
+      "title": {
+        "la": "Caput LXV",
+        "en-US": "Chapter LXV"
+      }
+    },
+    {
+      "id": "c66",
+      "title": {
+        "la": "Caput LXVI",
+        "en-US": "Chapter LXVI"
+      }
+    },
+    {
+      "id": "c67",
+      "title": {
+        "la": "Caput LXVII",
+        "en-US": "Chapter LXVII"
+      }
+    },
+    {
+      "id": "c68",
+      "title": {
+        "la": "Caput LXVIII",
+        "en-US": "Chapter LXVIII"
+      }
+    },
+    {
+      "id": "c69",
+      "title": {
+        "la": "Caput LXIX",
+        "en-US": "Chapter LXIX"
+      }
+    },
+    {
+      "id": "c70",
+      "title": {
+        "la": "Caput LXX",
+        "en-US": "Chapter LXX"
+      }
+    },
+    {
+      "id": "c71",
+      "title": {
+        "la": "Caput LXXI",
+        "en-US": "Chapter LXXI"
+      }
+    }
+  ]
+}
