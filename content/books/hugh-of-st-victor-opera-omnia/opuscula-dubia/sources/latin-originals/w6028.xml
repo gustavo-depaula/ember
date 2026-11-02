@@ -1,0 +1,361 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De modo dicendi et meditandi</title>
+              <author>Auctor incertus (Hugo de S. Victore?)<date/> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>AuInHuD.DeMoDiE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<note>
+        <div1>
+          <head>ADMONITIO</head>
+<p> <hi>Hunc libellum exhibuit nobis ms. codex monasterii S. Audoeni Rothomagensis ante annos quadringentos
+exaratus, atque ita inscriptus</hi> Hugo Parisiensis de modo dicendi et meditandi. <hi>Stylus Victorinum Hugonem
+omnino repraesentat, quem, licet natione Yprensis existimetur, ideo Parisiensem fuisse dictum credimus, quod
+canonicus regularis in Parisiensi S. Victoris monasterio, vixerit, scripserit atque obierit. Sed huic libello haud
+erit abs re praemittere praeclaram de obitu ejusdem Hugonis Otberti epistolam ad Joannem, quam ex mss.
+Prulliacensi eruimus.</hi> <note>(Exstat inter Prolegomena ad Hugonem, supra Operum ejus tom. I.)</note>[EDIT.]</p>
+</div1>
+      </note>
+
+<div1>
+        <head>HUGO PARISIENSIS DE MODO DICENDI ET MEDITANDI</head>
+
+<pb n="0877"/>
+<div3>
+          <head>1. </head>
+<p>
+            <pb n="0877A"/> <hi>Humilitas discere volenti necessaria.</hi> --Principium
+discendi humilitas est, cujus cum multa sunt
+documenta, haec tria praecipue ad lectorem pertinent.
+Primum ut nullam scientiam, nullam scripturam
+vilem teneat. Secundum ut a nemine discere erubescat.
+Tertium ut cum scientiam adeptus fuerit, caeteros
+non spernat. Multos hoc decepit quod ante
+tempus sapientes videri volunt, et ideo ab aliis quod
+nesciunt discere erubescunt. Tu vero, fili, ab omnibus
+libenter disce quod nescis. Sapientior omnibus
+eris, si ab omnibus discere volueris. Qui ab omnibus
+accipiunt, omnibus ditiores sunt. Nullam denique
+scientiam vilem teneas, quia omnis scientia bona
+est. Nullam, si vacat, Scripturam vel saltem legem
+contemnas. Si nihil lucraris, nec perdis aliquid. Apostolus
+<pb n="0877B"/>
+enim ait:  « Omnia legentes, quae bona sunt
+tenentes <note>(I Thess. V)</note>. »  Bonus lector humilis debet
+esse et mansuetus, a curis saecularibus et voluptatum
+illecebris prorsus alienus, et sedulus ut ab
+omnibus libenter discat. Nunquam de scientia sua
+praesumat, non videri doctus, sed esse quaerat, dicta
+sapientium quaerat, et semper coram oculis
+mentis quasi speculum vultus sui tenere ardenter
+studeat.</p>
+        </div3>
+<div3>
+          <head>2.</head>
+          <p>
+ <hi>Studendi tria necessaria.</hi> --Tria sunt studentibus
+necessaria, natura, exercitium, disciplina. In
+natura consideratur ut facile audita percipiat, et percepta
+firmiter retineat. In exercitio, ut labore et sedulitate
+naturalem sensum excolat. In disciplina, ut
+laudabiliter vivens mores cum scientia componat.
+<pb n="0877C"/>
+</p>
+        </div3>
+<div3>
+          <head>3. </head>
+          <p>
+ <hi>Ingenio et memoria polleat</hi> --Qui doctrinae operam
+dant, ingenio simul et memoria pollere debent.
+Quae duo in omni studio ita sibi cohaerent, ut si alterum
+desit, neminem alterum ad perfectionem ducere
+possit, sicut nulla prodesse possunt lucra, ubi
+deest custodia; et incassum receptacula munit, qui
+quod recondat non habuit.</p>
+        </div3>
+<div3>
+          <head>4.</head>
+          <p>
+ Ingenium est vis quaedam naturaliter animo insita
+per se valens. Memoria est rerum et verborum
+et sententiarum ac sensuum firmissima animi vel
+mentis perceptio. Ingenium invenit, memoria custodit.
+Ingenium a natura proficiscitur, usu juvatur,
+immoderato labore retunditur, et temperato acuitur
+exercitio. Memoria per exercitium retinendi et assidue
+meditandi maxime juvatur et viget. Duo sunt
+<pb n="0877D"/>
+quae ingenium exercent, lectio et meditatio. Lectio
+est cum ex his quae scripta sunt, regulis et praeceptis
+informamur. Item lectio est per subjectam
+sensus investigatio. Trimodum est genus lectionis,
+docentis, discentis, vel per se inspicientis. Dicimus
+<pb n="0878A"/>
+enim, lego librum illi, et lego librum ab illo, et lego
+librum</p>
+        </div3>
+<div3>
+          <head>5.</head>
+          <p>
+ <hi>De meditatione.</hi> --Meditatio est frequens cogitatio
+cum consilio, quae causam et originem, modum
+et utilitatem uniuscujusque rei prudenter investigat.
+Meditatio principium sumit a lectione, nullis
+tamen struitur regulis aut praeceptis lectionis. Delectatur
+enim quodam aperto discurrere spatio, ubi
+liberam contemplandae veritati aciem affigat; et nunc
+has, nunc illas rerum causas perstringere, nunc
+autem profunda quaeque penetrare, nihil anceps, nihil
+obscurum relinquere. Principium ergo doctrinae
+est in lectione, consummatio in meditatione. Quam
+si quis familiarius amare didicerit, eique saepius vacare
+voluerit, jucundam valde reddit vitam, et maximam
+<pb n="0878B"/>
+in tribulatione praestat consolationem. Ea
+enim maxime est quae animam a terrenorum actuum
+strepitu segregat, et in hac vita etiam aeternae quietis
+dulcedine, quodammodo praegustare facit. Cumque
+jam per ea quae facta sunt, eum qui fecit quaerere
+didicerit et intelligere, tunc animam pariter et
+scientia erudit et laetitia profundit: unde fit ut
+maximum in meditatione sit oblectamentum.</p>
+        </div3>
+<div3>
+          <head>6.</head>
+          <p>
+ <hi>Meditationis tria genera.</hi> Tria sunt genera meditationis.
+Unum constat in circumspectione morum,
+aliud in scrutatione mandatorum, tertium in investigatione
+divinorum operum. Mores sunt in vitiis et
+virtutibus. Mandatum divinum aliud praecipiens,
+aliud promittens, aliud terrens. Opus Dei est et quod
+creat potentia, et quod moderatur sapientia, et quod
+<pb n="0878C"/>
+cooperatur gratia. Quae omnia quanta sint admiratione
+digna tanto magis quisque novit, quanto attentius
+Dei mirabilia meditari consuevit.</p>
+        </div3>
+<div3>
+          <head>7.</head>
+          <p>
+ <hi>Memoriae commendanda quae sumus edocti.</hi> --Memoria
+colligendo custodit ea quae ingenium investigat
+et invenit. Oportet enim ut quae discendo divisimus,
+commendanda memoriae colligamus. Colligere
+est ea de quibus prolixius vel scriptum vel disputatum
+est ad brevem quamdam et compendiosam summam
+redigere; quae a majoribus epilogus, id est
+brevis recapitulatio supradictorum appellata est. Memoria
+enim hominis brevitate gaudet, et si in multa
+dividitur fit minor in singulis. Debemus ergo in
+omni studio vel doctrina breve aliquid et certum
+colligere, quod in arcula memoriae recondatur, unde
+<pb n="0878D"/>
+postmodum cum res exigit aliqua deriventur. Haec
+etiam saepe replicare et de ventre memoriae ad palatum
+revocare necesse est, ne longa intermissione
+obsoleat.</p>
+        </div3>
+<div3>
+          <head>8.</head>
+          <p>
+ <hi>Animae rationali tres visiones. Meditationis et
+<pb n="0879A"/>
+contemplationis discrimen.</hi> --Tres sunt animae rationalis
+visiones. Cogitatio, meditatio et contemplatio.
+Cogitatio est cum mens notione rerum transitorie
+tangitur, cum ipsa res sua imagine animo
+subito praesentatur, vel per sensum ingrediens, vel
+a memoria exsurgens. Meditatio est assidua ac sagax
+retractatio cogitationis, aliquid obscurum explicare
+nitens, vel scrutans penetrare occultum. Contemplatio
+est perspicax et liber animi intuitus in res
+perspiciendas usquequaque diffusas. Inter meditationem
+et contemplationem hoc interesse videtur, quod
+meditatio semper est de rebus a nostra intelligentia
+occultis; contemplatio vero de rebus vel secundum
+suam naturam vel secundum capacitatem nostram
+manifestis; et quod meditatio semper circa unum
+<pb n="0879B"/>
+aliquid rimandum occupatur; contemplatio autem
+ad multa vel etiam ad universa comprehendenda
+diffunditur. Meditatio itaque est vis quaedam mentis
+curiosa ac sagax obscura investigare et perplexa
+evolvere. Contemplatio est vivacitas illa intelligentiae,
+quae cuncta in palam habens manifesta visione
+comprehendit, et ita quodammodo id quod meditatio
+quaerit, contemplatio possidet.</p>
+        </div3>
+<div3>
+          <head>9.</head>
+          <p>
+ <hi>Contemplationis duo genera.</hi> --Contemplationis
+autem duo genera sunt, unum quod et primum est
+et incipientium in creaturarum consideratione, aliud
+quod ultimum et perfectorum est in contemplatione
+Creatoris. In Proverbiis Salomon quasi meditando
+incessit, in Ecclesiaste ad primum gradum contemplationis
+ascendit, in Canticis canticorum ad supremum
+<pb n="0879C"/>
+se transtulit. Ut igitur tria his propriis vocabulis
+distinguamus, prima est meditatio, secunda
+est speculatio, tertia est contemplatio. In meditatione
+mentem pia devotione succensam perturbatio
+carnalium passionum importune exsurgens obnubilat;
+in speculatione novitas insolitae visionis in admiratione
+sublevat; in contemplatione mirae dulcedinis
+gustus totam in gaudium et jucunditatem commutat.
+Igitur in meditatione est sollicitudo, in speculatione
+admiratio, in contemplatione dulcedo.</p>
+        </div3>
+<div3>
+          <head>10.</head>
+          <p>
+ <hi>Tria in expositione.</hi> Expositio tria continet,
+litteram, sensum, sententiam. Littera est congrua
+ordinatio dictionum, quam etiam constructionem
+vocamus. Sensus est facilis quaedam et apta figuratio,
+<pb n="0879D"/>
+quam littera prima fronte praefert. Sententia
+est profundior intelligentia, quae nisi expositione vel
+interpretatione non invenitur. In his ordo ut primum
+littera, deinde sensus, postea sententia requiratur:
+quo facto, perfecta est expositio.</p>
+        </div3>
+<div3>
+          <head>11.</head>
+          <p>
+ <hi>Vanitatum tria genera.</hi> Tria sunt genera vanitatum,
+prima est vanitas mutabilitatis quae omnibus
+rebus caducis inest per conditionem. Secunda est
+<pb n="0880A"/>
+vanitas curiositatis vel cupiditatis, quae mentibus
+hominum inest per rerum transientium et vanarum
+inordinatam dilectionem. Tertia est vanitas mortalitatis,
+quae corporibus humanis inest per poenalitatem.</p>
+        </div3>
+<div3>
+          <head>12.</head>
+          <p>
+ <hi>Eloquentiae munia.</hi> Dixit quidam eloquens et
+verum dixit, ita dicere debere eloquentem, ut doceat,
+ut delectet, ut flectat <note>(S. AUGUST. lib. IV De doct.
+Christ., cap. 14)</note>. Demum addidit: Docere necessitatis
+est, delectare suavitatis, flectere victoriae. Horum
+trium quod primo loco positum est, hoc est
+docendi necessitas in rebus est constituta quas dicimus,
+reliqua duo in modo quo dicimus. Qui ergo
+dicendo nititur persuadere quod bonum est, nihil horum
+spernens, ut scilicet doceat, ut delectet, ut flectat;
+<pb n="0880B"/>
+oret atque agat ut intelligenter, ut libenter,
+ut obedienter audiatur. Quod cum apte et convenienter
+fit non immerito eloquens dici potest, etsi
+non eum sequatur auditoris assensus. Ad haec tria,
+id est ut doceat, ut delectet, ut flectat, etiam tria
+illa videtur pertinere voluisse idem ipse Romani
+auctor eloquii, cum itidem dicit: Is igitur erit eloquens,
+qui poterit parva submisse, modica temperate,
+magna granditer dicere. Discat quidem omnia
+quae docenda sunt qui et nosse vult, et docere, facultatemque
+dicendi ut decet virum ecclesiasticum
+comparet. Qui vero dicit cum docere vult, quandiu
+non intelligitur; nondum se existimet dixisse quod
+vult, ei quem vult docere; quia, etsi dixit quod ipse
+intelligit, nondum ipsi dixisse putandus est a quo
+<pb n="0880C"/>
+intellectus non est. Si vero intellectus est, quocunque
+modo dixerit, dixit. Divinarum igitur debet
+Scripturarum doctor et defensor rectae fidei, et debellator
+erroris, et bona docere, atque in hoc opere
+sermonis conciliare aversos, remissos erigere, nescientibus
+quid agitur, quid exspectare debeant
+intimare. Ubi autem benivolos, intentos, dociles aut
+invenerit, aut ipse fecerit, caetera peragenda sunt,
+sicut causa postulat. Si docendi sunt qui audiunt,
+narratione faciendum est; si tamen indigeat ut res
+de qua agitur innotescat. Ut autem quae dubia sunt
+certa fiant; documentis adhibitis ratiocinandum est.
+</p>
+          <p>
+            <emph>ALCUINUS.</emph>
+          </p>
+<p>
+            <pb n="0880D"/>Et Marcus Tullius ait: Thesaurus est omnium
+rerum memoria, quae nisi custos cogitatis inventisque
+rebus et verbis adhibeatur; intelligimus omnia,
+etiamsi praeclare fuerint, in oratore peritura. Non
+habemus alia ejus praecepta nisi discendi exercitationem
+et scribendi usum et cogitandi studium et de
+ebrietate cavenda, quae omnibus bonis studiis nocet
+et menti adimit integritatem.
+
+</p>
+        </div3>
+      </div1>
+</body>
+  </text>
+</TEI>

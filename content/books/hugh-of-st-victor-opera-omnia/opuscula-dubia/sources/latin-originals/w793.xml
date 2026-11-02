@@ -1,0 +1,245 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De VII vitis et VII donis</title>
+              <author>Auctor incertus (Augustinus Hipponensis?); Auctor incertus (Hugo de S. Victore?)<date/> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1841</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 40</title>
+           <idno>AuInAuH.DeViViE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De VII vitis et VII donis</head>
+
+<p>Vitium quid, et quando culpa. Quotuplex et cujusque definitio.</p>
+<p>Septem sunt vitia principalia, quae rationalem naturam
+inficiunt, et ejus integritatem quasi quodam
+suae admixtionis fermento corrumpunt. Vitium
+autem est corruptio naturalis affectus praeter ordinem,
+et extra mensuram. Hoc vero cum per
+consensum recipitur, peccatum est; sentire autem
+solum sine consensu, poena est et non culpa. Sane
+in non regeneratis vitium omnino excusationem non
+habet, ubi etsi consensus non sequitur, solum hoc
+damnationi debitum est, quod praeter rationem movetur;
+propter quod ait Apostolus, <hi>Jam nihil damnationis
+est his, qui sunt in Christo Jesu <note>(Rom. VIII, 1)</note>
+          </hi>.
+Primum vitium est, superbia: secundum, invidia:
+tertium, ira: quartum, acedia: quintum, avaritia:
+sextum, gula: septimum, luxuria. Superbia est amor
+propriae excellentiae. Invidia est livor felicitatis alienae.
+Ira est irrationabilis perturbatio mentis. Acedia
+est fastidium interni boni. Avaritia est immoderata
+habendi cupiditas. Gula est nimius edendi appetitus.
+Luxuria est immoderatum desiderium explendae libidinis.
+Haec ergo sunt vitia septem, de quibus universa
+rationalis animae corruptio manat: omne enim
+quod integritatem corrumpit, vitium est. Sed est alia
+integritas, etc.
+</p>
+      </div1>
+
+<div1>
+        <head>CASTIGATIONES ET VARIAE LECTIONES IN EUMDEM TRACTATUM.</head>
+<p>Editio Hugonis antiquior Parisiensis anni 1526, apud
+Badium, tom. 1, fol. 206, c, Allegoriarum in Matthaeum
+cap. 3, <hi>Corruptus vero amor per concupiscentiam animae
+turpitudo est.</hi> Vignierius in Supplemento, <hi>Corruptus vero
+amor per concupiscentiam tollit sanitatem. Claritas enim
+cognitionis quasi quaedam animae pulchritudo est: sinceritas
+vero,</hi> etc.</p>
+<p>Ibid. e, cap. 4, <hi>caetera vero obsequentia vitia.</hi> Lege ex
+Vignerio, <hi>subsequentia vitia.</hi> </p>
+<p>Ibid. h, post, <hi>simul vero omnia blasphemant;</hi> Vignierius
+addit, <hi>Dominum;</hi> et mox habet, <hi>summum bonum,</hi> ubi
+Hugo, <hi>bonum suum.</hi> </p>
+<p>Fol. 207, I, cap. 5, post, <hi>propter hoc Dei Filius,</hi> addendum, <hi>qui;</hi> 
+ et mox, <hi>non rationabilis esse potuisset:</hi> legendum, <hi>rationabilis esse non potuisset.</hi> 
+ Et paulo post, <hi>quod inordinatus
+est, vitium est;</hi> pro, <hi>quod inordinatum est, vitium
+esse.</hi> </p>
+<p>Ibid. m, cap. 6, <hi>septem antidota specialia,</hi> Vignerius, <hi>spiritualia;</hi> 
+forte minus bene. Deinde, <hi>quae tamen:</hi> forte
+legendum, <hi>quae tantum.</hi> </p>
+<p>Ibid. n, <hi>ut sequatur largitio ejus quod voluntas requirit.</hi> 
+Vignierius, <hi>ut subsequatur largitio, ut quod voluntate perdidit,
+voluntate requirat.</hi> </p>
+<p>Ibid. addendum, <hi>Adveniat regnum tuum. Contra iram
+opponitur tertia petitio;</hi> post voces, <hi>secunda petitio.</hi> </p>
+<p>Ibid. o, cap. 7, <hi>quasi captatio benevolentiae:</hi> et infra, <hi>haec pro commendatione captationis benevolentiae.</hi> 
+ Vignierius
+non legit vocem, <hi>benevolentiae;</hi> quam Hugo reticere
+solet, ut videre est lib. de Modo orandi, capp. 2 et 5.</p>
+<p>Ibid. pro, <hi>a praelatis,</hi> corrigendum, <hi>appellans.</hi> </p>
+<p>Ibid.: <hi>Illic namque quaerenda sunt.</hi> Apud Vignierium, <hi>Illic namque quaerenda est haereditas.</hi> </p>
+<p>Ibid. r, <hi>honorem Dei praeponimus.</hi> Apud Vignierium, <hi>honorem
+tuum praeponimus:</hi> et mox, <hi>tibi et tua,</hi> ubi apud
+Hugonem, <hi>tibi et Dei.</hi> </p>
+<p>208, t, cap. 8, post, <hi>audi iterum,</hi> Vignierius repetit verbum, <hi>audi.</hi> </p>
+<p>Ibid., <hi>bonus ad tantum bonum.</hi> Vignierius, <hi>bonus ad summum
+bonum.</hi> </p>
+<p>Ibid. u: <hi>Non te deinceps de ignavia excusare;</hi> corrigendum, <hi>de ignorantia.</hi> </p>
+<p>
+          <pb n="1090"/>Ibid. X, post, <hi>affectum malignitatis tuae;</hi> addit Vignierius, <hi>non defectum infirmitatis tuae.</hi> </p>
+<p>Ibid. z, cap. 9: <hi>Ibi nos per humilitatem superiori subjecimus.</hi> 
+Vignierius, <hi>subjicimus.</hi> </p>
+<p>209, b, cap. 10, <hi>orandum ut in coelo.</hi> Vignierius, <hi>orandum
+est,</hi> etc.</p>
+<p>Ibid. c, <hi>ut in eis voluntas tua fiat, imitentur illos,</hi> etc.,
+locus intricatus; apud Vignierium intricatior sic: <hi>Ut in eis
+voluntas Dei fiat, et praecedant corde quo secuturi sunt et
+corpore, nec imitentur illos qui adhuc animo terrae inhaerent
+et terra sunt.</hi> Sic corrigendus videtur: <hi>ut in eis voluntas
+Dei fit, et praecedunt corde . . . . . sic imitentur illos
+qui adhuc,</hi> et caetera ut apud Vignierium.</p>
+<p>Ibid., <hi>aut potestate tua corrigemur.</hi> Apud Vignierium, <hi>constringemur.</hi> </p>
+<p>Ibid. e, cap. 11, <hi>pasce habitatores.</hi> Addit Vignierius, <hi>tuos.</hi> </p>
+<p>Ibid. f, <hi>et nos amplius non colligimus nisi quanto uti.</hi> Melius
+Vignierius, <hi>et non amplius; non colligimus nisi quantum
+uti.</hi> </p>
+<p>Ibid., <hi>sine scientia excedat.</hi> Forte legendum, <hi>accedat.</hi> </p>
+<p>Ibid. g, <hi>intus habes panem</hi> Vignierius omittit, <hi>habes.</hi> </p>
+<p>Ibid., <hi>ipsa est esuriens.</hi> Vignierius, <hi>ipsa enim est,</hi> etc.</p>
+<p>Ibid. h: <hi>Hic est</hi> (Vignierius addit, <hi>dies) hodiernus quando.</hi> 
+Vignierius habet, <hi>hodiernus in quo:</hi> et mox, <hi>ad desiderium
+boni excitatur;</hi> cum vox, <hi>boni,</hi> apud Hugonem desideretur.</p>
+<p>210, k, <hi>da nobis hodie, da:</hi> legendum cum Vignierio, <hi>da
+nobis hodie. Hodie da.</hi> </p>
+<p>Ibid. l, cap. 12, <hi>qui tam fideliter conditionem proponit.</hi> 
+Melius Vignierius, <hi>qui tam fidenter,</hi> etc.</p>
+<p>Ibid., <hi>sentimus bonam</hi> (Vignierius addit, <hi>esse) misericordiam.</hi> </p>
+<p>Ibid. m, <hi>virtutis praestes affectum.</hi> Legendum cum Vignierio, <hi>effectum.</hi> </p>
+<p>Ibid. n, <hi>nobis congratuito.</hi> Vignierius, <hi>nobiscum gratum.</hi> 
+Forte, <hi>nobiscum gratuito.</hi> </p>
+<p>Ibid., <hi>nos viscera (misericordiae tuae,</hi> omittit Vignierius) <hi>affluentia,</hi> 
+ (addit vero, <hi>bonitate) consid.</hi> Forte singula haec
+verba retinenda.</p>
+<p>Ibid., <hi>tuo juri cedere.</hi> Vignierius, <hi>jure.</hi> </p>
+<p>Ibid. p, <hi>ut tamen eos puniamus.</hi> Vignierius, <hi>ut non eos puniamus.</hi> </p>
+<p>Ibid. r, cap. 13, <hi>non tam tentatio quam oppressio (est,</hi> 
+omittit Vignierius) <hi>si praevalet.</hi> Addit deinde, <hi>aut si non
+praevalet.</hi> </p>
+<p>Ibid. s, <hi>cum propter id quod.</hi> Vignierius, <hi>cum per id
+quod.</hi> </p>
+<p>211, t, <hi>itaque tentat</hi> (Vignierius addit, <hi>hoc) vitium.</hi> </p>
+<p>Ibid. y, cap. 14, <hi>nec possumus exire.</hi> Vignierius, <hi>erui.</hi> </p>
+<p>Ibid., <hi>Ecce</hi> (Vignierius addit, <hi>nos) soli sine te.</hi> Deinde inserto
+puncto, <hi>facti sumus,</hi> etc.</p>
+<p>Ibid., <hi>et non est sicut caetera mala.</hi> Abundat, <hi>est.</hi> </p>
+<p>Ibid. y, z, <hi>pestiferae dilectionis</hi> (Vignierius, <hi>delectationis)
+persuasione.</hi> </p>
+<p>Ibid. z, <hi>aestimare forte poterat.</hi> Vignierius, <hi>existimare.</hi> </p>
+<p>Ibid., <hi>quod jam non potest celari.</hi> Vignierius, <hi>hoc jam,</hi> etc
+</p>
+      </div1>
+
+<div1>
+        <head>DE DONIS SPIRITUS SANCTI. IN ILLUD LUCAE: <hi>Si enim vos cum sitis mali, <note>(Luc. XI, 13)</note>
+          </hi>, etc.</head>
+<p>Scriptum est: <hi>Si enim vos cum sitis mali, nostis bona
+data; dare filiis vestris <note>(Ibid.)</note>
+          </hi>, <hi>quanto magis
+Pater vester coelestis dabit spiritum bonum petentibus
+se?</hi> Ergo spiritum dabit Pater coelestis filiis suis petentibus
+se. Qui enim filii sunt, non aliud quaerunt:
+qui aliud quaerunt, mercenarii sunt, servi non filii.
+Qui argentum quaerunt, qui aurum quaerunt, qui transitoria
+quaerunt, qui terrena quaerunt, quaerunt ministerium
+servitutis, non spiritum libertatis. Quod
+quaeritur, datur. Si quaeris corporalia, non plus quam
+<pb n="1091"/>
+quaeris accipis. Si quaeris spiritualia, quod quaeris datur,
+et quod non quaeris adjicitur; spiritualia dantur,
+corporalia adjiciuntur. <hi>Quaerite primum regnum Dei,
+et haec omnia adjicientur vobis <note>(Matth. VI, 33)</note>
+          </hi>. Igitur
+Patrem rogaraturus, etc.</p>
+</div1>
+
+<div1>
+        <head>CASTIGATIONES ET VARIAE LECTIONES IN EUMDEM TRACTATUM.</head>
+<p>Editio Hugonis Badiana Parisiensis, tom. 1, fol. 213, o, <hi>petentibus se.</hi> 
+ Vignierius addit, <hi>dabit spiritum bonum, dabit
+spiritum suum.</hi> Tum prosequitur, <hi>davit spiritum suum,</hi> etc.</p>
+<p>Ibid. p, <hi>quia pius est.</hi> Forte legendum, <hi>quia pater est.</hi> </p>
+<p>
+          <pb n="1092"/>Ibid. q, inter verba, <hi>corruptionem, elationem et sanitatem,
+humilitatem;</hi> Vignierius inserit, <hi>id est.</hi> </p>
+<p>Ibid., <hi>et spirius sunt dona.</hi> Vignierius omittit, <hi>dona,</hi> 
+214. r, <hi>ipse</hi> (Vignierius <hi>est) pietas.</hi> </p>
+<p>Ibid. s, <hi>medicina propter te.</hi> Melius Vignierius, <hi>pro te.</hi> </p>
+<p>Ibid., <hi>poenam non habet.</hi> Vignierius, <hi>pacem non habet.</hi> 
+minus bene.</p>
+<p>Ibid., <hi>tu</hi> (Vignierius, <hi>autem) ex eo quod contrarium,</hi> etc.</p>
+<p>Ibid. t, <hi>quia non respiciebas.</hi> Vignierius, <hi>quia non sentiebas.</hi> </p>
+<p>Ibid. u, <hi>saltem in tribulatione.</hi> Apud Vignierium, <hi>in retributione:</hi> 
+et mox, <hi>afficeris;</hi> loco, <hi>affligeris.</hi> </p>
+<p>Ibid., <hi>aliud est quod vides.</hi> Vignierius, <hi>aliud est ad quod
+vides.</hi> </p>
+<p>Ibid. y, forte legendum, <hi>non in hoc malam quod liberat:
+malum, inquam, non malam.</hi> 
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,226 @@
+{
+  "id": "hugh-opuscula-dubia",
+  "cover": "classic",
+  "name": {
+    "la": "Opuscula dubia",
+    "en-US": "Doubtful Opuscula",
+    "pt-BR": "Opúsculos duvidosos"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De septem vitiis et septem donis; De substantia dilectionis; De modo dicendi et meditandi (Hugoni attributa, incerta).",
+    "en-US": "Three short pieces which PL gives to Hugh and Corpus Corporum files as uncertain: On the Seven Vices and the Seven Gifts, On the Substance of Love and On the Way of Speaking and Meditating. Latin only, from the Migne text (Patrologia Latina 40, 1841), a machine-corrected OCR.",
+    "pt-BR": "Três peças breves que Migne atribui a Hugo e que o Corpus Corporum considera incertas: os sete vícios e os sete dons, a substância do amor e o modo de falar e meditar."
+  },
+  "composed": "12th century",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/opuscula-dubia",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 40)",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AuInAuH.DeViViE",
+      "edition": "Migne, Patrologia Latina 40 (Paris 1841); TEI XML of the Corpus Corporum (University of Zurich), text AuInAuH.DeViViE, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AuInAuH.DeSuDi",
+      "edition": "Migne, Patrologia Latina 40 (Paris 1841); TEI XML of the Corpus Corporum (University of Zurich), text AuInAuH.DeSuDi, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AuInHuD.DeMoDiE",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text AuInHuD.DeMoDiE, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "De septem vitiis et septem donis"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "De VII vitis et VII donis"
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Castigationes et variae lectiones in eumdem tractatum."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "De donis spiritus sancti. In illud lucae: Si enim vos cum sitis mali, (Luc. XI, 13), etc."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Castigationes et variae lectiones in eumdem tractatum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "De substantia dilectionis"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput primum. Amoris duo rivi, charitas et cupiditas. Inde omne bonum vel malum. Amor motus est unus et multiplex."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput II. Amor quid sit. Malum quid."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput III. Beatitudinis capaces ex Dei gratia. Per amorem fiunt participes."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput IV. De gemino charitatis funiculo."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput V. Ordinata charitas: Respectu Dei, respectu proximi, respectu mundi."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput VI. Amor nunquam vacat. Cordis vera requies. An hic perfecta."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput VII. Quomodo comparanda. Fides navis in hujus mundi fluctibus. Unde aedificanda."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "De modo dicendi et meditandi"
+      },
+      "children": [
+        {
+          "id": "c012",
+          "title": {
+            "la": "Admonitio"
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Sectio 1"
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Sectio 2"
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Sectio 3"
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Sectio 4"
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Sectio 5"
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Sectio 6"
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Sectio 7"
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Sectio 8"
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Sectio 9"
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Sectio 10"
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Sectio 11"
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Sectio 12"
+          }
+        }
+      ]
+    }
+  ]
+}

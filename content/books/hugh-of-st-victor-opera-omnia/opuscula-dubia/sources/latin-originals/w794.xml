@@ -1,0 +1,341 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De substantia dilectionis</title>
+              <author>Auctor incertus (Augustinus Hipponensis?); Auctor incertus (Hugo de S. Victore?)<date/> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1841</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 40</title>
+           <idno>AuInAuH.DeSuDi</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head>CAPUT PRIMUM. <hi>Amoris duo rivi, charitas et cupiditas. Inde omne bonum vel malum. Amor motus est unus et multiplex.</hi> </head>
+<p>Quotidianum de dilectione sermonem
+serimus, ne forte scintillet in cordibus nostris
+et exardescat ignis flammam faciens, aut totum consumens,
+aut purgans totum. Ex eo namque totum est,
+quod bonum est: et totum quod malum est, ex eo est.
+Unus fons dilectionis intus saliens, duos rivos effundit:
+alter est amor mundi, cupiditas; alter est amor
+Dei, charitas. Medium quippe est cor hominis, unde
+fons amoris erumpit: et cum per appetitum ad exteriora
+decurrit, cupiditas dicitur; cum vero desiderium
+suum ad interiora dirigit, charitas nominatur. Ergo
+duo sunt rivi, qui de fonte dilectionis emanant, cupiditas
+<pb n="0844"/>
+et charitas: et omnium malorum radix cupiditas,
+et omnium bonorum radix charitas. Ex eo igitur
+totum est, quod bonum est; et totum quod malum
+est, ex eo est. Quidquid ergo illud est, magnum est
+quod in nobis est; et ex eo totum est, quod ex nobis
+est: hoc autem est amor. Quid est amor, et quantum
+est amor, aut unde est amor? Et sermo Dei de
+amore loquitur. Numquid hoc negotium non potius
+illorum est, qui pudicitiam prostituere consueverunt?
+Ecce quam multi qui ejus ministeria volentes suscipiunt:
+et quam pauci qui verba ejus in medium proferre
+non erubescunt! Quid ergo nos facimus? Forsitan
+multa improbitate frontem fractam habemus, qui
+<pb n="0845"/>
+non verecundamur amorem indictatum sonare: quem
+et impudici aliquando non possunt sine verecundia
+verbis exprimere. Sed aliud est investigare vitium, ut
+eradicetur; aliud exhortari ad vitium, ut virtus et veritas
+non ametur. Nos igitur investigamus et quaerimus,
+ut sciamus, et scientes caveamus, quod illi investigant,
+ut sciant, sed sciant ut faciant, quid illud
+in nobis sit, quod desideria nostra sic multifariam dividit,
+et cor unum in diversa deducit. Invenimus autem
+hoc aliud non esse praeter amorem: qui cum sit
+motus cordis secundum naturam singularis et unicus,
+secundum actionem autem divisus, cum se inordinate
+movet, id est, ad ea quae non debet, cupiditas dicitur;
+cum vero ordinatus est, charitas appellatur.
+Ipsum igitur hunc cordis motum, quem amorem appellamus,
+qua definitione significare poterimus? Expedit
+nobis propius intueri eum, ne lateat aliquatenus,
+et non sciatur; proptereaque nec caveatur cum
+malus est, nec appetatur aut inveniatur cum bonus;
+de quo et cum malus est tanta mala veniunt, et cum
+bonus est tanta bona procedunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT II. <hi>Amor quid sit. Malum quid.</hi> </head>
+<p>Ipsum igitur
+quomodo definimus? Investigemus, consideremus;
+quia occultum est quod quaeritur, quantoque interius
+collocatum est, tanto magis in utraque parte cordi
+dominatur. Illud igitur videtur esse amor. Et amor
+est delectatio cordis alicujus ad aliquid propter aliquid,
+desiderium in appetendo, et in perfruendo gaudium,
+per desiderium currens, requiescens per gaudium.
+Hinc bonum est, et hinc malum est cor humanum;
+quia nec aliunde bonum es, si bonum es,
+nec aliunde malum es, si malum es, nisi quod vel
+bene vel male amas quod bonum est. Nam omne quod
+est, bonum est: sed cum id quod bonum est male
+amatur, illud bonum non est, et hoc malum est.
+Igitur nec qui amat, malum est; nec quod amat, malum
+est; nec amor quo amat, malum est: sed quod
+male amat, malum est, et hoc omne malum est.
+Ordinate ergo charitatem, et jam malum nullum
+est.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III. <hi>Beatitudinis capaces ex Dei gratia. Per amorem fiunt participes.</hi> </head>
+<p>Magnam rem commendare
+volumus, si tamen valemus quod volumus. Omnipotens
+Deus, qui nullo indiget, quia ipse summum et
+verum bonum est; qui nec de alieno accipere potest
+quo crescat, quoniam ex ipso sunt omnia; nec de suo
+amittere quo decidat, quoniam in ipso immutabiliter
+consistunt universa: ipse rationalem spiritum creavit
+sola charitate, nulla necessitate, ut eum suae beatitudinis
+participem faceret. Porro ut idem aptus esset
+tanta beatitudine perfrui, fecit in eo dilectionem spiritualem,
+palatum cordis quodam modo per hanc sensificans
+ad gustum dulcedinis internae: quatenus per
+ipsam videlicet dilectionem, suae felicitatis jucunditatem
+saperet, eique infatigabili desiderio inhaereret.
+Per dilectionem ergo copulavit sibi Deus,
+creaturam rationalem, ut ei semper inhaerendo ipsum
+quo beatificanda erat bonum, et ex ipso quodam
+modo per affectum sugeret, et de ipso per desiderium
+biberet, et in ipso per gaudium possideret.
+Suge, o apicula, suge; suge et bibe, dulcoris tui inenarrabilem
+suavitatem. Immergere, et replere; quia
+ille deficere nescit, si tu non incipias fastidire. Adhaere
+ergo et inhaere, sume et fruere: si sempiternus
+gustus fuerit, sempiterna quoque beatitudo erit. Non
+jam pudeat nos neque poeniteat de amore fecisse verbum:
+non poeniteat ubi tanta utilitas, non pudeat ubi
+talis honestas.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV. <hi>De gemino charitatis funiculo.</hi> </head>
+<p>Igitur
+per amorem sociata est factori suo creatura rationalis,
+solumque est dilectionis vinculum quod ligat utrosque
+in idipsum, et tanto felicius, quanto fortius. Propter
+<pb n="0846"/>
+quod etiam ut indivisa societas et concordia utrobique
+perfecta haberetur, geminatus est nexus, in charitate
+Dei et proximi: ut per charitatem Dei omnes uni cohaererent,
+per charitatem proximi omnes ad invicem
+unum fierent; ut quod de illo uno, cui omnes inhaerebant,
+quisque in semetipso non caperet, plenius
+atque perfectius per charitatem proximi in altero possideret,
+et bonum omnium fieret totum singulorum.
+Ordinate ergo charitatem. Quid est, ordinate charitatem?
+Si desiderium est amor, bene currat; si gaudium
+est, bene requiescat. Est enim amor, sicut
+dictum est, delectatio cordis alicujus ad aliquid propter
+aliquid, desiderium in appetendo, et in perfruendo
+gaudium, per desiderium currens, et requiescens per
+gaudium, currens ad illud, et requiescens in illo. Ad
+quid, aut in quo?</p>
+</div2>
+
+<div2>
+        <head>CAPUT V. <hi>Ordinata charitas: respectu Dei, respectu proximi, respectu mundi.</hi> </head>
+<p>Audite, si forte explicare
+possimus quo currere debeat amor noster, aut
+in quo requiescere. Tria quaedam sunt quae amari bene
+aut male possunt; id est, Deus, proximus, et mundus.
+Deus supra nos est, proximus juxta nos est, mundus
+subtus nos est. Ordinate ergo charitatem. Si currit,
+bene currat; si requiescit, bene requiescat. Desiderium
+currit, gaudium requiescit. Propter quod gaudium
+uniforme est, quia semper in uno est, nec
+vicissitudine variari potest: desiderium autem motus
+mutabilitatem suscipit, et idcirco non se continet in
+uno, sed varias species repraesentat. Omnis namque
+cursus aut de illo est, aut cum illo, aut in illo ad quod
+est. Quomodo ergo currere debet desiderium nostrum?
+Tria sunt, Deus, proximus, mundus. Tria Deus, duo
+proximus, unum mundus habeat in cursu desiderii
+nostri; et est in desiderio ordinata charitas. Amor
+namque per desiderium et de Deo, et cum Deo, et in
+Deum ordinate currere potest. De Deo currit, quando
+de ipso accipit unde eum diligit. Cum Deo currit,
+quando ejus voluntati in nullo contradicit. In Deum
+currit, quando in ipso requiescere appetit. Haec sunt
+tria quae ad Deum pertinent. Duo autem sunt proximi.
+Potest enim desiderium de proximo et cum proximo
+currere, sed in proximum non potest. De proximo,
+ut de ejus salute gaudeat et profectu. Cum proximo,
+ut eum in via Dei comitem itineris et socium perventionis
+habere concupiscat. Sed in proximum non potest,
+ut scilicet in homine spem et fiduciam suam
+constituat. Haec sunt duo quae ad proximum pertinent;
+id est, de ipso, et cum ipso, et non in ipsum. Unum
+est mundi, de ipso currere; non cum ipso, aut in
+ipsum. De mundo enim desiderium currit, quando
+inspecto foris Dei opere, per admirationem et laudem
+ardentius intus ad ipsum se convertit. Cum mundo
+curreret, si se pro mutabilitate temporalium, sive
+dejiciendo in adversis, sive elevando in prosperis,
+huic conformaret. In mundum curreret, si in ejus delectationibus
+semper requiescere vellet. Ordinate ergo
+charitatem, ut per desiderium currat de Deo, cum
+Deo, et in Deum: de proximo, cum proximo, et non
+in proximum: de mundo, nec cum mundo, nec in
+mundum, ut in solo Deo requiescat per gaudium. Haec
+est ordinata charitas, et praeter ipsam omne quod
+agitur, non ordinata charitas est, sed inordinata cupiditas.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI. <hi>Amor nunquam vacat. Cordis vera requies. An hic perfecta.</hi> </head>
+<p>Vita cordis amor est, et idcirco
+omnino impossibile est ut sine amore sit cor quod
+vivere cupit. Quid hinc sequatur, considera. Si enim
+humana mens sine amore esse non potest, aut se
+ipsam, aut certe aliud aliquid a se diligat necesse est.
+Quia vero in se ipsa perfectum bonum non invenit,
+si se solam diligeret, felix amor non esset. Oportet
+ergo, si feliciter amare desiderat, aliud aliquid praeter
+se quod amet inquirat. Si autem imperfectum aliquid
+extra se amare coeperit, amorem quidem suum irritat,
+<pb n="0847"/>
+sed miseriam non excludit. Feliciter ergo non diligit,
+donec ad verum et summum bonum per amoris desiderium
+se convertit. Quia vero summum et verum
+bonum Deus est solus, ille feliciter amat, qui Deum
+amat, et tanto felicius quanto amplius. Haec igitur est
+vera cordis nostri requies, cum in amore Dei per desiderium
+figitur, nec ultra quidquam appetit, sed in
+eo quod tenet, quadam felici securitate delectatur.
+Quia enim illud nec appetitus ultra protrahit, nec timor
+repellit, quodam modo in idipsum jucunditatis
+sine vexatione requiescit. Sed quia humanae mentis
+infirmitas, ut non dicam semper, sed vix aliquando in
+illam divinae contemplationis dulcedinem figi potest,
+quodam interim studio ad illam, ad quam necdum
+pertingere sufficit, stabilitatem assuefacienda est: id
+est, si Deum semper cogitare non possumus, saltem
+cor nostrum ab illicitis et vanis cogitationibus restringendo,
+in consideratione operum Dei et mirabilium
+ejus illud teneamus; ut dum semper minus instabiles
+esse satagimus, tandem aliquando donante Deo vere
+stabiles fieri valeamus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII. <hi>Quomodo comparanda. Fides navis in hujus mundi fluctibus. Unde aedificanda.</hi> </head>
+<p>Ut autem
+promotionis hujus aliquod tibi exemplum subjiciam,
+universus iste mundus quasi quoddam diluvium est,
+eo quod omnia quae in hoc mundo sunt, ad similitudinem
+aquae incertis eventibus fluctuando decurrant.
+Vera autem fides, quae non transitoria, sed aeterna
+promittit, quasi a quibusdam fluctibus, sic a mundi
+hujus cupiditate in superna animum attollit: et portari
+quidem ab aquis potest, sed mergi omnino non
+potest; quia ad necessitatem hoc mundo utitur, sed
+ejus desideriis per affectum non implicatur. Quisquis
+ergo aeterna non credens, sola quae transeunt appetit,
+<pb n="0848"/>
+hunc quasi sine navi laborantem in fluctibus, impetus
+aquae decurrentis secum trahit. Qui vero aeterna credens,
+transitoria diligit, hic juxta navem naufragium
+facit. Qui autem aeterna bona et credit, et diligit, hic
+in navi positus, fluctuantis maris undas securus pertransit:
+et quia per desiderium fidei navem non
+transgreditur, jam quodam modo in fluctibus terrae
+stabilitatem imitatur. Primum ergo, si hoc mare magnum
+illaesi pertransire volumus, fabricemus navem,
+ut fidem integram habeamus; deinde navem fidei inhabitemus
+per charitatem, ut et credamus quod diligere
+debemus, et diligamus quod credimus: sicque
+et lex Dei in corde nostro sit per rectae fidei cognitionem,
+et cor nostrum in lege Dei sit per dilectionem.</p>
+<p>Sed ut facilius cognoscas quomodo vel unde hanc,
+quam dixi, navem vel arcam in corde tuo aedificare
+debeas, per quam hujus diluvii naufragio eductus, ad
+portum quietis pervenias; duo opera Dei considera,
+videlicet opus conditionis, et opus restaurationis.
+Opus autem conditionis est creatio coeli et terrae, et
+omnium quae in eis continentur, quae sex diebus facta
+sunt. Opus vero restaurationis, incarnatio Verbi, et
+omnia quae a principio mundi usque ad finem, vel ad
+eam praenuntiandam praecesserunt, vel ad ipsam confirmandam
+secutura sunt: quae omnia sex aetatibus
+fiunt. Sed opera restaurationis magis pertinent ad
+fidem catholicam, quae idcirco sancti amplius diligunt,
+quia in eis suae salutis remedia agnoscunt. Haec
+autem partim per homines, partim per Angelos, partim
+per semetipsum operatus est Deus: ut in arca
+spirituali prima sit mansio opera hominum, secunda
+opera Angelorum, tertia opera Dei, supremus cubitus,
+auctor universorum Deus.
+
+</p>
+      </div2>
+</body>
+  </text>
+</TEI>
