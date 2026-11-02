@@ -1,0 +1,99 @@
+{
+  "id": "faber-bethlehem",
+  "cover": "classic",
+  "name": {
+    "en-US": "Bethlehem",
+    "pt-BR": "Belém"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "Faber's treatise of 1860 on the Incarnation and the Holy Infancy, in nine chapters: the bosom of the Eternal Father, the bosom of Mary, the midnight cave, the first worshippers, the Infant God, soul and body, Calvary before its time, Heaven already and the feet of the Eternal Father, with a prefatory epistle to Fr. William Antony Hutchison.",
+    "pt-BR": "O tratado de Faber (1860) sobre a Encarnação e a Santa Infância, em nove capítulos: o seio do Pai Eterno, o seio de Maria, a gruta da meia-noite, os primeiros adoradores, o Deus Menino, alma e corpo, o Calvário antes do tempo, o Céu já e os pés do Pai Eterno, com uma epístola prefacial ao Pe. William Antony Hutchison."
+  },
+  "composed": 1860,
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/bethlehem",
+  "editions": {
+    "en-US": {
+      "editor": "Fr. Frederick William Faber (London: Burns and Lambert, 1860; this printing 1900)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/bethlehem00fabeuoft",
+      "edition": "Bethlehem (London: Burns and Oates, 1900 reprint of the 1860 edition), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The prefatory epistle is kept; the contents page and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fr. Frederick William Faber died in 1863 and the edition is of 1900, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prefatory-epistle",
+      "title": {
+        "en-US": "Prefatory Epistle"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The Bosom of the Eternal Father"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The Bosom of Mary"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. The Midnight Cave"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The First Worshippers"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. The Infant God"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. Soul and Body"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII. Calvary Before its Time"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII. Heaven Already"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter IX. The Feet of the Eternal Father"
+      }
+    }
+  ]
+}

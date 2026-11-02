@@ -1,0 +1,40 @@
+{
+ "id": "faber-bethlehem",
+ "dir": "faber-opera-omnia/bethlehem",
+ "slug": "bethlehem",
+ "work": "faber/bethlehem",
+ "name": "Bethlehem",
+ "name_pt": "Bel\u00e9m",
+ "author": "Fr. Frederick William Faber",
+ "author_pt": "Pe. Frederick William Faber",
+ "died": 1863,
+ "desc": "Faber's treatise of 1860 on the Incarnation and the Holy Infancy, in nine chapters: the bosom of the Eternal Father, the bosom of Mary, the midnight cave, the first worshippers, the Infant God, soul and body, Calvary before its time, Heaven already and the feet of the Eternal Father, with a prefatory epistle to Fr. William Antony Hutchison.",
+ "desc_pt": "O tratado de Faber (1860) sobre a Encarna\u00e7\u00e3o e a Santa Inf\u00e2ncia, em nove cap\u00edtulos: o seio do Pai Eterno, o seio de Maria, a gruta da meia-noite, os primeiros adoradores, o Deus Menino, alma e corpo, o Calv\u00e1rio antes do tempo, o C\u00e9u j\u00e1 e os p\u00e9s do Pai Eterno, com uma ep\u00edstola prefacial ao Pe. William Antony Hutchison.",
+ "composed": 1860,
+ "editor": "Fr. Frederick William Faber (London: Burns and Lambert, 1860; this printing 1900)",
+ "year": 1900,
+ "url": "https://archive.org/details/bethlehem00fabeuoft",
+ "edition": "Bethlehem (London: Burns and Oates, 1900 reprint of the 1860 edition), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The prefatory epistle is kept; the contents page and the index are dropped.",
+ "src": "faber/ia/bethlehem00fabeuoft_djvu.txt",
+ "start": 255,
+ "end": 20928,
+ "levels": [
+  "CHAPTER"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "prefatory-epistle",
+   "title": "Prefatory Epistle",
+   "from": 54,
+   "to": 196
+  }
+ ],
+ "back": [],
+ "label": {},
+ "romanheads": false,
+ "titles": {
+  "5": "The Infant God"
+ }
+}
