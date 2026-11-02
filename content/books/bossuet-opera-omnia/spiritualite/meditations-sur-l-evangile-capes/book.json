@@ -1,0 +1,262 @@
+{
+  "id": "bossuet-sermon-on-the-mount-capes",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Sermon on the Mount",
+    "pt-BR": "O Sermão da Montanha"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "en-US": "Thirty-seven of the day-by-day meditations on the Sermon on the Mount from Bossuet’s Meditations on the Gospel, translated by F. M. Capes (Longmans, Green, 1900). The days keep the numbering of the French (Journées) and the text is an uncorrected OCR of the Google scan.",
+    "pt-BR": "Trinta e sete das meditações diárias sobre o Sermão da Montanha das Meditações sobre o Evangelho de Bossuet, traduzidas por F. M. Capes (Longmans, Green, 1900). Os dias conservam a numeração do francês (Journées) e o texto é um OCR não corrigido da digitalização do Google."
+  },
+  "composed": "1695",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bossuet/meditations-sur-l-evangile-capes",
+  "editions": {
+    "en-US": {
+      "translator": "F. M. Capes",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/SermonOnTheMount1900",
+      "edition": "The Sermon on the Mount, from Meditations on the Gospels, with a short introduction by F. M. Capes, London, Longmans, Green and Co., 1900",
+      "description": "archive.org OCR of the Google scan; running heads and page numbers removed, line-end hyphens joined; OCR errors left.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1900."
+    }
+  ],
+  "toc": [
+    {
+      "id": "day-01",
+      "title": {
+        "en-US": "Day 1"
+      }
+    },
+    {
+      "id": "day-02",
+      "title": {
+        "en-US": "Day 2"
+      }
+    },
+    {
+      "id": "day-03",
+      "title": {
+        "en-US": "Day 3"
+      }
+    },
+    {
+      "id": "day-04",
+      "title": {
+        "en-US": "Day 4"
+      }
+    },
+    {
+      "id": "day-05",
+      "title": {
+        "en-US": "Day 5"
+      }
+    },
+    {
+      "id": "day-06",
+      "title": {
+        "en-US": "Day 6"
+      }
+    },
+    {
+      "id": "day-07",
+      "title": {
+        "en-US": "Day 7"
+      }
+    },
+    {
+      "id": "day-08",
+      "title": {
+        "en-US": "Day 8"
+      }
+    },
+    {
+      "id": "day-09",
+      "title": {
+        "en-US": "Day 9"
+      }
+    },
+    {
+      "id": "day-10",
+      "title": {
+        "en-US": "Day 10"
+      }
+    },
+    {
+      "id": "day-11",
+      "title": {
+        "en-US": "Day 11"
+      }
+    },
+    {
+      "id": "day-12",
+      "title": {
+        "en-US": "Day 12"
+      }
+    },
+    {
+      "id": "day-13",
+      "title": {
+        "en-US": "Day 13"
+      }
+    },
+    {
+      "id": "day-14",
+      "title": {
+        "en-US": "Day 14"
+      }
+    },
+    {
+      "id": "day-15",
+      "title": {
+        "en-US": "Day 15"
+      }
+    },
+    {
+      "id": "day-16",
+      "title": {
+        "en-US": "Day 16"
+      }
+    },
+    {
+      "id": "day-17",
+      "title": {
+        "en-US": "Day 17"
+      }
+    },
+    {
+      "id": "day-18",
+      "title": {
+        "en-US": "Day 18"
+      }
+    },
+    {
+      "id": "day-19",
+      "title": {
+        "en-US": "Day 19"
+      }
+    },
+    {
+      "id": "day-20",
+      "title": {
+        "en-US": "Day 20"
+      }
+    },
+    {
+      "id": "day-21",
+      "title": {
+        "en-US": "Day 21"
+      }
+    },
+    {
+      "id": "day-24",
+      "title": {
+        "en-US": "Day 24"
+      }
+    },
+    {
+      "id": "day-25",
+      "title": {
+        "en-US": "Day 25"
+      }
+    },
+    {
+      "id": "day-27",
+      "title": {
+        "en-US": "Day 27"
+      }
+    },
+    {
+      "id": "day-28",
+      "title": {
+        "en-US": "Day 28"
+      }
+    },
+    {
+      "id": "day-29",
+      "title": {
+        "en-US": "Day 29"
+      }
+    },
+    {
+      "id": "day-30",
+      "title": {
+        "en-US": "Day 30"
+      }
+    },
+    {
+      "id": "day-32",
+      "title": {
+        "en-US": "Day 32"
+      }
+    },
+    {
+      "id": "day-33",
+      "title": {
+        "en-US": "Day 33"
+      }
+    },
+    {
+      "id": "day-34",
+      "title": {
+        "en-US": "Day 34"
+      }
+    },
+    {
+      "id": "day-36",
+      "title": {
+        "en-US": "Day 36"
+      }
+    },
+    {
+      "id": "day-38",
+      "title": {
+        "en-US": "Day 38"
+      }
+    },
+    {
+      "id": "day-39",
+      "title": {
+        "en-US": "Day 39"
+      }
+    },
+    {
+      "id": "day-40",
+      "title": {
+        "en-US": "Day 40"
+      }
+    },
+    {
+      "id": "day-44",
+      "title": {
+        "en-US": "Day 44"
+      }
+    },
+    {
+      "id": "day-45",
+      "title": {
+        "en-US": "Day 45"
+      }
+    },
+    {
+      "id": "day-46",
+      "title": {
+        "en-US": "Day 46"
+      }
+    }
+  ]
+}

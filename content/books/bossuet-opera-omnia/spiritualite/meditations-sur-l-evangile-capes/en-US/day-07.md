@@ -1,0 +1,15 @@
+# Day 7
+
+i Blessed is the pure in heart, for he shall see God.’ The last two words alone are enough for the soul to feed upon for a whole day. i He shall see God ’ : — that is, he shall behold all charity, all beauty, all perfection ; goodness itself — the source of all goodness — all goodness in one, as He Himself has declared. 1 I will show thee all good ,’ 2 He said to Moses, when He talked with him in the tabernacle. To see so perfect an object, and to love it, are one and the same thing. The man who is pure in heart, then, will behold and love ; but he will also be loved ; he will sing the praises of God whom he is to see and love for ever. He will be filled with the abundance of his dwelling-place, and intoxicated 1 Matt. v. 8 . a Exod. xxxiii. 19.
+
+with the torrent of his delights. Happy being ! But this can only be for the pure in heart, and hence he is blessed. Let him, then, who is not pure hasten to come forth from the slough wherein he lies wallowing ; let him wash off the filthy stains that degrade and disfigure him !
+
+[ *+ j jetabtb 3>a£ SEVENTH BEATITUDE To be Peace-makers . — Matt. v. 9.
+
+| LESS ED are the peace-makers, for they shall be called the children of God.’ God is called ‘the God of Peace.’ 1 He ‘ maketh men of one manner to dwell in a house,’ 2 says the Psalmist. His goodness brings all things together. He has built up this world of materials most discordant with each other in kind and quality ; He makes night and day, summer and winter, heat and cold- — and so with all the rest — co-operate for the right maintenance of the universe and the preservation of the human race. He admits His enemies to His Peace ; and Jesus Christ says that, after His own example, you ‘ must love your enemies and do good to them that hate you.’ Further, you ‘must pray for them that persecute you, that 1 Cor. xiv. 33. 2 Ps. lxvii. 7, you may be the children of your Father who is in heaven, who maketh his sun to rise on the good and the bad, and raineth on the just and the unjust,’ 1 as we shall see afterwards. ‘ Blessed,’ then, c are the peaceable ’ — those who love peace and promote it — ‘they shall be called the children of God,’ because they will bear the character of so good a Father.
+
+In lands where God is unknown, the sun is no dimmer, the rain waters the fields and pastures no less abundantly, and is no less refreshing or fertilising, than in Christian lands. Thus, as St Paul said, c God left not himself without testimony.’ 2 The sun, when it rises, bears witness to His all-embracing goodness, for it appears no later, nor with any less brilliant colours, for the enemies of God than for His friends. Do you, then, at sunrise adore the God of pardon ; and never show an ungracious countenance to your neighbour when the heavens, and God himself — if one may say so — look on him with such a gentle and serene one.
+
+Jesus Christ, only Son of the Heavenly Father, is the great Peace-maker : — c killing all enmities in himself . . . preaching peace to you that were afar off*, and to them that were 1 Matt. v. 44, 45. 2 Acts xiv. 16.
+
+Google
