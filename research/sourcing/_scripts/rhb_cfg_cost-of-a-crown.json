@@ -1,0 +1,42 @@
+{
+ "id": "benson-cost-of-a-crown",
+ "dir": "benson-opera-omnia/cost-of-a-crown",
+ "slug": "cost-of-a-crown",
+ "name": "The Cost of a Crown: A Story of Douay and Durham",
+ "name_pt": "O Preço de uma Coroa: História de Douai e Durham",
+ "desc": "Benson's sacred drama of 1910, written for the boys of St Edmund's College, Ware, about the martyrs of the English College at Douai and the persecution in Durham: a prologue and three acts.",
+ "desc_pt": "O drama sacro de Benson (1910), escrito para os alunos do St Edmund's College, Ware, sobre os mártires do Colégio Inglês de Douai e a perseguição em Durham: um prólogo e três atos.",
+ "composed": 1910,
+ "editor": "Robert Hugh Benson (London: Longmans, Green, 1910)",
+ "year": 1910,
+ "url": "https://archive.org/details/cu31924013587989",
+ "edition": "The Cost of a Crown: A Story of Douay and Durham (London: Longmans, Green, 1910), Internet Archive full-text OCR (cu31924013587989).",
+ "src": "robert-hugh-benson/ia/cu31924013587989_djvu.txt",
+ "manual": [
+  [
+   110,
+   "Preface"
+  ],
+  [
+   280,
+   "Prologue"
+  ],
+  [
+   386,
+   "Act I"
+  ],
+  [
+   1347,
+   "Act II"
+  ],
+  [
+   3177,
+   "Act III"
+  ]
+ ],
+ "start": 110,
+ "end": 3857,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}

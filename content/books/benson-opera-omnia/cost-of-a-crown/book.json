@@ -1,0 +1,69 @@
+{
+  "id": "benson-cost-of-a-crown",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Cost of a Crown: A Story of Douay and Durham",
+    "pt-BR": "O Preço de uma Coroa: História de Douai e Durham"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's sacred drama of 1910, written for the boys of St Edmund's College, Ware, about the martyrs of the English College at Douai and the persecution in Durham: a prologue and three acts.",
+    "pt-BR": "O drama sacro de Benson (1910), escrito para os alunos do St Edmund's College, Ware, sobre os mártires do Colégio Inglês de Douai e a perseguição em Durham: um prólogo e três atos."
+  },
+  "composed": 1910,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/cost-of-a-crown",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Longmans, Green, 1910)",
+      "year": 1910
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/cu31924013587989",
+      "edition": "The Cost of a Crown: A Story of Douay and Durham (London: Longmans, Green, 1910), Internet Archive full-text OCR (cu31924013587989).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1910, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Act I"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Act II"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Act III"
+      }
+    }
+  ]
+}
