@@ -1,0 +1,48 @@
+{
+  "id": "dante-quaestio-de-aqua-et-terra",
+  "cover": "classic",
+  "name": {
+    "la": "Quaestio de aqua et terra",
+    "en-US": "Question of the Water and the Land (Quaestio de aqua et terra)",
+    "pt-BR": "Questão sobre a água e a terra (Quaestio de aqua et terra)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "la": "Quaestio de aqua et terra, a Dante Veronae disputata die 20 ianuarii 1320: de forma et situ duorum elementorum aque videlicet et terre, an aqua in sua sphaera esset altior terra. Opus unico typo anni 1508 servatum; plures auctoritatem receperunt.",
+    "en-US": "Dante’s academic disputation at Verona on 20 January 1320 on the form and position of the two elements, water and earth: whether water in its sphere stands higher than the land. The work survives only in a Venice print of 1508 and its authenticity was long debated; most scholars now accept it. Text of La Wikisource.",
+    "pt-BR": "A disputa acadêmica de Dante em Verona, a 20 de janeiro de 1320, sobre a forma e a posição dos dois elementos, a água e a terra. O texto só se conservou numa edição veneziana de 1508; hoje a maioria dos estudiosos aceita a sua autenticidade."
+  },
+  "composed": "1320",
+  "languages": [
+    "la"
+  ],
+  "work": "dante/quaestio-de-aqua-et-terra",
+  "editions": {
+    "la": {
+      "editor": "transcription on La Wikisource"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Quaestio_de_aqua_et_terra",
+      "edition": "Quaestio de aqua et terra on La Wikisource.",
+      "description": "The whole text as one chapter; the wiki markup is dropped. Paragraph numbering is not in this transcription. The English of Wicksteed (1904) and A. C. White (1903) is OCR only and is not imported.",
+      "tier": "A",
+      "tierEvidence": "Medieval text; La Wikisource transcription, quality marked 25%."
+    }
+  ],
+  "toc": [
+    {
+      "id": "quaestio",
+      "title": {
+        "la": "De Forma et Situ Duorum Elementorum Aque Videlicet et Terre"
+      }
+    }
+  ]
+}
