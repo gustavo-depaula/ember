@@ -1,0 +1,286 @@
+{
+ "slug": "loss-and-gain",
+ "id": "newman-loss-and-gain",
+ "name": "Loss and Gain: The Story of a Convert",
+ "name_pt": "Perda e Ganho: A História de um Convertido",
+ "desc": "Newman's novel of 1848, written three years after his own conversion. Charles Reding, an Oxford undergraduate, moves through the parties of Anglicanism and the theological arguments of the day to the Catholic Church, at a cost of friends and prospects. The book is a comedy of university life and a study of how a mind comes to believe.",
+ "desc_pt": "O romance de Newman (1848), escrito três anos depois de sua própria conversão. Charles Reding, estudante de Oxford, percorre os partidos do anglicanismo e os argumentos teológicos da época até chegar à Igreja Católica, ao preço de amigos e perspectivas. O livro é uma comédia da vida universitária e um estudo de como uma mente chega a crer.",
+ "composed": "1848",
+ "editor": "John Henry Newman (Longmans text; Newman Reader)",
+ "year": 1848,
+ "index": "gain/index.html",
+ "edition": "Loss and Gain: The Story of a Convert (London: Burns and Oates, 1848; Longmans, uniform edition), as transcribed by the Newman Reader.",
+ "note": "Chapters are untitled in the book and numbered within each of its three parts.",
+ "parts": [
+  {
+   "id": "part-1",
+   "title": "Part 1",
+   "title_pt": "Parte 1",
+   "from": "part-1-chapter-1"
+  },
+  {
+   "id": "part-2",
+   "title": "Part 2",
+   "title_pt": "Parte 2",
+   "from": "part-2-chapter-1"
+  },
+  {
+   "id": "part-3",
+   "title": "Part 3",
+   "title_pt": "Parte 3",
+   "from": "part-3-chapter-1"
+  }
+ ],
+ "chapters": [
+  [
+   "gain/chapter1-1.html",
+   "part-1-chapter-1",
+   "Chapter 1"
+  ],
+  [
+   "gain/chapter1-2.html",
+   "part-1-chapter-2",
+   "Chapter 2"
+  ],
+  [
+   "gain/chapter1-3.html",
+   "part-1-chapter-3",
+   "Chapter 3"
+  ],
+  [
+   "gain/chapter1-4.html",
+   "part-1-chapter-4",
+   "Chapter 4"
+  ],
+  [
+   "gain/chapter1-5.html",
+   "part-1-chapter-5",
+   "Chapter 5"
+  ],
+  [
+   "gain/chapter1-6.html",
+   "part-1-chapter-6",
+   "Chapter 6"
+  ],
+  [
+   "gain/chapter1-7.html",
+   "part-1-chapter-7",
+   "Chapter 7"
+  ],
+  [
+   "gain/chapter1-8.html",
+   "part-1-chapter-8",
+   "Chapter 8"
+  ],
+  [
+   "gain/chapter1-9.html",
+   "part-1-chapter-9",
+   "Chapter 9"
+  ],
+  [
+   "gain/chapter1-10.html",
+   "part-1-chapter-10",
+   "Chapter 10"
+  ],
+  [
+   "gain/chapter1-11.html",
+   "part-1-chapter-11",
+   "Chapter 11"
+  ],
+  [
+   "gain/chapter1-12.html",
+   "part-1-chapter-12",
+   "Chapter 12"
+  ],
+  [
+   "gain/chapter1-13.html",
+   "part-1-chapter-13",
+   "Chapter 13"
+  ],
+  [
+   "gain/chapter1-14.html",
+   "part-1-chapter-14",
+   "Chapter 14"
+  ],
+  [
+   "gain/chapter1-15.html",
+   "part-1-chapter-15",
+   "Chapter 15"
+  ],
+  [
+   "gain/chapter1-16.html",
+   "part-1-chapter-16",
+   "Chapter 16"
+  ],
+  [
+   "gain/chapter1-17.html",
+   "part-1-chapter-17",
+   "Chapter 17"
+  ],
+  [
+   "gain/chapter1-18.html",
+   "part-1-chapter-18",
+   "Chapter 18"
+  ],
+  [
+   "gain/chapter2-1.html",
+   "part-2-chapter-1",
+   "Chapter 1"
+  ],
+  [
+   "gain/chapter2-2.html",
+   "part-2-chapter-2",
+   "Chapter 2"
+  ],
+  [
+   "gain/chapter2-3.html",
+   "part-2-chapter-3",
+   "Chapter 3"
+  ],
+  [
+   "gain/chapter2-4.html",
+   "part-2-chapter-4",
+   "Chapter 4"
+  ],
+  [
+   "gain/chapter2-5.html",
+   "part-2-chapter-5",
+   "Chapter 5"
+  ],
+  [
+   "gain/chapter2-6.html",
+   "part-2-chapter-6",
+   "Chapter 6"
+  ],
+  [
+   "gain/chapter2-7.html",
+   "part-2-chapter-7",
+   "Chapter 7"
+  ],
+  [
+   "gain/chapter2-8.html",
+   "part-2-chapter-8",
+   "Chapter 8"
+  ],
+  [
+   "gain/chapter2-9.html",
+   "part-2-chapter-9",
+   "Chapter 9"
+  ],
+  [
+   "gain/chapter2-10.html",
+   "part-2-chapter-10",
+   "Chapter 10"
+  ],
+  [
+   "gain/chapter2-11.html",
+   "part-2-chapter-11",
+   "Chapter 11"
+  ],
+  [
+   "gain/chapter2-12.html",
+   "part-2-chapter-12",
+   "Chapter 12"
+  ],
+  [
+   "gain/chapter2-13.html",
+   "part-2-chapter-13",
+   "Chapter 13"
+  ],
+  [
+   "gain/chapter2-14.html",
+   "part-2-chapter-14",
+   "Chapter 14"
+  ],
+  [
+   "gain/chapter2-15.html",
+   "part-2-chapter-15",
+   "Chapter 15"
+  ],
+  [
+   "gain/chapter2-16.html",
+   "part-2-chapter-16",
+   "Chapter 16"
+  ],
+  [
+   "gain/chapter2-17.html",
+   "part-2-chapter-17",
+   "Chapter 17"
+  ],
+  [
+   "gain/chapter2-18.html",
+   "part-2-chapter-18",
+   "Chapter 18"
+  ],
+  [
+   "gain/chapter2-19.html",
+   "part-2-chapter-19",
+   "Chapter 19"
+  ],
+  [
+   "gain/chapter2-20.html",
+   "part-2-chapter-20",
+   "Chapter 20"
+  ],
+  [
+   "gain/chapter2-21.html",
+   "part-2-chapter-21",
+   "Chapter 21"
+  ],
+  [
+   "gain/chapter3-1.html",
+   "part-3-chapter-1",
+   "Chapter 1"
+  ],
+  [
+   "gain/chapter3-2.html",
+   "part-3-chapter-2",
+   "Chapter 2"
+  ],
+  [
+   "gain/chapter3-3.html",
+   "part-3-chapter-3",
+   "Chapter 3"
+  ],
+  [
+   "gain/chapter3-4.html",
+   "part-3-chapter-4",
+   "Chapter 4"
+  ],
+  [
+   "gain/chapter3-5.html",
+   "part-3-chapter-5",
+   "Chapter 5"
+  ],
+  [
+   "gain/chapter3-6.html",
+   "part-3-chapter-6",
+   "Chapter 6"
+  ],
+  [
+   "gain/chapter3-7.html",
+   "part-3-chapter-7",
+   "Chapter 7"
+  ],
+  [
+   "gain/chapter3-8.html",
+   "part-3-chapter-8",
+   "Chapter 8"
+  ],
+  [
+   "gain/chapter3-9.html",
+   "part-3-chapter-9",
+   "Chapter 9"
+  ],
+  [
+   "gain/chapter3-10.html",
+   "part-3-chapter-10",
+   "Chapter 10"
+  ],
+  [
+   "gain/chapter3-11.html",
+   "part-3-chapter-11",
+   "Chapter 11"
+  ]
+ ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "newman-loss-and-gain",
+  "cover": "classic",
+  "name": {
+    "en-US": "Loss and Gain: The Story of a Convert",
+    "pt-BR": "Perda e Ganho: A História de um Convertido"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's novel of 1848, written three years after his own conversion. Charles Reding, an Oxford undergraduate, moves through the parties of Anglicanism and the theological arguments of the day to the Catholic Church, at a cost of friends and prospects. The book is a comedy of university life and a study of how a mind comes to believe.",
+    "pt-BR": "O romance de Newman (1848), escrito três anos depois de sua própria conversão. Charles Reding, estudante de Oxford, percorre os partidos do anglicanismo e os argumentos teológicos da época até chegar à Igreja Católica, ao preço de amigos e perspectivas. O livro é uma comédia da vida universitária e um estudo de como uma mente chega a crer."
+  },
+  "composed": "1848",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/loss-and-gain",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans text; Newman Reader)",
+      "year": 1848
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/gain/index.html",
+      "edition": "Loss and Gain: The Story of a Convert (London: Burns and Oates, 1848; Longmans, uniform edition), as transcribed by the Newman Reader.",
+      "description": "50 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Chapters are untitled in the book and numbered within each of its three parts. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part 1",
+        "pt-BR": "Parte 1"
+      },
+      "children": [
+        {
+          "id": "part-1-chapter-1",
+          "title": {
+            "en-US": "Chapter 1"
+          }
+        },
+        {
+          "id": "part-1-chapter-2",
+          "title": {
+            "en-US": "Chapter 2"
+          }
+        },
+        {
+          "id": "part-1-chapter-3",
+          "title": {
+            "en-US": "Chapter 3"
+          }
+        },
+        {
+          "id": "part-1-chapter-4",
+          "title": {
+            "en-US": "Chapter 4"
+          }
+        },
+        {
+          "id": "part-1-chapter-5",
+          "title": {
+            "en-US": "Chapter 5"
+          }
+        },
+        {
+          "id": "part-1-chapter-6",
+          "title": {
+            "en-US": "Chapter 6"
+          }
+        },
+        {
+          "id": "part-1-chapter-7",
+          "title": {
+            "en-US": "Chapter 7"
+          }
+        },
+        {
+          "id": "part-1-chapter-8",
+          "title": {
+            "en-US": "Chapter 8"
+          }
+        },
+        {
+          "id": "part-1-chapter-9",
+          "title": {
+            "en-US": "Chapter 9"
+          }
+        },
+        {
+          "id": "part-1-chapter-10",
+          "title": {
+            "en-US": "Chapter 10"
+          }
+        },
+        {
+          "id": "part-1-chapter-11",
+          "title": {
+            "en-US": "Chapter 11"
+          }
+        },
+        {
+          "id": "part-1-chapter-12",
+          "title": {
+            "en-US": "Chapter 12"
+          }
+        },
+        {
+          "id": "part-1-chapter-13",
+          "title": {
+            "en-US": "Chapter 13"
+          }
+        },
+        {
+          "id": "part-1-chapter-14",
+          "title": {
+            "en-US": "Chapter 14"
+          }
+        },
+        {
+          "id": "part-1-chapter-15",
+          "title": {
+            "en-US": "Chapter 15"
+          }
+        },
+        {
+          "id": "part-1-chapter-16",
+          "title": {
+            "en-US": "Chapter 16"
+          }
+        },
+        {
+          "id": "part-1-chapter-17",
+          "title": {
+            "en-US": "Chapter 17"
+          }
+        },
+        {
+          "id": "part-1-chapter-18",
+          "title": {
+            "en-US": "Chapter 18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part 2",
+        "pt-BR": "Parte 2"
+      },
+      "children": [
+        {
+          "id": "part-2-chapter-1",
+          "title": {
+            "en-US": "Chapter 1"
+          }
+        },
+        {
+          "id": "part-2-chapter-2",
+          "title": {
+            "en-US": "Chapter 2"
+          }
+        },
+        {
+          "id": "part-2-chapter-3",
+          "title": {
+            "en-US": "Chapter 3"
+          }
+        },
+        {
+          "id": "part-2-chapter-4",
+          "title": {
+            "en-US": "Chapter 4"
+          }
+        },
+        {
+          "id": "part-2-chapter-5",
+          "title": {
+            "en-US": "Chapter 5"
+          }
+        },
+        {
+          "id": "part-2-chapter-6",
+          "title": {
+            "en-US": "Chapter 6"
+          }
+        },
+        {
+          "id": "part-2-chapter-7",
+          "title": {
+            "en-US": "Chapter 7"
+          }
+        },
+        {
+          "id": "part-2-chapter-8",
+          "title": {
+            "en-US": "Chapter 8"
+          }
+        },
+        {
+          "id": "part-2-chapter-9",
+          "title": {
+            "en-US": "Chapter 9"
+          }
+        },
+        {
+          "id": "part-2-chapter-10",
+          "title": {
+            "en-US": "Chapter 10"
+          }
+        },
+        {
+          "id": "part-2-chapter-11",
+          "title": {
+            "en-US": "Chapter 11"
+          }
+        },
+        {
+          "id": "part-2-chapter-12",
+          "title": {
+            "en-US": "Chapter 12"
+          }
+        },
+        {
+          "id": "part-2-chapter-13",
+          "title": {
+            "en-US": "Chapter 13"
+          }
+        },
+        {
+          "id": "part-2-chapter-14",
+          "title": {
+            "en-US": "Chapter 14"
+          }
+        },
+        {
+          "id": "part-2-chapter-15",
+          "title": {
+            "en-US": "Chapter 15"
+          }
+        },
+        {
+          "id": "part-2-chapter-16",
+          "title": {
+            "en-US": "Chapter 16"
+          }
+        },
+        {
+          "id": "part-2-chapter-17",
+          "title": {
+            "en-US": "Chapter 17"
+          }
+        },
+        {
+          "id": "part-2-chapter-18",
+          "title": {
+            "en-US": "Chapter 18"
+          }
+        },
+        {
+          "id": "part-2-chapter-19",
+          "title": {
+            "en-US": "Chapter 19"
+          }
+        },
+        {
+          "id": "part-2-chapter-20",
+          "title": {
+            "en-US": "Chapter 20"
+          }
+        },
+        {
+          "id": "part-2-chapter-21",
+          "title": {
+            "en-US": "Chapter 21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part 3",
+        "pt-BR": "Parte 3"
+      },
+      "children": [
+        {
+          "id": "part-3-chapter-1",
+          "title": {
+            "en-US": "Chapter 1"
+          }
+        },
+        {
+          "id": "part-3-chapter-2",
+          "title": {
+            "en-US": "Chapter 2"
+          }
+        },
+        {
+          "id": "part-3-chapter-3",
+          "title": {
+            "en-US": "Chapter 3"
+          }
+        },
+        {
+          "id": "part-3-chapter-4",
+          "title": {
+            "en-US": "Chapter 4"
+          }
+        },
+        {
+          "id": "part-3-chapter-5",
+          "title": {
+            "en-US": "Chapter 5"
+          }
+        },
+        {
+          "id": "part-3-chapter-6",
+          "title": {
+            "en-US": "Chapter 6"
+          }
+        },
+        {
+          "id": "part-3-chapter-7",
+          "title": {
+            "en-US": "Chapter 7"
+          }
+        },
+        {
+          "id": "part-3-chapter-8",
+          "title": {
+            "en-US": "Chapter 8"
+          }
+        },
+        {
+          "id": "part-3-chapter-9",
+          "title": {
+            "en-US": "Chapter 9"
+          }
+        },
+        {
+          "id": "part-3-chapter-10",
+          "title": {
+            "en-US": "Chapter 10"
+          }
+        },
+        {
+          "id": "part-3-chapter-11",
+          "title": {
+            "en-US": "Chapter 11"
+          }
+        }
+      ]
+    }
+  ]
+}
