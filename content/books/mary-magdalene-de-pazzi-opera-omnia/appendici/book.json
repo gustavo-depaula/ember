@@ -1,0 +1,83 @@
+{
+  "id": "pazzi-appendici",
+  "name": {
+    "it": "Appendici: Esercizio spirituale, Detti e sentenze, Breve ragguaglio",
+    "en-US": "Appendices: Spiritual Exercise, Sayings, Brief Account",
+    "pt-BR": "Apêndices: Exercício espiritual, Ditos e sentenças, Breve relato"
+  },
+  "author": {
+    "it": "Santa Maria Maddalena de' Pazzi",
+    "en-US": "St. Mary Magdalene de' Pazzi",
+    "pt-BR": "Santa Maria Madalena de Pazzi"
+  },
+  "description": {
+    "it": "L'appendice di Tutte le opere (Firenze: CIL, 1960-66): l'Esercizio spirituale che la santa faceva ogni mattina, i Detti e sentenze memorabili e il Breve ragguaglio della sua vita scritto dalla consorella suor Maria Pacifica del Tovaglia. Le introduzioni e le note dei curatori sono come stampate; un capitolo per scritto, con i testi lunghi suddivisi.",
+    "en-US": "The appendix to Tutte le opere (Florence: CIL, 1960-66): the Spiritual Exercise the saint made each morning, the Sayings and Memorable Maxims, and the Brief Account of her life by her sister Maria Pacifica del Tovaglia. The editors' notes are as printed; one chapter per piece, long texts divided.",
+    "pt-BR": "O apêndice de Tutte le opere (Florença: CIL, 1960-66): o Exercício espiritual que a santa fazia a cada manhã, os Ditos e sentenças memoráveis e o Breve relato de sua vida escrito pela irmã Maria Pacífica del Tovaglia."
+  },
+  "composed": "1566-1607",
+  "languages": [
+    "it"
+  ],
+  "work": "mary-magdalene-de-pazzi/appendici",
+  "editions": {
+    "it": {
+      "editor": "Carmelite scholars (Tutte le opere, ed. Fulvio Nardoni)",
+      "year": 1966
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://web.archive.org/web/20051214id_/http://www.ocarm.org/smmdep/8appen.htm",
+      "edition": "Santa Maria Maddalena de' Pazzi, Tutte le opere dai manoscritti originali, a cura di Fulvio Nardoni, vol. VIII (appendices), Firenze: Centro Internazionale del Libro. Typed text published by the Carmelite Order (O.Carm., prepared by Fr. Pedro Bravo, 2001), saved from the Wayback Machine because the live site is gone.",
+      "description": "Whole page: the appendices, the Esercizio spirituale, Detti e sentenze memorabili and the Breve ragguaglio of Suor Maria Pacifica del Tovaglia.",
+      "tier": "B",
+      "tierEvidence": "Critical edition of 1960-66 put online without a rights notice by the order itself; the saint's text only. Editors' introductions are not imported; their bracketed glosses and notes stay inline as printed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prefazione",
+      "title": {
+        "it": "Appendici: i manoscritti e le edizioni"
+      }
+    },
+    {
+      "id": "esercizio-spirituale",
+      "title": {
+        "it": "Esercizio spirituale"
+      }
+    },
+    {
+      "id": "detti-e-sentenze",
+      "title": {
+        "it": "Detti e sentenze memorabili"
+      }
+    },
+    {
+      "id": "breve-ragguaglio-1",
+      "title": {
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (1/4)"
+      }
+    },
+    {
+      "id": "breve-ragguaglio-2",
+      "title": {
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (2/4)"
+      }
+    },
+    {
+      "id": "breve-ragguaglio-3",
+      "title": {
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (3/4)"
+      }
+    },
+    {
+      "id": "breve-ragguaglio-4",
+      "title": {
+        "it": "Breve ragguaglio della vita della Santa Madre, di suor Maria Pacifica del Tovaglia (4/4)"
+      }
+    }
+  ]
+}
