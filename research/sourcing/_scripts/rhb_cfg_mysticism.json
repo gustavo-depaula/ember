@@ -1,0 +1,26 @@
+{
+ "id": "benson-mysticism",
+ "dir": "benson-opera-omnia/mysticism",
+ "slug": "mysticism",
+ "name": "Mysticism",
+ "name_pt": "Misticismo",
+ "desc": "Benson's lecture on mysticism (1907), delivered at Westminster, with a preface: what the mystical experience is, how the Catholic Church understands it and its place in the Christian life.",
+ "desc_pt": "A conferência de Benson sobre o misticismo (1907), proferida em Westminster, com um prefácio: o que é a experiência mística, como a Igreja Católica a entende e seu lugar na vida cristã.",
+ "composed": 1907,
+ "editor": "Robert Hugh Benson (London: Catholic Truth Society, 1907)",
+ "year": 1907,
+ "url": "https://archive.org/details/Mysticism1907",
+ "edition": "Mysticism (London: Catholic Truth Society, 1907), Internet Archive full-text OCR (Mysticism1907).",
+ "src": "robert-hugh-benson/ia/Mysticism1907_djvu.txt",
+ "manual": [
+  [
+   108,
+   "Mysticism"
+  ]
+ ],
+ "start": 108,
+ "end": 1958,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}
