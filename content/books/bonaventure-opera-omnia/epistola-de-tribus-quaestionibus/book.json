@@ -1,0 +1,48 @@
+{
+  "id": "bonaventure-epistola-de-tribus-quaestionibus",
+  "cover": "classic",
+  "name": {
+    "la": "Epistola de tribus quaestionibus",
+    "en-US": "Letter on Three Questions",
+    "pt-BR": "Carta sobre três questões"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Epistola ad magistrum innominatum de tribus quaestionibus: de usu pauperum, de Regula et de praeceptis. Textus ex editione Quaracchi (Opera omnia VIII, 1898), ex scanno OCR, sine notis criticis.",
+    "en-US": "Bonaventure’s letter to an unnamed master answering three questions on the Rule: the poor use of goods, the obligation of the Rule and dispensations. The Latin is the Quaracchi edition (Opera omnia VIII, 1898) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Carta sobre três questões."
+  },
+  "composed": "c. 1255-1257",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/epistola-de-tribus-quaestionibus",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1898
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic08bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. VIII (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1898), pp. 331-336.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type scholia are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1898 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola de tribus quaestionibus"
+      }
+    }
+  ]
+}
