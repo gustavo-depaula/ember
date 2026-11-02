@@ -1,0 +1,1252 @@
+{
+  "id": "gaume-resumo-catecismo-perseveranca",
+  "cover": "label",
+  "name": {
+    "pt-PT": "Resumo do Catecismo de Perseverança",
+    "en-US": "Summary of the Catechism of Perseverance",
+    "pt-BR": "Resumo do Catecismo de Perseverança"
+  },
+  "author": {
+    "pt-PT": "Abbade J. Gaume",
+    "en-US": "Jean-Joseph Gaume",
+    "pt-BR": "Jean-Joseph Gaume"
+  },
+  "description": {
+    "pt-PT": "O Resumo do Catecismo de Perseverança do Abbade Gaume, tradução portuguesa publicada no Porto em 1868 na Bibliotheca Religiosa Selecta, aprovada pelo Bispo do Porto e seguida de uma análise de Camillo Castello-Branco: exposição histórica, dogmática, moral e litúrgica da religião em perguntas e respostas, em quatro partes (do princípio do mundo à vinda do Messias; a vida de Cristo e o Credo; a Igreja; o culto e o ano litúrgico).",
+    "en-US": "The Portuguese Resumo (Porto, 1868, in the Bibliotheca Religiosa Selecta; approved by the Bishop of Porto and followed by an analysis by Camillo Castello-Branco) of Abbé Gaume's Catechism of Perseverance: a historical, doctrinal, moral and liturgical exposition of the faith in questions and answers, in four parts (from the beginning of the world to the Messiah; the life of Christ and the Creed; the Church; worship and the liturgical year). Nineteenth-century Portuguese spelling.",
+    "pt-BR": "O Resumo do Catecismo de Perseverança do Abbade Gaume, tradução portuguesa publicada no Porto em 1868 (Bibliotheca Religiosa Selecta), aprovada pelo Bispo do Porto e seguida de uma análise de Camillo Castello-Branco: exposição histórica, dogmática, moral e litúrgica da religião em perguntas e respostas, em quatro partes. Ortografia portuguesa do século XIX."
+  },
+  "composed": 1838,
+  "languages": [
+    "pt-PT"
+  ],
+  "work": "gaume/petit-catechisme-de-perseverance",
+  "editions": {
+    "pt-PT": {
+      "translator": "unnamed",
+      "editor": "Livraria Nacional, Porto",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "pt-PT",
+      "url": "https://archive.org/details/resumodocatecism00gaum",
+      "description": "Resumo do Catecismo de Perseverança pelo Abbade J. Gaume (Porto: Typ. da Livraria Nacional, 1868; University of Toronto scan), via the archive.org OCR text. Tier A: published in 1868. Uncorrected OCR beyond rules for running heads and broken lines; 19th-century orthography kept. The dedication and the Pope's letter are left out."
+    }
+  ],
+  "toc": [
+    {
+      "id": "discurso-preliminar",
+      "title": {
+        "pt-PT": "Discurso preliminar"
+      }
+    },
+    {
+      "id": "parte-1-licao-01",
+      "title": {
+        "pt-PT": "Parte 1, Lição 1: Ensino vocal da religião. — catecismo"
+      }
+    },
+    {
+      "id": "parte-1-licao-02",
+      "title": {
+        "pt-PT": "Parte 1, Lição 2: Ensino escripto. — escriptura e tradição"
+      }
+    },
+    {
+      "id": "parte-1-licao-03",
+      "title": {
+        "pt-PT": "Parte 1, Lição 3: Conhecimento de deus considerado em si propkio"
+      }
+    },
+    {
+      "id": "parte-1-licao-04",
+      "title": {
+        "pt-PT": "Parte 1, Lição 4: Conhecimento de deus pelas suas obras. — prbieiro dia da creação"
+      }
+    },
+    {
+      "id": "parte-1-licao-05",
+      "title": {
+        "pt-PT": "Parte 1, Lição 5: Conhecimento de deus pelas suas obras. — segundo dia da ckeaçao"
+      }
+    },
+    {
+      "id": "parte-1-licao-06",
+      "title": {
+        "pt-PT": "Parte 1, Lição 6: Conhecimento de deus pelas suas obras. — terceiro dia da creação"
+      }
+    },
+    {
+      "id": "parte-1-licao-07",
+      "title": {
+        "pt-PT": "Parte 1, Lição 7: Conhecimento de deus pelas suas obras. — fim do terceiro e principio do quarto dia da creaçxo"
+      }
+    },
+    {
+      "id": "parte-1-licao-08",
+      "title": {
+        "pt-PT": "Parte 1, Lição 8: Conhecimento de deus pelas suas obras. — conti- nuação do quarto dia da creaçào"
+      }
+    },
+    {
+      "id": "parte-1-licao-09",
+      "title": {
+        "pt-PT": "Parte 1, Lição 9: Conhecimento de deus pelas suas obras. — quinto dia da creação"
+      }
+    },
+    {
+      "id": "parte-1-licao-10",
+      "title": {
+        "pt-PT": "Parte 1, Lição 10: Conhecimento de deus pelas suas obras. — fim do quinto e principio do sexto dia da creaçao"
+      }
+    },
+    {
+      "id": "parte-1-licao-11",
+      "title": {
+        "pt-PT": "Parte 1, Lição 11: Conhecimento de deus pelas suas obras. — continua o sexto dia da creaçao"
+      }
+    },
+    {
+      "id": "parte-1-licao-12",
+      "title": {
+        "pt-PT": "Parte 1, Lição 12: Conhecimentos do homem considerado em si mesmo"
+      }
+    },
+    {
+      "id": "parte-1-licao-13",
+      "title": {
+        "pt-PT": "Parte 1, Lição 13: Conhecimento do homem considerado nas suas re- lações com as creaturas"
+      }
+    },
+    {
+      "id": "parte-1-licao-14",
+      "title": {
+        "pt-PT": "Parte 1, Lição 14: Conhecimento do homem, considerado nas suas relações com deus"
+      }
+    },
+    {
+      "id": "parte-1-licao-15",
+      "title": {
+        "pt-PT": "Parte 1, Lição 15: Conhecimento dos anjos"
+      }
+    },
+    {
+      "id": "parte-1-licao-16",
+      "title": {
+        "pt-PT": "Parte 1, Lição 16: Queda do homem"
+      }
+    },
+    {
+      "id": "parte-1-licao-17",
+      "title": {
+        "pt-PT": "Parte 1, Lição 17: Accokdo da justiça e misericórdia divina na puni- ção e transmissão do peccado de adão"
+      }
+    },
+    {
+      "id": "parte-1-licao-18",
+      "title": {
+        "pt-PT": "Parte 1, Lição 18: Conhecimento da religião. — natureza e definição da religião"
+      }
+    },
+    {
+      "id": "parte-1-licao-19",
+      "title": {
+        "pt-PT": "Parte 1, Lição 19: Conhecimento da religião. — a religião é uma lei"
+      }
+    },
+    {
+      "id": "parte-1-licao-20",
+      "title": {
+        "pt-PT": "Parte 1, Lição 20: Conhecimento da religião. a religião é um gran- de beneficio. historia da religião. — o mes- sias promettido e figurado. primeira promes- sa do messias. adão e abel. primeira e ul- tima figuras do messias"
+      }
+    },
+    {
+      "id": "parte-1-licao-21",
+      "title": {
+        "pt-PT": "Parte 1, Lição 21: O messias promettido e figurado. noé, terceira"
+      }
+    },
+    {
+      "id": "parte-1-licao-22",
+      "title": {
+        "pt-PT": "Parte 1, Lição 22: O messias promettido e figurado. — segunda pro- messa e quarta figura do messias. melchisedech. (antes de jesus christo 2247 — 1921)"
+      }
+    },
+    {
+      "id": "parte-1-licao-23",
+      "title": {
+        "pt-PT": "Parte 1, Lição 23: O messias promettido e figurado. — terceira e quarta promessas. — sexta figura do messias. — jacob (antes de jesus christo 1739)"
+      }
+    },
+    {
+      "id": "parte-1-licao-24",
+      "title": {
+        "pt-PT": "Parte 1, Lição 24: O messias promettido e figurado. — sétima figura do messias : josé. (antes de jesus christo 1726"
+      }
+    },
+    {
+      "id": "parte-1-licao-25",
+      "title": {
+        "pt-PT": "Parte 1, Lição 25: O messias promettido e figurado. — quinta pro- messa. oitava figura do messias: o cordeiro pas- chal. (antes de jesus-christo 1491)"
+      }
+    },
+    {
+      "id": "parte-1-licao-26",
+      "title": {
+        "pt-PT": "Parte 1, Lição 26: O jiessias promettido e figurado. — nova figura do messias : o maxá (axtes de jesus-christo 1491)"
+      }
+    },
+    {
+      "id": "parte-1-licao-27",
+      "title": {
+        "pt-PT": "Parte 1, Lição 27"
+      }
+    },
+    {
+      "id": "parte-1-licao-28",
+      "title": {
+        "pt-PT": "Parte 1, Lição 28: O messias promettido e figurado. — decima segun- da figura do messias : moysés (antes de jesus- christo 1451)"
+      }
+    },
+    {
+      "id": "parte-1-licao-29",
+      "title": {
+        "pt-PT": "Parte 1, Lição 29: O messias promettido e figurado. decima ter- ceira figura do messias : josué (antes de jesus"
+      }
+    },
+    {
+      "id": "parte-1-licao-30",
+      "title": {
+        "pt-PT": "Parte 1, Lição 30: O messias promettido e figurado. — decima quarta figura do messias. — gedeão (antes de j. christo"
+      }
+    },
+    {
+      "id": "parte-1-licao-31",
+      "title": {
+        "pt-PT": "Parte 1, Lição 31: O messias promettido e figurado — decima-quinta figura do messias : sansão (antes de jesus chris- to 1245— 1117)"
+      }
+    },
+    {
+      "id": "parte-1-licao-32",
+      "title": {
+        "pt-PT": "Parte 1, Lição 32: O messias pkomettido e figurado. — sexta promessa do messias (antes de jesus-chriso 1116-1048)"
+      }
+    },
+    {
+      "id": "parte-1-licao-33",
+      "title": {
+        "pt-PT": "Parte 1, Lição 33: O messias promettido e figurado — decima-sexta figura do messias. (axtes de jesus-christo 1022 — 1015"
+      }
+    },
+    {
+      "id": "parte-1-licao-34",
+      "title": {
+        "pt-PT": "Parte 1, Lição 34: O messias promettido e figurado. — decima-setima figura do messias: salomão (antes de jesus-chris- to lolõ — 982)"
+      }
+    },
+    {
+      "id": "parte-1-licao-35",
+      "title": {
+        "pt-PT": "Parte 1, Lição 35: O messias promettido e figurado. decima-oitava"
+      }
+    },
+    {
+      "id": "parte-1-licao-36",
+      "title": {
+        "pt-PT": "Parte 1, Lição 36: O messias predito. — prophecia de david"
+      }
+    },
+    {
+      "id": "parte-1-licao-37",
+      "title": {
+        "pt-PT": "Parte 1, Lição 37: O messias predito. — prophecias de isaías. (antes de jesus christo 721)"
+      }
+    },
+    {
+      "id": "parte-1-licao-38",
+      "title": {
+        "pt-PT": "Parte 1, Lição 38: O messias predito. — prophecias de oseas, micheas, joel e jeremias. (antes de jesus christo 600)"
+      }
+    },
+    {
+      "id": "parte-1-licao-39",
+      "title": {
+        "pt-PT": "Parte 1, Lição 39: O messias predito. — prophecias de ezequiel. (an- tes de jesus christo 580)"
+      }
+    },
+    {
+      "id": "parte-1-licao-40",
+      "title": {
+        "pt-PT": "Parte 1, Lição 40: O messias predito. — prophecia de daniel. (antes de jesus-christo 5õ1 — õ38)"
+      }
+    },
+    {
+      "id": "parte-1-licao-41",
+      "title": {
+        "pt-PT": "Parte 1, Lição 41: O messias predito. — • prophecias de ageu, zacha- rias e malachias. (antes de jesus-christo 538 — 454.)"
+      }
+    },
+    {
+      "id": "parte-1-licao-42",
+      "title": {
+        "pt-PT": "Parte 1, Lição 42: Resumo geral e applicaçlo das promessas, das fi- guras e prophecias a n. senhor jesus christo"
+      }
+    },
+    {
+      "id": "parte-1-licao-43",
+      "title": {
+        "pt-PT": "Parte 1, Lição 43: O messias preparado. — monarchia dos assyrios (antes de jesus-chriso 900 — 460)"
+      }
+    },
+    {
+      "id": "parte-1-licao-44",
+      "title": {
+        "pt-PT": "Parte 1, Lição 44: O messias preparado. — monarchia dos assyrios. — historia de judite"
+      }
+    },
+    {
+      "id": "parte-1-licao-45",
+      "title": {
+        "pt-PT": "Parte 1, Lição 45: O messias preparado. — historia de tobias. (antes de jesus-christo glli"
+      }
+    },
+    {
+      "id": "parte-1-licao-46",
+      "title": {
+        "pt-PT": "Parte 1, Lição 46: O messias preparado. — monarchia dos persas"
+      }
+    },
+    {
+      "id": "parte-1-licao-47",
+      "title": {
+        "pt-PT": "Parte 1, Lição 47: O messias preparado. — monarchia dos gregos e romanos, (antes de jesus-christo 336 — 170)"
+      }
+    },
+    {
+      "id": "parte-1-licao-48",
+      "title": {
+        "pt-PT": "Parte 1, Lição 48: O messias preparado. — os machabeus"
+      }
+    },
+    {
+      "id": "parte-1-licao-49",
+      "title": {
+        "pt-PT": "Parte 1, Lição 49: Influencia da religião"
+      }
+    },
+    {
+      "id": "parte-2-licao-01",
+      "title": {
+        "pt-PT": "Parte 2, Lição 1: Estado do aiundo na vinda do messias"
+      }
+    },
+    {
+      "id": "parte-2-licao-02",
+      "title": {
+        "pt-PT": "Parte 2, Lição 2: Nascimento do messias"
+      }
+    },
+    {
+      "id": "parte-2-licao-03",
+      "title": {
+        "pt-PT": "Parte 2, Lição 3: Vida occulta do messias"
+      }
+    },
+    {
+      "id": "parte-2-licao-04",
+      "title": {
+        "pt-PT": "Parte 2, Lição 4: Vida publica do messias. — primeiro anno"
+      }
+    },
+    {
+      "id": "parte-2-licao-05",
+      "title": {
+        "pt-PT": "Parte 2, Lição 5: Vida publica do messias. primeiro anno"
+      }
+    },
+    {
+      "id": "parte-2-licao-06",
+      "title": {
+        "pt-PT": "Parte 2, Lição 6: Vida publica do messias — segundo anno"
+      }
+    },
+    {
+      "id": "parte-2-licao-07",
+      "title": {
+        "pt-PT": "Parte 2, Lição 7: Vida publica do messias. — terceiro anno"
+      }
+    },
+    {
+      "id": "parte-2-licao-08",
+      "title": {
+        "pt-PT": "Parte 2, Lição 8: Vida publica do messias. — terceiro anno"
+      }
+    },
+    {
+      "id": "parte-2-licao-09",
+      "title": {
+        "pt-PT": "Parte 2, Lição 9: Vida publica do messias — terceiro anno"
+      }
+    },
+    {
+      "id": "parte-2-licao-10",
+      "title": {
+        "pt-PT": "Parte 2, Lição 10: Paixão de nosso senhor"
+      }
+    },
+    {
+      "id": "parte-2-licao-11",
+      "title": {
+        "pt-PT": "Parte 2, Lição 11: Paixão de nosso senhor. — continuação,"
+      }
+    },
+    {
+      "id": "parte-2-licao-12",
+      "title": {
+        "pt-PT": "Parte 2, Lição 12: Sepultura e resurreição de nosso senhor"
+      }
+    },
+    {
+      "id": "parte-2-licao-13",
+      "title": {
+        "pt-PT": "Parte 2, Lição 13: Vida gloriosa de nosso senhor"
+      }
+    },
+    {
+      "id": "parte-2-licao-14",
+      "title": {
+        "pt-PT": "Parte 2, Lição 14: Nosso senhor reparador do mundo"
+      }
+    },
+    {
+      "id": "parte-2-licao-15",
+      "title": {
+        "pt-PT": "Parte 2, Lição 15: Nosso senhor, novo adão"
+      }
+    },
+    {
+      "id": "parte-2-licao-16",
+      "title": {
+        "pt-PT": "Parte 2, Lição 16: União do nosso espirito com nosso senhor, o novo adão pela fé. — primeiro e segundo artigos do symbolo"
+      }
+    },
+    {
+      "id": "parte-2-licao-17",
+      "title": {
+        "pt-PT": "Parte 2, Lição 17: União do xosso espikito com nosso senhor, o novo adão pela fé. — terceiro, quarto e quinto ar- tigos do symbolo"
+      }
+    },
+    {
+      "id": "parte-2-licao-18",
+      "title": {
+        "pt-PT": "Parte 2, Lição 18: Da nossa uxiao coxm nosso senhor, o novo adão pkla fé. — purgatório"
+      }
+    },
+    {
+      "id": "parte-2-licao-19",
+      "title": {
+        "pt-PT": "Parte 2, Lição 19: Da nossa unlio com nosso senhor, o novo adão, pela fé. — sexto e sétimo artigos do symbolo"
+      }
+    },
+    {
+      "id": "parte-2-licao-20",
+      "title": {
+        "pt-PT": "Parte 2, Lição 20: Da nossa uniào com nosso senhor, o novo adão, pela fé. oitavo artigo do síjibolo"
+      }
+    },
+    {
+      "id": "parte-2-licao-21",
+      "title": {
+        "pt-PT": "Parte 2, Lição 21: Da nossa unlio com nosso senhor, o novo adão, pela fé. — nono artigo do symbolo. a egreja"
+      }
+    },
+    {
+      "id": "parte-2-licao-22",
+      "title": {
+        "pt-PT": "Parte 2, Lição 22: Da nossa união com nosso senhor, o novo adão, pela fé. — nono artigo do symbolo (contiuaçãoj"
+      }
+    },
+    {
+      "id": "parte-2-licao-23",
+      "title": {
+        "pt-PT": "Parte 2, Lição 23: Da nossa união com nosso senhor, o novo adão, pela fé. — decimo artigo do symolo"
+      }
+    },
+    {
+      "id": "parte-2-licao-24",
+      "title": {
+        "pt-PT": "Parte 2, Lição 24: Da nossa união com nosso senhor, o novo adão, pela fé. — undécimo artigo do symbolo"
+      }
+    },
+    {
+      "id": "parte-2-licao-25",
+      "title": {
+        "pt-PT": "Parte 2, Lição 25: Da nossa uniau com nosso senhor, o novo adão, pela fé — duodécimo artigo do symbolo"
+      }
+    },
+    {
+      "id": "parte-2-licao-26",
+      "title": {
+        "pt-PT": "Parte 2, Lição 26: Da nossa união com nosso senhor, o novo adão, pela esperança, — esperança e graça"
+      }
+    },
+    {
+      "id": "parte-2-licao-27",
+      "title": {
+        "pt-PT": "Parte 2, Lição 27: Da nossa unlao com nosso senhoe, o novo adão, pela esperança. — primeiro meio de obter a gra- ça e oração"
+      }
+    },
+    {
+      "id": "parte-2-licao-28",
+      "title": {
+        "pt-PT": "Parte 2, Lição 28: Da nossa união com nosso senhor o novo adão, pela esperança. — primeiro meio de obter a gra- ça — a oração. — • oração dominical"
+      }
+    },
+    {
+      "id": "parte-2-licao-29",
+      "title": {
+        "pt-PT": "Parte 2, Lição 29: Da nossa união com nosso senhor, o novo adão, pela esperança. — saudação angélica"
+      }
+    },
+    {
+      "id": "parte-2-licao-30",
+      "title": {
+        "pt-PT": "Parte 2, Lição 30: Da nossa união com nosso senhor, o novo adão, pela esperança. segundo meio de obter a gra- ça, os sacramentos em geral"
+      }
+    },
+    {
+      "id": "parte-2-licao-31",
+      "title": {
+        "pt-PT": "Parte 2, Lição 31: Da nossa união com nosso senhor, o novo adão pela esperança. — do baptismo"
+      }
+    },
+    {
+      "id": "parte-2-licao-32",
+      "title": {
+        "pt-PT": "Parte 2, Lição 32: Da nossa união co]m nosso senhor, o novo adão, pela esperança. — do baptismo (continuação)"
+      }
+    },
+    {
+      "id": "parte-2-licao-33",
+      "title": {
+        "pt-PT": "Parte 2, Lição 33: Da nossa união com nosso senhor, o novo adão, pela esperança. da confirmação"
+      }
+    },
+    {
+      "id": "parte-2-licao-34",
+      "title": {
+        "pt-PT": "Parte 2, Lição 34: Da nossa unlao com nosso senhor;, o novo adão, pela esperança. — da eucharistia"
+      }
+    },
+    {
+      "id": "parte-2-licao-35",
+      "title": {
+        "pt-PT": "Parte 2, Lição 35: Da nossa união com nosso senhor, o novo adão, pela esperança. — da eucharistia (continuação)"
+      }
+    },
+    {
+      "id": "parte-2-licao-36",
+      "title": {
+        "pt-PT": "Parte 2, Lição 36: Da nossa união com nosso senhor, o novo adão; pela esperança. — da penitencia"
+      }
+    },
+    {
+      "id": "parte-2-licao-37",
+      "title": {
+        "pt-PT": "Parte 2, Lição 37: Da nossa união com nosso senhor, o novo adão^ pela esperança. — da penitencia (continuação)"
+      }
+    },
+    {
+      "id": "parte-2-licao-38",
+      "title": {
+        "pt-PT": "Parte 2, Lição 38: Da nossa união com nosso senhor, o novo adão, pela esperança. da penitencia (continuação)"
+      }
+    },
+    {
+      "id": "parte-2-licao-39",
+      "title": {
+        "pt-PT": "Parte 2, Lição 39: Da nossa união com nosso senhor, o novo adão, pela esperança. — das indulgências e do jubi- leu"
+      }
+    },
+    {
+      "id": "parte-2-licao-40",
+      "title": {
+        "pt-PT": "Parte 2, Lição 40: Da nossa unlio com nosso senhor, o novo adão, pela esperança. da extrema-uncção"
+      }
+    },
+    {
+      "id": "parte-2-licao-41",
+      "title": {
+        "pt-PT": "Parte 2, Lição 41: Da nossa união com nosso senhor, o novo adão, pela esperança. — do sacramento da ordem (conti- nuação.^"
+      }
+    },
+    {
+      "id": "parte-2-licao-42",
+      "title": {
+        "pt-PT": "Parte 2, Lição 42: Da nossa união com nosso senhor, o novo adão, pela esperança. — do sacramento do matrimo- nio"
+      }
+    },
+    {
+      "id": "parte-2-licao-43",
+      "title": {
+        "pt-PT": "Parte 2, Lição 43: Da nossa união com nosso senhor, o novo adão, pela caridade"
+      }
+    },
+    {
+      "id": "parte-2-licao-44",
+      "title": {
+        "pt-PT": "Parte 2, Lição 44: Da nossa uniào com nosso semhor, o novo adão, pela caridade. — primeiro .^landamento"
+      }
+    },
+    {
+      "id": "parte-2-licao-45",
+      "title": {
+        "pt-PT": "Parte 2, Lição 45: Da nossa união com nosso senhor, o novo adão, pela caridade. — segundo mandamento"
+      }
+    },
+    {
+      "id": "parte-2-licao-46",
+      "title": {
+        "pt-PT": "Parte 2, Lição 46: Da nossa união com nosso senhor, o novo adão, pela caridade. — terceiro mandamento"
+      }
+    },
+    {
+      "id": "parte-2-licao-47",
+      "title": {
+        "pt-PT": "Parte 2, Lição 47: Da nossa união com nosso senhor, o novo adão, pela caridade. — quarto mandamento"
+      }
+    },
+    {
+      "id": "parte-2-licao-48",
+      "title": {
+        "pt-PT": "Parte 2, Lição 48: Da nossa união com nosso senhor, o novo adao^ pela caridade. — quinto mandamento"
+      }
+    },
+    {
+      "id": "parte-2-licao-49",
+      "title": {
+        "pt-PT": "Parte 2, Lição 49: Da nossa união com nosso senhok, o novo adão, pela caridade. — sexto e nono mandamentos"
+      }
+    },
+    {
+      "id": "parte-2-licao-50",
+      "title": {
+        "pt-PT": "Parte 2, Lição 50: Da nossa união com nosso senhor, o novo adão, pela caridade. sétimo e decimo mandamentos"
+      }
+    },
+    {
+      "id": "parte-2-licao-51",
+      "title": {
+        "pt-PT": "Parte 2, Lição 51: Da nossa união com nosso senhor, o novo adão pela caridade. -— oitavo mandamento"
+      }
+    },
+    {
+      "id": "parte-2-licao-52",
+      "title": {
+        "pt-PT": "Parte 2, Lição 52: Da nossa união com nosso senhor, o novo adão, pela caridade. — os mandamentos da egreja"
+      }
+    },
+    {
+      "id": "parte-2-licao-53",
+      "title": {
+        "pt-PT": "Parte 2, Lição 53: Fim da nossa união com nosso senhor, o novo adão"
+      }
+    },
+    {
+      "id": "parte-2-licao-54",
+      "title": {
+        "pt-PT": "Parte 2, Lição 54: Do que pode quebrar a nossa união coj[ nosso senhor, o novo adào. — do peccado"
+      }
+    },
+    {
+      "id": "parte-2-licao-55",
+      "title": {
+        "pt-PT": "Parte 2, Lição 55: Do que perpetua a nossa união com nosso senhor, o novo adão. — remédios geraes para o pecca- do. — os fins últimos e as virtudes"
+      }
+    },
+    {
+      "id": "parte-3-licao-01",
+      "title": {
+        "pt-PT": "Parte 3, Lição 1: O christianismo estabelecido. — primeira pregação dos apóstolos. — primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-02",
+      "title": {
+        "pt-PT": "Parte 3, Lição 2: O christiaiíismo estabelecido. — vida de s. pedro e s. paulo. — primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-03",
+      "title": {
+        "pt-PT": "Parte 3, Lição 3: O christianismo estabelecido. — \\^da dos outros apóstolos"
+      }
+    },
+    {
+      "id": "parte-3-licao-04",
+      "title": {
+        "pt-PT": "Parte 3, Lição 4: O christianismo estabelecido. — costumes dos pagãos. — primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-05",
+      "title": {
+        "pt-PT": "Parte 3, Lição 5: O christianismo estabelecido. costumes dos chris- tãos. primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-06",
+      "title": {
+        "pt-PT": "Parte 3, Lição 6: O christianismo estabelecido. costumes dos chris- taos. (continuação^. primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-07",
+      "title": {
+        "pt-PT": "Parte 3, Lição 7: O christianismo estabelecido. — costumes dos christãos. (continuação) — primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-08",
+      "title": {
+        "pt-PT": "Parte 3, Lição 8: O christianismo estabelecido. primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-09",
+      "title": {
+        "pt-PT": "Parte 3, Lição 9: O christianismo estabelecido. — primeira e se- gunda perseguições. — primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-10",
+      "title": {
+        "pt-PT": "Parte 3, Lição 10: O christianismo estabelecido. — terceira e quarta perseguições. — primeiro e segundo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-11",
+      "title": {
+        "pt-PT": "Parte 3, Lição 11: O christianismo estabelecido. — quinta e sexta perseguições. — segundo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-12",
+      "title": {
+        "pt-PT": "Parte 3, Lição 12: O christialsrismo estabelecido. — sexta persegui- ção, (continuação). — segundo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-13",
+      "title": {
+        "pt-PT": "Parte 3, Lição 13: O christianismo estabelecido. — sétima perseguição. terceiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-14",
+      "title": {
+        "pt-PT": "Parte 3, Lição 14: O christianismo estabelecido. — oitava e nona perseguições. — terceiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-15",
+      "title": {
+        "pt-PT": "Parte 3, Lição 15: O christianismo estabelecido. — decima persegui- ção. — terceiro e quarto séculos"
+      }
+    },
+    {
+      "id": "parte-3-licao-16",
+      "title": {
+        "pt-PT": "Parte 3, Lição 16: O christianismo estabelecido. decima perse- guição, (continuação). — quarto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-17",
+      "title": {
+        "pt-PT": "Parte 3, Lição 17: O christiá.nismo estabelecido. — decima persegui- ção (continuação). — quarto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-18",
+      "title": {
+        "pt-PT": "Parte 3, Lição 18: O chistíanisxmo estabelecido. — decima persegui- ção. — (continuação). — quarto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-19",
+      "title": {
+        "pt-PT": "Parte 3, Lição 19: O christianismo estabelecido. — conversão de constantino. — quarto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-20",
+      "title": {
+        "pt-PT": "Parte 3, Lição 20: O christianismo estabelecido. — divindade da religião"
+      }
+    },
+    {
+      "id": "parte-3-licao-21",
+      "title": {
+        "pt-PT": "Parte 3, Lição 21: O christianismo estabelecido. — todas as objec- ções destruídas e feitas provas"
+      }
+    },
+    {
+      "id": "parte-3-licao-22",
+      "title": {
+        "pt-PT": "Parte 3, Lição 22: O christianismo conservado e propagado. — santo hilário. — s. martinho. — s. gregório de na- zianza, e s. basílio. quarto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-23",
+      "title": {
+        "pt-PT": "Parte 3, Lição 23: O christianismo conservado e propagado. — santo hilarion. — santo ambrósio. — santo agostinho. — skgundo concilio geral. — quarto e quinto séculos"
+      }
+    },
+    {
+      "id": "parte-3-licao-24",
+      "title": {
+        "pt-PT": "Parte 3, Lição 24: O christíanismo conservado e propagado. — s. chrysostomo. — s. jeronymo. — santo arsénio. — terceiro e quarto concílios. — quinto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-25",
+      "title": {
+        "pt-PT": "Parte 3, Lição 25: O christianismo conservado e propagado. — s. pa- trício. — santa clotilde. s. bento. — quinto"
+      }
+    },
+    {
+      "id": "parte-3-licao-26",
+      "title": {
+        "pt-PT": "Parte 3, Lição 26: O christiaítismo conservado e propagado. — santo agostinho, apostolo de inglaterra. — s. joão, o esmoler. — sexto e sétimo séculos"
+      }
+    },
+    {
+      "id": "parte-3-licao-27",
+      "title": {
+        "pt-PT": "Parte 3, Lição 27: O christianismo. conservado e propagado. — s"
+      }
+    },
+    {
+      "id": "parte-3-licao-28",
+      "title": {
+        "pt-PT": "Parte 3, Lição 28: O christianismo conservado e propagado. — s. so- phroxio. — sexto concilio. — s. willibrod. — séti- mo e oitavo séculos"
+      }
+    },
+    {
+      "id": "parte-3-licao-29",
+      "title": {
+        "pt-PT": "Parte 3, Lição 29: O christianismo conservado e propagado. — s. bo- nifácio.— martyrio dos religiosos de lerins e de santo estevão. — oitavo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-30",
+      "title": {
+        "pt-PT": "Parte 3, Lição 30: O chkistianimo conservado e propagado. — s. joão damasceno. — sétimo concilio. — santo anscario. santo eulogio.— s. methodio. — oitavo e nono sé- culos"
+      }
+    },
+    {
+      "id": "parte-3-licao-31",
+      "title": {
+        "pt-PT": "Parte 3, Lição 31: O christianisaio conservado e propagado. — s. gi- raldo. — santo odon. — santa adelaide. — con- versão dos polacos. — decbio século"
+      }
+    },
+    {
+      "id": "parte-3-licao-32",
+      "title": {
+        "pt-PT": "Parte 3, Lição 32: O christianismo conservado e propagado. — s. bru- no. s. guilherme. s. pedro damiano. — s"
+      }
+    },
+    {
+      "id": "parte-3-licao-33",
+      "title": {
+        "pt-PT": "Parte 3, Lição 33: O christiaxismo conservado e propagado. — fux- daçao do grande s. bernardo. — formação dos camaldulos. — lanfranc, arcebispo de cantor- bery. — decimo primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-34",
+      "title": {
+        "pt-PT": "Parte 3, Lição 34: O christianismo conservado e propagado. — con- versão dos húngaros. — tréguas de deus. — cartuxos. — decimo-primeiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-35",
+      "title": {
+        "pt-PT": "Parte 3, Lição 35: O christtanismo conservado e propagado. — ordens de santo antónio, dos cavalleiros de s. joão,"
+      }
+    },
+    {
+      "id": "parte-3-licao-36",
+      "title": {
+        "pt-PT": "Parte 3, Lição 36: O christiansmo conservado e propagado. — ordens comtemplativas. cavalleiros teutonicos e re- ligiosos da trindade. decimo-segundo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-37",
+      "title": {
+        "pt-PT": "Parte 3, Lição 37: O christianismo conservado e propagado. — ordem do espirito santo. — concilio de latran. — con- versão dos rugianos. — decimo-segundo e deci- mo-terceiro séculos"
+      }
+    },
+    {
+      "id": "parte-3-licao-38",
+      "title": {
+        "pt-PT": "Parte 3, Lição 38: O christianismo conservado e propagado. — as or- dens mendicantes. — s. thomaz. — decimo ter- ceiro século"
+      }
+    },
+    {
+      "id": "parte-3-licao-39",
+      "title": {
+        "pt-PT": "Parte 3, Lição 39: O christianismo conservado e propagado. — fun- dação dos frades cellitas e da ordem de santa brígida. — decimo-quarto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-40",
+      "title": {
+        "pt-PT": "Parte 3, Lição 40: O christianismo conservado e propagado. — con- cilio de vienna. — santa isabel. — • s. joão ne- pomuceno. — conversão de uma parte da tarta- eia. — conversão da lithuania. — século deci- mo-quarto"
+      }
+    },
+    {
+      "id": "parte-3-licao-41",
+      "title": {
+        "pt-PT": "Parte 3, Lição 41: O christiaxismo conservado e propagado. • — con- cilio de constança. s. vicente ferrer. or- dem dos pobres voluntários. — decimo-quinto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-42",
+      "title": {
+        "pt-PT": "Parte 3, Lição 42: O christianismo conservado e propagado. — ordem dos mínimos. — concilio de florença — desco- berta da america. — decimo-quinto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-43",
+      "title": {
+        "pt-PT": "Parte 3, Lição 43: O christianismo conservado e propagado. — com- bate da egreja romana e do protestantismo. — decimo-sexto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-44",
+      "title": {
+        "pt-PT": "Parte 3, Lição 44: O christianismo conservado e propagado. — os"
+      }
+    },
+    {
+      "id": "parte-3-licao-45",
+      "title": {
+        "pt-PT": "Parte 3, Lição 45: O christiaxismo conservado e propagado. — con- cilio de trento. — s. carlos borromeo. — santa thereza. — ursulinas. — pobres da mae de deus. — século decimo-sexto"
+      }
+    },
+    {
+      "id": "parte-3-licao-46",
+      "title": {
+        "pt-PT": "Parte 3, Lição 46: O christianismo conservado e propagado — s. fran- cisco de salles. — missões da america e do le- vante. — s. vicente s. paula. — decimo-sexto século"
+      }
+    },
+    {
+      "id": "parte-3-licao-47",
+      "title": {
+        "pt-PT": "Parte 3, Lição 47: O ciiristianismo conservado e propagado. — jiar- tyres do japão. ordens da trappa e do refu- gio. — decimo sétimo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-48",
+      "title": {
+        "pt-PT": "Parte 3, Lição 48: O chíiistianismo conservado e propagado. — fun- dação dos irmãos das escholas christãs e da or- dem do santo redemptor. — missões na china e america. — decimo-oitavo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-49",
+      "title": {
+        "pt-PT": "Parte 3, Lição 49: O christianismo conservado e propagado. — apo- logistas da religião. — luiza de frança. — de- cimo-oitavo século"
+      }
+    },
+    {
+      "id": "parte-3-licao-50",
+      "title": {
+        "pt-PT": "Parte 3, Lição 50: O christianismo conservado e propagado. — o cle- ro de frança. martyres da revolução. — mis- são da coréa. — fim do decimo-oitavo século"
+      }
+    },
+    {
+      "id": "parte-4-licao-01",
+      "title": {
+        "pt-PT": "Parte 4, Lição 1: O christianismo feito sensível. — necessidade e vantagens do culto exterior"
+      }
+    },
+    {
+      "id": "parte-4-licao-02",
+      "title": {
+        "pt-PT": "Parte 4, Lição 2: O christianismo feito sensível. — das vantagens do culto externo (continuação). — origem das ce- remonias"
+      }
+    },
+    {
+      "id": "parte-4-licao-03",
+      "title": {
+        "pt-PT": "Parte 4, Lição 3: O christianismo feito sensível. — das ergejas"
+      }
+    },
+    {
+      "id": "parte-4-licao-04",
+      "title": {
+        "pt-PT": "Parte 4, Lição 4: O chrístianismo feito sensível. — das egrejas"
+      }
+    },
+    {
+      "id": "parte-4-licao-05",
+      "title": {
+        "pt-PT": "Parte 4, Lição 5: O cnristianismo feito sensível. — objecto e belleza das festas"
+      }
+    },
+    {
+      "id": "parte-4-licao-06",
+      "title": {
+        "pt-PT": "Parte 4, Lição 6: O christl^nismo f^eito sensível. — do officío"
+      }
+    },
+    {
+      "id": "parte-4-licao-07",
+      "title": {
+        "pt-PT": "Parte 4, Lição 7: O ciiuistianismo feito sensível. — do officio"
+      }
+    },
+    {
+      "id": "parte-4-licao-08",
+      "title": {
+        "pt-PT": "Parte 4, Lição 8: O christianismo feito sensível, — do officio.^ — do uso do latim. — do canto"
+      }
+    },
+    {
+      "id": "parte-4-licao-09",
+      "title": {
+        "pt-PT": "Parte 4, Lição 9: O christiaxismo feito sensível do sacrifício em"
+      }
+    },
+    {
+      "id": "parte-4-licao-10",
+      "title": {
+        "pt-PT": "Parte 4, Lição 10: O christianismo feito sensível. — dos vestidos do sacerdote"
+      }
+    },
+    {
+      "id": "parte-4-licao-11",
+      "title": {
+        "pt-PT": "Parte 4, Lição 11: O christianismo feito sensível. — dos ornatos dos bispos, da cor dos ornatos"
+      }
+    },
+    {
+      "id": "parte-4-licao-12",
+      "title": {
+        "pt-PT": "Parte 4, Lição 12: O christianismo feito sensível. — dos yasos sagra- dos e da agua-benta"
+      }
+    },
+    {
+      "id": "parte-4-licao-13",
+      "title": {
+        "pt-PT": "Parte 4, Lição 13: O christianismo feito sensível. — das procissões e da primeira parte da missa"
+      }
+    },
+    {
+      "id": "parte-4-licao-14",
+      "title": {
+        "pt-PT": "Parte 4, Lição 14: O christianismo peito sensível. — da segunda par- te da missa. (continuação)"
+      }
+    },
+    {
+      "id": "parte-4-licao-15",
+      "title": {
+        "pt-PT": "Parte 4, Lição 15: O christianismo feito sensível. — segunda e ter- ceira parte da missa"
+      }
+    },
+    {
+      "id": "parte-4-licao-16",
+      "title": {
+        "pt-PT": "Parte 4, Lição 16: O christianismo feito sensível. — terceira parte da missa. (continuação)"
+      }
+    },
+    {
+      "id": "parte-4-licao-17",
+      "title": {
+        "pt-PT": "Parte 4, Lição 17: O christianismo feito sensível. — terceira e quar- ta parte da missa"
+      }
+    },
+    {
+      "id": "parte-4-licao-18",
+      "title": {
+        "pt-PT": "Parte 4, Lição 18: O christiaxismo feito sensível. — da quinta parte da missa"
+      }
+    },
+    {
+      "id": "parte-4-licao-19",
+      "title": {
+        "pt-PT": "Parte 4, Lição 19: O christianismo feito sensível. — sexta parte da missa"
+      }
+    },
+    {
+      "id": "parte-4-licao-20",
+      "title": {
+        "pt-PT": "Parte 4, Lição 20: O ghristianismo feito sensível. — dos dias da semana e do mez"
+      }
+    },
+    {
+      "id": "parte-4-licao-21",
+      "title": {
+        "pt-PT": "Parte 4, Lição 21: O christianisxmo feito sensível. — do advento"
+      }
+    },
+    {
+      "id": "parte-4-licao-22",
+      "title": {
+        "pt-PT": "Parte 4, Lição 22: O christianismo feito sensível. — festa da imma- culada conx-eição de nossa senhora"
+      }
+    },
+    {
+      "id": "parte-4-licao-23",
+      "title": {
+        "pt-PT": "Parte 4, Lição 23: O christianismo feito sensível. — das têmporas e vigílias"
+      }
+    },
+    {
+      "id": "parte-4-licao-24",
+      "title": {
+        "pt-PT": "Parte 4, Lição 24: O christiaxismo feito sensível. — xatal"
+      }
+    },
+    {
+      "id": "parte-4-licao-25",
+      "title": {
+        "pt-PT": "Parte 4, Lição 25: O christianismo feito sensível. — festa da cir- cumcisao"
+      }
+    },
+    {
+      "id": "parte-4-licao-26",
+      "title": {
+        "pt-PT": "Parte 4, Lição 26: O chistianismo feito sensível. — epiphania"
+      }
+    },
+    {
+      "id": "parte-4-licao-27",
+      "title": {
+        "pt-PT": "Parte 4, Lição 27: O christianismo feito sensível. — da purificação"
+      }
+    },
+    {
+      "id": "parte-4-licao-28",
+      "title": {
+        "pt-PT": "Parte 4, Lição 28: O christianismo feito sensível. — jejum. — qua- renta horas"
+      }
+    },
+    {
+      "id": "parte-4-licao-29",
+      "title": {
+        "pt-PT": "Parte 4, Lição 29: O chkistianismo feito sensível. — quaresma"
+      }
+    },
+    {
+      "id": "parte-4-licao-30",
+      "title": {
+        "pt-PT": "Parte 4, Lição 30: O chkistianismo feito sensível. — os quinze últi- mos dias da quaresma"
+      }
+    },
+    {
+      "id": "parte-4-licao-31",
+      "title": {
+        "pt-PT": "Parte 4, Lição 31: O christianismo feito sensível. — domingo de ra- mos. — quinta feira santa"
+      }
+    },
+    {
+      "id": "parte-4-licao-32",
+      "title": {
+        "pt-PT": "Parte 4, Lição 32: O christianismo feito sensível. — sabbado-santo"
+      }
+    },
+    {
+      "id": "parte-4-licao-33",
+      "title": {
+        "pt-PT": "Parte 4, Lição 33: O christianismo feito sensível. — annunciaçaq"
+      }
+    },
+    {
+      "id": "parte-4-licao-34",
+      "title": {
+        "pt-PT": "Parte 4, Lição 34: O christianismo feito sensível. — mez de maria. — escapulário. — rosário"
+      }
+    },
+    {
+      "id": "parte-4-licao-35",
+      "title": {
+        "pt-PT": "Parte 4, Lição 35: O ciiristianismo feito sensível. — ladainhas"
+      }
+    },
+    {
+      "id": "parte-4-licao-36",
+      "title": {
+        "pt-PT": "Parte 4, Lição 36: O christianismo feito sensível. — ascensão"
+      }
+    },
+    {
+      "id": "parte-4-licao-37",
+      "title": {
+        "pt-PT": "Parte 4, Lição 37: O christianismu feito sensível. — pentecostes"
+      }
+    },
+    {
+      "id": "parte-4-licao-38",
+      "title": {
+        "pt-PT": "Parte 4, Lição 38: O christianismo feito sensível. — trindade"
+      }
+    },
+    {
+      "id": "parte-4-licao-39",
+      "title": {
+        "pt-PT": "Parte 4, Lição 39: O christianismo feito sensível. — cokpus-chkisti"
+      }
+    },
+    {
+      "id": "parte-4-licao-40",
+      "title": {
+        "pt-PT": "Parte 4, Lição 40: O chrlstianismo feito sensível. — coração de jesus"
+      }
+    },
+    {
+      "id": "parte-4-licao-41",
+      "title": {
+        "pt-PT": "Parte 4, Lição 41: O christianismo feito sensível — visitaçlo"
+      }
+    },
+    {
+      "id": "parte-4-licao-42",
+      "title": {
+        "pt-PT": "Parte 4, Lição 42: O christiaxismo feito sensível. — invenção e exaltação da santa cruz"
+      }
+    },
+    {
+      "id": "parte-4-licao-43",
+      "title": {
+        "pt-PT": "Parte 4, Lição 43: O ctiristiaxismo feito sensível. — festas de s. miguel e dos anjos da guarda"
+      }
+    },
+    {
+      "id": "parte-4-licao-44",
+      "title": {
+        "pt-PT": "Parte 4, Lição 44: O christianismo feito sensível. — festa de todos os santos"
+      }
+    },
+    {
+      "id": "parte-4-licao-45",
+      "title": {
+        "pt-PT": "Parte 4, Lição 45: O cristianismo feito sensível. — os defunctos"
+      }
+    },
+    {
+      "id": "parte-4-licao-46",
+      "title": {
+        "pt-PT": "Parte 4, Lição 46: O ciiristianismo feito sensível. — a consagração"
+      }
+    },
+    {
+      "id": "analyse",
+      "title": {
+        "pt-PT": "Análise de Camillo Castello-Branco"
+      }
+    }
+  ]
+}
