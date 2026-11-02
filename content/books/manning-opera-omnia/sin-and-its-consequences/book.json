@@ -1,0 +1,87 @@
+{
+  "id": "manning-sin-and-its-consequences",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sin and its Consequences",
+    "pt-BR": "O Pecado e as Suas Consequências"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Manning's eight Lenten sermons of 1874, preached at the Pro-Cathedral, Kensington: the nature of sin, mortal sin, venial sin, sins of omission, the grace and works of penance, temptation, the dereliction on the cross and the joys of the Resurrection.",
+    "pt-BR": "Os oito sermões quaresmais de Manning (1874), pregados na Pró-Catedral de Kensington: a natureza do pecado, o pecado mortal, o pecado venial, os pecados de omissão, a graça e as obras da penitência, a tentação, o abandono na cruz e as alegrias da Ressurreição."
+  },
+  "composed": 1874,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/sin-and-its-consequences",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, 1874)",
+      "year": 1874
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591995600mannuoft",
+      "edition": "Sin and its Consequences (London: Burns and Oates, 1874), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The eight sermons; the contents and the publisher's advertisements are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1874, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon I. The Nature of Sin"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon II. Mortal Sin"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon III. Venial Sin"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon IV. Sins of Omission"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon V. The Grace and Works of Penance"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon VI. Temptation"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon VII. The Dereliction on the Cross"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon VIII. The Joys of the Resurrection"
+      }
+    }
+  ]
+}
