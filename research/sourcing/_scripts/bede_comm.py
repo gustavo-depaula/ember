@@ -37,6 +37,8 @@ def units(text, restart=False, label='Liber'):
     return out
 def tcase2(s):
     s = s.rstrip('.').strip()
+    if not s.isupper(): return s
+    return ' '.join(w.lower() if (w in ('AD', 'DE', 'ET', 'IN') and k) else w[:1] + w[1:].lower() for k, w in enumerate(s.split(' ')))
 def build(srcs, restart=False):
     """srcs: list of (ws name, unit title or None). Returns (toc, chapters, rawtext)."""
     toc = []; chs = {}; raw = []
