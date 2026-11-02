@@ -1,0 +1,66 @@
+{
+  "id": "bede-in-actus-apostolorum",
+  "cover": "classic",
+  "name": {
+    "la": "In Actus apostolorum expositio, Retractatio, De nominibus locorum",
+    "en-US": "On the Acts of the Apostles (with the Retractation and the Names of Places)",
+    "pt-BR": "Sobre os Atos dos Apóstolos (com a Retratação e os Nomes dos Lugares)"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Expositio super Acta apostolorum; Retractatio in Actus; De nominibus locorum, quae in Actibus apostolorum leguntur.",
+    "en-US": "Bede's commentary on Acts, his later Retractation (a second reading of the book against the Greek text), and the short list of place-names in Acts. Latin text of Migne (PL 91-93); no public-domain English translation is known.",
+    "pt-BR": "O comentário de Beda aos Atos, a Retratação posterior (uma segunda leitura do livro à luz do texto grego) e a breve lista dos nomes de lugares nos Atos."
+  },
+  "composed": "c. 709-731",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/in-actus-apostolorum",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 91-93 (1862-1863), after Giles (1843-44)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "Expositio super Acta Apostolorum Beda; Retractatio in Acta Apostolorum; De nominibus locorum on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina.",
+      "description": "Wikitext removed; inline PL column numbers dropped; one file per book (or per part), chapter divisions kept as headings with their rubrics.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint of Giles: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "u01",
+      "title": {
+        "la": "Expositio",
+        "en-US": "Exposition"
+      }
+    },
+    {
+      "id": "u02",
+      "title": {
+        "la": "Retractatio",
+        "en-US": "Retractation"
+      }
+    },
+    {
+      "id": "u03",
+      "title": {
+        "la": "De nominibus locorum",
+        "en-US": "On the Names of Places"
+      }
+    }
+  ]
+}
