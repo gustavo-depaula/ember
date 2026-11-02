@@ -1,0 +1,324 @@
+{
+  "id": "bossuet-lettres-ecrites-a-bossuet",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres écrites à Bossuet",
+    "en-US": "Letters Written to Bossuet",
+    "pt-BR": "Cartas escritas a Bossuet"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Lettres adressées à Bossuet par divers correspondants (Gerbais, Pirot, Pussyran et d’autres), avec un mémoire pour l’université de Douai. Édition Lachat (1864), tome XXX.",
+    "en-US": "Letters addressed to Bossuet by various correspondents (Gerbais, Pirot, Pussyran and others), with a memorandum for the University of Douai. Lachat edition (1864), volume XXX.",
+    "pt-BR": "Cartas dirigidas a Bossuet por diversos correspondentes (Gerbais, Pirot, Pussyran e outros), com um memorial para a universidade de Douai. Edição Lachat (1864), tomo XXX."
+  },
+  "composed": "1670–1704",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/lettres-ecrites-a-bossuet",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume030/016.htm to 017.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXX, pages 016-017 (Lettres écrites à Bossuet). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l001",
+      "title": {
+        "fr-FR": "Lettre première. M. l’abbé Fleury à Bossuet. À Paris, ce jeudi 28 septembre 1684"
+      }
+    },
+    {
+      "id": "l002",
+      "title": {
+        "fr-FR": "Lettre II. M. l’abbé de Saint-Luc à Bossuet. À Paris, ce 28 septembre 1684"
+      }
+    },
+    {
+      "id": "l003",
+      "title": {
+        "fr-FR": "Lettre III. M. l’abbé Fleury à Bossuet. À Paris, ce 15 octobre 1684"
+      }
+    },
+    {
+      "id": "l004",
+      "title": {
+        "fr-FR": "Lettre IV. M. Obrecht à Bossuet. À Strasbourg, ce 1er mai 1686"
+      }
+    },
+    {
+      "id": "l005",
+      "title": {
+        "fr-FR": "Lettre V. M. Obrecht à Bossuet. De Strasbourg, ce 20 juin 1687"
+      }
+    },
+    {
+      "id": "l006",
+      "title": {
+        "fr-FR": "Lettre VI. M. Obrecht à Bossuet. À Strasbourg, ce 14 juillet 1687"
+      }
+    },
+    {
+      "id": "l007",
+      "title": {
+        "fr-FR": "Lettre VII. M. Obrecht à Bossuet. À Strasbourg, ce 10 mai 1692"
+      }
+    },
+    {
+      "id": "l008",
+      "title": {
+        "fr-FR": "Lettre VIII. M. Obrecht à Bossuet. À Strasbourg, ce 10 juin 1692"
+      }
+    },
+    {
+      "id": "l009",
+      "title": {
+        "fr-FR": "Lettre IX. Dom Claude Devert à Bossuet. Au prieuré de Saint-Pierre d’Abbeville, ce 20 juillet 1686"
+      }
+    },
+    {
+      "id": "l010",
+      "title": {
+        "fr-FR": "Lettre X. Dom Claude Devert Abossuet. Abbeville, ce 16 août 1686"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "fr-FR": "Lettre XI. Dom Claude Devert à Bossuet. Au prieuré de Saint-Pierre d’Abbeville, ce 26 septembre 1686"
+      }
+    },
+    {
+      "id": "l012",
+      "title": {
+        "fr-FR": "Lettre XII. Dom Claude Devert à Bossuet. À Paris, ce 28 juin 1687"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "fr-FR": "Lettre XIII. Dom Mabillon à Bossuet. À Paris, ce 29 octobre 1686"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "fr-FR": "Lettre XIV. L’abbé Renaudot à Bossuet. À Paris, ce 10 juillet 1687"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "fr-FR": "Lettre XV. L’abbé Renaudot à Bossuet. À Paris, ce 13 octobre 1687"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "fr-FR": "Lettre XVI. M. le Feuvre, Docteur de Sorbonne, à Bossuet. Ce 13 mai 1687"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "fr-FR": "Lettre XVII. M. Pirot, Docteur de Sorbonne, à Bossuet. En Sorbonne, ce 7 juin 1687"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "fr-FR": "Lettre XVIII. Dom Bernard de Montfaucon à Bossuet"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "fr-FR": "Lettre XIX. L’abbé de Langeron, à Bossuet. Le samedi saint, 1688"
+      }
+    },
+    {
+      "id": "l020",
+      "title": {
+        "fr-FR": "Lettre XX. M. des Mahis, Chanoine d’Orléans, à Bossuet. À Orléans, ce 5 mai 1688"
+      }
+    },
+    {
+      "id": "l021",
+      "title": {
+        "fr-FR": "Lettre XXI. M. des Mahis à Bossuet. À Paris, ce 27 juillet 1691"
+      }
+    },
+    {
+      "id": "l022",
+      "title": {
+        "fr-FR": "Lettre XXII. Le Ministre de la Maison du Roi à Bossuet. À Marly, 14 juin 1688"
+      }
+    },
+    {
+      "id": "l023",
+      "title": {
+        "fr-FR": "Lettre XXIII. L’abbé de Fénelon à Bossuet. À Versailles, ce 3 mars 1692"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "fr-FR": "Lettre XXIV. L’abbé de Fénelon à Bossuet. À Versailles, ce 23 mars 1692"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "fr-FR": "Lettre XXV. L’abbé de Fénelon à Bossuet. À Versailles, ce 25 avril 1692"
+      }
+    },
+    {
+      "id": "l026",
+      "title": {
+        "fr-FR": "Lettre XXVI. L’abbé de Fénelon à Bossuet. À Versailles, ce 4 mai 1692"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "fr-FR": "Lettre XXVII. L’abbé de Fénelon, à Bossuet. À Versailles, ce 16 décembre 1694"
+      }
+    },
+    {
+      "id": "l028",
+      "title": {
+        "fr-FR": "Lettre XXVIII. M. Gerbais, Docteur de Sorbonne, à Bossuet. À Paris, ce 18 mars 1691"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "fr-FR": "Lettre XXIX. M. Pirot, Docteur de Sorbonne, à Bossuet. En Sorbonne, ce 13 mars 1692"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "fr-FR": "Lettre XXX. M. Pirot, Docteur de Sorbonne, à Bossuet. En Sorbonne, ce 21 mars 1692"
+      }
+    },
+    {
+      "id": "l031",
+      "title": {
+        "fr-FR": "Lettre XXXI. M. Gerbais, Docteur de Sorbonne, à Bossuet. À Paris, ce 12 avril 1692"
+      }
+    },
+    {
+      "id": "l032",
+      "title": {
+        "fr-FR": "Lettre XXXII. M. Dupin à Bossuet. À Paria, ce 12 avril 1692"
+      }
+    },
+    {
+      "id": "l033",
+      "title": {
+        "fr-FR": "Lettre XXXIII. M. Arnauld, Docteur de Sorbonne, à Bossuet. Juillet 1693"
+      }
+    },
+    {
+      "id": "l034",
+      "title": {
+        "fr-FR": "Lettre XXXIV. M. Pirot, Docteur de Sorbonne, à Bossuet. En Sorbonne, ce 9 septembre 1693"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "fr-FR": "Lettre XXXV. M. Pirot, Docteur de Sorbonne, à Bossuet. En Sorbonne, ce 21 juillet 1700"
+      }
+    },
+    {
+      "id": "l036",
+      "title": {
+        "fr-FR": "Lettre XXXVI. Le P. De la Rue, Jésuite, à Bossuet. À Nimes, ce 17 janvier 1701"
+      }
+    },
+    {
+      "id": "l037",
+      "title": {
+        "fr-FR": "Lettre XXXVII. M. Vuitasse, Professeur de Sorbonne, à Bossuet. En Sorbonne, ce 6 avril 1701"
+      }
+    },
+    {
+      "id": "l038",
+      "title": {
+        "fr-FR": "Lettre XXXVIII. M Capperonnier, Licencié en Théologie, à Bossuet. Paris, 1702"
+      }
+    },
+    {
+      "id": "l039",
+      "title": {
+        "fr-FR": "Lettre XXXIX. M. Capperonnier, Licencié en Théologie, à Bossuet. 1703"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "fr-FR": "Lettre XL. M. l’évêque d’Arras, à Bossuet. À Douai, ce 25 juillet 1702"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "fr-FR": "Lettre XLI. M. Monnier de Richardin, Recteur de l’Université de Douai, à Bossuet. À Douai, ce 28 juillet 1702"
+      }
+    },
+    {
+      "id": "l042",
+      "title": {
+        "fr-FR": "XLII. Mémoire pour l’Université de Douai"
+      }
+    },
+    {
+      "id": "l043",
+      "title": {
+        "fr-FR": "Les Facultés. — Celle de Théologie"
+      }
+    },
+    {
+      "id": "l044",
+      "title": {
+        "fr-FR": "Les Facultés des Droits"
+      }
+    },
+    {
+      "id": "l045",
+      "title": {
+        "fr-FR": "Lettre XLIII. M. de Fleury, Évêque de Fréjus, à Bossuet. À Fréjus, ce 30 mai 1703"
+      }
+    },
+    {
+      "id": "l046",
+      "title": {
+        "fr-FR": "Lettre XLIV. M. de Bissy, Évêque de Toul, à Bossuet. À Toul, ce 2 novembre 1703"
+      }
+    },
+    {
+      "id": "l047",
+      "title": {
+        "fr-FR": "Lettre XLV. M. Pussyran"
+      }
+    }
+  ]
+}
