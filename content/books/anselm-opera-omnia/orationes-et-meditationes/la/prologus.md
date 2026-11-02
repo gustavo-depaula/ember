@@ -1,0 +1,3 @@
+# Prologus
+
+Meditationes seu orationes quae subcriptae sunt, quoniam ad excitandam legentis mentem ad Dei amorem vel timorem, seu ad suimet discussionem editae sunt, non sunt legendae in tumultu, sed in quiete, nec velociter, sed paulatim, cum intenta et morosa meditatione. Nec debet intendere lector ut quamlibet illarum totam perlegat; sed quantum sentit, Deo adjuvante, sibi valere ad accendendum affectum orandi, vel quantum illum delectat. Nec necesse habet aliquam semper a principio incipere, sed ubi magis illi placuerit. Ad hoc enim ipsum paragraphis sunt distinctae, ut ubi elegerit incipiat vel desinat, ne prolixitas aut frequens ejusdem loci repetitio generet fastidium; sed potius aliquem inde colligat lector, propter quod factae sunt, pietatis affectum.
