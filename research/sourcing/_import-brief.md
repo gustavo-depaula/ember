@@ -52,4 +52,6 @@ Generic User-Agent `EmberCorpusResearch/1.0`; never put personal data (email, na
 
 ## Report
 
+Add every problem you leave open (scanning errors, a missing translation, partial text, unsettled rights) under the matching heading of "First-wave imports" in `PROBLEMS.md`, and commit it with your book.
+
 When done: per book, the id, path, languages, word counts per language, sources used (tier), what was left out or uncertain, and the commit sha.
