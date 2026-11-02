@@ -1,0 +1,25 @@
+# Lettre LXXXVII. Au Même
+
+*(MINUTE INÉDITE) (en italien)*
+
+Protestations d'obéissance et de dévouement. - Nouvel exposé des difficultés de la mission. - Promesse faite par les Religieux d'Ainay. - Prédication du Saint à Cervens. - Destination du chanoine Roget. - Les hérétiques prétendent retirer à M. d'Avully la dignité de juge de leur consistoire.
+
+Thonon, 12 mars 1597. Mon très honoré, lllustrissime et Révérendissime Seigneur,
+
+J'ai reçu aujourd'hui votre lettre en date du 25 février, avec la triple copie des précédentes ; elle m'a causé autant de douleur que Votre Seigneurie Illustrissime me montre d'étonnement du retard de ma réponse aux lettres précédentes, car elle m'inspire la crainte d'être tenu pour peu empressé à exécuter vos ordres. Je supplie très humblement votre bonté de croire plutôt toute autre chose d'un serviteur qui vous a tant d'obligations et qui vous est si attaché, et d'être persuadé que c'est l'occasion et non la volonté qui m'a manqué. C'est surtout que j'attendais de jour en jour le départ du chevalier Bergera et la mise à exécution de l'ordre donné pour les six curés, afin de faire ensuite une réponse plus satisfaisante, plus sûre et plus complète.
+
+Maintenant je remercie très humblement Votre Seigneurie Illustrissime de la protection accordée à ces églises du diocèse de Genève et de la réponse du Cardinal Aldobrandino.
+
+Depuis le départ de M. le chevalier Bergera je n'ai plus reçu ni argent ni autre chose, sinon les trente coupes de froment qu'il laissa. Ce n'est pas la faute dudit chevalier, qui est bon et bien intentionné, mais celle des gens qui ont affermé les biens de la Religion et auxquels déjà il avait ordonné de payer ; néanmoins ils diffèrent tant qu'ils peuvent d'un jour à l'autre. C'est pourquoi je ne puis appeler des prêtres et des curés, n'ayant pas d'argent à leur donner pour commencer à établir leur résidence dans ce bailliage. Je n'espère donc pas un grand résultat de ces pensions avant la fin du Carême, soit parce que je manque d'argent, soit parce que nous ne pourrions retirer les prêtres des églises où ils sont occupés à entendre les confessions et à exercer d'autres ministères. Quant à moi, je ne puis les accompagner ni les installer, me trouvant retenu ici pour la même raison.
+
+Outre les six pensions assignées par l'Ordre de Saint-Lazare, nous en aurons après Pâques une septième des Religieux d' Ainay, de Lyon , qui, ayant ici un bon prieuré, m'ont promis d'en donner une telle que je la demanderai, sans se régler sur les pensions des Chevaliers.
+
+Dimanche dernier, troisième de Carême , ayant prêché le matin de bonne heure, selon la coutume, dans la paroisse des Allinges, je passai dans une autre paroisse distante de trois milles, appelée Cervens, où je n'avais pas encore été. Et ayant averti le peuple que je souhaitais prêcher, j'eus une nombreuse et bienveillante assistance qui, au sortir du sermon, me témoigna un ardent désir de ce pain des enfants. (Mt 15,26). Mais j'eus grand'peine à me rendre à temps pour le sermon de Thonon, qui est à cinq ou six milles de Cervens, de sorte que, étant fixé ici, il m'est presque impossible d'évangéliser plusieurs localités. Ayant donc sondé la disposition du peuple de cette paroisse, j'ai résolu d'y placer un des six curés pensionnés et un autre aux Allinges. C'est le docteur Roget qui viendra ici, selon la promesse qu'il m'en a faite, lequel doit vous être certainement connu, puisqu'il a été député pour le voyage de Piémont ; étant bon et très expérimenté prédicateur, il pourra desservir deux paroisses. Mais je suis résolu de n'admettre à l'abjuration que des personnes véritablement bien instruites, dans la mesure que leur capacité comportera. Votre Seigneurie Illustrissime voit donc la cause pour laquelle les affaires de la religion ne se font pas avec l'ardeur désirable : c'est l'avarice de ceux qui détiennent les biens ecclésiastiques et le mauvais usage qu'ils en font.
+
+Je ne veux pas omettre de vous dire que M. d'Avully ayant été jusqu'ici juge du consistoire suprême des hérétiques, ceux-ci prétendaient le récuser ces jours passés. Il n'a point voulu le souffrir, disant que ce consistoire n'étant établi que pour la correction des vices, sa conversion au catholicisme ne lui a point ôté le zèle et le jugement nécessaires à cette correction, mais qu'elle les lui a grandement augmentés, en sorte qu'il ne doit point être tenu pour incapable.
+
+Je viens supplier encore une fois Votre Seigneurie de vouloir bien presser le nouvel Abbé (cf note 215), ou l'ancien, n'importe lequel, de faire payer exactement la pension due au prédicateur ordinaire d'Evian, parce que cette ville mérite d'être aidée, et le prédicateur qu'ils ont maintenant est digne d'égards sous plusieurs rapports. N'ayant présente à l'esprit aucune autre particularité qui vaille la peine d'être signalée, je prie Notre-Seigneur vous donner tout vrai contentement, et je serai toujours,
+
+De Votre Seigneurie Illustrissime ……………………….
+
+Revu sur l'Autographe appartenant à Mme Doroz, née d'Arcine, à Besançon.

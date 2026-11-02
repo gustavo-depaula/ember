@@ -1,0 +1,41 @@
+# Lettre XCVII. Au Même
+
+*(en italien)*
+
+Maladie de l'Evêque de Genève. - Obligations de l'Abbé d'Abondance envers le prédicateur d'Evian. - Indigence des Religieuses de Sainte-Claire.- Poursuites à faire pour obtenir la conférence avec les ministres. - Le Saint sollicite l'autorisation de concourir pour la cure du Petit-Bornand. La permission de lire les livres hérétiques est nécessaire aux missionnaires.
+
+Annecy, 31 mai 1597.
+
+Mon très honoré, Illustrissime et Révérendissime Seigneur,
+
+Après avoir écrit de Thonon à Votre Seigneurie Illustrissime le 27 de ce mois, je reçus la nouvelle que Mgr notre Révérendissime Evêque était très malade, et que, se sentant en danger de mort, il désirait extrêmement me voir. Je partis aussitôt, et à peine arrivé ici j'y trouvai votre lettre du 12 courant. Vous ayant exposé dans la précédente l'état des affaires du Chablais, je n'ai maintenant aucune réponse à vous faire, si ce n'est au sujet du prédicateur d'Evian.
+
+J'envoie à Votre Seigneurie Illustrissime une copie du Bref de Sa Sainteté en faveur du feu P. Papard : vous y verrez les motifs pour lesquels le Pape jugea raisonnable que l'Abbé donnât cette prébende, motifs qui actuellement sont plus pressants que jamais. Ce pays est dans la gueule des hérétiques et n'a aucun autre moyen d'entretenir un prédicateur ; l'Abbé perçoit toutes les dîmes, c'est donc justice qu'il paisse la brebis dont il tond la laine. C'est le plus grand service qui soit rendu au Seigneur en toute cette abbaye. L'Abbé d'Aulps , lequel n'y est pas si fort tenu, donne une pension entière pour l'école des enfants. Le prédicateur actuel est un homme de grand mérite; quoiqu'il soit vicaire général de la province Gallicane de son Ordre, il n'a pas laissé néanmoins cette année de prêcher l'Avent et le Carême, et quand il sera déchargé de son office il fera encore plus de bien. S'il n'est pas allé à Abondance, ce sera sans doute ou parce qu'il n'aura pas été invité, ou parce que la cessation de la prébende aura précédé la cessation des prédications. Quant à l'autre prédicateur que l'Abbé dit être obligé d'entretenir dans son abbaye, je crois que cela doit se faire, mais je sais et je crois que cela ne se fait pas. A la vérité, l'Abbé ne serait pas trop chargé d'avoir deux prédicateurs à son compte ; il me semble, au contraire, qu'il le serait bien davantage s'il ne les avait pas.
+
+Les Religieuses d'Evian sont non seulement pauvres, mais elles endurent la faim, et je sais que l'Abbé leur fait l'aumône ; pour ce qui est de leur donner une prébende, comme il le prétend, je pense qu'il faut distinguer entre prébende et prébende. J'aurai bientôt des renseignements vrais et détaillés à ce sujet.
+
+Quant à l'opinion que M. l'Abbé prétend donner si gratuitement à Votre Seigneurie Illustrissime, qu'en général il ne faut pas se fier aux Savoyards, je la regarde comme une impertinence telle qu'elle ne mérite pas de réponse. Qu'il s'efforce tant qu'il voudra d'insinuer de semblables opinions ; pour moi je suis sûr de convaincre du contraire par des effets : c'est-à-dire, qu'en cela ni en chose quelconque je n'use point de mensonge ou d'artifice auprès de Votre Seigneurie, et que je ne demande pas un seul denier des revenus de son abbaye.
+
+Hier je reçus l'autre lettre de Votre Seigneurie Illustrissime et je vis la copie de celle de M. le Cardinal de Santa-Severina. Mgr le Révérendissime manda aussitôt le P. Provincial des Capucins , qui était ici, pour le charger d'écrire au P. Chérubin, actuellement à Montmélian, et lui ordonner de venir rendre une réponse positive à ceux de Genève. Cette réponse n'a pu être donnée jusqu'à présent; cependant il faut au plus tôt prendre de part et d'autre une résolution définitive. Ce Père est très diligent et adroit, il traitera donc promptement l'affaire. Dès qu'il aura achevé, Votre Seigneurie sera informée par le menu de nos moindres projets afin qu'ils soient tous dirigés par vous. Nous vous demanderons plus ou moins de théologiens selon le nombre de conférenciers voulu par ceux de Genève, et nous tâcherons de toute façon qu'il y ait deux ou trois Jésuites. Nous ne nous endormirons point en cette négociation, et vous en serez averti immédiatement, dans le plus grand détail. Je me félicite de ce que Sa Sainteté en a laissé le soin à Votre Seigneurie et à Mgr le Révérendissime, car ainsi tout se fera d'une manière plus expéditive et plus fructueuse.
+
+Depuis vingt jours Monseigneur est au lit très malade ; il a reçu pendant ce temps deux lettres de Votre Seigneurie, l'une le 26, l'autre hier par M. le chanoine Floccard , et regrette beaucoup de n'avoir pu vous répondre, parce que le médecin n'a pas voulu le lui permettre. Il espère néanmoins recouvrer un peu de force et vous donner, dans quelques jours. pleine et entière satisfaction au sujet de vos lettres et de celles de M. Giustiniani, lequel n'est certainement pas bien informé des affaires de ce pays ni des comptes de Monseigneur son oncle . Mgr notre Révérendissime Evêque vous prie donc de patienter un peu jusqu'à ce qu'il puisse vous répondre,
+
+Un bénéfice-cure, c'est-à-dire une cure, est maintenant vacant ; il peut rapporter environ deux cents écus de revenu les bonnes années, et doit, comme de coutume, se donner au concours. Plusieurs de mes amis, même spirituels, m'engagent à me prévaloir de cette occasion, car nous n'en avons pas de meilleure dans ce pays. Pour ne point mépriser leur avis, je le ferai, mais à la condition de ne jouir de ce bénéfice que sous le bon plaisir et avec l'assentiment de Votre Seigneurie Illustrissime, puisque je ne puis avoir et conserver avec cette cure la prévôté de l'église cathédrale. Il est bien vrai que la prévôté n'a pas un liard de rente et le canonicat que l'on donne au Prévôt ne rapporte en moyenne que soixante écus par an; j'estimerais donc plus avantageux d'être un curé renté, que d'être un pauvre Prévôt, n'était l'espoir de notre retour à Genève, lequel soutient encore maintenant plusieurs docteurs distingués et nobles qui ont appartenu à notre Eglise. Mais, pour parler clairement, je suis presque contraint de céder cette prévôté à quelqu'un qui puisse résider ici plus assidûment que je ne le fais moi-même pendant que je suis occupé en Chablais, et qui ait en même temps de quoi vivre sans ce revenu. J'ai à la vérité vécu jusqu'à présent, et mieux que je ne le mérite, mais d'une manière précaire ; c'est pourquoi, toutes choses bien pesées, je me résous à demander la cure, qui est le plus riche bénéfice de ce diocèse parmi ceux qu'il m'est possible et permis d'espérer.
+
+Je désire aussi prier Votre Seigneurie Illustrissime d'obtenir qu'il me soit loisible, avec l'agrément de Sa Sainteté, de garder le canonicat simple, afin que, venant ici, j'aie une place dans notre chœur ; car les offices s'y célèbrent si dignement que c'est là une de mes plus grandes consolations. Ayant ainsi de quoi vivre selon ma condition, je ne chercherai plus autre chose sinon de servir le Seigneur et l'Eglise de ce diocèse par les petits travaux auxquels je serai employé. Que votre bonté daigne me pardonner si, au milieu de tant de graves sollicitudes qui l'accablent, je l'entretiens d'une affaire qui m'est personnelle ; mais, dans mes doutes, je ne sais où me reposer si ce n'est dans le cœur de Votre Illustrissime et Révérendissime Paternité.
+
+Je ne sais pas encore s'il aura plu à Sa Sainteté d'accorder à MM. Grandis et Roget, docteurs en théologie, la permission de lire les livres défendus ; mais je sais bien que, sans cette permission, il ne faut pas se mêler de prêcher parmi les hérétiques. La conférence me retiendra longtemps ici ; en attendant, M. Roget ira à Thonon pour remplir les devoirs du ministère.
+
+Je prie le Seigneur de vous conserver longues années pour l'utilité de ces provinces, et baisant très humblement vos mains vénérées, je demeure à jamais,
+
+De Votre Seigneurie Illustrissime et Révérendissime,
+
+Le très humble et très dévoué serviteur,
+
+FRANÇOIS DE SALES,
+
+indigne Prévôt de Genève.
+
+Annecy, le 31 mai 1597. Cette lettre était écrite et non encore expédiée, quand le P. Esprit m'en a fait remettre une que je joins à celle-ci ; je crois qu'il vous renseignera sur les affaires de Thonon. .
+
+Revu sur l'Autographe conservé à Rome, Archives du Vatican.

@@ -1,0 +1,17 @@
+# Lettre CIV. Au Duc de Savoie, Charles-Emmanuel Ier
+
+*(MINUTE)*
+
+Instantes prières pour que les Chevaliers des Saints Maurice et Lazare soient contraints à payer les pensions dues aux curés du Chablais. - Députation des villageois de cette province pour obtenir du duc la restauration de leurs églises. - Maladie du Saint.
+
+Annecy, janvier 1598. Je crois que Vostre Altesse se resouviendra que l'annee passee, appres plusieurs declarations de la bonne intention qu'elle avoit de prouvoir a l'entretenement des gens d'Eglise qui seroient emploiés pour le service de Dieu au duché de Chablais, messieurs les Chevaliers de Saint Lazare promirent en fin finale a Monseigneur le Nonce de donner chasque annee six pensions pour autant de gens d'Eglise ; mais pour ne se forcer pas de premier coup, ilz ne firent ceste premiere annee la que la moytié de ce quilz avoient promis, qui fut cause de reduire les six a troys. Or pensois je que ceste annee ilz envoieraient les commandementz necessaires a leurs fermiers pour faire delivrer tout entierement les six pensions promises, affin non seulement de conserver l'exercice commencé en trois lieux par les trois ecclesiastiques dejaz establys.......
+
+Mais voiant quilz n'en tiennent aucun conte, je suis contraint de recourir a la bonté de Vostre Altesse pour la supplier tres humblement que, comme par son authorité et zele elle tira la promesse desditz seigneurs Chevaliers, il luy plaise aussy d'en faire sortir l'effait, commandant a ses officiers et ministres de Chablais de faire saisir sur le revenu des cures ces six pensions, au prouffit des trois curés dejaz constitués et de trois autres qu'on y establira tout aussi tost que l'on aura le moien de les entretenir. Autrement, Monseigneur, le service cessera tout a coup la ou il est commencé, qui sera un grand scandale et perte d'ames, et ne se trouvera personne qui veullie plus y aller pour y estre a la mercy de la provision de messieurs les Chevaliers.
+
+Ce pendant, voicy une preuve certaine de la necessité que l'on a en ce pais la de beaucoup d'ouvriers spirituelz. Ces bons paisans, deputés de plusieurs parroisses, vont supplier Vostre Altesse de leur doner moyen de refaire leurs eglises et d'avoir des pasteurs catholiques. Je puis dire avec verité que la pluspart des vilages du balliage de Thonon sont de mesme vollonté ; pour tous lesquelz je prie Dieu de tout mon cœur quil les fasse jouir des desirs quil a mis en eux, et supplie Vostre Altesse en toutte humilité qu'elle leur fasse voir la grandeur de l'affection qu'ell'a a l'honneur de Dieu, puisque l'acueil et faveur que leur simplicité recepvra de Vostre Altesse servira de mesure et de reigle a tout le reste de Chablais, et en fin mesme a ceux de la ville de Thonon, quoy quilz semblent maintenant revesches et rebelles a la lumiere. Aussi est ce l'ordinaire que les pauvres et simples embrassent plus vollontiers le Crucifix que les riches et sages mondains (1 Co 1,23). Ce furent des bergers qui les premiers adorerent Nostre Seigneur né.
+
+Je pensois bien obtenir de Sa Sainteté la restitution universelle des cures des balliages, suivant l'expres con sentement que Vostre Altesse en avoit donné par escrit, si Dieu n'eust retardé par une longue maladie le voiage de Rome pour lequel j'avois prins a Barraux les commandementz et le congé de Vostre Altesse. Ce sera incontinant que je me verray asses fort pour l'entreprendre.
+
+Je prie tres instamment Nostre Seigneur quil vous doint……………
+
+Revu sur l'Autographe conservé à la Visitation d'Annecy.

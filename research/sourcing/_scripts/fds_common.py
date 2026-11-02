@@ -64,6 +64,7 @@ FR_SRC = lambda desc, vol: {
     'tierEvidence': 'Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus.'}
 
 def write_book(book, bid, name, desc, composed, langs, editions, sources, toc, extra=None):
+    os.makedirs(f'{BOOKS}/{book}', exist_ok=True)
     d = {'id': bid, 'cover': 'classic', 'name': name, 'author': AUTH, 'description': desc,
          'composed': composed, 'languages': langs, 'work': f'francis-de-sales/{book}',
          'editions': editions, 'sources': sources, 'toc': toc,
