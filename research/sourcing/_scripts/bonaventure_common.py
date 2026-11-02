@@ -123,8 +123,8 @@ def lexicon():
     _lex = c
     return c
 
-def _cands(w):
-    L = lexicon(); out = set()
+def _raw(w):
+    out = set()
     for i, ch in enumerate(w):
         for a, b in _SUBS:
             if ch == a:
@@ -137,7 +137,15 @@ def _cands(w):
         if w[i:i+2] == 'ae': out.add(w[:i] + 'ac' + w[i+2:])
         if w[i:i+2] == 'ac': out.add(w[:i] + 'ae' + w[i+2:])
     out.discard(w)
-    return [x for x in out if L.get(x, 0) >= 200]
+    return out
+
+def _cands(w, two=False):
+    L = lexicon()
+    out = _raw(w)
+    if two:
+        out = set().union(*[_raw(x) for x in out]) if out else set()
+        out.discard(w)
+    return [x for x in out if L.get(x, 0) >= (60 if two else 40)]
 
 def fix_ocr(text, log=None):
     L = lexicon()
@@ -145,15 +153,18 @@ def fix_ocr(text, log=None):
         w = m.group(0); lw = w.lower()
         if len(w) < 4 or L.get(lw, 0) >= 3000: return w
         cs = _cands(lw)
+        if not cs and len(lw) >= 5 and L.get(lw, 0) <= 2:
+            cs = _cands(lw, True)
+            if len(cs) != 1: return w
         if not cs: return w
         best = max(cs, key=lambda x: L[x])
         n = L.get(lw, 0)
-        if not ((n <= 12 and L[best] >= 15 * n + 100) or L[best] >= 40 * n + 200): return w
+        if not ((n <= 30 and L[best] >= 5 * n + 40) or L[best] >= 40 * n + 200): return w
         second = sorted((L[x] for x in cs), reverse=True)[1:2]
         if second and second[0] * 3 > L[best]: return w
-        if best in ('deut','viii','turae','tiae','vict','secun','peccali','instanti','princi','sapien'): return w
+        if lw in ('meta','aurem','later','matum','sorlem','iunc','divel','quate','veti','crum','iisque','ioan','anseim','loan','nolle','sine','sinu','mori','tune','cogi') or best in ('deut','viii','turae','tiae','vict','secun','peccali','instanti','princi','sapien'): return w
         if log is not None: log.append((w, best))
-        return best.capitalize() if w[0].isupper() else best
+        return best[:1].upper() + best[1:] if w[0].isupper() else best
     return re.sub(r"[A-Za-zæœ]{4,}", rep, text)
 
 
