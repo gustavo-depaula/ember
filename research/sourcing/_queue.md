@@ -6,7 +6,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Peter of Alcántara · John of Ávila. Left, needing page images or a cleaner OCR: Alcántara's Breve introducción and De tres cosas; Ávila's temporal and santoral sermons, 77 letters and the treatise-letters 184–197 (BAC OCR); see PROBLEMS.md
 - [x] John of the Cross. Left: the English letters, poems and maxims (Lewis/Zimmerman, as separate books), Grados de perfección, the Antequera/Gerona/María de Jesús Avisos, Pacho's extra letters
 - [x] Thérèse of Lisieux. Left: school notebooks, artistic works
-- [ ] Ignatius of Loyola (rest)
+- [x] Ignatius of Loyola. Left: the Italian of Autobiography [79]–[101], the Spanish letters (1874–89 Cartas, MHSI), the Vulgata of the Exercises, the Reglas and the poverty Deliberación
 - [ ] Louis of Granada
 - [ ] Alonso Rodríguez · Luis de León
 - [ ] Elisabeth of the Trinity · Curé of Ars
