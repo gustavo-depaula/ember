@@ -1,0 +1,484 @@
+{
+  "id": "richard-opuscula-minora",
+  "cover": "classic",
+  "name": {
+    "la": "Opuscula minora",
+    "en-US": "Short Treatises and Letters",
+    "pt-BR": "Tratados breves e cartas"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "Opuscula minora Richardi: de potestate ligandi, de judiciaria potestate, de differentia peccati, de gemino paschate, de sacrificio David, expositiones difficilium locorum, epistolae.",
+    "en-US": "Richard’s short pieces: on the power of binding and loosing, the judiciary power at the Last Judgment, the sin of blasphemy against the Spirit, mortal and venial sin, the double Passover, David’s sacrifice, the baptism of Christ, Abraham’s sacrifice, comparisons and Scripture difficulties, and letters. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "Os escritos breves de Ricardo: o poder de ligar e desligar, o poder judiciário, a blasfêmia contra o Espírito, o pecado mortal e venial, a dupla Páscoa, o sacrifício de Davi, o batismo de Cristo, dificuldades da Escritura e cartas."
+  },
+  "composed": "c. 1150-1173",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/opuscula-minora",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DePoLiE",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DePoLiE, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeJuPoI",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeJuPoI, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeSpBl",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeSpBl, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeDiPeM",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeDiPeM, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeGePa2",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeGePa2, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeSaDaP",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeSaDaP, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeSuBaC",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeSuBaC, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeDiSaA",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeDiSaA, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeCoChA",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeCoChA, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.QuChPoI",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.QuChPoI, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeNoDiS",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeNoDiS, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.ExAlPaD",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.ExAlPaD, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.EpEtMi",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.EpEtMi, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "De potestate ligandi et solvendi"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Caput primum."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput II."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput III."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput IV."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput V."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput VI."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput VII."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput VIII."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput IX."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput X."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput XI."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput XII."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput XIII."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput XIV"
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput XV."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput XVI."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput XVII."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput XVIII."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput XIX."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput XX."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput XXI."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput XXII."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput XXIII."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput XXIV."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput XXV."
+          }
+        }
+      ]
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "De judiciaria potestate in finali et universali judicio"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "De spiritu blasphemiae"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "De differentia peccati mortalis et venialis"
+      }
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "De gemino paschate"
+      },
+      "children": [
+        {
+          "id": "c029",
+          "title": {
+            "la": "Sermo in ramis palmarum."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Sermo in die paschae."
+          }
+        }
+      ]
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "De sacrificio David prophetae"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "De superexcellenti baptismo Christi"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "De differentia sacrificii Abrahae a sacrificio beatae Mariae Virginis"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "De comparatione Christi ad florem et Mariae ad virgam"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Quomodo Christus ponitur in signum populorum"
+      }
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Declarationes nonnullarum difficultatum Scripturae"
+      },
+      "children": [
+        {
+          "id": "c036",
+          "title": {
+            "la": "Quae animalia munda et immunda dicantur."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Qui dicatur anima, et quid purgari a veteri fermento."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Expurgate vetus fermentum ut homo efficiatur nova conspersio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Explicatio aliquorum passuum difficilium Apostoli"
+      },
+      "children": [
+        {
+          "id": "c039",
+          "title": {
+            "la": "Explicatio aliquorum passuum difficilium Apostoli (pars 1)"
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Explicatio aliquorum passuum difficilium Apostoli (pars 2)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Epistolae et miscellanea"
+      },
+      "children": [
+        {
+          "id": "c041",
+          "title": {
+            "la": "Epistola prima. ( Epist s. Thomae Cantuar. Edit. Giles. T. II, p. 200.) ernisii abbatis et r. Prioris s. Victoris paris. Ad robertum herefordiensem."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Epistola II. Prioris s. Victoris paris. Et r. Abbatis s. Augustini ad alexandrum papam.( Ibid. )"
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Epistola III. Willelmi prioris ursicampi ad richardum priorem s. Victoris. Petit aliquod ex ejus opusculis describendum. (martene, Ampl. Collect., VI, 235.)"
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Epistola IV. G. Presbyteri anilcurtensis ad richardum priorem s. Victoris. Petit ab eo Passionem sive lectiones novem de s. Victore, inserendas in Breviario. (martene, ibid. )"
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Epistola V. G. Ad richardum priorem s. Victoris. Cupit rescire quid cum rege et abbate s. Germani egerit pro suo negotio. (martene, ibid., col. 237.)"
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Epistola VI. (g. Prioris ecclesiae s. Albani ad r. De s. Victore.duchesne, Scrip. Franc., IV, 747. Sequentes ex eodem fonte prodeunt.)"
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Epistola VII. Ejusdem ad eumdem."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Epistola VIII. Ejusdem ad eumdem."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Epistola IX. M. Ad richardum."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Epistola X. Ejusdem ad eumdem."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Epistola XI. G. Prioris s. Albani ad richardum."
+          }
+        }
+      ]
+    }
+  ]
+}

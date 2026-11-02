@@ -1,0 +1,1037 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De gemino paschate</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeGePa2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>SERMO IN RAMIS PALMARUM.</head>
+
+<pb n="1059A"/>
+<p>Geminum pascha colimus, geminum sane celebrare
+debemus. Primum est illud, quod vulgo
+solet floridum dici, de quo et modo compellimur
+aliqua pro tempore loqui. Sed quem, quaeso,
+<pb n="1059B"/>
+de tali tempore loqui non oblectet? quem ejus
+amoenitas in sui laudem non excitet, vel ad
+amorem inflammet? O tempus amoenum, tempus
+acceptum, tempus floridum! Tempus amoenum,
+quod florum multiplici varietate distinguitur; tempus
+acceptum, quod grato circumquaque odore respergitur.
+Cui, quaeso, gratum vel acceptum non sit,
+cum jam veraciter dici possit: <hi>Jam enim hiems
+transiit, imber abiit et recessit: flores apparuerunt:
+Vinae florentes odorem dederunt? <note>(Cant. II.)</note>
+          </hi> Cui
+non libeat in ejus laude illud apostolicum exclamare: <hi>Ecce nunc tempus acceptabile, ecce nunc dies
+salutis? 
+ <note>(II Cor. VI.)</note>
+          </hi> Acceptabile utique tempus,
+quod floribus ornatur; nec minus salubre de quo et
+fructus speratur. Absque omni ambiguitate si non
+<pb n="1059C"/>
+praecedat floridum tempus, frustra, et spe vana fructus
+exspectamus. Praecedat ergo pascha florigerum,
+ut subsequatur pascha fructiferum. Hoc geminum
+pascha debemus sane festivum ducere, et cum omni
+celebritate suscipere. Vis nosse apertius quid sit
+quod dicere velimus? Nosti, ut arbitror, quia pascha <hi>transitus</hi> 
+ interpretatur, et a transitu Domini pascha
+nominatur. Quid ergo dicimus pascha floridum, nisi
+transitum honestum et gratum? Quid autem pascha
+fructiferum, nisi transitum jucundum et omni gaudio
+plenum? Accipe ergo geminum transitum utrumque
+gratum, utrumque honestum. Primum est ut transeamus
+de malitia ad justitiam, secundum est ut
+transeamus de miseria ad gloriam. Fratres, quid
+ad haec dicimus, vel quales esse putamus hujusmodi
+<pb n="1059D"/>
+transitus? Quale, quaeso, erit transire de iniquitate
+ad bonitatem, transire de calamitate ad
+beatitudinem? Primus transitus ad pascha primum,
+secundus pertinet ad pascha secundum. Videtis,
+obsecro, quam libenter et gratanter debeamus
+hujusmodi tempus festivum ducere, et solemniter
+celebrare. Et quidem pascha illud secundum,
+omnes in commune diligimus et pariter affectamus.
+Sed nunquid primum illud eadem devotione suscipitur,
+vel pari studio celebratur? Utinam omnes
+tam studerent esse boni quam affectant esse beati,
+vere tunc futuri tam beati quam boni! Utinam tam
+affectarent omnes justorum primordia, quam optant
+extrema! <hi>Moriatur,</hi> ait Balaam, <hi>anima mea morte
+justorum, et fiant novissima mea horum similia (Num.
+<pb n="1060A"/>
+XXIII)</hi>, sed qui volunt habere justorum novissimis
+similia, studeant habere eadem primordia. Floreant
+interim per justitiam et fructum capient ex ea, vitam
+aeternam. De vita justa, vita aeterna; de vita bona, vita
+beata; de tali flore, fructus talis; de vita perfecta,
+<pb n="1060B"/>
+vita perennis. Omnis arbor ex fructu suo cognoscitur.
+Non est arbor mala, quae facit fructus bonos. Si arbor
+bona, et fructus ejus boni, et flores ejus grati.
+Sed semper necesse est flores praecedere ut fructus
+sequantur, alioquin sine praecedentibus floribus frustra
+sperantur. Praecedat ergo pascha floridum, ut
+sequatur pascha fructiferum; transeamus interim
+de inhonestate ad honestatem, ut postmodum transeamus
+de infelicitate ad felicitatem. Si adhuc
+mali sumus, transeamus de malo ad bonum; si
+boni, transeamus de bono in melius, et per melius
+in optimum et fecimus pascha floridum.</p>
+<p>Cur, quaeso, homines in hoc pascha florido conveniunt,
+nisi ut processionem pro more faciant!
+Nonne ipsum procedere est transire et pascha facere?
+<pb n="1060C"/>
+Et ipsum quidem pascha tunc floridum facimus
+si ordinate et ad honestiora transimus, et processionem
+quidem pulchram facimus si in bono proficimus.
+Quam pulchram, quam speciosam putamus
+processionem ire de virtute in virtutem, qui retro
+sunt oblivisci et in anteriora extendi? O quales flores,
+verae virtutes! Sternamus itaque viam nostram floribus
+talibus, et per florida virtutum transeamus,
+munde et honeste procedamus, ut processionem nostram
+pulchram et gratam faciamus et pascha floridum
+digna celebritate perficiamus. O quam mundum,
+quam jucundum erit per flores ire et per virtutum
+amoena transire, per crocum charitatis, per lilium castitatis,
+per passionis rosam et humilitatis violam! O
+quam laudabile, o quam amabile gratum odorem undique
+<pb n="1060D"/>
+spargere, et opinionis suae fragrantiam circumquaque
+diffundere, et ad jucundum processionis
+suae spectaculum undique accurentium animos
+attrahere et ad probitatis suae exemplum intuentium
+animos provocare! Haec itaque est processio
+prima, et pertinet ad pascha primum: nam est et
+alia, et ipsa pertinet ad pascha secundum. Processio
+prima, promotio ad perfectionem bonitatis;
+processio secunda, promotio ad plenitudinem beatitudinis.
+Geminam processionem Christus fecit, geminam
+sane facere nos voluit: <hi>Exivi,</hi> inquit, <hi>a Patre,
+et veni in mundum; iterum relinquo mundum,
+et vado ad Patrem <note>(Joan. XVI)</note>
+          </hi>. A summo coelo
+egressio ejus, haec est processio prima; et occursus
+ejus usque ad summum ejus, haec est processio
+<pb n="1061A"/>
+secunda. Primo descendit, postea ascendit. Prima
+processio est humiliationis, secunda est exaltationis.
+Si vere Christiani sumus Christum imitari debemus.
+Qui enim se dicit in Christo manere, debet sicut
+Christus ambulavit et ipse ambulare. Primo humiliemur
+cum Christo ut postmodum exaltemur cum
+Christo. Humiliamini interim sub potenti manu Dei,
+ut vos exaltet in die judicii, in tempore adventus
+Domini nostri Jesu Christi. Sequamur itaque Christum
+interim qua ivit in terris, ut tandem sequi
+mereamur qua ivit in coelis: <hi>Oculi sapientiae in capite
+ejus <note>(Eccle. II)</note>
+          </hi>. Si sapiens es, qui Christum caput
+habes, ad ipsum respicere debes. Itineris ejus
+vestigia attende et virtute qua potes sequi contende.
+Vide ergo quomodo processit, vel qua te via praecessit
+<pb n="1061B"/>
+certe paschalis ista hodiernae festivitatis processio,
+quae generaliter sit ex operum ejus recordatione,
+vel imitatione processit. Attende ergo quam
+ejus processionem tibi evangelista describat, vel
+quam tibi imitandam proponat. Videamus ergo unde
+incoepit, videamus quo perrexit, videamus qua
+transiit, videamus quomodo processit: hoc est quod
+dicere volo, quod te attendere moneo: unde, et quo,
+qua et quomodo processionem suam Christus fecerit.
+Unde incoepit? A Bethania <note>(Joan. XII; Matth.
+XXI; Marc. XI; Luc. XIX)</note>. Quo tendit? In Jerusalem.
+Qua transiit? Per montem Oliveti. Quomodo venit?
+In asino. A Bethania itaque iter suum incoepit, et
+in Jerusalem perrexit, in asino sedens et per Olivetum
+transiens, haec est processio Christi, quam imitari
+<pb n="1061C"/>
+debent Christiani. Ecce quo ordine, ecce quali
+itinere, in Jerusalem ire debemus; ecce ad quem
+finem in omni eo quod agimus tendere debemus.
+Servate, fratres, unitatem fidei in vinculo pacis,
+et in Jerusalem estis, et qualem Christus docuit
+processionem consummastis. Nam Jerusalem, ut
+nostis, interpretatur <hi>visio pacis.</hi> Ecce, fratres, quid
+est ad quod hortari vos volumus, ut pacem quaeramus,
+pacem apprehendamus, pacem custodiamus.
+Declina a malo et fac bonum, et qualem processionem
+Christianum decet inchoasti; inquire pacem,
+et persequere eam, et ad Jerusalem venisti, et processionem
+consummasti. Denique quintum in nobis
+est, habeamus pacem cum omnibus, et in Jerusalem
+<pb n="1061D"/>
+sumus, habemus sane alios superiores, alios inferiores,
+alios autem pares. Habeamus ergo pacem
+cum superioribus, pacem cum inferioribus,
+pacem cum paribus, et habemus pacem cum omnibus,
+et usque ad Jerusalem pervenimus. Primum
+utique et pernecessarium per omnem modum, ne
+perturbemus pacem praelatorum nostrorum quibus
+a Domino est dictum: <hi>Qui vos audit me audit, et
+qui vos spernit me spernit <note>(Luc. X)</note>
+          </hi>. Parati simus
+omni hora ad omnem obedientiam, et absque dubio
+habemus cum praelatis nostris pacem plenam. In quo,
+quaeso, erga nos perturbari possunt, si nolumus
+omne quod nolunt, et volumus omne quod volunt?
+Si ergo volumus ad Hierusalem tendere, et pacem
+veram obtinere, oportet ab obedientia incipere, et
+<pb n="1062A"/>
+iter pacis a Bethania inchoare. Nam Bethania interpretatur <hi>domus obedientiae.</hi> </p>
+<p>Sed nec illud hic praetereundum puto quod tamen
+breviter admonere volo, quod alii nobis sunt superiores
+potestate, alii autem dignitate, illi officio, isti
+merito. Illi praesunt quibusdam gradibus honoris et
+potestatis, isti praecellunt quibusdam proventibus
+sapientiae, et sanctitatis; illos perfecit electio humana,
+istos extulit ordinatio divina. Cogita ergo
+quale sit, illos vereri quos praetulit humana institutio,
+et hos nolle venerari quos singulariter magnificavit
+divina dispositio. Si debito honore venerandi
+sunt qui ad tempus nobis praesunt, quanto honore
+digni sunt qui merito sanctitatis in sempiternum
+nos aeterna exaltatione praecellunt? Hinc est quod
+<pb n="1062B"/>
+boni praelati hujusmodi subjectos cum magno honore
+venerantur, quibus tamen quibusdam, ut dictum
+est, praelationum gradibus principantur. Primo igitur
+et praecipue satagendum est, ut habeamus pacem
+cum omnibus nobis superioribus, sed nec hoc
+sufficere debet, nisi studeamus servare vinculum
+pacis, etiam cum inferioribus et infirmioribus. Superiores
+delinire debemus obsequendo et obediendo,
+inferiores infirmitati eorum compatiendo et subveniendo.
+Superioribus obedientia exhibenda, inferioribus
+misericordia impendenda. Ergo a Bethania
+iter inchoandum, sed per Olivetum transeundum.
+Nam et <foreign xml:lang="greek">ὄλεον</foreign> apud Graecos <hi>misericordiam</hi> sonat, et
+ipsum oleum opera pietatis designat. Per montem
+itaque Oliveti transimus, cum infirmioribus quibuscunque
+<pb n="1062C"/>
+pietatis operam impendimus, cum eorum
+infirmitati compatimur potius quam irascimur vel
+indignamur. Certe vides quantum hoc valeat ad
+infirmorum pacem obtinendam, et ad animi tui
+tranquillitatem possidendam. Qui enim turbatur et
+indignatur ad omnem offensam quam videt, quando,
+quaeso, pacem inveniet? quando, obsecro, veram
+animi tranquillitatem obtinebit, vel saltem obtinendam
+sperabit? Semper in infirmioribus inveniet
+quod jure reprehendat, quod misericorditer tolerari
+debeat. Alioquin infirmi non essent qui infirmitatis
+nihil haberent. Profectus itaque nostri promotio vel
+processio per montem Oliveti fiat, et pietas nostra
+in immensum excrescat, ut magnitudinis jure juste
+<pb n="1062D"/>
+mons dici queat, ut discamus infirmorum non tantum
+minima, sed etiam maxima cum animi tranquillitate
+tolerare, et proximorum infirmitatem non
+solum corporalem sed etiam spiritalem patienter
+et cum pietate sustinere. Profecto si haec agimus,
+jam Hierusalem appropinquamus, et pacis
+plenitudinem eo vicinius attingimus, quo obedientiae
+et misericordiae perfectionem altius apprehendimus.</p>
+<p>Puto quia jam opus erit asinum quaerere, et inter
+ejusmodi virtutum insignia humilitatis sibi praesidium
+vindicare; sic et Christus Jesus cum appropinquarent
+Hierosolymis asinum sibi adduci fecit,
+et super ipsum sedit. Scimus autem omnes asinum
+esse animal sordidum et vile, mansuetissimum sane,
+<pb n="1063A"/>
+sed pene prae caeteris omnibus contemptibile: humilitatis
+itaque, ut arbitror, formam gerit, per quam
+animus sibi ipse vilescit, et in contemptum venit.
+Et quidem sine hujusmodi animali poterit forte processio
+nostra fore spectabilis, non tamen absque
+dubio sine eo erit, vel esse poterit usque adeo admirabilis.
+Quis, obsecro, non digne miretur choris
+praecedentium et hinc inde psallentium asinum interesse,
+et inter tam gloriosos, solemnesque apparatus
+tam sordidum animal apparere? Certe quantum
+ad me attinet in meis quidem oculis mirabilius
+apparet, hominem pontificalibus indutum in asino
+sedere, et inter ejusmodi insignia tale subsellium
+non erubescere, quam illud cunctis pene dulce
+lignum in manibus portare quam mitram in capite,
+<pb n="1063B"/>
+vel pallium in humeris gestare. Nec novum sane,
+nec mirum de virtutibus gloriari, sed illud magnum
+atque mirandum inter summa quaeque ornamenta
+virtutum asinum non dedignari, humilitatis bono
+firmiter inhaerere, unum eumdemque hominem aliis
+omnibus mirabilem soli sibi contemptibilem apparere.
+Hoc ordine sane processionem nostram mirabilem
+facimus, si inter obedientiae et misericordiae
+fastigia humilitatis modestiam non deserimus; hac
+sane arte poterimus pares nostros nobis conciliare,
+si summa cum diligentia studeamus semper novissimum
+locum tenere, illos nobis venerationis officio,
+et honoris loco sine simulatione praeferre, imo et
+praeferendos esse veraciter credere, et sibi persuadere,
+<pb n="1063C"/>
+et aliis persuaderi velle. Vides certe quia in
+hoc negotio opus habemus, quod pene nobis excidit,
+ex asina, et ejus pullo. Duo sunt, humilitas et humiliatio:
+humilitas in asina, humiliatio designatur
+in pullo. Pullus ex asina nascitur, et ex humilitate
+humiliatio vera oritur; humilitas interius, humiliatio
+exterius; humilitas in corde, humiliatio in
+actione, humilitas pertinet ad affectum, humiliatio
+autem ad actum. Sola autem humiliatio illa necesse
+est vera sit, quae ex humilitate descendit. Qui infirmitatem
+suam veraciter agnoscit, et in oculis suis
+sibi ipse vilescit jam asinam in suam quasi praesentiam
+adduxit. Sed si non oculis hominum se humiliare
+vel contemptibile apparere erubescit, matrem
+quidem praesentem habet, sed usque adhuc pulli
+<pb n="1063D"/>
+praesentia caruit. Si te exterius humilias, sed magnum
+aliquid de te existimas, pullum habes, sed
+matrem non habes. Adducamus itaque asinam et
+pullum cum ea, ut veraciter humiles sumus in
+mente, et veram humiliationem exhibeamus in actione.
+Alioquin si te ficte humilias, et fraudulenter
+incedis, eum, secundum prophetae sententiam: <hi>Compulsus
+fueris transire flumina, discooperire crura,
+absque dubio turpitudo tua revelabitur <note>(Isa. XLVII)</note>
+          </hi>, eo
+quod nihil opertum sit quod non reveletur.</p>
+<p>Studeamus ergo veraciter humiles esse, et veraciter
+humiles apparere, et hoc ordine, ut arbitror,
+poterimus pares nostros nobis conciliare. Constat
+namque quia inter pares maxime nasci solet invidia,
+et ex invidia discordia? Sed si in asino, ut dictum
+<pb n="1064A"/>
+est, sedemus, et infimum inter eos, et vilem quemdam,
+et abjectum locum tenemus, invidiae fomitem
+amputamus. Absque dubio vera humiliatio non solummodo
+pacem inter pares reformat, sed etiam
+cum superioribus et cum inferioribus confirmat.
+Vide ergo quale sit tale subsellium quaerere, et si
+opus fuerit etiam de longinquo adducere. Aliis
+namque facile assumitur de proximo, aliis autem
+adduci opportet de longinquo. Qui enim adhuc
+enormiter vivunt, et erubescenda committunt, satis
+ad manum inveniunt unde erubescant, et humiliare
+se debeant. Qualis fuit publicanus ille qui erubescebat
+vel oculos suos in coelum levare non audebat.
+Sed qui in vita sua nil erubescendum inveniunt,
+quales esse credo qui de Bethania veniunt et per
+<pb n="1064B"/>
+Olivetum transeunt qui pascha floridum faciunt, et
+viam suam virtutum floribus sternunt, necesse habent,
+ut arbitror, asinum de longinquo adducere,
+et humilationis suae materiam vel de pristinae vitae
+lapsu vel de futurae vitae statu assumere. Sic et
+Paulus eo quod ad manum non haberet unde sibi
+de proximo asinum assumeret, quoniam sibi nihil
+conscius esset, ad antiquae conversationis viam considerationis
+suae exploratores misit et inde sibi humiliandi
+materiam ascivit. Audi unde sibi asinum
+adducat, vel quam humilem sibi dejectionis locum
+eligat, cum dicat: <hi>Ego minimus apostolorum, qui
+non sum dignus vocari apostolus, quoniam persecutus
+sum Ecclesiam Dei <note>(I Cor. XV)</note>
+          </hi>; sed quid ille facturus
+<pb n="1064C"/>
+est qui cum beato Job dicere potest: <hi>Neque
+enim reprehendit me cor meum in omni vita mea (Job
+XXVII)</hi>, profecto qui ejusmodi est, non habet unde
+asinum adducat de his quae jam post tergum reliquit,
+quia unde sibi vilescat de praeterita conversatione
+non invenit. Sed ecce habet quid faciat, ante
+faciem suam mittat modum summae perfectionis
+quam nondum apprehendit ad quam attendat. Attendat
+autem quae sit illa perfectio angelicae puritatis,
+quae illa consummatio angelicae integritatis, et
+absque dubio in castello quod contra se est imperfectionis
+suae modum ex comparatione colligere potest.
+Consideret quae sit illa futurae vitae puritas, vel
+qualis ejus integritas, quam sit pura ab omni malo,
+quam sit integra in omni bono, pura ab omni corruptione,
+<pb n="1064D"/>
+integra ab omni imperfectione, et puto
+quia in hoc gemino ministerio asinum sibi adducere
+valeat, et invenire unde se veraciter humiliare debeat.
+Profecto tutum non erit sine hujusmodi humili
+subsellio pueris Hebraeorum occurrere, ac clamantibus
+illis undique: Euge, euge, eo quod pueri sint,
+et idcirco discernere non possunt, quos, quando,
+vel quomodo debeant laudare. Tale, ut arbitror,
+subsellium voluit nos Apostolus quaerere, cum admoneret
+nos de nobis non alta sapere: <hi>Non alta,</hi> 
+inquit, <hi>sapientes, sed humilibus consentientes <note>(Rom.
+XII)</note>
+          </hi>. Hic est processionis modus quem Christus tenuit,
+quem utique et nos tenere voluit. Vultis apertius
+noscere, quia a Bethania venit, et quia in omni,
+quod egit obedientiam tenuit: <hi>Non veni,</hi> inquit,
+<pb n="1065A"/> <hi>facere voluntatem meam, sed voluntatem ejus qui misit
+me Patris 
+ <note>(Joan. VI)</note>
+          </hi>. Et Apostolus protestatur: <hi>Quod factus sit obediens usque ad mortem, mortem
+autem crucis 
+ <note>(Philipp. II)</note>
+          </hi>. Utique et per montem
+Oliveti transiit, et ex morte sua quam pro nobis
+sustinuit, quantum nos diligeret ostendit. Majorem
+enim charitatem nemo habet, quam ut animam
+suam ponat quis pro amicis suis. Vultis scire quomodo
+in asino sedit, vel quam humilis venit, cum
+in forma Dei esset, non rapinam arbitratus est esse
+se aequalem Deo, sed semetipsum exinanivit formam
+servi accipiens, in similitudinem hominum
+factus, et habitu inventus ut homo. Sed quod per
+omnem ejusmodi viam in Hierusalem tendat, quis
+ignorat nisi forte quem latere valeat, quod ipse sit
+<pb n="1065B"/>
+pax nostra, quae fecit utraque unum, medium parietem
+maceriae solvens inimicitias in carne sua
+lege mandatorum decretis evacuans. Ecce quomodo
+Christus transiit, ecce qualibus floribus viam suam
+stravit ut pascha floridum faceret et per virtutum
+amoena transiret. Ecce qualis fuit Christi processio.
+Ecce unde, et quo, ecce qua, et quomodo, quod superius
+proposuisse me recolo. Ex obedientia per
+pietatem, cum humilitate ad pacem. Nescio si compendiosius
+recapitulari potuit quod superius prolixior
+oratio copiosius digessit. Memento, et tu talibus
+floribus viam tuam sternere, si cupis pascha
+floridum celebrare. Boni flores obedientia et misericordia,
+boni flores humilitas et pax. Ecce, inquis,
+<pb n="1065C"/>
+de floribus, et ubi sunt fructus. Vultis in Christo
+nosse qui sint fructus servatae obedientiae, vel impensae
+misericordiae quod factus est pro nobis obediens
+Patri usque ad mortem. Recole illud Apostoli: <hi>Quod Christus resurgens ex mortuis jam non moritur,
+mors illi ultra non dominabitur; quod enim vivit,
+vivit Deo 
+ <note>(Rom. VI)</note>
+          </hi>. Accipe et illud quis sit fructus
+quaesitae pacis, vel susceptae humilitatis. <hi>Propter
+quod,</hi> inquit, <hi>et Deus exaltavit illum, et dedit illi
+nomen quod est super omne nomen, ut in nomine Jesu
+omne genu flectatur coelestium, terrestrium et infernorum <note>(Philipp. II)</note>
+          </hi>.
+Ecce qualis transitus, ecce quam
+fructuosus. De morte ad vitam de tribulatione ad
+gloriam; ecce pascha secundum, ecce pascha fructiferum:
+o qualis fructus vita et gloria! O fructus
+<pb n="1065D"/>
+dulcis, o fructus sublimis, sempiterna vita cum
+summa gloria, et gloria summa cum vita sempiterna.
+Sed hos fructus Christus noluit comedere
+solus, quinimo dispersit dedit pauperibus. Et jam: <hi>Sicut in Adam omnes moriuntur, ita et in Christo
+omnes vivificabuntur. Unus quisque autem in suo
+ordine. Primitiae quidem Christus, deinde qui sunt
+ejus 
+ <note>(I Cor. XV)</note>
+          </hi>. Et in loco, ubi dictum est: <hi>Non
+populus meus vos, jam dicitur eis, filii Dei viventis <note>(Ose. I)</note>
+          </hi>.
+ <hi>Sicut enim per inobedientiam unius hominis
+peccatores constituti sunt multi, ita et per unius
+obedientiam justi constituuntur multi. Si enim in
+unius delicto mors regnavit per unum, multo magis
+abundantia gratiae, et donationis, et justitiae accipientes
+in vita regnabunt per unum Jesum Christum (Rom.
+<pb n="1066A"/>
+V)</hi>. Scientes igitur quis sit fructus obedientiae immortalitas
+vera et incorruptio vitae aeternae, accurramus
+omnes cum magna festinatione in Bethaniam,
+subjicientes nos ad omnem obedientiam. De ejus
+fructu nihil diffidentes, sed sine ulla haesitatione
+tenentes, quia oportet corruptibile hoc induere incorruptionem,
+et mortale hoc induere immortalitatem.</p>
+<p>Sed quia secundum Apostolum corporalis labor ad
+modicum utilis est, pietas autem ad omnia valet promissionem
+habens vitae quae nunc est, et futurae,
+transeamus per montem Oliveti exercentes nos ad
+pietatem, scientes absque dubio, quod accepturi
+simus oleum pro oleo, oleum laetitiae pro oleo misericordiae.
+Beati enim misericordes quoniam ipsi misericordiam
+consequentur. Nec vos pudeat sedere in
+<pb n="1066B"/>
+asino, vel recumbere in novissimo loco, non ignorantes
+quoniam Deus superbis resistit, humilibus
+autem dat gratiam. Nihil itaque fiat per contentionem,
+neque per inanem gloriam, sed in humilitate
+superiores sibi invicem arbitrantes; non quae sua
+sunt singuli considerantes, sed quae aliorum, libenter,
+ut arbitror, nos humiliamus, sive verae humiliationis
+fructum attendimus. Absque dubio sicut omnis
+qui se exaltat humiliabitur, sic omnis qui se humiliat
+exaltabitur. Cogita tamen quae sit exaltatio, ista
+ut agnoscas quem fructum habeat humiliatio vera.
+Quale aut quantum putas possidere regnum coelorum:
+nam ipsum arbitror verae humiliationis fructum.
+Beati enim pauperes spiritu, quoniam ipsorum
+<pb n="1066C"/>
+est regnum coelorum; ecce quo ordine, ecce
+quo fructu, vel fine debeamus procedere, et in Hierusalem
+tendere. Profecto si hoc ordine incedimus,
+si hac intentione properamus, Hierusalem appropinquamus;
+si obedientiam cum charitate et humilitate
+servamus, veram quam quaerimus pacem citius
+invenimus. O stultum, o caecum qui studiose non
+properat ubi pacem, et pacem veram inveniat! Vultis
+tamen fructum ejus agnoscere, ut inde colligere
+valeatis quantum ad eam obtinendam oporteat properare: <hi>Beati,</hi> 
+ inquam, <hi>pacifici, quoniam filii Dei
+vocabuntur <note>(Matth. V)</note>
+          </hi>. O fructus mirabilis, o fructus
+singularis, o quanta gloria servi, et servi tam indigni
+fieri filium Dei. Quid ei, quaeso, jam sapere, vel
+satisfacere possit quem hujus fructus concupiscentia
+<pb n="1066D"/>
+non trahit. Si hunc fructum esurimus, si eo frui
+desideramus, verae paci studeamus. Teneamus interim
+pacem quam nobis Christus reliquit, et securi
+exspectemus illam quam promisit: <hi>Pacem,</hi> inquit, <hi>relinquo vobis, pacem meam do vobis 
+ <note>(Joan. XIV)</note>
+          </hi>.
+Non turbetur itaque cor tuum, neque formidet, et
+pacem habes quam tibi Christus reliquit, et servare
+te voluit. Sed forte, et illam quaeris quaenam sit
+quam Christus promisit, vel suam nominavit. Sed
+quibus, quaeso, verbis explicare possum quae sit illa
+pax Dei, quae exsuperat omnem sensum. Curramus
+itaque per pacem ad pacem, per pacem internam
+ad pacem aeternam. Nam est pax quae est tantum
+exterius, et est pax quae est tantum interius, et est
+pax quae est simul interius et exterius. Prima pertinet
+<pb n="1067A"/>
+ad solam carnem, secunda ad solam mentem,
+tertia ad mentem simul et carnem. Primam et secundam
+in hac vita, nunquam tamen simul habere
+possumus, quas semper in moribus disparibus seorsum
+et seorsum videmus, tertiam in futura tantum
+vita speramus, unde et aeternam nominavimus. Primam
+venit Christus destruere, secundam statuere,
+tertiam dare, sed in futurum tamen reservare. De
+prima dicit: <hi>Non veni mittere pacem in terram, sed
+gladium <note>(Matth. XI)</note>
+          </hi>. De secunda et tertia illud intelligimus
+quod et jam supra posuimus: <hi>Pacem
+relinquo vobis, pacem meam do vobis <note>(Joan. XII)</note>
+          </hi>.
+Detestemur itaque illam quam Christus damnavit,
+amemus illam quam Christus docuit, speremus illam
+quam Christus nobis reposuit, quia fidelis est
+<pb n="1067B"/>
+qui promisit. Amemus internam, speremus aeternam.
+Illa ad florem, ista pertinet ad fructum; illa
+ad pascha primum, ista pertinet ad pascha secundum.
+Qui adhuc amat primam, relinquat eam, et
+transeat ad secundam, certus quod per ipsam
+transiturus sit ad tertiam. Qui ad secundam transiit,
+jam pascha primum, jam pascha floridum celebravit.
+Quid de secunda ad tertiam, secundum jam
+transitum fecit, et de ejus fructibus gustavit, ad
+secundum pascha jam transiit cujus celebritas sempiterna
+erit. Ecce de floribus, ecce de fructibus tentamus:
+istos desideremus, illos, ut in aeternum fuit,
+mereamur, et de aeterna celebritate sine fine laetemur.
+</p>
+      </div1>
+
+<div1>
+        <head>SERMO IN DIE PASCHAE.</head>
+<p>
+          <pb n="1067C"/>Pascha nostrum immolatus est Christus, fratres,
+Scripturas scitis et virtutem earum. Ideo sermo
+noster ad vos non erit doctrina, sed admonitio, et
+notorum ad memoriam revocatio. De quo fonte
+enim bibo ego, bibitis et vos. Ubi haurio hauritis
+et vos. Si ego haurio aquas in gaudio de fontibus
+Salvatoris, hauritis et vos. Judicate ergo tanquam
+spiritales utrum aqua quam vobis propinabo fluat
+de medio fontium, an sit hausta de fontibus Salvatoris.
+Pascha nostrum immolatus est Christus. Fructuosa
+Domini passio, et gloriosa ipsius resurrectio,
+non solum facta sunt et signa, sed insuper remedia.
+Non solum sunt veritas et figura, sed etiam
+medicina. Veritas sunt quia vere qui mortuus est
+<pb n="1067D"/>
+ex infirmitate resurrexit ex virtute. Signa sunt et
+figura, quia mortuus est et resurrexit ut peccatis
+mortui justitiae vivamus. Medicina sunt, quia mortuus
+est propter delicta nostra, et resurrexit, propter
+justificationem nostram. De exemplo ergo et remedio
+passionis, et de remedio et exemplo resurrectionis
+pro modulo nostro prosequamur. Christus
+factus est obediens usque ad mortem, humilitatis
+perfectae et charitatis consummatae dedit nobis
+exemplum. Quae sit autem vera humilitas et non
+ficta, ipsis verbis expressit loquens ad Patrem, dicens: <hi>Non sicut ego volo, sed sicut tu 
+ <note>(Matth. XXVI)</note>
+          </hi>.
+Haec est vox verae humilitatis, quae semper humanae
+voluntati praeponit divinam, et in hoc ab humanis
+in divina dirigitur. Nec hoc solum, sed etiam
+<pb n="1068A"/>
+alterius hominis, non solum majoris vel partis, sed
+etiam inferioris voluntatem suae praeponit. Contraria
+vox superbiae est; non sicut tu, sed sicut ego,
+cujus proprium est suam praeponere voluntatem;
+non solum hominis alterius voluntatem, sed etiam
+divinae, et in hoc a divinis in ima demergitur. Humilis
+ergo non suam, sed Dei facit voluntatem. Superbus
+vero non Dei, sed suam facit voluntatem; humilis
+non suam, sed Dei quaerit gloriam. Superbus
+vero non Dei, sed propriam quaerit gloriam. Humilis
+aedificat super petram, superbus super arenam. Omnes
+ergo superbi discipuli sunt diaboli qui est rex et
+magister super filios superbiae. Omnes vero humiles
+discipuli sunt Christi, qui ad hoc ut humilitatem
+doceret et fieret magister humilitatis, humilis
+<pb n="1068B"/>
+factus est: unde et gloriatur in discipulis, humilis
+in humilibus dicens: <hi>Ecce ego et pueri mei quos dedit
+mihi Dominus <note>(Isa. VIII)</note>
+          </hi>. Tales enim dat Filio, trahens
+eos ad Filium, juxta illud: <hi>Nemo venit ad me, nisi
+Pater meus traxerit eum <note>(Joan. VI)</note>
+          </hi>. Qui veniunt ad
+Filium tracti a Patre, non inviti veniunt, sed sine
+coactione, sine necessitate, voluntate, amore et in
+cordis vinculo. In hoc enim Pater trahit ad Filium
+humiles, quod eis revelat Filium. Unde: <hi>Abscondisti
+haec a sapientibus, et revelasti ea parvulis <note>(Matth.
+XI)</note>
+          </hi>. Filius autem ad se venientes non foras ejicit,
+sed benigne suscipit. Et ut probet eos an eum diligant,
+fasciculum myrrhae eis apponit, de quo et
+ipse comedit, sicut et de torrente bibit transiens
+<pb n="1068C"/>
+per foramen acus, per angustias scilicet passionis.
+Ipsi vero prae amoris magnitudine non sentiunt
+amaritudinem myrrhae gloriando in tribulatione.
+Unde unus ex illis ait: Scimus quia neque mors,
+neque vita poterit separare nos a charitate Christi <note>(Rom. VIII)</note>.
+Charitatis etiam consummatae exemplum
+nobis in ipsa sua immolatione dedit, orando pro
+inimicis. Quam descripsit, ubi ait: <hi>Nemo majorem
+charitatem habet quam ut animam suam det pro amicis
+suis <note>(Joan. XV)</note>
+          </hi>. Dominus vero Jesus animam suam,
+cum essemus inimici posuit, et in hoc charitatem
+suam commendavit. Quam Apostolus supereminere
+scientiae dicit. Quam quidem comprehendere non
+possumus, nisi fuerimus radicati et fundati in charitate.
+Radicati ad similitudinem arboris, fundati
+<pb n="1068D"/>
+ad similitudinem domus, fundati per dilectionem
+Dei, per quam sumus domus Dei, et templum, et
+Deus habitat in nobis. Radicati per dilectionem proximi
+per quam sumus arbores fructiferae proferentes
+folia protectionis, et fructum sustentationis.
+Qui autem sic sunt in charitate radicati et fundati,
+possunt comprehendere quae sit latitudo et longitudo,
+et altitudo, et profundum charitatis cum omnibus
+sanctis. Latitudo charitatis in hoc consideratur
+ut diligatur inimicus, longitudo ut perseveretur usque
+in finem. Altitudo ut omnia fiant propter Deum.
+Profundum vero charitatis in hoc attenditur, ut
+homo nil boni sibi ascribat, sed totum gratiae Dei,
+cui causas investigare est nimis profundum, excedens
+sensum humanum, scilicet cur hunc induret,
+<pb n="1069A"/>
+illum vocet. Unde Apostolus: <hi>O altitudo divitiarum
+sapientiae et scientiae Dei, quam incomprehensibilia sunt
+judicia ejus <note>(Rom. XI)</note>
+          </hi>. Medicamento humilitatis sanatur
+morbus totius elationis. Dono charitatis curatur
+infirmitas cupiditatis. Per haec duo scilicet superbiam
+et concupiscentiam habitabat in nobis princeps
+hujus mundi, per superbiam in mente, per concupiscentiam
+in carne. Sed nunc princeps hujus mundi
+ejectus est foras per gratiam Christi; unde ipse ait: <hi>Ecce ejicio daemonia, et perficio sanitates 
+ <note>(Luc.
+XXIII)</note>
+          </hi>. In hoc quod peccata dimittuntur, daemonia
+ejiciuntur. In hoc quod virtutes mentibus infunduntur,
+sanitates perficiuntur.</p>
+<p>De remedio passionis de caetero dicendum est
+quod in justitia et misericordia intelligitur. Salvator
+<pb n="1069B"/>
+enim noster, cum sit omnipotens, solo verbo virtutis
+suae potuit hominem liberare de potestate tenebrarum.
+Sed in nostra liberatione maluit uti justitia
+quam potentia, quia diabolus amator est potentiae,
+desertor justitiae. In quo homines magis
+eum imitantur qui affectant potentiam et exosam
+habent justitiam. Quae est illa justitia? Audite.
+Christus innocens est, et immunis ab omni peccato,
+solus inter mortuos liber non habens causam peccati
+sub auctore peccati. Sicut ipse ait: <hi>Venit princeps
+mundi hujus et in me non habet quidquam <note>(Joan. XIV)</note>
+          </hi>.
+Tota enim possessio hostis antiqui est
+peccatum, qui data est in haereditatem terra spe
+sterilis, spinis et sentibus plena, terra, cui maledixit
+<pb n="1069C"/>
+Dominus, cui ceciderunt funes in obscuris et
+tenebrosis. De hac tota substantia ejus nihil invenitur
+in Christo, occidit tamen innocentem, et ideo
+jussus est recedere a nocentibus confugientibus ad
+Christum. Occidit eum qui nil debuit morti,
+et jussus est recedere a debitoribus mortis credentibus
+in eum qui pro eis mortuus est. Misericordia
+autem nostrae redemptionis in hoc insinuatur,
+Christus sola charitate, nostrae miseriae compassione
+Patri obediens mortem pertulit, et in hoc
+ipso apud Deum Patrem multum meruit, omneque
+meritum suum suis membris concessit. Et in sua
+passione eum qui mortis habebat imperium destruxit,
+et hominis reatum expiavit, et peccatorem
+Deo Patri reconciliavit, et sicut David Goliam gladio
+<pb n="1069D"/>
+proprio occidit, sic Christus diabolum propriis armis
+peremit. Quae fuerunt arma diaboli quibus
+mundum vicit, et a Christo victus est? Mors, quia
+auctor peccati ideo ex divina sententia mortem corporis
+inferre potuit quibus voluit, ideoque homines
+timore obnoxii erant peccati vel diaboli servituti,
+et quaelibet patiebantur ne morerentur. Unde Job
+ait: <hi>Pellem pro pelle, et omnia dabit homo pro anima
+sua <note>(Job II)</note>
+          </hi>. Salvator vero voluntarie mortem suscepit,
+et moriendo mortem destruxit, et sic homines
+a timore mortis eripuit. Unde sancti jam mortem
+timent, sed cupiunt dissolvi et esse cum
+Christo. De hoc remedio ait Salvator: <hi>Sicut Moyses
+exaltavit serpentem in deserto, sic exaltari oportet
+Filium hominis, ut omnis qui credit in eum non
+<pb n="1070A"/>
+pereat, sed habeat vitam aeternam <note>(Joan. III)</note>
+          </hi>.</p>
+<p>Nota est vobis historia qualiter filii Israel murmurantes
+percussi sunt ab ignitis serpentibus in deserto.
+Tunc Moyses praecepto Domini serpentem aeneum in
+pertica erexit, ad quem filii Israel aspicientes
+sanabantur a morsibus serpentinis. Per hunc serpentem
+aeneum in pertica exaltatum intelligimus
+Christum crucifixum, quia per serpentem mors intravit
+in mundum, ideo mors per eum figuratur.
+Serpens ille aeneus similitudinem habuit serpentis
+sed non habuit venenum. Sic et Christus similitudinem
+habuit carnis peccatricis, sed non habuit
+venenum peccati. Quia, si peccati venenum haberet,
+a veneno peccati non liberaret. Quoties ergo a serpentibus
+percutimur, id est, daemonibus vulneramur,
+<pb n="1070B"/>
+ad hunc serpentem aspiciamus oculo carnis
+et oculo mentis: oculo carnis per imitationem
+exempli, ut crucifigamus carnem cum vitiis et concupiscentiis;
+oculo mentis per fidem remedii dicendo
+cum Petro: <hi>Quia non est aliud nomen in quo
+oporteat nos salvos fieri <note>(Act. IV)</note>
+          </hi>, et sine dubio perfecte
+curabimur ab omni plaga, et per imitationem
+exempli sanabimur ab omni actu peccati, per fidem
+remedii purgabimur ab omni reatu, hoc est infirmum
+Dei quod est fortius hominibus. Quis enim
+hominum potuit facere quod Christus per mortem
+suam effecit? Nullus, imo nec totus mundus, hoc
+est stultum Dei quod est sapientius hominibus. Quis
+enim hujus sacramenti potest penetrare profunditatem?
+Nunc de remedio resurrectionis dicendum
+<pb n="1070C"/>
+est: Pascha nostrum immolatus est Christus. Pascha
+interpretatur <hi>transitus,</hi> qui pertinet ad resurrectionem,
+imo transitus Domini ipsa est resurrectio
+Domini, unde dies praesens dies Paschae, et
+dies resurrectionis dicitur. Christus enim resurgens
+ex mortuis transivit de morte ad vitam, de corruptibilitate
+ad incorruptionem, et in hoc factus est
+pascha nostrum, quia in illo et per illum transimus
+de tenebris ad lucem, de vitiis ad virtutes, de hoste
+ad patrem, de morte ad vitam.</p>
+<p>Et videte quomodo constat quia justus ex fide
+vivit. Ubi ergo non est fides, nec justitia, ibi non
+est justitia nec vita. In morte autem Christi fides
+ejus, et jam in apostolis mortua est; quia, percusso
+<pb n="1070D"/>
+pastore, dispersae sunt oves. Ipso autem resurgente
+et discipulis suis apparente, reformata est fides in
+apostolis. Insuper accensa sunt corda, et inflammata
+amore et desiderio immortalitatis et futurae
+beatitudinis et sic intus vivificati et justificati transmigraverunt
+de infidelitate ad fidem, de peccato ad
+justitiam, et sic de morte animae transierunt ad vitam: <hi>Hodie namque,</hi> 
+ ut dicit Apostolus, <hi>datum est
+Christo nomen quod est super omne nomen <note>(Philipp.
+XXI)</note>
+          </hi>. Ab aeterno quidem habuit nomen quod est super
+omne nomen secundum divinitatem, et in sua
+incarnatione quidem nomen datum homini per gratiam,
+sed quod hucusque latuit per resurrectionem
+in palam venit. Ideoque Dominus tot argumentis
+ipsam resurrectionem probavit. Quia ipsa constante,
+<pb n="1071A"/>
+caetera constant, ipsa enim est quasi basis sub
+columna, quasi fundamentum fundamentorum, cui
+omnes articuli fidei innituntur. Unde apostolus
+totam summam nostrae salutis in ipsa posuit dicens: <hi>Si corde credideris, et ore confessus fueris quia Deus
+suscitavit eum a mortuis, salvus eris 
+ <note>(Rom. X)</note>
+          </hi>.
+Hanc igitur non solum credere, sed etiam in jugi memoria
+tenere debemus. Unde Apostolus ait ad Timothaeum: <hi>Mementote Dominum Jesum resurrexisse a
+mortuis 
+ <note>(II Tim. II)</note>
+          </hi>. Sicut enim ex cupiditate quae
+est radix omnium malorum oriuntur mala desideria,
+et nociva quae mergunt hominem in perditionem
+et in interitum, sic ex assidua resurrectionis memoria
+nascuntur sancta desideria, et affectiones piae,
+mundi contemptus, amor aeternorum, et mutatur
+<pb n="1071B"/>
+homo in virum alterum, et spiritualis efficitur. Una
+igitur resurrectio Domini secundum carnem, geminam
+nostram resurrectionem efficit, et animarum in
+praesenti, de qua dicit Joannes in Apocalypsi: <hi>Beatus
+qui habet partem in prima resurrectione, quia non
+laedetur a morte secunda <note>(Apoc. XX)</note>
+          </hi>, et resurrectionem
+corporum in futuro. De qua Apostolus: <hi>Et reformabit
+corpus humilitatis nostrae configuratum corpori
+claritatis suae <note>(Philipp. III)</note>
+          </hi>. Restat de exemplo
+resurrectionis, de quo dicit Apostolus: <hi>Quomodo
+Christus resurrexit a mortuis per gloriam Patris, ita et
+nos in novitate vitae ambulemus <note>(Rom. VI)</note>
+          </hi>. Jam nos
+igitur innovati, et in novitate vitae positi ambulemus
+de novitate in novitatem, de claritate in claritatem,
+<pb n="1071C"/>
+de virtute in virtutem: nam in eadem virtute de
+gradu in gradum procedimus.</p>
+<p>Has autem interiores processiones, spirituales
+profectus, incrementa virtutum figurant istae exteriores
+processiones quas his diebus solemnius frequentavimus,
+quas cum magna devotione nos celebrare
+decet, gaudentes tum de resurrectione capitis
+nostri, tum de resurrectione mentium in praesenti,
+tum de resurrectione corporum quae erit in futuro.
+Sed praecipue de resurrectione Jesu Christi quae est
+causa nostrae geminae. Ideoque summa gaudiorum
+inde est, quod cantamus: Christus resurgens ex
+mortuis, etc. Interiores vero processiones omni quidem
+tempore faciendae sunt, sed potissimum hac
+solemnitate quae non solummodo aguntur, sed praesentantur.
+<pb n="1071D"/>
+Ut autem utiliter fiant, duo sunt necessaria,
+scilicet cithara et psalterium. Non quidem
+materialia, sed eorum significata. Cithara sonat ab
+inferiori, et ideo significat vitiorum mortificationem,
+psalterium vero sonat a superiori, et ideo signifiat
+bonorum operum exhibitionem. Qui citharizat et
+non psallit, vel psallit et non citharizat, non procedit,
+non proficit, quia neutrum sine altero reddit
+sonum jucundum, quia psalterium jucundum cum
+cithara; quia, sicut scriptum est: <hi>Honor regis judicium
+diligit <note>(Psal. XCV)</note>
+          </hi>, honorem summo regi damus,
+cum de beneficiis gratias referimus. Sed hic
+honor judicium diligit, quo mala puniuntur, et vitia
+mortificantur, quia non est speciosa laus in ore peccatorum.
+Nam solos rectos decet laudatio. Unde
+<pb n="1072A"/>
+etiam Apostolus docens nos hanc paschalem solemnitatem
+celebrare, ait: <hi>Expurgate vetus fermentum <note>(I Cor. V)</note>
+          </hi>.
+Vetus fermentum vocat quodlibet mortale
+peccatum, quod nos corrumpit, et veteres et
+acidos reddit. Unde idem Paulus praemisit: <hi>Modicum
+fermentum totam massam corrumpit <note>(ibid.)</note>
+          </hi>.
+Unum enim peccatum, peremptorium omnia bona
+merita reddit inutilia, et ad salutem insufficientia,
+juxta illud: <hi>Qui offendit in uno, omnium est reus <note>(Jac. II)</note>
+          </hi>.
+Quod non est scilicet intelligendum quasi
+qui unum peccatum habet omnia habeat, et pro omnibus
+sit puniendus, nec etiam de virtutibus concedimus,
+quod qui unam habet, omnia habeat. Dicit
+enim Hieronymus quod haec est philosophica sententia.
+Qui unam habet virtutem, omnes habet, sed
+<pb n="1072B"/>
+non divina. Nec, inquit, curae est quid dicat Aristoteles;
+sed quid Paulus? Quomodo ergo intelligendum
+est, qui offendit in uno, omnium est reus? Nunquid
+qui facit furtum, reus est homicidii, adulterii, sacrilegii
+et aliorum? Esse reum alicujus non uno modo
+dicitur. Aliter enim quis dicitur reus peccati, aliter
+reus capitis. Reus peccati est aliquis, id est, dignius
+ut pro peccato puniatur. Reus est capitis, id est
+dignus ut caput amittat. Sic, cum dicitur: Qui offendit
+in uno, omnium est reus, non intelligitur
+omnium peccatorum, quasi pro omnibus puniendus,
+sed intelligitur omnium bonorum quae fecit, ut illa
+amittat. Ut si quis novem praecepta faciat, et unum
+solum transgrediatur, offendens in uno, factus est
+<pb n="1072C"/>
+omnium reus, id est, dignus ut meritum novem
+praeceptorum amittat, quia efficacius est unum transgressum
+ad damnationem, quam novem impleta ad
+salutem. Hanc autem sententiam confirmat Salomon,
+dicens: <hi>Qui in uno offendit multa bona perdet <note>(Eccle. IX)</note>
+          </hi>.
+Iste igitur tres auctoritates, <hi>scilicet
+modicum fermentum totam massam corrumpit,</hi> et <hi>qui
+offendit in uno, omnium est reus,</hi> et <hi>qui offendit in
+uno multa bona perdet,</hi> juxta eumdem sensum intelligendae
+sunt. Vobis igitur, fratres, qui multo tempore
+laudabiliter vixistis, providendum est ne modicum
+fermentum totam massam bonorum meritorum
+corrumpat; ne in uno offendentes sitis omnium rei,
+et multa bona perdatis; ne igitur hoc contingat
+juxta Apostolum, paschalem solemnitatem in animis
+<pb n="1072D"/>
+celebrare. Panis azymus absque fermento est,
+si gignat sinceritatem, scilicet puritatem a vitiis.
+Per hoc autem quod est solidus, designat veritatem,
+scilicet bonorum operum exhibitionem. Sinceritas
+partim ad citharam, veritas ad psalterium.
+Sed ecce est aliquis qui vitia mortificat et bona agit,
+sed omnia retorquet ad propriam gloriam. Iste procedit,
+sed non proficit, quia Dei gloriam non requirit.
+Unde Dominus per Prophetam: <hi>Exsurge gloria
+mea, exsurge psalterium, et cithara <note>(Psal. XXXVI)</note>
+          </hi>.
+Nil enim prodest portare citharam et psalterium,
+nisi fiat totum propter Deum. Debemus enim declinare
+a malis et insistere bonis, ad Dei laudem et
+gloriam. Unde Apostolus: <hi>Vir est imago et gloria
+Dei <note>(I Cor. XXI)</note>
+          </hi>; vir in vitiorum mortificatione,
+<pb n="1073A"/>
+imago in bonis agendis. Quis enim dicit se in Christo
+manere, debet sicut et ipse ambulavit et ipse ambulare,
+hoc est eum imitari, et ideo imago ab imitando
+scilicet, gloria Dei, ut Deus non ipse vir per
+omnia glorificetur. Hanc eamdem processionem Dominus
+designat, ubi ait: <hi>Surge, tolle grabatum
+tuum, et vade in domum tuam <note>(Marc. II)</note>
+          </hi>. Surge a
+vitiis, tolle grabatum tuum, id est, porta a quo portaberis,
+id est, sicut frater tuus tolerabat infirmitates
+tuas, sic tu tolera infirmitates fratris tui, et
+haec faciendo ambula per rectam intentionem in
+domum tuam, id est, paradisum ut omnia facias
+propter spem futurae vitae. Nemo cum uxore Lot
+retro respiciat, vel quasi canis ad vomitum redeat,
+vel cum filiis Israel in Aegyptum ad ollas mente eat,
+<pb n="1073B"/>
+quia, juxta Veritatem: <hi>Nemo mittens manum ad
+aratrum <note>(Luc. IX)</note>
+          </hi>, etc. Nunc igitur summatim videamus
+unde haec processio incipere debeat, et quousque
+pervenire, vel procedere. Mens igitur laetetur,
+spiritus exsultet, os, lingua novum canticum depromant.
+Manus sinistra tympanizet, vel citharizet.
+Dextra manus psallat, imo utraque manu utamur
+pro dextera, ut omnia interiora et exteriora laudem
+<pb n="1074A"/>
+et gloriam Deo concrepent, ut totus homo tendat
+ad Deum, juxta illud: <hi>Levemus corda cum manibus
+in coelum, ut qui totum fecit totum possideat <note>(Thren.
+III)</note>
+          </hi>. Sic igitur procedamus donec occurramus omnes
+in virum perfectum, in mensuram aetatis plenitudinis
+Christi obviam Christo in aera. Deus bonus
+pastor, qui posuit animam suam pro ovibus suis,
+introducat nos in veram terram promissionis, in
+terram viventium, quae fluit lacte et melle. Haec
+terra viventium est nobis promissa a Christo qui
+est Dei virtus et Dei sapientia, quam terram dabit
+nobis in haereditatem, quando manifestabit se nobis
+ducens ad paternam visionem, ad summi boni fruitionem,
+ad omnium deliciarum affluentiam. Et nos
+egredientes et ingredientes pascua inveniemus.
+<pb n="1074B"/>
+Egrediemur per sensum carnis, et pascua inveniemus
+in lacte humanitatis Christi. Ingrediemur per
+sensum rationis, et pascua inveniemus in melle divinitatis
+ejus. Ibi erit aeterna satietas, gaudium
+plenum quod nemo tollet a nobis, quia aeternum hoc
+erit in fine sine fine, ad quem nos perducat ipse
+auctor pietatis. Amen.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

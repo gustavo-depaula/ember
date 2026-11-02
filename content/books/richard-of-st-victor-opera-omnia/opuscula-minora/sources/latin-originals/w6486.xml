@@ -1,0 +1,1100 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De differentia sacrificii Abrahae a sacrificio B. Mariae Virginis</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeDiSaA</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De differentia sacrificii Abrahae a sacrificio B. Mariae Virginis</head>
+<p>
+          <pb n="1043A"/>Audivimus de magno patriarcha Abraham quod
+obtulerit in sacrificium Domini turturem et columbam,
+beatae vero Virginis Mariae sacrificium fuit par
+turturum, et duo pulli columbarum. Multum omnino
+videtur differre sacrificium patriarchae Abrahae a
+sacrificio beatae Virginis Mariae. Quid horum majus,
+quid horum melius? Sed quis audeat aliquem sanctorum
+nisi solum Sanctum sanctorum beatae Virgini
+Mariae anteferre, vel aequiparare? Indubitanter itaque
+quod optimum est tantae dominae attribuimus,
+sed iterum valde durum ut perfectioni tanti patriarchae
+aliquid detrahamus. Omnino tamen non videtur
+esse sine causa talis vel tanta hostiarum differentia.
+Sed si juvat ista plenius intelligere, opus est altiori
+consideratione. Videtur autem ad turturis volatum
+<pb n="1043B"/>
+et cantum pertinere in aeternorum malorum consideratione,
+gemitum et planctum effundere. In aeternorum
+vero bonorum contemplatione gemere et
+suspirare, hoc est columbinum cantum habere. Recolat
+itaque homo quid boni peccando amiserit, vel
+quid mali eodem modo incurrerit, ut melius pleniusque
+intelligat ad quem statum laborando, gemendo,
+suspirando anhelare oporteat. Geminam namque
+captivitatem peccando incurrit, et geminam dignitatem
+amisit. Sponte siquidem subditus culpae, invitus
+quidem addictus est poenae, et de caetero perdidit
+stabilitatem gratiae et perpetuitatem gloriae. Tali
+itaque gratia et gloria nudatus, homo volens nolens
+subservit peccato et subjicitur flagello, et brevi
+vivens tempore repletur multis miseriis, qui quasi
+<pb n="1043C"/>
+flos egreditur et conteritur, et fugit velut umbra
+et nunquam in eodem statu permanet. Geminam
+itaque captivitatem, utpote exactionem culpae et
+poenae nascendo contrahimus, et quandiu hic vivimus
+fixam gratiae stabilitatem gloriaeque perpetuitatem
+recuperare non possumus. Debemus ergo omni
+diligentia, et quanta possumus instantia ad hoc
+utique laborare, modumque in omnibus obtinere,
+ut mala quae contraximus nascendo, deponamus
+moriendo, et bona illa quae in procursu hujus vitae
+recuperare non possumus, statim ad ingressum subsequentis
+vitae obtineamus. Perfecti namque viri in
+ipso statim exitu animae, in ipso primordio incipientis
+vitae emancipantur a culpa, et liberantur
+<pb n="1043D"/>
+a poena, confirmantur in gratia, et sublimantur in
+gloria. Hanc autem geminam libertatem a culpa et
+poena, hanc vero geminam dignitatem in gratia et
+gloria, quas soli perfecti accipiunt in egressu animae,
+quid aliud dixerim quam quasdam primitias plenitudinis
+futurae? Accipiunt ergo perfecti primitias
+istas in sola anima, accepturi postmodum plenitudinem
+in utraque natura. Pro primitiis vero geminae
+<pb n="1044A"/>
+libertatis gemere et suspirare, et de ipsis per mortem
+obtinendam firmam spem tenere: hoc erit, ut
+arbitror, par turturum offerre. Pro primitiis autem
+geminae dignitatis gemitus et suspiria effundere, et
+eorum obtentum in exitu animae de Domini pietate
+praesumere: hoc erit, ni fallor, duas columbas in
+Domini sacrificio impendere. Geminam libertatem,
+et geminam, ut diximus, dignitatem in morte accipiunt
+soli perfecti, unam vero libertatem, et unam
+tantum dignitatem accipiunt omnes electi. Nam
+statim post egressum animae sub eodem temporis
+momento, et emancipantur a peccato, et confirmantur
+in bono. Siquidem electorum, sed minus
+perfectorum animae sicut et caeterae mox in
+corporis sui depositione sortis suae sententiam accipiunt,
+<pb n="1044B"/>
+et ex eo quod aeternam damnationem evaserunt,
+ex eo quod futuram glorificationem suam praenoscunt,
+ex eo quod a gratia Salvatoris Christi post
+tot delicta se nunquam destitutos esse cognoscunt,
+ad tantum Conditoris sui amorem convalescunt, ut
+nemo eorum de caetero aliquid omnino facere vellet
+unde Deum offenderet, etiamsi id impune liceret.
+Econtra autem omnes reprobi postquam damnationis
+suae sententiam accipiunt, ad quantulamcunque
+divini amoris scintillulam nunquam assurgunt,
+et ex quo de aeternis bonis penitus desperant, ad ea
+quae in hac vita noverant, et perverse amaverant,
+desiderant redire, et in eis semper vivere vellent, si
+impune hoc possent. Constat itaque eos peccato in
+perpetuum subservire, non tam actione quam voluntate.
+<pb n="1044C"/>
+Malorum itaque animae in exitu suo confirmantur
+in malo, bonorum vero confirmantur in bono.</p>
+<p>Et quamvis electae quaedam, sed minus perfectae
+teneantur adhuc satisfactionis debito, et multo forte
+tempore purgentur a vitio, absit tamen ut de caetero
+aliquo modo subserviant peccato. Emancipantur
+itaque a culpa, non tamen liberantur a poena, confirmantur
+in gratia, nec tamen sublimantur in gloria:
+sed quod post mortem Salvatoris agitur erga minus
+perfectos, hoc ante solutum redemptionis nostrae
+pretium agebatur etiam erga valde perfectos. Emancipabantur
+namque a servitute peccandi, nec tamen
+liberabantur ab omni debito patiendi. Nam, ut de
+caeteris taceam, patiebantur certe exsilium et ergastulum.
+<pb n="1044D"/>
+Sed quale ergastulum? Certe infernum.
+Taceo quod non rapiebantur ad gaudia coeli, sed
+nec revertebantur ad amoena paradisi. Quamvis
+igitur confirmarentur in bono, non tamen consummabantur
+in gaudio. Audenter dico, quod nec ipse
+Abraham geminam illam libertatem quae est a culpa
+et poena in corporis depositione accepit: nam illam
+quae est a captivitate longinquae peregrinationis nec
+<pb n="1045A"/>
+petere, sed nec sperare praesumpsit; merito ergo
+non turtures, sed turturem obtulit, et pro hac parte
+hostiam suam duplicare non debuit. Quod dico de
+obtentu geminae libertatis, idem dico de obtentu
+geminae dignitatis. Stabilitatem namque prioris gratiae
+quam speravit et quaesivit in morte accepit, sed
+ante Salvatoris adventum ad aeternitatis gloriam
+transire non potuit. Merito ergo ejus oblatio in ejusmodi
+avium genere, nonnisi una columba fuit.
+Beata vero virgo Maria, quoniam de utraque tam libertate
+quam dignitate in carnis depositione obtinenda
+secura fuit, recte hostiam suam ex utraque
+parte duplicare potuit. Jam, credo, tenetis quam merito
+debuit ejusmodi differentia interesse inter sacrificium
+Abrahae et sacrificium beatae virginis Mariae.
+<pb n="1045B"/>
+Sed adhuc illud in his videtur inquisitione
+dignum, cum magis elegerit offerre par turturum
+quam par columbarum, e converso autem duos
+pullos columbarum potius quam duos pullos turturum.
+Unum autem scio, quia bona coelestia, bona
+aeterna, quanto certius, quanto fidentius speramus,
+tanto libentius, tanto propensius pro eis
+laboramus. Quanto autem pro eis amplius desudamus,
+tanto majora vel potiora speramus.
+Quanto autem meliora speramus, tanto ardentius
+amamus. Quanto vero ardentius amamus, tanto
+vehementius, tanto anxius desideramus. Sic utique
+sic ex securitate spei nascitur anxietas desiderii.
+Habes itaque avem in spei securitate, habes ejus
+<pb n="1045C"/>
+pullum in desiderii anxietate. Spes siquidem quae
+coelestibus et aeternis inhiat, avium more ad alta
+quidem et longinqua volat. Pullus de volucre nascitur,
+et desiderii anxietas eo ordine quo diximus de
+spei certitudine generatur. Pullorum est assidue
+clamare, et raro a clamore cessare. Novit hoc ille
+qui dixit: <hi>Sicut pullus hirundinis, sic clamabo <note>(Isa. XXXVIII)</note>
+          </hi>.
+Pullus itaque satis anxie clamare
+solet, et anxium desiderium in aure Conditoris vocem
+magni clamoris habet. Hinc est quod Moysi tacenti,
+sed anxio desiderio aestuanti dicitur a Domino: <hi>Quid clamas ad me? 
+ <note>(Exod. XIV.)</note>
+          </hi> Hinc est illud
+Psalmistae: <hi>Desiderium pauperum exaudivit Dominus <note>(Psal. X)</note>
+          </hi>.
+Solet autem hujusmodi desiderium in
+quibusdam adeo crescere, ut taedeat eos vivere, ita
+<pb n="1045D"/>
+ut veraciter vox illorum videatur esse: <hi>Taedet animam
+meam vitae meae <note>(Job X)</note>
+          </hi>. Illud namque bonum
+quod oculus non vidit, nec auris audivit, nec in cor
+hominis ascendit, quis, quaeso, poterit cum spei
+certitudine exspectare, et ingenti desiderio non
+aestuare, et pene nonnisi impatienter vivere? Pertinet
+autem ad avem, ut dictum, confidentia spei, ad ejus
+vero pullum impatientia desiderii. Audi vocem volucris
+in loco solitudinis suaviter modulantis: <hi>Scimus,</hi> 
+inquit, <hi>quoniam si terrestris domus nostrae hujus
+habitationis dissolvatur, quod aedificationem ex
+Deo habemus domum non manufactam aeternam in
+coelis <note>(II Cor. V)</note>
+          </hi>. Ecce quanta confidentia spei. Attende
+et in alio vehementiam desiderii, simul et intellige
+clamorem vociferantis pulli: <hi>Quando veniam,</hi> 
+<pb n="1046A"/>
+inquit, <hi>et apparebo ante faciem Dei <note>(Psal. XLI)</note>
+          </hi>. Sed
+quando aliquis hujus vitae fastidio, futuraeque vitae
+desiderio aestuat, interest utique qua intentione id
+agat. Nam alium ad hoc ipsum timor impellit, alium
+vero amoris vehementia trahit. Illum exagitat timor
+ancipitis periculi, et incumbentis mali, istum
+amor et aestus perfruendi desiderii. Audi vocem de
+medio periculorum anxiantis: <hi>Quis me liberabit de
+corpore mortis hujus? <note>(Rom. VII.)</note>
+          </hi> Accipe et illam
+amoris nimietate aestuantis: <hi>Cupio dissolvi et esse
+cum Christo <note>(Philipp. I)</note>
+          </hi>. Utrobique audis desiderium
+mortis, et taedium vitae praesentis. Illa vox pertinet
+ad pullos turturum, ista ad pullos columbarum. Qui
+enim jam geminae, quas superius distinximus, captivitatis
+odio geminaeque libertatis desiderio mori
+<pb n="1046B"/>
+desiderat, et multis gemitibus atque suspiriis in idipsum
+anhelat, quid aliud in Dei auribus quam mors
+pullorum de nido turturum clamitat? Qui autem
+cum moriendi desiderio orat et plorat pro abundantia
+gratiae et gloriae quam in futuro exspectat, quid
+aliud quam pullorum more voce columbina clamat?
+Geminam namque libertatem in carnis depositione
+firmiter sperare, et in hac exspectatione patienter
+vivere, hoc est, ut jam diximus, par turturum offerre.
+Harum vero libertatum desiderio ardentius
+aestuare, et pro earum obtentu citius mori velle, et
+hoc ipsum quod vivit impatienter ferre, hoc esse
+videtur de pullis turturum hostiam immolare. Similiter
+qui sublimationem geminae dignitatis in spe
+<pb n="1046C"/>
+securitatis patienter exspectat, par columbarum in
+Domini sacrificio immolat. Qui vero morarum impatiens
+in idipsum anhelat et aestuat, de pullis columbarum
+Domino sacrificium parat.</p>
+<p>Quis enim plenitudinem illam gratiae et gloriae
+quantumlibet perfectus in hac vita obtinere, quam
+statim post animae exitum obtinere non dubitat, sic
+ut possit jugiter divinae contemplationi inhaerere,
+et ab illa nulla abduci cogitatione, ut possit in illo
+solo delectari, et in illo omni hora vel momento gloriari?
+Non est hoc hujus vitae ut oportet quantumlibet
+perfectum tantae jucunditatis dulcedinem, ut
+caetera taceam, saltem dormiendo interpolare. Quis
+illud primum et maximum mandatum in hac vita
+ad plenum possit implere, Deum videlicet toto corde,
+<pb n="1046D"/>
+tota anima, tota virtute diligere? Qui igitur pro
+obtinendo tantae plenitudinis desiderio vitam istam
+fastidit, et pro implendi desiderii acceleratione suspirat,
+ingemiscit, et lacrymas fundit, pullos columbinos
+Domini sacrificio impendit. Multi in magnis
+tribulationibus et tentationibus sunt, et fortiter
+agunt, securi de gemina libertate, si detur perseverare.
+Sed saepe non novelli eorum qui ejusmodi sunt,
+propter metum cadendi, et laborem patiendi, desiderant
+cito mori, ut ab omni periculi suspicione de caetero
+possint esse securi. Sed attende ne forte videatur
+esse signum nonnullius impatientiae laborum certamina
+subterfugere vel signum similiter nonnullius
+diffidentiae sub cadendi metu ultra modum trepidare
+Certum namque esse debet perfectis omnibus, quia
+<pb n="1047A"/>
+fidelis est Deus, qui non patietur nos tentari supra
+id quod possumus ferro, sed faciet cum tentatione
+etiam proventum, ut possimus sustinere <note>(I Cor. X)</note>.
+Hinc est quod quidam inter summa pericula tam
+constanter agunt, tam securi de Domini protectione
+consistunt, ut indubitanter audeant et dicant, quia
+neque mors, neque vita, neque angeli, neque principatus,
+neque virtutes, neque instantia, neque futura,
+neque fortitudo, neque altitudo, neque profundum,
+neque creatura alia poterit nos separare a
+charitate Dei, quae est in Christo Jesu <note>(Rom. VIII)</note>.
+Quantum itaque ad considerationem evadendi periculi,
+majus videtur firma de Domini protectione
+securitas spei, quam nimia vehementia desiderii.
+Sed illud pertinet ad par turturum, istud ad pullos
+<pb n="1047B"/>
+corum. Majus ergo videtur esse par turturum quam
+eorum pullos offerre. Sed absque dubio alia videtur
+esse lex timoris, atque alia, ni fallor, amoris. Velle
+quiescere et esse securum, non est tam amantis
+amicum quam amantis semetipsum. Illum vero
+quem diligit anima sua velle videre, illius desiderio
+aestuare, et donec illum videat, apprehendat, inhaereat
+nullo modo posse quiescere, videtur esse
+signum summae devotionis et admirandae charitatis.
+Videtur itaque pro hac parte multo majus aliquid
+esse impatientia aestuantis desiderii, quam sine ardenti
+desiderio sola securitas spei. Sed istud ultimum
+pertinet ad par columbarum, illud primum ad
+pullos earum. Majus itaque sacrificium videtur esse,
+<pb n="1047C"/>
+duos pullos columbarum quam ipsas columbas offerre.
+Ecce quod diu quaesivimus tandem aliquando invenimus,
+quia majus aliquid est offerre par turturum,
+quam pullos eorum; econtrario vero minus videtur
+offerre par columbarum quam pullos earum. Jam
+non miraris, ut arbitror, si sanctarum sanctissima,
+perpetua Virgo Maria in utroque genere hostiae obtulit
+quod juxta mysterii dignitatem utrobique optimum
+esse cognovit. Absit ut dicamus vel credamus
+beatam Virginem Mariam propter metum patiendi,
+vel timorem cadendi mortis desiderio urgeri. De
+nullo enim sanctorum rectius creditur quam de ipsa
+quod parata fuerit semper quantum in ipsa fuit, ad
+omnia tormentorum genera pro Christi nomine
+sustinenda. Metu vero cadendi quomodo urgeri potuit,
+<pb n="1047D"/>
+quae in carne qua Christi carnem genuit, nutrivit,
+nil contradictionis portavit? Ad momentaneum
+contactum dextrae salutaris leprosus mundatur <note>(Matth. VIII)</note>,
+ad tactum fimbriae mundata est
+et illa quae fluxum sanguinis patiebatur <note>(Luc. VIII)</note>,
+quanto magis illam ab omni contagio mentis et
+corporis mundari oportuit, quae tandiu totum in
+utero, quae toties totum in gremio circumplexa fuit,
+quae illius, ut sic dicam, medelae plenitudinem modo
+intus infusam, modo exterius adhibitam sufficienter
+habuit; illius, inquam, medelae quae tollendis omnibus
+omnium morbidorum morbis satis superque
+sufficere possit? Quomodo, obsecro, cadendi vel
+patiendi metu usque ad vitae taedium urgeri potuit,
+quae juxta angelicae salutationis praeconium gratia
+<pb n="1048A"/>
+plena fuit? Sed quo eam impellere non potuit timor,
+potuit attrahere amor. Quis unquam ex omnibus
+Christi dilectoribus libentius mori vellet, ut ejus
+divinitatem videre posset, ut majestati illius immensitatique
+perpetua contemplatione inhaereret? Quis
+unquam hujusmodi desiderii fervore ardentius
+aestuavit? Quanto certe prae caeteris dilexit, tanto
+prae caeteris divinae visionis dulcedinem, dulcedinisque
+sempiternitatem ardentius desideravit. Audenter
+dico quod nec illa quae prae caeteris dilexit
+huic dulcedini inseparabiliter inhaerere, vel hanc
+solam et sine interpolatione haurire potuit, quandiu
+in hac vita fuit, et corpus corruptibile portavit.
+Corpus enim quod corrumpitur aggravat animam,
+et terrena inhabitatio deprimit sensum multa cogitantem
+<pb n="1048B"/> <note>(Sap. VIII)</note> </p>
+<p>Quia igitur illam plenitudinem gratiae et gloriae
+in hac vita obtinere non potuit, quam in sua assumptione
+accepit, quid mirum si acceptionis illius horam
+ardenter desideravit, quam nullus cadendi vel
+patiendi timor ad mortis desiderium impellere potuit?
+Par turturum in eo quidem obtulit, quod geminam
+libertatem in carnis suae depositione quam
+confidenter tam patienter exspectavit. Pullos vero
+columbinos potius quam par columbarum obtulit,
+in eo quod ad geminam illam superius jam dictam
+gratiae et gloriae plenitudinem, etiam cum mortis
+desiderio anhelavit. Abraham vero, ut dictum est,
+ad carnis depositionem, non de obtentu gloriae,
+<pb n="1048C"/>
+sed de sola acceptione stabilis gratiae securus fuit,
+non tamen in ea plenitudine quam beata Virgo
+Maria, vel perfectorum quilibet sub hoc tempore
+accepit. Quid ergo mirum, si horam acceptionis
+tepidius desideravit, qui minus speravit? Recte
+ergo non pullos vel pullum columbarum, sed
+solam columbam obtulit. Turturem itaque Abraham
+in spe certa obtinendae libertatis a culpa,
+columbam obtulit in spe certa percipiendae perpetuae
+stabilitatis in gratia. Si perfectionis studia
+aemulari, si spirituales effici volumus, in sacrificio
+Domini juxta exemplum Abrahae, animalibus etiam
+aves adjungere debemus. Aves quidem se in aera
+suspendunt, quod animalia facere utique non possunt.
+In avibus itaque intellige studia spiritualia,
+<pb n="1048D"/>
+in animalibus exercitia corporalia. Ad animalia pertinent
+studia exteriora, ad aves studia interiora.
+Ad illa exercitia corporis, ad ista exercitia mentis.
+Interiora autem nostra solus Deus videt, exteriora
+vero nostra videre etiam proximus valet. Illa quae
+intus agimus fiunt propter solum Deum, illa quae
+extrinsecus gerimus partim propter Deum tantum,
+partim etiam propter proximum. Multa enim fiunt
+propter solum beneplacitum divinum, multa propter
+utilitatem vel beneplacitum hominum. Recte
+ergo de Abraham Scriptura dicit, quod animalia
+divisit, aves vero non divisit <note>(Gen. XV)</note>. In illis namque
+exercitiis quae solummodo patent divinis conspectibus,
+et qualia ad aves pertinere jam diximus,
+nihil aliud oportet intendere, nisi ut merito debeant
+<pb n="1049A"/>
+divinae voluntati placere. In corporalibus vero exercitiis
+quibus tum propter Deum, tum propter proximum
+insistimus, intentionem geminamus, et pro
+hac parte hostiam nostram dividimus. Debemus vero
+hostiam nostram non solum juxta hunc modum
+dividere, sed etiam divisiones ipsas altrinsecus contra
+se invicem ponere, et utramque partem alterna
+consideratione pensare. Nam in his quae propter
+proximum facimus, offensam Dei cum omni cautela
+cavere debemus, et in his quae propter Deum
+gerimus, inquantum possumus, proximi scandalum
+vitare debemus. Solam autem illam hostiam quae
+ex animalibus est debemus dividere, sed tam istam
+quam et illam quae ex avibus est oportet juxta exemplum
+Abrahae a volucrum rapacitate defendere <note>(ibid.)</note>.
+<pb n="1049B"/>
+Nam volucres, ut scriptum est, super ejus hostiam
+descendebant, et Abraham eas abigebat. Quid autem
+intelligimus per hujusmodi volucres, nisi vanas
+et ineptas cogitationes? Saepe ex bonis quae intus
+vel exterius operamur, modo superbia, modo inani
+gloria tangimur, et apud nosmetipsos in immensum
+gloriamur. Sed, si hujusmodi ineptis cogitationibus
+viriliter non resistimus, boni operis fructum nobis
+in Dei oculis evacuamus. Dictae autem volucres quasi
+ad sacrificiorum nostrorum rapinam descendunt,
+quando improbae cogitationes a spiritibus malignis
+ad meritorum corruptelam immissae cordi nostro
+superveniunt. Nam spiritus quidem maligni eo ipso
+quasi supra nos sunt, quo eminentioris conditionis
+<pb n="1049C"/>
+et angelicae naturae existunt, et in Evangelio volucres
+coeli dicti sunt <note>(Matth. XIII; Marc. IV; Luc.
+VIII)</note>. Debemus itaque ineptas cogitationes, et quaslibet
+immissiones per angelos malos, per increpationem
+ferire, et hoc erit ejusmodi volucres abigere.
+Qui igitur haec audit vel legit, apostolico documento
+addiscat, quomodo elationis vel ineptae
+gloriationis rapacitatem abigere oporteat. <hi>Quid,</hi> inquit, <hi>habes quod non accepisti? Si autem accepisti,
+quid gloriaris quasi non acceperis? 
+ <note>(I Cor. IV.)</note>
+          </hi> Solum
+malum habere potes de teipso, nullum autem
+bonum, nisi ex munere divino. Attende ergo quam
+sit impudens gloriatio gloriari de malo tuo, vel de
+bono non tuo. Si ista diligenter, si ista frequenter
+retractamus, devotionis nostrae hostiam citius ab ea
+<pb n="1049D"/>
+quam diximus volucrum rapacitate eripimus. Ecce
+habemus quales hostias debeamus Domino Deo nostro
+offerre, ecce habemus quomodo eas oporteat a
+rapacitatis incursu defendere. Utinam unusquisque
+nostrum hujusmodi studiis cousque insistat, donec
+sol occumbat, et vanitatis amor paulatim deficiat,
+et carnalis prudentiae radio subducto fervore concupiscentiae
+tepescat. Per globum namque igneum
+atque corporeum qui molem terrae circumire non
+desinit, et in circuitu pergens nunquam requiescit,
+quid melius, quid rectius hoc loco intelligimus, quam
+amorem terrenorum, amorem transeuntium qui infima
+ambit, et animum quem inflammat nunquam
+quiescere sinit? Sol iste et per prudentiam carnis
+splendet, et per carnis concupiscentiam fervet. Sol
+<pb n="1050A"/>
+iste absque dubio tunc occumbit, quando carnalis
+prudentia hebescit, et carnalis concupiscentia sensim
+refrigescit.</p>
+<p>Ut autem sciamus quid ejusmodi solis occasum
+quandoque sequi soleat, audiamus quid Scriptura
+dicat: <hi>Cumque sol occubuisset, irruit sopor super
+Abraham, et horror magnus et tenebrosus invasit eum <note>(Gen. XV)</note>
+          </hi>.
+Solis itaque occasum sopor, soporem sequitur
+horror. Per soporem corporis, ut omnes novimus,
+sensus corporeus sopitur, et animus humanus
+a rebus adjacentibus alienatur. Congrue igitur
+satis per soporem mentis alienatio intelligitur. In
+hujusmodi vero sopore mens saepe ex divina revelatione
+cognoscit, et quasi per somnum apta visione
+cernit quae prius et velut vigilans vix tenuiter, vel
+<pb n="1050B"/>
+nullo modo cognoscere potuit. Hinc est illud quod
+in Job per Eliu dicitur: <hi>Per somnium in visione
+nocturna quando irruit sopor super homines, et dormiunt
+in lectulo, tunc aperit aures virorum, et erudiens
+eos instruit disciplina <note>(Job XXXIII)</note>
+          </hi>. Hujusmodi
+sopor juxta arbitrium hominis nullo modo venit, sed
+pro beneplacito ipsius qui illum immittere consuevit.
+Merito ergo de hoc sopore dicitur quia irruit, eo
+quod subito et inopinate venit. Sopor itaque irruit,
+quando spiritualis quispiam repentino impetu in
+mentis alienationem transit. Quando autem homo
+juxta hunc modum soporatur, et extra semetipsum
+rapitur, mira et stupenda sunt saepe quae per excessum
+videntur. Miraris fortassis qui haec audis, quia
+<pb n="1050C"/>
+nil in te tale adhuc experiris. Nescis quia omnia
+tempus habent. Vigilantia utique et sopor tempus
+habent. Vigilantia in die, sopor in nocte. Forte tibi
+nondum sol occubuit, necdum vanitatis amor defecit.
+Sole fervente, nescit ille quem determinavimus
+sopor irruere. Solis occasum, ut diximus, sequitur
+sopor, soporem nihilominus quandoque subsequitur
+horror. Multa enim mens humana sub
+hujus saepe soporis tempore videt, quae sine pavore
+et tremore seu etiam horrore videre non valet. Unde
+est illud Eliphat Themanites: <hi>In horrore visionis
+nocturnae, quando solet sopor occupare homines, pavor
+tenuit me, et tremor, et omnia ossa mea perterrita sunt <note>(Job IV)</note>
+          </hi>.
+Audi et alium, et attende quid intellexerit
+quasi per somnium: <hi>Ego dixi in excessu mentis meae:
+<pb n="1050D"/>
+Projectus sum a facie oculorum tuorum <note>(Psal. XXX)</note>
+          </hi>.
+Quid mirum, si ejus animus inhorruit qui se a facie
+Domini projectum vidit? De hujusmodi terrore vel
+horrore per ipsum Job dicit: <hi>Si dixero. Consolabitur
+me lectulus meus, et relevabor loquens mecum in stratu
+meo, terrebis me per somnia, et per visiones horrore
+concuties <note>(Job XVII)</note>
+          </hi>. Quasi enim per somnia terretur,
+et per visiones horrore concutitur, quando mens
+humana supra semetipsam ducta, et ad divinorum
+judiciorum contemplationem rapta, ex divina revelatione
+videt quantis periculis quotidianis momentis
+subjacet. Videt quam sint infinita aeterna bona quae
+perdidit, quam sint horrenda aeterna mala quae meruit;
+videt quam facile sit omni hora cadere, semel
+lapso quam sit impossibile per semetipsum resurgere;
+<pb n="1051A"/>
+videt quomodo quidam a summis virtutum
+studiis in ima vitiorum cadunt, quomodo e converso
+quidam ab imo vitiorum ad summa virtutum fastigia
+consurgunt, et in his omnibus nescit homo finem
+suum, sed, sicut pisces capiuntur hamo, et sicut
+aves comprehenduntur laqueo, sic capiuntur homines
+tempore malo cum eis extemplo supervenerit.
+Quid ergo mirum si quodam horrore concutiuntur
+qui sub quanto periculorum incerto humana infirmitas
+laboret divinitus erudiuntur? Denique attende
+quid Abraham quasi per soporem didicerit, et animadvertes
+quam merito inhorruerit. Dictum namque
+est ad eum: <hi>Scito praenoscens quod peregrinum
+sit futurum semen tuum in terra non sua, et subjicient
+eos servituti, et affligent quadringentis annis <note>(Gen. XV)</note>
+          </hi>.
+<pb n="1051B"/>
+Per semen Abrahae, si vis, intellige ipsas virtutes.
+Per semen Abrahae, si vis, intellige virtutum aemulatores,
+Abrahae exemplo viventes, et vitae ipsius
+imitatores. Nonne virtutes ipsae regi Pharaoni deserviunt,
+quando sinistra intentione fiunt, et per
+hypocrisim depravatae nil nisi mortis lucra conquirunt?</p>
+<p>Et saepe fit ut virtutum studia quae inchoata fuerant
+intentione bona, tandem actitentur intentione
+mala. Nonne semen Abrahae regi Pharaoni in luto
+et latere servit, quando quilibet virtutum aemulator
+fortis, qui egrediens de terra et de cognatione sua,
+diu juxta Abrahae exemplar, juxta tandem aliquando
+in modum David in aliquod flagitium cadit? Nam et
+hujusmodi quilibet, si iterum ad justitiam revertitur,
+<pb n="1051C"/>
+inter filios Abrahae reputatur. Attende ergo
+quam sit plenum timoris pariter et horroris, quod
+nec in excelso quodam vel de fastigio virtutis detur
+homini in hac vita ullus locus securitatis. Valde est
+rarum et vere paucorum magna agere, nec se magnum
+putare, multis praeeminere, neminem despicere.
+Cum enim quilibet nostrum miranda agit,
+caeterosque studiorum bonorum agilitate praecedit,
+facile est ut illud Pharisaei dicat apud semetipsum: <hi>Non sum sicut caeteri hominum 
+ <note>(Luc. XI)</note>
+          </hi>. Unde fit
+saepe ut his qui ejusmodi sunt gratia divina subtrahatur,
+et cadere permittantur, et eousque nonnunquam
+paulatim perducuntur, ut tandem aliquando
+sint tam pertinaces in malo quam prius
+<pb n="1051D"/>
+fuerant constantes in bono. Nonne hoc est quod
+Dominus minatur, cum ad Abraham dicitur: Scito
+praenoscens quod peregrinum futurum sit semen
+tuum in terra non sua? Cum caetera elementa semper
+fluctuare soleant, sola terra in aeternum stat,
+unde congrue satis cordis stabilitatem designat.
+Sed quam bonum est esse stabilem in proposito
+bono, tam malum est esse stabilem in proposito
+malo. Illud est constantiae, istud pertinaciae.
+Constantia itaque in bono, terra est bonorum; pertinacia
+in malo, terra est malorum. Quando itaque quilibet
+praedestinati ad viam aeternam perducuntur, paulatim
+ad ejusmodi pertinaciam vere peregrinantur in
+terra aliena, in terra non sua. Ecce quid facit superbia,
+ecce quid facit arrogantia. Vasa itaque misericordiae
+<pb n="1052A"/>
+cum incipiunt de suis meritis intumescere, pia Dei
+dispensatione permittuntur cadere, ut discant humiliter
+sapere, et de infirmitate sua vera sentire. Cognitio
+autem humanae infirmitatis ut plena sit in quatuor
+gradibus consistit: duos habemus in consideratione
+mali, duos in consideratione boni. In consideratione
+mali, primo ut sciamus nos nullum malum nostra virtute
+posse cavere; secundo ut sciamus a nullo malo post
+lapsum nostra virtute posse resurgere. In consideratione
+boni, ut cognoscamus nos ad nullum bonum
+nostra industria posse convalescere, secundo ut
+cognoscamus nec in eo quod divinitus accepimus
+nostra industria posse perseverare. In cognitione
+autem sui multiplex promotio profectuum, quid aliud
+est quam quaedam successio alternantium dierum?
+<pb n="1052B"/>
+Omnis autem alternatio crescentium seu decrescentium
+dierum sub anno concluditur, et solis cursu
+consummatur. Recte ergo per annum in qualicunque
+re plenitudo et consummatio cognitionis intelligitur.
+Ad hoc vero, juxta quod superius dictum est, permittitur
+homo in uno aliquo vitio multoties multiformiter
+cadere, ut per multa experimenta plene et
+integre addiscat ab ejusmodi servitute nulla sua virtute
+se posse eripere. Quando autem ista experientiae
+multiformitas usque ad cognitionis plenitudinem
+perducitur, quasi annus consumatur. Quando autem
+eumdem infirmitatis suae defectum quilibet in aliis
+et aliis vitiis per quotidiana experimenta addiscit,
+et eamdem veritatis sententiam quam in multis
+<pb n="1052C"/>
+experimento probavit, etiam in aliis ex ratione
+colligit, et tandem idem in omnibus universaliter
+sentit, jam annorum numerus in cognitionis multiplicatione
+in centenarium surgit. Nam, quia omnes
+digiti et articuli ab eisdem denominati et ab utrisque
+compositi infra centenarium concluduntur, recte
+in centenario universitas figuratur. In anno itaque
+plenitudinem, et in centenario intellige universitatem.
+Quando ergo necessariae cognitionis abundantiam
+et in singulis sufficienter, et in omnibus
+generaliter habemus, annualem eruditionis nostrae
+procursum in centenarium producimus. Infirmitatis
+autem nostrae cognitionem superius per quatuor
+gradus distinximus. Oportet ergo quasi quadringentorum
+annorum numerum explere, si volumus
+<pb n="1052D"/>
+hanc, quam praelocuti sumus, quadrifidae scientiae
+plenitudinem apprehendere. Pro certo habeas, nec
+est unde haesitare debeas, quod eo usque oporteat te
+Pharaoni Aegyptiisque subesse, vitiis vitiorumque
+incentoribus subservire, donec experientiae magisterio
+docearis de tua infirmitate vera sentire, donec
+plene addiscas in cavendis vel corrigendis malis,
+in obtinendis vel conservandis bonis nil omnino de
+tua virtute praesumere. Ecce jam audivimus unde
+patriarcha inhorruit, et quidem unde merito inhorrere
+debuit. Audivimus quae erant ad terrorem,
+audiamus et quae esse poterant ad consolationem: <hi>Verumtamen gentem,</hi> 
+ inquit, <hi>cui servituri
+sunt, ego judicabo. Et post haec egredientur cum magna
+substantia. Tu autem ibis ad patres tuos in pace,
+<pb n="1053A"/>
+sepultus in senectute bona: generatione quarta revertentur
+huc. Necdum enim completae sunt iniquitates
+Amorrhaeorum usque ad praesens tempus <note>(Gen. XV)</note>
+          </hi>.</p>
+<p>Ecce, ut ex istis animadvertere possumus, ex divina
+revelatione, et velut per somnium addiscimus
+modo tristia, modo jucunda, modo autem ex utrisque
+permista. Gentem, inquit, cui servituri sunt
+ego judicabo. Per gentes siquidem sive vitia, sive
+vitiorum incentores velis intelligere, utrosque utique
+habet Deus judicio suo atterere, et de bonorum
+cordibus exturbare, et illa quidem sic atterendo ut
+undique omnino non sint istos vero damnando ut de
+caetero semper miseri sint, et bonis in aliquo in
+aeternum praevalere non possint. Et post haec, inquit,
+<pb n="1053B"/>
+egredientur cum magna substantia. Scimus
+quidem quia filii reconciliationis ex casu suo erudiuntur
+ad discretionem, ad circumspectionem, ad
+humilitatem et compassionem, ad constantiam, ad
+patientiam simul et perseverantiam. Egrediuntur
+itaque cum magna substantia quando secum reportant
+hujusmodi virtutum lucra, et scientiae talenta.
+Habes ergo animarum substantiam in poenitentiae
+fructibus et virtutum lucris; habes virtutum
+substantiam in scientiae et sapientiae thesauris. De
+hujusmodi substantiae thesauro intelligitur illud in
+psalmo: <hi>Et eduxit eos cum auro et argento <note>(Psal.
+CIV)</note>
+          </hi>. Vide ergo quam sit mirandum, quam jucundum,
+quam stupendum quod ipsa etiam ruina morum
+<pb n="1053C"/>
+bonis cooperatur in bonum, et impletur quod
+in Apostolo legitur: <hi>Scimus quoniam diligentibus
+Deum omnia cooperantur in bonum, his qui secundum
+propositum vocati sunt sancti <note>(Rom. VI)</note>
+          </hi>. Cooperatur
+itaque in bonum quod in terra non sua ad
+tempus subserviunt, qui tandem aliquando inde
+cum magna substantia exeunt. Cooperatur in bonum
+quod aliquantulum temporis vitiis succumbunt,
+qui postmodum quanto exercitatiores tanto cautiores,
+quanto humiliores tanto constantiores vel
+robustiores resurgunt. Verum illi supra modum
+felices judicandi sunt qui ad humilitatis gratiam ex
+praevidentiae dono proficiunt, qui humanae infirmitatis
+modum non tam ex propria quam aliena ruina
+addiscunt. Horum persona in Abraham exprimitur
+<pb n="1053D"/>
+cui a Domino dicitur: Tu autem ibis ad patres tuos
+in pace, sepultus in senectute bona. Nec Dominus
+praedicit, nec aliqua Scriptura innuit quod Abraham
+alicubi alicujus servitio addictus fuerit. Non
+igitur saepe cadendo, saepe resurgendo vitiisque subserviendo
+ad humilitatis gratiam profecit. Sed dum
+in libro providentiae, revelante Deo, lectitat, per
+aliorum exempla probat quid de sua infirmitate
+sentire debeat. Videamus ergo si illam humilitatis
+revelatam quam superius per quatuor gradus distinximus
+in istius divinitus edocti dictis invenire valeamus.
+Loquentem ergo eum Domino audiamus: <hi>Loquar,</hi> 
+ inquit, <hi>cum Domino meo cum sim pulvis et
+cinis <note>(Gen. XVIII)</note>
+          </hi>. Pulvis ad omnem flatum de suo
+loco excutitur, et quocunque dejectus, nunquam
+<pb n="1054A"/>
+nisi alieno impulsu levatur. Ecce, homines formam
+defectus humani, quantum pertinet ad considerationem
+mali.</p>
+<p>Subtracta namque gratia et protectione divina,
+homo ad inimici suggestionem in quodcunque malum
+dejicitur, et semel dejectum ad status rectitudinem
+propria virtute roboratur. Cinis ex se nullum
+omnino germen producit, et aliunde susceptum,
+non dicam ad incrementum, sed ad sustentamentum
+nutrire ulla sua pinguedine omnino non sufficit.
+Habes hic item formam defectus humani, quantum
+pertinet ad considerationem boni. Nullum siquidem
+boni operis germen potest homo ex semetipso sine
+operante gratia producere, et cum ex gratia operante
+habere jam coeperit, per semetipsum omnino
+<pb n="1054B"/>
+non poterit sine ejus cooperatione custodire. Ecce
+Abraham, ut ex his ejus dictis intelligitur, ad illam
+humilitatis plenitudinem divinitus eruditus invenitur,
+ad quam per quadruplicatum annorum centenarium
+a multis post multa experimenta pervenitur.
+Quod itaque alii vix per multa experimenta,
+hoc alii facile addiscunt ex revelatione divina. Tu
+autem, inquit, ibis. Tu, quem prae caeteris abundantiore
+gratia praeveni, tu quem prae caeteris profundius
+illuminavi. Tu ibis ad patres tuos in pace, immunis
+ab omni indignae et durae servitutis oppressione.
+Quid autem est ad patres suos ire, nisi eodem virtutum
+tramite quo alii in vitae via praecessere, ad intimae
+quietis tranquillitatem bonorum operum agilitate
+<pb n="1054C"/>
+properare? Ergo ad pacem properabat qui in
+pace iturus erat. Ibat per pacem et ad pacem; per
+pacem internam, ad pacem aeternam. Per pacem illam
+quae mutuo sibi conciliat omnem sensum, ad pacem
+illam quae exsuperat omnem sensum. Sopienda itaque
+est illa discordia quae est inter carnem et spiritum,
+ut transiri possit ad illam quae est supra omnem
+sensum. Quid autem est Dominum hujusmodi
+promissiones alicui facere, nisi eum ad ejusmodi spem
+et certitudinem interna inspiratione animare? Tu autem
+ibis ad patres tuos in pace, sepultus in senectute
+bona. In senectute solet tam sensus quam appetitus
+exterioris hominis languescere, et quotidianis
+detrimentis defectui appropinquare. Senectus bona,
+quando sub idem temporis quo exteriorum et transeuntium
+<pb n="1054D"/>
+appetitus minuitur, inde interiorum et
+aeternorum innovatur. Senectus bona, quando exterior
+sensus decrescit, interior vero excrescit. Senectus
+bona, quando eo ipso interior homo roboratur,
+quo exterior homo infirmatur: <hi>Cum enim infirmor,</hi> 
+inquit, <hi>tunc fortior sum et potens <note>(II Cor. XII)</note>
+          </hi>.
+Melior est senectus morum quam annorum, meritorum
+quam temporum. Gloriosius est appetitum exteriorum
+bonorum languescere ex studio industriae,
+quam ex vitio naturae. Sepultus, inquit, in senectute
+bona. Prius homo moritur ut postmodum sepeliatur.
+Mortuus quidem desinit videre, sed non statim desinit
+videri. Sepultus vero desinit videre, simul et
+videri. Qui vult ergo huic mundo mortuus esse,
+oportet illum oculos illos claudere, quos in primis
+<pb n="1055A"/>
+parentibus legimus apertos fuisse, et oblectamenta
+sensuum non attendere, nec avertere.</p>
+<p>Sed et tunc qui ejusmodi est quasi post mortem
+sepulturam invenit, quando per sapientiae studium,
+aeternitatisque desiderium, a mundanis insuper
+mundana transiens, in ejusmodi statum proficit,
+quale carnalis quilibet non dicam scire, sed nec
+suspicari possit. Per vitam activam mortificamur,
+per speculativam et contemplativam cum Abraham
+quasi duplici spelunca sepelimur. Proprium est speculative
+invisibilia Dei per ea quae facta sunt intellecta
+conspicere, et velut per speculum et in aenigmat
+evidere. Proprium est contemplativae, veritatem
+absque involucro, et quasi facie ad faciem videre.
+Per speculativam itaque et contemplativam a rebus
+<pb n="1055B"/>
+humanis absentamur, et, ut dictum est, velut duplici
+spelunca sepelimur. Bonum itaque est desiderii
+appetitum studiique conatum a rebus humanis
+languescere, deficere, absentare, et coelestibus theoriis
+immersos carnaliter sapientium obtutus latere.
+Sic vir virtutum aemulator inveteratur, moritur, sepelitur.
+Ecce de Abraham vel de eis quorum formam
+gerit audivimus: nunc de filiis peregrinationis
+quid consolationis adjungat audiamus: Et quarta,
+inquit, generatione revertentur huc. Quod quarta
+generatione dicit, non ab Abrahae tempore, sed a peregrinationis
+tempore computare debes, sicut ex
+Evangelio vel aliis locis Scripturarum habes. Quando
+interna illa familia cogitationum sive voluntatum
+<pb n="1055C"/>
+in peregrina abducitur, et vitiorum servituti urgentibus
+tentationibus addicitur, primo quidem non
+desinit conscientia omni hora submurmurare, et
+inquiete agere, sed paulatim invalescere prava consuetudine
+ad hoc usque perducitur, ut exactoribus
+suis desinat recalcitrare, et velut vitula docta diligere
+trituram serviat sine murmure et contradictione.
+Sed cum tempus beneplaciti, tempusque miserendi
+coram Domino advenerit, et post multa
+mala, Domino miserante et quasi Moysi officio visitante,
+ad poenitentiam compuncta fuerit, incipit jam
+recalcitrare, et captivitatis jugum jam excutere velle,
+sed nondum tamen potest praevalere. Deinde crebrescentibus
+consolationibus divinis, multisque coruscantibus
+velut miraculis, incipit paulatim convalescere,
+<pb n="1055D"/>
+robur acquirere, audaciam assumere, et
+tandem aliquando hostibus praevalere, sed non sine
+magno labore et summa difficultate.</p>
+<p>Ad ultimum vero vitiorum tyrannide subacta, et
+tota illa velut Pharaonis militia intimae conpunctionis
+mundatione submersa, invalescente bonae consuetudinis
+studio, hostiumque terrore sublato, incipit
+jam de bonae conscientiae tranquillitate gaudere,
+et ad promissam jucundae securitatis terram appropinquare.
+Prima itaque generatio servientium nec
+reclamantium, secunda reclamantium nec praevalentium,
+tertia praevalentium et laborantium, quarta
+praevalentium et quiescentium. In solitudine namque
+commorantibus, ciboque coelesti victitantibus, quod
+aliud esse oportuit officii genus quam vacare et
+<pb n="1056A"/>
+videre quoniam suavis est Dominus? In primis est
+conscientia tranquilla et mala, in secundis inquieta
+et mala, in tertiis inquieta sed bona, in quartis
+tranquilla et bona. Per conscientiae vero tranquillitatem
+appropinquatur ad conscientiae securitatem.
+Jucunditas [securitas] securae conscientiae est illa,
+uti superius dictum est, terra fluens lacte et melle
+quae a Domino promittitur et datur haeredibus
+Abrahae. Merito ergo dicitur: Generatione autem
+quarta revertentur huc. Et additur: Necdum enim
+completae sunt iniquitates Amorrhaeorum usque ad
+praesens tempus. Secundum differentiam morum dispensantur
+merita singulorum. Sunt qui magis confunduntur
+vel compunguntur de turpi cogitatione, quam
+quidam alii ex turpissima actione. Hinc est quod quidam
+<pb n="1056B"/>
+post turpem cogitationem, rapiuntur usque ad
+pravam delectationem. Alii ex delectatione prava labuntur
+in solum pravitatis consensum, alii etiam post
+consensum praecipitantur in actum. Quidam etiam
+perversam actionem ducunt in consuetudinem. Moderatur
+itaque casus singulorum, secundum illius
+utique arbitrium cujus dispensatione omnia cooperantur
+bonis in bonum. Inveniuntur quidam sane
+tantae impudentiae, tantae duritiae atque superbiae,
+ut post multa mala vix valeant ad plenam infirmitatis
+suae cognitionem erudiri, vix in veritate humiliari,
+vix de sua pravitate intime compungi.
+Amorrhaeorum itaque iniquitates tunc completae
+videntur, quando, eo dispensante qui omnia moderatur,
+<pb n="1056C"/>
+ad eam enormitatem excrescere permittuntur,
+quae suo tempore abundanter sufficiant ad
+cordis impudentiam, duritiam, superbiam confundendam,
+conterendam, conculcandam. Ecce jam audimus
+quanta Abraham ex divina revelatione didicit
+postquam ei sol occubuit, sopor irruit, horror invasit.
+Adhuc repetit Scriptura quod superius jam dixerat,
+ut quae sint illa quae solis occasum sequi soleant
+ostendat plenius: <hi>Cum ergo,</hi> inquit, <hi>occubuisset sol,
+facta est caligo tenebrosa et apparuit clibanus fumans
+et lampas ignis transiens inter divisiones illas <note>(Gen.
+XV)</note>
+          </hi>. Dixit quid audierit, dicit iterum quid viderit
+postquam ei sol iste occubuit, et carnalis amor
+defecit. Audivimus quae audierit, attendamus et
+quae viderit. Prius ignem fumigantem, postea
+<pb n="1056D"/>
+ignem flammantem. Prius ignem succendentem,
+postea ignem illuminantem. Vidit ergo clibanum
+fumigantem et lampadem. Nemo sane accendit
+lampadem ad calefactionem, sed ad solam illuminationem.
+Econtrario vero nemo succendit clibanum
+ad illuminationis beneficium, sed ad calefaciendum.
+In clibano itaque fumante intellige incendium
+amoris, in lampade lucem gratiae revelantis.
+Item et illud attende quia ad hoc ignem clibano immittimus,
+ut ejus interiora, non autem exteriora
+calefaciamus. In incendio itaque clibani intellige
+amorem spiritualium, amorem internum, amorem
+virtutum. Ignis ergo quasi in clibano succenditur,
+et quasi in interioribus clausus tenetur, quando
+amor cordis interioribus nutritur, et tunc vere velut
+<pb n="1057A"/>
+intus clausus ubi oritur illic cohibetur, quando
+animus ad animi bona diligenda, desideranda acrius
+inflammatur. Quasi clibanum succendimus, quando
+cordis desiderium ad ea quae intimius desideranda
+sunt vehementius inflammamus. Vera et intima
+animi bona vere et intime desideranda dicimus ipsam
+virtutem, ipsam bonitatem. Quando ergo sine
+respectu mercedis virtus propter virtutem ipsam
+diligitur, quando etiam sine retributionis intentione
+bonitas ipsa propter semetipsam amatur, vere et
+absque dubio amoris incendium in intimis succendi
+et ne ad exteriora erumpat in intimis coerceri videtur.
+Sed illud, merito quaeritur, cur Abrahae
+clibanus fumans, et non potius flagrans ostenditur?
+Sed scimus quia in clibani succensione in primordio
+<pb n="1057B"/>
+quidem semper fumus suboritur, sed, paulatim
+crescente incendio, paulatim et ipse decrescere,
+tandem autem omnino deficere videtur. Quid
+ergo aliud quam quaedam intimi amoris inchoatio
+exprimitur, in eo quod Abrahae clibanus fumans
+per visionem ostenditur? Nam quantumcunque
+homo in charitatis promotione in hac vita videatur
+profecisse, si futurae vitae plenitudinem cogites, in
+ejus comparatione non videbitur nisi quaedam perfectionis
+inchoatio fuisse. Et fumus quidem oculos
+urit, lacrymasque producit, et charitas secundum
+statum vitae praesentis quantumcunque profecerit
+bene examinatus diligenter inspectus, ex conscientiae
+remordatione animum compungit, quoniam
+quandiu hic vivitur, quod ei divinitus praecipitur
+<pb n="1057C"/>
+toto corde, tota anima, tota mente non diligit. In
+clibano itaque fumante exprimitur inchoatio dilectionis
+intimae et summae. In charitate siquidem
+nihil sublimius, nihil praeclarius invenitur, quam
+cum bonitas ipsa per semetipsam diligitur. Sed
+sicut in clibano fumigante recte intelligitur quaedam
+inchoatio intimae et summae dilectionis, sic et in
+lampade convenienter exprimitur quaedam inchoatio
+intimae et summae lucis. Nemo enim lucernam
+illuminat, ut circumquaque regionem, vel quae in
+ea circumquaque sunt videat. Sed ad hoc sane
+lucernam accendimus, ut propinqua, et quae in
+penetralium nostrorum interioribus sunt videamus.
+Quid autem vicinius spiritui quam ipse sibi,
+<pb n="1057D"/>
+nisi forte cum vana sectando semetipsum deserit,
+et intima sua projiciendo ipse quidem a semetipso
+recedit? Quid illi magis vicinum, quid magis intimum
+esse potest, illo spiritu qui ubique est, et nusquam
+deesse potest? Certe pravum est cor hominis
+et inscrutabile, nec potest cognosci sicut nec videri
+nisi ad lumen lucernae desuper missae divinitus incensae.
+Nam et Abrahae desuper mittitur, et Psalmistae
+divinitus illuminatur: <hi>Quoniam tu illuminas
+lucernam meam, Domine; Deus meus, illumina tenebras
+meas <note>(Psal. XVII)</note>
+          </hi>. Si itaque sine beneficio divinae
+lucernae non potes videre intima tua, quanto
+magis arcana divina? Homini itaque lucerna divinitus
+illuminatur, quando ei intimorum bonorum
+supereminentia in divino lumine manifestatur. Sed
+<pb n="1058A"/>
+si divinae revelationis formam Abrahae oportuit
+exhibere, cur ipsa ei in lucerna exprimitur, et non
+potius in sole? Sed quantumcunque humana intelligentia
+in hac vita in intimae lucis manifestatione
+profecerit, usque ad perfectum diem non excrescit,
+et futurae illius plenitudinis nonnisi quoddam quasi
+initium sumit. Sicut ergo in clibano fumigante merito
+intelligitur quaedam inchoatio futurae plenitudinis
+in summae bonitatis amore, sic in lucerna ardente
+recte intelligimus quoddam futurae plenitudinis
+initium in summae sapientiae contemplatione. Solent
+autem haec duo mutua incrementa in alterutrum
+praestare: nam dilectio ex cognitione et cognitio
+crescit ex dilectione. Contingit tamen ut homo eo
+saepe tempore quo multum per desiderium fervet,
+<pb n="1058B"/>
+parum videat; et e converso eo tempore quo multa
+videt, parum ferveat. In his autem absque dubio
+summus ille artifex artis utique suae peritiam ostendit.
+Et quam nihil homo nisi ex divini muneris cooperatione
+possit innotescit, dum ei in causarum
+effectibus praeter spem et aestimationem contingit.
+Hoc est quod Abrahae clibanus fumans et lampas
+ostenditur et tam divinae aspirationis quam revelationis
+seorsum et seorsum forma proponitur.</p>
+<p>Attendendum est autem quomodo hic vel ibi videtur: <hi>Transiens,</hi> 
+ inquit, <hi>inter divisiones ipsas <note>(Gen. XV)</note>
+          </hi>.
+Quod per figuram cernimus, rerum experientia probamus.
+Bonitatis namque veritatisque revelatio
+semper in bonorum omnium fontem tendit, et animum
+quem afficit post se in idipsum trahit. Sed
+<pb n="1058C"/>
+quid illud est quod spiritualium exemplar quod patriarcha
+vidit, inter medias ei divisiones apparuit?
+Sicut superius jam diximus, illi hostias suas dividunt
+qui in bonis quae agunt tum Deo, tum proximo
+placere contendunt, qui tam iram Dei quam scandalum
+proximi, cum omni studio devitare proponunt.
+Absque dubio nihil laboriosius, nihil difficilius.
+Vide ergo gemina illa quae superius descripta est
+gratia quam merito inde confertur vel cumulatur,
+unde animus humanus propter Deum acrius urgetur:
+nam hoc est quod Abrahae inter medias divisiones
+clibanus et lampas apparuisse describitur.
+Sed notandum quia Abraham antequam ista viderit,
+caliginem tenebrosam incurrit. Profecto qui humani
+<pb n="1058D"/>
+erroris opaca, periculorumque latebrosa in quibus
+versatur necdum agnovit, ad illum verae dilectionis
+ignem, qui infimis inhaerere nescit non pertingit.
+Qui necdum intelligit quod tentatio sit vita hominis
+super terram, exsilii quod patitur ignarus, nescit
+suspirare ad patriam, nescit lucem internam, nescit
+veri et intimi amoris flagrantiam. Hic est ignis qui coelitus
+immittitur, qui post solis occasum datur. Hic est
+qui fiduciam generat, confidentiam parat, nutrit spem,
+tollit timorem. Charitas enim omnia credit, omnia
+sperat. Denique perfecta charitas foras mittit timorem.
+Nam et Abraham postquam ignem illum coelitus
+missum meruit accipere, nusquam de caetero
+legitur de Domini promissionibus dubitasse. Et nos
+certe, si terram illam lacte et melle manantem
+<pb n="1059A"/>
+haereditare concupiscimus, ad ejusmodi ignis acceptionem,
+in quantum possumus, anhelare debemus.
+Qualem hostiam patriarcha, et eo ordine quo ipse
+<pb n="1060A"/>
+obtulit et ipsi paremus, et absque dubio in signum
+accipiendae haereditatis qualem desideramus ignem
+accipiemus.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

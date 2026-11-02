@@ -1,0 +1,725 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Declarationes nonnullarum difficultatum Scripturae</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeNoDiS</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <hi>Quae animalia munda et immunda dicantur.</hi> </head>
+
+<pb n="0255A"/>
+<p>Quaeris cum omnia in prima creatione dicantur
+bona, cur introducendorum in arcam alia dicuntur
+munda, alia vero immunda, cum ista eo ipso quod
+immunda sint non videantur esse bona. Sed in rerum
+consideratione aliud judicium est secundum
+primam conditionem, aliud juxta humanam consuetudinem,
+atque aliud juxta divinam legem. Secundum
+primam conditionem omnia judicantur bona
+vel munda; juxta humanam consuetudinem alia
+munda videntur, alia immunda. Ex mundis vero
+consuetudinariis, quaedam sanctio divina excepit, et
+immunda decernit. Primum judicium est juxta definitionem
+rationis, secundum juxta experimentum
+sensualitatis, tertium juxta decretum divinae sanctionis.
+<pb n="0255B"/>
+Ratio judicat secundum naturam et proprietatem
+<pb n="0256A"/>
+rebus insitam. Sensualitas juxta affectionem propriam,
+et placoris vel horroris sui differentiam.
+Sanctio divina juxta similitudinem aliquam ob
+significationis gratiam. Juxta rationis judicium
+nihil immundum praeter peccatum. Sensualitas immundum
+reputat, quod sensus carnis horret vel
+nauseat. Quando divina sanctio aliquid quod naturaliter
+mundum est immundum decernit, gratia
+significationis id facit, et ad aliquid quod veraciter
+immundum est de moribus hominum delendum
+intendit. Multa igitur quae secundum consuetudinem
+vel aliquam institutionem reputantur immunda,
+juxta proprietatis suae rationem judicantur munda
+et bona.</p>
+</div1>
+
+<div1>
+        <head> <hi>Qui dicatur anima, et quid purgari a veteri fermento.</hi> </head>
+<p>
+          <pb n="0256B"/>Quaeris quomodo ab Apostolo axymi dicantur qui
+<pb n="0257A"/>
+tamen ab eodem vetus fermentum purgare jubentur.
+Nam quod azyma apud Graecos, hoc idem
+sonat fermentum apud nos, azyma vero idem quod
+absque fermento. Si ergo absque fermento non
+sunt, quomodo azyma dici possunt? Vel si omni
+fermento carent, quomodo purgare valent quod omnino
+non habent? <hi>Expurgate,</hi> inquit, <hi>vetus fermentum,
+ut sitis nova conspersio sicut estis azymi <note>(I Cor.
+V)</note>
+          </hi>. In his Apostoli verbis si bene consideres, non
+unam tantum, ut mihi videtur, quaestionem reperies,
+sed plures. Sed dum unam solam proponis, in eo
+ipso innuis te nullam dubitationem habere in aliis.
+Libenter itaque conabor solvere dubitationem tuam,
+dum postmodum et tu solvas dubitationem meam,
+nec unam tantum, sed geminam, ut talentum creditum
+<pb n="0257B"/>
+cum usura recipiam. Ecce fatemur quod idem ipsi
+secundum idem ipsum non possunt azymi esse et
+fermentum habere, possunt tamen idem ipsi secundum
+aliud et aliud et azymi fore et fermento non
+carere. Sunt qui de Deo nil nequiter sentiunt, et ab
+omni ejusmodi nequitiae fermento purgati sunt, sed
+male vivendo malitiae fermento purgari necdum meruerunt.
+Secundum regulam bonitatis vera de Deo
+sentiunt, sed secundum regulam bonitatis recte vivere
+nolunt. Carent, qui hujusmodi sunt, fermento
+nequitiae, sed necdum carent fermento malitiae: <hi>Sentite,</hi> 
+inquit Scriptura, <hi>de Domino in bonitate <note>(Sap. I)</note>
+          </hi>.
+Videte Judaeos quam nequiter de Christo sentiunt.
+Videte gentiles quia vera de Deo sentire nequeunt:
+nequitiae ergo fermento utrique pleni sunt. Videte
+<pb n="0257C"/>
+quemlibet haereticum juxta aliquid de Deo bene
+sentit, juxta aliquid de Deo bene sentire jam nequit.
+A nequitiae ergo fermento ad plenum purgari necdum
+meruit. Nequitia est cum jam quis nequit sentire
+quod debuit. Nequitia est cum malitia sic mentem
+inebriat, et eousque excaecat, ut de Deo vel
+proximo sentire jam nequeat secundum id quod
+veritatis regula dictat. Attende nunc Christianos, et
+videbis quam multos qui per omnia credunt veraciter,
+sed per omnia non vivunt sinceriter. Azyma
+veritatis habent, sed azyma sinceritatis non habent.
+Azymi sunt secundum fidem, sed azymi non sunt
+secundum operationem. Merito igitur dicitur illis
+qui ejusmodi sunt: <hi>Expurgate vetus fermentum, ut
+<pb n="0257D"/>
+sitis nova conspersio sicut estis azymi,</hi> ut qui jam
+azymi sunt ex fide, cum omni studio expurgent
+quidquid impuritatis habent in opere. Ecce jam
+audisti quod ipse quaesisti. Audi et ipse modo quid
+mihi exponi desidero. Nova certe conspersio nisi
+prius coquatur, comedi non potest. Sed panis absque
+fermento comedi potest. Cur ergo ab Apostolo
+non ad id invitantur quod melius perfectiusque
+esse probatur? Cur non invitantur ut sint panis
+absque fermento potius quam nova conspersio?
+Ecce dubitationem meam, audi et aliam. Quid est
+panis azymus nisi cibus? Si ergo erant azymi,
+nunquid et in cibum assumendi? Sed et in azymis
+jubentur epulari. Nunquid idem ipsi sunt epulandi
+et sunt epulaturi? Nunquid idem ipsi sunt convivium
+<pb n="0258A"/>
+et convivae, epulantes et epulae? Si ipsi sunt
+azymi, si in azymis epulaturi, nunquid ipsi a semetipsis
+devorandi? Has duas quaestiunculas pro fenoris
+debito, tertiam gratis requiro. Nam juxta
+abundantiam largitatis tuae debes vel ad unam gratis
+respondere. Cum semper esse soleat vel debeat
+prius esse fides vera quam opera sincera, cur prius
+epulari jubentur in azymis sinceritatis, non in azymis
+veritatis.</p>
+</div1>
+
+<div1>
+        <head> <hi>Expurgate vetus fermentum ut homo efficiatur nova conspersio.</hi> </head>
+<p>Fateor, jam non valeo exactionis tuae importunitatem
+aequanimiter tolerare, qui me cogis non solum
+mihi a te, verum etiam tibi a me propositas
+quaestiones solvere. Sed si volumus illas ad plenum
+<pb n="0258B"/>
+explicare, totam illam paschalis celebritatis apostolicam
+lectionem oportebit explanare. Expurgate
+vetus fermentum ut sitis nova conspersio sicut estis
+azymi. Ut hunc locum Apostoli possimus plenius intelligere,
+opus est, uti mihi videtur, multiplici inquisitione.
+Primo quid sit fermentum, quid fermentum
+modicum, quid fermentum vetus, quis
+expurgandi modus, quid sit azyma, quid conspersio
+nova, vel quae sit panis et conspersionis differentia.
+Demum autem, quod superius jam dixi, cur ab Apostolo
+monemur fieri nova conspersio, et non potius
+panis absque fermento. Quid sit fermentum corporale,
+vel cujus sit efficaciae novimus, et eo ipso perpendimus
+quid de spirituali fermento sentire debeamus.
+Videtur itaque esse fermentum spirituale quod corrumpit
+<pb n="0258C"/>
+integritatem spiritualis et rationalis substantiae.
+Spirituale igitur fermentum dicimus esse
+omne peccatum quod eam corrumpit vel secundum
+sensum vel affectum. Secundum sensum corrumpitur
+ex falsitate, secundum affectum vero ex impuritate.
+Quandiu ergo veraciter dicere possumus, si
+dixerimus quia peccatum non habemus nos ipsos
+seducimus, et veritas in nobis non est, recte nobis
+dicitur, et merito dicendum videtur: Expurgate
+vetus fermentum. Si vero fermentum merito dicitur
+omne peccatum, consequens est ut in fermento
+modico intelligatur veniale peccatum, quod et de
+facili committitur, et de facili remittitur. Dico autem
+modicum, non quod ipsum sit parvipendendum,
+<pb n="0258D"/>
+sed quod modicum sit comparatione peccatorum
+criminalium. Sed dicis fortassis: Si modicum fermentum
+secundum Apostolum potest totam meritorum
+massam corrumpere, non possumus etiam in
+modico fermento nisi criminale aliquid intelligere.
+Et illud quidem, inquis, contra quod Apostolus in
+superioribus disputavit, quamvis magnum peccatum,
+modicum tamen fermentum secundum eumdem
+ipsum fuit, alioquin ad quid consequenter adjungit: <hi>An nescitis quia modicum fermentum totam massam
+corrumpit? 
+ <note>(I Cor. V.)</note>
+          </hi> Sic tibi forte videtur. Quid
+ergo? Nunquid modicum fermenti contraxit, qui
+patris sui uxorem habuit? Si modicum fermenti
+facit corruptionem modicam, et multum fermenti
+corruptionem magnam, nunquid dicemus quia modicum
+<pb n="0259A"/>
+et non multum corruptus fuit, qui tale flagitium
+commisit? Ego magis intelligo idcirco dictum
+ab Apostolo, quod modicum fermentum totam massam
+corrumpit, ut intelligerent qui audirent quantam
+corruptionem tale tamque abominabile flagitium
+ingereret, cum quanto studio et festinatione expurgari
+oporteret, quandoquidem modicum etiam fermentum
+totam massam corrumpere solet. Si secundum
+apostolum Joannem: <hi>Omne peccatum iniquitas
+est <note>(I Joan. III)</note>
+          </hi>, quid erit criminale peccatum nisi iniquitas
+magna? Dicemus ergo quoniam iniquitas magna
+sit corruptio modica; nam hoc consequens videtur,
+si modicum fermentum criminale peccatum dicatur.
+Sed quomodo, inquis, peccatum veniale totam potest,
+secundum Apostolum, massam corrumpere?
+<pb n="0259B"/>
+Audi quid alia Scriptura dicat, et ex illa perpende
+quomodo haec intelligi debeat: <hi>Qui modica negligit,
+paulatim defluit <note>(Eccli. XIX)</note>
+          </hi>. Et scimus quoniam a
+modica scintilla ignis exardescit. Videmus saepe,
+patrefamilias dormiente, quam ex modico ignis exardescit,
+et sub nocte una vel hora totam possessoris
+substantiam, quandoque autem ipsum habitatorem
+cum ejus habitatione consumit. Sic sane concupiscentia
+in exordio tentationis modica si contemnatur
+incipit paulatim crescere et mentis vires pedetentim
+emollire, et virtute exhausta, ad crimen impellere,
+et juxta hunc modum meritorum nostrorum
+massam corrumpere. Sic utique sic, si negligatur, a
+modico fermento non modica saepe massa corrumpitur:
+nam si minime negligamus quamlibet turpiter
+<pb n="0259C"/>
+lapsi in expurgando cujuscunque criminis fermento
+fortiter insistamus, ab ejus corruptione bonorum
+nostrorum massam conservare poterimus.
+Hinc est quod post specialem admonitionem sumpta
+occasione ad generalem doctrinam assurgit, cum
+dicit: Expurgate vetus fermentum.</p>
+<p>Putas docet nos insistere in expurgando solo modico
+vel solo magno fermento, et non potius in magno
+et modico? <hi>Expurgate,</hi> inquit, <hi>vetus fermentum.</hi> 
+Fermentum illud merito dicitur vetus unde animus
+est infectus, et in infectione corruptus. Recens namque
+videtur illud fermentum quod adhuc animum
+pulsat per solum cogitatum. Quod in sola cogitatione
+est, exterius quasi ad fores pulsat; quod affectum
+<pb n="0259D"/>
+jam tenet, interiora occupat et inquinat. Illud itaque
+repellendum, istud expurgandum. Modus autem
+expurgationis multiformiter agitur, arguendo,
+orando, confitendo. De primo habes in psalmo: <hi>Quae dicitis in cordibus vestris, et in cubilibus vestris
+compungimini 
+ <note>(Psal. IV)</note>
+          </hi>. De secundo et tertio habes
+in apostolo Jacobo: <hi>Confitemini alterutrum peccata
+vestra, et orate pro invicem <note>(Jac. V)</note>
+          </hi>. De quarto est
+illud Joannis Baptistae: <hi>Facite,</hi> inquit, <hi>dignos fructus
+poenitentiae <note>(Luc. III)</note>
+          </hi>. In criminalium expurgatione
+opus est pro certo confessione et satisfactione.
+Nam compunctio et oratio quandoque solent ad venialium
+expurgationem sufficere. Criminalia expurgare
+oportet ad plenum tam secundum reatum, quam
+secundum actum. Secundum reatum, ut de praeteritis
+<pb n="0260A"/>
+satisfacias, et de reliquo nil tale praesumas.
+Sed quia venialia nunquam possumus quandiu in
+hac corruptibili carne vivimus ad purum de vita
+nostra exstirpare, debemus semper eorum expurgatione
+insistere, et ad quotidiana puritatis incrementa
+studia nostra innovare. Ut sitis, inquit, nova
+conspersio sicut estis azymi. Videtur quidem azyma
+dici posse tam panis absque fermento, quam nondum
+fermentata conspersio. Nam idem sonat azyma
+quod sine fermento. Quid horum itaque debemus intelligere,
+in eo quod dicit eos azymos esse? Sed si
+nova jam conspersio fuerant, non oportuit monere
+ut essent quod erant. In eo ergo quod azymos dicit,
+quantum videtur, panes absque fermento intelligi
+voluit. Quid ergo? Nunquid eos hoc monere voluit ut
+<pb n="0260B"/>
+desinerent esse panis absque fermento, et fierent nova
+conspersio? Quis hoc dicat? Nam nec conspersio solet
+fieri de pane, quin potius panis de conspersione.
+Intelligitur ergo quod juxta aliquid azymi erant, et item
+juxta aliquid azymi non erant: juxta id quod absque
+fermento non erant, novam eos conspersionem fieri volebat.
+Multi enim sunt azymi secundum fidem, qui non
+sunt azymi secundum operationem, et multi videntur
+esse azymi secundum operationem: qui tamen azymi
+non sunt secundum intentionem, quemadmodum hypocritae.
+Et sunt qui habent azyma sinceritatis in intentione,
+qui tamen ad plenum fermento non carent in affectione.
+Et idcirco absque dubio quandiu mente quidem
+consentientes legi Dei aliam legem videmus in membris
+nostris repugnantem legi mentis nostrae, et captivitatem
+<pb n="0260C"/>
+in legem peccati; quandiu, inquam, hoc
+in nobis videmus, procul dubio fermenti purgatione
+opus habemus, merito dicitur nobis: <hi>Expurgate vetus
+fermentum, ut sitis nova conspersio sicut estis azymi.</hi> 
+Quod dicit conspersio, non qualiscunque, sed nova,
+idem valere videtur ac si diceret non fermentata.
+Nam conspersio injecto etiam fermento non fermentatur
+sine mora. Postquam ergo fermentata jam
+fuerit recens esse jam desinit, et novitatem suam
+amittit. Sicut ergo juxta aliquid jam facti erant
+quasi panis absque fermento, sic juxta aliquid eos
+fieri volebat conspersionem absque fermento. Utrobique
+nolebat eos azyma habere, utrobique sine
+corruptione esse, et in eo quod jam erant, et in eo
+<pb n="0260D"/>
+quod adhuc esse poterant. Videamus nunc quid sit
+inter panem et conspersionem. Panis, uti jam dictum
+est, fit de conspersione, non autem conspersio
+de pane. Conspersio est materia tenera, et mollis,
+et diversae formae susceptibilis. Panis est res jam
+formata, et firma, et ad ignem solidata. Panem
+itaque azymum efficit affectus in bono firmus atque
+robustus. Novam conspersionem facit recens animi
+propositum, sed adhuc rude et minus exercitatum.
+Conspersio inter manus formatur, postea ad ignem
+excocta solidatur, sicque panis efficitur. Sic utique
+sic meritorum nostrorum promotio profectuum
+innovatio ex deliberatione inchoatur, per discretionem
+moderatur, in dilectione consummatur.</p>
+<p>Quando ergo ad augendam animi puritatem novum
+<pb n="0261A"/>
+aliquid statuimus, et ejusmodi intentioni cum
+multa deliberatione insistimus, quid aliud quam
+fermentum expurgando novam conspersionem facimus?
+Sed quia non omnes omnia possunt, nec
+omnibus omnia aeque expediunt, cum mensuram
+nostram, et bonum agendi modum in quolibet proposito
+operando addiscimus, et per propriam experientiam
+ad discretionem erudimur, ita ut omnia
+cum modestia exsequamur, quid aliud quam coquendos
+panes formamus? Nam tunc panis quasi ad
+ignem excoquitur quando propositum bonum per
+usum quidem in oblectamentum vertitur, et per
+amorem solidatur. Aliud itaque est boni promotio,
+atque aliud boni confirmatio. Aliud denique boni
+inchoatio, et aliud ejusdem consummatio. Istud
+<pb n="0261B"/>
+pertinet ad panem, illud ad novam conspersionem.
+Quia ergo nemo repente fit summus, nec ad omnem
+boni inchoationem statim in ipso confirmatus, hominibus
+humanum loquens propter infirmitatem
+eorum monet Apostolus ut fiant nova conspersio,
+non panis absque fermento, quamvis absque dubio ad
+hunc finem tenderet, ut facti nova conspersio de conspersione
+nova quandoque etiam panes azymi fierent.
+Nemo siquidem ob aliud conspersionem facit, nisi
+ut inde panis fiat. Merito ergo monet Apostolus ut
+id fiant quod interim fieri poterant, et ex eo ipso
+innuit ad quem finem tendere debeant, id est, ut
+tandem aliquando ex toto azymi fiant, et veri boni
+consummationem confirmationemque proficiant.
+Ecce jam habes cur monentur fieri nova conspersio,
+<pb n="0261C"/>
+non panis absque fermento. Sed illud est mirum,
+nec minus investigandum, cur hi qui dicuntur azymi
+invitantur ad esum agni. Comedere namque non
+est azymi, conspersionis vero non est comedere vel
+comedi. Dicto itaque quod azymi erant, injuncto
+quod nova conspersio fiant, quae consequentia,
+quaeso, est ut consequenter adjungat: <hi>Etenim
+pascha nostrum immolatus est Christus; itaque epulemur <note>(I Cor. V.)</note>
+          </hi> </p>
+<p>Scimus quidem in lege praeceptum ut quando
+agnum immolarent, paschaque celebrarent, alium
+panem quam azymum omnino non comederent. Si
+ergo dixisset Apostolus eos quidem non azymos esse,
+sed azyma habere, et ut abundantius adhuc haberent
+invitaret, consequens satis videretur ut adjungeret:
+<pb n="0261D"/>
+Etenim pascha nostrum immolatus est Christus;
+itaque epulemur. Quod de illo historialiter
+intelligimus, de isto spiritualiter intelligere debemus.
+Nam quidquid de illo dicitur, propter istum
+dictum videtur. Quod ibi dicitur de fermento corporali,
+hic intelligitur de fermento spirituali. Qui
+ergo dicuntur non azyma habere, sed esse, mirum
+qua ratione invitantur azyma vel agnum comedere.
+Sed qui vim apostolicae sententiae plenius intelligere
+voluerit, altius ista eum perscrutari oportebit. Geminum
+sane pascha oportet nos celebrare, geminum
+absque dubio transitum facere. Pascha siquidem,
+ut saepe audivimus, interpretatur <hi>transitus.</hi> Transeundumque
+primo de injustitia ad justitiam, secundo
+<pb n="0262A"/>
+de miseria ad gloriam. Bonus transitus transire
+de iniquitate ad bonitatem, bonus nihilominus
+transire de miseria ad beatitudinem. Utrumque
+debemus celebriter agere; de utroque intime gaudere.
+Sed quantum ad primum in re, quantum ad
+secundum in spe. Primam itaque celebritatem debemus
+nos ipsi cum ejus adjutorio facere, secundam
+de solo ejus munere exspectare. In ista oportet nos
+agnum in esum sumere, in illa nosmetipsos in ejus
+edulium idoneos exhibere. In ista ergo oportet nos
+azyma habere, azyma comedere, in illa nos oportet
+azyma esse, et in esum Agni cedere. Nec mireris
+quod audis, quia oportet nos Agno cibari, et Agni
+cibum fieri, cum similiter legas (si recolis): <hi>Quia
+Christum induimus, qui tamen Christi indumentum
+<pb n="0262B"/>
+sumus <note>(Rom. XIII)</note>
+          </hi>. Et de utroque Scripturarum testimonia
+habemus. Oportet itaque nos interim azymos
+fieri, et ab omni vetustatis fermento purgari si
+volumus in futura illa celebritate digni et acceptabiles
+inveniri. Sed si volumus azymi esse, oportet
+nos azyma comedere. Sed nunquid, inquis, si panem
+azymum comedimus, idcirco panis erimus?
+Novimus certe panem qui comedenti solet incorporari,
+non autem comedentem incorporare sibi. Novimus
+panem qui solet carnem nutrire, carnem
+impinguescere, et robustiorem reddere. Quis est
+iste panis qui quod carnis est facit a seipso deficere,
+et comedentem in sui similitudinem transire? Sed,
+ne super hoc mireris amplius, audi qualem tibi panem,
+quale tibi azyma ad comedendum proponimus.
+<pb n="0262C"/> <hi>Ego sum panis vivus qui de coelo descendi 
+ <note>(Joan. VI)</note>
+          </hi>.
+Procul dubio si hunc panem comederis non ipse in
+te, sed tu in illum mutaberis <note>(lib. VII Confessionum
+D. August., cap. 10)</note>. Si mihi non vis credere, audi
+illum cui non audeas contradicere: Cibus sum grandium;
+cresce, et manducabis me. Nec tu me mutabis
+in te sicut cibum carnis tuae, sed tu mutaberis in
+me. Sed forte adhuc quaeris evidentius tibi ostendi
+quonam modo id possit fieri. Si ergo veritate frueris,
+et tali cibo delectaris, putas quia veritatem esuriendo
+et fruendo veritatem in falsitatem mutare possis? Si
+Christum in tuum cibum assumis, melius tibi est
+ut te faciat de mendace veracem, quam tu illum de
+verace mendacem. Procul dubio Christus summa
+veritas est, procul dubio Christus summa puritas
+<pb n="0262D"/>
+est, azyma veritatis facit de mendace veracem,
+azyma sinceritatis facit de immundo mundicordem.
+Cum in veritate et sinceritate confirmati fueritis,
+procul dubio azymi eritis, et digni ut in Agni
+cibum assumi debeatis. Sed cum ille cedit in cibum
+tuum et cum te assumit in cibum suum, utrobique
+non ille in te, sed tu mutaris in illum. In prima
+mutatione facit te similem sibi in justitia, in secunda
+facit te similem sibi in gloria. In prima, ut dictum
+est, facit de mendace veracem, et de immundo
+mundicordem; in secunda de mortali immortalem,
+et de corruptibili incorruptibilem, quando configurabit
+corpus humilitatis nostrae corpori claritatis
+suae: <hi>Oportet enim,</hi> teste Apostolo, <hi>corruptibile hoc
+<pb n="0263A"/>
+induere incorruptionem, et mortale hoc induere immortalitatem <note>(II Cor. XV)</note>
+          </hi>.
+Si volumus itaque illi in
+gloria similes fore, oportet nos azymos esse; et si
+azymi fieri volumus, oportet ut azyma sinceritatis
+et veritatis comedamus.</p>
+<p>Non autem sufficit hujusmodi azyma haberi, et
+quid sinceritatis sit, vel quid verum constet per intelligentiam
+capere et memoriter tenere, nisi addamus
+ut etiam comedamus, et operando quidem
+velut masticando studeamus in affectum nostrum
+transfigere, et intima nostra ejusmodi suavitate et
+satietate replere. Vides certe quia aliud est azyma
+habere, et aliud est azyma comedere, aliud denique
+azyma esse. Si igitur azymi esse non possumus nisi
+designatum azyma comedamus, quid mirum si eos
+<pb n="0263B"/>
+qui jam azymi ex parte erant, et ex parte non erant,
+et mediante nova conspersione ex toto azymos fieri
+volebat; quid, inquam, mirum si eos ad azyma
+comedendum invitabat? Principaliter autem eos invitat
+ad esum Agni sine cujus gratia perseverare
+non poterant in eo quod jam erant azymi, vel in eo
+quod adhuc azyma erant, nec nova conspersio, nec
+ex ea azymi fieri. Nunc illud, obsecro, attende,
+quam sit consequens, quamve conveniens, ut qui de
+seipso fecit tibi cibum tuum, tu illi de te ipso facias
+cibum suum. Ad mensam divitis sedisti, attende
+quae tibi apposita sunt, et vide quia te oportet talia
+praeparare. Vult Apostolus: <hi>Nos fieri nova conspersio <note>(I Cor. V)</note>
+          </hi>,
+et de conspersione panis absque fermento,
+et merito. Etenim pascha nostrum immolatus est
+<pb n="0263C"/>
+Christus. Efficiamur itaque nova conspersio, ut inveniat
+Christus in nobis unde possint sibi epulae fieri.
+Etenim pascha nostrum immolatus est Christus, ut
+inveniamus in illo quod possimus epulari. Ex eo
+autem quod immolatus est Christus utrumque efficitur,
+ut id quod monet Apostolus et merito facere
+debeamus, vel etiam perficere valeamus. Ex agni
+enim immolatione et comestione (si tamen eum in
+azymis sinceritatis et veritatis comedamus) gratiam
+accipimus, ut monita Apostoli implere possimus.
+Agnum itaque cum azymis comedat, qui nova
+conspersio, qui purus ab omni fermento esse desiderat,
+qui se in Christi esum aptum et idoneum
+parat. Ecce jam accepisti cur illi qui dicuntur azyma,
+cur illi qui monentur nova conspersio fieri, praecipiuntur
+<pb n="0263D"/>
+Agnum in azymis epulari. Sed restat adhuc
+illud quaerere quod ultimo loco posuimus. Cum
+enim Salomon dicat: <hi>Palpebrae praecedant gressus
+tuos <note>(Prov. IV)</note>
+          </hi>, et prius sit prospicere quam pergere,
+agnoscere quam facere: cur azyma veritatis ab
+Apostolo postponitur in admonendo, si prius esse
+oportet in comedendo? Sed ut ad hunc quaestionis
+locum commodius accedamus, prius quae praemittuntur
+diligenter inspiciamus. Docet itaque Apostolus
+quomodo Agnum edere liceat, et quomodo eum
+comedere omnino non liceat. Non licet eum comedere
+in fermento malitiae et nequitiae. Sed sicut consequenter
+auditis in azymis sinceritatis et veritatis.</p>
+<p>Hinc animadvertere licet quid sit inter pascha
+<pb n="0264A"/>
+Judaeorum et pascha Christianorum. Illic certe interdicitur
+fermentum corporale, hic vero fermentum
+spirituale. Ibi indicitur azymus panis, hic autem
+azyma sinceritatis et veritatis. Et merito quidem,
+ibi namque immolatur agnus legalis, sed animalis;
+hic vero agnus spiritualis et supercoelestis. Ibi animal
+brutum, hic homo Deus Dei Verbum. Utriusque
+immolatio dat transire de servitute ad libertatem,
+sed illius de corporali ad corporalem, istius de
+spirituali ad spiritualem. Illa immolatio dat transire
+de Aegypto in desertum; ista dat redire de mundo
+in paradisum. Illa denique dat transire de servitute
+Pharaonis in regnum terrenum; ista transmittit de
+servitute diaboli in regnum coelorum. Ex his intelligi
+datur quam incomparabiliter sit major, quam
+<pb n="0264B"/>
+inaestimabiliter sit dignior solemnitas ista quam illa;
+nostrum denique quam Judaeorum pascha: <hi>Etenim
+pascha nostrum immolatus est Christus. Itaque,</hi> ait, <hi>epulemur 
+ <note>(I Cor. V)</note>
+          </hi>. Audistis quis sit fructus immolationis.
+Vultis adhuc audire quis sit fructus epulationis? <hi>Nisi manducaveritis carnem Filii hominis
+et biberitis ejus sanguinem, non habebitis vitam in
+vobis 
+ <note>(Joan. VI)</note>
+          </hi>. Sed, ne de qualicunque vita dictum
+putetur, audiamus adhuc quid super eodem dicatur: <hi>Qui manducat meam carnem, et bibit sanguinem
+meum, habet vitam aeternam 
+ <note>(ibid.)</note>
+          </hi>. Ecce quem
+fructum ex esu ipsius invenit, non omnis quidem,
+sed qui digne accedit: <hi>Alioquin qui manducat et bibit
+indigne, judicium sibi manducat et bibit <note>(ibid.)</note>
+          </hi>.
+Epulemur itaque, sed non indigne. Hoc est quod
+<pb n="0264C"/>
+Apostolus docere te voluit cum subjungit: Non in
+fermento malitiae et nequitiae, sed in azymis sinceritatis
+et veritatis. Comedere in fermento malitiae et
+nequitiae, procul dubio est comedere indigne. Ut
+autem dignus efficiaris, comede in azymis sinceritatis
+et veritatis. Ecce duo prohibentur, duo praecipiuntur.
+Ecce habes duo contra duo, azyma sinceritatis
+contra fermentum malitiae, azyma veritatis
+contra fermentum nequitiae. Videtur autem omnis
+in hominibus spiritualis corruptio, vel ex concupiscentia
+carnis, vel ex ignorantia mentis oriri, et
+omne genus spiritualis fermenti sub istis duobus
+comprehendi. Nomine vero malitiae et nequitiae non
+dicitur Apostolus omne genus fermenti comprehendisse.
+Non enim omnis concupiscentia pertinet ad
+<pb n="0264D"/>
+malitiam, sicut nec omnis ignorantia deputatur
+ad nequitiam. Aliud est concupiscentiam
+sentire, atque aliud concupiscentiae consentire.
+Infirmitati deputatur quod contra voluntatem
+concupiscentiam sentimus, malitiae quod
+concupiscentiae ex deliberatione consentimus. Malitia
+namque est ex proposito et deliberatione malo
+cognito prono animo consentire. Quid igitur aliud
+est malitia quam concupiscentia effrenata? Nam
+concupiscentia alia frenata, alia effrenata. Illa venialis,
+ista damnabilis. Utraque tamen inficit, utraque
+corrumpit, et utraque ex eo ipso ad fermentum
+se pertinere ostendit. Sic utique ignorantia alia
+venialis, alia autem damnabilis. Venialis quidem
+<pb n="0265A"/>
+quae ex infirmitate descendit, damnabilis quae ex
+malitia surgit. Illa mentem obnubilat, nam ista excaecat.
+Malitia namque solet adeo saepe hominem excaecare,
+ut eum non sinat modo de proximo, quandoque
+etiam nec de Deo in simplicitate et bonitate sentire.
+Malitia itaque gignit et nutrit vitium, quod Apostolus
+hoc loco nequitiam nominat, eo quod in suo judicio
+veritatis et bonitatis regulam servare jam nequeat.</p>
+<p>Non te moveat si hoc nomen invenias positum sub
+alia acceptione: nam verborum inopia cogit significationem
+dictionum modo extendere, modo restringere,
+vel alio quocunque modo variare. Sed debemus
+semper in hujusmodi ex circumstantia litterae
+sensum auctoris perpendere et assignare. Si ergo
+sensum Apostoli sequi volumus, sic, ni fallor, interpretari
+<pb n="0265B"/>
+debemus, ut quemadmodum ex opposito
+malitia sinceritati, sic et nequitia respondeat veritati.
+Nequitiae proprium est semper sinistra suspicari,
+omnia sinistre interpretari, derogationi et detractioni
+deservire, divina judicia reprehendere, in
+fide haesitare et in Dei flagellis murmurare. Sicut
+ergo sub nomine malitiae non intelligitur qualiscunque
+concupiscentia, sed effrenata, sic sub nomine
+nequitiae non intelligitur qualiscunque ignorantia,
+sed malitiosa. Itaque, si diceretur non in fermento
+concupiscentiae et ignorantiae, ubi ponitur non in
+fermento malitiae et nequitiae, videretur Apostolus
+aliquid perfectius praecepisse, et ei quod subjungit
+in azymis sinceritatis et veritatis, quasi ex opposito
+<pb n="0265C"/>
+plenius respondere. Sed voluit Apostolus, ut jam
+diximus, docere quomodo ad esum Agni accedere
+liceat, vel quomodo accedere non liceat. Veniale
+autem est cum veniali concupiscentia et veniali
+ignorantia accedere. Damnabile vero cum damnabili
+concupiscentia, vel damnabili ignorantia appropinquare.
+Pertinet autem ad malitiam sola damnabilis
+concupiscentia, ad nequitiam vero sola damnabilis
+ignorantia. Merito ergo Apostolus noluit dicere
+<pb n="0266A"/>
+non in fermento concupiscentiae et ignorantiae, sed
+temperantius aliquid, non in fermento malitiae et
+nequitiae, ne videretur omnem hominem ab esu Agni
+arcere. Quis enim fermentum concupiscentiae et
+ignorantiae in hac vita ad plenum purgare sufficiat,
+ubi caro concupiscit adversus spiritum quandiu
+quid oremus quemadmodum oportet nescimus. Attende
+ergo quam discrete, quam consulte Apostolus
+illud praecipere noluit quod supra humanam virtutem
+fuit: solum illud homini injungit quod homini
+possibile cognovit. Dicit ergo: <hi>Non in fermento malitiae
+et nequitiae, sed in azymis sinceritatis et veritatis.</hi> 
+Quaeramus nunc quae sit ista conversio ordinis,
+ut prius ponat azyma sinceritatis quam veritatis,
+cum semper prior sit fides recta quam bona operatio.
+<pb n="0266B"/>
+Impossibile est enim sine fide placere Deo. Sed
+constat quia fides est certitudo quaedam supra
+opinionem et infra scientiam constituta. Alia est
+itaque illa cognitio veritatis quae est per fidem solam,
+et alia est illa quae est per veritatis intelligentiam.
+Utraque per prophetam designatur, cum dicitur: <hi>Si non credideritis non intelligetis 
+ <note>(Isa. VII)</note>
+          </hi>.
+Sed illa quae est in fide sola, solet praecedere semper
+opera bona. Illa vero quae per intelligentiam
+est, bona opera sequitur, quia bene operando ad
+veritatem illuminamur. Hinc est illud Sapientis: <hi>Fili, concupisti sapientiam, serva mandata, et praebebit
+illam tibi Deus 
+ <note>(Eccli. VII)</note>
+          </hi>. Hoc ipsum in semetipso
+per experientiam dicit qui dixit: <hi>A mandatis
+<pb n="0266C"/>
+tuis intellexi <note>(Psal. CXVIII)</note>
+          </hi>. Ad illam itaque
+veritatis cognitionem quae per intelligentiam est
+Apostolus nos vocat, cum nos ad epulas sinceritatis
+et veritatis invitat. Non nobis ergo debet sufficere
+fidei nostrae sacramenta veraciter et firmiter credere,
+nisi satagamus in quantum possumus etiam
+per intelligentiam capere. Ex azymis sinceritatis
+satiemus affectum nostrum, ex azymis veritatis reficiamus
+intellectum nostrum.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,324 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Quomodo Christus ponitur in signum populorum</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.QuChPoI</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Quomodo Christus ponitur in signum populorum</head>
+<p>
+          <pb n="0523B"/> <hi>Radix Jesse qui stat in signum populorum <note>(Isa.
+XI)</note>
+          </hi>. Quis sit iste qui stat in signum populorum,
+quem gentes deprecabuntur, cujus jam quidem
+sepulcrum est gloriosum, nemo vestrum ignorat.
+Quis enim alius est cujus sepulcrum est gloriosum,
+nisi quem oportuit pati et resurgere a mortuis, et
+ita intrare in gloriam suam <note>(Luc. XXIV)</note>, ut in hunc
+modum fieret sepulcrum ejus gloriosum? Quia
+mortuus mortis auctorem spoliavit, quod mors ejus
+mortem superavit, quod resurgens ex mortuis jam
+non moritur, mors illi ultra non dominabitur <note>(Rom.
+VI)</note>, fecit sepulcrum ejus gloriosum. Tanta enim
+gloria sepulti sepulcrum ejus gloriosum reddidit, vel
+quis alius est quem gentes deprecantur, nisi ille de
+quo scriptum est: <hi>Et adorabunt cum omnes reges,
+<pb n="0523C"/>
+omnes gentes servient ei <note>(Psal. LXXI)</note>
+          </hi>. Qui habet
+scriptum in vestimento et in femore: Rex regum
+et Dominus dominantium! <note>(Apoc. XVI.)</note> Et juste
+quidem ei omnes gentes deserviunt vel deprecantur,
+cui data est omnis potestas in coelo et in terra <note>(Matth. XXVIII)</note>,
+in tantum ut merito ei flectatur
+omne genu coelestium, terrestrium et infernorum <note>(Philip. II)</note>.
+Et quem alium dicimus stare in signum
+populorum, nisi qui positus est in ruinam et in resurrectionem
+multorum, et in signum cui contradicetur? <note>(Luc. II.)</note> 
+ De hoc signo iterum scribitur:</p>
+<p> <hi>Levabit signum in nationes, et congregabit profugos
+Israel, et dispersos Juda colliget, ex quatuor
+plagis terrae <note>(Isa. XI)</note>
+          </hi>. Modum levationis audis, cum
+legis: <hi>Sicut Moyses exaltavit serpentem in deserto,
+<pb n="0523D"/>
+sic oportet exaltari Filium hominis <note>(Joan. III)</note>
+          </hi>. Audis
+modum; attende et fructum. Levatur serpens in
+altum qui daret aspicientibus remedium. Levatur
+serpens aeneus qui venenum non haberet, sed
+destrueret; qui venenum non inferret, sed auferret.
+Tali profecto signo primi parentes nostri,
+tali profecto omnes eorum posteri signo opus habebant,
+ut esset ad quod per devotionem aspicerent,
+et sententiam mortis evaderent quam ex veneno
+serpentinae sibilationis ab antiquo contraxerant, et
+quotidie contrahere non cessant. Utinam Judaei,
+utinam Judaizantes nostri attendant et intelligant,
+retractent et recogitent hoc signum quale, quam
+sublime, quam insigne oporteat esse, si in hoc
+positum est ut possit profugos Israel, et dispersos
+<pb n="0524B"/>
+Juda a quatuor plagis terrae colligere! Vere oportet
+esse sublime, ut possit omnium aspectibus
+patere, alioquin nec scire poterunt quo debeant
+currere. Vere oportet esse insigne, et omnino
+mirabile, quo possit cujusdam quasi miraculi
+novitate omnium aspectus in seipsum convertere,
+et omnium undique concursus in sui admirationem
+attrahere. Nunquid forte levabitur hoc signum in
+montem magnum et altum, ut sic pateat aspectibus
+omnium? Sed ubi, quaeso, poterit ejus magnitudinis
+mons inveniri qui possit ab omnibus, et ab omni
+parte terrarum videri? An forte mons domus Domini
+in hoc ipsum elevabitur supra verticem montium?
+Sed si sic est, oportet ut mons iste quisquis
+est tangat, imo transcendat altitudinem nubium.
+<pb n="0524C"/>
+Si omnino sic est, merito quaerit Propheta, et dicit: <hi>Quis ascendet in montem Domini, aut quis stabit in loco
+sancto ejus? 
+ <note>(Psal. XXIII.)</note>
+          </hi> Sed si hoc de quo loquimur
+signum elevetur usque in coelum, nunquid vel
+sic poterit patere aspectibus omnium, nisi fuerit
+praecipua quadam mirandae claritatis novitate perspicuum?
+Audeo et dico, nisi hoc signum sit solis
+hujus luce insignius, praecelsius atque praeclarius,
+nulla ratione videbitur posse concursus omnium, ut
+dictum est, in sui admirationem provocare. Nunquid
+ergo faciet Dominus novum super terram? Nunquid
+solem novum qui possit illuminare omnem hominem
+venientem in hunc mundum, ita ut veraciter
+dicere possit ille qui stat in signum populorum:
+<pb n="0524D"/> <hi>Ego sum lux mundi? 
+ <note>(Joan VIII.)</note>
+          </hi> Vide ne forte
+haec lux sit lux illa quam designare voluit qui dixit: <hi>Habitantibus in regione umbrae mortis lux orta est
+eis 
+ <note>(Isa. IX)</note>
+          </hi>. Bona lux, et vere desiderabilis, si veraciter
+expellit, non dicam tenebras noctis, non
+dicam umbram caliginis, sed umbram mortis. Certe
+lux ista visibilis claritatis hujus solis nihil tale
+facere solet, nil simile facere valet. Vere necessarium
+erat eis qui in tenebris et in umbra mortis
+sedebant tale signum accipere; vere fuit dignum
+Patrem misericordiarum tale signum dare quod etiam
+umbram mortis de finibus nostris paulatim exterminaret,
+ita ut nullum tandem aliquando mortis
+vestigium apud nos remaneret, in tantum ut ille qui
+stat in signum populorum veraciter dicere posset:
+<pb n="0525A"/> <hi>O mors, ero mors tua! 
+ <note>(Ose. XIII.)</note>
+          </hi> Sed quae, quaeso,
+erit lux ista quae tenebras mortis expellere possit,
+nisi illa quam Propheta describit, cum dicit: <hi>Exortum est in tenebris lumen rectis: misericors, et
+miserator, et justus 
+ <note>(Psal. CXI)</note>
+          </hi>. De ortu hujus luminis
+alio loco legis: <hi>Veritas de terra orta est <note>(Psal.
+LXXXIV)</note>
+          </hi>. De terra sane nostrae humanitatis, de illius
+propagatione cui dictum est: <hi>Terra es et in terram ibis <note>(Gen. III)</note>
+          </hi>,
+nascitur lumen rectis, verbum et sapientia
+Patris. Nascitur, inquam, veritas de terra Christus
+Dei virtus, Christus Dei sapientia, etc., sapientia
+de carne humana. Deus Dei Filius de Virgine Maria,
+ut fieret nobis Emmanuel, et esset nobiscum Deus: <hi>Ecce,</hi> 
+ inquit, <hi>virgo concipiet, et pariet filium, et vocabitur
+nomen ejus Emmanuel <note>(Isa. VII)</note>
+          </hi>, hoc est
+<pb n="0525B"/>
+illud signum quod Dominus promisit et exhibuit.
+O signum singulare, o signum desiderabile, et ad
+quod digne debeant omnes pari voto concurrere,
+signum sane mirabile, et quale decuit Dominum
+majestatis dare! <hi>Propter hoc,</hi> inquit, <hi>dabit Dominus
+ipse vobis signum <note>(ibid.)</note>
+          </hi>: hoc utique est signum,
+hoc absque ulla contradictione quod veraciter
+possit veros Israelitas a quatuor plagis terrae colligere
+et veros Dei filios qui dispersi erant in unum
+congregare. Ad hoc sane signum datur, et ad hoc
+sane signum hoc elevatur, prius in patibulum, postmodum
+in coelum, prius in patibulum crucis, postea
+ad dexteram Patris, et hujus rei testis fidelis: <hi>Ecce,</hi> 
+ inquit, <hi>video coelos apertos, et Jesum stantem
+<pb n="0525C"/>
+a dextris virtutis Dei <note>(Act. VII)</note>
+          </hi>. Ecce ubi usque
+hodie Emmanuel noster, radix Jesse, erectus est
+in signum, et stat in signum populorum. Sed quale,
+inquiunt, signum, vel cujus rei signum? Audi,
+Judaee, hoc ne tibi videtur signum satis grande,
+satisque mirabile, quod virgo concipiet, virgo pariet,
+et talem filium qui sit nobiscum Deus, et quid
+hoc signo mirabilius? Sed cujus rei, inquis? Certe
+magnae illius promissionis quam propheta paulo
+superius mystice designabat, cum de ea quae in
+medio terrae derelicta erat prophetando dicebat: <hi>Semen sanctum erit id quod steterit in ea 
+ <note>(Isa VI)</note>
+          </hi>.
+Vere magnae, vere mirandae rei signum esse debuit
+et potuit semen quod virgo concepit, quod virgo
+peperit. Merito signum sanctitatis fuit semen quod
+<pb n="0525D"/>
+virginis sanctitatem non abstulit, sed auxit, quod
+matris integritatem non minuit, sed sacravit: <hi>Semen,</hi> 
+inquit, <hi>sanctum erit quod steterit in ea.</hi> Hujus
+sane futurae sanctitatis modum exprimit nobis qui
+stat in signum populorum: <hi>In resurrectione,</hi> inquit, <hi>non nubent neque nubentur, sed erunt sicut angeli
+Dei 
+ <note>(Matth. XXII)</note>
+          </hi>. Si ergo futuri sunt angelicae sanctitatis,
+cur non et angelicae felicitatis? Sed quomodo
+sicut angeli in coelo, si similes in uno, dissimiles
+in altero. Sed aequitatis ratio non sinit similes
+in sanctimonia, dissimiles fore in gloria. Si tales
+futuri sunt, merito in ostensionem erunt. Et erunt
+in ostensionem sicut terebinthus, et sicut quercus
+quae expandit ramos suos. Scimus quia ejusmodi
+arbores gratiam foliorum et viriditatis quam perdunt
+<pb n="0526A"/>
+in hieme, recuperare solent, superveniente
+aestate. Datur ergo nobis spes integrae reparationis
+in omnibus quae perdidimus sub tempore hujus hiemis.
+Quidquid tulit flatus aquilonis, totum recuperabimus
+sub aestate futurae regenerationis. Quidquid
+infecit sibilus serpentis, totum reformabit semen
+mulieris. De quo Dominus ad serpentem: <hi>Inimicitias,</hi> 
+inquit, <hi>ponam inter te et mulierem, inter semen
+tuum et semen illius <note>(Gen. III)</note>
+          </hi>. Denique quidquid amisimus
+ex suggestione diaboli, totum reintegrabit
+nobis gratia Mediatoris nostri, in tantum ut sit omnibus
+mirabile quomodo de tanta miseria potuerit
+homo ad tantam gloriam assurgere: <hi>Erit,</hi> inquit, <hi>in ostensionem, sicut terebinthus, et sicut quercus
+quae expandit ramos suos 
+ <note>(Isa. VI)</note>
+          </hi>. Erit itaque homo
+<pb n="0526B"/>
+angelis utique in ostensionem, angelorum Domino
+in ostentationem. Gloriabitur enim apud
+Patrem suum coram angelis suis de meritis nostris,
+et fructu sui laboris. Vis modum ostensionis audire? <hi>Omnis qui confitebitur me coram hominibus, confitebor
+et ego eum coram Patre meo 
+ <note>(Matth. X)</note>
+          </hi>. Grandis
+honor. Et erit in ostensionem sicut quercus quae
+expandit ramos suos. Ecce unde ostensio. De expansione
+ramorum. Expansio ramorum dilatatio
+meritorum. Dilatemini, fratres, in charitate, ut et
+digna sit quae debeat esse in ostensione. Magna
+dilatatio charitatis, quae se usque ad inimicos extendit,
+quae latitudinis suae sinu omnes includit. Magna
+dilatatio charitatis, omnia arbitrari ut stercora, ut
+<pb n="0526C"/>
+Christum lucrifacias. Magna dilatatio charitatis,
+quemlibet nostrum abnegare seipsum, tollere crucem
+suam et Christum sequi. Haec profecto, haec
+utique sunt quae non immerito in ostensionem
+erunt. Multum ergo dilatemur in opere, ut multum
+dilatari debeamus in retributione. Sane secundum
+dilatationem meritorum, erit et dilatatio praemiorum.
+Quid homo non facere debeat, ut illud recuperare
+valeat quod jam in paradiso perdiderat? Sed
+quid illud dicimus quod accedente aestatis tempore
+quercus solent ramos suos longius extendere, multiplicius
+dilatare, firmius roborare, ita ut sint et
+numero plures et proceritate majores et robore
+fortiores. Nunquid et nos ex hac Domini promissione
+debemus tale aliquid exspectare? Absque
+<pb n="0526D"/>
+dubio. Peramplius enim atque perfectius erit multo
+quod recuperabimus in coelo, quam quod perdidimus
+in paradiso. In paradiso erat posse peccare et
+posse non peccare; in coelo erit omnino peccare
+non posse. In paradiso erat posse mori et posse
+non mori; in coelo erit nunquam posse mori. In
+paradiso erat posse impugnari, et posse non expugnari;
+in coelo erit nec posse impugnari. Ecce
+quomodo tandem aliquando homo ramos totius honoris
+et gratiae supra primae possibilitatis modum
+extendit. Quid ultra antiquae conditionis jura dignitatis
+suae magnitudine excrescit. Quis hoc unquam
+crederet? Quis credere potuisset quod putredo et
+vermis de tanta ignominia ad tantam gloriam quandoque
+assurgeret, nisi signum acciperet et tale quidem
+<pb n="0527A"/>
+quod ad tantae dignationis mysterium digne
+sufficeret. Ad tantae igitur promissionis certitudinem
+<pb n="0528A"/>
+propheta signum supponit, et quod vere ad
+fidei nostrae securitatem sufficere possit.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,1240 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Explicatio aliquorum passuum difficilium Apostoli</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.ExAlPaD</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Explicatio aliquorum passuum difficilium Apostoli</head>
+<p>
+          <pb n="0665A"/>Si ea quae de lege ab Apostolo diversis in locis
+dicuntur ad invicem conferantur, multa eis contrarietas
+inesse videtur. Videtur namque esse contrarius
+<pb n="0665B"/>
+sibi ipsi, contrarius rationi, contrarius veritati, et
+quod his omnibus amplius est, sententiae ipsius
+Domini. Audi itaque clamantem atque protestantem: <hi>Quia ex operibus legis non justificabitur omnis homo <note>(Rom. III)</note>
+          </hi>.
+Quomodo non est in hoc contrarius sibi,
+cum ipse protestetur alibi, quoniam: <hi>Non auditores,
+sed factores legis justificabuntur <note>(Rom. II)</note>
+          </hi>. Item
+alio loco: <hi>Lex,</hi> inquit, <hi>sancta est, et mandatum sanctum,
+et justum, et bonum <note>(Rom. VII)</note>
+          </hi>. Iterum alias
+ab eodem dicitur: <hi>Lex iram operatur <note>(Rom. IV)</note>
+          </hi>.
+Quid magis contra rationem videtur, quam quod
+mandatum quod sanctum, justum et bonum dicitur
+apud justum et pium Dominum, iram, non gratiam
+potius operetur? Alias autem dicit, quod: <hi>Lex neminem
+<pb n="0665C"/>
+ad perfectum adducit <note>(Hebr. VII)</note>
+          </hi>. Quomodo,
+quaeso, id veraciter dici potuit, vel quomodo in hoc
+veritati contrarius non fuit, cum tempus legis tot
+justos, et tam perfectos habuerit? Nunquid Elias
+perfectus non fuit, in cujus spiritu et virtute, juxta
+Dominicum testimonium, venit quo inter natos
+mulierum major nemo surrexit? <note>(Matth. XI.)</note> Quid de
+caeteris prophetis, quid de justis et regibus dicturi
+sumus, qui quod apostoli viderunt, videre voluerunt,
+nec potuerunt? Si legis praevaricatores erant,
+nunquid justi esse poterant? si observatores, nunquid
+inde justi non erant? Sententiae vero Domini
+contraria sentire videtur in eo quod alias loquitur: <hi>Si enim lex data esset quae justificare posset, vere
+ex lege esset justitia 
+ <note>(Galat. III)</note>
+          </hi>. Legisperito autem
+<pb n="0665D"/>
+quaerenti quid faciendo vitam aeternam possideret,
+et ad illius interrogationem Domino prima et maxima
+legis mandata proferenti Dominus respondit: <hi>Hoc fac, et vives 
+ <note>(Luc. X)</note>
+          </hi>. Quid ergo? Nunquid non
+potest obtineri justitia unde obtinetur vita aeterna?
+an vita aeterna poterit haberi sine justitia? Quis
+quid horum dicat, vel dicere praesumat? <hi>Hoc,</hi> 
+inquit, <hi>fac, et vives.</hi> Vives haud dubio diligendo ex
+toto corde, ex tota anima, ex tota mente Deum
+tuum, et proximum tuum sicut teipsum. Sunt qui
+dicant opera legis esse quae fiunt ex timore, opera
+vero Evangelii quae fiunt ex amore. Servire autem sine
+dilectione non potest hominem justificare. Unde et
+secundum eos dicitur merito quia ex operibus legis
+non justicabitur omnis homo. In testimonium vero
+<pb n="0666A"/>
+assertionis suae adducunt quod alias in Apostolo
+legunt: <hi>Non enim accepistis iterum spiritum servitutis
+in timore, sed accepistis spiritum adoptionis in quo
+<pb n="0666B"/>
+clamamus: Abba (Pater</hi> ) <note>(Rom. VIII)</note>. Constat itaque,
+inquiunt, quia sub timore serviebant qui spiritum
+timoris, non amoris acceperant. Hinc est quod adhuc
+addunt, quod lex sit mandatum sine gratia, Evangelium
+vero mandatum cum gratia. Fateor, non me
+recolo legisse ubi lex praecipiat servire ex solo timore,
+ubi prohibeat implere mandata ex vera dilectione.
+Nunquid, quaeso, legis opera non erunt quae
+ipsa injungit, et ejus opera erunt quae ipsa non tradit?
+Sed dicunt quia spiritum servitutis acceperunt
+qui sub lege fuerunt. Audacter dico, et indubitanter
+affirmo, quoniam eorum qui tempore legis, et
+eorum qui tempore Evangelii hucusque fuerunt, alii
+spiritum timoris, alii vero spiritum dilectionis acceperunt.
+<pb n="0666C"/>
+Nunquid soli illi legem non tenuerunt, qui,
+abundante charitate et timorem foras mittente, ex
+sola dilectione observaverunt? Legis certe est, et
+Evangelii doctrinam exhibere: Domini vero gratiam
+dare, vel subtrahere, et spiritum pro beneplacito
+infundere. Quid ergo sibi volunt qui dicunt legem
+esse mandatum sine gratia, Evangelium vero mandatum
+cum gratia? Quam saepe videmus temporibus
+nostris habere majorem gratiam in exsequendis
+mandatis imperitos auditores, quam quosdam peritissimos
+Evangelii praedicatores. Nunquidnam Evangelium
+non est quod docent qui apostolicam doctrinam
+eruditissime praedicant, sed implendi gratiam
+nec ipsi habent, nec aliis dare valent? Nunquid antiqui
+illi sine lege vivebant qui legis doctrinam simul
+<pb n="0666D"/>
+et gratiam acceperant?</p>
+<p>Sunt item qui dicunt sola illa recte dici legis opera
+quae cum lege sunt inchoata, et cum lege terminata.
+Sed dico interim quod sentio, et ad haec succincta
+brevitate respondeo. Opera illa legis quae cum lege
+sunt inchoata, et cum lege terminata, aut justificabant
+impleta, aut non. Si itaque justificare potuit
+eorum impletio, quomodo verum erit quia ex operibus
+legis non justificabitur? Sunt forte qui dicunt,
+et si non dicunt, non inepte dicere potuerunt, quod
+merito distinguendum sit inter opera naturalia, legalia
+atque evangelica. Merito namque opera illa
+specialiter Evangelio conscribenda sunt quae ex
+Evangelio institutionem acceperunt, quemadmodum
+sunt regeneratio, confirmatio et Dominici corporis
+<pb n="0667A"/>
+et sanguinis communio, et nova quorumlibet institutio.
+Legalia vero sola illa modo quodam speciali
+sunt dicenda, quae, uti jam dictum est, cum lege
+sunt inchoata, et cum lege terminata. Naturalia vero
+illa merito dici debent, quae ab hominibus per legem
+naturalem intelligi potuissent, etiamsi lex et Evangelium
+nunquam instituta fuissent. Juxta hanc utique
+distinctionem forte dicturus est aliquis, quia
+per legis opera debemus intelligere illa sola legalia
+instituta de quibus tenemus pro certo quoniam ex
+sola illorum impletione non justificabitur omnis
+caro. Legis autem nomine, ut alicui forte videbitur,
+oportet intelligi tam naturalia decreta, quam legalia
+instituta, quantum utraque in lege sunt scripta.
+Dicit enim Apostolus: <hi>Factores legis,</hi> non factores
+<pb n="0667B"/>
+operum legalium justificari. Sed quod de lege affirmat,
+de operibus legis negat. <hi>Ex operibus legis,</hi> 
+inquit, <hi>non justificabitur omnis homo.</hi> Non dicit ex
+lege, sed ex operibus legis non justificabitur omnis
+caro. Et item alio loco: <hi>Arbitramur hominem justificari
+per fidem sine operibus legis <note>(Rom. III)</note>
+          </hi>. Ibi
+dicit quoniam ex legis operibus homo justificari
+non potest. Hic dicit, quantum sine legis operibus
+justificari potest. Si quis Apostolum sic sensisse
+existimat, quaero ut super hoc mihi respondeat, utrum
+Apostolus hoc dicat de statu praesenti, an potius
+de statu priori? Si hoc dixit de tempore prioris
+status, videbitur adversari testimonio legis et prophetarum
+textus sermonis illius. Nonne quotidie lex
+clamabat ut peccator, et poenitens juxta modum
+<pb n="0667C"/>
+quantitatemque peccati hoc vel illud tum pro peccato,
+tum pro delicto offerat, et remittetur, inquit, ei, et
+propitius ei erit Dominus <note>(Num. XXX)</note>? Quomodo,
+quaeso, homo inde non justificatur unde ei peccatum
+dimittitur, et Dominus propitiatur? Si vero hoc quod
+de operibus legis dixit pro statu hujus temporis intelligi
+voluit, quid, quaeso, magnum dixit? Nam, si
+adhuc animalia sacrificamus, procul dubio aut judaizamus,
+aut gentium more idololatriae ritus praetendimus.
+Dico itaque pro istis quod Apostolus dicit
+de sacramento circumcisionis; quoniam, si adhuc
+sacrificiis et caeteris legis caeremoniis insistimus,
+Christus nihil proderit nobis. Vultis autem apertius
+nosse quae dico? Certe quae in lege ad expiationem
+<pb n="0667D"/>
+peccati immolabantur, in figura futurorum sacrificabantur.
+Nam Christi passionem et mortem in redemptionem
+peccatorum futuram praefigurabant, et
+eo ipso virtutem expiationis et sanctificationis habebant.
+Si igitur adhuc in figura futurorum sacrificamus,
+falsitati non veritati deservimus. Nam, <hi>Christus resurgens ex mortuis jam non moritur, mors
+illi ultra non dominabitur 
+ <note>(I Cor. XV)</note>
+          </hi>. Si absque redemptionis
+nostrae figura sacrificamus, idololatriae, ut
+dictum est, formam praetendimus, et in eo ipso animalium
+sacrificia Christo conferimus, et (quod sceleratius
+est!) ipsi praeferimus. Nam si sola illa contempto
+divino sacrificio offerimus, Christo procul
+dubio ea praeferimus. Si cum divina hostia, et illa
+(velut ex utrisque salutem quaerentes) offerimus,
+<pb n="0668A"/>
+procul dubio ea Christo conferimus, et Christi hostiam
+velut minus sufficientem judicamus. Quid ergo
+magnum est Apostolo dicere quod ex legalibus
+operibus nemo justificabitur, cum ex eorum
+exercitiis quilibet reprobabitur, potius quam justificabitur?</p>
+<p>Sed ad ista fortasse respondes, et dicis: Propter
+quosdam legiszelatores, quos lucrifacere potius quam
+scandalizare cupiebat, parcius quidem dicebat, sed
+tamen vera dicebat. Nam quantum ad praesentem
+statum, legalia instituta inquinant potius quam sanctificant.
+Quantum vero ad priorem statum sine naturalibus
+decretis, sola legalia hominum ad salutem
+sufficere non valebant. Hinc est quod non dicit ex
+lege, sed <hi>exoperibus legis non justificabitur omnis
+<pb n="0668B"/>
+caro.</hi> Et iterum: <hi>Arbitramur enim justificari hominem
+per fidem sine operibus legis.</hi> Sine operibus
+legis, inquit, non sine lege, sub nomine operum
+intelligere volens sola legalia, sub nomine legis
+tam legalia quam naturalia, utpote quae continebat
+ista et illa. Hinc est quod dicit, quia <hi>factores legis</hi> 
+justificabuntur. Quid enim sanctius, quid justius,
+quid denique perfectius esse potest, quam diligere
+Deum ex toto corde, tota anima, tota mente, et
+proximum sicut seipsum? Conferre itaque lex potuit
+justitiam, nec qualemcunque, sed plenam atque
+perfectam. Ad haec breviter ipse respondeo et dico:
+Si Apostolus ita sensit quod lex perfectam justitiam
+conferre potuit, quid alias dicit quod <hi>lex neminem
+ad perfectum adduxit?</hi> Si ex lege justitia confertur,
+<pb n="0668C"/>
+quomodo <hi>iram operatur?</hi> Nunquid conferendo justitiam
+operatur iram, et iram operando conferre potest
+justitiam? Quantum mihi videtur, aliam ab
+antedictis expositionem quaerere oportebit qui sensum
+apostolicum intelligere voluerit. Quantum mihi
+videtur, in his omnibus necdum perierunt illae quaestiones,
+in quibus aliquando, ut Augustinus scribit,
+sibi visus est adversari testimoniis legis et prophetarum
+textus apostolici sermonis. Qui enim dicit
+ex legalibus operibus hominem non posse justificari,
+nonne adversari videtur Moysi scribenti,
+imo Domino jubenti: Homo qui cognoverit peccatum
+suum offerat hoc vel illud et remittetur ei, et propitius
+erit ei Dominus.</p>
+<p>
+          <pb n="0668D"/>Compellit me importuna vestra petitio super his
+quae proposita sunt dicere quae sentio, et fidenter
+spero ubi Joannes quaerit, gratia non deerit, tam
+ad veraciter sentiendum quam ad utiliter proferendum.
+Non est nostri moris maxime in rebus magnis,
+et multum profundis, aliquid de nostro sensu praesumere,
+vel quasi auctoritate nostra aliquid statuere,
+vel affirmare. Itaque de ipsius sacrae Scripturae
+testimoniis, in quantum dederit Dominus, eliciamus
+unde dubitationis nostrae nodos dissolvere
+possimus. Illud autem certissimum est, et de quo
+nemo dubitare potest, quia lex aut talis erat quae
+impleta justificare poterat, aut talis quae nec impleta
+quidem justificare poterat. Sed, si impleta justificare
+non posset, nullo modo Apostolus diceret,
+<pb n="0669A"/>
+quod factores legis justificarentur. In eamdem sententiam
+currit quod Dominus de duobus maximis
+mandatis legisperito dixit: <hi>Hoc fac et vives.</hi> Ecce
+quomodo certa auctoritas probat quod lex impleta
+justificat. Iterum dico quod lex aut talis erat quae
+ab illis quibus data est impleri poterat, aut talis quae
+ab eis impleri non poterat. Sed hoc ipsum quod quaerimus
+apostolico iterum testimonio comprobemus: <hi>Quod impossibile erat,</hi> 
+ inquit, <hi>legi, in quo infirmabatur
+per carnem, Deus Filium suum mittens, in similitudinem
+carnis peccati, et de peccato damnavit peccatum in
+carne, ut justitia legis impleretur in nobis qui non secundum
+carnem ambulamus, sed secundum spiritum <note>(Rom.
+VIII)</note>
+          </hi>. Perpendis, ut arbitror, ex his quam impossibile
+fuit legi justificare, quamque necessarium nobis erat
+<pb n="0669B"/>
+pro tali remedio ut Deus Filium suum mitteret, ut
+Dei Filius seipsum exinaniret, et in similitudinem
+carnis peccati veniret, et de peccato peccatum damnaret,
+ut vel sic justitia legis impleretur in nobis.
+Sed nunquid totum quod legis erat, etiam impossibile
+erat? Minime, sed in ea parte qua lex infirmabatur
+per carnem. Vultis et illud audire, quomodo
+infirmabatur ex carne: <hi>Caro,</hi> inquit, <hi>concupiscit
+adversus spiritum <note>(Galat. V)</note>
+          </hi>; et alibi: <hi>Scio quia non
+habitat in me</hi> (hoc est in carne mea) <hi>bonum. Nam
+velle adjacet mihi, perficere autem bonum non invenio <note>(Rom. VII)</note>
+          </hi>.
+Si itaque prolata testimonia diligenter
+discutimus, absque dubio inveniemus quod
+quaedam praecepta legis talia erant quae impleta
+justificabant; quaedam autem, quamvis impleta, minime
+<pb n="0669C"/>
+justificabant. Nihilominus vero quaedam talia
+erant quae impleri poterant, et quaedam, quae procul
+dubio impleri non poterant. Sed quae impleri poterant
+absque dubio justificare non poterant, et e
+converso quae justificare poterant impleri non poterant.
+Merito ergo clamat Apostolus: <hi>Quia ex
+operibus legis non justificabitur omnis caro.</hi> Si
+nulla caro, nullus homo, quantum omnis homo
+caro; quia carnalis venundatus sub peccato. Quomodo,
+quaeso, caro factus et carnalis effectus justificari
+potest, vel ex eo quod facere potest, et justificare
+non potest, vel ex eo quod justificare potest et
+facere non potest? Lex namque docet quid homo debeat
+facere, sed non aeque docet quomodo quod praecipitur
+<pb n="0669D"/>
+possit implere. Ex sola itaque lege sola cognitio,
+non autem et impletio. Hinc est quod cum praemissum
+sit ab Apostolo quod ex operibus legis non
+justificabitur omnis caro, statim subjungit et adnectit: <hi>Per legem enim cognitio peccati 
+ <note>(Rom. III)</note>
+          </hi>. Ecce
+habes utrumque et quid non sit ex lege, et quid sit ex
+lege. Per legem peccati cognitio, utinam et abolitio.
+Si enim abolitio, procul dubio et justificatio. Dico
+itaque: Si nemo justificatur ex lege, ergo aliunde.
+Nam quod nemo justus sit vel fuerit quis audeat dicere.
+Audi quid Dominus dicat apostolis: <hi>Multi justi
+et prophetae voluerunt videre quae videtis, et non viderunt <note>(Luc. X)</note>
+          </hi>.
+Si justi, utique et justificati. <hi>Omnes enim
+peccaverunt, et egent gloria Dei. Justificati gratis
+per gratiam ipsius <note>(Rom. III)</note>
+          </hi>. Ipse est enim <hi>qui justificat
+<pb n="0670A"/>
+circumcisionem ex fide, et praeputium per fidem (ibid)</hi>.
+Ecce ex his aperte cognoscitur unde homo justificatur.
+Procul dubio per fidem, non autem per
+legem. <hi>Justitia</hi> enim <hi>Dei per fidem Jesu Christi <note>(ibid.)</note>
+          </hi>.
+Ecce aperte habes quod ex fide est justitia.</p>
+<p>Sed restat quaerendum utrum semper ex fide sola,
+an aliquando ex sola fide sine operibus, et aliquando
+ex fide simul et operibus. Quaeramus, si placet, super
+hoc ipsum ipsius Apostoli testimonium: <hi>Arbitramur,</hi> 
+inquit, <hi>justificari hominem per fidem sine
+operibus legis.</hi> Ecce iterum habes aperte quod
+possit homo aliquando justificari ex sola fide absque
+legis opere. Sed nunquid semper ex sola fide, et
+sine omni legis opere? Minime. Nam si tempus
+operandi habet, <hi>fides sine operibus mortua est</hi> 
+<pb n="0670B"/> <note>(Jac. II)</note>.
+Non enim auditores legis, sed factores
+justificabuntur. Absque dubio quandiu homini
+tempus operandi conceditur, ab eo, nec immerito,
+divinitus exigitur fides quae per dilectionem
+operetur. Ex prolatis itaque testimoniis manifeste
+colligitur quod homo quidem justificetur quandoque
+ex sola fide, quandoque ex fide simul et legis opere,
+nunquam vero ex sola lege. Ex his itaque, ut arbitror,
+perpendi potest quod Apostolus in suis dictis
+sibi contrarius non est. In eo siquidem quod dicit
+uno loco, quoniam ex operibus legis non justificabitur
+omnis caro, aperte dat intelligere quod humanae
+industriae omnino non sufficit sola legis doctrina
+sine fide Christi et gratia: <hi>Gratia,</hi> inquit, <hi>Dei sum in quod sum 
+ <note>(I Cor. XV)</note>
+          </hi>. Sed item, ne lex
+<pb n="0670C"/>
+talis esse putetur quae impleta justificare non possit,
+ideo de eadem alio loco dicit: <hi>Non enim auditores,
+sed factores legis justificabuntur.</hi> Nam sive
+concedatur, sive non concedatur quod alicui homini
+tanta gratia data, vel danda sit, quod eam implere
+possit, nihilominus tamen verum est quod ejus impletio
+sit hominum justificatio. Docet ergo Apostolus
+quod lex per se sola nunquam homini confert
+justitiam, imo quod adhuc gravius est, operatur et
+iram. Sed unde hoc utique contingat, Apostolus ipse
+subjungendo manifestat: <hi>Ubi enim non est lex, nec
+praevaricatio <note>(Rom. IV)</note>
+          </hi>. Inde enim iram operatur,
+quoniam ex sola legis doctrina sine adjuncta gratia
+auditores legis non tam factores quam praevaricatores
+<pb n="0670D"/>
+efficiuntur. Nam, ne legis mandata inepta potius
+quam impossibilia putarentur, ideo ab Apostolo
+alio loco dicitur: <hi>Lex quidem sancta et mandatum
+sanctum, et justum et bonum.</hi> Putas fortassis
+de solis moralibus mandatis hoc dictum. Ego
+audacter dico de quolibet legis instituto quod tempore
+suo fuerit sanctum, et justum et bonum utpote
+a Deo institutum, et homini divinitus injunctum.</p>
+<p>Quid, quaeso, fuerunt sacrificia, nisi passionis
+Christi et mortis figura, eo ipso ejusdem sacramenta?
+Erat itaque in uno eodemque opere et redemptionis
+nostrae figura et debita obedientia. Certe
+si Abraham filium suum sine divino praecepto mactare
+voluisset, summa impietas et horrendum flagitium
+esset. Si ergo sanctum, et justum, et pium
+<pb n="0671A"/>
+fuit filium suum ad Domini mandatum sacrificare,
+cur non eodem modo dicatur sanctum, et justum,
+et bonum pecus quod sine peccato occidi potest, ad
+Domini mandatum Domino offerre et immolare?
+Quod igitur lex iram operabatur, non fuit ex legis
+imperfectione, vel inordinatione, sed ex hominis infirmitate
+et imperfectione. Vultis et hoc ipsum non
+ex me, sed ab ipso Apostolo audire: <hi>Scimus,</hi> inquit, <hi>quod lex spiritualis, ego autem carnalis sum venundatus
+sub peccato. Quod enim operor non intelligo.
+Non enim quod volo hoc ago, sed quod odi illud facio <note>(Rom. VII)</note>
+          </hi>.
+Ecce jam habes unde praevaricatio, ecce
+jam tenes quod non sit ex legis, sed hominis vitio. Nihil
+igitur contra rationem dicitur in eo quod clamat
+quod mandatum sanctum et justum iram operatur.
+<pb n="0671B"/>
+Juxta Dominicum testimonium verum est, nec possumus
+negare quod ante adventum Christi multi
+justi fuerunt et prophetae, non tamen veritati contrarium
+fuit quod Apostolus dixit, quia lex neminem
+ad perfectum adduxit. Quod enim justi fuerunt, et
+quidquid perfectionis habere potuerunt, hoc eis
+contulit non nuda legis doctrina, sed adjuncta gratia
+divina. <hi>Non</hi> enim <hi>est volentis neque currentis,
+sed miserentis Dei <note>(Rom. IX)</note>
+          </hi>. Nam nequaquam sunt
+justificati sine fide et gratia Christi. Nam, nisi
+Christum venturum crederent atque sperarent, nullo
+modo ejus adventum tanto tempore desiderarent.
+Quid enim aliud sonat quod Dominus apostolis dicit: <hi>Multi reges, et prophetae voluerunt videre quae
+<pb n="0671C"/>
+vos videtis, et non viderunt, et audire quae auditis, et
+non audierunt? 
+ <note>(Luc. X.)</note>
+          </hi> Eorum itaque justificatio
+non tam ascribitur legi quam fidei, et gratiae Christi.
+Nunc illud consideremus, quomodo Dominicae sententiae
+non sit contrarium hoc quod Apostolus de
+lege sentit cum dicit: <hi>Si enim data esset lex quae
+posset justificare, vere ex lege esset justitia.</hi> Vides
+quia secundum Apostolum lex nec vivificare, nec
+justificare potest; sed ut quid hoc, nisi quia impleri
+non potest? Non enim potest homo non concupiscere,
+sicut nec toto corde, tota anima, tota
+mente diligere, quo tamen nihil est sanctius, nihil
+utique est justius. Certe si ignaris, sed sanis, et ad
+perficiendum robustis talis lex data fuisset, absque
+dubio obedire volentes et justificare et eo ipso sanctificare
+<pb n="0671D"/>
+potuisset. Sed data est pro certo infirmis,
+et multum imperitis, et ad implendum minus idoneis.
+Item si doceret ignaros quid eos oportet facere,
+et infirmos similiter quomodo possent imperata
+perficere, procul dubio quod fateri oportet et
+justificare et vivificare potuisset. Docet autem lex
+tantum quid debeat fieri, sed non docet quomodo
+ab infirmis posset impleri. Negat autem Apostolus
+quod ex sola cognitione sive doctrina perficiendi;
+negat, inquam, et merito, hominem non posse vivificari.
+Sed quod Apostolus negat de sola mandati
+cognitione, Dominus affirmat de mandati impletione: <hi>Hoc,</hi> 
+ inquit, <hi>fac, et vives.</hi> Non dicit, si hoc scis, vives:
+sed, hoc fac, et vives. Quod igitur Dominus
+affirmat, Apostolus non negat; et quod Apostolus
+<pb n="0672A"/>
+negat, Dominus non affirmat. Nam, ut dictum est,
+Apostolus loquitur de sola mandati cognitione, Dominus
+autem de ipsius impletione.</p>
+<p>Hic non immerito quaeritur qua ratione illis imputetur,
+vel quomodo in eis iram operetur quod legem
+non impleverunt qui eam implere non potuerunt,
+vel quid eis profuit talem legem accepisse
+quam nullo modo potuerunt implere? Talem certe,
+nec immerito, legem accipere debebant, qui omnia
+de propriis viribus, non de divino adjutorio praesumebant,
+juxta quod ad Moysen fiducialiter dicebant: <hi>Omnia quae locutus est Dominus faciemus <note>(Exod. XXIV)</note>
+          </hi>.
+Quid tibi videtur, qui post tantam et
+tam constantem promissionem omnino neglexerunt?
+Nunquid eos excusare poterit tanta negligentia, vel
+<pb n="0672B"/>
+qui fortiter insistentes, sed deficientes per proprium
+defectum et multiplex experimentum humiliari non
+potuerunt, nunquid eos excusare potest tanta superbia?
+An illos, quaeso, qui per multam experientiam
+infirmitatem suam agnoverunt, sed ad impetrandam
+adjutricem gratiam desides fuerunt, poterit
+excusare tanta desidia? Quis hoc dicat, vel dicere
+audeat? Ex his itaque facile perpendere potes acceptae
+legis praevaricatores quam sint inexcusabiles.
+Nam illi quidem qui pro viribus satagentes, et deficientes
+tum per proprium, tum per alienum defectum
+suam infirmitatem et impossibilitatem agnoverunt, et
+in divino adjutorio de caetero totam spem suam posuerunt,
+impetrata et accepta divinitus gratia, justificari
+<pb n="0672C"/>
+meruerunt. Data itaque lex aliis profuit, et aliis
+omnino non profuit. Sane profuit viventibus bene,
+obfuit autem utentibus male. Ubi vero obfuit, non
+fuit vitium legis, sed vitium abutentis. Ad hoc namque
+lex data erat, quae impleri debuerat, et impleri
+non poterat ut satagentes et deficientes intelligerent
+quam frustra de suis viribus praesumerent, quod
+sine gratia divina implere non possent.</p>
+<p>Adhuc fortassis insistitis, et dicitis quia quidquid
+de lege dictum est, etiam de Evangelio dici potest.
+Nam, sicut non sufficit ad justitiam legis doctrina
+sine gratia divina, sic procul dubio nec doctrina
+evangelica sine gratia divina, neutra impleri potest,
+neutra justificare potest. Cur ergo quod de
+lege dicitur non dicatur de Evangelio, quod ex operibus
+<pb n="0672D"/>
+Evangelii non justificabitur omnis caro? Nunquid
+et ipsum neminem ad perfectum adducit de
+quo constat quod sine gratia impleri non possit?
+Juxta eamdem considerationem possumus aestimare
+quod omnino non possit aliquem vivificare, sicut
+nec justificare. Ad haec autem respondeo, et dico
+quod doctrina legis est simplex, evangelica triplex.
+Evangelium siquidem docet quid debeat fieri, quomodo
+possit impleri, et quod impletum non fuerit
+quomodo possit suppleri. Docet autem solummodo
+lex, ut dictum est, quid homo debeat facere, nec
+addit quomodo possit implere, et ea propter neminem
+potest justificare. Evangelica autem doctrina
+ut sit usquequaque perfecta, docet tria illa jam dicta.
+Quid facere debeas doceris cum a Domino audis:
+<pb n="0673A"/> <hi>Hoc est praeceptum meum ut diligatis invicem
+sicut dilexi vos 
+ <note>(Joan. XVIII)</note>
+          </hi>. Sed, ne quis idipsum
+de suis viribus praesumat, ab eodem magistro docetur,
+cum alias ab eodem dicitur: <hi>Sine me nihil potestis
+facere. Sicut palmes non potest fructus facere
+nisi manserit in vite, sic et vos sine me nihil potestis
+facere <note>(Joan. XV)</note>
+          </hi>. In acquirenda igitur gratia per
+quam possimus implere quod volumus, quis, quaeso,
+erit obtinendi modus? <hi>Si quid petieritis patrem in
+nomine meo dabit vobis <note>(Joan. XIV)</note>
+          </hi>. Si gratia egetis,
+petite secundum quod debetis, et accipietis. Sed
+quomodo in ejus nomine petimus si in ipsum credimus?
+Hoc est quod te docere voluit, cum dicit: <hi>Creditis in Deum, et in me credite 
+ <note>(ibid.)</note>
+          </hi>. Qui igitur
+quod debet implere non potest, in Christum credat,
+<pb n="0673B"/>
+in Christo petat Patrem qui omnia potest. Postulet
+itaque Spiritum illum qui operatur in nobis velle et
+perficere pro bona voluntate. Spiritum, inquam, qui
+operatur omnia in omnibus, dividens singulis prout
+vult. Si fide qua oportet hunc petitis, procul dubio
+accipietis. Si enim nostis cum sitis mali bona
+data dare filiis vestris, quanto magis Pater vester
+coelestis dabit spiritum bonum petentibus se? <note>(Luc. XI.)</note> 
+ Ecce aperte habes, ut arbitror, quod a
+te debet fieri, quomodo, vel qua ratione possit impleri.</p>
+<p>Sed adhuc tibi quaeris ostendi unde hoc quod per
+negligentiam, vel alio quolibet modo impletum non
+fuerit, possit suppleri. Dic tu prius quantum debes
+Domino tuo. An forte centum cados olei? Debitum
+<pb n="0673C"/>
+grande, et ad solvendum difficile. Debitum grande diligere
+Deum ex toto corde, tota mente, tota anima.
+Ecce debitum decem millium talentorum. Non mirum,
+si multum times et trepidas, sed breviter audi quid
+facias. Dimitte denarios centum qui debentur tibi, et
+omne debitum dimittetur tibi, et cum fiducia pro
+te tuique similibus orare poteris, dimitte nobis debita
+nostra sicut et nos, etc. Quid, inquis, si mihi
+nil debetur, quomodo quod ipse debeo mihi dimittetur?
+Eodem ordine, ex eodem fonte unde hausisti
+in exsequendis gratiam, hauri et in miserendis miserationis
+indulgentiam. Videre potes ex his certe
+ad perfectionem doctrinae Evangelio nihil deesse.
+Habes in eo unde possis justificari, habes ex eo unde
+possis vivificari. <hi>Qui manducat,</hi> inquit, <hi>carnem
+<pb n="0673D"/>
+meam et bibit meum sanguinem, habet vitam aeternam <note>(Joan. VI)</note>
+          </hi>.</p>
+<p>Quid adhuc amplius quaeris? Nunquid tale aliquid
+potuit agnus ille legalis? Ecce Evangelium exhibet
+unde homo justificari possit, quod legalis doctrina
+omnino non potest. Sane sub lege multi fuerunt
+perfecti, certe sub tempore Evangelii multi sunt
+imperfecti. Legi tamen non ascribitur illorum perfectio,
+sic nec Evangelio istorum imperfectio. Nam
+hoc illis contulit gratia divina, non autem legis
+doctrina.</p>
+<p> <hi>Ex operibus legis non justificabitur omnis caro <note>(Galat.
+II)</note>
+          </hi>. Aliud est esse justum et aliud est esse
+justificatum. Siquidem Deus est justus, nec tamen
+<pb n="0674A"/>
+justificatus. Constat autem quoniam peccatum facit
+hominem injustum. Quid itaque est peccatorem
+justificari, nisi a peccato liberari? Ex peccato
+namque fit homo tam obnoxius vitio quam supplicio.
+In uno obligatur ad culpam; in alio obligatur
+ad poenam. In uno incurrit debitum servitutis, in
+alio vero debitum aeternae damnationis: <hi>Qui facit
+peccatum, servus est peccati <note>(Joan. III)</note>
+          </hi>. Qui autem servus
+est, eget redemptione ut possit liber exire. Lex
+autem nec docet unde homo redimi debeat, nex exhibet
+unde liberari valeat. Legis itaque doctrina
+non liberat a peccato, et (quod consequens est) ex
+ea non justificabitur omnis caro. Quid tamen lex
+facit? Docet quid homo debeat facere, docet quid
+debeat cavere, sed non docet quomodo possit implere.
+<pb n="0674B"/>
+Prohibet concupiscere, praecipit Deum ex
+toto corde diligere; praecipit amorem ordinatum,
+prohibet inordinatum. Audistis quid facit, audite
+quid efficit. Quod prohibet a carne omni hora agitur;
+quod praecipit vero nunquam a carne impletur.
+Unde et ex ejus operibus nemo justificatur. Quidquid
+enim docet aut tale est quod facere non potest,
+aut tale quod justificare non potest. Ex his, ut arbitror
+intellexisti quae sit frequentia peccandi.
+Attende nunc quae sit violentia peccati. Praecipitur
+in lege pro certis quibusdam peccatis ut praevaricatorum
+alius lapidetur, alius comburatur, alius alia
+quacunque morte moriatur. Verumtamen multa ejusmodi
+crimina a legis auditoribus committebantur.
+Facile itaque perpendi potest quanta violentia peccati,
+<pb n="0674C"/>
+quae in quibusdam nec ipso mortis periculo potuit
+coerceri. Data itaque lege et sequente frequenti
+et multiformi praevaricatione, manifeste innotuit
+quanta sit frequentia peccandi, quantave violentia
+peccati. Hinc est quod cum praemissum sit ex operibus
+legis non justificabitur omnis caro, statim subjungitur
+ab Apostolo: <hi>Per legem enim cognitio peccati <note>(Rom. III)</note>
+          </hi>.
+Aperte itaque datur intelligi vel dat
+intelligere, quoniam per legem est sola cognitio
+peccati, non autem et abolitio. Nam, si abolitio,
+utique justificatio. Mirabitur fortassis aliquis cur
+non dicatur potius cognitio mandati, quam cognitio
+peccati; nam et illud aeque veraciter potuit dici.
+Nam, sicut per legem sola peccati cognitio, non
+<pb n="0674D"/>
+autem abolitio; ita per legem sola mandati cognitio,
+non autem ejus impletio. Sed quantum mihi videtur,
+si praemisisset quod ex operibus legis nemo
+justus esset, vel justitiam haberet, convenientius
+subjungeret: Per legem enim cognitio mandati,
+quam si diceret, per legem enim cognitio peccati.
+Quid enim rectius dicitur justitia quam divini mandati
+observantia? Hominis justificatio idem est
+quod ejus liberatio a peccato. Cum igitur de hominis
+justificatione praemiserit, facile est videre quam
+convenienter subjungit: Per legem cognitio peccati,
+potius quam cognitio mandati.</p>
+<p> <hi>Scimus enim quod lex spiritualis est, ego autem
+carnalis sum venundatus sub peccato <note>(Rom. VII)</note>
+          </hi>. Merito
+quaeritur in quorum persona Apostolus haec dicat,
+<pb n="0675A"/>
+maxime propter illa, quae consequenter adjunguntur.</p>
+<p>Quaeritur ergo utrum dicatur an in persona infirmorum
+vel imperfectorum, an potius in persona tam
+istorum quam illorum. Nam quantum mihi videtur,
+luce clarius constat quid de criminosis, haec nec
+exponi debeant, nec recte omnino intelligi valeant.
+Quis enim deinceps poterit criminosum quemlibet
+de suo crimine rationabiliter arguere, si potest in
+sui excusationem apostolicum testimonium adducere,
+et arguenti audacter respondere: Non ego operor
+illud, sed quod habebat in me peccatum? Quid
+est enim haec apostolica verba sic exponere ut possint
+etiam impiis convenire? Quid, inquam, aliud est
+quam operarios iniquitatis docere declinare cor
+suum in verba malitiae ad excusandas excusationes
+<pb n="0675B"/>
+in peccatis? Sed illud in his Apostoli verbis videtur
+esse quaerendum, utrum sit dictum sub forma perfectorum,
+an imperfectorum? Sed quomodo potest
+convenire Apostolo, vel cuilibet perfecto viro, ego
+autem carnalis sum, venundatus sub peccato? Qui
+namque merito dicerentur spirituales, si Paulus, vel
+Pauli similes creduntur esse carnales? Si solis infirmioribus
+convenit quod hoc loco Apostolus disserit,
+procul dubio non efficit quod ex his verbis
+probare contendit. Dixerat namque de lege quod non
+possit conferre justitiam, quin potius quod operetur
+iram. Sed ne hoc crederetur esse ex vitio legis,
+non hominis, ideo consequenter adjungit et dicit,
+quoniam lex quidem sancta est, et mandatum
+sanctum, et justum, et bonum. Hic autem Apostolus
+<pb n="0675C"/>
+manifeste ostendit quod ex vitio hominis sit quod
+ex lege justificari non possit, quoniam ad ejus impletionem
+omnino non sufficit. Sciendum itaque in
+primis quod secundum diversos respectus positiones
+verborum diversis modis accipimus. Aliter ergo de
+homine secundum praesentem statum judicamus,
+aliter vero secundum illum qui fuit ante peccatum.
+Secundum praesentem statum alii dicuntur spirituales,
+alii vero carnales. Sed procul dubio respectu
+primae conditionis quantumlibet religiosus non immerito
+dicitur carnalis. Quantum autem ad praesentem
+statum, carnales dicuntur qui post concupiscentias
+suas eunt, et carnalibus desideriis deserviunt.
+Spirituales qui carnis desideriis fortiter resistunt,
+<pb n="0675D"/>
+et spiritualibus studiis vehementer insistunt.
+Carnalium est carnis concupiscentias sentire et
+consentire. Spiritualium sentire, nec consentire;
+sed resistere, sed repugnare, sed mortificare. Sed,
+si ad primae conditionis statum respicimus, in eo
+ipso carnales sumus quod carnis concupiscentias, et
+foedas, et inordinatas delectationes sentimus. Si
+enim homo non peccasset, nec carnalia magis quam
+liceret, nec spiritualia minus diligeret quam deceret;
+sed in utrisque diligendis et modestiae metas,
+et aequitatis mensuram, et agnoscere simul et observare
+potuisset. Sed postquam status sui rectitudinem
+homo sponte deseruit, jam semel sub peccato
+venundatus, et carnalis effectus ad neutrum sufficit:
+nam multiformiter quidem et errat judicio, et effrenatur
+<pb n="0676A"/>
+desiderio. Quam vera itaque est illa prophetica
+sententia: <hi>Non justificabitur in conspectu
+tuo omnis vivens <note>(Psal. CXLII)</note>
+          </hi>, quam verum est et
+illud apostolicum: <hi>Si dixerimus quod peccatum non
+habemus, nosipsos seducimus, et veritas in nobis non
+est <note>(I Joan. I)</note>
+          </hi>. Tam vere potest intelligi de quolibet
+religioso, ego autem carnalis sum venundatus
+sub peccato, unde autem et in quibus carnalis sit
+ostendit, cum subjungit: Quod enim operor, non
+intelligo. Non quod volo hoc ago, sed quod odi illud
+facio. Ecce tria mala in quibus consistit carnalitas
+nostra. Quod facimus non intelligimus; non facimus
+quod volumus, facimus quod nolumus. Sed duo posteriora
+Apostolus conjungit, quoniam utrumque
+ex uno vitio descendit. Ex vitio namque concupiscentiae
+<pb n="0676B"/>
+descendit utrumque et quod tepidi sumus
+ad bonum, et fervidi ad malum: <hi>Quod operor,</hi> inquit, <hi>non intelligo 
+ <note>(Rom. VII)</note>
+          </hi>, et hoc illi utique ex
+ignorantiae vitio. Non, inquit, quod volo hoc ago,
+sed quod odi illud facio. Ex hoc utique gemino vitio
+accipimus, ut carnales simus quandiu in carne
+vivimus.</p>
+<p>Notandum autem quod Apostolus ad unum quod
+praemisit duo subsequenter adjungit. Praemisit quod
+carnalis fuerit, et unde hoc ei inesset ex duobus
+subjunctis ostendit. Repetenda itaque est prima sententia,
+et ad utrumque subjectum in hunc modum
+conjungenda. Carnalis sum venundatus sub peccato.
+Quod enim operor non intelligo. Carnalis, inquam,
+<pb n="0676C"/>
+sum venundatus sub peccato, non enim quod
+volo hoc ago, sed quod odi illud facio. Quisque potest
+experiri in semetipso quam veraciter dicatur,
+quod operor non intelligo. Nunquid quid operabatur
+intelligebat qui Domino in oratione dicebat: <hi>Gratias ago tibi, Domine, quia non sum sicut caeteri
+hominum? 
+ <note>(Luc. XVIII.)</note>
+          </hi> Nunquid et illi quid dicerent
+bene intelligebant: <hi>Omnia quae locutus est Dominus
+faciemus? <note>(Exod. XLII.)</note>
+          </hi> Verba enim videntur magnae
+devotionis, et sunt vere verba magnae praesumptionis.
+Saepe unde homo putat excitare devotionem,
+nutrit elationem, pascit praesumptionem.
+Sed unde hoc, quaeso, nisi quia quod agit non intelligit?
+Saepe superbit homo, et nescit. Saepe
+praesumit, et interim non intelligit. Pro utraque
+<pb n="0676D"/>
+ignorantia solet subtrahi gratia divina. Nam,
+dum praesumptuose agit et nescit, subtrahitur
+gratia ne efficiat quod cupit. Dum superbit et
+nescit, permittitur saepe in id cadere quod
+erubescit et odit, et potest dicere qui ejusmodi
+est: Non enim quod volo hoc ago, sed quod
+odi illud facio. Errat autem non solum in discernendo,
+verum etiam in deliberando quantumlibet
+homo spiritualis, dum quod putat cooperari
+sibi in bonum, cooperatur sibi in malum, et quod
+sibi credit cooperari in malum, cooperatur in bonum.
+Sed unde hoc bonum accidit, nisi quia quod
+operatur non intelligit? Sed quid mirum si quod
+operamur non intelligimus, qui quid oremus, prout
+oportet, nescimus. Quis enim in orando decipi non
+<pb n="0677A"/>
+possit si apostolus Paulus in hoc ipso decipi potuit?
+Nam illud a se auferri ter postulavit, quod illi ob
+humilitatis custodiam tam misericorditer quam utiliter
+inflictum fuit.</p>
+<p> <hi>Ut sapiens architectus fundamentum posui. Si quis
+autem superaedificaverit supra fundamentum hoc aurum,
+argentum, lapides pretiosos, ligna, fenum, stipulam,
+uniuscujusque opus manifestum erit <note>(I Cor.
+III)</note>
+          </hi>. Sunt qui diffiniunt hoc loco fundamentum esse
+fidem ex dilectione operantem. Fidenter dico quod
+fundamentum tale nemo hominum in corde humano
+potest ponere. Quid credendum sit homo hominem
+docere potest. Sed dilectionem homo homini infundere
+non potest. Charitas siquidem Dei diffusa est
+in cordibus nostris, non per hominem, sed per Spiritum
+<pb n="0677B"/>
+sanctum qui datus est nobis. Ut sapiens, inquit,
+architectus fundamentum posui. Quod, quaeso,
+est illud fundamentum quod Paulus posuit, et a
+Paulo poni potuit? Certe quomodo in Christum
+credi oporteat Paulus docere potuit, et absque ambiguo
+docuit. Hoc fidei nostrae documentum constat
+pro certo spiritualis aedificii fore fundamentum.
+Primo omnium est ut sciat homo quid debeat credere,
+vel facere, et hoc potest homo per hominem
+nosse. Debet itaque praedicator veritatis diligenter
+edocere quid oporteat credere, quibus operibus debeat
+homo insistere, vel quomodo perpetrata mala
+per veram poenitentiam possit delere, et hoc erit ei
+fundamentum ponere. Quam multi sunt qui hoc catholicae
+<pb n="0677C"/>
+doctrinae fundamentum et habent, et memoriter
+tenent, sed multum diversa superaedificant!
+Nam alii bona actitant, alii in spe resipiscendi peccant.
+Utrique ergo verae fidei fundamentum habent,
+sed diversa superaedificant. Alii aurum, argentum,
+lapides pretiosos; alii ligna, fenum, stipulam.
+Aurum, argentum, lapides pretiosi non possunt igne
+consumi. Ista sane possunt per ignem transire, et
+post incendium manere: <hi>Si cujus,</hi> inquit, <hi>opus manserit,
+quod superaedificavit mercedem accipiet.</hi> Si igitur
+per hujusmodi mercedem acquirimus, quid aliud
+per aurum, argentum, et lapides pretiosos quam
+bona opera intelligere debemus. In lignis autem,
+feno et stipula quid, quaeso, intelligi oportet, bona
+opera an mala? Ligna vero, fenum et stipulam solet
+<pb n="0677D"/>
+ignis consumere, et velut in nihilum redigere. Sed
+absit ut ignis ille futurus bona opera consumere, et
+annihilare possit. In lignis itaque, feno et stipula
+non recte intelliguntur, nisi opera concrematione
+digna, et ad consumendum, non ad remanendum
+idonea. Quae sunt ergo ista arsura et igne consumenda,
+nisi opera mala? <hi>Si cujus,</hi> inquit, <hi>opus
+arserit, detrimentum patietur, ipse autem salvus erit,
+sic tamen quasi per ignem.</hi> Qui, quaeso, sunt isti operarii
+qui salvantur quidem non quasi per bonam
+operationem, sed sic utique quasi per ignem? Illud
+pro certo tenemus quod quilibet malus operarius
+per ignem purgatorium purgari non possit, nisi de
+perpetratis malis veraciter poenituerit. Sola siquidem
+vera poenitentia facit ut malorum perpetratio
+<pb n="0678A"/>
+purgatorio igne consumi atque deleri possit. Nulla
+autem crimina sunt adeo detestanda quae vera poenitentia
+non faciat solubilia. Videntur itaque esse
+duo genera operum insolubilium, unum autem
+genus operum solubilium, vera perseverantium
+bona, perseverantia non poenitentium mala, et nullo
+termino delenda. Mala autem vere poenitentium absque
+dubio solubilia sunt, et quae absque dubio igne
+purgatorio deleri possunt. In lignis itaque, feno et
+stipula intelligimus quaelibet mala solubilia. Sed
+quoniam igne consumi nequeant, sed in aeternum
+maneant, non solum bona permansura, verum etiam
+mala insolubilia, quid est quod dicit, cujus opus
+manserit quod superaedificat mercedem accipiet? Sed
+ad illos solummodo operarios de quibus jam antea
+<pb n="0678B"/>
+praemisit referendum est quod subjungit, si cujus
+opus manserit. Eorum itaque operariorum qui aedificant
+non ferrum, plumbum et stagnum, sed aurum,
+argentum, lapides pretiosos, ligna, fenum, stipulam;
+ejusmodi, inquam, operariorum si cujus opus manserit
+mercedem accipiet. si cujus opus arserit,
+detrimentum patietur; ipse autem salvus erit, sic
+tamen quasi per ignem. Per aurum itaque, argentum
+et lapides pretiosos intelligimus, ut diximus, bona
+perseverantia. Per ligna, fenum et stipulam mala
+solubilia. In auro recte satis intelligitur speculatio
+veritatis; in argento verbum praedicationis; in lapidibus
+pretiosis exercitia virtutis; in lignis, feno et
+stipula intellige perversitatis, superfluitatis et vanitatis
+<pb n="0678C"/>
+opera, per veram poenitentiam facta remissibilia.</p>
+<p>Mirandum fortassis videtur quibusdam quomodo
+Apostolus judicat flagitiosum illum qui patris sui
+uxorem habebat tradere Satanae in interitum carnis,
+ut spiritus salvus sit in diem Domini nostri Jesu
+Christi. Illud vero non potest in dubium venire,
+quod virtute, qua potuit daemoniacum a daemonio
+liberare, eadem etiam posset (ubi ratio hoc exigeret)
+daemoniacae vexationi tradere. Sed, si flagitiosus
+aliquis Satanae traditur et daemoniacus efficitur,
+non ei in hoc via salutis aperiri, sed intercludi
+videtur. Commissa siquidem crimina non possunt
+deleri sine vera poenitentia. Daemoniacus autem,
+cui sensus deest, quomodo veram poenitentiam habere
+potest? Quomodo ergo flagitiosum illum Satanae
+<pb n="0678D"/>
+tradendum Apostolus judicat, ut spiritus salvus fiat?
+Sciendum itaque quod vexatio daemoniaca alia continua,
+alia interpolata. Continuam vexationem patitur
+qui nunquam quiescere sinitur, sed continuis
+furiis agitatur. Interpolatam autem vexationem incurrit,
+qui pro diversis temporibus sensum quandoque
+amittit, quandoque recipit, et inter multiplices
+fatigationes animus fatigati aliquoties ad semetipsum
+redit. Qui igitur interpolatae infamiae traditus fuerit,
+pro certo habet quomodo poenitere, et eo ipso quomodo
+salvari possit. Quis enim poterit tam obduratae,
+tam obstinatae mentis esse, ut in ipsa suae
+vexationis interpolatione, cum animus redierit ad
+se non doleat, et intime poeniteat illud commisisse;
+unde contingit et daemoniacam vexationem incurrisse,
+<pb n="0679A"/>
+et omni ludibrio patere. Vide ergo quomodo
+ex vexationis interpolatione saepe agitur ut ipsa
+vexatio fiat ei in poenitudinem, et ex poenitudine
+ipsa efficitur ut ipsa vexatio sit ei ad purgationem.
+Dat ergo Apostolus patenter intelligi cujusmodi
+vexationi criminosum illum tradi voluerit in eo quod
+dicit, ut spiritus salvus sit. Nam, sicut ex continua
+daemonis vexatione via salutis potuit intercludi potius
+quam aperiri, sic e converso ex interpolata
+vexatione videbatur oportere aperiri, potius quam
+intercludi.</p>
+<p>Notandum autem quod tradi in interitum carnis,
+pro certo quando homo moritur de caetero spiritus
+ipse carnis obsequiis pro voto non utitur. Caro
+itaque daemoniaci suo quodammodo spiritui moritur,
+<pb n="0679B"/>
+quando spiritus malignus ejus obsequiis violenter
+abutitur, et spiritus proprius debito sibi corporis
+famulatu privatur.</p>
+<p>Mirum tibi videtur quod ab Apostolo dicitur: <hi>Omnia mihi,</hi> 
+ inquit, <hi>licent <note>(I Cor. VI)</note>
+          </hi>. Multa siquidem
+sunt licita, non tamen omnia. Nam multa
+sunt omni homini omnino illicita. Sed quod dicimus
+licere, duobus modis solemus accipere. Eamdem
+enim positionem quandoque strictius, quandoque
+largius accipimus. Dicimus licere quod potest fieri
+ordinate. Aliquando dicimus licere quod est nobis
+liberum facere, sive possit, sive non possit fieri
+ordinate. Hinc est quod de facinoroso dici solet,
+hoc vel illud facinus libenter fecisset, si ei hoc facere
+<pb n="0679C"/>
+licuisset; quod est dicere, si facultatem vel
+opportunitatem faciendi habuisset. Hinc est quod
+B. Gregorius in suo Dialogo de quibusdam minus
+religiosis fratribus dicit, qui beatum Benedictum
+in abbatem elegerant, sed jam eos propter arctioris
+vitae disciplinam elegisse poenitebat, unde et eum
+veneno exstinguere parabant, quia videbant sibi sub
+eo illicita non licere. Quid est, quod dicit eis illicita
+non licere, nisi eos ad illicita facienda nullam sub
+eo licentiam, vel libertatem habere? Scimus quoniam
+Deus in hominis posuit libertate utrum velit bona
+an mala eligere. Hinc est illud Sapientis de Domino
+dictum: <hi>Apposuit tibi ignem et aquam, ad quod volueris
+porrige manum tuam. Ante hominem vita et
+mors, bonum et malum, quod placuerit dabitur ei</hi> 
+<pb n="0679D"/> <note>(Eccli. XV)</note>.
+Hinc est quod Apostolus enumeratis tot
+malis, subjungit, et dicit: <hi>Omnia mihi licent,</hi> licent
+utique non secundum concessionem, sed secundum
+solum permissionem. Secundum concessionem licent
+sola ordinata, secundum solam permissionem
+etiam inordinata. Multa enim Dominus fieri permittit,
+quae tamen nulli facere concedit. Omnia,
+inquit, mihi licent procul dubio quantum ad permissionem,
+sed non omnia expediunt, nec eorum
+quidem quae fiunt secundum concessionem. Omnia
+mihi licent, sed ego sub nullius redigar potestate,
+sub nullius videlicet eorum quae fiunt ex sola permissione.
+Quod enim dicit non omnia expediunt,
+respicit ad illam licentiam quae est secundum concessionem.
+Quod vero dicit, sed ego sub nullius
+<pb n="0680A"/>
+redigar potestate, respicit ad eam licentiam quae
+est secundum solam permissionem. Multa namque
+eorum quae concessa sunt majora bona impediunt,
+et idcirco non expediunt, nec tamen utentem servituti
+addicunt. Sed qui facit peccatum, servus est
+peccati. Si ergo volumus hanc servitutem vitare,
+et sub nullius redigi potestate, caute declinanda
+sunt quae licent ex sola permissione. Quod autem
+non omnia expediunt quae secundum concessionem
+licita sunt, evidenter ostendit, cum subjungit: <hi>Esca
+ventri, et venter escis; Deus autem et hunc, et has
+destruet <note>(I Cor. VI)</note>
+          </hi>. Escae utique ad ventris refectionem
+sunt factae, et idcirco secundum concessionem
+licitae, nec tamen expedit eis nimis indulgere, et
+studia necessariora omittere. Nimia namque eorum
+<pb n="0680B"/>
+indulgentia ad quid valet, cum veraciter constet
+quod Deus hunc et has destruet. Quod autem non
+omnia quae licent secundum permissionem, liceant
+secundum concessionem, subsequenter ostendit
+cum protinus adjungit: <hi>Corpus autem non fornicationi
+sed Domino, et Dominus corpori <note>(ibid.)</note>
+          </hi>. Escae
+quidem ad vescendum, venter autem ad utendum.
+Sed corpus non ad fornicandum, sed suo Domino
+ad serviendum. Quod enim fornicari possumus
+saepe cum volumus, non est indulgentia concedentis,
+sed probatio, vel desertio permittentis. Superius
+dixerat quod fornicarii regnum Dei non possidebunt,
+sed quia praevidebat multos fore qui hoc
+difficile crederent, et qui fornicationis malum non
+<pb n="0680C"/>
+adeo damnabile putarent, ideo consequenter ostendit
+in duobus quid de hoc malo sentire debemus.
+Ostendit namque hujusmodi malum quam sit profundum,
+et quam sit prae omnibus intimum. Ex
+opere siquidem fornicationis tolluntur membra
+Christi, et fiunt membra meretricis. Hinc est videre
+hujusmodi malum quam sit profundum, quod de
+tanta sublimitate dejicit in hoc imum et foedum.
+Audi et hoc ipsum quam sit prae omnibus intimum: <hi>Omne,</hi> 
+ inquit, <hi>peccatum quodcunque fecerit homo extra
+corpus est, qui autem fornicatur, in corpus suum
+peccat <note>(I Cor. VI)</note>
+          </hi>. Sed, si volumus jura apostolicae
+sententiae plenius intelligere, oportet nos considerationem
+nostram altius attollere. Homo, ut in commune
+novimus, consistit ex gemina substantia, una
+<pb n="0680D"/>
+corporea, alia incorporea. Corporea mori potest:
+incorporea non potest. Incorporea sine alimento
+subsistere potest, corporea vero omnino non potest.
+Sed corporea quidem substantia, quae naturam
+suam de seipsa servare non potest, de seipsa instaurare,
+imo et multiplicare potest, quod spiritualis
+substantia omnino non potest. Vides certe
+quia alia est praerogativa corporeae substantiae, alia
+est praerogativa substantiae incorporeae. Praerogativa
+incorporeae substantiae, quod potest in aeternum, et
+sine subsidio subsistere. Praerogativa corporeae substantiae,
+quod potest de sua substantia conformem
+sibi substantiam producere, et sui generis naturam
+seminando multiplicare. Hanc autem conformitatem
+substantiae non possumus de nobis producere sine
+<pb n="0681A"/>
+distractione, ut sic dicam, propriae substantiae.
+Generatio namque prolis non fit sine quadam decisione
+generantis. In quo et illud notandum quod
+haec parentis in hoc opus decisio non fit, sed nec
+fieri potest de quolibet corporis membro, sed eruitur
+ab intimo et velut de quodam sui generis thesauro
+in intimis misso, et in id officii recondito.
+Sed cum nihil excellentius datum videatur corporeae
+substantiae hac dote naturae, gloriosius tamen est ab
+hoc officio cessare, quam exercere, eo quod post
+corruptionem naturae impleri non possit sine libidine,
+et foeda delectatione. Nam quod licet hoc exercere
+in propria conjuge, et causa tantum prolis generandae,
+hoc ipsum si bene attendas, indulgentiae est
+potius quam pudicitiae. Est autem in potu et cibo
+<pb n="0681B"/>
+non modica delectatio, nec tamen est vitiosa, nisi
+cui nimia fuerit, et in crapulam, vel ebrietatem
+transit. In crapula autem et ebrietate est quaedam
+distractio alienae substantiae. In opere vero libidinis
+est quaedam distractio et decisio propriae substantiae.
+Ibi quidem vitiositatis exactio fit in corpore
+alieno. Hic autem in corpore proprio, imo ab ipsius
+corporis intimo. Bene itaque de reliquis dictum est,
+quoniam omne peccatum extra corpus est. Peccat
+autem non modo in intimo sui, sed et in ipsum
+corpus suum qui fornicatur, quoniam in turpitudinis
+usus corpus suum exinanire videtur et divini muneris
+praerogativa tam in suas quam in alienas sordes
+abutitur.</p>
+<p> <hi>Si quis se existimat scire aliquid, nondum cognovit
+<pb n="0681C"/>
+quomodo oporteat eum scire <note>(I Cor. VIII)</note>
+          </hi>. Quid, quaeso,
+ad ista dicemus? Ut de caeteris taceamus, quid
+de ipso Apostolo dicturi sumus? Si Apostolus se aliquid
+scire non aestimabat, qua fronte caeteros praedicando,
+scribendo, docere satagebat? Et si verum
+esse non existimat quod ex verbis praemissis denuntiat,
+quid, quaeso, idipsum tam constanter affirmat?
+Si se aliquid scire non existimavit, quid est quod
+superius praemisit, cum dicit: De his autem quae idolis
+sacrificantur, scimus quia omnes scientiam habemus?
+Sed hoc ipsum quod hoc loco videtur dicere
+in sequentibus videtur contradicere. Sed non in
+omnibus, inquit, est scientia. Quomodo, quaeso,
+omnes scientiam habent, si in omnibus scientia
+non est, et eam habentibus quomodo deesse potest?
+<pb n="0681D"/>
+Sciendum itaque est quod alia est illa scientia quam
+habent omnes. Alia autem quam quidam non habent,
+sed habere valent. Alia vero quam in hac vita
+nemo habet, sed nec habere valet. Omnes scientiam
+habemus, ecce de prima. Non in omnibus est scientia,
+ecce de secunda. Ad tertiam autem respicit
+Apostolus in eo quod dicit: <hi>Si quis autem se existimat
+aliquid scire, nondum cognovit quemadmodum
+oporteat eum scire <note>(Rom. II)</note>
+          </hi>. Scientiam discernendi
+inter verum et falsum, bonum et malum, justum et
+injustum, quamvis alii perfectius, alii imperfectius,
+omnes tamen in commune habemus Judaei, Graeci,
+Barbari et Latini. Nam si ista scientia fidelibus et
+infidelibus communis non esset, nullo modo Apostolus
+<pb n="0682A"/>
+dixisset: <hi>Cum enim gentes quae legem non habent
+naturaliter quae legis sunt faciunt, ejusmodi legem
+non habentes ipsi sibi sunt lex, qui ostendunt opus
+legis scriptum in cordibus suis <note>(ibid.)</note>
+          </hi>. Ecce de
+scientia quam omnes habent. Sed scientiam quae
+cum accepta gratia cuique sufficiat ad salutem
+multi non habent, adhuc tamen habere valent.
+De ejusmodi scientia intelligitur quod rectum ab
+Apostolo dicitur: <hi>Sed non in omnibus est scientia <note>(I Cor. VIII)</note>
+          </hi>.
+Quam ejusmodi scientiam ibi
+intelligi voluit, ostenditur in eo quod praemisit.
+Nam, etsi sunt qui dicantur dii, sive in coelo, sive
+in terra, nobis tamen unus Deus Pater, ex quo
+omnia, et nos in illo; et unus Dominus Jesus Christus
+per quem omnia, et nos per ipsum. Ad hoc autem
+<pb n="0682B"/>
+illam quae omnibus est communis accipimus,
+ut illam quae sufficiat ad salutem quaerere et invenire
+possimus. Hanc autem vere salutis scientiam,
+alii habent majorem, alii minorem, et contingit
+saepe salvari eos qui habent minorem, et perire eos
+qui habent majorem. Magnitudo namque scientiae
+quibusdam est fomes superbiae, et eo ipso causa ruinae.
+Hoc ipsum innuit qui dicit: <hi>Ne magnitudo revelationum
+extollat me, datus est mihi angelus Satanas
+stimulus carnis meae qui me colaphizet <note>(II
+Cor. XII)</note>
+          </hi>. Nemo autem qui est in hac vita ad
+plenum potest scire utrum jam cum accepta gratia,
+scientia quam habet possit sibi ad salutem sufficere.
+Haec est scientia quam in hac vita nemo habet,
+nemo apprehendere valet: <hi>Et si simplex,</hi> inquit
+<pb n="0682C"/>
+Job, <hi>fuero, hoc ipsum ignorabit anima mea <note>(Job IX)</note>
+          </hi>.
+In eamdem sententiam currit quod Salomon dicit: <hi>Nescit homo utrum amore an odio dignus sit 
+ <note>(Eccle.
+IX)</note>
+          </hi>. Habemus ex ejus sententia quod ignoret homo
+quid conducat sibi in vita sua. Habemus secundum
+eumdem: <hi>Quia nescit homo finem suum, sed sicut
+pisces capiuntur hamo, et sicut aves comprehenduntur
+laqueo sic,</hi> etc. <note>(Ibid.)</note> Ex his itaque verbis pro certo
+intelligimus quod certe securitatis scientiam in hac
+vita habere non possumus. Si igitur secundum Salomonem
+omnia in futuro incerta servantur, vide
+quid tibi sentiendum sit de scientia tua. Certe etsi
+magnum quid videatur secundum quantitatem, nescis
+si vel modicum quid sit, nescis si vel aliquid
+sit omnino tibi ad utilitatem. Qualis, quaeso, dicenda
+<pb n="0682D"/>
+illa existimatio rei de qua nescis quantum
+ad te, utrum sit aliquanti vel nihili. Debemus
+itaque quantum possumus ad scientiam proficere,
+quantumcunque tamen profecerimus pro nihilo reputare,
+quandiu non possumus de ejus fine certum
+judicium habere. Juxta hanc itaque considerationem
+recte intelligitur quod per Apostolum dicitur: <hi>Si quis se existimat scire aliquid, nondum cognovit
+quemadmodum oporteat eum scire.</hi> </p>
+<p>Omnis amor aut est solum gratuitus, aut solum
+debitus, aut debitus simul et gratuitus. Modis autem
+duobus intelligi potest amor gratuitus. Recte
+dicimus dilectionem gratuitam quae est secundum
+solam gratiam. Plenitudo veri et summi amoris est
+<pb n="0683A"/>
+quando tantus et talis est quo major vel melior esse
+non potest. Ubi non est summa perfectio, non valet,
+sed nec debet esse summa dilectio. Secundum solam
+gratiam est quod pro beneplacito tribuentis juste
+impendi, vel non impendi potest. Sed a divina excellentia
+<pb n="0684A"/>
+omnino alienum est quidquid secundum
+solam gratiam dici potest. Item amor gratuitus non
+incongrue dicitur, ubi tribuenti omnia nil nisi amor
+retribuitur.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

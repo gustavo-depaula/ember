@@ -1,0 +1,128 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De comparatione Christi ad florem et Mariae ad virgam</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeCoChA</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De comparatione Christi ad florem et Mariae ad virgam</head>
+<p>
+          <pb n="1031A"/>Virgo Dei genitrix virga est, flos Filius ejus; quia
+recte dicitur virga beata Virgo Maria, virga recta,
+<pb n="1031B"/>
+virga erecta et in coelum usque porrecta, virga gracilis,
+virga flexibilis, virga florigera, virga fructifera.
+Recta per fidem, erecta per speciem, procera per
+longanimitatem; per humilitatem gracilis, per compassionem
+flexibilis, per virginalem conceptionem
+florigera, per partum salutis fructifera. Virgo Dei
+Genitrix virga est, flos Filius ejus. O quam bene,
+quam recte flos dicitur, qui ex virga virginali producitur!
+Quid flore tenuius, quid flore tenerius? Quid
+ad tactum lenius, quid ad portandum levius? Quid
+flore formosius, quid flore fragrantius, quid flore
+fructuosius si effectum attendimus? In flore namque
+mellificatio, ex flore fructificatio. Ex flore itaque favus
+et fructus. In favo mel et cera, in fructu potus
+et esca. Si parva sunt ista, addo quia et in flore est
+<pb n="1031C"/>
+medicina. Quid namque flore tenuius, cum astringitur;
+quid tenerius, cum atteritur; quid lenius,
+cum attrectatur; quid levius, cum portatur; quid
+speciosius, cum aspicitur; quid fragrantius, cum
+odoratur; quid utilius, si effectus attenditur? Septem
+itaque sunt quae in flore miramur, tenuitatem,
+<pb n="1032A"/>
+teneritudinem, lenitatem, levitatem, pulchritudinem,
+odorem, utilitatem. Ex his itaque collige virginis
+<pb n="1032B"/>
+ille Filius qualis invenitur ab illis quibus in
+florem vertitur. Nam qui incredulis et praevaricatoribus
+est lapis offensionis et petra scandali, flos est
+spe et amore inhaerentibus illi; flos utique mirabilis,
+spe et utilitate singularis; flos, inquam, est
+Filius virginis. Flos tenuis ad indignationem, tener
+ad miserationem, mansuetudine lenis, damnatione
+levis, pulcher per conversationem, fragrans per
+repromissionem, utilis per remunerationem. Est
+ergo tenuis in flagellis, tener in misericordiis, lenis
+in donis, levis in praeceptis, pulcher in exemplis,
+fragrans in promissis, fructuosus in praemiis. Hic
+flos factus est nobis medicina, ex illo mel et cera, in
+ipso potus et esca. Medicina in redemptione, potus et
+esca in justificatione, mel et cera in glorificatione.
+<pb n="1032C"/>
+Ex hac medicina sanitas sempiternae incorruptibilitatis;
+ex ejus esca refectio internae satietatis; ex
+ejusmodi potu ebrietas aeternae securitatis; de illius
+cera splendor summae claritatis; in ejus melle dulcor
+indeficientis felicitatis.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

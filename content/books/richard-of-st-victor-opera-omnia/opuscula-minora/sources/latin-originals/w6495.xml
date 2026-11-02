@@ -1,0 +1,438 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De spiritu blasphemiae</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeSpBl</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De spiritu blasphemiae</head>
+<p>
+          <pb n="1185D"/>Quae in Evangelio leguntur de spiritu blasphemiae,
+obscura, ut dicis, et perplexa sunt valde. Expetis
+autem et exspectas audire ex me quid sentiam inde.
+Sed periculosa praesumptio de suo ingenio praesumere,
+quod praeclarissima ingenia non intactum,
+<pb n="1186D"/>
+sed indefinitum reliquerunt. Solius Domini est certe
+quando, et cui voluerit, ejusmodi revelare. Ut autem
+verum fatear, videtur mihi durum valde petitioni
+tuae omnino deesse. Super hoc igitur involucro si
+videtur aliquid, quaerendo, non diffiniendo loquamur.
+<pb n="1187A"/>
+Sunt qui se fatentur nescire quid sit spiritus blasphemiae.
+Audacter tamen affirmant quod hoc genus
+culpae omnino sit inexpiabile, adeo ut quisquis in
+hoc semel lapsus fuerit, de caetero omnino salvari
+non possit. Sunt autem et alii summae auctoritatis
+viri, qui nullum peccatum credunt inexpiabile, nisi
+quod impoenitentia facit irremediabile. Hinc est illa
+aestimatio putantium quod per impoenitentiam fit,
+peccatur in Spiritum sanctum, quia in eo specialiter
+agitur contra ipsum per quem omnis est
+remissio peccatorum. Sunt qui putant quod hoc
+sit peccatum in Spiritum sanctum, de Dei misericordia
+desperare propter immanitatem scelerum. Sed
+qui ejusmodi est, si iterum ad veritatem redeat et
+veraciter poeniteat, quis ei veniam patere contradicat?
+<pb n="1187B"/>
+Attende ergo quod hominibus desperatis sola
+impoenitentia claudit viam salutis. Habere autem
+animum obstinatum, sunt qui putant peccatum in
+Spiritum sanctum esse. Secundum eos autem idem
+est obstinatio quod summa animi obduratio, qui
+adeo obduratus sit ut de caetero poenitere non possit.
+Sed quid in se eis aufert locum indulgentiae, nisi
+pertinacia impoenitentiae? Quod ergo diximus de
+desperatis, dicamus et de obstinatis, quod impoenitentia
+claudit eis viam salutis. Sed et alii qui peccatum
+in Spiritum dicunt irremediabile malum, hac
+ratione id fieri affirmant, quia sic statim obdurantur,
+ut deinceps poenitere non valeant. Sed juxta hoc eo
+ipso omni remedio carent quod poenitere non valent.
+Attende ergo quod in hoc unum concurrit
+<pb n="1187C"/>
+horum omnium sententia, quod sola impoenitentia
+facit peccata insolubilia.</p>
+<p>Notandum autem quod dicunt impoenitentes
+in Spiritum sanctum peccare, non tamen dicunt
+omnes impoenitentes spiritum blasphemiae
+habere. Juxta id autem quod in Scripturis sanctis
+specialiter attribuitur potentia Patri, sapientia
+Filio, bonitas vero Spiritui sancto: juxta hoc,
+inquam, dicunt quod peccare per infirmitatem
+sit peccare in Patrem; peccare vero per ignorantiam,
+sit peccare in Filium; per solam autem
+peccare malitiam, sit peccare in Spiritum sanctum.
+Et qui per infirmitatem vel ignorantiam peccant sicut
+aliquid excusationis habent in culpa, sic aliquid
+<pb n="1187D"/>
+remissionis accipiunt in poena. Sed qui per solam
+malitiam peccantes in Spiritum sanctum delinquunt,
+nil ejusmodi remissionis accipiunt, et non remittitur
+eis in hoc saeculo, nec in futuro. Si enim poenitent,
+debetur eis plena satisfactio; si non poenitent, plena
+damnatio. Sed quamvis per malitiam peccantes dicantur
+in Spiritum sanctum peccare, non tamen dici
+possunt hujusmodi omnes sicut nec omnes impoenitentes
+spiritum blasphemiae habere. Ex verbis sane
+Dominicis perpendere possumus quod hoc genus
+culpae sit prae omnibus detestabile. Quaeramus itaque
+diligentius quid sit illud peccati genus quod est
+prae omnibus detestabilius. Quaedam hominum peccata
+specialiter pertinent ad corruptelam propriam,
+sicut ebrietas et stupra; quaedam specialiter ad
+<pb n="1188A"/>
+proximi injuriam, sicut homicidia et furta; quaedam
+specialiter ad contumeliam divinam, quemadmodum
+blasphemia. Sed quis nesciat quod contumelia Creatoris
+sit detestabilior caeteris?</p>
+<p>Sed si quis blasphemet tormentis compulsus, vel
+per ignorantiam deceptus, quis neget tolerabilius
+quam si blasphemet malitia sola ductus? Malignitate
+ergo blasphemia prae caeteris est pessima. Est autem
+in hoc genere sceleratissimum, et in quo malitia
+crescit ad summum, quando quis in Dei vituperiis
+delectatur, et in eis gloriatur. Quid est blasphemia,
+nisi vituperatio divina? Ad hoc autem quisque aspirat
+quod valitudo affectat, multumque desiderat.
+Quid ergo aliud videtur spiritus blasphemiae quam
+affectatio et desiderium vituperationis divinae? Miratur
+<pb n="1188B"/>
+quis et forte non credit quod adhuc malitiae
+articulum humana corruptibilitas ascendere, imo
+descendere possit. Sed quem hujusmodi cogitatio
+pulsat, audiat quid de hujusmodi hominibus Dominus
+dicat: <hi>Nunc autem oderunt me et Patrem meum <note>(Joan. XV)</note>
+          </hi>.
+Pro certo quod quisque odit, hoc improbat,
+hoc vituperat, hoc et ab aliis odio haberi
+et vituperari desiderat. Hinc est quod qui ejusmodi
+erant, de Christo dicebant quod immundum spiritum
+habebat <note>(Matth. III)</note>. Pro certo non ista dicebant
+quia verum esse credebant. Nam assidue videbant
+fieri ab eo quae nemo facere posset, nisi Deus
+esset cum illo. Ideo tamen dicebant, quia in eum
+quem odio habebant aliorum odia et vituperia concitare
+volebant. Attende ergo quam sint contrarii
+<pb n="1188C"/>
+spiritus isti, spiritus blasphemiae et spiritus Dei.
+Spiritus blasphemiae aspirat ad odium Dei; Spiritus
+sanctus inspirat amorem Dei. Nam <hi>charitas Dei diffusa
+est in cordibus nostris per Spiritum sanctum qui datus
+est nobis <note>(Rom. V)</note>
+          </hi>. Vides ergo quomodo spiritus
+blasphemiae Spiritui sancto adversatur, et semper
+in contrarium nititur. De hoc spiritu dicit Dominus
+quod <hi>non remittetur hominibus <note>(Matth. XII)</note>
+          </hi>.
+Ad idem respicit quod alias dicit: <hi>Qui blasphemaverit
+in Spiritum sanctum, non habet remissionem in
+aeternum, sed reus erit aeterni delicti <note>(Marc. III)</note>
+          </hi>. Ex
+his Domini verbis, ut credo, assertionis suae argumentum
+trahunt, qui spiritum blasphemiae malum
+irremediabile omnino dicunt. Credo Augustinum ista
+<pb n="1188D"/>
+legisse, tamen multo aliter quam istos sensisse.
+Quod Dominus per Prophetam ait: <hi>Convertam in
+profundum maris <note>(Psal. LXVII)</note>
+          </hi>. Augustinus, intelligit
+de hominibus desperatissimis. Alias autem dicit
+quod obstinatos Dominus doctores facit in eo quod <hi>mittit crystallum sicut buccellam 
+ <note>(Psal. CXLVII)</note>
+          </hi>. In
+libro Retractationum seipsum accusat vel potius
+excusat, quod de peccato in Spiritum sanctum quodam
+loco minus caute scripserat, quod tamen putando
+potius quam affirmando dixerat. Ibi aperte
+dicit quod de quocunque pessimo in hac vita constituto
+non est desperandum, quin potius pro ipso
+orandum, quoniam non impudenter pro eo oratur de
+quo non desperatur. Quid enim est dicere esse genus
+peccati de quo homo [non] possit veniam consequi?
+<pb n="1189A"/>
+quid, inquam, aliud est hoc dicere quam ejusmodi hominem
+docere ut desperet, et cum Cain dicat: <hi>Major
+est iniquitas mea quam ut veniam merear? <note>(Gen. III)</note>
+          </hi>.
+Quis audeat ut dicat modum humanae malitiae, modum
+excedere misericordiae divinae? Dicit Psalmista
+de Domino: <hi>Quod copiosa apud eum redemptio <note>(Psal.
+CXXIX)</note>
+          </hi>. Sed quomodo, quaeso, copiosa erit, si est peccati
+genus quod nunquam in aliquo dissolvit? Ecce
+finis miseriae nostrae juxta quosdam invenitur, de
+quo nullus ad Dominum convertitur, contra illam sententiam
+qua dicitur: <hi>Reminiscentur et convertentur
+ad Dominum omnes fines terrae <note>(Psal. XXI)</note>
+          </hi>. Nonne
+satius esset humiliter fateri Dominica illa verba se
+parum intelligere quam sua expositione aliquos ad
+desperationem trahere? Nonne satius est in magni
+<pb n="1189B"/>
+illius (magistrum Hugonem loquor) nostri temporis
+theologi sententiam pergere, quam aliquibus pontem
+misericordiae praecidere, et in desperationis profundum
+dejicere? Superius eam breviter praelibavimus,
+nunc juxta ejus tenorem in explanandarum considerationem
+pergamus.</p>
+<p>Secundum evangelistam Matthaeum audis dicentem
+Dominum: <hi>Omne peccatum et blasphemia remittetur
+hominibus, spiritus autem blasphemiae non remittetur;
+et quicunque dixerit verbum contra Filium
+hominis remittetur ei; qui autem dixerit contra Spiritum
+sanctum, non remittetur ei, neque in hoc saeculo,
+neque in futuro <note>(Matth. XXI)</note>
+          </hi>. Prius generalem sententiam
+ponit, postea excipienda excipit. Ponit remissibilia,
+<pb n="1189C"/>
+excipit irremissibilia. Spiritus, inquit,
+blasphemiae non remittitur eo quod hoc malum in
+se nil habeat excusationis, nihil meretur accipere
+excusatoriae remissionis. Quod de hoc malo dixit,
+hoc idem adjungit de quolibet verbo in Spiritum
+sanctum prolato: Quicunque, inquit, dixerit verbum
+contra Spiritum sanctum, non remittetur ei, neque
+in hoc saeculo, nec in futuro. Quid hic dicturi sunt
+qui omnem vel semel in Spiritum blasphemantem
+aeternae damnationi addicunt! Nunquid dicturi sunt,
+quod omnis, qui qualecunque verbum contra Spiritum
+sanctum dixerit in aeternum peribit? Quod
+si abhorrent hoc dicere, exponant nobis quomodo
+oporteat intelligere quod dicitur de verbo contra
+Spiritum sanctum prolato, quia non remittetur in
+<pb n="1189D"/>
+hoc saeculo, vel in futuro. Nam, si dicturi sunt hoc
+malum esse expiabile, juxta aliquid tamen irremissibile,
+videant ne idem dici possit de spiritu blasphemiae.
+Aliud est enim peccatum esse inexpiabile,
+atque aliud juxta hoc quod hic accipitur esse irremissibile.
+Peccatum diaboli inexpiabile est, quod
+nullo remedio expurgari potest; illud autem hominis
+peccatum non incongrue irremissibile dici poterit,
+cui nulla poenae relaxatio sit, quae in peccatis
+actualiter similibus fieri contingit. Ecce unam eamdemque
+blasphemiam unus facit ex coactione, alius
+ex aliqua deceptione, tertius ex sola malignitate.
+Ecce in tribus culpa, quantum ad actionem, per omnia
+similis. In duobus tamen accipit aliquid remissionis,
+quoniam habet aliquid excusationis. In tertio
+<pb n="1190A"/>
+nullam accipit ejusmodi remissionem, quoniam nullam
+habebit excusationem. Primus, ex his peccat
+in Patrem, secundus in Filium, tertius (illi cui non
+remittitur) peccat in Spiritum sanctum, hoc est quod
+Dominus dicit secundum evangelistam Marcum: <hi>Qui
+blasphemaverit,</hi> inquit, <hi>in Spiritum sanctum non
+habet remissionem in aeternum <note>(Marc. III)</note>
+          </hi>. Quod dicitur
+remissio dari vel non dari secundum mutuum
+respectum accipientium, vel non accipientium, pro
+eodem opere debet intelligi. Nam de districtiss ma pro
+eadem blasphemia aliquid remittitur blasphemantibus
+in Patrem et Filium, nihil vero blasphemantibus in
+Spiritum sanctum. Bene ergo dicitur de eo qui blasphemaverit
+in Spiritum sanctum quod non habet
+remissionem in aeternum. Quoniam si poenitet, nihil
+<pb n="1190B"/>
+ei de plenitudine districtissimae expiationis; si non
+poenitet, nihil ei remittitur de plenitudine districtissimae
+damnationis. Quod merito hoc fiat consequenter
+adjungitur, cum dicat: Sed est reus aeterni delicti.
+Quod dicit idem valet ac si apertius diceret:
+Idcirco remissionem non habet, sed nec habere debet,
+quia non est reus ejusmodi delicti cui debeat
+aliquid remitti. Sed est reus delicti omnium pessimi,
+quoniam reus aeterni delicti, et talis cui non
+debeat aliqua determinate remissionis relaxatio
+fieri sicut superius docuimus, hoc est in Spiritum
+sanctum blasphemare, ex sola malignitate verbum
+blasphemiae proferre. Sed talis blasphemia nunquam
+potest fieri delictum sine detestabili et exsecrabili
+odio Dei, procul dubio Dei odium delictum est aeternum.
+<pb n="1190C"/>
+Aeternum delictum dici quod nunquam excidit,
+quod in perpetuum esse contingit. Pro certo
+sicut nunquam excidit amor Dei, sic nunquam excidit
+odium Dei: <hi>Charitas,</hi> inquit Apostolus, <hi>nunquam
+excidit <note>(I Cor. XXIII)</note>
+          </hi>. Quod ab Apostolo de Dei amore
+dictum est, de Dei etiam odio dici potest. Et,
+sicut Dei amor recte dici potest meritum aeternum,
+sic et odium Dei merito dicitur delictum aeternum.
+Quod dicitur de charitate quia nunquam excidit,
+non est intelligendum quod semel habita amitti non
+possit sed quod, contra fidei et spei proprietatem in
+aeternum esse non desistit. Sic sunt quaedam mala
+quae locum habent solummodo in hac vita, sicut
+adulteria et furta, quaedam vero et in hac vita simul
+<pb n="1190D"/>
+et futura. Nam qui cum Dei odio ex hac vita discedit,
+sub eodem morbo in aeternum tabescit, et qui in
+aeternum odit, in aeternum delinquit, et sine cessatione
+delinquendo meretur quod sine cessatione
+patiatur. Qui igitur reus est divini odii, reus est
+aeterni delicti. Sed, sicut superius est demonstratum,
+blasphemia quae est in Spiritum sanctum
+nunquam est praeter Dei odium. Merito ergo dicitur
+de blasphemo hujusmodi quod sit reus aeterni delicti.
+Quidam autem ad id quod Dominus dicit, addunt
+de suo quod Dominus non dicit. Dominus dicit quod
+sit reus aeterni delicti; isti dicunt quod sit aeternaliter
+reus aeterni delicti. Qui enim dicit ejusmodi
+hominem nulla ratione posse veniam promereri,
+nonne dicit eum aeternaliter reum esse aeterni delicti?
+<pb n="1191A"/>
+Sed forte hoc isti ex eo colligunt quod ex Dominica
+voce audiunt. Qui blasphemaverit in Spiritum
+sanctum non habet remissionem in aeternum. Sed
+nunquid non idem dictum est ab eodem Domino de
+verbo contra Spiritum sanctum dicto? Qui dixerit,
+inquit, verbum contra Spiritum sanctum non remittetur
+ei, neque in hoc saeculo, neque in futuro.
+Quot, quaeso, homines poterunt inveniri qui audeant
+ut dicant nunquam verbum aliquod contra Spiritum
+sanctum dixisse. Nunquid caeteri omnes desperandi
+sunt qui hoc dicere non praesumunt? Nunquid de
+semetipsis desperare debent qui hoc dicere non audent?
+Sed si per hujusmodi doctrinam bos vel asinus
+in puteum desperationis cadat, timeo ne animalium
+Dominus animalium hominum pretium de manu
+<pb n="1191B"/>
+doctoris, imo dejectoris requirat.</p>
+<p>Sunt autem quidam temporaliter rei temporalis
+et transitorii delicti, et sunt quidam aeternaliter rei
+temporalis et transitorii delicti. Item sunt alii aeterni
+delicti aeternaliter rei. Cur non sint et alii aeterni
+delicti temporaliter rei? Adulterium in tempore
+actualiter fit et transit, et adulterantem reum constituit,
+sed temporaliter reum si veraciter poenituerit,
+aeternaliter autem si poenitere noluerit. Qui
+cum Dei odio de hac vita transit, aeterni delicti
+aeternaliter reus erit. Sic et delictum quod, juxta
+quod diximus, potest dici aeternum, veraciter poenitentem
+nonnisi ad tempus constituit reum. Siquidem
+possunt esse aeternaliter rei temporalis delicti
+juxta divinam justitiam, cur non aliqui credantur
+<pb n="1191C"/>
+esse ad tempus rei aeterni delicti juxta divinam
+misericordiam? Miserationes ejus super omnia opera
+ejus. Ejus siquidem miserationibus nihil est mirabilius,
+et eo ipso super omnia opera ejus. Consideremus
+adhuc quid Marcus de suo adjungat ad ea quae
+Dominus dixerat: <hi>Quoniam dicebant,</hi> inquit, <hi>Spiritum
+immundum habet <note>(Marc. III)</note>
+          </hi>. In his verbis videtur
+evangelista rationem reddere; unde contingit
+Dominum de pessimo genere blasphemandi ista disserere.
+<pb n="1192A"/>
+Ostendit ergo evangelista quod idcirco Dominus
+eos doceret de blasphemia quae remissionem
+non habet, quoniam dicebant quod spiritum immundum
+haberet. Absque omni ambiguo ista Christi
+contumelia erat detestabilis blasphemia. Sed istud,
+quaeso, blasphemiae verbum fuit contra ipsum hominis
+Filium, an contra Spiritum sanctum? Sed si
+dicitur contra Filium hominis esse, erit verbum remissibile;
+si contra Spiritum sanctum, erit irremissibile.
+Sed si dicitur remissibile verbum, nihil ad
+eam blasphemiam quae non habet remissionem in aeternum,
+et juxta hoc quod evangelista subjungit, nihil respondet
+ad Dominica verba quae praemisit. Compellit
+itaque cohaerentia dictorum credere Christi calumniatores
+blasphemasse in Spiritum sanctum. Quid
+<pb n="1192B"/>
+ergo dicemus? Nunquid in illum peccabant quem
+non vituperabant, et in illum non blasphemabant
+quem verbis suis profanabant? Quis ad ista idoneus?
+Auctoritate itaque simul et ex ratione possumus
+aperte colligere Christi profanatores non per ignorantiam,
+sed per solam malitiam tam nequiter blasphemasse.
+Intelligebant absque omni ambiguo neminem
+posse talia signa facere nisi Deus esset cum
+illo. Quoniam ergo per solam malitiam blasphemabant,
+in eum cui bonitas specialiter attribui solet,
+peccabant, et eo ipso quantum ad id genus peccati
+acerbissimae poenae alleviatione et remissione indigni
+erant. Nam, si per ignorantiam peccassent et
+in ipsum qui Dei sapientia est deliquissent, in puniendo
+<pb n="1192C"/>
+peccato remissius ageretur cum ipsis, et in
+eo reciperent aliquid remissionis. Ex his Domini
+verbis manifeste colligitur quod quaedam quae omnibus
+personis communia sunt, quibusdam personis
+non sine magno mysterio appropriantur. Multa
+sunt adhuc circa haec Dominica verba diligenti investigatione
+digna. Verum hoc melius atque consultius
+profundioribus ingeniis relinquimus. Super
+eo quod a me quaesisti dixi quod potui. Si insipiens
+factus sum, tu me coegisti.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

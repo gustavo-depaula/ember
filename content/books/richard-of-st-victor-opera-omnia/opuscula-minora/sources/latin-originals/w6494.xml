@@ -1,0 +1,758 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De sacrificio David prophetae</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeSaDaP</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De sacrificio David prophetae</head>
+<p>
+          <pb n="1031C"/> <hi>Holocausta medullata offeram tibi cum incenso
+<pb n="1031D"/>
+arietum; offeram tibi boves cum hircis <note>(Psal. LXX)</note>
+          </hi>.
+Videamus, si placet, quid sibi velint hujusmodi sacrificia,
+caro arietina, caro bovina, caro hircina.
+Puto namque haec omnia in figura esse dicta. Alioquin
+si in his omnibus carnaliter sapitis, si solam
+litteram attenditis, attendite quid dicatur vobis: <hi>Nunquid manducabo carnes taurorum, aut sanguinem
+hircorum potabo? 
+ <note>(Psal. XLIX.)</note>
+          </hi> In carnalibus igitur
+Judaeorum sacrificiis nihil carnaliter sapiamus,
+sed quae juxta litteram carnem sapiunt spiritualiter
+discutiamus. Nunquam enim carnem arietinam, bovinam,
+vel hircinam Propheta Domino velut pro
+magno promitteret, nisi in his aliquid magnum, Dominoque
+admodum gratum adumbrari perspexisset.
+Aries est animal admodum mansuetum, quod coram
+tondente obmutescit, et non aperit os suum. In
+<pb n="1032C"/>
+hoc ipso itaque formam mansuetudinis gerit, quae
+<pb n="1032D"/>
+inter pressuras et contumelias patientiam custodit.
+Vultis audire quanta sit virtus mansuetudinis, vel
+quae sit retributio hujus muneris? <hi>Mansueti autem,</hi> 
+inquit, <hi>haereditabunt terram: et delectabuntur
+in multitudine pacis <note>(Psal. XXXVI)</note>
+          </hi>. Quantum, quaeso,
+est aeternam haereditatem accipere, et cum pace
+possidere? Sed quali pace? Delectabuntur, inquit,
+in multitudine pacis. Parum fuit ei dicere, delectabuntur
+in pace, sed delectabuntur, ait, in multitudine
+pacis, quia pacis illius non erit finis. Est autem
+aries dux gregis. Oportet ergo per virtutem
+mansuetudinis formam se exhibere totius congregationis,
+ita ut sit in exemplum omnibus aliis, qui
+vult esse auctor hujus muneris. Probatam ergo
+mansuetudinem et omnibus imitabilem habere, hoc
+est arietem offerre; probata autem virtus corripit
+<pb n="1033A"/>
+insipientes. Ecce de ariete, videamus nunc de bove.
+Bos, ut novimus, sponte inclinat collum suum ad
+portandum jugum. Haec est forma obedientiae quae
+se solet semper, et debet subdere voluntati alienae.
+Quemadmodum igitur in ariete probata mansuetudo,
+sic in bove intelligitur voluntaria subjectio. O quale
+quantumque sacrificium suam voluntatem omnino
+postponere, et totum se ad alienum arbitrium exponere,
+nihil sibi de semetipso reservare! O quam confidenter
+crucifixo astabit, qui se propter ipsum ad omnem
+obedientiam subdit! Cum quanta conscientiae securitate
+verus obediens ad thronum gratiae illius accedet,
+qui factus est Patri obediens usque ad mortem,
+mortem autem crucis! Cum quantis tropaeis de stadio
+hujus vitae exibit, qui semetipsum propter Christum
+<pb n="1033B"/>
+penitus abjicit, et alienae servituti addicit, juxta
+Salomonis sententiam: <hi>Vir obediens loquitur victorias <note>(Prov. XI)</note>
+          </hi>.
+Profecto hoc loquitur quod operatur.
+Quanta victoria vincere peccatum! Quanta victoria
+vincere seipsum, vincere mundum, vincere diabolum!
+Sic omnia vincit qui propriam voluntatem evincit,
+qui cervicem suam obedientiae jugo libenter supponit.
+Bovem itaque offerre est voluntariam subjectionem
+libenter exhibere. Ecce de carne bovina. Videamus
+nunc quid sentiendum sit de carne hircina.</p>
+<p>Scimus satis quae sit illa virtus quae hominem
+facit sibi ipsi vilescere, et quasi in suis naribus fetere.
+Hircus sane habet odorem fetidum, et quasi
+hircum Domino offerimus per voluntarium contemptum.
+<pb n="1033C"/>
+Sicut in bove itaque voluntaria subjectio, sic
+in hirco apte figuratur voluntaria abjectio. Semetipsum
+ergo ad omnem vilitatem et abjectionem propter
+Dominum exponere, et infirmitatem suam
+humiliter recognoscere, est Domino hircinam carnem
+offerre. Ejusmodi caro quanto minus sapit palato
+humano, tanto magis sapit palato divino. Excelsus
+enim Dominus et humilia respicit, et alta a longe
+cognoscit. Ecce jam diximus quid sibi velint hujusmodi
+sacrificia, caro arietina, caro bovina, caro
+hircina. Arietina caro, probata mansuetudo; bovina
+caro, voluntaria subjectio; hircina caro, voluntaria
+abjectio. Haec sunt sacrificia medullata, sacrificia
+Domino admodum grata. Medulla intra ossa latitat,
+et impinguat. Virtutum medulla, intentio bona;
+<pb n="1033D"/>
+virtutum medulla, devotio intima. Ex bona namque
+intentione, ex intima animi devotione virtutes
+irrigantur, et ad perseverantiae robur solidantur.
+Sacrificia itaque medullata, obsequia devota. Sit ergo
+devota mansuetudo nostra, sit obedientia nostra,
+sit humilitas nostra devota, ut sit medullata quaelibet
+oblatio nostra. Ecce habemus quales hostias
+Domino offerre debeamus. Ecce habemus quales
+epulas ei apponamus, cum volumus. Puto quia si ex
+designatis animalibus tria ei fercula opponimus,
+gratam admodum ei coenam exhibere poterimus: <hi>Ecce ego,</hi> 
+ inquit, <hi>pulso ad ostium: si quis aperuerit
+mihi, intrabo ad ipsum, et coenabo cum illo <note>(Apoc.
+IV)</note>
+          </hi>. Introducamus cum interim ad coenam nostram,
+ut quandoque introduci mereamur ad coenam suam.
+<pb n="1034A"/>
+Si qui autem sunt in vobis viri divitiarum quibus
+parum sit tria tantummodo ei ad similitudinem David
+fercula apponere, studeant juxta exemplum Abrahae,
+quartum et quintum superaddere. Quinquepartitum
+namque sacrificium Domino Abraham
+obtulit, sicut ex ipsius Domini institutione accepit;
+accepta namque promissione Abraham de terra Chananaeorum
+quam in suis haeredibus possessurus erat,
+nimio familiaritatis ausu quam apud Dominum habebat,
+signum in hoc ipsum a Domino humiliter quaerebat: <hi>Domine Deus,</hi> 
+ inquit, <hi>unde scire possum quod
+possessurus sim eam?</hi> Et Dominus Abraham: <hi>Sume,</hi> 
+inquit, <hi>mihi vaccam triennem, et capram trimam, et
+arietem annorum trium: turturem, et columbam <note>(Gen. XV)</note>
+          </hi>.
+Fecit Abraham quod ex divina institutione
+<pb n="1034B"/>
+accepit, et super hostias suas accepto coelitus
+igne, signum quod concupierat obtinuit. Quia ignem
+coelitus accepit, signum profecto magnae dilectionis
+fuit, et merito sperandi majora magnam fiduciam
+praebuit: minora namque beneficia libenter impensa
+dant ausum absque dubio praesumendi majora. Sic
+arrhas accipimus, ut conventionis certitudinem inconcussam
+teneamus. Divinae ergo promissionis quasi
+quaedam arrha Abrahae, fuit ignis ille coelitus
+missus, qui suas hostias absumpsit. Puto quia et
+nos si ignem coelestem, si ignem divinitus missum
+acceperimus, de divinis promissionibus jam ulterius
+omnino dubitare non poterimus: <hi>Ignem,</hi> inquit, <hi>veni
+mittere in terram; et quid volo, nisi ut ardeat? (Luc.
+<pb n="1034C"/>
+XII.)</hi> Sed quando hunc ignem Jesus de summis attulit,
+nunquid in terris tunc temporis ignis defuit, aut
+forte bonus non fuit? Invenit absque dubio ignem
+terrestrem, attulit autem ignem coelestem. Illum venit
+exstinguere, istum vehementer accendere. Omnis
+amor ignis est, sed non omnis amor bonus est. Malus
+ignis amor saecularis, amor carnis, amor turpitudinis.
+Bonus ignis amor spiritualis, amor veritatis,
+amor virtutis. Bonum itaque est illum exstinguere,
+bonum nihilominus istum accendere, et diligenter
+nutrire. Bonus ignis, ignis charitatis, ignis bonus
+et vehementer nutriendus. Hic est ignis qui de coelis
+venit, qui super discipulos in igneis linguis descendit: <hi>Charitas Dei,</hi> 
+ dicit Apostolus, <hi>diffusa est in cordibus
+nostris per Spiritum sanctum qui datus est nobis</hi> 
+<pb n="1034D"/> <note>(Rom. V)</note>.
+Ecce ignis qui coelitus mittitur; ecce ignis
+qui nonnisi divinitus datur. Absque dubio qui
+hunc ignem acceperit, de aeternae haereditatis promissione
+ulterius dubitare non poterit. Profecto
+ubi charitatis abundantia est, diffidentiae locus esse
+non potest. Perfecta enim charitas foras mittit timorem.</p>
+<p>Vultis autem apertius nosse quia qui hunc ignem
+accipiunt, de aeternae haereditatis promissione haesitare
+non possunt: <hi>Charitas,</hi> inquit, <hi>omnia suffert,
+omnia credit, omnia sperat <note>(I Cor. XIII)</note>
+          </hi>. Quomodo namque
+de divinis promissis diffidat, quae omnia credit,
+quae omnia sperat? Puto quia coelestem hunc ignem
+Propheta acceperat, quando dicebat: <hi>Credo videre
+bona Domini interra viventium <note>(Psal. XXVI)</note>
+          </hi>. Et Abrahae
+<pb n="1035A"/>
+quidem Chananaeorum terra repromittitur, et quasi
+arrha quadam in igne desuper misso accepta in spei suae
+cercitudine solidatur. Quoniam igitur Abrahae dictae
+sunt promissiones, si volumus ejusmodi promissionum
+cohaeredes existere, satagamus designatum
+ignem a Domino precibus obtinere. Cogitemus quale
+sit terram lacte et melle manantem in haereditatem
+accipere, et eam de manibus Chananaeorum violenter
+eripere. Res utique grandis, et valde difficilis.
+Novit hoc patriarcha, et bene novit; et idcirco
+tantae promissionis confidentiam signo confirmari
+quaesivit. Sed quae est ista terra, putamus, quae
+lacte et melle manat, quae tanta dulcedine tota redundat?
+Ubi, quaeso, est haec terra? Ubi quaerenda,
+vel quo invenienda? De regno coelorum catholica
+<pb n="1035B"/>
+fides certissime agnovit quod intra nos sit. Sed
+coelum illud quod intra non est, cur non habeat sui
+generis terram, quemadmodum et illud quod cernitur
+habet terram suam? Si intra nos est regnum
+coelorum, cur non et intra nos sit terra viventium?
+Certe haereditas illa quae spiritualibus promittitur,
+spiritualis esse comprobatur. Si vultis, terra est;
+si vultis, coelum est. Terra propter stabilitatem,
+coelum propter sublimitatem. Si spirituales sumus,
+si spiritualiter sapimus, terram hanc lacte et melle
+manantem quaeramus interius, non exterius. Quaeramus
+itaque quae ista terra sit, quae cultores suos
+mira dulcedine reficit, dulcedine potat, dulcedine
+pascit. Scimus autem quia cum caetera elementa semper
+in motu sint et nunquam quiescere possint, sola
+<pb n="1035C"/>
+terra uno in loco subsistit, et summa se quiete componit.
+Scimus nihilominus quia timor solet semper mentem
+concutere, securitas autem stabilire, et ad quietem
+componere. Formam igitur terrae in eo ipso conscientiae
+securitas gerit quae cor humanum semper ad
+quietem colligere consuevit. Haec terra multa prorsus
+dulcedine manat, quia cordis jucunditatem conscientiae
+securitas parat. Promissionis terra, conscientia
+secura; terra melliflua, conscientia jucunda. Merito
+talis terra Chananaeis aufertur, merito talis terra
+Judaeis confertur. Pessimum hominum genus omnium,
+qui tunc temporis fuerunt in terra, genus
+Chananaeorum. Optimum hominum genus omnium,
+qui tunc temporis fuerunt in terra genus Hebraeorum.
+<pb n="1035D"/>
+Videtis quod haec terra sit aut valde
+malorum, aut valde bonorum. Profecto securitatem
+conscientiae non valent vel solent, nisi aut valde
+mali aut valde boni, habere. Vultis apertius nosse
+quomodo ejusmodi terram soleant valde mali possidere?
+Sunt impii qui ita securi sunt ac si opera habeant
+justorum <note>(Eccle. VIII)</note>. Impius enim cum venerit
+in profundum malorum contemnit <note>(Prov.
+XVIII)</note>. Scimus nihilominus quia perfecta charitas
+foras mittit timorem, et e vestigio intromittit securitatem.
+Si enim cor nostrum non reprehenderit
+nos, fiduciam habeamus apud eum. Vides certe
+quod securitatem conscientiae facit aut magna perversio,
+aut magna perfectio. Conscientia mala atque
+secura in valde malis; conscientia bona atque secura
+<pb n="1036A"/>
+in valde bonis; conscientia mala, sed non secura
+in non valde malis; conscientia bona et non secura in
+non valde bonis. Quandiu ergo conscientia est secura
+et mala, adhuc sunt Chananaei in terra. Cum autem
+coeperit esse conscientia secura et bona, noveris jam
+Judaeos morari in terra. Securitatem enim conscientiae
+non solet omnino facere, nisi aut multa enormitas
+vitiorum, aut magna perfectio virtutum. Haec est
+haereditas illa quam omnino oportet de manibus
+Chananaeorum eripere, et ab omni labe vitiorum
+summo studio purgare. Haec est haereditas illa quae
+fluit lacte et melle, quia securitas conscientiae solet
+mentem humanam laetitia et exsultatione replere.
+Lactis et mellis dulcedine refici nos voluit, qui
+dixit: <hi>Laetamini in Domino et exsultate justi (Psal.
+<pb n="1036B"/>
+XXXII)</hi>. Securitas falsa facit gaudium falsum, securitas
+vera gaudium verum. O quale quantumque
+gaudium habet bonae conscientiae testimonium! <hi>Gloria nostra,</hi> 
+ inquit, <hi>haec testimonium conscientiae
+nostrae <note>(II Cor. I)</note>
+          </hi>. In lacte et melle intellige duplex
+gaudium, conscientiae securae et bonae. Geminum
+sane gaudium integra conscientia parit, gaudium
+de beatitudine corporis, gaudium de beatitudine
+mentis. Ex hac gemina retributione gaudemus interim
+in spe, in futuro autem gaudebimus in re; lac
+de carne profluit, mel cum rore de coelo descendit.
+Lactea dulcedo quidem de carne trahitur, quando
+ex corporis beatitudine gaudium et exsultatio oritur.
+Melliflua dulcedo velut e coelo defluit, quando
+de mentis incorruptibilitate inaestimabilis quaedam
+<pb n="1036C"/>
+gratulatio surgit. Lac est et illa dulcedo quam hauriemus
+in contemplandis creaturis; mel autem est
+illa quae mentem inebriat ex contemplatione Creatoris.
+Nonne et hoc erit lac sugere, de inspecta Christi
+humanitate gaudere? Nonne et hoc erit summae
+dulcedinis melle refici, de inspecta Christi divinitate
+in immensum gloriari? In lacte quidem dulcedo
+sola, non tamen summa; in melle vero dulcedo et
+sola et summa. Quid enim melle dulcius? In contemplanda
+Christi humanitate jucunditas quidem
+magna, non tamen summa. In contemplanda autem
+ejus divinitate jucunditas et sola et summa. Pertinet
+ad beatitudinem hominis exterioris exterioribus
+oculis videre in Deo naturam humanam. Pertinet
+<pb n="1036D"/>
+vero ad beatitudinem hominis interioris interioribus
+oculis videre in homine naturam divinam. In lacte
+ergo intellige quidquid beatificae dulcedinis corporeis
+sensibus corporea substantia subministrat. In
+melle accipe quidquid glorificae jucunditatis in corporeis
+sensibus incorporea substantia distillat</p>
+<p>Quid itaque aliud erit terram lacte et melle manantem
+in haereditatem accipere, quam geminae
+beatitudinis aeternam securitatem in aeternum possidere?
+Si igitur hujusmodi promissionnes cum fideli
+Abraham haereditare cupimus ad spei nostrae certitudinem,
+coelestem illum quem superius designavimus
+ignem velut pro signo petamus. Nam, sicut
+superius docuimus, cor quod charitatis igne plene
+incanduerit, nulla ignorantiae nebula, nullus diffidentiae
+<pb n="1037A"/>
+torpor involvere poterit. Sed qui ad similitudinem
+Abrahae ignem coelitus missum optat accipere,
+studeat aeque et ipse simile sacrificium offerre.
+Jubetur itaque Abraham, uti jam dictum est, sumere
+vaccam triennem, et capram trimam, et arietem
+trium annorum, turturem quoque et columbam <note>(Gen. XV)</note>.
+Videamus modo quid sibi velit hoc sacrificium
+Abrahae, vel in quo videatur a jam dicto illo
+David sacrificio differre. Quid, quaeso, est quod Dominus
+a summo patriarcha non bovem, sed vaccam
+quaerit? Nunquidnam in hoc genere hostiarum plus
+feminam quam masculum diligit? Forte sic est.
+Neque enim a tanto amico exigeret quod minus ipse
+diligeret. Si mystice dicta mystica interpretatione
+discutiantur, puto palam fieri ratum inveniri quod
+<pb n="1037B"/>
+dicitur: Scimus de bove quia jugum portare potest,
+lac autem dare non potest. Contingit vero vaccam
+utrumque facere, et lac dare, et domini sui jugum
+portare. O quale sacrificium, et obedientiae jugum
+humiliter portare, et inter quaelibet obedientiae ardua
+cordis dulcedinem servare, et nil aliud quam
+lacteum dulcorem per verba distillare! Multi cum
+dura sibi praecipiuntur molestum quidem habent,
+nec tam dulciter quam fortiter sustinent. Scimus
+autem quia masculinus sexus quam femininus fortior
+est; sed lac tamen dare non potest. Bovem
+itaque facit obedientia fortis, vaccam vero obedientia
+dulcis. Bovem offerre est obedire viriliter,
+vaccam offerre est obedire gratanter. Bovem offerimus
+obediendo constanter, vaccam offerimus obediendo
+<pb n="1037C"/>
+gratulanter. Caro bovina, obedientia robusta,
+caro vaccina, obedientia jucunda. Qui igitur potest,
+carnem offerat vaccinam; qui hoc non potest, offerat
+bovinam. Qui neutrum potest ex istis, offerat
+saltem vitulum de armentis. Vitulus sane ad jugum
+portandum nutritur, interim tamen ad ipsum
+non applicatur. Quod autem interim non portat,
+non est ex vitio recalcitrationis, sed ex defectu possibilitatis.
+Si igitur obedientiam non profiteris,
+non quia non vis, sed quia non possis: vitulum
+voves et solvis. Quid enim intelligimus per vitulum,
+nisi obediendi propositum, quemadmodum
+in bove et vacca obedientiae exercitium? Si igitur
+vaccam vel bovem offerre non potes, offer vel
+<pb n="1037D"/>
+vitulum, quem, cum integre volueris, ad manum
+habere potes. Certe si non potes habere obedientiae
+officium vel usum, potes habere obedientiae propositum,
+potes habere obedientiae desiderium; et cum
+volueris, offerre potes ejusmodi vitulum. Qui matrimonio
+juncti sunt, non statim obedientiam profiteri
+possunt, cum volunt. Matrimonio namque juncti,
+sine alterutra licentia non possunt ab invicem separari,
+et ideo nec obedientiam profiteri. Vitulum
+ergo offerant qui ejusmodi sunt, qui obedientiae jugum
+pro mentis arbitrio subire non possunt. Hinc
+est quod pro peccato ignorantiae in lege unctus,
+sacerdos jubetur vitulum offerre. Sacerdos unctus,
+praelatus charitate praeditus. Sacerdos unctus, praelatus
+erga proximum pius et erga Deum devotus.
+<pb n="1038A"/>
+Ejusmodi sacerdos, quanto subjectos suos verius diligit,
+tanto eorum errata vehementius insectatur et
+odit. Sed saepe dum eorum culpas minus discrete
+percutit, dum percussorum vires pensare nescit, vel
+negligit, charitatem in eis minus caute feriens exstinguit.
+Per ignorantiam itaque peccat, quando
+malum unde amputare debuerat accumulat. Sacerdos
+igitur qui indiscrete agendo dum bonum intendit
+per errorem delinquit, vitulum pro peccato suo
+offerat, et obediendi potius quam imperandi desiderium
+de caetero habeat, qui creditum sibi regiminis
+officium ad plenum prout oportet dispensare non
+posse, per experientiam jam probat. Quid enim est
+aliud eum vitulum offerre, quam male jam et desiderare
+subesse potius quam praeesse, et obedientiam
+<pb n="1038B"/>
+aliis potius exhibere quam ab aliis exigere.
+Offert igitur vitulum de armentis, qui fieri jam optat
+quasi unus ex subjectis.</p>
+<p>Notandum sane quod sacerdos per ignorantiam
+peccans jubetur pro peccato non bovem, sed vitulum
+offerre, ne pastoralem curam quam semel accepit
+audeat temere et inconsulte abjicere. Debet
+ergo qui ejusmodi est, subjectionis locum non tam
+subire quam ambire, non tam arripere quam desiderare,
+et hoc erit non tam bovem quam vitulum
+offerre. Amorem ergo praelationis ab affectu suo
+abscindat, praelationis tamen officium propter timorem
+Dei et utilitatem proximi teneat, donec opportunum
+et rationabilem exitum inveniat, et interim
+pro peccato suo vitulum per subjectionis desiderium
+<pb n="1038C"/>
+offerat. Illud autem quid esse dicimus quod David
+non bovem, sed boves promittit, de manibus vero
+Abrahae Dominus non vaccas, sed vaccam exigere
+voluit? Si plus est boves quam bovem promittere et
+exsolvere, cur non et aeque majus sit vaccas quam
+vaccam in Dei sacrificio exhibere? Sed nunquid in
+sacrificio Abrahae debemus credere aliquid minus a
+perfecto esse potuisse? Cui ergo perfectio jure ascribitur,
+si summo patriarchae denegatur? Quis autem
+dicat vel Dominum tantum amicum ad optima non
+instituisse, vel tantum virum ad perfectionis instituta
+animum promptum non habere? Ut autem
+breviter dicam quid in bove vel bobus sentiam, hoc
+est, ut mihi videtur, bovem offerre, manum suam ad
+<pb n="1038D"/>
+debitam obedientiam plene exsolvendam fortiter
+extendere. Haec hostia geminatur, quando et ad debitam
+et ad indebitam obedientiam operationis
+nostrae manus viriliter extenditur. Pene omnes cum
+ad religionem venimus, obedientiam cum determinatione
+promittimus, nam obedientiam secundum
+ordinem profitemur. Non est ergo in praelati potestate
+ad ea quae supra professionis suae ordinem
+sunt, subjectum suum violenter cogere. Debitum
+namque est quod praecipitur secundum ordinem, indebitum
+quod est supra professionem. Boves itaque
+cum Propheta offerimus, quoniam et debitam et indebitam
+obedientiam animo nostro extorquemus,
+et constanter exhibemus. Vaccas autem veraciter
+tunc offerimus, quando utramque obedientiam non
+<pb n="1039A"/>
+solum aequanimiter, sed etiam delectabiliter exsolvimus.
+Quomodo ergo ad Abraham sola vacca requiritur,
+vel a tanto, ut dictum est, viro una tantum
+exsolvitur? Nam nec sola indebita obedientia ad
+debiti solutionem, nec sola debita sufficit ad perfectionem.
+Dicam certe, dicam quod super hac re
+animus mihi suggerit, judicet quisque quomodo voluerit.
+Potes, si volueris, nullam obedientiam indebitam
+tibi facere, et tunc non video quomodo Deus
+a te possit plus quam unam vaccam exigere. Si
+promittis coram Deo tuo, vel profiteris coram praelato
+tuo obedientiam ad omnia, jam tibi de reliquo
+nulla obedientia erit indebita, et pro debito obedientiae
+sufficit tibi solam vaccam offerre. Melius, ut
+mihi videtur, una sola vacca juxta hunc modum offertur,
+<pb n="1039B"/>
+quam cum hostia tua juxta praedictum modum
+geminatur. Nulla sane tibi obedientia videbitur
+gravis, vel importabilis, si illius exemplum
+perfecte aemularis qui factus est obediens Patri
+usque ad mortem, mortem autem crucis <note>(Philipp. II)</note>.
+Vaccam ergo in Domini sacrificio juxta Abrahae
+exemplum offerimus, si plenam ad omnia obedientiam
+promittimus, et cum gaudio exsolvimus.
+Prompti autem et parati simus quantum in nobis
+est, non solum melioribus, vel aequalibus, verum
+et pejoribus talem obedientiam exhibere, et constabit
+nos procul dubio juxta Dominicum praeceptum
+vel documentum vaccam triennem obtulisse. Hostiam
+talem, vaccam profecto triennem, offerre nos
+<pb n="1039C"/>
+voluit qui dixit: <hi>Subjecti estote humanae creaturae
+propter Deum <note>(I Petr. II)</note>
+          </hi>. Ecce de vacca, nunc
+videamus de capra. Sed facile est, ni fallor, ex superioribus
+colligere, cur maluit Dominus ab Abraham
+capram potius quam hircum exigere. In hirco
+vel capra intelligitur voluntarius contemptus. Capra
+autem lac praebere solet, non hircus. Capram ergo
+offerre est contemptum suum magna cordis dulcedine
+sustinere. Est autem, ut dictum est superius,
+fortior sexus masculinus quam femininus. Hircus
+ergo non capra offertur, cum sui contemptus a
+quolibet non tam gaudenter suscipitur, quam fortiter
+sustinetur. Qui ergo capram non potest, offerat
+vel hircum; qui horum potest neutrum, offerat
+vel haedum. Haedus tenera res est, et qui sine lacte
+<pb n="1039D"/>
+matris vix vel nullo modo vivere potest. Haedum
+itaque offert, qui contemptum suum aegre quidem
+et cum magna molestia sustinet, alienae tamen
+consolationis lacte recreatus patientiam sibi extorquet.
+Dum itaque contemptum suum alius sustinet
+patienter, alius fortiter, alius gratanter, unus
+haedum, alter caprum, alius capram offerre videtur.
+Si igitur contemptus patientiam amplecteris, offers
+haedum de capris. Offers caprum contemnendo contemptum
+tuum. Offers capram exhilarescendo ad
+illatam injuriam. Capra, ni fallor, erat oblatio eorum
+de quibus habetis in Actibus apostolorum: <hi>Ibant apostoli gaudentes a conspectu concilii, quoniam
+digni, habiti sunt pro nomine Jesu contumeliam pati <note>(Act. V)</note>
+          </hi>.
+Si autem pauperculus es, et ad oblationem
+<pb n="1040A"/>
+caprae vel hirci non sufficis, offer saltem haedum de
+capris. Haedinis certe carnibus Jacob patrem suum
+satiavit, et fratri debitam benedictionem accepit.
+Audis benedictionem, attende et qualem: <hi>Det tibi
+Deus,</hi> inquit, <hi>de rore coeli, et de pinguedine terrae,
+abundantiam frumenti, et vini, et olei, et serviant tibi
+populi, et adorent te tribus. Esto dominus fratrum
+tuorum, et incurventur ante te filii matris tuae. Qui
+maledixerit tibi, ille maledictus; et qui benedixerit
+tibi, benedictionibus repleatur <note>(Gen. XXVII)</note>
+          </hi>. Qui igitur
+cupit talem benedictionem haereditare, audiat
+consilium Rebeccae: <hi>Affer,</hi> inquit, <hi>mihi duos haedos
+optimos, ut ex eis faciam escas patri tuo, quibus libenter
+vescitur <note>(ibid.)</note>
+          </hi>. Vides certe quod duos eum
+haedos parare oporteat, qui ad tantam benedictionem
+<pb n="1040B"/>
+anhelat. Certe cum male agis, juste contemneris.
+Et quid aliud quam haedinas carnes offers si
+patientiam amplecteris? Qui autem etiam inter bona
+opera contemnitur, et tamen patientiam amplectitur,
+hostiam suam geminare videtur. Geminos itaque
+haedos offerre, est tam justum quam injustum
+contemptum patienter sustinere. Geminum autem
+hircum tunc quivis offerre videtur, quando ad justum
+et ad injustum contemptum fortiter sustinendum
+promptus invenitur. Capras autem offerre, est
+ad utrumque contemptum mente hilarescere, et inter
+quaslibet injurias, quamlibet injustas, cordis
+dulcedinem corde retinere. Sed qui cum beato Job
+veraciter dicere potest: <hi>Neque enim reprehendit me
+<pb n="1040C"/>
+cor meum in omni vita mea <note>(Job XXVII)</note>
+          </hi>, nescio quomodo
+in hoc genere sacrificii possit geminari illius
+hostia.</p>
+<p>Quomodo enim, quaeso, justum contemptum incurrere
+valet, quem sua conscientia in nullo remordet?
+Merito ergo Dominus ab Abraham unam tantum
+capram quaesivit, cujus vita irreprehensibilis fuit, et
+qui ab aliis nonnisi indigne contemni potuit. Merito
+David suam in hac parte hostiam duplicavit, qui
+inter multa bona quae egit, gravissima etiam quaedam
+mala commisit. Habuit itaque in vita sua et
+unde juste et unde nonnisi injuste reprehendi vel contemni
+potuisset, unde et necesse fuit ut suam hostiam
+in Domini sacrificio geminaret. Felix qui sic
+vivit, ut non sit unde ab aliis jure reprehendi possit.
+<pb n="1040D"/>
+Sufficit ei qui ejusmodi est caprum unum offerre, et
+injustum contemptum aequanimiter sustinere. Capra
+autem tunc est perfecti viri oblatio, cum injuste
+spretus suscipit cum gaudio. Contemnimur sane
+modo a superioribus, modo a coaequalibus, modo ab
+inferioribus. Debemus autem quorumlibet derisus et
+opprobria injusta libenter, imo et gratulanter suscipere,
+et hoc erit, ut arbitror, capram trimam offerre.
+Ecce de vacca, ecce de capra. Superest adhuc
+considerare de oblatione arietina. Bidens animal
+mansuetum est, et idcirco, ut jam docuimus, potest
+hujusmodi animal mansuetudinem figurare. Pecudem
+ergo offers, cum mansuetudinem exhibes. In te autem
+est utrum velis agnum vel ovem sive arietem
+offerre, et in Domini sacrificium ponere. Agnus, ut
+<pb n="1041A"/>
+novimus, lac non tam fundit quam sugit. Econtrario
+autem ovis non tam sugit quam fundit. Aries vero
+neutrum horum solet facere, quin potius cornibus
+ferire. Agnum itaque facit, qui ex alienae consolationis
+dulcedine ad mansuetudinis gratiam proficit.
+Ovem autem in Domini sacrificio exhibet, qui
+blandae consolationis, et piae sollicitudinis studio
+alios ad mansuetudinis gratiam promovet. Arietem
+vero tunc veraciter offerimus, si in spiritu lenitatis
+delinquentes corripimus, et pro Domino zelantes
+contra praevaricatores piae severitatis cornibus
+saevimus. In agno itaque intelligimus mansuetudinem
+trepidantem, in ove mansuetudinem blandientem, in
+ariete mansuetudinem zelantem. In agno mansuetudinem
+timoratam, in ove mansuetudinem piam, in ariete
+<pb n="1041B"/>
+mansuetudinem severam. Agnum offers humiliter
+acquiescendo, ovem devote blandiendo, arietem pie
+increpando. Itaque in mansuetudine suscipite insitum
+verbum quod potest salvare animas vestras, et
+agnum obtulistis. Confortate manus fatigatas et genua
+dissoluta roborate, et ovem sacrificatis. Juxta
+Apostolum autem argue, obsecra, increpa <note>(II Tim.
+IV)</note> virtute mansuetudinis ubique servata, et erit
+aries, ut arbitror, oblatio tua. Puto jam non miraris
+cur Dominus in hoc genere hostiae masculinum sexum
+ab Abraham exegerit, qui in aliis hostiarum
+generibus femininum praeelegit. Non est mirum vel
+insolitum animum mansuetudine fundatum cordis
+dulcedinem corde servare, et juxta ovis similitudinem
+<pb n="1041C"/>
+conceptam dulcedinem quasi lac quoddam
+effundere, et per verba distillare. Sed hoc vere
+magnum, hoc vere mirandum, cum cor mansuetum
+et pium sibi extorquet pro Domino zelata, et increpationis
+cornibus delinquentes ferire.</p>
+<p>Quantum ad me attinet plus miror, vel malo unum
+arietem juxta Danielis somnium ventilantem contra
+Occidentem, et contra Aquilonem, et Meridiem,
+quam plures oves lacte abundantes. O quale quantumque
+sacrificium erit pro veritatis testimonio,
+nec sibi ipsi quidem parcere, sed pro rectitudinis
+zelo persequentium furorem contra se sponte provocare.
+O quale sacrificium suas injurias cum mansuetudine
+pati, libenter oblivisci, domini injuriis
+vehementer indignari, et increpationis cornibus saeviendo
+<pb n="1041D"/>
+fortiter ulcisci! Hoc est, ut arbitror, arietem
+offerre, et in Domini sacrificio ponere. Sed merito
+et hoc in loco, juxta superiorem modum. quaeritur
+cur ab Abraham unus tantum aries exigitur, cum
+David propheta majus aliquid proponere vel promittere
+videatur, in eo quod dicitur: <hi>Holocausta
+medullata offeram tibi cum incenso arietum <note>(Psal.
+LXV)</note>
+          </hi>. Non dicit cum incenso arietis, sed cum incenso
+arietum. Sed, sicut in caprae immolatione
+docuimus quia quandoque juste, quandoque injuste
+contemnimur, sic sane modo juste, modo injuste
+affligimur, et vicissim justam vel injustam persecutionem
+patimur. Qui igitur justam persecutionem quoties
+incurrit cum mansuetudine tolerat, quasi unum
+qui ejusmodi est arietem in Domini sacrificium immolat.
+<pb n="1042A"/>
+Qui autem inter zelandum pro Domino modo
+juste, modo injuste affligitur, et utramlibet persecutionem
+sine mansuetudinis suae detrimento patitur,
+iste profecto hostiam suam geminare videtur. Qui
+vero sine querela sunt, et irreprehensibiliter vivunt,
+hi sane non habent unde hostiam suam geminare
+vel debeant vel valeant. Puto quia illis sufficiebat
+ad perfectionem unius tantum arietis oblatio, de
+quibus testimonium habemus ex Evangelio: <hi>Erant
+autem ambo,</hi> inquit evangelista, <hi>justi ante Deum
+incedentes in omnibus mandatis et justificationibus
+Domini sine querela <note>(Luc. I)</note>
+          </hi>. Animadvertis, ut arbitror,
+quod majus sit unum arietem juxta hunc
+modum offerre, quam juxta praedictum modum hostiam
+suam geminare. Ille vero trium annorum arietem
+<pb n="1042B"/>
+Domino immolat, qui non solum in potentiores
+vel aeque potentes, sed etiam potentiores liberae increpationis
+cornibus impugnat, quoties zelus rectitudinis
+hoc exigit, vel regula veritatis dictat. Ecce
+jam diximus quid de vacca, quid de capra, quid demum
+de ariete sentire debeamus. Ex his itaque, ut
+arbitror, animadvertitis qualia fercula in Domini
+mensam parare debeatis. Sed, si Domino mensam
+locupletem volumus exhibere, debemus ad similitudinem
+Abrahae ex turture et columba adhuc quartum
+vel quintum ferculum superaddere. Studiis igitur
+perfectae operationis adjungamus etiam studia contemplationis.
+Illa sane ad quadrupedia, ista pertinent
+ad volatilia. Quadrupedia in terra degunt, volatilia
+<pb n="1042C"/>
+pennis se in alta sustollunt. Per actionem quasi in
+terra conversamur, per cogitatum et desiderium in
+sublimibus suspendimur. Quasi igitur pennata animalia
+Domino offerimus, quoties ex devotionis officio
+ad futurorum considerationem penna contemplationis
+volamus. Per turturem et columbam intellige
+contemplationem geminam. In turture contemplationem
+aeternorum malorum, in columba contemplationem
+aeternorum bonorum. Hae autem aves non
+tam canere quam gemere solent, et gemitum pro
+cantu habent. Sicut in penna gratiam contemplationis,
+sic in earum cantu vel gemitu intellige virtutem
+compunctionis. Debemus itaque hinc inde aeterna
+mala vel bona meditari, contemplari et in eorum
+consideratione compungi, et hoc erit turturem et
+<pb n="1042D"/>
+columbam offerre, et pro parte hostiam nostram duplicare.
+Turtur solitudinem diligit, et solivagus incedit,
+et in hoc formam timoris gerit, qui semper
+diverticulum quaerit. Columba gregatim volat, et ex
+eo formam dilectionis ostentat, quae corda semper
+conciliat, et in unam pacis concordiam ligat. In
+turture igitur compunctio timoris, in columba attenditur
+compunctio amoris. Si aeterna mala meditaris,
+et in eorum consideratione non compungeris,
+turturis pennas habes, sed turturis cantum non
+habes. Si in aeternorum bonorum contemplatione
+defigeris et in eorum desiderio inardescis et lacrymas
+fundis, profecto columbinum et volatum et
+cantum te habere ostendis.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

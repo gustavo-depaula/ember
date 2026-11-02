@@ -1,0 +1,1303 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De potestate ligandi et solvendi</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DePoLiE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+
+<pb n="1159C"/>
+<p> <hi>Quodcunque ligaveris super terram, erit ligatum
+et in coelis, et quodcunque solveris super terram,
+erit solutum et in coelis <note>(Matth. XVI)</note>
+          </hi>. Quaeritis
+a me utrum haec ligandi et solvendi potestas,
+quae Petro apostolo in his verbis datur, eadem
+sit quae alibi omnibus apostolis, et in ipsis omnibus
+eorum vicariis in commune concedit, cum
+dicitur: <hi>Quorum remiseritis peccata, remittuntur
+eis, et quorum retinueritis, retenta sunt <note>(Joan. XX)</note>
+          </hi>.
+Dicitis namque quia de potestate ligandi atque solvendi,
+remittendi et retinendi peccata, similiter
+et de clavibus regni coelorum diversi diversa sentiunt,
+et alii alio modo, et aliter exponunt. Quaeritis
+itaque utrumnam apostoli eorumque vicarii
+<pb n="1159D"/>
+potestatem in illis Dominicis verbis acceperunt, ut
+homines a debito aeternae damnationis absolvere
+possint. Sunt namque, ut dicitis, qui hoc affirmant,
+sunt similiter et alii qui hoc ipsum negant. Unde
+et adhuc opponendo quaeritis, et quaerendo opponitis,
+si sacerdotibus datum est homines ab aeternae
+damnationis debito posse solvere, nunquid et eodem
+debito aliquos posse ligare? Ecce duo veniunt ad
+<pb n="1160C"/>
+sacerdotem, unus crimine obduratus et eo ipso ligatus,
+alius veraciter justus, et eo ipso solutus,
+nunquid potest vel ligatum solvere, vel solutum
+ligare? Nam non est solutio nisi ejus qui prius
+ligatus fuerat, nec ligatio nisi ejus qui prius solutus
+erat. Item ecce duo criminosi veniunt ad
+sacerdotem, unus vere poenitens, alter omnino
+impoenitens: nunquid potest, quaeso, impoenitentis
+peccata remittere, et vere poenitentis pro voto retinere?</p>
+</div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p>In primis itaque notandum quod peccatorum obligatio
+consideratur circa duo. Alia est ejus illa obligatio
+per quam homo obligatur ad culpam, et alia
+est illa per quam obligatur ad poenam. In uno obligatur
+<pb n="1160D"/>
+vinculo captivitatis. In altero vero obligatur
+debito damnationis. Si enim homo in aliquod grave
+peccatum ceciderit, jam non est in ejus potestate ut
+per semetipsum resurgere possit: per semetipsum
+potest a Domino recedere, sed per semetipsum non
+potest ad ipsum redire. Est siquidem, secundum
+Psalmistam, <hi>Spiritus vadens et non rediens. <note>(Psal.
+LXXVII)</note>
+          </hi>. Unde et illud ejusdem Psalmistae: <hi>Beatus
+<pb n="1161A"/>
+vir qui non abiit in consilio impiorum <note>(Psal. I)</note>
+          </hi>. Hinc
+est quod obligatio culpae dicitur mors animae; quia,
+sicut per mortem exteriorem corpus restringitur ab
+operibus quae sunt ad vitam, sic anima per obligationem
+culpae mortificatur ad opera quae sunt ad
+vitam aeternam. Sed homo semel vinctus atque captivatus
+utinam teneretur ad solam captivitatem, sed
+quod miserrimum est tenetur etiam ad peccandi
+servitutem. Nam, <hi>qui facit peccatum servus est peccati <note>(Joan. VIII)</note>
+          </hi>.
+Unde fit ut quotidianas usuras exsolvat,
+et reatus sui debitum quotidie augescat. Inde est
+illa promissio, quam habetis in Psalmo: <hi>Ex usuris
+et iniquitate redimet animas eorum <note>(Psal. VII)</note>
+          </hi>. Culpae
+itaque obligatio versatur circa duo. In uno accenditur
+vinculum captivitatis, in alio debitum servitutis.
+<pb n="1161B"/>
+Ecce de obligatione culpae. Nunc autem videamus
+de obligatione poenae.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p>Ad cumulum namque miseriae tenetur praevaricator
+merito praevaricationis suae non solum vinctus
+ad culpam, verum etiam addictus ad poenam. Eo
+ipso siquidem quo illud committit quod quantum in
+se in aeternum corrigere non possit, et in ipsius injuriam
+qui in aeternum vivit, eo ipso, inquam, aeternae
+damnationis debitum incurrit. Damnatio autem
+aeterna in sacra Scriptura dicitur <hi>Mors secunda <note>(Apoc. XX)</note>
+          </hi>:
+nam, sicut ex obligatione culpae retrahitur
+anima a beneplacito divino, sic ex inflictione
+damnationis aeternae alienatur anima ab omni beneplacito
+<pb n="1161C"/>
+proprio. Hominem autem ejusmodi vinculis
+obligatum solus ille solvere potest qui vere omnipotens
+est, et omnia potest. <hi>Quae</hi> autem <hi>apud homines impossibilia
+sunt, possibilia sunt apud Deum <note>(Luc. XVIII)</note>
+          </hi>.
+Nullum namque cor tam lapideum, tam durum, vel
+obstinatum quod Dominus statim, cum voluerit, ad
+veram poenitentiam emollire non possit. Hinc est
+illud utique beati Joannis Baptistae: <hi>Potens est Dominus
+de lapidibus istis suscitare filios Abrahae <note>(Matth.
+III; Luc III)</note>
+          </hi>. Quando ergo ille qui omnia potest praevaricatorem
+ad veram poenitentiam compungit,
+quid aliud, quaeso, quam perpetualem culpam, et
+eo ipso perpetualem poenam terminabilem facit?
+Sic utique, sic transit poena in poenam, aeterna
+in transitoriam, et qui prius tenebatur debito damnationis,
+<pb n="1161D"/>
+modo jam tenetur debito expiationis.
+Ecce habetis quod poenae obligatio versatur circa
+duo. Aliud namque est debitum damnationis, et longe
+aliud debitum expiationis. Ecce jam aperte tenemus,
+sicut ex superioribus cognovimus, quod duo considerantur
+circa obligationem culpae, duo similiter
+circa obligationem poenae. Nam in culpae obligatione,
+ut dictum est, invenis vinculum captivitatis, et
+vinculum servitutis. Ex vinculo captivitatis illaqueatur
+ne redeat ad faciendum bonum, ex vinculo
+servitutis attrahitur, et exagitatur ad augendum
+malum. Utrumque autem ad damnationis augmentum.
+Similiter in obligatione poenae constat procul
+dubio geminum vinculum esse, vinculum damnationis,
+vinculum expiationis. Ex illo tenetur homo
+<pb n="1162A"/>
+ad poenam aeternam, ex isto ad poenam transitoriam,
+et ad illam quidem ad malum suum, ad istam ad
+bonum suum. Nam ex illa homo cruciatur, nec
+purgatur; ex ista vero sic torquetur ut purgetur.</p>
+<p>Et notandum quod captivitatis et servitutis obligatione
+tenetur unus idemque homo sub uno et
+eodem tempore, damnationis vero et expiationis
+vinculo nunquam tenetur unus idemque homo sub
+tempore uno. Nam eo ipso saepe expiationis debito
+tenetur quo damnationis debito absolvitur.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p>Sicut itaque est gemina obligatio, sic absque
+dubio est gemina solutio. Primam autem solutionem
+facit Dominus semper per semetipsum, secundam
+vero quandoque per se solum, quandoque per ministrum
+<pb n="1162B"/>
+suum. Obligationem namque culpae solus
+Dominus solet et valet dissolvere, operatur eam tamen
+quandoque cum nonnulla ministrorum suorum
+cooperatione. Haec tamen cooperatio non solet esse
+tantummodo sacerdotum, verum etiam aliorum. Nec
+hanc quidem cooperandi gratiam aliqui habent in potestate,
+sed modo isti, modo illi accipiunt, vel non
+accipiunt pro divina dispensatione. Soli autem sacerdotes
+licentiam quam in ligando et solvendo divinitus
+acceperunt habent in potestate, et possunt eam, prout
+ratio dictaverit, omni tempore exercere. Notandum
+autem quod sub uno eodemque momento ad consensum
+criminis consentientis animus triplici funiculo
+astringitur, et vinculis captivitatis, servitutis, damnationis,
+<pb n="1162C"/>
+quantum in se solo est, insolubiliter ligatur.
+Scimus namque quia <hi>funiculus triplex difficile rumpitur <note>(Eccle. IV)</note>
+          </hi>.
+Vere et absque dubio ad rumpendum
+difficilis est, qui nisi ab ipso solo qui est trinus et
+unus disrumpi non potest. Hic autem funiculus triplex
+ad rumpendum difficilis eo ipso disrumpitur,
+quo anima peccatrix ab eo qui omnia potest ad veram
+poenitentiam compungitur. Praevaricator itaque sub
+uno eodemque tempore solvitur a culpae obligatione
+et a debito damnationis aeternae. Ex eo enim quod
+ejus culpa finem accepit, simul et illud obtinuit, ut
+ejus poena finem accipere posset, et poena aeterna
+in poenam transitoriam transiret. Hinc est quod
+propheta David vere poenitens et dicens: <hi>Peccavi,</hi> 
+id statim ex prophetico oraculo accepit responsi:
+<pb n="1162D"/> <hi>Dominus quoque transtulit peccatum tuum 
+ <note>(II Reg.
+XIII)</note>
+          </hi>. Statim namque ad veram poenitentiam transit
+poena in poenam, aeterna in transitoriam, non purgatoria
+in purgatoriam. Hinc est prophetica illa tam
+vera quam nota sententia: <hi>Quacunque hora ingemuerit
+peccator, salvus erit <note>(Ezech. XXXIII)</note>
+          </hi>. Sub eo
+namque tempore quo salubriter ingemuit, causam
+veraciter obtinuit per quam salvari possit, si sub
+eodem momento de medio sublatus fuerit. In eamdem
+sententiam currere videtur quod per Psalmistam
+dicitur: <hi>Dixi: Confitebor adversum me injustitiam
+meam Domino, et tu remisisti impietatem peccati mei <note>(Psal. XXXII)</note>
+          </hi>.
+Ex hac prophetica sententia datur intelligi
+quod ad veram contritionem et confessionem
+cordis remittitur iniquitas veraciter poenitentis.</p>
+<p>
+          <pb n="1163A"/>Notandum diligenter quod non dicit, tu remisisti
+peccatum meum, sed, impietatem peccati mei. Quod
+enim iniquitatis est et impietatis, et procul dubio
+aeternam poenam merebatur, statim ad veram poenitentis
+animae contritionem remittitur, quamvis
+quod impuritatis est in ejus peccato postmodum per
+transitoriam poenam purgetur. Quid enim aliud intelligitur
+nomine impietatis quam specialis injuria
+Creatoris? Ab ipso enim sumus, ab ipso habemus
+quidquid boni habemus. Quid ergo magis impium,
+quid potest esse magis injuriosum quam contra tantae
+pietatis Dominum, et eum qui vivit in aeternum, illud
+improbe committere, quod, quantum in te est,
+non possis in aeternum corrigere? Impietas itaque
+peccati tunc veraciter remittitur, quando ad veram
+<pb n="1163B"/>
+praevaricatricis animae poenitentiam Creatoris injuria
+indulgetur, et cui aeterna poena debebatur, purgatoria
+sola et transitoria multatur. Notandum autem
+hoc loco quod infideles et criminosi baptisma
+cum fide suscipientes sic absolvuntur debito damnationis,
+ut non teneantur debito expiationis: fideles
+vero et criminosi post lapsum vere poenitentes
+sic absolvuntur debito damnationis, ut tamen teneantur
+sub debito expiationis.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p>Vera poenitentia est abominatio peccati cum voto
+cavendi, confitendi, satisfaciendi. Quatuor namque
+ista debet habere poenitentia vera. Duo ex his nos
+docet conscientia propria, reliqua duo doctrina authentica.
+<pb n="1163C"/>
+Quem enim propria conscientia non doceat,
+quod accepta injuria nec homo ab alio quam
+ab homine placari valeat, nisi eum de illata injuria
+poenitere et iterare nolle confidat. De remedio autem
+confitendi est illud beati Jacobi apostoli: <hi>Confitemini,</hi> 
+inquit, <hi>alterutrum peccata vestra <note>(Jac. V)</note>
+          </hi>.
+De exhibenda autem digna satisfactione, habet illud
+Joannis Baptistae: <hi>Facite,</hi> inquit, <hi>dignos fructus
+poenitentiae <note>(Luc. III)</note>
+          </hi>. Praevaricator itaque et poenitens
+debito confitendi et satisfaciendi tenetur quandiu
+divinitus tempus et opportunitas ei in hoc ipsum
+conceditur. Eget ergo sacerdotis absolutione quandiu
+datur hoc posse. Solus namque ille sub hac conditione
+non tenetur, cui exsequendi facultas divinitus
+denegatur. Ea quae hucusque jam diximus idcirco
+<pb n="1163D"/>
+praelocuti sumus, ut plenius intelligamus in
+liberatione et absolutione peccatorum quid Dominus
+faciat per seipsum solum, quid per se simul et
+ministrum suum, quid aliquando per ministrum
+suum solum. Nunc itaque illi considerationi diligentius
+insistamus, propter quod totum negotium
+suscepimus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+<p>Sciendum itaque quod sacerdotalis illa potestas
+ligandi atque solvendi maxime versatur circa geminum
+modum expiandi. Expiandi siquidem modus
+consistit in duobus. Nam, quia nullum peccatum
+impunitum, oportet ut expietur aut in hac vita juxta
+arbitrium sacerdotis per dignum poenitentiae fructum,
+aut in vita futura juxta divinum arbitrium
+<pb n="1164A"/>
+per ignem purgatorium. Habet itaque peccatrix
+anima a solo damnationis debito relaxata, et adhuc
+debito expiationis obnoxia; habet, inquam, et quomodo
+per sacerdotale officium possit utiliter ligari,
+et unde egeat misericorditer absolvi. Vere namque
+poenitens libenter subit judicium humanum ut merito
+evadere possit judicium divinum. Ligatur ergo
+per sacerdotem debito dignae satisfactionis, et absolvitur
+ab illo quod ignem meretur debito futurae purgationis.
+Eo ipso namque quo devote suscipit sententiam
+humanam, meretur evadere sententiam divinam.
+Ecce quomodo habes quod sub uno eodemque
+tempore homo solvitur atque ligatur. De hac ligandi
+atque solvendi potestate a Domino dictum intellige: <hi>Quodcunque ligaveris super terram erit ligatum et in
+<pb n="1164B"/>
+coelis, et quodcunque solveris,</hi> 
+ etc.</p>
+<p>Notandum autem quod quemadmodum in divina
+solutione transit poena in poenam, aeterna in transitoriam,
+sic in sacerdotali absolutione transfertur
+sententia in sententiam, divina in humanam. Utrobique
+ergo peccator solvitur, utrobique ligatur, sed
+ibi absolutio est causa obligationis, hic e converso
+obligatio est causa absolutionis. Hinc est quod cum
+ad Petrum dicitur: <hi>Quodcunque solveris super terram
+erit solutum et in coelis,</hi> praemittitur: <hi>Quodcunque
+ligaveris super terram erit ligatum et in
+coelis.</hi> Nam, uti jam diximus, eo ipso in posterum absolvitur
+a debito debitae animadversionis, quod hic
+interim ab homine ligatur debito praesentis satisfactionis.
+Ad hanc solvendi potestatem et illud pertinere
+<pb n="1164C"/>
+videtur quod a Domino apostolis omnibus, et
+in ipsis omnibus eorum vicariis, dicitur: <hi>Quorum
+remiseritis peccata remittuntur eis.</hi> Quid enim est
+peccata remittere, nisi districtionis sententiam
+quae peccatis debetur relaxando absolvere et absolvendo
+relaxare? Et quid est peccata retinere,
+nisi non vere poenitentes nolle absolvere? Multi
+enim confitentium absolutionem quaerunt, qui tamen
+crimina sua ex toto deserere nolunt. Multi cautelam
+de futuro promittunt, sed satisfacere nolunt.
+Ejusmodi omnes eo quod vere non poenitent, procul
+dubio absolvi non debent. Hoc est enim vere poenitere,
+de praeterita praevaricatione dolere cum firmo
+proposito confitendi, satisfaciendi et cum omni
+<pb n="1164D"/>
+cautela cavendi. In hunc modum poenitentes merito
+debent absolvi. Alioquin sine absolutione remitti,
+et hoc est peccata retineri.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p>Ecce ex his quae jam diximus manifeste intelligere
+poterimus in resolutione peccatorum quid Dominus
+faciat per semetipsum, quid per ministrum suum,
+quid vero per se simul et officio ministrorum. Per
+semetipsum sane solvit vinculum obdurationis, per
+se simul et ministrum suum, debitum aeternae damnationis,
+per ministrum vero debitum futurae purgationis.
+Primae namque resolutionis potestatem
+sibi soli reservavit; secundam vero resolutionem
+per se simul et ministrum facit; tertiam autem
+Dominus non tam per seipsum quam per ministrum
+<pb n="1165A"/>
+suum facere consuevit. Recte quidem dicitur
+quod Dominus vere poenitentem a vinculo damnationis
+absolvit, recte nihilominus quod sacerdos hoc
+facit. Et Dominus quidem ad confessionem cordis,
+et sacerdos ad confessionem oris. Sola enim cordis
+confessio poenitenti ad salutem animae sufficit veraciter,
+cum articulus necessitatis oris confessionem
+et sacerdotis absolutionem excludit: unde recte dicimus
+quod tunc Dominus absolvit. Sed quoniam
+oris confessio, et sacerdotis absolutio a vere poenitente
+exigitur quandiu divinitus ei in hoc ipsum
+facultas conceditur, recte quidem debitae damnationis
+absolutio etiam sacerdoti ascribitur. Ecce
+habemus cur hujusmodi absolutionem tam Domino
+quam ministro ascribimus.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+
+<pb n="1165B"/>
+<p>Nunc illud quidem dignum consideratione videtur,
+cur illa solutio quae est a debito futurae purgationis
+sacerdoti specialiter attribuitur. Sed scimus
+quod vere poenitens sine sacerdotis absolutione
+aeternam damnationem evadere potest, cum eam
+habere non potest. Sed non aeque dicimus quod sine
+sacerdotis absolutione et injuncta satisfactione debitum
+futurae purgationis vere poenitens evadere
+possit, quoties eas articulus necessitatis excluserit.</p>
+<p>Notandum quod vinculum damnationis Dominus
+solvit conditionaliter, minister vero Domini simpliciter,
+et, ut sic dicam, integraliter. Poenitentem
+namque a debito damnationis Deus absolvit sub tali
+<pb n="1165C"/>
+conditione, ut eum oporteat, prout potest, sacerdotis
+absolutionem quaerere, et ad ejus arbitrium debito
+more satisfacere. Nam, si facere neglexerit, periculum
+aeternum non evadit. Sacerdotis autem absolutione
+suscepta, et conditione qua tenebatur
+suppleta, etiamsi statim mori contigerit, aeternam
+damnationem evasit. Sed sicut debitum aeternae
+damnationis conditionaliter solvitur a Domino, sic
+pro certo debitum futurae purgationis conditionaliter
+solvitur a servo. Nam quilibet criminosus
+per sacerdotem absolutus tenetur sub conditione
+solvendae satisfactionis, ut possit evadere incendium
+futurae purgationis. Debitum itaque damnationis
+aeternae solvit sacerdos integre et absolute,
+debitum futurae purgationis sub conditione.
+<pb n="1165D"/>
+Nam firmum propositum satisfaciendi habentem, sive
+exsequendi tempus habeat, sive non habeat, absolutio
+sacerdotis liberat a debito damnationis, sed
+non aeque et a debito futurae purgationis.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Iterum et illud notandum, quod ad sacerdotale
+officium pertinet gemina ligatio sicut et gemina
+solutio. Alia est namque solutio qua solvunt poenitentes
+a debito damnationis, alia est illa qua solvunt
+ejusmodi a debito futurae purgationis. Sic alia
+est illa ligatio qua ligant veraciter poenitentes debito
+injunctae satisfactionis, et alia qua ligant intoleranda
+committentes, nec tamen poenitentes, vinculo
+anathematis. Illos ligant ut a periculosiori
+<pb n="1166A"/>
+vinculo absolvant, istos, ut ad poenitentiam adducant.
+De illa ergo absolutione qua praevaricator a
+debito damnationis absolvitur, intelligitur illud quod
+a Domino dicitur: <hi>Quorum remiseritis peccata remittuntur
+eis, et quorum retinueritis retenta erunt.</hi> 
+Nam valent et debent sacerdotes vere poenitentium
+et debitam satisfactionem suscipientium peccata
+remittere, et a debito damnationis absolvere, caeteros
+vero sine absolutione remittere. Sed et illud
+quod dicitur ad Petrum: <hi>Quodcunque ligaveris super
+terram, erit ligatum et in coelis, et quodcunque
+solveris super terram erit solutum et in coelis,</hi> de illa
+specialiter absolutione debemus intelligere qua solent
+sacerdotes et debent ligando absolvere et absolvendo
+ligare. Nam eo ipso solvunt poenitentes a
+<pb n="1166B"/>
+debito futurae purgationis, quo eos ligant debito praesentis
+satisfactionis.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>Constat itaque, quod superius jam diximus, quod
+illud vinculum quod est ad obligationem culpae,
+solus Dominus valet et solet per semetipsum solvere;
+illud autem quod est ad obligationem poenae,
+tum per semetipsum, tum per ministrum suum
+solet dirumpere. In resuscitatione autem Lazari
+invenies utrumque figurari. Hunc enim Dominus et
+ressuscitat per semetipsum, et solvit ministerio famulantium.
+Per ipsum ergo Dominum solvitur a vinculis
+interioribus, officio vero obsequentium a vinculis
+exterioribus. Quis nesciat quod mors membra
+morientium adeo insolubiliter ligat, ut nullum eorum
+<pb n="1166C"/>
+officium suum implere, sed nec ad modicum
+movere se valeat? Ab his vinculis Dominus Lazarum
+solvit, quando eum ad vitam animavit. Suscitato
+autem Lazaro et a mortis vinculis absoluto dicitur
+a Domino: <hi>Lazare, veni foras <note>(Joan. XI)</note>
+          </hi>. Quid
+est hominem prius sepultum foras venire, nisi mortali
+culpa obligatum quemlibet tenebrosum illud lapideae
+obdurationis suae latibulum sponte deserere?
+Et quid est institis vinctum foras prodire, et se
+oculis Domino assistentium ingerere, nisi his qui
+solvendi potestatem accipiunt, quibus peccatorum
+vinculis ad divinae ultionis sententiam astrictus teneatur
+per oris confessionem ostendere? <hi>Solvite,</hi> 
+inquit, <hi>eum, et sinite abire (ibid)</hi>. Bene autem de
+suscitato et ligato dicitur: Solvite eum, et sinite
+<pb n="1166D"/>
+abire. Si enim solutus prius non esset, liberam
+eundi et intrandi domum suam facultatem non haberet.
+Scimus absque dubio quia peccator et poenitens
+quousque debito damnationis, vel futurae
+purgationis tenetur nec solvitur, domum illam
+quam Paulus describit, intrare non poterit: <hi>Scimus,</hi> 
+inquit, <hi>quoniam si terrestris domus nostra
+hujus habitationis dissolvatur, quod aedificationem ex
+Deo habemus domum non manufactam aeternam in
+coelis <note>(II Cor. V)</note>
+          </hi>. Hanc domum post hujus terrestris
+solutionem libere intrat qui in hac vita minime
+contraxit quod in futura vita purgare oporteat.
+Alioquin oportebit ut prius debitum purgationis
+exsolvat. Si quis vero contraxit quod acerba
+<pb n="1167A"/>
+et diutina purgatione dignum fuit, si per injunctam
+et per expletam satisfactionem in hac vita absolvi
+meruit, soluta terrestris hujus habitationis domo in
+illam statim aeternae quietis mansionem laetus intrabit.
+Hinc ergo perpendi potest quomodo ingressum
+paradisi et januam coeli quam divina severitas
+criminaliter agentibus claudit, accepta divinitus
+potestas ligandi atque solvendi pastorali ministerio
+aperire consuevit. Potestas itaque ligandi atque
+solvendi videntur esse claves illae de quibus a Domino
+dictum est ad Petrum: <hi>Et tibi dabo claves
+regni coelorum.</hi> Ecce jam habemus quod quaerere
+proposuimus, habemus quae sit illa potestas ligandi
+atque solvendi sacerdotibus data, quomodo, vel
+quorum valeant et debeant remittere, vel retinere
+<pb n="1167B"/>
+peccata.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Sed adhuc pergis et dicis: Si non possunt quoslibet
+ligare pariter et absolvere, quorumlibet peccata
+remittere, quorumlibet retinere, quid est quod
+generaliter dicitur ad Petrum: <hi>Quodcunque ligaveris,
+quodcunque solveris?</hi> Similiter et generaliter
+proponitur quod apostolis omnibus in commune
+dicitur: <hi>Quorum remiseritis peccata, remittuntur
+eis, et quorum retinueritis, retenta sunt.</hi> Merito
+te haec quaestio moveret si Dominus Petro dixisset:
+Quodcunque volueris ligare ligatum erit,
+et quodcunque volueris solvere solutum erit;
+sed hoc non dixit, nec sic intelligi voluit. Si
+quis ligare voluerit quod ligare non potest, nunquid
+<pb n="1167C"/>
+idcirco ligatum erit? Quis hoc dicat? Non ergo
+dicit, quaecunque ligare volueris, sed, quodcunque
+ligaveris ligatum erit in coelis. Ille utique vere ligatur
+qui juxta confessionis suae tenorem justo satisfactionis
+debito obligatur. Ille sacerdotali officio veraciter
+absolvitur, cujus peccatum ad condignam satisfactionem
+juste remittitur. Ligat itaque et absolvit
+sacerdotis sententia justa, neutrum vero sacerdotis
+sententia injusta.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p>Sic sane peccata eorum pro certo remittuntur
+qui juste absolvi merentur, illorum vero
+peccata procul dubio retinentur, non quibus
+injuste, sed quibus juste peccatorum absolutio
+<pb n="1167D"/>
+denegatur. Quod igitur ad Petrum Dominus dicit,
+idem valet ac si aliis verbis diceret: Quod ligatum
+aut solutum fuerit a te, ligatum vel solutum erit et
+apud me. Qui a te debitae satisfactionis injunctione
+constringitur, apud me ejusdem satisfactionis debitor
+tenetur, et qui a te debitam peccatorum suorum
+absolutionem meruit, ex meo judicio pro hac
+parte ulterius arctari non poterit. Juxta hunc modum
+et id intelligere debemus quod dicitur apostolis
+omnibus: Quorum remiseritis peccata remittuntur
+eis, et quorum retinueritis retenta sunt. Peccata
+siquidem delinquentium apud Dominum remissa
+vel retenta erunt, quae per ministros suos sacerdotes
+juste vel remissa vel retenta sunt. Quod utrumque
+ab eis tunc veraciter fit, quando ad quodlibet
+<pb n="1168A"/>
+exsequendum canonico ordine incedunt: neutrum
+enim pro voto, sed pro merito et ordine instituto
+facere possunt. Exstat quorumdam de potestate
+ligandi atque solvendi sententia tam frivola, ut
+ridenda videatur potius quam refellenda. Putant
+enim et praedicant sacerdotes non habere potestatem
+ligandi atque solvendi, sed ostendendi homines esse
+solutos sive ligatos. Sed nunquid Dominus dicit:
+Quodcunque ligatum ostenderis erit ligatum, et
+quodcunque solutum ostenderis erit solutum? Dicunt
+apostolicos viros peccata remittendi vel retinendi
+potestatem non habere, cum Dominus hoc
+dicat. Dicunt eos tantummodo habere potestatem
+utrumque ostendendi cum Dominus hoc non dicat:
+Quorum remiseritis, inquit, peccata, non quorum
+<pb n="1168B"/>
+remissa ostenderitis, remittuntur eis. Dicunt, quia
+in remittendis vel retinendis culpis id juris et officii
+habent evangelici sacerdotes, quod olim sub lege
+habebant legales in curandis leprosis. Non autem
+habebant illi legales potestatem curandi, sed judicandi
+et ostendendi utrum essent an non essent
+qui putabantur leprosi. Ecce concedimus quod isti
+et illi idem habent officium, illi discernendi inter
+lepram et lepram, isti dijudicandi inter culpam et
+culpam. Et utinam quam vere id officii habent, tam
+digne et exercerent!</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+<p>Sed illud quaero, utrum accipiant ex ordinatione,
+an potius ex eruditione inter lepram et lepram, inter
+culpam et culpam posse discernere? Audaciter
+<pb n="1168C"/>
+dico, quia si sine discernendi scientia ad ordinationem
+accedunt, sine illa inde recedunt, et si cum
+illa eunt et redeunt, aliunde habuerunt. Constat
+itaque, quod consequens est, quia in ordinatione
+non accipiunt potestatem aliam, ergo nec aliquam.
+Ubi ergo erit illa potestas ligandi atque solvendi?
+Sed dicunt ad ista: Quid est culpa, nisi lepra? et
+quid est lepram mundare, nisi culpam amputare?
+Misit autem Dominus leprosum ad sacerdotem non
+ut eum mundaret, sed ut eum sacerdos mundatum
+ostenderet. Sed absque dubio neutrum Dominus
+jubet ut ad hoc vel illud iret: <hi>Vade,</hi> inquit, <hi>ostende
+te sacerdoti, et offer munus quod praecepit Moyses <note>(Matth., VIII)</note>
+          </hi>.
+Sicut non dicit: Vade ad sacerdotem
+<pb n="1168D"/>
+ut te mundum reddat, sic non dicit: Vade ad sacerdotem
+ut te mundum ostendat. Unum Dominus
+fecit, tria praecepit: leprosum mundavit, simul et
+praecepit ire, ostendere et offerre. Quid est leprosum
+mundari, nisi peccatorem quemlibet peccatorum
+suorum sordes abominari? Quid est mundatum
+leprosum ire, nisi prioris vitae statum relinquere,
+peccata prius perpetrata deserere? Sacerdoti
+autem se ostendere, est qualis prius fuerit,
+cujus propositi modo sit per confessionem aperire.
+Offert munus et quale Moyses instituit, qui ad omnem
+canonicae institutionis satisfactionem juxta
+sacerdotis arbitrium seipsum exponit. In primo
+consideratur odium peccati, in secundo votum continendi,
+in tertio propositum confitendi, in quarto
+<pb n="1169A"/>
+studium satisfaciendi. Votum continendi hoc loco
+large accipitur, non tantum continendi a libidine, verum
+etiam a quolibet crimine. Pro certo in vera poenitentia
+quatuor ista omnia sunt requirenda. Ubi
+aliquod horum deest, vera poenitentia non est, sine
+qua et peccatorum lepra mundari non potest.
+Quando Deus dat animae peccatrici odisse quod
+prius amabat, detestari quod antea desiderabat
+cum voto continendi, confitendi, satisfaciendi, efficitur
+statim emundatio integra et plena leprosi.
+Quid est autem leproso in leprae emundatione tria
+illa praecipere, nisi votum continendi, confitendi,
+satisfaciendi per internam aspirationem purgandae
+animae persuadere?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV</head>
+<p>
+          <pb n="1169B"/>Sed haec omnia, inquis, Dominus per semetipsum
+operatur. Quid ergo sacerdoti relinquitur? Multum per
+omnem modum, et vere magnum et valde magnum. Sicut
+aliud est resuscitare mortuum, et aliud solvere
+vinctum, sic aliud est leprosum mundare, et aliud ejus
+vincula solvere. Nunquid ergo, inquis, leprosus ille
+ligatus erat? Tu es magister in Israel et haec ignoras?
+Vere utique, vere ligatus erat durae necessitatis
+nodo, quo eum Moyses astrinxerat: <hi>Omni,</hi> inquit, <hi>tempore quo leprosus est et immundus, solus habitabit
+extra castra 
+ <note>(Levit. XIII)</note>
+          </hi>. O vinculum durum et
+valde detestandum, quo quis quandiu ligatur insolubiliter
+tenetur, ut ei omnino non liceat vel castra
+Christo militantium ingredi, vel ad propria reverti.
+<pb n="1169C"/>
+Nonne leprosum, sed mundatum sacerdos ligat et
+solvit? Ligat in reddenda debitae satisfactionis et
+purgationis hostia, solvit in indulta revertendi licentia.
+Et si vultis recipere, emundatio leprosi non est
+tantum una, sed terna. Unam ex his tantum
+facit Dominus per semetipsum, caeteras duas
+per ministrum suum. Sed quae sit leprosi haec trina
+emundatio, relinquatur interim lectoris judicio.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XV.</head>
+<p>Notandum autem in curandis leprosis quod quidam
+statim purgantur, et sic ad sacerdotem mittuntur;
+quidam vero mittuntur, et in eundo curantur.
+Sunt qui ad primam poenitentiae suae compunctionem
+habent animum promptum et paratum ad
+omne verae poenitentiae debitum solvendum. In
+<pb n="1169D"/>
+illis itaque nulla est emundationis mora, qui in
+ipsa compunctione sua gratiam accipiunt ad tria illa
+superius jam dicta, paratum animum habentes ad
+continendum, confitendum, satisfaciendum. Quidam
+vero ad poenitentiam compuncti, propositum
+quidem habent continendi, confitendi, sed ad condignam
+satisfactionem sunt tepidi. Hinc est quod
+de decem illis leprosis duo tantum praecipiuntur, de
+tertio vero tacetur: <hi>Ite,</hi> inquit, <hi>et ostendite vos sacerdotibus <note>(Luc. XVII)</note>
+          </hi>,
+nec eis praecipitur offerre aliquod
+munus. Tantum potuerunt, quantum divinitus
+acceperunt. Ut enim Dominus ostendat omnia bona
+nostra ab ipso esse, gratiam suam quandoque exhibet
+in uno, subtrahit in alio. Vides illud, ut credo,
+quam merito differtur emundatio quibus deest verae
+<pb n="1170A"/>
+poenitentiae plenitudo: <hi>Dum irent,</hi> inquit, <hi>mundati
+sunt <note>(ibid.)</note>
+          </hi>. Quid est ire, nisi proficere? Eunt igitur
+qui ex eo quod jam acceperunt proficiunt ad id posse
+quod prius non potuerunt. Qui ergo de perpetrato
+jam malo magis magisque jam dolendo per votum
+continendi et confitendi ad votum satisfaciendi proficiunt,
+et votum voto adjungunt, quia verae poenitentiae
+perfectionem jam tenent, peccati lepram velut
+eundo deponunt. Nota quod plures sunt quorum
+emundatio differtur comparatione eorum qui sine
+mora mundantur, quia magis abundant ad satisfactionem
+pigri, quam ad satisfactionem prompti.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVI.</head>
+<p>Ex ante jam dictis habemus quod sunt multi qui
+curantur in sacerdotis absentia. Sunt similiter nonnulli
+<pb n="1170B"/>
+qui curantur in sacerdotis praesentia. Nam et
+in resuscitatione Lazari praesentes erant et quibus
+solvendus fuerat. Alii itaque curantur sub ipsa missione,
+alii in ipsa profectione, alii vero in ipsa perventione.
+Ex his enim qui ad sacerdotem veniunt
+sunt multi qui solam voluntatem confitendi habent,
+sed voto continendi seu etiam satisfaciendi funditus
+carent. Adeo enim corrupti sunt jam ex prava consuetudine
+ut omnino diffidant se posse continere,
+vel ad satisfaciendum sufficere. Ejusmodi tamen
+nonnulli post multam sacerdotis exhortationem,
+seu etiam post longam disputationem, dum de sola
+Domini misericordia, non de propria industria praesumere
+docentur per visitantem gratiam ad veram
+<pb n="1170C"/>
+poenitentiam compuncti, in vitae novitate divinitus
+animantur. Perpendis ex his, ut credo, quam sit
+multis ejusmodi utile ad confessionem festinare.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVII.</head>
+<p>Sunt vero nonnulli qui praedictorum trium nullum
+habent, sed velut monumento lapideo, et lapide superjecto
+in Lazari modum mortui jacent. Lapideo
+monumento mortuus tenetur, qui in praevaricatione
+sua per multam animi obstinaciam obduratur. Lapidea
+moles in peccatis mortuo superponitur; quando
+ex diffidentiae magnitudine spes quam ad Deum habere
+debuerat intercluditur: <hi>Tollite,</hi> inquit, <hi>lapidem <note>(Joan. XI)</note>
+          </hi>.
+Quid est lapidem tollere, nisi per
+exhortationis gratiam divinitus datam obduratae diffidentiae
+molem funditus semovere, et radianti desuper
+<pb n="1170D"/>
+lumini viam aperire? Juxta illud Isaiae: <hi>Parate
+vias Domini: rectas facite semitas Dei nostri <note>(Isa. XL)</note>
+          </hi>.
+Tunc autem pastoralis cura in hoc ipsum
+non inaniter laborat, cum Dominus hoc fieri disponit
+et imperat. Quid est enim hoc Dominum imperare,
+nisi in hoc ipsum animum pastoris interna
+allocutione urgere et gratiam dare? Tunc autem
+Domini minister utiliter agit quod suum est pastoris,
+cum ipse Dominus dignatur operari quod suum est
+Salvatoris: <hi>Lazare,</hi> inquit, <hi>veni foras <note>(Joan. XI, 43)</note>
+          </hi>.
+In hac una vocatione tria dat intelligere. Qui exit locum
+deserit in quo prius fuit. Est enim foras exire
+seipsum foris astantium aspectibus ingerere. Idem
+vero est venire quod vocanti appropinquare. Quid
+est autem resuscitatum inde ubi mortuus jacuerat
+<pb n="1171A"/>
+exire, nisi peccatum suum penitus et in perpetuum
+deserere? Quid est vinctum quemlibet eorum se
+aspectibus per quos solvi poterat praesentare, nisi
+criminosum quemlibet quibus peccatorum nexibus
+teneatur sui ipsius accusatione ostendere? Vocanti
+Domino appropinquat qui dignis poenitentiae fructibus
+Deum de die in diem placat. Primum pertinet
+ad votum continendi, secundum ad votum confitendi,
+tertium ad votum satisfaciendi. Ecce quomodo quidam
+in pastoris praesentia accipiunt triplex hoc votum,
+quod prius omnino non habuerunt.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XVIII.</head>
+<p>Sed nunc ad illud redeamus propter quod praedicta
+omnia digessimus. Distinguamus diligenter
+quid Dominus faciat per semetipsum, quid faciat
+<pb n="1171B"/>
+per ministrum suum. Per semetipsum resuscitat
+mortuum, per ministros solvit ligatum. Per semetipsum
+mundat leprosum, ministerio sacerdotis reducit
+ejectum. Mortuum resuscitare, leprosum mundare,
+ad idem videtur respicere: nam utrobique
+solvitur obligatio culpae. Sed et vinctum solvere,
+vel ejectum reducere, ad idem nihilominus videtur
+respicere, quoniam utrobique sequitur obligatio
+poenae. Leprosus mundatur, quando perversus quisque
+pravitatis suae sordibus divinitus exuitur; mortuus
+resuscitatur, quando peccato captivatus ad
+bene vivendum divinitus animatur. Post emundationem
+leprae sacerdotali officio interveniente, ejectus
+prius in sua reducitur, quando aeternae quietis
+mansionem quam peccando amiserat per injunctam
+<pb n="1171C"/>
+satisfactionem recuperasse cognoscitur. Institis involutus,
+et a Domini ministris solutus, abire et ad
+sua redire permittitur, quando per absolutionem
+et consilium sacerdotis ad vitae novitatem reformatur.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIX.</head>
+<p>Ad ea quae superius dicta sunt quidam quidem
+opponunt et dicunt: Qui veraciter de suis
+criminibus poenitent, pro certo jam charitatem
+habent. Alioquin quod scribitur quomodo de eis
+recte intelligitur: <hi>Quacunque hora peccator ingemuerit
+salvus erit? <note>(Ezech. XXXIII)</note>
+          </hi>. Nemo eum qui
+charitatis capax est, sine charitate salvare potest.
+Sed, ut putant, qui charitatem habet debito damnationis
+<pb n="1171D"/>
+aeternae teneri non valet. Quomodo ergo sacerdos
+eum ab ejusmodi debito absolvit, si ante sacerdotalem
+absolutionem charitate interveniente
+absolvi jam meruit? Sed absque ulla dubitatione
+patriarchae et prophetae charitatem habuere, et tamen
+tenebantur debito damnationis aeternae. Alioquin
+nec ad inferna descenderent, nec Christi morte,
+nec ulla redemptione egerent. Absque ulla igitur ambiguitate
+tenebantur debito damnationis aeternae, non
+quod eis aeterna fuerit, sed quod eis aeterna fuisset,
+nisi mors Christi eos ab hoc debito absolveret. Constat
+ergo quod utrumque simul contingat, ut et
+homo charitatem habeat, et eum adhuc debitum
+damnationis teneat. Nonne, inquiunt, iste peccator
+Christi membrum esse coepit ex quo charitatem habere
+<pb n="1172A"/>
+coepit? Quomodo ergo poterit esse membrum
+Christi et debito damnationis teneri? Membrum
+Christi dici potest homo secundum geminam considerationem
+aut secundum praedestinationem, aut
+secundum habitudinem. Secundum praedestinationem
+potest quis membrum Christi esse, et necdum
+charitatem habere, et e converso Christi quidem
+membrum non esse, et charitatem habere. Juxta
+namque Domini testimonium: <hi>Refrigescet charitas
+multorum <note>(Matth. XXIV)</note>
+          </hi>. Secundum ergo hanc acceptionem
+contingit hominem esse membrum Christi, et
+adhuc vinculo debitae damnationis teneri; secundum
+habitudinem autem membrum Christi dicitur, quando
+in se habet unde hoc ipsum efficitur. Sed nunquid
+membrum Christi charitas illa facit, quae ad tempus
+<pb n="1172B"/>
+inardescit et in modico refrigescit? Absque dubio
+qui perseverantem charitatem nunquam accipiunt,
+nunquam de veris illis Christi membris fuerunt qui
+corporis ejus integritatem perficiunt. Secundum
+quamdam tamen acceptionem possumus et solemus
+charitatem transitoriam habentes, membra Christi
+dicere, propter membrorum ipsius conformitatem
+quam ad tempus videntur habere.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XX.</head>
+<p>Sed ut a pie quaerentibus omnem scrupulum amoveamus,
+dicimus quod triplici modo membrum
+Christi dici solemus: praedestinatione, praeparatione,
+concorporatione. Praedestinatione, qui ad vitam
+divinitus praeordinatur; praeparatione, quando paganus
+<pb n="1172C"/>
+et falsus Christianus veraciter compungitur,
+et ad veritatem et charitatem imbuitur; concorporatione,
+quando ille per corporis ablutionem, iste
+per sacerdotis absolutionem Ecclesiae Christi consociatur.
+Primum agitur proposito divinae voluntatis,
+secundum proposito propriae deliberationis,
+tertium vero officio sacerdotis. Ex corporali
+advertere possumus quid de spirituali
+aedificatione sentire debeamus. Ecce de silva
+lignum eligitur ut in aedificio ponatur, postea dolatur;
+et ad modum formamque congruam dolando
+praeparatur. Ad ultimum aedificio connectatur, et
+ipsi suo in loco coaptatur. Ecce quo unum idemque
+lignum fit aedificii membrum. Primo sola electione,
+secundo praeparatione, tertio compaginatione. Sic
+<pb n="1172D"/>
+sane multi jam sunt membrum Christi praedestinatione,
+necdum tamen praeparatione. Multi vero praeparatione,
+sed necdum tamen concorporatione.
+Augustinus, cum adhuc infidelis esset, secundum
+praedestinationem membrum Christi fuit. Conformitatis
+praeparatione membrum Christi exstitit, cum
+corde credens et devotione fervens ad baptisma
+festinavit. Baptizatus vero et Ecclesiae consociatus
+membris Christi concorporatus fuit. Si quis ergo
+charitatem habet ante susceptum sacramentum reconciliationis
+nostrae, dici potest membrum Christi
+quadam conformitatis praeparatione, necdum tamen
+concorporatione. Per mortem enim Christi Deo reconciliamur,
+et per baptisma Christo consepelimur,
+et membris ejus concorporamur. Ex his jam patet,
+<pb n="1173A"/>
+ut arbitror, juxta quam acceptionem possit quis
+membrum Christi dici, et debito damnationis teneri.
+Secundum quod dictum est de pagano, intelligi potest
+quid sentiendum sit de criminoso et poenitente
+Christiano.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXI.</head>
+<p>Sed dicis ad ista fortassis quod alia sit conditio
+Christiani et alia gentilis. Putas fortassis quod quilibet
+Christianus sub ipsa hora verae compunctionis
+solvitur a debito damnationis, quamvis aliter sentiendum
+sit de non baptizatis. Nemo enim solvitur
+a debito damnationis nisi participatione nostrae redemptionis.
+Per baptisma vero caeteraque Christi
+sacramenta homo accipit ut ejus particeps fieri
+possit. Dico autem quoniam quod baptizando accipit
+<pb n="1173B"/>
+paganus, peccando perdit criminosus Christianus.
+Nam participium sacramentorum Christi criminator
+amittit quod prius in baptismate accepit. Audacter
+dico, si ante sacerdotis absolutionem ad communionem
+corporis et sanguinis Christi accesserit, judicium
+sibi pro certo manducat et bibit, etsi eum
+peccasse jam multum poeniteat, et vehementer doleat
+et ingemiscat. Qua ergo ratione contendis et
+dicis quod intime poenitens ante accessum ad sacerdotem
+a debito damnationis solutus est, qui ante
+sacerdotis absolutionem salutis nostrae sacramentis
+nisi ad damnationis cumulum participare non potest?
+Tam itaque criminosus Christianus quam quilibet
+paganus eget reconciliatione, et ubi necessitas
+<pb n="1173C"/>
+non obstiterit, utraque efficienda per officium sacerdotale,
+ista per ablutionem, illa per absolutionem.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXII.</head>
+<p>Et si vultis nosse et potestis patienter audire, facilius
+reconciliatur paganus post crimina centum,
+quam Christianus quilibet post unum solum. Hinc
+est quod cuilibet pagano quantumlibet criminoso,
+accepto baptismate, nulla injungitur satisfactio:
+Christiano autem criminaliter peccanti, sed jam poenitenti
+et confitenti, non sufficit sacerdotis absolutio
+sola sine satisfactione injuncta. Sola vero Christi
+hostia, mactata videlicet caro, satisfacit pro recenter
+baptizato. Per ignorantiam enim peccantibus ad expiationem
+satisfacit hostiae per legem determinatae
+oblatio. Sed <hi>voluntarie peccantibus,</hi> juxta Apostolum,
+<pb n="1173D"/> <hi>non relinquitur hostia pro peccato 
+ <note>(Hebr. X)</note>
+          </hi>. Quod in
+lege mystice praecipitur, hoc sub isto tempore, amoto
+figurae velamine, quotidie verius adimpletur. Praecipitur
+in lege, ut anima quae per ignorantiam peccaverit,
+hoc vel illud pro peccato offerat, et dimittitur
+ei quod per ignorantiam commiserat <note>(Levit. V)</note>.
+Sed de voluntarie peccantibus praecipitur reddere <hi>animam pro anima, oculum pro oculo, dentem pro
+dente, manum pro manu, pedem pro pede 
+ <note>(Levit. XXIV;
+Deut. XIX)</note>
+          </hi>. Quidquid ab infideli committitur, inter
+peccatum ignorantiae deputatur. Nam et si sciat se
+peccasse cum peccat, nescit tamen examinare pondus
+peccati; nescit enim illud non posse expiari
+nisi per mortem hominis Dei. Caligo itaque hujusmodi
+ignorantiae supra modum levigat immanitatem
+<pb n="1174A"/>
+culpae. Christiani vero qui se cognoscunt redemptos
+a morte per mortem Christi, procul dubio non
+possunt per hujusmodi ignorantiam excusari. Ad
+plenam itaque satisfactionem pro peccato illis hostia
+conceditur, istis omnino non relinquitur. Ubi
+peccatum per hostiam expiatur, alienae potius quam
+propriae carnis mactatione reconciliatur. Infideli
+itaque converso et in Christi fide baptizato nulla satisfactio,
+nulla carnis afflictio injungitur, cui propter
+priorem ignorantiam ad expiationem peccati
+hostia conceditur: nam per passionem et mortem
+Christi ab omni reatu ad plenum purgatur. Criminosus
+autem Christianus quoniam per infidelitatis
+ignorantiam de suis criminibus nullatenus excusatur,
+in propria carne punitur, et quasi voluntarie
+<pb n="1174B"/>
+peccanti post acceptam veritatis notitiam voluntaria
+satisfactio injungitur. Et quod contra Deum jam
+non ignoranter praesumpsit, non sola hostiae oblatione,
+sed propriae carnis maceratione et mortificatione
+purgatur. Ecce quod superius jam diximus,
+quod difficilius expiatur criminosus Christianus
+quam criminosus paganus. Sed cur, quaeso, expiatur
+difficilius, nisi quia offendit gravius? Dicis quod
+Christianus criminosus et poenitens solvitur a debito
+damnationis ante sacerdotis absolutionem, et
+non audes dicere quod paganus criminosus et poenitens
+ab eodem debito solvatur ante sacerdotis absolutionem,
+et non attendis quam sit contra existimationem,
+imo et contra omnem rationem ut dicatur
+<pb n="1174C"/>
+statim ad veram poenitentiam solvi qui peccavit
+majus, et non dicatur statim ad veram poenitentiam
+solvi qui peccavit minus. Constat in commune quod
+nemo possit impoenitentem absolvere. Secundum
+quosdam vero nemo poenitentem absolvit, quoniam
+sub ipsa compunctionis hora, ut dicunt, absolutionem
+divinitus accepit. Sed si nemo absolvit impoenitentem,
+nemo poenitentem, ergo nemo neminem.
+Sed qui hoc credit fallacem facit eum qui dicit: <hi>Quorum remiseritis peccata, remittuntur eis.</hi> 
+ Constat
+ergo pro certo quod sacerdotes peccata remittunt,
+poenitentes absolvunt. Peccator quacunque
+hora ingemuerit, in hoc sane salvus erit, quod
+de tali qui absolvi non potuit, talis fit cui absolutio
+negari non possit.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXIII.</head>
+
+<pb n="1174D"/>
+<p>Sunt adhuc qui mirantur et quaerunt quomodo
+dicitur Deus vel Dei minister peccata remittere,
+cum profecto inveniatur uterque poenitentium peccata
+et puniendo expiare et expiando punire. Quae
+est, inquiunt, ista remissio, ubi exigitur diuturna
+saepe et satis molesta expiatio? Ex his quae longe
+superius dixi, quod quaeritur quantum mihi videtur
+satis patet. Sed ad majorem evidentiam ante jam
+dictis aliquid addere non me pigebit ubi oportet. In
+omni peccato duo sunt consideranda, divina videlicet
+injuria et committentis corruptela. Illud est
+iniquitatis et impietatis, istud inhonestatis et deformitatis.
+Unum namque idemque peccatum et iniquitas
+est quantum ad Deum, et deformitas quantum
+<pb n="1175A"/>
+ad seipsum. Hinc est illud evangelistae Joannis: <hi>Omnis qui facit peccatum et iniquitatem facit,
+et peccatum est iniquitas 
+ <note>(I Joan. III)</note>
+          </hi>. Procul dubio
+iniquitas est quando quis proximum suum
+injuste laedit, et in hoc, ut arbitror, nemo non
+consentit. Iniquitas est quando aliquis Deum
+suum reprehendit, accusat, blasphemat, et nemo
+est nisi mentis inops qui id inficiari praesumat.
+Sed aliquis fortassis cum in crapula, ebrietate,
+luxuria et ejusmodi caeteris suis desideriis satisfacit,
+iniquitatem esse non credit, maxime si sine
+proximi laesione id facit. Sed certe, cum hoc facit,
+Deum offendit. Quanta enim injuria est Creatoris,
+nobilissimam creaturam, et ad Dei similitudinem
+factam, vitiorum sordibus foedare, et divinae similitudini
+<pb n="1175B"/>
+similitudinem jumenti superducere? <hi>Homo,</hi> 
+inquit, <hi>cum in honore esset, non intellexit; comparatus
+est jumentis insipientibus et similis factus est
+illis <note>(Psal. XLVIII)</note>
+          </hi>. Cogitet homo quanta pro ipso
+Creator suus fecerit, qualia pro ipso Redemptor
+suus sustinuerit, et inde poterit rectius aestimare
+quam sit iniquum vel impium tanto Domino, tam
+benefico amico, injuriam pro beneficiis reddere
+et ipsum vel in modico offendere. Offendit autem
+qui corrumpit nobilissimum illud opus suum; corrumpit
+vero qui facit peccatum. Igitur qui peccatum
+facit et iniquitatem facit, quia peccatum
+ipsum, ut diximus, iniquitas seu etiam impietas est
+in quantum Deum offendit, inhonestas et deformitas
+<pb n="1175C"/>
+in quantum committentem corrumpit. Valet ergo
+Deus et solet in uno eodemque crimine et id quod
+iniquitatis et impietatis est remittere, et quod inhonestatis
+et impuritatis est per semetipsum purgatorio
+igne mundare, vel quid in hoc purgationis debito
+remittendum, vel quid satisfactionis medela
+curandum sit ministrorum suorum dispensationi
+committere. Quid tibi videtur summus ille medicus
+in ejusmodi opere fecisse et quotidie facere, nisi illud
+quod ad suam injuriam pertinet remittere et aegrotanti
+servo qualem corruptela sua exigebat, medelam
+adhibere? Hinc, ut arbitror, illud evidenter patet, quam
+vera, quam misericordiae plena sit illa peccatorum remissio,
+quam Deus facit quando vere poenitenti suam
+injuriam et eo ipso poenam aeternam remittit. Qui
+<pb n="1175D"/>
+enim contumaciter praesumit quod quantum in ipso
+est in aeternum corrigere non possit, et ad ejus injuriam
+qui in aeternum vivit, et omnipotens sit, procul
+dubio debitum aeternae damnationis incurrit.
+Hominem autem divinitus absolvi ab ejusmodi debito,
+quanta, quaeso, et quam ineffabilis miseratio? Nunquid
+Dei beneficentiam obnubilat et non potius magnificat,
+quod peccatricis animae remediis quibus
+oportet et peccatum expiat et vitium purgat? Quis,
+quaeso, neget esse remissionem veram et misericordiae
+plenam, quando ad veram poenitentiam, dissimulata
+injuria propria, remittit poenam aeternam, insuper
+et morbis aegroti adhibet medicinam? Hinc
+ergo possumus colligere sacerdotalis illa absolutio
+quantae virtutis sit et excellentiae, quae veraciter
+<pb n="1176A"/>
+poenitentem et studiose satisfacientem liberat, non
+solum a truci incendio aeterni supplicii, verum etiam
+a concrematione ignis purgatorii. Ex corporalibus
+morbis perpendamus quid de spiritualibus sentire
+debeamus. Novimus quoniam quidam cauterio, quidam
+curantur unguento. Est autem magnum et
+misericordiae plenum quantumlibet acerbo remedio
+a morbo curari mortifero. Quanta ergo, quaeso, indulgentia,
+quantave beneficentia id putrescentis
+morbi leni mederi unguento, quod post modicum
+opus haberet curari cauterio? Quid autem est quaelibet
+poenitentialis satisfactio nisi unguentum lene
+in comparatione concremationis purgatoriae? Ecce
+habes quid debeas sentire tam de divina quam de
+sacerdotali remissione.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXIV.</head>
+
+<pb n="1176B"/>
+<p>Possumus tamen dicere quod aliud sit peccata
+remittere, aliud autem peccata dimittere, quamvis
+forte inveniatur ubi unum pro altero ponitur. Peccata
+namque dimittere, hoc est ex toto indulgere.
+Peccata vero remittere, hoc est debitam eis poenam
+temperare, et ex majori parte relaxare. Quantam
+ergo, quaeso, peccati remissionem, vel poenae relaxationem
+putas, quando ex munere divino poena
+aeterna in purgatoriam et transitoriam transfertur
+vel sacerdotali officio illud purgatorium incendium
+in poenam poenitentialem transmutatur? Ecce jam
+habes quod ipse quaesisti, quae videlicet vel qualis
+sit divina seu sacerdotalis remissio ubi exigitur diuturna
+<pb n="1176C"/>
+saepe et satis molesta expiatio. Quod enim
+possint sacerdotes peccata remittere, et futura incendia
+poenitentiali satisfactione exstinguere, omnes
+in commune credimus et tenemus. Quod autem
+possint quaelibet peccata quantumlibet criminalia
+ex toto dimittere, et sine aliqua omnino satisfactione
+plene et sine periculo indulgere, nec credimus,
+nec tenemus. Vide certe quod multum
+sit inter remittere atque dimittere. Nam remitmittere
+est poenam peccati juxta congruum miserationis
+modum temperare; dimittere vero totum
+indulgere, et sine animadversione relinquere.
+Hinc est quod dicitur nobis: <hi>Dimittite et dimittetur
+vobis <note>(Luc. VI)</note>
+          </hi>, et merito quidem, ut non in parte
+iram reservemus, sed ex toto dimittamus qui totum
+<pb n="1176D"/>
+nobis dimitti volumus. Hinc est quod Domino in
+quotidiana oratione dicimus: <hi>Dimitte nobis debita
+nostra, sicut et nos dimittimus debitoribus nostris <note>(Matth. VI)</note>
+          </hi>.
+Sed quia justitiae simul et misericordiae est
+inter parcendum ex parte percuti, et ad purgationis
+nostrae medelam proficit ex parte puniri, remittendi
+potius quam dimittendi potestas confertur in eo quod
+dicitur: <hi>Quorum remiseritis peccata remittuntur eis;</hi> 
+inde est quod de remissione non de dimissione gratulatur
+qui Domino confitetur: <hi>Tu remisisti impietatem
+peccati mei</hi> Nam qui damnationis aeternae
+sententiam evaserat, purgationis suae medelam non
+sine metu exspectabat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XXV.</head>
+<p>Tribus autem modis, ut mihi videtur, peccatorum
+<pb n="1177A"/>
+purgatio agitur. Agitur aliquando secundum solam
+severitatem, aliquando secundum solam pietatem, aliquando
+secundum moderationem utriusque, ut miseratio
+ipsa non sit sine nonnulla severitate nec severitas
+sine miseratione. Siquidem in igne purgatorio est intolerabilis
+afflictio sine totius consolationis remedio.
+In voluntaria satisfactione est afflictio cum multiplici
+consolatione. In lavacro regenerationis plena emundatio
+nihil habens afflictionis. Prima purgatio agitur
+per incendium, secunda per flagellum, tertia per
+lavacrum. Per incendium purgatorii ignis scoria
+peccati excoquitur, per flagellum satisfactionis palea
+peccati excutitur, per lavacrum regenerationis peccati
+macula absque poena diluitur. Sunt multi qui in
+extremis veraciter poenitent, sed morte praeventi
+<pb n="1177B"/>
+tempus satisfaciendi non habent, et his quidem in
+eorum peccatis quod iniquitatis et impietatis est ad
+veram eorum poenitentiam remittitur, quod vero
+turpitudinis et impuritatis purgatorio igne excoquitur.
+Ex his dictum intellige quod in Psalmo habes: <hi>Beati quorum remissae sunt iniquitates! 
+ <note>(Psal. XXXI.)</note>
+          </hi> 
+Alii cum magna devotione ad confessionem veniunt,
+et cum omni studio et sollicitudine satisfactionem
+exsolvunt, et turpitudinem suam charitatis operibus
+et virtutum varietate obducunt. Fit itaque in eis
+<pb n="1178A"/>
+quod alias legis, quod <hi>Charitas operit multitudinem
+peccatorum <note>(I Petr. IV)</note>
+          </hi>. In his adimpletur prophetica
+illa sententia: <hi>Beati quorum tecta sunt peccata <note>(Psal.
+XXXI)</note>
+          </hi>. Multi post multa flagitia, et blasphemias, de
+Judaeis vel gentibus venientes in Christo regenerantur,
+quibus tamen pro praeteritis malis nihil satisfactionis
+injungitur, quia renatis in Christo de anteactis malis
+nihil imputatur. Pro ejusmodi quolibet puta esse
+dictum: <hi>Beatus vir cui non imputavit Dominus peccatum <note>(ibid.)</note>
+          </hi> 
+ Et sunt nonnulli qui tam profunde et intime
+poenitent, et tanto devotionis ardore in ipsa sua
+poenitentia fervent, et tantum de Domini pietate praesumunt,
+ut hoc ipsum eis ad peccatorum suorum
+expiationem sufficiat, et Dominum sibi per omnia
+placabilem reddant. Testatur hoc ipsum tam sero
+<pb n="1178B"/>
+poenitens ille evangelicus latro, qui statim audire
+meruit: <hi>Hodie mecum eris in paradiso <note>(Luc. XXIII)</note>
+          </hi>.
+Ejusmodi quilibet in eorum meritum quibus a Domino
+non imputatur peccatum, sed dimittuntur eis
+peccata multa quoniam diligunt multum. In his igitur
+quae jam diximus luce clarius videtur quod per
+Psalmistam audimus: Beati quorum remissae sunt
+iniquitates, et quorum tecta sunt peccata · beatus
+vir cui non imputavit Dominus peccatum.
+</p>
+</div2>
+</body>
+  </text>
+</TEI>
