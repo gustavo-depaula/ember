@@ -1,0 +1,197 @@
+{
+  "id": "john-of-the-cross-epistolario",
+  "name": {
+    "es-ES": "Epistolario",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "Las veintiséis cartas de San Juan de la Cruz que publicó el P. Silverio de Santa Teresa (1581–1591), a carmelitas descalzas, a religiosos y a seglares, con las notas del editor.",
+    "en-US": "The twenty-six letters of St. John of the Cross published by P. Silverio de Santa Teresa (1581–1591), to discalced Carmelite nuns, friars and lay people, with the editor's notes.",
+    "pt-BR": "As vinte e seis cartas de São João da Cruz publicadas pelo P. Silvério de Santa Teresa (1581–1591), a carmelitas descalças, a religiosos e a leigos."
+  },
+  "composed": "1581–1591",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-the-cross/epistolario",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1931
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande04john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. IV (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1931, Epistolario, pp. 253 ff.. Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1931 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    }
+  ],
+  "toc": [
+    {
+      "id": "carta-1",
+      "title": {
+        "es-ES": "Carta I"
+      }
+    },
+    {
+      "id": "carta-2",
+      "title": {
+        "es-ES": "Carta II"
+      }
+    },
+    {
+      "id": "carta-3",
+      "title": {
+        "es-ES": "Carta III"
+      }
+    },
+    {
+      "id": "carta-4",
+      "title": {
+        "es-ES": "Carta IV"
+      }
+    },
+    {
+      "id": "carta-5",
+      "title": {
+        "es-ES": "Carta V"
+      }
+    },
+    {
+      "id": "carta-6",
+      "title": {
+        "es-ES": "Carta VI"
+      }
+    },
+    {
+      "id": "carta-7",
+      "title": {
+        "es-ES": "Carta VII"
+      }
+    },
+    {
+      "id": "carta-8",
+      "title": {
+        "es-ES": "Carta VIII"
+      }
+    },
+    {
+      "id": "carta-9",
+      "title": {
+        "es-ES": "Carta IX"
+      }
+    },
+    {
+      "id": "carta-10",
+      "title": {
+        "es-ES": "Carta X"
+      }
+    },
+    {
+      "id": "carta-11",
+      "title": {
+        "es-ES": "Carta XI"
+      }
+    },
+    {
+      "id": "carta-12",
+      "title": {
+        "es-ES": "Carta XII"
+      }
+    },
+    {
+      "id": "carta-13",
+      "title": {
+        "es-ES": "Carta XIII"
+      }
+    },
+    {
+      "id": "carta-14",
+      "title": {
+        "es-ES": "Carta XIV"
+      }
+    },
+    {
+      "id": "carta-15",
+      "title": {
+        "es-ES": "Carta XV"
+      }
+    },
+    {
+      "id": "carta-16",
+      "title": {
+        "es-ES": "Carta XVI"
+      }
+    },
+    {
+      "id": "carta-17",
+      "title": {
+        "es-ES": "Carta XVII"
+      }
+    },
+    {
+      "id": "carta-18",
+      "title": {
+        "es-ES": "Carta XVIII"
+      }
+    },
+    {
+      "id": "carta-19",
+      "title": {
+        "es-ES": "Carta XIX"
+      }
+    },
+    {
+      "id": "carta-20",
+      "title": {
+        "es-ES": "Carta XX"
+      }
+    },
+    {
+      "id": "carta-21",
+      "title": {
+        "es-ES": "Carta XXI"
+      }
+    },
+    {
+      "id": "carta-22",
+      "title": {
+        "es-ES": "Carta XXII"
+      }
+    },
+    {
+      "id": "carta-23",
+      "title": {
+        "es-ES": "Carta XXIII"
+      }
+    },
+    {
+      "id": "carta-24",
+      "title": {
+        "es-ES": "Carta XXIV"
+      }
+    },
+    {
+      "id": "carta-25",
+      "title": {
+        "es-ES": "Carta XXV"
+      }
+    },
+    {
+      "id": "carta-26",
+      "title": {
+        "es-ES": "Carta XXVI"
+      }
+    }
+  ]
+}
