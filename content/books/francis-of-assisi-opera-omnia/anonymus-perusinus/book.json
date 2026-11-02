@@ -1,0 +1,125 @@
+{
+  "id": "anonymus-perusinus",
+  "cover": "classic",
+  "name": {
+    "la": "Anonymus Perusinus (De inceptione vel fundamento Ordinis)",
+    "en-US": "The Anonymous of Perugia (De inceptione)",
+    "pt-BR": "O Anônimo de Perúgia (De inceptione)"
+  },
+  "author": {
+    "la": "Anonymus Perusinus",
+    "en-US": "Anonymous of Perugia",
+    "pt-BR": "Anônimo de Perúgia"
+  },
+  "description": {
+    "la": "Anonymus Perusinus, De inceptione vel fundamento Ordinis et actibus illorum Fratrum Minorum qui fuerunt primi in religione et socii beati Francisci (c. 1240-1241), a fratre Ioanne, ut videtur, scriptus.",
+    "en-US": "The Anonymous of Perugia, “On the beginning or foundation of the Order and the deeds of those Friars Minor who were first in religion and companions of St. Francis” (c. 1240-1241), probably by Brother John, in Latin. No public-domain English exists.",
+    "pt-BR": "O Anônimo de Perúgia, sobre o início da Ordem e os feitos dos primeiros frades menores (c. 1240-1241)."
+  },
+  "composed": "1240-1241",
+  "languages": [
+    "la"
+  ],
+  "work": "anonymous-of-perugia/anonymus-perusinus",
+  "editions": {
+    "la": {
+      "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_anonimoperugino_lat.html",
+      "edition": "Anonymus Perusinus, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "Prologue and chapters. Latin only; the poliba page is the only clean source found.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "la": "[Prologus]."
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "la": "Caput I - De modo quo B. Franciscus coepit servire Deo."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "la": "Caput II - De duobus primis fratribus sequentibus Beatum Franciscum."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "la": "Caput III - De primo foco ubi morati sunt et de persecutione parentum suorum."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "la": "Caput IV - Quomodo fratres admonuit et misit per mundum."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "la": "Caput V - De persecutionibus quas fratres euntes per mundum perpessi sunt."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "la": "Caput VI - De conversatione fratrum et dilectione quam invicem habebant."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "la": "Caput VII - Qualiter iverunt Romam et dominus Papa concessit eis Regulam et praedicationem."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "la": "Caput VIII - Quomodo ordinavit quod fieret capitulum et de his quae in capitulo tractabantur."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "la": "Caput IX - Quando fuerunt missi fratres per omnes mundi provincias."
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "la": "Caput X - Quando cardinales benevoli effecti erga fratres consulere eis et auxilium praestare coeperunt."
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "la": "Caput XI - Quomodo Ecclesia eos protexit de manibus persequentium."
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "la": "Caput XII - De transitu beati Francisci, miraculis et canonizatione."
+      }
+    },
+    {
+      "id": "cap-014",
+      "title": {
+        "la": "[Epilogus]."
+      }
+    }
+  ]
+}
