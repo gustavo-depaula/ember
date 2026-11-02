@@ -1,0 +1,156 @@
+{
+  "id": "olier-lettres",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "Les lettres de M. Olier, dans l’édition de 1885 (Lecoffre, 2 volumes) : lettres spirituelles chronologiques aux religieuses, aux prêtres et aux laïcs.",
+    "en-US": "The letters of M. Olier in the 1885 edition (Lecoffre, 2 volumes): chronological spiritual letters to nuns, priests and lay people.",
+    "pt-BR": "As cartas de M. Olier na edição de 1885 (Lecoffre, 2 volumes): cartas espirituais em ordem cronológica a religiosas, sacerdotes e leigos."
+  },
+  "composed": "1631–1657",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "olier/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Gaston de Ségur et les Sulpiciens",
+      "year": 1885
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/lettresdemolierf01olie",
+      "edition": "Lettres de M. Olier, Paris, V. Lecoffre, 1885, 2 vols (archive.org lettresdemolierf01olie and lettresdemolierf02olie); OCR cleaned.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed. The editor’s notes and footnote markers are left in the running text; letters whose heading the OCR lost sit inside the previous letter. The 1885 introduction is not included.",
+      "tier": "A",
+      "tierEvidence": "Olier died in 1657; the 1885 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettres-v1-001-025",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 1–25"
+      }
+    },
+    {
+      "id": "lettres-v1-026-050",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 26–50"
+      }
+    },
+    {
+      "id": "lettres-v1-051-075",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 51–75"
+      }
+    },
+    {
+      "id": "lettres-v1-076-100",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 76–100"
+      }
+    },
+    {
+      "id": "lettres-v1-103-125",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 103–125"
+      }
+    },
+    {
+      "id": "lettres-v1-126-150",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 126–150"
+      }
+    },
+    {
+      "id": "lettres-v1-151-175",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 151–175"
+      }
+    },
+    {
+      "id": "lettres-v1-177-200",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 177–200"
+      }
+    },
+    {
+      "id": "lettres-v1-201-205",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 1), lettre 201–205"
+      }
+    },
+    {
+      "id": "lettres-v2-208-225",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 208–225"
+      }
+    },
+    {
+      "id": "lettres-v2-226-249",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 226–249"
+      }
+    },
+    {
+      "id": "lettres-v2-251-275",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 251–275"
+      }
+    },
+    {
+      "id": "lettres-v2-276-298",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 276–298"
+      }
+    },
+    {
+      "id": "lettres-v2-302-325",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 302–325"
+      }
+    },
+    {
+      "id": "lettres-v2-326-350",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 326–350"
+      }
+    },
+    {
+      "id": "lettres-v2-351-375",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 351–375"
+      }
+    },
+    {
+      "id": "lettres-v2-378-399",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 378–399"
+      }
+    },
+    {
+      "id": "lettres-v2-402-425",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 402–425"
+      }
+    },
+    {
+      "id": "lettres-v2-427-433",
+      "title": {
+        "fr-FR": "Lettres de M. Olier (tome 2), lettre 427–433"
+      }
+    }
+  ]
+}
