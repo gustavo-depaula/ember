@@ -1,0 +1,159 @@
+{
+  "id": "augustine-epistulae-latinae-03",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistulae 176–199",
+    "en-US": "Letters 176–199 (Latin)",
+    "pt-BR": "Cartas 176–199 (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Epistulae Augustini 176–199, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "19 of Augustine's letters (176 to 199), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the letters not in the English NPNF book; no English translation imported.",
+    "pt-BR": "19 cartas de Santo Agostinho (176 a 199), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/epistulae",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/lettere/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages lettere of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Epistula 176"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Epistula 177"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Epistula 178"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Epistula 179"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Epistula 181"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Epistula 182"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Epistula 183"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Epistula 184"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Epistula 184/A"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Epistula 185/A"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Epistula 186"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Epistula 187"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Epistula 190"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Epistula 193"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Epistula 194"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Epistula 196"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Epistula 197"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Epistula 198"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Epistula 199"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
