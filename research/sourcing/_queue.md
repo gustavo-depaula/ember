@@ -32,7 +32,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Gertrude · Mechtilde (5 books). Left: Latin Exercitia (no online text), Latin Legatus III–V (1579 long-s print, or find Solesmes vol. I), Mechthild of Magdeburg's Lux divinitatis, lost Mechtilde chapter splits
 - [x] Rhineland mystics (18 books; Ruusbroec complete in Middle Dutch). Left: Suso and Tauler in Middle High German (Bihlmeyer and Vetter only as Gothic-type OCR or not online), Ruusbroec letters, Winkworth's Tauler, Suso's Portuguese Vida (long-s)
 - [x] Augustine in Latin (Latin beside 47 NPNF books; 79 new Latin books incl. ~150 letters and ~500 sermons). Left: LF 22 English for De fide et operibus and De agone christiano, the full LF Enarrationes (OCR needs audit), Possidius's Vita, the Outler Confessions book
-- [ ] Councils (rest) · Denzinger
+- [x] Councils (rest) · Denzinger (all 21 councils; Denzinger partial). Left: Trent's Latin bull/acclamations/confirmation, English for Constance, Florence, Lateran V, the early councils' creeds and letters in Greek/Latin, a proper 1911 Denzinger transcription (D 1–47 and 65 more missing)
 - [ ] Catechisms (rest)
 - [ ] Newman (Catholic works)
 - [ ] Faber · Challoner (rest) · Manning
