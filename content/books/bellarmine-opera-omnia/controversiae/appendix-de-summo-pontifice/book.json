@@ -1,0 +1,203 @@
+{
+  "id": "bellarmine-controversiae-appendix-de-summo-pontifice",
+  "cover": "classic",
+  "name": {
+    "la": "Appendix ad libros de Summo Pontifice",
+    "en-US": "Appendix to the Books on the Supreme Pontiff",
+    "pt-BR": "Apêndice aos livros sobre o Sumo Pontífice"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): Appendix ad libros de Summo Pontifice. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the appendix to the books on the Supreme Pontiff. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Apêndice aos livros sobre o Sumo Pontífice."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-appendix-de-summo-pontifice",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia06bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 6 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I",
+        "en-US": "Caput I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II",
+        "en-US": "Caput II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III",
+        "en-US": "Caput III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV",
+        "en-US": "Caput IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V",
+        "en-US": "Caput V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI",
+        "en-US": "Caput VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII",
+        "en-US": "Caput VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Quarto testimonium adfert Arnulphi eujusdam Episcopi Aurelianensis, qui cum ante 600. annos in conventu quodam Remensi",
+        "en-US": "Caput VIII. Quarto testimonium adfert Arnulphi eujusdam Episcopi Aurelianensis, qui cum ante 600. annos in conventu quodam Remensi"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX",
+        "en-US": "Caput IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X",
+        "en-US": "Caput X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI",
+        "en-US": "Caput XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII",
+        "en-US": "Caput XII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV",
+        "en-US": "Caput XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Alterum caput erat de loco Apocalypsis de quo sic loquitur Dantes",
+        "en-US": "Caput XV. Alterum caput erat de loco Apocalypsis de quo sic loquitur Dantes"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Tertium ad sacrificium Missae pertinet, et in illis verbis continetur",
+        "en-US": "Caput XVI. Tertium ad sacrificium Missae pertinet, et in illis verbis continetur"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Sequitur quartum caput, quo carmina illa continentur, quibus Lutherum a Dante praesignificatur adversarius credit",
+        "en-US": "Caput XVII. Sequitur quartum caput, quo carmina illa continentur, quibus Lutherum a Dante praesignificatur adversarius credit"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Restat postremum caput, in quo adversarius indulgentias Pontificias a Dante reprehendi credidit, haec sunt verba Dantis",
+        "en-US": "Caput XVIII. Restat postremum caput, in quo adversarius indulgentias Pontificias a Dante reprehendi credidit, haec sunt verba Dantis"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX",
+        "en-US": "Caput XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Responsio ad ea, quae adferuntur ex Petrarcha",
+        "en-US": "Caput XX. Responsio ad ea, quae adferuntur ex Petrarcha"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI",
+        "en-US": "Caput XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Responsio ad ea, quse ex Joanne liocacio adferuntur",
+        "en-US": "Caput XXII. Responsio ad ea, quse ex Joanne liocacio adferuntur"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII",
+        "en-US": "Caput XXIII"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Responsio ad ea, quae adversarius itr Satyris suis Pontifici Maximo petulanter objecit",
+        "en-US": "Caput XXIV. Responsio ad ea, quae adversarius itr Satyris suis Pontifici Maximo petulanter objecit"
+      }
+    }
+  ]
+}
