@@ -1,0 +1,246 @@
+{
+  "id": "kempis-sermones-ad-novicios",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones ad novicios regulares",
+    "en-US": "Sermons to the Novices Regular",
+    "pt-BR": "Sermões aos noviços regulares"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Triginta sermones Thomae a Kempis, magistri novitiorum in monte S. Agnetis, de vita religiosa: de concordia fratrum, de obedientia, humilitate, oratione, tentationibus et aliis. Textus ex editione Pohl (1905).",
+    "en-US": "Thirty conferences given by Thomas as master of novices at Mount St. Agnes, on the religious life: concord among brethren, obedience, humility, prayer, temptation and the rest. The Latin is Pohl's critical edition (Freiburg 1905), here from a raw OCR of the printed volume. Scully's 1907 English translation (Kegan Paul) is not yet imported.",
+    "pt-BR": "Trinta conferências de Tomás, mestre de noviços no Monte Santa Inês, sobre a vida religiosa: concórdia entre os irmãos, obediência, humildade, oração, tentações e outros temas."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/sermones-ad-novicios",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/thomaehemerkena00pohlgoog",
+      "edition": "Thomae Hemerken a Kempis Sermones ad novicios, ed. M. J. Pohl (Freiburg: Herder 1905), Opera omnia VI; archive.org raw OCR (Google scan).",
+      "description": "The thirty sermons in three parts, with Pohl's upper-case sermon titles recased (u/v normalised by script). Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. The exempla and the Vita Lidewigis in the same volume are not part of this book. Raw OCR: drop capitals, margin glosses and isolated letters are sometimes garbled.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1905; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "la": "Pars prima"
+      },
+      "children": [
+        {
+          "id": "p1-01",
+          "title": {
+            "la": "1. De concordia fratrum et melodia divinae laudis"
+          }
+        },
+        {
+          "id": "p1-02",
+          "title": {
+            "la": "2. De laude bonae congregationis"
+          }
+        },
+        {
+          "id": "p1-03",
+          "title": {
+            "la": "3. De verbis et consiliis seniorum humiliter audiendis"
+          }
+        },
+        {
+          "id": "p1-04",
+          "title": {
+            "la": "4. De bonis colloquiis invicem habendis"
+          }
+        },
+        {
+          "id": "p1-05",
+          "title": {
+            "la": "5. De patientia conservanda inter desides et perversos"
+          }
+        },
+        {
+          "id": "p1-06",
+          "title": {
+            "la": "6. De vigiliis nocturnis contra impugnationem soporis"
+          }
+        },
+        {
+          "id": "p1-07",
+          "title": {
+            "la": "7. Operis cum oboedientia superioris"
+          }
+        },
+        {
+          "id": "p1-08",
+          "title": {
+            "la": "8. De vana gloria cavenda et quod soli deo laus est exhibenda"
+          }
+        },
+        {
+          "id": "p1-09",
+          "title": {
+            "la": "9. De periculo multorum malorum ex multiloquio verborum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "la": "Pars secunda"
+      },
+      "children": [
+        {
+          "id": "p2-01",
+          "title": {
+            "la": "1. De multis tribulationibus iustorum pro regno caelorum"
+          }
+        },
+        {
+          "id": "p2-02",
+          "title": {
+            "la": "2. De cotidiano martyrio et bello in statu religionis"
+          }
+        },
+        {
+          "id": "p2-03",
+          "title": {
+            "la": "3. De sapientia confessorum et continentia religiosorum"
+          }
+        },
+        {
+          "id": "p2-04",
+          "title": {
+            "la": "4. De cauta custodia cordis, et gratia internae devotionis"
+          }
+        },
+        {
+          "id": "p2-05",
+          "title": {
+            "la": "5. De constantia et perseverantia in statu religionis"
+          }
+        },
+        {
+          "id": "p2-06",
+          "title": {
+            "la": "6. De cauta custodia iuvenum contra multas temptationes"
+          }
+        },
+        {
+          "id": "p2-07",
+          "title": {
+            "la": "7. De districto dei iudicio ubi accusabunt nos omnes creaturae"
+          }
+        },
+        {
+          "id": "p2-08",
+          "title": {
+            "la": "8. De vana gloria vitanda, et humili oboedientia sectanda"
+          }
+        },
+        {
+          "id": "p2-09",
+          "title": {
+            "la": "9. De spirituali militia contra vitia"
+          }
+        },
+        {
+          "id": "p2-10",
+          "title": {
+            "la": "10. De variis bellis et periculis hvius vitae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "la": "Pars tertia"
+      },
+      "children": [
+        {
+          "id": "p3-01",
+          "title": {
+            "la": "1. De cruce cotidie tollenda in religione assumpta"
+          }
+        },
+        {
+          "id": "p3-02",
+          "title": {
+            "la": "2. De veneratione et commemoratione beatae mariae virginis"
+          }
+        },
+        {
+          "id": "p3-03",
+          "title": {
+            "la": "3. Eius mariae"
+          }
+        },
+        {
+          "id": "p3-04",
+          "title": {
+            "la": "4. De devoto servitio beatae virginis et recordatione nominis eius"
+          }
+        },
+        {
+          "id": "p3-05",
+          "title": {
+            "la": "5. De dolore et consolatione beatae mariae virginis"
+          }
+        },
+        {
+          "id": "p3-06",
+          "title": {
+            "la": "6. De excellentia meritorum et privilegiis donorum beatae mariae virginis"
+          }
+        },
+        {
+          "id": "p3-07",
+          "title": {
+            "la": "7. De tribus speciosis vestibus beatissimae agnetis virginis"
+          }
+        },
+        {
+          "id": "p3-08",
+          "title": {
+            "la": "8. De aurea corona in capite sanctissimae agnetis virginis"
+          }
+        },
+        {
+          "id": "p3-09",
+          "title": {
+            "la": "9. In dedicatione ecclesiae. de quinque luminaribus templi"
+          }
+        },
+        {
+          "id": "p3-10",
+          "title": {
+            "la": "10. De ornamentis et moribus ministrorum in templo dei"
+          }
+        },
+        {
+          "id": "p3-11",
+          "title": {
+            "la": "11. De quatuor condicionibus ad aedificationem et decorem domus dei pertinentibus"
+          }
+        }
+      ]
+    }
+  ]
+}

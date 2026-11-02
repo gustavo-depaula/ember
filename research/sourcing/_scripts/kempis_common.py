@@ -9,8 +9,10 @@ def clean(lines):
     """lines: raw OCR lines of the body (no front matter) -> list of paragraphs."""
     out = []
     for raw in lines:
-        l = raw.rstrip()
+        l = re.sub(r'\s+', ' ', raw)
         s = l.strip()
+        if 'SERMONES' in s or 'Novicios' in s or 'NOVICIOS' in s or '@' in s:
+            continue
         if not s:
             out.append('')
             continue
@@ -44,7 +46,8 @@ def fix(s):
     s = re.sub(r'\blesu', 'Iesu', s)
     s = re.sub(r'\blesus', 'Iesus', s)
     s = re.sub(r'\s+', ' ', s)
-    s = re.sub(r'(?<=\w) (?:5|10|15|20|25|30|35|40|45)(?= [A-Za-z])', '', s)  # stray line numbers
+    s = re.sub(r'(?<=[\w-]) (?:5|10|15|20|25|30|35|40|45)(?= [A-Za-z])', '', s)  # stray line numbers
+    s = re.sub(r'(?<=[a-z])-(?:5|10|15|20|25|30|35|40|45)? (?=[a-z])', '', s)
     s = re.sub(r'(?<=[a-z])- (?=[a-z])', '', s)
     s = re.sub(r'\b\d \S{1,2}\) ', '', s)
     s = re.sub(r'^.{0,28}?\bet gratias ago tibi', 'Benedico et gratias ago tibi', s) if re.match(r'^[^A-Z]{0,28}?\bet gratias ago tibi', s) else s
@@ -108,18 +111,28 @@ def decap(p):
     return p
 
 
-def segments(lines, marker, start, end, groups=()):
+def segments(lines, marker, start, end, groups=(), title_before=False):
     """Split lines[start:end] at lines matching marker; groups = line numbers where a new part begins.
-    Returns (preface_lines, [(group_index, chapter_lines)])."""
+    Returns (preface_lines, [(group_index, chapter_lines, pre_title)]). With title_before the chapter title is the
+    run of upper-case lines just above the marker."""
     idx = [i for i in range(start, end) if re.search(marker, lines[i])]
-    pre = lines[start:idx[0]]
+    tstart = {}
+    for i in idx:
+        j = i
+        k = i - 1
+        while k > start and (not lines[k].strip() or (lines[k].strip().isupper() and 'SERMONES' not in lines[k] and len(lines[k].split()) < 12)) and i - k < 8:
+            if lines[k].strip():
+                j = k
+            k -= 1
+        tstart[i] = j
+    pre = lines[start:tstart[idx[0]]]
     segs = []
-    for k, i in enumerate(idx):
-        j = idx[k + 1] if k + 1 < len(idx) else end
-        # a part heading before the next marker belongs to no chapter
+    for n, i in enumerate(idx):
+        j = tstart[idx[n + 1]] if n + 1 < len(idx) else end
         for g in groups:
             if i < g < j:
                 j = g
         gi = sum(1 for g in groups if g <= i)
-        segs.append((gi, lines[i + 1:j]))
+        title = ' '.join(re.sub(r'\s+', ' ', lines[k]).strip() for k in range(tstart[i], i) if lines[k].strip()) if title_before else ''
+        segs.append((gi, lines[i + 1:j], title))
     return pre, segs

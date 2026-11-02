@@ -16,18 +16,28 @@ def title_of(p):
     return t[:160]
 
 
+def uptitle(t):
+    t = re.sub(r'[\d]+', '', t).lower().strip()
+    t = re.sub(r'v(?=[^aeiouy\W]|\W|$)', 'u', t)  # v before a consonant or at the end was u
+    t = re.sub(r'(?<=[bcdfgmpqstx])v(?=[aeiou])', 'u', t)
+    t = re.sub(r'\s+', ' ', t).rstrip('. ')
+    return t[:1].upper() + t[1:] + '.'
+
+
 def chapters(cfg, lang):
     L = open(cfg['file'], errors='replace').read().split('\n')
-    pre, segs = segments(L, cfg['marker'], cfg['start'], cfg['end'], cfg.get('groups', ()))
+    pre, segs = segments(L, cfg['marker'], cfg['start'], cfg['end'], cfg.get('groups', ()), cfg.get('title_before', False))
     cl = clean if lang == 'la' else clean_en
     res = []
-    for gi, ls in segs:
+    for gi, ls, pt in segs:
         raw = cl(ls)
+        if pt:
+            raw = [uptitle(pt)] + raw
         if not raw:
             res.append((gi, '', []))
             continue
         first, rest = raw[0], raw[1:]
-        while lang == 'la' and not first.rstrip().endswith('.') and rest and len(first) < 150:
+        while lang == 'la' and not pt and not first.rstrip().endswith('.') and rest and len(first) < 150:
             first, rest = first + ' ' + rest[0], rest[1:]
         if lang != 'la':
             m = re.search(r'\s([A-Z]{3,}[,.;]?(?:\s|$))', first)
