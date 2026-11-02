@@ -1,0 +1,615 @@
+{
+  "id": "anselm-monologion",
+  "cover": "classic",
+  "name": {
+    "la": "Monologion",
+    "en-US": "The Monologium",
+    "pt-BR": "Monológio"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Primum opus maius Anselmi, «exemplum meditandi de ratione fidei»: de essentia divina, sola ratione et sine auctoritate Scripturae, in nonaginta et septem capitibus. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s first major work, “an example of meditation on the grounds of faith”: the being of God, the Trinity and the human mind’s relation to its Creator, argued in seventy-nine chapters by reason alone, without appeal to Scripture. The Latin is the Migne text (Patrologia Latina 158, 1853), from a machine-corrected OCR, with the chapter summaries; the English is Sidney Norton Deane’s 1903 translation, which follows the Latin chapter for chapter and keeps the translator’s two notes.",
+    "pt-BR": "A primeira grande obra de Anselmo, «exemplo de meditação sobre a razão da fé»: o ser de Deus, a Trindade e a relação do espírito humano com o seu Criador, discutidos em setenta e nove capítulos só com a razão, sem apelo à Escritura."
+  },
+  "composed": "1075-1076",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "anselm/monologion",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    },
+    "en-US": {
+      "translator": "Sidney Norton Deane",
+      "year": 1903
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10627",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10627, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. Dialogue turns are set as separate paragraphs. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/anselm/basic_works/cache/basic_works.txt",
+      "edition": "St. Anselm: Proslogium; Monologium; an Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo, translated from the Latin by Sidney Norton Deane (Chicago: Open Court, 1903). Christian Classics Ethereal Library plain-text edition.",
+      "description": "The Monologium only (Deane’s introduction, Gaunilo’s pleading and Anselm’s reply are not imported). Chapter titles are Deane’s chapter headings; translator’s notes are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Published in Chicago in 1903, before 1931: public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quod sit quiddam optimum et maximum et summum omnium quae sunt",
+        "en-US": "Chapter I. There is a being which is best, and greatest, and highest of all existing beings"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De eadem re",
+        "en-US": "Chapter II. The same subject continued"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quod sit quaedam natura per quam est quidquid est, et quae per se est, et est summum omnium quae sunt",
+        "en-US": "Chapter III. There is a certain Nature through which whatever is exists, and which exists through itself, and is the highest of all existing beings"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De eadem re",
+        "en-US": "Chapter IV. The same subject continued"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quod sicut illa est per se, et alia per illam; ita illa sit ex se, et alia ex illa",
+        "en-US": "Chapter V. Just as this Nature exists through itself, and other beings through it, so it derives existence from itself, and other beings from it"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Quod illa non sit ulla juvante causa ducta ad esse; nec tamen sit per nihil aut ex nihilo; et quomodo intelligi possit esse per se, et ex se",
+        "en-US": "Chapter VI. This Nature was not brought into existence with the help of any external cause, yet it does not exist through nothing, or derive existence from nothing.--How existence through self, and derived from self, is conceivable"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Quomodo alia omnia sint per illam, et ex illa",
+        "en-US": "Chapter VII. In what way all other beings exist through this Nature and derive existence from it"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Quomodo intelligendum sit quod omnia fecit ex nihilo",
+        "en-US": "Chapter VIII. How it is to be understood that this Nature created all things from nothing"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Quod ea quae facta sunt ex nihilo, nonnihil erant antequam fierent, quantum ad rationem facientis",
+        "en-US": "Chapter IX. Those things which were created from nothing had an existence before their creation in the thought of the Creator"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Quod illa ratio sit quaedam rerum locutio, sicut faber dicit prius apud se quod facturus est",
+        "en-US": "Chapter X. This thought is a kind of expression of the objects created (locutio rerum), like the expression which an artisan forms in his mind for what he intends to make"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Quod tamen multa sit in hac similitudine fabri dissimilitudo",
+        "en-US": "Chapter XI. The analogy, however, between the expression of the Creator and the expression of the artisan is very incomplete"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Quod haec summae essentiae locutio sit summa essentia",
+        "en-US": "Chapter XII. This expression of the supreme Being is the supreme Being"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quod sicut omnia per summam essentiam facta sunt, ita vigeant per ipsam",
+        "en-US": "Chapter XIII. As all things were created through the supreme Being, so all live through it"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Quod illa sit in omnibus, et per omnia et omnia sint ex illa, et per illam, et in illa",
+        "en-US": "Chapter XIV. This Being is in all things, and throughout all; and all derive existence from it and exist through and in it"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Quid possit aut non possit de illa dici substantialiter",
+        "en-US": "Chapter XV. What can or cannot be stated concerning the substance of this Being"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Quod idem sit illi esse justam, quod est esse justitiam: et eodem modo de his quae similiter de illa dici possunt; et quod nihil horum monstret qualis illa, vel quanta sit, sed quid sit",
+        "en-US": "Chapter XVI. For this Being it is the same to be just that it is to be justice; and so with regard to attributes that can be expressed in the same way: and none of these shows of what character, or how great, but what this Being is"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Quod ita sit simplex, ut omnia, quae de ejus essentia dici possunt, unum idemque sint in illa; et nihil de ea dici possit substantialiter, nisi in eo quod quid est",
+        "en-US": "Chapter XVII. It is simple in such a way that all things that can be said of its essence are one and the same in it: and nothing can be said of its substance except in terms of what it is"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Quod sit sine principio, et sine fine",
+        "en-US": "Chapter XVIII. It is without beginning and without end"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Quomodo nihil fuit ante, aut erit post illam",
+        "en-US": "Chapter XIX. In what sense nothing existed before or will exist after this Being"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Quod illa sit in omni loco et tempore",
+        "en-US": "Chapter XX. It exists in every place and at every time"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Quod in nullo sit loco aut tempore",
+        "en-US": "Chapter XXI. It exists in no place or time"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Quomodo sit in omni, et in nullo loco et tempore",
+        "en-US": "Chapter XXII. How it exists in every place and time, and in none"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. Quomodo melius intelligi possit esse ubique, quam in omni loco",
+        "en-US": "Chapter XXIII. How it is better conceived to exist everywhere than in every place"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Quomodo melius intelligi possit, « esse semper, » quam, « in omni tempore. »",
+        "en-US": "Chapter XXIV. How it is better understood to exist always than at every time"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Quod nullis mutabilis sit accidentibus",
+        "en-US": "Chapter XXV. It cannot suffer change by any accidents"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI. Quomodo illa dicenda sit esse substantia; et quod sit extra omnem substantiam, et singulariter sit quidquid est",
+        "en-US": "Chapter XXVI. How this Being is said to be substance: it transcends all substance and is individually whatever it is"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII. Quod non contineatur in communi tractatu substantiarum; et tamen sit substantia, et individuus spiritus",
+        "en-US": "Chapter XXVII. It is not included among substances as commonly treated, yet it is a substance and an indivisible spirit"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII. Quod idem spiritus simpliciter sit: et creata illi comparata non sint",
+        "en-US": "Chapter XXVIII. This Spirit exists simply, and created beings are not comparable with him"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "la": "Caput XXIX. Quod ejus locutio idipsum sit quod ipse, et ipsi sit consubstantialis, cum non sint duo, sed unus Spiritus",
+        "en-US": "Chapter XXIX. His expression is identical with himself, and consubstantial with him, since there are not two spirits, but one"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "la": "Caput XXX. Quod eadem locutio non constet ex pluribus verbis, sed sit unum Verbum",
+        "en-US": "Chapter XXX. This expression does not consist of more words than one, but is one Word"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "la": "Caput XXXI. Quod ipsum Verbum non sit similitudo factorum, sed veritas essentiae, facta vero sint aliqua veritatis imitatio. Et quae naturae magis sint et praestantiores quam aliae",
+        "en-US": "Chapter XXXI. This Word itself is not the likeness of created beings, but the reality of their being, while created beings are a kind of likeness of reality.--What natures are greater and more excellent than others"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "la": "Caput XXXII. Quod summus Spiritus seipsum dicat coaeterno Verbo",
+        "en-US": "Chapter XXXII. The supreme Spirit expresses himself by a coeternal Word"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "la": "Caput XXXIII. Quod consubstantiali uno Verbo dicat se, et quod facit",
+        "en-US": "Chapter XXXIII. He utters himself and what he creates by a single consubstantial Word"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "la": "Caput XXXIV. Quomodo suo Verbo videri possit dicere creaturam",
+        "en-US": "Chapter XXXIV. How he can express the created world by his Word"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "la": "Caput XXXV. Quod quidquid factum est, in ejus Verbo et scientia, sit vita et veritas",
+        "en-US": "Chapter XXXV. Whatever has been created is in his Word and knowledge, life and truth"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "la": "Caput XXXVI. Quam incomprehensibili modo dicat, vel sciat res a se factas",
+        "en-US": "Chapter XXXVI. In how incomprehensible a way he expresses or knows the objects created by him"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "la": "Caput XXXVII. Quod quidquid ipse est ad creaturam, hoc sit et Verbum ejus; nec tamen ambo simul pluraliter",
+        "en-US": "Chapter XXXVII. Whatever his relation to his creatures, this relation his Word also sustains: yet both do not simultaneously sustain this relation as more than one being"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "la": "Caput XXXVIII. Quod dici non possit quid duo sint, quamvis necesse sit esse duos",
+        "en-US": "Chapter XXXVIII. It cannot be explained why they are two, although they must be so"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "la": "Caput XXXIX. Quod idem Verbum sit a summo Spiritu, nascendo",
+        "en-US": "Chapter XXXIX. This Word derives existence from the supreme Spirit by birth"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "la": "Caput XL. Quod verissime ille parens, illud vero proles",
+        "en-US": "Chapter XL. He is most truly a parent, and that Word his offspring"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "la": "Caput XLI. Quod ille verissime gignat, illud verissime gignatur",
+        "en-US": "Chapter XLI. He most truly begets, and it is most truly begotten"
+      }
+    },
+    {
+      "id": "c42",
+      "title": {
+        "la": "Caput XLII. Quod alterius verissime sit esse genitorem et Patrem; alterius genitum et Filium",
+        "en-US": "Chapter XLII. It is the property of the one to be most truly progenitor and Father, and of the other to be the begotten and Son"
+      }
+    },
+    {
+      "id": "c43",
+      "title": {
+        "la": "Caput XLIII. Retractatio communionis amborum, et proprietatum singulorum",
+        "en-US": "Chapter XLIII. Consideration of the common attributes of both and the individual properties of each"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "la": "Caput XLIV. Quomodo alter alterius sit essentia",
+        "en-US": "Chapter XLIV. How one is the essence of the other"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "la": "Caput XLV. Quod aptius dici possit Filius essentia Patris, quam Pater essentia Filii: et quod similiter sit Filius Patris virtus, et sapientia, et similia",
+        "en-US": "Chapter XLV. The Son may more appropriately be called the essence of the Father, than the Father the essence of the Son: and in like manner the Son is the virtue, wisdom, etc., of the Father"
+      }
+    },
+    {
+      "id": "c46",
+      "title": {
+        "la": "Caput XLVI. Quomodo quaedam ex his quae sic proferuntur, aliter quoque possint intelligi",
+        "en-US": "Chapter XLVI. How some of these truths which are thus expounded may also be conceived of in another way"
+      }
+    },
+    {
+      "id": "c47",
+      "title": {
+        "la": "Caput XLVII. Quod Filius sit intelligentia intelligentiae et Veritas veritatis",
+        "en-US": "Chapter XLVII. The Son is the intelligence of intelligence and the Truth of truth"
+      }
+    },
+    {
+      "id": "c48",
+      "title": {
+        "la": "Caput XLVIII. Quod et quomodo Filius sit intelligentia vel sapientia memoriae, et memoria Patris et memoriae",
+        "en-US": "Chapter XLVIII. How the Son is the intelligence or wisdom of memory or the memory of the Father and of memory"
+      }
+    },
+    {
+      "id": "c49",
+      "title": {
+        "la": "Caput XLIX. Quod summus Spiritus se amet",
+        "en-US": "Chapter XLIX. The supreme Spirit loves himself"
+      }
+    },
+    {
+      "id": "c50",
+      "title": {
+        "la": "Caput L. Quod idem amor pariter procedat a Patre et Filio",
+        "en-US": "Chapter L. The same love proceeds equally from Father and Son"
+      }
+    },
+    {
+      "id": "c51",
+      "title": {
+        "la": "Caput LI. Quod uterque pari amore diligat se, et alterum",
+        "en-US": "Chapter LI. Each loves himself and the other with equal love"
+      }
+    },
+    {
+      "id": "c52",
+      "title": {
+        "la": "Caput LII. Quod tantus sit iste amor, quantus est ipse summus Spiritus",
+        "en-US": "Chapter LII. This love is as great as the supreme Spirit himself"
+      }
+    },
+    {
+      "id": "c53",
+      "title": {
+        "la": "Caput LIII. Quod idem amor sit idipsum quod est summus Spiritus; et tamen ipse sit cum Patre et Filio unus spiritus",
+        "en-US": "Chapter LIII. This love is identical with the supreme Spirit, and yet it is itself with the Father and the Son one spirit"
+      }
+    },
+    {
+      "id": "c54",
+      "title": {
+        "la": "Caput LIV. Quod totus procedat a Patre, tolus a Filio; et tamen non sit nisi unus amor",
+        "en-US": "Chapter LIV. It proceeds as a whole from the Father, and as a whole from the Son, and yet does not exist except as one love"
+      }
+    },
+    {
+      "id": "c55",
+      "title": {
+        "la": "Caput LV. Quod non sit eorum Filius amor",
+        "en-US": "Chapter LV. This love is not their Son"
+      }
+    },
+    {
+      "id": "c56",
+      "title": {
+        "la": "Caput LVI. Quod solus Pater sit genitor, et ingenitus; solus Filius genitus, solus amor nec genitus, nec ingenitus",
+        "en-US": "Chapter LVI. Only the Father begets and is unbegotten; only the son is begotten; only love neither begotten nor unbegotten"
+      }
+    },
+    {
+      "id": "c57",
+      "title": {
+        "la": "Caput LVII. Quod amor idem sic sit increatus et creator, sicut Pater et Filius: et tamen ipse cum illis non tres, sed unus increatus, et unus creator. Et quod idem possit dici Spiritus Patris et Filii",
+        "en-US": "Chapter LVII. This love is uncreated and creator, as are Father and Son; and yet it is with them not three, but one uncreated and creative being. And it may be called the Spirit of Father and Son"
+      }
+    },
+    {
+      "id": "c58",
+      "title": {
+        "la": "Caput LVIII. Quod sicut Filius est essentia vel sapientia Patris, eo sensu, quia habet eamdem essentiam vel sapientiam quam Pater; sic idem Spiritus sit Patris et Filii essentia et sapientia, et similia",
+        "en-US": "Chapter LVIII. As the Son is the essence or wisdom of the Father in the sense that he has the same essence or wisdom that the Father has: so likewise the Spirit is the essence and wisdom etc. of Father and Son"
+      }
+    },
+    {
+      "id": "c59",
+      "title": {
+        "la": "Caput LIX. Quod Pater, et Filius, et eorum Spiritus, pariter sint in se invicem",
+        "en-US": "Chapter LIX. The Father and the Son and their Spirit exist equally the one in the other"
+      }
+    },
+    {
+      "id": "c60",
+      "title": {
+        "la": "Caput LX. Quod nullus eorum alio indigeat ad memorandum, vel intelligendum, vel amandum; quia singulus quisque est memoria, et intelligentia, et amor, et quidquid necesse est inesse summae essentiae",
+        "en-US": "Chapter LX. To none of these is another necessary that he may remember, conceive, or love: since each taken by himself is memory and intelligence and love and all that is necessarily inherent in the supreme Being"
+      }
+    },
+    {
+      "id": "c61",
+      "title": {
+        "la": "Caput LXI. Quod tamen non sint tres, sed unus, seu Pater, seu Filius, seu utriusque Spiritus",
+        "en-US": "Chapter LXI. Yet there are not three, but one Father and one Son and one Spirit"
+      }
+    },
+    {
+      "id": "c62",
+      "title": {
+        "la": "Caput LXII. Quomodo ex his tribus plures filii nasci videantur",
+        "en-US": "Chapter LXII. How it seems that of these three more sons than one are born"
+      }
+    },
+    {
+      "id": "c63",
+      "title": {
+        "la": "Caput LXIII. Quomodo non sit ibi nisi unus unius; hoc est, unum Verbum, et ex solo Patre",
+        "en-US": "Chapter LXIII. How among them there is only one Son of one Father, that is, one Word, and that from the Father alone"
+      }
+    },
+    {
+      "id": "c64",
+      "title": {
+        "la": "Caput LXIV. Quod hoc licet inexplicabile sit, tamen credendum sit",
+        "en-US": "Chapter LXIV. Though this truth is inexplicable, it demands belief"
+      }
+    },
+    {
+      "id": "c65",
+      "title": {
+        "la": "Caput LXV. Quomodo de ineffabili re verum disputatum sit",
+        "en-US": "Chapter LXV. How real truth may be reached in the discussion of an ineffable subject"
+      }
+    },
+    {
+      "id": "c66",
+      "title": {
+        "la": "Caput LXVI. Quod per rationalem mentem maxime accedatur ad cognoscendum summam essentiam",
+        "en-US": "Chapter LXVI. Through the rational mind is the nearest approach to the supreme Being"
+      }
+    },
+    {
+      "id": "c67",
+      "title": {
+        "la": "Caput LXVII. Quod mens ipsa speculum ejus, et imago ejus sit",
+        "en-US": "Chapter LXVII. The mind itself is the mirror and image of that Being"
+      }
+    },
+    {
+      "id": "c68",
+      "title": {
+        "la": "Caput LXVIII. Quod rationalis creatura ad amandum illam facta sit",
+        "en-US": "Chapter LXVIII. The rational creature was created in order that it might love this Being"
+      }
+    },
+    {
+      "id": "c69",
+      "title": {
+        "la": "Caput LXIX. Quod anima semper illam amans, aliquando vere beate vivat",
+        "en-US": "Chapter LXIX. The soul that ever loves this Essence lives at some time in true blessedness"
+      }
+    },
+    {
+      "id": "c70",
+      "title": {
+        "la": "Caput LXX. Quod illa se amanti seipsam retribuat ut aeterne beata sit",
+        "en-US": "Chapter LXX. This Being gives itself in return to the creature that loves it, that that creature may be eternally blessed"
+      }
+    },
+    {
+      "id": "c71",
+      "title": {
+        "la": "Caput LXXI. Quod illam contemnens, aeterne misera sit",
+        "en-US": "Chapter LXXI. The soul that despises this being will be eternally miserable"
+      }
+    },
+    {
+      "id": "c72",
+      "title": {
+        "la": "Caput LXXII. Quod omnis anima humana sit immortalis. Et quod aut semper misera, aut aliquando vere beata sit",
+        "en-US": "Chapter LXXII. Every human soul is immortal. And it is either forever miserable, or at some time truly blessed"
+      }
+    },
+    {
+      "id": "c73",
+      "title": {
+        "la": "Caput LXXIII. Quod nulla anima injuste privetur summo bono, et quod omnino ad ipsum sit nitendum",
+        "en-US": "Chapter LXXIII. No soul is unjustly deprived of the supreme good, and every effort must be directed toward that good"
+      }
+    },
+    {
+      "id": "c74",
+      "title": {
+        "la": "Caput LXXIV. Quod summa essentia sit speranda",
+        "en-US": "Chapter LXXIV. The supreme Being is to be hoped for"
+      }
+    },
+    {
+      "id": "c75",
+      "title": {
+        "la": "Caput LXXV. Quod credendum sit in illam, hoc est, credendo tendendum in illam",
+        "en-US": "Chapter LXXV. We must believe in this Being, that is, by believing we must reach out for it"
+      }
+    },
+    {
+      "id": "c76",
+      "title": {
+        "la": "Caput LXXVI. Quod in Patrem, et Filium, et eorum Spiritum pariter et in singulos, et simul in tres credendum sit",
+        "en-US": "Chapter LXXVI. We should believe in Father and Son and in their Spirit equally, and in each separately, and in the three at once"
+      }
+    },
+    {
+      "id": "c77",
+      "title": {
+        "la": "Caput LXXVII. Quae sit viva, quae mortua fides",
+        "en-US": "Chapter LXXVII. What is living, and what dead faith"
+      }
+    },
+    {
+      "id": "c78",
+      "title": {
+        "la": "Caput LXXVIII. Quod tres summa essentia quodammodo dici possit",
+        "en-US": "Chapter LXXVIII. The supreme Being may in some sort be called Three"
+      }
+    },
+    {
+      "id": "c79",
+      "title": {
+        "la": "Caput LXXIX. Quod ipsa sit Deus, qui solus omnibus dominatur et omnia regit",
+        "en-US": "Chapter LXXIX. This Essence itself is God, who alone is lord and ruler of all"
+      }
+    }
+  ]
+}
