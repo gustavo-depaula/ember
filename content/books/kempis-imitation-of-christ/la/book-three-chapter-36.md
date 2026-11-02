@@ -1,0 +1,7 @@
+# Contra vana hominum iudicia
+
+Fili, iacta cor tuum firmiter in Domino, et humanum ne metuas iudicium, ubi te conscientia pium reddit et insontem. Bonum est et beatum taliter pati, nec hoc erit grave humili cordi et Deo magis quam sibi ipsi confidenti. Multi multa loquuntur, et ideo parva fides est adhibenda. Sed et omnibus satis esse, non est possibile. Etsi Paulus omnibus studuit in Domino placere et omnibus omnia factus est, tamen etiam pro minimo duxit, quod ab humano die iudicatus fuit.
+
+Egit satis pro aliorum aedificatione et salute, quantum in se erat et poterat; sed ne ab aliis aliquando iudicaretur, vel non despiceretur, cohibere non potuit. Ideo totum Deo commisit, qui totum noverat; et patientia ac humilitate contra ora loquentium iniqua aut etiam vana ac mendosa cogitantium atque pro libitu suo quaeque iactantium se defendit. Respondit tamen interdum, ne infirmis ex sua taciturnitate generaretur scandalum.
+
+Quis tu, ut timeas a mortali homine? Hodie est, et cras non comparet. Deum time, et hominum terrores non expavesces. Quid potest aliquis in te verbis aut iniuris? Sibi potius nocet, quam tibi; nec poterit iudicium Dei effugere, quicumque est ille. Tu habe Deum prae oculis, et noli contendere verbis querulosis. Quodsi ad praesens tu videris succumbi et confusionem pati, quam non meruisti: ne indigneris ex hoc, neque per impatientiam minuas coronam tuam, sed ad me potius respice in caelum, qui potens sum eripere ab omni confusione et iniuria, et unicuique reddere secundum opera sua.

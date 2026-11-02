@@ -1,0 +1,5 @@
+# De utilitate adversitatis
+
+Bonum nobis est, quod aliquando habeamus aliquas gravitates et contrarietates; quia saepe hominem ad cor revocant, quatinus se in exilio esse cognoscat, nec spem suam in aliqua re mundi ponat. Bonum est, quod patiamur quandoque contradictiones, et quod male et imperfecte de nobis sentiatur, etiam si bene agimus et intendimus. Ista saepe iuvant ad humilitatem et a vana gloria nos defendunt. Tunc enim melius interiorem testem Deum quaerimus, quando foris vilipendimur ab hominibus, et non bene nobis creditur.
+
+Ideo deberet se homo in Deo taliter-firmare, ut non esset ei necesse multas humanas consolationes quaerere. Quando homo bonae voluntatis tribulatur vel temptatur, aut malis cogitationibus affligitur: tunc Deum sibi magis necessarium intellegit, sine quo nihil boni se posse deprehendit. Tunc etiam tristatur, gemit, et orat pro miseriis, quas patitur. Tunc taedet eum.diutius vivere, et mortem optat venire: ut possit dissolvi et cum Christo esse. Tunc etiam bene advertit, perfectam securitatem et plenam pacem in mundo non posse constare.

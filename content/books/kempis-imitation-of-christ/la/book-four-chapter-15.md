@@ -1,0 +1,11 @@
+# Quod gratia devotionis humilitate et sui ipsius abnegatione acquiritur
+
+*Vox dilecti.*
+
+Oportet te devotionis gratiam instanter quaerere, desideranter petere, patienter et fiducialiter expectare, gratanter recipere, humiliter conservare, studiose cum ea operari, ac Deo terminum et modum supernae visitationis, donec veniat, committere. Humiliare praecipue te debes, cum parum aut nihil devotionis interius sentis; sed non nimium deici, nec inordinate contristari. Dat saepe Deus in uno brevi momento, quod longo negavit tempore; dat quandoque in fine, quod in principio orationis distulit dare.
+
+Si semper cito gratia daretur, et pro voto adesset, non esset infirmo homini bene portabile. Propterea in bona spe et humili patientia expectanda est de votionis gratia. Tibi tamen et peccatis tuis imputa, cum non datur vel etiam occulte tollitur. Modicum quandoque st, quod gratiam impedit et abscondit; si tamen modicum, et non potius grande dici debeat, quod tantum bonum prohibet. Et si hoc ipsum modicum vel grande amoveris, et perfecte viceris, erit, quod petisti.
+
+Statim namque, ut te Deo ex toto corde tradideris, nec hoc vel illud pro tuo libitu seu velle quaesieris, sed integre te in ipso posueris, unitum te invenies et pacatum; quia nil ita bene sapiet et placebit, sicut beneplacitum divinae voluntatis. Quisquis ergo intentionem suam simplici corde sursum ad Deum levaverit, seque ab omni inordinato amore seu displicentia cuiuslibet rei creatae evacuaverit, aptissimus gratiae percipiendae ac dignus.devotionis munere erit. Dat enim Dominus ibi benedictionem suam, ubi vasa vacua invenerit. Et quanto perfectius infimis quis renuntiat, et magis sibi ipsi per contemptum sui moritur, tanto gratia celerius venit, copiosius intrat et altius liberum cor elevat.
+
+Tunc videbit, et affluet, et mirabitur, et dilatabitur cor eius in ipso, quia manus Domini cum eo, et ipse se posuit totaliter in manu eius usque in saeculum. Ecce, sic benedicetur homo, qui quaerit Deum in toto corde suo, nec in vanum accipit animam suam. Sic in accipiendo sacram eucharistiam magnam promeretur divinae unionis gratiam, quia non respicit ad propriam devotionem et consolationem, sed super omnem devotionem et consolationem ad Dei gloriam et honorem.

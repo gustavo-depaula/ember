@@ -1,0 +1,11 @@
+# Quod privatus amor a summo bono maxime retardat
+
+Fili, oportet te dare totum pro toto, et nihil tui ipsius esse. Scito, quod amor tui ipsius magis nocet tibi, quam aliqua res mundi. Secundum amorem et affectum, quem geris, quaelibet res plus vel minus adhaeret. Si fuerit amor tuus purus, simplex et bene ordinatus, eris sine captivitate rerum. Noli concupiscere, quod non licet habere; noli habere, quod te potest impedire et libertate interiori privare. Mirum, quod non ex toto fundo cordis te ipsum mihi committis cum omnibus, quae desiderare potes vel habere.
+
+Quare vano maerore consumeris? Cur superfluis curis fatigaris? Sta ad beneplacitum meum, et nullum patieris detrimentum. Si quaeris hoc vel illud, et volueris esse ibi vel ibi propter tuum commodum et proprium beneplacitum magis habendum: numquam eris in quietudine, nec liber a sollicitudine, quia in omni re reperietur aliquis defectus, et in omni loco erit, qui adversetur.
+
+Iuvat igitur non quaelibet res adepta vel multiplicata exterius, sed potius contempta et decisa ex corde radicitus. Quod non tantum de censu aeris et divitiarum intellegas, sed de honoris etiam ambitu ac vanae laudationis desiderio, quae omnia transeunt cum mundo. Munit parum locus, si deest spiritus fervoris; nec diu stabit pax illa quaesita forinsecus, si vacat a vero fundamento status cordis, hoc est, nisi steteris in me; permutare te potes, sed non meliorare. Nam occasione orta et accepta, invenies, quod fugisti, et amplius. Oratio pro purgatione cordis et caelestis sapientia.
+
+Confirma me, Deus, per gratiam Sancti Spiritus. Da virtutem corroborari in interiori homine, et cor meum ab omni inutili sollicitudine et angore evacuare, nec variis desideriis trahi cuiuscumque rei, vilis aut pretiosae; sed omnia inspicere sicut transeuntia, et me pariter cum illis transiturum: quia nihil permanens sub sole, ubi omnia vanitas et afflictio spiritus. O quam sapiens, qui ita considerat!
+
+Da mihi, Domine, caelestem sapientiam,. ut discam te super omnia quaerere et invenire, super omnia sapere et diligere, et cetera secundum ordinem sapientiae tuae, prout sunt, intellegere. Da prudenter declinare blandientem et patienter ferre adversantem, quia haec magna sapientia, non moveri omni vento verborum, nec aurem male blandienti praebere Sirenae; sic enim incepta pergitur via secure.

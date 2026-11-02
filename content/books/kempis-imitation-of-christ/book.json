@@ -2,29 +2,52 @@
   "id": "kempis-imitation-of-christ",
   "cover": "arch",
   "name": {
+    "la": "De imitatione Christi",
     "en-US": "The Imitation of Christ",
     "pt-BR": "A Imitação de Cristo"
   },
   "languages": [
+    "la",
     "en-US",
     "pt-BR"
   ],
   "author": {
+    "la": "Thomas a Kempis",
     "en-US": "Thomas à Kempis",
     "pt-BR": "Tomás de Kempis"
   },
   "composed": "c. 1400",
   "sources": [
     {
+      "language": "la",
+      "url": "https://librinostri.catholica.cz/download/KempLat1909Liberi-r.pdf",
+      "edition": "Thomae a Kempis De imitatione Christi libri quatuor, textum edidit Hermannus Gerlach, editio tertia aucta et emendata, Friburgi Brisgoviae: Herder, 1909 (PDF text layer from the Czech Catholic library Libri nostri, extracted with pdftotext).",
+      "description": "The text of the four books only. Gerlach's \"Considerationes\" (parallel passages from Thomas's other opuscula) and their footnotes, his preface and the index are not included; the 1909 section numbers are dropped and each section is a paragraph. The scan's OCR errors were corrected by script and by comparison with Pohl's 1904 edition (archive.org operaomniaimitat0000thom) and thelatinlibrary.com; some may remain. The \"Vox discipuli\"/\"Vox dilecti\" speaker rubrics of Book IV are kept in italics.",
+      "tier": "A",
+      "tierEvidence": "Thomas died in 1471; the edition was published in 1909, so it is public domain in the United States (published before 1931) and in Brazil. Gerlach (d. after 1909) added only a preface and the Considerationes, which are not included."
+    },
+    {
       "language": "en-US",
       "url": "http://ccel.org/k/kempis/imitation/About.htm",
-      "description": "Christian Classics Ethereal Library (ccel.org)"
+      "description": "Christian Classics Ethereal Library (ccel.org)",
+      "edition": "The Imitation of Christ, \"translated from the Latin into modern English\" by Aloysius Croft and Harold Bolton, Milwaukee: Bruce Publishing Company, 1940 (nihil obstat and imprimatur of 5 November 1940), CCEL e-text.",
+      "tier": "B",
+      "tierEvidence": "CCEL lists the e-text as public domain, but whether the 1940 Bruce copyright was renewed was not checked; free in practice, rights unverified."
+    },
+    {
+      "language": "pt-BR",
+      "url": "sources/portuguese-originals/imitacao-de-cristo-lcc.pdf",
+      "edition": "Local PDF imitacao-de-cristo-lcc.pdf (sources/portuguese-originals/); the translator and the printed edition are not identified in the file.",
+      "description": "Portuguese text of the four books with the source's footnotes.",
+      "tier": "unverified",
+      "tierEvidence": "No translator, date or rights statement is given in the file; its tier has not been established."
     }
   ],
   "toc": [
     {
       "id": "title-page",
       "title": {
+        "la": "Pagina tituli",
         "en-US": "Title Page",
         "pt-BR": "Página de rosto"
       }
@@ -32,6 +55,7 @@
     {
       "id": "foreword",
       "title": {
+        "la": "Praefatio",
         "en-US": "Foreword",
         "pt-BR": "Prefácio"
       }
@@ -39,6 +63,7 @@
     {
       "id": "book-one",
       "title": {
+        "la": "Admonitiones ad spiritualem vitam utiles",
         "en-US": "Thoughts Helpful in the Life of the Soul",
         "pt-BR": "Avisos úteis para a vida espiritual"
       },
@@ -46,6 +71,7 @@
         {
           "id": "book-one-chapter-1",
           "title": {
+            "la": "De Imitatione Christi et contemptu omnium vanitatum mundi",
             "en-US": "Imitating Christ and Despising All Vanities on Earth",
             "pt-BR": "Da imitação de Cristo e desprezo de todas as vaidades do mundo"
           }
@@ -53,6 +79,7 @@
         {
           "id": "book-one-chapter-2",
           "title": {
+            "la": "De humili sentire sui ipsius",
             "en-US": "Having a Humble Opinion of Self",
             "pt-BR": "Do humilde sentir de si mesmo"
           }
@@ -60,6 +87,7 @@
         {
           "id": "book-one-chapter-3",
           "title": {
+            "la": "De doctrina veritatis",
             "en-US": "The Doctrine of Truth",
             "pt-BR": "Dos ensinamentos da verdade"
           }
@@ -67,6 +95,7 @@
         {
           "id": "book-one-chapter-4",
           "title": {
+            "la": "De providentia in agendis",
             "en-US": "Prudence in Action",
             "pt-BR": "Da prudência nas ações"
           }
@@ -74,6 +103,7 @@
         {
           "id": "book-one-chapter-5",
           "title": {
+            "la": "De lectione Sanctarum Scripturarum",
             "en-US": "Reading the Holy Scripture",
             "pt-BR": "Da leitura das Sagradas Escrituras"
           }
@@ -81,6 +111,7 @@
         {
           "id": "book-one-chapter-6",
           "title": {
+            "la": "De inordinatis affectionibus",
             "en-US": "Unbridled Affections",
             "pt-BR": "Das afeições desordenadas"
           }
@@ -88,6 +119,7 @@
         {
           "id": "book-one-chapter-7",
           "title": {
+            "la": "De vana spe et elatione fugienda",
             "en-US": "Avoiding False Hope and Pride",
             "pt-BR": "Como se deve fugir à vã esperança e presunção"
           }
@@ -95,6 +127,7 @@
         {
           "id": "book-one-chapter-8",
           "title": {
+            "la": "De cavenda nimia familiaritate",
             "en-US": "Shunning Over-Familiarity",
             "pt-BR": "Como se deve evitar a excessiva familiaridade"
           }
@@ -102,6 +135,7 @@
         {
           "id": "book-one-chapter-9",
           "title": {
+            "la": "De oboedientia et subiectione",
             "en-US": "Obedience and Subjection",
             "pt-BR": "Da obediência e submissão"
           }
@@ -109,6 +143,7 @@
         {
           "id": "book-one-chapter-10",
           "title": {
+            "la": "De cavenda superfluitate verborum",
             "en-US": "Avoiding Idle Talk",
             "pt-BR": "Como se devem evitar as conversas supérfluas"
           }
@@ -116,6 +151,7 @@
         {
           "id": "book-one-chapter-11",
           "title": {
+            "la": "De pace acquirenda et zelo proficiendi",
             "en-US": "Acquiring Peace and Zeal for Perfection",
             "pt-BR": "Da paz e do zelo em aproveitar"
           }
@@ -123,6 +159,7 @@
         {
           "id": "book-one-chapter-12",
           "title": {
+            "la": "De utilitate adversitatis",
             "en-US": "The Value of Adversity",
             "pt-BR": "Da utilidade das adversidades1. Bom é passarmos algumas vezes por aflições e contrariedades, porque freqüentemente fazem o homem refletir, lembrando-lhe que vive no desterro e, portanto, não deve pôr sua esperança em coisas alguma do mundo. Bom é econtrarmos às vezes contradições, e que de nós façam conceito mau ou pouco favorável, ainda quando nossas obras e intenções sejam boas. Isto ordinariamente nos conduz à humildade e nos preserva da vanglória. Porque, então, mais depressa recorremos ao testemunho interior de Deus, quando de fora somos vilipendiados e desacreditados pelos homens."
           }
@@ -130,6 +167,7 @@
         {
           "id": "book-one-chapter-13",
           "title": {
+            "la": "De temptationibus resistendis",
             "en-US": "Resisting Temptation",
             "pt-BR": "Como se há de resistir às tentações"
           }
@@ -137,6 +175,7 @@
         {
           "id": "book-one-chapter-14",
           "title": {
+            "la": "De temerario iudicio vitando",
             "en-US": "Avoiding Rash Judgment",
             "pt-BR": "Como se deve evitar o juízo temerário"
           }
@@ -144,6 +183,7 @@
         {
           "id": "book-one-chapter-15",
           "title": {
+            "la": "De operibus ex caritate factis",
             "en-US": "Works Done in Charity",
             "pt-BR": "Das obras feitas com caridade1. Por nenhuma coisa do mundo, nem por amor de pessoa alguma, se deve praticar qualquer mal; mas, em prol de algum necessitado, pode-se, às vezes, omitir uma boa obra, ou trocá-la por outra melhor. Desta sorte, a boa obra não se perde, mas se converte em outra melhor. Sem a caridade, nada vale a obra exterior; tudo, porém, que da caridade procede, por insignificante e desprezível que seja, produz abundantes frutos, porque Deus não atende tanto à obra, como à intenção com que a fazemos."
           }
@@ -151,6 +191,7 @@
         {
           "id": "book-one-chapter-16",
           "title": {
+            "la": "De sufferentia defectuum aliorum",
             "en-US": "Bearing with the Faults of Others",
             "pt-BR": "Do sofrer os defeitos dos outros"
           }
@@ -158,6 +199,7 @@
         {
           "id": "book-one-chapter-17",
           "title": {
+            "la": "De monastica vita",
             "en-US": "Monastic Life",
             "pt-BR": "Da vida monástica"
           }
@@ -165,6 +207,7 @@
         {
           "id": "book-one-chapter-18",
           "title": {
+            "la": "De exemplis sanctorum patrum",
             "en-US": "The Example Set Us by the Holy Fathers",
             "pt-BR": "Dos exemplos dos Santos Padres"
           }
@@ -172,6 +215,7 @@
         {
           "id": "book-one-chapter-19",
           "title": {
+            "la": "De exercitiis boni religiosi",
             "en-US": "The Practices of a Good Religious",
             "pt-BR": "Dos exercícios do bom religioso"
           }
@@ -179,6 +223,7 @@
         {
           "id": "book-one-chapter-20",
           "title": {
+            "la": "De amore solitudinis et silentii",
             "en-US": "The Love of Solitude and Silence",
             "pt-BR": "Do amor à solidão e ao silêncio"
           }
@@ -186,6 +231,7 @@
         {
           "id": "book-one-chapter-21",
           "title": {
+            "la": "De compunctione cordis",
             "en-US": "Sorrow of Heart",
             "pt-BR": "Da compunção do coração"
           }
@@ -193,6 +239,7 @@
         {
           "id": "book-one-chapter-22",
           "title": {
+            "la": "De consideratione humanae miseriae",
             "en-US": "Thoughts on the Misery of Man",
             "pt-BR": "Da consideração da miséria humana"
           }
@@ -200,6 +247,7 @@
         {
           "id": "book-one-chapter-23",
           "title": {
+            "la": "De meditatione mortis",
             "en-US": "Thoughts on Death",
             "pt-BR": "Da meditação da morte"
           }
@@ -207,6 +255,7 @@
         {
           "id": "book-one-chapter-24",
           "title": {
+            "la": "De iudicio et poenis peccatorum",
             "en-US": "Judgment and the Punishment of Sin",
             "pt-BR": "Do juízo e das penas dos pecadores1. Em todas as coisas olha o fim, e de que sorte estarás diante do severo Juiz a quem nada é oculto, que não se deixa aplacar com dádivas, nem aceita desculpas, mas que julgará segundo a justiça. Ó misérrimo e insensato pecador! Que responderás a Deus, que conhece todos os teus crimes, se, às vezes, te amedronta até o olhar dum homem irado? Por que não te acautelas para o dia do juízo, quando ninguém poderá ser desculpado ou defendido por outrem, mas cada um terá assaz que fazer por si? Agora o teu trabalho é frutuoso, o teu pranto aceito, o teu gemer ouvido, satisfatória a tua contrição."
           }
@@ -214,6 +263,7 @@
         {
           "id": "book-one-chapter-25",
           "title": {
+            "la": "De ferventi emendatione totius vitae nostrae",
             "en-US": "Zeal in Amending our Lives",
             "pt-BR": "Da diligente emenda de toda a nossa vida1. Sê vigilante e diligente no serviço de Deus, e pergunta-te a miúdo: a que vieste, para que deixaste o mundo? Não será para viver por Deus e tornar-te homem espiritual? Trilha, pois, com fervor o caminho da perfeição, porque em breve receberás o prêmio dos teus trabalhos; nem te afligirão, daí por diante, temores nem dores. Agora, terás algum trabalho; mas depois acharás grande repouso e perpétua alegria. Se tu permaneceres fiel e diligente no seu serviço, Deus, sem dúvida, será fiel e generoso no prêmio. Conserva a firme esperança de alcançar a palma; não cries, porém"
           }
@@ -223,6 +273,7 @@
     {
       "id": "book-two",
       "title": {
+        "la": "Admonitiones ad interna trahentes",
         "en-US": "The Interior Life",
         "pt-BR": "Exortações à vida interior"
       },
@@ -230,6 +281,7 @@
         {
           "id": "book-two-chapter-1",
           "title": {
+            "la": "De interna conversatione",
             "en-US": "Meditation",
             "pt-BR": "Da vida interior"
           }
@@ -237,6 +289,7 @@
         {
           "id": "book-two-chapter-2",
           "title": {
+            "la": "De humili submissione",
             "en-US": "Humility",
             "pt-BR": "Da humilde submissão 1.Não te importes muito de saber quem seja por ti ou contra ti; mas trata e procura que Deus seja contigo em tudo que fizeres. Tem boa consciência e Deus te defenderá, pois a quem Deus ajuda não há maldade que o possa prejudicar. Se souberes calar e sofrer, verás, sem dúvida, o socorro do Senhor. Ele sabe o tempo e o modo de te livrar; portanto, entrega-te todo a ele. A Deus pertence aliviar-nos e tirar-nos de toda a confusão. Às vezes é muito útil, para melhor conservarmos a humildade, que os outros saibam os nossos defeitos e no-los repreendam."
           }
@@ -244,6 +297,7 @@
         {
           "id": "book-two-chapter-3",
           "title": {
+            "la": "De bono pacifico homine",
             "en-US": "Goodness and Peace in Man",
             "pt-BR": "Do homem bom e pacífico"
           }
@@ -251,6 +305,7 @@
         {
           "id": "book-two-chapter-4",
           "title": {
+            "la": "De pura mente et simplici intentione",
             "en-US": "Purity of Mind and Unity of Purpose",
             "pt-BR": "Da mente pura e da intenção simples"
           }
@@ -258,6 +313,7 @@
         {
           "id": "book-two-chapter-5",
           "title": {
+            "la": "De propria consideratione",
             "en-US": "Ourselves",
             "pt-BR": "Da consideração de si mesmo"
           }
@@ -265,6 +321,7 @@
         {
           "id": "book-two-chapter-6",
           "title": {
+            "la": "De laetitia bonae conscientiae",
             "en-US": "The Joy of a Good Conscience",
             "pt-BR": "Da alegria da boa consciência"
           }
@@ -272,6 +329,7 @@
         {
           "id": "book-two-chapter-7",
           "title": {
+            "la": "De amore Iesu super omnia",
             "en-US": "Loving Jesus Above All Things",
             "pt-BR": "Do amor de Jesus sobre todas a coisas"
           }
@@ -279,6 +337,7 @@
         {
           "id": "book-two-chapter-8",
           "title": {
+            "la": "De familiari amicitia Iesu",
             "en-US": "The Intimate Friendship of Jesus",
             "pt-BR": "Da familiar amizade com Jesus"
           }
@@ -286,6 +345,7 @@
         {
           "id": "book-two-chapter-9",
           "title": {
+            "la": "De carentia omnis solacii",
             "en-US": "Wanting No Share in Comfort",
             "pt-BR": "Da privação de toda consolação"
           }
@@ -293,6 +353,7 @@
         {
           "id": "book-two-chapter-10",
           "title": {
+            "la": "De gratitudine pro gratia Dei",
             "en-US": "Appreciating God's Grace",
             "pt-BR": "Do agradecimento pela graça de Deus"
           }
@@ -300,6 +361,7 @@
         {
           "id": "book-two-chapter-11",
           "title": {
+            "la": "De paucitate amatorum crucis Iesu",
             "en-US": "Few Love the Cross of Jesus",
             "pt-BR": "Quão poucos são os que amam a cruz de Jesus"
           }
@@ -307,6 +369,7 @@
         {
           "id": "book-two-chapter-12",
           "title": {
+            "la": "De regia via sanctae crucis",
             "en-US": "The Royal Road of the Holy Cross",
             "pt-BR": "Da estrada real da santa cruz"
           }
@@ -316,6 +379,7 @@
     {
       "id": "book-three",
       "title": {
+        "la": "De interna consolatione",
         "en-US": "Internal Consolation",
         "pt-BR": "Da consolação interior"
       },
@@ -323,6 +387,7 @@
         {
           "id": "book-three-chapter-1",
           "title": {
+            "la": "De interna Christi locutione ad animam fidelem",
             "en-US": "The Inward Conversation of Christ with the Faithful Soul",
             "pt-BR": "Da comunicação íntima de Cristo com a alma fiel"
           }
@@ -330,6 +395,7 @@
         {
           "id": "book-three-chapter-2",
           "title": {
+            "la": "Quod veritas intus loquitur sine strepitu verborum",
             "en-US": "Truth Speaks Inwardly Without the Sound of Words",
             "pt-BR": "Que a verdade fala dentro de nós, sem estrépito de palavras1. Falai, Senhor, que o vosso servo escuta: Vosso servo sou eu, daí- me inteligência para que conheça os vossos ensinamentos. Inclinai meu coração às palavras de vossa boca; nele penetre, qual orvalho, vosso discurso (1Rs 3,10; Sl 118.36.125; Dt 32,2). Diziam, outrora, os filhos de Israel a Moisés: Fala-nos tu e te ouviremos; não nos fale o Senhor, para que não morramos (Êx 20,19). Não assim, Senhor, não assim, vos rogo eu; antes, como o profeta Samuel, humilde e ansioso, vos suplico: Falai, Senhor, que o vosso servo escuta. Não fale Moisés, nem algum dos profetas, mas falai- me de vós, Senhor, Deus, que inspirastes e iluminastes todos os profetas, porque vós podeis, sem eles, me ensinar perfeitamente, ao passo que eles, sem vós, de nada me serviriam."
           }
@@ -337,6 +403,7 @@
         {
           "id": "book-three-chapter-3",
           "title": {
+            "la": "Quod verba Dei cum humilitate sunt audienda, et quod multi ea non ponderant",
             "en-US": "Listen Humbly to the Words of God. Many Do Not Heed Them",
             "pt-BR": "Como as palavras de Deus devem ser ouvidas com humildade e como muitos não as ponderam"
           }
@@ -344,6 +411,7 @@
         {
           "id": "book-three-chapter-4",
           "title": {
+            "la": "Quod in veritate et humilitate coram Deo conversandum est",
             "en-US": "We Must Walk Before God in Humility and Truth",
             "pt-BR": "Que devemos andar perante Deus em verdade e humildade"
           }
@@ -351,6 +419,7 @@
         {
           "id": "book-three-chapter-5",
           "title": {
+            "la": "De mirabili effectu divini amoris",
             "en-US": "The Wonderful Effect of Divine Love",
             "pt-BR": "Dos admiráveis efeitos do amor divino"
           }
@@ -358,6 +427,7 @@
         {
           "id": "book-three-chapter-6",
           "title": {
+            "la": "De probatione veri amatoris",
             "en-US": "The Proving of a True Lover",
             "pt-BR": "Da prova do verdadeiro amor"
           }
@@ -365,6 +435,7 @@
         {
           "id": "book-three-chapter-7",
           "title": {
+            "la": "De occultanda gratia sub humilitatis custodia",
             "en-US": "Grace Must Be Hidden Under the Mantle of Humility",
             "pt-BR": "Como se há de ocultar a graça sob a guarda da humildade"
           }
@@ -372,6 +443,7 @@
         {
           "id": "book-three-chapter-8",
           "title": {
+            "la": "De vili aestimatione sui ipsius in oculis Dei",
             "en-US": "Self-Abasement in the Sight of God",
             "pt-BR": "Da vil estima de si próprio ante os olhos de Deus"
           }
@@ -379,6 +451,7 @@
         {
           "id": "book-three-chapter-9",
           "title": {
+            "la": "Quod omnia ad Deum, sicut ad finem ultimum, sunt referenda",
             "en-US": "All Things should be Referred to God as their Last End",
             "pt-BR": "Tudo se deve referir a Deus como ao fim último"
           }
@@ -386,6 +459,7 @@
         {
           "id": "book-three-chapter-10",
           "title": {
+            "la": "Quod spreto mundo dulce est servire Deo",
             "en-US": "To Despise the World and Serve God is Sweet",
             "pt-BR": "Como, desprezando o mundo, é doce servir a Deus"
           }
@@ -393,6 +467,7 @@
         {
           "id": "book-three-chapter-11",
           "title": {
+            "la": "Quod desideria cordis examinanda sunt et moderanda",
             "en-US": "The Longings of our Hearts Must be Examined and Moderated",
             "pt-BR": "Como devemos examinar e moderar os desejos do coração"
           }
@@ -400,6 +475,7 @@
         {
           "id": "book-three-chapter-12",
           "title": {
+            "la": "De informatione patientiae et luctamine adversus concupiscentias",
             "en-US": "Acquiring Patience in the Fight Against Concupiscence",
             "pt-BR": "Da escola da paciência e luta contra as concupiscências"
           }
@@ -407,6 +483,7 @@
         {
           "id": "book-three-chapter-13",
           "title": {
+            "la": "De oboedientia humilis subditi ad exemplum Iesu Christi",
             "en-US": "The Obedience of One Humbly Subject to the Example of Jesus Christ",
             "pt-BR": "Da obediência e humilde sujeição, a exemplo de Jesus Cristo"
           }
@@ -414,6 +491,7 @@
         {
           "id": "book-three-chapter-14",
           "title": {
+            "la": "De occultis Dei iudiciis considerandis, ne extolamur in bonis",
             "en-US": "Consider the Hidden Judgments of God Lest You Become Proud of Your Own Good Deeds",
             "pt-BR": "Que se devem considerar os altos juízos de Deus, para não Nos desvanecermos na prosperidade"
           }
@@ -421,6 +499,7 @@
         {
           "id": "book-three-chapter-15",
           "title": {
+            "la": "Qualiter standum sit ac dicendum in omni re desiderabili",
             "en-US": "How One Should Feel and Speak on Every Desirable Thing",
             "pt-BR": "Como se deve haver e falar cada um em seus desejos1. Jesus: Filho, dize assim em todas as coisas: Senhor, se for do vosso agrado, faça-se isto assim. Senhor, se for para vossa honra, suceda isto em vosso nome. Senhor, se vos parecer que me é proveitosa e útil tal coisa, concedei-ma para que dela use para vossa glória; mas, se conheceis que me seria nociva e sem proveito para minha salvação, tirai-me tal desejo; porque nem todo desejo procede do Espírito Santo, ainda que nos pareça bom e justo. É dificultoso discernir se te move espírito bom ou mau, a desejar isto ou aquilo, ou se te move tua própria vontade. Muitos se acharam no fim enganados, que a princípio pareciam animados de bom espírito."
           }
@@ -428,6 +507,7 @@
         {
           "id": "book-three-chapter-16",
           "title": {
+            "la": "Quod verum solacium in solo Deo est quaerendum",
             "en-US": "True Comfort Is to Be Sought in God Alone",
             "pt-BR": "Que só em Deus se há de buscar a verdadeira consolação"
           }
@@ -435,6 +515,7 @@
         {
           "id": "book-three-chapter-17",
           "title": {
+            "la": "Quod omnis sollicitudo in Deo statuenda sit",
             "en-US": "All Our Care is to Be Placed in God",
             "pt-BR": "Que todo o nosso cuidado devemos entregar a Deus"
           }
@@ -442,6 +523,7 @@
         {
           "id": "book-three-chapter-18",
           "title": {
+            "la": "Quod temporales miseriae. exemplo Christi aequanimiter sunt ferendae",
             "en-US": "Temporal Sufferings Should Be Borne Patiently, After the Example of Christ",
             "pt-BR": "Como, a exemplo de Cristo, se hão de sofrer com igualdade de ânimo as misérias temporais"
           }
@@ -449,6 +531,7 @@
         {
           "id": "book-three-chapter-19",
           "title": {
+            "la": "De tolerantia iniuriarum, et quis verus patiens probetur",
             "en-US": "True Patience in Suffering",
             "pt-BR": "Do sofrimento das injúrias e quem é provado verdadeiro paciente"
           }
@@ -456,6 +539,7 @@
         {
           "id": "book-three-chapter-20",
           "title": {
+            "la": "De confessione propriae infirmitatis et huius vitae miseriis",
             "en-US": "Confessing Our Weakness in the Miseries of Life",
             "pt-BR": "Da confissão da própria fraqueza, e das misérias desta vida"
           }
@@ -463,6 +547,7 @@
         {
           "id": "book-three-chapter-21",
           "title": {
+            "la": "Quod in Deo super omnia bona et dona requiescendum est",
             "en-US": "Above All Goods and All Gifts We Must Rest in God",
             "pt-BR": "Como se deve descansar em Deus sobre todos os bens e dons"
           }
@@ -470,6 +555,7 @@
         {
           "id": "book-three-chapter-22",
           "title": {
+            "la": "De recordatione multiplicium beneficiorum Dei",
             "en-US": "Remember the Innumerable Gifts of God",
             "pt-BR": "Da recordação dos inumeráveis benefícios de Deus"
           }
@@ -477,6 +563,7 @@
         {
           "id": "book-three-chapter-23",
           "title": {
+            "la": "De quatuor magnam importantibus pacem",
             "en-US": "Four Things Which Bring Great Peace",
             "pt-BR": "Das quatro coisas que produzem grande paz"
           }
@@ -484,6 +571,7 @@
         {
           "id": "book-three-chapter-24",
           "title": {
+            "la": "De evitatione curiosae inquisitionis super alterius vita",
             "en-US": "Avoiding Curious Inquiry About the Lives of Others",
             "pt-BR": "Como se deve evitar a curiosa inquirição da vida alheia1. Jesus: Filho, não sejais curioso, nem te preocupes com cuidados inúteis. Que tens tu com isto ou aquilo? Segue-me. Pois que te importa saber se fulano é assim ou assim ou se sicrano procede e fala deste ou daquele modo? Tu não és responsável pelos outros, mas de ti mesmo deves dar conta; por que, pois, te intrometes naquilo? Eu conheço a todos e vejo tudo que se faz debaixo do sol; sei como cada um procede, o que pensa e quer, e a que fim tende sua intenção. Deixa, pois, tudo ao meu cuidado, conserva-te em santa paz e deixa o inquieto agitar-se quando quiser. Sobre ele recairá tudo o que fizer ou disser, porque não me pode enganar."
           }
@@ -491,6 +579,7 @@
         {
           "id": "book-three-chapter-25",
           "title": {
+            "la": "In quibus firma pax cordis et verus profectus consistit",
             "en-US": "The Basis of Firm Peace of Heart and True Progress",
             "pt-BR": "Em que consiste a firme paz do coração e o verdadeiro aproveitamento"
           }
@@ -498,6 +587,7 @@
         {
           "id": "book-three-chapter-26",
           "title": {
+            "la": "De eminentia liberae mentis, quam supplex oratio magis meretur, quam lectio",
             "en-US": "The Excellence of a Free Mind, Gained Through Prayer Rather Than By Study",
             "pt-BR": "Excelência da liberdade espiritual, à qual se chega antes pela oração humilde que pela leitura"
           }
@@ -505,6 +595,7 @@
         {
           "id": "book-three-chapter-27",
           "title": {
+            "la": "Quod privatus amor a summo bono maxime retardat",
             "en-US": "Self-Love is the Greatest Hindrance to the Highest Good",
             "pt-BR": "Como o amor-próprio afasta no máximo grau do sumo"
           }
@@ -512,6 +603,7 @@
         {
           "id": "book-three-chapter-28",
           "title": {
+            "la": "Contra linguas obtrectatorum",
             "en-US": "Strength Against Slander",
             "pt-BR": "Contra as línguas maldizentes"
           }
@@ -519,6 +611,7 @@
         {
           "id": "book-three-chapter-29",
           "title": {
+            "la": "Qualiter instante tribulatione Deus invocandus est et benedicendus",
             "en-US": "How We Must Call Upon and Bless the Lord When Trouble Presses",
             "pt-BR": "Como, durante a tribulação, devemos invocar a Deus e bendizê-lo1. A alma: Senhor, bendito seja para sempre o vosso nome! Pois quisestes que me sobreviesse esta tentação e este trabalho. Não lhes posso fugir, mas tenho necessidade de recorrer a vós, para que me ajudeis e tudo convertais em meu proveito. Eis-me, Senhor, na tribulação, com o coração aflito; e quanto me atormenta o presente sofrimento. Pois que direi eu agora, Pai amantíssimo? Apertado estou entre angústias: \"Salvai-me nesta hora. Veio sobre mim este transe, só para que vós fôsseis glorificado (Jo 12,17), quando eu estivesse muito abatido e fosse por vós livrado\". \"Dignai- vos, Senhor, livrar-me\" (Sl 39,14); pois, pobre de mim, que farei e aonde irei, sem nós? Daí-me, Senhor, paciência ainda por"
           }
@@ -526,6 +619,7 @@
         {
           "id": "book-three-chapter-30",
           "title": {
+            "la": "De divino petendo auxilio et confidentia recuperandae gratiae",
             "en-US": "The Quest of Divine Help and Confidence in Regaining Grace",
             "pt-BR": "Como se há de pedir o auxílio divino e confiar para recuperar a graça"
           }
@@ -533,6 +627,7 @@
         {
           "id": "book-three-chapter-31",
           "title": {
+            "la": "De neglectu omnis creaturae, ut creator possit inveniri",
             "en-US": "To Find the Creator, Forsake All Creatures",
             "pt-BR": "Do desprezo de toda criatura, para que se possa achar o Criador"
           }
@@ -540,6 +635,7 @@
         {
           "id": "book-three-chapter-32",
           "title": {
+            "la": "De abnegatione sui et abdicatione omnis cupiditatis",
             "en-US": "Self-Denial and the Renunciation of Evil Appetites",
             "pt-BR": "Da abnegação de si mesmo e abdicação de toda cobiça"
           }
@@ -547,6 +643,7 @@
         {
           "id": "book-three-chapter-33",
           "title": {
+            "la": "De instabilitate cordis et de intentione finali ad Deum habenda",
             "en-US": "Restlessness of Soul—Directing Our Final Intention Toward God",
             "pt-BR": "Da instabilidade do coração e que a intenção final se há de dirigir a Deus"
           }
@@ -554,6 +651,7 @@
         {
           "id": "book-three-chapter-34",
           "title": {
+            "la": "Quod amanti sapit Deus super omnia et in omnibus",
             "en-US": "God is Sweet Above All Things and in All Things to Those Who Love Him",
             "pt-BR": "Como Deus é delicioso em tudo e sobretudo a quem o ama"
           }
@@ -561,6 +659,7 @@
         {
           "id": "book-three-chapter-35",
           "title": {
+            "la": "Quod non est securitas a temptatione in hac vita",
             "en-US": "There is No Security from Temptation in This Life",
             "pt-BR": "Como nesta vida não há segurança contra a tentação"
           }
@@ -568,6 +667,7 @@
         {
           "id": "book-three-chapter-36",
           "title": {
+            "la": "Contra vana hominum iudicia",
             "en-US": "The Vain Judgments of Men",
             "pt-BR": "Contra os juízos dos homens"
           }
@@ -575,6 +675,7 @@
         {
           "id": "book-three-chapter-37",
           "title": {
+            "la": "De pura et integra resignatione sui ad obtinendam cordis libertatem",
             "en-US": "Pure and Entire Resignation of Self to Obtain Freedom of Heart",
             "pt-BR": "Da pura e completa renúncia de si mesmo para obter liberdade de coração"
           }
@@ -582,6 +683,7 @@
         {
           "id": "book-three-chapter-38",
           "title": {
+            "la": "De bono regimine in externis et recursu ad Deum in periculis",
             "en-US": "The Right Ordering of External Affairs; Recourse to God in Dangers",
             "pt-BR": "Do bom procedimento exterior, e do recurso a Deus nos perigos"
           }
@@ -589,6 +691,7 @@
         {
           "id": "book-three-chapter-39",
           "title": {
+            "la": "Quod homo non sit importunus in negotiis",
             "en-US": "A Man Should Not Be Unduly Solicitous About His Affairs",
             "pt-BR": "Que o homem não seja impaciente nos seus negócios"
           }
@@ -596,6 +699,7 @@
         {
           "id": "book-three-chapter-40",
           "title": {
+            "la": "Quod homo nihil boni ex se habet et de nullo gloriari potest",
             "en-US": "Man Has No Good in Himself and Can Glory in Nothing",
             "pt-BR": "Que o homem por si mesmo nada tem de bom e de nada se pode gloriar"
           }
@@ -603,6 +707,7 @@
         {
           "id": "book-three-chapter-41",
           "title": {
+            "la": "De contemptu omnis temporalis honoris",
             "en-US": "Contempt for All Earthly Honor",
             "pt-BR": "Do desprezo de toda honra temporal"
           }
@@ -610,6 +715,7 @@
         {
           "id": "book-three-chapter-42",
           "title": {
+            "la": "Quod pax non est ponenda in hominibus",
             "en-US": "Peace is Not to Be Placed in Men",
             "pt-BR": "Como não se deve procurar a paz nos homens"
           }
@@ -617,6 +723,7 @@
         {
           "id": "book-three-chapter-43",
           "title": {
+            "la": "Contra vanam et saecularem scientiam",
             "en-US": "Beware Vain and Worldly Knowledge",
             "pt-BR": "Contra a vã ciência do século"
           }
@@ -624,6 +731,7 @@
         {
           "id": "book-three-chapter-44",
           "title": {
+            "la": "De non attrahendo sibi res exteriores",
             "en-US": "Do Not Be Concerned About Outward Things",
             "pt-BR": "Que se não devem tomar a peito as coisas exteriores"
           }
@@ -631,6 +739,7 @@
         {
           "id": "book-three-chapter-45",
           "title": {
+            "la": "Quod omnibus non est credendum, et de facili lapsu verborum",
             "en-US": "All Men Are Not to Be Believed, for It Is Easy to Err in Speech",
             "pt-BR": "Que se não deve dar crédito a todos, e quão facilmente faltamos nas palavras"
           }
@@ -638,6 +747,7 @@
         {
           "id": "book-three-chapter-46",
           "title": {
+            "la": "De confidentia in Deo habenda, quando insurgunt verborum iacula",
             "en-US": "Trust in God Against Slander",
             "pt-BR": "Da confiança que havemos de ter em Deus quando se nos dizem palavras afrontosas"
           }
@@ -645,6 +755,7 @@
         {
           "id": "book-three-chapter-47",
           "title": {
+            "la": "Quod omnia gravia pro aeterna vita sunt toleranda",
             "en-US": "Every Trial Must Be Borne for the Sake of Eternal Life",
             "pt-BR": "Que todas as coisas graves se devem suportar pela vida eterna"
           }
@@ -652,6 +763,7 @@
         {
           "id": "book-three-chapter-48",
           "title": {
+            "la": "De die aeternitatis et huius vitae angustiis",
             "en-US": "The Day of Eternity and the Distresses of This Life",
             "pt-BR": "Do dia da eternidade e das angústias desta vida"
           }
@@ -659,6 +771,7 @@
         {
           "id": "book-three-chapter-49",
           "title": {
+            "la": "De desiderio aeternae vitae, et quanta sint certantibus bona promissa",
             "en-US": "The Desire of Eternal Life; the Great Rewards Promised to Those Who Struggle",
             "pt-BR": "Do desejo da vida eterna e quantos bens estão prometidos aos que combatem"
           }
@@ -666,6 +779,7 @@
         {
           "id": "book-three-chapter-50",
           "title": {
+            "la": "Qualiter homo desolatus se debet in manus Dei offerre",
             "en-US": "How a Desolate Person Ought to Commit Himself Into the Hands of God",
             "pt-BR": "Como o homem angustiado se deve entregar nas mãos de Deus"
           }
@@ -673,6 +787,7 @@
         {
           "id": "book-three-chapter-51",
           "title": {
+            "la": "Quod humilibus insistendum est operibus, cum deficitur a summis",
             "en-US": "When We Cannot Attain to the Highest, We Must Practice the Humble Works",
             "pt-BR": "Que devemos praticar as obras humildes quando somos incapazes para asmais altas1. Jesus: Filho, não podes conservar-te sempre no desejo fervoroso de todas as virtudes, nem perseverar no mais alto grau de contemplação; mas às vezes te é necessário, por causa de tua natureza viciada, descer a coisas humildes e carregar, em que te pese, o fardo desta vida corruptível. Enquanto viveres neste corpo mortal, sentirás tédio e angústias do coração. Convém, pois, que na carne gemas muitas vezes debaixo do seu peso, porque não podes ocupar-te dos exercícios espirituais e da contemplação das coisas divinas, sem interrupção."
           }
@@ -680,6 +795,7 @@
         {
           "id": "book-three-chapter-52",
           "title": {
+            "la": "Quod homo non reputet se consolatione dignum, sed magis verberibus reum",
             "en-US": "A Man Ought Not to Consider Himself Worthy of Consolation, But Rather Deserving of Chastisement",
             "pt-BR": "Que o homem se não repute digno de consolação, mas merecedor de castigo"
           }
@@ -687,6 +803,7 @@
         {
           "id": "book-three-chapter-53",
           "title": {
+            "la": "Quod gratia Dei non miscetur terrena sapientibus",
             "en-US": "God's Grace Is Not Given to the Earthly Minded",
             "pt-BR": "Que a graça de Deus não se comunica aos que gostam das coisas terrenas"
           }
@@ -694,6 +811,7 @@
         {
           "id": "book-three-chapter-54",
           "title": {
+            "la": "De diversis motibus naturae et gratiae",
             "en-US": "The Different Motions of Nature and Grace",
             "pt-BR": "Dos diversos movimentos da natureza e da graça"
           }
@@ -701,6 +819,7 @@
         {
           "id": "book-three-chapter-55",
           "title": {
+            "la": "De corruptione naturae et efficacia gratiae divinae",
             "en-US": "The Corruption of Nature and the Efficacy of Divine Grace",
             "pt-BR": "Da corrupção da natureza e da eficácia da graça divina"
           }
@@ -708,6 +827,7 @@
         {
           "id": "book-three-chapter-56",
           "title": {
+            "la": "Quod nos ipsos abnegare et Christum imitari debemus per crucem",
             "en-US": "We Ought to Deny Ourselves and Imitate Christ Through Bearing the Cross",
             "pt-BR": "Que devemos renunciar a nós mesmos e seguir a Cristo pela cruz"
           }
@@ -715,6 +835,7 @@
         {
           "id": "book-three-chapter-57",
           "title": {
+            "la": "Quod homo non sit nimis deiectus, quando in aliquos labitur defectus",
             "en-US": "A Man Should Not Be Too Downcast When He Falls Into Defects",
             "pt-BR": "Que o homem não se desanime em demasia, quando cai em algumas faltas1. Jesus: Filho, mais me agradam a paciência e humildade nos reveses que a muita consolação e fervor nas prosperidades. Por que te entristece uma coisinha que contra ti disseram? Ainda que fosse maior, não te devias ter perturbado. Deixa passar isso agora, não é novidade; não é a primeira vez, nem será a última, se muito tempo viveres. Mas valoroso és, enquanto te não sucede alguma adversidade. Sabes até dar bons conselhos e acalentar os outros com tuas palavras; mas quando bate, de improviso, à tua porta a tribulação, logo te falta conselho e fortaleza. Considera tua grande fraqueza, que tantas vezes experimentas nas pequenas coisas; todavia, é para tua salvação que isso e semelhantes coisas acontecem."
           }
@@ -722,6 +843,7 @@
         {
           "id": "book-three-chapter-58",
           "title": {
+            "la": "De altioribus rebus et occultis iudiciis Dei non scrutandis",
             "en-US": "High Matters and the Hidden Judgments of God Are Not to Be Scrutinized",
             "pt-BR": "Que não devemos escrutar as coisas mais altas e os ocultos juízos de Deus1. Jesus: Filho, guarda-te de disputar sobre assuntos altos e os ocultos juízos de Deus; não queiras investigar por que este é deixado em tal estado, aquele elevado a tanta graça, este tão oprimido, aquele tão exaltado. Isso excede o alcance humano, e não há raciocínio nem discussão que possam escrutar os desígnios de Deus. Quando, pois, o inimigo te sugere tais pensamentos, ou os curiosos questionarem sobre eles, responde com o profeta: Justo sois, Senhor, e justo é o vosso juízo (Sl 118,37), ou, também: Os juízos do Senhor são verdadeiros e justificados em si mesmos (Sl 19, 10). Meus juízos devem se temer, e não discutir, porque são incompreensíveis ao entendimento humano."
           }
@@ -729,6 +851,7 @@
         {
           "id": "book-three-chapter-59",
           "title": {
+            "la": "Quod omnis spes et fiducia in solo Deo est figenda",
             "en-US": "All Hope and Trust Are to Be Fixed In God Alone",
             "pt-BR": "Que só em Deus devemos firmar toda esperança e confiança"
           }
@@ -738,6 +861,7 @@
     {
       "id": "book-four",
       "title": {
+        "la": "De sacramento",
         "en-US": "An Invitation to Holy Communion",
         "pt-BR": "Do Sacramento do altar"
       },
@@ -745,6 +869,7 @@
         {
           "id": "book-four-chapter-1",
           "title": {
+            "la": "Cum quanta reverentia Christus sit suscipiendus",
             "en-US": "The Great Reverence With Which We Should Receive Christ",
             "pt-BR": "Com quanta reverência cumpre receber a Cristo"
           }
@@ -752,6 +877,7 @@
         {
           "id": "book-four-chapter-2",
           "title": {
+            "la": "Quod magna bonitas et caritas Dei in sacramento homini exhibetur",
             "en-US": "God's Great Goodness and Love is Shown to Man in This Sacrament",
             "pt-BR": "Como neste Sacramento se mostra ao homem a grande bondade e caridadede Deus A Voz do discípulo"
           }
@@ -759,6 +885,7 @@
         {
           "id": "book-four-chapter-3",
           "title": {
+            "la": "Quod utile sit saepe communicare",
             "en-US": "It Is Profitable to Receive Communion Often",
             "pt-BR": "Da utilidade da comunhão freqüente"
           }
@@ -766,6 +893,7 @@
         {
           "id": "book-four-chapter-4",
           "title": {
+            "la": "Quod multa bona praestantur devote communicantibus",
             "en-US": "Many Blessings Are Given Those Who Receive Communion Worthily",
             "pt-BR": "Dos admiráveis frutos colhidos pelos que comungam devotamente"
           }
@@ -773,6 +901,7 @@
         {
           "id": "book-four-chapter-5",
           "title": {
+            "la": "De dignitate sacramenti et statu sacerdotali",
             "en-US": "The Dignity of the Sacrament and of the Priesthood",
             "pt-BR": "Da dignidade do Sacramento e do estado sacerdotal"
           }
@@ -780,6 +909,7 @@
         {
           "id": "book-four-chapter-6",
           "title": {
+            "la": "Interrogatio de exercitio ante communionem",
             "en-US": "An Inquiry on the Proper Thing to Do Before Communion",
             "pt-BR": "Pergunta concernente ao exercício antes da comunhão"
           }
@@ -787,6 +917,7 @@
         {
           "id": "book-four-chapter-7",
           "title": {
+            "la": "De discussione propriae conscientiae et emendationis proposito",
             "en-US": "The Examination of Conscience and the Resolution to Amend",
             "pt-BR": "Do exame da própria consciência e propósito de emenda A Voz do Amado1. Antes de tudo cumpre ao sacerdote de Deus, para celebrar, administrar e receber este Sacramento, que se aproxime com grandíssima humildade de coração e profundo respeito, com viva fé e piedosa intenção de honrar a Deus. Examina diligentemente a tua consciência, procura limpá-la e purificá-la, quanto puderes, com sincera contrição e humilde confissão, de sorte que nada tenhas ou saibas que te pese na consciência, que te cause remorsos e te estorve o livre acesso. Detesta todos os teus pecados em geral, e lamenta mais em particular as faltas cotidianas. E, se o tempo o permite, confessa a Deus, no recôndito de teu coração, toda a miséria de tuas paixões."
           }
@@ -794,6 +925,7 @@
         {
           "id": "book-four-chapter-8",
           "title": {
+            "la": "De oblatione Christi in cruce et propria resignatione",
             "en-US": "The Offering of Christ on the Cross; Our Offering",
             "pt-BR": "Da oblação de Cristo na cruz e da própria resignação"
           }
@@ -801,6 +933,7 @@
         {
           "id": "book-four-chapter-9",
           "title": {
+            "la": "Quod nos et omnia nostra Deo debemus offerre et pro omnibus orare",
             "en-US": "We Should Offer Ourselves and All That We Have to God, Praying for All",
             "pt-BR": "Que devemos com tudo quanto é nosso oferecer-nos a Deus, e orar por todos"
           }
@@ -808,6 +941,7 @@
         {
           "id": "book-four-chapter-10",
           "title": {
+            "la": "Quod sacra communio de facili non est relinquenda",
             "en-US": "Do Not Lightly Forego Holy Communion",
             "pt-BR": "Que não se deve deixar por leve motivo a sagrada comunhão"
           }
@@ -815,6 +949,7 @@
         {
           "id": "book-four-chapter-11",
           "title": {
+            "la": "Quod corpus Christi et sacra scriptura maxime sint animae fideli necessaria",
             "en-US": "The Body of Christ and Sacred Scripture Are Most Necessary to a Faithful Soul",
             "pt-BR": "Que o corpo de Cristo e a Sagrada Escritura são sumamente necessários à alma fiel Voz do discípulo"
           }
@@ -822,6 +957,7 @@
         {
           "id": "book-four-chapter-12",
           "title": {
+            "la": "Quod magna diligentia se debeat communicaturus Christo praeparare",
             "en-US": "The communicant Should Prepare Himself for Christ with Great Care",
             "pt-BR": "Que a alma se deve preparar com grande diligência para a sagrada comunhão"
           }
@@ -829,6 +965,7 @@
         {
           "id": "book-four-chapter-13",
           "title": {
+            "la": "Quod toto corde anima devota Christi unionem in sacramento affectare debet",
             "en-US": "With All Her Heart the Devout Soul Should Desire Union with Christ in the Sacrament",
             "pt-BR": "Que a alma devota deve aspirar, de todo o coração, à união com Cristo no Sacramento"
           }
@@ -836,6 +973,7 @@
         {
           "id": "book-four-chapter-14",
           "title": {
+            "la": "De quorundam devotorum ardenti desiderio ad corpus Christi",
             "en-US": "The Ardent Longing of Devout Men for the Body of Christ",
             "pt-BR": "Do ardente desejo que têm alguns devotos de receber o corpo de Cristo"
           }
@@ -843,6 +981,7 @@
         {
           "id": "book-four-chapter-15",
           "title": {
+            "la": "Quod gratia devotionis humilitate et sui ipsius abnegatione acquiritur",
             "en-US": "The Grace of Devotion is Acquired Through Humility and Self-Denial",
             "pt-BR": "Que a graça da devoção se alcança pela humildade e abnegação de si mesmo"
           }
@@ -850,6 +989,7 @@
         {
           "id": "book-four-chapter-16",
           "title": {
+            "la": "Quod necessitates nostras Christo aperire et eius gratiam postulare debemus",
             "en-US": "We Should Show Our Needs to Christ and Ask His Grace",
             "pt-BR": "Como devemos descobrir nossas necessidades a Cristo e pedir sua graça"
           }
@@ -857,6 +997,7 @@
         {
           "id": "book-four-chapter-17",
           "title": {
+            "la": "De ardenti amore et vehementi affectu suscipiendi Christum",
             "en-US": "The Burning Love and Strong Desire to Receive Christ",
             "pt-BR": "Do ardente amor e veemente desejo de receber a Cristo"
           }
@@ -864,6 +1005,7 @@
         {
           "id": "book-four-chapter-18",
           "title": {
+            "la": "Quod homo non sit curiosus scrutator sacramenti, sed humilis imitator Christi, subdendo sensum suum sacrae fidei",
             "en-US": "Man Should Not Scrutinize This Sacrament in Curiosity, But Humbly Imitate Christ and Submit Reason to Holy Faith",
             "pt-BR": "Que o homem não seja curioso escrutador do Sacramento, mas humildeimitador de Cristo, sujeitando sua razão à santa fé"
           }
@@ -872,10 +1014,27 @@
     }
   ],
   "description": {
+    "la": "Quattuor libri de vita spirituali, de interna conversatione, de interna consolatione et de sacramento altaris: opus Thomae a Kempis, saeculo XV exeunte medio conscriptum. Textus Latinus est editio Hermanni Gerlach (1909); versio Anglica est Aloysii Croft et Haroldi Bolton (1940).",
+    "en-US": "The classic of Christian ascetical literature, written in the early fifteenth century and, after the Bible, the most widely read book in Christendom. Four books lead the reader from interior renunciation to Holy Communion. The Latin is Hermann Gerlach's edition (Herder, 1909); the English is the modern translation of Aloysius Croft and Harold Bolton (Bruce, 1940).",
     "pt-BR": "A obra-prima da literatura ascética cristã. Composta no início do século XV, atravessou os séculos como guia espiritual e, depois da Bíblia, é o livro mais lido na cristandade. Quatro livros que conduzem o leitor da renúncia interior à comunhão eucarística."
   },
   "arrived": {
     "en-US": "2026-05-19",
     "pt-BR": "2026-05-31"
+  },
+  "work": "thomas-a-kempis/de-imitatione-christi",
+  "editions": {
+    "la": {
+      "editor": "Hermann Gerlach",
+      "year": 1909
+    },
+    "en-US": {
+      "translator": "Aloysius Croft and Harold Bolton",
+      "year": 1940,
+      "from": "la"
+    },
+    "pt-BR": {
+      "translator": "unknown"
+    }
   }
 }

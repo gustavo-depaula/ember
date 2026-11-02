@@ -1,0 +1,5 @@
+# De evitatione curiosae inquisitionis super alterius vita
+
+Fili, noli esse curiosus nec vacuas gerere sollicitudines. Quid hoc vel illud ad te? Tu me sequere. Quid enim ad te, utrum ille sit talis vel talis, aut iste sic et sic agit vel loquitur? Tu non indiges respondere pro aliis, sed pro te ipso rationem reddes. Quid ergo te implicas? Ecce, ego omnes cognosco, et cuncta, quae sub sole fiunt, video; et scio, qualiter cum unoquoque sit, quid cogitet, quid velit, et ad quem finem tendat eius intentio. Mihi igitur omnia committenda sunt: tu vero serva te in bona pace, et dimitte agitantem agitare, quantum voluerit. Veniet super eum, quidquid fecerit vel dixerit, quia me fallere non potest.
+
+Non sit tibi curae de magni nominis umbra, non de multorum familiaritate, nec de privata hominum dilectione. Ista enim generant distractiones et magnas in corde obscuritates. Libenter loquerer tibi verbum meum et abscondita revelarem, si adventum meum diligenter observares et ostium cordis mihi aperires. Esto providus, et vigila in orationibus, et humilia te in omnibus.

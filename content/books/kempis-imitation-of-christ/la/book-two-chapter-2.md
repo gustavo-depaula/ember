@@ -1,0 +1,5 @@
+# De humili submissione
+
+Non magni pendas, quis pro te vel contra te sit; sed hoc age et cura, ut Deus tecum sit in omni re, quam facis. Habeas conscientiam bonam, et Deus bene te defensabit. Quem enim Deus adiuvare voluerit, nullius perversitas nocere poterit. Si tu scis tacere et pati, videbis procul dubio auxilium Domini. Ipse novit tempus et modum liberandi te, et ideo te debes illi resignare. Dei est adiuvare et ab omni confusione liberare. Saepe valde prodest ad maiorem humilitatem servandam, quod defectus nostros alii sciunt et redarguunt.
+
+Quando homo pro defectibus suis se humiliat, tunc faciliter alios placat et leviter satisfacit sibi irascentibus. Humilem Deus protegit et liberat, humilem diligit et consolatur; humili homini se inclinat, humili largitur gratiam magnam, et post suam depressionem levat ad gloriam. Humili sua secreta revelat et ad se dulciter trahit et invitat. Humilis accepta confusione satis bene est in pace: quia stat in Deo et non in mundo. Non reputes, te aliquid profecisse, nisi omnibus inferiorem te esse sentias.

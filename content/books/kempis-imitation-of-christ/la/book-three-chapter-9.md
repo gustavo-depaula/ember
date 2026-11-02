@@ -1,0 +1,7 @@
+# Quod omnia ad Deum, sicut ad finem ultimum, sunt referenda
+
+Fili, ego debeo esse finis tuus supremus et ultimatus, si vere desideras esse beatus. Ex hac intentione purificabitur affectus tuus, saepius ad se ipsum et ad creaturas male incurvatus. Nam si te ipsum in aliquo quaeris, statim in te deficis et arescis. Omnia ergo ad me principaliter referas, quia ego sum, qui omnia dedi. Sic singula considera, sicut ex summo bono manantia; et ideo ad me, tamquam ad suam originem, cuncta sunt reducenda.
+
+Ex me pusillus et magnus, pauper et dives, tamquam ex fonte vivo, aquam vivam hauriunt; et qui mihi sponte et libere deserviunt, gratiam pro gratia accipient. Qui autem extra me voluerit gloriari, vel in aliquo privato bono delectari, non stabilietur in vero gaudio neque in corde suo dilatabitur, sed multipliciter impedietur et angustiabitur. Nihil ergo tibi de bono ascribere debes, nec alicui homini virtutem attribuas; sed totum da Deo, sine quo nihil habet homo. Ego totum dedi, ego totum rehabere volo, et cum magna districtione gratiarum actiones requiro.
+
+Haec est veritas, qua fugatur gloriae vanitas. Et si intraverit caelestis gratia et vera caritas, non erit aliqua invidia nec contractio cordis, neque privatus amor occupabit. Vincit enim omnia divina caritas et dilatat omnes animae vires. Si recte sapis, in me solo gaudebis, in me solo sperabis; quia nemo bonus, nisi solus Deus, qui est super omnia laudandus et in omnibus benedicendus.

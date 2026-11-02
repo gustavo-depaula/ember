@@ -1,0 +1,5 @@
+# De interna Christi locutione ad animam fidelem
+
+Audiam, quid loquatur in me Dominus Deus. Beata anima, quae Dominum in se loquentem audit, et de ore eius consolationis verbum accipit. Beatae aures, quae venas divini susurri suscipiunt, et de mundi huius susurrationibus nihil advertunt, Beatae plane aures, quae non vocem foris sonantem, sed intus auscultant veritatem docentem Beati oculi, qui exterioribus clausi, interioribus autem sunt intenti. Beati, qui interna penetrant, et ad capienda arcana caelestia magis ac magis per cotidiana exercitia se student praeparare. Beati, qui Deo vacare gestiunt, et ab omni impedimento saeculi se excutiunt. Animadverte haec, anima mea, et claude sensualitatis tuae ostia, ut possis audire, quid in te loquatur Dominus Deus tuus.
+
+Haec dicit dilectus tuus: Salus tua ego sum, pax tua et vita tua. Serva te apud me, et pacem invenies. Dimitte omnia transitoria, quaere aeterna. Quid sunt omnia temporalia, nisi seductoria? Et quid iuvant omnes creaturae, si fueris a creatore deserta? Omnibus ergo abdicatis creatori tuo te redde placitam ac fidelem, ut veram valeas apprehendere beatitudinem.

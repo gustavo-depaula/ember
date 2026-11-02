@@ -1,0 +1,9 @@
+# Quod omnia gravia pro aeterna vita sunt toleranda
+
+Fili, non te frangant labores, quos assumpsisti propter me, nec tribulationes te deiciant usquequaque; sed mea promissio in omni eventu te roboret et consoletur. Ego sufficiens sum ad reddendum supra omnem modum et mensuram. Non diu hic laborabis, nec semper gravaberis doloribus. Expecta paulisper, et videbis celerem finem malorum. Veniet una hora, quando cessabit omnis labor et tumultus. Modicum est et breve omne, quod transit cum tempore.
+
+Age, quod agis; fideliter labora in vinea mea, ego ero merces tua. Scribe, lege, canta, geme, tace, ora, sustine viriliter contraria: digna est his omnibus et maioribus proeliis vita aeterna. Veniet pax in die una, quae nota est Domino; et erit non dies neque nox huius scilicet temporis, sed lux perpetua, claritas infinita, pax firma, et requies secura. Non dices tunc: Quis me liberabit de corpore mortis huius? Neque clamabis: Heu mihi, quia incolatus meus prolongatus est! quoniam praecipitabitur mors, et salus erit indefectiva, anxietas nulla, iucunditas beata, societas dulcis et decora.
+
+O si vidisses sanctorum in caelo coronas perpetuas, quanta quoque nunc exultant gloria, qui huic mundo olim contemptibiles et quasi vita ipsa indigni putabantur; profecto te statim humiliares usque ad terram, et affectares potius omnibus subesse, quam uni praeesse; nec huius vitae laetos dies concupisceres, sed magis pro Deo tribulari gauderes, et pro nihilo inter homines computari, maximum lucrum duceres.
+
+O si tibi haec saperent, et profunde ad cor transirent, quomodo auderes vel semel conqueri? Nonne pro vita aeterna cuncta laboriosa sunt toleranda? Non est parvum quid, perdere aut lucrari regnum Dei. Leva igitur faciem tuam in caelo. Ecce, ego et omnes sancti mei mecum, qui in hoc saeculo magnum habuere certamen, modo gaudent, modo consolantur, modo securi sunt, modo requiescunt, et sine fine mecum in regno patris mei permanebunt.

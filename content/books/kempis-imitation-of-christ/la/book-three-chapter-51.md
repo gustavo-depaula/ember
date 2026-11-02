@@ -1,0 +1,5 @@
+# Quod humilibus insistendum est operibus, cum deficitur a summis
+
+Fili, non vales semper inferventiori desiderio virtutum stare, nec in altiori gradu contemplationis consistere: sed necesse habes interdum ob originalem corruptelam ad inferiora descendere, et onus corruptibilis vitae etiam invite et cum taedio portare. Quamdiu mortale corpus geris, taedium senties et gravamen cordis. Oportet ergo saepe in carne de carnis onere gemere, eo quod non vales spiritualibus studiis et divinae contemplationi indesinenter inhaerere.
+
+Tunc expedit tibi ad humilia et exteriora opera confugere, et in bonis actibus te recreare, adventum meum et: supernam visitationem firma confidentia expectare, exilium tuum et ariditatem mentis patienter sufferre, donec iterum a me visiteris et ab omnibus anxietatibus libereris: Nam faciam te laborum oblivisci et interna quiete perfrui. Expandam coram te prata scripturarum, ut, dilatato corde, currere incipias viam mandatorum meorum. Et dices: Non sunt condignae passiones huius temporis ad futuram gloriam, quae revelabitur in nobis.

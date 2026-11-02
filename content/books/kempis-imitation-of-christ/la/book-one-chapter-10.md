@@ -1,0 +1,5 @@
+# De cavenda superfluitate verborum
+
+Caveas tumultum hominum, quantum potes; multum enim impedit tractatus saecularium gestorum, etiam si simplici intentione proferantur. Cito enim inquinamur vanitate et captivamur. Vellem me pluries tacuisse et inter homines non fuisse. Sed quare tam libenter loquimur et invicem fabulamur, cum tamen raro sine laesione conscientiae ad silentium redimus? Ideo tam libenter loquimur: quia per mutuas locutiones ab invicem consolari quaerimus; et cor diversis cogitationibus fatigatum optamus relevare. Et multum libenter de his, quae multum diligimus vel cupimus, vel quae nobis contraria sentimus, libet loqui et cogitare.
+
+Sed pro dolor, saepe inaniter et frustra. Nam haec exterior consolatio interioris et divinae consolationis non modicum detrimentum est. Ideo vigilandum est et orandum, ne tempus otiose transeat. Si loqui licet et expedit, quae aedificabilia sunt, loquere. Malus usus et neglegentia profectus nostri multum facit ad incustodiam oris nostri. Iuvat tamen non parum ad profectum spiritualem devota spiritualium rerum collatio; maxime ubi pares animo et spiritu in Deo sibi sociantur.

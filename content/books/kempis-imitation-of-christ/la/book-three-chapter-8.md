@@ -1,0 +1,7 @@
+# De vili aestimatione sui ipsius in oculis Dei
+
+Loquar ad Dominum meum, cum sim pulvis et cinis. Si me amplius reputavero, ecce, tu stas contra me, et dicunt testimonium verum iniquitates meae, nec possum contradicere. Si autem me vilificavero et ad nihilum redegero, et ab omni propria reputatione defecero, atque, sicut sum, pulverizavero, erit mihi propitia gratia tua et vicina cordi meo lux tua; et omnis aestimatio, quantulacumque minima, in valle nihileitatis meae submergetur et peribit in aeternum. Ibi ostendis me mihi, quid sum, quid fui, et quo deveni: quia nihil sum, et nescivi. Si mihi ipsi relinquor, ecce nihil et tota infirmitas; si autem subito me respexeris, statim fortis efficior, et novo repleor gaudio. Et mirum valde, quod sic repente sublevor et tam benigne a te complector, qui proprio pondere semper ad ima feror.
+
+Facit hoc amor tuus, gratis praeveniens me, et in tam multis subveniens necessitatibus, a gravibus quoque custodiens me periculis, et ab innumeris, ut vere dicam, eripiens malis. Me siquidem male amando me perdidi; et te solum quaerendo et pure amando me et te pariter inveni, atque ex amore profundius ad nihilum me redegi. Quia tu, o dulcissime, facis mecum supra meritum omne, et supra id, quam audeo sperare vel rogare.
+
+Benedictus sis, Deus meus, quia, licet ego omnibus bonis sim indignus, tua tamen nobilitas et infinita bonitas numquam cessat benefacere etiam ingratis et longe a te aversis. Converte nos ad te, ut simus grati, humiles et devoti, quia salus nostra tu es, virtus et fortitudo nostra.

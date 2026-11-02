@@ -1,0 +1,7 @@
+# Quod desideria cordis examinanda sunt et moderanda
+
+Fili, oportet te adhuc multa addiscere, quae necdum bene didicisti. Quae sunt haec, Domine? Ut desiderium tuum ponas totaliter secundum beneplacitum meum, et tui ipsius amator non sis, sed meae voluntatis. cupidus aemulator. Desideria te saepe accendunt et vehementer impellunt; sed considera, an propter honorem meum, an propter tuum commodum magis movearis. Si ego sum in causa, bene contentus eris, quomodocumque ordinavero; Si autem de proprio quae si tu aliquid latet, ecce, hoc est, quod te impedit et gravat.
+
+Cave ergo, ne nimium innitaris super desiderio praeconcepto, me non consulto: ne forte postea paeniteat aut displiceat, quod primo placuit, et quasi pro meliore zelasti. Non enim omnis affectio, quae videtur bona, statim est sequenda; sed neque omnis contraria affectio ad primum fugienda. Expedit interdum refrenatione uti, etiam in bonis studiis et desideriis, ne per importunitatem mentis distractionem incurras, ne aliis per indisciplinationem scandalum generes, vel etiam per resistentiam aliorum subito turberis et corruas.
+
+Interdum vero oportet violentia uti et viriliter appetitui sensitivo contraire, nec advertere, quid velit caro et quid non velit; sed hoc magis satagere, ut subiecta sit etiam nolens spiritui. Et tam diu castigari debet, et cogi servituti subesse, donec parata sit ad omnia, paucisque contentari discat et simplicibus delectari, nec contra aliquod inconveniens mussitare.

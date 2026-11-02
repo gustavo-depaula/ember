@@ -1,0 +1,7 @@
+# De oblatione Christi in cruce et propria resignatione
+
+*Vox dilecti.*
+
+Sicut ego me ipsum, expansis in cruce manibus et nudo corpore, pro peccatis tuis Deo Patri sponte obtuli, ita ut nihil in me remaneret, quin totum in sacrificium divinae placationis transiret: ita debes et tu temet ipsum mihi voluntarie in oblationem puram et sanctam, cotidie in missa, cum omnibus viribus et affectibus tuis, quanto intimius vales, offerre. Quid magis a te requiro, quam ut te studeas mihi ex integro resignare? Quidquid praeter te ipsum das, nihil curo: quia non quaero datum tuum, sed te.
+
+Sicut non sufficeret tibi omnibus habitis, praeter me: ita nec mihi placere poterit, quidquid dederis, te non oblato. Offer te mihi, et da te totum pro Deo, et erit accepta oblatio. Ecce, ego me totum obtuli Patri pro te; dedi etiam totum corpus meum et sanguinem in cibum, ut totus tuus essem, et tu meus permaneres. Si autem in te ipso steteris, nec sponte te ad voluntatem meam obtuleris, non est plena oblatio, nec integra erit inter nos unio. Igitur omnia opera tua praecedere debet spontanea tui ipsius in manus Dei oblatio, si libertatem consequi vis et gratiam. Ideo enim tam pauci illuminati et liberi intus efficiuntur, quia se ipsos ex toto abnegare nesciunt. Est firma sententia mea: Nisi quis renuntiaverit omnibus, non potest meus esse discipulus. Tu ergo si optas meus esse discipulus, offer te ipsum mihi cum omnibus affectibus tuis.

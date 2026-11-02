@@ -1,0 +1,13 @@
+# De compunctione cordis
+
+Si vis aliquid proficere, conserva te in timore Dei, et noli esse nimis liber; sed sub disciplina cohibe omnes sensus tuos, nec. ineptae te tradas laetitiae. Da te ad cordis compunctionem, et invenies.devotionem. Compunctio multa bona aperit, quae dissolutio cito perdere consuevit. Mirum est, quod homo potest umquam perfecte in hac vita laetari, qui suum exilium et tam multa pericula animae suae considerat et pensat.
+
+Propter levitatem cordis et neglegentiam defectuum nostrorum non sentimus animae nostrae dolores; sed saepe vane ridemus, quando merito flere deberemus. Non est vera libertas nec bona laetitia, nisi in timore Dei cum bona conscientia. Felix, qui abicere potest omne impedimentum distractionis, et ad unionem se recolligere sanctae compunctionis. Felix, qui a se abdicat, quidquid conscientiam suam maculare potest vel gravare. Certa viriliter, consuetudo consuetudine vincitur. Si tu scis homines dimittere, ipsi bene te dimittent tua facta facere.
+
+Non attrahas tibi res aliorum, nec te implices causis maiorum. Habeas semper oculum super te primum, et admoneas te ipsum specialiter prae omnibus tibi dilectis. Si non habes favorem hominum, noli ex hoc tristari; sed hoc sit tibi grave, quia non habes te satis bene et circumspecte, sicut deceret Dei servum et devotum religiosum conversari. Utilius est saepe et securius, quod homo non habeat multas consolationes in hac vita, secundum carnem praecipue. Tamen quod divinas non habemus, aut rarius sentimus, nos in culpa sumus, quia compunctionem cordis non quaerimus, nec vanas et externas omnino abicimus.
+
+Cognosce te indignum divina consolatione, sed magis dignum multa tribulatione. Quando homo est perfecte compunctus, tunc gravis et amarus est ei totus mundus. Bonus homo suf ficientem invenit materiam dolendi et flendi. Sive enim se considerat, sive de proximo pensat, scit, quia nemo sine tribulatione hic vivit. Et quanto strictius sese considerat, tanto amplius dolet. Materiae iusti doloris et internae compunctionis sunt peccata et vitia nostra, quibus ita involuti iacemus, ut raro caelestia contemplari valeamus.
+
+Si.frequentius de morte tua, quam de longitudine vitae cogitares, non dubium, quin ferventius te emendares. Si etiam futuras inferni sive purgatorii poenas cordialiter perpenderes, credo, quod libenter laborem et dolorem sustineres, et nihil rigoris formidares. Sed quia ad cor ista non transeunt, et blandimenta adhuc amamus, ideo frigidi et valde pigri remanemus.
+
+Saepe est inopia spiritus, unde tam leviter conqueritur miserum corpus. Ora igitur humiliter ad Dominum, ut de tibi compunctionis spiritum, et dic cum propheta: Ciba me, Domine, pane lacrimarum, et potum da mihi in lacrimis in mensura.

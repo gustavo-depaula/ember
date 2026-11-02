@@ -1,0 +1,11 @@
+# De tolerantia iniuriarum, et quis verus patiens probetur
+
+Quid est, quod loqueris, fili? Cessa conqueri, considerata mea et aliorum sanctorum passione. Nondum usque ad sanguinem restitisti. Parum est, quod tu pateris, in comparatione eorum, qui tam multa passi sunt, tam fortiter temptati, tam graviter tribulati, tam multipliciter probati et exercitati. Oportet te igitur aliorum graviora ad mentem reducere, ut levius feras tua minima. Et si tibi minima non videntur, vide, ne et hoc tua faciat impatientia, Sive tamen parva sive magna sint, stude cuncta patienter sufferre.
+
+Quanto melius ad patiendum te disponis, tanto sapientius agis et amplius promereris; feres quoque levius animo et usu ad hoc non segniter paratis. Nec dicas: Non valeo haec ab homine tali pati, nec huiuscemodi mihi patienda sunt; grave enim intulit damnum, et improperat mihi, quae numquam cogitaveram; sed ab alio libenter patiar, et sicut patienda videro. Insipiens est talis cogitatio, quae virtutem patientiae non considerat, nec a quo coronanda erit, sed magis personas et offensas sibi illatas perpendit.
+
+Non est verus patiens, qui pati non vult, nisi quantum sibi visum fuerit, et a quo sibi placuerit. Verus autem patiens non attendit, a quo homine, utrum a praelato suo an ab aliquo aequali aut inferiori, utrum a bono et sancto viro, vel a perverso et indigno exerceatur. Sed indifferenter ab omni creatura, quantumcumque et quotienscumque ei aliquid adversi acciderit, totum hoc de manu Dei gratanter accipit et ingens lucrum reputat, quia nil apud Deum, quamlibet parvum, pro Deo tamen passum, poterit sine merito transire.
+
+Esto itaque expeditus ad pugnam, si vis habere victoriam. Sine certamine non potes venire ad patientiae coronam. Si pati non vis, recusas coronati Si autem coronari desideras, certa viriliter, sustine patienter. Sine labore non tenditur ad requiem, nec sine pugna pervenitur ad victoriam.
+
+Fiat, Domine, mihi possibile per gratiam, quod mihi impossibile videtur per naturam. lu scis, quod modicum possum pati, et quod cito deicior, levi exurgente adversitate. Efficiatur mihi quaelibet exercitatio tribulationis pro nomine tuo amabilis et optabilis: nam pati et vexari pro te valde salubre est animae meae.

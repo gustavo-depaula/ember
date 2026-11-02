@@ -1,0 +1,9 @@
+# De occultis Dei iudiciis considerandis, ne extolamur in bonis
+
+Intonas super me iudicia tua, Domine, et timore ac tremore concutis omnia ossa mea, et expavescit anima mea valde. Sto attonitus et considero, quia caeli non sunt mundi in conspectu tuo. Si in angelis repperisti pravitatem, nec tamen pepercisti, quid fiet de me? Ceciderunt stellae de caelo, et ego pulvis, quid praesumo? Quorum opera videbantur laudabilia, ceciderunt ad infima, et qui comedebant panem angelorum, vidi siliquis delectari porcorum.
+
+Nulla est ergo sanctitas, si manum tuam, Domine, subtrahas. Nulla prodest sapientia, si gubernare desistas. Nulla iuvat fortitudo, si conservare desinas. Nulla secura castitas, si eam non protegas. Nulla propria prodest custodia, si non assit tua sacra vigilantia. Nam relicti mergimur et perimus, visitati vero erigimur et vivimus. Instabiles quippe sumus, sed per te confirmamur; tepescimus, sed a te accendimur.
+
+O quam humiliter et abiecte mihi de me ipso sentiendum est! quam nihili pendendum, si quid boni videar habere! O quam profunde submittere me debeo sub abyssalibus iudiciis tuis, Domine, ubi nihil aliud me esse invenio, quam nihil et nihil! O pondus immensum! o pelagus intransnatabile, ubi nihil de me reperio, quam in toto nihil! Ubi est ergo latebra gloriae? ubi confidentia de virtute concepta? Absorpta est omnis gloriatio vana in profunditate iudiciorum tuorum super me.
+
+Quid est omnis caro in conspectu tuo? Numquid gloriabitur lutum contra formantem se? Quomodo potest erigi vaniloquio, cuius cor in veritate subiectum est Deo? Non eum totus mundus eriget, quem veritas sibi subiecit; nec omnium laudantium ore movebitur, qui totam spem suam in Deo firmavit. Nam et ipsi, qui loquuntur, ecce, omnes nihil; deficient enim cum sonitu verborum. Veritas autem Domini manet in aeternum.

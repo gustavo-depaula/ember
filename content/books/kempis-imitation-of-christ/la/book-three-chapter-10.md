@@ -1,0 +1,13 @@
+# Quod spreto mundo dulce est servire Deo
+
+Nunc iterum loquar, Domine, et non silebo; dicam in auribus Dei mei, Domini mei et Regis mei, qui est in excelso. O quam magna multitudo dulcedinis tuae, Domine, quam abscondisti timentibus te! Sed quid es amantibus? quid toto corde tibi servientibus? Vere ineffabilis dulcedo contemplationis tuae, quam largiris amantibus te. In hoc maxime ostendisti mihi dulcedinem caritatis tuae, quia, cum non essem, fecisti me, et cum errarem longe a te, reduxisti me, ut servirem tibi, et praecepisti, ut diligam te.
+
+O fons amoris perpetui, quid dicam de te? Quomodo potero tui oblivisci, qui mei dignatus es recordari, etiam postquam contabui et perii? Fecisti ultra omnem spem misericordiam cum servo tuo, et ultra omne meritum gratiam et amicitiam exhibuisti. Quid retribuam tibi pro gratia ista? Non enim omnibus datum est, ut omnibus abdicatis saeculo renuntient et monasticam vitam assumant. Numquid magnum est, ut tibi serviam, cui omnis creatura servire tenetur? Non magnum mihi videri debet servire tibi; sed hoc potius magnum mihi et mirandum apparet, quod tam pauperem et indignum dignaris in servum recipere et dilectis servis tuis adunare.
+
+Ecce, omnia tua sunt, quae habeo, et unde tibi servio. Verumtamen vice versa, tu magis mihi servis, quam ego tibi. Ecce, caelum et terra, quae in ministerium hominis creasti, praesto sunt et faciunt cotidie, quaecumque mandasti. Et hoc parum est, quin etiam angelos in ministerium hominis ordinasti. Transscendit autem haec omnia, quia tu ipse homini servire dignatus es, et te ipsum daturum ei promisisti.
+
+Quid dabo tibi pro omnibus istis milibus bonis? Utinam possem tibi servire cunctis diebus vitae meae! Utinam vel uno die dignum servitium exhibere sufficerem! Vere tu es dignus omni servitio, omni honore et laude aeterna. Vere Dominus meus es, et ego pauper servus tuus, qui totis viribus teneor tibi servire, nec umquam in laudibus tuis debeo fastidire. Sic volo, sic desidero; et quidquid mihi deest, tu digneris supplere.
+
+Magnus honor, magna gloria, tibi servire et omnia propter te contemnere. Habebunt enim gratiam magnam, qui sponte se subiecerint tuae sanctissimae servituti. Invenient suavissimam Spiritus sancti consolationem, qui pro amore tuo omnem carnalem abiecerint delectationem. Consequentur magnam mentis libertatem, qui arctam pro nomine tuo ingrediuntur viam et omnem mundanam neglexerint curam.
+
+O grata et iucunda Dei servitus, qua homo veraciter efficitur liber et sanctus! O sacer status religiosi famulatus, qui hominem angelis reddit aequalem, Deo placabilem, daemonibus terribilem. et cunctis fidelibus commendabilem! O amplectendum et semper optandum servitium, quo summum promeretur bonum et gaudium acquiritur sine fine mansurum!

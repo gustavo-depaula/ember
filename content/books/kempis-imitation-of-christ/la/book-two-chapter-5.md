@@ -1,0 +1,7 @@
+# De propria consideratione
+
+Non possumus nobis ipsis nimis credere, quia saepe gratia nobis deest et sensus. Modicum lumen est in nobis, et hoc cito per neglegentiam amittimus. Saepe etiam non advertimus, quod tam caeci intus sumus. Saepe male agimus, et peius excusamus. Passione interdum movemur, et zelum putamus. Parva in alis reprehendimus, et nostra maiora pertransimus. Satis cito sentimus et ponderamus, quid ab aliis sustinemus; sed quantum ali de nobis sustinent, non advertimus. Qui bene et recte sua ponderaret, non esset, quod de alio graviter iudicaret.
+
+Internus homo sui ipsius curam omnibus curis anteponit; et qui sibi ipsi diligenter intendit, faciliter de aliis tacet. Numquam eris internus et devotus, nisi de alienis silueris et ad te ipsum specialiter respexeris. Si tibi et Deo totaliter intendis, modicum te movebit, quod foris percipis. Ubi es, quando tibi ipsi praesens non es? Et quando omnia percurristi, quid te neglecto profecisti? Si debes habere pacem et unionem veram: oportet, quod totum adhuc postponas et te solum prae oculis habeas.
+
+Multum proinde proficies, si te feriatum ab omni temporali cura conserves. Valde deficies, si aliquid temporale reputaveris. Nil magnum, nil altum, nil gratum, nil acceptum tibi sit, nisi pure Deus aut de Deo sit. Totum vanum existima, quidquid consolationis occurrerit de aliqua creatura. Amans Deu anima sub Deo despicit universa. Solus Deus aeternus et immensus, implens omnia, solacium animae et vera cordis laetitia.

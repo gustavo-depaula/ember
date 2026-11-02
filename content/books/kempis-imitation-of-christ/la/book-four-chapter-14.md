@@ -1,0 +1,9 @@
+# De quorundam devotorum ardenti desiderio ad corpus Christi
+
+*Vox discipuli.*
+
+O quam magna multitudo dulcedinis tuae, Domine, quam abscondisti timentibus te! Quando recordor devotorum aliquorum ad sacramentum tuum, Domine, cum maxima devotione et affectu accedentium, tunc saepius in me ipso confundor et erubesco, quod ad altare tuum et sacrae communionis mensam tam tepide et frigide accedo, quod ita aridus et sine affectione cordis maneo, quod non sum totaliter accensus coram te, Deo meo, nec ita vehementer attractus et affectus, sicut multi devoti fuerunt, qui prae nimio desiderio communionis et sensibili cordis amore a fletu se non potuerunt continere: sed ore cordis et corporis pariter ad te, Deum, fontem vivum, medullitus inhiabant, suam esuriem non valentes aliter temperare nec satiare, nisi corpus tuum cum omni iucunditate et spirituali aviditate accepissent.
+
+O vera ardens fides eorum, probabile existens argumentum sacrae praesentiae tuae! Isti enim veraciter cognoscunt Dominum suum in fractione panis, quorum cor tam valide ardet in eis de Iesu ambulante cum eis. Longe est a me saepe talis affectus et devotio, tam vehemens amor et ardor. Esto mihi propitius, Iesu bone, dulcis et benigne, et concede pau-. peri mendico tuo, vel interdum modicum de cordiali affectu amoris tui in sacra communione sentire, ut fides mea magis convalescat, spes in bonitate tua proficiat, et caritas semel perfecte accensa et caeleste manna experta numquam deficiat.
+
+Potens est autem misericordia tua, etiam gratiam desideratam mihi praestare, et in spiritu ardoris, cum dies beneplaciti tui venerit, me clementissime visitare. Etenim licet tanto desiderio tam specialium devotorum tuorum non ardeo, tamen de gratia tua, illius magni inflammati desiderii desiderium habeo, orans et desiderans, omnium talium fervidorum amatorum tuorum participem. me fieri, ac eorum sancto consortio annumerari.

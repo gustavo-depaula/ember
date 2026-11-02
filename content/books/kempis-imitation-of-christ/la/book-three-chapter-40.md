@@ -1,0 +1,13 @@
+# Quod homo nihil boni ex se habet et de nullo gloriari potest
+
+Domine, quid est homo, quod memor es eius, aut filius hominis, quia visitas eum? Quid promeruit homo, ut dares illi gratiam tuam? Domine, quid possum conqueri, si me deseris; aut quid iuste obtendere possum, si, quod peto, non feceris? Certe hoc in veritate cogitare possum et dicere: Domine, nihil sum, nihil possum, nihil boni ex me habeo; sed in omnibus deficio et ad nihil semper. tendo. Et nisi a te fuero adiutus et interius informatus, totus efficior tepidus et dissolutus.
+
+Tu autem, Domine, semper idem ipse es, et permanes in aeternum semper bonus, iustus et sanctus, bene, iuste ac sancte agens omnia, et disponens in sapientia. Sed ego, qui ad defectum sum magis pronus quam ad profectum, non sum semper in uno statu perdurans, quia semper tempora mutantur super me. Verumtamen cito melius fit, cum tibi placuerit, et manum porrexeris adiutricem, quia tu solus sine humano suffragio poteris auxiliari et in tantum confirmare, ut vultus meus amplius in diversa non mutetur, sed in te uno cor meum convertatur et quiescat.
+
+Unde, si bene scirem omnem. humanam consolationem abicere, sive propter devotionem adipiscendam, sive propter necessitatem, qua compellor te quaerere, quia non est homo, qui me consoletur, tunc possem merito de gratia tua sperare et de dono novae consolationis exultare.
+
+Gratias tibi, unde totum venit, quotienscumque mihi bene succedit. Ego autem vanitas et nihilum ante te, inconstans homo et infirmus. Unde ergo possum gloriari, aut cur appeto reputari? Numquid de nihilo? et hoc vanissimum est. Vere inanis gloria mala pestis, vanitas maxima: quia a vera trahit gloria et caelesti spoliat gratia. Dum enim homo complacet sibi, displicet tibi: dum inhiat laudibus humanis, privatur veris virtutibus.
+
+Est autem vera gloria et exultatio sancta, gloriari in te et non in se, gaudere in nomine tuo, non in propria virtute, nec in aliqua creatura delectari, nisi propter te. Laudetur nomen tuum, non meum; magnificetur opus tuum, non meum; benedicatur nomen sanctum tuum, nihil mihi autem attribuatur de laudibus hominum. Tu gloria mea, tu exultatio cordis mei. In te gloriabor et exultabo tota die; pro me autem nihil, nisi in infirmitatibus meis.
+
+Quaerant Iudaei gloriam, quae ab invicem est; ego hanc requiram, quae a solo Deo est. Omnis quidem gloria humana, omnis honor temporalis, omnis altitudo mundana, aeternae gloriae tuae comparata, vanitas est et stultitia..O veritas mea et misericordia mea, Deus meus, Trinitas beata, tibi soli laus, honor, virtus, gloria, per infinita saeculorum saecula.

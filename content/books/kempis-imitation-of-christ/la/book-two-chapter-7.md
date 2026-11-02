@@ -1,0 +1,7 @@
+# De amore Iesu super omnia
+
+Beatus, qui intellegit, quid sit amare Iesum, et contemnere se ipsum propter. Iesum. Oportet dilectum pro dilecto relinquere, quia Iesus vult solus super omnia amari. Dilectio creaturae fallax et instabilis; dilectio Iesu fidelis et perseverabilis. Qui adhaeret creaturae, cadet cum labili; qui amplectitur Iesum, firmabitur in aevum. Illum dilige et amicum tibi retine, qui omnibus recedentibus te non relinquet, nec patietur in fine perire. Ab omnibus oportet te aliquando separari, sive velis, sive nolis.
+
+Teneas te apud Iesum vivens ac moriens, et illius fidelitati te committe, qui omnibus deficientibus solus te potest iuvare. Dilectus tuus talis est naturae, ut alienum non velit admittere, sed solus vult cor tuum habere et tamquam rex in proprio throno sedere. Si scires te bene ab omni creatura evacuare, Iesus deberet libenter tecum habitare. Paene totum perditum invenies, quidquid extra Iesum in hominibus posueris. Non confidas, nec innitaris super calamum ventosum; quia omnis caro faenum, et omnis gloria eius ut flos faeni cadet.
+
+Cito decipieris, si ad externam hominum apparentiam tantum aspexeris. Si enim tuum in aliis quaeris solacium et lucrum, senties saepius detrimentum. Si quaeris in omnibus Iesum, invenies utique Iesum. Si autem quaeris te ipsum, invenies etiam te ipsum, sed ad tuam. perniciem. Plus enim homo nocivior sibi, si Iesum non quaerit, quam totus mundus et omnes sui adversarii.
