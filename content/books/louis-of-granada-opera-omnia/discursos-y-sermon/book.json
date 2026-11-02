@@ -1,0 +1,66 @@
+{
+  "id": "granada-discursos",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Discursos de la Encarnación y de la Pasión; sermón de las caídas públicas",
+    "en-US": "Discourses on the Incarnation and the Passion; sermon on public falls",
+    "pt-BR": "Discursos da Encarnação e da Paixão; sermão das quedas públicas"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Discurso devoto del misterio de la Encarnación, en diálogo entre san Ambrosio y san Agustín recién convertido; discurso de la Pasión y redención del Salvador; y el sermón en que se da aviso de las caídas públicas.",
+    "en-US": "Devout discourse on the mystery of the Incarnation as a dialogue between St Ambrose and the newly converted St Augustine; the discourse on the Passion and redemption of the Saviour; and the sermon warning of public falls.",
+    "pt-BR": "Discurso devoto do mistério da Encarnação, em diálogo entre santo Ambrósio e santo Agostinho recém-convertido; o discurso da Paixão e redenção do Salvador; e o sermão de aviso sobre as quedas públicas."
+  },
+  "composed": "1580s",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/discursos",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue14luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 14 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the pieces as Cuervo prints them.",
+      "description": "The Diálogo/Discurso de la Encarnación, the Discurso de la Pasión and redención and the Sermón de las caídas públicas. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "encarnacion-lector",
+      "title": {
+        "es-ES": "Discurso de la Encarnación: al curioso lector"
+      }
+    },
+    {
+      "id": "encarnacion",
+      "title": {
+        "es-ES": "Discurso devoto del misterio de la Encarnación del Hijo de Dios"
+      }
+    },
+    {
+      "id": "redencion",
+      "title": {
+        "es-ES": "Discurso de la Pasión y redención del Salvador"
+      }
+    },
+    {
+      "id": "caidas",
+      "title": {
+        "es-ES": "Sermón en que se da aviso de las caídas públicas"
+      }
+    }
+  ]
+}
