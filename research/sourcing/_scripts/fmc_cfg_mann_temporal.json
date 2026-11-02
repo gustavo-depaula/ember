@@ -1,0 +1,53 @@
+{
+ "id": "manning-temporal-mission-holy-ghost",
+ "dir": "manning-opera-omnia/temporal-mission-holy-ghost",
+ "slug": "temporal-mission-holy-ghost",
+ "work": "manning/temporal-mission-holy-ghost",
+ "name": "The Temporal Mission of the Holy Ghost, or Reason and Revelation",
+ "name_pt": "A Miss\u00e3o Temporal do Esp\u00edrito Santo, ou Raz\u00e3o e Revela\u00e7\u00e3o",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Manning's lectures of 1865 on the office of the Holy Ghost in the Church: the relation of the Holy Ghost to the Church, to the human reason, to the letter of Scripture, to the interpretation of Scripture and to the divine tradition of the faith, with a long introduction and an appendix of the passages quoted.",
+ "desc_pt": "As confer\u00eancias de Manning (1865) sobre o of\u00edcio do Esp\u00edrito Santo na Igreja: a rela\u00e7\u00e3o do Esp\u00edrito Santo com a Igreja, com a raz\u00e3o humana, com a letra da Escritura, com a interpreta\u00e7\u00e3o da Escritura e com a tradi\u00e7\u00e3o divina da f\u00e9, com uma longa introdu\u00e7\u00e3o e um ap\u00eandice das passagens citadas.",
+ "composed": 1865,
+ "editor": "Henry Edward Manning (London: Longmans, Green, 1865)",
+ "year": 1865,
+ "url": "https://archive.org/details/a592004400mannuoft",
+ "edition": "The Temporal Mission of the Holy Ghost, or Reason and Revelation (London: Longmans, Green, 1865), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The introduction, the five chapters and the appendix of quoted passages; the contents and the index are dropped.",
+ "src": "manning/ia/a592004400mannuoft_djvu.txt",
+ "start": 1782,
+ "end": 8850,
+ "levels": [
+  "CHAPTER"
+ ],
+ "fn": true,
+ "front": [
+  {
+   "id": "introduction",
+   "title": "Introduction",
+   "from": 679,
+   "to": 1781
+  }
+ ],
+ "back": [
+  {
+   "id": "appendix",
+   "title": "Appendix: Passages Quoted",
+   "from": 8851,
+   "to": 11878
+  }
+ ],
+ "label": {},
+ "romanheads": false,
+ "inline": [],
+ "fixlines": {
+  "1782": "CHAPTER I.",
+  "6297": "CHAPTER IV.",
+  "7606": "CHAPTER V."
+ },
+ "titles": {
+  "4": "The Relation of the Holy Ghost to the Interpretation of Scripture"
+ }
+}

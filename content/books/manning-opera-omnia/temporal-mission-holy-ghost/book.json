@@ -1,0 +1,81 @@
+{
+  "id": "manning-temporal-mission-holy-ghost",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Temporal Mission of the Holy Ghost, or Reason and Revelation",
+    "pt-BR": "A Missão Temporal do Espírito Santo, ou Razão e Revelação"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Manning's lectures of 1865 on the office of the Holy Ghost in the Church: the relation of the Holy Ghost to the Church, to the human reason, to the letter of Scripture, to the interpretation of Scripture and to the divine tradition of the faith, with a long introduction and an appendix of the passages quoted.",
+    "pt-BR": "As conferências de Manning (1865) sobre o ofício do Espírito Santo na Igreja: a relação do Espírito Santo com a Igreja, com a razão humana, com a letra da Escritura, com a interpretação da Escritura e com a tradição divina da fé, com uma longa introdução e um apêndice das passagens citadas."
+  },
+  "composed": 1865,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/temporal-mission-holy-ghost",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Longmans, Green, 1865)",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a592004400mannuoft",
+      "edition": "The Temporal Mission of the Holy Ghost, or Reason and Revelation (London: Longmans, Green, 1865), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The introduction, the five chapters and the appendix of quoted passages; the contents and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1865, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The Relation of the Holy Ghost to the Church"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The Relation of the Holy Ghost to the Human Reason"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. The Relation of the Holy Ghost to the Letter of Scripture"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The Relation of the Holy Ghost to the Interpretation of Scripture"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. The Relation of the Holy Ghost to the Divine Tradition of the Faith"
+      }
+    },
+    {
+      "id": "appendix",
+      "title": {
+        "en-US": "Appendix: Passages Quoted"
+      }
+    }
+  ]
+}
