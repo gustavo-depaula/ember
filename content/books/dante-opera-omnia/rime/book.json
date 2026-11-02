@@ -1,0 +1,806 @@
+{
+  "id": "dante-rime",
+  "cover": "classic",
+  "name": {
+    "it": "Rime",
+    "en-US": "Lyric Poems (Rime)",
+    "pt-BR": "Rimas (Rime)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "it": "Le Rime di Dante: 118 componimenti lirici, sonetti, ballate e canzoni, distribuiti per sezioni: le rime della Vita nuova, le altre rime del tempo della Vita nuova, la tenzone con Forese Donati, le rime allegoriche e dottrinali, altre rime d’amore e di corrispondenza, le rime per la donna Pietra e le rime varie dell’esilio. Le poesie dei corrispondenti (Cecco Angiolieri, Forese Donati, Dante da Maiano e altri) sono riportate in corsivo con la rubrica del curatore. Testo di it.wikisource, un verso per riga.",
+    "en-US": "Dante’s Rime: 118 lyric poems (sonnets, ballate and canzoni) in the sections of the Wikisource edition: the poems of the Vita nuova, other poems of the same time, the tenzone with Forese Donati, the allegorical and doctrinal poems, other love poems and exchanges, the “stony” poems for Pietra, and the poems of exile. The replies of Dante’s correspondents (Cecco Angiolieri, Forese Donati, Dante da Maiano and others) are given in italics with the editor’s heading. The Italian is the it.wikisource text, one verse to a line. The doubtful poems (rime dubbie) are not on the source and not included.",
+    "pt-BR": "As Rimas de Dante: 118 poesias líricas (sonetos, baladas e canções), em sete seções, com as respostas dos correspondentes (Cecco Angiolieri, Forese Donati e outros) em itálico."
+  },
+  "composed": "1283-1315",
+  "languages": [
+    "it"
+  ],
+  "work": "dante/rime",
+  "editions": {
+    "it": {
+      "editor": "transcription on it.wikisource (edition not stated)"
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Rime_(Dante)",
+      "edition": "Rime (Dante), it.wikisource, 118 subpages (I-CXVIII).",
+      "description": "All 118 poems of the index, in the Wikisource order, as verse with hard breaks; verse-number anchors, wiki templates and notes are dropped. The editor’s rubrics (tenzone attributions) stay. Not included: the rime dubbie, which the source does not carry, and English (Lyell 1835, Rossetti), whose canon does not match this numbering.",
+      "tier": "A",
+      "tierEvidence": "Dante’s text is public domain; it.wikisource transcription, quality marked 75%."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sezione-1",
+      "title": {
+        "it": "Rime della Vita Nuova"
+      },
+      "children": [
+        {
+          "id": "rime-001",
+          "title": {
+            "it": "1. A ciascun’alma presa e gentil core"
+          }
+        },
+        {
+          "id": "rime-002",
+          "title": {
+            "it": "2. Vedeste, al mio parere, onne valore"
+          }
+        },
+        {
+          "id": "rime-003",
+          "title": {
+            "it": "3. Naturalmente chere ogni amadore"
+          }
+        },
+        {
+          "id": "rime-004",
+          "title": {
+            "it": "4. Di ciò che stato sei dimandatore"
+          }
+        },
+        {
+          "id": "rime-005",
+          "title": {
+            "it": "5. O voi che per la via d’Amor passate"
+          }
+        },
+        {
+          "id": "rime-006",
+          "title": {
+            "it": "6. Piangete, amanti, poi che piange Amore"
+          }
+        },
+        {
+          "id": "rime-007",
+          "title": {
+            "it": "7. Morte villana, di pietà nemica"
+          }
+        },
+        {
+          "id": "rime-008",
+          "title": {
+            "it": "8. Cavalcando l’altr’ier per un cammin"
+          }
+        },
+        {
+          "id": "rime-009",
+          "title": {
+            "it": "9. Ballata i’ voi che tu ritrovi Amore"
+          }
+        },
+        {
+          "id": "rime-010",
+          "title": {
+            "it": "10. Tutti li miei penser parlan d’Amore"
+          }
+        },
+        {
+          "id": "rime-011",
+          "title": {
+            "it": "11. Con l’altre donne mia vista gabbate"
+          }
+        },
+        {
+          "id": "rime-012",
+          "title": {
+            "it": "12. Ciò che m’incontra, ne la mente more"
+          }
+        },
+        {
+          "id": "rime-013",
+          "title": {
+            "it": "13. Spesse fiate vegnomi a la mente"
+          }
+        },
+        {
+          "id": "rime-014",
+          "title": {
+            "it": "14. Donne ch’avete intelletto d’amore"
+          }
+        },
+        {
+          "id": "rime-015",
+          "title": {
+            "it": "15. Ben aggia l’amoroso e dolce core"
+          }
+        },
+        {
+          "id": "rime-016",
+          "title": {
+            "it": "16. Amore e ’l cor gentil sono una cosa"
+          }
+        },
+        {
+          "id": "rime-017",
+          "title": {
+            "it": "17. Ne li occhi porta la mia donna Amore"
+          }
+        },
+        {
+          "id": "rime-018",
+          "title": {
+            "it": "18. Voi che portate la sembianza umile"
+          }
+        },
+        {
+          "id": "rime-019",
+          "title": {
+            "it": "19. Se’ tu colui c’hai trattato sovente"
+          }
+        },
+        {
+          "id": "rime-020",
+          "title": {
+            "it": "20. Donna pietosa e di novella etate"
+          }
+        },
+        {
+          "id": "rime-021",
+          "title": {
+            "it": "21. Io mi senti’ svegliar dentro a lo core"
+          }
+        },
+        {
+          "id": "rime-022",
+          "title": {
+            "it": "22. Tanto gentile e tanto onesta pare"
+          }
+        },
+        {
+          "id": "rime-023",
+          "title": {
+            "it": "23. Vede perfettamente onne salute"
+          }
+        },
+        {
+          "id": "rime-024",
+          "title": {
+            "it": "24. Sì lungiamente m’ha tenuto Amore"
+          }
+        },
+        {
+          "id": "rime-025",
+          "title": {
+            "it": "25. Li occhi dolenti per pietà del core"
+          }
+        },
+        {
+          "id": "rime-026",
+          "title": {
+            "it": "26. Venite a intender li sospiri miei"
+          }
+        },
+        {
+          "id": "rime-027",
+          "title": {
+            "it": "27. Quantunque volte, lasso!, mi rimembra"
+          }
+        },
+        {
+          "id": "rime-028",
+          "title": {
+            "it": "28. Avvegna ched el m’aggia più per tempo"
+          }
+        },
+        {
+          "id": "rime-029",
+          "title": {
+            "it": "29. I’ vegno il giorno a te infinite volte"
+          }
+        },
+        {
+          "id": "rime-030",
+          "title": {
+            "it": "30. Era venuta ne la mente mia"
+          }
+        },
+        {
+          "id": "rime-031",
+          "title": {
+            "it": "31. Videro li occhi miei quanta pietate"
+          }
+        },
+        {
+          "id": "rime-032",
+          "title": {
+            "it": "32. Color d’amore e di pietà sembianti"
+          }
+        },
+        {
+          "id": "rime-033",
+          "title": {
+            "it": "33. \"L’amaro lagrimar che voi faceste"
+          }
+        },
+        {
+          "id": "rime-034",
+          "title": {
+            "it": "34. Gentil pensero che parla di vui"
+          }
+        },
+        {
+          "id": "rime-035",
+          "title": {
+            "it": "35. Lasso! per forza di molti sospiri"
+          }
+        },
+        {
+          "id": "rime-036",
+          "title": {
+            "it": "36. Deh peregrini che pensosi andate"
+          }
+        },
+        {
+          "id": "rime-037",
+          "title": {
+            "it": "37. Oltre la spera che più larga gira"
+          }
+        },
+        {
+          "id": "rime-038",
+          "title": {
+            "it": "38. Dante Allaghier, Cecco, ’l tu’ servo e amico"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sezione-2",
+      "title": {
+        "it": "Altre rime del tempo della Vita Nuova"
+      },
+      "children": [
+        {
+          "id": "rime-039",
+          "title": {
+            "it": "39. Provedi, saggio, ad esta visione"
+          }
+        },
+        {
+          "id": "rime-040",
+          "title": {
+            "it": "40. Savete giudicar vostra ragione"
+          }
+        },
+        {
+          "id": "rime-041",
+          "title": {
+            "it": "41. Per pruova di saper com vale o quanto"
+          }
+        },
+        {
+          "id": "rime-042",
+          "title": {
+            "it": "42. Qual che voi siate, amico, vostro manto"
+          }
+        },
+        {
+          "id": "rime-043",
+          "title": {
+            "it": "43. Lo vostro fermo dir fino ed orrato"
+          }
+        },
+        {
+          "id": "rime-044",
+          "title": {
+            "it": "44. Non canoscendo, amico, vostro nomo"
+          }
+        },
+        {
+          "id": "rime-045",
+          "title": {
+            "it": "45. Lasso! lo dol che più mi dole e serra"
+          }
+        },
+        {
+          "id": "rime-046",
+          "title": {
+            "it": "46. Amor mi fa sì fedelmente amare"
+          }
+        },
+        {
+          "id": "rime-047",
+          "title": {
+            "it": "47. Savere e cortesia, ingegno ed arte"
+          }
+        },
+        {
+          "id": "rime-048",
+          "title": {
+            "it": "48. Se Lippo amico se’ tu che mi leggi"
+          }
+        },
+        {
+          "id": "rime-049",
+          "title": {
+            "it": "49. Lo meo servente core"
+          }
+        },
+        {
+          "id": "rime-050",
+          "title": {
+            "it": "50. La dispietata mente, che pur mira"
+          }
+        },
+        {
+          "id": "rime-051",
+          "title": {
+            "it": "51. Non mi poriano già mai fare ammenda"
+          }
+        },
+        {
+          "id": "rime-052",
+          "title": {
+            "it": "52. Guido, i’ vorrei che tu e Lapo ed io"
+          }
+        },
+        {
+          "id": "rime-053",
+          "title": {
+            "it": "53. S’io fosse quelli che d’amor fu degno"
+          }
+        },
+        {
+          "id": "rime-054",
+          "title": {
+            "it": "54. Se vedi Amore, assai ti priego, Dante"
+          }
+        },
+        {
+          "id": "rime-055",
+          "title": {
+            "it": "55. Dante, un sospiro messaggier del core"
+          }
+        },
+        {
+          "id": "rime-056",
+          "title": {
+            "it": "56. Per una ghirlandetta"
+          }
+        },
+        {
+          "id": "rime-057",
+          "title": {
+            "it": "57. Madonna, quel signor che voi portate"
+          }
+        },
+        {
+          "id": "rime-058",
+          "title": {
+            "it": "58. Deh, Violetta, che in ombra d’Amore"
+          }
+        },
+        {
+          "id": "rime-059",
+          "title": {
+            "it": "59. Volgete li occhi a veder chi mi tira"
+          }
+        },
+        {
+          "id": "rime-060",
+          "title": {
+            "it": "60. Deh ragioniamo insieme un poco, Amore"
+          }
+        },
+        {
+          "id": "rime-061",
+          "title": {
+            "it": "61. Sonar bracchetti, e cacciatori aizzare"
+          }
+        },
+        {
+          "id": "rime-062",
+          "title": {
+            "it": "62. Com più vi fere Amor co’ suoi vincastri"
+          }
+        },
+        {
+          "id": "rime-063",
+          "title": {
+            "it": "63. Sonetto, se Meuccio t’è mostrato"
+          }
+        },
+        {
+          "id": "rime-064",
+          "title": {
+            "it": "64. Poi che traesti infino al ferro l’arco"
+          }
+        },
+        {
+          "id": "rime-065",
+          "title": {
+            "it": "65. De gli occhi de la mia donna si move"
+          }
+        },
+        {
+          "id": "rime-066",
+          "title": {
+            "it": "66. Ne le man vostre, gentil donna mia"
+          }
+        },
+        {
+          "id": "rime-067",
+          "title": {
+            "it": "67. E’ m’incresce di me sì duramente"
+          }
+        },
+        {
+          "id": "rime-068",
+          "title": {
+            "it": "68. Lo doloroso amor che mi conduce"
+          }
+        },
+        {
+          "id": "rime-069",
+          "title": {
+            "it": "69. Di donne io vidi una gentile schiera"
+          }
+        },
+        {
+          "id": "rime-070",
+          "title": {
+            "it": "70. Onde venite voi così pensose?"
+          }
+        },
+        {
+          "id": "rime-071",
+          "title": {
+            "it": "71. - Voi, donne, che pietoso atto mostrate"
+          }
+        },
+        {
+          "id": "rime-072",
+          "title": {
+            "it": "72. Un dì si venne a me Malinconia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sezione-3",
+      "title": {
+        "it": "Tenzone con Forese Donati"
+      },
+      "children": [
+        {
+          "id": "rime-073",
+          "title": {
+            "it": "73. Chi udisse tossir la mal fatata"
+          }
+        },
+        {
+          "id": "rime-074",
+          "title": {
+            "it": "74. L’altra notte mi venne una gran tosse"
+          }
+        },
+        {
+          "id": "rime-075",
+          "title": {
+            "it": "75. Ben ti faranno il nodo Salamone"
+          }
+        },
+        {
+          "id": "rime-076",
+          "title": {
+            "it": "76. Va, rivesti San Gal prima che dichi"
+          }
+        },
+        {
+          "id": "rime-077",
+          "title": {
+            "it": "77. Bicci novel, figliuol di non so cui"
+          }
+        },
+        {
+          "id": "rime-078",
+          "title": {
+            "it": "78. Ben so che fosti figliuol d’Alaghieri"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sezione-4",
+      "title": {
+        "it": "Rime allegoriche e dottrinali"
+      },
+      "children": [
+        {
+          "id": "rime-079",
+          "title": {
+            "it": "79. Voi che ’ntendendo il terzo ciel movete"
+          }
+        },
+        {
+          "id": "rime-080",
+          "title": {
+            "it": "80. Voi che savete ragionar d’Amore"
+          }
+        },
+        {
+          "id": "rime-081",
+          "title": {
+            "it": "81. Amor che ne la mente mi ragiona"
+          }
+        },
+        {
+          "id": "rime-082",
+          "title": {
+            "it": "82. Le dolci rime d’amor ch’i’ solia"
+          }
+        },
+        {
+          "id": "rime-083",
+          "title": {
+            "it": "83. Poscia ch’Amor del tutto m’ha lasciato"
+          }
+        },
+        {
+          "id": "rime-084",
+          "title": {
+            "it": "84. Parole mie che per lo mondo siete"
+          }
+        },
+        {
+          "id": "rime-085",
+          "title": {
+            "it": "85. O dolci rime che parlando andate"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sezione-5",
+      "title": {
+        "it": "Altre rime d’amore e di corrispondenza"
+      },
+      "children": [
+        {
+          "id": "rime-086",
+          "title": {
+            "it": "86. Due donne in cima de la mente mia"
+          }
+        },
+        {
+          "id": "rime-087",
+          "title": {
+            "it": "87. - I’ mi son pargoletta bella e nova"
+          }
+        },
+        {
+          "id": "rime-088",
+          "title": {
+            "it": "88. Perché ti vedi giovinetta e bella"
+          }
+        },
+        {
+          "id": "rime-089",
+          "title": {
+            "it": "89. Chi guarderà già mai sanza paura"
+          }
+        },
+        {
+          "id": "rime-090",
+          "title": {
+            "it": "90. Amor, che movi tua vertù dal cielo"
+          }
+        },
+        {
+          "id": "rime-091",
+          "title": {
+            "it": "91. Io sento sì d’Amor la gran possanza"
+          }
+        },
+        {
+          "id": "rime-092",
+          "title": {
+            "it": "92. Dante Alleghier, d’ogni senno pregiato"
+          }
+        },
+        {
+          "id": "rime-093",
+          "title": {
+            "it": "93. Io Dante a te che m’hai così chiamato"
+          }
+        },
+        {
+          "id": "rime-094",
+          "title": {
+            "it": "94. Novellamente Amor mi giura e dice"
+          }
+        },
+        {
+          "id": "rime-095",
+          "title": {
+            "it": "95. I’ ho veduto già senza radice"
+          }
+        },
+        {
+          "id": "rime-096",
+          "title": {
+            "it": "96. Perch’io non trovo chi meco ragioni"
+          }
+        },
+        {
+          "id": "rime-097",
+          "title": {
+            "it": "97. Dante, i’ non so in qual albergo soni"
+          }
+        },
+        {
+          "id": "rime-098",
+          "title": {
+            "it": "98. Dante, i’ ho preso l’abito di doglia"
+          }
+        },
+        {
+          "id": "rime-099",
+          "title": {
+            "it": "99. Messer Brunetto, questa pulzelletta"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sezione-6",
+      "title": {
+        "it": "Rime per la donna pietra"
+      },
+      "children": [
+        {
+          "id": "rime-100",
+          "title": {
+            "it": "100. Io son venuto al punto de la rota"
+          }
+        },
+        {
+          "id": "rime-101",
+          "title": {
+            "it": "101. Al poco giorno e al gran cerchio d’ombra"
+          }
+        },
+        {
+          "id": "rime-102",
+          "title": {
+            "it": "102. Amor, tu vedi ben che questa donna"
+          }
+        },
+        {
+          "id": "rime-103",
+          "title": {
+            "it": "103. Così nel mio parlar voglio esser aspro"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sezione-7",
+      "title": {
+        "it": "Rime varie del tempo dell’esilio"
+      },
+      "children": [
+        {
+          "id": "rime-104",
+          "title": {
+            "it": "104. Tre donne intorno al cor mi son venute"
+          }
+        },
+        {
+          "id": "rime-105",
+          "title": {
+            "it": "105. Se vedi li occhi miei di pianger vaghi"
+          }
+        },
+        {
+          "id": "rime-106",
+          "title": {
+            "it": "106. Doglia mi reca ne lo core ardire"
+          }
+        },
+        {
+          "id": "rime-107",
+          "title": {
+            "it": "107. Lassar vo’ lo trovare di Becchina"
+          }
+        },
+        {
+          "id": "rime-108",
+          "title": {
+            "it": "108. Dante Alighier, s’i’ son bon begolardo"
+          }
+        },
+        {
+          "id": "rime-109",
+          "title": {
+            "it": "109. Cecco Angelier, tu mi pari un musardo"
+          }
+        },
+        {
+          "id": "rime-110",
+          "title": {
+            "it": "110. Dante, quando per caso s’abbandona"
+          }
+        },
+        {
+          "id": "rime-111",
+          "title": {
+            "it": "111. Io sono stato con Amore insieme"
+          }
+        },
+        {
+          "id": "rime-112",
+          "title": {
+            "it": "112. Cercando di trovar minera in oro"
+          }
+        },
+        {
+          "id": "rime-113",
+          "title": {
+            "it": "113. Degno fa voi trovare ogni tesoro"
+          }
+        },
+        {
+          "id": "rime-114",
+          "title": {
+            "it": "114. Io mi credea del tutto esser partito"
+          }
+        },
+        {
+          "id": "rime-115",
+          "title": {
+            "it": "115. Poi ch’i’ fu’, Dante, dal mio natal sito"
+          }
+        },
+        {
+          "id": "rime-116",
+          "title": {
+            "it": "116. Amor, da che convien pur ch’io mi doglia"
+          }
+        },
+        {
+          "id": "rime-117",
+          "title": {
+            "it": "117. Per quella via che la bellezza corre"
+          }
+        },
+        {
+          "id": "rime-118",
+          "title": {
+            "it": "118. Lisetta voi de la vergogna storre"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# 32. Color d’amore e di pietà sembianti
+
+Color d’amore e di pietà sembianti
+non preser mai così mirabilmente
+viso di donna, per veder sovente
+occhi gentili o dolorosi pianti,
+
+come lo vostro, qualora davanti
+vedetevi la mia labbia dolente;
+sì che per voi mi ven cosa a la mente,
+ch’io temo forte non lo cor si schianti.
+
+Eo non posso tener li occhi distrutti
+che non reguardin voi spesse fiate,
+per desiderio di pianger ch’elli hanno:
+
+e voi crescete sì lor volontate,
+che de le voglia si consuman tutti;
+ma lagrimar dinanzi a voi non sanno.
+
+[*Vita Nuova* XXXVI 4-5]

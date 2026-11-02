@@ -1,0 +1,21 @@
+# 10. Tutti li miei penser parlan d’Amore
+
+Tutti li miei penser parlan d’Amore;
+e hanno in lor sì gran varietate,
+ch’altro mi fa voler sua potestate,
+altro folle ragiona il suo valore,
+
+altro sperando m’apporta dolzore,
+altro pianger mi fa spesse fiate;
+e sol s’accordano in cherer pietate,
+tremando di paura che è nel core.
+
+Ond’io non so da qual matera prenda;
+e vorrei dire, e non so ch’io mi dica:
+così mi trovo in amorosa erranza!
+
+E se con tutti voi fare accordanza,
+convenemi chiamar la mia nemica,
+madonna la Pietà, che mi difenda.
+
+[*Vita Nuova* XIII 8-9]

@@ -1,0 +1,21 @@
+# 76. Va, rivesti San Gal prima che dichi
+
+4\. FORESE A DANTE
+
+*Va, rivesti San Gal prima che dichi*
+*parole o motti d’altrui povertate,*
+*ché troppo n’è venuta gran pietate*
+*in questo verno a tutti suoi amichi.*
+
+*E anco, se tu n’hai per sì mendichi,*
+*perché pur mandi a noi per caritate?*
+*Dal castello Altrafonte ha’ ta’ grembiate,*
+*ch’io saccio ben che tu te ne nutrichi.*
+
+*Ma ben t’alenerà il lavorare,*
+*se Dio ti salvi la Tana e ’l Francesco,*
+*che col Belluzzo tu non stia in brigata.*
+
+*A lo spedale a Pinti ha’ riparare;*
+*e già mi par vedere stare a desco,*
+*ed in terzo, Alighier co la farsata.*
