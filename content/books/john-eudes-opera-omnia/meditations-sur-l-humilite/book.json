@@ -1,0 +1,72 @@
+{
+  "id": "eudes-humilite",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Méditations sur l’humilité et Profession d’humilité",
+    "en-US": "Meditations on Humility and Profession of Humility",
+    "pt-BR": "Meditações sobre a humildade e Profissão de humildade"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Méditations du Père Eudes sur l’humilité chrétienne, suivies de la Profession d’humilité.",
+    "en-US": "Fr. Eudes’s meditations on Christian humility, followed by the Profession of Humility.",
+    "pt-BR": "Meditações do Pe. Eudes sobre a humildade cristã, seguidas da Profissão de humildade."
+  },
+  "composed": 1639,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/meditations-sur-l-humilite",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_2)_000000347.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 2, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "hum-01",
+      "title": {
+        "fr-FR": "Méditations sur l’humilité (1): Méditations sur l'humilité"
+      }
+    },
+    {
+      "id": "hum-02",
+      "title": {
+        "fr-FR": "Méditations sur l’humilité (2): Troisieme méditation"
+      }
+    },
+    {
+      "id": "hum-03",
+      "title": {
+        "fr-FR": "Méditations sur l’humilité (3): Huitieme méditation"
+      }
+    },
+    {
+      "id": "hum-04",
+      "title": {
+        "fr-FR": "Méditations sur l’humilité (4): Douzieme méditation"
+      }
+    },
+    {
+      "id": "hum-05",
+      "title": {
+        "fr-FR": "Méditations sur l’humilité (5): Seizieme méditation"
+      }
+    }
+  ]
+}
