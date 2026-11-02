@@ -12,8 +12,6 @@ LA CONDUITE DE SON ESPRIT ET DE SA GRACE VERS SALNÏE MADELEINE,
 
 L’une des principaJes de sa suite et des plus signalées en sa faveur et en son Evangile.
 
-A LA SÉRÉNISSIME REINE DE LA GRANDE-BRETAGNE.
-
 SOMMAIRE DE CE QUI EST CONTENU EN L’EPITRE SUIVANTE.
 
 1. Etat déplorable auquel Hérésie a re’duel V Angleterre, autrefois si florissante en pie’té. —
