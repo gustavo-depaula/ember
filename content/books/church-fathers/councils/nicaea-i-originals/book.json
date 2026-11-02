@@ -1,0 +1,63 @@
+{
+  "id": "councils-nicaea-i-originals",
+  "cover": "quarter",
+  "name": {
+    "grc": "Α΄ Οικουμενική Σύνοδος (Νίκαια, 325)",
+    "la": "Concilium Nicaenum I (325)",
+    "en-US": "Nicaea I (325): original texts",
+    "pt-BR": "Niceia I (325): textos originais"
+  },
+  "author": {
+    "grc": "Σύνοδοι",
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "en-US": "The original texts of Nicaea I (325): the canons in Greek (from the Pedalion) and the ancient Latin version of its decrees. The English translation of Percival (NPNF, 1900) is the book Councils: Nicaea I (325).",
+    "pt-BR": "Os textos originais de Niceia I (325): os cânones em grego (do Pedálion) e a antiga versão latina de seus decretos."
+  },
+  "composed": "325",
+  "languages": [
+    "grc",
+    "la"
+  ],
+  "work": "councils/nicaea-i",
+  "editions": {
+    "grc": {
+      "editor": "Nicodemus the Hagiorite and Agapius, Pedalion (Leipzig 1800), via Greek Wikisource",
+      "year": 1800
+    },
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), ancient Latin versions, via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "grc",
+      "url": "https://el.wikisource.org/wiki/Κανόνες_Α΄_Οικουμενικής_Συνόδου",
+      "edition": "Greek Wikisource, Κανόνες Α΄ Οικουμενικής Συνόδου, the canon text of the Pedalion (Nicodemus the Hagiorite and Agapius, 1800). Wikitext fetched through action=raw.",
+      "description": "The canons only. Nicodemus's prolegomena and his commentary (Ἑρμηνεία) are not included; the creed, definition and letters of the council are not in this source.",
+      "tier": "A",
+      "tierEvidence": "Canons of the fourth to eighth centuries; Pedalion printed 1800."
+    },
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Nicaenum_I",
+      "edition": "Latin Wikisource, Concilium Nicaenum I, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia (the ancient Latin versions of the Greek acts). Wikitext fetched through action=raw.",
+      "description": "As transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences and lowercase deus/dominus; line breaks kept as paragraph breaks, split enclitics rejoined, and the digitisation's citation lines (pag./linea) removed.",
+      "tier": "B",
+      "tierEvidence": "Ancient texts; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "grc": "Α΄ Οικουμενική Σύνοδος (Νίκαια, 325)",
+        "la": "Concilium Nicaenum I (325)"
+      }
+    }
+  ]
+}
