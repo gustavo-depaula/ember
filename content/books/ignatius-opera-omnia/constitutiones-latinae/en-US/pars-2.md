@@ -36,7 +36,7 @@
 
 **[7]** The third; that he study to direct him with regard to his condition of life, so that he may enter upon some fitting way of serving God, cither in a Rehgious Order, or not, as shall seem more agreeable to the divine wdl. In short, that he study to assist him with advice and prayer, and whatever else his charity shall suggest.
 
-**[8]** Let three things be observed to satisfy the rest, whether within or without. The first is; that great care be taken, that no irritation be allowed to remain in any one's mind on accoimt of the dismissal, a sufficient reason being given where it is necessary, and sUence being observed, as fai" as possible, concerning all defects not of a public nature, even though several be discovered in the party who is dismissed.
+**[8]** Let three things be observed to satisfy the rest, whether within or without. The first is; that great care be taken, that no irritation be allowed to remain in any one's mind on accoimt of the dismissal, a sufficient reason being given where it is necessary, and sUence being observed, as fai as possible, concerning all defects not of a public nature, even though several be discovered in the party who is dismissed.
 
 **[9]** The second is; that attention be given lest any animosity be felt against the dismissed person; and as far as possible, that they may think no ill of him, but rather regret him, and love him in Christ, and commend him to the divine Majesty in their prayers, that He may vouchsafe to direct him, and shed His mercy upon him.
 

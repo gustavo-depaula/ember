@@ -8,9 +8,9 @@
 
 **[1]** Quoniam id maxime ration! consentaneum videtur, ut, quantum in nobis situm sit, eorum a nobis pietati ac beneficentiae satisfiat, quibus divina bonitas ad fundationem ac dotationem CoUegiorum utitur administris: Primum in quo\-is nostrae Societatis Collegio perpetuo singulis hebdomadibus Missae semel pro ejus Fundatore et benefactoribus vivis et mortuis celebrentur.
 
-**[2]** Initio item cujusque mensis omnes sacerdotes, qui in Collegio fuerint, pro eisdem semel ofFerre idem sacrificium perpetuo debent. Singulis insuper annis eo die, quo Collegii cujusque possessio Societati tradita est, cum solennitate Missa pro fundatore et benefactoribus celebretur: et id temporis in eodem Collegio quicunque sacerdotes adfuerint, eodem sua referent sacrificia.
+**[2]** Initio item cujusque mensis omnes sacerdotes, qui in Collegio fuerint, pro eisdem semel offerre idem sacrificium perpetuo debent. Singulis insuper annis eo die, quo Collegii cujusque possessio Societati tradita est, cum solennitate Missa pro fundatore et benefactoribus celebretur: et id temporis in eodem Collegio quicunque sacerdotes adfuerint, eodem sua referent sacrificia.
 
-**[3]** Eodem die candela cerea Fundatori ofFeratur, aut uni ex suisj qui ipsi sit cogriatione proxime conjunctus, aut illi demum, quem ipse Fundator designaverit: in qua candela armorum Fundatoris, aut devotionis insignia extent. Ilia vero testabitur Societas, quam Fundatori in Domino debet, gratitudinem.
+**[3]** Eodem die candela cerea Fundatori offeratur, aut uni ex suisj qui ipsi sit cogriatione proxime conjunctus, aut illi demum, quem ipse Fundator designaverit: in qua candela armorum Fundatoris, aut devotionis insignia extent. Ilia vero testabitur Societas, quam Fundatori in Domino debet, gratitudinem.
 
 **[4]** Cum primum Societas in CoUegii alicujus possessionem venerit; Proepositus Generalis curet indici per universam Societatem, ut quilibet Sacerdos ter sacrum faciat pro superstite Fundatore ipsius Collegii ac benefactoribus; ut illos sua benignitate Dominus in rebus omnibus dirigat, et suis donis semper augeat. Rursus ciim ex hac vita illi excesserintj curabit idem Proepositus Generalis, ubi primiim resciverit, ut per totam Societatem singuli Sacerdotes ter Sacrum pro animabus illorum faciant. Quoties autem dictum est, Missas esse a Sacerdotibus celebrandas; Caeteri omnes, qui in Collegiis degunt, ac sacerdotes non sunt, ad eandem illam intentionem orare debent; quandoquidem ejusdem gratitudinis nomine ubique obligantur in Domino.
 
@@ -18,7 +18,7 @@
 
 ## Cap. II. De iis, quae ad admittenda et relinquexda collegia, et eorum res temporales pertinent
 
-**[1]** Ad Collegia, qu?e libere Societati ofFeruntur, ut juxta suas Constitutiones omnino eis utatur, admittenda, Propositus Generalis nomine totius Societatis plenam potestatem habebit.
+**[1]** Ad Collegia, quae libere Societati offeruntur, ut juxta suas Constitutiones omnino eis utatur, admittenda, Propositus Generalis nomine totius Societatis plenam potestatem habebit.
 
 **[2]** Si Fundator aliquas conditiones exigeret ordiiii ac modo procedendi Societati consueto minime consentaneas; eidem Preeposito Generali (auditis sententiis aliorum, quos ipse de hujusmodi rebus melius judicare censebit) considerandum relinquatur, an omnibus perpensis utile sit futurum Societati ad finem divini ser^itii, quern sibi prffifixit, hujusmodi Collegium admittere, nee ne. Sed si temporis decursu se gravari eo onere animadvertet Societas, poterit ipsa in Congregatione generali id proponere, et statuere, ut relinquatur Collegium hujusmodi; vel prospicere, ut onus temperetui*, vel certe, ut ad onus id ferendum \ires majores praebeantur. Hoc tamen dictum sit, si ante Congregationem hujusmodi Praepositus Generalis huic incommodo, prout in Domino convenit, non occurrerit.
 
@@ -68,7 +68,7 @@
 
 **[2]** Praeterea serib ct constantcr animum studiis applicarc deliberent, sibique persuadeant, nihil gratius se Deo facturos in Collegiis, quam si cum ea intentione, de qua dictum est, studiis se diligenter impendant. Et licet nunquam ad exercenda ea, quae didiceiint, peneniant; ilium tamen studendi laborem ex obedientia et charitate (ut par est) susceptum, opus esse magni meriti in conspectu diviucE ac summse Majestatis apud se statuant.
 
-**[3]** Impedimenta etiam removeantur, quae a studiis animum avocant, tarn devotionum ac mortificationum, quae vel nimice vel sine ordine debita suscipiuntur, quam curarum et occupationum, quae domi in officiis domesticis, et foris colloc^uiis, confessionibus, atque aliis erga proximos functionibus assumuntur: quatenus ab eis declinari in Domino poterit. Est enim laudabile, quo aliis postea utiliores cum doctrina, quam didicerint, se praebeant, hujusmodi exercitia (licet pia) donee studia sint absokita, difFerri. Et haec quidem omnia majori cum studio obsequii et gloriae divinae fiant.
+**[3]** Impedimenta etiam removeantur, quae a studiis animum avocant, tarn devotionum ac mortificationum, quae vel nimice vel sine ordine debita suscipiuntur, quam curarum et occupationum, quae domi in officiis domesticis, et foris colloc^uiis, confessionibus, atque aliis erga proximos functionibus assumuntur: quatenus ab eis declinari in Domino poterit. Est enim laudabile, quo aliis postea utiliores cum doctrina, quam didicerint, se praebeant, hujusmodi exercitia (licet pia) donee studia sint absokita, differri. Et haec quidem omnia majori cum studio obsequii et gloriae divinae fiant.
 
 **[4]** In disciplinis ordo sen^andus est, ut prius in Latina lingua solidum jaciant fundamentum, quam xVi'tium liberalium, et in iis, antequam Theologiffi Scholasticae, et quidem in hac, antequam Positivae studiis se dedant. Sacrae scriptural vel eodem tempore, vel postea tractari poterunt.
 
@@ -120,7 +120,7 @@
 
 ## Cap. X. De guberxatioxe collegiorum
 
-**[1]** Supremam curam vel superintendentiam Collegiorum juxta Sedis Apostolicae litteras professa Societas habebit. Cum enim quicquam privatae utilitatis ex redditibus quaerere, vel in suum usum convertere non possit; rationi valde consonum est, quod majori cum puritate ac spiritu constantius ac diuturnius procedet in iis, quK ad bonum regimen Collegiorum ad majus Dei ac Domini nostri obsequium provider! convenit.
+**[1]** Supremam curam vel superintendentiam Collegiorum juxta Sedis Apostolicae litteras professa Societas habebit. Cum enim quicquam privatae utilitatis ex redditibus quaerere, vel in suum usum convertere non possit; rationi valde consonum est, quod majori cum puritate ac spiritu constantius ac diuturnius procedet in iis, quae ad bonum regimen Collegiorum ad majus Dei ac Domini nostri obsequium provider! convenit.
 
 **[2]** Prater id avtem, quod ad Constitutiones, et dissolutionem, vel alienationem hujusmodi Collegiorum pertinet, universa potestas et administ ratio, et (ut in genere dicatur) hujus superintendentiae executio penes Propositum Generalem erit, qui finem ilium, ad quem Collegia et Societas tota contendit, prae oculis habens, melius, quid eisdem conveniat, intelliget.
 
