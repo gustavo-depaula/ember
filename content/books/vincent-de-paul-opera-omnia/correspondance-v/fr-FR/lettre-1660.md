@@ -1,0 +1,9 @@
+# Lettre 1660. Au Cardinal Antoine Barberini, — Préfet de la Propagande
+
+3 octobre 1653.
+
+Monseigneur,
+
+Je me réservais à me donner l’honneur d’écrire à Votre Éminence jusqu’à ce que j’eusse reçu des lettres d’Alger sur l’état présent de ses domestiques menés esclaves en cette ville-là, d’autant que, dès lors que j’eus avis de cet accident, j’écrivis au consul pour lui recommander les intérêts et les gens de Votre Éminence, à ce qu’il eût grand soin de les servir de toutes les manières possibles ; ce qu’il fera sans doute. Mais, comme sa réponse tarde à venir, Monseigneur, je ne puis différer davantage de renouveler à Votre Éminence les offres des services très humbles de notre petite compagnie et de mon obéissance perpétuelle, ainsi que je fais avec le respect et l’affection que je le puis. Je supplie très humblement Votre Éminence de l’avoir agréable et d’avoir la bonté d’honorer de sa protection la même compagnie, particulièrement notre famille de Rome, ainsi qu’elle a toujours fait ; de quoi, Monseigneur, nous prierons Dieu qu’il soit votre éternelle récompense et qu’il nous fasse dignes des commandements de Votre Éminence, l’assurant que, si jamais nous en sommes honorés, nous les recevrons c : comme une bénédiction de Dieu et un moyen de reconnaître aucunement vos incomparables bienfaits, desquels j’espère la continuation de la bonté de Dieu et de celle de Votre Éminence, dont le propre est de se communiquer à ceux qui le méritent le moins. Avec cette grâce, Monseigneur, nous lui demanderons instamment votre chère conservation pour le bien de son Église. C’est ce que nous faisons tous les jours, Monseigneur, particulièrement moi, qui ai le bonheur d’être plus que personne du monde, en l’amour de N.-S., de Votre Éminence, Monseigneur, votre très humble, très obéissant et très obligé serviteur. [^1]
+
+[^1]: Reg I, f° 54, copie sur la "minute non signée"

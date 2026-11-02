@@ -1,0 +1,19 @@
+# Lettre 2069. À Edme Jolly, Supérieur. à Rome
+
+19 mai 1656.
+
+Avant que de répondre à votre dernière lettre, je vous parlerai d’une affaire des plus importantes qui se puissent présenter et dont le mérite me servira d’excuse envers vous, pour la surcharge que je vous donne en vous l’adressant ; outre que je n’ai pu m’en défendre, eu égard à ceux qui m’ont demandé votre assistance. Il est question de remédier aux duels, qui sont si fréquents en France, et par lesquels il s’est fait des maux infinis [^1]. M. le marquis de la Mothe-Fénelon [^2] est celui de qui Dieu s’est servi pour susciter les moyens d’en détruire l’usage. Il a été autrefois un fameux duelliste ; mais, comme Dieu le toucha, il se convertit si bien, qu’il jura de ne se plus battre. Il était à Monseigneur le duc d’Orléans, comme il y est encore ; et en ayant parlé à un autre gentilhomme [^3], il lui fit prendre la même résolution ; et tous deux en ont gagné d’autres à leur parti, en les engageant de parole et même par écrit [^4]. Ces commencements ont eu les progrès que vous verrez dans le mémoire ci-joint, et d’autres que l’on a omis [^5]. Le roi a fait enrôler sa maison dans cette résolution [^6]. Les États de Languedoc et de Bretagne ont privé du droit de séance dans leurs assemblées les gentilshommes qui désormais se battront dans leurs provinces. Enfin on a usé de toutes les précautions possibles pour arrêter ce torrent, qui a fait tant de ravages sur les corps et sur les âmes. Il ne reste, pour la conclusion de cette bonne œuvre, sinon qu’il plaise à notre Saint-Père le Pape de la couronner de sa bénédiction par le bref qu’on lui demande. Je vous en envoie le projet, qui a été si bien concerté de deçà, qu’on estime qu’il n’est pas possible d’y rien changer sans ruiner le bon dessein qu’on a. Prenez la peine de vous bien mettre au fait de tout, pour en instruire quelque cardinal qui puisse et qui veuille représenter à Sa Sainteté l’importance de la chose. Monseigneur le nonce donne la même commission et envoie la même dépêche à son agent… Il faudra que vous fournissiez aux frais, et je vous en prie. Nous vous rendrons ce que vous avancerez. Vous m’écrirez exactement ce qui se passera. [^7]
+
+[^1]: La passion du duel était si répandue qu’en une semaine il y eut dix-sept tués sur la seule paroisse Saint-Sulpice. Beaucoup regardaient ces combats singuliers comme licites et même comme honorables. Comme les remontrances des prédicateurs ne suffisaient pas, le vicaire général de Paris défendit aux prêtres de la paroisse Saint-Sulpice d’absoudre les duellistes, sauf au lit de mort, de donner les derniers sacrements et d’inhumer en terre sainte ceux qui ne seraient pas absous. (Cf. Faillon, *op*. *cit. *t. II, pp. 258-264.)
+
+[^2]: Oncle de l’archevêque de Cambrai.
+
+[^3]: Peut-être le maréchal de Fabert, qui fut, avec le marquis de Fénelon, le chef de cette association, dans laquelle entrèrent le duc de Liancourt, le vicomte de Montebas, le comte de Brancas, le marquis de Saint-Mesmes, le comte d’Albon, MM. Desgraves, Alzan, de Bourdonnet, du Four, de Souville et du Clusel.
+
+[^4]: Les gentilshommes de l’association réunis dans l’église du séminaire Saint-Sulpice en 1651, le jour de la Pentecôte, avaient fait serment de ne jamais plus accepter aucun duel et de combattre cette triste coutume.
+
+[^5]: es maréchaux de France exhortèrent tous les gentilshommes du royaume à prendre la même résolution ; des personnages illustres donnèrent leur adhésion ; le prince de Condé, qui s’était montré favorable au mouvement, reçut du Pape un bref de félicitations. Le prince de Conti combattit ce fléau dans le Languedoc, Alain de Solminihac dans le Querci. Les évêques de l’Assemblée du Clergé approuvèrent, le 28 août 1651, la déclaration solennelle des gentilshommes ; les docteurs de Sorbonne firent de même.
+
+[^6]: Il voulut que le marquis de Fénelon reçût lui-même les signatures de la cour.
+
+[^7]: Collet, *op. cit., *t. II, p. 24

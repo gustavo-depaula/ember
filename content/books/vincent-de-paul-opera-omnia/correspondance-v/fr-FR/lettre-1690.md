@@ -1,0 +1,7 @@
+# Lettre 1690. À Marc Coglée, Supérieur, à Sedan
+
+Du 10 décembre 1653.
+
+Je loue Dieu de ce que vous êtes allé à Balan (1) faire les fonctions de curé au refus de M…. Vous avez bien fait d’en user ainsi plutôt que de le presser. Il y a des personnes bonnes qui craignent Dieu, qui ne laissent pas de tomber en certaines faiblesses, et il vaut mieux les supporter que de se raidir contre elles. Puisque Dieu donne bénédiction à ce sien serviteur dans le tribunal, je pense que vous ferez bien de le laisser faire et de donner quelque chose à ses petites volontés, vu que, par La grâce de Dieu, il n’en a pas de mauvaises, et que d’ailleurs il vous sera plus facile de le ramener au point que vous le désirez par la douceur et par la patience que par trop de fermeté.
+
+Et au regard de M…, la parole qui lui est échappée est peut-être une saillie de la nature, et non pas une indisposition de l’esprit. Les plus sages disent souvent des choses, surpris de quelque passion, dont ils se repentent par après. Il y en a d’autres qui témoignent pour l’ordinaire leurs aversions et leurs sentiments tant à l’égard des personnes que des emplois et ne laissent pas pourtant de bien faire. Tant y a, Monsieur, qu’avec quelques esprits que nous soyons il y a toujours à souffrir, mais aussi à mériter. J’espère que celui-là pourra se gagner, moyennant qu’on le supporte charitablement, qu’on l’avertisse avec prudence et qu’on prie Dieu pour lui, comme je fais pour votre famille en général et pour vous en particulier.

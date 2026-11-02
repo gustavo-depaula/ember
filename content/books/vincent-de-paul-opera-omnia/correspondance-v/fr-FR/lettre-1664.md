@@ -1,0 +1,9 @@
+# Lettre 1664. À Thomas Berthe, Supérieur, à Rome
+
+Du 10 octobre 1653.
+
+Monsieur Jolly m’a fait savoir qu’il est content d’être pourvu de la maîtrise du Saint-Esprit de Toul, mais que M. Lambin n’en est pas d’avis, disant qu’on ne peut accepter un bénéfice qu’avec intention de le retenir ; ce qui est véritable en certains cas, mais non pas en celui-ci : 1° d’autant que ledit sieur Jolly est membre du corps auquel il remettra son droit, et par ce moyen il le retiendra en quelque façon ; et en second lieu, il s’agit d’un plus grand bien, lequel l’Église n’entend pas empêcher, quand les saints canons défendent de ne recevoir un bénéfice qu’avec intention de le garder ; au contraire, cette défense est faite fort à propos pour éviter les abus. Or il est constant qu’il y a plus de bien à espérer de l’union de cette maison à une communauté, que si la même maison était à un particulier. C’est pourquoi les docteurs d’ici sont de ce sentiment, qu’un particulier peut prendre un bénéfice avec intention de le résigner par après en manière d’union à une compagnie bien réglée, dans la vue qu’il a d’un plus grand bien, pourvu que cela n’entre pas en pacte avec celui qui lui donne le bénéfice, et que, l’ayant accepté, il demeure libre de le retenir ou de le résigner. Or M. Jolly sera dans cette liberté, aussi bien de notre part que de celle de M. Platel, lequel lui en fera sa démission sans aucune condition, et nous ne voulons pas l’obliger, en l’acceptant, d’en disposer qu’en la manière qu’il lui plaira et selon les lumières que Dieu lui donnera pour lors. Je vous prie de consulter ceci avec les Jésuites de delà. [^1] [^2]
+
+[^1]: Reg. 2, p*. *233
+
+[^2]: Jean Dehorgny, précédemment supérieur à Rome, venait d’être rappelé à Paris, où il arriva le dernier jour de l’année. (Cf. lettres 1677 et 1693). Thomas Berthe, qui remplissait les fonctions de procureur général de la compagnie auprès du Saint-Siège, était tout désigné pour lui succéder.

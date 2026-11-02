@@ -1,0 +1,2483 @@
+{
+  "id": "vincent-correspondance-v",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Correspondance de saint Vincent de Paul, tome V",
+    "en-US": "Correspondence of St. Vincent de Paul, vol. V",
+    "pt-BR": "Correspondência de São Vicente de Paulo, tomo V"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les lettres 1646 à 2090 de la Correspondance de saint Vincent, tome V de l’édition de Pierre Coste (1653-1656), une lettre par chapitre, groupées par année, avec les lettres adressées à Vincent que Coste y a intercalées, ses notices de sources et ses notes.",
+    "en-US": "Letters 1646 to 2090 of St. Vincent’s Correspondence, vol. V of Pierre Coste’s edition (1653-1656), one letter per chapter and grouped by year, with the letters addressed to Vincent that Coste interleaves, his source notices and notes.",
+    "pt-BR": "As cartas 1646 a 2090 da Correspondência de São Vicente, tomo V da edição de Pierre Coste (1653-1656)."
+  },
+  "composed": "1653-1656",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/correspondance-v",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1921
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tome V; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All letters of the tome, one per chapter, including the letters to Vincent that Coste prints among them, with Coste’s source notices and footnotes kept as notes. Coste’s introduction is not included; letters whose heading the transcription lost stay inside the preceding chapter.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Année 1653"
+      },
+      "children": [
+        {
+          "id": "lettre-1646",
+          "title": {
+            "fr-FR": "Lettre 1646. À Jean Dehorgny"
+          }
+        },
+        {
+          "id": "lettre-1647",
+          "title": {
+            "fr-FR": "Lettre 1647. Aux Filles de la Charité de Nantes"
+          }
+        },
+        {
+          "id": "lettre-1648",
+          "title": {
+            "fr-FR": "Lettre 1648. À Nicolas Guillot, Prêtre de la Mission, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1649",
+          "title": {
+            "fr-FR": "Lettre 1649. À Madame Doujat"
+          }
+        },
+        {
+          "id": "lettre-1650",
+          "title": {
+            "fr-FR": "Lettre 1650. À la Sœur Jeanne Lepeintre"
+          }
+        },
+        {
+          "id": "lettre-1651",
+          "title": {
+            "fr-FR": "Lettre 1651. À Pierre du Chesne"
+          }
+        },
+        {
+          "id": "lettre-1652",
+          "title": {
+            "fr-FR": "Lettre 1652. Les Échevins de Rethel à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1653",
+          "title": {
+            "fr-FR": "Lettre 1653. À une Demoiselle d’Arras"
+          }
+        },
+        {
+          "id": "lettre-1654",
+          "title": {
+            "fr-FR": "Lettre 1654. À la Mère Marie-Agnes le Roy"
+          }
+        },
+        {
+          "id": "lettre-1655",
+          "title": {
+            "fr-FR": "Lettre 1655. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-1656",
+          "title": {
+            "fr-FR": "Lettre 1656. À la Sœur Jeanne-Françoise"
+          }
+        },
+        {
+          "id": "lettre-1657",
+          "title": {
+            "fr-FR": "Lettre 1657. À Jacques le Soudier"
+          }
+        },
+        {
+          "id": "lettre-1658",
+          "title": {
+            "fr-FR": "Lettre 1658. À la Sœur Jeanne-Françoise"
+          }
+        },
+        {
+          "id": "lettre-1659",
+          "title": {
+            "fr-FR": "Lettre 1659. Au Cardinal Fabio Chigi"
+          }
+        },
+        {
+          "id": "lettre-1660",
+          "title": {
+            "fr-FR": "Lettre 1660. Au Cardinal Antoine Barberini, — Préfet de la Propagande"
+          }
+        },
+        {
+          "id": "lettre-1661",
+          "title": {
+            "fr-FR": "Lettre 1661. À Mathurin Gentil"
+          }
+        },
+        {
+          "id": "lettre-1663",
+          "title": {
+            "fr-FR": "Lettre 1663. À Nicolas Guillot"
+          }
+        },
+        {
+          "id": "lettre-1664",
+          "title": {
+            "fr-FR": "Lettre 1664. À Thomas Berthe, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1665",
+          "title": {
+            "fr-FR": "Lettre 1665. À François Fournier, Prêtre de la Mission, à Agen"
+          }
+        },
+        {
+          "id": "lettre-1666",
+          "title": {
+            "fr-FR": "Lettre 1666. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1667",
+          "title": {
+            "fr-FR": "Lettre 1667. Au Frère Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-1668",
+          "title": {
+            "fr-FR": "Lettre 1668. À Charles Ozenne, Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1669",
+          "title": {
+            "fr-FR": "Lettre 1669. À un Seigneur de Normandie"
+          }
+        },
+        {
+          "id": "lettre-1670",
+          "title": {
+            "fr-FR": "Lettre 1670. Réponse de Saint Vincent — À des Questions Posées par Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1671",
+          "title": {
+            "fr-FR": "Lettre 1671. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1672",
+          "title": {
+            "fr-FR": "Lettre 1672. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1673",
+          "title": {
+            "fr-FR": "Lettre 1673. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1675",
+          "title": {
+            "fr-FR": "Lettre 1675. À Nicolas Bagni, Nonce en France"
+          }
+        },
+        {
+          "id": "lettre-1676",
+          "title": {
+            "fr-FR": "Lettre 1676. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1677",
+          "title": {
+            "fr-FR": "Lettre 1677. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1678",
+          "title": {
+            "fr-FR": "Lettre 1678. À Louis Champion, Supérieur, à Montmirail"
+          }
+        },
+        {
+          "id": "lettre-1679",
+          "title": {
+            "fr-FR": "Lettre 1679. À Nicolas Cuillot"
+          }
+        },
+        {
+          "id": "lettre-1680",
+          "title": {
+            "fr-FR": "Lettre 1680. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1681",
+          "title": {
+            "fr-FR": "Lettre 1681. À la Duchesse d’Aiguillon"
+          }
+        },
+        {
+          "id": "lettre-1682",
+          "title": {
+            "fr-FR": "Lettre 1682. À Henri d’Estampes, Ambassadeur de France, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1683",
+          "title": {
+            "fr-FR": "Lettre 1683. Le Cardinal Antoine Barbarini à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1684",
+          "title": {
+            "fr-FR": "Lettre 1684. À un Évêque"
+          }
+        },
+        {
+          "id": "lettre-1685",
+          "title": {
+            "fr-FR": "Lettre 1685. À la Sœur Henriette Gesseaume"
+          }
+        },
+        {
+          "id": "lettre-1686",
+          "title": {
+            "fr-FR": "Lettre 1686. Au Chanoine Duval"
+          }
+        },
+        {
+          "id": "lettre-1687",
+          "title": {
+            "fr-FR": "Lettre 1687. À Thomas Berthe, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1688",
+          "title": {
+            "fr-FR": "Lettre 1688. Au Frère Jean Parre"
+          }
+        },
+        {
+          "id": "lettre-1690",
+          "title": {
+            "fr-FR": "Lettre 1690. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1691",
+          "title": {
+            "fr-FR": "Lettre 1691. À Félix Vialart, Évêque de Châlons-sur-Marn"
+          }
+        },
+        {
+          "id": "lettre-1692",
+          "title": {
+            "fr-FR": "Lettre 1692. À Louise de Marillac"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Année 1654"
+      },
+      "children": [
+        {
+          "id": "lettre-1693",
+          "title": {
+            "fr-FR": "Lettre 1693. À Thomas Berthe, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1694",
+          "title": {
+            "fr-FR": "Lettre 1694. A Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-1695",
+          "title": {
+            "fr-FR": "Lettre 1695. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1696",
+          "title": {
+            "fr-FR": "Lettre 1696. À Nicolas Bagni, Nonce en France"
+          }
+        },
+        {
+          "id": "lettre-1697",
+          "title": {
+            "fr-FR": "Lettre 1697. À la Sœur Jeanne-Françoise"
+          }
+        },
+        {
+          "id": "lettre-1698",
+          "title": {
+            "fr-FR": "Lettre 1698. À Nicolas Guillot"
+          }
+        },
+        {
+          "id": "lettre-1699",
+          "title": {
+            "fr-FR": "Lettre 1699. À Marc Coglée"
+          }
+        },
+        {
+          "id": "lettre-1700",
+          "title": {
+            "fr-FR": "Lettre 1700. À la Sœur Jeanne-Françoise"
+          }
+        },
+        {
+          "id": "lettre-1701",
+          "title": {
+            "fr-FR": "Lettre 1701. À Nicolas Guillot, Prêtre de la Mission, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1702",
+          "title": {
+            "fr-FR": "Lettre 1702. Au Cardinal Antoine Barberini — Préfet de la Propagande"
+          }
+        },
+        {
+          "id": "lettre-1703",
+          "title": {
+            "fr-FR": "Lettre 1703. Au Chantre de Laon"
+          }
+        },
+        {
+          "id": "lettre-1704",
+          "title": {
+            "fr-FR": "Lettre 1704. Au Frère Jacques Rivet, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-1705",
+          "title": {
+            "fr-FR": "Lettre 1705. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1706",
+          "title": {
+            "fr-FR": "Lettre 1706. À Nicolas Guillot"
+          }
+        },
+        {
+          "id": "lettre-1707",
+          "title": {
+            "fr-FR": "Lettre 1707. À François Fournier, Prêtre de la Mission à Agen"
+          }
+        },
+        {
+          "id": "lettre-1708",
+          "title": {
+            "fr-FR": "Lettre 1708. À Monsieur de la Haye-Vantelay"
+          }
+        },
+        {
+          "id": "lettre-1709",
+          "title": {
+            "fr-FR": "Lettre 1709. À Nicolas Guillot"
+          }
+        },
+        {
+          "id": "lettre-1710",
+          "title": {
+            "fr-FR": "Lettre 1710. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1711",
+          "title": {
+            "fr-FR": "Lettre 1711. Aux Religieux de l’Abbaye du Mont-Saint-Eloy"
+          }
+        },
+        {
+          "id": "lettre-1712",
+          "title": {
+            "fr-FR": "Lettre 1712. À Jacques Desclaux, Évêque de Dax"
+          }
+        },
+        {
+          "id": "lettre-1713",
+          "title": {
+            "fr-FR": "Lettre 1713. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1714",
+          "title": {
+            "fr-FR": "Lettre 1714. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-1715",
+          "title": {
+            "fr-FR": "Lettre 1715. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1716",
+          "title": {
+            "fr-FR": "Lettre 1716. À Monseigneur Massari, — Secrétaire de la Propagande"
+          }
+        },
+        {
+          "id": "lettre-1717",
+          "title": {
+            "fr-FR": "Lettre 1717. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1718",
+          "title": {
+            "fr-FR": "Lettre 1718. À Firmin Get, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1719",
+          "title": {
+            "fr-FR": "Lettre 1719. À François Perrochel, Évêque de Boulogne"
+          }
+        },
+        {
+          "id": "lettre-1720",
+          "title": {
+            "fr-FR": "Lettre 1720. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1721",
+          "title": {
+            "fr-FR": "Lettre 1721. À Stanislas Zelazewski, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1722",
+          "title": {
+            "fr-FR": "Lettre 1722. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1723",
+          "title": {
+            "fr-FR": "Lettre 1723. À la Sœur Jeanne-Françoise"
+          }
+        },
+        {
+          "id": "lettre-1724",
+          "title": {
+            "fr-FR": "Lettre 1724. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1725",
+          "title": {
+            "fr-FR": "Lettre 1725. Martin Husson à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1726",
+          "title": {
+            "fr-FR": "Lettre 1726. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-1727",
+          "title": {
+            "fr-FR": "Lettre 1727. À la Sœur Marguerite Moreau, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1728",
+          "title": {
+            "fr-FR": "Lettre 1728. - à Firmin Get, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1729",
+          "title": {
+            "fr-FR": "Lettre 1729. Dermot Duiguin Missionnaire en Ecosse,"
+          }
+        },
+        {
+          "id": "lettre-1730",
+          "title": {
+            "fr-FR": "Lettre 1730. À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1731",
+          "title": {
+            "fr-FR": "Lettre 1731. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1732",
+          "title": {
+            "fr-FR": "Lettre 1732. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-1733",
+          "title": {
+            "fr-FR": "Lettre 1733. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1734",
+          "title": {
+            "fr-FR": "Lettre 1734. Thomas Lumsden, Missionnaire en Ecosse — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1735",
+          "title": {
+            "fr-FR": "Lettre 1735. Jean le Vacher, Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1736",
+          "title": {
+            "fr-FR": "Lettre 1736. Jean le Vacher, Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1737",
+          "title": {
+            "fr-FR": "Lettre 1737. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1738",
+          "title": {
+            "fr-FR": "Lettre 1738. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1739",
+          "title": {
+            "fr-FR": "Lettre 1739. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1740",
+          "title": {
+            "fr-FR": "Lettre 1740. À Monsieur de Contarmon"
+          }
+        },
+        {
+          "id": "lettre-1741",
+          "title": {
+            "fr-FR": "Lettre 1741. À Firmin Get, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1742",
+          "title": {
+            "fr-FR": "Lettre 1742. À Firmin Get, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1743",
+          "title": {
+            "fr-FR": "Lettre 1743. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1744",
+          "title": {
+            "fr-FR": "Lettre 1744. Au Père Boulart"
+          }
+        },
+        {
+          "id": "lettre-1745",
+          "title": {
+            "fr-FR": "Lettre 1745. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1746",
+          "title": {
+            "fr-FR": "Lettre 1746. Au Frère Jean Barreau"
+          }
+        },
+        {
+          "id": "lettre-1747",
+          "title": {
+            "fr-FR": "Lettre 1747. À François Adhémar de Monteil de Grignan, Archevêque d’Arles"
+          }
+        },
+        {
+          "id": "lettre-1748",
+          "title": {
+            "fr-FR": "Lettre 1748. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1749",
+          "title": {
+            "fr-FR": "Lettre 1749. À Thomas Berthe, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1750",
+          "title": {
+            "fr-FR": "Lettre 1750. À Pierre-Paul Baliano, Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1751",
+          "title": {
+            "fr-FR": "Lettre 1751. À Marc Coglée"
+          }
+        },
+        {
+          "id": "lettre-1752",
+          "title": {
+            "fr-FR": "Lettre 1752. À Thomas Berthe, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1753",
+          "title": {
+            "fr-FR": "Lettre 1753. À Jacques Dowley"
+          }
+        },
+        {
+          "id": "lettre-1754",
+          "title": {
+            "fr-FR": "Lettre 1754. À la Sœur Jeanne-Françoise"
+          }
+        },
+        {
+          "id": "lettre-1755",
+          "title": {
+            "fr-FR": "Lettre 1755. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1756",
+          "title": {
+            "fr-FR": "Lettre 1756. À Firmin Get, Prêtre de la Mission, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1757",
+          "title": {
+            "fr-FR": "Lettre 1757. Louise-Marie de Gonzague, Reine de Pologne,"
+          }
+        },
+        {
+          "id": "lettre-1759",
+          "title": {
+            "fr-FR": "Lettre 1759. À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1760",
+          "title": {
+            "fr-FR": "Lettre 1760. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1761",
+          "title": {
+            "fr-FR": "Lettre 1761. Aux Filles de la Charité de Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1762",
+          "title": {
+            "fr-FR": "Lettre 1762. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1763",
+          "title": {
+            "fr-FR": "Lettre 1763. Alain de Solminihac, Évêque de Cahors,"
+          }
+        },
+        {
+          "id": "lettre-1765",
+          "title": {
+            "fr-FR": "Lettre 1765. À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1785",
+          "title": {
+            "fr-FR": "Lettre 1785. À Thomas Berthe, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1786",
+          "title": {
+            "fr-FR": "Lettre 1786. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1787",
+          "title": {
+            "fr-FR": "Lettre 1787. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1788",
+          "title": {
+            "fr-FR": "Lettre 1788. À Jean Martin, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1789",
+          "title": {
+            "fr-FR": "Lettre 1789. À la Mère Marie-Catherine de Glétain"
+          }
+        },
+        {
+          "id": "lettre-1790",
+          "title": {
+            "fr-FR": "Lettre 1790. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1791",
+          "title": {
+            "fr-FR": "Lettre 1791. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1792",
+          "title": {
+            "fr-FR": "Lettre 1792. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1793",
+          "title": {
+            "fr-FR": "Lettre 1793. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-03",
+      "title": {
+        "fr-FR": "Année 1654 (2e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-1794",
+          "title": {
+            "fr-FR": "Lettre 1794. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1795",
+          "title": {
+            "fr-FR": "Lettre 1795. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1796",
+          "title": {
+            "fr-FR": "Lettre 1796. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1797",
+          "title": {
+            "fr-FR": "Lettre 1797. À la Sœur Jeanne de la Croix, Supérieure, — À Cerqueux"
+          }
+        },
+        {
+          "id": "lettre-1798",
+          "title": {
+            "fr-FR": "Lettre 1798. À un Ecclésiastique"
+          }
+        },
+        {
+          "id": "lettre-1799",
+          "title": {
+            "fr-FR": "Lettre 1799. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1800",
+          "title": {
+            "fr-FR": "Lettre 1800. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1801",
+          "title": {
+            "fr-FR": "Lettre 1801. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1802",
+          "title": {
+            "fr-FR": "Lettre 1802. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1803",
+          "title": {
+            "fr-FR": "Lettre 1803. À Charles Ozenne. Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1804",
+          "title": {
+            "fr-FR": "Lettre 1804. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1805",
+          "title": {
+            "fr-FR": "Lettre 1805. À Dominique Lhuillier, Prêtre de la Mission, à Crécy"
+          }
+        },
+        {
+          "id": "lettre-1806",
+          "title": {
+            "fr-FR": "Lettre 1806. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1807",
+          "title": {
+            "fr-FR": "Lettre 1807. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1808",
+          "title": {
+            "fr-FR": "Lettre 1808. À Nicolas Demonchy, Supérieur, à Toul"
+          }
+        },
+        {
+          "id": "lettre-1809",
+          "title": {
+            "fr-FR": "Lettre 1809. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1810",
+          "title": {
+            "fr-FR": "Lettre 1810. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1811",
+          "title": {
+            "fr-FR": "Lettre 1811. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1812",
+          "title": {
+            "fr-FR": "Lettre 1812. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1813",
+          "title": {
+            "fr-FR": "Lettre 1813. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1814",
+          "title": {
+            "fr-FR": "Lettre 1814. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1815",
+          "title": {
+            "fr-FR": "Lettre 1815. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1816",
+          "title": {
+            "fr-FR": "Lettre 1816. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1817",
+          "title": {
+            "fr-FR": "Lettre 1817. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1818",
+          "title": {
+            "fr-FR": "Lettre 1818. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1819",
+          "title": {
+            "fr-FR": "Lettre 1819. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1820",
+          "title": {
+            "fr-FR": "Lettre 1820. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1821",
+          "title": {
+            "fr-FR": "Lettre 1821. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1822",
+          "title": {
+            "fr-FR": "Lettre 1822. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-04",
+      "title": {
+        "fr-FR": "Année 1655"
+      },
+      "children": [
+        {
+          "id": "lettre-1823",
+          "title": {
+            "fr-FR": "Lettre 1823. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1824",
+          "title": {
+            "fr-FR": "Lettre 1824. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1825",
+          "title": {
+            "fr-FR": "Lettre 1825. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1826",
+          "title": {
+            "fr-FR": "Lettre 1826. À Firmin Get"
+          }
+        },
+        {
+          "id": "lettre-1827",
+          "title": {
+            "fr-FR": "Lettre 1827. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1828",
+          "title": {
+            "fr-FR": "Lettre 1828. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1829",
+          "title": {
+            "fr-FR": "Lettre 1829. Martin Husson, Consul de France, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1830",
+          "title": {
+            "fr-FR": "Lettre 1830. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1831",
+          "title": {
+            "fr-FR": "Lettre 1831. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1832",
+          "title": {
+            "fr-FR": "Lettre 1832. Jean le Vacher, Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1833",
+          "title": {
+            "fr-FR": "Lettre 1833. À Marc Coglée"
+          }
+        },
+        {
+          "id": "lettre-1834",
+          "title": {
+            "fr-FR": "Lettre 1834. Thomas Berthe, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1835",
+          "title": {
+            "fr-FR": "Lettre 1835. Thomas Berthe, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1836",
+          "title": {
+            "fr-FR": "Lettre 1836. Jean -François Mousnier, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1837",
+          "title": {
+            "fr-FR": "Lettre 1837. Jean-François Mousnier, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1838",
+          "title": {
+            "fr-FR": "Lettre 1838. Toussaint Bourdaise, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1839",
+          "title": {
+            "fr-FR": "Lettre 1839. Toussaint Bourdaise, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1840",
+          "title": {
+            "fr-FR": "Lettre 1840. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1841",
+          "title": {
+            "fr-FR": "Lettre 1841. À un Religieux"
+          }
+        },
+        {
+          "id": "lettre-1842",
+          "title": {
+            "fr-FR": "Lettre 1842. A Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-1843",
+          "title": {
+            "fr-FR": "Lettre 1843. À Renault Legendre Prêtre de la Mission, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1844",
+          "title": {
+            "fr-FR": "Lettre 1844. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1845",
+          "title": {
+            "fr-FR": "Lettre 1845. Jean Barreau, Clerc de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1846",
+          "title": {
+            "fr-FR": "Lettre 1846. À Louis Serre, Prêtre de la Mission. à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-1847",
+          "title": {
+            "fr-FR": "Lettre 1847. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1848",
+          "title": {
+            "fr-FR": "Lettre 1848. Le Père Rainssant, Cure de Ham, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1849",
+          "title": {
+            "fr-FR": "Lettre 1849. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1850",
+          "title": {
+            "fr-FR": "Lettre 1850. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1851",
+          "title": {
+            "fr-FR": "Lettre 1851. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1852",
+          "title": {
+            "fr-FR": "Lettre 1852. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1853",
+          "title": {
+            "fr-FR": "Lettre 1853. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1854",
+          "title": {
+            "fr-FR": "Lettre 1854. À N *"
+          }
+        },
+        {
+          "id": "lettre-1855",
+          "title": {
+            "fr-FR": "Lettre 1855. À N *"
+          }
+        },
+        {
+          "id": "lettre-1856",
+          "title": {
+            "fr-FR": "Lettre 1856. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1857",
+          "title": {
+            "fr-FR": "Lettre 1857. À Charles Ozenne, Supérieur, à Varsovie"
+          }
+        },
+        {
+          "id": "lettre-1858",
+          "title": {
+            "fr-FR": "Lettre 1858. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1859",
+          "title": {
+            "fr-FR": "Lettre 1859. Au Père Boulart"
+          }
+        },
+        {
+          "id": "lettre-1860",
+          "title": {
+            "fr-FR": "Lettre 1860. Louis Serre, Prêtre de la Mission, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1881",
+          "title": {
+            "fr-FR": "Lettre 1881. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1882",
+          "title": {
+            "fr-FR": "Lettre 1882. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1883",
+          "title": {
+            "fr-FR": "Lettre 1883. Au Frère Ducournau"
+          }
+        },
+        {
+          "id": "lettre-1884",
+          "title": {
+            "fr-FR": "Lettre 1884. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1885",
+          "title": {
+            "fr-FR": "Lettre 1885. À un Bienfaiteur"
+          }
+        },
+        {
+          "id": "lettre-1886",
+          "title": {
+            "fr-FR": "Lettre 1886. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1888",
+          "title": {
+            "fr-FR": "Lettre 1888. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1889",
+          "title": {
+            "fr-FR": "Lettre 1889. À Jean-Jacques Nugnier, Supérieur, à Agde"
+          }
+        },
+        {
+          "id": "lettre-1890",
+          "title": {
+            "fr-FR": "Lettre 1890. A Etienne Blatiron, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1891",
+          "title": {
+            "fr-FR": "Lettre 1891. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1892",
+          "title": {
+            "fr-FR": "Lettre 1892. Un Prêtre de la Mission de Barbarie à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1893",
+          "title": {
+            "fr-FR": "Lettre 1893. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1894",
+          "title": {
+            "fr-FR": "Lettre 1894. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1895",
+          "title": {
+            "fr-FR": "Lettre 1895. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1897",
+          "title": {
+            "fr-FR": "Lettre 1897. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1898",
+          "title": {
+            "fr-FR": "Lettre 1898. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1899",
+          "title": {
+            "fr-FR": "Lettre 1899. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1900",
+          "title": {
+            "fr-FR": "Lettre 1900. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1901",
+          "title": {
+            "fr-FR": "Lettre 1901. À Monsieur Roquette"
+          }
+        },
+        {
+          "id": "lettre-1902",
+          "title": {
+            "fr-FR": "Lettre 1902. Au Père Boulart"
+          }
+        },
+        {
+          "id": "lettre-1903",
+          "title": {
+            "fr-FR": "Lettre 1903. À Firmin Get, Supérieur à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1904",
+          "title": {
+            "fr-FR": "Lettre 1904. À Louis Rivet, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1905",
+          "title": {
+            "fr-FR": "Lettre 1905. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1906",
+          "title": {
+            "fr-FR": "Lettre 1906. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1907",
+          "title": {
+            "fr-FR": "Lettre 1907. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1908",
+          "title": {
+            "fr-FR": "Lettre 1908. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1910",
+          "title": {
+            "fr-FR": "Lettre 1910. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1911",
+          "title": {
+            "fr-FR": "Lettre 1911. À Firmin Get. Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1912",
+          "title": {
+            "fr-FR": "Lettre 1912. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1913",
+          "title": {
+            "fr-FR": "Lettre 1913. À Louis Rivet, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1914",
+          "title": {
+            "fr-FR": "Lettre 1914. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1915",
+          "title": {
+            "fr-FR": "Lettre 1915. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1916",
+          "title": {
+            "fr-FR": "Lettre 1916. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1917",
+          "title": {
+            "fr-FR": "Lettre 1917. À Monsieur Charrin, à Lyon"
+          }
+        },
+        {
+          "id": "lettre-1918",
+          "title": {
+            "fr-FR": "Lettre 1918. À un Cure"
+          }
+        },
+        {
+          "id": "lettre-1919",
+          "title": {
+            "fr-FR": "Lettre 1919. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-1920",
+          "title": {
+            "fr-FR": "Lettre 1920. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1921",
+          "title": {
+            "fr-FR": "Lettre 1921. À la Sœur Marie-Marthe Trumeau, à Nantes"
+          }
+        },
+        {
+          "id": "lettre-1922",
+          "title": {
+            "fr-FR": "Lettre 1922. À un Prêtre Sorti de la Compagnie"
+          }
+        },
+        {
+          "id": "lettre-1923",
+          "title": {
+            "fr-FR": "Lettre 1923. À Edme Jolly, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1924",
+          "title": {
+            "fr-FR": "Lettre 1924. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1925",
+          "title": {
+            "fr-FR": "Lettre 1925. À Monsieur Thomas (1), à Angoulême"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-05",
+      "title": {
+        "fr-FR": "Année 1655 (2e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-1926",
+          "title": {
+            "fr-FR": "Lettre 1926. À Jacques le Soudier"
+          }
+        },
+        {
+          "id": "lettre-1927",
+          "title": {
+            "fr-FR": "Lettre 1927. . Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1928",
+          "title": {
+            "fr-FR": "Lettre 1928. À un Parent"
+          }
+        },
+        {
+          "id": "lettre-1929",
+          "title": {
+            "fr-FR": "Lettre 1929. À Antoine Portail, à Toul"
+          }
+        },
+        {
+          "id": "lettre-1930",
+          "title": {
+            "fr-FR": "Lettre 1930. À Plusieurs Prêtres de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1931",
+          "title": {
+            "fr-FR": "Lettre 1931. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1932",
+          "title": {
+            "fr-FR": "Lettre 1932. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1933",
+          "title": {
+            "fr-FR": "Lettre 1933. À Pierre de Beaumont, Prêtre de la Mission, — À Richelieu"
+          }
+        },
+        {
+          "id": "lettre-1934",
+          "title": {
+            "fr-FR": "Lettre 1934. À Jean Chrétien, Supérieur, à la Rose"
+          }
+        },
+        {
+          "id": "lettre-1935",
+          "title": {
+            "fr-FR": "Lettre 1935. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1936",
+          "title": {
+            "fr-FR": "Lettre 1936. À Marc Coglée"
+          }
+        },
+        {
+          "id": "lettre-1937",
+          "title": {
+            "fr-FR": "Lettre 1937. À un Supérieur"
+          }
+        },
+        {
+          "id": "lettre-1938",
+          "title": {
+            "fr-FR": "Lettre 1938. À François Vincent, Prêtre de la Mission à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1939",
+          "title": {
+            "fr-FR": "Lettre 1939. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1940",
+          "title": {
+            "fr-FR": "Lettre 1940. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1941",
+          "title": {
+            "fr-FR": "Lettre 1941. À un Prêtre de la Mission, — Professeur au Séminaire de Saintes"
+          }
+        },
+        {
+          "id": "lettre-1942",
+          "title": {
+            "fr-FR": "Lettre 1942. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1943",
+          "title": {
+            "fr-FR": "Lettre 1943. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1944",
+          "title": {
+            "fr-FR": "Lettre 1944. Au Marquis de Pianezze"
+          }
+        },
+        {
+          "id": "lettre-1945",
+          "title": {
+            "fr-FR": "Lettre 1945. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1946",
+          "title": {
+            "fr-FR": "Lettre 1946. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1947",
+          "title": {
+            "fr-FR": "Lettre 1947. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1948",
+          "title": {
+            "fr-FR": "Lettre 1948. - à Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1949",
+          "title": {
+            "fr-FR": "Lettre 1949. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1950",
+          "title": {
+            "fr-FR": "Lettre 1950. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-1951",
+          "title": {
+            "fr-FR": "Lettre 1951. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1952",
+          "title": {
+            "fr-FR": "Lettre 1952. À Edme Jolly,supérieur,a Rome"
+          }
+        },
+        {
+          "id": "lettre-1953",
+          "title": {
+            "fr-FR": "Lettre 1953. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1954",
+          "title": {
+            "fr-FR": "Lettre 1954. Edme Jolly, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1955",
+          "title": {
+            "fr-FR": "Lettre 1955. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1956",
+          "title": {
+            "fr-FR": "Lettre 1956. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1957",
+          "title": {
+            "fr-FR": "Lettre 1957. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1958",
+          "title": {
+            "fr-FR": "Lettre 1958. À Jacques Chiroye, Supérieur, à Luçon"
+          }
+        },
+        {
+          "id": "lettre-1959",
+          "title": {
+            "fr-FR": "Lettre 1959. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1960",
+          "title": {
+            "fr-FR": "Lettre 1960. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1961",
+          "title": {
+            "fr-FR": "Lettre 1961. Edme Jolly, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1962",
+          "title": {
+            "fr-FR": "Lettre 1962. A Etienne, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1963",
+          "title": {
+            "fr-FR": "Lettre 1963. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-1964",
+          "title": {
+            "fr-FR": "Lettre 1964. À Louis de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-1965",
+          "title": {
+            "fr-FR": "Lettre 1965. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1966",
+          "title": {
+            "fr-FR": "Lettre 1966. Edme Jolly, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1967",
+          "title": {
+            "fr-FR": "Lettre 1967. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1968",
+          "title": {
+            "fr-FR": "Lettre 1968. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1969",
+          "title": {
+            "fr-FR": "Lettre 1969. La Duchesse d’Aiguillon à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1970",
+          "title": {
+            "fr-FR": "Lettre 1970. À Jacques Tholard"
+          }
+        },
+        {
+          "id": "lettre-1971",
+          "title": {
+            "fr-FR": "Lettre 1971. 1671. — Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1972",
+          "title": {
+            "fr-FR": "Lettre 1972. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-1973",
+          "title": {
+            "fr-FR": "Lettre 1973. À Nicolas Fouquet, Procureur Général"
+          }
+        },
+        {
+          "id": "lettre-1974",
+          "title": {
+            "fr-FR": "Lettre 1974. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1975",
+          "title": {
+            "fr-FR": "Lettre 1975. À Edme Jolly, Supérieur à Rome"
+          }
+        },
+        {
+          "id": "lettre-1976",
+          "title": {
+            "fr-FR": "Lettre 1976. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-1977",
+          "title": {
+            "fr-FR": "Lettre 1977. A Etienne Blatiron"
+          }
+        },
+        {
+          "id": "lettre-1978",
+          "title": {
+            "fr-FR": "Lettre 1978. À Louis Rivet, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-1979",
+          "title": {
+            "fr-FR": "Lettre 1979. À un Prêtre de la Mission de Barbarie"
+          }
+        },
+        {
+          "id": "lettre-1980",
+          "title": {
+            "fr-FR": "Lettre 1980. Edme Jolly, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1981",
+          "title": {
+            "fr-FR": "Lettre 1981. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1982",
+          "title": {
+            "fr-FR": "Lettre 1982. À Louis de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-1983",
+          "title": {
+            "fr-FR": "Lettre 1983. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1984",
+          "title": {
+            "fr-FR": "Lettre 1984. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1985",
+          "title": {
+            "fr-FR": "Lettre 1985. À Jean Martin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-06",
+      "title": {
+        "fr-FR": "Année 1656"
+      },
+      "children": [
+        {
+          "id": "lettre-1986",
+          "title": {
+            "fr-FR": "Lettre 1986. À Monsieur Forne"
+          }
+        },
+        {
+          "id": "lettre-1987",
+          "title": {
+            "fr-FR": "Lettre 1987. Au Marquis de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-1988",
+          "title": {
+            "fr-FR": "Lettre 1988. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-1989",
+          "title": {
+            "fr-FR": "Lettre 1989. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-1990",
+          "title": {
+            "fr-FR": "Lettre 1990. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1991",
+          "title": {
+            "fr-FR": "Lettre 1991. Toussaint Bourdaise, Prêtre de la Mission, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1992",
+          "title": {
+            "fr-FR": "Lettre 1992. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-1993",
+          "title": {
+            "fr-FR": "Lettre 1993. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1994",
+          "title": {
+            "fr-FR": "Lettre 1994. À Jean Martin, Supérieur, à Turin"
+          }
+        },
+        {
+          "id": "lettre-1995",
+          "title": {
+            "fr-FR": "Lettre 1995. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-1997",
+          "title": {
+            "fr-FR": "Lettre 1997. Un Prêtre de la Mission à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-1998",
+          "title": {
+            "fr-FR": "Lettre 1998. À Louise de Marillac"
+          }
+        },
+        {
+          "id": "lettre-1999",
+          "title": {
+            "fr-FR": "Lettre 1999. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2000",
+          "title": {
+            "fr-FR": "Lettre 2000. À un Supérieur"
+          }
+        },
+        {
+          "id": "lettre-2001",
+          "title": {
+            "fr-FR": "Lettre 2001. À Nicolas Etienne, Clerc"
+          }
+        },
+        {
+          "id": "lettre-2002",
+          "title": {
+            "fr-FR": "Lettre 2002. À Louis Rivet, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2003",
+          "title": {
+            "fr-FR": "Lettre 2003. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2004",
+          "title": {
+            "fr-FR": "Lettre 2004. À un Ecclésiastique"
+          }
+        },
+        {
+          "id": "lettre-2005",
+          "title": {
+            "fr-FR": "Lettre 2005. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2006",
+          "title": {
+            "fr-FR": "Lettre 2006. À Jacques Pesnelle"
+          }
+        },
+        {
+          "id": "lettre-2007",
+          "title": {
+            "fr-FR": "Lettre 2007. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2008",
+          "title": {
+            "fr-FR": "Lettre 2008. Au Pape Alexandre VII"
+          }
+        },
+        {
+          "id": "lettre-2009",
+          "title": {
+            "fr-FR": "Lettre 2009. À Claude de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-2010",
+          "title": {
+            "fr-FR": "Lettre 2010. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-2011",
+          "title": {
+            "fr-FR": "Lettre 2011. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-2012",
+          "title": {
+            "fr-FR": "Lettre 2012. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2013",
+          "title": {
+            "fr-FR": "Lettre 2013. Nicolas Demonchy, Supérieur à Toul, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2014",
+          "title": {
+            "fr-FR": "Lettre 2014. À Firmin Get, Supérieur, à Marseille"
+          }
+        },
+        {
+          "id": "lettre-2015",
+          "title": {
+            "fr-FR": "Lettre 2015. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2016",
+          "title": {
+            "fr-FR": "Lettre 2016. À Georges Desjardins, Prêtre de la Mission, à Toul"
+          }
+        },
+        {
+          "id": "lettre-2017",
+          "title": {
+            "fr-FR": "Lettre 2017. À la Mère Élisabeth de Maupeou"
+          }
+        },
+        {
+          "id": "lettre-2018",
+          "title": {
+            "fr-FR": "Lettre 2018. - à Louise-Marie de Gonzague, Reine de Pologne"
+          }
+        },
+        {
+          "id": "lettre-2019",
+          "title": {
+            "fr-FR": "Lettre 2019. À Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2020",
+          "title": {
+            "fr-FR": "Lettre 2020. À Louis Rivet, Prêtre de la Mission, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2021",
+          "title": {
+            "fr-FR": "Lettre 2021. À Pierre de Beaumont, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-2022",
+          "title": {
+            "fr-FR": "Lettre 2022. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2023",
+          "title": {
+            "fr-FR": "Lettre 2023. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2024",
+          "title": {
+            "fr-FR": "Lettre 2024. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2025",
+          "title": {
+            "fr-FR": "Lettre 2025. À N *"
+          }
+        },
+        {
+          "id": "lettre-2026",
+          "title": {
+            "fr-FR": "Lettre 2026. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2027",
+          "title": {
+            "fr-FR": "Lettre 2027. Au Chanoine de Saint-Martin"
+          }
+        },
+        {
+          "id": "lettre-2028",
+          "title": {
+            "fr-FR": "Lettre 2028. Aux Supérieurs"
+          }
+        },
+        {
+          "id": "lettre-2029",
+          "title": {
+            "fr-FR": "Lettre 2029. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2030",
+          "title": {
+            "fr-FR": "Lettre 2030. À Donat Cruoly, Supérieur, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2031",
+          "title": {
+            "fr-FR": "Lettre 2031. À la Propagande"
+          }
+        },
+        {
+          "id": "lettre-2032",
+          "title": {
+            "fr-FR": "Lettre 2032. François Harlay de Champvallon, — Archevêque de Rouen, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2033",
+          "title": {
+            "fr-FR": "Lettre 2033. Louise de Marillac, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2034",
+          "title": {
+            "fr-FR": "Lettre 2034. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2035",
+          "title": {
+            "fr-FR": "Lettre 2035. À N *"
+          }
+        },
+        {
+          "id": "lettre-2036",
+          "title": {
+            "fr-FR": "Lettre 2036. À Michel Thepault de Rumelin"
+          }
+        },
+        {
+          "id": "lettre-2037",
+          "title": {
+            "fr-FR": "Lettre 2037. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2038",
+          "title": {
+            "fr-FR": "Lettre 2038. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2039",
+          "title": {
+            "fr-FR": "Lettre 2039. À un Prêtre de la Mission, à la Rose"
+          }
+        },
+        {
+          "id": "lettre-2040",
+          "title": {
+            "fr-FR": "Lettre 2040. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2041",
+          "title": {
+            "fr-FR": "Lettre 2041. Jean Martin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2042",
+          "title": {
+            "fr-FR": "Lettre 2042. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2043",
+          "title": {
+            "fr-FR": "Lettre 2043. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2044",
+          "title": {
+            "fr-FR": "Lettre 2044. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2045",
+          "title": {
+            "fr-FR": "Lettre 2045. Alain de Solminihac, Évêque de Cahors, — À Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2046",
+          "title": {
+            "fr-FR": "Lettre 2046. À Marc Coglée"
+          }
+        },
+        {
+          "id": "lettre-2047",
+          "title": {
+            "fr-FR": "Lettre 2047. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2048",
+          "title": {
+            "fr-FR": "Lettre 2048. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2049",
+          "title": {
+            "fr-FR": "Lettre 2049. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2050",
+          "title": {
+            "fr-FR": "Lettre 2050. À Louis de Chandenier"
+          }
+        },
+        {
+          "id": "lettre-2051",
+          "title": {
+            "fr-FR": "Lettre 2051. À Louis Serre, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-2052",
+          "title": {
+            "fr-FR": "Lettre 2052. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2053",
+          "title": {
+            "fr-FR": "Lettre 2053. À Donat Cruoly"
+          }
+        },
+        {
+          "id": "lettre-2054",
+          "title": {
+            "fr-FR": "Lettre 2054. À Pierre de Beaunont, Supérieur, à Richelieu"
+          }
+        },
+        {
+          "id": "lettre-2055",
+          "title": {
+            "fr-FR": "Lettre 2055. À N*"
+          }
+        },
+        {
+          "id": "lettre-2056",
+          "title": {
+            "fr-FR": "Lettre 2056. À Monsieur de Blinvilliers"
+          }
+        },
+        {
+          "id": "lettre-2057",
+          "title": {
+            "fr-FR": "Lettre 2057. À Louis Dupont, Supérieur, à Tréguier"
+          }
+        },
+        {
+          "id": "lettre-2058",
+          "title": {
+            "fr-FR": "Lettre 2058. - à Monsieur Hanotel"
+          }
+        },
+        {
+          "id": "lettre-2059",
+          "title": {
+            "fr-FR": "Lettre 2059. À N*"
+          }
+        },
+        {
+          "id": "lettre-2060",
+          "title": {
+            "fr-FR": "Lettre 2060. À Marc Coglée, Supérieur, à Sedan"
+          }
+        },
+        {
+          "id": "lettre-2061",
+          "title": {
+            "fr-FR": "Lettre 2061. À un Prêtre de la Mission, à Agen"
+          }
+        },
+        {
+          "id": "lettre-2062",
+          "title": {
+            "fr-FR": "Lettre 2062. À un Prêtre de la Mission, à la Rose"
+          }
+        },
+        {
+          "id": "lettre-2063",
+          "title": {
+            "fr-FR": "Lettre 2063. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2064",
+          "title": {
+            "fr-FR": "Lettre 2064. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2065",
+          "title": {
+            "fr-FR": "Lettre 2065. À N *"
+          }
+        },
+        {
+          "id": "lettre-2066",
+          "title": {
+            "fr-FR": "Lettre 2066. À Louis Rivet, Supérieur, à Saintes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-07",
+      "title": {
+        "fr-FR": "Année 1656 (2e partie)"
+      },
+      "children": [
+        {
+          "id": "lettre-2067",
+          "title": {
+            "fr-FR": "Lettre 2067. À un Prêtre de la Mission, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-2068",
+          "title": {
+            "fr-FR": "Lettre 2068. À la Sœur Françoise Ménage"
+          }
+        },
+        {
+          "id": "lettre-2069",
+          "title": {
+            "fr-FR": "Lettre 2069. À Edme Jolly, Supérieur. à Rome"
+          }
+        },
+        {
+          "id": "lettre-2070",
+          "title": {
+            "fr-FR": "Lettre 2070. Nicolas Demonchy, Supérieur à Toul, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2071",
+          "title": {
+            "fr-FR": "Lettre 2071. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2072",
+          "title": {
+            "fr-FR": "Lettre 2072. À N *"
+          }
+        },
+        {
+          "id": "lettre-2073",
+          "title": {
+            "fr-FR": "Lettre 2073. A Etienne Blatiron, Supérieur, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2074",
+          "title": {
+            "fr-FR": "Lettre 2074. À un Prêtre de la Mission, au Mans"
+          }
+        },
+        {
+          "id": "lettre-2075",
+          "title": {
+            "fr-FR": "Lettre 2075. À Charles Ozenne"
+          }
+        },
+        {
+          "id": "lettre-2076",
+          "title": {
+            "fr-FR": "Lettre 2076. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2077",
+          "title": {
+            "fr-FR": "Lettre 2077. À N *"
+          }
+        },
+        {
+          "id": "lettre-2078",
+          "title": {
+            "fr-FR": "Lettre 2078. À Louis Rivet, Supérieur, à Saintes"
+          }
+        },
+        {
+          "id": "lettre-2079",
+          "title": {
+            "fr-FR": "Lettre 2079. À Madame de Fouquesolle"
+          }
+        },
+        {
+          "id": "lettre-2080",
+          "title": {
+            "fr-FR": "Lettre 2080. À Louis Serre, Supérieur, à Saint-Méen"
+          }
+        },
+        {
+          "id": "lettre-2081",
+          "title": {
+            "fr-FR": "Lettre 2081. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2082",
+          "title": {
+            "fr-FR": "Lettre 2082. À un Clerc de la Mission, à Gênes"
+          }
+        },
+        {
+          "id": "lettre-2083",
+          "title": {
+            "fr-FR": "Lettre 2083. À un Prêtre de la Mission"
+          }
+        },
+        {
+          "id": "lettre-2084",
+          "title": {
+            "fr-FR": "Lettre 2084. À Edme Jolly, Supérieur, à Rome"
+          }
+        },
+        {
+          "id": "lettre-2085",
+          "title": {
+            "fr-FR": "Lettre 2085. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2086",
+          "title": {
+            "fr-FR": "Lettre 2086. Jean Martin à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2087",
+          "title": {
+            "fr-FR": "Lettre 2087. Edme Jolly, Supérieur à Rome, à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2088",
+          "title": {
+            "fr-FR": "Lettre 2088. Louise de Marillac à Saint Vincent"
+          }
+        },
+        {
+          "id": "lettre-2089",
+          "title": {
+            "fr-FR": "Lettre 2089. À Jean Martin"
+          }
+        },
+        {
+          "id": "lettre-2090",
+          "title": {
+            "fr-FR": "Lettre 2090. À Edme Jolly, Supérieur, à Rome"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

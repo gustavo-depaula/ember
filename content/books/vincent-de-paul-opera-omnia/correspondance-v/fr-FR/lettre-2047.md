@@ -1,0 +1,5 @@
+# Lettre 2047. À un Prêtre de la Mission
+
+Je rends grâces infinies à Dieu des dispositions qu’il vous donne pour aller aux pays étrangers, si l’on vous y envoie, et pour n’y pas aller et demeurer ici, si l’on vous y retient. La sainte indifférence pour toutes choses est l’état des parfaits ; et la vôtre me donne espérance que Dieu sera glorifié en vous et par vous, comme je l’en prie de tout mon cœur, et vous, Monsieur, de lui demander pour nous la grâce de nous abandonner entièrement à son adorable conduite. Nous le devons servir à son gré et renoncer à notre choix, tant à l’égard des lieux que des emplois. C’est assez que nous soyons à Dieu, pour le vouloir être en la meilleure manière que le peuvent être ses meilleurs enfants, honorés du titre de serviteurs de l’Évangile, par qui Notre-Seigneur se veut faire connaître et servir ; que nous importe comment et en quel lieu, pourvu que ce soit ainsi ? Et assurément que cela sera, si nous le laissons faire. [^1]
+
+[^1]: Abelly, *op. cit. *1 III, chap V sect II, p 45

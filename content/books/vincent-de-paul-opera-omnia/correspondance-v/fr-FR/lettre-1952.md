@@ -1,0 +1,21 @@
+# Lettre 1952. À Edme Jolly,supérieur,a Rome
+
+29 octobre 1655.
+
+Nous avons proposé le bref de notre Saint-Père à la famille de céans, tant aux prêtres qu'aux clercs et frères coadjuteurs, auxquels je fis entendre comme il a plu à Dieu de donner à la compagnie, dès le commencement, le désir de se mettre dans l'état le plus parfait qu'elle pourrait, sans entrer en celui de religion ; qu'à cet effet nous avions fait des vœux pour nous unir plus étroitement à Notre-Seigneur et à son Église, et le supérieur de la compagnie à ses membres, et les membres au chef ;
+
+que ce fut dès la 2e ou 3e année [^1] ; que ces vœux de pauvreté, etc., étaient simples, et que nous les renouvelâmes deux ou trois ans de suite ; qu'enfin nous en avions fait une règle, qui avait été approuvée par Monseigneur l'archevêque de Paris [^2] et que nous les fîmes ensuite ensemblement ; mais qu'à peine eûmes-nous fait cela, que le murmure commença par quelques-uns de la compagnie, qui se répandit au dehors ; ce qui nous donna sujet d'assembler les principaux docteurs de Paris, et leur ayant proposé,si nous avions pu faire ce que nous avions fait, ils furent d'avis de l'affirmative. En suite de quoi nous fîmes une assemblée ici des principaux supérieurs et de quelques anciens de la compagnie [^3], et entre autres choses, nous y traitâmes du même sujet ; et ayant été de l'avis des docteurs, ils estimèrent que nous devions continuer, nonobstant les difficultés qui s'y rencontraient au dedans et au dehors. Mais, comme l'esprit malin, qui contredit toujours les œuvres de Dieu, ne se rend qu'à l'extrémité, les mêmes difficultés continuèrent et augmentèrent, ce qui nous obligea derechef de voir les mêmes docteurs et de savoir s'ils étaient dans les mêmes sentiments, en suite des difficultés qu'on faisait de nouveau ; et, persévérant dans leurs premières opinions, ils nous les donnèrent par écrit ; et trois Jésuites des plus considérables signèrent aussi le même avis ; ce qui n'eut pourtant pas la force d'arrêter les esprits. Nous fîmes une seconde assemblée des principaux supérieurs de la compagnie [^4], entre lesquels étaient ceux de Rome et de Gênes et les anciens de la même compagnie, lesquels fu- rent d'avis, comme la première fois, qu'il fallait continuer. Mais la contradiction ne cessant pas pour cela, nous nous sommes trouvés obligés de recourir à l'oracle de la volonté de Dieu, qui nous avait donné un bref par lequel il confirme nosdits vœux en la manière que nous les avons faits. Ayant dit ces choses à la communauté assemblée, nous lui avons ensuite fait faire lecture dudit bref en latin et en français, et je leur demandai à tous s'ils avaient agréable de le recevoir et de s'y soumettre ; lesquels déclarèrent tout haut qu'ils le voulaient bien et qu'ils en rendaient grâces à Dieu et à notre Saint-Père. Après quoi, ils en ont tous signé un acte qui contient à peu près ce que je viens de dire et la copie du bref. Et le tout a été reconnu par deux notaires [^5].
+
+Nous avons agité avec nos prêtres anciens qui ont été à Rome, par deux diverses fois, l'achat de Saint-Jean-Mercatelli, et plusieurs d'entre eux ont fait l'oraison sur ce sujet, savoir s'il est expédient d'entendre à traiter de cette maison ; enfin la résolution est allée à l'exclusion, à cause de la cure qui y est attachée, et qu'en la desservant ce serait un acte formellement contraire à notre règle, qui nous éloigne d'un tel emploi dans les villes ; et cela dans Rome, qui servirait de prétexte à l'avenir d'en faire de même partout et de se contenter de cet emploi seulement, laissant celui d'aller chercher les pauvres âmes pécheresses à la campagne, l'esprit italien, à ce qu'on dit, n'aimant pas tant la fatigue ; ce qui serait un grand dommage et un sujet de perversion de l'esprit que Notre-Seigneur a mis dans la compagnie. Demeurons-en donc là, Monsieur, s'il vous plaît, et honorons avec patience l’état du Fils de Dieu, qui ne voulut point avoir un lieu à lui pour y reposer sa tête, jusqu’à ce qu’il lui plaise nous tirer lui-même de cet état. [^6]
+
+[^1]: Le 9 septembre 1629, d'après le coutumier manuscrit de la paroisse de Fontainebleau. (Arch. du presbytère.)
+
+[^2]: Le 19 octobre 1641.
+
+[^3]: En octobre 1642.
+
+[^4]: En juillet-août 1651
+
+[^5]: Le 22 octobre.
+
+[^6]: Reg 2, pp. 16, 56.
