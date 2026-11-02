@@ -1,0 +1,195 @@
+{
+  "id": "bellarmine-dichiarazione-piu-copiosa",
+  "cover": "classic",
+  "name": {
+    "it": "Dichiarazione più copiosa della dottrina cristiana",
+    "en-US": "An Ample Declaration of the Christian Doctrine",
+    "pt-BR": "Declaração mais ampla da doutrina cristã"
+  },
+  "author": {
+    "it": "Roberto Bellarmino",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "it": "Dottrina cristiana in forma di dialogo tra maestro e discepolo: il Credo, il Padre nostro, l'Ave Maria, i comandamenti, i sacramenti, le virtù, i peccati e i novissimi (1598). Testo dell'edizione Vivès (1870-74), da scansione OCR.",
+    "en-US": "The longer catechism in dialogue form: the Creed, the Our Father, the Hail Mary, the commandments, the sacraments, the virtues, sins and the last things (1598). The Italian is the Vivès edition (1870-74) from an OCR scan; the English is Richard Hadock's translation of 1604 (EEBO-TCP), in the spelling of its time.",
+    "pt-BR": "O catecismo maior em forma de diálogo entre mestre e discípulo: Credo, Pai-nosso, Ave-Maria, mandamentos, sacramentos, virtudes, pecados e novíssimos (1598)."
+  },
+  "composed": "1598",
+  "languages": [
+    "it",
+    "en-US"
+  ],
+  "work": "bellarmine/dichiarazione-piu-copiosa",
+  "editions": {
+    "it": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    },
+    "en-US": {
+      "translator": "Richard Hadock",
+      "year": 1604
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://archive.org/details/operaomnia12bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 12 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. Italian.",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07972",
+      "edition": "An ample declaration of the Christian doctrine, trans. Richard Hadock (Douai?, 1604), EEBO-TCP A07972.",
+      "description": "Keyed transcription (CC0) in early-modern spelling; long s normalised, marginal notes dropped; the chapters follow the Italian, the English merging two of them where the Italian heading was not read.",
+      "tier": "A",
+      "tierEvidence": "Printed 1604; EEBO-TCP text released into the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "it": "Capo I. Che Cosa Sia Dottrina Cristiana; E Quali Siano Le Sue Parte Principali",
+        "en-US": "Chapter 1. What Christian doctrine is, and what are the principall parts thereof"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "it": "Capo III",
+        "en-US": "Chapter 3. The declaration of the Creede"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "it": "Capo IV",
+        "en-US": "Chapter 4. The declaration of our Lords prayer"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "it": "Capo V",
+        "en-US": "Chapter 5. The declaration of the Aue Maria"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "it": "Capo VI",
+        "en-US": "Chapter 6. The declaration of the ten Commandements"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "it": "Capo VII",
+        "en-US": "Chapter 7. The declaration of the precepts of the Church"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "it": "Capo VIII",
+        "en-US": "Chapter 8. The declaration of the Euangelicall Counsailes"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "it": "Capo IX",
+        "en-US": "Chapter 9. The declaration of the Sacraments of holie Church"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "it": "Capo X. Delle Virtu in Genere",
+        "en-US": "Chapter 10. Of vertues in general"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "it": "Capo XI. Delle Virtu Teologali",
+        "en-US": "Chapter 11. Of the Theologicall Vertues"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "it": "Capo XII. Jdelle Virtu Cardinali",
+        "en-US": "Capo XII. Jdelle Virtu Cardinali"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "it": "Capo XIII. De’ Sette Doni Dello Spirito Santo",
+        "en-US": "Chapter 13. Of the seauen gifts of the Holie Ghost"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "it": "Capo XIV. Delle Otto Beatitudini",
+        "en-US": "Chapter 14. Of the eight beatitudes"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "it": "Capo XV",
+        "en-US": "Chapter 15. Of the seuen Workes of mercie corporall, and seuen spirituall"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "it": "Capo XVII. Del Peccato Originale",
+        "en-US": "Chapter 17. , Of Originall sinne"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "it": "Capo XVIII. Del Peccato Mortale E Veniale",
+        "en-US": "Chapter 18. Of mortal and veniall sinne"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "it": "Capo XIX. De’ Sette Peccati Capitali",
+        "en-US": "Chapter 19. Of the seuen Capitall sinnes"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "it": "Capo XX. De7 Peccati Contro Lo Spir1t0 Santo",
+        "en-US": "Chapter 20. Of the sinnes against the Holie Ghost"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "it": "Capo XXI. De7 Peccati Che Gridano in Cielo",
+        "en-US": "Chapter 21. Of sinnes that crie vnto Heauen"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "it": "Capo XXII. De’ Quattro Novissimi",
+        "en-US": "Chapter 22. Of The foure last things"
+      }
+    }
+  ]
+}
