@@ -119,12 +119,22 @@ def segments(lines, marker, start, end, groups=(), title_before=False):
     run of upper-case lines just above the marker."""
     idx = [i for i in range(start, end) if re.search(marker, lines[i])]
     tstart = {}
+    stop = re.compile(r'SERMONES|EXPLICIT|INCIPIT|LILIORVM|ROSARVM|LIBRVM')
     for i in idx:
         j = i
         k = i - 1
-        while k > start and (not lines[k].strip() or (lines[k].strip().isupper() and not re.search(r'SERMONES|EXPLICIT|INCIPIT|LILIORVM|ROSARVM|LIBRVM', lines[k]) and len(lines[k].split()) < 12)) and i - k < 8:
-            if lines[k].strip():
+        blanks = 0
+        while k > start and i - k < 10:
+            s = lines[k].strip()
+            if not s:
+                blanks += 1
+                if blanks >= 2 and j != i:
+                    break
+            elif s.isupper() and not stop.search(s) and len(s.split()) < 12:
                 j = k
+                blanks = 0
+            else:
+                break
             k -= 1
         tstart[i] = j
     pre = lines[start:tstart[idx[0]]]
