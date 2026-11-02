@@ -1,0 +1,23 @@
+{
+ "id": "benson-come-rack-come-rope",
+ "dir": "benson-opera-omnia/come-rack-come-rope",
+ "slug": "come-rack-come-rope",
+ "name": "Come Rack! Come Rope!",
+ "name_pt": "Venha o Cavalete! Venha a Corda!",
+ "desc": "Benson's novel of 1912 about the Elizabethan persecution of Catholics in Derbyshire: the love of Robin Audrey and Marjorie Manners, the Babington plot, the priests Garlick and Ludlam captured at Padley, and the martyrs' deaths. The title is Campion's cry on the rack.",
+ "desc_pt": "O romance de Benson (1912) sobre a perseguição isabelina aos católicos em Derbyshire: o amor de Robin Audrey e Marjorie Manners, a conspiração de Babington, os padres Garlick e Ludlam presos em Padley e a morte dos mártires. O título é o grito de Campion no potro.",
+ "composed": 1912,
+ "editor": "Robert Hugh Benson (New York: P. J. Kenedy & Sons, 1912)",
+ "year": 1912,
+ "url": "https://www.gutenberg.org/ebooks/15992",
+ "edition": "Come Rack! Come Rope! (New York: P. J. Kenedy & Sons, 1912), Project Gutenberg #15992, proofread.",
+ "src": "robert-hugh-benson/pg/pg15992.txt",
+ "chap_re": "^(?:CHAPTER (?P<n>[IVXL]+)|EPILOGUE)\\.?$",
+ "sec_re": "^[IVXL]+\\.?$",
+ "end": "^\\*\\*\\* END OF",
+ "srcnote": "Parts and chapters as printed; the numbered sections inside chapters are kept as ## headings.",
+ "start": "^PREFACE$",
+ "lead_title": "Preface",
+ "lead_id": "preface",
+ "part_re": "^PART [IVX]+$"
+}

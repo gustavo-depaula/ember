@@ -16,6 +16,9 @@ def tcase(t):
     if t != t.upper(): return t
     ws = t.lower().split(' ')
     return ' '.join(w if (i and w in SM) else re.sub(r"^(\W*)(\w)", lambda m: m.group(1) + m.group(2).upper(), w) for i, w in enumerate(ws))
+def romfix(t):
+    t = re.sub(r'\b([IVXLivxl]{1,7})\b', lambda m: m.group(1).upper() if re.fullmatch(r'[IVXL]+', m.group(1).upper()) and m.group(1) in ('Ii','Iii','Iv','Vi','Vii','Viii','Ix','Xi','Xii','Xiii','Xiv','Xv','Xvi','Xvii','Xviii','Xix','Xx') else m.group(1), t)
+    return re.sub(r'\s*--\s*', ': ', t)
 def blocks_of(lines):
     out, cur = [], []
     for ln in lines:
@@ -77,6 +80,11 @@ def paras(lines, cfg, counts=None):
 AUTH = {'benson': dict(author='Mgr. Robert Hugh Benson', author_pt='Mons. Robert Hugh Benson', died=1914),
         'more': dict(author='St. Thomas More', author_pt='São Tomás More', died=1535),
         'fisher': dict(author='St. John Fisher', author_pt='São João Fisher', died=1535)}
+def resolve(cfg, lines):
+    if isinstance(cfg['start'], str):
+        cfg['start'] = next(i for i, l in enumerate(lines) if re.search(cfg['start'], l.strip()) and i > cfg.get('after', 30)) + 2
+    if isinstance(cfg['end'], str):
+        cfg['end'] = next(i for i, l in enumerate(lines) if i > cfg['start'] and re.search(cfg['end'], l.strip())) + 1
 def load(cfg):
     for k, v in AUTH.items():
         if cfg['dir'].startswith(k + '-'):
@@ -96,7 +104,7 @@ def marks(body, cfg):
         elif cr.match(s): out.append((i, 'chap', cr.match(s)))
     return out
 def plan(cfg):
-    lines = load(cfg); body = lines[cfg['start'] - 1:cfg['end'] - 1]
+    lines = load(cfg); resolve(cfg, lines); body = lines[cfg['start'] - 1:cfg['end'] - 1]
     for i, k, m in marks(body, cfg): print(cfg['start'] + i, k, repr(m.group(0)[:70]))
 def roman(n):
     out = ''
@@ -104,7 +112,7 @@ def roman(n):
         while n >= v: out += r; n -= v
     return out
 def build(cfg):
-    lines = load(cfg); body = lines[cfg['start'] - 1:cfg['end'] - 1]
+    lines = load(cfg); resolve(cfg, lines); body = lines[cfg['start'] - 1:cfg['end'] - 1]
     counts = runcounts(body, cfg['mode']) if cfg['mode'] == 'ia' else None
     mk = marks(body, cfg)
     root = os.path.join(ROOT, 'content/books', cfg['dir'])
@@ -148,7 +156,7 @@ def build(cfg):
         if kind == 'part':
             npart += 1
             ptitle = (m.group(0).strip().rstrip('.') if not inl and not n else None)
-            ptitle = tcase(re.sub(r'\s+', ' ', m.group(0).strip().rstrip('.')))
+            ptitle = romfix(tcase(re.sub(r'\s+', ' ', m.group(0).strip().rstrip('.'))))
             if title and title not in ptitle: ptitle += ': ' + title
             part = {'id': 'part-%d' % npart, 'title': {lang: ptitle}, 'children': []}; toc.append(part)
             ps = paras(seg, cfg, counts)
@@ -160,6 +168,8 @@ def build(cfg):
         ov = cfg.get('titles', {}).get(str(nchap))
         if ov: title = ov
         pre = (label + ' ' if label else '') + n
+        if not n and m.group(0).strip().upper() != 'CHAPTER' and not m.groupdict().get('n') and not label == '':
+            pre = tcase(m.group(0).strip()); cid = re.sub(r'\W+', '-', pre.lower()).strip('-')
         htitle = pre + '. ' + title if (title and n) else (title or pre or ('%d' % nchap))
         if secre:
             ps = []; cur = []
