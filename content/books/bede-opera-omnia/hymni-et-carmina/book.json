@@ -1,0 +1,150 @@
+{
+  "id": "bede-hymni-et-carmina",
+  "cover": "classic",
+  "name": {
+    "la": "Hymni et carmina",
+    "en-US": "Hymns and Poems",
+    "pt-BR": "Hinos e Poemas"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Hymni XIII, De die iudicii et Epigramma de beato Ioanne, quae Bedae adscribuntur (PL 94).",
+    "en-US": "The hymns and poems printed under Bede's name in Migne: the thirteen hymns (on the reckoning of time, the Innocents, the Ascension, St. Agnes, St. John the Baptist, Peter and Paul, the Mother of God, St. Andrew), the poem On the Day of Judgment, and the epigram on St. John and the Apocalypse. The attribution of the hymns, which mix authentic and doubtful pieces, is uncertain. Latin text of Migne; no public-domain English translation of the whole is available (19th-century hymnal versions of single hymns exist).",
+    "pt-BR": "Os hinos e poemas impressos sob o nome de Beda em Migne: os treze hinos (sobre o cômputo do tempo, os Inocentes, a Ascensão, Santa Inês, São João Batista, Pedro e Paulo, a Mãe de Deus, Santo André), o poema Sobre o Dia do Juízo e o epigrama sobre São João e o Apocalipse. A atribuição dos hinos, que misturam peças autênticas e duvidosas, é incerta."
+  },
+  "composed": "c. 700-735",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/hymni-et-carmina",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 94 (1862), after Giles",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "Hymni XIII (Beda), De die judicii (Beda) and Epigramma de B. Joanne et ejus Apocalypsi on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina 94.",
+      "description": "Wikitext removed; inline PL column numbers dropped; verse lines kept with line breaks; one file per hymn or poem.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century texts (attribution doubtful for some hymns) in Migne's reprint: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "h01",
+      "title": {
+        "la": "Hymnus I",
+        "en-US": "Hymn I"
+      }
+    },
+    {
+      "id": "h02",
+      "title": {
+        "la": "Hymnus II",
+        "en-US": "Hymn II"
+      }
+    },
+    {
+      "id": "h03",
+      "title": {
+        "la": "Hymnus III",
+        "en-US": "Hymn III"
+      }
+    },
+    {
+      "id": "h04",
+      "title": {
+        "la": "Hymnus IV",
+        "en-US": "Hymn IV"
+      }
+    },
+    {
+      "id": "h05",
+      "title": {
+        "la": "Hymnus V",
+        "en-US": "Hymn V"
+      }
+    },
+    {
+      "id": "h06",
+      "title": {
+        "la": "Hymnus VI",
+        "en-US": "Hymn VI"
+      }
+    },
+    {
+      "id": "h07",
+      "title": {
+        "la": "Hymnus VII",
+        "en-US": "Hymn VII"
+      }
+    },
+    {
+      "id": "h08",
+      "title": {
+        "la": "Hymnus VIII",
+        "en-US": "Hymn VIII"
+      }
+    },
+    {
+      "id": "h09",
+      "title": {
+        "la": "Hymnus IX",
+        "en-US": "Hymn IX"
+      }
+    },
+    {
+      "id": "h10",
+      "title": {
+        "la": "Hymnus X",
+        "en-US": "Hymn X"
+      }
+    },
+    {
+      "id": "h11",
+      "title": {
+        "la": "Hymnus XI",
+        "en-US": "Hymn XI"
+      }
+    },
+    {
+      "id": "h12",
+      "title": {
+        "la": "Hymnus XII",
+        "en-US": "Hymn XII"
+      }
+    },
+    {
+      "id": "h13",
+      "title": {
+        "la": "Hymnus XIII",
+        "en-US": "Hymn XIII"
+      }
+    },
+    {
+      "id": "de-die-iudicii",
+      "title": {
+        "la": "De die iudicii",
+        "en-US": "On the Day of Judgment"
+      }
+    },
+    {
+      "id": "epigramma-ioannes",
+      "title": {
+        "la": "Epigramma de beato Ioanne et eius Apocalypsi",
+        "en-US": "Epigram on St. John and his Apocalypse"
+      }
+    }
+  ]
+}
