@@ -1,0 +1,19 @@
+# Dialogue 71. Les Cardinaux Ximénès et de Richelieu
+
+*Ximénès*. — Maintenant que nous sommes ensemble, je vous conjure de me dire s’il est vrai que vous avez songé à m’imiter.
+
+*Richelieu*. — Point. J’étais trop jaloux de la bonne gloire, pour vouloir être la copie d’un autre. J’ai toujours montré un caractère hardi et original.
+
+*Ximénès*. — J’avais ouï dire que vous aviez pris La Rochelle, comme moi Oran ; abattu les huguenots, comme je renversai les Maures de Grenade pour les convertir ; protégé les lettres, abaissé l’orgueil des grands, relevé l’autorité royale, établi la Sorbonne comme mon université d’Alcala de Hénarès, et même profité de la faveur de la reine Marie de Médicis, comme je fus élevé par celle d’Isabelle de Castille.
+
+*Richelieu*. — Il est vrai qu’il y a entre nous certaines ressemblances que le hasard a faites : mais je n’ai envisagé aucun modèle ; je me suis contenté de faire les choses que le temps et les affaires m’ont offertes pour la gloire de la France. D’ailleurs nos conditions étaient bien différentes. J’étais né à la cour ; j’y avais été nourri : dès ma plus grande jeunesse, j’étais évêque de Luçon et secrétaire d’État, attaché à la reine et au maréchal d’Ancre. Tout cela n’a rien de commun avec un moine obscur et sans appui, qui n’entre dans le monde et dans les affaires qu’à soixante ans.
+
+*Ximénès*. — Rien ne me fait plus d’honneur que d’y être entré si tard. Je n’ai jamais eu de vues d’ambition, ni d’empressement ; je comptais d’achever dans le cloître ma vie déjà bien avancée. Le cardinal de Mendoza, archevêque de Tolède, me fit confesseur de la reine ; la reine, prévenue pour moi, me fit successeur de ce cardinal pour l’archevêché de Tolède, contre le désir du roi, qui voulait y mettre son bâtard ; ensuite je devins le principal conseil de la reine dans ses peines à l’égard du roi. J’entrepris la conversion de Grenade, après que Ferdinand en eut fait la conquête. La reine mourut. Je me trouvai entre Ferdinand et son gendre Philippe d’Autriche. Je rendis de grands services à Ferdinand après la mort de Philippe. Je procurai l’autorité au beau-père. J’administrai les affaires, malgré les grands, avec vigueur. Je fis ma conquête d’Oran, où j’étais en personne, conduisant tout, et n’ayant point là de roi qui eût part à cette action, comme vous à La Rochelle et au Pas de Suse. Après la mort de Ferdinand, je fus régent dans l’absence du jeune prince Charles. C’est moi qui empêchai les communautés d’Espagne de commencer la révolte, qui arriva après ma mort : je fis changer le gouvernement et les officiers du second infant Ferdinand, qui voulaient le faire roi, au préjudice de son frère aîné. Enfin je mourus tranquille, ayant perdu toute autorité par l’artifice des Flamands, qui avaient prévenu le roi Charles contre moi. En tout cela je n’ai jamais fait aucun pas vers la fortune ; les affaires me sont venues trouver, et je n’y ai regardé que le bien public. Cela est plus honorable que d’être né à la cour, fils d’un grand prévôt, chevalier de l’Ordre.
+
+*Richelieu*. — La naissance ne diminue jamais le mérite des grandes actions.
+
+*Ximénès*. — Non ; mais puisque vous me poussez, je vous dirai que le désintéressement et la modération valent mieux qu’un peu de naissance.
+
+*Richelieu*. — Prétendez-vous comparer votre gouvernement au mien ? Avez-vous changé le système du gouvernement de toute l’Europe ? J’ai abattu cette maison d’Autriche que vous avez servie, mis dans le cœur de l’Allemagne un roi de Suède victorieux, révolté la Catalogne, relevé le royaume du Portugal usurpé par les Espagnols, rempli la chrétienté de mes négociations.
+
+*Ximénès*. — J’avoue que je ne dois point comparer mes négociations aux vôtres ; mais j’ai soutenu toutes les affaires les plus difficiles de Castille avec fermeté, sans intérêt, sans ambition, sans vanité, sans faiblesse. Dites-en autant si vous le pouvez.

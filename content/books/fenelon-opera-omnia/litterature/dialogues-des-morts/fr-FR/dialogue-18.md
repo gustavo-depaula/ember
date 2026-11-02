@@ -1,0 +1,87 @@
+# Dialogue 18. Socrate, Alcibiade et Timon
+
+*Alcibiade*. — Je suis surpris, mon cher Socrate, de voir que vous ayez tant de goût pour ce misanthrope, qui fait peur aux petits enfants.
+
+*Socrate*. — Il faut être bien plus surpris de ce qu’il s’apprivoise avec moi.
+
+*Timon*. — On m’accuse de haïr les hommes, et je ne m’en défends pas ; on n’a qu’à voir comment ils sont faits pour juger si j’ai tort. Haïr le genre humain, c’est haïr une méchante bête, une multitude de sots, de fripons, de flatteurs, de traîtres et d’ingrats.
+
+*Alcibiade*. — Voilà un beau dictionnaire d’injures. Mais vaut-il mieux être farouche, dédaigneux, incompatible et toujours mordant ? Pour moi, je trouve que les sots me réjouissent et que les gens d’esprit me contentent. J’ai envie de leur plaire à mon tour, et je m’accommode de tout pour me rendre agréable dans la société.
+
+*Timon*. — Et moi je ne m’accommode de rien ; tout me déplaît : tout est faux, de travers, insupportable ; tout m’irrite et me fait bondir le cœur. Vous êtes un protée qui prenez indifféremment toutes les formes les plus contraires, parce que vous ne tenez à aucune. Ces métamorphoses, qui ne vous coûtent rien, montrent un cœur sans principes, ni de justice, ni de vérité. La vertu, selon vous, n’est qu’un beau nom : il n’y en a aucune de fixe. Ce que vous approuvez à Athènes, vous le condamnez à Lacédémone. Dans la Grèce, vous êtes Grec ; en Asie, vous êtes Perse : ni dieux, ni lois, ni patrie ne vous retiennent. Vous ne suivez qu’une seule règle, qui est la passion de plaire, d’éblouir, de dominer, de vivre dans les délices et de brouiller tous les États. Ô ciel ! faut-il qu’on souffre sur la terre un tel homme et que les autres hommes n’aient point de honte de l’admirer ! Alcibiade est aimé des hommes, lui qui se joue d’eux et qui les précipite par ses crimes dans tant de malheurs ! Pour moi, je hais Alcibiade et tous les sots qui l’aiment ; et je serais bien fâché d’être aimé par eux, puisqu’ils ne savent aimer que le mal.
+
+*Alcibiade*. — Voilà une déclaration bien obligeante ! je ne vous en sais néanmoins aucun mauvais gré. Vous me mettez à la tête de tout le genre humain et me faites beaucoup d’honneur. Mon parti est plus fort que le vôtre ; mais vous avez bon courage et ne craignez pas d’être seul contre tous.
+
+*Timon*. — J’aurais horreur de n’être pas seul, quand je vois la bassesse, la lâcheté, la légèreté, la corruption et la noirceur de tous les hommes qui couvrent la terre.
+
+*Alcibiade*. — N’en exceptez-vous aucun ?
+
+*Timon*. — Non, non, en vérité ; non, aucun, et vous moins qu’aucun autre.
+
+*Alcibiade*. — Quoi ! pas vous-même ? vous haïssez-vous aussi ?
+
+*Timon*. — Oui, je me hais souvent, quand je me surprends dans quelque faiblesse.
+
+*Alcibiade*. — Vous faites très bien, et vous n’avez de tort qu’en ce que vous ne le faites pas toujours. Qu’y a-t-il de plus haïssable qu’un homme qui a oublié qu’il est homme, qui hait sa propre nature, qui ne voit rien qu’avec horreur et avec une mélancolie farouche, qui tourne tout en poison et qui renonce à toute société, quoique les hommes ne soient nés que pour être sociables ?
+
+*Timon*. — Donnez-moi des hommes simples, droits, mais en tout bons et pleins de justice ; je les aimerai, je ne les quitterai jamais, je les encenserai comme des dieux qui habitent sur la terre. Mais tant que vous me donnerez des hommes qui ne sont pas hommes, mais des renards en finesse et des tigres en cruauté ; qui auront le visage, le corps et la voix humaine, avec un cœur de monstre comme les Sirènes, l’humanité même me les fera détester et fuir.
+
+*Alcibiade*. — Il faut donc vous faire des hommes exprès. Ne vaut-il pas mieux s’accommoder aux hommes tels qu’on les trouve, que de vouloir les haïr jusqu’à ce qu’ils s’accommodent à nous ? Avec ce chagrin si critique, on passe tristement sa vie, méprisé, moqué, abandonné, et on ne goûte aucun plaisir. Pour moi, je donne tout aux coutumes et aux imaginations de chaque peuple ; partout je me réjouis et je fais des hommes tout ce que je veux. La philosophie qui n’aboutit qu’à faire d’un philosophe un hibou est d’un bien mauvais usage. Il faut dans ce monde une philosophie qui aille plus terre à terre. On prend les honnêtes gens par les motifs de la vertu, les voluptueux par leurs plaisirs et les fripons par leur intérêt. C’est la seule bonne manière de savoir vivre ; tout le reste est vision et bile noire qu’il faudrait purger avec un peu d’ellébore.
+
+*Timon*. — Parler ainsi, c’est anéantir la vertu et tourner en ridicule les bonnes mœurs. On ne souffrirait pas un homme si contagieux dans une république bien policée ; mais, hélas ! où est-elle ici-bas, cette république ? Ô mon pauvre Socrate ! la vôtre, quand la verrons-nous ? Demain, oui, demain, je m’y retirerais si elle était commencée ; mais je voudrais que nous allassions, loin de toutes les terres connues, fonder cette heureuse colonie de philosophes purs dans l’île Atlantique.
+
+*Alcibiade*. — Hé ! vous ne songez pas que vous vous y porteriez. Il faudrait auparavant vous réconcilier avec vous-même, avec qui vous dites que vous êtes si souvent brouillé.
+
+*Timon*. — Vous avez beau vous en moquer, rien n’est plus sérieux. Oui, je le soutiens, que je me hais souvent, et que j’ai raison de me haïr. Quand je me trouve amolli par les plaisirs, jusqu’à supporter les vices des hommes, et prêt à leur complaire ; quand je sens réveiller en moi l’intérêt, la volupté, la sensibilité pour une vaine réputation parmi les sots et les méchants, je me trouve presque semblable à eux, je me fais mon procès, je m’abhorre, et je ne puis me supporter.
+
+*Alcibiade*. — Qui est-ce qui fait ensuite votre accommodement ? Le faites-vous tête à tête avec vous-même sans arbitre ?
+
+*Timon*. — C’est qu’après m’être condamné, je me redresse et je me corrige.
+
+*Alcibiade*. — Il y a donc bien des gens chez vous ! Un homme corrompu et entraîné par les mauvais exemples ; un second qui gronde le premier ; un troisième qui les raccommode, en corrigeant celui qui s’est gâté.
+
+*Timon*. — Faites le plaisant tant qu’il vous plaira ; chez vous la compagnie n’est pas si nombreuse ; car il n’y a dans votre cœur qu’un seul homme toujours souple et dépravé, qui se travestit en cent façons pour faire toujours également le mal.
+
+*Alcibiade*. — Il n’y a donc que vous sur la terre qui soyez bon ; encore ne l’êtes-vous que dans certains intervalles.
+
+*Timon*. — Non, je ne connais rien de bon ni digne d’être aimé.
+
+*Alcibiade*. — Si vous ne connaissez rien de bon, rien qui ne vous choque et dans les autres et au dedans de vous ; si la vie entière vous déplaît, vous devriez vous en délivrer et prendre congé d’une si mauvaise compagnie. Pourquoi continuer à vivre pour être chagrin de tout, et pour blâmer tout depuis le matin jusqu’au soir ? Ne savez-vous pas qu’on ne manque à Athènes ni de cordons coulants ni de précipices ?
+
+*Timon*. — Je serais tenté de faire ce que vous dites, si je ne craignais de faire plaisir à tant d’hommes qui sont indignes qu’on leur en fasse.
+
+*Alcibiade*. — Mais n’auriez-vous aucun regret de quitter personne ? Quoi ! personne sans exception ? Songez-y bien avant que de répondre.
+
+*Timon*. — J’aurais un peu de regret de quitter Socrate ; mais…
+
+*Alcibiade*. — Hé ! ne savez-vous pas qu’il est homme ?
+
+*Timon*. — Non, je n’en suis pas bien assuré : j’en doute quelquefois ; car il ne ressemble guère aux autres. Il me paraît sans intérêt, sans ambition, sans artifice. Je le trouve juste, sincère, égal. S’il y avait au monde dix hommes comme lui, en vérité, je crois qu’ils me réconcilieraient avec l’humanité.
+
+*Alcibiade*. — Eh bien ! croyez-le donc. Demandez-lui si la raison permet d’être misanthrope au point où vous l’êtes.
+
+*Timon*. — Je le veux ; quoiqu’il ait toujours été un peu trop facile et trop sociable, je ne crains pas de m’engager à suivre son conseil. Ô mon cher Socrate ! quand je vois les hommes, et que je jette ensuite les yeux sur vous, je suis tenté de croire que vous êtes Minerve, qui est venue sous une figure d’homme instruire sa ville. Parlez-moi selon votre cœur : me conseilleriez-vous de rentrer dans la société empestée des hommes, aveugles, méchants et trompeurs ?
+
+*Socrate*. — Non, je ne vous conseillerai jamais de vous rengager, ni dans les assemblées du peuple, ni dans les festins pleins de licence, ni dans aucune société avec un grand nombre de citoyens ; car le grand nombre est toujours corrompu. Une retraite honnête et tranquille, à l’abri des passions des hommes et des siennes propres, est le seul état qui convienne à un vrai philosophe. Mais il faut aimer les hommes et leur faire du bien malgré leurs défauts. Il ne faut rien attendre d’eux que de l’ingratitude, et les servir sans intérêt. Vivre au milieu d’eux pour les tromper, pour les éblouir, et pour en tirer de quoi contenter ses passions, c’est être le plus méchant des hommes et se préparer des malheurs qu’on mérite : mais se tenir à l’écart, et néanmoins à portée d’instruire et de servir certains hommes, c’est être une divinité bienfaisante sur la terre. L’ambition d’Alcibiade est pernicieuse ; mais votre misanthropie est une vertu faible, qui est mêlée d’un chagrin de tempérament. Vous êtes plus sauvage que détaché ; votre vertu âpre et impatiente ne sait pas assez supporter le vice d’autrui ; c’est un amour de soi-même, qui fait qu’on s’impatiente quand on ne peut réduire les autres au point qu’on voudrait. La philanthropie est une vertu douce, patiente et désintéressée, qui supporte le mal sans l’approuver. Elle attend les hommes ; elle ne donne rien à son goût ni à sa commodité. Elle se sert de la connaissance de sa propre faiblesse pour supporter celle d’autrui. Elle n’est jamais dupe des hommes les plus trompeurs et les plus ingrats, car elle n’espère ni ne veut rien d’eux pour son propre intérêt ; elle ne leur demande rien que pour leur bien véritable. Elle ne se lasse jamais dans cette bonté désintéressée ; et elle imite les dieux, qui ont donné aux hommes la vie sans avoir besoin de leur encens ni de leurs victimes.
+
+*Timon*. — Mais je ne hais point les hommes par inhumanité : je ne les hais que malgré moi, parce qu’ils sont haïssables. C’est leur dépravation que je hais, et leurs personnes, parce qu’elles sont dépravées.
+
+*Socrate*. — Eh bien ! je le suppose. Mais si vous ne haïssez dans l’homme que le mal, pourquoi n’aimez-vous pas l’homme pour le délivrer de ce mal, et pour le rendre bon ? Le médecin hait la fièvre et toutes les autres maladies qui tourmentent les corps des hommes ; mais il ne hait point les malades. Les vices sont les maladies des âmes : soyez un sage et charitable médecin, qui songe à guérir son malade par amitié pour lui, loin de le haïr. Le monde est un grand hôpital de tout le genre humain, qui doit exciter votre compassion : l’avarice, l’ambition, l’envie et la colère sont des plaies plus grandes et plus dangereuses dans les âmes, que des abcès et des ulcères ne le sont dans les corps. Guérissez tous les malades que vous pourrez guérir, et plaignez tous ceux qui se trouveront incurables.
+
+*Timon*. — Oh ! voilà, mon cher Socrate, un sophisme facile à démêler. Il y a une extrême différence entre les vices de l’âme et les maladies du corps. Les maladies sont des maux qu’on souffre, et qu’on ne fait pas ; on n’en est point coupable, on est à plaindre. Mais, pour les vices, ils sont volontaires, ils rendent la volonté coupable. Ce ne sont pas des maux qu’on souffre ; ce sont des maux qu’on fait. Ces maux méritent de l’indignation et du châtiment, et non pas de la pitié.
+
+*Socrate*. — Il est vrai qu’il y a deux sortes de maladies des hommes ; les unes involontaires et innocentes ; les autres volontaires, et qui rendent le malade coupable. Puisque la mauvaise volonté est le plus grand des maux, le vice est le plus déplorable de toutes les maladies. L’homme méchant qui fait souffrir les autres souffre lui-même par sa malice, et il se prépare les supplices que les justes dieux lui doivent : il est donc encore plus à plaindre qu’un malade innocent. L’innocence est une santé précieuse de l’âme : c’est une ressource et une consolation dans les plus affreuses douleurs. Quoi ! cesserez-vous de plaindre un homme parce qu’il est dans la plus funeste maladie, qui est la mauvaise volonté ? Si sa maladie n’était qu’au pied ou à la main, vous le plaindriez ; et vous ne le plaignez pas lorsqu’elle a gangrené le fond de son cœur !
+
+*Timon*. — Eh bien ! je conviens qu’il faut plaindre les méchants, mais non pas les aimer.
+
+*Socrate*. — Il ne faut pas les aimer pour leur malice, mais il faut les aimer pour les en guérir. Vous aimez donc les hommes sans croire les aimer ; car la compassion est un amour qui s’afflige du mal de la personne qu’on aime. Savez-vous bien ce qui vous empêche d’aimer les méchants ? Ce n’est pas votre vertu, mais c’est l’imperfection de la vertu qui est en vous. La vertu imparfaite succombe dans le support des imperfections d’autrui. On s’aime encore trop soi-même pour pouvoir toujours supporter ce qui est contraire à son goût et à ses maximes. L’amour-propre ne veut non plus être contredit pour la vertu que pour le vice. On s’irrite contre les ingrats, parce qu’on veut de la reconnaissance par amour-propre. La vertu parfaite détache l’homme de lui-même, et fait qu’il ne se lasse point de supporter la faiblesse des autres. Plus on est loin du vice, plus on est patient et tranquille pour s’appliquer à le guérir. La vertu imparfaite est ombrageuse, critique, âpre, sévère et implacable. La vertu qui ne cherche plus que le bien est toujours égale, douce, affable, compatissante ; elle n’est surprise ni choquée de rien ; elle prend tout sur elle, et ne songe qu’à faire du bien.
+
+*Timon*. — Tout cela est bien aisé à dire, mais difficile à faire.
+
+*Socrate*. — Ô mon cher Timon ! les hommes grossiers et aveugles croient que vous êtes misanthrope parce que vous poussez trop loin la vertu : et moi je vous soutiens que, si vous étiez plus vertueux, vous feriez tout ceci comme je le dis ; vous ne vous laisseriez entraîner ni par votre humeur sauvage, ni par votre tristesse de tempérament, ni par vos dégoûts, ni par l’impatience que vous causent les défauts des hommes. C’est à force de vous aimer trop, que vous ne pouvez plus aimer les autres hommes imparfaits. Si vous étiez parfait, vous pardonneriez sans peine aux hommes d’être imparfaits, comme les dieux le font. Pourquoi ne pas souffrir doucement ce que les dieux, meilleurs que vous, souffrent ? Cette délicatesse, qui vous rend si facile à être blessé, est une véritable imperfection. La raison qui se borne à s’accommoder des choses raisonnables, et à ne s’échauffer que contre ce qui est faux, n’est qu’une demi-raison. La raison parfaite va plus loin ; elle supporte en paix la déraison d’autrui. Voilà le principe de vertu compatissante pour autrui et détachée de soi-même, qui est le vrai lien de la société.
+
+*Alcibiade*. — En vérité. Timon, vous voilà bien confondu avec votre vertu farouche et critique. C’est s’aimer trop soi-même que de vouloir vivre tout seul uniquement pour soi, et de ne pouvoir souffrir rien de tout ce qui choque notre propre sens. Quand on ne s’aime point tant, on se donne libéralement aux autres.
+
+*Socrate*. — Arrêtez, s’il vous plaît, Alcibiade ; vous abuseriez aisément de ce que j’ai dit. Il y a deux manières de se donner aux hommes. La première est de se faire aimer, non pour être l’idole des hommes, mais pour employer leur confiance à les rendre bons. Cette philanthropie est toute divine. Il y en a une autre qui est une fausse monnaie. Quand on se donne aux hommes pour leur plaire, pour les éblouir, pour usurper de l’autorité sur eux en les flattant, ce n’est pas eux qu’on aime, c’est soi-même. On n’agit que par vanité et par intérêt ; on fait semblant de se donner, pour posséder ceux à qui on fait accroire qu’on se donne à eux. Ce faux philanthrope est comme un pêcheur qui jette un hameçon avec un appât : il paraît nourrir les poissons, mais il les prend et les fait mourir. Tous les tyrans, tous les magistrats, tous les politiques qui ont de l’ambition, paraissent bienfaisants et généreux ; ils paraissent se donner, et ils veulent prendre les peuples ; ils jettent l’hameçon dans les festins, dans les compagnies, dans les assemblées politiques. Ils ne sont pas sociables pour l’intérêt des hommes, mais pour abuser de tout le genre humain. Ils ont un esprit flatteur, insinuant, artificieux, pour corrompre les mœurs des hommes comme les courtisanes, et pour réduire en servitude tous ceux dont ils ont besoin. La corruption de ce qu’il y a de meilleur est le plus pernicieux de tous les maux. De tels hommes sont les pestes du genre humain. Au moins l’amour-propre d’un misanthrope n’est que sauvage et inutile au monde ; mais celui de ces faux philanthropes est traître et tyrannique. Ils promettent toutes les vertus de la société, et ils ne font de la société qu’un trafic, dans lequel ils veulent tout attirer à eux et asservir tous les citoyens. Le misanthrope fait plus de peur et moins de mal. Un serpent qui se glisse entre des fleurs est plus à craindre qu’un animal sauvage qui s’enfuit vers sa tanière dès qu’il vous aperçoit.
+
+*Alcibiade*. — Timon, retirons-nous, en voilà bien assez : nous avons chacun une bonne leçon ; en profitera qui pourra. Mais je crois que nous n’en profiterons guère : vous seriez encore furieux contre toute la nature humaine ; et moi je vais faire le protée entre les Grecs et le roi de Perse.

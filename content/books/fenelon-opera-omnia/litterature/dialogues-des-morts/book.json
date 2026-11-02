@@ -1,0 +1,516 @@
+{
+  "id": "fenelon-dialogues-des-morts",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Dialogues des morts",
+    "en-US": "Dialogues of the Dead",
+    "pt-BR": "Diálogos dos mortos"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Soixante-dix-neuf courts dialogues entre morts illustres (anciens et modernes), composés pour l’éducation du duc de Bourgogne : l’ambition, la gloire, la flatterie, la vertu vraie et fausse, jugées devant la mort. Édition de Faguet (Nelson, 1917).",
+    "en-US": "Seventy-nine short dialogues between famous dead (ancient and modern), composed for the education of the Duke of Burgundy: ambition, glory, flattery, true and false virtue, judged in the face of death. Faguet’s edition (Nelson, 1917).",
+    "pt-BR": "Setenta e nove diálogos breves entre mortos ilustres (antigos e modernos), compostos para a educação do duque de Borgonha: a ambição, a glória, a adulação, a virtude verdadeira e a falsa, julgadas diante da morte. Edição de Faguet (Nelson, 1917)."
+  },
+  "composed": "1690–1696",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/dialogues-des-morts",
+  "editions": {
+    "fr-FR": {
+      "editor": "Émile Faguet, Paris: Nelson",
+      "year": 1917
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://fr.wikisource.org/wiki/Dialogues_des_morts",
+      "edition": "Dialogues des morts, texte établi par Émile Faguet, in De l’éducation des filles. Dialogues des morts, Paris, Nelson, 1917 (Wikisource)",
+      "description": "Proofread transcription on fr.wikisource. The edition is the editor’s selection and order; Faguet’s notes, if any, are not kept.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dialogue-01",
+      "title": {
+        "fr-FR": "Dialogue 1. Mercure et Charon"
+      }
+    },
+    {
+      "id": "dialogue-02",
+      "title": {
+        "fr-FR": "Dialogue 2. Hercule et Thésée"
+      }
+    },
+    {
+      "id": "dialogue-03",
+      "title": {
+        "fr-FR": "Dialogue 3. Le Centaure Chiron et Achille"
+      }
+    },
+    {
+      "id": "dialogue-04",
+      "title": {
+        "fr-FR": "Dialogue 4. Achille et Homère"
+      }
+    },
+    {
+      "id": "dialogue-05",
+      "title": {
+        "fr-FR": "Dialogue 5. Ulysse et Achille"
+      }
+    },
+    {
+      "id": "dialogue-06",
+      "title": {
+        "fr-FR": "Dialogue 6. Ulysse et Grillus"
+      }
+    },
+    {
+      "id": "dialogue-07",
+      "title": {
+        "fr-FR": "Dialogue 7. Confucius et Socrate"
+      }
+    },
+    {
+      "id": "dialogue-08",
+      "title": {
+        "fr-FR": "Dialogue 8. Romulus et Rémus"
+      }
+    },
+    {
+      "id": "dialogue-09",
+      "title": {
+        "fr-FR": "Dialogue 9. Romulus et Tatius"
+      }
+    },
+    {
+      "id": "dialogue-10",
+      "title": {
+        "fr-FR": "Dialogue 10. Romulus et Numa Pompilius"
+      }
+    },
+    {
+      "id": "dialogue-11",
+      "title": {
+        "fr-FR": "Dialogue 11. Xerxès et Léonidas"
+      }
+    },
+    {
+      "id": "dialogue-12",
+      "title": {
+        "fr-FR": "Dialogue 12. Solon et Pisistrate"
+      }
+    },
+    {
+      "id": "dialogue-13",
+      "title": {
+        "fr-FR": "Dialogue 13. Solon et Justinien"
+      }
+    },
+    {
+      "id": "dialogue-14",
+      "title": {
+        "fr-FR": "Dialogue 14. Démocrite et Héraclite"
+      }
+    },
+    {
+      "id": "dialogue-15",
+      "title": {
+        "fr-FR": "Dialogue 15. Hérodote et Lucien"
+      }
+    },
+    {
+      "id": "dialogue-16",
+      "title": {
+        "fr-FR": "Dialogue 16. Socrate et Alcibiade"
+      }
+    },
+    {
+      "id": "dialogue-17",
+      "title": {
+        "fr-FR": "Dialogue 17. Socrate et Alcibiade"
+      }
+    },
+    {
+      "id": "dialogue-18",
+      "title": {
+        "fr-FR": "Dialogue 18. Socrate, Alcibiade et Timon"
+      }
+    },
+    {
+      "id": "dialogue-19",
+      "title": {
+        "fr-FR": "Dialogue 19. Périclès et Alcibiade"
+      }
+    },
+    {
+      "id": "dialogue-20",
+      "title": {
+        "fr-FR": "Dialogue 20. Mercure, Charon et Alcibiade"
+      }
+    },
+    {
+      "id": "dialogue-21",
+      "title": {
+        "fr-FR": "Dialogue 21. Denys, Pythias et Damon"
+      }
+    },
+    {
+      "id": "dialogue-22",
+      "title": {
+        "fr-FR": "Dialogue 22. Dion et Gélon"
+      }
+    },
+    {
+      "id": "dialogue-23",
+      "title": {
+        "fr-FR": "Dialogue 23. Platon et Denys le Tyran"
+      }
+    },
+    {
+      "id": "dialogue-24",
+      "title": {
+        "fr-FR": "Dialogue 24. Platon et Aristote"
+      }
+    },
+    {
+      "id": "dialogue-25",
+      "title": {
+        "fr-FR": "Dialogue 25. Alexandre et Aristote"
+      }
+    },
+    {
+      "id": "dialogue-26",
+      "title": {
+        "fr-FR": "Dialogue 26. Alexandre et Clitus"
+      }
+    },
+    {
+      "id": "dialogue-27",
+      "title": {
+        "fr-FR": "Dialogue 27. Alexandre et Diogène"
+      }
+    },
+    {
+      "id": "dialogue-28",
+      "title": {
+        "fr-FR": "Dialogue 28. Denys L’ancien et Diogène"
+      }
+    },
+    {
+      "id": "dialogue-29",
+      "title": {
+        "fr-FR": "Dialogue 29. Pyrrhon et Son Voisin"
+      }
+    },
+    {
+      "id": "dialogue-30",
+      "title": {
+        "fr-FR": "Dialogue 30. Pyrrhus et Démétrius Poliorcète"
+      }
+    },
+    {
+      "id": "dialogue-31",
+      "title": {
+        "fr-FR": "Dialogue 31. Démosthène et Cicéron"
+      }
+    },
+    {
+      "id": "dialogue-32",
+      "title": {
+        "fr-FR": "Dialogue 32. Cicéron et Démosthène"
+      }
+    },
+    {
+      "id": "dialogue-33",
+      "title": {
+        "fr-FR": "Dialogue 33. Cicéron et Démosthène"
+      }
+    },
+    {
+      "id": "dialogue-34",
+      "title": {
+        "fr-FR": "Dialogue 34. Marcus Coriolanus et F. Camillus"
+      }
+    },
+    {
+      "id": "dialogue-35",
+      "title": {
+        "fr-FR": "Dialogue 35. F. Camillus et Fabius Maximus"
+      }
+    },
+    {
+      "id": "dialogue-36",
+      "title": {
+        "fr-FR": "Dialogue 36. Fabius Maximus et Annibal"
+      }
+    },
+    {
+      "id": "dialogue-37",
+      "title": {
+        "fr-FR": "Dialogue 37. Rhadamanthe, Caton le Censeur, et Scipion L’africain"
+      }
+    },
+    {
+      "id": "dialogue-38",
+      "title": {
+        "fr-FR": "Dialogue 38. Scipion et Annibal"
+      }
+    },
+    {
+      "id": "dialogue-39",
+      "title": {
+        "fr-FR": "Dialogue 39. Annibal et Scipion"
+      }
+    },
+    {
+      "id": "dialogue-40",
+      "title": {
+        "fr-FR": "Dialogue 40. Lucullus et Crassus"
+      }
+    },
+    {
+      "id": "dialogue-41",
+      "title": {
+        "fr-FR": "Dialogue 41. Sylla, Catilina et César"
+      }
+    },
+    {
+      "id": "dialogue-42",
+      "title": {
+        "fr-FR": "Dialogue 42. César et Caton"
+      }
+    },
+    {
+      "id": "dialogue-43",
+      "title": {
+        "fr-FR": "Dialogue 43. Caton et Cicéron"
+      }
+    },
+    {
+      "id": "dialogue-44",
+      "title": {
+        "fr-FR": "Dialogue 44. César et Alexandre"
+      }
+    },
+    {
+      "id": "dialogue-45",
+      "title": {
+        "fr-FR": "Dialogue 45. Pompée et César"
+      }
+    },
+    {
+      "id": "dialogue-46",
+      "title": {
+        "fr-FR": "Dialogue 46. Cicéron et Auguste"
+      }
+    },
+    {
+      "id": "dialogue-47",
+      "title": {
+        "fr-FR": "Dialogue 47. Sertorius et Mercure"
+      }
+    },
+    {
+      "id": "dialogue-48",
+      "title": {
+        "fr-FR": "Dialogue 48. Le Jeune Pompée et Ménas, Affranchi de Son Père"
+      }
+    },
+    {
+      "id": "dialogue-49",
+      "title": {
+        "fr-FR": "Dialogue 49. Caligula et Néron"
+      }
+    },
+    {
+      "id": "dialogue-50",
+      "title": {
+        "fr-FR": "Dialogue 50. Antonin Pie et Marc-Aurèle"
+      }
+    },
+    {
+      "id": "dialogue-51",
+      "title": {
+        "fr-FR": "Dialogue 51. Horace et Virgile"
+      }
+    },
+    {
+      "id": "dialogue-52",
+      "title": {
+        "fr-FR": "Dialogue 52. Parrhasius et Poussin"
+      }
+    },
+    {
+      "id": "dialogue-53",
+      "title": {
+        "fr-FR": "Dialogue 53. Léonard de Vinci et Poussin"
+      }
+    },
+    {
+      "id": "dialogue-54",
+      "title": {
+        "fr-FR": "Dialogue 54. Léger et Ébroïn"
+      }
+    },
+    {
+      "id": "dialogue-55",
+      "title": {
+        "fr-FR": "Dialogue 55. Le Prince de Galles et Richard Son Fils"
+      }
+    },
+    {
+      "id": "dialogue-56",
+      "title": {
+        "fr-FR": "Dialogue 56. Charles VII et Jean, Duc de Bourgogne"
+      }
+    },
+    {
+      "id": "dialogue-57",
+      "title": {
+        "fr-FR": "Dialogue 57. Louis XI et le Cardinal Bessarion"
+      }
+    },
+    {
+      "id": "dialogue-58",
+      "title": {
+        "fr-FR": "Dialogue 58. Louis XI et le Cardinal Balue"
+      }
+    },
+    {
+      "id": "dialogue-59",
+      "title": {
+        "fr-FR": "Dialogue 59. Louis XI et Philippe de Commines"
+      }
+    },
+    {
+      "id": "dialogue-60",
+      "title": {
+        "fr-FR": "Dialogue 60. Louis XI et Charles, Duc de Bourgogne"
+      }
+    },
+    {
+      "id": "dialogue-61",
+      "title": {
+        "fr-FR": "Dialogue 61. Louis XI et Louis Xii"
+      }
+    },
+    {
+      "id": "dialogue-62",
+      "title": {
+        "fr-FR": "Dialogue 62. Le Connétable de Bourbon et Bayard"
+      }
+    },
+    {
+      "id": "dialogue-63",
+      "title": {
+        "fr-FR": "Dialogue 63. Henri VII et Henri VIII D’angleterre"
+      }
+    },
+    {
+      "id": "dialogue-64",
+      "title": {
+        "fr-FR": "Dialogue 64. Louis Xii et François Premier"
+      }
+    },
+    {
+      "id": "dialogue-65",
+      "title": {
+        "fr-FR": "Dialogue 65. Charles-Quint et Un Jeune Moine de Saint-Just"
+      }
+    },
+    {
+      "id": "dialogue-66",
+      "title": {
+        "fr-FR": "Dialogue 66. Charles-Quint et François Premier"
+      }
+    },
+    {
+      "id": "dialogue-67",
+      "title": {
+        "fr-FR": "Dialogue 67. Henri III et la Duchesse de Montpensier"
+      }
+    },
+    {
+      "id": "dialogue-68",
+      "title": {
+        "fr-FR": "Dialogue 68. Henri III et Henri IV"
+      }
+    },
+    {
+      "id": "dialogue-69",
+      "title": {
+        "fr-FR": "Dialogue 69. Henri IV et le Duc de Mayenne"
+      }
+    },
+    {
+      "id": "dialogue-70",
+      "title": {
+        "fr-FR": "Dialogue 70. Sixte-Quint et Henri IV"
+      }
+    },
+    {
+      "id": "dialogue-71",
+      "title": {
+        "fr-FR": "Dialogue 71. Les Cardinaux Ximénès et de Richelieu"
+      }
+    },
+    {
+      "id": "dialogue-72",
+      "title": {
+        "fr-FR": "Dialogue 72. La Reine Marie de Médicis et le Cardinal de Richelieu"
+      }
+    },
+    {
+      "id": "dialogue-73",
+      "title": {
+        "fr-FR": "Dialogue 73. Le Cardinal de Richelieu et le Chancelier Oxenstiern"
+      }
+    },
+    {
+      "id": "dialogue-74",
+      "title": {
+        "fr-FR": "Dialogue 74. Les Cardinaux de Richelieu et Mazarin"
+      }
+    },
+    {
+      "id": "dialogue-75",
+      "title": {
+        "fr-FR": "Dialogue 75. Louis XI et L’empereur Maximilien"
+      }
+    },
+    {
+      "id": "dialogue-76",
+      "title": {
+        "fr-FR": "Dialogue 76. François Premier et le Connétable de Bourbon"
+      }
+    },
+    {
+      "id": "dialogue-77",
+      "title": {
+        "fr-FR": "Dialogue 77. Philippe II et Philippe III"
+      }
+    },
+    {
+      "id": "dialogue-78",
+      "title": {
+        "fr-FR": "Dialogue 78. Aristote et Descartes"
+      }
+    },
+    {
+      "id": "dialogue-79",
+      "title": {
+        "fr-FR": "Dialogue 79. Harpagon et Dorante"
+      }
+    }
+  ]
+}

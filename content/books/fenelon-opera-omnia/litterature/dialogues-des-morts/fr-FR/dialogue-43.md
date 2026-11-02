@@ -1,0 +1,33 @@
+# Dialogue 43. Caton et Cicéron
+
+*Caton*. — Il y a longtemps, grand orateur, que je vous attendais ici. Il y a longtemps que vous deviez arriver. Mais vous y êtes venu le plus tard qu’il vous a été possible.
+
+*Cicéron*. — J’y suis venu après une mort pleine de courage. J’ai été la victime de la république ; car depuis les temps de la conjuration de Catilina, où j’avais sauvé Rome, personne ne pouvait plus être ennemi de la république sans me déclarer aussitôt la guerre.
+
+*Caton*. — J’ai pourtant su que vous aviez trouvé grâce auprès de César par vos soumissions, que vous lui prodiguiez les plus magnifiques louanges, que vous étiez l’ami intime de tous ses lâches favoris, et que vous leur persuadiez même, dans vos lettres, d’avoir recours à sa clémence pour vivre en paix au milieu de Rome dans la servitude. Voilà à quoi sert l’éloquence.
+
+*Cicéron*. — Il est vrai que j’ai harangué César pour obtenir la grâce de Marcellus et de Ligarius…
+
+*Caton*. — Hé ! ne vaut-il pas mieux se taire que d’employer son éloquence à flatter un tyran ? Ô Cicéron, j’ai su plus que vous ; j’ai su me taire et mourir.
+
+*Cicéron*. — Vous n’avez pas vu une belle observation que j’ai faite dans mes Offices, qui est que chacun doit suivre son caractère. Il y a des hommes d’un naturel fier et intraitable, qui doivent soutenir cette vertu austère et farouche jusqu’à la mort : il ne leur est pas permis de supporter la vue du tyran ; ils n’ont d’autre ressource que celle de se tuer. Il y a une autre vertu, plus douce et plus sociable ; de certaines personnes modérées, qui aiment mieux la république que leur propre gloire : ceux-là doivent vivre, et ménager le tyran pour le bien public ; ils se doivent à leurs citoyens, et il ne leur est pas permis d’achever par une mort précipitée la ruine de la patrie.
+
+*Caton*. — Vous avez bien rempli ce devoir ; et s’il faut juger de votre amour pour Rome par votre crainte de la mort, il faut avouer que Rome vous doit beaucoup. Mais les gens qui parlent si bien devraient ajuster toutes leurs paroles avec assez d’art pour ne se pas contredire eux-mêmes. Ce Cicéron qui a élevé jusques au ciel César, et qui n’a point eu de honte de prier les dieux de n’envier pas un si grand bien aux hommes, de quel front a-t-il pu dire ensuite que les meurtriers de César étaient les libérateurs de la patrie ? Quelle grossière contradiction ! quelle lâcheté infâme ! Peut-on se fier à la vertu d’un homme qui parle ainsi selon le temps ?
+
+*Cicéron*. — Il fallait bien s’accommoder aux besoins de la république. Cette souplesse valait encore mieux que la guerre d’Afrique entreprise par Scipion et par vous, contre toutes les règles de la prudence. Pour moi, je l’avais bien prédit (et on n’a qu’à lire mes lettres), que vous succomberiez. Mais votre naturel inflexible et âpre ne pouvait souffrir aucun tempérament ; vous étiez né pour les extrémités.
+
+*Caton*. — Et vous pour tout craindre, comme vous l’avez souvent avoué vous-même. Vous n’étiez capable que de prévoir les inconvénients. Ceux qui prévalaient vous entraînaient toujours, jusqu’à vous faire dédire de vos premiers sentiments. Ne vous a-t-on pas vu admirer Pompée, et exhorter tous vos amis à se livrer à lui ? Ensuite n’avez-vous pas cru que Pompée mettrait Rome dans la servitude s’il surmontait César ? « Comment, disiez-vous, croira-t-il les gens de bien s’il est le maître, puisqu’il ne veut croire aucun de nous pendant la guerre où il a besoin de notre secours ? » Enfin n’avez-vous pas admiré César ? n’avez-vous pas recherché et loué Octave ?
+
+*Cicéron*. — Mais j’ai attaqué Antoine. Qu’y a-t-il de plus véhément que mes harangues contre lui, semblables à celles de Démosthène contre Philippe ?
+
+*Caton*. — Elles sont admirables : mais Démosthène savait mieux que vous comment il faut mourir. Antipater ne put lui donner ni la mort ni la vie. Fallait-il fuir comme vous fîtes, sans savoir où vous alliez, et attendre la mort des mains de Popilius ? J’ai mieux fait de me la donner moi-même à Utique.
+
+*Cicéron*. — Et moi, j’aime mieux n’avoir point désespéré de la république jusqu’à la mort, et l’avoir soutenue par des conseils modérés, que d’avoir fait une guerre faible et imprudente, et d’avoir fini par un coup de désespoir.
+
+*Caton*. — Vos négociations ne valaient pas mieux que ma terre d’Afrique ; car Octave, tout jeune qu’il était, s’est joué de ce grand Cicéron qui était la lumière de Rome. Il s’est servi de vous pour s’autoriser ; ensuite il vous a livré à Antoine. Mais vous qui parlez de guerre, l’avez-vous jamais su faire ? Je n’ai pas encore oublié votre belle conquête de Pindenisse, petite ville des détroits de la Cilicie ; un parc de moutons n’est guère plus facile à prendre. Pour cette belle expédition il vous fallait un triomphe, si on eût voulu vous en croire ; les supplications ordonnées par le sénat ne suffisaient pas pour de tels exploits. Voici ce que je répondis aux sollicitations que vous me fîtes là-dessus : « Vous devez être plus content, disais-je, des louanges du sénat que vous avez méritées par votre bonne conduite, que d’un triomphe ; car le triomphe marquerait moins la vertu du triomphateur, que le bonheur dont les dieux auraient accompagné ses entreprises. » C’est ainsi qu’on tâche d’amuser comme on peut les hommes vains et incapables de se faire justice.
+
+*Cicéron*. — Je reconnais que j’ai toujours été passionné pour les louanges ; mais faut-il s’en étonner ? N’en ai-je pas mérité de grandes par mon consulat, par mon amour pour la république, par mon éloquence, enfin par mon amour pour la philosophie ? Quand je ne voyais plus de moyen de servir Rome dans ses malheurs, je me consolais, dans une honnête oisiveté, à raisonner et à écrire sur la vertu.
+
+*Caton*. — Il valait mieux la pratiquer dans les périls, qu’en écrire. Avouez-le franchement, vous n’étiez qu’un faible copiste des Grecs : vous mêliez Platon avec Épicure, l’ancienne Académie avec la nouvelle ; et après avoir fait l’historien sur leurs dogmes, dans des dialogues où un homme parlait presque toujours seul, vous ne pouviez presque jamais rien conclure. Vous étiez toujours étranger, dans la philosophie, et vous ne songiez qu’à orner votre esprit de ce qu’elle a de beau. Enfin vous avez toujours été flottant en politique et en philosophie.
+
+*Cicéron*. — Adieu, Caton ; votre mauvaise humeur va trop loin. À vous voir si chagrin, on croirait que vous regrettez la vie. Pour moi, je suis consolé de l’avoir perdue, quoique je n’aie point tant fait le brave. Vous vous en faites trop accroire, pour avoir fait en mourant ce qu’ont fait beaucoup d’esclaves avec autant de courage que vous.
