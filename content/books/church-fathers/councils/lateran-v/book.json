@@ -1,0 +1,48 @@
+{
+  "id": "councils-lateran-v",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Lateranense V (1512–1517)",
+    "en-US": "Fifth Lateran Council (1512–1517)",
+    "pt-BR": "Quinto Concílio de Latrão (1512–1517)"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "la": "Documenta quinti concilii Lateranensis (1512–1517) sub Iulio II et Leone X, cum bulla Apostolici regiminis de anima.",
+    "en-US": "The documents of the eighteenth ecumenical council, held at the Lateran in 1512–1517 under Julius II and Leo X: the condemnation of the Pragmatic Sanction and of the Pisan conciliabulum, the bull Apostolici regiminis on the immortality of the soul, and the reform decrees. Latin text.",
+    "pt-BR": "Os documentos do décimo oitavo concílio ecumênico, reunido no Latrão em 1512–1517 sob Júlio II e Leão X: a bula Apostolici regiminis sobre a imortalidade da alma e os decretos de reforma."
+  },
+  "composed": "1512–1517",
+  "languages": [
+    "la"
+  ],
+  "work": "councils/lateran-v",
+  "editions": {
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Lateranense_V_Documenta",
+      "edition": "Latin Wikisource, Concilium Lateranense V Documenta, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia. Wikitext fetched through action=raw.",
+      "description": "Complete as transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences, lowercase deus/dominus, and no canon numbers; the text is left as transcribed, with line breaks kept as paragraph breaks, the digitisation's split enclitics rejoined and bracketed headings turned into markdown headings. No public-domain English translation of this text has been imported yet.",
+      "tier": "B",
+      "tierEvidence": "Medieval documents; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Concilium Lateranense V (1512–1517)"
+      }
+    }
+  ]
+}
