@@ -1,0 +1,1882 @@
+{
+  "id": "richard-liber-exceptionum-pars-ii",
+  "cover": "classic",
+  "name": {
+    "la": "Liber exceptionum, pars secunda (Posteriores excerptiones)",
+    "en-US": "Book of Excerpts, Part Two (Posteriores excerptiones)",
+    "pt-BR": "Livro das exceções, segunda parte"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "Posteriores excerptiones, quas Migne Hugoni tribuit; revera pars secunda Liberi exceptionum Richardi: de sacra Scriptura, historia et allegoria.",
+    "en-US": "The second part of Richard’s Liber exceptionum, which Migne prints as Hugh’s Posteriores excerptiones: a long course in the literal and allegorical sense of Scripture, from Genesis on. Latin only, from the Migne text (Patrologia Latina 175, 1854), a machine-corrected OCR.",
+    "pt-BR": "A segunda parte do Liber exceptionum de Ricardo, que Migne imprime como Posteriores excerptiones de Hugo: um longo curso do sentido literal e alegórico da Escritura, a partir do Gênesis."
+  },
+  "composed": "c. 1160-1170",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/liber-exceptionum-pars-ii",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 175)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AuInHuD.PosExc",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text AuInHuD.PosExc, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Prologus alter."
+      }
+    },
+    {
+      "id": "g01",
+      "title": {
+        "la": "Liber primus. In librum geneseos.—ab initio mundi usque ad abraham"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput i.— De significatione coeli et terrae."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput ii.— De coelo, terra, et operibus sex dierum."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput iii.— De aquis superioribus et inferioribus."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput iv.— De sole, luna et stellis."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput v.— De piscibus et avibus."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput vi.— De paradiso voluptatis."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput vii.— De formatione primi hominis."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput viii.— De Adam, Eva et serpente."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput IX. De sex diebus operationis divinae, et de septimo quietis."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput x.— De Adam, Eva et filiis eorum."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput xi.— De Seth, Cain et filiis eorum."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput xii.— De Enos, Henoch, et Noe."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput xiii.— De arca et diluvio."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput xiv.— Moralis sententia de arca."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput xv.— De corvo, et columba."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput xvi.— De Iridis coloribus."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput xvii.— De vinea Noe, et ejus inebriatione."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput xviii.— Moralis sententia de eodem."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Liber secundus. De reliquis mysteriis geneseos ab abraham usque ad moysen"
+      },
+      "children": [
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput i.— De exitu Abraham de terra sua."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput ii.— Moralis explicatio de eodem."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput iii.— De sacrificio Abrahae."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput iv.— Moralis expositio de eodem."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput v.— De triplici circumcisione."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput vi.— De exitu Lot e Sodomis."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput vii.— De hoc, quod tentavit Deus Abraham."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput viii.— De Sara, et morte, ac sepultura ejus."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput ix.— Quomodo adducta est Rebecca ad Isaac."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput x.— De Abraham, Isaac, et pueris eorum, ac puteis."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput XI. De benedictione Jacob."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput XII. Quomodo perrexit Jacob ad Laban."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput XIII. De virgis, quas decorticavit Jacob."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput XIV. De Dina filia Jacob."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput XV. Historia de Joseph."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Caput XVI. De Jacob, et filiis ejus."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Caput XVII. De Juda, ac filiis ejus, et Thamar."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Caput XVIII. De duobus servis Pharaonis."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Caput XIX. De aromatibus quibus conditus est Jacob."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Liber tertius. In reliquos pentateuchi libros et primo in exodum"
+      },
+      "children": [
+        {
+          "id": "c040",
+          "title": {
+            "la": "Caput I. De nativitate Moysi, et exitu Israel de Aegypto."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Caput II. De iis quae spiritualiter Dominum vel Christum significant."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Caput iii.— De Aegypto, deserto et terra promissionis."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Caput IV. De mandato dilectionis."
+          }
+        },
+        {
+          "id": "c044",
+          "title": {
+            "la": "Caput V. De praeceptis legis naturalis et scriptae."
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Caput VI. De duabus tabulis."
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Caput VII. De quatuor Sabbatis."
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Caput VIII. De furto, mendacio et perjurio."
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Caput IX. De constructione tabernaculi, et de offerendis in eo."
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Caput X. De sacrificiis."
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Caput XI. De mensa propositionis."
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Caput XII. De via trium dierum"
+          }
+        },
+        {
+          "id": "c052",
+          "title": {
+            "la": "Caput XIII. De duobus Testamentis."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Caput XIV. De duabus tabulis, duobus cherubim, et duabus tubis."
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Caput XV. De unctione et vestibus sacerdotis."
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Caput XVI. De praeputiis arborum."
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Caput XVII. De sacerdotibus reprobandis ex libro Pastoralis Curae beati Gregorii."
+          }
+        },
+        {
+          "id": "c057",
+          "title": {
+            "la": "Caput XVIII. De victimis ex libro Isidori."
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Caput XIX. De primogenito bovis, et ovis."
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Caput XX. De muliere capta in bello."
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Caput XXI. Non arandum in bove simul et asino."
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Caput XXII. De veste ex lana et lino contexta."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Liber quartus. In libros josue, judicum et ruth"
+      },
+      "children": [
+        {
+          "id": "c062",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Caput I. De Josue et transitu Jordanis."
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Caput II. De filiis Ruben, et Gad, et de dimidia tribu Manasse."
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Caput III. De subversione Jericho."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Caput IV. De civitate Hai."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Caput V. De altari quod construxit osue."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Caput VI. De dolo Gabaonitarum."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Caput VII. De levitis."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Caput VIII. De Chananaeis tributariis."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Caput IX. De successoribus Josue."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Caput X. De Debora."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Caput XI. Sensus allegoricus de Area."
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Caput XII. Sensus moralis de Area."
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Caput XIII. De Gedeone et bello Madianitarum."
+          }
+        },
+        {
+          "id": "c076",
+          "title": {
+            "la": "Caput XIV. De Gedeone, et uxoribus ejus, et filiis."
+          }
+        },
+        {
+          "id": "c077",
+          "title": {
+            "la": "Caput XV. De Jephte."
+          }
+        },
+        {
+          "id": "c078",
+          "title": {
+            "la": "Caput XVI. De Samsone."
+          }
+        },
+        {
+          "id": "c079",
+          "title": {
+            "la": "Caput XVII. Moralitas de eodem."
+          }
+        },
+        {
+          "id": "c080",
+          "title": {
+            "la": "Caput XVIII. De Ruth."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Liber quintus. In librum I regum.—ab helcana usque ad david"
+      },
+      "children": [
+        {
+          "id": "c081",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c082",
+          "title": {
+            "la": "Caput I. De Helcana et uxoribus ejus."
+          }
+        },
+        {
+          "id": "c083",
+          "title": {
+            "la": "Caput II. Moralitas de eodem."
+          }
+        },
+        {
+          "id": "c084",
+          "title": {
+            "la": "Caput III. De Anna, et Samuele."
+          }
+        },
+        {
+          "id": "c085",
+          "title": {
+            "la": "Caput IV. De Ophni, et Phinees filiis Heli."
+          }
+        },
+        {
+          "id": "c086",
+          "title": {
+            "la": "Caput V. De Heli et filiis ejus rursum."
+          }
+        },
+        {
+          "id": "c087",
+          "title": {
+            "la": "Caput VI. De castris Israel, et Philisthiim."
+          }
+        },
+        {
+          "id": "c088",
+          "title": {
+            "la": "Caput VII. De arca Dei, et filiis Heli mortuis."
+          }
+        },
+        {
+          "id": "c089",
+          "title": {
+            "la": "Caput VIII. De arca Dei, et Dagon."
+          }
+        },
+        {
+          "id": "c090",
+          "title": {
+            "la": "Caput IX. De aggravatione manus Domini super Azotios."
+          }
+        },
+        {
+          "id": "c091",
+          "title": {
+            "la": "Caput X. De duabus vaccis quae reportaverunt arcam."
+          }
+        },
+        {
+          "id": "c092",
+          "title": {
+            "la": "Caput XI. Quod filii Israel postulaverunt regem."
+          }
+        },
+        {
+          "id": "c093",
+          "title": {
+            "la": "Caput XII. Item de Saul."
+          }
+        },
+        {
+          "id": "c094",
+          "title": {
+            "la": "Caput XIII De Naas rege Ammonitarum, et de Jabe Galaad."
+          }
+        },
+        {
+          "id": "c095",
+          "title": {
+            "la": "Caput XIV. De tribus millibus electis a Saule."
+          }
+        },
+        {
+          "id": "c096",
+          "title": {
+            "la": "Caput XV. De eo quod non inveniebatur faber ferrarius in terra Israel."
+          }
+        },
+        {
+          "id": "c097",
+          "title": {
+            "la": "Caput XVI. De Jonatha et armigero ejus"
+          }
+        },
+        {
+          "id": "c098",
+          "title": {
+            "la": "Caput xvii.— De Jonatha et melle quod gustavit."
+          }
+        },
+        {
+          "id": "c099",
+          "title": {
+            "la": "Caput XVIII. De reprobatione Saulis."
+          }
+        },
+        {
+          "id": "c100",
+          "title": {
+            "la": "Caput XIX. De virtute obedientiae."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Liber sextus. In I et II regum.—a david usque ad salomonem"
+      },
+      "children": [
+        {
+          "id": "c101",
+          "title": {
+            "la": "Caput I. De scissione pallii Samuelis."
+          }
+        },
+        {
+          "id": "c102",
+          "title": {
+            "la": "Caput II. De Saule, David et cithara ejus."
+          }
+        },
+        {
+          "id": "c103",
+          "title": {
+            "la": "Caput III. De acie Israel et Philisthiim."
+          }
+        },
+        {
+          "id": "c104",
+          "title": {
+            "la": "Caput IV. De Philisthiim et de Golia iterum."
+          }
+        },
+        {
+          "id": "c105",
+          "title": {
+            "la": "Caput V. De dilectione Jonathae et David."
+          }
+        },
+        {
+          "id": "c106",
+          "title": {
+            "la": "Caput VI. De Jonatha et David abscondito in agro."
+          }
+        },
+        {
+          "id": "c107",
+          "title": {
+            "la": "Caput VII. De eo quod David mutavit os suum coram Achis."
+          }
+        },
+        {
+          "id": "c108",
+          "title": {
+            "la": "Caput VIII. De iis qui convenerant ad David."
+          }
+        },
+        {
+          "id": "c109",
+          "title": {
+            "la": "Caput IX. De Zipheis."
+          }
+        },
+        {
+          "id": "c110",
+          "title": {
+            "la": "Caput X. De eo quod David praecidit oram chlamydis Saul."
+          }
+        },
+        {
+          "id": "c111",
+          "title": {
+            "la": "Caput XI. De verbis Abigail ad David."
+          }
+        },
+        {
+          "id": "c112",
+          "title": {
+            "la": "Caput XII. De Abigail et Nabal."
+          }
+        },
+        {
+          "id": "c113",
+          "title": {
+            "la": "Caput XIII. De Amalecitis."
+          }
+        },
+        {
+          "id": "c114",
+          "title": {
+            "la": "Caput XIV. De montibus Gelboe."
+          }
+        },
+        {
+          "id": "c115",
+          "title": {
+            "la": "Caput XV. De eisdem."
+          }
+        },
+        {
+          "id": "c116",
+          "title": {
+            "la": "Caput XVI. De Ascensione David in Hebron."
+          }
+        },
+        {
+          "id": "c117",
+          "title": {
+            "la": "Caput XVII. De Abner et Asael."
+          }
+        },
+        {
+          "id": "c118",
+          "title": {
+            "la": "Caput XVIII. De longa concertatione inter domum David et domum Saul."
+          }
+        },
+        {
+          "id": "c119",
+          "title": {
+            "la": "Caput XIX. De sermone quem intulit Abner ad seniores Israel."
+          }
+        },
+        {
+          "id": "c120",
+          "title": {
+            "la": "Caput XX. De filiis Remmon et morte Isboseth."
+          }
+        },
+        {
+          "id": "c121",
+          "title": {
+            "la": "Caput XXI. Quomodo David expugnavit Jerusalem."
+          }
+        },
+        {
+          "id": "c122",
+          "title": {
+            "la": "Caput XXII. De superbia Michol et humilitate David."
+          }
+        },
+        {
+          "id": "c123",
+          "title": {
+            "la": "Caput XXIII. De Hanon et servis David."
+          }
+        },
+        {
+          "id": "c124",
+          "title": {
+            "la": "Caput XXIV. De Rabath et diademate regis ejus."
+          }
+        },
+        {
+          "id": "c125",
+          "title": {
+            "la": "Caput XXV. Quomodo David numeravit Israel."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "title": {
+        "la": "Liber septimus"
+      },
+      "children": [
+        {
+          "id": "c126",
+          "title": {
+            "la": "Caput I. De Diversis ferculis et equis Salomonis."
+          }
+        },
+        {
+          "id": "c127",
+          "title": {
+            "la": "Caput II. De sapientia, praefectis, subjectis, et uxoribus Salomonis."
+          }
+        },
+        {
+          "id": "c128",
+          "title": {
+            "la": "Caput III. De aedificatione templi."
+          }
+        },
+        {
+          "id": "c129",
+          "title": {
+            "la": "Caput IV. De libertate Israel et servitute alienigenarum."
+          }
+        },
+        {
+          "id": "c130",
+          "title": {
+            "la": "Caput V. De throno Salomonis."
+          }
+        },
+        {
+          "id": "c131",
+          "title": {
+            "la": "Caput VI. De Roboam."
+          }
+        },
+        {
+          "id": "c132",
+          "title": {
+            "la": "Caput VII. De Jeroboam."
+          }
+        },
+        {
+          "id": "c133",
+          "title": {
+            "la": "Caput VIII. De eo quod scriptum est: « Demetam posteriora Baasa. »"
+          }
+        },
+        {
+          "id": "c134",
+          "title": {
+            "la": "Caput IX. De reaedeficatione Jericho."
+          }
+        },
+        {
+          "id": "c135",
+          "title": {
+            "la": "Caput X. De Elia et torrenti Carith."
+          }
+        },
+        {
+          "id": "c136",
+          "title": {
+            "la": "Caput XI. De Elia et vidua Sareptana."
+          }
+        },
+        {
+          "id": "c137",
+          "title": {
+            "la": "Caput XII. De Elia et prophetis Baal."
+          }
+        },
+        {
+          "id": "c138",
+          "title": {
+            "la": "Caput XIII. De interfectione prophetarum Baal."
+          }
+        },
+        {
+          "id": "c139",
+          "title": {
+            "la": "Caput XIV. De fuga Eliae coram Jezabel, et de junipero."
+          }
+        },
+        {
+          "id": "c140",
+          "title": {
+            "la": "Caput XV. De visione Eliae in monte."
+          }
+        },
+        {
+          "id": "c141",
+          "title": {
+            "la": "Caput XVI. De custodia humilitatis."
+          }
+        },
+        {
+          "id": "c142",
+          "title": {
+            "la": "Caput XVII. De eo quod Elias unxit Eliseum."
+          }
+        },
+        {
+          "id": "c143",
+          "title": {
+            "la": "Caput XVIII. De pugna Benadab contra Israel."
+          }
+        },
+        {
+          "id": "c144",
+          "title": {
+            "la": "Caput XIX. De eo quod dictum est a servis regis Syriae: « Dii montium, sunt dii Israel. »"
+          }
+        },
+        {
+          "id": "c145",
+          "title": {
+            "la": "Caput XX. De Eliseo, et pallio Eliae."
+          }
+        },
+        {
+          "id": "c146",
+          "title": {
+            "la": "Caput XXI. De eo quod vir Dei maledixit pueris in Bethel."
+          }
+        },
+        {
+          "id": "c147",
+          "title": {
+            "la": "Caput XXII. De aqua trium regum exercitibus a Domino data."
+          }
+        },
+        {
+          "id": "c148",
+          "title": {
+            "la": "Caput XXIII. De muliere, quae clamavit ad Eliseum."
+          }
+        },
+        {
+          "id": "c149",
+          "title": {
+            "la": "Caput XXIV. De tabernaculo, quod aedificaverunt Sunamitis et vir ejus Eliseo."
+          }
+        },
+        {
+          "id": "c150",
+          "title": {
+            "la": "Caput XXV. De resuscitatione filii mulieris Sunamitidis."
+          }
+        },
+        {
+          "id": "c151",
+          "title": {
+            "la": "Caput XXVI. De eo quod scriptum est: « Mors in olla. »"
+          }
+        },
+        {
+          "id": "c152",
+          "title": {
+            "la": "Caput XXVII. De eo qui viro Dei panes primitiarum tulit."
+          }
+        },
+        {
+          "id": "c153",
+          "title": {
+            "la": "Caput XXVIII. De captiva puella, et de Naaman Syro."
+          }
+        },
+        {
+          "id": "c154",
+          "title": {
+            "la": "Caput XXIX. De lepra Naaman, quae adhaesit Giezi."
+          }
+        },
+        {
+          "id": "c155",
+          "title": {
+            "la": "Caput XXX. De obsidione, et fame Samariae."
+          }
+        },
+        {
+          "id": "c156",
+          "title": {
+            "la": "Caput XXXI. De Jehu."
+          }
+        },
+        {
+          "id": "c157",
+          "title": {
+            "la": "Caput XXXII. Quomodo Joas instauravit sartatecta."
+          }
+        },
+        {
+          "id": "c158",
+          "title": {
+            "la": "Caput XXXIII. De scriba, et pontifice, et pecunia, et operariis."
+          }
+        },
+        {
+          "id": "c159",
+          "title": {
+            "la": "Caput XXXIV. De sagitta salutis."
+          }
+        },
+        {
+          "id": "c160",
+          "title": {
+            "la": "Caput XXXV. De projectione Israel."
+          }
+        },
+        {
+          "id": "c161",
+          "title": {
+            "la": "Caput XXXVI. De Samaritanis."
+          }
+        },
+        {
+          "id": "c162",
+          "title": {
+            "la": "Caput XXXVII. De Josia, et phase quod celebravit."
+          }
+        },
+        {
+          "id": "c163",
+          "title": {
+            "la": "Caput XXXVIII. De censu, quem solvit populus Pharaoni sub Joachim."
+          }
+        },
+        {
+          "id": "c164",
+          "title": {
+            "la": "Caput XXXIX. De prima obsidione Hierusalem."
+          }
+        },
+        {
+          "id": "c165",
+          "title": {
+            "la": "Caput XL. De secunda obsidione Hierusalem, et fame."
+          }
+        },
+        {
+          "id": "c166",
+          "title": {
+            "la": "Caput XLI. De interruptione muri, et fuga Sedechiae."
+          }
+        },
+        {
+          "id": "c167",
+          "title": {
+            "la": "Caput XLII. De Nabuzardan."
+          }
+        },
+        {
+          "id": "c168",
+          "title": {
+            "la": "Caput XLIII. De translatione Juda."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "title": {
+        "la": "Liber octavus. In duos priores libros esdrae"
+      },
+      "children": [
+        {
+          "id": "c169",
+          "title": {
+            "la": "Caput I. De Cyro, et liberatione captivorum et restauratione templi. In primum Esdrae."
+          }
+        },
+        {
+          "id": "c170",
+          "title": {
+            "la": "Caput II. Quid notet, quod Judaei post septuaginta annos liberantur."
+          }
+        },
+        {
+          "id": "c171",
+          "title": {
+            "la": "Caput III. De numero vasorum, quae relata sunt de Babylone."
+          }
+        },
+        {
+          "id": "c172",
+          "title": {
+            "la": "Caput IV. De numero revertentium de Babylone."
+          }
+        },
+        {
+          "id": "c173",
+          "title": {
+            "la": "Caput V. De numero animalium."
+          }
+        },
+        {
+          "id": "c174",
+          "title": {
+            "la": "Caput VI. De oblatione principum."
+          }
+        },
+        {
+          "id": "c175",
+          "title": {
+            "la": "Caput VII. De fundatione templi."
+          }
+        },
+        {
+          "id": "c176",
+          "title": {
+            "la": "Caput VIII De hostibus Judae et Benjamin."
+          }
+        },
+        {
+          "id": "c177",
+          "title": {
+            "la": "Caput IX. De dedicatione domus Domini."
+          }
+        },
+        {
+          "id": "c178",
+          "title": {
+            "la": "Caput X. Quomodo Esdras significat Christum."
+          }
+        },
+        {
+          "id": "c179",
+          "title": {
+            "la": "Caput XI. De circumspectione doctorum."
+          }
+        },
+        {
+          "id": "c180",
+          "title": {
+            "la": "Caput XII. Generalis sententia de toto aedificio."
+          }
+        },
+        {
+          "id": "c181",
+          "title": {
+            "la": "Caput XIII. De Sanaballat irato, et de Samaritanis."
+          }
+        },
+        {
+          "id": "c182",
+          "title": {
+            "la": "Caput XIV. De cautela aedificantium."
+          }
+        },
+        {
+          "id": "c183",
+          "title": {
+            "la": "Caput XV. Quomodo Sabbatum observabant."
+          }
+        },
+        {
+          "id": "c184",
+          "title": {
+            "la": "Caput XVI. De bifaria dedicatione civitatis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "title": {
+        "la": "Liber nonus. In libros esther, tobiae, judith et machabaeorum"
+      },
+      "children": [
+        {
+          "id": "c185",
+          "title": {
+            "la": "Caput I. De mysteriis quae continentur in libro Esther."
+          }
+        },
+        {
+          "id": "c186",
+          "title": {
+            "la": "Caput II. De mysteriis quae continentur in libro Tobiae."
+          }
+        },
+        {
+          "id": "c187",
+          "title": {
+            "la": "Caput III. De mysteriis quae continentur in libro Judith."
+          }
+        },
+        {
+          "id": "c188",
+          "title": {
+            "la": "Caput IV. De mysteriis quae continentur in libro Machabaeorum."
+          }
+        },
+        {
+          "id": "c189",
+          "title": {
+            "la": "Prologus."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": {
+        "la": "Liber primus. De mysteriis evangelii sancti joannis"
+      },
+      "children": [
+        {
+          "id": "c190",
+          "title": {
+            "la": "Caput I. De aqua in vinum mutata."
+          }
+        },
+        {
+          "id": "c191",
+          "title": {
+            "la": "Caput II. De eodem mysterio."
+          }
+        },
+        {
+          "id": "c192",
+          "title": {
+            "la": "Caput III. De ejectione ementium et vendentium e templo Domini."
+          }
+        },
+        {
+          "id": "c193",
+          "title": {
+            "la": "Caput IV. De muliere Samaritana"
+          }
+        },
+        {
+          "id": "c194",
+          "title": {
+            "la": "Caput V. De filio reguli a Domino sanato."
+          }
+        },
+        {
+          "id": "c195",
+          "title": {
+            "la": "Caput VI. De probatica piscina."
+          }
+        },
+        {
+          "id": "c196",
+          "title": {
+            "la": "Caput VII. De quinque panibus, et duobus piscibus."
+          }
+        },
+        {
+          "id": "c197",
+          "title": {
+            "la": "Caput VIII. De muliere in adulterio deprehensa."
+          }
+        },
+        {
+          "id": "c198",
+          "title": {
+            "la": "Caput IX. De caeco illuminato."
+          }
+        },
+        {
+          "id": "c199",
+          "title": {
+            "la": "Caput X. De grano frumenti."
+          }
+        },
+        {
+          "id": "c200",
+          "title": {
+            "la": "Caput XI. De emissione retis in mare."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": {
+        "la": "Liber secundus. In matthaeum"
+      },
+      "children": [
+        {
+          "id": "c201",
+          "title": {
+            "la": "Caput I. De sermone Domini in monte, et octo beatitudinibus secundum Matthaeum."
+          }
+        },
+        {
+          "id": "c202",
+          "title": {
+            "la": "Caput II. De Oratione Dominica secundum Matthaeum et de septem petitionibus in ea contentis."
+          }
+        },
+        {
+          "id": "c203",
+          "title": {
+            "la": "Caput III. De septem peccatis mortalibus, contra quae valent Orationis Dominicae petitiones."
+          }
+        },
+        {
+          "id": "c204",
+          "title": {
+            "la": "Caput IV. Quod haec tria peccata superbia, invidia et ira divinae bonitati potissimum repugnant."
+          }
+        },
+        {
+          "id": "c205",
+          "title": {
+            "la": "Caput V. Quod reliqua quatuor vitia, acedia, avaritia, gula et luxuria, injuriae Deo a nobis illatae sunt ultricia."
+          }
+        },
+        {
+          "id": "c206",
+          "title": {
+            "la": "Caput VI. Quod superbia per luxuriam retunditur; et quod dictis septem peccatis totidem opponuntur petitiones in oratione Dominica."
+          }
+        },
+        {
+          "id": "c207",
+          "title": {
+            "la": "Caput VII. De captatione benevolentiae in principio orationis Dominicae."
+          }
+        },
+        {
+          "id": "c208",
+          "title": {
+            "la": "Caput VIII. De prima petitione orationis Dominicae contra superbiam."
+          }
+        },
+        {
+          "id": "c209",
+          "title": {
+            "la": "Caput IX. De secunda petitione contra invidiam."
+          }
+        },
+        {
+          "id": "c210",
+          "title": {
+            "la": "Caput X. De tertia petitione contra iram."
+          }
+        },
+        {
+          "id": "c211",
+          "title": {
+            "la": "Caput XI. De quarta petitione contra acediam."
+          }
+        },
+        {
+          "id": "c212",
+          "title": {
+            "la": "Caput XII. De quinta petitione contra avaritiam."
+          }
+        },
+        {
+          "id": "c213",
+          "title": {
+            "la": "Caput XIII. De sexta petitione contra gulam."
+          }
+        },
+        {
+          "id": "c214",
+          "title": {
+            "la": "Caput XIV. De septima petitione contra luxuriam."
+          }
+        },
+        {
+          "id": "c215",
+          "title": {
+            "la": "Caput XV. De viro prudente, et audiente verbum Dei."
+          }
+        },
+        {
+          "id": "c216",
+          "title": {
+            "la": "Caput XVI. De leproso mundato."
+          }
+        },
+        {
+          "id": "c217",
+          "title": {
+            "la": "Caput XVII. De transitu discipulorum per sata."
+          }
+        },
+        {
+          "id": "c218",
+          "title": {
+            "la": "Caput XVIII. De immundo spiritu exeunte ab homine."
+          }
+        },
+        {
+          "id": "c219",
+          "title": {
+            "la": "Caput XIX. De forti et vasis ejus."
+          }
+        },
+        {
+          "id": "c220",
+          "title": {
+            "la": "Caput XX. De seminatore et semine."
+          }
+        },
+        {
+          "id": "c221",
+          "title": {
+            "la": "Caput XXI. De inimico, qui superseminavit zizania."
+          }
+        },
+        {
+          "id": "c222",
+          "title": {
+            "la": "Caput XXII. De grano sinapis."
+          }
+        },
+        {
+          "id": "c223",
+          "title": {
+            "la": "Caput XXIII. De fermento abscondito in tribus satis farinae."
+          }
+        },
+        {
+          "id": "c224",
+          "title": {
+            "la": "Caput XXIV. De thesauro abscondito in agro."
+          }
+        },
+        {
+          "id": "c225",
+          "title": {
+            "la": "Caput XXV. De homine negotiatore quaerente bonas margaritas."
+          }
+        },
+        {
+          "id": "c226",
+          "title": {
+            "la": "Caput XXVI. De sagena missa in mare."
+          }
+        },
+        {
+          "id": "c227",
+          "title": {
+            "la": "Caput XXVII. De Chananaea, et filia ejus sanata."
+          }
+        },
+        {
+          "id": "c228",
+          "title": {
+            "la": "Caput XXVIII. De lunatico a daemone liberato."
+          }
+        },
+        {
+          "id": "c229",
+          "title": {
+            "la": "Caput XXIX. De rege, qui posuit rationem cum servis suis."
+          }
+        },
+        {
+          "id": "c230",
+          "title": {
+            "la": "Caput XXX. De operariis in vinea."
+          }
+        },
+        {
+          "id": "c231",
+          "title": {
+            "la": "Caput XXXI. De filio, qui vineam intrare recusavit."
+          }
+        },
+        {
+          "id": "c232",
+          "title": {
+            "la": "Caput XXXII. De rege, qui fecit nuptias filio suo."
+          }
+        },
+        {
+          "id": "c233",
+          "title": {
+            "la": "Caput XXXIII. De die judicii."
+          }
+        },
+        {
+          "id": "c234",
+          "title": {
+            "la": "Caput XXXIV. De decem virginibus."
+          }
+        },
+        {
+          "id": "c235",
+          "title": {
+            "la": "Caput XXXV. De homine, qui tradidit servis suis bona sua."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": {
+        "la": "Liber tertius. In marcum"
+      },
+      "children": [
+        {
+          "id": "c236",
+          "title": {
+            "la": "Caput I. De homine habente manum aridam."
+          }
+        },
+        {
+          "id": "c237",
+          "title": {
+            "la": "Caput II. De daemoniaco possesso a legione."
+          }
+        },
+        {
+          "id": "c238",
+          "title": {
+            "la": "Caput III. De discipulis requiescentibus in aeserto."
+          }
+        },
+        {
+          "id": "c239",
+          "title": {
+            "la": "Caput IV. De navi in mari."
+          }
+        },
+        {
+          "id": "c240",
+          "title": {
+            "la": "Caput V. De surdo et muto sanato."
+          }
+        },
+        {
+          "id": "c241",
+          "title": {
+            "la": "Caput VI. De septem panibus et paucis pisciculis, et quatuor millibus hominum satiatis."
+          }
+        },
+        {
+          "id": "c242",
+          "title": {
+            "la": "Caput VII. De fermento Pharisaeorum et Herodis."
+          }
+        },
+        {
+          "id": "c243",
+          "title": {
+            "la": "Caput VIII. De manu, et pede scandalizante hominem."
+          }
+        },
+        {
+          "id": "c244",
+          "title": {
+            "la": "Caput IX. De paralytico demisso per tegulas ante Jesum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": {
+        "la": "Liber quartus. In lucam"
+      },
+      "children": [
+        {
+          "id": "c245",
+          "title": {
+            "la": "Caput i-ii. De viro et muliere curatis."
+          }
+        },
+        {
+          "id": "c246",
+          "title": {
+            "la": "Caput III. De commissura, et vestimento novo, et de utribus et vino."
+          }
+        },
+        {
+          "id": "c247",
+          "title": {
+            "la": "Caput IV. De electione duodecim apostolorum."
+          }
+        },
+        {
+          "id": "c248",
+          "title": {
+            "la": "Caput V. De arbore et ejus fructu."
+          }
+        },
+        {
+          "id": "c249",
+          "title": {
+            "la": "Caput VI. De servo centurionis."
+          }
+        },
+        {
+          "id": "c250",
+          "title": {
+            "la": "Caput VII. De muliere et Simone leproso."
+          }
+        },
+        {
+          "id": "c251",
+          "title": {
+            "la": "Caput VIII. De duobus debitoribus."
+          }
+        },
+        {
+          "id": "c252",
+          "title": {
+            "la": "Caput IX. De Jairo archisynagogo, et haemorroissa."
+          }
+        },
+        {
+          "id": "c253",
+          "title": {
+            "la": "Caput X. De tribus mortuis quos suscitavit Dominus."
+          }
+        },
+        {
+          "id": "c254",
+          "title": {
+            "la": "Caput XI. De septuaginta duobus discipulis."
+          }
+        },
+        {
+          "id": "c255",
+          "title": {
+            "la": "Caput XII. De homine qui incidit in latrones."
+          }
+        },
+        {
+          "id": "c256",
+          "title": {
+            "la": "Caput XIII. De Martha, et Maria sororibus Lazari."
+          }
+        },
+        {
+          "id": "c257",
+          "title": {
+            "la": "Caput XIV. De lumborum praecinctione."
+          }
+        },
+        {
+          "id": "c258",
+          "title": {
+            "la": "Caput XV. De eunte in via cum adversario."
+          }
+        },
+        {
+          "id": "c259",
+          "title": {
+            "la": "Caput XVI. De ficu plantata in vinea."
+          }
+        },
+        {
+          "id": "c260",
+          "title": {
+            "la": "Caput XVII. De muliere spiritum infirmitatis habente decem et octo annis."
+          }
+        },
+        {
+          "id": "c261",
+          "title": {
+            "la": "Caput XVIII. De hydropico sanato."
+          }
+        },
+        {
+          "id": "c262",
+          "title": {
+            "la": "Caput XIX. Invitatus ad nuptias non recumbat in primo loco."
+          }
+        },
+        {
+          "id": "c263",
+          "title": {
+            "la": "Caput XX. De homine, qui fecit coenam magnam et vocavit multos."
+          }
+        },
+        {
+          "id": "c264",
+          "title": {
+            "la": "Caput XXI. De ove, et drachma perditis."
+          }
+        },
+        {
+          "id": "c265",
+          "title": {
+            "la": "Caput XXII. De filio prodigo."
+          }
+        },
+        {
+          "id": "c266",
+          "title": {
+            "la": "Caput XXIII. De divite et ejus villico."
+          }
+        },
+        {
+          "id": "c267",
+          "title": {
+            "la": "Caput XXIV. De divite epulone, et Lazaro mendico."
+          }
+        },
+        {
+          "id": "c268",
+          "title": {
+            "la": "Caput XXV. De decem leprosis mundatis."
+          }
+        },
+        {
+          "id": "c269",
+          "title": {
+            "la": "Caput XXVI. De duobus in agro, quorum unus assumetur, et alter relinquetur."
+          }
+        },
+        {
+          "id": "c270",
+          "title": {
+            "la": "Caput XXVII. De Pharisae et publicano orantibus."
+          }
+        },
+        {
+          "id": "c271",
+          "title": {
+            "la": "Caput XXVIII. De caeco juxta viam illuminato."
+          }
+        },
+        {
+          "id": "c272",
+          "title": {
+            "la": "Caput XXIX. De Zachaeo."
+          }
+        },
+        {
+          "id": "c273",
+          "title": {
+            "la": "Caput XXX. De Domino flente super Jerusalem."
+          }
+        },
+        {
+          "id": "c274",
+          "title": {
+            "la": "Caput XXXI. De vinea et agricolis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": {
+        "la": "Liber quintus. In joannem. (Non est Hugonis, imo nec excerptionum compilatoris.)"
+      },
+      "children": [
+        {
+          "id": "c275",
+          "title": {
+            "la": "Capitulum I seu prologus."
+          }
+        },
+        {
+          "id": "c276",
+          "title": {
+            "la": "Capitulum II. (pars 1)"
+          }
+        },
+        {
+          "id": "c277",
+          "title": {
+            "la": "Capitulum II. (pars 2)"
+          }
+        },
+        {
+          "id": "c278",
+          "title": {
+            "la": "Capitulum II. (pars 3)"
+          }
+        },
+        {
+          "id": "c279",
+          "title": {
+            "la": "Capitulum II. (pars 4)"
+          }
+        },
+        {
+          "id": "c280",
+          "title": {
+            "la": "Capitulum II. (pars 5)"
+          }
+        },
+        {
+          "id": "c281",
+          "title": {
+            "la": "Capitulum II. (pars 6)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "title": {
+        "la": "Liber sextus allegoriae in epistolam pauli ad romanos"
+      },
+      "children": [
+        {
+          "id": "c282",
+          "title": {
+            "la": "Liber sextus allegoriae in epistolam pauli ad romanos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "title": {
+        "la": "Liber septimus. In epistolam pauli ad corinthios primam"
+      },
+      "children": [
+        {
+          "id": "c283",
+          "title": {
+            "la": "Liber septimus. In epistolam pauli ad corinthios primam"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "title": {
+        "la": "Liber octavus. In epistolam pauli ad corinthios secundam"
+      },
+      "children": [
+        {
+          "id": "c284",
+          "title": {
+            "la": "Liber octavus. In epistolam pauli ad corinthios secundam"
+          }
+        }
+      ]
+    }
+  ]
+}
