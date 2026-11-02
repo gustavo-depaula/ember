@@ -1,0 +1,147 @@
+{
+  "id": "newman-parochial-and-plain-sermons-8",
+  "cover": "classic",
+  "name": {
+    "en-US": "Parochial and Plain Sermons, Volume 8",
+    "pt-BR": "Sermões Paroquiais e Simples, Volume 8"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Volume 8 of Newman's Parochial and Plain Sermons: 18 of the sermons he preached at St. Mary's, Oxford and Littlemore as an Anglican vicar. Newman reissued the series unchanged in 1868, as a Catholic, through his friend William John Copeland; this is the Longmans text. The sermons are on holiness, faith, the Christian year, the saints and the life of obedience.",
+    "pt-BR": "Volume 8 dos Parochial and Plain Sermons de Newman: 18 dos sermões que ele pregou em Santa Maria, Oxford, e em Littlemore, como vigário anglicano. Newman reeditou a série sem alterações em 1868, já católico, por meio do amigo William John Copeland; este é o texto da Longmans. Os sermões tratam da santidade, da fé, do ano cristão, dos santos e da vida de obediência."
+  },
+  "composed": "1843",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/parochial-and-plain-sermons-8",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman, ed. William John Copeland (Rivingtons, 1868; Newman Reader)",
+      "year": 1868
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/parochial/volume8/index.html",
+      "edition": "Parochial and Plain Sermons, vol. 8 (London: Rivingtons, 1868 edition of the series first published 1834-1843), as transcribed by the Newman Reader.",
+      "description": "18 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Anglican-period sermons, reissued by Newman in 1868. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sermon-1",
+      "title": {
+        "en-US": "Sermon 1. Reverence in Worship"
+      }
+    },
+    {
+      "id": "sermon-2",
+      "title": {
+        "en-US": "Sermon 2. Divine Calls"
+      }
+    },
+    {
+      "id": "sermon-3",
+      "title": {
+        "en-US": "Sermon 3. The Trial of Saul"
+      }
+    },
+    {
+      "id": "sermon-4",
+      "title": {
+        "en-US": "Sermon 4. The Call of David"
+      }
+    },
+    {
+      "id": "sermon-5",
+      "title": {
+        "en-US": "Sermon 5. Curiosity a Temptation to Sin"
+      }
+    },
+    {
+      "id": "sermon-6",
+      "title": {
+        "en-US": "Sermon 6. Miracles no Remedy for Unbelief"
+      }
+    },
+    {
+      "id": "sermon-7",
+      "title": {
+        "en-US": "Sermon 7. Josiah, a Pattern for the Ignorant"
+      }
+    },
+    {
+      "id": "sermon-8",
+      "title": {
+        "en-US": "Sermon 8. Inward Witness to the Truth of the Gospel"
+      }
+    },
+    {
+      "id": "sermon-9",
+      "title": {
+        "en-US": "Sermon 9. Jeremiah, a Lesson for the Disappointed"
+      }
+    },
+    {
+      "id": "sermon-10",
+      "title": {
+        "en-US": "Sermon 10. Endurance of the World's Censure"
+      }
+    },
+    {
+      "id": "sermon-11",
+      "title": {
+        "en-US": "Sermon 11. Doing Glory to God in Pursuits of the World"
+      }
+    },
+    {
+      "id": "sermon-12",
+      "title": {
+        "en-US": "Sermon 12. Vanity of Human Glory"
+      }
+    },
+    {
+      "id": "sermon-13",
+      "title": {
+        "en-US": "Sermon 13. Truth Hidden when not Sought After"
+      }
+    },
+    {
+      "id": "sermon-14",
+      "title": {
+        "en-US": "Sermon 14. Obedience to God the Way to Faith in Christ"
+      }
+    },
+    {
+      "id": "sermon-15",
+      "title": {
+        "en-US": "Sermon 15. Sudden Conversions"
+      }
+    },
+    {
+      "id": "sermon-16",
+      "title": {
+        "en-US": "Sermon 16. The Shepherd of Our Souls"
+      }
+    },
+    {
+      "id": "sermon-17",
+      "title": {
+        "en-US": "Sermon 17. Religious Joy"
+      }
+    },
+    {
+      "id": "sermon-18",
+      "title": {
+        "en-US": "Sermon 18. Ignorance of Evil"
+      }
+    }
+  ]
+}
