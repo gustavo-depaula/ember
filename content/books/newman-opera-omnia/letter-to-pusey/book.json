@@ -1,0 +1,75 @@
+{
+  "id": "newman-letter-to-pusey",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Letter Addressed to the Rev. E. B. Pusey, D.D., on Occasion of his Eirenicon",
+    "pt-BR": "Carta ao Rev. E. B. Pusey por Ocasião do seu Eirenicon"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's reply of 1865 to Pusey's Eirenicon, which proposed reunion of Canterbury with Rome and charged the Catholic Church with excessive devotion to the Virgin. Newman sets out what Catholics believe of Mary as taught by the Fathers, distinguishes belief from devotion, and answers the Anglican misconceptions. With his notes.",
+    "pt-BR": "A resposta de Newman (1865) ao Eirenicon de Pusey, que propunha a reunião de Cantuária com Roma e acusava a Igreja Católica de devoção excessiva à Virgem. Newman expõe o que os católicos creem de Maria segundo os Padres, distingue crença e devoção e responde aos equívocos anglicanos. Com as notas do autor."
+  },
+  "composed": "1865",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/letter-to-pusey",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (Longmans, uniform edition, Difficulties of Anglicans vol. 2; Newman Reader)",
+      "year": 1866
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/anglicans/volume2/pusey/index.html",
+      "edition": "A Letter addressed to the Rev. E. B. Pusey, D.D. on occasion of his Eirenicon (London: Longmans, Green, 1866; reprinted in Certain Difficulties felt by Anglicans, vol. 2), as transcribed by the Newman Reader.",
+      "description": "6 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes.  Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "section-1",
+      "title": {
+        "en-US": "§ 1. Introductory Remarks"
+      }
+    },
+    {
+      "id": "section-2",
+      "title": {
+        "en-US": "§ 2. Remarks on various statements introduced into the Eirenicon"
+      }
+    },
+    {
+      "id": "section-3",
+      "title": {
+        "en-US": "§ 3. The Belief of Catholics concerning the Blessed Virgin, as distinct from their Devotion to her"
+      }
+    },
+    {
+      "id": "section-4",
+      "title": {
+        "en-US": "§ 4. Belief of Catholics concerning the Blessed Virgin, as coloured by their Devotion to her"
+      }
+    },
+    {
+      "id": "section-5",
+      "title": {
+        "en-US": "§ 5. Anglican Misconceptions and Catholic Excesses in Devotion to the Blessed Virgin"
+      }
+    },
+    {
+      "id": "notes",
+      "title": {
+        "en-US": "Notes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "letter-to-pusey",
+ "id": "newman-letter-to-pusey",
+ "name": "A Letter Addressed to the Rev. E. B. Pusey, D.D., on Occasion of his Eirenicon",
+ "name_pt": "Carta ao Rev. E. B. Pusey por Ocasião do seu Eirenicon",
+ "desc": "Newman's reply of 1865 to Pusey's Eirenicon, which proposed reunion of Canterbury with Rome and charged the Catholic Church with excessive devotion to the Virgin. Newman sets out what Catholics believe of Mary as taught by the Fathers, distinguishes belief from devotion, and answers the Anglican misconceptions. With his notes.",
+ "desc_pt": "A resposta de Newman (1865) ao Eirenicon de Pusey, que propunha a reunião de Cantuária com Roma e acusava a Igreja Católica de devoção excessiva à Virgem. Newman expõe o que os católicos creem de Maria segundo os Padres, distingue crença e devoção e responde aos equívocos anglicanos. Com as notas do autor.",
+ "composed": "1865",
+ "editor": "John Henry Newman (Longmans, uniform edition, Difficulties of Anglicans vol. 2; Newman Reader)",
+ "year": 1866,
+ "index": "anglicans/volume2/pusey/index.html",
+ "edition": "A Letter addressed to the Rev. E. B. Pusey, D.D. on occasion of his Eirenicon (London: Longmans, Green, 1866; reprinted in Certain Difficulties felt by Anglicans, vol. 2), as transcribed by the Newman Reader.",
+ "note": "",
+ "chapters": [
+  [
+   "anglicans/volume2/pusey/section1.html",
+   "section-1",
+   "§ 1. Introductory Remarks"
+  ],
+  [
+   "anglicans/volume2/pusey/section2.html",
+   "section-2",
+   null
+  ],
+  [
+   "anglicans/volume2/pusey/section3.html",
+   "section-3",
+   null
+  ],
+  [
+   "anglicans/volume2/pusey/section4.html",
+   "section-4",
+   null
+  ],
+  [
+   "anglicans/volume2/pusey/section5.html",
+   "section-5",
+   null
+  ],
+  [
+   "anglicans/volume2/pusey/notes.html",
+   "notes",
+   "Notes"
+  ]
+ ]
+}
