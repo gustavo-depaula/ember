@@ -1,0 +1,177 @@
+{
+  "id": "newman-idea-of-a-university",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Idea of a University",
+    "pt-BR": "A Ideia de uma Universidade"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's nine discourses on university education, delivered in Dublin in 1852 for the new Catholic University of Ireland: theology as a branch of knowledge, knowledge as its own end, liberal education and the duties of the Church toward knowledge. Ten occasional essays on university subjects (1858) follow: Christianity and letters, literature, elementary studies, physical science, university preaching, and discipline of mind.",
+    "pt-BR": "Os nove discursos de Newman sobre a educação universitária, proferidos em Dublin em 1852 para a nova Universidade Católica da Irlanda: a teologia como ramo do saber, o saber como fim em si mesmo, a educação liberal e os deveres da Igreja para com o saber. Seguem-se dez ensaios sobre temas universitários (1858): cristianismo e letras, literatura, estudos elementares, ciência física, pregação universitária e disciplina da mente."
+  },
+  "composed": "1852-1873",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/idea-of-a-university",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (uniform edition of 1873; Newman Reader)",
+      "year": 1873
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/idea/index.html",
+      "edition": "The Idea of a University defined and illustrated (London: Longmans, Green, 1873 edition and later impressions), as transcribed by the Newman Reader.",
+      "description": "20 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes.  Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "discourses",
+      "title": {
+        "en-US": "Nine Discourses on the Scope and Nature of University Education",
+        "pt-BR": "Nove discursos sobre o alcance e a natureza da educação universitária"
+      },
+      "children": [
+        {
+          "id": "preface",
+          "title": {
+            "en-US": "Preface"
+          }
+        },
+        {
+          "id": "discourse-1",
+          "title": {
+            "en-US": "Discourse 1. Introductory"
+          }
+        },
+        {
+          "id": "discourse-2",
+          "title": {
+            "en-US": "Discourse 2. Theology a Branch of Knowledge"
+          }
+        },
+        {
+          "id": "discourse-3",
+          "title": {
+            "en-US": "Discourse 3. Bearing of Theology on other Branches of Knowledge"
+          }
+        },
+        {
+          "id": "discourse-4",
+          "title": {
+            "en-US": "Discourse 4. Bearing of Other Branches of Knowledge on Theology"
+          }
+        },
+        {
+          "id": "discourse-5",
+          "title": {
+            "en-US": "Discourse 5. Knowledge its Own End"
+          }
+        },
+        {
+          "id": "discourse-6",
+          "title": {
+            "en-US": "Discourse 6. Knowledge Viewed in Relation to Learning"
+          }
+        },
+        {
+          "id": "discourse-7",
+          "title": {
+            "en-US": "Discourse 7. Knowledge Viewed in Relation to Professional Skill"
+          }
+        },
+        {
+          "id": "discourse-8",
+          "title": {
+            "en-US": "Discourse 8. Knowledge Viewed in relation to Religion"
+          }
+        },
+        {
+          "id": "discourse-9",
+          "title": {
+            "en-US": "Discourse 9. Duties of the Church towards Knowledge"
+          }
+        }
+      ]
+    },
+    {
+      "id": "university-subjects",
+      "title": {
+        "en-US": "University Subjects",
+        "pt-BR": "Temas universitários"
+      },
+      "children": [
+        {
+          "id": "article-1",
+          "title": {
+            "en-US": "1. Christianity and Letters"
+          }
+        },
+        {
+          "id": "article-2",
+          "title": {
+            "en-US": "2. Literature"
+          }
+        },
+        {
+          "id": "article-3",
+          "title": {
+            "en-US": "3. English Catholic Literature"
+          }
+        },
+        {
+          "id": "article-4",
+          "title": {
+            "en-US": "4. Elementary Studies"
+          }
+        },
+        {
+          "id": "article-5",
+          "title": {
+            "en-US": "5. A Form of Infidelity of the Day"
+          }
+        },
+        {
+          "id": "article-6",
+          "title": {
+            "en-US": "6. University Preaching"
+          }
+        },
+        {
+          "id": "article-7",
+          "title": {
+            "en-US": "7. Christianity and Physical Science"
+          }
+        },
+        {
+          "id": "article-8",
+          "title": {
+            "en-US": "8. Christianity and Scientific Investigation"
+          }
+        },
+        {
+          "id": "article-9",
+          "title": {
+            "en-US": "9. Discipline of Mind"
+          }
+        },
+        {
+          "id": "article-10",
+          "title": {
+            "en-US": "10. Christianity and Medial Science"
+          }
+        }
+      ]
+    }
+  ]
+}

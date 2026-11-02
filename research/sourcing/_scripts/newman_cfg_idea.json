@@ -1,0 +1,130 @@
+{
+ "slug": "idea-of-a-university",
+ "id": "newman-idea-of-a-university",
+ "name": "The Idea of a University",
+ "name_pt": "A Ideia de uma Universidade",
+ "desc": "Newman's nine discourses on university education, delivered in Dublin in 1852 for the new Catholic University of Ireland: theology as a branch of knowledge, knowledge as its own end, liberal education and the duties of the Church toward knowledge. Ten occasional essays on university subjects (1858) follow: Christianity and letters, literature, elementary studies, physical science, university preaching, and discipline of mind.",
+ "desc_pt": "Os nove discursos de Newman sobre a educação universitária, proferidos em Dublin em 1852 para a nova Universidade Católica da Irlanda: a teologia como ramo do saber, o saber como fim em si mesmo, a educação liberal e os deveres da Igreja para com o saber. Seguem-se dez ensaios sobre temas universitários (1858): cristianismo e letras, literatura, estudos elementares, ciência física, pregação universitária e disciplina da mente.",
+ "composed": "1852-1873",
+ "editor": "John Henry Newman (uniform edition of 1873; Newman Reader)",
+ "year": 1873,
+ "index": "idea/index.html",
+ "edition": "The Idea of a University defined and illustrated (London: Longmans, Green, 1873 edition and later impressions), as transcribed by the Newman Reader.",
+ "note": "",
+ "parts": [
+  {
+   "id": "discourses",
+   "title": "Nine Discourses on the Scope and Nature of University Education",
+   "title_pt": "Nove discursos sobre o alcance e a natureza da educação universitária",
+   "from": "preface"
+  },
+  {
+   "id": "university-subjects",
+   "title": "University Subjects",
+   "title_pt": "Temas universitários",
+   "from": "article-1"
+  }
+ ],
+ "chapters": [
+  [
+   "idea/preface.html",
+   "preface",
+   null
+  ],
+  [
+   "idea/discourse1.html",
+   "discourse-1",
+   null
+  ],
+  [
+   "idea/discourse2.html",
+   "discourse-2",
+   null
+  ],
+  [
+   "idea/discourse3.html",
+   "discourse-3",
+   null
+  ],
+  [
+   "idea/discourse4.html",
+   "discourse-4",
+   null
+  ],
+  [
+   "idea/discourse5.html",
+   "discourse-5",
+   null
+  ],
+  [
+   "idea/discourse6.html",
+   "discourse-6",
+   null
+  ],
+  [
+   "idea/discourse7.html",
+   "discourse-7",
+   null
+  ],
+  [
+   "idea/discourse8.html",
+   "discourse-8",
+   null
+  ],
+  [
+   "idea/discourse9.html",
+   "discourse-9",
+   null
+  ],
+  [
+   "idea/article1.html",
+   "article-1",
+   null
+  ],
+  [
+   "idea/article2.html",
+   "article-2",
+   null
+  ],
+  [
+   "idea/article3.html",
+   "article-3",
+   null
+  ],
+  [
+   "idea/article4.html",
+   "article-4",
+   null
+  ],
+  [
+   "idea/article5.html",
+   "article-5",
+   null
+  ],
+  [
+   "idea/article6.html",
+   "article-6",
+   null
+  ],
+  [
+   "idea/article7.html",
+   "article-7",
+   null
+  ],
+  [
+   "idea/article8.html",
+   "article-8",
+   null
+  ],
+  [
+   "idea/article9.html",
+   "article-9",
+   null
+  ],
+  [
+   "idea/article10.html",
+   "article-10",
+   null
+  ]
+ ]
+}
