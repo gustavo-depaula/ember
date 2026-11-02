@@ -1,0 +1,150 @@
+{
+  "id": "avila-audi-filia-1556",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Audi, filia (1556): Avisos y reglas cristianas",
+    "en-US": "Audi, Filia (1556): Christian Counsels and Rules",
+    "pt-BR": "Audi, filia (1556): Avisos e regras cristãs"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Primera redacción impresa del «Audi, filia» (Alcalá de Henares, Juan de Brocar, 1556): «Avisos y reglas cristianas para los que desean servir a Dios, aprovechando en el camino espiritual, compuestas sobre aquel verso de David: Audi, filia, et vide, et inclina aurem tuam», con la dedicatoria al conde de Palma, la Breve regla de vida cristiana y los seis capítulos mayores sobre las seis palabras del verso. Edición de Luis Sala Balust (1963) con ortografía del siglo XVI; los epígrafes entre corchetes son del editor. Distinta de la redacción de 1574, que tiene su propio libro.",
+    "en-US": "The first printed redaction of the «Audi, filia» (Alcalá de Henares, Juan de Brocar, 1556): «Christian counsels and rules for those who wish to serve God, advancing on the spiritual way, composed on David's verse: Audi, filia, et vide, et inclina aurem tuam», with the dedication to the Count of Palma, the Brief Rule of Christian Life and six major parts on the six words of the verse. Luis Sala Balust's edition (1963) in sixteenth-century spelling; the headings in brackets are the editor's. Distinct from the 1574 redaction, which has its own book.",
+    "pt-BR": "Primeira redação impressa do «Audi, filia» (Alcalá de Henares, 1556): avisos e regras cristãs sobre o verso de Davi, com a dedicatória ao conde de Palma e a Breve regra de vida cristã."
+  },
+  "composed": "1535–1556",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-avila/audi-filia-1556",
+  "editions": {
+    "es-ES": {
+      "editor": "Luis Sala Balust (Barcelona: Juan Flors)",
+      "year": 1963
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/avisosyreglascri00avil",
+      "edition": "Maestro Juan de Ávila, Avisos y reglas cristianas sobre aquel verso de David «Audi, filia», ed. Luis Sala Balust, Barcelona: Juan Flors, 1963 (Espirituales españoles, serie A, tomo X); archive.org scan from Princeton Theological Seminary, OCR.",
+      "description": "The text of the 1556 Alcalá edition, as edited by Sala Balust: dedication, bookseller's note, Breve regla and the six parts, split at the editor's headings. Not imported: the editor's introduction, the three appendices (Pedro Fernández de Córdoba's life of doña Sancha Carrillo, the censure, the 1573 text) and the indexes. The editor's scripture-reference notes are listed at the end of the chapters where the OCR kept them (about two thirds); their markers in the text are lost. Folio marks of the 1556 print and its line-break slashes are removed.",
+      "tier": "B",
+      "tierEvidence": "The text is Ávila's of 1556 (public domain); the scan is freely posted on archive.org with no rights statement."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedicatoria",
+      "title": {
+        "es-ES": "Al muy ilustre señor don Luis Puerto Carrero, conde de Palma"
+      }
+    },
+    {
+      "id": "al-lector",
+      "title": {
+        "es-ES": "Luis Gutiérrez, librero, al devoto lector"
+      }
+    },
+    {
+      "id": "breve-regla",
+      "title": {
+        "es-ES": "Breve regla de vida cristiana"
+      }
+    },
+    {
+      "id": "p1-mundo",
+      "title": {
+        "es-ES": "I. Audi, filia: el lenguaje del mundo y la honra vana"
+      }
+    },
+    {
+      "id": "p1-carne",
+      "title": {
+        "es-ES": "I. Audi, filia: el lenguaje de la carne"
+      }
+    },
+    {
+      "id": "p1-demonio",
+      "title": {
+        "es-ES": "I. Audi, filia: el lenguaje del demonio"
+      }
+    },
+    {
+      "id": "p1-oir-a-dios",
+      "title": {
+        "es-ES": "I. Audi, filia: a quién debemos oír"
+      }
+    },
+    {
+      "id": "p2-conocimiento",
+      "title": {
+        "es-ES": "II. Et vide: del propio conocimiento"
+      }
+    },
+    {
+      "id": "p2-poco-conocimiento",
+      "title": {
+        "es-ES": "II. Et vide: del poco conocimiento de sí mismo y del verdadero de Jesucristo"
+      }
+    },
+    {
+      "id": "p2-projimos",
+      "title": {
+        "es-ES": "II. Et vide: con qué ojos hemos de mirar los prójimos"
+      }
+    },
+    {
+      "id": "p3-revelaciones",
+      "title": {
+        "es-ES": "III. Et inclina aurem tuam: de las malas revelaciones del demonio"
+      }
+    },
+    {
+      "id": "p3-discrecion",
+      "title": {
+        "es-ES": "III. Et inclina aurem tuam: avisos de discreción de espíritus"
+      }
+    },
+    {
+      "id": "p3-director",
+      "title": {
+        "es-ES": "III. Et inclina aurem tuam: la soberbia, causa de engaños; el director espiritual"
+      }
+    },
+    {
+      "id": "p3-orejas-de-dios",
+      "title": {
+        "es-ES": "III. Et inclina aurem tuam: cómo ninguna criatura inclina su oreja a Dios con la diligencia con que Él la inclina a sus criaturas"
+      }
+    },
+    {
+      "id": "p3-mirada-de-dios",
+      "title": {
+        "es-ES": "III. Et inclina aurem tuam: la mirada de Dios sobre nosotros"
+      }
+    },
+    {
+      "id": "p4-pueblo",
+      "title": {
+        "es-ES": "IV. Et obliviscere populum tuum"
+      }
+    },
+    {
+      "id": "p5-casa",
+      "title": {
+        "es-ES": "V. Et domum patris tui"
+      }
+    },
+    {
+      "id": "p6-hermosura",
+      "title": {
+        "es-ES": "VI. Et concupiscet Rex decorem tuum"
+      }
+    }
+  ]
+}
