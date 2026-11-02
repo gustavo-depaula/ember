@@ -1,0 +1,58 @@
+{
+  "id": "bossuet-conference-with-m-claude-1842",
+  "cover": "classic",
+  "name": {
+    "en-US": "A Conference on the Authority of the Church, with Reflections on a Treatise of M. Claude",
+    "pt-BR": "Uma conferência sobre a autoridade da Igreja, com Reflexões sobre um tratado do Sr. Claude"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "en-US": "The conference of 1678 between Bossuet and the Calvinist minister John Claude on the authority of the Church, with Bossuet’s Reflections on Claude’s treatise, in the English translation published in 1842 with the translators’ prefaces.",
+    "pt-BR": "A conferência de 1678 entre Bossuet e o ministro calvinista Jean Claude sobre a autoridade da Igreja, com as Reflexões de Bossuet sobre o tratado de Claude, na tradução inglesa publicada em 1842, com os prefácios dos tradutores."
+  },
+  "composed": "1678",
+  "languages": [
+    "en-US"
+  ],
+  "work": "bossuet/conference-avec-m-claude",
+  "editions": {
+    "en-US": {
+      "translator": "Anonymous (London/Dublin)",
+      "year": 1842
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/AConferenceAuthorityOfTheChurch",
+      "edition": "A Conference on the Authority of the Church, between Bossuet and John Claude, together with Reflections on a Treatise of M. Claude, English translation, 1842 (archive.org AConferenceAuthorityOfTheChurch; OCR text, cleaned)",
+      "description": "A separate book because its sections do not follow the French pages one for one.",
+      "tier": "A",
+      "tierEvidence": "Published 1842."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prefaces",
+      "title": {
+        "en-US": "Prefaces"
+      }
+    },
+    {
+      "id": "conference",
+      "title": {
+        "en-US": "The Conference"
+      }
+    },
+    {
+      "id": "reflections",
+      "title": {
+        "en-US": "Reflections on a Treatise of M. Claude"
+      }
+    }
+  ]
+}
