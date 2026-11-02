@@ -1,0 +1,641 @@
+{
+  "id": "sales-lettres-xxi",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres de saint François de Sales, tome XXI",
+    "en-US": "Letters of St. Francis de Sales, vol. XXI",
+    "pt-BR": "Cartas de São Francisco de Sales, tomo XXI"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les lettres de saint François de Sales du tome XXI de l’édition d’Annecy (), une lettre par chapitre, groupées par année : numéro, destinataire, résumé et date de l’édition critique, puis le texte en orthographe d’époque.",
+    "en-US": "The letters of St. Francis de Sales in volume XXI of the Annecy edition (), one letter per chapter and grouped by year: the edition’s number, addressee, summary and date, then the text in period spelling.",
+    "pt-BR": "As cartas de São Francisco de Sales do tomo XXI da edição de Annecy ()."
+  },
+  "composed": "",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/lettres-xxi",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1920
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/francois_de_sales_lettres_tome_11.html",
+      "edition": "Œuvres de saint François de Sales, édition d’Annecy, tome XXI (Lettres), Annecy: J. Niérat, 1900-1923; digital transcription in original spelling by JesusMarie.com.",
+      "description": "The editors’ letter numbers, addressee headings, summaries and dates are kept; footnotes, variants, the glossary, the indexes and the appendix of letters addressed to Francis are not included.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition appeared in 1900-1923, before 1930. The JesusMarie transcription is of his own text with the edition’s headings."
+    }
+  ],
+  "toc": [
+    {
+      "id": "annee-01",
+      "title": {
+        "fr-FR": "Lettres"
+      },
+      "children": [
+        {
+          "id": "lettre-1965",
+          "title": {
+            "fr-FR": "Lettre MCMLXV. À la Soeur Fichet Religieuse de la Visitation d'Annecy"
+          }
+        },
+        {
+          "id": "lettre-1966",
+          "title": {
+            "fr-FR": "Lettre MCMLXVI. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-1967",
+          "title": {
+            "fr-FR": "Lettre MCMLXVII. À Madame de Charmoisy"
+          }
+        },
+        {
+          "id": "lettre-1968",
+          "title": {
+            "fr-FR": "Lettre MCMLXVIII. À M. Clériadus de Genève-Lullin"
+          }
+        },
+        {
+          "id": "lettre-1969",
+          "title": {
+            "fr-FR": "Lettre MCMLXIX. Au Père Claude-Louis-Nicolas de Quoex Prieur du Monastère de Talloires"
+          }
+        },
+        {
+          "id": "lettre-1970",
+          "title": {
+            "fr-FR": "Lettre MCMLXX. À M. René Gros de Saint-Joyre ( L7, Note 783 )"
+          }
+        },
+        {
+          "id": "lettre-1971",
+          "title": {
+            "fr-FR": "Lettre MCMLXXI. À un Gentilhomme de Dijon"
+          }
+        },
+        {
+          "id": "lettre-1972",
+          "title": {
+            "fr-FR": "Lettre MCMLXXII. À un Ami"
+          }
+        },
+        {
+          "id": "lettre-1973",
+          "title": {
+            "fr-FR": "Lettre MCMLXXIII. À un Étudiant"
+          }
+        },
+        {
+          "id": "lettre-1974",
+          "title": {
+            "fr-FR": "Lettre MCMLXXIV. À un Gentilhomme"
+          }
+        },
+        {
+          "id": "lettre-1975",
+          "title": {
+            "fr-FR": "Lettre MCMLXXV. À un Inconnu"
+          }
+        },
+        {
+          "id": "lettre-1976",
+          "title": {
+            "fr-FR": "Lettre MCMLXXVI. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1977",
+          "title": {
+            "fr-FR": "Lettre MCMLXXVII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1978",
+          "title": {
+            "fr-FR": "Lettre MCMLXXVIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1979",
+          "title": {
+            "fr-FR": "Lettre MCMLXXIX. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1980",
+          "title": {
+            "fr-FR": "Lettre MCMLXXX. À -Une Dame"
+          }
+        },
+        {
+          "id": "lettre-1981",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXI. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1982",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXII. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1983",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXIII. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1984",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXIV. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1985",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXV. À une Demoiselle"
+          }
+        },
+        {
+          "id": "lettre-1986",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXVI. À une Demoiselle"
+          }
+        },
+        {
+          "id": "lettre-1987",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXVII. À une Demoiselle"
+          }
+        },
+        {
+          "id": "lettre-1988",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXVIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1989",
+          "title": {
+            "fr-FR": "Lettre MCMLXXXIX. À une Inconnue"
+          }
+        },
+        {
+          "id": "lettre-1990",
+          "title": {
+            "fr-FR": "Lettre MCMXC. À une Inconnue"
+          }
+        },
+        {
+          "id": "lettre-1991",
+          "title": {
+            "fr-FR": "Lettre MCMXCI. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1992",
+          "title": {
+            "fr-FR": "Lettre MCMXCII. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1993",
+          "title": {
+            "fr-FR": "Lettre MCMXCIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-1994",
+          "title": {
+            "fr-FR": "Lettre MCMXCIV. À une Demoiselle"
+          }
+        },
+        {
+          "id": "lettre-1995",
+          "title": {
+            "fr-FR": "Lettre MCMXCV. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1996",
+          "title": {
+            "fr-FR": "Lettre MCMXCVI. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-1997",
+          "title": {
+            "fr-FR": "Lettre MCMXCVII. À une Demoiselle"
+          }
+        },
+        {
+          "id": "lettre-1998",
+          "title": {
+            "fr-FR": "Lettre MCMXCVIII. À une Demoiselle"
+          }
+        },
+        {
+          "id": "lettre-1999",
+          "title": {
+            "fr-FR": "Lettre MCMXCIX. À la Même"
+          }
+        },
+        {
+          "id": "lettre-2000",
+          "title": {
+            "fr-FR": "Lettre MM. À une Demoiselle"
+          }
+        },
+        {
+          "id": "lettre-2001",
+          "title": {
+            "fr-FR": "Lettre MMI. À une Inconnue"
+          }
+        },
+        {
+          "id": "lettre-2002",
+          "title": {
+            "fr-FR": "Lettre MMII. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-2003",
+          "title": {
+            "fr-FR": "Lettre MMIII. À une Cousine"
+          }
+        },
+        {
+          "id": "lettre-2004",
+          "title": {
+            "fr-FR": "Lettre MMIV. À une Novice de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-2005",
+          "title": {
+            "fr-FR": "Lettre MMV. À une Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-2006",
+          "title": {
+            "fr-FR": "Lettre MMVI. À une Religieuse"
+          }
+        },
+        {
+          "id": "lettre-2007",
+          "title": {
+            "fr-FR": "Lettre MMVII. À une Religieuse"
+          }
+        },
+        {
+          "id": "lettre-2008",
+          "title": {
+            "fr-FR": "Lettre MMVIII. À une Religieuse"
+          }
+        },
+        {
+          "id": "lettre-2009",
+          "title": {
+            "fr-FR": "Lettre MMIX. À une Religieuse"
+          }
+        },
+        {
+          "id": "lettre-2010",
+          "title": {
+            "fr-FR": "Lettre MMX. À une Religieuse de l'Abbaye de Sainte-Catherine"
+          }
+        },
+        {
+          "id": "lettre-2048",
+          "title": {
+            "fr-FR": "Lettre MMXLVIII. À Monseigneur Jean-Pierre Camus Evêque de Belley"
+          }
+        },
+        {
+          "id": "lettre-2050",
+          "title": {
+            "fr-FR": "Lettre MML. Au Même"
+          }
+        },
+        {
+          "id": "lettre-2051",
+          "title": {
+            "fr-FR": "Lettre MMLI. À une Religieuse de la Visitation"
+          }
+        },
+        {
+          "id": "lettre-2052",
+          "title": {
+            "fr-FR": "Lettre MMLII. À la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-2053",
+          "title": {
+            "fr-FR": "Lettre MMLIII. À la Même"
+          }
+        },
+        {
+          "id": "lettre-2054",
+          "title": {
+            "fr-FR": "Lettre MMLIV. À la Même"
+          }
+        },
+        {
+          "id": "lettre-2055",
+          "title": {
+            "fr-FR": "Lettre MMLV. À une Personne Inconnue"
+          }
+        },
+        {
+          "id": "lettre-2056",
+          "title": {
+            "fr-FR": "Lettre MMLVI. À une Personne Inconnue"
+          }
+        },
+        {
+          "id": "lettre-2057",
+          "title": {
+            "fr-FR": "Lettre MMLVII. À une Dame"
+          }
+        },
+        {
+          "id": "lettre-2058",
+          "title": {
+            "fr-FR": "Lettre MMLVIII. Adresse d'Une Lettre"
+          }
+        },
+        {
+          "id": "lettre-2059",
+          "title": {
+            "fr-FR": "Lettre MMLIX. Adresse d'Une Lettre a la Mère Favre"
+          }
+        },
+        {
+          "id": "lettre-2060",
+          "title": {
+            "fr-FR": "Lettre MMLX. Dans le Trouble et l'Inquiétude, Remettre Tout à Dieu. - le \" Coup de Fouet \" de sa Main Divine. - Retranchements à Faire"
+          }
+        },
+        {
+          "id": "lettre-2061",
+          "title": {
+            "fr-FR": "Lettre MMLXI. L'Âme Qui Ne Veut Pas Offenser Dieu Ne Doit Pas Pointiller Autour de ses Actions. - \" un des Grans Articles du Prouffit Spirituel. \" - la Lecture Pieuse"
+          }
+        },
+        {
+          "id": "lettre-2062",
+          "title": {
+            "fr-FR": "Lettre MMLXII. Pour Quel Motif Surtout Aimer les Parents. - les Vertus \" de Cœur \" et les Vertus Apparentes. - Dans les Maladies Spirituelles et Corporelles, User des Remèdes Voulus par Dieu, Mais S'en Remettre, pour le Résultat, à son Bon Plaisir. - un Sentiment et un Ardent Désir du Saint"
+          }
+        },
+        {
+          "id": "lettre-2063",
+          "title": {
+            "fr-FR": "Lettre MMLXIII. Les Effets de l'Amour Pur à l'Égard du Prochain Expliqués par une Belle Comparaison. - Comment Cet Amour Parfait Se Communique. - le Corail et l'Amitié"
+          }
+        },
+        {
+          "id": "lettre-2064",
+          "title": {
+            "fr-FR": "Lettre MMLXIV. Pourquoi la Souffrance, et Comment l'Endurer. - Trois Remèdes Contre le Trouble Qu'apportent à l'Âme les Évènements de Cette Vie"
+          }
+        },
+        {
+          "id": "lettre-2065",
+          "title": {
+            "fr-FR": "Lettre MMLXV. Respect Qu'on Doit Porter aux Prêtres. - le Directeur Veut Pouvoir Manier l'Âme de la Baronne. - les Actes d'Amour et de Confiance Seront le Remède à Tous ses Maux Intérieurs. - Exemple de la Femme Mariée, Proposé à l'Âme Épouse de Jésus-Christ"
+          }
+        },
+        {
+          "id": "lettre-2066",
+          "title": {
+            "fr-FR": "Lettre MMLXVI. Un Mot de Saint Augustin. - Dieu Répond à Tous Ceux Qui Lui Demandent Conseil ; d'Où Vient Que Beaucoup N'entendent Pas sa Réponse ? - le Serviteur Fidèle. - Comment Combattre la Vaine Gloire. - l'Obéissance Amoureuse et la Simplicité"
+          }
+        },
+        {
+          "id": "lettre-2067",
+          "title": {
+            "fr-FR": "Lettre MMLXVII. Les Vœux du Père pour Lui-Même et pour sa Fille Spirituelle. - la Mortification Dans les Repas. - Quel Est le Seul Désir Qui Remplit le Cœur de François de Sales"
+          }
+        },
+        {
+          "id": "lettre-2068",
+          "title": {
+            "fr-FR": "Lettre MMLXVIII. Aimer Indistinctement Toutes les Croix Qui Nous Arrivent. - Quelles Sont les Meilleures. - les Croix \" un Peu Mignardes \". - Ce Qui Donne le Prix à la Croix"
+          }
+        },
+        {
+          "id": "lettre-2069",
+          "title": {
+            "fr-FR": "Lettre MMLXIX. L'Humilité et l'Amour du Mépris, Pierre de Touche de l'Avancement de l'Âme. - Quelle Doit Être son Attitude Dans les Outrages et les Louanges.- Moyen d'Attirer en Soi les Grâces de Dieu. - l'Acceptation de Notre Misère Nous Approche de Lui"
+          }
+        },
+        {
+          "id": "lettre-2070",
+          "title": {
+            "fr-FR": "Lettre MMLXX. Compassion Surnaturelle du Saint pour les Souffrances de sa Fille. - les Holocaustes de l'Ancienne Loi et l'Écorchement du Cœur. - Dieu Nous Aime : Qu'importe le Reste ? - Jésus-Christ a Tout Souffert pour S'unir à son Épouse ; Que Doit Faire Celle-Ci pour Lui \" Tesmoigner ses Amours Reciproques \" et le Baiser ?"
+          }
+        },
+        {
+          "id": "lettre-2071",
+          "title": {
+            "fr-FR": "Lettre MMLXXI. S'abandonner à Notre-Seigneur et Dépendre de sa Providence. – une \" Resolue Resolution \". - en Quoi Consiste l'Amour de Dieu. - la Seule Gloire à Chercher. - Aspirations Suggérées pour S'unir à la Volonté Divine"
+          }
+        },
+        {
+          "id": "lettre-2072",
+          "title": {
+            "fr-FR": "Lettre MMLXXII. L'Examen du Cœur et Ce Qui Doit le Tenir en Repos. - un Acte Toujours en Notre Pouvoir. - Confiance en Notre-Seigneur ; Quelle Est la Mesure de sa Providence à Notre Égard. - S'attacher à la Fin et Non aux Moyens.- Manière de Combattre les Pensées de Jalousie. - l'Esprit de Douceur et l'Esprit de Souffrance. - Il Faut S' \" Accommoder \" à sa Croix"
+          }
+        },
+        {
+          "id": "lettre-2073",
+          "title": {
+            "fr-FR": "Lettre MMLXXIII. \" la Parole de la Fervente Indifference \". - Leçons à Apprendre de Saint Paul. - Moyen d'Acquérir la Promptitude à Faire le Bien"
+          }
+        },
+        {
+          "id": "lettre-2074",
+          "title": {
+            "fr-FR": "Lettre MMLXXIV. Peut-On Parvenir à la Perfection en Pratiquant une Seule Vertu ? - Qu'est-Ce Que la Vertu ? - Dans la Charité, Toutes les Vertus Sont Comprises.- Diviniser les Vertus Naturelles. - Comment On Acquiert l'Habitude de la Vertu"
+          }
+        },
+        {
+          "id": "lettre-2075",
+          "title": {
+            "fr-FR": "Lettre MMLXXV. Les \"menues Occurrences \" et les \" Fascheux Evenemens \".- Ardent Souhait du Saint. - Pourquoi S'humilier. - \" Affections \" à Tirer de la Passion. - Deux Sortes de Martyrs. - Porter sa Croix Comme Notre-Seigneur"
+          }
+        },
+        {
+          "id": "lettre-2076",
+          "title": {
+            "fr-FR": "Lettre MMLXXVI. La Statue Dans sa Niche et le Petit Oiseau Dans son Nid. - Souffrir Avec Amour.- une Consolation et un Vœu de François de Sales"
+          }
+        },
+        {
+          "id": "lettre-2077",
+          "title": {
+            "fr-FR": "Lettre MMLXXVII. Ne Pas Vouloir Sentir l'Amour. - l'Âme Irrévocablement Abandonnée à Dieu Est Sûre de l'Avoir. - un Cœur \"tout Escorche \" Sera un \" Cœur Compatissant \". - Indéfectible Unité des Deux Saints. - Prière pour Leur \"unique Cœur \""
+          }
+        },
+        {
+          "id": "lettre-2078",
+          "title": {
+            "fr-FR": "Lettre MMLXXVIII. Conduite à Tenir Dans les Affaires Affligeantes. - Chemins Qui Mènent au Port et \"\" Bonnes Estoffes pour l'Avancement d'Une Ame \". - la Consolation Prépare aux Grands Travaux et à la Croix"
+          }
+        },
+        {
+          "id": "lettre-2079",
+          "title": {
+            "fr-FR": "Lettre MMLXXIX. Prix de la \" Resignation de Soy Mesme\" Acquise au Milieu des Contradictions.- un Grand Bonheur"
+          }
+        },
+        {
+          "id": "lettre-2080",
+          "title": {
+            "fr-FR": "Lettre MMLXXX. Vouloir la Croix, C'est la Transformer"
+          }
+        },
+        {
+          "id": "lettre-2081",
+          "title": {
+            "fr-FR": "Lettre MMLXXXI. Le \" Petit Rien \" Devant la Grandeur de Dieu. - Dans la Tentation et la Souffrance, Regarder la Providence et Aimer ses Dispositions sur Nous"
+          }
+        },
+        {
+          "id": "lettre-2082",
+          "title": {
+            "fr-FR": "Lettre MMLXXXII. Imperfection de l'Esprit Délicat. - Aimer à Se Sentir Pauvre et Faible Devant Dieu. - Comment Se. Comporter Dans les Aridités et les Chutes, et Se \" Mettre en la Sainte Indifférence \". - au Lieu de Réfléchir sur Soi-Même, Regarder le Sauveur. - Dans Quelles Dispositions la Mère de Chantal Doit Aller à l'Oraison et Ce Qu'elle Doit Y Faire"
+          }
+        },
+        {
+          "id": "lettre-2083",
+          "title": {
+            "fr-FR": "Lettre MMLXXXIII. La Seule Chose Qui Attire le Cœur de François de Sales. - Pourquoi le Dépouillement Total. - par la Souffrance, l'Âme Parvient à une Très Simple et Délicate Union au Bon Plaisir de Dieu. - l'Unique Regard de la Mère de Chantal"
+          }
+        },
+        {
+          "id": "lettre-2084",
+          "title": {
+            "fr-FR": "Lettre MMLXXXIV. Une Partie de la Charge d'Une Supérieure. - Ce Qui Nous Donnerait le Bonheur. - la Parfaite Simplicité Que Dieu Demande de la Mère de Chantal et le Plus Agréable Sacrifice Qu'elle Pourra Lui Faire"
+          }
+        },
+        {
+          "id": "lettre-2085",
+          "title": {
+            "fr-FR": "Lettre MMLXXXV. La Connaissance de la Volonté Divine Doit Être Fidèlement Gardée ; S'y Conformer Aussi Bien Dans les Ténèbres Que Dans la Lumière. - Manière de Traiter Avec le Prochain et de Tirer Profit des Contradictions. - Quel Soin la Mère de Chantal Doit Laisser à son Directeur. - en Toutes Choses, l'Acquiescement, l'Abandon, la \" Simple Remise \" à Dieu. - Comment Agir et Parler"
+          }
+        },
+        {
+          "id": "lettre-2086",
+          "title": {
+            "fr-FR": "Lettre MMLXXXVI. Pas de \" Tendreté \", Ni de Souci du Lendemain. - la Volonté de la Mère de Chantal, Abîmée en Celle de Notre-Seigneur. - au Guide, le Discernement; à l'Âme, l'Aveugle Abandon Sous la Conduite de la Providence, Même Dans les Désolations Intérieures. - le Repos en Dieu et l'Obéissance"
+          }
+        },
+        {
+          "id": "lettre-2087",
+          "title": {
+            "fr-FR": "Lettre MMLXXXVII. L'Instrument Entre les Mains de Notre-Seigneur. - Rester Dans l'État Où Dieu Nous Met. - Que Doit Faire un \" Pauvre Petit Esprit \". - Abandon à la Providence. - Se Moquer des Tentations et Parler à Notre-Seigneur d'Autre Chose. - Dans les Peines Intérieures Qui Font Perdre Pied, Regarder Notre \" Cher Capitaine\" et Employer Deux Sortes d'Armes. - Tout le \" Faire\" de la Mère de Chantal; à Quoi Elle Est Obligée"
+          }
+        },
+        {
+          "id": "lettre-2088",
+          "title": {
+            "fr-FR": "Lettre MMLXXXVIII. Où le Cœur Doit-Il Prendre son Repos ? - Souhait d'Un Total Dénuement"
+          }
+        },
+        {
+          "id": "lettre-2089",
+          "title": {
+            "fr-FR": "Lettre MMLXXXIX. L' \" Amour Royal \" des Bienheureux. -Pourquoi le \" Roy des Cœurs \" Aima Parfois les Larmes"
+          }
+        },
+        {
+          "id": "lettre-2090",
+          "title": {
+            "fr-FR": "Lettre MMXC. Deux Choses Demandées à l'Âme Conduite par la Voie de Simplicité. - l'Humilité Exclut Tout Propre Choix. - Comment S'acquiert l'Amour. - la Douceur Dans le Trouble et à l'Égard du Prochain. - Manière de Faire la Correction. - Ce Qui Est \" Tous-Jours Imperfection\" et Ce Qui Est de Grande Perfection \". - Remède pour les Distractions"
+          }
+        },
+        {
+          "id": "lettre-2091",
+          "title": {
+            "fr-FR": "Lettre MMXCI. La Vraie Pauvreté Est Celle Que Notre-Seigneur et sa Sainte Mère Ont Pratiquée.- Souhait d'Un Fondateur "
+          }
+        },
+        {
+          "id": "lettre-2092",
+          "title": {
+            "fr-FR": "Lettre MMXCII. Règle Touchant les Avis Spirituels. - la Plus Grande Assurance Qu'on Peut Avoir en Cette Vie. - Comment Combattre les Pensées de Soupçon et de Méfiance. - Ne Vouloir Que Dieu. - le Cœur en Haut. - Conduite à Tenir à l'Égard d'Une Personne Qui \" Moleste Grandement\""
+          }
+        },
+        {
+          "id": "lettre-2093",
+          "title": {
+            "fr-FR": "Lettre MMXCIII. Joie Qu'éprouve François de Sales à S'abandonner à la Providence. - Où Tend son Esprit et Ce Qui Prédomine en son Cœur"
+          }
+        },
+        {
+          "id": "lettre-2094",
+          "title": {
+            "fr-FR": "Lettre MMXCIV. Se Tenir Dans l'Indifférence, et Pourquoi. - la Famine à Annecy.- Confiance en Notre-Seigneur; Il Prend Soin de Tout et Il \" Est Si Proche \""
+          }
+        },
+        {
+          "id": "lettre-2095",
+          "title": {
+            "fr-FR": "Lettre MMXCV. Zèle du Saint pour le Service des Âmes. - Ce Que Dieu Lui Demande.- Sentiment de son Impuissance. - le \" Petit Filet de Bonne Volonté\" de François de Sales. - aux Prises Avec la Tentation, Il Redouble de Confiance en Dieu. - Consolations et Aspirations Ardentes Vers l'Amour Divin.- une Prière Qu'il Fait à la Sainte Vierge"
+          }
+        },
+        {
+          "id": "lettre-2096",
+          "title": {
+            "fr-FR": "Lettre MMXCVI. Pensée Consolante sur la Mort des Amis. - Apprendre Dès Ici-Bas le Cantique du Saint Amour. – \" une Planche pour Passer a la Vie Celeste. \" - Mourir à Soi-Même pour Vivre à Dieu"
+          }
+        },
+        {
+          "id": "lettre-2097",
+          "title": {
+            "fr-FR": "Lettre MMXCVII. Deux \" Cheres Vertus \". - en Quoi Consiste la Vraie Sainteté et Quelle Est la Meilleure Extase. – l'Humilité, Seul Moyen pour Arriver au Sommet de la Perfection ; Quel Cas Notre-Seigneur en Fait. - une Sainte Science. - le Trésor des Tunes Pures"
+          }
+        },
+        {
+          "id": "lettre-2098",
+          "title": {
+            "fr-FR": "Lettre MMXCVIII. Regretter les Fautes du Prochain, Mais Avoir Compassion du Pécheur et de l'Imparfait. - Comment Nous Traiter Nous-Même. - l'Habitude des Vertus. - Moyen de Parvenir au Repos d'Esprit au Milieu de Toutes les Vicissitudes"
+          }
+        },
+        {
+          "id": "lettre-2099",
+          "title": {
+            "fr-FR": "Lettre MMXCIX. Jusqu'à la Fin de Notre Vie, Il Faut Toujours Recommencer à S'anéantir. – le Gémissement de Saint Paul. - S'humilier de ses Faiblesses, Mais \" Remonter son Cœur en Dieu \" par la Confiance. - une Parole Qu'il Faut Répéter Souvent. - Indifférence pour l'Affection des Créatures ; Quel Amour Doit Nous Suffire"
+          }
+        },
+        {
+          "id": "lettre-2100",
+          "title": {
+            "fr-FR": "Lettre MMC. Pureté d'Intention des Amantes de l'Epoux Céleste,"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}

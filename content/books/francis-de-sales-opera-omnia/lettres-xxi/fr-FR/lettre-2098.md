@@ -1,0 +1,11 @@
+# Lettre MMXCVIII. Regretter les Fautes du Prochain, Mais Avoir Compassion du Pécheur et de l'Imparfait. - Comment Nous Traiter Nous-Même. - l'Habitude des Vertus. - Moyen de Parvenir au Repos d'Esprit au Milieu de Toutes les Vicissitudes
+
+*a)*
+
+(Ms d'Annecy et de Caen) Il faut beaucoup ressentir les fautes du prochain, mays il faut sçavoir en mesme tems que la charité s'exerce a les supporter et non pas a s'en estonner. Il faut le recommander a Nostre Seigneur, et tascher d'exercer la vertu contraire a la faute, avec grande perfection. Il faut, avec Nostre Seigneur, detester et haïr le peche et estre marri des imperfections et defautz du prochain, mais il faut avoir compassion du pecheur et de l'imparfait, et le supporter et endurer, a l'imitation du Sauveur qui le souffre bien. Et il nous faut ainsy traitter nous mesme, de sorte qu'ayant repare l'offense de Dieu, de laquelle il nous faut estre bien marris, il faut aymer et embrasser de bon cœur le mespris et l'abjection qui nous en revient.
+
+(Ms d'Annecy) L'habitude des vertus s'acquiert par la rayson, Les vertus peuvent faire leurs actes par cette habitude, sans le conge de la rayson. Cassian dit ( Conl. 12,7 ) que les hommes parfaittement vertueux ont une telle habitude de la vertu, que mesme en dormant ilz ne songent qu'a la vertu ; et saint Gregoire dit, parlant des miseres humaines ( S.GregMag Moral in Job 23,24,47 ) : O heureuses miseres ! vous estes aymables parce que vous empesches mon cœur de s'affectionner aux choses de ce monde.
+
+b)
+
+(Ms de Nancy) C'est le grand mot de nostre repos, de souvent prevoir l'empirement de nos affaires et travaux et nous y disposer, et quand les accidens arrivent, user de la domination que nostre volonte superieure a sur l'inferieure ; car d'empescher que cette partie inferieure ne gronde et chagrine, il n'est pas possible ; mais il la faut laisser faire, et mettre la superieure en son estre, acceptant de bon cœur ce que Dieu veut ou permet nous arriver, a la façon que Nostre Seigneur fit dans son agonie : Mon ame est triste jusqu'a la mort ( Mt 26,38 ). Mays, O Seigneur, devons-nous dire, n'ayes point d'esgard aux inclinations et rebellions de cette partie inferieure, et ne laysses pas, de grace, d'exercer vostre volonté sur moy qui suis trop heureuse dequoy vous me visites et me despouilles de moy mesme pour me revestir de vous mesme.

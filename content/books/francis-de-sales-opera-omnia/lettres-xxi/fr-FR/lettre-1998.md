@@ -1,0 +1,15 @@
+# Lettre MCMXCVIII. À une Demoiselle
+
+*Quel avis François de Sales eût donné à sa correspondante s'il avait trouvé son esprit dans l'indifférence. - Les raisons contre le mariage doivent céder devant une forte inclination. - Délicats et francs conseils sur les vertus à pratiquer pour couvrir " la tare du cors. "- Le miel tiré du thym.*
+
+Je respons a vostre lettre du 2 de ce mois plus tard que je ne desirois, attendu la qualité de l'advis et du conseil que vous me demandes ; mais les grandes pluyes ont empesché les voyageurs de se mettre en campagne, au moins n'ay je point eu de commodité asseuree jusques a celle ci,
+
+L'advis que la bonne cousine vous donna si constamment, de demeurer en vous mesme au service de monsieur vostre pere et en estat de vous consacrer par apres cœur et cors a Nostre Seigneur, estoit fondé sur une grande quantité de considerations tirees de plusieurs circonstances de vostre condition ; c'est pourquoy, si vostre esprit se fust treuvé en une pleine et entiere indifference, je vous eusse sans doute dit qu'il failloit suivre cet advis la, comme le plus digne et le plus propre qu'on vous sceust proposer, car, sans difficulté, il eust esté tel. Mays puisque vostre esprit n'est nullement en l'indifference, ains totalement penché au choix du mariage, et que nonobstant que vous ayes recouru a Dieu vous vous y sentes encor attachee, il n'est pas expedient que vous facies violence a une si forte impression par aucune sorte de consideration ; car toutes les circonstances, qui d'ailleurs seroyent plus que suffisantes pour me faire conclure avec la chere cousine, n'ont point de poids au prix de cette forte inclination et propension que vous aves ; laquelle, a la verité, si elle estoit foible et debile, seroit peu considerable, mais estant puissante et ferme, elle doit servir de fondement a la resolution.
+
+Si donq le mary qui vous est proposé est d'ailleurs sortable, homme de bien et d'humeur compatissante, vous pouves utilement l'accepter. Je dis : s'il est d'humeur compatissante, parce que ce manquement de taille requiert cela ; comme il requiert de vous que vous contreschangies ce defaut par une grande douceur, par un sincere amour et par une humilité fort resignee, et bref, que la vraye vertu et perfection de l'esprit couvre universellement la tare du cors.
+
+Je suis fort pressé, ma chere Fille, et ne puis pas vous dire beaucoup de choses. Je finiray donq, vous asseurant que je vous recommanderay tous-jours a Nostre Seigneur, affin qu'il addresse vostre vie a sa gloire. L'estat de mariage est un estat qui requiert plus de vertu et constance que nul autre ; c'est un perpetuel exercice de mortification, il le sera peut estre a vous plus que l'ordinaire : il faut donq vous y disposer avec un soin particulier, affin qu'en cette plante de thym vous puissies, malgré l'amertume naturelle de son suc, en tirer et faire le miel d'une sainte conversation.
+
+Qu'a jamais le doux Jesus soit vostre sucre et vostre miel, qui rende suave vostre vocation ; qu'a jamais il vive et regne en nos cœurs. Je suis en luy,
+
+Vostre tres affectionné serviteur,
