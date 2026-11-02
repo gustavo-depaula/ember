@@ -1,0 +1,168 @@
+{
+  "id": "richard-in-visionem-ezechielis",
+  "cover": "classic",
+  "name": {
+    "la": "In visionem Ezechielis",
+    "en-US": "On the Vision of Ezekiel",
+    "pt-BR": "Sobre a visão de Ezequiel"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "In visionem Ezechielis: animalia, rotae et templum.",
+    "en-US": "Richard’s commentary on Ezekiel’s vision of the living creatures, the wheels and the temple. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "O comentário de Ricardo à visão de Ezequiel: os viventes, as rodas e o templo."
+  },
+  "composed": "c. 1150-1160",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/in-visionem-ezechielis",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.InViEz",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.InViEz, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Prologus. Animalium et rotarum litteralis explicatio."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput primum. Compendiosa comprehensio eorum aedificiorum quae ad unam medietatem pertinent."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput II. Compendiosa praelibatio eorum aedificiorum quae ad aliam medietatem pertinent."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput III Quomodo, vel quam multis circumstantiis mystica haec descriptio commendetur."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput IV. Collectis hinc inde Scripturae testimoniis, hoc hic de una porticu astruitur quod de caeteris omnibus jure intelligatur."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput V. De his quae ad unam medietatem cujuslibet porticus pertinere videntur."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VI. De caeteris quae de porticu restant, ad totius descriptionis completionem."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VII. Expositio litterae super descriptionem orientalis portae."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput VIII. De his quae pertinent ad descriptionem totius."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput IX. De aquilonari et australi porticu exterioris atrii."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput X. De tribus porticibus interioris atrii."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XI. De mensis ubi immolabatur holocaustum, et de gazophylaciis cantorum."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XII. De coquinis quae subter porticus fabricatae erant et de atrio interiori."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XIII. De quantitate vel aedificiorum quae templo adjacebant."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XIV. De situ vel ratione caeterorum aedificiorum quae ad occidentalem plagam erant."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput XV Quomodo, vel unde colligitur quae sit arduitas montis."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput XVI. Descriptio templi ipsiusque vestibuli."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput XVII. Descriptio aedificiorum quae templo adjacebant."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput XVIII. De caeteris quae restant usque ad finem descriptionis."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput XIX. De descriptione altaris holocausti."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput XX. Terrae promissionis descriptio seu divisio, et quae portio debeatur sacerdotibus, et quae levitis."
+      }
+    }
+  ]
+}

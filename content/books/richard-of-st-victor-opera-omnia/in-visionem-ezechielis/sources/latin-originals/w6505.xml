@@ -1,0 +1,3966 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>In visionem Ezechielis</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.InViEz</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>PROLOGUS. <hi>Animalium et rotarum litteralis explicatio.</hi> </head>
+
+<pb n="0527A"/>
+<p>Multis divinae Scripturae multo amplius dulcescunt,
+quando congruum in eis aliquem secundum
+litteram intellectum percipere possunt. Et tunc, ut
+eis videtur, spiritualis intelligentiae structura firmius
+<pb n="0527B"/>
+statuitur quando in historici sensus solido apte
+fundatur. Supervacuum enim et inane quis possit solidum
+aliquid fundare, vel firmiter statuere? Cum enim
+mystici sensus ex earum congrua rerum similitudine
+eruantur atque formentur, quae in littera proponuntur,
+quomodo nos ad spiritualem intelligentiam
+instruat in his duntaxat locis, ubi ipsa sibi expugnat,
+vel nihil nisi frivolum resonat? Scandalizantur
+itaque saepe potius quam aedificentur, qui ejusmodi
+sunt, cum hujusmodi Scripturarum loca incurrunt.
+Econtra autem antiqui Patres libenter
+accipiebant cum in hujusmodi Scripturarum loca
+inciderent, quae juxta litteram stare non poterant.
+Ex his namque quosdam, quae Scripturam sanctam
+recipiebant, sensus tamen allegoricos subsannabant,
+<pb n="0527C"/>
+ex his, inquam, absurdis litterae locis compellebant
+ad spiritalem intelligentiam confugere, cum negare
+non auderent Spiritum sanctum in quantalibet fatuitate
+litterae nihil inaniter scripsisse. Hinc contigisse
+arbitror, ut litterae expositionem in obscurioribus
+quibusdam locis antiqui Patres tacite praeterirent,
+vel paulo negligentius tractarent, qui si plenius
+insisterent multo perfectius procul dubio, quam aliquis
+ex modernis id potuissent. Sed nec illud tacite
+praetereo, quod quidam quasi ob reverentiam Patrum
+nolunt ab illis omissa attentare, ne videantur aliquid
+ultra majores praesumere. Sed inertiae suae ejusmodi
+velamen habentes, otio torpent et aliorum industriam
+in veritatis investigatione et inventione derident,
+subsannant, exsufflant. Sed qui habitat in coelis
+<pb n="0527D"/>
+irridebit eos, et Dominus subsannabit eos. Nos
+autem a Patribus pertractata cum omni aviditate
+suscipiamus, et ab ipsis omissa cum omni alacritate
+perquiramus, et sagaciter inventa cum omni liberalitate
+in commune proferamus, ut impleatur quod
+scriptum est: <hi>Pertransibunt plurimi, et multiplex erit
+scientia <note>(Dan. XII)</note>
+          </hi>. Ecce mirabilem illam visionem de
+coelestibus animalibus, quam propheta Ezechiel vidit,
+B. Gregorius, secundum mysticam intelligentiam,
+exponit. Sed quomodo ad litteram stare valeat, non
+dicit. De secunda visione dicit, quod juxta litteram
+stare non possit. Et hoc quidem verum, sed secundum
+eam acceptionem, quam ipse ibi assignavit;
+nam si eamdem de qua hoc dicit litteram velimus
+<pb n="0528A"/>
+secundum aliam acceptionem discutere, fortassis,
+etiam juxta historicum sensum, ex ipsa poterimus
+congruum intellectum eruere. Certe, idem in eadem
+Ezechielis expositione dicit, plerumque in sacro
+eloquio ideo aliquid obscure dicitur, ut, dispensante
+mirabiliter Deo, multipliciter exponatur. Multiplex
+<pb n="0528B"/>
+itaque sacrae Scripturae expositio nunquam respuatur,
+in quantum rationi consentire, vel utilitati deservire
+videtur. In quantum ergo quisque in hoc
+gratiam accepit, nemo dubitet cum omni diligentia
+quaerere ea quae praecedentium Patrum sagacitas,
+vel ex industria praeteriit, vel magis necessariorum
+occupatione implicata explicare non potuit. Dico
+itaque libenter quod mihi videtur de illa prophetica
+visione: nam fortassis haec nostra qualiscunque
+expositio (et si non possit alienae solertiae satisfacere)
+poterit forte aliorum in hoc ipsum diligentiam, et
+quaerendi studium nonnihil adjuvare.</p>
+<p>Ecce de animalibus dicitur <note>(Ezech. I)</note>: <hi>Similitudo
+hominis erat in eis.</hi> Haec profecto hominis similitudo,
+quantum ad litteram pertinet, ex parte erat,
+<pb n="0528C"/>
+et ex parte non erat, sicut subjuncta declarant. Ex
+parte erat, quia faciem et manus hominis habebant;
+et item ex parte non erat, quia pennas et pedes vitulinos,
+et plures facies habebant, unde et de eis
+additur: <hi>Quatuor facies uni, et quatuor pennae uni.</hi> Si
+coelestia animalia quatuor facies, et per quatuor
+partes habent, ergo contra terrestrium naturam sub
+eodem momento in omnem partem videre valent.
+Et <hi>pedes eorum pedes recti.</hi> Rectos pedes oportebat
+habere, ut possent in omnem partem, sicut
+ex sequentibus colligitur, sine ulla corporis conversione
+incedere: <hi>Et planta pedis eorum quasi
+planta pedis vituli.</hi> Vitulinam plantam dicta animalia
+habere describuntur, ut non ex industria, velut
+hominum, sed naturaliter munita intelligantur. Ut
+<pb n="0528D"/>
+autem possent pari modo in omnem partem incedere,
+oportebat formam pedum vitulinam similitudinem
+nonnulla ex parte excedere. In hoc autem quod
+dicitur, quia <hi>scintillae</hi> erant in eis, vel potius ex eis
+quasi <hi>aeris candentis,</hi> ostenditur quod facies igneas
+habebant quae ardentes scintillas spargebant. <hi>Et facies
+et pennas per quatuor partes habebant.</hi> Certe
+si, ut superius dictum est, quatuor facies habebant;
+si eas, ut hic dicitur, per quatuor partes habebant,
+oportet ut in singulis partibus (quantum ad litteram
+spectat) nonnisi solam haberent. Quatuor autem
+pennas habebant, ut aeque quocunque versi quaquaversum
+volare potuissent.</p>
+<p>Notandum quod quatuor facies, quatuor pennas,
+<pb n="0529A"/>
+quatuor manus, et ejusdem numeri pedes habuere;
+numerum tamen pedum non videtur exprimere,
+eo quod nec rarum sit, nec insolitum quatuor pedes
+habere. Junctaeque erant pennae eorum alterius ad
+alterum. Incedentium itaque animalium tanta distantia
+erat, quanta extensarum alarum copula pati
+poterat. Non revertebantur cum incederent, sed
+unumquodque ante faciem suam gradiebatur. Cum
+in posterioribus dicturus sit: Ibant et revertebantur,
+quomodo hic dicitur quod incedentes non revertebantur?
+Sed vide ne forte revertebantur sub
+alio sensu ponatur hic, et sub alio ibi, si non facimus
+prophetam mentiri. Idem enim videtur hoc
+sonare revertebantur quod convertebantur. In sequentibus
+autem idem videtur sonare quod redire.
+<pb n="0529B"/>
+Revertentes ergo non revertebantur, quia reverti,
+hoc est redire, volentes non revertebantur, hoc est
+non retro vertebantur, quia non convertebantur.
+Hinc est quod longe post de rotis loquens, dicit: <hi>Cum ambularent in quatuor partes gradiebantur, et
+non revertebantur ambulantes.</hi> 
+ Certe, si per quatuor
+partes ibant, fuit eis necesse ire et redire. Quomodo
+ergo ambulantes non revertebantur, nisi quo modo
+per subjuncta verba determinatur? Statim namque
+adjungitur: <hi>Sed ad locum ad quem ire declinabat,
+quae prima erat, sequebantur et caeterae, nec convertebantur.</hi> 
+Ecce pro eo quod prius posuit revertebantur,
+eamdem sententiam repetens ponit convertebantur,
+et determinavit quod prius obscure posuit.
+<pb n="0529C"/>
+Sed quid inter haec dicimus, nisi quod ad sententiam
+beati Gregorii recurrimus, quod, dispensante
+Deo, idcirco obscure ponitur, ut multipliciter exponatur?
+Et absque dubio ex hac obscuritate Scripturae
+agitur, ut quamvis fortassis una sit expositio secundum
+litteram, multiplex esse possit secundum mysticam
+intelligentiam: dicatur itaque de animalibus,
+non revertebantur cum incederent. Cur autem sine
+ulla corporis conversione ire et redire potuissent,
+ostenditur ex eo quod subjungitur: <hi>Sed unumquodque
+ante faciem suam gradiebatur;</hi> ac si aperte
+diceret: Idcirco non erat eis necesse corpus convertere
+cum redire vellent, quia in eam etiam partem
+faciem habebant Nos cum ad posteriora redire
+volumus corporis conversione necesse habemus, qui
+<pb n="0529D"/>
+solam unam faciem habemus. Sed illa revertebantur,
+nec retro vertebantur, sed ante faciem suam
+gradiebantur, illam videlicet quam ad eam partem
+habebant ad quam ire volebant. Sequitur:</p>
+<p> <hi>Similitudo vultus eorum facies hominis, et facies
+leonis a dextris ipsorum quatuor. Facies autem bovis
+a sinistris ipsorum quatuor. Et facies aquilae desuper
+ipsorum quatuor.</hi> Ecce in sua descriptione quomodo
+quibusdam gradibus incedit. Primo dixit quod haberent
+quatuor facies, postea dixit quod eas haberent
+pro quatuor partes. Dicit modo novissime
+qualem, inquam, partem habuere. Si dicta animalia
+pro more nostro dextram et sinistram et posteriora
+haberent, facile esset prophetae singulas
+partes exprimere, et secundum eas sigillatim facies
+<pb n="0530A"/>
+distinguere. Sed hoc idcirco non potuit, quia omnis
+in eis pars anterior fuit. Fecit ergo quomodo
+potuit, unam faciem primo ponit, et secundum illam
+caeteras distinguit. Dicit ergo: <hi>Similitudo vultus
+eorum facies hominis.</hi> Quis nesciat quod vultus
+in nobis praecipua et principalior pars esse soleat?
+Dicitur itaque quia vultus, hoc est prima et principalior
+facies, in eis erat facies, hominis. A dextris
+autem illius humanae faciei ipsorum quatuor erat
+facies leonis. A sinistris autem ejusdem erat facies
+bovis.</p>
+<p>Notandum quod de aquilina facie non dicit in qua
+parte et ipsa fuerit, quia ex praecedentibus hoc
+ipsum manifestum fuit. Illud solum dixit, de quo,
+si dictum non esset, dubitari potuit, quod ea utique
+<pb n="0530B"/>
+facies caeteris eminentior fuit. <hi>Et facies,</hi> inquit, <hi>aquilae ipsorum quatuor erat desuper.</hi> 
+ Hoc est
+caeteris superior. Et aves quidem solent habere, ut
+omnes novimus, longiora colla caeteris animalibus. <hi>Et facies eorum, et pennae eorum extentae desuper.</hi> 
+Quod dicit, et facies eorum, defectiva oratio est,
+quasi dicat: et facies eorum in hunc modum erant,
+et pennae eorum extentae desuper illas facies. Nam
+ad hoc praemittit et facies eorum, ut competentius
+inferat quod de pennis dicere volebat: <hi>Duae pennae
+singulorum jungebant.</hi> Hoc idem aliis verbis superius
+dixerat, sed repetit, ut addat: <hi>Et duae tegebant
+corpora eorum.</hi> Non sic intelligendum est,
+quasi eisdem semper duabus alis corpora tegerent,
+<pb n="0530C"/>
+et duabus solummodo aliis volarent, cum utrumque
+utrisque sed vicissim facerent. Cum coram humana
+facie volare decrevissent, duabus illis alis quae a
+dextris et a sinistris ejus erant id faciebant, et
+eisdem ipsis in contrariam partem, hoc est coram
+aquilina facie, volabant, duabus vero alis corpora
+tegebant. Cum vero coram leonina, vel bovina facie
+volare voluissent, econtrario faciebant: <hi>Et unumquodque
+coram facie sua ambulabat.</hi> Videtur superius
+positam sententiam repetere, sed credo aliud
+quiddam hic ostendere. Superius docuit quia corpus
+idcirco non convertebant, quia in ea parte ad
+quam ire volebant, faciem quam sequerentur habebant,
+et coram ea ambulabant. Hic mihi videtur hoc
+dicere velle, quoniam per tot partes irent in quot
+<pb n="0530D"/>
+partes facies haberent. Idem est enim ac si diceret:
+Unumquodque eorum coram qualibet facie sua
+ambulabat. Huic sententiae astipulatur, quod sequitur:</p>
+<p> <hi>Ubi erat impetus spiritus, illuc gradiebantur, nec
+revertebantur cum ambularent.</hi> Vere coram unaquaque
+facie sua gradiebantur, quia ubicunque erat
+impetus spiritus, sive ad eundum, sive ad redeundum,
+sive in quamlibet partem divertendum, ita
+illuc gradiebantur, ut non converterentur, et inter
+eundum et redeundum nulla corporis conversione
+uterentur. <hi>Et similitudo animalium aspectus eorum
+quasi carbonum ignis ardentium, et quasi aspectus
+lampadarum.</hi> Ecce quod superius jam diximus,
+quoniam igneas facies habebant, qui calorem in
+<pb n="0531A"/>
+modum carbonum ardentium, et lumen in modum
+lampadarum fundebant. Sequitur:</p>
+<p> <hi>Haec erat visio discurrens in medio animalium.
+Splendor ignis, et de igne fulgur egrediens.</hi> Ista satis
+patent. <hi>Et animalia ibant, et revertebantur in similitudinem
+fulguris coruscantis.</hi> Ecce quod superius
+jam diximus, quia animalia ibant et redibant. Sed
+quomodo putatis? In similitudinem fulguris coruscantis.
+Celeritas stupenda et solis coelestibus animalibus
+attribuenda. <hi>Cumque aspicerem animalia,
+apparuit rota una super terram juxta animalia.</hi> Non
+una sola tantum juxta omnia, sed singulae juxta
+singula, sicut declarant sequentia. Apparuit itaque
+rota una juxta singula animalia. Sed qualis? <hi>Habens,</hi> 
+inquit, <hi>quatuor facies.</hi> Quomodo autem quatuor
+<pb n="0531B"/>
+facies habuerit melius ex sequentibus patebit: <hi>Et aspectus rotarum, et opus earum, quasi visio
+maris.</hi> 
+ Maris similitudinem dicuntur habere pro incredibili
+magnitudine. <hi>Et una similitudo ipsarum
+quatuor, et aspectus earum, et opera quasi si sit rota
+in medio rotae.</hi> Cogitemus quasi duae rotae essent
+sibi invicem insertae, et in unam operis facturam
+per transversum conjunctae, et tunc intelligere poterimus
+quomodo dicatur unaquaeque quatuor facies
+habere. <hi>Per quatuor partes earum euntes ibant, et
+non revertebantur cum ambularent.</hi> Hoc eodem modo
+de rotis dicimus quomodo superius de animalibus
+determinavimus. <hi>Statura quoque erat in rotis, et
+altitudo, et horribilis aspectus.</hi> Quantum mihi videtur,
+quoties stabant uniformiter id agebant, nec
+<pb n="0531C"/>
+passim in omnem se partem, ut in rotis nostris videmus,
+ad standum erigebant; sed ubi superius designata
+illa, quasi duarum rotarum factura, hinc
+inde per transversum inserebatur, et invicem copulabatur.
+Cum stare vellent unam illarum partium
+semper in terra figebant, alteram in altum erigebant.
+Facile est ergo videre quam promptum eis
+esset post stationem in omnem se partem pari modo
+sine ulla corporis conversione volvere, quae, ut dictum
+est, quatuor facies habuere. Possumus autem
+quod dicitur horribilis, et ad staturam, et ad altitudinem
+referre, ut intelligatur tantae magnitudinis
+esse, ut esset horror aspicere, unde et superius dictum
+est de rotis, quod aspectus earum esset quasi
+<pb n="0531D"/>
+visio maris. <hi>Et totum corpus plenum oculis in circuitu
+ipsarum quatuor. Cumque ambularent animalia,
+ambulabant pariter et rotae juxta ea; et cum elevarentur
+animalia de terra, elevabantur simul et rotae.</hi> 
+Patent haec omnia, nec egent expositione nostra. <hi>Quocunque ibat spiritus, illuc eunte spiritu, et
+rotae pariter elevabantur sequentes eum. Spiritus
+enim vitae erat in rotis.</hi> 
+ Videtur alius esse spiritus
+quem rotae sequebantur, et alius qui eis inesse
+perhibetur. <hi>Et similitudo super caput animalium
+firmamenti quasi aspectus crystalli horribilis et extenti
+super capita eorum desuper.</hi> Quod dicitur quasi
+crystalli horribilis, dictum puto pro enormitate
+magnitudinis: <hi>Sub firmamento autem pennae eorum
+recte alterius ad alterum. Unumquodque duabus alis
+<pb n="0532A"/>
+velabat corpus suum, et alterum similiter velabatur.</hi> 
+Quando unum aliquod illorum duabus illis alis quae
+a dextris et a sinistris humanae faciei erant corpus
+suum velabat, similiter quodlibet caeterorum faciebat.
+Quando autem duabus aliis alis aliquod velabatur,
+eadem corporis velandi forma sub eodem tempore
+ab aliis servabatur. Quomodo ergo quodlibet
+unum corpus suum velabat, similiter quodlibet alterum
+velabatur. Sonum quasi sonum sublimis Dei
+dicit, eo quod tantae magnitudinis esset, ut jure divinus
+dici debuisset, sicut carmen regium, vel regis
+digne dici debeat, quod regiam audientiam deceat.</p>
+<p>Rursus de his rotis, vel animalibus alio loco legimus: <hi>Rota una juxta cherub unum, et rota alia
+juxta cherub unum. Species autem erat rotarum quasi
+<pb n="0532B"/>
+visio lapidis chrysolithi, et aspectus earum similitudo
+una quatuor, quasi si sit rota in medio rotae. Cumque
+ambularent in quatuor partes gradiebantur. Non revertebantur
+ambulantes, sed ad locum ad quem ire
+declinabat quae prima erat sequebantur et caeterae
+nec convertebantur 
+ <note>(Ezech. X)</note>
+          </hi>. Haec omnia jam patent
+ex his quae superius jam dicta sunt. Sequitur:</p>
+<p> <hi>Et omne corpus earum et colla, et manus et pennae,
+et circuli plena erant oculis in circuitu quatuor rotarum,
+et omne corpus earum.</hi> Quod dicit earum, intelligendum
+est factam relationem non ad rotas tantum,
+sed etiam ad animalia: nam de utrisque fuerat
+praemissum. Cum enim dicat earum, adnectit tamen
+quaedam quae conveniunt tam animalibus quam rotis,
+quaedam vero quae conveniunt rotis solis, quaedam
+<pb n="0532C"/>
+autem quae congruunt solis animalibus, nisi forte
+qui putet rotas habere colla, pedes et manus. Usitatius
+autem loqueretur, si eorum, non earum posuisset.
+Sed quia novissimo loco de rotis locutus
+fuit, secundum genus quod proximo loco posuit
+relationem reddidit. Tale est illud in psalmo: <hi>Effuderunt
+sanguinem innocentem, sanguinem filiorum
+suorum, et filiarum suarum quas sacrificaverunt
+sculptilibus Chanaan <note>(Psal. CV)</note>
+          </hi>. Quas, non quos
+dixit, quamvis non ad solas filias relatio facta sit,
+nisi forte quis velit dicere solas filias sculptilibus
+sacrificatas fuisse. Sed quis hoc dicat? Quod hic
+dicitur, omne corpus earum, tam de rotis quam de
+animalibus intelligimus. Quod additur, et colla et
+<pb n="0532D"/>
+manus et pennae, de solis animalibus. Quod autem
+postea dicitur, et circuli, de solis rotis oportet intelligi,
+et quod novissime apponitur, in circuitu
+quatuor rotarum, et ad circulos tantummodo debet
+referri. Dicit ergo quia plena erant oculis, omne
+corpus earum, et colla et manus et pennae, et circuli
+in circuitu quatuor rotarum. Addit adhuc quaedam
+de rotis, quaedam autem quae conveniant animalibus
+solis: <hi>Et rotas istas vocavit volubiles, audiente
+me.</hi> Ecce de rotis. Et addit quod conveniat
+animalibus solis: <hi>Quatuor autem facies habebat
+unum.</hi> Si de solis rotis locutus fuit, quid est, vel
+unde quod unum dicit? Puto vel ex hoc manifestum
+fore eum non de solis rotis locutum fuisse. Sequitur:</p>
+<p>
+          <pb n="0533A"/> <hi>Facies una, facies cherub et facies secunda, facies
+hominis, et in tertio facies leonis, et in quarto facies
+aquilae.</hi> Sed ubi facies cherub legitur, in quibusdam
+codicibus facies vituli invenitur. Sed quamvis sit
+littera diversa, utrobique tamen est sententia una.
+Ex superioribus agnovimus quod dictorum animalium
+corpus in vitulum desinebat; et idcirco, si
+recte perpendimus, vituli facies corpori magis congruebat,
+in tantum ut quodam proprietatis jure haec
+facies descripti animalis specialiter dici valeat, vel
+debeat. Sed forte quis ad hoc respondeat et dicat:
+Sicut ad naturam vituli magis accedebat in eo quod
+plantas vitulinas habebat, sic ex eo quod manus,
+vel pennas gerebat, in uno hominis, ex alio avis
+proprietatem praeferebat. Sed scimus quia proprium
+<pb n="0533B"/>
+est hominis manus habere. Non ergo potuit
+vitulinas manus, quemadmodum vitulinas plantas
+habere. Hoc idem est de pennis intelligere. Pedes
+autem habere commune est tam homini quam bovi,
+tam aquilae quam leoni. Quid itaque est quod animal,
+quod quatuor facies habuit, vitulinos pedes
+accepit, nisi quod vitulina proprietas prae caeteris
+amplius aliquid sui juris in ejus corpore vindicavit,
+quae in illis utique membris, quae sunt aeque et aliis
+communia, propriae qualitatis similitudinem impressit?
+Propter hanc ergo proprietatis praerogativam,
+recte faciem vituli intelligimus, in eo quod faciem
+<pb n="0534A"/>
+cherub legimus. Non est autem diversum quod faciem
+bovis superius, hic faciem vituli invenimus.
+Est enim omnis vitulus bos, sed non convertitur
+cum bovis nomine, quo animalis species designatur.</p>
+<p>Notandum autem quod idem positionis ordo hoc
+loco invenitur, qui superius exprimitur. Sed ibi
+facies hominis primo numeratur, eo quod sit principalior,
+secundum dignitatem. Hic autem facies
+vituli, eo quod sit principalior secundum proprietatem.
+Quoniam autem caeteris dignior non est facies
+vitulina, noluit dicere facies cherub, seu facies
+vituli, facies prima, sed facies una: <hi>Facies,</hi> inquit, <hi>una facies cherub, et facies secunda facies hominis.</hi> 
+Erat ergo facies hominis facies secunda, hoc est
+<pb n="0534B"/>
+secundo loco ab ea quae primo est posita, et in tertio
+loco facies leonis, et in quarto facies aquilae.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Compendiosa comprehensio eorum aedificiorum quae ad unam medietatem pertinent.</hi> </head>
+<p>Locuturus de Ezechielis aedificio, volo prius universa
+summatim perstringere, ut postmodum liceat
+in singularum partium descriptione quanto liberius,
+tanto latius vacare. Habebat itaque hoc aedificium
+triplicem murum. Primum sexcentorum cubitorum,
+secundum quingentorum cubitorum, tertium
+vero in medio horum, et omnium minimum, in hunc
+modum.
+<pb n="0533"/> </p>
+<p>
+            <pb n="0533C"/>Intra Intimum autem murum erat atrium interius;
+inter intimum et medium, erat atrium exterius.
+Inter medium vero et extimum erat vulgi locus. De
+atrio interiori legitur: <hi>Et mensus est atrium, longitudinem
+centum cubitorum, et latitudinem centum
+cubitorum, per quadrum <note>(Ezech. XL)</note>
+            </hi>. De secundo muro
+scribitur: <hi>Per quatuor ventos mensus est illud murum
+ejus undique per circuitum, longitudinem quingentorum
+cubitorum, et latitudinem quingentorum
+cubitorum, dividentem inter sanctuarium, et vulgi locum <note>(Ezech. XLII)</note>
+            </hi>.
+De hoc sanctuario alio rursum
+loco scribitur: <hi>Et erit ex omni parte sanctificatum
+quingentos per quingentos, quadrifariam per circuitum,
+<pb n="0534C"/>
+et quinquaginta cubiti in suburbana ejus per gyrum <note>(Ezech. XLV)</note>
+            </hi>.
+Eumdem sane locum per suburbana,
+et vulgi locum designat congrue satis, utpote
+metaphoram servans, qui in descriptionis suae initio
+visum aedificium civitati comparaverat. Constat itaque
+inter medium murum et extimum quinquaginta
+cubitos fuisse, si per suburbana et vulgi locum oportet
+unum eumdemque locum intelligere. De hoc extimo
+muro in ipso descriptionis exordio dicitur: <hi>Et ecce murus
+forinsecus in circuitu domus undique <note>(Ezech. XL)</note>
+            </hi>.</p>
+<p>Notandum sane quod hoc sanctificatum quod
+quingentos cubitos ex omni parte habere describitur,
+nunc aedificium, nunc sanctuarium, nunc domus
+<pb n="0535A"/>
+dicitur, nunc civitati assimilatur. Sane si
+consulas tam rationem quam Scripturam, inventes
+unumquemque trium horum murorum tres portas
+habuisse. Unam ab oriente, aliam ab aquilone, tertiam
+a meridie. De tribus siquidem portis atrii interioris,
+sive de tribus aliis atrii exterioris Scriptura
+multo sermone explicat. De una autem reliquarum
+trium breviter mentionem facit. Caeteras
+vero subintelligendas relinquit. Frustra namque
+muri interiores ab aquilone et meridie portas haberent,
+nisi e regione per murum extrinsecum ad
+illas aditus paterent. Habebant autem sex portae
+interiores unaquaeque porticum suam, quae omnes
+fabricatae erant juxta eamdem similitudinem, et ad
+mensuram unam, nisi quod portae atrii interioris
+<pb n="0535B"/>
+habebant porticus suas extrinsecus, et porticus
+atrii exterioris jacebant intrinsecus, et quod in
+gradibus septem ascendebatur in atrium exterius,
+et in gradibus octo in atrium interius. Ingredientibus
+itaque in atrium exterius prius occurrebant
+portae quam porticus suae. E converso autem ad ingressum
+atrii interioris, prius se offerebant porticus
+quam portae, ita ut omnes sex porticus pariter jacerent
+in atrio exteriore. Has autem porticus Scriptura
+nunc porticus, nunc vestibula nominat; et
+unam eamdemque porticum, nunc vestibulum, nunc
+vestibula vocat. In via sane orientali inter geminas
+porticus atrii exterioris et atrii interioris jacebat
+pavimentum stratum lapide, habens centum cubitos
+<pb n="0535C"/>
+longitudinis, et centum cubitos latitudiuis; et triginta
+gazophylacia in gemino latere, quindecim a
+meridie, et quindecim ab aquilone. Erant autem
+et inter alias porticus duo alia pavimenta, unum ab
+aquilone, et aliud in via meridiana. Haec utique duo
+ad prioris illius similitudinem constat habere centum
+cubitos in sua utique longitudine, et quindecim
+gazophylacia ab orientali latere. Cujus autem latitudinis
+fuerint, vel quae gazophylacia in alio latere
+habuerint, melius patebit in subsequentium partium
+descriptione. Horum igitur quae jam descripsimus
+formam taliter repraesentamus.
+<pb n="0535D"/> </p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>Compendiosa praelibatio eorum aedificiorum quae ad aliam medietatem pertinent.</hi> </head>
+
+<pb n="0536A"/>
+<p>Nunc autem si totum hoc aedificium ducta linea de
+meridiana porta ad aquilonarem in gemina dividatur,
+ea quae ad unam ejus medietatem, orientalem
+videlicet partem, pertinent, transcurrisse videmur.
+Nunc igitur de occidua ejus parte aliquid breviter
+perstringamus; nam de his omnibus in subsequenti
+opere latius disseremus. Eminebat itaque templum
+cum vestibulo suo a parte occident eratali, situmque
+in atrio exteriori, cujus vestibulum ab orientali
+parte jungebatur atrio interiori. Per tres autem ejus
+partes, tres domus erant sitae: una ab occidente
+caeterae autem duae, una ab aquilone, et alia a meridie.
+<pb n="0536B"/>
+Erant autem omnes ejusdem longitudinis:
+nam unaquaeque earum sicut et ipsum templum
+extendebatur centum cubitis. Quod autem ab occidente
+erat aedificium separatum Scriptura appellat,
+ex eo, ut arbitror, quod nulli alio aedificio cohaerebat.
+Hujus aedificii longitudo prope medium murum
+extendebatur versus aquilonem et meridiem. Nam
+aliarum porrigebatur ab oriente in occidentem.
+Habebat sane domus aquilonaris porticum unam in
+quinquaginta cubitos porrectam, porticuique atrii
+interioris conjunctam. De quo loco Scriptura commemorat,
+cum dicit: <hi>Ubi erat porticus juncta porticui
+triplici <note>(Ezech. XLII)</note>
+            </hi>. A porticu itaque aquilonaris
+portae atrii interioris, domus cum sua porticu
+occidentem versus extendebatur centum quadraginta
+<pb n="0536C"/>
+quinque cubitis. Nam unus murus quinque cubitorum
+erat, tam domui quam ejus porticui communis.
+Domum autem australem ad eamdem similitudinem
+per omnia factam intelligimus, propter illud
+quod scriptum invenimus: <hi>Omnis introitus eorum et
+similitudines, et ostia eorum secundum ostia gazophylaciorum
+quae erant in via respiciente ad notum:
+ostium in capite viae; quae via erat ante vestibulum
+separatum per viam orientalem ingredientibus.</hi> 
+Aedificium autem separatum probatur duo vestibula
+habere, unum ab aquilone, et aliud a meridie, quod
+nos possumus ex hac eadem Scriptura convincere.
+Si enim in aquilonari parte vestibulum erat
+ante aedificium separatum, et via ante vestibulum,
+<pb n="0536D"/>
+et in capite viae ostium, ut sit similis introitus, et
+una similitudo utrobique, oportet totum hoc et
+australem plagam habere vestibulum et viam ante
+et ostium in capite viae. Habebat itaque templum
+ab oriente interius atrium, ab occidente aedificium
+separatum, ab aquilone domum unam, et a meridie
+domum aliam. Inter tria autem illa aedificia et templum
+jacebat atrium undique per circuitum. In his
+vero tribus aedificiis erat mansio triplex. Nam in
+inferioribus gazophylacia, in superioribus autem
+erant coenacula, et praeter haec adhuc ante ipsa solaria
+quaedam deambulatoria de ipsis coenaculorum
+parietibus eminentia, quae Graeci quidam exedras,
+Scriptura vero appellat ethecas. <hi>Et mensus est,</hi> 
+inquit Scriptura, <hi>ethecas in circuitu per tres partes
+<pb n="0537A"/>
+contra uniuscujusque limen <note>(Ezech. XLI)</note>
+            </hi>. De quibusdam
+autem gazophylaciis ex industria hic praeterimus,
+de quibus tamen sicut et de coquinis suo loco dicemus.
+Haec itaque pauca ad dicendorum evidentiam
+<pb n="0538A"/>
+summatim praelibavimus, nunc ad singulorum discussionem
+latius vacabimus. Horum itaque quae
+jam descripsimus formam hujusmodi repraesentamus.
+<pb n="0537"/> </p>
+</div2>
+
+<div2>
+          <head>CAPUT III <hi>Quomodo, vel quam multis circumstantiis mystica haec descriptio commendetur.</hi> </head>
+
+<pb n="0537B"/>
+<p>Notandum sane in primis quis, a quo, vel quomodo,
+unde, vel ubi ductus sit qui haec vidit et
+scripsit, nobisque legenda reliquit: <hi>Facta est,</hi> inquit, <hi>super me manus Domini, et adduxit me illuc. In
+visionibus Dei adduxit me in terram Israel 
+ <note>(Ezech. XL)</note>
+            </hi>.
+Propheta sane Domini erat qui ista videbat. A quo
+tamen ductus est, nisi per manum Domini, vel quomodo,
+quaeso, nisi quomodo scriptum est in visionibus
+Dei? Adductus est autem in terram promissionis,
+haud dubium ante quod de terra Babylonis,
+de terra ad terram tot terrarum spatiis interjectam.
+Quem, quaeso, non moveat, quem jure movere
+<pb n="0537C"/>
+non debeat quod talis a tali, taliter, tamque
+longe adductus est ut videret et audiret quae postea
+scriberet, posterisque legenda relinqueret? Quis
+nisi insensatus negligenter audiat, vel negligere
+audeat quod Scriptura sacra tot circumstantiis
+commendat? Sed nec ipsum tempus quidem in quo
+haec vidit propheta tacite praeterire voluit. Nam et
+hoc ipsum fortassis ad visionis ipsius commendationem
+pertinere praevidit: <hi>In vicesimo et quinto
+anno transmigrationis nostrae, in exordio anni, decima
+<pb n="0538B"/>
+mensis, quartodecimo anno postquam percussa
+est civitas, in ipsa hac die facta est super me
+manus Domini, et adduxit me illuc in visionibus
+Dei.</hi> Judaicae jam captivitatis multa tempora
+fluxerant, jamdiu sub magna afflictione filii Israel
+laboraverant, et tam pium quam necessarium
+fuit eos inter tot dura et diuturna
+mala magnam aliquam consolationem recipere, et
+divinae erga se pietatis argumenta sentire, ne inter
+tot calamitates penitus deficerent, et de divino adjutorio
+funditus desperarent. Sed quis magnum, imo
+supra hominem esse dubitet quod propheta Domini
+per manum Domini deductus in visionibus Dei videt? <hi>Adduxit me,</hi> 
+ inquit, <hi>in terram Israel, et dimisit me
+super montem excelsum nimis, super quem erat quasi
+<pb n="0538C"/>
+aedificium civitatis vergentis ad austrum, et introduxit
+me illuc <note>(Ezech. XLIII)</note>
+            </hi>. Non negligenter praetereundum
+quod ostensum aedificium in monte nimis excelso
+dicitur constitutum. Multorum siquidem nobis
+intelligentiam claudimus, si haec negligenter consideramus;
+quod ex subsequentibus facile advertimus.
+In hoc sane aedificio interius atrium tenebat intimum
+locum; sed templum procul dubio tenebat summum.
+Hinc est quod in novissimis hujus descriptionis legitur,
+ubi dicitur: <hi>Ista est lex domus, in summitate
+<pb n="0539A"/>
+montis omnes fines ejus, in circuitu sanctum sanctorum
+est <note>(Ezech. XLIII)</note>
+            </hi>. Domum hic pro more suo dicit templum.
+Mons itaque usque in id loci in quo templum
+constructum erat paulatim ad altiora surgebat, et ad
+eum locum ab omni parte inclinabat, et ibi se in
+planam quamdam aequalemque planitiem expandebat,
+quae templi structuram aequali eminentia circumquaque
+excipiebat. Si enim ab una qualibet parte
+templum altius emineret, omnis ejus finis procul
+dubio montis summitatem non teneret. Consideremus,
+si placet, prius hoc aedificium quasi in plano
+constitutum sit, ut forma montis aedificiorumque
+situs postmodum rectius intelligi possit. Ut ex superioribus
+colligitur medius murus quo atrium exterius
+cingitur ab omni latere in oppositum latus
+<pb n="0539B"/>
+quingentos cubitos includere comprobatur.</p>
+<p>Ut igitur incipiamus ab oriente ex his quingentis
+cubitis ducentos possidebat atrium exterius, in tertio
+vero centenario erat atrium interius, in quarto
+centenario templum situm fuit, et quintum centenarium,
+et eo amplius post tergum reliquit. Hoc
+tamen secundum plane superficiei considerationem
+dictum sit, nam ad hanc mensuram tumor montis
+nonnihil adjecit, de quibus in loco suo diligentius
+considerare oportebit. Ex hac tamen consideratione
+facile advertere licet contra quem locum mons
+altius intumesceret, vel cujusmodi formam haberet,
+vel ex qua parte devexior esset. Dicitur autem recte
+hoc aedificium habere similitudinem civitatis, eo
+quod esset undique cinctum muris, firmatum portis,
+<pb n="0539C"/>
+multis stipatum aedificiis. <hi>Et ecce vir, cujus erat species
+quasi species aeris, et funiculus lineus in manu
+ejus, et calamus mensurae in manu ejus. Stabat autem
+in porta.</hi> Vir iste qui speciem aeris habere describitur,
+imaginem non terreni sed coelestis portare
+videtur. Coelestia ergo de coelesti, sublimia de
+sublimi sperare debemus, et ea quae dicit vel facit
+studiosa mente pertractemus. Sed quod vir iste
+coelestis funiculum, et calamum mensurae ad aedificium
+dimetiendum in manu portat, utinam ad hoc
+saltem apud fastidiosos auditores valeat, ut nemo
+nos reprehendere audeat, cum nos viderit singulorum
+aedificiorum situm, qualitatem et mensuram
+subtiliter quaerere et investigare, et cum tanta diligentia
+assignare et singula quaeque prout possumus,
+<pb n="0539D"/>
+vel Scripturae auctoritate, vel rationis attestatione
+probare. Sed ne forte quod hucusque dictum est ad
+horum commendationem minus sufficiat, audiamus
+adhuc quid idem vir dicat, quid de his Domini propheta
+praecipiat. <hi>Et locutus est,</hi> inquit, <hi>ad me idem
+vir: Fili hominis, vide oculis tuis, et auribus tuis audi,
+et pone cor tuum in omnia quae ego ostendam tibi;
+quia, ut ostendantur tibi, adductus es huc; annuntia
+omnia quae tu vides domui Israel.</hi> Situs et mensuram
+aedificiorum visu, ritus et modum caeremoniarum auditu
+percipere jubetur, et ad singula cor apponere,
+subtiliter intelligere, memoriter retinere, nec sibi
+soli tantae scientiae talenta avare retinere, sed nec
+illi vel illi, imo domui Israel omnia annuntiare.
+<pb n="0540A"/>
+Quem, obsecro, nequeat coelestis oraculi tanta contestatio
+attentum vel attonitum reddere, et ad horum
+intelligentiam desiderio inflammare? Sed ad
+id nunc redeamus, quod eumdem virum in porta
+stare audivimus, ad quem trium murorum praedictorum
+haec porta videatur pertinere, ex eo quod
+in subsequentibus adjungitur, possumus advertere.</p>
+<p> <hi>Et venit ad portam,</hi> inquit, <hi>quae respiciebat viam
+orientalem, et ascendit per gradus ejus.</hi> Procul dubio
+alia est porta ad quam venit, et alia porta de
+qua venit, in qua et prius stetit. Sed luce clarius
+constat portam ad quam veniebat esse atrii exterioris,
+non atrii interioris. Hoc enim sequentia tam
+aperte indicant, ut nostra probatione non egeant.
+Sed si de aliqua atrii interioris porta ad hanc
+<pb n="0540B"/>
+orientalem portam, quam primo loco metitur veniret,
+per ejus utique gradus descendere, non autem
+ascendere haberet. Sed dicitur: <hi>Ei ascendit per gradus
+ejus.</hi> Sed, ne hoc de alia aliqua atrii exterioris
+porta possimus accipere, manifesta ratio videtur
+contraire. Primo enim in atrio exteriori orientalis
+portae mensuram accipit, et postea ad alias dimetiendas
+per ordinem transit. Cur, quaeso, primo
+loco ejus mensuras non caperet in qua primo stetisset,
+si hoc de alia aliqua atrii exterioris porta
+intelligi voluisset. Patet ergo quod extimi muri
+haec porta fuerit in qua primo loco stetit, de quo muro
+dicitur: <hi>Ecce murus forinsecus in circuitu domus
+undique <note>(Ezech. XL)</note>
+            </hi>. Sed quia de hoc muro ejusque
+mensura adjuncto Scripturae testimonio sufficienter
+<pb n="0540C"/>
+superius dixisse me credo, hic eadem replicare devito: <hi>Et in manu viri calamus mensurae sex cubitorum,
+et palmo 
+ <note>(ibid.)</note>
+            </hi>. Mensuram calami hoc loco definit,
+quod superius cum de eo loqueretur minime determinavit.
+Cur, quaeso, in hoc calamo ad sex cubitos
+palmus adjicitur, nisi quod inter metiendum ex ea
+parte apprehenditur atque tenetur? Quotiescunque
+igitur calami mensuram metientem prophetam colligere
+audimus, nihil aliud, quamvis quidam aliter
+autument, quam sex cubitos intelligere debemus.
+Hinc est quod thalamus calami mensuram prius
+habere describitur, et postea per recapitulationem
+de eodem scribitur. Thalami autem sex cubitorum
+erant hinc et inde. Multipliciter sane idipsum probari
+<pb n="0540D"/>
+valet, quod per seipsum satis diligens lector
+inveniet: <hi>Et mensus est,</hi> inquit, <hi>latitudinem aedificii
+calamo uno, altitudinem quoque calamo uno.</hi> Si
+ad totum refertur quod hic de quodam, nescio quo
+aedificio dicitur, totius descriptionis veritas et auctoritas
+evacuatur. Nonne, obsecro, multo rectius
+multoque convenientius est ad partem referre,
+quam ad totum referendo totum evacuare? Nonne
+magis congruum, rationique consentaneum videtur
+esse, credere Scripturam hoc loco cujusdam aedificii
+mensuras describere, quod juxta seu supra portam
+erat in qua virum stare, et necdum quoque recessisse
+commemorat? Sed nunquid quia semel
+Scriptura totum aedificium nominavit, hoc vocabulo
+deinceps partem designare non potuit, vel non debuit?
+<pb n="0541A"/>
+Nonne totum similiter domum nominavit, et
+tamen hic nomen in subsequentibus ad partem
+referre non timuit, cum dicit: Et erat interior domus
+in lateribus domus? Quid si hoc ipsum aedificii
+nomen invenimus ubi ita positum sit, ut omnino ad
+totum referri non possit? Et erant ante aedificium
+gazophylacia, et via ante faciem eorum juxta similitudinem
+gazophylaciorum quae erant in via aquilonis.</p>
+<p>Sed vel hoc solum debet nobis in hac re fidem
+facere; quia, si hoc hic aedificii nomen volumus ad
+totum referre, omnium quae hic dicuntur, ut dictum
+est, convincimur fidem cassare. Puto tamen
+neminem esse tam improbum, neminem tam posse
+inveniri protervum, quem in hac parte in tam aperta
+<pb n="0541B"/>
+ratione nobis contraire non pudeat, qui in hac
+nos sententia reprehendere non erubescat, cum
+caetera omnia juxta nostram expositionem ad
+litteram posse stare perspexerit, si in tam
+perspicua veritate sanum intellectum non subsannaverit.</p>
+<p>Sed haec hactenus: nunc ad litterae expositionem
+redeamus: <hi>Et mensus est latitudinem aedificii calamo
+uno, altitudinem quoque calamo uno.</hi> Si dixisset:
+Mensus est latitudinem cujusdam aedificii in
+eo loco quo prius stetit; si hoc, inquam, dixisset,
+omnem ambiguitatem tolleret. Nec tamen
+quia hoc non dixit veritatem abstulit, sed pro
+more suo obnubilavit. Sed unum ex subsequentibus
+<pb n="0541C"/>
+intelligi cogit, alterum ex praecedentibus innuit:
+nam quoniam virum qui haec metiebatur de
+porta qua prius steterat necdum recessisse memoratur,
+et loco hoc aedificium conjunctum fuisse
+manifeste innuitur. Quid autem illud dicimus esse
+quod cum dicat de latitudine et altitudine, omnino
+tacet de longitudine, cum naturaliter semper
+prior fit longitudo quam latitudo, vel altitudo?</p>
+<p>Sed attende quam artificiose in eo quod latitudinem
+dixit, longitudinem non tacuit. Ubi enim longitudo
+et latitudo aequalis est in quamlibet partem, latitudo
+recte dici potest.</p>
+<p>Tacendo ergo quod prius dicere debuit, eamdem
+esse longitudinem et latitudinem satis argute
+<pb n="0541D"/>
+ostendit. Quod autem de hac una porta dicimus,
+hoc de duabus reliquis extimi muri portis recte
+intelligimus, quamvis Scriptura manifeste id
+non dicat, sed magis subintelligendum relinquat.
+Neque enim oportuit in his eum diutius morari quae
+per se poterant satis subintelligi. Utrum autem haec
+aedificia in janitorum vel excubiarum ministeria
+deputanda sint, incertum habemus; nos tamen ea
+quasi ad excubiarum officia supra portas locamus,
+secundum quod scriptum invenimus: <hi>Super muros
+tuos, Hierusalem, constitui custodes, tota die et
+nocte non tacebunt laudare nomen Domini <note>(Isa.
+LXII)</note>
+            </hi>.</p>
+<p>Horum itaque quae diximus tale exemplar formamus:
+<pb n="0542A"/> </p>
+<p>
+            <pb n="0542B"/>Notandum sane quod alia translatio non aedificium,
+sed murum habet, ad quem sensum, qui litteram
+nostram applicare voluerit, ab omni se quaestione
+absolvit, cum latitudinem ad muri spissitudinem
+referre possit.</p>
+<p> <hi>Et venit ad portam quae respicit viam orientalem,
+et ascendit per gradus ejus.</hi> Quia orientalis
+est porta ad quam venit, recte et orientalis
+esse creditur illa de qua venit. Nam si de alia
+aliqua veniret, tanto rectius quanto directius ad
+<pb n="0542C"/>
+aliam, hoc est ad ante positam properaret.</p>
+<p>Post hanc portam orientalem de quo modo loquitur
+aquilonaris, et meridiana atrii exterioris, et
+tunc demum tres aliae portae atrii interioris nominatim
+exprimuntur: unde hanc atrii exterioris esse,
+quamvis id Scriptura tacuerit, indubitanter colligitur.</p>
+<p>Hanc portam gradus habere Scriptura commemorat,
+quot tamen habuerit aperte nusquam determinat.
+Sed quia octo habere leguntur simul omnes
+tres atrii interioris, et septem duae aliae atrii exterioris,
+admonemur de similibus similia aestimare,
+et idcirco credimus eam ad exteriorum similitudinem
+septem gradus habere.</p>
+<p> <hi>Et ascendit,</hi> inquit, <hi>per gradus ejus, et mensus est
+<pb n="0542D"/>
+limen portae calamo uno, latitudinem, id est limen unum
+calamo uno in latitudine, et thalamum uno calamo
+in longum, et uno calamo in latum, et inter thalamos
+quinque cubitos.</hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Collectis hinc inde Scripturae testimoniis, hoc hic de una porticu astruitur quod de caeteris omnibus jure intelligatur.</hi> </head>
+<p>Quoniam ad portarum, seu etiam porticuum descriptionem
+ex ordine jam venimus, et multa de eis
+tam obscure prolata, tam ambigue dicta invenimus,
+libet tam ex hoc quam ex aliis Scripturae locis hoc
+hic de una portica astruere, quod oporteat de caeteris
+aliis omnibus indubitanter intelligere. Erant
+<pb n="0543A"/>
+enim omnes sex per omnia similis facturae, ejusdemque
+mensurae, nihilque aliud, si bene recolo, habebant
+dissimile, nisi quod interiorum portarum porticus
+jacebant extrinsecus, exteriorum vero jacebant
+intrinsecus, et quod illorum ascensus in octo,
+istorum autem erat in septem gradibus. Quod autem
+omnes has sex porticus ejusdem mensurae esse
+dicimus, non nostra auctoritate, sed Scripturae attestatione
+probamus. Post hujus portae dimensiones
+de qua modo loquitur de aquilonari porta statim
+subinfertur:</p>
+<p> <hi>Portam quoque quae respiciebat viam aquilonis
+atrii exterioris mensus est, tam in longitudine
+quam in latitudine, et thalamos ejus tres hinc,
+et tres inde, et frontem ejus, et vestibulum ejus secundum
+<pb n="0543B"/>
+mensuram portae prioris.</hi> Similiter de australi
+porta scribitur: <hi>Et ecce porta quae respiciebat
+ad austrum, et mensus est frontem ejus, et vestibulum
+ejus juxta mensuras superiores, et fenestras ejus,
+et vestibula in circuitu sicut fenestras caeteras.</hi> Haec
+sane sententia in omnium sex porticuum descriptione
+semper repetitur, unde una omnium eademque
+mensura esse convincitur. Unumquodque igitur
+horum vestibulorum seu porticuum multipliciter
+divisum erat. Unde et Scriptura saepe unam eamdemque
+porticum, modo singulariter pro toto vestibulum,
+modo pluraliter pro partibus vestibula vocat.
+Principaliter tamen unaquaeque porticus in
+tria dividebatur, unde et in sequentibus una illarum
+<pb n="0543C"/>
+triplex nominatur, quae sententia quidem
+ad omnes juxta praedictam rationem jure refertur:</p>
+<p> <hi>Ubi erat,</hi> inquit, <hi>porticus juncta porticui triplici.</hi> De
+toto itaque videamus prius, et postea de partibus.
+Frontes itaque exteriorum porticuum respiciebant
+versus atrium interius, sicut e converso interiorum
+respiciebant versus atrium exterius. Harum frontium
+mensura describitur cum dicitur: <hi>Et fecit
+frontes per sexaginta cubitos.</hi> Haec erat mensura
+longitudinis omnium porticuum, seu vestibulorum,
+cum tamen per haec nomina intelligimus non partem,
+sed totum. Hujus itaque orientalis portae porticus
+frontem habebat versus occidentem, cujus
+longitudo extendebatur versus aquilonem et meridiem.
+<pb n="0543D"/>
+Extendebatur autem sexaginta cubitis juxta
+mensuram frontis. Latitudo vero ab oriente in occidentem
+dilatabatur quinquaginta cubitis. Unde est
+illud: <hi>et ante faciem portae quae pertingebat usque
+ad faciem vestibuli portae interioris quinquaginta
+cubitos.</hi> Habebat sane haec porticus sicut caeterae
+portam in fronte, hoc est in introitu atrii contra
+portam muri. Alioquin frustra in muro aditus pateret
+extrinsecus, si ex opposito in fronte vestibuli
+obstrueretur intrinsecus. Habebat itaque vestibulum
+portam contra portam, in muro unam, in fronte
+aliam. Ad utriusque itaque distinctionem vocetur
+una porta muri, alia dicatur porta vestibuli. Portam
+itaque interiorem hoc loco dicit portam vestibuli,
+non portam interioris atrii. Nam inter exteriorem
+<pb n="0544A"/>
+et illam (excepto eo quod muri occupabant)
+erant ducenti cubiti. Faciem autem portae dicit locum
+qui erat ante portam exteriorem, sed retro
+portam interiorem. Faciem vero vestibuli portae interioris,
+dicit latus illud quod vestibulum habebat
+ad portam interiorem. Unde manifeste colligitur
+quod antedicta mensura intra parietes sumebatur.</p>
+<p>Bene ergo dicitur: <hi>Et ante faciem portae quae pertingebat
+usque ad faciem vestibuli portae interioris
+quinquaginta cubitos.</hi> Si quis autem id quod diximus
+de hujus vestibuli fronte sive de ejus longitudine
+velit in aliam partem accipere, et longitudinem
+ipsius non ab aquilone in meridiem, sed ab oriente
+in occidentem velit extendere, omnino non poterit
+<pb n="0544B"/>
+stare, et frivolum duco in tam aperta re frustra laborare.
+Haec autem porticus sicut unaquaeque aliarum
+in tria principaliter dividitur. Unde, ut dictum
+est, triplex porticus recte nominatur. Harum autem
+partium, seu porticuum quae medium tenebat nihil
+aliud erat nisi spatium illud seu via illa, quae inter
+portam et portam jacebat, a porta videlicet muri usque
+ad portam vestibuli, cujus latitudo erat secundum
+latitudinem portae decem cubitorum. Longitudo
+vero secundum latitudinem totius porticus quinquaginta
+cubitorum. Hoc autem medium, et minimum
+circumjacebant duo alia ejusdem mensurae, unum
+in uno, et aliud in alio latere, utrumque quinquaginta
+cubitorum in longitudine, et in latitudine cubitorum
+viginti quinque. Horum utique vestibulorum
+<pb n="0544C"/>
+in aliarum omnium portarum descriptione
+Scriptura mentionem facit, et nunc ea singulari,
+nunc plurali numero designans eorum mensuras describit.
+Hinc est quod de aquilonari porta legitur,
+quae statim post hanc subsequenter describitur:</p>
+<p> <hi>Portam quoque quae respiciebat viam aquilonis
+atrii exterioris mensus est tam in longitudine quam
+in latitudine, et thalamos ejus tres hinc, et tres inde,
+et frontem, et vestibulum ejus secundum mensuram
+portae prioris, qninquaginta cubitorum longitudinem
+ejus, et latitudinem viginti quinque cubitorum.</hi> In hoc ergo quod dicitur secundum mensuram prioris
+portae, constat hanc de qua modo disserimus
+<pb n="0544D"/>
+orientalem portam tale, hoc est tantae magnitudinis
+vestibulum habere. Sed ne unum tantum tale habuisse
+credatur, audi quid postmodum de australi
+porta scribitur: <hi>Et eduxit me ad portam australem,
+et mensus est frontem ejus, et vestibulum ejus juxta
+mensuras superiores, et fenestras ejus, et vestibula
+in circuitu sicut fenestras caeteras quinquaginta cubitorum
+longitudinem, et latitudinem viginti quinque
+cubitorum.</hi> Quod prius dicit vestibulum, hoc refertur
+ad totum, ad partes autem quod repetitur vestibula:
+unde et ibi additur in circuitu, eo quod
+medio vestibulo, seu ipsi portae adjacerent per duo
+ejus latera. Haec itaque tria vestibula unum medium,
+et duo lateralia erant sibi invicem in hunc modum
+conjuncta, et implebant cubitos sexaginta.
+<pb n="0545A"/> </p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>De his quae ad unam medietatem cujuslibet porticus pertinere videntur.</hi> </head>
+
+<pb n="0545B"/>
+<p>Sed adhuc in illis duobus lateralibus vestibulis
+aliae sanae subdivisiones esse probantur, quae et ipsae
+quidem in Scriptura vestibula nominantur. Invenio
+ibi vestibulum octo cubitorum, invenio et aliud
+quinque cubitorum. Vestibulum octo cubitorum invenio
+apud portam orientalem atrii exterioris ubi
+legitur: <hi>Et mensus est vestibulum portae octo cubitorum.</hi> 
+Vestibulum quinque cubitorum latitudinis invenio
+apud portam australem atrii interioris. De
+quo scribitur: <hi>Et mensus est vestibulum per gyrum,
+<pb n="0545C"/>
+longitudinem viginti quinque cubitorum, et latitudinem
+quinque cubitorum.</hi> Sed superius Scripturae
+auctoritate probavimus quia quidquid de una qualibet
+harum porticuum in his quae ad mensuram pertinent,
+concedimus, de omnibus pariter pari ratione
+concedere debemus. Ergo apud omnes porticus
+erant vestibula octo cubitorum, similiter et apud
+omnes necesse est, inveniri vestibula quinque cubitorum.
+Sed nunc prius de situ thalamorum videamus,
+et tunc fortassis de istis rationem facilius inveniemus.
+Habet autem unaquaeque porticus sex thalamos,
+tres hinc, et tres inde ab utraque parte viae,
+quos, Scriptura docente, novimus intra ipsas porticus
+sitos fuisse. Porro thalami portae ad viam orientalem
+<pb n="0545D"/>
+tres hinc, et tres inde. Haec de numero thalamorum,
+et in sequentibus de situ ipsorum. <hi>Et fenestras,</hi> inquit, <hi>obliquas in thalamis, et in frontibus eorum quae
+erant intra portam undique per circuitum.</hi> 
+ Si fenestrae,
+quae in thalamis erant, intra ipsam portam erant,
+ergo et ipsi thalami intra portam erant. Nam portam
+hic pro more suo portam ipsam cum tota porticu
+sua appellat. Nam quod dicit aliter omnino
+stare non posset. Tale est illud: <hi>Et mensus est portam
+a tecto thalami usque ad tectum ejus.</hi> Similiter
+hic porticum sub nomine portae designat. Constat
+autem quia unusquisque thalamus cum margine suo
+octo cubitos occupabat. Nam quilibet eorum sex cubitorum
+erat, et marginem unius cubiti non solum
+ante, sed et ab utroque latere habebat, Scriptura
+<pb n="0546A"/>
+attestante, quae ait: <hi>Et mensus est marginem ante
+thalamos cubiti unius, et cubitus unus finis utrumque.
+Thalami autem sex cubitorum erant hinc et inde.</hi> Ter
+autem octo viginti quatuor reddunt, quibus X adjuncti
+XXXIV efficiunt. Idcirco autem praedictis viginti
+quatuor quos de tribus thalamis colligimus, adhuc
+alios decem cubitos adjicimus, quia quinque cubitos
+inter primum thalamum, et secundum, quinque vero
+alios inter secundum et tertium invenimus, secundum
+illud quod legimus: <hi>Et inter thalamos quinque
+cubitos.</hi> Erant itaque absque dubio triginta quatuor
+cubiti ab initio primi thalami usque ad extremitatem
+tertii. Debent autem esse juxta latera portae tres
+hinc, et tres inde. Sed vestibula quae in lateribus
+portae erant quae medio vestibulo decem cubitorum
+<pb n="0546B"/>
+hinc inde adhaerebant, non plus quam viginti quinque
+cubitos in latitudine tenebant. Non potuit ergo
+vestibulorum latitudo trium thalamorum situm capere,
+quem superius docuimus cubitos triginta quatuor
+occupare. Longitudo autem vestibulorum quia
+quinquaginta cubitorum erat, facile eos, et eo amplius
+capere poterat. Locentur itaque tres thalami
+in uno vestibuli latere, eo videlicet loci ubi parieti
+tectum videtur incumbere, ita ut parieti ipsi videantur
+inhaerere, imo ipsum pro uno sui pariete, et
+quasi pro una fronte habere ubi intelligimus fenestras
+illas esse de quibus Scriptura loquitur, cum
+dicit: <hi>Fenestras obliquas in thalamis, et in frontibus
+eorum, quae erant intra portam undique per circuitum.</hi> 
+Exceptis enim aliis absurditatibus quae videntur
+<pb n="0546C"/>
+inde sequi, quas arbitror per se facile posse
+intelligi, non erat unde clarum lumen habere potuissent,
+nisi parietibus vestibuli hinc inde adhaererent,
+ubi fenestras haberent ut lumen reciperent.
+Unum igitur ex collateralibus vestibulis orientalis
+porticus quae medio vestibulo lateribus portarum
+hinc inde adhaerebant hic ponimus; ut quomodo
+thalami parietibus adhaererent, vel quomodo ipsum
+vestibulum in septem sectiones dividerent, sub oculis
+repraesentemus.
+<pb n="0546D"/> </p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>De caeteris quae de porticu restant, ad totius descriptionis completionem.</hi> </head>
+
+<pb n="0547A"/>
+<p>Hoc facto constat procul dubio inter duas exteriorum
+thalamorum extremitates triginta quatuor esse
+cubitos, et adhuc ab utraque parte octo cubitos superesse.
+Nam constat triginta quatuor et bis octo
+quinquaginta implere. Hoc itaque expleto, si contra
+laterales thalamorum margines modico prius muro
+subtracto, deinde columnis erectis quemadmodum in
+claustris videmus, quasi tot parietes usque ad medium
+vestibulum erigimus, unum procul dubio vestibulum
+in septem dividimus. Ecce quomodo situs
+thalamorum vestibulum unum in septem dividit;
+nec tamen ejusdem quantitatis omnia, sed alia majora,
+<pb n="0547B"/>
+alia minora relinquit. Facta itaque hac divisione,
+quod superius quaesivimus hic possumus invenire,
+vestibula videlicet alia octo cubitorum in
+latitudine, alia autem cubitorum quinque, utraque
+tamen viginti quinque cubitorum in longitudine.
+Nam duo illa quae inter tres thalamos erant quinque
+cubitos in latitudine, sed viginti quinque in longitudine
+habebant. Duo autem illa quae hinc inde
+ultra thalamos fuerant, octo cubitos in latitudine,
+viginti quinque autem in longitudine tenebant. Sed
+et illa tria in quorum extremis tres thalami siti
+erant, sex tamen cubitis in latum se intra parietes
+expandebant. Quidquid autem de uno vestibulo ab
+una parte viae jam diximus, totum hoc de alio ex
+<pb n="0547C"/>
+alia parte viae sentire debemus. Totidem enim thalamos
+eodem modo sitos habebat: et per totidem
+paresque partes per omnia divisum erat. Duo itaque
+vestibula hinc inde in quatuordecim subdividuntur,
+quibus dum medium adjungitur unius porticus juxta
+unamquamque portam quindecim subdivisiones numerantur.
+Post ista quae de porticuum divisione jam
+diximus, restat hic illud adhuc quaerere, quid de
+liminibus illis quae Scriptura commemorat sentire
+debeamus. Tria enim limina Scriptura manifeste designat:
+et unumquodque illorum portae limen esse
+denuntiat. Sed non potuit, sicut nec debuit una porta
+nisi unum limen habere, etsi unum ex his portae
+muri, et alterum portae vestibuli volumus assignare;
+restat tamen adhuc de tertio quaerere. Quaeramus
+<pb n="0547D"/>
+itaque prius quod horum propriae portae dicatur, et
+quod propriae portae non est cur portae esse asseratur.
+Sed nulla illarum quatuordecim subdivisionum
+quas superius ostendimus plusquam octo cubitos in
+latitudine habuit: nulla ergo illarum limen decem
+cubitorum latitudinis capere potuit, quarum introitus
+nonnisi a fronte earum juxta medium vestibulum
+fuit. Nulli ergo dubium illud limen proprie dici portae
+quod legitur decem cubitos latitudinis habuisse. Hoc
+utique Scriptura satis aperte innuit, cum, post descriptionem
+liminis decem cubitorum, statim de longitudine
+portae subintulit: <hi>Et mensus est latitudinem
+liminis portae decem cubitorum, et longitudinem portae
+tredecim cubitorum.</hi> Qui enim latitudinem portae ex
+latitudine liminis designaverat, restabat solam ejus
+<pb n="0548A"/>
+longitudinem describere quam necdum expresserat.
+Sed cum una porta ex una parte vestibuli contra
+aliam ex alia parte erigatur, ita ut una porta videatur,
+unaque quamplures frequentius dicatur, quid
+causae, quaeso, erit cur una major, altera autem minor
+esse credatur? Constat sane duo alia limina
+nonnisi sex cubitos latitudinis habuisse: quorum
+unum si volumus alteri portae assignare, convincimur
+eam alia minorem astruere. Sed si hoc Scriptura
+sensit, seu nos sentire voluit, cur, quaeso,
+post descriptionem liminis statim de longitudine non
+subintulit, sicut de alia fecit? Cur utriusque portae
+latitudo ex liminum descriptione exprimitur, et alterius
+tantum longitudine diligenter expressa de alterius
+longitudine omnino tacetur? Sed tacendo de
+<pb n="0548B"/>
+una, quod de altera tam diligenter expressit satis
+evidenter innuit, quia quod de una dixit, totum de
+alia intelligi voluit. Utraque itaque porta, vel si hoc
+melius sonat una utrinque porta limen decem cubitorum
+habebat, et decem cubitorum in latitudine erat
+et tredecim cubitos in longitudine tenebat. Restat
+nunc de aliis liminibus quaerere vel quorum sint,
+vel quae propriae portae non sunt, cur dicantur ejus
+esse? Sed secundum quod totam porticum portam
+saepe nominat, quid mirum si ipsius vocat quod intra
+ipsam erat? Sic sane, si sensum scriptoris cupimus
+intelligere, oportet procul dubio magis locutionis
+ejus modos notare et nosse, quam de locutionum
+proprietate disputare. Limina itaque ista quae sex
+<pb n="0548C"/>
+cubitorum esse describuntur, quia intra portam
+erant, portae dicantur; propriae tamen aliquorum
+vestibulorum quae in novissima subdivisione assignavimus
+esse creduntur. Manifestum est autem
+quod illorum quae sex cubitorum erant dici non possint
+si tota fronte patebant; sin autem, jam omnino
+limen sex cubitorum capere non poterant. Sed nec
+illorum esse poterant quae inter thalamos jacebant;
+quia quinque cubitos tantum in latitudine tenebant,
+et sex cubitorum limina procul dubio omnino capere
+non poterant. Relinquitur ergo duo illa praedicta
+limina illorum vestibulorum fuisse quae superius
+probavimus in sua latitudine octo cubitos habuisse.
+Nam ex his quae superius dicuntur duo illa vestibula
+quae ultra thalamos hinc inde locantur sexdecim
+<pb n="0548D"/>
+cubitos tenere convincuntur. Quae si quis velit
+per duo inaequalia dividere, et uni minus, alteri majus
+tribuere, in tantum ut alterum eorum possit
+etiam limen decem cubitorum capere, et in hunc
+modum conetur priorem illam assertionem nostram
+evacuare, jam profecto neutrum illorum vestibulorum
+octo cubitorum erit, nec jam inveniri poterit
+cui Scriptura illa recte aptari possit: <hi>Et mensus est
+vestibulum portae octo cubitorum.</hi> Si igitur unum istorum
+est octo cubitorum, profecto octo cubitorum
+erit et alterum. Quidquid enim ex sedecim numero
+uni detrahitur, procul dubio alteri relinquitur. Sed
+quia sufficienter, ut arbitror, de porticus descriptione
+jam diximus, et quae de thalamis seu liminibus
+hoc loco dicenda videbantur ordine prosecuti
+<pb n="0549A"/>
+sumus, liber hoc loco ad majorem dictorum dicendorumque
+evidentiam, omnium quae superius per
+partes prolata sunt formam in unam figuram colligere,
+ut intuentis animus eorum omnium locum,
+<pb n="0550A"/>
+situm et numerum, qualitatem, quantitatem, proportionem
+facile possit ex ejus contemplatione colligere.
+<pb n="0549"/> </p>
+<p>
+            <pb n="0549B"/>Sed quia difficile, seu etiam impossibile est longitudinem,
+et latitudinem, et altitudinem aedificiorum
+in plano sub eadem figura repraesentare, sufficere
+arbitror horum omnium quae diximus situm,
+locumque conformasse, et lineis proportionalibus
+ductis omnium eorum quasi quoddam fundamentum
+jecisse. Cum enim lineas proportionali commensuratione
+modificatas aspicimus, et per eas
+nihil aliud quam quaedam parietum jacta seu designata
+fundamenta intelligimus, facile est subintelligere
+ab hac linearum deductione parietes in altum
+surgere, ipsisque parietibus tectum incumbere.
+Si quis me fortassis in hac nostra expositione prolixitatis
+arguat, videat, obsecro, quam recte id
+faciat. Sed ut verum fatear malo esse subtilioribus
+fastidiosus, quam tardioribus obscurus, praesertim
+in tam obscura re, ubi pene omnia quae dicuntur
+<pb n="0550B"/>
+probatione indigent potius quam expositione. Sed
+jam ad expositionem litterae redeamus, quam ex
+majori jam parte in his duntaxat quae de porticibus
+dicuntur planam esse confidimus.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Expositio litterae super descriptionem orientalis portae.</hi> </head>
+<p> <hi>Et mensus est,</hi> inquit, <hi>limen portae calamo uno, latitudinem</hi> 
+(id est limen unum), <hi>calamo uno in latitudine.</hi> 
+Sicut superius ostendimus, quamvis hoc limen
+proprium portae non fuerit, idcirco tamen illud
+portae esse dicit, quia intra ipsam ejus porticum
+fuit, quam etiam saepe sub nomine portae designare
+consuevit. Quam autem vir ille qui portam ingreditur
+hoc limen primo loco, et ante thalamos metitur,
+<pb n="0551A"/>
+patenter, ut arbitror, Scriptura innuit quod in
+primo praedictorum VII vestibulorum invenitur. Sed
+cum prius dictum sit Mensus est limen calamo uno
+latitudinem, quid est quod exponendo, vel quasi corrigendo
+quod quasi improprie dixerat, statim subintulit,
+id est, limen unum in latitudine? Sed diligentius
+consideranti quid aliud videtur esse haec expositio,
+vel correctio sententiae, nisi quaedam declaratio
+propheticae intelligentiae, ne nos lateret quid propheta
+dicere voluisset? Ac si aperte dicat se limen
+improprie quidem portae limen appellasse, sed quoddam
+limen seu unum limen dicere debuisse. Quod
+ergo secundum aliquem modum limen hoc dici possit
+portae, monet per primam expositionem, quod
+propriae dictum non sit portae, docet per subjunctam
+<pb n="0551B"/>
+expositionem. Quod ergo dicitur unum, permonet
+et alia limina ibi esse, nec hoc proprie dici portae.
+Quod autem latitudinem bis ponit per inculcationem
+attentius commendare voluit, ne quis quod de hoc
+limine, et post de decem cubitorum limine dicitur
+ad idem limen referre velit, cum utrobique latitudinem
+dici invenerit. Si tamen longitudo non latitudo
+poneretur, fortassis magis propriae dictum
+videretur. Denique ubi nos habemus latitudinem
+lxx, teste Hieronymo, posuerunt longitudinem. Sed
+saepe latitudo ponitur, ut non quantitatis speciem,
+sed simpliciter quantitatem significare videatur.
+Sequitur:</p>
+<p> <hi>Et thalamum uno calamo in longum, et uno calamo
+<pb n="0551C"/>
+in latum, et inter thalamos quinque cubitos,</hi> in
+quibus verbis repetendum est <hi>mensus est.</hi> Attende
+nunc quam competenti ordine incedit, et quomodo
+paulatim, et per partes scientiae semina spargit.
+Primo de limine dicit quod erat in primo vestibulo,
+postea de mensura thalami qui erat in secundo,
+deinde vero de mensura spatii quod erat inter thalamos
+addit, in quo jam quod plures sint ostendit,
+novissime autem ad ultimum vestibulum venit quod
+ultra omnes thalamos situm fuit, cujus limen prius,
+et postmodum ispius vestibuli mensuram describit,
+cum dicit, et limen portae juxta vestibulum portae
+intrinsecus calamo uno. Et mensus est vestibulum
+portae octo cubitorum, et frontem ejus duobus cubitis.
+Quod autem hoc limen item portae dicitur, eodem
+<pb n="0551D"/>
+hic modo quo et superius accipitur. Manifeste
+autem determinat ubi hoc limen fuerit, juxta illud
+videlicet vestibulum quod intrinsecus erat, et inter
+duo circumadjacentia vestibula medium jacebat. Ex
+hoc loco, ut arbitror, manifeste ostenditur quod
+frontes minimorum vestibulorum medio vestibulo
+jungebantur.</p>
+<p>Notandum sane quod postquam hoc limen, quemadmodum
+superius, portae limen nominavit, statim
+per subjunctam determinationem ostendit quod
+portae limen proprie dictum non sit. Si enim hoc
+limen esse portae limen proprie dictum fuisset,
+procul dubio ubi esset per determinationem subjungere
+non oporteret. Modo autem ubi fuerit, determinatur
+in eo quod dicitur, <hi>juxta vestibulum portae intrinsecus.</hi> 
+<pb n="0552A"/>
+Erat itaque illud limen cujus mensuram
+capiebat juxta illud vestibulum portae quod intrinsecus
+erat, et in triplici porticu medium locum
+tenebat. Post mensuram liminis, mensuram ipsius
+vestibuli adnectit, cum dicit: <hi>Et mensus est vestibulum
+portae octo cubitorum, et frontem ejus duobus
+cubitis.</hi> Haec utique mensura medio vestibulo convenire
+non poterat. Nihil aliud enim medium vestibulum
+erat, nisi transitus, seu via quae de porta ad
+portam per medium porticum patebat. Longitudinem
+itaque ejus secundum latitudinem totius porticus
+quinquaginta cubitorum esse oportuit. Latitudo
+autem non minor quam latitudo portarum esse
+potuit, quae procul dubio, ut postea liquebit, X cubitorum
+fuit. Liquet ergo quod praedicta mensura ejus
+<pb n="0552B"/>
+vestibuli erat cujus limen prius descripserat. Sed
+cum vestibuli mensura sumitur, quid, quaeso, est,
+quod cujus sit longitudinis videlicet an latitudinis
+non determinatur? Sed solet saepe sine determinatione
+relinquere quod praevidet prudentem lectorem
+ex aliis circumstantiis per se posse intelligere.
+Postquam enim constiterit duo collateralia triplicis
+porticus vestibula hinc inde quinquagina cubitos
+longitudinis, et viginti quinque cubitos latitudinis
+habere, palam perpendi poterit minima vestibula viginti
+quinque cubitorum longitudinis fuisse. Nam
+minima vestibula nihil aliud quam maximorum
+vestibulorum quasdam sectiones per transversum
+oportet intelligere. Latitudo itaque ultimi vestibuli
+<pb n="0552C"/>
+describitur in eo quod dicitur, Et mensus est vestibulum
+portae octo cubitorum. Illud autem notandum
+quod pene quidquid hucusque de mensura est disputatum,
+determinare videtur latitudinem minimorum
+vestibulorum. Ubi autem nos habemus, <hi>et frontem
+ejus duobus cubitis,</hi> Hieronymus rursus aliam litteram
+ponit, <hi>et in fronte ejusdem,</hi> seu <hi>in marginibus
+duos cubitos.</hi> Ex quibus verbis manifeste colligitur,
+quod illi duo cubiti hoc loco designant, qui ostio
+sex cubitorum unus hinc et alius inde in marginibus
+superesse videbantur. Nam, si constat vestibulum
+octo cubitos latitudinis habere, necesse est ejus
+ostio sex cubitorum latitudinis duos cubitos in fronte
+superesse. Sed in duobus cubitis frontis secundum
+nostram litteram forsitan dat melius intelligi illud
+<pb n="0552D"/>
+spatium quod supra ipsam portam fuit usque ad
+tabulatum supereminentis coenaculi, et secundum
+hoc quod dicitur ejus, non ad vestibulum, sed ad
+portam debet referri: nam quomodo haec sententia
+ad totius altitudinem complendam valeat, in sequentibus
+patebit. Quod autem sequitur Vestibulum
+portae erat intrinsecus, ad totam porticum referre
+debemus. Haec itaque porticus intrinsecus erat, quia
+intra murum cui adhaerebat sita erat. Sequitur:</p>
+<p> <hi>Porro thalami portae ad viam orientalem tres hinc,
+et tres inde.</hi> Mensura una trium, et mensura una
+frontium ex utraque parte. Ecce quomodo paulatim
+se promovet. Thalamorum numerum determinat de
+quo nondum constabat, et ad unius thalami mensuram
+qui superius describitur trium mensura subinfertur.
+<pb n="0553A"/>
+Sed quia jam constat numerus thalamorum,
+constat aeque etiam de numero vestibulorum, sed
+nondum constat de mensura omnium. Situs namque
+thalamorum (secundum quod superius patuit) unum
+latus porticus in VII sectiones dividit quas Scriptura
+vestibula dicere consuevit, quarum ultimam jam
+superius vestibulum nominavit. Duo siquidem
+quinque cubitorum spatia tres thalami inter se incluserant,
+et duo alia ultra se seclusa reliquerant,
+et ipsi tres tria tenebant, quae omnia in septenarium
+redundant. Post ista limen ipsius portae describitur
+cum dicitur: <hi>Et mensus est latitudinem liminis portae</hi> 
+X <hi>cubitorum, et longitudinem portae</hi> XIII <hi>cubitorum.</hi> 
+Ecce limen hoc ut superiora portae limen dicitur, et
+tamen hic, ut in superioribus, nihil determinationis
+<pb n="0553B"/>
+adjungitur, et ex eo ipso innuitur quod vere et
+proprie portae dicatur. Quod autem vere et proprie
+portae dictum sit, facile convinci poterit, cum omnium
+vestibulorum mensura constiterit. Sed omnium
+sane mensura facile convincitur ex eo quod
+illico subinfertur: Et marginem ante thalamos cubiti
+unius, et cubitus unus finis utrinque. Thalami
+autem sex cubitorum erant hinc et inde. Quod dicit
+marginem cubiti unius ante thalamos fuisse, et cubitum
+unum finem utrinque, debemus sub eodem
+sensu accipere scilicet marginem cubiti unius non
+solum in thalamorum fronte fuisse, sed etiam in
+utroque latere. Nihil autem aliud intelligimus hunc
+marginem circa thalamum, nisi ejecturam quamdam
+muri, quemadmodum fieri solet vel ad sedendum,
+<pb n="0553C"/>
+vel ad muri firmamentum. Saepe etenim paries in
+inferioribus latior fundatur, et cum paululum elevatus
+fuerit iterum restringitur. Si igitur thalami sex
+cubitorum erant, et adhuc cubitum unum utrinque
+sicut et ante in margine usque ad finem habebant,
+ergo a fine usque ad finem thalamorum octo cubiti
+erant. Tres itaque thalami ter octo, id est XXIV, cubitos
+occupabant, et inter primum et secundum thalamum
+V cubiti, et item inter secundum et tertium
+alii V erant, qui superioribus adjuncti XXXIV efficiunt.
+Sed et ultimum vestibulum octo cubitorum
+legitur, qui numerus si superiori adjungitur usque
+ad XLII aggregationis summa extenditur. Octonarius
+itaque qui adhuc superest de quinquaginta primo
+<pb n="0553D"/>
+vestibulo remanet. Nam tota porticus a porta usque
+ad frontem vestibuli sicut postea legitur quinquaginta
+cubitos habet. Nullum ergo hujusmodi vestibularum
+limen X cubitorum capere potuit. Patet
+ergo quia proprie portae fuerit. Sed ex eo etiam,
+sicut superius dictum est, innuitur quod post mensuram
+liminis in qua et latitudo portae continetur,
+statim de ejus longitudine subinfertur: <hi>Et mensus
+est,</hi> inquit, <hi>latitudinem liminis portae</hi> X <hi>cubitorum,
+et longitudinem portae</hi> XIII <hi>cubitorum.</hi> </p>
+<p>Notandum quomodo post dimensionem thalamorum,
+vestibulorum, liminumque eorum hujus portae
+describit mensuram, ex quo intelligi datur quod
+haec quam metitur interior porta fuerit. Vide ergo
+quam artificiose primae portae mensura de qua nihil
+<pb n="0554A"/>
+dicitur, ex hujus portae descriptione docetur. Ratio
+siquidem non sinit credere exteriorem portam interiore
+esse minorem, nec Scripturae auctoritas patitur
+eam esse latiorem. A lateribus namque portarum,
+et a lateribus medii vestibuli ubi frontes scilicet
+minimorum vestibulorum medio vestibulo adhaerebant,
+usque ad geminos hinc inde parietes totius
+porticus XXV cubiti erant. Vestibula namque illa
+quae hinc inde lateribus portarum medioque vestibulo
+adhaerebant, ut ex caeterarum porticuum descriptione
+plenius deprehenditur, XXV cubitos latitudine
+tantummodo habebant. Si igitur bis XXV cubitis hinc
+inde sumptis X cubitos (latitudinem scilicet portarum)
+adjungimus, procul dubio mensuram frontium
+totius porticus LX videlicet cubitos implemus. Si
+<pb n="0554B"/>
+igitur frontes hinc inde tantummodo LX cubitos habuerunt,
+portae plus quam X cubitos omnino habere
+non poterunt. Superius ostendimus quam ordinate
+incederet dum unum latus per partes describeret
+donec ad interiorem portam ex ordine veniret. Descripto
+uno latere, breviter subinfert unam eamdemque
+mensuram esse thalamorum, tam hinc quam
+inde, ut compendiose doceret quidquid de uno latere
+dicitur de alio debere intelligere. Hinc est quod
+in aliarum porticuum descriptionibus dum brevitati
+studet, unum ex collateralibus vestibulis quinquaginta
+cubitorum longitudinis, et viginti quinque cubitorum
+latitudinis diligenter describit, et de alio
+tacite praeteriens eadem subintelligenda relinquit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>De his quae pertinent ad descriptionem totius.</hi> </head>
+
+<pb n="0554C"/>
+<p>Post partium descriptionem, tria sub una continuatione
+subinferuntur, in quibus mensura totius
+breviter comprehenditur, atque completur. Primum
+pertinet ad altitudinem, secundum complectitur
+totius porticus longitudinem, tertium totius latitudinem.
+Ad altitudinem pertinet quod dicitur: <hi>Et
+mensus est a tecto thalami usque ad tectum ejus latitudinem
+viginti quinque cubitorum, portam ostium contra
+ostium.</hi> Ad longitudinem pertinet quod sequitur: <hi>Et fecit frontes per sexaginta cubitos.</hi> 
+ Ad latitudinem
+quod novissime ponitur: <hi>Et ante faciem portae quae
+<pb n="0554D"/>
+pertingebat usque ad faciem vestibuli portae interioris,
+quinquaginta cubitos.</hi> Quomodo autem ex primo capitulo
+totius altitudo animadverti possit, ex novissimis
+hujus descriptionis plenius patebit. Per omnes
+autem coenacula seu solaria esse credimus, sicut in
+caeteris domorum porticibus, seu caeteris aedificiis
+pene ubique invenimus. Nihil itaque aliud intelligimus
+tectum thalami, nisi pavimentum solarii, ita ut
+idem tabulatum esset et thalami tectum, et coenaculi
+pavimentum, et forte secundum morem terrae Palaestinorum
+debemus intelligere tectum portae planum
+esse, non erectum. Erat itaque superius coenaculum
+altitudinis viginti quinque cubitorum, secundum
+altitudinem tecti ad tectum. Sed nota quod
+latitudinem posuit ubi altitudinem ponere debuit,
+<pb n="0555A"/>
+usus enim latitudinis nomine saepe abuti solet: nam,
+cum sint tres dimensionis species, longitudo, latitudo
+et altitudo, sic saepe latitudo ponitur ut solum
+spatii quantitatem, non autem aliquam dimensionis
+speciem determinare videatur. Latitudinem itaque
+hoc loco improprie posuit, quemadmodum superius
+ubi limina descripsit. Quod autem dicitur ostium
+contra ostium, defectiva oratio est, sed habentem,
+sive aliquid ejusmodi subaudiri potest. Mensus est
+itaque portam habentem in ipsis thalamis ostium
+contra ostium, quia ostia trium thalamorum ab uno
+latere erant opposita ostiis trium aliorum. Quod
+autem frontes ponitur in eo quod subsequenter adjungitur: <hi>Et fecit frontes per sexaginta cubitos,</hi> 
+ ad
+geminam porticus faciem refertur, unam qua ad
+<pb n="0555B"/>
+interiora, alia qua ad exteriora respiciebat. De interiori
+autem ejus fronte intelligit quod subsequenter
+adjungitur: <hi>Et ad frontem atrium portae undique
+per circuitum.</hi> Hoc itaque pavimentum, tria porticus
+latera ambiebat, sicut via altrinsecus jacens
+evidenter ostendit circa quod situs gazophylaciorum
+ordinatus fuit.</p>
+<p>Notandum sane quod ex mensura frontium LX cubitorum
+intra parietes sumitur quemadmodum ex
+aliis locis facile colligitur, sicut ex eo loco ubi vestibulum
+XXV cubitorum longitudinis, et V cubitorum
+latitudinis describitur, sicut ibi monstrabitur. Debemus
+vel de mensura latitudinis sentire, intra parietes
+videlicet sumptam esse. In eo autem quod
+<pb n="0555C"/>
+dictum est, et fecit frontes per LX cubitos, determinata
+est totius porticus longitudo, nunc autem in eo
+quod subinfertur, determinatur ejus latitudo, et
+ante faciem portae quae pertingebat usque ad faciem
+vestibuli portae interioris quinquaginta cubitos.
+Faciem portae, interiorem muri superficiem vocat
+illam videlicet quam ad se habebat qui intus erat,
+et mensuram capiebat. Mensus est ergo ab interiori
+parte non ab exteriori, quia si ab exteriori
+mensuram caperet, tanto plus L cubitis inveniret
+quantum spissitudinis murus tenebat. Faciem autem
+vestibuli portae interioris dicit illam partem vestibuli
+quam ad templum habuit, et portae interiori
+cohaesit. In eo autem porta usque ad faciem vestibuli
+pertingebat, quod porticum suam usque in id loci
+<pb n="0555D"/>
+extendebat. Quod autem usque ad faciem vestibuli
+dicitur, ad duo respondere videtur, et usquequo
+videlicet porta pertingeret, et quousque spatium
+quinquaginta cubitorum se extenderet. Fecit ergo,
+sive mensus est ante faciem portae quae pertingebat
+usque ad faciem vestibuli portae interioris quinquaginta
+cubitos. Sequitur:</p>
+<p> <hi>Et fenestras obliquas in thalamis, et in frontibus
+eorum quae erant intra portam undique per circuitum
+fecit a superioribus.</hi> In his verbis repetitur, fecit
+ergo fenestras obliquas, id est interius latiores, et
+exterius angustiores. Fecit eas in thalamis et in
+frontibus eorum, hoc est maxime in frontibus, quae
+fenestrae intra portam, hoc est intra porticum erant,
+quia thalami in quibus ipse fenestrae erant intra ipsam
+<pb n="0556A"/>
+porticum consistebant. Nam de fenestris, quae
+ipsorum vestibulorum non autem thalamorum fuere,
+curavit consequenter adjungere: <hi>Similiter autem,</hi> 
+inquit, <hi>erant et in vestibulis fenestrae per gyrum intrinsecus,</hi> 
+ubi et additur: <hi>et ante frontes pictura
+palmarum,</hi> quod expositione non eget.</p>
+<p>Notandum quod dicit pluraliter in vestibulis et
+intrinsecus; puto autem quod ex hoc loco facile innotescat,
+quod totam porticum sub portae appellatione
+quandoque comprehendat. Quamvis enim
+porta decem cubitorum unum thalamum facile comprehenderet,
+plures tamen comprehendere minime
+posset ut de eo dici debuisset: Et fenestras obliquas
+in thalamis quae erant intra portam. Sequitur:</p>
+<p> <hi>Eduxit me ad atrium exterius.</hi> Ad interiora quidem
+<pb n="0556B"/>
+dicitur, et tamen educitur qui porticum in qua
+prius erat egreditur. Educitur autem ad atrium
+exterius, quia erat et alius interius, <hi>et ecce gazophylacia,
+et pavimentum stratum lapide in atrio
+undique per circuitum. Triginta gazophylacia in
+circuitu pavimenti.</hi> De his interim gazophylaciis
+nihil aliud volumus dicere, nisi quod decem
+et quinque erant hinc, et decem et quinque
+erant inde. Pavimentum autem hoc habebat
+XV gazophylacia ab Aquilone, et decem et quinque
+a Meridie. Porticum atrii exterioris ab Oriente, porticum
+atrii interioris ab Occidente, unde est illud
+quod postea additur: <hi>Et pavimentum in fronte portarum
+secundum longitudinem portarum erat inferius,</hi> 
+ideo autem inferius, quia portae, sive ipsa porticus
+<pb n="0556C"/>
+magna proceritate supra illud attollebantur sursum,
+et illud in imo inter illas jacebat deorsum. Ex hoc
+item loco patet in quam partem longitudo porticuum
+accipi debeat. Nam, si pavimentum erat in fronte
+portarum secundum longitudinem earum, constat
+quia longitudo porticuum erat quae se extendebat
+juxta pavimentum. Mensuram pavimenti deinceps
+determinat quam nondum expresserat: <hi>Et mensus
+est latitudinem a facie portae inferioris usque ad frontem
+atrii interioris extrinsecus centum cubitos ad
+Orientem, et ad Aquilonem.</hi> Portam inferiorem vocat
+portam atrii exterioris; nam in loco eminentiori
+erat porta atrii interioris. Aedificium siquidem supra
+montem excelsum nimis constitutum erat, sicut
+<pb n="0556D"/>
+in ipso descriptionis exordio Scriptura commemorat.
+Portae ergo quae erant exteriores, et ipsae inferiores,
+et quae erant interiores, eaedem et superiores.
+Per faciem itaque portae inferioris vult intelligi
+frontem vestibuli exterioris, per frontem atrii
+interioris extrinsecus faciem exteriorem superioris
+porticus intelligere debemus. Nam interior porticus
+convertebat faciem suam ad exteriora, et exterior
+nihilominus convertebat suam ad interiora</p>
+<p>Notandum sane ex hoc loco quod locum in quo
+interiores porticus erant, nunc atrio interiori, nunc
+exteriori attribuat. Unde et in inferioribus de eadem
+porticu seu vestibulo dicet: <hi>Et vestibulum ejus, id
+est atrii exterioris. Erat autem ab Oriente porta inferior,
+ab Occidente vero porta interior.</hi> Quomodo
+<pb n="0557A"/>
+ergo mensus est a facie portae inferioris usque ad
+frontem atrii interioris centum cubitos ad Orientem,
+cum hoc sit ab Oriente in Occidentem, non ab Occidente
+versus Orientem? Quapropter distinctio ibi
+est facienda, et mensus est latitudinem a facie portae
+inferioris usque ad frontem interioris extrinsecus.
+Ibique alia sententia inchoanda, et a superioribus
+quidem mensus est, repetendum est ita: <hi>Mensus est
+autem centum cubitos ad Orientem, et ad Aquilonem,</hi> 
+hoc est centum cubitos ab Occidente versus Orientem,
+et similiter centum cubitos a Meridie versus
+Aquilonem; vel quod dicit ad Orientem, et ad Aquilonem,
+sic intelligere possumus: Ad Orientem, id
+est ad orientalem plagam, mensus est centum cubitos
+inter portam et portam. Et ad Aquilonem, id
+<pb n="0557B"/>
+est aquilonarem plagam, similiter mensus est centum
+cubitos inter portam et portam, ita ut hoc ultimum
+dictum sit, per anticipationem. Jam sufficienter,
+ut arbitror, hucusque de unius porticus descriptione
+dictum est, et quod de reliquis sequitur,
+sine expositione pene per omnia ex praedictis facile
+intelligi potest. Sciat autem qui haec legerit omnia
+pene quae de porticibus disseruimus ex Scripturae
+auctoritate posse convinci, et multa a nobis etiam
+potuisse ampliore ratione probari, quae sponte praeterimus,
+dum fastidium vitamus.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>De aquilonari et australi porticu exterioris atrii.</hi> </head>
+<p>
+            <pb n="0557C"/>Post descriptionem ergo portae orientalis describitur
+mensura portae aquilonaris, in his verbis: <hi>Portam quoque quae respiciebat viam Aquilonis atrii
+exterioris mensus est tam in longitudine quam in latitudine,
+et thalamos ejus tres hinc, et tres inde, et
+frontem ejus et vestibulum ejus secundum mensuram
+portae prioris, quinquaginta cubitorum longitudinem
+ejus, et latitudinem viginti quinque cubitorum.</hi> 
+ Portam
+hic accipit proprie quam mensus est, sicut
+superiorem tredecim cubitorum in longitudine,
+et decem cubitorum in latitudine, et thalamos
+ejus tres hinc, et tres inde, omnes sex cubitorum,
+et frontem ejus sexaginta cubitorum, et
+vestibulum ejus secundum mensuram portae prioris,
+<pb n="0557D"/>
+quinquaginta cubitorum longitudinem ejus, et latitudinem
+ejus viginti quinque cubitorum. Tale vestibulum
+nusquam ibi aperte descripsit, et tamen
+tale ut ex hoc loco convincitur, ibi fuit, nec solum
+unum, sed duo, quia unum in latere uno, et aliud
+in latere alio, excepto eo, quod jacebat in medio:
+nec idcirco minus ibi fuit quale ibi describit unum
+magnum vestibulum, quia partes non auferunt, sed
+constituunt totum. Hinc est quod, descriptis partibus
+prius, postea de toto subinfertur, cum dicitur: <hi>Fenestrae autem ejus, et vestibulum, et sculpturae secundum
+mensuram portae quae respiciebat ad Orientem.</hi> 
+Ecce hic vestibulum repetitur, sed prius ponitur
+ad partes quod postea ad totum refertur. Quod
+ergo prius vestibulum, non vestibula dicit, numerum
+<pb n="0558A"/>
+pro numero quemadmodum in sequentibus thalamum,
+non thalamos ponit. Possumus tamen ex
+superioribus hinc et inde repetere, et ad vestibulum
+referre. Post haec quiddam hic additur, quod de
+superiori porta non legitur, quod tamen de illa
+etiam recte intelligitur, ad cujus mensuram ista
+describitur: <hi>Et septem graduum,</hi> inquit, <hi>erat ascensus
+ejus.</hi> Commune est utrique quod sequitur, <hi>et vestibulum
+ante eam.</hi> Omnes sane portae exteriores porticus
+ante se habebant. Nam interiores, sicut jam
+diximus, post se porticus suas habebant. Sequitur:</p>
+<p> <hi>Et porta atrii interioris contra portam Aquilonis.</hi> Haec enim interior porta Aquilonis frontem habebat
+contra exteriorem portam aquilonarem, et dextrum
+latus contra prius descriptam portam orientalem.
+<pb n="0558B"/>
+Vel quod dicit portam atrii interioris esse contra
+portam Orientis et Aquilonis, possumus de diversis
+portis accipere, ut intelligamus quod porta atrii
+interioris sit contra portam Aquilonis, sicut porta
+atrii interioris erat contra portam Orientis, et tunc
+quod de porta Orientis dicit, repetitio sit ejus sententiae
+quam superius de eodem posuit. Quamvis
+autem nolit hic ejus mensuram describere, voluit
+tamen hic de ea breviter tangere, ut pavimenti
+mensuram, quod inter ipsam et exteriorem jacebat,
+posset congruentius subinferre: <hi>Et mensus est,</hi> inquit, <hi>a porta usque ad portam centum cubitos.</hi> </p>
+<p>Notandum quod solam longitudinem centum cubitorum
+describit. Nam latitudo pavimenti quanta
+fuerit, vel quid de ea sentiendum sit, melius ex sequentibus
+<pb n="0558C"/>
+patebit. Descripta porta aquilonari, postea
+sequitur de porta australi: <hi>Et eduxit me ad viam
+australem, et ecce porta quae respiciebat ad austrum,
+et mensus est frontem ejus, et vestibulum ejus juxta
+mensuras superiores, et fenestras, et vestibula ejus in
+circuitu, sicut fenestras caeteras quinquaginta cubitorum
+longitudinem, et latitudinem viginti quinque cubitorum.</hi> </p>
+<p>Notandum quod dicitur secundum mensuras superiores.
+Nam, si ejusdem mensurae sunt omnes,
+quidquid in una minus dicitur, ex alterius descriptionis
+adjectione suppleri videtur, quod prius ponitur
+vestibulum, referri debet ad totum. Ad partes
+autem, quod repetitur vestibula, quod liquido patet
+ex descriptionis eorum mensura. Ad secundum enim
+<pb n="0558D"/>
+non autem ad primum subinfertur, quod dicitur
+quinquaginta cubitorum longitudinem et latitudinem
+viginti quinque cubitorum.</p>
+<p>Notandum in hac ultima sententia quomodo ad
+duo praemissa duo sunt subjuncta, et fenestras ejus,
+et vestibula ejus in circuitu. Ecce duo; sequuntur
+alia duo: Sicut fenestras caeteras quinquaginta cubitorum
+longitudinem, et latitudinem XXV cubitorum.
+Ad id quod prius praemittitur fenestras ejus,
+primo respondetur sicut fenestras caeteras, ad illud
+quod secundo praemittitur, et vestibula ejus, secundo
+respondetur, quinquaginta cubitorum longitudinem,
+et latitudinem viginti quinque cubitorum.
+Nullum tale vestibulum videtur descripsisse
+<pb n="0559A"/>
+apud portam primam, nec nisi unum apud secundam.
+Ex hujus tamen descriptione ostenditur ibi
+sicut et hic plura fuisse. Sed plus quam duo talia
+fuisse apud singulas primae descriptionis ratio non
+patitur, propter illud quod de longitudinis, vel latitudinis
+mensura ibi legitur, de longitudine, et fecit
+frontes per quadraginta cubitos, de latitudine, et
+ante faciem portae usque ad faciem vestibuli portae
+interioris quinquaginta cubitos. Si autem constat
+duo talis magnitudinis vestibula apud omnes fuisse,
+relinquitur apud singulas et tertium quinquaginta
+cubitorum longitudinis et decem cubitorum latitudinis
+superesse, ut totum simul jure triplex porticus
+dici debeat, et praedictam mensuram possit implere.
+Sequitur:</p>
+<p>
+            <pb n="0559B"/> <hi>Et in gradibus septem ascendebatur ad eam:</hi> quod
+quidem legitur et apud secundam portam · <hi>Et vestibulum,</hi> 
+inquit, <hi>ante fores ejus,</hi> non post fores sicut
+in portis interioribus. Sequitur:</p>
+<p> <hi>Et caelatae palmae erant, una hinc, et altera inde
+in fronte ejus.</hi> Palmae frontium modo dicuntur
+caelatae, modo depietae. Sed forte utrobique intelligendum
+est utrumque, hoc est, ut sint caelatae
+et coloribus superductae. Apud superiores
+etiam portas de caelatura palmarum dixerat.
+Sed quod una hinc, et altera esset inde, non determinaverat.
+Sicut superius vero post descriptionem
+exterioris portae mentionem facit de porta
+interiore, ut mensuram interjacentis pavimenti possit
+competentius inferre: <hi>Et porta,</hi> inquit, <hi>atrii interioris
+<pb n="0559C"/>
+in via australi, et mensus est a porta usque ad
+portam in via australi centum cubitos.</hi> Notandum
+quod porticum per portam intelligit, et quod pavimenti
+solam longitudinem describit: nam ejus longitudo
+ex alio melius patebit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>De tribus porticibus interioris atrii.</hi> </head>
+<p>Post portas exteriores, ecce describit portas interiores.
+Post ultimam autem quam descripsit, ad sibi
+proximam transit, cum dicit: <hi>Et introduxit me in
+atrium interius ad portam australem, et mensus est
+portam juxta mensuras superiores, thalamum ejus,
+<pb n="0559D"/>
+et frontem ejus, et vestibulum ejus, eisdem mensuris,
+et fenestras ejus, et vestibulum ejus in circuitu
+quinquaginta cubitos longitudinis, et latitudinis viginti
+quinque cubitos.</hi> Quod de portis exterioribus
+superius legitur, hoc de portis interioribus repetitur:
+et mensus est, inquit, portam juxta mensuras
+superiores. Quod autem thalamum, non thalamos
+dicit, numerum pro numero ponit. Quod autem
+subjunctum est, et frontem ejus, et vestibulum
+ejus eisdem mensuris, ad totum referri potest, et
+tunc in sequentibus, habentia, vel aliquid ejusmodi
+subaudiendum est: Et mensus est fenestras
+ejus, et vestibulum ejus in circuitu habenta L <hi>cubitos
+longitudinis, et latitudinis</hi> XXV <hi>cubitos.</hi> Fenestras
+ejus, hoc est vestibuli, dicit fenestras parietum
+<pb n="0560A"/>
+totum extrinsecus ambientium. Fenestras vero vestibulorum
+ejus, hoc est vestibuli, dicit fenestras
+parietum minima vestibula intersecantium. Nec illud
+debet praeteriri, quod partes totius vocat vestibula
+vestibuli. Si autem vestibuli, non vestibulorum
+legitur (nam utraque littera invenitur), ad eumdem
+sensum refertur, et hoc de vestibulo vestibuli unius
+lateris dicitur, quod de utroque intelligatur. Sciendum
+tamen quod ab Hieronymo non vestibuli, sed
+vestibulorum ponitur. Sequitur:</p>
+<p> <hi>Et vestibulum per gyrum longitudinem viginti quinque
+cubitorum, et latitudinem quinque cubitorum.</hi> Videte quomodo in omni adhuc descriptione novi
+aliquid additur quod in praecedentibus non dixerat.
+Vestibulum quinque cubitorum latitudinis superius
+<pb n="0560B"/>
+nusquam descripserat, et tamen si apud hanc portam,
+ergo apud omnes alias erat, quia omnium
+unam mensuram fuisse liquido constat. Sed ubi,
+quaeso, hujus vestibulum nisi inter thalamos fuit?
+Nam spatium quinque cubitorum inter thalamos
+Scriptura describit. Nec unum tantummodo, sed
+inter tres thalamos duo in latere uno, et duo in
+latere alio. Quomodo igitur de vestibulo octo cubitorum
+legitur in descriptione prima, quod de
+vestibulo quinque cubitorum legitur in descriptione
+ista, de singulis intelligendum est per omnia. Per
+istud vestibulum viginti quinque cubitorum longitudinis
+facile probari poterit, quod mensura illa frontium
+quadraginta cubitorum intra parietes sumpta
+fuerit. Sequitur illud in quo interiores porticus
+<pb n="0560C"/>
+differunt a superioribus. <hi>Et vestibulum ejus,</hi> inquit, <hi>ad atrium exterius.</hi> 
+ Nam superiores respiciebant intrinsecus,
+et iste extrinsecus. <hi>Et palmas,</hi> inquit, <hi>ejus in fronte.</hi> 
+ Ubi subauditur habebat, sed et hoc
+ei cum caeteris commune erat. Sequitur:</p>
+<p> <hi>Et octo gradus erant quibus ascendebatur per eam.</hi> In hoc iterum interiores a superioribus differunt, quae
+solummodo septem habuerunt. Post portam australem
+transit ad orientalem: <hi>Et introduxit me in atrium interius
+per viam orientalem, et mensus est portam secundum
+mensuras superiores, thalamum ejus, et frontem ejus,
+et vestibula ejus, sicut supra, et fenestras ejus, et
+vestibula in circuitu longitudinem quinquaginta cubitorum,
+et latitudinem viginti quinque cubitorum.</hi> In
+hac solum descriptione vestibula pluraliter bis ponitur,
+<pb n="0560D"/>
+et recte quidem, quia minimorum etiam vestibulorum
+descriptio ex descriptione praecedenti
+completur. Videtur itaque in hac descriptione geminae
+divisionis mentionem facere in eo quod voluit
+vestibula bis ponere. Una siquidem porticus primo
+dividitur in tria vestibula. Deinde duo ex his majora
+subdividuntur in quatuordecim alia. Post dimensionem
+itaque minimorum videtur ille qui metitur
+accedere ad dimensionem majorum. Primum
+ergo referatur ad minima, secundum ad maxima,
+quorum illic mensura subjungitur in eo quod adnectitur,
+longitudinem quinquaginta cubitorum, et
+latitudinem viginti quinque cubitorum. Sequitur: <hi>et vestibulum ejus, id est atrii exterioris,</hi> 
+ id ejus,
+<pb n="0561A"/>
+vestibulum, inquit, est atrii exterioris, ac si aperte
+diceret, id ipsum vestibulum quod est ejus, id est
+atrii interioris, secundum aliquid recte dicitur atrii
+exterioris, cujus utique omnino dici non debuisset,
+si juxta similitudinem exteriorum porticuum intra
+suam portam jacuisset; sed nunc recte ejus dicitur
+cui inhaeret, deinde subjungitur id quod in praecedenti
+legitur: <hi>Et palmae caelatae in fronte ejus hinc
+et inde, et in octo gradibus ascensus ejus.</hi> Deinde
+ultima portarum descriptio sequitur cum dicitur:</p>
+<p> <hi>Et introduxit me ad portam quae respiciebat ad
+Aquilonem, et mensus est secundum mensuras superiores
+thalamum ejus, et frontem ejus, et vestibulum
+ejus, et fenestras ejus per circuitum longitudinem
+quinquaginta cubitorum, et latitudinem viginti quinque
+<pb n="0561B"/>
+cubitorum. Vestibulum ejus respiciebat in atrium
+exterius, et caelatura palmarum in fronte illius hinc et
+inde, et in octo gradibus ascensus ejus.</hi> Hic quia nihil
+novi additur, expositio quidem superflua videtur.
+Sequitur: <hi>Et per singula gazophylacia ostium in
+frontibus portarum. Ibi lavabant holocaustum.</hi> Quod
+dicit gazophylacia, vel gazophylaciorum ostia, in
+frontibus portarum esse, debemus de interioribus
+porticibus intelligere. Nam quoniam ostia in frontibus
+gazophylaciorum erant, et ad pavimenta quae
+ante interiores porticus jacebant omnia respiciebant,
+recte nunc dicitur quia ostia gazophylaciorum
+in frontibus portarum erant. Situs ergo gazophylaciorum
+determinatur in eo, quod dicitur: Et per
+<pb n="0561C"/>
+singula gazophylacia ostium in frontibus portarum.
+Linea ergo qua frontes portarum terminantur protrahatur,
+et ab ea usque ad murum exteriorem gazophylacia
+ordinentur. Nam quidquid post illam
+fuerit, in frontibus portarum non erit. In prima
+omnium descriptione de gazophylaciis locutus fuit,
+sed per omnes alias nullam de eis mentionem facit.
+Cur ergo hoc quod hic de gazophylaciis dicitur, huic
+ultimae descriptioni adnectitur, nisi ut per hoc idem
+de omnibus intelligi daretur. Similiter et quod de
+octo mensis adnectit, de omnibus tribus interioribus
+portis, ut arbitror, intelligi voluit. Omnes tres interiores
+portae octo mensas per vestibulorum suorum
+latera habuere, quamvis Scriptura hoc non videatur
+aperte determinare. Sed videte quam argute Scriptura
+<pb n="0561D"/>
+in quibusdam locis quaedam tacite praeterire
+voluit, quae ratio quidem diligentius requisita latere
+non sinit. Sane de gazophylaciis dicitur: Ibi lavabant
+holocaustum. Sed et de mensis scribitur: <hi>Super
+mensas autem carnes oblationis.</hi> Si quis ergo
+putet solam orientalem portam gazophylacia habere,
+vel apud aquilonarem portam solummodo mensas
+fuisse, videat, obsecro, utrum ratio patiatur orientalem
+portam non habere, ubi reponi debeant quae
+ibi lavantur? An aquilonarem portam non habere,
+ubi lavari queant quae ibi reponantur? Nunquid quae
+ad aquilonarem portam immolantur apud orientalem
+lavantur, et quae ad orientalem lavantur ad
+aquilonarem immolantur? Nunquidnam horum neutrum
+ad australem portam fit, quia in ejus descriptione
+<pb n="0562A"/>
+de gazophylaciis mentio nulla facta fuit?
+Scio quidem Patres quaedam Scripturarum loca quae
+facile possent penetrare negligenter tamen praeterire,
+dum invenisse desiderarent, atque gauderent
+quae juxta litteram stare non possent, ut per hoc
+saltem convincerentur homines allegoriam recipi
+debere, quam illis adhuc temporibus admodum
+pauci vix voluissent recipere. Neminem ergo scandalizet
+si quid dicimus aliud, vel aliter quam in
+glossis invenerit. Nemo dedignetur nos remanentes
+spicas velle colligere, nemo miretur illis elabi aliquas
+potuisse, vel illos potius pauperibus eas sponte reliquisse,
+quibus hoc divinitus praeceptum est, quibus
+divinitus datum est tot voluminum horrea de Scripturarum
+messe replesse. Sed tu vis honorare, et
+<pb n="0562B"/>
+defendere veterum auctoritatem, sed nunquam verius
+honoramus veritatis amatores, quam quaerendo,
+inveniendo, docendo, defendendo, diligendo veritatem.
+Attende ergo non utrum dicam aliquid novum,
+sed verum. Parum timeo dicere aliquid diversum,
+dum tamen nihil dicam perversum. Sed ecce iterum
+ad expositionem litterae redeo, et magis quid ipsa
+dicere velit, quam quid alii de me dicturi sint attendo.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XI. <hi>De mensis ubi immolabatur holocaustum, et de gazophylaciis cantorum.</hi> </head>
+<p> <hi>Et in vestibulo portae duae mensae hinc, et duae
+<pb n="0562C"/>
+mensae inde, ut immoletur super eas holocaustum et
+pro peccato, et pro delicto.</hi> Quid sit holocaustum pro
+peccato, et pro delicto, et caetera multa in hunc
+modum quae ad expositionem litterae pertinent, ex
+industria praetereo, quia in id solum interim quod
+alias non reperi totus intendo, quomodo, juxta litteram
+stare valeat, vel intelligi debeat ista prophetae
+tam subtilis descriptio. Sed si hoc, ut hic dicitur,
+mensarum officium erat, ut super eas holocaustum
+immolari debeat, eligat quisque quid magis oporteat
+sentire, an apud hanc solam portam victimas
+immolari debere, an alias etiam portas similes
+mensas in id officii habere. Si ad hanc solam immolabatur,
+quid fiet de victima principis qui ad solam
+<pb n="0562D"/>
+orientalem portam ingrediebatur, et egrediebatur?
+Si ad solam orientalem victimae lavantur
+in diebus non festis, quid fiet de victima populi,
+quando orientalis porta claudebatur, quae soli principi
+aperiebatur? Ejusmodi allegationibus possumus
+colligere divinam Scripturam multa ex quadam industria
+tacite innuere. Dixit jam quatuor mensas,
+duas hinc, et duas inde esse intra vestibulum. Dicit
+adhuc et alias quatuor esse extra vestibulum, duas
+similiter ad latus unum, et duas ad alterum. <hi>Et ad
+latus,</hi> inquit, <hi>exterius, quod ascendit ostium portae
+quae pergit ad Aquilonem, duae mensae, et ad latus alterum
+ante vestibulum portae duae mensae. Quatuor
+mensae hinc, et quatuor mensae inde. Per latera portae
+octo mensae erant, super quas immolabant.</hi> Quoniam,
+<pb n="0563A"/>
+ut superius dictum est, templum summitatem montis
+tenebat, et ab omni parte mons ipse usque ad eum
+locum paulatim se ad altiora erigebat, haec porta
+(nec mirum) unum latus altius, alterum demissius
+habebat. Ab uno itaque ad portam ascendebatur, ab
+alio ad portam descendebatur. Nam quia aquilonaris
+porta haec erat, sicut Scriptura ipsa determinat,
+templum procul dubio ab occidentali latere habebat,
+quod quidem latus orientali lateri altius eminebat.
+Orientale latus determinatur, cum dicitur: <hi>Et ad latus
+exterius quod ascendit ad ostium portae quae pergit ad
+Aquilonem duae mensae.</hi> Nam quod sequitur, dicitur
+de alio latere: <hi>Et ad latus alterum ante vestibulum
+portae duae mensae.</hi> Erant itaque, ut subinfertur, quatuor
+mensae hinc, et quatuor mensae inde. Quatuor
+<pb n="0563B"/>
+enim erant ad latus unum, duo intra vestibulum,
+et duo extra vestibulum. Similiter duo interius, et
+duo exterius ad latus alterum. Ergo per latera portae
+octo mensae erant super quas immolabant. Quae
+sequuntur satis per se patent, et expositione non
+indigent. <hi>Quatuor autem mensae ad holocaustum de
+lapidibus quadris exstructae, longitudine cubiti unius
+et demidii, et latitudine cubiti unius et dimidii, et
+altitudine unius cubiti, super quas ponant vasa in
+quibus immolatur holocaustum, et victima; et labia
+earum palmi unius, reflexa intrinsecus per circuitum.
+Super mensas autem carnes oblationis.</hi> Hucusque
+de mensis. Sequitur autem de quibusdam gazophylaciis,
+de quibus nihil dictum est in praecedentibus.</p>
+<p>
+            <pb n="0563C"/> <hi>Et extra portam interiorem gazophylacia cantorum
+in atrio interiori quod erat in latere portae respicientis
+ad Aquilonem, et facies eorum contra viam australem,
+una ex latere portae orientalis quae respiciebat ad viam
+Aquilonis.</hi> Mirum est quod dicitur: In atrio interiori
+quod erat in latere portae respicientis ad Aquilonem.
+Atrium namque interius non erat in latere
+hujus portae, sed potius ante ipsam situm fuit, quia
+inter tres portas interiores medium jacuit. Sed cum
+dicitur atrium interius, vel atrium exterius, non
+uniformiter hoc semper accipere debemus. Dictum
+est atrium interius quod centum cubitorum quaquaversum
+in medio locatur, et atrium exterius quo
+interius atrium ex omni parte cingebatur. In atrio
+<pb n="0563D"/>
+autem interiore nihil aliud erat nisi unum altare,
+caetera autem omnia porticus, gazophylacia, templum,
+domus, erant in atrio exteriore. Secundum
+aliam tamen considerationem locus in quo templum
+et domus illae erant quae templo per tria ejus latera
+coadjacebant, atrium interius dicitur, sicut in sequentibus
+legitur. Ibi enim gazophylacia sanctuarii
+erant in quibus sacerdotes carnes oblationis reponebant
+atque comedebant, quas tamen in atrium
+exterius efferre non licebat, Scriptura prohibente,
+quae dicit: <hi>Iste est locus ubi coquent sacerdotes pro
+peccato atque delicto, ubi coquent sacrificium, ut non
+efferant in atrium exterius, et sanctificetur populus <note>(Ezech. XLVI)</note>
+            </hi>.
+Hae tamen carnes quae in exterius atrium
+efferri prohibebantur in praedictis gazophylaciis reponebant,
+<pb n="0564A"/>
+et comedebantur, sicut de ipsis legitur: <hi>Haec sunt gazophylacia sancta in quibus vescuntur sacerdotes
+qui appropinquant in Sancta sanctorum ad
+Dominum. Ibi ponent Sancta sanctorum et oblationes
+pro peccato et pro delicto 
+ <note>(Ezech. XLI)</note>
+            </hi>. Alia itaque ratione
+dicitur atrium interius quod ante templum erat,
+quia, ut dictum est, in medio jacebat. Alia autem ratione
+illud quo templum per tria latera cingebatur,
+quia in ipsum per illud etiam quod proprie dictum
+est atrium interius intrabatur. Sic thalamus interior
+aula dici solet, non quod intra ipsam sit, sed quod
+secretiorem locum teneat, et quod per illam ad ipsum
+aditus pateat. Sic utique sic nullus locus secretior
+et ab aditu portarum nullus remotior exstitit,
+quam ille in quo templum constructum fuit.
+<pb n="0564B"/>
+Secundum hanc itaque considerationem in hujus
+loci comparatione potest dici atrium exterius etiam
+illud quod Scriptura pro more solet appellare
+atrium interius. Alia ergo ratione atrium interius dicitur
+locus in quo templum fuit, et alia ille qui medium
+tenuit, et altare holocausti habuit. Nihil itaque
+prohibet illum locum intelligere in quo templum,
+vel adjacentes domus fuere, in eo quod dicitur, et
+contra portam interiorem gazophylacia cantorum in
+atrio interiori, quod erat in latere portae respicientis
+ad Aquilonem. In hoc atrio quod praedictae portae
+ab occidentali latere adjacebat illud quod modo describitur
+gazophylacium cantorum erat, eidemque
+portae sive porticui lateraliter adhaerebat. De hoc
+gazophylacio in subsequentibus latius agitur, ipsumque,
+<pb n="0564C"/>
+in fallor, in his verbis describitur: <hi>Et introduxit
+me in gazophylacium quod erat contra separatum
+aedificium, et contra aedem vergentem ad Aquilonem,</hi> 
+et caetera de quibus latius suo loco dicemus. Hoc autem
+interim de hoc gazophylacio dicendum videtur,
+quod ejus latitudo ab hac porta incipiebat, et versus
+Occidentem se expandebat. Longitudo autem ab
+Aquilone in Austrum se extendebat. Unde est illud
+quod de eisdem gazophylaciis subsequenter adjungitur,
+cum dicitur: Et facies eorum contra viam
+australem. Habebat itaque porta hujusmodi gazophylacia
+cantorum, ut dictum est, ab occidentali
+latere. Habebat et alia ab orientali latere, quae utique
+sita erant e regione tam orientalis quam aquilonaris
+<pb n="0564D"/>
+portae. Si itaque e regione portae orientalis
+frontem habebant ad portam Aquilonis, unde est
+quod eisdem subditur, una ex latere portae orientalis
+quae respiciebat ad viam Aquilonis? Dicit itaque quia
+hujusmodi gazophylaciorum una facies erat ex latere
+portae orientalis, quae facies respiciebat ad viam
+Aquilonis. Planior autem littera esset, si dictum
+fuisset, quorumdam facies, non quaedam facies, sive
+una facies eorum erat ex latere portae orientalis. Nunc
+autem non solum ibi una pro quorumdam facies ponitur,
+sed etiam facies eorum ex superioribus subauditur.
+Haec vero gazophylacia quae aquilonari portae
+ab Oriente erant ad viam, non contra viam Aquilonis
+faciem habebant, quia per ante ipsa in transversum
+ibat, et non contra ea, sicut australem viam
+<pb n="0565A"/>
+illa quae ab Occidente erant contracuntem habebant.
+Debemus autem idem de utroque latere orientalis
+portae intelligere, similiter vero et de uno latere australis
+portae. Sed solet Scriptura ex industria praeterire
+quae scit per se facile intelligi posse. Sequitur:</p>
+<p> <hi>Et dixit ad me: Hoc est gazophylacium, quod respicit
+ad viam meridianam, sacerdotum, qui excubant in
+custodiis templi. Porro gazophylacium quod respicit
+ad viam Aquilonis sacerdotum erit qui excubant ad
+ministerium altaris.</hi> Gazophylacium quod contra
+viam meridianam respiciebat, vicinius templo erat,
+et idcirco juste illorum sacerdotum esse debebat
+qui in custodiis templi excubabant: nam altari
+servientibus dignitate praeeminebant. Commune autem
+<pb n="0565B"/>
+est utrisque sacerdotibus quod sequitur cum
+dicitur: <hi>Isti sunt filii Sadoch qui accedunt de filiis
+Levi ad Dominum ut ministrent ei.</hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT XII. <hi>De coquinis quae subter porticus fabricatae erant et de atrio interiori.</hi> </head>
+<p>Hoc loco considerare oportet quod ad viam orientalem
+hinc inde circa porticus tam exterioris quam
+interioris atrii quoddam adhuc spatium inter ipsas
+et gazophylacia vacuum remanet, sicut ex supra
+positis figuris oculis subjectum patet, in quibus locis
+coquinae illae esse poterant, de quibus Scriptura in
+subsequentibus commemorat, cum dicat: <hi>Et culinae
+<pb n="0565C"/>
+fabricatae erant subter porticus per gyrum <note>(Ezech.
+XLVI)</note>
+            </hi>. Ad viam autem Aquilonis porticus exterior
+unum ejusdem quantitatis spatium tantummodo habebat,
+quod ei ab orientali latere adhaerebat. Nam
+ab occidentali latere gazophylacia cohaerentia habebat.
+Constat autem et australem porticum exterioris
+atrii ab orientali latere simile spatium ad
+idem officium habere, et gazophylacia ei ab alio latere
+adhaerere. De similibus ergo similia aestimamus,
+et idcirco duobus porticibus interioris atrii hinc
+inde utrum utrobique simile spatium in coquinarum
+officium relinquimus. Post haec gazophylacia
+cantorum quinquaginta cubitorum tam longitudinis
+quam latitudinis ordinamus, ut secundum longitudinem
+<pb n="0565D"/>
+eorum sic sit et latitudo eorum, sicut de quibusdam
+gazophylaciis legimus. Nam de longitudine omnium
+gazophylaciorum atrii exterioris una sententia
+datur, cum longe post in sequentibus dicitur: Quia
+longitudo erat gazophylaciorum atrii exterioris quinquaginta
+cubitorum. Post ista gazophylacia cantorum
+interjecta quadam via decem cubitorum latitudinis
+ordinantur hinc inde quindecim gazophylacia
+in via orientali, ut sint, sicut scriptum est, triginta
+in circuitu pavimenti. Erant autem similiter quindecim
+ab uno tantum latere, id est ab orientali parte
+tam in via aquilonari quam in via australi. Sunt
+vero a frontibus interiorum portarum, ut postea docebitur
+usque ad locum vulgi, centum quadraginta
+cubiti. Ex his si demus muro cubitos quinque caeteris
+<pb n="0566A"/>
+per quindecim aequaliter divisis, inveniemus
+unumquodque gazophylacium novem cubitos latitudinis
+tenere. Sequitur:</p>
+<p> <hi>Et mensus est atrium longitudine centum cubitorum,
+et latitudine centum cubitorum per quadrum, et altare
+ante faciem templi.</hi> Ex hoc loco satis patet quod interius
+atrium secundum latitudinem totum illud centum
+cubitorum spatium tenebat, quod erat medium in
+illis quingentis cubitis, quos ab Aquilone in Austrum
+murus ille quingentorum cubitorum includebat.
+Sed quia orientales porticus caeteris porticibus
+similes per omnia mensuras habebant, ejusdemque
+longitudinis atrium includebant, totitemque gradibus
+assurgebant, constat procul dubio eorum mensuram
+usque ad medium centenarium se extendere,
+<pb n="0566B"/>
+et ab ejus initio interius atrium initium
+sumere. Sed quot ex illis centum cubitis versus
+Occidentem secundum plani considerationem dico
+intra se apprehenderit, nondum ex praedictis puto
+posse probare. Nam, licet versus illam etiam partem
+centum cubitos superficietenus haberet, quid
+tamen vel quantum de illo medio centenario ab Occiente
+secundum rationem plani tumor montis
+detraxerit, qui ibi ad eam partem attollebatur, necdum
+patet. Centum siquidem cubitorum linea una
+jacens, et alia oblique se erigens ab eodem puncto
+emergentes in eumdem cathetum non concurrunt,
+nec secundum planum aequale spatium includunt,
+sed haec quomodo se habeant ex sequentibus
+<pb n="0566C"/>
+patebunt. Et altare, inquit, ante faciem templi.
+Hoc idcirco hic adnectit, quia altare in hoc atrio
+fuit quod ante templum jacuit. De hujus mensura
+nihil hic dicitur, sed longe inferius subtiliter explicatur.
+In hoc atrio facimus aquam illam, quae
+de templo egrediebatur decurrere, et a dextro altaris
+descendere. Circa atrii vero inferiora in quatuor
+eam secamus, et per medias coquinas traducimus,
+ita ut per ante gazophylacia transeat, ut sit
+ubi holocaustum lavari queat, quemadmodum scriptum
+est: <hi>Et per singula gazophylacia ostium in
+frontibus portarum, et ibi lavabant holocaustum.</hi> 
+Horum omnium quae diximus in novissima, et magna
+figura, sicut ibi videri potest, formam et exemplar
+latius expressimus.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>De quantitate vel aedificiorum quae templo adjacebant.</hi> </head>
+
+<pb n="0566D"/>
+<p>Quia igitur de anteriori hujus aedificii parte interim
+quae dicenda videbantur explevimus, nunc ad
+occiduam ejus partem describendam stylum vertimus,
+et quae de praedictis ad praedicta supplenda
+fuerint loco suo supplebimus. Libet hic, sicut et
+supra, in descriptione porticuum hinc inde Scriturae
+testimonia in unum colligere, et describendorum
+aedificiorum situm, modum et ordinem ex eorum
+collatione astruere, et quid ex his sentiendum
+sit, hinc auctoritate, hinc ratione probante monstrare.
+Sicut superius docuimus, templum cum sua porticu
+<pb n="0567A"/>
+post atrium interius ab occidentali ejus latere eminebat,
+et per alia tria latera idem templum tres
+domos cum suis porticibus, interjecto tamen quodam
+atrio, habebat, quarum unaquaeque centum
+cubitos longitudinis tenebat. Nam de eo aedificio
+quod ad dorsum templi ab Occidente fuit, quod et
+separatum Scriptura vocare consuevit, ex eo quod
+nulli caeterorum cohaesit, legitur: <hi>Et mensus est
+domus longitudinem centum cubitorum, et quod
+separatum erat aedificium, et parietes ejus, longitudinis
+centum cubitorum.</hi> De caeteris autem aedificiis
+quae ex utroque latere erant subinfertur,
+cum dicitur: <hi>Et mensus est longitudinem aedificii
+contra faciem ejus quod separatum erat ad dorsum,
+ethecas ex utraque parte centum cubitorum.</hi> Dum
+<pb n="0567B"/>
+enim centum cubitorum longitudinis aedificium ex
+utraque parte mensurari dicitur, ejusdem longitudinis
+aedificium utrinque fuisse comprobatur. Ecce
+de tribus domibus; videamus nunc de earum porticibus.
+Quod apud aquilonare aedificium porticus
+esset, Scriptura manifestat, cum dicat: <hi>Ubi erant
+gazophylacia in superioribus humiliora, quia supportabant
+porticus quae ex illis eminebant de inferioribus
+et de mediis aedificii.</hi> Quod autem hoc de
+aquilonari aedificio, ejusque porticu dictum sit circumstantia
+litterae patenter ostendit, sicut postmodum
+in expositione litterae manifestum erit. Hanc
+quam praelocuti sumus porticum quinquaginta cubitorum
+fuisse possumus sane inde convincere, quod
+ejus peribolus, id est, murus qui ejus gazophylacia
+<pb n="0567C"/>
+quae ipsam supportabant cingebat, legitur
+quinquaginta cubitorum fuisse: <hi>Et peribolus,</hi> inquit, <hi>exterior secundum gazophylacia, quae erant in via
+atrii exterioris ante gazophylacia, longitudo ejus quinquaginta
+cubitorum, quia longitudo erat gazophylaciorum
+atrii exterioris quinquaginta cubitorum.</hi> 
+Hujus porticus latitudo postea exprimitur in eo
+quod alio loco scribitur: <hi>Secundum longitudinem
+eorum sic et latitudo eorum.</hi> Illud sane ex hujus porticus
+gazophylaciorumque ejus descriptione consequens
+est, quod et ampliori ratione ex aliis itidem
+locis probari potest, quia aquilonare aedificium
+gazophylacia in suis inferioribus, coenacula in superioribus
+haberet. Nam frustra ejus porticus quinquaginta
+<pb n="0567D"/>
+cubitis a terra emineret, nisi et coenaculum
+post se haberet quod sibi congrua altitudine responderet.
+Quid enim ait Scriptura de hujus aedificii
+porticibus? <hi>Propterea,</hi> inquit, <hi>eminebant de inferioribus
+et de mediis aedificii a terrae cubitis quinquaginta.</hi> 
+Denique horum gazophylaciorum quae in inferioribus
+aedificii erant comparatione, murus qui
+gazophylacia porticus amplectitur, peribolus exterior
+nominatur, eo quod atrio exteriori vicinius,
+imo etiam immediate conjungitur. Haec autem porticus
+juncta erat porticui aquilonari interioris atrii,
+unde et scriptum est: <hi>Ubi erat porticus juncta porticui
+triplici.</hi> Sed ab ea porticu atrii interioris si ei
+mensurae quam intra parietes habuit de qua sola
+superius locuti sumus quinque cubitos quasi pro
+<pb n="0568A"/>
+muri spissitudine adjicimus, procul dubio usque ad
+vulgi locum ducentos quindecim cubitos invenimus.
+Ab eo itaque loco praedicta domus cum sua porticu
+versus Occidentem in centum quadraginta quinque
+cubitos se extendebat, ultra quod usque ad eumdem
+vulgi locum, adhuc septuaginta cubiti supererant.
+In ea enim parte, sicut postmodum docebitur, qua
+conjunctae erant, communem parietem habebant, et
+idcirco non centum quinquaginta, sed tantummodo
+centum quadraginta quinque cubitos tenebant. Inter
+hoc aedificium et templum erat quoddam spatium
+centum cubitorum longitudinis, et quinquaginta
+cubitorum latitudinis. Cujus mensura determinatur
+cum dicitur: <hi>In facie longitudinis centum cubitos
+ostii Aquilonis, et latitudinis quinquaginta cubitos.</hi> 
+<pb n="0568B"/>
+Quidquid autem de aquilonaris aedificii modo atque
+mensura diximus, totum de australi aedificio juxta
+eamdem similitudinem sentire debemus, quod quidem
+ex his quae superius jam dicta sunt satis patere
+putamus. Habemus jam quousque haec aedificia cum
+porticibus suis extendebant, sed nondum constat
+quantum intercapedinis includebant. Sed hoc sane,
+ut arbitror, palam erit, cum constiterit quomodo
+illud aedificium, quod separatum dicitur, inter haec
+duo ordinatum fuit. Habebat sane centum cubitos
+longitudinis et octoginta cubitos latitudinis. Nam
+intra parietes nonaginta cubitos longitudinis, et septuaginta
+latitudinis habebat et paries ipse undique
+per circuitum quinque cubitorum erat, sicut Scriptura
+demonstrat: <hi>Et quod separatum erat aedificium,
+<pb n="0568C"/>
+versumque ad viam respicientem ad mare latitudinis
+septuaginta cubitorum. Paries autem aedificii
+quinque cubitorum erat latitudinis per circuitum, et
+longitudo ejus nonaginta cubitorum;</hi> unde et infertur: <hi>Et mensus est domus longitudinem centum cubitorum,
+et quod separatum erat aedificium et parietes
+ejus centum cubitorum.</hi> 
+ Ad dorsum itaque templi
+prope murum qui dividebat vulgi locum situm erat,
+et longitudinem suam absque omni dubio in Aquilonem
+et Austrum extendebat. Sed latitudinem suam
+ab Occidente in Orientem expandebat. Quia igitur
+ultra praedicta aedificia altrinsecus jacentia spatium
+septuaginta cubitorum tantummodo fuit, necesse
+est ut latitudo aedificii quod octoginta cubitorum
+<pb n="0568D"/>
+exstitit praedictorum aedificiorum intercapedinem ex
+magna sui parte occupaverit. Longitudo igitur separati
+aedificii inter praedictas illas domos extenditur,
+et adhuc utrumque spatium viginti cubitorum adjicitur,
+propter illud, quod de eorum gazophylaciis
+legitur: <hi>Et inter gazophylacia latitudinem viginti
+cubitorum in circuitu domus undique.</hi> </p>
+<p>Constat igitur inter duo aedificia quae templo
+adjacebant hinc inde spatium centum quadraginta
+cubitorum secundum planum utique inclusum fuisse.
+Domus autem aquilonaris sicut et australis porticum
+suam non contra medium, sed contra exteriorem,
+sive inferiorem sui partem habuit, et ab Aquilone
+utraque ab una et eadem linea incoepit. Nam
+ubi gazophylacia quae hujus domus porticum supportabant
+<pb n="0569A"/>
+describuntur, statim de eorum introitu adnectitur: <hi>Et erat subter gazophylacia haec introitus ab
+Oriente ingredientium in ea de atrio exteriori in latitudine
+periboli atrii quod erat contra viam orientalem
+in facie aedificii separati.</hi> 
+ Hoc atrium, cujus hoc
+loco mentionem facit, aquilonaris domus profecto
+ab Aquilone habuit, a qua domo usque ad vulgi
+locum, latitudinem suam in Aquilonem extendit.
+Non igitur contra hujus atrii latitudinem quin
+potius contra domum dicta gazophylacia introitum
+haberent nisi porticus cum sua domo ab aquilonari
+plaga ex uno loco inciperet. Ab aquilonari
+autem latere ejusdem porticus usque ad interius
+atrium centum cubiti erant, quorum quinquaginta
+ejus latitudo tenebat. Deinde interjecta quadam
+<pb n="0569B"/>
+deambulatione decem cubitorum latitudinis
+praedictum illud gazophylacium cantorum incipiebat,
+et se usque ad vicesimum cubitum atrii interioris
+extendebat. Unde constat quia ejus longitudo
+quinquaginta cubitorum erat. Hoc gazophylacium
+in subsequentibus describitur, cum dicitur: <hi>Et induxit
+me in gazophylacium quod erat contra separatum
+aedificium, et contra aedem vergentem ad Aquilonem
+in facie longitudinis centum cubitos ostii Aquilonis,
+et latitudinis quinquaginta cubitos contra viginti
+cubitos atrii interioris, et contra pavimentum stratum
+lapide ubi erat porticus juncta porticui triplici.</hi> 
+Palam esse puto quomodo hoc gazophylacium
+contra aedificium separatum erat, vel quomodo in
+facie interstitii centum cubitorum longitudinis, et
+<pb n="0569C"/>
+quinquaginta cubitorum latitudinis erat. Quod
+templum et aquilonare aedificium interjacebat, si
+hoc gazophylacium usque ad vicesimum cubitum
+atrii interioris se extendebat. Palam nihilominus
+quomodo contra aedem vergentem ad Aquilonem
+erat, si a decimo cubito post illius aedis porticum
+incipiebat. Sed illud modo oportet considerare quod
+contra pavimentum atrii exterioris dicitur esse et ne
+aliud quam aquilonare pavimentum atrii exterioris
+intelligere possimus, litterae illius adjectione constringimur,
+in eo quod legimus: <hi>Ubi erat porticus
+juncta porticui triplici.</hi> Nam apud orientalem regionem
+nusquam invenimus porticum junctam porticui.
+Sed aquilonaris porticus atrii interioris, ut ex superioribus
+<pb n="0569D"/>
+patet, ab Oriente habebat gazophylacia
+cantorum, ab Austro interius atrium, ab Aquilone
+hoc de quo modo loquimur pavimentum. Patet
+ergo quod porticus, quae huic porticui juncta fuerat,
+ei procul dubio ab Occidente adhaerebat, et ex parte
+eam tangens, et ex majore sui relinquens, versus
+Aquilonem se extendebat, et hoc pavimentum ab
+Occidente limitabat. Ut igitur praedictum gazophylacium
+contra hoc pavimentum possit aliquam sui
+partem habere, oportet ipsum triplici porticum
+adhaerere, quin potius communem parietem cum
+ea in ipso conjunctionis loco habere. Post quem
+parietem si porticus aquilonaris domus incoepit,
+darietemque post parietem habuit, profecto gazophylacium
+in tantum dicto pavimento oppositum
+<pb n="0570A"/>
+fuit, quantum spissitudinis ejus murus habuit.
+Quod autem illa quam diximus deambulatio ante
+ipsum gazophylacium fuerit, Scriptura subsequenter
+ostendit, cum subjungit: <hi>Et ante gazophylacia
+deambulatio decem cubitorum latitudinis.</hi> Nec nos
+movere debet quod idem aedificium, modo gazophylacia,
+modo gazophylacium dicitur, sicut eadem
+porticus modo vestibula, modo vestibulum nominatur.
+Nam unum ad distinctiones, aliud ad totum
+referatur.</p>
+<p>Notandum sane quod in eo loco ubi aquilonaris domus
+et ejus porticus faciebant angulum ante praedictum
+gazophylacium, et hunc deambulationis locum, locus
+quidam erat triginta cubitorum longitudinis et viginti
+cubitorum latitudinis, de quo quod videbitur
+<pb n="0570B"/>
+suo loco dicetur. Nam secundum quod ex superioribus
+patet, quoniam ab orientali latere ejus gazophylacii
+usque ad aquilonare aedificium quinquaginta
+cubiti tantummodo erant, ipsum quidem gazophylacium
+plus quam triginta cubitos latitudinis habere
+non poterat, ubi viginti cubitos superesse oportuit,
+ut constaret quod Scriptura de his gazophylaciis
+quae circa templum jacebant, dicit: <hi>Et inter gazophylacia
+latitudinem viginti cubitorum in circuitu
+domus undique.</hi> Constat autem quia ab eodem orientali
+latere ejusdem gazophylacii usque ad terminum
+sanctificati quingentorum cubitorum ducentum viginti
+cubiti erant, quorum triginta, ut dictum est,
+latitudo gazophylacii praedicti tenebat. Deinde spatium
+seu atrium quod inter ipsum et aedificium separatum
+<pb n="0570C"/>
+juxta longitudinem templi se extendebat,
+centum cubitos secundum praedictam Scripturae auctoritatem
+occupabat. Latitudo autem aedificii separati
+octoginta cubitos habuit, a quo loco decem
+cubitorum latitudo superfuit. Quorum quinque, ut
+postea monstrabitur, muri latitudo tenebat: nam
+caeteros quinque via quaedam habebat, quae inter
+ipsum murum et aedificium media jacebat. Sed si hi
+numeri in unum conveniunt, procul dubio in ducentos
+viginti consurgunt. Nunc est facile videre
+quousque templum se extendit, quod cum suo vestibulo,
+quemadmodum in posterioribus docebitur,
+centum cubitorum longitudinis fuit. Sed quia vestibulum
+templi sine dubio atrio interiori adhaerebat,
+<pb n="0570D"/>
+ab eadem linea ipsum et praescriptum gazophylacium
+incipiebat. Sed quia gazophylacium, ut dictum
+est, et ante positum atrium centum triginta cubitis
+usque ad aedificium separatum se extendebant, et
+templum cum vestibulo suo centum cubitos tantummodo
+tenebat, constat quia inter templum et aedificium
+separatum interstitium fuerit triginta cubitorum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>De situ vel ratione caeterorum aedificiorum quae ad occidentalem plagam erant.</hi> </head>
+<p>Sed ut ad caetera quae adhuc restant describenda
+transeamus, ultra porticum jam saepedicti aquilonaris
+aedificii ab Aquilone erant decem gazophylacia
+<pb n="0571A"/>
+e regione ipsius porticus versus Aquilonem usque
+ad murum exteriorem juxta pavimenti latus ordinata,
+longitudinis secundum longitudinem porticus
+cubitorum quinquaginta. Haec sunt illa gazophylacia
+atrii exterioris, de quibus Scriptura similitudinem
+trahit, ubi ipsius porticus, seu gazophylaciorum
+quae sub ipsa erant longitudinem describit, cum dicit: <hi>Et peribolus exterior secundum gazophylacia quae
+erant in via atrii exterioris ante gazophylacia, longitudo
+ejus quinquaginta cubitorum, quia longitudo erat
+gazophylaciorum atrii exterioris quinquaginta cubitorum.</hi> 
+Secundum gazophylacia, inquit, quae erant
+ante gazophylacia. Ante quae gazophylacia, quaeso,
+nisi ante ea de quibus tunc agebat, et multa
+jam dixerat, quae sub porticibus erant, et ipsas, ut
+<pb n="0571B"/>
+ibi dictum est, aquilonaris aedificii porticus supportabant?
+Ante porticum igitur praedictam esse
+describuntur, et atrii exterioris eadem ipsa gazophylacia
+dicuntur, ut ubi fuerint aperte determinetur.
+Inter haec tamen gazophylacia, et adjacentem porticum,
+via quaedam interjecta erat latitudinis, ut arbitror,
+quinque cubitorum, ubi erat introitus ad
+gazophylacia quae erant ante aedificium separatum.
+Descriptis namque gazophylaciis quae porticus supportabant,
+de hoc statim introitu adnectitur, cum
+dicitur: <hi>Et erat subter gazophylacia haec introitus ab
+Oriente ingredientium in ea de atrio exteriori in latitudine
+periboli atrii quod erat contra viam orientalem
+in facie aedificii separati.</hi> Hic sane est ille introitus
+de quo superius jam aliqua locuti sumus. Ab hac
+<pb n="0571C"/>
+via usque ad murum exterioris atrii erant nonaginta
+cubiti. Qui si per X gazophylacia dividantur, unumquodque
+eorum novem cubitorum latitudinis invenitur.
+Quod autem dictum est de plaga aquilonari, intelligendum
+est per omnia juxta eamdem similitudinem
+de plaga australi. Erant itaque decem gazophylacia
+ex parte una, et decem ex parte
+alia. Haec sunt viginti illa gazophylacia, ut
+credimus, de quibus in sequentibus legimus.
+Ecce in istis gazophylaciis eamdem mensuram
+invenimus quam in superioribus illis, quae in novem
+cubitos extendimus, ut sint omnia unius latitudinis,
+sicut sunt, et unius longitudinis. Restat nunc de
+illa porticu seu vestibulo aedificii separati dicere
+<pb n="0571D"/>
+quod inter aquilonarem domum et exteriorem murum
+ei adhaerebat ab Aquilone. Quam autem vestibulum
+habebat, Scriptura illa determinat. Quae
+via erat ante vestibulum separatum. Hoc itaque
+vestibulum, vel porticus tam longitudinis, quam
+latitudinis quinquaginta cubitorum erat, et sub se
+gazophylacia habebat, et super illa de inferioribus,
+et de mediis aedificiis eminebat, et a superiori ejus
+latere, id est ab Oriente, deambulationem, seu viam,
+decem cubitorum latitudinis habebat. Quod totum
+paucis quidem verbis Scriptura determinare videtur,
+ubi legitur: <hi>Et erant ante aedificium gazophylacia,
+et via ante faciem eorum juxta similitudinem
+gazophylaciorum quae erant in via Aquilonis.</hi> Si gazophylacia
+ista, et via ante posita per omnia similitudinem
+<pb n="0572A"/>
+habebant eorum quae ad viam aquilonis
+erant: ergo ista sicut et illa conjuncte sibi domui
+sub porticu, et simili modo adhaerebant, et quidquid
+de illis sibi in situ, qualitate et quantitate legimus
+juxta propositam similitudinis normulam ad ista
+accommodare debemus.</p>
+<p>Et nota quod, quamvis alia gazophylacia ad viam
+Aquilonis essent, ad illa intelligenda circumstantia
+litterae constringit, de quibus proximo loco tractaverat,
+et non illa de quibus nihil dixit. Viam autem
+Aquilonis pro amore suo nominat viam quae ab Aquilone
+de porta per portam ad interiora tendebat,
+quae quidem via per ante situm praedictorum gazophylaciorum
+transibat. Sed ultra aedificium separatum
+decem cubitos superesse superius docuimus,
+<pb n="0572B"/>
+quos partim muro, partim viae interjectae superius
+assignavimus. Porticus itaque ipsius eodem modo
+ultra se ab Occidente decem cubitos habebit, si ad
+similitudinem aquilonaris aedificii contra exteriora
+domus sita fuit. Et quia ultra aquilonarem domum
+septuaginta cubiti ad Occidentem fuerunt, inter ipsam
+utique, et separatum vestibulum decem cubiti
+erunt, ut ad similitudinem superioris porticus teneat,
+et haec porticus quinquaginta cubitorum spatium,
+et habeat a superiori seu interiori sui parte deambulationem
+decem cubitorum. Ab inferiori autem
+seu exteriori sui parte viam quinque cubitorum esse
+secundum superiorem modum debemus intelligere,
+ut hoc vestibulum habeat gazophylaciorum suorum
+introitum subter se, id est ab inferiori et exteriori
+<pb n="0572C"/>
+sui latere ad similitudinem porticus supradictae. Sed
+et ut in hoc quoque utrinque una similitudo concurrat,
+attende ubi separatum aedificium cum hoc ejus
+vestibulo angulum faciat, et invenies hic quemadmodum
+ibi spatium quoddam triginta cubitorum
+longitudinis, et viginti cubitorum latitudinis. Hic
+est ille locus de quo longe post legitur in subsequentibus: <hi>Et erat ibi locus vergens ad Occidentem, et
+dixit ad me: Iste est locus ubi coquent sacerdotes
+pro delicto et pro peccato, ubi coquent sacrificium ut
+non efferant in atrium exterius, et sanctificetur populus.</hi> 
+Quia autem iste coquendi locus in atrio illo
+fuerit, quod gazophylacia sanctuarii habuerit, Scriptura
+sane diligenter requisita latere non sinit. Attende
+<pb n="0572D"/>
+namque quid ibi praemittitur ubi iste locus
+describitur: <hi>Et introduxit me,</hi> inquit, <hi>per ingressum
+qui erat ex latere portae in gazophylacia sanctuarii
+ad sacerdotes quae respiciebant ad Aquilonem.</hi> Et additur: <hi>Et erat ibi locus vergens ad Occidentem.</hi> 
+ De
+his autem gazophylaciis alias legitur: <hi>Gazophylacia
+Aquilonis, et gazophylacia Austri quae sunt ante aedificium
+separatum, haec sunt gazophylacia sancta in
+quibus vestiuntur sacerdotes qui appropinquant ad
+Dominum in Sancta sanctorum. Ibi ponent Sancta
+sanctorum, et oblationem pro peccato et pro delicto.</hi> 
+Profecto si hos, vel alios Scripturae locos diligenter
+discutimus, nullum alium praedictae coquinae locum
+invenire poterimus, nisi quem antea designavimus.</p>
+<p>
+            <pb n="0573A"/>Notandum sane quod de hoc loco dicitur, quia
+esset vergens ad Occidentem. Ex quibus verbis manifeste
+colligitur quod mons quidem post tergum
+templi ad inferiora vergebat, ubi aedificium separatum
+gestabat. Diximus jam quod designatus ille
+locus triginta cubitos habuerit longitudinis, et viginti
+cubitos latitudinis. Horum medietas triginta
+cubitorum longitudinis, et decem cubitorum latitudinis,
+quae aedificio separato adhaerebat coquinas
+habebat, reliquam medietatem illa scilicet decem
+cubitorum latitudinis deambulatio tenebat, ita ut
+via illa per ante faciem coquinarum transiret, et se
+in ea parte in atrium sanctuarii reflecteret. Juxta
+hanc similitudinem per omnia credimus, et illud
+superius designatum ejusdem magnitudini spatium
+<pb n="0573B"/>
+coquinas habere, et illam decem cubitorum deambulationem
+per ante earum faciem se in atrium
+sanctuarii reflectere, et ad templum respicere.</p>
+<p>Sed quidquid de aquilonari latere diximus totum
+hoc de australi latere in aedificiorum situ, et modo
+juxta eamdem similitudinis congruentiam intelligere
+debemus, secundum quod de eo legimus: <hi>Et omnis introitus eorum, et similitudines, et ostia
+eorum secundum ostia gazophylaciorum quae erant
+in via respiciente ad Notum. Ostium in capite viae,
+quae via erat ante vestibulum separatum per viam
+orientalem ingredientibus.</hi> 
+ Habebat itaque australis
+plaga simile vestibulum ante aedificium separatum,
+similem domum, similem porticum, simile
+<pb n="0573C"/>
+gazophylacium juxta interius atrium. Erat
+itaque una extremitas praedicti gazophylacii contra
+viginti extremos cubitos atrii interioris, sicut
+superius dictum est, ex parte una, erat eodem modo
+et aliud contra viginti extremos cubitos atrii interioris
+ex parte alia, et inter illa duo interstitium
+cubitorum sexaginta. In hoc interstitio vestibulum
+templi situm erat, quod ab Oriente atrio interiori
+adhaerebat, ab Occidente, ut dictum est, templum
+adhaerens habebat.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XV <hi>Quomodo, vel unde colligitur quae sit arduitas montis.</hi> </head>
+<p>
+            <pb n="0573D"/>Sed quoniam ea quae de aedificiorum situ interim dicenda
+videbantur explevimus, locus postulat ut ea quae
+ad superiorum expletionem addenda promisimus modo
+vel ex parte loquamur, et sic ad expositionem litterae
+revertemur. Primo itaque consideremus, quot
+cubitos interius atrium ab Oriente in Occidentem
+secundum considerationem plani habeat, quod superficietenus
+in omnem partem absque omni ambiguo
+centum cubitorum erat, sed illud: <hi>Et mensus est
+atrium longitudine centum cubitorum, et latitudine
+centum cubitorum, per quadrum.</hi> Sed, sicut superius
+monstratum est, ab Aquilone versus Austrum etiam
+secundum planum centum cubitos hoc atrium includebat.
+Ducentos autem cubitos hinc, et ducentos
+<pb n="0574A"/>
+inde, duae porticus cum interjecto atrio tenebant,
+et in hunc modum ab una extremitate in aliam quingenti
+cubiti erant. Propter eamdem autem similitudinem,
+et quantitatem porticuum animadvertimus,
+et orientales porticus cum interjecto atrio ducentos
+aeque cubitos secundum planum occupare, et usque
+ad centenarium medium se extendere. Omnes ergo
+interiores porticus juxta unam similitudinem illi
+medio centenario, et contra ejus medium adhaerebant,
+et quia sexaginta cubitorum mensuram intra
+parietes tenebant, ab hac mensura in utroque latere
+viginti cubiti de illo medio centenario supererant.</p>
+<p>Sed superius docuimus gazophylacia sanctuarii
+duobus porticibus interioris atrii, aquilonari
+<pb n="0574B"/>
+videlicet et australi, immediate adhaerere, et atrii
+interioris latus occidentale limitare. Unde constat
+atrium interius ab Oriente in Occidentem secundum
+rationem plani non plus quam octoginta cubitos
+occupare. Sed si orientalis via ab exteriori porta
+usque ad templi situm uniformiter ascendit, profecto
+pavimentum quod inter duas porticus centum
+cubitorum jacuit, non plus quam octoginta cubitos
+secundum considerationem plani obtinebit, quamvis
+superficietenus centum absque ambiguo habuerit.</p>
+<p>Hinc ergo datur intelligere, parietes porticuum
+quemadmodum trium praedictarum domorum
+quinque cubitorum latitudinis esse. Nam
+<pb n="0574C"/>
+constat unamquamque quinquaginta cubitos tantum
+intra parietes habere. Haec erat causa cur superius
+quinque cubitos muro deputandos censuimus,
+caeteros quinque viae deputavimus ex illis decem
+quos ultra aedificium separatum esse deprehendimus.</p>
+<p>Hoc loco sane illud admonere volumus, quod
+ubique pro certo, et quasi pro regula tenere debemus,
+quoniam sive in plano, sive in pendulo quodlibet
+aedificium situm sit, nihil ejus mensurae confert,
+vel detrahit. Quidquid enim de aedificiorum
+mensura Scriptura docet, etiam secundum plani
+considerationem accipere oportet. Quoniam ergo
+aquilonares porticus, seu etiam australes orientalibus
+<pb n="0574D"/>
+porticibus in mensura et qualitate per omnia
+similes fuere, oportet de interjectis pavimentis similia
+aestimare, et nonnisi octoginta cubitos, secundum
+planum occupasse. Hoc tamen inter ista et
+orientale et pavimentum fuit, quod iliud secundum
+unam dimensionem octoginta cubitos, ut dictum est,
+habuerit, secundum aliam vero dimensionem centum
+cubitos, etiam secundum planum possedit. Istorum
+autem mensura secundum unam dimensionem
+octoginta cubitorum, secundum aliam autem octoginta
+quinque cubitorum, juxta plani considerationem
+fuit. Nam haec duo pavimenta ab una et eadem
+linea qua et interius atrium videntur incipere ab
+Oriente, quinque tamen cubitis, ultra ejus terminum
+videntur se extendere ab Occidente, quod ex superioribus
+<pb n="0575A"/>
+evidentissimum est intelligere. Ad similitudinem
+tamen interioris atrii possunt ipsa etiam in
+eam partem centum cubitos superficietenus habere.
+Elevantur itaque a gemino latere aquilonare, et
+australe pavimentum, sed orientale quidem et interius
+atrium ab uno latere tantum. Si autem quaeritur
+de interiori atrio quantum ab una parte elevabatur,
+facile hoc et absque scrupulo a geometricae
+disciplinae perito deprehenditur. Absque dubio
+atrium, quod octoginta cubitos habuit in base, et
+centum in superficie sexaginta cubitis excelsius fuit
+in eminentiori parte. Hujus rei certissimas regulas
+tradere possumus, sed simplicioribus onerosi esse
+timemus. Dabimus interim hujus rei aliquod documentum,
+per quod possit quivis quantumlibet simplex
+<pb n="0575B"/>
+assertionis nostrae capere experimentum. </p>
+<p>
+            <pb n="0575C"/>Protrahatur cujuslibet magnitudinis linea in quinque
+aequas sectiones divisa, et ad singulas sectiones
+singulis litteris insignita. Sitque linea jacens A B
+C D E F. Supra hanc ad quartam sectionem, id est,
+super E alia linea erigatur, ita ut in nullam partem
+pronior inclinetur, sed hinc inde rectos, et adinvicem
+pares angulos efficiat, et tres mensuras praedictis
+sectionibus singulas singulis aequales contineat.
+Sitque linea super E erecta E G H K. Protrahatur
+adhuc tertia linea de A in K oblique elevata. Hoc
+<pb n="0575D"/>
+itaque facto accepto circino, si primam et tertiam
+lineam, id est, A F et A K aequales inveneris, assertionis
+nostrae fidem proprio experimento tenebis.
+Ponatur itaque ut unaquaeque sectio sit viginti cubitorum.
+Erit ergo A F, id est, prima linea cubitorum
+centum, et A K ejus videlicet aequalis, id est,
+tertia linea erit totidem cubitorum. Linea vero erecta,
+id est, E K, habebit cubitos sexaginta. Atrium
+igitur, quemadmodum dictum est, quod octoginta
+cubitos habuit in base, et centum cubitos in superficie
+absque dubio sexaginta cubitis elevatior fuit
+in eminentiori parte, cujus rei formam manifeste
+habes in triangulo A K E. Hujus autem trianguli basim,
+id est, lineam jacentem, ejus quae hypotemisam,
+id est, lineam inclinatam si quantumlibet protraxeris,
+<pb n="0576A"/>
+et eis cathetum, id est, lineam orthogonaliter
+erectam applicaveris, cujuscunque magnitudinis
+triangulos effeceris, tres ejus lineas eadem sibi
+semper proportione respondere videbis. Nam semper
+erit hypotemisa ad basim sexquiquarta, et basis
+ad cathetum sexquitertia. Ab exteriori itaque latere
+orientalis portae usque ad frontem vestibuli
+templi altitudo montis ducentis decem cubitis excrevit,
+si ejusdem montis arduitas in eam partem uniformiter
+ascendit. Quoniam igitur quaelibet porticus
+ab exteriori latere usque ad interius latus sexaginta
+cubitos tenebat, terra ab interiori latere secundum
+praedictum arduitatis tenorem quadraginta quinque
+cubitis eminentior erat. Septem autem, vel octo
+ascensionis gradus, de quibus superius legimus,
+<pb n="0576B"/>
+solam muri latitudinem, quae quinque cubitorum,
+vel septem pedum et semis erat tenere credimus,
+ita ut ad singulos pedes gradus sit, et octavus gradus
+aliis septem connumerari, vel non connumerari
+possit.</p>
+<p>Hinc est, quod de australi porticu exteriori
+legitur: <hi>Et in gradibus septem ascendebatur ad
+eam;</hi> et item de australi interiori: <hi>Et octo gradus
+erant quibus ascendebatur per eam.</hi> Nunquid extra
+eam erant in quibus ascendebatur ad eam et intra
+eam erant in quibus ascendebatur per eam, ita ut
+latitudo quinquaginta cubitorum, quae intra parietes,
+erat octo gradus tantummodo habeat? quis sic
+sapiat? sed eis ipsis gradibus ascendebatur ad eam
+<pb n="0576C"/>
+et per eam quos muri latitudo tenebat. In ipsis ascendebatur
+per eam, quia murus de ipsa erat, et in
+ipsis ascendebatur ad eam, quia per ipsos ad ejus
+interiora aditus erat.</p>
+<p>Nunc itaque quanta sit altitudo unius porticus
+ex praedictis conjicere possumus. Porta
+namque interior, ut legimus, tredecim cubitos
+altitudinis habuit, quibus si illos duos cubitos
+adjungimus, quos porta, ut superius dictum
+est, in fronte usque ad coenaculum habuit, in decimum
+quintum numerum summa consurgit. A
+tecto autem thalami, id est, a pavimento coenaculi
+usque ad tectum portae fuerunt, ut legitur, cubiti
+viginti quinque. Jungantur isti viginti quinque superioribus,
+<pb n="0576D"/>
+et quadraginta habemus. His omnibus
+et adhuc supra tectum ipsius portae quasi ad propugnacula
+facienda quinque cubitos adjicimus, et
+sic quadraginta quinque cubitos altitudinis ab interiori
+parte implemus. Erat autem, ut superius dictum
+est, quadraginta quinque cubitis demissior
+in exteriori latere, et secundum hoc tota ejus altitudo
+ab exteriori parte videtur in nonaginta cubitos
+consurgere. Videtur vero ab exteriori parte
+duo coenacula, unum autem ab interiori parte
+habere, et de tertio et intimo thalamo dicitur
+esse:</p>
+<p> <hi>Et mensus est portam a tecto thalami usque ad
+tectum ejus.</hi> 
+<pb n="0577"/> 
+<pb n="0579"/> 
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>Descriptio templi ipsiusque vestibuli.</hi> </head>
+<p> <hi>Et introduxit me in vestibulum templi et mensus
+est vestibulum quinque cubitis hinc et quinque cubitis
+inde.</hi> Quod dicit hinc et inde, non circa templi, sed
+vestibuli portam debemus intelligere. Latitudo autem
+portae, ut postea legitur, decem cubitorum fuit.
+Unde constat quia tota longitudo vestibuli, ut postea
+<pb n="0580"/>
+determinatur, viginti cubitorum fuerit. Sequitur:</p>
+<p> <hi>Et latitudinem portae trium cubitorum hinc, et trium
+cubitorum inde.</hi> Si usum loquendi consulimus, nomen
+portae ad triplicem sensum accommodare consuevimus.
+Nomine enim portae aliquando designamus
+ipsum ostium quod aperitur et clauditur. Aliquando
+ipsum hiatum seu aditum per quem transitur. Aliquando
+ipsum ambitum quo hiatus ipse cingitur,
+<pb n="0581A"/>
+ea videlicet pars muri quae ostium amplectitur, et
+reliquo parieti in materia vel forma ornatus causa
+dissimilis et supereminens cernitur. Aliter enim
+atque aliter intelligimus cum audimus, vel legimus
+portas civitatis tulit, vel in porta civitatis stetit, vel
+portas civitatis vario marmore et variis caelaturis
+ornavit. Hujusmodi aequivocatione et hoc loco sensus
+confunditur, nisi subtiliter discernatur. Sed constat
+ex sequentibus latitudinem portae decem cubitorum
+fuisse, et latera portae (id est utramque valvam)
+quinque cubitos latitudinis tenere. Quod ergo
+hoc loco legitur, mensus est latitudinem portae
+trium cubitorum hinc, et trium cubitorum inde,
+secundum tertiam acceptionem oportet intelligere.
+Mensus est itaque latitudinem portae trium cubitorum,
+<pb n="0581B"/>
+id est ipsum murum variis caelaturis usque
+in id spatii ornatum. Quem etiam sensum Scriptura
+ipsa videtur determinare in eo quod dicit hinc et
+inde. Longitudinem autem vestibuli viginti cubitorum,
+et latitudinem undecim cubitorum. Longitudo
+vestibuli juxta latitudinem templi extendebatur,
+et idcirco utriusque una mensura invenitur, et
+octo gradibus ascendebatur ad eam, hoc est ad
+portam, et columnae erant in frontibus una hinc et
+una inde. Has columnas credimus sitas hinc inde,
+e regione contra tres praedictos cubitos portae ubi
+mensus est latitudinem trium cubitorum hinc, et
+trium cubitorum inde. <hi>Et introduxit me in templum,
+et mensus est frontes sex cubitos latitudinis hinc, et
+<pb n="0581C"/>
+sex cubitos altitudinis inde latitudinem tabernaculi <note>(Ezech. XLI)</note>
+            </hi>.
+Videant illi quomodo hunc locum de
+tabernaculi latitudine intelligant, qui de tabernaculi
+constructione disputant. Nam id hoc loco determinare
+non puto praesentis negotii esse. Quod autem
+dicitur frontes mensurasse sex cubitorum latitudinis
+hinc, et sex cubitorum altitudinis inde, possumus
+hoc modo intelligere: Primo mensus est quantum
+latitudinis in latere portae fuerit usque ad parietem
+ligneum qui latera quae postea describuntur ab interiori
+portae portavit. Secundum metitur non quid
+latitudinis ex alio latere exstiterit: nam hoc ex jam
+sumpta mensura perpendit, sed quid altitudinis a
+superioribus portae usque ad primum coenaculum
+fuerit; sed si explicatio valvarum decem cubitos
+<pb n="0581D"/>
+habuit, et latitudo templi intra parietas solummodo
+viginti cubitorum fuit, consequens est ut ejecturas
+illas hinc et inde ad quas valvae reverberabantur,
+quando porta claudebatur, intelligamus unius cubiti
+latitudinis esse, et ipsum hiatum inter ejecturas
+ipsas octo cubitos habere. Alioquin non possumus
+hinc inde sex cubitos invenire. Sequitur: <hi>Et latitudo
+portae decem cubitorum et latera portae quinque cubitorum
+hinc, et quinque cubitorum inde.</hi> Ecce quod
+de portae, seu valvarum latitudine superius diximus.
+Post haec longitudo et latitudo ipsius templi determinatur
+cum dicitur: <hi>Et mensus est longitudinem
+quadraginta cubitorum, et latitudinem viginti cubitorum.</hi> 
+Descripta exteriori domo, ad interiorem domum
+transit, et quod dicitur sanctum sanctorum in
+<pb n="0582A"/>
+his verbis describit: <hi>Et introgressus intrinsecus mensus
+est in fronte duos cubitos, et portam sex cubitorum.</hi> 
+Sicut in superiori descriptione primo loco
+mensus est latitudinem portae trium cubitorum hinc
+et trium cubitorum inde, sic hic primo omnium
+mensus est duos cubitos in fronte, eam videlicet
+muri partem quae ad portae ornatum videbatur pertinere.</p>
+<p>Notandum autem quod ejusmodi ornamenti ambitus
+tam hujus quam superioris portae videtur eas
+per tres partes cingere, hoc est a superioribus, et
+ab utroque latere. Sed ad superiorem portam in
+utroque latere mensura sumitur, et quid de superioribus
+portae sentiendum sit tacite innuitur. Hic
+autem videtur qui metitur in superioribus portae
+<pb n="0582B"/>
+mensuram capere, et quid de utroque latere sentiri
+debeat innuendo ostendere, hoc esse videtur quod
+ibi metiri dicitur hinc et inde, hic autem in fronte.
+Sequitur:</p>
+<p> <hi>Et portam sex cubitorum, et latitudinem portae,
+septem cubitorum.</hi> Si ejecturae hinc et inde circa
+hiatum ad quas valvae reverberabantur non unius
+cubiti, sicut superius, sed dimidii esse intelligantur,
+manifestum erit quod dicitur. Quod igitur dicit
+portam sex cubitorum, ipsum hiatum inter ejecturas
+intelligere. Quod autem adjungit, et latitudinem
+portae septem cubitorum, ad latitudinem valvarum
+oportet referre. Si enim hiatus inter ipsas ejecturas
+sex cubitorum fuit, et ejecturam dimidii cubiti
+hinc inde habuit, manifestum est quia copula valvarum
+<pb n="0582C"/>
+septem cubitos latitudinis tenuit. Superius
+dixit quid latitudinis in latere portae fuerit, sed
+quantum latitudinis hiatus habuerit aperte non dixit,
+quod tamen subintelligendum reliquit. Hic autem
+e converso mensuram hiatus determinavit, et quid
+latitudinis in utroque latere habuerit subintelligendum
+dedit. Nam, si hiatus ipse in sex tantum cubitos
+extenditur, procul dubio ab utroque latere
+septem cubiti latitudinis inveniuntur. Quae autem
+eadem latitudo in superioribus portae, et in latere
+fuerit superius ostendit. Quam vero hoc loco diversa
+fuerit, omnino non dicit. Quid ergo aliud videtur
+tacendo innuere, nisi quod debeamus de similibus
+similia aestimare? Datur ergo intelligi septem cubitos
+<pb n="0582D"/>
+latitudinis esse in superioribus hujus portae,
+sicut et in utroque latere.</p>
+<p>Notandum sane quomodo alia aperte dicit, alia
+tacendo innuit. Et quomodo hunc ipsum dicendi
+modum alternat, et artis suae peritiam, ut sic dicam,
+ostentat. Nam quod primo loco aperte exprimit, hoc
+in sequentibus cum ad similem locum venerit tacite
+innuit, et e converso quod in superioribus tacendo
+innuerat, hoc in sequentibus manifeste determinat.
+Hoc est quod in caelaturis miramur, ubi
+nodorum perplexa texuntur. Nam quod in una perplexionum
+copula superponitur ut appareat, in
+subsequenti supponitur ut dispareat. Sequitur:</p>
+<p> <hi>Et mensus est longitudinem viginti cubitorum, et
+latitudinem viginti cubitorum ante faciem templi.</hi> 
+<pb n="0583A"/>Quam autem longitudo et latitudo interioris domus
+in his verbis describitur, subsequenti determinatione
+ostenditur, cum dicitur: <hi>Et dixit ad me: Hoc
+est sanctum sanctorum.</hi> </p>
+<p>Notandum autem quod haec mensura longitudinis
+seu latitudinis, tam exterioris quam interioris domus,
+aequalis est illi mensurae quam de templo Salomonis
+legimus. Dupla vero ad illam quam de tabernaculo
+invenimus. Sed quoniam Scriptura hoc
+loco omnino de altitudine tacet, dubitari de exteriori
+domo potest, cuinam respondere debeat, an templo
+Salomonis juxta aequalitatem, an tabernaculo
+foederis juxta dictam proportionem. Habebit namque
+cubitos viginti si fuerit dupla ad mensuram tabernaculi,
+triginta vero si fuerit aequalis ad mensuram
+<pb n="0583B"/>
+praedicti templi. Sed, si dicimus triginta cubitos
+altitudinis usque ad primum coenaculum fuisse,
+oportet ut concedamus portam decem cubitorum
+latitudinis nimis proceram, et latitudini valde incongruam,
+id est viginti quatuor cubitorum altitudinem
+habere. Nam ex praedictis habemus sex cubitos
+altitudinis tantum supra portam fuisse. Si
+vero dicatur quod viginti cubitorum altitudo usque
+ad primum coenaculum fuerit, consequenter tam
+exterioris quam interioris domus porta altitudinem
+aptam et suae latitudini congruam habebit. Nam
+exterior decem et quatuor, interior decem et trium
+cubitorum erit. Ecce quomodo ex altitudine sex cubitorum
+quam supra portam superius sumpserat,
+<pb n="0583C"/>
+tam utriusque portae, quam coenaculi altitudo colligitur,
+quas aperte non dixerat. Quantum autem
+spissitudinis murus templi habuerit, determinat
+cum subjungit: <hi>Et mensus est parietem domus sex
+cubitorum.</hi> Sequitur: <hi>Et latitudinem lateris quatuor
+cubitorum undique per circuitum domus.</hi> Per latera
+ista quae modo describit, nihil aliud intelligo, quam
+quaedam deambulatoria intus et exterius in duobus
+templi lateribus per parietem ordinata, erantque ab
+inferioribus usque ad superiora unum post unum
+sibi invicem immediate conjuncta. Unde est illud
+quod sequitur:</p>
+<p> <hi>Latera autem latus ad latus, bis triginta tria.</hi> Et
+forte latera inde dicta sunt, quod in solis templi lateribus,
+non autem in frontibus essent. Sed quoniam
+<pb n="0583D"/>
+viginti cubitorum solummodo altitudo sub
+primo templi coenaculo fuit, non plus quam tria latera
+capere potuit. Sicut enim in sequentibus legitur,
+a fundamento unius usque ad fundamentum
+alterius, solum sex cubitorum spatium fuit. Erant
+itaque tria interius ab imo usque ad coenaculum,
+et triginta exterius ab imo usque ad summum. Interiora
+autem templi in suis superioribus ejusmodi
+latera non habebant, sicut sequentia manifestant.
+Bene ergo dicitur bis triginta tria, eo quod triginta
+tria essent ex parte una, et triginta tria ex parte
+altera. Adhuc autem de horum laterum descriptione
+addit, cum dicit: <hi>Et erant eminentia quae ingrederentur
+per parietem domus in lateribus per circuitum
+ut continerent, et non attingerent parietem templi.</hi> 
+<pb n="0584A"/>
+Trabes itaque de parietibus proeminebant, et latera
+supportabant; sed idcirco tabulata quae super ipsas
+fundata erant non usquequaque usque ad parietem
+pertingebant, ut videlicet visum admitterent; et intuentium
+obtutus ab imis usque ad superiora libere
+percurreret, et totum sub uno aspectu comprehendens
+de toto judicare potuisset. Sequitur:</p>
+<p> <hi>Et platea erat in rotundum ascendens sursum per
+cocleam, et in coenaculum templi deferebat per gyrum.
+Idcirco satius erat templum in superioribus, et
+sic de inferioribus ascendebatur ad superiora in medium.</hi> Hujusmodi viam gradibus ascendentem, et
+se in gyrum flectentem videmus quotidie in ascensionibus
+turrium, vel ejusmodi sublimium aedificiorum.
+Quod autem ait, idcirco latius erat templum
+<pb n="0584B"/>
+in superioribus, manifeste determinat, quod descripta
+latera usque ad coenaculorum suprema non
+usquequaque pertingebant, vel in superioribus templi
+omnino non erant, et idcirco, templi amplitudo
+ibi latior erat, ubi ejusmodi obstacula inter parietes
+nulla habebat. Quod autem dicitur, et sic de inferioribus
+ascendebatur ad superiora in medium,
+videtur ostendere templum hoc duo coenacula habere,
+et ipsum in tres mansiones dividere. In eo
+autem quod dicitur medium, intelligimus primum
+coenaculum, eo quod ipsum primum coenaculum
+esset medium trium mansionum. Superius latitudinem
+laterum descripserat in eo quod dicebat: <hi>Et
+latitudinem lateris quatuor cubitorum undique per circuitum
+domus.</hi> Nunc autem eorum altitudinem describit
+<pb n="0584C"/>
+in eo quod hic adjungit: <hi>Et vidi in domo altitudinem,
+fundata latera ad mensuram calami sex
+cubitorum spatio.</hi> Non dicit sex cubitorum et palmo,
+cum tamen mensuram calami praemiserit. Unde et
+ex hoc item loco notare possumus quod superius
+de calami mensura jam diximus, et vidi, inquit. Sed
+ubi ea vidit? In domo. Quemadmodum autem vidit
+altitudinem per circuitum fundata latera; ergo in
+domo erant, et secundum altitudinem domus alia
+supra alia fundata erant. Sequitur:</p>
+<p> <hi>Et latitudinem per parietem lateris forinsecus
+quinque cubitorum.</hi> Videtur mihi locus idem designari
+in his verbis qui postea dicitur locus orationis.
+Erat itaque quinque cubitorum latitudinis quasi
+<pb n="0584D"/>
+quoddam appendicium juxta parietem primi, et infimi
+lateris factum, ut illic orationis gratia convenirent
+qui templum ingredi vel non possent, vel
+non auderent. Mensus est itaque quinque cubitorum
+latitudinem primo lateri a fine usque ad finem per
+omnem ejus parietem forinsecus adhaerentem. Sequitur: <hi>Et interior domus in lateribus domus.</hi> 
+ Hoc
+idcirco dicitur ne circa interiorem domum latera
+deesse putarentur, et inter gazophylacia latitudinem
+viginti cubitorum in circuitu domus undique. De
+his gazophylaciis nihil adhuc dixit, sed quibusdam
+de loco orationis interpositis, statim eorum descriptionem
+adnectit. <hi>Et ostium,</hi> inquit, <hi>lateris ad orationem,
+ostium unum ad viam Aquilenis, et ostium
+unum ad viam australem, et latitudinem loci ad orationem
+<pb n="0585A"/>
+quinque cubitorum in circuitu.</hi> Ecce de loco
+orationis repetit, ut addat. Nam superius ipsum
+locum, nec locum orationis dixerat, nec quod in
+circuitu, hoc est per tria latera templum ambiebat.
+Congregemus modo in unum quae de templi mensura
+audivimus, et prius de ejus latitudine videamus.
+Primo loco ipsum templum intra parietes, imo
+intra latera viginti cubitos latitudinis tenuit. Latera
+autem interiora hinc inde quatuor cubitorum,
+et parietes sex cubitorum latitudinis habuit. Horum
+summa in quadraginta surgit. Latera autem
+exteriora habuerunt similiter utrinque quatuor
+cubitos latitudinis, quinque vero utrobique habuit
+locus orationis. Quae omnia si in unum colligis,
+procul dubio quinquaginta octo invenis. Remanet
+<pb n="0586A"/>
+ergo utrinque via cubiti unius inter templum et
+gazophylacia, quae contra viginti cubitos atrii interioris
+esse superius legimus. Haec autem via sub
+ejectura tecti quae locum orationis operuit esse potuit,
+et tunc frons templi sexaginta cubitos implevit.
+Longitudo autem templi centum cubitorum
+fuisse legitur, sicut in consequentibus exprimitur,
+et ex praecedentibus colligitur. Nam quadraginta
+cubitos longitudinis intra parietes habuit ipsum
+templum, viginti vero sanctum sanctorum, undecim
+autem latitudinis templi vestibulum. Quatuor autem
+parietes viginti quatuor cubitos tenuere, et locus
+orationis cubitos quinque. Haec omnia, si in unum
+redigis, centenarii summam implebis.
+<pb n="0585"/> 
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>Descriptio aedificiorum quae templo adjacebant.</hi> </head>
+
+<pb n="0587A"/>
+<p>Nunc autem de gozophylaciis illis dicendum videtur,
+de quibus dicitur:</p>
+<p> <hi>Et inter gazophylacia latitudinem viginti cubitorum
+in circuitu domus undique <note>(Ezech. XLI)</note>
+            </hi>.</p>
+<p>Docuimus autem longe superius de his gazophylaciis,
+quae circa templum jacebant, quomodo ab
+invicem viginti cubitis distabant. Sed quia aedificium
+separatum, ut superius monstratum est,
+centum cubitis se inter aquilonarem et australem
+domum extendebat, et spatium viginti cubitorum
+adhuc utrinque interjacebat, patet quod inter
+aquilonarem et australem domum centum quadraginta
+<pb n="0587B"/>
+cubiti secundum planum erant, unde constat
+inter templum et utramque domum hunc inde quadraginta
+cubitos fuisse: nam caeteros sexaginta
+monstratum est templi latitudinem tenere.</p>
+<p>Quomodo autem poterit quadraginta cubitorum
+spatium capere illud, de quo superius dictum est,
+quinquaginta cubitorum latitudinis atrium? Sed
+plane quod secundum planum locus non habuit, ei ex
+tumore montis accrevit. Si igitur intelligimus illud
+atrium quadraginta cubitos secundum planum habere,
+et quinquaginta in superficie, videbimus montis
+devexitatem in hoc loco, et in supradictis atriis eadem
+sibi proportione respondere. Nam eadem proportione
+se habent centum ad octoginta, et quinquaginta
+<pb n="0587C"/>
+ad quadraginta.</p>
+<p>Post descriptionem templi adjungitur descriptio
+aedificii separati, et aedificium quod erat separatum
+versumque ad viam respicientem ad mare latitudinis
+septuaginta cubitorum. Paries autem aedificii
+quinque cubitorum latitudinis per circuitum, et
+longitudo nonaginta cubitorum. Ista omnia, ut arbitror,
+satis ex superioribus patent, et idcirco alia
+expositione non indigent.</p>
+<p>Mare autem hic dicit illud quod longe post vocat
+magnum quod erat ab Occidente: nam aliud erat
+ab Oriente, quod vocat orientale.</p>
+<p>Postquam autem dixerat hoc aedificium versum
+ad mare, statim infert de ejus latitudine, ut ex eo
+ipso innueret, secundum quam dimensionem ad mare
+<pb n="0587D"/>
+versum esset.</p>
+<p>Notandum autem quod quia templum aedificium
+separatum, atrium adjunctum, tam aquilonare quam
+australe aedificium unius longitudinis erant, omnium
+longitudinem sub una continuatione commemorat:</p>
+<p> <hi>Et mensus est,</hi> inquit, <hi>domus</hi> (id est templi) <hi>longitudinem
+centum cubitorum, et quod separatum erat
+aedificium, et parietes ejus longitudinis centum cubitorum.</hi> </p>
+<p> <hi>Latitudo ante faciem domus, et ejus quod erat separatum
+contra Orientem centum cubitorum.</hi> </p>
+<p> <hi>Et mensus est longitudinem aedificii contra faciem
+ejus quod erat separatum ad dorsum ethecas ex utraque
+parte centum cubitorum.</hi> </p>
+<p>
+            <pb n="0588A"/>Notandum sane quod latitudo illa centum cubitorum,
+quam metitur ante faciem domus, id est templi,
+possit dici latitudo, et longitudo, sed diversis
+respectibus. Si enim totum illud atrium consideres
+in quo templum situm fuit inter aquilonarem et australem
+domum, ab Austro in Aquilonem centum
+quadraginta cubitorum longitudinis erit, et centum
+cubitorum latitudinis contra Orientem, quemadmodum
+hic dicit. Si autem non totum attendas, sed
+unam quamlibet a quovis templi latere partem, erit,
+ut in sequentibus legitur, longitudinis centum cubitorum,
+et latitudinis quinquaginta cubitorum.</p>
+<p>Sub sequenti autem sententia situm aedificiorum
+determinat. Nam aedificium superius descriptum ad
+dorsum templi separatum erat, et contra faciem
+<pb n="0588B"/>
+suam hinc inde ex utraque parte templi quoddam aedificium
+habebat.</p>
+<p> <hi>Et mensus est,</hi> inquit, <hi>longitudinem aedificii contra
+faciem ejus quod erat separatum ad dorsum ethecas ex
+utraque parte centum cubitorum.</hi> </p>
+<p>Vides certe quod ex utraque parte aedificium
+fuit, et utrumque ethecas habuit, et eo ipso quo
+ethecas mensus fuit, etiam domorum mensuras
+accepit.</p>
+<p>Ante solaria quaedam intelligimus esse istas ethecas,
+quas, ut Hieronymus in his verbis testatur,
+Romae vocant solaria de coenaculorum parietibus
+eminentia, quae nonnulli Graecorum exedras vocant.</p>
+<p>Recapitulatio cum additione videtur esse quod
+sequitur:</p>
+<p>
+            <pb n="0588C"/> <hi>Et templum interius, et vestibula atrii, limina et fenestras
+obliquas, ethecas in circuitu per tres partes contra
+uniuscujusque limen, stratumque ligno per gyrum in
+circuitu.</hi> </p>
+<p>Patet autem cur templum interius esse dixerit, quia
+inter praedicta aedificia medium locum tenuit. Vestibula
+atrii nominat, quia atrio adjacebant.</p>
+<p>Superius autem designaverat ethecas ex utraque
+parte, hic autem dicit per tres partes esse, unde
+constat aedificium etiam separatum ethecas habuisse.
+Qua ex re convincimus eamdem in tribus similitudinem
+esse tam in qualitate quam in quantitate.
+Ethecae autem, ut dicitur, contra limen unius cujusque
+erant, quia de ipsis coenaculis extrinsecus proeminebant.
+<pb n="0588D"/>
+Ne enim altiores vel demissiores ipsis
+coenaculis putarentur, per limina solariorum situs
+antesolariorum exprimuntur.</p>
+<p>Stratum lignorum per gyrum dicit tabulatum quo
+ethecarum inferiora sternebantur, quae tres templi
+partes, ut dictum est, cingere videbantur:
+<l> <hi>Terra autem,</hi> inquit, <hi>usque ad fenestras erat.</hi> </l>
+          </p>
+<p>Unde convinci potest quanta devexitas montis
+fuerit, quandoquidem parietes aedificiorum quae ex
+parte templi erant, terram usque ad fenestras habebant.</p>
+<p>Quod autem dicit cherubin, et palmas usque ad interiorem
+domum, hoc sanctum sanctorum fuisse, videtur
+determinare velle interius sanctuarium ejusmodi
+caelaturas non habere. Erant itaque, ut dicitur,
+<pb n="0589A"/>
+usque ad interiorem domum, in exteriori videlicet
+templo, et forinsecus, id est in vestibulo quod
+eadem consideratione videtur dici posse forinsecus,
+qua domus interior dicitur intrinsecus. Erant, inquam,
+in templo et in vestibulo per omnem parietem
+in circuitu non solum interius, sed etiam extrinsecus
+fabrefacta ad mensuram et cherubin, et palmae.</p>
+<p>Sequitur:</p>
+<p> <hi>Et palma inter cherub et cherub, duasque facies habebat
+cherub.</hi> </p>
+<p> <hi>Faciem hominis juxta palmam ex hac parte, et faciem
+leonis juxta palmam ex alia parte expressam per
+omnem domum in circuitu.</hi> </p>
+<p> <hi>De terra usque ad superiora portae cherubin, et
+<pb n="0589B"/>
+palmae caelatae erant in pariete templi.</hi> </p>
+<p> <hi>Limen quadrangulum, et facies sanctuarii aspectus
+contra aspectum altaris lignei.</hi> </p>
+<p>Haec omnia per se, ut arbitror, patent, et nostra
+expositione non indigent.</p>
+<p>Ultima autem sententia situm altaris interioris
+exprimit, eo quod in medio templi contra portam
+sanctuarii positum fuerit. Hoc erat altare incensi.
+Nam illud de quo superius breviter tetigit, et
+de quo in sequentibus latius agit, erat altare
+holocausti.</p>
+<p>Sequentibus autem verbis videtur exprimere non
+tantummodo modum quantitatis, sed etiam facturam
+<pb n="0589C"/>
+operis</p>
+<p>Ait itaque:</p>
+<p> <hi>Trium cubitorum altitudo, et longitudo ejus duorum
+cubitorum.</hi> </p>
+<p>Haec ad quantitatem, sequentia referuntur ad
+qualitatem:</p>
+<p> <hi>Et anguli ejus, et longitudo ejus, et parietes ejus
+lignei.</hi> </p>
+<p>Forte idcirco de latitudine tacuit, quod longitudo
+et latitudo eadem fuerit, et in utramlibet partem
+longitudo, sicut et in utramlibet latitudo dici potuit.
+Videtur autem quatuor ligna per quatuor angulos
+erecta habere secundum altitudinem, quibus alia
+quatuor copulabantur tam superius quam inferius,
+<pb n="0589D"/>
+directa secundum longitudinem et latitudinem, quibus
+tabulae affigebantur, et conjungebantur in unam
+compagem. Angulos itaque vocat, eo qnod angulos
+tenerent ligna illa, quae in angulis erigebantur. Longitudinem
+vero nominat ligna illa quae altaris longitudinem
+metiebantur.</p>
+<p>Parietes autem dicit juncturam tabularum quibus
+earum hiatus texebatur.</p>
+<p>Sequitur:</p>
+<p> <hi>Et locutus est ad me haec est mensa coram Domino.</hi> </p>
+<p>Et post haec additur descriptio ostiorum tam templi
+quam sanctuarii:</p>
+<p>
+            <pb n="0590A"/> <hi>Et duo ostia erant in templo, et in sanctuario.</hi> </p>
+<p> <hi>Et in duobus ostiis ex utraque parte bina erant
+ostiola quae in se invicem plicabantur. Bina enim ostia
+erant ex utraque parte ostiorum.</hi> </p>
+<p>Puto ex hoc loco manifestum esse, quod idem
+nomen ponitur in diversa acceptione. Alioquin quomodo
+stabit, quod dicit: Bina ostia erant ex utraque
+parte ostiorum? Quod igitur prius dicit ostia, referendum
+est ad fabricam quae erat ex ligno. Quod
+postea dicit ostiorum, referendum est ad aditum,
+qui patebat in muro. Murus autem sex cubitorum
+spissitudinis erat, et ipsa ejus spissitudo tam in
+templo quam in sanctuario duo ostia tenebat. Nam
+unum erat in muro ex parte interiori et alterum ab
+<pb n="0590B"/>
+exteriori. Pendebat autem ex his duobus ostiis unum
+a dextris et alterum a sinistris, juxta quem modum
+per omnia erat et in templo Salomonis.</p>
+<p>Hoc est quod ibi dicitur:  « Et duo ostia de lignis
+abiegnis altrinsecus, utrumque autem ostium erat in gemina
+divisum <note>(III Reg. VI, 34)</note>, »  hoc est quod superius
+dixerat: Latera quinque cubitorum. Quod ibi dicit latera,
+hic dicit ostiola. Haec latera ferreis nexibus copulabantur,
+et cum portae aperirentur invicem plicabantur.
+Quemadmodum et hic dicitur, et ibi dictum est,
+quod se invicem tenendo aperiebantur. Idcirco autem
+unum ostium in duo dividebatur, et invicem plicabatur,
+ne muri latitudinem excederet dum aperiretur.</p>
+<p>
+            <pb n="0590C"/> <hi>Et celata erant in ipsis ostiis templi cherubin, et
+sculptura palmarum sicut in parietibus quoque expressa
+erant.</hi> </p>
+<p>Ista omnia per se satis patent.</p>
+<p>Recte autem subjungitur:</p>
+<p> <hi>Quamobrem erant grossiora ligna in vestibuli fronte
+forinsecus super quae fenestrae obliquae.</hi> </p>
+<p>Ibi namque grossiora ligna esse res exigebat, ubi
+ornatus causa digniores et excellentes caelaturas esse
+oportebat. Datur autem intelligi ex his verbis, parietes
+opertos esse lignis quemadmodum in templo Salomonis.</p>
+<p>Sequitur:</p>
+<p> <hi>Et similitudo palmarum hinc atque inde in humerulis
+<pb n="0590D"/>
+vestibuli secundum latera domus, latitudinemque
+parietum.</hi> </p>
+<p>Patent ista:</p>
+<p> <hi>Et eduxit me in atrium exterius per viam ducentem
+ad Aquilonem, et introduxit in gazophylacium,
+quod erat contra separatum aedificium.</hi> </p>
+<p>De vestibuli fronte templi constat eum novissimo
+loco egisse, de quo loco videtur modo per aquilonarem
+portam atrii interioris in descriptum gazophylacium
+transire. Recte sane. Nam hoc utique gazophylacium
+ad praedictam decem cubitorum latitudinis
+deambulationem faciem habebat, quae ab eo loco
+incipiebat ubi sta porticus porticui aquilonaris domus
+<pb n="0591A"/>
+juncta erat, et ubi, ut ex hoc loco colligitur, in latere
+videlicet triplicis porticus aditus ad illud gazophylacium
+patebat:</p>
+<p> <hi>Et induxit me,</hi> inquit, <hi>in gazophylacium quod
+erat contra separatum aedificium, et contra aedem vergentem
+ad Aquilonem.</hi> </p>
+<p> <hi>In facie longitudinis centum cubitos ostii Aquilonis
+et latitudinis quinquaginta cubitos.</hi> </p>
+<p> <hi>Contra viginti cubitos atrii interioris, et contra pavimentum
+stratum lapide atrii exterioris, ubi erat porticus
+juncta porticui triplici.</hi> </p>
+<p> <hi>Et ante gazophylacia deambulatio decem cubitorum
+latitudinis ad interiora respiciens viae cubiti unius, et
+ostia eorum ad Aquilonem.</hi> </p>
+<p>
+            <pb n="0591B"/>Horum omnium descriptionem superius tam diligenter
+exposuimus, ut nesciamus utrum aliquid
+(nisi forte pro litterae expositione) ad praedicta
+addere debeamus. Ostium Aquilonis dicit illud
+ostium templi de quo superius dixerat, et ostium
+lateris ad orationem. Ostium unum ad Aquilonem.
+Nondum sane, quia quod prius quasi singulariter
+posuit, postea pluraliter designavit. Et induxit me,
+inquit, in gazophylacium, et in sequentibus, et
+ante gazophylacia deambulatio decem cubitorum
+latitudinis ad interiora respiciens viae cubiti unius.
+Quod autem sequitur: Et ostia earum ad Aquilonem,
+si earum ibi legitur, referendum est ad porticus;
+si vero eorum, referendum est ad gazophylacia.
+Nam utrobique poterit esse sententia vera.</p>
+<p>
+            <pb n="0591C"/>Sequitur:</p>
+<p> <hi>Ubi erant gazophylacia in superioribus humiliora.</hi> </p>
+<p>Quia supportabant porticus quae ex illis eminebant
+de inferioribus et de mediis aedificii. Praemissa descriptione
+deambulationis, bene additur ubi erant
+gazophylacia; nam juxta deambulationem erant, et
+ei ab Aquilone adhaerebant.</p>
+<p>Illud quoque notandum, quia pluraliter porticus
+dicit, quod prius porticum dixit. Sane ut his verbis
+facile perpenditur, tam domus quam ejus porticus
+in triplicem mansionem distinguebatur. Si enim
+aedificium habebat inferiora et media, habebat utique
+et suprema. Medium namque non dicitur nisi
+ad duo extrema. Habebat itaque domus sicut et
+<pb n="0591D"/>
+sua porticus gazophylacia in imo, coenaculum unum
+in medio, et coenaculum aliud in summo. Habebat
+et porticus gazophylacia in inferioribus contra
+gazophylacia domus, quae porticus supportabant.
+Erant namque porticus in horum superioribus, una
+contra coenaculum primum, et alia contra coenaculum
+secundum, quae a gazophylaciis supportabantur.
+Inferior porticus de interioribus aedificii eminebat,
+quia supra gazophylacia sita erat, quae inferioribus
+aedificiis respondebant. Superior porticus de
+mediis aedificii eminebat, quia supra primam porticum
+sita erat, quae mediis aedificii respondebat.
+Illud nunc quale sit consideremus, quod gazophylacia
+dicuntur esse humiliora in superioribus. Sane
+si arduitatem montis circa hunc locum secundum
+<pb n="0592A"/>
+priorem modum aestimemus, terram in uno aedificii
+latere ex parte templi sexaginta cubitis excelsiorem,
+quam in alio latere inveniemus. Sed quis nesciat, ratione
+id exigente, pavimenta aedificiorum in aequalem
+quamdam superficiem sternere oportere? Ne
+ergo putaremus terram ab una parte sexaginta cubitis
+cavatam fuisse, dicit Scriptura gazophylacia in
+superioribus humiliora esse, ut intelligamus unum
+gazophylacium divisum in plura, et singula habere
+pavimenta, in seipsis quidem aequalia, sed alia aliis
+eminentiora, et secundum ascensum montis graduum
+more alia supra alia elevata. Ubi ergo pavimenta
+elevatiora, ibi gazophylacia erant humiliora,
+id est minus altitudinis habentia, hoc idem intelligimus
+de gazophylaciis illis quae erant sub porticibus.
+<pb n="0592B"/>
+Hoc idem de divisione illa sex porticuum quas
+in septem portiones secundum latitudinem, montisque
+ascensum distinximus. Hoc idem de gazophylaciis,
+quae circa pavimenta erant sentimus. Idcirco
+autem hae distinctiones erant utique longae, sed parum
+latae. Nam gazophylacia eadem leguntur quinquaginta
+cubitorum longitudinis fuisse, quae tamen
+non plus quam novem cubitorum latitudinis videntur
+habere. Hae tamen gazophylaciorum divisiones
+non tam videntur parietibus interseptae, quam columnis
+distinctae, ita tamen ut has columnas (quemadmodum
+in claustris fieri solet) nonnullius altitudinis
+murus supportaret, qui pavimentorum elevationes
+susciperet, elevationumque degradationes dispararet.
+In hoc itaque gazophylacia exterioris atrii ab
+<pb n="0592C"/>
+istis gazophylaciis discrepabant, quod illa columnas
+habebant, in his vero nullae erant.</p>
+<p> <hi>Tristega enim,</hi> inquit, <hi>erant et columnas non habebant,
+sicut erant columnae atriorum.</hi> </p>
+<p>Bene autem de his porticibus additur, propterea
+eminebant. Quoniam supportabantur a gazophylaciis,
+idcirco eminebant, et subditur quidem quomodo, vel
+quantum eminebant a terra.</p>
+<p> <hi>Eminebant,</hi> inquit, <hi>de inferioribus, et de mediis
+aedificii a terra cubitis quinquaginta.</hi> </p>
+<p>Si ista porticuum supereminentia a terra sursum
+quinquaginta et quinquaginta cubitis distinguitur,
+tota altitudo domus centum quinquaginta cubitos
+<pb n="0592D"/>
+habere videtur. Inferior autem porticus non ubique
+a terra quinquaginta cubitis eminebat, sed in eo latere
+ubi terra dimissior erat. Sed quia secundum
+praedictam rationem terra in uno latere domus ex
+parte templi elevatior erat cubitis sexaginta, et primum
+coenaculum domus secundum descriptionem
+porticus eminebat, ex parte alia tantummodo cubitis
+quinquaginta videtur terra decem cubitis exterius
+eminere ex parte templi supra pavimentum
+primi coenaculi. Quod igitur superius legimus, quia
+terra usque ad fenestras erat: de fenestris primi
+coenaculi intelligere debemus, ita ut quibusdam
+gradibus ejus ostia descenderetur, quemadmodum
+in cellariis videmus. Ethecas autem contra superius
+coenaculum esse perpendimus.
+<pb n="0593"/> </p>
+<p>
+            <pb n="0593B"/>Sed quoniam gazophylacia quae sub porticibus
+erant cum eis ipsis domui adhaerebant, ab interiori
+parte parietem unum cum ipsa domo communem
+habebant; qui quidem gazophylaciis porticuum
+tanto longior erat, quanto longitudinem illorum latitudo
+domus superabat. Per exteriorem ergo parietem
+qui atrio exteriori adhaerebat, longitudo gazophylaciorum
+exprimitur, cum adjungitur: <hi>Et peribolus
+exterior secundum gazophylacia quae erant in
+via atrii exterioris ante gazophylacia longitudo ejus
+quinquaginta cubitorum.</hi> </p>
+<p>Notandum sane quod non dicit porticum ipsam
+<pb n="0594B"/>
+quinquaginta cubitos longitudinis habere, sed peribolum
+ejus exteriorem, id est parietem illum quem
+ad exteriora habebat quinquaginta cubitorum longitudinis
+fuisse, ne putetur haec mensura intra parietes,
+quemadmodum in superioribus porticibus
+sumpta fuisse. Patet ergo, quod superius jam diximus,
+quia unum parietem cum domo communem
+habebat, ita ut utriusque mensurae annumerari debeat,
+ut constet de hujus porticus gazophylaciis,
+quod illis gazophylaciis legitur quae ad horum similitudinem
+describuntur. <hi>Secundum longitudinem
+eorum,</hi> inquit, <hi>sic et latitudo eorum.</hi> Generalis autem
+<pb n="0595A"/>
+sententia esse videtur quae subinfertur, cum dicitur:
+Quia longitudo erat gazophylaciorum atrii exterioris
+quinquaginta cubitorum. Cum enim dicatur, non
+eorum, sed gazophylaciorum, non videtur ad praedicta
+relatio facta, sed generalis sententia prolata,
+ut omnium gazophylaciorum exterioris atrii intelligatur
+longitudo una.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>De caeteris quae restant usque ad finem descriptionis.</hi> </head>
+<p>Post descriptionem gazophylacii quod erat contra
+viginti cubitos atrii interioris, et contra pavimentum
+atrii exterioris, et post descriptionem porticus
+tam pavimento quam triplici porticui adhaerentis,
+vide quam miranda ratione repetit quod longe superius
+dixit. <hi>Et longitudo,</hi> inquit, <hi>ante faciem templi
+<pb n="0595B"/>
+centum cubitorum.</hi> Nonne hoc idem expressit, quando
+atrii interioris tam longitudinem quam latitudinem
+definivit? Sed intellexit propheta secundum praedictorum
+descriptionem consequens esse, longitudinem
+ante templum centum cubitos, secundum planum
+habere non posse. Sed idem iterum repetendo
+per inculcationem admonuit quod absque dubio
+aliquo modo habuit quod secundum plani considerationem
+omnino habere non potuit. Sequitur:</p>
+<p> <hi>Et erat subter gazophylacia haec introitus ab
+Oriente ingredientium in ea de atrio exteriori in
+latitudine periboli atrii quod erat contra viam orientalem
+in facie aedificii separati.</hi> Quae sint gazophylacia
+ante gazophylacia ista, et quis sit introitus subter
+ista et super illa, id est inter utraque gazophylacia
+<pb n="0595C"/>
+superius jam diximus, et eadem replicare
+vitamus; atrium autem de quo hic commemorat,
+non solum in facie aedificii separati, sed etiam in
+facie aquilonaris domus, et ex majori parte erat.
+Sed quia aedificium separatum ab eo longius distabat,
+de eo maxime dicitur de quo minus videbatur.
+Descriptis gazophylaciis, quae sub porticibus aquilonaris
+domus in via Aquilonis erant, quorum similitudinem
+illa quae sub porticibus separati aedificii
+fuerant per omnia tenebant, compendiose satis eorum
+descriptionem ex similitudinis adjunctione subintulit,
+cum dicit: <hi>Et erant ante aedificium gazophylacia,
+et via ante faciem eorum juxta similitudinem
+gazophylaciorum quae erant in via Aquilonis.</hi> Si ista
+<pb n="0595D"/>
+gazophylacia per omnia eorum similitudinem habebant
+quae in via Aquilonis ante aquilonarem domum
+erant, ergo porticus supportabant quae de illis eminebant
+de inferioribus, et de mediis aedificii. Similiter
+in caeteris unam in utrisque similitudinem intelligimus,
+sicut superius docuimus, et eadem replicare
+non debemus. Unum quod superius praeteriisse
+videbatur, latitudinem videlicet eorum, hoc
+loco determinare videtur, et tam istorum quam
+illorum mensuram uno sermone complectitur, cum
+dicitur: <hi>Secundum longitudinem eorum, sic et latitudo
+eorum.</hi> </p>
+<p>Completa descriptione omnium aedificiorum quae
+ad Aquilonem erant, eorum quae ad Austrum consistebant
+brevi sententia comprehendit, cum dicit:
+<pb n="0596A"/> <hi>Et omnis introitus eorum, et similitudines, et ostia
+eorum secundum ostia gazophylaciorum, quae erant
+in via respiciente ad Notum.</hi> 
+ Ostium in capite viae,
+quae via erat ante vestibulum separatum per viam
+orientalem ingredientibus. Quidquid de gazophylacio
+quod erat contra viginti cubitos atrii interioris
+diximus, quidquid de aede vergente ad Aquilonem,
+vel ejus porticibus, quidquid de ambulatione, vel
+de introitu superius docuimus, totum de his quae ad
+austrum erant secundum situs sui modum intelligere
+debemus, ut sit in istis et illis introitus secundum
+introitum, et similitudines secundum similitudines,
+et ostia secundum ostia, ut sit in omnibus
+per omnia utrobique similitudo una. Vide tamen
+quam argute unum nominatim expressit,
+<pb n="0596B"/>
+de quo maxime dubitari potuit. Forte enim aliquis
+difficile crederet quod aedificium separatum duo
+vestibula haberet, ne duo habendo aliarum in hoc
+aedium formam excederet, quod in caeteris omnibus
+eamdem cum eis similitudinem tenuisset. Ait ergo: <hi>Ostium in capite viae, quae via erat ante vestibulum
+separatum.</hi> 
+ Si via erat ante vestibulum separatum
+ex parte una, erit procul dubio, et via, et vestibulum
+ex parte altera, ut utrobique sit similitudo
+una. Illud autem palam est, quod caput viae illius
+ad Orientem respiciebat, quae ab atrio exteriore
+juxta porticum aquilonaris aedificii incipiebat. Manifesta
+autem sunt caetera quae sequuntur, usque ad
+eum locum, ubi dicitur: <hi>Cumque complesset mensuras
+domus interioris, eduxit me per viam portae quae
+<pb n="0596C"/>
+respiciebat ad viam orientalem, et mensus est eam
+undique per circuitum.</hi> Domum interiorem dicit
+templum quod inter caetera aedificia locum tenebat
+medium. Quod dicit, mensus est eam, intelligendum
+est aut eam interiorem domum, aut eam
+viam, aut eam portam. Sed quomodo mensuras
+domus interioris compleverat, si adhuc eam metiri
+oportebat? Sed quod murum dividentem inter
+sanctuarium, et vulgi locum hoc loco metiatur,
+manifestissime determinatur. Portam itaque
+orientalis viae exteriorem undique in eo mensurabat,
+quod muri ipsius hinc inde mensuras capiebat.
+Mensus est autem contra ventum orientalem
+calamo mensurae quingentos calamos in calamo mensurae
+<pb n="0596D"/>
+per circuitum. Et mensus est contra ventum
+aquilonarem quingentos calamos in calamo mensurae
+per gyrum. Et ad ventum australem mensus
+est quingentos calamos in calamo mensurae per
+circuitum, et ad ventum occidentalem mensus est
+quingentos calamos in calamo mensurae. Per quatuor
+ventos mensus est illud. Quid sit autem illud,
+uti jam dictum est, cujus mensuram accepit subjuncta
+determinatione ostendit, cum dicit: <hi>Murum
+ejus,</hi> inquit, <hi>undique per circuitum longitudinem quingentorum
+cubitorum, et latitudinem quingentorum
+cubitorum dividentem inter sanctuarium, et vulgi
+locum.</hi> Conturbat fortassis aliquem, quod idem
+murus quingentos calamos et quingentos cubitos
+dicitur habere, cum calamus superius legatur sex
+<pb n="0597A"/>
+cubitorum fuisse. Sed diversitatem calamorum intelligere
+nil obstat, cum manifesta prophetae sententia
+in hoc ipsum nos cogat. Sed si iste Scripturae
+locus pro diversitate calamorum ad sui testimonium
+minus sufficere videtur, videamus quid in
+sequentibus dicitur, ubi post pauca altaris mensura
+describitur: <hi>Istae autem,</hi> inquit, <hi>mensurae altaris in
+cubito verissimo, qui habebat cubitum et palmum.</hi> 
+Quis est iste cubitus verissimus, in quo erat cubitus
+et palmus? Aut hoc de instrumento, id est calamo,
+dicitur, per quod mensuratur, aut de mensura quae
+instrumento sumitur. Nam perticam quidem dicimus,
+et illud quo mensuramus et mensuram quam
+accipimus. Sic palmus, sic cubitus, sic sextarius
+dicitur, et mensura qua mensuratur, et mensura
+<pb n="0597B"/>
+quae mensuratur. Si itaque hoc loco cubitum non
+instrumentum, sed mensuratum accipimus, quomodo
+erit cubitus verissimus ubi erat cubitus et
+palmus, hoc est plus quam cubitus? Si autem per
+cubitum intelligimus instrumentum, hoc est calamum,
+in hoc dicimus ipsum verissimum, quia habebat
+cubitum quo metiretur, et palmum unde inter
+metiendum teneretur. Potuit autem (quod et ipse
+credo) in sex cubitorum calamo ex ea parte qua
+supererat palmus, unus cubitus cum eodem palmo
+esse segregatus, atque aliquo signo determinatus,
+in quo sane metiri oportebat, quod infra pleni calami
+mensuram remanebat. Sicut igitur pars panis
+dicitur panis, et pars domus dicitur domus, sic pars
+calami potuit dici calamus. Octoginta autem, et
+<pb n="0597C"/>
+tres calami cum triente de majoribus complent
+quingentos de minoribus. Forte ergo ut inimicitias
+vitaret, imo absque dubio certi causa mysterii, ut
+plenum mysticumque numerum exprimeret, minores
+hoc loco calamos posuit et quod mystice docere
+oportuit, mystico numero expressit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX. <hi>De descriptione altaris holocausti.</hi> </head>
+<p>Restat adhuc de altari dicere, et ejus descriptionem
+explanare. <hi>Istae autem,</hi> inquit, <hi>mensurae altaris
+in cubito verissimo qui habebat cubitum et palmum. <note>(Ezech. XLIII)</note>
+            </hi>.
+De hoc cubito jam superius docuimus
+et eadem replicare non debemus. In sinu ejus
+erat cubitus, et cubitus in latitudine, et definitio
+<pb n="0597D"/>
+usque ad labium ejus in circuitu palmi unius. Ut
+totius altaris mensuram breviter perstringam, erat
+quinque cubitorum altitudinis, et habebat usque
+ad extremum quarti cubiti duodecim cubitos tam
+longitudinis quam latitudinis. A quarto vero cubito
+sursum habebat ejecturam quamdam unius cubiti
+in omnem partem, ita ut in supremis ejus contra
+quintum cubitum esset altare quatuordecim cubitorum
+longitudinis, et quatuordecim latitudinis. Habebat
+ergo ejectura illa cubitum unum altitudinis,
+et cubitum unum latitudinis, in omnem partem extra
+mensuram altaris, ut de eo intelligi possit quod
+dicit, in sinu ejus erat cubitus, et cubitus in latitudine.
+Hujus autem supremi cubiti superiorem medietatem
+corona altaris tenebat, reliqua medietas
+<pb n="0598A"/>
+sub corona erat. Habebat autem corona ipsa unum
+palmum spissitudinis. Unde est illud: <hi>Et definitio
+usque ad labium ejus in circuitu palmi unius.</hi> Hoc
+loco definitio idem est quod terminatio. Erat itaque
+suprema extremitas altars, vel coronae, ubi altare
+terminabatur, vel finiebatur palmi unius scilicet
+spissitudinis. Erat autem adhuc circa eamdem coronae
+extremitatem alia quaedam parva ejectura circumquaque
+dependens, quam et labium vocat. Unde
+et dicit: <hi>Et definitio usque ad labium ejus in circuitu
+palmi unius.</hi> Vel rectius fortassis quoddam
+foramen, quod erat in medio altaris a summo
+usque in ima describitur in eo quod dicitur: <hi>In
+sinu ejus erat cubitus et cubitus in latitudine.</hi> Caetera
+autem quae sequuntur secundum priorem
+<pb n="0598B"/>
+sensum exponantur. Erat etiam sub ipso altari
+quaedam fossa duorum cubitorum profunditatis,
+quae cineres qui per illud foramen defluebant, excipiebat.
+Unde et addit: <hi>Haec quoque erat fossa altaris,
+et de sinu terrae usque ad crepidinem novissimam
+duo cubiti, et latitudo unius cubiti.</hi> Profunditatem
+et latitudinem describit, et de longitudine tacet;
+innuit tamen in eo quod duos cubitos ad crepidinem
+novissimam, id est ad basim altaris, terminari
+ostendit. Videtur itaque mihi longitudo ejus ab anteriori
+parte sub basi altaris incipere, et usque post
+tergum altaris se extendere, ita ut sanguinem qui
+ad basim fundebatur, excipere posset, et post tergum
+altaris quasi ad extrahendos influentes cineres
+pateret. Sequitur:</p>
+<p>
+            <pb n="0598C"/> <hi>Et a crepidine majori usque ad crepidinem minorem
+quatuor cubiti, et latitudo unius cubiti.</hi> Crepidinem
+possumus dicere praeruptionem, vel praecisionem
+alicujus planitiei, vel superficiei. Crepidinem
+igitur minorem vocat basim altaris quae erat
+cubitorum duodecim; crepidinem vero majorem
+vocat basim ejecturae supradictae, quae erat cubitorum
+quatuordecim. Erant itaque ab una usque ad
+aliam crepidinem quatuor cubiti, secundum ejus
+quod dictum est, Ariel altitudinem, et latitudo
+unius cubiti secundum ejectionis latitudinem. Bene
+autem cubitum unum seorsum, et cum determinatione
+posuit. Nam positio quatuor cubitorum in
+altum surrexit, situs vero unius cubiti se in latus
+deflexit, et in latum expandit. Sed a crepidine majori
+<pb n="0598D"/>
+incipiens, cur cubitum unum prius non
+posuit, qui secundum hunc ordinem prius occurrit,
+nisi quod majorem numerum Latinorum more prius
+ponere voluit? Ordinatius autem videretur posuisse,
+si sic voluisset dicere, et a crepidine minori usque
+ad crepidinem majorem quatuor cubiti, et latitudo
+unius cubiti. Hunc ordinem Septuaginta secuti sunt,
+qui sic ponunt: <hi>A propitiatorio minori usque ad propitiatorium
+majus,</hi> eosdem locos per propitiatorium
+et propitiatorium designantes, quos nos in crepidinibus
+intelligimus. Et recte quidem satis haec duo
+loca poterant propitiatoria dici, quia in his duobus
+locis solebat sanguis ad expiationem et propitiationem
+poni, vel effundi: <hi>Ipse autem Ariel quatuor
+<pb n="0599A"/>
+cubitorum.</hi> Ariel dicit ipsum corpus altaris, quod
+quatuor cubitorum altitudinis, ut dictum est, erat,
+cui dicta illa superius ejectura supereminebat. Quod
+ideo forsitan Ariel quod est <hi>leo fortis</hi> nominavit,
+quia leonis more populi victimas per illud jam
+dictum foramen devoravit et absorbuit. Et ab Ariel
+sursum cornua quatuor, per quatuor videlicet
+angulos altaris. <hi>Et Ariel duodecim cubitorum in longitudine
+per duodecim cubitos latitudinis, quadrangulum
+aequis lateribus.</hi> Hoc dictum est de corpore
+altaris, ut superius jam docuimus. <hi>Et crepido quatuordecim
+<pb n="0600A"/>
+cubitorum longitudinis per quatuordecim
+cubitos latitudinis in quatuor angulis ejus.</hi> Et de hoc
+item superius diximus, quod ejusmodi mensura erat
+circa superiora altaris. Et corona in circuitu ejus
+dimidii cubiti, scilicet altitudinis. Nam de spissitudine
+superius dictum est: <hi>Et sinus ejus unius cubiti
+per circuitum.</hi> Recole duas quas superius posuimus
+sententias; secundum primam erit quod
+modo dicitur superflua repetitio, secundum secundam
+erit ad altitudinem altaris complendam necessaria
+adjectio. 
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XX. <hi>Terrae promissionis descriptio seu divisio, et quae portio debeatur sacerdotibus, et quae levitis.</hi> </head>
+
+<pb n="0599B"/>
+<p> <hi>De hoc sanctificato statim pauca adjungit quod sit
+sacerdotibus, et longe post in sequentibus.
+quasi diceret, erit
+in omni praedicto sanctific. aliud sanctific. in quo
+erit sanctuar, et templum, ita ut ipsum possit recte
+dici sanctificatum sanctificati, quemadmodum
+<pb n="0599C"/>
+dici solet sanctum sanctorum.</hi> </p>
+<p> <hi>Quod dicit a mensura ista, non est referendum ad
+proximum tantum, sed ad totum quod superioribus versibus
+est comprehensum. Quod modo mensurari jubetur,
+est illud quod post paululum dicitur debere esse
+levitarum.</hi> </p>
+<p>
+            <pb n="0600B"/> <hi>Palam est ex posterioribus quod templum erat in
+sorte sacerdotum. Quod igitur dicit in ipso, referendum
+est ad illud mensuratum de quo praemittitur, et
+a mensura ista. In medio namque ejus mensurae
+erat templum. Sed subjuncta interpositio, et neutraliter
+facta relatio facit litteram obscuram.</hi> </p>
+<p> <hi>Duobus istis subsequentibus versibus determinat
+quorum debeant esse duae illae praedictae mensurae, et
+in primo quidem de prima. Sanctificatum,</hi> inquit, <hi>de terra erit sacerdotibus, ac si diceret: Illud quod
+superius nominavi sanctificatum; illud, inquam, erit
+sacerdotibus.</hi> </p>
+<p>
+            <pb n="0600C"/> <hi>Haec est illa mensura quam secundo loco posuit,
+ubi ait: Mensurabis longitudinem viginti quinque
+millium, et latitudinem decem millium.</hi> </p>
+<p>Sanctificatum de terra longitudinem viginti quinque
+millia, et latitudinem decem millia. Sanctificatum
+erit in omni termino ejus per circuitum.
+Et erit ex omni parte sanctificatum quingentos
+per quingentos quadrifariam per circuitum,
+et quinquaginta cubitis in suburbana
+<pb n="0599C"/>
+ejus per circuitum.</p>
+<p>Et a mensura ista mensurabis longitudinem viginti
+quinque millium, et latitudinem decem millium.</p>
+<p>
+            <pb n="0600B"/>Et in ipso erit templum, Sanctumque sanctorum.</p>
+<p>Sanctificatum de terra erit sacerdotibus ministris
+sanctuarii, qui accedunt ad ministerium.</p>
+<p>
+            <pb n="0600C"/>Et erit eis locus in domos, et sanctuarium sanctitatis,
+viginti quinque autem millia longitudinis, et
+decem millia latitudinis erunt levitis, qui ministrant
+domui.
+
+</p>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>
