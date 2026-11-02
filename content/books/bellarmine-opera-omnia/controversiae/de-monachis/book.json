@@ -1,0 +1,284 @@
+{
+  "id": "bellarmine-controversiae-de-monachis",
+  "cover": "classic",
+  "name": {
+    "la": "De monachis",
+    "en-US": "On Monks",
+    "pt-BR": "Sobre os monges"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De monachis. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): the religious state: monks, vows and the monastic life. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre os monges."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-monachis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia02bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 2 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De nomine Monastices,",
+            "en-US": "Caput I. De nomine Monastices,"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. De natura, sive definitione Religionis",
+            "en-US": "Caput II. De natura, sive definitione Religionis"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De variis Ordinibus Religiosorum",
+            "en-US": "Caput III. De variis Ordinibus Religiosorum"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Sil",
+            "en-US": "Caput V. Sil"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. Mendacia deteguntur, et calumniae refutantur",
+            "en-US": "Caput VI. Mendacia deteguntur, et calumniae refutantur"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII",
+            "en-US": "Caput VII"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Ponuntur varice sententice de Consiliis",
+            "en-US": "Caput VIII. Ponuntur varice sententice de Consiliis"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Idem asseritur exemplis",
+            "en-US": "Caput X. Idem asseritur exemplis"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Idem asseritur testimoniis Patrum",
+            "en-US": "Caput XI. Idem asseritur testimoniis Patrum"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Explicatur nomen, et definitio voti",
+            "en-US": "Caput XIV. Explicatur nomen, et definitio voti"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Explicatur status quaestionis",
+            "en-US": "Caput XV. Explicatur status quaestionis"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Omne quod fit ex voto, esse cultum Dei",
+            "en-US": "Caput XVI. Omne quod fit ex voto, esse cultum Dei"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Non fuisse Judaeorum proprium vota facere, sed cum Christianis etiam id esse commune",
+            "en-US": "Caput XVII. Non fuisse Judaeorum proprium vota facere, sed cum Christianis etiam id esse commune"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. Non esse proprie votum promissionem, quce sit in Baptismo",
+            "en-US": "Caput XIX. Non esse proprie votum promissionem, quce sit in Baptismo"
+          }
+        },
+        {
+          "id": "b2c20",
+          "title": {
+            "la": "Caput XX. Paupertatem voluntariam recte Deo voveri",
+            "en-US": "Caput XX. Paupertatem voluntariam recte Deo voveri"
+          }
+        },
+        {
+          "id": "b2c21",
+          "title": {
+            "la": "Caput XXI. De voto obedientice",
+            "en-US": "Caput XXI. De voto obedientice"
+          }
+        },
+        {
+          "id": "b2c23",
+          "title": {
+            "la": "Caput XXIII. Idem asseritur ex illis verbis Matth. XIX",
+            "en-US": "Caput XXIII. Idem asseritur ex illis verbis Matth. XIX"
+          }
+        },
+        {
+          "id": "b2c24",
+          "title": {
+            "la": "Caput XXIV. Idem asseritur ex verbis Apostoli I. ad Tim. V. Damnationem habent, quia primam fidem irritam fecerunt",
+            "en-US": "Caput XXIV. Idem asseritur ex verbis Apostoli I. ad Tim. V. Damnationem habent, quia primam fidem irritam fecerunt"
+          }
+        },
+        {
+          "id": "b2c25",
+          "title": {
+            "la": "Caput XXV. Idem asseritur ex Conciliis",
+            "en-US": "Caput XXV. Idem asseritur ex Conciliis"
+          }
+        },
+        {
+          "id": "b2c26",
+          "title": {
+            "la": "Caput XXVI. Idem asseritur ex responsis Pontificum et Imperatorum",
+            "en-US": "Caput XXVI. Idem asseritur ex responsis Pontificum et Imperatorum"
+          }
+        },
+        {
+          "id": "b2c27",
+          "title": {
+            "la": "Caput XXVII. Idem asseritur testimonio Patrum",
+            "en-US": "Caput XXVII. Idem asseritur testimonio Patrum"
+          }
+        },
+        {
+          "id": "b2c28",
+          "title": {
+            "la": "Caput XXVIII. Idem asseritur ratione",
+            "en-US": "Caput XXVIII. Idem asseritur ratione"
+          }
+        },
+        {
+          "id": "b2c29",
+          "title": {
+            "la": "Caput XXIX. Solvitur objectio prima adversariorum",
+            "en-US": "Caput XXIX. Solvitur objectio prima adversariorum"
+          }
+        },
+        {
+          "id": "b2c30",
+          "title": {
+            "la": "Caput XXX. Solvitur secunda objectio",
+            "en-US": "Caput XXX. Solvitur secunda objectio"
+          }
+        },
+        {
+          "id": "b2c31",
+          "title": {
+            "la": "Caput XXXI. Solvitur tertia objectio",
+            "en-US": "Caput XXXI. Solvitur tertia objectio"
+          }
+        },
+        {
+          "id": "b2c33",
+          "title": {
+            "la": "Caput XXXIII. Solvitur objectio quinta ex Conciliis",
+            "en-US": "Caput XXXIII. Solvitur objectio quinta ex Conciliis"
+          }
+        },
+        {
+          "id": "b2c35",
+          "title": {
+            "la": "Caput XXXV. Quod juniores vovere possint",
+            "en-US": "Caput XXXV. Quod juniores vovere possint"
+          }
+        },
+        {
+          "id": "b2c37",
+          "title": {
+            "la": "Caput XXXVII. Licere conjugatis ex consensu vovere continentiam",
+            "en-US": "Caput XXXVII. Licere conjugatis ex consensu vovere continentiam"
+          }
+        },
+        {
+          "id": "b2c38",
+          "title": {
+            "la": "Caput XXXVIII. Per vota solemnia solvi Matrimonium ratum, non consummatum",
+            "en-US": "Caput XXXVIII. Per vota solemnia solvi Matrimonium ratum, non consummatum"
+          }
+        },
+        {
+          "id": "b2c39",
+          "title": {
+            "la": "Caput XXXIX. De Eremitis",
+            "en-US": "Caput XXXIX. De Eremitis"
+          }
+        }
+      ]
+    }
+  ]
+}

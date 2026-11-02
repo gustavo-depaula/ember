@@ -1,0 +1,3 @@
+# Praefatio
+
+quidem, quod certse regulse vivendi addicti sint, quo nomine passim utuntur Concilia. Religiosos autem, quod se totos Dei obsequio mancipaverint, ut recte explicat B. Thomas2. 2. qusestion. CXXXYI, art. 1. Religio enim est virtus, qua Deo debitum cultum exhibemus. Quare sicut omnes probi Christiani dici possunt religiosi, si Deo serviant, ut eorum vocatio requirit: ita illi per antonomasiam dicuntur religiosi, qui nulli rei serviunt, nisi Deo. Et licet hoc nomen videatur novum, tamen revera est omnium antiquissimum; respondet enim proprie illi Grseco, Ospumurhs, quo Dionysium, et Philonem usos fuisse docuimus. Haec de nomine.
