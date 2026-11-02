@@ -1,0 +1,173 @@
+{
+  "id": "john-of-the-cross-poesias",
+  "name": {
+    "es-ES": "Poesías",
+    "en-US": "Poems",
+    "pt-BR": "Poesias"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "Las poesías de San Juan de la Cruz según la edición del P. Silverio de Santa Teresa: la Noche oscura, el Cántico espiritual, la Llama de amor viva, las coplas, los romances sobre el Evangelio In principio erat Verbum, el Super flumina Babylonis, las glosas y los cantares breves, con las variantes de los manuscritos en notas.",
+    "en-US": "The poems of St. John of the Cross in the edition of P. Silverio de Santa Teresa: the Dark Night, the Spiritual Canticle, the Living Flame of Love, the coplas, the romances on the Gospel In principio erat Verbum, the Super flumina Babylonis, the glosses and the short songs, with the manuscript variants in notes.",
+    "pt-BR": "As poesias de São João da Cruz segundo a edição do P. Silvério de Santa Teresa: a Noite escura, o Cântico espiritual, a Chama viva de amor, as coplas, os romances sobre o Evangelho In principio erat Verbum, o Super flumina Babylonis, as glosas e as cantigas breves."
+  },
+  "composed": "1568–1591",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-the-cross/poesias",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1931
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande04john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. IV (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1931, Poesías, pp. 307 ff.. Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1931 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    }
+  ],
+  "toc": [
+    {
+      "id": "poesia-1",
+      "title": {
+        "es-ES": "Poesía I. Noche oscura"
+      }
+    },
+    {
+      "id": "poesia-2",
+      "title": {
+        "es-ES": "Poesía II. Cántico espiritual"
+      }
+    },
+    {
+      "id": "poesia-3",
+      "title": {
+        "es-ES": "Poesía III. Llama de amor viva"
+      }
+    },
+    {
+      "id": "poesia-4",
+      "title": {
+        "es-ES": "Poesía IV. Coplas sobre un éxtasis de alta contemplación"
+      }
+    },
+    {
+      "id": "poesia-5",
+      "title": {
+        "es-ES": "Poesía V. Coplas del alma que pena por ver a Dios"
+      }
+    },
+    {
+      "id": "poesia-6",
+      "title": {
+        "es-ES": "Poesía VI. Otras del mismo a lo divino"
+      }
+    },
+    {
+      "id": "poesia-7",
+      "title": {
+        "es-ES": "Poesía VII. Otras canciones a lo divino de Cristo y el alma"
+      }
+    },
+    {
+      "id": "poesia-8",
+      "title": {
+        "es-ES": "Poesía VIII. Cantar del alma que se huelga de conocer a Dios por fe"
+      }
+    },
+    {
+      "id": "poesia-9",
+      "title": {
+        "es-ES": "Poesía IX. Romance 1 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-10",
+      "title": {
+        "es-ES": "Poesía X. Romance 2 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-11",
+      "title": {
+        "es-ES": "Poesía XI. Romance 3 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-12",
+      "title": {
+        "es-ES": "Poesía XII. Romance 4 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-13",
+      "title": {
+        "es-ES": "Poesía XIII. Romance 5 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-14",
+      "title": {
+        "es-ES": "Poesía XIV. Romance 6 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-15",
+      "title": {
+        "es-ES": "Poesía XV. Romance 7 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-16",
+      "title": {
+        "es-ES": "Poesía XVI. Romance 8 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-17",
+      "title": {
+        "es-ES": "Poesía XVII. Romance 9 sobre el Evangelio In principio erat Verbum"
+      }
+    },
+    {
+      "id": "poesia-18",
+      "title": {
+        "es-ES": "Poesía XVIII. Super flumina Babylonis"
+      }
+    },
+    {
+      "id": "poesia-19",
+      "title": {
+        "es-ES": "Poesía XIX. Glosa a lo divino (Sin arrimo y con arrimo)"
+      }
+    },
+    {
+      "id": "poesia-20",
+      "title": {
+        "es-ES": "Poesía XX. Glosa a lo divino (Por toda la hermosura)"
+      }
+    },
+    {
+      "id": "poesia-21",
+      "title": {
+        "es-ES": "Poesía XXI. Del Verbo divino"
+      }
+    },
+    {
+      "id": "poesia-22",
+      "title": {
+        "es-ES": "Poesía XXII. Suma de la perfección"
+      }
+    }
+  ]
+}
