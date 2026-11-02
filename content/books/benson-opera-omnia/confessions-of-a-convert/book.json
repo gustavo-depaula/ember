@@ -1,0 +1,93 @@
+{
+  "id": "benson-confessions-of-a-convert",
+  "cover": "classic",
+  "name": {
+    "en-US": "Confessions of a Convert",
+    "pt-BR": "Confissões de um Converso"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's account of 1913 of his road from the Anglican priesthood (the son of an Archbishop of Canterbury) to the Catholic Church in 1903: the Church of England as he knew it, the Mirfield years, his doubts and his reception at Woodchester, and what the Church has been to him since.",
+    "pt-BR": "O relato de Benson (1913) do seu caminho do sacerdócio anglicano (filho de um arcebispo de Cantuária) à Igreja Católica em 1903: a Igreja da Inglaterra como a conheceu, os anos de Mirfield, suas dúvidas e a recepção em Woodchester, e o que a Igreja tem sido para ele desde então."
+  },
+  "composed": 1913,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/confessions-of-a-convert",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Longmans, Green, 1913)",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/confessionsofaco00bensuoft",
+      "edition": "Confessions of a Convert (London: Longmans, Green, 1913), Internet Archive full-text OCR (confessionsofaco00bensuoft).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1913, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Chapter I"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "Chapter II"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "Chapter III"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "Chapter IV"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "Chapter V"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "Chapter VI"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "Chapter VII"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "Chapter VIII"
+      }
+    }
+  ]
+}

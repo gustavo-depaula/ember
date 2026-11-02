@@ -1,0 +1,58 @@
+{
+ "id": "benson-confessions-of-a-convert",
+ "dir": "benson-opera-omnia/confessions-of-a-convert",
+ "slug": "confessions-of-a-convert",
+ "name": "Confessions of a Convert",
+ "name_pt": "Confissões de um Converso",
+ "desc": "Benson's account of 1913 of his road from the Anglican priesthood (the son of an Archbishop of Canterbury) to the Catholic Church in 1903: the Church of England as he knew it, the Mirfield years, his doubts and his reception at Woodchester, and what the Church has been to him since.",
+ "desc_pt": "O relato de Benson (1913) do seu caminho do sacerdócio anglicano (filho de um arcebispo de Cantuária) à Igreja Católica em 1903: a Igreja da Inglaterra como a conheceu, os anos de Mirfield, suas dúvidas e a recepção em Woodchester, e o que a Igreja tem sido para ele desde então.",
+ "composed": 1913,
+ "editor": "Robert Hugh Benson (London: Longmans, Green, 1913)",
+ "year": 1913,
+ "url": "https://archive.org/details/confessionsofaco00bensuoft",
+ "edition": "Confessions of a Convert (London: Longmans, Green, 1913), Internet Archive full-text OCR (confessionsofaco00bensuoft).",
+ "src": "robert-hugh-benson/ia/confessionsofaco00bensuoft_djvu.txt",
+ "manual": [
+  [
+   82,
+   "Preface"
+  ],
+  [
+   168,
+   "Chapter I"
+  ],
+  [
+   1385,
+   "Chapter II"
+  ],
+  [
+   1833,
+   "Chapter III"
+  ],
+  [
+   2408,
+   "Chapter IV"
+  ],
+  [
+   3072,
+   "Chapter V"
+  ],
+  [
+   3470,
+   "Chapter VI"
+  ],
+  [
+   3858,
+   "Chapter VII"
+  ],
+  [
+   4226,
+   "Chapter VIII"
+  ]
+ ],
+ "start": 82,
+ "end": 4962,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}
