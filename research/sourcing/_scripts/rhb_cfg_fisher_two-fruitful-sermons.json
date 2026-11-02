@@ -1,0 +1,20 @@
+{
+ "id": "fisher-two-fruitful-sermons",
+ "dir": "fisher-opera-omnia/two-fruitful-sermons",
+ "slug": "two-fruitful-sermons",
+ "work": "fisher/two-fruitful-sermons",
+ "author": "St. John Fisher",
+ "author_pt": "São João Fisher",
+ "died": 1535,
+ "src": "A00789.xml",
+ "name": "Two Fruitful Sermons",
+ "name_pt": "Dois Sermões Proveitosos",
+ "desc": "Two sermons of Fisher printed in 1532, on the Gospel of the day and the fruitful use of the Word.",
+ "desc_pt": "Dois sermões de Fisher impressos em 1532, sobre o Evangelho do dia e o uso proveitoso da Palavra.",
+ "composed": 1532,
+ "editor": "John Fisher (London: 1532; EEBO-TCP A00789)",
+ "year": 1532,
+ "url": "https://github.com/textcreationpartnership/A00789",
+ "edition": "Two fruytfull sermons, EEBO-TCP A00789.",
+ "parts": false
+}

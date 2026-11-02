@@ -1,0 +1,51 @@
+{
+  "id": "fisher-two-fruitful-sermons",
+  "cover": "classic",
+  "name": {
+    "en-US": "Two Fruitful Sermons",
+    "pt-BR": "Dois Sermões Proveitosos"
+  },
+  "author": {
+    "en-US": "St. John Fisher",
+    "pt-BR": "São João Fisher"
+  },
+  "description": {
+    "en-US": "Two sermons of Fisher printed in 1532, on the Gospel of the day and the fruitful use of the Word.",
+    "pt-BR": "Dois sermões de Fisher impressos em 1532, sobre o Evangelho do dia e o uso proveitoso da Palavra."
+  },
+  "composed": 1532,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fisher/two-fruitful-sermons",
+  "editions": {
+    "en-US": {
+      "editor": "John Fisher (London: 1532; EEBO-TCP A00789)",
+      "year": 1532
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A00789",
+      "edition": "Two fruytfull sermons, EEBO-TCP A00789.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 8 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. John Fisher died in 1535; the edition is of 1532 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Here begynneth the fyrst Sermon"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Here begynneth the seconde sermon"
+      }
+    }
+  ]
+}
