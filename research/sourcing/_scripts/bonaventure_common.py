@@ -65,3 +65,44 @@ def emit(slug, bid, names, descr, composed, work, langs, editions, sources, toc,
 
 def src(language, url, edition, description, tier, evidence):
     return {'language': language, 'url': url, 'edition': edition, 'description': description, 'tier': tier, 'tierEvidence': evidence}
+
+def is_en(t):
+    w = t.lower().split()
+    en = sum(w.count(x) for x in ('the', 'of', 'and', 'to', 'is', 'that', 'his', 'which'))
+    la = sum(w.count(x) for x in ('et', 'est', 'quod', 'in', 'ad', 'non', 'ut', 'sed', 'quae', 'qui'))
+    return en > la
+
+def numbered_en(lines):
+    """Facing-text OCR (Boehner, Healy): English numbered paragraphs. -> list of [num, text]; drops Latin pages, page heads, footnotes."""
+    blocks = []; cur = []
+    for ln in lines:
+        if ln.strip(): cur.append(ln.strip())
+        elif cur: blocks.append(cur); cur = []
+    if cur: blocks.append(cur)
+    head = re.compile(r'^(CHAPTER|PROLOGUE|CHAP\.)[^a-z]{0,25}$|^[A-Z .,:;-]{4,40}\s+\d{1,3}$|^\d{1,3}\s+[A-Z .,:;-]{4,40}$')
+    keep = []
+    for i, b in enumerate(blocks):
+        t = ' '.join(b)
+        if len(b) == 1 and head.match(b[0]): keep.append(('H', t)); continue
+        keep.append(('B', t))
+    # drop footnote blocks that precede a header
+    out = []
+    for i, (k, t) in enumerate(keep):
+        out.append([k, t])
+    for i in range(len(out)):
+        if out[i][0] == 'H':
+            j = i - 1
+            while j >= 0 and out[j][0] == 'B' and len(out[j][1].split()) < 45 and re.match(r'^\d+[\s).,]|^[A-Z]?\d', out[j][1]) and not re.match(r'^\d+\. [A-Z][a-z]+ [a-z]+ [a-z]+', out[j][1]):
+                out[j][0] = 'F'; j -= 1
+    paras = []
+    for k, t in out:
+        if k != 'B' or not is_en(t): continue
+        m = re.match(r'^([0-9gIlOoiz]{1,2})[.,] (.*)$', t)
+        if m:
+            tok = m.group(1); prev = paras[-1][0] if paras else 0
+            n = {'g': 9, 'I': 1, 'l': 1, 'O': 0, 'o': 0, 'iz': 11}.get(tok) or (int(tok) if tok.isdigit() else prev + 1)
+            paras.append([n, m.group(2)])
+        elif paras: paras[-1][1] += ' ' + t
+    for p in paras:
+        p[1] = re.sub(r'(\w)- (?=[a-z])', r'\1', p[1])
+    return paras

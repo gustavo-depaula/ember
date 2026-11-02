@@ -258,3 +258,4 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 ### Bonaventure (opera omnia)
 
 - `legenda-maior`, `legenda-minor` (`la/`): the Fonti francescane web transcription of the Quaracchi text, with a few residual typing slips (for instance "vo is" for "vocis") and the transcription's modern "cfr." scriptural cross-references. No English beside them yet: the PD translations (Lockhart 1868, Salter 1904) have OCR with broken paragraphs, drop-cap debris and (Salter) interleaved marginal notes, and need a hand-clean to be imported.
+- `itinerarium` (`en-US/`): Boehner's English is taken from the facing-page OCR, with some footnote-marker characters left in the running text (for example "light?", "peace*") and the sub-items of chapter I, 14 run into one paragraph. Check against `research/sourcing/bonaventure/en/worksofsaintbona02bona.txt`.
