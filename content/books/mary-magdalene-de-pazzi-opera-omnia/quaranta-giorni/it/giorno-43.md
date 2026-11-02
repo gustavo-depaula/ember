@@ -1,0 +1,7 @@
+# Giorno 43. Venerdì che fumo alli 13 di Luglio
+
+Essendo io alla Messa, quando il Padre offeriva l'hostia al Padre eterno vidi in su l'Altare un bellissimo Crocifisso, il quale teneva le sue piaghe aperte, a modo che desiderassi tutte le creature vi entrassino dentro, ma particolarmente mi pareva che invitassi a farlo quelle persone che vi erano presente, che erano le Monache e ancora qualche secolare, dico di quelle che erano disposte, acciocché quando il Padre Confessoro offeriva il suo Unigenito Figliuolo al Padre eterno, venissi ancora a offerire con lui quelle creature, et accettando il Padre eterno l'offerta del Figliuolo, venissi a accettare ancor loro, per essere in esso suo Figliuolo.
+
+Vedevo ancor poi la Vergine Maria, la quale haveva in mano una Asperge e la tuffava nel Costato di Jesu, et cavandola di esso piena di Sangue, l'aspergeva sopra il Padre e sopra le Monache, bagnandole tutte di Sangue. Ma vedevo chi ne faceva Frutto e chi no'. Particolarmente vedevo ch'el Padre n'era coperto e che lui ne faceva frutto.
+
+Poi vedevo un altra suora, domandata Suor Maria Felice *[Orlandini]* che ne riceveva un buon dato e ne faceva frutto, dando buono esempio con parole e fatti. Vedevo poi un altra che lo riceveva, ma non e' faceva frutto e lo lasciava stare. Un'altra ancor vedevo che n'haveva ricevuto, ma Jesu tutto lo ritirava a se, dicendomi che lei no' era ancor disposta e che esso lo ritirava a se, acciocché la non l'havessi a suo dannatione e per suo maggiore castigo.

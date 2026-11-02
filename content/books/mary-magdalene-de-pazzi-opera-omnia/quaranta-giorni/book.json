@@ -1,0 +1,347 @@
+{
+  "id": "pazzi-quaranta-giorni",
+  "name": {
+    "it": "I quaranta giorni",
+    "en-US": "The Forty Days",
+    "pt-BR": "Os quarenta dias"
+  },
+  "author": {
+    "it": "Santa Maria Maddalena de' Pazzi",
+    "en-US": "St. Mary Magdalene de' Pazzi",
+    "pt-BR": "Santa Maria Madalena de Pazzi"
+  },
+  "description": {
+    "it": "Il primo libro dei manoscritti originali (27 maggio-15 agosto 1584): le estasi e le visioni di suor Maria Maddalena nei quaranta giorni dopo la professione religiosa «in articulo mortis», trascritte dalle consorelle suor Veronica Alessandri e suor Maria Maddalena Mori. Edizione critica di Ermanno Ancilli, O.Carm., in Tutte le opere, vol. I (Firenze: CIL, 1960). Un capitolo per giorno, con l'ortografia fiorentina del Cinquecento, le glosse editoriali tra parentesi quadre e le note dell'editore come stampate.",
+    "en-US": "The first of the original manuscript books (27 May-15 August 1584): the ecstasies and visions of Sister Maria Maddalena in the forty days after her religious profession in articulo mortis, taken down by her sisters Veronica Alessandri and Maria Maddalena Mori. Critical edition by Ermanno Ancilli, O.Carm., in Tutte le opere, vol. I (Florence: CIL, 1960). One chapter per day, in sixteenth-century Florentine spelling, with the editor's bracketed glosses and notes as printed.",
+    "pt-BR": "O primeiro livro dos manuscritos originais (27 de maio a 15 de agosto de 1584): os êxtases e visões da irmã Maria Madalena nos quarenta dias depois de sua profissão religiosa in articulo mortis, anotados por suas irmãs Verônica Alessandri e Maria Madalena Mori. Edição crítica de Ermanno Ancilli, O.Carm. (Florença: CIL, 1960). Um capítulo por dia."
+  },
+  "composed": "1584",
+  "languages": [
+    "it"
+  ],
+  "work": "mary-magdalene-de-pazzi/quaranta-giorni",
+  "editions": {
+    "it": {
+      "editor": "Ermanno del SS. Sacramento (Ermanno Ancilli), O.Carm.",
+      "year": 1960
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://web.archive.org/web/20051214id_/http://www.ocarm.org/smmdep/1giorni.htm",
+      "edition": "Santa Maria Maddalena de' Pazzi, Tutte le opere dai manoscritti originali, a cura di Fulvio Nardoni, vol. I (1960), Firenze: Centro Internazionale del Libro. Typed text published by the Carmelite Order (O.Carm., prepared by Fr. Pedro Bravo, 2001), saved from the Wayback Machine because the live site is gone.",
+      "description": "Complete page: Presentazione by Sister Maria Maddalena Mori, the days of the Quaranta giorni and the Conclusione with the later ecstasies up to 15 August 1584. The editors' title block and page numbers (//N//) are dropped.",
+      "tier": "B",
+      "tierEvidence": "Critical edition of 1960-66 put online without a rights notice by the order itself; the saint's text only. Editors' introductions are not imported; their bracketed glosses and notes stay inline as printed."
+    }
+  ],
+  "toc": [
+    {
+      "id": "presentazione",
+      "title": {
+        "it": "Presentazione della redattrice"
+      }
+    },
+    {
+      "id": "giorno-01",
+      "title": {
+        "it": "Giorno 1. La mattina della S.ma Trinità"
+      }
+    },
+    {
+      "id": "giorno-02",
+      "title": {
+        "it": "Giorno 2. Lunedì mattina [28 maggio]"
+      }
+    },
+    {
+      "id": "giorno-03",
+      "title": {
+        "it": "Giorno 3. Martedì mattina [29 maggio]"
+      }
+    },
+    {
+      "id": "giorno-04",
+      "title": {
+        "it": "Giorno 4. Mercoledì, addì 30 di Maggio 1584"
+      }
+    },
+    {
+      "id": "giorno-05",
+      "title": {
+        "it": "Giorno 5. Giovedì, addì, 31 di Maggio 1584"
+      }
+    },
+    {
+      "id": "giorno-06",
+      "title": {
+        "it": "Giorno 6. Venerdì, addì primo di Giugno 1584"
+      }
+    },
+    {
+      "id": "giorno-07",
+      "title": {
+        "it": "Giorno 7. Sabbato, addì 2 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-08",
+      "title": {
+        "it": "Giorno 8. Domenica, addì 3 di Giugno 1554"
+      }
+    },
+    {
+      "id": "giorno-09",
+      "title": {
+        "it": "Giorno 9. Lunedì, addì 4 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-10",
+      "title": {
+        "it": "Giorno 10. Martedì, addì 5 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-11",
+      "title": {
+        "it": "Giorno 11. Mercoledì, addì 6 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-12",
+      "title": {
+        "it": "Giorno 12. Giovedì, addì 7 di Giugno 1584"
+      }
+    },
+    {
+      "id": "giorno-13",
+      "title": {
+        "it": "Giorno 13. Venerdì, addì 8 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-14",
+      "title": {
+        "it": "Giorno 14. Sabbato, addì 9 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-15",
+      "title": {
+        "it": "Giorno 15. Domenica, addì X di Giugno"
+      }
+    },
+    {
+      "id": "giorno-16",
+      "title": {
+        "it": "Giorno 16. Lunedì, addì XI di Giugno"
+      }
+    },
+    {
+      "id": "giorno-17",
+      "title": {
+        "it": "Giorno 17. Martedì, 12 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-18",
+      "title": {
+        "it": "Giorno 18. Mercoledì, addì 13 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-19",
+      "title": {
+        "it": "Giorno 19. Giovedì, addì 14 di Giugno 1584"
+      }
+    },
+    {
+      "id": "giorno-20",
+      "title": {
+        "it": "Giorno 20. Il Giovedì sera [cioè, in Firenze, dopo il tramonto del sole, il venerdì]"
+      }
+    },
+    {
+      "id": "giorno-21",
+      "title": {
+        "it": "Giorno 21. Sabbato, addì 16 di Giugno 1584"
+      }
+    },
+    {
+      "id": "giorno-22",
+      "title": {
+        "it": "Giorno 22. Domenica, addì 17 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-23",
+      "title": {
+        "it": "Giorno 23. Lunedì, addì 18 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-24",
+      "title": {
+        "it": "Giorno 24. Martedì, addì 19 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-25",
+      "title": {
+        "it": "Giorno 25. Mercoledì, addì 20 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-26",
+      "title": {
+        "it": "Giorno 26. Giovedì, addì 21 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-27",
+      "title": {
+        "it": "Giorno 27. Venerdì, addì 22 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-28",
+      "title": {
+        "it": "Giorno 28. Sabato, addì 23 detto [giugno]"
+      }
+    },
+    {
+      "id": "giorno-29",
+      "title": {
+        "it": "Giorno 29. Domenica, addì 24 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-30",
+      "title": {
+        "it": "Giorno 30. Lunedì, addì 25 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-31",
+      "title": {
+        "it": "Giorno 31. Martedì, addì 26 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-32",
+      "title": {
+        "it": "Giorno 32. Mercoledì, addì 27 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-33",
+      "title": {
+        "it": "Giorno 33. Giovedì, addì 28 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-34",
+      "title": {
+        "it": "Giorno 34. Venerdì, addì 29 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-35",
+      "title": {
+        "it": "Giorno 35. Sabato, addì 30 di Giugno"
+      }
+    },
+    {
+      "id": "giorno-36",
+      "title": {
+        "it": "Giorno 36. Domenica, addì primo di Luglio 1584"
+      }
+    },
+    {
+      "id": "giorno-37",
+      "title": {
+        "it": "Giorno 37. Lunedì, addì 2 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-38",
+      "title": {
+        "it": "Giorno 38. Martedì, addì 3 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-39",
+      "title": {
+        "it": "Giorno 39. Mercoledì, addì 4 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-40",
+      "title": {
+        "it": "Giorno 40. Giovedì, addì 5 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-41",
+      "title": {
+        "it": "Giorno 41. Venerdì, addì 6 di Luglio 1584"
+      }
+    },
+    {
+      "id": "giorno-42",
+      "title": {
+        "it": "Giorno 42. Il Mercoledì, che fumo alli XI di Luglio 1584"
+      }
+    },
+    {
+      "id": "giorno-43",
+      "title": {
+        "it": "Giorno 43. Venerdì che fumo alli 13 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-44",
+      "title": {
+        "it": "Giorno 44. Sabato, addì 14 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-45",
+      "title": {
+        "it": "Giorno 45. Domenica, addì 15 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-46",
+      "title": {
+        "it": "Giorno 46. Il sabato, che era la Vigilia di Santa Maria Maddalena, alli 21 di Luglio"
+      }
+    },
+    {
+      "id": "giorno-47",
+      "title": {
+        "it": "Giorno 47. Domenica, addì 22 di Luglio 1584 [festa di Santa Maria Maddalena]"
+      }
+    },
+    {
+      "id": "giorno-48",
+      "title": {
+        "it": "Giorno 48. Domenica, addì 5 d'Agosto 1584"
+      }
+    },
+    {
+      "id": "giorno-49",
+      "title": {
+        "it": "Giorno 49. Il Martedì, addì 7 d'Agosto"
+      }
+    },
+    {
+      "id": "giorno-50",
+      "title": {
+        "it": "Giorno 50. Mercoledì, addì 15 d'Agosto, che era la Solennità dell'Assuntione della Vergine"
+      }
+    }
+  ]
+}
