@@ -1,0 +1,5 @@
+# Chapitre 21
+
+Le supérieur vers le prochain doit être en charité, en patience, en bénignité, en sollicitude, en édification. Il doit être et répandre odeur de Jésus.
+
+Envers le prochain, l’âme doit être en charité, en patience, en bénignité, en sollicitude, en édification, en remémorant ces textes de saint Paul aux Corinthiens, que nous devons lire une fois la semaine, et jiratiquer plusieurs fois le jour: Charitas puticns est, benigna est, etc., nonguœrit quœ sua sunt, etc. ; omnia suffit, omnia sperat, omnia suslinet (7 Cor. xui, il), etc. Qui prœcst in sollicitudine (Rom. xiv, 8), bonus odorChristi sumus.{Icor. u, 15.) Car il faut répandre odeur ni du péihé ni de soi-même, mais de Jésus-Christ, et même comme saint Jean était voix, et tout était voix en lui, ainsi, selon rA|)ôtre, nous devons nonseulement répandre cette bonne odeur, mais être la même odeur de Jésus-Christ; ce qui sujjpose une très-grande perfection et une présence, vie et plénitude de Jésus en l’âme, qui la remplit, la pénètre, la vivifie, et répand par elle, comme par une chosequi lui est conjointe, la sainte odeur de sa présence, sainteté et vertu divine.

@@ -1,0 +1,204 @@
+{
+  "id": "berulle-memorial-de-direction",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Mémorial de direction pour les supérieurs",
+    "en-US": "Memorial of Direction for Superiors",
+    "pt-BR": "Memorial de direção para os superiores"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Les avis de Bérulle aux supérieurs de l’Oratoire sur la conduite de leur charge.",
+    "en-US": "Bérulle’s counsel to the superiors of the Oratory on the conduct of their office.",
+    "pt-BR": "Os conselhos de Bérulle aos superiores do Oratório sobre o exercício do cargo."
+  },
+  "composed": 1626,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/memorial-de-direction",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-propos",
+      "title": {
+        "fr-FR": "Mémorial de direction pour les supérieurs : avant-propos"
+      }
+    },
+    {
+      "id": "chapitre-02",
+      "title": {
+        "fr-FR": "Chapitre 2"
+      }
+    },
+    {
+      "id": "chapitre-03",
+      "title": {
+        "fr-FR": "Chapitre 3"
+      }
+    },
+    {
+      "id": "chapitre-04",
+      "title": {
+        "fr-FR": "Chapitre 4–5"
+      }
+    },
+    {
+      "id": "chapitre-06",
+      "title": {
+        "fr-FR": "Chapitre 6–7"
+      }
+    },
+    {
+      "id": "chapitre-08",
+      "title": {
+        "fr-FR": "Chapitre 8"
+      }
+    },
+    {
+      "id": "chapitre-09",
+      "title": {
+        "fr-FR": "Chapitre 9"
+      }
+    },
+    {
+      "id": "chapitre-10",
+      "title": {
+        "fr-FR": "Chapitre 10–11"
+      }
+    },
+    {
+      "id": "chapitre-12",
+      "title": {
+        "fr-FR": "Chapitre 12"
+      }
+    },
+    {
+      "id": "chapitre-13",
+      "title": {
+        "fr-FR": "Chapitre 13"
+      }
+    },
+    {
+      "id": "chapitre-14",
+      "title": {
+        "fr-FR": "Chapitre 14"
+      }
+    },
+    {
+      "id": "chapitre-15",
+      "title": {
+        "fr-FR": "Chapitre 15"
+      }
+    },
+    {
+      "id": "chapitre-16",
+      "title": {
+        "fr-FR": "Chapitre 16"
+      }
+    },
+    {
+      "id": "chapitre-17",
+      "title": {
+        "fr-FR": "Chapitre 17"
+      }
+    },
+    {
+      "id": "chapitre-18",
+      "title": {
+        "fr-FR": "Chapitre 18"
+      }
+    },
+    {
+      "id": "chapitre-19",
+      "title": {
+        "fr-FR": "Chapitre 19"
+      }
+    },
+    {
+      "id": "chapitre-20",
+      "title": {
+        "fr-FR": "Chapitre 20"
+      }
+    },
+    {
+      "id": "chapitre-21",
+      "title": {
+        "fr-FR": "Chapitre 21"
+      }
+    },
+    {
+      "id": "chapitre-22",
+      "title": {
+        "fr-FR": "Chapitre 22"
+      }
+    },
+    {
+      "id": "chapitre-23",
+      "title": {
+        "fr-FR": "Chapitre 23"
+      }
+    },
+    {
+      "id": "chapitre-24",
+      "title": {
+        "fr-FR": "Chapitre 24"
+      }
+    },
+    {
+      "id": "chapitre-25",
+      "title": {
+        "fr-FR": "Chapitre 25"
+      }
+    },
+    {
+      "id": "chapitre-26",
+      "title": {
+        "fr-FR": "Chapitre 26–28"
+      }
+    },
+    {
+      "id": "chapitre-29",
+      "title": {
+        "fr-FR": "Chapitre 29"
+      }
+    },
+    {
+      "id": "chapitre-30",
+      "title": {
+        "fr-FR": "Chapitre 30"
+      }
+    },
+    {
+      "id": "chapitre-31",
+      "title": {
+        "fr-FR": "Chapitre 31–32"
+      }
+    },
+    {
+      "id": "chapitre-33",
+      "title": {
+        "fr-FR": "Chapitre 33"
+      }
+    }
+  ]
+}

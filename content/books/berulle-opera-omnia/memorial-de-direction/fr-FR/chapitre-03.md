@@ -1,0 +1,5 @@
+# Chapitre 3
+
+Nous devons regarder chaque âme comme une hiérarchie du ciel en terre, qui doit être établie et conduite divinement. Ce grand ouvrage, quoique couvert d’un corps de péché, est estimé de Dieu et des anges.
+
+Chaque âme et maison sainte doit être référée à Dieu, et humblement considérée comme un effet de la [)uissance divine qui la crée, comme un objet de sa sapience qui la conduit, comme un sujet de sa sainteté qui doit reluire et opérer en elle par la grâce. Et nous devons regarder chaque âme et maison sainte, comme un sujet enclos dans la divine Providence pour sa gloire, et comme une hiérarchie du ciel en terre : hiérarchie qui doit être établie de Dieu, et doit aussi être conduite divinement. Et encore que la misère de ce monde et notre aveuglement ne nous élève pas à ces pensées, nous devons y élever nos esprits par la puissance de la foi, et considérer chaque âme comme un effet de Dieu caché dedans la terre, et comme un effet grand, mais enseveli dans un corps [)érissahle, et dans les j)ropres imperfections de la nature et du péché qui nous couvrent son prix et son excellence, connue de Dieu et de ses anges
