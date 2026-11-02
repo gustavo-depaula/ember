@@ -1,0 +1,305 @@
+{
+  "id": "bellarmine-de-indulgentiis",
+  "cover": "classic",
+  "name": {
+    "la": "De indulgentiis et jubilaeo",
+    "en-US": "On Indulgences and the Jubilee",
+    "pt-BR": "Sobre as indulgências e o jubileu"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Duo libri de indulgentiis et jubilaeo, complementum controversiarum de poenitentia. Textus ex editione Vivès (1870-74), tomo VII, ex scanno OCR.",
+    "en-US": "Two books on indulgences and the jubilee, supplementing the controversy on penance. Latin only: the Vivès edition (1870-74), volume 7, from an OCR scan.",
+    "pt-BR": "Dois livros sobre as indulgências e o jubileu."
+  },
+  "composed": "1599",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/de-indulgentiis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia07bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 7 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De nomine indulgentias et jubilaei",
+            "en-US": "Caput I. De nomine indulgentias et jubilaei"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. Exstare thesaurum aliquem in Ecclesia, qui sit indulgentiarum fundamentum",
+            "en-US": "Caput II. Exstare thesaurum aliquem in Ecclesia, qui sit indulgentiarum fundamentum"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Esse in Ecclesia potestatem applicandi thesaurum satisfactionum, ac per hoc Indulgentias concedendi",
+            "en-US": "Caput III. Esse in Ecclesia potestatem applicandi thesaurum satisfactionum, ac per hoc Indulgentias concedendi"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Caput IV"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Quid proprie sit indulgentia, solutione an absolutio",
+            "en-US": "Caput V. Quid proprie sit indulgentia, solutione an absolutio"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. 'omnino lberalis, posterior vero compensationem aliquam requirat",
+            "en-US": "Caput VI. 'omnino lberalis, posterior vero compensationem aliquam requirat"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. A quo vinculo per indulgentias solvamur, vel absolvamur",
+            "en-US": "Caput VII. A quo vinculo per indulgentias solvamur, vel absolvamur"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Solvuntur argumenta contraria",
+            "en-US": "Caput VIII. Solvuntur argumenta contraria"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. De varietate indulgentiarum",
+            "en-US": "Caput IX. De varietate indulgentiarum"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Utilem esse indulgentiam omni hominum generi",
+            "en-US": "Caput X. Utilem esse indulgentiam omni hominum generi"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Quis possit indulgentias concedere",
+            "en-US": "Caput XI. Quis possit indulgentias concedere"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. An requiratur causa justa, ut indulgentia sit rata",
+            "en-US": "Caput XII. An requiratur causa justa, ut indulgentia sit rata"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. De dispositione suscipientis indulgentias",
+            "en-US": "Caput XIII. De dispositione suscipientis indulgentias"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV. De indulgentiis quae accipiuntur pro defunctis",
+            "en-US": "Caput XIV. De indulgentiis quae accipiuntur pro defunctis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. Refutantur argumenta Lutheri contra indulgentias",
+            "en-US": "Caput I. Refutantur argumenta Lutheri contra indulgentias"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. Respondetur ad ea, quse adversus indulgentias",
+            "en-US": "Caput II. Respondetur ad ea, quse adversus indulgentias"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. Respondetur ad objectiones Calvini ex num",
+            "en-US": "Caput III. Respondetur ad objectiones Calvini ex num"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. Respondetur ad objectionem Calvini ex cap",
+            "en-US": "Caput IV. Respondetur ad objectionem Calvini ex cap"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. Refelluntur ea, quae Calvinus habet cap. 9",
+            "en-US": "Caput V. Refelluntur ea, quae Calvinus habet cap. 9"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. Respondetur ad ea, quae Calvinus profert cap. 9. Jnstit. num. 43",
+            "en-US": "Caput VI. Respondetur ad ea, quae Calvinus profert cap. 9. Jnstit. num. 43"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. Refelluntur objectiones Tilmanni Heshusii",
+            "en-US": "Caput VII. Refelluntur objectiones Tilmanni Heshusii"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. Refelluntur aliae objectiones ejusdem Tilmanni Heshusii",
+            "en-US": "Caput VIII. Refelluntur aliae objectiones ejusdem Tilmanni Heshusii"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. Respondetur ad primum caput disputationis Martini Kemnitii de indulgentiis",
+            "en-US": "Caput IX. Respondetur ad primum caput disputationis Martini Kemnitii de indulgentiis"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. Respondetur ad secundum caput disputationis Kemnitii",
+            "en-US": "Caput X. Respondetur ad secundum caput disputationis Kemnitii"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. Respondetur ad tertium caput disputationis",
+            "en-US": "Caput XI. Respondetur ad tertium caput disputationis"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. Defensio secundi argumenti Catholicorum pro indulgentiis",
+            "en-US": "Caput XII. Defensio secundi argumenti Catholicorum pro indulgentiis"
+          }
+        },
+        {
+          "id": "b2c13",
+          "title": {
+            "la": "Caput XIII",
+            "en-US": "Caput XIII"
+          }
+        },
+        {
+          "id": "b2c14",
+          "title": {
+            "la": "Caput XIV. Defenditur IV argumentum Catholicorum",
+            "en-US": "Caput XIV. Defenditur IV argumentum Catholicorum"
+          }
+        },
+        {
+          "id": "b2c15",
+          "title": {
+            "la": "Caput XV. Defenditur, quintum argumentum Catholicorum",
+            "en-US": "Caput XV. Defenditur, quintum argumentum Catholicorum"
+          }
+        },
+        {
+          "id": "b2c16",
+          "title": {
+            "la": "Caput XVI. Defenditur argumentum sextum Catholicorum",
+            "en-US": "Caput XVI. Defenditur argumentum sextum Catholicorum"
+          }
+        },
+        {
+          "id": "b2c17",
+          "title": {
+            "la": "Caput XVII. Respondetur ad cap. 4. disputationis Kemnitii",
+            "en-US": "Caput XVII. Respondetur ad cap. 4. disputationis Kemnitii"
+          }
+        },
+        {
+          "id": "b2c18",
+          "title": {
+            "la": "Caput XVIII. Respondetur ad primam partem argumenti historici contra indulgentias",
+            "en-US": "Caput XVIII. Respondetur ad primam partem argumenti historici contra indulgentias"
+          }
+        },
+        {
+          "id": "b2c19",
+          "title": {
+            "la": "Caput XIX. Respondetur ad alteram partem 'argumenti historici contra indulgentias",
+            "en-US": "Caput XIX. Respondetur ad alteram partem 'argumenti historici contra indulgentias"
+          }
+        },
+        {
+          "id": "b2c20",
+          "title": {
+            "la": "Caput XX. Respondetur ad tertiam partem argumenti historici contra indulgentias",
+            "en-US": "Caput XX. Respondetur ad tertiam partem argumenti historici contra indulgentias"
+          }
+        }
+      ]
+    }
+  ]
+}
