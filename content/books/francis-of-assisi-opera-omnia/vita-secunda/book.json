@@ -1,0 +1,1181 @@
+{
+  "id": "celano-vita-secunda",
+  "cover": "classic",
+  "name": {
+    "la": "Vita secunda sancti Francisci (Memoriale in desiderio animae)",
+    "en-US": "The Second Life of St. Francis (Vita secunda)",
+    "pt-BR": "Segunda Vida de São Francisco (Vita secunda)"
+  },
+  "author": {
+    "la": "Thomas de Celano",
+    "en-US": "Thomas of Celano",
+    "pt-BR": "Tomás de Celano"
+  },
+  "description": {
+    "la": "Thomae de Celano Vita secunda sancti Francisci, seu Memoriale in desiderio animae (1246-1247), iussu ministri generalis Crescentii de Esi ex testimoniis sociorum composita: prologus et duo opera (res gestae; virtutes et dicta sancti), cum paragraphis numeratis.",
+    "en-US": "Thomas of Celano’s Second Life of St. Francis, the Memorial in the Desire of the Soul (1246-1247), written for the minister general Crescentius of Jesi from the testimony of Francis’s companions: a prologue and two books, the second a topical anthology of his virtues and sayings. Latin, with paragraph and verse numbers; the source’s rubrics stand as headings.",
+    "pt-BR": "A Segunda Vida de São Francisco, ou Memorial no desejo da alma, por Tomás de Celano (1246-1247), composta a partir dos testemunhos dos companheiros do santo."
+  },
+  "composed": "1246-1247",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-of-celano/vita-secunda",
+  "editions": {
+    "la": {
+      "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_vitaseconda_lat.html",
+      "edition": "Thomas of Celano, Vita secunda, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "Prologue, first book (19 chapters) and second book. The sub-rubrics of the second book (heading-only entries in the source) stand as ## headings at the top of the next chapter. English (Howell 1908) is OCR only, not imported.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pars-1",
+      "title": {
+        "la": "PROLOGUS."
+      },
+      "children": [
+        {
+          "id": "cap-001",
+          "title": {
+            "la": "Caput 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-2",
+      "title": {
+        "la": "PRIMUM OPUS."
+      },
+      "children": [
+        {
+          "id": "cap-002",
+          "title": {
+            "la": "Caput I - Qualiter vocatus est prius Ioannes, postea Franciscus; quod mater prophetavit de ipso, et quod etiam de se ipso futura praedixit, et de patientia in vinculis."
+          }
+        },
+        {
+          "id": "cap-003",
+          "title": {
+            "la": "Caput II - De milite paupere quem vestivit et de visione suae vocationis quam in saeculo vidit."
+          }
+        },
+        {
+          "id": "cap-004",
+          "title": {
+            "la": "Caput III - Qualiter eum iuvenum turba, ut eos pasceret, suum dominum statuit, et de sua mutatione."
+          }
+        },
+        {
+          "id": "cap-005",
+          "title": {
+            "la": "Caput IV - Qualiter pauperis vestimentis indutus ante ecclesiam Sancti Petri cum pauperibus manducavit, et de oblatione quam ibidem obtulit."
+          }
+        },
+        {
+          "id": "cap-006",
+          "title": {
+            "la": "Caput V - Qualiter sibi oranti diabolus mulierem ostendit, et de responso quod sibi Deus dedit, et quid fecerit de leprosis."
+          }
+        },
+        {
+          "id": "cap-007",
+          "title": {
+            "la": "Caput VI - De imagine crucifixi quae sibi locuta fuit et honore quem ei impendit."
+          }
+        },
+        {
+          "id": "cap-008",
+          "title": {
+            "la": "Caput VII - De persecutione patris et fratris carnalis."
+          }
+        },
+        {
+          "id": "cap-009",
+          "title": {
+            "la": "Caput VIII - De verecundia quam vicit, et prophetia pauperum virginum."
+          }
+        },
+        {
+          "id": "cap-010",
+          "title": {
+            "la": "Caput IX - De cibariis ostiatim quaesitis."
+          }
+        },
+        {
+          "id": "cap-011",
+          "title": {
+            "la": "Caput X De expropriatione fratris Bernardi."
+          }
+        },
+        {
+          "id": "cap-012",
+          "title": {
+            "la": "Caput XI De similitudine quem coram domino Papa proposuit."
+          }
+        },
+        {
+          "id": "cap-013",
+          "title": {
+            "la": "Caput XII - De amore sancti in hunc locum, de conversatione fratrum ibidem et de amore beatae Virginis in eumdem."
+          }
+        },
+        {
+          "id": "cap-014",
+          "title": {
+            "la": "Caput XIII - De quadam visione."
+          }
+        },
+        {
+          "id": "cap-015",
+          "title": {
+            "la": "Caput XIV - De rigore disciplinae."
+          }
+        },
+        {
+          "id": "cap-016",
+          "title": {
+            "la": "Caput XV - De discretione sancti Francisci."
+          }
+        },
+        {
+          "id": "cap-017",
+          "title": {
+            "la": "Caput XVI - De providentia futurorum et qualiter religionem commisit Romanae Ecclesiae, et quadam visione."
+          }
+        },
+        {
+          "id": "cap-018",
+          "title": {
+            "la": "Caput XVII - Qualiter dominum Ostiensem pro Papa petit."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-3",
+      "title": {
+        "la": "SECUNDUM OPUS."
+      },
+      "children": [
+        {
+          "id": "cap-019",
+          "title": {
+            "la": "Introitus ad secundum."
+          }
+        },
+        {
+          "id": "cap-020",
+          "title": {
+            "la": "Caput I."
+          }
+        },
+        {
+          "id": "cap-021",
+          "title": {
+            "la": "Caput II - Quod quemdam, qui putabatur sanctus, falsum esse cognovit."
+          }
+        },
+        {
+          "id": "cap-022",
+          "title": {
+            "la": "Caput III - Simile de quodam alio. Contra singularitatem."
+          }
+        },
+        {
+          "id": "cap-023",
+          "title": {
+            "la": "Caput IV - Quomodo apud Damiatam Christianorum stragem futuram praedixit."
+          }
+        },
+        {
+          "id": "cap-024",
+          "title": {
+            "la": "Caput V - De fratre cuius cordis abscondita scivit."
+          }
+        },
+        {
+          "id": "cap-025",
+          "title": {
+            "la": "Caput VI - De fratre super quem diabolum vidit; contra recedentes de unitate."
+          }
+        },
+        {
+          "id": "cap-026",
+          "title": {
+            "la": "Caput VII - Quomodo homines de Graecio a luporum morsibus et grandine liberavit."
+          }
+        },
+        {
+          "id": "cap-027",
+          "title": {
+            "la": "Caput VIII - Quomodo Perusinis praedicans, futuram in eis seditionem praedixit, et de commendatione unitatis."
+          }
+        },
+        {
+          "id": "cap-028",
+          "title": {
+            "la": "Caput IX - De muliere cui praedixit virum suum de malo futurum bonum."
+          }
+        },
+        {
+          "id": "cap-029",
+          "title": {
+            "la": "Caput X - Quomodo per spiritum cognovit fratrem qui scandalizaverat fratrem, quem religionem exiturum praedixit."
+          }
+        },
+        {
+          "id": "cap-030",
+          "title": {
+            "la": "Caput XI - De iuvene qui venit ad religionem, quem cognovit non spiritu Dei ductum."
+          }
+        },
+        {
+          "id": "cap-031",
+          "title": {
+            "la": "Caput XII - De quodam clerico ab eo sanato, quem propter peccatum suum peiora passurum predixit."
+          }
+        },
+        {
+          "id": "cap-032",
+          "title": {
+            "la": "Caput XIII - De quodam fratre tentato."
+          }
+        },
+        {
+          "id": "cap-033",
+          "title": {
+            "la": "Caput XIV - De homine qui pannum obtulit, iuxta quod sanctus primitus petit."
+          }
+        },
+        {
+          "id": "cap-034",
+          "title": {
+            "la": "Caput XV - Quomodo medicum suum, cum nihil fratres haberent, ad prandium invitavit, et quanta de subito Dominus dedit; et de providentia Dei circa suos."
+          }
+        },
+        {
+          "id": "cap-035",
+          "title": {
+            "la": "Caput XVI - De duobus fratribus quos exiens de cella benedixit, quorum desiderium per Spiritum cognovit."
+          }
+        },
+        {
+          "id": "cap-036",
+          "title": {
+            "la": "Caput XVII - Quomodo de petra orando aquam eduxit et sitienti rustico dedit."
+          }
+        },
+        {
+          "id": "cap-037",
+          "title": {
+            "la": "Caput XVIII - De aviculis ab ipso nutritis, quorum unus propter avaritiam mortem incurrit."
+          }
+        },
+        {
+          "id": "cap-038",
+          "title": {
+            "la": "Caput XIX - Quod ea quae de fratre Bernardo praedixit omnia sunt completa."
+          }
+        },
+        {
+          "id": "cap-039",
+          "title": {
+            "la": "Caput XX - De fratre tentato qui de manu sancti aliquod scriptum habere volebat."
+          }
+        },
+        {
+          "id": "cap-040",
+          "title": {
+            "la": "Caput XXI - De eodem fratre cui iuxta suum desiderium tunicam dedit."
+          }
+        },
+        {
+          "id": "cap-041",
+          "title": {
+            "la": "Caput XXII - De petrosillo ad eius iussum inter herbas agrestes de nocte invento."
+          }
+        },
+        {
+          "id": "cap-042",
+          "title": {
+            "la": "Caput XXIII - De fame quam post mortem suam futuram praedixit."
+          }
+        },
+        {
+          "id": "cap-043",
+          "title": {
+            "la": "Caput XXIV - De claritate sancti e ignorantia nostra."
+          }
+        },
+        {
+          "id": "cap-044",
+          "title": {
+            "la": "Caput XXV - De laude paupertatis."
+          }
+        },
+        {
+          "id": "cap-045",
+          "title": {
+            "la": "Caput XXVI."
+          }
+        },
+        {
+          "id": "cap-046",
+          "title": {
+            "la": "Caput XXVII - De domo quam apud Portiunculam destruere coepit."
+          }
+        },
+        {
+          "id": "cap-047",
+          "title": {
+            "la": "Caput XXVIII - De domo Bononiensi, de qua infirmos eiecit."
+          }
+        },
+        {
+          "id": "cap-048",
+          "title": {
+            "la": "Caput XXIX - De cella suo nomini facta quam intrare noluit."
+          }
+        },
+        {
+          "id": "cap-049",
+          "title": {
+            "la": "Caput XXX."
+          }
+        },
+        {
+          "id": "cap-050",
+          "title": {
+            "la": "Caput XXXI - Exemplum de mensa in die Paschae apud Graecium praeparata, et quomodo se Christi exemplo sicut peregrinum exhibuit."
+          }
+        },
+        {
+          "id": "cap-051",
+          "title": {
+            "la": "Caput XXXII - Contra curiositatem librorum."
+          }
+        },
+        {
+          "id": "cap-052",
+          "title": {
+            "la": "Caput XXXIII - Exemplum domini Ostiensis, et laus eius."
+          }
+        },
+        {
+          "id": "cap-053",
+          "title": {
+            "la": "Caput XXXIV - Quid ei accidit nocte quadam pro plumeo pulvinari."
+          }
+        },
+        {
+          "id": "cap-054",
+          "title": {
+            "la": "Caput XXXV - Dura correctio fratris qui eam manibus tetigit."
+          }
+        },
+        {
+          "id": "cap-055",
+          "title": {
+            "la": "Caput XXXVI - Vindicta fratris qui pecuniam quandoque collegit."
+          }
+        },
+        {
+          "id": "cap-056",
+          "title": {
+            "la": "Caput XXXVII - Increpatio fratris qui pecuniam specie necessitatis volebat servare."
+          }
+        },
+        {
+          "id": "cap-057",
+          "title": {
+            "la": "Caput XXXVIII - De pecunia versa in colubrum."
+          }
+        },
+        {
+          "id": "cap-058",
+          "title": {
+            "la": "Caput XXXIX - Quomodo Sanctus reprehendit verbo et exemplo mollibus et delicatis indutos."
+          }
+        },
+        {
+          "id": "cap-059",
+          "title": {
+            "la": "Caput XL - Recedentes a paupertate, a necessitate corrigendos pronuntiat."
+          }
+        },
+        {
+          "id": "cap-060",
+          "title": {
+            "la": "Caput XLI - De commendatione ipsius."
+          }
+        },
+        {
+          "id": "cap-061",
+          "title": {
+            "la": "Caput XLII - Exemplum sancti de petenda eleemosyna."
+          }
+        },
+        {
+          "id": "cap-062",
+          "title": {
+            "la": "Caput XLIII - Exemplum quod fecit in curia domini Ostiensis et de sua responsione ad episcopum."
+          }
+        },
+        {
+          "id": "cap-063",
+          "title": {
+            "la": "Caput XLIV - Exhortatio eius ad eleemosynam petendam exemplo et verbo."
+          }
+        },
+        {
+          "id": "cap-064",
+          "title": {
+            "la": "Caput XLV - Reprehensio fratris mendicare nolentis."
+          }
+        },
+        {
+          "id": "cap-065",
+          "title": {
+            "la": "Caput XLVI - Quomodo fratris eleemosynam portantis, occurrens, osculatus est humerum."
+          }
+        },
+        {
+          "id": "cap-066",
+          "title": {
+            "la": "Caput XLVII - Qualiter milites saeculares induxit, ut eleemosynam peterent."
+          }
+        },
+        {
+          "id": "cap-067",
+          "title": {
+            "la": "Caput XLVIII - De membro caponis apud Alexandriam verso in piscem."
+          }
+        },
+        {
+          "id": "cap-068",
+          "title": {
+            "la": "Caput XLIX - Exemplum cuiusdam qui sua parentibus, non pauperibus tribuit, quem sanctus reprobavit."
+          }
+        },
+        {
+          "id": "cap-069",
+          "title": {
+            "la": "Caput L."
+          }
+        },
+        {
+          "id": "cap-070",
+          "title": {
+            "la": "Caput LI - De compassione quam ad pauperes habuit, et qualiter se pauperioribus invidebat."
+          }
+        },
+        {
+          "id": "cap-071",
+          "title": {
+            "la": "Caput LII - Qualiter fratrem de quodam paupere obloquentem correxit."
+          }
+        },
+        {
+          "id": "cap-072",
+          "title": {
+            "la": "Caput LIII - De mantello vetulae dato apud Celanum."
+          }
+        },
+        {
+          "id": "cap-073",
+          "title": {
+            "la": "Caput LIV - De alio paupere cui alium mantellum dedit."
+          }
+        },
+        {
+          "id": "cap-074",
+          "title": {
+            "la": "Caput LV - Simile fecit in alio paupere."
+          }
+        },
+        {
+          "id": "cap-075",
+          "title": {
+            "la": "Caput LVI - Quomodo cuidam dedit mantellum, ne dominum suum odiret."
+          }
+        },
+        {
+          "id": "cap-076",
+          "title": {
+            "la": "Caput LVII - Quomodo gaidam tunicae cuidam paupere dedit."
+          }
+        },
+        {
+          "id": "cap-077",
+          "title": {
+            "la": "Caput LVIII - Quomodo matri duorum fratrum pauperi dari fecit primum Novum Testamentum quod fuit in Ordine."
+          }
+        },
+        {
+          "id": "cap-078",
+          "title": {
+            "la": "Caput LIX."
+          }
+        },
+        {
+          "id": "cap-079",
+          "title": {
+            "la": "Caput LX - Quomodo tres mulieres apparuerunt sibi in via, et post novam salutationem disparuerunt."
+          }
+        },
+        {
+          "id": "cap-080",
+          "title": {
+            "la": "Caput LXI - De tempore, loco et affectu orantis."
+          }
+        },
+        {
+          "id": "cap-081",
+          "title": {
+            "la": "Caput LXII - De horis canonicis devote reddendis."
+          }
+        },
+        {
+          "id": "cap-082",
+          "title": {
+            "la": "Caput LXIII - Qualiter orans abigebat phantasmata cordis."
+          }
+        },
+        {
+          "id": "cap-083",
+          "title": {
+            "la": "Caput LXIV - De mentis excessu."
+          }
+        },
+        {
+          "id": "cap-084",
+          "title": {
+            "la": "Caput LXV - Qualem se post orationem praebebat."
+          }
+        },
+        {
+          "id": "cap-085",
+          "title": {
+            "la": "Caput LXVI - Quomodo episcopus inveniens ipsum orantem loquela privatus est."
+          }
+        },
+        {
+          "id": "cap-086",
+          "title": {
+            "la": "Caput LXVII - Quomodo quidam abbas sensit virtutem orationis eius."
+          }
+        },
+        {
+          "id": "cap-087",
+          "title": {
+            "la": "Caput LXVIII - Qualis scientiae et qualis memoriae fuerit."
+          }
+        },
+        {
+          "id": "cap-088",
+          "title": {
+            "la": "Caput LXIX - De verbo prophetico quod ad preces cuiusdam fratris Praedicatoris exposuit."
+          }
+        },
+        {
+          "id": "cap-089",
+          "title": {
+            "la": "Caput LXX - De iis quae interrogatus a quodam Cardinali aperuit."
+          }
+        },
+        {
+          "id": "cap-090",
+          "title": {
+            "la": "Caput LXXI - Quid se scire cuidam fratri respondit, cum hortaretur ad studium lectionis."
+          }
+        },
+        {
+          "id": "cap-091",
+          "title": {
+            "la": "Caput LXXII - De gladiis quos vidit frater Pacificus in ore sancti fulgentes."
+          }
+        },
+        {
+          "id": "cap-092",
+          "title": {
+            "la": "Caput LXXIII - De efficacia sermonum eius et testimonio cuiusdam physici ad hoc dato."
+          }
+        },
+        {
+          "id": "cap-093",
+          "title": {
+            "la": "Caput LXXIV - Qualiter virtute verbi per fratrem Silvestrum de Aretio daemones effugavit."
+          }
+        },
+        {
+          "id": "cap-094",
+          "title": {
+            "la": "Caput LXXV - De conversione eiusdem fratris Silvestri, et de quadam ipsius visione."
+          }
+        },
+        {
+          "id": "cap-095",
+          "title": {
+            "la": "Caput LXXVI - De quodam fratre ab impugnatione daemonis liberato."
+          }
+        },
+        {
+          "id": "cap-096",
+          "title": {
+            "la": "Caput LXXVII - De porca malefica quae manducavit agnum."
+          }
+        },
+        {
+          "id": "cap-097",
+          "title": {
+            "la": "Caput LXXVIII - De fugienda familiaritate mulierum, et qualiter cum eis loquebatur."
+          }
+        },
+        {
+          "id": "cap-098",
+          "title": {
+            "la": "Caput LXXIX - Aenigma contra aspectum mulierum."
+          }
+        },
+        {
+          "id": "cap-099",
+          "title": {
+            "la": "Caput LXXX - Exemplum sancti contra nimiam familiaritatem."
+          }
+        },
+        {
+          "id": "cap-100",
+          "title": {
+            "la": "Caput LXXXI - De tentationibus sancti et quomodo tentationem superavit."
+          }
+        },
+        {
+          "id": "cap-101",
+          "title": {
+            "la": "Caput LXXXII - Quomodo diabolus vocans eum de luxuria tentavit, et qualiter sanctus superavit."
+          }
+        },
+        {
+          "id": "cap-102",
+          "title": {
+            "la": "Caput LXXXIII - Quomodo quemdam fratrem a tentatione liberavit et de bono tentationis."
+          }
+        },
+        {
+          "id": "cap-103",
+          "title": {
+            "la": "Caput LXXXIV - Qualiter verberaverunt eum daemones, et quod fugiendae sunt curiae."
+          }
+        },
+        {
+          "id": "cap-104",
+          "title": {
+            "la": "Caput LXXXV - Exemplum ad propositum."
+          }
+        },
+        {
+          "id": "cap-105",
+          "title": {
+            "la": "Caput LXXXVI - Tentamenta quae passus est in quodam loco solitario et de visione cuiusdam fratris."
+          }
+        },
+        {
+          "id": "cap-106",
+          "title": {
+            "la": "Caput LXXXVII - De quodam fratre a tentatione liberato."
+          }
+        },
+        {
+          "id": "cap-107",
+          "title": {
+            "la": "Caput LXXXVIII - De spirituali laetitia et laus eius, et de malo acediae."
+          }
+        },
+        {
+          "id": "cap-108",
+          "title": {
+            "la": "Caput LXXXIX - De cithara angelica quam audivit."
+          }
+        },
+        {
+          "id": "cap-109",
+          "title": {
+            "la": "Caput XC - Quod spiritu exhilaratus sanctus gallice cantabat."
+          }
+        },
+        {
+          "id": "cap-110",
+          "title": {
+            "la": "Caput XCI - Qualiter quemdam fratrem tristem redarguit, et qualiter se deberet habere monuit."
+          }
+        },
+        {
+          "id": "cap-111",
+          "title": {
+            "la": "Caput XCII - Qualiter corpus tractandum est, ut non murmuret."
+          }
+        },
+        {
+          "id": "cap-112",
+          "title": {
+            "la": "Caput XCIII - Contra vanam gloriam et hypocrisim."
+          }
+        },
+        {
+          "id": "cap-113",
+          "title": {
+            "la": "Caput XCIV - De quadam sua confessione contra hypocrisim."
+          }
+        },
+        {
+          "id": "cap-114",
+          "title": {
+            "la": "Caput XCV - De confessione contra vanam gloriam."
+          }
+        },
+        {
+          "id": "cap-115",
+          "title": {
+            "la": "Caput XCVI - Verba sua contra se laudantes."
+          }
+        },
+        {
+          "id": "cap-116",
+          "title": {
+            "la": "Caput XCVII - Verba contra se laudantes."
+          }
+        },
+        {
+          "id": "cap-117",
+          "title": {
+            "la": "Caput XCVIII - Quid de his quaerentibus ipse respondit, et quo studio illa tegebat."
+          }
+        },
+        {
+          "id": "cap-118",
+          "title": {
+            "la": "Caput XCIX - Quod pia fraude quidam illa inspexit."
+          }
+        },
+        {
+          "id": "cap-119",
+          "title": {
+            "la": "Caput C - De vulnere lateris a quodam inspecto."
+          }
+        },
+        {
+          "id": "cap-120",
+          "title": {
+            "la": "Caput CI - De occultandis virtutibus."
+          }
+        },
+        {
+          "id": "cap-121",
+          "title": {
+            "la": "Caput CII - Humilitas sancti Francisci in habitu, sensu et moribus, et contra proprium sensum."
+          }
+        },
+        {
+          "id": "cap-122",
+          "title": {
+            "la": "Caput CIII - De humilitate ipsius ad Episcopum Interamnensem et ad quemdam rusticum."
+          }
+        },
+        {
+          "id": "cap-123",
+          "title": {
+            "la": "Caput CIV - Quomodo praelationem in capitulo resignavit, et de oratione quadam."
+          }
+        },
+        {
+          "id": "cap-124",
+          "title": {
+            "la": "Caput CV - Qualiter socios resignavit."
+          }
+        },
+        {
+          "id": "cap-125",
+          "title": {
+            "la": "Caput CVI - Verba eius contra praelationem amantes, et descriptio fratis Minoris."
+          }
+        },
+        {
+          "id": "cap-126",
+          "title": {
+            "la": "Caput CVII - De subiectione quam volebat fratres habere ad clericos, et quare."
+          }
+        },
+        {
+          "id": "cap-127",
+          "title": {
+            "la": "Caput CVIII - De reverentia quam exhibuit Episcopo Imolensi."
+          }
+        },
+        {
+          "id": "cap-128",
+          "title": {
+            "la": "Caput CIX - De humilitate ipsius ad sanctum Dominicum et e converso, et mutua caritate ipsorum."
+          }
+        },
+        {
+          "id": "cap-129",
+          "title": {
+            "la": "Caput CX - Qualiter se alter alteri commisit."
+          }
+        },
+        {
+          "id": "cap-130",
+          "title": {
+            "la": "Caput CXI - Quod semper ob veram obedientiam habuit guardianum."
+          }
+        },
+        {
+          "id": "cap-131",
+          "title": {
+            "la": "Caput CXII - Quomodo verum obedientem descripsit, et de tribus obedientiis."
+          }
+        },
+        {
+          "id": "cap-132",
+          "title": {
+            "la": "Caput CXIII - Quod non est de levi per obedientiam praecipiendum."
+          }
+        },
+        {
+          "id": "cap-133",
+          "title": {
+            "la": "Caput CXIV - De fratre cuius proiecit in igne caputium, quia sine obedientia venerat, licet devotione trahente."
+          }
+        },
+        {
+          "id": "cap-134",
+          "title": {
+            "la": "Caput CXV - De cuiusdam boni fratris exemplo et de more fra-trum antiquorum."
+          }
+        },
+        {
+          "id": "cap-135",
+          "title": {
+            "la": "Caput CXVI - De quibusdam malum exemplum dantibus, et maledictio sancti ad eos, et quam graviter hoc ferebat."
+          }
+        },
+        {
+          "id": "cap-136",
+          "title": {
+            "la": "Caput CXVII - De revelatione sibi a Deo facta de statu Ordinis, et quod Ordo numquam deficiet."
+          }
+        },
+        {
+          "id": "cap-137",
+          "title": {
+            "la": "Caput CXVIII - Revelatio sibi facta, quando esset servus Dei et quando non."
+          }
+        },
+        {
+          "id": "cap-138",
+          "title": {
+            "la": "Caput CXIX - Poenitentia contra otiosa verba apud Portiunculam."
+          }
+        },
+        {
+          "id": "cap-139",
+          "title": {
+            "la": "Caput CXX - Qualiter ipse laborans otiosos odiebat."
+          }
+        },
+        {
+          "id": "cap-140",
+          "title": {
+            "la": "Caput CXXI - Lamentum ad eum de otiosis et gulosis."
+          }
+        },
+        {
+          "id": "cap-141",
+          "title": {
+            "la": "Caput CXXII - Qualis debet esse praedicator."
+          }
+        },
+        {
+          "id": "cap-142",
+          "title": {
+            "la": "Caput CXXIII - Contra vanae laudis appetitores et expositio prophetici verbi."
+          }
+        },
+        {
+          "id": "cap-143",
+          "title": {
+            "la": "Caput CXXIV - Sancti amor ad sensibiles et insensibiles creaturas."
+          }
+        },
+        {
+          "id": "cap-144",
+          "title": {
+            "la": "Caput CXXV - Quomodo ipsae creaturae sibi amoris rependebant vicem, et de igne qui eum non laesit."
+          }
+        },
+        {
+          "id": "cap-145",
+          "title": {
+            "la": "Caput CXXVI - De avicula quae in manibus eius resedit."
+          }
+        },
+        {
+          "id": "cap-146",
+          "title": {
+            "la": "Caput CXXVII - De falcone."
+          }
+        },
+        {
+          "id": "cap-147",
+          "title": {
+            "la": "Caput CXXVIII - De apibus."
+          }
+        },
+        {
+          "id": "cap-148",
+          "title": {
+            "la": "Caput CXXIX - De phasiano."
+          }
+        },
+        {
+          "id": "cap-149",
+          "title": {
+            "la": "Caput CXXX - De cicada."
+          }
+        },
+        {
+          "id": "cap-150",
+          "title": {
+            "la": "Caput CXXXI - De caritate ipsius et qualiter se ipsum pro animarum salute perfectionis ponebat exemplum."
+          }
+        },
+        {
+          "id": "cap-151",
+          "title": {
+            "la": "Caput CXXXII - De sollicitudine subditorum."
+          }
+        },
+        {
+          "id": "cap-152",
+          "title": {
+            "la": "Caput CXXXIII - De compassione infirmorum."
+          }
+        },
+        {
+          "id": "cap-153",
+          "title": {
+            "la": "Caput CXXXIV - De compassione quam infirmis spiritu gerebat, et de iis qui contra hoc faciunt."
+          }
+        },
+        {
+          "id": "cap-154",
+          "title": {
+            "la": "Caput CXXXV - De fratribus Hispanis."
+          }
+        },
+        {
+          "id": "cap-155",
+          "title": {
+            "la": "Caput CXXXVI - Contra male in eremitoriis commorantes, et quod volebat omnia esse comunia."
+          }
+        },
+        {
+          "id": "cap-156",
+          "title": {
+            "la": "Caput CXXXVII - De duobus fratribus Gallicis quibus tunicam tradidit."
+          }
+        },
+        {
+          "id": "cap-157",
+          "title": {
+            "la": "Caput CXXXVIII - Quomodo volebat detractores puniri."
+          }
+        },
+        {
+          "id": "cap-158",
+          "title": {
+            "la": "Caput CXXXIX - Qualis debeat esse cum sociis."
+          }
+        },
+        {
+          "id": "cap-159",
+          "title": {
+            "la": "Caput CXL - De provincialibus ministris."
+          }
+        },
+        {
+          "id": "cap-160",
+          "title": {
+            "la": "Caput CXLI - Quid sanctus interrogatus de ministris respondit."
+          }
+        },
+        {
+          "id": "cap-161",
+          "title": {
+            "la": "Caput CXLII - Quae sit vera simplicitas."
+          }
+        },
+        {
+          "id": "cap-162",
+          "title": {
+            "la": "Caput CXLIII - De fratre Ioanne simplici."
+          }
+        },
+        {
+          "id": "cap-163",
+          "title": {
+            "la": "Caput CXLIV - Quomodo unitatem fovebat in filiis, de qua sub aenigmate locutus est."
+          }
+        },
+        {
+          "id": "cap-164",
+          "title": {
+            "la": "Caput CXLV - Quomodo sanctus radi volebat."
+          }
+        },
+        {
+          "id": "cap-165",
+          "title": {
+            "la": "Caput CXLVI - Qualiter volebat magnos clericos venientes ad Ordinem expropriari."
+          }
+        },
+        {
+          "id": "cap-166",
+          "title": {
+            "la": "Caput CXLVII - Qualiter volebat eos addiscere, et qualiter socio praedicationis intendenti apparuit."
+          }
+        },
+        {
+          "id": "cap-167",
+          "title": {
+            "la": "Caput CXLVIII - Qualiter afficiebatur audiens amorem Dei."
+          }
+        },
+        {
+          "id": "cap-168",
+          "title": {
+            "la": "Caput CXLIX - De devotione eius ad angelos, et quid amore sancti Michaelis faciebat."
+          }
+        },
+        {
+          "id": "cap-169",
+          "title": {
+            "la": "Caput CL - De devotione eius ad Dominam nostram, cui commisit specialiter Ordinem."
+          }
+        },
+        {
+          "id": "cap-170",
+          "title": {
+            "la": "Caput CLI - De devotione ad Nativitatem Domini et quomodo volebat tunc omnibus subveniri."
+          }
+        },
+        {
+          "id": "cap-171",
+          "title": {
+            "la": "Caput CLII - De devotione ad Corpus Domini."
+          }
+        },
+        {
+          "id": "cap-172",
+          "title": {
+            "la": "Caput CLIII - De devotione ad sanctorum reliquias."
+          }
+        },
+        {
+          "id": "cap-173",
+          "title": {
+            "la": "Caput CLIV - De devotione ad crucem et de quodam occulto sacramento."
+          }
+        },
+        {
+          "id": "cap-174",
+          "title": {
+            "la": "Caput CLV - Quomodo volebat fratres conversari cum eis."
+          }
+        },
+        {
+          "id": "cap-175",
+          "title": {
+            "la": "Caput CLVI - Quomodo reprehendit quosdam qui libenter ibant ad monasteria."
+          }
+        },
+        {
+          "id": "cap-176",
+          "title": {
+            "la": "Caput CLVII - De praedicatione quam magis exemplo quam verbo eis fecit."
+          }
+        },
+        {
+          "id": "cap-177",
+          "title": {
+            "la": "Caput CLVIII - De commendatione Regulae beati Francisci, et de fratre qui eam portabat secum."
+          }
+        },
+        {
+          "id": "cap-178",
+          "title": {
+            "la": "Caput CLIX - Visio quaedam ad commendationem Regulae faciens."
+          }
+        },
+        {
+          "id": "cap-179",
+          "title": {
+            "la": "Caput CLX - Quomodo contulit cum quodam fratre de subveniendo corpori."
+          }
+        },
+        {
+          "id": "cap-180",
+          "title": {
+            "la": "Caput CLXI - Quid fuerit pro suis infirmitatibus sibi promissum a Domino."
+          }
+        },
+        {
+          "id": "cap-181",
+          "title": {
+            "la": "Caput CLXII - Quomodo hortatus est fratres et benedixit in fine."
+          }
+        },
+        {
+          "id": "cap-182",
+          "title": {
+            "la": "Caput CLXIII - De morte eius et quid fecerit ante mortem."
+          }
+        },
+        {
+          "id": "cap-183",
+          "title": {
+            "la": "Caput CLXIV - De visione quam vidit frater Augustinus in morte."
+          }
+        },
+        {
+          "id": "cap-184",
+          "title": {
+            "la": "Caput CLXV - Quomodo sanctus pater apparuit cuidam fratri post transitum."
+          }
+        },
+        {
+          "id": "cap-185",
+          "title": {
+            "la": "Caput CLXVI - Visio Episcopi Assisinatis de transitu sancti patris."
+          }
+        },
+        {
+          "id": "cap-186",
+          "title": {
+            "la": "Caput CLXVII."
+          }
+        }
+      ]
+    }
+  ]
+}
