@@ -1,0 +1,47 @@
+{
+  "id": "councils-constantinople-ii-originals",
+  "cover": "quarter",
+  "name": {
+    "la": "Concilium Constantinopolitanum II (553)",
+    "en-US": "Constantinople II (553): original texts",
+    "pt-BR": "Constantinopla II (553): textos originais"
+  },
+  "author": {
+    "la": "Concilia",
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
+  },
+  "description": {
+    "en-US": "The original texts of Constantinople II (553): the the ancient Latin version of its decrees. The English translation of Percival (NPNF, 1900) is the book Councils: Constantinople II (553).",
+    "pt-BR": "Os textos originais de Constantinopla II (553): a antiga versão latina de seus decretos."
+  },
+  "composed": "553",
+  "languages": [
+    "la"
+  ],
+  "work": "councils/constantinople-ii",
+  "editions": {
+    "la": {
+      "editor": "Conciliorum Oecumenicorum Decreta (Bologna 1962), ancient Latin versions, via Latin Wikisource / Documenta Catholica Omnia",
+      "year": 1962
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Concilium_Contantinopolitanum_II",
+      "edition": "Latin Wikisource, Concilium Contantinopolitanum II, the text of Conciliorum Oecumenicorum Decreta (Bologna 1962) as circulated by Documenta Catholica Omnia (the ancient Latin versions of the Greek acts). Wikitext fetched through action=raw.",
+      "description": "As transcribed. The digitisation has its punctuation largely stripped, no capitals at the start of sentences and lowercase deus/dominus; line breaks kept as paragraph breaks, split enclitics rejoined, and the digitisation's citation lines (pag./linea) removed. The Greek of this council survives only in part and is not imported.",
+      "tier": "B",
+      "tierEvidence": "Ancient texts; the digitisation derives from the Library of Latin Texts / COD text (a critical edition of 1962/1973), which carries at most a neighbouring right that has run out and is freely redistributed by Wikisource and Documenta Catholica Omnia."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Concilium Constantinopolitanum II (553)"
+      }
+    }
+  ]
+}
