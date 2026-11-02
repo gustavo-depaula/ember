@@ -1,0 +1,398 @@
+{
+  "id": "bossuet-politique-tiree-de-l-ecriture-sainte",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Politique tirée des propres paroles de l’Écriture sainte",
+    "en-US": "Politics Drawn from the Very Words of Holy Scripture",
+    "pt-BR": "Política tirada das próprias palavras da Sagrada Escritura"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Traité en dix livres sur l’origine de la société, l’autorité, les devoirs des sujets et les devoirs du prince, déduit proposition par proposition de l’Écriture sainte. Écrit pour l’éducation du Dauphin (vers 1677-1679) et publié en 1709. Édition Lachat (1864).",
+    "en-US": "A treatise in ten books on the origin of society, authority, the duties of subjects and the duties of the prince, deduced proposition by proposition from Holy Scripture. Written for the education of the Dauphin (around 1677-79) and published in 1709. Lachat edition (1864).",
+    "pt-BR": "Tratado em dez livros sobre a origem da sociedade, a autoridade, os deveres dos súditos e os deveres do príncipe, deduzido proposição por proposição da Sagrada Escritura. Escrito para a educação do Delfim (por volta de 1677-1679) e publicado em 1709. Edição Lachat (1864)."
+  },
+  "composed": "1679",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/politique-tiree-de-l-ecriture-sainte",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume023/012.htm to volume024/006.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXIII, pages 012-016 (books I-V) and volume XXIV, pages 002-006 (books VI-X). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "livre-1",
+      "title": {
+        "fr-FR": "Livre premier. Des principes de la société parmi les hommes"
+      },
+      "children": [
+        {
+          "id": "livre1-0",
+          "title": {
+            "fr-FR": "Introduction"
+          }
+        },
+        {
+          "id": "livre1-001",
+          "title": {
+            "fr-FR": "Article premier. L'homme est fait pour vivre en société"
+          }
+        },
+        {
+          "id": "livre1-002",
+          "title": {
+            "fr-FR": "Article II. De la société générale du genre humain naît la société civile, c'est-à-dire celle des Etats, des peuples et des nations"
+          }
+        },
+        {
+          "id": "livre1-003",
+          "title": {
+            "fr-FR": "Article III. Pour former les nations et unir les peuples, il a fallu établir un gouvernement"
+          }
+        },
+        {
+          "id": "livre1-004",
+          "title": {
+            "fr-FR": "Article IV. Des Lois"
+          }
+        },
+        {
+          "id": "livre1-005",
+          "title": {
+            "fr-FR": "Article V. Conséquences des principes généraux de l'humanité"
+          }
+        },
+        {
+          "id": "livre1-006",
+          "title": {
+            "fr-FR": "Article VI. De l’amour de la patrie"
+          }
+        },
+        {
+          "id": "livre1-007",
+          "title": {
+            "fr-FR": "Conclusion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-2",
+      "title": {
+        "fr-FR": "Livre II. De l’autorité; Que la royale et l’héréditaire est la plus propre au gouvernement"
+      },
+      "children": [
+        {
+          "id": "livre2-001",
+          "title": {
+            "fr-FR": "Article premier. Par qui l'autorité a été exercée dès l'origine du monde"
+          }
+        },
+        {
+          "id": "livre2-002",
+          "title": {
+            "fr-FR": "Article II"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-3",
+      "title": {
+        "fr-FR": "Livre III — Où l’on commence à expliquer la nature et les propriétés de l'autorité royale"
+      },
+      "children": [
+        {
+          "id": "livre3-001",
+          "title": {
+            "fr-FR": "Article premier. On en remarque les caractères essentiels"
+          }
+        },
+        {
+          "id": "livre3-002",
+          "title": {
+            "fr-FR": "Article II. L'autorité royale est sacrée"
+          }
+        },
+        {
+          "id": "livre3-003",
+          "title": {
+            "fr-FR": "Article III. L’autorité royale est paternelle, et son propre caractère c'est la bonté"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-4",
+      "title": {
+        "fr-FR": "Livre IV. Suite des caractères de la royauté"
+      },
+      "children": [
+        {
+          "id": "livre4-001",
+          "title": {
+            "fr-FR": "Article premier. L'autorité royale est absolue"
+          }
+        },
+        {
+          "id": "livre4-002",
+          "title": {
+            "fr-FR": "Article II. De la mollesse, de l'irrésolution et de la fausse fermeté"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-5",
+      "title": {
+        "fr-FR": "Livre V. Quatrième et dernier caractère de l’ autorité royale"
+      },
+      "children": [
+        {
+          "id": "livre5-001",
+          "title": {
+            "fr-FR": "Article premier. Que l'autorité royale est soumise à la raison"
+          }
+        },
+        {
+          "id": "livre5-002",
+          "title": {
+            "fr-FR": "Article II. Moyens à un prince d'acquérir les connaissances nécessaires"
+          }
+        },
+        {
+          "id": "livre5-003",
+          "title": {
+            "fr-FR": "Article III. Des curiosités et connaissances dangereuses: et de la confiance qu'on doit mettre en Dieu"
+          }
+        },
+        {
+          "id": "livre5-004",
+          "title": {
+            "fr-FR": "Article IV. Conséquences de la doctrine précédente: de ta majesté, et de ses accompagnements"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-6",
+      "title": {
+        "fr-FR": "Livre sixième. Les devoirs des sujets envers le prince, établis par la doctrine précédente"
+      },
+      "children": [
+        {
+          "id": "livre6-001",
+          "title": {
+            "fr-FR": "Article premier. Du service qu'on doit au prince"
+          }
+        },
+        {
+          "id": "livre6-002",
+          "title": {
+            "fr-FR": "Article II. De l'obéissance due au prince"
+          }
+        },
+        {
+          "id": "livre6-003",
+          "title": {
+            "fr-FR": "Article III. Deux difficultés tirées de l’Ecriture: de David et des Machabées"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-7",
+      "title": {
+        "fr-FR": "Livre VII. Des devoirs particuliers de la royauté"
+      },
+      "children": [
+        {
+          "id": "livre7-001",
+          "title": {
+            "fr-FR": "Article premier. Division générale des devoirs du prince"
+          }
+        },
+        {
+          "id": "livre7-002",
+          "title": {
+            "fr-FR": "Article II. De la religion, en tant qu'elle est le lien des nations et de la société civile"
+          }
+        },
+        {
+          "id": "livre7-003",
+          "title": {
+            "fr-FR": "Article III. Que la véritable religion se fait connaître par des marques sensibles"
+          }
+        },
+        {
+          "id": "livre7-004",
+          "title": {
+            "fr-FR": "Article IV. Erreurs des hommes du monde et des politiques, sur les affaires et les exercices de la religion"
+          }
+        },
+        {
+          "id": "livre7-005",
+          "title": {
+            "fr-FR": "Article V. Quel soin ont eu les grands rois du culte de Dieu"
+          }
+        },
+        {
+          "id": "livre7-006",
+          "title": {
+            "fr-FR": "Article VI. Des motifs de religion particuliers aux rois"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-8",
+      "title": {
+        "fr-FR": "Livre VIII. Suite des devoirs particuliers de la royauté: De la justice"
+      },
+      "children": [
+        {
+          "id": "livre8-001",
+          "title": {
+            "fr-FR": "Article premier. Que la justice est établie sur la religion"
+          }
+        },
+        {
+          "id": "livre8-002",
+          "title": {
+            "fr-FR": "Article II. Du gouvernement que l'on nomme arbitraire"
+          }
+        },
+        {
+          "id": "livre8-003",
+          "title": {
+            "fr-FR": "Article III. De la législation et des jugements"
+          }
+        },
+        {
+          "id": "livre8-004",
+          "title": {
+            "fr-FR": "Article IV. Des vertus qui doivent accompagner la justice"
+          }
+        },
+        {
+          "id": "livre8-005",
+          "title": {
+            "fr-FR": "Article V. Des obstacles à la justice"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-9",
+      "title": {
+        "fr-FR": "Livre IX. Des secours de la royauté"
+      },
+      "children": [
+        {
+          "id": "livre9-001",
+          "title": {
+            "fr-FR": "Article premier. Le la guerre et de ses justes motifs, généraux et particuliers"
+          }
+        },
+        {
+          "id": "livre9-002",
+          "title": {
+            "fr-FR": "Article II. Des injustes motifs de la guerre"
+          }
+        },
+        {
+          "id": "livre9-003",
+          "title": {
+            "fr-FR": "Article III. Des guerres entre les citoyens, avec leurs motifs: et des règles qu'on y doit suivre"
+          }
+        },
+        {
+          "id": "livre9-004",
+          "title": {
+            "fr-FR": "Article IV. Encore que Dieu fit la guerre pour son peuple d'une façon extraordinaire et miraculeuse, il voulut qu'il s'aguerrit en lui donnant des rois belliqueux et de grands capitaines"
+          }
+        },
+        {
+          "id": "livre9-005",
+          "title": {
+            "fr-FR": "Article V. Vertus, institutions, ordres et exercices militaires"
+          }
+        },
+        {
+          "id": "livre9-006",
+          "title": {
+            "fr-FR": "Article VI. Sur la paix et la guerre: observations sur l'une et sur l'autre"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-10",
+      "title": {
+        "fr-FR": "Livre X et dernier. Suite des secours de la royauté. Les richesses ou les finances. Les conseils. Les inconvénients et tentations qui accompagnent la royauté: Et les remèdes qu'on y doit apporter"
+      },
+      "children": [
+        {
+          "id": "livre10-001",
+          "title": {
+            "fr-FR": "Article premier. Des richesses ou des finances. Du commerce: et des impôts"
+          }
+        },
+        {
+          "id": "livre10-002",
+          "title": {
+            "fr-FR": "Article II. Les conseils"
+          }
+        },
+        {
+          "id": "livre10-003",
+          "title": {
+            "fr-FR": "Article III. On propose au prince divers caractères des ministres ou conseillers: bons, mêlés de bien et de mal, et méchants"
+          }
+        },
+        {
+          "id": "livre10-004",
+          "title": {
+            "fr-FR": "Article IV. Pour aider le prince à bien connaître les hommes, on lui en montre en général quelques caractères tracés par le Saint-Esprit dans les livres de la Sagesse"
+          }
+        },
+        {
+          "id": "livre10-005",
+          "title": {
+            "fr-FR": "Article V. De la conduite du prince dans sa famille: et du soin qu'il doit avoir de sa santé"
+          }
+        },
+        {
+          "id": "livre10-006",
+          "title": {
+            "fr-FR": "Article VI et dernier. Les inconvénients et tentations qui accompagnent la royauté: et les remettes qu'on y doit apporter"
+          }
+        },
+        {
+          "id": "livre10-007",
+          "title": {
+            "fr-FR": "Conclusion. En quoi consiste le vrai bonheur des rois"
+          }
+        }
+      ]
+    }
+  ]
+}
