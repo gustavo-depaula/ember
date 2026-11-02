@@ -1,0 +1,446 @@
+{
+  "id": "granada-memorial-de-la-vida-cristiana",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Memorial de la vida cristiana",
+    "en-US": "Memorial of the Christian Life",
+    "pt-BR": "Memorial da vida cristã"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Memorial de Fray Luis de Granada (1565) en siete tratados: exhortación a bien vivir, penitencia y confesión, comunión, reglas de vida cristiana, oración vocal, oración mental con la vida de Cristo, y amor de Dios.",
+    "en-US": "Fray Luis de Granada's Memorial (1565) in seven treatises: exhortation to good living, penance and confession, communion, rules of Christian life, vocal prayer, mental prayer with the life of Christ, and the love of God.",
+    "pt-BR": "Memorial de Frei Luís de Granada (1565) em sete tratados: exortação ao bem viver, penitência e confissão, comunhão, regras de vida cristã, oração vocal, oração mental com a vida de Cristo e amor de Deus."
+  },
+  "composed": "1565",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/memorial-de-la-vida-cristiana",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue03luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 3 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the first edition (Salamanca 1565).",
+      "description": "Dedication, preface, prologue and the seven treatises (exhortation to good living, penance, communion, rules of Christian life, vocal prayer, mental prayer with the Vita Christi, love of God), with the three meditations on the Pater noster. Cuervo's apparatus of variants (about 1600 lines) and table are not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "dedicatoria",
+      "title": {
+        "es-ES": "A la serenísima infanta doña María. Doña María"
+      }
+    },
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo al cristiano lector"
+      }
+    },
+    {
+      "id": "tratado-1",
+      "title": {
+        "es-ES": "Tratado I: Exhortación a bien vivir"
+      },
+      "children": [
+        {
+          "id": "t1-c1",
+          "title": {
+            "es-ES": "Tratado I, capítulo II"
+          }
+        },
+        {
+          "id": "t1-c2",
+          "title": {
+            "es-ES": "Tratado I, capítulo III"
+          }
+        },
+        {
+          "id": "t1-c3",
+          "title": {
+            "es-ES": "Tratado I, capítulo IV"
+          }
+        },
+        {
+          "id": "t1-c4",
+          "title": {
+            "es-ES": "Tratado I, capítulo V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tratado-2",
+      "title": {
+        "es-ES": "Tratado II: De la penitencia y confesión"
+      },
+      "children": [
+        {
+          "id": "t2-prologo",
+          "title": {
+            "es-ES": "Tratado II, prólogo"
+          }
+        },
+        {
+          "id": "t2-c1",
+          "title": {
+            "es-ES": "Tratado II, capítulo I"
+          }
+        },
+        {
+          "id": "t2-c2",
+          "title": {
+            "es-ES": "Tratado II, capítulo II"
+          }
+        },
+        {
+          "id": "t2-c3",
+          "title": {
+            "es-ES": "Tratado II, capítulo III"
+          }
+        },
+        {
+          "id": "t2-c4",
+          "title": {
+            "es-ES": "Tratado II, capítulo IV"
+          }
+        },
+        {
+          "id": "t2-c5",
+          "title": {
+            "es-ES": "Tratado II, capítulo V"
+          }
+        },
+        {
+          "id": "t2-c6",
+          "title": {
+            "es-ES": "Tratado II, capítulo VI"
+          }
+        },
+        {
+          "id": "t2-c7",
+          "title": {
+            "es-ES": "Tratado II, capítulo I"
+          }
+        },
+        {
+          "id": "t2-c8",
+          "title": {
+            "es-ES": "Tratado II, capítulo II"
+          }
+        },
+        {
+          "id": "t2-c9",
+          "title": {
+            "es-ES": "Tratado II, capítulo I"
+          }
+        },
+        {
+          "id": "t2-c10",
+          "title": {
+            "es-ES": "Tratado II, capítulo II"
+          }
+        },
+        {
+          "id": "t2-c11",
+          "title": {
+            "es-ES": "Tratado II, capítulo III"
+          }
+        },
+        {
+          "id": "t2-c12",
+          "title": {
+            "es-ES": "Tratado II, capítulo V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tratado-3",
+      "title": {
+        "es-ES": "Tratado III: De la comunión"
+      },
+      "children": [
+        {
+          "id": "t3-c1",
+          "title": {
+            "es-ES": "Tratado III, capítulo Primero"
+          }
+        },
+        {
+          "id": "t3-c2",
+          "title": {
+            "es-ES": "Tratado III, capítulo II"
+          }
+        },
+        {
+          "id": "t3-c3",
+          "title": {
+            "es-ES": "Tratado III, capítulo III"
+          }
+        },
+        {
+          "id": "t3-c4",
+          "title": {
+            "es-ES": "Tratado III, capítulo IV"
+          }
+        },
+        {
+          "id": "t3-c5",
+          "title": {
+            "es-ES": "Tratado III, capítulo V"
+          }
+        },
+        {
+          "id": "t3-c6",
+          "title": {
+            "es-ES": "Tratado III, capítulo VI"
+          }
+        },
+        {
+          "id": "t3-c7",
+          "title": {
+            "es-ES": "Tratado III, capítulo VII"
+          }
+        },
+        {
+          "id": "t3-c8",
+          "title": {
+            "es-ES": "Tratado III, capítulo VIII"
+          }
+        },
+        {
+          "id": "t3-c9",
+          "title": {
+            "es-ES": "Tratado III, capítulo IX"
+          }
+        },
+        {
+          "id": "t3-c10",
+          "title": {
+            "es-ES": "Tratado III, capítulo X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tratado-4",
+      "title": {
+        "es-ES": "Tratado IV: Regla de bien vivir"
+      },
+      "children": [
+        {
+          "id": "t4-prologo",
+          "title": {
+            "es-ES": "Tratado IV, prólogo"
+          }
+        },
+        {
+          "id": "t4-c1",
+          "title": {
+            "es-ES": "Tratado IV, capítulo I"
+          }
+        },
+        {
+          "id": "t4-c2",
+          "title": {
+            "es-ES": "Tratado IV, capítulo II"
+          }
+        },
+        {
+          "id": "t4-c3",
+          "title": {
+            "es-ES": "Tratado IV, capítulo I"
+          }
+        },
+        {
+          "id": "t4-c4",
+          "title": {
+            "es-ES": "Tratado IV, capítulo II"
+          }
+        },
+        {
+          "id": "t4-c5",
+          "title": {
+            "es-ES": "Tratado IV, capítulo III"
+          }
+        },
+        {
+          "id": "t4-c6",
+          "title": {
+            "es-ES": "Tratado IV, capítulo IV"
+          }
+        },
+        {
+          "id": "t4-c7",
+          "title": {
+            "es-ES": "Tratado IV, capítulo V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tratado-5",
+      "title": {
+        "es-ES": "Tratado V: De la oración vocal"
+      },
+      "children": [
+        {
+          "id": "t5-prologo",
+          "title": {
+            "es-ES": "Tratado V, prólogo"
+          }
+        },
+        {
+          "id": "t5-c1",
+          "title": {
+            "es-ES": "Tratado V, capítulo I"
+          }
+        },
+        {
+          "id": "t5-c2",
+          "title": {
+            "es-ES": "Tratado V, capítulo II"
+          }
+        },
+        {
+          "id": "t5-c3",
+          "title": {
+            "es-ES": "Tratado V, capítulo III"
+          }
+        },
+        {
+          "id": "t5-c4",
+          "title": {
+            "es-ES": "Tratado V, capítulo IV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tratado-6",
+      "title": {
+        "es-ES": "Tratado VI: De la oración mental y del Vita Christi"
+      },
+      "children": [
+        {
+          "id": "t6-portada",
+          "title": {
+            "es-ES": "Tratado 6"
+          }
+        },
+        {
+          "id": "t6-prologo",
+          "title": {
+            "es-ES": "Tratado VI, prólogo"
+          }
+        },
+        {
+          "id": "t6-c1",
+          "title": {
+            "es-ES": "Tratado VI, capítulo Primero"
+          }
+        },
+        {
+          "id": "t6-c2",
+          "title": {
+            "es-ES": "Tratado VI, capítulo II"
+          }
+        },
+        {
+          "id": "t6-c3",
+          "title": {
+            "es-ES": "Tratado VI, capítulo IIL"
+          }
+        },
+        {
+          "id": "t6-c4",
+          "title": {
+            "es-ES": "Tratado VI, capítulo IV"
+          }
+        },
+        {
+          "id": "t6-c5",
+          "title": {
+            "es-ES": "Tratado VI, capítulo V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tratado-7",
+      "title": {
+        "es-ES": "Tratado VII: Del amor de Dios"
+      },
+      "children": [
+        {
+          "id": "t7-c1",
+          "title": {
+            "es-ES": "Tratado VII, capítulo I"
+          }
+        },
+        {
+          "id": "t7-c2",
+          "title": {
+            "es-ES": "Tratado VII, capítulo II"
+          }
+        },
+        {
+          "id": "t7-c3",
+          "title": {
+            "es-ES": "Tratado VII, capítulo III"
+          }
+        },
+        {
+          "id": "t7-c4",
+          "title": {
+            "es-ES": "Tratado VII, capítulo IV"
+          }
+        },
+        {
+          "id": "t7-c5",
+          "title": {
+            "es-ES": "Tratado VII, capítulo V"
+          }
+        },
+        {
+          "id": "t7-c6",
+          "title": {
+            "es-ES": "Tratado VII, capítulo VI"
+          }
+        },
+        {
+          "id": "t7-oracion-1",
+          "title": {
+            "es-ES": "Tratado VII, oración primera sobre el Pater noster. Sobre la oración del pater noster"
+          }
+        },
+        {
+          "id": "t7-meditacion-2",
+          "title": {
+            "es-ES": "Tratado VII, segunda meditación sobre el Pater noster. En la cual se prosigue la declaración del pater noster"
+          }
+        },
+        {
+          "id": "t7-meditacion-3",
+          "title": {
+            "es-ES": "Tratado VII, tercera meditación sobre el Pater noster. Sobre la oración del pater noster"
+          }
+        }
+      ]
+    }
+  ]
+}
