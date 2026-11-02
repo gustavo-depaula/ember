@@ -1,0 +1,132 @@
+{
+  "id": "ignatius-constitutiones-latinae",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutiones Societatis Iesu",
+    "en-US": "Constitutions of the Society of Jesus (Latin text of 1558, with the English of 1838)",
+    "pt-BR": "Constituições da Companhia de Jesus (texto latino de 1558)"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "la": "Constitutiones Societatis Iesu: Proemium et Partes I-X, in textu latino anni 1558 (Romae, in aedibus Societatis Iesu), cum translatione anglica Londini anno 1838 edita.",
+    "en-US": "The Constitutions of the Society of Jesus: the Proemium and the ten Parts, in the Latin text printed at Rome in 1558 (the official Latin version of Ignatius's Spanish) with the anonymous English translation of 1838 made from it, in the same divisions. The Examen and the Declarations are not in this edition; the Spanish text is the separate book Constituciones.",
+    "pt-BR": "As Constituições da Companhia de Jesus: Proêmio e dez Partes, no texto latino impresso em Roma em 1558, com a tradução inglesa anônima de 1838 feita a partir dele."
+  },
+  "composed": "1558",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "ignatius-of-loyola/constituciones-latinas",
+  "editions": {
+    "la": {
+      "editor": "Constitutiones Societatis Iesu, Romae 1558 (reprint London 1838)",
+      "year": 1558
+    },
+    "en-US": {
+      "translator": "anonymous (London: Tegg / Rivington)",
+      "year": 1838
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/constitutionesso00jesuuoft",
+      "edition": "Constitutiones Societatis Jesu, Latin text of the Rome 1558 edition, in: Constitutiones Societatis Jesu, latine et anglice, London 1838; archive.org OCR, Proemium and Parts I-X. Page heads, signatures and the collation of the 1702 Antwerp edition are left out. Paragraph numbers [n] are those of the printed chapters.",
+      "description": "Latin version of Ignatius's Spanish Constitutions, approved by the First General Congregation (1558). OCR corrected only where the error was recognisable (see PROBLEMS.md); initial drop-cap words were repaired by hand.",
+      "tier": "A",
+      "tierEvidence": "Printed in Rome in 1558; the 1838 London reprint is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/constitutionesso00jesuuoft",
+      "edition": "The Constitutions of the Society of Jesus, translated from the Latin, London: Tegg/Rivington 1838 (anonymous translator), from the same volume. The translator's polemical preface, the bulls and appendices are not included.",
+      "description": "Translated from the 1558 Latin, not from the Spanish, and following the Latin chapters one for one.",
+      "tier": "A",
+      "tierEvidence": "Published in London in 1838 (public domain); archive.org OCR."
+    }
+  ],
+  "toc": [
+    {
+      "id": "proemium",
+      "title": {
+        "la": "Proemium",
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "pars-1",
+      "title": {
+        "la": "Prima Pars",
+        "en-US": "The First Part"
+      }
+    },
+    {
+      "id": "pars-2",
+      "title": {
+        "la": "Secunda Pars",
+        "en-US": "The Second Part"
+      }
+    },
+    {
+      "id": "pars-3",
+      "title": {
+        "la": "Tertia Pars",
+        "en-US": "The Third Part"
+      }
+    },
+    {
+      "id": "pars-4",
+      "title": {
+        "la": "Quarta Pars",
+        "en-US": "The Fourth Part"
+      }
+    },
+    {
+      "id": "pars-5",
+      "title": {
+        "la": "Quinta Pars",
+        "en-US": "The Fifth Part"
+      }
+    },
+    {
+      "id": "pars-6",
+      "title": {
+        "la": "Sexta Pars",
+        "en-US": "The Sixth Part"
+      }
+    },
+    {
+      "id": "pars-7",
+      "title": {
+        "la": "Septima Pars",
+        "en-US": "The Seventh Part"
+      }
+    },
+    {
+      "id": "pars-8",
+      "title": {
+        "la": "Octava Pars",
+        "en-US": "The Eighth Part"
+      }
+    },
+    {
+      "id": "pars-9",
+      "title": {
+        "la": "Nona Pars",
+        "en-US": "The Ninth Part"
+      }
+    },
+    {
+      "id": "pars-10",
+      "title": {
+        "la": "Decima Pars",
+        "en-US": "The Tenth Part"
+      }
+    }
+  ]
+}
