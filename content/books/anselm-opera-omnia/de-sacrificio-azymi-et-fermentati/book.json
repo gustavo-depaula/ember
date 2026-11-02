@@ -1,0 +1,90 @@
+{
+  "id": "anselm-de-sacrificio-azymi-et-fermentati",
+  "cover": "classic",
+  "name": {
+    "la": "De sacrificio azymi et fermentati",
+    "en-US": "On the Sacrifice of Unleavened and Leavened Bread",
+    "pt-BR": "Sobre o sacrifício do pão ázimo e fermentado"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Epistola Anselmi ad Valerannum Naumburgensem episcopum de sacrificio azymi et fermentati, de diversitate rituum Latinorum et Graecorum. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s letter to Bishop Waleran of Naumburg on the Eucharist celebrated in unleavened bread by the Latins and in leavened bread by the Greeks. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR.",
+    "pt-BR": "A carta de Anselmo ao bispo Valerano de Naumburgo sobre a Eucaristia celebrada em pão ázimo pelos latinos e em pão fermentado pelos gregos."
+  },
+  "composed": "c. 1106-1107",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-sacrificio-azymi-et-fermentati",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10607",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10607, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Salva Sacramenti veritate, azymum aut fermentatum panem assumi"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Aptius in azymo confici Sacramentum, quam in fermentato"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Latinos in azymo conficientes non Judaizare"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Retorquetur in Graecos argumentatio, qua probant Latinos in azymo conficientes judaizare"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Loca Scripturae quibus Graeci contra Latinos in controversia de fermentato abutebantur, congrue exposita, ac primum tractatur illud: Littera occidit"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Quomodo propheta jubeat sacrificari de fermentato laudem"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Connubia Latinorum de eadem cognatione in certis gradibus dissitis, male a Graecis reprobata"
+      }
+    }
+  ]
+}

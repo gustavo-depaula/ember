@@ -1,0 +1,426 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De azymo et fermentato</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DeAzEtF</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>135</emph> ANSELMUS, servus Ecclesiae Cantuariensis, WALERANNO Newenburgensi episcopo.</head>
+<p>Scienti breviter loquor. Si certus essem prudentiam
+vestram non favere successori Julii Caesaris, et
+Neronis, et Juliani apostatae, contra successorem et
+vicarium Petri Apostoli, libentissime vos ut amicissimum
+et reverendum episcopum salutarem. Quoniam
+autem ad defensionem veritatis, quam contra
+Graecos, qui ad vos venerunt, quaeritis, secundum
+posse nulli deesse debemus: opusculum vobis misi,
+quod de Spiritus sancti processione contra illos
+edidi.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Salva Sacramenti veritate, azymum aut fermentatum panem assumi</hi>.</head>
+
+<pb n="0541C"/>
+<p>De sacrificio vero, in quo iidem Graeci nobiscum
+non sentiunt, multis rationibus catholicis videtur,
+quia quod agunt non est contra fidem Christianam.
+Nam et azynum et fermentatum sacrificans
+panem, sacrificat. Et cum legitur de Domino, quando
+corpus suum de pane fecit, quia accepit panem, et
+benedixit; non additur, azymum, vel fermentatum.
+Certum tamen est quia azymum benedixit; forsitan
+non quia res, quae fiebat, hoc exigebat; sed quoniam
+ coena, in qua hoc factum, hoc exigebat.
+Et cum alibi se, et carnem suam, panem vocavit
+<pb n="0541D"/> <note>(Joan. VI, 52)</note>,
+quia, sicut isto pane vivit homo
+temporaliter, ita illo vivit in aeternum, ait, azymum
+vel fermentatum; quia uterque pariter panis est.
+Non enim differunt azymus et fermentatus substantialiter
+<pb n="0542B"/>
+(ut quidam putant) sicut homo novus ante
+peccatum, et inveteratus fermento peccati nequaquam
+substantialiter differunt. Propter hoc ergo
+solum videtur se et carnem suam panem vocasse,
+et de pane corpus suum fecisse: quia sicut
+iste panis azymus, sive fermentatus, dat vitam transitoriam;
+ita corpus ejus aeternam: non quia fermentatus
+est, vel azymus. Quamvis in Lege, ubi
+fere omnia in figura fiebant, praeceptum sit azymum
+in Pascha panem manducare <note>(Exod. XII, 15)</note>; ut
+ostenderetur quod Christus, quem exspectabant, sincerus
+et mundus futurus esset; nos, qui manducaturi
+eramus corpus ejus, similiter mundi esse moneremur
+ab omni fermento nequitiae et malitiae. Jam
+vero, postquam de veteri figura ad novam veritatem
+<pb n="0542C"/>
+venimus, et azymam Christi carnem comedimus,
+non est nobis necessaria vetus illa figura in pane,
+de quo carnem ipsam conficimus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>Aptius in azymo confici Sacramentum, quam in fermentato</hi>.</head>
+<p>Apertissimum tamen est quia melius sacrificatur
+de azymo quam de fermentato, tum quia valde
+aptius et prius et diligentius fit, tum quia Dominus
+hoc fecit. Unde illud non est tacendum quia, cum
+Graeci anathematizant azymitas (sic enim nos vocant),
+<pb n="0542D"/>
+anathematizant Christum. Si autem dicunt
+quia judaizamus; dicant similiter Christum judaizasse.
+Et si audent asserere Christum propter
+Judaismum, ut praeceptum de azymo datum servaret
+<pb n="0543A"/>,
+de azymo corpus suum fecisse, absurdissime
+errant: cum illum tam sinceram novitatem infecisse
+fermento vetustatis existimant. Patet
+igitur quia, cum usus est azymo ad illud opus, non
+hoc fecit ut praeceptum de azymo servaret, sed ut
+fermentarios, quos praevidebat, reprobans azymitas
+approbaret; aut certe ut, si etiam fermentarii
+approbarentur, azymitas quoque approbaret.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>Latinos in azymo conficientes non Judaizare</hi>.</head>
+<p>Quod aiunt nos judaizare, non est verum:
+quia non sacrificamus de azymo, ut legem veterem
+servemus: sed ut hoc diligentius fiat, et Dominum,
+qui hoc non judaizando fecit, imitemur. Cum
+enim facimus aliquid, quod Judaei, ut Judaismum
+<pb n="0543B"/>
+servarent, faciebant, non judaizamus, si non propter
+Judaismum, sed propter aliam causam, hoc agimus.
+Si enim in diebus Paschae azymum panem aliquis
+comedat, sive quia non habet alium, sive quia illo
+magis delectatur quam fermentato; aut si quis
+propter infirmitatem, praeputium circumcidere cogitur;
+aut si bovi suo quis trituranti, ne esuriat, os
+non obturat, nullus nisi insipiens haec agentem judaizare
+judicabit. Cum ergo nos panem azymum sacrificamus,
+non ut per azymi figuram talem Dominum
+Jesum futurum significemus, sed ut
+ipsum panem in corpus ejus, divina virtute operante,
+sicut ipse fecit, sacrificemus: nequaquam
+in hoc Legis vetustatem servamus, sed Evangelii
+veritatem celebramus. Denique quando idem ipse
+<pb n="0543C"/>
+hoc fecit, <emph>136</emph> et ait discipulis suis: <hi>Hoc facite in
+meam commemorationem <note>(Luc. XXII, 19)</note>
+            </hi>; si noluisset
+ut nos, quibus hoc in apostolis praecepit, hoc
+de azymo faceremus, praemonuisset nos in
+eis; et dixisset: Ne faciatis hoc de azymo. Quare
+cum dicens, <hi>Hoc facite</hi>, azymum non excepit, quis
+est cujus intellectus audet excipere quod ipse fecit,
+et hoc prohibere quod ipse non solum nullo sermone
+prohibuit, sed etiam opere praecepit? Quis, inquam,
+nisi plus sapiens quam oportet sapere, tantum confidat
+de sapientia sua, ut praesumat vel proferre,
+quia, cum dixit Dominus: <hi>Hoc facite</hi>, sicut competenter
+subintelligimus, <hi>quod ego</hi>: sic indubitanter
+sit subaudiendum, <hi>sed non de hoc, unde ego</hi>.
+Item si divina per ea, quae digniora cognoscimus,
+<pb n="0543D"/>
+exsequi debemus; cum sacrificium, de quo agitur,
+<pb n="0544A"/>
+de panis sive azymi, sive fermentati, substantia constet
+esse celebrandum, quem panem digniorem
+aestimamus ad faciendam Dominici corporis veritatem,
+nisi illum quem et vetus lex elegit ad
+significandam, et Evangelium ad exhibendam eamdem
+veritatem? Si ergo respondemus Graecis nos hoc
+de azymo, non propter figuram, sed propter praedictas
+causas facere, nihil hic intelligi valet,
+cur nos Graeci anathematizandos, aut saltem
+reprehendendos recte judicent.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Retorquetur in Graecos argumentatio, qua probant Latinos in azymo conficientes judaizare</hi>.</head>
+<p>At si dicunt nos non hoc agere posse de azymo
+sine intellectu figurae; per quod judaizare probamur:
+<pb n="0544B"/>
+ergo nec illi similiter queunt ad hoc ipsum
+uti fermentato sine figura; quia et vetus Scriptura
+per fermentum designat peccatum, cum exsecratur
+ in Pascha suo comedere fermentatum <note>(Exod. XII, 15)</note>;
+et nova, dum monet nos in
+Pascha nostro epulari non in fermento veteri, neque
+in fermento malitiae et nequitiae <note>(I Cor. V, 8)</note>.
+Dicimus etiam quia nos non judaizamus, si figuram
+ tenemus in azymo: quoniam non significamus
+Christum sine fermento peccati venturum,
+tanquam Judaei; sed monstramus eum talem venisse,
+sicut Christiani: et per hoc monemur tales nosmetipsos
+exhibere, quale Pascha nostrum est quod
+manducamus. Illi autem nec Judaeos, nec Christianos
+in hoc se profitentur, quia Deum in fermenti sui
+<pb n="0544C"/>
+figura, nec venturum, ut Judaei; nec venisse, ut
+Christiani, sine peccato significant: sed potius paganis
+favere videntur, qui illum, sicut alios homines,
+peccato fermentatum existimant. Si vero aiunt
+Christianos non debere uti figuris, quia vetera transierunt <note>(II Cor. V, 17)</note>,
+in quibus erant necessariae:
+negent (ut alia taceam) baptismum esse figuram cujusdam
+mortis et sepulturae, contra Apostolum dicentem: <hi>Quicunque baptizati sumus in Christo Jesu,
+in morte ipsius baptizati sumus. Consepulti enim sumus
+cum illo per baptismum in mortem 
+ <note>(Rom. VI, 3
+et 4)</note>
+            </hi>. Aut si concedunt nos uti figuris, sed non in
+eisdem rebus, quibus in figura lex vetus utebatur, et
+ideo non esse panem azymum assumendum ad ullam
+figuram, quia ad hoc in eadem lege accipitur: non
+<pb n="0544D"/>
+baptizent in aqua, quoniam <hi>Patres nostri omnes
+<pb n="0545A"/>
+in Moyse baptizati sunt in nube, et in mari <note>(I Cor.X,
+2)</note>
+            </hi>; quod negari nequit in figura fuisse: ne
+videantur baptizare baptismo Joannis, qui baptizavit
+in aqua. Si ergo irreprehensibiliter figurate baptizamus
+ in aqua: licet illud baptisma vetus,
+quod fuit hujus novi figura, in aqua fuerit: quaenam
+est in ista Graecorum sapientia, quae propter
+hoc, quia vetus Pascha, per quod nostrum figuratum
+est, celebratum est in azymis, detestatur nos
+sacrificare corpus Christi, qui est Pascha nostrum,
+de azymo in figura, sive ad commemorandum quia
+talis fuit ille, cujus corpus sacrificamus, scilicet
+sine peccati infectione; sive ad commonendum nos,
+quia corpus ejus comedimus, tales debere esse,
+secundum Apostolum dicentem: <hi>Expurgate vetus
+<pb n="0545B"/>
+fermentum, ut sitis nova conspersio, sicut estis azymi.
+Etenim Pascha nostrum immolatus est Christus. Itaque
+epulemur non in fermento veteri, neque in fermento
+malitiae et nequitiae; sed in azymis sinceritatis
+et veritatis <note>(I Cor. V, 7 et 8)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>Loca Scripturae quibus Graeci contra Latinos in controversia de fermentato abutebantur, congrue exposita, ac primum tractatur illud:</hi> Littera occidit.</head>
+<p>Sive itaque in figura sacrificemus azymum
+panem, sive sine omni figura, nullatenus nos Graeci
+reprehensibiles valent ostendere; sed aut soli nos
+bene agimus, illi non bene; aut nos melius et diligentius,
+si illi bene. Nempe satis ostendunt se nullam
+habere rationem ad suam partem confirmandam,
+<pb n="0545C"/>
+nostram infirmandam: cum hoc contra nos proferunt,
+quod nullo modo aut contra nos, aut cum illis
+esse cognoscitur. Objiciunt enim nobis, sicut in
+vestra legi epistola, quod dicit Apostolus: <hi>Littera
+enim occidit; spiritus autem vivificat <note>(II Cor. III, 6)</note>
+            </hi>;
+et quod Amos propheta: <hi>Sacrificate</hi>, inquit, <hi>de fermentato
+laudem <note>(Amos IV, 5)</note>
+            </hi>. Unde nituntur ostendere
+quia littera, quae vetus Pascha celebrari jubet
+in azymis, nos occidit; cum eam servamus, azymum
+sacrificando, non bene Apostoli verba intelligentes.
+Littera enim tunc dicitur occidere, quando illa
+jubens a peccato declinare, peccatum ostendit: quoniam,
+nisi adjuvet gratia, ut fiat quod jubetur, inobedientem
+et praevaricatorem facit. Quod in Epistola
+<pb n="0545D"/>
+ad Romanos idem aperte monstrat Apostolus, dicens: <hi>Peccatum non cognovi nisi per legem. Nam
+concupiscentiam nesciebam, nisi lex diceret:</hi> 
+ Non
+concupices <note>(Exod. XX, 17)</note>. <hi>Occasione autem accepta,
+peccatum per mandatum operatum est in me omnem
+<pb n="0546A"/>
+concupiscentiam. Sine lege enim peccatum mortuum
+erat. Ego autem vivebam sine lege aliquando. Sed
+cum venisset mandatum, peccatum revixit. Ego autem
+mortuus sum, et inventum est mihi mandatum, quod
+erat ad vitam, hoc esse ad mortem. Nam peccatum,
+occasione accepta per mandatum, seduxit me, et per illud
+occidit <note>(Rom. VII, 7, et seqq.)</note>
+            </hi>. Sic littera sine adjuvante
+gratia occidit, Spiritus autem vivificat; sicut ait
+idem Apostolus ad Titum: <hi>Cum autem benignitas et
+humanitas apparuit Salvatoris nostri Dei, non ex
+operibus justitiae, quae fecimus nos; sed secundum
+suam misericordiam salvos nos fecit per lavacrum regenerationis
+et renovationis Spiritus sancti, quem
+effudit in nos abunde per Jesum Christum Salvatorem
+nostrum, ut justificati gratia ipsius haeredes simus
+<pb n="0546B"/>
+secundum spem vitae aeternae <note>(Tit. III, 4 et seqq.)</note>
+            </hi>. Ideo
+cum dixisset: <hi>Sufficientia nostra ex Deo est, qui
+et idoneos nos fecit ministros Novi Testamenti, non
+littera, sed spiritu <note>(II Cor. III, 5)</note>
+            </hi>, ait: <hi>littera enim
+occidit: spiritus autem vivificat <note>(Ibid.)</note>
+            </hi>. Ac si dicat:
+Fecit nos Deus ministros Novi Testamenti, quod non
+est in littera occidente, sicut Vetus; sed in spiritu
+vivificante. Ad utrumque vero, ad occisionem scilicet
+litterae et vivificationem spiritus, pertinet
+quod subjunxit: <hi>Quod si ministratio mortis, litteris
+deformata in lapidibus, fuit in gloria; ita ut non possent
+intendere filii Israel in faciem Moysi propter gloriam
+vultus ejus, quae evacuatur: quomodo non magis
+ministratio spiritus erit in gloria? Nam si ministratio
+damnationis gloria est, multo magis abundat
+<pb n="0546C"/>
+ministerium justitiae in gloria. Nam nec glorificatum
+est, quod claruit in hac parte, propter excellentem gloriam.
+Si enim quod evacuatur, per gloriam est: multo
+magis quod manet, in gloria est. Habentes igitur talem
+spem, multa fiducia utimur: et non sicut Moyses
+ponebat velamen super faciem suam, ut non intenderent
+filii Israel in faciem ejus, quod evacuatur; sed
+obtusi sunt sensus eorum: usque in hodiernum enim
+diem idipsum</hi> <emph>137</emph> <hi>velamen in lectione Veteris Testamenti
+manet non revelatum; quoniam in Christo
+evacuatur. Sed usque in hodiernum diem, cum legitur
+Moyses, velamen est positum super cor eorum.
+Cum autem conversus fuerit ad Dominum, auferetur
+velamen. Dominus autem spiritus est; ubi autem spiritus
+<pb n="0546D"/>
+Domini, ibi libertas. Nos vero omnes revelata
+facie gloriam Domini speculantes, in eamdem imaginem
+transformamur a claritate in claritatem, tanquam
+a Domini spiritu. Ideo habentes administrationem,
+juxta quam misericordiam consecuti sumus, non
+<pb n="0547A"/>
+deficimus <note>(II Cor. III, 7-18, IV, 1)</note>
+            </hi> De occisione litterae,
+et vivificatione spiritus, superfluum mihi videtur
+super haec aliquid addere. Satis igitur patet
+quia nec Graecis prodest, nec nobis obest, quod de
+occidente littera objiciunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Quomodo propheta jubeat sacrificari de fermentato laudem</hi>.</head>
+<p>Quod autem assumunt de propheta: <hi>Venite in
+Galgala, et impie agite: et sacrificate de fermentato
+laudem <note>(Amos IV, 5)</note>
+            </hi>; intelligendum est esse dictum
+aut approbando tale sacrificium, aut reprobando.
+Sed si hoc praecipit propheta, ut secundum eos loquar,
+illos occidit littera, qui litteram servando, de
+fermentato sacrificant. At si hoc exprobrando dictum
+<pb n="0547B"/>
+est, qua fronte sacrificant quod propheta in
+sacrificium exsecratur: aut qua ratione hoc in auctoritatem
+sibi assumunt? Quod autem hoc propheta
+non jubendo, sed reprehendendo dixerit, dubium
+non est; cum hoc impiae actioni associaverit.
+Dixerat enim: <hi>Venite ad Bethel, et impie agite</hi>. Et
+paulo post, continuata increpatione ait: <hi>Et sacrificate
+de fermentato laudem</hi>. Aut ergo tanta ratione
+partem suam fermentarii defendant, quanta
+suam roborant azymitae: aut rejiciant suum fermentum,
+et fiant azymitae: aut si nec illud valent, nec
+istud volunt, saltem non reprehendunt azymitas.
+<pb n="0548A"/>
+          </p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Connubia Latinorum de eadem cognatione in certis gradibus dissitis, male a Graecis reprobata</hi>.</head>
+<p>In tertia quaestione, sicut intelligo, mandatis quia
+Graeci detestantur nostra connubia, ubi cognati cognatis
+de alia cognatione copulantur. Quod cur faciant,
+nullam video auctoritatem aut rationem. Nam
+si hoc in suis prohibent fieri connubiis, aut non extendunt
+cognationes usque ad septimam generationem,
+sicut nos; aut impossibile videtur servari,
+quod praecipiunt. Sunt enim saepe in una cognatione
+plusquam centum viri et mulieres egentes conjugio.
+Totidem igitur cognationes invenire necesse est, de
+quibus singulis singuli eligantur viri et mulieres,
+quibus illi de una cognatione singuli singulis copulentur.
+<pb n="0548B"/>
+Aut itaque detestabilia sunt indubitanter
+eorum connubia, si intra septem generationes sunt;
+nec debent reprehendere nostra, quando cognati
+conjunguntur cognatis de alia cognatione, quod nulla
+prohibet auctoritas vel ratio; aut impossibile est,
+ut dixi, servare quod praecipiunt; ut scilicet,
+tot cognationes exquirantur ad unius cognationis
+connubia, quot sunt in illa viri et mulieres petentes
+conjugia. Quod autem sine omni auctoritate et ratione
+fit contra rationem, absque dubio rationabiliter
+repudiandum judicatur.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>
