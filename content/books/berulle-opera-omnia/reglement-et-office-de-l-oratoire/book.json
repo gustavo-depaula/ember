@@ -1,0 +1,96 @@
+{
+  "id": "berulle-reglement-oratoire",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Règlement de l’Oratoire et Office de Jésus",
+    "en-US": "Rule of the Oratory and Office of Jesus",
+    "pt-BR": "Regra do Oratório e Ofício de Jesus"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Le Règlement de la Congrégation de l’Oratoire de Jésus et l’office latin de la fête de Jésus.",
+    "en-US": "The Rule of the Congregation of the Oratory of Jesus and the Latin office for the feast of Jesus.",
+    "pt-BR": "A Regra da Congregação do Oratório de Jesus e o ofício latino da festa de Jesus."
+  },
+  "composed": 1613,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/reglement-oratoire",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "reglement-01",
+      "title": {
+        "fr-FR": "Règlement de la Congrégation de l’Oratoire, partie 1"
+      }
+    },
+    {
+      "id": "reglement-02",
+      "title": {
+        "fr-FR": "Règlement de la Congrégation de l’Oratoire, partie 2"
+      }
+    },
+    {
+      "id": "reglement-03",
+      "title": {
+        "fr-FR": "Règlement de la Congrégation de l’Oratoire, partie 3"
+      }
+    },
+    {
+      "id": "reglement-04",
+      "title": {
+        "fr-FR": "Règlement de la Congrégation de l’Oratoire, partie 4"
+      }
+    },
+    {
+      "id": "reglement-05",
+      "title": {
+        "fr-FR": "Règlement de la Congrégation de l’Oratoire, partie 5"
+      }
+    },
+    {
+      "id": "reglement-06",
+      "title": {
+        "fr-FR": "Règlement de la Congrégation de l’Oratoire, partie 6"
+      }
+    },
+    {
+      "id": "office-de-jesus-01",
+      "title": {
+        "fr-FR": "Office de Jésus (latin), partie 1"
+      }
+    },
+    {
+      "id": "office-de-jesus-02",
+      "title": {
+        "fr-FR": "Office de Jésus (latin), partie 2"
+      }
+    },
+    {
+      "id": "office-de-jesus-03",
+      "title": {
+        "fr-FR": "Office de Jésus (latin), partie 3"
+      }
+    }
+  ]
+}
