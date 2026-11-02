@@ -1,0 +1,114 @@
+{
+  "id": "dante-fiore",
+  "cover": "classic",
+  "name": {
+    "it": "Il Fiore",
+    "en-US": "The Flower (Il Fiore)",
+    "pt-BR": "O Flor (Il Fiore)"
+  },
+  "author": {
+    "it": "Attribuito a Dante (attribuzione dubbia)",
+    "en-US": "Attributed to Dante (attribution doubtful)",
+    "pt-BR": "Atribuído a Dante (atribuição duvidosa)"
+  },
+  "description": {
+    "it": "Il Fiore: corona di 232 sonetti, rifacimento italiano del Roman de la Rose (fine del XIII secolo), il cui protagonista si chiama Durante; dal 1881 attribuito a Dante giovane, e oggi ancora discusso. Testo di it.wikisource dai Poemetti allegorico-didattici del secolo XIII (a cura di Luigi Di Benedetto, 1941), venti sonetti per capitolo, un verso per riga, con le rubriche dell’edizione.",
+    "en-US": "Il Fiore: a crown of 232 sonnets, an Italian reworking of the Roman de la Rose (late 13th century) whose hero is called Durante, attributed since 1881 to the young Dante and still disputed. The text is from it.wikisource, taken from Poemetti allegorico-didattici del secolo XIII (ed. Luigi Di Benedetto, 1941), twenty sonnets to a chapter, one verse to a line, with the edition’s rubrics. Attribution to Dante doubtful. No public-domain English exists.",
+    "pt-BR": "O Fiore: coroa de 232 sonetos, refundição italiana do Roman de la Rose (fim do século XIII), atribuída a Dante jovem, atribuição ainda discutida."
+  },
+  "composed": "13th century",
+  "languages": [
+    "it"
+  ],
+  "work": "dante/fiore",
+  "editions": {
+    "it": {
+      "editor": "Luigi Di Benedetto, in Poemetti allegorico-didattici del secolo XIII (Bari: Laterza, 1941), transcribed on it.wikisource",
+      "year": 1941
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Fiore",
+      "edition": "Il Fiore, it.wikisource (232 subpages), from Poemetti allegorico-didattici del secolo XIII.",
+      "description": "All 232 sonnets in 12 chapters of 20 sonnets (the last of 12), with the rubrics as ## headings. Italian only.",
+      "tier": "A",
+      "tierEvidence": "Dante’s attribution (Contini 1984) is doubtful: the sole manuscript, Montpellier H 438, is anonymous and signed “Durante”. The text is 13th-century and public domain; the it.wikisource transcription is from the 1941 Poemetti allegorico-didattici del secolo XIII (ed. Luigi Di Benedetto), quality marked 100%."
+    }
+  ],
+  "toc": [
+    {
+      "id": "sonetti-001-020",
+      "title": {
+        "it": "Sonetti 1-20"
+      }
+    },
+    {
+      "id": "sonetti-021-040",
+      "title": {
+        "it": "Sonetti 21-40"
+      }
+    },
+    {
+      "id": "sonetti-041-060",
+      "title": {
+        "it": "Sonetti 41-60"
+      }
+    },
+    {
+      "id": "sonetti-061-080",
+      "title": {
+        "it": "Sonetti 61-80"
+      }
+    },
+    {
+      "id": "sonetti-081-100",
+      "title": {
+        "it": "Sonetti 81-100"
+      }
+    },
+    {
+      "id": "sonetti-101-120",
+      "title": {
+        "it": "Sonetti 101-120"
+      }
+    },
+    {
+      "id": "sonetti-121-140",
+      "title": {
+        "it": "Sonetti 121-140"
+      }
+    },
+    {
+      "id": "sonetti-141-160",
+      "title": {
+        "it": "Sonetti 141-160"
+      }
+    },
+    {
+      "id": "sonetti-161-180",
+      "title": {
+        "it": "Sonetti 161-180"
+      }
+    },
+    {
+      "id": "sonetti-181-200",
+      "title": {
+        "it": "Sonetti 181-200"
+      }
+    },
+    {
+      "id": "sonetti-201-220",
+      "title": {
+        "it": "Sonetti 201-220"
+      }
+    },
+    {
+      "id": "sonetti-221-232",
+      "title": {
+        "it": "Sonetti 221-232"
+      }
+    }
+  ]
+}
