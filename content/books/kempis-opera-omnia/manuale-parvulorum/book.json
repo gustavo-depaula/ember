@@ -1,0 +1,132 @@
+{
+  "id": "kempis-manuale-parvulorum",
+  "cover": "classic",
+  "name": {
+    "la": "Manuale parvulorum",
+    "en-US": "The Manual for Little Ones",
+    "pt-BR": "O Manual dos Pequenos"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Liber qui dicitur Manuale parvulorum: quindecim capitula de vocatione parvulorum ad Christum, de humilitate et puritate, de oratione et custodia cordis, de praemio vitae aeternae.",
+    "en-US": "Fifteen chapters for beginners in the spiritual life: the call of the little ones to Christ, humility and purity, the good use of the imagination, prayer, the guarding of the heart and the reward of eternal life. Latin only: Pohl's critical edition (Freiburg 1918), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Quinze capítulos para os principiantes na vida espiritual: o chamado dos pequenos a Cristo, humildade e pureza, oração, guarda do coração e o prêmio da vida eterna."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/manuale-parvulorum",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1918
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia0000thom_q8k7",
+      "edition": "Thomae Hemerken a Kempis Manuale parvulorum, ed. M. J. Pohl (Freiburg: Herder 1918), Opera omnia IV; archive.org raw OCR (Pohl 1918 volume).",
+      "description": "Chapters as Pohl divides them, with his upper-case chapter titles recased (u/v normalised by script). Line numbers, running heads and page breaks stripped by script; Pohl's critical footnotes and introduction are not imported. Raw OCR: drop capitals at chapter openings and isolated letters are often garbled; a chapter heading lost to OCR runs two chapters together.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1918; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. De vocatione paruulorum ad christum"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De doctrina Iesu et humilitate eius"
+      }
+    },
+    {
+      "id": "p1-03",
+      "title": {
+        "la": "3. De puritate et sublimitate Sancti iohannis apostoli"
+      }
+    },
+    {
+      "id": "p1-04",
+      "title": {
+        "la": "4. De sanctitate et excellentia Sancti pauli apostoli"
+      }
+    },
+    {
+      "id": "p1-05",
+      "title": {
+        "la": "5. De magna humilitate Sancti francisci"
+      }
+    },
+    {
+      "id": "p1-06",
+      "title": {
+        "la": "6. De bona imaginatione contra malu m"
+      }
+    },
+    {
+      "id": "p1-07",
+      "title": {
+        "la": "7. De brevitate omnis rei sub caelo"
+      }
+    },
+    {
+      "id": "p1-08",
+      "title": {
+        "la": "8. De devotione Sancti David regis in oratione"
+      }
+    },
+    {
+      "id": "p1-09",
+      "title": {
+        "la": "9. De paupertate Spiritus propter christum"
+      }
+    },
+    {
+      "id": "p1-10",
+      "title": {
+        "la": "10. De studio simplicis fratris in passione Christi"
+      }
+    },
+    {
+      "id": "p1-11",
+      "title": {
+        "la": "11. De puritate multarum virtutum"
+      }
+    },
+    {
+      "id": "p1-12",
+      "title": {
+        "la": "12. De laude det ex'ore iusde"
+      }
+    },
+    {
+      "id": "p1-13",
+      "title": {
+        "la": "13. De arta custodia cordis eroris"
+      }
+    },
+    {
+      "id": "p1-14",
+      "title": {
+        "la": "14. De frequentia orandi"
+      }
+    },
+    {
+      "id": "p1-15",
+      "title": {
+        "la": "15. De aeternae vitae praemio promerendo"
+      }
+    }
+  ]
+}
