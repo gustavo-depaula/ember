@@ -7,7 +7,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] John of the Cross. Left: the English letters, poems and maxims (Lewis/Zimmerman, as separate books), Grados de perfección, the Antequera/Gerona/María de Jesús Avisos, Pacho's extra letters
 - [x] Thérèse of Lisieux. Left: school notebooks, artistic works
 - [x] Ignatius of Loyola. Left: the Italian of Autobiography [79]–[101], the Spanish letters (1874–89 Cartas, MHSI), the Vulgata of the Exercises, the Reglas and the poverty Deliberación
-- [ ] Louis of Granada
+- [x] Louis of Granada. Left: the Latin works (sermons, Rhetorica, Silva, Collectanea; scans need fresh OCR), the Portuguese original of the Compendio, English translations (Hopkins, Meres, Gibbons, Chester…), and headings lost in the Guía primitiva and Cartas
 - [ ] Alonso Rodríguez · Luis de León
 - [ ] Elisabeth of the Trinity · Curé of Ars
 - [ ] Francis de Sales (rest)
