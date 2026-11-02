@@ -1,0 +1,834 @@
+{
+  "id": "catherine-lettere",
+  "cover": "classic",
+  "name": {
+    "it": "Le lettere di santa Caterina da Siena",
+    "en-US": "The Letters of St. Catherine of Siena",
+    "pt-BR": "As cartas de santa Catarina de Sena"
+  },
+  "author": {
+    "it": "Santa Caterina da Siena",
+    "en-US": "St. Catherine of Siena",
+    "pt-BR": "Santa Catarina de Sena"
+  },
+  "description": {
+    "it": "Le lettere di santa Caterina da Siena (1347-1380) nell’edizione di Niccolò Tommaseo, a cura di Piero Misciattelli (Siena 1913-1922), con le note e i sommari dell’editore: a Raimondo da Capua, a Gregorio XI e a Urbano VI, ai Fiorentini, alla madre Lapa, ai discepoli e a molti altri. Contiene le lettere finora trascritte e rilette su it.wikisource (numerazione dell’edizione Misciattelli); le altre lettere dell’epistolario non sono ancora importate.",
+    "en-US": "The letters of St. Catherine of Siena (1347-1380) in Niccolò Tommaseo’s edition, edited by Piero Misciattelli (Siena 1913-1922), with the editor’s notes and summaries: to Raymond of Capua, to Gregory XI and Urban VI, to the Florentines, to her mother Lapa, to her disciples and many others. It holds the letters transcribed so far on Italian Wikisource (the Misciattelli numbering); the remaining letters of the epistolary are not yet imported. A selection in English is in the Scudder book of the same work.",
+    "pt-BR": "As cartas de santa Catarina de Sena (1347-1380) na edição de Niccolò Tommaseo, organizada por Piero Misciattelli (Siena 1913-1922), com notas e sumários do editor: a Raimundo de Cápua, a Gregório XI e Urbano VI, aos florentinos, à mãe Lapa, aos discípulos e a muitos outros. Contém as cartas já transcritas no Wikisource italiano."
+  },
+  "composed": "1366-1380",
+  "languages": [
+    "it"
+  ],
+  "work": "catherine-of-siena/lettere",
+  "editions": {
+    "it": {
+      "editor": "Niccolò Tommaseo, ed. Piero Misciattelli (Giuntini-Bentivoglio, Siena)",
+      "year": 1922
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://it.wikisource.org/wiki/Le_lettere_di_S._Caterina_da_Siena",
+      "edition": "Le lettere di S. Caterina da Siena e di alcuni suoi discepoli, ed. Niccolò Tommaseo, ordinate con nuovo metodo da Piero Misciattelli, vol. I, Siena 1922. Italian Wikisource transcription (proofread against the scans, mostly at 75%).",
+      "description": "Each letter page with its heading, the editor’s summary and Tommaseo’s footnotes (kept as footnotes). Only the letters transcribed on Wikisource are here; the six-volume Misciattelli OCR on archive.org (lelettere01cath to lelettere06cath) has the rest, with the footnotes interleaved in the text, and was not imported. Wikisource paragraph breaks across pages were rejoined by script.",
+      "tier": "A",
+      "tierEvidence": "Catherine died in 1380, Tommaseo in 1874 and Misciattelli in 1937; the 1922 edition is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l001",
+      "title": {
+        "it": "Lettera I. A Monna Lapa, sua Madre"
+      }
+    },
+    {
+      "id": "l002",
+      "title": {
+        "it": "Lettera II. A Prete Andrea de’ Vitroni"
+      }
+    },
+    {
+      "id": "l003",
+      "title": {
+        "it": "Lettera III. Al Preposto di Casole, e a Giacomo di Manzi, di detto luogo"
+      }
+    },
+    {
+      "id": "l004",
+      "title": {
+        "it": "Lettera IV. Ad un Monaco della Certosa essendo in carcere"
+      }
+    },
+    {
+      "id": "l009",
+      "title": {
+        "it": "Lettera IX. A una donna che non si nomina"
+      }
+    },
+    {
+      "id": "l050",
+      "title": {
+        "it": "Lettera L. A una Mantellata di Santo Domenico chiamata Caterina di Scetto"
+      }
+    },
+    {
+      "id": "l051",
+      "title": {
+        "it": "Lettera LI. A Frate Felice da Massa[^1] dell’Orarne di Santo Angustino"
+      }
+    },
+    {
+      "id": "l052",
+      "title": {
+        "it": "Lettera LII. A Frate Jeronimo da Siena de’ Frati Eremiti di Santo Augustino"
+      }
+    },
+    {
+      "id": "l053",
+      "title": {
+        "it": "Lettera LIII. A Monna Agnesa, Donna che fu di Missere Orso Malavolti"
+      }
+    },
+    {
+      "id": "l054",
+      "title": {
+        "it": "Lettera LIV. Ad una Monaca del Monastero di Santa Agnesa in Montepulciano"
+      }
+    },
+    {
+      "id": "l055",
+      "title": {
+        "it": "Lettera LV. Al Venerabile Religioso D. Guglielmo[^1]. Priore Generale dell’Ordine della Certosa"
+      }
+    },
+    {
+      "id": "l056",
+      "title": {
+        "it": "Lettera LVI. A Frate Simone da Cortona, dell’Ordine de’ Frati Predicatori"
+      }
+    },
+    {
+      "id": "l057",
+      "title": {
+        "it": "Lettera LVII. A Misser Metteo, Rettore della Casa della Misericordia in Siena"
+      }
+    },
+    {
+      "id": "l058",
+      "title": {
+        "it": "Lettera LVIII. A Suora Cristofora, Priora del Monastero di Santa Agnesa[^1] in Montepulciano"
+      }
+    },
+    {
+      "id": "l059",
+      "title": {
+        "it": "Lettera LIX. A Messer Pietro, Prete da Semignano"
+      }
+    },
+    {
+      "id": "l060",
+      "title": {
+        "it": "Lettera LX. Ad un Secolare che non si nomina"
+      }
+    },
+    {
+      "id": "l061",
+      "title": {
+        "it": "Lettera LXI. A Monna Agnesa, Donna che fu di Misser Orso Malavolti"
+      }
+    },
+    {
+      "id": "l062",
+      "title": {
+        "it": "Lettera LXII. A Sano di Marco, e agli altri figliuoli"
+      }
+    },
+    {
+      "id": "l063",
+      "title": {
+        "it": "Lettera LXIII. A Misser Matteo, Rettore della Casa della Misericordia in Siena"
+      }
+    },
+    {
+      "id": "l064",
+      "title": {
+        "it": "Lettera LXIV. A Frate Guglielmo d’Inghilterra, de’ Frati Fremiti di Sant’Agostino[^2] nelle membra nostre, a ribellare al suo Creatore. Questo lume è necessario a ogni creatura che ha in sé ragione, in qualunque stato si sia, se vuole avere la divina Grazia, e participare il frutto del sangue dell’immacolato Agnello. Questo è il lume comune, cioè, che comunemente ogni persona il debba avere; perocché chi non l’ha, sta in stato di dannazione. E questa è la cagione che egli non è in stato di Grazia non avendo il lume; [^3] perocché chi non cognosce il male della colpa e chi [^4] n’è cagione, none ’l può schifare, né odiare la cagione. Così chi non cogno- sce il bene e la cagione del bene cioè la virtù, non può amare né desiderare esso bene"
+      }
+    },
+    {
+      "id": "l065",
+      "title": {
+        "it": "Lettera LXV. A Daniella da Orvieto vestita dell’abito di Santo Domenico"
+      }
+    },
+    {
+      "id": "l066",
+      "title": {
+        "it": "Lettera LXVI. A Fra Guglielmo d’Inghilterra, Baccelliere che sta a Lecceto dell’Ordine di Santo Agostino"
+      }
+    },
+    {
+      "id": "l067",
+      "title": {
+        "it": "Lettera LXVII. Al Convento de’ Monaci di Passignano di Vall Ombrosa"
+      }
+    },
+    {
+      "id": "l068",
+      "title": {
+        "it": "Lettera LXVIII. A Madonna Benedetta, Donna che fu di Misser Bocchino de’ Belforti [^1] da Volterra, essendo essa in Firenze"
+      }
+    },
+    {
+      "id": "l069",
+      "title": {
+        "it": "Lettera LXIX. A Sano di Maco in Siena"
+      }
+    },
+    {
+      "id": "l070",
+      "title": {
+        "it": "Lettera LXX. A Frate Bartolomeo Dominici dell’Ordine de’ Predicatori, quando era Baccelliere a Pisa"
+      }
+    },
+    {
+      "id": "l071",
+      "title": {
+        "it": "Lettera LXXI. A Monna Bartolomea d’Andrea Mei [^1] da Siema"
+      }
+    },
+    {
+      "id": "l072",
+      "title": {
+        "it": "Lettera LXXII. A Romano Linaiuolo alla Compagnia del Bigallo [^1] in Firenze"
+      }
+    },
+    {
+      "id": "l073",
+      "title": {
+        "it": "Lettera LXXIII. A Suora Costanza Monaca del Monasterio di San Abundio appresso Siena [^1]"
+      }
+    },
+    {
+      "id": "l074",
+      "title": {
+        "it": "Lettera LXXIV. A Frate Niccolò da Monte Alcino[^1] dell’Ordine de’ Frati Predicatori"
+      }
+    },
+    {
+      "id": "l100",
+      "title": {
+        "it": "Lettera C. A Frate Raimondo da Capua dell’Ordine dei Predicatori"
+      }
+    },
+    {
+      "id": "l101",
+      "title": {
+        "it": "Lettera CI. A Giacomo Cardinale degli Orsini"
+      }
+    },
+    {
+      "id": "l102",
+      "title": {
+        "it": "Lettera CII. A Frate Raimondo da Capua dell’Ordine de’ Predicatori"
+      }
+    },
+    {
+      "id": "l103",
+      "title": {
+        "it": "Lettera CIII. A Benuccio di Pietro, e Bernardo di Misser Uberto de’ Belforti da Volterra"
+      }
+    },
+    {
+      "id": "l104",
+      "title": {
+        "it": "Lettera CIV. A Frate Raimondo da Capua dell’Ordine de’ Predicatori"
+      }
+    },
+    {
+      "id": "l105",
+      "title": {
+        "it": "Lettera CV. A Fidate Bartolomeo, quando era ad Asciano"
+      }
+    },
+    {
+      "id": "l106",
+      "title": {
+        "it": "Lettera CVI. A Neri di Landoccio"
+      }
+    },
+    {
+      "id": "l107",
+      "title": {
+        "it": "Lettera CVII. A Luisi di Misser Luisi Gallerani da Siena in Asciano.[^1]"
+      }
+    },
+    {
+      "id": "l108",
+      "title": {
+        "it": "Lettera CVIII. A Monna Giovanna di Capo e a Francesca in Siena.[^1]"
+      }
+    },
+    {
+      "id": "l109",
+      "title": {
+        "it": "Lettera CIX. All’Abate Nunzio Apostolico.[^2] nel corpo della Chiesa santa. O venerabile e carissimo padre in Cristo Gesù, quanto sarà beata l’anima vostra e mia, quando io vedrò che noi siamo legati nel fuoco della divina carità, la quale carità sapete che dà il latte alli figliuoli suoi, e notricali! E parmi che questo latte non si trae per altro modo che tragga il fanciullo il latte dal petto della madre sua; il quale per mezzo della poppa trae il latte, e così si notrica: così sapete, che l’anima nostra non può avere vita per altro modo che per mezzo di Cristo crocifisso. Così disse la prima Verità: «Veruno può andare al Padre se non per me». E in altro luogo dice: «Io sono via, verità e vita; e chi va per me, non va per le tenebre, anzi va per la luce»"
+      }
+    },
+    {
+      "id": "l110",
+      "title": {
+        "it": "Lettera CX. A Monna Stricca, Donna che fu di Cione di Sandro de’ Salimbeni.[^1]"
+      }
+    },
+    {
+      "id": "l111",
+      "title": {
+        "it": "Lettera CXI. A Monna Biancina, Donna che fu di Giovanni d’Agnolino Salimbeni.[^1]"
+      }
+    },
+    {
+      "id": "l112",
+      "title": {
+        "it": "Lettera CXII. Alla Contessa Benedetta Figliuola di Giovanni d’Agnolino Salimbeni da Siena.[^1]"
+      }
+    },
+    {
+      "id": "l113",
+      "title": {
+        "it": "Lettera CXIII. Alla Contessa Benedetta figliuola di Giovanni d’Agnolino Salimbeni"
+      }
+    },
+    {
+      "id": "l114",
+      "title": {
+        "it": "Lettera CXIV. Ad Agnolino di Giovanni d’Agnolino de’ Salimbeni da Siena"
+      }
+    },
+    {
+      "id": "l115",
+      "title": {
+        "it": "Lettera CXV. A Monna Isa, Figliuola che fu di Giovanili d’Agnolino Salimbeni.[^1]"
+      }
+    },
+    {
+      "id": "l116",
+      "title": {
+        "it": "Lettera CXVI. A Monna Pantasilea, donna di Ranuccio da Farnese"
+      }
+    },
+    {
+      "id": "l117",
+      "title": {
+        "it": "Lettera CXVII. A Monna Lapa sua madre e a Monna Cecca nel Monasterio di Santa Agnesa di Montepulciano, quand’essa era alla Rocca. [^1]"
+      }
+    },
+    {
+      "id": "l118",
+      "title": {
+        "it": "Lettera CXVIII. A Monna Catarina dello Spedaluccio e a Giovanna di Capo in Siena"
+      }
+    },
+    {
+      "id": "l119",
+      "title": {
+        "it": "Lettera CXIX. A Monna Alessa vestita dell’abito di santo Domenico, quando era alla Rocca"
+      }
+    },
+    {
+      "id": "l120",
+      "title": {
+        "it": "Lettera CXX. A Monna Robe di Francesco de’ Tolomei.[^2] e nutrichianci del proprio amore sensitivo, onde procedono tutti e’ vizi. Ma dovianci levare e salire all’altezza delle virtù, aprendo l’occhio dell’intelletto a ragguardare in sul legno della croce dove troviamo l’Agnello, arbore di vita, che del corpo suo ha fatto scala"
+      }
+    },
+    {
+      "id": "l121",
+      "title": {
+        "it": "Lettera CXXI. A’ Signori difensori, e Capitano del popolo della città di Siena, essendo essa a Sant'Antimo"
+      }
+    },
+    {
+      "id": "l122",
+      "title": {
+        "it": "Lettera CXXII. A Salvi di Misser Pietro, orafo in Siena"
+      }
+    },
+    {
+      "id": "l123",
+      "title": {
+        "it": "Lettera CXXIII. Ai Signori difensori della città di Siena"
+      }
+    },
+    {
+      "id": "l124",
+      "title": {
+        "it": "Lettera CXXIV. A Misser Matteo, Rettore della Casa della Misericordia di Siena,"
+      }
+    },
+    {
+      "id": "l125",
+      "title": {
+        "it": "Lettera CXXV. A Madonna Nera Priora delle Mantellate[^1] di Santo Domenico, quando essa Caterina era alla Rocca d’Agnolino"
+      }
+    },
+    {
+      "id": "l126",
+      "title": {
+        "it": "Lettera CXXVI. A Monna Alessia e a Monna Cecca"
+      }
+    },
+    {
+      "id": "l127",
+      "title": {
+        "it": "Lettera CXXVII. A Frate Bartolomeo Dominici, e a Frate Tomaso d’Antonio dell’Ordine de’ Predicatori quando erano a Pisa"
+      }
+    },
+    {
+      "id": "l128",
+      "title": {
+        "it": "Lettera CXXVIII. A Gabriele di Divino Piccolomini"
+      }
+    },
+    {
+      "id": "l129",
+      "title": {
+        "it": "Lettera CXXIX. A Frate Bartolommeo dell’Ordine de’ Predicatori in Fiorenza"
+      }
+    },
+    {
+      "id": "l130",
+      "title": {
+        "it": "Lettera CXXX. A Ipolito degli libertini di Firenze"
+      }
+    },
+    {
+      "id": "l131",
+      "title": {
+        "it": "Lettera CXXXI. A Niccolò Soderini in Firenze.[^1]"
+      }
+    },
+    {
+      "id": "l132",
+      "title": {
+        "it": "Lettera CXXXII. A Monna Giovanna[^1] e altre figliole in Siena"
+      }
+    },
+    {
+      "id": "l133",
+      "title": {
+        "it": "Lettera CXXXIII. Alla Reina di Napoli.[^1]"
+      }
+    },
+    {
+      "id": "l134",
+      "title": {
+        "it": "Lettera CXXXIV. A Bartolomeo e Jacomo, eremiti in Campo Santo in Pisa. [^1]"
+      }
+    },
+    {
+      "id": "l135",
+      "title": {
+        "it": "Lettera CXXXV. A Misser Pietro Marchese del Monte"
+      }
+    },
+    {
+      "id": "l136",
+      "title": {
+        "it": "Lettera CXXXVI. Ad Angelo da Ricasoli"
+      }
+    },
+    {
+      "id": "l137",
+      "title": {
+        "it": "Lettera CXXXVII. A Misser Matteo Rettore della Chiesa della Misericordia di Siena, mentre che essa era a Pisa"
+      }
+    },
+    {
+      "id": "l138",
+      "title": {
+        "it": "Lettera CXXXVIII. Alla Reina di Napoli"
+      }
+    },
+    {
+      "id": "l139",
+      "title": {
+        "it": "Lettera CXXXIX. A Frate Tomaso della Fonte dell’ordine de’ Predicatori in Siena"
+      }
+    },
+    {
+      "id": "l140",
+      "title": {
+        "it": "Lettera CXL. A misser Giovanni Condottiero, e [^1] capo della Compagnia che venne nel tempo della fame"
+      }
+    },
+    {
+      "id": "l141",
+      "title": {
+        "it": "Lettera CXLI. A Don Giovanni de’ Sabbatini da Bologna monaco dell’Ordine della Certosa nel monasierio di Belriguardo, presso a Siena, quand’ella era a Pisa[^1]"
+      }
+    },
+    {
+      "id": "l142",
+      "title": {
+        "it": "Lettera CXLII. A Sano di Maco, essendo la Santa in Pisa"
+      }
+    },
+    {
+      "id": "l143",
+      "title": {
+        "it": "Lettera CXLIII. Alla Reina di Napoli"
+      }
+    },
+    {
+      "id": "l144",
+      "title": {
+        "it": "Lettera CXLIV. A Monna Pavola a Fiesole"
+      }
+    },
+    {
+      "id": "l145",
+      "title": {
+        "it": "Lettera CXLV. Alla Reina d’Ungheria, cioè alla madre del Re. [^1]"
+      }
+    },
+    {
+      "id": "l146",
+      "title": {
+        "it": "Lettera CXLVI. A Frate Bartolomeo Dominici dell’Ordine de’ Predicatori quando era Biblico di Fiorenza.[^1]"
+      }
+    },
+    {
+      "id": "l147",
+      "title": {
+        "it": "Lettera CXLVII. A Sano di Maco, essendo[^1] la Santa a Pisa la prima volta"
+      }
+    },
+    {
+      "id": "l148",
+      "title": {
+        "it": "Lettera CXLVIII. A Pietro Marchese del Monti"
+      }
+    },
+    {
+      "id": "l149",
+      "title": {
+        "it": "Lettera CXLIX. A Misser Pietro Gambacorti[^1] in Pisa"
+      }
+    },
+    {
+      "id": "l150",
+      "title": {
+        "it": "Lettera CL. A Frate Francesco Tebaldi di Fiorenza, nell'Isola di Gorgona, monaco Certosino"
+      }
+    },
+    {
+      "id": "l151",
+      "title": {
+        "it": "Lettera CLI. A Monna Nella,"
+      }
+    },
+    {
+      "id": "l152",
+      "title": {
+        "it": "Lettera CLII. A Giovanni Trenta, e a Monna Giovanna sua donna da Lucca"
+      }
+    },
+    {
+      "id": "l153",
+      "title": {
+        "it": "Lettera CLIII. A Monna Catarina, e Monna Orsola, e altre donne in Pisa"
+      }
+    },
+    {
+      "id": "l154",
+      "title": {
+        "it": "Lettera CLIV. A Frate Francesco Tebaldi di Fiorenza, essendo nell’Isola di Gorgona"
+      }
+    },
+    {
+      "id": "l155",
+      "title": {
+        "it": "Lettera CLV. A Madonna Niera[^1] di Gherardo Gambacorti in Pisa"
+      }
+    },
+    {
+      "id": "l156",
+      "title": {
+        "it": "Lettera CLVI. A Giovanni Perotti Cuoiaio in Lucca"
+      }
+    },
+    {
+      "id": "l157",
+      "title": {
+        "it": "Lettera CLVII. A Vanni ed a Francesco, figliuoli di Niccolò de’ Buonconti da Pisa"
+      }
+    },
+    {
+      "id": "l158",
+      "title": {
+        "it": "Lettera CLVIII. A Prete Nino da Pisa"
+      }
+    },
+    {
+      "id": "l159",
+      "title": {
+        "it": "Lettera CLIX. A Frate Ranieri, in Cristo, di Santa Catarina de’ Frati Predicatori in Pisa"
+      }
+    },
+    {
+      "id": "l160",
+      "title": {
+        "it": "Lettera CLX. Giovanni Perotti cuoiaio da Lucca, e a Mona Lippa sua Donna"
+      }
+    },
+    {
+      "id": "l161",
+      "title": {
+        "it": "Lettera CLXI. A Monna Nella, Donna che fu di Niccolò de’ Buonconti da Pisa; e a Monna Catarina, Donna di Gherardo di Niccolò predetto"
+      }
+    },
+    {
+      "id": "l162",
+      "title": {
+        "it": "Lettera CLXII. A Monna Franceschina, e a Monna Caterina, e a due altre Compagne spirituali in Lucca"
+      }
+    },
+    {
+      "id": "l163",
+      "title": {
+        "it": "Lettera CLXIII. A Monna Franceschina in Lucca"
+      }
+    },
+    {
+      "id": "l164",
+      "title": {
+        "it": "Lettera CLXIV. A Monna Mellina, donna di Bartolomeo Balbani in Lucca"
+      }
+    },
+    {
+      "id": "l165",
+      "title": {
+        "it": "Lettera CLXV. A Monna Bartolomea, Donna di Salvatico da Lucca"
+      }
+    },
+    {
+      "id": "l166",
+      "title": {
+        "it": "Lettera CLXVI. A Monna Colomba in Lucca"
+      }
+    },
+    {
+      "id": "l167",
+      "title": {
+        "it": "Lettera CLXVII. A Monna Nella, donna che fu di Niccolò Buonconti da Pisa"
+      }
+    },
+    {
+      "id": "l168",
+      "title": {
+        "it": "Lettera CLXVIII. Agli Anziani della città di Lucca"
+      }
+    },
+    {
+      "id": "l169",
+      "title": {
+        "it": "Lettera CLXIX. A Frate Matteo Tolomei da Siena dell’Ordine de’ Predicatori in Roma, ed a Don Niccolò di Francia Monaco di Certosa e Belriguardo"
+      }
+    },
+    {
+      "id": "l170",
+      "title": {
+        "it": "Lettera CLXX. A Pietro Marchese del Monte, Podestà di Siena"
+      }
+    },
+    {
+      "id": "l171",
+      "title": {
+        "it": "Lettera CLXXI. A Niccolò Soderini di Firenze [^1]"
+      }
+    },
+    {
+      "id": "l172",
+      "title": {
+        "it": "Lettera CLXXII. A Frate Niccolò de’ Frati di Monteoliveto nel Monasterio di Fiorenza"
+      }
+    },
+    {
+      "id": "l173",
+      "title": {
+        "it": "Lettera CLXXIII. A un Frate che uscì dell’Ordine"
+      }
+    },
+    {
+      "id": "l174",
+      "title": {
+        "it": "Lettera CLXXIV. A Monna Agnesa di Francesco Sarto da Firenze"
+      }
+    },
+    {
+      "id": "l175",
+      "title": {
+        "it": "Lettera CLXXV. A certo Monasterio di Donne"
+      }
+    },
+    {
+      "id": "l176",
+      "title": {
+        "it": "Lettera CLXXVI. A Francesco di Pipino Sarto da Firenze"
+      }
+    },
+    {
+      "id": "l177",
+      "title": {
+        "it": "Lettera CLXXVII. A Pietro Cardinale Portuense"
+      }
+    },
+    {
+      "id": "l178",
+      "title": {
+        "it": "Lettera CLXXVIII. A Neri di Landoccio"
+      }
+    },
+    {
+      "id": "l179",
+      "title": {
+        "it": "Lettera CLXXIX. A Francesco di Pipino Sarto da Firenze e a Monna Agnesa sua Donna"
+      }
+    },
+    {
+      "id": "l180",
+      "title": {
+        "it": "Lettera CLXXX. A Pietro marchese del Monte[^1] a S. Maria, quando era Senatore[^2] di Siena"
+      }
+    },
+    {
+      "id": "l181",
+      "title": {
+        "it": "Lettera CLXXXI. A Niccolò da Osimo"
+      }
+    },
+    {
+      "id": "l182",
+      "title": {
+        "it": "Lettera CLXXXII. A Suor Bartolomea della Seta, Monaca del Monasterio di Santo Stefano di Pisa"
+      }
+    },
+    {
+      "id": "l183",
+      "title": {
+        "it": "Lettera CLXXXIII. All’Arcivescovo d’Otranto"
+      }
+    },
+    {
+      "id": "l184",
+      "title": {
+        "it": "Lettera CLXXXIV. Al Priore e Fratelli della Compagnia della Vergine Maria. [^2] legame, che legò [^3] la natura divina nella natura umana. Chi ne fu cagione? Solo l’amore. L’amore fu quello che trasse[^4] noi di Dio, creandoci alla imagine e similitudine sua. E per amore, avendo noi perduta la Grazia, e volendoci restituire e rendere quello che avevamo perduto per lo peccato e difetto [^5] nostro, ci mandò Iddio ’1 Verbo dell’unigenito suo Figliuolo, e volse che col sangue suo riavessimo la Grazia; ed egli, Figliuolo obediente, corse all’obbrobriosa morte della croce, siccome innamorato della salute nostra. Sicché ogni cosa che Dio ha fatta e fa a noi, è fatta per amore; e però l’anima, che ragguarda questo smisurato e ineffabile amore, vi apre l’occhio dell’intelletto e del cognoscimento nel suo obietto del sangue di Cristo crocifisso, nel quale sangue se gli rappresenta più la larghezza dell’ineffabile carità, che in veruna altra cosa. E così disse Egli, che maggiore amore non può mostrare l’uomo, che dare la vita per l’amico suo. Oh inestimabile amore, se tu commendi che maggiore amore non può essere, che dare la vita per l’amico suo, quanto maggiormente è degno di commendazione l’amore tuo verso di noi, che, essendo fatti nemici, tu hai data la vita, e pagato il prezzo del sangue tuo per noi! Questo eccede ogni amore. O dolce e amoroso Verbo Figliuolo di Dio, tu se’ fatto tramezzatore; hai pacificato con la morte tua l’uomo con Dio: che i chiodi ci sono fatti chiave che ha disserrata vita eterna; ed è aperta per siffatto modo, che a veruno può essere chiusa se egli non vuole; perocché l’uomo non può esser costretto a veruno peccato, se egli non vuole. Il peccato è quello che ci chiude la porta, e tolleci il fine per lo quale fummo creati: il peccato ci tolle la vita, e dacci la morte; tolleci la luce, e dacci la tenebra, perchè offusca l’occhio dello intelletto, e non gli lassa vedere il sole né la tenebra, la tenebra dico del cognoscimento [^6] di sé, dove vede e truova la tenebrosa sensualità, che sempre ribella e impugna contra il suo Creatore; e perchè non vede la tenebra sua, però non può cognoscere l’amore e il lume della divina bontà. Dissi, che l’anima che ragguarda questo smisurato amore, ha conceputo amore ineffabile: ha fatta [^7] e confermata la sua volontà con quella di Dio! Giudica e vede bene, che Dio non vuole altro che la nostra santificazione; e ciò ch’egli ci dà e permette, o tribolazioni, o consolazioni, o persecuzioni o strazi o scherni o villanie, ogni cosa ci è data perchè siamo santificati in lui. Perchè la santificazione non si può avere senza le virtù, e le virtù non si possono avere, se non per lo suo contrario. [^8] E però l'anima che cognosce questo amore, non si può turbare né contristare di veruna cosa che avvenga, di qualunque cosa si sia; perchè sarebbe dolersi del suo bene, e della bontà di Dio che il permette a noi. È vero che la sensualità si vuole [^9] sentire quando la cosa che gli dispiaccia: ma la ragione la vince, e falla stare suggetta siccome debbe. E con che faremo stare suggetta questa sensualità, che non ribelli al suo Creatore? dicovelo. I diletti e le tribolazioni si raffrenano con la dolce e santa memoria di Dio, cioè con la continua considerazione della morte, la quale trarremo per lo cognoscimento di noi medesimi. Noi vediamo, carissimi figliuoli e fratelli in Cristo dolce Gesù, che noi siamo tutti mortali; che, subitochè siamo creati nel ventre della madre nostra, siamo condannati alla morte, e dobbiamo morire, e non sappiamo quando né come. E chi sarà colui che, se egli considera in sé che la vita sua è tanto breve che aspetta di dì in dì la morte (perocché la vita nostra è quanto una punta [^10] d’ago), che non raffreni e tagli ogni disordinata letizia la quale pigliasi dalle stolte e vane letizie del mondo? Dico che si raffrenerà, e non cercherà né onori ne stati ne grandezza; né ricchezza possederà con avarizia: anco, se egli averà la ricchezza, sarà fatto dispensatore di Cristo a’ poveri, e non le vorrà possedere né tenere con superbia; anco con vera e profonda umiltà, vedendo e cognoscendo che veruna cosa ci é stabile né ferma in questa tenebrosa vita; ma ogni cosa passa via come il vento. Se ella é tribolazione, egli la porta pazientemente, perchè vede che é piccola ogni tribolazione che in questa vita potiamo sostenere. E perché é piccola? perchè è piccolo il tempo nostro. Perocché la fadiga che é passata, tu non l'hai; e quelle che sono a venire, non se’ sicuro d’avere, perché non sai se la morte ti verrà e sarai privato d’ogni fadiga. Hai dunque solo questo punto del tempo che t’é presente. Sicché la memoria della morte tolle la impazienzia nelle tribolazioni e la disordinata letizia nelle consolazioni"
+      }
+    },
+    {
+      "id": "l185",
+      "title": {
+        "it": "Lettera CLXXXV. A Gregorio XI"
+      }
+    },
+    {
+      "id": "l186",
+      "title": {
+        "it": "Lettera CLXXXVI. A Neri di Landoccio"
+      }
+    },
+    {
+      "id": "l187",
+      "title": {
+        "it": "Lettera CLXXXVII. A Don Giovanni Sabbatini da Bologna, e Don Taddeo de’ Malavolti da Siena, Monaci della Certosa a Belriguardo"
+      }
+    },
+    {
+      "id": "l188",
+      "title": {
+        "it": "Lettera CLXXXVIII. A Suor Bartolomea della Seta, nel monasterio di Santo Stefano in Pisa"
+      }
+    },
+    {
+      "id": "l189",
+      "title": {
+        "it": "Lettera CLXXXIX. A Monaci di Cerva la, e, a Fra Giovanni di Bindo, Niccolò di Ghida, ed altri suoi in Cristo figuoli, de’ Frati di Monte Oliveto presso Siena"
+      }
+    },
+    {
+      "id": "l190",
+      "title": {
+        "it": "Lettera CXC. A Francesco di Pipino Sarto da Firenze, [^1] e a Monna Agnesa sua donna"
+      }
+    },
+    {
+      "id": "l191",
+      "title": {
+        "it": "Lettera CXCI. A Tommaso d’Alviano"
+      }
+    },
+    {
+      "id": "l192",
+      "title": {
+        "it": "Lettera CXCII. A Neri di Landoccio"
+      }
+    },
+    {
+      "id": "l193",
+      "title": {
+        "it": "Lettera CXCIII. A Misser Lorenzo del Pino da Bologna, dottore in Decretali"
+      }
+    },
+    {
+      "id": "l194",
+      "title": {
+        "it": "Lettera CXCIV. A Monna Tora, figliuola di Misser Pietro Gambacorti in Pisa"
+      }
+    },
+    {
+      "id": "l195",
+      "title": {
+        "it": "Lettera CXCV. A Stefano di Corrado Maconi"
+      }
+    },
+    {
+      "id": "l198",
+      "title": {
+        "it": "Lettera CXCVIII. A Frate Bartolomeo Dominici dell’Ordine de’ Frati Predicatori in Asciano"
+      }
+    },
+    {
+      "id": "l205",
+      "title": {
+        "it": "Lettera CCV. A Stefano di Corrado flaconi, poverello d’ogni virili. \"^"
+      }
+    },
+    {
+      "id": "l228",
+      "title": {
+        "it": "Lettera CCXXVIII. A Neri di Landoccio"
+      }
+    },
+    {
+      "id": "l273",
+      "title": {
+        "it": "Lettera CCLXXIII. A frate Raimondo da Caglia dell’Ordine de’ Predicatori"
+      }
+    },
+    {
+      "id": "l274",
+      "title": {
+        "it": "Lettera CCLXXIV. A Francesco di Pipino sarto in Firenze, e a Monna Agnesa sua donna"
+      }
+    },
+    {
+      "id": "l324",
+      "title": {
+        "it": "Lettera CCCXXIV. A Stefano di Corrado Maconi"
+      }
+    }
+  ]
+}
