@@ -1,0 +1,66 @@
+{
+  "id": "berulle-voeux-de-servitude",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Vœux de servitude à Jésus et à Marie",
+    "en-US": "Vows of Servitude to Jesus and Mary",
+    "pt-BR": "Votos de servidão a Jesus e a Maria"
+  },
+  "author": {
+    "fr-FR": "Cardinal Pierre de Bérulle",
+    "en-US": "Cardinal Pierre de Bérulle",
+    "pt-BR": "Cardeal Pierre de Bérulle"
+  },
+  "description": {
+    "fr-FR": "Le narré des vœux de servitude, le vœu à Dieu, le vœu à Marie et les approbations qui les accompagnent.",
+    "en-US": "The account of the vows of servitude, the vow to God, the vow to Mary and the approbations that go with them.",
+    "pt-BR": "O relato dos votos de servidão, o voto a Deus, o voto a Maria e as aprovações que os acompanham."
+  },
+  "composed": 1620,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "berulle/voeux-de-servitude",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescompl00br",
+      "edition": "Œuvres complètes du cardinal de Bérulle, éd. Migne, Paris, 1856 (reprint of Bourgoing’s 1644 collected edition); archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors, merged columns and some chapter openings the scan lost remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Bérulle died in 1629; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "voeux-a-jesus-et-a-marie",
+      "title": {
+        "fr-FR": "Narré des vœux de servitude et récit des persécutions qu’ils ont excitées"
+      }
+    },
+    {
+      "id": "voeu-a-dieu",
+      "title": {
+        "fr-FR": "Vœu à Dieu sur le mystère de l’Incarnation"
+      }
+    },
+    {
+      "id": "voeu-a-marie",
+      "title": {
+        "fr-FR": "Vœu à Marie"
+      }
+    },
+    {
+      "id": "approbations",
+      "title": {
+        "fr-FR": "Approbation des vœux et élévations précédentes"
+      }
+    }
+  ]
+}
