@@ -1,0 +1,174 @@
+{
+  "id": "bridget-sermo-angelicus",
+  "cover": "classic",
+  "name": {
+    "la": "Sermo angelicus de excellencia Marie virginis",
+    "en-US": "The Angelic Discourse on the Excellence of the Virgin Mary",
+    "pt-BR": "O Sermão Angélico sobre a excelência da Virgem Maria"
+  },
+  "author": {
+    "la": "Birgitta de Regno Swecie",
+    "en-US": "St. Bridget of Sweden",
+    "pt-BR": "Santa Brígida da Suécia"
+  },
+  "description": {
+    "la": "Sermo angelicus: vinti una lecciones ad matutinas hebdomadae sororum Ordinis Saluatoris, ab angelo dictatae de excellencia Mariae.",
+    "en-US": "The Angelic Discourse: twenty-one lessons for the weekly Matins of the Bridgettine sisters, dictated by an angel on the excellence of Mary.",
+    "pt-BR": "O Sermão Angélico: vinte e uma lições para as matinas semanais das irmãs brigitinas, ditadas por um anjo sobre a excelência de Maria."
+  },
+  "composed": "c. 1350",
+  "languages": [
+    "la"
+  ],
+  "work": "bridget-of-sweden/sermo-angelicus",
+  "editions": {
+    "la": {
+      "editor": "Sten Eklund (Svenska fornskriftsällskapet critical edition)",
+      "year": 1972
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.documentacatholicaomnia.eu/04z/z_1303-1373__Birgitta_de_Regno_Swecie__Revelaciones__LT.doc.html",
+      "edition": "Sancta Birgitta, Revelaciones / Opera minora, Samlingar utgivna av Svenska fornskriftsällskapet, Ser. 2, Latinska skrifter VII, ed. Sten Eklund (Stockholm, 1972).",
+      "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"XI\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
+      "tier": "B",
+      "tierEvidence": "Freely distributed online transcription of a medieval text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput 1"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput 2"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput 3"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput 4"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput 5"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput 6"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput 7"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput 8"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput 9"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput 10"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput 11"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput 12"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput 13"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput 14"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput 15"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput 16"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput 17"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput 18"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput 19"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput 20"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput 21"
+      }
+    }
+  ]
+}
