@@ -1,0 +1,222 @@
+{
+  "id": "butler-catechism",
+  "cover": "label",
+  "name": {
+    "en-US": "Butler's Catechism",
+    "pt-BR": "Catecismo de Butler"
+  },
+  "author": {
+    "en-US": "James Butler, Archbishop of Cashel",
+    "pt-BR": "James Butler, Arcebispo de Cashel"
+  },
+  "description": {
+    "en-US": "The Most Rev. Dr James Butler's Catechism (Ireland, 1775), revised, enlarged and improved and recommended by the four Roman Catholic Archbishops of Ireland as a general catechism: thirty short lessons of questions and answers on God, creation, the Creed, the commandments, the sacraments, the last things and the general judgment, with Bishop Milner's Scriptural Catechism and an appendix.",
+    "pt-BR": "O Catecismo do Rev.mo Dr. James Butler (Irlanda, 1775), revisto, ampliado, melhorado e recomendado pelos quatro arcebispos católicos da Irlanda como catecismo geral: trinta lições breves de perguntas e respostas sobre Deus, a criação, o Credo, os mandamentos, os sacramentos, as últimas coisas e o juízo final, com o Catecismo Bíblico do bispo Milner e um apêndice."
+  },
+  "composed": 1775,
+  "languages": [
+    "en-US"
+  ],
+  "work": "butler/catechism",
+  "editions": {
+    "en-US": {
+      "editor": "the four Archbishops of Ireland",
+      "year": 1800
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/mostrev00butl",
+      "description": "Most Rev. Doctor James Butler's Catechism, revised, enlarged, improved and recommended by the four R. C. Archbishops of Ireland as a general catechism, to which is added the Scriptural Catechism by Bishop Milner (New York: D. & J. Sadlier), via the archive.org OCR text. Tier A: Butler's text is of 1775 and this printing is of the nineteenth century. Uncorrected OCR beyond rules; the lesson tablets at the end are left out."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lesson-01",
+      "title": {
+        "en-US": "Lesson 1: On God, and the Creation of the world"
+      }
+    },
+    {
+      "id": "lesson-02",
+      "title": {
+        "en-US": "Lesson 2: On Many and the End of his Creation"
+      }
+    },
+    {
+      "id": "lesson-03",
+      "title": {
+        "en-US": "Lesson 3: On the Apostles' Creed"
+      }
+    },
+    {
+      "id": "lesson-04",
+      "title": {
+        "en-US": "Lesson 4: On the Trinity, and Incarnation"
+      }
+    },
+    {
+      "id": "lesson-05",
+      "title": {
+        "en-US": "Lesson 5: On our First Parents, fyc"
+      }
+    },
+    {
+      "id": "lesson-06",
+      "title": {
+        "en-US": "Lesson 6: On original Sin, <$fc"
+      }
+    },
+    {
+      "id": "lesson-07",
+      "title": {
+        "en-US": "Lesson 7: On Jesus Christ, <SfC"
+      }
+    },
+    {
+      "id": "lesson-08",
+      "title": {
+        "en-US": "Lesson 8: On Christ9 s descent into Hell, and on his resurrection and ascension into Heaven"
+      }
+    },
+    {
+      "id": "lesson-09",
+      "title": {
+        "en-US": "Lesson 9: On the descent of the Holy Ghost, on the New Law, and the Sign of the Cross"
+      }
+    },
+    {
+      "id": "lesson-10",
+      "title": {
+        "en-US": "Lesson 10: On the true Church,"
+      }
+    },
+    {
+      "id": "lesson-11",
+      "title": {
+        "en-US": "Lesson 11: The Church continued"
+      }
+    },
+    {
+      "id": "lesson-12",
+      "title": {
+        "en-US": "Lesson 12: On Sin"
+      }
+    },
+    {
+      "id": "lesson-13",
+      "title": {
+        "en-US": "Lesson 13: On Purgatory"
+      }
+    },
+    {
+      "id": "lesson-14",
+      "title": {
+        "en-US": "Lesson 14: On the Ten Commandments. Q. Say the Ten Commandments of God. A. 1. I am the Lord thy God, thou shalt not have strange gods before me, &c*"
+      }
+    },
+    {
+      "id": "lesson-15",
+      "title": {
+        "en-US": "Lesson 15: On the First Commandment"
+      }
+    },
+    {
+      "id": "lesson-16",
+      "title": {
+        "en-US": "Lesson 16: First Commandment continued"
+      }
+    },
+    {
+      "id": "lesson-17",
+      "title": {
+        "en-US": "Lesson 17: On tlie Second, Third, and Fourth Commandments"
+      }
+    },
+    {
+      "id": "lesson-18",
+      "title": {
+        "en-US": "Lesson 18: On the Fifth, Sixth, Seventh, and Eighth Commandments"
+      }
+    },
+    {
+      "id": "lesson-19",
+      "title": {
+        "en-US": "Lesson 19: On tlbe Ninth and Tenth Commandments"
+      }
+    },
+    {
+      "id": "lesson-20",
+      "title": {
+        "en-US": "Lesson 20: On t1& Precepts of the Church"
+      }
+    },
+    {
+      "id": "lesson-21",
+      "title": {
+        "en-US": "Lesson 21: On Prayer"
+      }
+    },
+    {
+      "id": "lesson-22",
+      "title": {
+        "en-US": "Lesson 22: On the LorcPs Prayer, and Hail Mary. Q. Who made the Lord's prayer 1 A. Jesus Christ. Matt. vi. 9, 10. Q. Whom do you call our Fathtr, when you say the Lord's Prayer?"
+      }
+    },
+    {
+      "id": "lesson-23",
+      "title": {
+        "en-US": "Lesson 23: On the Sacraments, and on Baptism"
+      }
+    },
+    {
+      "id": "lesson-24",
+      "title": {
+        "en-US": "Lesson 24: On Confirmation"
+      }
+    },
+    {
+      "id": "lesson-25",
+      "title": {
+        "en-US": "Lesson 25: On the blessed Eucharist"
+      }
+    },
+    {
+      "id": "lesson-26",
+      "title": {
+        "en-US": "Lesson 26: On Communion and Penance"
+      }
+    },
+    {
+      "id": "lesson-27",
+      "title": {
+        "en-US": "Lesson 27: On Confession, and on Indulgence"
+      }
+    },
+    {
+      "id": "lesson-28",
+      "title": {
+        "en-US": "Lesson 28: On Extreme Unction, Holy Orders, and Matrimony"
+      }
+    },
+    {
+      "id": "lesson-29",
+      "title": {
+        "en-US": "Lesson 29: On the General Judgment"
+      }
+    },
+    {
+      "id": "scriptural-catechism",
+      "title": {
+        "en-US": "The Scriptural Catechism, by Bishop Milner"
+      }
+    },
+    {
+      "id": "appendix",
+      "title": {
+        "en-US": "Appendix"
+      }
+    }
+  ]
+}
