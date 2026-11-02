@@ -34,7 +34,7 @@ def inline(h, para=True):
         t = m.group(0)
         num = re.search(r'name="return(\d+)"', t) or re.search(r'(?:Notes?|Name)\s*(\d+)', re.sub(r'<[^>]*>', ' ', t)) or re.search(r'href="#note(\d+)"', t)
         return '\x00%s\x01' % (num.group(1) if num else '1')
-    h = re.sub(r'\[(?:(?!\]).){0,250}?href="#note\s*\d*"[^>]*>(?:\s|<[^>]*>)*(?:Notes?|Name)[\s\d]*</a>(?:\s|<[^>]*>)*\]', _marker, h, flags=re.S)
+    h = re.sub(r'\[(?:(?!\]).){0,250}?href="#note\s*\d*"[^>]*>(?:\s|<[^>]*>)*(?:Notes?|Name)[\s\d]*\]?</a>(?:\s|<[^>]*>)*\]?', _marker, h, flags=re.S)
     h = re.sub(r'<a href="#return\d+">Return to text</a>', '', h)
     h = re.sub(r'<a name="[^"]*"></a>', '', h)
     h = re.sub(r'<br\s*/?>', '\x02', h)
@@ -127,8 +127,11 @@ def convert(url, title=None, keep_first_heading=False, start=None, stop=None):
     notes, last = {}, None
     hm = re.search(r'name="note\s*(\d+)"', bl[nidx][1]) if nidx < len(bl) else None
     nxt = int(hm.group(1)) if hm else 1
+    pieces = []
     for t, b in bl[nidx + 1:]:
         if t != 'p': continue
+        pieces += [x for x in re.split(r'(?=<a [^>]*name="note\s*\d+")', b) if x.strip()]
+    for b in pieces:
         txt = re.sub(r'\s*(?:\[[^\]]*NR\*?\*?\])?\s*Return to text\s*$', '', inline(b, para=False))
         am = re.search(r'name="note\s*(\d+)"', b)
         mm = re.match(r'^(\d+)\.\s*(.*)$', txt, re.S)
