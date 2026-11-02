@@ -1,0 +1,108 @@
+{
+  "id": "fenelon-existence-de-dieu",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Traité de l’existence et des attributs de Dieu",
+    "en-US": "Treatise on the Existence and Attributes of God",
+    "pt-BR": "Tratado da existência e dos atributos de Deus"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La démonstration de l’existence de Dieu par le spectacle de la nature (première partie, 1712) et par l’idée de l’infini dans l’homme (seconde partie), avec l’examen des attributs divins. Publié de façon posthume (1712-1718), écrit pour le duc de Bourgogne.",
+    "en-US": "The demonstration of God’s existence from the spectacle of nature (first part, 1712) and from the idea of the infinite in man (second part), with an examination of the divine attributes. Published posthumously (1712-1718); written for the Duke of Burgundy.",
+    "pt-BR": "A demonstração da existência de Deus pelo espetáculo da natureza (primeira parte, 1712) e pela ideia do infinito no homem (segunda parte), com o exame dos atributos divinos. Publicado postumamente (1712-1718); escrito para o duque de Borgonha."
+  },
+  "composed": "1700–1712",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/existence-de-dieu",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvresdefenelon01fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 1, p. 1–88; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-ch1",
+      "title": {
+        "fr-FR": "Première partie, chapitre 1 : preuve de l’existence de Dieu tirée de la nature"
+      }
+    },
+    {
+      "id": "p1-ch2-01",
+      "title": {
+        "fr-FR": "Première partie, chapitre 2, partie 1"
+      }
+    },
+    {
+      "id": "p1-ch2-02",
+      "title": {
+        "fr-FR": "Première partie, chapitre 2, partie 2"
+      }
+    },
+    {
+      "id": "p1-ch2-03",
+      "title": {
+        "fr-FR": "Première partie, chapitre 2, partie 3"
+      }
+    },
+    {
+      "id": "p1-ch3",
+      "title": {
+        "fr-FR": "Première partie, chapitre 3"
+      }
+    },
+    {
+      "id": "p2-ch1",
+      "title": {
+        "fr-FR": "Seconde partie, chapitre 1"
+      }
+    },
+    {
+      "id": "p2-ch2",
+      "title": {
+        "fr-FR": "Seconde partie, chapitre 2 : les trois preuves"
+      }
+    },
+    {
+      "id": "p2-ch3",
+      "title": {
+        "fr-FR": "Seconde partie, chapitre 3"
+      }
+    },
+    {
+      "id": "p2-ch4",
+      "title": {
+        "fr-FR": "Seconde partie, chapitre 4"
+      }
+    },
+    {
+      "id": "p2-ch5-01",
+      "title": {
+        "fr-FR": "Seconde partie, chapitre 5 : les attributs de Dieu, partie 1"
+      }
+    },
+    {
+      "id": "p2-ch5-02",
+      "title": {
+        "fr-FR": "Seconde partie, chapitre 5 : les attributs de Dieu, partie 2"
+      }
+    }
+  ]
+}
