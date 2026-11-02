@@ -1,0 +1,234 @@
+{
+  "id": "bridget-regula-salvatoris",
+  "cover": "classic",
+  "name": {
+    "la": "Regula Salvatoris",
+    "en-US": "The Rule of the Savior",
+    "pt-BR": "A Regra do Salvador"
+  },
+  "author": {
+    "la": "Birgitta de Regno Swecie",
+    "en-US": "St. Bridget of Sweden",
+    "pt-BR": "Santa Brígida da Suécia"
+  },
+  "description": {
+    "la": "Regula Sancti Saluatoris: regula Ordinis Sanctissimi Saluatoris, a Christo Birgittae dictata, cum prologo et declaracione.",
+    "en-US": "The Rule of the Savior, dictated by Christ to Bridget for the monastic order she founded at Vadstena, with its prologue and declaration.",
+    "pt-BR": "A Regra do Salvador, ditada por Cristo a Brígida para a ordem monástica que fundou em Vadstena, com seu prólogo e sua declaração."
+  },
+  "composed": "1346",
+  "languages": [
+    "la"
+  ],
+  "work": "bridget-of-sweden/regula-salvatoris",
+  "editions": {
+    "la": {
+      "editor": "Sten Eklund (Svenska fornskriftsällskapet critical edition)",
+      "year": 1975
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.documentacatholicaomnia.eu/04z/z_1303-1373__Birgitta_de_Regno_Swecie__Revelaciones__LT.doc.html",
+      "edition": "Sancta Birgitta, Revelaciones / Opera minora, Samlingar utgivna av Svenska fornskriftsällskapet, Ser. 2, Latinska skrifter VII, ed. Sten Eklund (Stockholm, 1975).",
+      "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"X\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
+      "tier": "B",
+      "tierEvidence": "Freely distributed online transcription of a medieval text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "la": "Pars 1"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "la": "Pars 2"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "la": "Pars 3"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "la": "Pars 4"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "la": "Pars 5"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "la": "Pars 6"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "la": "Pars 7"
+      }
+    },
+    {
+      "id": "p08",
+      "title": {
+        "la": "Pars 8"
+      }
+    },
+    {
+      "id": "p09",
+      "title": {
+        "la": "Pars 9"
+      }
+    },
+    {
+      "id": "p10",
+      "title": {
+        "la": "Pars 10"
+      }
+    },
+    {
+      "id": "p11",
+      "title": {
+        "la": "Pars 11"
+      }
+    },
+    {
+      "id": "p12",
+      "title": {
+        "la": "Pars 12"
+      }
+    },
+    {
+      "id": "p13",
+      "title": {
+        "la": "Pars 13"
+      }
+    },
+    {
+      "id": "p14",
+      "title": {
+        "la": "Pars 14"
+      }
+    },
+    {
+      "id": "p15",
+      "title": {
+        "la": "Pars 15"
+      }
+    },
+    {
+      "id": "p16",
+      "title": {
+        "la": "Pars 16"
+      }
+    },
+    {
+      "id": "p17",
+      "title": {
+        "la": "Pars 17"
+      }
+    },
+    {
+      "id": "p18",
+      "title": {
+        "la": "Pars 18"
+      }
+    },
+    {
+      "id": "p19",
+      "title": {
+        "la": "Pars 19"
+      }
+    },
+    {
+      "id": "p20",
+      "title": {
+        "la": "Pars 20"
+      }
+    },
+    {
+      "id": "p21",
+      "title": {
+        "la": "Pars 21"
+      }
+    },
+    {
+      "id": "p22",
+      "title": {
+        "la": "Pars 22"
+      }
+    },
+    {
+      "id": "p23",
+      "title": {
+        "la": "Pars 23"
+      }
+    },
+    {
+      "id": "p24",
+      "title": {
+        "la": "Pars 24"
+      }
+    },
+    {
+      "id": "p25",
+      "title": {
+        "la": "Pars 25"
+      }
+    },
+    {
+      "id": "p26",
+      "title": {
+        "la": "Pars 26"
+      }
+    },
+    {
+      "id": "p27",
+      "title": {
+        "la": "Pars 27"
+      }
+    },
+    {
+      "id": "p28",
+      "title": {
+        "la": "Pars 28"
+      }
+    },
+    {
+      "id": "p29",
+      "title": {
+        "la": "Pars 29"
+      }
+    },
+    {
+      "id": "p30",
+      "title": {
+        "la": "Pars 30"
+      }
+    },
+    {
+      "id": "p31",
+      "title": {
+        "la": "Pars 31"
+      }
+    },
+    {
+      "id": "p32",
+      "title": {
+        "la": "Pars 32"
+      }
+    }
+  ]
+}
