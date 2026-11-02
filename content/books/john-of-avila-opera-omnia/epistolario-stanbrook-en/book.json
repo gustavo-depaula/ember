@@ -1,0 +1,190 @@
+{
+  "id": "avila-epistolario-stanbrook",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letters of Blessed John of Avila",
+    "pt-BR": "Cartas do Beato João de Ávila (inglês, 1904)"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "en-US": "Twenty-five letters of St. John of Ávila translated by the Benedictines of Stanbrook Abbey (London, Burns & Oates, 1904), among them those to St. Teresa, to Guzmán and Loarte, and to the Jesuit Antonio de Córdoba, each with the translators' short headnote. Each letter carries the number it has in the Spanish Epistolario espiritual of this corpus; letters that book lacks are marked with their number in Sala Balust's critical edition (BAC 1952) or as unidentified.",
+    "pt-BR": "Vinte e cinco cartas de São João de Ávila traduzidas pelas Beneditinas de Stanbrook (1904)."
+  },
+  "composed": "1535–1569",
+  "languages": [
+    "en-US"
+  ],
+  "work": "john-of-avila/epistolario",
+  "editions": {
+    "en-US": {
+      "translator": "Benedictines of Stanbrook Abbey",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/LettersOfBlessedJohnOfAvila1904",
+      "edition": "Letters of Blessed John of Avila, translated by the Benedictines of Stanbrook, London: Burns & Oates, 1904 (2 vols. in 1); archive.org scan, OCR. Cross-checked with archive.org lettersofblessed00johnuoft.",
+      "description": "All 25 letters with the translators' headnotes and footnotes; the preface is not included. OCR not proofread. The correspondence with the Spanish letters was made by comparing subjects, not word by word.",
+      "tier": "A",
+      "tierEvidence": "Printed 1904; the scan is marked as not in copyright."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l006",
+      "title": {
+        "en-US": "Letter 6. To a priest, on due preparation for saying Mass"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "en-US": "Letter 19. To a lady who had asked what charity was"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "en-US": "Letter 24. To a young lady about to consecrate herself by vow to our Lord"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "en-US": "Letter 30. To a lady, on the feast of the Epiphany"
+      }
+    },
+    {
+      "id": "l034",
+      "title": {
+        "en-US": "Letter 34. To a young lady, on making ready to receive the new-born Jesus"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "en-US": "Letter 35. To a lady, on confidence in God"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "en-US": "Letter 40. To some friends undergoing persecution"
+      }
+    },
+    {
+      "id": "l043",
+      "title": {
+        "en-US": "Letter 43. To one of his disciples, teaching him how to lead a good life"
+      }
+    },
+    {
+      "id": "l051",
+      "title": {
+        "en-US": "Letter 51. To a friend, on the management of a household"
+      }
+    },
+    {
+      "id": "l056",
+      "title": {
+        "en-US": "Letter 56. To console a young lady in great affliction"
+      }
+    },
+    {
+      "id": "l066",
+      "title": {
+        "en-US": "Letter 66. To a lady, on what constitutes true holiness"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "en-US": "Letter 78. To an invalid lady"
+      }
+    },
+    {
+      "id": "l081",
+      "title": {
+        "en-US": "Letter 81. On scruples, to a lady"
+      }
+    },
+    {
+      "id": "l082",
+      "title": {
+        "en-US": "Letter 82. To a dying Jesuit, one of his disciples"
+      }
+    },
+    {
+      "id": "l083",
+      "title": {
+        "en-US": "Letter 83. To St. Teresa of Jesus, on her account of her spiritual life"
+      }
+    },
+    {
+      "id": "b035",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 35. To a lady, on the feast of Pentecost"
+      }
+    },
+    {
+      "id": "b088",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 88. To console a lady grieving for the absence of her son"
+      }
+    },
+    {
+      "id": "b106",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 106. To a widow, consoling her for the death of her husband"
+      }
+    },
+    {
+      "id": "b137",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 137. On preparation for death"
+      }
+    },
+    {
+      "id": "b138",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 138. To a friend, on tepidity"
+      }
+    },
+    {
+      "id": "b144",
+      "title": {
+        "en-US": "Letter, Sala Balust no. 144. To a gentleman who was ill"
+      }
+    },
+    {
+      "id": "u02",
+      "title": {
+        "en-US": "Letter, number unidentified. To Don Diego de Guzmán and Dr. Loarte, on their entering the Society of Jesus"
+      }
+    },
+    {
+      "id": "u16",
+      "title": {
+        "en-US": "Letter, number unidentified. To a lady of rank, encouraging her to serve God"
+      }
+    },
+    {
+      "id": "u23",
+      "title": {
+        "en-US": "Letter, number unidentified. To a devout person, on humility, pride and the perfect love of God"
+      }
+    },
+    {
+      "id": "u25",
+      "title": {
+        "en-US": "Letter, number unidentified. To a lady, on the feasts of Pentecost and Corpus Christi"
+      }
+    }
+  ]
+}
