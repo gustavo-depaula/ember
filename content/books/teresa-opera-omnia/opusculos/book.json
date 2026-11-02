@@ -12,9 +12,9 @@
     "pt-BR": "Santa Teresa de Ávila"
   },
   "description": {
-    "es-ES": "Los escritos breves de Santa Teresa para el gobierno de sus monjas y para sus amigos: las Constituciones (1567), el Modo de visitar los conventos de las Carmelitas Descalzas, los Avisos, la Respuesta a un desafío espiritual, el Vejamen y los Pensamientos y sentencias. Un capítulo por pieza; texto crítico del P. Silverio de Santa Teresa, con sus notas.",
-    "en-US": "St. Teresa's short writings for the government of her nuns and for her friends: the Constitutions (1567), the Manner of Visiting the Convents of Discalced Carmelites, the Maxims, the Reply to a Spiritual Challenge, the Vejamen and the Thoughts and Sayings. One chapter per piece; P. Silverio de Santa Teresa's critical text with his notes (Spanish only).",
-    "pt-BR": "Os escritos breves de Santa Teresa para o governo das suas monjas e para os amigos: as Constituições, o Modo de visitar os conventos, os Avisos, a Resposta a um desafio espiritual, o Vejamen e os Pensamentos e sentenças."
+    "es-ES": "Los escritos breves de Santa Teresa para el gobierno de sus monjas y para sus amigos: las Constituciones (1567), el Modo de visitar los conventos de las Carmelitas Descalzas, los Avisos, la Respuesta a un desafío espiritual, el Vejamen los Pensamientos y sentencias y, del apéndice del tomo, las Ordenanzas de una cofradía (los estatutos de la cofradía de Nuestra Señora de Calvarrasa de Arriba, que la tradición atribuye a la Santa). Un capítulo por pieza; texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "St. Teresa's short writings for the government of her nuns and for her friends: the Constitutions (1567), the Manner of Visiting the Convents of Discalced Carmelites, the Maxims, the Reply to a Spiritual Challenge, the Vejamen the Thoughts and Sayings and, from the volume's appendix, the Ordinances of a Confraternity (the statutes of the Calvarrasa de Arriba confraternity of Our Lady, traditionally attributed to the Saint). One chapter per piece; P. Silverio de Santa Teresa's critical text with his notes (Spanish only).",
+    "pt-BR": "Os escritos breves de Santa Teresa para o governo das suas monjas e para os amigos: as Constituições, o Modo de visitar os conventos, os Avisos, a Resposta a um desafio espiritual, o Vejamen os Pensamentos e sentenças e, do apêndice do volume, as Ordenações de uma confraria (os estatutos da confraria de Nossa Senhora de Calvarrasa de Arriba, que a tradição atribui à Santa)."
   },
   "composed": "1567–1581",
   "languages": [
@@ -31,7 +31,7 @@
     {
       "language": "es-ES",
       "url": "https://archive.org/details/obrasdesantatere06tere",
-      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. VI: Opúsculos (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1919, pp. 5–125. Princeton Theological Seminary scan, primary OCR.",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. VI: Opúsculos (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1919, pp. 5–125, and the Ordenanzas de una cofradía from the appendix (pp. 538–539). Princeton Theological Seminary scan, primary OCR.",
       "description": "Spanish critical text with Silverio's notes kept as footnotes; his introduction and appendices are not included. OCR of two independent scans merged word by word.",
       "tier": "A",
       "tierEvidence": "Teresa died in 1582; the volume was published in 1919 (public domain in the US) and P. Silverio died in 1954, so his notes are public domain under life+70 since 1 January 2025."
@@ -79,6 +79,12 @@
       "id": "pensamientos",
       "title": {
         "es-ES": "Pensamientos y sentencias"
+      }
+    },
+    {
+      "id": "ordenanzas",
+      "title": {
+        "es-ES": "Ordenanzas de una cofradía"
       }
     }
   ]
