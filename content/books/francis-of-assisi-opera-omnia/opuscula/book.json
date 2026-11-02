@@ -1,0 +1,310 @@
+{
+  "id": "francis-opuscula",
+  "cover": "classic",
+  "name": {
+    "la": "Opuscula",
+    "en-US": "The Writings of St. Francis (Opuscula)",
+    "pt-BR": "Os Escritos de São Francisco (Opuscula)"
+  },
+  "author": {
+    "la": "Sanctus Franciscus Assisiensis",
+    "en-US": "St. Francis of Assisi",
+    "pt-BR": "São Francisco de Assis"
+  },
+  "description": {
+    "la": "Opuscula omnia sancti Francisci Assisiensis secundum canonem Kajetani Esser (1978): Admonitiones, Regula non bullata et Regula bullata, Testamentum, epistolae, benedictiones, Laudes Dei altissimi, Officium Passionis et cetera. Canticum fratris Solis et « Audite, poverelle » sunt umbrice, in eodem ordine.",
+    "en-US": "The complete writings of St. Francis in Latin, in the critical edition of Kajetan Esser (1978), one chapter per piece: the Admonitions, the Earlier Rule (1221) and the Later Rule (1223), the Testament, the letters, the blessings, the Praises of God, the Office of the Passion and the rest. The Canticle of the Creatures (Canticum fratris Solis) and \"Audite, poverelle\" are in the original Umbrian Italian, each as its own chapter, and sit in the Latin folder of this book. Verse numbers are Esser's; the Scripture references in brackets are his apparatus. Doubtful pieces (letters to the Bolognese and the French friars, to Lady Jacoba, Clare's letter on fasting) are included and labelled as in the edition.",
+    "pt-BR": "Os escritos completos de São Francisco em latim, na edição crítica de Kajetan Esser (1978), um capítulo por peça: as Admoestações, a Regra não bulada (1221) e a Regra bulada (1223), o Testamento, as cartas, as bênçãos, os Louvores de Deus, o Ofício da Paixão e o restante. O Cântico das Criaturas (Canticum fratris Solis) e « Audite, poverelle » estão no italiano umbro original, cada um em seu capítulo."
+  },
+  "composed": "1205-1226",
+  "languages": [
+    "la"
+  ],
+  "work": "francis-of-assisi/opuscula",
+  "editions": {
+    "la": {
+      "editor": "Kajetan Esser, O.F.M. (Opuscula Sancti Patris Francisci Assisiensis, Bibliotheca Franciscana Ascetica Medii Aevi 12, Grottaferrata: Editiones Collegii S. Bonaventurae), as reproduced on franciscanos.org",
+      "year": 1978
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.franciscanos.org/esfa/omfra.html",
+      "edition": "Opuscula omnia sancti Francisci Assisiensis, Esser 1978 critical edition, in the Directorio Franciscano of the OFM (Valencia), all 40 pieces on one page.",
+      "description": "All 40 pieces of the Esser canon, one chapter each (the long Admonitions, Rules and Office of the Passion keep their chapters and psalms as headings). Verse numbers appear as superscript numerals; the parenthetical Scripture references and Esser's sigla in square brackets are kept. The Canticle and Audite, poverelle are Esser's Umbrian text. Page furniture, the index and the sigla table were dropped. Not imported: the English of Paschal Robinson (1906), whose selection and grouping do not follow Esser's canon piece for piece.",
+      "tier": "B",
+      "tierEvidence": "The writings are 13th-century and public domain; the edition is Esser's (Grottaferrata 1978). The host's introduction states the texts are reproduced \"con la gentil y generosa autorización de los Editori di Quaracchi-Grottaferrata\" (the publisher's permission to franciscanos.org, not a general licence), so the critical text and Esser's verse division are free in practice, not public domain, and the friars' permission is the dependency."
+    }
+  ],
+  "toc": [
+    {
+      "id": "admonitiones-et-salutationes",
+      "title": {
+        "la": "Admonitiones"
+      },
+      "children": [
+        {
+          "id": "admonitiones",
+          "title": {
+            "la": "Admonitiones"
+          }
+        }
+      ]
+    },
+    {
+      "id": "regulae-et-testamenta",
+      "title": {
+        "la": "Regulae et testamenta"
+      },
+      "children": [
+        {
+          "id": "regula-non-bullata",
+          "title": {
+            "la": "Regula non bullata"
+          }
+        },
+        {
+          "id": "regula-bullata",
+          "title": {
+            "la": "Regula bullata"
+          }
+        },
+        {
+          "id": "fragmenta-alterius-regulae",
+          "title": {
+            "la": "Fragmenta alterius Regulae non bullatae"
+          }
+        },
+        {
+          "id": "regula-pro-eremitoriis",
+          "title": {
+            "la": "Regula pro eremitoriis data"
+          }
+        },
+        {
+          "id": "testamentum",
+          "title": {
+            "la": "Testamentum"
+          }
+        },
+        {
+          "id": "testamentum-senis-factum",
+          "title": {
+            "la": "Testamentum Senis factum"
+          }
+        },
+        {
+          "id": "forma-vivendi-sanctae-clarae",
+          "title": {
+            "la": "Forma vivendi sanctae Clarae"
+          }
+        },
+        {
+          "id": "ultima-voluntas-sanctae-clarae",
+          "title": {
+            "la": "Ultima voluntas sanctae Clarae scripta"
+          }
+        }
+      ]
+    },
+    {
+      "id": "epistolae",
+      "title": {
+        "la": "Epistolae"
+      },
+      "children": [
+        {
+          "id": "epistola-ad-fideles-i",
+          "title": {
+            "la": "Epistola ad fideles I"
+          }
+        },
+        {
+          "id": "epistola-ad-fideles-ii",
+          "title": {
+            "la": "Epistola ad fideles II"
+          }
+        },
+        {
+          "id": "epistola-ad-clericos-i",
+          "title": {
+            "la": "Epistola ad clericos I"
+          }
+        },
+        {
+          "id": "epistola-ad-clericos-ii",
+          "title": {
+            "la": "Epistola ad clericos II"
+          }
+        },
+        {
+          "id": "epistola-ad-custodes-i",
+          "title": {
+            "la": "Epistola ad custodes I"
+          }
+        },
+        {
+          "id": "epistola-ad-custodes-ii",
+          "title": {
+            "la": "Epistola ad custodes II"
+          }
+        },
+        {
+          "id": "epistola-ad-ministrum",
+          "title": {
+            "la": "Epistola ad ministrum"
+          }
+        },
+        {
+          "id": "epistola-toti-ordini",
+          "title": {
+            "la": "Epistola toti Ordini missa"
+          }
+        },
+        {
+          "id": "epistola-ad-populorum-rectores",
+          "title": {
+            "la": "Epistola ad populorum rectores"
+          }
+        },
+        {
+          "id": "epistola-ad-antonium",
+          "title": {
+            "la": "Epistola ad sanctum Antonium"
+          }
+        },
+        {
+          "id": "epistola-ad-fratrem-leonem",
+          "title": {
+            "la": "Epistola ad fratrem Leonem"
+          }
+        },
+        {
+          "id": "epistola-civibus-bononiensibus",
+          "title": {
+            "la": "Epistola civibus Bononiensibus"
+          }
+        },
+        {
+          "id": "epistola-fratribus-franciae",
+          "title": {
+            "la": "Epistola fratribus Franciae missa"
+          }
+        },
+        {
+          "id": "epistola-dominae-iacobae",
+          "title": {
+            "la": "Epistola dominae Iacobae"
+          }
+        },
+        {
+          "id": "epistola-clarae-de-ieiunio",
+          "title": {
+            "la": "Epistola sanctae Clarae de ieiunio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "benedictiones",
+      "title": {
+        "la": "Benedictiones"
+      },
+      "children": [
+        {
+          "id": "benedictio-fratri-leoni",
+          "title": {
+            "la": "Benedictio fratri Leoni data"
+          }
+        },
+        {
+          "id": "benedictio-fratri-bernardo",
+          "title": {
+            "la": "Benedictio fratri Bernardo data"
+          }
+        },
+        {
+          "id": "benedictio-sanctae-clarae",
+          "title": {
+            "la": "Benedictio sanctae Clarae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "laudes-et-orationes",
+      "title": {
+        "la": "Laudes, orationes, officium"
+      },
+      "children": [
+        {
+          "id": "officium-passionis",
+          "title": {
+            "la": "Officium Passionis Domini"
+          }
+        },
+        {
+          "id": "laudes-dei-altissimi",
+          "title": {
+            "la": "Laudes Dei altissimi"
+          }
+        },
+        {
+          "id": "laudes-ad-omnes-horas",
+          "title": {
+            "la": "Laudes ad omnes horas dicendae"
+          }
+        },
+        {
+          "id": "salutatio-beatae-mariae-virginis",
+          "title": {
+            "la": "Salutatio beatae Mariae Virginis"
+          }
+        },
+        {
+          "id": "salutatio-virtutum",
+          "title": {
+            "la": "Salutatio virtutum"
+          }
+        },
+        {
+          "id": "expositio-in-pater-noster",
+          "title": {
+            "la": "Expositio in Pater noster"
+          }
+        },
+        {
+          "id": "exhortatio-ad-laudem-dei",
+          "title": {
+            "la": "Exhortatio ad laudem Dei"
+          }
+        },
+        {
+          "id": "oratio-ante-crucifixum",
+          "title": {
+            "la": "Oratio ante crucifixum"
+          }
+        },
+        {
+          "id": "canticum-fratris-solis",
+          "title": {
+            "la": "Canticum fratris Solis (Umbrian)"
+          }
+        },
+        {
+          "id": "audite-poverelle",
+          "title": {
+            "la": "Audite, poverelle (Umbrian)"
+          }
+        },
+        {
+          "id": "de-vera-et-perfecta-laetitia",
+          "title": {
+            "la": "De vera et perfecta laetitia"
+          }
+        }
+      ]
+    }
+  ]
+}

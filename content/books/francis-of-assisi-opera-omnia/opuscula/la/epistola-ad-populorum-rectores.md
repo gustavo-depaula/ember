@@ -1,0 +1,7 @@
+# Epistola ad populorum rectores
+
+¹ Universis potestatibus et consulibus, iudicibus atque rectoribus ubique terrarum et omnibus aliis, ad quos litterae istae pervenerint, frater Franciscus, vester in Domino Deo servus parvulus ac despectus, salutem et pacem omnibus vobis optans.
+
+² Considerate et videte, quoniam dies mortis appropinquat (cfr. Gen 47,29). ³ Rogo ergo vos cum reverentia, sicut possum, ne propter curas et sollicitudines huius saeculi, quas habetis, Dominum oblivioni tradatis et a mandatis eius declinetis, quia omnes illi, *qui* eum oblivioni tradunt et *a mandatis* eius *declinant, maledicti* sunt (cfr. Ps 118,21) et ab eo *oblivioni tradentur* (Ezech 33,13). ⁴ Et, cum venerit dies mortis, omnia, quae putabant habere, auferentur ab eis (cfr. Lc 8,18). ⁵ Et, quanto sapientiores et potentiores fuerint in hoc saeculo, tanto maiora tormenta sustinebumt in inferno (cfr. Sap 6,7). ⁶ Unde firmiter consulo vobis, dominis meis, ut omni cura et sollicitudine posthabitis et sanctissimum corpus et sanctissimum sanguinem Domini nostri Jesu Christi in eius sancta commemoratione benigne recipiatis. ⁷ Et tantum honorem in populo vobis commisso Domino conferatis, ut quolibet sero annuntietur per nuntium vel per aliud signum, quo omnipotenti Domino Deo ab universo populo laudes et gratiae referantur. ⁸ Et, si hoc non feceritis, sciatis vos debere coram Domino Deo vestro Jesu Christo *in die iudicii* reddere *rationem* (cfr. Mt 12,36).
+
+⁹ Hoc scriptum qui apud se retinuerint et observaverint illud, a Domino Deo se noverint benedictos.

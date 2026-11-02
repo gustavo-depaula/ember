@@ -1,0 +1,7 @@
+# Salutatio virtutum
+
+¹ Ave, regina sapientia, Dominus te salvet cum tua sorore sancta pura simplicitate. ² Domina sancta paupertas, Dominus te salvet cum tua sorore sancta humilitate. ³ Domina sancta caritas, Dominus te salvet cum tua sorore sancta obedientia. ⁴ Sanctissimae virtutes, omnes vos salvet Dominus, a quo venitis et proceditis.
+
+⁵ Nullus homo est penitus in toto mundo, qui unam ex vobis possit habere, nisi prius moriatur. ⁶ Qui unam habet et alias non offendit, omnes habet. ⁷ Et qui unam offendit, nullam habet et omnes offendit (cfr. Jac 2,10). ⁸ Et unaquaque confundit vitia et peccata.
+
+⁹ Sancta sapientia confundit satan et omnes malitias eius. ¹⁰ Pura sancta simplicitas confundit omnem sapientiam huius mundi (cfr. 1 Cor 2,6) et sapientiam corporis. ¹¹ Sancta paupertas confundit cupiditatem et avaritiam et curas huius saeculi. ¹² Sancta humilitas confundit superbiam et omnes homines, qui sunt in mundo, similiter et omnia, quae in mundo sunt. ¹³ Sancta caritas confundit omnes diabolicas et carnales tentationes et omnes carnales timores (cfr. 1 Joa 4,18). ¹⁴ Sancta obedientia confundit omnes corporales et carnales voluntates ¹⁵ et habet mortificatum corpus suum ad obedientiam spiritus et ad obedientiam fratris sui ¹⁶ et est subditus et suppositus omnibus hominibus, qui sunt in mundo, ¹⁷ et non tantum solis hominibus, sed etiam omnibus bestiis et feris, ¹⁸ ut possint facere de eo, quicquid voluerint, quantum fuerit eis *datum desuper* a Domino (cfr. Joa 19,11).
