@@ -1,0 +1,465 @@
+{
+  "id": "actus-beati-francisci",
+  "cover": "classic",
+  "name": {
+    "la": "Actus beati Francisci et sociorum eius",
+    "en-US": "The Deeds of Blessed Francis and His Companions (Actus)",
+    "pt-BR": "Os Feitos do bem-aventurado Francisco e seus companheiros (Actus)"
+  },
+  "author": {
+    "la": "Auctor incertus saeculi XIV",
+    "en-US": "Anonymous (14th century)",
+    "pt-BR": "Anônimo (século XIV)"
+  },
+  "description": {
+    "la": "Actus beati Francisci et sociorum eius (c. 1328-1337), fons latinus Fiorettorum: capita I-LXVIII (quae in fonte exstant; cap. LXIX-LXXVI desunt) de Francisco, de fratribus Bernardo, Egidio, Iuniperio, Massaeo et aliis, de stigmatibus Alvernae.",
+    "en-US": "The Deeds of Blessed Francis and His Companions (c. 1328-1337), the Latin source of the Fioretti: stories of Francis and of Brothers Bernard, Giles, Juniper, Masseo and others, ending with the stigmata at La Verna. The Fioretti (a separate book here) is its Italian reworking, with a different set of chapters. Latin only. The source carries chapters I to LXVIII; chapters LXIX to LXXVI of the complete work are not in it.",
+    "pt-BR": "Os Feitos do bem-aventurado Francisco e seus companheiros (c. 1328-1337), a fonte latina dos Fioretti."
+  },
+  "composed": "1328-1337",
+  "languages": [
+    "la"
+  ],
+  "work": "francis-of-assisi/actus-beati-francisci",
+  "editions": {
+    "la": {
+      "editor": "transcription by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_attifrancesco_lat.html",
+      "edition": "Actus beati Francisci et sociorum eius, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "Chapters I to LXVIII, the whole of the Wayback snapshot (the page has two parts; the second starts at LXV and is kept in sequence). Chapters LXIX-LXXVI of the complete work (Sabatier 1902, archive.org actusbeatifranc00sabagoog) are not on this source. Latin only.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "pars-1",
+      "title": {
+        "la": "Pars 1"
+      },
+      "children": [
+        {
+          "id": "cap-001",
+          "title": {
+            "la": "Caput I - De expropriatione perfecta s. fr. Bernardi ad predicationem ss.mi p.n. Francisci."
+          }
+        },
+        {
+          "id": "cap-002",
+          "title": {
+            "la": "Caput II - De humilitate et obedientia s. Francisci et fr. Bernardi."
+          }
+        },
+        {
+          "id": "cap-003",
+          "title": {
+            "la": "Caput III - De fr. Bernardo, quando angelus transivit sibi flumen."
+          }
+        },
+        {
+          "id": "cap-004",
+          "title": {
+            "la": "Caput IV - De fr. Bernardo, quomodo ivit Bononiam."
+          }
+        },
+        {
+          "id": "cap-005",
+          "title": {
+            "la": "Caput V - De morte gratiosa fr. Bernardi."
+          }
+        },
+        {
+          "id": "cap-006",
+          "title": {
+            "la": "Caput VI - De mirabili ieiunio quadragesimali s. Francisci."
+          }
+        },
+        {
+          "id": "cap-007",
+          "title": {
+            "la": "Caput VII - De magisterio s. Francisci ad fr. Leonem, quad in sola cruce sit perfecta letitia."
+          }
+        },
+        {
+          "id": "cap-008",
+          "title": {
+            "la": "Caput VIII - De locutione Dei facta ad s. Franciscum per fr. Leonem."
+          }
+        },
+        {
+          "id": "cap-009",
+          "title": {
+            "la": "Caput IX - De inventione montis Alverne."
+          }
+        },
+        {
+          "id": "cap-010",
+          "title": {
+            "la": "Caput X - Qualiter fr. Masseus humilitatem s. Francisci investigavit."
+          }
+        },
+        {
+          "id": "cap-011",
+          "title": {
+            "la": "Caput XI - Qualiter s. Franciscus intellexit archana cordis fr. Massei."
+          }
+        },
+        {
+          "id": "cap-012",
+          "title": {
+            "la": "Caput XII - Qualiter fr. Masseus fuit probatus a s. Francisco."
+          }
+        },
+        {
+          "id": "cap-013",
+          "title": {
+            "la": "Caput XIII - Qualiter s. Franciscus fr. Masseum levavit in aere cum flatu, et quomodo s. Petrus et s. Paulus apparuerunt s. Francisco Rome in ecclesia s. Petri."
+          }
+        },
+        {
+          "id": "cap-014",
+          "title": {
+            "la": "Caput XIV - Qualiter, loquente s. Francisco cum sociis de Deo, Cristus apparuit in medio eorum."
+          }
+        },
+        {
+          "id": "cap-015",
+          "title": {
+            "la": "Caput XV - Qualiter s. Franciscus et socii eius simul cum s. Clara fuerunt rapti in loco Portiuncule."
+          }
+        },
+        {
+          "id": "cap-016",
+          "title": {
+            "la": "Caput XVI - Qualiter Deus revelavit s. Clare et fr. Silvestro quod s. Franciscus deberet predicare."
+          }
+        },
+        {
+          "id": "cap-017",
+          "title": {
+            "la": "Caput XVII - Qualiter s. Franciscus nomen magistri abhorrebat."
+          }
+        },
+        {
+          "id": "cap-018",
+          "title": {
+            "la": "Caput XVIII - Qualiter mors s. Francisci fuit revelata domine Iacobe de SeptemsolIis, et quomodo ipsi b. Francisco fuit revelata certitudo eterne salutis."
+          }
+        },
+        {
+          "id": "cap-019",
+          "title": {
+            "la": "Caput XIX - Qualiter Cristus et b. virgo Maria et ss. Iohannes Baptista et Evangelista cum multitudine angelorum loquebantur cum b. Francisco."
+          }
+        },
+        {
+          "id": "cap-020",
+          "title": {
+            "la": "Caput XX - De provisione divina in capitulo generali apud s. Mariam de Angelis, et quomodo fuit s. Dominicus cum VII fratribus suis in illo capitulo."
+          }
+        },
+        {
+          "id": "cap-021",
+          "title": {
+            "la": "Caput XXI - Qualiter Deus locutus est b. Francisco, et qualiter s. Franciscus crescere fecit vinum in vinea ubi non erat uva."
+          }
+        },
+        {
+          "id": "cap-022",
+          "title": {
+            "la": "Caput XXII - De quodam fr. iuvene temptato, qui per mirabilem visionem fuit liberatus."
+          }
+        },
+        {
+          "id": "cap-023",
+          "title": {
+            "la": "Caput XXIII - De lupo reducto per b. Franciscum ad magnam mansuetudinem."
+          }
+        },
+        {
+          "id": "cap-024",
+          "title": {
+            "la": "Caput XXIV - Quomodo quidam iuvenis, qui multas ceperat turtures, rogatus a s. Francisco, donavit eas sibi, et quamodo fecit eis nidum."
+          }
+        },
+        {
+          "id": "cap-025",
+          "title": {
+            "la": "Caput XXV - De statua simili statue Nabuchodonosor, vestita tamen sacco, que locuta fuit b. Francisco et dixit de IV statibus Ordinis sui."
+          }
+        },
+        {
+          "id": "cap-026",
+          "title": {
+            "la": "Caput XXVI - Quomodo locum s. Mariae de Portiuncula, obsessum a demonibus, nullus poterat tamen intus intrare."
+          }
+        },
+        {
+          "id": "cap-027",
+          "title": {
+            "la": "Caput XXVII - Quomodo Soldanus Babilonie fuit conversus ad fidem et baptizatus per fratres missos a b. Francisco."
+          }
+        },
+        {
+          "id": "cap-028",
+          "title": {
+            "la": "Caput XXVIII - De leproso blasfemo, quem s. Franciscus sanavit in anima et in corpore."
+          }
+        },
+        {
+          "id": "cap-029",
+          "title": {
+            "la": "Caput XXIX - De conversione latronum per b. Franciscum, qui intraverunt Ordinem et sanctissime conversati sunt."
+          }
+        },
+        {
+          "id": "cap-030",
+          "title": {
+            "la": "Caput XXX - Qualiter s. Franciscus convertit duos nobiles de Marchia dum predicaret Bononie, scilicet fr. Peregrinum et fr. Richerium."
+          }
+        },
+        {
+          "id": "cap-031",
+          "title": {
+            "la": "Caput XXXI - Qualiter s. Franciscus liberavit fr. Richerium a maxima temptatione."
+          }
+        },
+        {
+          "id": "cap-032",
+          "title": {
+            "la": "Caput XXXII - De gratia contemplationis s. fr. Bernardi."
+          }
+        },
+        {
+          "id": "cap-033",
+          "title": {
+            "la": "Caput XXXIII - De temptatione fr. Rufini, et quomodo apparuit sibi Cristus."
+          }
+        },
+        {
+          "id": "cap-034",
+          "title": {
+            "la": "Caput XXXIV - De mirabili et humili obedientia fr. Rufini."
+          }
+        },
+        {
+          "id": "cap-035",
+          "title": {
+            "la": "Caput XXXV - De fr. Rufino, quomodo liberavit demoniacum."
+          }
+        },
+        {
+          "id": "cap-036",
+          "title": {
+            "la": "Caput XXXVI - Qualiter fr. Rufinus vidit et tetigit plagam lateris s. Francisci."
+          }
+        },
+        {
+          "id": "cap-037",
+          "title": {
+            "la": "Caput XXXVII - De fr. Rufino, quomodo erat de tribus animabus electis una."
+          }
+        },
+        {
+          "id": "cap-038",
+          "title": {
+            "la": "Caput XXXVIII - De fr. Leone, quomodo apparuit sibi b. Franciscus."
+          }
+        },
+        {
+          "id": "cap-039",
+          "title": {
+            "la": "Caput XXXIX - De fr. Leone, quando vidit s. Franciscum elevatum a terra."
+          }
+        },
+        {
+          "id": "cap-040",
+          "title": {
+            "la": "Caput XL - Qualiter D. Ihesus Cristus fuit locutus fr. Masseo."
+          }
+        },
+        {
+          "id": "cap-041",
+          "title": {
+            "la": "Caput XLI - Qualiter s. Clara fuit portata in nocte Nativitatis ad ecclesiam s. Francisci."
+          }
+        },
+        {
+          "id": "cap-042",
+          "title": {
+            "la": "Caput XLII - Qualiter s. Clara crucem miraculose panibus impressit."
+          }
+        },
+        {
+          "id": "cap-043",
+          "title": {
+            "la": "Caput XLIII - De mirabili revelatione facta in cordibus s. fr. Egidii et s. Ludovici, regis Francie."
+          }
+        },
+        {
+          "id": "cap-044",
+          "title": {
+            "la": "Caput XLIV - Quomodo s. Antonius, in una lingua predicando, fuit intellectus ab hominibus diversarum linguarum."
+          }
+        },
+        {
+          "id": "cap-045",
+          "title": {
+            "la": "Caput XLV - Qualiter s. Antonius predicavit piscibus."
+          }
+        },
+        {
+          "id": "cap-046",
+          "title": {
+            "la": "Caput XLVI - Qualiter s. fr. Corradus convertit quemdam iuvenem et post mortem liberavit eum a purgatorio."
+          }
+        },
+        {
+          "id": "cap-047",
+          "title": {
+            "la": "Caput XLVII - Qualiter quidam magnus tirannus, videns unum de sociis b. Francisci elevatum in aere usque ad culmen palatii sui, conversus fuit et factus fr. Minor ad predicationem eiusdem fratris."
+          }
+        },
+        {
+          "id": "cap-048",
+          "title": {
+            "la": "Caput XLVIII - Mirabilia de quibusdam fratribus provincie Marchie, et quomodo b. Virgo apparuit fr. Corrado in silva Forani."
+          }
+        },
+        {
+          "id": "cap-049",
+          "title": {
+            "la": "Caput XLIX - Qualiter Cristus apparuit s. fr. Iohanni de Alverna, et quomodo fuit raptus ipsum amplexando."
+          }
+        },
+        {
+          "id": "cap-050",
+          "title": {
+            "la": "Caput L - Qualiter fr. Iohanni oranti pro quodam fratre facta est responsio divina, et etiam apparuit ei b. Laurentius."
+          }
+        },
+        {
+          "id": "cap-051",
+          "title": {
+            "la": "Caput LI - Qualiter fr. Iohannes, cum celebraret missam pro defunctis, vidit animas de Purgatorio liberari."
+          }
+        },
+        {
+          "id": "cap-052",
+          "title": {
+            "la": "Caput LII - Qualiter fr. Iohannes vidit b. Franciscum cum multis sanctis fratribus, et qualiter fr. Iacobus locutus est sibi post mortem."
+          }
+        },
+        {
+          "id": "cap-053",
+          "title": {
+            "la": "Caput LIII - Qualiter idem fr. Iohannes habuit spiritum revelationis."
+          }
+        },
+        {
+          "id": "cap-054",
+          "title": {
+            "la": "Caput LIV - De fratre qui vidit animam germani sui portari ab angelis."
+          }
+        },
+        {
+          "id": "cap-055",
+          "title": {
+            "la": "Caput LV - De fr. Simone de Assisio et mirabili vita eius."
+          }
+        },
+        {
+          "id": "cap-056",
+          "title": {
+            "la": "Caput LVI - Qualiter fr. Iohannes de Alverna fuit raptus in abisso divinitatis."
+          }
+        },
+        {
+          "id": "cap-057",
+          "title": {
+            "la": "Caput LVII - Qualiter fr. Iohannes de Alverna vidit Cristum gloriosum in hostia."
+          }
+        },
+        {
+          "id": "cap-058",
+          "title": {
+            "la": "Caput LVIII - De fr. Iohanne de Penna et angelica locutione eiusdem."
+          }
+        },
+        {
+          "id": "cap-059",
+          "title": {
+            "la": "Caput LIX - Quomodo b. Virgo apparuit cuidam fr. infirmo in loco Suffiani."
+          }
+        },
+        {
+          "id": "cap-060",
+          "title": {
+            "la": "Caput LX - De visione fr. Leonis revelata s. Francisco."
+          }
+        },
+        {
+          "id": "cap-061",
+          "title": {
+            "la": "Caput LXI - Quomodo b. Franciscus convertit quemdam nobilem."
+          }
+        },
+        {
+          "id": "cap-062",
+          "title": {
+            "la": "Caput LXII - Qualiter s. Francisco fuit revelatum quod fr. Helias debebat apostatare ab Ordine."
+          }
+        },
+        {
+          "id": "cap-063",
+          "title": {
+            "la": "Caput LXIII - Qualiter fr. Petrus et fr. Corradus fuerunt due stelle prefulgide."
+          }
+        },
+        {
+          "id": "cap-064",
+          "title": {
+            "la": "Caput LXIV - Qualiter Deus aperuit fr. Iacobo de Massa ostium secretorum suorum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pars-2",
+      "title": {
+        "la": "Pars 2"
+      },
+      "children": [
+        {
+          "id": "cap-065",
+          "title": {
+            "la": "Caput LXV - Miraculum quoddam de stigmatibus b. Francisci quod accidit in quodam conventu fratrum Predicatorum."
+          }
+        },
+        {
+          "id": "cap-066",
+          "title": {
+            "la": "Caput LXVI - De quadam verbo mirabili dicto a fr. Egidio de Perusio."
+          }
+        },
+        {
+          "id": "cap-067",
+          "title": {
+            "la": "Caput LXVII - Qualiter, dicente fr. Egidio: Virgo ante partum, Virgo in partu, Virgo post partum, orta sunt tria lilia."
+          }
+        },
+        {
+          "id": "cap-068",
+          "title": {
+            "la": "Caput LXVIII - De quodam mirabili consilio quod dedit fr. Egidius fr. Iacobo de Massa."
+          }
+        }
+      ]
+    }
+  ]
+}
