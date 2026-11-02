@@ -1,0 +1,99 @@
+{
+  "id": "fisher-penitential-psalms",
+  "cover": "classic",
+  "name": {
+    "en-US": "Commentary on the Seven Penitential Psalms",
+    "pt-BR": "Comentário aos Sete Salmos Penitenciais"
+  },
+  "author": {
+    "en-US": "St. John Fisher",
+    "pt-BR": "São João Fisher"
+  },
+  "description": {
+    "en-US": "Fisher's seven sermons on the Penitential Psalms (1508), preached at the request of Lady Margaret Beaufort: an exposition of Psalms 6, 31, 37, 50, 101, 129 and 142, with a prologue, in the modern-spelling edition of J. S. Phillimore (Catholic Library, Manresa Press, 1914), with his preface.",
+    "pt-BR": "Os sete sermões de Fisher sobre os Salmos Penitenciais (1508), pregados a pedido de Lady Margaret Beaufort: exposição dos Salmos 6, 31, 37, 50, 101, 129 e 142, com um prólogo, na edição em grafia moderna de J. S. Phillimore (Manresa Press, 1914), com seu prefácio."
+  },
+  "composed": 1508,
+  "languages": [
+    "en-US"
+  ],
+  "work": "fisher/penitential-psalms",
+  "editions": {
+    "en-US": {
+      "editor": "John Fisher, ed. J. S. Phillimore (London: Manresa Press, 1914)",
+      "year": 1914
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/commentaryonseve01fishuoft",
+      "edition": "This treatise concerning the fruitful sayings of David ... in the seven Penitential Psalms, ed. J. S. Phillimore, 2 vols. (London: Manresa Press, 1914), Internet Archive full-text OCR of both volumes; modern spelling, with the editor's footnote glosses.",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Fisher died in 1535; the edition is of 1914, with an editor (Phillimore) who died in 1926, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Preface by J. S. Phillimore"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "The First Penitential Psalm: Domine, ne in furore (Psalm 6)"
+      }
+    },
+    {
+      "id": "chapter-04",
+      "title": {
+        "en-US": "The Second Penitential Psalm: Beati quorum (Psalm 31)"
+      }
+    },
+    {
+      "id": "chapter-05",
+      "title": {
+        "en-US": "The Third Penitential Psalm: Domine, ne in furore (Psalm 37), Part I"
+      }
+    },
+    {
+      "id": "chapter-06",
+      "title": {
+        "en-US": "The Third Penitential Psalm: Domine, ne in furore (Psalm 37), Part II"
+      }
+    },
+    {
+      "id": "chapter-07",
+      "title": {
+        "en-US": "The Fourth Penitential Psalm: Miserere mei, Deus (Psalm 50)"
+      }
+    },
+    {
+      "id": "chapter-08",
+      "title": {
+        "en-US": "The Fifth Penitential Psalm: Domine, exaudi (Psalm 101)"
+      }
+    },
+    {
+      "id": "chapter-09",
+      "title": {
+        "en-US": "The Sixth Penitential Psalm: De profundis (Psalm 129)"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "The Seventh Penitential Psalm: Domine, exaudi (Psalm 142)"
+      }
+    }
+  ]
+}

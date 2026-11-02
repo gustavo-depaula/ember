@@ -1,0 +1,7 @@
+# Prologue
+
+When I advert in my remembrance the fruitful and noble translations compiled and translated in time past by many famous and excellent doctors, grounded on Scripture by high authority, the which singularly not only themself applied daily to pronounce the words of our Blessed Saviour Jesu and of many prophets and prudent ecclesiastical doctors whose minds with the grace of the Holy Ghost was spiritually illumined, but also the said doctors them endeavoured with diligent labour to put in memory by writing the said sermons to the great utility and health of the readers and hearers of the same: the which premises by me inwardly considered, for as much as I of late before the most excellent Princess Margaret, Countess of Richmond and Derby and mother unto our Sovereign Lord King Henry the Seventh, published the sayings of the holy king and prophet David of the Seven Penitential Psalms, in the which my said good and singular lady much delighted: at whose high commandment I have put the said sermons in writing for to be impressed, that all the persons that intentively read or hear them may be stirred the better to trace the way of eternal salvation, insatiately to behold with joy inestimable the glorious Trinity (Who preserve ghostly and bodily my foresaid lady and our redoubted Sovereign Lord her son with all his noble progeny I ) and that the intelligents1 of the said sermons may be gladder in the path of righteousness daily to persevere.
+
+Here Enddth the Prologue.
+
+1 acquainted readers, B
