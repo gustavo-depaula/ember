@@ -1,0 +1,140 @@
+{
+  "id": "bellarmine-de-cognitione-dei",
+  "cover": "classic",
+  "name": {
+    "la": "Tractatus de cognitione Dei",
+    "en-US": "Treatise on the Knowledge of God",
+    "pt-BR": "Tratado sobre o conhecimento de Deus"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Tractatus de cognitione Dei in tredecim capitibus, in tomo VIII operum a Vivès editus (auctoris adscriptio non confirmata).",
+    "en-US": "A short treatise on the knowledge of God in thirteen chapters, printed in the Vivès volume of Bellarmine's ascetical works (the attribution to Bellarmine is not verified). Latin only.",
+    "pt-BR": "Breve tratado sobre o conhecimento de Deus, impresso no volume ascético da edição Vivès (autoria não confirmada)."
+  },
+  "composed": "n.d.",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/de-cognitione-dei",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Utilis rerum Divinarum commentatio",
+        "en-US": "Caput I. Utilis rerum Divinarum commentatio"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. De altitudine divina",
+        "en-US": "Caput II. De altitudine divina"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. De attributis essent ix divinx",
+        "en-US": "Caput III. De attributis essent ix divinx"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. De sapientia Dei",
+        "en-US": "Caput IV. De sapientia Dei"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V",
+        "en-US": "Caput V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI",
+        "en-US": "Caput VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII",
+        "en-US": "Caput VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII",
+        "en-US": "Caput VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. • De misericordia Dei",
+        "en-US": "Caput IX. • De misericordia Dei"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Idem de misericordia Dei",
+        "en-US": "Caput X. Idem de misericordia Dei"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Ite justitia Dei punitiva",
+        "en-US": "Caput XI. Ite justitia Dei punitiva"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII",
+        "en-US": "Caput XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. De justitia Dei universali",
+        "en-US": "Caput XIII. De justitia Dei universali"
+      }
+    }
+  ]
+}
