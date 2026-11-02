@@ -1,0 +1,12 @@
+{
+  "name": {
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "century": 17,
+  "saint": "vincent_de_paul",
+  "matches": [
+    "St. Vincent de Paul",
+    "Saint Vincent de Paul"
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "id": "vincent-entretiens-filles-de-la-charite",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Entretiens de saint Vincent de Paul aux Filles de la Charité",
+    "en-US": "Conferences of St. Vincent de Paul to the Daughters of Charity",
+    "pt-BR": "Colóquios de São Vicente de Paulo às Filhas da Caridade"
+  },
+  "author": {
+    "fr-FR": "Saint Vincent de Paul",
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "description": {
+    "fr-FR": "Les conférences et entretiens de saint Vincent aux Filles de la Charité (1634-1660), recueillis par les sœurs et édités par Pierre Coste (tomes IX-X) : le règlement, l’esprit de la compagnie, l’humilité, la charité, la prière, le service des pauvres, avec les notes de l’éditeur.",
+    "en-US": "The conferences of St. Vincent to the Daughters of Charity (1634-1660), taken down by the sisters and edited by Pierre Coste (vols. IX-X): the rule, the spirit of the company, humility, charity, prayer, the service of the poor, with the editor’s notes.",
+    "pt-BR": "As conferências de São Vicente às Filhas da Caridade (1634-1660), recolhidas pelas irmãs e editadas por Pierre Coste (tomos IX-X): a regra, o espírito da companhia, a humildade, a caridade, a oração, o serviço dos pobres."
+  },
+  "composed": "1634-1660",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "vincent-de-paul/entretiens-filles-de-la-charite",
+  "editions": {
+    "fr-FR": {
+      "editor": "Pierre Coste, C.M.",
+      "year": 1923
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://jesusmarie.free.fr/vincent_de_paul.html",
+      "edition": "Saint Vincent de Paul, Correspondance, entretiens, documents, éd. Pierre Coste C.M., Paris: Gabalda, 1920-1925, tomes IX-X; digital edition by P. Claude Lautissier C.M. and the Daughters of Charity (1992), on JesusMarie.com.",
+      "description": "All conferences of Coste’s tomes IX and X, one per chapter, with Coste’s headnotes and footnotes kept as notes (and the notes of the later Vincentian editors in angle brackets). Coste’s introduction is not included.",
+      "tier": "A",
+      "tierEvidence": "Vincent died in 1660; Coste’s edition appeared in 1920-25 and Coste died in 1935. The digital transcription is of the same text, with Coste’s notes."
+    }
+  ],
+  "toc": [
+    {
+      "id": "groupe-01",
+      "title": {
+        "fr-FR": "Tome IX"
+      },
+      "children": [
+        {
+          "id": "entretien-001",
+          "title": {
+            "fr-FR": "Entretien 1. Conférence du 31 juillet 1634 — Explication du Règlement"
+          }
+        },
+        {
+          "id": "entretien-002",
+          "title": {
+            "fr-FR": "Entretien 2. Conférence du 5 juillet 1640 — Sur la Vocation de Fille de la Charité"
+          }
+        },
+        {
+          "id": "entretien-003",
+          "title": {
+            "fr-FR": "Entretien 3. Conférence du 19 juillet 1640 — Sur la Vocation de Fille de la Charité"
+          }
+        },
+        {
+          "id": "entretien-004",
+          "title": {
+            "fr-FR": "Entretien 4. Conférence du 2 août 1640 — Sur la Fidélité au Lever et à l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-005",
+          "title": {
+            "fr-FR": "Entretien 5. Conférence du 16 août 1640 — Sur la Fidélité au Lever et à l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-006",
+          "title": {
+            "fr-FR": "Entretien 6. Conférence du 16 août 1641 — Explication du Règlement"
+          }
+        },
+        {
+          "id": "entretien-007",
+          "title": {
+            "fr-FR": "Entretien 7. Conférence du 15 octobre 1641 — Sur le Jubile"
+          }
+        },
+        {
+          "id": "entretien-008",
+          "title": {
+            "fr-FR": "Entretien 8. Conférence du 6 janvier 1642 — Sur les Fautes de l’Année Écoulée"
+          }
+        },
+        {
+          "id": "entretien-009",
+          "title": {
+            "fr-FR": "Entretien 9. Conférence du 9 mars — Sur le Service des Malades"
+          }
+        },
+        {
+          "id": "entretien-010",
+          "title": {
+            "fr-FR": "Entretien 10. Conférence du 16 mars — Sur le Service des Malades"
+          }
+        },
+        {
+          "id": "entretien-011",
+          "title": {
+            "fr-FR": "Entretien 11. Conférence de Juin 1642 — Sur l’Obéissance"
+          }
+        },
+        {
+          "id": "entretien-012",
+          "title": {
+            "fr-FR": "Entretien 12. Conférence de Juillet (1642) — Sur les Vertus de Marguerite Naseau"
+          }
+        },
+        {
+          "id": "entretien-013",
+          "title": {
+            "fr-FR": "Entretien 13. Conférence du 25 janvier 1643 — Imitation des Filles des Champs"
+          }
+        },
+        {
+          "id": "entretien-014",
+          "title": {
+            "fr-FR": "Entretien 14. Conférence du 26 avril 1643 — Sur l’Union entre les Membres de la Communauté"
+          }
+        },
+        {
+          "id": "entretien-015",
+          "title": {
+            "fr-FR": "Entretien 15. Conférence du 14 juin 1643 — Explication du Règlement"
+          }
+        },
+        {
+          "id": "entretien-016",
+          "title": {
+            "fr-FR": "Entretien 16. Conférence du 7 décembre 1643 — Sur l’Œuvre des Enfants Trouves"
+          }
+        },
+        {
+          "id": "entretien-017",
+          "title": {
+            "fr-FR": "Entretien 17. Conférence du 1er janvier 1644 — Sur le Respect Cordial"
+          }
+        },
+        {
+          "id": "entretien-018",
+          "title": {
+            "fr-FR": "Entretien 18. Conférence du 11 décembre 1644 — Sur l’Affection Déréglée de Soi-Même"
+          }
+        },
+        {
+          "id": "entretien-019",
+          "title": {
+            "fr-FR": "Entretien 19. Conférence du (15 janvier 1645) — Sur les Vertus de la Sœur Jeanne Dalmagne"
+          }
+        },
+        {
+          "id": "entretien-020",
+          "title": {
+            "fr-FR": "Entretien 20. Conférence du 22 janvier 1645 — Sur l’Observance du Règlement"
+          }
+        },
+        {
+          "id": "entretien-021",
+          "title": {
+            "fr-FR": "Entretien 21. Continuation de la Conférence du 22 janvier 1645 — Sur la Pratique du Règlement"
+          }
+        },
+        {
+          "id": "entretien-022",
+          "title": {
+            "fr-FR": "Entretien 22. Conférence Donnée entre 1634 et 1646 — Sur la Réconciliation"
+          }
+        },
+        {
+          "id": "entretien-023",
+          "title": {
+            "fr-FR": "Entretien 23. Conférence du 22 janvier 1646 — Sur la Sainte Communion"
+          }
+        },
+        {
+          "id": "entretien-024",
+          "title": {
+            "fr-FR": "Entretien 24. Conférence Dit 13 février 1646 — Amour de la Vocation et Assistance des Pauvres"
+          }
+        },
+        {
+          "id": "entretien-025",
+          "title": {
+            "fr-FR": "Entretien 25. Conférence du 1er mai 1646 — Sur l’Indifférence"
+          }
+        },
+        {
+          "id": "entretien-026",
+          "title": {
+            "fr-FR": "Entretien 26. Entretien de Juillet (1646) — Avis pour la Visite des Établissements de Paris"
+          }
+        },
+        {
+          "id": "entretien-027",
+          "title": {
+            "fr-FR": "Entretien 27. Conférence du 19 août 1646 — Sur la Pratique du Respect Mutuel et de la Douceur"
+          }
+        },
+        {
+          "id": "entretien-028",
+          "title": {
+            "fr-FR": "Entretien 28. — Conférence du 22 octobre 1646 — Cacher et Excuser les Fautes des Sœurs"
+          }
+        },
+        {
+          "id": "entretien-029",
+          "title": {
+            "fr-FR": "Entretien 29. Conférence du 2 février (1647) — Rapports des Sœurs avec le Dedans et le Dehors"
+          }
+        },
+        {
+          "id": "entretien-030",
+          "title": {
+            "fr-FR": "Entretien 30. Conférence du 30 mai 1647 — Sur les Règles"
+          }
+        },
+        {
+          "id": "entretien-031",
+          "title": {
+            "fr-FR": "Entretien 31. Conférence du 18 août 1647 — Sur la Sainte Communion"
+          }
+        },
+        {
+          "id": "entretien-032",
+          "title": {
+            "fr-FR": "Entretien 32. Conférence du 22 septembre 1647 — Sur la Persévérance dans sa Vocation"
+          }
+        },
+        {
+          "id": "entretien-033",
+          "title": {
+            "fr-FR": "Entretien 33. Conférence du 11 juillet (1) (1646-1649) — Sur la Pureté d’Intention"
+          }
+        },
+        {
+          "id": "entretien-034",
+          "title": {
+            "fr-FR": "Entretien 34. Conférence du 22 janvier 1648 — Sur le Bon Usage des Avertissements"
+          }
+        },
+        {
+          "id": "entretien-035",
+          "title": {
+            "fr-FR": "Entretien 35. Conférence du 15 mars 1648 — Sur le Bon Usage des Avertissements"
+          }
+        },
+        {
+          "id": "entretien-036",
+          "title": {
+            "fr-FR": "Entretien 36. Conférence du 1er mai 1648 — Sur le Bon Usage des Instructions"
+          }
+        },
+        {
+          "id": "entretien-037",
+          "title": {
+            "fr-FR": "Entretien 37. Conférence du 31 mai 1648 — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-038",
+          "title": {
+            "fr-FR": "Entretien 38. Conférence du 28 juillet 1648 — Sur l’Esprit du Monde"
+          }
+        },
+        {
+          "id": "entretien-039",
+          "title": {
+            "fr-FR": "Entretien 39. Conférence du 25 août 1648 — Sur l’Esprit du Monde"
+          }
+        },
+        {
+          "id": "entretien-040",
+          "title": {
+            "fr-FR": "Entretien 40. Conférence du 25 décembre 1648 — Sur l’Amour de la Vocation"
+          }
+        },
+        {
+          "id": "entretien-041",
+          "title": {
+            "fr-FR": "Entretien 41. Conférence du 19 septembre 1649 — Sur l’Amour de Dieu"
+          }
+        },
+        {
+          "id": "entretien-042",
+          "title": {
+            "fr-FR": "Entretien 42. Conférence du 28 novembre 1649 — Sur l’Amour du Travail"
+          }
+        },
+        {
+          "id": "entretien-043",
+          "title": {
+            "fr-FR": "Entretien 43. Conférence du 19 avril 1650 — Sur la Conduite à Tenir dans les Difficultés Loin de la Maison-Mère"
+          }
+        },
+        {
+          "id": "entretien-044",
+          "title": {
+            "fr-FR": "Entretien 44. Conférence du 7 août 1650 — Sur l’Obéissance"
+          }
+        },
+        {
+          "id": "entretien-045",
+          "title": {
+            "fr-FR": "Entretien 45. Entretien du 22 octobre 1650 — A des Sœurs Envoyées en Province"
+          }
+        },
+        {
+          "id": "entretien-046",
+          "title": {
+            "fr-FR": "Entretien 46. Conférence du 9 décembre — Vertus des Sœurs Anne de Gennes, Marie Lullen Marguerite Bossu et Cécile Delaitre"
+          }
+        },
+        {
+          "id": "entretien-047",
+          "title": {
+            "fr-FR": "Entretien 47. Conférence du 5 mars 1651 — Sur la Confession"
+          }
+        },
+        {
+          "id": "entretien-048",
+          "title": {
+            "fr-FR": "Entretien 48. Conférence du 14 juillet * (1650) — Sur l’Indifférence"
+          }
+        },
+        {
+          "id": "entretien-049",
+          "title": {
+            "fr-FR": "Entretien 49. Conférence du 25 avril 1652 — Sur le Bon Usage des Avertissements"
+          }
+        },
+        {
+          "id": "entretien-050",
+          "title": {
+            "fr-FR": "Entretien 50. Conférence du 2 février 1653 — Sur l’Esprit de la Compagnie"
+          }
+        },
+        {
+          "id": "entretien-051",
+          "title": {
+            "fr-FR": "Entretien 51. Conférence du 9 février 1653 — Sur l’Esprit de la Compagnie"
+          }
+        },
+        {
+          "id": "entretien-052",
+          "title": {
+            "fr-FR": "Entretien 52. Conférence du 24 février 1653 — Sur l’Esprit de la Compagnie"
+          }
+        },
+        {
+          "id": "entretien-053",
+          "title": {
+            "fr-FR": "Entretien 53. Conférence du 17 avril 1653 — Sur le Jubile"
+          }
+        },
+        {
+          "id": "entretien-054",
+          "title": {
+            "fr-FR": "Entretien 54. Conférence du 3 juin 1653 — Sur la Fidélité à Dieu"
+          }
+        },
+        {
+          "id": "entretien-055",
+          "title": {
+            "fr-FR": "Entretien 55. Conférence du 27 juillet 1653 — Sur la Pratique de Demander Permission"
+          }
+        },
+        {
+          "id": "entretien-056",
+          "title": {
+            "fr-FR": "Entretien 56. Entretien du 12 novembre 1653 — A des Sœurs Envoyées à Nantes"
+          }
+        },
+        {
+          "id": "entretien-057",
+          "title": {
+            "fr-FR": "Entretien 57. Conférence du 1er janvier 1654 — Sur la Conduite à Tenir Hors la Maison"
+          }
+        },
+        {
+          "id": "entretien-058",
+          "title": {
+            "fr-FR": "Entretien 58. Conférence du 15 mars 1654 — Sur l’Orgueil Cache"
+          }
+        },
+        {
+          "id": "entretien-059",
+          "title": {
+            "fr-FR": "Entretien 59. Conférence du 25 mai 1654 — Sur la Conservation de la Compagnie"
+          }
+        },
+        {
+          "id": "entretien-060",
+          "title": {
+            "fr-FR": "Entretien 60. Conférence du 24 juin 1654 — Sur l’Envie"
+          }
+        }
+      ]
+    },
+    {
+      "id": "groupe-02",
+      "title": {
+        "fr-FR": "Tome X"
+      },
+      "children": [
+        {
+          "id": "entretien-061",
+          "title": {
+            "fr-FR": "Entretien 61. Entretien du 23 juillet 1654 — À Quatre Sœurs Envoyées à Sedan"
+          }
+        },
+        {
+          "id": "entretien-062",
+          "title": {
+            "fr-FR": "Entretien 62. Conférence du 24 août 1654 — Sur les Tentations"
+          }
+        },
+        {
+          "id": "entretien-063",
+          "title": {
+            "fr-FR": "Entretien 63. Conférence du 9 octobre 1654 — Sur le Scandale"
+          }
+        },
+        {
+          "id": "entretien-064",
+          "title": {
+            "fr-FR": "Entretien 64. Conférence du 15 novembre 1654 — Sur le Scandale"
+          }
+        },
+        {
+          "id": "entretien-065",
+          "title": {
+            "fr-FR": "Entretien 65. Conférence du 3 janvier 1655 — Sur la Mortification des Sens et des Passions"
+          }
+        },
+        {
+          "id": "entretien-066",
+          "title": {
+            "fr-FR": "Entretien 66. Conférence du 2 février 1655 — Sur l’Esprit Caché"
+          }
+        },
+        {
+          "id": "entretien-067",
+          "title": {
+            "fr-FR": "Entretien 67. Conférence du 23 mai 1655 — Sur l’Obéissance"
+          }
+        },
+        {
+          "id": "entretien-068",
+          "title": {
+            "fr-FR": "Entretien 68. Conférence du 1er août 1655 — Sur l’Observance des Règles"
+          }
+        },
+        {
+          "id": "entretien-069",
+          "title": {
+            "fr-FR": "Entretien 69. Conférence du 8 août 1655 — Sur la Fidélité aux Règles"
+          }
+        },
+        {
+          "id": "entretien-070",
+          "title": {
+            "fr-FR": "Entretien 70. Conférence du 29 septembre 1655 — Explication des Règles Communes"
+          }
+        },
+        {
+          "id": "entretien-071",
+          "title": {
+            "fr-FR": "Entretien 71. Conférence du 18 octobre 1655 — Sur la Fin de la Compagnie"
+          }
+        },
+        {
+          "id": "entretien-072",
+          "title": {
+            "fr-FR": "Entretien 72. Conférence du 2 novembre 1655 — Sur les Maximes de Jesus-Christ et Celles du Monde"
+          }
+        },
+        {
+          "id": "entretien-074",
+          "title": {
+            "fr-FR": "Entretien 74. Conférence du 23 juillet 1656 — Sur l’Amour des Souffrances Physiques et Morales"
+          }
+        },
+        {
+          "id": "entretien-075",
+          "title": {
+            "fr-FR": "Entretien 75. Instruction du 29 juillet 1656 — À Deux Sœurs Envoyées à la Fère"
+          }
+        },
+        {
+          "id": "entretien-076",
+          "title": {
+            "fr-FR": "Entretien 76. Conférence du 20 août 1656 — Sur la Pauvreté"
+          }
+        },
+        {
+          "id": "entretien-077",
+          "title": {
+            "fr-FR": "Entretien 77. Instruction du 30 août 1656 — À Deux Sœurs Envoyées à Arras"
+          }
+        },
+        {
+          "id": "entretien-078",
+          "title": {
+            "fr-FR": "Entretien 78. Conférence du 14 décembre 1656 — Sur le Jubilé"
+          }
+        },
+        {
+          "id": "entretien-079",
+          "title": {
+            "fr-FR": "Entretien 79. Conférence du 6 janvier 1657 — Sur l’Obligation de Travailler a sa Perfection"
+          }
+        },
+        {
+          "id": "entretien-080",
+          "title": {
+            "fr-FR": "Entretien 80. — Conférence du 22 mai 1657 — Élection des Officières"
+          }
+        },
+        {
+          "id": "entretien-081",
+          "title": {
+            "fr-FR": "Entretien 81. Conférence du 17 juin 1657 — Sur la Pratique de ne Rien Demander et de ne Rien Refuser"
+          }
+        },
+        {
+          "id": "entretien-082",
+          "title": {
+            "fr-FR": "Entretien 82. Conférence du 5 août 1657 — Usage des Biens Mis à la Disposition des Sœurs"
+          }
+        },
+        {
+          "id": "entretien-083",
+          "title": {
+            "fr-FR": "Entretien 83. Conférence du 26 août 1657 — Ménager le Bien des Pauvres et de la Communauté"
+          }
+        },
+        {
+          "id": "entretien-084",
+          "title": {
+            "fr-FR": "Entretien 84. Conférence du 8 septembre 1657 — N’Inviter Aucun Externe à Manger sans Permission"
+          }
+        },
+        {
+          "id": "entretien-085",
+          "title": {
+            "fr-FR": "Entretien 85. Conférence du 11 novembre 1657 — Sur le Service des Malades et le Soin de sa Propre Santé"
+          }
+        },
+        {
+          "id": "entretien-086",
+          "title": {
+            "fr-FR": "Entretien 86. Conférence du 15 novembre 1657 — Sur l’Uniformité"
+          }
+        },
+        {
+          "id": "entretien-087",
+          "title": {
+            "fr-FR": "Entretien 87. Conférence du 18 novembre 1657 — Sur l’Uniformité, la Chasteté et la Modestie"
+          }
+        },
+        {
+          "id": "entretien-088",
+          "title": {
+            "fr-FR": "Entretien 88. Conférence du 2 décembre 1657 — Sur l’Obéissance"
+          }
+        },
+        {
+          "id": "entretien-089",
+          "title": {
+            "fr-FR": "Entretien 89. Conférence du 9 décembre 1657 — Mortification, Correspondance, Repas, Sorties"
+          }
+        },
+        {
+          "id": "entretien-090",
+          "title": {
+            "fr-FR": "Entretien 90. Conférence du 23 décembre 1657 — Sur les Visites et le Devoir d’Avertir les Supérieurs"
+          }
+        },
+        {
+          "id": "entretien-091",
+          "title": {
+            "fr-FR": "Entretien 91. Conférence du 30 décembre 1657 — Rapports avec les Externes, Murmures, Médisances"
+          }
+        },
+        {
+          "id": "entretien-092",
+          "title": {
+            "fr-FR": "Entretien 92. Conférence du 6 janvier 1658 — A qui Dire ses Tentations, Conversations avec les Externes, Devoir du Secret"
+          }
+        },
+        {
+          "id": "entretien-093",
+          "title": {
+            "fr-FR": "Entretien 93. Conférence du 4 mars 1658"
+          }
+        },
+        {
+          "id": "entretien-094",
+          "title": {
+            "fr-FR": "Entretien 94. Instruction Donnée en Mai 1658 — À Deux Sœurs Envoyées à Ussel"
+          }
+        },
+        {
+          "id": "entretien-095",
+          "title": {
+            "fr-FR": "Entretien 95. Conférence du 30 mai 1658 — Sur la Condescendance et le Support"
+          }
+        },
+        {
+          "id": "entretien-096",
+          "title": {
+            "fr-FR": "Entretien 96. Conférence du 2 juin 1658 — Cordialité, Respect, Amitiés Particulières"
+          }
+        },
+        {
+          "id": "entretien-097",
+          "title": {
+            "fr-FR": "Entretien 97. Conférence du 9 juin 1658 — Sur la Confiance en la Providence"
+          }
+        },
+        {
+          "id": "entretien-098",
+          "title": {
+            "fr-FR": "Entretien 98. Conférence du 14 juillet 1658 — Sur l’Humilité, la Charité, l’Obéissance et la Patience"
+          }
+        },
+        {
+          "id": "entretien-099",
+          "title": {
+            "fr-FR": "Entretien 99. Conférence du 21 juillet 1658 — Sur la Fidélité aux Règles"
+          }
+        },
+        {
+          "id": "entretien-100",
+          "title": {
+            "fr-FR": "Entretien 100. Entretien du 4 août 1658 — À Quatre Sœurs Envoyées à Calais"
+          }
+        },
+        {
+          "id": "entretien-101",
+          "title": {
+            "fr-FR": "Entretien 101. Instruction du 26 août 1658 — À Quatre Sœurs Envoyées à Metz"
+          }
+        },
+        {
+          "id": "entretien-102",
+          "title": {
+            "fr-FR": "Entretien 102. Conférence du 6 octobre 1658 — Sur le Lever, l’Oraison et l’Angelus"
+          }
+        },
+        {
+          "id": "entretien-103",
+          "title": {
+            "fr-FR": "Entretien 103. Conférence du 13 octobre 1658 — Sur l’Oraison"
+          }
+        },
+        {
+          "id": "entretien-104",
+          "title": {
+            "fr-FR": "Entretien 104. Instruction du 4 novembre 1658 — À Deux Sœurs Envoyées à Cahors"
+          }
+        },
+        {
+          "id": "entretien-105",
+          "title": {
+            "fr-FR": "Entretien 105. Conférence du 17 novembre 1658 — Lever, Oraison, Examens et Autres Exercices"
+          }
+        },
+        {
+          "id": "entretien-106",
+          "title": {
+            "fr-FR": "Entretien 106. Conférence du 25 novembre 1658 — Emploi de la Journée — Explication de l’Évangile des Vierges Sages et des Vierges Folles — Dévotion à Sainte Catherine"
+          }
+        },
+        {
+          "id": "entretien-107",
+          "title": {
+            "fr-FR": "Entretien 107. Conférence du 8 décembre 1658 — Récitation du Chapelet Occupations des Dimanches et Fêtes"
+          }
+        },
+        {
+          "id": "entretien-108",
+          "title": {
+            "fr-FR": "Entretien 108. Conférence du 16 mars 1659"
+          }
+        },
+        {
+          "id": "entretien-109",
+          "title": {
+            "fr-FR": "Entretien 109. Conférence du 27 avril 1659 — Sur les Vertus de Sœur Barbe Angiboust"
+          }
+        },
+        {
+          "id": "entretien-110",
+          "title": {
+            "fr-FR": "Entretien 110. Conférence du 11 août 1659 — Rapports des Sœurs des Maisons Éloignées avec les Supérieurs de Paris. — Choix des Confesseurs — Occupations aux Heures Libres — le Règlement n’Oblige Pas en Cas de Besoins Extraordinaires. — Lecture des Règles"
+          }
+        },
+        {
+          "id": "entretien-111",
+          "title": {
+            "fr-FR": "Entretien 111. Conférence du 24 août 1659 — Perfection Nécessaire aux Sœurs des Paroisses — Attache aux Confesseurs. — Monastère, Cellule, Chapelle, Cloître, Grille"
+          }
+        },
+        {
+          "id": "entretien-112",
+          "title": {
+            "fr-FR": "Entretien 112. Instruction de Septembre 1659 — Aux Sœurs Envoyées à Narbonne et à Cahors"
+          }
+        },
+        {
+          "id": "entretien-113",
+          "title": {
+            "fr-FR": "Entretien 113. Conférence du 19 octobre 1659 — Sur le Service des Malades"
+          }
+        },
+        {
+          "id": "entretien-114",
+          "title": {
+            "fr-FR": "Entretien 114. Conférence du 11 novembre 1659 — Service des Malades. — Vertus de Sœur Barbe Angiboust"
+          }
+        },
+        {
+          "id": "entretien-115",
+          "title": {
+            "fr-FR": "Entretien 115. Conférence du 25 novembre 1659 — — Service des Malades. —"
+          }
+        },
+        {
+          "id": "entretien-116",
+          "title": {
+            "fr-FR": "Entretien 116. Conférence du 8 décembre 1659 — Sur l’Indifférence"
+          }
+        },
+        {
+          "id": "entretien-117",
+          "title": {
+            "fr-FR": "Entretien 117. Conférence du 14 décembre 1659 — Sur l’Indifférence"
+          }
+        },
+        {
+          "id": "entretien-118",
+          "title": {
+            "fr-FR": "Entretien 118. Conférence du 3 juillet 1660 — Sur les Vertus de Louise de Marillac"
+          }
+        },
+        {
+          "id": "entretien-119",
+          "title": {
+            "fr-FR": "Entretien 119. Conférence du 24 juillet 1660 — Sur les Vertus de Louise de Marillac"
+          }
+        },
+        {
+          "id": "entretien-120",
+          "title": {
+            "fr-FR": "Entretien 120. Conférence du 27 août 1660 — Élection des Officières"
+          }
+        }
+      ]
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
