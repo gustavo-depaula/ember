@@ -1,0 +1,78 @@
+{
+  "id": "kempis-tractatuli-minores",
+  "cover": "classic",
+  "name": {
+    "la": "Tractatuli minores",
+    "en-US": "Shorter Treatises",
+    "pt-BR": "Tratados menores"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Sex tractatuli Thomae a Kempis: epistula devota ad quendam regularem, recommendatio humilitatis, de mortificata vita, de bona pacifica vita, de elevatione mentis, brevis admonitio spiritualis exercitii.",
+    "en-US": "Six short treatises: a devout letter to a religious, the commendation of humility, the mortified life, the good and peaceful life, the lifting of the mind to God, and a brief admonition on spiritual exercise. Each is one chapter. Latin only: Pohl's critical edition (Freiburg 1904), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Seis breves tratados: uma carta devota a um religioso, o elogio da humildade, a vida mortificada, a vida boa e pacífica, a elevação da mente a Deus e uma breve admoestação sobre o exercício espiritual."
+  },
+  "composed": "c. 1425-1450",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/tractatuli-minores",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniaimitat0000thom",
+      "edition": "Thomae Hemerken a Kempis Tractatuli, ed. M. J. Pohl (Freiburg: Herder 1904), Opera omnia II; archive.org raw OCR.",
+      "description": "Six tractatuli of Pohl vol. II, one chapter each (De disciplina claustralium, the Libellus spiritualis exercitii and De recognitione propriae fragilitatis are separate books). Pohl's text without his critical apparatus and introduction; line numbers, running heads and page breaks stripped by script, upper-case chapter titles recased (u/v normalised by script). Raw OCR: drop capitals at openings are often garbled and some slips remain after the scripted lexicon repair.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1904; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "epistula-devota",
+      "title": {
+        "la": "1. Epistula devota ad quendam regularem"
+      }
+    },
+    {
+      "id": "recommendatio-humilitatis",
+      "title": {
+        "la": "2. Recommendatio humilitatis"
+      }
+    },
+    {
+      "id": "de-mortificata-vita",
+      "title": {
+        "la": "3. De mortificata vita pro Christo"
+      }
+    },
+    {
+      "id": "de-bona-pacifica-vita",
+      "title": {
+        "la": "4. De bona pacifica vita cum Deo et hominibus"
+      }
+    },
+    {
+      "id": "de-elevatione-mentis",
+      "title": {
+        "la": "5. De elevatione mentis ad Deum"
+      }
+    },
+    {
+      "id": "brevis-admonitio",
+      "title": {
+        "la": "6. Brevis admonitio spiritualis exercitii"
+      }
+    }
+  ]
+}
