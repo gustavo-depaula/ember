@@ -1,0 +1,556 @@
+{
+  "id": "granada-compendio-del-simbolo",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Compendio de la Introducción del símbolo de la fe",
+    "en-US": "Compendium of the Introduction to the Creed",
+    "pt-BR": "Compêndio da Introdução do símbolo da fé"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Compendio de Fray Luis de Granada (1585, dedicado al archiduque Alberto) de la Introducción del símbolo de la fe en cuatro partes, con el Breve tratado del modo de catequizar a los nuevos convertidos.",
+    "en-US": "Fray Luis de Granada's compendium (1585, dedicated to Archduke Albert) of the Introduction to the Creed, in four parts, with the short treatise on how to catechize new converts.",
+    "pt-BR": "Compêndio de Frei Luís de Granada (1585) da Introdução do símbolo da fé, em quatro partes, com o Breve tratado do modo de catequizar os recém-convertidos."
+  },
+  "composed": "1585",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/compendio-del-simbolo",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1908
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue09luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 9 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the 1585 Compendio.",
+      "description": "Prologue, dedication, four parts of the Compendio (the so-called fifth part of the Símbolo) and the Breve tratado del modo de catequizar. Cuervo's tables are not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo"
+      }
+    },
+    {
+      "id": "dedicatoria",
+      "title": {
+        "es-ES": "Al serenísimo príncipe Alberto"
+      }
+    },
+    {
+      "id": "lector",
+      "title": {
+        "es-ES": "Al cristiano lector"
+      }
+    },
+    {
+      "id": "p1",
+      "title": {
+        "es-ES": "Primera parte: de la fe y la creación"
+      },
+      "children": [
+        {
+          "id": "p1-intro",
+          "title": {
+            "es-ES": "Primera parte: introducción"
+          }
+        },
+        {
+          "id": "p1-c1",
+          "title": {
+            "es-ES": "Capítulo 1. Dfx primer artículo de Nuestra Fe, que es, creo en Dios"
+          }
+        },
+        {
+          "id": "p1-c2",
+          "title": {
+            "es-ES": "Capítulo 2. Cómo en este mundo hay un solo Dios y Señor, y que es imposible haber muchos dioses"
+          }
+        },
+        {
+          "id": "p1-c3",
+          "title": {
+            "es-ES": "Capítulo 3. De la muchedumbre de los beneficios que Nuestro Señor Dios nos ha hecho mediante las obras de naturaleza"
+          }
+        },
+        {
+          "id": "p1-c4",
+          "title": {
+            "es-ES": "Capítulo 4. De los cuatro elementos"
+          }
+        },
+        {
+          "id": "p1-c5",
+          "title": {
+            "es-ES": "Capítulo 5. De los compuestos de los cuatro elementos"
+          }
+        },
+        {
+          "id": "p1-c6",
+          "title": {
+            "es-ES": "Capítulo 6. De la providencia que Dios tiene de las cosas humanas"
+          }
+        },
+        {
+          "id": "p1-c7",
+          "title": {
+            "es-ES": "Capítulo 7. De las grandezas de Nuestro Señor Dios, según que se colige de las cosas criadas"
+          }
+        },
+        {
+          "id": "p1-c8",
+          "title": {
+            "es-ES": "Capítulo 8. Concluyese de todo lo dicho en esta primera parte la grande obligación que tenemos al amor y servicio de Nuestro criador"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": {
+        "es-ES": "Segunda parte: de las excelencias de la fe"
+      },
+      "children": [
+        {
+          "id": "p2-c1",
+          "title": {
+            "es-ES": "Capítulo 1. Se declara' qué cosa sea Fe, y de dos maneras de Fe"
+          }
+        },
+        {
+          "id": "p2-c2",
+          "title": {
+            "es-ES": "Capítulo 2. Segundo preámbulo, de la manera de proceder en esta segunda parte"
+          }
+        },
+        {
+          "id": "p2-c3",
+          "title": {
+            "es-ES": "Capítulo 3. Primera excelencia de Nuestra sancta Fe, en la cual se declara que la doctrina de la Fe ha de ser revelada por Dios, y que tal es la doctrina que predica la religión cristiana"
+          }
+        },
+        {
+          "id": "p2-c4",
+          "title": {
+            "es-ES": "Capítulo 4. Segunda excelencia de la religión cristiana, que es sentir altamente de Dios"
+          }
+        },
+        {
+          "id": "p2-c5",
+          "title": {
+            "es-ES": "Capítulo 5. Tercera y cuarta excelencia de la religión cristiana, que es ser ella religiosísima, esto es, ser grande honradora y glorificadora de Dios, y muy cuidadosa del culto divino, y ser toda espiritual"
+          }
+        },
+        {
+          "id": "p2-c6",
+          "title": {
+            "es-ES": "Capítulo 6. Guardar"
+          }
+        },
+        {
+          "id": "p2-c7",
+          "title": {
+            "es-ES": "Capítulo 7. Que mediante los consejos evangélicos nos enseña"
+          }
+        },
+        {
+          "id": "p2-c8",
+          "title": {
+            "es-ES": "Capítulo 8. Séptima excelencia de la religión cristiana, que sola ella tiene sacramentos que causan y dan gracia"
+          }
+        },
+        {
+          "id": "p2-c9",
+          "title": {
+            "es-ES": "Capítulo 9. Y disfavor á los vicios"
+          }
+        },
+        {
+          "id": "p2-c10",
+          "title": {
+            "es-ES": "Capítulo 10. Nona excelencia de la religión cristiana, que es la antigüedad della"
+          }
+        },
+        {
+          "id": "p2-c11",
+          "title": {
+            "es-ES": "Capítulo 11. Décima excelencia de la Fe y religión cristiana, que es la estabilidad y firmeza della"
+          }
+        },
+        {
+          "id": "p2-c12",
+          "title": {
+            "es-ES": "Capítulo 12. Undécima excelencia de Nuestra religión, que es la pureza de las sanctas escripturas"
+          }
+        },
+        {
+          "id": "p2-c13",
+          "title": {
+            "es-ES": "Capítulo 13. Duodécima excelencia de la religión cristiana, que es la pureza de lá vida que causa en los guardadores della"
+          }
+        },
+        {
+          "id": "p2-c14",
+          "title": {
+            "es-ES": "Capítulo 14. Verdadera felicidad y último fin del hombre"
+          }
+        },
+        {
+          "id": "p2-c15",
+          "title": {
+            "es-ES": "Capítulo 15. Décimacuarta excelencia de Nuestra Fe, que es haber desterrado la idolatría del mundo"
+          }
+        },
+        {
+          "id": "p2-c16",
+          "title": {
+            "es-ES": "Capítulo 16. Décimaquinta excelencia de Nuestra Fe, que fué la reformación del mundo"
+          }
+        },
+        {
+          "id": "p2-c17",
+          "title": {
+            "es-ES": "Capítulo 17. Décimasexta excelencia de Nuestra sanctísima Fe y religión , que es el testimonio de los sanctos doctores"
+          }
+        },
+        {
+          "id": "p2-c18",
+          "title": {
+            "es-ES": "Capítulo 18. Decimaséptima excelenxia de Nuestra Fe, que es el testimonio de las sibilas"
+          }
+        },
+        {
+          "id": "p2-c19",
+          "title": {
+            "es-ES": "Capítulo 19. Décimaoctava excelencia de la religión cristiana, que es ser aprobada por el testimonio y sangre de los mártires"
+          }
+        },
+        {
+          "id": "p2-c20",
+          "title": {
+            "es-ES": "Capítulo 20"
+          }
+        },
+        {
+          "id": "p2-c21",
+          "title": {
+            "es-ES": "Capítulo 21. Dedúcese de todo lo dicho cuan grande confirmación de Nuestra Fe sea la sangre de los mártires, ponderando las principales circunstancias que intervinieron en sus martirios"
+          }
+        },
+        {
+          "id": "p2-c22",
+          "title": {
+            "es-ES": "Capítulo 22. Glaterra"
+          }
+        },
+        {
+          "id": "p2-c23",
+          "title": {
+            "es-ES": "Capítulo 23. Martirio del reverendo padre edmundo campion, de la compañía de Jesús, y de otros dos sacerdotes que con él padescieron, el uno llamado rodulfo servino, del colegio anglicano que está en roma, y el otro alejandro brianto, del colegio remense"
+          }
+        },
+        {
+          "id": "p2-c24",
+          "title": {
+            "es-ES": "Capítulo 24. Décimanona excelencia de la religión cristiana, que es ser testificada y aprobada con milagros"
+          }
+        },
+        {
+          "id": "p2-c25",
+          "title": {
+            "es-ES": "Capítulo 25. Vigésima excelencia de Nuestra Fe, que fué la conversión del mundo"
+          }
+        },
+        {
+          "id": "p2-c26",
+          "title": {
+            "es-ES": "Capítulo 26. De los milagros que se coligen de lo que se ha dicho en este capítulo pasado, que trata de la conversión del mundo"
+          }
+        },
+        {
+          "id": "p2-c27",
+          "title": {
+            "es-ES": "Capítulo 27. Vigésimaprima excelencia de la Fe y religión cristiana, que son las profecías que hay en ella"
+          }
+        },
+        {
+          "id": "p2-c28",
+          "title": {
+            "es-ES": "Capítulo 28. Vigésimasecunda excelencia de la religión cristiana, que es la muchedumbre innumerable de sanctos que ha habido en ella"
+          }
+        },
+        {
+          "id": "p2-c29",
+          "title": {
+            "es-ES": "Capítulo 29. Conclusión de todo lo dicho en esta segunda parte"
+          }
+        },
+        {
+          "id": "p2-c30",
+          "title": {
+            "es-ES": "Capítulo 30. De la práctica y fruto de la Fe"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": {
+        "es-ES": "Tercera parte: del misterio de la redención"
+      },
+      "children": [
+        {
+          "id": "p3-c1",
+          "title": {
+            "es-ES": "Capítulo 1. De la disposición que se requiere para tratar deste misterio"
+          }
+        },
+        {
+          "id": "p3-c2",
+          "title": {
+            "es-ES": "Capítulo 2. De la semejanza que hay entre la obra de la redempción y de la creación"
+          }
+        },
+        {
+          "id": "p3-c3",
+          "title": {
+            "es-ES": "Capítulo 3. De la común dolencia y caída del género humano"
+          }
+        },
+        {
+          "id": "p3-c4",
+          "title": {
+            "es-ES": "Capítulo 4. Dsl remedio desta dolencia, que fué la perfecta satisfación y redempción de Cristo"
+          }
+        },
+        {
+          "id": "p3-c5",
+          "title": {
+            "es-ES": "Capítulo 5. De la promptitud y alegría con que el hijo de Dios se ofreció á todos los trabajos que se requerían para obrar el negocio de Nuestra redempción"
+          }
+        },
+        {
+          "id": "p3-c6",
+          "title": {
+            "es-ES": "Capítulo 6. Cómo todas las perfecciones divinas resplandecen más altamente eñ la Pasión de Cristo Nuestro Señor que en todas las obras suyas, y primero de la bondad"
+          }
+        },
+        {
+          "id": "p3-c7",
+          "title": {
+            "es-ES": "Capítulo 7. Cómo en la sagrada Pasión resplandesce singularmente la caridad de Cristo Nuestro Señor para con los hombres"
+          }
+        },
+        {
+          "id": "p3-c8",
+          "title": {
+            "es-ES": "Capítulo 8. Cómo en la sagrada Pasión señaladamente resplandece la misericordia de Cristo Nuestro Señor"
+          }
+        },
+        {
+          "id": "p3-c9",
+          "title": {
+            "es-ES": "Capítulo 9. Cómo la divina providencia singularmente resplandece en la sagrada Pasión de Jesucristo"
+          }
+        },
+        {
+          "id": "p3-c10",
+          "title": {
+            "es-ES": "Capítulo 10. Cómo resplandece la justicia divlva en la Pasión de Nuestro Salvador"
+          }
+        },
+        {
+          "id": "p3-c11",
+          "title": {
+            "es-ES": "Capítulo 11. Cómo en la sagrada Pasión y encarnación resplandece la omnipotencia de Dios"
+          }
+        },
+        {
+          "id": "p3-c12",
+          "title": {
+            "es-ES": "Capítulo 12. Cómo en la sagrada Pasión y encarnación resplandece singularmente la sabiduría divina"
+          }
+        },
+        {
+          "id": "p3-c13",
+          "title": {
+            "es-ES": "Capítulo 13. Comiénzase á declarar cómo la sagrada Pasión fué medio convenientísimo para remedio de las miserias y necesidades humanas"
+          }
+        },
+        {
+          "id": "p3-c14",
+          "title": {
+            "es-ES": "Capítulo 14. De la reformacióxn de la voluntad, para la cual nos ayuda la sagrada Pasión"
+          }
+        },
+        {
+          "id": "p3-c15",
+          "title": {
+            "es-ES": "Capítulo 15. Cómo en la sagrada Pasión se nos da copiosa materia de meditación"
+          }
+        },
+        {
+          "id": "p3-c16",
+          "title": {
+            "es-ES": "Capítulo 16. Cómo la sagrada Pasión ayuda á la oración para alcanzar lo que en ella pedimos"
+          }
+        },
+        {
+          "id": "p3-c17",
+          "title": {
+            "es-ES": "Capítulo 17. Conclusión de todo lo que hasta aquí está dicho en esta tercera parte"
+          }
+        },
+        {
+          "id": "p3-c18",
+          "title": {
+            "es-ES": "Capítulo 18. De algunas preguntas y objecciones que se pueden proponer acerca del misterio de la encarnación, vida y muerte de Nuestro Salvador"
+          }
+        },
+        {
+          "id": "p3-c19",
+          "title": {
+            "es-ES": "Capítulo 19. Pobreza y aspereza de la vida de Nuestro Salvador"
+          }
+        },
+        {
+          "id": "p3-c20",
+          "title": {
+            "es-ES": "Capítulo 20. Del proceso de la sagrada Pasión de Nuestro Salvador"
+          }
+        },
+        {
+          "id": "p3-c21",
+          "title": {
+            "es-ES": "Capítulo 21. De la grande gloria que está encubierta debajo de la ignominia de la sagrada Pasión"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": {
+        "es-ES": "Cuarta parte: de la vida de Cristo y la Iglesia"
+      },
+      "children": [
+        {
+          "id": "p4-c1",
+          "title": {
+            "es-ES": "Capítulo 1. De cómo Nuestro Señor determinó enviar su unigénito hijo al mundo para Nuestro remedio, y de las señales que nos dio para conocerle cuando viniese"
+          }
+        },
+        {
+          "id": "p4-c2",
+          "title": {
+            "es-ES": "Capítulo 2. Conclusión de todo lo dicho"
+          }
+        },
+        {
+          "id": "p4-c3",
+          "title": {
+            "es-ES": "Capítulo 3. De las falsedades y fábulas del talmud"
+          }
+        },
+        {
+          "id": "p4-c4",
+          "title": {
+            "es-ES": "Capítulo 4. Respóndese á algunas objecciones acerca de lo dicho"
+          }
+        },
+        {
+          "id": "p4-c5",
+          "title": {
+            "es-ES": "Capítulo 5. De Cristo"
+          }
+        },
+        {
+          "id": "p4-c6",
+          "title": {
+            "es-ES": "Capítulo 6. Hácese aquí comparación de los dos pueblos de los fieles, judíos y gentiles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bt",
+      "title": {
+        "es-ES": "Breve tratado del modo de catequizar"
+      },
+      "children": [
+        {
+          "id": "bt-intro",
+          "title": {
+            "es-ES": "Breve tratado del modo de catequizar: introducción"
+          }
+        },
+        {
+          "id": "bt-c1",
+          "title": {
+            "es-ES": "Capítulo 1. Que desean convertirse a ella"
+          }
+        },
+        {
+          "id": "bt-c2",
+          "title": {
+            "es-ES": "Capítulo 2. Cómo se podrá proponer la suma de Nuestra Fe en pocas palabras"
+          }
+        },
+        {
+          "id": "bt-c3",
+          "title": {
+            "es-ES": "Capítulo 3. De la manera en que se deben proponer en particular los misterios de Nuestra Fe á los que pretendemos catequizar, que es introducirlos en el conocimiento della"
+          }
+        },
+        {
+          "id": "bt-c4",
+          "title": {
+            "es-ES": "Capítulo 4. Cómo en este mundo hay un solo Dios y Señor, y que es imposible haber muchos dioses, y cómo es necesario que haya alguna verdadera religión, con que él sea servido y honrado"
+          }
+        },
+        {
+          "id": "bt-c6",
+          "title": {
+            "es-ES": "Capítulo 6. De los siete sacramentos"
+          }
+        },
+        {
+          "id": "bt-c7",
+          "title": {
+            "es-ES": "Capítulo 7. Del misterio inefable de la sanctísima trinidad"
+          }
+        },
+        {
+          "id": "bt-c8",
+          "title": {
+            "es-ES": "Capítulo 8. Del inefable misterio de la encarnación y Pasión del hijo de Dios"
+          }
+        },
+        {
+          "id": "bt-c9",
+          "title": {
+            "es-ES": "Capítulo 9. Cómo la suma de todo Nuestro bien consiste en la caridad y amor para con Dios, y cuan grandes impedimentos tenían los hombres para levantarse á este amor, y por cuan alta y singular manera los quitó el Salvador por medio de su sacratísima Pasión y encarnación"
+          }
+        },
+        {
+          "id": "bt-c10",
+          "title": {
+            "es-ES": "Capítulo 10. Pasión, y de las respuestas de ellas"
+          }
+        }
+      ]
+    }
+  ]
+}

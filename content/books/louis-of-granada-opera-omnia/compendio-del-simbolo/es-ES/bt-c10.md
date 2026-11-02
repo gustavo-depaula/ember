@@ -1,0 +1,5 @@
+# Capítulo 10. Pasión, y de las respuestas de ellas
+
+Declarada la razón y conveniencia de este misterio divino , quédanos agora responder á algunas preguntas que la prudencia humana puede hacer acerca del. Entre las cuales la primera es maravillarse los hombres de que aquella altísima Majestad descendiese á juntarse con una cosa tan baja como es la naturaleza humana. Después de esto maravillan - se de la grande humildad, pobreza y aspereza de vida, en que este soberano Señor vivió. Estas cuatro preguntas se proponen en los cuatro postreros capítulos de la tercera parte de este Sumario, y en ellas hallará el prudente lector la respuesta de ellas. Y por eso no hay para qué repetirlas aquí.
+
+Esto baste para despertar el ingenio de los obreros de este sancto oficio. Para lo demás podrá ayudar lo que está escrito en esta quinta parte, ó en nuestra Introducción del Símbolo de la Fe. Pero más ayudará la experiencia del negocio y el favor y espíritu de aquel Señor, de quien está escripto: Dominus dabit verbiim evangelisantibus virtute 7iiulta. Ctii est honor & gloria in saecula saeculorum. Amen.
