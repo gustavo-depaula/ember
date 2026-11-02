@@ -1,0 +1,99 @@
+{
+  "id": "augustine-gesta-collationis-carthaginiensis",
+  "cover": "quarter",
+  "name": {
+    "la": "Gesta collationis Carthaginiensis (411)",
+    "en-US": "Acts of the Conference of Carthage (411)",
+    "pt-BR": "Atas da Conferência de Cartago (411)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Gesta collationis Carthaginiensis (411). Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "Acts of the Conference of Carthage (411) (411), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Atas da Conferência de Cartago (411) (411), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "411",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/gesta-collationis-carthaginiensis",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/gesta_collationis/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages gesta_collationis of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Capitula et praefatio Marcellini"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Cognitio prima, Capita 1–55"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Cognitio prima, Capita 56–133"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Cognitio prima, Capita 134–202"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Cognitio prima, Capita 203–223"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Cognitio secunda"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Cognitio tertia, Capita 1–113"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Cognitio tertia, Capita 114–226"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Cognitio tertia, Capita 227–281"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
