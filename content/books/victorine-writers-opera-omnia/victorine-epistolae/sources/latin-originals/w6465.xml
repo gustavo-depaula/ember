@@ -1,0 +1,149 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Epistolae Achardi</title>
+              <author ref="http://viaf.org/viaf/7741792">Achardus S. Victoris<date>fl.1125</date> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>AcSVi.EpiAch</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>I. <hi>Ad Henricum II Anglorum regem.--Ut Richardum de Ely, thesaurarium suum, ad solvendam pauperibus et ecclesiis relictam a canonico Parisiensi pecuniam compellat.</hi> </head>
+
+<pb n="1381B"/>
+<p>HENRICO, Dei gratia gloriosissimo regi Anglorum,
+A. coenobii S. Victoris Parisiensis qualiscunque
+dictus abbas, salutem, et administratione regni temporalis
+aeternum promereri.</p>
+<p>Canonicus quidam Parisiensis, F. nomine, sola liberalitate
+ductus, nullo amplioris acquisitionis interveniente
+intuitu, magistro Richardo de Ely thesaurario
+vestro viginti libras Parisiensis monetae
+usque ad diem diffinitum commisit. Contigit autem
+eumdem canonicum infra scriptum terminum ingredi
+<pb n="1381C"/>
+viam universae carnis. Cum vero ageret in
+extremis, universam substantiam suam ecclesiis et
+pauperibus, aliis plus, aliis minus, pro consilio religiosorum
+virorum designavit. Unde et qui testamento
+ejus interfuerunt, ad praedictum Richardum
+nuntium in Angliam miserunt super exsolvenda praetexata
+pecunia submonentes. Ipse vero tanti immemor
+beneficii solvere contempsit. Majestati igitur
+vestrae pro ecclesiis et pauperibus pauper Christus
+supplicat, et patrocinium vestrum in hac causa sua
+speciali specialiter efflagitat; et ne transgressionis
+ejus in vos, quod absit! ex negligentia culpa redundet,
+potestate vobis divinitus data pecuniam Christi
+periculose renitentem ad reddendum compellatis,
+ut et zelus laetitiae in vobis evidenter appareat, et
+<pb n="1381D"/>
+causa ecclesiarum et pauperum adjuta apud summum
+judicem pro vobis intercedat. Illud autem pro
+certo habeatis, quod in extremo mortis articulo
+praedictam pecuniam se gratis absque omni augmento
+<pb n="1382B"/>
+antedicto Richardo coram tribus honestae existimationis
+sacerdotibus confessus est ad tempus commisisse.
+Valete.
+</p>
+      </div1>
+
+<div1>
+        <head>II. <hi>Ad A. episcopum Lexoviensem.--Commendat ei ecclesiam suam.</hi> </head>
+<p>Domino illustrissimo et omni dignissimo reverentia
+A. episcopo Lexoviensi, A. S. Victoris abbas,
+salutem et devotae charitatis obsequium.</p>
+<p>Benignitati vestrae dignas referre grates non possumus,
+quia domum nostram et miro coluit affectu,
+et amplis sibi obligavit beneficiis. Illi igitur referendas
+committimus, cui facitis quidquid uni ex
+minimis suis facitis. Porro vestram flagitamus celsitudinem,
+et precibus obsecramus instantissimis,
+<pb n="1382C"/>
+ne vester ille tepescat affectus, quem, vivente piae
+memoriae patre et praedecessore meo Gilduino abbate,
+vestra erga nos habuit pietas, ne contrahatur
+aliquatenus illa pristina vestrae charitatis latitudo;
+sed quo magis nunc indigemus, eo magis amplietur
+in dies. Vobis omnino sumus obnoxii omnes nos
+devoti servi vestri paratissimi pro vobis, ut debemus,
+promptissima facere voluntate quidquid potest
+humilitas nostra. Vestri nobis memoriam nullo die
+subducit oblivio. De caetero fratrem ad vos Reynerum
+mittimus pro qua causa ipse insinuabit. Sciatis
+autem ita se habere negotium pro quo mittitur, ut
+idem asseret, unde serenitati vestrae multas porrigimus
+preces, ut pio negotio piam porrigatis manum,
+<pb n="1382D"/>
+et ut sua pauperibus debita solvantur impedendatis
+et consilium et opem. Beatitudinem vestram
+custodiat Christus Jesus, domine illustrissime et
+omni dignissime reverentia.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

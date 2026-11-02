@@ -1,0 +1,1221 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Epistolae Odonis</title>
+              <author ref="http://viaf.org/viaf/34854285">Odo S. Victoris<date/> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>OdSVi.EpiOdo</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>EPISTOLA PRIMA. Fratri R. Frater ODO Canonicae professionis votum persolvere.</head>
+
+<pb n="1399A"/>
+<p> <hi>De regulari observantia Canonicorum Regg.</hi> --Ut
+tibi scriberem, frater charissime, plus me
+coegit otium quam aliquod certum negotium;
+plus fraternae dilectionis fiducia, quam aliqua
+litterarum scientia: sed quia verba mea qualiacunque
+sint puto tibi placere, idcirco malui aliquid
+scribere, quam silere. Precor itaque quatenus
+otiosi verba non otiose perpendas, et quidquid insipienter
+dixero, sapienter ut corrigatur attendas.</p>
+<p> <hi>Quid votis promissum.</hi> --In professione igitur
+nostra quam fecimus, tria, sicut bene nosti, promisimus,
+<pb n="1399B"/>
+castitatem, communionem, obedientiam.
+Si verba ista superficietenus tantum attendimus,
+mox quasi de professione observata ineffabiliter,
+sed tamen pueriliter exsultamus. Dicet enim forsitan
+aliquis: Professionem quam Deo inspirante
+<pb n="1400A"/>
+promisi, usque huc ipso adjuvante servavi; castitatem
+quippe corporis teneo; nihil habendo proprium
+communiter vivo, faciendo quod mihi praecipitur,
+obedientiam servo. Ecce si ita est, ut dicit, bene
+utcunque se habet, sed tamen qui hoc dicit securus
+esse non debet: si enim professionis verba diligentius
+attendamus, et quod intus latet paulo subtilius
+inquiramus, videbimus plane necdum non forsitan
+inchoasse, quod inaniter putabamus nos perfecisse.</p>
+<p> <hi>Duplex castitas. Mens casta quae.</hi> --Sed quia castitatem
+prius promisimus, prius utrum bene servata
+fuerit videamus. Scriptura quippe sacra duplicem
+asserit esse castitatem, carnis videlicet integritatem
+et animi puritatem. Quaero igitur quae sit
+<pb n="1400B"/>
+pejor corruptio, mentis an corporis? Sed hujus
+quaestionis sapienti patet solutio, si eum vera comitatur
+discretio. Mentis quippe corruptio tanto est
+longe deterior, quanto natura ejus incomparabiliter
+melior. Quae sit autem carnis integritas, est omnibus
+<pb n="1401A"/>
+fere notum; sed quae sit mentis puritas, multis,
+quod pejus est, ignotum. Sed quantum mihi
+videtur, illa mens castissima comprobatur, quae
+cum sit inter omnia, Deum super omnia diligit,
+et pro ejus amore nulli peccato vel saltem in cogitatione
+consentit. Quoties enim peccato alicui
+quantumlibet minimo consentimus, quoties
+aliquid praeter Deum diligimus, toties castitatem
+nostrae mentis corrumpimus, quia Creatorem sponsum
+animae relinquentes, et creaturae nos per illicitum
+amorem conjungentes, quodammodo spiritualiter
+fornicamur. Plus aliquid dicam. Quoties
+de transitoriis rebus otiose et inutiliter cogitamus,
+toties puritatem animi in conspectu Domini violamus.
+Hoc quod dico senserunt esse verissimum qui
+<pb n="1401B"/>
+dixerunt, fornicationem esse momentaneum a Christi
+contemplatione recessum. Perfecti etenim viri
+internae dulcedini tanto dilectionis ardore per contemplationem
+inhaerent, ut cum per desidiam, seu
+per negligentiam, vel modicum ab ea recesserunt,
+fornicasse se judicent. Hanc David fornicationem
+devitans, hanc castitatem desiderans, aiebat: <hi>Perdidisti
+omnes qui fornicantur abs te. Mihi autem adhaerere
+Deo bonum est <note>(Psal. LXXII, 27)</note>
+          </hi>. Sed hujusmodi
+castitatem tenere fragilitati nostrae est
+valde difficile, et pene impossibile. Ut enim de corpore
+taceam, quis gloriabitur castum se habere cor?
+Atque ideo forsitan dicis, hanc castitatem nemo
+promisit, nemo servavit. Quis enim auderet promittere,
+quod sciret se servare non posse? Quis unquam
+<pb n="1401C"/>
+hanc tenuit castitatem, ut nulli prorsus peccato
+aliquatenus consentiret, aut per contemplationem
+Deo jugiter inhaereret?</p>
+<p> <hi>Castitatis descriptio.</hi> --Hac igitur questione, infirmitate
+nostra compulsi, quamvis superiora nos
+dixisse non pigeat, talem in sequenti castitatem
+describimus, quam per Dei gratiam et habere possumus
+et debemus. Dicamus itaque castitatem esse
+illam carnis integritatem, quae vel in virginibus
+nunquam corrumpitur, vel in jam corruptis per
+confessionem et poenitentiam reparatur, et religionis
+amore de caetero jugiter conservatur. Adjungamus
+etiam si placet illam animi puritatem, de cujus
+corruptione sic in Evangelio legitur: <hi>Qui viderit
+<pb n="1401D"/>
+mulierem ad concupiscendum eam, moechatus est
+eam in corde suo <note>(Matth. V, 28)</note>
+          </hi>. Hujusmodi castitatem
+nullus nostrum, ut puto, negabit se esse professum,
+id est, ut nec per carnem fornicationis expleat
+actum, nec in corde habeat fornicationis consensum.
+Si igitur superiorem castitatem tenere non
+possumus, ut nihil peccato quamvis minimo consentiamus,
+hanc saltem ultimam teneamus, ut nec
+immunda violatio corrumpat carnem, nec illicita
+fornicandi concupiscentia per consensum polluat
+mentem. Haec de castitate.</p>
+<p> <hi>Quae vera paupertas religiosa et communio.</hi> --Dicamus
+de communione: Sicut superius diximus,
+quia nihil exterius proprium se videt habere, ideo
+communionem se perfecte putat tenere. Attendit
+<pb n="1402A"/>
+forsitan quod proprium non habet panem, quod non
+habet propriam vestem, et non attendit quod habet
+propriam voluntatem. Attendit se habere communem
+cum caeteris mansionem, et non attendit se
+non habere cum caeteris communem dilectionem.
+Qui sic attendit caecus est, foris est. Redeat intus,
+aperiat oculos cordis, et attendat veritatem internae
+communionis. Illa quippe communio vera et sancta
+esse putatur, de qua in apostolorum Actibus legitur: <hi>Erat illorum cor unum et anima una 
+ <note>(Act. IV, 31)</note>
+          </hi>.
+Plus valet inter multos cor unum, quam commune
+cellarium: plus anima una, quam communis mensa.
+Quid vero prodest in cibo et potu aliis esse conjunctum.
+et per propriam voluntatem ab aliis esse
+disjunctum? Parum prodest communio facultatum,
+<pb n="1402B"/>
+ubi fuerit discissio voluntatum. Amplius, si uni placet
+sobrietas, alteri ebrietas; uni silentium, alteri
+multiloquium; uni fraterna concordia, alteri fraterna
+discordia; quomodo, rogo, potest esse valens
+exterior rerum communio, ubi fuerit tam nefanda
+et detestanda morum disjunctio? Non ergo propter
+unius domus habitationem, vel unius mensae participationem,
+vel, quod majus est, propter unam
+Dominici corporis et sanguinis perceptionem, putet
+se implere aliquis communionis professionem, qui
+sibi aut propriam retinet voluntatem, aut per malos
+mores fraternam dividit unitatem. Haec de communione.</p>
+<p> <hi>Obedientia quando vera.</hi> --Nunc de obedientia
+pauca dicamus. Magna est certe virtus obedientia,
+<pb n="1402C"/>
+et subjectis omnibus necessaria. Sed quid est
+aliud obedire, nisi omni terreno timore et amore
+postposito, pro solo Dei amore quae sibi jubentur
+implere? Sed sunt nonnulli qui idcirco obedientiam
+exhibent, quia praelati eorum nihil eis nisi quod est
+prosperum jubent, at si eis aliquid asperum, et
+quod eos gravet, imponitur, continuo eorum obedientia
+utrum vera fuerit demonstratur: et hi tales
+recte lilio comparantur, quod dum non tangitur,
+suavissimum reddit odorem; cum vero premitur,
+pessimum emittit foetorem. Sciendum vero est,
+quod injunctae nobis obedientiae debemus aliquando
+voluntatem nostram adjungere, aliquando autem
+ab eadem penitus removere. Cum enim abbas meus
+<pb n="1402D"/>
+mihi praecipit jejunare, silentium tenere, pro offensis
+meis correptionem accipere, vel aliquod opus,
+quamvis sit vilissimum facere, obedientiam talem
+debeo gaudens et cum laeta voluntate suscipere. At
+si mihi praecipit lautiores cibos pro aliqua causa
+comedere, pro diversis negotiis huc illucque frequenter
+discurrere, villarum procurationes suscipere,
+et caetera quae carni placent, et quae prospera
+sunt, agere, hujusmodi obedientiam non debeo quidem
+arroganter quasi pro religione respuere, sed
+delectationem propriae voluntatis non debeo in illa
+aliquatenus quaerere. Itaque in obedientia exhibenda,
+ista est discretio retinenda, ut scilicet si
+obedientia gravis vel etiam vilis injungitur, hanc
+bonae voluntatis discretio vel devotio comitetur. Si
+<pb n="1403A"/>
+autem suavis et quae carni placet, imponitur, mox
+ab ea propriae voluntatis cupiditas repellatur. Quicunque
+enim semel pro amore Dei saeculi blandimenta
+et impedimenta reliquerit, peccat procul dubio
+si adhuc quandoque ex propria voluntate redierit.</p>
+<p>Quod si aliquis contendat professionem nostram
+simpliciter et secundum quod verba sonant, intelligi
+oportere, melius volo ejus intellectui humiliter
+et pacifice cedere, quam superbe et contentiose resistere.
+Ego enim quando fragilitatem et imperfectionem
+meam respicio, etiam illum qui cam simpliciter
+et humiliter servat, magnum apud me judico.
+Sed tamen melius mihi videtur, quasi de non
+servata prudenter esse suspectum, quam de servata
+<pb n="1403B"/>
+imprudenter esse securum.</p>
+<p>Sed haec hactenus. Ecce, mi frater, quia eram
+aliquantulum, imo nimium otiosus, longe protrahendo
+epistolam factus sum in loquendo verbosus.
+Sic vitium de vitio nascitur, sic de mala radice malus
+surculus propagatur. Ecce enim quia sectabar
+otium, incurri multiloquium, in quo secundum Salomonem
+non puto me effugisse peccatum. Sed quia
+jam insinuavi quod volui, verbositati terminum
+posui. Vale, et ora pro me, gratia tecum. Fratres
+nostros ex toto corde saluto, et ut se invicem diligant,
+nihil per contentionem agant, id ipsum sapiant,
+extraneos advenientes cum caritate suscipiant,
+supplex deprecor et exoro.
+</p>
+      </div1>
+
+<div1>
+        <head>EPISTOLA II.</head>
+
+<pb n="1403C"/>
+<p>Fratri N. Frater ODO felicitatem et felicitatis perpetuitatem.</p>
+<p> <hi>Fratrem consolatur, adhortaturque ut in monasterio
+permaneat.</hi> --Cum adhuc, charissime frater, in
+Apponi-Villa maneres, voluntatem tuam mihi insinuasti,
+et ut dominum abbatem pro reditu tuo rogarem,
+per internuntium monuisti: velles vero si
+fieri posset, nobiscum libenter manere, velles, fatres,
+quos amas, videre, velles eorum dulci colloquio
+interesse. Dulce esset tibi eorum consortium,
+dulce colloquium, dulce solatium. Non miror ista;
+sunt enim, ut verum fatear, fratres nostri ad societatem
+amabiles, ad imitandum utiles. Sunt, inquam,
+<pb n="1403D"/>
+amabiles ad societatem, tum pro vitae sanctitate,
+tum pro morum suavitate. Verumtamen, mi frater,
+noli pro absentia nostra dolere, noli hoc graviter
+ferre; certe si ex propria voluntate nos reliquisses,
+pro aliqua saeculari delectatione, et per licentiam
+foris exisses, tunc merito dolere debuisses. Nunc
+vero quoniam vera obedientia te coegit propriam
+relinquere voluntatem, et insuper fratrum tuorum
+amabilem societatem, exsulta et gaude, et virtutem
+obedientiae toto cordis amore complectere. Quod si
+propter discendi studium, nostrum velles habere
+consortium, ad hoc non ego, sed in Vitis Patrum
+ille sapiens senex respondeat: <hi>Cella tua,</hi> inquit, <hi>omnia te potest instruere.</hi> 
+ Quomodo, inquies? Quomodo
+instruit quae non intelligit? Quomodo docet
+<pb n="1404A"/>
+quae vocem non habet? Audi breviter: Instruit
+plane si sit qui intendat, si sit qui aures cordis
+aperiat: cella quippe instruere dicitur, cum qui in
+ea sedet Spiritu sancto illustratus instruitur, cum
+in ea positus diversis tentationibus agitatur, sed
+per Dei gratiam liberatur. Magna quidem doctrina
+tentationum, cum et per eam homo suam intelligit
+infirmitatem, et tentantis diaboli malignitatem,
+et Dei liberantis benignitatem.</p>
+<p>Videmus plerosque illiteratos in cellulis habitantes
+de moribus subtiliter disputare, diaboli occultas
+insidias mirabili celeritate deprehendere, et
+deprehensas cavere, et insuper Deum super omnia
+amare et quaerere. Quis quaeso docuit istos? Non
+docuit eos magistrorum eloquentia, sed Spiritus
+<pb n="1404B"/>
+sancti gratia, et tentationum experientia. Huic igitur
+doctrinae intende, et in cella tua jugiter propter
+Deum sede: quia, sicut scriptum est, qui sedet in
+cella sua propter Deum, ibi erit ubi abbas Antonius,
+Habes certe tecum grande solatium, fratrem videlicet
+G. qui te potest et verbo docere, et bonis operibus
+informare. Vale et ora pro me. Gratia tecum.</p>
+</div1>
+
+<div1>
+        <head>EPISTOLA III.</head>
+<p> <hi>Quam praestans obedientiae virtus.</hi> --Nosti, frater
+charissime, quia <hi>melior est obedientia quam victimae.</hi> 
+Et iterum: <hi>Vir obediens loquitur victorias <note>(Prov. XVI, 32)</note>
+          </hi>.
+Et: <hi>Melior est vir patiens viro forti,
+et qui dominatur animo suo, expugnatore urbium <note>(Prov. XXI, 28)</note>
+          </hi>.
+Apostolus: <hi>Obedire per omnia praepositis</hi> 
+<pb n="1404C"/> <note>(Hebr. XIII, 17)</note>.
+Sed quare tot obedientiae
+testimonia profero? Si aliquis extraneus audierit
+ista, vel legerit, forsitan te de inobedientia suspectum
+habebit. Sed hoc penitus absit. Non intendo
+per ista verba te inobedientia revocare, sed potius
+in virtute obedientiae quam fideliter exhibes, confirmare.
+Sed tamen cum hoc inceperim, sic tibi relicto
+quodam velamine manifesto, ut et quod volo
+dicere tibi sit manifestum, et nescientibus quoque,
+si legerint, maneat occultum. Novit conscientia tua,
+et ego similiter te revelante cognovi, quia prius
+quam dominus abbas obedientiam istam, quam modo
+exerces, tibi injungeret, quiddam tibi aliua agere
+libuisset, si licuisset; et quidquid agere disponebas,
+<pb n="1404D"/>
+bona voluntate et pia utilitate facere cupiebas. Nam
+si dispositionis tuae sequeretur effectus, aliquis inde
+ut sperabas, proveniret fructus. At postquam subito
+et inopinate a domino abbate ut huc venires
+mandatum obedientiae suscepisti, continuo totum
+quod disposueras, quamvis bonum, quamvis utile,
+reliquisti, et voluntatem propriam deserens, cum
+domino Jesu dixisti: <hi>Non veni facere voluntatem
+meam <note>(Joan. V, 30)</note>
+          </hi>.</p>
+<p> <hi>Quid obedienti observandum.</hi> --Scire tamen te
+convenit, quia plerumque diabolus eos, quos non
+potest ad inobedientiam trahere, facit in obedientia
+murmurare, ut saltem per occultum murmur obedientiae
+meritum minuat, qui per apertam inobedientiam
+non supplantat. Sollicite igitur contra diaboli
+<pb n="1405A"/>
+insidias nos vigilare oportet; quia ipse est adversarius
+ille, qui <hi>tanquam leo rugiens circuit quaerens
+quem devoret.</hi> Sed quia verba ista de Apostolo
+posui, ea breviter non necessario, scilicet quasi ex
+superfluo, pro capacitate mei sensus exposui. Recte
+itaque diabolus adversarius dicitur, quia quibusdam
+in via Dei existentibus, et ad eum toto desiderio
+cordis currentibus, seipsum opponere nititur, et ne
+ad eum perveniant, quantumcunque potuerit, adversatur.
+Qui etiam cum devorare quemlibet appetit,
+tanquam leo rugiens circuit. In rugitu notatur
+saevitia, in circuitu autem astutia. Itaque rugit ut
+terreat, circuit ut decipiat. Per rugitum terret formidolosos,
+per circuitum decipit incautos. Sed nos
+per Christum, qui est Dei virtus et sapientia, et
+<pb n="1405B"/>
+roborati et illuminati, et contra utrumque armati
+per fortitudinem, contemnamus rugitum, et per
+prudentiam caveamus circuitum.</p>
+<p>Vellem adhuc si possem diaboli circuitum subtilius
+indagare, et ejus insidias ut caveri possint lucidius
+propalare. Diabolus igitur quando aliquem
+cupit subvertere, si id leviter facere potest, non
+curat ibi diutius laborare. Et ideo imprimis in
+aperto quasi in facie ad facinus seu flagitium perpetrandum
+instigat, ut cito et sine labore subvertat.
+Vult ut homo malum quod ei suggerit aperte videat,
+et tamen faciat, ut eum majori reatu involvat. Quod
+si a facie victus recesserit, mox circuire incipiens
+ad sinistrum latus paulum se occultando convertit.
+Per latus sinistrum intellige opus malum. Sed notandum
+<pb n="1405C"/>
+quia illud quod a nostro latere stat, oculus
+noster nequaquam ex opposito, sed obliquo imperfecte
+considerat. A sinistra ergo parte diabolus tentationem
+immittit, quando malum est quidquid
+suggerit; sed ne perfecte videri possit, illud velamine
+vel necessitatis, vel fragilitatis abscondit.
+Sicut plerisque sub praetextu necessitatis inducit
+vitium gulositatis, et sub excusatione fragilitatis
+ingerit culpam noxiae levitatis. Dicit enim: Oportet
+te multum comedere, quia hoc exigit tua necessitas:
+licet tibi ridere et loqui, quia sic est humana
+fragilitas. At si ibi quoque se viderit deprehensum,
+continuo gyrando transit ad dorsum, ut saltem ibi
+percutiat hominem, ubi non videt, quem per apertum
+malum in facie, nec per velatum in latere decipere
+<pb n="1405D"/>
+valet. Saepe etenim sic deceptiones suas latenter
+occultat, ut quasi a tergo veniens, subito et
+inopinate percutiat. Sed forsitan ille qui tentatur,
+more sanctorum animalium non solum in facie, sed
+etiam in dorso oculos habet, et ideo diabolica illa
+tentatio velociter deprehensa, nihil ei penitus
+nocet.</p>
+<p> <hi>Quibus modis bonum inficit Satan.</hi> --Inimicus autem
+malitiam, quam post dorsum paraverat, videns
+esse detectam, ut totum circumeat pergit ad dexteram.
+Sed quid per dexteram nisi bona actio designatur?
+Ad dexteram ergo transit, non ut bonum
+suadeat, sed potius ut bonum corrumpat. Quia enim
+dum malum suadet, ex omni parte repulsus excluditur,
+<pb n="1406A"/>
+sua eum urgente nequitia quando plus non
+potest, saltem bonum inficere nititur. Quibus autem
+modis illud inficiat, in paucis ostendam. Per superbiam,
+per vanam gloriam, per indiscretionem.
+Tunc enim per superbiam bonum corrumpitur,
+quando cor bene operantis caeteros despiciendo,
+seque aliis praeferendo, in altum tumide sublevatur.
+Hoc superbiae vitio Pharisaei bona diabolus malo
+infecerat, cum publicano a longe stanti et poenitenti
+praeferendo dicebat: <hi>Non sum sicut caeteri hominum:
+velut etiam hic Publicanus <note>(Luc. XVIII, 11)</note>
+          </hi>. Vana
+etiam gloria tunc suam maculam ingerit quando is
+qui bonum operatur laudem propriam ab hominibus
+quaerit. De quibus in Evangelio Veritas ait: <hi>Amen
+dico vobis, receperunt mercedem suam (Matth, VI, 2)</hi>.
+<pb n="1406B"/>
+In quibus verbis boni operis corruptio magna ostenditur,
+cum aeternae remunerationis praemium pro
+laude transitoria, corruptione pessima commutatur.
+Tertio autem modo bonum quod agit vitiatur, si in
+exhibitione boni operis discretio non tenetur. Propter
+quod dicitur: <hi>Si recte offeras, et recte non dividis,
+perdidisti.</hi> Recte quippe offert, sed recte non
+dividit, qui bonum quidem facit, sed faciendi tempus
+et modum per discretionem subtiliter non
+discernit.</p>
+<p>Sunt etiam alia multa corruptionum genera, quibus
+nostra, si qua sunt, bona opera frequenter
+inficiuntur, quae et longum esset scribere, et fastidiosum
+audire, et quod verius est, ego caecus et
+mutus, nec videre valeo, nec proferre. Sed hoc
+<pb n="1406C"/>
+tibi, frater, de diaboli circuitu dictum sufficiat,
+quem Deus et intelligere et cavere sua nobis pietate
+concedat.</p>
+</div1>
+
+<div1>
+        <head>EPISTOLA IV.</head>
+<p>Fratri R. Frater ODO salutem.</p>
+<p> <hi>Religiosi caute extra monasterium se gerere debent.</hi> --Oportet,
+charissime frater, ut hi et caeteri fratres
+nostri qui foris ad obedientias habitatis, partim
+pro voto professionis, partim pro amore religionis,
+verba vestra et opera sollicite conservetis. Ad vos
+enim quorumdam oculi detractorum vitiose et malitiose
+frequenter respiciunt; ad vos diligenter, sed
+non causa dilectionis intendunt; opera vestra non
+ad imitandum, sed ad lacerandum, considerant;
+verba vestra non causa aedificationis, sed potius
+<pb n="1406D"/>
+causa detractionis oscultant, et si in eis aliquid
+reprehensibile viderint, exsultantes et insultantes
+deridendo et subsannando blasphemant. Dicunt
+enim: Videte quales sint monachi, quales Regulares
+canonici: videte quantum sint cupidi, quantum
+superbi, quam iracundi, quam invidi. Ecce Regularis
+ille cupide aliena diripuit; ecce illi et illi contumeliosa
+verba respondit; ecce non solum cum extraneo,
+sed et cum fratre suo litigium habuit. Utinam
+detractores nostri pro sua tantum iniquitate, et non
+pro rei veritate tibi dicerent. Utinam in nobis de
+his omnibus nihil penitus invenirent. Sed vae nobis,
+si verum est istud quod dicitur, si per nos inter
+homines nomen Domini blasphematur. Hoc enim
+<pb n="1407A"/>
+est per nos nomen Domini blasphemare, divino
+scilicet cultui ac sacrae religioni propter cupiditates
+et contentiones nostras derogare.</p>
+<p>Necesse est igitur nosmetipsos circa vitam nostram
+sollicite vigilare; et quantum possumus pro
+amore Dei coram hominibus verbis et operibus,
+irreprehensibiles exhibere. Sed sunt nonnulli qui
+quantum ad opera spectat semetipsos caute custodiunt,
+et ad perfectionem quamdam jejunando,
+vigilando perveniunt, sed tamen ad illius perfectionis
+sublimia non pertingunt, de qua beatus Jacobus
+apostolus ait: <hi>Si quis in lingua non offendit, hic
+perfectus est vir <note>(Jac. III, 2)</note>
+          </hi>. Recte virum perfectum
+appellat, qui quasi vir viriliter stando in sermone
+suo offendendo non titubat; fragilis enim et
+<pb n="1407B"/>
+quasi femineus esse convincitur, qui non solum
+otiosa vel levia proferendo, et quasi in minimis
+offendendo, huc illucque vacillando dilabitur, verum
+et impellente ira, praecipitante furore, nullo moderamine
+retinens fraenum linguae, litigando et convitia
+irrogando, quasi fortiter offendens, graviter
+corruens, totus penitus conquassatur. Periculosum
+quippe est otiosa verba proferre, sed valde periculosius
+convicia irrogare. Nam pro otioso verbo ratio
+redditur, pro contumelioso poena exsolvitur. Siquidem
+Dominus in Evangelio ait: <hi>Omne verbum otiosum
+quod locuti fuerint homines, reddent de eo rationem
+in die judicii <note>(Matth. XII, 36)</note>
+          </hi>. Et alibi: <hi>Qui
+dixerit fratri suo fatue, reus erit gehennae ignis <note>(Matth. V, 22)</note>
+          </hi>.</p>
+<p>
+          <pb n="1407C"/>Ecce in his verbis hoc quod praedixi patenter
+ostenditur, quia et otiosum verbum sequitur inquisitio
+rationis, et illatum convitium poena certae
+damnationis. Magnum quippe est illud peccatum,
+per quod homo separatur a regno coelorum. David
+propheta cum quaereret: <hi>Domine quis habitabit in
+tabernaculo tuo <note>(Psal. XIV, 3)</note>
+          </hi>? subjunxit dicens: <hi>Qui ingreditur sine macula,</hi> 
+ Et post pauca: <hi>Nec
+fecit proximo suo malum et opprobrium non accepit
+adversus proximum suum (ibid)</hi>. Sed quid est adversus
+proximum opprobrium accipere, nisi illatum
+proximo opprobrium libenter audire? Ille quippe
+accipit qui libenter audit. Si igitur a tabernaculo
+Dei excluditur qui adversus proximum opprobrium
+<pb n="1407D"/>
+accipit, quanto magis ille qui intulit? Idem etiam
+propheta cum alibi quaereret, quis scilicet etiam
+vellet, et dies bonos videre diligeret? supposuit
+dicens: <hi>Prohibe linguam tuam a malo <note>(Psal. XXXIII,
+14)</note>
+          </hi>; ac si diceret: Si linguam tuam a malo prohibueris,
+vitam et dies bonos procul dubio consequeris.
+Salomon quoque ait: <hi>Mors et vita in manibus
+linguae <note>(Prov. XVIII, 21)</note>
+          </hi>. Quia plerumque pro sermone
+malo et dicentis et audientis anima moritur:
+et rursum pro bono, et qui dicit, vitam meretur;
+et qui audit, a morte animae suscitatur. Nam quia
+sermo malus more gladii mortem animae inferendo
+trucidat, propheta David quodam loco instrumenta
+sermonis, instrumenta mortis appellat, dicens: <hi>Filii hominum, dentes eorum arma et sagittae, et
+<pb n="1408A"/>
+lingua eorum gladius acutus 
+ <note>(Psal. LVI, 5)</note>
+          </hi>. Et rursum
+quia sermo bonus vitam tribuit, Scriptura
+sacra alio loco dicit: <hi>Lingua placabilis lignum vitae <note>(Prov. XV, 4)</note>
+          </hi>.
+Oportet ergo a malo cohibere linguam,
+si volumus pervenire ad vitam.</p>
+<p>Sed forsitan dicis: Vos qui intus in monasterio
+vivitis, qui horis constitutis silentium tenetis, qui
+lectioni et orationi assidue vacatis, offensiones linguae
+facillime cavere potestis: at nos qui jugiter
+foris sumus, qui pro innumeris causis huc illucque
+discurrimus, qui possumus loqui cum volumus, in
+verbis nostris frequenter offendimus. Vestras autem
+linguas ne perniciose fluant silentium ligat, nostras
+vero licentia loquendi nobis concessa relaxat. Istis
+sermonibus tuis sic ego respondeo: Verum est quod
+<pb n="1408B"/>
+ad custodiam oris multum nos et spirituale studium,
+et constitutum silentium juvat, ita ex utroque
+adjuti, otiosa verba proferre nec libeat, plerumque
+nec liceat. Vobis autem qui foris estis, etsi
+propter necessitatem data est licentia loquendi, sed
+nulla concessa est potestas peccandi. Non enim ideo
+vobis data est loquendi licentia, ut vel cum extraneis
+habeatis jurgia, vel vobismetipsis inferatis convicia.
+Quod si cum eis qui foris sunt litigatis, et intus
+vobismetipsis derogatis, fateor vobis quia a regularis
+viae tramite longissime aberratis.</p>
+<p>Denique exteriora vestra paulo diligentius attendamus.
+Si nostrum nomen et habitum consulamus,
+non bene convenit vocari Regularem Canonicum,
+et verbis et operibus illicitis esse distortum. Non
+<pb n="1408C"/>
+unquam bene concordat caput rasum, et cor superbum;
+cappa religiosa, et lingua litigiosa: parum
+prosunt ea quae foris sunt humilitatis indicia, si
+intus in mente dominatur superbia: parum prodest
+in modum poenitentis caligas truncatas habere, et
+de perpetratis malis nullum dolorem poenitentis
+sentire: parum prodest quod corona in capite dilatatur,
+si in corde refrigescens charitas coarctatur:
+parum prodest alta tonsura, si non tenetur in sermone
+mensura. Igitur nostrum exteriorem habitum
+attendamus, et quid nobis admoneat intendamus.
+Si autem propter humanam infirmitatem, et loquendi
+assiduitatem, otiosa verba, et caetera quae videntur
+esse minima, dimittere omnino non possumus,
+contentiones tamen et detractiones per Dei gratiam
+<pb n="1408D"/>
+exstirpare prorsus et possumus et debemus. Quod si
+aliquando, quod absit! diabolo suadente, et iracundia
+impellente, alter alteri convitium vel maledictum
+intulerit, secundum Regulae nostrae consilium
+et ille qui intulit debet quantocius satisfacere, et
+ille qui laesus est suam disceptationem dimittere. Ut
+autem offensiones linguae, quae multae sunt, cavere
+possimus, Domino Deo nostro cum Propheta dicamus: <hi>Pone, Domine, custodiam ori meo,</hi> 
+ etc.</p>
+<p>Ecce, mi frater, litteras istas etsi tibi specialiter
+misi, tamen ea quae scripta sunt de omnibus fratribus
+generaliter dixi; quia sic mihi placuit, ut tecum
+loquendo omnes pariter ac monerem, et omnes admonendo
+te non exciperem.</p>
+</div1>
+
+<div1>
+        <head>EPISTOLA V.</head>
+
+<pb n="1409A"/>
+<p>Fratri R. frater ODO salutem.</p>
+<p> <hi>Documenta utilissima subministrat. Recta operatio,
+et simplex intentio, plane necessaria.</hi> --Precor te,
+charissime frater, quatenus in obedientia tibi commissa
+sic te contineas, ut et in vita tua Deus laudetur
+et honoretur, et per bonam famam tuam nostra
+Ecclesia exaltetur. Vide ut et de foris coram hominibus
+bonum testimonium habeas, et intus coram
+Deo de bona conscientia gaudeas. Tunc autem conscientia
+erit bona, si nullum malum feceris ex
+deliberatione, et quodcunque bonum feceris ex
+simplici intentione; alioquin nisi intentio tua fuerit
+simplex et recta, nec fama quae foris est erit vera,
+nec conscientia quae intus est erit bona. Intentionis
+<pb n="1409B"/>
+autem simplicitas, haec rectissima esse comprobatur,
+quando in bono opere penitus laus humana
+respuitur, et solummodo laus Dei et utilitas proximi
+quaeritur. Itaque ista duo recta, scilicet operatio et
+simplex intentio duo faciunt bona; quia et simplex
+intentio per conscientiam bonam operantis mentem
+intus laetificat, et recta operatio, quae foris ostenditur,
+ad laudem Dei alios invitans, eos ad bonum
+operandum informat. Dicamus cum Apostolo, si
+tamen in veritate dicere possumus: <hi>Gloria nostra
+haec est, testimonium conscientiae nostrae <note>(II Cor. I,
+12)</note>
+          </hi>. Ille enim solummodo certissime gloriari valet,
+cui conscientia bona intus testimonium perhibet.
+Certe, ut mihi videtur, facillime homo decipitur,
+<pb n="1409C"/>
+sed Deus nullatenus irridetur: <hi>Homo</hi> vero <hi>videt in
+facie, Deus autem</hi> videt <hi>in corde <note>(I Reg. XVI, 7)</note>
+          </hi>.
+Deo igitur, qui intus videt, conscientia nostra pura
+et simplex appareat, et hominibus qui vident faciem,
+ut glorificetur Deus, vestrum opus bonum
+reluceat.</p>
+<p> <hi>Quid in bonis scientia, quid in malis operatur.</hi> --Si
+itaque operatio recta, sit intentio simplex et
+pura, qui incassum ante oculos operatio nostra
+procedit, si eam bona intentio non praecedit. Nec
+conscientia intus requiem habet, quam vel perpetrata
+culpa deterret, vel de bono opere laus humana
+quaesita remordet. Tamen si de conscientia nostra
+veram volumus habere notitiam, necesse est ut
+praecedat scientia conscientiam. Ubi enim non est
+<pb n="1409D"/>
+scientia, nulla potest esse vel bona vel mala conscientia.
+Ubi vero scientia praecedit, mox utrum
+conscientia bona vel mala sit innotescit.</p>
+<p>Sunt autem quidam boni, qui propter vitae munditiam
+malam non habent conscientiam, semetipsos
+diligenter per scientiam inquirunt, sed quia puri
+sunt et mundi, nullius mali sibi conscii sunt: in
+istis praecedit scientia, et sequitur bona conscientia.
+Sunt vero alii qui mali quidem sunt, sed per scientiam
+suam recognoscunt: isti cognoscendo semetipsos
+malam quidem habent conscientiam, sed tamen
+dolentes et gementes quandoque convertuntur
+ad poenitentiam. Horum scientiam mala conscientia
+sequitur, sed conscientia per scientiam illustrata in
+bonum per poenitentiam commutatur. Sunt etiam
+<pb n="1410A"/>
+alii pejores, et supradictis multo deteriores, qui
+propter suam stultitiam, suam non attendunt malitiam.
+Et quia seipsos per scientiam discutere aut
+nolunt aut negligunt, lucem scientiae non habentes,
+in peccatis suis quasi in teterrima nocte periculosissime
+dormiunt, et tales ad poenitentiam aut vix
+aut nunquam redeunt, quia poenitentiae viam, id est
+scientiam perdiderunt. Scriptum quippe est: <hi>Qui
+addit scientiam, addit et dolorem <note>(Eccle. I, 28)</note>
+          </hi>. Unde
+liquido patet quia qui nullam scientiam habet, de
+peccatis suis dolere non valet. Videmus plerosque justos
+pro levissimis delictis amarissime flere: et e contrario
+quosdam pessimos pro horrendis sceleribus
+nullum dolorem sentire, imo etiam, quod valde dolendum
+est, laetari et exsultare, de quibus scriptum est:
+<pb n="1410B"/> <hi>Qui laetantur cum male fecerint, et exsultant in rebus
+pessimis 
+ <note>(Prov. II, 14)</note>
+          </hi>. Sed ut quid hoc, nisi quia et
+justi luce scientiae illuminati, etiam de minimis quae
+in se cognoscunt, semetipsos graviter reprehendunt,
+et mali lucem scientiae non habentes, et semetipsos
+penitus ignorantes, etiam horrenda scelera quae faciunt,
+poenitendo plangere nesciunt? Si igitur conscientias
+nostras quales sint veraciter scire desideramus,
+necesse est ut scientiae operam demus, et ad
+hanc habendam non de nostra praesumamus industria,
+sed de sola Dei misericordia et superabundanti
+ejus gratia. Rogemus itaque Dei misericordiam,
+imploremus ejus gratiam, ut det nobis scientiam
+et bonam conscientiam, quatenus et per
+scientiam nosmetipsos veraciter agnoscamus, et de
+<pb n="1410C"/>
+bona conscientia in conspectu ejus ineffabiliter
+gaudeamus.</p>
+<p>Sed vae mihi misero qui conscientiam bonam non
+habeo et tamen de bona conscientia loqui praesumo.
+Quomodo etiam conscientia mea poterit esse
+bona, qui et mala multa commisi quae digne per
+poenitentiam non delevi; et bona quae facere debui,
+torpens et negligens facere nolui? Aliter enim conscientia
+nostra bona esse non potest, nisi et mala
+quae fecimus digne per poenitentiam defleamus, et
+praeveniente nos gratia Dei, bona quae possumus,
+faciamus. O conscientia bona, quantum es amabilis
+et jucunda! O thesaurus magnus, nullis terrenis
+divitiis comparandus! Certe nihil in hac vita felicius,
+<pb n="1410D"/>
+nihil jucundius.</p>
+<p>Sed forsitan dicis: Quomodo scis quod nihil sit
+felicius, nihil jucundius? Aliquando cibum esse
+bonum dicimus, quia hoc per experientiam scimus:
+tu vero, sicut dixisti, conscientiam bonam non
+habes, quomodo quod nihil sit felicius scire potes?
+Hoc forsitan dicis: ego autem quid dicam? Non
+in veritate dicere possum quod Apostolus ait: <hi>Nihil
+mihi conscius sum <note>(I Cor. IV, 4)</note>
+          </hi>, imo multum conscius
+sum. Audi tamen similitudinem et intellige rationem.
+Certe per oculos multa videmus: quae tamen
+non habemus; sic per rationem multa esse bona
+cognoscimus, quae tamen non facimus. Et per eamdem
+rationem de virtutibus multa disserimus, a
+quibus vacui sumus. Ecce vero ego ipse de bona
+<pb n="1411A"/>
+conscientia loquens, et per rationem multa disserens,
+quasi per oculum bonum video, quod tamen in memetipso
+non habeo. Audi et aliud: Plerumque dum
+gustamus amaritudinem fellis, laudamus dulcedinem
+mellis, et quamvis in praesenti solam fellis amaritudinem
+sentiamus, ex ejus tamen comparatione eam
+quam non sentimus mellis dulcedinem approbamus.
+Sic et in paupertate natus, et totus in miseriis enutritus,
+cum saeculi potentes et divitias obtinentes
+considerat, illos beatos, se miserum clamat, cum
+tamen solam miseriam sentiens, eorum beatitudo
+qualis sit per experientiam nesciat. Sic plerumque
+laudamus satietatem, infirmantes bonam esse dicimus
+sanitatem. Sic et ego ex infelicitate conscientiae
+malae quam sentio, quanta sit felicitas
+<pb n="1411B"/>
+conscientiae bonae penso: et quia per experientiam
+scio conscientia mala nihil esse tristius, ex ipsa
+tristitia judico conscientia bona nihil esse jucundius.</p>
+<p>Certe si mihi daretur optio, mallem omnes mundi
+miserias cum bona conscientia tolerare, quam omnes
+mundi divitias cum mala conscientia possidere.
+Sed quia hi qui foris sunt, conscientias nostras
+videre non possunt, saltem fama nostra, quae ad
+eos potest pervenire, in eorum auribus debet non
+putere. Si enim de conscientia nostra confidentes
+famam nostram negligimus (sicut ait beatus Augustinus)
+crudeles sumus. Imo ut ego puto, nec bonam
+habemus conscientiam, si per nostram negligentiam
+<pb n="1411C"/>
+incurramus infamiam. Quod si nos e contrario
+fama hominum laudat, et conscientia intus
+vituperat, similes sumus his qui in publico divites
+praedicantur, et in privato suo paupertatis angustia
+cruciantur.</p>
+<p>Tu igitur, mi frater, appone diligentiam, inquire
+conscientiam. Testimonium ejus quale sit diligenter
+attende: quid de operibus, quid de verbis, quid
+et de cogitationibus tuis tibi veraciter testetur,
+intende. Attende, inquam, utrum sit in opere sanctitas,
+in verbo veritas, in cogitatione puritas, in
+intentione simplicitas. Si conscientia tua horum testimonium
+sibimetipsi conscia fuerit, illud Apostoli,
+quod supra dictum est, rectissime dicere poterit. <hi>Gloria nostra haec est, testimonium conscientiae nostrae.</hi> 
+<pb n="1411D"/>
+Si autem exemplo mali operis aliquem destruxisti;
+verbo tuo alicui maledictum seu convitium
+intulisti, cordis munditiam cogitatione illicita polluisti:
+si haec fecisti, et necdum poenitendo satisfecisti,
+puto quod de istis non solum in conscientia
+non gloriaris, verum etiam confusione intima cruciaris.
+Sunt etiam quaedam alia, de quibus plerumque
+nostra confunditur conscientia, id est superbia,
+ira, tristitia. Quae omnia prius Deus a nobis
+auferat, et mundam conscientiam conferat. Vale, et
+ora pro me.
+</p>
+      </div1>
+
+<div1>
+        <head>EPISTOLA VI.</head>
+<p> <hi>Praepotentem ab aula regis expulsum allicit ad
+saeculi contemptum.</hi> --Quanto desiderio et affectu
+bonum vestrum et salutem vestram desiderem, ille
+<pb n="1412A"/>
+solus veraciter novit, qui secreta cordium solus
+agnoscit. Nunc autem quia os ad os praesentialiter
+loqui non valeo, litterulas istas exhortatorias dilectioni
+vestrae transmitto. Nec scribo vobis causa
+nostrae necessitatis, sed solo intuitu charitatis. Adversitas
+enim quae vobis contigit, etsi mihi abstulit
+praesentem vestram collocutionem, non tamen
+auferre potuit de corde dilectionem; etsi mihi
+abstulit corporalem vestram praesentiam, non tamen
+de oratione vestri memoriam. Ut enim verum fatear,
+quando missarum solemnia celebramus, omnipotentis
+Dei clementiam imploramus, quatenus ipse
+qui nullius [obliviscitur] per ignorantiam, vestri fiat
+memor per gratiam. Nunc et priusquam incipiam
+exhortationem hanc, praemitto orationem, quatenus
+<pb n="1412B"/>
+gratia Dei admonitionem nostram praeveniat, atque
+aures vestri cordis aperiat, ut ea quae ad veram salutem
+pertinent, libenter audiat, memoriter teneat,
+efficaciter impleat.</p>
+<p>Quid igitur primum dicam? ubi exhortationem incipiam?
+Volo quidem dominum et amicum meum,
+ut fidelem servum et verum amicum ab amore vitae
+praesentis evellere, atque ejus desiderium ad amorem
+sui Creatoris et patriae coelestis erigere. Debeo igitur
+aliquid de contemptu mundi praeponere, et postmodum
+ea quae animum ejus ad amorem Dei excitare
+possint, subnectere. Sed quia scio vos saecularibus
+curis incubare, vellem si possem admonitionem
+nostram paucis sermonibus explicare.</p>
+<p>
+          <pb n="1412C"/>Salomon igitur sapientissimus primus accedat, et
+veram sententiam vobis de contemptu mundi proponat,
+et dicat: <hi>Vanitas vanitatum, vanitas vanitatum,
+et omnia vanitas <note>(Eccle. I, 2)</note>
+          </hi>. O domine mi, nunquid
+intelligis verum esse quod audis? certe non est quod
+dubites: appone aurem et intellige veritatem, aperi
+oculos et considera vanitatem. Rogo vitae tuae cursum
+diligenter consideres, quia, nisi fallor, in ipsa
+vita tua, quam sint vana omnia perfecte cognosces
+Recole quanta in tempore prosperitatis tuae concessa
+sit tibi saecularis potentia, quanta divitiarum abundantia,
+quanta, et quod majus est, in dispositione
+rerum temporalium prudentia. Primus inter aulicos
+residere solebas, totum Francorum regnum pro tuo
+libitu disponebas; quin et secundum hoc quod Salomon
+<pb n="1412D"/>
+se fecisse commemorat, magnus effectus opera
+tua magnificasti, turres excelsas et pulchra palatia
+exstruxisti, vineas plantasti, servos et ancillas multamque
+familiam habuisti, coacervasti tibi argentum
+et aurum, substantias regum et provinciarum, et
+repletus es deliciis filiorum hominum. Sed attende
+paulisper in istis omnibus quanta sit vanitas, quae
+instabilitas.</p>
+<p>Ecce enim ipse rex de cujus dilectione plurimum
+confidebas, et juxta quem familiaritatis causa et honoris
+gradu residere solebas, te velut hostem persequitur,
+et quidquid Parisius cum magno labore
+construxeras, praecepto reginae totum destruitur.
+Argentum et aurum et pecuniam quae in tranquillitatis
+tempore congregasti, nunc in tempore guerrae
+<pb n="1413A"/>
+te oportet expendere, et ne inimici tui te incautum
+opprimant, nocte et die sollicite cogitare. Potes itaque,
+domine mi, in vita tua evidenter cognoscere
+sententiam quam Salomon de vanitate protulit veram
+esse. Certe iste Salomon regia potestate fuit sublimis,
+sapientiae dono incomparabilis, divitiarum opulentia
+pinguis; et quamvis omnia ista affluenter
+suppeterent, nullam tamen attribuit eis veritatem,
+sed quia transeuntia vidit, appellavit proprie vanitatem.
+Tanto igitur ei melius est credendum, quanto
+ea quae dixit, didicit per experimentum.</p>
+<p>Nisi brevitati studerem, adhuc quaedam de contemptu
+mundi dicere possem, quae animum vestrum
+ab ejus appetitu non solum rationabiliter revocarent,
+sed et fortiter deterrerent. Quale est illud:
+<pb n="1413B"/> <hi>Mundus peribit et concupiscentia ejus 
+ <note>(I Joan. II, 17)</note>
+          </hi>.
+Et illud: <hi>Quicunque voluerit amicus esse hujus saeculi,
+inimicus Dei constituetur <note>(Jac. IV, 4)</note>
+          </hi>. Formidolosa
+sententia! Quid terribilius dici potest:
+quandoquidem inimicus Dei esse convincitur, quicunque
+saeculi hujus amicus efficitur. Est aliud cur
+rationalis mens debet mundana ista contemnere;
+quia et cum labore maximo acquiruntur, et cum
+sollicitudine custodiuntur, et cum dolore amittuntur.
+Scriptum quoque est: <hi>Potentes potenter tormenta
+patientur <note>(Sap. VI, 7)</note>
+          </hi>. Et: <hi>Qui divitias habent,
+difficile regnum Dei consequuntur <note>(Galat. V, 21)</note>
+          </hi>. <hi>Quid
+autem prodest homini si totum mundum lucretur,
+animae vero suae detrimentum patiatur? <note>(Matth. XVI,
+26.)</note>
+          </hi> Haec de contemptu mundi dicta sufficiant.</p>
+<p>
+          <pb n="1413C"/>Quod si dilectio vestra ad amorem Dei cupit mentem
+erigere, debetis frequenter beneficia Dei vobis
+collata ad memoriam revocare. Cogitate quanta erga
+vos ejus exstiterit gratia, quanta ejus misericordia.
+Gratia in hoc, quod bona sua vobis gratuite contulit;
+misericordia in hoc, quod mala vestra aequanimiter
+pertulit. Certe si bene vultis attendere,
+haec sola causa ad amandum Deum potest vobis sufficere,
+quod scilicet et per gratiam bona praebuit,
+ut vos ad amorem suum accenderet, et per misericordiam
+mala vestra sustinuit, ut vos ad poenitentiam
+provocaret. Ad ultimum vero postquam exhibuit
+patientiam, sicut pius pater dilecto filio, adhibuit
+disciplinam, ut saltem flagellatus ad patrem redeat
+<pb n="1413D"/>
+qui beneficiis provocatus redire nolebat. Scriptum
+est enim: <hi>Flagellat Deus omnem quem recipit <note>(Hebr.
+XII, 6)</note>
+          </hi>. Flagellum quippe Dei est guerra ista quam
+habetis et persecutio, quia etsi inimici vestri vos
+persequuntur ex odio, tamen hoc quod faciunt,
+praecedit quaedam occulta et justa Dei dispositio.</p>
+<p>Nolite ergo de flagello isto contra Deum murmurare,
+quia durum esset vobis contra stimulum calcitrare.
+Mementote quia cum David Rex filii sui Absalon
+persecutionem fugeret, et Semei quidam pessimus
+ei malediceret, viri qui erant cum David,
+Regis injuriam doluerunt, et illum Semei interficere
+voluerunt. Quos tamen David compescuit dicens: <hi>Dimitte ut maledicat, Dominus enim praecepit ut
+<pb n="1414A"/>
+malediceret Davidi, si forte reddat mihi Dominus
+benedictionem pro maledictione hac hodierna 
+ <note>(II Reg.
+XVI, 12)</note>
+          </hi>. Rogo pro Deo diligenter attendite, et
+sicut David fecit, sic et vos facite. Ecce ab inimico
+maledictionem sustinuit, et tamen de eo cum leviter
+posset, semetipsum ulcisci noluit, et maledictionem
+illam non Semei, sed Domino imputavit, cum
+dixit: <hi>Dominus praecepit ut malediceret David.</hi> Ipse
+quippe unus de filiis Dei erat, et a pio patre se
+flagellari sciebat, nec attendere voluit maledicentis
+iniquitatem, sed maledictionis utilitatem.
+Ideoque dicebat: <hi>Si forte reddat mihi Dominus benedictionem
+pro maledictione hac hodierna.</hi> Puto etiam
+quod peccata sua praeterita ad memoriam revocabat:
+puto quia pro adulterio et homicidio graviter in
+<pb n="1414B"/>
+corde dolebat, et ideo filii sui persecutionem, et
+servi sui maledictionem patientissime tolerabat.
+Hoc exemplum de David ad hoc proposui, ut et vos
+peccata vestra aperta et occulta, minima et majora
+sedule cogitetis, et in persecutione quam praesentialiter
+sustinetis, non attendatis inimicorum vestrorum
+nequissimam voluntatem, sed admonentis Domini
+misericordissimam pietatem.</p>
+<p>Audite quid Dominus dicat: <hi>Ego quos amo, arguo
+et castigo <note>(Apoc. III, 19)</note>
+          </hi>. Ipse enim idcirco percutit,
+ut sanet, ipse idcirco flagellat peccatorem,
+ut purget. Nolite igitur vocationem Dei aures obstruendo
+respuere: nolite flagella Dei obdurato
+corde suscipere. Nolite in limo profundi, in amore
+mundi tam tenaciter et pertinaciter inhaerere; permittite
+<pb n="1414C"/>
+Deum vos de lacu miseriae et de luto faecis
+extrahere. Nolite fieri sicut plaustrum in luto demersum,
+quod et boves ex anteriori parte fortiter
+trahunt, et homines ex posteriori toto conatu impellunt,
+et tamen nec trahendo, nec impellendo
+illud de luto extrahere possunt. Ecce pius Deus
+prius vobis prosperitatem concessit ut traheret,
+nunc manum adversitatis apposuit ut impelleret.
+Cum igitur in conversione vestra Dominum, ut ita
+dicam tantum laborare facitis, videte ne ad iracundiam
+eum provocetis. <hi>Horrendum est enim incidere
+in manu Dei viventis <note>(Hebr. X, 13)</note>
+          </hi>. Nam si commotus
+fuerit, quis ei resistit? <hi>Nolite,</hi> secundum
+Psalmi sententiam, <hi>in principibus, nec in filiis hominum,
+<pb n="1414D"/>
+in quibus non est salus, confidere <note>(Psal. CXLV,
+3)</note>
+          </hi>, sed in eo solo qui potest vos de omni augustia
+liberare.</p>
+<p>Sed ut modo postponam exhortationem, rogo
+ut de his quae dico vestram consulatis interius rationem.
+Mirum est enim cum ratio vestra, quae tantum
+in provisione et dispositione saecularium viget: mirum
+est, inquam, cum ad bona cognoscenda et facienda
+quasi mortua jacet. Sed forsitan ratio vestra,
+ea quae bona sunt per discretionem intelligit, et tamen
+superbia resistente non perficit. Rationi enim
+vestrae superbia dominatur, et ei lege tyrannica reluctatur.
+Ratio dicit: si hoc vel illud faceres, Deo
+acceptabilis esses. Superbia dicit: si hoc vel illud faceres,
+in conspectu hominum vilis esses. O servitus
+<pb n="1415A"/>
+nefanda et detestanda, quando videlicet ratio quae
+debet imperare ut domina, superbiae obtemperat ut
+ancilla. Quaeso ut ad debitam libertatem ratio redeat,
+superbia de corde vestro expulsa exeat et locum
+ejus ea quae Deo chara est, humilitas vera possideat.</p>
+</div1>
+
+<div1>
+        <head>EPISTOLA VII.</head>
+<p>Fratri F. frater ODO salutem.</p>
+<p> <hi>Ad religiosa exercitia adhortatur.</hi> --Quando in
+feriis Pentecostes ad nos, charissime frater, venisti,
+vocasti me secreto atque increpando dixisti: Vos
+de me nullam curam habetis, sed me quasi aliquid
+vile et inutile projecistis. Cum diligenter inquirerem
+quare hoc diceres, respondisti: Caeteris fratribus
+litteras vestras consolatorias frequenter dirigitis,
+<pb n="1415B"/>
+mihi vero qui plus omnibus indigeo, qui tentationes
+multas sustineo, nullam consolationem penitus exhibetis.
+Quod ego audiens increpationem tuam gratanter
+accepi, et si mihi vacaret, in posterum aliquam
+tibi consolationem me facturum esse promisi.
+Verumtamen scire debes, me frequenter tantis occupationibus
+implicari, tantis curis quamvis minimis
+intus et foris exagitari, quod secundum desiderium
+meum non mihi vacat aut lectioni intendere,
+aut aliquid scribere, aut, quod melius est, orationi
+vacare. Sed quia per nuntium tuum ut promissionis
+meae memor essem iterum admonuisti, quamvis,
+sicut dixi, multis impediar, charitate urgente faciam
+breviter quod promisi.</p>
+<p>
+          <pb n="1415C"/> <hi>Tentationes pro Deo patientissime tolerandae.</hi> --Nolo
+igitur, frater, mireris, si tentationes varias
+pateris. <hi>Tentatio est</hi> enim <hi>vita hominis super terram <note>(Job VII, 1)</note>
+          </hi>.
+Hinc etiam scriptum est: <hi>Fili accedens
+ad servitutem Dei, sta in justitia et timore, et praepara
+cor tuum ad tentationem <note>(Eccli. II, 1)</note>
+          </hi>. Ecce evidenter
+habes in hac sententia quid debeas facere. Jam enim
+ad Dei servitium accessisti, jam Deo servire, jam
+religiose vivere promisisti. Stare debes in justitia
+et in timore, et animam tuam ad tentationem, non
+ad requiem praeparare. Plerique enim cum ad servitium
+Dei accedunt, quia pro acquirendis virtutibus
+laborare refugiunt, Deo permittente, ad priora
+peccata redeunt. Si ergo tentationum laqueos cupis
+evadere, oportet te multos labores et cordis et corporis
+<pb n="1415D"/>
+sustinere. Quis enim potest sine labore cor
+suum ad lamenta compungere, proprias voluntates
+abjicere, et aliorum voluntates bonas in omnibus
+adimplere? Quis, inquam, potest sine labore magno
+studioque continuo, multiplices insidias diaboli plene
+cognoscere, et cognitas evitare? Magnus est certe
+tentationum labor, et non contemnendus, sed tamen
+pro amore Dei patientissime tolerandus. Et ne propter
+tentationem cadas in desperationem, audi quid
+beatus Jacobus apostolus dicat: <hi>Omne gaudium existimate,
+fratres mei, cum in tentationes varias incideritis <note>(Jac. I, 2)</note>
+          </hi>.</p>
+<p> <hi>Tentationum utilitas. Qui diabolum expugnare debeat
+religiosus.</hi> --Magna est, charissime frater,
+tentationum utilitas, quia per tentationes vera possidetur
+<pb n="1416A"/>
+humilitas. Multum enim, ut credo, superbia
+nostra se in altum erigeret, nisi Deo permittente,
+eamdem superbiam nostram tentationum pondus in
+imo deprimeret. Plerumque dum nullas foris tentationes
+patimur, gravius in corde per elationem periclitamur;
+et quia iniquitatem nostram considerare
+negligimus, magna quaedam et incomparabilia de
+nobismetipsis sentimus, et caeteros quosque meliores
+in comparatione nostrum despicimus. Sed pius
+Deus aliquando cum nostram misericorditer respicit
+elationem, ad correptionem nostram super nos venire
+permittit carnis tentationem. Vult enim ut
+tentatio carnis deprimat elationem cordis, vult ut
+infirmitatis nostrae conscii de nobis abjecta et vilia
+sentiamus, quatenus minores quosque nobis per
+<pb n="1416B"/>
+humilitatem praeponamus. Bonum est etiam ut
+quando tentationem aliquam sustines, professionem
+quam fecisti ad memoriam revoces. Professus es
+enim castitatem, communionem, obedientiam.
+Quando professionem istam fecisti, diabolum graviter
+offendisti. Hanc professionem vidit et invidit:
+et ideo contra singulas professiones, singulas adhibet
+tentationes. Contra professionem castitatis suggerit
+luxuriam carnis, contra communionis professionem
+alicujus rei propriae accendit cupiditatem;
+contra virtutem obedientiae opponit vitium inobedientiae.
+Sed tu, frater mi, tene fortiter professionem
+et devita caute tentationem. Si diabolus te
+impugnat, cave ne expugnet, cave ne superet.
+<pb n="1416C"/>
+Resiste fortiter, pugna viriliter: si intorserit concupiscentiae
+jaculum, castitatis oppone clypeum. Si ad
+memoriam tuam reduxerit praeteritas actiones,
+praeteritas delectationes, tu e contra cogita inferni
+dolores et poenas horribiles. Si enim ignem gehennae
+diligenter attendis, ignem luxuriae cito exstingues.
+Oportet etiam ut in et intus conserves
+cordis affectum, et exterius oculorum aspectum.
+Plerumque enim corruptus affectus oculorum aciem
+ad illicita dirigit; et aspectus illicitus, intus affectum
+corrumpit: atque ideo debes et intus affectum
+purificare, et foris aspectum per disciplinam restringere.
+Cogita frequenter quanta sit munditia
+castitatis, quam grata sit Deo et acceptabilis. Hinc
+in Evangelio Veritas ait: <hi>Sint lumbi vestri praecincti</hi> 
+<pb n="1416D"/> <note>(Luc. XII, 35)</note>.
+Quid est enim lumbos praecingere,
+nisi fluxum luxuriae castitatis cingulo cohibere?
+O munda castitas, quantum in alto resides! O immunda
+luxuria, quantum in imo jaces! Certe castitas
+hominem Deo jungit, templum Dei incorruptum
+custodit: luxuria vero hominem a Deo separat,
+diabolo sociat, templum Dei violat. Castitatis
+ergo virtutem amplectere, luxuriae vitium perhorresce;
+istius ama pulchritudinem, illius fuge turpitudinem.</p>
+<p> <hi>Castitas quibus mediis servatur.</hi> --Magna est certe
+et pulcherrima virtus castitas, si tamen cum castitate
+teneatur humilitas. Alioquin de sola castitate
+Deo placere non possumus, nisi etiam cum castitate
+humilitatem veraciter habemus. Imo plerumque
+<pb n="1417A"/>
+magnos tentationum assultus castitas patitur idcirco
+quia superbia de corde non expellitur. Si igitur
+de castitate vis esse securus, esto in humilitate
+fundatus. Denique diabolus quia per virtutem castitatis
+nos Deo placere considerat, etsi eam auferre
+non praevalet, tamen hanc inquietare non cessat.
+Hinc est quod vigilantibus nobis turpes cogitationes,
+si potest, immittit, dormientibus vero ad illusionem
+nostram diversarum specierum formas assumit.
+Tanta est ejus nequitia, tanta invidia, ut non
+attendat quid de se faciat, quam vilium rerum formas
+accipiat, tantum ut nos illiciat, ut nos decipiat.
+At nos seu vigilantes seu dormientes, Domini
+existentes, et [ad] Deum tendentes, turpes cogitationes
+bonis objectis cogitationibus, repellamus, et
+<pb n="1417B"/>
+nocturnas illusiones signo sanctae crucis muniti,
+nullatenus timeamus.</p>
+<p>Bonum est etiam ei qui castitatem custodire desiderat,
+ut in cibo et potu sobrietatem teneat, et
+orationi frequenter insistat. Postquam enim diabolus
+naturalis concupiscentiae ignem ciborum adjectione
+paululum ardere conspicit, continuo in semetipso
+spiritum nequitiae colligit, et ad accendendum
+concupiscentiae ignem toto conatu flatum
+<pb n="1418A"/>
+tentationis emittit. Et ideo bonum est, ut ignis concupiscentiae
+aqua parcimoniae exstinguatur, et diaboli
+flatus orationis spiritu repellatur. Multa sunt
+quae ad conservandam castitatem plurimum juvant,
+sed haec tibi, frater charissime, dicta sufficiant.</p>
+<p>Si autem de professione communionis et obedientiae
+adhuc vellem disserere, jam epistola modum
+excederet, et prolixior sermo lectori fastidium gigneret.
+Hoc tamen breviter dico, hoc scire te volo;
+quia quicunque post communionis professionem,
+aut equum, aut vestimentum, aut quod minus est,
+obolum, in sua proprietate retinet, nullam cum Deo
+partem, nullam cum sanctis ejus communionem,
+nisi digne poenituerit, habere valet. Similiter qui
+post promissam obedientiam praelati sui imperio
+<pb n="1418B"/>
+contumaci superbia renuit obedire, nullatenus Jesu
+Christi, qui factus est obediens usque ad mortem,
+cohaeres potest existere. Et ideo bonum est ut
+nullam penitus habeamus proprietatem, nec sanctorum
+perdamus amabilem societatem, et obedientiam
+cum Domino Jesu Christo usque ad mortem
+teneamus, ut post mortem obedientiae fructum
+ab eodem Domino recipere valeamus. Vale, et ora
+pro me.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

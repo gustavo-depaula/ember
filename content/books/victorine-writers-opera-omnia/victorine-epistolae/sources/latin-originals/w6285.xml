@@ -1,0 +1,90 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Epitaphium</title>
+              <author ref="http://viaf.org/viaf/97608392">Adamus de Sancto Victore<date/> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 185</title>
+           <idno>AdDeSaV.Epitap17</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Epitaphium</head>
+
+<l>Clarae sunt Valles sed claris Vallibus Abbas</l>
+<l rend="indent">Clarior his clarum nomen in orbe dedit.</l> 
+<l>Clarus avis, clarus meritis, et clarus honore,</l>
+<l rend="indent">Claruit eloquio, relligione magis.</l> 
+<l>Mors est clara, cinis clarus, clarumque sepulcrum;</l>
+<l rend="indent">Clarior exsultat spiritus ante Deum.</l> 
+<l>
+<pb n="0569"/>Martyrio Magni celebrato, magnus ad ipsum</l>
+<l rend="indent">Colligitur Martyr; par sine morte pari.</l> 
+<p>In manuscripto codice Aquicinctensi legitur carmen sic inscriptum:  « enerabili abbati Clarae-Vallensi
+Bernardo, Anselmus, in laudem Clarae-Vallis, »  sub hoc initio:</p>
+<p> <hi>Vallis devexa, quam mons devexus opacat.</hi> 
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

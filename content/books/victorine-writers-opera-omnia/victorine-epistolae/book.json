@@ -1,0 +1,368 @@
+{
+  "id": "victorine-epistolae",
+  "cover": "classic",
+  "name": {
+    "la": "Epistolae Victorinorum et epitaphium Adami",
+    "en-US": "Letters of the Victorines and the Epitaph of Adam",
+    "pt-BR": "Cartas dos vitorinos e epitáfio de Adão"
+  },
+  "author": {
+    "la": "Victorini",
+    "en-US": "Victorine writers",
+    "pt-BR": "Escritores de São Vítor"
+  },
+  "description": {
+    "la": "Epistolae Achardi, Ervisii, Gilduini, Guarini et Odonis, canonicorum abbatumque S. Victoris, et Epitaphium Adami.",
+    "en-US": "The letters of Achard, Ervisius, Gilduin, Guarin and Odo of St. Victor from PL, with the epitaph of Adam. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "As cartas de Achard, Ervísio, Gilduíno, Guarino e Odo de São Vítor, com o epitáfio de Adão."
+  },
+  "composed": "12th century",
+  "languages": [
+    "la"
+  ],
+  "work": "victorines/victorine-epistolae",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AcSVi.EpiAch",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text AcSVi.EpiAch, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=ErSVi.EpErAb",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text ErSVi.EpErAb, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=GiSVi.EpGiAb",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text GiSVi.EpGiAb, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=GuSVi.EpGuAb",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text GuSVi.EpGuAb, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=OdSVi.EpiOdo",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text OdSVi.EpiOdo, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AdDeSaV.Epitap17",
+      "edition": "Migne, Patrologia Latina 185 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text AdDeSaV.Epitap17, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "Epistolae Achardi"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "I. Ad Henricum II Anglorum regem.—Ut Richardum de Ely, thesaurarium suum, ad solvendam pauperibus et ecclesiis relictam a canonico Parisiensi pecuniam compellat."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "II. Ad a. Episcopum Lexoviensem.—Commendat ei ecclesiam suam."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Epistolae Ervisii abbatis"
+      },
+      "children": [
+        {
+          "id": "c003",
+          "title": {
+            "la": "I. De Ervisio abbate s. Victoris, patrino Philippi regis."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "II. Epistola Ludovici regis ad Ervisium abbatem s. Victoris.—Petit justitiam ab hominibus de Amponvilla."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "III. Pe. S. Chrysogoni, papae capellani, ad Ervisium abbatem s. Victoris.—Ejus ob amorem se pecuniam Roberto de Bristo accommodasse."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "IV. Epistola g. Herefordiensis episcopi, ad Ervisium, Sancti Victoris abbatem.—Petit aliquem ex ejus grege, qui Ecclesiae Wigorniensi pastore viduatae praeficiatur."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "V. Epistola Ervisii abbatis s. Victoris, ad o. Cardinalem apostolicae sedis legatum.—Regem ei liberam concedere facultatem ad suos fratres cardinales revertendi."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "VI. Epistola Alexandri papae III ad abbatem s. Victoris.—Commendat ei Alexium diaconum apud Sanctum Victorem commorantem."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "VII. Epistola Laurentii abbatis Westinensis ad Ernestum [Ervisium] abbatem s. Victoris.—Commendat ei Joannem sui prioris cognatum qui scholas regere desiderabat."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "VIII. Epistola e. Ad Ervisium s. Victoris abbatem.—Significat mala quae sibi ab Ursino milite inferuntur."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "IX. Epistola r. Abbatis s. Evurtii ad Ervisium abbatem s. Victoris.—Excusat se quod non venerit ad eum, commendatque illi sui monasterii negotia."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "X. Epistola Ricardi abbatis Bristoliensis ad Ervisium abbatem s. Victoris.—Laudat monasterii s. Victoris sanctitatem, agitque gratias de impensis Rob. Gratiis."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "XI. Epistola g. Ad Ervisium abbatem fratrem suum.—Ejus se commendat precibus, mittitque ei munuscula."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "XII. Epistola Odonis cardinalis ad Ervisium abbatem s. Victoris.—Commendat ei famulum et negotia ei commissa."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "XIII. Epistola Jonae canonici ad Ervisium abbatem s. Victoris.—Missus Caesaris Burgum rogat revocari ad s. Victorem."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Epistolae Gilduini abbatis"
+      },
+      "children": [
+        {
+          "id": "c016",
+          "title": {
+            "la": "I. Ad episcopum Belvacensem.—Commendat ei presbyterum, cujus frater intestatus obierat."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "II. Litterae Gilduini de ecclesia s. Petri de Monte Letherico concessa monachis Longi Pontis, et de compensatione facta canonicis s. Victoris, qui in ea praebendam, et annualia possidebant."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Epistolae Guarini abbatis"
+      },
+      "children": [
+        {
+          "id": "c018",
+          "title": {
+            "la": "I. Alexandri et Theoderici cardinalium ad Guarinum abbatem.—Gratulantur ei de sua promotione, hortantur ut construendis magnis aedificiis non insistat."
+          }
+        },
+        {
+          "id": "c019",
+          "title": {
+            "la": "II. Alexandri papae III ad canonicos s. Victoris.—Cessionem Ervisii et Guarini promotionem confirmat."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "III. Alexandri papae III ad Guarinum, abbatem s. Victoris.—Gratulatur ei de sua electione, hortaturque ut pastoris vices diligenter obeat."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "IV. Guarini, abbatis s. Victoris, ad Joannem cardinalem Neapolitanum.—Se non posse ei quos petierat fratres mittere, uno jam defuncto, altero graviter aegrotante; sed et aegre alios mitti posse."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "V. Guarini, abbatis s. Victoris, ad Alexandrum papam III.—Ejusdem argumenti."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "VI. Gilduini, abbatis Fontis Joannis, ad Guarinum, abbatem s. Victoris.—De annona quam ab eo mutuo petebat."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "VII. Joannis, comitis Augi, ad Guarinum, abbatem s. Victoris.—Ut canonici quos Augum direxit, consuetudines Aroasiae observent, alioquin recedant."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "VIII. P. Cardinalis ad Guarinum, abbatem s. Victoris.—Quid egerit pro negotio s. Victoris, et quid faciendum consulat."
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "IX. Hugonis Petri Leonis cardinalis ad Guarinum et capitulum s. Victoris.—Dolet de facto Ervisii quondam abbatis, suaque illis offert obsequia."
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "X. Bernardi cardinalis ad Guarinum abbatem et capitulum s. Victoris.—Condolet gravamini monasterii Sancti Victoris, commendatque illis Bernardum nepotem suum."
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "XI. Joannis Neapolitani cardinalis ad Guarinum abbatem et fratres s. Victoris.—Gratias ei refert de concessione Petri canonici quem ei miserat, omnemque ei curam et sollicitudinem pro suis negotiis promittit."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "XII. Petri, papae camerarii, ad Guarinum, abbatem s. Victoris.—Condolet domus ejus gravaminibus."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "XIII. Alexandri et Th. Cardinalium priori et fratribus s. Victoris.—Hortantur eos ad regulae observantiam."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "XIV. Alexandri papae III ad Robertum priorem et capitulum s. Victoris.—Ejusdem argumenti."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "XV. Guarini, abbatis s. Victoris, ad Coelestinum papam III.—Gratulatur ei de ejus promotione, commendatque illi s. Victoris ecclesiam."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "XVI. Guarini abbatis s. Victoris ad Philippum regem Francorum.—Ut finem imponat dissidio Grandimontensium."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Epistolae Odonis"
+      },
+      "children": [
+        {
+          "id": "c034",
+          "title": {
+            "la": "Epistola prima. Fratri r. Frater odo Canonicae professionis votum persolvere."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Epistola II."
+          }
+        },
+        {
+          "id": "c036",
+          "title": {
+            "la": "Epistola III."
+          }
+        },
+        {
+          "id": "c037",
+          "title": {
+            "la": "Epistola IV."
+          }
+        },
+        {
+          "id": "c038",
+          "title": {
+            "la": "Epistola V."
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Epistola VI."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Epistola VII."
+          }
+        }
+      ]
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Epitaphium Adami"
+      }
+    }
+  ]
+}

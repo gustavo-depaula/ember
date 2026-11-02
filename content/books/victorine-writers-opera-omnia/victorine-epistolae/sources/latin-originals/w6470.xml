@@ -1,0 +1,616 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Epistolae Guarini abbatis</title>
+              <author>Guarinus S. Victoris<date>fl. 1125</date> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>GuSVi.EpGuAb</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>I. <hi>Alexandri et Theoderici cardinalium ad Guarinum abbatem.--Gratulantur ei de sua promotione, hortantur ut construendis magnis aedificiis non insistat.</hi> </head>
+
+<pb n="1387D"/>
+<p>ALEXANDER, dignatione divina, tituli Sancti Laurentii
+<pb n="1388D"/>
+in Lucina, et THEODERICUS tituli S. Vitalis presbyteri
+cardinales apostolicae sedis legati, dilecto in
+Christo fratri GUARINO, abbati S. Victoris, exerceri
+semper in justificationibus Dei.</p>
+<p>Scribimus fratribus nostris Senonensi et Bituricensi
+archiepiscopis, sicut vobis et Ecclesiae vestrae
+<pb n="1389A"/>
+credimus expedire. Sane in honore vobis imposito,
+et gaudemus super eo quod factum est, quoniam ad
+salutem multum, auxiliante Domino, provenire speramus,
+et laetamur quod difficultatem provisionis
+vobis impositae attenditis et timetis. Utinam hoc religio
+vestra semper attendat, et cum timore et tremore
+consideret, cui et unde in die judicii oporteat
+rationem reddere! Credimus enim quia non facile
+locus dabitur negligentiae, si hoc sedulo fuerit in
+animo vestro versatum. Antecessor vester sicut et
+alii multi de magnarum domorum constructione
+solliciti fuere: vos qui electi estis a Domino, et veniendo
+ad religionem talia dimisistis in saeculo,
+sedete ad pedes Jesu cum Maria, et audite verbum
+ex ore ipsius, quod commissis vobis ovibus et aliis
+<pb n="1389B"/>
+qui ad vos venerint proponere debeatis, ne, si forte
+terrenis aedificiis construendis decreveritis insistendum,
+evangelicum illud valeatis audire: <hi>Omnes
+aedificationes istae destruentur, et nec lapis super lapidem
+relinquetur.</hi> Porro et nos bona spe quam de
+vestra religione concepimus, et testimonio piae vestrae
+conversationis imbuti, et personam vestram in
+visceribus charitatis habere proponimus, et negotia
+commissae vobis Ecclesiae in timore Dei libenter volumus
+promovere.
+</p>
+      </div1>
+
+<div1>
+        <head>II. <hi>Alexandri papae III ad canonicos S. Victoris.--Cessionem Ervisii et Guarini promotionem confirmat.</hi> </head>
+<p>ALEXANDER episcopus, servus servorum Dei, dilectis
+<pb n="1389C"/>
+filiis canonicis Ecclesiae S. Victoris Parisiensis
+S. et A. B. </p>
+<p>Quanto ecclesia vestra, etc. <hi>Vide in Alexandro III
+papa.</hi> 
+</p>
+      </div1>
+
+<div1>
+        <head>III. <hi>Alexandri papae III ad Guarinum, abbatem S. Victoris.--Gratulatur ei de sua electione, hortaturque ut pastoris vices diligenter obeat.</hi> </head>
+<p>ALEXANDER episcopus, servus servorum Dei, dilecto
+filio GUARINO, abbati Sancti Victoris Parisiensis,
+S. et A. B. </p>
+<p>Intellecto et cognito, etc. <hi>Vide in Alexandro III
+papa.</hi> 
+</p>
+      </div1>
+
+<div1>
+        <head>IV. <hi>Guarini, abbatis S. Victoris, ad Joannem cardinalem Neapolitanum.--Se non posse ei quos petierat fratres mittere, uno jam defuncto, altero graviter aegrotante; sed et aegre alios mitti posse.</hi> </head>
+
+<pb n="1389D"/>
+<p>Reverendo domino et Patri in Christo charissimo
+J., Dei gratia, S. R. E. cardinali, GUARINUS, ecclesiae
+B. Victoris Parisiensis minister humilis, salutem
+in Domino, et promptum cum devotione servitium.</p>
+<p>Praedecessori meo de duobus fratribus, ac denuo
+cerata epistola, idem parvitati meae vestra mandavit
+sublimitas, ipsos quos volebatis, utrisque in litteris
+etiam subjunctis nominibus, Petrum videlicet Petragoricum
+et Hugonem de S. Germano specialiter
+<pb n="1390A"/>
+designastis, quorum alter, Deo vocante, transiit;
+reliquus vero sine spe evadendi morbo incurabili
+infirmatur. Cum autem morte et languoris praepediente
+molestia, eorum posset neuter destinari, quid
+agere nesciens, dominos Senonensem ac Bituricensem
+aliosque prudentes ac religiosos viros conveni,
+quid super hoc mihi faciendum consulerent: laudaveruntque
+ex quo in vestra epistola eligendi pro
+voluntate alterius nihil reliqueratis arbitrio, alios
+non esse tutum dirigere, ne forte onerosi magis
+quam grati, si non eos quos volebatis misissem, sed
+alios. Ob hoc etenim differendum consuluerunt, ut
+comperta vobis multiplici Ecclesiae necessitate, compassionis
+visceribus, parcendo ei, vestra pietas condescendat.
+Viri quippe religiosi, quorum quondam
+<pb n="1390B"/>
+religione et providentia regebatur Ecclesia, maxima
+jam obierunt ex parte, paucique surrexerunt post
+eos. Domus perturbationibus fatigata, oppressa debitis,
+bonis temporalibus nuda. Et, si inter tot curarum
+angustias, eos paucos, qui mihi remanserunt,
+qui me adjuvando supportare debent, cogor dimittere;
+et, si oculos qui mihi religionis et disciplinae
+debent viam monstrare, perdidero, de facili profecto
+errare continget, nec solus potero onus et providentiam
+domus portare. Tandem, humanum dico,
+secreta infirmitate operiens mortem, valde et propter
+terrae insuetam asperitatem et aeris qualitatem
+corruptam fratres pavescunt: quoniam si nostrates
+laici cum illuc vadunt, quive spatiandi, eundi et
+<pb n="1390C"/>
+redeundi habent libertatem omnimodam, vix vel
+modicum vivere possunt; isti claustro clausi, quomodo
+vivere in longinquis possent? Has causas et
+occasiones fratres praetendunt, unde et gravissimum
+duco eis injungere quod si fit, contra voluntatem
+suscipitur; si non fit, periculose valde negatur.
+Parcat igitur nunc, domine, infirmitatibus nostris
+vestrae clementiae magnitudo, et ecclesiae instantes
+attendite necessitates. Ego enim, in quibuscunque
+potero, vestris sum paratus obedire mandatis.
+</p>
+      </div1>
+
+<div1>
+        <head>V. <hi>Guarini, abbatis S. Victoris, ad Alexandrum papam III.--Ejusdem argumenti.</hi> </head>
+<p>Sanctissimo Patri et domino ALEXANDRO, Dei
+gratia, universalis Ecclesiae summo pontifici, GUARINUS,
+<pb n="1390D"/>
+Ecclesiae S. Victoris Parisiensis minister humilis,
+salutem in Domino, et subjectionis omnimodae
+devotissimum famulatum.</p>
+<p>Exiguitati meae, etc. <hi>Vide in Alexandro III papa.</hi> 
+</p>
+      </div1>
+
+<div1>
+        <head>VI. <hi>Gilduini, abbatis Fontis Joannis, ad Guarinum, abbatem S. Victoris.--De annona quam ab eo mutuo petebat.</hi> </head>
+<p>Venerabili et dilecto Patri GUARINO, abbati coenobii
+S. Victoris, frater GILDUINUS Fontis Joannis
+abbas cum obsequio, salutem.</p>
+<p>
+          <pb n="1391A"/>Dilectioni vestrae et fratrum vestrorum possibilitatem
+nostram obsequi voluntarii sumus. Annona
+vero quam vobis exposcitis commodari magna ex
+parte jam praeparata est, scilicet a paleis excussa.
+Proinde provideat charitas vestra, ut apud grangiam
+nostram, quae apud Moretum est, feria V post
+festum S. Jacobi, nuntium vestrum praesentem inveniamus.
+Non autem mittatur navis donec pervenerit
+nuntius vester, qui nobiscum annonam videat, et
+quantum sine gravamine domus nostrae poterimus,
+libentissime commodabimus. Vale.
+</p>
+      </div1>
+
+<div1>
+        <head>VII. <hi>Joannis, comitis Augi, ad Guarinum, abbatem S. Victoris.--Ut canonici quos Augum direxit, consuetudines Aroasiae observent, alioquin recedant.</hi> </head>
+<p>
+          <pb n="1391B"/>GUARINO, Dei gratia, abbati S. Victoris Parisiensis,
+JOANNES comes Augensis, salutem et dilectionem.</p>
+<p>His litteris discretioni paternitatis vestrae insinuare
+curavi, quam graviter et quam aspere et quasi
+infestanter barones mei in me insurgentes totusque
+clerus meus, multae quoque religiosissimae personae
+me affligentes incessanter vituperant, pro eo quod
+de Ecclesia Augi sic contra rationem inconsulte
+disponere decreverim, et quod vestros canonicas
+contra institutum patris et meum in ea receperim.
+Objiciunt enim mihi id quod verum est, scilicet,
+quia pater meus ex quo canonicos regulares apud
+Augum zelo Dei instituit, statim assensu Galfridi,
+archidiaconi Rothomagensis, et postea rogatu et
+<pb n="1391C"/>
+admonitu atque exhortatione Hugonis archiepiscopi
+Rothomagensis, donavit et ego concessi ecclesiam
+praedictam in manu abbatis Arwasiae ad
+tenendum et conservandum ordinem in perpetuum
+secundum regulam beati Augustini, et ita quod abbas
+Augi semel in anno revisitaret capitulum ecclesiae
+S. Nicolai de Arowasia, ut si quod minus esset
+reintegraretur. Quapropter mando, mandans quoque
+vestrae diligentissimae paternitati supplico,
+eamque super omnia rogo et obsecro ut pax in Ecclesia
+Augi habeatur. Rogero abbati et sociis ejus
+quos ad nos transmisisti per obedientiam praecipiatis,
+et praecipiendo injungatis, ut secundum morem
+et consuetudinem Arowasiae ordinem religionis in
+<pb n="1391D"/>
+Ecclesia Augi teneatis, aut omnino recedant. Nolo
+enim amplius ferre sententiam excommunicationis
+quae proinde super me Dominicis diebus singulis
+datur. Grave etenim mihi videtur quod tandiu eam
+sustinui. Quod si haec non feceritis, veraciter dico,
+quia nunquam amplius eos dilexero; sed destruam
+in quibuscunque potero. Vale.
+</p>
+      </div1>
+
+<div1>
+        <head>VIII. <hi>P. cardinalis ad Guarinum, abbatem S. Victoris.--Quid egerit pro negotio S. Victoris, et quid faciendum consulat.</hi> </head>
+
+<pb n="1392A"/>
+<p>G., Dei gratia, S. Victoris abbati, totique conventui,
+eadem gratia tituli S. Chrysogoni presbyter
+cardinalis, salutem et sinceram amoris perseverantiam.</p>
+<p>Accepimus nuper litteras devotionis vestrae et doluimus
+non solum Ecclesiae gravamen, verum etiam
+prudentiam vestram nescio quorum consilio seu
+calliditate adeo declinasse, quod ad pedes archiepiscopi
+humiliati, quae alius rapuit vos sponderetis
+soluturos. Cum enim nos pro liberatione Ecclesiae
+vestrae totis nisibus totaque sollicitudine nos opponeremus
+<pb n="1392B"/>
+parti adversae, duplex nobis incumbebat
+labor. Primo probare quidem rem tali personae et
+taliter commissam a vobis minime deberi. Deinde
+quia cecideratis in causa, innocentiam et paupertatem
+vestram commemorando, vos a tam gravi casu
+relevare, requirebamus humiliter et devote a domino
+papa ut vos a petitione domini archiepiscopi
+faceret penitus absolvi. Sed quia tanta difficultas
+negotii, archiepiscopo omnia imperanter et praecise
+quasi de jure requirente, inaudita est nostra petitio.
+Impetravimus tandem litteras quam meliores potuimus
+et judices, quibus per litteras nostras preces
+porrigimus affectuosas, ut justitiam vestram illaesam
+modis omnibus conservare studeant. Nunc igitur
+<pb n="1392C"/>
+oculos vos oportet habere apertos et circumspectos.
+Si enim inter vos et archiepiscopum amicabilis non
+poterit compositio pervenire, cum dominus papa,
+cognitis utriusque partis rationibus, ad solvendum,
+nisi quae in usus Ecclesiae versa fuisse constiterit,
+vos minime cogat, nec istud judicibus, sed tantum
+causam fine debito terminandam praecipiat, et in
+aliquibus vos praejudicio gravari censeatis, respondendum
+erit vobis constanter. Nos si incaute quidquam
+promisimus indebitum, reddere nec possumus
+nec debemus. Sed ad instar pupilli, si lapsus fuerit
+vel lubrico consilio vel adversariorum dolo, restituendi
+sumus, alioquin in voce appellationis libere
+procedere; quoniam et litterae domini papae taliter
+dictatae sunt, ut vobis appellationem minime prohibeat.
+<pb n="1392D"/>
+Nec oportebit tunc aliquem de fratribus ad nos
+usque propter haec defatigari, sed unus de pueris
+vestris rem gestam referat nobis, et nostram circa
+vos sollicitudinem experiri poteritis.
+</p>
+      </div1>
+
+<div1>
+        <head>IX. <hi>Hugonis Petri Leonis cardinalis ad Guarinum et capitulum S. Victoris.--Dolet de facto Ervisii quondam abbatis, suaque illis offert obsequia.</hi> </head>
+<p>Dilectis in Christo fratribus GUARINO abbati, priori
+et universo capitulo S. Victoris HUGO PETRI LEONIS
+<pb n="1393A"/>,
+Dei gratia. S. Angeli diaconus cardinalis
+salutem et dilectionis affectum.</p>
+<p>Quanto dilectionem vestram sincerioris brachiis
+charitatis amplectimur, tanto dolemus amplius et
+turbamur, cum vos vel monasterium vestrum adversitati
+cuilibet subjacere audimus, quod in prosperitate
+gaudere et prae caeteris Gallicanae provinciae
+monasteriis prae sui honestate ac religione fovemus,
+et nomen celebrius cognovimus extulisse. Visis siquidem
+litteris vestris, quibus nobis factum Ervisii
+quondam abbatis vestri significastis, turbati fuimus,
+et vehementi amaritudine cordis percussi, utpote
+qui dolorem vestrum nostrum penitus reputamus, et
+in laetitia vestra plurimum gratulamur. Ad medelam
+igitur tanti doloris et gravaminis, petitionem vestram
+<pb n="1393B"/>
+quanta potuimus instantia et sollicitudine promovere
+curavimus, et quod non est in omnibus sicut voluimus
+effectui mancipatum, nobis tantum displicuit
+quantum vestram timemus deficere voluntatem. Inde
+est quod universitatem vestram rogamus et exoramus
+attentius, quatenus de nobis tanquam de speciali
+vestro plenius confidentes, et posse nostrum
+vestrum omnimode reputantes, pro vestris et Ecclesiae
+vestrae negotiis ad nos cum omni fiducia recurratis,
+ut operis exhibitione vobis luce clarius enitescat,
+quanto circa vos dilectionis fervore ducamur,
+et ad impendenda grata vobis obsequia prompti simus
+omnimodis et parati. Propositum etenim et immobilem
+gerimus voluntatem ea efficere quae vobis
+noverimus complacere, et ad decorem et augmentum
+<pb n="1393C"/>
+domus et religionis vestrae debeant pertinere.
+</p>
+      </div1>
+
+<div1>
+        <head>X. <hi>Bernardi cardinalis ad Guarinum abbatem et capitulum S. Victoris.--Condolet gravamini monasterii Sancti Victoris, commendatque illis Bernardum nepotem suum.</hi> </head>
+<p>BERNARDUS Dei gratia Portuensis et S. Rufinae
+episcopus, venerabili fratri GUARINO ecclesiae B.
+Victoris abbati et capitulo, salutem et Deum deorum
+in Sion videre.</p>
+<p>Vestrae religionis gratanter susceptis litteris, ipsarum
+tenorem diligenti meditatione considerare
+non omisimus, vestrae domus ruinam et gravamen
+non modicum attendentes. Verum quia nostrum est
+<pb n="1393D"/>
+a crebris concussionibus tueri Ecclesias, et vestram
+praecipue, quam quasi propriam reputamus, et cujus
+assidua, ut credimus, oratione protegimur, interposuimus
+partem, domino papae instanter suadentes
+ut vestram in tanto casu Ecclesiam pontificali
+gratia protegeret et studiosius defensaret.
+Quod taliter demum factum esse credimus, ut si
+vestra propensior cura sollicite studuerit, parva vel
+nulla restitutione pecuniae praedictam vestram gravabit
+<pb n="1394A"/>
+Ecclesiam. Petimus igitur et propensius suademus,
+quatenus vestrae nobis orationis non subtrahentes
+munus, Deum incessabiliter pro nobis exorare
+dignemini, quia nostra, in quantum poterimus,
+nullatenus vobis deerit protectio: rogantes
+quatenus Bernardum nepotem nostrum more solito
+diligatis, honeste illud quod cum Nicolao clerico
+nostro ei promisistis pro hospitio largientes.
+Hoc enim charius habebimus, quam si in propria
+deponeretur camera. Praeterea rogamus, quatenus
+latori praesentium misericorditer vestra provideat
+discretio, pro impenso servitio ei congruum exsolventes
+beneficium, quo suam inopem possit defendere
+vitam. Scitis enim hunc multoties se morti et
+periculis pro vestra Ecclesia fideliter opposuisse.
+</p>
+      </div1>
+
+<div1>
+        <head>XI. <hi>Joannis Neapolitani cardinalis ad Guarinum abbatem et fratres S. Victoris.--Gratias ei refert de concessione Petri canonici quem ei miserat, omnemque ei curam et sollicitudinem pro suis negotiis promittit.</hi> </head>
+
+<pb n="1394B"/>
+<p>JOANNES Neapolitanus indignus presbyter cardinalis
+dilectis in Domino fratribus et amicis charissimis
+G. abbati et conventui S. Victoris Parisiensis
+salutem et sincerum amorem.</p>
+<p>Multimodas gratiarum actiones vobis referimus,
+quia juxta tenorem praecepti domini papae et nostrae
+postulationis destinastis nobis fratrem Petrum,
+virum utique morum honestate et scientia laudabilem,
+quem cum honore recepimus, et cum multo
+honore circa nos tenemus. Et postquam receperimus
+<pb n="1394C"/>
+alios canonicos de ecclesiis ordinis vestri, quibus
+dominus papa eodem modo scripsit sicut et vobis,
+cum multa et solemni honorificentia instituemus
+in ecclesia, quam per gratiam Dei magnifice
+construximus, et amplissimis possessionibus dotavimus.
+Amodo igitur quasi ex debito tenebimur
+omni vitae nostrae tempore propensius diligere et
+juvare Ecclesiam vestram in omni possibilitate nostra
+juxta voluntatem vestram. Et nunc quoque
+super quaestione illa quam archiepiscopus Lundensis
+indebite contra vos movere dignoscitur, sic efficaciter
+juvimus sicut oportuit et necessarium fuit.
+Quod itaque plenius cognoscetis, postquam rescriptum
+litterarum domini papae, quas Lundensi archiepiscopo
+<pb n="1394D"/>
+pro vobis mittit, legeritis, ut ante judices
+quos dominus papa delegavit ad cognitionem et
+decisionem querimoniae, quam jam dictus archiepiscopus
+contra vos facit, propitii vobis sint. Sic ut et
+partem vestram attentius manu tenere studeant,
+nostras eis litteras mittimus, et preces illis pro vobis
+porrigimus, et qualiter in judicio ipsius causae procedere
+debeant apertissima ratione monstramus.
+Multi etiam fratrum nostrorum cardinalium, intuitu
+<pb n="1395A"/>
+dilectionis nostrae, litteras suas juxta formam
+litterarum nostrarum judicibus illis transmittunt. Et
+haec quidem omnia ex apertione rescriptorum apertius
+vobis clarescent.
+</p>
+      </div1>
+
+<div1>
+        <head>XII. <hi>Petri, papae camerarii, ad Guarinum, abbatem S. Victoris.--Condolet domus ejus gravaminibus.</hi> </head>
+<p>Venerabili et digne reverendo Patri G., Dei gratia
+abbati S. Victoris Parisiensis, frater PETRUS, domini
+papae camerarius, salutem et devotam reverentiam.</p>
+<p>Litteras vestras sicut charissimi Patris benigne
+recepimus, utpote qui honori et obsequio vestro intendere
+dispositi sumus et parati. Audito autem
+scandalo vestrae domus condoluimus, et qualiter
+exinde solliciti fuerimus Deus scit, et opere, quantum
+<pb n="1395B"/>
+rationabiliter potuimus, studuimus demonstrare.
+Rogamus autem bonitatem vestram quatenus nos
+capitulo vestro et eorum orationibus commendetis.
+</p>
+      </div1>
+
+<div1>
+        <head>XIII. <hi>Alexandri et Th. cardinalium priori et fratribus S. Victoris.--Hortantur eos ad regulae observantiam.</hi> </head>
+<p>ALEXANDER, dignatione divina, tituli Sancti Laurentii
+in Lucina, et TH. tituli S. Vitalis presbyteri
+cardinales apostolicae sedis legati, dilectis et
+diligendis semper in Christo fratribus priori et capitulo
+Sancti Victoris, non respicere in vanitates et
+insanias falsas.</p>
+<p>Quod scribimus vobis et universitatem vestram
+<pb n="1395C"/>
+visitamus salutationis alloquio, de cordis affectu, ac
+bona quam erga vos habemus voluntate procedit.
+Attendentes enim quantum olim Ecclesia vestra in
+religione claruerit, et quomodo luce sua in multis
+locis noctem illustravit alienam, optamus admodum,
+et si facultas detur, libenter volumus existere adjutores.
+Et quia minus fecundus ab aliquantis diebus
+ex neglectu forte cultoris ager vester apparuit, fecunditatem
+pristinam, Deo irrogante, recipiat et in
+observantia sacrae religionis et fructu vitae ita refloreat,
+ut ordo canonicus, qui aliquantulum videtur
+in locis plurimis infirmatus, per exemplum vestrum
+atque doctrinam amissum recipiat, Deo adjuvante,
+vigorem. A plurimis retro annis multum scimus
+impensum, ut Ecclesiae vestrae status mutaretur in
+<pb n="1395D"/>
+melius, et tolleretur e medio quod fecunditatem
+dicebatur divini germinis impedire, et videtis id dilatum
+hactenus, et eo tempore reservatum, quo facilius
+et cum minori onere vestro effectum posset
+habere. Non credatis hoc opus hominis exstitisse,
+sed illius potius, qui posuit arenam terminum maris,
+et dixit ei: <hi>Huc usque venies, et hic infringes tumentes
+fluctus tuos <note>(Job XXXVIII, 11)</note>
+          </hi>. Eapropter universitatem
+vestram monemus et exhortamur in Domino,
+quatenus grati ei de tantae super vos benignitatis
+indicio existentes, levetis corda vestra cum manibus
+<pb n="1396A"/>
+ad eum in coelum, et ita in observantia sacrae religionis
+immensa studia vestra dirigatis, ut quia Deo
+fuit cura de vobis, qui nisi adjuvisset vos, paulo minus
+habitasset in inferno anima vestra, non interveniamini
+vos de salute vestra existere negligentes,
+et pro minimo ducere quod tam misericorditer et
+tam suaviter Deus voluit vobis providere. Obedite
+abbati quem divina vobis videtis miseratione concessum,
+habete ipsum sicut patrem animarum
+vestrarum in omni reverentia et honore, et simultatibus
+omnibus scandalisque sedatis, communibus
+votis et tota virtute contendite, ut bonus religionis
+odor, qui olim de loco vestro usquequaque flagrabat,
+per Ecclesiam Dei magis ac magis debeat redolere.
+Profecto nos qui eum pro sua religione sincerae
+<pb n="1396B"/>
+charitatis ulnis amplectimur, et profectum
+ejus nostrum proprium in Domino reputamus tanto
+vos in visceribus Christi chariores habebimus,
+tantoque libentius negotia vestra per nos et per eos
+qui nobis crediderunt promovere curabimus, quanto
+amplius ei obedientes noverimus ac devotos, et
+majori sinceritate dilectionis cum eo audierimus
+ambulare.
+</p>
+      </div1>
+
+<div1>
+        <head>XIV. <hi>Alexandri papae III ad Robertum priorem et capitulum S. Victoris.--Ejusdem argumenti.</hi> </head>
+<p>ALEXANDER episcopus, servus servorum Dei, dilectis
+filiis ROBERTO priori et capitulo S. Victoris
+Parisiensis S. et A.  B. </p>
+<p>
+          <pb n="1396C"/>Saepius dilectum filium nostrum Ervisium abbatem
+vestrum, et nunc etiam per scripta nostra monuimus
+atque mandamus ut negotia Ecclesiae
+vestrae, etc. <hi>Vide in Alexandro III.</hi> 
+</p>
+      </div1>
+
+<div1>
+        <head>XV. <hi>Guarini, abbatis S. Victoris, ad Coelestinum papam III.--Gratulatur ei de ejus promotione, commendatque illi S. Victoris ecclesiam.</hi> </head>
+<p>Sanctissimo domino et Patri COELESTINO Dei
+gratia summo pontifici, frater GUARINUS pauperum
+Ecclesiae S. Victoris Parisiensis minister humilis,
+cum caeteris ejusdem loci fratribus, debitum tanto
+Patri obedientiae obsequium et reverentiae plenitudinem.</p>
+<p>
+          <pb n="1396D"/>Omnipotenti Deo, Pater sancte, etc: <hi>Vide in Coelestino
+III, inter epistolas diversorum ad ipsum.</hi> 
+</p>
+      </div1>
+
+<div1>
+        <head>XVI. <hi>Guarini abbatis S. Victoris ad Philippum regem Francorum.--Ut finem imponat dissidio Grandimontensium.</hi> </head>
+<p>Illustrissimo, Dei gratia, Francorum regi PHILIPPO
+GUARINUS, divina dignatione, pauperum ecclesiae S.
+Victoris minister humilis, sic divina misericordia
+regnum terrenum regere, ut in coelo possit regnare.</p>
+<p>
+          <pb n="1397A"/>Cum de personae vestrae celsitudine fideli narratione
+cognoscimus ea quae ad animae vestrae profectum
+coram Deo, et ad honorem coram hominibus
+pertinere noscuntur, gratum nobis plurimum esse
+noveritis et acceptum. Inde est quod non mediocriter
+gratulamur in Domino, quia super pauperibus
+clericis Grandimontensibus virtus Spiritus sancti
+vestrum cor tetigit, et ad compassionem inclinavit
+affectum, qui ad confusionem sanctae matris Ecclesiae
+et totius religionis opprobrium, miserabile
+omnibus Deum timentibus coacti sunt exsilium sustinere.
+Excellentiae vestrae nobilitas caeterorumque
+principum servientium Deo, coelestium sacramentorum
+ministros, quibus traditae sunt regni coelorum
+claves a Domino, reverenter honorat. Sed eos
+<pb n="1397B"/>
+Grandimontenses conversi qui in religione fratres
+esse debuerant, inhoneste tractando, turpiter
+inhonorant! qui tamen a vobis caeterisque magnis
+personis tanto studio desiderant honorari. Obedientiam
+et humilitatem ministris Ecclesiae praedicant, nescientes
+Scripturas, neque virtutem Dei; sed ut eis ab
+Ecclesiae ministris obediatur, non ut ipsi ministris obediant,
+qui magis inobedientes et rebelles existunt;
+<pb n="1398A"/>
+ipsi etiam Deo, quod gravius, quia vicariis Dei. Mirantur
+viri virtutum, qui absque omni haesitatione Dei
+spiritum habent: sapientum quoque et religiosorum
+multitudo tam maxima, quae dinumerari vix possit,
+quomodo ministri Dei tam diuturno tempore, tam
+intolerabilia potuerunt sustinere, nisi quia eorum
+statu sepulto, lux necdum lucebat in tenebris, et
+tenebrae eam non comprehenderant. Ordinante vero,
+ut credimus, Dei clementia, vestris temporibus est
+reservata correctio, ut tantum tamque excellens
+Dei opus vos Regis aeterni ministrum in bono et
+cooperatorem fidenter habeat. Celsitudini igitur
+vestrae supplicamus attentius, ut illam recti consilii,
+quam a principio divina vobis ut praediximus,
+pietas inspiravit, felici exitu consummare velitis,
+<pb n="1398B"/>
+malignantium linguas magnae cautela sollicitudinis
+declinando, quae sub boni specie, diabolicae nequitiae
+venena proponunt, et fructuosam sanctae religionis
+correctionem, quam vestris diebus Spiritus sanctus
+reservare disposuit, maligni hostis arte nituntur
+destruere. Conservet vos Deus ad honorem sanctae
+Ecclesiae per tempora longa incolumem.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>
