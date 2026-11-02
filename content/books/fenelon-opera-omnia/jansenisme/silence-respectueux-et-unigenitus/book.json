@@ -1,0 +1,176 @@
+{
+  "id": "fenelon-jansenisme-silence-respectueux-unigenitus",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Jansénisme V : Justification du Silence respectueux, infaillibilité de l’Église et mandements pour la bulle Unigenitus (1708-1714)",
+    "en-US": "Jansenism V: Justification of Respectful Silence, the Church’s Infallibility, and the Pastoral Letters for the Bull Unigenitus (1708-1714)",
+    "pt-BR": "Jansenismo V: Justificação do Silêncio respeitoso, infalibilidade da Igreja e mandamentos para a bula Unigenitus (1708-1714)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "L’Instruction pastorale sur le livre intitulé Justification du Silence respectueux (1708), la lettre sur l’infaillibilité de l’Église touchant les textes dogmatiques (1709), et les deux mandements et instructions pastorales pour la réception de la constitution Unigenitus (Cambrai, 1714).",
+    "en-US": "The Pastoral Instruction on the book entitled Justification of Respectful Silence (1708), the letter on the Church’s infallibility regarding dogmatic texts (1709), and the two pastoral letters and instructions for receiving the constitution Unigenitus (Cambrai, 1714).",
+    "pt-BR": "A Instrução pastoral sobre o livro intitulado Justificação do Silêncio respeitoso (1708), a carta sobre a infalibilidade da Igreja quanto aos textos dogmáticos (1709) e os dois mandamentos e instruções pastorais para a recepção da constituição Unigenitus (Cambrai, 1714)."
+  },
+  "composed": "1708–1714",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/silence-respectueux-et-unigenitus",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte05fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 5, p. 5–187; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-justification-du-silence-respectueux",
+      "title": {
+        "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux"
+      },
+      "children": [
+        {
+          "id": "01-justification-du-silence-respectueux-01",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 1"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-02",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 2"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-03",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 3"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-04",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 4"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-05",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 5"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-06",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 6"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-07",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 7"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-08",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 8"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-09",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 9"
+          }
+        },
+        {
+          "id": "01-justification-du-silence-respectueux-10",
+          "title": {
+            "fr-FR": "Instruction pastorale sur le livre intitulé Justification du Silence respectueux, partie 10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-lettre-sur-l-infaillibilite",
+      "title": {
+        "fr-FR": "Lettre sur l’infaillibilité de l’Église touchant les textes dogmatiques"
+      },
+      "children": [
+        {
+          "id": "02-lettre-sur-l-infaillibilite-01",
+          "title": {
+            "fr-FR": "Lettre sur l’infaillibilité de l’Église touchant les textes dogmatiques, partie 1"
+          }
+        },
+        {
+          "id": "02-lettre-sur-l-infaillibilite-02",
+          "title": {
+            "fr-FR": "Lettre sur l’infaillibilité de l’Église touchant les textes dogmatiques, partie 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-mandement-unigenitus",
+      "title": {
+        "fr-FR": "Mandement et Instruction pastorale pour la réception de la constitution Unigenitus"
+      },
+      "children": [
+        {
+          "id": "03-mandement-unigenitus-01",
+          "title": {
+            "fr-FR": "Mandement et Instruction pastorale pour la réception de la constitution Unigenitus, partie 1"
+          }
+        },
+        {
+          "id": "03-mandement-unigenitus-02",
+          "title": {
+            "fr-FR": "Mandement et Instruction pastorale pour la réception de la constitution Unigenitus, partie 2"
+          }
+        },
+        {
+          "id": "03-mandement-unigenitus-03",
+          "title": {
+            "fr-FR": "Mandement et Instruction pastorale pour la réception de la constitution Unigenitus, partie 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "04-autre-mandement-unigenitus",
+      "title": {
+        "fr-FR": "Autre mandement pour le même objet (partie du diocèse soumise à l’Empereur)"
+      },
+      "children": [
+        {
+          "id": "04-autre-mandement-unigenitus-01",
+          "title": {
+            "fr-FR": "Autre mandement pour le même objet (partie du diocèse soumise à l’Empereur), partie 1"
+          }
+        },
+        {
+          "id": "04-autre-mandement-unigenitus-02",
+          "title": {
+            "fr-FR": "Autre mandement pour le même objet (partie du diocèse soumise à l’Empereur), partie 2"
+          }
+        }
+      ]
+    }
+  ]
+}
