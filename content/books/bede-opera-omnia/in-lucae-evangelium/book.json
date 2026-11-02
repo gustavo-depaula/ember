@@ -1,0 +1,94 @@
+{
+  "id": "bede-in-lucae-evangelium",
+  "cover": "classic",
+  "name": {
+    "la": "In Lucae evangelium expositio",
+    "en-US": "On the Gospel of Luke",
+    "pt-BR": "Sobre o Evangelho de Lucas"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "In Lucae evangelium expositio libris sex, cum epistolis Accae et Bedae.",
+    "en-US": "Bede's six-book exposition of the Gospel of Luke, the longest of his works, with the letters of Bishop Acca urging it and Bede's reply; it was widely copied and is quoted throughout the Catena Aurea. Latin text of Migne (PL 91-93); no public-domain English translation is known.",
+    "pt-BR": "A exposição de Beda ao Evangelho de Lucas, em seis livros, a mais longa das suas obras, com as cartas do bispo Acca que a pediu e a resposta de Beda; foi muito copiada e é citada ao longo da Catena Aurea."
+  },
+  "composed": "c. 709-716",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/in-lucae-evangelium",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 91-93 (1862-1863), after Giles (1843-44)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "In Evangelium S. Lucae Beda on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina.",
+      "description": "Wikitext removed; inline PL column numbers dropped; one file per book (or per part), chapter divisions kept as headings with their rubrics.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint of Giles: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "u01",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "u02",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "u03",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "u04",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "u05",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "u06",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "u07",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI"
+      }
+    }
+  ]
+}
