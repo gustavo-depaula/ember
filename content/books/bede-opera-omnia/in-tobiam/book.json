@@ -1,0 +1,52 @@
+{
+  "id": "bede-in-tobiam",
+  "cover": "classic",
+  "name": {
+    "la": "In Tobiam",
+    "en-US": "On Tobias",
+    "pt-BR": "Sobre Tobias"
+  },
+  "author": {
+    "la": "Beda Venerabilis",
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "description": {
+    "la": "Allegorica interpretatio in librum Tobiae.",
+    "en-US": "Bede's short allegorical interpretation of the Book of Tobit. Latin text of Migne (PL 91-93); no public-domain English translation is known.",
+    "pt-BR": "A breve interpretação alegórica de Beda ao Livro de Tobias."
+  },
+  "composed": "c. 716-731",
+  "languages": [
+    "la"
+  ],
+  "work": "bede/in-tobiam",
+  "editions": {
+    "la": {
+      "editor": "Migne, Patrologia Latina 91-93 (1862-1863), after Giles (1843-44)",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Scriptor:Beda_Venerabilis",
+      "edition": "Allegorica interpretatio in Tobiam on Latin Wikisource, from the Corpus Corporum TEI of Migne's Patrologia Latina.",
+      "description": "Wikitext removed; inline PL column numbers dropped; one file per book (or per part), chapter divisions kept as headings with their rubrics.",
+      "tier": "A",
+      "tierEvidence": "Eighth-century text in Migne's reprint of Giles: public domain."
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  },
+  "toc": [
+    {
+      "id": "u01",
+      "title": {
+        "la": "Expositio",
+        "en-US": "Exposition"
+      }
+    }
+  ]
+}
