@@ -1,0 +1,2256 @@
+{
+  "id": "chantal-lettres-iii",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Lettres, tome III (1627–1631)",
+    "en-US": "Letters, volume III (1627–1631)",
+    "pt-BR": "Cartas, tomo III (1627–1631)"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "fr-FR": "Les lettres de sainte Jeanne-Françoise de Chantal, tome III de la correspondance de l’édition Plon (lettres 754 à 1130), rangées par ordre chronologique : à saint François de Sales, aux premières Mères de la Visitation, aux Sœurs, à des évêques, des princes et des personnes du monde. Avec les notes et les sommaires des éditeurs.",
+    "en-US": "The letters of St. Jane Frances de Chantal, volume III of the correspondence in the Plon edition (letters 754 to 1130), in chronological order: to St. Francis de Sales, the first Mothers of the Visitation, the Sisters, bishops, princes and people in the world. With the editors’ notes and summaries.",
+    "pt-BR": "As cartas de santa Joana Francisca de Chantal, tomo III da correspondência da edição Plon (cartas 754 a 1130), em ordem cronológica: a são Francisco de Sales, às primeiras Madres da Visitação, às Irmãs, a bispos, príncipes e pessoas do mundo. Com as notas e os sumários dos editores."
+  },
+  "composed": "1627–1631",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "jane-de-chantal/lettres",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses du Premier Monastère de la Visitation d’Annecy",
+      "year": 1879
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/8DSUP48_6",
+      "edition": "Sainte Jeanne-Françoise Frémyot de Chantal, sa vie et ses œuvres, Plon, Paris, 1874–1879 (Édition authentique publiée par les soins des Religieuses du Premier Monastère de la Visitation Sainte-Marie d’Annecy), tome 6: Lettres, tome III. Scan of the Bibliothèque Sainte-Geneviève copy; text from the archive.org OCR.",
+      "description": "OCR text cleaned: running heads and page numbers removed, hyphenation joined, page-bottom notes turned into footnotes. The addressee and the editors’ summary head each letter (the summary in italics). Spelling is that of the 1870s edition. Letters whose number heading the OCR lost are folded into the previous letter, so a few numbers are missing. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Saint Jane de Chantal died in 1641; Plon edition 1877–79; the letters are public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l0754",
+      "title": {
+        "fr-FR": "Lettre 754. Son Fils"
+      }
+    },
+    {
+      "id": "l0756",
+      "title": {
+        "fr-FR": "Lettre 756. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0757",
+      "title": {
+        "fr-FR": "Lettre 757. À Monsieur de Coulanges"
+      }
+    },
+    {
+      "id": "l0758",
+      "title": {
+        "fr-FR": "Lettre 758"
+      }
+    },
+    {
+      "id": "l0759",
+      "title": {
+        "fr-FR": "Lettre 759. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l0760",
+      "title": {
+        "fr-FR": "Lettre 760. À Madame la Comtesse de Toulonjon"
+      }
+    },
+    {
+      "id": "l0761",
+      "title": {
+        "fr-FR": "Lettre 761. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l0762",
+      "title": {
+        "fr-FR": "Lettre 762. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l0763",
+      "title": {
+        "fr-FR": "Lettre 763. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0764",
+      "title": {
+        "fr-FR": "Lettre 764. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0765",
+      "title": {
+        "fr-FR": "Lettre 765. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l0766",
+      "title": {
+        "fr-FR": "Lettre 766. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l0767",
+      "title": {
+        "fr-FR": "Lettre 767. À 1, a M È R E. M a R I E - a I M É E de B l N a Y"
+      }
+    },
+    {
+      "id": "l0768",
+      "title": {
+        "fr-FR": "Lettre 768. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l0769",
+      "title": {
+        "fr-FR": "Lettre 769. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l0770",
+      "title": {
+        "fr-FR": "Lettre 770. À Madame la Comtesse de Toulonjom"
+      }
+    },
+    {
+      "id": "l0771",
+      "title": {
+        "fr-FR": "Lettre 771. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0772",
+      "title": {
+        "fr-FR": "Lettre 772. À la Mère Marie-Françoise de Livrom"
+      }
+    },
+    {
+      "id": "l0773",
+      "title": {
+        "fr-FR": "Lettre 773. À la Sœur Anne-Catherine de Sautereau"
+      }
+    },
+    {
+      "id": "l0774",
+      "title": {
+        "fr-FR": "Lettre 774. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0775",
+      "title": {
+        "fr-FR": "Lettre 775. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0776",
+      "title": {
+        "fr-FR": "Lettre 776. À Monseigneur de Neuciiêze"
+      }
+    },
+    {
+      "id": "l0777",
+      "title": {
+        "fr-FR": "Lettre 777. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0778",
+      "title": {
+        "fr-FR": "Lettre 778. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l0779",
+      "title": {
+        "fr-FR": "Lettre 779. À la Même"
+      }
+    },
+    {
+      "id": "l0780",
+      "title": {
+        "fr-FR": "Lettre 780. À la Même"
+      }
+    },
+    {
+      "id": "l0781",
+      "title": {
+        "fr-FR": "Lettre 781. À Monsieur Michel Favre"
+      }
+    },
+    {
+      "id": "l0782",
+      "title": {
+        "fr-FR": "Lettre 782. À la Mère Marie-Aimée de Dlonay"
+      }
+    },
+    {
+      "id": "l0783",
+      "title": {
+        "fr-FR": "Lettre 783. À la Même"
+      }
+    },
+    {
+      "id": "l0784",
+      "title": {
+        "fr-FR": "Lettre 784. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0785",
+      "title": {
+        "fr-FR": "Lettre 785. À la Mère Marie-Adrienne Fichet"
+      }
+    },
+    {
+      "id": "l0786",
+      "title": {
+        "fr-FR": "Lettre 786. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0787",
+      "title": {
+        "fr-FR": "Lettre 787. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l0788",
+      "title": {
+        "fr-FR": "Lettre 788. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0789",
+      "title": {
+        "fr-FR": "Lettre 789. À la Même"
+      }
+    },
+    {
+      "id": "l0790",
+      "title": {
+        "fr-FR": "Lettre 790. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0791",
+      "title": {
+        "fr-FR": "Lettre 791. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0792",
+      "title": {
+        "fr-FR": "Lettre 792. À la Sœur Jeanne-Françoise le Tellier"
+      }
+    },
+    {
+      "id": "l0793",
+      "title": {
+        "fr-FR": "Lettre 793. À la Mère Marie-Hélène de Ghastellux"
+      }
+    },
+    {
+      "id": "l0794",
+      "title": {
+        "fr-FR": "Lettre 794. À une Dame"
+      }
+    },
+    {
+      "id": "l0795",
+      "title": {
+        "fr-FR": "Lettre 795. À la Mère Marie-Adrienne Fichet"
+      }
+    },
+    {
+      "id": "l0796",
+      "title": {
+        "fr-FR": "Lettre 796. Son Fils"
+      }
+    },
+    {
+      "id": "l0797",
+      "title": {
+        "fr-FR": "Lettre 797. S.l Delle-F1li.e"
+      }
+    },
+    {
+      "id": "l0798",
+      "title": {
+        "fr-FR": "Lettre 798. À la Mère Marie-Françoise Humbert"
+      }
+    },
+    {
+      "id": "l0799",
+      "title": {
+        "fr-FR": "Lettre 799. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l0800",
+      "title": {
+        "fr-FR": "Lettre 800. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0801",
+      "title": {
+        "fr-FR": "Lettre 801. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0802",
+      "title": {
+        "fr-FR": "Lettre 802. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0803",
+      "title": {
+        "fr-FR": "Lettre 803. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l0804",
+      "title": {
+        "fr-FR": "Lettre 804. À Monsieur de Coulanges"
+      }
+    },
+    {
+      "id": "l0805",
+      "title": {
+        "fr-FR": "Lettre 805. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l0806",
+      "title": {
+        "fr-FR": "Lettre 806. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0807",
+      "title": {
+        "fr-FR": "Lettre 807. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0808",
+      "title": {
+        "fr-FR": "Lettre 808. Sa Belle-Fille"
+      }
+    },
+    {
+      "id": "l0809",
+      "title": {
+        "fr-FR": "Lettre 809. À Monsieur de Coulanges"
+      }
+    },
+    {
+      "id": "l0810",
+      "title": {
+        "fr-FR": "Lettre 810. À la Mère Marie-Adrienne Fichet"
+      }
+    },
+    {
+      "id": "l0811",
+      "title": {
+        "fr-FR": "Lettre 811. À Monseigneur Sébastien Zamet"
+      }
+    },
+    {
+      "id": "l0812",
+      "title": {
+        "fr-FR": "Lettre 812. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l0813",
+      "title": {
+        "fr-FR": "Lettre 813. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0814",
+      "title": {
+        "fr-FR": "Lettre 814. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l0815",
+      "title": {
+        "fr-FR": "Lettre 815. À la Mère Jeanne-Hélène de Gérard"
+      }
+    },
+    {
+      "id": "l0816",
+      "title": {
+        "fr-FR": "Lettre 816. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0817",
+      "title": {
+        "fr-FR": "Lettre 817. À la Meme"
+      }
+    },
+    {
+      "id": "l0818",
+      "title": {
+        "fr-FR": "Lettre 818. À la Sœur Frmçoise-Angéliqije de la Croix de Fesignv"
+      }
+    },
+    {
+      "id": "l0819",
+      "title": {
+        "fr-FR": "Lettre 819. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0820",
+      "title": {
+        "fr-FR": "Lettre 820. À la Mèlte Malue-Eitançoise Humdert"
+      }
+    },
+    {
+      "id": "l0821",
+      "title": {
+        "fr-FR": "Lettre 821. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0822",
+      "title": {
+        "fr-FR": "Lettre 822. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0823",
+      "title": {
+        "fr-FR": "Lettre 823. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0824",
+      "title": {
+        "fr-FR": "Lettre 824. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l0825",
+      "title": {
+        "fr-FR": "Lettre 825. À Dom Juste Guérin"
+      }
+    },
+    {
+      "id": "l0826",
+      "title": {
+        "fr-FR": "Lettre 826. À la Sœur Françoise-Angélique de la Croix de Fésigny"
+      }
+    },
+    {
+      "id": "l0827",
+      "title": {
+        "fr-FR": "Lettre 827. À Saint Vincent de Paul"
+      }
+    },
+    {
+      "id": "l0828",
+      "title": {
+        "fr-FR": "Lettre 828. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l0829",
+      "title": {
+        "fr-FR": "Lettre 829. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0830",
+      "title": {
+        "fr-FR": "Lettre 830. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l0831",
+      "title": {
+        "fr-FR": "Lettre 831. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0832",
+      "title": {
+        "fr-FR": "Lettre 832. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0833",
+      "title": {
+        "fr-FR": "Lettre 833. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l0834",
+      "title": {
+        "fr-FR": "Lettre 834. À la Mère Marie-Madeleine de Mouxy"
+      }
+    },
+    {
+      "id": "l0835",
+      "title": {
+        "fr-FR": "Lettre 835. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0836",
+      "title": {
+        "fr-FR": "Lettre 836. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l0837",
+      "title": {
+        "fr-FR": "Lettre 837. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0838",
+      "title": {
+        "fr-FR": "Lettre 838. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l0839",
+      "title": {
+        "fr-FR": "Lettre 839. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0840",
+      "title": {
+        "fr-FR": "Lettre 840. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l0841",
+      "title": {
+        "fr-FR": "Lettre 841. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0842",
+      "title": {
+        "fr-FR": "Lettre 842. À la Même"
+      }
+    },
+    {
+      "id": "l0843",
+      "title": {
+        "fr-FR": "Lettre 843. À la Mère Jeanne-Charlotte de Bréghard"
+      }
+    },
+    {
+      "id": "l0844",
+      "title": {
+        "fr-FR": "Lettre 844. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l0845",
+      "title": {
+        "fr-FR": "Lettre 845. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0846",
+      "title": {
+        "fr-FR": "Lettre 846. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0847",
+      "title": {
+        "fr-FR": "Lettre 847. À Monseigneur Jean-François de Sales"
+      }
+    },
+    {
+      "id": "l0848",
+      "title": {
+        "fr-FR": "Lettre 848. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0849",
+      "title": {
+        "fr-FR": "Lettre 849. À la Mère Marie-Hélène de Ghastellux"
+      }
+    },
+    {
+      "id": "l0850",
+      "title": {
+        "fr-FR": "Lettre 850. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0851",
+      "title": {
+        "fr-FR": "Lettre 851. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l0852",
+      "title": {
+        "fr-FR": "Lettre 852. À Madame la Comtesse de Toulo.vjom"
+      }
+    },
+    {
+      "id": "l0853",
+      "title": {
+        "fr-FR": "Lettre 853. À la Mère Péronne-Marie de Chatel"
+      }
+    },
+    {
+      "id": "l0854",
+      "title": {
+        "fr-FR": "Lettre 854. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0855",
+      "title": {
+        "fr-FR": "Lettre 855. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0856",
+      "title": {
+        "fr-FR": "Lettre 856. À Monseigneur Sébastien Zamet"
+      }
+    },
+    {
+      "id": "l0857",
+      "title": {
+        "fr-FR": "Lettre 857. À Monsieur Michel Favre"
+      }
+    },
+    {
+      "id": "l0858",
+      "title": {
+        "fr-FR": "Lettre 858. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l0859",
+      "title": {
+        "fr-FR": "Lettre 859. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0860",
+      "title": {
+        "fr-FR": "Lettre 860. À la Même"
+      }
+    },
+    {
+      "id": "l0861",
+      "title": {
+        "fr-FR": "Lettre 861. À la Mère Françoise-Jacqueline de Musy"
+      }
+    },
+    {
+      "id": "l0862",
+      "title": {
+        "fr-FR": "Lettre 862. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0863",
+      "title": {
+        "fr-FR": "Lettre 863. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0864",
+      "title": {
+        "fr-FR": "Lettre 864. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0865",
+      "title": {
+        "fr-FR": "Lettre 865. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0866",
+      "title": {
+        "fr-FR": "Lettre 866. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0867",
+      "title": {
+        "fr-FR": "Lettre 867. Au Révérend Père Maillan, Jésuite"
+      }
+    },
+    {
+      "id": "l0868",
+      "title": {
+        "fr-FR": "Lettre 868. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l0869",
+      "title": {
+        "fr-FR": "Lettre 869. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0870",
+      "title": {
+        "fr-FR": "Lettre 870. À Monseigneur Jean-François de Sales"
+      }
+    },
+    {
+      "id": "l0871",
+      "title": {
+        "fr-FR": "Lettre 871. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0872",
+      "title": {
+        "fr-FR": "Lettre 872. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0873",
+      "title": {
+        "fr-FR": "Lettre 873"
+      }
+    },
+    {
+      "id": "l0874",
+      "title": {
+        "fr-FR": "Lettre 874. À la Même"
+      }
+    },
+    {
+      "id": "l0875",
+      "title": {
+        "fr-FR": "Lettre 875. À la Même"
+      }
+    },
+    {
+      "id": "l0876",
+      "title": {
+        "fr-FR": "Lettre 876. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0877",
+      "title": {
+        "fr-FR": "Lettre 877. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0878",
+      "title": {
+        "fr-FR": "Lettre 878"
+      }
+    },
+    {
+      "id": "l0879",
+      "title": {
+        "fr-FR": "Lettre 879. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0880",
+      "title": {
+        "fr-FR": "Lettre 880. À la Mère Marie-Hélène de Ghastellux"
+      }
+    },
+    {
+      "id": "l0881",
+      "title": {
+        "fr-FR": "Lettre 881. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0882",
+      "title": {
+        "fr-FR": "Lettre 882. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l0883",
+      "title": {
+        "fr-FR": "Lettre 883. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0884",
+      "title": {
+        "fr-FR": "Lettre 884. À la Même"
+      }
+    },
+    {
+      "id": "l0885",
+      "title": {
+        "fr-FR": "Lettre 885. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0886",
+      "title": {
+        "fr-FR": "Lettre 886. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0887",
+      "title": {
+        "fr-FR": "Lettre 887. À la Mère Anne-Marguerite Clément"
+      }
+    },
+    {
+      "id": "l0888",
+      "title": {
+        "fr-FR": "Lettre 888. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0889",
+      "title": {
+        "fr-FR": "Lettre 889. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0890",
+      "title": {
+        "fr-FR": "Lettre 890. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0891",
+      "title": {
+        "fr-FR": "Lettre 891. À la Même"
+      }
+    },
+    {
+      "id": "l0892",
+      "title": {
+        "fr-FR": "Lettre 892. À la Meme"
+      }
+    },
+    {
+      "id": "l0893",
+      "title": {
+        "fr-FR": "Lettre 893. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l0894",
+      "title": {
+        "fr-FR": "Lettre 894. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0895",
+      "title": {
+        "fr-FR": "Lettre 895. Aux Mères Supérieures des Deux Monastères de Lyon"
+      }
+    },
+    {
+      "id": "l0896",
+      "title": {
+        "fr-FR": "Lettre 896. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l0897",
+      "title": {
+        "fr-FR": "Lettre 897. À la Mère Marie-Adrienne Fichet"
+      }
+    },
+    {
+      "id": "l0898",
+      "title": {
+        "fr-FR": "Lettre 898. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l0899",
+      "title": {
+        "fr-FR": "Lettre 899. À la Mère Marie-Madeleine de Mouxy"
+      }
+    },
+    {
+      "id": "l0900",
+      "title": {
+        "fr-FR": "Lettre 900. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0901",
+      "title": {
+        "fr-FR": "Lettre 901. Aux Mères Supérieures des Deux Monastères de Lyon"
+      }
+    },
+    {
+      "id": "l0902",
+      "title": {
+        "fr-FR": "Lettre 902. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0903",
+      "title": {
+        "fr-FR": "Lettre 903. À la Mère Marie-Adrienne Fichet"
+      }
+    },
+    {
+      "id": "l0904",
+      "title": {
+        "fr-FR": "Lettre 904. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0905",
+      "title": {
+        "fr-FR": "Lettre 905. À Monseigneur de Neuchèze"
+      }
+    },
+    {
+      "id": "l0906",
+      "title": {
+        "fr-FR": "Lettre 906. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0907",
+      "title": {
+        "fr-FR": "Lettre 907. À Madame de Vaudan"
+      }
+    },
+    {
+      "id": "l0908",
+      "title": {
+        "fr-FR": "Lettre 908. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0910",
+      "title": {
+        "fr-FR": "Lettre 910. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0911",
+      "title": {
+        "fr-FR": "Lettre 911. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0912",
+      "title": {
+        "fr-FR": "Lettre 912. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0913",
+      "title": {
+        "fr-FR": "Lettre 913"
+      }
+    },
+    {
+      "id": "l0914",
+      "title": {
+        "fr-FR": "Lettre 914. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0915",
+      "title": {
+        "fr-FR": "Lettre 915. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0916",
+      "title": {
+        "fr-FR": "Lettre 916. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0917",
+      "title": {
+        "fr-FR": "Lettre 917. À la Mère Marguerite-Elisabeth Sauzion"
+      }
+    },
+    {
+      "id": "l0919",
+      "title": {
+        "fr-FR": "Lettre 919. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0920",
+      "title": {
+        "fr-FR": "Lettre 920. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0921",
+      "title": {
+        "fr-FR": "Lettre 921. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0922",
+      "title": {
+        "fr-FR": "Lettre 922. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0923",
+      "title": {
+        "fr-FR": "Lettre 923. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l0924",
+      "title": {
+        "fr-FR": "Lettre 924. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0925",
+      "title": {
+        "fr-FR": "Lettre 925. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l0926",
+      "title": {
+        "fr-FR": "Lettre 926. Aux Sœurs de la Visitation de Moulins"
+      }
+    },
+    {
+      "id": "l0927",
+      "title": {
+        "fr-FR": "Lettre 927. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0928",
+      "title": {
+        "fr-FR": "Lettre 928. À Monseigneur Antoine de Revol"
+      }
+    },
+    {
+      "id": "l0930",
+      "title": {
+        "fr-FR": "Lettre 930. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0931",
+      "title": {
+        "fr-FR": "Lettre 931. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0932",
+      "title": {
+        "fr-FR": "Lettre 932. À la Aiême"
+      }
+    },
+    {
+      "id": "l0933",
+      "title": {
+        "fr-FR": "Lettre 933. Aux Mères C. Ch. Crémaix de la Graxge et M. A. de Bloxay"
+      }
+    },
+    {
+      "id": "l0934",
+      "title": {
+        "fr-FR": "Lettre 934. À la Sœur Marie-Julienne Bertrand de la Perrouse"
+      }
+    },
+    {
+      "id": "l0935",
+      "title": {
+        "fr-FR": "Lettre 935. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l0936",
+      "title": {
+        "fr-FR": "Lettre 936. À l a M È R E Anne- Marie R S S E T"
+      }
+    },
+    {
+      "id": "l0937",
+      "title": {
+        "fr-FR": "Lettre 937. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0938",
+      "title": {
+        "fr-FR": "Lettre 938. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0939",
+      "title": {
+        "fr-FR": "Lettre 939. À Madame de Codlasvges"
+      }
+    },
+    {
+      "id": "l0940",
+      "title": {
+        "fr-FR": "Lettre 940. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0941",
+      "title": {
+        "fr-FR": "Lettre 941. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0942",
+      "title": {
+        "fr-FR": "Lettre 942. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l0943",
+      "title": {
+        "fr-FR": "Lettre 943. À Monsieur le Chanoine Iuollé"
+      }
+    },
+    {
+      "id": "l0944",
+      "title": {
+        "fr-FR": "Lettre 944. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l0945",
+      "title": {
+        "fr-FR": "Lettre 945. À Monseigneur de Neuchèze, Son Neveu"
+      }
+    },
+    {
+      "id": "l0946",
+      "title": {
+        "fr-FR": "Lettre 946. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0947",
+      "title": {
+        "fr-FR": "Lettre 947. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l0948",
+      "title": {
+        "fr-FR": "Lettre 948. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0949",
+      "title": {
+        "fr-FR": "Lettre 949. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l0950",
+      "title": {
+        "fr-FR": "Lettre 950. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l0951",
+      "title": {
+        "fr-FR": "Lettre 951. À la Sœur Anne-Catherine de Sautereau"
+      }
+    },
+    {
+      "id": "l0952",
+      "title": {
+        "fr-FR": "Lettre 952. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0953",
+      "title": {
+        "fr-FR": "Lettre 953. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l0954",
+      "title": {
+        "fr-FR": "Lettre 954. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0955",
+      "title": {
+        "fr-FR": "Lettre 955. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0956",
+      "title": {
+        "fr-FR": "Lettre 956. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l0957",
+      "title": {
+        "fr-FR": "Lettre 957. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0958",
+      "title": {
+        "fr-FR": "Lettre 958. À la Mère Jeanne-Françoise le Tellier"
+      }
+    },
+    {
+      "id": "l0959",
+      "title": {
+        "fr-FR": "Lettre 959. À la Mère Anne-Marie de Lage de Puylaurens"
+      }
+    },
+    {
+      "id": "l0960",
+      "title": {
+        "fr-FR": "Lettre 960"
+      }
+    },
+    {
+      "id": "l0961",
+      "title": {
+        "fr-FR": "Lettre 961. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l0962",
+      "title": {
+        "fr-FR": "Lettre 962. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l0963",
+      "title": {
+        "fr-FR": "Lettre 963. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l0964",
+      "title": {
+        "fr-FR": "Lettre 964. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l0965",
+      "title": {
+        "fr-FR": "Lettre 965. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l0966",
+      "title": {
+        "fr-FR": "Lettre 966. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0967",
+      "title": {
+        "fr-FR": "Lettre 967. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l0968",
+      "title": {
+        "fr-FR": "Lettre 968. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l0969",
+      "title": {
+        "fr-FR": "Lettre 969. À la Sœur Marie-Jacqueline Compaim"
+      }
+    },
+    {
+      "id": "l0970",
+      "title": {
+        "fr-FR": "Lettre 970. Circulaire Adressée aux Supérieures de la Visitation"
+      }
+    },
+    {
+      "id": "l0971",
+      "title": {
+        "fr-FR": "Lettre 971. À une Supérieure de la Visitation"
+      }
+    },
+    {
+      "id": "l0972",
+      "title": {
+        "fr-FR": "Lettre 972. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l0973",
+      "title": {
+        "fr-FR": "Lettre 973. Circulaire Adressée aux Supérieures de la Visitation"
+      }
+    },
+    {
+      "id": "l0974",
+      "title": {
+        "fr-FR": "Lettre 974. Circulaire Adressée aux Supérieures de la Visitation"
+      }
+    },
+    {
+      "id": "l0975",
+      "title": {
+        "fr-FR": "Lettre 975. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0976",
+      "title": {
+        "fr-FR": "Lettre 976. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l0977",
+      "title": {
+        "fr-FR": "Lettre 977. À un Religieux"
+      }
+    },
+    {
+      "id": "l0978",
+      "title": {
+        "fr-FR": "Lettre 978. À la Mère Paule-Jéronyme Favrot"
+      }
+    },
+    {
+      "id": "l0979",
+      "title": {
+        "fr-FR": "Lettre 979. À Madame la Duchesse de Nemours"
+      }
+    },
+    {
+      "id": "l0980",
+      "title": {
+        "fr-FR": "Lettre 980. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l0981",
+      "title": {
+        "fr-FR": "Lettre 981. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l0982",
+      "title": {
+        "fr-FR": "Lettre 982. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l0983",
+      "title": {
+        "fr-FR": "Lettre 983"
+      }
+    },
+    {
+      "id": "l0984",
+      "title": {
+        "fr-FR": "Lettre 984. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0985",
+      "title": {
+        "fr-FR": "Lettre 985. À la Mère Anne-Marguerite Clément"
+      }
+    },
+    {
+      "id": "l0986",
+      "title": {
+        "fr-FR": "Lettre 986. Au Père Dom Galice, Barjvabite"
+      }
+    },
+    {
+      "id": "l0987",
+      "title": {
+        "fr-FR": "Lettre 987. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l0988",
+      "title": {
+        "fr-FR": "Lettre 988. À la Mère An Ne- Ai a Rie Rosset"
+      }
+    },
+    {
+      "id": "l0989",
+      "title": {
+        "fr-FR": "Lettre 989. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l0990",
+      "title": {
+        "fr-FR": "Lettre 990. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l0991",
+      "title": {
+        "fr-FR": "Lettre 991. À Madame la Duchesse de Nemours"
+      }
+    },
+    {
+      "id": "l0992",
+      "title": {
+        "fr-FR": "Lettre 992. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l0993",
+      "title": {
+        "fr-FR": "Lettre 993. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l0994",
+      "title": {
+        "fr-FR": "Lettre 994. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l0995",
+      "title": {
+        "fr-FR": "Lettre 995. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0996",
+      "title": {
+        "fr-FR": "Lettre 996. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l0997",
+      "title": {
+        "fr-FR": "Lettre 997. À Monseigneur Sébastien Zamet"
+      }
+    },
+    {
+      "id": "l0998",
+      "title": {
+        "fr-FR": "Lettre 998. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l0999",
+      "title": {
+        "fr-FR": "Lettre 999. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1000",
+      "title": {
+        "fr-FR": "Lettre 1000. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1001",
+      "title": {
+        "fr-FR": "Lettre 1001. À la Mère Marie-Aimée de Blomay"
+      }
+    },
+    {
+      "id": "l1003",
+      "title": {
+        "fr-FR": "Lettre 1003. À la Mère Marie-Françoise Humbert"
+      }
+    },
+    {
+      "id": "l1004",
+      "title": {
+        "fr-FR": "Lettre 1004. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1005",
+      "title": {
+        "fr-FR": "Lettre 1005. À Madame Royale Christine de France I"
+      }
+    },
+    {
+      "id": "l1006",
+      "title": {
+        "fr-FR": "Lettre 1006. À la Mère Anne-Thérèse de Préchonnet"
+      }
+    },
+    {
+      "id": "l1007",
+      "title": {
+        "fr-FR": "Lettre 1007. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l1008",
+      "title": {
+        "fr-FR": "Lettre 1008. À la Sœur Anne-Baptiste Chauvel"
+      }
+    },
+    {
+      "id": "l1009",
+      "title": {
+        "fr-FR": "Lettre 1009. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1010",
+      "title": {
+        "fr-FR": "Lettre 1010. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1011",
+      "title": {
+        "fr-FR": "Lettre 1011. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1012",
+      "title": {
+        "fr-FR": "Lettre 1012. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1013",
+      "title": {
+        "fr-FR": "Lettre 1013. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1014",
+      "title": {
+        "fr-FR": "Lettre 1014. À Monseigneur Alph.-Louis du Plessis-Kiciielieu"
+      }
+    },
+    {
+      "id": "l1015",
+      "title": {
+        "fr-FR": "Lettre 1015. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1016",
+      "title": {
+        "fr-FR": "Lettre 1016. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l1017",
+      "title": {
+        "fr-FR": "Lettre 1017. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1018",
+      "title": {
+        "fr-FR": "Lettre 1018. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1019",
+      "title": {
+        "fr-FR": "Lettre 1019. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l1020",
+      "title": {
+        "fr-FR": "Lettre 1020. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1021",
+      "title": {
+        "fr-FR": "Lettre 1021. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1022",
+      "title": {
+        "fr-FR": "Lettre 1022. À la Mère Hélène-Angélique Lhuillier"
+      }
+    },
+    {
+      "id": "l1023",
+      "title": {
+        "fr-FR": "Lettre 1023. À la Sœur Anne-Madeleine le Tilier"
+      }
+    },
+    {
+      "id": "l1024",
+      "title": {
+        "fr-FR": "Lettre 1024. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1025",
+      "title": {
+        "fr-FR": "Lettre 1025. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l1026",
+      "title": {
+        "fr-FR": "Lettre 1026. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1027",
+      "title": {
+        "fr-FR": "Lettre 1027. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1028",
+      "title": {
+        "fr-FR": "Lettre 1028. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l1029",
+      "title": {
+        "fr-FR": "Lettre 1029. À la Sœur Anne-Catherine de Sautereau"
+      }
+    },
+    {
+      "id": "l1030",
+      "title": {
+        "fr-FR": "Lettre 1030. À la Sœur Marie-Félicienne Baudet"
+      }
+    },
+    {
+      "id": "l1031",
+      "title": {
+        "fr-FR": "Lettre 1031. À la Mère Anne-Marguerite Clément"
+      }
+    },
+    {
+      "id": "l1032",
+      "title": {
+        "fr-FR": "Lettre 1032. Au Père Dom Galice"
+      }
+    },
+    {
+      "id": "l1033",
+      "title": {
+        "fr-FR": "Lettre 1033. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l1034",
+      "title": {
+        "fr-FR": "Lettre 1034. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1035",
+      "title": {
+        "fr-FR": "Lettre 1035. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1036",
+      "title": {
+        "fr-FR": "Lettre 1036. À Saint Vincent de Paul"
+      }
+    },
+    {
+      "id": "l1037",
+      "title": {
+        "fr-FR": "Lettre 1037. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1038",
+      "title": {
+        "fr-FR": "Lettre 1038. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1039",
+      "title": {
+        "fr-FR": "Lettre 1039. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1040",
+      "title": {
+        "fr-FR": "Lettre 1040. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1041",
+      "title": {
+        "fr-FR": "Lettre 1041. À Madame la Duchesse de Nemours"
+      }
+    },
+    {
+      "id": "l1042",
+      "title": {
+        "fr-FR": "Lettre 1042. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1043",
+      "title": {
+        "fr-FR": "Lettre 1043. À la Sœur Françoise-Marguerite Favrot"
+      }
+    },
+    {
+      "id": "l1044",
+      "title": {
+        "fr-FR": "Lettre 1044. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1045",
+      "title": {
+        "fr-FR": "Lettre 1045. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1046",
+      "title": {
+        "fr-FR": "Lettre 1046. À Monseigneur Jean-François de Sales"
+      }
+    },
+    {
+      "id": "l1047",
+      "title": {
+        "fr-FR": "Lettre 1047. À la Mère Claude-Agnès Joly de la Roche"
+      }
+    },
+    {
+      "id": "l1048",
+      "title": {
+        "fr-FR": "Lettre 1048. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1049",
+      "title": {
+        "fr-FR": "Lettre 1049. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1050",
+      "title": {
+        "fr-FR": "Lettre 1050. À la Sœur Françoise-Marguerite Favrot"
+      }
+    },
+    {
+      "id": "l1051",
+      "title": {
+        "fr-FR": "Lettre 1051. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1052",
+      "title": {
+        "fr-FR": "Lettre 1052. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l1053",
+      "title": {
+        "fr-FR": "Lettre 1053. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1054",
+      "title": {
+        "fr-FR": "Lettre 1054"
+      }
+    },
+    {
+      "id": "l1055",
+      "title": {
+        "fr-FR": "Lettre 1055. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1056",
+      "title": {
+        "fr-FR": "Lettre 1056. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l1057",
+      "title": {
+        "fr-FR": "Lettre 1057. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1058",
+      "title": {
+        "fr-FR": "Lettre 1058. À la Mère Marie-Marguerite Michel"
+      }
+    },
+    {
+      "id": "l1059",
+      "title": {
+        "fr-FR": "Lettre 1059. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1060",
+      "title": {
+        "fr-FR": "Lettre 1060. À Madame la Duchesse de Nemours"
+      }
+    },
+    {
+      "id": "l1061",
+      "title": {
+        "fr-FR": "Lettre 1061. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1062",
+      "title": {
+        "fr-FR": "Lettre 1062. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l1063",
+      "title": {
+        "fr-FR": "Lettre 1063. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1064",
+      "title": {
+        "fr-FR": "Lettre 1064. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1065",
+      "title": {
+        "fr-FR": "Lettre 1065. À la Mère Anne-Thérèse de Préchonnet"
+      }
+    },
+    {
+      "id": "l1066",
+      "title": {
+        "fr-FR": "Lettre 1066. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1067",
+      "title": {
+        "fr-FR": "Lettre 1067. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1068",
+      "title": {
+        "fr-FR": "Lettre 1068. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1069",
+      "title": {
+        "fr-FR": "Lettre 1069. À l'Assistante et aux Religieuses de la Visitation de Rennes"
+      }
+    },
+    {
+      "id": "l1070",
+      "title": {
+        "fr-FR": "Lettre 1070. À la Mère Marie-Aimée de Bloxay"
+      }
+    },
+    {
+      "id": "l1071",
+      "title": {
+        "fr-FR": "Lettre 1071. À la Même"
+      }
+    },
+    {
+      "id": "l1072",
+      "title": {
+        "fr-FR": "Lettre 1072. À la Mère Françoise-Gasparde de la Grave"
+      }
+    },
+    {
+      "id": "l1073",
+      "title": {
+        "fr-FR": "Lettre 1073. À la Mère Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "l1074",
+      "title": {
+        "fr-FR": "Lettre 1074. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1075",
+      "title": {
+        "fr-FR": "Lettre 1075. À la Mère Anne-Marguerite Clément"
+      }
+    },
+    {
+      "id": "l1076",
+      "title": {
+        "fr-FR": "Lettre 1076. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1077",
+      "title": {
+        "fr-FR": "Lettre 1077. À la Sœur Marie-Séraphine de Lalande"
+      }
+    },
+    {
+      "id": "l1078",
+      "title": {
+        "fr-FR": "Lettre 1078. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1079",
+      "title": {
+        "fr-FR": "Lettre 1079. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1080",
+      "title": {
+        "fr-FR": "Lettre 1080. À Monsieur l'Avocat Pioton"
+      }
+    },
+    {
+      "id": "l1081",
+      "title": {
+        "fr-FR": "Lettre 1081. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l1082",
+      "title": {
+        "fr-FR": "Lettre 1082. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1083",
+      "title": {
+        "fr-FR": "Lettre 1083. Au Révérend Père Pllmeret, Jésuite"
+      }
+    },
+    {
+      "id": "l1084",
+      "title": {
+        "fr-FR": "Lettre 1084. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1085",
+      "title": {
+        "fr-FR": "Lettre 1085. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1086",
+      "title": {
+        "fr-FR": "Lettre 1086. À la Mère Marie-Éléonore Gontal"
+      }
+    },
+    {
+      "id": "l1087",
+      "title": {
+        "fr-FR": "Lettre 1087. À Momseigneur Pierre Femouillet"
+      }
+    },
+    {
+      "id": "l1088",
+      "title": {
+        "fr-FR": "Lettre 1088. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1089",
+      "title": {
+        "fr-FR": "Lettre 1089. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1090",
+      "title": {
+        "fr-FR": "Lettre 1090. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1091",
+      "title": {
+        "fr-FR": "Lettre 1091. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1092",
+      "title": {
+        "fr-FR": "Lettre 1092. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1093",
+      "title": {
+        "fr-FR": "Lettre 1093. À la Mère Marie-Hélène de Chastellux"
+      }
+    },
+    {
+      "id": "l1095",
+      "title": {
+        "fr-FR": "Lettre 1095. À la Sœur Amxe-Louise de Verdelot"
+      }
+    },
+    {
+      "id": "l1097",
+      "title": {
+        "fr-FR": "Lettre 1097. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1098",
+      "title": {
+        "fr-FR": "Lettre 1098. À la Mère Marie-Philiberte Aysement"
+      }
+    },
+    {
+      "id": "l1099",
+      "title": {
+        "fr-FR": "Lettre 1099. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1100",
+      "title": {
+        "fr-FR": "Lettre 1100. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1101",
+      "title": {
+        "fr-FR": "Lettre 1101. À Monseigneur Pierre Ii de Villars"
+      }
+    },
+    {
+      "id": "l1102",
+      "title": {
+        "fr-FR": "Lettre 1102. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1103",
+      "title": {
+        "fr-FR": "Lettre 1103. À la Même"
+      }
+    },
+    {
+      "id": "l1104",
+      "title": {
+        "fr-FR": "Lettre 1104. À la Mère Marie-Aimée de Blo.vay"
+      }
+    },
+    {
+      "id": "l1105",
+      "title": {
+        "fr-FR": "Lettre 1105. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1106",
+      "title": {
+        "fr-FR": "Lettre 1106. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1107",
+      "title": {
+        "fr-FR": "Lettre 1107. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1109",
+      "title": {
+        "fr-FR": "Lettre 1109. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1110",
+      "title": {
+        "fr-FR": "Lettre 1110. À la Mère Anne-Marie Bollain"
+      }
+    },
+    {
+      "id": "l1111",
+      "title": {
+        "fr-FR": "Lettre 1111. À la Mère Marie-Constance de Bressand"
+      }
+    },
+    {
+      "id": "l1112",
+      "title": {
+        "fr-FR": "Lettre 1112. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1113",
+      "title": {
+        "fr-FR": "Lettre 1113. À la Mère Anne-Catherine de Beaumont"
+      }
+    },
+    {
+      "id": "l1114",
+      "title": {
+        "fr-FR": "Lettre 1114. À la Mère Har1e-Aihée Dr Blonay"
+      }
+    },
+    {
+      "id": "l1115",
+      "title": {
+        "fr-FR": "Lettre 1115. À la Même"
+      }
+    },
+    {
+      "id": "l1116",
+      "title": {
+        "fr-FR": "Lettre 1116. À Madame de Vaudan"
+      }
+    },
+    {
+      "id": "l1117",
+      "title": {
+        "fr-FR": "Lettre 1117. À la Mère Jeanne-Marguerite Chahu"
+      }
+    },
+    {
+      "id": "l1118",
+      "title": {
+        "fr-FR": "Lettre 1118. À la Mère Anne-Marie Rosset"
+      }
+    },
+    {
+      "id": "l1119",
+      "title": {
+        "fr-FR": "Lettre 1119. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l1120",
+      "title": {
+        "fr-FR": "Lettre 1120. À la Même"
+      }
+    },
+    {
+      "id": "l1121",
+      "title": {
+        "fr-FR": "Lettre 1121. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1122",
+      "title": {
+        "fr-FR": "Lettre 1122. À Madame la Princesse de Carignan"
+      }
+    },
+    {
+      "id": "l1123",
+      "title": {
+        "fr-FR": "Lettre 1123. À la Mère Louise-Dorothée de Marigny"
+      }
+    },
+    {
+      "id": "l1124",
+      "title": {
+        "fr-FR": "Lettre 1124. À la Mère Paule-Jéronyme de Monthoux"
+      }
+    },
+    {
+      "id": "l1125",
+      "title": {
+        "fr-FR": "Lettre 1125. À la Mère Jeanne-Charlotte de Bréchard"
+      }
+    },
+    {
+      "id": "l1126",
+      "title": {
+        "fr-FR": "Lettre 1126. À la Mère Marie-Aimée de Blonay"
+      }
+    },
+    {
+      "id": "l1127",
+      "title": {
+        "fr-FR": "Lettre 1127. À la Sœur Marie-Denise Goubert"
+      }
+    },
+    {
+      "id": "l1128",
+      "title": {
+        "fr-FR": "Lettre 1128"
+      }
+    },
+    {
+      "id": "l1129",
+      "title": {
+        "fr-FR": "Lettre 1129. À la Mère Marie-Jacqueline Favre"
+      }
+    },
+    {
+      "id": "l1130",
+      "title": {
+        "fr-FR": "Lettre 1130. À la Mère Marie-Aimée de Blonay"
+      }
+    }
+  ]
+}
