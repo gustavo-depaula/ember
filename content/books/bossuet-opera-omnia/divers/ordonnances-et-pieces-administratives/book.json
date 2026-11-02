@@ -1,0 +1,84 @@
+{
+  "id": "bossuet-ordonnances-pieces",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Ordonnances et pièces administratives",
+    "en-US": "Ordinances and Administrative Documents",
+    "pt-BR": "Ordenações e peças administrativas"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les actes de l’évêque de Meaux publiés à la fin du tome V de l’édition Lachat : ordonnance sur la fête du monastère de Cerfroid, ordonnance de l’archevêque de Paris contre l’Exposition de la foi, statuts et ordonnances synodales (1691, 1698), pièces et procès-verbal de visite de l’abbaye de Jouarre.",
+    "en-US": "The acts of the Bishop of Meaux printed at the end of volume V of the Lachat edition: the ordinance on the feast of the monastery of Cerfroid, the Archbishop of Paris’s ordinance against the Exposition de la foi, synodal statutes and ordinances (1691, 1698), and the documents and visitation record of the abbey of Jouarre.",
+    "pt-BR": "Os atos do bispo de Meaux publicados no fim do tomo V da edição Lachat: ordenação sobre a festa do mosteiro de Cerfroid, ordenação do arcebispo de Paris contra a Exposição da fé, estatutos e ordenações sinodais (1691, 1698), peças e ata de visita da abadia de Jouarre."
+  },
+  "composed": "1685–1702",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/ordonnances-et-pieces-administratives",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume005/027.htm to 031.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume V, pages 027-031 (administrative pieces). The Latin tract De doctrina concilii Tridentini on page 032 is not included. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "title": {
+        "fr-FR": "Ordonnance pour réprimer les abus de la fête du monastère de Cerfroid"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "fr-FR": "Ordonnance et instruction pastorale de Mgr l’archevêque de Paris condamnant l’Exposition de la foi"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "fr-FR": "Statuts et ordonnances synodales"
+      }
+    },
+    {
+      "id": "p04",
+      "title": {
+        "fr-FR": "Ordonnances synodales de 1691"
+      }
+    },
+    {
+      "id": "p05",
+      "title": {
+        "fr-FR": "Ordonnances synodales de 1698"
+      }
+    },
+    {
+      "id": "p06",
+      "title": {
+        "fr-FR": "Pièces concernant l’état de l’abbaye de Jouarre"
+      }
+    },
+    {
+      "id": "p07",
+      "title": {
+        "fr-FR": "Procès-verbal de visite de l’abbaye de Jouarre"
+      }
+    }
+  ]
+}
