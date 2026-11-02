@@ -1,0 +1,199 @@
+{
+  "id": "more-debellation-of-salem-and-bizance",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Debellation of Salem and Bizance",
+    "pt-BR": "A Debelação de Salem e Bizancia"
+  },
+  "author": {
+    "en-US": "St. Thomas More",
+    "pt-BR": "São Tomás More"
+  },
+  "description": {
+    "en-US": "More's reply of 1533 to the anonymous Treatise on the Division between the Spirituality and the Temporality (Christopher St German).",
+    "pt-BR": "A resposta de More (1533) ao tratado anônimo sobre a divisão entre o espiritual e o temporal (Christopher St German)."
+  },
+  "composed": 1533,
+  "languages": [
+    "en-US"
+  ],
+  "work": "more/debellation-of-salem-and-bizance",
+  "editions": {
+    "en-US": {
+      "editor": "Thomas More (London: William Rastell, 1533)",
+      "year": 1533
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A07695",
+      "edition": "The debellacyon of Salem and Bizance (London: 1533), EEBO-TCP A07695.",
+      "description": " EEBO-TCP hand-keyed transcription, original spelling kept. 785 illegible places in the source are marked […]. Raw TEI in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "St. Thomas More died in 1535; the edition is of 1533 and the TCP transcription is released to the public domain (CC0)."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Chapter 1"
+      }
+    },
+    {
+      "id": "chapter-02",
+      "title": {
+        "en-US": "Chapter 2"
+      }
+    },
+    {
+      "id": "chapter-03",
+      "title": {
+        "en-US": "The preface. Syr Thomas More to the chrysten readers"
+      }
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Part 4"
+      },
+      "children": [
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "The fyrste chapyter"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "The.ii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "The.iii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "The.iiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "The fyfth chapytre"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "The, vi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "The.vii. chapeter"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "The.viii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "The.ix. chapyter"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "The.x. chapyter"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "The.xi. chapyter"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "The.xii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "The.xiii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "The.xiiii. chapyter"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "The secūd part"
+      },
+      "children": [
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "The.xv. chapyter"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "The.xvi. chapy • er"
+          }
+        },
+        {
+          "id": "chapter-20",
+          "title": {
+            "en-US": "The.xvii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-21",
+          "title": {
+            "en-US": "The.xviii. chapyter"
+          }
+        },
+        {
+          "id": "chapter-22",
+          "title": {
+            "en-US": "The.xix. chapyter"
+          }
+        },
+        {
+          "id": "chapter-23",
+          "title": {
+            "en-US": "The.xx. chapyter"
+          }
+        },
+        {
+          "id": "chapter-24",
+          "title": {
+            "en-US": "The.xxi. chapyter"
+          }
+        }
+      ]
+    }
+  ]
+}

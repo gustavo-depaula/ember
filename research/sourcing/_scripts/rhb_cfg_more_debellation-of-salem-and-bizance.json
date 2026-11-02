@@ -1,0 +1,21 @@
+{
+ "id": "more-debellation-of-salem-and-bizance",
+ "dir": "more-opera-omnia/debellation-of-salem-and-bizance",
+ "slug": "debellation-of-salem-and-bizance",
+ "work": "more/debellation-of-salem-and-bizance",
+ "author": "St. Thomas More",
+ "author_pt": "São Tomás More",
+ "died": 1535,
+ "src": "A07695.xml",
+ "name": "The Debellation of Salem and Bizance",
+ "name_pt": "A Debelação de Salem e Bizancia",
+ "desc": "More's reply of 1533 to the anonymous Treatise on the Division between the Spirituality and the Temporality (Christopher St German).",
+ "desc_pt": "A resposta de More (1533) ao tratado anônimo sobre a divisão entre o espiritual e o temporal (Christopher St German).",
+ "composed": 1533,
+ "editor": "Thomas More (London: William Rastell, 1533)",
+ "year": 1533,
+ "url": "https://github.com/textcreationpartnership/A07695",
+ "edition": "The debellacyon of Salem and Bizance (London: 1533), EEBO-TCP A07695.",
+ "front": true,
+ "parts": true
+}
