@@ -1,0 +1,267 @@
+{
+  "id": "sales-opuscules-xxii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Opuscules de saint François de Sales, tome XXII",
+    "en-US": "Opuscules of St. Francis de Sales, vol. XXII",
+    "pt-BR": "Opúsculos de São Francisco de Sales, tomo XXII"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les opuscules du tome XXII de l’édition d’Annecy : Études et vie intime (cours de philosophie et de droit, règles pour la sainte communion, Exercices spirituels de Padoue, notes de théologie, poésies, testaments) et les écrits du début de l’apostolat dans le Chablais.",
+    "en-US": "The opuscules in volume XXII of the Annecy edition: studies and inner life (philosophy and law notes, rules for Holy Communion, the Padua spiritual exercises, theology notes, verse, wills) and the writings of the early Chablais mission.",
+    "pt-BR": "Os opúsculos de São Francisco de Sales no tomo XXII da edição de Annecy (Première et deuxième séries)."
+  },
+  "composed": "1580-1599",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/opuscules-xxii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. XXII: Opuscules, 1925 (file 22), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original spelling (and the Latin or Italian of some pieces), extracted from the PDF text layer (layout mode). Marginal references, the variants and footnotes, and the editors’ introductions and tables are not included. Chapters follow the printed section headings; short sections are folded into the preceding chapter under a second-level heading.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "piece-01",
+      "title": {
+        "fr-FR": "Avis au lecteur"
+      }
+    },
+    {
+      "id": "piece-02",
+      "title": {
+        "fr-FR": "Procemium in logicam"
+      }
+    },
+    {
+      "id": "piece-03",
+      "title": {
+        "fr-FR": "Sainte communion la communion spirituelle"
+      }
+    },
+    {
+      "id": "piece-04",
+      "title": {
+        "fr-FR": "Fragments d’écrits intimes se rapportant"
+      }
+    },
+    {
+      "id": "piece-05",
+      "title": {
+        "fr-FR": "Db la preparation"
+      }
+    },
+    {
+      "id": "piece-06",
+      "title": {
+        "fr-FR": "Pour bien passer la journée"
+      }
+    },
+    {
+      "id": "piece-07",
+      "title": {
+        "fr-FR": "De la matiere"
+      }
+    },
+    {
+      "id": "piece-08",
+      "title": {
+        "fr-FR": "Notes de théologie"
+      }
+    },
+    {
+      "id": "piece-09",
+      "title": {
+        "fr-FR": "Des méchants"
+      }
+    },
+    {
+      "id": "piece-10",
+      "title": {
+        "fr-FR": "Jp'oi sans des-caler"
+      }
+    },
+    {
+      "id": "piece-11",
+      "title": {
+        "fr-FR": "De remerciaient aux docteurs de Padoue"
+      }
+    },
+    {
+      "id": "piece-12",
+      "title": {
+        "fr-FR": "Livre quatrième des créances et du serment"
+      }
+    },
+    {
+      "id": "piece-13",
+      "title": {
+        "fr-FR": "Pouange a pieu et a la vlerge-mbrb"
+      }
+    },
+    {
+      "id": "piece-14",
+      "title": {
+        "fr-FR": "Essais de poésie"
+      }
+    },
+    {
+      "id": "piece-15",
+      "title": {
+        "fr-FR": "Règlement épiscopal"
+      }
+    },
+    {
+      "id": "piece-16",
+      "title": {
+        "fr-FR": "Premier testament"
+      }
+    },
+    {
+      "id": "piece-17",
+      "title": {
+        "fr-FR": "Second testament"
+      }
+    },
+    {
+      "id": "piece-18",
+      "title": {
+        "fr-FR": "Deuxième série apostolat"
+      }
+    },
+    {
+      "id": "piece-19",
+      "title": {
+        "fr-FR": "Memoyres pour estre presentees a son altesse"
+      }
+    },
+    {
+      "id": "piece-20",
+      "title": {
+        "fr-FR": "En Chablais et réponses de son altesse"
+      }
+    },
+    {
+      "id": "piece-21",
+      "title": {
+        "fr-FR": "Au nom de mïr de Granier"
+      }
+    },
+    {
+      "id": "piece-22",
+      "title": {
+        "fr-FR": "Dans le diocèse de Genève"
+      }
+    },
+    {
+      "id": "piece-23",
+      "title": {
+        "fr-FR": "En faveur des curés d’armoy et de üraillant"
+      }
+    },
+    {
+      "id": "piece-24",
+      "title": {
+        "fr-FR": "Relatifs au pays de Gex"
+      }
+    },
+    {
+      "id": "piece-25",
+      "title": {
+        "fr-FR": "Au nom de mïr de Granier"
+      }
+    },
+    {
+      "id": "piece-26",
+      "title": {
+        "fr-FR": "Adressé au conseil privé du roi de france"
+      }
+    },
+    {
+      "id": "piece-27",
+      "title": {
+        "fr-FR": "A la cession du prieuré d’asserens au curé de farges"
+      }
+    },
+    {
+      "id": "piece-28",
+      "title": {
+        "fr-FR": "Et tres reverends députés du clergé"
+      }
+    },
+    {
+      "id": "piece-29",
+      "title": {
+        "fr-FR": "Pour le service divin a Gex"
+      }
+    },
+    {
+      "id": "piece-30",
+      "title": {
+        "fr-FR": "Et leur réunion a l’Église"
+      }
+    },
+    {
+      "id": "piece-31",
+      "title": {
+        "fr-FR": "Du père chérubin de maurienne, capucin"
+      }
+    },
+    {
+      "id": "piece-32",
+      "title": {
+        "fr-FR": "Clemens papa viii"
+      }
+    },
+    {
+      "id": "piece-33",
+      "title": {
+        "fr-FR": "Au cardinal pierre aldobrandini"
+      }
+    },
+    {
+      "id": "piece-34",
+      "title": {
+        "fr-FR": "Lettres du président antoine favre w a m8r claude de Granier, évêque de Genève"
+      }
+    },
+    {
+      "id": "piece-35",
+      "title": {
+        "fr-FR": "A la seigneurie de Genève"
+      }
+    },
+    {
+      "id": "piece-36",
+      "title": {
+        "fr-FR": "Fait le mercredy [l 5] decembre iô2i"
+      }
+    },
+    {
+      "id": "piece-37",
+      "title": {
+        "fr-FR": "Ce n’est pas trop trand cas"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
