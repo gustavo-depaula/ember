@@ -1,0 +1,1273 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De scripturis et scriptoribus sacris</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 175</title>
+           <idno>HuDeSVi.DeScEtS</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>QUARUM HAEC SUNT CAPITULA.</head>
+<list>
+<item>CAP. I.-- <hi>Quae Scripturae divinitatis nomine singulariter appellari debeant.</hi> </item>
+<item>CAP. II.-- <hi>Quod divina Scriptura ab aliis distinguitur in materia et modo tractandi.</hi> </item>
+<item>CAP. III.-- <hi>De triplici intelligentia sacrae Scripturae.</hi> </item>
+<item>CAP. IV.-- <hi>Non omnia in divino eloquio comperta, sed quaedam duntaxat ad hanc triplicem interpretationem
+esse adigenda.</hi> </item>
+<item>CAP. V.-- <hi>Quod sit necessaria interpretatio litteralis et historica.</hi> </item>
+<item>CAP. VI.-- <hi>De ordine, numero et auctoritate librorum sacrae Scripturae.</hi> </item>
+<item>CAP. VII.-- <hi>De sacrorum librorum scriptoribus.</hi> </item>
+<item>CAP. VIII.-- <hi>De Bibliothecae Veteris Testamenti reparatione.</hi> </item>
+<item>CAP. IX.-- <hi>De diversis Scripturae sacrae translationibus.</hi> </item>
+<item>CAP. X.-- <hi>De scriptoribus Novi Testamenti.</hi> </item>
+<item>CAP. XI.-- <hi>De Scripturis apocryphis.</hi> </item>
+<item>CAP. XII.-- <hi>De Bibliothecae interpretatione et variis librorum nominibus.</hi> </item>
+<item>CAP. XIII.-- <hi>De fructu divinae lectionis.</hi> </item>
+<item>CAP. XIV.-- <hi>Quem fructum sacra Scriptura ex aliis capiat; et quid aliis praestet; et de sex circumstantiis
+quibus res significatae discernuntur mystice; et primum de tribus quae sunt res, persona, numeri.</hi> </item>
+<item>CAP. XV.-- <hi>De numeris sacrae Scripturae novem modis significantibus.</hi> </item>
+<item>CAP. XVI.-- <hi>De tribus aliis circumstantiis, videlicet locis, temporibus, et gestis sacrae Scripturae.</hi> </item>
+<item>CAP. XVII.-- <hi>De materia sacrae Scripturae.</hi> </item>
+<item>CAP. XVIII.-- <hi>De difficultatibus sacrae Scripturae, praesertim in historiis.</hi> </item>
+        </list>
+
+
+
+<div2>
+          <head>CAP. I.-- <hi>Quae Scripturae, etc. ut jam praemissum est.</hi> </head>
+
+<pb n="0009A"/>
+<p>Lectorem divinarum Scripturarum primum erudire
+oportet, ut sciat quae Scripturae divinitatis nomine
+singulariter dignae sunt honorari. Nam quidam
+per Spiritum hujus mundi locuti multa scripserunt.
+Legimus carmina poetarum, in quibus
+cum delectatione nonnulla etiam utilitas est; sicut
+ait quidam:
+<l> <hi>Aut prodesse volunt, aut delectare poetae.</hi> </l> <hi>HORATIUS, Art. poet., 333.</hi> </p>
+<p>Logica, mathematica et physica, veritatem quamdam
+docent, sed ad illam veritatem non pertingunt
+in qua salus animae est, sine qua frustra est quidquid
+est. Ethicam quoque scripserunt gentilium
+<pb n="0010A"/>
+philosophi, in qua quasi membra quaedam virtutum
+de corpore bonitatis truncata pinxerunt; sed membra
+virtutum viva esse non possunt sine corpore
+charitatis Dei. Omnes virtutes unum corpus faciunt;
+cujus corporis caput charitas est. Nec possunt vivere
+membra corporis nisi sensificentur a capite.
+Scripturae igitur illae, in quibus veritas sine contagione
+erroris non percipitur, neque ad veram Dei
+cognitionem sive dilectionem anima reparatur:
+nequaquam divinitatis nomine censeri dignae sunt.
+Sola autem illa Scriptura jure divina appellatur,
+quae per Spiritum Dei aspirata est, et per eos qui
+Spiritu Dei locuti sunt, administrata, hominem divinum
+facit, ad similitudinem Dei illum reformans,
+instruendo ad cognitionem, et exhortando ad dilectionem
+<pb n="0011A"/>
+ipsius. In qua quidquid docetur, veritas;
+quidquid praecipitur, bonitas; quidquid promittitur
+felicitas est. Nam Deus veritas est sine fallacia, bonitas
+sine malitia, felicitas sine miseria. Si vis igitur
+divinam Scripturam ab aliis, quae hoc nomen
+non merentur, recta consideratione distinguere,
+materiam ipsam circa quam et in qua versatur
+ejus tractatio, diligenter considera, quoniam notitia
+rerum ad apertionem verborum facit. Facilius
+quippe intelliges quod dicitur; si bene notum fuerit,
+unde dicatur.
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. II.-- <hi>Quod divina Scriptura ab aliis distinguitur in materia et modo tractandi.</hi> </head>
+<p>Duo sunt opera Dei, quibus consummantur omnia
+quae facta sunt. Primum est opus conditionis,
+<pb n="0011B"/>
+quo facta sunt quae non erant: secundum est opus
+restaurationis, quo reparata sunt quae perierant.
+Opus conditionis est creatio mundi cum omnibus
+clementis suis. Opus restaurationis est incarnatio
+Verbi cum omnibus sacramentis suis; sive quae
+ante incarnationem praecesserunt ab initio saeculi,
+sive quae post subsequentur usque ad finem mundi.
+Prima igitur opera ad servitutem facta sunt, ut
+homini, per justitiam stanti, subessent. Secunda vero
+ad salutem, ut hominem, per culpam jacentem, erigerent:
+idcirco majora haec. Propterea illa quasi
+modicum quid et exiguum virtutis divinae indicium,
+brevi tempore, id est sex tantum diebus, perfecta
+sunt. Haec vero, quasi excellentia ad comparationem
+priorum, et majorem virtutis effectum habentia,
+<pb n="0011C"/>
+non nisi sex aetatibus consummari possunt. In his
+itaque materiam divinarum Scripturarum considera,
+ut et in illo de quo tractant, et illo modo quo tractant,
+hoc est in materia et modo ab aliis eas Scripturis
+distinguere possis. Aliarum enim Scripturarum
+omnium materia est in operibus conditionis, divinarum
+Scripturarum materia in operibus restaurationis
+constat. Haec igitur est prima discretio in
+eo de quo tractant. Item aliae scripturae si quam veritatem
+docent, non sine contagione erroris est, si
+quam bonitatem commendare videntur, vel malitiae
+mixta est, ut non sit pura, vel sine cognitione et
+dilectione Dei est, ut non sit perfecta. Propterea
+sicut id quod in eis divinum dici putatur, legentis
+animum per adjunctam falsitatem ad terrena
+<pb n="0011D"/>
+praecipitat, ita quoque quod in Scriptura sacra
+terrenum esse videtur, per veram Creatoris agnitionem,
+quae in his omnibus commendatur, ad divina
+et coelestia cogitanda et amanda exaltat.</p>
+</div2>
+
+<div2>
+          <head>CAP. III.-- <hi>De triplici intelligentia sacrae Scripturae.</hi> </head>
+<p>Secundum triplicem intelligentiam exponitur sacrum
+eloquium. Prima expositio est historica, in
+qua consideratur prima verborum significatio ad
+res ipsas de quibus agitur. Habet enim sacrum eloquium
+<pb n="0012A"/>
+proprietatem quamdam ab aliis Scripturis
+differentem, quod in eo primum per verba quae recitantur,
+de rebus quibusdam agitur, quae rursum
+res vice verborum ad significationem aliarum rerum
+proponuntur. Historia dicitur a verbo graeco <foreign xml:lang="greek">ἰςορέω,</foreign>
+ historeo, quod est video et narro. Propterea
+quod apud veteres nulli licebat scribere res gestas,
+nisi a se visas, ne falsitas admisceretur veritati
+peccato scriptoris, plus, aut minus, aut aliter dicentis.
+Secundum hoc proprie et districte dicitur historia;
+sed solet largius accipi, ut dicatur historia
+sensus qui primo loco ex significatione verborum
+habetur ad res. Secunda expositio est allegorica. Est
+autem allegoria, cum per id quod ex littera significatum
+proponitur, aliud aliquid sive in praeterito
+<pb n="0012B"/>
+sive in praesenti sive in futuro factum significatur.
+Dicitur allegoria quasi alieniloquium, quia aliud dicitur
+et aliud significatur, quae subdividitur in
+simplicem allegoriam et anagogen. Et est simplex
+allegoria, cum per visibile factum aliud invisibile
+factum significatur. Anagoge, id est sursum
+ductio, cum per visibile invisibile factum declaratur.
+Hujus triplicis intelligentiae unum ponatur
+exemplum. Erat vir in terra Hus, nomine Job,
+qui prius dives ad tantam devenit miseriam, quod
+sedens in sterquilinio etiam saniem corporis sui
+testa radebat. Sensus historiae patet. Veniamus ad
+allegoriam, ut per res a vocibus significatas, alias
+res significari consideremus et per factum aliud factum.
+Job itaque, qui interpretatur <hi>dolens,</hi> Christum
+<pb n="0012C"/>
+significat, qui prius in divitiis gloriae Patris eidem
+coaequalis, condescendit nostrae miseriae, et sedit
+humiliatus in sterquilinio hujus mundi, omnibus
+nostris defectibus, praeter peccatum, communicans.
+Quid etiam per hoc factum, faciendum, id est dignum
+fieri significetur, inquiramus. Job quemlibet
+justum vel animam poenitentem potest significare,
+quae componit in memoria sua sterquilinium ex omnibus
+peccatis quae fecit, et non ad horam, sed perseveranter
+super hoc sedendo et meditando flere
+non cessat. Et haec facta ad litteram, quae repraesentant
+hujusmodi spiritualia, sacramenta dicuntur.</p>
+</div2>
+
+<div2>
+          <head>CAP. IV.-- <hi>Non omnia in divino eloquio comperta, sed quaedam duntaxat ad dictam triplicem interpretationem esse adigenda.</hi> </head>
+
+<pb n="0012D"/>
+<p>Sane non omnia, quae in divino reperiuntur eloquio,
+ad hanc triplicem torquenda sunt interpretationem,
+ut singula historiam, allegoriam et tropologiam
+simul continere credantur. Quod et si in multis
+congrue assignari possit; ubique tamen observare,
+aut difficile est, aut impossibile. Sicut enim
+in cithara et hujusmodi organis musicis, non quidem
+omnia quae tanguntur canorum aliquid resonant,
+<pb n="0013A"/>
+sed tantum chordae, caetera tamen in toto citharae
+corpore ideo facta sunt ut esset ubi connecterentur
+et quo tenderentur illa quae ad cantilenae
+suavitatem modulaturus est artifex; ita in divinis
+eloquiis quaedam posita sunt, quae tantum spiritualiter
+intelligi volunt; quaedam vero morum gravitati
+deserviunt; quaedam etiam secundum simplicem
+historiae sensum dicta sunt: nonnulla vero,
+quae secundum historiam et allegoriam et tropologiam
+convenienter exponi possunt.</p>
+</div2>
+
+<div2>
+          <head>CAP. V.-- <hi>Quod sit necessaria interpretatio litteralis et historica</hi>.</head>
+<p>Cum igitur mystica intelligentia non nisi ex iis
+quae primo loco littera proponit colligatur; miror
+qua fronte quidam allegoriarum se doctores jactitant,
+<pb n="0013B"/>
+qui ipsam adhuc primam litterae significationem
+ignorant. Nos inquiunt, Scripturam legimus, sed
+non legimus litteram. Non curamus de littera; sed
+allegoriam docemus. Quomodo ergo Scripturam legitis,
+et litteram non legitis? Si enim littera tollitur,
+Scriptura quid est? Nos, inquiunt, litteram legimus,
+sed non secundum litteram. Allegoriam enim
+legimus, et exponimus litteram non secundum litteram,
+sed secundum allegoriam. Quid ergo est litteram
+exponere, nisi id quod significat littera demonstrare?
+Sed littera, inquiunt, aliud significat
+secundum historiam, aliud secundum allegoriam.
+Leo quippe secundum historiam bestiam significat,
+secundum allegoriam Christum significat: ergo vox
+ista, leo, Christum significat. Ego igitur interrogo
+<pb n="0013C"/>
+te qui hoc probas quare leo Christum significet?
+Respondes fortassis, qualiter responderi solet in
+ejusmodi, pro convenentia similitudinis ad significationem
+propositae: quia leo apertis oculis dormit,
+vel aliud tale aliquid: igitur leo Christum significat,
+quia apertis oculis dormit. Sic enim dixisti
+tu, quod leo, dictio ista, Christum significat,
+quia apertis oculis dormit. Aut igitur sententiam
+tolle quam proposuisti, aut muta causam quam
+subjunxisti. Aut enim falsa est sententia, qua dixisti
+quod dictio ista, leo, Christum significat, aut inconveniens
+causa quam subjunxisti, quod ideo leo
+Christum significat, quia apertis oculis dormit. Non
+enim dictio apertis oculis dormit, sed animal ipsum
+<pb n="0013D"/>
+quod dictio significat. Intellige igitur quod cum leo
+Christum significare dicit, non nomen animalis, sed
+animal ipsum significatur. Hoc enim est quod, ut
+dicitur, apertis oculis dormit, secundum quod aliqua
+similitudine illum figurat, qui in somno mortis
+susceptae dormivit humanitate, sed oculos habuit
+apertos vigilans divinitate. Noli itaque de intelligentia
+Scripturarum gloriari, quandiu litteram ignoras.
+Litteram autem ignorare est ignorare quid littera
+significet, et quid significetur a littera. Nam quod
+significatur a primo, tertium significat. Cum igitur
+res illae quas littera significat, spiritualis intelligentiae
+<pb n="0014A"/>
+signa sint, quomodo signa tibi esse possunt,
+quae necdum tibi significata sunt? Noli ergo
+saltum facere, ne in praecipitium incidas. Ille rectissime
+incedit, qui incedit ordinate. Primum igitur
+illarum rerum quas tibi sacrum eloquium proponit,
+ad mysticam significationem stude legendo
+comparare notitiam, ut ex iis specie cognitis, postmodum
+meditando colligas quod vel ad fidei aedificationem,
+vel ad instructionem bonorum morum per
+similitudinem adducas. Sed non omnia, inquiunt,
+secundum litteram legi possunt, vel convenienter
+intelligi. Cum enim propheta dicat fluvium igneum
+de sub throno Dei egredientem se vidisse, et quaedam
+pennata et oculata animalia in circuitu volantia
+et clamantia contestetur <note>(Dan. VII; Ezech. I)</note>, et multa
+<pb n="0014B"/>
+in hunc modum similia, non dubium est quin ex iis,
+quae sacrum eloquium narrat, quaedam secundum
+litteram convenienter accipiantur, quaedam vero per
+figuram tantum dicta intelligantur. Sic igitur haec
+dicunt, quasi nos existimemus omnia quae per litteram
+dicuntur, sic omnino accipienda, nec aliud
+intelligendum ex iis quae dicuntur; quod quid est per
+litteram non dicitur, sed per id quod littera dicit,
+significatur. Nam in eo etiam quod figurative dictum
+accipitur, littera suam significationem habere
+non negatur, quia cum id quod dicitur, non sic, ut
+dicitur, intelligendum esse asserimus, idipsum aliquo
+modo dictum esse affirmamus. Dicitur igitur
+aliquid et significatur a littera, tunc etiam quando
+id quod dicitur, nonita intelligitur ut dicitur, sed
+<pb n="0014C"/>
+aliud quod per id dictum significatur. Sic igitur omnino
+aliquid dicitur et significatur a littera, et intelligendum
+est illud primum quod significatur a littera,
+ut quid per illud significetur, postea intelligatur.
+Ad hunc modum lectorem admonitum esse
+volumus, ne forte haec prima doctrinae rudimenta
+despiciat. Neque contemnendam putet harum rerum
+notitiam, quas nobis sacra Scriptura per primam
+litterae significationem proponit, quia ipsae sunt quas
+Spiritus sanctus carnalibus sensibus, et nonnisi per
+visibilia invisibilia capere valentibus, quasi quaedam
+simulacra mysticorum intellectuum depinxit, et
+per similitudines propositas, eorum quae spiritualiter
+intelligenda sunt, claram demonstrationem figuravit.
+<pb n="0014D"/>
+Quod si, ut isti dicunt, a littera statim ad id
+quod spiritualiter intelligendum est, transiliendum
+foret, frustra a Spiritu sancto figurae et similitudines
+rerum quibus animus ad spiritualia erudiretur, in
+sacro eloquio interpositae fuissent. Teste namque
+Apostolo, <hi>quod carnale est, prius est, deinde quod
+spirituale <note>(I Cor. XV)</note>
+            </hi>. Et ipsa Dei sapientia, nisi prius
+corporaliter cognita fuisset, nunquam lippientis
+mentis acies ad illam spiritualiter contemplandam
+illuminari potuisset. Noli igitur in verbo Dei despicere
+humilitatem, quia per humilitatem, illuminaris
+ad divinitatem. Quasi lutum tibi videtur totum hoc
+<pb n="0015A"/>
+quod verbum Dei foris habet, et ideo forte pedibus
+conculcas, quia lutum est, et contemnis quod corporaliter
+et visibiliter gestum littera narrat. Sed
+audi: luto isto quod pedibus tuis conculcatur, caeci
+oculus ad videndum illuminatur <note>(Joan. IX)</note> Lege ergo
+Scripturam, et disce primum diligenter quae corporaliter
+narrat. Si enim formam horum secundum
+seriem narrationis propositae studiose animo impresseris,
+quasi ex favo quodam postmodum meditando
+spiritualis intelligentiae dulcedinem fuges.</p>
+</div2>
+
+<div2>
+          <head>CAP. VI.-- <hi>De ordine, numero et auctoritate librorum sacrae Scripturae.</hi> </head>
+<p>Omnis divina Scriptura in duobus Testamentis
+continetur, Veteri videlicet et Novo. Utrumque
+Testamentum tribus ordinibus distinguitur: Vetus
+<pb n="0015B"/>
+Testamentum continet legem, prophetas, agiographos.
+Novum autem Evangelium, apostolos, patres.
+Primus ordo Veteris Testamenti, id est lex, quam
+Hebraei <hi>thorath</hi> nominant, pentateuchon habet, id
+est quinque libros Moysi. In hoc ordine primus est
+Beresith, qui est Genesis. Secundus Hellesmoth, qui
+est Exodus. Tertius Vagethra, qui est Leviticus.
+Quartus Vagedaber, qui est Numeri. Quintus Elleaddaberim,
+qui est Deuteronomius. Secundus
+ordo est prophetarum, hic continet octo volumina.
+Primum est Bennum, id est filius Nun, qui et Josue
+et Jesus, et Jesus Nave nuncupatur. Secundum
+est Sothim, qui est liber Judicum. Tertium est Samuel,
+qui est primus et secundus Regum. Quartum
+Malachim, qui est tertius et quartus Regum. Quintum
+<pb n="0015C"/>
+est Esaias. Sextum Jeremias, Septimum Ezechiel.
+Octavum Thereasra qui est duodecim prophetarum.
+Deinde tertius ordo novem habet libros.
+Primus est Job. Secundus David. Tertius Masloth,
+quod graece Parabolae, latine Proverbia sonat, videlicet
+Salomonis. Quartus Coeleth, qui est Ecclesiastes.
+Quintus Sirasirim, id est Cantica canticorum.
+Sextus Daniel. Septimus Dabreiamin, qui est Paralipomenon.
+Octavus Esdras. Nonus Esther. Omnes
+ergo fiunt numero viginti duo. Sunt praeterea alii
+quidam libri, ut Sapientia Salomonis, liber Jesu filii
+Sirach, et liber Judith, et Tobias, et libri Machabaeorum,
+qui leguntur quidem, sed non scribuntur
+in canone. His viginti duobus libris Veteris Testamenti,
+<pb n="0015D"/>
+octo libri Novi Testamenti junguntur. In
+primo ordine Novi Testamenti sunt quatuor Evangelia:
+Matthaei, Marci, Lucae et Joannis. In secundo
+similiter sunt quatuor: Actus videlicet apostolorum,
+Epistolae Pauli numero quatuordecim sub uno volumine
+contextae. Canonicae Epistolae, Apocalypsis. In
+tertio ordine primum locum habent decretalia, quos
+canonicos, id est regulares appellamus. Deinde sanctorum
+Patrum scripta, id est, Hieronymi, Augustini,
+Ambrosii, Gregorii, Isidori, Origenis, Bedae et
+<pb n="0016A"/>
+aliorum doctorum, quae infinita sunt. Haec tamen
+scripta Patrum in textu divinarum Scripturarum
+non computantur, quemadmodum in Veteri Testamento,
+ut diximus, quidam libri sunt qui non scribuntur
+in canone, et tamen leguntur, ut Sapientia
+Salomonis et caeteri. Textus igitur divinarum Scripturarum,
+quasi totum corpus principaliter triginta
+libris continetur. Horum viginti duo in Veteri, octo
+vero in Novo Testamento (sicut supra monstratum
+est) comprehenduntur. Caetera vero scripta quasi adjuncta
+sunt, et ex his praecedentibus manantia. In
+his autem ordinibus, maxime utriusque Testamenti,
+apparet convenientia: quia sicut post legem prophetae,
+et post prophetas agiographi, ita post Evangelium
+apostoli, et post apostolos doctores ordine
+<pb n="0016B"/>
+successerunt. Et mira quadam divinae dispensationis
+ratione actum est, ut, cum in singulis Scripturis
+plena et perfecta veritas consistat, nulla tamen
+superflua sit.</p>
+</div2>
+
+<div2>
+          <head>CAP. VII.-- <hi>De sacrorum librorum scriptoribus</hi>.</head>
+<p>Quinque libros legis Moyses scripsit. Libri Josue
+idem Josue cujus nomine inscribitur, auctor fuisse
+creditur. Librum Judicum a Samuele editum fuisse
+credunt. Primam partem libri Samuelis ipse Samuel
+scripsit: sequentia vero usque ad calcem, David.
+Malachim Jeremias primum in volumen unum collegit;
+nam antea sparsus erat per singulorum regum
+historias. Isaias, Jeremias, Ezechiel, singuli suos
+libros fecerunt, qui inscripti sunt nominibus eorum.
+<pb n="0016C"/>
+Liber etiam duodecim prophetarum auctorum suorum
+nominibus praenotatur, quorum nomina sunt.
+Osee, Joel, Amos, Abdias, Jonas, Micheas, Nahum,
+Habacuc, Sophonias, Aggeus, Zacharias et Malachias;
+qui propterea minores dicuntur, quia sermones
+eorum breves sunt, unde et uno volumine comprehenduntur.
+Isaias autem et Jeremias et Ezechiel
+et Daniel, hi quatuor majores sunt singulis suis voluminibus
+distincti. Librum Job, alii Moysen, alii
+unum ex prophetis, nonnulli ipsum Job scripsisse
+credunt. Librum psalmorum David edidit. Esdras
+autem postea psalmos ita ut nunc sunt ordinavit, et
+titulos addidit. Parabolas autem et Ecclesiastem, et
+Cantica canticorum Salomon composuit. Daniel sui
+<pb n="0016D"/>
+libri auctor fuit. Liber Esdras auctoris sui titulo praenotatur,
+in cujus tectu ejusdem Esdrae Neemiaeque
+sermones pariter continentur. Librum Esther Esdras
+creditur conscripsisse. Liber Sapientiae apud Hebraeos
+nusquam est: unde et ipse titulus graecam
+magis eloquentiam redolet. Hunc quidam Judaei Philonis
+esse affirmant. Librum Ecclesiasticum certissime
+filius Sirach Hierosolymita nepos Jesu sacerdotis
+magni, cujus meminit Zacharias, composuit.
+Hic apud Hebraeos reperitur: sed inter apocryphos
+<pb n="0017A"/>
+habetur. Judith vero et Tobias, et libri Machabaeorum,
+quorum ut testatur Hieronymus, secundus liber
+magis graecus esse probatur, quibus auctoribus
+scripti sunt minime constat.</p>
+</div2>
+
+<div2>
+          <head>CAP. VIII.-- <hi>De bibliothecae Veteris Testamenti reparatione.</hi> </head>
+<p>Bibliothecam Veteris Testamenti Esdras scriba,
+post incensam legem a Chaldaeis, dum Judaei ingressi
+sunt Jerusalem divino afflatus spiritu, reparavit;
+cunctaque legis ac prophetarum volumina, quae fuerant
+a gentilibus corrupta, correxit; totumque Vetus
+Testamentum in viginti duos libros constituit,
+ut tot libri essent in lege, quot habebantur et
+litterae.</p>
+</div2>
+
+<div2>
+          <head>CAP. IX.-- <hi>De diversis Scripturae sacrae translationibus.</hi> </head>
+
+<pb n="0017B"/>
+<p>Scripturam Veteris Testamenti prius in hebraica
+lingua editam constat. Postea Ptolomaeus
+qui Philadelphus cognominatus est, et secundus
+post Alexandrum Magnum regem Aegypti obtinuit,
+per septuaginta interpretes, quos ab Eleazaro pontifice
+acceperat, bibliothecam Veteris Testamenti in
+graecam linguam ex hebraea interpretari fecit. Et, ut
+aiunt quidam, ne posset decipi ab eis falsitate translationis,
+divisit eos, ut singuli in singulis cellis separati
+essent. Illi vero ita omnia per Spiritum sanctum interpretati
+sunt, ut nihil in unius codice inventum esset,
+quod in alterius similiter non inveniretur. Propter
+quod una est eorum interpretatio. Sed Hieronymus
+dicit, huic rei non esse adhibendam fidem. Post
+<pb n="0017C"/>
+ascensionem vero Domini, praedicantibus apostolis
+Evangelium, haec eadem translatio in gentibus reperta
+est, et secundum hanc ab Ecclesiis Christi
+primum sacrae Scripturae legi coeperunt. Postea
+vero, quia eidem translationi quaedam deesse probata
+sunt, quae in hebraica veritate tam ipsius
+Christi quam apostolorum praedicantium auctoritas
+contineri promulgaverat, conati sunt et alii sacram
+Scripturam de hebraica lingua in graecum transferre
+sermonem. Secundam igitur et tertiam et
+quartam translationem fecerunt Aquila, Symmachus,
+Theodotion. Quorum primus videlicet Aquila, Judaeus;
+Symmachus vero et Theodotion Hebionitae
+haeretici fuerunt. Obtinuit tamen usus, ut post
+<pb n="0017D"/>
+Septuaginta interpretes Ecclesiae graecorum eorum
+reciperent exemplaria et legerent. Post haec accessit
+quinta, quae Vulgaris dicitur; quae quodam tempore
+in Jericho reperta est. Sed quis auctor ejus
+fuerit, usque hodie ignoratur. Sextam et septimam
+Origenes fecit, cujus codices Eusebius et Pamphilus
+vulgaverunt. Octavo loco Hieronymus accessit,
+non jam de hebraeo in graecum sicut priores,
+sed de hebraeo in latinum transferens sermonem.
+<pb n="0018A"/>
+Cujus translatio, quia hebraicae veritati concordare
+magis probata est, idcirco Ecclesia Christi per
+universam latinitatem prae caeteris omnibus translationibus,
+quas vitiosa interpretatio, sive prima de
+hebraeo in graecum, sive secunda de graeco in latinum
+facta, corruperat, hanc solam legendam et in
+auctoritate habendam constituit. Usu autem pravo
+[primo] invalescente, qui nonnunquam solita magis
+quam vera appetit, factum est, ut diversas
+diversis sequentibus translationes ita tandem omnia
+confusa sint, ut pene nunc cui tribuendum sit,
+ignoretur.</p>
+</div2>
+
+<div2>
+          <head>CAP. X.-- <hi>De scriptoribus Novi Testamenti.</hi> </head>
+<p>Plures Evangelia scripserunt, sed quidam sine
+Spiritu sancto magis conati sunt ordinare narrationem,
+<pb n="0018B"/>
+quam historiae texere veritatem. Unde sancti
+Patres, per Spiritum sanctum docti, quatuor tantum
+in auctoritatem receperunt Evangelia, id est,
+Matthaei, Marci, Lucae, Joannis, ad similitudinem
+quatuor fluminum paradisi, et quatuor vectium arcae,
+et quatuor animalium in Ezechiele <note>(Ezeeh. I)</note>. Primus
+Matthaeus Evangelium suum scripsit hebraice. Secundus
+Marcus, graece scripsit. Tertius Lucas, inter
+omnes Evangelistas graeci sermonis eruditissimus,
+Evangelium suum scripsit, Theophilo archiepiscopo,
+ad quem etiam Actus apostolorum scripsit. Quartus
+et ultimus Joannes Evangelium suum scripsit. Paulus
+quatuordecim scripsit epistolas. Canonicae epistolae
+septem sunt, una Jacobi: duae Petri, tres
+Joannis, una Judae. Apocalypsim scripsit Joannes
+<pb n="0018C"/>
+apostolus in Pathmo insula.</p>
+</div2>
+
+<div2>
+          <head>CAP. XI.-- <hi>De scriptis apocryphis.</hi> </head>
+<p>Hi sunt scriptores sacrorum librorum, qui per
+Spiritum sanctum loquentes, ad eruditionem nostram
+praecepta vivendi regulamque conscripserunt.
+Praeter haec, alia volumina apocrypha nominantur;
+apocrypha autem dicta, id est abscondita
+et secreta, quia in dubium veniunt. Est enim
+eorum origo occulta, nec patet sanctis Patribus a
+quibus edita sint. In quibus etsi aliqua veritas, tamen,
+propter multa falsa, nulla est in eis canonica
+auctoritas: quod recte non judicatur esse eorum
+quibus ascribuntur: nam multa sub nominibus
+prophetarum, et recentiora sub nominibus apostolorum
+<pb n="0018D"/>
+ab haereticis proferuntur; quae omnia sub
+nomine apocryphorum a divina auctoritate per examinationem
+remota sunt.</p>
+</div2>
+
+<div2>
+          <head>CAP. XII.-- <hi>De bibliothecae interpretatione, et variis librorum nominibus</hi>.</head>
+<p>Bibliotheca a graeco nomen accepit, eo quod ibi
+libri recondantur. Nam <hi>biblion</hi> librorum, <hi>theca</hi> repositio
+interpretatur. Codex multorum librorum est,
+liber unius voluminis, et dictus codex per translationem
+<pb n="0019A"/>
+a caudicibus arborum sive vitium, quasi
+caudex quod in se multitudinem librorum quasi
+ramorum contineat. Volumen dicitur a volvendo.
+Liber est interior cortex arboris, in quo antiqui,
+ante usum membranae, solebant scribere, unde scriptores
+librarios vocabant, inde dictus est liber volumen.
+Tractatus est unius rei multiplex expositio.
+Testamentum dicitur sacra Scriptura, humana consuetudine
+dante occasionem: antiquitus enim qui
+carebant liberis adoptabant sibi filios, et cum constituebant
+illos haeredes, vocabant testes et scribebant
+chirographum, non erat tamen ita ratum quin
+posset mutari, nisi mortuo testatore. Similiter Deus
+unum solum Filium habens ex natura, multos voluit
+adoptare ex gratia. Et primitus unum elegit
+<pb n="0019B"/>
+Abraham; cui praecepit exire de cognatione sua, et
+promisit terram Palaestinam; nec tamen ipse legitur
+inde aliquid possedisse. Posthac filiis Israel
+eductis de Aegypto, eamdem terram Palaestinam repromisit,
+et ne dubitarent, fecit Testamentum in
+certitudinem promissae haereditatis scilicet legem
+quae per Moysen data est. Sed quia Deus non poterat
+mori, et testamentum morte testatoris confirmandum
+erat, interfectus est pro eo agnus mysticus,
+cujus sanguine respersus est liber et totus
+populus, in confirmationem promissae haereditatis.
+Eodem modo Dominus Jesus Christus vocans ad
+aeternam haereditatem, non unum tantum hominem,
+sed omnes gentes, fecit testamentum, Evangelium
+<pb n="0019C"/>
+videlicet. In cujus confirmationem non
+agnus ille antiquus occiditur; sed ipse (quia homo
+erat et mori potuit) mortem subiit. Et sicut Deus ad
+Vetus Testamentum dandum vocaverat testes,
+Aaron scilicet et Mariam sororem ejus et Ur; ita
+Christus, qui majora promisit, plures vocavit testes,
+apostolos, videlicet et martyres. Vetus dicitur Testamentum
+primum, vel quia prius datum, vel quia de
+rebus veterascentibus est institutum. Novum dicitur
+secundum, quia de immutabilibus et semper novis
+loquitur. Propheta tripliciter dicitur, officio, gratia,
+missione. Officio, sicut quando eligebatur aliquis
+qui imminente bello de dubiis consuleret Dominum,
+sive per assumptum ephot; sive alio quolibet modo.
+Gratia, sicut ille cui Dominus per internam inspirationem
+<pb n="0019D"/>
+dabat notitiam rerum, quam nec natura nec
+disciplina habere poterat sed sola gratia, sicut David
+et Daniel et Job. Missione, sicut ille quem mittebat
+Dominus ad praedicandum ea quae ei inspiraverat,
+ut Jonas. Sed tamen sicut in istis diebus non
+dicuntur episcopi, nisi qui officii dignitatem et potestatem
+habent, licet meritum habeant et virtutem
+hujus nominis abundantius illis qui episcopi sunt,
+ita nec prophetae dicebantur, nisi qui officio aut
+missione prophetae essent. Unde David, Job, Daniel,
+licet contineant prophetias in libris suis: inter agiographos
+tamen positi sunt; et e contrario Josue,
+liber Judicum et libri Samuelis, et Regum, qui
+<pb n="0020A"/>
+solam historiam texuerunt vel texere videntur, inter
+Prophetas connumerantur.</p>
+<p>Quaeritur etiam, cur novem tantum dicantur agiographi,
+id est sancti scriptores, cum hoc nomen
+conveniat omnibus sacrae Scripturae auctoribus?
+Ad quod respondendum, quia quod nullam habet
+specialem proprietatem qua distinguatur a caeteris,
+commune nomen quasi proprium obtinet, non ex
+praerogativa, sed potius quasi ex quadam indignitate
+respectu aliorum; sicut in novem ordinibus
+angelorum minimus simpliciter obtinet commune
+nomen, et quaerenti quis sit, respondetur: angelus
+est, cum etiam principatus et potestates angeli sint.
+Apocryphus, id est dubius et absconditus liber duobus
+modis dicitur: vel quia auctor ejus incertus,
+<pb n="0020B"/>
+vel quia communi assensu fidelis synagogae vel ecclesiae
+non est receptus et confirmatus, etsi etiam
+nihil in eo [pravi, ED.] reperiatur. Unde et liber
+Job apocryphus est, quia dubii auctoris; in canone
+tamen confirmatus est auctoritate fidelis synagogae.
+Item Ecclesiasticus, liber Sapientiae Salomonis et
+duo libri Machabaeorum, Tobias, Judith, et liber
+Jesu filii Sirach apocryphi sunt; leguntur tamen et
+ad Vetus Testamentum pertinent, sed non sunt
+confirmati in canone.
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. XIII.-- <hi>De fructu divinae lectionis.</hi> </head>
+<p>Quisquis ad divinam lectionem accesserit, primum
+qualis sit fructus ejus agnoscat. Nihil enim
+sine causa appeti debet; nec desiderium trahit,
+<pb n="0020C"/>
+quod utilitatem non promittit. Geminus est divinae
+lectionis fructus: quia mentem vel scientia erudit,
+vel moribus ornat. Docet quod scire delectat, et
+quod imitari expediat. Quorum alterum, id est scientia
+magis ad historiam et allegoriam, alterum, id
+est instructio morum, ad tropologiam magis respicit.
+Omnis divina Scriptura refertur ad hunc finem.
+Septem liberales artes huic scientiae subserviunt.
+Trivium ad significationem vocum. Quadrivium
+ad rerum significationem respicit. Grammatica
+recte loqui et competenter pronuntiare voces
+docet. Dialectica ad distinguendas in eis significationes
+et ad veritatem per disputationem inquirendam
+valet. Rhetorica ad utrumque spectat. Physica
+interiores rerum naturas, mathematica exteriores
+<pb n="0020D"/>
+figuras et numeros docet.</p>
+</div2>
+
+<div2>
+          <head>CAP. XIV.-- <hi>Quem fructum sacra Scriptura ex aliis capiat, et quid aliis praestet; et de septem circumstantiis quibus res significatae discernuntur.</hi> </head>
+<p>Diligens scrutator sacri eloquii rerum significationes
+nequaquam negligere debet, quia sicut per
+voces primarum rerum notitia acquiritur, ita per
+significationem rerum earumdem intelligentia, quae
+spirituali notificatione percipiuntur, et manifestatio
+perficitur. Philosophus in aliis scripturis solam vocum
+novit significationem; sed in sacra pagina
+excellentior valde est rerum significatio quam vocum:
+quia hanc usus instituit, illam natura dictavit.
+<pb n="0021A"/>
+Haec hominum vox est, illa Dei ad homines.
+Significatio vocum est ex placito hominum: significatio
+rerum naturalis est, et ex operatione Creatoris
+volentis quasdam res per alias significari. Est
+etiam longe multiplicior significatio rerum quam
+vocum. Nam paucae voces plusquam duas aut tres
+significationes habent; res autem quaelibet tam multiplex
+potest esse in significatione aliarum rerum,
+quot in se proprietates visibiles aut invisibiles
+habet communes aliis rebus. Hae autem res primae
+per voces significatae, et res secundas significantes,
+sex circumstantiis discretae considerantur:
+quae sunt hae, videlicet res, persona, numerus,
+locus, tempus, gestum. In his enim significatio
+rerum primarum ad secundas consideratur. Res autem
+<pb n="0021B"/>
+in hoc loco intelligimus in materia quacunque,
+vel substantia inanimata coelestium sive terrestrium,
+constitutas: ut sunt lapides, ligna, herbae, et caetera
+hujusmodi, quae in elementis vel ex elementis
+sunt. Omnis autem res quae ad significandum
+proponitur in Scriptura sacra, aut secundum
+exteriorem formam, aut secundum interiorem
+naturam significat. Rem autem large hic accipimus
+supradicta sex continentem, sub qua et
+res continetur, id est materia, quam proposuimus
+in prima circumstantia. Omnis igitur
+res aut secundum interiorem naturam, aut secundum
+exteriorem formam significat. Sub exteriori
+forma figurae rerum et colores continentur;
+<pb n="0021C"/>
+quae visu percipimus. Ad interiorem
+naturam pertinent aliae rerum proprietates,
+quas caeteris sensibus comprehendimus, ut est
+dulcedo in sapore, quam percipimus gustu; fragrantia
+in odore, quam percipimus olfactu; melos in
+sono, quod et quem percipimus auditu; lenitas sive
+asperitas in corpore et caetera hujusmodi, quae percipimus
+tactu. Prima illa circumstantia, id est res,
+quae in hoc loco stricte accipitur, dupliciter significat;
+verbi gratia. Nix interiori natura, scilicet frigiditate,
+exstinctionem fervoris libidinum; et exteriori forma,
+videlicet candore, munditiam operum designat.</p>
+<p>Persona est rationalis substantiae individua essentia.
+Personae sunt, quae in sacra Scriptura commemorantur,
+in quibus secundum eventus et opera et
+<pb n="0021D"/>
+alio quolibet modo rerum mysticarum significatio
+praeparatur. Persona igitur in sacro eloquio significat,
+ut Jacob, qui haereditatem patris accepit, Christum
+vel populum gentilem designat; Isaac, qui filium
+benedixit, Deum patrem figurat. Numerus quoque
+significat, ut, verbi gratia; senarius perfectionem.
+Unde ait B. Augustinus: Non quia Deus sex
+diebus cuncta opera sua condidit perfectus senarius,
+sed potius quia perfectus est, illum numerum Deus
+ad operandum praeelegit; sed quia numerus multifariam
+significationem habere dignoscitur, de eo
+aliquanto latius tractandum est.
+</p>
+        </div2>
+
+<div2>
+          <head>CAP. XV.-- <hi>De numeris mysticis sacrae Scripturae</hi>.</head>
+
+<pb n="0022A"/>
+<table>
+<row>
+              <cell> <hi>Significant autem his novem modis.</hi> </cell>
+              <cell/>
+            </row>
+<row>
+              <cell> <hi>Secundum ordinem positionis.</hi> </cell>
+              <cell>1</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum qualitatem compositionis.</hi> </cell>
+              <cell>2</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum modum porrectionis.</hi> </cell>
+              <cell>3</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum formam dispositionis.</hi> </cell>
+              <cell>4</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum computationem.</hi> </cell>
+              <cell>5</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum multiplicationem.</hi> </cell>
+              <cell>6</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum partium aggregationem.</hi> </cell>
+              <cell>7</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum multitudinem.</hi> </cell>
+              <cell>8</cell>
+            </row>
+<row>
+              <cell> <hi>Secundum exaggerationem.</hi> </cell>
+              <cell>9</cell>
+            </row>
+</table>
+<p>Numeri igitur novem modis significant in divino
+eloquio: secundum ordinem positionis, secundum
+qualitatem compositionis, secundum modum porrectionis,
+secundum formam dispositionis, secundum
+computationem, secundum multiplicationem, secundum
+<pb n="0022B"/>
+partium aggregationem, secundum multitudinem,
+secundum exaggerationem.</p>
+<p>Secundum ordinem positionis: ut unitas, quia
+prima est in numeris, rerum omnium significat principium.
+Binarius, quia secundus est, et primus ab
+unitate recedit, peccatum significat quo a primo
+bono deviatum est. Secundum qualitatem compositionis
+numeri significant, ut idem binarius qui sectionem
+recipit, et in duo dividi potest, corruptibilia
+et transitoria significat. Ternarius vero, quia
+unitate media interveniente sectionem non recipit,
+ut in duo aequa dividatur, indissolubilia et incorruptibilia
+designat.</p>
+<p>Secundum modum porrectionis numeri significant,
+<pb n="0022C"/>
+ut septenarius ultra senarium requiem post
+operationem. Octonarius ultra septenarium, aeternitatem
+post mutabilitatem. Novenarius ante denarium,
+defectum intra perfectionem. Undenarius ultra
+denarium, extra mensuram transgressionem.</p>
+<p>Secundum formam dispositionis, ut denarius,
+qui in longum tenditur, rectitudinem fidei significat.
+Centenarius, quia in latum expanditur, amplitudinem
+charitatis. Millenarius qui in altum levatur,
+altitudinem spei designat. Rectitudinem ad se, latitudinem
+ad proximum, altitudinem ad Deum. Primae
+igitur et principali unitati ex his tribus membris
+ordine positionis, denarius proximus est; millenarius
+forma dispositionis. Ille loco vicinior, iste perfectione
+similior.</p>
+<p>
+            <pb n="0022D"/>Secundum numeri computationem ut denarius
+perfectionem significat, quia in eo porrectio computationis
+finem facit.</p>
+<p>Secundum multiplicationem numeri significant,
+ut duodenarius universitatis signum est, quia ex
+ternario et quaternario invicem multiplicatis perficitur;
+quoniam quaternarius corporalium, ternarius
+spiritualium forma est.</p>
+<p>Secundum partium aggregationem numeri significant,
+ut senarius forma est perfectionis, propterea
+quod partes ejus ternarius, binarius, unitas, aggregatae
+simul totum complent; et nec ultra exuberant,
+<pb n="0023A"/>
+nec infra subsistunt, quod perfectioni convenit, in
+qua nec plus justo nec minus esse debet.</p>
+<p>Secundum multitudinem partium numeri significant,
+ut binarius propter duas unitates charitatem
+Dei et proximi. Ternarius propter tres, trinitatem.
+Quaternarius, propter quatuor tempora, temporalia,
+quoniam annus et mundus quatuor partibus distinguuntur.
+Quinarius, quinque senius. Septenarius
+praesens saeculum, quod septem diebus volvitur.</p>
+<p>Secundum exaggerationem numeri significant,
+cum causa exigit aggravari, et cum quadam exaggeratione
+iis, quae praemissa sunt, responderi, quale
+est illud in Levitico: <hi>Ad Adam correptiones vestras
+septuplum propter peccata vestra <note>(Lev. XXVI)</note>
+            </hi>, ubi nihil
+aliud quam multiplicitas poenae signatur, expressa
+<pb n="0023B"/>
+per septenarium. Ex paucis multa sapiens perpendere
+discat.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVI.-- <hi>De locis, temporibus, ac gestis mysticis sacrae Scripturae.</hi> </head>
+<p>Haec de numeris, propter multiplicem significationem
+eorum, paulo prolixius prosecuti sumus. Nunc
+autem ad quartam circumstantiam, id est locum,
+vertamus sermonem. Loca significant, unde Dominus
+in certis et determinatis locis certa negotia geri
+voluit, propter significationem: ut verbi gratia, filii
+Israel descendentes in Aegyptum, cogente fame,
+oppressi sunt gravi servitute; inde vero educti a
+Domino per desertum quadraginta annis iter agentes,
+venerunt in terram promissionis, quae sita est inter
+<pb n="0023C"/>
+Babylonem et Aegyptum. Et utraque gens, id est
+Aegyptii et Assyrii captivaverunt eos; sed prius
+Aegyptii: ista omnia significationi apta sunt. Aegyptus,
+quae est terra voluptuosa et deliciis affluens,
+mundum significat, non machinam istam, sed voluptates
+mundi et secularia desideria. Desertum
+significat vitam religiosam, per quam quasi repatriantes
+jejunamus a vitiis et concupiscentiis hujus
+saeculi. Babylon ad aquilonem posita est, ubi frigus
+perpetuum et obscuritas est, cum nunquam pars
+illa a sole contingatur. Per Assyrios igitur, id est
+Babylonios, daemones competenter designantur, qui
+ad aquilonem sedem sibi elegerunt, utpote frigore
+infidelitatis torpentes, et veritatis luce privati. Prius
+<pb n="0023D"/>
+Aegyptii opprimunt Israel, deinde Assyrii, non enim
+in nobis potest quidquam diabolus, nisi prius trahamur
+a propriis concupiscentiis. Unde: <hi>Ne tradas
+me Domine a desiderio meo peccatori,</hi> id est diabolo <note>(Psal. CXXXIX)</note>.</p>
+<p>Tempora significant. Exempli causa, Jesus erat
+in porticu Salomonis, et hiems erat. Ideo de hieme
+habita est mentio, ut per qualitatem temporum designaretur
+qualitas animorum, id est torpor et infidelitas
+Judaeorum.</p>
+<p>Gestum significat, ut in Evangelio patet. Venit
+Jesus in Bethaniam, et suscitavit Lazarum; deinde
+per montem Oliveti venit in vallem Josaphat, et misit
+discipulos in civitatem propter asinam, etc. Bethania
+domus obedientiae. Ad obedientem tantum
+<pb n="0024A"/>
+venit Christus, ut resuscitaret Lazarum, id est animam
+prius mortuam in peccatis. Cum itaque sex
+sint circumstantiae, quae dicuntur significare, quaecunque
+earum significet, aut factum significat factum
+et est allegoria; aut factum faciendum significat, et
+est moralitas. In his duobus ad cognitionem veritatis,
+id est integritatem fidei, et ad amorem bonitatis,
+id est ad perfectionem bonorum operum, instruimur.
+Propter quae duo legenda est divina Scriptura, scilicet
+ut credamus sincere, et bene operemur.</p>
+</div2>
+
+<div2>
+          <head>CAP. XVII.-- <hi>De materia sacrae Scripturae.</hi> </head>
+<p>Materia divinae Scripturae est Verbum incarnatum
+cum omnibus sacramentis suis, tam praecedentibus
+a principio mundi quam futuris usque ad finem saeculi.
+<pb n="0024B"/>
+Et sciendum quod tota ista series et porrectio
+temporis dividenda est in duos status: veterem, et
+novum, et tria tempora naturalis legis, et scriptae et
+gratiae, et sex aetates. Prima aetas ab Adam usque
+ad Noe. Secunda a Noe usque ad Abraham. Tertia
+ab Abraham usque ad David. Quarta a David usque
+ad transmigrationem Babylonis. Quinta a transmigratione
+Babylonis usque ad adventum Christi. Item
+quinque aetates praecedentes, id est ab Adam usque
+ad Christum distinguuntur in quatuor successiones.
+Prima patriarcharum fuit ab Adam usque ad Moysem.
+Secunda fuit a Moyse usque ad David, quae est judicum.
+Tertia, quae est Regum, a David usque ad transmigrationem
+Babylonis. Quarta a transmigratione
+Babylonis usque ad Christum; et haec successio sacerdotum
+<pb n="0024C"/>
+fuit. Status dicuntur, quia adesse hominis
+pertinent. Vetus dicitur status, quia in culpa et poena
+usque ad resurrectionem Christi. Novus autem dicitur
+propter innovationem vitae humanae, quae per
+gratiam Christi facta est usque ad finem saeculi. Item
+tempus naturalis legis dicitur, eo quod homo suo
+naturali sensui relictus fuit sine communi praeceptione.
+Tempus scriptae legis dicitur, eo quod tunc
+lex scripta in populo Dei praecepta dabat vivendi.
+Tempus gratiae, quia Christus gratis dedit implere
+quod lex praeceperat. Aetates dicuntur sex ad similitudinem
+aetatis hominum. Fuit enim mundus et
+infans et puer, etc. Et notandum quod aetates istae
+non distinguuntur secundum aequalia spatia temporum,
+<pb n="0024D"/>
+sed secundum communes innovationes rerum;
+ut fuit diluvium, et electio Abrahae, et institutio regum
+et transmigratio in Babylonem, et adventus
+Christi. Successio patriarcharum dicitur, quia eo
+tempore soli patres praeerant filiis suis: quod duravit
+usque ad Moysem, qui, primus in populo Dei
+principatum tenens, judex constitutus est non tantum
+super filios suos, sed super totum populum
+Israel, licet jam multi reges essent in gentibus. Vel
+ideo patriarcharum successio nominatur, quia eo
+tempore successerunt sibi ad invicem primitivi illi
+patres a quibus genus humanum disseminatum est
+et familiae derivatae, et patriae denominatae, ut ab
+Edom Edumei, a Levi Levitae, a Juda Judaei</p>
+</div2>
+
+<div2>
+          <head>CAP. XVIII.-- <hi>De difficultatibus sacrae Scripturae</hi>.</head>
+
+<pb n="0025A"/>
+<p>Multa in Scriptura sacra occurrunt, quae rerum
+gestarum seriem ignorantibus, difficultatum pariunt
+intelligendi. Quemadmodum hoc quod in libro Judith
+legitur, Arfaxat rex Judaeorum multas gentes
+suo imperio subjugasse, ac contra Nabuchodonosor
+regem Assyriorum pugnasse, et jure obtentus belli
+eidem regi Assyriorum ad omnia regna suae ditioni
+subjicienda spem ac confidentiam addidisse. Hinc
+Nabuchodonosor Holofernem, principem militiae, ad
+debellandas gentes misisse; qui subactis caeteris,
+Judaeos rebellare conantes in Bethulia obsedit, atque,
+Achior principe filiorum Amon narrante, didicit
+ipsum esse populum qui, nuper a captivitate reversus,
+eadem montana possedit. Si igitur quaerimus,
+<pb n="0025B"/>
+quo tempore haec gesta sint, vel quis fuerit Nabuchodonosor
+iste qui in Ninive regnavit, cum Nabuchodonosor
+non in Ninive, sed in Babylone regnasse
+perhibeatur, neque Assyriorum sed Chaldaeorum
+fuisse rex legatur, idemque in reditu populi de
+captivitate Babylonis jam mortuus nequaquam dubitetur,
+non parva in his diligenter considerantibus
+dubitatio exoritur. Dicunt itaque hunc Nabuchodonosor
+Cambysem filium Cyri intelligendum; qui
+propterea ab Hebraeis secundus Nabuchodonosor appellatus
+est, quod, ut credebatur, illius Nabuchodonosor
+facta imitans, magnam in filios Israel crudelitatem
+exercuit. Ubi reliqua forsitan convenire
+potuissent, nisi quod in libro Judith legitur verbum
+factum in domo Nabuchodonosor anno duodecimo
+<pb n="0025C"/>
+regni ejus, cum Cambyses filius Cyri non nisi octo
+annis regnasse perhibeatur. Verum in numeris
+multa mendacia scriptorum libris inesse deprehendimur,
+tamen in ejusmodi studiosus lector
+moveri non debet, quia aliquid est, veritati
+appropinquasse, illic etiam ubi non contingit in
+toto illam comprehendere. In libris etiam Machabaeorum
+et in Daniele quaedam dicuntur, quae non facile
+intelligere possis, nisi cognoveris primum eos qui
+post Alexandrum Magnum in regnum Syriae et Aegypti
+successerunt: In Daniele siquidem audis regem
+aquilonis frequenter nominari; ubi per austrum nihil
+aliud quam regnum Aegypti; et per aquilonem
+nihil aliud quam regum Syriae, secundum litteram
+<pb n="0025D"/>
+intelligi oportet; quorum reges alternis vicibus,
+nunc pace nunc bello ad invicem varia tempora habuisse
+leguntur. Quas vicissitudines, nisi prius eorum
+gestis cognitis, non facile discernes. Item quod
+in libro Machabaeorum legimus, Antiochum atque
+Demetrium eorumque successores pro regno Syriae
+ex adverso pugnantes, ipsumque regnum quasi paterno
+jure hinc inde utrosque vindicantes, intelligere
+non poteris qua de causa factum sit, nisi agnoveris
+qualiter Seleucus filius Antiochi Magni, rex Syriae,
+moriens successorem reliquerit Antiochum Epiphaneum
+fratrem suum. Quo mortuo Demetrius Seleuci
+filius egressus ab urbe Roma venit in Syriam, in regnum
+<pb n="0026A"/>
+videlicet patris sui. Cujus adventu comperto,
+exercitus qui cum Antiocho Epiphaneo fuerat, ejusdem
+Antiochi filium, hoc est Antiochum Eupatorem
+interfecit. Sicque Demetrius regnum obtinuit. Alexander
+vero filius Antiochi Eupatoris, cum crevisset,
+exercitum collegit, oppressoque Demetrio regnum
+recepit. Post Demetrius filius Demetrii fugato Alexandro
+potestatem ad se revocavit. Deinde Tryphon
+quidam Partium Alexandri filium, quem nutriendum
+acceperat, occidit. Sed illo tandem oppresso, regnum
+in progenie Seleuci permansit. Haec breviter ad evidentiam
+lectionis distinximus, ut ea quae scripta
+sunt, aut non legantur, aut intelligantur. Haec vero
+tempora Machabaeis insignia fuerunt, quorum primus
+Judas, zelo divinae legis accensus, impetus Graecorum
+<pb n="0026B"/>
+fortiter propulsavit; quo mortuo Jonathas
+frater ejus successit. Postremo sanguine et virtute
+germanus defuncto Symone successit Joannes Hircanus
+filius ejus, et post Joannem filius ejus Aristobolus,
+et post Aristobolum Alexander filius ejus;
+post quem Alexandria uxor ejus tenuit quidem principatum
+generis, Hircano autem filio suo pontificalem
+dignitatem tribuit. Hujus Hircani tempore quidam
+latrunculi ab Hierosolymis egressi circa Ascalonem
+praedas egerunt, ubi inter caeteros captivos
+Antipater quidam juvenis, cujusdam Herodis genere
+Idumaei, qui in Ascalone templi Apollinis sacerdos
+exstitit, filius, Hierosolymam captivus ductus est.
+Hic itaque Antipater in domo Hircani aliquot annis
+<pb n="0026C"/>
+serviens, industria ac probitate spectabilis, eidem
+Hircano domino suo gratiosus exstitit, in tantum ut
+ei universam domum suam committeret. Circa haec
+tempora contigit ut Antigonus, Hircani pontificis
+frater junior, eumdem Hircanum a pontificatu propellens,
+sacerdotii dignitatem arriperet. Cumque
+Pompeius consul Romanorum tunc per Syriam exercitum
+duceret, supradictus Antipater, missus ab
+Hircano domino suo ad Pompeium veniens, impetravit
+ut cum exercitu Hierosolymam ascenderet, et
+dejecto Antigono, sacerdotii dignitatem Hircano reformaret.
+Pompeius itaque, restituto Hircano, tributa
+terrae solvenda indixit, atque eumdem Antipatrum
+universae regioni praefecit recedens. Antipater autem
+antiquae gratiae non immemor erga Hircanum benignus
+<pb n="0026D"/>
+exstitit, tantaque modestia injunctum officium
+exercuit, ut tam Judaeis quam Romanis complaceret.
+Genuit autem filium Herodem nomine; qui post
+mortem patris tum merito propriae virtutis, tum
+etiam gratia paternae devotionis a Romanis coronam
+accepit, et rex factus est. Hic est Herodes, cujus regni
+anno tricesimo primo natus est Christus. Qui
+quoniam alienigena primus Judaeae regnum susceperat,
+audita fama per magos de nativitate regis Judaeorum,
+territus est. Et ne forte regnum quod usurpaverat,
+amitteret, quem successorem timuit, exstinguere
+conabatur. Peremit itaque innocentes, ut,
+universis morientibus, ille, quem unum insectabatur,
+<pb n="0027A"/>
+non evaderet. Hic etiam Herodes, post alias uxores
+quas primitus duxerat, Mariannem quamdam,
+Hircani pontificis neptem, factus rex duxit uxorem,
+de qua duos genuit filios Alexandrum et Aristobolum.
+Sed haec cum postea et propter speciem, et
+propter generis dignitatem insolesceret, animum
+ejus adversum se graviter exacerbavit; accessit huic
+molestiae quod ab aliis concubinis de stupro accusata
+est, in tantum ut etiam Antonio consuli Romanorum,
+qui tunc in partibus orientis agebat, imaginem
+sui pictam ad ipsius animum in amorem sui
+concitandum misisse diceretur. Qua suspicione fractus
+Herodes sororio suo cum quo consilia sua communicare
+consueverat, secretum aperit, eamque interfici
+jubet. Ille vim amoris considerans, et furoris
+<pb n="0027B"/>
+jussa poenitentiam subsecuturam sciens, Mariannem
+secreto corripit, et nisi adversus maritum humilietur,
+quod periculum immineat, ostendit. Timor contumacem
+mansuefecit; sicque brevi mutatis moribus
+Herodis animum ad amorem sui reparavit. Inter
+haec cum quadam die solus cum sola blandius
+jocaretur suumque amorem jactaret: Verum (inquit
+illa) quomodo amas, quam mortuam malles
+quam vivam? Nam et interfici me praecepisti. Ille, se
+proditum agnoscens, cum furore surrexit; et quia
+jam prius quaedam verba de amore hujus ac sororii
+sui sinistra audierat, nunc rem auditam quasi probatam
+credens, jubet utrosque occidi. Post autem
+poenitentia ductus, furorem furore mutavit, et per
+singula momenta Mariannem clamans, se sine illa
+<pb n="0027C"/>
+vivere non posse dicebat. Accessit concubinarum
+pestifera delatio, quae filios in ultionem sanguinis
+adversus patrem armari testatur. Ille ergo missis
+Romam litteris a senatu impetravit ut parricidas et
+insidiatores vitae suae necaret, sicque post matrem
+filiis trucidatis, et ipse postea quoque diuturnis doloribus
+contabescens, morte miserabili vitam finivit.
+Reliquit successores filios, Archelaum regem in Judaea,
+Herodem tetrarcham in Galilaea, Philippum
+autem tetrarcham in Iturea et Traconitide regione,
+et Lisaniam in Abilina. Archelaus autem, cum novem
+annis post ipsum patrem regnasset, apud Romanos
+a Judaeis de insolentia accusatus, regno exsulans
+Lugdunum in exsilium mittitur: ubi et vita functus
+<pb n="0027D"/>
+est. Romani autem ad procurandam Judaeam
+praesides posuerunt. Herodes autem tetrarcha Galilaeae
+Philippo fratri suo uxorem ejus nomine Herodiadem
+filiam Aretae regis Arabum, abstulit, eamque
+sibi contra morem in conjugium copulavit. Pro quo
+<pb n="0028A"/>
+scelere cum a Joanne Baptista argueretur, suggéstione
+Herodiadis ipsum Joannem decollavit. Hic est
+Herodes tetrarcha filius Magni Herodis qui in passione
+Domini Hierosolymam ascendisse legitur, et
+qui Jesum a Pilato praeside ad se missum, alba veste
+indutum illusit, atque ad Pilatum judicandum
+remisit. Porro Aristobolus filius Herodis Magni, atque
+hujus Herodis frater ex Marianne matre natus,
+quem superius a patre Herode et ob suspicionem
+parricidii trucidatum diximus, filium habuit nomine
+Agrippam. Qui cum adultus esset, orbatum et exhaeredatum
+se cernens, quanta potuit pecunia collecta,
+Romam perrexit; ibique cuidam Caio Caligulae
+nepoti Tiberii Caesaris familiaritate junctus est. Qui
+Caius, cum post mortem Tiberii imperium sumpsisset,
+<pb n="0028B"/>
+eumdem Agrippam ob meritum pristinae devotionis
+in Phoenicia regem constituit. Herodias autem
+hoc audito, Herodem de ignavia reprehendere coepit,
+quod videlicet ipse divitiis major et potentiis, a Romano
+principe hanc dignitatem sibi non acquisisset;
+qua exprobratione irritatus Herodes, cum ipsa Herodiade
+pecunia multa assumpta, Romam profectus
+est. Cumque apud Caium quereretur quod sibi hic
+honor collatus potius non fuisset, indignatus Caius
+inconcessa petenti, etiam concessa tollenda decrevit.
+Sicque Herodes pariter cum Herodiade ad Hispanias
+in exsilium missus est, hic finis Herodis. Verum
+Agrippa, qui Herodes cognominatus est, ipse est qui
+Jacobum fratrem Joannis gladio peremit, Petrumque
+in carcerem missum quatuor quaternionibus
+<pb n="0028C"/>
+militum custodiendum tradidit. Hic cum quadam
+die cum Tyriis ac Sidoniis causam acturus processisset,
+et pro splendore deauratarum vestium solisque
+radio lucentium Deus et non homo conclamaretur,
+in superbiam elatus subito ab angelo percussus
+est. Et post aliquot dies perseverante aegritudine vitam
+finivit. Huic successit filius Agrippa, qui in Actibus
+apostolorum <note>(Act. XXV)</note> cum Bernice matresua
+ad Festum praesidem visendum et salutandum
+descendisse legitur, atque cum Paulo eidem praesidi
+praesentato quaedam jucunde confabulatus memoratur <note>(Act. XXVI)</note>.
+Hujus tempore regnum Judaeorum a
+Tito et Vespasiano subversum est. Primus itaque
+Herodes fuit ille, sub quo Christus natus est, qui et
+<pb n="0028D"/>
+parvulos trucidavit. Secundus filius ejus sub quo
+Christus passus est, qui Joannem Baptistam decollavit.
+Tertius Agrippa Herodes, cujus avus fuit
+primus Herodes. Secundus patruus qui Jacobum interfecit.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

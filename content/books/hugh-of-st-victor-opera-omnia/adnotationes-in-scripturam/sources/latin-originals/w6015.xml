@@ -1,0 +1,1236 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Adnotationes in libros Regum</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 175</title>
+           <idno>HuDeSVi.AdInLiR2</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Adnotationes in libros Regum</head>
+<p>
+          <pb n="0095D"/>Liber Regum apud nos quatuor distinctionibus
+clauditur, quarum duae priores apud Hebraeos liber
+Samuelis dicuntur; duae sequentes Malachim Ramatham,
+sicut in Hebraeo, vel ut quidam Arimathaim,
+unde Arimathia in Evangelio.</p>
+</div1>
+
+<div1>
+        <head>ADNOTATIUNCULAE IN REGUM PRIMUM.</head>
+<p> <hi>
+            <note>(I REG. II.)</note> Donec sterilis peperit plurimos,</hi> id est
+septem. Post Samuelem enim tres filios et tres filias
+[ <hi>littera habet</hi> duas]: itaque septem. Addunt de
+uno filiorum septimum natum; qui est et ejus, ut
+sint septem. <hi>Videbis aemulum tuum in templo in universis
+prosperis Israel.</hi> Videbis in filiis tuis: ipsi
+enim videbunt post te.</p>
+<p> <hi>
+            <note>(I REG. III.)</note> Heli jacebat in lectulo suo, et oculi
+ejus caligaverant nec poterat videre,</hi> hic distingue.
+Postea sequitur, <hi>et lucerna Dei exstingueretur. Samuel
+<pb n="0096D"/>
+autem dormiebat in templo Domini,</hi> ubi <hi>erat
+arca Dei, et vocavit Dominus Samuel;</hi> et hoc antequam
+lucerna Dei exstingueretur, qui Samuel dormiebat
+in templo Domini. Quod autem dictum est <hi>antequam lucerna exstingueretur,</hi> 
+ vocatum a Domino
+Samuel; vel sic accipiendum est, quasi diceretur
+nocte vocavit, vel ideo quia ipse Samuel qui nondum
+cum Deo loqui consueverat, lucerna lucente,
+nullum alium in templo praeter Heli esse videret.
+Cumque ipsum Heli nequaquam locutum didicisset,
+Dei vocem hanc esse non dubitaret.</p>
+<p> <hi>
+            <note>(I REG. VI.)</note> Ab urbe murata usque ad villam, quae
+erat absque muro.</hi> Quod dicit quinque civitates
+quinque mures dedisse, et quinque anos aureos, et
+postea subjungit: <hi>Ab urbe murata usque ad villam
+quae erat absque muro,</hi> ita intelligendum est, quod
+<pb n="0097A"/>
+quinque provinciae quinque mures dederunt, et
+quinque anos singulae singulos, quos, licet pro dignitate
+specialiter civitates quasi capita provinciarum
+dedisse dicuntur, tamen pecunia non solum ab
+iis qui in civitatibus erant, sed etiam a villis quae
+erant absque muro: hoc est tam a minimis quam a
+maximis collecta est, ut sicut periculum erat omnium,
+ita oblatio esset universorum. Sic igitur omnes dederunt
+per universam regionem a fine usque ad finem,
+hoc est quod sequitur: <hi>Et usque ad Abel magnum?</hi> 
+lapidem dicit de quo superius dixerat: <hi>Erat
+autem ibi lapis magnus, et ceciderunt ligna plaustri:
+vaccasque imposuerunt super ea.</hi> Hic ergo lapis quasi
+terminus erat terrae Philisthiim, et Israel usque ad
+quem Philisthaei arcam Domini prosecuti sunt, ubi,
+<pb n="0097B"/>
+et Bethsamitae, arca suscepta, holocausta obtulerunt.
+Usque ad hunc igitur lapidem omnes tam villae,
+quae erant absque muro, quam civitates muratae
+terrae Philisthiim ad debitum munus Domino persolvendum
+pecuniam et impensam tribuerunt, hoc est
+quod dicitur: <hi>Usque ad Abel magnum,</hi> usque ad lapidem
+magnum. Nam, et ipsum nomen lapidem
+sonat. Abel enim Hebraice <hi>lapis</hi> dicitur, ut proprium
+nomen ex communi vocabulo derivatum intelligatur. <hi>Super quem lapidem posuerunt arcam Domini</hi> 
+sicut superius dictum est: <hi>Quae arca erat usque in
+illa die,</hi> quo scilicet percussit Dominus Bethsamitas,
+in agro Josue. In quo etiam culpa eorum notari potest,
+quod non eam in domum introduxerunt, sed
+foris dimiserunt, ubi ab omnibus irreverenter aspiceretur.
+<pb n="0097C"/>
+Nam viri Cariathiarim non sic fecerunt postea,
+propter quod nec percussi sunt illi. <hi>Et percussit
+de populo septuaginta viros, et quinquaginta millia
+plebis.</hi> Quidam per septuaginta viros majores et
+principes populi intelligendos putant. Ut quod sequitur: <hi>Quinquaginta millia plebis,</hi> 
+ sic accipiendum
+sit, quasi in morte horum tantum damnum sit factum,
+quantum foret si quinquaginta millia de plebe
+prostrata fuissent. Saed in Hebraeo plebis non habetur.
+Sic igitur accipiendum supradictum putant: <hi>Percussit de populo septuaginta viros, et quinquaginta
+millia;</hi> 
+ ac si dixisset. Quinquaginta millia et
+septuaginta percussit de populo, neque hos solum
+de Bethsamitis, ne forte non de populo, sed ipsum
+<pb n="0097D"/>
+populum prostravisse videatur; sed de tota provincia
+et regione circumjacente civitati Bethsamis.
+Subdit causam, quare sint percussi, dicens: <hi>Eo quod
+vidissent arcam Domini;</hi> scilicet non reverenter,
+neque cum timore, ut tantam rem decebat; sed audacter
+irruentes respexissent arcam Domini. Dignum
+quippe fuerat, ut quia Philisthaeos, qui digni
+non erant arcam Dei retinere, praesumentes pro sua
+temeritate percussos audierant: ipsi quoque infirmitatis
+suae memores cum magna reverentia, et timore
+ad illam respiciendam accederent. Quia igitur
+pro sua praesumptione percussi sunt: innuit eosdem
+percussos nominans. Hinc est quod Oza in sequentibus,
+cum ad eamdem arcam sustentandam manum
+extenderet, percussus periit, quia inclinato vehiculo,
+<pb n="0098A"/>
+et ruinam minitanti auxilium laturus majestatem
+praesidentis non cogitavit.</p>
+<p> <hi>
+            <note>(I REG. VII.)</note> Et factum est ex qua die mansit arca
+Domini in Cariathiarim, multiplicati sunt dies (erat
+quippe jam annus vicesimus).</hi> Ab eo scilicet tempore,
+quando ingressa est in Cariathiarim usque ad hoc
+tempus, quando ait Samuel ad universam domum
+Israel, quod sequitur: <hi>Vocavit nomen illius, lapis
+adjutorii.</hi> Quod igitur superius Israel juxta lapidem
+adjutorii castra posuisse dicitur, per anticipationem
+dictum est, id est in loco ubi postea hic lapis positus
+est sic appellatus.</p>
+<p> <hi>
+            <note>(I REG. IX.)</note> Ne ascenderet in excelsum.</hi> Post Silo, <hi>ante aedificationem templi excelsa,</hi> 
+ id est loca eminentiora,
+ubi Deo sacrificaretur, non reprehendebantur:
+<pb n="0098B"/>
+quae post, loco sacrificandi determinato, illicita
+facta sunt.</p>
+<p> <hi>
+            <note>(I REG. XII.)</note> Militiae Asor,</hi> id est militiae Jabin
+regis, <hi>qui habitabat in Asor,</hi> de qua superius in Asoreth
+gentium.</p>
+<p> <hi>
+            <note>(I REG. XIII.)</note> Filius unius anni erat Saul cum
+regnare coepisset, et duobus annis regnavit super
+Israel. Et elegit sibi Saul tria millia de Israel.</hi> Quidam
+sic exponunt. Ipsi autem Saul, cum regnare
+coepisset, erat filius unius anni, vel ipse Saul erat
+filius unius anni, id est innocens, et simplex ut puer
+unius anni. Et duobus annis regnavit in illa simplicitate,
+postea mutatus est in pejus. Hebraei dicunt
+Saul duobus tantum annis regnasse, Samuelem viginti
+annis judicasse Israel. Secundum hanc existimationem
+<pb n="0098C"/>
+sic intelligitur, Saul duobus annis regnavit
+super Israel, qui cum regnare coepisset, et esset
+filius unius anni, id est unum annum jam habuisset
+in regno, fecit quod sequitur: <hi>Elegit sibi tria millia
+de Israel.</hi> Nam, et David postea secundum eamdem
+loquendi formam filius triginta annorum dicitur; id
+est, habens triginta annos cum regnare coepisset.
+Quod idioma in Hebraeo frequens et usitatum est,
+ut filius iniquitatis, filius pacis, filius unius anni,
+filius triginta annorum. <hi>Percussit Jonathas stationem
+Philisthinorum, quae erat in Gabaa,</hi> id est exercitum
+eorum, qui in illo loco morabantur. <hi>Quod cum audissent
+Philisthaei, Saul cecinit buccina.</hi> Saul cum
+cognovisset Philisthaeos audivisse, quod Jonathas
+filius ejus stationem eorum percussisset, sciens eos
+<pb n="0098D"/>
+in ultionem percussorum adventuros: cecinit buccina
+in omni terra: dicens, <hi>audiant Hebraei.</hi> Ideo
+enim buccina cecinit, ut Hebraei audirent percussos
+Philisthaeos, et animarentur ad praelium. <hi>Quod factum
+est. Nam universus Israel audivit hujuscemodi
+famam,</hi> quod scilicet Saul percussit stationem
+Philisthinorum, fama regi attribuente, quod filius
+fecerat. Et ideo fiducia accepta, erexit se Israel adversus
+Philisthiim. <hi>Clamavit ergo populus Israel,
+currens post Saul, ad praelium in Galgala. Hebraei
+autem transierunt Jordanem.</hi> Hebraeos hic vocat partem
+populi, quae trans Jordanem morabatur, id est
+tribum Ruben et Gad, et dimidiam tribum Manassae.
+Reliquos Israel: hinc, et Saul buccina cecinit, ut
+<pb n="0099A"/>
+remoti famam victoriae audirent; quos, et Hebraeos
+discrete Scriptura nominat, alludens vocabulo, quia
+ad auxilium reliquo Israeli venientes frequenter
+Jordanem transire oportebat, quia Hebraeus <hi>transiens</hi> 
+interpretatur.</p>
+<p> <hi>
+            <note>(I REG. XV.)</note> Porro triumphator in Israel non parcet,
+nec poenitudine flectetur.</hi> Hebraeus habet sic:
+Vagham, Neza Izrahelloe Zachir,  ;
+id est, <hi>porro virtus Israel non mentietur.</hi> 
+Hoc vult dicere, quod Deus qui est triumphator in
+Israel, quia per eum Israel triumphat et vincit; sine
+virtutis Israel, id est dans virtutem et fortitudinem
+Israel; ipse non mentietur, ut verbum suum mutet,
+sicut tu modo verbum ejus cassare conatus es, non
+faciens quod praecepit. Ipse autem non mentietur,
+<pb n="0099B"/>
+sed ad effectum perducet verbum suum, sive non
+parcet quasi miseratione aliqua mutatus, ut non
+impleat quod proposuit, sicut tu prius videri voluisti
+parcens hominibus dignis morte, et mendacem
+faciens Deum. Nec poenitudine flectetur, ut poeniteat
+eum proposuisse, et sic flectatur, et non faciat
+quod facere cogitavit. Neque enim homo est ut agat
+poenitentiam. Homo enim qui malum velle potest et
+mutare potest, poenitentiam agere potest.</p>
+<p> <hi>
+            <note>(I REG. XVI.)</note> Nam coram Domino est Christus
+ejus?</hi> Id est nunquid iste qui tibi nunc praesentatus
+est, et coram adductus, provisus est a te, ut sit
+Christus tuus? <hi>Adducit itaque Isai septem filios suos
+coram Samuele; et ait Samuel ad Isai: Non elegit
+Dominus ex istis.</hi> Quomodo verum est, quod Isai
+<pb n="0099C"/>
+septem filios suos ad Samuelem adduxisse dicitur,
+et Samuel ex illis adductis nullum electum esse testatur,
+cum David unus de septem adhuc et adductus
+non sit, et electus sit? Quapropter sic intelligendum
+est quod sex adduxit, illo solo excepto quem
+superesse dixit, et verum est, quod de reliquis nullum
+elegit Dominus.</p>
+<p> <hi>
+            <note>(I REG. XVII.)</note> David caput Philisthaei attulit in
+Hierusalem,</hi> hinc apparet jam eo tempore communem
+fuisse habitationem in Hierusalem, et filiis
+Israel et Jebuseis: ad quam velut excellentiorem
+civitatem, ob gloriam triumphi caput Philisthaei David
+attulit. <hi>De qua stirpe descendit hic adolescens?
+Responditque Abner,</hi> etc. Quomodo Saul hic David
+<pb n="0099D"/>
+ignorat, et progeniem ejus quaerit; cum superius ad
+Isai patrem ejus misisse legatur, dicens: Mitte ad
+me David filium tuum, qui est in pascuis. David
+quoque ad eum venisse, et coram eo stetisse, dilectusque
+ab eo fuisse, et armiger ejus factus asseratur.
+Sed notandum quod potentes in quotidiana hominum
+frequentia positi, non omnes circa se conversantes
+possunt agnoscere: praecipue eos quos
+nec dignitas personae commendat, nec diutina conversatio
+familiares efficit. Quia igitur David puer adhuc
+et contemptibilis, neque regia familiaritate dignus
+brevi tempore cum Saule manserat, non mirum
+est si eumdem modo ad tam egregium opus
+procedentem diligentius notatum ignorat. Nam quod
+prius eum ad Isai patrem ejus mittens ex nomine
+<pb n="0100A"/>
+vocat; nequaquam notitiae ascribendum est quia eo
+nomine illum vocat quod ex relatione suggerentium
+didicit. Non autem ex praecedentis notitia familiaritatis
+agnovit,</p>
+<p> <hi>
+            <note>(I REG. XVIII.)</note> Posuitque eum Saul super viros
+belli.</hi> Hoc non amore, sed odio fecisse intelligendus
+est, ut cupiditate laudis, bellis se ingerens, interiret.
+Jam enim audierat mulieres canentes: <hi>Percussit
+Saul mille, et David, decem millia.</hi> Atque hac laude
+David in iram excitatus mortem ejus meditari coeperat.
+Ideoque subjungitur: <hi>Porro cum reverteretur
+percusso Philisthaeo David,</hi> etc. Hoc jam praecesserat,
+sed narratur praepostere. In duabus rebus gener
+meus eris. Primum scilicet de Merob promissa et
+deinde Michol data.</p>
+<p>
+          <pb n="0100B"/> <hi>
+            <note>(I REG. XXI.)</note> Fuerunt vasa puerorum sancta. Porro
+via haec polluta est, sed, et ipsa hodie sanctificabitur
+in vasis.</hi> Secundum ritum legis loquitur, secundum
+quem illicitum erat ut in vasis, in quibus ante
+communis cibus positus fuisset, sanctificatus postea
+panis poneretur. Ideo dicit vasa puerorum, id est
+comitum suorum sancta, quod nihil in eis commune
+continebatur, quo minus cibum sanctificatum caperent.
+Porro haec, inquit, via polluta est; id est nos
+via polluti sumus aliquid videndo forte vel contingendo,
+propter quod jure secundum legis consuetudinem
+a contingendis sacris prohiberi deberemus. <hi>Sed et ipsa sanctificabitur in vasis,</hi> 
+ id est parcetur
+nobis de his si qua tetigimus immunda. Parcetur
+dico propter vasa quae munda portamus.</p>
+<p>
+          <pb n="0100C"/> <hi>
+            <note>(I REG. XXVI.)</note> Si Dominus incitat te adversum
+me, odoretur sacrificium;</hi> placatur Deus, si ex ira
+ejus est: aliud consilium non habeo pro parte hac. <hi>Si autem filii hominum hoc faciunt; ipsi maledicti
+sunt in conspectu Domini, quia injuste agunt qui
+ejecerunt me,</hi> 
+ etc.</p>
+<p> <hi>
+            <note>(I REG. XXIV.)</note> Est apud me multis diebus vel annis.</hi> 
+Superius dictum est quod quatuor tantum mensibus
+fuit in regione Philisthinorum; nunc autem ac
+his dici, multis diebus vel annis moratum apud se,
+quod fortassis idcirco dicitur rectius argumentum fidelitatis
+ipsius caperent ex temporis prolixitate,
+ideoque annis adjunxit.
+</p>
+      </div1>
+
+<div1>
+        <head>ADNOTATIUNCULAE IN REGUM SECUNDUM.</head>
+<p>
+          <pb n="0100D"/> <hi>
+            <note>(II REG. I.)</note> Planxit autem David planctum hujuscemodi
+super Saul et super Jonathan filium ejus; et
+praecepit, ut docerent filios Juda arcum,</hi> id est artem
+sagittandi; quoniam Saul, et Jonathas filius ejus sagittis
+Philisthiim interierant, ut si denuo bellum surgeret,
+contra adversarios se defendere possent. <hi>Sicut
+scriptum est in libro justorum.</hi> Quidam librum justorum
+hunc eumdem librum intelligendum putant,
+propter Samuelem et David: de quibus principaliter
+agit. Alii librum justorum, legem Moysi interpretantur,
+in qua forma justitiae hominibus proponitur. Ex
+qua conjici putant in nonnullis locis artem sagittandi
+utilem, sicut fortassis illud in Genesi Jacob dicente
+quod portionem tulerit de manu Amorrhaei in
+gladio et arcu. Alii librum justorum non hominum
+<pb n="0101A"/>
+interpretantur, sed judiciorum vel praeceptorum. Ac
+si diceretur in libro juris, ut sit sensus, praecepit ut
+docerent filios Juda arcum, ut hoc ita quasi pro lege
+teneretur, et inviolabiliter observaretur, secundum
+quod scriptum est in libro juris, et praecepto legis
+editum. <hi>Clypeus fortium,</hi> pluraliter pronuntiandum,
+quod tamen singulariter exponens adjungit: <hi>Clypeus
+Saul.</hi> Modus dicendi quando aliquid communiter
+proponitur, cui singularis executio adjungenda
+est. Hic fit in rerum exaggeratione, quando quid
+cum valida intentione narratur. <hi>Abjectus est clypeus
+fortium, clypeus Saul,</hi> quasi non esset unctus oleo.
+Quasi hominis vilis, quasi hominis sanctificationem
+divinam non habentis. Deinde sequitur: <hi>A sanguine
+interfectorum ab adipe fortium, sagitta Jonathae
+<pb n="0101B"/>
+nunquam abiit retrorsum.</hi> Ac si diceret. Non abiit
+retrorsum sagitta Jonathae in praeliis ut emissa unquam
+cassa resiliret a sanguine fortium, ab adipe
+medullatorum; sed fortiter penetravit effundens sanguinem,
+et perstringens adipem fortium, quos interficiebat. <hi>Jonathas in excelsis tuis, o Israel, interfectus
+est. Doleo super te, frater mi Jonatha.</hi> </p>
+<p> <hi>
+            <note>(II REG. V.)</note> Dictum David ab eis, id est a Jebusaeis.
+Non ingredieris huc, nisi abstuleris caecos et claudos.</hi> 
+Caecos, et claudos super muros suos posuerunt, ut
+dicerent advenienti. <hi>Non ingredieris huc</hi> ad contemptum,
+scilicet illius quasi tales ad violentiam ejus
+repellendam sufficerent. Ideoque dixerunt ei: <hi>Non
+ingredieris huc</hi> nisi istos videlicet caecos et claudos,
+qui ad resistendum tibi propositi sunt, abstuleris.
+<pb n="0101C"/> <hi>Proposuerat enim David in die illa praemium,</hi> 
+ illi
+scilicet, <hi>qui percussisset Jebusaeum; et tetigisset domatum
+fistulas.</hi> Id est fistulas canalium, prominentes
+per summitatem muri a domatibus, id est tectis domorum
+ad educendam aquam stillicidiorum. Illi ergo,
+qui primus usque ad canalia desuper prominentia
+ascendens urbem ingrederetur, praemium proposuerat
+David, quod tamen praemium hic non determinat,
+sed in libro Paralipomenon exponit, scilicet
+quod ducem exercitus faceret. Unde Joab primus
+ascendens, princeps militiae factus est. <hi>A mello, et
+intrinsecus.</hi> Mello locus erat in civitate a quo incipiens
+aedificare per circuitum, et intrinsecus aedificavit.</p>
+<p>
+          <pb n="0101D"/> <hi>
+            <note>(II REG. VII.)</note> A facie populi tui faceres, scilicet
+horribilia;</hi> id est, propter populum tuum. Ab eo enim
+sumpsisti causam faciendi. <hi>Quem redemisti tibi ex
+Aegypto.</hi> Hic sistendum est; deinde subjunge: <hi>Gentem,
+et Deum ejus,</hi> subauditur ubi inveniemus talem
+gentem, et talem Deum ejus, qualis populus tuus
+Israel, et qualis tu Deus ejus.</p>
+<p> <hi>
+            <note>(II REG. XI.)</note> Sanctificata est ab immunditia sua,</hi> 
+id est lavit se post coitum, vel quia steterunt menstrua
+ejus propter conceptum.</p>
+<p> <hi>
+            <note>(II REG. XIV.)</note> In me, domine mi rex, iniquitas, et
+in domo patris mei;</hi> rex autem, et thronus ejus sit
+innocens. Quasi diceret: Cave ne forte promissio
+tua inanis sit, quod non convenit tibi, qui rex es et
+Dominus, ut iniquitas inveniatur in te, sicut, et de
+<pb n="0102A"/>
+me et domo patris mei, id est mei similibus. Quanto
+enim major es, tanto iniquitas tua deformior. <hi>Recordetur
+rex Domini Dei sui,</hi> id est timeat Dominum
+Deum suum. <hi>Ut non multiplicentur,</hi> id est, ut non
+permittat multiplicari et multipliciter insurgere: <hi>proximos sanguinis,</hi> 
+ id est, cognatos interfecti ad
+ulciscendum; et tunc non interficient filium meum. <hi>Loquar ancilla tua,</hi> 
+ etc. Accepta securitate de causa
+quam suam finxerat; nunc infert quo regem ad
+parcendum cogat proprio judicio, dicens: <hi>Quare cogitasti
+hujuscemodi rem;</hi> id est, quod filium tuum
+ejecisti pro nece fratris, quod quidem contra populum
+Dei fuit; quia nocere poterit in posterum hoc
+exemplum populo Dei, si imitatus hoc fuerit populus,
+similiter hoc agens. <hi>Nunc igitur veni, quia bonum
+<pb n="0102B"/>
+est parcere, et misereri.</hi> Ideo veni, et loquar ad
+te regem Dominum meum verbum hoc, quod feci de
+filio meo. Quod sequitur: <hi>praesente populo,</hi> in Haebraeo
+expressius invenitur: chi, chire,  , id
+est, quoniam terruerunt me; quasi diceret quia
+terruerunt me illi, qui filium meum interficere voluerunt:
+ideo veni pro impetranda venia. Quod tamen,
+et in prioribus verbis convenienter intelligi
+potest, ut si sensus; veni ut loquar verbum, praesente,
+hoc est instante et urgente me populo, qui filium
+meum ad mortem exposcunt. <hi>Et dixit ancilla
+tua. Loquar regem si quo modo faciat rex verbum
+ancillae suae;</hi> id est, si forte exaudiat me deprecantem
+pro filio meo. <hi>Et exaudivit rex. Dicat ergo ancilla
+tua, ut fiat verbum Domini mei regis,</hi> ut judicium
+<pb n="0102C"/>
+quod de mea causa fecisti, in tua conserves;
+quia tu sicut angelus Dei nec pro ira quam adversus
+aliquem habeas, nec pro gratia a veritate moveri debes. <hi>Per salutem animae tuae, domine mi rex, nec ad
+dexteram, nec ad sinistram est;</hi> 
+ nusquam scilicet deviat
+quidquam ex omnibus, quae locutus es, quin ita
+sit ut dicis, quod scilicet manus Joab mecum est.
+Sapiens es in omnibus istis, ut intelligas omnia: hoc
+est quod expediat fieri in omnibus, quae agenda super
+terram. Captatio est, ut attendat qui agendum
+sit ut sapiens.</p>
+<p> <hi>
+            <note>(II REG. XV.)</note> Portantes arcam foederis Domini,
+et deposuerunt arcam Dei.</hi> Quidam idcirco arcam
+Domini depositam putant, ut David Dominum consuleret.
+<pb n="0102D"/>
+Sed quia tunc ei respondere noluit: idcirco
+dixisse David ad Sadoc: <hi>Reporta arcam Dei
+in urbem,</hi> scilicet Hierusalem. Alii depositam putant,
+ut populum transeuntem praestolaretur. Unde est
+quod sequitur: <hi>Ascendit Abiathar,</hi> hoc est, seorsum
+stetit in loco eminentiore praestolans, donec omnis
+populus congregaretur.</p>
+<p> <hi>
+            <note>(II REG. XVII.)</note> Ingressus est ad Abigail filiam
+Naas.</hi> Naas ipse est Isai et Jesse pater David.</p>
+<p> <hi>
+            <note>(II REG. XXI.)</note> Ab initio messis donec, stillaret
+aqua super eos.</hi> Nota quod in illis regionibus, aestate,
+maxime tempore messis, nec tonitrua sonant nec
+pluviae fiunt, usque ad circa Kalendas Septembris. <hi>Factum est autem rursum praelium Philistinorum
+adversum Israel; et descendit David,</hi> 
+ etc. Quam in
+<pb n="0103A"/>
+hoc loco Arepham [Arafam] Scriptura nominat, ipsa
+creditur fuisse Orpha Moabitis, nurus Noemi, socia
+Ruth de cujus progenie nati sunt hi quatuor gigantes,
+qui hic in manu David, et servorum ejus cecidisse
+dicuntur. Repetit autem a superioribus Scriptura,
+bella ista commemorans fortassis alio ordine
+quam gesta sunt. In primo, Abisai filius Sarviae interfecit
+Jesbidenob; in secundo, Sobochai interfecit
+Sephi [Zap]; in tertio, David qui hic dicitur Adeodatus,
+quoniam ad liberationem Israel a Deo donatus
+est, et filius saltus, quia de pascuis et saltu sumptus
+est, et polymitarius, quia multiplici decore cultum
+Dei ornavit in psalmis et canticis: et Bethlehemites,
+propter patriam. Ipse scilicet David interfecit
+Goliath Gethaeum. Quod bellum primum fuisse videtur,
+<pb n="0103B"/>
+quamvis hic commemoretur tertium. In
+quarto Jonathas interfecit virum senos digitos singulis
+manibus pedibusque habentem qui similiter
+fuit de stirpe Arepha [Arafa].</p>
+<p> <hi>
+            <note>(II REG. XXIII.)</note> Haec sunt verba novissima quae
+dixit David.</hi> Haec videlicet quae supradicta sunt, vel
+haec quae sequuntur: <hi>Dixit David filius Isai,</hi> More
+Scripturarum de se loquitur quasi de alio: <hi>Dixit vir
+cui constitutum est Christo Dei Jacob,</hi> id est, cui
+gratia vel officium concessum est de Christo Dei
+Jacob; ut videlicet sit Christus Dei Jacob. In Hebraeo
+sic est: <hi>Dixit vir levatus super Christo Dei
+Jacob,</hi> id est vir qui est Christus Dei Jacob; <hi>quem
+ipse Deus Jacob superlevavit,</hi> id est exaltavit, ut esset
+superior omnibus. <hi>Egregius psaltes</hi> sive psalmista <hi>in
+<pb n="0103C"/>
+Israel.</hi> Quid dixit? Hoc scilicet, <hi>Spiritus Domini locutus
+est per me: et sermo ejus per linguam meam:
+Deus Israel dixit mihi et fortis Israel locutus est
+mihi.</hi> Quid dixit mihi? hoc videlicet quod ille qui
+justus est debet esse dominator hominum. Ita tamen
+quod dominator sit in timore Dei; ut sic per
+justitiam homines inferiores regat, quatenus semper
+per timorem Deo se subdat superiori. Vel hoc
+dixit mihi, quod dominator hominum justus et dominator
+in timore Dei rutilat et germinat. Hoc dixit
+mihi ut sciam qualiter praeesse debeam, et qualiter
+subesse, et per hoc factus sum splendidus. <hi>Sicut
+lux aurorae quae rutilat clare absque nubilo mane
+oriente sole; et factus sum germinans, sicut pluviis,</hi> 
+<pb n="0103D"/>
+id est irrigatione pluviarum germinat herba de terra.
+Quod tamen factum non est meritis meis: <hi>quia
+apud Deum cujus est totus mundus, non est tota domus
+mea,</hi> id est familia et progenies mea, <hi>ut pactum
+aeternum iniret mecum,</hi> ita <hi>firmum in omnibus atque
+munitum</hi> nisi gratia sua hoc fecisset. Ex qua gratia
+est <hi>cuncta salus mea et omnis voluntas mea.,</hi> id est
+quidquid volo et desidero per eam datur et impletur, <hi>et non est quidquam</hi> 
+ circa me vel ad me pertinens, <hi>quod non germinet</hi> 
+ et proficiat. <hi>Praevaricatores
+autem,</hi> qualis Saul fuit, <hi>quasi spinae evellentur universi,</hi> 
+quoniam indigni sunt ut permaneant in agro
+Dei, quia <hi>spinae non tolluntur manibus,</hi> quia intractabiles
+sunt et per rebellionem pungunt tangentes. <hi>Et
+si quis eas tangere voluerit</hi> increpando scilicet et
+<pb n="0104A"/>
+castigando, <hi>armabitur ferro et ligno lanceato.</hi> Hasta
+lignum est, lancea ferrum quasi diceret. Quin in
+eos saevire voluerit, utetur non solis verbis quibus
+erudiantur, sed vindicta exstirpentur, ut exstirpati
+comburantur igne scilicet, inexstinguibili usque ad
+nihilum consumendi. Nota autem quod ligno percussio
+fit, ferro sectio; lignum ergo lanceatum est
+vindicta non solum crucians, sed exterminans. <hi>Haec
+sunt nomina fortium David.</hi> Hic enumerat eos qui
+in exercitu David fortitudine excellentes erant; quibus
+et ipsum David annumerat; quia perfecta gloria
+regis non esset fortes habere milites, nisi et ipse fortis
+esset. Propter quod ipsum caeteris omnibus praefert,
+quasi fortibus fortiorem, quatenus etiam ipsorum
+commendatio ad gloriam illi cedat. Numerat autem
+<pb n="0104B"/>
+primum tres seorsum per se, quasi excellentiores
+omnibus, in quibus David primum ponit, ac primum
+ponit ac principem, secundum Eleazarum; tertium
+Semmaa. Hi primi tres. Deinde ponit alios tres et virtutem
+eorum exponit, quod per media hostium castra
+irrumpentes aquam de cisterna, quae erat in Bethlehem,
+attulerunt; quos tamen licet inter alios triginta
+insignes effulserint, primis tribus nequaquam
+aequandos esse testatur. Deinde adnumerat reliquos
+et in summa triginta sex, et cum Uria, triginta
+septem, qui sunt hi.</p>
+</div1>
+
+<div1>
+        <head> <hi>Incipiunt nomina fortium in Israel.</hi> </head>
+<list>
+<item/>
+<item>2</item>
+<item/>
+        </list>
+
+<pb n="0104C"/>
+<list>
+<item/>
+<item>2</item>
+<item/>
+<item/>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>10</item>
+<item>11</item>
+        </list>
+
+<pb n="0104D"/>
+<list>
+<item>12</item>
+<item>13</item>
+<item>14</item>
+<item>15</item>
+<item>16</item>
+<item>17</item>
+<item>18</item>
+<item>19</item>
+<item>20</item>
+<item>21</item>
+<item>22</item>
+<item>23</item>
+<item>24</item>
+<item>25</item>
+<item>26</item>
+        </list>
+
+<pb n="0105A"/>
+<table>
+<row>
+            <cell>David primus fortium primorum</cell>
+            <cell>27</cell>
+          </row>
+<row>
+            <cell>Eleazar</cell>
+            <cell>28</cell>
+          </row>
+<row>
+            <cell>Semmaa 3. Hi primi.</cell>
+            <cell>29</cell>
+          </row>
+<row>
+            <cell>Abisai primus fortium secundorum</cell>
+            <cell>30</cell>
+          </row>
+<row>
+            <cell>Banaias</cell>
+            <cell>31</cell>
+          </row>
+</table>
+<p>Joab non numeratur vel propterea, quia princeps
+aliorum et notus, vel propter mortem Abner et
+Amasae.</p>
+<p> <hi>David in cathedra sedens.</hi> Ecce magisterium, merito
+quia <hi>sapientissimus. Ipse est quasi tenerrimus
+ligni vermiculus.</hi> Vermiculus ligni in se tener et
+mollis, durum lignum perforat. Quando tangitur,
+nihil mollius illo; quando tangit, nihil durius. In eo
+igitur quod tenerrimus appellatur, notatur humilitas
+et mansuetudo; in eo quod vermiculus ligni dicitur,
+<pb n="0105B"/>
+fortitudo signatur. David quando laedebatur, nihil
+mansuetius; quando laedere volebat, nihil ferocius.
+Tres principales virtutes: sapientia, humilitas, fortitudo.
+Has omnes nullus aliorum habere potuit,
+nisi ille solus, in quo directus est Spiritus Dei. Has
+sequuntur tres quasi imagines aliarum: disciplina,
+sapientiae; mansuetudo, humilitatis; constantia,
+fortitudinis. Has autem secundas tres novissimae sequentes
+perverse imitantur. Disciplinam, hypocrisis;
+mansuetudinem, pigritia; constantiam, pertinacia.
+David sedens in cathedra, <hi>qui octingentos interfecit impetu
+uno.</hi> Ubi hoc factum sit, non legimus, nisi quantum
+hic commemoratur. In Hebraeo sic est: <hi>Octingentos
+una vice.</hi> Quod sic intelligi potest, quasi diceret
+<pb n="0105C"/>
+David ligni vermiculo comparatur propter fortitudinem;
+qua omnia penetrat, et nihil ei resistere potest;
+in tantum ut super octingentos una vice irruere
+possit, et vincere. <hi>Post hunc Eleazar,</hi> secundus
+scilicet in fortitudine post David. <hi>Inter tres fortes,
+qui erant cum David quando Philisthini exprobraverunt</hi> 
+Israel, scilicet timiditatem, et quod eis resistere
+non poterant: <hi>et congregati sunt</hi> ipsi Philisthaei <hi>illuc</hi> 
+ (ubi erat David) <hi>in praelium.</hi> Hoc Judaei
+dicunt ibidem factum ubi Goliath agminibus Israel
+exprobravit. Aliud non legimus nisi quantum hic
+dicitur: <hi>Et post hunc Semmaa filius Aggae de Arari.
+Et congregati sunt Philisthiim in statione.</hi> Hoc cohaerere
+non videtur; sed sic legendum est: Post hunc,
+Semmaa. Et ipse similiter Philisthaeos percussit, et
+<pb n="0105D"/>
+ubi subjungit: quia congregati sunt Philisthiim in
+statione; id est in loco ubi castris positis stabant et
+morabantur. <hi>Cumque fugisset populus Israel a facie
+Philisthiim, stetit ille in medio agri;</hi> id est in campo
+unde populus fugerat: <hi>et tutatus est,</hi> id est defendit
+eum; scilicet campum ut cum obtineret fugatis vel
+prostratis hostibus. <hi>Nec non, et ante;</hi> in alio scilicet
+praelio, quod ante hoc factum fuerat. <hi>Descenderant
+tres fortes, qui erant principes inter triginta</hi> [non
+adnumerato Uria] id est aliis triginta excellentiores. <hi>Et venerant tempore messis ad David in speluncam
+Odollam.</hi> 
+ Horum omnium, quae dicuntur aliam notitiam
+habere non possumus, nisi quantum conjicimus
+ex his quae in hoc loco commemorantur. <hi>Ipse
+percussit duos leones Moab.</hi> In Hebraeo evidentius
+<pb n="0106A"/>
+legitur duos principes Moab. <hi>Et ipse descendit, et
+percussit leonem in media cisterna.</hi> Magna audacia
+ad tam ferocem aggrediendum solum descendere. <hi>Verumtamen usque ad tres,</hi> 
+ scilicet primum nominatos, <hi>non pervenerat,</hi> 
+ ut illis aequalis esset. <hi>Fecitque
+eum David sibi auricularium,</hi> id est consiliarium, <hi>a secreto,</hi> 
+ vel pro una dictione accipiendum est, vel
+a secreto, id est de secreto, quasi diceret de secretis,
+vel in secretis fecit eum consiliarium sibi.</p>
+<p> <note>(II REG. XXIV)</note>. <hi>Et addidit furor Domini.</hi> Addidit
+supradictis flagellis hoc, id est hanc iram. Et commovit
+ipse Dominus, <hi>commovit David in eis,</hi> id est ad
+faciendum, quod fieret contrarium illis; David dico <hi>dicentem</hi> 
+ Joab: <hi>Vade, numera Israel,</hi> hoc est quod
+sequitur: <hi>Dixit rex ad Joab. Percussit autem cor
+<pb n="0106B"/>
+David eum,</hi> id est conscientia remordebat eum eo
+quod fecerat.</p>
+</div1>
+
+<div1>
+        <head>ADNOTATIUNCULAE IN REGUM TERTIUM.</head>
+<p> <note>(III REG. VI)</note>. <hi>Fecitque in templo fenestras obliquas,</hi> 
+id est arcuatas desuper, vel in toto obliquas,
+id est interius latiores propter claritatem. <hi>Super parietes,</hi> 
+id est extrinsecus ad parietes, fecit <hi>tabulata</hi> 
+quasi solaria per circuitum triplici ordine, imum
+strictius, medium latius, supremum latissimum, ut
+columnae quibus sustentabantur superiora, non contingerent
+inferiora tabulata; sed extrinsecus ab imo
+surgerent singulae. Ista tabulata quasi exedrae fuerunt
+foris adhaerentia muro. <hi>Trabes autem</hi> quibus
+sustentabantur tabulata ipsa, <hi>posuit in domo per
+<pb n="0106C"/>
+circuitum,</hi> id est adjunxit domui: per circuitum
+tamen <hi>forinsecus,</hi> ita scilicet, <hi>ut non haererent muris
+templi,</hi> id est ut non essent infixae muris, quia ejectura
+quaedam in ipso muro per circuitum facta,
+ipsas excipiebat, et portabat in illo capite quo murum
+contingebant, in altero capite columnis innitentes.
+Vel de trabibus intra domum intelligi potest
+ad eumdem modum dispositis. <hi>Texit quoque domum
+laquearibus cedrinis.</hi> Tectum domus more regionis
+planum fecit, quemadmodum extrinsecus tabulata.
+In tecto igitur domus laquearia cedrina posuit, et
+domum lignis, et pavimentum texit tabulis abiegnis. <hi>Et aedificavit viginti cubitorum tabulata cedrina;</hi> 
+viginti cubitos de sexaginta, qui in longitudine domus
+erant, separavit in posteriori parte domus; id
+<pb n="0106D"/>
+est occidentali; quia introitus ad orientem erat.
+Atque in illa parte similiter aedificans tabulata cedrina <hi>a pavimento</hi> 
+ sursum <hi>fecit</hi> de parte eadem <hi>domum
+oraculi in Sanctum sanctorum,</hi> id est ad
+hoc ut ipsa esset Sanctum sanctorum; ipsam dico <hi>interiorem,</hi> 
+ quia ad eam nisi per alia introitus non
+patebat. <hi>Porro quadraginta cubitorum erat ipsum
+templum pro foribus oraculi.</hi> A foribus enim oraculi
+usque ad portam orientalem quadraginta cubiti
+erant; quod totum dicebatur sancta. <hi>Et juncturas
+suas,</hi> juncturas dicit, ubi tabulata jungebantur. <hi>Oraculum
+autem in medio domus,</hi> id est intra domum, <hi>fecerat in interiori parte,</hi> 
+ id est remotiori ab introitu. <hi>Porro ipsum oraculum habebat viginti cubitos
+longitudinis, et viginti cubitos latitudinis, et viginti
+<pb n="0107A"/>
+cubitos altitudinis.</hi> 
+ In hoc patet quod oraculum
+viginti cubitis inferius erat reliqua domo. <hi>Sed,
+et altare vestivit cedro.</hi> Hoc est altare thymiamatis,
+quod stabat ante oraculum, id est Sancta sanctorum. <hi>Sed, et totum altare oraculi texit auro.</hi> 
+ Ipsum
+est quod superius texit cedro; nunc auro, quod
+stabat ante oraculum. <hi>Quinque cubitorum ala cherubim
+una,</hi> subaudiendum est lata erat, <hi>et quinque altera,
+ut a summitate,</hi> id est extremitate, <hi>unius usque
+ad summitatem alterius,</hi> per transversum, scilicet
+decem essent cubiti, latitudo aequa altitudini.
+Nam corpus cherubin inter alarum expansionem
+tenebatur. <hi>Posuitque cherubim in medio templi interioris,</hi> 
+id est oraculi, versis vultibus ad orientem
+in propitiatorium coram positum. Ita ut alter ala
+<pb n="0107B"/>
+una parietem meridianum tangeret, alter ala una
+septentrionalem, reliquas duas adinvicem jungerent
+in medio oraculi tanta fieret extensio alarum, quanta
+fuit latitudo oraculi. <hi>Et fecit in eis,</hi> scilicet parietibus, <hi>cherubim,</hi> 
+ alias formas cherubim in diversis
+locis sculpsit in parietibus; <hi>et palmas manuum, et
+alias figuras varias. In ingressu oraculi fecit ostiola
+duo,</hi> ut post determinat. <hi>Duo ostia de lignis abiegnis
+altrinsecus,</hi> scilicet unum hic, alterum illinc. <hi>Et
+utrumque ostium duplex erat,</hi> id est duas valvas habens; <hi>et se invicem tenens,</hi> 
+ quia connexae valvae ad
+postem in medio positum <hi>aperiebantur. Et aedificavit
+atrium interius,</hi> quod exteriori cingebatur. <hi>Dispositis
+tribus ordinibus in pariete, tribus lapidum
+politorum et uno lignorum cedri.</hi> </p>
+<p>
+          <pb n="0107C"/> <hi>
+            <note>(III REG. VII.)</note> Aedificavit quoque domum saltus Libani.</hi> 
+Propter immensitatem et multitudinem operis
+saltui comparatur domus; vel quia ex illo materia
+sumpta est. <hi>Quatuor deambulacra inter columnas cedrinas
+fecit, et tabulatis cedrinis vestivit totam cameram,
+quae quadraginta quinque columnis sustentabatur.
+Unus autem ordo habebat columnas quindecim.</hi> Secundum
+hanc dispositionem tres ordines intrinsecus erant
+columnarum; et quatuor deambulacra, hoc est intervalla.
+Et inter columnas a pariete usque ad primum
+ordinem, unum intervallum; a primo ad secundum,
+alterum; a secundo usque ad tertium
+aliud; a tertio item usque ad parietem iterum aliud.
+In Hebraeo habetur: Tabulata cedrina desuper ordines
+<pb n="0107D"/>
+columnarum quadraginta quinque. Quindecim
+unus ordo. Quod sic intelligi potest, ut non quadraginta
+quinque columnas, sed tabulata, id est
+tabulas quadraginta quinque, quibus tabulatum
+compactum est esse dicamus; et tres ordines in
+tabulato, quorum singuli quindecim tabulas continebant.
+Hoc est quod dicit, cooperatura tres ordines,
+subauditur habebat, respicientes alterum ad
+alterum ter. In ipsis ordinibus singulae tabulae ordinis
+unius singulas tabulas alterius ordinis oppositas
+respiciebant; ita, quod altera ad alteram jungebatur
+ter, id est, tres in singulis ordinibus aliis
+tribus alterius ordinis oppositis connecterentur, insertis
+capitibus alterius ad alteram. <hi>Et super columnas
+quadrangulata ligna in cunctis aequalia.</hi> In
+<pb n="0108A"/>
+Hebraeo hoc sic habetur. Et omnia ostia et postes
+quadrata unum contra alterum. Quod autem dicit
+hic, ostia quadrata, id est, desuper non rotunda; ad
+comparationem fortassis dictum est eorum quae
+erant in introitu oraculi sic formata. <hi>Et porticum
+columnarum fecit,</hi> id est, porticum in qua similiter
+columnas posuit, quae porticus longa erat quinquaginta
+cubitorum secundum latitudinem domus: <hi>et
+alteram porticum in facie majoris porticus,</hi> id est
+ante majorem porticum. <hi>Porticum quoque solii in
+qua tribunal fecit.</hi> Solium regnantis, tribunal judicantis,
+et est domuncula in qua sedetur ad judicandum;
+seorsum ad dictandam sententiam, vel
+palam ad proferendam. <hi>Tam intrinsecus, quam extrinsecus
+serrati,</hi> id est secti et politi in utraque superficie
+<pb n="0108B"/>
+parietis. <hi>Et extrinsecus usque ad majus
+atrium</hi> porrecto tali opere. Majus atrium extrinsecus,
+minus atrium interius. <hi>Necnon, et in atrio
+domus Domini interiori; et in porticu domus Domini,</hi> 
+tale opus factum est. Quod autem in structura parietum
+per varios ordines, nunc quadratos, sive
+politos lapides posuit, nunc cedros, id est ligna
+imputribilia; idcirco factum, ut varietas ipsa structurae
+gratior fieret atque decentior. Alia autem fuerunt
+atria domus Domini; alia domus regis, sive
+extrinseca, sive intrinseca. <hi>Et finxit,</hi> id est artificiose
+composuit vel formavit <hi>duas columnas aereas,</hi> 
+id est ex aere fusas. Istae columnae non ad
+portandam fabricam, sed ad ornatum factae sunt, et
+<pb n="0108C"/>
+in porticu templi erectae. <hi>Altitudinis octodecim cubitorum;</hi> 
+in circuitu, duodecim cubitorum, hoc
+est quod <hi>linea duodecim cubitorum ambiebat columnam
+utramque,</hi> haec erat mensura rotunditatis.
+Si linea duodecim cubitorum cingeretur, ambiret
+eam et totam rotunditatem ejus complecteretur.
+Vel ambitus columnae secundum ductum linearum
+duodecim cubitorum erat, vel linea fusili opere illi
+circumducta, ambiebat eam duodecim cubitorum.
+Capitella summitatibus columnarum superposita
+magna erant singula altitudine quinque cubitorum,
+quorum opus, et factura talis describitur. <hi>Utrumque
+capitellum fusile erat,</hi> quasi in modum retis et catenarum
+sibi invicem miro opere contextarum.
+Quemadmodum ex hac descriptione apparet ipsa
+<pb n="0108D"/>
+capitella non solida, sed perforata undique fusa
+sunt, ut connexiones eorum introrsum, et exterius
+retis formam exprimerent. Quae connexiones et
+perplexitates septem modis ab imo sursum in capitelli
+ambitu variatae sunt, quos modos septem
+versus notant. Deinde duo ordines malogranatarum
+in circuitu capitellum ambiebant, ut ipsa malogranata
+extrinsecus pendentia quasi tegere viderentur
+retiacula capitellorum, id est ipsa capitella, quae
+erant super summitatem columnarum. <hi>Capitella autem
+ista, quae erant super summitatem columnarum
+quasi opere lilii fabricata erant,</hi> id est, in eisdem capitellis
+cum malogranatis similitudo foliorum lilii
+facta erat desuper in ipsis. Quod sequitur: <hi>In porticu
+quatuor cubitorum,</hi> obscurum est. Et fortassis
+<pb n="0109A"/>
+sic intelligi potest, quod ipsa capitella desuper non
+rotunda ad similitudinem columnarum quibus superposita
+erant, sed quadrata fuerunt habentia in
+singulis lateribus quatuor cubitos. Quod ergo ait:
+In porticu quatuor cubitorum; non sic legendum ut
+ipsa porticus quatuor cubitos habuisse dicatur; sed
+potius ipsa capitella quatuor cubitos habentia fabricata
+fuisse in porticu. <hi>Et rursum alia capitella
+in summitate columnarum desuper juxta mensuram
+columnae contra retiacula.</hi> Utrum haec secunda capitella
+prioribus superposita fuerint, an juxta posita,
+non satis littera manifestat. <hi>Fecit quoque mare fusile.</hi> 
+Luterem magnum significat fusilem ex aere
+rotundum desuper in circuitu triginta cubitorum,
+per transversum decem. Quod dicit <hi>resticulam triginta
+<pb n="0109B"/>
+cubitorum</hi> cinxisse luterem; vel sic accipiendum
+est, quod simpliciter quantitas ambitus significata
+sit, cum fune tantae longitudinis posset ambiri;
+vel restem intellige torquem aeream ex ipso
+opere fusam in similitudinem restis ipsum mare
+ambientem. <hi>Sculptura subter labium circumibat illud
+decem cubitis.</hi> Quomodo decem cubitis circuire
+poterat, cum dictum sit ipsum ambitum triginta
+fuisse cubitorum? Annon totum circuibat, sed decem
+tantum cubitis ipsius ambitus sculpti fuerunt.
+An deorsum ambitus arctabatur subter labium, ut
+decem cubitis subter labium posset ambiri, ubi
+sculptura erat in circuitu in duobus ordinibus circa
+inferiorem partem luteris, ubi duodecim boves ex
+aere fusos super quos positus fuerat, contingebat.
+<pb n="0109C"/>
+Sic enim videtur, quod basis luteris significata sit
+quadrata decem cubitorum in singulis lateribus, in
+qua erant duo ordines sculpturarum histriatarum
+hobus supposita duodecim; super quam ipsum mare
+fundatum erat. <hi>Crassitudo autem luteris,</hi> id est spissitudo <hi>erat trium unciarum: duo millia batos capiebat
+luter; et tria millia metretas.</hi> 
+ Par quantitas
+in dissimili numero. Idem enim valent, vel si de
+eadem mensura legitur, tantum sunt duo millia bati
+in siccis per cumulum; quantum tria millia in liquidis
+per planum. Cumulata enim mensura, planam
+continet totam et dimidium ejus. <hi>Et fecit decem
+bases aereas.</hi> Istae bases non ad mare, sed alios
+luteres praeparantur, quibus singuli superpositi
+<pb n="0109D"/>
+sunt. <hi>Ipsum opus basium interrasile erat;</hi> id est, interrasile
+opere factae sunt bases. <hi>Et sculpturae inter
+juncturas, et inter coronulas, et plectas: leones, et
+boves, et cherubim, et inter juncturas similiter, et
+subter leones, et boves quasi lora ex aere dependentia.</hi> 
+Obscura est descriptio nec facile, quid intelligendum
+sit, agnoscitur. Videtur autem significare quod
+in ipsis basibus per singula latera diversi fuerint
+ordines sculpturarum, et ubi illi ordines sive versus
+jungebantur sulpturae variae in lineam ductae, inter
+versum, et versum discretationem facientes. Ipsi
+autem versus quasi areolae quaedam inter lineas et
+lineas patentes, habebant circulos insculptos in similitudinem
+coronarum et plectarum quorum alii
+leones, alii boves, alii cherubim continebant. Et inter
+<pb n="0110A"/>
+juncturas similiter desuper, ubi desuper? Fortassis
+hoc dicere vult, quod ejusmodi sculpturae
+non per totum factae sunt, sed sursum, et deorsum
+in lateribus basium quasi orae quaedam et sculpturae. <hi>Et subter leones, et boves quasi lora ex aere dependentia.
+Et quatuor rotae per bases singulas, et axes
+aerei,</hi> 
+ et humeruli a quatuor partibus erecti, quasi
+ad continendas bases rotis superpositas, et luterem
+basibus impositum. <hi>Os quoque luteris intrinsecus
+erat.</hi> Sic dicere videtur, quod a fundo luteris intrinsecus
+quasi fistula rotunda surgens in altum, cubito,
+et dimidio tenebatur, cujus altitudinis cubitus
+quidam supra luterem eminebat. Dimidius autem
+cubitus intra profundum luteris erat. In cujus
+fistulae summitate os erat ipsius luteris, per quod
+<pb n="0110B"/>
+aquae egrediebantur. <hi>In angulis autem columnarum,</hi> 
+id est basium, <hi>variae coelaturae erant; et media intercolumnia,</hi> id est, quae inter angulos erant, <hi>quadrata
+erant, et non rotunda.</hi> Haec sunt latera basium
+plana, quae intercolumnia vocat quadrata; quia super
+quatuor numerulos in quatuor angulis erectos
+apparebant. <hi>In summitate autem basis,</hi> id est, ipsa
+basis in summitate sua <hi>erat unius cubiti et dimidii,</hi> 
+ut convenienter luterem superpositum portaret. <hi>Sculpsit quoque in tabulatis illis quae erant ex aere,
+et in angulis;</hi> 
+ fortassis humerulos significat, qui in
+angulis erant columnarum, in quibus similiter
+sculpturae factae sunt. <hi>Mare autem posuit ad dexteram
+partem templi contra orientem ad meridiem,</hi> id
+est in angulo, ubi orientalis et meridionalis paries
+<pb n="0110C"/>
+domus jungebatur. <hi>Columnas duas, et funiculos capitellorum
+super capitella columnarum duos.</hi> In Hebraeo
+sic est: Columnas duas et coronas super capita
+columnarum, <hi>et retiacula duo.</hi> Per coronas super
+capita columnarum aliquis fortassis intelligat, nihil
+aliud significari nisi ipsa capitella rotunda, columnis
+superposita. Quia autem funiculos nominavit,
+aliud voluisse videtur, quod tamen non satis patet
+nisi in ipsis capitellis sculpturam factam fuisse dicamus
+in modum coronae, vel funis circumducti et
+ambientis.</p>
+<p> <hi>
+            <note>(III REG. VIII.)</note> Cherubim expandebant alas suas
+super locum arcae, et protegebant arcam, et vectes
+ejus desuper. Cumque eminerent vectes, et apparerent
+<pb n="0110D"/>
+summitates eorum extra Sanctuarium ante oraculum,
+non apparebant ultra extrinsecus,</hi> id est cum tantum
+porrigerentur in anteriora, ut usque ad velum pervenientes
+ipsum velum contingerent, aliquantulum
+in ipsum impingerent, ut per velum ab iis, qui extrinsecus
+stabant, eorum capita notari possent; non
+tamen velum penetrabant, neque extrinsecus extra
+velum prominebant. <hi>Si peccaverit homo in proximum
+suum,</hi> hoc modo scilicet, <hi>si habuerit aliquod juramentum,
+quo teneatur astrictus;</hi> id est, si astrictuo
+est adversus proximum aliquo juramento et non
+teneat quod juravit: coactusque ab illo cui juravit; <hi>veniat coram altari tuo in domum tuam,</hi> 
+ ut testificatione
+praesentis Divinitatis se absolvat; si negaverit
+coram te juramentum, quod fecit proximo suo occulte
+<pb n="0111A"/>
+de quacunque re, et non reveritus fuerit praesentiam
+tuam, quominus mentiatur: <hi>Tu exaudies in
+coelo,</hi> id est cognosces et intelliges fallaciam illius
+qui fraudat, <hi>et facies</hi> hoc, scilicet <hi>judicabis servos
+tuos,</hi> non secundum hoc quod ille hominibus mentitur;
+sed secundum quod tu nosti, cui quod verum
+est, abscondi non potest: <hi>Condemnans impium, et
+justificans justum.</hi> </p>
+<p> <hi>
+            <note>(III REG. IX.)</note> Appellavit eas terram Chabul,</hi> id
+est paludosam vel palustrem propter vilitatem
+muneris.</p>
+<p> <hi>
+            <note>(III REG. X.)</note> In domo saltus Libani,</hi> quia forte
+de Libano materia sumpta est.</p>
+<p> <hi>
+            <note>(III REG. XI.)</note> Aedificavit mello, et caoequavit voraginem
+civitatis David patris sui aedificans mello,</hi> id
+<pb n="0111B"/>
+est locum illum, partem scilicet inferiorem civitatis
+coaequavit ipsum, qui prius vorago, et quasi sentina
+erat civitatis David patris sui: <hi>Ut aequalis,</hi> scilicet
+esset parti eminentiori civitatis in quo injuriam
+patri facere videbatur vilissima et abjecta summis
+operibus illius coaequans. In Hebraeo sic habetur:
+Aedificavit mello et clausit aperturam civitatis David
+patris sui, quod sic intelligi potest, quod mello aedificavit
+et extulit in altum et per hoc exitum, qui
+prius erat in civitate David patris sui clausit: <hi>Hanc
+fabricam contra portam civitatis exstruens.</hi> In libro
+verborum Salamonis, hic apud nos non invenitur:
+quemadmodum nec liber verborum regum Israel
+vel Juda.</p>
+<p>
+          <pb n="0111C"/> <hi>
+            <note>(III REG. XII.)</note> Ascendit super altare.</hi> Sic dictum
+est, quasi ascendit ad altare. Ascendit ut super altare
+incensum poneret, sive aliud in hunc modum.</p>
+<p> <hi>
+            <note>(III REG. XIV.)</note> Me projecisti post corpus tuum,</hi> id
+est contempsisti.</p>
+<p> <hi>
+            <note>(III REG. XVIII.)</note> Curavit altare Domini quod destructum
+fuerat et aedificavit altare ex lapidibus in
+nomine Domini.</hi> Sic est quasi diceret: Mundavit locum,
+ubi prius altare destructum fuerat et aedificavit aliud novum.</p>
+<p> <hi>
+            <note>(III REG. XIX.)</note> Omne os quod non adoravit eum
+osculans manum,</hi> videlicet ejus Baal. In Hebraeo sic
+habetur: Omnes os quod non osculatum est eum. Notat
+modum venerationis in curvatione genuum et
+osculo oris.</p>
+<p>
+          <pb n="0111D"/> <hi>
+            <note>(III REG. XX.)</note> Omnia propter quae misisti ad me
+servum tuum in initio faciam; hanc autem rem facere
+non possum.</hi> Sic est quasi diceret quod in initio petitionis
+tuae fuit de argento et auro tribuendo faciam;
+hanc autem rem, hoc est, ut etiam uxores et
+filios tribuam, facere non possum. <hi>Quis incipiet
+praeliari? Et ait: Tu;</hi> ne videatur contrarium quod
+prius dixerat per pedissequos principum provinciarum
+victoriam obtinendam. Nunc autem volo ipsum
+regem pugnam incipere. Sic enim dictum est, ut
+non exspectet assultum hostium; sed ut ipse, id
+est sui praelium incipiant, vel ipse incipiet totum
+exercitum producens; et deinde pedissequi principum
+<pb n="0112A"/>
+provinciarum victoriam obtinebunt. Hoc est
+quod sequitur: <hi>Egressi sunt autem pueri prima
+fronte.</hi> Incipiente igitur rege praelium cum universis,
+isti praeeuntes victoriam obtinuerunt.</p>
+<p> <hi>
+            <note>(III REG. XXI.)</note> Praedicate jejunium et sedere facite
+Naboth,</hi> etc. Religiose inchoari vult opus malitiae,
+ut per devotionem jejunii crudelitas homicidii
+tegatur. <hi>Benedixit Naboth Deum et regem.</hi> Ironia est
+quasi maledixit regem, ac per hoc Deum cujus minister
+est. <hi>Occidisti insuper et possedisti. Et post
+haec addes.</hi> In Hebraeo sic est: Occidisti, et post
+haec haereditabis? sub interrogatione, quasi dicat:
+Nunquid non sufficit tibi occidisse hominem, nisi et
+haereditatem ejus possideas? <hi>In loco hoc,</hi> etc. Quomodo
+dictum est ad Achab: <hi>In loco hoc in quo linxerunt
+<pb n="0112B"/>
+canes sanguinem Naboth, lambent quoque
+tuum sanguinem;</hi> cum sanguis Naboth in Jezrael
+effusus sit, sanguinem vero Achab juxta piscinam
+Samariae canes linxerint? Sed in hoc loco dictum
+est, id est tali loco, quasi ita viliter effusum, sicut
+tu sanguinem Naboth effudisti.
+</p>
+      </div1>
+
+<div1>
+        <head>ADNOTATIUNCULAE IN REGUM QUARTUM.</head>
+<p> <hi>
+            <note>(IV REG. III.)</note> Facite alveum torrentis hujus fossas
+et fossas.</hi> Vel sicut alii dicendum putant multas fossas,
+id est torrentis hujus, qui modo exsiccatus
+est, alveum arentem fodit altius sive profundius et
+in multis locis, ut aquas supervenientes in abundantia
+capere possit.</p>
+<p> <hi>
+            <note>(IV REG. V.)</note> Dixitque Naaman, ut vis. Fiat,</hi> scilicet
+voluntas tua. Ecce non rogo amplius ut mea
+<pb n="0112C"/>
+accipias; <hi>sed</hi> tamen <hi>obsecro</hi> ut tua concedas. <hi>Concede
+mihi servo tuo, ut de</hi> hac <hi>terra</hi> sancta in qua
+Deus verus adoratur, <hi>tollam</hi> et feram mecum <hi>onus duorum burdonum.</hi> 
+ Quare autem portare voluerit
+terram subjungit. <hi>Non enim faciet servus tuus
+ultra holocaustum aut victimam diis alienis, nisi Domino.</hi> 
+Adhuc igitur terram ferre volebat. Ut ex ea
+in terra sua altare faciat Domino, in quo immolaret. <hi>Abiit ergo ab eo electo tempore.</hi> 
+ Ambiguitate dictionis
+in terrae spatium et tempus deceptus esse
+videtur. Nam in Hebraeo sic expressius sonat: Abiit
+ab eo ergo quasi aliquando terrae spatio et sic convenienter
+adjungitur: <hi>Dixitque Giezi puer,</hi> id est
+famulus, <hi>viri Dei,</hi> simile est quod in Genesi legitur:
+<pb n="0112D"/> <hi>Eratque vernum tempus et ingrediebar Ephratha 
+ <note>(Gen.
+XLVIII)</note>
+          </hi>. In Hebraeo expressius sonat: Et adhuc spatium
+terrae, subauditur supererat: Et ingrediebar Ephratha.</p>
+<p> <hi>
+            <note>(IV REG. VI.)</note> Quarta pars cadi stercoris columbarum.</hi> 
+Cadus mensura est: stercus columbarum
+quidem idcirco ab esurientibus ereptum putant, ut
+grana a columbis a longe delata stercori forte mista
+et electa aliquam famelicis refectionem praeberent.</p>
+<p> <hi>
+            <note>(IV REG. VIII.)</note> Cumque venisset dies altera, tulit
+stragulum et infudit ipsi aquam,</hi> vel aqua ipsum infudit,
+id est perfudit, hoc est accepit pannum et
+madefecit in aqua <hi>et expandit super faciem ejus.</hi> Ipse
+Hazael tulit pannum et madefactum expandit super
+<pb n="0113A"/>
+faciem domini sui, scilicet, ad refrigerandam faciem
+ejus quia calore aestuabat. In Hebraeo expressius
+dicitur: Expandit super faciem suam, ut non Hazael,
+sed ipse Benadab pannum madefecisse et ob refrigerium
+super faciem suam expandisse intelligatur.
+Quod tamen nil prodesse potuit, quia mortuus est. <hi>Quo mortuo, regnavit Hazael pro eo.</hi> </p>
+<p> <hi>
+            <note>(IV REG. XIII.)</note> Deprecatus est autem Joachaz faciem
+Domini et audivit eum et dedit Dominus salvatorem
+Israel.</hi> Joam scilicet filium ejus, quia ipse
+postea liberavit Israel de manu regis Syriae.</p>
+<p> <hi>
+            <note>(IV REG. XVI.)</note> Musach quoque Sabbati.</hi> Tectum
+significat vel cooperturam, ubi Sabbato rex sedere
+consueverat juxta templum. Hoc igitur Musach <hi>et
+<pb n="0113B"/>
+ingressum regis,</hi> id est porticum per quam ingrediebatur
+extrinsecus positam, <hi>convertit in templum Domini,</hi> 
+pro timore regis Assyriorum.</p>
+<p> <hi>
+            <note>(IV REG. XIX.)</note> Nunquid non audivisti quod ab
+initio fecerim?</hi> id est quomodo olim Pharaonem et
+<pb n="0114A"/>
+Aegyptios populum meum persequentes submersi? <hi>Ex diebus antiquis plasmavi illud,</hi> 
+ id est in diebus
+antiquis operatus sum illud, id est illam vindictam. <hi>Et nunc adduxi,</hi> 
+ id est nunc iterum ad exemplum
+revocare volo, ut simile in te exerceam. <hi>Tibi autem
+Ezechia hoc erit signum.</hi> Hoc scilicet, quod hostem
+tuum prosternam, et repellam; hoc erit signum sequentis
+propitiationis; quod videlicet terram ab eodem
+vastatam post ejus abscessum multipliciter germinare
+faciam, ut populus meus afflictus abundantia
+relevetur. <hi>Igitur hoc anno comede quod repereris.</hi> Id
+est contentus esto eo quod habere poteris, ut si quid
+minus fuerit, patienter feras. Et si non habes quod
+semines, ne timeas. <hi>In secundo anno germina sponte
+nascentia multiplicabuntur;</hi> in tantum ut abundantia
+<pb n="0114B"/>
+frugum, et ad praesentem sustentationem, et ad futuram
+sementem sufficiat. Propterea, <hi>In tertio anno
+seminate.</hi> Porro quod hoc futurum sit, scire poteris
+ex eo quod regem Assyriorum tibi modo comminantem
+repellam, et destruam.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,634 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Adnotatiunculae in librum Judicum</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 175</title>
+           <idno>HuDeSVi.AdInLiJ</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Adnotatiunculae in librum Judicum</head>
+<p>
+          <pb n="0087A"/>Liber Judicum, qui Hebraice <hi>Sopthim</hi>  
+dicitur; post quinque libros Moysi, et librum Josue,
+septimus ordinatur. Hic tempora judicum describit,
+qui post Josue usque ad Heli sacerdotem populum
+Israel judicarunt. Hic in superficie litterae apertior
+reliquis apparet.</p>
+<p> <hi>
+            <note>(JUD. I.)</note> Judas ascendet.</hi> Per Judam in hoc loco
+non personam, sed populum, tribum videlicet Juda
+intelligere debemus, quemadmodum per Simeonem
+tribum Simeonis quam tribus Juda contra Chananeos
+pugnatura in auxilium vocat. <hi>Quem secuti comprehenderunt,
+caesis summitatibus manuum ejus ac
+pedum.</hi> Quidam de Hebraica veritate magis proprie
+interpretari putaverunt: caesis pollicibus, eo quod
+truncato pollice ad ferenda arma deinceps homo idoneus
+<pb n="0087B"/>
+non sit. <hi>Adduxerunt eum in Hierusalem.</hi> Cum
+usque ad tempora David Jebusei Hierusalem tenuisse
+legantur, quomodo filii Israel Adonibezec in Hierusalem
+adduxisse dicuntur, quasi in suam civitatem?
+Sed quod sequitur: <hi>Oppugnantes igitur filii Juda
+Hierusalem, ceperunt eam, et percusserunt in ore gladii,</hi> 
+quaestionem solvit. Sic enim intelligendum est,
+quod primum urbem coeperunt, deinde ad urbem
+captam et ditioni suae subjectam captum regem adduxerunt. <hi>Dedit ergo ei Caleb irriguum superius, et
+irriguum inferius.</hi> 
+ Per superius et inferius montana
+et campestria intelligimus. <hi>Filii autem Cinei cognati
+Moysi ascenderunt de civitate Palmarum cum filiis
+Juda in desertum sortis ejus, quod est ad meridiem
+Arad, et habitaverunt cum eo.</hi> Cineus ipse est Jetro,
+<pb n="0087C"/>
+et Raguel pater Sephorae, uxoris Moysi, a quo Cinei
+dicti sunt, qui hic ad filios Juda ascendisse, et cum
+eis habitasse dicuntur. <hi>Jebusaeum autem habitatorem
+Hierusalem non deleverunt filii Benjamin: habitavitque
+Jebusaeus cum filiis Benjamin in Hierusalem usque
+in praesentem diem.</hi> Cum superius filii Juda Hierusalem
+oppugnasse et cepisse cunctamque civitatem
+incendio tradidisse legantur: quomodo in hoc loco
+filios Benjamin in Jebusaeum habitatorem Hierusalem
+non delevisse, sed potius ipsum Jebusaeum cum
+filiis Benjamin in Hierusalem usque in praesentem
+diem habitasse memoratur? Intelligitur ergo, quod
+filii Benjamin, quorum possessio tribui Juda cuncta
+erat, et Hierusalem contingebat: postquam filii Juda
+<pb n="0087D"/>
+civitatem ceperant atque vastaverant, in eadem habitare
+coeperunt, ipsumque Jebusaeum habitatorem
+loci a filiis Juda subactum secum habitare passi
+sunt, atque in hunc modum Hierusalem usque
+<pb n="0088A"/>
+ad tempora David Jebusaeorum pariter et filiorum
+Israel habitatio fuit: donec tandem ab ipso David,
+Jebusaeo plene ejecto, Hierusalem ad sortem
+filiorum Juda vocata est, et civitas David appellata
+est.</p>
+<p> <hi>
+            <note>(JUD. II.)</note> Ascenditque angelus Domini de Galgale
+ad locum flentium:</hi> per anticipationem nunc locus
+flentium appellatur. Nam postea nomen inditum est. <hi>Dimisit ergo Josue populum.</hi> 
+ Quomodo cum jam Josue
+mortuum esse dixerit, et post ejus mortem Judam
+ad praelium coram filiis Israel ascendisse, et caetera
+quae usque huc dicta sunt: nunc subsequenter Josue
+populum dimisisse commemorat? Sed narratio ad
+superiora revertitur ac si diceret: in eo quod post
+mortem Josue, filii Israel gentes illas quas Dominus
+<pb n="0088B"/>
+deleri praeceperat, servaverunt, patet postquam Josue
+eos dimisit, qualiter sibi relicti praecepta Dei
+servare contempserunt. Nam postquam Josue dimisit
+populum, et mortuus est; atque alii seniores
+qui legem Dei noverant, decesserunt, subsequens generatio,
+cultu Dei derelicto, idolis servire et iram Dei
+adversum se pravis operibus provocare coepit. Sic ad
+superiora referendum, quod ait: <hi>Dimisit ergo Josue
+populum.</hi> </p>
+<p> <hi>
+            <note>(JUD. III.)</note> Qui suscitavit eis salvatorem Aioth,
+filium Gera, filii Jemini.</hi> Jeminus ipse est Benjamin.
+Nam Benjamin <hi>filius dexterae</hi> interpretatur.
+Sublato igitur ben, quod <hi>filius</hi> interpretatur, quod
+relinquitur jamini jeminum facit, id est dextrarium,
+<pb n="0088C"/>
+vel dextralem, vel dextrum, sine alio quolibet modo
+formetur a dextra nuncupatus: unde Jeminus non <hi>g,</hi> 
+ scribendum est, sicut geminus, quod significat duplum;
+sed per <hi>j</hi> et <hi>e,</hi> ut sit, jeminus a jemin vel jamin
+dictus velut a dextera dexter. Hinc filii Jemini
+dicuntur filii Benjamin.</p>
+<p> <hi>
+            <note>(JUD. IV.)</note> Ipse autem habitavit in Haroseth gentium.</hi> 
+Haec regio idcirco gentium dicitur, quod non
+ab uno populo solum, sed a multis gentibus habitabatur. <hi>Quae misit, et vocavit Barach filium Abinoem.</hi> 
+Hic Barach idem ipse esse putatur, qui et Lapidoth;
+hanc autem existimationem exinde natam
+credimus, quod utrumque nomen unam interpretationem
+habere invenitur. Barach enim, vel Lapidoth, <hi>risio</hi> 
+ et <hi>fulgur</hi> interpretatur. Barach igitur
+<pb n="0088D"/>
+ipse est Lapidoth, maritus ejus, quem utpote virum
+mulier ad praelium itura vocat. <hi>Aber autem Cineus
+recesserat quondam a caeteris Cineis fratribus suis,
+filiis Obab, cognati Moysi.</hi> Legimus in Exodo quomodo
+<pb n="0089A"/>
+Jethro, socer Moysi, in deserto ad eum venit,
+adducens illi Sephoram uxorem suam, et filios suos;
+deinde cum rediret ipse Jethro in terram suam,
+Moyses filium ejus Obab cognatum suum fratrem,
+scilicet uxoris suae, secum detinuit, ut pariter cum
+filiis Israel ad terram promissionis proficisceretur.
+De cujus videlicet Obab progenie iste Aber descendens
+a caeteris fratribus suis filiis, Obab inter filios
+Israel habitantibus, sicut superius in hoc Judicum
+libro legimus, quod <hi>filii Cinei ascenderunt de civitate
+Palmarum cum filiis Juda in desertum sortis, et habitaverunt
+cum</hi> eis; discedens ad alium locum illius
+tamen regionis, id est ad vallem Sennim, habitavit in
+ea; cujus uxor Sisaram interfecit.</p>
+<p> <hi>
+            <note>(JUD. V.)</note> Cecineruntque Debbora, et Barac filius
+<pb n="0089B"/>
+Abinoem in illo die, dicentes: Qui sponte obtulistis
+de Israel animas vestras ad periculum, benedicite Dominum.</hi> 
+Hoc canticum post victoriam in laudem Dei
+cecinerunt Debbora et Barac. <hi>Domine, cum exires de
+Seir, et transires per regiones Edom, terra mota est:
+coelique ac nubes distillaverunt aquis. Montes fluxerunt
+a facie Domini, et Sinai a facie Domini Dei Israel.</hi> 
+Praeterita Dei mirabilia in augmentum praesentium ad
+memoriam revocat. Significat autem, quod olim cum
+populum suum de Aegypto educturus Deus precederet
+ducatum praebens per desertum, quod conjunctum est
+terrae Edom atque Seir: praesentiam Creatoris etiam
+muta elementa senserunt et quasi vicina majestate territa
+atque turbata motu ipso praesenti numini Deitatis
+praebuerunt. <hi>Terra mota est.</hi> Ecce signum praesentis
+<pb n="0089C"/>
+Deitatis. <hi>Qui fundavit solus movere potuit.</hi> In Exodo
+legimus <note>(cap. XIX)</note>, quomodo mons Sina descendente
+in ipsum Domino totus fumavit: eratque mons
+omnis terribilis, et ascendit ex eo quasi fumus de
+fornace, et nubes densissima montem operuit. Illic
+ergo ex praesentia Creatoris terra mota fumigavit:
+illic coeli in nube densissima aquis distillans pavorem,
+et reverentiam quodam suo sudore testati,
+montesque ipsa nubium obumbratione tecti fluxerunt
+in fluctuatione nubium volitantium, et descensu
+aquarum. Sinai a facie Dei Israel, hac una clausula
+omnia praecedentia comprehendit. Sina motus est
+a facie Domini. Sina stillavit aquis. Sina a facie
+Domini defluxit. Quod enim quasi generaliter propter
+<pb n="0089D"/>
+miraculi excellentiam praemiserat: terra mota
+est, coeli ac nubes stillaverunt aquis, montes fluxerunt;
+ubi hoc totum adimpletum sit specialiter subjungens
+determinat dicens: Sinai a facie Domini.
+Quod autem ait: <hi>Montes fluxerunt,</hi> per hyperbolen
+dictum intelligi potest, quasi nimio terrore liquefacti.
+Sed et quod ait, terra mota est, ad perturbationem
+hominum habitantium in terra convenienter
+referri potest: qui auditis tantis mirabilibus moti
+sunt atque turbati. Sequitur. <hi>In diebus Sumgar filii
+Anath, in diebus Jahel quieverunt semitae: et qui ingrediebantur
+per eas ambulaverunt per calles devios.</hi> 
+Post antiqua mirabilia ad nova miracula narranda
+accedit. Significat autem, quod filii Israel ante tempora
+sua in tantum circumquaque hostium terrorem
+<pb n="0090A"/>
+arctabantur, ut semitae quiescerent nemine ambulante
+per eas: et si qui forte per eas incedere cogebantur,
+non publica via, sed per calles devios latenter
+eundo assultus hostium declinarent. Et hoc etiam
+in diebus Samgar factum est; qui licet tantae fortitudinis
+esset, ut sexcentos uno vomere sterneret,
+tamen eousque non potuit ut tantam ac talem pacem
+in terra poneret, qualem modo Deus per hanc
+victoriam populo suo dedit. Hic est quod sequitur. <hi>Cessaverunt fortes Israel, et quieverunt,</hi> 
+ scilicet non
+valentes resistere inimicis. <hi>Donec surgeret Debbora:
+surgeret</hi> dico <hi>mater in Israel.</hi> Ideo <hi>nova bella elegit
+Dominus,</hi> per infirma fortia destruens, per feminam
+superbos hostes prosternens. Et ut majus sit miraculum
+Dei, hoc non solum duce femina, sed et
+<pb n="0090B"/>
+parva manu pugnante factum est. Nam sequitur: <hi>Clypeus, et hasta si apparuerint in quadraginta millibus
+Israel.</hi> 
+ Non erat in tot millibus, qui clypeum
+Israel aut hastam levaverit contra inimicos, exceptis
+paucis, id est decem millibus, qui pro salute populi
+sui periculo se dederunt, de quibus subdit: <hi>Cor
+meum diligit principes Israel;</hi> ad quos rursum: <hi>Qui
+propria voluntate obtulistis vos discrimini, benedicite
+Domino. Qui ascenditis super nitentes asinos, et sedetis
+in judicio, et ambulatis in via.</hi> Vos qui modo prostratis
+hostibus auxilio Dei, et in gloria estis, et
+potestatem habetis et pacem, nolite oblivisci operum
+Domini quibus haec collata sunt nobis. <hi>Loquimini
+ubi collisi sunt currus, et hostium suffocatus
+est exercitus.</hi> Per nitentes asinos significat gloriam;
+<pb n="0090C"/>
+per sessionem in judicio, potestatem; per deambulationem
+in via, pacem. <hi>Ibi</hi> ergo <hi>narrentur, justitiae
+Domini,</hi> quantum ad suffocationem hostium; <hi>et
+clementia in fortes Israel,</hi> quantum ad liberationem
+suorum; <hi>Tunc descendit populus Domini ad portas,</hi> 
+qui prius timore hostium egredi non audebat, prostratis
+hostibus non solum egrediebatur, sed etiam
+dominabatur. Inde laetitia, et gratulatio quae sequitur: <hi>Surge, surge Debbora, Dominus in fortibus dimicavit:
+ex Ephraim,</hi> 
+ sive in Ephraim, <hi>delevit eos in
+Amalec, et post eum;</hi> sive (ut quidam rectius ex Hebraeo
+interpretari putant) <hi>et post te in Benjamin in
+populos tuos, o Amalec.</hi> Sensus hic est ad augmentum
+laetitiae praesentis, praeterita et futura Dei mirabilia
+<pb n="0090D"/>
+instantibus annumerat Dominus in fortibus
+dimicans ex Ephraim. In fortibus ex Ephraim
+dimicavit Dominus; et per illos delevit eos qui
+erant in Amalec. Sive in fortibus qui erant in
+Ephraim dimicavit Dominus, et per illos delevit
+eos qui erant in Amalec, ut sit sensus: Delevi
+eos qui erant in Amalec, sicut supra. Notat quomodo
+tempore Moysi, Josue (qui erat ex Ephraim),
+dimicante per eum et in eo Domino, Amalec superavit,
+et hoc de praeterito. De futuro autem subjungit,
+significans quod adhuc Dominus per Saulem
+qui de Benjamin nasciturus est, Amalec delebit,
+hoc est quod sequitur: <hi>Et post eum,</hi> id est Ephraim,
+sive post te, o tu Ephraim, <hi>dimicavit Dominus in
+fortibus in Benjamin,</hi> id est per fortes qui erunt in
+<pb n="0091A"/>
+Benjamin per Saulem scilicet, qui nascetur de Benjamin;
+dimicabit dico, in populos tuos, id est contra
+populos tuos, o Amalec. Sequitur: <hi>De Machir
+principes descenderunt, et de Zabulon qui exercitum
+ducerent ad bellandum.</hi> Hoc ad praesentem historiam
+spectat. Laudat enim illos, qui de Machir, sive de
+Zabulon, sive de Issachar, pro populo suo discrimen
+belli subire non dubitaverunt. E contrario arguit eos,
+qui se subtraxerunt, id est Ruben et Gad, vel Galaad,
+et Dan, et Aser, et dignos irrisione pro sua
+dissimulatione notat. Hoc est quod sequitur: <hi>Diviso
+contra se Ruben, magnanimorum reperta est contentio.</hi> 
+In Hebraeo sic habetur: Biflagoth ruben gotholib
+helchiche lem  ; id est <hi>divisiones Ruben magna calliditas cordis.</hi> 
+ Quod sic
+<pb n="0091B"/>
+intelligendum putant. Ex magna calliditate cordis
+divisit se Ruben ab aliis, et terminos suos longe posuit
+a frequentia bellorum in tali divisione ab utraque
+parte, ut undecunque sive hinc sive illinc bella
+surgerent, ad eum secure quiescentem, non pondus
+praelii, sed sibilus tantum levis famae perveniret.
+Unde subdit: <hi>Quare habitas,</hi> scilicet, o tu Ruben, <hi>inter duos terminos;</hi> 
+ id est ut ad neutram partem te
+teneas, et hoc ideo facis <hi>ut audias sibilos,</hi> id est levem
+famam tantum, securus de longe; sibilos inquam <hi>gregum,</hi> 
+ id est castrorum et exercituum, audias
+dico, et nihil facias, unde iterum ad irrisionem
+ejus repetit: divisiones Ruben magna calliditas cordis.
+Si vero sic legatur: <hi>Divisio contra se Ruben magnanimorum
+reperta contentio est.</hi> Hoc modo intelligi
+<pb n="0091C"/>
+potest. Cum Ruben esset divisus contra semetipsum,
+id est cum dubitaret, et in semetipso variis
+cogitationibus, et contrariis desideriis fluctuaret, et
+secum rixaretur utrum ad bellum pergeret necne,
+atque in hac dubitatione moram faceret: magnanimi
+de Zabulon, et Nephthalim, prompti ad contentionem,
+et certamen inventi sunt. Vel Ruben diviso
+ab aliis, et recedente ne pergeret ad praelium, quod
+tamen contra ipsum erat, id est contra honorem
+ejus: magnanimorum reperta contentio est. Post ad
+alios quoque irrisionem convertit. Galaad, Dan,
+Aser. Isti vacabant, sed <hi>Zabulon, et Nephthalim obtulerunt
+animas suas morti in regione Romae [Merome</hi> ].
+Locum notat ubi pugnandum est. In Hebraeo
+habetur: Romae Zachae quod interpretatur <hi>super altitudinem
+<pb n="0091D"/>
+campi.</hi> Significatur autem quod in campo
+ubi praeliatum est, inimicis superiores facti sunt,
+ubi se dederunt discrimini. Sic itaque Romae non
+nomen loci intelligendum est, sed altitudinem significat,
+in quo erravit translatio. <hi>Stellae manentes in
+ordine, et cursu suo adversus Sisaram pugnaverunt.</hi> 
+Non ut mathematici putant per constellationis fatum
+victum Sisaram scriptura affirmat, sed figurative
+coelestia ipsa ad ejus oppresionem quasi intendisse
+dicit; quia Dominus coeli, ut vinceretur sua
+providentia disposuit. Quemadmodum ergo in terra
+montes, sive valles, sive quaelibet alia terrena arguuntur,
+vel laudantur, cum ab hominibus in eis
+manentibus, et eis praesidentibus reprehensibile,
+<pb n="0092A"/>
+sive laudabile quid agitur, et ipsa haec loca fecisse
+dicuntur, quae ab hominibus in eis facta sunt; sic,
+et stellae de coelo dicuntur fecisse, quod eis praesidens
+in coelo Deus fecit. <hi>Stellae manentes in ordine
+suo pugnaverunt.</hi> Intentionem et rationem ostendit
+in eo quod ait: Manentes in ordine suo. Manent
+enim, ubi moram faciunt, et vehementer intendunt.
+In ordine autem manent, ubi in eo quod agunt, rationem
+non deserunt. <hi>Maledicite terrae Meroth [Meros</hi> 
+seu <hi>Merotz], dixit angelus Domini.</hi> Vel nuntius Dei
+ad me veniens dixit, vel ego ipsa angelus Dei existens
+dico vobis ex parte ejus, ut maledicatis terrae Meroth.
+Nomen est regionis vel hominis possessoris ejus a quo
+dicta est terra Meroth. <hi>Maledicite habitatoribus ejus.</hi> 
+Subdit causam: <hi>quia non venerunt ad auxilium Domini,</hi> 
+<pb n="0092B"/>
+id est <hi>in adjutorium fortissimorum</hi> </p>
+<p> <hi>
+            <note>(JUD. VI.)</note> Joas patrem familiae Ezri [Ozri</hi> ]. Patrem
+hic dicit, majorem, seniorem, honorabiliorem inter
+alios illius familiae, de qua et ipse fuit.</p>
+<p> <hi>
+            <note>(JUD. IX.)</note> De fano Baalberith.</hi> Berith <hi>conjuratio</hi> 
+interpretatur hinc Baalberith idolum conjurationis. <hi>Occidit fratres suos filios Jerobaal, septuaginta viros.</hi> 
+Si omnes septuaginta occidit, quomodo remansit
+unus illorum? Sed sic dictum est: <hi>occidit septuaginta,
+et remansit unus</hi> quasi diceretur: occidit septuaginta
+praeter unum, qui remansit. <hi>Vinum meum,
+quod laetificat Deum,</hi> cum sacrificatur, et homines
+cum bibitur. <hi>Quid est iste Abimelec?</hi> Quasi dicat
+nullius pretii est. <hi>Et adhuc aliud:</hi> quia servum suum
+Zebul abjectum quemdam, et vilem constituit principem
+<pb n="0092C"/>
+super nobiles viros.</p>
+<p> <hi>
+            <note>(JUD. XI.)</note> Locutus est Jephte omnes sermones suos
+coram Domino in Maspha.</hi> Sermones dicit verba,
+quae facta fuerant inter ipsum, et principes Galaad
+de principatu suo. Haec locutus est coram Domino
+ad confirmationem pacti quod erat inter eos. <hi>Nisi
+forte melior es Balac filio Sophor,</hi> qui scilicet hoc
+repetis, quod magis juris illius esse videbatur;
+quoniam haec terra ejus fuit, quam illi abstulimus,
+concedente Deo nostro: quam sublatam tamen ille
+nunquam repetisse cognoscitur: <hi>nisi forte tu docere
+et monstrare potes, quod ipse unquam jurgatus sit
+pro repetenda terra ista contra Israel, aut pugnaverit
+contra eum;</hi> scilicet Israel omni illo tempore
+<pb n="0092D"/> <hi>quando Israel habitavit in Hesebon, et vinculis ejus,</hi> 
+ etc.,
+quod jam est per trecentos annos. <hi>Si tradideris in
+manus meas filios Amon, quicunque primus fuerit
+egressus, holocaustum offeram Domino.</hi> Ritum gentilium
+secutus humanum sanguinem vovit, sicut
+postea legimus regem Moab filium suum immolasse
+super muros. Hoc ergo contra legem, nisi forte occulto
+instinctu divino excusetur, ut recte ab Apostolo
+inter sanctos numeratus sit <note>(Hebr. XI)</note>.</p>
+<p> <hi>
+            <note>(JUD. XII.)</note> Percusseruntque viri Galaad Ephraim;
+quia dixerat: Fugitivus est Galaad de Ephraim, et
+habitat in medio Ephraim et Manasse.</hi> In Hebraeo
+sic habetur Atem Galaad, quod interpretatur <hi>vos Galaad,</hi> 
+quod est cum indignatione pronuntiatum.
+Quasi diceretur: Vos qui estis? aut quales inter
+<pb n="0093A"/>
+nos habitatis? Atem Galaad inter Ephraim et Manasse.</p>
+<p> <hi>
+            <note>(JUD. XIII.)</note> Coepitque Spiritus Domini esse cum eo
+in castris Dan.</hi> Vel sic intelligendum est, quod dicitur
+in castris Dan; ac si diceretur in exercitu sive
+in agminibus Dan. Vel per castra Dan nomen loci
+signatur, ubi mansit Samson primum. Et forte per
+anticipationem dictum; quia postea locum ubi sexcenti
+viri de tribu Dan in Cariathiarim Judae manserunt,
+legimus ex eo castrorum Dan nomen accepisse.
+Nisi forte idcirco hic locum illum convenienter
+intelligere non possumus, quod ille in Cariathiarim
+Judae, iste inter Saraa et Esthaol nominatur.</p>
+<p> <hi>
+            <note>(JUD. XIV.)</note> Non potuerunt per tres dies solvere propositionem.
+<pb n="0093B"/>
+Cumque adesset dies septimus, dixerunt
+ad uxorem Samson: Blandire viro tuo. Quae fundebat
+lacrymas apud Samson: et septem diebus convivii
+flebat apud eum.</hi> Haec series est narrationis. Sed
+aliquid inconvenientis hinc surgere videtur. Si enim
+usque ad diem septimum terminus solvendae propositionis
+positus fuerat, et illi, suscepta propositione,
+per tres dies in solvenda ea laborantes, nihil
+proficientes tandem, sicut legitur, cum dies septimus
+adesset, ad uxorem Samson locuti sunt. Illa
+vero tam precibus, quam comminatione illorum
+flexa, tunc demum ab ipso Samsone, ut sibi propositio
+solveretur, lacrymis extorsit: quomodo stare
+potest, quod per septem dies convivii flevit apud
+eum? Quomodo enim per septem dies convivii, solutionem
+<pb n="0093C"/>
+propositionis postulans flevit, quae septima
+die primum rogare coepit? Si autem post tres
+dies quibus frustra in solvendo problemate laboraverant,
+quarta die locuti sunt ad uxorem
+Samson. Sed nec tunc stare potest, ut septem
+diebus flevisse legatur pro solutione propositionis.
+Itaque si, ut scriptum est, suscepta propositione
+per tres dies laborantes solvere illam conati
+sunt, quarta autem die ad eam locuti sunt: quomodo
+verum est, quod dictum est cum, adesset
+dies septimus, locuti sunt ad uxorem Samson,
+ut solutionem ejus investigaret, et illa quatuor diebus
+qui superfuerunt, importuna viro suo existens,
+tandem die septima solutionem extorsit, civibusque
+<pb n="0093D"/>
+suis nuntiavit. Verum est itaque quod dicitur, quod
+per tres dies non potuerunt solvere propositionem,
+quod autem sequitur: Cumque adesset dies septimus:
+per se legendum est, ac distinguendum, ut
+sequenti clausulae non copuletur sic: per tres dies
+non potuerunt solvere propositionem. Cumque adesset
+dies septimus: hic suspende, ut subaudiatur,
+tunc solverunt eam. Et quomodo solutionem ejus
+invenerunt, subjungit: quia locuti sunt ad uxorem
+Samson; locuti sunt scilicet post diem tertium cum
+defecissent. Et illa, precibus eorum susceptis, flevit
+apud virum suum: septem diebus convivii, non tamen
+totis septem diebus; sed quatuor diebus qui
+superfuerunt de septem post tres. Flevit igitur septem
+diebus, id est in illis septem diebus, flevit.
+<pb n="0094A"/>
+Flevit septem diebus, id est usque ad consummationem
+septem dierum flevit.</p>
+<p> <hi>
+            <note>(JUD. XV.)</note> Samson gener Thanmathei.</hi> Thanmatha
+locus est, unde Thanmathaeus dicitur, nomen patrium,
+non proprium. <hi>Licet haec feceritis:</hi> licet hanc
+vindictam pro mea injuria ulciscenda in socerum
+meum exercuistis, tamen nondum me ita placastis,
+ut adhuc a vobis ultionem non expetam. <hi>Percussitque
+eos ingenti plaga, ita ut stupentes suram femori
+imponerent.</hi> Typum stupentium exponere voluit
+Scriptura, per suram femori impositam. Solent
+enim stupentes et fatigati nonnunquam tibiam reflexam
+femori alteri imponere: suraque ipsius tibiae,
+utpote parte inferiori, femori affixa sic sedere,
+quasi consilium non habentes et nescientes quo se
+<pb n="0094B"/>
+movere possint. In Hebraeo sic habetur: Sogal ghereth, ,
+id est <hi>tibiam super femur,</hi> ut sic dicatur,
+percussit eos ingenti plaga tibiam super femur.
+Quod tamen ad eumdem sensum referri potest. Alius
+sensus est: <hi>Percussit eos ingenti plaga,</hi> sic scilicet
+quod percussit tibiam super femur hoc est percusso
+femore insuper et tibiam percussit. Quia vero stantes
+vel ambulantes tibiis innituntur, sedentes vero
+femori, possumus non inconvenienter per tibiam
+pedites, per femur equites intelligere. Quid est ergo
+super femur tibiam percutere, nisi percussis majoribus
+etiam minores delere? <hi>In loco qui postea vocatus
+est Lechii,</hi> id est, maxilla, <hi>ubi eorum fusus est
+exercitus,</hi> id est diffusus vel effusus, sive expansus
+ingenti multitudine terram occupans. <hi>Sicut solent ad
+<pb n="0094C"/>
+odorem [ardorem] ignis lina consumi.</hi> Lina absque <hi>g</hi> 
+unde vestis linea, non ligna per <hi>g,</hi> unde domus lignea.
+Odorem autem primam calefactionem intellige
+ignis, quia levis materia facili incendio concrematur. <hi>In maxilla asini, in mandibula pulli asinarum
+delevi eos, et percussi mille viros.</hi> 
+ In Hebraeo sic habetur:
+In maxilla asini homor hemor,  
+in maxilla asini percussi mille viros. Interpretatur
+autem homor hemor, <hi>cumulum de cumulis,</hi> quasi
+diceret, id est, acervum de cadaveribus mortuorum
+quos stravi in maxilla asini. Quod autem dicit cumulum
+de cumulis, sic intelligendum est, quia eos
+in diversis locis prostraverat, et multos cumulos
+fecerat: de omnibus autem quasi unus factus est
+<pb n="0094D"/>
+acervus, et cumulus ingens. Idcirco appellatum est
+nomen loci illius: <hi>Fons invocantis de maxilla.</hi> Ne
+forte contrarium esse videatur: quod superius locus
+hic <hi>Lechi,</hi> id est maxilla, vocandus dicitur; hic autem
+non maxilla simpliciter, sed <hi>Fons invocantis de
+maxilla</hi> appellatus perhibetur. Sicut enim in Genesi
+Abraham locum appellasse legitur, <hi>Dominus videt;</hi> 
+et statim subjunxit Scriptura, usque hodie dicitur: <hi>In monte Dominus videbit 
+ <note>(Gen. XXII)</note>
+          </hi>. Ita et hic nomen
+loci <hi>Lechi,</hi> id est maxilla dicitur, et tamen
+ejus loci postea nomen non maxilla, sed <hi>Fons invocantis
+de maxilla</hi> esse perhibetur. Appellatum est
+nomen loci illius <hi>maxilla.</hi> Appellatum est et <hi>Fons
+invocantis de maxilla,</hi> ut pro diversis eventibus,
+aliud nomen loci sit, id est campi, pro interfectione
+<pb n="0095A"/>
+hominum; aliud fontis pro emanatione aquarum. <hi>Fons igitur,</hi> 
+ fons dicitur de maxilla, scilicet productus,
+et ipse idem fons invocantis appellatur videlicet
+Samsonis, qui Deum invocans illum de maxilla
+produxit. Hebraeus autem quod dicitur invocantis,
+non ad precem, sed ad appellationem nominis, referendum
+dicit, ut sit sensus. Nomen loci est invocantis,
+id est nominantis vel appellantis, fons de
+maxilla, hoc est qui locum suo nomine appellare
+voluerit, fontem de maxilla appellandum dicit, id
+est <hi>Lechi.</hi> Si ergo nomen loci est invocantis vel appellantis
+fontem de maxilla. Nomen itaque loci et
+invocantis est, et loci est, invocantis, quia ipse dicit:
+loci autem, quia de ipso dicit. Dicit autem,
+quia locum illum vel fontem illum nominare vult,
+<pb n="0095B"/>
+quod locus ille vel fons ille de maxilla nominandus
+est, et maxilla nominandus. Nam de projecta maxilla
+invocans locum vel fontem Lechi vocat, id est maxillam.</p>
+<p> <hi>
+            <note>(JUD. XVI.)</note> Latentibus apud se insidiis.</hi> Non mirum
+videatur, quod Philisthaei Samsonem occidere
+quaerentes nec dormientem nec ligatum aggredi ausi
+sunt, donec verum fortitudinis ejus experimentum
+cepissent. Tantus enim terror in ipsis erat ut nec
+appropinquare illi auderent, ne forte si in dormientem
+aut ligatum subito irruerent, priusquam eum
+exstinguere possent excitatus, et vinculis ruptis
+universos trucidaret, quemadmodum cum quis
+dormientem etiam leonem expavescit, neque appropinquare
+audet ut tangat, ne subito vigilans irruat
+<pb n="0095C"/>
+in auctorem vulneris, tanto crudelius saeviens, quanto
+iratus magis.</p>
+<p>
+          <pb n="0096A"/> <hi>
+            <note>(JUD. XVII.)</note> Implevitque unius filiorum suorum
+manum, et factus est ei sacerdos.</hi> Quod ait, implevit
+manum filiorum suorum, vel ad munera referendum
+est, quibus conduxit illum, sicut de Hebraeo expressius
+dicendum videtur: Investivit manum unius filiorum
+suorum, donans ut sacerdotio fungeretur. <hi>Fuit quoque in illo tempore alter adolescens de Bethlehem
+Juda ex cognatione ejus,</hi> 
+ scilicet Juda: <hi>eratque
+ipse levites</hi> tam officio quam genere; ex patre de
+una tribu; ex matre de altera, <hi>habitavitque ibi,</hi> id
+est in Bethlehem. <hi>Habuit apud se puerum.</hi> Puerum
+vocat vel pro aetate, quia adolescens erat, vel pro
+ministerio quia famulus.</p>
+<p> <hi>
+            <note>(JUD. XVIII.)</note> Utentesque illius diversorio.</hi> Diversorium
+dicit secretum colloquium vel cubiculum, in
+<pb n="0096B"/>
+quo seorsum manebat.</p>
+<p> <hi>
+            <note>(JUD. XIX.)</note> Erant filii Jemini,</hi> filii Benjamin. <hi>Nunc vadimus ad domum Dei.</hi> 
+ Domum Dei vocat tabernaculum
+in Silo, sive fanum quod Micha aedificaverat,
+sculptili quod fecerat.</p>
+<p> <hi>
+            <note>(JUD. XX.)</note> Volentes me occidere et uxorem meam
+incredibili libidinis furore vexantes.</hi> Pudice de se tacet,
+quod facore voluerunt, aliud commemorans pro
+illo.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>

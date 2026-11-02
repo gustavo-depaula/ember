@@ -1,0 +1,518 @@
+{
+  "id": "hugh-adnotationes-in-scripturam",
+  "cover": "classic",
+  "name": {
+    "la": "Adnotationes in Scripturam",
+    "en-US": "Notes on Scripture",
+    "pt-BR": "Anotações sobre a Escritura"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De scripturis et scriptoribus sacris; adnotationes in Pentateuchon, Judices, Ruth, Reges, Threnos; expositio in Abdiam et in Joelem.",
+    "en-US": "Hugh’s exegetical notes: the introduction On Scripture and the Sacred Writers, the Pentateuch, Judges, Ruth, Kings, Lamentations, Obadiah and (of doubtful authorship in PL) Joel. Latin only, from the Migne text (Patrologia Latina 175, 1854), a machine-corrected OCR.",
+    "pt-BR": "As notas exegéticas de Hugo: a introdução sobre a Escritura e os escritores sagrados, o Pentateuco, Juízes, Rute, Reis, Lamentações, Abdias e Joel."
+  },
+  "composed": "c. 1125-1141",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/adnotationes-in-scripturam",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 175)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeScEtS",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeScEtS, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.AdInPe",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.AdInPe, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.AdInLiJ",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.AdInLiJ, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.AdInLiR",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.AdInLiR, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.AdInLiR2",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.AdInLiR2, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.AdInTh",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.AdInTh, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.ExInAb",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.ExInAb, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.AdInJo",
+      "edition": "Migne, Patrologia Latina 175 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.AdInJo, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "De scripturis et scriptoribus sacris"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Caput i.— Quae Scripturae, etc. Ut jam praemissum est."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput ii.— Quod divina Scriptura ab aliis distinguitur in materia et modo tractandi."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput iii.— De triplici intelligentia sacrae Scripturae."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput iv.— Non omnia in divino eloquio comperta, sed quaedam duntaxat ad dictam triplicem interpretationem esse adigenda."
+          }
+        },
+        {
+          "id": "c005",
+          "title": {
+            "la": "Caput v.— Quod sit necessaria interpretatio litteralis et historica."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Caput vi.— De ordine, numero et auctoritate librorum sacrae Scripturae."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Caput vii.— De sacrorum librorum scriptoribus."
+          }
+        },
+        {
+          "id": "c008",
+          "title": {
+            "la": "Caput viii.— De bibliothecae Veteris Testamenti reparatione."
+          }
+        },
+        {
+          "id": "c009",
+          "title": {
+            "la": "Caput ix.— De diversis Scripturae sacrae translationibus."
+          }
+        },
+        {
+          "id": "c010",
+          "title": {
+            "la": "Caput x.— De scriptoribus Novi Testamenti."
+          }
+        },
+        {
+          "id": "c011",
+          "title": {
+            "la": "Caput xi.— De scriptis apocryphis."
+          }
+        },
+        {
+          "id": "c012",
+          "title": {
+            "la": "Caput xii.— De bibliothecae interpretatione, et variis librorum nominibus."
+          }
+        },
+        {
+          "id": "c013",
+          "title": {
+            "la": "Caput xiii.— De fructu divinae lectionis."
+          }
+        },
+        {
+          "id": "c014",
+          "title": {
+            "la": "Caput xiv.— Quem fructum sacra Scriptura ex aliis capiat, et quid aliis praestet; et de septem circumstantiis quibus res significatae discernuntur."
+          }
+        },
+        {
+          "id": "c015",
+          "title": {
+            "la": "Caput xv.— De numeris mysticis sacrae Scripturae."
+          }
+        },
+        {
+          "id": "c016",
+          "title": {
+            "la": "Caput xvi.— De locis, temporibus, ac gestis mysticis sacrae Scripturae."
+          }
+        },
+        {
+          "id": "c017",
+          "title": {
+            "la": "Caput xvii.— De materia sacrae Scripturae."
+          }
+        },
+        {
+          "id": "c018",
+          "title": {
+            "la": "Caput xviii.— De difficultatibus sacrae Scripturae."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Adnotationes in Pentateuchon"
+      },
+      "children": [
+        {
+          "id": "c019",
+          "title": {
+            "la": "Caput i.— In prologum divi Hieronymi in Pentateuchon adnotationes elucidatoriae."
+          }
+        },
+        {
+          "id": "c020",
+          "title": {
+            "la": "Caput ii.— De nomine primi libri Pentateuchi."
+          }
+        },
+        {
+          "id": "c021",
+          "title": {
+            "la": "Caput iii.— Quod scribendo Genesim Moyses fuit historiographus et propheta; et quod duo sint in ea attendenda, utpote veritas rerum gestarum, et forma verborum."
+          }
+        },
+        {
+          "id": "c022",
+          "title": {
+            "la": "Caput iv.— Quae sit intentio Moysi in Genesi, et an simul omnia creata sint."
+          }
+        },
+        {
+          "id": "c023",
+          "title": {
+            "la": "Caput v.— De materia prima, quando, et ubi, et qualis creata sit."
+          }
+        },
+        {
+          "id": "c024",
+          "title": {
+            "la": "Caput vi.— De operibus sex dierum distinctis."
+          }
+        },
+        {
+          "id": "c025",
+          "title": {
+            "la": "Caput vii.— Adnotationes elucidatoriae tam verborum quam sententiarum Geneseos, per singula fere, uti ea adnotabimus, capita. (pars 1)"
+          }
+        },
+        {
+          "id": "c026",
+          "title": {
+            "la": "Caput vii.— Adnotationes elucidatoriae tam verborum quam sententiarum Geneseos, per singula fere, uti ea adnotabimus, capita. (pars 2)"
+          }
+        },
+        {
+          "id": "c027",
+          "title": {
+            "la": "Caput vii.— Adnotationes elucidatoriae tam verborum quam sententiarum Geneseos, per singula fere, uti ea adnotabimus, capita. (pars 3)"
+          }
+        },
+        {
+          "id": "c028",
+          "title": {
+            "la": "Caput VIII. Sequuntur ejusdem Adnotatiunculae elucidatoriae in Exodum."
+          }
+        },
+        {
+          "id": "c029",
+          "title": {
+            "la": "Caput I et ix.— De nomine Levitici, et caeteris jam dictis."
+          }
+        },
+        {
+          "id": "c030",
+          "title": {
+            "la": "Caput II et x.— De sacrificiis, oblatione et libatione."
+          }
+        },
+        {
+          "id": "c031",
+          "title": {
+            "la": "Caput III et xi.— De personis a quibus fiunt praedicta."
+          }
+        },
+        {
+          "id": "c032",
+          "title": {
+            "la": "Caput IV et xii.— De temporibus et causis in eis offerendi."
+          }
+        },
+        {
+          "id": "c033",
+          "title": {
+            "la": "Caput V et xiii.— De locis, causis et expositione litterali Levitici."
+          }
+        },
+        {
+          "id": "c034",
+          "title": {
+            "la": "Caput xiv.— Adnotatiunculae elucidatoriae in Numeros."
+          }
+        },
+        {
+          "id": "c035",
+          "title": {
+            "la": "Caput XV. Adnotatiunculae in Deuteronomion itidems mancae, et nescio quo pacto, interceptae."
+          }
+        }
+      ]
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Adnotatiunculae in librum Judicum"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Adnotatiuncula in librum Ruth"
+      }
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Adnotationes in libros Regum"
+      },
+      "children": [
+        {
+          "id": "c038",
+          "title": {
+            "la": "Adnotationes in libros Regum"
+          }
+        },
+        {
+          "id": "c039",
+          "title": {
+            "la": "Adnotatiunculae in regum primum."
+          }
+        },
+        {
+          "id": "c040",
+          "title": {
+            "la": "Adnotatiunculae in regum secundum."
+          }
+        },
+        {
+          "id": "c041",
+          "title": {
+            "la": "Incipiunt nomina fortium in Israel."
+          }
+        },
+        {
+          "id": "c042",
+          "title": {
+            "la": "Adnotatiunculae in regum tertium."
+          }
+        },
+        {
+          "id": "c043",
+          "title": {
+            "la": "Adnotatiunculae in regum quartum."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Adnotatiunculae in Threnos"
+      },
+      "children": [
+        {
+          "id": "c044",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 1)"
+          }
+        },
+        {
+          "id": "c045",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 2)"
+          }
+        },
+        {
+          "id": "c046",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 3)"
+          }
+        },
+        {
+          "id": "c047",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 4)"
+          }
+        },
+        {
+          "id": "c048",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 5)"
+          }
+        },
+        {
+          "id": "c049",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 6)"
+          }
+        },
+        {
+          "id": "c050",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 7)"
+          }
+        },
+        {
+          "id": "c051",
+          "title": {
+            "la": "Adnotatiunculae in Threnos (pars 8)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Expositio in Abdiam"
+      },
+      "children": [
+        {
+          "id": "c052",
+          "title": {
+            "la": "Praefatio."
+          }
+        },
+        {
+          "id": "c053",
+          "title": {
+            "la": "Incipit expositio. (pars 1)"
+          }
+        },
+        {
+          "id": "c054",
+          "title": {
+            "la": "Incipit expositio. (pars 2)"
+          }
+        },
+        {
+          "id": "c055",
+          "title": {
+            "la": "Incipit expositio. (pars 3)"
+          }
+        },
+        {
+          "id": "c056",
+          "title": {
+            "la": "Incipit expositio. (pars 4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Adnotatiunculae in Joelem"
+      },
+      "children": [
+        {
+          "id": "c057",
+          "title": {
+            "la": "Adnotatiunculae in Joelem (pars 1)"
+          }
+        },
+        {
+          "id": "c058",
+          "title": {
+            "la": "Adnotatiunculae in Joelem (pars 2)"
+          }
+        },
+        {
+          "id": "c059",
+          "title": {
+            "la": "Adnotatiunculae in Joelem (pars 3)"
+          }
+        },
+        {
+          "id": "c060",
+          "title": {
+            "la": "Adnotatiunculae in Joelem (pars 4)"
+          }
+        },
+        {
+          "id": "c061",
+          "title": {
+            "la": "Adnotatiunculae in Joelem (pars 5)"
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Adnotatiunculae in Joelem (pars 6)"
+          }
+        }
+      ]
+    }
+  ]
+}
