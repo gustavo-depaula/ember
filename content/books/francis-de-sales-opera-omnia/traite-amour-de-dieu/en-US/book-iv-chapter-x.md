@@ -1,0 +1,17 @@
+# Chapter X. How dangerous this imperfect love is.
+
+Alas! my Theotimus, behold, I pray you, the poor Judas after he had betrayed his Master, how he goes to return the money to the Jews, how he acknowledges his sin, how honourably he speaks of the blood of this immaculate Lamb. These were effects of imperfect love, which former charity, now past, had left in his heart. We descend to impiety by certain degrees, and hardly any one arrives in an instant at the extremity of malice.
+
+Perfumers, though out of their shops, bear about with them for a long time the scent of the perfumes which they have handled. In like manner, those who have been in the cabinet of heavenly ointments, that is in holy charity, keep for some time afterwards the scent of it.
+
+Where the hart has lodged by night, there, the morning after, is a fresh scent or vent of him; towards night it is harder to perceive; and as his strain grows older and harder, the hounds lose it more and more. When charity has reigned for a time in the soul, one may find there its path, marks, strain or scent for a time after it has departed, but little by little all this quite vanishes, and a man loses all knowledge that charity was ever there.
+
+I have seen certain young people, well brought up in the love of God, who, putting themselves out of that path, remained for some time during their miserable decay still giving great signs of their past virtue, and, the habit acquired in time of charity resisting present vice, scarcely could one for some months discern whether they were out of charity or not, and whether they were virtuous or vicious, till such time as the course of things made it clear that these virtuous exercises proceeded not from present charity but from past, not from perfect but from imperfect love, which charity had left behind her, as a sign that she had lodged in those souls.
+
+Now this imperfect love, Theotimus, is good in itself, for being a creature of holy charity, and as it were one of her retinue, it cannot but be good; and indeed it did faithfully serve charity, while she sojourned in the soul, as it is still ready to serve upon her return. Nor is it to be contemned because it cannot do actions of perfect love, the condition of its nature being such; as stars, which in comparison with the sun are very imperfect, are yet extremely beautiful beheld alone, and, having no worth in the presence of the sun, have some in his absence.
+
+At the same time though this imperfect love be good in itself, yet it is perilous for us; for oftentimes we are contented with it alone, because having many exterior and interior marks of charity, we, thinking we have charity, deceive ourselves and think we are holy, while, in this vain persuasion, the sins which deprived us of charity increase, grow great, and multiply so fast that in the end they make themselves masters of our heart.
+
+Self-love deceives us, as Laban did Jacob between Rachel and Lia. We leave charity for a moment, and this imperfect habit of human love is thrust on us, and we content ourselves with it as if it were true charity, till some clear light shows us that we have been deceived.
+
+Ah! my God! is it not a great pity to see a soul flattering herself in the imagination of being holy, and remaining in repose as though she were possessed of charity, only to find in the end that her holiness is a fiction, her rest a lethargy, and her joy a madness.

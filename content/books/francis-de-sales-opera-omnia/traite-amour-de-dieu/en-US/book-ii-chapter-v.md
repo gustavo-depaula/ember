@@ -1,0 +1,25 @@
+# Chapter V. That heavenly Providence has provided men with a most abundant redemption.
+
+Now when saying, Theotimus, that God had seen and willed first one thing and then secondly another, observing an order in his wills: I meant this in the sense I declared before, namely, that though all this passed in a most singular and simple act, yet in that act the order, distinction and dependence of things were no less observed than if there had been indeed several acts in the understanding and will of God. And since every well-ordered will which determines itself to love several objects equally present, loves better and above all the rest that which is most lovable; it follows that the sovereign Providence, making his eternal purpose and design of all that he would produce, first willed and preferred by excellence the most amiable object of his love which is Our Saviour; and then other creatures in order, according as they more or less belong to the service, honours and glory of him.
+
+Thus were all things made for that divine man, who for this cause is called the first-born of every creature: [^1] possessed by the divine majesty in the beginning of his ways, before he made anything from the beginning. [^2] For in him were all things created in heaven, and on earth, visible, and invisible, whether thrones, or dominations, or principalities, or powers: all things were created by him and in him: And he is the head of the body, the church, who is the beginning, the first-born from among the dead: that in all things he may hold the primacy. [^3] The principal reason of planting the vine is the fruit, and therefore the fruit is the first thing desired and aimed at, though the leaves and the buds are first produced. So our great Saviour was the first in the divine intention, and in that eternal project which the divine providence made of the production of creatures, and in view of this desired fruit the vine of the universe was planted, and the succession of many generations established, which as leaves or blossoms proceed from it as forerunners and fit preparatives for the production of that grape which the sacred spouse so much praises in the Canticles, and the juice of which rejoices God and men.
+
+But now, my Theotimus, who can doubt of the abundance of the means of salvation, since we have so great a Saviour, in consideration of whom we have been made, and by whose merits we have been ransomed. For he died for all because all were dead, and his mercy was more salutary to buy back the race of men than Adam's misery was to ruin it. Indeed Adam's sin was so far from overwhelming the divine benignity that on the contrary it excited and provoked it. So that by a most sweet and most loving reaction and struggle, it received vigour from its adversary's presence, and as if re-collecting its forces for victory, it made grace to superabound where sin had abounded. [^4] Whence the holy Church by a pious excess of admiration cries out upon Easter-eve: "O truly necessary sin of Adam which was blotted out by the death of Jesus Christ! O blessed fault, which merited to have such and so great a Redeemer!" Truly, Theotimus, we may say as did he of old, "we were ruined had we not been undone:" that is, ruin brought us profit, since in effect human nature has received more graces by its Saviour redeeming, than ever it would have received by Adam's innocence, if he had persevered therein.
+
+For though the divine Providence has left in man deep marks of his severity, yea, even amidst the very grace of his mercy, as for example the necessity of dying, diseases, labours, the rebellion of sensuality,--yet the divine favour floating as it were over all this, takes pleasure in turning these miseries to the greater profit of those who love him, making patience spring from labours, contempt of the world from the necessity of death, a thousand victories from out of concupiscence; and, as the rainbow touching the thorn aspalathus makes it more odoriferous than the lily, so Our Saviour's Redemption touching our miseries, makes them more beneficial and worthy of love than original innocence could ever have been. I say to you, says Our Saviour, there shall be joy in heaven upon one sinner that doth penance, more than upon ninety-nine just who need not penance, [^5] and so the state of redemption is a hundred times better than that of innocence. Verily by the watering of Our Saviour's blood made with the hyssop of the cross, we have been replaced in a whiteness incomparably more excellent than the snow of innocence. We come out, like Naaman, from the stream of salvation more pure and clean than if we had never been leprous, to the end that the divine Majesty, as he has ordained also for us, should not be overcome by evil, but overcome evil by good, [^6] that mercy (as a sacred oil) should keep itself above judgment, [^7] and his tender mercies be over all his works. [^8]
+
+[^1]: Col. i. 15.
+
+[^2]: Prov. viii. 22.
+
+[^3]: Col. i. 16.
+
+[^4]: Rom. v. 20.
+
+[^5]: Luke xv. 7.
+
+[^6]: Rom. xii. 21.
+
+[^7]: James ii. 13.
+
+[^8]: Ps. cxliv. 9.
