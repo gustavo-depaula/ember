@@ -18,6 +18,7 @@ def join_lines(ls):
                 out=out+ln; continue
             if w1 not in W and (w1+w2) in W and len(w1)>1: out=out+ln; continue
             if w2 not in W and (w1+w2) in W and len(w2)>=3: out=out+ln; continue
+            if w2 in ('ing','ed','ly','ment','ness','tion','ions','ous') and (w1+w2) in W: out=out+ln; continue
             if w1 in PREF and len(w1)>=3 and (w1+w2) in W and w1!='over' and w1!='under' and w1!='self': out=out+ln; continue
         out=out+' '+ln
     return out
@@ -43,7 +44,7 @@ def paras(lines, drop=None):
             res[-1]=join_lines([res[-1],p])
         else: res.append(p)
     return res
-ROM=re.compile(r'^\s*CHAPTER\s+([IVXLCl1]+|ITI)\s*\.?\s*$')
+ROM=re.compile(r'^\W*CHAPTER\s+([IVXLCl1]+|ITI)\W*\d*\s*$')
 def romval(s):
     s=s.replace('ITI','III').replace('l','I').replace('1','I')
     v={'I':1,'V':5,'X':10,'L':50,'C':100};t=0
@@ -63,8 +64,13 @@ def chapters(lines, prologue=True):
         # title: first block of capitals lines
         t=[];n=0
         while n<len(seg) and not seg[n].strip(): n+=1
-        while n<len(seg) and seg[n].strip() and (seg[n].upper()==seg[n] or (n<len(seg)-1 and False)) and not t is None:
-            t.append(seg[n].strip()); n+=1
+        while n<len(seg):
+            if seg[n].strip() and seg[n].upper()==seg[n]: t.append(seg[n].strip()); n+=1; continue
+            if not seg[n].strip() and t:
+                m=n
+                while m<len(seg) and not seg[m].strip(): m+=1
+                if m<len(seg) and seg[m].upper()==seg[m] and re.search('[A-Z]{3}',seg[m]) and m-n<3: n=m; continue
+            break
         out.append((k,' '.join(t),seg[n:]))
     return out
 

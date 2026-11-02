@@ -13,18 +13,23 @@
   },
   "description": {
     "dum": "Traktaat over zeven trappen van geestelijke liefde, geschreven voor Margriet van Meerbeke. Middelnederlandse tekst van J. B. David (1861).",
-    "en-US": "A treatise on the seven steps of spiritual love, written for Margaret of Meerbeke. The Middle Dutch text of J. B. David (1861).",
+    "en-US": "A treatise on the seven steps of spiritual love, written for Margaret of Meerbeke. The Middle Dutch text of J. B. David (1861). English: Mother St. Jerome, 1914, chapter for chapter.",
     "pt-BR": "Tratado sobre os sete degraus do amor espiritual, escrito para Margarida de Meerbeke. Texto em neerlandês médio de J. B. David (1861)."
   },
   "composed": "c. 1360",
   "languages": [
-    "dum"
+    "dum",
+    "en-US"
   ],
   "work": "ruusbroec/seven-trappen",
   "editions": {
     "dum": {
       "editor": "Jan Baptist David",
       "year": 1861
+    },
+    "en-US": {
+      "translator": "Mother St. Jerome (Benedictine nun of Stanbrook?)",
+      "year": 1914
     }
   },
   "sources": [
@@ -35,97 +40,120 @@
       "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
       "tier": "A",
       "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/lovesgradatory00ruusuoft",
+      "edition": "Love's Gradatory: The Book of the Seven Steps of Divine Love by Blessed John Ruysbroeck, translated by Mother St. Jerome (London: Burns & Oates, 1914).",
+      "description": "OCR of the archive.org scan (research/sourcing/_scripts/ruusen_build.py); running heads and the page-foot scripture references removed. The translator's preface and introduction are not included.",
+      "tier": "A",
+      "tierEvidence": "1914 translation, public domain."
     }
   ],
   "toc": [
     {
       "id": "prologhe",
       "title": {
-        "dum": "Prologhe"
+        "dum": "Prologhe",
+        "en-US": "Prologue"
       }
     },
     {
       "id": "c001",
       "title": {
-        "dum": "I. Dit is die ierste trappe"
+        "dum": "I. Dit is die ierste trappe",
+        "en-US": "1. This Is the First Step"
       }
     },
     {
       "id": "c002",
       "title": {
-        "dum": "II. Dit is die andere trappe"
+        "dum": "II. Dit is die andere trappe",
+        "en-US": "2. This Is the Second Step"
       }
     },
     {
       "id": "c003",
       "title": {
-        "dum": "III. Dit is die derde trappe"
+        "dum": "III. Dit is die derde trappe",
+        "en-US": "3. This Is the Third Step"
       }
     },
     {
       "id": "c004",
       "title": {
-        "dum": "IV. Dit is die ‧iiij‧ trappe"
+        "dum": "IV. Dit is die ‧iiij‧ trappe",
+        "en-US": "4. This Is the Fourth Step"
       }
     },
     {
       "id": "c005",
       "title": {
-        "dum": "V. Dit is die vijfte trappe"
+        "dum": "V. Dit is die vijfte trappe",
+        "en-US": "5. This Is the Fifth Step"
       }
     },
     {
       "id": "c006",
       "title": {
-        "dum": "VI. Van drien wisen van oefeninghen"
+        "dum": "VI. Van drien wisen van oefeninghen",
+        "en-US": "6. Three Ways of Honouring God"
       }
     },
     {
       "id": "c007",
       "title": {
-        "dum": "VII. Vander ander wisen van oefeninghen"
+        "dum": "VII. Vander ander wisen van oefeninghen",
+        "en-US": "7. Of the Second Method"
       }
     },
     {
       "id": "c008",
       "title": {
-        "dum": "VIII. Van der derder misen van oefeninghen"
+        "dum": "VIII. Van der derder misen van oefeninghen",
+        "en-US": "8. Of the Third Method"
       }
     },
     {
       "id": "c009",
       "title": {
-        "dum": "IX. Wat die overste iherarchiën vore ons doen"
+        "dum": "IX. Wat die overste iherarchiën vore ons doen",
+        "en-US": "9. What the First Three Celestial Hierarchies Do for Men"
       }
     },
     {
       "id": "c010",
       "title": {
-        "dum": "X. Van tween weghen die Christus ons gheleert hevet"
+        "dum": "X. Van tween weghen die Christus ons gheleert hevet",
+        "en-US": "10. Of Two Ways That the Christ Taught"
       }
     },
     {
       "id": "c011",
       "title": {
-        "dum": "XI. Hoe vele menschen manen groet sijn, ende dolen in vele poenten"
+        "dum": "XI. Hoe vele menschen manen groet sijn, ende dolen in vele poenten",
+        "en-US": "11. That Many Think They Are Holy and Are Deceived"
       }
     },
     {
       "id": "c012",
       "title": {
-        "dum": "XII. Vander hemelscher melodiën"
+        "dum": "XII. Vander hemelscher melodiën",
+        "en-US": "12. Of Celestial Melodies"
       }
     },
     {
       "id": "c013",
       "title": {
-        "dum": "XIII. Die seste trappe der minnen"
+        "dum": "XIII. Die seste trappe der minnen",
+        "en-US": "13. This Is the Sixth Step"
       }
     },
     {
       "id": "c014",
       "title": {
-        "dum": "XIV. Die sevende trappe van minnen"
+        "dum": "XIV. Die sevende trappe van minnen",
+        "en-US": "14. This Is the Seventh Step"
       }
     }
   ]
