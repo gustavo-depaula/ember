@@ -21,11 +21,18 @@ def roman(n):
         while n >= v: r += s; n -= v
     return r
 
-CHAP = re.compile(r'^(?:CAP(?:UT|ITULUM)?|Cap)\.?\s*([IVXLTY1l]+|PRIMUM|SECUNDUM|TERTIUM)[.\s\-\'‘’:;]*(.*)$')
+CHAP = re.compile(r'^(?:[CG]AP(?:UT|ITULUM)?|Cap)[.,]?\s*([IVXLTY1l]+|PRIMUM|SECUNDUM|TERTIUM)[.\s\-\'‘’:;]*(.*)$')
 BOOK = re.compile(r'^LIBER\.?\s+(PRIM|SECUND|TERTI|QUART|QUINT|SEXT|SEPTIM|OCTAV|NON|DECIM)\w*\.?\s*$', re.I)
 def bnum(s):
     m = BOOK.match(s)
     return ('PRIM SECUND TERTI QUART QUINT SEXT SEPTIM OCTAV NON DECIM'.split().index(m.group(1).upper()) + 1) if m else None
+
+INLINE = re.compile(r'(?<=\S) (?=(?:[CG]AP(?:UT)?[.,]?\s*[IVXLY1T]{1,7}\.\s)|(?:LIBER (?:PRIM|SECUND|TERTI|QUART|QUINT)\w*\.?\s))')
+def explode(paras):
+    out = []
+    for p in paras:
+        out.extend(x for x in INLINE.split(p) if x) if len(p) > 140 else out.append(p)
+    return out
 
 def walk(paras, lo, hi, chap_re=CHAP, book_re=BOOK, nbooks=None, gap=3):
     """-> list of books [(n, idx|None, [(cn, idx, inline_title)])]; sequential acceptance of headings."""
@@ -41,6 +48,8 @@ def walk(paras, lo, hi, chap_re=CHAP, book_re=BOOK, nbooks=None, gap=3):
         n = rom(m.group(1))
         if n is None: continue
         if cur is None: cur = [1, None, []]; books.append(cur)
+        if n == 1 and cur[2] and len(cur[2]) >= 6 and (nbooks is None or len(books) < nbooks):
+            cur = [cur[0] + 1, None, []]; books.append(cur)
         exp = cur[2][-1][0] + 1 if cur[2] else 1
         if exp <= n <= exp + gap - 1 or (not cur[2] and n == 1):
             cur[2].append((n, i, m.group(2).strip()))
@@ -119,18 +128,28 @@ def author_file():
 
 
 def title_after(paras, i, inline):
-    if inline and len(inline) > 2: return inline.strip(' .;'), i + 1
+    if inline and len(re.findall(r'[A-Za-z]', inline)) > 2: return inline.strip(' .;'), i + 1
+    if inline: inline = ''
     if i + 1 >= len(paras) or len(paras[i+1]) > 170: return '', i + 1
     t = paras[i+1]; j = i + 2
+    if len(re.findall(r'[A-Za-z]', t)) < 3: return '', i + 2
     if j < len(paras) and len(paras[j]) <= 120 and paras[j][:1].islower() and not capsy(paras[j]): t += ' ' + paras[j]; j += 1
     return t.strip(' .;'), j
 
-def en_paras(path, lo=0, hi=None):
+def en_paras(path, lo=0, hi=None, split_caps=False):
     """Paragraphs of an archive.org English djvu.txt: page heads/numbers dropped, hyphens joined."""
     raw = open(path, errors='replace').read().split('\n')[lo:hi]
     paras = []; cur = []
+    HEADL = re.compile(r'^(BOOK|CHAPTER)\W+[IVXLilY1TO]+\W*$')
+    kind = None
     for l in raw + ['']:
         l = l.strip()
+        if l and len(l) < 60 and capsy(l) and re.search(r'^\d{1,3}\s|\s\d{1,3}\.?$', l): continue
+        if split_caps and l:
+            k = 'h' if HEADL.match(l) else ('c' if capsy(l) and len(l) < 90 else None)
+            if cur and (k != kind or k == 'h'):
+                paras.append(cur); cur = []
+            kind = k
         if l: cur.append(l); continue
         if cur:
             paras.append(cur); cur = []
@@ -157,4 +176,58 @@ def dropcap_merge(ps):
         if out and p[:1].islower() and len(out[-1]) < 90 and not out[-1].endswith(('.', '?', '!', ':', ';')) and not out[-1].startswith('#'):
             out[-1] += ' ' + p
         else: out.append(p)
+    return out
+
+
+import difflib, collections
+def en_heads_filter(E):
+    short = [p for p in E if len(p) <= 90 and not re.search(r'[.?!:]["”’]?$', p)]
+    cnt = collections.Counter(re.sub(r'\W+', '', p.lower()) for p in short)
+    reps = [k for k, n in cnt.items() if n >= 3 and len(k) > 6]
+    out = []
+    for p in E:
+        k = re.sub(r'\W+', '', p.lower())
+        if len(p) <= 90 and not re.match(r'^(BOOK|CHAPTER)\b', p, re.I) and any(difflib.SequenceMatcher(None, k, r).ratio() >= .8 for r in reps): continue
+        out.append(p)
+    return out
+
+def en_split(path, lo_pat=None, nb=None):
+    """-> (preface_paras, {(b,c): (title, [paras])}) for English books with BOOK/CHAPTER headings."""
+    E = en_heads_filter(en_paras(path, split_caps=True))
+    i0 = next(i for i, p in enumerate(E) if re.match(r'^CHAPTER\W*(I|1)\W*(\w.{0,150})?$', p) and sum(len(x) for x in E[i+1:i+4]) > 500)
+    b0 = i0
+    while b0 > 0 and i0 - b0 < 4 and not re.match(r'^BOOK\b', E[b0], re.I): b0 -= 1
+    if not re.match(r'^BOOK\b', E[b0], re.I): b0 = i0
+    pre = []
+    out = {}; b = 1; c = 0; cur = None; order = []
+    for i in range(b0, len(E)):
+        p = E[i]
+        mb = re.match(r'^BOOK\W+([IVXilY1]+)\b', p)
+        mc = re.match(r'^CHAPTER\W+([IVXLilY1TO]+)\b[\s.:\-]*(.*)$', p)
+        if mb and len(p) < 100 and i > b0 and rom(mb.group(1)) == b + 1 and nb:
+            b += 1; c = 0; cur = None; continue
+        if mc and len(p) < 200:
+            r = rom(mc.group(1)); c = r if (r and c < r <= c + 3) else c + 1; t = mc.group(2).strip()
+            cur = [t, []]; out[(b, c)] = cur; order.append((b, c))
+            continue
+        if cur is None: continue
+        if not cur[1] and len(p) < 160 and (capsy(p) or not cur[0]): cur[0] = (cur[0] + ' ' + p).strip(); continue
+        cur[1].append(p)
+    return out
+
+
+def repair_en(chap_paras, ALL, title_caps=()):
+    """Drop OCR'd running heads (the book title in capitals plus a stray page number) and rejoin words split at line ends."""
+    cnt = collections.Counter(w.lower() for w in re.findall(r"[A-Za-z]+", ALL))
+    def j(m):
+        a, b = m.group(1), m.group(2)
+        if cnt[(a + b).lower()] >= 2 and (cnt[(a + b).lower()] >= cnt[b.lower()] or cnt[(a + b).lower()] >= cnt[a.lower()]) and not (a.lower() in SMALL or b.lower() in SMALL): return a + b
+        return m.group(0)
+    out = []
+    for q in chap_paras:
+        for t in title_caps:
+            q = re.sub(r'(?:\b\S{1,3}\s)?' + re.escape(t) + r'[.,]?(?:\s(?:[IVXLil1]{1,5}|\d{1,3})\b)?\s?', ' ', q)
+        q = re.sub(r'\b([a-z]{2,})\s([a-z]{2,})\b', j, q)
+        q = q.strip()
+        if q: out.append(q)
     return out

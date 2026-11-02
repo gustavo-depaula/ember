@@ -1,0 +1,492 @@
+{
+  "id": "bellarmine-de-aeterna-felicitate",
+  "cover": "classic",
+  "name": {
+    "la": "De aeterna felicitate sanctorum",
+    "en-US": "The Eternal Happiness of the Saints",
+    "pt-BR": "A eterna felicidade dos santos"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Quinque libri de aeterna sanctorum felicitate, ex nominibus quibus Scriptura eam designat (regnum, domus, civitas, hereditas, corona). 1616.",
+    "en-US": "Five books on the eternal happiness of the saints, drawn from the names Scripture gives it: kingdom, house, city, inheritance, crown (1616). The Latin is the Vivès edition (1870-74) from an OCR scan; the English is John Dalton's translation (London: Richardson, mid-19th century).",
+    "pt-BR": "Cinco livros sobre a felicidade eterna dos santos, a partir dos nomes que a Escritura lhe dá (1616)."
+  },
+  "composed": "1616",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bellarmine/de-aeterna-felicitate",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    },
+    "en-US": {
+      "translator": "John Dalton",
+      "year": 1850
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/theeternalhappin00belluoft",
+      "edition": "The Eternal Happiness of the Saints, trans. John Dalton (London: Richardson and Son, n.d. [18--]).",
+      "description": "Archive.org OCR (djvu.txt): page heads removed, lines rejoined; a few chapter-opening letters lost to drop caps and some words split at line ends remain.",
+      "tier": "A",
+      "tierEvidence": "Published before 1928; public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De amplitudine regni Dei",
+            "en-US": "Chapter 1. The Extent of the Kingdom of God."
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De frequentia regni Dei",
+            "en-US": "Chapter 2. The Inhabitants of the Kingdom of God."
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. De forma vere monarchica regni Dei",
+            "en-US": "Chapter 3. The Monarchical Form of the Kingdom of God."
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Quod omnes beati sint Reges",
+            "en-US": "Chapter 4. All the Blessed Are Kings."
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. De bonis regni Dei",
+            "en-US": "Chapter 5. The Happiness Enjoyed in the Kingdom of God."
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Quanti fiant apud homines regna terrarum; et quanti fieri deberet regnum coelorum",
+            "en-US": "Chapter 6. What Importance Men Attach to Earthly Kingdoms, and What Importance Ought to Be Attached to the Kingdom of Heaven."
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. Quse sit prima semita ad regnum Dei",
+            "en-US": "Chapter 7. The First Means of Attaining to the Kingdom of God."
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Secunda semita ad regnum Dei",
+            "en-US": "Chapter 8. The Second Means Op Attaining Tub Kingdom of God."
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Tertia semita ad regnum Dei",
+            "en-US": "Chapter 9. The Third Means of Attaining the Kingdom of God."
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Quarta semita ad regnum Dei",
+            "en-US": "Chapter 10. The Fourth Means of Attaining the Kingdom! of God."
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. De pulchritudine.civitatis Dei",
+            "en-US": "Chapter 1. On the Beauty of the City of God."
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. De concordia et pace civita tis Dei",
+            "en-US": "Chapter 2. On the Concord and Peace of the City of God."
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De libertate civitatis Dei",
+            "en-US": "Chapter 3. On the Liberty of the City of God."
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. De situ et forma civitatis Dei",
+            "en-US": "Chapter 4. On the Situation and Form of the City of God."
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. De fundamentis et portis civitatis Dei",
+            "en-US": "Chapter 5. On the Foundations and Gates of the City of God."
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI. De inuro et platea civitatis Dei. '",
+            "en-US": "Chapter 6. On the Walls and Streets of the City of God."
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. De templo civitatis Dei",
+            "en-US": "Chapter 7. On the Temple of the City of God."
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. De cibo, et potus civitatis Dei",
+            "en-US": "Chapter 8. On the Meat and Drink in the City of God."
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. De fundamento mystico civitatis Dei",
+            "en-US": "Chapter 9. Ox the Mystical Foundation of the City of God."
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. De po?'ta mystica civitatis Dei",
+            "en-US": "Chapter 10. On the Mystical Gate of the City of God."
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. De lapidibus mysticis civitatis Dei",
+            "en-US": "Chapter 11. On the Mystical Stones of the City of God."
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. De fugienda civitate mundi",
+            "en-US": "Chapter 12. On Flying from the City of This World."
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. Quod omnes beati sint domestici et filii Dei",
+            "en-US": "Chapter 1. All the Blessed Are the Familiar Sons of God."
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. De magnitudine et pulchritudine domus Dei",
+            "en-US": "Chapter 2. The Magnitude and Beauty of the House of God."
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. De triclinio domus Dei",
+            "en-US": "Chapter 3. The Chambers Ix the House of God."
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Chapter 4. On the Couches in the House of God."
+          }
+        },
+        {
+          "id": "b3c05",
+          "title": {
+            "la": "Caput V. De aula domus Dei",
+            "en-US": "Chapter 5. On the Courts of the House of God."
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. De prima parte portae domus Dei, quae est fides",
+            "en-US": "Chapter 6. On the First Gate of the House of God, Which Is Faith."
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. De spe, quae est altera pars portae domus Dei",
+            "en-US": "Chapter 7. On Hope, Which Is the Second Gate of the House of God."
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. De humilitate, quae est quarta pars portae",
+            "en-US": "Chapter 9. Ox Humility, Which Is the Fourth Gate."
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. Iterum de fide, quae est prima pars portae",
+            "en-US": "Chapter 10. More Considerations on Faith."
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI",
+            "en-US": "Chapter 11. More Considerations on Hope."
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. Iterum de charitate, quae est tertia pars portae",
+            "en-US": "Chapter 12. Other Considerations on Charity."
+          }
+        },
+        {
+          "id": "b3c13",
+          "title": {
+            "la": "Caput XIII. Iterum de humilitate, quae est quarta pars portx",
+            "en-US": "Chapter 13. Other Considerations on Humility."
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. Necessarium esse ingressam portae, quantumvis angustae, si quis salvus esse velit",
+            "en-US": "Chapter 14. The Necessity of Entering This Gate, However Narrow, If We Wish to Be Saved."
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4c01",
+          "title": {
+            "la": "Caput I. In coelo esse vera gaudia",
+            "en-US": "Chapter 1. Teue Joy Is to Be Found in Heaven."
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. De gaudio intelligentiae",
+            "en-US": "Chapter 2. On the Joy of the Understanding."
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III. De gaudio voluntatis",
+            "en-US": "Chapter 3. On the Joy of the Will,"
+          }
+        },
+        {
+          "id": "b4c04",
+          "title": {
+            "la": "Caput IV. De gaudio memoriae",
+            "en-US": "Chapter 4. On the Joy of the Memory."
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI. De gaudio aurium",
+            "en-US": "Chapter 6. On the Joy of the Ears."
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. De gaudio narium",
+            "en-US": "Chapter 7. Ox the Joy of the Nostrils."
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. De gaudeo sensus gustandi et tangendi",
+            "en-US": "Chapter 8. On the Joy the Senses of Touch Axd Taste Will Have."
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. De comparatione gaudiorum terrae cum gaudiis coeli",
+            "en-US": "Chapter 9. The Joys of Heaven Compared with Those of Earth."
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. De comparatione paradisi terrestris cum coelesti",
+            "en-US": "Chapter 10. The Earthly and Heavenly Paradise Compared."
+          }
+        },
+        {
+          "id": "b4c11",
+          "title": {
+            "la": "Caput XI. De comparatione bonorum mundi, et bonorum",
+            "en-US": "Chapter 11. The Goods of This World, and Those of the Earthly Paradise Compared with the Joys of the Hea Venly Paradise."
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII. De comparatione pretii paradisi cum ipso paradiso",
+            "en-US": "Chapter 12. On the Trice That Paradise Was Purchased At, Compared with Paradise Itself."
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5c01",
+          "title": {
+            "la": "Caput I. De Thesauro abscondito in agro",
+            "en-US": "Chapter 1. On the Treasure Hidden in a Field."
+          }
+        },
+        {
+          "id": "b5c02",
+          "title": {
+            "la": "Caput II. De Margarita pretiosa",
+            "en-US": "Chapter 2. On the Precious Pearl."
+          }
+        },
+        {
+          "id": "b5c03",
+          "title": {
+            "la": "Caput III. De denario diurno",
+            "en-US": "Chapter 3. The Labourers in the Vineyard."
+          }
+        },
+        {
+          "id": "b5c04",
+          "title": {
+            "la": "Caput IV. De Talentis, et gaudio Domini",
+            "en-US": "Chapter 4. On the Talents."
+          }
+        },
+        {
+          "id": "b5c05",
+          "title": {
+            "la": "Caput V. De ccena magna",
+            "en-US": "Chapter 5. The Parable of the Supper."
+          }
+        },
+        {
+          "id": "b5c06",
+          "title": {
+            "la": "Caput VI. De nuptiis, et virginibus prudentibus et fatuis",
+            "en-US": "Chapter 6. The Parable of the Wise and Foolish Virgins."
+          }
+        },
+        {
+          "id": "b5c07",
+          "title": {
+            "la": "Caput VII",
+            "en-US": "Chapter 7. On the Prize."
+          }
+        },
+        {
+          "id": "b5c08",
+          "title": {
+            "la": "Caput VIII. De corona",
+            "en-US": "Chapter 8. On the Crown."
+          }
+        },
+        {
+          "id": "b5c09",
+          "title": {
+            "la": "Caput IX. Epilogus totius operis",
+            "en-US": "Caput IX. Epilogus totius operis"
+          }
+        }
+      ]
+    }
+  ]
+}
