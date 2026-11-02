@@ -1,0 +1,23 @@
+{
+ "id": "benson-lourdes",
+ "dir": "benson-opera-omnia/lourdes",
+ "slug": "lourdes",
+ "name": "Lourdes",
+ "name_pt": "Lourdes",
+ "desc": "Benson's account of 1914 of a pilgrimage to Lourdes: the town, the Grotto, the Bureau des Constatations, the apparition to Bernadette and the cures he witnessed.",
+ "desc_pt": "O relato de Benson (1914) de uma peregrina\u00e7\u00e3o a Lourdes: a cidade, a Gruta, o Bureau des Constatations, a apari\u00e7\u00e3o a Bernadette e as curas a que assistiu.",
+ "composed": 1914,
+ "editor": "Robert Hugh Benson (London: Burns & Oates, 1914)",
+ "year": 1914,
+ "url": "https://www.gutenberg.org/ebooks/18729",
+ "edition": "Lourdes (London: Burns & Oates, 1914), Project Gutenberg #18729, proofread.",
+ "src": "robert-hugh-benson/pg/pg18729.txt",
+ "start": "^LIST OF ILLUSTRATIONS",
+ "end": "^\\*\\*\\* END OF",
+ "label": "Chapter",
+ "mode": "pg",
+ "chap_re": "^(?P<n>[IVXL]+)\\.$",
+ "part_re": null,
+ "died": 1914,
+ "after": 30
+}
