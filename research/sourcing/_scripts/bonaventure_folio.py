@@ -153,7 +153,7 @@ def paragraphs(items, marker=None):
         if it[0] in 'HS': flush(); res.append(it); continue
         _, t, ind, short = it
         if marker and marker.match(t): flush(); res.append(('M', t)); prev_short = True; continue
-        if cur and (re.match(r'^\d{1,2}\s?[.,] ?[A-Z]', t) or (ind and (prev_short or re.search(r'[.:;?!)\]»]$', cur[-1])))): flush()
+        if cur and (re.match(r'^\d{1,2}\s?[.,] ?[A-Z]', t) or (ind and not cur[-1].endswith('-') and (prev_short or re.search(r'[.:;?!)\]»]$', cur[-1])))): flush()
         cur.append(t); prev_short = short
     flush()
     return res
