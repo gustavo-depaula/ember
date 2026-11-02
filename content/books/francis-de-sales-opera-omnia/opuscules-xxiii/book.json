@@ -1,0 +1,225 @@
+{
+  "id": "sales-opuscules-xxiii",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Opuscules de saint François de Sales, tome XXIII",
+    "en-US": "Opuscules of St. Francis de Sales, vol. XXIII",
+    "pt-BR": "Opúsculos de São Francisco de Sales, tomo XXIII"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les opuscules du tome XXIII de l’édition d’Annecy : les écrits de controverse (fragments sur la prédestination, brève méditation sur le Symbole, lettres au ministre Viret, fragment du livre IV de l’Estendart) et le début de l’administration épiscopale.",
+    "en-US": "The opuscules in volume XXIII of the Annecy edition: the controversy writings (fragments on predestination, the brief meditation on the Creed, letters to the minister Viret, the fragment of Book IV of the Standard) and the start of the episcopal administration.",
+    "pt-BR": "Os opúsculos de São Francisco de Sales no tomo XXIII da edição de Annecy (Troisième et quatrième séries)."
+  },
+  "composed": "1593-1622",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/opuscules-xxiii",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1926
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. XXIII: Opuscules, 1926 (file 23), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original spelling (and the Latin or Italian of some pieces), extracted from the PDF text layer (layout mode). Marginal references, the variants and footnotes, and the editors’ introductions and tables are not included. Chapters follow the printed section headings; short sections are folded into the preceding chapter under a second-level heading.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "piece-01",
+      "title": {
+        "fr-FR": "Demandes"
+      }
+    },
+    {
+      "id": "piece-02",
+      "title": {
+        "fr-FR": "Sur leur doctrine touchant la cene"
+      }
+    },
+    {
+      "id": "piece-03",
+      "title": {
+        "fr-FR": "Première réponse du père chérubin a monsieur jean sarasin, délégué de Genève"
+      }
+    },
+    {
+      "id": "piece-04",
+      "title": {
+        "fr-FR": "Titre premier"
+      }
+    },
+    {
+      "id": "piece-05",
+      "title": {
+        "fr-FR": "La négation"
+      }
+    },
+    {
+      "id": "piece-06",
+      "title": {
+        "fr-FR": "Affirmations des novateurs"
+      }
+    },
+    {
+      "id": "piece-07",
+      "title": {
+        "fr-FR": "Tertia nota hæreticorum : contemptus ecclesiæ"
+      }
+    },
+    {
+      "id": "piece-08",
+      "title": {
+        "fr-FR": "Nouveautés de nos hérétiques"
+      }
+    },
+    {
+      "id": "piece-09",
+      "title": {
+        "fr-FR": "Des origines des heresies de Notre temps"
+      }
+    },
+    {
+      "id": "piece-10",
+      "title": {
+        "fr-FR": "Quelques hérésies politiques des novateurs"
+      }
+    },
+    {
+      "id": "piece-11",
+      "title": {
+        "fr-FR": "Q.uinta propositio hæretica et politica"
+      }
+    },
+    {
+      "id": "piece-12",
+      "title": {
+        "fr-FR": "Contre tous les princes chrétiens"
+      }
+    },
+    {
+      "id": "piece-13",
+      "title": {
+        "fr-FR": "Note sur la présence réelle"
+      }
+    },
+    {
+      "id": "piece-14",
+      "title": {
+        "fr-FR": "Aux ministres de l’Église de Genève"
+      }
+    },
+    {
+      "id": "piece-15",
+      "title": {
+        "fr-FR": "Eloge de Saint françois de sales par le président antoine favre"
+      }
+    },
+    {
+      "id": "piece-16",
+      "title": {
+        "fr-FR": "Obligation dbs bénéficiers a la résidence"
+      }
+    },
+    {
+      "id": "piece-17",
+      "title": {
+        "fr-FR": "Epitre dédicatoire"
+      }
+    },
+    {
+      "id": "piece-18",
+      "title": {
+        "fr-FR": "Et celles du malin esprit dans les ames"
+      }
+    },
+    {
+      "id": "piece-19",
+      "title": {
+        "fr-FR": "Constitutions synodales"
+      }
+    },
+    {
+      "id": "piece-20",
+      "title": {
+        "fr-FR": "Status ecclesiæ gebennensis"
+      }
+    },
+    {
+      "id": "piece-21",
+      "title": {
+        "fr-FR": "Curari possunt et auferri"
+      }
+    },
+    {
+      "id": "piece-22",
+      "title": {
+        "fr-FR": "Touchant les revenus et les charges de la mense épiscopale"
+      }
+    },
+    {
+      "id": "piece-23",
+      "title": {
+        "fr-FR": "Publication d’indulgences"
+      }
+    },
+    {
+      "id": "piece-24",
+      "title": {
+        "fr-FR": "Præfatio ad parochos"
+      }
+    },
+    {
+      "id": "piece-25",
+      "title": {
+        "fr-FR": "Du diocèse de Genève"
+      }
+    },
+    {
+      "id": "piece-26",
+      "title": {
+        "fr-FR": "Notes pour des ordonnances synodales"
+      }
+    },
+    {
+      "id": "piece-27",
+      "title": {
+        "fr-FR": "Concernant les monastères"
+      }
+    },
+    {
+      "id": "piece-28",
+      "title": {
+        "fr-FR": "Ordonnances"
+      }
+    },
+    {
+      "id": "piece-29",
+      "title": {
+        "fr-FR": "De Saint françois de sales 0)"
+      }
+    },
+    {
+      "id": "piece-30",
+      "title": {
+        "fr-FR": "Ou pris dans une acception inusitee"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
