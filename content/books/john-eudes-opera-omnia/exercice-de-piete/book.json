@@ -41,49 +41,43 @@
     {
       "id": "ex-01",
       "title": {
-        "fr-FR": "Exercice de piété (1)"
+        "fr-FR": "Exercice de piété (1): Exercice de piété"
       }
     },
     {
       "id": "ex-02",
       "title": {
-        "fr-FR": "Exercice de piété (2): Protestation qu'il est bon de faire en la présence"
+        "fr-FR": "Exercice de piété (2): Bouche doivent être remplis, spécialement à l'heure de la mort"
       }
     },
     {
       "id": "ex-03",
       "title": {
-        "fr-FR": "Exercice de piété (3): Jésus maria, jésus maria, jésus maria"
+        "fr-FR": "Exercice de piété (3): Exercice pour le matin"
       }
     },
     {
       "id": "ex-04",
       "title": {
-        "fr-FR": "Exercice de piété (4): Exercice pour le matin"
+        "fr-FR": "Exercice de piété (4): Exercice pour le soir"
       }
     },
     {
       "id": "ex-05",
       "title": {
-        "fr-FR": "Exercice de piété (5): Exercice pour le soir"
+        "fr-FR": "Exercice de piété (5): Le salut assuré"
       }
     },
     {
       "id": "ex-06",
       "title": {
-        "fr-FR": "Exercice de piété (6): Le salut assuré"
+        "fr-FR": "Exercice de piété (6): La prière en famille"
       }
     },
     {
       "id": "ex-07",
       "title": {
-        "fr-FR": "Exercice de piété (7): La prière en famille"
-      }
-    },
-    {
-      "id": "ex-08",
-      "title": {
-        "fr-FR": "Exercice de piété (8): Oremus"
+        "fr-FR": "Exercice de piété (7): Oremus 54"
       }
     }
   ]
