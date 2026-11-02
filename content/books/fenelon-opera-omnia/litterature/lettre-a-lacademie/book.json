@@ -1,0 +1,72 @@
+{
+  "id": "fenelon-lettre-a-lacademie",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettre à l’Académie et autres écrits académiques",
+    "en-US": "Letter to the Academy and Other Academic Writings",
+    "pt-BR": "Carta à Academia e outros escritos acadêmicos"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le discours de réception de Fénelon à l’Académie française (1693), son mémoire sur les occupations de l’Académie et la Lettre à M. Dacier (1714) : projet de grammaire, rhétorique, poétique, histoire, et jugement sur les anciens et les modernes.",
+    "en-US": "Fénelon’s reception speech at the Académie française (1693), his memoir on the Academy’s occupations and the Letter to M. Dacier (1714): plans for a grammar, rhetoric, poetics and history, and a judgment on the ancients and moderns.",
+    "pt-BR": "O discurso de recepção de Fénelon na Academia Francesa (1693), seu memorial sobre as ocupações da Academia e a Carta ao sr. Dacier (1714): projetos de gramática, retórica, poética e história, e um juízo sobre antigos e modernos."
+  },
+  "composed": "1693–1714",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettre-a-lacademie",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 573–650; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-discours-reception",
+      "title": {
+        "fr-FR": "Discours de réception à l’Académie française (1693) et réponse de Bergeret"
+      }
+    },
+    {
+      "id": "02-memoire",
+      "title": {
+        "fr-FR": "Mémoire sur les occupations de l’Académie française"
+      }
+    },
+    {
+      "id": "03-lettre-dacier-01",
+      "title": {
+        "fr-FR": "Lettre à M. Dacier sur les occupations de l’Académie, partie 1"
+      }
+    },
+    {
+      "id": "03-lettre-dacier-02",
+      "title": {
+        "fr-FR": "Lettre à M. Dacier sur les occupations de l’Académie, partie 2"
+      }
+    },
+    {
+      "id": "03-lettre-dacier-03",
+      "title": {
+        "fr-FR": "Lettre à M. Dacier sur les occupations de l’Académie, partie 3"
+      }
+    }
+  ]
+}
