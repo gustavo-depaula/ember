@@ -1,0 +1,906 @@
+{
+  "id": "bridget-revelationes-4",
+  "cover": "classic",
+  "name": {
+    "la": "Revelationes, liber IV: Verba Iohannis euangeliste ad sponsam",
+    "en-US": "Revelations, Book IV: Words of John the Evangelist to the Bride",
+    "pt-BR": "Revelações, Livro IV"
+  },
+  "author": {
+    "la": "Birgitta de Regno Swecie",
+    "en-US": "St. Bridget of Sweden",
+    "pt-BR": "Santa Brígida da Suécia"
+  },
+  "description": {
+    "la": "Liber quartus reuelacionum: reuelaciones de Christo, Maria, sanctis et statu mundi, cum allocucionibus Iohannis euangeliste.",
+    "en-US": "The fourth book of the Revelations: revelations on Christ, Mary, the saints and the state of the world, with the words of John the Evangelist.",
+    "pt-BR": "O quarto livro das Revelações: revelações sobre Cristo, Maria, os santos e o estado do mundo, com as palavras de João Evangelista."
+  },
+  "composed": "c. 1349-1352",
+  "languages": [
+    "la"
+  ],
+  "work": "bridget-of-sweden/revelationes-4",
+  "editions": {
+    "la": {
+      "editor": "Hans Aili (Svenska fornskriftsällskapet critical edition)",
+      "year": 1992
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.documentacatholicaomnia.eu/04z/z_1303-1373__Birgitta_de_Regno_Swecie__Revelaciones__LT.doc.html",
+      "edition": "Sancta Birgitta, Revelaciones / Opera minora, Samlingar utgivna av Svenska fornskriftsällskapet, Ser. 2, Latinska skrifter VII, ed. Hans Aili (Stockholm, 1992).",
+      "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"IV\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
+      "tier": "B",
+      "tierEvidence": "Freely distributed online transcription of a medieval text."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput 1"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput 2"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput 3"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput 4"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput 5"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput 6"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput 7"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput 8"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput 9"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput 10"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput 11"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput 12"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput 13"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput 14"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput 15"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput 16"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput 17"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput 18"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput 19"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput 20"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput 21"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput 22"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput 23"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Caput 24"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Caput 25"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Caput 26"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Caput 27"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Caput 28"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Caput 29"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Caput 30"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Caput 31"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Caput 32"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Caput 33"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Caput 34"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Caput 35"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Caput 36"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Caput 37"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Caput 38"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Caput 39"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Caput 40"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Caput 41"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Caput 42"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Caput 43"
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Caput 44"
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Caput 45"
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Caput 46"
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Caput 47"
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Caput 48"
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Caput 49"
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Caput 50"
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Caput 51"
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Caput 52"
+      }
+    },
+    {
+      "id": "c053",
+      "title": {
+        "la": "Caput 53"
+      }
+    },
+    {
+      "id": "c054",
+      "title": {
+        "la": "Caput 54"
+      }
+    },
+    {
+      "id": "c055",
+      "title": {
+        "la": "Caput 55"
+      }
+    },
+    {
+      "id": "c056",
+      "title": {
+        "la": "Caput 56"
+      }
+    },
+    {
+      "id": "c057",
+      "title": {
+        "la": "Caput 57"
+      }
+    },
+    {
+      "id": "c058",
+      "title": {
+        "la": "Caput 58"
+      }
+    },
+    {
+      "id": "c059",
+      "title": {
+        "la": "Caput 59"
+      }
+    },
+    {
+      "id": "c060",
+      "title": {
+        "la": "Caput 60"
+      }
+    },
+    {
+      "id": "c061",
+      "title": {
+        "la": "Caput 61"
+      }
+    },
+    {
+      "id": "c062",
+      "title": {
+        "la": "Caput 62"
+      }
+    },
+    {
+      "id": "c063",
+      "title": {
+        "la": "Caput 63"
+      }
+    },
+    {
+      "id": "c064",
+      "title": {
+        "la": "Caput 64"
+      }
+    },
+    {
+      "id": "c065",
+      "title": {
+        "la": "Caput 65"
+      }
+    },
+    {
+      "id": "c066",
+      "title": {
+        "la": "Caput 66"
+      }
+    },
+    {
+      "id": "c067",
+      "title": {
+        "la": "Caput 67"
+      }
+    },
+    {
+      "id": "c068",
+      "title": {
+        "la": "Caput 68"
+      }
+    },
+    {
+      "id": "c069",
+      "title": {
+        "la": "Caput 69"
+      }
+    },
+    {
+      "id": "c070",
+      "title": {
+        "la": "Caput 70"
+      }
+    },
+    {
+      "id": "c071",
+      "title": {
+        "la": "Caput 71"
+      }
+    },
+    {
+      "id": "c072",
+      "title": {
+        "la": "Caput 72"
+      }
+    },
+    {
+      "id": "c073",
+      "title": {
+        "la": "Caput 73"
+      }
+    },
+    {
+      "id": "c074",
+      "title": {
+        "la": "Caput 74"
+      }
+    },
+    {
+      "id": "c075",
+      "title": {
+        "la": "Caput 75"
+      }
+    },
+    {
+      "id": "c076",
+      "title": {
+        "la": "Caput 76"
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "la": "Caput 77"
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "la": "Caput 78"
+      }
+    },
+    {
+      "id": "c079",
+      "title": {
+        "la": "Caput 79"
+      }
+    },
+    {
+      "id": "c080",
+      "title": {
+        "la": "Caput 80"
+      }
+    },
+    {
+      "id": "c081",
+      "title": {
+        "la": "Caput 81"
+      }
+    },
+    {
+      "id": "c082",
+      "title": {
+        "la": "Caput 82"
+      }
+    },
+    {
+      "id": "c083",
+      "title": {
+        "la": "Caput 83"
+      }
+    },
+    {
+      "id": "c084",
+      "title": {
+        "la": "Caput 84"
+      }
+    },
+    {
+      "id": "c085",
+      "title": {
+        "la": "Caput 85"
+      }
+    },
+    {
+      "id": "c086",
+      "title": {
+        "la": "Caput 86"
+      }
+    },
+    {
+      "id": "c087",
+      "title": {
+        "la": "Caput 87"
+      }
+    },
+    {
+      "id": "c088",
+      "title": {
+        "la": "Caput 88"
+      }
+    },
+    {
+      "id": "c089",
+      "title": {
+        "la": "Caput 89"
+      }
+    },
+    {
+      "id": "c090",
+      "title": {
+        "la": "Caput 90"
+      }
+    },
+    {
+      "id": "c091",
+      "title": {
+        "la": "Caput 91"
+      }
+    },
+    {
+      "id": "c092",
+      "title": {
+        "la": "Caput 92"
+      }
+    },
+    {
+      "id": "c093",
+      "title": {
+        "la": "Caput 93"
+      }
+    },
+    {
+      "id": "c094",
+      "title": {
+        "la": "Caput 94"
+      }
+    },
+    {
+      "id": "c095",
+      "title": {
+        "la": "Caput 95"
+      }
+    },
+    {
+      "id": "c096",
+      "title": {
+        "la": "Caput 96"
+      }
+    },
+    {
+      "id": "c097",
+      "title": {
+        "la": "Caput 97"
+      }
+    },
+    {
+      "id": "c098",
+      "title": {
+        "la": "Caput 98"
+      }
+    },
+    {
+      "id": "c099",
+      "title": {
+        "la": "Caput 99"
+      }
+    },
+    {
+      "id": "c100",
+      "title": {
+        "la": "Caput 100"
+      }
+    },
+    {
+      "id": "c101",
+      "title": {
+        "la": "Caput 101"
+      }
+    },
+    {
+      "id": "c102",
+      "title": {
+        "la": "Caput 102"
+      }
+    },
+    {
+      "id": "c103",
+      "title": {
+        "la": "Caput 103"
+      }
+    },
+    {
+      "id": "c104",
+      "title": {
+        "la": "Caput 104"
+      }
+    },
+    {
+      "id": "c105",
+      "title": {
+        "la": "Caput 105"
+      }
+    },
+    {
+      "id": "c106",
+      "title": {
+        "la": "Caput 106"
+      }
+    },
+    {
+      "id": "c107",
+      "title": {
+        "la": "Caput 107"
+      }
+    },
+    {
+      "id": "c108",
+      "title": {
+        "la": "Caput 108"
+      }
+    },
+    {
+      "id": "c109",
+      "title": {
+        "la": "Caput 109"
+      }
+    },
+    {
+      "id": "c110",
+      "title": {
+        "la": "Caput 110"
+      }
+    },
+    {
+      "id": "c111",
+      "title": {
+        "la": "Caput 111"
+      }
+    },
+    {
+      "id": "c112",
+      "title": {
+        "la": "Caput 112"
+      }
+    },
+    {
+      "id": "c113",
+      "title": {
+        "la": "Caput 113"
+      }
+    },
+    {
+      "id": "c114",
+      "title": {
+        "la": "Caput 114"
+      }
+    },
+    {
+      "id": "c115",
+      "title": {
+        "la": "Caput 115"
+      }
+    },
+    {
+      "id": "c116",
+      "title": {
+        "la": "Caput 116"
+      }
+    },
+    {
+      "id": "c117",
+      "title": {
+        "la": "Caput 117"
+      }
+    },
+    {
+      "id": "c118",
+      "title": {
+        "la": "Caput 118"
+      }
+    },
+    {
+      "id": "c119",
+      "title": {
+        "la": "Caput 119"
+      }
+    },
+    {
+      "id": "c120",
+      "title": {
+        "la": "Caput 120"
+      }
+    },
+    {
+      "id": "c121",
+      "title": {
+        "la": "Caput 121"
+      }
+    },
+    {
+      "id": "c122",
+      "title": {
+        "la": "Caput 122"
+      }
+    },
+    {
+      "id": "c123",
+      "title": {
+        "la": "Caput 123"
+      }
+    },
+    {
+      "id": "c124",
+      "title": {
+        "la": "Caput 124"
+      }
+    },
+    {
+      "id": "c125",
+      "title": {
+        "la": "Caput 125"
+      }
+    },
+    {
+      "id": "c126",
+      "title": {
+        "la": "Caput 126"
+      }
+    },
+    {
+      "id": "c127",
+      "title": {
+        "la": "Caput 127"
+      }
+    },
+    {
+      "id": "c128",
+      "title": {
+        "la": "Caput 128"
+      }
+    },
+    {
+      "id": "c129",
+      "title": {
+        "la": "Caput 129"
+      }
+    },
+    {
+      "id": "c130",
+      "title": {
+        "la": "Caput 130"
+      }
+    },
+    {
+      "id": "c131",
+      "title": {
+        "la": "Caput 131"
+      }
+    },
+    {
+      "id": "c132",
+      "title": {
+        "la": "Caput 132"
+      }
+    },
+    {
+      "id": "c133",
+      "title": {
+        "la": "Caput 133"
+      }
+    },
+    {
+      "id": "c134",
+      "title": {
+        "la": "Caput 134"
+      }
+    },
+    {
+      "id": "c135",
+      "title": {
+        "la": "Caput 135"
+      }
+    },
+    {
+      "id": "c136",
+      "title": {
+        "la": "Caput 136"
+      }
+    },
+    {
+      "id": "c137",
+      "title": {
+        "la": "Caput 137"
+      }
+    },
+    {
+      "id": "c138",
+      "title": {
+        "la": "Caput 138"
+      }
+    },
+    {
+      "id": "c139",
+      "title": {
+        "la": "Caput 139"
+      }
+    },
+    {
+      "id": "c140",
+      "title": {
+        "la": "Caput 140"
+      }
+    },
+    {
+      "id": "c141",
+      "title": {
+        "la": "Caput 141"
+      }
+    },
+    {
+      "id": "c142",
+      "title": {
+        "la": "Caput 142"
+      }
+    },
+    {
+      "id": "c143",
+      "title": {
+        "la": "Caput 143"
+      }
+    },
+    {
+      "id": "c144",
+      "title": {
+        "la": "Caput 144"
+      }
+    }
+  ]
+}
