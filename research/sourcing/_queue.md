@@ -27,7 +27,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Victorines (39 books). Left: Hugh's Sermones centum and minor arts works, Godfrey, Andrew, Achard's treatises, full Liber exceptionum (not in Corpus Corporum); Gautier's Latin of Adam
 - [x] Peter Lombard (rest: Psalms, Collectanea). Left: sermons (under Hildebert in PL 171), letters
 - [x] Bellarmine (44 books). Left: Exhortationes domesticae (Brussels 1899 OCR, own pass), Opera oratoria postuma, letters, Gibbons 1614 catechism; chapter splits lost in several books
-- [ ] Thomas à Kempis (rest; 13 books done: Orationes, Sermones ad novicios, Hortulus, Vallis, Chronicle, Lydwine, minor pieces). Continuing: Pohl I–IV remaining works
+- [x] Thomas à Kempis (26 books). Left: Pohl I (De tribus tabernaculis, De vera compunctione, Sermones ad fratres, De fideli dispensatore, Soliloquium animae; Sommalius scans need fresh OCR), Van goeden woerden, Pohl VII (Dialogus noviciorum, lives), Scully's English Sermones ad novicios
 - [ ] Bridget of Sweden
 - [ ] Gertrude · Mechtilde
 - [ ] Rhineland mystics (Ruusbroec, Suso, Tauler)
