@@ -1,0 +1,72 @@
+{
+  "id": "ignatius-documentos",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Documentos de fundación de la Compañía",
+    "en-US": "Founding Documents of the Society",
+    "pt-BR": "Documentos de fundação da Companhia"
+  },
+  "author": {
+    "es-ES": "San Ignacio de Loyola",
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "description": {
+    "es-ES": "Los textos con que nació la Compañía de Jesús: los Cinco Capítulos (1539), la Deliberación de los primeros Padres (1539), la Forma de la Compañía y oblación (1541) y las dos Fórmulas del Instituto (1540 y 1550). Texto español, con la numeración capítulo:párrafo de la edición.",
+    "en-US": "The texts at the birth of the Society of Jesus: the Five Chapters (1539), the Deliberation of the First Fathers (1539), the Form of the Society and the Oblation (1541), and the two Formulas of the Institute (1540 and 1550). Spanish text, with the chapter:paragraph numbering of the edition.",
+    "pt-BR": "Os textos do nascimento da Companhia de Jesus: os Cinco Capítulos (1539), a Deliberação dos primeiros Padres (1539), a Forma da Companhia e oblação (1541) e as duas Fórmulas do Instituto (1540 e 1550)."
+  },
+  "composed": "1539–1550",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "ignatius-of-loyola/documentos",
+  "editions": {
+    "es-ES": {
+      "editor": "Documenta Catholica Omnia, from Monumenta Ignatiana Series III vol. I (Constitutiones) and Fontes narrativi I",
+      "year": 1550
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://www.documentacatholicaomnia.eu/03d/1491-1556,_Ignacio_Loyola,_Documentos,_ES.pdf",
+      "edition": "San Ignacio de Loyola - Documentos, Documenta Catholica Omnia PDF (Spanish renderings of the Latin Formulas and the Latin Five Chapters). Read by font size: footnote numbers, the notes on later modifications (CG XXXIV) and the editor's cross-references are left out.",
+      "description": "The Latin originals of the Five Chapters and the Formulas are rendered into Spanish here. The Deliberation of the First Fathers is the translation of the Latin; the Form of the Society (1541) is Ignatius's Spanish minute. The Deliberation on poverty and the Rules (Regulae) in MHSI are not included.",
+      "tier": "B",
+      "tierEvidence": "Sixteenth-century texts by Ignatius and the first Fathers, in a Spanish rendering distributed by Documenta Catholica Omnia without any copyright claim or licence; free in practice."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cinco-capitulos",
+      "title": {
+        "es-ES": "Los Cinco Capítulos (1539)"
+      }
+    },
+    {
+      "id": "deliberacion-primeros-padres",
+      "title": {
+        "es-ES": "Deliberación de los primeros Padres (1539)"
+      }
+    },
+    {
+      "id": "forma-oblacion",
+      "title": {
+        "es-ES": "Forma de la Compañía y oblación (1541)"
+      }
+    },
+    {
+      "id": "formula-1540",
+      "title": {
+        "es-ES": "Fórmula del Instituto (1540)"
+      }
+    },
+    {
+      "id": "formula-1550",
+      "title": {
+        "es-ES": "Fórmula del Instituto (1550)"
+      }
+    }
+  ]
+}
