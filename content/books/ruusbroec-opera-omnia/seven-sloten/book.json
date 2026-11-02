@@ -1,0 +1,174 @@
+{
+  "id": "ruusbroec-seven-sloten",
+  "cover": "classic",
+  "name": {
+    "dum": "Dat boec van seven sloten",
+    "en-US": "The Book of the Seven Enclosures",
+    "pt-BR": "O Livro dos Sete Cercados"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Brief aan de zusters over de zeven 'sloten' van het kloosterleven. Middelnederlandse tekst van J. B. David (1861).",
+    "en-US": "A letter to the Poor Clare nuns of Brussels on the seven enclosures of the religious life. The Middle Dutch text of J. B. David (1861).",
+    "pt-BR": "Carta às Clarissas de Bruxelas sobre os sete cercados da vida religiosa. Texto em neerlandês médio de J. B. David (1861)."
+  },
+  "composed": "c. 1360",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/seven-sloten",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1861
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae04_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 4: Dat boec van seven sloten. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1861).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Hoe Christus ghedient hevet"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Hoe goet leven beghinnen sal"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Hoemen Misse horen sal"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Van ‧iiij‧ wisen der ynnigher oefeninghen"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Van ghehoirsamheden ende van oetmoede"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. Hoe die sieke hare ghedraghen selen"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Van levene metten evenkersten"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Van gulsicheiden te vermydene, ende ander dinc"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Hoe men ter spreec veinsteren gaen sal"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. Vanden iersten slote"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. Vanden anderen slote"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. Vanden derden slote"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. Vanden vierden slote"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. Vanden vijften slote"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "dum": "XV. Vanden sesten slote"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "dum": "XVI. Vanden sevenden slote"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "dum": "XVII. Van drien levenen die sijn in den goeden mensche"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "dum": "XVIII. Van ‧iiij‧ wisen des gheesteliken levens"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "dum": "XIX. Van der oefeninghen deser ‧iiij‧ wisen"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "dum": "XX. Vanden abyte, datmen draghen sal"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "dum": "XXI. Van ‧iij‧ boexckenen des avons te overlesene"
+      }
+    }
+  ]
+}
