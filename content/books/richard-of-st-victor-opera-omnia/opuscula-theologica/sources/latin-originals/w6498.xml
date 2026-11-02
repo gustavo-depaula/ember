@@ -1,0 +1,283 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De tribus appropriatis personis in Trinitate</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeTrApP</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De tribus appropriatis personis in Trinitate</head>
+<p>
+          <pb n="0991B"/>Quaeris a me, mi Bernarde, quid mihi videatur de
+illa Augustini sententia, in qua attribuitur Patri
+unitas, Filio aequalitas, Spiritui sancto utriusque
+concordia. Libenter aperio mihi alteri quod sentio,
+communicare volens si quid recte, vel ex quantulacunque
+parte sapio, simul et corrigi ambiens,
+si quid aliter sentio: propria, si placet, singulorum
+consideremus, et forte illucescet quod quaerimus.
+<pb n="0991C"/>
+Subsistentia ingeniti, quae ab alia aliqua non est,
+in eo quod substantialiter vel personaliter est,
+nullam pluralitatem ingerit, nullam pluralitatem
+concludit: nam in eo quod gignit, nihil sibi, sed
+soli Filio confert, ut sit geniti autem subsistentia,
+quae ab alia accepit quod habet, sicut nec esse per
+seipsam, sic nec per seipsam intelligi valet. Si igitur
+pluralitatem ingerit subsistentia Filii, quanto
+magis quae a duobus est subsistentia Spiritus
+sancti? Recte igitur unitas Patri attribuitur,
+in cujus subsistentiae consideratione nulla pluralitas
+concurrere videtur. Addamus et illud,
+quia, quidquid substantialiter dici potest, veraciter
+unum est. Sed dicis, quia et hoc ei cum
+<pb n="0991D"/>
+caeteris commune est, sed procul dubio solus Pater
+habet hoc secundum, ut sic dicam, principalitatem:
+nam caeteri secundum acceptionem, et juxta alterius
+similitudinem. Hinc ergo colligitur cur ei unitas
+juxta hanc considerationem quasi specialiter attribuitur.
+Ecce quomodo in Patre unitas, quaeramus
+quomodo in Filio aequalitas. Certe ubi nulla pluralitas
+est, nec aequalitas recte vel dici, vel intelligi
+potest. Sicut enim nihil recte dicitur sibi simile, sic
+nec aequale. Itaque ubi primo pluralitas occurrit, ibi
+et aequalitatem primum quaerere oportebit. Constat
+autem quia Filius imago est Patris sui, non autem
+Pater imago Filii. Hinc illud Augustini. Non
+autem Pater et Filius simul ambo imago, sed Filius
+solus imago Patris. Audi et illud ejusdem. Imago
+<pb n="0992B"/>
+si perfecte implet illud cujus imago est, ipsa coaequatur
+ei, non illud imagini suae. Certum est autem
+quod Filius plenitudinem ejus capit et exprimit,
+cujus imago existit. Itaque secundum sententiam
+Augustini, Filius coaequatur Patri, non Pater suae
+imagini. Recte igitur aequalitas attribuitur non Patri,
+sed Filio. Sed cur, inquis, non etiam Spiritui
+sancto? Sed si des cur solus in Trinitate Filius
+<pb n="0992C"/>
+dicitur imago alterius, consequenter accipies cur
+aequalitas attribuatur soli Filio, non autem simul et
+Spiritui sancto. In his vero quae secundum substantiam
+dicuntur, non solum Filio, sed et Spiritui sancto
+aequalitas attribuitur, sed secundum principalitatem
+habet hoc solus Filius, non autem Spiritus sanctus.
+Verumtamen si in hujusmodi loquendi proprietas
+servaretur, magis identitas quam aequalitas diceretur.
+Ecce jam habes cur unitas Patri, cur aequalitas attribuatur
+Filio; restat quaerendum cur utriusque concordia
+attribuatur Spiritui sancto. Sicut qualitas nulla
+est sine consistentium pluralitate, sic nec quid tertium
+ponitur concordia duorum, sine consistentium
+Trinitate. In Patre origo unitatis, in Filio inchoatio
+pluralitatis, in Spiritu sancto completio Trinitatis.
+<pb n="0992D"/>
+Hinc tibi elucescere debet, quam merito dicatur
+caeterorum concordia, ille qui est tertia in Trinitate
+persona. Consideremus nunc propria singulorum,
+et videbimus quia alia est habitudo Patris ad
+Filium, alia ad Spiritum sanctum. Nihilominus aliter
+se habet Filius ad eumdem Spiritum, et aliter
+ad Patrem suum. Uniformiter autem habent tam
+Pater quam Filius ad Spiritum amborum, et e converso
+uniformiter se habet idem Spiritus tam ad
+Patrem quam Filium. Recte ergo caeterorum concordia
+dicitur, in quo habitudinis uniformitas omniformiter
+invenitur. Addamus et illud, quia plenitudinem
+concordiae facit idem velle, et idem nolle,
+recte itaque duorum concordia dicitur, qui est
+<pb n="0993A"/>
+amor utriusque. Cur autem amor potius quam amborum
+sapientia dicitur, alia quaestio videtur. Nunc
+vero videamus quomodo intelligendum sit, quod
+Augustinus ad illa superius posita, et exposita adjungit,
+cum dicit: Et tria haec unum omnia propter
+Patrem, aequalia omnia propter Filium, connexa
+omnia propter Spiritum sanctum. Si sola ingeniti
+persona fuisset nihilominus in divinitate unitas
+esset. Primordialiter itaque est, ut sic dicam,
+unitas in solo ingenito, sed juxta ejus similitudinem,
+vel emanationem tam in unigenito,
+quam in Spiritu sancto. Item, si sola ingeniti persona
+esset, nulla in divinitate aequalitas fuisset;
+et si sola Spiritus sancti persona deesset, nihilominus
+in divinitate aequalitas fuisset. Hinc est perpendere
+<pb n="0993B"/>
+quae aequalitas primordialiter est in solo unigenito,
+juxta tamen ejus similitudinem est etiam in
+Spiritu sancto. Tolle Spiritum sanctum, non erit in
+divinitate qui sit connexio plurium. Sed forte adhuc
+exigis cur, existente Trinitate, omnium connexio
+attribuatur soli Spiritui sancto. Sed scimus
+quoniam reliqui duo differenter se habent ad unigenitum,
+solus autem Spiritus sanctus indifferenter
+se habet tam ad ingenitum quam ad genitum, et
+ambo illorum uniformiter se habent ad Spiritum
+sanctum. Singulariter itaque omnium connexio attribuitur
+Spiritui sancto. Singulariter, inquam,
+quantum ad reliquas in divinitate personas, primordialiter
+etiam quantum ad creaturas. Nam quod in
+<pb n="0993C"/>
+creaturis connexio solet inveniri est de imitatione,
+vel similitudine Spiritus sancti. Ne mireris quod
+haec quae supradicta sunt per remotionem posuimus,
+ut ea quae sentienda sunt planius et plenius intelligamus.
+Primordialiter itaque unitas pertinet ad ingenitum
+et idcirco in Trinitate omnia unum propter
+ipsum. Aequalitas primordialiter pertinet ad unigenitum,
+et idcirco in Trinitate omnia aequalia propter
+ipsum. Connexio singulariter pertinet ad Spiritum
+sanctum, et ideo in Trinitate omnia connexa
+propter ipsum.</p>
+<p>
+          <emph> <hi>Cur attribuatur potentia Patri, sapientia Filio,
+bonitas Spiritui sancto.</hi> </emph>
+        </p>
+<p>Addis adhuc ut quaeras quid mihi causae videtur
+<pb n="0993D"/>
+cur potentia Patri in Scripturis sanctis specialius
+attribuitur, sapientia Filio, charitas vel bonitas
+Spiritui sancto. Si non dixero nisi quod in codicibus
+vestris invenitur, forte superfluum judicabitur; si
+quid aliud forte exsufflabitur, irridebitur. Merito
+ejusmodi timere debuissem si nescirem apud quem
+in aure loquens sermonem seu sensum meum effunderem.
+Tibi utique; tibi, inquam, libenter dico
+quod sentio. Quid sit potentia, quid sit sapientia,
+quid charitas vel bonitas omnes in commune novimus,
+et quotidiano experimento probamus. In
+his itaque quae manifesta et nobis nota sunt erudimur,
+ni fallor, ad eorum notionem quae humanae
+capacitatis modum excedunt. In his enim tribus
+forma quaedam et imago summae Trinitatis exprimitur,
+<pb n="0994A"/>
+et quoddam nobis velut speculum proponitur,
+ut invisibilia Dei per ea quae facta sunt intellecta
+conspiciantur. Quae igitur sunt in Trinitate
+ista, respondent his quae sunt in Trinitate illa, tria
+tribus, similia similibus, propria propriis, singula
+singulis. Videmus quia potest esse multiplex potentia
+etiam ubi nulla est vel esse potest sapientia.
+Taceo de elementis, vel quibuslibet rebus insensatis.
+In rebus autem animatis et brutis est potentia
+audiendi, videndi, potentia ambulandi, comedendi
+et bibendi, etc. hujusmodi, in his vero nulla sapientia
+est, nulla naturaliter inesse potest. Constat ergo,
+quod superius jam dictum est, quia potest esse
+multiplex potentia ubi nulla potest esse sapientia.
+Econtra autem ubi nulla potentia est, nulla sapientia
+<pb n="0994B"/>
+inesse potest. Nam posse sapere absque dubio
+est aliquid posse. Dat itaque esse posse non sapientia
+potentiae, sed potentia sapientiae. Item, constat
+quod Lucifer ille, qui mane oriebatur, multam habet
+potentiam, multam sapientiam, sed nullam omnino
+voluntatem bonam. Bonitatis est autem bene velle.
+Quid est enim bonitas nisi bona voluntas? Testis
+itaque est Lucifer ille obduratus in sua perversitate
+quod possit esse multiplex potentia simul et multiformis
+sapientia, ubi nulla manent bonitatis vestigia.
+Econtra autem nulla bonitas inesse poterit ubi
+sapientia vel potentia omnino defuerit. Nam posse
+bene velle est aliquid posse. Sapientiae vero est
+discernere inter bonum et malum, et sine hujusmodi
+<pb n="0994C"/>
+discretione nescit voluntas quid sit eligendum. Ut
+possis ergo bonitatem habere, oportet ut scias et
+valeas bonum eligere. Potentia dat posse, sapientia
+dat nosse, sine quibus bonitas non prodest ad esse.
+Contrahit itaque suum esse bonitas non tam a sapientia
+quam potentia. In hac itaque rerum Trinitate
+sola potentia non est de reliquarum aliqua,
+sapientia autem est de potentia sola, bonitas vero
+de potentia simul et sapientia. Vides certe quomodo
+in hac rerum Trinitate expressae sunt proprietates
+Trinitatis illius summae et aeternae. Ibi est persona
+ingeniti quae non est ab alio aliquo; ibi est persona
+geniti, quae est ab ingenito solo; ibi est persona
+Spiritus sancti, quae est tam a genito quam ab ingenito.
+Quoniam ergo in potentia exprimitur proprietas
+<pb n="0994D"/>
+ingeniti, speciali quodam considerationis modo
+merito ascribitur illi. Sed quoniam in sapientia exprimitur
+proprietas geniti, merito et illa juxta eumdem
+modum ascribitur ipsi. Item, quia in bonitate
+proprietas Spiritus sancti invenitur, merito et ei
+bonitas specialius assignatur. Ecce quomodo ex hac
+rerum Trinitate surgit consideratio ex qua per
+exemplum ostenditur qualiter quod de divinis proprietatibus
+legitur intelligi valet. Sed ex eadem
+rerum speculatione consideratio oritur longe ista
+sublimior, ex qua ratiocinando colligitur quod idem
+ipsum omnino fateri oportet. Sed in his metam figimus
+quoniam quaestioni vestrae nos satisfecisse jam
+credimus.
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

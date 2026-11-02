@@ -1,0 +1,157 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Quomodo Spiritus Sanctus est amor Patris et Filii</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.QuSpSaE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Quomodo Spiritus Sanctus est amor Patris et Filii</head>
+<p>
+          <pb n="1011A"/>Quaeris scire quomodo verum sit quod Augustinus
+dicit. Dicit enim quod Pater Spiritu sancto diligit
+Filium et Filius eodem Spiritu diligit Patrem suum.
+Quod tamen Pater ea sapientia qua Filius sapiat,
+omnino contradicit, et hujusmodi ratione convincit.
+Nam, si ea sapientia quae Filius est saperet, non
+tam Filius a Patre quam Pater a Filio esset, quibus
+est idem esse quod sapere. Hinc est quod quidam in
+hunc modum opponunt et dicunt. Cum idem ibi sit
+diligere quod esse, quomodo dicitur Pater vel Filius
+non esse ea dilectione qua alter alterum diligit?
+Cum igitur Pater negetur sapere sapientia quam
+genuit ne ea esse intelligatur, hoc illi quantum
+mihi videtur multum est inter facere et fieri, inter
+erudire et erudiri, inter sapientem facere et sapiens
+<pb n="1011B"/>
+fieri. Certe Pater, si ea sapientia quae Filius
+est saperet et sapiens fieret, ab ipso procul dubio
+esset cui idem est esse quod sapere quod sapientem
+esse. Quando autem per Filium Pater aliquem erudit,
+ea sapientia quae Filius est aliquid facit, nec
+tamen sequitur ut a Filio sit. Sicut itaque Pater
+Filio erudit, nec tamen sequitur ut a Filio sit, sic
+Spiritu sancto diligit: nec tamen sequitur ut a Spiritu
+sancto sit. Quod tamen Pater, vel Filius dicitur
+Spiritu sancto diligere, possumus et recte, et prave
+intelligere, et ad verum vel falsum sensum derivare.
+Sed fortassis a me quaeris hoc ipsum distingui,
+et qualiter modo juxta verum sensum, modo
+juxta falsum possit intelligi. Procul dubio quod Filius
+<pb n="1011C"/>
+agit Pater agit a quo Filius accipit ut agat et
+agere possit. Hinc est illud beati Hilarii:  « Intellige
+Filium agentem. Similiter dico intellige Spiritum
+sanctum agentem, et per eum non modo Patrem,
+sed et Filium agentem. Filius erudit, Spiritus sanctus
+diligit, et utrobique Pater agit, quia ab ipso
+uterque accipit ut idipsum possit quod agit. Quod
+autem Pater per Filium operari dicitur, non sic intelligitur
+<pb n="1012A"/>
+quasi Filius sit auctor et origo potentiae
+quae Pater est, et quae vult operatur, sed quod Pater
+auctor et origo sit potentiae quae Filius est, et pro
+beneplacito agit quod agit. Similiter quod Pater
+Spiritu sancto diligere dicitur non sic intelligitur
+quasi Spiritus sanctus auctor et origo existat dilectionis
+quae Pater est, et pro arbitrio amat, quod
+amat, sed quod Pater eam dilectionem qua Filius diligitur
+et Spiritus sanctus est spirat, et illius auctor
+et origo existat. Dicitur ergo Pater Spiritu sancto
+diligere, non quod per eum amorem habeat, sed
+exhibeat, non quod amorem ab eo accipiat, sed per
+eum impendat. »  Dicit Augustinus de Filio:  « Filius
+dicebat et Pater docebat, et Filius de seipso:
+Mea doctrina non est mea. Cur et Spiritus sanctus
+<pb n="1012B"/>
+non aequa ratione dicit: Mea dilectio non est mea,
+sed Patris de quo procedit, sed Filii qui eam spiravit.
+Si Spiritus sanctus est amor utriusque, cur Pater
+non dicatur recte Spiritu sancto: hoc est suo
+amore diligere? cur non et Filius dicatur recte
+Spiritu sancto, hoc est sua dilectione amare? »  Animus
+humanus amor non est, sed ab pso amor procedit,
+et ideo seipso non diligit, sed amore qui a
+seipso procedit. Pater vero amor est, et Spiritus
+sanctus ejus amor est, et ideo Pater diligit seipso,
+diligit Spiritu sancto. Diligit seipso amore, diligit
+suo amore. Quis nesciat quod Filius beatae Mariae et
+filius Nave Jesus dicantur aequivoce? Similiter aequivoce
+dicerentur amor tuus et amor divinus, si Spiritus
+sanctus diceretur amor cordis tui, sicut Spiritus
+<pb n="1012C"/>
+sanctus dicitur amor Patris et Filii. Quis, quaeso,
+posset negare te Spiritu sancto (hoc est amore
+tuo) diligere? Si recte diligere diceris amore qui
+de te procedit, cur Pater et Filius non recte dicantur
+diligere amore qui ex ipsis procedit? Haeccine
+frater est illa quaestio quam insolubilem putant, insolubilem
+et dicunt, et scribunt?
+</p>
+</div1>
+</body>
+  </text>
+</TEI>

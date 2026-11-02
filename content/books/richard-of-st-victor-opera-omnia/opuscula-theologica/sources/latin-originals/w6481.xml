@@ -1,0 +1,4205 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De Emmanuele</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeEmm</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>PROLOGUS.</head>
+<p>In quemdam magistri Andreae tractatum, quem in Isaiae explanationem scripserat, simul et ediderat,
+incidi, in quo nonnulla minus caute posita, minus catholice disputata inveni. In multis namque scripturae
+illius locis ponitur Judaeorum sententia quasi sit non tam Judaeorum quam propria, et velut vera. Super
+illum autem locum: <hi>Ecce virgo concipiet, et pariet filium,</hi> Judaeorum objectiones vel quaestiones ponit,
+nec solvit, et videtur velut eis palmam dedisse, dum eas veluti insolubiles relinquit. In ejusmodi itaque
+positionibus scandalizantur peritiores, infamantur imperitiores, in tantum ut usque hodie ex ejus discipulis
+existant qui supra positam prophetiam non de beata Maria, quin potius de prophetissa dictam contendant.
+Ad tollendum ergo errorem vel eorum qui jam decepti sunt, vel adhuc decipi possunt, statui
+aliqua scribere, et positis objectionibus obviare. Prima itaque operis hujus fronte libet ipsas objectiones
+ponere, quemadmodum inveniuntur in jam dicta explanatione. Secundo vero quasi pro testimonio adjungo
+quaedam verba beati Hieronymi, quemadmodum ab ipso edita sunt in explanationem ejusdem loci.
+Ultimo autem loco libet ex meo addere quantum puto ad refellendas objectiones posse sufficere.</p>
+</div1>
+
+<div1>
+        <head>OBJECTIONES MAGISTRI ANDREAE <hi>Secundum quod Judaei solent nobis opponere de nostro Emmanuele.</hi> </head>
+
+<pb n="0601"/>
+<p>
+          <pb n="0601A"/> <hi>Ecce virgo concipiet et pariet filium, et vocabitur
+nomen ejus Emmanuel <note>(Isa. VII)</note>
+          </hi>. Hanc de conceptione
+et Nativitate Salvatoris nostri, et integritate,
+et virginitate matris ejus semper virginis apertissimam
+prophetiam, prout justum est cum de ipsis
+exponimus. Insurgentes in nos Judaei, veritatis inimici,
+suae cavillationis ariete firmissimum fidei
+nostrae murum labefactare conantur. Primo dicunt
+quod in Hebraico non habetur becula, quae vox
+virginem, sed alma, quae nunc juvenculam, nunc
+absconsam significat. A quibus cum opponentes
+quaerimus quomodo futurae liberationis signum
+esse possit, quod junioris aetatis femina, vel abscondita
+et secreta concipiat, et pariat cum hoc frequentissime
+fieri videamus, respondent dicentes:
+<pb n="0601B"/>
+In hoc signum erat quod ea quae nondum conceperat
+in prima ad eam viri accessione conceptura
+erat, et masculum paritura, qui ab ipso populo, vel
+matre Emmanuel nominaretur. Ac si a propheta
+diceretur: O domus David, si videris hanc juvenculam
+quae nondum concepit in proximo concipere,
+et filium parere, scias hoc tibi signum futurae liberationis
+de manu supradictorum regum a Domino
+datum. Vos autem, inquiunt, qui hoc de Virginis
+vestri Jesu matris conceptione, et partu exponitis,
+respondete quomodo quod post sexcentos vel eo
+amplius factum est annos domui David, et Acham,
+quod de manu Rasin, tunc regis Syriae, et Phacee
+filiis Romeliae liberandi essent signum esse potuit.
+Quomodo illis signum esse potuit quod nunquam
+<pb n="0602A"/>
+viderint vel visuri erant? Vos per abrupta, nos per
+planam incedimus viam quibus tota capituli continentia
+consonat; vos, tota litterae circumstantia reclamante,
+uni versiculo adhaeretis. Quod, ut melius
+pateat, ab exordio usque ad finem totum prosequimur
+capitulum. Mandavit Dominus per prophetam
+Acham quod signum peteret, per quod certus esse
+posset, quod non oporteret eum timere a duabus
+caudis titionum fumigantium. Quo signum petere
+nolente, convertit se propheta ad populum, cui dicit
+ipsum Dominum signum esse daturum, ipsumque
+signum statim supponit, dicens: Ecce virgo concipiet,
+etc. Subjungit et cibum ipsius pueri ex virgine
+concepti et nati, et causam quare tali cibo
+utatur. Post haec interponitur de adventu Assyriorum
+<pb n="0602B"/>
+in terram Juda, et quid in ea facturi sint ad
+extremum post enumerationem eorum quae vastitatem
+sequuntur, imperat Dominus prophetae ut in
+grandi libro plane et legibiliter scribat nascituri
+de juvencula, vel abscondita pueri nomina duo haec:
+Velociter spolia detrahe, cito praedare. Et ne qua
+fraus, vel dolus subesse putaretur, vel ne alio quam
+ad prophetissam (Isaiae videlicet uxorem, et filium
+ex ea natum) quod de virgine, vel potius juvencula
+paritura dicitur inverteretur, adhibuit et dues quibus
+bene credi deberet testes, et sub his testibus ad
+prophetissam maritali officio accessit, et concepit,
+et peperit cujus nomen Domino praecipiente, sicut
+subjungitur, appellat, causamque quare sic debeat
+appellari supponit. Ecce, inquit, omnia rationabiliter
+<pb n="0603A"/>
+procedunt, omnia quae promittuntur fiunt; promittitur
+juvencula quae nondum conceperat in signum
+paritura filium. Adhibentur testes duo fideles,
+qui visu et auditu prophetissam ad quam Isaias accessit,
+adolescentulam esse dignoscere, et ex ea
+viri ad illam accessione concepisse, cum tempus
+pariendi advenit, certissime scire valerent. Si dubitatis
+de juvencula, fideles fidem facient testes.
+Praedicitur conceptura, concepit paritura filium,
+peperit et masculum. Cibos comedit quos comesturus
+fuit praedictus. Ecce datum est signum quod se
+daturum Dominus promisit. Nam non res signum
+secuta est? In diebus infantiae filii virginis, vel juvenculae
+duo reges a quorum facie Judas trepidabat,
+alter ab Assyriis interfectus, alter ab Osee filio Elam
+<pb n="0603B"/>
+trucidatus occubuerunt. Ecce signum praecessit,
+secuta est res. Liberatus est Judas a metu, propter
+quem tollendum datum est signum. Vestrae autem
+virginis partus nec signum fuit, quibus tollendus
+erat metus, sed nec esse potuit. Nec res propter
+quam signum datum est secuta est. Sed quingentis
+et eo amplius annis signum quod vos ponitis praecessit.
+Explicate, si potestis, quomodo Isaias propheta
+sub notis et nominatis testibus ad prophetissam
+accesserit, ex qua accessione ipsa conceperit,
+et filium peperit quem Dominus idcirco vocari jusserit
+accelera, spolia detrahe, festina praedare. Quod
+in diebus infantiae ejus a regionibus Assyriorum
+tollenda esse fortitudo Damasci, ubi regnabat Rasin,
+et spolia Samariae, ubi sceptra gerebat Phacee filius
+<pb n="0603C"/>
+Romeliae. Apertissime loquitur sacra Scriptura Dominum
+qui mentiri non potest dicere, quod antequam
+puer quem prophetissa peperit Isaiae, sciat patrem
+suum et matrem vocare, Damascus et Samaria ab
+Assyriis destruenda sit. Si virginem vestram hujus
+pueri matrem dixeritis, consequenter et Isaiam ejus
+patrem esse dicere vos oportebit.</p>
+<p>Si statim post natum Isaiae de prophetissa filium,
+mortuis duobus regibus, Judas a metu quem illi
+incutiebant liberatus est, cujus rei gratia signum
+dabatur, luce clarius elucet quia ejusdem pueri matris
+et conceptus et partus praedictae liberationis
+signum fuerit. Haec sunt quae in nos tela jaciunt
+Judaei, sacrarum nos litterarum depravatores, et
+<pb n="0603D"/>
+violentos distortores appellantes. Quibus ut respondeamus
+nec opus est, cum alii hoc ante nos fecerint.
+Sed an sufficienter responsum sit, ipsi qui
+responderunt viderint. Nec utile, ne si forte anceps
+certamen imparibus ineuntes viribus succumbamus,
+non nobis solis, sed et illis quorum acutissimi vivacitate
+ingenii, si cum eis congressi fuissent facile
+superarentur, victores insultent. Nos itaque nostris
+viribus emensis, fortiora fortioribus relinquentes,
+<pb n="0604A"/>
+coeptam litteralis sensus explanationem exsequamur.
+Dabit gratuita voluntate sua, non vestris perversorum,
+et incredulorum meritis signum. Facturus
+est Dominus quiddam vobisque in signum
+daturus, quod cum videritis, significabit vobis quod
+a metu praedictorum regum liberamini. Ecce virgo
+concipiet et pariet. Juvenculae vel absconditae partus
+et conceptus, quando eum videritis, significabit
+vobis quod a praedicto metu liberabimini, et vocabis
+tu domus Juda, vel quae concepisti, Emmanuel.
+Ideo tali nomine, vel domo Juda, vel matre vocante,
+puer nominabitur, quia Deum propitium et adjutorem
+sibi futurum intelligent, cum puerum quem
+sibi in signum se daturum promisit jam natum
+perspexerint. Vel quia in diebus nativitatis ejus
+<pb n="0604B"/>
+jam illis Dominus benefacere coeperat. <hi>Butyrum et
+mel comedet.</hi> Si, ut causalem facimus conjunctionem,
+scientia reprobandi malum et eligendi bonum causa
+est quare butyrum et mel comedat. An talis comestio
+talem scientiam conferre potest? Nonne et stulti
+butyrum et mel comedunt? Si ergo ut consecutivum
+facimus ut dicamus: Butyrum et mel comedet, et
+sciet reprobare malum, et eligere bonum, quomodo
+exponetur quod sequitur, quia antequam sciat
+puer, etc., nisi forte quia ibi, sicut in plerisque copulativa
+accipiatur, et sic legatur: Butyrum et mel
+comedet, et sciet reprobare malum, et eligere bonum,
+et antequam sciat puer reprobare malum et
+eligere bonum, derelinquetur terra quam tu detestaris
+a facie duorum regum suorum? Sunt qui
+<pb n="0604C"/>
+ita legunt: Butyrum et mel comedet, ut qui sciat
+reprobare malum et eligere bonum, et antequam
+hujusmodi scientiam habeat derelinquetur, etc. Hoc
+etiam partem signi putant, quod in infantia positus
+quae nihil eorum quae apponuntur rejicere solet, immundis
+tanquam sordibus refutatis, mundos tantum
+cibos (quae synodochice in butyro et melle accipiuntur)
+in cibum sumpturus sit. In eo quod dicitur
+butyrum et mel comedet, Hebraei futurae fertilitatis
+promissionem esse dicunt. Ubi nos habemus, ut
+sciat reprobare malum, illi habent, ut dicunt, ad
+scientiam abominari in malum et eligere in bonum.
+Quod est dicere: prophetissae filius butyrum et mel
+comedet cum venerit ad scientiam qua possit abominari
+<pb n="0604D"/>
+malum et eligere bonum. Unde autem quando
+ille ad annos discretionis pervenerit, tanta sit futura
+copia in terra hostiliter vastata, ut lacte (quod
+per butyrum intelligimus) et melle fluat, subjungit,
+quia antequam sciat, etc. Bene poterit tunc puer
+butyrum et mel comedere, quia in infantili aetate
+illius derelinquetur Syria et decem tribuum terra
+a duobus regibus quos tu, domus Juda, formidas.
+</p>
+      </div1>
+
+<div1>
+        <head>VERBA HIERONYMI.</head>
+
+<pb n="0603"/>
+<p>
+          <pb n="0603D"/> Quando autem dicitur, dabit Dominus ipse
+vobis signum, novum debet esse atque mirabile.
+<pb n="0604D"/>
+Sin autem juvencula, vel puella, ut Judaei volunt,
+et non virgo pariat: quale signum poterit appellari
+<pb n="0605A"/>
+cum hoc nomen aetatis sit, non integritatis? et revera
+ut cum Judaeis conferamus pedem, et nequaquam
+contemptioso fine praebeamus eis risum nostrae
+imperitiae. Virgo Hebraice   appellatur,
+quae in praesenti loco non scribitur. Sed pro hoc
+verbo positum est,   quod praeter LXX qui
+posuerunt <foreign xml:lang="greek">ἡ παρθένος</foreign> omnes adolescentulam transtulerunt.
+Porro   apud eos verbum ambiguum
+est, dicitur enim et adolescentula, et abscondita, id
+est <foreign xml:lang="greek">ἀποκρυφή.</foreign> Unde et in titulo psalmi noni, ubi in
+Hebraico positum est alma, nomen quod caeteri interpretes
+transtulerunt pro adolescentula, quod
+LXX interpretati sunt pro absconditis, et in Genesi
+legimus ubi Rebecca dicitur alma aquilam
+non adolescentulam, nec puellam, sed absconditam
+<pb n="0605B"/>
+transtulisse <note>(Gen. XXIV)</note>. Sunamitis quoque mulier
+amisso filio cum Elisei fuisset pedibus provoluta, et
+prohiberet eam Giezi, audit a propheta: Dimitte eam
+quia in dolore est, et Dominus abscondit a me <note>(IV
+Reg. IV)</note>. In Hebraeo scriptum est,  . Ergo
+alma non solum puella, sed et virgo; sed cum <foreign xml:lang="greek">ἐπιτάσει</foreign>
+virgo abscondita dicitur, et secreta, quae nunquam
+virorum patuerit aspectibus, sed magna parentum
+diligentia custodita sit. Lingua quoque Punica
+<pb n="0606A"/>
+quae de Hebraeorum fontibus manare dicitur,
+proprie virgo alma appellatur, et ut risum praebeamus
+Judaeis, nostro quoque sermone alma sancta
+dicitur. Omniumque pene linguarum verbis utuntur
+Hebraei, ut est illud in Cantico canticorum de <foreign xml:lang="greek">φορεῖον,</foreign>
+id est ferculum sibi Salomon fecit, quod et in Hebraeo
+ita legimus. Verbum quoque nugas, et mensuram,
+Hebraei eodem modo, eisdem appellant sensibus,
+et quantum cum mea pugno memoria, nunquam
+me arbitror alma in muliere nupta legisse,
+sed in ea quae virgo est, ut non solum virgo sit, sed
+virgo junioris aetatis, et in annis adolescentiae. Potest
+enim fieri ut virgo sit vetula. Ista autem virgo
+erat in annis puellaribus, vel certe virgo, non puella,
+et quae adhuc virum nosse non posset, sed jam nubilis.
+<pb n="0606B"/>
+Denique et in Deuteronomio sub puellae et
+adolescentulae nomine virgo intelligitur. <hi>Si invenerit,</hi> 
+inquit, <hi>homo in campo puellam desponsatam, et vi
+opprimens eam dormierit cum ea, interficietis virum
+solum qui concubuit cum ea, et puellae nihil facietis.
+Non est adolescentulae peccatum mortis, quia quomodo
+si quis insurgat contra proximum suum, et interficiat
+animam ejus, sic hoc negotio accidit <note>(Deut. XXII)</note>
+          </hi>, etc.</p>
+</div1>
+
+<div1>
+        <head>LIBER PRIMUS.</head>
+<div2>
+          <head>CAPUT PRIMUM. <hi>Refellitur Judaeorum sententia et Christianorum confirmatur.</hi> </head>
+<pb n="0605C"/>
+<p> <hi>Ecce virgo concipiet, et pariet filium, et vocabitur
+nomen ejus Emmanuel; butyrum et mel comedet, ut
+sciat reprobare malum et eligere bonum <note>(Isai. VII)</note>
+            </hi>.
+O quam merito videntes dicti sunt qui in tam longinquum
+videre potuerunt! Qui enim hodie dicitur
+propheta, olim dicebatur videns. Sexcentis certe, et
+eo amplius annis, si nos chronographi non fallunt,
+sunt ista praevisa atque praedicta antequam facta.
+Vide ergo in quam longinquum prospexit qui ista
+praedixit. Miraris, ut arbitror, de perspicacia praevidentiae,
+mirare nihilominus in verbis prophetae profunditatem
+intelligentiae. Mira sane vis illa praevidendi,
+<pb n="0605D"/>
+sed non minus mirabilis modus ipse dicendi.
+Ecce in eisdem ipsis verbis prophetae unde Christianus
+illuminatur, inde Judaeus excaecatur, diabolus
+infatuatur. Ecce ubi agnus ambulat, elephas natat,
+sed non enatat. Ecce ubi Christiana simplicitas planam
+viam invenit, currit, nec offendit, Judaica perfidia
+submergitur, diabolus suffocatur. In tantum
+autem illuminatur Christianus, ut malit mori quam
+veritatem diffiteri, in tantum excaecatur Judaeus
+ut paratior sit mori quam veritatem fateri, in tantum
+infatuatur diabolus, ut praesumat posse fieri
+peccatorem quem constat esse omnium Redemptorem. <hi>Haec omnia,</hi> 
+ inquit, <hi>tibi dabo si, procidens,
+adoraveris me <note>(Matth. IV)</note>
+            </hi>. Illum provocat ad se adorandum
+<pb n="0606C"/>
+cui flectitur omne genu coelestium, terrestrium
+et infernorum <note>(Philip. II)</note>. Ecce quomodo
+stulti facti sunt principes Taneos. Et quidem necesse
+erat ut redemptionis nostrae sacramenta verborum
+ambiguitate obnubilarentur, ne a malignis
+spiritibus vel hominibus intelligerentur, et impedirentur.
+Si enim cognovissent, nunquam Dominum
+gloriae crucifixissent. Non sum tam prompti eloquii,
+vel profundi ingenii, ut me arbitrer posse propheticae
+sententiae profunditatem sermone explicare vel
+cogitatione comprehendere. Sufficit mihi hoc loco,
+si detur in simplicis litterae expositione devotioni
+fidelium satisfacere, et quomodo debeat haec Isaiae
+prophetia ad Verbi incarnationem referri ostendere: <hi>Ecce virgo concipiet, et pariet filium, et vocabitur
+<pb n="0606D"/>
+nomen ejus Emmanuel.</hi> 
+ Et hanc quidem
+prophetiam, etsi nunquam detur vobis secundum
+dictam sententiam circumjacenti litterae posse
+coaptare, nihilominus tamen debetis eam credere de
+Christo praedictam, et in Christo completam fuisse.
+Qui non potest intelligere vocem prophetantis, audiat
+vel sensum exponentis. Qui non intelligit sensum
+vaticinantis prophetae, credat vel sententiae
+exponentis evangelistae. Audi proponentem: <hi>Ecce
+virgo concipiet.</hi> Attende exponentem: <hi>Hoc totum
+factum est, ut adimpleretur quod dictum est per prophetam:
+Ecce virgo concipiet, et pariet filium, et
+vocabitur nomen ejus Emmanuel, quod interpretatur
+nobiscum Deus.</hi> Quod totum? <hi>Noli timere, Joseph,
+<pb n="0607A"/>
+accipere Mariam conjugem tuam: quod enim ex ea
+natum est, de Spiritu sancto est.</hi> Ecce evangelista
+dicit dictam prophetiam in beata Maria completam
+fuisse. Quis audeat contradicere? Ibi praedicitur
+conceptura virgo, hic dicitur concepisse de Spiritu
+sancto; concepit ergo de Spiritu sancto, non de
+viro. Non novit Spiritus sanctus virginem corrumpere,
+sed sanctificare. Nescit Spiritus sanctus munditiam
+virginis minuere, sed augere; nescit foedare,
+sed glorificare. Qui ergo necdum habet cor illuminatum
+ad intelligendum sensum vaticinantis prophetae,
+afferat saltem aures non graves ad obaudiendum
+exponenti evangelistae, ne incurrat illud
+ejusdem Isaiae: <hi>Excaeca cor populi hujus, et aures
+ejus aggrava <note>(Isai. VI)</note>
+            </hi>. Qui necdum intelligit quod
+<pb n="0607B"/>
+legit, saltem credat ex corde, ut sic mereatur intelligere: <hi>Si non credideritis,</hi> 
+ inquit, <hi>non intelligetis <note>(Isai. VII)</note>
+            </hi>.
+Firmissimum argumentum fidei nostrae
+quod idem tam concorditer nuntiant prophetae et
+evangelistae. Quod propheta praenuntiat: Ecce virgo
+concipiet, et pariet filium, et vocabitur nomen ejus
+Emmanuel. Hoc est quod Evangelista aliis verbis
+enuntiat: <hi>Verbum caro factum est, et habitavit in
+nobis <note>(Joan. I)</note>
+            </hi>. Habitavit, inquit, in nobis. Habitavit
+sane ut fieret noster Emmanuel, et esset nobiscum
+Deus. Quod propheta uno verbo exprimit cum eum
+Emmanuel dicit, hoc est quod angelus ad Mariam
+latius explicat, cum ei divinitus annuntiat: <hi>Quod
+ex te nascetur sanctum, vocabitur Filius Dei <note>(Luc. I)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>Quae sunt illa quae nobis solent Judaei, vel judaizantes opponere ad ea quae sentimus de nostro Emmanuele.</hi> </head>
+
+<pb n="0607C"/>
+<p>Sed huic nostrae assertioni reclamant Judaei, submurmurant,
+imo acclamant illis judaizantes nostri.
+Objiciunt multa quibus putant refellere assertionem
+nostram. Adducunt hinc inde argumenta quibus
+nituntur astruere assertionem suam. Primum itaque
+est arguere caecitatem Judaeorum. Secundum, rumpere
+surditatem judaizantium. Tertium, si detur
+satisfacere devotioni fidelium, et pie quaerentium.
+Videamus itaque nunc qualia vel quanti pendenda
+sunt quae nobis cavillatores opponunt. Dicunt itaque
+hoc quod nos sentimus de puerpera, vel puero
+<pb n="0607D"/>
+nostro nullo modo posse esse ejus rei signum pro
+qua dictum est: <hi>pete tibi signum a Domino Deo tuo.</hi> 
+Refert sane Isaias quod Rasin rex Syriae, et Phacee
+filius Romeliae parabant civitatem Jerusalem debellare,
+et rege Acham dejecto, alium ei substituere.
+Prae timore autem hujus periculi commotum est
+cor populi quomodo moventur ligna silvarum a
+facie venti. Ad tollendum itaque hunc timorem missus
+est Isaias a Domino in occursum Acham ut
+diceret: Vide ut sileas, et cor tuum ne formidet a
+duabus caudis titionum fumigantium istorum, eo
+quod absque dubio liberandus esset a facie duorum
+regum illorum. In argumentum igitur futurae liberationis
+proponitur signum juxta arbitrium postulantis: <hi>Pete tibi,</hi> 
+ ait, <hi>signum a Domino Deo tuo in
+<pb n="0608A"/>
+profundum inferni, sive in excelsum supra.</hi> Nolente
+eo signum petere, nihilominus signum promittitur,
+cum dicitur: <hi>Propter hoc dabit Dominus ipse vobis
+signum: Ecce virgo concipiet, et pariet filium,</hi> etc. Si
+hoc, inquiunt, de Christo vestro recte intelligitur,
+quod pro signo promittitur, ostendite quomodo ejus
+conceptio, vel nativitas quae tanto post tempore futura
+erat, potuerit esse signum ejus rei quae in
+proximo futura erat. Debet enim signum rem ipsam
+praecedere, res autem ipsa signo succedere. Si autem
+alterius rei signum dicitur, nihilominus quaestio non
+tollitur. Ad hoc enim signum propositum et dandum
+erat ut instantem metum tolleret. Quomodo autem
+potuit instantem metum tollere rei exitus post tot
+tempora futurae? Denique quomodo vel qualiscunque
+<pb n="0608B"/>
+rei signum eis esse poterat res, quam nunquam
+viderant, nunquam visuri erant? Ecce qualia objiciunt
+ad refellendam veritatem assertionis nostrae.
+Videamus et quae sint illa quibus dealbare nituntur
+opinionem assertionis suae.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>Quomodo Judaei putant totum quod dicitur de Emmanuele intelligi debere de filio prophetissae.</hi> </head>
+<p>Tollatur, inquiunt, de medio quod ponitis
+ex vestro, et videbitis cuncta quae dicuntur convenire
+prophetissae filio. Becula in Hebraeo idem
+sonat quod apud nos virgo. Sed in Hebraeo hoc
+loco non legitur becula, sed alma, quod interpretatur <hi>juvencula,</hi> 
+ vel <hi>abscondita.</hi> Attendite ergo quia
+<pb n="0608C"/>
+illa quae praedicuntur, de filio juvenculae replicantur,
+et impleta videntur in filio prophetissae. Praedicitur
+juvencula quod sit conceptura et paritura filium,
+de prophetissa in sequentibus legitur quia concepit
+et peperit filium masculum. De puero juvenculae
+praedicitur quia antequam sciat puer reprobare
+malum et eligere bonum, derelinquetur terra quam
+tu detestaris a facie duorum regum suorum. De
+puero prophetissae promissio non dissimilis verbis
+aliis replicatur, cum dicitur quia antequam sciat
+puer vocare patrem suum aut matrem suam, auferetur
+fortitudo Damasci, et spolia Samariae coram
+rege Assyriorum. Ecce, ut aiunt, tota capituli continentia
+nobis consonat. Vos per abrupta, nos per
+<pb n="0608D"/>
+planam incedimus viam. Nam tota litterae circumstantia
+reclamante, universiculo adhaeretis. Cum
+autem ab eis quaeritur quomodo futurae liberationis
+signum esse possit quod junioris aetatis femina, vel
+abscondita et secreta concipiat, et pariat, cum hoc
+frequentissime fieri videamus, respondent dicentes:
+In hoc signum erat quod ea quae nunquam conceperat
+in prima ad eam viri accessione conceptura
+erat, et masculum paritura, quae ab ipso populo vel
+matre Emmanuel nominaretur. Ad hoc etiam adhibiti
+sunt duo testes fideles, ut ex eorum testimonio
+palam innotesceret quod ex prima ad eam viri
+accessione concepisset, sicut postmodum, cum tempus
+pariendi adveniret, certissime colligere possent.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Quam impudens omnino hoc loco videatur Judaeorum assertio.</hi> </head>
+
+<pb n="0609A"/>
+<p>Sed dico, nunquid, quaeso, et si viderunt quod
+propheta cum prophetissa coiret, nunquid, inquam,
+et aeque videre potuerunt utrumnam illa concepisset?
+Nunquidnam natura nunquam patitur partum
+legitimam pariendi horam praeterire, vel praevenire,
+intantum ut peritus quilibet legitimam concipiendi
+non dicam diem, sed horam, sed etiam momentum
+ex hora pariendi possit colligere? Sed forte dicturi
+sunt quod diligentia testium tanta erat circa idipsum,
+ut non posset eos iteratio concubitus latere,
+et quod idem concubitus, cujus testes erant, primus
+esset viri accessus ad eam ex signis virginitatis ejus
+<pb n="0609B"/>
+poterant deprehendere, hoc est quod innuunt qui
+eam in prima ad eam viri accessione concepisse
+dicunt. Miror professionis impudentiam. Ecce inquantum
+pro eis agit, designatam puerperam virginem
+esse volunt, inquantum autem pro nobis agit,
+virginem esse nolunt. Sed videant Judaei, videant
+judaizantes nostri, utrum eorum sententia sit vera.
+Constat namque satis quod sit multa turpitudine
+plena. Foedum valde, et nimis deforme concumbenti
+assistere, et signa virginitatis curiosis oculis
+quaerere. Ecce, ut volunt, sub aspectibus honestarum
+personarum tantus propheta et prophetissa
+coeunt, quod lenones et publice prostitutae vix vel
+nullo modo facere possunt. O quanto honestius, o
+<pb n="0609C"/>
+quanto rectius testes adhibiti dicerentur non ad id
+quod subjungitur, sed ad id quod praemittitur! Praemittitur
+autem: <hi>Sume tibi librum grandem, et scribe in
+eo stylo hominis, velociter spolia detrahe, cito praedare <note>(Isa., VIII)</note>
+            </hi>.
+Sed cur, quaeso, libro grandi quod brevissima
+membranula potest comprehendi, nisi forte
+quod saepe brevis materia solet latius explanari, et
+unum atque idem multifarie, multisque modis
+replicari? An forte facit grandem librum quamvis
+sit brevis, sermo interpretabilis ad dicendum, secundum
+illud de quo mihi grandis sermo et interpretabilis
+ad dicendum, et sane quod profundum est
+per mysterium merito dicitur tam magnum quam
+profundum. Erit tamen planius atque apertius, si
+dicimus, quod idcirco in grandi quod fieri solet
+<pb n="0609D"/>
+libro scribi praecipitur, ut memoriter teneatur, et
+ad posterorum notitiam transmittatur. Nam grandes
+libri non tam facile amittuntur, vel de loco ad
+locum transferuntur. Sed quod prius in libro scribitur,
+postmodum prophetissae puero pro nomine
+imponitur, et tam scripturae quam nominis ratio
+adjungitur, cum dicitur: <hi>Voca nomen ejus, accelera,
+spolia detrahe, festina praedari, quia antequam
+sciat puer vocare patrem suum et matrem suam, auferetur
+fortitudo Damasci, et spolia Samariae coram rege
+Assyriorum <note>(ibid.)</note>
+            </hi> Ecce propheta ventura praedixit,
+scripto commendavit, testes adhibuit, ut postquam
+coepissent esse completa, hinc scripto, hinc testimonio
+comprobarentur esse praedicta; et sic ex his
+quae in proximo ventura praedixerat et probari
+<pb n="0610A"/>
+poterant, probarentur et illa vera esse quae in longinquum
+ventura praedixerat et probari non poterant.
+Nonne itaque, ut dictum est, rectius videtur
+dicere quod ad hujusmodi testimonium dicti testes
+adducti essent, quam ut turpitudinis testes existerent?</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>Quomodo propriae objectionis argumentis refellitur sententia Judaicae assertionis.</hi> </head>
+<p>Nunc itaque ut cum Judaeis vel Judaizantibus
+congrediamur ex aequo, sicut illi volunt nos nihil
+addere ex nostro, sic et eodem aequitatis jure exigimus
+ab illis ad verba prophetiae nihil addere ex
+suo. Dicit ergo propheta: Ecce virgo concipiet, vel
+interim, ut ipsi volunt: Ecce juvencula concipiet
+<pb n="0610B"/>
+et pariet filium. Non dicit: Ecce prophetissa concipiet;
+non dicit: Ecce illa, aut illa concipiet; non
+dicit denique juvenculam suam illam concepturam
+ad primam viri accessionem ad eam. Simpliciter
+dicit: Ecce concipiet, et pariet filium, et additur: Et
+vocabitur nomen ejus Emmanuel, butyrum et
+mel, etc. Nunquid eatenus soli filii vetularum, non
+autem juvencularum comedere butyrum et mel consueverunt?
+Nam nostris temporibus indifferenter hoc
+faciunt. Nam illud reliquum quis non videat quam
+sit facile cuilibet juvenculae filio nomen pro arbitrio
+imponere? Filium a juvencula concipi, de juvencula
+nasci, nomen juxta libitum accipere, butyrum
+et mel comedere, quid horum magnum, quid
+<pb n="0610C"/>
+mirum, quid horum novum vel insolitum? Quid
+horum quod debeat accipi pro signo, ut quasi merito
+dicatur de ipso: Propter hoc Dominus dabit ipse
+vobis signum? Dominus, inquit, ipse, quasi tale sit,
+ac tantum quod digne daturus sit non per hominem,
+non per angelum, sed Dominus per semetipsum.
+Sed sane sapienti satis patet quod nihil in his
+omnibus sit praeter quotidianae consuetudinis usum,
+vel quod debeat jure dici, non dicam magnae, sed
+nec mediocris alicujus rei signum, nisi forte dicere
+velint puerum hunc, praeter usum et contra jura
+naturae, scientiam boni et mali, intempestive et ante
+discretionis tempora, ex comestione butyri et mellis
+percepisse, propter illud quod legitur, butyrum
+et mel comedet, ut sciat reprobare malum et eligere
+<pb n="0610D"/>
+bonum. Comedet, inquit, ut sciat. Sed si vere
+constat quod discretionis tempora puer ille anticipavit
+ex tali comestione, fateor et ipse hoc ipsum
+non contemnendae rei signum exstitisse. Sed videamus
+quod sequitur. Nam ibi consequenter adjungitur,
+quia antequam sciat puer reprobare malum
+et eligere bonum, derelinquetur terra quam tu detestaris
+a facie duorum regum suorum. Vide ergo
+et animadverte, quia prius liberanda erat a facie
+duorum regum illorum, quam puer accepisset
+scientiam discernendi bonum et malum. Liberatio
+itaque ejusmodi scientiam praecessit. Non ergo intempestiva
+illa scientia praeteritae liberationis signum
+esse potuit. Nam signum, ut volunt, debet rem
+ipsam praecedere. Res autem significata, signo succedere.
+<pb n="0611A"/>
+Hac itaque ratione sicut illius liberationis
+signum esse non potuit quod dicimus de Emmanuele
+nostro, sic nec illius signum esse potuit quod illi
+asserunt de Emmanuele suo. Nam dicta illa pueri
+scientia quae sola inventa est pro signo esse potuisse
+ex lectione prophetica probatur liberationi succedere.
+Libenter, ni fallor, fratres, accipitis ut caput
+Goliae proprio trucidetur mucrone, et praesumptio
+assertionis Judaicae propria refellatur argumentatione.
+Sed dicunt item quod signum illud ad hoc dandum
+erat, ut instantem tunc temporis timorem tollere
+potuisset. Sed non potuit res quae post tot annos
+futura erat timorem tollere qui tunc instabat. Ad
+hoc ipse respondeo, quia instantis periculi metum
+sicut tollere non potuit res post multos annos futura,
+<pb n="0611B"/>
+sic nec eum auferre potuit res post aliquos menses
+ventura. Si dato signo, ut dicunt, Deus metum illum
+tollere voluit, nunquid manus ejus adeo invalida
+fuit ut eodem die, vel hebdomada, vel eodem saltem
+mense signum dare non posset quod ad tollendum
+timorem omnibus satisfaceret? Quid illis contulit,
+vel conferre potuit sub tanta trepidatione diu
+praestolari signum, quod, cum accideret, esset serum,
+vel penitus nullum? Sexto certe Ezechiae
+anno, ut ex Regnorum libro habemus, Samaria
+capta fuit. Quid ergo dicturi sunt? Nunquid quod
+eorum puer sex annis mutus permansit, quia antequam
+sciret vocare patrem aut matrem Samaria
+capienda fuit? An forte illud magis quod non probant,
+<pb n="0611C"/>
+quia quinto Ezechiae anno prophetia de prophetissae
+puero facta, vel eodem sexto ejus anno,
+et facta, et impleta fuit? Videant ergo Judaei quomodo
+idem signum sit quod Acham promittitur, nec
+exhibitur, et quod sub Ezechia proponitur atque
+completur? Ad ultimum autem dicunt, quia res
+quam nunquam viderant, nunquam visuri erant,
+nullius omnino rei signum eis potuit esse, et idcirco
+nec illum sub quo tunc laborabant potuit timorem
+auferre. Ad hoc iterum respondeo quia dicta prophetia,
+sive intelligatur de illo suo puero, sive de
+nostro, sive de quolibet alio, non poterat omnino
+illum timorem tollere, ob quem tollendum contendunt
+signum datum fuisse, nisi forte dicturi sunt
+juvenculam suam sub tanta festinatione concepisse
+<pb n="0611D"/>
+et peperisse, ut novitas ipsa miraculi et praecipitatio
+inopinatae rei facile posset dejectos animos
+ad fiduciam erigere, et in spei certitudine solidare.
+Sed consulte quidem hoc Judaei dicere nolunt quod
+Scripturae auctoritate probare non possunt, sicut
+nec illud utique audent affirmare, designatum puerum
+ex butyri et mellis comestione discretionis
+scientiam anticipasse, nec accepisse quidem, quamvis
+Scriptura videatur hoc ipsum velle: <hi>Butyrum,</hi> 
+inquit, <hi>et mel comedet, ut sciat reprobare malum et
+eligere bonum <note>(Isa., VII)</note>
+            </hi>. Sed ut in hoc loco consecutivum,
+non causale interpretantur, et ipsum ut,
+prout dicunt, hic proponitur, ac si dicatur: Butyrum
+et mel comedet, et sciet reprobare malum et
+eligere bonum. Et hoc, quaeso, quid magni erit,
+<pb n="0612A"/>
+quod scientiam reprobandi malum et eligendi bonum
+habebit? Nunquid est totum hoc quod dicere
+volunt quod Emmanuel eorum insani capitis non
+erit? Ecce iterum dico, juvenculam concipere et
+parere, juvenculae filium butyrum et mel comedere,
+et insani capitis non esse; quid horum magnum,
+quid horum mirum, quid horum quod debeat credi
+magnae alicujus rei signum? Nihil sane. Alioquin in
+eo quod dico me quasi prophetam habere, ecce
+praedico, ecce futurum promitto, quia juvencula
+concipiet, et pariet filium qui butyrum et mel comedet,
+et qui sciat reprobare malum et eligere bonum.
+Credite ergo in hoc signo; credite, inquam,
+quod dico, quia vestra de vestro Emmanuele sententia
+est falsa, quia nostra de nostro Emmanuele
+<pb n="0612B"/>
+est vera. Nam, si signo quod promitto parati estis
+credere, ut omnis tergiversatio pareat, procurabimus
+et hoc ipsum ne promisso puero Emmanuelis
+nomen possit deesse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Quomodo ex beati Hieronymi responsione sufficienter refellitur quod nobis opponunt de virgine.</hi> </head>
+<p>Quid autem ad illud respondebitur quod nobis
+opponunt de virgine? Nam alma, ut dicunt, quod
+in hoc loco apud eos legitur, non videtur virginem
+sonare. Sed debuit in hoc eis certe beati Hieronymi
+responsio satisfecisse. Nam alma quidem non simpliciter
+virginem sonat, sed cum determinatione, sed cum
+expressione, talem denique virginem ut dedit intelligere,
+<pb n="0612C"/>
+talem, inquam, quae sit juvencula, vel
+quae fuerit abscondita, et tanta parentum diligentia
+custodita, ut dubium non sit quod virgo sit et intacta.
+Certe, qui Aaron pontificem dicit, non simpliciter
+sacerdotem dicit, et tamen sacerdotem
+dicit; nam dicit sacerdotem summum, et sacerdotem
+sacerdotum. Sed et hoc loco debemus intelligere
+alma, hoc nomen non simpliciter, nec nisi
+per expressionem virginem significare. Denique
+B. Hieronymus:  « Quantum, inquit, cum mea pugno
+memoria, nunquam me arbitror alma in muliere
+nupta legisse. Libenter, fratres, accipiamus
+ut nomine alma, non simpliciter virginem, sed virginem
+absconditam intelligamus. Ecce, fratres,
+quid Judaeus opponendo effecit, ecce quomodo sua
+<pb n="0612D"/>
+oppositione intelligere dedit Spiritum sanctum
+(videlicet) designasse virginem, non qualemcunque,
+sed absconsam, et a virorum aspectibus penitus
+sequestratam, quae suorum cura tam diligenter
+sit custodita, ut indubitabile constet quod veraciter
+virgo sit intacta. »  Talem profecto virginem designare
+voluit Evangelicus sermo, cum dixit: <hi>Joseph,
+cum esset vir justus, et nollet eam traducere, voluit
+occulte dimittere eam <note>(Matth., I)</note>
+            </hi>. Si dixisset cum
+esset vir pius, possemus credere ex quadam pietate
+descendere quod eam quam adulteram putabat,
+nolebat traducere. Sed ait, cum esset justus. Non
+itaque tam ex pietate quam ex aequitate descendit
+quod ei parcere voluit. Profecto justus non esset si
+contra aequitatis judicium, legisque praeceptum illi
+<pb n="0613A"/>
+parceret quam adulteram credidisset. Vide ergo
+quid de ejus integritate senserit, quantum de ejus
+sanctitate praesumpserit, qui nec tunc eam credidit
+adulteram cum veraciter sciret, et non de suo
+semine impraegnatam. O quam merito Spiritus sanctus
+almam dixit, de qua tam certa quam sancta
+opinio futura fuit! Sed, si putant Judaei Hieronymum
+nostrum errasse, qui se dicit alma in muliere
+nupta nusquam legisse, deberent testimonio Scripturae
+prolato errorem illius convincere. Sed etsi
+hoc possent, nec sic quidem sententiam nostram
+refellerent. Nam, teste eodem Hieronymo, lingua
+Punica, quae de Hebraeorum fontibus ducitur, proprie
+virgo alma appellatur. Ecce vel hoc saltem
+Judaeos oportet concedere, hoc nomen alma secundum
+<pb n="0613B"/>
+diversas linguas aequivocum esse. Quid ergo
+dicturi sunt Judaei, si dicimus Spiritum sanctum
+posito aequivoco sacramentum consilii sui sub verbi
+ambiguitate velle celari, ut esset unde Judaeus posset
+excaecari, secundum illud: <hi>Excaeca cor populi
+hujus, et aures ejus aggrava? <note>(Isa., VI.)</note>
+            </hi> Quid autem
+dicturi sunt contentiosi Christiani, si dicimus altitudinem
+arcani divini sub verborum ambage abscondi,
+ut esset unde contingeret diabolum infatuari,
+propter illud: <hi>Si enim cognovissent, nunquam
+Dominum gloriae crucifixissent? <note>(I Cor. II.)</note>
+            </hi> Sed vel hoc
+solum coget Judaeos ambiguitatem vocali sub hac
+quam acceptamus acceptione recipere, quia aliter
+signum quod propheta ponit omnino nullum erit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Quomodo Christiani confutandi sunt qui in Isaiae verbis de sententiae nostrae veritate diffidunt.</hi> </head>
+
+<pb n="0613C"/>
+<p>Hucusque contra Judaeos. Dicamus et aliquid vel
+breviter contra contentiosos Christianos. Nunquidnam
+dicturi sunt prophetam Domini spiritum Dei
+non habuisse, nec in Spiritu sancto locutum fuisse?
+Sed absit ut hoc dicant vel credant! Quid autem
+dicturi sunt de Domini evangelista? Idem profecto
+quod de Domini propheta, uterque absque dubio
+eumdem veritatis spiritum habuit, uterque in uno
+spiritu locutus fuit. Si ergo unus spiritus utrobique
+fuit, contraria sibi ipsi sentire non potuit. Si igitur
+aliam quam beatam Mariam intelligere voluit, cum
+per prophetam dicit: <hi>Ecce virgo concipiet et pariet
+<pb n="0613D"/>
+filium;</hi> quid est quod postea per evangelistam eamdem
+exponit prophetiam, cum dicit: <hi>Hoc totum factum
+est ut adimpleretur quod dictum est per prophetam:
+Ecce virgo concipiet et pariet filium,</hi> etc.? <note>(Matth., I)</note>.
+Sicut ergo superius diximus, qui non potest intelligere
+proponentem, audiat vel exponentem. Qui non
+habet oculos ad videndum, habeat vel aures ad
+audiendum. Nunquid et vos sic caeci estis, ut et surdi
+sitis? Quod non potestis intelligere, nunquid non
+potestis vel credere? Si autem creditis, cur fidem
+vestram vanis cavillationibus impugnatis? Quid
+juvat perfidiae argumenta contra fidem adducere, et
+pro fide vestra nullum fidei testimonium dare?
+Quid prodest quaestionem movere quam nolitis, aut
+non possitis solvere? Nonne hoc est cisternam aperire,
+<pb n="0614A"/>
+et sine operculo relinquere? Quid est ambiguitatis
+opacum perplexionisque profundum argumentando
+ostendere, quam puteum effodere, vel
+cisternam aperire? Ad quaestionem antepropositam
+nullam solutionem reddere, sed quasi insolubilem
+relinquere, quid aliud est quam cisternam apertam
+et sine operculo relinquere? Sed si ceciderit bos
+aut asinus in eam, secundum legis praeceptum, dominus
+cisternae reddet pretium jumentorum <note>(Exod.
+XXI)</note>. Sed quid est bovem aut asinum in hujusmodi
+cisternam cadere, nisi simplices quosque dubitationis
+laqueos incidere, et perfidiae periculum incurrere?
+Si autem in scientia nostra perit anima
+pro qua mortuus est Christus, quale, quaeso, pretium
+pro illius multatione daturi sumus? Quae ergo
+<pb n="0614B"/>
+explanare non possumus, aut nolumus, nonne melius
+est tacendo praeterire, quam veritatem absolvere,
+et perfidiae laqueos spargere?</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Quomodo ad ea quae dicuntur de nostro Emmanuele circumstantia litterae videtur non reclamare sed acclamare.</hi> </head>
+<p>Restat nunc studio pie quaerentium occurrere,
+et eorum desiderio inquantum possumus satisfacere.
+Primo itaque monstrandum est quomodo non
+tam nostrae quam cavillatorum nostrorum sententiae
+videatur circumstantia litterae non reclamare, sed
+acclamare, postea autem quibus circumstantiis signum
+ipsum commendetur diligenter attendere. Ad
+ultimum vero signum ipsum discutere, et hoc puto
+<pb n="0614C"/>
+posse sufficere. Illud autem in primis fatendum est,
+nec omnino negari potest, quod sacratiora quaeque
+fidei nostrae sacramenta in dictis prophetarum erant
+obscure prolata. <hi>Tenebrosa</hi> enim <hi>aqua in nubibus
+aeris <note>(Psal. XVII)</note>
+            </hi>. Erant enim quaedam quae scire
+oportebat, et similiter quaedam quae pro tempore
+nesciri ratio exigebat. Propter illud quod et superius
+jam significavimus, ne opus redemptionis nostrae
+impediretur a malignis spiritibus vel hominibus.
+Nam, uti jam dictum est, <hi>si cognovissent, nunquam
+Dominum gloriae crucifixissent <note>(I Cor. II)</note>
+            </hi>. Quae
+igitur in Christi sacramentis ad tempus oportebat
+latere, partim obnubilantur figurarum velamine,
+partim ambiguitate et obscuritate ipsius litterae. Et
+<pb n="0614D"/>
+illorum quidem quae litterae circumjacentis perplexione
+obnubilantur, quaedam hujusmodi sunt ut
+nunquam nisi Spiritu sancto interpretante Christum
+sonare intelligerentur quale est illud: <hi>Ex Egypto
+vocavi filium meum.</hi> Quaedam autem ejusmodi sunt,
+ut superficie tenus inspecta videantur aliud quam
+Christum sonare, diligentius autem discussa et plenius
+intellecta inveniuntur nullo modo posse alienum
+sensum recipere. Talis sane est iste Scripturae
+locus quem modo inter manus habemus. Nam ubi
+dictum est: Ecce virgo concipiet, quaedam praemittuntur,
+quaedam subjunguntur in quibus sententiae
+veritas obnubilatur, non tollitur. Ad obnubilandum
+veritatem juxta arbitrium regis signum proponitur.
+Illo autem petere nolente, nihilominus signum promittitur,
+<pb n="0615A"/>
+et negligentius inspicienti de eodem dictum
+videtur. Plenius autem intelligenti perspicuum apparebit
+illud quod dicitur de Emmanuele ejus rei signum
+non esse. Sed nec esse debere, ejus, inquam,
+rei pro qua dictum est: <hi>Pete tibi signum a Domino
+Deo tuo <note>(Isa. VII)</note>
+            </hi>. Quod ejus rei signum esse non
+possit superius monstrata ratio perdocuit. Quod autem
+ejusdem rei signum esse non debeat, ratio manifesta
+probat. Nam quod rex signum petere noluit,
+non ex pietate, sed impietate descendit. Intellexit
+enim rex astutus et idololatra quomodo idololatriam
+condemnaret, quantum idololatras omnes confunderet,
+ad quantam Domini gloriam assurgeret si, signum
+a Domino petens, accepisset. Ex magna itaque
+malitia signum petere noluit, sed non minori astutia
+<pb n="0615B"/>
+impietatis suae negotium fictae religionis simulatione
+palliavit: <hi>Non petam,</hi> inquit, <hi>et non tentabo Dominum.</hi> 
+Indignum ergo de caetero fuit talem regem
+tollendi timoris gratia signum accipere, qui maluit
+sub instantis periculi trepidatione diutius laborare,
+quam illud fieri unde posset Domini gloriam accrescere.
+Obnubilatio item quaedam veritatis videtur,
+quod puero promisso, puer postmodum natus introducitur,
+ita ut de eodem intelligi posse putetur.
+Sed semper juxta hoc quod ob veritatis obnubilationem
+ponitur, aliquid adjungitur unde veritas convincatur.
+Inveniuntur itaque quaedam similia, quaedam
+dissimilia, quaedam omnino contraria. Ecce de
+Emmanuele dicitur quia antequam puer sciat reprobare
+malum et eligere bonum, derelinquetur
+<pb n="0615C"/>
+terra a facie duorum regum suorum. Simile est
+quod de prophetissae filio legitur quia, antequam
+puer sciat vocare patrem suum aut matrem suam,
+auferentur fortitudo Damasci et spolia Samariae coram
+rege Assyriorum. De illo dicitur quod vocabitur
+nomen ejus Emmanuel. Diversum est autem quod
+de illo praecipitur, voca nomen ejus, accelera, spolia
+detrahe, cito praedare. Non dicit, voca nomen ejus
+Emmanuel. Si et hoc eum nomen habuisse contendunt,
+prolato Scripturae testimonio probent quod
+dicunt. Ibi legimus quod virgo concipiet et pariet.
+Omnino contrarium est quod hic invenimus, quia ex
+viri accessione ad eam legitur puerpera concepisse.
+Non dicam virgo, sed juvencula, vel abscondita.
+<pb n="0615D"/>
+Quomodo esse potuit quae juvenculos filios jam habuit,
+illum videlicet qui Isaiae relictus fuit, et illum
+qui secundum Judaeos ad hostes fugiens patrem dereliquit,
+nisi forte ex Scripturis probare potuerint ex
+alia eos uxore genuisse, et illa mortua istam duxisse,
+vel illa adhuc vivente cum ista adulterasse?
+Ecce cum quanta mentiendi impudentia verum esse
+volunt omne quod procaciter fingunt. Ecce quomodo
+tota circumstantia litterae non nobis, ut ipsi
+volunt, sed illis inventa est reclamare.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX. <hi>De his quae ad signi commendationem pertinere videntur, a quo, quare, vel qualibus detur.</hi> </head>
+<p>Sed antequam signum ipsum discutiatur, consideremus
+prius quibus circumstantiis commendetur.
+<pb n="0616A"/>
+Videamus ergo quibus, vel quare datum sit, quis
+signi dator, vel quale signum quod dedit. Certe domui
+David signum promittitur cum dicitur: <hi>Audite
+ergo domus David <note>(Isa. VII)</note>
+            </hi>. Nonne David erat qui
+hanc a Domino promissionem acceperat: <hi>De fructu
+ventris tui ponam super sedem tuam <note>(Psal. CXXXI)</note>
+            </hi>.
+Quanta, quaeso, gloria domus David erat, quod de
+David progenie Messias mediator Dei et hominum
+nasciturus erat? Imo ad singularem gloriam, vel
+ignominiam eorum hoc ipsum proficiebat, gloriam
+quidem eorum qui grati futuri erant, ignominiam
+eorum qui ingrati futuri erant. Datum est ergo
+domui David signum, non quidem quod tunc intelligeret,
+sed quod illud quod magni cujusdam sacramenti
+signum futurum erat, quiddam singularis
+<pb n="0616B"/>
+praerogativae illis conferret. Quibus datum sit audivimus,
+nunc et quare datum sit audiamus: <hi>Nunquid
+parum est vobis molestos esse hominibus, quia molesti
+estis et Deo meo?</hi> Propter quod Dominus dabit, ipse
+vobis signum. Propter quid? Quia molesti erant. In quo
+molesti erant? In eo quod illi qui de domo David idololatrae
+erant, ejus gloriae invidebant, et idcirco signum
+petere sicut ad illius gloriam fieri nolebant. Dabitur
+itaque signum ad id maxime ad quod maxime
+fieri nolebant. Dabitur autem ad maximam gloriam
+divinam, dabitur illis ad magnam confusionem suam.
+Dabitur procul dubio ad destructionem idololatriae,
+ad confusionem omnis idololatrae. Confundentur
+autem alii ad poenam, alii in poenitentiam. Propter
+hoc quia ei molesti estis, quia ejus gloriam detrectatis,
+<pb n="0616C"/>
+dabit Dominus ipse vobis signum; signum,
+inquam, in quo sit quaedam admiratio divinae potentiae,
+commendatio sapientiae, exhibitio et comprobatio
+misericordiae, accumulatio et consummatio
+gloriae. Et vere gloria Domini magis cumulatur
+ex hoc signo, quam in eo quod creavit coelum et
+terram ex nihilo. Ecce quibus datur, ecce propter
+quid datur. Nunc consideremus et a quo datur: <hi>Dabit,</hi> 
+ inquit, <hi>Dominus ipse.</hi> Non ei potuit sufficere
+ut diceret Dominus, nisi adderet Dominus ipse. Quid
+est Dominus ipse, nisi Dominus per semetipsum?
+Dabit ergo Dominus non per hominem, non per
+angelum, sed per semetipsum. Dabit, inquam, Dominus
+ipse, cui dictum est a Domino: Sede a dextris
+<pb n="0616D"/>
+meis: <hi>Dixit,</hi> inquit, <hi>Dominus Domino meo, sede a
+dextris meis <note>(Psal., CIX)</note>
+            </hi>. Dabit ergo Dominus ipse,
+non per subjectam creaturam, sed per propriam
+praesentiam. Dominus ipse in propria substantia, in
+propria persona. Dabit Dominus ipse vobis. Cur,
+quaeso, in commune dicit vobis, cum non prosit nisi
+solis bonis? Sed merito dicitur vobis in commune
+cum signum quod datur quantum in ipso est omnibus
+sit utile, omnibus pariter possit prodesse. Ecce
+jam habemus, quis, quare dederit, et quibus. Sed
+signum quod tantum effertur, quod tot circumstantiis
+commendatur, ex cujus commendatione, vel comparatione
+primum illud despicitur, debet dignioris
+liberationis praesagium esse, quam ejus cujus probatur,
+nec esse posse, nec esse debere. Nunquid
+<pb n="0617A"/>
+forte erit signum liberationis de manibus regis Babylonis?
+Sed audi quid in sequentibus dicitur: <hi>Adducet Dominus super te, et super populum tuum,
+et super domum patris tui dies qui non venerunt a
+diebus separationis Ephraim Juda cum rege Assyriorum.</hi> 
+Dicit itaque eos non liberandos, sed opprimendos
+in manibus regis Babyloniae, ne forte putetur
+ejus rei signum fore, quin potius in ultionem illatae
+molestiae, in vindictam divinae injuriae videtur propheta
+ejusmodi minas intonasse. Radet Dominus in
+novacula conducta in his qui trans flumen sunt in
+rege Assyriorum caput, et pilos pedum, et barbam
+universam. Cujus ergo rei signum dicetur id quod
+de Emmanuele nostro legitur?</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>Quomodo ex signi qualitate perpenditur quod tollendae primae praevaricationis causa datum videatur.</hi> </head>
+
+<pb n="0617B"/>
+<p>Sed cum coeperimus signi ipsius qualitatem
+discutere, dabitur fortassis ipsum quod quaerimus
+ex qualitatis ipsius modo posse perpendere. Libet
+ergo signum ipsum inspicere, et ejusmodi considerationi
+diligentius insistere: <hi>Ecce,</hi> inquit, <hi>virgo
+concipiet et pariet filium, et vocabitur nomen
+ejus Emmanuel; butyrum et mel comedet, ut sciat
+reprobare malum et eligere bonum <note>(Isa. VII)</note>
+            </hi>. Ecce
+totum hoc quod de Emmanuele nostro dicitur ad
+originalem culpam quasi ex obliquo respicere et
+velut ex opposito respondere videtur, ibi per serpentem
+de ligno scientiae boni et mali dicitur: <hi>Quacunque
+<pb n="0617C"/>
+die comederitis ex eo, aperientur oculi vestri
+et eritis sicut dii scientes bonum et malum <note>(Gen.
+III)</note>
+            </hi>. Hic e regione simile aliquid ponitur, nisi quod
+hic veraciter, quod ibi fallaciter repromittitur. Sane
+comestio hic ad meritum, illic fuit ad reatum, quod
+illic praevaricationis, hic fuit virtutis. Iste noster
+Emmanuel scientiam boni ac mali comedendo obtinuit,
+ille promissam sibi scientiam comedendo obtinere
+non potuit. Ibi legitur quod homo ejectus sit de
+paradiso, quasi de Domini contubernio atque consortio,
+hic de hoc nostro puero dicitur quod Emmanuel
+sit dictus, quod interpretatur <hi>nobiscum Deus.</hi> </p>
+<p>Ubi notandum quod non dicitur de Deo, quod
+nos simus secum. Sed e converso de nobis dicitur
+quod ipse sit nobiscum, ut intelligamus non quasi
+<pb n="0617D"/>
+hominem reversum ad Deum, sed Deum quasi evestigio
+hominem secutum usque in exsilium, sicut
+scriptum est: <hi>Visitavit nos oriens ex alto <note>(Luc. I)</note>
+            </hi>.
+Quod igitur homo perdidit, in primo homine, scilicet
+cum Deo esse, hoc videtur in novo homine recuperasse,
+ibi ad mulierem dicitur: <hi>In dolore paries
+filios <note>(Gen. III)</note>
+            </hi>, hic de hac nostra puerpera dicitur: <hi>Ecce virgo concipiet, et pariet filium.</hi> 
+ Sed quare illa
+peperit non sine dolore, nisi quia non concepit sine
+libidine? Libido sane causa doloris, et dolor effectus
+libidinis. Ex effectu igitur causa innuitur in eo
+quod dicitur in dolore paries filios. Econtrario autem
+simul et e converso hic ex sublatione causae
+perpenditur effectus ipsius sublatio. Quae enim concepit
+cum virginitate concepit sine libidine, consequenter
+<pb n="0618A"/>
+intelligitur peperisse sine dolore. Ibi nec
+conceptus sine culpa nec partus sine poena, hic quia
+conceptio sine concupiscentia, et parturitio sine
+pressura. Quod igitur humana natura perdidit in
+puerpera prima (scilicet concipere et parere sine
+corruptione) hoc in hac puerpera nostra, velut quasdam
+reparationis suae primitias videtur recepisse.
+Videtis quomodo homo contra hominem, mulier contra
+mulierem ponitur; et modo ex opposito, modo
+ordine contrario, et simili quadam dissimilitudine
+sibi invicem respondere videntur. Illic femina de
+viro solo, hic vir de femina sola. Ibi ex fortiori sexu
+fragiliori fortior fructificatur, qui utrumque repararet.
+Videsne tanta similitudinis dissimilitudo,
+dissimilitudinisque similitudo quomodo nos admonet
+<pb n="0618B"/>
+quoddam novitatis principium in istis sicut
+quoddam vetustatis principium exstitisse in illis? In
+primo homine quaedam vetustatis inchoatio in posteritatis
+suae condemnationem. In secundo homine
+quaedam novitatis inchoatio in generis sui restaurationem.
+Ille itaque Adam primus caput est et origo
+omnium pereuntium, iste velut quidam alter Adam
+caput est et principium omnium in ipso resurgentium.
+Ipsum enim caput habemus, ipsius omnes nos
+membra sumus quotquot in ipso resurgimus. Ecce
+qualitas ipsius signi ostendit quod tollendae primae
+praevaricationis causa datum fuerit. Ecce quod de
+Emmanuele dicitur datum est ad remedium: sed
+quomodo in signum? An forte quod factum est in
+capite, signum est ejus quod futurum est in corpore?
+<pb n="0618C"/>
+An forte quod in capite praecessit in corpore ipsius
+aliud agit, aliud praesagit, atque aliud est quod interim
+actitat atque aliud quod in futurum praesignat?
+Operatur interim quae sunt ad justificationem, praesignat
+in posterum quae sunt ad glorificationem.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XI. <hi>Quomodo ex prima proevaricatione triplex damnum, et secundum damnum triplex, triplex promissum, et item secundum triplicem promissionem triplex signum.</hi> </head>
+<p>Sed quia haec, ut dictum est, quae dicuntur de
+nostro Emmanuele primae hominis praevaricationi
+quasi ex opposito videntur respondere, videamus
+quae sint illa quae ex eadem originali culpa perdiderit,
+<pb n="0618D"/>
+et tunc forte videbimus in cujusmodi spei firmamentum,
+argumentumque certissimum hoc quod
+loquimur signum promissum, vel praestitum fuerit.
+Perdidit sane ex culpa suae praevaricationis gloriam
+incorruptionis, praerogativam dignitatis, abundantiam
+plenitudinis: gloriam incorruptionis qua immortalis
+factus est, praerogativam dignitatis qua ad
+Dei similitudinem factus est, abundantiam plenitudinis
+qua in loco voluptatis positus est. Denudationem
+immortalitatis audi ubi de ligno vetito legis: <hi>Quacunque die comederis ex eo, morte morieris <note>(Gen. II)</note>
+            </hi>,
+honoris degradatio dignitatisque detractio
+fuit, ubi de illa sublimitate similitudinis Dei recidit
+in similitudinem jumenti: <hi>Homo,</hi> inquit, <hi>cum in
+honore esset, non intellexit, comparatus est jumentis
+<pb n="0619A"/>
+insipientibus, et similis factus est illis <note>(Psal. XLVIII)</note>
+            </hi>.
+Evacuatus est autem abundantia plenitudinis, quando
+ejectus de loco voluptatis incurrit in illam sententiam
+maledictionis: <hi>Maledicta terra in opere
+tuo, in laboribus comedes ex ea cunctis diebus vitae
+tuae. Spinas et tribulos germinabit tibi, et comedes
+herbas terrae, in sudore vultus tui vesceris pane tuo <note>(Gen. III)</note>
+            </hi>.
+Ecce triplex damnum in exspoliatione
+incorruptibilitatis, dignitatis, beatitudinis. Sed misericors
+et miserator Dominus secundum divitias
+bonitatis ejus noluit tenere in ira sua misericordias
+suas, sed tam pius inventus est ad subveniendum,
+quam pronus inventus est diabolus ad perdendum,
+quia apud Dominum misericordia, et copiosa apud
+eum redemptio. Copiosa autem redemptio non esset,
+<pb n="0619B"/>
+nisi reparator noster dejectum hominem ad plenum
+restauraret. Secundum itaque triplex damnum, ex
+miseratoris sui munere accipit triplex promissum:
+Promissum recuperandae immortalitatis, promissum
+recuperandae dignitatis, promissum recuperandae
+beatitudinis: <hi>Vivent mortui tui, interfecti mei resurgent <note>(Isa. XXVI)</note>
+            </hi>.
+Ecce repromissio sperandae immortalitatis: <hi>Dabo eis in domo mea, et in muris
+meis locum et nomen melius a filiis et filiabus 
+ <note>(Isai. LVI)</note>
+            </hi>.
+Ecce repromissio reparandae dignitatis: <hi>Oculus
+non vidit absque te, Deus, quae praeparasti diligentibus
+te <note>(Isa. LXIV; I Cor. II)</note>
+            </hi>. Ecce repromissio restaurandae
+felicitatis. Ecce, ut dictum est, triplex promissum,
+secundum triplex damnum; et ecce nunc
+<pb n="0619C"/>
+item secundum triplex promissum, accipe et animadverte
+in his triplex signum: <hi>Ecce virgo concipiet
+et pariet filium,</hi> ecce primum. <hi>Et vocabitur nomen
+ejus Emmanuel,</hi> ecce secundum. <hi>Butyrum et
+mel comedet, ut sciat reprobare malum et eligere bonum,</hi> 
+ecce tertium. Habes igitur unum signum in
+matre, duo in prole. Signum incorruptionis in matre;
+signum recuperandae dignitatis et plenitudinis
+in prole.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII. <hi>De signo recuperandae incorruptibilitatis.</hi> </head>
+<p>Audi de matre: <hi>Ecce virgo concipiet, et pariet
+filium <note>(Isa. VII)</note>
+            </hi>. Quantum hoc esse putas? Quam
+magnum, quam mirum, quam insolitum, quam stupendum
+quale vel quam magnae rei signum? A saeculo
+<pb n="0619D"/>
+non est auditum virginem concepisse, virginem
+parere, et post partum inviolatam permanere. Accipit
+ergo natura humana in B. Virgine Maria
+quasdam quasi arrhas vel primitias futurae incorruptibilitatis
+suae, integritatem incorruptionis virgineae.
+Quare, quaeso, in hac vita sine corruptione
+non vivitur, nisi quia natura humana sine corruptione
+non seminatur? Radix enim nostrae corruptibilitatis
+germinare incipit ab ipsa hora conceptionis.
+Sed ecce in beata Maria ibi praecipitur unde
+germinasse videbatur. Et scimus quidem quoniam
+cum radix praeciditur, tota ex ea fructificatio postmodum
+exsiccatur: <hi>Ecce,</hi> inquit, <hi>virgo concipiet,
+et pariet filium.</hi> In eo sane quod dicitur virgo conceptura,
+et virgo paritura, aperte monstratur quod
+<pb n="0620A"/>
+utraque futura erat munda, et caro generans, et
+caro generata. Potuit ergo solus hujus puerperae
+filius pro hac parte cantare canticum novum Domino.
+Sine iniquitatibus conceptus sum, et sine
+peccatis concepit me mater mea. Manifestum est
+itaque quod ad destructionem peccati venit, qui in
+ipso mundi ingressu maculam peccati de materna
+carne non contraxit, sed delevit. Si tantum sola
+ejus conceptio valuit ut concupiscentiae fomitem,
+totiusque corruptionis radicem deleret, quid, quaeso,
+in expiationem corporis sui valere potuit nativitas,
+humilitas, circumcisio, conversatio, patientia, obedientia,
+passio, crucifixio? Si tantum valuit quod
+gestum est una hora vel unius potius horae portiuncula,
+quid valere potuerunt tot annorum tempora
+<pb n="0620B"/>
+in mysterium nostrae redemptionis impensa?
+Qui potuit sub conceptionis suae tempora ex infusione
+gratiae suae materna viscera purgare, cur non
+credatur eos qui ejusdem gratiae participes esse
+voluerunt quando et quomodo voluerit posse mundare?
+Cur non credatur in quolibet nostrum naturam
+illam mundare posse, quam in B. Virgine potuit
+non solum purgare, sed et honorare, sed et glorificare?
+In eo enim eam glorificavit quod ei aliquid
+supra naturam dedit. Fecit siquidem in ea aliquid
+quod fuit contra naturam, aliquid quod fuit
+secundum naturam, aliquid quod fuit supra naturam.
+Contra naturam infirmitatis nostrae fuit, quod
+virgo concepit. Secundum naturam fuit, quod in
+vulva conceptus et formatus, et tandem secundum
+<pb n="0620C"/>
+legitima nascendi tempora natus fuit. Supra naturam
+non solum hujus infirmitatis nostrae, sed
+etiam supra naturam conditionis primae fuit, quod
+sine virili semine virgo concepit. Puritatis fuit,
+quam sine concupiscientia seminare potuit. Honoris,
+quod prolem ab omni peccati contagio mundam effudit.
+Gloriae, quod non de viro, sed de Spiritu sancto
+concepit. Certe, si Emmanuel noster de utroque
+sexu nasci voluisset, et hoc ratio exigeret, utrumque
+ad mundam prolem seminandam mundare potuisset.
+Sed, si de utroque carnem assumeret, utique
+et a proprietatis suae similitudine longius recederet,
+et ad nostram minus appropinquaret. Proprietati
+enim suae esset dissimile, si patrem et matrem
+<pb n="0620D"/>
+haberet in humanitate, qui solummodo patrem habebat
+in divinitate. In hoc item et nobis dissimilior
+esset si duos (quod nos non possumus) partes haberet.
+Sed et ratio sane exigebat, ut sicut unum
+principium erat in generis nostri propagatione, sic
+esset et unum principium in generis nostri reparatione.
+Oportuit ergo reparatorem generis nostri, aut
+de solo viro, aut de sola femina nasci. Sed, si de viro
+sexum femineum assumeret, ordinem naturae confunderet,
+qui femineum sexum supra virilem extolleret:
+et idem ipse diceretur filius ex divinitate, et
+filia ex humanitate. Sed, si virilis esset sexus quem
+assumeret, et virilis de quo assumeret, haberet sane
+vir geminum pro hac parte honoris solatium; femina
+nullum. Et certe, si de viro formari voluisset, materiam
+<pb n="0621A"/>
+quidem de carnis nostrae substantia traheret;
+sed in ejus incarnatione naturae operatio nihil haberet;
+et in hoc a naturae nostrae proprietate longius
+discederet. O quantum honoris vel dignitatis mulieribus,
+vel ex mulieribus natis in eo contulit quod
+Creator omnium, et Salvator hominum nascentium
+more ex muliere nasci voluit! Ex muliere itaque
+debuit nasci, quem oportuit in quantum ratio sustinuit
+per omnia fratribus assimilari. Sed quod muliebrem
+de muliebri sexu assumere non debuit, ratio
+superius monstrata ostendit. Nam et ordinem,
+ut dictum est, naturae confunderet et geminato in
+hoc mulierum solatio virilis sexus singularis privilegii
+nil simile haberet.</p>
+<p>Notandum autem quod Deus praescius futurorum
+<pb n="0621B"/>
+ordinavit hinc inde geminum sexum secundum congruentiam
+duorum statuum sibi succedentium. Ibi
+de sexu fortiori fragilior producitur, quando de
+Adam et Eva formatur. Sic et status statum subsequitur,
+et meliore sublato deterior subintroducitur.
+Prior fuit ante peccatum, quando potuit homo viriliter
+stare et fortiter agere. Secundus post peccatum,
+quando oportuit eum muliebriter vivere, et
+carnali illecebrae multiformiter subservire. Hic autem
+e converso de infirmiori sexu fortior gignitur,
+quando de altera quasi Eva quae vere est mater omnium
+vere viventium secundus Adam generatur. Sic
+hic post unum statum alius exsurgit, et deteriori
+melior succedit. Et prior quidem ante resurrectionem,
+<pb n="0621C"/>
+in quo oportet saepe cadere, saepe resurgere,
+et muliebriter titubare. Secundus autem post resurrectionem,
+quando poterit homo in perfectionis suae
+integritate immobiliter permanere. Et sicut de inferiori
+sexu in virgine creditur, quia fuit quando
+peccare potuit, et fuit quando peccare non timuit;
+sic et in priori statu quilibet electus ante mortem
+lapsum timet, post mortem omnino peccati lapsum
+non timet. Et sicut fortior sexus in Christo omnino
+peccare non potuit, sic in secundo statu homo in
+aeternum peccare non timebit.</p>
+<p>Et notandum in matre, ejusque prole; quia in
+matre caro mundata, in prole non mundata, sed
+munda; in illa purgata, in ista pura: sic in primo
+statu natura nostra purgatur, in secundo penitus
+<pb n="0621D"/>
+pura invenitur. In priori sanctificatur, in posteriori
+glorificatur. Prior itaque est purificationis et sanctificationis;
+secundus puritatis et glorificationis. Habemus
+itaque in matre signum purificationis et
+sanctificationis nostrae, habemus in prole signum
+futurae puritatis et glorificationis nostrae. Signum
+tamen utriusque status in sola virgine matre notare
+possumus. Signum purificationis nostrae quando
+aliquid adhuc habuit quod emundari oportuit,
+signum puritatis nostrae, quando post Spiritus sancti
+obumbrationem, peccati fomite exstincto in sua
+puritate permansit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>De signo recuperandae dignitatis.</hi> </head>
+<p>Ecce jam unum signum habemus in matre; habemus
+<pb n="0622A"/>
+et aliud in eo quod dicitur de ejus prole: <hi>Et vocabitur nomen ejus Emmanuel 
+ <note>(Isai. VII)</note>
+            </hi>.
+Certe secundum quod ab evangelista dicitur, haec
+prophetia in Christo impletur. Ergo Emmanuel
+vocatur. Sed, quaero, nuncupative an substantive?
+Sed quis nuncupative eum Emmanuel dicit, quin
+potius Jesum secundum quod angelus docuit? Non
+igitur nuncupative, sed substantive hoc dicitur.
+Emmanuel autem interpretatur <hi>nobiscum Deus.</hi> Si
+ergo substantialiter, si veraciter hoc dictum est;
+ergo veraciter et substantialiter hoc est. Ergo puer
+hic noster substantialiter Deus est, et substantialiter
+nobiscum est. Si autem substantialiter nobiscum
+est, consequenter et Deus, et homo est. Sed quid
+hoc loco Judaei dicturi sunt, vel quid dicere poterunt?
+<pb n="0622B"/>
+Nunquid probare poterunt ex testimonio alicujus
+scripturae puerum suum vel Emmanuel dictum nuncupative,
+vel ex professione alicujus sectae dictum
+Emmanuel substantive? Aut quae eit ratio nominis,
+ut pro illo puero dicatur esse Deus cum eis? Quomodo
+ergo cum eis? Praesentia majestatis suae, an
+participatione gratiae? Sed quid magnum est esse
+cum hominibus, quomodo est cum daemonibus?
+Essentialiter namque ubique est, et ejus praesentiam
+nihil effugere potest. An forte cum sanctis Patribus
+secundum participationem gratiae catenus non fuit,
+sed sub praesentia illius eorum pueri esse coepit?
+Quis hoc, nisi insanus, dicat, vel dicere praesumat?
+Sed certe, nisi fallor, nec hoc dicere audebunt,
+<pb n="0622C"/>
+quod abundantiorem prae caeteris qui ante eum fuerunt
+gratiam, vel acceperit per semetipsum, vel alii
+propter ipsum. Quid ergo dicetur? Qua ratione ex
+praesentia hujus pueri Deus veraciter et substantialiter
+nobiscum, ut dictum est, esse credetur, nisi
+quomodo omnes Christiani fatentur ex conjunctione
+suae naturae et nostrae in unitatem unius ejusdemque
+personae? Recte ergo Emmanuel; recte nobiscum
+Deus dicitur, qui in unitate nostrae naturae
+verus Deus comprobatur. Audi et evangelistam
+quomodo concurrit in eamdem sententiam. <hi>Ideoque
+quod ex te nascetur sanctum vocabitur Filius Dei <note>(Luc. I)</note>
+            </hi>.
+Ecce quomodo Deus. Sed quomodo nobiscum
+Deus, nisi quomodo alius evangelista exponit,
+cum dicit, quia <hi>Verbum factum est et habitavit in nobis?</hi> 
+<pb n="0622D"/> <note>(Joan. I.)</note> 
+ Si Verbum caro factum est, si vere Dei Filius
+incarnatus est, advertis, ut arbitror, quomodo
+quam vere Deus nobiscum est, nisi forte putes Dei
+Verbum, Dei Filium aliud esse quam Deum. Sed audi
+docentem: <hi>In principio,</hi> inquit, <hi>erat Verbum, et
+Verbum erat apud Deum, et Deus erat Verbum <note>(ibid.)</note>
+            </hi>.
+Ecce item magnum, ecce mirabile signum, et quod
+vere esse possit magnae et admirandae rei signum.
+Magnum sane signum, et mirabile sacramentum,
+Filium Dei fieri Filium hominis, Dominum majestatis
+participem fieri nostrae infirmitatis. Quis ergo diffidat,
+imo quis merito non praesumat hominem per
+Deum participem posse et debere fieri Divinitatis,
+si Deus propter homines factus est particeps nostrae
+humanitatis? Alioquin gratis Christus semetipsum
+<pb n="0623A"/>
+exinanivit formam servi accipiens, et habitu inventus
+ut homo. Nunc igitur si Deus propter homines
+factus est Filius hominis per nativitatem, cur non
+multo magis homo per Deum fiat Filius Dei per
+adoptionem? Ecce quomodo dignatio illa divinae
+humiliationis data sit in signum futurae nostrae exaltationis.
+Sed illud quoque non negligenter praetereundum,
+quod Emmanuel noster factus est nobiscum
+Deus, non solum nostrae susceptione naturae,
+verum etiam cohabitatione peregrinationis nostrae.
+Sed cur, quaeso, Deus hominem prosecutus est usque
+in exsilium, nisi ut eum post se revocaret ad
+regnum? Habemus ergo certissimum repatriandi signum,
+familiare illud in hac nostra peregrinatione
+divinae cohabitationis contubernium. Certe quoquot
+<pb n="0623B"/>
+Christi tempora praecesserunt, post mortem ad inferni
+claustra descenderunt. Ecce exsilium post exsilium,
+captivitas post captivitatem: <hi>Quis est,</hi> inquit, <hi>homo qui vivet, et non videbit mortem: eruet animam
+suam de manu inferi? 
+ <note>(Isa. LXXXVIII.)</note>
+            </hi> Ad tollendum
+itaque timorem tantae captivitatis, ad removendum
+metum futurae damnationis datus est nobis noster
+Emmanuel in signum, exhibens nobis, ut dictum
+est, familiare contubernium. Nam, ecce post passionem
+et resurrectionem Christi, nemo creditur
+descendere ad inferos ex his qui sunt ad vitam praedestinati.
+Ecce ad qualem liberationem sperandam;
+ecce ad qualem timorem tollendum datum est illud
+quod loquimur signum. O quanto satius! o quanto
+salubrius datum est signum in redemptionem captivitatis
+<pb n="0623C"/>
+diabolicae, quam in liberationem de manu
+regis Syriae et filii Romeliae! Hoc est sacramentum
+quod daemones latere oportebat; hoc est mysterium
+quod perfidos Judaeos scire non expediebat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>De signo recuperandae felicitatis.</hi> </head>
+<p>Ecce jam habemus signum post signum. Restat
+autem adhuc et tertium: <hi>Butyrum,</hi> inquit, <hi>et mel
+comedet <note>(Isa. VII)</note>
+            </hi>. Si intelligis quae legis, si recolis
+quae audis, citius animadvertis quam magnum,
+quam profundum mysterium, et quam admirandae
+rei signum, eum puerum qui vere nobiscum Deus
+est; eum qui vere Dei unigenitus est, comedere, et
+bibere, et humanis necessitatibus seipsum sponte
+<pb n="0623D"/>
+subjicere. Ille, cujus gloriam vidimus, gloriam
+quasi unigeniti a Patre, ille dicitur butyrum et mel
+comedere. Ecce tremenda illa potestas potestatibus
+angelicis comedendo et bibendo communicavit hominibus
+et jumentis. Si Dominus itaque angelorum
+propter homines factus est particeps jumentorum,
+cur e diverso homo per ipsum non multo magis fiat
+particeps angelorum? <hi>Butyrum,</hi> inquit, <hi>et mel comedet.</hi> 
+Cur non potius panem et carnem dicit? Nam et
+hoc veraciter dicere potuit. Aliquid fortassis in eo
+innuere voluit, qui ista specialiter expressit. Quid
+sunt autem mel atque butyrum, nisi deliciae muscarum?
+et certe hoc immundarum, illud venenosarum,
+Nam apes aculeum portant, et venenum habent. Et
+vide quomodo pro melle laborant, vel pugnant, ita
+<pb n="0624A"/>
+ut saepe etiam animas in vulnere ponant. Butyrum
+autem, ut nostis, pinguedo est lactis, et scimus certe
+quomodo muscae ex nimia ingluvie lacti se ingerunt
+et immergunt, modo et vitam deponunt. Emmanuel
+itaque noster butyrum et mel comedit, et propter
+nos usque ad muscarum participationem descendit.
+Siccine Deo parum fuit propter homines participare
+cum jumentis, nisi propter eos etiam participaret
+cum muscis? Audiant Judaei, audiant hoc Christiani,
+audiant universi. Ecce una in Trinitate personarum
+propter homines facta est particeps muscarum. Quis
+ergo desperet de caetero hominem posse fieri participem
+aeternarum deliciarum, si Dominus majestatis,
+ut dictum est, propter homines descendit usque ad
+delicias muscarum? Ecce quantum semetipsum propter
+<pb n="0624B"/>
+nos exinanivit, qui se tali indigentiae sponte
+subjecit. Sed haec, ut dictum est, exinanitio nostri
+Redemptoris data est in signum, et certissimum
+argumentum futurae nostrae plenitudinis. Ecce juxta
+triplex promissum habes et triplex signum. Unum
+in matre, duo in prole. Hinc integritatem virginis,
+illinc humiliationem et exinanitionem divinae prolis.
+Vides et illud jam, ut aestimo, quomodo hoc triplex
+signum respondet e regione triplici promisso. Promissum
+est Judaeo: <hi>O mors, ero mors tua; morsus
+tuus, inferne <note>(Ose. XIII)</note>
+            </hi>. Promissum est Christiano: <hi>Oportet corruptibile hoc induere incorruptionem, et
+mortale hoc induere immortalitatem 
+ <note>(I Cor. XV)</note>
+            </hi>. In
+signum autem hujus repromissionis, et velut quamdam
+arrham muneris accipit uterque integritatem
+<pb n="0624C"/>
+virgineae incorruptionis. Promissum est Judaeo: <hi>In
+loco ubi dictum est: Non populus meus vos; dicetur eis:
+Filii Dei viventis <note>(Osee. I)</note>
+            </hi>. Promissum est Christiano: <hi>Beati pacifici, quoniam filii Dei vocabuntur 
+ <note>(Matth. V)</note>
+            </hi>.
+In signum autem hujus repromissionis accipit uterque
+humiliationem sui Redemptoris, susceptionem
+scilicet nostrae infirmitatis. Dictum est Judaeo: <hi>Inebriabuntur
+ab ubertate domus tuae, et torrente voluptatis
+tuae potabis eos <note>(Psal. XXXV)</note>
+            </hi>. Dictum est Christiano: <hi>Ego dispono vos sicut disposuit mihi Pater,
+ut edatis et bibatis super mensam meam in regno Patris
+mei 
+ <note>(Luc. XXII)</note>
+            </hi>. Signum vero hujus muneris
+accipit uterque in exinanitione summae majestatis.
+Ecce quomodo triplex illa promissio confirmatur in
+<pb n="0624D"/>
+hoc triplici signo: Ut sit signum incorruptio incorruptionis,
+humiliatio exaltationis, exinanitio futurae
+plenitudinis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV. <hi>Ad quam humilem scientiam Deus propter hominem descendit, qui et bonorum et malorum nostrorum experientiam suscepit.</hi> </head>
+<p>Ad hoc autem quod dictum est, butyrum et mel
+comedet, statim adjungitur: <hi>Ut sciat reprobare malum,
+et eligere bonum <note>(Isa. VII)</note>
+            </hi>. Nunquid ergo credendum
+est quod comedendo ullam ejusmodi scientiam
+obtinuerit? Utique non ego, sed propheta hoc
+dicit. Non est nostrum propheticum sensum pervertere,
+sed investigare; et si datur explanare, et quae
+penetrare non possumus, saltem venerari debemus.
+<pb n="0625A"/>
+Sed dicit mihi contentiosus Christianus: Si Christus
+Dei Verbum Dei sapientia fuit, scientiam aliquam
+quomodo ex tempore obtinere potuit quam prius
+non habuit? Interrogat hoc Christianus, interrogo et
+ego Christianum quomodo Christus ex his quae passus
+est didicit obedientiam <note>(Hebr. V)</note>. Nam et Apostolus
+hoc dicit, quis contradicat? Dicat autem mihi,
+quomodo ex his quae passus est Christus obedientiam
+didicit, et ego dicam ei quomodo secundum
+aliquem modum aliquam scientiam obtinuit, quam
+secundum eumdem modum eatenus non habuit.
+Dicit mihi Judaeus, dicitis quia Emmanuel vester
+Deus fuit. Cum ergo scriptum sit: <hi>Quia omnis sapientia
+a Domino Deo est, et cum ipso fuit semper <note>(Eccli. I)</note>
+            </hi>,
+quomodo ex tempore aliquam scientiam
+<pb n="0625B"/>
+accepit? Sed dicat Judaeus quomodo lignum vetitum,
+lignum scientiae boni et mali dictum sit, et
+tunc forte simul inveniemus quod quaerit. Certe
+lignum vitae ex eo nomen habuit, quod ex insita
+sibi natura ex eo comedentium vitam servare posse
+accepit. Sed de ligno scientiae nihil simile credere
+oportet. Alioquin ex ejus esu hominis scientia
+cresceret, non decresceret. Non ergo ejus rei effectum,
+sed occasionem praestitit. Nam bona quidem
+ante esum vetitum per intelligentiam simul et experientiam
+noverat, mala autem per experientiam
+omnino nesciebat. Ad hanc autem malorum scientiam
+quae per experientiam est, ex ligni comestione
+pervenit. Similiter erant quaedam egena et infima
+bona ad quorum usum peccando descendit, quorum
+<pb n="0625C"/>
+experientiam prius felicius ignoravit. Sic et Christus
+postquam semetipsum exinanivit et formam servi
+accipiens factus est obediens Deo Patri, per experientiam
+didicit, quod prius per experientiam nescivit
+juxta hunc modum didicit ex usu comestionis
+quid esset inter malum famis et bonum refectionis.
+Butyrum et mel comedendo eodem modo coepit
+edoceri quale sit ad similitudinem Dei creatum muscis
+assimilari. Experiendo didicit quam indigna
+soleat nobilis illa creatura Dei pati, et eo ipso quomodo
+oporteat illi compati, vel illius misereri. Debuit
+enim, ut ait Apostolus per omnia fratribus assimilari,
+ut misericors fieret <note>(Hebr. II)</note>. Comedendo
+ergo secundum aliquem modum scire potuit quod
+<pb n="0625D"/>
+secundum eumdem modum prius ignoravit. Certe
+post resurrectionem suam legitur Emmanuel noster
+mel comedisse, obtulerunt enim ei partem piscis
+assi, et favum mellis. Quod ante passionem et resurrectionem
+comedit, fuit ad refectionem, quod
+post resurrectionem comedit, fuit ad solam dispensationem.
+Quod igitur ante resurrectionem comedit,
+potuit valere ad reprobationem mali: nam malum
+non solum cognoscitur ex qualitate sui, sed plenius
+atque perfectius cognoscitur ex comparatione et collatione
+boni. Comestio igitur quae fuit ad refectionem
+potuit esse ad reprobationem mali, seu etiam ad
+approbationem boni. Sed non ibi dictum est, ut
+sciat reprobare malum et approbare bonum, sed
+eligere bonum. Eligere autem est proprie de bonis
+<pb n="0626A"/>
+optima secernere. Illa ergo comestio post resurrectionem
+ad electionem boni fuit, in qua quod optimum
+fuit probavit. Ibi experiendo probavit quid sit
+inter illum statum quo infirmitas comedere compellit
+ad carnis refectionem, et inter illum quo charitas
+comedere consentit ad solam dispensationem. Sed
+quia malum, ut dictum est, plenius cognoscitur ex
+comparatione boni, et bonum eadem ratione ex
+comparatione optimi: illa sane resuscitati comestio
+non solum valuit ad mali reprobationem, verum
+et ad boni approbationem, et ad ejusdem electionem.
+Ad plenitudinem itaque ejus scientiae, quae per
+experientiam est, Christus pervenit, quando post
+gloriam resurrectionis cum discipulis comedit. Certe,
+ut superius dictum est, in hanc experientiam malorum,
+<pb n="0626B"/>
+vel egenorum bonorum Adam primus comedendo
+noscitur cecidisse; ecce ad eamdem Adam
+secundus comedendo agnoscitur descendisse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>Quod per humilem illam quam suscepit supereminentis scientiae plenitudinem naturae nostrae acquisivit.</hi> </head>
+<p>Ecce ad qualem, ecce ad quam humilem scientiam
+Deus propter homines descendit, qui et malorum
+et bonorum nostrorum experientiam suscepit, sed
+in eo ipso naturae nostrae acquisivit, non solum
+illam quam primus homo perdidit, verum etiam
+illam quam quidem non vetitum edendo, sed abstinendo
+acquirere potuit. Certe, ante praevaricationis
+reatum per experientiam, novit homo quid esset
+<pb n="0626C"/>
+interesse gaudiis paradisi. Sed necdum per experientiam
+noverat quid esset interesse gaudiis coeli. Novit
+quid sit esse in loco voluptatis, nescivit quid sit
+fore in gloria aeternitatis. Nonne priorem illam recuperavit
+homo, quando audivit homo ab Homine
+Deo: <hi>Hodie mecum eris in paradiso? <note>(Luc. XXIII.)</note>
+            </hi> 
+Nonne et istam sublimem accipere meruit homo
+per Hominem Deum, quando Homo Deus elevatis
+manibus ferebatur in coelum, ascendensque in
+altum captivam duxit captivitatem, dedit dona
+hominibus? <note>(Psal. LXVII.)</note> Illam accepit homo post
+Christi resurrectionem, istam accepit homo post
+Christi ascensionem. Emmanuel itaque noster, ut
+dictum est, per primam illam humilem acquisivit
+<pb n="0626D"/>
+naturae nostrae novissimam istam sublimem. Sed si
+comedendo obtinuit illam, nunquid non et istam?
+Utique quia istam obtinuit illa mediante, de qua
+igitur intelligitur, quod ibi dicitur: <hi>Quacunque die
+comederitis ex eo, eritis sicut dii scientes bonum ac
+malum <note>(Gen. II)</note>
+            </hi>; de eadem intelligamus, quod in
+hoc loco legimus: <hi>Butyrum et mel comedet, ut sciat
+reprobare malum, et eligere bonum <note>(Isa. VII)</note>
+            </hi>. Nunquidnam
+Scriptura non videtur hoc tacite innuere
+quae dicit hic ex comestione provenisse quod ibi
+fallaciter promittitur ex comestione posse provenire?
+Hanc autem sublimem et supereminentem
+Christus in sua ascensione obtinuit, quando in gloriam
+suam in aeternum intravit. Attende quid dicitur,
+quomodo ibi legitur: <hi>Et convescens,</hi> inquit,
+<pb n="0627A"/> <hi>praecepit illis ab Hierosolymis ne discederent,</hi> 
+ et paucis
+interjectis additur: <hi>Videntibus illis, elevatus est <note>(Act. I)</note>
+            </hi>.
+Ecce quia comedit et ascendit. Adam comedendo
+ab illa sublimitate quam habere poterat, ad
+abjectam istam et humilem scientiam recidit; Emmanuel
+noster comedendo et ascendendo, humilem
+istam deposuit, et sublimem illam apprehendit. Dicitis
+quia oportuit Christum pati, et resurgere a
+mortuis, et ita intrare in gloriam suam. Quid si
+dicimus oportere Christum comedere, et ascendere, et
+ita apprehendere illam quam locuti sumus sublimem
+scientiam? Dicitis quia tanti meriti fuit passio
+Christi, ut ex virtute patientiae meruerit in omnem
+plenitudinem gloriae introire, vel alios introducere.
+Quid si nos dicimus quoniam tanti ponderis apud
+<pb n="0627B"/>
+Deum fuit, quod Emmanuel noster butyrum et mel
+comedit, quod muscis etiam communicavit, ut ex
+humilitatis ejus merito in omnem plenitudinem
+scientiae jure jam debeat, vel ipse intrare, vel alios
+introducere? Sed quod dictum est nostrum puerum
+comedendo didicisse reprobare malum et eligere
+bonum, non sic accipere oportet quasi scientiam
+illam, quae per experientiam est, ex sola comestione
+obtinuisset. Nam et Apostolus dicit quia Christus
+in his quae passus est obedientiam didicerit <note>(Hebr.
+V)</note>. Sed nunquid ex his tantum quae passus est, et
+non etiam ex his quae per semetipsum operatus
+est? Imo certe ex his et ex illis; quia in utrisque
+exsecutus est non voluntatem suam, sed voluntatem
+<pb n="0627C"/>
+Patris. Sic sane non solum comedendo et bibendo,
+verum etiam esuriendo et sitiendo, sine alio quolibet
+experiendi modo didicit quae prius per experientiam
+nescivit, et comedendo quidem non solum
+ex esu butyri et mellis, imo et ex esu cujusque comestionis.
+Potuit ergo et de aliis cibis hoc dici,
+quod dictum est de cibo butyri et mellis. Sed Scriptura
+divina quaedam ex industria tacuit, quae tamen
+veraciter dicere potuit: quaedam vero ex multis
+quae dici poterant, dicenda elegit quae certi
+mysterii gratia singulariter exprimenda cognovit.
+Cur igitur dicit huic homini ex comestione provenisse
+quod primo homini fallaciter promissum est
+ex comestione posse provenire, nisi ut intelligamus
+hic fuisse ad meritum, seu etiam ad remedium,
+<pb n="0627D"/>
+quod absque dubio ibi fuit ad reatum? Vides certe
+quomodo seductor noster fraudulentiae suae lucra
+quae per mulierem acquisivit, iterum per semen
+mulieris amisit. Utinam tandem aliquando Judaei
+evigilent! Utinam tandem aliquando sapiant, et intelligant
+hanc esse mulierem, hanc ejus esse prolem
+de quibus a Domino dictum est ad serpentem: <hi>Inimicitias
+ponam inter te et mulierem, inter semen tuum
+et semen illius! <note>(Gen. III.)</note>
+            </hi> Cur non intelligunt hoc
+mulieris semen praedictas inimicitias exercuisse,
+et victoriam obtinuisse, cum audiant hunc ex comestione
+ad illud profecisse, unde constat ad serpentis
+suasionem primum hominem defecisse? Ecce
+quomodo impugnatoris nostri sententia per istum
+omnino in contrarium est versa. Quidquid ille homini
+<pb n="0628A"/>
+fraudulenter abstulit, iste multiplicius reparavit.
+Facile igitur perpendi potest ex qualitate signi,
+quod per ipsum liberandi sumus ex captivitate et
+oppressione diaboli.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>Quod in passione nostri Emmanuelis multi captivati sunt ex spiritibus malignis.</hi> </head>
+<p>Sed quomodo illud intelligitur quod statim ad ista
+subjungitur: <hi>Quia antequam puer sciat reprobare
+malum et eligere bonum, derelinquetur terra quam
+tu detestaris a facie duorum regum suorum? <note>(Isa.
+VII.)</note>
+            </hi> Quod dicit antequam sciat reprobare malum
+et eligere bonum, idem valet ac si diceret: Antequam
+resurgat et ascendat in coelum, quoniam, sicut
+jam dictum est, antequam a mortuis resurrexerit
+<pb n="0628B"/>
+plenitudinem illius scientiae quae per experientiam
+est non accepit, sicut nec illam quam per
+istam naturae nostrae acquisivit. Cur ergo dicit ante
+resurrectionem, vel ascensionem Emmanuelis nostri
+a facie duorum regum terram eorum liberari
+oportere, cum constet non solum ante resurrectionem,
+sed etiam sexcentis, vel eo amplius annis
+ante ejus nativitatem liberatam fuisse? Sed quod
+constat praecessisse nativitatem, consequenter constat
+praecessisse resurrectionem. Si juxta hunc modum
+quod propheta dicit dicimus esse verum, nihilominus
+tamen Judaeus contendet illud quod dicitur
+esse frivolum. Sed in verbis tanti prophetae, sicut
+nec falsum, ita nec frivolum creditur aliquid fuisse.
+Sed quid si ad haec dicimus Spiritum sanctum sub
+<pb n="0628C"/>
+quadam quasi fatuitate litterae profunditate tanti
+mysterii ex industria adumbrasse? Sic sane etsi
+frivolum videatur secundum quod sic dicitur frivolum,
+tamen non erit in eo propter quod sic dicitur.
+Verumtamen si tales reges hoc loco accipere velimus
+quales in Daniele legimus, erit sane in verbis
+prophetae quod nec Judaeus possit refellere, nec
+Christianus audeat negare: <hi>Et nunc,</hi> inquit, <hi>revertar
+ut praelier adversus principem Persarum. Cum
+ergo egrederer apparuit princeps Graecorum veniens <note>(Dan. X)</note>
+            </hi>.
+Quis autem non videat spiritus malignos
+hoc loco in his principibus debere intelligi? Possumus
+itaque, imo, ut arbitror, omnino debemus
+ejusmodi reges in hoc loco accipere, nisi forte
+<pb n="0628D"/>
+hoc movet quod hic reges ibi nominantur principes.
+Sed advertendum quod idem ipse qui dictus est
+princeps Persarum, in superioribus nominatus est
+rex Persarum: <hi>Ecce,</hi> inquit, <hi>Michael unus de principibus
+primis venit in adjutorium meum, et ego remansi
+ibi juxta regem Persarum <note>(ibid.)</note>
+            </hi> Similiter
+et ille qui in Evangelio dictus et princeps mundi <note>(Joan. XII)</note>,
+et in alio Scripturae loco dictus est rex
+super omnes filios superbiae <note>(Job XLI)</note>. Hujusmodi
+ergo reges illis praesidebant, qui sive in
+Syria, sive in Samaria idololatriae serviebant.
+Nec hoc quidem dico, tales videlicet reges hoc
+loco per regem Syriae, et Filium Romeliae mystice
+designatos, sed ipsos in his verbis proprie
+et historice expressos: <hi>Derelinquetur,</hi> inquit,
+<pb n="0629A"/> <hi>terra a facie duorum regum suorum 
+ <note>(Isa. VII)</note>
+            </hi>. Nihil
+sane hic dicitur quod te in alium sensum compellere
+videatur. Non dicitur a facie duorum regum
+istorum, sed a facie duorum regum suorum, ne te
+relatio cogat ad superiora respicere et praedictos
+reges intelligere. Non dicit de his regibus, in terra
+sua interficientur, non dicit captivabuntur, non
+dicit in his omnibus aliquid fieri in manu regis Assyriorum,
+sicut in sequentibus legis, quia auferetur
+fortitudo Damasci, et spolia Samariae coram rege
+Assyriorum. Nihil horum nec tale aliquid dicit quod
+de regibus spiritalis nequitiae in coelestibus intelligi
+non possit. Sed ita sane deprehenditur Scriptura de
+quibusdam regibus loqui, ut quod dicitur et spiritalibus
+et carnalibus regibus possit aptari, ut in uno
+<pb n="0629B"/>
+eodemque sit et unde infidelitas infatuetur, et fidelitas
+illuminetur. Nam ipsa quidem litterae ambiguitas
+veritatem obvolvit. E diverso autem sacramenti
+profunditas, prophetiae auctoritas, sententiae gravitas
+fidei tramite ad veritatem conducit, et intrare
+compellit. Quis enim non videat pro mysterii dignitate
+eorum quae dicta sunt, illa quae adduntur magnum
+aliquid continere, et ad illa quae promissa
+sunt debere respondere? Videamus ergo quid de
+ejusmodi quos diximus regibus Scriptura denuntiet,
+et videbimus quam convenienter quod dicitur superioribus
+respondeat. Dicit ergo: <hi>Quia antequam
+sciat puer reprobare malum et eligere bonum, derelinquetur
+terra a facie duorum regum suorum <note>(ibid.)</note>
+            </hi>.
+Certe in libro Judicum loquente Jephte ad Seon regem
+<pb n="0629C"/>
+Amorrhaeorum, possessio daemonis terra illa dicitur,
+in qua velut deus colebatur: <hi>Nonne,</hi> inquit, <hi>ea quae possidet Chamos deus tuus, tibi jure debentur?
+Quae autem Dominus Deus noster victor obtinuit,
+in nostram cedent possessionem 
+ <note>(Jud. XI)</note>
+            </hi>. Quare ergo
+spiritus erroris illius terrae reges non dicantur, qui
+in ea per infidelitatis et pravitatis magisterium
+usque ad tempora Christi principabantur? Hujusmodi
+enim regnum malorum, malignorumque spirituum,
+alii dicuntur spiritus erroris, alii spiritus
+fornicationis. Hujusmodi regum multi in passione
+Christi sunt captivati, et de sua tandem tyrannide
+dejecti. Illi videlicet qui in spiritibus malignis prae
+caeteris erant majoris astutiae et vehementioris audaciae.
+<pb n="0629D"/>
+Illi denique per quos salus eorum impediri
+poterat, de quibus primitiva Ecclesia congreganda,
+et fidei seges propaganda erat, ut designata illa divinae
+propagationis messio in divina horrea congregaretur,
+de qua in Evangelio legitur: <hi>Respicite regiones
+quoniam jam albae sunt ad messem <note>(Joan. IV)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>Quid in signum generalis damnationis in Christi passione inchoata est quaedam captivitas daemonum, sicut in Christi ascensione glorificatio resurgentium.</hi> </head>
+<p>Tale aliquid habemus in Evangelio, ubi dictum
+est a Domino: Jam <hi>princeps hujus mundi
+ejicietur foras <note>(Joan. XII)</note>
+            </hi>. Ecce unde ejectus,
+sed quo, quaeso, projectus? Sed quo melius projectus
+<pb n="0630A"/>
+creditur quam quo per Joannem in Apocalypsi
+designatur? <hi>Et apprehendit,</hi> inquit, <hi>draconem
+serpentem antiquum qui est diabolus et Satanas, et
+ligavit eum per annos mille, et misit eum in abyssum,
+et clausit, et signavit super illum, ut non seducat
+amplius gentes, donec consumentur mille anni, et
+post haec oportet illum solvi modico tempore <note>(Apoc. XX)</note>
+            </hi>.
+Quod hic dicit abyssum, hoc postea vocat stagnum, <hi>et diabolus,</hi> 
+ inquit, <hi>missus est in stagnum ignis et
+sulphuris <note>(ibid.)</note>
+            </hi>. De hoc autem abysso rogant
+daemones Dominum in Evangelio, ne praeciperet eos
+in abyssum ire <note>(Luc. VIII)</note>. Ecce quomodo in capite
+iniquorum omnium captivitas daemonum inchoata
+est quando in Christi passione princeps mundi
+de mundo ejectus, et in abyssum missus est. Et sicut
+<pb n="0630B"/>
+ut Christus creditur non solus surrexisse a mortuis,
+quoniam sicut scriptum est multa corpora
+sanctorum qui dormierant resurrexerunt, et apparuerunt
+multis; sicut Christus, inquam, creditur
+non solus resurrexisse, sic nec creditur in coelum
+solus ascendisse. Ascendens namque in altum captivam
+duxit captivitatem, dedit dona hominibus.
+Sicut ergo Christus caput omnium bonorum non
+solus resurrexit, vel solus ascendit, sic caput omnium
+iniquorum diabolus non solus creditur de
+mundo ejectus, et in abyssum projectus. De numero
+autem eorum qui in Christi passione cum mundi
+principe captivantur recte hi creduntur de quibus
+modo dicitur: <hi>Derelinquetur terra a facie duorum
+regum suorum <note>(Isa. VII)</note>
+            </hi>. Quomodo terra in qua diu
+<pb n="0630C"/>
+principabantur ab eis derelinquetur, nisi quia ab
+ea ejicientur, et in abyssum mittentur? Hoc autem
+quia in Christi passione factum est inter nativitatem
+et ejus assensionem impletum est, quia antequam
+sciat puer reprobare malum et eligere bonum, derelinquetur
+terra? Antequam puer, inquit, per experientiam
+sciat non solum mala reprobare, vel bona
+approbare, verum etiam bona eligere et inferioribus
+bonis sepositis optima apprehendere, antequam
+ad coelos ascendat, et per experientiam addiscat
+quid sit, vel quantum terrenis oblectamentis praeemineat
+corporali etiam praesentia gaudiis coelestibus
+praesidere, et choris angelicis interesse, ante
+istam utique electionem bonorum derelinquetur
+<pb n="0630D"/>
+terra quam rex Achab detestabatur a facie duorum
+regum suorum. Nam hoc, ut dictum est, factum
+est in passione, illud in ascensione, et nota quod
+dicitur, quia: Quia, inquit, antequam puer sciat.
+Ac si dicat: Dixi quia dabit Dominus vobis signum,
+et quod vere sit signum futurae vestrae liberationis.
+Sed antequam ex toto compleatur, fiet quod in diabolo
+et angelis ejus erit, signum aeternae captivitatis.
+Nam, sicut in ascensione Christi vel coascendentium
+inchoata est liberatio et exaltatio captivorum,
+sic sane in ejectione et projectione diaboli
+atque concadentium inchoata est captivitas captivantium.
+Et sicut gloria quae praecessit in bonorum
+omnium capite vel membrorum ipsius parte signum
+est generalis glorificationis, sic dejectio quae praecessit
+<pb n="0631A"/>
+in reproborum capite, membrorumque ipsius
+parte, signum est generalis damnationis.</p>
+<p>Et notandum sane quod sicut in generali resurrectione
+prius futura est reprobatio malorum et
+postea glorificatio justorum secundum illud: <hi>Tollatur
+impius ne videat gloriam Dei <note>(Isa. XXVI)</note>
+            </hi>, sic
+circa primitivae resurrectionis tempora prius captivatae
+sunt, quasi quaedam primitiae daemonum,
+postea autem glorificatae sunt primitiae electorum.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX. <hi>Quod ex incarnatione nostri Emmanuelis factus est Deus quasi unus ex nobis.</hi> </head>
+<p>Ecce, fratres, quid contulit, ecce quid profuit
+puerperium virginis, incarnatio nostri Emmanuelis.
+Iste est puer qui solus matris suae integritatem
+<pb n="0631B"/>
+non abstulit, sed sacravit. In isto puero factus est
+nobiscum Deus, per hunc puerum genus humanum
+recepit quod in primo omnium parente amisit. Ab
+hoc puero dejectus est qui prius dejecit, ab hoc
+erectus qui prius dejectus fuit. In hoc puero recuperavit
+homo honorem suum, ipse est qui abstulit
+opprobrium nostrum. Sed quale, inquit, opprobrium: <hi>Homo, cum in honore esset, non intellexit;
+comparatus est jumentis insipientibus, et similis factus
+est illis 
+ <note>(Psal. XLVIII)</note>
+            </hi>. Factus est autem homo
+ad imaginem et similitudinem Dei, grandis honor.
+Sed homo non intellexit, ideoque despexit. Despecta
+vero atque rejecta similitudine Dei, transfiguravit
+se ad similitudinem jumenti. Ecce quale dedecus,
+<pb n="0631C"/>
+juxta magnitudinem honoris magnitudo dedecoris,
+inde opprobrium, inde improperium; et juste jam
+quidem opprobria exprobrantium ceciderunt super
+eum. Merito ergo clamat: Aufer a me opprobrium
+et contemptum. Penset homo pietatem Dei, si possit.
+Contemptus a nobis, contemptum nostrum sustinere
+non potuit. Despectus ab homine, despicientis
+opprobrium portare non sustinuit. Rejecit
+homo ad quam formatus est similitudinem divinam,
+Deus evestigio conformavit se ad illam qua homo
+transformaverat se similitudinem humanam. O qualis
+reformatio honoris! O qualis detersio exprobrationis,
+transformatum similitudini jumenti, habere jam Deum
+similem sui! Ecce ad extergendum opprobrium
+nostrum, Deus Dei Filius factus est nobis Emmanuel,
+<pb n="0631D"/>
+comedens mel atque butyrum, ut juxta similitudinem
+hominum sciret reprobare malum et eligere
+bonum. Cesset ergo jam vetus opprobrium,
+cesset illud antiquum improperium. Ecce enim audio
+unam aliquam ex tribus in Trinitate personis
+personare in voce exprobrationis. Ecce Adam factus
+est quasi unus ex nobis. Merito certe exprobrastis,
+sed nunquid adhuc exprobraturi estis? Certe si dicitis
+ironice quia homo factus est quasi unus ex
+nobis, nos de caetero dicemus tam fidenter quam
+veraciter, quia Deus factus est quasi unus ex nobis.
+Dictum est illud et merito cum exprobratione, dicamus
+nos jam istud cum gratiarum actione. Dictum
+est illud in voce exprobrantis et obloquentis, dicamus
+modo istud in voce exsultationis et confessionis.
+<pb n="0632A"/>
+Ecce quid contulit nobis proles puerperae nostrae
+unigenitus ille Dei genitricis Mariae. Merito dictum
+et merito dicendum: Benedicta tu in mulieribus,
+et benedictus fructus ventris tui. Felix conceptus,
+felix et partus nati ex ea nostri Emmanuelis,
+in quo Deus absque dubio similis factus est nobis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XX. <hi>Quod homo factus est velut Deus, et quod homo verus factus est verus Deus.</hi> </head>
+<p>Ad hoc autem factus est Deus quasi homo sciens
+reprobare malum et eligere bonum, ut fieret homo
+sicut Deus, sciens bonum et malum. Quomodo autem
+scit Deus bonum, aut quomodo scit malum?
+Malum quidem plena intelligentia absque omni experientia,
+bonum vero plena intelligentia et sempiterna
+<pb n="0632B"/>
+experientia. In malo est ei experientia inaccessibilis,
+in bono experientia imperturbabilis. Futurum
+est autem ut fiat homo in hunc modum
+sciens bonum et malum, quando confirmatus in
+bono et consummatus in gaudio in aeternum, sicut
+peccare non poterit, sic nec mori vel pati timebit.
+Mors enim non erit ultra, neque luctus, neque clamor;
+sed nec dolor erit ultra, quoniam prima transierunt,
+sed laetitia sempiterna erit super capita
+eorum <note>(Apoc. XXI; Isa. XXV)</note>. Sed quid mirum est
+si homo factus est velut Deus, quandoquidem homo
+factus est verus Deus? Certe si homo Christus est
+Deus, imo quia veraciter est Deus, eamdem divinitatem
+habet quam habet Pater, et Spiritus sanctus,
+ergo et eamdem potentiam, ergo et eamdem sapientiam;
+<pb n="0632C"/>
+ergo eodem modo sapit homo Christus quo
+Pater et Spiritus sanctus. Quod igitur dictum est per
+ironiam de Adam primo, jam dicere possunt ex
+sententia Pater et Spiritus sanctus de Adam secundo.
+Ecce Adam factus est quasi unus ex nobis
+sciens bonum et malum. Vox illa exprobrationis
+jam versa est in materiam laudis. Ecce jam audemus,
+et dicimus quia homo factus est quasi unus
+ex nobis propter suam divinitatem, Deus factus est
+quasi unus ex nobis propter suam humanitatem.
+Ecce quid nobis contulit, ecce quid nobis profuit
+fructus virginis, fecunditas virginitatis. Merito dictum,
+merito dicendum: Benedicta tu in mulieribus,
+et benedictus fructus ventris tui.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXI <hi>Quod sit versum in materiam laudis, illud opprobrium exprobantis; ecce Adam factus est quasi unus ex nobis.</hi> </head>
+
+<pb n="0632D"/>
+<p>Ecce monstratum est per veritatem jam posse
+dici de Adam secundo, quod per exprobrationem
+prius dictum est de Adam primo. Quid autem dicemus
+de eodem homine primo claritati Christi configurato,
+et in Christo glorificato, secundum quod
+scriptum est: <hi>Qui reformabit corpus humilitatis nostrae
+configuratum corpori claritatis suae? <note>(Philip. III.)</note>
+            </hi> Adam
+itaque sic clarificatus, et in divinum simile transfiguratus
+nonne veraciter erit velut unus ex illis a
+quibus per improperium audivit: Ecce Adam factus
+est quasi unus ex nobis? Si Christus est una ex tribus
+<pb n="0633A"/>
+in Trinitate personis, nonne claritati Christi configuratus
+erit quasi unus ex ipsis? Cesset jam ironia,
+dicatur jam ex sententia. Dictum est hoc exprobrando,
+dicamus modo hoc gloriando et glorificando
+Patrem, et Filium, et Spiritum sanctum, ex quo
+factum est, per quem factum est, in quo factum
+est totum quod propter nos factum est. Dic, impie
+Zabulon, quid valet nunc fraus tua? Plus est quod
+nobis contulit Christi misericordia, quam quod
+nobis abstulit illa tua fraudulenta malitia. Ecce
+homo factus est quasi Deus sciens bonum et malum
+quod tu fraudulenter promisisti. Ecce homo factus
+est verus Deus, quod tu quidem nec cogitare
+potuisti. Dic ergo, dic, impie Zabulon, quid tibi jam
+valet illa quondam tua cruenta victoria? Ecce
+<pb n="0633B"/>
+quondam victor, jam nunc victus jaces a Christi
+victoria. Mulierem decepisti, et per mulierem dejecisti,
+et ecce in muliere deceptus, et per mulierem
+dejectus corruisti. Ecce quales inimicitias exercuit;
+quomodo pugnavit, vicit, triumphavit semen
+<pb n="0634A"/>
+mulieris, fructus Virginis matris. Dicamus ei omnes,
+dicamus singuli: <hi>Benedicta tu in mulieribus et benedictus
+fructus ventris tui <note>(Luc. I)</note>
+            </hi>. Nemo miretur,
+nemo indignetur nos quidem tam brevem materiam
+longa expositione extendere, sermonem protrahere,
+verba multiplicare, tam jugi diligentia, tam diligenti
+vigilantia objecta refellere, sentienda astruere,
+veritatis sententiam hinc inde roborare. Nemo,
+inquam, indignetur, nemo miretur cum videat
+prophetam in paucis admodum verbis fidei nostrae
+fundamenta jecisse. Quoties a sanctis doctoribus,
+scriptoribus, praedicatoribus, incarnationis mysterium
+ventilatur, discutitur, commendatur, haec
+auctoritas semper in argumentum adducitur; et
+certe, si in solido veritatis fidei nostrae structura
+<pb n="0634B"/>
+non fundatur, non potest esse stabile quod superaedificatur.
+Si hoc quod dicimus ad excusationem
+nostram non sufficit, addam adhuc quod sufficere
+possit. Materia certe dulcis est, et nobis vacat, et
+de dulci materia diu loqui delectat.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>LIBER SECUNDUS <hi>In quo introducuntur Hugo et Richardus altercantes</hi> </head>
+<div2>
+          <head>PROLOGUS.</head>
+<pb n="0633B"/>
+<p>Post illum tractatum quem de partu Virginis,
+vel infantia nostri Emmanuelis contra quorumdam
+<pb n="0633C"/>
+errorem dictaveram, simul et edideram, quemdam
+ex magistri Andreae discipulis offendi, quem adhuc
+eodem errore implicitum inveni. Exarsit itaque animus
+meus ad illa quae ante jam dixeram adhuc
+aliquid addere, unde possem eorum etiam
+infirmitati satisfacere, qui sub hoc erroris contagio
+videbantur pene usque ad desperationem
+laborasse. Credo autem devotis mentibus admodum
+placere, parvitatem meam tam excellenti
+materiae, cum tanta diligentia insistere, et ad tollendum
+errorem de tam immenso tanti mysterii
+profundo libenter desudare. Sub forma autem dialogi
+totam subsequentis operis seriem digessi, eo quod
+hic modus dicendi, vel docendi prae caeteris sit, vel
+<pb n="0633D"/>
+ad audiendum jucundior, vel ad persuadendum efficacior.
+Unum itaque ex magistri Andreae discipulis
+mecum altercantem introduxi, ut sub forma ratiocinandi,
+servata vicissitudine interrogandi et respondendi,
+melius elucesceret quidquid in dubium
+venire potuisset. Neminem vero conturbet si unum
+eumdemque Scripturae locum videat me aliter et
+aliter exponere, cum sciat apud Scripturae sacrae
+expositores hoc frequens esse et celebre. Nam datam
+illam superius de duobus regibus sententiam
+volui primo ponere, eo quod videatur magnorum
+quorumdam virorum expositioni magis accedere.
+Ad ultimum autem illam ponere placuit, ad quam
+animus meus amplius accedit. Lectoris autem judicio
+relinquitur eligere quod rectius judicaverit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Praelibatio materiae de qua agitur in hoc opere.</hi> </head>
+
+<pb n="0634B"/>
+<p>HUGO. Inspecto illo quem de Emmanuelis conceptu
+<pb n="0634C"/>
+vel partu scripsistis tractatu, multa admodum
+placuerunt. Verumtamen, ut vera fatear, mihi ad
+plenum satisfacere non potuerunt. Nam exquisita
+illa altercationis nostrae ratiocinatio jam me an
+ancipitem quidem sententiam traxit, sed in contrariae
+partis assertione solidare non potuit. RICH.
+Puto, mi Hugo, quia intentionis nostrae studium
+nonnihil effecit, si jam te de pertinaci ad ancipitem
+sententiam perduxit. Nam multo tolerabilius est
+dubitare de veritatis assertione, quam falsa confidenter
+astruere. Supra modum autem miratus sum
+pariter et indignatus quod te, quod tuum illud ingenium
+tam tenuis araneae tela potuit irretire, et
+pene insolubililiter illaqueare. Ista procul dubio
+<pb n="0634D"/>
+illaqueatio tua praecipua causa fuit, quae me ad
+confutandum erroris seminarium scribere coegit.
+Veritus sum sane ne alios involveret error qui te
+irretire potuit, et ecce quod verebar accidit. Nam
+alium quemdam ex magistri tui Andreae discipulis
+postmodum offendi, quem eodem erroris laqueo,
+quo etiam te prius irretitum inveni. HUGO. Nescio
+qua fronte telam araneae dicitis, quam totis machinationis
+vestrae conatibus disrumpere non sufficitis.
+Sed ne me aestimet quis contentioso fine pugnas
+verborum quaerere, paratus sum ea quae me movent
+exponere, et in omnibus rationem apertam recipere,
+rationi acquiescere, et ut animum meum plenius
+exponam, paratior sum ob reverentiam tanti sacramenti,
+paratior, inquam, a veritate vinci, quam
+<pb n="0635A"/>
+sophistice vincere, et contentiose agere. RICH. Placet
+admodum, frater, placet quod te vel sero tanti
+sacramenti reverentia tangit. Sed jam exspecto
+a teipso audire quae sint illa quae juste debeant vel
+valeant animum tuum movere. HUGO. Primo quidem
+quod rationes quibus illum quem vocatis errorem
+convincere tentatis, videntur infirmae, nec satis
+necessariae. Verum illae quas ad dandi signi commendationem
+refertis, satis placent per se consideratae.
+Sed si circumstantiam litterae cogitemus,
+nil omnino videntur ad rem pertinere. Nam illa
+quam de electione boni ponitis sententia, videtur
+mihi violenta, et illa quam de duobus regibus datis
+satis peregrina. RICH. Nescio quid sit illud quod te
+in illo tractatu nostro tibi placuisse dicis, qui pene
+<pb n="0635B"/>
+totum quod diximus reprehendis. Sed debes singula
+eorum quae te movent explicare plenius, si quaeris
+ut ad singula tibi sufficienter respondeamus. HUGO.
+Gratum habeo quod proponitis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>Quod dicta prophetia non possit veraciter intelligi, nisi de sola beata Virgine Maria.</hi> </head>
+<p>HUGO. Primo itaque illud adhuc animum pulsat,
+quod tollendi timoris gratia signum dandum erat,
+secundum quod Dominus per prophetam proposuerat.
+Ecce concedimus quod dicitis quia ex magna
+malitia descendit, quod rex signum petere noluit;
+unde et de caetero indignum fuit talem regem tollendi
+timoris gratia signum accipere, quia maluit,
+ut superius docuistis, sub instantis periculi trepidatione
+<pb n="0635C"/>
+diutius laborare, quam illud fieri unde gloria
+Domini posset accrescere. Ecce, inquam, concedamus
+ista vera esse, non tamen consequens est
+Deum poenituisse promissionis suae. Saepe etenim
+ubi abundat malitia, superabundat et gratia. Ex
+superabundanti itaque gratia, etiam contra regis
+meritum promissum signum dare potuit, qua solem
+suum oriri facit super bonos et malos, et pluit super
+justos et injustos. Partus autem virginalis, sicut
+enim ipsi conceditis, non potuit esse signum illius
+quae tunc desiderabatur liberationis. Quod ergo
+regi Acham tollendi timoris gratia proponitur, et
+domui David promittitur et exhibetur, ut signum
+esse possit ejus rei ob quam dandum fuit, recte intelligitur
+<pb n="0635D"/>
+dictum de prophetissa, et nihilominus
+completum in beata virgine Maria, ne quis nos
+aestimet judaizare, et erroneos esse. Nam et id
+quod scriptum est: <hi>Os non comminuetis ex eo <note>(Exod.
+XII; Joan. XIX)</note>
+            </hi>, dictum utique est de paschali agno:
+nihilominus juxta evangelistam impletum est in
+Christo. RICH. Illud quaero audire ex te, utrumnam
+credas aliam aliquam praeter solam beatam virginem
+Mariam, virginem concepisse, virginem peperisse?
+HUGO. De alia certe nec credo factum, nec
+spero futurum. RICH. Non ergo recte intelligitur
+de prophetissa dictum: <hi>Ecce virgo concipiet et pariet
+filium.</hi> HUGO. Recte hoc dixeritis, si in Hebraeo
+hoc loco virginem legeretis. Sed utique jam audistis
+quod hoc loco legitur in Hebraeo, non idem sonat quod
+<pb n="0636A"/>
+virgo. RICH. Quantum nobis videtur, quidquid in
+superiori tractatu vociferavimus, surdis auribus locuti
+sumus. Vociferabimus ergo certe adhuc majori,
+si oportuerit, clamore, si vel sic detur surditatem
+tuam rumpere. Dic illud, obsecro, unde animadvertis
+illam de qua loquimur prophetiam in beata virgine
+Maria completam? HUGO. Cum evangelista
+manifeste hoc dicat, quis nisi infidelis negare praesumat? <hi>Hoc autem totum,</hi> 
+ inquit evangelista, <hi>factum
+est, ut adimpleretur quod dictum est a Domino per
+prophetam dicentem: Ecce virgo in utero habebit et
+pariet filium <note>(Matth. I)</note>
+            </hi>. RICH. Quod per prophetam
+a Domino dictum, et in beata Virgine completum
+dixisti, vellem a te iteruri voce grandiori. HUGO. O
+quam justo Dei judicio surditatis notam incurristis,
+<pb n="0636B"/>
+quam nobis quidem injuste satis impingere tentastis!
+Erigite itaque aures, et audite vociferantem
+si non potestis sermocinantem. Ecce virgo in utero
+habebit. RICH. Ego sane id exegi a te cum iteratione
+et vociferatione, non ad rumpendam surditatem
+nostram, sed tuam. Nunquidnam vel adhuc intelligentiae
+aure percepisti quae ipse iterato dixisti?
+Quid jam taces? Cur pro more non illico respondes?
+HUGO. Utque intumesco adversum meipsum
+prae ira et indignatione, quod recolo me ista toties
+legisse et audisse, et quod modo animadverto minime
+advertisse. Nam, sicut intellexi et credidi
+prophetiam illam in beata Dei Genitrice impletam,
+quoniam hoc evangelista denuntiat, sic debueram
+<pb n="0636C"/>
+intellexisse et credidisse puerperam quam loquimur,
+virginem per prophetam a Domino dictam. Nam
+et hoc evangelista affirmat. RICH. Cum pro eo quod
+propheta dicit, concipiet, evangelista ponat in utero
+habebit, cur, quaeso, nemo evangelistam mendacii
+arguit, et in Hebraeo non sic scriptum contendit?
+HUGO. Quia utrobique est una eademque substantia,
+quamvis sint verba diversa. RICH. Similiter sane
+sentiendum est in eo quod alma ponitur in Hebraeo,
+et virgo in Latino. Hujus siquidem verbi expressionem,
+quod est alma, in una dictione Latinus sermo
+non habet, nunquam tamen de nupta, nunquam
+nisi de ea quae virgo est, dici solet. Vim ergo solam
+sententiae cogitavit, et exprimere voluit quomodo
+potuit, vel oportuit qui dixit: Ecce virgo concipiet,
+<pb n="0636D"/>
+vel ecce virgo in utero habebit. HUGO. Ecce libenter
+accipio, ut alma non dicatur nisi de ea quae sit
+virgo; libenter in hoc defero evangelistae vel beato
+Hieronymo, maxime cum hoc satisfaciat pro Judaeo.
+Nam illud quidem quod solum juxta sententiam
+suam inventum est pro signo esse potuisse,
+puerperam videlicet suam in prima viri ad eam
+accessione concepisse; illud, inquam, non habet
+unde ostendat, nisi prophetam in verbis suis virginem
+designasse concedat. RICH. Bene facis illud inde
+maxime concedendo, quia satisfacit pro Judaeo.
+HUGO. Quantum mihi videtur, putatis vos aliquid
+effecisse; sed nolite gloriari praepropere. RICH.
+Audi ergo. Superius dixisti illam de qua loquimur
+prophetiam de prophetissa dictam, et nihilominus in
+<pb n="0637A"/>
+beata Maria completam. Si itaque dicis hoc esse
+virginem concipere, gravidam fieri in prima ad eam
+viri accessione, et hoc prophetam sensisse, utique
+aut dicta prophetia in beata Virgine secundum hoc
+completa non erit; aut de prima viri accessione
+ad eam, et non de Spiritu sancto concepit; et in
+uno horum mendacem facis evangelistam qua
+utrumque dixit. Si autem fateris quod non nisi falso
+diffiteri potes; quoniam hoc sit virginem concipere
+et parere, sine virili scilicet semine concipiendo,
+in conceptu, et partu virginem perseverare; vel dicta
+prophetia de prophetissa intelligenda non erit;
+aut mendacem facis prophetam qui eam de suo semine
+concepisse describit. HUGO. Procul dubio ista
+debent sufficere Christiano, sed non satisfaciunt
+<pb n="0637B"/>
+Judaeo, qui nec evangelistae testimonium pro auctoritate
+recipit, nec beatam Mariam sine virili semine
+concepisse consentit. RICH. Bene facis, mi
+frater, nunc sub Christianorum, nunc sub Judaeorum
+umbraculo subterfugii tui latibula quaerendo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>Post datam rationem quae satisfaciat Christiano, datur et alia quae satisfacere debeat Judaeo.</hi> </head>
+<p>RICH. Sed audi adhuc quod Judaeo quidem etsi
+non satisfaciat, ad satisfactionem tamen sufficere
+debeat. Nonne Judaeus, quaeso, tecum sentit quod
+conceptus ille, et partus in signum a Domino datum
+fuerit? HUGO. Sentit utique in hoc mecum, et ego
+secum: et si audes negare damus propheticum testimonium.
+<pb n="0637C"/>
+RICH. Qui ergo dicitis hoc esse virginem
+concipere, in primo videlicet coitu hoc ille
+contingere, potestis, quaeso, probare hoc esse contra
+legem naturae, vel praeter usum multiplicis experientiae.
+HUGO. Minime. RICH. Qua ergo ratione,
+quaeso, dicetur rei alicujus signum esse debere, si
+promittat futurum feminam in primo coitu concipere,
+quam si praedicat sub ortu solis leporem currere,
+vel canem latrare, cum indifferenter possint
+haec omni die, omni hora per diversas regiones contingere?
+HUGO. Hic do locum Judaeo ut respondeat
+pro semetipso. RICH. Quaero item a te, pariter et a
+Judaeo utrumnam credatis aliquam concipere a viro
+quae possit remanere virgo. HUGO. Minime absque
+dubio. RICH. Quomodo ergo dici potest quod aliqua
+<pb n="0637D"/>
+de viro virgo concipit, quae quamvis in primo coitu
+concipiat, hoc ipsum quod virgo est ante conceptionem
+amittit? HUGO. Ut secundum Judaeum dicatur,
+illa virgo concipit quam hora concipiendi virginem
+invenit. RICH. Sed, si quam in coeundo invenit
+virginem hora concipiendi nunquid et aeque virginem
+invenit hora pariendi? HUGO. Absit a nobis hoc
+dicere, vel ullo modo credere! RICH. Certe utrumque
+dictum est de Virgine: Concipiet, et, pariet.
+Non dictum est: Ecce virgo concipiet, et non virgo
+pariet, sed ait: Ecce virgo concipiet, et pariet filium.
+Videte quam caute, videte quam provide Spiritus
+sanctus praevenit corda malignantia, et obstruxit
+os loquentium iniqua. Quid hic habes, quaeso, quod
+respondeas pro Judaeo? HUGO. Respondeo me Judaeum
+<pb n="0638A"/>
+non esse, nec necessarium habere pro ipso respondere:
+hic iterum do ei locum respondendi per semetipsum.
+Verum, si vultis ut vestra assertio palmam
+obtinere possit, probare oportet vel quod signum
+illud in conceptu et partu Virginis non sit
+datum gratia tollendi timoris, vel quomodo res, quae
+post tot tempora futura erat, tollere possit timorem
+illum qui tunc instabat. RICH. Bene facis quaerendo
+quod nescis, quamvis hoc ipsum ex jam dictis et
+scriptis nosse debueris.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Quomodo auctoritas libri Regum convincit quod partus virginis tollendi timoris gratia datus non sit.</hi> </head>
+<p>RICH. Sed, si non vis acquiescere rationi, nunquid
+saltem acquiesces auctoritati? HUGO. Cur rationes vestras
+<pb n="0638B"/>
+non receperim ex parte jam dixi: paratus iterum
+audire utrumnam possit quod proponitis, vel
+auctoritate probari. RICH. Ecce interim concedatur
+Deum tale signum dedisse quale judicabat ad tollendum
+timorem posse sufficere. Nunquid aestimandum
+est Deum in sua aestimatione aliquando decipi posse?
+Hugo. Absit! RICH. Ergo si tollendi timoris gratia signum
+dedit, timorem tulit. Si non tulit, ad tollendum
+timorem non dedit. HUGO. Nil hac allegatione verius,
+nihil omnino manifestius. RICH. Consulamus itaque
+super hac re librum Regum, ut intelligamus quid
+sit inde sentiendum. Refert ergo in haec verba liber
+Regum: <hi>Tunc ascendit Rasin rex Syriae et Phacee filius
+Romeliae rex Israel in Hierusalem ad praeliandum</hi> 
+<pb n="0638C"/> <note>(IV Reg. XVI)</note>.
+Et iterum paucis interjectis: <hi>Misit autem Achaz nuntios ad Theglathphalasar regem
+Assyriorum, dicens: Servus tuus et filius tuus
+ego sum, ascende et salvum me fac de manu regis
+Syriae, et de manu regis Israel, qui consurrexerunt
+adversum me: et cum collegisset argentum et aurum
+quod inveniri poterat in domo Domini, et in thesauris
+regis, misit regi Assyriorum munera 
+ <note>(ibid.)</note>
+            </hi> Certe si
+non timeret, tam humiliter auxilium in salutis suae
+praesidium non postulasset. Certe si non timeret in
+ejusmodi munera thesauros suos, thesauros domus
+Domini non exhauriret. Dic ergo si potes promissum
+illud signum quando fuerit datum. Si ante dationem,
+datio ipsa convincit quod timorem non
+tulerit; si post liberationem, quomodo timorem tollere
+<pb n="0638D"/>
+potuit qui jam non fuit? An forte inter donationem
+et liberationem? Sed quis dicat eo tempore
+a Domino datum fuisse, quando et in vanum daret
+qui daret, et in vanum acciperet qui acciperet? HUGO.
+Nolo vos in hac allegatione amplius laborare. Video
+certe tam rationi quam auctoritati repugnare, vel
+quod de Emmanuele scribitur interpretari de filio
+Isaiae vel ipsum in ejusmodi signum, et quasi ad
+tollendum timorem datum fuisse. RICH. Ecce jam
+accepisti quomodo ratiocinatio magistri tui repugnat
+tam rationi quam auctoritati. Vis autem adhuc audire
+quomodo repugnat et sibi ipsi! HUGO. Nolite
+dicere magistri mei, sed Judaeorum. Nam ponit eam
+sane, non quasi suam, sed quasi illorum. RICH. Et
+hoc ipsum quaeratur ex ipsa, utrumnam sua sit, an
+<pb n="0639A"/>
+aliena. HUGO. Ecce paratus sum audire quidnam sit
+illud quod velitis dicere. RICH. Veniant itaque magistri
+tui verba in medium. Proponit itaque in hunc
+modum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>Quomodo cavillatorum controversia sit sibi ipsi contraria.</hi> </head>
+<p>RICH. Ecce virgo concipiet et pariet filium. Et
+subjungens de suo ait: Hanc de conceptione et nativitate
+Salvatoris nostri, et integritate, et virginitate
+Matris ejus semper virginis apertissimam prophetiam,
+prout justum est, cum de ipsis exponimus,
+insurgentes in nos Judaei veritatis inimici, suae cavillationis
+ariete firmissimum fidei nostrae murum
+labefactare conantur. Sed ex aliis ejus verbis plenius
+<pb n="0639B"/>
+intelligi poterit qua simplicitate hoc dixerit.
+In fine argumentationis suae ponit rationem quare
+non sit ei utile Judaeis respondere. Ne si forte, ait,
+anceps certamen imparibus ineuntes viribus succumbamus.
+Cur anceps certamen dicit, non dicam
+de aperta, sed de apertissima, ut ipse praedicat, prophetia?
+Sed forte humilitatis verba sunt ista. Videamus
+ergo sequentia. Nos, inquam, ait nostris viribus
+emensis, fortiora fortioribus relinquentes, coeptam
+litteralis sensus explanationem exsequamur.
+Ecce jam nobis litteralis sensus explanationem
+promittit. Modo non Judaeorum, sed suam, ut audis,
+sententiam proponit. Ait ergo: Ecce virgo concipiet
+et pariet filium. Juvenculae vel absconditae partus
+et conceptus, quando eum videritis, significabit
+<pb n="0639C"/>
+vobis quod a praedicto metu liberamini. Ecce quomodo
+exponitur apertissima, ut dixerat, prophetia
+de conceptione et nativitate Salvatoris, et integritate
+et virginitate Matris, audiamus adhuc apertius.
+Multis interjectis, longe post dicit in sequentibus,
+prophetissae filius butyrum et mel comedet, cum
+venerit ad scientiam qua possit abominari malum
+et eligere bonum. Quod legimus de butyri vel mellis
+comestione, procul dubio scriptum est de Emmanuele:
+Quid ergo, hic erit ille fidei nostrae murus
+firmissimus, si Emmanuel dicatur prophetissae filius?
+Certe sola inter mulieres beata Maria virgo et mater
+est. Si dicta itaque prophetia, prout illi placet,
+apertissime est de integritate et virginitate ejus quae
+<pb n="0639D"/>
+mater est, apertissime quidem vera est in beata
+Virgine Maria, apertissime nihilominus falsa in prophetissa.
+Quare ergo ibi eam exponendo accommodat,
+ubi apertissime falsa est, et non potius ubi
+apertissime vera est. Si illi qui eam de Salvatore,
+et ejus matre exponunt, faciunt, prout justum est,
+cur ipse eam de prophetissa exponit, prout justum
+non est. Vides certe quomodo expositio sua sibi
+ipsi est contraria. Nonne rectius philosophasset, si
+ista tacuisset? HUGO. Utinam, fateor, non dixisset!
+Sed prout ipse nostris fatetur multa se non juxta
+suam, sed juxta Judaeorum sententiam exposuisse.
+RICH. Certe hoc ipsum manifeste determinare debuisset,
+quando suam, et veram, quando Judaeorum,
+et falsam posuisset. HUGO. Nunc illud quod jam proposuistis
+<pb n="0640A"/>
+exspecto adhuc a vobis audire, quomodo
+rationes illae quas sub Judeorum nomine potuit, videntur
+sibi contrariae, et mutuis vulneribus jugulare.
+RICH. Longum est nimis de singulis agere, sed
+libet ex his quaedam excipere, et ex his id quod
+quaeris evidenter ostendere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Quomodo rationes sub Judaeorum nomine positae videntur sibi contrariae.</hi> </head>
+<p>RICH. Multis itaque praemissis, adjungit, et dicit:
+In diebus infantiae filii virginis, vel juvenculae, duo
+reges a quorum facie Judas trepidabat, alter ab Assyriis
+interfectus, alter ab Osee filio Elam trucidatus
+occubuerunt. Ecce signum praecessit, secuta est res.
+Item alio loco: Apertissime, inquit, loquitur sacra
+<pb n="0640B"/>
+Scriptura Dominum qui mentiri non potest dicere,
+quod antequam puer quem prophetissa peperit Isaiae
+sciat patrem suum et matrem vocare, Damascus et
+Samaria ab Assyriis destruenda sit. Hic intendite,
+juxta priorem sententiam ante mortem Phacee Emmanuel
+natus fuit. Nam, re subsequente, ut dictum
+est, signum praecessit. Juxta posteriorem sententiam
+nono anno post mortem Phacee, filius Isaiae, necdum
+adhuc scivit patrem et matrem vocare. Nam
+regi Phacee, rex Osce successit, cujus nono regni
+anno Samaria ab Assyriis destructa fuit. Alius itaque
+erit filius Isaiae qui sub tempore destructionis
+Samariae nescivit patrem et matrem vocare, et alius
+Emmanuel quem juxta priorem sententiam constat
+tunc temporis novem vel amplius annorum
+<pb n="0640C"/>
+fuisse. Item alio loco in longe sequentibus magister
+tuus dicit: Hoc etiam partem signi putant, quod in
+infantia positus, quae nihil eorum quae apponuntur
+rejicere solet immundis tanquam sordibus refutatis,
+mundos tantum cibos, quae synecdochice in butyro
+et melle accipiuntur, in cibum sumpturus sit. Si
+haec ergo pars signi fuit, et rem signum praecessit,
+demus ut vel unum annum habuerit, quando hanc
+discernendi cibos scientiam in signum futurae liberationis
+accepit. Juxta hoc utique decimo aetatis
+ejus anno, Samaria eversa fuit. Si ergo eumdem
+dicunt Emmanuel quem filium Isaiae, quomodo unus
+idemque erit tam sciolus, ut in primo aetatis suae
+anno sciat munda ab immundis secernere, tam fatuus,
+<pb n="0640D"/>
+ut in decimo aetatis suae anno nesciat patrem
+et matrem vocare? Audi et illud. Certe regi Achaz
+Ezechias in regnum successit, cujus sexto regni
+anno Samaria destructa fuit. Unde ergo monstrabunt
+quod eum puerum viderit, qui sexto post mortem
+ipsius anno patrem et matrem vocare non norit?
+Quomodo ergo juxta argumentationis suae rationem,
+alicujus rei signum regi esse poterat puer quem nunquam
+viderat, nunquam visurus erat? Animadvertis ex
+his, ut arbitror, quam anxium, quam anceps certamen
+sit, quod magister tuus subire non praesumpsit.
+HUGO. Videte ne forte erretis si cum haec aliter
+quam per ironiam dixisse putatis. RICH. Versute
+satis defendis magistrum tuum, sed eo ipso agis
+dum nescis contra temetipsum. Nam ubi est illud
+<pb n="0641A"/>
+ingeniolum tuum, nec muscae quidem viribus praeferendum,
+si te adeo irretire potuit quod ille quasi
+per ironiam texuit? HUGO. Jam, ut mihi videor, videre
+creditis vos magni aliquid effecisse in eo quod
+potuistis illa quae magister meus sub ironia vel ego
+argumentandi gratia proposuimus, vix aliquando
+cum summo labore dissolvere. RICH. Bene, quod
+prius pertinaciter defendebas, modo ironiam vocas.
+Quo teneam nodo mutantem protea vultus? Sed
+cum te in arcto positum conspicis, non est multum
+mirandum si tergiversatione qua potes evadendi
+exitum quaeris. HUGO. Non nos oportet sermone
+detinere diem: nam multa sunt adhuc in his quae
+animum pulsant ad quaestionem. RICH. Antequam
+ad alia discutienda transeamus, fateri te volumus
+<pb n="0641B"/>
+an adhuc veraciter constet apud te dictum Emmanuel
+non esse filium Isaiae, nec ipsum in signum
+tollendi timoris gratia datum fuisse. HUGO. Judaeus
+sit, Christianus sit, insani capitis se esse ostendit, qui
+super his ulterius haesitaverit. RICH. Quaere ergo consequenter
+quod vis. Nam ad singula discutienda quae
+proposueris, in quantum Dominus dederit, paratum
+habebis. Videtur siquidem propheta in his quae inter
+manus habemus, quaedam fidei nostrae quasi fundamenta
+jecisse, et idcirco operosum erit singula quaeque
+quaestione digna, cum summa diligentia pertractare.
+HUGO. Placet satis quod dicitis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Cujus rei signum convenienter dici possit partus quem Dominus proponit.</hi> </head>
+<p>
+            <pb n="0641C"/>HUGO. Sicut superius jam dixi, ea quae a nobis
+dicta sunt de signi qualitate, vel commendatione,
+admodum placent considerata per se, sed circumjacenti
+litterae nullo modo videntur cohaerere, et eo
+ipso nil ad rem pertinere. RICH. Putas, quaeso, in
+prophetis ubique hoc debere vel posse observari,
+ut quidquid in eis ubicunque dicitur, oporteat praecedentibus
+et subsequentibus coaptari? HUGO. Scio
+utrumque in prophetis frequens esse, et sequentia
+praecedentibus modo cohaerere, modo non cohaerere.
+Sed quamvis ista sententiarum cohaerentia ubique
+observari non valeat, non tamen consequens est ut
+idcirco hic observari non debeat. Cum enim certae
+rei gratia signum propositum fuerit, videte quam
+<pb n="0641D"/>
+absurdum sit, ut repente rei alterius signum exhiberi
+dicatur, et rei quidem de qua nulla mentio fit.
+RICH. Diximus jam, et audisti occultandi sacramenti
+gratia factum fuisse, et hoc tibi deberet sufficere.
+HUGO. Nemo mihi potest persuadere quod Spiritui
+sancto, qui in Isaia loquebatur, esset difficile rem
+cujus signum promissus puer esse possit, latenter
+tangere, et nihilominus secreti sui arcanum sub aliquo
+verborum integumento abscondere. Neque hoc
+posito, quod dico erit illa quae de signi multiplicitate
+dixistis evacuare, sed solidare. Nam unum
+idemque signum potest multiplex esse, et multa significare.
+Imo ita fiet ut id, quod a vobis exigo, sit,
+ut sic dicam, ad fundationem, illa vero, quae superius
+dixistis, ad superaedificationem. RICH. Oportet
+<pb n="0642A"/>
+tandem instantiae tuae, ne dicam pertinaciae, morem
+gerere, et velut delicato puero juxta desiderium satisfacere.
+Recole ergo quid reges illi qui Hierusalem
+debellare venerant, proposuerint, vel quid Dominus
+per prophetam consequenter promiserit: <hi>Ascendamus,</hi> 
+inquiunt, <hi>ad Judam, et suscitemus eum, et avellamus
+eum ad nos, et ponamus regem in medio ejus
+filium Tabeel.</hi> Et Dominus ad haec: <hi>Non stabit, et
+non erit istud <note>(Isa. VII)</note>
+            </hi>. Pro qua, quaeso, causa
+putas eos convenisse ad Judam debellandum? HUGO.
+Dixissem certe ad dilatandum regnum suum, nisi
+proposuissent evestigio substituere ibi regem alium.
+Magis itaque mihi videntur intendere, et laborare ad
+eversionem cultus divini, quam ad dilatationem
+regni sui. Avellamus, inquiunt, Judam ad nos. Unde,
+<pb n="0642B"/>
+quaeso, et quo? Unde, inquam, nisi ab eo in quo
+Judas ab eis diversus erat? Vel quo, inquam, nisi
+ad id in quo ipsi unum erant? Pluralitatem certe
+deorum recipiebant, et in hoc unanimiter consentiebant,
+et in hoc ipso unius professionis erant. In
+eo ipso vero Judas ab eis diversus erat, quod juxta
+professionem suam unum, et verum Deum colere
+debebat. Principaliter itaque ad hoc niti videntur,
+ut possent in eis unius Dei cultum evertere, et
+catenus ut non esset unde iterum posset repullulare.
+Avellamus, inquiunt: aliud est avellere, aliud est
+praecidere. Arbor certe cum in ramis, vel in trunco
+praeciditur, remanet ei radix adhuc unde reparetur.
+Sed cum radicitus avulsa fuerit, jam non ei superest
+unde reparari possit. Qui igitur Judam a fidelitatis
+<pb n="0642C"/>
+suae loco, ut sic dicam, ad infidelitatis suae
+participationem a vellere tentabant, quid aliud in eis
+quam verae Divinitatis cultum irreparabiliter evertere
+parabant? RICH. Acute satis in his omnibus
+vidisti, nec occurrit modo unde jure debeas reprehendi.
+Unius itaque et veri Dei cultum ab hominibus
+deleri cupiebant, qui Judam quidem (qui solus
+tunc temporis inter homines hujus professionis erat)
+ad se avellere, et suo errori implicari volebant. De
+hujus sane culturae abolitione Dominus repromittit,
+cum dicit: <hi>Non stabit, et non erit istud.</hi> Amodo,
+inquit, et usque in saeculum non erit, ut Judas avellatur,
+et cultus verae Deitatis ab hominibus deleatur.
+Quod modo hic promittitur de Juda, hoc est quod alias
+<pb n="0642D"/>
+aliis verbis promittitur de Ecclesia: <hi>Et portae inferni
+non praevalebunt adversus eam <note>(Matth. XVI)</note>
+            </hi>. Sicut
+in evellenda Dei cultura nemo praevalere potest adversus
+Judam, sic in evertenda fide catholica nemo
+praevalere potest adversus Ecclesiam. HUGO. Animadverto
+quid velitis dicere. Sed quod dicitur, non
+erit istud, puto gemino modo intelligi posse. Cum
+enim ad id quod praemissum est evellamus, respondetur
+non erit istud, potest specialiter intelligi quod
+non ab eis avelletur, vel generaliter, quod nullo
+modo, nullo tempore avelletur. RICH. Ex his itaque
+duobus quid tibi videtur majus? HUGO. Cum illa
+promissio sit specialis, vel potius singularis, ista
+generalis; illa parvi temporis, ista perennis; incomparabiliter
+est major ista, quam illa. RICH. Hoc
+<pb n="0643A"/>
+absque dubio Dominus promittit quod majus fuit,
+et ad hujus promissionis confirmationem signum
+proponit, in eo quod dicit: <hi>Ecce virgo concipiet,
+et pariet <note>(Isa. VII)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Unde perpendi possit in cujus rei signum datum non sit, vel quomodo sit illis datum a quibus nunquam est visum.</hi> </head>
+<p>HUGO. Video certe generalem illam, ut diximus,
+promissionem reliqua incomparabiliter digniorem,
+et quanto digniorem, tanto dignationi divinae competentiorem.
+Sed vellem, si fieri posset, ex ipsa
+Scriptura habere, unde possem illum quem praefertis
+sensum, quia praeferendus esset conjicere. RICH.
+Justa satis nobis videtur haec tua postulatio: nam
+<pb n="0643B"/>
+mos sacrae Scripturae est quod tacet in uno loco,
+saepe innuere ex alio. Ex signo ergo quod ad promissionis
+confirmationem proponitur, quod quaeris
+facile determinatur. Nam partus virginis qui post
+tot saecula futurus fuit, illius rei quae tunc temporis
+instabat signum esse non potuit. Alterius vero promissionis
+quae usque in finem saeculi durabit, idem
+virginis partus, tam idoneum tam certum signum
+fuit, ex quo esse et cognosci coepit, ut per mille
+jam, et eo amplius annos votis fidelium satisfecit,
+et usque in finem satisfacere poterit.</p>
+<p>Nota et illud in verbis prophetae, quod et tibi sicut
+jam significasti, ut fieret placuit, quomodo sub verborum
+involucro altitudinem divini arcani abscondit.
+Eo siquidem modo oraculum suum texuit, ut
+<pb n="0643C"/>
+et aliud intelligere possit cui promissio fit, et aliud
+ille qui promissionem facit. Nam cum regi Achaz
+detur intelligi posse ex verbis prophetae, quod dicti
+reges nullo modo possint regnum ejus evertere, vel
+ei alium regem substituere, Dominus tamen absque
+dubio promittit nulla persecutione, nullo tempore
+suos fideles posse avelli a sua fidelitate. Rex sane
+aspirabat, et sperabat liberationem de instanti persecutione
+a facie duorum regum, Dominus autem
+promittebat tam de instanti quam de futuro liberationem
+ab infidelitatis persecutionibus, tam hominum
+quam daemonum. Et vide quam miranda ratione
+cum Dominus utrumque facere proponeret,
+et illud quod ipse, et illud quod rex intendebat ad
+utrumque signum daret, si rex signum petere voluisset.
+<pb n="0643D"/>
+Sed quia ex multa malitia signum petere
+noluit, ad illud solum Dominus signum quomodo et
+quando voluit exhibuit, quod principaliter intendit.
+HUGO. Quomodo, quaeso, dicimus signum illis a Domino
+datum, quibus fuerat promissum; signum, inquam,
+post tot saecula futurum, et ab illis quibus
+promittebatur nunquam videndum? RICH. Certe
+Abrahae Dominus terram Chananaeorum dandam in
+haereditatem promisit, quam tamen nunquam nisi
+in suis haeredibus accepit. Nemo tamen contendit
+eum promissam haereditatem non accepisse, vel Dominum
+in sua promissione defecisse. Accepit ergo
+Abraham terram promissam post annos fere quadringentos
+in suis haeredibus. Accepit domus David signum
+<pb n="0644A"/>
+promissum post annos sexcentos in suis successoribus.
+Si tanta exspectatione digna fuit illa
+promissio, quanto magis ista multo majore, per
+quam homo Deus, et Deus factus est homo? Per
+illam homines facti sunt haeredes terrae Chananaeorum,
+per istam homines facti sunt cohaeredes angelorum.
+Per illam facti sunt filii Abrahae haeredes
+regni terreni, et transitorii, per istam facti sunt
+filii adoptionis haeredes Dei, cohaeredes autem Christi.
+HUGO. Video vos per omnia ad interrogationes
+meas satisfacere, ut non occurrat super proposito
+capitulo quid amplius oporteat interrogare. RICH.
+Ut illud quod modo de dato a Domino signo locuti
+sumus, cum illis quae in superiori tractatu dicta
+sunt conferamus. Juxta hanc lectionem habemus
+<pb n="0644B"/>
+quod plebs fidelis nullo modo, nullo tempore possit
+avelli a bono fidelitatis. Juxta illam lectionem tenemus
+quod iterum replantabitur in loco voluptatis
+et inconcusse radicabitur in bono felicitatis. Hinc
+habemus, quia bonum quod per Salvatoris gratiam
+post primum peccatum recuperavit, omnino amittere
+non possit. Inde tenemus, quia ad plenum recuperabit
+quidquid per malitiam seductoris amisit. Juxta
+hoc quod de dicto signo hic jam dictum est, securi
+sumus de stabilitate perceptae gratiae. Juxta id quod
+ibi de eodem signo dictum est, securi sumus de plenitudine,
+et perpetuitate percipiendae gloriae.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Quod electio boni soleat diversis modis accipi.</hi> </head>
+<p>HUGO. Fateor, incipio vos jam non solum libenter
+<pb n="0644C"/>
+sed et desideranter audire, et quia de istis jam
+dicta sufficiunt, vellem vos ad caetera quae me movent
+discutienda transire. RICH. Propone quod vis,
+et juxta quod vires suppeditant promptum habebis.
+HUGO. Sicut superius jam dixi, illa sententia quam
+de boni electione ponitis videtur mihi nimis violenter
+extorta, et illa similiter quam de regibus ponitis
+aliquantulum peregrina. Vultis ibi electionem boni
+esse, ex bonis optima excipere. Hinc consequenter
+ostendere nitimini quia Emmanuel noster secundum
+illam scientiam, quae per experientiam est,
+usque ad resurrectionem suam electionem boni non
+habuit, quoniam bonum immortalitatis, impassibilitatis,
+incorruptibilitatis, bonum coelestis et supermundanae
+jucunditatis quae sunt optima exterioris
+<pb n="0644D"/>
+hominis bona eatenus per experientiam nescivit.
+RICH. Quid, juxta id quod videtur tibi, dicendum est
+esse electionem boni? HUGO. Certe non solum ex
+bonis optima excipere, verum etiam bona a malis
+secernere et acceptare. RICH. Nec non negamus
+juxta hanc acceptionem dici solere. Nam, juxta loquendi
+usum, solemus saepe verborum significationem
+modo extendere, modo restringere, vel alio
+quolibet modo variare. Sed inter haec diligentem
+lectorem oportet caute discutere, et ex adjunctis
+colligere quid, qualiter, et juxta quam acceptionem
+suis quibusque locis debeat exponere. Aliquid sane
+debet esse inter boni approbationem, et boni electionem.
+Illud namque est discretionis, istud deliberationis.
+<pb n="0645A"/>
+Discretionis est bona a malis secernere,
+et illa approbare, ista reprobare. Deliberationis est,
+ex bonis quidem excipere ea quae meliora sunt, vel
+quae unicuique magis expediunt. Non ergo possumus
+jure reprehendi, si magis usi sumus proprietate
+verbi, quam licentia loquendi.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>Unde perpendi possit quod de regibus Rasim, et Phacee, dictum non sit:</hi> Derelinquetur terra a facie duorum regum suorum.</head>
+<p>RICH. Sed et illam sententiam quam de regibus
+posuimus, prolato de Daniele exemplo probavimus.
+Et nunquam certe expositio merito reprehenditur,
+quae Scripturarum auctoritate comprobatur. HUGO.
+Certe si reges ibi, juxta communem consuetudinem,
+<pb n="0645B"/>
+designaretis secundum historiam; et illam vestram
+quam de regibus spiritualibus ponitis sententiam
+extenderetis secundum allegoriam, mihi utique placeret,
+et omnibus, ut credo, merito placere debuisset.
+RICH. Ecce et in hoc ipso studebimus satisfacere
+desiderio tuo. Nam illa, ut credimus, littera aliam
+expositionem recipit, ad quam, ut vera fateamur,
+opinio nostra magis accedit. HUGO. Oportuit itaque
+magis posuisse istam quam illam. RICH. Imo ut
+confundantur qui ex adverso stant, et suis nos cavillationibus
+impugnant, oportet et illam posuisse,
+et istam non omittere, ut videant, et erubescant
+nos plures rationabiles exitus invenire, ubi nos putant
+suis argumentationibus circumcludere, ubi nec
+<pb n="0645C"/>
+sibi, nec nobis putant aliquem evadendi exitum patere.
+HUGO. Nolite, obsecro, diutina exspectatione
+animum meum suspendere, celerius audire vellem
+quid debeam de regibus istis sentire. RICH. Volumus
+prius audire a te quid tu sentias inde. HUGO. Ego
+absque dubio non alios intelligo quam Rasin regem
+Syriae, et Phacee filium Romeliae. RICH. Adde
+et illud, quae sit illa terra quam rex Achaz detestabatur,
+cujus duo illi designati reges, reges esse dicuntur,
+et a quibus derelinquenda praedicitur. HUGO.
+Miror quam de facili me de constanti ad ancipitem
+sententiam sola et simplici interrogatione perduxistis,
+et quod prius advertere debueram, nec adverteram,
+advertere fecistis. Nam, sive de terra
+Syriae, sive de terra Israel hoc dicatur, utramlibet
+<pb n="0645D"/>
+quidem detestabatur, qui ab utraque impie impugnabatur;
+neutra tamen illarum duos reges habebat,
+ut de eo merito dici debeat: <hi>Antequam sciat
+puer reprobare malum, et eligere bonum, derelinquetur
+terra quam tu detestaris, a facie duorum regum
+suorum <note>(Isa. VII)</note>
+            </hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT XI. <hi>Quod in his duobus regibus non illos duos qui in regno Israel adhuc supererant intelligere debemus.</hi> </head>
+<p>HUGO. Sed hic jam mihi occurrit quid illi valeant
+dicere, qui Emmanuel putant eumdem esse quem
+filium Isaiae. RICH. Et hoc ipsum quid sit vellem
+audire. HUGO. Certe illi qui de Israel, et qui de Juda
+erant de eadem progenie descenderant, et ejusdem
+professionis esse debuerant. Oportuit ergo eos qui
+<pb n="0646A"/>
+de Israel erant et sub Phacee militabant, tum debito
+cognationis, tum debito professionis fratres
+suos filios Juda non impugnare, sed defensare, et
+contra regem Syriae quoties opus esset, vel contra
+quoslibet oppugnatores se murum opponere. Terram
+igitur in qua Phacee principabatur, rex Achaz, ni
+fallor, principaliter detestabatur, cujus malitiam
+quanto circa se abominabiliorem sentiebat, tanto
+detestabiliorem habebat. Scimus autem quia adhuc
+de regno Israelitico usque ad ipsius destructionem
+duo tantummodo reges supererant: Phacee scilicet
+qui tunc sceptra gerebat, et Osee sub quo destruendum
+erat. Possunt ergo Judaei non inconvenienter,
+ut arbitror, quod de duobus regibus dicitur, ad hos
+reges referre, qui jam post modicum temporis de
+<pb n="0646B"/>
+caetero non poterunt terram illam regi Achab detestabilem,
+neque in seipsis, neque in suis haeredibus
+regere vel defensare, quia depopulanda erat
+antequam promissus puer quem putant filium Isaiae,
+sciret patrem et matrem vocare. RICH. Si illud quod
+superior disputatio invenit menti tuae non excidisset,
+haec quam ponis sententia locum non haberet.
+HUGO. Quid illud? RICH. Certe si eorum puer sub
+Phacee tempore natus fuerat, sub imperii eversione,
+si non amplius, fere decennis erat: et quomodo
+dicemus Puer patrem et matrem vocare nesciret?
+Si vero sub Osee natus fuit, jam solus rex regno
+Israelitico superfuit, et de eo dici non potuit, quia
+antequam sciat puer reprobare malum, et eligere
+<pb n="0646C"/>
+bonum, derelinquetur terra quam tu detestarisa facie
+duorum regum suorum. HUGO. Pudet me dixisse,
+et jam non video quid debeam de his regibus sentire,
+nisi dicamus prophetam numerum pro numero
+ponere, et terrae nomine, tam terram Israel
+quam terram Syriae oporteat intelligere. RICH. Nisi
+illud quod propheta hoc loco posuit secundum aliquem
+dicendi modum de his terris, vel earum regibus
+spiritualibus posuimus, sententia nulla esset.
+HUGO. Tempus jam est, si placet, vestram illam ad
+quam animus vester, ut dicitis, magis accedit sententiam
+explicare. Nam mihi quidem non videtur
+probabile prophetam hoc in loco numerum pro numero
+posuisse, et in una eademque sententia hinc
+numerum confundere, illinc tamen diligenter expressisse.
+<pb n="0646D"/>
+Nam de regibus loquens, etiam numerum
+expressit cum dixit: <hi>A facie duorum regum suorum.</hi> 
+RICH. Fiat tibi prout postulasti.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII. <hi>Quod in duobus regibus non intelliguntur duae personae tantum, sed gemina series regum secundum geminum regnandi modum.</hi> </head>
+<p>RICH. Sed prius vellem ex te, si placet, audire quomodo
+intelligis quod in propheta audis: <hi>Si fuerint
+tres isti viri in medio ejus, Noe, Daniel et Job, ipsi
+in justitia sua liberabunt animas suas <note>(Ezech. IV)</note>
+            </hi>. Nunquid
+in tribus istis viris tres tantum personas accipis?
+HUGO. Minime; imo triplex genus hominum
+juxta virorum illorum mores viventium. RICH. Quid
+de illo dicis quod legis in Evangelio: <hi>Erunt duo in
+<pb n="0647A"/>
+lecto uno? <note>(Luc. XVII.)</note>
+            </hi> HUGO. Et hic eodem modo
+duo hominum genera intelligo. RICH. Quid si hoc
+quod dicitur de duobus regibus juxta eamdem acceptionem
+intelligimus? HUGO. Certe nec hic eam
+oportet respuere, si viderimus adjacentia huic acceptioni
+concinere. RICH. Scimus certe quia terra
+Israel regem habuit secundum geminum modum.
+Nam modo, ut sic dicam, legitimum, modo
+habebat adulterinum. Legitimum de tribu Juda,
+et stirpe Davidica; adulterinum, de qualibet
+tribu alia. Illum juxta Dei institutionem, istum
+secundum usurpationem. Nam primum modum
+instituit propitius; secundum permisit iratus.
+Quando autem illi qui de Israel erant, secundum
+primam institutionem regem habebant, regnabant
+<pb n="0647B"/>
+super ipsos simul, et super Judam; quando vero
+secundum usurpationem regnum obtinebant, super
+ipsos tantummodo regnabant, non autem super Judam.
+Pro hujusmodi itaque regibus regi Achaz praedicitur
+de terra quam, sicut superius docuisti,
+principaliter detestabatur: <hi>Antequam puer sciat reprobare
+malum, et eligere bonum, derelinquetur terra
+quam tu detestaris, a facie duorum regum suorum <note>(Isa. VII)</note>
+            </hi>.
+Quod est apertius dicere: Antequam puer,
+secundum quod puer est, incipiat malorum et bonorum
+nostrorum experientiam capere, et ejusmodi
+experientiae peritiam habere, incipiet in Israel
+carnale regnum deficere, et de caetero nunquam
+continget, vel de tribu Juda, vel de qualibet
+sui generis tribu alia, illis regem habere. Circa
+<pb n="0647C"/>
+nascendi namque Emmanuelis nostri tempora regnum
+Israel ad alienigenam transiit. Nam Herodes
+jam in Judaico populo imperialia jura suscepit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Quomodo defectus Israelitici regni praedicitur, vel qua ex causa ad alienigenam transfertur.</hi> </head>
+<p>RICH. Notandum sane quale quid sit quod sermo
+propheticus futurum praedicat et sub qua occasione
+tales minas intentat. Eo utique tempore quo uterque
+rex, et ille videlicet qui de Israel, et ille qui
+de Juda erant, ad tam magnum et manifestum
+divinae religionis odium proruperant; eo, inquam,
+tempore futurum praedicitur quod utrique displiceat,
+quod utrique odiosum existat. Nam vera religio
+tam odiosa erat Israelitico regi ut contra fratres
+<pb n="0647D"/>
+suos magis decertaret, sicut superius docuimus,
+pro eversione cultus divini quam pro dilatatione,
+vel locupletatione regni sui. Regi vero Juda, sicut
+superiori tractatu probatur, invenitur tam odiosa
+existere, ut mallet sub instantis periculi metu trepidare
+quam signum suae liberationis accipere, tam
+provide quam impie cavens ne illud a Domino fieret
+quod ad ejus gloriam accederet, et quod ad cultus
+ipsius confirmationem proficeret. Utroque igitur
+rege impie in Deum agente, merito futurum praedicitur,
+quod utrique absque dubio odiosum comprobatur.
+Nam regi Israel, et eis qui de Israel erant,
+erat utique odiosum quod in eis deficienda erat
+series regum secundum posteriorem modum. Et
+<pb n="0648A"/>
+regi Juda, et eis qui de Juda erant erat abominandum,
+quod nec regem habere possent secundum
+priorem modum. Rege itaque Israel in regem Achaz
+impie saeviente, et rege Achaz signum suae liberationis
+impie respuente, utroque autem in Deum perverse
+agente, Israelitici regni defectus tam secundum
+legitimum, quam secundum adulterinum ordinem
+praedicitur, ut inde detur intelligi ex qua
+culpa regalis potestas ad alienigenam transferatur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>Defectus Israelitici regni, et adventus Emmanuelis nostri, quomodo possunt alteruter ex altero perpendi.</hi> </head>
+<p>RICH. Attendendum autem quomodo ista duo respondent
+sibi mutuo, ut alterutrum possit perpendi
+<pb n="0648B"/>
+ex altero, Israelitici videlicet regni defectus, et
+Emmanuelis nostri adventus: nam, postquam in
+Israel coeperit alienigena regnare, certum sit promissi
+pueri, virgineique puerperii tempora instare.
+E converso autem, postquam virginei uteri puerperium
+praedicari coeperit, certum sit quia Israeliticum
+regnum ad defectum venit, et de caetero quidem
+in pristinum statum nunquam reformari poterit.
+Mille pro certo, et eo amplius anni jam sunt
+transacti ex quo coepit virginalis partus praedicari,
+et illa utique Israelitici regni desolatio quae jam
+praecesserat, usque hodie perseverat.</p>
+<p>Nota et illud, quomodo hoc loco propheta tacet
+quod patriarcha praedixit, et e converso, quod ille
+tacuit, iste futurum praedicit. Nam, quod iste de
+<pb n="0648C"/>
+regni defectu in Juda omnino tacuit, in terra utique
+Israel futurum praedicit: <hi>Derelinquetur,</hi> inquit, <hi>terra a facie duorum regum suorum 
+ <note>(Isa. VII)</note>
+            </hi>.
+Econtra de Juda ab illo praedicitur quod ab isto
+tacetur: <hi>Non auferetur sceptrum de Juda, et dux de
+femore ejus, donec veniat qui mittendus est <note>(Gen. XLIX)</note>
+            </hi>.
+Aliud est praelationem aliquod ad tempus vacare,
+atque aliud omnino deficere. Aliud utique successionem
+regum interpolari, atque aliud regiam potestatem
+de gente in gentem transferri. Tunc sceptrum
+sane aufertur, quando alienis datur. Certe
+ex quo datum est illis qui de Juda erant sceptrum
+gerere et imperium exercere, nemo alienigena
+super Judam in regem unctus fuit usque ad Herodem,
+<pb n="0648D"/>
+sub quo Emmanuel noster per virgineum
+partum in mundum venit. Tunc igitur his qui de
+Juda erant sceptrum aufertur, quando Herodi datur,
+et ad ejus haeredes transfertur. Tunc Judas cum
+ipsa re etiam jus repetendi amisit, quando Herodes
+regiam potestatem sine reclamatione possedit, et
+ad haeredes transmisit. Vides certe quomodo sub
+uno, eodemque tempore impletur et quod per patriarcham
+de Juda, et quod de Israel per prophetam
+praedicitur. HUGO. Quamvis nonnihil sit adhuc
+quod me moveat in hac nostra sententia, illud tamen
+admodum placet quod videtur concordare cum
+illa prophetia, quae jam ubique terrarum lectitatur
+in Christi Ecclesia: <hi>Cum venerit Sanctus sanctorum,
+cessabit unctio <note>(Dan. IX)</note>
+            </hi>. RICH. Nunc et illud
+<pb n="0649A"/>
+attende, de hac ultima de promisso puero sententia,
+quomodo, vel quam convenienter respondeat
+ad superiora.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XV. <hi>Quomodo concordet electio temporis cum qualitate personae adventantis.</hi> </head>
+<p>RICH. Cum igitur praemiserit quod promissus puer
+Emmanuelis nomen accipiet, et quod malorum, et
+bonorum nostrorum experientiam capiet, et ejusmodi
+scientiam experiendo addiscet; cum haec, inquam,
+praemiserit, statim adnectit, quia antequam
+sciat puer reprobare malum et eligere bonum, derelinquetur
+terra quam Achaz detestatur a facie duorum
+regum suorum. Ac si apertius propheta pronuntiet,
+<pb n="0649B"/>
+et dicat: Promissa persona videte quanta,
+vel qualis sit, et tunc intelligetis quam congruo,
+quam necessario tempore venit. Attendite diligenter
+et considerate vehementer, danda persona quam sit
+sublimis, quam sit humilis, cujus sit potestatis,
+quantae compassionis. Cujus, quaeso, sublimitatis,
+quantae, inquam, potestatis persona in qua nobiscum
+Deus, persona cujus imperium super humerum
+ejus; persona, inquam, cujus imperium non in
+multis millibus subjectorum, non in multitudine
+innumerabili exercituum, sed totum super humerum
+proprium. Cujus itidem humilitatis, quantae,
+obsecro, compassionis, quae sublimitatis suae oblita,
+quae potestatis suae majestate dissimulata, butyrum
+et mel comedendo, propter nos ad participationem
+<pb n="0649C"/>
+muscarum descendit, et tam malorum quam bonorum
+nostrorum experientiam sponte suscepit. Quid nobis
+facere non possit persona in qua Deus sit, imo persona
+quae Deus nobiscum sit? Quid pro nobis quod
+ad salutem nostram spectet facere nolit, qui ad passiones
+nostras ex sola compassione descendit? Ecce
+in his habes quanta, vel qualis persona haec sit,
+qui potestate praedita, et ad compassionem prona
+suis fidelibus prodesse, et efficaciter possit, et indubitanter
+velit. Videamus modo quomodo consonet,
+vel concordet electio temporis cum qualitate personae
+adventantis. Videamus ergo quando venerit.
+Eo certe tempore venit, quando maxime necessarium
+fuit. Eo tempore venit, quando in populo fidelium
+<pb n="0649D"/>
+regale praesidium defecit. Venit, quando in
+populo Dei defecit utraque successio regum, juxta
+geminum quem praediximus modum, quando propter
+malitiam regnantium sublatum est ab eis sceptrum,
+et alienigenis et infidelibus datum. Quando
+ergo in plebe fidelium coepit omnino deficere humanum
+solatium atque praesidium, superabundavit divinum,
+ut ubi abundavit malitia, superabundaret et
+gratia. Causa ergo adventus promissae personae redditur,
+in eo quod dicitur, <hi>Quia antequam sciat puer
+reprobare malum, et eligere bonum, derelinquetur
+terra a facie duorum regum suorum.</hi> Ac si aperte
+diceretur: Idcirco futurum est ut detur nobis
+puer, qui juxta nomen suum sit nobiscum Deus,
+quia sub ejus adventu destituetur terra ab omni
+<pb n="0650A"/>
+regali praesidio, utpote derelicta a facie duorum
+regum suorum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>Quod ab hora conceptionis suae coepit bonorum et malorum nostrorum experientiam capere et habere.</hi> </head>
+<p>HUGO. Diu certe sustinui loquentem, ne ante expletam
+sententiam vestrum sermonem interrumperem,
+quamvis in hac vestra de regibus sententia
+nonnihil esset quod animum meum ad quaestionem
+pulsaret. RICH. Ecce parati sumus audire, si quid
+affers quod te jure debeat movere. HUGO. Certe si
+duo illi quales designatis reges, id est, gemina
+regum series, quarum unam dicis legitimam, alteram
+vocas adulterinam; si ista, inquam, gemina regum
+<pb n="0650B"/>
+series ad ultimum defectum sub Emmanuelis infantia
+veniret, antequam ad annos discretionis juxta
+aetatem venisset, non esset in illa quam ponitis sententia,
+ut mihi videtur, quod jure reprehendi debuisset.
+Sed constat satis quia ante Emmanuelis
+nostri nativitatem, imo et ante ejus conceptionem,
+regalis jam in Judaismo potestas ad alienigenam
+transierat: nam ante ejus adventum Herodes jam
+per aliquot annos regnarat. Si itaque propheta
+illud tempus designare voluit, quo Israeliticum
+regnum defecit, cur dicit: <hi>Antequam sciat puer reprobare
+malum, et eligere bonum, derelinquetur terra
+a facie duorum regum suorum?</hi> Vel cur non potius
+dicit: Antequam nascatur, imo antequam in
+utero concipiatur, derelinquetur terra a facie duorum
+<pb n="0650C"/>
+regum suorum? RICH. Hoccine est illud,
+frater, quod te movet, vel merito movere debet?
+Quando ergo putas hunc puerum, de quo jam multa
+audisti; quando, inquam, putas hujus nostrae egenae
+scientiae quae per experientiam est, primo participem
+fieri? HUGO. Jam video quaestionem meam esse solutam,
+jam video quod ante praevidisse debueram;
+sed hunc puerum nimis negligenter, et velut unum
+e caeteris attendebam. Dicite tamen quae proposuistis;
+libenter audio quae minime ignoro, si forte
+cum eo quod scio contingat et illud audire quod
+nescio. RICH. Dic ergo quando Emmanuelem nostrum
+hujus nostrae egenae scientiae primo putas participem
+fuisse? HUGO. Scio quia anima Christi ab
+<pb n="0650D"/>
+hora conceptionis suae tam sapientiae, quam scientiae
+plenitudinem accepit; nihilominus tamen ad eam,
+quae per experientiam est, scientiam, per temporum
+intervalla perfecit. RICH. Profecto et in scientia, et
+sapientia per accessum temporis proficiebat; sed de
+scientiae ejus primordiis, non de profectu quaestio
+inter nos erat. HUGO. Paratior sum in hac re vestram
+audire, quam meam sententiam ponere. RICH.
+Certe si anima Christi ab hora conceptionis suae
+plenitudinem scientiae et sapientiae habuit, quid circa
+carnem suam, quid circa semetipsam ageretur ignorare
+non potuit. HUGO. Nil verius. RICH. Qui igitur
+formam servi accepit, qui in similitudinem carnis
+peccati venit, profecto ab ipsa hora conceptionis
+per experientiam didicit, et novit quid esset bonum
+<pb n="0651A"/>
+sensibilitatis, et malum passibilitatis, utpote qui carnem
+sensibilem et passibilem accepit. Nec solum secundum
+carnem, sed et secundum mentem tam bonorum
+quam malorum nostrorum absque peccato particeps
+fuit. Nam ordinatos quidem, sed tamen passibiles
+affectus habuit. Testatur hoc, quod videns civitatem
+coepit super eam flere, quod sub tempore passionis
+coepit pavere et taedere. Ab ipso itaque incarnationis
+exordio experiendo didicit, et per experientiam scivit
+quid esset juxta aliquid malum corruptibilitatis,
+et juxta aliquid quid esset bonum incorruptibilitatis,
+malum corruptibilitatis secundum poenam, bonum
+incorruptibilitatis secundum culpam. Quantum itaque
+ad temporis expressionem, et sententiae veritatem
+nihil aliud est dicere: <hi>Antequam sciat puer reprobare
+<pb n="0651B"/>
+malum, et eligere bonum,</hi> quam si diceretur:
+Ante pueri conceptum <hi>derelinquetur terra a
+facie duorum regum suorum.</hi> </p>
+<p>Et nota quia cum praemiserit: <hi>Butyrum et mel
+comedet, ut sciat reprobare malum et eligere bonum,</hi> 
+non repetit quia antequam butyrum et mel
+comedat; nec dicit: Antequam butyrum et mel comedendo
+sciat reprobare malum, et eligere bonum.
+Nihil dicit in quo nos cogat infantiae ejus tempora
+intelligere, vel quod non possumus congrue ad conceptionis
+ejus tempora referre.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>Quod illum dicendi modum propheta elegit, qui ad occultandum sacramentum convenientior fuit.</hi> </head>
+<p>
+            <pb n="0651C"/>HUGO. Secundum eam conceptionem quam ego de
+boni electione posui, haec vestra solutio sufficit. Sed
+secundum illam acceptionem quae a vobis in superiori
+tractatu posita est, nulla erit. RICH. Accipe
+ergo et aliam, quae secundum utramque sufficere
+possit. HUGO. Nec hanc quae secundum meam sententiam
+est reprobo, et illam quam proponitis audire
+exspecto. RICH. Uti alias jam diximus, oportuit ut
+oraculum suum propheta de hoc puero eo modo
+texeret, ut pro tempore lateret et puer iste quis
+esset, et cur vel quando veniret, et nihilominus hoc
+totum ex eadem Scriptura suo tempore cognosci et
+probari potuisset, ut modo mirabili in uno eodemque
+Scripturae loco inveniretur, et unde infidelitas
+excaecaretur, et fidelitas illuminaretur. Quaere ex
+<pb n="0651D"/>
+hac Scriptura diligenter in cujus rei signum hic
+puer datus sit, et habes cur venerit. Attende quale
+nomen prophetia ei imposuerit, simul et perpende
+quia nuncupative nunquam sic dictus sit, et intelliges
+quis fuerit. Inquire attentius quando terra quam
+Achaz detestabatur a facie duorum regum suorum
+destituta sit, et invenies quomodo adventantis Emmanuelis
+tempus perpendi possit. Ut enim excaecandos
+lateret, ut illuminandis suo tempore innotesceret
+quod ad divinae culturae confirmationem
+promissus puer daretur, et in ejusmodi rei signum
+promitteretur, ad illud quod praemissum est, avellamus
+Judam ad nos: non est subjunctum, non avelletur,
+sicut nec avelletur a vobis, sed subjunctum
+est in quo utrumlibet subintelligi potest, scilicet <hi>non
+<pb n="0652A"/>
+stabit, neque erit istud.</hi> Ut aeque excaecandos lateret,
+ut illuminandis innotesceret, quod qui promittebatur
+futurus esset et homo et Deus, non est dictum
+quod de Virgine conceptus et natus esset nobis
+cum Deus, sed quod vocaretur nobiscum Deus. Simili
+ratione ut tempus divini adventus propter pios
+praediceretur, et nihilominus tam impiis hominibus
+quam daemonibus absconderetur, non est dictum
+quod ante ejus adventum derelinquetur terra Israel
+a duobus generibus regum suorum, sed <hi>derelinquetur
+terra quam tu detestaris a facie duorum regum
+suorum.</hi> Factum est autem ex hac verborum ambiguitate
+ut Judaei putent, usque hodie, Emmanuel promissum
+in signum liberationis de manibus Rasin
+atque Phacee. Hinc factum est ut a quibusdam putetur,
+<pb n="0652B"/>
+usque hodie, idem esse Emmanuel qui filius
+Isaiae. Occultandi itaque sacramenti gratia et hoc
+est factum, ut non diceretur quia ante Emmanuelis
+ortum, vel conceptum, sed potius dictum est <hi>antequam
+sciat puer reprobare malum et eligere bonum,
+derelinquetur terra quam tu detestaris a facie
+duorum regum suorum.</hi> Nam si illo modo potius
+quam isto dictum fuisset, procul dubio manifestum
+esset quod illius liberationis signum esse non posset,
+quae non solum ejus nativitatem, sed et conceptionem
+praecessisset. Illud itaque propheta ex divino
+instinctu dicendum elegit, quod quidem occultandi
+sacramenti gratia ad dicendum congruentius fuit,
+quod et ipsum quidem aeque verum fuit. Nam quod
+<pb n="0652C"/>
+praecessit tempus conceptionis, absque dubio praecessit
+et tempus discretionis. HUGO. Video vos ad ea
+quae me movebant per omnia mihi satisfecisse, ut
+interim non habeam juxta historicum sensum quid
+ultra debeam quaerere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>Quomodo Jesus intelligitur non solum aetate, verum etiam sapientia profecisse.</hi> </head>
+<p>HUGO. Sed illud de provectu sapientiae quod superius
+tetigistis, quasi a latere vellem a vobis quomodo
+intelligendum sit audire. Nam mihi videtur
+omnino aliter esse. RICH. Cum evangelista hoc dicat,
+negare quis audeat? Jesus, inquit, <hi>proficiebat sapientia,
+aetate, et gratia apud Deum et apud homines <note>(Luc. II)</note>
+            </hi>.
+HUGO. Sed dicunt ipsum profecisse secundum
+<pb n="0652D"/>
+opinionem solam. RICH. Falsam, quaeso, an
+veram? HUGO. Ut mihi videtur, falsam. RICH. Nunquid
+et aetate proficiebat secundum solam opinionem?
+HUGO. Imo secundum veritatem. RICH. Bene.
+Placet ergo tibi ut dicatur in sapientia profecisse
+secundum falsitatem, et aetate quidem secundum
+veritatem? HUGO. Nollem de hac re disputare, sed
+simpliciter audire, et quid sentiendum sit ratione
+manifesta colligere. RICH. Dic prius utrum tibi placeat
+unam eamdemque dictionem in una et eadem
+positione, juxta historicum sensum ad diversas
+acceptiones accommodare. HUGO. Scio quid responderem,
+si quomodo aliter exponere invenirem.
+Sed nolo improbare illam quam interim teneo sententiam,
+donec meliorem et certiorem inveniam.
+<pb n="0653A"/>
+RICH. Virtutum notitiam, et exercendi peritiam putas,
+obsecro, ad ipsam pertinere sapientiam? HUGO.
+Utique puto, imo pro certo habeo. Scio nihilominus
+animam Christi ab hora conceptionis suae omnium
+virtutum notitiam simul et efficaciam habuisse,
+et utriusque plenitudinem simul et semel accepisse.
+Unde nec credo per temporum intervalla ad sapientiam
+profecisse, vel proficere potuisse. RICH. Pro
+certo virtutum omnium efficaciam ab initio habuit,
+sed non omnium simul efficentiam exhibuit, sed
+juxta singularum congruentiam suo tempore dispensavit.
+Exercendi peritiam ab initio habuit, sed ad
+experientiae notionem per accessum temporis accrevit.
+Ab ipsa incarnatione per experientiam didicit,
+cujus humilitatis fuerit Dominum majestatis ad
+<pb n="0653B"/>
+servilis formae susceptionem seipsum inclinare. Sub
+hora circumcidendi et baptizandi per experientiam
+didicit, cujus dignationis fuerit totius peccati immunem,
+de manibus peccatorum sacramenta salutis
+nostrae, sine ulla sui utilitate suscipere. Sub hora
+tentationis per experientiam didicit, cujus discretionis
+fuerit diabolicis suggestionibus non cedere,
+nec inter esuriendum appetitui deservire. Sub hora
+passionis per experientiam didicit, cujus perfectionis
+fuerit inter contumelias et terrores internam
+pacem, et animi tranquillitatem non amittere, et
+inter crucifigendum pro suis interfectoribus orare.
+Et ut breviter dicatur quid nobis inde videatur,
+quemadmodum secundum Apostolum ex his quae
+passus est didicit obedientiam <note>(Hebr. V)</note>, juxta eumdem
+<pb n="0653C"/>
+modum proficit ad scientiam, profecit ad
+sapientiam. HUGO. Pro illa quam proposui quaestione
+debent ista sufficere</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX. <hi>Quid in dictis duobus juxta allegoriam intelligere debeamus.</hi> </head>
+<p>HUGO. Sed quoniam jam dictum est quid de duobus
+regibus sentiendum sit secundum historiam, superest
+ut dicatis quid de eis sentiri debeat etiam secundum
+allegoriam. RICH. Sicut in hominibus videmus, sic
+et in spiritibus malignis perpendere possumus, alios
+videlicet aliis praesidere, et qui in eis astutiores vel
+audaciores sunt, inferiorum officia disponere, et in
+eis quasi quaedam imperii jura exercere. Ejusmodi
+<pb n="0653D"/>
+autem reges etiam in hominibus jus domini et principatus
+accipiunt, cum eis ad crimina et flagitia ex
+libero arbitrio consentiunt. Hinc est quod secundum
+Danielem alius dicitur princeps Persarum, alius
+vero princeps Graecorum <note>(Dan. X)</note>.</p>
+<p>Notandum autem de ejusmodi regibus, quod quando
+eis homines leviter atque libenter ad culpam
+consentiunt, quasi quodam aequitatis jure regnum
+in eis, et dominandi potestatem accipiunt. Quando
+vero nimia tentationum importunitate, et quasi violenta
+manu ad casum impellunt, tunc velut per invasionem
+in eis regnum arripiunt. Haec gemina
+ejusmodi regum differentia recte intelligitur in duobus
+illis regibus de quibus ad Achaz dicitur: <hi>Derelinquetur
+terra quam tu detestaris, a facie duorum
+<pb n="0654A"/>
+regum suorum <note>(Isa. VII)</note>
+            </hi>. Nam sive carnales, sive spirituales
+reges cogites in illa terra quam rex Achaz
+detestabatur, alii juste, alii autem injuste regnum
+obtinuisse videbantur. Credimus autem quod et in
+illo priori tractatu locuti sumus, et ibi super eodem
+capitulo docuimus multos daemones in Christi passione
+fuisse captivatos, et ab hominum insectatione
+relegatos; nec tamen qualecunque, sicut nec omnes
+sed qui in eis erant ad malignandum efficaciores,
+et quales Scriptura voluit designare per reges, illos
+denique, per quos multorum salus impediri potuit,
+de quibus primitiva Ecclesia construenda fuit. Cum
+igitur ad id quod dictum est, <hi>derelinquetur terra a
+facie duorum regum suorum,</hi> praemissum sit, <hi>antequam
+puer sciat reprobare malum et eligere bonum,</hi> 
+<pb n="0654B"/>
+si boni electionem secundum eam assignationem
+quam nos determinavimus velis accipere, videbis
+omnia in eam sententiam quam ibi posuimus concurrere.
+HUGO. Video sane, nec vos oportet pro hac
+re ulterius laborare. Si enim ut vobis placet dicatur
+boni electio esse, optima quaeque ab inferioribus
+bonis secernere, et apprehendere, profecto liquebit
+quia Emmanuel noster juxta id quod puer
+fuit, ad hujus scientiae plenitudinem pro experiendi
+modo per resurrectionem et ascensionem profecit.
+Ante resurrectionem siquidem per experientiam
+novit quale bonum esset vita carnis mortalis atque
+passibilitas. Sed per experientiam non novit quae
+esset immortalitas et impassibilitas carnis. Ante
+ascensionem per experientiam didicit quae esset
+<pb n="0654C"/>
+conversatio mundi, sed per experientiam non noverat
+quae esset conversatio coeli: prius experiendo
+didicerat quae esset cohabitatio hominum, postea
+experiendo novit quae esset cohabitatio angelorum.
+Quoniam ergo dictus puer optima exterioris hominis
+bona ante suam resurrectionem per experientiam
+non novit, si illa, uti videtur, daemonum captivatio
+sub ejus passione facta fuit, merito de eo Scriptura
+dicit: <hi>Quia antequam puer sciat reprobare malum, et
+eligere bonum, derelinquetur terra quam tu detestaris,
+a facie duorum regum suorum.</hi> Sed haec in superiori
+tractatu diffusius dicta sunt, inde repetat cui ista non
+sufficiunt. RICH. Ecce jam vides, ut credimus, sub
+quanto ambiguitatis profundo veritas tegitur, et
+<pb n="0654D"/>
+quam difficile eruitur, nisi a quibus fide et simplicitate
+quaeritur. Sic certe debuit altitudo consilii
+divini et infidelibus abscondi, et fidelibus reservari,
+ut esset et unde fides exerceretur, et infidelitas
+excaecaretur.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XX. <hi>Quod oportet, si fieri posset, hanc materiam semper prae oculis habere, et in ejus admirationem jugi occupatione animos suspendere.</hi> </head>
+<p>RICH. Sed jam tempus est diu protracto sermoni
+finem imponere, nisi forte occurrit quod super his
+amplius velis interrogare HUGO. Non occurrit, fateor,
+quod ultra jam quaerere debeam, nisi forte ad manum
+habetis quod juxta mysticam intelligentiam
+recte intelligi possit, de cibo nostri Emmanuelis.
+<pb n="0655A"/>
+RICH. Studeremus et in hoc tuae satisfacere voluntati,
+nisi timeremus nimiae prolixitatis argui ab his
+qui student brevitati. HUGO. O quam frustra timemus
+circa illam materiam studiorum nostrorum
+moras impendere, quam semper oporteret si fieri
+posset prae oculis habere, et in ejus admirationem
+jugi occupatione animos suspendere! RICH. Verissimum
+procul dubio constat quod dicis, etiam facimus
+quod vis, et primum videamus de comestione
+butyri et mellis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXI. <hi>Quid mystice intelligendum sit de butyro, vel quae sit ejusmodi cibi comestio.</hi> </head>
+<p>RICH. Mel, ut dicitur, de coelo descendit; butyrum,
+ut novimus, de carne venit. Mel de coelo, mediante
+<pb n="0655B"/>
+rore; butyrum de carne, mediante lacte.
+Quid est enim butyrum, nisi quaedam pinguedo
+lactis, et quid est mel, nisi quaedam dulciflua, ut
+sic dicam, crassitudo roris? In lacte, propter sui
+dulcedinem, recte intelligitur cordis dulcedo; in
+butyro, propter sui originem, recte intelligitur cordis
+exsultatio. Butyrum de lacte colligitur, et vera
+cordis exsultatio de vera cordis dulcedine generatur.
+Quanto abundamus lacte, tanto et butyro possumus
+abundare. Sic et juxta abundantiam benignitatis
+erit et abundantia jucunditatis. Si cor
+Christi attendimus, nihil illo dulcius, nihil illo benignius.
+Nil uspiam creaturarum illo corde dulcius
+esse potuit, nil unquam dulcius esse poterit; nullum
+<pb n="0655C"/>
+cor corde illo uberius exsultavit: vera cordium
+nostrorum exsultatio solet esse de testimonio conscientiae. <hi>Gloria nostra,</hi> 
+ inquit, <hi>haec est, testimonium
+conscientiae nostrae <note>(II Cor. I)</note>
+            </hi>. Testimonium conscientiae
+bonae in nostro corde, concupiscentiae non
+consentire. Testimonium conscientiae in illo corde,
+nullam concupiscentiam sentire. Quid illa conscientia
+mundius fuit, quae nullam concupiscentiam sensit?
+Quid illo corde dulcius fuit, quod nulla malitia
+tetigit, quod nihil fellis, nil amaritudinis vel habuit
+vel habere potuit? Secundum autem magnitudinem
+dulcoris, erat et in ipso magnitudo exsultationis.
+Perpende, si potes, quanta dulcedo cordis illius
+fuerit, quam tanta passionis acerbitas interpolare
+vel attenuare non potuit. Inter patiendum magis
+<pb n="0655D"/>
+compatiebatur inimicis suis, quam misereretur
+membris suis. Prae caeteris omnibus Emmanuel cor
+carneum ad compatiendum habuit, quoniam ad omnem
+pietatis affectum nihil illo unquam tenerius
+fuit. Solus Emmanuel potuit de verae dulcedinis
+plenitudine, et perpetuitate gaudere, et hoc illi
+fuit, mediante lacte, butyrum de carne trahere et
+abundare. Quae enim alia apud illum fuit comestio
+butyri, quam internae dulcedinis gaudio jugi celebritate
+perfrui?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXII. <hi>Quomodo in butyro summa et intima suavitas intelligi possit, vel unde hic cibus Emmanueli nostro abundavit.</hi> </head>
+<p>Illud quoque in butyro attendendum, quod nullus
+<pb n="0656A"/>
+cibus est illo suavior ad vescendum. Panis, piscis
+et caeteri cibi ejusmodi prius masticantur ut postmodum
+trajiciantur. Butyrum vero nihil duritiae,
+nihil tenaciae habet, unde nec masticari oportet. Et
+sicut melle nihil est dulcius, sic butyro ad vescendum
+nihil suavius. Interroga gustum, et invenies
+quia illo nihil dulcius ad gustandum. Interroga tactum,
+et agnosces quia isto nihil suavius ad trajiciendum.
+Intellige ergo in melle summam dulcedinem,
+in butyro intimam suavitatem. Vis ergo scire
+quomodo Emmanuel noster ex quo homo esse coepit,
+et in eo quod homo fuit, intimae suavitatis butyrum
+ad copiam habuerit, vel quomodo ei hoc ipsum
+de lactis plenitudine abundaverit, attende itaque
+haec duo in lacte. Solet namque esse praecipui
+<pb n="0656B"/>
+candoris, et eximii dulcoris. Sic utique, sic lac verae
+bonitatis, ut proprietatis suae qualitatem servet,
+haec duo habere solet et debet, candorem videlicet
+intimae munditiae, et dulcorem plenae benevolentiae.
+Candorem munditiae, apud semetipsum; dulcorem
+benevolentiae, erga proximum. Illud itaque Dominicum
+pectus nostri Emmanuelis, lacteum candorem
+habuit in integritate summae et intimae puritatis,
+lacteum dulcorem in plenitudine summae et intimae
+pietatis. Lacteum candorem in nobis modo minuit,
+modo tollit foeditas concupiscentiae: lacteum
+vero dulcorem minuit, vel tollit acerbitas malitiae.
+Emmanuel autem noster quia neutram sensit, sed
+nec sentire potuit, utriusque jugitatem in omni plenitudine
+<pb n="0656C"/>
+servavit. Nos vero sine magna industria,
+sine multa violentia non possumus vel concupiscentiae
+resistere, ver malitiam repellere, et lactei
+liquoris integritatem incorruptam servare. Emmanueli
+autem suave et delectabile erat quidquid
+summa puritas, quidquid summa pietas exigebat.
+In regula ergo bonitatis, quod nobis est saepe durum
+atque difficile, illi omnino erat suave atque delectabile:
+et hoc illi erat summae suavitatis butyrum
+de verae bonitatis lacte colligere, et abundanter habere.
+Cum autem in nobis corruptibile hoc induerit
+incorruptionem, et mortale hoc immortalitatem,
+erit utique et nobis suave quidquid salubre et solum
+delectabile quod summe laudabile, et tunc dabitur
+nobis illius escae plena et sempiterna refectio, cujus
+<pb n="0656D"/>
+assumptio atque perfruitio erit absque omni labore,
+et qualicunque fagitatione. Quod igitur accepturi
+sumus in vita futura, ille accepit in vita ista, quod
+nobis dabitur in consummatione, illi datum est ab
+hora conceptionis suae. Summae itaque suavitatis
+butyrum, cujus participationem exspectamus in nostra
+glorificatione, ipse accepit in ipso ingressu hujus
+mortalis vitae, nec nostro more ex parte, sed
+in omni plenitudine. Ecce jam de butyro audivimus,
+nunc de melle videamus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIII. <hi>De spirituali, et summae dulcedinis melle, et quod ejusmodi cibo Emmanuel satiatus sit ab hora conceptionis suae.</hi> </head>
+<p>RICH. Mel, ut dictum est, de coelo venit, et de
+<pb n="0657A"/>
+summis in ima descendit, cujus dulcedo dulcedinem
+omnem incomparabiliter excedit. Sed a quo
+coelo descendit putamus mel illud, unde noster Emmanuel
+est cibatus, et pastus? Credimus quia a
+summo coelo egressio ejus. De summi Patris apotheca
+melliflua illa dulcedo descendit, unde Emmanuelis
+infantia educata fuit. Absque dubio quidquid
+dulcoris, quidquid suavitatis, quidquid jucunditatis
+Pater habuit, totum Emmanueli illi instillavit. Ecce
+a quo coelo ros ille descendit, unde cor illud irrigatum
+fuit? Roravit Pater, nec solus roravit, sed et
+Spiritus sanctus. Roravit Pater gignendo, roravit
+Spiritus sanctus uniendo. <hi>Rorate, coeli, desuper, et nubes
+pluant justum; aperiatur terra, et germinet Salvatorem <note>(Isa. XLV)</note>
+            </hi>.
+Roravit Pater, mittendo quem
+<pb n="0657B"/>
+genuit; roravit Spiritus sanctus, inspirando qui univit.
+Nam unus idemque Emmanuel est et a Patre
+genitus, et de Spiritu sancto conceptus. De Patre
+genitus secundum Divinitatem, et de Spiritu sancto
+conceptus secundum humanitatem. Unus idemque
+a Patre missus, et a Spiritu sancto unctus. <hi>Propterea,</hi> 
+inquit, <hi>unxit te Deus, Deus tuus, oleo laetitiae prae
+consortibus tuis <note>(Psal. XLIV)</note>
+            </hi>. Cogita, si potes, qualis
+vel quanta fuerit ista laetitia, et quid dicturi sumus,
+vel quid digne dicere possumus de ipsa? Si vis,
+oleum est; si vis, mel est. Oleum est, quia ungit;
+mel, quia pascit. Adde et illud, si placet, quia haec
+mellea dulcedo illi pro cibo et pro potu fuit. De hac
+satiatus, de hac inebriatus fuit. Totus ille torrens
+<pb n="0657C"/>
+voluptatis ejus usibus cessit, et mirum quomodo
+homo unus, imo puer parvulus, totum absorbere
+potuit. De hoc torrente et caeteri potantur, et satiantur,
+sed in patria; iste hoc ipso potatus est etiam
+in perigrinatione sua. De torrente in via bibit, propterea
+exaltavit caput. Sed, ut adhuc mireris amplius,
+iste de quo loquimur parvulus qui nobis est
+datus, mellea quidem, et supercoelesti dulcedine
+prius est cibatus quam natus. Quando enim putas
+primum coepit Emmanuel noster butyrum et mel
+comedere? Certe ex quo coepit homo esse, certe ab
+ipsa hora conceptionis suae repletus est totius dulcedinis,
+totius suavitatis plenitudine.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIV. <hi>Quomodo Emmanuel ex accepta beatitudine confirmatus sit in omni bonitate.</hi> </head>
+
+<pb n="0657D"/>
+<p>RICH. Ecce jam audivimus de cibo Emmanuelis
+quam sit suavis vel dulcis, audiamus adhuc et
+quam sit utilis. Audivimus quantum sapiat, audiamus
+adhuc et quid conferat, vel quid valeat. <hi>Butyrum,</hi> 
+inquit, <hi>et mel comedet <note>(Isa. VII)</note>
+            </hi>. Sed ad quid? <hi>Ut
+sciat reprobare malum et eligere bonum <note>(ibid.)</note>
+            </hi>. Quid
+ad ista dicemus? Qualis est iste cibus, qualis est
+ejus usus, si comestionis ipsius talis est fructus? <hi>Ut
+sciat,</hi> inquit, <hi>reprobare malum, et eligere bonum.</hi> 
+Certe sapientiae est ista scire, justitiae ista exercere.
+Intuemini quantus, vel qualis sit gloriosus
+iste, vel quid debeatis de ejus cibo sentire. Qualis
+puer qui ad sapientiam, simul et justitiam comedendo
+profecit, qualis cibus qui comestorem suum
+<pb n="0658A"/>
+tam ad sapientiam quam ad justitiam in comedendo
+promovit. Caeteri homines jejunando, abstinendo,
+gemendo, suspirando, laborando, solent ad ista
+proficere; iste autem plenitudinem utriusque meruit
+comedendo obtinere. Nos primo discimus, ut
+sciamus; scimus, ut faciamus; facimus, ut aeternas
+delicias meritis obtineamus, ut butyrum intimae
+suavitatis, et mel summae et sempiternae dulcedinis
+tandem aliquando comedere valeamus: <hi>Ego,</hi> inquit, <hi>dispono vobis sicut disposuit mihi Pater meus, ut
+edatis, et bibatis super mensam meam in regno Patris
+mei 
+ <note>(Luc. XXII)</note>
+            </hi>. Nos igitur primo scimus ut
+tandem comedamus, iste comedit ut sciret. Nos
+sane primo illuminamur ut justificemur, justificamur
+ut confirmemur, confirmamur ut beatificari
+<pb n="0658B"/>
+mereamur. Ille ex quo homo fuit, secundum id
+quod homo fuit, plenitudinem aeternae beatitudinis
+accepit. Nam ex eo quod Deus fuit, ab aeterno habuit;
+imo ab aeterno plena et perfecta beatitudo
+fuit. Puer itaque noster qui factus est nobis Emmanuel,
+ab ipsa hora suae conceptionis accepit plenitudinem
+divinitatis, et eo ipso plenitudinem beatitudinis.
+Ex eo autem quod plenam beatitudinem accepit,
+in omni bonitate confirmatus fuit. Quod itaque
+in nobis est ultimum, in illo fuit primum. Nec tamen
+sic primum, quasi istud praecederet, illud succederet,
+sed quia beatitudinem quam accepit, nullum
+meritum praecessit. Butyrum itaque et mel comedet,
+ut sciat reprobare malum, et eligere bonum. Vis
+<pb n="0658C"/>
+apertius nosse quomodo ex beatitudine quam
+accepit, in omni bonitate confirmatus fuit? Vis,
+inquam, nosse quomodo ex deliciarum affluentia,
+sit in sapientia consummatus et confirmatus in justitia?
+Certe, ut jam diximus, ex quo homo fuit, intimae
+suavitatis butyro satiari meruit: statim procul
+dubio internam pacem, internam quietem, intimam
+tranquillitatem, securitatem, et ejusmodi omnem
+suavitatem per experientiam probavit, approbavit,
+gustavit, amavit, et quanto ferventius in ejusmodi
+suavitatis concupiscentias exarsit, tanto plenius,
+tanto perfectius ejus privationem reprobavit, et exosam
+habuit. Quid enim est cordis amaritudo, mentis
+perturbatio, animi inquietudo et fatigatio, nisi
+intimae suavitatis privatio? Quo ergo intimam suavitatem
+<pb n="0658D"/>
+gustavit et amavit, eo ipso ejus privationem
+abhorruit, et velut verum malum reprobavit. Ira,
+invidia, tristitia, et quaelibet malitia, et quidquid
+intimam suavitatem tollit, vel minuit, quam sit
+abominandum ejusdem cum suavitatis experientia
+docuit, et abominari fecit. Comedendo itaque butyrum,
+didicit reprobare malum. Sic sane et ad mellis
+esum, didicit eligere bonum. Qui enim statim ad
+ingressum hujus vitae summa dulcedine satiatus fuit,
+gustando et experiendo agnovit, omnibus inferioribus
+bonis quam praeferenda, quam praeeligenda
+fuit. Ex ejus itaque comparatione didicit, quaevis
+inferior delectatio quam parva, quam nulla et quam
+parvipendenda sit. Emmanuel itaque in hunc modum
+didicit reprobare malum, et eligere bonum.
+<pb n="0659A"/>
+Sic utique, sic per summarum deliciarum affluentiam
+eruditus est ad sapientiam, sed et nihilominus
+roboratus ad omnem justitiam. Quod enim illi summe
+dulce fuit, summa dilectione dignum invenit,
+et quod summe diligendum judicavit, summa illi
+dilectione inhaesit. Ex accepta itaque beatitudine
+confirmatus est in omni bonitate, et ut mireris amplius,
+sicut ex percepta gloria est ad omnem justitiam
+solidatus, sic et ex inviscerata sibi justitia est
+ad omnem gloriam sublimatus. Nam, quoniam summam
+justitiam summe dilexit, ad summam laetitiam,
+et gloriam exaltari meruit: <hi>Propterea,</hi> inquit, <hi>unxit
+te Deus, Deus tuus, oleo laetitiae prae consortibus tuis <note>(Psal. XLIV)</note>
+            </hi>;
+et quoniam summe suaves et summe
+dulces sempiternae beatitudinis delicias per experientiam
+<pb n="0659B"/>
+didicit, earum contemplationi pariter et
+dilectioni insolubiliter inhaesit, ut merito de eo intelligatur
+quod legitur: <hi>Butyrum et mel comedet, ut
+sciat reprobare malum, et eligere bonum.</hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT XXV. <hi>Quomodo Deus beatam Virginem mirificaverit, quae talem fructum facere meruit.</hi> </head>
+<p>RICH. Intellexistis ex praedictis, ut arbitror, quomodo
+Deus mirificavit ancillam suam, quomodo de
+tali partu glorificavit beatam Virginem Mariam, ita
+ut veraciter possit gloriari et libere confiteri, quoniam <hi>ex hoc beatam me dicent omnes generationes <note>(Luc. I)</note>
+            </hi>.
+Audistis quomodo Deus magnificavit partum
+ipsius, ut esset et diceretur Emmanuel, id est <hi>nobiscum
+<pb n="0659C"/>
+Deus,</hi> et idem ipse esset Dei Unigenitus, et
+suus. Vere et incomparabiliter mirificavit matrem,
+vere et incomprehensibiliter magnificavit et prolem.
+Pensa, si potes, quae vel quanta sit ista mirificentia,
+virginem concipere, virginem parere, et post partum
+virginem permanere. Aestima, si vales, quae vel
+qualis sit ista magnificentia, partum virginis ab
+hora conceptionis suae omnem plenitudinem accipere,
+et in humanitatis veritate plenitudinem Divinitatis
+obtinere. Singularis gloria, specialis et gratia
+beatae Virginis Mariae, quae cum virginitatis
+honore genuit, et peperit filium nec qualemcunque,
+sed Deum. Merito dictum, merito dicendum: <hi>Benedicta
+tu in mulieribus . . . et benedictus fructus ventris
+tui <note>(ibid.)</note>
+            </hi>. Quis crederet, quis credere potuisset
+<pb n="0659D"/>
+quod talem fructum propheta de Dei dono promitteret,
+cum diceret: <hi>Dominus dabit benignitatem, et
+terra nostra dabit fructum suum <note>(Psal. LXXXIV)</note>
+            </hi>?
+cum scriptum sit, quia: <hi>Omnis homo mendax <note>(Psal.
+CXV)</note>
+            </hi>, quam magnificum esset genuisse hominem
+veracem, quale, quaeso, ergo, vel quantum erit genuisse
+ipsam Veritatem? <hi>Veritas,</hi> inquit, <hi>de terra
+orta est <note>(Psal. LXXXIV)</note>
+            </hi>. Ad veritatis itaque ortum terra
+dedit fructum suum. O qualis fructus, fructus magnificus,
+fructus gloriosus, fructus desiderabilis, fructus
+sublimis! Ni fallor, recolis quod in propheta legis: <hi>In
+die illa erit germen Domini in magnificentia, et gloria,
+et fructus terrae sublimis <note>(Isa. IV)</note>
+            </hi>. Et unde hoc huic
+miserae terrae nostrae, ut possit talem fructum facere?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVI. <hi>Quod nisi ad plenum purgata fuisset, talem fructum facere non posset.</hi> </head>
+
+<pb n="0660A"/>
+<p>RICH. Certe et ipsa beata Virgo Maria etiam tunc
+secundum carnem terra erat, quando ab angelo
+audiebat: <hi>Ave, gratia plena; ecce concipies, et paries
+filium <note>(Luc. I)</note>
+            </hi>. Absque dubio etiam tunc secundum
+carnem terra erat, et in terram ibat: terra erat
+per mortalitatem, et in terram ibat per mortem.
+Unde hoc ergo, illam tali terrae talem fructum facere
+posse? Sed constat pro certo quia, nisi ad plenum
+purgata fuisset, fructum talem, itaque sublimem
+facere non posset? Quod diximus, dicamus apertius.
+Nisi ab omni vitiorum contagione penitus purgata
+fuisset, Deum Dei Filium generare non posset. Ut
+<pb n="0660B"/>
+enim virgo conciperet, virgo pareret, summa sanctitate,
+summa puritate opus habebat. Quo itaque
+ordine, quave ratione ad tantae sublimitatis gratiam
+Virgo gloriosa promovetur, mystico eloquio
+describitur, cum per prophetam ad Achaz dicitur: <hi>Quia antequam puer sciat reprobare malum,
+et eligere bonum, derelinquetur terra quam tu detestaris,
+a facie duorum regum suorum 
+ <note>(Isa. VII)</note>
+            </hi>.
+Terra sane a terendo dicitur, et merito ex ea contritionis
+nostrae malum figuratur. Dicitur itaque
+haec terra reges suos, et utinam tam bonos quam
+malos. In duobus utique regibus intelligimus tyrannidem
+duorum principalium vitiorum, sicut in terra
+contritionis et captivitatis nostrae malum. Ut autem
+<pb n="0660C"/>
+melius cognoscas qualitatem hujus miseriae de qua
+loquimur terrae, cogita triplicem illam regionem
+inhabitationis nostrae, non dico Asiam, Europam
+et Africam, sed triplicem contritionem conditionis
+humanae. Prima regio miserae hujus inhabitationis
+nostrae est humana corruptibilitas, secunda
+autem humana passibilitas, tertia vero humana
+mortalitas. Nam saepe ex corruptione primo quidem
+insensibili deducitur ad quamlibet molestam et
+anxiam passionem; passiones autem variae deducunt
+ad mortem. Haec autem terra misera, et inhabitatio
+molesta habet duos exactores malignos reges
+trucem tyrannidem exercentes: in vitio concupiscientiae,
+habet regem fortem. In vitio ignorantiae,
+regem fallacem. Ille opprimit, iste seducit. Huic
+<pb n="0660D"/>
+gemino regi militat quidquid in nobis rationi repugnat.
+Uterque itaque in terra jam dicta regnum sibi
+vendicat, et de die in diem dilatare festinat; sed
+ille per violentiam, iste per fraudulentiam. Iste subjugavit
+sibi infideles omnes, sed utinam solos; ille
+sibi subjecit fidelium etiam quoslibet malos, et utinam
+minime vexaret vel bonos. Sed quos, quaeso,
+non vexat ardor concupiscientiae; quos, quaeso,
+quandoque non circumvenit error ignorantiae? Qui
+post concupiscentias eunt, uni istorum regum deserviunt.
+Alteri autem deserviunt ad nutum qui dicunt
+bonum malum, et malum bonum, ponentes
+dulce in amarum et amarum in dulce, ponentes lucem
+tenebras et tenebras lucem. Taliter utique,
+<pb n="0661A"/>
+et talibus regibus contingit nos saepe subservire in
+terra captivitatis nostrae. Habemus itaque in duobus
+regibus duplex vitium, tenemus in terra contritionis
+nostrae triplex malum. Illa ad culpam, ista
+ad poenam. Sed piae mentis est illa patienter sustinere
+quae sunt ad poenam, abominari autem et detestari
+ea quae sunt ad culpam. Impietatis vero est
+illa quae ad culpam sunt libenter amplecti, ea autem
+quae ad poenam sunt, funditus detestari. Hinc est
+quod ad impium regem per Isaiam dicitur: <hi>Terra,</hi> 
+inquit, <hi>quam tu detestaris.</hi> Absque dubio impii detestantur
+mortalitatem, quia semper vivere vellent,
+ut semper peccare possent. Detestantur passibilitatem,
+quia vellent transire impune quod committunt
+cum desiderio et delectatione. Bene ergo ad Achaz
+<pb n="0661B"/>
+regem impium dicitur: <hi>Terra, quam tu detestaris.</hi> 
+Et additur: <hi>Derelinquetur a facie duorum regum
+suorum.</hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVII. <hi>Quod ante Emmanuelis conceptum liberata sit a gemina radice vitiorum omnium.</hi> </head>
+<p>Terra utique mortalitatis et passibilitatis nostrae
+a facie duorum regum suorum derelinquitur, quando
+natura mortalis atque passibilis tam a vitio concupiscentiae,
+quam a vitio ignorantiae penitus emundatur.
+Hoc est utique quod beatae Mariae promittitur,
+cum ei ab angelo dicitur: <hi>Spiritus sanctus superveniet
+in te, et virtus Altissimi obumbrabit tibi <note>(Luc. I)</note>
+            </hi>.
+Legitur de discipulis Salvatoris, et testibus transfigurationis,
+quia: <hi>Nubes lucida obumbravit eos</hi> 
+<pb n="0661C"/> <note>(Matth. VII)</note>.
+Si lucida fuit quae obumbravit discipulos
+Christi, quam lucida recte creditur quae obumbravit
+matrem Christi? Sed, si illud ejus umbraculum
+lucidum erat, ergo et lucem et umbram exhibebat.
+Lucem ad depellendam ignorantiam, umbram ad
+exstinguendam concupiscentiam. Mira illa obumbratio
+Spiritus sancti, quae sub uno momento detersit
+et exterminavit a Virgine tam ignorantiam
+boni, quam concupiscentiam mali. Quam integre
+in ea omnis concupiscentia exstincta fuerit, probat
+profecto quod cum virginitatis integritate postmodum
+concepit, et peperit! Quam profunde illuminata
+fuerit, probat quod illud tantae profunditatis
+sacramentum tam veraciter, tam velociter credidit,
+<pb n="0661D"/>
+quod hujus mundi sapientibus vix tandem aliquando
+per tot et tanta miracula persuaderi potuit. Credenti
+itaque Virgini, sed modum quo id fieri oporteret
+quaerenti, recte respondetur, cum ab angelo
+dicitur: <hi>Spiritus sanctus superveniet in te, et virtus
+Altissimi obumbrabit tibi.</hi> Ac si aperte dicatur
+ei: Ut ad tantum sacramentum efficiaris digna,
+et inveniaris idonea, virtus Altissimi obumbrabit
+tibi, tam ad omnem concupiscentiam exstinguendam
+quam ad illuminandam ignorantiam. Hoc
+est quod per Isaiam sub alio schemate promittitur,
+et futurum prophetatur, cum dicitur: <hi>Quia antequam
+puer sciat reprobare malum, et eligere bonum,</hi> 
+et caetera <note>(Isa. VII)</note>. Certe, ut superius jam diximus,
+puer iste ab ipsa hora, vel momento conceptionis
+<pb n="0662A"/>
+suae, plenitudinem scientiae accepit, quae
+ipsi Verbo in unitate personae unita fuit. Tempus
+itaque conceptionis exprimitur in eo quod dicitur: <hi>Antequam sciat.</hi> 
+ Ac si apertius dicat: Antequam
+Emmanuel concipiatur in ejus matre, conditionis
+nostrae terra de qua Veritas oritur, a gemina peccatorum
+omnium radice liberabitur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVIII. <hi>Quod solum illud remansit in Virgine quod erat ad poenam; illud recessit, quod erat ad culpam.</hi> </head>
+<p> <hi>Derelinquetur,</hi> inquit, <hi>terra a facie duorum regum
+suorum.</hi> Notandum valde quod dicitur: <hi>Derelinquetur
+terra,</hi> nec qualiscunque, sed qualem impietas detestatur.
+Nihil hic agitur de miserae hujus terrae
+nostrae innovatione, sed tantummodo de ejus liberatione.
+<pb n="0662B"/>
+Libertas redditur, sed immortalitatis gloria
+non reformatur. Videtis certe quia illud remansit
+in Virgine quod erat ad poenam, illud recessit
+quod erat ad culpam. Vitiositas recessit, poenalitas
+remansit. Carnalitas tollitur, sed calamitas non
+amovetur. Quae, quaeso, est, quaeve justitia, ut remaneat
+poena ubi jam nulla est culpa? Et utique, si
+diligenter attendimus, inveniemus quia vitiositas
+ipsa nostrae est mortalitatis et passibilitatis effectus.
+Contra naturam itaque videtur, ut perdurans suo
+effectu privetur. Sed forte quaeris nosse quomodo
+vitiositas ipsa sit nostrae mortalitatis effectus.
+Certe ex inflicta mortalitate sensus hominis decrevit,
+exinde ignorantia. Certe ex contracta infirmitate
+appetitus carnis crevit, et inde concupiscentia.
+<pb n="0662C"/>
+Nam quo interiores, et spirituales delicias homo
+peccando amisit, eo in inferiorum concupiscentias
+per appetitum carnis vehementius exarsit, et
+quanto infirmior fuit, tanto pluribus opus habuit,
+tam ad infirmitatem fovendam, quam ad sanitatem
+reparandam. Quod igitur remanente mortalitate et
+passibilitate in natura humana, vitium tam concupiscentiae
+quam ignorantiae recessit, videtur esse
+contra naturam. Quod recedente tam vitio concupiscentiae
+quam vitio ignorantiae mortalitas et passibilitas
+remansit, videtur esse contra justitiam.
+Quam mirum, quam stupendum, quod matrem suam
+quae ab omni vitio ad plenum purgata fuit, fons
+ipse pietatis filius ejus, sub jugo captivitatis nostrae
+<pb n="0662D"/>
+laborare permisit! Econtra vero, quid, quaeso, miraculi,
+quid prodigii fuit quod terra maledictioni
+addicta, miseriis exposita, ab omni vitiorum exactione
+et inquietudine liberrima, plenam pro hac
+parte pacem obtinere potuit?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIX. <hi>Quod Emmanuelis nostri puerpera in omni fuerit virtutum consummatione perfecta.</hi> </head>
+<p>Attendite, obsecro, quam magnum, quam mirabile
+fuerit hoc prodigium in oculis Prophetae, in cujus
+considerationem simul et admirationem pariter
+omnes invitavit, cum dicit: <hi>Venite et videte opera
+Domini, quae posuit prodigia super terram <note>(Psal. XLV)</note>
+            </hi>.
+Quae autem sint illa prodigia quae tantopere miratur,
+consequenter adjungitur, cum dicitur: <hi>Auferens
+<pb n="0663A"/>
+bella usque ad finem terrae, arcum conteret, et confringet
+arma, et scuta comburet igni <note>(Psal. XLV)</note>
+            </hi>.
+Quae est ista, obsecro, terra de qua bella omnia finetenus
+auferuntur, nisi illa de qua idem Propheta
+alibi protestatur: <hi>Veritas de terra orta est, et justitia
+coelo prospexit? <note>(Psal. LXXXIV.)</note>
+            </hi> De hac itaque terra
+omnis pugna tollitur; in hac terra pax plena reparatur: <hi>Arcum,</hi> 
+ inquit, <hi>conteret, et confringet arma.</hi> 
+In arcu, et sagitta percussio quidem est, non
+tam virtuosa quam artificiosa. Econtra in gladio
+et hasta percussio profecto est, non tam artificiosa
+quam virtuosa. Per arcus ergo intelligimus
+tentationes fraudulentas, per arma vero tentationes
+violentas. Attende itaque in quantae securitatis arcem
+se erexit, ad quam tam violenta, quam fraudulenta
+<pb n="0663B"/>
+tentatio, nullum de caetero accessum habere
+jam potuit: <hi>Arcum,</hi> inquit, <hi>conteret, et confringet
+arma, et scuta comburet igni.</hi> Sicut per arcum
+seductiones, sicut per arma oppressiones, sic et in
+scutis intelligimus excusationes. De quibus in Propheta
+sic habes: <hi>Non declines cor meum in verba
+malitiae, ad excusandas excusationes in peccatis <note>(Psal. CXL)</note>
+            </hi>.
+Excusationes sane quasi quaedam vitiorum
+scuta sunt, quibus se contra veritatis jacula
+muniunt, et contra virtutum jaculationes non mediocriter
+defendunt. Sed illud oportet sciri, quia
+ubi non est locus accusationi, nullus procul dubio
+relinquitur excusationi. Quem sua namque conscientia
+in nullo accusat, non est unde se excusare
+<pb n="0663C"/>
+oporteat. Virginalis itaque illa puerpera cui nihil
+de plena virtutum consummatione defuit, in nullo
+omnino excusatione aliqua eguit. Nam, si vel impossibilitas
+ipsa aliquid in ea de aliqua virtutum
+perfectione minuit, profecto pro ea parte eadem
+ipsa impossibilitas ei ad excusationem fuit. In eo
+ipso itaque supereminentis, et supra modum
+aestuantis amoris datus coelitus ignis, designata excusationum
+omnium scuta exussit, quia plenitudo
+gratiae charitatisque consummatio nihil spiritualis
+infirmitatis, nihil imperfectionis reliquit, quod vel
+per impossibilitatem excusari oportuit. Ex his itaque
+advertere licet, quod Emmanuelis nostri puerpera
+in omni fuerit virtutum consummatione perfecta.
+Quis illud primum, et maximum mandatum
+<pb n="0663D"/>
+sic unquam implevit? quis sic unquam implere poterit? <hi>Diliges Dominum Deum tuum ex toto corde tuo,
+et ex tota anima tua 
+ <note>(Deut. VI; Matth. XXII; Luc. X)</note>
+            </hi>:
+ex hac utique exaestuantis amoris flamma exusta
+sunt scuta illa jam dicta.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXX. <hi>Quod dicta puerpera in omni dono quod acceperat videtur consummata, pariter et confirmata.</hi> </head>
+<p>Notandum autem quia illud quod igne comburitur,
+ita consumitur, ut nihil materiae remaneat,
+unde vel ex parte reparari queat. Unde juxta hanc
+prophetiam intelligi datur, quod divinus amor in ea
+adeo convaluit, adeo eam ipsam in omni bono solidavit,
+ut de caetero spiritualis qualiscunque defectus
+in eam incidere omnino non posset, nec aliquid
+<pb n="0664A"/>
+quod qualicunque excusationi subjaceret. Videtur
+itaque juxta hoc ab hora supervenientis Spiritus
+sancti, ab hora superobumbrantis virtutis Altissimi;
+videtur, inquam, beata Virgo Maria non solum in
+omni gratia consummata, verum etiam in omni
+bono et dono quod acceperat confirmata. Sed, ne
+quis existimet dictam prophetiam potius intelligendam
+de ipso utique Emmanuele quam de ejus matre,
+debet qui ejusmodi est diligenter attendere, quia
+scuta quae nunquam fuerunt, et nunquam futura sunt,
+comburi non possunt. Emmanuel itaque noster quid
+in se, quaeso, unquam habuit quod comburi oportuit
+vel potuit, qui ab hora conceptionis suae omnem
+plenitudinem accipiendo, in omni bono consummatus
+et confirmatus fuit? Dicta ergo prophetia
+<pb n="0664B"/>
+intelligenda videtur de sola Virgine Maria. In ipsa
+sane ab omni vitiorum impugnatione terra miserae
+conditionis nostrae plenam pacem obtinuit, quantum
+ad ipsam terra qualem Achaz detestabilem habebat,
+a facie duorum regum suorum derelicta fuit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXXI. <hi>Quod prae caeteris sanctis hoc singulariter habuit, quod a vitiis quidem nec impugnari potuit.</hi> </head>
+<p>In caeteris sanctis magnificum habetur quod a
+vitiis non possunt expugnari, in ista mirificum videtur
+quod a vitiis non potest ipsa vel in modico impugnari.
+Caeteris sanctis in commune praecipitur ut
+in mortali eorum corpore peccatum non regnet,
+soli isti singulariter datur ut mortale corpus ejus
+<pb n="0664C"/>
+peccatum non inhabitet: <hi>Non regnet,</hi> inquit, <hi>amplius
+peccatum in vestro mortali corpore <note>(Rom. VI)</note>
+            </hi>.
+Ecce praecipit ut non regnet, sed nunquid ut non
+inhabitet? Attende super hoc quid alibi dicat: <hi>Si
+enim quod nolo malum, id ago, jam non ego operor
+illud, sed quod habitat in me peccatum <note>(Rom. VII)</note>
+            </hi>.
+Sed quod de exterminio peccati in beata Virgine
+Maria factum creditur, in futurum omnibus sanctis
+speratur. Futurum, inquam, sed non in corpore
+eorum adhuc mortali, sed in corpore eorum jam
+facto immortali: prius siquidem oportebit corruptibile
+hoc induere incorruptionem, et mortale hoc
+immortalitatem. Sed hoc fuit in beata Virgine supra
+modum mirabile, et prae caeteris sanctis omnibus
+singulare, quod in ea simul convenire potuit tanta
+<pb n="0664D"/>
+corruptibilitas cum tanta incorruptibilitate, tanta
+incorruptibilitas cum tanta corruptibilitate. Corruptibilitas
+in his quae pertinent ad poenam, incorruptibilitas
+in his quae pertinent ad culpam. Sed
+sibi ad futurae gloriae cumulum, nobis autem ad
+patientiae documentum profuit, quod passibilitatis
+nostrae jugum cum tanta puritate portavit. Sed quia
+ea quae nobis de mystica intelligentia videbantur,
+juxta petitionem tuam, mi Hugo, explevimus, hic, si
+placet, loquendi finem faciamus. Si quis autem prolixitatis
+nos arguat pro assumptae materiae brevitate,
+fateor, non me poenitet in laudibus Verbi, in
+laudibus Virginis matris, vel verbosum fuisse.
+HUGO. Tanta, fateor, in verbis prophetiae mysteriorum
+profunditate stupefactus, et in eorum consideratione
+<pb n="0665A"/>
+multa admiratione suspensus diutius loquentem
+libenter sustinui, et cursum sermonum vestrorum
+interrumpere indignum judicavi, et eo ipso ista
+<pb n="0666A"/>
+elegi tandem tacita venerari admiratione, quo
+mihi videntur nullo ad plenum posse explicari
+sermone.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,590 @@
+{
+  "id": "richard-opuscula-theologica",
+  "cover": "classic",
+  "name": {
+    "la": "Opuscula theologica",
+    "en-US": "Theological Opuscula",
+    "pt-BR": "Opúsculos teológicos"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "De gradibus charitatis; De Emmanuele; De Verbo incarnato; De tribus appropriatis personis; Quomodo Spiritus Sanctus est amor; Sermo de missione Spiritus Sancti.",
+    "en-US": "Richard’s shorter theological works: the degrees of charity, On Emmanuel (against the Jews, in two books), On the Incarnate Word, the three appropriations to the persons of the Trinity, the Holy Spirit as the love of the Father and the Son, and the sermon on the sending of the Spirit. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "Obras teológicas menores de Ricardo: os graus da caridade, Sobre o Emanuel, o Verbo encarnado, as apropriações às pessoas da Trindade, o Espírito Santo como amor do Pai e do Filho e o sermão sobre a missão do Espírito Santo."
+  },
+  "composed": "c. 1150-1173",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/opuscula-theologica",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeGrCh",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeGrCh, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeEmm",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeEmm, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeVeIn",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeVeIn, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeTrApP",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeTrApP, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.QuSpSaE",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.QuSpSaE, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    },
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.SeDeMiS",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.SeDeMiS, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "la": "De gradibus charitatis"
+      },
+      "children": [
+        {
+          "id": "c001",
+          "title": {
+            "la": "Caput primum. De insuperabilitate charitatis."
+          }
+        },
+        {
+          "id": "c002",
+          "title": {
+            "la": "Caput II. De amoris insatiabilitate."
+          }
+        },
+        {
+          "id": "c003",
+          "title": {
+            "la": "Caput III. Quod amor incessabiliter videt amatum."
+          }
+        },
+        {
+          "id": "c004",
+          "title": {
+            "la": "Caput IV. De amoris inseparabilitate."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "De Emmanuele"
+      },
+      "children": [
+        {
+          "id": "c005",
+          "title": {
+            "la": "Prologus."
+          }
+        },
+        {
+          "id": "c006",
+          "title": {
+            "la": "Objectiones magistri andreae Secundum quod Judaei solent nobis opponere de nostro Emmanuele."
+          }
+        },
+        {
+          "id": "c007",
+          "title": {
+            "la": "Verba hieronymi."
+          }
+        },
+        {
+          "id": "g03",
+          "title": {
+            "la": "Liber primus"
+          },
+          "children": [
+            {
+              "id": "c008",
+              "title": {
+                "la": "Caput primum. Refellitur Judaeorum sententia et Christianorum confirmatur."
+              }
+            },
+            {
+              "id": "c009",
+              "title": {
+                "la": "Caput II. Quae sunt illa quae nobis solent Judaei, vel judaizantes opponere ad ea quae sentimus de nostro Emmanuele."
+              }
+            },
+            {
+              "id": "c010",
+              "title": {
+                "la": "Caput III. Quomodo Judaei putant totum quod dicitur de Emmanuele intelligi debere de filio prophetissae."
+              }
+            },
+            {
+              "id": "c011",
+              "title": {
+                "la": "Caput IV. Quam impudens omnino hoc loco videatur Judaeorum assertio."
+              }
+            },
+            {
+              "id": "c012",
+              "title": {
+                "la": "Caput V. Quomodo propriae objectionis argumentis refellitur sententia Judaicae assertionis."
+              }
+            },
+            {
+              "id": "c013",
+              "title": {
+                "la": "Caput VI. Quomodo ex beati Hieronymi responsione sufficienter refellitur quod nobis opponunt de virgine."
+              }
+            },
+            {
+              "id": "c014",
+              "title": {
+                "la": "Caput VII. Quomodo Christiani confutandi sunt qui in Isaiae verbis de sententiae nostrae veritate diffidunt."
+              }
+            },
+            {
+              "id": "c015",
+              "title": {
+                "la": "Caput VIII. Quomodo ad ea quae dicuntur de nostro Emmanuele circumstantia litterae videtur non reclamare sed acclamare."
+              }
+            },
+            {
+              "id": "c016",
+              "title": {
+                "la": "Caput IX. De his quae ad signi commendationem pertinere videntur, a quo, quare, vel qualibus detur."
+              }
+            },
+            {
+              "id": "c017",
+              "title": {
+                "la": "Caput X. Quomodo ex signi qualitate perpenditur quod tollendae primae praevaricationis causa datum videatur."
+              }
+            },
+            {
+              "id": "c018",
+              "title": {
+                "la": "Caput XI. Quomodo ex prima proevaricatione triplex damnum, et secundum damnum triplex, triplex promissum, et item secundum triplicem promissionem triplex signum."
+              }
+            },
+            {
+              "id": "c019",
+              "title": {
+                "la": "Caput XII. De signo recuperandae incorruptibilitatis."
+              }
+            },
+            {
+              "id": "c020",
+              "title": {
+                "la": "Caput XIII. De signo recuperandae dignitatis."
+              }
+            },
+            {
+              "id": "c021",
+              "title": {
+                "la": "Caput XIV. De signo recuperandae felicitatis."
+              }
+            },
+            {
+              "id": "c022",
+              "title": {
+                "la": "Caput XV. Ad quam humilem scientiam Deus propter hominem descendit, qui et bonorum et malorum nostrorum experientiam suscepit."
+              }
+            },
+            {
+              "id": "c023",
+              "title": {
+                "la": "Caput XVI. Quod per humilem illam quam suscepit supereminentis scientiae plenitudinem naturae nostrae acquisivit."
+              }
+            },
+            {
+              "id": "c024",
+              "title": {
+                "la": "Caput XVII. Quod in passione nostri Emmanuelis multi captivati sunt ex spiritibus malignis."
+              }
+            },
+            {
+              "id": "c025",
+              "title": {
+                "la": "Caput XVIII. Quid in signum generalis damnationis in Christi passione inchoata est quaedam captivitas daemonum, sicut in Christi ascensione glorificatio resurgentium."
+              }
+            },
+            {
+              "id": "c026",
+              "title": {
+                "la": "Caput XIX. Quod ex incarnatione nostri Emmanuelis factus est Deus quasi unus ex nobis."
+              }
+            },
+            {
+              "id": "c027",
+              "title": {
+                "la": "Caput XX. Quod homo factus est velut Deus, et quod homo verus factus est verus Deus."
+              }
+            },
+            {
+              "id": "c028",
+              "title": {
+                "la": "Caput XXI Quod sit versum in materiam laudis, illud opprobrium exprobantis; ecce Adam factus est quasi unus ex nobis."
+              }
+            }
+          ]
+        },
+        {
+          "id": "g04",
+          "title": {
+            "la": "Liber secundus In quo introducuntur Hugo et Richardus altercantes"
+          },
+          "children": [
+            {
+              "id": "c029",
+              "title": {
+                "la": "Prologus."
+              }
+            },
+            {
+              "id": "c030",
+              "title": {
+                "la": "Caput primum. Praelibatio materiae de qua agitur in hoc opere."
+              }
+            },
+            {
+              "id": "c031",
+              "title": {
+                "la": "Caput II. Quod dicta prophetia non possit veraciter intelligi, nisi de sola beata Virgine Maria."
+              }
+            },
+            {
+              "id": "c032",
+              "title": {
+                "la": "Caput III. Post datam rationem quae satisfaciat Christiano, datur et alia quae satisfacere debeat Judaeo."
+              }
+            },
+            {
+              "id": "c033",
+              "title": {
+                "la": "Caput IV. Quomodo auctoritas libri Regum convincit quod partus virginis tollendi timoris gratia datus non sit."
+              }
+            },
+            {
+              "id": "c034",
+              "title": {
+                "la": "Caput V. Quomodo cavillatorum controversia sit sibi ipsi contraria."
+              }
+            },
+            {
+              "id": "c035",
+              "title": {
+                "la": "Caput VI. Quomodo rationes sub Judaeorum nomine positae videntur sibi contrariae."
+              }
+            },
+            {
+              "id": "c036",
+              "title": {
+                "la": "Caput VII. Cujus rei signum convenienter dici possit partus quem Dominus proponit."
+              }
+            },
+            {
+              "id": "c037",
+              "title": {
+                "la": "Caput VIII. Unde perpendi possit in cujus rei signum datum non sit, vel quomodo sit illis datum a quibus nunquam est visum."
+              }
+            },
+            {
+              "id": "c038",
+              "title": {
+                "la": "Caput IX. Quod electio boni soleat diversis modis accipi."
+              }
+            },
+            {
+              "id": "c039",
+              "title": {
+                "la": "Caput X. Unde perpendi possit quod de regibus Rasim, et Phacee, dictum non sit: Derelinquetur terra a facie duorum regum suorum."
+              }
+            },
+            {
+              "id": "c040",
+              "title": {
+                "la": "Caput XI. Quod in his duobus regibus non illos duos qui in regno Israel adhuc supererant intelligere debemus."
+              }
+            },
+            {
+              "id": "c041",
+              "title": {
+                "la": "Caput XII. Quod in duobus regibus non intelliguntur duae personae tantum, sed gemina series regum secundum geminum regnandi modum."
+              }
+            },
+            {
+              "id": "c042",
+              "title": {
+                "la": "Caput XIII. Quomodo defectus Israelitici regni praedicitur, vel qua ex causa ad alienigenam transfertur."
+              }
+            },
+            {
+              "id": "c043",
+              "title": {
+                "la": "Caput XIV. Defectus Israelitici regni, et adventus Emmanuelis nostri, quomodo possunt alteruter ex altero perpendi."
+              }
+            },
+            {
+              "id": "c044",
+              "title": {
+                "la": "Caput XV. Quomodo concordet electio temporis cum qualitate personae adventantis."
+              }
+            },
+            {
+              "id": "c045",
+              "title": {
+                "la": "Caput XVI. Quod ab hora conceptionis suae coepit bonorum et malorum nostrorum experientiam capere et habere."
+              }
+            },
+            {
+              "id": "c046",
+              "title": {
+                "la": "Caput XVII. Quod illum dicendi modum propheta elegit, qui ad occultandum sacramentum convenientior fuit."
+              }
+            },
+            {
+              "id": "c047",
+              "title": {
+                "la": "Caput XVIII. Quomodo Jesus intelligitur non solum aetate, verum etiam sapientia profecisse."
+              }
+            },
+            {
+              "id": "c048",
+              "title": {
+                "la": "Caput XIX. Quid in dictis duobus juxta allegoriam intelligere debeamus."
+              }
+            },
+            {
+              "id": "c049",
+              "title": {
+                "la": "Caput XX. Quod oportet, si fieri posset, hanc materiam semper prae oculis habere, et in ejus admirationem jugi occupatione animos suspendere."
+              }
+            },
+            {
+              "id": "c050",
+              "title": {
+                "la": "Caput XXI. Quid mystice intelligendum sit de butyro, vel quae sit ejusmodi cibi comestio."
+              }
+            },
+            {
+              "id": "c051",
+              "title": {
+                "la": "Caput XXII. Quomodo in butyro summa et intima suavitas intelligi possit, vel unde hic cibus Emmanueli nostro abundavit."
+              }
+            },
+            {
+              "id": "c052",
+              "title": {
+                "la": "Caput XXIII. De spirituali, et summae dulcedinis melle, et quod ejusmodi cibo Emmanuel satiatus sit ab hora conceptionis suae."
+              }
+            },
+            {
+              "id": "c053",
+              "title": {
+                "la": "Caput XXIV. Quomodo Emmanuel ex accepta beatitudine confirmatus sit in omni bonitate."
+              }
+            },
+            {
+              "id": "c054",
+              "title": {
+                "la": "Caput XXV. Quomodo Deus beatam Virginem mirificaverit, quae talem fructum facere meruit."
+              }
+            },
+            {
+              "id": "c055",
+              "title": {
+                "la": "Caput XXVI. Quod nisi ad plenum purgata fuisset, talem fructum facere non posset."
+              }
+            },
+            {
+              "id": "c056",
+              "title": {
+                "la": "Caput XXVII. Quod ante Emmanuelis conceptum liberata sit a gemina radice vitiorum omnium."
+              }
+            },
+            {
+              "id": "c057",
+              "title": {
+                "la": "Caput XXVIII. Quod solum illud remansit in Virgine quod erat ad poenam; illud recessit, quod erat ad culpam."
+              }
+            },
+            {
+              "id": "c058",
+              "title": {
+                "la": "Caput XXIX. Quod Emmanuelis nostri puerpera in omni fuerit virtutum consummatione perfecta."
+              }
+            },
+            {
+              "id": "c059",
+              "title": {
+                "la": "Caput XXX. Quod dicta puerpera in omni dono quod acceperat videtur consummata, pariter et confirmata."
+              }
+            },
+            {
+              "id": "c060",
+              "title": {
+                "la": "Caput XXXI. Quod prae caeteris sanctis hoc singulariter habuit, quod a vitiis quidem nec impugnari potuit."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "De Verbo incarnato"
+      },
+      "children": [
+        {
+          "id": "c061",
+          "title": {
+            "la": "Caput primum."
+          }
+        },
+        {
+          "id": "c062",
+          "title": {
+            "la": "Caput II."
+          }
+        },
+        {
+          "id": "c063",
+          "title": {
+            "la": "Caput III."
+          }
+        },
+        {
+          "id": "c064",
+          "title": {
+            "la": "Caput IV."
+          }
+        },
+        {
+          "id": "c065",
+          "title": {
+            "la": "Caput V."
+          }
+        },
+        {
+          "id": "c066",
+          "title": {
+            "la": "Caput VI."
+          }
+        },
+        {
+          "id": "c067",
+          "title": {
+            "la": "Caput VII."
+          }
+        },
+        {
+          "id": "c068",
+          "title": {
+            "la": "Caput VIII."
+          }
+        },
+        {
+          "id": "c069",
+          "title": {
+            "la": "Caput IX."
+          }
+        },
+        {
+          "id": "c070",
+          "title": {
+            "la": "Caput X."
+          }
+        },
+        {
+          "id": "c071",
+          "title": {
+            "la": "Caput XI."
+          }
+        },
+        {
+          "id": "c072",
+          "title": {
+            "la": "Caput XII."
+          }
+        },
+        {
+          "id": "c073",
+          "title": {
+            "la": "Caput XIII."
+          }
+        },
+        {
+          "id": "c074",
+          "title": {
+            "la": "Caput XIV."
+          }
+        },
+        {
+          "id": "c075",
+          "title": {
+            "la": "Caput XV."
+          }
+        }
+      ]
+    },
+    {
+      "id": "c076",
+      "title": {
+        "la": "De tribus appropriatis personis in Trinitate"
+      }
+    },
+    {
+      "id": "c077",
+      "title": {
+        "la": "Quomodo Spiritus Sanctus est amor Patris et Filii"
+      }
+    },
+    {
+      "id": "c078",
+      "title": {
+        "la": "Sermo de missione Spiritus Sancti"
+      }
+    }
+  ]
+}

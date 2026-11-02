@@ -1,0 +1,1130 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De Verbo incarnato</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeVeIn</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+
+<div2>
+        <head>CAPUT PRIMUM.</head>
+
+<pb n="0995A"/>
+<p> « Ad me clamat ex Seir: Custos, quid de nocte?
+custos, quid de nocte? Dixit custos: Venit mane
+et nox. Si quaeritis, quaerite; convertimini, et
+venite <note>(Isai. XXI)</note>. »  Haec sunt quae mihi exponenda
+proponis, et fatuitatem meam fatigare non erubescis.
+Verba haec, ut verum fatear, videntur mihi valde
+profunda, et propter sui subtilitatem (si bene intelligantur)
+non minus jucunda. Scio, scio, nec fateri
+pudet supra facultatem meam esse eorum profunda
+penetrare, et hoc ipsum quod in eis somnio nescio
+si potero, prout oporteret, verbis idoneis explicare:
+Ad me clamat ex Seir. Seir ipse est qui Edon vel
+Esau dicitur, a quo terra Idumaea etiam Seir nominatur.
+Esau autem et Jacob qui et Israel, fratres
+<pb n="0995B"/>
+fuere, et ab illo Idumaei, ab isto Israelitae. De his
+duobus fratribus dictum a Domino per prophetam
+legimus: <hi>Jacob dilexi, Esau odio habui <note>(Malac. I)</note>
+          </hi>.
+Jacob itaque electus, Esau reprobatus. Israelitae,
+filii electionis, Idumaei, filii reprobationis. Sed, o
+miranda mutatio et miseranda vicissitudo! clamant
+ad Dominum filii alieni, non clamant ad ipsum quos
+elegit in haereditatem sibi. Ad exprobrationem itaque
+eorum qui sunt in Judaea dicitur quid actitatur
+ab eis qui sunt in Idumaea. Idumaeus clamat, Judaeus
+tacet; ille supplicat, iste silet; ad me clamant ex
+Seir. Ex monte Seir clamatur, in monte Sion tacetur.
+Illinc clamant confitendo, istinc tacent contemnendo.
+Clamantibus itaque Idumaeis silent Judaei;
+nec tamen omnes, sed multi. Sed clamantium multi
+<pb n="0995C"/>
+clamant non ad Deum suum, sed ad Deum alienum.
+Ad ignominiam ergo eorum qui ejusmodi sunt improperatur
+quod eis nunc per exprobrationem dicitur.
+Ad me, ad me, inquam, clamat ex Seir. Infelix
+Judaee et infatuate, alieni clamant ad Deum tuum, tu
+vero clamas ad Deum alienum; illi ad Deum verum,
+tu ad Deum falsum. Ad me clamat ex Seir.</p>
+<p>Nota quid dicat: Non dicit clamant, sed clamat.
+Non dicit ille, aut ille nec aliquem exprimit determinate,
+sed indefinite ponitur, ne singulariter
+aliquis vel unus tantum intelligatur. Intellige itaque
+indefinite dictum tam secundum quantitatem quam
+secundum qualitatem personarum, et commendatur
+in hoc unitas supplicantium. Multos facit
+<pb n="0995D"/>
+unum, cor unum et anima una. Multos facit
+unum intentio una, devotio una. Et, sicut ejus qui
+personaliter unus est unitas scinditur qui per multos
+deos mentis dispersione dividitur, sic multi
+<pb n="0996A"/>
+unum sunt, et merito unum dicuntur cum in uno
+spiritu unum efficiuntur. Dicit igitur: Ad me
+clamat ex Seir. Unitas resipiscentium, unanimitas
+confidentium, ad me clamat ex Seir. Ad me, inquit,
+clamat. Non dicit, orat, non dicit supplicat, sed clamat.
+Quae est ista exclamatio nisi intensa oratio,
+nisi devotionis magnitudo? Si cum multo desiderio
+oras, clamas. Quanto ferventius oras, tanto vehementius
+in Dei auribus clamas. Ex quo vehementius
+desiderium excrescit, eo excellentius clamor supplicationis,
+ascendit. Clamor itaque interioris hominis
+est fervens desiderium mentis. Hinc est quod
+Moysi a Domino dicitur: <hi>Quid clamas ad me? <note>(Exod.
+XIV)</note>
+          </hi>. Nihil dixisse legitur, et tamen clamasse
+perhibetur. Hujusmodi clamor coelum penetrat, iram
+<pb n="0996B"/>
+placat, veniam impetrat, gratiam parat, Dominum
+reconciliat, juxta id quod in Psalmista legimus: <hi>Desiderium pauperum exaudivit Dominus 
+ <note>(Psalm. X)</note>
+          </hi>.
+Perpende, si potes, quid quantumve proficiat qui
+sic clamat.
+</p>
+      </div2>
+
+<div2>
+        <head>CAPUT II.</head>
+<p> <hi>Ad me clamat ex Seir.</hi> Non autem solummodo
+multi ex his qui Seir erant hujusmodi Dominum
+clamoribus interpellabant, sed etiam ex aliis nationibus
+innumeri in Christi adventum suspirabant,
+Christi adventum desiderabant; et cum omni desiderio
+exspectabant. Hinc est illud Jacobi patriarchae
+de Christo vaticinium: <hi>Et ipse,</hi> inquit, <hi>erit exspectatio
+gentium <note>(Gen. XLIX)</note>
+          </hi>. Horum omnium per mysterium
+figuram gestabant illi qui ad Dominum ex Seir
+<pb n="0996C"/>
+per devotionis suspiria clamabant. Nam illi ex Seir
+in eo cum caeteris nationibus unum erant quod
+omnes pariter a testamento Dei alieni exstiterant.
+Dicitur ergo de his qui alieni sunt secundum mentis
+devotionem. Ad me clamat ex Seir.</p>
+</div2>
+
+<div2>
+        <head>CAPUT III.</head>
+<p>Sed ista quae de antiquis audivimus, ex Dominica
+voce studeamus, etiam si placet, ob nostram utilitatem
+ad nostra tempora derivare. Ad me, inquit,
+clamat ex Seir. Quid est Seir? Seir interpretatur <hi>hispidus</hi> 
+ vel <hi>pilosus.</hi> Et ex eo quidem Esau est Seir
+dictus quod esset supra modum pilosus et in modum
+pellis hispidus. Et pilus quidem de carne oritur,
+sed carnis mensuram excrescendo longe supergreditur.
+<pb n="0996D"/>
+Sic sane desideria carnis de carnis quidem
+necessitate surgunt, sed nisi per temperantiam
+et parcimoniam moderantur, necessitatis et modestiae
+metas excedunt. Ad pilos itaque pertinet
+<pb n="0997A"/>
+carnalis voluptas, saecularis vanitas, et ejusmodi
+desideriorum qualiscunque superfluitas. Pilus sine
+laesione praeciditur, sine laesione non avellitur. Sic
+absque dubio motus carnis sine periculo valet et
+debet amputari in superfluis, et tolerari in necessariis.
+Hinc est quod lenitate jubentur pilos carnis
+suae radere non avellere: nam desideria carnis
+oportet temperare, quae non possumus exstirpare.
+Quasi igitur in Seir sunt qui superflua quaerunt,
+superflua diligunt, et in omni superfluitate vivunt.
+Sive in religione sive extra fueris, si superflua sectaris,
+si superfluitate delectaris inter habitatores
+Seir computaris. Sed vae, tibi quisquis ibi es, et malae
+securitatis confidentia taces. Vae tibi, si Seir
+inhabitas et ad Dominum non clamas. Clamat qui
+<pb n="0997B"/>
+compungitur, clamat qui confitetur, clamat qui
+supplicat. Ex Seir clamat, qui se de voluptate vel
+vanitate accusat. Ex Judaea clamat, qui Dominum
+de indulta venia, vel impensa gratia laudat. Et saepe
+fit ut qui in religione sunt et velut in terra promissionis
+vivunt nimia securitate torpescant, et ultra
+modum de sua sanctitate praesumant, et tam a sui
+accusatione quam a Dei laude conticescant. Econtrario
+autem saepe his qui adhuc in saeculari habitu
+sunt, post expletas concupiscentias ad poenitentiam
+redeunt, corde compunguntur, ore confitentur seipsos
+accusantes, seipsos damnantes, et dum se
+de sua perversitate districte judicant, aures Domini
+Sabaoth magnis clamoribus pulsant. Ecce quomodo
+<pb n="0997C"/>
+contingit saepe regulares torpore tacere,
+saeculares devotione clamare. Ad ignominiam itaque
+eorum qui in religione torpent, et inepta securitate
+tacent, eis per improperationem dicitur,
+quid a saecularibus actitetur: Ad me clamat ex
+Seir. Hispidus et pilosus et vitiorum deformitate
+foedus jam ad me corde compunctus clamat, jam
+me crebris suspiriis interpellat, et tu taces eo quod
+te sanctum putes, dicens in corde tuo: Dives sum,
+et nullius egeo, et nescis quia miser es, et miserabilis <note>(Apoc., III)</note>:
+Ad me clamat ex Seir. Erubescat
+monachus, erubescat canonicus negligens et torpens,
+ad omnia desidiosus, et a laude Dei mutus,
+saepe psallens ore et tacens corde; erubescat, inquam,
+et ingemiscat cum ex Dominica voce audiat
+<pb n="0997D"/>
+et legat: Ad me clamat ex Seir. Erubescat anachoreta,
+erubescat eremita, si corde vagando a
+Dei laudibus vacat. Erubesce et tu miser ipse, qui
+haec dictas et scribis, qui cum in Dei laudibus mutus
+sis, consimiles tibi condemnas et de taciturnitate
+arguis. Erubesce et tu, qui haec legis et audis, si in
+conspectu angelorum te mutum et mei similem recognoscis.
+Quid contemplativus quisque dicturus
+est si a laudatione vacat ad quod assumptus est?
+Nunquid et tu taces, qui nihil aliud officii habes?
+Cur non prophetico, cur nec angelico provocaris
+exemplo? Audi vocem Prophetae: <hi>Benedicam,</hi> inquit, <hi>Dominum in omni tempore 
+ <note>(Psal. XXXIII)</note>
+          </hi>. Et
+Angeli non cessant clamare nocte et die: <hi>Sanctus,
+sanctus, sanctus Dominus Deus omnipotens, qui est,
+<pb n="0998A"/>
+et qui erat, et qui venturus est <note>(Apoc. IV)</note>
+          </hi>. Ecce angeli
+clamant jugiter, et tu cur non cum Propheta
+clamas semper? Quid, si clamas et ad Dominum
+non clamas? Forsitan jactitas te apud proximum,
+forte magnificas te apud temetipsum; clamas, sed
+non ad Dominum. Forte dicis apud temetipsum, non
+sum sicut caeteri fratrum, non sum denique sicut
+carnalis iste, qui omni die deservit ventri et gulae,
+eo quod ipse relicta Sion Seir habitator effectus sit,
+et inter Idumaeos sicut societatem sic et sortem
+acceperit. Hoc est tumultuare apud temetipsum,
+non clamare ad Dominum. Sed forte ille quem judicas
+jam seipsum damnat, seipsum accusat, jam
+forte ad Dominum clamat et exit justificatus a te,
+ut merito debeas a Domino per improperium audire:
+<pb n="0998B"/>
+Ad me clamat ex Seir.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IV.</head>
+<p>Superius audivimus de habitatore Seir quomodo,
+quandoque et quam oret ardenter, audiamus de
+eodem adhuc quam oret humiliter, quam oret sapienter.
+Audivimus quam oret devote, audiamus
+quam oret discrete. Custos, quid de nocte? custos,
+quid de nocte? Ecce iste qui ex Seir ad Dominum
+clamat, attendit ubi habitat, qualis existat,
+et quanto se profundius peccasse deterius egisse
+considerat, tanto verecundius, tanto humilius orat.
+Custos, quid de nocte? custos quid de nocte? Attendit
+quam injuste vixerit, et non audet dicere:
+Exaudi, Domine, justitiam meam. Attendit quam
+<pb n="0998C"/>
+multos laeserit et non audet dicere: <hi>Judica me,
+Domine, secundum innocentiam meam <note>(Psal. VII)</note>
+          </hi>.
+Recolit quod viscera misericordiae nunquam habuerit,
+et idcirco nec sic quidem orare praesumit: <hi>Miserere mei, Deus, secundum magnam misericordiam
+tuam 
+ <note>(Psal. L)</note>
+          </hi>. <hi>Beati</hi> enim <hi>misericordes quoniam
+ipsi misericordiam consequentur <note>(Matth. V)</note>
+          </hi>. Omni
+misericordia indignum se esse intuetur, si districte
+judicetur. Et idcirco nihil petere praesumit, solummodo
+supplicantis affectum in sua oratione sine inserta
+petitione ostendit, et sola insinuatione innuit
+quid velit: Custos, quid de nocte? custos, quid de
+nocte? Custodem nominat quem invocat, et ex
+officii designatione innuit quid ovibus suis de jure
+conditionis debeat. Tu es qui rationalem substantiam
+<pb n="0998D"/>
+ad imaginem tuam factam custodire debes,
+solus qui custodire potes, tu ipse qui custodire soles.
+Debes, quia creatura tua est; potes, quia omnipotens
+es; soles, quia misericordissimus es: Custos,
+quid de nocte? custos, quid de nocte? Custodis
+est sub custodia positos custodire, perditos requirere,
+aversos revocare, dispersos colligere, morbidis
+medelam adhibere. Ovis sum morbida, ovis infirma,
+scis me melius quid te facere deceat, vides
+perspicacius quid circa me fieri oporteat: Custos,
+quid de nocte? custos, quid de nocte? Ejusmodi
+supplicator forte profundam nimiae adversitatis noctem
+tolerabat, cum juxta hunc modum Domino
+supplicabat: Custos, quid de nocte? custos, quid
+de nocte? Certe ipse est qui nos in die, ipse est qui
+<pb n="0999A"/>
+nos custodit in nocte. In die suos custodit ne ulla
+eos adversitas feriat, in nocte custodit ne adversitatis
+flagellum modum aequitatis excedat. Videtur
+quibusdam quod suos Dominus tunc dereliquerit,
+cum eos nocturnis tribulationum horroribus exponit,
+videtur custodire, cum dies prosperitatis arriserit.
+Ecce hic quod omnibus certum est tacet de
+die, illud unde dubitari poterat fatetur de nocte:
+Custos, quid de nocte? custos, quid de nocte? Sane,
+in eo quod diem prosperitatem, noctem adversitatem
+interpretamus, ab historia non recedimus. Nam
+communis mos est historicum sensum saepe figurativa
+locutione ornare, sicut in saecularibus scriptis
+perfacile est videre. In nocte itaque, ut dictum est,
+supplicator jam dictus erat, et idem desiderabat,
+<pb n="0999B"/>
+sed prae nimia confusione et humilitate petere non
+praesumebat. Cur enim illi respondetur a Domino,
+venit mane nisi quia verus cordium inspector noverat
+eum diem desiderare? Per insinuationem ergo
+dictum intelligitur quod ipsi Domino supplicando
+ingeminatur: Custos, quid de nocte? custos, quid
+de nocte?</p>
+</div2>
+
+<div2>
+        <head>CAPUT V.</head>
+<p>Certe, cum contra divinum mandatum aliquid
+praesumitur, per contumaciam contra majestatem
+agitur. Sed cum majestatem laesam propitiare volumus,
+ad ejus misericordiam recurrimus. Ad propitiandam
+itaque majestatem recurrimus ad ejus
+bonitatem, nec solum ad ipsam, imo et ad ejus veritatem.
+Nam venia vere poenitentibus procul dubio
+<pb n="0999C"/>
+promissa est ab eo utique, ab eo, inquam, qui mentiri
+omnino non potest. Dei itaque misericordiam
+et Dei veritatem quasi geminam spei anchoram inter
+tentationum procellas praevaricationumque naufragia
+habemus ne in desperationis Caribdin incidentes,
+omnino pereffluamus. Hae sunt quae nos post multa
+naufragia perducunt ad portum salutis. Hae sunt
+quae nos de summis periculis introducunt in arcem
+verae securitatis: <hi>Misit,</hi> ait Propheta, <hi>Deus misericordiam
+suam et veritatem suam, et eripuit animam meam <note>(Psal., LVI)</note>
+          </hi>.
+Post multa itaque perpetrata scelera
+recurrentes saepe ad poenitentiae lamenta, Deo
+Dei veritatem, Dei misericordiam opponimus, ut
+iram divinam placare possimus. Scis itaque quia
+<pb n="0999D"/>
+hoc nomen Deus, commune est tribus. Scis nihilominus
+quod mos est divinae Scripturae, potentiam
+Patri, sapientiam Filio, bonitatem Spiritui sancto
+quasi specialiter attribuere. Quare autem singula
+singulis attribuantur, alias tibi, mi Bernarde, jam
+scripsimus, et hic replicare non debemus. Quarumdam
+igitur proprietatum consideratione ad Patrem
+majestas, ad Filium veritas, ad Spiritum sanctum
+specialiter pertinet benignitas. Quando ergo majestatem
+laesam placare quaerimus, quid aliud quam
+offensam Patris mitigare studemus? Quando vero
+promissam poenitentibus misericordiam, promissionisque
+veritatem exigimus, quid aliud quam, mediante
+Spiritu sancto cum Filio, Patris iram lenire
+tentamus? Cum summam veritatem, summam sapientiam
+<pb n="1000A"/>
+interpellamus, Filium invocamus. Summam
+clementiam, summam bonitatem implorare,
+quid aliud quam Spiritui sancto supplicare? Sapientia
+est quae expellit tenebras erroris, bonitas quae
+expellit frigus iniquitatis. Sapientia est quae nos
+custodit inter nocturnos horrores, bonitas quae nos
+custodit inter nocturnos algores. Custos itaque est
+Dei Filius, custos est Spiritus sanctus. Nam ille nos
+ab errore, iste nos liberat ab iniquitate. Quoniam
+igitur in istis duobus ad principale lumen accessum
+habemus, recte nunc ingeminatur, cum dicitur:
+Custos, quid de nocte? custos, quid de nocte? Et
+additur, et dixit custos. Ecce tertio custodis nomen
+repetitur quoniam personarum Trinitas in una Deitate
+invenitur. Recte namque et ipse Pater potest
+<pb n="1000B"/>
+dici custos noster. Nam, sicut veritatis protegere
+ab errore, et sicut bonitatis ab iniquitate, sic majestatis
+est protegere a qualibet adversitate.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VI.</head>
+<p>Sed adhuc ipsam litteram subtilius discutiamus,
+et ex his quae dicuntur quid cui personae accommodari
+debeat diligenter investigemus: Ad me clamat
+ex Seir: Custos, quid de nocte? Nisi se custodem
+agnosceret profecto recte non diceret, clamat ad me
+in eo quod dicitur: Custos, quid de nocte? custos,
+quid de nocte? Quid ergo est quod postea adjungit?
+Et dixit custos. Non dicit dixi, sed, dixit custos, ac
+si ipse custos non sit. An forte custos est et ipse
+qui invocatur, et custos nihilominus ipse a quo respondetur,
+nec tamen alius et alius, sed unus atque
+<pb n="1000C"/>
+idem Dominus et Deus? Sed quod prius ponitur
+me, et postea ponitur dixit, pluralitatem personarum
+in una Deitate ostendit. Iterum in eo quod non
+dicit, clamat ad nos, sed, clamat ad me, intelligimus
+quia una tantum persona invocatur, in eo
+quod ingeminatur: Custos, quid de nocte? custos,
+quid de nocte? Sed forte et illud quaeritur quae
+sit ista quae hic specialiter invocatur. Illud profecto
+scimus, quia quidquid Filius habet, a Patre
+habet; ergo et quod custodire valet et quod custodire
+solet. Quod dico de Filio, hoc dico de Spiritu
+sancto. Pater ergo custodit per Filium, custodit
+per Spiritum sanctum, custodit per semetipsum.
+Si ergo in illa invocatione tertio repeteretur, custos,
+<pb n="1000D"/>
+quid de nocte, non posset convenienter intelligi
+nisi de Patre. Nam Filius quidem custodit
+per seipsum, custodit per Spiritum sanctum, non
+autem per Patrem suum. Solus autem Spiritus
+sanctus in Trinitate non per semetipsum custodit:
+nam nulla in Trinitate persona ab ipso accipit ut
+aliquid faciat vel facere possit. Cum ergo custodiae
+geminatio sit in invocatione de Spiritu sancto non
+possumus hoc recte intelligere. Nam invocationis
+ingeminatio intelligi compellit dictum de Filio.
+Filius itaque invocatur, cum dicitur: Custos, quid
+de nocte? custos, quid de nocte? Sed ecce cum
+una persona invocatur, alia flectitur. Flectitur,
+inquam, non solum ad pacem, sed etiam ad desiderii
+promissionem. Promittitur namque quod a
+<pb n="1001A"/>
+supplicante desideratur, cum dicitur: Venit mane.
+Vidimus quae sit persona quae invocatur, videamus
+et quae sit illa quae placatur. Sed ut breviter dicam
+principalis persona intelligitur ad quam placandam
+alia interponitur. Pater autem principium
+est Unigeniti, Unigenitus vero principium est et
+Spiritus sancti. Sicut itaque in mediatore et propitiatore
+intelligitur genitus, sic in propitiato intelligitur
+ingenitus non autem Spiritus sanctus. Non
+enim Spiritum sanctum exigere satisfactionem decet
+de eo quod Filius indulget a quo habet idem Spiritus
+totum quod habet. Vides modo, ut credo,
+apertius quod superius jam diximus quomodo in eo,
+quod custos tertio reperitur, personarum Trinitas
+intelligitur. Filius namque primo custos dicitur
+<pb n="1001B"/>
+quia custodit per semetipsum; secundo idem nominatur
+quia custodit per Spiritum sanctum. In
+prima itaque positione intelligitur Filius solus, in
+secunda subintelligitur et Spiritus sanctus, in tertia
+solus ingenitus. Solus ingenitus intelligitur in eo
+quod scribitur: Dixit custos: Venit mane, et nox.
+Quid est dicere nisi verbum proferre? Patris dicere
+est veritatem eructare. Patris dicere sapientiam
+generare. Nobis autem tunc dicit quando nobis
+beneplacitum suum sapientiae suae revelatione innotescit.
+Tunc nobis interna Patris locutione aliquid
+juxta desiderium nostrum promittitur, quando
+spei et exspectationis nostrae firma certitudo cordi
+nostro infunditur. Nunc credo manifestum est intelligere
+cui personae debeat convenire quod dicitur:
+<pb n="1001C"/>
+Dixit custos. Venit mane, et nox. Vidimus quid sit
+Dei dicere vel promittere.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VII.</head>
+<p>Videamus nunc quale sit quod promittit: Venit
+mane, et nox. Sub nocte, ut superius dictum est,
+magnae tribulationis gemebant, et ad diem diu desideratae
+prosperitatis anhelabant. Quid ergo est
+quod eis in promissione proponitur non solum
+mane quod volebant, verum etiam nox quam nolebant?
+Sed unum promittitur ad consolationem,
+alterum praedicitur ad eruditionem, utrumque ad
+utilitatem: Venit mane, et nox. Quid est mane
+nisi terminus noctis, et quid est nox nisi terminus
+lucis? In uno mane habemus noctis terminum et diei
+<pb n="1001D"/>
+initium. Venit ergo mane, quia nox quam horretis
+ecce jam terminabitur, et dies ad quam tantopere
+suspiratis in instanti inchoabitur. Sed cum dies diu
+sperata supervenerit, non permanebit, quia venit
+mane, et nox. Ac si apertius diceret: Sic transiet
+nox ut iterum redeat, sic rediet dies ut iterum recedat.
+Venit mane, et nox. Si in nocte es, noli desperare,
+quia veniet mane; si in die es, noli confidere,
+quia veniet nox. Mane ergo promittitur ne
+laborantes deficiant; nox futura praedicitur ut cauti
+fiant. Illud utique ad medelam, istud autem ad cautelam.
+Venit mane, et nox. Sed quid aliud est ista
+alicui dicere nisi temporis hujus mutabilitatem et
+alternantium vicissitudinum varietatem ostendere et
+ad contemptum tam mundanae prosperitatis quam
+<pb n="1002A"/>
+mundanae adversitatis animum informare, et ad
+aeternorum desiderium provocare? Dicit ergo: Venit
+mane, et nox.</p>
+</div2>
+
+<div2>
+        <head>CAPUT VIII.</head>
+<p>Ecce jam audivimus quid jam dicta sonent juxta historiam.
+Audiamus adhuc quid ipsa signent juxta mysticam
+intelligentiam: Custos, quid de nocte? custos
+quid de nocte? Dixit custos: Venit mane, et nox, ut
+superius jam dictum est, multi non solum ex Judaeis,
+verum et ex gentibus Christi adventum praenoverant,
+et cum magno desiderio exspectabant, secundum illud: <hi>Ecce veniet Desideratus cunctis gentibus 
+ <note>(Agg. II)</note>
+          </hi>.
+Non dicit desiderandus, sed desideratus, ut intelligas
+in omni gente aliquos aliquando in ejus desiderio
+flagrasse. Erat igitur ejus adventus a multis
+<pb n="1002B"/>
+gentilium praecognitus, et ardenter desideratus. Ad
+hanc tamen cognitionem paulatim, et per intervalla
+temporum pedetentim ascenderant. Nam primo
+quidam eorum divinitus illuminati et naturali ratione
+edocti intelligebant quantis tenebris totum
+pene genus humanum involutum erat, quod idololatriae
+quidem tam deformi multiformitate, et tam
+multiformi deformitate deserviebat, ita ut diceret
+ligno et lapidi: Deus meus es tu. Necdum tamen
+idem ipsi poterant ad plenum intelligere, sub quanto
+captivitatis onere laborabant, etiam illi qui unum
+et verum Deum credebant, atque colebant. Alii
+postmodum altius illuminati captivitatis nostrae miseriam,
+damnationisque sententiam plenius intelligebant,
+<pb n="1002C"/>
+quomodo humana natura post peccatum
+inflicto mortalitatis vulnere ejecta sit de paradiso
+in mundum, quasi de patria in exsilium, postmodum
+per mortem ejicienda de mundo in infernum,
+quasi de exsilio in ergastulum. Intelligebant itaque
+magnitudinem periculi, sed non aeque intelligere
+valebant modum evadendi. Nec illi itaque, sed nec
+isti terrae noctis tenebras evaserant, qui sub tantae
+inscitiae involucro caligabant. Alii adhuc altius perscrutantes,
+et subtilius intuentes gratiae manuductione
+discreti invenerunt, et inspexerunt multo intuitu
+non solum magnitudinem damnationis, verum
+etiam modum reparationis. Modum itaque restaurationis
+qui ejusmodi erant intelligebant, sed super hoc
+<pb n="1002D"/>
+ipso divinum beneplacitum nesciebant. Novissime
+autem quibusdam non solum ex Judaeis,
+sed etiam ex gentibus divinum propositum in
+idipsum revelatum est ut reparationis nostrae mysterium
+tam ex magna parte praenoscerent, nonnulli
+etiam praedicarent, aliqui tandem etiam scripto commendarent.
+Testantur haec praeconia prophetarum,
+vaticinia gentium. Sed caeteris praetermissis, his tantum
+interim intendamus qui modum restaurationis,
+ut diximus, intelligebant, sed divinam dispositionem
+in eo ipso non noverant. Duce itaque ratione,
+praevia tamen divinae revelationis luce intellexerunt;
+quia, si homo non peccasset, ad supernam beatitudinem,
+mediante justitia, ascendere potuisset. Si
+vero sola misericordia, nulla autem interveniente
+<pb n="1003A"/>
+justitia post lapsum amissa, seu etiam promissa reciperet,
+aeternum dejectionis suae opprobrium sustineret.
+Semper nempe posset ei diabolus improperare
+in eo quod obtineret nihil juris habere, et sic
+constaret nec antiquam dignitatem recuperasse. Ubi
+autem non esset plena primae dignitatis reparatio,
+nec plena resturatio. Ut ergo posset homo resurgere
+juxta rationem justitiae opus erat satisfactione.
+Adhuc et istud ad illud accedit; quoniam, si homo
+nullam satisfactionem exsolveret, etiamsi nullum
+exterius exactorem culpae haberet, mordentis conscientiae
+exactionem, et confusionis notam ad plenum
+nunquam deleret. Nonne Eva magis credidit
+serpenti, quam suo et tam benefico Creatori? Nonne
+Adam elegit magis offendere Omnipotentem quam
+<pb n="1003B"/>
+conjugem suam? Quomodo ergo post tantae praesumptionis
+audaciam tranquillam conscientiam obtinerent
+vel de corde delerent notam confusionis, si
+in nullo satisfacerent? Nunc autem fidelium devotio
+magis gloriatur de redemptionis suae satisfactione
+quam prius confusa sit de tantae dejectionis
+opprobrio, in tantum ut ubique terrarum Ecclesia
+fidelium cum omni fiducia canat. O certe necessarium
+Adae peccatum et nostrum quod Christi
+morte deletum est! O felix culpa quae talem ac tantum
+meruit habere Redemptorem! Perspicua igitur
+ratio docet quod sine satisfactione homo ad plenum
+reparari non posset. Ad plenitudinem autem satisfactionis
+oportuit ut tanta esset humiliatio in expiatione
+<pb n="1003C"/>
+quanta fuerat praesumptio in praevaricatione.
+Rationalis autem substantiae Deus tenet summum,
+homo vero imum. Quando ergo homo praesumpsit
+contra Deum, facta est elatio de imo ad summum.
+Oportuit ergo ut ad expiationis remedium fieret
+humiliatio de summo ad imum, sed hoc omnino non
+potuit nisi aliqua in Trinitate personarum. Item
+si homo per creaturam potius quam per Creatorem
+recuperare posset et recuperaret justitiam, et mediante
+justitia futurae beatitudinis gloriam, nonne
+de caetero contra excellentiam primae dignitatis
+magis obnoxius esset creaturae quam Creatori,
+facturae quam factori? Nam plus est profecto
+justificari et beari quam creari. Ad plenam itaque
+hominis restaurationem omnino non sufficeret
+<pb n="1003D"/>
+persona quae Deus non esset. Sed nihilominus
+constat quia quantum ad rationem justitiae
+ad hominem nihil attineret quidquid quaevis
+persona faceret quae homo non esset. Quis
+autem non videat aequum et plenum juris esse
+et omnino rationabile ut satisfaciat filius pro
+patre, frater pro fratre, si ille non potest, si iste
+ad haec idoneus non est? Hominis ergo redemptio
+hominem exigebat qui pro conditionis debito propriae
+naturae merito subveniret. Item homo per inobedientiam
+debitum mortis incurrit et ad ejusdem
+debiti expiationem obediendo indebitam mortem pro
+debita solvere oportuit. Sed hoc omnino non potuit
+nisi homo mortalis et justus et qui mortis sententiae
+in nullo esset obnoxius. Ut itaque humani Redemptoris
+<pb n="1004A"/>
+persona ad debiti satisfactionem idonea
+foret, oportuit ut esset verus Deus qui ad hoc sufficeret,
+ut esset verus homo qui pro jure necessitudinis
+merito exsolveret. Et quomodo, quaeso, verus
+et perfectus inter Deum et hominem mediator esset
+qui cum alterutro commune aliquid non haberet?
+Econtra vero nulla mediatio validior, nulla firmior
+esse posset quam quae fieret per illum qui utriusque
+naturae particeps esset. Ecce quomodo ex
+ratione colligitur quomodo oportuit mediatorem Dei
+et hominum verum Deum, et verum hominem
+esse.</p>
+</div2>
+
+<div2>
+        <head>CAPUT IX.</head>
+<p>Nihilominus autem eadem ratione investigante
+invenitur cui potissimum summae Trinitatis personae
+<pb n="1004B"/>
+haec pietatis dispensatio accommodetur. Sicut superius
+monstratum est, ut posset homo primam
+dignitatem ad plenum recuperare, opus fuerat satisfactione.
+Ut autem satisfactio fieret, oportuit esse
+et qui jam exigeret et nihilominus qui eam exsolveret.
+Culpam vero punire, vel aliquam satisfactionem
+pro illa exigere quam Pater ignosceret nec
+Filio nec Spiritui sancto omnino congrueret quorum
+uterque a Patre habet totum quod habet: Oportuit
+itaque pro hac parte aut Patrem, aut nullum
+uti exactione, oportuit nihilominus aut Filium, aut
+Spiritum sanctum pro homine satisfacere. Sed si
+Spiritus sanctus mediatoris officium susciperet hanc
+forsitan mediationem homo suspectam haberet.
+<pb n="1004C"/>
+Quid, quaeso, mirum si super hac re homo cogitaret
+ut homo, timeret ut homo. Timeret forsitan ne
+Filius magis faveret Patri a quo habet totum quod
+habet quam Spiritui sancto a quo nihil habet eorum
+quae habet. Et si homo haberet duos contra se,
+unum pro se, forte non integre confideret de tali
+mediatione. Oportuit autem ut natura quae credendo
+ceciderat, credendo resurgeret. Ceciderat
+credendo serpenti, resurgeret credendo Redemptori,
+ut quod per fidem perdiderat, per fidem recuperaret,
+et per eamdem portam compelleretur redire per
+quam a Dei beneplacito placuit hominem exire. Sed
+si Dei Filius causam hominis susciperet, homini
+nihil suspicionis ingereret. Nam non posset Spiritus
+sanctus juxta suprapositam rationem culpam non
+<pb n="1004D"/>
+ignoscere quam Filius vellet remittere, quanto magis
+quam vellet sua satisfactione delere? Imo absque
+dubio, Filio causam hominis suscipiente, magis
+oportuit Spiritum sanctum cooperatoris quam exactoris
+officium exercere. Ecce quomodo ratio aperta
+demonstrat quod causa hominis ad sui expiationem
+personam Filii specialiter requirebat.</p>
+</div2>
+
+<div2>
+        <head>CAPUT X.</head>
+<p>Audi et illud. Certe per praesumptionem vetiti et
+quasi per rapinam gestivit homo ascendere usque
+ad similitudinem Dei. Ut igitur modus satisfactionis
+responderet modo praevaricationis, ratio exigebat
+ut ruinae nostrae reparator per exinanitionem descenderet
+de similitudine Dei ad similitudinem lapsi.
+Filius autem est imago, et figura Patris. Ipsum
+<pb n="1005A"/>
+itaque, ipsum juxta congruum debitae expiationis
+modum oportuit descendere et assumere similitudinem
+hominis, ut unus atque idem haberet similitudinem
+Dei ex generatione divina, et similitudinem
+hominis ex generatione humana. Scimus autem quia
+humanae propagationis modus juxta naturam non
+habet ut procedat homo ex homine sine generante;
+sed habet hoc Spiritus sancti proprietas, ut ipse
+procedat Deus de Deo sine generatione. Sicut ergo
+Spiritus sanctus non potuit juxta mutuam similitudinum
+congruentiam de summis ad ima descendere,
+sic nec congruum fuit eum causam hominis ad delendam
+affectatae similitudinis culpam suscipere.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XI.</head>
+<p>Notate praeterea quid in illa rapina specialiter
+<pb n="1005B"/>
+affectaverit, et invenietis (nec mirum) quia illa
+affectatio specialis injuria Filii fuit: <hi>Eritis,</hi> inquit, <hi>sicut dii scientes bonum et malum 
+ <note>(Gen. II)</note>
+          </hi>. Quid est
+Filius Dei nisi sapientia Dei? Specialiter itaque in
+sapientiam peccavit qui scientiam per rapinam
+obtinere voluit. Pensate, si potestis, ex uno quam
+justum, ex altero quam pium fuit ut Filii sui injuriam
+Pater vindicaret, Filius ignosceret. Disce homo
+quid facias, disce quid facere debeas. Disce, inquam,
+remittere injuriam propriam, ulcisci alienam.
+Ecce parum fuit Filio Dei ut suam ignosceret,
+nisi eamdem ipsam et apud Patrem expiaret. O pietas
+stupenda, charitas inaestimabilis! Ut autem contraria
+contrariis curentur, attendite quam congruum,
+quam artificiosum videtur ut qui per insipientiam
+<pb n="1005C"/>
+ceciderat, per sapientiam resurgat. Par
+fuit ut qui falsitas fuit causa perditionis, veritas
+fieret via salutis. Par fuit ut qui mortem incurrat per
+verbum diaboli, ad vitam rediret per verbum Dei.
+Ex praedictis itaque patet satis, ut arbitror, quia
+nulli alii personae in Trinitate magis conveniebat
+ab alia propitiari quam Patri, nulli alii causam hominis
+apud Patrem expiare magis congruebat quam
+Filio. Divisit itaque inter se summa illa personarum
+Trinitas unus Deus negotium salutis humanae,
+ut unam eamdemque hominis culpam Pater puniret,
+Filius expiaret, Spiritus sanctus ignosceret.
+Ad majorem igitur lapsi hominis gloriam ut possit
+resurgere per justitiam, Pater satisfactionem exigit,
+<pb n="1005D"/>
+Filius exsolvit, Spiritus sanctus se medium interponit.
+Haec via, haec porta salutis. Hic summus,
+hic singularis humanae restaurationis modus. Hoc
+itaque antiqui Patres non solum ex Judaeis, verum
+et ex gentibus multi intelligebant: nam in
+idipsum, ut dictum est, tum ex insita ratione,
+tum ex divina revelatione edocti erant. Sed qui
+hoc intelligebant, et tamen super hoc ipso divinum
+beneplacitum nesciebant, nullo modo id
+petere praesumebant. Quis enim unquam praesumeret
+petere ut Filius Dei genus humanum per semetipsum
+visitaret, per semetipsum redimeret, visitaret
+per incarnationem, redimeret per passionem.
+Quis, inquam, hoc petere praesumeret nisi Dei propositum
+super hoc prius ex divina revelatione cognovisset?
+<pb n="1006A"/>
+Desiderabant tamen quod petere non
+audebant. Ad hoc anhelabant, in hoc suspirabant,
+propter hoc gemitibus, et lacrymis Dominum interpellabant,
+et aestuantium desideriorum clamoribus
+ad ipsum vociferabant. Horum typus exprimitur
+in eo quod a Domino dicitur: Ad me clamat ex
+Seir: Custos, quid de nocte, custos, quid de nocte?
+Custos, inquiunt, quid de nocte? Ac si per insinuationem exprimerent quid tantis desideriorum aestibus
+quaererent. Scimus, inquiunt, fili Dei Verbum
+Altissimi, scimus quoniam adventus tuus nobis est
+necessarius, sed petere non praesumimus. Scimus
+quoniam satisfactio nostra pendet ex incarnatione
+tua, pendet ex passione tua; sed facis, si vis. Nam
+hoc quis petere audeat, quis postulare praesumat,
+<pb n="1006B"/>
+nisi super hoc prius beneplacitum tuum agnoscat?
+Custos, quid de nocte, custos quid de nocte?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XII.</head>
+<p>Quis, quaeso, cui loquitur? Creatura certe Creatori
+suo. Cur igitur Creatorem invocando non dicit
+Creator, Creator. Quis, inquam, haec audit, vel a
+quo? Dominus utique et a servo? Cur ergo ei non
+dicitur, Domine, Domine? Certe quod eum Creatorem
+Deum Dominum habebant commune eis cum
+omnibus erat; sed quod latam perditionis viam
+communiter cum caeteris non incedebant, eis prae
+caeteris ex ejus custodia erat. Gratiae ergo praerogativam
+ei praeferunt quam ex ejus munere acceperunt.
+Custos, quid de nocte? Custos, quid de nocte? Tu
+es qui nos de nocte custodisti ne nos cum caeteris
+<pb n="1006C"/>
+caligo infidelitatis involveret. Tu es qui nos de
+nocte custodisti ne malitiae frigus charitatem nostram
+exstingueret. Beneficentia inchoata parat
+nobis fiduciam praesumendi majora. Salutem inchoatam
+speramus perficiendam. Ut autem salutem inchoatam
+perficias, necesse est ut venias. Necesse
+est ut venias per temetipsum, nec hoc solum, sed
+ut venias et per Spiritum tuum. Custos, quid de
+nocte? Custos, quid de nocte? Praevidebant itaque
+antiqui per Spiritum quia necesse erat ut Filius Dei
+veniret, necesse similiter ut Spiritum sanctum mitteret.
+Praevidebant hoc, inquam, et idcirco ingeminant
+cum clamant: Custos, quid de nocte? Custos,
+quid de nocte? Vide quam sit necessarius utriusque
+adventus. Ex adventu Filii credentium fides fundatur,
+<pb n="1006D"/>
+ex adventu Spiritus sancti fides fidelium confirmatur.
+Unam eamdemque hominis salutem Filius
+operatur. Spiritus sanctus cooperatur. Ut quid ergo
+homo jam dubitet de placando Patre cum se videt
+in hoc negotio duos aequipotentes cooperatores habere?
+Dicat ergo custodienti, dicat custodituro hinc
+per semetipsum, hinc per Spiritum sanctum. Custos
+quid de nocte? Custos, quid de nocte?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIII.</head>
+<p> <hi>Et dixit custos: Venit mane, et nox.</hi> Ab ipsa
+primae praevaricationis hora usque ad Christum
+omnes sub nocte erant, et viam revertendi ad patriam,
+portam intrandi ad vitam invenire non poterant,
+et idcirco veri dici mane desiderabant, qui
+<pb n="1007A"/>
+quas tenebras paterentur non ignorabant. Et ecce
+eis juxta desiderium suum respondetur, cum a
+Domino dicitur: Venit mane. Quid est mane, nisi
+quaedam inchoatio lucis diurnae? Scitis autem quis
+dicat: <hi>Ego sum lux mundi <note>(Joan. VIII)</note>
+          </hi>. Lux mundi
+et sol justitiae Christus est qui illuminat omnem
+hominem venientem in hunc mundum. Inchoatio
+itaque verae lucis est adventus nostri Salvatoris.
+Oriente namque sole justitiae inchoatur verum
+mane. De hoc mane in Propheta habemus: <hi>Exortum
+est in tenebris lumen rectis, misericors et miserator
+Dominus <note>(Psal. III)</note>
+          </hi>. Dicit itaque, venit mane.
+Mane desideratis, mane habebitis. In adventum Filii
+mei suspiratis. Cito veniet quem quaeritis. Dixit
+custos: Venit mane. Sicut superius jam dictum est,
+<pb n="1007B"/>
+non dicit dixi, sed, dixit. Alia itaque persona est
+quae invocatur, alia a qua respondetur. Filio supplicatur,
+et Pater propitiatur. Filius interpellatur, Pater
+miseretur; Filius imploratur, Pater largitur.
+Dixit custos: Venit mane. Patris dicere, ut dictum
+est, ejus est revelare. Patris promittere est propositi
+sui beneplacitum menti humanae per spei fiduciam
+infundere. Ecce, quod longe superius jam diximus,
+quia quidam modum humanae restaurationis quomodo
+fieri oportuit intelligebant; sed, quoniam divinum
+beneplacitum super hoc ipso nesciebant,
+nullo modo petere praesumebant. Ad hoc namque
+ejusmodi intelligentia eis data est ut intelligerent
+quid desiderare, ad quid suspirare deberent. Et diu
+multumque desiderando, gemendo, suspirando digni
+<pb n="1007C"/>
+fierent qui super hoc certificari debuissent.
+Et ecce anxie desiderantibus humiliterque supplicantibus
+adventus Redemptoris revelatur a quibus
+prius sitiebatur, nec tamen praesciebatur. Nam ecce
+jam merentur audire Venit mane. Filii Dei itaque
+adventus gentibus revelatur in eo quod mysticis
+Idumaeis dicitur: Venit mane. Testantur quod dicimus
+oracula Balaam prophetae <note>(Num. XXIV)</note>, testantur
+hoc ipsum vaticinia Sibyllae. Attestatur, ni fallor,
+et huic testimonio ara illa quae apud Athenas
+consecrata erat ignoto Deo <note>(Act. XVII)</note>. Sciscitanti
+autem Paulo apostolo an homo futurus esset, an
+Spiritus deorum: Responsum est a beato Dionysio,
+verus Deus, et verus homo, et ipse renovaturus est
+<pb n="1007D"/>
+mundum. Ex his itaque palam est intelligere gentes
+Christi adventum ex revelatione praenosse. Accepta
+autem in hoc divina revelatione prophetici viri, sive
+ex gentibus sive ex Judaeis cum omni instantia, vel
+fidentia quaerebant quod prius petere non audebant.
+Quid aliud quaerebat vox illa prophetae ad Patrem? <hi>Emitte agnum dominatorem terrae 
+ <note>(Isai. XVI)</note>
+          </hi>. Quid
+aliud spirabat vox illa Psalmistae ad eumdem? <hi>Emitte manum tuam de alto 
+ <note>(Psal. CXLIII)</note>
+          </hi>. Nonne
+ipsius adventus ab ipso Filio satis devote nec minus
+aperte quaeritur, cum eidem per prophetam dicitur? <hi>Utinam dirumperes coelum ac venires! 
+ <note>(Isai. LXIV.)</note>
+          </hi> 
+Nonne manifeste satis ejus adventum Psalmista
+postulabat, cum ipsi proclamaret? <hi>Excita potentiam
+tuam et veni, ut salvos facias nos <note>(Psal. LXXIX)</note>
+          </hi>.</p>
+</div2>
+
+<div2>
+        <head>CAPUT XIV.</head>
+
+<pb n="1008A"/>
+<p>Praedicitur itaque adventus Christi, nec solum
+Christi, sed etiam Antichristi. Venit mane, et nox.
+Adventus Christi diem facit, Antichristi adventus
+noctem ingerit. O nox tenebrosa et omni horrore
+plena quam facit Antichristi praesentia! Tanta namque
+tunc temporis seductionis caligo superventura
+est universo orbi, ut in errorem inducantur et, si
+fieri potest, electi. Dicit ergo: Venit mane, et nox.
+Sed, si adhuc in praedictis verbis ad tropologicum
+sensum recurrimus, inveniemus fortassis unde aedificari
+valeamus. Custos, quid de nocte? Custos,
+quid de nocte? Pro certo quotquot in Christo
+renati sumus, filii lucis existentes ut filii lucis
+ambulare debemus. Procul dubio alia est nox Idumaei,
+<pb n="1008B"/>
+et alia Christiani. Sic et alius dies hujus,
+et alius illius. Dies Idumaei, ut diximus, est mundi
+hujus prosperitas, nox vero ejusdem adversitas.
+Sed viro fideli quid dicitur: <hi>Educet quasi lumen
+justitiam tuam, et judicium tuum tanquam meridiem <note>(Psal. XXXVI)</note>
+          </hi>.
+ <hi>Semita enim justorum quasi lumen
+splendescit, et crescit usque ad perfectam diem <note>(Psal.
+IV)</note>
+          </hi>. Dies itaque noster justitia, non injustitia. Tentatio
+diabolica noctem ingerit, inspiratio divina
+diem facit. Toties vero noctis tenebras incurrimus,
+quoties per ignorantiam, vel per malitiam peccamus,
+et necesse habemus Samaritano nostro proclamare.
+Custos, quid de nocte? Custos, quid de
+nocte? Quis est iste custos cui clamatur in nocte,
+nisi Samaritanus ille qui misertus est ejus qui incidit
+<pb n="1008C"/>
+in latrones, et curam ipsius egit <note>(Luc. X)</note>? Samaritanus
+namque <hi>custos</hi> interpretatur. Iste utique
+Samaritanus in die, iste nos custodit in nocte.
+Iste, inquam, nos custodit in die, quandiu dat nobis
+in bono perseverare. De nocte nos custodit, ne post
+peccati lapsum demur in reprobum sensum, et eundo
+de malo in malum cadamus tandem in desperationem,
+vel in mentis obliquationem. Ipse ergo est
+custos noster, ipse aeque consolator noster. Ipse qui
+nos custodit in tentatione, ipse qui nos consolatur
+in tribulatione. Ipsum custodem, ipsum consolatorem
+habemus, ipso postulante, ipso praestante et
+alium accipimus: <hi>Rogabo,</hi> inquit, <hi>Patrem, et alium
+Paracletum dabit vobis <note>(Joan. XIV)</note>
+          </hi>. Paracletus idem
+<pb n="1008D"/>
+sonat quod consolator. De eodem Paracleto quem
+per Filium accepimus, dicit alio loco idem Filius: <hi>Cum venerit Spiritus Paracletus quem ego mittam
+vobis a Patre meo 
+ <note>(Joan. XV)</note>
+          </hi>. Quoniam igitur unigenitus
+Dei nos et consolando custodit, et custodiendo
+consolatur, et nunc quidem per semetipsum, nunc
+vero per Spiritum suum, recte ei ingeminando
+dicitur. Custos, quid de nocte? Custos, quid de
+nocte? Sed cum nos tam per diem, quam per
+noctem, sicut dictum est, custodiat, in nocte se
+esse innuit qui sic clamat, qui non diurnae, sed
+tantum nocturnae custodiae mentionem facit. Sed
+alia debet esse supplicatio ambulantis in die, et
+alia ambulantis in nocte. Alia denique ejus qui
+agit opera lucis, atque alia ejus qui agit opera
+<pb n="1009A"/>
+tenebrarum. Scimus quoniam <hi>qui facit veritatem,
+venit ad lucem ut manifestentur opera ejus <note>(Joan. III)</note>
+          </hi>.
+Vultis audire ejusmodi operatorem quam fiducialiter
+orat, eo quod ipse in luce ambularet: <hi>In quacunque,</hi> 
+inquit, <hi>die invocavero te, velociter exaundi me <note>(Psal.
+LV)</note>
+          </hi>. Audite econtra quam timide, quam verecunde
+supplicat qui tenebras iniquitatis se incurrisse considerat.
+Custos, quid de nocte? Custos, quid de nocte?
+Non dicit, parce, parce; non dicit miserere.
+O quam trepide supplicat qui non audet dicere, miserere
+mei, Deus, miserere mei, qui non praesumit ut
+dicat, Deus, propitius esto mihi peccatori! Saepe
+audimus eleemosynam petentes nihil aliud ad transeuntem
+divitem clamare, nisi tantummodo, Domine,
+Domine. Sic iste ad pervigilem, et indefessum
+<pb n="1009B"/>
+infirmitatis nostrae custodem, supplicantis voce clamat.
+Custos, quid de nocte? Custos, quid de nocte?
+Sed quid mirum si tam humiliter clamat Christianus,
+quando sic, ut superius dictum est, clamat
+Idumaeus? Nam quanto gradus altior, tanto casus
+deterior. Hinc est enim quod multo difficilius renovatur
+ad vitam ad unius criminis lapsum quilibet
+Christianus, quam qualiscunque infidelis quotlibet
+criminibus obnoxius. Audi super hoc non meam,
+sed apostoli sententiam: <hi>Impossibile est,</hi> inquit, <hi>eos
+qui semel sunt illuminati, gustaverunt etiam donum
+coeleste, et participes sunt facti Spiritus sancti, gustaverunt
+nihilominus bonum Dei verbum, virtutesque
+saeculi venturi, et prolapsi sunt, renovari rursum ad
+poenitentiam <note>(Hebr. VI)</note>
+          </hi>. Quibuslibet enim infidelibus
+<pb n="1009C"/>
+ad baptisma confluentibus sufficit poenitentia
+sola, sine satisfactione aliqua. Fidelibus vero peccantibus,
+et poenitentibus non sufficit poenitentia
+sola, sine satisfactione condigna. Nam christianorum
+expiatio post lapsum non solet fieri sine mactatione
+carnis propriae, quod poenitentibus infidelibus
+conferre solet passio Christi, sola scilicet mactatio
+carnis alienae. Voluntarie enim peccantibus nobis
+post acceptam notitiam veritatis jam non relinquitur
+pro peccatis hostia. Quid ergo mirum si humiliter
+gemunt qui reatus sui magnitudinem agnoscunt?
+Dicant ergo, dicant qui ejusmodi sunt: Custos quid
+de nocte? Custos, quid de nocte? Per insinuationem
+itaque ostendit quid sit quod petere velint, nec praesumunt.
+<pb n="1009D"/>
+Ac si apertius dicant indulgentiam petere,
+gratiam reparare concupiscimus. Sed agnoscentes
+quam impudenter egimus, petere non praesumimus.
+Vias itaque veritatis sponte deseruimus, opera tenebrarum
+ex industria incidimus. Reverti jamjam
+volumus, sed inter nocturnos timores, inter nocturnos
+horrores nec valemus, nec scimus. Tu utique es
+qui tales revocare potes, qui tales revocare soles.
+Facis itaque, si vis. Quod aliis impendis, potes et
+impendere nobis. Custos, quid de nocte? Custos,
+quid de nocte? Sed, si merito tam humiliter, si merito
+tam suppliciter post lapsum orat quilibet Christianus,
+quanto magis quilibet ordinem et religionem
+professus? Nam exprobrationem et confusionem eorum
+qui tepescunt et defluunt in religione objicitur
+<pb n="1010A"/>
+et improperatur illis a Domino quid agere saepe
+etiam saeculares personae: Ad me clamat ex Seir:
+Custos, quid de nocte? Custos, quid de nocte? Si
+habitator Seir tam humiliter clamat, quid amplius
+facturus est quem vocabulum religionis honorat,
+maxime si se turpiter lapsum considerat? An forte
+nesciunt qui ejusmodi sunt quoniam modicum fermentum
+totam massam corrumpit? Quid juvat mercedes
+colligere, et eas in saeculum pertusum mittere,
+et quidquid hinc inde multo tempore, multis
+sudoribus congregatur ex modico, et in momento
+perdere? O quot annorum merita, quot meritorum
+stipendia perdi possunt ad unius, et unum criminis
+lapsum? An nescitis quoniam qui in uno offendit,
+reus est omnium? <note>(Jac. II.)</note> Qui enim vel ex uno
+<pb n="1010B"/>
+criminali Deum sibi offensum reddidit, in caeteris
+etiam quae observavit, seipsum reum constituit;
+reum, inquam, etsi non eatenus ut quasi pro eorum
+praevaricatione puniatur in inferno, eatenus tamen,
+ut illa incorruptionis mercede privetur, quam pro
+caeterorum conservatione habiturus erat in coelo.
+Qui igitur pro momentanea delectatione contemnit
+Deum et Dominum universorum, deserit societatem
+angelorum, amittit regnum coelorum, quid, quaeso,
+dicturus est cum steterit ad rogandum Deum? Exemplo
+saltem discat, quid facere debeat. Discat, inquam,
+quam humiliter debeat orare, quam verecunde
+oporteat supplicare, si habitator Seir et tam
+reverenter orat, si tam humili devotione clamat qui
+nullum unquam sanctitatis locum tenuit, qui nunquam
+<pb n="1010C"/>
+gustare meruit quam suavis est Dominus
+quam bonus Israel Deus his qui recto sunt corde.
+Ad me, inquit, clamat ex Seir: Custos, quid de nocte?
+Custos, quid de nocte?</p>
+</div2>
+
+<div2>
+        <head>CAPUT XV.</head>
+<p>Sed quisquis es haec qui audis, si dejectionis tuae
+magnitudinem attendis, non est tamen unde desperare
+debeas: Nam audi consequenter unde merito
+ad spem reviviscas: Et dixit custos: Venit
+mane. Ecce in nocte laboranti, ecce pro obtinendo mane
+supplicanti, subito et inopinante promittitur, quod
+cum tanta humilitate requiritur. In nulla ergo vitiorum
+<pb n="1010D"/>
+enormitate de ejus miseratione est desperandum,
+qui tam multus est ad ignoscendum. Sed nunquid
+idcirco eum impudenter et irreverenter implorare
+debemus, quem ad indulgendum tam pronum
+agnovimus? Imo tanto magis debemus in ejus conspectu
+erubescere, tanto humilius veniam postulare,
+quanto benigniorem et dulciorem agnovimus quem
+contumaciter offendimus: Dixit custos: Venit mane.
+Custodis hujus promittendo dicere, vel dicendo
+promittere, est animae supplicanti spei certitudinem
+gratiae suae inspiratione infundere et de desiderii sui
+exspectatione omnem diffidentiam, vel ambiguitatem
+tollere. Per repromissionem itaque mystica tamen
+locutione dictum intelligitur, quod per custodem
+respondetur: Venit mane et nox.
+</p>
+</div2>
+</body>
+  </text>
+</TEI>
