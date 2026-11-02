@@ -1,0 +1,141 @@
+{
+  "id": "newman-sermon-notes",
+  "cover": "classic",
+  "name": {
+    "en-US": "Sermon Notes of John Henry Cardinal Newman, 1849-1878",
+    "pt-BR": "Notas de Sermões do Cardeal John Henry Newman, 1849-1878"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "The outlines Newman wrote down for his Catholic sermons at the Birmingham Oratory between 1849 and 1878, edited by Fathers of the Birmingham Oratory (1913): short notes on the Church, grace, the Passion, Our Lady, the saints and the Christian year, with the catechetical instructions he gave in 1849-60 and the editors' notes.",
+    "pt-BR": "Os esboços que Newman registrou para seus sermões católicos no Oratório de Birmingham entre 1849 e 1878, editados por padres do Oratório de Birmingham (1913): breves notas sobre a Igreja, a graça, a Paixão, Nossa Senhora, os santos e o ano cristão, com as instruções catequéticas dadas em 1849-60 e as notas dos editores."
+  },
+  "composed": "1849-1878",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/sermon-notes",
+  "editions": {
+    "en-US": {
+      "editor": "Fathers of the Birmingham Oratory (Longmans, 1913)",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/sermonnotes/index.html",
+      "edition": "Sermon Notes of John Henry Cardinal Newman, 1849-1878, ed. Fathers of the Birmingham Oratory (London: Longmans, Green, 1913), as transcribed by the Newman Reader.",
+      "description": "11 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Includes the editors' introduction and notes. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
+      },
+      "children": [
+        {
+          "id": "introduction",
+          "title": {
+            "en-US": "Introduction"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sermon-notes",
+      "title": {
+        "en-US": "Sermon Notes",
+        "pt-BR": "Notas de sermões"
+      },
+      "children": [
+        {
+          "id": "sermon-notes-1",
+          "title": {
+            "en-US": "Sermon Notes, Part 1"
+          }
+        },
+        {
+          "id": "sermon-notes-2",
+          "title": {
+            "en-US": "Sermon Notes, Part 2"
+          }
+        },
+        {
+          "id": "sermon-notes-3",
+          "title": {
+            "en-US": "Sermon Notes, Part 3"
+          }
+        },
+        {
+          "id": "sermon-notes-4",
+          "title": {
+            "en-US": "Sermon Notes, Part 4"
+          }
+        },
+        {
+          "id": "sermon-notes-5",
+          "title": {
+            "en-US": "Sermon Notes, Part 5"
+          }
+        },
+        {
+          "id": "sermon-notes-6",
+          "title": {
+            "en-US": "Sermon Notes, Part 6"
+          }
+        },
+        {
+          "id": "sermon-notes-7",
+          "title": {
+            "en-US": "Sermon Notes, Part 7"
+          }
+        },
+        {
+          "id": "sermon-notes-8",
+          "title": {
+            "en-US": "Sermon Notes, Part 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "catechetical",
+      "title": {
+        "en-US": "Catechetical Instructions",
+        "pt-BR": "Instruções catequéticas"
+      },
+      "children": [
+        {
+          "id": "catechetical-instructions",
+          "title": {
+            "en-US": "Catechetical Instructions"
+          }
+        }
+      ]
+    },
+    {
+      "id": "notes-part",
+      "title": {
+        "en-US": "Notes",
+        "pt-BR": "Notas"
+      },
+      "children": [
+        {
+          "id": "notes",
+          "title": {
+            "en-US": "Notes"
+          }
+        }
+      ]
+    }
+  ]
+}

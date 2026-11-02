@@ -1,0 +1,97 @@
+{
+ "slug": "sermon-notes",
+ "id": "newman-sermon-notes",
+ "name": "Sermon Notes of John Henry Cardinal Newman, 1849-1878",
+ "name_pt": "Notas de Sermões do Cardeal John Henry Newman, 1849-1878",
+ "desc": "The outlines Newman wrote down for his Catholic sermons at the Birmingham Oratory between 1849 and 1878, edited by Fathers of the Birmingham Oratory (1913): short notes on the Church, grace, the Passion, Our Lady, the saints and the Christian year, with the catechetical instructions he gave in 1849-60 and the editors' notes.",
+ "desc_pt": "Os esboços que Newman registrou para seus sermões católicos no Oratório de Birmingham entre 1849 e 1878, editados por padres do Oratório de Birmingham (1913): breves notas sobre a Igreja, a graça, a Paixão, Nossa Senhora, os santos e o ano cristão, com as instruções catequéticas dadas em 1849-60 e as notas dos editores.",
+ "composed": "1849-1878",
+ "editor": "Fathers of the Birmingham Oratory (Longmans, 1913)",
+ "year": 1913,
+ "index": "sermonnotes/index.html",
+ "edition": "Sermon Notes of John Henry Cardinal Newman, 1849-1878, ed. Fathers of the Birmingham Oratory (London: Longmans, Green, 1913), as transcribed by the Newman Reader.",
+ "note": "Includes the editors' introduction and notes.",
+ "parts": [
+  {
+   "id": "introduction",
+   "title": "Introduction",
+   "title_pt": "Introdução",
+   "from": "introduction"
+  },
+  {
+   "id": "sermon-notes",
+   "title": "Sermon Notes",
+   "title_pt": "Notas de sermões",
+   "from": "sermon-notes-1"
+  },
+  {
+   "id": "catechetical",
+   "title": "Catechetical Instructions",
+   "title_pt": "Instruções catequéticas",
+   "from": "catechetical-instructions"
+  },
+  {
+   "id": "notes-part",
+   "title": "Notes",
+   "title_pt": "Notas",
+   "from": "notes"
+  }
+ ],
+ "chapters": [
+  [
+   "sermonnotes/introduction.html",
+   "introduction",
+   null
+  ],
+  [
+   "sermonnotes/file1.html",
+   "sermon-notes-1",
+   "Sermon Notes, Part 1"
+  ],
+  [
+   "sermonnotes/file2.html",
+   "sermon-notes-2",
+   "Sermon Notes, Part 2"
+  ],
+  [
+   "sermonnotes/file3.html",
+   "sermon-notes-3",
+   "Sermon Notes, Part 3"
+  ],
+  [
+   "sermonnotes/file4.html",
+   "sermon-notes-4",
+   "Sermon Notes, Part 4"
+  ],
+  [
+   "sermonnotes/file5.html",
+   "sermon-notes-5",
+   "Sermon Notes, Part 5"
+  ],
+  [
+   "sermonnotes/file6.html",
+   "sermon-notes-6",
+   "Sermon Notes, Part 6"
+  ],
+  [
+   "sermonnotes/file7.html",
+   "sermon-notes-7",
+   "Sermon Notes, Part 7"
+  ],
+  [
+   "sermonnotes/file8.html",
+   "sermon-notes-8",
+   "Sermon Notes, Part 8"
+  ],
+  [
+   "sermonnotes/file9.html",
+   "catechetical-instructions",
+   "Catechetical Instructions"
+  ],
+  [
+   "sermonnotes/notes.html",
+   "notes",
+   "Notes"
+  ]
+ ]
+}
