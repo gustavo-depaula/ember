@@ -1,0 +1,258 @@
+{
+  "id": "adam-sequentiae",
+  "cover": "classic",
+  "name": {
+    "la": "Sequentiae",
+    "en-US": "Sequences",
+    "pt-BR": "Sequências"
+  },
+  "author": {
+    "la": "Adamus de Sancto Victore",
+    "en-US": "Adam of St. Victor",
+    "pt-BR": "Adão de São Vítor"
+  },
+  "description": {
+    "la": "Sequentiae Adami de Sancto Victore: triginta et sex prosae de temporali et sanctorali, cum annotationibus Migne.",
+    "en-US": "The sequences (proses) attributed to Adam of St. Victor in Migne, thirty-six liturgical poems for the feasts of the Lord and of the saints, each with the Latin editor’s note on its rhythm and occasion. One verse to a line. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "As sequências atribuídas a Adão de São Vítor por Migne, trinta e seis poemas litúrgicos para as festas do Senhor e dos santos, cada um com a nota do editor sobre o seu ritmo e ocasião. Um verso por linha."
+  },
+  "composed": "c. 1130-1170",
+  "languages": [
+    "la"
+  ],
+  "work": "adam/sequentiae",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=AdSVi.Sequen4",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text AdSVi.Sequen4, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "I. De Sancto Stephano."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "II. De Sancto Joanne Evangelista."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "III. Dominica Intra Octavas Nativitatis Domini."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "IV. De Resurrectione Domini."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "V. De Resurrectione Domini alia Prosa."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "VI. In Festis Paschalibus, alia Prosa."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "VII. De Resurrectione Domini alia Prosa."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "VIII. De Sancto Spiritu."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "IX. De Sancto Spiritu alia Prosa."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "X. De Sancto Spiritu alia Prosa."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "XI. De Sancta Trinitate."
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "XII. In Dedicatione Templi."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "XIII. In Dedicatione Ecclesiae Prosa."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "XIV. De Sancto Andrea."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "XV. De Sancto Nicolao."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "XVI. De Sancta Agnete."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "XVII. De Sancto Vincentio."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "XVIII. in Conversione Sancti Pauli."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "XIX. In Purificatione Beatae Mariae."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "XX. In Inventione Sanctae Crucis."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "XXI. De Sancto Joanne Baptista."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "XXII. De Sancto Petro Apostolo."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "XXIII. de Sanctis Apostolis Petro et Paulo."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "XXIV. De Sancto Laurentio."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "XXV. In Assumptione Beatae Virginis."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "XXVI. De Sancto Bartholomaeo."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "XXVII. de Sancto Augustino."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "XXVIII. in Festo Decollationis Sancti Joannis Baptistae."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "XXIX. In Exaltatione Sanctae Crucis."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "XXX. De Sancto Matthaeo Evangelista."
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "XXXI. De Sancto Michaele"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "XXXII. de Sancto Dionysio."
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "XXXIII. de Sancto Luca Evangelista."
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "XXXIV. de Omnibus Sanctis."
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "XXXV. De Sancto Martino."
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "XXXVI. de Sancta Catharina."
+      }
+    }
+  ]
+}

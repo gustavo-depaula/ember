@@ -1,0 +1,4856 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Sequentiae</title>
+              <author ref="http://viaf.org/viaf/97608392">Adamus S. Victoris<date>fl. 1173</date> </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>AdSVi.Sequen4</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>I. DE SANCTO STEPHANO.</head>
+
+<pb n="1423A"/>
+<p>Haec prosa rhythmicam servat certa lege consonantiam.
+Nam ut plurimum in singulis versibus tres
+complectitur clausulas rhythmicas, quarum duae
+primae similem habent postremarum syllabarum
+exitum, et utraque illarum octo comprehendit syllabas,
+quarum penultima est longa; tertia vero
+clausula cujusque illorum versuum, septem conficitur
+syllabis, quarum penultima est brevis, habetque
+responsum in consimili syllabarum cadentia
+cum tertia clausula proxime sequentis versus.
+Verumtamen ut varietas et diversitas compositionis
+rhythmicae afferat ornatum atque decorem
+contextui orationis, interdum variatur supradicta
+rhythmi forma, et duae primae clausulae rhythmicae
+nonnunquam complectuntur singulae septem syllabas,
+et penultima brevem, ut in sexto et octavo
+versu. Interdum vero in eodem versu quatuor ponuntur
+<pb n="1423B"/>
+clausulae rhythmicae alternis respondentes,
+ut prima tertiae, et secunda quartae consonet,
+quemadmodum in quatuor postremis versibus. Aliquando
+quatuor clausularum ejusdem versus tres
+primae ad invicem simili cadentia respondent, et
+quarta unius versus quartae alterius, ut in decimo
+nono et vicesimo versu. Quae quidem omnia, unusquisquam
+ex sola lectione et mensura clausularum
+facile deprehendere poterit. Et haec componendarum
+prosarum forma, in officio ecclesiastico
+est creberrima, et omnium maxime usitata. Auctor
+ejus, insignis vir et non minus virtute quam
+doctrina praeclarus. Adam de Sancto Victore,
+in rhythmica prosarum modulatione majorem in
+modum copiosus et promptus, quemadmodum permultae
+<pb n="1424A"/>
+ab eo compositae prosae (quae suis ponentur
+locis) dilucide declarant. In praesenti autem prosa
+commendatur praeclara beati Stephani virtus
+in confessione fidei, et constantia invincibilis in
+passione ac morte, quae ex sexto et septimo capite
+Actionum apostolicarum dilucida satis est ac perspicua.
+Narrantur et miracula meritis beati Stephani
+facta in suscitatione mortuorum, et pluviae
+inundatione tempore inventionis sui sacratissimi
+corporis exhibita, ut adnotationes ostendent.</p>
+<p>
+          <l rend="indent">Heri mundus exsultavit,</l>
+<l>Et exsultans celebravit</l>
+<l>Christi natalitia.</l>
+        </p>
+<p>
+          <l rend="indent">Heri chorus angelorum</l>
+<l n="5">Prosecutus est coelorum</l>
+<l>Regem cum laetitia.</l>
+        </p>
+<p>
+          <l rend="indent">Protomartyr et levita,</l>
+<l>
+<pb n="1424B"/>Clarus fide, clarus vita,</l>
+<l>Clarus et miraculis,</l>
+        </p>
+<p>
+          <l n="10" indent="1">Sub hac luce triumphavit,</l>
+<l> Et triumphans insultavit</l>
+<l> Stephanus incredulis.</l>
+        </p>
+<p>
+          <l rend="indent"> Fremunt ergo tanquam ferae,</l>
+<l>Quia victi defecere,</l>
+<l n="15">Lucis adversarii.</l>
+        </p>
+<p>
+          <l rend="indent"> Falsos testes statuunt,</l>
+<l>Et linguas exacuunt</l>
+<l>Viperarum filii.</l>
+        </p>
+<p>
+          <l rend="indent"> Agonista nulli cede,</l>
+<l n="20">
+<pb n="1425A"/>Certa certus de mercede,</l>
+<l>Persevera, Stephane.</l>
+        </p>
+<p>
+          <l rend="indent">Insta falsis testibus:</l>
+<l>Confuta sermonibus</l>
+<l> Synagogam Satanae.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Testis tuus est in coelis,</l>
+<l>Testis verax et fidelis,</l>
+<l>Testis innocentiae.</l>
+        </p>
+<p>
+          <l rend="indent"> Nomen habes coronati,</l>
+<l>Te tormenta decet pati</l>
+<l n="30">Pro corona gloriae,</l>
+        </p>
+<p>
+          <l rend="indent">Pro corona non marcenti</l>
+<l>Perfer brevis vim tormenti,</l>
+<l>Te manet victoria.</l>
+        </p>
+<p>
+          <l rend="indent"> Tibi fiet mors, natalis.</l> 
+<l n="35">
+<pb n="1425B"/>Tibi poena terminalis</l>
+<l>Dat vitae primordia.</l>
+        </p>
+<p>
+          <l rend="indent">Plenus sancto Spiritu,</l>
+<l>Penetrat intuitu</l>
+<l>Stephanus coelestia.</l>
+        </p>
+<p>
+          <l n="40" indent="1">Videns Dei gloriam</l>
+<l>Crescit ad victoriam,</l>
+<l>Suspirat ad praemia.</l>
+        </p>
+<p>
+          <l rend="indent">En a dextris Dei stantem</l>
+<l n="45">Jesum, pro te dimicantem</l>
+<l>Stephane, considera.</l>
+        </p>
+<p>
+          <l rend="indent">Tibi coelos reserari,</l>
+<l>
+<pb n="1426A"/>Tibi christum revelari</l>
+<l>Clama voce libera.</l>
+        </p>
+<p>
+          <l rend="indent">Se commendat Salvatori</l>
+<l n="50">Pro quo dulce ducit mori</l>
+<l>Sub ipsis lapidibus.</l>
+        </p>
+<p>
+          <l rend="indent">Saulus servat omnium</l>
+<l>Vestes lapidantium,</l>
+<l> Lapidans in omnibus.</l>
+        </p>
+<p>
+          <l n="55">Ne peccatum statuatur</l>
+<l>Iis a quibus lapidatur,</l>
+<l>Genu ponit et precatur</l>
+<l>Condolens insaniae.</l>
+        </p>
+<p>
+          <l rend="indent">In Christo sic obdormivit</l>
+<l n="60">Qui Christo sic obedivit,</l>
+<l>Et cum Christo semper vivit</l>
+<l>
+<pb n="1426B"/> Martyrum primitiae.</l>
+        </p>
+<p>
+          <l rend="indent">Quod sex suscitaverit</l>
+<l>Mortuos in Africa.</l> 
+<l n="65"> Augustinus asserit,</l>
+<l>Fama refert publica.</l>
+        </p>
+<p>
+          <l rend="indent">Hujus, Dei gratia</l>
+<l> Revelato corpore,</l>
+<l>Mundo datur pluvia</l>
+<l n="70">Siccitatis tempore.</l>
+        </p>
+<p>
+          <l rend="indent"> Solo fugat hic odore</l>
+<l>Morbos et daemonia,</l>
+<l>Laude dignus et honore</l>
+<l>
+<pb n="1427A"/>Jugique memoria.</l>
+        </p>
+<p>
+          <l n="75" indent="1">Martyr, cujus est jucundum</l>
+<l>Nomen in Ecclesia,</l>
+<l>Languescentem fove mundum</l>
+<l>Coelesti fragrantia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>II. DE SANCTO JOANNE EVANGELISTA.</head>
+<p>Haec prosa rhythmicae consonantiae legem exacte
+observat, eodem fere modo composita, quo prosa
+illa de sancto Stephano <hi>Heri mundus exsultavit,</hi> 
+paulo ante declarata. Auctor ejus fuisse perhibetur
+eximius Pater, et non minus religione quam
+doctrina praeclarus, Adam de Sancto Victore, in
+modulandis prosis ecclesiasticis admodum elegans,
+ut haec una non obscurum praestat argumentum.
+Continet autem insignia et complura beati Joannis
+<pb n="1427B"/>
+evangelistae praeconia, ob singulares virtutum
+et gratiarum praerogativas, quibus ante alios mirifice
+emicuit. Siquidem omnes sanctorum ordines,
+gradus, et titulos, ipse unus complexus est
+angelus officio, novae legis patriarcha, propheta,
+apostolus, evangelista, martyr, confessor et
+virgo, quod in aliis sanctis invenire perrarum est.</p>
+<p>
+          <l rend="indent"> Gratulemur ad festivum:</l>
+<l>Jucundemur ad votivum</l>
+<l>Joannis praeconium.</l>
+        </p>
+<p>
+          <l rend="indent">Sic versetur laus in ore,</l>
+<l n="5">
+<pb n="1428A"/> Ne fraudetur cor sapore</l>
+<l>Quo degustet gaudium.</l>
+        </p>
+<p>
+          <l rend="indent">Hic est Christi praedilectus:</l>
+<l>Qui reclinans supra pectus</l>
+<l>Hausit sapientiam.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Huic in cruce commendavit</l>
+<l>Christus matrem, hic servavit</l>
+<l>Virgo viri nesciam.</l>
+        </p>
+<p>
+          <l rend="indent">Intus ardens charitate:</l>
+<l>Foris lucens honestate</l>
+<l n="15">Signis et eloquio</l>
+        </p>
+<p>
+          <l rend="indent"> Ut ab aestu criminali,</l>
+<l>Sic immunis a poenali,</l>
+<l>Prodiit ex dolio.</l>
+        </p>
+<p>
+          <l rend="indent"> Vim veneni superavit,</l>
+<l n="20">
+<pb n="1428B"/>Morti, morbis imperavit,</l>
+<l>Necnon et daemonibus.</l>
+        </p>
+<p>
+          <l rend="indent">Sed vir tantae potestatis:</l>
+<l>Non minoris pietatis</l>
+<l>Erat tribulantibus.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Cum gemmarum partes fractas</l>
+<l>Solidasset, has distractas</l>
+<l>Tribuit pauperibus.</l>
+        </p>
+<p>
+          <l rend="indent">Inexhaustum fert thesaurum</l>
+<l> Qui de virgis fecit aurum,</l>
+<l n="30">
+<pb n="1429A"/>Gemmas de lapidibus.</l>
+        </p>
+<p>
+          <l rend="indent"> Invitatur ab amico</l>
+<l>Convivari Christum dico</l>
+<l>Visum cum discipulis.</l>
+        </p>
+<p>
+          <l rend="indent"> De sepulcro quo descendit,</l>
+<l n="35">Redivivus sic ascendit,</l>
+<l>Frui summis epulis.</l>
+        </p>
+<p>
+          <l rend="indent"> Testem habes populum</l>
+<l>Imo si vis oculum,</l>
+<l>Quod ad ejus tumulum</l>
+<l n="40">Manna scatet, epulum</l>
+<l>De Christi convivio.</l>
+        </p>
+<p>
+          <l rend="indent"> Scribens Evangelium:</l>
+<l>Aquilae fert proprium.</l> 
+<l>Cernens solis radium:</l>
+<l n="45">
+<pb n="1429B"/>Scilicet principium</l>
+<l>Verbum in principio.</l>
+        </p>
+<p>
+          <l rend="indent">Hujus signis est conversa</l>
+<l>Gens gentilis, gens perversa</l>
+<l> Gens totius Asiae:</l>
+        </p>
+<p>
+          <l n="50" indent="1"> Hujus scriptis illustratur,</l>
+<l>Illustrata solidatur</l>
+<l>Unitas Ecclesiae.</l>
+        </p>
+<p>
+          <l rend="indent">Salve salvi vas pudoris,</l>
+<l>Vas coelestis plenum roris:</l>
+<l n="55">
+<pb n="1430A"/>Mundum intus, clarum foris.</l> 
+<l>Nobile per omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Fac nos sequi sanctitatem.</l> 
+<l>Fac per mentis puritatem</l>
+<l>Contemplari Trinitatem</l>
+<l n="60">In una substantia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>III. DOMINICA INTRA OCTAVAS NATIVITATIS DOMINI.</head>
+<p>Haec prosa multiformem sortitur in diversis versibus
+rhythmi speciem. Nam primi sex versus complectuntur
+quisque duas tantum clausulas rhythmicas,
+vario tamen modo. Nam in duobus primis
+versibus, clausulae illae alternis locis consonant,
+ut prima unius versus, primae alterius in simili
+syllabarum exitu respondeat, et secunda secundae.
+In reliquis autem quatuor versibus, prima cujusque
+<pb n="1430B"/>
+earum clausula consonantiam asservat, et similem
+syllabarum vocalitatem in medio sui et fine. Secunda
+vero unius versus habet concinnitatem ad
+secundam proximi versus clausulam. At vero reliqui
+omnes hujus prosae versus praeter decimum
+quintum (qui quatuor completur clausulis rhythmicis,
+alternum servantibus in conformi cadentia
+responsum, utpote prima ad tertiam, et secunda
+ad quartam) tres complectuntur clausulas modulatione
+rhythmica compactas, quarum duae primae
+ejusdem versus semper adinvicem consonant, et
+tertia unius versus in consimili sonoritate refertur
+ad tertiam proximi versus. In his autem omnibus
+<pb n="1431A"/>
+rhythmorum formis, interdum una clausula,
+octo completur syllabis, quarum penultima
+est longa. Interdum vero duntaxat septem conficitur
+syllabarum contextu una rhythmica clausula,
+et tunc penultimam continet brevem. Verum haec
+omnia melius ex sola lectione ipsius prosae attenduntur,
+quam regulis certis, aut exacta descriptione
+tradi possint. Auctor ejus, venerandus Pater
+Adam de Sancto Victore, qui religiosam, regularisque
+disciplinae observantissimam domum
+Sancti Victoris in Parisiorum suburbiis constructam,
+cum vixit, insigni doctrinae splendore et
+vitae sanctimonia illustravit. Apud quam, et hanc
+prosam et alias quam plurimas suis in locis adnotatas
+et deinceps adnotandas, illi ut auctori
+ascriptas inveni. Eoque subnixus testimonio, eidem
+illas inscripsi, et quamque earum suo loco
+ipsi (ut ex cujus emanaverit officina) assignavi.
+Commendatur in illa mysterium Dominicae nativitatis
+<pb n="1431B"/>
+ob ineffabilem Filii Dei benignitatem, qui
+de matre virgine dignatus est nostrae substantiae
+formam assumere, ad redimendum genus humanum
+misera captivitate diaboli detentum. Insuper
+virginalis integritas matris Dei ostenditur non
+fuisse laeta in partu illo admirabili, et naturali
+rerum sensibilium similitudine et figuris mysticis
+veteris Testamenti, ad praesignificandum hoc
+miraculum a Deo quondam exhibitis. Applicantur
+deinde figurae illae frondentis virgae, et rosidi
+velleris convenienter et recte ipsi rei subjectae,
+ostendunturque ipsi Christo congruenter adaptari,
+quemadmodum adnotationes latius edisserent.
+<l rend="indent"> Splendor Patris et figura</l>
+<l>Se conformans homini,</l>
+<l rend="indent">Potestate non natura,</l>
+<l>
+<pb n="1432A"/>Partum dedit virgini.</l> 
+<l n="5" indent="1"> Adam vetus tandem laetus:</l>
+<l>Novum promat canticum</l>
+<l rend="indent">Fugitivus et captivus:</l>
+<l>Prodeat in publicum.</l> 
+<l rend="indent">Eva luctum: vitae fructum</l>
+<l n="10">Virgo gaudens edidit.</l> 
+<l rend="indent">Nec sigillum propter illum</l>
+<l>Castitatis perdidit.</l>
+        </p>
+<p>
+          <l rend="indent"> Si crystallus sit humecta</l>
+<l>Atque soli sit objecta:</l>
+<l n="15">Scintillat igniculum</l>
+        </p>
+<p>
+          <l rend="indent">Nec crystallus rumpitur:</l>
+<l>Nec in partu solvitur</l>
+<l>Pudoris signaculum.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1432B"/>Super tali genitura</l>
+<l n="20">Stupet usus et natura:</l>
+<l>Deficitque ratio.</l>
+        </p>
+<p>
+          <l rend="indent">Res est ineffabilis:</l>
+<l>Tam pia tam humilis</l>
+<l>Christi generatio.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Frondem, florem, nucem, sicca</l>
+<l>Virga profert; et pudica</l>
+<l>Virgo Dei Filium.</l>
+        </p>
+<p>
+          <l rend="indent"> Fert coelestem vellus rorem:</l>
+<l>Creatura Creatorem;</l>
+<l n="30">Creaturae pretium.</l>
+        </p>
+<p>
+          <l rend="indent">Frondis, floris, nucis, roris,</l>
+<l>
+<pb n="1433A"/>Pietati Salvatoris</l>
+<l>Congruunt mysteria.</l>
+        </p>
+<p>
+          <l rend="indent"> Frons est Christus protegendo.</l> 
+<l n="35">Flos dulcore; nux pascendo.</l> 
+<l>Ros coelesti gratia.</l> 
+<l rend="indent">Cur quod virgo pepererit,</l>
+<l>Est Judaeis scandalum.</l> 
+<l rend="indent">Cum virgo produxerit</l>
+<l n="40">Sicca sic amygdalum</l>
+        </p>
+<p>
+          <l rend="indent"> Contemplemur adhuc nucem,</l>
+<l>Nam prolata nux in lucem;</l>
+<l>Lucis est mysterium.</l>
+        </p>
+<p>
+          <l rend="indent">Trinam gerens unionem;</l>
+<l n="45"> Tria confert: unctionem,</l>
+<l>Lumen et aedulium.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1433B"/>Nux est Christus, cortex nucis</l>
+<l>Circa carnem poena crucis.</l> 
+<l>
+<pb n="1434A"/>Testa, corpus ossium.</l>
+        </p>
+<p>
+          <l n="50" indent="1">Carne tecta deitas,</l>
+<l>Et Christi suavitas,</l>
+<l>Signatur per nucleum.</l>
+        </p>
+<p>
+          <l rend="indent">Lux est caecis, et unguentum,</l>
+<l>Christus aegris, et fomentum</l>
+<l n="55">Piis animalibus.</l>
+        </p>
+<p>
+          <l rend="indent"> O quam dulce sacramentum</l>
+<l>Fenum carnis in frumentum</l>
+<l>Convertit fidelibus.</l>
+        </p>
+<p>
+          <l rend="indent"> Quos sub umbra sacramenti</l>
+<l n="60">Jesu pascis in praesenti,</l>
+<l>Tuo vultu satia.</l>
+        </p>
+<p>
+          <l rend="indent">Splendor Patri coaeterne,</l>
+<l>Nos hinc transfer ad paternae</l>
+<l>
+<pb n="1434B"/>Claritatis gaudia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>IV. DE RESURRECTIONE DOMINI.</head>
+
+<pb n="1435A"/>
+<p>Haec prosa etiam tota rhythmica est, et in unoquoque
+quatuor primorum versuum septem complectitur
+clausulas rhythmicas, quarum unaquaeque septem
+comprehendit syllabas, et semper penultimam
+brevem. Consonantiam vero in exitu syllabarum
+habent hujusmodi clausulae, aliquando
+quidem alternatis locis, ut in primo versu, aliquando
+vero quae sibi invicem proximae sunt, ut
+in versibus sequentibus, et semper postrema, ad
+aliquam in medio ejusdem versus positam clausulam,
+vel ad postremam proximi versus, habet
+suum responsum. In postremorum vero duorum
+versuum singulis, quatuor ponuntur rhythmicae
+clausulae, quarum duae primae inter se habent
+consonantiam, tertia vero unius ad tertiam alterius
+versus, et quarta ad quartam in consonantia
+confertur. Auctor ejus, Adam de Sancto Victore.
+<pb n="1435B"/>
+In ea describitur gaudium Dominicae resurrectionis,
+non solum in angelos et homines
+esse diffusum, verum etiam in omnia hujus mundi
+sensibilis corpora, coelos, elementa, et corpora
+mista. Quae omnia laetiore quodam habitu, suique
+dispositione gratiore quam prius habuerant,
+quamdam jucunditatem praeferunt in resurrectione
+Domini, et laeto testantur gaudia vultu, ut
+resurgenti Domino quodam modo congaudere
+videantur.
+<l rend="indent"> Mundi renovatio</l>
+<l>Nova parit gaudia,</l>
+<l>
+<pb n="1436A"/>Resurgenti Domino</l>
+<l>Conresurgunt omnia.</l> 
+<l n="5">Elementa serviunt,</l>
+<l>Et auctoris sentiunt</l>
+<l>Quanta sint solemnia,</l>
+<l rend="indent">Ignis volat mobilis,</l>
+<l>Et aer volubilis.</l> 
+<l n="10">Fluit aqua labilis,</l>
+<l>Terra manet stabilis.</l> 
+<l>Alta petunt levia,</l>
+<l>Centrum tenent gravia</l>
+<l> Renovantur omnia.</l> 
+<l n="15" indent="1">Coelum fit serenius,</l>
+<l>Et mare tranquillius.</l> 
+<l>
+<pb n="1436B"/>Spirat aura levius.</l> 
+<l>Vallis nostra floruit,</l>
+<l>Revirescunt arida.</l> 
+<l n="20">Recalescunt frigida,</l>
+<l> Post quae ver intepuit.</l> 
+<l rend="indent"> Gelu mortis solvitur,</l>
+<l>Princeps mundi tollitur</l>
+<l>Et ejus destruitur</l>
+<l n="25">In nobis imperium</l>
+<l>
+<pb n="1437A"/>Dum tenere voluit</l>
+<l>In quo nihil habuit,</l>
+<l>Jus amisit proprium.</l>
+        </p>
+<p>
+          <l rend="indent">Vita mortem superat,</l>
+<l>Homo jam recuperat.</l> 
+<l n="30">(Quod prius amiserat)</l>
+<l>Paradisi gaudium.</l>
+        </p>
+<p>
+          <l rend="indent">Viam praebet facilem</l>
+<l>Cherubim, versatilem</l>
+<l>(Ut Deus promiserat)</l>
+<l n="35"> Amovendo gladium. Amen</l>
+        </p>
+</div1>
+
+<div1>
+        <head>V. DE RESURRECTIONE DOMINI ALIA PROSA.</head>
+<p>Haec prosa, rhythmicae modulationis constringitur
+<pb n="1437B"/>
+numeris, sicut illa de sancto Stephano: <hi>Heri
+mundus exsultavit,</hi> et propemodum ad illius accedit
+compositionis formam et speciem. In ea explicantur
+mira Dominicae resurrectionis mysteria,
+in Veteri quidem Testamento, multis figuris praesignata,
+et in Novo nobis ex bonitate divina
+clarius exhibita. Unde complures hic recensentur
+figurae legis antiquae, quarum velamine et umbra,
+tanta redemptionis humanae sacramenta sunt
+praesignificata et obducta, quemadmodum adnotationes
+singulatim elucidabunt. Et sane haec prosa
+admodum divina est, paucis multa complectens,
+et tota ex sacris litteris praeclare desumpta, cujus
+et historias, et sententias congruenter copioseque
+adaptat proposito, ut hoc suo opificio
+auctor ipsius Adam de Sancto Victore, liquido
+probat se in divinis Scripturis apprime exercitatum
+et promptum fuisse. Quod et in complusculis
+prosis a se compositis (quarum permultae huic
+<pb n="1437C"/>
+libro inseruntur) gnaviter observat, ut qui illarum
+studio fuerit addictissimus.</p>
+<p>
+          <l rend="indent"> Zyma vetus expurgetur,</l>
+<l>Ut sincere celebretur</l>
+<l>
+<pb n="1438A"/>Nova resurrectio.</l>
+        </p>
+<p>
+          <l rend="indent">Haec est dies nostrae spei.</l> 
+<l n="5">Hujus mira vis diei</l>
+<l>Legis testimonio.</l>
+        </p>
+<p>
+          <l rend="indent"> Haec Aegyptum spoliavit,</l>
+<l>Et Hebraeos liberavit</l>
+<l>De fornace ferrea.</l>
+        </p>
+<p>
+          <l n="10" indent="1">His in arcto constitutis</l>
+<l>Opus erat servitutis</l>
+<l>Lutum, later, palea.</l>
+        </p>
+<p>
+          <l rend="indent">Jam divinae laus virtutis,</l>
+<l>Jam triumphi, jam salutis</l>
+<l n="15">Vox erumpat libera.</l>
+        </p>
+<p>
+          <l rend="indent">Haec est dies quam fecit Dominus,</l>
+<l>Dies nostri doloris terminus,</l>
+<l>
+<pb n="1438B"/>Dies salutifera.</l>
+        </p>
+<p>
+          <l rend="indent">Lex est umbra futurorum.</l> 
+<l n="20">Christus finis promissorum,</l>
+<l>Qui consummat omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Christi sanguis igneam</l>
+<l>Hebetavit rumphaeam,</l>
+<l>Amota custodia.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Puer nostri forma risus,</l>
+<l>Pro quo vervex est occisus,</l>
+<l>Vitae signat gaudium.</l>
+        </p>
+<p>
+          <l rend="indent">Joseph exit de cisterna,</l>
+<l>Christus redit ad superna</l>
+<l n="30">Post mortis supplicium.</l>
+        </p>
+<p>
+          <l rend="indent">Hic dracones Pharaonis</l>
+<l>Draco vorat, a draconis</l>
+<l>
+<pb n="1438C"/>Immunis malitia.</l>
+        </p>
+<p>
+          <l n="35" indent="1">Quos ignitus vulnerat,</l>
+<l>Hos serpentis liberat</l>
+<l>
+<pb n="1439A"/>Aenei praesentia.</l>
+        </p>
+<p>
+          <l rend="indent">Anguem forat in maxilla,</l>
+<l>Christus hamus et armilla.</l> 
+<l n="40">In cavernam reguli</l>
+        </p>
+<p>
+          <l rend="indent">Manum mittit ablactatus,</l>
+<l>Et sic fugit exturbatus</l>
+<l>Vetus hospes saeculi.</l>
+        </p>
+<p>
+          <l rend="indent">Irrisores Elisaei</l>
+<l n="45">Dum conscendit domum Dei,</l>
+<l>Zelum calvi sentiunt.</l>
+        </p>
+<p>
+          <l rend="indent">David arreptitius,</l>
+<l>Hircus emissarius,</l>
+<l>Et passer effugiunt.</l>
+        </p>
+<p>
+          <l n="50" indent="1">In maxilla mille sternit.</l> 
+<l>
+<pb n="1439B"/>Et de tribu sua spernit</l>
+<l>Samson matrimonium.</l>
+        </p>
+<p>
+          <l rend="indent">Samson Gazae seras pandit,</l>
+<l>Et asportans portas scandit</l>
+<l n="55">Montis supercilium.</l>
+        </p>
+<p>
+          <l rend="indent">Sic de Juda leo fortis,</l>
+<l>Fractis portis dirae mortis</l>
+<l>Die surgit tertia.</l>
+        </p>
+<p>
+          <l rend="indent"> Rugiente voce patris,</l>
+<l n="60">Ad supernae sinum matris</l>
+<l>Tot revexit spolia.</l>
+        </p>
+<p>
+          <l rend="indent">Cetus Jonam fugitivum</l>
+<l>Veri Jonae signativum</l>
+<l>Post tres dies reddit vivum.</l> 
+<l n="65">De ventris angustia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1439C"/>Botrus Cypri reflorescit,</l>
+<l>Dilatatur et excrescit.</l> 
+<l>Synagogae flos marcescit,</l>
+<l>Et floret Ecclesia.</l>
+        </p>
+<p>
+          <l n="70" indent="1">Mors et vita conflixere,</l>
+<l>Resurrexit Christus vere.</l> 
+<l>Et cum Christo surrexere</l>
+<l>Multi testes gloriae.</l>
+        </p>
+<p>
+          <l rend="indent"> Mane novum, mane laetum,</l>
+<l n="75">Vespertinum tergat fletum.</l> 
+<l>
+<pb n="1440A"/>Quia vita vicit lethum,</l>
+<l>Tempus est laetitiae.</l>
+        </p>
+<p>
+          <l rend="indent">Jesu victor, Jesu vita,</l>
+<l>Jesu vitae, via trita.</l> 
+<l n="80">Cujus morte mors sopita,</l>
+<l>Ad paschalem nos invita</l>
+<l>Mensam cum fiducia.</l>
+        </p>
+<p>
+          <l rend="indent">Vive panis, vivax unda,</l>
+<l>Vera vitis et fecunda,</l>
+<l n="85">Tu nos pasce, tu nos munda.</l> 
+<l>Ut a morte nos secunda.</l> 
+<l>Tua salvet gratia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>VI. IN FESTIS PASCHALIBUS, ALIA PROSA.</head>
+<p>
+          <pb n="1440B"/>Haec prosa certis etiam rhythmicae consonantiae numeris
+constat. Nam ut plurimum quisque versuum
+ejus, duas solum clausulas rhythmicas complectitur
+in exitu syllabarum ad invicem convenientes.
+Unaquaeque autem illarum clausularum
+octo continet syllabas, semperque penultimam
+brevem. Interdum vero unus versus, quatuor comprehendit
+hujusmodi clausulas alternis locis consonantiam
+servantes, ut prima tertiae, et secunda
+quartae in consimili syllabarum desinentia respondeat.
+Nonnunquam itidem ejusdem versus quatuor
+sunt clausulae, eodem penitus inter se exitu desinentes,
+quemadmodum studiosus lector facile
+primo ipsius litterae obtutu dijudicabit. Auctor
+ejus, Adam de Sancto Victore. Commendatur in
+ea multis praeconiis gloriosa Christi resurrectio,
+ob magna beneficia, quae humano generi contulit,
+scilicet redemptionem ab hoste antiquo, reparationem
+<pb n="1440C"/>
+vitae, liberationem a morte, et spem immortalitatis
+in nobis consequendae in consummatione
+saeculi. Et quoniam die Dominica facta est
+Christi resurrectio, illa dies etiam egregiis extollitur
+titulis et laudibus.
+<l rend="indent"> Lux illuxit Dominica,</l>
+<l>Lux insignis, lux unica.</l> 
+<l rend="indent">Lux lucis et laetitiae,</l>
+<l>Lux immortalis gloriae.</l> 
+<l n="5" indent="1"> Diem mundi conditio</l>
+<l>Commendat ab initio.</l> 
+<l rend="indent">
+<pb n="1441A"/>Quam Christi resurrectio</l>
+<l>Ditavit privilegio.</l> 
+<l rend="indent">In spe perennis gaudii.</l> 
+<l n="10"> Lucis exsultent filii.</l> 
+<l rend="indent">Vindicent membra merit</l>
+<l>Conformitatem capitis.</l> 
+<l rend="indent">Solemnis est celebritas,</l>
+<l>Et vota sunt solemnia.</l> 
+<l n="15">Primae diei dignitas</l>
+<l>Prima requirit gaudia.</l> 
+<l rend="indent">Solemnitatum gloria,</l>
+<l>Paschalis est victoria.</l> 
+<l rend="indent">Sub multis aenigmatibus</l>
+<l n="20">Prius promissa patribus.</l> 
+<l rend="indent"> Jam scisso velo patuit,</l>
+<l>
+<pb n="1441B"/>Quod vetus lex praecinuit.</l> 
+<l rend="indent">Figuram res exterminat,</l>
+<l>Et umbram lux illuminat.</l> 
+<l n="25" indent="1"> Quid agnus sine macula</l>
+<l>Quid haedus typi gesserit,</l>
+<l>Nostra purgans piacula</l>
+<l>Messias nobis aperit.</l> 
+<l rend="indent"> Per mortem nos indebitam.</l> 
+<l n="30">Solvit a morte debita.</l> 
+<l rend="indent">
+<pb n="1442A"/>Praedam captans illicitam,</l>
+<l>Praeda privatur licita.</l> 
+<l rend="indent"> Carnis delet opprobria</l>
+<l>Caro peccati nescia.</l> 
+<l n="35">Die reflorens tertia.</l> 
+<l>Corda confirmat dubia.</l> 
+<l rend="indent">O mors Christi mirifica</l>
+<l>Tu Christo nos vivifica.</l> 
+<l rend="indent">Mors morti non obnoxia,</l>
+<l n="40">Da nobis vitae praemia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>VII. DE RESURRECTIONE DOMINI ALIA PROSA.</head>
+<p>Haec prosa consimilem habet rhythmicam compositionem,
+sicut illa paulo ante explicata, <hi>Mane
+prima Sabbati, surgens Dei Filius.</hi> Auctor ejus,
+<pb n="1442B"/>
+Adam de Sancto Victore. Praedicatur in ea Dominicae
+resurrectionis gloria, per quam excussi
+sumus a faucibus leonis rugientis, sicut multis
+antiqui Testamenti figuris illud fuit praesignificatum.
+Per illam itidem et mortem Christi profluit
+gratia in totam Ecclesiam, quam indubitato percipiunt
+quicunque ore et opere confitentur Christum
+auctorem vitae, et Salvatorem mundi, a quo
+solo salus est speranda.
+<l>Ecce dies celebris:</l>
+<l>Lux succedit tenebris</l>
+<l>
+<pb n="1443A"/>Morti resurrectio.</l>
+        </p>
+<p>
+          <l rend="indent">Laetis cedant tristia.</l> 
+<l n="5"> Cum sit major gloria,</l>
+<l>Quam prima confusio.</l>
+        </p>
+<p>
+          <l rend="indent">Umbram fugat veritas:</l>
+<l>Vetustatem novitas,</l>
+<l>Luctum consolatio.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Pascha novum colite</l>
+<l>Quod praeit in capite,</l>
+<l>Membra sperent singula.</l>
+        </p>
+<p>
+          <l rend="indent">Pascha nostrum Christus est,</l>
+<l>Qui pro nobis passus est</l>
+<l n="15">Agnus sine macula.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1444A"/> Hostis qui nos circuit:</l>
+<l>Praedam Christus eruit.</l> 
+<l>Quod Samson praecinuit,</l>
+<l>Dum leonem lacerat.</l>
+        </p>
+<p>
+          <l n="20" indent="1"> David fortis viribus:</l>
+<l>A leonis unguibus</l>
+<l>Et ab ursi faucibus</l>
+<l>Gregem patris liberat.</l>
+        </p>
+<p>
+          <l rend="indent"> Quod in morte plures stravit,</l>
+<l n="25">Samson Christum figuravit.</l> 
+<l>Cujus mors victoria.</l>
+        </p>
+<p>
+          <l rend="indent"> Samson dictus sol eorum.</l> 
+<l>Christus lux est electorum,</l>
+<l>
+<pb n="1445A"/>Quos illustrat gratia.</l>
+        </p>
+<p>
+          <l n="30" indent="1"> Jam de crucis sacro vecte</l>
+<l>Botrus fluit, in dilectae</l>
+<l>Penetral Ecclesiae.</l>
+        </p>
+<p>
+          <l rend="indent"> Jam calcato torculari,</l>
+<l>Musto gaudent ebriari</l>
+<l n="35">Gentium primitiae.</l>
+        </p>
+<p>
+          <l rend="indent"> Saccus scissus et pertusus:</l>
+<l>In regales transit usus.</l> 
+<l>Saccus fit soccus gratiae,</l>
+<l>Caro victrix miseriae.</l>
+        </p>
+<p>
+          <l n="40" indent="1">Quia regem peremerunt,</l>
+<l>Rei regnum perdiderunt,</l>
+<l> Sed non delectur penitus</l>
+<l>Cain, in signum positus.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1446A"/> Reprobatus et abjectus</l>
+<l n="45">Lapis iste nunc electus;</l>
+<l>In trophaeum stat erectus</l>
+<l>Et in caput anguli.</l>
+        </p>
+<p>
+          <l rend="indent">Culpam delens non naturam</l>
+<l> Novam creat creaturam:</l>
+<l n="50">Tenens in se ligaturam</l>
+<l>Utriusque populi.</l> 
+<l rend="indent">Capiti sit gloria,</l>
+<l>Membrisque concordia.</l> 
+<l rend="indent(1)">Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>VIII. DE SANCTO SPIRITU.</head>
+<p>Haec prosa rhytmicae consonantiae normam exacte
+<pb n="1447A"/>
+servat, persimilis quantum ad compositionis formam
+illi prosae prius explicatae: <hi>Zyma vetus expurgetur.</hi> 
+Auctor ejus, Adam de Sancto Victore.
+Commendatur in ea multifariam mysterium missionis
+Spiritus sancti in apostolos, et variis antiquae
+legis figuris ac factis praesignatum fuisse ostenditur.
+Deinde ad Spiritum sanctum dirigitur totius
+Ecclesiae oratio, petens ut nos peccatis expurgatos
+ducat in aeterna coeli tabernacula.
+<l>Lux jucunda, lux insignis,</l>
+<l>Qua de throno missus ignis</l>
+<l>In Christi discipulos</l>
+        </p>
+<p>
+          <l rend="indent">Corda replet, linguas ditat,</l>
+<l n="5">Ad concordes nos invitat,</l>
+<l> Linguae, cordis modulos.</l>
+        </p>
+<p>
+          <l rend="indent"> Christus misit quod promisit</l>
+<l>
+<pb n="1447B"/>Pignus sponsae quam revisit</l>
+<l>
+<pb n="1448A"/>Die quinquagesima.</l>
+        </p>
+<p>
+          <l n="10" indent="1"> Post dulcorem melleum,</l>
+<l>Petra fudit oleum,</l>
+<l>Petra jam firmissima.</l>
+        </p>
+<p>
+          <l rend="indent"> In tabellis saxeis,</l>
+<l>Non in linguis igneis,</l>
+<l n="15">Lex de monte populo.</l>
+        </p>
+<p>
+          <l rend="indent">Paucis cordis novitas</l>
+<l>Et linguarum unitas</l>
+<l>Datur in coenaculo.</l>
+        </p>
+<p>
+          <l rend="indent">O quam felix quam festiva</l>
+<l n="20">Dies, in qua primitiva</l>
+<l>Fundatur Ecclesia!</l>
+        </p>
+<p>
+          <l rend="indent"> Vivae sunt primitiae,</l>
+<l>
+<pb n="1448B"/>Nascentis Ecclesiae,</l>
+<l>
+<pb n="1449A"/>Tria primum millia.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Panes legis primitivi,</l>
+<l>Sub una sunt adoptivi,</l>
+<l>Fide, duo populi.</l>
+        </p>
+<p>
+          <l rend="indent"> Se duobus interjecit,</l>
+<l>Sicque duos unum fecit</l>
+<l n="30">Lapis, caput anguli.</l>
+        </p>
+<p>
+          <l rend="indent"> Utres novi non vetusti,</l>
+<l>Sunt capaces novi musti.</l> 
+<l>Vasa parat vidua,</l>
+        </p>
+<p>
+          <l rend="indent"> Liquorem dat Elisaeus.</l> 
+<l n="35">Nobis sacrum rorem Deus,</l>
+<l>Si corda sint congrua.</l>
+        </p>
+<p>
+          <l rend="indent">Non hoc musto vel liquore,</l>
+<l>Non hoc sumus digni rore,</l>
+<l>
+<pb n="1449B"/>Si discordes moribus.</l>
+        </p>
+<p>
+          <l n="40" indent="1">In obscuris vel divisis,</l>
+<l>
+<pb n="1450A"/> Non potest haec paraclisis</l>
+<l>Habitare cordibus.</l>
+        </p>
+<p>
+          <l rend="indent">Consolator alme, veni,</l>
+<l>Linguas rege, corda leni.</l> 
+<l n="45">Nihil fellis aut veneni,</l>
+<l>Sub tua praesentia.</l>
+        </p>
+<p>
+          <l rend="indent">Nil jucundum, nil amoenum.</l> 
+<l>Nil salubre, nil serenum,</l>
+<l>Nihil dulce, nihil plenum,</l>
+<l n="50">Nisi tua gratia.</l>
+        </p>
+<p>
+          <l rend="indent">Tu lumen es et unguentum</l>
+<l>Tu coeleste condimentum.</l> 
+<l> A quae ditans elementum</l>
+<l>Virtute mysterii.</l>
+        </p>
+<p>
+          <l n="55" indent="1">Nova facti creatura,</l>
+<l>
+<pb n="1450B"/>Te laudamus mente pura.</l> 
+<l> Gratiae nunc, sed natura</l>
+<l>
+<pb n="1451A"/>Prius irae filii.</l>
+        </p>
+<p>
+          <l rend="indent"> Tu, qui dator es et donum,</l>
+<l n="60">Tu, qui condis omne bonum,</l>
+<l>Cor ad laudem redde pronum,</l>
+<l>Nostrae linguae formans sonum,</l>
+<l>In tua praeconia.</l>
+        </p>
+<p>
+          <l rend="indent">Tu purga nos a peccatis,</l>
+<l n="65">Auctor ipse puritatis,</l>
+<l>Et in Christo renovatis,</l>
+<l>Da perfectae novitatis,</l>
+<l>Plena nobis gaudia. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>IX. DE SANCTO SPIRITU ALIA PROSA.</head>
+<p>Haec prosa, rhythmicae compositionis tenet legem,
+perinde atque ea quae superius est declarata:
+<pb n="1451B"/> <hi>Mane prima Sabbati.</hi> 
+ Id tamen ultra illam habet
+speciale, quod in nono et decimo versu duas
+tantum habet clausulas rhythmicas, quarum prior
+consonantiam syllabarum servat in sui ipsius medio
+et fine, posterior vero clausula unius datorum
+versuum respondet in simili desinentia posteriori
+clausulae alterius versus. Auctor ejus, Adam de
+Sancto Victore. Celebratur in ea claris laudibus
+Spiritus sancti missio in discipulos, per quam lex
+nova est promulgata, ipsiusque, novae legis supra
+veterem multiplex excellentia et dignitas assignatur.
+Apostolorum item, qui Novi Testamenti
+sunt Patres, magna virtus, et operandi energia
+depromitur. Et demum ipsius diei Pentecostes ad
+annum jubilaeum Judaeorum fit comparatio, in
+conditionem ac proprietatum quadam affinitate.
+<l> Simplex in essentia</l>
+<l>Septiformis gratia</l>
+<l>
+<pb n="1452A"/>Nos reformet Spiritus.</l>
+        </p>
+<p>
+          <l rend="indent">Cordis lustret tenebras,</l>
+<l n="5">Et carnis illecebras</l>
+<l>Lux emissa coelitus.</l>
+        </p>
+<p>
+          <l rend="indent"> Lex praecessit in figura,</l>
+<l>Lex poenalis, lex obscura</l>
+<l>Lumen evangelicum.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Spiritalis intellectus</l>
+<l>Litterali fronde tectus,</l>
+<l>Prodeat in publicum</l>
+        </p>
+<p>
+          <l rend="indent">Lex de monte populo,</l>
+<l>Paucis in coenaculo.</l> 
+<l n="15">Nova datur gratia.</l>
+        </p>
+<p>
+          <l rend="indent">Situs docet nos locorum,</l>
+<l>
+<pb n="1452B"/>Praeceptorum, vel donorum,</l>
+<l>Quae sit eminentia.</l>
+        </p>
+<p>
+          <l rend="indent">Ignis, clangor, buccinae:</l>
+<l n="20">Fragor cum caligine,</l>
+<l>Lampadum discursio,</l>
+        </p>
+<p>
+          <l rend="indent">Terrorem incutiunt,</l>
+<l>Nec amorem nutriunt,</l>
+<l>Quem effudit unctio.</l> 
+<l n="25" indent="1">Sic in Sina lex divina,</l>
+<l>Reis est imposita.</l> 
+<l rend="indent">Lex timoris, non amoris,</l>
+<l>Puniens illicita.</l>
+        </p>
+<p>
+          <l rend="indent"> Ecce patres praeelecti,</l>
+<l n="30">Dii recentes sunt effecti,</l>
+<l>
+<pb n="1453A"/>Culpae solvunt vincula.</l>
+        </p>
+<p>
+          <l rend="indent">Pluunt verbo, tonant minis,</l>
+<l>Novis linguis et doctrinis</l>
+<l>Consonant miracula.</l>
+        </p>
+<p>
+          <l n="35" indent="1">Exhibentes aegris curam,</l>
+<l>Morbum damnant non naturam:</l>
+<l>Persequentes scelera</l>
+        </p>
+<p>
+          <l rend="indent">Reos premunt et castigant;</l>
+<l>Modo solvunt, modo ligant,</l>
+<l n="40">Potestate libera.</l>
+        </p>
+<p>
+          <l rend="indent"> Typum gerit jubilaei</l>
+<l>Dies iste, si diei</l>
+<l>Requiris mysteria.</l>
+        </p>
+<p>
+          <l rend="indent">In quo tribus millibus</l>
+<l n="45">Ad fidem currentibus;</l>
+<l>
+<pb n="1453B"/>Pullulat Ecclesia.</l>
+        </p>
+<p>
+          <l rend="indent">Jubilaeus est vocatus:</l>
+<l>Vel dimittens vel mutatus</l>
+<l>Ad priores vocans status,</l>
+<l n="50">Res distractas libere.</l>
+        </p>
+<p>
+          <l rend="indent">Nos distractos sub peccatis,</l>
+<l>Liberet lex charitatis.</l> 
+<l>Et perfectae libertatis</l>
+<l>Dignos reddat munere. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>X. DE SANCTO SPIRITU ALIA PROSA.</head>
+
+<pb n="1454A"/>
+<p>In hac prosa consimilis ratio rhythmicae compositionis
+observata conspicitur, sicut in penultima, <hi>Lux
+jucunda, lux insignis,</hi> praeter id quod in decimo
+tertio, et decimo quarto versu non habet prima
+clausula responsum in exitu syllabarum ad secundam
+ejusdem versus, sed singulae earum finem
+suum habent consonantem suo medio, ut unius
+et ejusdem clausulae medium respondeat in simili
+desinentia suo ipsius fini. In ea commendatur
+multipliciter Spiritus sanctus, tum a divinis proprietatibus
+et habitudine ejus ad Patrem et Filium,
+circa principium praesentis prosae et finem. Tum
+a variis suae bonitatis in creaturas operibus, potissimum
+in homines, quorum anima sua dignatione
+visitat et illustrat. Demum humilis ad ipsum
+fidelis populi fit supplicatio, a decimo septimo
+versu usque ad vicesimum primum. Et quoniam
+<pb n="1454B"/>
+totius prosae contextus admodum facilis est et
+legentibus pervius, paucis adnotationibus ea transigetur.
+Auctor ejus: Adam de Sancto Victore.</p>
+<p>
+          <l rend="indent">Vi procedis ab utroque</l>
+<l>Genitori, genitoque,</l>
+<l>Pariter paraclete</l>
+        </p>
+<p>
+          <l rend="indent">Redde linguas eloquentes,</l>
+<l n="5">Fac ferventes in te mentes</l>
+<l> Flamma tua divite.</l>
+        </p>
+<p>
+          <l rend="indent">Amor Patris Filiique,</l>
+<l>Par amborum, et utrique</l>
+<l>Compar et consimilis,</l>
+        </p>
+<p>
+          <l n="10" indent="1">Cuncta reples, cuncta foves</l>
+<l>
+<pb n="1455A"/>Astra regis, coelum moves,</l>
+<l> Permanens immobilis.</l>
+        </p>
+<p>
+          <l rend="indent">Lumen clarum, lumen charum</l>
+<l>Internarum tenebrarum</l>
+<l n="15">Effugas caliginem.</l>
+        </p>
+<p>
+          <l rend="indent">Per te mundi sunt mundati,</l>
+<l>Tu peccatum et peccati</l>
+<l>Destruis rubiginem.</l>
+        </p>
+<p>
+          <l rend="indent">Veritatem notam facis</l>
+<l n="20">Et ostendis viam pacis;</l>
+<l>Et iter justitiae,</l>
+        </p>
+<p>
+          <l rend="indent">Perversorum corda vitas</l>
+<l>Et bonorum corda ditas</l>
+<l>Munere scientiae.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Te docente, nil obscurum.</l> 
+<l>
+<pb n="1455B"/>Te praesente, nil impurum;</l>
+<l>Sub tua praesentia,</l>
+        </p>
+<p>
+          <l rend="indent">Gloriatur mens jucunda.</l> 
+<l>Per te laeta, per te munda</l>
+<l n="30">Gaudet conscientia.</l>
+        </p>
+<p>
+          <l rend="indent"> Tu commutas elementa</l>
+<l>Per te suam sacramenta</l>
+<l>Habent efficaciam.</l>
+        </p>
+<p>
+          <l rend="indent">Tu nocivam vim repellis;</l>
+<l n="35">Tu confutas et refellis</l>
+<l>Hostium nequitiam.</l>
+        </p>
+<p>
+          <l rend="indent">Quando venis, corda lenis;</l>
+<l>Quando subis, atrae nubis</l>
+<l>Effugit obscuritas.</l>
+        </p>
+<p>
+          <l n="40" indent="1">
+<pb n="1455C"/> Sacer ignis, pectus ignis,</l>
+<l>Non comburis, sed a curis</l>
+<l>Purgas, quando visitas.</l>
+        </p>
+<p>
+          <l rend="indent">Mentes prius imperitas,</l>
+<l>Et sopitas et oblitas,</l>
+<l n="45">Erudis et excitas.</l>
+        </p>
+<p>
+          <l rend="indent">Foves linguas, formas sonum.</l> 
+<l>Cor ad bonum, facit pronum,</l>
+<l>A te data charitas.</l>
+        </p>
+<p>
+          <l rend="indent">O juvamen oppressorum!</l> 
+<l n="50">O solamen miserorum!</l> 
+<l>Pauperum refugium:</l>
+        </p>
+<p>
+          <l rend="indent">Da contemptum terrenorum;</l>
+<l>Ad amorem supernorum</l>
+<l>Trahe desiderium.</l>
+        </p>
+<p>
+          <l n="55" indent="1">
+<pb n="1456A"/>Pelle mala, terge sordes:</l>
+<l>Et discordes fac concordes:</l>
+<l>Et affer praesidium.</l>
+        </p>
+<p>
+          <l rend="indent">Tu qui quondam visitasti;</l>
+<l>Docuisti, confortasti,</l>
+<l n="60">Timentes discipulos:</l>
+        </p>
+<p>
+          <l rend="indent">Visitare nos digneris.</l> 
+<l>Nos si placet consoleris</l>
+<l>Et credentes populos.</l>
+        </p>
+<p>
+          <l rend="indent">Par majestas personarum;</l>
+<l n="65">Par potestas est earum;</l>
+<l>Et communis deitas.</l>
+        </p>
+<p>
+          <l rend="indent">Tu procedens a duobus:</l>
+<l>Coaequalis es ambobus:</l>
+<l>In nullo disparitas.</l>
+        </p>
+<p>
+          <l n="70" indent="1">
+<pb n="1456B"/>Quia tantus es et talis</l>
+<l>Quantus Pater est et qualis.</l> 
+<l>Servorum humilitas</l>
+        </p>
+<p>
+          <l rend="indent">Deo Patri Filioque,</l>
+<l>Redemptori, tibi quoque,</l>
+<l n="75">Laudes reddat debitas.</l> 
+<l rend="indent(1)">Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XI. DE SANCTA TRINITATE.</head>
+<p>Haec prosa uniformem habet rhythmicae modulationis
+in omnibus suis versibus formam. In singulis
+enim tres continet clausulas rhythmicas, quarum
+duae primae mutuam adinvicem habent in exitu
+consonantiam: et utraque illarum octo complectitur
+<pb n="1456C"/>
+syllabas, quarum penultima semper longa aut
+syllabae longae in tenore prolationis persimilis.
+Tertia vero cujusque versus clausula responsum
+habet ad tertiam proximi versus in simili desinentia,
+et septem constringit syllabas, penultimamque
+brevem. Auctor ejus, Adam de Sancto
+Victore. Explicatur in ea concinne, eleganter et
+apposite altissimum super sanctae Trinitatis mysterium:
+quomodo in illa nec unitas deitatis repugnat
+trinitati personarum, nec harum pluralitas illius
+simplicitati; quomodo etiam ipsae personae licet
+unius sint essentiae, proprietates tamen habent
+singulares et personales, secundum quas earum
+attenditur ac sumitur discretio. Et alia id genus
+ad sacratissimum istud fidei arcanum secretumque
+sacramentum attinentia, hic decenter et dilucide
+reserantur, quae ex Symbolo Athanasii et ejus
+explanatione in secundo libro posita, plana satis
+et clara evadere possunt, idcirco illorum declarationibus
+<pb n="1457A"/>
+non opus erit hic diutius immorari ac
+insistere.
+<l>Profitentes unitatem,</l>
+<l>Veneremur trinitatem</l>
+<l>Patri reverentia.</l>
+        </p>
+<p>
+          <l rend="indent">Tres personas asserentes,</l>
+<l n="5">Personali differentes</l>
+<l>A se differentia.</l>
+        </p>
+<p>
+          <l rend="indent"> Hae dicuntur relative,</l>
+<l>Cum sint unum substantive.</l> 
+<l>Non tria principia.</l>
+        </p>
+<p>
+          <l n="10" indent="1"> Sive dicas tres vel tria,</l>
+<l>Simplex tamen est usia,</l>
+<l>Non triplex essentia.</l>
+        </p>
+<p>
+          <l rend="indent">Simplex esse, simplex posse,</l>
+<l>
+<pb n="1457B"/>Simplex velle, simplex nosse,</l>
+<l n="15">Cuncta sint simplicia.</l>
+        </p>
+<p>
+          <l rend="indent"> Non unius quam duarum,</l>
+<l>
+<pb n="1458A"/>Sive trium personarum,</l>
+<l>Minor efficacia.</l>
+        </p>
+<p>
+          <l rend="indent">Pater, proles, sacrum flamen,</l>
+<l n="20"> Deus unus, sed hi tamen</l>
+<l> Habent quaedam propria.</l>
+        </p>
+<p>
+          <l rend="indent">Una virtus, unum numen.</l> 
+<l>Unus splendor, unum lumen.</l> 
+<l>Hoc una quod alia.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Patri proles est aequalis,</l>
+<l>Nec hoc tollit personalis</l>
+<l>Amborum distinctio,</l>
+        </p>
+<p>
+          <l rend="indent">Patri compar Filioque,</l>
+<l> Spiritalis ab utroque</l>
+<l n="30">Procedit connexio.</l>
+        </p>
+<p>
+          <l rend="indent">Non humana ratione</l>
+<l>
+<pb n="1458B"/>Capi possunt hae personae,</l>
+<l>Nec harum discretio.</l>
+        </p>
+<p>
+          <l rend="indent"> Non hic ordo temporalis,</l>
+<l n="35">
+<pb n="1459A"/>Non sic situs, aut localis</l>
+<l>Rerum circumscriptio.</l>
+        </p>
+<p>
+          <l rend="indent">Nil in Deo praeter Deum,</l>
+<l> Nulla causa praeter eum</l>
+<l> Qui causat causalia.</l>
+        </p>
+<p>
+          <l n="40" indent="1"> Effectiva vel formalis</l>
+<l>Causa, Deus, et finalis.</l> 
+<l>Sed nunquam materia.</l>
+        </p>
+<p>
+          <l rend="indent">Digne loqui de personis,</l>
+<l>Vim transcendit rationis,</l>
+<l n="43">Excedit ingenia.</l>
+        </p>
+<p>
+          <l rend="indent">Quid sit gigni, quid processus,</l>
+<l>Me nescire sum professus.</l> 
+<l>Sed fide non dubia.</l>
+        </p>
+<p>
+          <l rend="indent">Qui sic credit, ne festinet,</l>
+<l n="50">
+<pb n="1459B"/>Et a via non declinet</l>
+<l>Insolerter regia.</l>
+        </p>
+<p>
+          <l rend="indent">Servet fidem, formet mores,</l>
+<l>Nec declinet ad errores</l>
+<l>Quos damnat Ecclesia.</l>
+        </p>
+<p>
+          <l n="55" indent="1">Nos in fide gloriemur,</l>
+<l>Nos in una modulemur</l>
+<l>Fidei constantia.</l>
+        </p>
+<p>
+          <l rend="indent">Trinae sit laus unitati,</l>
+<l>Sit et simplae trinitati</l>
+<l n="60">Coaeterna gloria. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XII. IN DEDICATIONE TEMPLI.</head>
+
+<pb n="1460A"/>
+<p>Haec prosa uniformem servat rhythmicae menturae
+legem. In singulis siquidem versibus quatuor
+habet clausulas rhythmicas, quarum tres primae
+consimilem inter se habent syllabarum desinentiam,
+et unaquaeque earum decem complectitur
+syllabas, penultimamque brevem. Quarta vero
+clausula (quae semper versum terminat) quatuor
+tantum continet syllabas, neque certam quantitatis
+regulam in penultima, neque responsum in
+exitu syllabarum ad aliam clausulam observans.
+Auctor ejus, Adam de Sancto Victore. In ea vero
+dulce canit epithalamium, carmenque nuptiale
+desponsationis Christi sponsi, et Ecclesiae suae
+sponsae, quam proprio acquisivit sanguine, ut esset
+sancta, et immaculata in conspectu ejus, neque
+maculam habens, neque rugam <note>(Ephes. V)</note>. Ostenditur
+item Ecclesia multis antiqui Testamenti
+<pb n="1460B"/>
+figuris esse praesignata, quae mirabilem ejus dignitatem,
+fecunditatem et ornatum praemonstrarunt,
+sed mirabilius ea omnia in ipsa esse completa,
+secundum mysticum sensum dignoscuntur.
+<l rend="indent"> Jerusalem et Sion filiae:</l>
+<l rend="indent">Coetus omnis fidelis curiae:</l>
+<l>Melos pangat jugis laetitiae.</l> 
+<l rend="indent(1)">Haleulia.</l>
+        </p>
+<p>
+          <l n="5" indent="1">Christus enim desponsat hodie</l>
+<l>Matrem nostram norma justitiae,</l>
+<l> Quam de lacu traxit miseriae</l>
+<l rend="indent(1)">Ecclesiam.</l>
+        </p>
+<p>
+          <l rend="indent">In Spiritus sancti clementia;</l>
+<l n="10">Sponsa sponsi laetatur gratia.</l> 
+<l> A reginis laudis cum gloria</l>
+<l rend="indent(1)">
+<pb n="1461A"/>Felix dicta.</l>
+        </p>
+<p>
+          <l rend="indent">Dos ut datur, crescit laetitia.</l> 
+<l> Quae dos, quanta? triplex potentia</l>
+<l n="15">Tangens coelum, terram, et stygia</l>
+<l rend="indent(1)">Judicia.</l>
+        </p>
+<p>
+          <l rend="indent">Mira loquor et sana credere.</l> 
+<l>Foederatam tam largo munere:</l>
+<l> De proprio produxit latere</l>
+<l n="20" rend="indent(1)">Deus homo.</l>
+        </p>
+<p>
+          <l rend="indent">Formaretur ut sic Ecclesia,</l>
+<l>Figuratur in pari gloria.</l> 
+<l>Adae costis formata femina:</l>
+<l rend="indent(1)">Hostis Eva.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Eva fuit noverca posteris:</l>
+<l>
+<pb n="1462A"/>Haec est mater electi generis.</l> 
+<l>Vitae portus, asylum miseris</l>
+<l rend="indent(1)">Et tutela.</l>
+        </p>
+<p>
+          <l rend="indent"> Pulchra, potens, partu mirabilis:</l>
+<l n="30">Ut luna, sol fulget spectabilis.</l> 
+<l>Plus acie multo terribilis</l>
+<l rend="indent(1)">Ordinata.</l>
+        </p>
+<p>
+          <l rend="indent"> Multiplex est, singularis, una.</l> 
+<l>Generalis et individua.</l> 
+<l n="35">Omnis aevi sexus simul una</l>
+<l rend="indent(1)">Parit turmas.</l>
+        </p>
+<p>
+          <l rend="indent"> Haec signata Jordanis fluctibus.</l> 
+<l>Haec quae venit a terrae finibus:</l>
+<l>Scientiam audire cominus</l>
+<l n="40" rend="indent(1)">
+<pb n="1463A"/>Salomonis.</l>
+        </p>
+<p>
+          <l rend="indent"> Haec typicis descripta sensibus:</l>
+<l>Nuptiarum induta vestibus:</l>
+<l>Coeli praeest hodie civibus</l>
+<l rend="indent(1)">Christo juncta.</l>
+        </p>
+<p>
+          <l n="45" indent="1">O solemnis festum laetitiae,</l>
+<l> Quo unitur Christus Ecclesiae.</l> 
+<l>In quo nostrae salutis nuptiae</l>
+<l rend="indent(1)">Celebrantur.</l>
+        </p>
+<p>
+          <l rend="indent">Coetus felix, dulce convivium:</l>
+<l n="50">Lapsis ubi datur solatium,</l>
+<l>Desperatis offertur spatium</l>
+<l rend="indent(1)">Respirandi.</l>
+        </p>
+<p>
+          <l rend="indent">Justis inde solvuntur praemia.</l> 
+<l> Angelorum novantur gaudia.</l> 
+<l n="55">
+<pb n="1463B"/>Lata nimis quod facit gratia</l>
+<l rend="indent(1)">Charitatis.</l>
+        </p>
+<p>
+          <l rend="indent"> Ab aeterno fons sapientiae</l>
+<l>Intuitu solius gratiae.</l> 
+<l>Sic praevidit in rerum serie</l>
+<l n="60" rend="indent(1)">Haec futura.</l>
+        </p>
+<p>
+          <l rend="indent">Christus ergo nos suis nuptiis</l>
+<l>Recreatos veris deliciis.</l> 
+<l>
+<pb n="1464A"/>Interesse faciat sociis</l>
+<l rend="indent(1)">Electorum. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XIII. IN DEDICATIONE ECCLESIAE PROSA.</head>
+<p>Haec prosa, rhythmicae compositionis variam prae se
+fert speciem. Nam in principio, et circa finem,
+singulae versuum clausulae consonantiam habent,
+et similem syllabarum desinentiam in sui ipsarum
+medio et fine. In caeteris autem versibus,
+tres ponuntur clausulae rhythmicae, duae quidem
+inter se consonantes, et tertia unius versus respondens
+tertiae clausulae proximi versus, quod
+rhythmi genus in prosis est frequentissimum.
+Auctor ejus, Adam de Sancto Victore. Explicantur
+in ea praeconia, laudes et mysteria sanctae matris
+Ecclesiae, multis modis per Veteris Testamenti
+figuras praesignificata, in Psalmis quoque et Evangelio
+<pb n="1464B"/>
+mirifice praedicata, ut adnotationes subjunctae
+declarabunt.
+<l rend="indent"> Quam dilecta tabernacula</l>
+<l>Domini virtutum, et atria.</l> 
+<l rend="indent"> Quam electi architecti,</l>
+<l>Tuta aedificia.</l> 
+<l n="5" indent="1">Quae non movent, imo fovent</l>
+<l>Ventus, flumen, pluvia.</l>
+        </p>
+<p>
+          <l rend="indent"> Quam decora fundamenta,</l>
+<l>
+<pb n="1465A"/>Per concinna sacramenta</l>
+<l>Umbrae praecurrentia.</l>
+        </p>
+<p>
+          <l n="10" indent="1"> Latus Adae dormientis</l>
+<l>Evam fudit in manentis</l>
+<l>Copulae primordia.</l>
+        </p>
+<p>
+          <l rend="indent">Arca ligno fabricata</l>
+<l>Noe servat gubernata</l>
+<l n="15">Per mundi diluvium.</l>
+        </p>
+<p>
+          <l rend="indent">Prole sera tandem feta</l>
+<l>Anus Sara ridet laeta</l>
+<l>Nostrum lactans gaudium.</l>
+        </p>
+<p>
+          <l rend="indent"> Servus bibit qui legatur</l>
+<l n="20">Et camelus adaquatur</l>
+<l>Ex Rebeccae hydria.</l>
+        </p>
+<p>
+          <l rend="indent">Haec in aures et armillas</l>
+<l>
+<pb n="1465B"/>Aptat sibi, ut per illas</l>
+<l>Viro fiat congrua.</l>
+        </p>
+<p>
+          <l n="25" indent="1">
+<pb n="1466A"/>Synagoga supplantatur</l>
+<l>A Jacob, dum divagatur</l>
+<l>Nimis freta litterae.</l>
+        </p>
+<p>
+          <l rend="indent"> Lippam Liam latent multa,</l>
+<l>Quibus videns Rachel fulta,</l>
+<l n="30">Pari nubit foedere.</l>
+        </p>
+<p>
+          <l rend="indent">In bivio tegens nuda,</l>
+<l>Geminos parit ex Juda</l>
+<l>Thamar diu vidua.</l>
+        </p>
+<p>
+          <l rend="indent">Hic Moyses a puella.</l> 
+<l n="35">Dum se lavat, in fiscella</l>
+<l>Reperitur scirpea.</l>
+        </p>
+<p>
+          <l rend="indent">Hic mas agnus immolatur,</l>
+<l>Quo Israel satiatur:</l>
+<l>Tinctus ejus sanguine.</l>
+        </p>
+<p>
+          <l n="40" indent="1">
+<pb n="1466B"/> Hic transitur rubens unda:</l>
+<l>Aegyptios sub profunda</l>
+<l>
+<pb n="1467A"/>Obruens voragine.</l>
+        </p>
+<p>
+          <l rend="indent">Hic est urna manna plena</l>
+<l>Hic mandata legis dena,</l>
+<l n="45">Sed in arca foederis.</l>
+        </p>
+<p>
+          <l rend="indent">Hic sunt aedis ornamenta.</l> 
+<l>Hic Aaron indumenta,</l>
+<l>Quae praecedit poderis.</l>
+        </p>
+<p>
+          <l rend="indent">Hic Varias viduatur.</l> 
+<l n="50">Bersabee sublimatur,</l>
+<l>Sedis consors regiae.</l>
+        </p>
+<p>
+          <l rend="indent"> Haec regi varietate</l>
+<l>Vestis astat deauratae</l>
+<l>Sicut regum filiae.</l>
+        </p>
+<p>
+          <l n="55" indent="1">Huc venit austri regina,</l>
+<l>Salomonis quam divina</l>
+<l>
+<pb n="1467B"/>Condit sapientia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1468A"/>Haec est nigra sed formosa,</l>
+<l>Myrrhae et thuris fumosa</l>
+<l n="60">Virga pigmentaria.</l>
+        </p>
+<p>
+          <l rend="indent">Haec futura, quae figur</l>
+<l>Obumbravit, reseravit</l>
+<l>Nobis dies gratiae.</l>
+        </p>
+<p>
+          <l rend="indent"> Jam in lecto cum dilecto</l>
+<l n="65">Quiescamus, et psallamus:</l>
+<l>Adsunt enim nuptiae</l>
+        </p>
+<p>
+          <l rend="indent"> Quarum tonat initium</l>
+<l>In tubis epulantium,</l>
+<l>Et finis per Psalterium.</l>
+        </p>
+<p>
+          <l n="70" indent="1"> Sponsum millena millia,</l>
+<l>Una laudant melodia,</l>
+<l>Sine fine dicentia: halelulia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XIV. DE SANCTO ANDREA.</head>
+
+<pb n="1469A"/>
+<p>Haec prosa rhythmicae mensurationis tenet legem,
+sicut illa paulo superius declarata: <hi>Lauda, Sion,
+Salvatorem.</hi> Auctor ejus, Adam de Sancto Victore.
+Describit autem inclyta sancti Andreae praeconia,
+vocatione ejus ad Christum, praedicationem Evangelii
+ab eo factam gentibus, et mortem ejus in
+cruce gloriosam.
+<l>Exsultemus et laetemur,</l>
+<l>Et Andreae delectemur</l>
+<l>Laudibus apostoli.</l>
+        </p>
+<p>
+          <l rend="indent">Hujus fidem, dogma, mores</l>
+<l n="5">Et pro Christo tot labores,</l>
+<l>Digne decet recoli.</l>
+        </p>
+<p>
+          <l rend="indent">Hic ad fidem Petrum duxit,</l>
+<l>
+<pb n="1469B"/>Cui primum lux illuxit,</l>
+<l>Joannis indicio,</l>
+        </p>
+<p>
+          <l n="10" indent="1">Secus mare Galileae.</l> 
+<l>Petri simul et Andreae</l>
+<l>Sequitur electio,</l>
+        </p>
+<p>
+          <l rend="indent">Ambo prius piscatore</l>
+<l>Verbi fiunt assertores,</l>
+<l n="15">Et forma justitiae.</l>
+        </p>
+<p>
+          <l rend="indent"> Rete laxant in capturam,</l>
+<l>Vigilemque gerunt curam</l>
+<l>Nascentis Ecclesiae.</l>
+        </p>
+<p>
+          <l rend="indent">A fratre dividitur,</l>
+<l n="20">Et in partes mittitur</l>
+<l>Andreas Achaiae.</l>
+        </p>
+<p>
+          <l rend="indent">In Andreae retia</l>
+<l>
+<pb n="1469C"/>Currit Dei gratia</l>
+<l>Magna pars provinciae.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Fide, vita, verbo signis,</l>
+<l>Doctor pius et insignis,</l>
+<l>Cor informat populi.</l>
+        </p>
+<p>
+          <l rend="indent">Ut Egeas comperit</l>
+<l n="30">
+<pb n="1470A"/>Quid Andreas egerit,</l>
+<l>Irae surgunt stimuli.</l>
+        </p>
+<p>
+          <l rend="indent">Mens secura, mens virilis,</l>
+<l>Cui praesens vita, vilis,</l>
+<l>Viget patientia.</l>
+        </p>
+<p>
+          <l n="35" indent="1">Blandimentis aut tormentis.</l> 
+<l>Non enervat robur mentis</l>
+<l>Judicis insania.</l>
+        </p>
+<p>
+          <l rend="indent"> Crucem videns praeparari,</l>
+<l>Suo gestit conformari</l>
+<l n="40">Magistro discipulus.</l>
+        </p>
+<p>
+          <l rend="indent"> Mors pro morte solvitur,</l>
+<l>Et crucis appetitur,</l>
+<l>Triumphalis titulus</l>
+        </p>
+<p>
+          <l rend="indent">In cruce vixit biduum.</l> 
+<l n="45">
+<pb n="1470B"/>Victurus in perpetuum,</l>
+<l rend="indent">Nec vult volente populo</l>
+<l>Deponi de patibulo.</l>
+        </p>
+<p>
+          <l rend="indent">Hora fere dimidia</l>
+<l>Luce perfusus nimia,</l>
+<l n="50">Cum luce cum laetitia</l>
+<l>Pergit ad lucis atria.</l>
+        </p>
+<p>
+          <l rend="indent">O Andrea gloriose,</l>
+<l>Cujus preces pretiosae.</l> 
+<l> Cujus mortis luminosae</l>
+<l n="55">Dulcis est memoria.</l>
+        </p>
+<p>
+          <l rend="indent">Ab hac valle lacrymarum</l>
+<l>Nos ad illud lumen clarum.</l> 
+<l>Pie pastor animarum</l>
+<l>
+<pb n="1470C"/>Tua transfer gratia. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XV. DE SANCTO NICOLAO.</head>
+<p>Haec prosa rhythmicam habet in sua structura mensuram,
+sed multiformem. Nunc enim duas continet
+in uno versu clausulas rhythmicas, nunc quatuor,
+<pb n="1471A"/>
+neque uniformem etiam servat in desinentia et
+exitu syllabarum consonantiam, ut ex ipsa lectione
+facile quivis deprehendere poterit. Auctor
+ejus, Adam de Sancto Victore. In ea praedicantur
+insignia beati Nicolai praeconia, mirabilis indoles
+puerilis aetatis jaciens fundamenta magnarum
+(quae postea in eo emicuerunt) virtutum, Deo auctore
+facta ejusdem, ad episcopatum vocatio,
+miraculorum ejus cum in vita tum post mortem
+claritudo et frequentia. Verum ex vita ejus quae
+in omnium versatur manibus dilucida sunt, neque
+magnam efflagitant declarationem.
+<l>Congaudentes exsultemus</l>
+<l>Vocali concordia.</l> 
+<l>Ad beati Nicolai</l>
+<l>Festiva solemnia.</l> 
+<l n="5" indent="1">Qui in cunis adhuc jacens</l>
+<l>
+<pb n="1471B"/>Servando jejunia,</l>
+<l rend="indent"> A papillis coepit summa</l>
+<l>Promereri gaudia.</l> 
+<l rend="indent">Adolescens amplexatur</l>
+<l n="10">Litterarum studia.</l> 
+<l rend="indent">Alienus et immunis</l>
+<l>Ab omni lascivia.</l>
+        </p>
+<p>
+          <l rend="indent">Felix confessor,</l>
+<l>Cujus fuit dignitatis</l>
+<l n="15">Vox de coelo nuntia.</l>
+        </p>
+<p>
+          <l rend="indent"> Per quam provectus,</l>
+<l>Praesulatus sublimatur</l>
+<l>Ad summa fastigia.</l>
+        </p>
+<p>
+          <l rend="indent">Erat in ejus animo</l>
+<l n="20">Pietas eximia</l>
+<l>
+<pb n="1471C"/>Et oppressis impendebat:</l>
+<l>Multa beneficia,</l>
+        </p>
+<p>
+          <l rend="indent">Auro per eum, virginum</l>
+<l>Tollitur infamia.</l> 
+<l n="25">Atque patris earumdem</l>
+<l>
+<pb n="1472A"/>Levatur inopia.</l>
+        </p>
+<p>
+          <l rend="indent"> Quidam nautae navigantes,</l>
+<l>Et contra fluctuum,</l>
+<l>Saevitiam luctantes,</l>
+<l n="30">Navi pene dissoluta.</l>
+        </p>
+<p>
+          <l rend="indent">Jam de vita desperantes,</l>
+<l>In tanto positi</l>
+<l>Periculo, clamantes</l>
+<l>Voce dicunt omnes una:</l>
+        </p>
+<p>
+          <l n="35" indent="1">O beate Nicolae,</l>
+<l>Nos ad maris portum trahe</l>
+<l>De mortis angustia.</l>
+        </p>
+<p>
+          <l rend="indent">Trahe nos ad portum maris,</l>
+<l>Tu qui tot auxiliaris</l>
+<l n="40">Pietatis gratia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1472B"/>Dum clamarent, nec incassum</l>
+<l>Ecce quidam, dicens assum,</l>
+<l>Ad vestra praesidia.</l>
+        </p>
+<p>
+          <l rend="indent">Statim aura datur grata,</l>
+<l n="45">Et tempestas fit sedata,</l>
+<l>Quieverunt maria.</l> 
+<l rend="indent">Ex ipsius tumba manat</l>
+<l>Unctionis copia,</l>
+<l rend="indent">Quae infirmos omnes sanat</l>
+<l n="50">Per ejus suffragia.</l>
+        </p>
+<p>
+          <l rend="indent">Nos, qui sumus in hoc mundo</l>
+<l>Vitiorum in profundo</l>
+<l>Jam passi naufragia.</l>
+        </p>
+<p>
+          <l rend="indent">Gloriose Nicolae</l>
+<l n="55">Ad salutis portum trahe.</l> 
+<l>
+<pb n="1472C"/>Ubi pax et gloria.</l>
+        </p>
+<p>
+          <l rend="indent">Ipsam nobis unctionem</l>
+<l> Impetres a Domino,</l>
+<l>Prece pia.</l> 
+<l n="60">
+<pb n="1473A"/> Quae sanavit laesionem,</l>
+<l> Multorum peccaminum</l>
+<l>In Maria.</l> 
+<l rend="indent">Hujus festum celebrantes,</l>
+<l>Gaudeant per saecula.</l> 
+<l n="65">Et coronet eos Christus,</l>
+<l>Post vitae curricula. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XVI. DE SANCTA AGNETE.</head>
+<p>Haec prosa rhythmicae modulationis legem ecclesiasticis
+prosis familiarem et domesticam servat.
+Nam in complusculis versibus omnes clausulae
+rhythmicae praecedentes ultimam, adinvicem consonant
+in ipso exitu, et singulae, octo complentur
+<pb n="1473B"/>
+syllabis, quarum penultima est longa. Postrema
+vero illorum versuum clausula responsum in consonantia
+habet ad ultimam proximi versus et septem
+conficitur syllabis penultimaque brevi. At
+vero in quinto versu et sexto, similiter nono et
+decimo, singulae rhythmicarum clausularum sex
+complectuntur syllabas, quarum in quatuor primis
+penultima syllaba semper est brevis. In quinta autem
+noni et decimi versus clausula, penultima
+syllaba occurrit longa. Porro quatuor primae supradictorum
+versuum clausulae, nunc alternis locis
+habent mutuum in simili desinentia responsum,
+ut prima tertiae conspiret, et secunda quartae,
+nunc vero proximis locis positae consimili terminantur
+vocalitate, ut prima ad secundam referatur,
+et tertia ad quartam. Demum postrema
+clausula noni versus, ad postremam decimi suam
+tenet conformitatem. Auctor ejus, Adam de Sancto
+Victore, qui eleganti et canora modulatione
+totam gloriosae virginis Agnetis passionem in illa
+<pb n="1473C"/>
+complectitur, a capite ad calcem usque eam persequens,
+quod illi in aliis itidem prosis sanctorum,
+vitam, et martyrium describentibus, consuetudinarium
+est et peculiare. Insuper apparitionem
+illam sanctam, qua post felicem suam obdormitionem
+parentibus suis lugentibus ipsius mortem,
+suam manifestavit gloriam, insinuat hic auctor,
+et Constantiae reginae curationem meritis
+beatae Agnetis praestitam. Verum quoniam beatus
+Ambrosius hujus sacrae virginis vitam et agonem
+pro Christo praeclare et copiose conscripsit. Et
+illa elucubratio caeteris ejus operibus inserta ab
+omnibus facile haberi potest et legi, non sunt pro
+clariori elucidatione illa quae ad historiam passionis
+ejus attinent, hic repetenda, sed ex ipso
+potius suavissimo fonte haurienda. Itaque legatur
+ad horum intelligentiam Ambrosius.
+<l>Animemur ad agonem:</l>
+<l rend="indent">
+<pb n="1473D"/>Recolentes passionem</l>
+<l>
+<pb n="1474A"/>Gloriosae virginis.</l>
+        </p>
+<p>
+          <l rend="indent"> Contrectantes sacrum florem</l>
+<l>Respiremus ad odorem</l>
+<l>Respersae dulcedinis.</l>
+        </p>
+<p>
+          <l rend="indent">Pulchra, prudens, et illustris,</l>
+<l>Jam duobus Agnes lustris</l>
+<l>Addebat triennium.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Proles amat hanc praefecti:</l>
+<l>Sed ad ejus virgo flecti</l>
+<l>Respuit arbitrium.</l>
+        </p>
+<p>
+          <l rend="indent">Mira vis fidei</l>
+<l>Mira virginitas.</l> 
+<l n="15">Mira virginei</l>
+<l>Cordis integritas.</l>
+        </p>
+<p>
+          <l rend="indent">Sic Dei Filius</l>
+<l>
+<pb n="1474B"/>Nutu mirabili:</l>
+<l> Se mirabilius</l>
+<l n="20">Prodit in fragili.</l>
+        </p>
+<p>
+          <l rend="indent">Languet amans, cubat lecto.</l> 
+<l>Languor notus fit praefecto:</l>
+<l>Maturat remedia.</l>
+        </p>
+<p>
+          <l rend="indent">Offert multa, spondet plura;</l>
+<l n="25">Periturus peritura.</l> 
+<l>Sed vilescunt omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Nudam prostituit</l>
+<l>Praeses flagitiis,</l>
+<l>Quam Christus induit</l>
+<l n="30">Comarum fimbriis,</l>
+<l>Stolaque coelesti.</l>
+        </p>
+<p>
+          <l rend="indent">Coelestis nuntius</l>
+<l>
+<pb n="1474C"/>Assistit propius,</l>
+<l>Cella libidinis</l>
+<l n="35">Fit locus luminis:</l>
+<l>Turbantur incesti.</l>
+        </p>
+<p>
+          <l rend="indent">Caecus amans indignatur</l>
+<l>Et irrumpens praefocatur</l>
+<l>A maligno spiritu.</l>
+        </p>
+<p>
+          <l n="40" indent="1">Luget pater, lugent cunct.,</l>
+<l>Roma flevit pro defuncti</l>
+<l>Juvenis interitu.</l>
+        </p>
+<p>
+          <l rend="indent">Suscitatur ab Agnete.</l> 
+<l>Turba fremit indiscrete:</l>
+<l n="45">Rogum parant virgini.</l>
+        </p>
+<p>
+          <l rend="indent">Rogus ardens reos urit.</l> 
+<l>
+<pb n="1475A"/>In furentes flamma furit,</l>
+<l> Dans honorem numini.</l>
+        </p>
+<p>
+          <l rend="indent">Grates agens Salvatori,</l>
+<l n="50">Guttur offert haec lictori</l>
+<l>Nec ad horam timet mori,</l>
+<l>Puritatis conscia.</l>
+        </p>
+<p>
+          <l rend="indent">Agnes, Agni salutaris</l>
+<l>Stans ad dextram gloriaris,</l>
+<l n="55">Et parentes consolaris</l>
+<l>Invitans ad gaudia.</l>
+        </p>
+<p>
+          <l rend="indent">Ne te flerent ut defunctam</l>
+<l>Jam coelesti sponso junctam:</l>
+<l> His sub agni forma suam</l>
+<l n="60">Revelavit atque tuam</l>
+<l>Virginalem gloriam.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1475B"/>Nos ab Agno salutari</l>
+<l>Non permitte separari.</l> 
+<l>Cui te totam consecrasti,</l>
+<l n="65"> Cujus ope tu curasti</l>
+<l>Nobilem Constantiam</l>
+        </p>
+<p>
+          <l rend="indent">Vas electum, vas honoris,</l>
+<l>Incorrupti flos odoris,</l>
+<l>Angelorum grata choris,</l>
+<l n="70">Honestatis et pudoris</l>
+<l>Formam praebes saeculo.</l> 
+<l rend="indent">Palma fruens triumphali,</l>
+<l>Flore vernans virginali,</l>
+<l> Nos indignos speciali,</l>
+<l n="75">Fac sanctorum generali</l>
+<l rend="indent">Vel suscribi titulo. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XVII. DE SANCTO VINCENTIO.</head>
+
+<pb n="1475C"/>
+<p>Haec prosa rhythmicae orationis tenet mensuram,
+sed in diversis versibus variam. In aliquibus
+<pb n="1476A"/>
+enim singulae clausulae praeter ultimam octo sunt
+syllabarum, et penultimam habent longam. In
+aliis vero septem syllabarum, et penultimam tenent
+brevem. Occurrent et nonnulli versus, complexi
+in singulis suarum clausularum ante postremam,
+undecim syllabas, in ultima vero nunc quatuor
+syllabas, ut in nono et decimo versu, nunc vero
+septem, ut in decimo tertio et decimo quarto.
+Demum sunt alii in singulis suis clausulis novissimam
+praecedentibus comprehendentes decem syllabas,
+in ultima vero, octo, ut decimus nonus et
+vicesimus. Interdum vero singulae ejusdem versus
+clausulae citra extremam, consonantiam servant
+medii ad suum finem, ut in vicesimo quarto versu.
+Auctor ejus Adam de Sancto Victore. Continet
+autem haec sacrum beati Vincentii pro Christo
+agonem, vincula, carcerem, equuleum, craticulam,
+et fragmenta testea, quibus omnibus superatis,
+felix martyr cum insigni triumpho coelos
+<pb n="1476B"/>
+introiit. Quinimo et ex animis ipsius sancti corporis
+de saevo tyranno, et in terra, et in mari
+victoriam, etiam commemorat. Verum haec ex
+sacra vitae ipsius historia satis vulgata, facile
+perspici possunt, neque sunt hic repetenda.</p>
+<p>
+          <l rend="indent">Ecce dies praeoptata,</l>
+<l>Dies felix, dies grata,</l>
+<l>Dies digna gaudio.</l>
+        </p>
+<p>
+          <l rend="indent">Nos hanc diem veneremur.</l> 
+<l n="5">Et pugnantem admiremur</l>
+<l>Christum in Vincentio.</l>
+        </p>
+<p>
+          <l rend="indent">Ortu, fide, sanctitate,</l>
+<l>Sensu, verbo, dignitate,</l>
+<l>Clarus, et officio.</l>
+        </p>
+<p>
+          <l n="10" indent="1"> Hic arcem diaconi,</l>
+<l>Sub patris Valerii</l>
+<l>
+<pb n="1476C"/>Regebat imperio.</l>
+        </p>
+<p>
+          <l rend="indent">Linguae praesul impeditae</l>
+<l>Deo vacat: et Levitae</l>
+<l n="15">Verbi dat officia.</l>
+        </p>
+<p>
+          <l rend="indent">Cujus linguam sermo rectus:</l>
+<l>
+<pb n="1477A"/> Duplex quoque, simplex pectus</l>
+<l>Exornat scientia.</l>
+        </p>
+<p>
+          <l rend="indent">Dumque fidem docet sanam</l>
+<l n="20"> Plebem Caesaraugustanam</l>
+<l>Comitante gratia,</l>
+        </p>
+<p>
+          <l rend="indent">Saevit in ecclesiam</l>
+<l>Zelans idolatriam</l>
+<l>Praesidis invidia.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Post auditam fidei constantiam:</l>
+<l>Jubet ambos pertrahi Valentiam</l>
+<l>Sub catenis.</l>
+        </p>
+<p>
+          <l rend="indent">Nec juveni parcitur egregio,</l>
+<l>Nec aetas attenditur ab impio</l>
+<l n="30">Sancti senis.</l>
+        </p>
+<p>
+          <l rend="indent">Fessos ex itinere,</l>
+<l>
+<pb n="1477B"/>Pressos ferri pondere:</l>
+<l>Tetro claudit carcere,</l>
+<l> Negans victualia.</l>
+        </p>
+<p>
+          <l n="35" indent="1"> Sic pro posse nocuit:</l>
+<l>Nec pro voto potuit:</l>
+<l>Quia suos aluit</l>
+<l>Christi providentia.</l>
+        </p>
+<p>
+          <l rend="indent">Seniorem relegat exsilio,</l>
+<l n="40">Juniorem reservat supplicio</l>
+<l>Praeses acerbiori.</l>
+        </p>
+<p>
+          <l rend="indent">Equuleum perpessus et ungulam</l>
+<l>Vincentius, conscendit craticulam</l>
+<l>Spiritu fortiori.</l>
+        </p>
+<p>
+          <l n="45" indent="1">
+<pb n="1478A"/>Dum torretur, non terretur.</l> 
+<l>Christum magis confitetur,</l>
+<l>Nec tyrannum reveretur</l>
+<l>In ejus praesentia.</l>
+        </p>
+<p>
+          <l rend="indent">Ardet vultus, inhumanus,</l>
+<l n="50">Haeret lingua, tremit manus.</l> 
+<l>Nec se capit Datianus</l>
+<l>Prae cordis insania.</l>
+        </p>
+<p>
+          <l rend="indent">Inde specu martyr retruditur</l>
+<l> Et testulis fixus illiditur.</l> 
+<l n="55">Multa tamen hic luce fruitur:</l>
+<l>Ab angelis visitatus.</l>
+        </p>
+<p>
+          <l rend="indent">In lectulo tandem repositus:</l>
+<l> Ad superos transit emeritus.</l> 
+<l>Sicque suo triumphans spiritus</l>
+<l n="60">
+<pb n="1478B"/>Est principi praesentatus.</l>
+        </p>
+<p>
+          <l rend="indent">Non communi sinit jure</l>
+<l>Virum tradi sepulturae;</l>
+<l>Legi simul et naturae</l>
+<l>Vim facit malitia.</l>
+        </p>
+<p>
+          <l n="65" indent="1">In defunctum judex saevit,</l>
+<l>Hinc defuncto laus accrevit.</l> 
+<l> Nam quo vesci consuevit,</l>
+<l>Reformidat bestia.</l>
+        </p>
+<p>
+          <l rend="indent">En cadaver inhumatum</l>
+<l n="70">Corvus servat illibatum</l>
+<l>Sicque sua sceleratum</l>
+<l> Frustratur intentio.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1479A"/>At profanus Datianus</l>
+<l>Quod consumi nequit humi,</l>
+<l n="75">Vult abscondi sub profundi</l>
+<l>Gurgitis silentio.</l>
+        </p>
+<p>
+          <l rend="indent">Nec tenetur a molari,</l>
+<l>Nec celari potest mari.</l> 
+<l>Quem nunc laude singulari</l>
+<l n="80">Venerari voto pari</l>
+<l>Satagit ecclesia.</l>
+        </p>
+<p>
+          <l rend="indent"> Ustulatum corpus igne,</l>
+<l>Terra, mari fit insigne.</l> 
+<l>Nobis Jesu da benigne,</l>
+<l n="85">Ut cum sanctis te condigne</l>
+<l>Laudemus in patria. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XVIII. IN CONVERSIONE SANCTI PAULI.</head>
+
+<pb n="1479B"/>
+<p>Haec prosa consimilem praecedenti habet compositionem
+rhythmicam, sed non adeo variam. Semper
+enim hic singuli versus, tres complectuntur
+clausulas rhythmicas, quarum postrema septem
+ubique clauditur syllabis. Praecedentes vero clausulae
+modo septem complentur syllabis, ut in
+secundo versu, modo octo, ut in primo, modo
+decem, ut in quarto versu. Auctor ejus, Adam
+de Sancto Victore. Describit autem admirandam
+beati Pauli ad Christum conversionem, in Actis
+apostolorum cap. IX explicatam, sollicitudinem
+quoque ejusdem et diligentiam praedicandi evangelium,
+quae ex epistolis ejus et historia sacra
+Actuum apostolicorum etiam liquido perspicitur,
+et denique felicem cursus ejus consummationem
+per martyrium.</p>
+<p>
+          <l rend="indent">
+<pb n="1479C"/>Corde, voce pulsa coelos:</l>
+<l>Triumphale pange melos</l>
+<l>Gentium ecclesia.</l>
+        </p>
+<p>
+          <l rend="indent">Paulus doctor gentium</l>
+<l n="5">
+<pb n="1480A"/>Consummavit stadium</l>
+<l>Triumphans in gloria.</l>
+        </p>
+<p>
+          <l rend="indent"> Hic Benjamin adolescens,</l>
+<l>Lupus rapax, praeda vescens,</l>
+<l>Hostis est fidelium.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Mane lupus, sed ovis vespere.</l> 
+<l>Post tenebras lucente sidere:</l>
+<l>Docet evangelium.</l>
+        </p>
+<p>
+          <l rend="indent"> Hic mortis viam arripit.</l> 
+<l>Quem vitae via corripit,</l>
+<l n="15">Dum Damascum graditur.</l>
+        </p>
+<p>
+          <l rend="indent">Spirat minas; sed jam cedit.</l> 
+<l>Sed prostratus jam obedit;</l>
+<l> Sed jam vinctus ducitur.</l>
+        </p>
+<p>
+          <l rend="indent">Ad Ananiam mittitur:</l>
+<l n="20">
+<pb n="1480B"/>Lupus ad ovem trahitur,</l>
+<l>Mens resedit effera.</l>
+        </p>
+<p>
+          <l rend="indent">Fontis subit sacramentum</l>
+<l>Mutat virus in pigmentum</l>
+<l>Unda salutifera.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Vas sacratum, vas divinum</l>
+<l>Vas propinans dulce vinum</l>
+<l>Doctrinalis gratiae.</l>
+        </p>
+<p>
+          <l rend="indent">Synagogas circuit.</l> 
+<l>Christi fidem astruit</l>
+<l n="30">Prophetarum serie.</l>
+        </p>
+<p>
+          <l rend="indent"> Verbum crucis protestatur:</l>
+<l>Causa crucis cruciatur,</l>
+<l>Mille modis moritur.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1480C"/>Sed perstat vivax hostia,</l>
+<l n="35">Et invicta constantia.</l> 
+<l>Omnis poena vincitur.</l>
+        </p>
+<p>
+          <l rend="indent"> Segregatus docet gentes,</l>
+<l>Mundi vincit sapientes</l>
+<l>
+<pb n="1481A"/>Dei sapientia.</l>
+        </p>
+<p>
+          <l n="40" indent="1">Raptus ad coelum tertium.</l> 
+<l>Videt Patrem et Filium.</l> 
+<l>In una substantia:</l>
+        </p>
+<p>
+          <l rend="indent">Roma potens et docta Graecia</l>
+<l>Praebet colla, discit mysteria:</l>
+<l n="45">Fides Christi proficit.</l>
+        </p>
+<p>
+          <l rend="indent">Crux triumphat, Nero saevit.</l> 
+<l>Quo docente fides crevit,</l>
+<l>Paulum ense conficit.</l>
+        </p>
+<p>
+          <l rend="indent">Sic exutus carnis molem</l>
+<l n="50">Paulus, videt verum solem</l>
+<l>Patris unigenitum.</l>
+        </p>
+<p>
+          <l rend="indent"> Lumen videt in lumine,</l>
+<l>Cujus vitemus numine,</l>
+<l>
+<pb n="1481B"/>Gehennalem emitum. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XIX. IN PURIFICATIONE BEATAE MARIAE.</head>
+<p>Haec prosa compositionem habet rhythmicam satis
+conformem. Nam fere in singulis versibus, clausulae
+rhythmicae omnes, octo sunt syllabarum, et
+penultimam habent longam, praeterquam in decimo
+quinto et decimo sexto versu, ubi singulae
+clausulae septem coercent syllabis, et penultima
+brevi. Auctor ejus, Adam de Sancto Victore.
+Commendatur in ea multifariam sacratissima
+virgo Maria ob dotes praecipuas, et dona gratiarum,
+quibus a Domino locupletata est. Multis item
+antiquae legis figuris fuisse praemonstrata ostenditur,
+variisque insignita nominibus, quibus in
+<pb n="1482A"/>
+Veteris paginae Scriptura, honorata et praedicata
+dignoscitur.</p>
+<p>
+          <l rend="indent">Lux advenit veneranda</l>
+<l> Lux in choris jubilanda</l>
+<l>Luminosis cordibus.</l>
+        </p>
+<p>
+          <l rend="indent">Hujus laeta lux diei,</l>
+<l n="5">Festum refert, matris Dei</l>
+<l>Dedicandum laudibus.</l>
+        </p>
+<p>
+          <l rend="indent">Vox exsultet modulata,</l>
+<l> Mens resultet medullata,</l>
+<l>Ne sit laus inutilis.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Sic laus Deo decantetur,</l>
+<l>Ut in eo collaudetur,</l>
+<l>Mater ejus nobilis.</l>
+        </p>
+<p>
+          <l rend="indent">Gloriosa dignitate,</l>
+<l>
+<pb n="1482B"/>Viscerosa pietate,</l>
+<l n="15"> Compunctiva nomine.</l>
+        </p>
+<p>
+          <l rend="indent">Cum honore matronali,</l>
+<l>Cum pudore virginali</l>
+<l>Nitet coeli cardine.</l>
+        </p>
+<p>
+          <l rend="indent"> Rubus quondam exardebat.</l> 
+<l n="20">Et hunc ardor non urebat,</l>
+<l>Nec virorem nocuit.</l>
+        </p>
+<p>
+          <l rend="indent">Sic ardore spiritali,</l>
+<l>Non attactu conjugali:</l>
+<l>Virgo Deum genuit.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Haec est ille fons signatus.</l> 
+<l>Hortus clausus, fecundatus</l>
+<l>Virtutum seminibus.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1483A"/> Haec est illa porta clausa,</l>
+<l>Quam latente Deus causa</l>
+<l n="30">Clauserat hominibus.</l>
+        </p>
+<p>
+          <l rend="indent"> Haec est vellus trahens rorem.</l> 
+<l>Plenus ager dans odorem</l>
+<l>Cunctis terrae finibus.</l>
+        </p>
+<p>
+          <l rend="indent"> Haec est virga ferens florem,</l>
+<l n="35">Terra suum salvatorem</l>
+<l>Germinans fidelibus.</l>
+        </p>
+<p>
+          <l rend="indent"> Haec est dicta per exemplum</l>
+<l>Mons, castellum, aula, templum,</l>
+<l>Thalamus, et civitas.</l>
+        </p>
+<p>
+          <l n="40" indent="1">Sic eidem, aliorum</l>
+<l>Assignatur electorum</l>
+<l>Nominum sublimitas.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1483B"/>Cujus preces, vitia,</l>
+<l>Cujus nomen, tristia,</l>
+<l n="45">Cujus odor, lilia,</l>
+<l>Cujus vincunt labia,</l>
+<l>Favum in dulcedine.</l>
+        </p>
+<p>
+          <l rend="indent">Super vinum sapida,</l>
+<l>Super nivem candida,</l>
+<l n="50">Super rosam rosida,</l>
+<l>Super lunam lucida.</l> 
+<l>Veri solis lumine.</l>
+        </p>
+<p>
+          <l rend="indent">Imperatrix supernorum</l>
+<l>Superatrix infernorum.</l> 
+<l n="55">
+<pb n="1484A"/>Eligenda via coeli:</l>
+<l>Retinenda spe fideli.</l> 
+<l>Separatos a te longe,</l>
+<l>Revocatos a te, junge</l>
+<l>Tuorum collegio.</l>
+        </p>
+<p>
+          <l n="60" indent="1">Mater bona quam rogamus,</l>
+<l>Nobis dona quod optamus.</l> 
+<l>Nec sic spernas peccatores,</l>
+<l>Ut non cernas precatores</l>
+<l>Reos sibi diffidentes.</l> 
+<l n="65">Tuos tibi confidentes</l>
+<l>Tuo siste Filio. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XX. IN INVENTIONE SANCTAE CRUCIS.</head>
+<p>
+          <pb n="1484B"/>Haec prosa rhythmicae modulationis servat formam,
+quemadmodum illa de sancto sacramento eucharistiae. <hi>Lauda, Sion, salvatorem.</hi> 
+ Auctor ejus,
+Adam de Sancto Victore. Concelebrat autem praeclaris
+laudibus, sanctae crucis praeconia, referens
+antiquae legis figuras quibus est praesignata, et
+virtutem ejus in nova lege per victoriam Constantini
+et Heraclii imperatorum ostensam. Deinde
+admirandam illius potestatem praedicans, fidelis
+populi vota et supplicationem ad illam explicat.
+<l>Laudes crucis attollamus,</l>
+<l>Nos qui crucis exsultamus</l>
+<l>Speciali gloria.</l>
+        </p>
+<p>
+          <l rend="indent"> Nam in cruce triumphamus,</l>
+<l n="5">
+<pb n="1485A"/>Hostem ferum superamus</l>
+<l>Vitali victoria.</l>
+        </p>
+<p>
+          <l rend="indent">Dulce melos tangat coelos,</l>
+<l>Dulce lignum dulci dignum</l>
+<l>Credimus melodia.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Voci vita non discordet.</l> 
+<l> Dum vox vitam non remordet,</l>
+<l>Dulcis est symphonia.</l>
+        </p>
+<p>
+          <l rend="indent">Servi crucis crucem laudent</l>
+<l>Qui per crucem sibi gaudent</l>
+<l n="15">Vitae dari munera.</l>
+        </p>
+<p>
+          <l rend="indent">Dicant omnes et dicant singuli</l>
+<l>Ave salus totius saeculi</l>
+<l>Arbor salutifera</l>
+        </p>
+<p>
+          <l rend="indent">O quam felix, quam praeclara,</l>
+<l n="20">
+<pb n="1485B"/>Fuit haec salutis ara,</l>
+<l>Rubens agni sanguine.</l>
+        </p>
+<p>
+          <l rend="indent">Agni sine macula,</l>
+<l>Qui mundavit saecula</l>
+<l>Ab antiquo crimine.</l>
+        </p>
+<p>
+          <l n="25" indent="1">
+<pb n="1486A"/> Haec est scala peccatorum,</l>
+<l>Per quam Christus rex coelorum</l>
+<l>Ad se traxit omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Forma cujus hoc ostendit,</l>
+<l>Quae terrarum comprehendit</l>
+<l n="30"> Quatuor confinia.</l>
+        </p>
+<p>
+          <l rend="indent">Non sunt nova sacramenta</l>
+<l>Nec recenter est inventa</l>
+<l>Crucis haec religio.</l>
+        </p>
+<p>
+          <l rend="indent"> Ista dulces aquas fecit.</l> 
+<l n="35">Per hanc silex aquas jecit,</l>
+<l>Moysi officio.</l>
+        </p>
+<p>
+          <l rend="indent"> Nulla salus est in domo,</l>
+<l>Nisi cruce munit homo</l>
+<l>Superliminaria.</l>
+        </p>
+<p>
+          <l n="40" indent="1">
+<pb n="1486B"/>Neque sensit gladium,</l>
+<l>Nec amisit filium,</l>
+<l>Quisquis egit talia.</l>
+        </p>
+<p>
+          <l rend="indent"> Ligna legens in Sarepta,</l>
+<l>Spem salutis est adepta</l>
+<l n="45">
+<pb n="1487A"/>Pauper muliercula.</l>
+        </p>
+<p>
+          <l rend="indent">Sine lignis fidei,</l>
+<l>Nec lecythus olei</l>
+<l>Valet, nec farinula,</l>
+        </p>
+<p>
+          <l rend="indent"> Roma naves universas</l>
+<l n="50">In profundum vidit mersas</l>
+<l>Una cum Maxentio.</l>
+        </p>
+<p>
+          <l rend="indent"> Fusi Thraces, caesi Persae.</l> 
+<l>Sed et partis dux adversae</l>
+<l>Victus ab Heraclio.</l>
+        </p>
+<p>
+          <l n="55" indent="1">In Scripturis sub figuris</l>
+<l>Ista latent, sed jam patent</l>
+<l>Crucis beneficia.</l>
+        </p>
+<p>
+          <l rend="indent">Reges credunt, hostes cedunt.</l> 
+<l>Sola cruce Christo duce,</l>
+<l n="60">
+<pb n="1487B"/> Unus fugat millia.</l>
+        </p>
+<p>
+          <l rend="indent">Ista suos fortiores</l>
+<l>Semper facit, et victores.</l> 
+<l>Morbos sanat et languores,</l>
+<l>
+<pb n="1488A"/>Reprimit daemonia.</l>
+        </p>
+<p>
+          <l n="65" indent="1">Dat captivis libertatem,</l>
+<l>Vitae confert novitatem.</l> 
+<l>Ad antiquam dignitatem</l>
+<l>Crux reduxit omnia.</l>
+        </p>
+<p>
+          <l rend="indent">O crux lignum triumphale</l>
+<l n="70">Mundi vera salus, vale.</l> 
+<l> Inter ligna nullum tale,</l>
+<l>Fronde, flore, germine.</l>
+        </p>
+<p>
+          <l rend="indent">Medicina Christiana,</l>
+<l>Salva sanos, aegros sana.</l> 
+<l n="75">Quod non valet vis humana,</l>
+<l>Fit in tuo nomine.</l>
+        </p>
+<p>
+          <l rend="indent">Assistentes crucis laudi,</l>
+<l>Consecrator crucis audi.</l> 
+<l>
+<pb n="1488B"/>Atque servos tuae crucis,</l>
+<l n="80">Post hanc vitam, verae lucis</l>
+<l>Transfer ad palatia.</l>
+        </p>
+<p>
+          <l rend="indent"> Quos tormento vis servire,</l>
+<l>
+<pb n="1489A"/>Fac tormenta non sentire.</l> 
+<l>Sed cum dies erit irae,</l>
+<l n="85">Nobis confer et largire</l>
+<l>Sempiterna gaudia. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XXI. DE SANCTO JOANNE BAPTISTA.</head>
+<p>Haec prosa in rhythmicae compositionis forma persimilis
+est illi prosae de sancto Nicolao prius explicatae.
+Congaudentes exsultemus, vocali concordia.
+Habet enim (ut et illa) multiformitatem
+rhythmorum diversis versibus. Nonnulli namque
+versuum duas solum habent clausulas rhythmicas,
+quarum prior respondet priori clausulae proximi
+versus, in terminali syllabarum consonantia, et
+secunda secundae. Aliqui vero versus tres complectuntur
+clausulas rhythmicas, duas primas ad
+<pb n="1489B"/>
+seinvicem mutuo consonantes, et tertiam tertiae
+proximi versus clausulae respondentem. Occurrunt
+etiam versus quatuor clausulis integrati, quarum
+prima ad tertiam, et secunda ad quartam servat
+responsum. Denique offerent se legentibus hic et
+aliae rhythmi formae, quae vel ex sola lectione
+facile deprehendi poterunt. Auctor ejus, Adam
+de Sancto Victore. Celebrantur autem in hac
+prosa, praeclara beati Joannis Baptistae praeconia,
+conceptus, nativitas, miracula in illis coelitus
+ostensa, privilegia gratiarum ejus, et multiplex
+dignitas.
+<l>Ad honorem tuum, Christe,</l>
+<l>Recolat Ecclesia,</l>
+<l rend="indent">Praecursoris et Baptistae</l>
+<l>Tui natalitia.</l> 
+<l n="5" indent="1"> Laus est regis, in praeconis</l>
+<l>
+<pb n="1489C"/>Ipsius praeconio.</l> 
+<l rend="indent">Quem virtutum ditat donis,</l>
+<l>Sublimat officio.</l> 
+<l rend="indent">Promittente Gabriele</l>
+<l n="10">Seniori filium.</l> 
+<l rend="indent">
+<pb n="1490A"/>Haesitavit et loquelae</l>
+<l>Perdidit officium.</l>
+        </p>
+<p>
+          <l rend="indent">Puer nascitur,</l>
+<l>Novae legis, novi regis</l>
+<l n="15">Praeco, tuba, signifer.</l>
+        </p>
+<p>
+          <l rend="indent"> Vox praeit verbum,</l>
+<l>Paranymphus sponsi sponsum,</l>
+<l>Solis ortum lucifer.</l>
+        </p>
+<p>
+          <l rend="indent">Verbo mater, scripto pater,</l>
+<l n="20">Nomen edit parvulo.</l> 
+<l>Et soluta lingua muta</l>
+<l>Patris est a vinculo.</l>
+        </p>
+<p>
+          <l rend="indent">Est coelesti praesignatus</l>
+<l>Joannes oraculo,</l>
+<l n="25">Et ab ipso praemonstratus</l>
+<l>
+<pb n="1490B"/>Uteri latibulo.</l>
+        </p>
+<p>
+          <l rend="indent"> Quod aetate praematura</l>
+<l>Datur haeres, id figura</l>
+<l>Quod infecunda</l>
+<l n="30">Diu, parens, res profunda.</l>
+        </p>
+<p>
+          <l rend="indent">Contra carnis quidem jura,</l>
+<l>Joannes haec genitura.</l> 
+<l rend="indent">Talem gratia</l>
+<l>Partum format, non natura.</l>
+        </p>
+<p>
+          <l n="35" indent="1">Alvo Deum virgo claudit.</l> 
+<l>Clauso clausus hic applaudit,</l>
+<l>De ventris angustia.</l>
+        </p>
+<p>
+          <l rend="indent">Agnum monstrat in aperto</l>
+<l>Vox clamantis in deserto,</l>
+<l n="40">
+<pb n="1490C"/>Vox verbi praenuntia.</l>
+        </p>
+<p>
+          <l rend="indent">Ardens fide, verbo lucens,</l>
+<l>Et ad veram lucem ducens,</l>
+<l>Multa docet millia.</l>
+        </p>
+<p>
+          <l rend="indent"> Non lux iste, sed lucerna.</l> 
+<l n="45">
+<pb n="1491A"/>Christus vero lux aeterna.</l> 
+<l>Lux illustrans omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Cilicina tectus veste,</l>
+<l>Pellis cinctus strophium.</l> 
+<l rend="indent">Cum locustis mel silvestre</l>
+<l n="50">Sumpsit in edulium.</l>
+        </p>
+<p>
+          <l rend="indent">Attestante sibi Christo</l>
+<l>Non surrexit major isto</l>
+<l>Natus de muliere.</l>
+        </p>
+<p>
+          <l rend="indent"> Sese Christus sic excepit,</l>
+<l n="55">Qui de carne carnem coepit</l>
+<l>Sine carnis opere.</l>
+        </p>
+<p>
+          <l rend="indent">Martyr Dei, licet rei</l>
+<l>Simus, nec idonei.</l> 
+<l>Tuae laudi,</l>
+        </p>
+<p>
+          <l n="60" indent="1">
+<pb n="1491B"/>Te laudantes, et sperantes</l>
+<l>De tua clementia,</l>
+<l>Nos exaudi.</l>
+        </p>
+<p>
+          <l rend="indent"> Tuo nobis in natale</l>
+<l>Da promissum gaudium.</l> 
+<l n="65" indent="1">Nec nos minus triumphale</l>
+<l>Delectet martyrium.</l>
+        </p>
+<p>
+          <l rend="indent">Veneramur et miramur</l>
+<l>In te tot mysteria.</l> 
+<l rend="indent">Per te frui Christus sui</l>
+<l n="70">Det nobis praesentia. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XXII. DE SANCTO PETRO APOSTOLO.</head>
+<p>
+          <pb n="1491C"/>Haec prosa rhythmicae servat mensurae formam, sicut
+illa paulo ante declarata de sancto Joanne,
+<pb n="1492A"/>
+Praecursoris et Baptistae. Auctor ejus, Adam de
+Sancto Victore. Continet autem egregias beati
+Petri laudes, promptam ad Christum conversionem,
+miraculorum crebritatem, et miram efficaciam,
+sinceram fidei confessionem, conflictum
+cum Simone Mago, et partam de illo victoriam,
+denique et mortem crucis a Nerone illi illatam.
+Quorum multa ex sacra Evangelii et Actuum apostolicorum
+historia sunt perspicua, neque ampliorem
+hic exigunt elucidationem.
+<l> Gaude, Roma, caput mundi.</l> 
+<l>Primus pastor in secundi</l>
+<l>Laudetur victoria.</l>
+        </p>
+<p>
+          <l rend="indent">Totus mundus hilarescat:</l>
+<l n="5">Et virtutis ardor crescat</l>
+<l>Ex Petri memoria.</l>
+        </p>
+<p>
+          <l rend="indent">Petrus sacri fax amoris,</l>
+<l>
+<pb n="1492B"/>Lux doctrinae, sal dulcoris.</l> 
+<l>Petrus mons justitiae.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Petrus fons est Salvatoris:</l>
+<l>Lignum fructus et odoris,</l>
+<l>Lignum carens carie.</l>
+        </p>
+<p>
+          <l rend="indent">Et quid Petro dices dignum:</l>
+<l>Nullum Christi videns signum,</l>
+<l n="15">Primo sub admonitu</l>
+        </p>
+<p>
+          <l rend="indent">Fugit rete, fugit ratem:</l>
+<l>Necdum plene veritatem</l>
+<l>Contemplatus spiritu.</l>
+        </p>
+<p>
+          <l rend="indent"> Auro carens et argento,</l>
+<l n="20">Coruscat miraculis.</l> 
+<l>A nervorum sub momento</l>
+<l>
+<pb n="1492C"/>Claudum solvit vinculis.</l>
+        </p>
+<p>
+          <l rend="indent">Paralysi dissolutus</l>
+<l>
+<pb n="1493A"/>Aeneas erigitur.</l> 
+<l n="25">Petrum praesens Dei virtus</l>
+<l>Ad votum prosequitur.</l>
+        </p>
+<p>
+          <l rend="indent"> Petrus vitam dat Thabitae:</l>
+<l>Juvenemque reddit vitae</l>
+<l>Potestate libera.</l>
+        </p>
+<p>
+          <l n="30" indent="1">Pede premit fluctus maris:</l>
+<l>Et nutantem salutaris</l>
+<l>Illum regit dextera.</l>
+        </p>
+<p>
+          <l rend="indent"> Facta Christi quaestione:</l>
+<l>Brevi claudit sub sermone</l>
+<l n="35">Fidem necessariam.</l>
+        </p>
+<p>
+          <l rend="indent">Hunc personam dicit unam;</l>
+<l>Sed nec tacet opportunam</l>
+<l>Naturae distantiam.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1493B"/>Quod negando ter peccavit:</l>
+<l n="40"> Simplex amor expiavit,</l>
+<l>Et trina confessio.</l>
+        </p>
+<p>
+          <l rend="indent">Angelus a carcere</l>
+<l>Petrum solvit libere;</l>
+<l>Destinatum gladio.</l>
+        </p>
+<p>
+          <l n="45" indent="1">Umbra sanat hic languentes:</l>
+<l>Sanat membra, sanat mentes.</l> 
+<l>Morbos reddit impotentes</l>
+<l>Medici potentia.</l>
+        </p>
+<p>
+          <l rend="indent">Petrum Simon Magus odit</l>
+<l n="50">Magum Simon Petrus prodit.</l> 
+<l>
+<pb n="1494A"/>Plebem monet ac custodit</l>
+<l>A Magi versutia.</l>
+        </p>
+<p>
+          <l rend="indent"> Hic a petra Petrus dictus;</l>
+<l>In conflictu stat invictus.</l> 
+<l n="55">Licet jugis sit conflictus,</l>
+<l>Et gravis congressio.</l>
+        </p>
+<p>
+          <l rend="indent">Dum volare Magus quaerit:</l>
+<l>Totus ruens totus perit.</l> 
+<l>Quem divina digne ferit,</l>
+<l n="60">Et condemnat ultio.</l>
+        </p>
+<p>
+          <l rend="indent">Nero fremit furibundus,</l>
+<l>Nero plangit impium.</l> 
+<l>Nero, cujus aegre mundus</l>
+<l>Ferebat imperium.</l>
+        </p>
+<p>
+          <l n="65" indent="1">Ergo Petro crux paratur:</l>
+<l>
+<pb n="1494B"/>A ministris scelerum.</l> 
+<l> Crucifigi se testatur</l>
+<l>In hoc Christus iterum.</l>
+        </p>
+<p>
+          <l rend="indent">Petro sunt oves creditae:</l>
+<l n="70">Clavesque coeli traditae.</l> 
+<l>Petri praeit sententia:</l>
+<l>Ligans ac solvens omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Pastoris nostri meritis</l>
+<l>Ac prece salutifera:</l>
+<l n="75">Nos a peccati debitis,</l>
+<l>Aeterne pastor, libera. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XXIII. DE SANCTIS APOSTOLIS PETRO ET PAULO.</head>
+
+<pb n="1495A"/>
+<p>Haec prosa rhythmicam habet compositionem fere
+in omnibus versibus praecedenti persimilem:
+Quod si interdum aliqua intervenit evariatio, illa
+haud magno impendio ab omnibus inter legendum
+poterit dignosci. Auctor ejus, Adam de Sancto
+Victore. In ea praedicantur egregiae laudes beatorum
+apostolorum Petri et Pauli, et singularia gratiarum
+dona ipsis a Deo indulta in denuntiatione
+evangelicae veritatis ad hominum conversionem,
+et sedula moderatione totius Ecclesiae. Demum
+sacrum eorum martyrium, et pretiosa in conspectu
+Domini mors describitur.</p>
+<p>
+          <l>Roma Petro glorietur:</l>
+<l>Roma Paulum veneretur</l>
+<l>Pari reverentia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1495B"/>Imo tota jucundetur:</l>
+<l n="5">Et jucundis occupetur</l>
+<l>Laudibus Ecclesia.</l>
+        </p>
+<p>
+          <l rend="indent"> Hi sunt ejus fundamenta,</l>
+<l>Fundatores, fulcimenta,</l>
+<l>Bases, epistylia.</l>
+        </p>
+<p>
+          <l n="10" indent="1"> Iidem saga, qui cortinae:</l>
+<l>Pelles templi hyacinthinae,</l>
+<l>Cyphi, sphaerae, lilia.</l>
+        </p>
+<p>
+          <l rend="indent"> Hi sunt nubes coruscantes</l>
+<l>Terram cordis irrigantes</l>
+<l n="15">
+<pb n="1496A"/>Nunc rore, nunc pluvia.</l>
+        </p>
+<p>
+          <l rend="indent">Hi praecones novae legis</l>
+<l>Et ductores novi gregis</l>
+<l>Ad Christi praesepia.</l>
+        </p>
+<p>
+          <l rend="indent"> Laborum socii</l>
+<l n="20"> Triturant aream:</l>
+<l>In spe denarii</l>
+<l>Colentes vineam.</l>
+        </p>
+<p>
+          <l rend="indent"> His ventilantibus</l>
+<l>Secedit palea:</l>
+<l n="25">Novisque frugibus</l>
+<l>Implentur horrea.</l>
+        </p>
+<p>
+          <l rend="indent"> Ipsi montes appellantur:</l>
+<l>Ipsi prius illustrantur</l>
+<l>Veri solis lumine.</l>
+        </p>
+<p>
+          <l n="30" indent="1">
+<pb n="1496B"/>Mira virtus est eorum:</l>
+<l>Firmamenti vel coelorum</l>
+<l>Designantur nomine,</l>
+        </p>
+<p>
+          <l rend="indent">Fugam morbis imperant,</l>
+<l>Leges mortis superant,</l>
+<l n="35">Effugant daemonia.</l>
+        </p>
+<p>
+          <l rend="indent">Delent idolatriam:</l>
+<l>Reis donant veniam,</l>
+<l>Miseris solatia.</l>
+        </p>
+<p>
+          <l rend="indent">Laus communis est amborum:</l>
+<l n="40">Cum sint tamen singulorum</l>
+<l>
+<pb n="1497A"/>Dignitates propriae.</l>
+        </p>
+<p>
+          <l rend="indent"> Petrus praeit principatu:</l>
+<l>Paulus pollet magistratu</l>
+<l>Totius Ecclesiae.</l>
+        </p>
+<p>
+          <l n="45" indent="1">Principatus uni datur:</l>
+<l>Unitasque commendatur</l>
+<l>Fidei catholicae.</l>
+        </p>
+<p>
+          <l rend="indent"> Unus cortex est granorum:</l>
+<l>Sed et una vis multorum</l>
+<l n="50">Sub eodem cortice.</l>
+        </p>
+<p>
+          <l rend="indent">Romam convenerant</l>
+<l>Salutis nuntii:</l>
+<l>Ubi plus noverant</l>
+<l>Inesse vitii,</l>
+<l n="55">Nihil disciplinae.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1497B"/>Insistunt vitiis</l>
+<l>Fideles medici.</l> 
+<l> Vitae remediis</l>
+<l> Obstant phrenetici.</l> 
+<l n="60">Fatui, doctrinae.</l>
+        </p>
+<p>
+          <l rend="indent">Facta Christi mentione,</l>
+<l>Simon Magus cum Nerone</l>
+<l>Conturbantur hoc sermone,</l>
+<l>Nec cedunt apostolis.</l>
+        </p>
+<p>
+          <l n="65" indent="1">Languor cedit, mors obedit.</l> 
+<l>Magus crepat, Roma credit.</l> 
+<l>Et ad vitam mundus redit,</l>
+<l>Reprobatis idolis.</l>
+        </p>
+<p>
+          <l rend="indent">Nero fremit sceleratus:</l>
+<l n="70">Magi morte desolatus.</l> 
+<l>
+<pb n="1497C"/>Cujus error ei gratus,</l>
+<l>Grave praecipitium.</l>
+        </p>
+<p>
+          <l rend="indent">Bellatores praeelecti</l>
+<l>Non a fide possunt flecti;</l>
+<l n="75">Sed in pugna stant erecti</l>
+<l>Nec formidant gladium.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1498A"/>Petrus haeres verae lucis</l>
+<l> Fert inversus poenam crucis,</l>
+<l>Paulus ictum pugionis.</l> 
+<l n="80">Nec diversae passionis</l>
+<l>Sunt diversa praemia.</l>
+        </p>
+<p>
+          <l rend="indent">Patres summae dignitatis:</l>
+<l>Summo regi conregnatis.</l> 
+<l>Vincla nostrae pravitatis</l>
+<l n="85">Solvat vestrae potestatis</l>
+<l>Efficax sententia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXIV. DE SANCTO LAURENTIO.</head>
+<p>Haec prosa, rhythmicae sonoritatis exactam servat
+mensuram, perinde atque illa de sancto Petro
+prius exposita. <hi>Gaude, Roma, caput mundi.</hi> Auctor
+<pb n="1498B"/>
+ejus, Adam de Sancto Victore. Commendat autem
+beati Laurentii invictam constantiam in perferendis
+pro Christi nomine tormentis, et pretiosam
+(qua consummatus est) mortem digne concelebrat.
+Caeterum quidquid historicum hic innuitur
+aut efflagitatur ad praesentis litterae intelligentiam,
+ex vita ejus satis invulgata requirendum
+est, itidem et ex illo hymno elegantissimo
+Prudentii de passione ejus composito:  « Antiqua
+fanornm parens, jam Roma Christo dedita, Laurentio
+victrix duce, ritum triumphas barbarum. » 
+Is autem hymnus, iambicus est dimeter, et apud
+eumdem auctorem admodum diffusus, quem inter
+caeteros ipsius hymnos lector studiosus in operibus
+ejus inveniet.</p>
+<p>
+          <l rend="indent">Prunis datum admiremur,</l>
+<l>Laureatum veneremur</l>
+<l>Laudibus Laurentium.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1498C"/>Veneremur cum tremore,</l>
+<l n="5">Deprecemur cum amore</l>
+<l>Martyrem egregium.</l>
+        </p>
+<p>
+          <l rend="indent">Accusatus non negavit</l>
+<l>Sed pulsatus resultavit</l>
+<l> In tubis ductilibus.</l>
+        </p>
+<p>
+          <l n="10" indent="1">
+<pb n="1499A"/>Cum in poenis voto plenis</l>
+<l>Exsultaret, et sonaret</l>
+<l>In divinis laudibus.</l>
+        </p>
+<p>
+          <l rend="indent">Sicut chorda musicorum</l>
+<l>Tandem sonum dat sonorum</l>
+<l n="15"> Plectri ministerio.</l>
+        </p>
+<p>
+          <l rend="indent">Sic in chely tormentorum</l>
+<l>Melos Christi confessorum</l>
+<l>Dedit hujus tentio.</l>
+        </p>
+<p>
+          <l rend="indent">Deci, vide, quia fide</l>
+<l n="20">Stat invictus inter ictus,</l>
+<l>Minas et incendia.</l>
+        </p>
+<p>
+          <l rend="indent">Spes interna, vox superna</l>
+<l>Consolantur; et hortantur</l>
+<l>Virum de constantia.</l>
+        </p>
+<p>
+          <l n="25" indent="1">
+<pb n="1499B"/>Nam thesauros quos exquiris,</l>
+<l>Per tormenta non acquiris</l>
+<l>Tibi, sed Laurentio.</l>
+        </p>
+<p>
+          <l rend="indent">Hos in Christo coacervat</l>
+<l>Hujus pugnam Christus servat</l>
+<l n="30">Triumphantis praemio.</l>
+        </p>
+<p>
+          <l rend="indent"> Nescit sancti nox obscurum:</l>
+<l>Ut in poenis quid impurum</l>
+<l>Fide tractet dubia.</l>
+        </p>
+<p>
+          <l rend="indent">Neque caecis lumen daret,</l>
+<l n="35">Si non eum radiaret</l>
+<l>Luminis praesentia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1500A"/>Fidei confessio</l>
+<l>Lucet in Laurentio.</l> 
+<l>Non ponit sub modio,</l>
+<l n="40">Statuit in medio</l>
+<l>Lumen coram omnibus.</l>
+        </p>
+<p>
+          <l rend="indent"> Juvat Dei famulum</l>
+<l>Crucis suae bajulum;</l>
+<l>Assum quasi ferculum,</l>
+<l n="45">Fieri spectaculum</l>
+<l>Angelis et gentibus.</l>
+        </p>
+<p>
+          <l rend="indent">Non abhorret prunis volvi,</l>
+<l>Qui de carne cupit solvi</l>
+<l>Et cum Christo vivere.</l>
+        </p>
+<p>
+          <l n="50" indent="1">Neque timet occidentes</l>
+<l>Corpus, sed non praevalentes</l>
+<l>
+<pb n="1500B"/>Animam occidere,</l>
+        </p>
+<p>
+          <l rend="indent"> Sicut vasa figulorum</l>
+<l>Probat fornax, et eorum</l>
+<l n="55">Solidat substantiam.</l>
+        </p>
+<p>
+          <l rend="indent">Sic et ignis hunc assatum:</l>
+<l>Velut testem solidatum</l>
+<l>Reddit per constantiam.</l>
+        </p>
+<p>
+          <l rend="indent"> Nam cum vetus corrumpatur:</l>
+<l n="60">Alter homo solidatur</l>
+<l>Veteris incendio.</l>
+        </p>
+<p>
+          <l rend="indent">Unde nimis confortatus</l>
+<l>Est athletae principatus,</l>
+<l>
+<pb n="1501A"/>In Dei servitio.</l>
+        </p>
+<p>
+          <l n="65" indent="1">Hunc ardorem factum foris</l>
+<l>Putat rorem vis amoris:</l>
+<l>Et zelus justitiae.</l>
+        </p>
+<p>
+          <l rend="indent">Ignis urens non comburens</l>
+<l>Vincit prunas, quas adunas</l>
+<l n="70" indent="1">O minister impie.</l>
+        </p>
+<p>
+          <l rend="indent"> Parum sapis vim sinapis,</l>
+<l>Si non tangis, si non frangis,</l>
+<l>Et plus fragrat quando flagrat</l>
+<l>Thus injectum ignibus.</l>
+        </p>
+<p>
+          <l n="75" indent="1">Sic arctatus et assatus</l>
+<l>Sub ardore, sub labore;</l>
+<l>Dat odorem pleniorem</l>
+<l>Martyr de virtutibus.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1501B"/>O Laurenti, laute nimis</l>
+<l n="80">Rege victo rex sublimis,</l>
+<l>Regis regum fortis miles,</l>
+<l>Qui duxisti poenas viles</l>
+<l>Certans pro justitia.</l>
+        </p>
+<p>
+          <l rend="indent">Qui tot mala devicisti</l>
+<l n="85">Contemplanda bona Christi:</l>
+<l>Fac nos malis insultare</l>
+<l>Fac de bonis exsultare</l>
+<l>Meritorum gratia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXV. IN ASSUMPTIONE BEATAE VIRGINIS.</head>
+<p>Haec prosa rhythmicam servat mensuram et formam,
+ut illa de sancto Laurentio superius posita. <hi>Prunis datum admiremur.</hi> 
+ Auctor ejus, Adam de
+Sancto Victore. Commendat autem beatam Virginem
+<pb n="1502A"/>
+Mariam praeclaris laudibus, insignes illius virtutes
+exprimens diversis rerum naturalium similitudinibus,
+ut aromatum, florum, fruticum, et
+arborum odoriferarum, quae ex diversis sacrarum
+litterarum locis sunt desumptae. Eximiam itidem
+illius sublimitatem qua Filii Dei thronus et habitaculum
+facta est, aptis rerum materialium formis
+eloquitur, et demum arduam illius in gloria coelesti
+celsitudinem super omnes sanctorum ordines praedicat.
+Et certe inter caeteras de beata Virgine
+prosas, haec maxime singularis est, et suavissime
+contexta.</p>
+<p>
+          <l rend="indent">Salve Mater Salvatoris,</l>
+<l>Vas electum, vas honoris,</l>
+<l>Vas coelestis gratiae.</l>
+        </p>
+<p>
+          <l rend="indent">Ab aeterno vas provisum:</l>
+<l n="5">Vas insigne, vas excisum</l>
+<l>
+<pb n="1502B"/>Manu sapientiae,</l>
+        </p>
+<p>
+          <l rend="indent">Salve, Verbi sacra parens,</l>
+<l> Flos de spinis, spina carens,</l>
+<l>Flos, spineti gloria.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Nos spinetum, nos peccati</l>
+<l>Spina sumus cruentati,</l>
+<l>Sed tu spinae nescia.</l>
+        </p>
+<p>
+          <l rend="indent">Porta clausa, fons hortorum.</l> 
+<l>Cella custos unguentorum,</l>
+<l n="15"> Cella pigmentaria.</l>
+        </p>
+<p>
+          <l rend="indent">Cinnamomi, calamum,</l>
+<l>Myrrham, thus et balsamum,</l>
+<l>Superas fragrantia.</l>
+        </p>
+<p>
+          <l rend="indent">Salve, decus virginum,</l>
+<l n="20">Mediatrix hominum,</l>
+<l>Salutis puerpera.</l>
+        </p>
+<p>
+          <l rend="indent"> Myrtus temperantiae,</l>
+<l>
+<pb n="1503A"/>Rosa patientiae,</l>
+<l>Nardus odorifera.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Tu convallis humilis,</l>
+<l>Terra non arabilis,</l>
+<l>Quae fructum parturiit.</l>
+        </p>
+<p>
+          <l rend="indent"> Flos campi, convallium</l>
+<l>Singulare lilium</l>
+<l n="30">Christus, ex te prodiit.</l>
+        </p>
+<p>
+          <l rend="indent">Tu coelestis paradisus,</l>
+<l>Libanusque non incisus,</l>
+<l>Vaporans dulcedinum.</l>
+        </p>
+<p>
+          <l rend="indent">Tu candoris et decoris,</l>
+<l n="35">Tu dulcoris et odoris</l>
+<l>Habes plenitudinem.</l>
+        </p>
+<p>
+          <l rend="indent"> Tu thronus es Salomonis:</l>
+<l>
+<pb n="1503B"/>Cui nullus par in thronis</l>
+<l>Arte vel materia.</l>
+        </p>
+<p>
+          <l n="40" indent="1">Ebur candens castitatis.</l> 
+<l>Aureum fulvum, charitatis</l>
+<l>Praesignant mysteria.</l>
+        </p>
+<p>
+          <l rend="indent">Palmam praefers singularem,</l>
+<l>Nec in terris habes parem,</l>
+<l n="45">Nec in coeli curia.</l>
+        </p>
+<p>
+          <l rend="indent">Laus humani generis,</l>
+<l>Virtutum prae caeteris</l>
+<l>Habens privilegia.</l>
+        </p>
+<p>
+          <l rend="indent">Sol luna lucidior,</l>
+<l n="50">Et luna sideribus.</l> 
+<l>Sic Maria dignior,</l>
+<l>Creaturis omnibus.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1504A"/>Lux eclypsim nesciens,</l>
+<l>Virginis est castitas.</l> 
+<l n="55">Ardor indeficiens,</l>
+<l>Immortalis charitas.</l>
+        </p>
+<p>
+          <l rend="indent">Salve, mater pietatis,</l>
+<l> Et totius Trinitatis</l>
+<l> Nobile triclinium.</l>
+        </p>
+<p>
+          <l n="60" indent="1">Verbi tamen incarnati</l>
+<l>Speciale majestati</l>
+<l>Praeparans hospitium.</l>
+        </p>
+<p>
+          <l rend="indent">O Maria stella maris,</l>
+<l>Dignitate singularis.</l> 
+<l n="65">Super omnes ordinaris</l>
+<l>Ordines coelestium.</l>
+        </p>
+<p>
+          <l rend="indent">In suprema sita poli,</l>
+<l>Nos assigna tuae proli.</l> 
+<l>
+<pb n="1504B"/>Ne terrores sive doli</l>
+<l n="70">Nos supplantent hostium.</l>
+        </p>
+<p>
+          <l rend="indent">In procinctu constituti.</l> 
+<l>Te tuente simus tuti.</l> 
+<l>Pervicacis et versuti</l>
+<l>Tuae cedat vis virtuti.</l> 
+<l n="75">Dolus providentiae.</l>
+        </p>
+<p>
+          <l rend="indent">Jesu Verbum summi Patris:</l>
+<l>Serva servos tuae matris.</l> 
+<l>Solve reos, salva gratis.</l> 
+<l>Et nos tuae claritatis</l>
+<l n="80">Configura gloriae.</l> 
+<l rend="indent">Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXVI. DE SANCTO BARTHOLOMAEO.</head>
+
+<pb n="1505A"/>
+<p>Haec prosa rhythmicae formae servat mensuram satis
+uniformem. Nam in omnibus suis versibus solas
+habet clausulas octo syllabarum, quarum penultima
+est brevis. In aliquibus quidem versibus, ut
+primis et postremis, duntaxat duas continet hujusmodi
+clausulas, ad invicem consonantes. In
+aliis vero, ut in meditullio fere constitutis, quatuor
+complectitur clausulas, interdum quidem
+quamlibet, ad proximam sibi consonantiae modulos
+servantem, ut prima scilicet secundae consonet,
+et tertia quartae. Interdum vero alternis locis
+responsum in finali desinentia habentes, ut
+prima ad tertiam referatur, et secunda ad
+quartam.</p>
+<p>Auctor ejus, Adam de Sancto Victore. Describit
+autem sanctitatem Vitae beati Bartholomaei, vim
+coercendi daemonia, quam in falsa idolorum numina
+<pb n="1505B"/>
+exercebat, praedicationis evangelicae studium
+et operam et demum, gloriosam ejus mortem
+ut praecedens.
+<l rend="indent">Laudemus omnes inclyta</l>
+<l>Bartholomaei merita.</l> 
+<l rend="indent">Cujus sacra solemnia,</l>
+<l rend="indent">Nobis inspirant gaudia.</l> 
+<l n="5" indent="1">Per diem centum vicibus</l>
+<l>Flexis orabat genibus.</l> 
+<l rend="indent">Nec minus noctis tempore,</l>
+<l>Toto prostratus corpore.</l> 
+<l rend="indent">In ipsius praesentia</l>
+<l n="10">Obmutescunt daemonia.</l> 
+<l rend="indent"> Christi sonante buccina,</l>
+<l>Falsa terrentur numina.</l> 
+<l rend="indent">Non Astaroth illudere</l>
+<l>Genti permisit miserae;</l>
+<l n="15" indent="1">
+<pb n="1506A"/>Nec fallere, nec laedere,</l>
+<l> Nec laesis potest parcere.</l> 
+<l rend="indent">Gravi dignus supplicio,</l>
+<l>Cruciatur incendio,</l>
+<l rend="indent">Quanta fit ejus tortio,</l>
+<l n="20">Berith patet indicio.</l> 
+<l rend="indent">Per virtutes Apostoli</l>
+<l>Patescit fraus diaboli.</l> 
+<l rend="indent">Arte detecta subdoli,</l>
+<l>Cultores cessant idoli,</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Liber exsultat Pseustius,</l>
+<l>Hostis repressa rabie.</l> 
+<l>Credit et rex Polymnius.</l> 
+<l>Propter salutem filiae.</l>
+        </p>
+<p>
+          <l rend="indent">Permissus ab apostolo</l>
+<l n="30">
+<pb n="1506B"/>Daemon mugit ex idolo:</l>
+<l> « A vobis ultra miseri</l>
+<l>Sacra non posco fieri.</l>
+        </p>
+<p>
+          <l rend="indent">Me jam nil posse fateor,</l>
+<l>Qui vix respirans torqueor</l>
+<l n="35">Ante diem judicii</l>
+<l>Poenam ferens incendii. » </l>
+        </p>
+<p>
+          <l rend="indent">Sic effatus disparuit,</l>
+<l>Et sigilla comminuit.</l> 
+<l>Sed nec praesentes terruit</l>
+<l n="40">Nam virtus crucis adfuit.</l>
+        </p>
+<p>
+          <l rend="indent">Christi signat charactere</l>
+<l>Fanum manus angelica,</l>
+<l>Laesos absolvit libere</l>
+<l>Potestate mirifica.</l> 
+<l n="45" indent="1">
+<pb n="1506C"/> Mox pellem mutat India,</l>
+<l>Tincta baptismi gratia.</l> 
+<l rend="indent">
+<pb n="1507A"/>Ruga carens et macula,</l>
+<l>Coelesti gaudet copula,</l>
+<l rend="indent">Currunt ergo pontifices</l>
+<l n="50">Ad Astiagen supplices,</l>
+<l rend="indent">Athletam jam emeritum</l>
+<l>Poscentes ad interitum.</l> 
+<l rend="indent">Sub Christi testimonio,</l>
+<l>Caput objecit gladio.</l> 
+<l n="55" indent="1">Sic triumphavit hodie,</l>
+<l>Doctor et victor Indiae.</l> 
+<l rend="indent">Bartholomaee, postula</l>
+<l>Pro servis prece sedula,</l>
+<l rend="indent">Ut post vitae curricula</l>
+<l n="60">Christum laudent in saecula. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXVII. DE SANCTO AUGUSTINO.</head>
+
+<pb n="1507B"/>
+<p>Haec prosa modulatione rhythmica persimilis est illi
+de sancto Bartholomaeo superius expositae: <hi>Laudemus
+omnes inclyta, Bartholomaei merita.</hi> Auctor
+ejus, Adam de Sancto Victore. Describitur in
+ea, suavi admodum vocalitate coelestis illa gloria.
+quam sancti in superna civitate Jesuralem percipiunt,
+et cum Deo, perpetuo obtinebunt, ubi
+nullus dolori aut moerori amplius est locus, ubi
+bonorum omnium ubertas et interminabile gaudium.
+Caeterum conspirat propemodum et plane
+convenit haec prosa in sententia (sicut et genere
+rhythmi) cum illo elegantissimo ejusdem auctoris
+rhythmico cantico, quod paulo post de omnibus
+sanctis exponetur: <hi>Supernae matris gaudia Repraesentet
+Ecclesia.</hi> Id solum inter hanc et illam prosam
+est discriminis, quod illa sanctis omnibus cujusvis
+ordinis est conveniens. Haec vero peculiaris
+<pb n="1507C"/>
+et propria sacris Ecclesiae catholicae doctoribus,
+qui doctrina sua et Scripturae sanctae explanatione
+eam majorem in modum illustrarunt. Porro
+quamvis in prima clausula decimi noni versus hujus
+prosae, sancti Augustini nomen duntaxat exprimatur,
+ut illi peculiariter hoc loco adaptetur,
+cuivis tamen aliorum Ecclesiae doctorum nihilosecius
+accommodari decentissime potest, commutato
+<pb n="1508A"/>
+duntaxat nomine Augustini, in nomen Hieronymi,
+Ambrosii aut Gregorii in eodem loco.
+Nempe hujusmodi mutatio nominis neque rhythmicam
+laedet sonoritatem, quin potius illam reddet
+vocaliorem, ob penultimam syllabam illorum nominum
+brevem. Neque sententiam etiam offendet,
+nam ea haud minus singulis aliis doctoribus
+quam Augustino, integre convenire dignoscitur.
+<l rend="indent"> Interni festi gaudia,</l>
+<l>Nostra sonat harmonia.</l> 
+<l rend="indent">Quo mens in se pacifica,</l>
+<l>Vera frequentat Sabbata.</l> 
+<l n="5" indent="1">Mundi cordis laetitia</l>
+<l>Odorans vera gaudia.</l> 
+<l rend="indent">Quibus praegustat avida,</l>
+<l>Quae sit sanctorum gloria</l>
+<l rend="indent">Qua laetatur in patria</l>
+<l n="10">
+<pb n="1508B"/>Coelicolarum curia.</l> 
+<l rend="indent">Regem donantem praemia</l>
+<l>Sua cernens in gloria.</l>
+        </p>
+<p>
+          <l rend="indent">Beata illa patria</l>
+<l>Quae nescit nisi gaudia,</l>
+<l n="15"> Nam cives hujus patriae</l>
+<l>Non cessant laudes canere.</l>
+        </p>
+<p>
+          <l rend="indent">Quos ille dulcor afficit,</l>
+<l>Quem nullus moeror inficit.</l> 
+<l>Quos nullus hostis impetit,</l>
+<l n="20">Nullusque turbo concutit.</l>
+        </p>
+<p>
+          <l rend="indent">Ubi dies clarissima,</l>
+<l>Melior est quam millia.</l> 
+<l>Luce lucens praefulgida,</l>
+<l>
+<pb n="1508C"/>Plena Dei notitia.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Quam mens humana caper</l>
+<l>Nec lingua valet promere,</l>
+<l>Donec vitae victoria</l>
+<l>Commutet haec mortalia,</l>
+        </p>
+<p>
+          <l rend="indent">Quando Deus est omnia:</l>
+<l n="30">
+<pb n="1509A"/>Vita, virtus, scientia,</l>
+<l>Victus, vestis, et caetera.</l> 
+<l>Quae velle potest mens pia.</l>
+        </p>
+<p>
+          <l rend="indent">Hoc in hac valle misera</l>
+<l>Meditetur mens sobria.</l> 
+<l n="35">Hoc per soporem sentiat,</l>
+<l>Hoc attendat dum vigilat.</l>
+        </p>
+<p>
+          <l rend="indent">Quo mundi post exsilia</l>
+<l>Coronetur in patria,</l>
+<l>Ac in decoris gloria</l>
+<l n="40">Regem laudet per saecula.</l>
+        </p>
+<p>
+          <l rend="indent"> Harum laudum praeconia</l>
+<l>Imitatur Ecclesia,</l>
+<l rend="indent">Dum recensentur annua</l>
+<l>Sanctorum natalitia.</l>
+        </p>
+<p>
+          <l n="45" indent="1">
+<pb n="1509B"/>Cum post peracta praelia</l>
+<l>Digna redduntur praemia.</l> 
+<l rend="indent">Pro passione rosea,</l>
+<l>Pro castitate, candida.</l>
+        </p>
+<p>
+          <l rend="indent">Datur et torques aurea,</l>
+<l n="50">Pro doctrina catholica,</l>
+<l rend="indent">Qua praefulget Augustinus.</l> 
+<l>In summi regis curia.</l>
+        </p>
+<p>
+          <l rend="indent">Cujus librorum copia.</l> 
+<l>Fides formatur unica.</l> 
+<l n="55" indent="1">Hinc et mater Ecclesia</l>
+<l>Vitat errorum devia.</l>
+        </p>
+<p>
+          <l rend="indent">Hujus sequi vestigia</l>
+<l>Ac praedicare dogmata.</l> 
+<l rend="indent">
+<pb n="1509C"/>Fide recta ac fervida</l>
+<l n="60">Det nobis mater gratia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXVIII. IN FESTO DECOLLATIONIS SANCTI JOANNIS BAPTISTAE.</head>
+
+<pb n="1510A"/>
+<p>Haec prosa rhythmicae consonantiae regulam uniformem
+observat, sicut illa de ejusdem sancti Joannis
+Nativitate, prius explanata: <hi>Praecursoris et Baptistae.</hi> 
+Auctor ejus, Adam de Sancto Victore.
+Commendat autem beatum Joannem ob praeclaras
+ejus virtutes, et praesertim invictam animi constantiam,
+qua intrepidus arguit Scribas et Pharisaeos,
+quinimo et Herodem regem propter adulterium.
+Ob quod et in carcerem conjectus, et demum
+capite obtruncatus, omnia aequanimiter sustinuit
+pro justitiae et veritatis defensione, ut
+ex lectione evangelica dilucidum est et conspicuum.</p>
+<p>
+          <l rend="indent">Praecursorem summi regis;</l>
+<l>Et praeconem novae legis</l>
+<l>
+<pb n="1510B"/>Celebret Ecclesia.</l>
+        </p>
+<p>
+          <l rend="indent">In hac luce tam festiva,</l>
+<l n="5">Gaude, mater, et votiva</l>
+<l>Deprome praeconia.</l>
+        </p>
+<p>
+          <l rend="indent">Hujus ortum veneremur;</l>
+<l>Sed nec minus delectemur</l>
+<l>In ejus martyrio.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Totus mundus sit jucundus,</l>
+<l> Nulli martyr hic secundus</l>
+<l>Virtute vel praemio.</l>
+        </p>
+<p>
+          <l rend="indent">Non est nostrae parvitatis.</l> 
+<l>Virum tantae sanctitatis</l>
+<l n="15">Laudare per omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Summa rei recitetur,</l>
+<l>Ut affectus inflammetur</l>
+<l>
+<pb n="1510C"/>Ex ejus memoria.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1511A"/> Non arunde levitatis,</l>
+<l n="20">Sed columna veritatis</l>
+<l>Nulla palpat crimina.</l>
+        </p>
+<p>
+          <l rend="indent"> Scribas tangit et doctores,</l>
+<l>Vocans legis transgressores</l>
+<l>Viperae genimina.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Arguebat hic Herodem</l>
+<l>Nec terretur ab eodem</l>
+<l>Ligatus in carcere.</l>
+        </p>
+<p>
+          <l rend="indent">Fert injustae justus poenam,</l>
+<l>Rem detestans tam obscenam</l>
+<l n="30">Regis et adulterae.</l>
+        </p>
+<p>
+          <l rend="indent">Saevit in hunc vis tyranni.</l> 
+<l>Laus accrescit hinc Joanni:</l>
+<l>Tyranno supplicium.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1511B"/> Stultus servit sapienti,</l>
+<l n="35">Quia justus in praesenti</l>
+<l>Purgatur per impium.</l>
+        </p>
+<p>
+          <l rend="indent">In natalis sui coena,</l>
+<l>Capitali plecti poena</l>
+<l>Joannem rex imperat.</l>
+        </p>
+<p>
+          <l n="40" indent="1">Spiculator saltatrici,</l>
+<l>Saltatrix dat genitrici</l>
+<l>Caput, quod petierat.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1512A"/> Crux praesignat sublimari</l>
+<l>Christum; sed hunc minorari</l>
+<l n="45">Capitis abscisio.</l>
+        </p>
+<p>
+          <l rend="indent">Mors est justi pretiosa:</l>
+<l>Quam praecessit gloriosa</l>
+<l>Vitae conversatio.</l>
+        </p>
+<p>
+          <l rend="indent">Nos ad laudem tui, Christe,</l>
+<l n="50">Praecursoris et Baptistae</l>
+<l>Colimus solemnia.</l>
+        </p>
+<p>
+          <l rend="indent">Tu nos ab hac mortis valle,</l>
+<l>Duc ad vitam recto calle</l>
+<l>Per ejus vestigia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXIX. IN EXALTATIONE SANCTAE CRUCIS.</head>
+<p>
+          <pb n="1512B"/>Haec prosa, rhythmicae sonoritatis servat normam,
+sed multiformem et variam. Aliquando enim in una
+clausula quatuor duntaxat comprehendit syllabas,
+ut in undecimo versu, et tribus subsequentibus.
+Aliquando quinque, ut in primo versu, et consequentibus
+usque ad sextum, Interdum vero in
+eadem clausula sex complectitur syllabas, ut in
+septimo versu, et caeteris deinceps usque ad decimum.
+Nonnunquam item septem imo et octo
+constringit in eadem clausula syllabas, ut in ultimo
+versu, cujus duae primae clausulae, octo singulatim
+sunt syllabarum, duae vero postremae,
+<pb n="1513A"/>
+septem. Verum commiscentur saepius in eodem
+versu clausulae diversum syllabarum numerum
+sortitae, ut sola lectio quemque diligentius animadvertentem
+facile edocebit. Quae etiam liquido
+monstrabit, quomodo inter se consonantiam servant
+ipsae clausulae rhythmicae, et ad quam unaquaeque
+suum habeat responsum. Auctor ejus,
+Adam de Sancto Victore. Recensentur autem in
+ea, praeclara sanctae crucis praeconia, denominationesque
+insignes, vim illius vivificam, et miram
+virtutem declarantes. Memoratur et gemina
+victoria, duobus imperatoribus Romanis ipsius
+invocatione et praesidio indulta, Constantino, inquam,
+et Heraclio. Verum utriusque earum historia,
+in expositione prosae de Inventione sanctae
+crucis, scilicet: <hi>Laudes crucis attollamus,</hi> est
+superius enarrata, et eo ex loco requirenda. Demum
+pia in fine ponitur invocatio fidelis populi
+ad sanctam crucem, ad quam per totam prosam,
+<pb n="1513B"/>
+sive laus fiat, sive oratio, dirigitur sermo.
+<l rend="indent"> Salve, Crux, arbor</l>
+<l> Vitae praeclara.</l> 
+<l rend="indent">Vexillum Christi,</l>
+<l>Thronus et ara.</l> 
+<l n="5" indent="1">O Crux, profanis</l>
+<l>Terror et ruina,</l>
+<l rend="indent">Tu Christianis</l>
+<l>Virtus es divina,</l>
+<l>Salus et victoria.</l> 
+<l n="10" indent="1">Tu properantis</l>
+<l>Contra Maxentium,</l>
+        </p>
+<p>
+          <l rend="indent"> Tu praeliantis</l>
+<l>
+<pb n="1514A"/> Juxta Danubium</l>
+<l>Constantini gloria.</l>
+        </p>
+<p>
+          <l n="15" indent="1">Favens Heraclio,</l>
+<l>Perdis cum filio</l>
+<l>Chosroe profanum.</l>
+        </p>
+<p>
+          <l rend="indent"> In hoc salutari</l>
+<l>Ligno gloriari</l>
+<l n="20">Decet Christianum.</l>
+        </p>
+<p>
+          <l rend="indent">Crucis longum, latum,</l>
+<l>Sublime, profundum</l>
+<l>Sanctis propalatum,</l>
+<l> Quadrum salvat mundum</l>
+<l n="25">Sub quadri figura.</l>
+        </p>
+<p>
+          <l rend="indent">Medicina vera,</l>
+<l>Christus in statera</l>
+<l>
+<pb n="1514B"/>Crucis est distractus,</l>
+<l>Pretiumque factus,</l>
+<l n="30">Solvit mortis jura.</l> 
+<l rend="indent">Crux est nostrae</l>
+<l>Libra justitiae;</l>
+<l rend="indent">Sceptrum regis,</l>
+<l>Virga potentiae.</l> 
+<l n="35" indent="1">Crux, coelestis</l>
+<l>Signum victoriae.</l> 
+<l rend="indent">Belli robur,</l>
+<l>Et palma gloriae.</l> 
+<l>Tu scala, tu ratis,</l>
+<l n="40"> Tu crux desperatis</l>
+<l>
+<pb n="1515A"/> Tabula suprema.</l> 
+<l rend="indent">Tu de membris Christi</l>
+<l>Decorem traxisti,</l>
+<l>Regum diadema.</l> 
+<l n="45" indent="1">Per te nobis Crux beata,</l>
+<l>Crux cruore consecrata,</l>
+<l>Sempiterna gaudia</l>
+<l>Det superna gratia. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XXX. DE SANCTO MATTHAEO EVANGELISTA.</head>
+<p>Haec prosa rhythmicam servat formam, perinde atque
+illa de Beata Virgine paulo ante declarata, <hi>Verbum
+bonum et suave.</hi> Auctor ejus, Adam de Sancto
+Victore. Explicat autem mysteria sanctorum
+<pb n="1515B"/>
+quatuor evangelistarum, qui in visione Ezechielis
+prophetae, similiter et in Apocalypsi signati sunt
+per quatuor animalia, hominem, leonem, bovem
+et vitulum. Et cui evangelistarum quodque animal
+respondet, et propter quam causam mysticam, hic
+aperte disserit. Est autem haec prosa cuivis evangelistarum
+communis, et in cujusque festo potest
+legitime decantari, quoniam generatim omnia
+complectitur, quae ad sanctorum evangelistarum
+laudes et praeconia communiter attinent.</p>
+<p>
+          <l rend="indent">Jucundare, plebs fidelis</l>
+<l>Cujus pater est in coelis:</l>
+<l> Recolens Ezechielis</l>
+<l>Prophetae praeconia.</l>
+        </p>
+<p>
+          <l n="5" indent="1"> Est Joannes testis ipsi,</l>
+<l>Dicens in Apocalypsi:</l>
+<l>Vere vidi, vere scripsi</l>
+<l>Vera testimonia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1516A"/>Circa thronum majestatis</l>
+<l n="10">Cum spiritibus beatis:</l>
+<l>Quatuor diversitatis</l>
+<l>Astant animalia.</l>
+        </p>
+<p>
+          <l rend="indent">Formam primum aquilinam</l>
+<l>Et secundum leoninam;</l>
+<l n="15">Sed humanam et bovinam</l>
+<l>Duo gerunt alia.</l>
+        </p>
+<p>
+          <l rend="indent">Formae formant figurarum</l>
+<l>Formas evangelistarum:</l>
+<l>Quorum imber doctrinarum</l>
+<l n="20">Stillat in Ecclesia</l>
+        </p>
+<p>
+          <l rend="indent">Hi sunt Marcus, et Matthaeum</l>
+<l> Lucas, et quem Zebedaeus</l>
+<l> Pater tibi misit Deus</l>
+<l>
+<pb n="1516B"/>Dum laxaret retia.</l>
+        </p>
+<p>
+          <l n="25" indent="1"> Formam viri dant Matthaeo,</l>
+<l>Quia scripsit sic de Deo.</l> 
+<l>Sicut descendit ab eo,</l>
+<l>Quem plasmavit, homine.</l>
+        </p>
+<p>
+          <l rend="indent">Lucas bos est in figura:</l>
+<l n="30">Ut praemonstrat in Scriptura.</l> 
+<l>Hostiarum tangens jura</l>
+<l>Legis sub velamine.</l>
+        </p>
+<p>
+          <l rend="indent"> Marcus leo per desertum</l>
+<l>Clamans, rugit in apertum.</l> 
+<l n="35">Iter fiat Deo certum,</l>
+<l>Mundum cor a crimine.</l>
+        </p>
+<p>
+          <l rend="indent"> Sed Joannes ala bina</l>
+<l> Charitatis; aquilina</l>
+<l>
+<pb n="1516C"/>Forma, fertur in divina</l>
+<l n="10">
+<pb n="1517A"/>Puriori lumine.</l>
+        </p>
+<p>
+          <l rend="indent">Ecce forma bestialis,</l>
+<l>Quam Scriptura prophetalis</l>
+<l>Notat; sed materialis</l>
+<l>Haec est impositio.</l>
+        </p>
+<p>
+          <l n="45" indent="1"> Currunt rotis, volant alis.</l> 
+<l>Visus, sensus spiritalis.</l> 
+<l>Rota gressus est aequalis,</l>
+<l>Ala, contemplatio.</l>
+        </p>
+<p>
+          <l rend="indent">Quatuor describunt isti;</l>
+<l n="50"> Quadriformes actus Christi.</l> 
+<l>Et figurant ut audisti,</l>
+<l>Quisque sua formula.</l>
+        </p>
+<p>
+          <l rend="indent">Natus homo declaratur,</l>
+<l>Vitulus sacrificatur.</l> 
+<l n="55">
+<pb n="1517B"/>Leo mortem depraedatur:</l>
+<l>Sed ascendit aquila.</l>
+        </p>
+<p>
+          <l rend="indent"> Paradisus his rigatur:</l>
+<l>Viret, floret, fecundatur.</l> 
+<l>His abundat, his laetatur</l>
+<l n="60">Quatuor fluminibus.</l>
+        </p>
+<p>
+          <l rend="indent">Fons est Christus, hi sunt rivi</l>
+<l>Fons est altus, hi proclivi.</l> 
+<l>Ut saporem fontis vivi</l>
+<l>Ministrent fidelibus.</l>
+        </p>
+<p>
+          <l n="65" indent="1">Quorum trahat nos doctrina</l>
+<l>Vitiorum a sentina,</l>
+<l>Ne sic morte repentina</l>
+<l>Damnemur cum impiis.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1517C"/>Horum fonte debriatis</l>
+<l n="70">Sitis crescat charitatis,</l>
+<l>Ut supernae claritatis</l>
+<l>Perfruamur gaudiis. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXXI DE SANCTO MICHAELE</head>
+<p>Hujus prosae consimilis est rhythmica forma ei,
+quae de sancti Joannis decollatione paulo ante est
+<pb n="1518A"/>
+exposita, scilicet: <hi>Praecursorem summi Regis.</hi> Attamen
+nonnulla est hujus ab illa in aliquibus versibus
+evariatio, quae inter legendum facile a quovis
+internoscetur. Auctor ejus, Adam de Sancto
+Victore. Complectitur autem commendationes et
+praeconia coelestium spirituum, distinctiones eorum,
+ordines et functiones a Deo ordinatissime
+dispositas recensens. Praesertim vero sanctum
+Michaelem debita laude extollit ob victoriam contra
+antiquum serpentem habitam, et tutelam ejus
+qua nostras tutatur animas, suoque defendit praesidio.</p>
+<p>
+          <l rend="indent">Laus erumpat ex affectu,</l>
+<l>Psallat chorus in conspectu</l>
+<l>Supernorum civium.</l>
+        </p>
+<p>
+          <l rend="indent">Laus jucunda, laus decora,</l>
+<l n="5">Quando laudi concanora</l>
+<l>
+<pb n="1518B"/>Puritas est cordium.</l> 
+<l rend="indent">Michaelem cuncti laudent,</l>
+<l>Nec ab hujus se defraudent</l>
+<l>Diei laetitia.</l> 
+<l n="10">Felix dies, qua sanctorum</l>
+<l>Recensetur angelorum</l>
+<l>Solemnis victoria.</l>
+        </p>
+<p>
+          <l rend="indent"> Draco vetus exturbatur,</l>
+<l>Et draconis effugatur</l>
+<l n="15">Inimica legio.</l>
+        </p>
+<p>
+          <l rend="indent">Exturbatus est turbator,</l>
+<l>Et projectus accusator</l>
+<l>A coeli fastigio.</l>
+        </p>
+<p>
+          <l rend="indent">Sub tutela Michaelis</l>
+<l n="20">Pax in terra, pax in coelis.</l> 
+<l>
+<pb n="1518C"/>Laus et jubilatio.</l>
+        </p>
+<p>
+          <l rend="indent">Cum sit potens hic virtute</l>
+<l>Pro communi stans salute</l>
+<l>Triumphat in praelio.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Suggestor sceleris</l>
+<l>Pulsus a superis,</l>
+<l>Per hujus aeris</l>
+<l>Oberrat spatia.</l>
+        </p>
+<p>
+          <l rend="indent">Dolis invigilat</l>
+<l n="30">
+<pb n="1519A"/>Virus insibilat.</l> 
+<l>Sed hunc annihilat</l>
+<l>Praesens custodia.</l>
+        </p>
+<p>
+          <l rend="indent"> Tres distinctae hierarchiae</l>
+<l>Jugi vacant theoriae,</l>
+<l n="35">Jugique psalterio.</l>
+        </p>
+<p>
+          <l rend="indent">Nec obsistit theoria,</l>
+<l>Sive jugis harmonia,</l>
+<l>Jugi ministerio.</l>
+        </p>
+<p>
+          <l rend="indent">O quam mirae charitatis</l>
+<l n="40">Est supernae civitatis</l>
+<l>Ter trina distinctio.</l>
+        </p>
+<p>
+          <l rend="indent">Quae nos amat et tuetur,</l>
+<l>Ut ex nobis restauretur</l>
+<l>Ejus diminutio.</l>
+        </p>
+<p>
+          <l n="45" indent="1">
+<pb n="1519B"/> Sicut sunt hominum</l>
+<l> Diversae gratiae,</l>
+<l>Sic erunt ordinum</l>
+<l>Distinctae gloriae</l>
+<l>Justis in praemio.</l>
+        </p>
+<p>
+          <l n="50" indent="1"> Solis est alia</l>
+<l> Quam lunae dignitas.</l> 
+<l>Stellarum varia</l>
+<l>Relucet claritas;</l>
+<l>Sic resurrectio.</l>
+        </p>
+<p>
+          <l n="55" indent="1"> Vetus homo novitati,</l>
+<l>
+<pb n="1520A"/>Se terrenus puritati</l>
+<l>Conformet coelestium</l>
+        </p>
+<p>
+          <l rend="indent">Coaequalis his futurus,</l>
+<l>Licet nondum plene purus</l>
+<l n="60">Spe praesumat praemium.</l>
+        </p>
+<p>
+          <l rend="indent">Ut ab ipsis adjuvemur,</l>
+<l>Hos devote veneremur</l>
+<l>Instantes obsequio.</l>
+        </p>
+<p>
+          <l rend="indent">Deo nos conciliat,</l>
+<l n="65">Angelisque sociat</l>
+<l>Sincera devotio.</l>
+        </p>
+<p>
+          <l rend="indent">De secretis reticentes</l>
+<l>Interim coelestibus,</l>
+<l>Erigamus puras mentes</l>
+<l n="70">In coelum cum manibus.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1520B"/>Ut superna nos dignetur</l>
+<l>Cohaeredes curia,</l>
+<l>Et divina collaudetur</l>
+<l>Ab utrisque gratia.</l> 
+<l n="75" indent="1">Capiti sit gloria,</l>
+<l>Membrisque concordia. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXXII. DE SANCTO DIONYSIO.</head>
+<p>Haec prosa consimilem habet rhythmicae consonantiae
+mensuram, sicut ea in solemnitate paschali decantari
+<pb n="1521A"/>
+solita, et superius declarata, <hi>Mane prima
+Sabbati.</hi> Auctor ejus, Adam de Sancto Victore.
+Describit autem beati Patris Dionysii ortum, in
+Galliam adventum, et annuntiationem evangelicae
+veritatis apud Parisios, cum magno spiritualis
+lucri proventu. Deinde ejusdem sacrum pro Christo
+agonem, post diversa tormentorum genera,
+capitis obtruncatione consummatum, capitis proprii
+jam amputati deportationem usque ad locum
+sepulturae ejus, in quo sacri ipsius cineres cum
+magna veneratione nunc etiam conditi asservantur.
+Haec autem omnia, ex historia vitae et passionis
+ejus quae passim legitur, dignoscuntur apertius,
+et potissimum ex eo opere clarissimi viri
+Baptistae Mantuani, quod tribus libris elegantissimo
+carmine de actis hujus sancti Patris superioribus
+annis conscripsit.</p>
+<p>
+          <l rend="indent"> Gaude prole, Graecia</l>
+<l>
+<pb n="1521B"/>Glorietur Gallia,</l>
+<l>Patre Dionysio.</l>
+        </p>
+<p>
+          <l rend="indent">Exsultet uberius</l>
+<l n="5">Felici Parisius</l>
+<l>Illustris martyrio.</l>
+        </p>
+<p>
+          <l rend="indent">Speciali gaudio</l>
+<l>Felix gaudet concio</l>
+<l>Martyrum praesentia.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Quorum patrocinio</l>
+<l>Tota gaudet regio,</l>
+<l>Regni stat potentia.</l>
+        </p>
+<p>
+          <l rend="indent"> Juxta Patrem positi</l>
+<l>Bellatores inclyti,</l>
+<l n="15">Digni sunt memoria</l>
+        </p>
+<p>
+          <l rend="indent">Sed illum praecipue</l>
+<l>Recolit assidue</l>
+<l>Regalis Ecclesia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1522A"/>Hic a summo praesule</l>
+<l n="20">Directus ad Galliam,</l>
+<l>Non gentis incredulae</l>
+<l>Veretur insaniam.</l>
+        </p>
+<p>
+          <l rend="indent">Gallorum apostolus</l>
+<l> Venerat Luteciam,</l>
+<l n="25">Quam tenebat subdolus</l>
+<l>Hostis, velut propriam.</l>
+        </p>
+<p>
+          <l rend="indent">Hic errorum cumulus,</l>
+<l>Et omnis spurcitia,</l>
+<l>Hic infelix populus</l>
+<l n="30">Gaudens idolatria.</l>
+        </p>
+<p>
+          <l rend="indent">Adorabat idolum</l>
+<l> Fallacis Mercurii.</l> 
+<l>Sed vicit diabolum</l>
+<l>
+<pb n="1522B"/>Fides Dionysii.</l>
+        </p>
+<p>
+          <l n="35" indent="1">Hic constructo Dei templo,</l>
+<l>Verbo docet et exemplo,</l>
+<l>Coruscat miraculis.</l>
+        </p>
+<p>
+          <l rend="indent">Turba credit, error cedit,</l>
+<l>Fides crescit, et clarescit</l>
+<l n="40">Nomen tanti praesulis.</l>
+        </p>
+<p>
+          <l rend="indent">His auditis fit insanus,</l>
+<l>Immitis Domitianus,</l>
+<l>Mittitque Sisinnium.</l>
+        </p>
+<p>
+          <l rend="indent">Qui pastorem animarum</l>
+<l n="45">Fide, vita, signis clarum,</l>
+<l>Trahat ad supplicium.</l>
+        </p>
+<p>
+          <l rend="indent">Infliguntur seni poenae.</l> 
+<l>
+<pb n="1522C"/>Flagra, carcer, et catenae.</l> 
+<l> Catastam, lectum ferreum.</l> 
+<l n="50">Et aestum vincit igneum.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1523A"/>Prece domat feras truces,</l>
+<l>Sedat rogum, perfert cruces.</l> 
+<l>Post clavos et patibulum,</l>
+<l>Translatus ad ergastulum.</l>
+        </p>
+<p>
+          <l n="55" indent="1">Seniore celebrante</l>
+<l>Missam, turba circumstante,</l>
+<l>Adest Christus, comitante</l>
+<l>Coelesti militia.</l>
+        </p>
+<p>
+          <l rend="indent">Specu clausum carcerali</l>
+<l n="60">Consolatur, et vitali</l>
+<l>Pane cibat, immortali</l>
+<l>Coronandum gloria.</l>
+        </p>
+<p>
+          <l rend="indent">Prodit martyr conflicturus,</l>
+<l> Sub securi stat securus.</l> 
+<l n="65">Ferit lictor, sicque victor</l>
+<l>
+<pb n="1523B"/>Consummatur gladio.</l>
+        </p>
+<p>
+          <l rend="indent">Se cadaver mox erexit,</l>
+<l> Truncus truncum caput vexit.</l> 
+<l>Quo ferentem hoc direxit</l>
+<l n="70">Angelorum legio.</l> 
+<l rend="indent">Tam praeclara passio,</l>
+<l>Repleat nos gaudio. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXXIII. DE SANCTO LUCA EVANGELISTA.</head>
+<p>Haec prosa simili texitur rhythmicae mensurae forma,
+sicut illa de festo Decollationis sancti Joannis Baptistae: <hi>Praecursorem summi Regis.</hi> 
+ In singulis enim
+versibus uniformiter tres complectitur clausulas
+rhythmicas, duas primas (quarum singulae, octo
+<pb n="1523C"/>
+syllabarum) adinvicem consonantes, et tertiam
+heptasyllabam, proximi versus tertiae clausulae in
+exitu, terminalique desinentia respondentem.
+<pb n="1524A"/>
+Auctor ejus, Adam de Sancto Victore. Commendat
+autem ipsa insigniter eximiam Dei bonitatem,
+qui quatuor evangelistas verborum et operum
+Christi scriptores ordinant ad totius orbis illuminationem
+et salutem. Hi autem per quatuor Ezechielis
+animalia sunt signati, et per quatuor paradisi
+flumina in universam terram profluentia, quemadmodum
+in illa prosa de sancto Matthaeo: <hi>Jucundare,
+plebs fidelis</hi> (cui haec in materiae conformitate
+et sensu propemodum respondet) diffusius
+ea omnia sunt explicata. Et quae illic dicta sunt
+ad hujus quoque prosae intelligentiam apprime
+conducunt. Est autem haec (sicut et illa presa)
+evangelistis omnibus communis, et de quolibet
+eorum recte potest, ac legitime decantari.</p>
+<p>
+          <l rend="indent"> Psallat chorus corde mundo</l>
+<l>Hos attollat, per quos mundo</l>
+<l>Sonant evangelica.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1524B"/>Voce quorum salus fluxit,</l>
+<l n="5">Nox recessit, et illuxit</l>
+<l>Sol illustrans omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Curam agens sui gregis</l>
+<l>Pastor bonus, auctor legis,</l>
+<l> Quatuor instituit.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Quadri orbis ad medelam</l>
+<l>Formam juris et cautelam,</l>
+<l>Per quos scribi voluit.</l>
+        </p>
+<p>
+          <l rend="indent"> Circa thema generale,</l>
+<l>Habet quisque speciale</l>
+<l n="15">Styli privilegium.</l>
+        </p>
+<p>
+          <l rend="indent">Quod praesignat in propheta</l>
+<l>Forma pictus sub discreta</l>
+<l>Vultus animalium.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1524C"/>Supra coelos dum conscendit</l>
+<l n="20">Summi Patris comprehendit</l>
+<l>
+<pb n="1525A"/>Natum ante saecula.</l>
+        </p>
+<p>
+          <l rend="indent">Pellens nubem nostrae molis,</l>
+<l>Intuetur jubar solis</l>
+<l>Joannes in aquila.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Est leonis rugientis</l>
+<l> Marco vultus, resurgentis</l>
+<l> Quo claret potentia.</l>
+        </p>
+<p>
+          <l rend="indent">Voce Patris excitatus</l>
+<l>Surgit Christus, laureatus</l>
+<l n="30">Immortali gloria.</l>
+        </p>
+<p>
+          <l rend="indent">Os humanum est Matthaei,</l>
+<l>In humana forma, Dei</l>
+<l>Dictantis prosapiam.</l>
+        </p>
+<p>
+          <l rend="indent">Cujus genus sic contexit,</l>
+<l n="35">Quod a stirpe David exit</l>
+<l>
+<pb n="1525B"/>Per carnis materiam.</l>
+        </p>
+<p>
+          <l rend="indent">Ritus bovis Lucae datur,</l>
+<l>In qua forma figuratur</l>
+<l> Nova Christus hostia.</l>
+        </p>
+<p>
+          <l n="40" indent="1"> Ara crucis mansuetus</l>
+<l>Hic mactatur, sicque vetus</l>
+<l>Transit observantia.</l>
+        </p>
+<p>
+          <l rend="indent">Paradisi haec fluenta,</l>
+<l>Nova fluunt sacramenta,</l>
+<l n="45">Quae descendunt coelitus.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1526A"/> His quadrigis deportatur</l>
+<l>Mundo Deus, sublimatur</l>
+<l>Istis arca vectibus.</l>
+        </p>
+<p>
+          <l rend="indent"> Non est domus ruitura,</l>
+<l n="50">Hac subnixa quadratura.</l> 
+<l>Haec est domus Domini.</l>
+        </p>
+<p>
+          <l rend="indent">Gloriemur in hac domo,</l>
+<l>Qua beate vivit homo</l>
+<l>Deo junctus homini. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXXIV. DE OMNIBUS SANCTIS.</head>
+<p>Haec prosa consimilem habet rhythmi symphoniam,
+cum illa de sancto Bartholomaeo prius expositam: <hi>Laudamus omnes, inclyta Bartholomaei merita.</hi> 
+Auctor ejus, Adam de Sancto Victore. Describit
+<pb n="1526B"/>
+autem amoena, et admodum suavi emodulatione
+felicia illa gaudia supernae patriae, quibus perfruuntur
+sancti omnes aulae coelestis incolae, primum
+hujus vitae miseriam, et pericula tentationum
+animis nostris objiciens; et inde civitatis
+illius aethereae felicitatem colligens, quod omnino
+aliena sit ab omni turbine, inquietudine et metu.
+Quanta deinde ibi sit ordinis pulchritudo in dispositissima
+angelicorum spirituum, ac sanctorum
+omnium secundum suum gradum et sortem
+collocatione, quanta dulcedo visionis divinae cum
+assidua satietate sine fastidio, et continuo desiderio
+sine taedii amaritudine, eleganter et suaviter
+<pb n="1527A"/>
+expromens. Et certe ipsa praesentis prosae
+lectio cum sinceritate mentis et attentione, rapit
+quodam modo legentis animum pio quodam affectu
+et ardore potiundi illa aeterna beatitudine.
+<l rend="indent">Supernae matris gaudia</l>
+<l>Repraesentet Ecclesia.</l> 
+<l rend="indent">Dum festa colit annua,</l>
+<l>Suspiret ad perpetua.</l>
+        </p>
+<p>
+          <l n="5" indent="1">In hac valle miseriae</l>
+<l> Mater succurrat filiae.</l> 
+<l rend="indent">Hic coelestes excubiae</l>
+<l>Nobiscum stent in acie.</l> 
+<l rend="indent"> Mundus, caro, daemonia,</l>
+<l n="10">Diversa movent praelia.</l> 
+<l rend="indent">
+<pb n="1527B"/>Incursu tot phantasmatum</l>
+<l>Turbatur cordis Sabbatum.</l> 
+<l rend="indent"> Dies festos cognatio</l>
+<l>Simul haec habet odio.</l>
+        </p>
+<p>
+          <l n="15" indent="1">Certatque pari foedere</l>
+<l>Pacem de terra tollere.</l> 
+<l rend="indent">Confusa sunt hic omnia,</l>
+<l> Spes, metus, moeror, gaudium</l>
+<l rend="indent">
+<pb n="1528A"/>Vix hora vel dimidia</l>
+<l n="20">Fit in coelo silentium.</l> 
+<l rend="indent">Quam felix illa civitas.</l> 
+<l>In qua jugis solemnitas.</l> 
+<l rend="indent">Et quam jucunda curia,</l>
+<l>Quae curae prorsus nescia.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Nec languor hic nec senium,</l>
+<l>Nec fraus, nec terror hostium.</l> 
+<l>Sed una vox laetantium,</l>
+<l>Et unus ardor cordium.</l>
+        </p>
+<p>
+          <l rend="indent">Illic cives angelici</l>
+<l n="30">Sub hierarchia triplici,</l>
+<l>Trinae gaudent et simplici</l>
+<l> Se monarchiae subjici.</l>
+        </p>
+<p>
+          <l rend="indent">Mirantur nec deficiunt</l>
+<l>
+<pb n="1528B"/>In illum, quem prospiciunt.</l> 
+<l n="35">Fruuntur nec fastidiunt,</l>
+<l>Quo frui magis sitiunt.</l>
+        </p>
+<p>
+          <l rend="indent">Illic Patres dispositi</l>
+<l>Pro qualitate meriti,</l>
+<l> Semota jam caligine</l>
+<l n="40">Lumen vident in lumine.</l>
+        </p>
+<p>
+          <l rend="indent"> Hi sancti, quorum hodie</l>
+<l>
+<pb n="1529A"/>Recensentur solemnia</l>
+<l rend="indent">Nunc revelata facie</l>
+<l>Regem cernunt in gloria.</l>
+        </p>
+<p>
+          <l n="45" indent="1">Illic Regina virginum</l>
+<l>Transcendens culmen ordinum,</l>
+<l rend="indent">Excuset apud Dominum</l>
+<l>Nostrorum lapsus criminum.</l>
+        </p>
+<p>
+          <l rend="indent">Nos ad sanctorum gloriam</l>
+<l n="50">Per ipsorum suffragia,</l>
+<l rend="indent">Post praesentem miseriam</l>
+<l>Christi perducat gratia. Amen.</l> 
+</p>
+      </div1>
+
+<div1>
+        <head>XXXV. DE SANCTO MARTINO.</head>
+<p>Haec prosa eamdem servat rhythmicae vocalitatis
+<pb n="1529B"/>
+mensuram, sicut illa de Nativitate Beatae Virginis
+superius exposita <hi>Nativitas Mariae Virginis,</hi> et illa
+de Dedicatione ecclesiae etiam prius explicata. <hi>Jerusalem et Sion filiae.</hi> 
+ Id tamen peculiare habet
+ista prosa, quod omnes ejus versus a secundo
+usque ad decimum utroque quidem incluso, idem
+habent exordium, et in ipsa fronte praeferunt earumdem
+dictionum coincidentia, mira suavitate
+et elegantia elaboratam. Penultimus etiam et ultimus
+versus in eodem inter se conveniunt initio,
+ad invocatoriam orationem apto. Auctor ejus, Adam
+de Sancto Victore. Complectitur autem sanctam
+conversationem beati viri ante susceptam baptismi
+gratiam, et post acceptum illius signaculum virtutem
+ipsius, et efficaciam in ostensione miraculorum
+et operatione signorum. Describit item felicem
+ipsius obdormitionem, revelationem de morte
+ejus sanctis Severino episcopo Coloniensi, et Ambrosio
+Mediolanensi factam. Quae omnia latius
+edisseruntur in Vita ejusdem Beati Martini a
+<pb n="1529C"/>
+Sulpicio Severo conscripta, et passim omnibus
+perspecta.</p>
+<p>
+          <l>Gaude, Sion, quae diem recolis,</l>
+<l>Qua Martinus compar apostolis</l>
+<l>Mundum vincens, junctus coelicolis</l>
+<l rend="indent">Coronatur.</l>
+        </p>
+<p>
+          <l n="5">
+<pb n="1530A"/>Hic Martinus pauper et modicus,</l>
+<l> Servus prudens, fidelis villicus,</l>
+<l>Coelo dives, civis angelicus</l>
+<l rend="indent">Sublimatur.</l>
+        </p>
+<p>
+          <l>Hic Martinus jam catechumenus</l>
+<l n="10">Nudum vestit, et nocte protinus</l>
+<l>In sequenti, hac veste Dominus</l>
+<l rend="indent">Est indutus.</l>
+        </p>
+<p>
+          <l>Hic Martinus spernens militiam,</l>
+<l>Inimicis inermis obviam</l>
+<l n="15">Ire parat, baptismi gratiam</l>
+<l rend="indent">Assecutus.</l>
+        </p>
+<p>
+          <l>Hic Martinus dum offert hostiam,</l>
+<l>Intus ardet per Dei gratiam.</l> 
+<l> Super sedens apparet etiam</l>
+<l n="20" indent="1">
+<pb n="1530B"/>Globus ignis.</l>
+        </p>
+<p>
+          <l>Hic Martinus qui coelum reserat,</l>
+<l>Mari praeest, et terris imperat.</l> 
+<l>Morbos sanat, et monstra superat</l>
+<l rend="indent">Vir insignis.</l>
+        </p>
+<p>
+          <l n="25">Hic Martinus nec mori timuit</l>
+<l>Nec vivendi laborem respuit,</l>
+<l>Sique Dei se totum tribuit</l>
+<l rend="indent">Voluntati.</l>
+        </p>
+<p>
+          <l>Hic Martinus, qui nulli nocuit.</l> 
+<l>Hic Martinus, qui cunctis profuit.</l> 
+<l>Hic Martinus, qui trinae placuit</l>
+<l rend="indent">Majestati.</l>
+        </p>
+<p>
+          <l>Hic Martinus, cujus est obitus</l>
+<l>Severino per visum cognitus.</l> 
+<l n="35">
+<pb n="1530C"/>Dum coelestis canit exercitus</l>
+<l rend="indent">Dulce melos.</l>
+        </p>
+<p>
+          <l>Hic Martinus, cujus Sulpitius.</l> 
+<l>Vitam scribit, astat Ambrosius</l>
+<l> Sepulturae, nil sibi conscius</l>
+<l n="40" indent="1"> Intrat coelos.</l>
+        </p>
+<p>
+          <l>
+<pb n="1531A"/>O Martine, pastor egregie,</l>
+<l>O coelestis consors militiae,</l>
+<l>Nos a lupi defendas rabie</l>
+<l rend="indent">Saevientis.</l>
+        </p>
+<p>
+          <l n="45"> O Martine, fac nunc quod gesseras,</l>
+<l>Deo preces pro nobis offeras.</l> 
+<l>Esto memor (quam nunquam deseras).</l> 
+<l rend="indent">Tuae gentis. Amen.</l>
+        </p>
+</div1>
+
+<div1>
+        <head>XXXVI. DE SANCTA CATHARINA.</head>
+<p>Haec prosa consimilem habet rhythmicae structurae
+formam sicut illa de sancto Luca prius declarata. <hi>Psallat chorus corde mundo.</hi> 
+ Verumtamen in penultimo
+et ultimo versu diversis a caeteris praecedentibus
+est rhythmi modus, in quo unaquaeque clausularum
+<pb n="1531B"/>
+septem complectitur syllabas, quarum penultima
+brevis et alternis locis consimilis soni
+habent responsum, ut prima ad tertiam et quintam
+secunda vero ad quartam et sextam. Auctor
+ejus Adam de Sancto Victore. Concelebrat
+autem laudes et praeconia sacrae virginis Catharinae,
+nobilitatem generis ejus et splendorem
+doctrinae in primis recensens. Deinde passionem
+ipsius et pretiosam mortem pro Christi nomine,
+honorabilemque sepulturam angelico ministerio
+factam commemorans. Quae omnia, ut jam dictum
+est, ex secunda Parthenice Mantuani et historia
+passionis ejusdem, evadunt manifesta.</p>
+<p>
+          <l rend="indent">Vox sonora nostri chori</l>
+<l>Nostro sonet conditori,</l>
+<l>Qui disponit omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Per quem dimicat imbellis,</l>
+<l n="5">
+<pb n="1531C"/>Per quem datur et puellis</l>
+<l>De viris victoria.</l>
+        </p>
+<p>
+          <l rend="indent">Per quem plebs Alexandrina,</l>
+<l> Feminae non feminina</l>
+<l> Stupuit ingenia.</l>
+        </p>
+<p>
+          <l n="10" indent="1">Cum beata Catharina</l>
+<l>Doctos vinceret doctrina,</l>
+<l>Ferrum patientia.</l>
+        </p>
+<p>
+          <l rend="indent">Haec ad gloriam parentum,</l>
+<l>Pulchrum dedit ornamentum</l>
+<l n="15">Morum privilegia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1532A"/>Clara per progenitores,</l>
+<l>Claruit per sacros mores</l>
+<l>Ampliori gratia.</l>
+        </p>
+<p>
+          <l rend="indent">Florem teneri decoris,</l>
+<l n="20">Lectionis et laboris</l>
+<l>Attrivere studia.</l>
+        </p>
+<p>
+          <l rend="indent">Nam perlegit disciplinas</l>
+<l>Saeculares et divinas,</l>
+<l>In adolescentia.</l>
+        </p>
+<p>
+          <l n="25" indent="1">Vas electum, vas virtutum,</l>
+<l>Reputavit sicut lutum</l>
+<l>Bona transitoria.</l>
+        </p>
+<p>
+          <l rend="indent">Et reduxit in contemptum</l>
+<l>Patris opes, et parentum</l>
+<l n="30">Larga patrimonia.</l>
+        </p>
+<p>
+          <l rend="indent">
+<pb n="1532B"/> Vasis oleum includens,</l>
+<l>Virgo sapiens et prudens,</l>
+<l>Sponso pergit obvia.</l>
+        </p>
+<p>
+          <l rend="indent">Ut adventus ejus hora</l>
+<l n="35">Praeparata, sine mora</l>
+<l>Intret ad convivia.</l>
+        </p>
+<p>
+          <l rend="indent">Sistitur imperatori,</l>
+<l>Cupiens pro Christo mori</l>
+<l>Cujus in praesentia</l>
+        </p>
+<p>
+          <l n="40" indent="1">Quinquaginta sapientes</l>
+<l>Mutos reddit et silentes</l>
+<l>Virginis facundia.</l>
+        </p>
+<p>
+          <l rend="indent">Carceris horrendi claustrum,</l>
+<l>Et rotarum triste plaustrum,</l>
+<l n="45">
+<pb n="1532C"/>Famem et jejunia.</l>
+        </p>
+<p>
+          <l rend="indent">Et quaecunque fiunt ei,</l>
+<l>Sustinet amore Dei</l>
+<l>Eadem ad omnia.</l>
+        </p>
+<p>
+          <l rend="indent">Torta superat tortorem,</l>
+<l n="50">Superat imperatorem</l>
+<l>Feminae constantia,</l>
+        </p>
+<p>
+          <l rend="indent">Cruciatur imperator</l>
+<l>Quia caedit cruentator,</l>
+<l>Nec valent supplicia</l>
+        </p>
+<p>
+          <l n="55" indent="1">Tandem capite punitur.</l> 
+<l>
+<pb n="1533A"/> Et dum morte mors finitur,</l>
+<l>Vitae subit gaudia.</l>
+        </p>
+<p>
+          <l rend="indent">Angelis mox fuit curae,</l>
+<l>Dare corpus sepulturae</l>
+<l n="60">Terra procul alia.</l>
+        </p>
+<p>
+          <l rend="indent">Oleum ex ipsa manat,</l>
+<l>Quod infirmos multos sana</l>
+<l>Evidenti gratia.</l>
+        </p>
+<p>
+          <l n="65" indent="1">Bonum nobis dat unguentum,</l>
+<l>
+<pb n="1534A"/>Si per suum interventum</l>
+<l>Nostra sanat vitia.</l>
+        </p>
+<p>
+          <l rend="indent"> Gaudens ipsa videat</l>
+<l>De se praesens gaudia.</l> 
+<l>Et futura praebeat,</l>
+        </p>
+<p>
+          <l rend="indent">Quae dedit praesentia.</l> 
+<l n="70">Et hic nobis gaudeat,</l>
+<l>Nos illi in gloria. Amen.</l> 
+</p>
+</div1>
+</body>
+  </text>
+</TEI>
