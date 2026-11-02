@@ -1,0 +1,337 @@
+{
+  "id": "deharbe-complete-catechism",
+  "cover": "label",
+  "name": {
+    "en-US": "A Complete Catechism of the Catholic Religion",
+    "pt-BR": "Catecismo Completo da Religião Católica"
+  },
+  "author": {
+    "en-US": "Joseph Deharbe, S.J.",
+    "pt-BR": "Joseph Deharbe, S.J."
+  },
+  "description": {
+    "en-US": "Fr Joseph Deharbe's Catholic catechism in John Fander's English: a short history of revealed religion from the Creation to the present time, then the catechism proper in numbered questions and answers with scriptural proofs and applications, on Faith (the Creed), the Commandments of God and of the Church, and the Means of Grace (the sacraments and prayer). Sixth American edition, conformed to the Code of Canon Law (1912-1924).",
+    "pt-BR": "O catecismo católico do Pe. Joseph Deharbe na tradução inglesa de John Fander: uma breve história da religião revelada, da Criação até hoje, e depois o catecismo propriamente dito em perguntas e respostas numeradas com provas da Escritura e aplicações, sobre a Fé (o Credo), os mandamentos de Deus e da Igreja e os meios da graça (os sacramentos e a oração). Sexta edição americana, conforme ao Código de Direito Canônico (1912-1924)."
+  },
+  "composed": 1847,
+  "languages": [
+    "en-US"
+  ],
+  "work": "deharbe/complete-catechism",
+  "editions": {
+    "en-US": {
+      "translator": "John Fander",
+      "editor": "James J. Fox and Thomas McMillan",
+      "year": 1924
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/completecatechis00deharich",
+      "description": "A Complete Catechism of the Catholic Religion, trans. John Fander, sixth American edition, conformed to the Codex Juris Canonici, ed. James J. Fox and Thomas McMillan (New York: Schwartz, Kirwin & Fauss; copyrights 1912, 1919, 1924), via the archive.org OCR text. Tier A: public domain in the United States (printing of 1924 or earlier). The OCR is uncorrected beyond systematic fixes (running heads, hyphenation, 'Re-' misread as 'Ee-'); the table of Roman pontiffs and the abbreviation list were left out."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface to the Sixth American Edition"
+      }
+    },
+    {
+      "id": "history-introduction",
+      "title": {
+        "en-US": "A Short History of Revealed Religion: Introduction"
+      }
+    },
+    {
+      "id": "history-before-christ",
+      "title": {
+        "en-US": "A Short History of Revealed Religion: Before Christ"
+      }
+    },
+    {
+      "id": "history-of-christ",
+      "title": {
+        "en-US": "A Short History of Revealed Religion: The History of Christ"
+      }
+    },
+    {
+      "id": "history-of-the-church",
+      "title": {
+        "en-US": "A Short History of Revealed Religion: The History of the Church of Christ"
+      }
+    },
+    {
+      "id": "history-concluding-remarks",
+      "title": {
+        "en-US": "A Short History of Revealed Religion: Concluding Remarks and the Historical Evidences of the Truth of Our Religion"
+      }
+    },
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction: On the End of Man"
+      }
+    },
+    {
+      "id": "faith-in-general",
+      "title": {
+        "en-US": "Part I, Faith: Chapter I, Faith in General"
+      }
+    },
+    {
+      "id": "article-01",
+      "title": {
+        "en-US": "Part I, Faith: The First Article of the Creed"
+      }
+    },
+    {
+      "id": "article-02",
+      "title": {
+        "en-US": "Part I, Faith: The Second Article of the Creed"
+      }
+    },
+    {
+      "id": "article-03",
+      "title": {
+        "en-US": "Part I, Faith: The Third Article of the Creed"
+      }
+    },
+    {
+      "id": "article-04",
+      "title": {
+        "en-US": "Part I, Faith: The Fourth Article of the Creed"
+      }
+    },
+    {
+      "id": "article-05",
+      "title": {
+        "en-US": "Part I, Faith: The Fifth Article of the Creed"
+      }
+    },
+    {
+      "id": "article-06",
+      "title": {
+        "en-US": "Part I, Faith: The Sixth Article of the Creed"
+      }
+    },
+    {
+      "id": "article-07",
+      "title": {
+        "en-US": "Part I, Faith: The Seventh Article of the Creed"
+      }
+    },
+    {
+      "id": "article-08",
+      "title": {
+        "en-US": "Part I, Faith: The Eighth Article of the Creed"
+      }
+    },
+    {
+      "id": "article-09",
+      "title": {
+        "en-US": "Part I, Faith: The Ninth Article of the Creed"
+      }
+    },
+    {
+      "id": "article-10",
+      "title": {
+        "en-US": "Part I, Faith: The Tenth Article of the Creed"
+      }
+    },
+    {
+      "id": "article-11",
+      "title": {
+        "en-US": "Part I, Faith: The Eleventh Article of the Creed"
+      }
+    },
+    {
+      "id": "article-12",
+      "title": {
+        "en-US": "Part I, Faith: The Twelfth Article of the Creed"
+      }
+    },
+    {
+      "id": "commandments-and-charity",
+      "title": {
+        "en-US": "Part II, The Commandments: Chapter I, The Commandments in General and the Chief Commandment of Charity"
+      }
+    },
+    {
+      "id": "ten-commandments",
+      "title": {
+        "en-US": "Part II, The Commandments: The Ten Commandments of God"
+      }
+    },
+    {
+      "id": "commandment-01",
+      "title": {
+        "en-US": "Part II, The Commandments: The First Commandment of God"
+      }
+    },
+    {
+      "id": "commandment-02",
+      "title": {
+        "en-US": "Part II, The Commandments: The Second Commandment of God"
+      }
+    },
+    {
+      "id": "commandment-03",
+      "title": {
+        "en-US": "Part II, The Commandments: The Third Commandment of God"
+      }
+    },
+    {
+      "id": "commandment-04",
+      "title": {
+        "en-US": "Part II, The Commandments: The Fourth Commandment of God"
+      }
+    },
+    {
+      "id": "commandment-05",
+      "title": {
+        "en-US": "Part II, The Commandments: The Fifth Commandment of God"
+      }
+    },
+    {
+      "id": "commandment-06-09",
+      "title": {
+        "en-US": "Part II, The Commandments: The Sixth and Ninth Commandments of God"
+      }
+    },
+    {
+      "id": "commandment-07",
+      "title": {
+        "en-US": "Part II, The Commandments: The Seventh Commandment of God"
+      }
+    },
+    {
+      "id": "commandment-08",
+      "title": {
+        "en-US": "Part II, The Commandments: The Eighth Commandment of God"
+      }
+    },
+    {
+      "id": "commandment-10",
+      "title": {
+        "en-US": "Part II, The Commandments: The Tenth Commandment of God"
+      }
+    },
+    {
+      "id": "church-commandments",
+      "title": {
+        "en-US": "Part II, The Commandments: Chapter III, The Six Commandments of the Church"
+      }
+    },
+    {
+      "id": "church-commandment-01",
+      "title": {
+        "en-US": "Part II, The Commandments: The First Commandment of the Church"
+      }
+    },
+    {
+      "id": "church-commandment-02",
+      "title": {
+        "en-US": "Part II, The Commandments: The Second Commandment of the Church"
+      }
+    },
+    {
+      "id": "church-commandment-03-06",
+      "title": {
+        "en-US": "Part II, The Commandments: The Third, Fourth, Fifth and Sixth Commandments of the Church"
+      }
+    },
+    {
+      "id": "sin",
+      "title": {
+        "en-US": "Part II, The Commandments: Chapter IV, Sin"
+      }
+    },
+    {
+      "id": "virtue",
+      "title": {
+        "en-US": "Part II, The Commandments: Chapter V, Virtue and Christian Perfection"
+      }
+    },
+    {
+      "id": "grace",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Chapter I, Grace in General"
+      }
+    },
+    {
+      "id": "sacraments",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Chapter II, The Sacraments"
+      }
+    },
+    {
+      "id": "baptism",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Baptism"
+      }
+    },
+    {
+      "id": "confirmation",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Confirmation"
+      }
+    },
+    {
+      "id": "eucharist",
+      "title": {
+        "en-US": "Part III, The Means of Grace: The Holy Eucharist"
+      }
+    },
+    {
+      "id": "penance",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Penance"
+      }
+    },
+    {
+      "id": "extreme-unction",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Extreme Unction"
+      }
+    },
+    {
+      "id": "holy-orders",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Holy Orders"
+      }
+    },
+    {
+      "id": "matrimony",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Matrimony"
+      }
+    },
+    {
+      "id": "prayer",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Chapter III, Prayer"
+      }
+    },
+    {
+      "id": "sacramentals",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Chapter IV, Sacramentals"
+      }
+    },
+    {
+      "id": "religious-practices",
+      "title": {
+        "en-US": "Part III, The Means of Grace: Chapter V, Religious Practices and Ceremonies"
+      }
+    },
+    {
+      "id": "recapitulation",
+      "title": {
+        "en-US": "Recapitulation"
+      }
+    }
+  ]
+}

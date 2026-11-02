@@ -393,3 +393,4 @@ Text is the JesusMarie.com digital edition of Coste (tomes I-XIII and the 1970 "
 ### Catechisms (Baltimore, Deharbe, Canisius, Gaume, Spirago, Roman Catechism)
 
 - Baltimore No. 3 (Gutenberg #14553): Q. 630 lacks its "A." marker in the source and Q. 53 and 74 lack the period; read as questions and answers.
+- `deharbe-complete-catechism` (Fander's translation, archive.org OCR of the 1924 printing): the OCR is only cleaned by rule, so scattered misreadings remain (e.g. "ns" for "us", "lerving", quotation marks as `'`). In "A Short History of Revealed Religion" the examination questions are printed in the middle of the numbered paragraphs on the scan and in places still interleave with the text. The table of Roman pontiffs, the abbreviation list and the contents were left out.
