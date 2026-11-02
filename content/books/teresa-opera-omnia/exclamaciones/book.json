@@ -1,0 +1,151 @@
+{
+  "id": "teresa-exclamaciones",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Exclamaciones del alma a Dios",
+    "en-US": "Exclamations of the Soul to God",
+    "pt-BR": "Exclamações da alma a Deus"
+  },
+  "author": {
+    "es-ES": "Santa Teresa de Jesús",
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "description": {
+    "es-ES": "Diecisiete exclamaciones que Santa Teresa escribió en 1569, después de comulgar, en diversos días y conforme al espíritu que el Señor le comunicaba: el destierro de la vida, el deseo de ver a Dios, el amor, el arrepentimiento y la confianza. Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "Seventeen exclamations St. Teresa wrote in 1569, after Communion, on different days and as the Lord moved her: the exile of this life, the longing to see God, love, repentance and trust. P. Silverio de Santa Teresa's critical text with his notes.",
+    "pt-BR": "Dezessete exclamações que Santa Teresa escreveu em 1569, depois da comunhão: o desterro desta vida, o desejo de ver a Deus, o amor, o arrependimento e a confiança."
+  },
+  "composed": "1569",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "teresa-of-avila/exclamaciones",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1917
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesantatere04tere",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. IV: Moradas, Conceptos del amor de Dios, Exclamaciones (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1917, pp. 269–296. Princeton Theological Seminary scan, primary OCR.",
+      "description": "Spanish critical text with Silverio's notes kept as footnotes; his introduction and appendices are not included. OCR of two independent scans merged word by word.",
+      "tier": "A",
+      "tierEvidence": "Teresa died in 1582; the volume was published in 1917 (public domain in the US) and P. Silverio died in 1954, so his notes are public domain under life+70 since 1 January 2025."
+    },
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdestateresa04tere",
+      "edition": "The same volume, Wellesley College scan, used as the second witness.",
+      "tier": "A",
+      "tierEvidence": "Same edition as above."
+    }
+  ],
+  "toc": [
+    {
+      "id": "e01",
+      "title": {
+        "es-ES": "Exclamación I"
+      }
+    },
+    {
+      "id": "e02",
+      "title": {
+        "es-ES": "Exclamación II"
+      }
+    },
+    {
+      "id": "e03",
+      "title": {
+        "es-ES": "Exclamación III"
+      }
+    },
+    {
+      "id": "e04",
+      "title": {
+        "es-ES": "Exclamación IV"
+      }
+    },
+    {
+      "id": "e05",
+      "title": {
+        "es-ES": "Exclamación V"
+      }
+    },
+    {
+      "id": "e06",
+      "title": {
+        "es-ES": "Exclamación VI"
+      }
+    },
+    {
+      "id": "e07",
+      "title": {
+        "es-ES": "Exclamación VII"
+      }
+    },
+    {
+      "id": "e08",
+      "title": {
+        "es-ES": "Exclamación VIII"
+      }
+    },
+    {
+      "id": "e09",
+      "title": {
+        "es-ES": "Exclamación IX"
+      }
+    },
+    {
+      "id": "e10",
+      "title": {
+        "es-ES": "Exclamación X"
+      }
+    },
+    {
+      "id": "e11",
+      "title": {
+        "es-ES": "Exclamación XI"
+      }
+    },
+    {
+      "id": "e12",
+      "title": {
+        "es-ES": "Exclamación XII"
+      }
+    },
+    {
+      "id": "e13",
+      "title": {
+        "es-ES": "Exclamación XIII"
+      }
+    },
+    {
+      "id": "e14",
+      "title": {
+        "es-ES": "Exclamación XIV"
+      }
+    },
+    {
+      "id": "e15",
+      "title": {
+        "es-ES": "Exclamación XV"
+      }
+    },
+    {
+      "id": "e16",
+      "title": {
+        "es-ES": "Exclamación XVI"
+      }
+    },
+    {
+      "id": "e17",
+      "title": {
+        "es-ES": "Exclamación XVII"
+      }
+    }
+  ]
+}
