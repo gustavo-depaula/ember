@@ -1,0 +1,51 @@
+{
+  "id": "augustine-sermo-ad-caesareensis-ecclesiae-plebem",
+  "cover": "quarter",
+  "name": {
+    "la": "Sermo ad Caesareensis ecclesiae plebem",
+    "en-US": "Sermon to the People of the Church of Caesarea",
+    "pt-BR": "Sermão ao povo da Igreja de Cesareia"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Sermo ad Caesareensis ecclesiae plebem. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "Sermon to the People of the Church of Caesarea (418), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Sermão ao povo da Igreja de Cesareia (418), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "418",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/sermo-ad-caesareensis-ecclesiae-plebem",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/discorso_cesarea/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages discorso_cesarea of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo ad Caesareensis ecclesiae plebem"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
