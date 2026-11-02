@@ -1,0 +1,33 @@
+# Livre 1, chapitre 3
+
+De l’assemblée des officiers dans la sacristie, et de leur sortie.
+
+Pour voir la conduite de Jésus-Christ avant sa venue et en sa venue, durant sa vie et après sa mors, il faut considérer tout ce
+
+, que fait le prêtre avec le diacre et le sous- uiacre.
+
+Premièrement, le prêtre, revêtu dans la sacristie, avec le diacre et le sous-diacre, les chairs, et autres officiers, met de l’encens dans l’encensoir; ce qui exprime Jésus-Christ dans le sein de son Père, vïvi de toute éternité dans ses desseins avec toute l’Eglise, qui le louait en esprit avec les divers corps des saints formés avec lui dans le sein du Père, qui tous ne font qu’un corps et une société, à cause que l’Eglise est élue avec Jésus-Christ : Electa sol. ( Cant. vi, 9.) Et il faut remarquer que le prêtre ne donne point d’encens dans la sacristie, mais seulement il le prépare pour le donner à Dieu, quand il sera dans l’église ; comme, en effet, ce n’étaient que des louanges attendues, et des gloires en espérance que celles de Jésus-Christ renfermé dans le sein de son Père , de même que cet encensement préparé et disposé dans la sacristie.
+
+Il entre dans l’église l’ensensoir fumant, à cause que Jésus-Christ, entrant dans le monde, se présente à Dieu, et se suppose à la place de toutes les victimes de l’Ancien Testament : Ingrediens mundum, dicit : Hostiam et oblaiioncm noluisti, etc., lune dixi : Ecce veni. (Hebr. x, 5.) Lorsque Jésus- Christ paraît en la uersonne du prêtre, les chairs et le reste des officiers qui marchent avec lai représentent l’universel de l’Eglise, qui est unie à Notre-Seigneur : le sous-diacre, représentant l’Ancien Testament, marche devant le prêtre, et vient dans le monde pour commencer de préparer les voies, comme saint Jean, qui était en la loi vivante, et qui marquait en ses fonctions la disposition de l’Ancien Testament : Ego vox clamantis indeserlo, dirige viam Domini; « Je suis la voix qui crie dans le désert, préparez les voies du Seigneur, » (Joan. i, 23) disposez-vous intérieurement à recevoir Jésus-Christ en vos cœurs.
+
+Le diacre marchant devant le prêtre avec 3e sous-diacre, signifie que l’Ancien et la Nouveau Testament n’étaient encore qu’uu, devant que Jésus-Christ eût fait son sacrifice, qui a dû s’accomplir pour mérite? l’esprit du Nouveau Testament, qui est l’esprit en plénitude, l’esprit d’enfant de Dieu, et le même esprit qui régnait en Jésus- Christ, pour le conduire et l’animer.
+
+Le prêtre sort de la sacristie, et marche en ordre jusqu’à l’autel avec ses ministres, qui font extérieurement ce qu’il fait intérieurement; faisant connaître par les instruments du sacrifice, et par les luminaires et l’ensensoir qu’ils portent, ce que Notre- Seigneur est en lui-même, et ce qu’il fait en son cœur, donnant gloire eu son Père, qui l’a appelé à cela de toute éternité, et l’a destiné pour lui rendre ses respects, et une religion parfaite en lui en ses membres; et cette religion que Dieu attend et porte dans son sein toute l’éternité, portant l’idée de son Verbe et de son Christ entier, avec les devoirs de la religion qu’il en prétend, nous est représentée par tous ces ministres assemblés sous la conduite et par le soin du sacristain, lequel doit être un homme saint et vénérable, parce qu’il tient la place du l’ère éternel, envoyant son Fils au monde offrir ie sacrifice pour le salut des peuples et pour cela il doit préparer toutes choses
+
+■m
+
+XX)
+
+en l’Eglise, en l’honneur .les soins que le Père éternel a pris de préparer la Synagogue, pour recevoir son Fils, et de disposer toutes choses nécessaires à son saint sacrifice.
+
+Le sacristain se souviendra en parant les autels, et en ornant l’église de tableaux et d’images, que le Père éternel avait préparé la terre par les figures et par les cérémonies de l’Ancien Testament, afin que son Fils ne vînt pjs, dans un monde nu et dépouillé de toute décence; étant nécessaire qu’à son avènement, le monde fût recueilli par quelque exercice de piété, et retiré de l’esprit séculier et de l’état profane, où il était noyé.
+
+Quand il enverra un prêtre à l’autel offrir le sacrifice, il le fera dans l’amour môme du Tère éternel, envoyant son cher Fils pour sauver le monde, (désirant ardemment et priant en son cœur que les peuples se convertissent par l’efficace et le mérite de ce saint sacrifice.
+
+Quand il verra tous les officiers assemblés avec le prêtre, et préparés pour aller officier, il se réjouira de l’honneur et de la louange qui se va rendre à Dieu.
+
+Cette assemblée dans la sacristie, devant qu’elle aille célébrer, représente l’assemblée des saints avec Jésus-Christ dans l’idée du Père, devant que de l’envoyer dans le monde. Le Père regardait cette assemblée avec joie et grand ressentiment, attendant d’elle un jour toutes sortes d’honneurs et de respects, tels que maintenant elle les rend dans le ciel et sur lu terre. L’attente de ces louanges le réjouissait, et doit de même réjouir le sacristain.
+
+Le Père contient dans son sein toute l’image de l’Eglise, cachée aux hommes de toute éternité dans le secret de son cœur : c’est ce que la sacristie représente; à savoir, le sanctuaire du sein de Dieu le Père. Il faut donc un homme vénérable et de sainteté très-parfaite en ce saint ministère de la sacristie, qui soit regardé comme l’image de Dieu le Père, envoyant son Fils dans l’Eglise pour accomplir son sacrifice. Et pour cela il faut qu’il ait soin et prudence pour tenir tout prêt dans l’Eglise, comme Dieu avait préparé le monde à la venue de son Fils, et à son sacrifice par l’Ancien Testament, qui, sans voir ce mystère, y servait en esprit de foi, et dans l’obscurité des choses à venir, auxquelles il ajoutait croyance sur la voix des prophètes. Et pour cela, devant qu’on soit sorti de la sacristie, on porte sur la crédence les instruments du sacrifice, et on les y tient cachés, attendant que le Nouveau Testament en la personne du diacre les développe, comme on le verra dans la Messe.
+
+Cette préparation est l’aile par le sacristain, en honorant les préparatifs du Père pour le sacrifice et les mystères de son Fils, qu’il voit lui seul à découvert, et qu’il cache au reste des hommes qui n’en sont pas instruits, et qui doivent dans la foi mériter de les voir face à face, et d’en jouir un jour, participant ici cependant à l’esprit de la loi, qui est l’esprit d’attente, de désir, de foi et de pénitence. C’est pourquoi le curé représentant le Fils venu au monde, d’abord qu’il est sorti de la sacristie, et qu’il s’est approché de l’autel, ayant à préparer les peuples aux mystères de Jésus-Christ, et au même sacrifice qu’il a fait une fois, se sert des mêmes dispositions envers le peuple, dont Jésus-Christ usa dans le monde, et par lesquelles son Père l’avait préparé à sa venue.

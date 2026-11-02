@@ -1,0 +1,372 @@
+{
+  "id": "olier-ceremonies-grand-messe",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Explication des cérémonies de la grand’messe de paroisse",
+    "en-US": "Explanation of the Ceremonies of the Parish High Mass",
+    "pt-BR": "Explicação das cerimônias da missa solene paroquial"
+  },
+  "author": {
+    "fr-FR": "Jean-Jacques Olier",
+    "en-US": "Jean-Jacques Olier",
+    "pt-BR": "Jean-Jacques Olier"
+  },
+  "description": {
+    "fr-FR": "Neuf livres et la messe des morts : un commentaire mystique de la grand’messe de paroisse, cérémonie par cérémonie.",
+    "en-US": "Nine books and the Mass for the dead: a mystical commentary on the parish High Mass, ceremony by ceremony.",
+    "pt-BR": "Nove livros e a missa dos mortos: um comentário místico da missa solene paroquial, cerimônia por cerimônia."
+  },
+  "composed": 1657,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "olier/ceremonies-grand-messe",
+  "editions": {
+    "fr-FR": {
+      "editor": "Jacques-Paul Migne",
+      "year": 1856
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/uvrescompltesd00olie",
+      "edition": "Œuvres complètes de M. Olier, éd. Migne, Paris, 1856; archive.org OCR (ABBYY) of the Toronto copy.",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Olier died in 1657; the 1856 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "livre-01-00",
+      "title": {
+        "fr-FR": "Livre 1 : ouverture"
+      }
+    },
+    {
+      "id": "livre-01-02",
+      "title": {
+        "fr-FR": "Livre 1, chapitre 2"
+      }
+    },
+    {
+      "id": "livre-01-03",
+      "title": {
+        "fr-FR": "Livre 1, chapitre 3"
+      }
+    },
+    {
+      "id": "livre-01-04",
+      "title": {
+        "fr-FR": "Livre 1, chapitre 4"
+      }
+    },
+    {
+      "id": "livre-01-05",
+      "title": {
+        "fr-FR": "Livre 1, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-02-01",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 1"
+      }
+    },
+    {
+      "id": "livre-02-02",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 2"
+      }
+    },
+    {
+      "id": "livre-02-03",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 3"
+      }
+    },
+    {
+      "id": "livre-02-04",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 4"
+      }
+    },
+    {
+      "id": "livre-02-05",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-02-06",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 6"
+      }
+    },
+    {
+      "id": "livre-02-07",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 7"
+      }
+    },
+    {
+      "id": "livre-02-08",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 8"
+      }
+    },
+    {
+      "id": "livre-02-09",
+      "title": {
+        "fr-FR": "Livre 2, chapitre 9"
+      }
+    },
+    {
+      "id": "livre-03-01",
+      "title": {
+        "fr-FR": "Livre 3, chapitre 1"
+      }
+    },
+    {
+      "id": "livre-03-02",
+      "title": {
+        "fr-FR": "Livre 3, chapitre 2"
+      }
+    },
+    {
+      "id": "livre-03-03",
+      "title": {
+        "fr-FR": "Livre 3, chapitre 3"
+      }
+    },
+    {
+      "id": "livre-03-04",
+      "title": {
+        "fr-FR": "Livre 3, chapitre 4"
+      }
+    },
+    {
+      "id": "livre-03-05",
+      "title": {
+        "fr-FR": "Livre 3, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-04-01",
+      "title": {
+        "fr-FR": "Livre 4, chapitre 1"
+      }
+    },
+    {
+      "id": "livre-04-02",
+      "title": {
+        "fr-FR": "Livre 4, chapitre 2"
+      }
+    },
+    {
+      "id": "livre-04-03",
+      "title": {
+        "fr-FR": "Livre 4, chapitre 3"
+      }
+    },
+    {
+      "id": "livre-04-04",
+      "title": {
+        "fr-FR": "Livre 4, chapitre 4"
+      }
+    },
+    {
+      "id": "livre-04-05",
+      "title": {
+        "fr-FR": "Livre 4, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-05-00",
+      "title": {
+        "fr-FR": "Livre 5 : ouverture"
+      }
+    },
+    {
+      "id": "livre-05-02",
+      "title": {
+        "fr-FR": "Livre 5, chapitre 2–3"
+      }
+    },
+    {
+      "id": "livre-05-04",
+      "title": {
+        "fr-FR": "Livre 5, chapitre 4"
+      }
+    },
+    {
+      "id": "livre-05-05",
+      "title": {
+        "fr-FR": "Livre 5, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-06-01",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 1"
+      }
+    },
+    {
+      "id": "livre-06-02",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 2"
+      }
+    },
+    {
+      "id": "livre-06-03",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 3"
+      }
+    },
+    {
+      "id": "livre-06-04",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 4"
+      }
+    },
+    {
+      "id": "livre-06-05",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-06-06",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 6"
+      }
+    },
+    {
+      "id": "livre-06-07",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 7"
+      }
+    },
+    {
+      "id": "livre-06-08",
+      "title": {
+        "fr-FR": "Livre 6, chapitre 8"
+      }
+    },
+    {
+      "id": "livre-07-00",
+      "title": {
+        "fr-FR": "Livre 7 : ouverture"
+      }
+    },
+    {
+      "id": "livre-07-02",
+      "title": {
+        "fr-FR": "Livre 7, chapitre 2–4"
+      }
+    },
+    {
+      "id": "livre-07-05",
+      "title": {
+        "fr-FR": "Livre 7, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-07-06",
+      "title": {
+        "fr-FR": "Livre 7, chapitre 6"
+      }
+    },
+    {
+      "id": "livre-07-07",
+      "title": {
+        "fr-FR": "Livre 7, chapitre 7"
+      }
+    },
+    {
+      "id": "livre-07-08",
+      "title": {
+        "fr-FR": "Livre 7, chapitre 8"
+      }
+    },
+    {
+      "id": "livre-07-09",
+      "title": {
+        "fr-FR": "Livre 7, chapitre 9"
+      }
+    },
+    {
+      "id": "livre-07-10",
+      "title": {
+        "fr-FR": "Livre 7, chapitre 10"
+      }
+    },
+    {
+      "id": "livre-08-00",
+      "title": {
+        "fr-FR": "Livre 8 : ouverture"
+      }
+    },
+    {
+      "id": "livre-08-02",
+      "title": {
+        "fr-FR": "Livre 8, chapitre 2"
+      }
+    },
+    {
+      "id": "livre-08-03",
+      "title": {
+        "fr-FR": "Livre 8, chapitre 3"
+      }
+    },
+    {
+      "id": "livre-08-04",
+      "title": {
+        "fr-FR": "Livre 8, chapitre 4"
+      }
+    },
+    {
+      "id": "livre-08-05",
+      "title": {
+        "fr-FR": "Livre 8, chapitre 5"
+      }
+    },
+    {
+      "id": "livre-09-00",
+      "title": {
+        "fr-FR": "Livre 9 : ouverture"
+      }
+    },
+    {
+      "id": "livre-09-02",
+      "title": {
+        "fr-FR": "Livre 9, chapitre 2"
+      }
+    },
+    {
+      "id": "livre-09-03",
+      "title": {
+        "fr-FR": "Livre 9, chapitre 3"
+      }
+    },
+    {
+      "id": "livre-10-00",
+      "title": {
+        "fr-FR": "Messe des morts : ouverture"
+      }
+    },
+    {
+      "id": "livre-10-02",
+      "title": {
+        "fr-FR": "Messe des morts, chapitre 2"
+      }
+    },
+    {
+      "id": "preface",
+      "title": {
+        "fr-FR": "Préface"
+      }
+    }
+  ]
+}
