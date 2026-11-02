@@ -296,6 +296,10 @@ O, e' gli battono il capo.
 
 *Poco dopo disse queste altre parole:*
 
+Amore, l'amor tuo non mi lassa penetrare a pieno la gran pena che tu porti, che non lo potrei soffrire.
+
+O Amore, in molto maggior numero sono le saette che tu mandi a' cuori delle tuo creature, che non sono le battiture che essi hora ti danno.
+
 *S' intese poi che la vedeva Jesu coronato di spine, con queste parole:*
 
 Amore, tu hai voluto essere coronato di spine per coronare le tuo spose di gloria in paradiso.

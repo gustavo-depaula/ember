@@ -60,6 +60,8 @@ In questa mattina, Santa Maria Maddalena si sentì miracolosamente guarita della
 
 *(v. testo completo)*
 
+[Continuazione del manoscritto, sabato, 16 giugno, 21º giorno, 12-15 ore]
+
 Il medesimo dì essendo io andata con Suor Veronica *[Alessandri]* e Suor Dorotea *[Noceti]* a visitare il Sepolcro della Beata Madre, Suor Maria de Bagnesi et facendo quivi oratione la ringratiavo della ricevuta sanità la medesima mattina per sua meriti e intercessione, la vidi che stava alla Destra di Jesu, nel mezzo tra Jesu e la Vergine.
 
 E era vestita di Teletta d'Argento Fornita con un ricamo di oro e tane: oro per la carità e tane per la sua gran patientia.

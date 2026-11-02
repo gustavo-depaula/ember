@@ -8,6 +8,8 @@ Yu *[Jesu]* M[aria]a
 
 Molto Reverendo e Ca[rissimo]mo Padre *[Agostino Campi]*
 
+Salute
+
 Havendo per gratia del Signore con mia gran consolatione e contento, fornito di far l'obedientia, impostami da Vostra Reverentia *[cf. p. 241]*, di seguitare a riscrivere quelle così belle e util cose che Suor Veronica *[Alessandri]* per impedimento *[di malattia: v. infra p. 104]* non poté seguire di scrivere, le quale in questo nostro tempo s'è degnato il Signore per sua infinita bontà comunicare in astratione di mente alla nostra sopradiletta Suor Maria Maddalena,\* figlia di Messer Cammillo Pazzi, Novitia, ve le mando acciò possiate rivedere se c'è difetto nessuno, e ricorreggerlo, imputando il tutto che trovate di male alla mia inconsideratione e ignorantia, la quale è nota a Vostra Reverentia quanta sia grande, però mi scuserete, pregando il Signore che mi perdoni et mi dia gratia di far frutto di questa bella occasione che mi se porta di poter conoscere le miseratione grande di esso Signore in comunicarsi sì mirabilmente alle sue creature, a quelle dico massimamente che si rendono atte a poter ricever egli sua doni e gratie. Et con questa fine, humilmente gli domando la santa beneditione e me li raccomando.
 
 Dal nostro Monastero di Santa Maria dell'Angeli da San Fridiano, il dì X d'ottobre 1584.

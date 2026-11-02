@@ -124,6 +124,8 @@ Perché subito che io sentì di potere riaver le forze, mi ingegnai di ritornare
 
 *[Conclusione de "I quaranta giorni"]*
 
+[Postfazio di Suor Maria Maddalena Mori]
+
 Sendo finito adunque il tempo de 40 dì che l'Amore gli haveva detto durerebbe dopo che haveva fatto la sua santa Professione [pp. 214.236] ha havere ogni mattina queste astratione dopo che lei era comunicata del Santissimo Sacramento, non l'hebbe più altrimenti. Però che la mattina di poi che fu il sabbato ancora si comunicò e no' rimase ratta altrimenti come haveva fatto sempre tutte le altre passate mattine, nelle quale dopo la S.ma Comunione stava ratta in spirito per due hore continue, e qualche volta toccava delle tre.
 
 *Et mi disse che quando era comunicata, si sentiva subito tirata dallo Amore, appunto come fa la calamita il ferro [S. Teresa d'Avila, 6 Moradas 5,1-7]. E in tal modo esso Amore legava l'anima sua, che rimaneva astratta dai sentimenti corporali di modo che essa non poteva muoversi nè operar nulla et non vedeva nulla. Ma qualche volta mi disse bene che sentiva, e qualche volta no'. Ma non già mai si poteva muover e se bene fussi stata abbruciata, tanto era unita con lo Amore e astratta dai sentimenti [cf. S. Teresa d'Avila, 6 Moradas 4,3ss.8ss.13-16; Vida 19,1-3].*
@@ -139,6 +141,8 @@ Sendo finito adunque il tempo de 40 dì che l'Amore gli haveva detto durerebbe d
 *Et io ancora posso dire che, per la mia imperfetione, no' l'ho sapute raccorre nè scrivere sì come da lei l'ho udite e che in me le comprendevo mentre che me le diceva, perché sono cose no' le può pure esplicare chi le gusta e sente in se e chi il Signore ne fa partecipe, tanto manco chi non è capace come me e no' le gusta come dovrebbe.*
 
 *È ben vero che l'una e l'altra habbian fatto quello habbian saputo, semplicemente per la santa obedientia, et lei di dirmele et io di scriverle; che me le ha dette lei in quel modo ha potuto et lo più fedelmente che ho saputo, l'ho scritte in quel modo che l'ho havute dalla propria bocca, se bene, come ho detto, non si può a pieno esplicare quello che si intende.*
+
+Il Fine
 
 *Dopo hebbe gli infrascritti Ratti, li quali riferì a me, Suor Maria Maddalena [Mori],*
 
