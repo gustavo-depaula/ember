@@ -1,0 +1,3 @@
+# Letter LXXIX. Extract from a letter to Mother Favre
+
+Writing from Bourges, 1628, to Mother Favre, who had just been elected Superior of the Second Monastery of Paris, St. Chantal says: "Your good Father (St. Vincent de Paul), for whom I feel so much reverence and affection, thanks me for the gift we have given him of you. This is, I think, to forstall your being taken away. I shall see to it with the Bishop of Geneva and with you yourself. What a rogue you are! But all the more are you my truly loved daughter, for whom I have an incomparable affection. I send my salutations to whoever you wish. God be blessed!"

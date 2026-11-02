@@ -1,0 +1,11 @@
+# Letter LIX. To a Religious of the First Monastery of the Visitation at Paris
+
+Vive ✠ Jésus!
+
+ANNECY, 1625.
+
+MY DEAREST DAUGHTER,
+
+The wings of this little butterfly that thrusts itself out into the light before its time need to be clipped; otherwise it will come to destruction. And in like manner, my daughter, as soon as you perceive your mind taking these high flights you must bring it down to the foot of the crucifix by a profound but gentle act of humility, holding yourself there all confused and abashed. Your doing this will put an end to the trouble. Walk simply, my daughter, and you will walk happily. Crush self-love, stamp it out; and with it self-esteem. Let true humility take its place, that humility which always and in all circumstances aims at oblivion and at being under the feet of all. This lesson is a difficult one, but God invites you to the practice of it. Follow His will and His example and He will lead you on until you attain that perfection to which His Providence has called you. Strive to keep your thoughts off yourself, and never scrutinize what is passing within you. Let this truth dwell in your heart and have it always before your mind that whatever little good there may be in you is from God, and that therefore you have no right to take pride in it, nor to think any the better of yourself because of it. Remember that of yourself you are mere nothingness, possessing only the abjection of your sins and of your countless imperfections. And bearing this in mind, welcome contempt and all that kills pride. Make use for this end of that thought of yours that the Sisters may very justly think you to be full of self-love and self-esteem, or of any other such humiliating reflection. Desire to be employed in low and abject things. Not that you should seek them, but that you be always disposed willingly to accept them. Beg your good Mother to help you to acquire this dear virtue of humility, without, however, asking for anything in particular; for to choose would spoil everything. If you do all this you will find the source of true life, and if you do it not, you will never have any peace nor be able to correspond to your vocation and to the designs of God over you. I beseech His Goodness to grant you this precious grace.
+
+Yours, etc.

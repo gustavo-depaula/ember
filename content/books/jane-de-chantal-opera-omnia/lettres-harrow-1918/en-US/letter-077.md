@@ -1,0 +1,11 @@
+# Letter LXXVII. To St. Vincent de Paul
+
+Vive ✠ Jésus!
+
+PARIS,
+
+_December, 1627._
+
+Now that you are working in the Province of Lyons, my very dear Father, we shall have no opportunity of seeing you for a long time, yet it is not for us to gainsay what God arranges. May He be blessed in all things. But, very dear Father, I am taking advantage of the liberty which in your charity you have given me to continue importuning you with my confidence, and I do so in all simplicity.
+
+I gave four days to the Exercises (Retreat), and no more, on account of the amount of business that has come unexpectedly upon me. During those days I realized how much I need to labour at acquiring humility and at bearing with my neighbour. I have been trying to acquire these virtues during the past year, and with Our Lord's help have practised them somewhat. But it is His doing, not mine, and if it please Him I will so continue as He gives me many opportunities for the practice of them. For my part it seems to me that I am in a simple state of waiting on the good pleasure of God to do whatever He wills with me. I have no desires, no plans; I hold to nothing, and very willingly leave myself in His hands; still, I do this without sensible devotion, but I think it is all right at the bottom of my heart. I just do at the present moment what seems to me necessary without thinking any further, or planning for the future. The whole inferior part of my being is frequently in revolt, and this causes me much distress. I can but bear with it, knowing that through patience I shall possess my soul. Moreover, I have an ever increasing weariness of my charge, for I cannot endure the labour it entails, and I am obliged to force myself to do the necessary work which is wearisome to both mind and body. No matter how I am occupied, my imagination gives me a good deal of trouble, and it all makes me sick at heart. Our Lord permits me besides to have many exterior difficulties, so that nothing in life gives me pleasure save only the will of God who wills them. I beseech you to implore Him to have mercy on me, and I shall never fail to pray Him with all my heart to give you the strength you need for the charge that He has entrusted to you.

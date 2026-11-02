@@ -1,0 +1,7 @@
+# Letter XCVI. To the Countess de Toulonjon, at Alonne
+
+Vive ✠ Jésus!
+
+ANNECY, 1634.
+
+I see by your letter that you are in great grief, and it touches me deeply. There is no doubt about it, your troubles are great, and viewed in this world's judgement they are of a very distressing nature. But look up, above these low and wretched passing things, to that blessed eternity in which is to be found great and endless consolation, and you will be glad that those for whom you mourn are in the happy possession of it, and a sweet peace will fill your heart amidst the vicissitudes of this mortal life. Ah! when shall we give a little reflection to these truths of faith? When shall we, dearest daughter, relish the sweetness of the divine will? When shall we see in all that happens to us the good pleasure of God? Whether He sends prosperity or adversity, He intends all equally for our greater good, and gives all with a love which to us is incomprehensible. But, miserable creatures that we are, we turn into poison the remedies meant for our cure. Let us not do this any more, rather let us lovingly submit like obedient children and co-operate with the designs of our heavenly Father, whose only aim in sending us affliction is to unite us more intimately to Himself. If we so act, He will be all to us, He will take the place of brother, son, husband, mother, of all things. Take courage from these strengthening thoughts. I pray Our Lord to give you a knowledge of the rich treasures which He, in His goodness, shuts up in the afflictions He sends us.

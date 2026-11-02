@@ -1,0 +1,11 @@
+# Letter LXII. To Mother Anne Catherine de Beaumont, Superior of the First Monastery of Paris
+
+Vive ✠ Jésus!
+
+ANNECY,
+
+_Jan. 6, 1626._
+
+Praise be to our Good God! I assure you, my very dear daughter, that it has been a great consolation to me to read your letter and to see the state of your good heart, in which I perceive the divine Goodness diffuses many holy and profitable lights which you turn to good account. These thoughts are worthy of being noted; they are beautiful, and are great graces from the divine mercy. And so is this diversity of states in which you continually find yourself, for it holds the soul more detached and more simply united to its God in whom all its happiness consists. I see also that suffering is not wanting to you. Suffering is the crucible in which Our Lord wishes entirely to purify you. Your interior correspondence ought wholly to consist in a simple handing over of yourself, in a complete self-surrender; then for the exterior, humility, submissiveness and meekness. And I beseech you, even if interior lights superabound, not to fail to seek counsel, preferring the opinions of others to your own, in as far as it is possible. This is one of the chief fruits of that most holy humility which should inspire all our actions. Indeed, had your letter been as long again it would only have been all the more welcome to me. May God give me the grace to draw profit from it! Although in my unworthiness I cannot walk by so high and excellent a way, still, I hope that it will do me good.
+
+I am very glad that you have received those two good subjects, and I thank you with all my heart for our little Adrienne. It is quite true that our dear Mgr. Bourges grows daily in piety and devotion, which, methinks, must be real because there is so much humility, meekness of heart, and detachment from the things of earth about it. We shall pray very specially for good M. de N. He is a person whom I always look up to, and so I do to the Rev. Father Superior. I send them both my respectful salutations. Hold yourself very humble, my dearest daughter, and think yourself very unworthy of the graces of God: for this little holding back will draw them on you all the more. I pray His Goodness daily to increase these graces in your soul, which I love more than I can express.

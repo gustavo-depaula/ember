@@ -1,0 +1,724 @@
+{
+  "id": "chantal-lettres-harrow-1918",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Selected Letters (Harrow, 1918)",
+    "pt-BR": "Cartas escolhidas (Harrow, 1918)"
+  },
+  "author": {
+    "fr-FR": "Sainte Jeanne-Françoise Frémyot de Chantal",
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "description": {
+    "en-US": "A selection of 111 letters of St. Jane Frances de Chantal, translated from the Plon edition by the Sisters of the Visitation, Harrow-on-the-Hill, with a preface by Cardinal Bourne and the judgment of St. Francis de Sales on her virtues. To St. Francis de Sales, the first Mothers of the Visitation, her children and the great of her day.",
+    "pt-BR": "Seleção de 111 cartas de santa Joana Francisca de Chantal, traduzidas da edição Plon pelas Irmãs da Visitação de Harrow-on-the-Hill, com prefácio do cardeal Bourne e o juízo de são Francisco de Sales sobre as virtudes da Santa."
+  },
+  "composed": "1611–1641",
+  "languages": [
+    "en-US"
+  ],
+  "work": "jane-de-chantal/lettres",
+  "editions": {
+    "en-US": {
+      "translator": "Sisters of the Visitation, Harrow-on-the-Hill",
+      "year": 1918
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/50592",
+      "edition": "Selected Letters of Saint Jane Frances de Chantal, tr. the Sisters of the Visitation, Harrow, preface by Cardinal Bourne, R. & T. Washbourne, London, 1918 (imprimatur 1917). Project Gutenberg #50592 (Distributed Proofreaders).",
+      "description": "Gutenberg text with the Gutenberg header and licence removed; the translators’ footnotes are kept. \"Vive [+] Jésus\" keeps the cross of the original. Letters are numbered as in this selection, not as in Plon.",
+      "tier": "A",
+      "tierEvidence": "Published London 1918; translators’ imprimatur 1917."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface (Cardinal Bourne)"
+      }
+    },
+    {
+      "id": "translators-preface",
+      "title": {
+        "en-US": "Translators’ Preface"
+      }
+    },
+    {
+      "id": "judgment",
+      "title": {
+        "en-US": "Judgment of St. Francis de Sales on the Virtues of Mother de Chantal"
+      }
+    },
+    {
+      "id": "letter-001",
+      "title": {
+        "en-US": "Letter I. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-002",
+      "title": {
+        "en-US": "Letter II. To the Same"
+      }
+    },
+    {
+      "id": "letter-003",
+      "title": {
+        "en-US": "Letter III. To M. Legros at Dijon"
+      }
+    },
+    {
+      "id": "letter-004",
+      "title": {
+        "en-US": "Letter IV. The Duke of Savoy to St. Jane Frances de Chantal"
+      }
+    },
+    {
+      "id": "letter-005",
+      "title": {
+        "en-US": "Letter V. To Madame d'Auxerre, Foundress of the Monastery of the Visitation at Lyons"
+      }
+    },
+    {
+      "id": "letter-006",
+      "title": {
+        "en-US": "Letter VI. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-007",
+      "title": {
+        "en-US": "Letter VII. To the Sisters of the Monastery of the Visitation of Annecy"
+      }
+    },
+    {
+      "id": "letter-008",
+      "title": {
+        "en-US": "Letter VIII. To Sister Jeanne Charlotte de Bréchard, Assistant and Mistress of Novices at Annecy"
+      }
+    },
+    {
+      "id": "letter-009",
+      "title": {
+        "en-US": "Letter IX. To Sister Péronne Marie de Châtel at Lyons"
+      }
+    },
+    {
+      "id": "letter-010",
+      "title": {
+        "en-US": "Letter X. To Mother Marie Jacqueline Favre, Superior at Lyons"
+      }
+    },
+    {
+      "id": "letter-011",
+      "title": {
+        "en-US": "Letter XI. To the Same"
+      }
+    },
+    {
+      "id": "letter-012",
+      "title": {
+        "en-US": "Letter XII. To the Same"
+      }
+    },
+    {
+      "id": "letter-013",
+      "title": {
+        "en-US": "Letter XIII. To Sister Péronne Marie de Châtel at Lyons"
+      }
+    },
+    {
+      "id": "letter-014",
+      "title": {
+        "en-US": "Letter XIV. To Mother Marie Jacqueline Favre, Superior at Lyons"
+      }
+    },
+    {
+      "id": "letter-015",
+      "title": {
+        "en-US": "Letter XV. To Sisters Péronne Marie de Châtel and Marie Aimée de Blonay"
+      }
+    },
+    {
+      "id": "letter-016",
+      "title": {
+        "en-US": "Letter XVI. To Mother M. J. Favre"
+      }
+    },
+    {
+      "id": "letter-017",
+      "title": {
+        "en-US": "Letter XVII. To Madame de Gouffier"
+      }
+    },
+    {
+      "id": "letter-018",
+      "title": {
+        "en-US": "Letter XVIII. To Mother Jacqueline Favre, Superior at Lyons"
+      }
+    },
+    {
+      "id": "letter-019",
+      "title": {
+        "en-US": "Letter XIX. To Sister Marie Aimée de Blonay, Mistress of Novices at Lyons"
+      }
+    },
+    {
+      "id": "letter-020",
+      "title": {
+        "en-US": "Letter XX. To the Same"
+      }
+    },
+    {
+      "id": "letter-021",
+      "title": {
+        "en-US": "Letter XXI. To Mother Marie Jacqueline Favre, Superior at Lyons"
+      }
+    },
+    {
+      "id": "letter-022",
+      "title": {
+        "en-US": "Letter XXII. To the Same"
+      }
+    },
+    {
+      "id": "letter-023",
+      "title": {
+        "en-US": "Letter XXIII. To Mother Jeanne Charlotte de Bréchard, Superior at Moulins. On the death of the Saint's daughter, Madame de Thorens"
+      }
+    },
+    {
+      "id": "letter-024",
+      "title": {
+        "en-US": "Letter XXIV. To M. de Neuchèze, the Saint's nephew"
+      }
+    },
+    {
+      "id": "letter-025",
+      "title": {
+        "en-US": "Letter XXV. To Mother Marie Jacqueline Favre, Superior at Lyons"
+      }
+    },
+    {
+      "id": "letter-026",
+      "title": {
+        "en-US": "Letter XXVI. To Madame de la Fléchère"
+      }
+    },
+    {
+      "id": "letter-027",
+      "title": {
+        "en-US": "Letter XXVII. To Sister Paule Jéronyme de Monthoux, Mistress of Novices at Annecy"
+      }
+    },
+    {
+      "id": "letter-028",
+      "title": {
+        "en-US": "Letter XXVIII. To M. Michel Favre, Confessor to St. Francis de Sales, and to the Religious of the Visitation at Annecy"
+      }
+    },
+    {
+      "id": "letter-029",
+      "title": {
+        "en-US": "Letter XXIX. To Sister Anne Marie Rosset, Assistant at Annecy"
+      }
+    },
+    {
+      "id": "letter-030",
+      "title": {
+        "en-US": "Letter XXX. To Sister Paul Jéronyme de Monthoux, Mistress of Novices at Annecy"
+      }
+    },
+    {
+      "id": "letter-031",
+      "title": {
+        "en-US": "Letter XXXI. To Madame de la Fléchère"
+      }
+    },
+    {
+      "id": "letter-032",
+      "title": {
+        "en-US": "Letter XXXII. To Mother Jeanne Charlotte de Bréchard, Superior at Moulins"
+      }
+    },
+    {
+      "id": "letter-033",
+      "title": {
+        "en-US": "Letter XXXIII. To Mother Péronne Marie de Châtel, Superior at Grenoble"
+      }
+    },
+    {
+      "id": "letter-034",
+      "title": {
+        "en-US": "Letter XXXIV. To Mother Marie Jacqueline Favre, Superior at Lyons"
+      }
+    },
+    {
+      "id": "letter-035",
+      "title": {
+        "en-US": "Letter XXXV. To Sister Marie-Avoye Humbert, at Moulins"
+      }
+    },
+    {
+      "id": "letter-036",
+      "title": {
+        "en-US": "Letter XXXVI. To the Sisters of the Visitation of Bourges"
+      }
+    },
+    {
+      "id": "letter-037",
+      "title": {
+        "en-US": "Letter XXXVII. To the Sisters of the Visitation of Moulins"
+      }
+    },
+    {
+      "id": "letter-038",
+      "title": {
+        "en-US": "Letter XXXVIII. To Mother Péronne-Marie de Châtel, Superior at Grenoble"
+      }
+    },
+    {
+      "id": "letter-039",
+      "title": {
+        "en-US": "Letter XXXIX. To Mademoiselle de Chantal"
+      }
+    },
+    {
+      "id": "letter-040",
+      "title": {
+        "en-US": "Letter XL. To Mother Jeanne Charlotte de Bréchard, Superior at Moulins"
+      }
+    },
+    {
+      "id": "letter-041",
+      "title": {
+        "en-US": "Letter XLI. To Mademoiselle de Chantal"
+      }
+    },
+    {
+      "id": "letter-042",
+      "title": {
+        "en-US": "Letter XLII. To Sister Marie-Marthe Legros, at Bourges"
+      }
+    },
+    {
+      "id": "letter-043",
+      "title": {
+        "en-US": "Letter XLIII. To Madame du Tertre"
+      }
+    },
+    {
+      "id": "letter-044",
+      "title": {
+        "en-US": "Letter XLIV. To M. de Palierne, Treasurer of France at Moulins"
+      }
+    },
+    {
+      "id": "letter-045",
+      "title": {
+        "en-US": "Letter XLV. To St. Francis de Sales"
+      }
+    },
+    {
+      "id": "letter-046",
+      "title": {
+        "en-US": "Letter XLVI. To Madame de la Fléchère"
+      }
+    },
+    {
+      "id": "letter-047",
+      "title": {
+        "en-US": "Letter XLVII. To the Countess de Toulonjon"
+      }
+    },
+    {
+      "id": "letter-048",
+      "title": {
+        "en-US": "Letter XLVIII. To Mother Marie Jacqueline Favre, Superior at Montferrand"
+      }
+    },
+    {
+      "id": "letter-049",
+      "title": {
+        "en-US": "Letter XLIX. To M. de Neuchèze"
+      }
+    },
+    {
+      "id": "letter-050",
+      "title": {
+        "en-US": "Letter L. To Mother Anne Catherine de Beaumont, Superior of the First Monastery of Paris"
+      }
+    },
+    {
+      "id": "letter-051",
+      "title": {
+        "en-US": "Letter LI. To Mother Marie Jacqueline Favre, Superior at Dijon"
+      }
+    },
+    {
+      "id": "letter-052",
+      "title": {
+        "en-US": "Letter LII. To Mother Anne Catherine de Beaumont, Superior of the First Monastery of Paris"
+      }
+    },
+    {
+      "id": "letter-053",
+      "title": {
+        "en-US": "Letter LIII. To Mother Marie Hélène de Chastellux, Superior at Moulins"
+      }
+    },
+    {
+      "id": "letter-054",
+      "title": {
+        "en-US": "Letter LIV. To Sister Marie Marguerite Milletot at Dijon"
+      }
+    },
+    {
+      "id": "letter-055",
+      "title": {
+        "en-US": "Letter LV. To Sister Françoise Gasparde de la Grave, Assistant to the Superior at Belley"
+      }
+    },
+    {
+      "id": "letter-056",
+      "title": {
+        "en-US": "Letter LVI. To Mgr. the Bishop of Autun"
+      }
+    },
+    {
+      "id": "letter-057",
+      "title": {
+        "en-US": "Letter LVII. To Sister Anne Marie Rosset, Assistant and Mistress of Novices at Dijon"
+      }
+    },
+    {
+      "id": "letter-058",
+      "title": {
+        "en-US": "Letter LVIII. To the Rev. Father Dom John de Saint François, General of the Order of Feuillants"
+      }
+    },
+    {
+      "id": "letter-059",
+      "title": {
+        "en-US": "Letter LIX. To a Religious of the First Monastery of the Visitation at Paris"
+      }
+    },
+    {
+      "id": "letter-060",
+      "title": {
+        "en-US": "Letter LX. To the Countess de Toulonjon"
+      }
+    },
+    {
+      "id": "letter-061",
+      "title": {
+        "en-US": "Letter LXI. To Sister Anne Catherine de Sautereau, Mistress of Novices at Grenoble"
+      }
+    },
+    {
+      "id": "letter-062",
+      "title": {
+        "en-US": "Letter LXII. To Mother Anne Catherine de Beaumont, Superior of the First Monastery of Paris"
+      }
+    },
+    {
+      "id": "letter-063",
+      "title": {
+        "en-US": "Letter LXIII. To the Same"
+      }
+    },
+    {
+      "id": "letter-064",
+      "title": {
+        "en-US": "Letter LXIV. Mother Marie Adrienne Fichet, Superior at Rumilly"
+      }
+    },
+    {
+      "id": "letter-065",
+      "title": {
+        "en-US": "Letter LXV. To the Sisters of the Visitation"
+      }
+    },
+    {
+      "id": "letter-066",
+      "title": {
+        "en-US": "Letter LXVI. To Sister Anne Marie de Lage de Puylaurens, Assistant and Mistress of Novices at Bourges"
+      }
+    },
+    {
+      "id": "letter-067",
+      "title": {
+        "en-US": "Letter LXVII. To the Baron de Chantal, the Saint's Son"
+      }
+    },
+    {
+      "id": "letter-068",
+      "title": {
+        "en-US": "Letter LXVIII. To the Same"
+      }
+    },
+    {
+      "id": "letter-069",
+      "title": {
+        "en-US": "Letter LXIX. To M. de Coulanges, Junior, at Paris"
+      }
+    },
+    {
+      "id": "letter-070",
+      "title": {
+        "en-US": "Letter LXX. To the Countess de Toulonjon"
+      }
+    },
+    {
+      "id": "letter-071",
+      "title": {
+        "en-US": "Letter LXXI. To the Same"
+      }
+    },
+    {
+      "id": "letter-072",
+      "title": {
+        "en-US": "Letter LXXII. To Mother Marie-Adrienne Fichet, Superior at Rumilly"
+      }
+    },
+    {
+      "id": "letter-073",
+      "title": {
+        "en-US": "Letter LXXIII. To Mother Anne Catherine de Beaumont, Superior of the First Monastery of Paris"
+      }
+    },
+    {
+      "id": "letter-074",
+      "title": {
+        "en-US": "Letter LXXIV. To a Visitation Superior"
+      }
+    },
+    {
+      "id": "letter-075",
+      "title": {
+        "en-US": "Letter LXXV. To Mother Jeanne Hélène de Gérard, Superior at Embrun"
+      }
+    },
+    {
+      "id": "letter-076",
+      "title": {
+        "en-US": "Letter LXXVI. To Sister Françoise-Angélique de la Croix de Fésigney, Mistress of Novices at Riom"
+      }
+    },
+    {
+      "id": "letter-077",
+      "title": {
+        "en-US": "Letter LXXVII. To St. Vincent de Paul"
+      }
+    },
+    {
+      "id": "letter-078",
+      "title": {
+        "en-US": "Letter LXXVIII. To the Countess de Toulonjon"
+      }
+    },
+    {
+      "id": "letter-079",
+      "title": {
+        "en-US": "Letter LXXIX. Extract from a letter to Mother Favre"
+      }
+    },
+    {
+      "id": "letter-080",
+      "title": {
+        "en-US": "Letter LXXX. To Sister Anne Marguerite Clément at Orleans"
+      }
+    },
+    {
+      "id": "letter-081",
+      "title": {
+        "en-US": "Letter LXXXI. To Mother Catherine-Charlotte de Crémaux de la Grange"
+      }
+    },
+    {
+      "id": "letter-082",
+      "title": {
+        "en-US": "Letter LXXXII. To M. Poiton, at Chambery"
+      }
+    },
+    {
+      "id": "letter-083",
+      "title": {
+        "en-US": "Letter LXXXIII. To Dom Galice, Barnabite Father at Montargis"
+      }
+    },
+    {
+      "id": "letter-084",
+      "title": {
+        "en-US": "Letter LXXXIV. To the Same"
+      }
+    },
+    {
+      "id": "letter-085",
+      "title": {
+        "en-US": "Letter LXXXV. To Mother Anne Marguerite Clément, Superior at Montargis"
+      }
+    },
+    {
+      "id": "letter-086",
+      "title": {
+        "en-US": "Letter LXXXVI. To Sister Marie Denise Goubert, of the First Monastery of Lyons"
+      }
+    },
+    {
+      "id": "letter-087",
+      "title": {
+        "en-US": "Letter LXXXVII. To Dom Galice, Barnabite Father at Montargis"
+      }
+    },
+    {
+      "id": "letter-088",
+      "title": {
+        "en-US": "Letter LXXXVIII. To Sister Marie Aimée de Morville, at Moulins"
+      }
+    },
+    {
+      "id": "letter-089",
+      "title": {
+        "en-US": "Letter LXXXIX. To M. de Coysia, Counsellor to the Royal Senate of Savoy"
+      }
+    },
+    {
+      "id": "letter-090",
+      "title": {
+        "en-US": "Letter XC. To the Countess de Toulonjon, at Pignerol"
+      }
+    },
+    {
+      "id": "letter-091",
+      "title": {
+        "en-US": "Letter XCI. To Mgr. André Frémyot, formerly Archbishop of Bourges (the Saint's brother)"
+      }
+    },
+    {
+      "id": "letter-092",
+      "title": {
+        "en-US": "Letter XCII. To a blind Sister"
+      }
+    },
+    {
+      "id": "letter-093",
+      "title": {
+        "en-US": "Letter XCIII. To Sister Bonne Marie de Haraucourt at Nancy"
+      }
+    },
+    {
+      "id": "letter-094",
+      "title": {
+        "en-US": "Letter XCIV. To Sister Paule Jéronyme de Monthoux, Sister Deposed, at Blois"
+      }
+    },
+    {
+      "id": "letter-095",
+      "title": {
+        "en-US": "Letter XCV. To M. Noël Brulart, the Commander de Sillery"
+      }
+    },
+    {
+      "id": "letter-096",
+      "title": {
+        "en-US": "Letter XCVI. To the Countess de Toulonjon, at Alonne"
+      }
+    },
+    {
+      "id": "letter-097",
+      "title": {
+        "en-US": "Letter XCVII. Extract from a letter to M. Noël Brulart, the Commander de Sillery, at Paris"
+      }
+    },
+    {
+      "id": "letter-098",
+      "title": {
+        "en-US": "Letter XCVIII. To the Countess de Toulonjon"
+      }
+    },
+    {
+      "id": "letter-099",
+      "title": {
+        "en-US": "Letter XCIX. To Sister Marie Aimée de Rabutin, Mistress of Novices at Annecy"
+      }
+    },
+    {
+      "id": "letter-100",
+      "title": {
+        "en-US": "Letter C. To M. Noël Brulart, Commander de Sillery, at Paris"
+      }
+    },
+    {
+      "id": "letter-101",
+      "title": {
+        "en-US": "Letter CI. To Mother Marie Agnes Le Roy, Superior of the Second Monastery of Paris"
+      }
+    },
+    {
+      "id": "letter-102",
+      "title": {
+        "en-US": "Letter CII. To Sister Anne Louise de Marin de Saint Michel, Superior at Forcalquier"
+      }
+    },
+    {
+      "id": "letter-103",
+      "title": {
+        "en-US": "Letter CIII. To the Abbê de Vaux"
+      }
+    },
+    {
+      "id": "letter-104",
+      "title": {
+        "en-US": "Letter CIV. To a great Servant of God"
+      }
+    },
+    {
+      "id": "letter-105",
+      "title": {
+        "en-US": "Letter CV. To Mother Marie Aimée de Rabutin, Superior at Thonon"
+      }
+    },
+    {
+      "id": "letter-106",
+      "title": {
+        "en-US": "Letter CVI. To St. Vincent de Paul at Paris"
+      }
+    },
+    {
+      "id": "letter-107",
+      "title": {
+        "en-US": "Letter CVII. To Sister Claire-Marie-Françoise de Cusance at Gray"
+      }
+    },
+    {
+      "id": "letter-108",
+      "title": {
+        "en-US": "Letter CVIII. To Sister Jeanne Benigne Gojos, Lay Sister at Turin"
+      }
+    },
+    {
+      "id": "letter-109",
+      "title": {
+        "en-US": "Letter CIX. To the Sister Louise-Angélique de la Fayette, at the First Monastery of Paris"
+      }
+    },
+    {
+      "id": "letter-110",
+      "title": {
+        "en-US": "Letter CX. To Madame the Duchess de Montmorency (née des Ursins)"
+      }
+    },
+    {
+      "id": "letter-111",
+      "title": {
+        "en-US": "Letter CXI. To a Novice"
+      }
+    }
+  ]
+}
