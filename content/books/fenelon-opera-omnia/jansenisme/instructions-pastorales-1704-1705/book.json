@@ -1,0 +1,258 @@
+{
+  "id": "fenelon-jansenisme-instructions-pastorales",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Jansénisme II : seconde, troisième et quatrième Instructions pastorales (1704-1705)",
+    "en-US": "Jansenism II: the Second, Third and Fourth Pastoral Instructions (1704-1705)",
+    "pt-BR": "Jansenismo II: segunda, terceira e quarta Instruções pastorais (1704-1705)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les trois Instructions pastorales qui suivent la première contre le Cas de conscience : éclaircissement des difficultés proposées (1704), preuves de la tradition sur l’infaillibilité de l’Église touchant les textes dogmatiques (1705), puis la signature du Formulaire exigée par l’Église (1705).",
+    "en-US": "The three Pastoral Instructions that follow the first against the Case of Conscience: clarification of the difficulties raised (1704), proofs from tradition for the Church’s infallibility on dogmatic texts (1705), then the signing of the Formulary required by the Church (1705).",
+    "pt-BR": "As três Instruções pastorais que seguem a primeira contra o Caso de consciência: esclarecimento das dificuldades propostas (1704), provas da tradição sobre a infalibilidade da Igreja quanto aos textos dogmáticos (1705), depois a assinatura do Formulário exigida pela Igreja (1705)."
+  },
+  "composed": "1704–1705",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/instructions-pastorales-1704-1705",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte04fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 4, p. 5–337; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-seconde-instruction",
+      "title": {
+        "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience"
+      },
+      "children": [
+        {
+          "id": "01-seconde-instruction-01",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 1"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-02",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 2"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-03",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 3"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-04",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 4"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-05",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 5"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-06",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 6"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-07",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 7"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-08",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 8"
+          }
+        },
+        {
+          "id": "01-seconde-instruction-09",
+          "title": {
+            "fr-FR": "Seconde Instruction pastorale sur le Cas de conscience, partie 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-troisieme-instruction",
+      "title": {
+        "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église"
+      },
+      "children": [
+        {
+          "id": "02-troisieme-instruction-01",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 1"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-02",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 2"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-03",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 3"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-04",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 4"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-05",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 5"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-06",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 6"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-07",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 7"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-08",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 8"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-09",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 9"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-10",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 10"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-11",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 11"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-12",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 12"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-13",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 13"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-14",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 14"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-15",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 15"
+          }
+        },
+        {
+          "id": "02-troisieme-instruction-16",
+          "title": {
+            "fr-FR": "Troisième Instruction pastorale : la tradition sur l’infaillibilité de l’Église, partie 16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-quatrieme-instruction",
+      "title": {
+        "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire"
+      },
+      "children": [
+        {
+          "id": "03-quatrieme-instruction-01",
+          "title": {
+            "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire, partie 1"
+          }
+        },
+        {
+          "id": "03-quatrieme-instruction-02",
+          "title": {
+            "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire, partie 2"
+          }
+        },
+        {
+          "id": "03-quatrieme-instruction-03",
+          "title": {
+            "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire, partie 3"
+          }
+        },
+        {
+          "id": "03-quatrieme-instruction-04",
+          "title": {
+            "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire, partie 4"
+          }
+        },
+        {
+          "id": "03-quatrieme-instruction-05",
+          "title": {
+            "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire, partie 5"
+          }
+        },
+        {
+          "id": "03-quatrieme-instruction-06",
+          "title": {
+            "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire, partie 6"
+          }
+        },
+        {
+          "id": "03-quatrieme-instruction-07",
+          "title": {
+            "fr-FR": "Quatrième Instruction pastorale : la signature du Formulaire, partie 7"
+          }
+        }
+      ]
+    }
+  ]
+}
