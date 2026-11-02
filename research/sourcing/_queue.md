@@ -33,7 +33,7 @@ The first wave (one or two works per author) is done. This queue imports each au
 - [x] Rhineland mystics (18 books; Ruusbroec complete in Middle Dutch). Left: Suso and Tauler in Middle High German (Bihlmeyer and Vetter only as Gothic-type OCR or not online), Ruusbroec letters, Winkworth's Tauler, Suso's Portuguese Vida (long-s)
 - [x] Augustine in Latin (Latin beside 47 NPNF books; 79 new Latin books incl. ~150 letters and ~500 sermons). Left: LF 22 English for De fide et operibus and De agone christiano, the full LF Enarrationes (OCR needs audit), Possidius's Vita, the Outler Confessions book
 - [x] Councils (rest) · Denzinger (all 21 councils; Denzinger partial). Left: Trent's Latin bull/acclamations/confirmation, English for Constance, Florence, Lateran V, the early councils' creeds and letters in Greek/Latin, a proper 1911 Denzinger transcription (D 1–47 and 65 more missing)
-- [ ] Catechisms (rest)
+- [x] Catechisms (rest; 9 books: Baltimore 1 and 3, Deharbe en/de, Canisius (Garnet), Gaume (Jamison, pt-PT Resumo), Spirago Explained, Butler). Left: Roman Catechism Latin (1830 Turin OCR needs proofing), Canisius Latin, Gaume French (8 vols), Spirago German and Anecdotes, Lynch's Deharbe, Astete
 - [ ] Newman (Catholic works)
 - [ ] Faber · Challoner (rest) · Manning
 - [ ] R. H. Benson · More & Fisher
