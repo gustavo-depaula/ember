@@ -2,15 +2,26 @@
   "id": "augustine-enarrations-or-expositions-on-the-psalms",
   "cover": "quarter",
   "name": {
+    "la": "Enarrationes in Psalmos",
     "en-US": "The Enarrations, or Expositions, on the Psalms"
   },
   "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
     "en-US": "Augustine of Hippo"
   },
   "languages": [
+    "la",
     "en-US"
   ],
   "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/esposizioni_salmi/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages esposizioni_salmi of augustinus.it, one page per book/letter/sermon, split to the same chapter files as the English. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    },
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/1801.htm",
@@ -21,906 +32,1070 @@
     {
       "id": "ch001",
       "title": {
+        "la": "Psalmus 1",
         "en-US": "Psalm 1"
       }
     },
     {
       "id": "ch002",
       "title": {
+        "la": "Psalmus 2",
         "en-US": "Psalm 2"
       }
     },
     {
       "id": "ch003",
       "title": {
+        "la": "Psalmus 3",
         "en-US": "Psalm 3"
       }
     },
     {
       "id": "ch004",
       "title": {
+        "la": "Psalmus 4",
         "en-US": "Psalm 4"
       }
     },
     {
       "id": "ch005",
       "title": {
+        "la": "Psalmus 5",
         "en-US": "Psalm 5"
       }
     },
     {
       "id": "ch006",
       "title": {
+        "la": "Psalmus 6",
         "en-US": "Psalm 6"
       }
     },
     {
       "id": "ch007",
       "title": {
+        "la": "Psalmus 7",
         "en-US": "Psalm 7"
       }
     },
     {
       "id": "ch008",
       "title": {
+        "la": "Psalmus 8",
         "en-US": "Psalm 8"
       }
     },
     {
       "id": "ch009",
       "title": {
+        "la": "Psalmus 9",
         "en-US": "Psalm 9"
       }
     },
     {
       "id": "ch010",
       "title": {
+        "la": "Psalmus 10",
         "en-US": "Psalm 10"
       }
     },
     {
       "id": "ch011",
       "title": {
+        "la": "Psalmus 11",
         "en-US": "Psalm 11"
       }
     },
     {
       "id": "ch012",
       "title": {
+        "la": "Psalmus 12",
         "en-US": "Psalm 12"
       }
     },
     {
       "id": "ch013",
       "title": {
+        "la": "Psalmus 13",
         "en-US": "Psalm 13"
       }
     },
     {
       "id": "ch014",
       "title": {
+        "la": "Psalmus 14",
         "en-US": "Psalm 14"
       }
     },
     {
       "id": "ch015",
       "title": {
+        "la": "Psalmus 15",
         "en-US": "Psalm 15"
       }
     },
     {
       "id": "ch016",
       "title": {
+        "la": "Psalmus 16",
         "en-US": "Psalm 16"
       }
     },
     {
       "id": "ch017",
       "title": {
+        "la": "Psalmus 17",
         "en-US": "Psalm 17"
       }
     },
     {
       "id": "ch018",
       "title": {
+        "la": "Psalmus 18",
         "en-US": "Psalm 18"
       }
     },
     {
       "id": "ch019",
       "title": {
+        "la": "Psalmus 19",
         "en-US": "Psalm 19"
       }
     },
     {
       "id": "ch020",
       "title": {
+        "la": "Psalmus 20",
         "en-US": "Psalm 20"
       }
     },
     {
       "id": "ch021",
       "title": {
+        "la": "Psalmus 21",
         "en-US": "Psalm 21"
       }
     },
     {
       "id": "ch022",
       "title": {
+        "la": "Psalmus 22",
         "en-US": "Psalm 22"
       }
     },
     {
       "id": "ch023",
       "title": {
+        "la": "Psalmus 23",
         "en-US": "Psalm 23"
       }
     },
     {
       "id": "ch024",
       "title": {
+        "la": "Psalmus 24",
         "en-US": "Psalm 24"
       }
     },
     {
       "id": "ch025",
       "title": {
+        "la": "Psalmus 25",
         "en-US": "Psalm 25"
       }
     },
     {
       "id": "ch026",
       "title": {
+        "la": "Psalmus 26",
         "en-US": "Psalm 26"
       }
     },
     {
       "id": "ch027",
       "title": {
+        "la": "Psalmus 27",
         "en-US": "Psalm 27"
       }
     },
     {
       "id": "ch028",
       "title": {
+        "la": "Psalmus 28",
         "en-US": "Psalm 28"
       }
     },
     {
       "id": "ch029",
       "title": {
+        "la": "Psalmus 29",
         "en-US": "Psalm 29"
       }
     },
     {
       "id": "ch030",
       "title": {
+        "la": "Psalmus 30",
         "en-US": "Psalm 30"
       }
     },
     {
       "id": "ch031",
       "title": {
+        "la": "Psalmus 31",
         "en-US": "Psalm 31"
       }
     },
     {
       "id": "ch032",
       "title": {
+        "la": "Psalmus 32",
         "en-US": "Psalm 32"
       }
     },
     {
       "id": "ch033",
       "title": {
+        "la": "Psalmus 33",
         "en-US": "Psalm 33"
       }
     },
     {
       "id": "ch034",
       "title": {
+        "la": "Psalmus 34",
         "en-US": "Psalm 34"
       }
     },
     {
       "id": "ch035",
       "title": {
+        "la": "Psalmus 35",
         "en-US": "Psalm 35"
       }
     },
     {
       "id": "ch036",
       "title": {
+        "la": "Psalmus 36",
         "en-US": "Psalm 36"
       }
     },
     {
       "id": "ch037",
       "title": {
+        "la": "Psalmus 37",
         "en-US": "Psalm 37"
       }
     },
     {
       "id": "ch038",
       "title": {
+        "la": "Psalmus 38",
         "en-US": "Psalm 38"
       }
     },
     {
       "id": "ch039",
       "title": {
+        "la": "Psalmus 39",
         "en-US": "Psalm 39"
       }
     },
     {
       "id": "ch040",
       "title": {
+        "la": "Psalmus 40",
         "en-US": "Psalm 40"
       }
     },
     {
       "id": "ch041",
       "title": {
+        "la": "Psalmus 41",
         "en-US": "Psalm 41"
       }
     },
     {
       "id": "ch042",
       "title": {
+        "la": "Psalmus 42",
         "en-US": "Psalm 42"
       }
     },
     {
       "id": "ch043",
       "title": {
+        "la": "Psalmus 43",
         "en-US": "Psalm 43"
       }
     },
     {
       "id": "ch044",
       "title": {
+        "la": "Psalmus 44",
         "en-US": "Psalm 44"
       }
     },
     {
       "id": "ch045",
       "title": {
+        "la": "Psalmus 45",
         "en-US": "Psalm 45"
       }
     },
     {
       "id": "ch046",
       "title": {
+        "la": "Psalmus 46",
         "en-US": "Psalm 46"
       }
     },
     {
       "id": "ch047",
       "title": {
+        "la": "Psalmus 47",
         "en-US": "Psalm 47"
       }
     },
     {
       "id": "ch048",
       "title": {
+        "la": "Psalmus 48",
         "en-US": "Psalm 48"
       }
     },
     {
       "id": "ch049",
       "title": {
+        "la": "Psalmus 49",
         "en-US": "Psalm 49"
       }
     },
     {
       "id": "ch050",
       "title": {
+        "la": "Psalmus 50",
         "en-US": "Psalm 50"
       }
     },
     {
       "id": "ch051",
       "title": {
+        "la": "Psalmus 51",
         "en-US": "Psalm 51"
       }
     },
     {
       "id": "ch052",
       "title": {
+        "la": "Psalmus 52",
         "en-US": "Psalm 52"
       }
     },
     {
       "id": "ch053",
       "title": {
+        "la": "Psalmus 53",
         "en-US": "Psalm 53"
       }
     },
     {
       "id": "ch054",
       "title": {
+        "la": "Psalmus 54",
         "en-US": "Psalm 54"
       }
     },
     {
       "id": "ch055",
       "title": {
+        "la": "Psalmus 55",
         "en-US": "Psalm 55"
       }
     },
     {
       "id": "ch056",
       "title": {
+        "la": "Psalmus 56",
         "en-US": "Psalm 56"
       }
     },
     {
       "id": "ch057",
       "title": {
+        "la": "Psalmus 57",
         "en-US": "Psalm 57"
       }
     },
     {
       "id": "ch058",
       "title": {
+        "la": "Psalmus 58",
         "en-US": "Psalm 58"
       }
     },
     {
       "id": "ch059",
       "title": {
+        "la": "Psalmus 59",
         "en-US": "Psalm 59"
       }
     },
     {
       "id": "ch060",
       "title": {
+        "la": "Psalmus 60",
         "en-US": "Psalm 60"
       }
     },
     {
       "id": "ch061",
       "title": {
+        "la": "Psalmus 61",
         "en-US": "Psalm 61"
       }
     },
     {
       "id": "ch062",
       "title": {
+        "la": "Psalmus 62",
         "en-US": "Psalm 62"
       }
     },
     {
       "id": "ch063",
       "title": {
+        "la": "Psalmus 63",
         "en-US": "Psalm 63"
       }
     },
     {
       "id": "ch064",
       "title": {
+        "la": "Psalmus 64",
         "en-US": "Psalm 64"
       }
     },
     {
       "id": "ch065",
       "title": {
+        "la": "Psalmus 65",
         "en-US": "Psalm 65"
       }
     },
     {
       "id": "ch066",
       "title": {
+        "la": "Psalmus 66",
         "en-US": "Psalm 66"
       }
     },
     {
       "id": "ch067",
       "title": {
+        "la": "Psalmus 67",
         "en-US": "Psalm 67"
       }
     },
     {
       "id": "ch068",
       "title": {
+        "la": "Psalmus 68",
         "en-US": "Psalm 68"
       }
     },
     {
       "id": "ch069",
       "title": {
+        "la": "Psalmus 69",
         "en-US": "Psalm 69"
       }
     },
     {
       "id": "ch070",
       "title": {
+        "la": "Psalmus 70",
         "en-US": "Psalm 70"
       }
     },
     {
       "id": "ch071",
       "title": {
+        "la": "Psalmus 71",
         "en-US": "Psalm 71"
       }
     },
     {
       "id": "ch072",
       "title": {
+        "la": "Psalmus 72",
         "en-US": "Psalm 72"
       }
     },
     {
       "id": "ch073",
       "title": {
+        "la": "Psalmus 73",
         "en-US": "Psalm 73"
       }
     },
     {
       "id": "ch074",
       "title": {
+        "la": "Psalmus 74",
         "en-US": "Psalm 74"
       }
     },
     {
       "id": "ch075",
       "title": {
+        "la": "Psalmus 75",
         "en-US": "Psalm 75"
       }
     },
     {
       "id": "ch076",
       "title": {
+        "la": "Psalmus 76",
         "en-US": "Psalm 76"
       }
     },
     {
       "id": "ch077",
       "title": {
+        "la": "Psalmus 77",
         "en-US": "Psalm 77"
       }
     },
     {
       "id": "ch078",
       "title": {
+        "la": "Psalmus 78",
         "en-US": "Psalm 78"
       }
     },
     {
       "id": "ch079",
       "title": {
+        "la": "Psalmus 79",
         "en-US": "Psalm 79"
       }
     },
     {
       "id": "ch080",
       "title": {
+        "la": "Psalmus 80",
         "en-US": "Psalm 80"
       }
     },
     {
       "id": "ch081",
       "title": {
+        "la": "Psalmus 81",
         "en-US": "Psalm 81"
       }
     },
     {
       "id": "ch082",
       "title": {
+        "la": "Psalmus 82",
         "en-US": "Psalm 82"
       }
     },
     {
       "id": "ch083",
       "title": {
+        "la": "Psalmus 83",
         "en-US": "Psalm 83"
       }
     },
     {
       "id": "ch084",
       "title": {
+        "la": "Psalmus 84",
         "en-US": "Psalm 84"
       }
     },
     {
       "id": "ch085",
       "title": {
+        "la": "Psalmus 85",
         "en-US": "Psalm 85"
       }
     },
     {
       "id": "ch086",
       "title": {
+        "la": "Psalmus 86",
         "en-US": "Psalm 86"
       }
     },
     {
       "id": "ch087",
       "title": {
+        "la": "Psalmus 87",
         "en-US": "Psalm 87"
       }
     },
     {
       "id": "ch088",
       "title": {
+        "la": "Psalmus 88",
         "en-US": "Psalm 88"
       }
     },
     {
       "id": "ch089",
       "title": {
+        "la": "Psalmus 89",
         "en-US": "Psalm 89"
       }
     },
     {
       "id": "ch090",
       "title": {
+        "la": "Psalmus 90",
         "en-US": "Psalm 90"
       }
     },
     {
       "id": "ch091",
       "title": {
+        "la": "Psalmus 91",
         "en-US": "Psalm 91"
       }
     },
     {
       "id": "ch092",
       "title": {
+        "la": "Psalmus 92",
         "en-US": "Psalm 92"
       }
     },
     {
       "id": "ch093",
       "title": {
+        "la": "Psalmus 93",
         "en-US": "Psalm 93"
       }
     },
     {
       "id": "ch094",
       "title": {
+        "la": "Psalmus 94",
         "en-US": "Psalm 94"
       }
     },
     {
       "id": "ch095",
       "title": {
+        "la": "Psalmus 95",
         "en-US": "Psalm 95"
       }
     },
     {
       "id": "ch096",
       "title": {
+        "la": "Psalmus 96",
         "en-US": "Psalm 96"
       }
     },
     {
       "id": "ch097",
       "title": {
+        "la": "Psalmus 97",
         "en-US": "Psalm 97"
       }
     },
     {
       "id": "ch098",
       "title": {
+        "la": "Psalmus 98",
         "en-US": "Psalm 98"
       }
     },
     {
       "id": "ch099",
       "title": {
+        "la": "Psalmus 99",
         "en-US": "Psalm 99"
       }
     },
     {
       "id": "ch100",
       "title": {
+        "la": "Psalmus 100",
         "en-US": "Psalm 100"
       }
     },
     {
       "id": "ch101",
       "title": {
+        "la": "Psalmus 101",
         "en-US": "Psalm 101"
       }
     },
     {
       "id": "ch102",
       "title": {
+        "la": "Psalmus 102",
         "en-US": "Psalm 102"
       }
     },
     {
       "id": "ch103",
       "title": {
+        "la": "Psalmus 103",
         "en-US": "Psalm 103"
       }
     },
     {
       "id": "ch104",
       "title": {
+        "la": "Psalmus 104",
         "en-US": "Psalm 104"
       }
     },
     {
       "id": "ch105",
       "title": {
+        "la": "Psalmus 105",
         "en-US": "Psalm 105"
       }
     },
     {
       "id": "ch106",
       "title": {
+        "la": "Psalmus 106",
         "en-US": "Psalm 106"
       }
     },
     {
       "id": "ch107",
       "title": {
+        "la": "Psalmus 107",
         "en-US": "Psalm 107"
       }
     },
     {
       "id": "ch108",
       "title": {
+        "la": "Psalmus 108",
         "en-US": "Psalm 108"
       }
     },
     {
       "id": "ch109",
       "title": {
+        "la": "Psalmus 109",
         "en-US": "Psalm 109"
       }
     },
     {
       "id": "ch110",
       "title": {
+        "la": "Psalmus 110",
         "en-US": "Psalm 110"
       }
     },
     {
       "id": "ch111",
       "title": {
+        "la": "Psalmus 111",
         "en-US": "Psalm 111"
       }
     },
     {
       "id": "ch112",
       "title": {
+        "la": "Psalmus 112",
         "en-US": "Psalm 112"
       }
     },
     {
       "id": "ch113",
       "title": {
+        "la": "Psalmus 113",
         "en-US": "Psalm 113"
       }
     },
     {
       "id": "ch114",
       "title": {
+        "la": "Psalmus 114",
         "en-US": "Psalm 114"
       }
     },
     {
       "id": "ch115",
       "title": {
+        "la": "Psalmus 115",
         "en-US": "Psalm 115"
       }
     },
     {
       "id": "ch116",
       "title": {
+        "la": "Psalmus 116",
         "en-US": "Psalm 116"
       }
     },
     {
       "id": "ch117",
       "title": {
+        "la": "Psalmus 117",
         "en-US": "Psalm 117"
       }
     },
     {
       "id": "ch118",
       "title": {
+        "la": "Psalmus 118",
         "en-US": "Psalm 118"
       }
     },
     {
       "id": "ch119",
       "title": {
+        "la": "Psalmus 119",
         "en-US": "Psalm 119"
       }
     },
     {
       "id": "ch120",
       "title": {
+        "la": "Psalmus 120",
         "en-US": "Psalm 120"
       }
     },
     {
       "id": "ch121",
       "title": {
+        "la": "Psalmus 121",
         "en-US": "Psalm 121"
       }
     },
     {
       "id": "ch122",
       "title": {
+        "la": "Psalmus 122",
         "en-US": "Psalm 122"
       }
     },
     {
       "id": "ch123",
       "title": {
+        "la": "Psalmus 123",
         "en-US": "Psalm 123"
       }
     },
     {
       "id": "ch124",
       "title": {
+        "la": "Psalmus 124",
         "en-US": "Psalm 124"
       }
     },
     {
       "id": "ch125",
       "title": {
+        "la": "Psalmus 125",
         "en-US": "Psalm 125"
       }
     },
     {
       "id": "ch126",
       "title": {
+        "la": "Psalmus 126",
         "en-US": "Psalm 126"
       }
     },
     {
       "id": "ch127",
       "title": {
+        "la": "Psalmus 127",
         "en-US": "Psalm 127"
       }
     },
     {
       "id": "ch128",
       "title": {
+        "la": "Psalmus 128",
         "en-US": "Psalm 128"
       }
     },
     {
       "id": "ch129",
       "title": {
+        "la": "Psalmus 129",
         "en-US": "Psalm 129"
       }
     },
     {
       "id": "ch130",
       "title": {
+        "la": "Psalmus 130",
         "en-US": "Psalm 130"
       }
     },
     {
       "id": "ch131",
       "title": {
+        "la": "Psalmus 131",
         "en-US": "Psalm 131"
       }
     },
     {
       "id": "ch132",
       "title": {
+        "la": "Psalmus 132",
         "en-US": "Psalm 132"
       }
     },
     {
       "id": "ch133",
       "title": {
+        "la": "Psalmus 133",
         "en-US": "Psalm 133"
       }
     },
     {
       "id": "ch134",
       "title": {
+        "la": "Psalmus 134",
         "en-US": "Psalm 134"
       }
     },
     {
       "id": "ch135",
       "title": {
+        "la": "Psalmus 135",
         "en-US": "Psalm 135"
       }
     },
     {
       "id": "ch136",
       "title": {
+        "la": "Psalmus 136",
         "en-US": "Psalm 136"
       }
     },
     {
       "id": "ch137",
       "title": {
+        "la": "Psalmus 137",
         "en-US": "Psalm 137"
       }
     },
     {
       "id": "ch138",
       "title": {
+        "la": "Psalmus 138",
         "en-US": "Psalm 138"
       }
     },
     {
       "id": "ch139",
       "title": {
+        "la": "Psalmus 139",
         "en-US": "Psalm 139"
       }
     },
     {
       "id": "ch140",
       "title": {
+        "la": "Psalmus 140",
         "en-US": "Psalm 140"
       }
     },
     {
       "id": "ch141",
       "title": {
+        "la": "Psalmus 141",
         "en-US": "Psalm 141"
       }
     },
     {
       "id": "ch142",
       "title": {
+        "la": "Psalmus 142",
         "en-US": "Psalm 142"
       }
     },
     {
       "id": "ch143",
       "title": {
+        "la": "Psalmus 143",
         "en-US": "Psalm 143"
       }
     },
     {
       "id": "ch144",
       "title": {
+        "la": "Psalmus 144",
         "en-US": "Psalm 144"
       }
     },
     {
       "id": "ch145",
       "title": {
+        "la": "Psalmus 145",
         "en-US": "Psalm 145"
       }
     },
     {
       "id": "ch146",
       "title": {
+        "la": "Psalmus 146",
         "en-US": "Psalm 146"
       }
     },
     {
       "id": "ch147",
       "title": {
+        "la": "Psalmus 147",
         "en-US": "Psalm 147"
       }
     },
     {
       "id": "ch148",
       "title": {
+        "la": "Psalmus 148",
         "en-US": "Psalm 148"
       }
     },
     {
       "id": "ch149",
       "title": {
+        "la": "Psalmus 149",
         "en-US": "Psalm 149"
       }
     },
     {
       "id": "ch150",
       "title": {
+        "la": "Psalmus 150",
         "en-US": "Psalm 150"
       }
     }
   ],
-  "commentsOn": ["psalms"],
+  "commentsOn": [
+    "psalms"
+  ],
   "arrived": {
-    "en-US": "2026-06-04"
+    "en-US": "2026-06-04",
+    "la": "2026-11-02"
+  },
+  "work": "augustine/enarrationes-in-psalmos",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    },
+    "en-US": {
+      "translator": "J",
+      "year": 1888
+    }
   }
 }
