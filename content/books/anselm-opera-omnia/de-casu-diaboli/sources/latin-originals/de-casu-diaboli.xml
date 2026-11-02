@@ -1,0 +1,1919 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>Dialogus de casu Diaboli</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DiDeCaD</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>Dialogus de casu Diaboli</head>
+
+<emph>62</emph> 
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Quod etiam ad angelos dicatur</hi>: Quid habes, quod non accepisti? <hi>et a Deo non sit nisi bonum, et esse: et omne bonum sit essentia, et omnis essentia bonum</hi>.</head>
+<p>DISCIPULUS. Illud Apostoli: <hi>Quid habes, quod non
+accepisti</hi>? <note>(I. Cor. 4, 7.)</note> dicitur hominibus tantum,
+an et angelis? MAGISTER. Nulla creatura habet aliquid
+a se. Quod enim seipsum a se non habet, quomodo
+habet a se aliquid? Denique si non est aliquid,
+nisi unus qui fecit et quae facta sunt ab uno:
+clarum est quia nullatenus potest haberi aliquid,
+nisi qui fecit, aut quod fecit. DISC. Vere clarum
+ est. MAG. Sed neque ipse factor, neque quod
+factum est, potest haberi nisi ab ipso factore. DISC.
+Nec hoc minus clarum. MAG. Ille igitur solus a se
+<pb n="0325D"/>
+habet quidquid habet; et omnia alia nonnisi ab illo
+habent aliquid: et, sicut a se nonnisi nihil habent;
+<pb n="0326C"/>
+ita ab illo nonnisi aliquid habent. DISC. Non plane
+video quod ait, quod a Deo non habent alia nisi aliquid.
+Nam quis facit alius, ut multa, quae videmus
+transire de esse ad non esse, non sint quod
+erant; etiamsi omnino in nihilum non transeant?
+Aut quis facit non esse, quidquid non est; nisi ille
+qui facit esse, omne quod est? Item si non est aliquid,
+nisi ideo quia Deus facit; necesse est ut
+quod non est idcirco non sit, quia ipse non facit.
+Sicut ergo illa quae sunt, ab illo habent esse aliquid;
+ita quae non sunt, vel quae de esse transeunt ad non
+esse, videntur ab eodem ipso habere esse nihil.
+MAG. Non solum illi dicitur facere aliquid esse, aut
+aliquid non esse, qui facit ut sit, quod non est;
+aut ut non sit, quod est: sed etiam ille, qui potest
+<pb n="0326D"/>
+facere ut non sit aliquid, et non facit, dicitur
+facere esse; et qui potest facere ut aliquid sit,
+<pb n="0327A"/>
+nec facit, dicitur facere non esse. Quippe non
+ille tantum dicitur facere aliquem nudum esse, aut
+non esse indutum, qui eum despoliat; sed et qui
+spoliantem, cum prohibere possit, non prohibet: sed
+ille proprie dicitur hoc facere, iste vero improprie.
+Cum enim iste dicitur quia fecit esse
+nudum, aut non esse indutum, non aliud intelligitur
+nisi quia, cum posset, non fecit ut non esset nudus,
+aut ut maneret indutus. Hoc modo Deus
+dicitur multa facere quae non facit: ut, cum dicitur
+inducere in tentationem; quoniam non defendit a
+tentatione, cum possit: et facere non esse, quod non
+est; quoniam, cum possit, non facit esse. At si consideres
+ea quae sunt, cum transeunt ad non esse,
+ipse facit ea non esse. Quoniam namque non solum
+<pb n="0327B"/>
+non est aliqua alia essentia, nisi illo faciente;
+sed nec aliquatenus manere potest, quod facta est,
+nisi eodem ipso servante. Cum ipse desinit
+servare quod fecit; non ideo id, quod erat, redit in
+non esse, quia ipse facit non esse; sed quia cessat
+facere esse. Nam et cum quasi iratus destruendo
+aliquid aufert esse, non est ab illo non esse; sed
+illo tollente, velut suum, quod praestiterat, quod ab
+eo factum servabatur ut esset, redit in non esse,
+quod non ab illo, sed a se, antequam fieret, habebat.
+Si enim ab aliquo tunicam repetas, quam illi
+nudo sponte ad tempus praestiteras, non habet
+a te nuditatem; sed, te quod tuum erat tollente, redit
+in id quod erat antequam indueretur a te. Nempe
+sicut a summo bono non est nisi bonum, et omne
+<pb n="0327C"/>
+bonum est a summo bono, ita a summa essentia non
+est nisi essentia, et omnis essentia est a summa essentia:
+unde, quoniam summum bonum est summa
+essentia, consequens est ut omne bonum sit essentia,
+et omnis essentia bonum. Nihil ergo et non
+esse, sicut non est essentia, ita non est bonum.
+Nihil itaque et non esse, non est ab illo, a quo non
+est nisi bonum et essentia. DISC. Aperte nunc video
+quia sicut bonum et esse, non est nisi a Deo; ita
+non est a Deo, nisi bonum et esse. MAG. Vide ne
+ullatenus putes, cum in divinis libris legimus, aut
+cum secundum illos dicimus Deum facere malum,
+aut facere non esse, quia negem propter quod
+dicitur; aut reprehendam, quia ita dicitur: sed non
+tantum debemus inhaerere improprietati verborum
+<pb n="0327D"/>
+veritatem tegenti, quantum inhiare proprietate veriatis
+sub multimodo genere locutionum latenti.
+<pb n="0328A"/>
+DISC. Ista nonnisi non intelligenti aut calumnioso
+habes opus dicere. MAG. Redi ad id quod incoepisti,
+et vide si non solum homini, sed et angelo potest
+dici quia non habet quod non accepit</p>
+</div2>
+
+<div2>
+          <head>CAPUT II.</head>
+<p> <hi>Cur videatur diabolus ideo non accepisse perseverantiam,
+quia Deus non dedit</hi>.</p>
+<p>DISC. Satis patet non minus angelo quam homini
+convenire. Constat ergo quia ille angelus, qui stetit
+in veritate, sicut ideo perseveravit, quia perseverantiam
+habuit; ita ideo perseverantiam habuit, quia
+accepit; et ideo accepit quia Deus dedit. Consequens
+est igitur quia ille, qui in veritate non stetit,
+quemadmodum ideo non perseveravit, quia perseverantiam
+non habuit; sic ideo non habuit perseverantiam,
+<pb n="0328B"/>
+quia non accepit; et ideo non accepit, quia
+Deus non dedit. Si ergo potes, volo ut ostendas mihi
+culpam ejus; cum ideo non perseveraverit, quia
+ille non dedit, quo non dante nihil habere potuit.
+Certus sum enim, etiamsi non videam, non <emph>63</emph> illum
+nisi juste a summe justo damnatum, nec sine
+culpa juste illum potuisse damnari. MAG. Unde putas
+consequi, si bonus angelus ideo accepit perseverantiam
+quia Deus dedit, malum ideo non accepisse,
+quia Deus non dedit? DISC. Quia si bono angelo datio
+est causa acceptionis, puto non dationem esse
+malo angelo causam non acceptionis: et si ponitur
+non datio, video necessariam esse causam ut sequatur
+non acceptio: et omnes scimus quia cum
+non accipimus quod volumus, non ideo non datur,
+<pb n="0328C"/>
+quia non accipimus; sed ideo non accipimus,
+quia non datur. Denique quoscunque legi aut audivi
+facere quaestionem hanc: hac ratione eam, in
+quantum memini constituunt; quia si bonus angelus
+ideo accepit, quia Deus dedit, malus angelus ideo
+ non accepit, quia Deus non dedit: nec memini
+me adhuc hujus consequentiae solutionem vidisse.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT III.</head>
+<p> <hi>Quod ideo Deus non dedit, quia ille non accepit</hi>.</p>
+<p>MAG. Nulla est tibi consequentia: potest enim
+non dare, non esse causa non accipiendi, etiamsi
+dare semper esset causa accipiendi. DISC. Ergo si
+ponatur non dare, non necesse est sequi non accipere.
+Quare potest esse accipere, etiamsi non sit
+dare. MAG. Non est ita. DISC. Exemplo volo mihi
+<pb n="0328D"/>
+ostendas quod dicis. MAG. Si ego porrigo tibi aliquid,
+et tu accipis; non ideo do quia accipis; sed
+<pb n="0329A"/>
+ideo accipis, quia do; et est datio causa acceptionis.
+DISC. Ita est. MAG. Quid si id ipsum porrigo alii, et
+non accipit; illene ideo non accipit, quia non do?
+DISC. Potius videtur quia tu ideo non das, quia ille non
+accepit. MAG. Hic igitur non dare, non est causa
+non accipiendi; et tamen si pono me non dedisse,
+causa est consequendi illum non accepisse. Aliud
+namque est rem causam esse alterius rei: aliud
+positionem rei esse causam ut sequatur aliud.
+Cum enim incendium non sit causa ignis, sed ignis
+incendii, positio tamen incendii semper causa est ut
+sequatur esse ignem. Si enim est incendium, necesse
+est ignem esse. DISC. Necesse est me sic esse fateri.
+MAG. Vides ergo, ut puto, si tu ideo accepisti, quia
+ego dedi, non tamen idcirco consequi illum, qui
+<pb n="0329B"/>
+non accepit, ideo non accepisse, quia ego non dedi;
+et tamen consequi quia si ego non dedi, ille non accepit.
+DISC. Video, et placet mihi quia video. MAG.
+An amplius dubitas quia sicut angelus, qui stetit,
+ideo accepit perseverantiam, quia Deus dedit, ita
+non stanti idcirco Deus non dedit, quia ille non
+accepit? DISC. Nondum mihi hoc ostendisti; sed
+illud tantum sufficienter demonstrasti, scilicet
+non esse consequens ex eo quia bonus angelus ideo
+accepit, quia Deus dedit; malum ideo non accepisse,
+quia Deus non dedit. Si enim vis asserere
+Deum illi ideo non dedisse, quia non accepit, quaero
+cur non accepit? Aut quia non potuit, aut quia non
+voluit. Nam si non habuit potestatem aut voluntatem
+accipiendi, Deus non dedit. Si enim Deus dedisset,
+<pb n="0329C"/>
+pro certo habuisset. Quare, si non potuit habere
+potestatem aut voluntatem accipiendi perseverantiam,
+nisi ante Deo, quid peccavit, si non accepit
+quod Deus illi non dedit posse aut velle accipere?
+MAG. Deus dedit illi potestatem et voluntatem accipiendi
+perseverantiam. DISC. Accepit igitur quod
+Deus dedit, et habuit quod accepit. MAG. Vere habuit,
+et accepit. DISC. Accepit ergo, et habuit
+perseverantiam. MAG. Non accepit, et ideo non
+habuit. DISC. Nonne dixisti Deum illi dedisse, et
+illum accepisse potestatem et voluntatem accipiendi
+perseverantiam? MAG. Dixi; sed non dixi Deum illi dedisse
+accipere perseverantiam, sed tantum velle et
+posse perseverantiam accipere. DISC. Ergo, si voluit
+et potuit, accepit perseverantiam. MAG. Non est necessarium
+<pb n="0329D"/>
+consequens. DISC. Non video cur non, nisi
+<pb n="0330A"/>
+mihi ostendas. MAG. Incoepisti unquam aliquid cum voluntate
+et potestate perficiendi, quod tamen voluntate
+ante finem rei mutata non perfecisti? DISC.
+Saepe. MAG. Voluisti igitur et potuisti perseverare,
+in quo non perseverasti. DISC. Volui utique; sed non
+perseveravi in voluntate, et ideo non perseveravi
+in actione. MAG. Quare non perseverasti in voluntate?
+DISC. Quia non volui. MAG. Nonne quandiu
+voluisti perseverare in actione, voluisti perseverare
+in ipsa voluntate? DISC. Non possum negare. MAG.
+Cur ergo dicis te non voluisse perseverare in illa?
+DISC. Iterum responderem: Quia perseverare volui;
+sed non perseveravi in hac voluntate, nisi rem viderem
+in infinitum procedere, te semper idipsum
+interrogante, et me eadem respondente. MAG. Non
+<pb n="0330B"/>
+ergo debes dicere: Ideo non volui perseverare in
+voluntate, quia non volui perseverare in voluntate
+hujus voluntatis: sed cum quaeritur: Quare non
+perseverasti in actione, in qua voluisti et potuisti
+perseverare? respondere potes: quia non perseveravi
+in voluntate. Quod si quaeritur iterum quare
+non perseverasti in voluntate: alia causa reddenda
+est, unde scilicet contigerit defectus illius voluntatis,
+quam quia non perseverasti velle voluntatem.
+Non enim respondendo aliud ostendis quam idipsum
+quod quaeritur; id est non perseverasti in voluntate
+perseverandi in actione. DISC. Video quia non videbam
+quid dicerem. MAG. Dic ergo uno verbo quid sit
+perseverare, quantum res exigit, in faciendo aliquid.
+DISC. Perficere: nam perseverare in scribendo
+<pb n="0330C"/>
+aliquid, dicimus perscribere; in ducendo, perducere.
+MAG. Dicamus igitur similiter, etiamsi non sit in
+usu, quod perseverare in voluntate, sit pervelle.
+DISC. Ita fiat. MAG. Cum ergo non perfecisti
+quod voluisti, et potuisti, cur non perfecisti? DISC.
+Quia non pervolui. MAG. Ita ergo dic quia diabolus,
+qui accepit velle, et posse accipere perseverantiam,
+et velle et posse perseverare, ideo non accepit,
+nec perseveraverit, quia non pervoluit. DISC.
+Item quaero quare non pervoluit? Cum enim
+dicis quia quod voluit, non pervoluit, tale est ac
+si dicas: Quod voluit prius, postea non voluit.
+Quando ergo non voluit quod prius voluit, quare
+non voluit, nisi quia non habuit voluntatem? Non
+dico voluntatem quam prius habuit, cum voluit;
+<pb n="0330D"/>
+sed quam non habuit, cum non voluit. Hanc autem
+<pb n="0331A"/>
+voluntatem quare non habuit, nisi quia non accepit?
+Quare autem non accepit, nisi quia Deus non dedit?
+MAG. Iterum dico quia non ideo non accepit,
+quia Deus non dedit; sed ideo Deus non dedit
+quia ille non accepit. DISC. Hoc ostende. MAG.
+Sponte dimisit voluntatem, quam habebat: et
+sicut accepit habere quousque habuit; ita potuit
+accipere semper tenere, quod deseruit:
+sed quia deseruit, non accepit. Quod ergo ideo non
+accepit tenere, quia deseruit, non ideo non accepit,
+quia Deus non dedit; sed ideo Deus non
+dedit, quia ille non accepit. DISC. Quis non videat
+quia non ideo non voluit tenere, quia deseruit, sed
+ideo deseruit, quia non voluit tenere? Semper enim
+tenenti prius est non velle tenere, quam velle deserere.
+<pb n="0331B"/>
+Ideo enim vult aliquis deserere quod tenet,
+quia non vult tenere. Quaero igitur quare tenere
+non voluit quod tenebat, nisi quia Deus non dedit
+velle? MAG. Non semper prius est non velle tenere,
+quam velle deserere. DISC. Quando non sit ostende
+mihi. MAG. Quando aliquam rem propter se non
+vis tenere, sed deserere, ut carbonem ignitum in
+manu nuda positum: tunc forsitan prius est non
+velle tenere, quam velle deserere; et ideo vis deserere,
+quia non vis tenere. Prius enim quam teneas,
+non vis tenere; velle autem deserere non potes
+nisi cum tenes. Cum autem tenes quod nonnisi propter
+aliud non vis tenere, nec nisi propter
+aliud deserere vis; et magis vis aliud, quod
+non potes habere, <emph>64</emph> nisi deseras quod tenes:
+<pb n="0331C"/>
+tunc velle deserere prius est, quam non velle tenere.
+Avarus namque, cum vult tenere nummum, et mavult
+panem quem nequit habere, nisi nummum det,
+prius vult dare, id est deserere nummum, quam non
+velit tenere: non enim illum ideo vult, ideo non vult
+tenere dare quia non vult tenere; sed ideo non vult
+tenere, quia ut panem habeat necesse habet
+dare. Nam et antequam habeat, vult tenere et habere;
+et cum habet, nequaquam non vult tenere,
+quandiu non habet necesse deserere. DISC. Verum
+est. MAG. Non ergo semper est prius non velle tenere,
+<pb n="0332A"/>
+quam velle deserere; sed aliquando prius est, vellere
+deserere. DISC. Non possum negare. MAG. Dico
+ergo quia non ideo non voluit, cum debuit, et
+quod debuit quia voluntas defecit, Deo dare deficiente;
+sed quia ipse volendo quod non debuit, bonam
+voluntatem expulit mala superveniente. Quapropter
+non ideo non habuit bonam voluntatem perseverantem,
+aut non accepit, quia Deus non dedit;
+sed ideo Deus non dedit, quia ille volendo quod non
+debuit, eam deseruit, et eam deserendo non tenuit.
+DISC. Intelligo quod dicis.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IV.</head>
+<p> <hi>Quomodo ille peccavit, et voluit similis esse Deo</hi>.</p>
+<p>MAG. Dubitas adhuc diabolum non ideo voluisse
+deserere quod habebat, quia non voluit tenere; sed
+<pb n="0332B"/>
+ideo non voluisse tenere, quia voluit deserere? DISC.
+Non dubito sic esse posse; sed nondum fecisti me
+certum sic esse. Prius ergo ostende quid voluit habere
+quod non habebat, ut vellet deserere quod tenebat,
+sicut in avaro monstrasti. Deinde, si nihil
+contradici poterit ita esse, me non dubitare fatebor.
+MAG. Peccasse illum non dubitas; quoniam a justo
+Deo non potuit injuste damnari; sed quaeris quomodo
+peccavit. DISC. Ita est. MAG. Si justitiam
+perseveranter servasset, non peccasset unquam, nec
+miser esset. DISC. Ita credimus. MAG. Justitiam vero
+nullus servat, nisi volendo quod debet; neque deserit,
+nisi volendo quod non debet. DISC. Nulli dubium.
+MAG. Volendo aliquid igitur, quod velle tunc
+non debebat, deseruit justitiam; et sic peccavit.
+<pb n="0332C"/>
+DISC. Ita sequitur. Sed quaero quid aliud voluit,
+quam quod habebat. MAG. Quidquid habebat,
+debebat velle. DISC. Debebat vere velle quod a Deo
+acceperat; nec hoc volendo peccavit. MAG. Voluit
+igitur aliquid quod non habebat, nec tunc velle debebat,
+sicut Eva similis voluit esse diis prius quam
+Deus hoc vellet. DISC. Nec hoc ita sequi negare
+queo. MAG. Nihil autem velle poterat nisi justitiam,
+aut commodum: ex commodis enim constat beatitudo,
+quam vult omnis rationalis natura. DISC. In
+nobis possumus hoc cognoscere, qui nihil volumus,
+<pb n="0333A"/>
+nisi quod justum aut commodum putamus. MAG.
+Justitiam vero volendo, peccare non potuit. DISC.
+Verum est. MAG. Peccavit ergo volendo aliquod
+commodum, quod nec habebat, nec tunc velle debuit,
+quod tamen ad augmentum beatitudinis esse
+illi poterat. DISC. Palam est quoniam aliter non potuit.
+MAG. Cernis, ut puto, quia plus aliquid quam
+acceperat, inordinate volendo, voluntatem suam
+extra justitiam extendit. DISC. Aperte nunc video
+quia peccavit, et volendo quod non debuit, et
+non volendo quod debuit: et palam est quia
+non ideo voluit plusquam debuit, quia noluit
+tenere justitiam; sed ideo justitiam non tenuit, quia
+aliud voluit, quod volendo illam deseruit, sicut
+in avaro, de nummo et pane monstrasti. MAG. At
+<pb n="0333B"/>
+cum hoc voluit, quod Deus illum velle nolebat, voluit
+inordinate similis esse Deo. DISC. Si Deus cogitari
+non potest, nisi ita solus ut nihil illi simile cogitari
+possit, quomodo potuit diabolus velle quod non
+potuit cogitare? Non enim ita obtusae mentis erat,
+ut nihil aliud simile Deo cogitari posse nesciret.
+MAG. Etiamsi noluit omnino par esse Deo, sed aliquid
+minus Deo, contra voluntatem Dei, hoc
+ipso voluit inordinate similis esse Deo, quia
+propria voluntate, quae nulli subdita fuit, voluit aliquid.
+Solius enim Dei esse debet, sic voluntate propria
+velle aliquid, ut superiorem non sequatur voluntatem.
+DISC. Ita est. MAG. Non solum autem
+voluit esse aequalis Deo, quia praesumpsit habere
+propriam voluntatem; sed etiam major voluit esse,
+<pb n="0333C"/>
+volendo quod Deus illum velle nolebat, quoniam
+voluntatem suam supra voluntatem Dei posuit.
+DISC. Satis liquet. MAG. Jam igitur tibi manifestum
+esse puto ex rationibus suprapositis diabolum
+sponte dimisisse velle quod debebat, et juste amisisse
+quod habebat; quia sponte et juste voluit
+quod non habebat, et velle non debebat. DISC.
+Nihil puto manifestius. MAG. Quamvis igitur bonus
+angelus ideo accepit perseverantiam, quia Deus
+dedit, non ideo tamen malus non accepit, quia
+Deus non dedit: sed Deus ideo non dedit, quia
+ille non accepit; et ideo non accepit, quia accipere
+noluit. DISC. Mihi quidem ita satisfacis ad ea
+quae quaero, ut nec in his quae proponis, nec in
+ipsa consequentia conclusionum tuarum ullam videam,
+<pb n="0333D"/>
+sensu meo, titubare veritatem.
+<pb n="0334A"/>
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT V.</head>
+<p> <hi>Quod boni angeli ante casum malorum pecccare
+potuerunt</hi>.</p>
+<p>MAG. Putasne bonos angelos similiter potuisse
+peccare, antequam mali caderent? DISC. Puto; sed
+ratione comprehendere vellem. MAG. Hoc certum
+habes quia si non potuerunt peccare, non potestate
+sed necessitate servaverunt justitiam. Quare non
+magis meruerunt gratiam a Deo, quia steterunt,
+aliis cadentibus, quam quia servaverunt rationalitatem,
+quam perdere nequiverunt. Sed nec justi
+recte, si bene consideres, dicerentur. DISC. Sic
+monstrat ratio. MAG. Illi ergo qui ceciderunt, si
+non peccassent cum possent, tanto meliores essent
+quam isti, quanto et vere essent justi et
+<pb n="0334B"/>
+gratiam a Deo mererentur. Unde sequitur quia aut
+electi homines majores et meliores erunt angelis
+bonis, aut reprobi angeli perfecte non restaurabuntur,
+quoniam non tales erunt homines, qui pro illis
+assumentur, quales illi futuri erant. DISC. Haec
+duo penitus neganda existimo. MAG. Potuerunt igitur
+ boni angeli peccare, ante casum malorum
+nec aliter, quam sicut ostensum est de illis qui peccaverunt.
+DISC. Aliter esse posse non video.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VI.</head>
+<p> <hi>Quomodo boni confirmati sunt in suo statu, et mali
+in casu suo</hi>.</p>
+<p>MAG. Illi itaque angeli, qui magis voluerunt justitiam
+quam habebant, quam illud plus quod non
+habebant, bonum quod quasi propter justitiam,
+<pb n="0334C"/>
+quantum ad voluntatem pertinuit, perdiderunt;
+justitia retribuente, acceperunt et de illo, quod habebant,
+in vera securitate permanserunt. Quapropter
+adeo sunt provecti, ut sint adepti quidquid
+potuerunt velle; nec jam videant quid plus velle
+possint: et propter hoc peccare nequeunt. Illi
+vero angeli qui maluerunt illud plus, quod nondum
+Deus illis dare volebat, quam stare in justitia, in
+qua facti erant, eadem justitia judicante, et illud
+propter quod illam contempserunt nequaquam obtinuerunt;
+et quod tenebant bonum amiserunt. Sic
+ergo distincti sunt angeli, ut adhaerentes justitiae
+nullum velle bonum possint, quo non <emph>65</emph> gaudeant;
+et deserentes illam, nullum velle queant, quo non careant.
+DISC. Nihil pulchrius, aut justius hac distinctione.
+<pb n="0334D"/>
+Sed si posses dicere, vellem audire cujusmodi
+<pb n="0335A"/>
+commodum illud fuit, quod et boni angeli
+juste volendo sic profecerunt, et mali injuste
+concupiscendo sic defecerunt. MAG. Quid illud fuerit
+non video; sed quidquid fuerit, sufficit scire quia
+fuit aliquid, ad quod crescere potuerunt; quod non
+acceperunt, quando creati sunt, ut ad aliud suo merito
+proficerent.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VII.</head>
+<p> <hi>Quaestio, an voluntas, et ejus conversio ad quod non
+debet, sit ipsum malum quod malos facit; et cur
+non possit rationalis creatura per se de malo converti
+ad bonum, sicut potest de bono ad malum</hi>.</p>
+<p>DISC. Et nobis nunc sufficiat hucusque de hoc
+investigasse. Sed nescio quid sit, ut cum
+me spero ad finem quaestionis jam pertingere,
+tunc magis videam velut de radicibus succisarum
+<pb n="0335B"/>
+quaestionum alias pullulantes consurgere. Ecce
+enim cum manifestissime videam perversum angelum
+nulla ratione devenire potuisse in immoderatam
+boni indigentiam, nisi propter immoderatam
+concupiscentiam; non parum me movet, unde
+ipsam inordinatam habuit voluntatem. Si enim bona
+fuit, propter bonam voluntatem, de tanto bono cecidit
+in tantum malum. Item: Si bona fuit, Deus
+illam illi dedit; quia nonnisi nihil habuit a se. Si
+ergo voluit quod Deus dedit velle, quid peccavit?
+Aut si a se habuit hanc voluntatem, habuit aliquod
+ bonum, quod non accepit. Quod si mala
+est, et aliquid est; iterum occurrit quia nonnisi a
+Deo est, a quo est omne quod aliquid est. Et
+similiter quaeri potest quid peccavit habendo voluntatem
+<pb n="0335C"/>
+quam Deus dedit; aut quomodo potuit Deus
+dare malam voluntatem. Si vero haec mala voluntas
+ab ipso diabolo fuit, et aliquid est, habuit
+aliquid a se, et non est omnis essentia bona, nec
+malum erit nihil, sicut solemus dicere; siquidem
+mala voluntas essentia est; aut si mala voluntas
+nihil est, propter nihil et ideo sine causa, tam graviter
+damnatus est. Quod autem dico de voluntate,
+hoc ipsum dici potest de concupiscentia, sive
+desiderio, quoniam et concupiscentia, et desiderium
+voluntas est: et sicut est bona et mala voluntas, ita
+est bona et mala concupiscentia, et bonum et
+malum desiderium. Quod si dicitur quia voluntas
+est aliqua essentia, et ideo bonum est aliquid; sed
+conversa ad hoc, quod debet velle, fit bona voluntas;
+<pb n="0335D"/>
+ad id vero, quod non debet, conversa, dicitur
+voluntas mala: quidquid dixi de voluntate, video
+posse dici de ipsa conversione voluntatis. Movet enim
+<pb n="0336A"/>
+multum me, unde ipsam perversam habuit diabolus
+voluntatis conversionem, et caetera quae de voluntate
+modo dixi. Est adhuc aliud, quod valde
+miror, cum considero hanc voluntatis conversionem:
+cur, videlicet Deus talem fecerit illam naturam,
+quam tanta excellentia sublimaverat; ut eo
+quod debuit velle, posset convertere voluntatem
+suam ad id quod non debuit; sed de eo quod
+non debet, non possit ad id quod debet: cum multo
+magis videatur, potestatem debuisse talis creatura
+a tali factore accipere faciendi bonum, ad quod
+facta est; quam faciendi malum, ad quod vitandam
+facta est. Quod etiam in nostra natura
+quaeri potest, quoniam credimus nullum hominem
+posse bonam voluntatem habere, nisi dante Deo;
+<pb n="0336B"/>
+malam vero semper habere posse, sola permissione
+Dei.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT VIII.</head>
+<p> <hi>Quaestio proposita resolvitur. Quod voluntas, et ejus
+conversio non sit ipsum malum</hi>.</p>
+<p>MAG. Nec voluntatem, nec voluntatis conversionem
+puto negari posse aliquid esse. Nam etsi non
+sunt substantiae, non tamen probari potest eas non
+esse essentias, quoniam multae sunt essentiae praeter
+illam, quae proprie dicitur substantia. Denique
+bona voluntas non magis est aliquid, quam
+mala voluntas; nec est ista magis malum quam illa
+bonum. Non enim magis est aliquid voluntas, quae
+vult dare misericorditer, quam illa quae vult rapere
+violenter; nec magis haec malum quam illa bonum
+<pb n="0336C"/>
+est. Ergo si mala voluntas est ipsum malum, quod
+malus aliquis dicitur, erit et bona voluntas ipsum
+bonum, quo fit aliquis bonus: sed mala voluntas
+erit nihil, si est ipsum malum quod credimus esse
+nihil. Bona igitur voluntas nihil erit, quoniam ipsa
+non magis est aliquid, quam mala voluntas. Quare
+ipsum bonum quod bonos facit non poterimus negare
+nihil esse, quoniam ipsum est bona voluntas
+quae nihil erit. Sed falsum esse nullus ambigit, bonam
+voluntatem sive bonum ipsum esse nihil. Itaque
+mala voluntas non est ipsum malum quod malos
+facit; sicut nec bona voluntas est ipsum bonum
+quod bonos facit. Hoc ipsum, quod dixi de voluntate,
+potest etiam considerari in conversione
+voluntatis. Non enim magis est aliquid conversio
+<pb n="0336D"/>
+illa quae convertit voluntatem de rapina ad tribuendum,
+quam est illa quae convertit eamdem voluntatem
+de largitate ad avaritiam; et caetera, quae
+<pb n="0337A"/>
+de voluntate paulo ante dixi. DISC. Mihi quoque hoc
+ipsum videtur quod asseris. MAG. Neque
+ergo voluntas mala, neque prava voluntatis conversio,
+est ipsum malum, quo angelus vel homo
+fit malus, et quod nihil esse dicimus: nunc bona
+voluntas aut bona voluntatis conversio est bonum
+quo boni fiunt
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT IX.</head>
+<p> <hi>Quod injustitia sit ipsum malum, et sit nihil</hi>.</p>
+<p>DISC. Quid ergo dicemus ipsum malum quod malos
+facit: et quid ipsum bonum quod bonos facit?
+MAG. Justitiam credere debemus esse ipsum bonum
+quo sunt boni, id est justi, et angeli, et homines;
+et quo ipsa voluntas bona sive justa dicitur,
+<pb n="0337B"/>
+injustitiam vero ipsum malum esse, quod nihil
+aliud dicimus esse quam boni privationem, quod
+malos et malam voluntatem facit: et ideo eamdem
+injustitiam non aliud esse asserimus quam privationem
+injustitiae. Quandiu enim voluntas primum
+data rationali naturae, et simul in ipsa datione ab
+ipso datore conversa, imo non conversa, sed facta
+recta ad hoc quod velle debuit, stetit in ipsa rectitudine,
+quam dicimus veritatem sive injustitiam, in
+qua facta est, justa fuit. Cum vero avertit se
+ab eo quod debuit, et convertit se ad id quod
+non debuit, non stetit in originali (ut ita dicam)
+rectitudine, in qua facta est? Quam cum deseruit,
+magnum aliquid perdidit; et nihil pro ea, nisi privationem
+ejus, quae nullam habet essentiam, et
+quam injustitiam nominamus, suscepit.
+<pb n="0337C"/>
+<emph>66</emph> </p>
+        </div2>
+
+<div2>
+          <head>CAPUT X.</head>
+<p> <hi>Quomodo malum videatur esse aliquid</hi>.</p>
+<p>DISC. Quod dicis malum esse privationem boni,
+concedo; sed nihilominus video bonum privationem
+esse mali. Et, sicut percipio in privatione mali
+aliquid aliud fieri, quod bonum dicimus, ita animadverto
+in privatione boni aliquid aliud fieri,
+quod malum nominamus. Quapropter licet quibusdam
+argumentis malum nihil esse probetur;
+quoniam malum nonnisi vitium aut corruptio est,
+quae nullo modo sunt nisi in aliqua essentia, et
+quanto magis ibi sunt, tanto magis illam redigunt
+in nihilum; et si eadem essentia omnino deveniat
+ad nihil, vitium quoque et corruptio inveniuntur
+<pb n="0338A"/>
+nihil: licet, inquam, sic aut alio modo probetur
+nihil esse malum; non potest animus meus nisi
+sola fide acquiescere; si non illud mihi auferatur,
+quod mihi econtra probat malum nonnisi aliquid
+esse. Nam cum auditur nomen mali, frustra
+horrent corda nostra quod in hujus nominis significatione
+intelligunt, si nihil significatur hoc
+nomine. Item: Si vox haec, scilicet malum nomen
+est; utique significativum est. Si autem
+significativum est, significat; sed, nonnisi aliquid
+significat. Quomodo ergo malum est nihil; si
+quod significat nomen ejus, est aliquid? Denique,
+cum manente justitia, tanta videatur tranquillitas,
+tanta quies ut in multis nihil aliud videatur
+justitia quam quiescere a malo; sicut est castitas,
+<pb n="0338B"/>
+patientia: recedente autem justitia, tam
+diversus, tam laboriosus tamque multiplex occupet
+animum affectus, qui velut crudelis Dominus
+miserum homunculum cogat tot turpium et laboriosorum
+operum cura sollicitum esse, et ipsis
+operibus tam graviter laborare: mirum est, si poterit
+ostendi nihil haec omnia operari.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XI [ <hi>al</hi>. X].</head>
+<p> <hi>Quod malum et nihil non possint per nomen suum
+probari aliquid esse, sed quasi aliquid</hi>.</p>
+<p>MAG. Puto quia non ita es insanus ut dicas
+nihil esse aliquid, cum tamen non possis negare
+nihil esse nomen. Quapropter si nihil non potest
+probare aliquid esse, per nomen nihil, quomodo
+aestimas te probare malum esse aliquid, per
+<pb n="0338C"/>
+nomen mali. DISC. Nihil agit exemplum, quod litem
+lite resolvit. Nam et hoc ipsum, nihil, nescio quid
+sit. Quapropter quoniam in manibus quaestio est de
+malo, quod dicis esse nihil si vis me docere,
+quid intelligam esse malum, doce me prius quid
+intelligam esse nihil: deinde, ad alia quibus
+propter nomen mali dixi me moveri de eo, ut aliquid
+esse videatur, respondebis. MAG. Cum nequaquam
+differant nihil esse et non aliquid esse, quomodo
+dici potest quid sit quod non est aliquid?
+DISC. Si non est aliquid, quod hoc nomine
+significatur, non significat aliquid. Si vero non significat
+aliquid, non est nomen: sed utique nomen
+est, quanquam igitur nullus dicat nihil esse aliquid;
+<pb n="0339A"/>
+sed semper nihil esse nihil cogamur fateri,
+nemo tamen potest nomen nihili significativum
+esse diffiteri. Verum, si hoc ipsum nomen
+non significat nihil, sed aliquid, id quod significatur,
+videtur non posse esse nihil, sed magis aliquid.
+Si ergo quod significatur non est nihil, sed aliquid,
+qualiter verum erit ut nihil significetur per hoc
+nomen, quod est nihil? Quippe si vere nihil dicitur,
+vere nihil est; et idcirco non est aliquid. Quare,
+si quod significatur hoc nomine, non est nihil, sed
+aliquid (quemadmodum consequentia videtur ostendere),
+falso et incongrue vocatur hoc nomine.
+At econtra, si secundum judicium omnium,
+id quod nominatur nihil vere est nihil, nequaquam
+est aliquid; usquamne videtur aliquid consequentius,
+quam ut hoc ipsum nomen nihil significet,
+<pb n="0339B"/>
+id est non significet aliquid? Quid itaque
+est quia hoc nomen, videlicet nihil non significat
+ nihil, sed aliquid; et non significat aliquid, sed
+nihil? MAG. Forsitan non repugnant, significare
+nihil et aliquid. DISC. Si non repugnant: aut ista
+vox diversa consideratione significat nihil et aliquid;
+aut invenienda res est aliqua, quae sit
+aliquid, et nihil. MAG. Quid si utrumque inveniri
+potest, et diversa, scilicet significationis consideratio
+in hoc nomine, et eamdem rem esse aliquid,
+et nihil? DISC. Utrumque vellem cognoscere. MAG.
+Constat quoniam haec vox, scilicet nihil, quantum
+ad significationem, nullatenus differt ab eo quod
+dico, non aliquid. Nihil quoque hoc apertius,
+quam quod haec vox, scilicet non aliquid, omnem
+<pb n="0339C"/>
+rem penitus et omne quod est aliquid, intellectu
+removendum; nec omnino ullam rem, aut penitus
+quod aliquid sit in intellectu retinendum, sua
+significatione constituit. Sed quoniam remotio alicujus
+rei significari nullatenus potest nisi cum significatione
+ejus ipsius, cujus significatur remotio:
+nullus enim intelligit quid significet non homo, nisi
+intelligendo quid sit homo: necesse est ut haec
+vox quae est, non aliquid, destruendo id quod est
+aliquid, significet aliquid. Quoniam vero auferendo
+omne quod est aliquid, nullam significat essentiam,
+quam in audientis intellectu retinendam constituat:
+idcirco vox, non aliquid, nullam rem, aut quod sit
+aliquid, significat. Igitur haec vox, non aliquid, his
+<pb n="0340A"/>
+diversis rationibus aliquatenus significat rem, et
+aliquid; et nullatenus significat rem, aut aliquid:
+significat enim removendo, et non significat constituendo.
+Hac ratione nomen, nihil, quod perimit
+omne quod est aliquid, et destruendo non significat
+nihil, sed aliquid; et constituendo non significat aliquid,
+sed nihil. Quapropter non est necesse, nihil
+esse aliquid, ideo quia nomen ejus significat aliquid,
+quolibet modo; sed potius necesse est nihil
+esse nihil, quia nomen ejus significat hoc modo aliquid.
+Hoc itaque modo non repugnat malum nihil
+esse et mali nomen esse significativum; si sic aliquid
+perimendo significat, ut nullius rei sit constitutivum.
+DISC. Nequeo negare nomen nihili,
+secundum praedictam a te rationem, aliquo modo
+significare aliquid; sed satis notum est quia illud
+<pb n="0340B"/>
+aliquid, quod isto modo hoc nomine significatur,
+non nominatur nihil; nec cum audimus hoc nomen,
+accipimus illud pro illa re, quam ita significat.
+Illud igitur quaero, pro quo hoc nomen ponitur;
+et quod intelligimus, cum ipsum audimus:
+illud, inquam, quaero, quid sit. Illud enim hoc nomen
+proprie significat; et idcirco nomen est,
+quia ejus significativum est, non quia supra
+dicto modo negando significat aliquid: ejus quippe
+nomen est, pro cujus significatione inter nomina
+computatur, et illud vocatur nihil. Illud quaero, quomodo
+sit aliquid, si proprie vocatur nihil; aut qualiter
+sit nihil, si nomen significativum ejus significat
+aliquid, aut quomodo idem sit aliquid, et nihil?
+Illud idem quaero de nomine mali; et de eo quod
+<pb n="0340C"/>
+significat, et quod malum nominatur. MAG. Recte
+quaeris; quia licet, supraposita ratione, malum et
+nihil significent aliquid, tamen quod significatur
+non est malum aut nihil: sed est alia ratio
+qua significant aliquid, et quod significatur est
+aliquid; sed non vere aliquid, sed quasi aliquid.
+Multa quippe esse dicuntur secundum formam,
+quae non sunt secundum rem: ut, timere, secundum
+formam vocis, dicitur activum, cum sit <emph>67</emph> 
+ passivum, secundum rem. Ita quoque caecitas
+dicitur aliquid, secundum formam loquendi, cum
+non sit aliquid, secundum rem. Sicut enim de aliquo
+dicimus quia visum habet, et visus est in eo;
+ita dicimus quia habet caecitatem, et caecitas est in
+<pb n="0341A"/>
+eo: cum haec non sit aliquid, sed potius non
+aliquid; et hanc habere, non sit habere aliquid, imo
+carere eo, quod est aliquid. Caecitas namque non
+est aliud quam non visus, aut absentia visus ubi visus
+debet esse; non visus vero vel absentia visus
+non magis est aliquid, ubi visus debet esse
+quam ubi non debet esse. Quare caecitas non magis
+est in oculo aliquid quia ibi debet esse visus, quam
+non visus vel absentia visus in lapide, ubi non debet
+esse visus. Multa quoque alia similiter dicuntur aliquid,
+secundum formam loquendi, quae non sunt
+aliquid, quoniam sic loquimur de illis, sicut de rebus
+existentibus. Hoc ergo modo malum et nihil significant
+aliquid; et quod significatur, est aliquid,
+non secundum rem, sed secundum formam loquendi.
+<pb n="0341B"/>
+Nihil enim non aliud significat, quam non aliquid,
+aut absentiam eorum quae sunt aliquid; et malum
+non est aliud, quam non bonum, aut absentia boni,
+ubi debet et expedit esse bonum. Quod autem non
+est aliud, quam absentia ejus quod est aliquid, utique
+non est aliquid. Malum igitur vere est nihil, et
+nihil non est aliquid, et tamen quodammodo sunt
+aliquid, quia sic loquimur de his, quasi sint aliquid,
+cum dicimus: Nihil, vel malum fecit, aut, nihil aut
+malum est, quod fecit: sicut dicimus: Aliquid, vel
+bonum fecit, aut, aliquid vel bonum est quod fecit.
+Hinc est quod cum negamus omnino esse aliquid
+quod dicit aliquis, ita dicimus: Hoc quod dicis, nihil
+est. Nam hoc et quod proprie non dicuntur nisi
+de eo quod est aliquid: et cum ita dicuntur,
+<pb n="0341C"/>
+sicut modo dixi, non dicuntur de eo quod sit aliquid,
+sed quod quasi aliquid dicitur. DISC. De ratione
+nominis mali, qua me putabam posse probare malum
+esse aliquid, satisfecisti.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XII.</head>
+<p> <hi>Quod angelus a se non potuit habere voluntatem primam;
+et quod multa dicuntur posse aliena potestate,
+et non posse aliena impotentia</hi>.</p>
+<p>Restat nunc ut me ad alia, quae mihi malum esse
+aliquid persuadere nituntur, quid respondere
+valeam edoceas. MAG. Ut veritatem rei enodare
+possimus, longius aliquantulum exordiri nos
+oportet; sed et opus est ut tu ea, quae dicam, non
+sis contentus singula tantum intelligere, sed omnia
+simul memoria quasi sub uno intuitu colligere.
+<pb n="0341D"/>
+DISC. Ego quidem intentus ero quantum potero:
+verumtamen si in aliquo tardior quam velis exstitero,
+non te me exspectare pigeat, prout videris tarditatem
+meam expetere. MAG. Ponamus ergo Deum
+nunc facere angelum, quem velit facere beatum; et
+<pb n="0342A"/>
+non simul totum, sed per partes et hactenus jam
+esse factum, ut jam sit aptus ad habendam voluntatem,
+sed nondum velit aliquid. DISC. Pone quod vis,
+et expone quod quaero. MAG. An ergo putas quod
+iste angelus per se possit velle aliquid? DISC. Non
+bene video quod dicis per se. Quod enim (sicut
+supra jam dixisti de omni creatura) nihil habet,
+quod non accepit, nihil potest per se. MAG. <hi>Per se</hi> 
+dico, per hoc quod jam habet: ut qui habet pedes
+et quae sufficiunt ad potentiam ambulandi, potest
+ambulare per se; qui autem habet pedes, et non
+habet incolumitatem pedum non potest ambulare per
+se. Hoc itaque modo quaero an ille angelus, qui
+jam aptus est ad volendum, et nondum quidquam
+vult, possit per se velle aliquid? DISC. Puto quia potest,
+<pb n="0342B"/>
+si aliquando vult. MAG. Non respondes ad interrogationem
+meam. DISC. Quomodo? MAG. Ego quaero
+de nihil volente, et de potestate quae praecedit
+rem: et tu respondes de volente et de potestate
+quae fit cum re. Nam omne quod est, eo ipso quia
+est, potest esse; non autem omne quod est,
+potuit esse, antequam esset. Cum ergo quaero
+utrum ille qui nihil vult, possit velle, quaero
+potestatem ante voluntatem, qua se possit movere
+ad voluntatem. Tu vero, cum respondes quia si vult
+potest, dicis potestatem quae fit cum ipsa voluntate.
+Necesse enim est si vult, ut possit velle. DISC. Scio
+duas esse potestates: unam, quae nondum est in re;
+alteram, quae jam est in re. Sed et hoc non possum
+nescire, quia quidquid ita potest esse ut jam sit, si
+<pb n="0342C"/>
+aliquando non fuit, potuit prius esse. Si enim non
+potuisset, nunquam esset. Bene ergo aestimo me respondisse,
+quia qui ideo potest velle, quia jam vult,
+necesse est eum prius potuisse, quam vellet. MAG.
+Putas quia quod nihil est, omnino nihil habet; et
+ideo nullam habet potestatem, et sine potestate omnino
+nihil potest. DISC. Hoc non possum negare.
+MAG. Aestimo quia mundus, antequam fieret, nihil
+erat. DISC. Verum dicis. MAG. Ergo omnino nihil
+potuit, antequam esset. DISC. Ita sequitur. MAG.
+Non ergo potuit esse, antequam esset. DISC. Et ego
+dico: Si non potuit esse, impossibile fuit ut esset
+aliquando. MAG. Et possibile, et impossibile erat,
+antequam esset: et quidem in cujus potestate non
+erat ut esset, erat impossibile; sed Deo, in cujus
+<pb n="0342D"/>
+potestate erat ut fieret possibile erat; quia ergo
+Deus prius mundum potuit facere quam fieret,
+ideo est mundus; non quia ipse mundus prius potuit
+esse. DISC. Rationi non possum contradicere; sed
+usus loquendi non consentit. MAG. Non est mirum.
+<pb n="0343A"/>
+Multa namque in communi locutione dicuntur improprie;
+sed cum oportet medullam veritatis inquirere,
+necesse est improprietatem perturbantem,
+quantum res expetit et possibile est, secernere. Ex
+qua improprietate loquendi fit ut saepissime dicamus
+rem posse, non quod illa possit, sed quoniam alia
+res potest; et rem, quae potest, non posse, quoniam
+alia res non potest: ut, si dico: Liber potest a me
+scrib., utique liber nihil potest, sed ego possum
+scribere librum. Et cum dicimus: Iste non potest
+vinci ab illo, non aliud intelligimus quam ille non
+potest vincere istum. Hinc est quod dicimus Deum
+non posse aliquid sibi adversum, aut perversum;
+quoniam sic est potens in beatitudine et justitia, imo
+quoniam beatitudo et justitia non sunt illo diversa,
+<pb n="0343B"/>
+sed unum bonum, sic est omnipotens in simplici bono
+ut nulla res possit quod noceat summo bono:
+ideo namque non potest corrumpi vel mentiri.
+Ita ergo quidquid non est, antequam sit sua potestate
+esse non potest; sed, si potest alia res facere
+ut sit, hoc modo aliena potestate potest esse.
+Quamvis autem pluribus modis dividi possit potentia
+vel impotentia, hoc tantum nunc tibi sufficiat
+quia multa dicuntur posse non sua, sed aliena potestate;
+et multa non posse non sua, sed aliena
+impotentia. De propria igitur potestate loquor, cum
+quaero de angelo, quem novum posuimus fieri, et
+hactenus jam esse factum, ut jam aptus sit ad
+habendam voluntatem, sed nihil adhuc velit; an
+ipse possit per se velle aliquid et de ipsa mihi responde.
+DISC. Si jam sic aptus est ad voluntatem
+<pb n="0343C"/>
+ut nihil illi aliud desit quam velle, non video
+cur per se non possit: quicunque enim aptus est ad
+videndum, et clausis oculis in luce positus nihil videt,
+potest tamen videre per se: quare ergo
+non volens similiter non velit per se, sicut non
+videns potest per se videre? MAG. Quia ille non videns
+habet visum et voluntatem, qua potest movere
+visum; nunc vero de illo, qui nullam habet voluntatem,
+loquimur. Quare, responde mihi, si qua
+res seipsam movet de non velle ad velle, utrum sic
+ipsa velit movere. <emph>68</emph> DISC. Si dixero quia moveatur
+non volens, consequens erit ut non a se sed
+ab alio moveatur, nisi forte si quis subito claudit
+oculos ad ictum venientem, aut si cogitur quis aliquo
+incommodo, ut velit quod prius non volebat.
+<pb n="0343D"/>
+Nescio enim an tunc prius se velit movere ad
+hanc voluntatem. MAG. Nullus cogitur vel timore vel
+sensu alicujus incommodi, nec attrahitur amore alicujus
+<pb n="0344A"/>
+commodi ad volendum aliquid, nisi qui prius
+habet naturalem voluntatem vitandi incommodum
+aut habendi commodum; quia voluntate se movet
+ad alias voluntates. DISC. Negare nequeo. MAG. Dic
+ergo quia quidquid se movet ad volendum, prius se
+vult ita movere. DISC. Ita est. MAG. Quod ergo nihil
+vult, nullo modo potest se movere ad volendum.
+DISC. Non possum contradicere. MAG. Restat igitur
+ut ille angelus, qui jam aptus factus est ad habendam
+voluntatem, sed tamen nihil vult, non possit
+habere primam voluntatem a se. DISC. Necesse est
+fateri me quia nihil potest per se velle, qui nihil vult.
+MAG. Beatus autem non potest esse, si non vult beatitudinem.
+Dico autem nunc beatitudinem, non
+beatitudinem cum justitia, sed quam volunt omnes,
+<pb n="0344B"/>
+etiam injusti. Omnes quippe volunt bene sibi esse.
+Excepto namque hoc, quod omnis natura bona dicitur;
+duo bona et duo his contraria mala usu
+dicuntur: unum bonum est, quod dicitur justitia,
+cui contrarium malum est, injustitia; alterum
+bonum est, quod mihi videtur posse dici commodum;
+et huic malum opponitur incommodum.
+Sed justitiam quidem non omnes volunt, neque omnes
+fugiunt injustitiam; commodum vero non solum
+omnis rationalis natura, sed et omne quod sentire
+potest, vult; et vitat incommodum. Nam nullus
+vult, nisi quod aliquo modo putat sibi commodum.
+Hoc igitur modo, bene sibi esse omnes volunt, et
+male sibi esse nolunt. De hac beatitudine nunc dico,
+quia nullus potest esse beatus qui non vult beatitudinem.
+Nullus namque beatus, potest esse aut
+<pb n="0344C"/>
+habendo quod non vult, aut non habendo quod vult.
+DISC. Non est negandum. MAG. Nec beatus esse
+debet qui non vult justitiam. DISC. Nec hoc minus
+concedendum.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII.</head>
+<p> <hi>Quod accepta sola voluntate beatitudinis, nec aliud
+posset velle, nec illam non velle; et quidquid vellet,
+non esset justa vel injusta voluntas</hi>.</p>
+<p>MAG. Dicamus ergo Deum illi dare primum solam
+beatitudinis voluntatem, et videamus an idcirco
+quia accepit aliquam voluntatem, jam ipse se possit
+movere ad volendum aliud quam quod accepit
+velle. DISC. Prosequere quod incoepisti: ego enim
+paratus sum intelligere. MAG. Constat quia nondum
+<pb n="0344D"/>
+vult aliud quam beatitudinem; quia non aliud
+accepit velle. DISC. Verum est. MAG. Quaero ergo
+a te an possit se movere ad aliud volendum. DISC.
+<pb n="0345A"/>
+Nequeo videre quomodo se moveat ad volendum
+aliud quam beatitudinem, qui aliud non vult.
+Nam si vult se movere ad aliud volendum, vult
+utique aliud. MAG. Sicut ergo, nulla voluntate
+adhuc data, nihil poterat per se velle, ita, sola
+voluntate beatitudinis accepta, nullam aliam a se
+potest habere voluntatem. DISC. Ita est. MAG. Nonne
+si putat prodesse aliquid ad adipiscendam beatitudinem,
+potest se movere ad volendum illud? DISC.
+Dubito quid respondeam, nam si non potest, non
+video quomodo velit beatitudinem qui non potest
+velle quo se adipisci posse beatitudinem putat; si
+vero potest, non intelligo quomodo non possit velle
+aliud. MAG. Qui vult aliquid non propter rem quam
+videtur velle, sed propter aliud, quid proprie judicandus
+<pb n="0345B"/>
+est velle? an aliud quod dicitur velle, an
+illud propter quod vult? DISC. Illud utique, propter
+quod vult, videtur velle. MAG. Qui ergo
+vult aliquid propter beatitudinem, non aliud vult
+quam beatitudinem: quare potest et quod putat prodesse
+ad beatitudinem, et solam beatitudinem velle.
+DISC. Satis est planum. MAG. Quaero adhuc an accepta
+hac sola voluntate possit non velle beatitudinem.
+DISC. Non potest utrumque simul et velle,
+et non velle. MAG. Verum est. Sed non hoc quaero,
+sed quaero an possit deserere hanc voluntatem, et
+movere se de velle ad non velle beatitudinem? DISC.
+Siquidem hoc facit nolens, non ipse facit; si vero
+volens, aliud vult quam beatitudinem; sed non
+vult aliud; quare manifestum puto quia nullatenus
+<pb n="0345C"/>
+potest per se non velle id quod solum accepit
+velle. MAG. Bene intelligis. Sed responde mihi adhuc:
+Si potest non velle beatitudinem, quanto
+majorem eam intelliget qui nihil nisi beatitudinem
+vult et non potest non velle beatitudinem? DISC.
+Si non tanto magis vellet beatitudinem quanto meliorem
+ac majorem illam putaret, aut omnino non
+vellet beatitudinem, aut vellet aliquid aliud propter
+quod meliorem nollet; sed dicimus quia illam
+vult, et non aliud. MAG. Vult ergo esse beatus quanto
+altius hoc esse posse cognoscit. DISC. Procul dubio
+vult. MAG. Ergo vult similis esse Deo. DISC. Nihil
+apertius. MAG. Quid tibi videtur? an esset injusta
+ voluntas, si hoc modo similis vellet esse Deo?
+DISC. Nec justam volo dicere, quia vellet quod non
+<pb n="0345D"/>
+conveniret; nec injustam, quia ex necessitate vellet.
+MAG. At eum qui vult beatitudinem solam, commoda
+<pb n="0346A"/>
+tantum velle posuimus. DISC. Ita est. MAG. Si ergo
+ille, qui nihil vellet nisi commoda, non posset
+habere majora et veriora, velletne minora quibuscunque
+uti posset? DISC. Imo non posset non velle
+quamlibet infima, si majora non posset. MAG.
+Nonne, cum vellet commoda infima et immunda,
+quibus irrationabilia animalia delectantur, esset eadem
+voluntas injusta et vituperabilis? DISC. Quomodo injusta
+aut reprehendenda voluntas esset; quia vellet,
+quod non posse non velle accepisset? MAG. Voluntatem
+tamen ipsam, sive cum vult summa commoda,
+sive cum vult infima, constat esse opus et
+donum Dei, sicut est vita aut sensibilitas, et non
+esse in ea justitiam sive injustitiam. DISC. Non
+est dubium. MAG. Ergo in quantum essentia est bonum,
+<pb n="0346B"/>
+aliquid est; quantum vero ad justitiam pertinet
+sive injustitiam, nec bona nec mala est. DISC. Nihil
+clarius. MAG. Sed non debet esse beatus, si non
+habet justam voluntatem; imo non potest perfecte
+nec laudabiliter esse beatus, qui vult quod nec potest,
+nec debet esse. DISC. Multum patet.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XIV.</head>
+<p> <hi>Quod similiter sit, si sola accepta est voluntas rectitudinis:
+et idcirco utramque voluntatem accepit
+simul ut et justus, et ut beatus esset</hi>.</p>
+<p>MAG. Consideremus ergo de justitiae voluntate. Si
+daretur eidem angelo velle solum quod eum velle
+conveniret, an posset aliud velle; aut si posset
+non velle per se, quod accepisset velle? DISC. Omnino
+quod vidimus in voluntate beatitudinis, necesse
+<pb n="0346C"/>
+est in hac quoque voluntate evenire. MAG. Ergo nec
+justam, nec injustam haberet voluntatem. Sicut
+enim ibi non esset voluntas injusta, si vellet inconvenientia.
+Quoniam hoc non posset non velle; ita
+hic si vellet inconvenientia, non idcirco esset
+justa voluntas; quoniam sic hoc accepisset, ut non
+posset aliter velle. DISC. Ita est. MAG. Quoniam ergo
+nec solummodo volendo beatitudinem, nec solummodo
+volendo <emph>69</emph> quod convenit, cum ex necessitate
+sic velit, justus vel injustus potest appellari :
+nec potest nec debet esse beatus nisi velit, et nisi
+juste velit: necesse est ut sic faciat Deus utramque
+voluntatem in illo convenire, ut et beatus esse velit,
+et juste velit: quatenus addita justitia sic temperet
+voluntatem beatitudinis, et resecet voluntatis
+<pb n="0346D"/>
+excessum, et excedendi non amputet potestatem, ut,
+cum per hoc quia volet beatus esse, modum possit
+<pb n="0347A"/>
+excedere; per hoc quia juste volet, non velit
+excedere: et sic justam habens beatitudinis voluntatem,
+possit et debeat esse beatus: qui non volendo
+quod non debet velle, cum tamen possit, mereatur
+ut quod velle non debet, nunquam velle possit;
+et semper tenendo justitiam per moderatam voluntatem
+nullo modo indigeat; aut si deseruerit justitiam
+per immoderatam voluntatem, omni modo indigeat.
+DISC. Nihil convenientius cogitari potest.
+MAG. Memento quia, cum superius considerabamus
+solam beatitudinis voluntatem sine hac meta, quam
+addidimus, ut sub Deo se coerceat, dicebamus in ea
+non esse justitiam vel injustitiam, quidquid vellet.
+DISC. Bene memini.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XV [ <hi>al</hi>., XIV].</head>
+<p>
+            <pb n="0347B"/> <hi>Quod justitia sit aliquid</hi>.</p>
+<p>MAG. An putas aliquid esse quod additum
+eidem voluntati temperat illam, ne plus velit
+ quam velle oportet, et expedit? DISC. Nullus intelligens,
+nihil hoc esse putabit. MAG. Hoc, satis
+credo, animadvertis non aliud esse quam justitiam.
+DISC. Nihil aliud cogitari potest. MAG. Certum
+est igitur justitiam esse aliquid. DISC. Imo valde
+aliquid bonum. MAG. Antequam acciperet justitiam
+hanc, voluntas illa debebat velle et non velle
+secundum justitiam? DISC. Non debebat quod ideo
+non habebat, quia non acceperat. MAG. Postquam
+autem accepit: non dubitas debere, nisi
+aliqua violentia amittat? DISC. Semper eam huic debito
+alligatam puto, sive teneat quod accepit sive
+<pb n="0347C"/>
+sponte deserat. MAG. Recte judicas. Sed quid,
+si voluntas eadem justitiam tam utiliter et tam sapienter
+additam sibi, nulla indigentia et nulla violentia
+cogente, deserat, utendo sponte sua potestate,
+id est plus volendo quam debeat? An remanebit aliquid
+aliud cum ipsa voluntate, quam quod prius
+considerabamus ante additamentum justitiae? DISC.
+Quoniam nihil aliud est additum quam justitia,
+separata justitia nihil aliud certum est remanere
+quam quod prius erat, nisi quia debitricem fecit
+eam accepta justitia, et quasi quaedam pulchra
+vestigia sui reliquit derelicta eadem justitia. Eo
+enim ipso, quo debitrix justitiae permanet, monstratur
+honestate justitiae fuisse decorata. Sed et hoc
+satis justum est, ut quod semel accepit justitiam,
+<pb n="0347D"/>
+eam semper debeat, nisi violenter amiserit. Et
+certe multum dignior natura probatur, quae vel aliquando
+<pb n="0348A"/>
+habuisse et semper habere ut habeat tam
+honestum bonum convincitur, quam quae hoc
+ ipsum non habere nec debere aliquando cognoscitur.
+MAG. Bene consideras: sed adde huic tuae
+sententiae, quia quanto natura, quae hoc habuit
+et debet, monstratur laudabilior, tanto persona,
+quae non habet quod debet, convincitur vituperabilior.
+DISC. Vehementer assentio. MAG. Discernere
+mihi bene, quid ibi monstret naturam laudabilem,
+et quid faciat personam vituperabilem. DISC.
+Habuisse vel debere monstrat naturalem dignitatem,
+et non habere facit personalem inhonestatem.
+Debere enim, factum est ab eo qui dedit; non
+habere vero, factum est ab ipso qui deseruit.
+Ideo namque debet, qui accepit; ideo vero non habet,
+<pb n="0348B"/>
+quia deseruit. MAG. Non ergo reprehendis
+ in ipsa voluntate, quae non stetit in justitia, debere
+justitiam; sed non habere justitiam. DISC.
+Omnino nihil aliud ibi reprehendo quam absentiam
+justitiae, sive non habere justitiam. Nam, sicut jam
+dixi, debere, decorat; non habere vero, deturpat;
+et quo magis illud decet, eo magis istud dedecet:
+imo, non ob aliud voluntatem illam deturpat ex
+propria culpa non habere, quam quia illam decorat
+ex bonitate dantis debere habere. MAG. Nonne
+jam voluntatem ipsam, quae non habet justitiam,
+quam debet habere, judicas injustam, et in illa esse
+injustitiam? DISC. Quis non ita judicet? MAG. Si non
+esset injusta, nec esset in illa injustitia; puto quia
+nihil in ea reprehenderes. DISC. Nihil omnino. MAG.
+<pb n="0348C"/>
+Ergo nihil aliud in ea reprehendis quam injustitiam,
+et quia injusta est. DISC. Non possum aliud quidquam
+in ea reprehendere. MAG. Si ergo nihil aliud
+ibi reprehendis quam absentiam injustitiae, et illam
+non habere justitiam, sicut paulo ante dixisti; et
+iterum verum est quia nihil aliud reprehendis in ea,
+quam in illa esse injustitiam, sive illam esse injustam;
+palam est quia non aliud in illa est injustitia
+aut esse injustam, quam absentia justitiae aut
+non habere justitiam. DISC. Nullo modo possunt haec
+esse diversa. MAG. Sicut igitur absentia justitiae et
+non habere justitiam, nullam essentiam habet,
+ita injustitia, et esse injustum, nullum habet esse,
+et idcirco non est aliquid, sed nihil. DISC. Non
+est consequentius aliquid. MAG. Memento etiam jam
+<pb n="0348D"/>
+constare quia recedente justitia, excepto debito justitiae,
+nihil aliud illi remansit quam quod habebat
+<pb n="0349A"/>
+ante susceptam justitiam. DISC. Constat utique.
+MAG. At injusta non erat, nec injustitiam habebat,
+antequam haberet justitiam. DISC. Non. MAG. Ergo,
+aut recedente justitia, non est in illa injustitia,
+nec est injusta; aut nihil est injustitia, vel esse injustum.
+DISC. Non potest videri aliquid magis necessarium.
+MAG. At injustitiam illam habere, et esse
+injustam, post desertam justitiam concessisti. DISC.
+Imo non possum non videre. MAG. Nihil igitur est
+injustitia, vel esse injustum. DISC. Credentem me
+fecisti scire quod nesciens credebam.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XVI.</head>
+<p> <hi>Quod injustitia non sit, nisi absentia debitae
+justitiae</hi>.</p>
+<p>MAG. Aestimo te jam cognoscere, cum injustitia
+<pb n="0349B"/>
+non sit aliud quam absentia justitiae, nec injustum
+esse aliud quam non habere justitiam, cur non
+ante datam, sed post derelictam justitiam, eadem
+absentia justitiae vocetur injustitia, et non habere
+justitiam, sit injustum esse, et sit utrumque reprehensibile:
+non enim propter aliud, nisi quia non
+dedecet abesse justitiam, nisi ubi debet esse. Sicut
+enim virum, qui nondum debet habere barbam, non
+dedecet non habere, cum vero jam debet habere, indecorum
+est non habere, ita naturam, quae non debet
+habere justitiam, non deformat non habere; illam
+vero, quae habere debet, dehonestat non habere: et
+quanto magis debere habere, virilem ostendit
+naturam, tanto magis non habere, foedat virilem
+figuram. DISC. Sufficienter video injustitiam non esse,
+<pb n="0349C"/>
+nisi absentiam justitiae, ubi debet esse justitia.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XVII [ <hi>al</hi>., XVI].</head>
+<p> <hi>Cur desertor angelus non possit redire ad justitiam</hi>.</p>
+<p>MAG. Cum posuimus solam voluntatem beatitudinis
+praefato angelo dari, vidimus eum nihil
+potuisse <emph>70</emph> velle aliud. DISC. Aperte vidimus quod
+dicis. MAG. An modo, derelicta justitia et remanente
+illa sola voluntate, quae prius fuerat,
+beatitudinis, potest idem desertor ad voluntatem
+justitiae redire per se ad quam non potuit,
+antequam daretur, venire? DISC. Sed modo multo
+minus: tunc enim conditione naturae non poterat
+habere; nunc vero merito quoque culpae non debet
+habere. MAG. Nullo ergo modo potest habere justitiam
+a se, cum non habet justitiam; quia nec antequam
+<pb n="0349D"/>
+eam accipiat, nec postquam eam deseruit.
+DISC. Non debet aliquid habere a se.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XVIII [ <hi>al</hi>., XVII]</head>
+<p> <hi>Quomodo malus angelus se fecit injustum, et bonus
+se justum: et quod malus sic debet Deo gratias pro
+bonis, quae accepit, et deseruit; sicut bonus, qui
+servavit accepta</hi>.</p>
+<p>MAG. Nonne aliquo modo, vel cum haberet,
+potuit ipse sibi dare justitiam? DISC. Quomodo
+potuisset? MAG. Pluribus modis dicimur facere:
+dicimur enim facere aliquid, cum esse facimus rem;
+et cum facere possumus ut non sit, et non facimus.
+Hoc itaque modo potuit ipse sibi dare justitiam, quia
+potuit sibi auferre eam, et potuit non auferre: quomodo
+ille, qui stetit in veritate in qua factus est, non
+fecit, cum potuit, ut eam non haberet; et ita eam
+ipse sibi dedit, et totum hoc a Deo accepit: ab eo
+<pb n="0350B"/>
+enim acceperunt ambo habere, et posse tenere,
+et posse deserere. Hoc ultimum ideo Deus dedit ut
+possent sibi dare aliquo modo justitiam. Si enim
+nullo modo eam sibi possent auferre, nullo modo
+possent sibi dare. Qui ergo hoc modo sibi dedit eam,
+hoc ipsum a Deo accipit ut sibi eam daret.
+DISC. Video quia non auferendo potuerunt sibi
+dare justitiam; sed alter sibi dedit, alter sibi abstulit.
+MAG. Vides ergo Deo parem eos debere gratiam,
+quantum ad bonitatem ipsius, nec diabolum
+ideo minus debere Deo reddere, quod Dei est; quia
+sibi abstulit quod Deus dedit, et noluit accipere quod
+Deus obtulit. DISC. Video. MAG. Semper igitur debet
+Deo gratias agere malus angelus pro beatitudine
+quam sibi abstulit; sicut bonus pro ea quam sibi ipse
+<pb n="0350C"/>
+dedit. DISC. Verissimum est. MAG. Aestimo quia animadvertis
+Deum nullo modo posse facere injustum,
+nisi injustum non faciendo justum, cum possit.
+Nam ante acceptam justitiam nullus est justus, vel
+injustus; et nullus post acceptam justitiam sit injustus,
+nisi sponte deserta justitia. Sicut ergo bonus
+angelus fecit se justum, non auferendo sibi justitiam,
+cum potuit, ita Deus malum angelum facit injustum,
+non reddendo ei justitiam, cum possit.
+DISC. Facile cognoscitur.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XIX.</head>
+<p> <hi>Quod voluntas, in quantum est, bonum sit; et nulla
+res malum sit</hi>.</p>
+<p>MAG. Redeamus ad considerationem voluntatis;
+<pb n="0350D"/>
+et reminiscamur quod consideramus, voluntatem
+scilicet beatitudinis, quidquid velit, non esse malum,
+sed esse bonum aliquod, antequam accipiat
+<pb n="0351A"/>
+justitiam. Unde consequitur quia cum deserit
+acceptam justitiam (si eadem essentia est, quae prius
+erat) bonum est aliquod, quantum ad hoc quod
+est; quantum vero ad hoc quia justitia quae fuit in
+illa, non est, dicitur mala et injusta. Nam si velle
+Deo similem esse malum esset, Filius Dei non vellet
+similis esse Patri: aut velle quaslibet infimas voluptates,
+esset malum; mala diceretur voluntas brutorum
+animalium. Sed nec voluntas Filii Dei est mala,
+quia est justa; nec voluntas irrationalis mala dicitur,
+quia non est injusta. Unde sequitur nullam voluntatem
+esse malum, sed esse bonum in quantum est,
+quia opus Dei est; nec nisi in quantum est injusta,
+malam esse: et quoniam nulla res mala dicitur,
+nisi mala voluntas, aut propter malam voluntatem,
+<pb n="0351B"/>
+ut malus homo, et mala actio: nihil est apertius
+quam nullam rem esse malum, nec aliud esse
+malum quam absentiam justitiae derelictae in voluntate,
+aut in aliqua re propter malam voluntatem.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XX.</head>
+<p> <hi>Quomodo Deus faciat malas et voluntates et actiones:
+et quomodo accipiantur ab eo</hi>.</p>
+<p>DISC. Sic tua disputatio veris, et necessariis apertisque
+rationibus concatenatur ut nulla ratione, quod
+dicis, dissolvi posse videam: nisi quia video aliquid
+ consequi, quod nec dici debere credo,
+nec quomodo non sit si vera sunt quae dicis, non
+video. Nam si velle esse similem Deo, non nihil, nec
+malum, sed quoddam bonum est; nonnisi ab eo, a
+quo est omne quod est, haberi potuit. Si ergo
+<pb n="0351C"/>
+angelus non habuit quod non accepit, quod habuit,
+ab illo accepit a quo habuit. Quid autem ab illo accepit,
+quod ille non dedit? Quare se habuit velle
+esse similem Deo, ideo habuit, quia Deus dedit.
+MAG. Quid mirum, si quemadmodum Deus dicitur
+inducere in tentationem, quando non liberat ab
+ea, ita fatemur eum dare voluntatem malam,
+non prohibendo eam cum potest: praesertim, cum
+potestas volendi quidlibet nonnisi ab illo sit?
+DISC. Hoc modo non videtur esse inconveniens. MAG.
+Si ergo datio non est sine acceptione: quemadmodum
+non inusitate dicitur dare, et qui sponte concedit,
+et qui non approbando permittit, ita non incongrue
+accipere dicitur, et qui concessa suscipit, et qui illicita
+praesumit. DISC. Nec incongruum, nec inusitatum
+<pb n="0351D"/>
+mihi videtur quod dicis. MAG. Quid ergo dicimus
+contra veritatem, si dicimus cum diabolus voluit
+quod non debuit, hoc illum et a Deo accepisse,
+quia Deus permisit; et non accepisse, quia ille non
+<pb n="0352A"/>
+consensit? DISC. Nihil hic repugnare videtur veritati.
+MAG. Cum igitur diabolus convertit voluntatem
+ad quod non debuit, et ipsum velle, et ipsa conversio
+fuit aliquid; et tamen nonnisi a Deo et de
+Dei voluntate aliquid habuit, quoniam nec velle aliquid,
+nec movere potuit voluntatem, nisi illo permittente,
+qui fecit omnes naturas substantiales
+et accidentales, universales et individuas. In
+quantum enim voluntas, et conversio, sive motus
+voluntatis est aliquid, bonum est, et Dei est; in
+quantum vero justitia caret, sine qua esse non debet,
+non simpliciter malum, sed aliquid malum est: et
+quod malum est, non Dei, sed volentis, sive moventis
+voluntatem est. Simplex quippe malum, est
+injustitia; quoniam non est aliud quam malum, quod
+<pb n="0352B"/>
+nihil est. Aliquid vero malum est natura, in qua
+est injustitia, quia est aliquid et aliud quam injustitia,
+quae malum et nihil est. Quare quod aliquid
+est, a Deo fit, et Dei est; quod vero nihil est, id est
+malum, ab injusto fit, et ejus est. DISC. Quod quidem
+Deus naturas rerum omnium faciat, fatendum
+est; quod vero singulas actiones perversarum voluntatum,
+velut ipsum pravum motum voluntatis, quo
+ipsa mala voluntas se movet, faciat, quis concedat?
+MAG. Quid mirum, si dicimus Deum facere singulas
+actiones, quae fiunt mala voluntate, cum fateamur
+ eum facere singulas substantias, quae fiunt injusta
+voluntate et inhonesta actione? DISC. Non
+habeo quid contradicam: quippe nec negare possum
+vere aliquid esse quamlibet actionem; nec fateri
+<pb n="0352C"/>
+volo non fieri a Deo, quod vere aliquam habet essentiam.
+Neque ista tua ratio ullo modo accusat Deum,
+aut excusat diabolum? sed omnino Deum <emph>71</emph> excusat,
+et diabolum accusat. Sed vellem scire utrum
+idem desertor angelus ista de se praesciverit.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXI.</head>
+<p> <hi>Quod malus angelus non potuit praescire se casurum
+esse</hi>.</p>
+<p>MAG. Cum quaeris utrum ille angelus, qui non
+stetit in veritate, praesciverit se esse casurum,
+discernendum est de qua scientia dicas. Nam si
+de illa scientia quaeritur, quae non est nisi cum
+certa ratione aliquid intelligitur, omnino respondeo
+non posse sciri quod potest non esse. Quod enim
+non esse potest esse nequaquam certa potest colligi
+<pb n="0352D"/>
+ratione. Quapropter constat illum nullatenus potuisse
+praescire casum suum, quem necesse non erat esse
+futurum. Ponamus enim non fuisse futurum casum
+illum; an itaque putas praesciri potuisse, si futurus
+<pb n="0353A"/>
+non erat? DISC. Videtur non posse praesciri,
+quod potest futurum non esse; nec posse non esse
+futurum, quod praescitur. Sed reminiscor nunc illius
+famosissimae quaestionis de praescientia divina et
+libero arbitrio, quamvis enim tanta auctoritate asseratur,
+et tanta teneatur utilitate ut nullatenus
+propter ullam humanam rationem dubitandum sit
+divinam praescientiam et liberum arbitrium sibi invicem
+consentire, tamen quantum ad rationis considerationem
+quae videtur, spectat, insociabiliter
+videntur dissentire: unde videmus in hac
+quaestione nonnullos sic in unam partem vergentes,
+ut alteram omnino deserant, unda infidelitatis
+submergente, perire; multos vero, velut contrariis
+ventis hinc inde contra invicem sustentando
+quassantibus, periclitari. Cum vero divinam constet
+<pb n="0353B"/>
+praescientiam esse omnium, quae fiunt libero arbitrio,
+nec aliquid horum sit ex necessitate, nihilominus
+videtur posse non esse futurum, quod praescitur.
+MAG. Breviter interim hoc respondeo.
+Praescientia Dei non proprie dicitur praescientia: cui
+enim omnia semper sunt praesentia, non habet futurorum
+praescientiam, sed praesentium scientiam. Cum
+ergo alia sit ratio de praescientia futurae, quam de
+praesentis rei scientia; non est necesse divinam
+praescientiam, et illam, de qua quaerimus, eamdem
+habere consequentiam. DISC. Assentio. MAG. Redeamus
+ad illam, quae erat in manibus, quaestionem.
+DISC. Placet quod dicis. Sed eo pacto, ut cum de
+illa, cujus mentionem feci, quaesiero, mihi respondere
+quod inde Deus tibi dignabitur ostendere,
+non renuas. Valde namque necessaria est ejus solutio,
+<pb n="0353C"/>
+si jam ab aliquo facta est, aut si fiat: fateor
+enim nondum alicubi, excepta divina auctoritate,
+cui indubitanter credo, me legisse rationem, quae
+mihi sufficeret ad ejusdem solutionis intellectum.
+MAG. Cum ad illam veniemus, si forte venerimus,
+erit sicut Deus dabit. Nunc autem, quoniam supra
+posita ratione patet apostatam angelum non potuisse
+praescire ruinam suam, ea praescientia, quam rei
+necessitas sequitur: accipe adhuc aliam rationem,
+quae non solum praescientia, sed et aestimatione aut
+qualibet suspicione suum eum praesensisse casum
+excludit. DISC. Hoc exspecto. MAG. Si adhuc in
+bona voluntate stans praesciebat se casurum, aut
+volebat ut ita fieret, aut non volebat. DISC.
+Unum horum necesse est verum esse. MAG. Sed si
+<pb n="0354A"/>
+cum praescientia voluntatem habebat aliquando cadendi;
+jam ipsa mala voluntate ceciderat. DISC. Patet
+quod dicis. MAG. Non itaque volendo cadere,
+prius scivit se casurum quam cecidit. DISC. Non
+potest aliquid objici conclusioni tuae. MAG. At si
+ praesciebat se casurum, et nolebat, tantum miser
+erat dolendo quantum stare volebat. DISC. Negari
+non potest. MAG. At tanto justior erat quanto
+magis volebat stare, et quo erat justior, eo debebat
+esse felicior. DISC. Non potest negari. MAG.
+Ergo si nolendo praesciebat se casurum, tanto erat
+miserior, quanto debebat esse felicior: quod non
+convenit. DISC. Ita quidem consequi negare nequeo;
+sed hoc saepe non solum sine inconvenientia, sed et
+laudabiliter et superna gratia fieri cognoscitur: multoties
+enim ut pauca de incommodis justorum
+<pb n="0354B"/>
+commemorem, quanto quis justior est, tanto majore
+doloris compassione de alieno casu afficitur. Saepe
+etiam eum, qui majorem habet injustitia constantiam,
+videmus ab injustis immaniorem pati, persecutionis
+instantiam. MAG. Non est eadem ratio in
+hominibus, et in illo angelo. Hominum enim
+natura, propter peccatum primi parentis, jam innumerabilium
+incommodorum facta est passibilis: ex
+qua passibilitate multis modis gratia nobis operatur
+incorruptibilitatem. Ille vero, adhuc nullo peccato
+praecedente, alicujus mali non meruerat, passionem.
+DISC. Satisfecisti objectioni meae. Patet enim
+ quia haec ipsa ratio sicut separat ab ipso malo
+angelo sui casus praescientiam ita nihilominus
+omnem segregat opinionem. MAG. Est et aliud quod
+<pb n="0354C"/>
+mihi satis videtur ostendere nullo modo eum suam
+ante putavisse futuram praevaricationem. Nempe
+aut coactam putavisset, aut spontaneam; sed nec
+ullatenus erat unde se aliquando cogi suspicaretur,
+nec quandiu voluit in veritate perseverare ullo modo
+putare potuit se sola voluntate illam deserturum.
+Supra namque jam monstratum est eum, quandiu
+rectam voluntatem habuit, in hac ipsa voluntate
+voluisse perseverare. Quapropter volendo tenere
+perseveranter, quod tenebat; nullo modo video unde
+potuisset vel suspicari, nulla alia accedente causa
+sola se illud deserturum voluntate. Non nego illum
+scivisse quia posset mutare voluntatem, quam tenebat;
+sed dico illum non potuisse putare quia aliquando,
+omni alia cessante causa, sponte mutaret
+voluntatem, quam perseveranter tenere volebat.
+<pb n="0355A"/>
+DISC. Qui diligenter intelligit quod dicis, patenter
+videt quia nullo modo scire vel putare potuit angelus
+malus se facturum quod male fecit.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXII.</head>
+<p> <hi>Quod scivit se non debere velle hoc quod volendo peccavit;
+et debere puniri si peccaret</hi>.</p>
+<p>Sed et hoc volo ut pariter ostendas, si scivit se
+non debere velle quod praevaricando voluit. MAG. In
+hoc dubitare non debes, si supra dicta consideras.
+Si enim nescisset se non debere velle quod injuste
+voluit, ignorasset se debere voluntatem tenere quam
+deseruit. Quapropter nec justus esset tenendo, nec
+injustus deserendo justitiam, quam nesciisset: imo
+nec poterat non velle plus quam habebat, si nesciebat
+se debere esse contentum eo quod acceperat.
+<pb n="0355B"/>
+Denique, quia ita rationalis erat ut nulla re prohiberetur
+uti ratione, non ignorabat quid deberet
+vel non deberet velle. DISC. Rationem tuam non video
+posse infirmari; sed tamen inde mihi videtur quaedam
+oriri quaestio. Si enim sciebat se non debere deserere
+quod acceperat, utique sciebat nihilominus se debere
+puniri, si desereret. Quomodo igitur sponte potuit
+velle unde miser esset, qui acceperat inseparabiliter
+velle ut beatus esset.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIII.</head>
+<p> <hi>Quod non debuit scire quia si peccaret, puniretur</hi>.</p>
+<p>MAG. Sicut certum est quia debere se puniri, si
+peccaret, ignorare non potuit; ita quia puniretur,
+si peccaret, scire non debuit. DISC. Quomodo hoc
+<pb n="0355C"/>
+ignoravit, si ita rationalis erat, ut ejus rationalitas
+non impediretur veritatem cognoscere, sicut saepe
+nostra impeditur, <emph>72</emph> gravante corruptibili corpore?
+MAG. Quia rationalis erat, potuit intelligere
+quia juste, si peccaret, puniretur. Sed, quoniam
+judicia Dei abyssus multa <note>(Psal. XXXV, 7)</note>, et
+investigabiles viae ejus <note>(Rom. XI, 33)</note>, nequivit comprehendere
+an Deus faceret quod juste facere posset.
+Sed et si quis dicat quia nullatenus credere potuit
+Deum creaturam suam propter ejus culpam damnaturum,
+quam tanta sua bonitate fecerat: praesertim,
+cum nullum exemplum justitiae ulciscentis injustitiam
+praecessisset, et certus esset numerum, in quo
+illi facti erant, qui Deo frui deberent, tanta
+sapientia esse praestitutum: ut, sicut nihil habebat
+<pb n="0355D"/>
+superfluum, ita si minueretur imperfectus esset;
+nec tam praeclarum opus Dei ex aliqua parte permansurum
+imperfectum; nec ulla ratione scire
+posset si homo jam factus erat, Deum humanam
+naturam pro angelica, aut angelicam pro humana,
+si caderet, substituturum: sed potius unamquamque
+in id, ad quod facta erat, pro se, non pro alia restituturum
+<pb n="0356A"/>,
+aut si factus nondum homo erat,
+multo minus putare posset ad subtitutionem alterius
+naturae illum esse faciendum. Si, inquam, aliquis
+hoc dicat, quae inconvenientia inest? DISC. Mihi
+quidem videtur magis convenientia quam inconvenientia.
+MAG. Redeamus ad hoc quod dixeram,
+illum scilicet, hanc non debuisse habere scientiam.
+Si enim scivisset, non posset volens et habens
+beatitudinem sponte velle unde miser esset: quare
+non esset justus, non volendo quod non deberet,
+quoniam non posset velle. Sed et hac ratione considera
+utrum scire, quod quaeris, debuerit: nam
+si sciisset, aut peccasset, aut non? DISC. Unum
+horum esset. MAG. Si praevisa tanta poena, nulla
+indigentia et nulla re cogente peccasset; tanto magis
+<pb n="0356B"/>
+puniendus esset. DISC. Ita est. MAG. Non ergo
+haec praescientia illi expediebat. DISC. Vere peccaturo
+non expediebat praescire poenam. MAG. Quod si non
+peccasset, aut sola bona voluntate non peccasset,
+aut timore poenae. DISC. Nihil aliud dici potest. MAG.
+Sed quoniam non cavisset peccatum solo amore
+justitiae, ipso opere monstravit. DISC. Non est dubium.
+MAG. Si vero timore cavisset, non esset
+justus.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXIV [ <hi>al</hi>. XXIII].</head>
+<p> <hi>Quod etiam bonus angelus hoc scire non debuit</hi>.</p>
+<p>DISC. Palam est nullo modo eum debuisse
+scire indictam sibi poenam suum secuturam peccatum.
+Sed quoniam et eum angelum qui stetit,
+et eum qui non stetit in veritate, pari scientia praeditos
+<pb n="0356C"/>
+in prima conditione credimus, non video cur
+illi negata sit scientia ista, cui tam tenax erit bona
+voluntas ut sufficeret ad cavendum peccatum. MAG.
+Non tamen posset, nec deberet contemnere poenam,
+quam praesciisset. DISC. Sic videtur. MAG. Sicut ergo
+solus amor justitiae; ita solum odium poenae sufficeret
+ad non peccandum. DISC. Nihil planius. MAG. Duas
+igitur habuisset causas non peccandi: unam honestam
+et utilem; alteram non honestam et inutilem,
+id est amorem justitiae et odium poenae. Nam non
+est honestum solo odio poenae non peccare; et
+ad non peccandum inutile est odium poenae, ubi
+solus amor justitiae sufficit. DISC. Non est quod possim
+objicere. MAG. Quid ergo? Nonne multo nitidius
+<pb n="0356D"/>
+placet ejus perseverantia, cum illa sola perseverandi
+causa videtur in illo, quae utilis est et honesta quia
+spontanea, quam si simul sese illa ostenderet, quae
+inutilis et inhonesta, quia necessaria intelligitur?
+ DISC. Sic patet quod dicis, ut quod paulo ante
+volebam eum scivisse, nunc gaudeam eum nescivisse;
+quia nunc eamdem eum negare non possumus habere
+<pb n="0357A"/>
+scientiam, quam ipso angeli peccantis exemplo
+ignorare non potest. MAG. Quod nunc uterque scilicet
+bonus angelus et malus, certus est quia talem culpam
+talis sequitur poena; sicut scientia est ambobus
+diversa, ita est scientiae causa non eadem, et finis
+dissimilis. Nam quod ille scit ipso sui experimento,
+hoc iste didicit solo alterius exemplo: sed ille illo
+modo, quia non perseveravit; iste alio modo,
+quia perseveravit.. Quapropter, sicut illi quoniam
+vituperabiliter non perseveravit, scientia sua
+est ad contumeliam; ita isti quoniam perseveravit,
+scientia sua est ad gloriam. Si ergo
+isti dicitur hoc solo, quia hanc habet scientiam,
+jam peccare non posse; satis patet quia, sicut gloriosa
+est scientia quae ex laudabili perseverantia est
+<pb n="0357B"/>
+comparata; sic ad gloriam est impotentia peccandi,
+quae ex gloriosa scientia est nata. Quemadmodum
+ergo malus angelus vituperandus est, quia non potest
+ad justitiam redire; ita iste laudandus est, quia non
+potest abire. Sicut enim ille jam redire non potest,
+quia sola mala voluntate abiit; sic iste jam abire non
+potest, quia sola bona voluntate permansit. Palam
+igitur est quia sicut illi non posse recuperare, quod
+deseruit, est poena peccati, ita huic non posse deserere
+quod tenuit, est praemium justitiae.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXV.</head>
+<p> <hi>Quod ille etiamsi hoc solo dicitur jam non posse peccare,
+quia nunc habet hanc scientiam ex casu
+diaboli, tamen illi sit ad gloriam</hi>.</p>
+<p>Valde pulchra esset hujus scientiae atque impotentiae
+<pb n="0357C"/>
+tua ista contemplatio, si quemadmodum asseris,
+ideo bono angelo eadem scientia et impotentia, quia
+perseveravit, contigissent. Non enim eas adeptus
+esse videtur, quia ipse perseveravit; sed quia
+desertor non perseveravit. MAG. Si ita est ut dicis,
+gaudere potest bonus angelus de casu apostatae angeli,
+utpote cui expediebat ut ille caderet; quoniam
+adeptus est hanc scientiam, qua nec peccare, nec
+miser esse amplius possit; non quia ipse bene meruit,
+sed quia alius male meruit: quae omnia sunt nimia
+absurditate plena. DISC. Quanto absurdius videtur,
+sicut tu monstras, stanti angelo profuisse casum
+peccantis; tanto magis necessarium est ut ostendas
+istum non ideo adeptum esse scientiam, de qua
+agitur, quia ille peccavit. MAG. Non debes dicere
+<pb n="0357D"/>
+ideo bonum angelum ad scientiam profecisse hanc,
+quia malus peccavit; sed bonum angelum ideo profecisse
+ad hanc scientiam exemplo cadentis, quia
+ille peccavit. Si enim neuter peccasset, utrique
+<pb n="0358A"/>
+daturus erat Deus eamdem scientiam merito perseverantiae,
+alio modo sine alicujus cadentis exemplo.
+Nullus enim dicet Deum non alio modo potuisse
+angelis suis hanc dare scientiam. Cum ergo ille
+peccavit, exemplo ejus istum docuit quod docturus
+erat; non impotentia, quia alio modo non potuit;
+sed majore potentia, qua de malo bonum facere
+potuit, ut nec malum inordinatum in regno omnipotentis
+sapientiae permaneret. DISC. Placet mihi
+valde quod dicis. MAG. Patet itaque si bonus angelus
+hoc solo jam peccare non posset, quia scit peccatum
+mali angeli poenam secutam esse; quo tamen
+haec impotentia non illi esset addimminutionem laudis
+; sed ad praemium servatae justitiae. Sed scis
+quia supra claruit eum idcirco peccare non posse,
+<pb n="0358B"/>
+quoniam merito perseverantiae adeo provectus
+est, ut jam non videat quid plus velle queat. DISC.
+Nihil excidit eorum quae supra, ratione investigante,
+comperimus, a memoria mea.
+<emph>73</emph> </p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVI.</head>
+<p> <hi>Quid horremus audito nomine mali: et quid facit
+ opera, quae dicitur injustitia facere, cum
+ipsa et malum nihil sit</hi>.</p>
+<p>Sed cum omnibus quaestionibus meis satisfeceris,
+illud adhuc exspecto aperiri quid sit quod horremus
+audito nomine mali; et quid faciat opera, quae
+in justitia, quae malum est, videtur facere, ut, in
+raptore, in libidinoso cum malum nihil sit. MAG.
+Breviter tibi respondeo. Malum, quod est justitia,
+semper nihil est; malum vero, quod est incommoditas,
+<pb n="0358C"/>
+aliquando sine dubio est nihil, ut caecitas;
+aliquando est aliquid, ut tristitia et dolor. Et hanc
+incommoditatem, quae est aliquid, semper odio habemus.
+Cum itaque audimus nomen mali; non malum
+quod nihil est, timemus; sed malum quod
+aliquid est, quod absentiam boni sequitur. Nam injustitiam
+et caecitatem, quae malum et nihil sunt,
+sequuntur multa incommoda, quae malum et aliquid
+sunt: et haec sunt quae horremus audito nomine mali.
+Cum autem dicimus quia injustitia facit rapinam,
+aut caecitas facit hominem cadere in foveam, nequaquam
+intelligendum est quod injustitia aut caecitas
+faciant aliquid; sed quod si justitia esset in voluntate,
+et visus in oculo, nec rapina fieret, nec
+casus in foveam. Tale est, cum dicimus: Absentia
+<pb n="0358D"/>
+gubernaculi impellit navem in scopulos, aut absentia
+freni facit equum discurrere: quod non est aliud
+quam si gubernaculum adesset navi et frenum
+equo, nec venti navem impellerent, nec equus discurreret.
+<pb n="0359A"/>
+Sicut namque gubernaculo navis, et freno
+regitur equus; sic justitia gubernatur voluntas hominis,
+et visu pedes.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVII.</head>
+<p> <hi>Unde venit malum in angelum, qui bonus erat</hi>.</p>
+<p>DISC. Sic mihi de malo, quod est injustitia,
+satisfecisti, ut jam omnis in corde meo, quae de illo
+inesse solebat, quaestio sit decisa. De hoc enim
+malo quaestio nasci videtur, quoniam si esset aliqua
+essentia, esset a Deo, a quo necesse est esse omne,
+quod aliquid est, et impossibile est, esse peccatum
+sive injustitiam. De malo vero, quod est incommoditas,
+si aliquando est aliquid, nihil video
+rectae fidei obviare. Sed, ne taedeat te breviter respondere
+fatuae interrogationi meae, ut sciam qualiter
+<pb n="0359B"/>
+hoc ipsum quaerentibus respondeam: quippe non
+semper facile est insipienti insipienter quaerenti,
+sapienter respondere. Quaero igitur unde primum
+venit malum, quod dicitur injustitia, sive peccatum
+in angelum, qui factus est justus? MAG. Dic tu mihi
+unde venit nihil in aliquid? DISC. Nihil nec venit,
+nec recedit. MAG. Cur ergo quaeris unde venit injustitia,
+quae nihil est? DISC. Quia quando justitia
+recedit inde ubi erat, dicimus accedere injustitiam.
+MAG. Dic ergo quod magis proprie et apertius
+dicitur; et quaere de abscessu justitiae. Siquidem
+saepe apta interrogatio expedit responsionem, et
+inepta reddit impeditiorem. DISC. Cur ergo recessit
+ab angelo justo justitia? MAG. Si proprie vis loqui,
+non recessit ab eo; sed ipse deseruit eam, volendo
+<pb n="0359C"/>
+quod non debuit. DISC. Cur deseruit eam? MAG.
+Cum dico quia volendo quod non debuit, eam deseruit,
+<pb n="0360A"/>
+aperte ostendo cur et quomodo illam deseruit.
+Nam ideo illam deseruit, quia voluit quod
+velle non debuit; et hoc modo id volendo quod non
+debuit illam deseruit. DISC. Cur voluit quod non debuit?
+MAG. Nulla causa praecessit hanc voluntatem,
+nisi quia velle potuit. DISC. An ideo voluit, quia potuit?
+MAG. Non; quia similiter potuit bonus angelus
+velle; nec tamen voluit. Nam nullus vult,
+quod velle potest, ideo quia potest. DISC. Cur ergo
+voluit? MAG. Nonnisi quia voluit. Nam haec voluntas
+nullam aliam habuit causam, qua impelleretur aliquatenus,
+aut attraheretur; sed ipsa sibi efficiens
+causa fuit, si dici potest, et effectus
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT XXVIII.</head>
+<p> <hi>Quod potestas volendi quod non debuit, bona fuit
+<pb n="0360B"/>
+semper, et ipsum velle, bonum, quantum ad esse</hi>.</p>
+<p>DISC. Si potestas ipsa volendi et ipsum velle, fuit
+aliquid, bonum fuit et a Deo. MAG. Utrumque
+fuit aliquid: et potestas quidem nonnisi bonum aliquid,
+et spontaneum donum Dei; velle autem, secundum
+essentiam, bonum: sed quoniam injuste
+factum est malum, et tamen a Deo fuit, a quo est
+omne quod aliquid est. Nempe non solum hoc habet
+aliquis a Deo, quod Deus sponte dat; sed etiam
+quod injuste rapit, Deo permittente. Et sicut dicitur
+Deus facere, quod permittit fieri; ita dicitur dare,
+quod permittit rapi. Quoniam igitur, permittente
+Deo, angelus malus per rapinam usus est potestate
+a Deo sponte data, a Deo habuit ipsum uti, quod
+non est aliud quam ipsum velle. Non est enim aliud
+<pb n="0360C"/>
+velle quam uti potestate volendi; sicut idem est loqui,
+et uti potestate loquendi.
+
+</p>
+        </div2>
+      </div1>
+</body>
+  </text>
+</TEI>

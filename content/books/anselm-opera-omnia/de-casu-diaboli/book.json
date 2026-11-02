@@ -1,0 +1,210 @@
+{
+  "id": "anselm-de-casu-diaboli",
+  "cover": "classic",
+  "name": {
+    "la": "De casu diaboli",
+    "en-US": "On the Fall of the Devil",
+    "pt-BR": "Sobre a queda do diabo"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Dialogus de casu diaboli: quomodo diabolus peccavit non accepta perseverantia, et quid sit malum, nihil, voluntas et iustitia. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s dialogue between teacher and student on how the devil sinned and fell, and on the nature of evil as a privation, of the will, and of justice. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR.",
+    "pt-BR": "O diálogo de Anselmo entre mestre e discípulo sobre como o diabo pecou e caiu, e sobre a natureza do mal como privação, da vontade e da justiça."
+  },
+  "composed": "c. 1085-1090",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-casu-diaboli",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10616",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10616, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. Dialogue turns are set as separate paragraphs. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quod etiam ad angelos dicatur: Quid habes, quod non accepisti? et a Deo non sit nisi bonum, et esse: et omne bonum sit essentia, et omnis essentia bonum"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Cur videatur diabolus ideo non accepisse perseverantiam, quia Deus non dedit"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quod ideo Deus non dedit, quia ille non accepit"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Quomodo ille peccavit, et voluit similis esse Deo"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quod boni angeli ante casum malorum pecccare potuerunt"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Quomodo boni confirmati sunt in suo statu, et mali in casu suo"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Quaestio, an voluntas, et ejus conversio ad quod non debet, sit ipsum malum quod malos facit; et cur non possit rationalis creatura per se de malo converti ad bonum, sicut potest de bono ad malum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Quaestio proposita resolvitur. Quod voluntas, et ejus conversio non sit ipsum malum"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Quod injustitia sit ipsum malum, et sit nihil"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Quomodo malum videatur esse aliquid"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Quod malum et nihil non possint per nomen suum probari aliquid esse, sed quasi aliquid"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Quod angelus a se non potuit habere voluntatem primam; et quod multa dicuntur posse aliena potestate, et non posse aliena impotentia"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quod accepta sola voluntate beatitudinis, nec aliud posset velle, nec illam non velle; et quidquid vellet, non esset justa vel injusta voluntas"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Quod similiter sit, si sola accepta est voluntas rectitudinis: et idcirco utramque voluntatem accepit simul ut et justus, et ut beatus esset"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Quod justitia sit aliquid"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Quod injustitia non sit, nisi absentia debitae justitiae"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Cur desertor angelus non possit redire ad justitiam"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Quomodo malus angelus se fecit injustum, et bonus se justum: et quod malus sic debet Deo gratias pro bonis, quae accepit, et deseruit; sicut bonus, qui servavit accepta"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Quod voluntas, in quantum est, bonum sit; et nulla res malum sit"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Quomodo Deus faciat malas et voluntates et actiones: et quomodo accipiantur ab eo"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Quod malus angelus non potuit praescire se casurum esse"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Quod scivit se non debere velle hoc quod volendo peccavit; et debere puniri si peccaret"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. Quod non debuit scire quia si peccaret, puniretur"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Quod etiam bonus angelus hoc scire non debuit"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Quod ille etiamsi hoc solo dicitur jam non posse peccare, quia nunc habet hanc scientiam ex casu diaboli, tamen illi sit ad gloriam"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI. Quid horremus audito nomine mali: et quid facit opera, quae dicitur injustitia facere, cum ipsa et malum nihil sit"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII. Unde venit malum in angelum, qui bonus erat"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII. Quod potestas volendi quod non debuit, bona fuit semper, et ipsum velle, bonum, quantum ad esse"
+      }
+    }
+  ]
+}
