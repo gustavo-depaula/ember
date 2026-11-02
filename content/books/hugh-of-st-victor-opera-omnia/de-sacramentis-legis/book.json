@@ -1,0 +1,60 @@
+{
+  "id": "hugh-de-sacramentis-legis",
+  "cover": "classic",
+  "name": {
+    "la": "De sacramentis legis naturalis et scriptae",
+    "en-US": "On the Sacraments of the Natural and the Written Law",
+    "pt-BR": "Sobre os sacramentos da lei natural e escrita"
+  },
+  "author": {
+    "la": "Hugo de Sancto Victore",
+    "en-US": "Hugh of St. Victor",
+    "pt-BR": "Hugo de São Vítor"
+  },
+  "description": {
+    "la": "De sacramentis legis naturalis et scriptae dialogus (dubium).",
+    "en-US": "A dialogue on the sacraments of the natural law and the law of Moses (attributed to Hugh in PL, doubtful). Latin only, from the Migne text (Patrologia Latina 176, 1854), a machine-corrected OCR.",
+    "pt-BR": "Um diálogo sobre os sacramentos da lei natural e da lei escrita (atribuído a Hugo em Migne, duvidoso)."
+  },
+  "composed": "c. 1130",
+  "languages": [
+    "la"
+  ],
+  "work": "hugh/de-sacramentis-legis",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 176)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=HuDeSVi.DeSaLeN",
+      "edition": "Migne, Patrologia Latina 176 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), text HuDeSVi.DeSaLeN, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "De sacramentis legis naturalis et scriptae (pars 1)"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "De sacramentis legis naturalis et scriptae (pars 2)"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "De sacramentis legis naturalis et scriptae (pars 3)"
+      }
+    }
+  ]
+}

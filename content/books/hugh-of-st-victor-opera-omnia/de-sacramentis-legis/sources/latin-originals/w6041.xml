@@ -1,0 +1,1563 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De sacramentis legis naturalis et scriptae</title>
+              <author ref="http://viaf.org/viaf/9865788">Hugo de S. Victore<date>-1141</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1854</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 176</title>
+           <idno>HuDeSVi.DeSaLeN</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+<div1>
+        <head>De sacramentis legis naturalis et scriptae</head>
+<p>
+          <pb n="0017C"/>D. Quid fuit priusquam mundus fieret?  M. Solus
+Deus. D. Quandiu prius fuit?  M. Ab aeterno.  D. Ubi
+fuit cum nihil esset praeter ipsum?  M. Ubi modo
+est, ibi fuit et tunc. D. Ubi est modo?  M. In semetipso
+est, et omnia in ipso sunt, et ipse est in
+omnibus. D. Quando fecit Deus mundum?  M. <hi>In
+principio <note>(Gen. I)</note>
+          </hi>. D. Ubi factus est mundus?  M. In
+Deo. D. Unde factus est mundus?  M. De nihilo.
+ D. Quomodo factus est mundus.  M. Prius in materia
+simul facta sunt omnia: postea vero in hac qua
+nunc mundus cernitur forma, per sex dies composita
+sunt et ordinata universa.  D. Quomodo poterat materia
+prius esse quam forma?  M. Materia illa non
+<pb n="0017D"/>
+omnino sine forma fuit; sed tamen informis prius
+fuisse dicitur, quia in prima sui conditione tam
+decentem et tam aptam (sicut nunc habet) adhuc
+formam non habuit.  D. Quare voluit Deus prius
+<pb n="0018C"/>
+creare rudem materiam: quasi non potuerit simul
+cum forma creasse eam?  M. Voluit prius ostendere
+quid esset creatura ex se, et quid ex beneficio Creatoris
+deinde accepisset; ideoque prius creavit essentiam,
+postmodum formam indidit.  D. Cui ostendebat
+hoc, quando adhuc nemo erat qui hoc videre
+poterat?  M. Erant jam tunc angeli quibus hoc ostenderetur,
+ut foris in rebus conditis viderent, quod
+in seipsis intus agnoscerent; ne et ipsi gloriam
+quam acceperant sibi, sed conditori suo tribuendam
+putarent. Nobis quoque hoc ostenditur; qui etsi
+illud quando factum est non vidimus, quod tamen
+factum sit (sacro eloquio referente) audivimus.
+ D. Ubi vel qualis fuit prima illa materia priusquam
+<pb n="0018D"/>
+formaretur?  M. Ibidem confusa jacuit, ubi nunc
+ordinata subsistit. Nam terra in eodem in quo modo
+est, hoc est: medio loco constituta, tribus reliquis
+<pb n="0019A"/>
+elementis, id est aqua, et aere, et igne, in una adhuc
+caligine confusis undique involvebatur, quae videlicet
+confusio circumquaque terram ambiens tantumdem
+spatii sursum occupabat, quantum nunc
+universitas creaturarum complectitur. Formam jam
+tunc terra qualemcunque caeteris potiorem habuit,
+sed involuta atque obducta necdum apparere potuit
+quod fuit. Reliqua tria, ut dictum est, omnimodo
+confusa erant et indigesta, in modum cujusdam nebulae
+in hoc quod nunc aer et coelum tenet spatio
+suspensa. Quam caliginem tenebrosam tenebras
+Scriptura nominavit: quae in principio super faciem
+abyssi (quae adhuc nondum impleta erat) collectione
+aquarum desuper oppansae pendebant.</p>
+<p> D. Quae formatio facta est prima die?  M. Lux facta
+<pb n="0019B"/>
+est prima die <note>(Gen. I)</note>: quae quidem jam prius inter
+caetera materialiter creata fuerat; sed nunc
+primum ut lucere posset et illuminare, ab aliis segregata
+est atque distincta.  D. Qualis existimanda
+est fuisse lux illa?  M. Sunt qui asserunt nubem
+lucidam fuisse, quae (sicut sol modo) circumferebatur
+ambiens terram; quae dum superiores mundi
+partes oriens lustrabat diem, occasu autem suo ad
+infera descendens absentata luce fecit noctem. Inde
+distinctos et appellatos volunt tres illos primos dies
+in exordio creaturarum priusquam sol et caetera luminaria
+conderentur.  D. Ubi dicendum est modo
+esse lucem illam?  M. Dicunt modo in superioribus
+aetheris partibus circumquaque dispersam esse, et
+adhuc videri posse si non major illam solis claritas
+<pb n="0019C"/>
+absconderet; nocte vero ex illa adhuc luce diligenter
+considerantibus demonstrari quasi quasdam tenuissimae
+nebulae lucidas contra firmamentum reliquias
+dispersas, quas omnino major diei claritas ab
+oculis intuentium celat.</p>
+<p> D. Quae formatio facta est secunda die?  M. Firmamentum
+factum est secunda die <note>(ibid.)</note>, quod quidem
+et prius ipsum materialiter creatum fuerat; sed huc
+usque indiscretum et in illa universali confusione
+permistum manebat. Nunc autem, id est secunda
+die, erutum a permistione et in formam redactum
+positum est, ut inter aquas superiores et aquas inferiores
+divideret; sic scilicet ut illi confusioni in
+modum nebulae circa terram pendenti medium veniens
+<pb n="0019D"/>
+quodammodo illam intersecaret, et ambitu
+suo circumquaque complectens partem infra se clauderet,
+partem extrinsecus separaret, id est ut ab
+ipsis aquis quae in divisione extrinsecus sive superius
+remanserunt, firmamentum medium inter
+aquas et aquas totum circumquaque ambiretur,
+aquae autem, quae intrinsecus sive inferius relictae
+sunt, totae ab ipso firmamento ex omni parte clauderentur.
+Pars ergo aquarum in divisione super firmamentum
+remansit; pars alia infra ambitum firmamenti
+conclusa, totum circumquaque aeris spatium
+implens occupavit.  D. Estne credendum adhuc
+esse aquas super firmamentum?  M. Sic putatur;
+quia et Scriptura sacra diversis in locis hoc manifeste
+confirmat, sicut est illud Psalmistae testimonium:
+<pb n="0020A"/> <hi>Aquae quae super coelos sunt laudent nomen
+Domini 
+ <note>(Psal. CXLVIII)</note>
+          </hi>.</p>
+<p> D. Quomodo possunt aquae super coelum consistere?
+ M. Glacialiter vel (quod magis credibile est)
+ad similitudinem illius primi chaos firmiter ibi suspenduntur
+pendulae ad modum nebulae levis, qualis
+in principio natura omnium aquarum fuisse putatur.</p>
+<p> D. Quae fuit formatio diei tertiae?  M. Aquae illae
+quae sub firmamento pendentes remanserant compactae
+sunt ad invicem; et pondere tandem deorsum
+pressae congregatae sunt <hi>in locum unum <note>(Gen. I)</note>
+          </hi>, id
+est in magnam illam abyssum quam prius desuper
+obtexerant: unde et nunc ad omnes terrarum partes
+per thracones et alveos suos derivantur. Congregatis
+<pb n="0020B"/>
+autem aquis, coepit apparere <hi>arida <note>(ibid.)</note>
+          </hi>,
+hoc est terra, quae prius caligine illa et confusione
+involuta latuit; quam apparentem Deus germinibus
+suis vestivit: et sic completum est opus diei tertiae.</p>
+<p> D. Quae formatio facta est die quarta?  M. Luminaria
+condita sunt in coelo, id est sol et luna et stellae;
+ut lucerent super terram, et illuminarent illam,
+et tempora cursu suo distinguerent <note>(ibid.)</note>.</p>
+<p> D. Quae formatio facta est die quinta?  M. Aves
+et pisces facti sunt de aquis. Aves deinde in aere
+collocatae sunt; pisces in originali sede permanserunt <note>(ibid.)</note>.</p>
+<p> D. Quae formatio facta est die sexta?  M. Bestiae
+et caetera animantia quae vivunt super terram de
+<pb n="0020C"/>
+terra creata sunt. Consummatis autem et praeparatis
+omnibus, postremo (eadem tamen sexta die) factus
+est homo, qui universae dominaretur creaturae.
+ D. Quare aves, quae in aere collocatae sunt, non sunt
+factae de ipso aere, sicut pisces de aqua, et bestiae
+pariter et homo de terra?  M. Quia aer talem non
+habet corpulentiam ut de eo animal fieri possit sicut
+et de terra. D. Quare novissime factus est homo?
+ M. Quia homo universae creaturae praeficiendus fuit,
+congruum erat ut prius mansio ejus praepararetur,
+postmodum ipse ordinatis omnibus quasi possessor
+et rector introduceretur in orbem terrarum. Haec
+igitur sunt opera conditionis quae sex diebus fecit
+Deus atque complevit, ante omnem diem creans,
+<pb n="0020D"/>
+tribus primis diebus disponens et ordinans, tribus
+sequentibus exordinans: prima discernens, secunda
+distinguens, tertia disponens, quarta exornans
+coelos, quinta aerem et aquam, sexta terram.  D. 
+Quare sex diebus fecit Deus opera sua, et septima
+requievit?  M. Senarius quia ex partibus suis constat,
+signum perfectionis est; et idcirco voluit Deus sex
+diebus complere opera sua, ut ostenderet se in iis
+quae fecerat, nec superfluum aliquid posuisse nec
+reliquisse imperfectum. Completis autem sex diebus
+septima demum die requievit <note>(Gen. II)</note>, id est ab
+opere cessavit; non quod ipse quasi fatigatus requie
+indigeret, sed ut nobis si secundum modum et mensuram
+nostram opera bona et perfecta facere studuerimus,
+requiem futuram promitteret.  D. Quomodo
+<pb n="0021A"/>
+septima die Deus requievisse dicitur, cum ipse
+in Evangelio dicat: <hi>Pater meus usque modo operatur
+et ego operor? <note>(Joan. V.)</note>
+          </hi> M. Deus multis modis
+operari dicitur. Est namque opus creationis, est et
+opus dispositionis, est opus propagationis, et est
+opus gubernationis; Opus creationis ante omnem
+diem fecit; opus dispositionis sex diebus complevit;
+opus propagationis usque in finem saeculi non
+deserit; ab opere gubernationis usque in aeternum
+non cessabit.  D. Si septima die primum requievit
+Deus, quid ergo egit ab initio primae diei postquam
+lucem fecerat usque ad exortum sequentis quando
+firmamentum faciebat?  M. Si propius rem intueri
+velis, invenies nequaquam Deum prima die post
+exordium lucis ab omni penitus opere quievisse;
+<pb n="0021B"/>
+quia non solum hoc quod lux facta est ad opus ejus
+pertinuit; sed etiam quod directa est, donec peracto
+circuitionis suae ambitu cursum consummavit. Primum
+igitur ut opus suum a perfecto inciperet, lucem
+orientem fecit; et inde eam dirigens, primum
+vespere, deinde mane, id est primam diem complevit.
+ D. Nunquid ita de operibus reliquorum dierum
+intelligendum?  M. In his ego nihil temere affirmare
+velim; quia, etsi similiter de opere diei secundae
+dici possit, quod primum firmamentum inter aquas
+et aquas fecerit; deinde cursum ejus usque ad
+exortum diei tertiae direxerit tamen quia de motu
+firmamenti necdum certum experimentum invenimus:
+hujus quaestionis nodum alio si placet modo
+dissolvamus. Potest namque non inconvenienter dici
+<pb n="0021C"/>
+non ita in illis sex diebus Dominum sui operis seriem
+continuasse, quasi nullo interim intervallo temporis
+opus intermiserit; sed quia nullum in operando
+diem intermisit, septima autem die sic demum ab
+omni opere quievisse, ut nec alia praeter ea quae jam
+facta fuerant deinceps crearet, nec aliter quam disposita
+jam erant (quantum ad ordinem pertinet
+universitatis) disponeret. Neque enim aliquid postmodum
+numero universitatis addidit, neque ordinem
+unversitatis in aliquo commutavit.  D. Et quid quod
+adhuc quotidie novae creantur animae.  M. Nihil tamen
+novum addici dicitur; quia ipsae animae, licet
+de nihilo creatae nunc primum esse incipiant, tamen
+quodammodo etiam tunc in similitudine sua creatae
+<pb n="0021D"/>
+fuerunt. Et ut breviter id quod mihi dicendum inde
+videtur tibi absolvam, universa tunc facta sunt ut
+nihil postmodum fieret quod prius vel in materia
+vel in similitudine creatum non fuisset.</p>
+<p> D. Ultra adhuc in his operibus digna inquisitione
+video, quae quidem nolens praeterire compellor;
+ne forte in hujusmodi si te plus justo detineam, ad
+alia quae restant magis necessaria non pertingam.
+Nunc ergo si placet ad hominem revertamur, ut
+causam creationis ejus mihi admodum desideranti
+aperias. Quia profecto dignum est ut qui omnia propter
+ipsum facta jam credimus, etiam cur ipse factus
+sit non ignoremus.  M. Deus qui summum et
+verum perfectumque bonum est ita ab aeterno in se
+et per se beatus fuit, ut ejus gloria et beatitudo, quia
+<pb n="0022A"/>
+aeterna et incommutabilis erat, non posset minui,
+et quia plena et perfecta fuerat, non posset augeri.
+Nullo igitur indigens, sed bonum quod ipse erat et
+quo beatus erat, cum aliis participare et alios in
+illo et per illud beatificare volens, nulla necessitate,
+sed sola charitate creavit rationalem creaturam, id
+est spiritus rationales, jussitque ut ipsi partim in
+sua puritate persisterent, partim ut carne vestiti
+corpus humanum ad vitam et ad sensum animarent.
+Illis ergo spiritibus qui corporibus sociandi erant,
+locum et habitationem in terra constituit; illis vero
+qui in sua puritate permansuri fuerant, mansionem
+in coelo collocavit. Illos quidem per dignationem in
+summo constituens; istos per dispensationem in
+imo disponens, ut et istos quandoque per obedientiam
+<pb n="0022B"/>
+ab imo ad summa proveheret, et illos per obedientiam
+in summo confirmaret.  D. Quare voluit Deus
+spiritus sociare corporibus, cum majoris excellentiae
+fuissent in sua puritate persistentes?  M. Voluit in
+illis ex creatione ostendere quod postmodum facturus
+ipse in illis fuerat ex dignatione. Quia enim in
+rebus creatis nihil excellentius est spiritu, nihil
+terra infimius atque corruptibilius, dum corpori de
+terra facto et corruptibilem materiam habenti, rationalem
+spiritum, id est, animam rationalem tribuit,
+in unum quodammodo consortium et societatem
+summis ima conjunxit; ostendens quia, quod
+erat corpus spiritui, hoc quodammodo spiritus erat
+sibi. Et sicut excellentiam spiritus infirmitati corporalis
+naturae conjunxerat una creationis conditio,
+<pb n="0022C"/>
+ita humilitatem creaturae spiritualis, excellentiae
+Creatoris sociare debuerat una pietatis dignatio. Fecit
+ergo, ut dictum est, corpus hominis de limo terrae
+et inspiravit ei animam rationalem quam creavit
+de nihilo <note>(Gen. II)</note>, ut in corpore obedienter viventem
+ad consortium illorum spirituum qui sine corpore
+vivebant, id est angelorum, quandoque simul
+cum corpore elevaret; et pariter utrosque ad participationem
+gloriae suae attolleret, quatenus et in se
+spiritum et in spiritu corpus glorificaret; et quantum
+prius summa per dispensationem inclinavit dum conderet,
+tantum nunc ima per dignationem exaltaret.
+ D. Quare non creavit Deus homines simul, sicut angelos
+creaverat?  M. Quia voluit ut unum esset humani
+generis principium. D. Qnare hoc voluit?  M. Ad
+<pb n="0022D"/>
+retundendam superbiam diaboli. Quia enim diabolus
+superbe aliud a Deo principium esse appetiit, ut magis
+confunderetur ejus elatio, hoc homo accepit, quatenus
+etiam in eo dignitatem similitudinis Dei haberet, quod
+sicut ille rebus omnibus creationis principium exstitit,
+ita iste esset omnibus hominibus principium generationis;
+et omnes homines dum se ab uno et unum esse
+cognoscerent, omnes se quasi unum amarent.  D. 
+Quare facta est mulier?  M. In adjutorium generationis.
+ D. Quare de viro facta est?  M. Quia si aliunde
+fieret, unum principium non esset.  D. Quare de
+latere facta est?  M. Ut ostenderetur quia in consortium
+creabatur dilectionis; ne si de capite facta
+fuisset, praeferenda videretur viro ad dominationem,
+<pb n="0023A"/>
+aut si de pedibus, subjicienda ad servitutem. Quia
+igitur viro nec domina nec ancilla parabatur, sed
+socia; nec de capite, nec de pedibus, sed de latere
+fuerat producenda, ut juxta se ponendam agnosceret,
+quam de juxta se sumptam didicisset: <hi>Misit igitur
+Deus soporem in Adam, et tulit unam de costis ejus <note>(Gen. II)</note>
+          </hi>,
+et exinde mulierem fabricavit.  D. Quare
+dormienti potius quam vigilanti voluit costam subtrahere?
+ M. Ne putaretur illi eam poenaliter abstraxisse.
+ D. Quomodo de sola costa fieri potuit mulier?
+Nunquid aliquid aliud Deus illi costae ad augmentum
+extrinsecus addidit, aut novum aliquid
+concreavit, aut ipsa in semetipsa costa multiplicari
+coepit?  M. Si ad mulieris corpus perficiendum illi
+costae Deus extrinsecus augmentum addidit (cum
+<pb n="0023B"/>
+illud quod addebatur multo majus fuit quam ipsa
+costa cui addebatur), inde potius mulierem factam
+Scriptura dixisse debuit unde plures substantiae
+suae partes accepit. Similiter si id quod costae in
+augmentum venit, de nihilo factum creditur; cur
+eam de viro factam dicimus et non potius de nihilo,
+cum illud ejus quod de nihilo factum esse multo
+majus sit quam id quod de viri substantia in corpus
+illius transivit? Restat ergo ut credamus costam
+illam in semetipsam multiplicatam nullum extrinsecus
+augmentum suscepisse.  D. Quomodo potest
+fieri ut aliqua res crescat cui nihil aliunde apponitur?
+ M. Plus est de nihilo aliquid facere, quam
+parvam substantiam in seipsum multiplicare.</p>
+<p>
+          <pb n="0023C"/>D. Certum est: quapropter ea quae restant prosequere.
+ M. Factos igitur extra paradisum in paradiso
+posuit, informans praeceptis vitae et disciplinae.  D. 
+Quare homo, qui in paradiso mansionem habiturus
+fuerat, extra paradisum factus est?  M. Ne beneficium
+Dei imputaret naturae, sed gratiae.  D. Quibus
+praeceptis informavit Deus hominem, cum eum collocaret
+in paradisum?  M. Duobus, id est praecepto
+naturae, et praecepto disciplinae. Duo namque bona
+praeparat Deus homini: aliud temporale et aliud
+aeternum, utrumque plenum et perfectum. Alterum,
+id est temporale bonum, plenum in eo posuit; et
+alterum, id est aeternum, plenum ei proposuit. Illi
+quod dederat, custodiam apposuit praeceptum naturae;
+ad illud quod proposuerat, viam aperuit praeceptum
+<pb n="0023D"/>
+disciplinae. Praeceptum naturae continet
+praeceptionem, prohibitionem, concessionem; praeceptio
+naturalis fuit discretio per quam ei inspiratum
+est quae essent naturae suae necessaria; prohibitio
+naturalis fuit discretio per quam naturaliter ei insinuatum
+est quae essent noxia; concessio discretio
+fuit eorum quae erant media, id est quibus uti et non
+uti sine incommodo potuisset. Si igitur homo per
+naturale praeceptum imbutus negligentiam cavisset,
+divina providentia nulla eum violentia opprimi permitteret.
+Poterat namque homo per praeceptum naturae
+conservare bonum quod habuit; sed per illud non
+potuit bonum quod necdum habuit adipisci. Neque
+enim meritum esse poterat homini si vel vitaret
+<pb n="0024A"/>
+noxia vel salubria appeteret, sive ad utrumlibet
+mediis uteretur; quoniam in his omnibus non tam
+praecipientis affectum quam commodum obedientis
+attenderet. Itaque ut homo aliquid promereri posset,
+necessarium fuit ut praeceptum disciplinae adderetur,
+sed hoc neque de praeceptione neque de prohibitione
+sumi poterat, ne si vel eadem Deus praeciperet aut
+prohiberet, meritum, ut dictum est, obedienti non
+esset; aut si mutaret mandatum, ipse sibi contrarius
+fieret. Oportuit ergo ut de concessione sumeretur,
+sic tamen ut per ipsum praeceptum concessio
+non mutaretur, id est ut non praeceptum naturam
+corrumperet, sed inobedientia praevaricatori non
+natura noceret. Cum autem de concessione naturali
+praeceptum disciplinae formandum fuisset, congruum
+<pb n="0024B"/>
+fuit magis ut secundum prohibitionem hoc fieret, ne
+diabolus posset obedientiam calumniari; et in uno
+tantum non in pluribus, ne inobedientia valeret ab
+homine excusari. Si igitur homo in hac obedientia
+perstitisset, post tempus definitum a Deo ad illud summum
+bonum quod in coelis ei praeparatum fuerat,
+sine mortis dolore transferri debuerat cum omni
+prole sua in consortio beatorum angelorum aeternaliter
+victurus.  D. Quare Deus indigentiam in homine
+esse voluit?  M. Ut inde occasionem exercitationis
+sumeret; et ipsa exterior indigentia interiorem
+ei indigentiam demonstraret.  D. Ante peccatum
+fuit mortalis an immortalis homo?  M. Utrumque
+potestate, neutrum necessitate; utrumque postea
+<pb n="0024C"/>
+futurus necessitate, neutrum potestate; alterum
+prius per culpam, alterum deinde per gratiam.</p>
+<p> D. Ubi est paradisus?  M. Cur quaeris quod vides?
+Ad orientem ingressus tuus, hoc est lignum vitae quod
+conspicis. D. Quare vocatum est lignum vitae?  M. 
+Quia talis in eo virtus est ut ejus fructus possit vitam
+hominis a mortis et omnis infirmitatis molestia
+defendere. D. Quod est lignum scientiae boni et mali?
+ M. In quo praevaricatus est Adam.  D. Quare sic
+vocatum est?  M. Adam antequam peccaret bonum
+et malum scivit: bonum quidem et per scientiam et
+per experientiam, malum vero per solam scientiam.
+Postquam vero lignum vetitum tetigit, malum tum
+etiam per experientiam cognoscere coepit; non tamen
+natura ligni, sed inobedientia hominis scientiam
+<pb n="0024D"/>
+contulit, dum per experientiam mali etiam bonum
+quam stricte fuerat tenendum agnovit. Itaque
+nomen hoc non ex natura quam habuit, sed ex occasione
+quam praestitit, ligno inditum esse credendum
+est. D. Quomodo praevaricatus est homo?  M. 
+Videns diabolus quod homo per obedientiam illuc
+ascenderet unde ipse per superbiam ceciderat,
+invidit ei, et quia per violentiam ei nocere non poterat,
+ad fraudem se convertit. Ne autem fraus illius
+si nimis occultaretur caveri omnino non posset, non
+permissus est per aliud animal tentare nisi per serpentem,
+ut naturalis astutia serpentis malitiam proderet
+tentatoris; ut per indumentum quod foris erat
+homo cognosceret quantum ejus qui intus regebatur
+<pb n="0025A"/>
+versutiam cavere debuisset.  D. Quomodo tentatus
+est homo?  M. Exteriori tentatione tantum.  D. Quae
+est exterior tentatio?  M. Suasio alicujus facta vel
+signo vel verbo ut ille cui fit ad consensum peccati
+inclinetur. D. Quae est interior tentatio?  M. Motus
+primae delectationis per quem animus ad peccandum
+impellitur. Haec autem difficilius vincitur, quia interius
+oppugnans de nostro contra nos roboratur.
+Propterea diabolus veniam non meruit, quia nulla
+tentatione peccavit; homo vero qui exteriori tentatione
+pulsatus cecidit, tanto gravius plectendus crat,
+quanto leviori impulsu fuerat prostratus. Et tamen
+quia aliquam in cadendo, ut ita dicam, violentiam
+sensit, idcirco hunc tandem Dei gratia ad veniam
+erexit. Nos vero quanto graviorem in peccando
+<pb n="0025B"/>
+tentationis violentiam patimur, tanto leviori piaculo
+ad gratiam amissam renovamur.  D. Quo ordine
+tentatus est homo?  M. Diabolus, quia vidit mulierem
+utpote infirmiorem et minus ratione vigentem,
+facilius fraude circumveniri posse, primum eam aggressus
+est interrogatione, volens animum ejus elicere
+ut ex responsione ejus colligeret qualiter eam
+de caetero alloqui debuisset.  D. Quare non horruit
+mulier serpentem loquentem sibi?  M. Quia eum noviter
+creatum officium loquendi a Deo accepisse credebat.
+ D. Quomodo allocutus est eam?  M. <hi>Comedite:
+et eritis sicut dii scientes bonum et malum <note>(Gen. III)</note>
+          </hi>.
+Per tria tentavit, per gulam, per vanam gloriam,
+per avaritiam. Est autem gula immoderatus appetitus
+edendi; vana gloria, amor propriae laudis; avaritia
+<pb n="0025C"/>
+immoderatus appetitus habendi. Per gulam
+tentavit, cum dixit: <hi>Comedite.</hi> Per vanam gloriam,
+cum dixit: <hi>Eritis sicut dii.</hi> Per avaritiam, cum dixit: <hi>scientes bonum et malum.</hi> 
+ D. Vellem ut ipsam radicem
+istius peccati explicares: et sicut demonstrasti
+mihi quo ordine patratum sit, ita etiam quid sit
+ostenderes.  M. In primo homine Deus duo posuerat,
+videlicet appetitum justi et appetitum commodi;
+unum, id est appetitum justi, secundum voluntatem;
+alterum, id est appetitum commodi, secundum necessitatem.
+Illum autem ideo voluntarium esse constituit,
+ut in eo homo promereretur, sive bene eum
+retinendo cum posset deserere, sive male deserendo
+cum posset retinere. Hunc autem necessarium propterea
+esse voluit; quatenus in eo remuneraretur
+<pb n="0025D"/>
+homo, sive ad poenam si illum desereret, sive ad
+gloriam si illum retineret. Et idcirco illi effectum
+suum, id est justitiam inseparabiliter adjunxit, isti
+vero effectum suum, id est commodum separabilem
+proposuit, quatenus homo vel illo solo amisso hujus
+et illius affectus perderet; vel illo solo retento hujus
+et illius effectum retineret. Sed homo hoc solum
+quod potuit fecit; et quia appetitum justi sponte dereliquit,
+idcirco juste et justitiam et commodum
+perdidit; solum appetitum commodi ad augmentum
+infelicitatis retinendo; quia sicut augmentum gloriae
+fuisset in justitia perseveranti non posse ab amore
+habito boni tepescere, ita modo cumulus miseriae est
+ab appetitu boni non posse se (quamvis illud adipisci
+<pb n="0026A"/>
+nequeat) cohibere.  D. Utrum volens an nolens deseruit
+homo appetitum justitiae?  M. Si nolens deseruit,
+violentia potius appellanda est quam culpa; si autem
+voluntas praecessisse in eo dicitur, jam ipsa desertio
+justitiae primum peccatum fuisse negatur; nec poterit
+inveniri unde talis voluntas ei advenerit ut vellet
+bonum deserere; quia nec a semetipso velle aliquid
+potuit, nec a Deo quidquam praeter commodum
+et justum velle potestatem accepit.  D. Tamen cum
+deseruit voluisse credendus est quod fecit.  M. Recte
+hoc diceres si desinere aliquid esset facere. Quia
+autem ille non velle coepit quod prius noluit, sed
+tantummodo quod prius voluit, velle desiit, non necesse
+est ut hoc aut volens aut nolens fecisse dicatur.
+Voluit tamen aliquid quod volendo quia cum isto
+<pb n="0026B"/>
+velle non potuit, desiit istud velle quod voluit; nec
+ideo illud voluit quia velle desiit; sed potius ideo
+istud velle desiit quia illud voluit.  D. Quare ergo
+magis dicitur peccasse in eo quod istud velle desiit
+quam in eo quod illud velle incoepit?  M. Quia si hoc
+velle non desineret, sive illud sive aliud volendo,
+nunquam peccare potuisset. D. Quid est ergo justitia?
+ M. Mensura in appetitu commodi.  D. Quid est appetitus
+justitiae?  M. Amor mensurae.  D. Quid ergo voluit
+ut hoc velle desineret?  M. Voluit aliquid extra
+mensuram.  D. Nunquid et hoc velle peccatum non
+fuit?  M. Non quod hoc voluit peccatum fuit, sed
+quod hoc volendo mensurae volendi, id justitiae appetitum
+amisit. D. Quid voluit extra mensuram?  M. 
+Similitudinem Dei appetiit. Peccavit itaque homo in
+<pb n="0026C"/>
+hoc quod deseruit appetitum justi, et punitus est in
+retento appetitu commodi. D. Quomodo?  M. Dupliciter
+punitus est in appetitu commodi; sive cum ab
+his quae ordinare appetit restringitur, sive quia ad
+inordinata commoda appetenda relaxatur. In altero
+est poena, in altero est poena et culpa.  D. Unde venit
+homini ut appetat inordinata?  M. A poena peccati.  D. 
+Modum requiro.  M. Deus fecerat primum corpus
+hominis sanum et integrum. Integrum quidem, quia
+nihil ei deerat ad perfectionem; sanum, quia nihil
+inerat ad corruptionem. Sed in utroque talem conditionem
+posuerat ut nec integritas nec sanitas sine
+adminiculo posset conservari. Itaque in rebus creatis
+forinsecus quaedam ordinavit quae ad conservandam
+atque tuendam incolumitatem sive integritatem
+<pb n="0026D"/>
+ejus valere potuissent; horum autem providendorum
+curam, et officium spiritui qui corpori praesidebat
+injunxit. Ne vero in illo exsequendo, si ex sola
+hoc praeceptione non etiam ex amore impleret, servili
+conditione premeretur, dedit ei Deus affectum
+quo corpus suum amaret, ut sicut ejus integritatem
+et sanitatem diligeret, sic etiam omnia quae ad illam
+conservandam valerent libenter provideret. Rursum
+ne vel in illis quaerendis labor esset, vel in sumendis
+periculum, indigentiam simul et appetitum carnalem
+certa mensura temperavit; quatenus ei ad fomentum
+et pauca sufficere possent, et ad satietatem
+modica. Itaque prudentia carnis tam labor quam
+oblectamentum et exercitatio futura foret si homo
+<pb n="0027A"/>
+justitiam tenuisset. Sed quia spiritus supra elatus
+appetitum suum intra mensuram cohibere noluit,
+idcirco meruit ut jam subtus per infinitos labores
+dissipatus in appetitu carnis suae mensuram tenere
+non possit. Fregit enim Deus mortalitate integritatem
+corporis humani, et ob hoc pluribus jam fomentis
+indiget quam prius, tam ad reparandam incolumitatem
+quantum periit quam ad conservandam quantum
+remansit. Hinc illa dura necessitas gignitur ut
+extra ordinem natura appetitum extendat; ut non
+solum naturam custodiat, sed etiam vitium naturae
+expellat. Spiritus enim sicut ei naturaliter datum
+est commodum carnis suae diligere; sic naturaliter
+etiam habet ut ejus incommodum non possit amare.
+Sciendum tamen est quod haec necessitas concupiscendi
+<pb n="0027B"/>
+non ideo culpa non est quia necessitas est;
+quia ut esset haec necessitas, non necessitas causa
+fuit, sed voluntas. Hoc tamen de omnibus veraciter
+dici potest, quod nihil anima appetit quantumlibet
+inordinatum videatur nisi propter aliquod commodum
+vel conservandi boni vel mali removendi; sicut verbi
+gratia dum coitum appetit, exstinguere cupit carnis
+pruriginem, dum cibum appetit vel potum, gulae
+ardorem.  D. Si omnis appetitus commodum appetat,
+commodum autem suum appetere tam in bono conservando
+quam in removendo malo naturae datum
+sit, utquid haec concupiscentia homini in culpam
+reputatur?  M. Non ideo peccat quod commodum
+suum appetit; sed quod inordinate appetit.  D. Non
+potest inordinare non appetere?  M. Non potest.  D. 
+<pb n="0027C"/>
+Quare non potest?  M. Propter infirmitatem suam.
+ D. Quare infirmatus est?  M. Quia Deus integritatem
+naturae passibilitate mortalitatis confregit.  D. Quare
+hoc fecit?  M. Video quo tendas.  D. Quae tamen causa
+fuit?  M. Culpa hominis.  D. Ergo per culpam suam
+ad hanc necessitatem venit. M. Ita est.</p>
+<p> D. Non igitur eum excusat ista necessitas.  M. Non
+potest excusare. D. Sed quid faciet?  M. Quaerat adjutorium
+gratiae et dicat: <hi>De necessitatibus meis
+erue me, Domine <note>(Psal. XXIV)</note>
+          </hi>; sicut dicit Apostolus: <hi>Infelix ego homo, quis me liberabit de corpore mortis
+hujus? Gratia Dei per Jesum Christum Dominum
+nostrum 
+ <note>(Rom. VII)</note>
+          </hi>.  D. Ergo homo nisi per gratiam
+Dei liberari non potest?  M. Non potest. Dicimus
+enim quod homo in appetitu justi derelicto sponte
+<pb n="0027D"/>
+peccaverit; in appetitu commodi retento dupliciter
+punitus sit; sive quia ab ordinatis commodis restringitur,
+sive quia ad inordinata commoda relaxatur.
+In altero poena, in altero poena et culpa. Quia
+igitur homo tali poena multatus est per quam culpa
+non purgaretur sed cresceret, nisi fuisset liberatus
+per gratiam, per hanc poenam ad poenas damnationis
+aeternae merito descendisset. Itaque dilatum est judicium
+ejus ne damnandus inveniretur. Et quia eum
+Deus ad salutem praeordinaverat, locum et spatium
+correctionis et poenitentiae concessit, quatenus eum
+interim per gratiam suam talem efficeret, quem
+tandem non solum misericorditer sed etiam juste ad
+salutem judicare potuisset.  D. Quis est locus poenitentiae
+<pb n="0028A"/>
+quem Deus concessit homini?  M. Mundus iste.
+ D. Et quod est spatium poenitentiae?  M. Vita praesens,
+id est ab initio mundi usque in finem saeculi.
+ D. Satis magnae sunt induciae istae: sed velim ut dicas
+adhuc quare mundum istum voces locum poenitentiae?
+ M. Quatuor sunt loquar: unus in quo est
+solum bonum et summum bonum, et unus in quo
+est solum malum et summum malum; unus in quo
+est solum bonum non tamen summum bonum; et
+unus in quo est bonum et malum, nec summum
+bonum nec summum malum.  D. Vellem ut exempla
+singulorum proponeres.  M. In coelo est solum bonum
+et summum bonum; in inferno est solum malum
+et summum malum; in paradiso est solum bonum
+non tamen summum bonum; in mundo est bonum
+<pb n="0028B"/>
+et malum, nec summum bonum nec summum malum.
+ D. Quare distinxisti loca ista?  M. Paradisus
+est locus inchoantium et in melius proficientium, et
+ideo ibi solum bonum esse debuit; quia creatura a
+malo initianda non fuit; non tamen summum, ut
+esset in quo illi qui initiabantur proficere potuissent.
+Coelum est locus confirmatorum bonorum et per
+disciplinam ad summum profectum pertingentium.
+Unde solum summumque bonum in eo collocatum
+est. Infernus est locus confirmatorum malorum et
+disciplinam irrecuperabiliter deserentium; et ideo
+ibi solum et summum malum positum est. Mundus
+est locus errantium et reparandorum; et ideo simul
+bonum et malum in eo ordinatum est, ut per bonum
+quidem consolationem accipiant, per malum vero
+<pb n="0028C"/>
+correctionem. Non tamen summum bonum aut summum
+malum ibi est, ut sit quo et persistentes in
+malo deficere, et recedentes a malo proficere possent.
+Coelum igitur est in summo; infernus est in
+imo; in medio paradisus; inter imum et medium
+mundus. Homo igitur qui a medio ceciderat (quia
+ad reparationem exspectabatur) inter imum et medium
+collocandus erat.  D. Ecce diu exspectatur homo:
+et quid faciet?  M. Non poterit invenire consilium
+evadendi.  D. Quid ergo prodest judicium differri
+si homo non potest liberari?  M. Per se non
+potest. D. Per quem igitur?  M. Ille qui per gratiam
+suam differt judicium, oportet interim ut per eamdem
+gratiam ostendat evadendi consilium.</p>
+<p> D. Ergo judex reo consilium dabit?  M. Deponet
+<pb n="0028D"/>
+interim personam judicis, et assumet personam
+consiliatoris. D. Quando veniet?  M. In temporibus
+novissimis. D. Quare tandiu differt adventum suum?
+ M. Ut permittat prius homini experiri defectum
+suum. Venient prius patriarchae et prophetae et
+legislatores, venient justi et sapientes, quaerent et
+non invenient; laborabunt et deficient, promittent
+multi et nulli ostendent. Cum autem omnes defecerint
+et multis promissionibus, multis etiam verbis
+prolatis siluerint, tunc ipse proferet unum verbum
+et dabit consilium. D. Quod consilium dabit?
+ M. Nunquid ego conscius sum secretorum Dei?
+Secretum est et absconditum hoc consilium a saeculis.
+ D. Tamen temporibus novissimis manifestum.
+<pb n="0029A"/>
+Praeterea si nos ad redemptionis sortem pertinere
+volumus, justum est ac decens ut ejus redemptionis
+nostrae modum non ignoremus.  M. Consilium hoc
+in eo fuit qualiter homo juste vel a potestate diaboli
+eripi, vel Deo posset reconciliari.  D. Desidero admodum
+scire qualiter hoc fieri potuerit.  M. Causam
+hominis prius considera; et tunc facile poteris videre
+qua justitia sit liberatus.  D. Et ipsam mihi demonstrari
+cupio.  M. Causa hominis adversus duos consistit,
+id est adversus Deum et adversus diabolum;
+quapropter non te pigeat si hanc ipsam causam
+quasi sub trium personarum conformatione explanem.
+ D. Totum me in exspectatione posuisti.
+ M. Tres in causam veniunt, homo, Deus, et diabolus.
+Diabolus Deo injuriam fecisse convincitur; quia
+<pb n="0029B"/>
+servum ejus, id est hominem, et fraudulenter abduxit,
+et violenter tenuit. Homo injuriam fecisse
+convincitur Deo; quia et praeceptum ejus contempsit,
+et se sub manum alienam ponens suae servitutis
+damnum illi intulit. Item diabolus homini injuriam
+fecisse convincitur; quia illum et prius bona promittendo
+decepit, et post mala inferendo laesit. Injuste
+ergo diabolus tenet hominem, sed homo juste
+tenetur; quia diabolus nunquam meruit ut hominem
+sibi subjectum premeret; sed homo meruit per
+culpam suam ut ab eo premi permitteretur. Licet
+enim ignoraret falsum esse quod diabolus promisit,
+non tamen ignoravit quod illud (etiam si verum
+esset) contra Creatoris voluntatem concupiscere non
+debuit. Juste ergo homo subjectus est diabolo
+<pb n="0029C"/>
+quantum pertinet ad culpam suam; injuste autem
+quantum pertinet ab diaboli fraudulentiam. Si ergo
+homo talem patronum haberet cujus diabolus in
+causam adduci posset, juste dominio ejus homo
+contradiceret; quia nullam diabolus causam justam
+habuit quare sibi jus in homine vendicare debuerit.
+Patronus autem nullus talis inveniri poterat nisi
+Deus. Sed Deus causam hominis suscipere noluit;
+quia homini adhuc pro culpa sua iratus fuit.
+Oportuit ergo ut prius homo Deum placaret, et sic
+deinde fiducialiter Deo patrocinante cum diabolo
+causam iniret. Sed Deum rationabiliter placare non
+poterat, nisi damnum quod intulerat restitueret, et
+de contemptu satisfaceret. Homo vero nihil habuit
+quod digne Deo pro ablato damno recompensaret,
+<pb n="0029D"/>
+quia si quid de irrationabili creatura redderet, pro
+rationabili sublata minus esset. Sed nec hominem
+pro homine reddere potuit; quia justum et innocentem
+abstulerat, et neminem nisi peccatorem
+invenit. Nihil ergo homo invenit unde Deum sibi
+placare posset; quia sive sua sive seipsum daret,
+digna recompensatio non esset. Videns ergo Deus hominem
+sua virtute jugum damnationis justae evadere
+non posse, misertus est ejus; et primo gratuito
+praevenit eum per solam misericordiam, ut deinde
+liberaret per justitiam: hoc est, quia homo ex se
+justitiam evadendi non habuit, Deus homini per
+misericordiam justitiam dedit. Neque enim ereptio
+hominis perfecte rationabilis esset, nisi ex utraque
+<pb n="0030A"/>
+parte justa fieret, hoc est, sicut Deus justitiam habuit
+hominem requirendi, ita et homo justitiam haberet
+evadendi. Sed homo hanc justitiam nunquam
+habere potuisset, nisi Deus ei per misericordiam
+eam tribuisset. Ut ergo Deus ab homine placari
+posset, dedit Deus gratis homini quod homo ex debito
+Deo redderet. Dedit ergo homini hominem,
+quem homo pro homine Deo redderet; qui (ut digna
+recompensatio fieret) priori non solum aequalis sed
+et major esset. Ut ergo pro homine redderetur homo
+major homine, factus est Deus homo pro homine,
+et dedit se homo homini ut se acciperet ab homine.
+Incarnatus est Deus Dei Filius, et datus est hominibus
+Deus homo Christus, sicut Isaias ait: <hi>Puer natus
+est nobis <note>(Isa. II)</note>
+          </hi>, etc. Quod ergo homini datus
+<pb n="0030B"/>
+est Christus, Dei fuit misericordia; quod ab homine
+redditus est Christus, hominis fuit justitia. In nativitate
+enim Christi juste placatus est Deus homini;
+quia talis homo inventus est pro homine, qui non
+solum, ut dictum est, par, sed et major esset homine.
+Ideo in nativitate Christi angeli pacem munde
+nuntiant, dicentes: <hi>Gloria in altissimis Deo, et in
+terra pax hominibus bonae voluntatis <note>(Luc. II)</note>
+          </hi>. Sed
+adhuc supererat homini ut sicut restaurando damnum
+placaverat iram; ita quoque pro contemptu
+satisfaciendo dignus fieret evadere poenam. Sed hoc
+convenientius fieri non poterat, nisi ut poenam quam
+non debebat sponte et obedienter susciperet, ut de
+poena quam per inobedientiam meruerat eripi dignus
+fieret. Hanc autem poenam homo peccator solvere
+<pb n="0030C"/>
+non poterat; qui quamcunque poenam susciperet,
+non nisi digne et juste (propter primi contemptus
+reatum) sustineret. Ut ergo homo juste poenam debitam
+evaderet, necesse fuit ut talis homo pro homine
+poenam susciperet, qui nihil poenae debuisset.
+Sed talis nullus inveniri poterat nisi Christus. Christus
+igitur et nascendo debitum hominis Patri solvit,
+et moriendo reatum hominis expiavit; ut cum ipse
+mortem pro homine (quam non debebat) sustineret,
+juste homo pro ipso mortem quam debebat evaderet,
+et jam locum calumniandi diabolus non inveniret;
+quia et ipse homini dominari non debuit, et
+homo liberari dignus fuit. Idem itaque et judicium
+nostrum et causam nostram fecit. Unde Psalmista: <hi>Quoniam fecisti judicium meum et causam meam</hi> 
+<pb n="0030D"/> <note>(Psal. IX)</note>.
+Causam nostram fecit; quia debitum Patri
+pro nobis solvit, et moriendo reatum expiavit.
+Judicium vero; quia descendens ad inferos et portas
+mortis frangens captivitatem quae ibidem tenebatur
+liberavit. Judicium ergo diaboli adversus Deum
+factum est statim in principio saeculi; judicium
+hominis adversus diabolum, in passione Christi.
+Judicium hominis adversus Deum differtur usque in
+finem saeculi. Et ideo homo, si prius per Christum
+Deo reconciliari voluerit, potest judicium suum sine
+timore damnationis praestolari.  D. Hic congrue debueras
+modos judicandi distinguere, quatenus ea
+quae hic de judicio dicta sunt ex aliorum collatione
+valeam et manifestius discernere et verius approbare.
+<pb n="0031A"/>
+M. Quatuor sunt judicia, videlicet secundum
+praescientiam, secundum causam, secundum operationem,
+secundum retributionem. Secundum praescientiam
+judicati fuimus antequam essemus; secundum
+causam judicamur ex quo esse incipimus,
+quando boni et mali sumus; secundum operationem
+judicamur, quando operibus foris ostendimus quales
+intus apud nos sumus; secundum retributionem judicamur,
+quando in percipienda mercede operum
+cognoscemus, quales ab aeterno apud Deum praevisi
+fuimus. Ex his quatuor judiciis duo sunt occulta,
+judicium secundum praescientiam et judicium secundum
+causam, et ideo in eis humanum judicium non
+recipitur: duo manifesta, id est judicium secundum
+operationem, et judicium secundum retributionem,
+<pb n="0031B"/>
+in quorum altero, hoc est judicio secundum operationem,
+hominibus a Deo in praesenti judicandi potestas
+datur; alterum vero hoc est judicium secundum
+retributionem, non ab hominibus, sed a Deo
+coram hominibus judicabitur. Sed judicium secundum
+praescientiam occultum est et immutabile; judicium
+secundum causam occultum et mutabile;
+judicium secundum operationem manifestum et
+mutabile. Judicium secundum retributionem manifestum
+et immutabile. Judicium secundum operationem
+imago quodammodo est sacramentum
+judicii secundum retributionem; quia illud manifestat
+causam et praescientiam innuit: hoc
+vero manifestabit causam et confirmabit praescientiam.</p>
+<p>
+          <pb n="0031C"/>D. Quid ad nos pertinuit quod Christus diabolum
+vicit?  M. Christus propterea Filius hominis dicitur,
+quia humana natura quae in primo parente per peccatum
+senuerat, in Christo renovata quasi ad juventutis
+robur refleruit; et justum fuit etiam secundum
+legem, ut pro patre decrepito et quasi per defectum
+aetatis debili, Filius validior robore contra tyrannum
+congressum faceret, et ut ejus victoria non ipsi sed
+illi praecipue pro quo pugnaverat ad libertatem valeret.
+Nam et idcirco Filius Dei Filius hominis fieri
+voluit, ut illud de homine sumeret in quo homo pro
+homine diabolum superaret.  D. Nunquid non etiam
+ante passionem Christi fuerat diabolus a quibusdam
+hominibus ejectus?  M. Fuerat, non tamen nisi per
+<pb n="0031D"/>
+passionem. D. Quomodo potest hoc fieri?  M. Sicut
+passio Christi nunc praeterita credentes sanctificat,
+ita nunc futura credentes sanctificabat.  D. Qua ratione
+poteris hoc confirmare?  M. Quid Verbum incarnatum
+dixerim, nisi regem qui hunc mundum
+intravit per assumptam humanitatem cum diabolo
+bellaturus, et eum exinde, quasi tyrannum et violenter
+in alieno dominantem, expulsurus. Et quid
+omnes priores sanctos qui ante incarnationem ab
+initio fuerunt electi appellaverim, nisi milites quosdam
+optimos regem venturum in acie praecedentes,
+ipsis quibus tunc sanctificabantur sacramentis quasi
+quibus armis muniti atque praecincti. Quid item eos
+qui post incarnationem usque ad finem electi subsequuntur,
+nisi milites alios non tamen alium, sed
+<pb n="0032A"/>
+ipsum regem suum praecedentem unanimiter atque
+alacriter sequentes, habentes et ipsi novi arma nova,
+tamen ab eodem armati, et contra diabolum pugnaturi.
+Sunt igitur sive praecedentes sive subsequentes,
+unius regis sacramenta portantes, uni regi militantes,
+et unum tyrannum superantes; illi venturum
+praecedentes, isti praecedentem subsequentes.
+Vides ergo quomodo omnes ab initio usque ad finem
+boni sunt Christi? Neque ulli diabolum vincunt, nisi
+hi soli qui sunt Christi.  D. Ergo ab initio Christiani
+fuerunt?  M. Nihil verius.  D. Sed multi aliter existimant.
+ M. Vis idem tibi evidentius ostendi?  D. Volo.
+ M. Tria sunt tempora per quae praesentis saeculi spatium
+decurrit. Primum est tempus naturalis legis;
+secundum tempus scriptae legis; tertium est tempus
+<pb n="0032B"/>
+gratiae. Primum est ab Adam usque ad Moysen;
+secundum a Moyse usque ad Christum; tertium a
+Christo usque ad finem saeculi. Similiter tria sunt
+genera hominum; id est homines naturalis legis,
+homines legis scriptae, homines gratiae. Homines
+naturalis legis dici possunt qui sola naturali ratione
+vitam suam dirigunt; vel potius homines naturalis
+legis dicuntur qui secundum concupiscentiam in qua
+nati sunt ambulant, Homines scriptae legis sunt ii
+qui exterioribus praeceptis ad bene vivendum informantur.
+Homines gratiae sunt ii qui per aspirationem
+Spiritus sancti afflati et illuminantur ut bonum
+quod faciendum est agnoscant, et inflammantur ut
+diligant, et corroborantur ut perficiant. Et ut idem
+manifestiori distinctione significemus, homines naturalis
+<pb n="0032C"/>
+legis sunt aperte mali; homines scriptae legis,
+ficte boni: homines gratiae, vere boni. In primo genere
+continentur pagani; in secundo Judaei; in tertio
+Christiani. Ista tria genera hominum ab initio
+nunquam ullo tempore defuerunt, tamen tempus naturalis
+legis ad aperte malos pertinet; qui illi tunc
+et numero plures et statu excellentiores fuerunt.
+Tempus legis scriptae ad ficte bonos; quia tunc homines
+in timore servientes opus mundabant, non
+animum. Tempus gratiae ad vere bonos pertinet;
+qui modo etiamsi numero plures non sint, tamen
+statu sunt excellentiores, et Dei gratia publice anteferuntur
+etiam ab iis qui ei moribus contradicunt.
+Scias ergo quocunque tempore ab initio mundi usque
+<pb n="0032D"/>
+ad finem nullum fuisse vel esse vere bonum
+nisi justificatum per gratiam; gratiam autem nunquam
+adipisci potuisse nisi per Christum, ita ut
+omnes sive praecedentes sive sequentes uno justificationis
+remedio salvatos agnoscas. Aspice ergo
+castra regis nostri et acies exercitus ejus in armis
+spiritualibus fulgentes, et quanta praecedentium
+sequentiumque populorum multitudine stipatus
+incedat.</p>
+<p> D. Vellem ut nunc tanti regis exercitum mihi sigillatim
+describeres; qui et quales milites ejus
+ab initio fuerint; quae arma, quos hostes habuerint,
+ubi et quando, et qualia bella gesserint: quomodo
+vicerint, quae postremo praemia (victoria consummata)
+perceperint.  M. Postquam primus parens generis
+<pb n="0033A"/>
+humani propter inobedientiae culpam a paradiso
+exsulans in hunc mundum venit, diabolus jus
+tyrannicum in illo exercens, sicut prius fraudulenter
+seduxerat, ita postmodum violenter possidebat.
+Sed Dei providentia quae hunc ad salutem disponebat,
+sic justitiae rigorem per misericordiam temperavit,
+ut eum ad tempus quidem ab illo premi permitteret,
+et tamen ne ab illo in aeternum premeretur,
+ex ipsa ei poena remedium praepararet. Itaque jam
+tunc ex ipso mundi exordio sacramenta salutis suae
+homini proposuit quibus eum sub exspectatione futurae
+sanctificationis consignaret: quatenus ea quisquis
+fide recta et spe firma propter obedientiam institutionis
+divinae perciperet, etiam sub jugo positus
+ad consortium libertatis pertineret. Proposuit itaque
+<pb n="0033B"/>
+edictum informans et hominem erudiens, ut quicunque
+eum salvatorem atque liberatorem exspectare
+eligeret, ejusdem suae electionis votum in perceptione
+sacramentorum ejus approbare debuisset:
+ « Proposuit et diabolus sacramenta sua quibus suos
+sibi alligaret, quatenus ab illis qui ejus imperium
+detrectabant quanto eos manifestius discerneret
+tanto securius detineret. Coepit ergo genus humanum
+mox in partes contrarias dividi aliis diaboli sacramenta
+suscipientibus, aliis vero suscipientibus
+sacramenta Christi: et factae sunt duae familiae: una
+Christi, altera diaboli. »  Diabolus ergo videns quod
+generis humani propago quam in radice sua vitiaverat,
+quamvis tota cum corruptione nascendo prodiret,
+non tamen tota in eadem renascendo innovata
+<pb n="0033C"/>
+persisteret, statuit per eos quos possidebat, illos
+quos amittebat persequendo premere; tanto tunc
+amplius ad inferendam violentiam praesumens,
+quanto se prius meminerat fraudulentia praevaluisse.
+Verum haec maligni versutia machinatio, divinae misericordiae
+dispensatio fuit, ut videlicet homo confirmatus
+per gratiam contra eum justitiam suam
+defenderet, quam per eum prius seductus deseruit.
+In quo nimirum convenienter etiam superbia tyranni
+confunditur, quod modo hominem mortalem et infirmum
+per tormenta superare non praevalet quem
+antea nulla infirmitate circumdatum sola persuasione
+seduxit. Tam diversa igitur intentione opus
+unum perficitur, cum diabolus suos milites ad persecutionem
+<pb n="0033D"/>
+et violentiam, Christus vero suos ad
+patientiam exhortatur. Quia autem diabolus ab initio
+sive per se sive per suos non ob aliud bonos impugnat
+nisi ut eis justitiam tollat, et boni non aliud
+per hanc pugnam exigunt, nisi ut suam justitiam
+non amittant, patet profecto quod ipse cum non
+valet quod vult ad effectum perducere, semper a
+bonis vincitur, etiam si foris praevaluisse videatur.
+Ergo cum milites diaboli exterius violentiam inferunt,
+milites Christi interius per patientiam vincunt.
+ D. Ergo sacramenta Christi arma sunt?  M. Non solum
+arma, sed et medicamenta. D. Quomodo?  M. 
+Medicamenta sunt, quia sanant infirmos; arma, quia
+protegunt sanos. D. Quid est sacramentum?  M. Sacrae
+rei signum. D. Quot modis fiunt sacramenta?  M. 
+<pb n="0034A"/>
+Tribus; id est rebus, verbis, factis. Rebus, ut in
+aqua, in pane, in vino, in sale, in cinere, in oleo, in
+igne et in caeteris hujusmodi; verbis, ut est Trinitatis
+invocatio et alia quae in benedictionibus sive consecrationibus
+vel conjurationibus virtutem divinam
+habentia verba proferuntur; factis, ut est crucis signaculum,
+incurvatio genuum, expansio manuum,
+et caetera quaecunque talia sunt.  D. Quare dicitur
+sacramentum sacrae rei signum?  M. Quia per id
+quod foris visibile cernitur, aliud interius invisibile
+significatur. Verbi gratia: Ut per aquam, remissio
+peccatorum; per ignem, ardor charitatis; per oleum,
+misericordia; per salem, sapientia, etc.  D. In talibus
+ergo salutem quaeret homo cum ipse rationalis sit,
+et dignior in conditione sua rebus insensatis? Quomodo
+<pb n="0034B"/>
+ista salutem dare possunt et languoribus animarum
+mederi; cum ipsa sint corporalia, nihil praeter
+speciem visibilem habentia?  M. Est prorsus aliud
+ibi praeter id quod oculis corporeis cernitur; et ipsum
+est quod invisibiliter peccatorum maculas mundat,
+et languoribus animarum medetur.  D. Illa ergo
+virtus unde venit?  M. Non ex illius natura quod ibi
+visibile cernitur; sed ex operatione Spiritus sancti
+qui in illo visibili invisibiliter operatur.  D. Nonne
+hanc eamdem virtutem ad reparationem hominis
+sine exhibitione vel adminiculo rerum corporalium
+Spiritus sanctus praestare potuisset?  M. Posset
+utique si vellet.  D. Quae ergo causa fuit ut ista instituerentur,
+ut homo quasi in istis quae inferiora
+sunt et indigniora juberetur salutem quaerere, cum
+<pb n="0034C"/>
+solus Deus sit a quo homo salutem et debeat quaerere
+et possit sperare?  M. In istis, non ab istis jubetur
+homo salutem quaerere; sic ut eam cum adeptus
+fuerit, sciat se ab illo qui eam in istis quaerere jussit
+accepisse.  D. Dic ergo cur praecepit Deus homini
+in ejusmodi rebus salutem quaerere?  M. Ut humiliaretur
+homo et erudiretur. Humiliaretur quidem
+dum cogitur nunc jacens in inferiori bonum suum
+quaerere; quod prius cum staret, a suo superiori
+contempsit accipere. Congruum ergo praecedentis
+superbiae morbo, subsequentis humilitatis medicamentum
+apponitur, ut videlicet homo qui prius Deum
+(perniciose elatus in semetipso) despexerat postmodum
+salubriter humiliatus sponte se etiam in sensibilibus
+<pb n="0034D"/>
+rebus praeter Deum substernat. Ad doctrinam etiam
+sacramenta proposita sunt homini, ut per ea quae
+exterius aguntur, quid sibi interius exhibeatur possit
+agnoscere.  D. Ergo in ommni sacramento plus
+esse credendum est, quam id quod solum videri et
+corporali sensu percipi potest?  M. Duo ibi sunt:
+unum quod exterius sensu corporali percipimus,
+quod proprie sacramentum, id est sacrae rei signum
+dicitur; alterum quod non videmus sed credimus,
+quod recte res sive virtus sacramenti nominatur.  D. 
+Quid interest inter signum et sacramentum?  M. Signum
+solum ex institutione significat; sacramentum
+etiam ex similitudine repraesentat. Item signum rem
+significare potest, non conferre. In sacramento autem
+non sola significatio est, sed etiam efficacia; ut
+<pb n="0035A"/>
+videlicet simul et ex institutione significat, et ex similitudine
+repraesentet, et conferat ex sanctificatione.
+ D. Utrum potest aliquando sacramentum pro
+signo accipi?  M. Improprie pro sola significatione
+sacramentum vocatur.  D. Quid si dixerimus illas
+Veteris Legis figuras signa tantum fuisse futurorum,
+non sacramenta, et spiritualem gratiam (quae in illis
+dabatur) mediantibus iis quae futura erant sacramentis
+fuisse collatam?  M. Si quis sacramenta priore
+effectum sanctificationis habuisse negaverit, non
+mihi recte sentire videtur, in hoc tamen dignitatem
+sequentium indubitanter praeferimus, quod illa et
+visibilia et signa visibilium fuerunt; ista vero cum
+sint visibilia, ipsa quidem tantummodo invisibilis
+gratiae sacramenta sunt. Idcirco sacramenta gratiae
+<pb n="0035B"/>
+primum per invocationem Trinitatis sanctificationem
+in se suscipiunt, ac deinde sanctificationem
+conferunt, ut sint ex sanctificatione sanctificantia,
+atque hoc ex sua sibique coelitus indita sanctificatione
+conferant quod illa per haec conferre consueverant
+ex sola horum significatione.</p>
+<p> D. Quae sunt illa sine quibus salus ab initio haberi
+non potuit?  M. Tria sunt, id est, fides, et sacramenta
+fidei, et opera bona: quae a principio ad obtinendam
+salutem homini proposita videntur. His
+milites Christi semper usi sunt: in fide robur in
+sacramentis fidei arma, in operibus bonis tela accipientes,
+quibus contra diabolum pugnaverunt. Sane
+quemadmodum neque robur inermi, neque arma sine
+viribus, aut tela, contra fortem armatum prodesse
+<pb n="0035C"/>
+possunt dimicanti; ita quidem fides sine operibus et
+sacramentorum sanctificatione, et rursus sine fide
+sacramenta, aut opera salutis effectum non habent.</p>
+<p> D. Quid est fides?  M. Paulus dicit <hi>fidem esse substantiam
+rerum sperandarum, argumentum non apparentium <note>(Hebr. XI)</note>
+          </hi>.
+ D. Qualiter hoc accipiendum putas?
+Quaecunque vel futura, nec dum sunt; vel
+praeterita jam esse desierunt; vel praesentia veritatem
+sui a sensibus nostris sive cognitione abscondunt:
+haec omnia quantum attinet ad nos quodammodo
+non sunt; sed quia per fidem de his omnibus
+quasi existentibus praesentibus quaedam in nobis
+certitudo nascitur, non immerito ipsa fides et non
+existentium substantia, et non apparentium argumentum
+<pb n="0035D"/>
+appellatur. Porro illud considerandum est
+quod sola fide nemo potest placere Deo nisi charitas
+illi sociata fuerit, ut sit videlicet fides operans ex
+dilectione. Attamen fides fundamentum quodammodo
+est et principium boni in homine, de qua charitas
+nascitur, de charitate autem spes generatur; quia fides
+ad cogitationem pertinet, charitas vero amor, spes
+fiducia est.</p>
+<p> D. Breviter velim ut horum diffinitione proposita,
+ipsa mihi manifestius distinguantur.  M. Fides est
+voluntaria absentium certitudo supra opinionem et
+infra scientiam constituta. Charitas est amor Dei
+propter ipsum, et amor proximi propter Deum. Spes
+est fiducia futurorum bonorum ex gratia Dei et bona
+conscientia. In hoc etiam fides et spes differre videntur:
+<pb n="0036A"/>
+quod fides de praesentibus praeteritis simul
+et futuris esse potest: spes de solis futuris; fides de
+nostris et alienis; spes solummodo de nostris. Fides
+de bonis et malis; spes de solis bonis.</p>
+<p> D. Quid est sacramentum fidei?  M. Duobus modis
+intelligi potest sacramentum fidei: sive ipsum sacramentum
+quod est fides; sive sacramentum fidei, id
+est fidelium, quo fideles utuntur et sanctificantur.
+ D. Qua ratione fides sacramentum dicitur?  M. Sicut
+sacramentum baptismi cum dicitur, non aliud sacramentum
+quam ipsum quod est baptismus significatur,
+ita et sacramentum fidei ipsam fidem quae
+sacramentum est, nonnunquam accipere solemus.
+Porro caetera omnia ideo sacramenta fidei dicuntur,
+quod ad eos tantum qui fidem habent sanctificandos
+<pb n="0036B"/>
+instituta sint. Ipsa vero fides, ut dictum est, sacramentum
+est, propterea quod sicut in baptismo et in
+aliis sacramentis aliud est quod foris ostenditur,
+atque aliud spiritualis virtus quae intus exhibetur;
+sic aliud est fides qua <hi>nunc,</hi> sicut dicit Apostolus,
+Deum quasi <hi>per speculum in aenigmate cernimus <note>(I
+Cor. XIII)</note>
+          </hi>; atque aliud visio manifesta qua eum postea <hi>facie ad faciem 
+ <note>(ibid.)</note>
+          </hi> contemplantes visuri sumus.
+Fides igitur sacramentum est visionis futurae;
+et ipsa visio virtus est ejus sacramenti quod est
+fides. D. Doceri nunc velim quae res ad fidem pertineant?
+ M. Duo sunt: Creator et creatura. Haec sana
+fides ita discernere debet, ut nec creaturae divinitatem
+Creatoris attribuat, nec Creatori infirmitatem
+creaturae ascribat; id est, nec Deum concludat tempore,
+<pb n="0036C"/>
+nec creaturam tendat aeternitate. Nam quodlibet
+horum fiat: fides necesse est detrimentum patiatur.
+Sequitur autem ut fides cum recte inter
+Creatorem et creaturam diviserit, recte etiam offerre
+studeat Creatoris honorem suum tribuendo, ut
+videlicet confiteatur omnia ab ipso et per ipsum
+facta esse, ipsum vero non aliunde sed a semetipso
+sine principio et fine subsistere. Deinde sequitur
+tertium, ut videlicet eum quem Creatorem confitetur
+omnium, credat etiam et exspectet hominum salvatorem.
+Et ut breviter perstringamus, haec sunt quibus
+nihil unquam minus recta fides habere potuit,
+ut unus Deus credatur, factor omnium et hominum
+salvator. Nam illi qui creaturam pro Deo colentes
+<pb n="0036D"/>
+gemino errore decepti, vel creaturam aeternam, vel
+Deum temporalem esse credebant: quid isti aliud
+fecisse dicendi sunt quam excellentiam factoris operi
+et infirmitatem facturae tribuisse Creatoris? Rursus
+philosophi gentilium; quia fidem de Salvatore non
+habebant, quamvis inter Creatorem et opus suum
+discernendum minime fallerentur, nequaquam tamen
+fideles appellandi sunt, quia fidem Salvatoris non
+habuerunt.  D. Qualem fidem habuerunt antiqui de
+Salvatore venturo, maxime ii qui circa primordia
+saeculi existentes nondum adhuc Scripturas in quibus
+adventus ejus promittebatur acceperant?  M. Non
+necesse est ut dicamus omnibus qui tunc fideles
+erant adventum ejus in carnem, crucem et resurrectionem
+manifeste revelatum fuisse; cum etiam
+<pb n="0037A"/>
+apostoli qui eum praesentem in carne viderunt
+(quorum fides et justitia ab ipso Salvatore praedicatur)
+hoc ignorasse legantur. Credebant tamen se
+salvari per eum quomodo et quando ei placuisset;
+sed quod morte illius redimendi essent (exceptis
+paucis quibus hoc a Deo revelatum fuerat) eos ignorasse
+ex hoc patenter ostenditur, quod et Petrus
+Domino mortem suam praedicenti contraire nititur <note>(Matth. XVI)</note>;
+et caeteri apostoli omnes in morte
+ipsius desperasse potius leguntur, adeo ut ipsi
+propter crucem jam desperantes dicerent: <hi>Nos autem
+sperabamus quod ipse esset redempturus Israel <note>(Luc. XXIV)</note>
+          </hi>.
+Qui enim ipso vivente redemptionem
+speraverant, postea autem ipso moriente desperant;
+patenter ostendunt, quia quod per mortem ejus redimendi
+<pb n="0037B"/>
+fuerant nescierunt.</p>
+<p> D. An hoc illis prioribus sufficere poterat ad salutem,
+ut crederent eum creatorem omnium, et
+salvatorem exspectarent venturum?  M. Poterat hoc
+eis tunc sufficere cum caeteris sine quibus, ut dictum
+est, fides placere non poterat, in iis duntaxat
+qui tempus bene operandi habebant, id est, cum
+susceptione sacramentorum et exercitatione bonorum
+operum per charitatem et spem fide roboratam.
+ D. Ergo postea crevit fides?  M. Duobus modis crescit
+fides: per constantiam et cognitionem. Alii
+fidem habent cognitione magnam, et parvam constantia;
+alii cognitione parvam et constantia magnam.
+Apud Deum autem pretiosior est magna
+fidei constantia quam cognitio magna. Antiqui igitur
+<pb n="0037C"/>
+sancti fidem habebant plures cognitione parvam et
+magnam constantia; sicut econtrario nunc multi fidem
+habent cognitione magnam et constantia parvam.</p>
+<p> D. Quae sacramenta erant sub lege naturali?
+ M. Oblationes et sacrificia et decimae.  D. Qua ratione
+haec sacramenta vocantur?  M. Quia sacrae rei
+signa sunt. D. Cujus?  M. Remissionis peccatorum.
+ D. Quomodo?  M. Substantia hominis duplex est:
+alia interior quae ipse est; alia exterior in rebus
+quas possidet. Voluit ergo Deus ut homo de exteriori
+substantia sua sibi oblationem faceret, ut justa
+recompensatione dum id quod exterius a Deo acceperat
+devote redderet, id quod interius de semetipso
+perdiderat Deo tribuente recuperaret. Per fidem
+ergo et oblationes sive sacrificia tunc remissionem
+<pb n="0037D"/>
+peccatorum acceperunt quicunque veterem hominem
+deponentes, hoc est Adam, membra novi, id
+est Christi facti sunt. Idem namque in illis oblationes
+et sacrificia fide mediante operabantur, quod
+postea sub lege scripta circumcisio aut sub gratia
+baptismus; videlicet ut et ipsi ab omni peccato sive
+originali sive actuali justificati, inter membra illius
+computarentur, cujus fide et sacramentis sanctificabantur.
+Eamdem quippe passio Salvatoris, praecedentibus
+sacramentis, id est sive oblationi sub naturali,
+sive circumcisioni sub lege scripta, virtutem et
+efficaciam sanctificationis contulit, quam subsequentibus
+et succedentibus confert: hoc solo excepto
+quod sacrificia et oblationes non ita sub naturali
+<pb n="0038A"/>
+lege quemadmodum circumcisio sub scripta et
+baptismus sub gratia ad necessitatem salutis, sed
+ad cultum devotionis fiebant, sola tunc fide justificante
+et purificante credentes. Et rursum hoc etiam
+in circumcisione excepto quod illi priores patres
+quamlibet justi et Deo placentes ante datam hostiam
+regni coelestis januam intrare non poterant;
+sed tantum in sinu Abrahae, id est in requie tranquilla
+servabantur, quousque ille veniret qui pro
+nobis moriens et resurgens per assumptam carnem
+coelos ascenderet, et omnibus in se credentibus ac
+se sequentibus viam aperiret.</p>
+<p> D. Si eadem virtus in illis sacramentis fuit quae
+in istis est, quid causae erat ut illa cessarent et ista
+succederent?  M. Manifestior veritas in istis declaratur;
+<pb n="0038B"/>
+et justum erat ut sicut paulatim procedente
+tempore crevit agnitio fidei, ita etiam alia sacramenta
+instituerentur, quae etsi aliam sanctificationem
+gratiae spiritualis non conferrent, eamdem tamen
+manifestius panderent. Erat quippe idem Salvator,
+eadem fides, eadem gratia: illic venturi, hic exhibiti.
+Sed, quia ipse per quem salus dabatur adhuc
+longe erat, ejusdem salutis signa obscura esse debuerunt,
+ut paulatim ejus adventu appropinquante
+et fides amplius cresceret, et gratia evidentius se
+manifestaret. Ideo primum per oblationem et postea
+per circumcisionem, ad ultimum per baptismum,
+expiationis et justificationis sacramentum formari
+institutum est; quia ejusdem mundationis forma et
+similitudo in oblatione quidem occulte innuitur,
+<pb n="0038C"/>
+circumcisione vero evidentius exprimitur, per baptismum
+autem manifesta declaratur. Primam namque
+justificationem accepit homo, ut pro remediis
+salutis, exterioris substantiae partem offerret Deo,
+partem ad usum proprium retineret, quatenus in
+hoc facto disceret ea quae intrinsecus bona erant
+Deo tribuere, quae vero mala, sibi imputare. Sed
+hoc signum de longe sumptum magis docuit hominem
+quid esset quam quid fieret. Igitur cum tempus
+advenisset quo veritas declarari debuerat, datum
+est ei remedium circumcisionis sacramentum, ubi
+dum ab interiori substantia hominis pars non quidem
+naturaliter superflua, sed ejus quod superfluum
+est figura, praeciditur; jam manifestius illa peccati
+circumcisio quam in interiori homine gratia perficit
+<pb n="0038D"/>
+demonstratur. Quia autem circumcisio exteriores
+sordes et enormitates quae foris sunt resecat,
+ablutio autem maculas etiam interiores emundat;
+jam manifesta veritate adveniente Christo circumcisio
+cessare debuit, ut illud sacramentum succederet,
+quod perfectam hominis emundationem et interiorem
+animae candorem (quem in ipso ot per ipsum
+sacramentum adipiscitur) posset declarare. Videntur
+ergo illa prima sacramenta quasi quaedam umbra
+gratiae spiritualis; illa vero quae postea secuta
+sunt quasi quaedam imago, et (si ita dicendum est)
+lineamenta veritatis habentia. Ista vero non jam
+umbra vel imago, sed corpus veritatis; in quibus
+(quia plenarie salutis effectus datur, et evidenter
+<pb n="0039A"/>
+ostenditur) quasi spiritus in corpore viventi exteriori
+motione se prodit; sic in eis vita gratiae invisibilis
+clarissime demonstratur.</p>
+<p> D. De operibus restat nunc ut quae dicenda sunt
+aperias.  M. Tria genera factorum sunt: quaedam
+sunt omnino bona quae nunquam licite praeteriri
+possunt; quaedam omnino mala sunt quae nunquam
+licite committi possunt; quaedam sunt media quae
+sive fiant sive non fiant nec culpa est nec meritum.
+Quae sic ergo se habent ut nunquam licite fieri possint,
+illa tantummodo lex naturalis prohibuit; illa
+vero quae nunquam licite possunt praeteriri sola
+praecepit, media omnia ad utrumlibet relinquens.
+De illis autem quae vel praecipienda vel relinquenda
+erant, unum tantum praeceptum in corde hominis
+<pb n="0039B"/>
+posuit: <hi>Quod tibi vis, id aliis feceris; quod tibi non
+vis, aliis ne feceris <note>(Matth. VII; Tobiae IV)</note>
+          </hi>, ut ex sui
+videlicet consideratione homo disceret qualem se
+erga proximum exhibere deberet. Sed postea, cum
+lex subintrasset, et disciplinam vivendi arctiorem
+proponeret coepit ex iis quae media erant quaedam
+excipere, et ex eis alia per praeceptionem, alia per
+prohibitionem in alteram partem tantum locare, ut
+quemadmodum primo homini in paradiso Deus de
+concessione naturali unam pro praecepto disciplinae
+exhibitionem exceperat, ita modo filiis ejus non ex
+una veritate stantibus, sed per varios errores dissipatis,
+non unum de concessione naturali praeceptum
+disciplinae quasi probandis, sed quasi corrigendis
+et reparandis multa formaret, ut quanto magis se
+<pb n="0039C"/>
+in mediis temperare discerent, tanto levius inconcessa
+cavere valerent.</p>
+<p> D. Quae fuerunt illa quae lex naturalis facienda
+aut vitanda proposuerat?  M. Illa septem quae postea
+lex scripta in secunda tabula de dilectione proximi
+mandabat. Primum erat: <hi>Honora patrem tuum et
+matrem tuam, ut bene sit tibi, et sis longaevus super
+terram;</hi> secundum: <hi>Non occides;</hi> tertium: <hi>Non
+maechaberis;</hi> quartum: <hi>Non furtum facies;</hi> quintum: <hi>Non falsum testimonium dices;</hi> 
+ sextum: <hi>Non
+concupisces uxorem proximi tui;</hi> septimum: <hi>Non
+concupisces rem proximi tui <note>(Deut. V)</note>
+          </hi>. Primum secundum
+praeceptionem factum est; sex alia secundum
+prohibitionem.  D. Quare de non faciendis unum
+tantum praeceptum datum est, et de faciendis plura?
+<pb n="0039D"/>
+M. Primum peccatum hominis fuit inobedientia; et
+idcirco vita ista quae homini ad poenitentiam conceditur,
+tota obedientiae deputatur. Quia igitur homo
+in malis agendis ex propria concupiscentia in diversa
+distrahitur, in bonis vero agendis sola obedientiae
+regula gubernatur; ideo in malis cavendis, quae habet
+ex semetipso et per semetipsum facere potest,
+singulatim instruendus erat, ad bona vero agenda
+ad obedientiam solummodo revocandus, ut ibi per
+sententiam alterius salubrius disceret quid ipse
+agere debuisset. Cum enim jubetur homo patri et
+matri honorem deferre, non hoc ad carnales parentes
+solum referendum est; sed hoc potius ei praecipitur,
+ut quod in mandatis suis aliquando contempsit,
+<pb n="0040A"/>
+nunc propter Deum homini superiori obedientiam
+atque honorem exhibere non dedignetur.</p>
+<p> D. Ecce demonstrasti tria, id est fidem, et sacramenta
+fidei et opera. Nunc superest ut in his qui haec
+habebant, qualis aut quanta effecta sit reparatio
+ostendas.  M. Si summum bonum hominis contemplatio
+praesentis Dei esset, maxime quia ad perfruendum
+hoc homo primus conditus creditur, merito
+fides, per quam absentem quodammodo videre incipit,
+initium boni et principium restaurationis ejus
+memoratur. Nam quoniam homo, qui peccando cognitionem
+Dei perdidit, per fidem iterum illuminatur,
+ut eum videre atque cognoscere possit; patet
+quia id per quod ei primum bonum quod perdiderat
+redditur, jure exordium restaurationis ejus vocatur.
+<pb n="0040B"/>
+Quae restauratio scilicet secundum incrementa fidei
+crescit, dum homo per agnitionem amplius illuminatur
+et inflammatur perdilectionem. Fides igitur
+ipsa est per quam reparatur homo et in qua ei bonum
+amissum redditur, ut per eam paulatim cognitione
+pariter et amore crescens ad plenam illam visionis
+felicitatem pervenire mereatur. Sic enim justus
+quandiu in hoc corpore existens peregrinatur
+a Domino vivere habet ex fide, quemadmodum beatus
+cum eductus de hoc ergastulo fuerit et introductus
+in gaudium Domini sui, vivere habebit ex contemplatione.
+Sed mira Dei dispensatione agitur
+quod nunc interim malitia hostis antiqui ad impugnandos
+et persequendos fideles relaxatur, quatenus
+videlicet hoc homini reputetur pro merito, si
+<pb n="0040C"/>
+nunc per fidem ambulans viam veritatis etiam vel
+impugnatus non deserat, qui prius visione praesentis
+Dei roboratus sola persuasione prostratus erat. Ut
+autem in hoc praelio invictus stare possit et bonum
+suum illaesum custodire, dantur ei, ut dictum est
+jam, in sacramentis arma quibus se muniat, et in
+operibus bonis tela quibus hostem prosternat, ut
+scilicet fidei charitate et spe adjuncta interius pariter
+roboretur et vincat. Jam (ut existimo) satis demonstratum
+est tibi qualis fides et quae sacramenta
+aut quae opera illis sanctis primis ad obtinendam
+salutem fuerunt necessaria.</p>
+<p> D. Quandiu duravit status iste priorum?  M. Usque
+ad Abraham. Tunc etenim volens Deus populum
+suum in unum congregare et ab infidelium collegio
+<pb n="0040D"/>
+sequestrare, ut non solum in una fide, sed
+etiam in una essent societate, vocavit Abraham, ut
+eum de terra sua educeret, ut per illum unum et
+in illo uno omnes qui ab illo nascituri aut illum secuturi
+erant a pristina conversatione educens in
+unam societatem novae vitae congregaret. Cui etiam
+praecepit ut circumcideret pellem praeputii sui in signum
+sibi, posteris in exemplum; tantum ad priorem
+statum superaddens quatenus per hoc signaculum
+populus Dei ab infidelibus discerneretur,
+quousque ille viveret qui non solum de filiis Abrahae,
+sed de universis etiam gentibus fideles colligeret,
+ac per hoc non jam per signaculum carnis in genere,
+sed per signaculum baptismatis secerneret in emundatione.
+<pb n="0041A"/>
+D. Nunquid non etiam olim ante diluvium
+fideles ab infidelibus discreti erant?  M. Erant; sed
+post diluvium rursus humanum genus ad unum populum
+redactum in Abraham secundo discerni coepit.
+ D. Qualiter fiebat circumcisio?  M. Praeceptum
+fuit ut puer masculus octavo die nativitatis suae circumcideretur
+in carne praeputii sui cultello de petra
+facto. D. Quae fuit ratio ut sic fieri praeciperetur?
+ M. Tres sunt circumcisiones: una in carne tantum
+exterius, quae sacramentum est; duae aliae quae
+sunt res et virtus sacramenti. Altera quae fit in praesenti,
+quando per depositionem iniquitatis mens circumciditur.
+Altera quae in futuro fiet, quando per
+depositionem corruptionis corpus circumcidetur.
+Prima igitur est in carne; secunda in mente; tertia
+<pb n="0041B"/>
+in corpore. Octonarius vero in sacra Scriptura aliquando
+tempus resurrectionis significat quod post
+praesentem (quae septem diebus currit) vitam sequitur:
+aliquando tempus gratiae in quo aeterna bona
+servientibus Deo promittuntur. Merito igitur illa
+prima circumcisio quae sacramentum erat aliarum
+duarum, jussa est fieri die octavo, ut ostenderet
+quod in tempore gratiae corda circumcidenda erant
+<pb n="0042A"/>
+per emundationem iniquitatis, et in tempore resurrectionis
+corpora per depositionem corruptionis.
+Propterea autem solis masculis data est circumcisio
+carnis, quia sacra Scriptura per masculinum sexum
+animam, per muliebrem vero carnem significare
+solet; ut videlicet ostenderetur quod illa exterior
+circumcisio animabus justificationem contulit, sed
+carni non abstulit corruptionem. Cultellus de petra
+factus Christum significat, de quo dicit Apostolus: <hi>Petra autem erat Christus 
+ <note>(I Cor. X)</note>
+          </hi>, <hi>qui tollit peccata
+mundi <note>(Joan. I)</note>
+          </hi>. In carne praeputii idcirco jussa
+est fieri quoniam ad remedium data est contra
+originale peccatum, quod a parentibus contrahimus
+per illud membrum propagati.  D. Quod ergo mulieres
+remedium habebant quae non circumcidebantur?
+<pb n="0042B"/>
+M. Fidem et oblationes sive sacrificia: ipsam quoque
+circumcisionem; non tamen suscipiendo sed
+credendo.  D. Quid dicendum est de pueris ante
+octavam diem morientibus, quoniam ad illud remedium
+pervenire non poterant, salvine fuerant an
+damnati?  M. Hoc Dei judicio relinquendum mihi
+videtur.
+
+</p>
+      </div1>
+</body>
+  </text>
+</TEI>
