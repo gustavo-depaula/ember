@@ -42,6 +42,7 @@ Each book's `book.json` source notes give the details. The scripts that built th
 
 These books were imported from scans and corrected by script, not proofread. Proofread them against the page images (the `audit-book-vs-pdf` skill), worst first:
 
+- `philip-neri-opera-omnia/lettere`, `it/` and `en-US/`: OCR (Capecelatro 1889, Antrobus 1902) corrected by script and a list of fixes, not proofread; about 1% of words are still wrong, some editor's footnotes may sit inline in the Italian, and letter XXVII is Italian only. `philip-neri-opera-omnia/massime` is English only (Faber 1847); the Italian Turin *Ricordi e detti* is not online. `sonetti`: the third sonnet has no English; the two sonnets found after Bacci are not in a free text.
 - `scupoli-opera-omnia/combattimento-spirituale`, `it/`: about 3% of words are still wrong, and about 25 chapter titles were rebuilt from fragments.
 - `francis-de-sales-opera-omnia/traite-amour-de-dieu`, `fr-FR/`: misread letters ("four" for "jour"), stray margin citations, and some wrongly split or merged paragraphs.
 - `francis-de-sales-opera-omnia/entretiens-spirituels`, `fr-FR/`: same extraction as the Traité (OCR text layer): stray note markers such as `(v>`, some pages with paragraph breaks misplaced, a few misread letters. `en-US/` is djvu OCR of Gasquet and Mackey: the translators' footnotes are dropped, sub-headings (e.g. Conference IV `I. On Cordiality`) run into the paragraph, and the appendix pieces and the last conference have no English.

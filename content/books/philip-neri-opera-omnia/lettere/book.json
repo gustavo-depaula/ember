@@ -1,0 +1,243 @@
+{
+  "id": "philip-neri-lettere",
+  "cover": "classic",
+  "name": {
+    "it": "Lettere di san Filippo Neri",
+    "en-US": "Letters of St. Philip Neri",
+    "pt-BR": "Cartas de são Filipe Néri"
+  },
+  "author": {
+    "it": "San Filippo Neri",
+    "en-US": "St. Philip Neri",
+    "pt-BR": "São Filipe Néri"
+  },
+  "description": {
+    "it": "Le ventisei lettere autentiche di san Filippo Neri (1515-1595) pubblicate da Alfonso Capecelatro nei «Documenti» della sua Vita di san Filippo Neri (1879): a Francesco Vai, a san Carlo Borromeo, al cardinale Federigo Borromeo, alle monache Trievi di Firenze, a Fiora Ragni e ad altri figli spirituali, ciascuna con il sommario dell’editore. Segue una lettera al coadiutore di Bologna non compresa nelle stampe precedenti. Il testo italiano viene dalla scansione OCR e non è rivisto sulle immagini; la traduzione inglese segue lettera per lettera.",
+    "en-US": "The twenty-six authentic letters of St. Philip Neri (1515-1595) as published by Alfonso Capecelatro in the Documents of his Life of St. Philip Neri (1879): to Francesco Vai, to St. Charles Borromeo, to Cardinal Federigo Borromeo, to the Trievi nuns of Florence, to Fiora Ragni and other spiritual children, each with the editor’s summary. A twenty-seventh letter, to the coadjutor of Bologna, which the earlier prints omit, is added in Italian. The Italian is from OCR and not proofread against the page images; the English is the translation in Antrobus’s edition of Bacci, letter for letter.",
+    "pt-BR": "As vinte e seis cartas autênticas de são Filipe Néri (1515-1595), publicadas por Alfonso Capecelatro nos «Documentos» de sua Vida de são Filipe Néri (1879): a Francesco Vai, a são Carlos Borromeu, ao cardeal Federico Borromeu, às religiosas Trievi de Florença, a Fiora Ragni e a outros filhos espirituais, cada uma com o sumário do editor."
+  },
+  "composed": "1556-1595",
+  "languages": [
+    "it",
+    "en-US"
+  ],
+  "work": "philip-neri/lettere",
+  "editions": {
+    "it": {
+      "editor": "Alfonso Capecelatro (La vita di S. Filippo Neri, Milano)",
+      "year": 1889
+    },
+    "en-US": {
+      "translator": "Anonymous (Oratorian translation, ed. Frederick Ignatius Antrobus)",
+      "year": 1902
+    }
+  },
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://archive.org/details/lavitadisfilippo01capeuoft",
+      "edition": "Alfonso Capecelatro, La vita di S. Filippo Neri, libri tre, Milano 1889, vol. I, Documenti, N. IV. Internet Archive scan, OCR text.",
+      "description": "Letters I-XXVI and the final letter to the coadjutor of Bologna, with Capecelatro’s summaries. Page furniture and hyphenation were stripped by script and obvious OCR slips corrected by a list of fixes; the text was not proofread against the scan and still carries stray OCR errors (roughly 1% of words), and a few of the editor’s footnotes may be left inline.",
+      "tier": "A",
+      "tierEvidence": "Capecelatro died in 1912; the 1889 printing is public domain everywhere."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/lifesaintphilip00baccgoog",
+      "edition": "Pietro Giacomo Bacci, The Life of Saint Philip Neri, ed. Frederick Ignatius Antrobus, London: Kegan Paul 1902, vol. II, Letters of Saint Philip, pp. 355-409. Internet Archive (Google) scan, OCR text.",
+      "description": "Letters I-XXVI with their summaries; Antrobus’s notes on the addressees are kept as footnotes. OCR cleaned by script and a list of fixes, not proofread; residual errors remain. The fragment to Tiberio is headed as such. Antrobus’s all-capitals Latin inscription quoted in a note to letter XXIV was too corrupt to keep.",
+      "tier": "A",
+      "tierEvidence": "Antrobus died in 1903; the 1902 edition is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l01",
+      "title": {
+        "it": "Lettera I. A Messer Francesco Vai, Prato",
+        "en-US": "Letter I. To Messer Francesco Vai, Prato"
+      }
+    },
+    {
+      "id": "l02",
+      "title": {
+        "it": "Lettera II. A Madonna Fiora Ragni, Napoli",
+        "en-US": "Letter II. To Madonna Fiora Ragni, Naples"
+      }
+    },
+    {
+      "id": "l03",
+      "title": {
+        "it": "Lettera III. A persona incerta, Firenze",
+        "en-US": "Letter III. To a person unknown, Florence"
+      }
+    },
+    {
+      "id": "l04",
+      "title": {
+        "it": "Lettera IV. A suor Maria Vittoria Trievi, monaca in San Pietro Martire, Firenze",
+        "en-US": "Letter IV. To Sister Maria Vittoria Trievi, nun at San Pietro Martire, Florence"
+      }
+    },
+    {
+      "id": "l05",
+      "title": {
+        "it": "Lettera V. Alla stessa suor Maria Vittoria Trievi",
+        "en-US": "Letter V. To Sister Maria Vittoria Trievi, again"
+      }
+    },
+    {
+      "id": "l06",
+      "title": {
+        "it": "Lettera VI. A suor Anna Maria Trievi, monaca in Santa Lucia",
+        "en-US": "Letter VI. To Sister Anna Maria Trievi, a nun in Santa Lucia, Florence"
+      }
+    },
+    {
+      "id": "l07",
+      "title": {
+        "it": "Lettera VII. A san Carlo Borromeo, Milano",
+        "en-US": "Letter VII. To St. Charles Borromeo, Milan"
+      }
+    },
+    {
+      "id": "l08",
+      "title": {
+        "it": "Lettera VIII. A Donna Felice Orsina Colonna, vicereina di Sicilia, Napoli",
+        "en-US": "Letter VIII. To Donna Felice Orsina Colonna, Vice-Queen of Sicily, Naples"
+      }
+    },
+    {
+      "id": "l09",
+      "title": {
+        "it": "Lettera IX. A monsignor Domenico Pinelli, vescovo di Fermo",
+        "en-US": "Letter IX. To Monsignor Domenico Pinelli, Bishop of Fermo"
+      }
+    },
+    {
+      "id": "l10",
+      "title": {
+        "it": "Lettera X. A Madonna Fiora Ragni, Napoli",
+        "en-US": "Letter X. To Madonna Fiora Ragni, Naples"
+      }
+    },
+    {
+      "id": "l11",
+      "title": {
+        "it": "Lettera XI. A san Carlo Borromeo, Milano",
+        "en-US": "Letter XI. To St. Charles Borromeo, Milan"
+      }
+    },
+    {
+      "id": "l12",
+      "title": {
+        "it": "Lettera XII. A san Carlo Borromeo, Milano",
+        "en-US": "Letter XII. To St. Charles Borromeo, Milan"
+      }
+    },
+    {
+      "id": "l13",
+      "title": {
+        "it": "Lettera XIII. A suor Anna Maria Trievi, monaca in Santa Lucia, Firenze",
+        "en-US": "Letter XIII. To Sister Anna Maria Trievi, a nun in Santa Lucia, Florence"
+      }
+    },
+    {
+      "id": "l14",
+      "title": {
+        "it": "Lettera XIV. A san Carlo Borromeo, Milano",
+        "en-US": "Letter XIV. To St. Charles Borromeo, Milan"
+      }
+    },
+    {
+      "id": "l15",
+      "title": {
+        "it": "Lettera XV. A suor Maria Vittoria Trievi, monaca in San Pietro Martire, Firenze",
+        "en-US": "Letter XV. To Sister Maria Vittoria Trievi, nun at San Pietro Martire, Florence"
+      }
+    },
+    {
+      "id": "l16",
+      "title": {
+        "it": "Lettera XVI. Al vescovo di San Severino",
+        "en-US": "Letter XVI. To the Bishop of San Severino"
+      }
+    },
+    {
+      "id": "l17",
+      "title": {
+        "it": "Lettera XVII. A Tiberio (frammento)",
+        "en-US": "Letter XVII. To Tiberio (a fragment)"
+      }
+    },
+    {
+      "id": "l18",
+      "title": {
+        "it": "Lettera XVIII. A monsignor Michele Mercati, San Miniato",
+        "en-US": "Letter XVIII. To Monsignor Michele Mercati, San Miniato"
+      }
+    },
+    {
+      "id": "l19",
+      "title": {
+        "it": "Lettera XIX. Al venerabile Giovenale Ancina, Napoli",
+        "en-US": "Letter XIX. To the Blessed Giovenale Ancina, Naples"
+      }
+    },
+    {
+      "id": "l20",
+      "title": {
+        "it": "Lettera XX. Al venerabile Alessandro Luzzago, Brescia",
+        "en-US": "Letter XX. To the Venerable Alessandro Luzzago, Brescia"
+      }
+    },
+    {
+      "id": "l21",
+      "title": {
+        "it": "Lettera XXI. Al vescovo di San Severino",
+        "en-US": "Letter XXI. To the Bishop of San Severino"
+      }
+    },
+    {
+      "id": "l22",
+      "title": {
+        "it": "Lettera XXII. Al cardinale Federigo Borromeo, Arona",
+        "en-US": "Letter XXII. To Cardinal Federigo Borromeo, Arona"
+      }
+    },
+    {
+      "id": "l23",
+      "title": {
+        "it": "Lettera XXIII. A suor Anna Maria Trievi, monaca in Santa Lucia, Firenze",
+        "en-US": "Letter XXIII. To Sister Anna Maria Trievi, a nun in Santa Lucia, Florence"
+      }
+    },
+    {
+      "id": "l24",
+      "title": {
+        "it": "Lettera XXIV. A messer Vittorio dell’Ancisa, Firenze",
+        "en-US": "Letter XXIV. To Messer Vittorio dell’Ancisa, Florence"
+      }
+    },
+    {
+      "id": "l25",
+      "title": {
+        "it": "Lettera XXV. A suor Anna Maria Trievi, monaca in Santa Lucia, Firenze",
+        "en-US": "Letter XXV. To Sister Anna Maria Trievi, a nun in Santa Lucia, Florence"
+      }
+    },
+    {
+      "id": "l26",
+      "title": {
+        "it": "Lettera XXVI. Alle signore Spada, Napoli",
+        "en-US": "Letter XXVI. To the Signore Spada, Naples"
+      }
+    },
+    {
+      "id": "l27",
+      "title": {
+        "it": "Lettera XXVII. Al coadiutore di Bologna (inedita al tempo delle stampe)"
+      }
+    }
+  ]
+}
