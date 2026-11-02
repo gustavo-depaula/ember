@@ -1,0 +1,114 @@
+{
+  "id": "bossuet-avertissements-aux-protestants",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Avertissements aux protestants sur les lettres du ministre Jurieu",
+    "en-US": "Warnings to the Protestants on the Letters of the Minister Jurieu",
+    "pt-BR": "Advertências aos protestantes sobre as cartas do ministro Jurieu"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Six avertissements publiés en 1689-1691 contre les Lettres pastorales du ministre Pierre Jurieu, qui attaquait l’Histoire des variations : le socinianisme, l’idolâtrie, l’autorité de l’Église, la tolérance universelle et l’état présent des controverses. Édition Lachat (1864).",
+    "en-US": "Six warnings published in 1689-91 against the Pastoral Letters of the minister Pierre Jurieu, who attacked the History of the Variations: Socinianism, idolatry, the authority of the Church, universal toleration and the present state of the controversies. Lachat edition (1864).",
+    "pt-BR": "Seis advertências publicadas em 1689-1691 contra as Cartas pastorais do ministro Pierre Jurieu, que atacava a História das variações: o socinianismo, a idolatria, a autoridade da Igreja, a tolerância universal e o estado presente das controvérsias. Edição Lachat (1864)."
+  },
+  "composed": "1689",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/avertissements-aux-protestants",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume015/005.htm to volume016/006.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XV, pages 005-010, and volume XVI, pages 001-006. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "avertissement-1",
+      "title": {
+        "fr-FR": "Premier avertissement : le christianisme flétri, et le socinianisme autorisé par ce ministre"
+      }
+    },
+    {
+      "id": "avertissement-2",
+      "title": {
+        "fr-FR": "Second avertissement aux protestants sur les lettres du ministre Jurieu contre l’Histoire des variations"
+      }
+    },
+    {
+      "id": "avertissement-3",
+      "title": {
+        "fr-FR": "Troisième avertissement aux protestants"
+      }
+    },
+    {
+      "id": "eclaircissement-idolatrie",
+      "title": {
+        "fr-FR": "Éclaircissement sur le reproche de l’idolâtrie et sur l’erreur des païens"
+      }
+    },
+    {
+      "id": "avertissement-4",
+      "title": {
+        "fr-FR": "Quatrième avertissement aux protestants"
+      }
+    },
+    {
+      "id": "avertissement-5",
+      "title": {
+        "fr-FR": "Cinquième avertissement aux protestants"
+      }
+    },
+    {
+      "id": "avertissement-6-partie-1",
+      "title": {
+        "fr-FR": "Sixième et dernier avertissement, première partie : que le ministre renverse ses propres principes et le fondement de la foi par les variations qu’il introduit dans l’ancienne Église"
+      }
+    },
+    {
+      "id": "avertissement-6-partie-2",
+      "title": {
+        "fr-FR": "Sixième avertissement, seconde partie : que le ministre ne peut se défendre d’approuver la tolérance universelle"
+      }
+    },
+    {
+      "id": "avertissement-6-partie-3",
+      "title": {
+        "fr-FR": "Sixième avertissement, troisième et dernière partie : état présent des controverses et de la religion protestante"
+      }
+    },
+    {
+      "id": "extraits-burnet",
+      "title": {
+        "fr-FR": "Extraits de quelques lettres de M. Burnet"
+      }
+    },
+    {
+      "id": "denombrement-heresies",
+      "title": {
+        "fr-FR": "Dénombrement de quelques hérésies"
+      }
+    }
+  ]
+}
