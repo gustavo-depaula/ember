@@ -1,0 +1,167 @@
+{
+  "id": "bellarmine-de-ascensione-mentis",
+  "cover": "classic",
+  "name": {
+    "la": "De ascensione mentis in Deum per scalas rerum creatarum",
+    "en-US": "The Mind's Ascent to God by the Ladder of Created Things",
+    "pt-BR": "A ascensão da mente a Deus pela escada das criaturas"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Quindecim gradus ex creaturarum consideratione ad Deum ascendentium (1615), opus ascetica ex anno recessus conscriptum. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "Fifteen steps of ascent to God through the consideration of creatures, written on Bellarmine's annual retreat (1615). The Latin is the Vivès edition (1870-74) from an OCR scan; the English is the 1925 translation by a Religious of the Church of England (A. R. Mowbray).",
+    "pt-BR": "Quinze degraus de ascensão a Deus pela consideração das criaturas, escritos no retiro anual do cardeal (1615)."
+  },
+  "composed": "1615",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "bellarmine/de-ascensione-mentis",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    },
+    "en-US": {
+      "translator": "A Religious of the Church of England (\"Monialis\")",
+      "year": 1925
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/mindsascenttogod00bell",
+      "edition": "The Mind's Ascent to God, trans. a Religious of the Church of England (Monialis), with a preface by P. N. Waggett (London: A. R. Mowbray, 1925).",
+      "description": "Archive.org OCR (djvu.txt), paragraphs rejoined and page heads removed; the steps hold the translator's chapters as ## headings; the translator's division of the Latin into chapters is kept inside each step. Some chapter-opening letters lost to the drop-cap are not restored.",
+      "tier": "A",
+      "tierEvidence": "Published 1925 in Great Britain; the translator was anonymous and the book is public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "g01",
+      "title": {
+        "la": "Gradus I: Ex consideratione hominis",
+        "en-US": "Step I: Consideration of Man"
+      }
+    },
+    {
+      "id": "g02",
+      "title": {
+        "la": "Gradus II: Ex consideratione majoris mundi",
+        "en-US": "Step II: Consideration of the Greater World"
+      }
+    },
+    {
+      "id": "g03",
+      "title": {
+        "la": "Gradus III: Ex consideratione orbis terrae",
+        "en-US": "Step III: Consideration of the World"
+      }
+    },
+    {
+      "id": "g04",
+      "title": {
+        "la": "Gradus IV: Ex consideratione aquarum, ac praecipue fontium",
+        "en-US": "Step IV: Consideration of Waters and Chiefly of Fountains"
+      }
+    },
+    {
+      "id": "g05",
+      "title": {
+        "la": "Gradus V: Ex consideratione aeris",
+        "en-US": "Step V: Consideration of the Air"
+      }
+    },
+    {
+      "id": "g06",
+      "title": {
+        "la": "Gradus VI: Ex consideratione ignis",
+        "en-US": "Step VI: Consideration of Fire"
+      }
+    },
+    {
+      "id": "g07",
+      "title": {
+        "la": "Gradus VII: Ex consideratione coeli, id est, solis, Iunx et stella7'um",
+        "en-US": "Step VII: "
+      }
+    },
+    {
+      "id": "g08",
+      "title": {
+        "la": "Gradus VIII: Ex consideratione animae rationalis",
+        "en-US": "Step VIII: Consideration of the Rational Soul"
+      }
+    },
+    {
+      "id": "g09",
+      "title": {
+        "la": "Gradus IX: Ex consideratione Angelorum",
+        "en-US": "Step IX: Consideration of the Angels"
+      }
+    },
+    {
+      "id": "g10",
+      "title": {
+        "la": "Gradus X: GRADUS DECIMUS",
+        "en-US": "Step X: "
+      }
+    },
+    {
+      "id": "g11",
+      "title": {
+        "la": "Gradus XI: Ex consideratione magnitudinis potentiae Dei per similitudinem magnitudinis corporalis",
+        "en-US": "Step XI: "
+      }
+    },
+    {
+      "id": "g12",
+      "title": {
+        "la": "Gradus XII: Ex consideratione magnitudinis sapientiae Dei per similitudinem magnitudinis corporalis",
+        "en-US": "Step XII: "
+      }
+    },
+    {
+      "id": "g13",
+      "title": {
+        "la": "Gradus XIII: Ex consideratione sapientiae practicx",
+        "en-US": "Step XIII: Consideration of God's Practical Wisdom"
+      }
+    },
+    {
+      "id": "g14",
+      "title": {
+        "la": "Gradus XIV: Ex consideratione misericordise Dei",
+        "en-US": "Step XIV: Consideration of the Mercy of God"
+      }
+    },
+    {
+      "id": "g15",
+      "title": {
+        "la": "Gradus XV: Ex consideratione magnitudinis Justitiae Dei, per similitudinem magnitudinis corporalis",
+        "en-US": "Step XV: "
+      }
+    }
+  ]
+}
