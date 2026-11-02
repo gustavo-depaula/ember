@@ -1,0 +1,101 @@
+{
+ "id": "manning-glories-of-the-sacred-heart",
+ "dir": "manning-opera-omnia/glories-of-the-sacred-heart",
+ "slug": "glories-of-the-sacred-heart",
+ "work": "manning/glories-of-the-sacred-heart",
+ "name": "The Glories of the Sacred Heart",
+ "name_pt": "As Gl\u00f3rias do Sagrado Cora\u00e7\u00e3o",
+ "author": "Cardinal Henry Edward Manning",
+ "author_pt": "Cardeal Henry Edward Manning",
+ "died": 1892,
+ "desc": "Manning's ten discourses of 1876 on devotion to the Sacred Heart: its divine glory, God's way of love, dogma as the source of devotion, the science of the Sacred Heart, its last will, its temporal glory, its transforming power, the sure way of likeness to it, its signs and its eternal glory, with three appendices on the deification and adoration of the Sacred Humanity.",
+ "desc_pt": "Os dez discursos de Manning (1876) sobre a devo\u00e7\u00e3o ao Sagrado Cora\u00e7\u00e3o: a sua gl\u00f3ria divina, o caminho do amor de Deus, o dogma como fonte da devo\u00e7\u00e3o, a ci\u00eancia do Sagrado Cora\u00e7\u00e3o, a sua \u00faltima vontade, a sua gl\u00f3ria temporal, o seu poder transformador, o caminho seguro para a semelhan\u00e7a com ele, os seus sinais e a sua gl\u00f3ria eterna, com tr\u00eas ap\u00eandices sobre a deifica\u00e7\u00e3o e a adora\u00e7\u00e3o da Sagrada Humanidade.",
+ "composed": 1876,
+ "editor": "Henry Edward Manning (London: Burns and Oates, 1876)",
+ "year": 1876,
+ "url": "https://archive.org/details/a591669400mannuoft",
+ "edition": "The Glories of the Sacred Heart (London: Burns and Oates, 1876), University of Toronto scan, Internet Archive full-text OCR.",
+ "srcnote": "The preface and the ten chapters with their three appendices; the contents and the index are dropped.",
+ "src": "manning/ia/a591669400mannuoft_djvu.txt",
+ "start": 248,
+ "end": 9081,
+ "fn": true,
+ "back": [],
+ "label": {},
+ "romanheads": false,
+ "front": [
+  {
+   "id": "preface",
+   "title": "Preface",
+   "from": 62,
+   "to": 147
+  }
+ ],
+ "units": [
+  {
+   "id": "chapter-1",
+   "title": "Chapter I. The Divine Glory of the Sacred Heart",
+   "from": 248
+  },
+  {
+   "id": "appendix-1",
+   "title": "Appendix I. The Deification of the Sacred Humanity",
+   "from": 1214
+  },
+  {
+   "id": "appendix-2",
+   "title": "Appendix II. The Adoration of the Deified Humanity",
+   "from": 1348
+  },
+  {
+   "id": "appendix-3",
+   "title": "Appendix III. The Adoration of the Sacred Heart",
+   "from": 1533
+  },
+  {
+   "id": "chapter-2",
+   "title": "Chapter II. The Sacred Heart God's Way of Love",
+   "from": 1743
+  },
+  {
+   "id": "chapter-3",
+   "title": "Chapter III. Dogma the Source of Devotion",
+   "from": 2407
+  },
+  {
+   "id": "chapter-4",
+   "title": "Chapter IV. The Science of the Sacred Heart",
+   "from": 3157
+  },
+  {
+   "id": "chapter-5",
+   "title": "Chapter V. The Last Will of the Sacred Heart",
+   "from": 3936
+  },
+  {
+   "id": "chapter-6",
+   "title": "Chapter VI. The Temporal Glory of the Sacred Heart",
+   "from": 4949
+  },
+  {
+   "id": "chapter-7",
+   "title": "Chapter VII. The Transforming Power of the Sacred Heart",
+   "from": 5628
+  },
+  {
+   "id": "chapter-8",
+   "title": "Chapter VIII. The Sure Way of Likeness to the Sacred Heart",
+   "from": 6384
+  },
+  {
+   "id": "chapter-9",
+   "title": "Chapter IX. The Signs of the Sacred Heart",
+   "from": 7152
+  },
+  {
+   "id": "chapter-10",
+   "title": "Chapter X. The Eternal Glory of the Sacred Heart",
+   "from": 7898
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "manning-glories-of-the-sacred-heart",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Glories of the Sacred Heart",
+    "pt-BR": "As Glórias do Sagrado Coração"
+  },
+  "author": {
+    "en-US": "Cardinal Henry Edward Manning",
+    "pt-BR": "Cardeal Henry Edward Manning"
+  },
+  "description": {
+    "en-US": "Manning's ten discourses of 1876 on devotion to the Sacred Heart: its divine glory, God's way of love, dogma as the source of devotion, the science of the Sacred Heart, its last will, its temporal glory, its transforming power, the sure way of likeness to it, its signs and its eternal glory, with three appendices on the deification and adoration of the Sacred Humanity.",
+    "pt-BR": "Os dez discursos de Manning (1876) sobre a devoção ao Sagrado Coração: a sua glória divina, o caminho do amor de Deus, o dogma como fonte da devoção, a ciência do Sagrado Coração, a sua última vontade, a sua glória temporal, o seu poder transformador, o caminho seguro para a semelhança com ele, os seus sinais e a sua glória eterna, com três apêndices sobre a deificação e a adoração da Sagrada Humanidade."
+  },
+  "composed": 1876,
+  "languages": [
+    "en-US"
+  ],
+  "work": "manning/glories-of-the-sacred-heart",
+  "editions": {
+    "en-US": {
+      "editor": "Henry Edward Manning (London: Burns and Oates, 1876)",
+      "year": 1876
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/a591669400mannuoft",
+      "edition": "The Glories of the Sacred Heart (London: Burns and Oates, 1876), University of Toronto scan, Internet Archive full-text OCR.",
+      "description": "The preface and the ten chapters with their three appendices; the contents and the index are dropped. Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Cardinal Henry Edward Manning died in 1892 and the edition is of 1876, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter I. The Divine Glory of the Sacred Heart"
+      }
+    },
+    {
+      "id": "appendix-1",
+      "title": {
+        "en-US": "Appendix I. The Deification of the Sacred Humanity"
+      }
+    },
+    {
+      "id": "appendix-2",
+      "title": {
+        "en-US": "Appendix II. The Adoration of the Deified Humanity"
+      }
+    },
+    {
+      "id": "appendix-3",
+      "title": {
+        "en-US": "Appendix III. The Adoration of the Sacred Heart"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter II. The Sacred Heart God's Way of Love"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter III. Dogma the Source of Devotion"
+      }
+    },
+    {
+      "id": "chapter-4",
+      "title": {
+        "en-US": "Chapter IV. The Science of the Sacred Heart"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter V. The Last Will of the Sacred Heart"
+      }
+    },
+    {
+      "id": "chapter-6",
+      "title": {
+        "en-US": "Chapter VI. The Temporal Glory of the Sacred Heart"
+      }
+    },
+    {
+      "id": "chapter-7",
+      "title": {
+        "en-US": "Chapter VII. The Transforming Power of the Sacred Heart"
+      }
+    },
+    {
+      "id": "chapter-8",
+      "title": {
+        "en-US": "Chapter VIII. The Sure Way of Likeness to the Sacred Heart"
+      }
+    },
+    {
+      "id": "chapter-9",
+      "title": {
+        "en-US": "Chapter IX. The Signs of the Sacred Heart"
+      }
+    },
+    {
+      "id": "chapter-10",
+      "title": {
+        "en-US": "Chapter X. The Eternal Glory of the Sacred Heart"
+      }
+    }
+  ]
+}
