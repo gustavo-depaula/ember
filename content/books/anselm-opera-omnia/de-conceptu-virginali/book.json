@@ -1,0 +1,222 @@
+{
+  "id": "anselm-de-conceptu-virginali",
+  "cover": "classic",
+  "name": {
+    "la": "De conceptu virginali et de originali peccato",
+    "en-US": "On the Virgin Conception and Original Sin",
+    "pt-BR": "Sobre a concepção virginal e o pecado original"
+  },
+  "author": {
+    "la": "Anselmus Cantuariensis",
+    "en-US": "St. Anselm of Canterbury",
+    "pt-BR": "Santo Anselmo de Cantuária"
+  },
+  "description": {
+    "la": "Tractatus Anselmi de conceptu virginali et de originali peccato ad Valerannum: quomodo Christus sine peccato conceptus sit et quid sit originale peccatum. Textus ex editione Migne (Patrologia Latina 158, 1853).",
+    "en-US": "Anselm’s treatise, addressed to Bishop Waleran of Naumburg, on how Christ was conceived of a virgin without sin, and what original sin is and how it is passed on. Latin only, from the Migne text (Patrologia Latina 158, 1853), a machine-corrected OCR, with the chapter summaries.",
+    "pt-BR": "O tratado de Anselmo, dirigido ao bispo Valerano de Naumburgo, sobre como Cristo foi concebido de uma virgem sem pecado e sobre o que é o pecado original e como se transmite."
+  },
+  "composed": "1099-1100",
+  "languages": [
+    "la"
+  ],
+  "work": "anselm/de-conceptu-virginali",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 158)",
+      "year": 1853
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=10608",
+      "edition": "S. Anselmi Cantuariensis archiepiscopi opera omnia, ed. J.-P. Migne, Patrologia Latina 158 (Paris 1853), the Gerberon text; TEI XML of the Corpus Corporum (University of Zurich), text 10608, from the Open Greek and Latin machine-corrected OCR.",
+      "description": "The complete text with its chapter divisions and PL chapter summaries. PL page breaks, the column numbers and the apparatus of alternative chapter numbers (al.) are dropped; Scripture references stay in parentheses as printed. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Anselm died in 1109; Migne’s 1853 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quae sit originalis, et quae personalis justitia vel injustitia"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Qualiter humana natura corrupta est"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quod non sit peccatum nisi in voluntate rationali"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Quod nihil per se sit justum aut injustum, nisi ipsa justitia, vel injustitia, et quod nihil puniatur nisi voluntas"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quod malum, quod est peccatum sive injustitia, nihil sit"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Quod cum punit Deus pro peccato, non puniat pro nihilo"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Quomodo semen hominis dicatur immundum, et concipit in peccatis, quamvis in eo non sit peccatum"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Quod in semine sumpto de Virgine non sit peccatum neque necessitas futuri peccati"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Cur peccatum quo damnatur humanum genus, magis imputetur Adae quam Evae; cum ille post et per illam peccaverit"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Cur graventur peccato Adae, qui ejus conscii non fuerunt"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Quod propagatio de Virgine non subjaceat legi et meritis naturalis propagationis; et quod tres sint cursus rerum"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Quod mala Adae nulla rectitudine ad illum hominem transeant"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Quod etsi non esset Deus, sed purus homo, necesse tamen esset illum talem esse, qualis primus homo factus est"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. Quod propositae rationi non refragetur quod scriptum est: hominem de immundo semine et in iniquitatibus conceptum; etiamsi de aliquibus proprie dictum sit"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Quomodo massa peccatrix non sit tota peccatrix"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Cur Joannes, et alii qui similiter concepti sunt per miraculum, non sint per se liberi a peccato"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Cur Deus incarnatus, cum de Adam posset facere homines non deos sine peccato tot, quot sufficerent"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Quod de Virgine justa Deus conceptus sit, non necessitate, quasi de peccatrice nasci non posset, sed quia sic decebat"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Quomodo ista ratio, et altera alibi data concordent et differant"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Quod natus de Virgine, pro originali peccato habuerit originalem justitiam"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Quare non potuit habere personalem injustitiam"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. De quantitate originalis peccati"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Caput XXIII. Cur et quomodo peccatum descendat in infantes"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "la": "Caput XXIV. Quod peccata parentum post Adam non computentur in originali peccato filiorum"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "la": "Caput XXV. Quomodo peccata parentum noceant animabus filiorum"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "la": "Caput XXVI. Quomodo tamen nullus portet peccatum patris, sed suum"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "la": "Caput XXVII. Quid sit originale peccatum, et quod in omnibus sit aequale"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "la": "Caput XXVIII. Contra illos qui non putant infantes debere damnari"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "la": "Caput XXIX. Quomodo impotentia habendi justitiam excuset eos post baptismum"
+      }
+    }
+  ]
+}

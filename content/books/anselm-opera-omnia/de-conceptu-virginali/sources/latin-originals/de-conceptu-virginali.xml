@@ -1,0 +1,1615 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De conceptu virginali et originali peccato</title>
+              <author ref="http://viaf.org/viaf/100187025">Anselmus Cantuariensis<date>1033-1109</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1853</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 158</title>
+           <idno>AnsCan.DeCoViE3</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head> <emph>97</emph> PROLOGUS.</head>
+<p>Cum in omnibus religiosae tuae voluntati velim, si
+possim, obsequi, et frater et fili charissime Boso,
+tunc utique maxime debitorem me judico, cum eam
+a me in te excitari intelligo. Certus autem sum cum
+in libro: <hi>Cur Deus Homo</hi> (quem ut ederem tu maxime
+inter alios me impulisti, in quo te mecum disputantem
+assumpsi) legis aliam prae illam quam ibi
+posui, posse videri rationem, quomodo Deus accepit
+hominem de massa peccatrice humani generis sine
+<pb n="0432C"/>
+peccato: quia studiosa mens tua ad quaerendum
+quaenam sit illa non parum provocatur. Quapropter
+injustus tibi videri timeo; si quid inde mihi videtur,
+dilectioni tuae abscondo. Dicam igitur sic
+breviter de hoc quod sentio, ut nullius de eadem re
+fidelem improbem sententiam: nec meam (si veritati
+repugnare rationabiliter poterit ostendi)
+pervicaciter defendam. Illam tamen ejusdem rei
+rationem, quam in eodem opusculo posui, omnino
+ratam et sufficientem (si bene consideretur) existimo:
+<pb n="0433A"/>
+nihil enim prohibet ejusdem rei rationes
+plures esse, quarum unaquaeque sola potest sufficere.</p>
+
+
+<div2>
+          <head>CAPUT PRIMUM. <hi>Quae sit originalis, et quae personalis justitia vel injustitia</hi>.</head>
+<p>Ad videndum igitur qualiter Deus hominem assumpsit
+de generis humani massa peccatrice sine
+peccato, primum de originali peccato necesse est
+investigare, quia de hoc solo nascitur haec quaestio.
+Nam si videtur quomodo Christus huic subjacere
+non potuit, et qualiter assumptio sive
+conceptio illius hominis ab omni peccato libera fuit,
+palam erit. Originale quidem ab origine denominari
+dubium non est. Si ergo originale peccatum
+<pb n="0433B"/>
+non est nisi in homine, videtur dici aut ab originale
+ humanae naturae, quod est ab ejus initio
+originale, eo quod ab ipsa humanae naturae origine
+trahatur; aut ab origine, hoc est, ab initio uniuscujusque
+personae, quoniam in ipsa ejus trahitur
+ origine. Sed quod ab initio humanae naturae
+descendat, non videtur; quoniam origo illius justa
+fuit, quando primi parentes justi facti sunt sine
+omni peccato. Videtur itaque dici originale
+ab ipsa origine uniuscujusque personae humanae:
+quamvis si quis dicat peccatum vocari originale, eo
+quod ab illis descendat in singulos, a quibus habent
+ originem naturae, non contradicam: si tamen
+ non negetur originale peccatum cum ipsa
+uniuscujusque personae trahi origine. Licet enim
+<pb n="0433C"/>
+in uno quoque homine simul sint et natura, qua
+est homo sicut omnes alii, et persona, qua discernitur
+ab aliis; ut cum dicitur ille, vel iste: sive
+proprio nomine, ut Adam et Abel; et uniuscujusque
+peccatum sit in natura et persona: fuit
+enim peccatum Adae in homine, quod est in natura;
+et in illo qui vocatus est Adam, quod est in persona.
+Est tamen peccatum, quod quisque trahit cum natura
+ in ipsa sui origine: et est peccatum quod
+non trahit cum ipsa natura: sed ipse facit illud,
+post quam jam est persona discreta ab aliis personis.
+<pb n="0434A"/>
+Illud quidem quod trahitur in ipsa origine,
+vocatur originale; quod potest etiam dici naturale,
+non quod sit ex essentia naturae, sed quoniam
+propter ejus corruptionem cum illa assumitur. Peccatum
+autem quod quisque facit, postquam persona
+est, personale potest nominari, quia vitio personae
+fit. Simili ratione potest dici originalis, et personalis
+justitia. Siquidem Adam et Eva originaliter, hoc
+est, in ipso sui initio, mox ut homines exstiterunt,
+sine intervallo justi simul fuerunt. Personalis autem
+dici potest justitia, cum injustus accipit justitiam,
+quam ab origine non habuit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II [ <hi>al</hi>. I].</head>
+<p> <hi>Qualiter humana natura corrupta est</hi>.</p>
+<p>Ergo Adam et Eva si justitiam servassent originalem,
+<pb n="0434B"/>
+qui de illis nascerentur originaliter, sicut
+illi, justi essent. Quoniam autem personaliter
+peccaverunt, cum originaliter fortes et incorrupti
+haberent potestatem semper servandi sine difficultate
+justitiam; totum, quod erant, infirmatum et
+corruptum est. Corpus quidem, quia tale post peccatum <emph>98</emph> 
+ fuit, qualia sunt brutorum animalium
+corruptioni et carnalibus appetitibus subjacentia:
+anima vero, quia ex corruptione corporis et eisdem
+appetitibus, atque ex indigentia bonorum quae
+perdidit, carnalibus affectibus infecta est; et quia
+tota natura humana in illis erat, et extra illos de illa
+nihil erat, tota infirmata et corrupta est. Remansit
+igitur in ea debitum justitiae integrae sine
+omni injustitia, quam accepit; et debitum satisfaciendi,
+<pb n="0434C"/>
+quia eam deseruit; cum ipsa corruptione,
+quam propter peccatum incurrit. Sicut itaque,
+si non peccasset, qualis facta est a Deo, talis
+propagaretur: ita post peccatum, qualem se fecit
+peccando, talis propagatur. Quoniam igitur per se
+nec satisfacere pro peccato, nec justitiam derelictam
+recuperare valet, et <hi>corpus, quod corrumpitur, aggravat
+animam <note>(Sap. IX, 15)</note>
+            </hi>: et tunc maxime, quando
+infirmius est; ut in infantia, et in utero matris, ut
+nec intelligere justitiam possit: videtur esse necesse
+<pb n="0434D"/>
+eam in infantibus nasci cum debito satisfaciendi
+<pb n="0435A"/>
+pro primo peccato, quod semper cavere
+ potuit, et cum debito habendi originalem
+justitiam, quam semper servare valuit. Nec impotentia
+excusat eam in ipsis infantibus, quia in illis
+non solvit quod debet, quoniam ipsa sibi facit
+eam, deserendo justitiam in primis parentibus,
+in quibus tota erat: et semper debitrix est habere
+potestatem, quam ad servandam semper justitiam
+accipit: hoc esse videri potest in infantibus originale
+peccatum. Addamus etiam peccata proximorum
+parentum, quae redduntur in tertiam et quartam
+generationem. Quamvis enim quaeri possit utrum
+haec omnia intelligenda sint in originali peccato,
+an non: tamen, ne propter hoc quod quaero videar
+levigare illud, ponam istud esse tale, ut a nullo
+<pb n="0435B"/>
+gravius ostendi possit.
+</p>
+        </div2>
+
+<div2>
+          <head>CAPUT III. <hi>Quod non sit peccatum nisi in voluntate rationali</hi>.</head>
+<p>Verum sive hoc totum sit originale peccatum,
+sive aliquid minus: puto nullatenus illud posse
+asseri esse in infante antequam habeat animam rationalem;
+sicut nec in Adam fuisse justitiam, priusquam
+fieret homo rationalis. Nam si Adam et Eva
+generassent sine praecedenti peccato, non tamen
+esset in semine justitia, nec esse posset priusquam
+formarentur in viventem hominem. Si ergo semen hominis
+non est susceptibile justitiae, priusquam fiat
+homo, non potest suscipere originale peccatum antequam
+homo sit. Nempe originale peccatum esse injustitiam
+dubitari non debet. Nam si omne peccatum
+<pb n="0435C"/>
+est injustitia, et originale peccatum est peccatum;
+utique est et injustitia. Sed si dicit aliquis: Non est
+omne peccatum injustitia, dicat posse simul in aliquo
+et esse aliquod peccatum, et nullam esse
+injustitiam: quod videtur incredibile. Si vero dicitur
+originale peccatum non esse absolute dicendum
+peccatum, sed cum additamento, originale peccatum;
+sicut pictus homo non vere est homo, sed vere
+est homo pictus; profecto sequitur quia infans,
+qui nullum habet peccatum nisi originale, mundus
+est a peccato: nec fuit solus inter homines filius
+Virginis in utero matris, et nascens de matre, sine
+peccato: et aut non damnatur infans qui moritur
+sine baptismo, nullum habens peccatum praeter originale;
+aut sine peccato damnatur. Sed nihil horum
+<pb n="0435D"/>
+accipimus. Quare omne peccatum est injustitia,
+<pb n="0436A"/>
+et originale peccatum est absolute peccatum: unde
+sequitur quia est injustitia. Item si Deus non
+damnat nisi propter injustitiam, damnat autem
+aliquem propter originale peccatum: ergo non est
+aliud originale peccatum quam injustitia. Quod si
+ita est, et injustitia non est aliud quam absentia debitae
+justitiae: non enim videtur esse injustitia,
+nisi in natura, quae, cum debet habere, justitiam
+non habet; utique originale peccatum clauditur
+sub eadem definitione injustitiae. At si justitia est
+rectitudo voluntatis propter se servata, nec ista rectitudo
+potest esse nisi in rationali natura: ergo
+non est nulla natura debitrix justitiae, nisi rationalis;
+sicut ulla natura susceptibilis est justitiae,
+praeter rationalem. Quare quoniam injustitia
+<pb n="0436B"/>
+non potest esse nisi ubi justitia debet esse, originale
+peccatum, quod est injustitia, non est nisi in natura
+rationali. Rationalis autem natura non est nisi
+Deus, et angelus, et anima hominis per quam
+homo dicitur rationalis, et sine qua non est homo.
+Quoniam ergo non est originale peccatum nec in Deo
+nec in angelo, non est nisi in hominis anima rationali.
+Sciendum quoque est quia justitia non potest
+esse nisi in voluntate, si justitia est rectitudo voluntatis
+propter se servata: quare nec injustitia.
+Non enim vocatur absentia justitiae, injustitia;
+nisi ubi debet esse justitia. Nihil itaque praeter
+ipsam justitiam vel injustitiam dicitur justum vel
+injustum, nisi voluntas, aut propter voluntatem justam
+vel injustam. Per hanc dicimus justum vel injustum
+<pb n="0436C"/>
+hominem, vel angelum; justam vel injustam
+animam, sive actionem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Quod nihil per se sit justum aut injustum, nisi ipsa justitia, vel injustitia, et quod nihil puniatur nisi voluntas</hi>.</head>
+<p>Nihil enim, sive substantia, sive actio, sive aliquid
+aliud per se consideratum, est justum, nisi justitia;
+aut injustum, vel peccatum, nisi injustititia; nec ipsa
+voluntas, in qua est justitia, sive injustitia. Aliud
+enim est vis illa animae qua ipsa anima vult aliquid: 
+quae vis, instrumentum volendi potest dici
+(sicut visus instrumentum videndi) quam voluntatem
+nominamus: et aliud est justitia: quam habendo,
+justa voluntas; et qua carendo, injusta vocatur:
+<pb n="0436D"/>
+dicuntur etiam voluntates ejusdem instrumenti,
+<pb n="0437A"/>
+affectiones et usus: quod hic longum est inserere.
+Nec ipsi appetitus, quos Apostolus carnem vocat,
+quae <hi>concupiscit adversus spiritum <note>(Rom. VIII)</note>
+            </hi>;
+et <hi>legem</hi> peccati, quae est <hi>in membris, repugnantem
+legi mentis <note>(Galat. V)</note>
+            </hi> justi vel injusti sunt, per se
+considerati. Non enim hominem justum faciunt,
+vel injustum, sentientem; sed injustum, tantum
+voluntate, cum non debet, consentientem. Dicit
+enim Apostolus, <hi>nihil damnationis</hi> esse his <hi>qui
+sunt in Christo Jesu, qui non secundum carnem ambulant <note>(Rom. VIII)</note>
+            </hi>,
+id est, qui non carnis voluntate
+ consentiunt. Nam si sentientem sine
+consensu, injustum facerent, sequeretur damnatio.
+Quare non eos sentire, sed eis consentire, peccatum
+est. Si enim per se injusti essent, quoties
+<pb n="0437B"/>
+illis consentiretur, injustum facerent. Sed quando
+bruta animalia illis consentiunt, non dicuntur injusta.
+Item: si peccata essent, auferrentur in baptismo,
+cum omne peccatum abstergitur: quod nequaquam
+fieri palam est. Quare non est in eorum essentia
+ulla injustitia; sed in voluntate rationali illos inordinate
+sequente. Cum enim illis resistit voluntas,
+condelectando legi Dei secundum interiorem hominem;
+tunc est justa voluntas. Justitiam enim, quam lex
+jubet, et legem Dei dicit, quia a Deo est; et legem
+mentis, quia per mentem intelligitur: sicut lex vetus
+lex Dei dicitur, quia a Deo est; et lex Moysi,
+quia per Moysen ministrata est. Quod quidem dixi
+nullam actionem per se injustam dici, sed propter
+injustam voluntatem; in illis planum est, quae non
+<pb n="0437C"/>
+injuste possunt fieri aliquando: ut est, hominem
+ occidere, sicut fecit Phinees <note>(Num. 25)</note>: et
+utriusque sexus commistio, ut in conjugio: sive in
+brutis animalibus. In illis vero quae nunquam
+nisi injuste possunt esse, ut est perjurium, et quaedam
+alia, quae nec sunt nominanda, non ita facile
+intelligitur. Sed si aliqua actio, qua fit aliquid:
+quae non est, nisi dum fit aliquid et peracto eo
+transit, ut <emph>99</emph> jam non sit; aut opus, quod sit et
+remanet (verbi gratia: cum in scribendo quod scribi
+non debet, transit scriptio, qua fiunt scripturae
+quae remanet) esset peccatum transeunte actione,
+ut jam non sit; transiret similiter peccatum, nec
+jam esset; aut quandiu remaneret quod fit, nunquam
+deleretur peccatum: sed videmus peccata
+<pb n="0437D"/>
+saepe et non deleri, actione delata; et deleri
+<pb n="0438A"/>
+opere non deleto. Quare nec actio, quae transit;
+nec opus, quod remanet, est aliquando peccatum.
+Denique si de actionibus voluntariis quae injuste
+fiunt, arguuentur membra et sensus quibus fiunt;
+respondere possunt: Deus nos, et potestatem quae in
+nobis est, subjecit voluntati; ut ad imperium ejus
+non possimus non movere nos, et facere quod
+vult; imo illa movet nos, velut instrumenta sua, et
+facit opera quae videmur facere; nec nos possumus
+illi per nos resistere; nec opera, quae facit, possunt
+non fieri; dominae, quam Deus nobis dedit, nec
+possumus, nec debemus non obedire; quando illi
+obedimus, Deo qui hanc legem nobis dedit, obedimus.
+Ergo quid peccant membra, vel sensus, vel
+opera, quae Deus sic subjecit voluntatis, si servant
+<pb n="0438B"/>
+quod Deus illis ordinavit? Quidquid igitur faciunt,
+totum imputandum est voluntati. Quod cum ita sit,
+miratur forsitan quis cur pro culpa voluntatis
+membra puniantur et sensus. Verum non ita
+est, non enim punitur nisi voluntas. Nam nihil est
+alicui poena, nisi quod est contra voluntatem; et
+nulla res poenam sentit, nisi quae habet voluntatem:
+membra autem et sensus per se nihil volunt. Sicut
+igitur voluntas in membris et sensibus operatur;
+ita in illis ipsa torquetur aut delectatur. Quod
+si quis non accipit; sciat in sensibus et membris
+non nisi animam, in qua est voluntas, sentire
+et operari; et ideo in illis torqueri aut delectari:
+habet tamen usus ut actiones, quas facit injusta
+voluntas, vocemus peccata; quia in voluntate, qua
+<pb n="0438C"/>
+fiunt, est peccatum. Dantur etiam quibusdam nomina,
+quibus significatur eas injuste fieri, ut fornicatio,
+mendacium. Sed aliud intelligitur, cum
+ipsa actio, vel prolatio; aliud, cum utrum, juste
+vel injuste fiat, consideratur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>Quod malum, quod est peccatum sive injustitia, nihil sit</hi>.</head>
+<p>Denique omnis essentia est a Deo, a quo nihil est
+injustum. Quare nulla essentia est injusta per se.
+Injustitia autem omnino nihil est, sicut caecitas. Non
+enim aliud est caecitas, quam absentia visus ubi debet
+esse; quae non magis est aliquid in oculo
+ubi debet esse visus, quam in ligno ubi non debet
+esse. Non enim est injustitia talis res qua inficiatur
+<pb n="0438D"/>
+ et corrumpatur anima, velut corpus veneno; et
+<pb n="0439A"/>
+quae faciat aliquid, sicut videtur quando malitiosus
+homo mala facit opera. Nam quemadmodum
+cum indomita fera ruptis vinculis discurrendo saevit:
+et cum navis, si gubernator dimisso gubernaculo
+dimittat eam, ventis et montibus maris vagatur,
+et invehitur in quaelibet pericula; dicimus
+quia hoc facit absentia catenae, vel gubernaculi:
+non quod absentia eorum aliquid sit, aut quidquam
+faciat; sed quoniam si adessent, facerent ne
+saeviret fera, aut periret navis: ita cum malus homo
+saevit, et in quaelibet animae suae pericula, quae sunt
+mala opera, impellitur; clamamus quia haec operatur
+injustitia: non quod ipsa ulla essentia sit,
+aut faciat aliquid; sed quoniam voluntas (cui subditi
+sunt omnes voluntarii motus totius hominis) absente
+<pb n="0439B"/>
+justitia diversis appetitibus impulsa, se et omnia
+sibi subdita in multimoda mala levis et effrenata
+et sine rectore praecipitat: quod totum justitia,
+si adesset, prohibet ne fieret. Ex his ergo facile
+cognoscitur quia injustitia nullam habet essentiam;
+quamvis injustae voluntatis affectus et actus, qui per
+se considerati aliquid sunt, usus injustitiam vocet.
+Hac ipsa ratione intelligimus malam nihil esse. Sicut
+enim injustitia non est aliud quam absentia debitae
+justitiae, ita malum non est aliud quam absentia debiti
+boni. Nulla autem essentia (quamvis mala dicatur)
+est nihil, nec malam esse, est ulli esse
+aliquid. Nulli enim essentiae est aliud malam esse,
+quam deesse illi bonum quod debet habere, deesse
+vero bonum quod debet adesse, non est aliquid
+<pb n="0439C"/>
+esse. Quare malam esse, non est ulli essentiae
+aliquid esse. Haec breviter de malo, quod semper
+est nihil, indubitanter quod est injustitia, dixi.
+Incommoditas enim est malum (unde incommoda,
+mala dicuntur) quae aliquando nihil est ut surditas
+et caecitas; aliquando videtur esse aliquid;
+ut dolor, et tristitia. Quod autem justitia sit rectitudo
+voluntatis propter se servata: et injustitia non
+sit aliud quam absentia debitae justitiae, et nullam
+habeat essentiam: quod etiam omnis essentia
+sit a Deo, et nihil sit a Deo nisi bonum, sufficienter
+me puto ostendisse in eo tractatu <note>(cap. 1, 15, 16)</note> 
+quem fecit De casu diaboli. Sed de justitia plenius
+<pb n="0439D"/>
+in illo quem edidi de veritate <note>(cap. 13)</note>.
+<pb n="0440A"/>
+          </p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Quod cum punit Deus pro peccato, non puniat pro nihilo</hi>.</head>
+<p>Quidam cum audiunt peccatum nihil esse, solent
+dicere: Si peccatum nihil est, cur punit Deus hominem
+pro peccato, cum pro nihilo puniri nemo debeat?
+Quibus, quamvis humilis sit quaestio, tamen
+quia quod quaerunt ignorant, aliquid breviter respondendum 
+est. Licet pariter nihil sit absentia justitiae,
+et ubi debet esse justitia, et ubi non debet esse; punit
+tamen Deus recte peccatores non pro nihilo, sed
+propter aliquid, quia (ut in praefato libro dixi) et debitum
+ sibi honorem, quem sponte reddere noluerunt,
+ab invitis exigit; et ne quid inordinatum
+sit in regno ejus, eos separatim a justis ordine competenti
+<pb n="0440B"/>
+disponit. Creaturas autem in quibus justitia
+non debet esse, non punit pro absentia justitiae hoc
+est pro nihilo: quia non est aliquid, quod ab illis
+exigat; nec ordo congruus universitatis rerum hoc
+postulat. Sic itaque cum punit Deus pro peccato,
+quod est absentia debitae justitiae, quae nihil est;
+non omnino punit pro nihilo: et verum est quia nisi
+sit aliquid, propter quod punire debeat, omnino non
+punit pro nihilo. Jam peccatum et injustitiam
+nihil esse: et haec non esse nisi in rationali voluntate,
+nec ullam essentiam proprie dici injustam
+nisi voluntatem: ex his quae dicta sunt, apertum
+esse existimo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Quomodo semen hominis dicatur immundum, et concipit in peccatis, quamvis in eo non sit peccatum</hi>.</head>
+<p>Videtur itaque sequi quod aut infans statim ab
+ipsa conceptione animam habet rationalem, sine
+qua voluntatem rationalem nequit habere; aut in
+eo non est originale peccatum, mox cum conceptus
+est. Quod autem mox ab ipsa conceptione rationalem
+animam habeat, nullus humanus suscipit sensus.
+Sequitur enim ut quoties susceptum semen humanum,
+etiam ab ipso momento susceptionis perit
+antequam perveniat ad humanam figuram;
+toties damnetur in illo anima humana; quoniam
+non reconciliatur per Christum: quod est nimis absurdum.
+Haec igitur pars hujus divisionis penitus
+relinquenda est, sed si non statim infans ab ipsa
+<pb n="0440D"/>
+conceptione habet peccatum; quid est, quod dicit
+<pb n="0441A"/>
+Job Deo: <hi>Quis potest facere mundum, de immundo
+conceptum semine: nonne tu qui solus</hi> <emph>100</emph> 
+ <hi>es? <note>(Job XIV, 4.)</note>
+            </hi> Et quomodo verum est, quod
+dicit David: <hi>In iniquitatibus conceptus sum, et in peccatis
+concepit me mater mea <note>(Psal. L, 7)</note>
+            </hi>. Quaeram igitur,
+si possum, quomodo, quamvis non statim ab
+ipsa conceptione sit in infantibus peccatum, immundo
+tamen semine in iniquitatibus et in peccatis
+concipi dicantur. Saepe utique divina Scriptura
+asserit aliquid esse, quod modo non est, idcirco
+quia tamen est futurum esse. Sic quippe Deus Adae
+de ligno vetito dicit: <hi>In quacunque die comederis ex
+eo, morte morieris <note>(Gen. II, 7)</note>
+            </hi>; non quod ea die
+mortuus sit corpore, sed quoniam die illa necessitatem
+accepit aliquando moriendi. Et Paulus similiter
+<pb n="0441B"/>
+ob necessitatem moriendi aliquando, ait: <hi>Si autem
+Christus in vobis est, corpus quidem mortuum est
+propter peccatum, spiritus vero vivit propter justificationem <note>(Rom. VIII, 10)</note>
+            </hi>.
+Non enim corpora eorum, quibus
+loquebatur, mortua erant; sed moritura propter
+peccatum: quia <hi>per unum hominem peccatum in hunc
+mundum intravit, et per peccatum mors <note>(Rom. V, 12)</note>
+            </hi>.
+Sicut in Adam omnes peccavimus, quando ille
+peccavit: non quia tunc peccavimus ipsi qui nondum
+eramus, sed quia de illo futuri eramus: et tunc
+facta est illa necessitas ut cum essemus peccaremus:
+quoniam <hi>per unius inobedientiam peccatores
+constituti sunt multi <note>(Ibid. V. 19)</note>
+            </hi>. Simili modo de
+immundo semine in iniquitatibus et in peccatis concipi
+potest homo intelligi; non quod in semine sit
+<pb n="0441C"/>
+immunditia peccati, aut peccatum sive iniquitas;
+sed quia ab ipso semine et ipsa conceptione, ex qua
+incipit homo esse, accipit necessitatem ut, cum
+habebit animam rationalem, habeat peccati immunditiam,
+quae non est aliud quam peccatum et iniquitas.
+Nam etsi vitiosa concupiscentia generetur
+infans; non tamen magis est in semine culpa,
+quam est in sputo vel in sanguine, si quis mala voluntate
+exspuit, aut de sanguine suo aliquid emittit:
+non enim sputum aut sanguis, sed mala voluntas
+arguitur. Patet igitur quomodo et in infantibus non
+statim ab ipsa conceptione sit peccatum; et vera
+sint quae de divina Scriptura opposui. Quippe
+non est illis peccatum, quia non habent (sine qua
+non inest peccatum) voluntatem: et tamen dicitur
+<pb n="0441D"/>
+inesse, quoniam in semine trahunt peccandi,
+<pb n="0442A"/>
+(cum homines jam erunt) necessitatem. Si ergo
+haec, ut puto, vera sunt; quod assumitur de parente
+ad prolem, quia nullam habet voluntatem, nullum
+est in eo peccatum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Quod in semine sumpto de Virgine non sit peccatum neque necessitas futuri peccati</hi>.</head>
+<p>Itaque perspicuum est quoniam in eo quod Filius
+Dei in personam suam assumpsit de Virgine,
+nulla potuit esse peccati macula. Sed dictum est quia
+semen a pareatibus trahitur cum necessitate peccati
+futuri, cum fuerit animatum anima rationali: hoc
+utique non est propter aliud, nisi quia humana
+natura nascitur in infantibus (ut dixi) cum debito
+ satisfaciendi pro peccato Adae, et, secundum
+<pb n="0442B"/>
+quod posui, proximorum parentum (quod nequaquam
+facere potest: et quandiu non facit, peccat);
+et quia sola per se non valet justitiam habere quam
+deseruit; et anima, quae aggravatur corpore
+quod corrumpitur, nequit eam saltem intelligere,
+quae nec servari potest nec haberi non intellecta.
+Quapropter si ab his necessitatibus semen assumptum
+de Virgine liberum ostendi poterit, palam
+erit quia nullam peccati necessitatem traxit. Quod
+illa quidem necessitas, qua humana natura sola
+per se justitiam recuperare nequit, et illa qua corpus
+quod corrumpitur aggravat animam, ut eamdem
+justitiam nec acceptam in aetate perfecta sine auxilio
+gratiae servare, nec in infantibus saltem intelligere
+queat, ab illo semine sint alienae facile monstrari
+<pb n="0442C"/>
+valet per unitatem personalem assumentis et
+assumptae naturae: si prius necessitas illa repellitur,
+qua ad satisfactionem pro peccatis primorum et proximorum
+parentum astringi videtur. Sed quod illud
+nullum sequatur a proximis parentibus debitum,
+dubium non erit; si a debito primorum parentum
+liberum intelligi poterit. Hoc igitur, adjuvante
+Deo, conabor primum quomodo cognosci possit, investigare:
+quatenus hoc demonstrato, in aliis non
+sit necesse multum laborare.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX. <hi>Cur peccatum quo damnatur humanum genus, magis imputetur Adae quam Evae; cum ille post et per illam peccaverit</hi>.</head>
+<p>Ad quod mihi videtur quaerendum in primis, cur
+saepius et specialius peccatum, quo damnatum est
+<pb n="0442D"/>
+humanum genus, magis imputetur Adae quam Evae:
+<pb n="0443A"/>
+cum illa prior peccaverit, et Adam post et
+per illam. Dicit enim Apostolus: <hi>Sed regnavit mors
+ab Adam usque ad Moysen, etiam in eos qui non peccaverunt
+in similitudinem praevaricationis Adae <note>(Rom.
+V, 14)</note>
+            </hi>. Multa quoque alia leguntur, quae magis Adam
+quam Evam criminari videntur. Quod ideo fieri
+existimo quia illa duorum copula tota intelligitur
+in nomine principalis partis; sicut saepe per partem
+totum solet significari: aut quoniam Adam cum
+costa sua, quamvis in mulierem aedificata, dici poterat
+Adam, sicut legitur: quia Deus <hi>Masculum et
+feminam fecit eos, et benedixit eis <note>(Gen. I, 17)</note>
+            </hi>. Et
+vocavit nomen eorum Adam in die quo creati sunt:
+aut idcirco, quia si non Adam, sed sola Eva peccasset;
+non necesse erat totum humanum genus
+<pb n="0443B"/>
+perire, sed solam Evam. Poterat namque Deus de
+Adam, in quo semen omnium hominum creaverat,
+aliam facere mulierem, per quam de Adam propositum
+Dei perficeretur. Eisdem rationibus significabo
+per nomen Adae eos ambos, nisi cum necesse
+erit eos discernere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>Cur graventur peccato Adae, qui ejus conscii non fuerunt</hi>.</head>
+<p>Est quidem unusquisque filius Adae et homo per
+ creationem, et Adam per propagationem, et persona
+per individuitatem, qua discernitur ab aliis.
+Non enim habet esse homo ab Adam, sed per
+Adam. Nam sicut Adam non se fecit hominem; ita
+non fecit in se naturam propagandi: sed Deus qui
+<pb n="0443C"/>
+eum creavit hominem, fecit in eo hanc naturam;
+ut de illo propagarentur homines. Dubium autem
+non est, unde unusquisque alligetur debito, de quo
+agitur: non enim unde, quia homo est, nec quia
+persona est. Nam si idcirco unusquisque hujus debiti
+reus est, quia est homo, aut persona; necesse
+erat Adam, priusquam peccasset, hoc debito
+astrictum esse, quia erat homo et persona: quod
+est absurdissimum. Restat igitur ut per hoc tantum
+sit debitor, quia est Adam; sed non simpliciter, quia
+est Adam; sed quia est peccator Adam. Nempe sequeretur
+quia si nunquam peccasset Adam; tamen qui
+de illo propagarentur, cum hoc debito nascerentur:
+quod impium est. Non incongruum est hic repetere,
+<pb n="0444A"/>
+quod jam supra dictum est: cur, scilicet,
+unusquisque peccato vel debito Adae gravetur,
+idcirco quia de illo propagatur; cum ejusdem peccati 
+conscius non fuerit. Cum fecit Deus Adam
+fecit in eo naturam propagandi: quam subjecit ejus
+potestati, ut ea uteretur pro sua voluntate, quandiu
+ipse vellet subditus esse Deo: nam non illa uteretur 
+bestiali et irrationali voluptate, sed humana 
+et rationali voluntate. Sicut enim est bestiarum
+nihil velle cum ratione; ita hominum esset
+nihil velle sine ratione: quod semper debent, quia
+potestatem hanc accepit Adam et eam semper servare
+potuit. Dedit etiam illi <emph>101</emph> Deus hanc gratiam,
+ut sicut quando illum condidit nulla propagandi
+operante natura, aut voluntate creaturae,
+<pb n="0444B"/>
+simul fecit eum et rationalem et justum: ita simul
+cum rationalem haberent animam, justi essent, quos
+generaret operante natura et voluntate, si non peccaret.
+Eadem quippe ratione, qua monstratur rationalem
+naturam justam esse creatam, quod in saepe
+fato fecit opusculo <note>(lib. II, c. 1)</note>, probatur etiam quod
+qui ex humana natura propagarentur non praecedente
+peccato, ex necessitate justitiam pariter haberent
+cum rationalitate. Siquidem qui creavit primum hominem
+sine parentum generatione, creat etiam eos
+qui per creatam ab illo fiunt propagandi naturam.
+Omnis igitur homo, si peccatum non praecessisset,
+simul esset sicut Adam, et justus et rationalis.
+Quoniam vero Adam subditus noluit esse Dei
+voluntati; ipsa natura propagandi quamvis remaneret,
+<pb n="0444C"/>
+non fuit subdita ejus voluntati, sicut esset, si
+non peccasset: et gratiam, quam de se propagandis
+ servare poterat, perdidit: atque omnes, qui operante
+natura quam acceperat, propagantur, ejus
+astricti debito nascuntur. Quamobrem quoniam humana
+natura (quae sic erat in Adam tota, ut nihil de
+illa extra illum esset,) peccando sine omni necessitate,
+Deum exhonoravit, unde per se satisfacere
+non potuit; gratiam, quam acceptam propagandis
+de se semper potuit servare, perdidit: et peccatum,
+secum comitante poena peccati, quantumcunque
+per datam propagandi naturam propagetur,
+trahit.
+<pb n="0445A"/>
+          </p>
+</div2>
+
+<div2>
+          <head>CAPUT XI. <hi>Quod propagatio de Virgine non subjaceat legi et meritis naturalis propagationis; et quod tres sint cursus rerum</hi>.</head>
+<p>Nunc diligenter considerandum est utrum haec
+quasi haereditas peccati, et poenae peccati ad
+hominem per virginem de Adam propagatum
+ juste pertranseat. Certum quidem est quod
+Adam non accepit naturam propagandi, nisi per
+virum simul et mulierem. Siquidem humana natura
+non habet, et impossibile cognoscitur, ut solus vir,
+aut sola mulier hominem generaret, natura
+tantum et voluntate propria operante. Sicut
+namque limus terrae non acceperat naturam
+aut voluntatem, qua operante vir primus de illo
+<pb n="0445B"/>
+fieret; quamvis esset de quo a Deo fieri posset: sic
+non est facta mulier de costa viri, aut vir de sola
+muliere, operante natura aut voluntate hominis.
+Sed Deus propria voluntate et potestate fecit virum
+de limo unum, et alterum de sola femina, et feminam
+de solo viro: licet enim nihil fiat, nisi voluntate
+Dei faciente aut permittente; quaedam tamen
+sola potestas et voluntas ejus facit; quaedam, creata
+natura; quaedam, voluntas creaturae. Sed sicut
+creata natura nihil per se facere potest, nisi quod
+a voluntate Dei accepit: ita voluntas creaturae
+nequit per se quidquam operari, nisi quod natura
+adjuvat aut concedit. Sola Dei voluntas fecit
+in principio rerum naturas, dans quibusdam competentes
+singulis voluntates; ut naturae et voluntates
+<pb n="0445C"/>
+secundum ordinem sibi traditum, suum opus in
+rerum cursu persolverent: et adhuc multa facit,
+cum de eisdem naturis et voluntatibus operatur,
+quod illae secundum suum usum et propositum nequaquam
+facerent. Solius quippe voluntatis Dei
+est opus, cum mare siccum iter intra se populo
+praebet; cum mortui resurgunt; cum aqua subito in
+vinum convertitur; cum et Spiritu sancto corda
+hominum ea quae nec per se, nec per aliam creaturam
+sciunt, docentur; cum noxiae voluntates a suo
+impetu, sola gratia regente, ad hoc quod prodest
+convertuntur; cum alia multa fiunt, quae nec
+creatura, nec ejus voluntas per usitatum cursum
+<pb n="0445D"/>
+suum operaretur. Natura levia sursum, gravia
+<pb n="0446A"/>
+deorsum trahit: terram, aliquando prius voluntate
+colente et seminante, aliquanto nullo voluntatis
+opere praecedente, herbas et arbores innumeras
+producere et eas fructificare facit; et alia multa,
+quae facilius usu quam doctrina agnoscimus.
+Voluntati imputantur illa, quae sunt hujusmodi,
+iter facere, aedificare, scribere, loqui, et similia
+quae non nisi voluntas facit. Cum igitur omnia quae
+fiunt, si diligenter considerentur, fiant aut sola voluntate
+Dei, aut natura secundum vim a Deo illi
+inditam, aut voluntate creaturae: et ea quae nec
+natura creata, nec voluntas creaturae, sed solus
+Deus facit, semper miranda sint; apparet quia tres
+sunt cursus rerum, scilicet, mirabilis, naturalis,
+voluntarius: et mirabilis quidem aliis aut eorum
+<pb n="0446B"/>
+legi nullatenus subditus est; sed libere dominatur:
+neque illis facit injuriam, quando eis obviare
+videtur; quia nihil habent, nisi quod ab illo acceperunt,
+nec ille dedit eis aliquid nisi sub se. Quoniam
+ergo propagatio viri de sola virgine, ita
+non est naturalis, aut voluntaria; sed mirabilis,
+sicut illa quae mulierem protulit de solo viro, et
+sicut creatio viri de limo; palam est quia nequaquam
+subjacet legibus et meritis illius propagationis,
+quam et voluntas et natura, quamvis discrete,
+operantur; aliud enim ibi facit voluntas,
+aliud natura: pariter tamen verus est homo
+et Adam de non homine, et Jesu de sola muliere,
+et Eva de solo viro; sicut est verus homo, quilibet
+vir aut mulier de viro et muliere. Omnis autem
+<pb n="0446C"/>
+homo aut Adam est, aut de Adam: sed Eva de
+solo Adam est, et omnes alii de Adam et Eva. Quoniam
+namque Maria, de qua sola est Jesu, de
+Adam et Eva est; non potest ipse de eisdem non
+esse. Sic namque expediebat ut qui redempturus
+erat genus humanum, esset et nasceretur de patre
+et matre omnium.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII. <hi>Quod mala Adae nulla rectitudine ad illum hominem transeant</hi>.</head>
+<p>Quomodo autem filius Virginis non subjaceat
+peccato, aut debito Adae, sic quoque difficile non est
+intelligere. Si quidem Adam factus est justus et
+<pb n="0446D"/>
+liber a peccato et debito saepefato, et a poena peccati,
+<pb n="0447A"/>
+et beatus pote s servare semper acceptam justitiam;
+et per justitiam eam, quam dixi, libertatem
+et beatitudinem. Quoniam ergo Adam, cum haec
+bona sine omni difficultate posset semper servare
+ sibi, non servavit; ea sibi ipse abstulit, et horum
+se contrariis subjecit. Factus est itaque servus peccati,
+sive injustitiae, et debiti, quod reddere nequit,
+et miseriae, de qua est impotentia bona
+perdita recuperandi. Sicut igitur aliter nequivit
+sibi auferre bona quae habebat, et attrahere mala
+quae non habebat, quam non servando sibi bona,
+cum potuit: ita nulli alii valuit eadem bona
+auferre, atque mala inferre, nisi non servando bona
+cui servare quivit. Servare autem nulli potuit
+ea bona, nisi illis quorum generationis potestatem
+<pb n="0447B"/>
+voluntati subditam accepit. Nulli ergo personae
+quamvis de se propagatae transmittere mala
+praedicta potuit in cujus generatione nec natura illi
+data est propagandi, nec voluntas ejus quidquam
+operata est, aut operari valuit. Quare Adae mala
+praedicta nulla ratione aut rectitudine ad hominem
+conceptum de Virgine pertranseunt.
+<emph>102</emph> </p>
+        </div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Quod etsi non esset Deus, sed purus homo, necesse tamen esset illum talem esse, qualis primus homo factus est</hi>.</head>
+<p>Item: si diligenter puro rationis intuitu sapientem
+Dei speculamur justitiam; nimis absurdum
+intelligitur ut per illud semen, non creata natura,
+nec voluntas creaturae, non ulli data potestas
+<pb n="0447C"/>
+producit aut seminat; sed solus Dei voluntas propria
+ad procreandum hominem, nova virtute mundum
+a peccato de Virgine segregat, alieni peccati
+seu debiti sive poenae ad eumdem hominem necessitas
+ulla pertranseat; etiamsi non assumatur in
+personam Dei, sed ut purus homo fiat. Nam
+eadem ipsa ratione, qua non debuit Deus Adam
+facere nisi justum, nec aliquo debito sive incommodo
+gravatum, aperte mens rationalis cognoscit
+eum, quem similiter propria voluntate et virtute
+procreat, alicui malo subditum fieri non debere:
+quoniam nimis inconveniens est omnipotenti et
+<pb n="0447D"/>
+sapienti Dei bonitati, talem facere rationalem naturam
+<pb n="0448A"/>
+sola propria voluntate de materia, in qua nullum
+est peccatum. Quod qui non intelligit, non cognoscit
+quid Deo non conveniat. Quapropter
+etiam si purum hominem sic faceret Deus, ut dictum
+est; necesse esset eum non minori praeditum esse
+justitia et beatitudine, quam fuit Adam, cum primum
+factus fuit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>Quod propositae rationi non refragetur quod scriptum est: hominem de immundo semine et in iniquitatibus conceptum; etiamsi de aliquibus proprie dictum sit</hi>.</head>
+<p>Nam si alicujus mens non capit quod de semine
+hominis dixi, scilicet, non esse in illo peccatum
+ante animam rationalem, sed immundum dici peccato
+<pb n="0448B"/>
+et iniquitate, propter futuram immunditiam,
+cum jam erit homo: atque putat illum immundum
+esse in ipsa conceptione propterea quia,
+sicut ipse mihi opposui, legitur: <hi>Quis potest facere
+mundum de immundo conceptum semine? <note>(Job XIV.)</note>
+            </hi> 
+Et: <hi>In iniquitatibus conceptus sum, et in peccatis
+concepit me mater mea <note>(Psal. L)</note>
+            </hi>: non hic laboro,
+quia non indigeo, ut quod non potest capere,
+capiat; sed peto ut quod breviter dicam, attendat.
+Illi utique qui haec dixerunt, aut voluerunt
+ea intelligi de omni hominis semine; aut tantum
+de illo quod cum sensu seminatur voluptatis,
+quae non esset nisi brutorum animalium, si
+homo non peccasset. At si de omni hoc senserunt;
+ergo semen de sola Virgine sumptum immundum
+<pb n="0448C"/>
+tanti viri asseruerunt: quod impium est credere.
+Non itaque hoc de illo scripserunt. Sed si de
+aliquo hominis semine hoc juxta hunc sensum protulerunt,
+non nisi de illo, quod cum praedicta
+voluptate concipitur, intelligi voluerunt. Hoc autem
+nullatenus refragatur nostrae rationi, quae semen de
+Virgine sumptum asserit esse mundum, quamvis
+sit de massa peccatrice.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV. <hi>Quomodo massa peccatrix non sit tota peccatrix</hi>.</head>
+<p>Nam quemadmodum caecitas non est in aliqua
+ parte hominis, quamvis homo dicatur caecus,
+<pb n="0448D"/>
+nisi in oculo ubi debet esse visus; non enim est in
+<pb n="0449A"/>
+manu, vel in pede: nec surditas est nisi in aure,
+cum homo dicitur surdus; ita licet massa generis
+humani peccatrix nominetur, non tamen in ulla parte
+ejus est peccatum, nisi, ut dixi, in voluntate,
+quam in nulla hominis conceptione semen
+habere cognoscitur. Quamobrem nulla ratione vera
+aut verisimili contradicente, si considerentur quae
+supra dicta sunt, jam libere possumus concludere
+quia nulla ratio, nulla veritas, nullus intellectus
+permittit ad hominem ex sola Virgine conceptum
+de peccato massae peccatricis, quamvis de
+illa sit assumptus, aliquid potuisse aut debuisse
+accedere, etiamsi non esset Deus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>Cur Joannes, et alii qui similiter concepti sunt per miraculum, non sint per se liberi a peccato</hi>.</head>
+
+<pb n="0449B"/>
+<p>Quod si objiciuntar mihi Joannes Baptista et alii
+qui de sterilibus, et in quibus, prae senectute, natura
+generandi jam erat emortua, propagati sunt, et
+quasi per similem rationem putantur debuisse nasci
+sine peccato et poena peccati, quia per miraculum
+concepti sunt; valde utique intelligenda est ab istis
+aliena, ratio illa quae virginalem conceptionem liberam
+ab omni peccati monstrat necessitate. Aliud
+est enim aliquid inauditum et inopinabile atque
+naturae incognitum facere: et aliud naturam aut
+aetate aut aliquo vitio debilitatam sanare, et ad
+suum opus revocare. Nam si Adam non peccasset,
+sicut ipse nulla senectute, nulla causa infirmaretur:
+sic natura propagandi creata in illo et ad
+<pb n="0449C"/>
+utendum, ut jam dictum est, ejus potestati subdita,
+nullo casu a suo cursu impediretur. Non ergo in
+Joanne, et similibus, est aliquid novum naturae
+Adae, sicut est in filio Virginis, datum; sed quod
+suis causis infirmatum erat, cognoscitur esse reparatum.
+Quare quoniam illi per propagationem naturalem
+datam Adae sunt generati, nequaquam possunt
+aut debent ei de quo agimus, in conceptionis
+assimilari miraculo, ut ab originalis vinculo
+peccati absoluti possint ostendi.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>Cur Deus incarnatus, cum de Adam posset facere homines non deos sine peccato tot, quot sufficerent</hi>.</head>
+
+<pb n="0449D"/>
+<p>Forsitan dicet aliquis: Si purus homo, qui Deus
+<pb n="0450A"/>
+non esset, potuit fieri de Adam sine omni peccati
+contagione, sicut dicis, cur necesse fuit Deum incarnari;
+cum aut per unum talem, qui esset sine
+omni peccato, posset peccatores Deus redimere:
+aut tot, quot necessarii erant ad perficiendam supernam
+civitatem, homines simili miraculo facere?
+Ad quod breviter respondeo. Ideo Deus factus
+est homo, quia non sufficeret ad redimendos alios,
+sicut in saepefato opusculo monstratum est,
+homo non Deus. Idcirco etiam non fecit tot homines
+tales, quot necessarii erant: ne si nullus de propagatione
+naturali salvaretur, frustra naturam illam
+in Adam condidisse, et quasi non fecisset, correxisse
+videretur: quod summae sapientiae non
+convenit de aliqua natura facere. Non longe supra
+<pb n="0450B"/>
+ investigare proposui, quomodo semen sumptum
+de Virgine, in quo monstratum erat nullum esse
+peccatum, liberum a necessitatibus praedictis, in
+quibus omnes alios homines concipi posueram,
+posset intelligi: et de illa quidem necessitate, qua
+recuperare justitiam, quam deseruit humana natura,
+per se nequit; et de illa, qua corpus, quod
+corrumpitur, aggravat animam, et maxime in infantibus,
+illud liberari posse, quia homo ille
+Deus esset, confidebam; si prius ab illo necessitas
+peccati et debiti Adae et proximorum parentum
+rationabiliter alienaretur. Incoepi itaque <note>(lib. I)</note> 
+quaerere quomodo valeret hoc intelligi de necessitate
+peccati et debiti Adae; ut de aliis postea facilius
+quod quaerebam inveniretur: et abundante gratia
+<pb n="0450C"/>
+illius de cujus conceptionis agitur <note>(lib. I, cap. 16)</note>,
+munditia factum est, ut non modo ab omni
+peccato, et debito, et necessitatibus <emph>103</emph> praefatis
+liberum cognosceretur; sed insuper hominem ita
+conceptum esse debere praeditum non minori
+justitia, vel beatitudine, quam in qua factus est
+Adam, intelligibili ratione, etiam si non Deus sed
+purus homo esset, probaretur. Siquidem pariter
+irrationabile videbatur, et peccatum aut poenam
+peccati ab ullis parentibus ad illum per talem
+propagationem descendere; et Deum sponte rationabilem
+naturam injustam, aut, nulla ejus promevente
+<pb n="0450D"/>
+injustitia, miseram facere.
+<pb n="0451A"/>
+          </p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>Quod de Virgine justa Deus conceptus sit, non necessitate, quasi de peccatrice nasci non posset, sed quia sic decebat</hi>.</head>
+<p>Quamvis ergo de mundissima Virgine Filius Dei
+verissime conceptus sit, non tamen hoc ea necessitate
+factum est, quasi de peccatrice parente justa
+proles rationabiliter generari per hujusmodi propagationem
+nequiret: sed quia decebat ut illius hominis
+conceptio de matre purissima fieret. Nempe decens
+erat, ut ea puritate, qua major sub Deo
+nequit intelligi, Virgo illa niteret, cui Deus Pater
+unicum Filium suum, quem de corde suo
+aequalem sibi genitum, tanquam seipsum diligebat,
+ita dare disponebat, ut naturaliter esset unus
+idemque communis Dei Patris et Virginis Filius: et
+<pb n="0451B"/>
+quam ipse Filius substantialiter facere sibi matrem
+eligebat; et de qua Spiritus sanctus volebat, et operaturus
+erat, ut conciperetur et nasceretur ille de
+quo ipse procedebat. Qualiter autem Virgo
+eadem per fidem ante ipsam conceptionem mundata
+sit, dixi <note>(lib. II, cap. 16, 17)</note>; ubi aliam rationem
+de hoc ipso, unde agitur hic, reddidi.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX. <hi>Quomodo ista ratio, et altera alibi data concordent et differant</hi>.</head>
+<p>Quae duae rationes intellectui meo videntur ad
+quaestionem unaquaeque per se sufficere; sed ambae
+simul animo vim rationis et decorem actionis quaerenti
+copiose satisfacere. Et quamvis ad idem tendant,
+in hoc tamen differunt, quod ista quidem,
+<pb n="0451C"/>
+quam hic protuli, monstrat Deum etiam de
+peccatricis Virginis substantia, quoniam nusquam
+est in hominis natura praeter voluntatem peccatum,
+prolem debere justam, imo non nisi justam, nulla
+ratione repugnante, tali propagatione producere.
+Illa vero probat quod etiam si in tota Virginis essentia
+peccatum esset, tamen ad hujusmodi conceptionis
+munditiam, per fidem munda fieri posset.
+Atque in ista omnis mortis necessitas, et cujuslibet
+corruptionis sive laboris ab illo homine aperte
+excluditur: in illa autem quaestio oriri de hoc
+<pb n="0451D"/>
+ipso videtur; sed sufficienti ratione, si diligenter
+<pb n="0452A"/>
+perspecta fuerit, dissolvitur. Quapropter ex
+utraque palam est quia nihil nisi pia voluntate Dominus
+noster et redemptor sustinuit in omnibus, quae
+passus est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XX. <hi>Quod natus de Virgine, pro originali peccato habuerit originalem justitiam</hi>.</head>
+<p>Ut mihi videtur, de peccato quidem originali,
+sicut proposui, sufficienter ostensum est quomodo
+ad hominem de Virgine conceptum nulla ratione
+descendere a parentibus potuit; sed potius justus,
+et beatus fieri, ratione exigente, debuit. Quamobrem,
+quoniam de justo Patre secundum divinam,
+et de justa matre secundum humanam naturam,
+justus ab ipsa origine, ut ita dictum sit, natus
+est; non incongrue pro originali injustitia, quam
+<pb n="0452B"/>
+omnes alii filii Adae habent, a sua origine justitiam
+originalem habere dicendus est.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXI [ <hi>al</hi>. XX]. <hi>Quare non potuit habere personalem injustitiam</hi>.</head>
+<p>At de personali injustitia superfluum est disputare,
+quod ad illum non attigerit; quoniam
+humana natura nunquam in illo sine divina fuit, nec
+illius anima unquam aggravata contra voluntatem,
+aut ullo modo impedita est corpore corruptibili.
+Quae anima, quoniam ipsa, imo totus ille homo et
+Verbum Dei Deus, una persona semper exstitit,
+nunquam sine perfecta justitia, et sapientia, et potestate
+fuit, quam semper a seipso ille secundum
+personam, sicut Deus, habuit; licet in naturis humana
+a divina, quod habuit; acceperit:
+<pb n="0452C"/>
+altiorem autem aliam rationem, quomodo Deus
+assumpsit hominem de massa peccatrice sine peccato,
+velut azymum de fermentato, praeter
+istam, quam hic; et illam quam alibi posui <note>(lib. II,
+cap. 16)</note> esse non nego: quam, si mihi ostensa
+fuerit, libenter accipio; et meas, si (quod non arbitror)
+contra veritatem esse potuerint ostendi,
+non teneo.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXII [ <hi>al</hi>. XXI]. <hi>De quantitate originalis peccati</hi>.</head>
+<p>Porro peccatum originale nec majus potest esse
+<pb n="0452D"/>
+quam dixi, nec minus: quia cum infans jam rationalis
+<pb n="0453A"/>
+est, humana natura non habet in illo justitiam
+quam accepit in Adam, et quam semper debet
+ habere: neque eam excusat impotentia quia non
+habet, ut supra jam dictum est <note>(cap. 2)</note>. Illud tamen
+non per omnia tam grave, sicut supra posui, existimo.
+Nam quoniam ad hominem de Virgine
+conceptum ostendere volebam illud non pertinere;
+tale illud constitui, cui aliquid non posset
+addi: ne, sicut dixi, propter hoc quod investigabam,
+viderer pondus ejus minorare. De quo quid
+mihi videatur, breviter nunc aperiam. Peccatum
+Adae ita in infantes descendere, ut sic puniri
+pro eo debeant, ac si ipsi singuli illud fecissent
+personaliter, sicut Adam, non puto, quamvis
+propter illud factum sit, ut eorum nullus possit
+<pb n="0453B"/>
+nasci sine peccato, quod sequitur damnatio. Cum
+enim dicit Apostolus quia <hi>mors regnavit ab Adam
+usque ad Moysen, etiam in eos, qui non peccaverunt
+in similitudinem praevaricationis Adae <note>(Rom. V, 14)</note>
+            </hi>:
+aperte videtur significare quod non illis personaliter
+imputetur ipsa Adae praevaricatio, aut aliquid tam
+ magnum; quamvis omnes filios Adae excepto
+Virginis filio, peccatores et filios irae in scriptis suis
+pronuntiet. Nam cum ait, <hi>etiam in eos, qui non peccaverunt
+in similitudinem praevaricationis Adae</hi>: potest
+sic intelligi, ac si dicat, et iam in eos, qui non tantum
+peccaverunt, quantum Adam peccavit praevaricando.
+Et cum ait: <hi>lex autem subintravit, ut abundaret
+delictum <note>(ibid. v, 20)</note>
+            </hi>, aut intelligimus peccatum
+ante legem in illis, qui non peccaverunt in similitudinem
+<pb n="0453C"/>
+praevaricationis Adae, minus quam Adae peccatum:
+aut si minus non erat; abundavit in eis
+peccatum post legem ultra peccatum Adae: quod intelligere
+nequeo, cum illud considero, de cujus pondere
+et satisfactione in Cur Deus homo,
+quod mihi visum est, sicut jam legisti, exposui <note>(lib.
+I, cap. 19, 20)</note>. Verum est tamen quod nullus ad
+hoc ad quod homo factus est, et propagatio illi
+data est, restituitur; nec a malis, in quae incidit
+humana natura, eruitur; nisi per satisfactionem
+illius peccati, per quod in eadem mala ipsa se
+praecipitavit. Dicet aliquis: Si non habent singuli
+<pb n="0453D"/>
+peccatum Adae, quomodo asseris nullum salvari sine
+<pb n="0454A"/>
+satisfactione peccati Adae? Nam qualiter justus Deus
+exigit ab illis satisfactionem <emph>104</emph> peccati, quod non
+habent? Ad quod dico: Deus non exigit ab
+ullo peccatore plus quam debet. Sed quoniam nullus
+potest reddere quantum debet; solus Christus
+reddit pro omnibus qui salvantur plusquam
+debent: sicut jam in praefato opusculo dixi.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIII [ <hi>al</hi>. XXI]. <hi>Cur et quomodo peccatum descendat in infantes</hi>.</head>
+<p>Adhuc alio quoque modo videndum est qua
+ratione peccatum minus sit in infantibus, quam in
+Adam; cum ab illo in omnes descendat. Per unum
+enim hominem, quod est per Adam, peccatum intravit
+in hunc mundum; et per peccatum, mors.
+Cur autem minus sit, non cognoscitur; si cur,
+<pb n="0454B"/>
+et quomodo insit, non intelligatur. Quod
+quamvis supradictum sit, quantum opus erat ad
+hoc quod quaerebatur; tamen non erit superfluum,
+si hic breviter repetitur. Equidem negari
+nequit infantes in Adam fuisse, cum peccavit: sed
+in illo causaliter, sive materialiter, velut in
+semine fuerunt; in seipsis personaliter sunt, quia
+in illo fuerunt ipsum semen, in se singuli sunt diversae
+personae, in illo non alii ab illo, in se alii
+quam ille. In illo fuerunt ille, in se sunt ipsi: fuerunt
+igitur in illo, sed non ipsi; quoniam nondum
+erant ipsi. Forsitan dicet aliquis: istud esse quo
+ alii homines in Adam fuisse dicuntur, quasi
+nihil et inane quoddam est, nec est nominandum
+esse. Dicat ergo illud esse, fuisse nihil aut falsum
+<pb n="0454C"/>
+sive vanum, quo fuit Christus secundum semen
+in Abraham, in David et in aliis Patribus; et quo
+omnia; quae sunt ex semine, fuerunt in seminibus
+ipsis; et nihil fecisse Deum, cum omnia quae procreantur
+ex semine, ipsi fecit prius in seminibus;
+et dicat nihil, vel vanum aliquid esse hoc, quod si
+vere non esset, haec quae videmus esse non essent.
+Si enim verum non est ea, quae natura procreat ex
+seminibus, in illis prius aliquid fuisse, nullo modo
+ex ipsis essent. Quod si hoc dicere stultissimum
+est; non falsum vel vanum, sed verum et solidum
+esse fuit, quo fuerunt omnes alii homines in
+<pb n="0454D"/>
+Adam: nec fecit Deus inane aliquid, cum eos in illo
+<pb n="0455A"/>
+fecit esse; sed sicut dictum est, in illo fuerunt non
+alii ab illo, et ideo longe aliter, quam sunt in seipsis.
+Verum quamvis constet eos omnes in illo fuisse;
+solus tamen Filius Virginis valde diverso modo ab
+aliis in illo fuit. Omnes quippe alii sic fuerunt in
+illo, ut per naturam propagandi, quae potestati et
+voluntati ejus subdita erat, de illo essent: solus
+vero iste non sic in eo fuit, ut per naturam aut voluntatem
+ejus de illo fieret ( <hi>id est</hi> quantum ad
+alios), de aliis enim acceperat. Adam, quando
+peccavit, ut esset hoc de quo illi futuri erant, et ut
+de illo essent ( <hi>id est</hi> quantum ad istum): de isto
+vero, ut esset hoc, unde futurus erat; non autem
+ut de illo esset, quia non erat in ejus potestate,
+ut de illo propagaretur. Sed nec in potestate
+<pb n="0455B"/>
+ejus erat ut de alia essentia, aut de nihilo fieret.
+Quare non erat in eo, ut hic aliquo modo esset.
+Nam nec in potestate naturae, nec in potestate voluntatis
+ejus erat, ut esset quoquo modo. Erat
+tamen in eo natura, de qua propagandus erat, non
+ejus, sed Dei potestate. Nam etsi usque ad Virginem
+matrem in parentibus et voluntas seminavit, et natura
+germinavit, ut ipsa Virgo partim naturali, partim
+voluntario cursu ad suum esse ab Adam produceretur,
+sicut omnes alii, in illa tamen nec
+voluntas creaturae prolem seminavit, ne natura
+germinavit; sed Spiritus sanctus et virtus Altissimi
+de Virgine muliere virum mirabiliter procreavit.
+De aliis ergo erat in Adam, id est in ejus potestate,
+<pb n="0455C"/>
+ut de illo essent; de isto vero non erat in illo, ut
+aliquo modo esset: sicut non erat in limo, unde vir
+primus factus est, ut de illo esset mirabiliter;
+neque in viro, ut Eva de illo, quemadmodum facta
+est, esset. Sed nec in aliquo eorum, in quibus fuit
+ab Adam usque ad Mariam, erat, ut esset; fuit
+tamen in illis, quia erat in eis, unde ipse assumendus
+erat; quemadmodum erat in limo, unde primus
+homo factus est, et in eo unde Eva facta est, non
+voluntate creaturae aut potestate, sed sola divina
+virtute: sed iste tanto mirabilius et majori
+gratia; quanto illi puri homines, hic homo Deus
+factus est. Valde itaque diverso modo iste erat in
+Adam, quando peccavit; quam erant illi, qui voluntario
+<pb n="0455D"/>
+et naturali cursu procreantur. Illos ergo quodammodo
+<pb n="0456A"/>
+facit Adam, quos per acceptam potestatem
+humana voluntas seminando, et natura
+germinando procreant. Istum vero nonnisi
+Deus fecit, quamvis de Adam: quia non per Adam,
+sed per se, velut de suo. Quid ergo convenientius
+ad ostendendum magnitudinem bonitatis Dei, et ad
+plenitudinem gratiae quam Adae concedebat;
+quam ut quorum esse in illius potestate sic erat,
+ut quod ille naturaliter erat, hoc illi per illum
+essent: ita quoque in ejus esset arbitrii libertate,
+ut qualis erat ipse justitia et felicitate, tales eos
+propagaret? Hoc igitur illi datum est. Quoniam itaque
+in tantae gratiae celsitudine positus bona, quae
+sibi et illis servanda acceperat, sponte deseruit:
+idcirco filii perdiderunt quod pater illis cum
+<pb n="0456B"/>
+servando dare posset, non servando abstulit. Haec
+mihi sufficere videtur ratio, cur ad infantes peccatum
+et mala descendant Adae; si diligenter, remota
+nostra voluntate, quae saepe et multum impedit mentem
+ab intellectu rectitudinis, ipsa plura justitia
+consideretur. Qualiter autem peccatum idem mihi
+videatur ad eos descendere, paucis expediam. Est
+peccatum a natura, ut dixi <note>(cap. 1)</note>: et est peccatum
+a persona. Itaque quod est a persona, potest
+dici personale; quod autem a natura, naturale,
+quod dicitur originale: et sicut personale transit ad
+naturam; ita naturale ad personam hoc modo. Quod
+Adam comedebat, hoc natura exigebat; quia ut
+hoc ex geret, sic creata erat. Quod vero de
+<pb n="0456C"/>
+ligno vetito comedit, non hoc voluntas naturalis
+sed personalis, hoc est propria fecit: quod
+tamen egit persona, non fecit sine natura. Persona
+enim erat, quod dicebatur Adam; natura, quod
+homo: fecit igitur persona peccatricem naturam,
+quia cum Adam peccavit, homo peccavit. Siquidem
+non quia homo erat, ut vetitum praesumeret
+impulsus est: sed propria voluntate, quam non
+exigit natura, sed persona concepit, attractus
+est. Similiter fit in infantibus econverso. Nempe,
+quod in illis non est justitia, quam debent habere,
+non hoc fecit illorum voluntas personalis, sicut in
+Adam; sed egestas naturalis, quam ipsa natura
+accepit ab Adam. In Adam namque, extra quem de
+<pb n="0456D"/>
+illa nihil erat, est nudata justitia quam habebat: et
+<pb n="0457A"/>
+ea semper nisi adjuta caret hac ratione, quia
+natura subsistit in personis et personae non sunt sine
+natura, facit natura personas infantium peccatrices.
+Sic spoliavit persona naturam bono justitiae
+in Adam: et natura egens facta omnes personas,
+quas ipsa de se procreat, eadem egestate peccatrices
+et injustas facit. Hoc modo transit peccatum
+Adae personale in omnes qui de illo naturaliter
+propagantur, et est in illis originale sive naturale.
+Unde patet magnam esse distantiam inter peccatum
+Adae et peccatum eorum, quia ille peccavit
+propria voluntate; illi naturali peccant necessitate,
+quam propria et personalis meruit illius voluntas.
+Sed cum nemo dubitet quia par poena non sequatur
+ imparia peccata, in hoc tamen similis est et
+<pb n="0457B"/>
+personalis et originalis peccati damnatio, quia nullus
+admittitur ad regnum Dei, ad quod factus est homo,
+nisi per mortem Christi, sine qua non redditur
+quod pro Adae peccato debetur, quamvis non omnes
+pariter in inferno torqueri mereantur. Nam post
+diem judicii nullus erit angelus aut homo, nisi aut
+in regno Dei, aut in inferno. Ita igitur et peccatum <emph>105</emph> 
+ infantium minus est quam peccatum Adae; et
+nullus tamen sine illa universali satisfactione salvatur,
+per quam et magnum et parvum dimittitur
+peccatum. Cur autem non sit sine illa morte, et
+quomodo per illam sit salus hominum, in praefato
+libro, sicut Deus mihi dedit, quaesivi et dixi.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIV [ <hi>al</hi>., XXIII]. <hi>Quod peccata parentum post Adam non computentur in originali peccato filiorum</hi>.</head>
+<p>Parentum vero proximorum peccata ad originale
+peccatum non aestimo pertinere: quippe si Adam
+nequivisset ad eos, quos generaturus erat, justitiam
+suam perducere, nequaquam posset eis suam
+injustitiam transmittere. Quare, quoniam nullus post
+Adam filiis suis quivit justitiam suam servare, nullam
+video rationem cur proximorum parentum peccata
+filiorum debeant animabus imputari. Denique
+nulli dubium est quod infantes nullam servant rectitudinem
+voluntatis propter ipsam rectitudinem. In
+hoc ergo sunt omnes pariter injusti, quia nullam
+habent, quam omnis homo habere debet, justitiam.
+Haec nuditas justitiae descendit ad omnes ab Adam,
+in quo humana natura se spoliavit eadem justitia.
+<pb n="0458A"/>
+Nam et si in Adam (hoc est naturae humanae) illi
+remansit aliqua justitia, ut in rebus aliquibus rectam
+servaret voluntatem: sic tamen privata est illo
+dono quo sibi justitiam custodire poterat in posteros;
+ut in nullo eorum ipsa cum aliqua justitia se propagare
+queat. Plus itaque in infantibus auferre
+sibi non valuit, quam omnem justitiam et beatitudinem,
+quae nulli datur aliqua carenti debita
+justitia. Quod autem proximorum parentum injustitia
+possit hanc augere justitiae nuditatem, qua non
+valet in infantes ab Adae peccator major descendere,
+non videtur possibile. Nam ubi nulla est justitia,
+nulla potest auferri justitia. Unde autem nulla potest
+absentari justitia, ibi addi nulla valet injustitia.
+Nullam ergo infantibus suis addere queunt injusti
+<pb n="0458B"/>
+parentes injustitiam, super praedictam nuditatem
+justitiae. At ubi nulla est justitia, nihil prohibet
+aliquam poni justitiam. Verisimilius igitur et
+possibilius videtur, si parentes injusti aliquam suis
+infantibus addere dicuntur injustitiam, quod
+justi suis aliquam dare possint justitiam. Quod
+si fit, habent infantes justorum aliquam justitiam.
+Si vero hoc est, levius damnatur, quam infantes
+justorum, si moriuntur sine baptismo; aut si
+salventur, cum aliquo suo praecedenti merito
+eliguntur. Quod Paulus apostolus negat <note>(Rom. V)</note>,
+ubi per <hi>Jacob</hi> et <hi>Esau</hi> probat nullum, nisi omnium
+merita preveniente gratia, salvari. Quoniam
+itaque nullam dant justi parentes ante baptismum
+infantibus suis justitiam, nullam utique addunt
+<pb n="0458C"/>
+injusti suis injustitiam. Quod si dicitur Non addunt
+injusti parentes suis infantibus aliquam injustitiam,
+quibus auferre nequeunt ullam justitiam; sed originalem,
+quam habent ab Adam, faciunt in eis graviorem,
+ergo et justi in suis reddunt eam leviorem.
+Quare si minus sunt injusti infantes justorum quam
+injustorum, minus debent reprobari quam illi. Quod
+dicat, qui audet et ostendere potest. Ego vero non
+audeo, cum mistim videam et justorum et injustorum
+infantes ad baptismi gratiam eligi et ab illa
+reprobari. Sed et hoc si quis dicit, non valet ostendere.
+Quippe sicut, hoc modo, non est justo justior,
+nisi qui voluntate magis aut appetit, aut vitat quod
+debet; ita non est injusto injustior, nisi qui plus
+amat aut contemnit quod non debet. Si igitur infantes
+<pb n="0459A"/>
+nequeant ostendi, mox ut animam habent, alius alio
+magis vel minus velle quod debent, aut quod
+non debent; nemo potest probare quod in infantibus
+alius alio nascatur justior vel injustior. Pariter
+ergo nec justi sua justitia reddere videntur in suis
+infantibus originalem injustitiam leviorem, nec
+injusti in suis sua injustitia graviorem. Quapropter
+si parentes injusti nec numero, nec magnitudine
+queant originale peccatum suis infantibus suo peccato
+augere, videtur mihi peccata parentum, post
+Adam, in infantum merita bona parentum, filiis
+multa et magna beneficia corporis et animae impendi,
+et propter peccata parentum filios et nepotes
+usque in tertiam et quartam generationem, et forsitan
+ultra, diversis tribulationibus in hac vita flagellari,
+<pb n="0459B"/>
+et ea perdere bona etiam in anima, quae forsitan
+per illos consequerentur, si justi essent; quorum
+exempla nimis longum est hic inserere. Sed
+dico peccatum originale in omnibus infantibus conceptis
+naturaliter aequale esse: sicut peccatum
+Adae, quod est causa cur nascantur in illo, ad omnes
+pertinet aequaliter.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXV [ <hi>al</hi>., XXIV]. <hi>Quomodo peccata parentum noceant animabus filiorum</hi>.</head>
+<p>Si autem peccata parentum aliquando nocent animabus
+filiorum, hoc modo potius fieri existimo, non
+quod ea illis Deus imputet, aut quod eos in aliqua
+delicta propter parentes inducat, sed quoniam sicut
+saepe meritis parentum, filios justorum a peccatis
+<pb n="0459C"/>
+eruit, ita filios justorum eorum meritis, in suis
+aliquando derelinquit. Quoniam enim nemo liber
+est a peccato, nisi Deo liberante, cum non liberat,
+dicitur inducere, et cum non emollit, indurare. Namque
+satis videtur susceptibilius, quod Deus animam
+ peccatricem, cui nihil praeter poenam debet,
+propter parentum peccata in suis dimittat peccatis,
+ut pro ipsis puniatur, quam quod eam alienis
+oneret, ut pro eis torqueatur. Ita igitur sine repugnantia
+et originale peccatum est idem in omnibus,
+et filius non portabit iniquitatem patris, et unusquisque
+onus suum portabit et recipiet, prout gessit
+in corpore sive bonum, sive malum, et reddit Deus
+peccata parentum filiis in tertiam et quartam generationem,
+etiam si hoc sit in anima; et quidquid
+<pb n="0459D"/>
+aliud legitur, quod animabus filiorum peccata parentum
+<pb n="0460A"/>
+nocere significare videtur. Quippe non moritur
+ anima filii peccato patris, sed suo; nec
+portat quis iniquitatem patris, cum in sua relinquitur,
+sed suam; nec onus alienum, sed suum; nec
+recipit prout pater, sed prout ipse gessit in corpore.
+Sed quoniam, propter peccata parentum, a suis
+malis non est liberatus, ea quae portat eisdem peccatis
+parentum imputantur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVI [ <hi>al</hi>., XXV]. <hi>Quomodo tamen nullus portet peccatum patris, sed suum</hi>.</head>
+<p>At si objicitur quia omnes qui non salvantur per
+fidem, quae est in Christum, portant iniquitatem
+et onus Adae, ut per hoc velit probare infantes, aut
+aliorum quoque parentum iniquitates similiter debere
+<pb n="0460B"/>
+portare, aut illius non debere, consideret
+diligenter quia non portant infantes peccatum
+Adae, sed suum. Nam aliud fuit peccatum Adae, aliud
+est peccatum infantum; quia differunt, ut dictum
+est: illud enim fuit causa, istud est effectus; Adam
+caruit debita justitia, non quia alius, sed quia ipse
+ deseruit. Infantes carent ea, non quoniam ipsi,
+sed quoniam alius dereliquit. Non est ergo idem
+peccatum Adae et infantum. Et cum dicit apostolus
+quod supra posui: <hi>Quia mors regnavit ab Adam
+usque ad Moysen, etiam in eos qui non peccaverunt
+in similitudinem praevaricationis Adae <note>(Rom. V, 14)</note>
+            </hi>,
+sicut significat infantium minus esse quam Adae
+peccatum: ita aperte monstrat aliud esse. Quapropter
+cum damnatur infans pro peccato originali,
+<pb n="0460C"/>
+damnatur <emph>106</emph> non pro peccato Adae, sed pro suo.
+Nam si ipse non haberet suum peccatum, non damnaretur.
+Ita ergo non portat iniquitatem Adae, sed
+suam, quamvis ideo dicatur portare, quia iniquitas
+illius peccati, istius causa fuit. Haec autem causa,
+quae fuit in Adam, ut infantes in peccato nascantur,
+non est in aliis parentibus, quia non habet in eis
+humana natura potestatem, quemadmodum dixi, ut
+filii justi propagentur. Quare non ita sequitur ut pro
+peccato illorum sit in infantibus peccatum, sicut pro
+peccato Adae.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVII [ <hi>al</hi>., XXVI]. <hi>Quid sit originale peccatum, et quod in omnibus sit aequale</hi>.</head>
+<p>Originale igitur peccatum non aliud intelligo,
+<pb n="0460D"/>
+quam quod est in infante, mox ut animam habet
+<pb n="0461A"/>
+rationalem; quidquid prius in corpore nondum sic
+animato factum sit (ut aliqua membrorum corruptio)
+vel post sive in anima, sive in corpore, futurum
+sit. Quod propter praedictas aestimo rationes in
+omnibus infantibus naturaliter propagatis esse
+aequale, et omnes qui in illo solo moriuntur
+aequaliter damnari. Siquidem quidquid peccati super
+illud additur in homine, personale est: et sicut
+persona, propter naturam, peccatrix nascitur, ita
+natura per personam magis peccatrix redditur,
+quia cum peccat persona quaelibet, peccat homo.
+Hoc peccatum, quod originale dico, aliud intelligere
+nequeo in eisdem infantibus, nisi ipsam quam
+supra posui, factam per inobedientiam Adae justitiae
+debitae nuditatem, per quam omnes filii sunt irae,
+<pb n="0461B"/>
+quoniam et naturam accusat spontanea, quam fecit
+in Adam, justitiae desertio; nec personas excusat, ut
+dictum est <note>(cap. 2)</note>, recuperandi impotentia, quam
+comitatur beatitudinis quoque nuditas, ut sicut sunt
+sine omni justitia, ita sint absque omni beatitudine:
+per quas duas nuditates in hujus vitae exsilio expositi
+sunt, et patentes peccatis et miseriis
+incessanter ubique occurrentibus, et undique irruentibus,
+nisi quantum divina defenduntur dispositione.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXVIII [ <hi>al</hi>., XXVII]. <hi>Contra illos qui non putant infantes debere damnari</hi>.</head>
+<p>Sunt quorum animus infantes debere damnari, qui
+sine baptismo moriuntur, ob solam injustitiam quam
+dixi, non vult accipere: quoniam nullus homo
+judicat eos reprehendendos de peccato alienae personae,
+<pb n="0461C"/>
+et quia nondum sunt justi et intelligentes in
+tali aetate, nec putant Deum districtius innocentes
+debere judicare, quam judicent homines. Quibus
+dicendum est quod aliter Deus erga infantes
+exigit quid debeant agere, aliter homo. Nam homo
+non debet exigere a natura quod ipse non dedit, et
+quod sibi non debetur. Nec juste redarguit homo
+hominem cum culpa nasci, sine qua ipse non nascitur,
+et de qua non nisi per alium sanatur. Deus
+vero recte exigit a natura quod dedit ei, et quod
+sibi juste debetur. Sed et hoc judicium, quo infantes
+damnantur, non est alienum multum, si
+consideretur, ab hominum judicio. Si quis enim vir
+et uxor ejus, ad magnam quamdam dignitatem et
+<pb n="0462A"/>
+possessionem nullo suo merito, sed gratia sola provecti,
+simul crimen grave inexcusabiliter committunt,
+et pro eo juste dejiciuntur, et in servitutem
+rediguntur, quis dicet filios, quos post damnationem
+generant, eidem non debere subjacere servituti, sed
+potius ad bona quae parentes juste perdiderunt,
+gratis oportere restitui? Tales sunt primi parentes,
+et filii eorum, quos juste pro culpa sua de beatitudine
+in miseriam damnati, in eodem generant exsilio.
+De similibus itaque simile debet esse judicium,
+sed de illis tanto districtius quanto delictum
+eorum probari potest improbabilius. Denique
+omnis homo, aut salvatur, aut damnatur: omnis
+autem homo qui salvatur, ad regnum coelorum
+admittitur, et omnis qui damnatur, ab eo excluditur.
+Qui vero admittitur, provehitur ad similitudinem
+<pb n="0462B"/>
+angelorum, in quibus nullum unquam fuit aut
+erit peccatum, quod fieri nequit, quandiu est in eo
+aliqua macula peccati. Impossibile itaque est aliquem
+hominem cum aliquo, quamvis parvo, peccato,
+salvari. Quare si, quod dixi, originale peccatum
+est aliquod peccatum, necesse est omnem
+hominem in eo natum, illo non dimisso, damnari.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XXIX [ <hi>al</hi>., XXVIII]. <hi>Quomodo impotentia habendi justitiam excuset eos post baptismum</hi>.</head>
+<p>Dixi impotentiam habendi justitiam non excusare
+injustitiam infantium. Quaeret ergo aliquis forsitan
+dicens: si in infante peccatum, id est
+injustitia, est ante baptismum; nec excusatur impotentia
+<pb n="0462C"/>
+habendi justitiam, sicut dicis, et in baptismo
+non remittitur peccatum, nisi quod prius erat: cum
+post baptismum sit sine justitia, quandiu infans est,
+nec intelligere potest justitiam quam servet (siquidem
+justitia est rectitudo voluntatis propter se servata);
+quomodo non est injustus, etiam postquam
+baptizatus est? Si ergo baptizatus moritur in infantia,
+non statim post baptisma, cum poenitere nondum
+scit, quoniam non habet debitam justitiam nec excusatur
+impotentia, injustus transit de hac vita, sicut
+faceret ante baptismum, nec ad regnum admittitur:
+quod catholica non tenet Ecclesia. Quod si in baptismo
+peccatum in infantia futurum remittitur infantibus,
+cur non et illa quae in sequenti fiunt aetate? Ad
+<pb n="0463A"/>
+quod respondeo quod in baptismo peccata penitus
+quae ante baptismum erant deleantur. Quapropter
+originalis impotentia justitiam habendi, jam baptizatis
+non imputatur ad peccatum, sicut prius.
+Quemadmodum igitur impotentia habendi justitiam
+prius excusare non poterat absentiam justitiae,
+quoniam ipsa erat in culpa: sic post baptismum
+illum omnino excusat, quia remanet sine omni
+culpa. Unde fit ut justitia quae ante baptismum debebatur
+ab infantibus sine omni excusatione post baptismum
+ab illis non exigatur, quasi ex debito.
+Quandiu ergo sola originali impotentia non habent
+<pb n="0464A"/>
+justitiam, non sunt injusti, quoniam non est in eis
+absentia debitae justitiae. Non enim est debitum quod
+sine omni culpa est impossibile. Quare si sic moriuntur
+ qui non sunt injusti, non damnantur, sed et
+justitia Christi qui se dedit pro illis, et justitia fidei
+matris Ecclesiae quae pro illis credit, quasi justi
+salvantur. Haec breviter de originali peccato, pro
+capacitate intellectus mei, non tamen affirmando
+quam conjectando dixi, donec mihi Deus melius
+aliquo modo revelet. Si cui vero aliter visum
+fuerit, nullius respuo sententiam, si vera probari
+poterit.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>
