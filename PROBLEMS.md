@@ -61,6 +61,8 @@ These books have no English because the only public-domain translations are badl
 
 ### Partial texts
 
+- `peter-of-alcantara-opera-omnia/cartas`: only 2 of his 12 authenticated letters (to Teresa and to the bishop of Ávila, 1562). The other ten (Infantas Isabel and María of Portugal, Luisa de la Cerda, Álvaro de Mendoza…) are only in Barrado Manzano 1965 and BAC 570 (1996); leads: Archivo Ibero-Americano 22 (1962), *Salmanticensis* 1955. English exists only for the first, as Willoughby's free rendering.
+- Peter of Alcántara's constitutions (1540, 1561, 1562), the commentary on the *Miserere*, the short *Camino de perfección* and the Spanish *Breve introducción* / *De tres cosas* (traditionally attributed; only scans with unusable OCR, English in Hollings 1905 App. I-II) are not in the corpus: no free text was found.
 - `bernard-opera-omnia/de-diligendo-deo`: Patmore's English stops at chapter XI, so chapters XII–XV are Latin only.
 - `church-fathers/councils/trent`: the Latin lacks the bull of indiction, the acclamations and the confirmation, which are in English only.
 - `church-fathers/gregory-great-pope/dialogues`: the Latin Book II has 6 sections against the English's 38 chapters.

@@ -1,0 +1,68 @@
+{
+  "id": "alcantara-cartas",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Cartas",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "es-ES": "San Pedro de Alcántara",
+    "en-US": "St. Peter of Alcántara",
+    "pt-BR": "São Pedro de Alcântara"
+  },
+  "description": {
+    "es-ES": "Dos cartas de san Pedro de Alcántara de 1562: a santa Teresa, sobre fundar sin rentas, y al obispo de Ávila, sobre la fundación de San José. Texto de P. Silverio de Santa Teresa con sus notas. Las otras diez cartas de su epistolario sólo existen en ediciones modernas.",
+    "en-US": "Two letters of St. Peter of Alcántara from 1562: to St. Teresa, on founding without endowments, and to the bishop of Ávila, on the foundation of San José. Spanish text of P. Silverio de Santa Teresa with his notes; the English of the first is the free rendering in Willoughby's 1632 translation of his Life.",
+    "pt-BR": "Duas cartas de São Pedro de Alcântara de 1562: a Santa Teresa, sobre fundar sem rendas, e ao bispo de Ávila, sobre a fundação de São José."
+  },
+  "composed": "1562",
+  "languages": [
+    "es-ES",
+    "en-US"
+  ],
+  "work": "peter-of-alcantara/cartas",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1915
+    },
+    "en-US": {
+      "translator": "G. W. (Giles Willoughby)",
+      "year": 1632
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesantatere02tere",
+      "edition": "Obras de Sta. Teresa de Jesús, ed. P. Silverio de Santa Teresa, C.D., t. II (Biblioteca Mística Carmelitana 2), Burgos: El Monte Carmelo, 1915, Apéndices IX–X, pp. 125–127. OCR, corrected by hand.",
+      "description": "The two letters of 1562 with Silverio's notes as footnotes. The second is corrected from the autograph at San José de Ávila.",
+      "tier": "A",
+      "tierEvidence": "Letters of 1562; Silverio's edition published in 1915 (before 1930) and he died in 1954, so his notes are public domain since 2025."
+    },
+    {
+      "language": "en-US",
+      "url": "https://github.com/textcreationpartnership/A09514",
+      "edition": "A Golden Treatise of Mental Prayer, tr. G. W. [Giles Willoughby], Brussels 1632, with a brief relation of the life of the author; ch. IX. EEBO-TCP A09514, normalised spelling from EarlyPrint.",
+      "description": "The letter to Teresa as Willoughby gives it, a free rendering. No English of the second letter was found.",
+      "tier": "A",
+      "tierEvidence": "Printed 1632; the TCP keyed text is released CC0."
+    }
+  ],
+  "toc": [
+    {
+      "id": "a-teresa-1562",
+      "title": {
+        "es-ES": "Carta a Santa Teresa (14 de abril de 1562)",
+        "en-US": "Letter to St. Teresa (14 April 1562)"
+      }
+    },
+    {
+      "id": "al-obispo-de-avila-1562",
+      "title": {
+        "es-ES": "Carta al obispo de Ávila sobre la fundación de San José (1562)"
+      }
+    }
+  ]
+}
