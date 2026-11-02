@@ -1,0 +1,261 @@
+{
+  "id": "tauler-inner-way-hutton",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Inner Way: Thirty-six Sermons for Festivals",
+    "pt-BR": "O Caminho Interior: Trinta e Seis Sermões para as Festas"
+  },
+  "author": {
+    "en-US": "John Tauler (c. 1300-1361)",
+    "pt-BR": "João Tauler (c. 1300-1361)"
+  },
+  "description": {
+    "en-US": "Thirty-six of Tauler's sermons for the festivals of the saints and of Our Lady, in A. W. Hutton's English of 1901 (after the early printed editions of 1498 to 1543, not Vetter's critical text), with Hutton's introduction. A different edition of the same work as Elliott's translation.",
+    "pt-BR": "Trinta e seis sermões de Tauler para as festas dos santos e de Nossa Senhora, na tradução inglesa de A. W. Hutton (1901), com a introdução do tradutor."
+  },
+  "composed": "c. 1330-1361",
+  "languages": [
+    "en-US"
+  ],
+  "work": "tauler/predigten",
+  "editions": {
+    "en-US": {
+      "translator": "A. W. Hutton",
+      "year": 1901
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/innerwaybeingthi00tauluoft",
+      "edition": "The Inner Way, being thirty-six sermons for festivals by John Tauler, translated by A. W. Hutton (London: Methuen, 1901).",
+      "description": "OCR of the archive.org scan (research/sourcing/_scripts/hutton_build.py); sermons split at the SERMON headings, titles from the heading lines, running heads removed; page-foot notes remain as paragraphs. Not proofread.",
+      "tier": "A",
+      "tierEvidence": "1901 translation, public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction (A. W. Hutton)"
+      }
+    },
+    {
+      "id": "s01",
+      "title": {
+        "en-US": "1. On the Feast of St Andrew the Apostle"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en-US": "2. On St Barbara's Day, or That of Any Other Holy Virgin"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en-US": "3. On the Conception of Our Lady, Also on Her Birth"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en-US": "4. On the Feast of St Stephen or of St Lawrence"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en-US": "5. On St John the Evangelist's Day"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en-US": "6. On the Feast of the Holy Virgin"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en-US": "7. Our Lady's Candle-mass"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en-US": "8. On the Feast of St Agatha, or of the Holy Virgins"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en-US": "9. On the Annunciation of Our Lady"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en-US": "10. On the Nativity of John the Baptist the First Sermon"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en-US": "11. On the Feast of the Nativity of St John the Baptist"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en-US": "12. On the Feast of St Tlmothy, or the"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "en-US": "13. On the Feast of St Paul the Apostle"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "en-US": "14. On the Presentation of the Blessed Virgin, or on the Octave of Her Nativity"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "en-US": "15. On the Feast of St Mary Magdalene"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "en-US": "16. On the Feast of the Holy Martyr, St Laurence"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "en-US": "17. On the Assumption of Our Lady"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "en-US": "18. On the Feast of St Augustine How Man Should Keep Strict Watch and Guard Over All His Life and His Discipline. How Wonderfully God Exalts Those Who Truly Wait for Him, Far Above All Temporal Things ; and Then, for Their Good, Smites and Humbles Them with All Manner of Troubles and Tempta Tions, That They May Be Driven and Helped Along the Safest Road to Everlasting Salvation"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "en-US": "19. On the Nativity of Our Lady"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "en-US": "20. On the Exaltation of the Holy Cross the First Sermon"
+      }
+    },
+    {
+      "id": "s21",
+      "title": {
+        "en-US": "21. On the Exaltation of the Holy Cross the Second Sermon"
+      }
+    },
+    {
+      "id": "s22",
+      "title": {
+        "en-US": "22. On the Exaltaton of the Holy Cross"
+      }
+    },
+    {
+      "id": "s23",
+      "title": {
+        "en-US": "23. On the Feast of St Matthew, Apostle and Evangelist"
+      }
+    },
+    {
+      "id": "s24",
+      "title": {
+        "en-US": "24. On the Feast of St Michael and All Angels"
+      }
+    },
+    {
+      "id": "s25",
+      "title": {
+        "en-US": "25. All Saints' Day the First Sermon"
+      }
+    },
+    {
+      "id": "s26",
+      "title": {
+        "en-US": "26. All Saints' Day"
+      }
+    },
+    {
+      "id": "s27",
+      "title": {
+        "en-US": "27. All Saints' Day, or St Ursula's Day the Third Sermon 1"
+      }
+    },
+    {
+      "id": "s28",
+      "title": {
+        "en-US": "28. On the Feast of the Holy Virgin St Catherine"
+      }
+    },
+    {
+      "id": "s29",
+      "title": {
+        "en-US": "29. On the Feast of the Twelve Apostles"
+      }
+    },
+    {
+      "id": "s30",
+      "title": {
+        "en-US": "30. On the Feast of Martyrs"
+      }
+    },
+    {
+      "id": "s31",
+      "title": {
+        "en-US": "31. On a Holy Martyr's Day"
+      }
+    },
+    {
+      "id": "s32",
+      "title": {
+        "en-US": "32. On the Feast of a Holy Bishop"
+      }
+    },
+    {
+      "id": "s33",
+      "title": {
+        "en-US": "33. On the Feast of a Holy Confessor"
+      }
+    },
+    {
+      "id": "s34",
+      "title": {
+        "en-US": "34. On the Feast of a Holy Virgin"
+      }
+    },
+    {
+      "id": "s35",
+      "title": {
+        "en-US": "35. At the Dedication of a Church"
+      }
+    },
+    {
+      "id": "s36",
+      "title": {
+        "en-US": "36. At the Dedication of a Church"
+      }
+    }
+  ]
+}
