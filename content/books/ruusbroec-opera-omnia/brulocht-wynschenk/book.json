@@ -1,0 +1,664 @@
+{
+  "id": "ruusbroec-brulocht-wynschenk",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Adornment of the Spiritual Marriage",
+    "pt-BR": "O Ornamento das Núpcias Espirituais"
+  },
+  "author": {
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "en-US": "Ruusbroec's masterpiece on the active, interior and God-seeing life, in the English of C. A. Wynschenk Dom (1916) with Evelyn Underhill's introduction and notes. Its chapter division differs from David's Middle Dutch edition (book II has 67 chapters, not 77), so it is a separate edition of the same work.",
+    "pt-BR": "A obra-prima de Ruusbroec sobre a vida ativa, interior e contemplativa, na tradução inglesa de C. A. Wynschenk Dom (1916), com introdução e notas de Evelyn Underhill."
+  },
+  "composed": "c. 1335-1345",
+  "languages": [
+    "en-US"
+  ],
+  "work": "ruusbroec/brulocht",
+  "editions": {
+    "en-US": {
+      "translator": "C. A. Wynschenk Dom",
+      "year": 1916,
+      "editor": "Evelyn Underhill (introduction and notes)"
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/adornmentofthesp00ruysuoft",
+      "edition": "John of Ruysbroeck, The Adornment of the Spiritual Marriage; The Sparkling Stone; The Book of Supreme Truth, translated from the Flemish by C. A. Wynschenk Dom, with an introduction and notes by Evelyn Underhill (London: J. M. Dent, 1916).",
+      "description": "OCR of the archive.org scan, rejoined across lines and pages by research/sourcing/_scripts/wyn_build.py; running heads removed; Underhill's endnotes placed as footnotes at the passage that cites them. Not proofread against the page images.",
+      "tier": "A",
+      "tierEvidence": "1916 translation, public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction (Evelyn Underhill)"
+      }
+    },
+    {
+      "id": "boek-1",
+      "title": {
+        "en-US": "The First Book: The Active Life"
+      },
+      "children": [
+        {
+          "id": "b1-prologue",
+          "title": {
+            "en-US": "Prologue"
+          }
+        },
+        {
+          "id": "b1-c01",
+          "title": {
+            "en-US": "1. Of the Active Life"
+          }
+        },
+        {
+          "id": "b1-c02",
+          "title": {
+            "en-US": "2. Showing How We Shall Consider the Coming of Christ in Three Ways"
+          }
+        },
+        {
+          "id": "b1-c03",
+          "title": {
+            "en-US": "3. Of Humility"
+          }
+        },
+        {
+          "id": "b1-c04",
+          "title": {
+            "en-US": "4. Of Charity"
+          }
+        },
+        {
+          "id": "b1-c05",
+          "title": {
+            "en-US": "5. Of Patient Endurance"
+          }
+        },
+        {
+          "id": "b1-c06",
+          "title": {
+            "en-US": "6. Of the Second Coming of Christ"
+          }
+        },
+        {
+          "id": "b1-c07",
+          "title": {
+            "en-US": "7. Of the Blessed Sacraments"
+          }
+        },
+        {
+          "id": "b1-c08",
+          "title": {
+            "en-US": "8. Of the Third Coming of Christ"
+          }
+        },
+        {
+          "id": "b1-c09",
+          "title": {
+            "en-US": "9. Showing What Christ Will Do Ix the Day of Doom"
+          }
+        },
+        {
+          "id": "b1-c10",
+          "title": {
+            "en-US": "10. Of the Five Kinds of Men Who Shall Appear at the Judgment"
+          }
+        },
+        {
+          "id": "b1-c11",
+          "title": {
+            "en-US": "11. Of a Spiritual Going Out with All Virtues"
+          }
+        },
+        {
+          "id": "b1-c12",
+          "title": {
+            "en-US": "12. How Humility Is the Foundation of All Other Virtues"
+          }
+        },
+        {
+          "id": "b1-c13",
+          "title": {
+            "en-US": "13. Of Obedience"
+          }
+        },
+        {
+          "id": "b1-c14",
+          "title": {
+            "en-US": "14. Of the Renunciation of Self-will"
+          }
+        },
+        {
+          "id": "b1-c15",
+          "title": {
+            "en-US": "15. Of Patience"
+          }
+        },
+        {
+          "id": "b1-c16",
+          "title": {
+            "en-US": "16. Of Meekness"
+          }
+        },
+        {
+          "id": "b1-c17",
+          "title": {
+            "en-US": "17. Of Kindliness"
+          }
+        },
+        {
+          "id": "b1-c18",
+          "title": {
+            "en-US": "18. Of Compassion"
+          }
+        },
+        {
+          "id": "b1-c19",
+          "title": {
+            "en-US": "19. Of Generosity"
+          }
+        },
+        {
+          "id": "b1-c20",
+          "title": {
+            "en-US": "20. Of Zeal and Diligence"
+          }
+        },
+        {
+          "id": "b1-c21",
+          "title": {
+            "en-US": "21. Of Temperance and Sobriety"
+          }
+        },
+        {
+          "id": "b1-c22",
+          "title": {
+            "en-US": "22. Of Purity"
+          }
+        },
+        {
+          "id": "b1-c23",
+          "title": {
+            "en-US": "23. Of Three Enemies to Be Overcome by Righteousness"
+          }
+        },
+        {
+          "id": "b1-c24",
+          "title": {
+            "en-US": "24. Of the Kingdom of the Soul"
+          }
+        },
+        {
+          "id": "b1-c25",
+          "title": {
+            "en-US": "25. Of a Spiritual Meeting of God and Ourselves"
+          }
+        },
+        {
+          "id": "b1-c26",
+          "title": {
+            "en-US": "26. Of the Desire to Know the Bridegroom in His Nature"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boek-2",
+      "title": {
+        "en-US": "The Second Book: The Interior Life"
+      },
+      "children": [
+        {
+          "id": "b2-prologue",
+          "title": {
+            "en-US": "Prologue"
+          }
+        },
+        {
+          "id": "b2-c01",
+          "title": {
+            "en-US": "1. How We Achieve Supernatural Sight in Our Inward Workings"
+          }
+        },
+        {
+          "id": "b2-c02",
+          "title": {
+            "en-US": "2. Of a Three-fold Unity Which 18 in Us by Nature"
+          }
+        },
+        {
+          "id": "b2-c03",
+          "title": {
+            "en-US": "3. Of the Inflow of the Grace of God Into Our Spirit"
+          }
+        },
+        {
+          "id": "b2-c04",
+          "title": {
+            "en-US": "4. Showing How We Should Found Our Inward Life on a Freedom from Images"
+          }
+        },
+        {
+          "id": "b2-c05",
+          "title": {
+            "en-US": "5. Of a Three-fold Coming of Our Lord in the Inward Man"
+          }
+        },
+        {
+          "id": "b2-c06",
+          "title": {
+            "en-US": "6. Of the Second Coming of Our Lord in the Inward"
+          }
+        },
+        {
+          "id": "b2-c07",
+          "title": {
+            "en-US": "7. Of the Third Coming of Our Lord"
+          }
+        },
+        {
+          "id": "b2-c08",
+          "title": {
+            "en-US": "8. How the First Coming Has Four Degrees"
+          }
+        },
+        {
+          "id": "b2-c09",
+          "title": {
+            "en-US": "9. Of Unity of Heart"
+          }
+        },
+        {
+          "id": "b2-c10",
+          "title": {
+            "en-US": "10. Of Inwardness"
+          }
+        },
+        {
+          "id": "b2-c11",
+          "title": {
+            "en-US": "11. Of Sensible Love"
+          }
+        },
+        {
+          "id": "b2-c12",
+          "title": {
+            "en-US": "12. Of Devotion"
+          }
+        },
+        {
+          "id": "b2-c13",
+          "title": {
+            "en-US": "13. Of Gratitude"
+          }
+        },
+        {
+          "id": "b2-c14",
+          "title": {
+            "en-US": "14. Of Two Griefs Which Arise from Inward Gratitude"
+          }
+        },
+        {
+          "id": "b2-c15",
+          "title": {
+            "en-US": "15. A Similitude How \\ve Should Perform the First Degree of Our Inward Exercise"
+          }
+        },
+        {
+          "id": "b2-c16",
+          "title": {
+            "en-US": "16. Another Similitude Concerning the Same Exercise"
+          }
+        },
+        {
+          "id": "b2-c17",
+          "title": {
+            "en-US": "17. Of the Second Degree of Our Inward Exercise, Which Increases Inwardness by Humility"
+          }
+        },
+        {
+          "id": "b2-c18",
+          "title": {
+            "en-US": "18. Of the Pure Delight of the Iieakt and the Sensible Towers"
+          }
+        },
+        {
+          "id": "b2-c19",
+          "title": {
+            "en-US": "19. Of Spiritual Inebriation"
+          }
+        },
+        {
+          "id": "b2-c20",
+          "title": {
+            "en-US": "20. What May Hinder a Man in This Inebriation"
+          }
+        },
+        {
+          "id": "b2-c21",
+          "title": {
+            "en-US": "21. A Similitude How a Man Should Act and Bear Himself in This Case"
+          }
+        },
+        {
+          "id": "b2-c22",
+          "title": {
+            "en-US": "22. Of the Third Degree of the Spiritual Coming of Christ"
+          }
+        },
+        {
+          "id": "b2-c23",
+          "title": {
+            "en-US": "23. Of the Pain and Restlessness of Love"
+          }
+        },
+        {
+          "id": "b2-c24",
+          "title": {
+            "en-US": "24. Of Ecstacies and Divine Revelations"
+          }
+        },
+        {
+          "id": "b2-c25",
+          "title": {
+            "en-US": "25. An Example Showing How One Is Hindered in This Exercise"
+          }
+        },
+        {
+          "id": "b2-c26",
+          "title": {
+            "en-US": "26. Another Example"
+          }
+        },
+        {
+          "id": "b2-c27",
+          "title": {
+            "en-US": "27. A Parable of the Ant"
+          }
+        },
+        {
+          "id": "b2-c28",
+          "title": {
+            "en-US": "28. Of the Fourth Degree of the Coming of Christ"
+          }
+        },
+        {
+          "id": "b2-c29",
+          "title": {
+            "en-US": "29. Showing What the Forsaken Man Should Do"
+          }
+        },
+        {
+          "id": "b2-c30",
+          "title": {
+            "en-US": "30. A Parable : How One May Be Hindered in This Fourth Degree"
+          }
+        },
+        {
+          "id": "b2-c31",
+          "title": {
+            "en-US": "31. Of Another Hindrance"
+          }
+        },
+        {
+          "id": "b2-c32",
+          "title": {
+            "en-US": "32. Of Four Kinds of Fever Wherewith a Man May Be Tormented"
+          }
+        },
+        {
+          "id": "b2-c33",
+          "title": {
+            "en-US": "33. Showing How These Four Degrees in Their Perfection Are Found in Christ"
+          }
+        },
+        {
+          "id": "b2-c34",
+          "title": {
+            "en-US": "34. Showing How a Man Should Live If He Would Be Enlightened"
+          }
+        },
+        {
+          "id": "b2-c35",
+          "title": {
+            "en-US": "35. Of the Second Coming of Christ, Or, the Fountain with Three Rills"
+          }
+        },
+        {
+          "id": "b2-c36",
+          "title": {
+            "en-US": "36. The First Rill Adorns the Memory1"
+          }
+        },
+        {
+          "id": "b2-c37",
+          "title": {
+            "en-US": "37. The Second Rill Enlightens the Under Standing"
+          }
+        },
+        {
+          "id": "b2-c38",
+          "title": {
+            "en-US": "38. The Third Rill Establishes the Will to Every Perfection"
+          }
+        },
+        {
+          "id": "b2-c39",
+          "title": {
+            "en-US": "39. Showing How the Established Man Shall Go Out in Four Ways"
+          }
+        },
+        {
+          "id": "b2-c40",
+          "title": {
+            "en-US": "40. He Shall Go Out Towards God and Towards All Saints"
+          }
+        },
+        {
+          "id": "b2-c41",
+          "title": {
+            "en-US": "41. He Shall Go Out Towards All Sinners"
+          }
+        },
+        {
+          "id": "b2-c42",
+          "title": {
+            "en-US": "42. He Shall Go Out Towards His Friends in Purgatory"
+          }
+        },
+        {
+          "id": "b2-c43",
+          "title": {
+            "en-US": "43. He Shall Go Out Towards Himself and Towards All Good Men"
+          }
+        },
+        {
+          "id": "b2-c44",
+          "title": {
+            "en-US": "44. Showing How We May Recognise Those Men Who Fail in Charity to All"
+          }
+        },
+        {
+          "id": "b2-c45",
+          "title": {
+            "en-US": "45. How Christ Was, Is, and Ever Will Be the Lover of All"
+          }
+        },
+        {
+          "id": "b2-c46",
+          "title": {
+            "en-US": "46. Reproving All Those Who Live on Spiritual Goods in an Inordinate Manner"
+          }
+        },
+        {
+          "id": "b2-c47",
+          "title": {
+            "en-US": "47. Showing How Christ Has Given Himself to All in Common in the Sacrament of the Altar"
+          }
+        },
+        {
+          "id": "b2-c48",
+          "title": {
+            "en-US": "48. Of the Unity of the Divine Nature in the Trinity of the Persons"
+          }
+        },
+        {
+          "id": "b2-c49",
+          "title": {
+            "en-US": "49. Showing How God Possesses and Moves the Soul Both in a Natural and a Supernatural Way"
+          }
+        },
+        {
+          "id": "b2-c50",
+          "title": {
+            "en-US": "50. Showing How a Man Should Be Adorned If He Is to Receive the Most Inward Exercise"
+          }
+        },
+        {
+          "id": "b2-c51",
+          "title": {
+            "en-US": "51. Of the Third Coming of Christ"
+          }
+        },
+        {
+          "id": "b2-c52",
+          "title": {
+            "en-US": "52. Showing How the Spirit Goes Out Through the Divine Stirring"
+          }
+        },
+        {
+          "id": "b2-c53",
+          "title": {
+            "en-US": "53. Of an Eternal Hunger for God"
+          }
+        },
+        {
+          "id": "b2-c54",
+          "title": {
+            "en-US": "54. Of a Loving Strife Between the Spirit of God and Our Spirit"
+          }
+        },
+        {
+          "id": "b2-c55",
+          "title": {
+            "en-US": "55. Of the Fruitful Works of the Spirit, the Which Are Eternal"
+          }
+        },
+        {
+          "id": "b2-c56",
+          "title": {
+            "en-US": "56. Showing the Way in Which We Shall Meet God in a Ghostly Manner Both with and Without Means (17)"
+          }
+        },
+        {
+          "id": "b2-c57",
+          "title": {
+            "en-US": "57. Of the Essential Meeting with God Without Means in the Nakedness of Our Nature"
+          }
+        },
+        {
+          "id": "b2-c58",
+          "title": {
+            "en-US": "58. Showing How One Is Like Unto God Through Grace and Unlike Unto God Through Mortal Sin"
+          }
+        },
+        {
+          "id": "b2-c59",
+          "title": {
+            "en-US": "59. Showing How One Possesses God in Union and Rest, Above All Likeness Through Grace"
+          }
+        },
+        {
+          "id": "b2-c60",
+          "title": {
+            "en-US": "60. "
+          }
+        },
+        {
+          "id": "b2-c61",
+          "title": {
+            "en-US": "61. Of How God and Our Spirit Visit Each Other in the Unity and in the Likeness"
+          }
+        },
+        {
+          "id": "b2-c62",
+          "title": {
+            "en-US": "62. Showing How We Should Go Out to Meet God in All Our Works"
+          }
+        },
+        {
+          "id": "b2-c63",
+          "title": {
+            "en-US": "63. Of the Ordering of All the Virtues Through the Seven Gifts of the Holy Ghost"
+          }
+        },
+        {
+          "id": "b2-c64",
+          "title": {
+            "en-US": "64. Of the Highest Degree of the Most Interior Life"
+          }
+        },
+        {
+          "id": "b2-c65",
+          "title": {
+            "en-US": "65. Of Three Kinds of Most Inward Practices"
+          }
+        },
+        {
+          "id": "b2-c66",
+          "title": {
+            "en-US": "66. Showing How Some Men Live Contrary to These Exercises"
+          }
+        },
+        {
+          "id": "b2-c67",
+          "title": {
+            "en-US": "67. Of Another Kind of Perverted Men"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boek-3",
+      "title": {
+        "en-US": "The Third Book: The God-seeing Life"
+      },
+      "children": [
+        {
+          "id": "b3-c01",
+          "title": {
+            "en-US": "1. Showing the Three Ways by Which One Enters Into the God-seeing Life"
+          }
+        },
+        {
+          "id": "b3-c02",
+          "title": {
+            "en-US": "2. How the Eternal Birth of God Is Renewed Without Interruption in the Nobility of the Spirit"
+          }
+        },
+        {
+          "id": "b3-c03",
+          "title": {
+            "en-US": "3. How Our Spirit Is Called to Go Out in Contemplation and Fruition"
+          }
+        },
+        {
+          "id": "b3-c04",
+          "title": {
+            "en-US": "4. Of a Divine Meeting Which Takes Place in the Hiddenness of Our Spirit"
+          }
+        }
+      ]
+    }
+  ]
+}

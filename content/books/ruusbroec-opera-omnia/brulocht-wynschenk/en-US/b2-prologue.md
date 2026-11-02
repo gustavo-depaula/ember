@@ -1,0 +1,7 @@
+# Prologue
+
+THE wise virgin, that is the pure soul, having abandoned earthly things, and living according to the virtues for God, has taken in the vessel of her heart the oil of charity and of godly deeds, with the lamp of an unsullied conscience. But when Christ the Bridegroom tarries with His consolations, and the renewed inpouring of His gifts, the soul becomes drowsy, sleepy, and inert. Then, at midnight, when it is least expected, a ghostly cry is made within the soul : BEHOLD, THE BRIDEGROOM, COMETH, GO YE OUT TO MEET HIM. Of this beholding, and of the inward coming of Christ, and of a man's ghostly going out, and of his meeting with Christ ; of these four points we will now speak, and we will explain and apply them according to an inward, lofty, God-desiring life, which all cannot reach, but which many men attain through the moral virtues and inward zeal.
+
+By these words Christ teaches us four things. First, that He wills that our understanding should be enlightened by supernatural light ; this we learn from the word which He speaks : BEHOLD. Secondly, He shows us what we ought to see : namely, the inward coming of our Bridegroom, the Eternal Truth ; this we understand from His saying : THE BRIDEGROOM
+
+COMETH. Thirdly, He commands us to go out through inward exercises according to righteousness ; for this reason He says : Go YE OUT. And, by the fourth point, He shows us the end and the aim of the whole ; that is, the meeting with our Bridegroom Christ, in the fruitive unity of the Godhead.
