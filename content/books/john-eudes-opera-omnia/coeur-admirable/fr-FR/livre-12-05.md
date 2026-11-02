@@ -1,0 +1,31 @@
+# Chapitre IV. Autre privilège dont notre Sauveur honore sa très sainte 15 Eccli. XIV, 15
+
+16 Cf. Matth. XXVIII, 17. Mère.
+
+Ajoutons encore ici un privilège dont le Fils de Dieu glorifie sa très sainte Mère, qui passe tous les précédents. C'est que non seulement elle seule sera éternellement associée dans le ciel à la plus haute dignité du Père éternel, qui est son adorable paternité; mais qu'elle possède et possédera pour jamais, elle seule, la même autorité de Mère qu'elle possédait en la terre, et qui est marquée en ces paroles: Et erat subditus illis 1 7. De qui lui est plus glorieux que si elle possédait l'empire de cent millions de mondes. Car, encore que son Fils la surpasse infiniment en gloire, en puissance et en majesté, il la regardera néanmoins et honorera éternellement comme sa véritable Mère. La qualité de Fils de Dieu, dit saint Ambroise, ne le dispensait pas, étant en terre, de l'obligation divine et naturelle qu'il avait, ainsi que tous les autres enfants, de lui obéir comme à sa mère, selon les paroles susdites: Et erat subditus illis. Cette sujétion ne lui était pas honteuse, mais plutôt honorable e t glorieuse, parce qu'elle était volontaire et qu'elle ne procédait pas d'infirmité, mais de piété: Non utique infirmitatis, dit ce saint Père, est ista subjectio, sed pietatis.
+
+Enfin plusieurs saints Docteurs sont d'accord que la Mère du Sauveur avait un véritable domaine sur la personne de son Fils, soit qu'elle l'eût par droit de nature, soit que ce fût par un effet de la bonté et de l'humilité de ce même Fils. Le plus grand de tous les noms que l'on puisse donner à cette divine Vierge, dit le dévot e t pieux Gerson, c'est celui de Mère de Dieu, d'autant que cette qualité lui donne une autorité et un domaine naturel sur le Seigneur de tout le monde: Quoniam per hoc habet veluti auctoritatem, et naturale dominium ad totius mundi Dominum 1 8. Il ne faut pas s'imaginer que son Fils lui ayant donné ce pouvoir pendant qu'elle demeurait en la terre, il le lui ait ôté depuis qu'elle est régnante dans le ciel; car il n'a pas moins de respect et d'amour pour elle dans le ciel, qu'il en avait en la terre.
+
+Cela étant ainsi, n'est-il pas juste de croire qu'elle n'est pas moins puissante dans le ciel qu'elle était en la terre, et qu'elle y conserve encore quelque sorte d'autorité sur son Fils Eadem potestas est Matris et Filii, dit Arnould de Chartres, e t Richard de Saint-Laurent, quae ab omnipotente Filio omnipotens facta est. Le Fils e t la Mère n'ayant qu'une même chair, un même Cœur et une même volonté, n'ont aussi, en quelque manière, qu'une même puissance.
+
+Écoutons les magnifiques paroles d'un digne et savant Prélat, Georges, archevêque de Nicomédie. Rien, dit-il à la glorieuse Vierge, ne résiste àvotre 17 Luc.II,51.
+
+18 Serm. de Annunt. puissance, tout cède à votre force et à vos commandements, tout obéit àvotre empire; celui qui est né de vous, vous a élevée au-dessus de tout; votre Créateur fait sa gloire de la vôtre, et se tient honoré de ceux qui vous honorent; votre Fils se réjouit de voir l'honneur que nous vous portons, et comme s'il s'acquittait des obligations qu'il vous a, il vous accorde volontiers tout ce que vous lui demandez Nihil, o virgo, tuae resistit potentiae; tuam gloriam Filius putat esse propriam, e t quasi exsolvens debitum, imple petitiones tuas 1 9.
+
+Nous savons certainement, dit saint Anselme que la bienheureuse Vierge est si pleine de grâce et de mérite, qu'elle obtient toujours l'effet de tous ses désirs: Scimus beatam Virginem tanti esse meriti et gratia apud Deum, ut nihil eorum, quae velit efficere, possit aliquatenus effectu carere 2 0.
+
+Il est impossible, dit saint Germain, archevêque de Constantinople, qu'elle ne soit pas exaucée en tout et partout, puisque son Fils est toujours soumis à toutes ses volontés Non potest non exaudiri, cum Deus ut verae Matri suae, quoad omnia, e t per omnia, et in omnibus morem gerat 2 1.
+
+Utrinque stupor, dit saint Bernard, utrinque miraculum; miracles de toutes parts: Quod Deus foemina obtemperet, humilitas absque exemplo; et quod Deo foemina principetur, sublimitas sine socio: « Que Dieu obéisse à une femme, c'est une humilité sans exemple; et qu'une femme commande à un Dieu, c'est une autorité qui n'en a point de semblable. » De là vient que le saint Cardinal Pierre Damien ne craint pas de dire que cette très bonne Vierge se présente dans le ciel, devant l'autel sacré de notre réconciliation, Non solum rogans sed imperans 2 2, « non pas seulement comme une servante, mais comme une mère qui commande. » Roga Patrem, jube Nato, jure Matris impera, chante la sainte Église de Paris dans une Séquence: « Quand vous avez quelque chose à demander au Père éternel, ô divine Vierge, usez de prière et de supplication; mais quand c'est au Fils, l'autorité de Mère vous donne droit d'y employer le commandement.. ,»
+
+Si quelqu'un veut dire là-dessus que c'est mettre la créature au-dessus du Créateur, je lui demanderai si la divine Parole élève Josué au-dessus de Dieu, quand elle dit que le soleil s'arrêta, et que Dieu obéit à la voix d'un homme 2 3 Non, non, ce 19 Orat. de Oblat. Deiparae.
+
+20 De Excel. Virg. cap. 12.
+
+21 Serm. 2. in B. Mar. dormit.
+
+22 Serm. I de Nativ. B. Mariae.
+
+23 « Obediente Domiono voci hominis. »Josue, X, 14. n'est pas mettre la créature au-dessus du Créateur; mais c'est que le Fils de Dieu a tant d'amour et de respect pour sa divine Mère, que sa prière lui tient lieu de commandement.
+
+La bienheureuse Vierge, dit Albert le Grand 2 43, peut non seulement prier son Fils pour le salut de ses serviteurs, mais elle peut encore lui commander par une autorité de Mère; et c'est, ajoute-t-il, ce que nous lui demandons par ces paroles: Monstra te esse Matrem. C'est une prière que l'Église lui fait souvent, et qui lui est très agréable, et très utile à nos âmes: car c'est comme si nous lui disions: Très sacrée Mère de Dieu, faites-nous voir les bontés incomparables dont votre Cœur maternel est rempli au regard de vos très indignes enfants; faites-nous voir le très grand pouvoir que ce Cœur très bénin a sur le Cœur très miséricordieux de votre Fils bien-aimé: Monstra te esse Matrem, sumat per te preces, qui pro nobis natus tulit esse tuus.

@@ -1,0 +1,45 @@
+# Chapitre VI. La sixième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le trône de la (2): Mythol. lib. 4
+
+## 1. Mythol. lib. 4
+
+## 2. In Cant. cap, 25
+
+## 3. Psalt. B. V. ps.11
+
+SECTION XIII.--Étrange accident arrivé à un Ecclésiastique qui n'a point eu de miséricorde pour les pauvres.
+
+Je trouve dans la vie de saint Siméon Salus, écrite par plusieurs excellents auteurs 1 , que certains meurtriers ayant assassiné un homme, et jeté son corps par une fenêtre dans la maison d'un ecclésiastique, qui s'appelait Jean, et qui était Archidiacre de l'Église d'Émèse en Syrie, le juge de cette ville fit arrêter cet Archidiacre, comme s'il eût été l'auteur de ce meurtre, lequel, n'ayant pu se purger de ce crime, fut condamné à la mort. En suite de quoi se voyant conduire au supplice, et n'ayant personne qui défende son innocence il a recours à Dieu et lui fait cette prière: «O Dieu de Siméon Salus, assistez-moi maintenant!» Au même temps Dieu suscite un homme qui court vers Siméon, auquel il fait connaître l'extrême danger où est son bon ami, Jean l'Archidiacre, dans la maison duquel le mère Siméon était logé pour lors. Ayant appris ces tristes nouvelles, il se retire dans un lieu solitaire, là où il commence à prier Dieu de tout son cœur et avec abondance de larmes pour la délivrance de Jean. Chose admirable! Voilà qu'au milieu de la place publique, où le peuple était assemblé pour voir mourir le criminel prétendu, deux cavaliers parurent, qui assurèrent que les vrais auteurs du meurtre étaient découverts, et que l'Archidiacre Jean en était innocent. A raison de quoi il fut délivré et renvoyé absous et avec honneur dans sa maison; là où ayant trouvé saint Siméon, il lui fit le récit du cas étrange qui lui était arrivé, et de sa délivrance miraculeuse. Sur quoi saint Siméon lui parla en cette façon: «Allez et priez, et sachez que cette épreuve ___________________
+
+1. Leontius Surius; Métaphraste. vous est arrivée parce que vous avez refusé l'aumône à deux pauvres qui vous la demandaient pour l'amour de Dieu, bien que vous eussiez de quoi la leur donner. Sachez, mon frère, que ces biens dont vous faites des aumônes ne sont pas vôtres. Ne croyez-vous pas à celui qui a dit qu'il donnera le centuple dès cette vie et la gloire éternelle en l'autre à celui qui fera l'aumône pour son amour? C'est pourquoi, si vous croyez, donnez; mais si vous refusez de donner, il paraît bien que vous n'avez pas de foi.»
+
+SECTION XIV.--Les miséricordes du très bénin Cœur de la bienheureuse Vierge s'étendent partout, sur les vivants, sur les mourants et sur les morts.
+
+Il y avait en Jérusalem, au rapport de saint Grégoire de Tours 1, un fort beau monastère dédié à la Mère de Dieu, qui avait été fondé et richement doté pour subvenir à la nécessité des pauvres pèlerins. Il arriva néanmoins que, par divers accidents, ce monastère fut réduit à une telle pauvreté, que même les choses nécessaires à la vie manquaient aux religieux, de telle sorte qu'une fois ils furent deux jours sans avoir aucune chose de quoi se sustenter: à raison de quoi l'Abbé les ayant fait assembler, les exhorta de ne pas se décourager, mais d'avoir recours à la Mère de bonté, leur disant qu'il ne se pouvait point faire que le pain manquât dans le monastère de celle qui avait donné le pain de vie au monde. Ces bons religieux donc ayant passé la nuit en prières, ils trouvèrent le lendemain matin leurs greniers si pleins de blé, qu'à grande peine en pouvait-on ouvrir les portes.
+
+Une autre fois, en pareil accident et après de semblables prières, le sacristain, entrant en l'église pour découvrir ___________________
+
+1. Lib. 1. de Glor. Mart. cap. 11 . l'autel à l'ordinaire, le trouva tout couvert d'or et d'argent, sans qu'on eût aperçu aucun qui l'eût pu apporter, toutes les portes de l'église et du monastère étant fermées.
+
+Voilà pour les vivants, et voici pour les mourants.
+
+Un certain gentilhomme, selon le témoignage de Césarius 1, ennuyé de porter les armes à la guerre, fut inspiré de se faire religieux dans l'ordre de Cîteaux. Quelque temps après avoir pris l'habit de religion, il tomba malade à l'extrémité. Ce fut alors que le démon lui remit en mémoire la multitude des péchés qu'il avait commis dans le monde, et les lui fit voir si horribles, qu'il entra presque dans le désespoir de son salut. Mais se voyant dans cette angoisse, il s'adressa à la Mère de bonté l'appelant à son secours, laquelle lui apparut aussitôt et le consola beaucoup, lui ôtant de l'esprit toutes les imaginations qui le troublaient, et le laissant dans une grande paix. Son Abbé, admirant cette faveur, et lui ayant demandé quelle dévotion il avait accoutumé de pratiquer envers cette divine Mère: «Mon Père, lui répondit-il, je lui ai toujours porté tant d'honneur, que je n'ai jamais ouï prononcer son saint nom de Marie que je n'aie aussitôt fléchi le genou pour l'honorer.»
+
+Sainte Opportune, Vierge, native d'Yesme en Normandie au diocèse de Séez, religieuse de l'Ordre de Saint-Benoît et Abbesse d'un Monastère qui s'appelle maintenant Almanesche, étant au lit malade, fut visitée de sainte Cécile et de sainte Luce, Vierges et Martyres, qui lui annoncèrent que la Reine des Anges la viendrait bientôt prendre pour la conduire au ciel. Peu après, comme on la voyait tendre à la fin, et que les religieuses chantaient autour de son lit, tout d'un coup elle s'assit sur sa couche et dit: «La voilà, l'immaculée Mère de Dieu, à qui je vous recommanderai toutes, puisque je ne vous verrai plus en cette vie.» Cela dit, elle étendit les mains, comme ___________________
+
+1. Lib. 4, cap. 41. si elle l'eût aperçue sur son lit, et en cette manière elle rendit doucement son âme entre les bras de sa très chère Mère, qui, la logeant dans son Cœur, l'emporta avec elle dans le ciel 1. O bienheureuse mort!
+
+Voilà pour les mourants et voici pour les morts.
+
+Le saint Cardinal Pierre Damien raconte 2 qu'au jour de la fête de l'Assomption de la sainte Vierge, une femme de Rome, étant dans une église de Rome qui est dédiée à la bienheureuse Vierge, et qu'on appelle Notre-Dame du Portique, elle aperçut au milieu de la foule du peuple une autre femme, qui était morte il y avait quelque temps, qu'elle avait connue et qui s'appelait Marosia, et que l'ayant abordée elle lui demanda si c'était elle: «Oui répondit-elle, c'est moi-même --Mais vous êtes morte, ajouta l'autre.--Il est vrai, répliqua Marosia, mais depuis ma mort j'ai été dans le Purgatoire, où j'ai souffert des tourments inexplicables pour des péchés d'impureté que j'ai commis étant encore bien jeune, et que j'ai confessés, mais sans en faire pénitence. Et aujourd'hui la Reine du ciel ayant prié pour nous, elle nous a délivrées, par son intercession, des peines épouvantables que nous endurions dans ce lieu de tourments, d'où elle a retiré un plus grand nombre d'âmes qu'il n'y a maintenant de personnes vivantes dans la ville de Rome. Toutes ces âmes sont ici avec moi, et nous allons dans toutes les églises consacrées à la Mère de Dieu, pour lui rendre nos actions de grâces. Et afin que vous soyez certaine que ce que je vous dis est véritable, sachez que, dans un an d'ici, vous mourrez en ce même jour.» Ayant dit cela elle disparut. En suite de quoi Marosia 3, s'étant bien préparée à la mort durant toute l'année, mourut le propre jour de l'Assomption. C'est ainsi que la bienheureuse Vierge fait ressentir les ___________________
+
+## 1. S. Adelinus, Episc. Sagiensis, in ejus vita, apud Surium, tom., 2, 22 apr
+
+## 2. Opusc. 34, cap. 3
+
+3. Il y a eu sans doute ici une distraction de l'auteur, qui lui a fait nommer la morte au lieu de la vivante. effets des grandes miséricordes de son Cœur maternel, aux vivants, aux mourants et aux morts, dont elle soit bénie, louée et glorifiée éternellement de toutes les créatures.
+
+Conformément à cela je trouve dans le saint religieux Denys le Chartreux, au sermon second qu'il a fait de l'Assomption de la glorieuse Vierge, qu'elle descend tous les ans dans le Purgatoire, en la fête de Noël, pour en délivrer les âmes de ceux qu'on lui a recommandés, parce que c'est en ce jour qu'elle a enfanté le Rédempteur de tous les hommes. O très sacrée Mère de notre Sauveur, quel esprit pourrait concevoir, et quelle langue pourrait exprimer les obligations incomparables que nous avons à votre Cœur maternel, qui est si rempli de bonté, de bénignité et de miséricorde au regard de nous? Oh! comme est-il possible que tous les cœurs des enfants d'Adam ne soient point appliqués continuellement à aimer, à honorer et à magnifier incessamment votre très digne et très aimable Cœur!
+
+Addition.
+
+J'ajouterai ici, pour une plus grande confirmation de l'histoire sus-alléguée, que je connais deux personnages de rare vertu et très dignes de foi, qui mont assuré d'avoir vu, à Rome, ce qui est rapporté ci-dessus par le saint Cardinal Pierre Damien, écrit en lettres d'or sur un marbre blanc qui est au bout du grand autel de l'église de Notre-Dame du Portique, dans laquelle la chose susdite est arrivée.

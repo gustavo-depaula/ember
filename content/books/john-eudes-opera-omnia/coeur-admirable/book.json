@@ -1,0 +1,1114 @@
+{
+  "id": "eudes-coeur-admirable",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Le Cœur admirable de la très sacrée Mère de Dieu",
+    "en-US": "The Admirable Heart of the Most Sacred Mother of God",
+    "pt-BR": "O Coração admirável da santíssima Mãe de Deus"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "La grande œuvre de Jean Eudes (douze livres, 1681) : la dévotion au Cœur de Marie et, en elle, au Cœur de Jésus. Les livres I à IV, V à IX et X à XII sont dans les tomes VI, VII et VIII des Œuvres complètes.",
+    "en-US": "John Eudes’s great work (twelve books, 1681): devotion to the Heart of Mary and, in her, to the Heart of Jesus. Books I–IV, V–IX and X–XII are in volumes VI, VII and VIII of the Complete Works.",
+    "pt-BR": "A grande obra de João Eudes (doze livros, 1681): a devoção ao Coração de Maria e, nele, ao Coração de Jesus. Os livros I a IV, V a IX e X a XII estão nos tomos VI, VII e VIII das Obras completas."
+  },
+  "composed": 1681,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/coeur-admirable",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_6)_000000351.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 6, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    },
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_7)_000000352.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 7, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    },
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_8)_000000353.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 8, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "avant-01",
+      "title": {
+        "fr-FR": "Avant-propos (1): Le cœur admirable"
+      }
+    },
+    {
+      "id": "avant-02",
+      "title": {
+        "fr-FR": "Avant-propos (2): La doctrine du « cœur admirable »"
+      }
+    },
+    {
+      "id": "avant-03",
+      "title": {
+        "fr-FR": "Avant-propos (3)"
+      }
+    },
+    {
+      "id": "avant-04",
+      "title": {
+        "fr-FR": "Avant-propos (4)"
+      }
+    },
+    {
+      "id": "avant-05",
+      "title": {
+        "fr-FR": "Avant-propos (5): Toutefois, le Vénérable attire notre attention"
+      }
+    },
+    {
+      "id": "avant-06",
+      "title": {
+        "fr-FR": "Avant-propos (6)"
+      }
+    },
+    {
+      "id": "avant-07",
+      "title": {
+        "fr-FR": "Avant-propos (7)"
+      }
+    },
+    {
+      "id": "avant-08",
+      "title": {
+        "fr-FR": "Avant-propos (8)"
+      }
+    },
+    {
+      "id": "avant-09",
+      "title": {
+        "fr-FR": "Avant-propos (9)"
+      }
+    },
+    {
+      "id": "avant-10",
+      "title": {
+        "fr-FR": "Avant-propos (10)"
+      }
+    },
+    {
+      "id": "avant-11",
+      "title": {
+        "fr-FR": "Avant-propos (11): Marguerite marie"
+      }
+    },
+    {
+      "id": "avant-12",
+      "title": {
+        "fr-FR": "Avant-propos (12)"
+      }
+    },
+    {
+      "id": "avant-13",
+      "title": {
+        "fr-FR": "Avant-propos (13): Les sources du «cœur admirable.»"
+      }
+    },
+    {
+      "id": "avant-14",
+      "title": {
+        "fr-FR": "Avant-propos (14)"
+      }
+    },
+    {
+      "id": "avant-15",
+      "title": {
+        "fr-FR": "Préface dont la lecture est nécessaire"
+      }
+    },
+    {
+      "id": "livre-01",
+      "title": {
+        "fr-FR": "Livre premier"
+      },
+      "children": [
+        {
+          "id": "livre-01-01",
+          "title": {
+            "fr-FR": "Livre premier: Qui fait voir ce que c'est que le cœur de la bienheureuse vierge"
+          }
+        },
+        {
+          "id": "livre-01-02",
+          "title": {
+            "fr-FR": "Chapitre I. Que le Cœur de la très sacrée Vierge est bien appelé le Cœur admirable; que c'est un abîme"
+          }
+        },
+        {
+          "id": "livre-01-03",
+          "title": {
+            "fr-FR": "Chapitre II. Ce que l'on entend par le Cœur de la très sacré Vierge"
+          }
+        },
+        {
+          "id": "livre-01-04",
+          "title": {
+            "fr-FR": "Chapitre III. Le Cœur corporel de la très sainte Mère de Dieu (1)"
+          }
+        },
+        {
+          "id": "livre-01-05",
+          "title": {
+            "fr-FR": "Chapitre III. Le Cœur corporel de la très sainte Mère de Dieu (2)"
+          }
+        },
+        {
+          "id": "livre-01-06",
+          "title": {
+            "fr-FR": "Chapitre III. Le Cœur corporel de la très sainte Mère de Dieu (3)"
+          }
+        },
+        {
+          "id": "livre-01-07",
+          "title": {
+            "fr-FR": "Chapitre IV. Le Cœur spirituel de la bienheureuse Vierge"
+          }
+        },
+        {
+          "id": "livre-01-08",
+          "title": {
+            "fr-FR": "Chapitre V. Le Cœur divin de la Mère de Dieu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-02",
+      "title": {
+        "fr-FR": "Livre second"
+      },
+      "children": [
+        {
+          "id": "livre-02-01",
+          "title": {
+            "fr-FR": "Livre second: Beaux tableaux de ce cœur virginal"
+          }
+        },
+        {
+          "id": "livre-02-02",
+          "title": {
+            "fr-FR": "Chapitre I. La première origine et le premier fondement de la dévotion au très saint Cœur de la bienheureuse (1)"
+          }
+        },
+        {
+          "id": "livre-02-03",
+          "title": {
+            "fr-FR": "Chapitre I. La première origine et le premier fondement de la dévotion au très saint Cœur de la bienheureuse (2)"
+          }
+        },
+        {
+          "id": "livre-02-04",
+          "title": {
+            "fr-FR": "Chapitre I. La première origine et le premier fondement de la dévotion au très saint Cœur de la bienheureuse (3): Ps. LXXIII, 12"
+          }
+        },
+        {
+          "id": "livre-02-05",
+          "title": {
+            "fr-FR": "Chapitre V. Quatrième tableau, dans lequel le Cœur de la Mère de Dieu est représenté comme une belle"
+          }
+        },
+        {
+          "id": "livre-02-06",
+          "title": {
+            "fr-FR": "Chapitre VI. Cinquième tableau, dans lequel le Cœur de la Mère de Dieu est dépeint comme une Mer (1)"
+          }
+        },
+        {
+          "id": "livre-02-07",
+          "title": {
+            "fr-FR": "Chapitre VI. Cinquième tableau, dans lequel le Cœur de la Mère de Dieu est dépeint comme une Mer (2): Ps. LXIII, 7"
+          }
+        },
+        {
+          "id": "livre-02-08",
+          "title": {
+            "fr-FR": "Chapitre VI I. Sixième tableau du très saint Cœur de la bienheureuse Vierge, qui est le Paradis terrestre (1)"
+          }
+        },
+        {
+          "id": "livre-02-09",
+          "title": {
+            "fr-FR": "Chapitre VI I. Sixième tableau du très saint Cœur de la bienheureuse Vierge, qui est le Paradis terrestre (2)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-03",
+      "title": {
+        "fr-FR": "Livre troisième"
+      },
+      "children": [
+        {
+          "id": "livre-03-01",
+          "title": {
+            "fr-FR": "Livre troisième: Livre troisieme"
+          }
+        },
+        {
+          "id": "livre-03-02",
+          "title": {
+            "fr-FR": "Chapitre I. Septième tableau du Cœur sacré de la Mère de Dieu, qui est le Buisson ardent que Moïse vit sur"
+          }
+        },
+        {
+          "id": "livre-03-03",
+          "title": {
+            "fr-FR": "Chapitre II. Huitième tableau, dans lequel le Cœur sacré de la très sainte Vierge est dépeint comme une"
+          }
+        },
+        {
+          "id": "livre-03-04",
+          "title": {
+            "fr-FR": "Chapitre III. Neuvième tableau du très saint Cœur de la glorieuse Vierge, qui est l e Trône royal de"
+          }
+        },
+        {
+          "id": "livre-03-05",
+          "title": {
+            "fr-FR": "Chapitre IV. Dixième tableau du très saint Cœur de la bienheureuse Vierge, qui est le Temple merveilleux de (1)"
+          }
+        },
+        {
+          "id": "livre-03-06",
+          "title": {
+            "fr-FR": "Chapitre IV. Dixième tableau du très saint Cœur de la bienheureuse Vierge, qui est le Temple merveilleux de (2)"
+          }
+        },
+        {
+          "id": "livre-03-07",
+          "title": {
+            "fr-FR": "Chapitre IV. Dixième tableau du très saint Cœur de la bienheureuse Vierge, qui est le Temple merveilleux de (3)"
+          }
+        },
+        {
+          "id": "livre-03-08",
+          "title": {
+            "fr-FR": "Chapitre V. Onzième tableau du très saint Cœur de la bienheureuse V ierge , qui est la Fournaise des trois"
+          }
+        },
+        {
+          "id": "livre-03-09",
+          "title": {
+            "fr-FR": "Chapitre VI. Le douzième tableau du très saint Cœur de la bienheureuse Vierge, qui est le Calvaire"
+          }
+        },
+        {
+          "id": "livre-03-10",
+          "title": {
+            "fr-FR": "Chapitre VII. Conclusion de tout ce qui a été dit touchant les douze tableaux du très saint Cœur de la"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-04",
+      "title": {
+        "fr-FR": "Livre quatrième"
+      },
+      "children": [
+        {
+          "id": "livre-04-01",
+          "title": {
+            "fr-FR": "Livre quatrième: Livre quatrieme"
+          }
+        },
+        {
+          "id": "livre-04-02",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur adorable de Jésus est l'un des fondements de la dévotion au sacré (1)"
+          }
+        },
+        {
+          "id": "livre-04-03",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur adorable de Jésus est l'un des fondements de la dévotion au sacré (2)"
+          }
+        },
+        {
+          "id": "livre-04-04",
+          "title": {
+            "fr-FR": "Chapitre IV. Que le Cœur de la très précieuse Vierge est une image vivante de l a divine Pureté et Sainteté"
+          }
+        },
+        {
+          "id": "livre-04-05",
+          "title": {
+            "fr-FR": "Chapitre V. Que le Cœur de la Mère de Jésus est une illustre ressemblance de la Force et de la Puissance de (1)"
+          }
+        },
+        {
+          "id": "livre-04-06",
+          "title": {
+            "fr-FR": "Chapitre V. Que le Cœur de la Mère de Jésus est une illustre ressemblance de la Force et de la Puissance de (2)"
+          }
+        },
+        {
+          "id": "livre-04-07",
+          "title": {
+            "fr-FR": "Chapitre VII. Que le Cœur de la Mère de Jésus porte en soi une trè s vive ressemblance de la Bonté de Dieu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-05",
+      "title": {
+        "fr-FR": "Livre cinquième"
+      },
+      "children": [
+        {
+          "id": "livre-05-01",
+          "title": {
+            "fr-FR": "Livre cinquième: Livre cinquieme"
+          }
+        },
+        {
+          "id": "livre-05-02",
+          "title": {
+            "fr-FR": "Chapitre I. Que le cœur de la très pieuse Vierge est une image vivante de la divine Miséricorde: 1 Ps. CXLIV, 9"
+          }
+        },
+        {
+          "id": "livre-05-03",
+          "title": {
+            "fr-FR": "Chapitre II"
+          }
+        },
+        {
+          "id": "livre-05-04",
+          "title": {
+            "fr-FR": "Chapitre III. Le Cœur de la très sainte Vierge est une image parfaite de la Justice de Dieu; et de"
+          }
+        },
+        {
+          "id": "livre-05-05",
+          "title": {
+            "fr-FR": "Chapitre IV. Que le Cœur sacré de la bienheureuse Vierge porte en soi une vive ressemblance du Zèle que"
+          }
+        },
+        {
+          "id": "livre-05-06",
+          "title": {
+            "fr-FR": "Chapitre V. Que le Cœur de la Mère de Dieu est une vive ressemblance de sa divine Souveraineté"
+          }
+        },
+        {
+          "id": "livre-05-07",
+          "title": {
+            "fr-FR": "Chapitre VI. Que le Cœur de la glorieuse Vierge est une parfaite expression et un merveilleux abrégé de la"
+          }
+        },
+        {
+          "id": "livre-05-08",
+          "title": {
+            "fr-FR": "Chapitre VII,. Que le Cœur de la Mère de Dieu porte en soi une excellente ressemblance de la Paix de Dieu"
+          }
+        },
+        {
+          "id": "livre-05-09",
+          "title": {
+            "fr-FR": "Chapitre VIII. Que le Cœur de la glorieuse Vierge porte en soi une image vivante de la Gloire et de la"
+          }
+        },
+        {
+          "id": "livre-05-10",
+          "title": {
+            "fr-FR": "Chapitre IX. Que le Cœur de la bienheureuse Vierge est une merveilleuse ressemblance de la très sainte"
+          }
+        },
+        {
+          "id": "livre-05-11",
+          "title": {
+            "fr-FR": "Chapitre X. Que le Cœur de la très sainte Vierge porte en soi une parfaite ressemblance de la seconde"
+          }
+        },
+        {
+          "id": "livre-05-12",
+          "title": {
+            "fr-FR": "Chapitre XI. Que le Cœur de la bienheureuse Vierge est la source, avec le Fils de Dieu, de tous les biens"
+          }
+        },
+        {
+          "id": "livre-05-13",
+          "title": {
+            "fr-FR": "Chapitre XII. Que le Cœur de la bienheureuse Vierge porte en soi une parfaite ressemblance de la troisième"
+          }
+        },
+        {
+          "id": "livre-05-14",
+          "title": {
+            "fr-FR": "Chapitre XIII. Que le Cœur de la bienheureuse Vierge est tout transformé en Dieu et en ses divines"
+          }
+        },
+        {
+          "id": "livre-05-15",
+          "title": {
+            "fr-FR": "Chapitre XIV. Confirmation de toutes les choses susdites"
+          }
+        },
+        {
+          "id": "livre-05-16",
+          "title": {
+            "fr-FR": "Chapitre XV. Exhortation très douce et très puissante de notre Sauveur à toutes les âmes chrétiennes, pour"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-06",
+      "title": {
+        "fr-FR": "Livre sixième"
+      },
+      "children": [
+        {
+          "id": "livre-06-01",
+          "title": {
+            "fr-FR": "Livre sixième: Livre sixieme"
+          }
+        },
+        {
+          "id": "livre-06-02",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur du Saint-Esprit est le fondement de la dévotion au très saint Cœur de (1): Premier oracle des divines écritures"
+          }
+        },
+        {
+          "id": "livre-06-03",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur du Saint-Esprit est le fondement de la dévotion au très saint Cœur de (2): Nullus dolor crudelior,"
+          }
+        },
+        {
+          "id": "livre-06-04",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur du Saint-Esprit est le fondement de la dévotion au très saint Cœur de (3)"
+          }
+        },
+        {
+          "id": "livre-06-05",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur du Saint-Esprit est le fondement de la dévotion au très saint Cœur de (4): Section première"
+          }
+        },
+        {
+          "id": "livre-06-06",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur du Saint-Esprit est le fondement de la dévotion au très saint Cœur de (5): O Virgo, raptrix cordium,"
+          }
+        },
+        {
+          "id": "livre-06-07",
+          "title": {
+            "fr-FR": "Chapitre I. De quelle manière le Cœur du Saint-Esprit est le fondement de la dévotion au très saint Cœur de (6)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-07",
+      "title": {
+        "fr-FR": "Livre septième"
+      },
+      "children": [
+        {
+          "id": "livre-07-01",
+          "title": {
+            "fr-FR": "Livre septième"
+          }
+        },
+        {
+          "id": "livre-07-02",
+          "title": {
+            "fr-FR": "Chapitre I. Le Saint-Esprit nous prêche cette dévotion par douze saints Pères (1)"
+          }
+        },
+        {
+          "id": "livre-07-03",
+          "title": {
+            "fr-FR": "Chapitre I. Le Saint-Esprit nous prêche cette dévotion par douze saints Pères (2)"
+          }
+        },
+        {
+          "id": "livre-07-04",
+          "title": {
+            "fr-FR": "Chapitre I. Le Saint-Esprit nous prêche cette dévotion par douze saints Pères (3): Psal. B.V. Ps. 79"
+          }
+        },
+        {
+          "id": "livre-07-05",
+          "title": {
+            "fr-FR": "Chapitre II. Contenant quatre pieux et savants Auteurs, qui sont comme quatre Évangélistes, par la plume"
+          }
+        },
+        {
+          "id": "livre-07-06",
+          "title": {
+            "fr-FR": "Chapitre III. Contenant douze Apôtres du divin Cœur de la glorieuse Vierge, par lesquels le Saint-Esprit (1): I.--suarès 2"
+          }
+        },
+        {
+          "id": "livre-07-07",
+          "title": {
+            "fr-FR": "Chapitre III. Contenant douze Apôtres du divin Cœur de la glorieuse Vierge, par lesquels le Saint-Esprit (2): Joannes eusebius nierembergius 1"
+          }
+        },
+        {
+          "id": "livre-07-08",
+          "title": {
+            "fr-FR": "Chapitre III. Contenant douze Apôtres du divin Cœur de la glorieuse Vierge, par lesquels le Saint-Esprit (3): Le révérend père françois poiré 1"
+          }
+        },
+        {
+          "id": "livre-07-09",
+          "title": {
+            "fr-FR": "Chapitre III. Contenant douze Apôtres du divin Cœur de la glorieuse Vierge, par lesquels le Saint-Esprit (4): Cornelius a lapide 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-08",
+      "title": {
+        "fr-FR": "Livre huitième"
+      },
+      "children": [
+        {
+          "id": "livre-08-01",
+          "title": {
+            "fr-FR": "Livre huitième: Livre huitieme"
+          }
+        },
+        {
+          "id": "livre-08-02",
+          "title": {
+            "fr-FR": "Chapitre I. Deux Papes, un Légat a latere et un saint Cardinal autorisent la dévotion au sacré Cœur de la"
+          }
+        },
+        {
+          "id": "livre-08-03",
+          "title": {
+            "fr-FR": "Chapitre II. Quinze très illustres Archevêques et Évêques approuvent et autorisent la Dévotion, l'Office et (1)"
+          }
+        },
+        {
+          "id": "livre-08-04",
+          "title": {
+            "fr-FR": "Chapitre II. Quinze très illustres Archevêques et Évêques approuvent et autorisent la Dévotion, l'Office et (2): De monseigneur l'évêque de toul, prince du saint-empire, conseiller"
+          }
+        },
+        {
+          "id": "livre-08-05",
+          "title": {
+            "fr-FR": "Chapitre III. Plusieurs Saints et Saintes qui ont eu dévotion particulière au sacré Cœur de la bienheureuse (1)"
+          }
+        },
+        {
+          "id": "livre-08-06",
+          "title": {
+            "fr-FR": "Chapitre III. Plusieurs Saints et Saintes qui ont eu dévotion particulière au sacré Cœur de la bienheureuse (2)"
+          }
+        },
+        {
+          "id": "livre-08-07",
+          "title": {
+            "fr-FR": "Chapitre III. Plusieurs Saints et Saintes qui ont eu dévotion particulière au sacré Cœur de la bienheureuse (3)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-09",
+      "title": {
+        "fr-FR": "Livre neuvième"
+      },
+      "children": [
+        {
+          "id": "livre-09-01",
+          "title": {
+            "fr-FR": "Livre neuvième: Livre neuvieme"
+          }
+        },
+        {
+          "id": "livre-09-02",
+          "title": {
+            "fr-FR": "Chapitre I. Première Excellence du très saint Cœur de la glorieuse Vierge. Qu'il a toujours été très pur et"
+          }
+        },
+        {
+          "id": "livre-09-03",
+          "title": {
+            "fr-FR": "Chapitre II. Seconde Excellence du très Saint Cœur de la glorieuse Vierge. Que c'est une Mer de grâce"
+          }
+        },
+        {
+          "id": "livre-09-04",
+          "title": {
+            "fr-FR": "Chapitre III. Troisième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un miracle d'amour"
+          }
+        },
+        {
+          "id": "livre-09-05",
+          "title": {
+            "fr-FR": "Chapitre IV. La quatrième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le Miroir de la"
+          }
+        },
+        {
+          "id": "livre-09-06",
+          "title": {
+            "fr-FR": "Chapitre V. La cinquième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un abîme (1)"
+          }
+        },
+        {
+          "id": "livre-09-07",
+          "title": {
+            "fr-FR": "Chapitre V. La cinquième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un abîme (2)"
+          }
+        },
+        {
+          "id": "livre-09-08",
+          "title": {
+            "fr-FR": "Chapitre VI. La sixième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le trône de la (1)"
+          }
+        },
+        {
+          "id": "livre-09-09",
+          "title": {
+            "fr-FR": "Chapitre VI. La sixième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le trône de la (2): Mythol. lib. 4"
+          }
+        },
+        {
+          "id": "livre-09-10",
+          "title": {
+            "fr-FR": "Chapitre VII. Septième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est l'empire de la"
+          }
+        },
+        {
+          "id": "livre-09-11",
+          "title": {
+            "fr-FR": "Chapitre VIII. Huitième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le sacraire des"
+          }
+        },
+        {
+          "id": "livre-09-12",
+          "title": {
+            "fr-FR": "Chapitre IX. Le fruit qu'il faut tirer des choses qui sont contenues dans le chapitre précédent 5 9 6"
+          }
+        },
+        {
+          "id": "livre-09-13",
+          "title": {
+            "fr-FR": "Chapitre X. La neuvième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un trésor"
+          }
+        },
+        {
+          "id": "livre-09-14",
+          "title": {
+            "fr-FR": "Chapitre XI. La dixième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le sanctuaire, la"
+          }
+        },
+        {
+          "id": "livre-09-15",
+          "title": {
+            "fr-FR": "Chapitre XII. Onzième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le Centre de la (1)"
+          }
+        },
+        {
+          "id": "livre-09-16",
+          "title": {
+            "fr-FR": "Chapitre XII. Onzième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le Centre de la (2)"
+          }
+        },
+        {
+          "id": "livre-09-17",
+          "title": {
+            "fr-FR": "Chapitre XIII. Douzième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est le premier objet"
+          }
+        },
+        {
+          "id": "livre-09-18",
+          "title": {
+            "fr-FR": "Chapitre XIV. Treizième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un monde de (1)"
+          }
+        },
+        {
+          "id": "livre-09-19",
+          "title": {
+            "fr-FR": "Chapitre XIV. Treizième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un monde de (2)"
+          }
+        },
+        {
+          "id": "livre-09-20",
+          "title": {
+            "fr-FR": "Chapitre XIV. Treizième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un monde de (3): Section x.-- plusieurs autres saints peres des siecles; suivants"
+          }
+        },
+        {
+          "id": "livre-09-21",
+          "title": {
+            "fr-FR": "Chapitre XIV. Treizième Excellence du très saint Cœur de la bienheureuse Vierge. Que c'est un monde de (4)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-10",
+      "title": {
+        "fr-FR": "Livre dixième"
+      },
+      "children": [
+        {
+          "id": "livre-10-01",
+          "title": {
+            "fr-FR": "Livre dixième: Contenant le sacré cantique du très saint cœur"
+          }
+        },
+        {
+          "id": "livre-10-02",
+          "title": {
+            "fr-FR": "Chapitre I Excellence de ce Cantique: Excellence de ce Cantique"
+          }
+        },
+        {
+          "id": "livre-10-03",
+          "title": {
+            "fr-FR": "Chapitre II Raisons pour lesquelles le Magnificat: Raisons pour lesquelles le Magnificat"
+          }
+        },
+        {
+          "id": "livre-10-04",
+          "title": {
+            "fr-FR": "Chapitre III Explication du premier verset: Explication du premier verset"
+          }
+        },
+        {
+          "id": "livre-10-05",
+          "title": {
+            "fr-FR": "Chapitre IV Explication du second verset: Explication du second verset"
+          }
+        },
+        {
+          "id": "livre-10-06",
+          "title": {
+            "fr-FR": "Chapitre V Explication du troisième verset: Explication du troisième verset"
+          }
+        },
+        {
+          "id": "livre-10-07",
+          "title": {
+            "fr-FR": "Chapitre VI Explication de la seconde partie du troisième verset"
+          }
+        },
+        {
+          "id": "livre-10-08",
+          "title": {
+            "fr-FR": "Chapitre VII: Explication du quatrième verset"
+          }
+        },
+        {
+          "id": "livre-10-09",
+          "title": {
+            "fr-FR": "Chapitre VIII Explication du cinquième verset: Et misericordia ejus a progenie in progenies timentibus eum"
+          }
+        },
+        {
+          "id": "livre-10-10",
+          "title": {
+            "fr-FR": "Chapitre IX. Explication du sixième verset: Fecit potentiam in brachio suo: dispersit superbos mente cordis"
+          }
+        },
+        {
+          "id": "livre-10-11",
+          "title": {
+            "fr-FR": "Chapitre X Explication de ces paroles: Explication de ces paroles"
+          }
+        },
+        {
+          "id": "livre-10-12",
+          "title": {
+            "fr-FR": "Chapitre XI Explication du septième verset: Explication du septième verset"
+          }
+        },
+        {
+          "id": "livre-10-13",
+          "title": {
+            "fr-FR": "Chapitre XII Explication du huitième verset: Explication du huitième verset"
+          }
+        },
+        {
+          "id": "livre-10-14",
+          "title": {
+            "fr-FR": "Chapitre XIII Explication du neuvième verset: Explication du neuvième verset"
+          }
+        },
+        {
+          "id": "livre-10-15",
+          "title": {
+            "fr-FR": "Chapitre XIV Explication du dixième verset du divin Cantique de la bienheureuse Vierge: Sicut locutus est ad patres"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-11",
+      "title": {
+        "fr-FR": "Livre onzième"
+      },
+      "children": [
+        {
+          "id": "livre-11-01",
+          "title": {
+            "fr-FR": "Livre onzième: Contenant plusieurs raisons qui nous obligent"
+          }
+        },
+        {
+          "id": "livre-11-02",
+          "title": {
+            "fr-FR": "Chapitre I Douze Raisons qui nous doivent porter à honorer le très saint Cœur de: La bienheureuse Vierge"
+          }
+        },
+        {
+          "id": "livre-11-03",
+          "title": {
+            "fr-FR": "Chapitre II (1)"
+          }
+        },
+        {
+          "id": "livre-11-04",
+          "title": {
+            "fr-FR": "Chapitre II (2): Pour le jour de la fête"
+          }
+        },
+        {
+          "id": "livre-11-05",
+          "title": {
+            "fr-FR": "Chapitre II (3): Pour le cinquième jour de l'octave"
+          }
+        },
+        {
+          "id": "livre-11-06",
+          "title": {
+            "fr-FR": "Chapitre II (4): Seconde méditation"
+          }
+        },
+        {
+          "id": "livre-11-07",
+          "title": {
+            "fr-FR": "Chapitre II (5): Septième méditation"
+          }
+        },
+        {
+          "id": "livre-11-08",
+          "title": {
+            "fr-FR": "Chapitre II (6): Du très saint cœur de la bienheureuse vierge"
+          }
+        },
+        {
+          "id": "livre-11-09",
+          "title": {
+            "fr-FR": "Chapitre II (7): Pour le jour de l'octave"
+          }
+        }
+      ]
+    },
+    {
+      "id": "livre-12",
+      "title": {
+        "fr-FR": "Livre douzième"
+      },
+      "children": [
+        {
+          "id": "livre-12-01",
+          "title": {
+            "fr-FR": "Livre douzième: Du divin cœur de jésus"
+          }
+        },
+        {
+          "id": "livre-12-02",
+          "title": {
+            "fr-FR": "Chapitre I. Que le divin Cœur de Jésus est la Couronne de la gloire du très saint Cœur de Marie"
+          }
+        },
+        {
+          "id": "livre-12-03",
+          "title": {
+            "fr-FR": "Chapitre II. Que le divin Cœur de Jésus est une Fournaise d'amour très ardente au regard du Père éternel"
+          }
+        },
+        {
+          "id": "livre-12-04",
+          "title": {
+            "fr-FR": "Chapitre III. Que le divin Cœur de Jésus est une Fournaise d'amour a u regard de sa très sainte Mère, dont"
+          }
+        },
+        {
+          "id": "livre-12-05",
+          "title": {
+            "fr-FR": "Chapitre IV. Autre privilège dont notre Sauveur honore sa très sainte 15 Eccli. XIV, 15"
+          }
+        },
+        {
+          "id": "livre-12-06",
+          "title": {
+            "fr-FR": "Chapitre V. Que l'amour infini de Jésus au regard de sa très sainte Mère remplit son divin Cœur de douleurs"
+          }
+        },
+        {
+          "id": "livre-12-07",
+          "title": {
+            "fr-FR": "Chapitre VI. Exercices d'amour et de piété sur les douleurs du divin Cœur de Jésus et du sacré Cœur de sa"
+          }
+        },
+        {
+          "id": "livre-12-08",
+          "title": {
+            "fr-FR": "Chapitre VII. Que le divin Cœur de Jésus est une fournaise d'amour a u regard de l'Église triomphante"
+          }
+        },
+        {
+          "id": "livre-12-09",
+          "title": {
+            "fr-FR": "Chapitre VIII. Que le divin Cœur de Jésus est une fournaise d'amour a u regard d'un chacun de nous"
+          }
+        },
+        {
+          "id": "livre-12-10",
+          "title": {
+            "fr-FR": "Chapitre IX. Que le divin Cœur de Jésus est une fournaise d'amour a u regard de nous dans le très saint"
+          }
+        },
+        {
+          "id": "livre-12-11",
+          "title": {
+            "fr-FR": "Chapitre X. Que le divin Cœur de Jésus est une fournaise d'amour a u regard de nous dans sa sainte Passion"
+          }
+        },
+        {
+          "id": "livre-12-12",
+          "title": {
+            "fr-FR": "Chapitre XI. Que le Cœur de Jésus n'est qu'un avec le Cœur du Père e t du Saint-Esprit; et que le Cœur"
+          }
+        },
+        {
+          "id": "livre-12-13",
+          "title": {
+            "fr-FR": "Chapitre XII. Que le divin Cœur de Jésus est un trésor immense; qu'il est tout à nous; et le saint usage que"
+          }
+        },
+        {
+          "id": "livre-12-14",
+          "title": {
+            "fr-FR": "Chapitre XIII. Que notre aimable Jésus nous aime comme son P ère l'aime; et ce que nous devons faire pour"
+          }
+        },
+        {
+          "id": "livre-12-15",
+          "title": {
+            "fr-FR": "Chapitre XIV. Belles paroles du saint docteur Lansperge, C hartreux , sur le divin Cœur de notre Sauveur"
+          }
+        },
+        {
+          "id": "livre-12-16",
+          "title": {
+            "fr-FR": "Chapitre XV. Le Séraphique saint Bonaventure parlant du divin Cœur de Jésus"
+          }
+        },
+        {
+          "id": "livre-12-17",
+          "title": {
+            "fr-FR": "Chapitre XVI. Exercices d'amour et de piété vers l'aimable Cœur d e Jésus, tirés de divers endroits du livre"
+          }
+        },
+        {
+          "id": "livre-12-18",
+          "title": {
+            "fr-FR": "Chapitre XVII. Autre exercice d'amour vers le divin Cœur de Jésus tiré des Exercices de sainte Gertrude sur"
+          }
+        },
+        {
+          "id": "livre-12-19",
+          "title": {
+            "fr-FR": "Chapitre XVIII. Entretien d'une sainte âme, dans la solitude, avec l e divin Cœur de Jésus"
+          }
+        },
+        {
+          "id": "livre-12-20",
+          "title": {
+            "fr-FR": "Chapitre XX. Quarante flammes ou aspirations d'amour vers l'aimable Cœur de Jésus (1)"
+          }
+        },
+        {
+          "id": "livre-12-21",
+          "title": {
+            "fr-FR": "Chapitre XX. Quarante flammes ou aspirations d'amour vers l'aimable Cœur de Jésus (2): Quatrième méditation"
+          }
+        },
+        {
+          "id": "livre-12-22",
+          "title": {
+            "fr-FR": "Chapitre XX. Quarante flammes ou aspirations d'amour vers l'aimable Cœur de Jésus (3): Huitieme méditation"
+          }
+        },
+        {
+          "id": "livre-12-23",
+          "title": {
+            "fr-FR": "Chapitre XX. Quarante flammes ou aspirations d'amour vers l'aimable Cœur de Jésus (4): Oraison jaculatoire"
+          }
+        },
+        {
+          "id": "livre-12-24",
+          "title": {
+            "fr-FR": "Chapitre XX. Quarante flammes ou aspirations d'amour vers l'aimable Cœur de Jésus (5): Huitieme méditation"
+          }
+        },
+        {
+          "id": "livre-12-25",
+          "title": {
+            "fr-FR": "Chapitre XX. Quarante flammes ou aspirations d'amour vers l'aimable Cœur de Jésus (6): En l'honneur du très adorable cœur de jésus"
+          }
+        },
+        {
+          "id": "livre-12-26",
+          "title": {
+            "fr-FR": "ADDITION AU XII LIVRE e (1): Approbations de l'office et de la fête"
+          }
+        },
+        {
+          "id": "livre-12-27",
+          "title": {
+            "fr-FR": "ADDITION AU XII LIVRE e (2): Lettre de mgr l'évêque de tréguier"
+          }
+        }
+      ]
+    }
+  ]
+}
