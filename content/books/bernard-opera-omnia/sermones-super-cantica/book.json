@@ -1,0 +1,558 @@
+{
+  "id": "bernard-sermones-super-cantica",
+  "cover": "classic",
+  "name": {
+    "la": "Sermones super Cantica canticorum",
+    "en-US": "Sermons on the Song of Songs",
+    "pt-BR": "Sermões sobre o Cântico dos Cânticos"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Octoginta et sex sermones quos Bernardus in capitulo Claraevallensi habuit, ab anno circiter 1135 usque ad mortem suam, de primis duobus Cantici capitibus: opus mysticum de unione animae cum Verbo. Textus ex editione Mabillonii in Migne (Patrologia Latina 183, 1854).",
+    "en-US": "The eighty-six sermons Bernard preached to his monks at Clairvaux from about 1135 until his death, an allegorical commentary on the first two chapters of the Song of Songs and the great classic of medieval love mysticism: the soul’s union with the Word. Latin only, from the Maurist text in Migne (Patrologia Latina 183, 1854), a machine-corrected OCR; Mabillon’s note on the Evervin letter is kept at the end of Sermon 64.",
+    "pt-BR": "Os oitenta e seis sermões que Bernardo pregou aos seus monges em Claraval, a partir de cerca de 1135 até à morte, comentário alegórico dos dois primeiros capítulos do Cântico dos Cânticos e grande clássico da mística medieval do amor: a união da alma com o Verbo."
+  },
+  "composed": "1135-1153",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/sermones-super-cantica",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 183)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=11258",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 183 (Paris 1854), Sermones in Cantica canticorum; TEI XML of the Corpus Corporum (University of Zurich), text 11258, from machine-corrected OCR.",
+      "description": "All eighty-six sermons. PL page breaks, column numbers and paragraph numbers are dropped; Scripture references stay in parentheses as printed. Mabillon’s editorial note on the Evervin letter, printed in the PL after Sermon 64, is kept at the end of that sermon. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s 1854 printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "s01",
+      "title": {
+        "la": "Sermo I. De ipso titulo libri: «Cantica canticorum Salomonis.»"
+      }
+    },
+    {
+      "id": "s02",
+      "title": {
+        "la": "Sermo II. De Incarnatione Christi per patriarchas et prophetas nuntiata, et ardentissime ab eis exspectata"
+      }
+    },
+    {
+      "id": "s03",
+      "title": {
+        "la": "Sermo III. De osculo pedis, manus et oris Domini, etc"
+      }
+    },
+    {
+      "id": "s04",
+      "title": {
+        "la": "Sermo IV. De triplici profectu animae, qui fit per osculum pedis, manus, et oris Domini"
+      }
+    },
+    {
+      "id": "s05",
+      "title": {
+        "la": "Sermo V. De quatuor generibus spirituum, videlicet Dei, angeli, hominis et pecoris"
+      }
+    },
+    {
+      "id": "s06",
+      "title": {
+        "la": "Sermo VI. De summo et incircumscripto Spiritu, qui est Deus: et quo modo misericordia et judicium dicantur pedes Domini"
+      }
+    },
+    {
+      "id": "s07",
+      "title": {
+        "la": "Sermo VII. De amore ardenti quo anima diligit Deum. Item de attentione tempore orationis vel psalmodiae procuranda"
+      }
+    },
+    {
+      "id": "s08",
+      "title": {
+        "la": "Sermo VIII. Quomodo per osculum oris Dei significatur Spiritus sanctus, quem Ecclesia sibi petit dari ad notitiam sanctae Trinitatis"
+      }
+    },
+    {
+      "id": "s09",
+      "title": {
+        "la": "Sermo IX. De uberibus sponsi, id est Christi, quorum unum est longanimitas exspectandi peccatores; alterum, benignitas seu facilitas eos recipiendi"
+      }
+    },
+    {
+      "id": "s10",
+      "title": {
+        "la": "Sermo X. De tribus unguentis spiritualibus, scilicet contritionis, devotionis et pietatis"
+      }
+    },
+    {
+      "id": "s11",
+      "title": {
+        "la": "Sermo XI. De duobus, hoc est fructu et modo, pertinentibus ad opus humanae redemptionis"
+      }
+    },
+    {
+      "id": "s12",
+      "title": {
+        "la": "Sermo XII. De pretioso unguento pietatis; et de veneratione a subditis erga praelatos suos exhibenda"
+      }
+    },
+    {
+      "id": "s13",
+      "title": {
+        "la": "Sermo XIII. De gloria et laude Deo semper attribuenda pro omnibus bonis ejus nobis impensis"
+      }
+    },
+    {
+      "id": "s14",
+      "title": {
+        "la": "Sermo XIV. De Ecclesia fidelium Christianorum; et de Synagoga Judaeorum perfidorum"
+      }
+    },
+    {
+      "id": "s15",
+      "title": {
+        "la": "Sermo XV. Qualiter nomen Jesus est medicina salubris fidelibus Christianis in omnibus adversis"
+      }
+    },
+    {
+      "id": "s16",
+      "title": {
+        "la": "Sermo XVI. De cordis contritione, et de tribus speciebus verae confessionis"
+      }
+    },
+    {
+      "id": "s17",
+      "title": {
+        "la": "Sermo XVII. De accessu et recessu Spiritus sancti observando, deque invidia diaboli erga genus humanum"
+      }
+    },
+    {
+      "id": "s18",
+      "title": {
+        "la": "Sermo XVIII. De duabus operationibus Spiritus sancti, quarum una vocatur effusio, et alia infusio"
+      }
+    },
+    {
+      "id": "s19",
+      "title": {
+        "la": "Sermo XIX. De natura, modo, ac proprietatibus amoris angelici erga Deum, juxta singulos angelorum ordines disserit"
+      }
+    },
+    {
+      "id": "s20",
+      "title": {
+        "la": "Sermo XX. De triplici modo dilectionis, qua Deum diligimus"
+      }
+    },
+    {
+      "id": "s21",
+      "title": {
+        "la": "Sermo XXI. Qualiter sponsa, id est Ecclesia, trahi se optat post sponsum, id est Christum"
+      }
+    },
+    {
+      "id": "s22",
+      "title": {
+        "la": "Sermo XXII. De quatuor unguentis sponsi; et totidem virtutibus cardinalibus"
+      }
+    },
+    {
+      "id": "s23",
+      "title": {
+        "la": "Sermo XXIII. De tribus modis contemplationis circa Deum, sub figura trium cellarum"
+      }
+    },
+    {
+      "id": "s24",
+      "title": {
+        "la": "Sermo XXIV. Agit praecipue contra detestabile vitium detractionis; et qua in re rectitudo hominis potissimum consistat"
+      }
+    },
+    {
+      "id": "s25",
+      "title": {
+        "la": "Sermo XXV. De nigredine et formositate sponsae, id est Ecclesiae"
+      }
+    },
+    {
+      "id": "s26",
+      "title": {
+        "la": "Sermo XXVI. In quo beatus Bernardus obitum fratris sui Girardi luget"
+      }
+    },
+    {
+      "id": "s27",
+      "title": {
+        "la": "Sermo XXVII. De ornatu sponsae, et qualiter anima sancta in coelum dicatur"
+      }
+    },
+    {
+      "id": "s28",
+      "title": {
+        "la": "Sermo XXVIII. De nigredine et formositate sponsi, et quomodo auditus potius quam visus valeat in rebus fidei, et ad notiiam veritatis"
+      }
+    },
+    {
+      "id": "s29",
+      "title": {
+        "la": "Sermo XXIX. De querimonia Ecclesiae contra suos impugnatores, vel contra illos qui impugnant unitatem fraternam"
+      }
+    },
+    {
+      "id": "s30",
+      "title": {
+        "la": "Sermo XXX. Qualiter populus fidelium seu animae electorum per vineas significantur, quarum Ecclesia custos dicitur; et de prudentia carnis, quae est mors"
+      }
+    },
+    {
+      "id": "s31",
+      "title": {
+        "la": "Sermo XXXI. De excellentia divinae visionis; et quomodo in praesenti sanctis viris gustus divinae praesentiae variatur, pro variis animae desideriis"
+      }
+    },
+    {
+      "id": "s32",
+      "title": {
+        "la": "Sermo XXXII. Qualiter Christus suscipitur ab anima sancta tanquam sponsus, et ab anima infirma tanquam medicus. Item de differentia cogitationum, unde oriantur"
+      }
+    },
+    {
+      "id": "s33",
+      "title": {
+        "la": "Sermo XXXIII. De his quae semper sectanda sunt a mente devota. Quid sit meridies, et de quatuor generibus tentationum semper evitandis"
+      }
+    },
+    {
+      "id": "s34",
+      "title": {
+        "la": "Sermo XXXIV. In quo tractatur de humilitate et patientia"
+      }
+    },
+    {
+      "id": "s35",
+      "title": {
+        "la": "Sermo XXXV. De increpatione dura, quam facit sponsus ad sponsam; et duplici ignorantia nimium pavenda et fugienda"
+      }
+    },
+    {
+      "id": "s36",
+      "title": {
+        "la": "Sermo XXXVI. Quod scientia litterarum sit bona ad instructionem, sed scientia propriae infirmitatis sit utilior ad salutem"
+      }
+    },
+    {
+      "id": "s37",
+      "title": {
+        "la": "Sermo XXXVII. De duplici notitia, et duplici ignorantia; deque malis seu damnis quae pariunt"
+      }
+    },
+    {
+      "id": "s38",
+      "title": {
+        "la": "Sermo XXXVIII. Qualiter ex ignorantia Dei nascitur desperatio, et qualiter sponsa dicatur pulchra inter mulieres"
+      }
+    },
+    {
+      "id": "s39",
+      "title": {
+        "la": "Sermo XXXIX. De curribus Pharaonis. id est diaboli, et de principibus exercitus, qui sunt malitia, luxuria, et avaritia"
+      }
+    },
+    {
+      "id": "s40",
+      "title": {
+        "la": "Sermo XL. Quod intentio sit facies animae: quae sit ejus pulchritudo aut deformitas; quoe ejusdem solitudo et audicitia"
+      }
+    },
+    {
+      "id": "s41",
+      "title": {
+        "la": "Sermo XLI. Qualiter sponsa recipit interim magnam consolationem de contemplatione divinae claritatis, antequam perveniat ad claram ejus visionem"
+      }
+    },
+    {
+      "id": "s42",
+      "title": {
+        "la": "Sermo XLII. De duplici humilitate: una videlicet, quam parit veritas; et altera, quam inflammat charitas"
+      }
+    },
+    {
+      "id": "s43",
+      "title": {
+        "la": "Sermo XLIII. Qualiter consideratio passionis et laborum Christi faciat sponsam, id est animam, pergere illaesam inter prospera et adversa hujus mundi"
+      }
+    },
+    {
+      "id": "s44",
+      "title": {
+        "la": "Sermo XLIV. De correptione pro ingenio peccantium moderanda ut nempe humiles et morigeri leniter, duri et obstinati austere corrigantur"
+      }
+    },
+    {
+      "id": "s45",
+      "title": {
+        "la": "Sermo XLV. De duplici pulchritudine animae; et qualiter anima loquitur ad Dei-Verbum, et Verbum ad animam: et quae sint eorum linguae"
+      }
+    },
+    {
+      "id": "s46",
+      "title": {
+        "la": "Sermo XLVI. De statu et compositione totius Ecclesiae. Item, quomodo per activam vitam, quae sub obedientia agitur, perveniatur ad contemplativam"
+      }
+    },
+    {
+      "id": "s47",
+      "title": {
+        "la": "Sermo XLVII. De triplici flore, scilicet virginitatis, martyrii et bonae operationis - et de devotione habenda circa divinum officium"
+      }
+    },
+    {
+      "id": "s48",
+      "title": {
+        "la": "Sermo XLVIII. De laude reciproca, quae fit inter sponsum et sponsam, et qualiter per umbram Christi intelligatur corpus et fides ejus"
+      }
+    },
+    {
+      "id": "s49",
+      "title": {
+        "la": "Sermo XLIX. Qualiter per discretionem ordinatur charitas, ut omnia membra Ecclesiae, id est electi, invicem colligentur"
+      }
+    },
+    {
+      "id": "s50",
+      "title": {
+        "la": "Sermo L. De duplici charitate, scilicet actuali et affectuali; et ejus ordinatione"
+      }
+    },
+    {
+      "id": "s51",
+      "title": {
+        "la": "Sermo LI. Qualiter sponsa petit sibi accumulari fructus bonorum operum cum floribus et odoramentis fidei; item de spe et timore"
+      }
+    },
+    {
+      "id": "s52",
+      "title": {
+        "la": "Sermo LII. De excessu, qui contemplatio dicitur, in qua sponsus facit quiescere animam sanctam, pro ejus quiete zelans"
+      }
+    },
+    {
+      "id": "s53",
+      "title": {
+        "la": "Sermo LIII. Per montes et colles significari coelestes spiritus, quos transilit sponsus per suum in terras adventum, seu per mysterium Incarnationis suae"
+      }
+    },
+    {
+      "id": "s54",
+      "title": {
+        "la": "Sermo LIV. Qualiter iterum per montes significantur angeli et homines, et per colles daemones. Item de triplici timore, quo quisque timere debet, ne gratiam bene operandi a Deo acceptam perdat"
+      }
+    },
+    {
+      "id": "s55",
+      "title": {
+        "la": "Sermo LV. Qualiter homo per veram poenitentiam potest evadere judicium Dei"
+      }
+    },
+    {
+      "id": "s56",
+      "title": {
+        "la": "Sermo LVI. Quod peccata et vitia sunt tanquam parietes, mediantes inter Deum et peccatorem"
+      }
+    },
+    {
+      "id": "s57",
+      "title": {
+        "la": "Sermo LVII. De visitationibus Domini observandis; quibus indiciis vel signis eae deprehendi possint"
+      }
+    },
+    {
+      "id": "s58",
+      "title": {
+        "la": "Sermo LVIII. Quomodo sponsus hortatur sponsam, id est viros perfectos, ad regimen imperfectorum. Item de putatione vitiorum in eis facienda, ut virtutes succrescant"
+      }
+    },
+    {
+      "id": "s59",
+      "title": {
+        "la": "Sermo LIX. De gemitibus animae suspirantis ad coelestem patriam, et de commendatione castitatis et viduitatis"
+      }
+    },
+    {
+      "id": "s60",
+      "title": {
+        "la": "Sermo LX. De incredulitate Judaeorum, qua compleverunt mensuram patrum suorum occidendo Christum"
+      }
+    },
+    {
+      "id": "s61",
+      "title": {
+        "la": "Sermo LXI. Quomodo Ecclesia reperit divitias divinae misericordiae in foraminibus vulnerum Christi, et de fortitudine martyrum quam a Christo receperunt"
+      }
+    },
+    {
+      "id": "s62",
+      "title": {
+        "la": "Sermo LXII. Quid sit animam fidelem commorari «in foraminibus petrae;» et quid «in cavernis maceriae.» De Dei voluntate potius, quam majestate scrutanda. Denique de puritate mentis necessaria ad praedicationem veritatis"
+      }
+    },
+    {
+      "id": "s63",
+      "title": {
+        "la": "Sermo LXIII. De vinea viro pio et sapienti, id est sua cuique vita, seu mente et conscientia, serio colenda; et de duobus vulpium generibus, scilicet adulatoribus et detractoribus; et de tentationibus monachorum novitiorum"
+      }
+    },
+    {
+      "id": "s64",
+      "title": {
+        "la": "Sermo LXIV. De tentationibus monachorum provectorum, quas patiantur vulpes, seu tentationes magis sibi infestas. Item de haereticis, vulpibus Ecclesiae, capiendis"
+      }
+    },
+    {
+      "id": "s65",
+      "title": {
+        "la": "Sermo LXV. De clandestinis haereticis, quorum praeposteram religionem et studium occultandi mysteria sua, nec non scandalosum feminarum contubernium perstringit"
+      }
+    },
+    {
+      "id": "s66",
+      "title": {
+        "la": "Sermo LXVI. De erroribus haereticorum circa nuptias, baptismum parvulorum, purgatorium, orationes pro defunctis et invocationem sanctorum"
+      }
+    },
+    {
+      "id": "s67",
+      "title": {
+        "la": "Sermo LXVII. De mirabili affectu dilectionis sponsae, quem eructat propter amorem Christi sponsi"
+      }
+    },
+    {
+      "id": "s68",
+      "title": {
+        "la": "Sermo LXVIII. Quomodo sponsus Christus intendit sponsae Ecclesiae, et haec illi; et de cura, quam habet Deus de electis. Item de merito et fiducia Ecclesiae"
+      }
+    },
+    {
+      "id": "s69",
+      "title": {
+        "la": "Sermo LXIX. Qualiter omnis altitudo se extollens adversus scientiam Dei, dejicitur. De adventu et mansione Patris et Verbi apud animam diligentem, et de familiaritate quae inde inter Deum et animam contrahitur"
+      }
+    },
+    {
+      "id": "s70",
+      "title": {
+        "la": "Sermo LXX. Unde sponsus dilectus dicatur; et de veritate, mansuetudine et justitia, caeterisque virtutibus, quae sunt lilia, inter quae pascitur"
+      }
+    },
+    {
+      "id": "s71",
+      "title": {
+        "la": "Sermo LXXI. De liliis spiritualibus, id est operibus bonis, quorum odor recta conscientia, color fama: et quomodo sponsus et pascit nos, et pascitur a nobis. Item de unitate Dei Patris cum Filio, et animae sanctae cum Deo"
+      }
+    },
+    {
+      "id": "s72",
+      "title": {
+        "la": "Sermo LXXII. Dies aspirans, et umbrae inclinatae quae sint. Deinde varii hominum dies exponuntur. Et quod justos, utpote in luce viventes, maneat clarior dies; impios vero in operibus tenebrarum versantes, aeterna nox"
+      }
+    },
+    {
+      "id": "s73",
+      "title": {
+        "la": "Sermo LXXIII. Qualiter Christus ad judicandum veniet in forma humana, ut suavis appareat electis; et quomodo minor angelis, iisdemque sublimior"
+      }
+    },
+    {
+      "id": "s74",
+      "title": {
+        "la": "Sermo LXXIV. De visitationibus Verbi sponsi, quam occulte fiant ad animam sanctam, idque Bernardus sui ipsius exemplo ad aedificationem suorum demisse ac verecunde declarat"
+      }
+    },
+    {
+      "id": "s75",
+      "title": {
+        "la": "Sermo LXXV. Deus quaerendus est debito tempore, modo, et loco. Et quod nunc sit acceptabile tempus, in quo quisque per bona opera potest sibi invenire Deum, ac suum operari salutem"
+      }
+    },
+    {
+      "id": "s76",
+      "title": {
+        "la": "Sermo LXXVI. De claritate sponsi, in qua coaequalis Patri sedet a dextris gloriae ejus: et qualiter boni pastores debent esse solliciti, vigiles et discreti circa pascendas animas sibi commissas"
+      }
+    },
+    {
+      "id": "s77",
+      "title": {
+        "la": "Sermo LXXVII. De malis pastoribus Ecclesiae; item quomodo beati in coelo simul cum angelis adjutorio sunt electis adhuc peregrinantibus"
+      }
+    },
+    {
+      "id": "s78",
+      "title": {
+        "la": "Sermo LXXVIII. Quod sponsa, id est Ecclesia electorum, praedestinata est a Deo ante saecula, et praeventa ab eo ut quaereret eum, et converteretur"
+      }
+    },
+    {
+      "id": "s79",
+      "title": {
+        "la": "Sermo LXXIX. De amore tenaci et indissolubili, quo anima tenet sponsum: item de reditu sponsi in fine saeculi ad Synagogam Judaeorum salvandam"
+      }
+    },
+    {
+      "id": "s80",
+      "title": {
+        "la": "Sermo LXXX. De imagine sive Verbo Dei, et anima quae ad imaginem est, subtilis disputatio: et de errore Gilleberti Pictavensis episcopi"
+      }
+    },
+    {
+      "id": "s81",
+      "title": {
+        "la": "Sermo LXXXI. De convenientia et similitudine animae cum Verbo secundum identitatem essentiae, et vitae immortalitatem, et arbitrii libertatem"
+      }
+    },
+    {
+      "id": "s82",
+      "title": {
+        "la": "Sermo LXXXII. Qualiter anima similis Deo manens, per peccatum tamen dissimilis facta est in simplicitate, immortalitate et libertate"
+      }
+    },
+    {
+      "id": "s83",
+      "title": {
+        "la": "Sermo LXXXIII. Qualiter anima, quantumcunque vitiis corrupta, adhuc per amorem castum et sanctum potest redire ad similitudinem sponsi, id est Christi"
+      }
+    },
+    {
+      "id": "s84",
+      "title": {
+        "la": "Sermo LXXXIV. Quod anima quaerens Deum, praevente est ab eo: et quid sit illa quaesitio, in qua jam ab eo praeventa est"
+      }
+    },
+    {
+      "id": "s85",
+      "title": {
+        "la": "Sermo LXXXV. De septem necessitatibus, propter quas anima quaerit Verbum: quae tandem reformata accedit ad ejus dulcedinem contemplandam atque perfruendam"
+      }
+    },
+    {
+      "id": "s86",
+      "title": {
+        "la": "Sermo LXXXVI. De cautela et verecundia sponsae quaerentis Verbum; et de commendatione verecundiae"
+      }
+    }
+  ]
+}
