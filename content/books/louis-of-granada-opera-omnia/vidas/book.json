@@ -1,0 +1,78 @@
+{
+  "id": "granada-vidas",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Vidas de siervos de Dios",
+    "en-US": "Lives of servants of God",
+    "pt-BR": "Vidas de servos de Deus"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Las vidas escritas por Fray Luis de Granada: del Beato Maestro Juan de Ávila, de Fray Bartolomé de los Mártires, del cardenal-rey Don Enrique de Portugal, de la madre Ana de la Concepción, de doña Elvira de Mendoza y de Melicia Hernández.",
+    "en-US": "The lives written by Fray Luis de Granada: of Blessed Master John of Ávila, of Fray Bartholomew of the Martyrs, of the cardinal-king Henry of Portugal, of Mother Ana de la Concepción, of Doña Elvira de Mendoza and of Melicia Hernández.",
+    "pt-BR": "As vidas escritas por Frei Luís de Granada: do Beato Mestre João de Ávila, de Frei Bartolomeu dos Mártires, do cardeal-rei Henrique de Portugal, da madre Ana da Conceição, de dona Elvira de Mendoza e de Melícia Hernández."
+  },
+  "composed": "1588-1590",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/vidas",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue14luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 14 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the pieces as Cuervo prints them.",
+      "description": "Six lives. Cuervo's variants and appendix documents are not imported. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "juan-de-avila",
+      "title": {
+        "es-ES": "Vida del Beato Maestro Juan de Ávila"
+      }
+    },
+    {
+      "id": "bartolome",
+      "title": {
+        "es-ES": "Vida de Fray Bartolomé de los Mártires"
+      }
+    },
+    {
+      "id": "enrique",
+      "title": {
+        "es-ES": "Vida del cardenal Don Enrique, rey de Portugal"
+      }
+    },
+    {
+      "id": "ana-de-la-concepcion",
+      "title": {
+        "es-ES": "Vida de la madre sor Ana de la Concepción"
+      }
+    },
+    {
+      "id": "elvira",
+      "title": {
+        "es-ES": "Vida de doña Elvira de Mendoza"
+      }
+    },
+    {
+      "id": "melicia",
+      "title": {
+        "es-ES": "Vida de Melicia Hernández"
+      }
+    }
+  ]
+}
