@@ -1,0 +1,1178 @@
+{
+  "id": "lombard-sententiae",
+  "cover": "classic",
+  "name": {
+    "la": "Sententiae in IV libris distinctae",
+    "en-US": "The Four Books of Sentences",
+    "pt-BR": "Os Quatro Livros das Sentenças"
+  },
+  "author": {
+    "la": "Petrus Lombardus",
+    "en-US": "Peter Lombard",
+    "pt-BR": "Pedro Lombardo"
+  },
+  "description": {
+    "la": "Quattuor libri Sententiarum Magistri Petri Lombardi, Parisiensis episcopi: de mysterio Trinitatis, de creatura, de incarnatione et virtutibus, de sacramentis et novissimis. Textus ex editione Migne (Patrologia Latina 192, 1855), distinctione per distinctionem, cum capitulis; sequitur Articulorum appendix. Non est editio critica Quaracchi (1916) neque Grottaferrata (1971-81).",
+    "en-US": "The standard textbook of medieval theology, on which every master from Alexander of Hales to Bonaventure and Aquinas lectured: the Trinity, creation and sin, the Incarnation, virtues and commandments, the sacraments and the last things, in 182 distinctions. The Latin is the Migne text (Patrologia Latina 192, 1855), from a machine-corrected OCR, not the Quaracchi (1916) or Grottaferrata (1971-81) critical edition. Migne's closing list of the articles in which the Master is not followed is included. No English translation in the public domain exists.",
+    "pt-BR": "O manual de teologia da Idade Média, sobre o qual lecionaram todos os mestres, de Alexandre de Hales a Boaventura e Tomás de Aquino: a Trindade, a criação e o pecado, a Encarnação, as virtudes e os mandamentos, os sacramentos e os novíssimos, em 182 distinções."
+  },
+  "composed": "c. 1155-1158",
+  "languages": [
+    "la"
+  ],
+  "work": "peter-lombard/sententiae",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 192)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=11468",
+      "edition": "Petri Lombardi Sententiarum libri quatuor, ed. J.-P. Migne, Patrologia Latina 192 (Paris 1855), reprinting the Antwerp 1757 text of J. Aleaume; TEI XML of the Corpus Corporum (University of Zurich), work 6420, text 11468 (PetLom.Senten12), from machine-corrected OCR.",
+      "description": "Prologue, the 182 distinctions with their numbered chapters and Migne's chapter titles, and the appendix on the articles in which the Master is not followed. Page breaks and column numbers are dropped; Migne's source citations in the chapter titles are set in italics under the heading, those inside the text stay in parentheses. Migne's Monitum (editorial note) is not imported. Three chapter heads lost their numbers in the source (I d. 2 ch. 7, III d. 2 ch. 2, among them) and carry the next number in sequence. Distinction titles are Migne's, put into sentence case. Migne's text follows the Antwerp 1757 edition, not the manuscript-based Quaracchi 1916 text, so chapter divisions can differ slightly from modern citations. The OCR may carry residual slips.",
+      "tier": "A",
+      "tierEvidence": "Lombard died in 1160; Migne's 1855 printing is public domain everywhere. The Grottaferrata critical edition (Brady, 1971-81) is copyrighted and was not used."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "liber-1",
+      "children": [
+        {
+          "id": "l1-d01",
+          "title": {
+            "la": "Distinctio I"
+          }
+        },
+        {
+          "id": "l1-d02",
+          "title": {
+            "la": "Distinctio II. De mysterio Trinitatis et unitatis."
+          }
+        },
+        {
+          "id": "l1-d03",
+          "title": {
+            "la": "Distinctio III. Incipit ostendere quomodo per creaturam potuerit cognosci creator."
+          }
+        },
+        {
+          "id": "l1-d04",
+          "title": {
+            "la": "Distinctio IV. Hic quaeritur utrum concedendum sit quod Deus se genuerit."
+          }
+        },
+        {
+          "id": "l1-d05",
+          "title": {
+            "la": "Distinctio V. Hic quaeritur an pater genuit divinam essentiam, vel ipsa filium, an essentia genuit essentiam, vel ipsa nec genuit, nec genita est."
+          }
+        },
+        {
+          "id": "l1-d06",
+          "title": {
+            "la": "Distinctio VI. Utrum pater voluntate genuit filium, an necessitate; et an volens vel nolens sit Deus."
+          }
+        },
+        {
+          "id": "l1-d07",
+          "title": {
+            "la": "Distinctio VII. Hic quaeritur an pater potuerit vel voluerit gignere filium."
+          }
+        },
+        {
+          "id": "l1-d08",
+          "title": {
+            "la": "Distinctio VIII. De veritate, et proprietate, et incommutabilitate, et simplicitate essentiae Dei."
+          }
+        },
+        {
+          "id": "l1-d09",
+          "title": {
+            "la": "Distinctio IX. De distinctione trium personarum."
+          }
+        },
+        {
+          "id": "l1-d10",
+          "title": {
+            "la": "Distinctio X. Hic de Spiritu Sancto agitur, et prius quod sit amor patris et filii dicitur."
+          }
+        },
+        {
+          "id": "l1-d11",
+          "title": {
+            "la": "Distinctio XI. Quod Spiritus Sanctus procedit a patre et filio."
+          }
+        },
+        {
+          "id": "l1-d12",
+          "title": {
+            "la": "Distinctio XII. Utrum Spiritus Sanctus prius vel plenius procedat a patre quam a filio."
+          }
+        },
+        {
+          "id": "l1-d13",
+          "title": {
+            "la": "Distinctio XIII. Quare Spiritus Sanctus cum sit de substantia patris, non dicatur genitus vel filius, sed tantum procedens."
+          }
+        },
+        {
+          "id": "l1-d14",
+          "title": {
+            "la": "Distinctio XIV. Quod gemina est processio Spiritus Sancti."
+          }
+        },
+        {
+          "id": "l1-d15",
+          "title": {
+            "la": "Distinctio XV. Utrum Spiritus Sanctus a seipso detur."
+          }
+        },
+        {
+          "id": "l1-d16",
+          "title": {
+            "la": "Distinctio XVI. De missione Spiritus Sancti, quae fit duobus modis, visibiliter et invisibiliter."
+          }
+        },
+        {
+          "id": "l1-d17",
+          "title": {
+            "la": "Distinctio XVII. De missione Spiritus Sancti, qua invisibiliter mittitur."
+          }
+        },
+        {
+          "id": "l1-d18",
+          "title": {
+            "la": "Distinctio XVIII. Utrum eadem ratione Spiritus Sanctus dicatur donum et datum sive donatum."
+          }
+        },
+        {
+          "id": "l1-d19",
+          "title": {
+            "la": "Distinctio XIX. Hic de aequalitate trium personarum."
+          }
+        },
+        {
+          "id": "l1-d20",
+          "title": {
+            "la": "Distinctio XX. Ostenso quod aliqua personarum aliam non superat magnitudine, nunc ostendit quod alia non excellit aliam potentia."
+          }
+        },
+        {
+          "id": "l1-d21",
+          "title": {
+            "la": "Distinctio XXI. Quaeritur quomodo possit dici solus pater, vel solus Spiritus Sanctus, cum sint inseparabiles."
+          }
+        },
+        {
+          "id": "l1-d22",
+          "title": {
+            "la": "Distinctio XXII. De nominum differentia quibus utimur loquentes de Deo."
+          }
+        },
+        {
+          "id": "l1-d23",
+          "title": {
+            "la": "Distinctio XXIII. De hoc nomine quod est persona, quod cum secundum substantiam dicatur, tamen pluraliter, non singulariter, in summa accipitur."
+          }
+        },
+        {
+          "id": "l1-d24",
+          "title": {
+            "la": "Distinctio XXIV. Quid significetur his nominibus unus vel una, duo vel duae, tres vel tria, trinus vel trinitas, plures vel pluralitas, distinctio vel distinctae, cum his utimur de Deo loquentes."
+          }
+        },
+        {
+          "id": "l1-d25",
+          "title": {
+            "la": "Distinctio XXV. Quid significatur cum dicitur pluraliter, tres personae, vel duae personae."
+          }
+        },
+        {
+          "id": "l1-d26",
+          "title": {
+            "la": "Distinctio XXVI. De proprietatibus personarum, sed prius de hoc nomine hypostasis."
+          }
+        },
+        {
+          "id": "l1-d27",
+          "title": {
+            "la": "Distinctio XXVII. An easdem proprietates assignent augustinus et hilarius; et an ista sint quae dicuntur paternitas, filiatio, et processio."
+          }
+        },
+        {
+          "id": "l1-d28",
+          "title": {
+            "la": "Distinctio XXVIII. Quod non tantum tres praedictae proprietates sunt in personis, sed etiam aliae quae aliis significantur nominibus, ut ingenitus."
+          }
+        },
+        {
+          "id": "l1-d29",
+          "title": {
+            "la": "Distinctio XXIX. De principio; quod relative dicitur, et multiplicem notat relationem."
+          }
+        },
+        {
+          "id": "l1-d30",
+          "title": {
+            "la": "Distinctio XXX. De his quae temporaliter de Deo dicuntur et relative secundum accidens, quod non Deo, sed creaturis accidit."
+          }
+        },
+        {
+          "id": "l1-d31",
+          "title": {
+            "la": "Distinctio XXXI. Quomodo dicatur filius aequalis patri: an secundum substantiam, an secundum relationem; ita et similis."
+          }
+        },
+        {
+          "id": "l1-d32",
+          "title": {
+            "la": "Distinctio XXXII. Utrum pater vel filius per Spiritum Sanctum diligat, cum diligere idem Deo sit quod esse."
+          }
+        },
+        {
+          "id": "l1-d33",
+          "title": {
+            "la": "Distinctio XXXIII. Utrum proprietates personarum sint ipsae personae vel Deus, id est, divina essentia."
+          }
+        },
+        {
+          "id": "l1-d34",
+          "title": {
+            "la": "Distinctio XXXIV. Opinio quorumdam non idem esse personam et essentiam vel naturam dicentium, et eamdem essentiam non posse esse patrem, et filium, et Spiritum Sanctum."
+          }
+        },
+        {
+          "id": "l1-d35",
+          "title": {
+            "la": "Distinctio XXXV. De quibusdam quae secundum substantiam de Deo dicuntur, quae specialem efflagitant tractatum, scilicet de scientia, et de praescientia, et providentia, et dispositione, praedestinatione, voluntate et potentia."
+          }
+        },
+        {
+          "id": "l1-d36",
+          "title": {
+            "la": "Distinctio XXXVI. Utrum concedendum sit omnia esse in Dei essentia, vel in eo per essentiam, ut omnia dicuntur esse in Dei cognitione vel praescientia."
+          }
+        },
+        {
+          "id": "l1-d37",
+          "title": {
+            "la": "Distinctio XXXVII. Quibus modis dicatur Deus esse in rebus."
+          }
+        },
+        {
+          "id": "l1-d38",
+          "title": {
+            "la": "Distinctio XXXVIII. Hic redit ad propositum, repetens superius dicta ut addat alia."
+          }
+        },
+        {
+          "id": "l1-d39",
+          "title": {
+            "la": "Distinctio XXXIX. Utrum scientia Dei possit augeri vel minui, vel aliquo modo mutari; utrumque enim videtur posse probari."
+          }
+        },
+        {
+          "id": "l1-d40",
+          "title": {
+            "la": "Distinctio XL. Quid sit praedestinatio, et in quo differat a praescientia."
+          }
+        },
+        {
+          "id": "l1-d41",
+          "title": {
+            "la": "Distinctio XLI. Utrum aliquod sit meritum obdurationis et misericordiae."
+          }
+        },
+        {
+          "id": "l1-d42",
+          "title": {
+            "la": "Distinctio XLII. De omnipotentia Dei, ubi prius consideratur quare dicatur omnipotens."
+          }
+        },
+        {
+          "id": "l1-d43",
+          "title": {
+            "la": "Distinctio XLIII. Opinio quorumdam dicentium Deum nil posse nisi quod facit."
+          }
+        },
+        {
+          "id": "l1-d44",
+          "title": {
+            "la": "Distinctio XLIV. An Deus possit facere aliquid melius quam facit."
+          }
+        },
+        {
+          "id": "l1-d45",
+          "title": {
+            "la": "Distinctio XLV. De voluntate Dei, quae essentia Dei est una et aeterna, et de signis ejus."
+          }
+        },
+        {
+          "id": "l1-d46",
+          "title": {
+            "la": "Distinctio XLVI. Illi sententiae qua dictum est Dei voluntatem non posse cassari, quae ipse est, quaedam videntur obviare."
+          }
+        },
+        {
+          "id": "l1-d47",
+          "title": {
+            "la": "Distinctio XLVII. Quod voluntas Dei semper impletur de homine, quocumque se vertat."
+          }
+        },
+        {
+          "id": "l1-d48",
+          "title": {
+            "la": "Distinctio XLVIII. Quod aliquando homo bona voluntate aliud vult quam Deus; et aliquando mala id quod Deus bona voluntate vult."
+          }
+        }
+      ],
+      "title": {
+        "la": "Liber Primus. De mysterio Trinitatis"
+      }
+    },
+    {
+      "id": "liber-2",
+      "children": [
+        {
+          "id": "l2-d01",
+          "title": {
+            "la": "Distinctio I. Unum esse rerum principium ostendit; non plura, ut quidam putaverunt."
+          }
+        },
+        {
+          "id": "l2-d02",
+          "title": {
+            "la": "Distinctio II. Quae consideranda sunt de angelica natura."
+          }
+        },
+        {
+          "id": "l2-d03",
+          "title": {
+            "la": "Distinctio III. Quales facti fuerint angeli, et quod quatuor eis attributa sunt in ipso initio suae conditionis."
+          }
+        },
+        {
+          "id": "l2-d04",
+          "title": {
+            "la": "Distinctio IV. An perfectos et beatos creavit Deus angelos, an miseros et imperfectos."
+          }
+        },
+        {
+          "id": "l2-d05",
+          "title": {
+            "la": "Distinctio V. De conversione et confirmatione stantium, et aversione et lapsu cadentium."
+          }
+        },
+        {
+          "id": "l2-d06",
+          "title": {
+            "la": "Distinctio VI. Quod de majoribus et minoribus quidam ceciderunt, inter quos unus fuit celsior, scilicet lucifer."
+          }
+        },
+        {
+          "id": "l2-d07",
+          "title": {
+            "la": "Distinctio VII. Quod boni angeli a Deo sunt confirmati per gratiam ut peccare non possint; et mali ita obdurati in malo, ut bene vivere nequeant."
+          }
+        },
+        {
+          "id": "l2-d08",
+          "title": {
+            "la": "Distinctio VIII. Utrum angeli omnes corporei sint, quod quibusdam visum est. quibus augustinus consentire videtur, dicens angelos omnes ante casum habuisse corpora tenuia et spiritualia: sed in casu mutata in deterius malorum corpora, ut in eis possent pati."
+          }
+        },
+        {
+          "id": "l2-d09",
+          "title": {
+            "la": "Distinctio IX. De ordinum distinctione, qui et quot sint."
+          }
+        },
+        {
+          "id": "l2-d10",
+          "title": {
+            "la": "Distinctio X. An omnes spiritus coelestes mittantur; et ponit duas opiniones, et auctoritates quibus innituntur."
+          }
+        },
+        {
+          "id": "l2-d11",
+          "title": {
+            "la": "Distinctio XI. Quod quaeque anima habet angelum bonum ad sui custodiam delegatum, et malum ad exercitium."
+          }
+        },
+        {
+          "id": "l2-d12",
+          "title": {
+            "la": "Distinctio XII. Ost considerationem de angelis habitam, agitur de aliarum rerum creatione, et praecipue de operum sex dierum distinctione."
+          }
+        },
+        {
+          "id": "l2-d13",
+          "title": {
+            "la": "Distinctio XIII. Quae fuerit prima distinctionis operatio."
+          }
+        },
+        {
+          "id": "l2-d14",
+          "title": {
+            "la": "Distinctio XIV. De opere secundae diei, in qua factum est firmamentum."
+          }
+        },
+        {
+          "id": "l2-d15",
+          "title": {
+            "la": "Distinctio XV. De opere quintae diei, quando creavit Deus ex aquis volatilia et natatilia."
+          }
+        },
+        {
+          "id": "l2-d16",
+          "title": {
+            "la": "Distinctio XVI. De hominis creatione, ubi considerandum est quare creatus homo, et qualiter sit institutus, quae duo supra tractata sunt; et qualis factus et qualiter lapsus, postremo quomodo sit reparatus; quae discutienda sunt."
+          }
+        },
+        {
+          "id": "l2-d17",
+          "title": {
+            "la": "Distinctio XVII. De creatione animae, utrum de aliquo facta sit, vel non, et quando facta, et quam gratiam haruerit in creatione."
+          }
+        },
+        {
+          "id": "l2-d18",
+          "title": {
+            "la": "Distinctio XVIII. De formatione mulieris."
+          }
+        },
+        {
+          "id": "l2-d19",
+          "title": {
+            "la": "Distinctio XIX. De primo hominis statu ante peccatum, scilicet qualis fuerit secundum corpus et secundum animam."
+          }
+        },
+        {
+          "id": "l2-d20",
+          "title": {
+            "la": "Distinctio XX. De modo procreationis filiorum si non peccassent primi parentes, et quales nascerentur filii."
+          }
+        },
+        {
+          "id": "l2-d21",
+          "title": {
+            "la": "Distinctio XXI. De invidia diaboli qua ad hominem tentandum accessit"
+          }
+        },
+        {
+          "id": "l2-d22",
+          "title": {
+            "la": "Distinctio XXII. De origine illius peccati."
+          }
+        },
+        {
+          "id": "l2-d23",
+          "title": {
+            "la": "Distinctio XXIII. Quare Deus permiserit hominem tentari, sciens eum esse casurum."
+          }
+        },
+        {
+          "id": "l2-d24",
+          "title": {
+            "la": "Distinctio XXIV. De gratia hominis, et de potentia ante casum."
+          }
+        },
+        {
+          "id": "l2-d25",
+          "title": {
+            "la": "Distinctio XXV. Redit ad liberi arbitrii considerationem."
+          }
+        },
+        {
+          "id": "l2-d26",
+          "title": {
+            "la": "Distinctio XXVI. De gratia operante et cooperante."
+          }
+        },
+        {
+          "id": "l2-d27",
+          "title": {
+            "la": "Distinctio XXVII. De virtute quid sit, et quid sit actus ejus."
+          }
+        },
+        {
+          "id": "l2-d28",
+          "title": {
+            "la": "Distinctio XXVIII. Praedicta repetit ut alia addat, definitam assignationem ponens de gratia et libero arbitrio contra pelagianos."
+          }
+        },
+        {
+          "id": "l2-d29",
+          "title": {
+            "la": "Distinctio XXIX. Utrum homo ante peccatum eguerit gratia operante et cooperante."
+          }
+        },
+        {
+          "id": "l2-d30",
+          "title": {
+            "la": "Distinctio XXX. Quod per Adam peccatum et poena transiit in posteros."
+          }
+        },
+        {
+          "id": "l2-d31",
+          "title": {
+            "la": "Distinctio XXXI. Quomodo peccatum originale a patribus transeat in filios; an secundum animam, an secundum carnem."
+          }
+        },
+        {
+          "id": "l2-d32",
+          "title": {
+            "la": "Distinctio XXXII. Quomodo originale peccatum dimittatur in baptismo, cum et post sit illa concupiscentia quae dicitur originale peccatum."
+          }
+        },
+        {
+          "id": "l2-d33",
+          "title": {
+            "la": "Distinctio XXXIII. An peccata omnium praecedentium patrum parvuli originaliter trahant ut peccatum adae."
+          }
+        },
+        {
+          "id": "l2-d34",
+          "title": {
+            "la": "Distinctio XXXIV. Quae de peccato animadvertenda sint."
+          }
+        },
+        {
+          "id": "l2-d35",
+          "title": {
+            "la": "Distinctio XXXV. Quid sit peccatum."
+          }
+        },
+        {
+          "id": "l2-d36",
+          "title": {
+            "la": "Distinctio XXXVI. Quod quaedam simul sunt peccata et poena peccati; quaedam peccata et causa peccati, alia vero peccata, et causa, et poena peccati."
+          }
+        },
+        {
+          "id": "l2-d37",
+          "title": {
+            "la": "Distinctio XXXVII. Aliorum ponit sententiam qui dicunt malos actus nullo modo esse a Deo, nec esse bonos sive in eo quod sunt, sive alio modo."
+          }
+        },
+        {
+          "id": "l2-d38",
+          "title": {
+            "la": "Distinctio XXXVIII. De voluntate et ejus fine, ex quo et ipsa judicatur."
+          }
+        },
+        {
+          "id": "l2-d39",
+          "title": {
+            "la": "Distinctio XXXIX. Cum voluntas sit de his quae homo naturaliter habet, quare peccatum fore dicatur, cum nullum aliud naturale peccatum sit."
+          }
+        },
+        {
+          "id": "l2-d40",
+          "title": {
+            "la": "Distinctio XL. An ex fine omnes actus pensari debeant, ut simpliciter boni vel mali dicantur."
+          }
+        },
+        {
+          "id": "l2-d41",
+          "title": {
+            "la": "Distinctio XLI. An omnis intentio vel actio eorum qui carent fide sit mala."
+          }
+        },
+        {
+          "id": "l2-d42",
+          "title": {
+            "la": "Distinctio XLII. An voluntas et actio mala in eodem homine et circa eamdem rem sint unum peccatum, an plura."
+          }
+        },
+        {
+          "id": "l2-d43",
+          "title": {
+            "la": "Distinctio XLIII. De peccato in Spiritum Sanctum, quod dicitur etiam peccatum ad mortem."
+          }
+        },
+        {
+          "id": "l2-d44",
+          "title": {
+            "la": "Distinctio XLIV. De potentia peccandi; an sit homini vel a se, vel a diabolo, vel a Deo."
+          }
+        }
+      ],
+      "title": {
+        "la": "Liber Secundus. De rerum corporalium et spiritualium creatione et formatione, aliisque pluribus eo pertinentibus"
+      }
+    },
+    {
+      "id": "liber-3",
+      "children": [
+        {
+          "id": "l3-d01",
+          "title": {
+            "la": "Distinctio I. De incarnatione verbi, aliisque ad hoc spectantibus."
+          }
+        },
+        {
+          "id": "l3-d02",
+          "title": {
+            "la": "Distinctio II. Quare totam humanam naturam accepit, et quid nomine humanitatis vel humanae naturae intelligendum sit."
+          }
+        },
+        {
+          "id": "l3-d03",
+          "title": {
+            "la": "Distinctio III. De carne quam verbum assumpsit, qualis ante fuerit, et qualis assumpta sit."
+          }
+        },
+        {
+          "id": "l3-d04",
+          "title": {
+            "la": "Distinctio IV. Quare in scriptura saepius tribuatur incarnatio quae opus est Trinitatis, spiritui sancto, et de ipso Christus etiam conceptus et natus dicatur."
+          }
+        },
+        {
+          "id": "l3-d05",
+          "title": {
+            "la": "Distinctio V. Si persona vel natura personam vel naturam assumpsit, et si natura Dei incarnata sit?"
+          }
+        },
+        {
+          "id": "l3-d06",
+          "title": {
+            "la": "Distinctio VI. De intelligentia harum locutionum: Deus factus est homo, Deus est homo; an his locutionibus dicatur Deus factus esse aliquid, vel esse aliquid, vel non esse aliquid."
+          }
+        },
+        {
+          "id": "l3-d07",
+          "title": {
+            "la": "Distinctio VII. Positis sententiis prolatisque testimoniis, intelligentias propositarum locutionum exequitur secundum singulas sententias, et prius secundum primam."
+          }
+        },
+        {
+          "id": "l3-d08",
+          "title": {
+            "la": "Distinctio VIII. An divina natura debeat dici nata de virgine."
+          }
+        },
+        {
+          "id": "l3-d09",
+          "title": {
+            "la": "Distinctio IX. Le adoratione humanitatis Christi; an eadem sit adoratio humanitati et deitati exhibenda."
+          }
+        },
+        {
+          "id": "l3-d10",
+          "title": {
+            "la": "Distinctio X. An Christus secundum quod homo, sit persona vel aliquid."
+          }
+        },
+        {
+          "id": "l3-d11",
+          "title": {
+            "la": "Distinctio XI. Utrum Christus sit creatura, vel creatus, vel factus."
+          }
+        },
+        {
+          "id": "l3-d12",
+          "title": {
+            "la": "Distinctio XII. An homo ille semper fuerit vel coeperit esse."
+          }
+        },
+        {
+          "id": "l3-d13",
+          "title": {
+            "la": "Distinctio XIII. Si Christus secundum naturam hominis in sapientia et gratia proficere potuit, et profecit."
+          }
+        },
+        {
+          "id": "l3-d14",
+          "title": {
+            "la": "Distinctio XIV. Si anima Christi habuerit sapientiam parem cum Deo; et si omnia scit quae Deus."
+          }
+        },
+        {
+          "id": "l3-d15",
+          "title": {
+            "la": "Distinctio XV. De hominis defectibus quos assumpsit Christus in humana natura."
+          }
+        },
+        {
+          "id": "l3-d16",
+          "title": {
+            "la": "Distinctio XVI. An in Christo fuerit necessitas patiendi et moriendi, quae est defectus generalis."
+          }
+        },
+        {
+          "id": "l3-d17",
+          "title": {
+            "la": "Distinctio XVII. Si omnis Christi oratio vel voluntas expleta sit."
+          }
+        },
+        {
+          "id": "l3-d18",
+          "title": {
+            "la": "Distinctio XVIII. Si Christus meruit sibi et nobis, et quid sibi et quid nobis."
+          }
+        },
+        {
+          "id": "l3-d19",
+          "title": {
+            "la": "Distinctio XIX. Hic qualiter a diabolo et a peccato nos redemit per mortem."
+          }
+        },
+        {
+          "id": "l3-d20",
+          "title": {
+            "la": "Distinctio XX. Quod alio modo potuit liberare hominem, et quare potius isto."
+          }
+        },
+        {
+          "id": "l3-d21",
+          "title": {
+            "la": "Distinctio XXI. Si in Christo divisio in morte fuit animae vel carnis a verbo."
+          }
+        },
+        {
+          "id": "l3-d22",
+          "title": {
+            "la": "Distinctio XXII. Si Christus in morte fuit homo."
+          }
+        },
+        {
+          "id": "l3-d23",
+          "title": {
+            "la": "Distinctio XXIII. Si Christus habuerit fidem et spem ut charitatem."
+          }
+        },
+        {
+          "id": "l3-d24",
+          "title": {
+            "la": "Distinctio XXIV. Quomodo intelligitur quod scriptum est: ut cum factum fuerit, credatis."
+          }
+        },
+        {
+          "id": "l3-d25",
+          "title": {
+            "la": "Distinctio XXV. De fide antiquorum."
+          }
+        },
+        {
+          "id": "l3-d26",
+          "title": {
+            "la": "Distinctio XXVI. De spe, quid sit."
+          }
+        },
+        {
+          "id": "l3-d27",
+          "title": {
+            "la": "Distinctio XXVII. De charitate qua Deus diligitur et proximus, quae in Christo et in nobis est."
+          }
+        },
+        {
+          "id": "l3-d28",
+          "title": {
+            "la": "Distinctio XXVIII. Si illo praecepto jubemur diligere totum proximum et nos totos."
+          }
+        },
+        {
+          "id": "l3-d29",
+          "title": {
+            "la": "Distinctio XXIX. De ordine diligendi, quid prius, quid posterius."
+          }
+        },
+        {
+          "id": "l3-d30",
+          "title": {
+            "la": "Distinctio XXX. Si melius est diligere amicos quam inimicos, vel e converso."
+          }
+        },
+        {
+          "id": "l3-d31",
+          "title": {
+            "la": "Distinctio XXXI. Si charitas semel habita amittatur."
+          }
+        },
+        {
+          "id": "l3-d32",
+          "title": {
+            "la": "Distinctio XXXII. De charitate Dei."
+          }
+        },
+        {
+          "id": "l3-d33",
+          "title": {
+            "la": "Distinctio XXXIII. De quatuor virtutibus principalibus."
+          }
+        },
+        {
+          "id": "l3-d34",
+          "title": {
+            "la": "Distinctio XXXIV. De septem donis Spiritus Sancti."
+          }
+        },
+        {
+          "id": "l3-d35",
+          "title": {
+            "la": "Distinctio XXXV. Quomodo differant sapientia et scientia."
+          }
+        },
+        {
+          "id": "l3-d36",
+          "title": {
+            "la": "Distinctio XXXVI. De connexione virtutum quae non separantur."
+          }
+        },
+        {
+          "id": "l3-d37",
+          "title": {
+            "la": "Distinctio XXXVII. De decem praeceptis, quomodo contineantur in duobus mandatis charitatis."
+          }
+        },
+        {
+          "id": "l3-d38",
+          "title": {
+            "la": "Distinctio XXXVIII. De triplici genere mendacii."
+          }
+        },
+        {
+          "id": "l3-d39",
+          "title": {
+            "la": "Distinctio XXXIX. De perjurio."
+          }
+        },
+        {
+          "id": "l3-d40",
+          "title": {
+            "la": "Distinctio XL. De sexto et septimo praecepto secundae tabulae."
+          }
+        }
+      ],
+      "title": {
+        "la": "Liber Tertius. De incarnatione Verbi"
+      }
+    },
+    {
+      "id": "liber-4",
+      "children": [
+        {
+          "id": "l4-d01",
+          "title": {
+            "la": "Distinctio I. De sacramentis et signis sacramentalibus."
+          }
+        },
+        {
+          "id": "l4-d02",
+          "title": {
+            "la": "Distinctio II. De sacramentis novae legis."
+          }
+        },
+        {
+          "id": "l4-d03",
+          "title": {
+            "la": "Distinctio III. Quid sit baptismus."
+          }
+        },
+        {
+          "id": "l4-d04",
+          "title": {
+            "la": "Distinctio IV. Quod alii suscipiunt sacramentum et rem, alii sacramentum et non rem, alii rem et non sacramentum."
+          }
+        },
+        {
+          "id": "l4-d05",
+          "title": {
+            "la": "Distinctio V. Quod baptismus aeque sanctus est a bono et a malo datus bono vel malo."
+          }
+        },
+        {
+          "id": "l4-d06",
+          "title": {
+            "la": "Distinctio VI. Quibus liceat baptizare."
+          }
+        },
+        {
+          "id": "l4-d07",
+          "title": {
+            "la": "Distinctio VII. De confirmatione."
+          }
+        },
+        {
+          "id": "l4-d08",
+          "title": {
+            "la": "Distinctio VIII. De sacramento altaris et eucharistiae."
+          }
+        },
+        {
+          "id": "l4-d09",
+          "title": {
+            "la": "Distinctio IX. De duobus modis manducandi."
+          }
+        },
+        {
+          "id": "l4-d10",
+          "title": {
+            "la": "Distinctio X. De haeresi aliorum qui dicunt corpus Christi non esse in altari nisi in signo."
+          }
+        },
+        {
+          "id": "l4-d11",
+          "title": {
+            "la": "Distinctio XI. De modis conversionis."
+          }
+        },
+        {
+          "id": "l4-d12",
+          "title": {
+            "la": "Distinctio XII. Ubi illa accidentia fundantur."
+          }
+        },
+        {
+          "id": "l4-d13",
+          "title": {
+            "la": "Distinctio XIII. Si haeretici et excommunicati hoc sacramentum conficiant."
+          }
+        },
+        {
+          "id": "l4-d14",
+          "title": {
+            "la": "Distinctio XIV. De poenitentia."
+          }
+        },
+        {
+          "id": "l4-d15",
+          "title": {
+            "la": "Distinctio XV. Quod pluribus irretitus peccatis non potest poenitere de uno vere, nisi de omnibus poeniteat."
+          }
+        },
+        {
+          "id": "l4-d16",
+          "title": {
+            "la": "Distinctio XVI. De tribus quae in poenitentia consideranda sunt."
+          }
+        },
+        {
+          "id": "l4-d17",
+          "title": {
+            "la": "Distinctio XVII. Tria proponuntur quaerenda, primum an sine confessione dimittatur peccatum."
+          }
+        },
+        {
+          "id": "l4-d18",
+          "title": {
+            "la": "Distinctio XVIII. De remissione sacerdotis."
+          }
+        },
+        {
+          "id": "l4-d19",
+          "title": {
+            "la": "Distinctio XIX. Quando hae claves dantur et quibus."
+          }
+        },
+        {
+          "id": "l4-d20",
+          "title": {
+            "la": "Distinctio XX. De his qui in fine poenitent."
+          }
+        },
+        {
+          "id": "l4-d21",
+          "title": {
+            "la": "Distinctio XXI. De peccatis quae post hanc vitam dimittuntur."
+          }
+        },
+        {
+          "id": "l4-d22",
+          "title": {
+            "la": "Distinctio XXII. Si peccata dimissa redeant."
+          }
+        },
+        {
+          "id": "l4-d23",
+          "title": {
+            "la": "Distinctio XXIII. De sacramento unctionis extremae."
+          }
+        },
+        {
+          "id": "l4-d24",
+          "title": {
+            "la": "Distinctio XXIV. De ordinibus ecclesiasticis."
+          }
+        },
+        {
+          "id": "l4-d25",
+          "title": {
+            "la": "Distinctio XXV. De ordinatis ab haereticis."
+          }
+        },
+        {
+          "id": "l4-d26",
+          "title": {
+            "la": "Distinctio XXVI. De sacramento conjugii, cujus institutio et causa ostenditur."
+          }
+        },
+        {
+          "id": "l4-d27",
+          "title": {
+            "la": "Distinctio XXVII. Quae sunt consideranda in conjugio."
+          }
+        },
+        {
+          "id": "l4-d28",
+          "title": {
+            "la": "Distinctio XXVIII. Si consensus de futuro cum juramento faciat conjugium."
+          }
+        },
+        {
+          "id": "l4-d29",
+          "title": {
+            "la": "Distinctio XXIX. Coactio excludit consensum conjugalem."
+          }
+        },
+        {
+          "id": "l4-d30",
+          "title": {
+            "la": "Distinctio XXX. De errore qui evacuat consensum"
+          }
+        },
+        {
+          "id": "l4-d31",
+          "title": {
+            "la": "Distinctio XXXI. De tribus bonis conjugii."
+          }
+        },
+        {
+          "id": "l4-d32",
+          "title": {
+            "la": "Distinctio XXXII. De solutione carnalis debiti."
+          }
+        },
+        {
+          "id": "l4-d33",
+          "title": {
+            "la": "Distinctio XXXIII. De diversis conjugii legibus."
+          }
+        },
+        {
+          "id": "l4-d34",
+          "title": {
+            "la": "Distinctio XXXIV. De personis legitimis."
+          }
+        },
+        {
+          "id": "l4-d35",
+          "title": {
+            "la": "Distinctio XXXV. Eodem jure utitur vir et mulier."
+          }
+        },
+        {
+          "id": "l4-d36",
+          "title": {
+            "la": "Distinctio XXXVI. Si pro extrema conditione valeat uxor separari a viro, et e converso."
+          }
+        },
+        {
+          "id": "l4-d37",
+          "title": {
+            "la": "Distinctio XXXVII. In quo ordine nequeat fieri conjugium."
+          }
+        },
+        {
+          "id": "l4-d38",
+          "title": {
+            "la": "Distinctio XXXVIII. De voto."
+          }
+        },
+        {
+          "id": "l4-d39",
+          "title": {
+            "la": "Distinctio XXXIX. De dispari cultu."
+          }
+        },
+        {
+          "id": "l4-d40",
+          "title": {
+            "la": "Distinctio XL. De cognatione carnali et spirituali; et prius de carnali."
+          }
+        },
+        {
+          "id": "l4-d41",
+          "title": {
+            "la": "Distinctio XLI. De gradibus affinitatis."
+          }
+        },
+        {
+          "id": "l4-d42",
+          "title": {
+            "la": "Distinctio XLII. De spirituali cognatione."
+          }
+        },
+        {
+          "id": "l4-d43",
+          "title": {
+            "la": "Distinctio XLIII. De resurrectionis et judicii conditione."
+          }
+        },
+        {
+          "id": "l4-d44",
+          "title": {
+            "la": "Distinctio XLIV. De aetate et statura resurgentium."
+          }
+        },
+        {
+          "id": "l4-d45",
+          "title": {
+            "la": "Distinctio XLV. De diversis animarum receptaculis."
+          }
+        },
+        {
+          "id": "l4-d46",
+          "title": {
+            "la": "Distinctio XLVI. Si valde malis detur mitigatio poenae."
+          }
+        },
+        {
+          "id": "l4-d47",
+          "title": {
+            "la": "Distinctio XLVII. De sententia judicii."
+          }
+        },
+        {
+          "id": "l4-d48",
+          "title": {
+            "la": "Distinctio XLVIII. De forma judicis."
+          }
+        },
+        {
+          "id": "l4-d49",
+          "title": {
+            "la": "Distinctio XLIX. De differentia mansionum in coelo et in inferno."
+          }
+        },
+        {
+          "id": "l4-d50",
+          "title": {
+            "la": "Distinctio L. Si mali in inferno peccabunt."
+          }
+        }
+      ],
+      "title": {
+        "la": "Liber Quartus. De sacramentis et signis sacramentalibus"
+      }
+    },
+    {
+      "id": "articuli",
+      "title": {
+        "la": "Articuli in quibus Magister Sententiarum non tenetur communiter ab omnibus"
+      }
+    }
+  ]
+}
