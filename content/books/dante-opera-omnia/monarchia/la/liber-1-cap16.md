@@ -1,11 +1,11 @@
 # Liber primus, caput XVI
 
-1. Rationibus omnibus supra positis experientia memorabilis attestatur: status videlicet illius mortalium quem Dei Filius, in salutem hominis hominem assumpturus, vel expectavit vel cum voluit ipse disposuit. Nam si a lapsu primorum parentum, qui diverticulum fuit totius nostre deviationis, dispositiones hominum et tempora recolamus, non inveniemus nisi sub divo Augusto monarcha, existente Monarchia perfecta, mundum undique fuisse quietum.
+1\. Rationibus omnibus supra positis experientia memorabilis attestatur: status videlicet illius mortalium quem Dei Filius, in salutem hominis hominem assumpturus, vel expectavit vel cum voluit ipse disposuit. Nam si a lapsu primorum parentum, qui diverticulum fuit totius nostre deviationis, dispositiones hominum et tempora recolamus, non inveniemus nisi sub divo Augusto monarcha, existente Monarchia perfecta, mundum undique fuisse quietum.
 
-2. Et quod tunc humanum genus fuerit felix in pacis universalis tranquillitate hoc ystoriographi omnes, hoc poete illustres, hoc etiam scriba mansuetudinis Cristi testari dignatus est; et denique Paulus "plenitudinem temporis" statum illum felicissimum appellavit. Vere tempus et temporalia queque plena fuerunt, quia nullum nostre felicitatis ministerium ministro vacavit.
+2\. Et quod tunc humanum genus fuerit felix in pacis universalis tranquillitate hoc ystoriographi omnes, hoc poete illustres, hoc etiam scriba mansuetudinis Cristi testari dignatus est; et denique Paulus "plenitudinem temporis" statum illum felicissimum appellavit. Vere tempus et temporalia queque plena fuerunt, quia nullum nostre felicitatis ministerium ministro vacavit.
 
-3. Qualiter autem se habuerit orbis ex quo tunica ista inconsutilis cupiditatis ungue scissuram primitus passa est, et legere possumus et utinam non videre.
+3\. Qualiter autem se habuerit orbis ex quo tunica ista inconsutilis cupiditatis ungue scissuram primitus passa est, et legere possumus et utinam non videre.
 
-4. O genus humanum, quantis procellis atque iacturis quantisque naufragiis agitari te necesse est dum, bellua multorum capitum factum, in diversa conaris !
+4\. O genus humanum, quantis procellis atque iacturis quantisque naufragiis agitari te necesse est dum, bellua multorum capitum factum, in diversa conaris !
 
-5. Intellectu egrotas utroque, similiter et affectu: rationibus irrefragabilibus intellectum superiorem non curas, nec experientie vultu inferiorem, sed nec affectum dulcedine divine suasionis, cum per tubam Sancti Spiritus tibi effletur: "Ecce quam bonum et quam iocundum, habitare fratres in unum".
+5\. Intellectu egrotas utroque, similiter et affectu: rationibus irrefragabilibus intellectum superiorem non curas, nec experientie vultu inferiorem, sed nec affectum dulcedine divine suasionis, cum per tubam Sancti Spiritus tibi effletur: "Ecce quam bonum et quam iocundum, habitare fratres in unum".
