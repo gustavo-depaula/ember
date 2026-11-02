@@ -1,0 +1,165 @@
+{
+  "id": "augustine-epistulae-latinae-02",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistulae 141–175",
+    "en-US": "Letters 141–175 (Latin)",
+    "pt-BR": "Cartas 141–175 (latim)"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Epistulae Augustini 141–175, quae in versione Anglica non exstant. Textus Latinus.",
+    "en-US": "20 of Augustine's letters (141 to 175), Latin text of the Maurist edition (with the post-Maurist additions of Divjak, Dolbeau and others where the source numbers them). These are the letters not in the English NPNF book; no English translation imported.",
+    "pt-BR": "20 cartas de Santo Agostinho (141 a 175), texto latino da edição dos Maurinos e dos acréscimos posteriores."
+  },
+  "composed": "date varies",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/epistulae",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/lettere/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages lettere of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Epistula 141"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Epistula 142"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Epistula 147"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Epistula 149"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Epistula 152"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Epistula 153"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Epistula 154"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Epistula 155"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Epistula 156"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Epistula 157"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Epistula 160"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Epistula 161"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Epistula 162"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Epistula 168"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Epistula 170"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Epistula 171"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Epistula 171/A"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Epistula 173/A"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Epistula 174"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Epistula 175"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
