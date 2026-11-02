@@ -1,0 +1,48 @@
+{
+  "id": "bonaventure-expositio-super-regulam-fratrum-minorum",
+  "cover": "classic",
+  "name": {
+    "la": "Expositio super Regulam Fratrum Minorum",
+    "en-US": "Exposition of the Rule of the Friars Minor",
+    "pt-BR": "Exposição da Regra dos Frades Menores"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Expositio super Regulam Fratrum Minorum (opus dubium; Ioanni Peckham aliisque quoque adscriptum). Textus ex editione Quaracchi (Opera omnia VIII, 1898), ex scanno OCR, sine notis criticis.",
+    "en-US": "An exposition of the Rule of the Friars Minor, chapter by chapter (a work attributed to Bonaventure, now generally denied him). The Latin is the Quaracchi edition (Opera omnia VIII, 1898) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Exposição da Regra dos Frades Menores."
+  },
+  "composed": "13th century",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/expositio-super-regulam-fratrum-minorum",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1898
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic08bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. VIII (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1898), pp. 391-437.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type scholia are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1898 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Expositio super Regulam Fratrum Minorum"
+      }
+    }
+  ]
+}
