@@ -95,6 +95,15 @@ def load(cfg):
     p = cfg['src'] if os.path.isabs(cfg['src']) else os.path.join(ROOT, 'research/sourcing', cfg['src'])
     return open(p, encoding='utf8', errors='ignore').read().split('\n')
 def marks(body, cfg):
+    if cfg.get('manual'):
+        out = []
+        for h, title, *rest in cfg['manual']:
+            class M:  # manual heading
+                def __init__(s, t, kind): s.t = t; s.kind = kind
+                def group(s, k=0): return s.t if k == 0 else None
+                def groupdict(s): return {'t': s.t, 'n': ''}
+            out.append((h - cfg['start'], 'part' if rest and rest[0] == 'part' else 'chap', M(title, 'x')))
+        return out
     cr = re.compile(cfg['chap_re']); pr = re.compile(cfg['part_re']) if cfg.get('part_re') else None
     out = []
     for i, l in enumerate(body):
@@ -151,6 +160,7 @@ def build(cfg):
                             seen = 1
                         else: k += 1
                     seg = seg[k:]
+        if title == '__skip': continue
         title = tcase(title).rstrip('.') if title else ''
         n = (m.groupdict().get('n') or '').strip().rstrip('.')
         if kind == 'part':

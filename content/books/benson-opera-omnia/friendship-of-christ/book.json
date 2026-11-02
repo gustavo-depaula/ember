@@ -1,0 +1,147 @@
+{
+  "id": "benson-friendship-of-christ",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Friendship of Christ",
+    "pt-BR": "A Amizade com Cristo"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's best-known devotional book (1912), thirteen discourses on friendship with Christ: in the interior soul (the purgative and illuminative ways), in the Eucharist, the Church, the priest, the saint, the sinner, the average man and the sufferer, and in His Passion and Resurrection.",
+    "pt-BR": "O livro devocional mais conhecido de Benson (1912), treze discursos sobre a amizade com Cristo: na alma interior (as vias purgativa e iluminativa), na Eucaristia, na Igreja, no sacerdote, no santo, no pecador, no homem comum e no que sofre, e em Sua Paixão e Ressurreição."
+  },
+  "composed": 1912,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/friendship-of-christ",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1912)",
+      "year": 1912
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/friendshipofchri00bens",
+      "edition": "The Friendship of Christ (London: Hutchinson, 1912), Internet Archive full-text OCR (friendshipofchri00bens).",
+      "description": " Running heads and page numbers are dropped; the OCR was cleaned of line-break hyphens and the commonest recognition slips, and isolated slips remain. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1912, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "chapter-01",
+      "title": {
+        "en-US": "Prologue: This Is My Friend"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I: Christ in the Interior Soul"
+      },
+      "children": [
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "I. The Friendship of Christ: General"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "II. The Friendship of Christ: Interior"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "III. The Purgative Way"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "IV. The Illuminative Way"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II: Christ in the Exterior"
+      },
+      "children": [
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "V. Christ in the Eucharist"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "VI. Christ in the Church"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "VII. Christ in the Priest"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "VIII. Christ in the Saint"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "IX. Christ in the Sinner"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "X. Christ in the Average Man"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "XI. Christ in the Sufferer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III: Christ in His Historical Life"
+      },
+      "children": [
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "XII. Christ Our Friend Crucified: The Seven Words"
+          }
+        },
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "XIII. Christ Our Friend Vindicated: Easter Day"
+          }
+        }
+      ]
+    }
+  ]
+}

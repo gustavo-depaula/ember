@@ -1,0 +1,87 @@
+# XIII. Christ Our Friend Vindicated: Easter Day
+
+EASTER DAY CHRIST OUR FRIEND VINDICATED
+
+Do not touch me, for I am not yet ascended to my Father, — John xx: 17.
+
+We have watched during this past week the supreme tragedy of the world's history, presented with all possible splendour of liturgical and symbolical art. As the days have gone by we have seen our Friend as the central figure of a central drama, surrounded by a chorus of prophets, soldiers, priests, women, children — enemies and friends — in fact, by representatives of the whole human family of which He made Himself a member, each playing his appropriate part, each leading up along his own line, first to the dark and clear-cut grouping round the Cross and then to those flitting shadowed scenes, aHght with mystical glory, by which the CathoHc Church presents to us the eternal spiritual effects of Christ's Passion and Death. From the Divine side the story is one of triumph; from the human side one of failure — as, indeed, is the whole world's history throughout its entire course.
+
+One by one the Secular Powers have gathered against Him, and one by one they have united together — interests at first antagonistic, and finally made friends together. Nationalism, denying the unity of the Human Family; Imperialism, denying the unity of the Divine Family; and, last. Worldly Religion that denies the appeal to the supernatural and the Transcendence of God. Herod, Pilate and Caiphas stand together at last, and Jesus is their enemy. This is the world's tragedy, therefore: ''He came unto His own, and His own received Him not." ^ All this we have watched, up to the last final insult of sealing the stone and setting the watch, not lest Christ should rise again (for ''miracles do not happen!"), but for fear that His discredited followers should feign that it was so, — lest they should trouble the world's peace by one more religious fraud. Well! Let them alone! Our business is not with them to-day. They can work out their own theories in peace. Our affair to-day is not with the putting of Christ's enemies under His feet, but with the restoring of Christ to His friends' arms; with the vindication of Christ as our Divine Friend in whom we trusted and have not been disappointed; not with His final forcible manifestation to the world....
+
+Let us watch that process, then, through the eyes of the humblest of His friends — one who was far from possessing the serene clear-sightedness of Mary His mother, or the desperately quiet confidence of the disciple whom He loved — but one who at least had to her credit, in spite of her sins against the Interior Voice and even against the decency of the world, that she ''loved much," and ''did what she could" — two simple virtues to which even the lowest of His lovers can aspire.
+
+I. There were three great moments in the life of Mary Magdalene, after she had been brought into contact with Jesus Christ — moments that for sheer heart-shaking emotion can never be surpassed — three relationships with our Lord in which her hope was first raised to heaven, and then dashed down to the very edge of hell.
+
+(i) First, Christ was her Absolver. The scene has been reproduced again and again in art and Hterature. The long tables are set out on the platform raised above the street, and the guests are seated. Down there in the lowest place, His feet still dusty from the roads, His hair dry and tangled with the wind, lies the Friend of all the world upon His couch, the young Carpenter from the north, invited here not so much to be honoured as to be examined and looked at, since He has succeeded in getting a certain notoriety among certain kinds of people.... And the great doctors of the Law are here, prudent, venerable-looking men, grave and dignified, talking quietly and earnestly, now to their host, now to one another. The servants go to and fro, in and out of the doorways behind, bringing in the courses and pouring wine. There, up from the street, comes the outcast, penitent indeed, but unforgiven — her long hair dishevelled on her shoulders, her saffron dress disordered, her pot of perfume in her hands. She has come, thinking perhaps it is her last chance — just to see Jesus, if no more, to look on Him who has looked kindly on her in the past, to see perhaps one glance of sorrow from those piercing eyes. The rest follows quickly. Almost before the servants have seen her, she is down there on the floor behind His couch, moaning gently in her misery, pierced through and through once more by the glance of the Divine Eyes. A silence falls as, imconscious of all except herself and Him, she droops her head so low that the tears drip on to His feet; and as, shocked at her own defilement of those sacred feet, she first wipes them frantically with her long hair, and then, as if to compensate for the touch of her tears, wrenches open the pot of perfume and dashes out the nard — the world's whispering begins, up there in the places of honour.
+
+Jesus Hfts His Head; and then, in a sentence or two, all is done.
+
+''Thou seest this woman... She at least has done what thou, my host, didst leave undone... She loved much. She loved much... And therefore her sins are forgiven. Go, my daughter, and my friend. Sin no more."
+
+(ii) With the memory of all this in her mind, as she looks back a few months later — months of a changed life, clean and sweet at last — conceive those raging tumultuous thoughts, agonies and hopes, as she follows step by step the torments and disgrace of Him who had absolved her and given her hope. She has followed since dawn every detail of His suffering. She has hung in the outskirts of the roaring crowd; has listened to the talking of those near her; she has heard the roar of laughter as He, her Friend, came out on to the steps, in the torn soldier's cloak, with the reed in His bound Hands and the mockery of the thorns on His Head. She has hstened in the silence to the cutting slap of the scourge.... Then she has followed Him again, through the streets, out through the gate, and up the Httle steep ascent. And, at last, when all is done, and He hangs there, stripped and shamed and tormented, and the soldiers have broken the line and fallen out into the crowd, she has pushed her way through, fought even to the foot of the quivering tree, and once more has ''done what she could".., Once more she has washed those feet with her tears; and there, running down together on to the ground, there has flowed a sweeter stream than any that waters Paradise — the tears of the pardoned sinner and the Blood of the Saviour.
+
+Yet how she must have hoped against hope, throughout, that the tragedy would not end tragically! She had seen Him before in the hands of His enemies and yet He had escaped. Even now as she crouched by the l6o THE FRIENDSHIP OF CHRIST
+
+Cross, it was not altogether too late. He was not yet dead!... Where were those legions of angels of which He had spoken? Where, above all else, was that Divine Power that had comforted her, a power so evidently superhuman that there could be no Hmits to its achievements? As the roar swelled up from the crowd, *'If Thou be the Son of God, come down from the Cross and we will beHeve," how she must have stared up into the quiet tormented Face with closed eyes that hung against the sky. And above all, when the roar had died away and from the two crosses on either side, from men, who because of their misery had a supreme claim on the Friend of Siimers, came the same screaming appeal, with its terrible addition, ''If Thou be Christ, save Thyself — and us^^ — surely we may see her too spring to her feet, her hope once more strong within her that now at least He must answer. Surely at last that Power will vindicate itself, even at the eleventh hour; and the nails will burst into gems and the cross into flower, and He, her Friend, radiant again, will come down from His throne to receive a world's adoration! Is it possible that she herself, standing there, looking to Mary and John for encouragement, and then back again at Himself, whispered in her agony, "Since Thou art the Christ, save Thyself — and we.?"
+
+... And Jesus cried with a loud voice and gave up the ghost...."
+
+(iii) There is one thing left to her. Her Absolver is gone, her King is dead; but enough of her Friend is left to her for her still to be able to weep; for no soul can weep that has not still some capacity for joy.
+
+Once more she who ''loved much," '' does what she can." She follows, step by step, to the quiet garden, after that for the last time she has washed Him with her tears and seen the ointments poured out; and she sees the stone rolled over the darkness within — a darkness which holds now that which for ever will make to her this garden a sanctuary of friendship.... Then after a night and a day and a night she comes again in the dawn to visit her shrine.
+
+The world has taken from her everything that can give her happiness. Not only are the joys of the world once for all impossible for her now, but even her new-found faith and hope and love are darkened: since He who had awakened them proved unable to save even Himself. Yet there is one thing which the world can never take — the memory of a Friendship so keen as to be a torment — Friendship itself even in the present. So long as she has the garden where His Body lies, she is content to live. Here she can come week by week as to the shrine of a God; she can watch the seasons come and go, and the grasses creep about the tomb; she still possesses something more dear to her than all the world has ever been.
+
+This morning she will see Him, for the last time; and she walks quickly and silently, bearing in her hands once more the perfumes to anoint Him with.... And then the last and most bitter blow of all strikes down — for the stone is gone, and in a pale light she sees within that the slab of stone is empty.... What then are these angels to her, whom she sees presently through her blinding desperate tears? It is not angels who can comfort her for the loss of the body of a human Friend.
+
+''They have taken away my Lord," she sobs, ''and I know not where they have laid Him." There is a step behind her; and she, " supposing him to be the gardener," pours out that same heart-broken lamentation to the man whom she cannot see.
+
+"Sir, if thou hast taken Him hence, tell me where thou hast laid Him; and I will take Him away."
+
+"Mary!"
+
+"Rabboni!"
+
+But there is still one more lesson for her to learn.
+
+As she throws herself forward, speechless with love and desire, to grasp His Feet — to assure herself even by touch that it is these same feet indeed which she kissed in the Pharisee's house, and on the Cross of Calvary — that it is Himself, and no phantom — He moves back from her.
+
+"Do not touch me, for I am not yet ascended to my Father."
+
+"Do not touch me."... That Friendship is not what it used to be: it is infinitely higher. It is not what it used to be, since the limitations of that Sacred Humanity are gone — those limitations by which It was here and not there; by which It could suffer and grow weary and hunger and weep — Hmitations that endeared It to Its lovers, since they could indeed minister to It, comfort It, and hold It up. And Its expansion in Glory is not yet consummated — ''I am not yet ascended to my Father" — that expansion of the Ascension and the Nine Days' Journey through the Heavenly Hierarchy, from the position ''a little lower than the angels" to the Session and Coronation at the right Hand of the ^Majesty on high — that expansion of which the Descent of the Holy Ghost is the expression, and the Sacramental Presence of that same Humanity on a hundred altars the result.
+
+And then, Mary, the Friendship shall be given back in ''good measure and pressed down and shaken together and running over." ^ Then that which thou hast known on earth confined by time and space shall be given back to touch and handling once more. Again thy Friend shall be thine own. The Creator of Nature shall be present in that Nature, unlimited by its limitations. He who took Humanity shall be present in Humanity. He who spoke on earth "as one having authority" shall speak again in the same accent. He who healed the sick shall heal them in the Gate called Beautiful; He who raised the dead shall raise Dorcas in
+
+* Luke vi: 38.
+
+Joppa; He who called Peter in Galilee, shall call Paul in Damascus. A Friend again He shall be, as never before: a Creature exercising the power of the Creator: a Creator clothed with the sympathy of the Creature; God suffering on earth, and Man reigning in Heaven. But a Friend, first and last, in Alpha and Omega; a Friend who has died in the humiliation of Friendship; who has risen and reigns in its Eternal Power.
+
+We have considered throughout Jesus Christ as our Friend. Let us on this day of His Vindication once more remind ourselves of a little of what this means.
+
+He is first the Friend in the interior soul — that light that first blinds and then illuminates the eyes that look on Him, that they too may shine as the Light of the World.
+
+But that interior friendship is but a part of what He offers; for, as once, two thousand years ago, He came out upon the stage of history, so He lives also to-day upon that same stage. The Christ who is within cries to the Christ without, that Christ may be all in all.
+
+First, then, He lives in the Sacrament of His Love — as our Friend, our Sacrifice and our Food — and all three for friendship's sake.
+
+Then, in another mode He lives in His Church on earth; in such a sense that the soul that hears Her hears Him, and the soul that despises Her despises Him; since she is His Body of which He is the Soul; since she has '' the jNIind of Christ," speaks (as He did) as '' one having authority," and does ''greater works" than did He "because He is gone to His Father" and therefore can live in her. It is to the Hps of her Head, then, that His Friends listen, for this human Head is He to whom the Good Shepherd committed the pastorate of His Flock, to whom the "Door" entrusted "the keys"; whom the "One Foundation" named "the Rock."
+
+Then, in yet another mode He lives in His Saints and supremely in His Blessed Mother. It is to these chosen Friends of God that we go to learn what is Friendship; to His Mother that we go to learn about her Son; to the Queen of Heaven, to learn the dispositions of the King.
+
+And he lives, too, in His own dear sinners; in those who from their darkness teach us what light must be; in those who, crying in the wilderness in sin, make us keen-sighted in our despair on their behalf to seek the Shepherd who comes to seek them.
+
+And He lives, too, by representation, in "the least of these His brethren" whom He commissions to beg and to hunger in His Name — in ordinary men who know but that they are ordinary, but who yet are made in ' His image, and, from their very fidelity to type, are true representatives of Him who claimed to be "Son of Man." And He lives in the sufferer, and the child; in the common task and the daily round; and He lives in the sunlight and the breeze, in the storm and the calm, in the tiny confines of earth, and the illimitable splendours of space; in the grain of sand as in the Sun; in the dew of the morning and the hugeness of the sea.
+
+There is not one avenue of sense or thought, but the Figure of Christ stands in it; not one activity open to man, but the "Carpenter's Son" is there; beneath the stone, and in the heart of the wood.
+
+The more minute our search, the more delicate is His Presence. The more wide our vision, the more illimitable is His Power.
+
+So, little by little as we go through life, following with a hundred infidelities and a thousand blunders, with open defiances and secret sins, yet following, as Peter followed through the glare of the High Priest's fire to the gloom of penitence where Christ's Eyes could shine — as we go, blinded by our own sorrow, to the ecstasy of His Joy, thinking to find Him dead, hoping to live on a memory, instead of confident that He is living and looking to the "to-day" in which He is even more than yesterday — little by little we find that there is no garden where He does not walk, no doors that can shut Him out, no country road where our hearts cannot burn in His company.
+
+And, as we find Him ever more and more without us, in the eyes of those we love, in the Voice that rebukes us, the spear that pierces us, the friends that betray us, and the grave that waits for us: as we find Him in His Sacraments, in His Saints — in all those august things which He Himself designed as trysting-places with Himself; at once we find Him more and more within us, enwound in every fibre of our lives, fragrant in every dear association and memory, deep buried in the depths of that heart of ours that seems most wholly neglectful of Him.
+
+So, then, He asserts His dominion from strength to strength; claiming one by one those powers that we had thought to be most our own. To our knowledge He is the Most Perfect; to our imagination He is our dream; to our hopes their Reward.
+
+Until at last, following His grace towards glory, we pass to be utterly His. No thought is ours unsanctioned by the Divine Wisdom; no love is ours save that of the Sacred Heart; no will save His.
+
+*'To me, "then, ''to live is Christ; and to die is gain." ^... For ''I live, now not I; but Christ liveth in me."*

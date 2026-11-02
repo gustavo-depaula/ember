@@ -1,0 +1,93 @@
+{
+ "id": "benson-friendship-of-christ",
+ "dir": "benson-opera-omnia/friendship-of-christ",
+ "slug": "friendship-of-christ",
+ "name": "The Friendship of Christ",
+ "name_pt": "A Amizade com Cristo",
+ "desc": "Benson's best-known devotional book (1912), thirteen discourses on friendship with Christ: in the interior soul (the purgative and illuminative ways), in the Eucharist, the Church, the priest, the saint, the sinner, the average man and the sufferer, and in His Passion and Resurrection.",
+ "desc_pt": "O livro devocional mais conhecido de Benson (1912), treze discursos sobre a amizade com Cristo: na alma interior (as vias purgativa e iluminativa), na Eucaristia, na Igreja, no sacerdote, no santo, no pecador, no homem comum e no que sofre, e em Sua Paixão e Ressurreição.",
+ "composed": 1912,
+ "editor": "Robert Hugh Benson (London: Hutchinson, 1912)",
+ "year": 1912,
+ "url": "https://archive.org/details/friendshipofchri00bens",
+ "edition": "The Friendship of Christ (London: Hutchinson, 1912), Internet Archive full-text OCR (friendshipofchri00bens).",
+ "src": "robert-hugh-benson/ia/friendshipofchri00bens_djvu.txt",
+ "manual": [
+  [
+   211,
+   "Prologue: This Is My Friend"
+  ],
+  [
+   253,
+   "Part I: Christ in the Interior Soul",
+   "part"
+  ],
+  [
+   258,
+   "I. The Friendship of Christ: General"
+  ],
+  [
+   603,
+   "II. The Friendship of Christ: Interior"
+  ],
+  [
+   857,
+   "III. The Purgative Way"
+  ],
+  [
+   1214,
+   "IV. The Illuminative Way"
+  ],
+  [
+   1536,
+   "Part II: Christ in the Exterior",
+   "part"
+  ],
+  [
+   1540,
+   "V. Christ in the Eucharist"
+  ],
+  [
+   1864,
+   "VI. Christ in the Church"
+  ],
+  [
+   2224,
+   "VII. Christ in the Priest"
+  ],
+  [
+   2537,
+   "VIII. Christ in the Saint"
+  ],
+  [
+   2832,
+   "IX. Christ in the Sinner"
+  ],
+  [
+   3085,
+   "X. Christ in the Average Man"
+  ],
+  [
+   3351,
+   "XI. Christ in the Sufferer"
+  ],
+  [
+   3605,
+   "Part III: Christ in His Historical Life",
+   "part"
+  ],
+  [
+   3610,
+   "XII. Christ Our Friend Crucified: The Seven Words"
+  ],
+  [
+   5122,
+   "XIII. Christ Our Friend Vindicated: Easter Day"
+  ]
+ ],
+ "start": 211,
+ "end": 5562,
+ "label": "",
+ "mode": "ia",
+ "died": 1914
+}
