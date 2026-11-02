@@ -1,0 +1,84 @@
+{
+  "id": "avila-escritos-menores",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Escritos menores (Documentos espirituales)",
+    "en-US": "Minor Writings (Spiritual Documents)",
+    "pt-BR": "Escritos menores (Documentos espirituais)"
+  },
+  "author": {
+    "es-ES": "San Juan de Ávila",
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "description": {
+    "es-ES": "Siete escritos breves de san Juan de Ávila: la «Doctrina admirable» (instrucción a un mancebo), la exposición de las bienaventuranzas, reglas de vida perfecta, diez documentos para la vida espiritual, grados de humildad, diez avisos para caminar por la vía recta y quince avisos para quien desea ser religioso.",
+    "en-US": "Seven short writings of St. John of Ávila: the «Doctrina admirable» (instruction to a young man), the exposition of the Beatitudes, rules of perfect life, ten documents for the spiritual life, degrees of humility, ten counsels for walking the straight way and fifteen counsels for one who wishes to become a religious.",
+    "pt-BR": "Sete escritos breves de São João de Ávila: a «Doutrina admirável», a exposição das bem-aventuranças, regras de vida perfeita, dez documentos para a vida espiritual, graus de humildade e dois conjuntos de avisos."
+  },
+  "composed": "c. 1535–1569",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-avila/escritos-menores",
+  "editions": {
+    "es-ES": {
+      "editor": "Apostolado de la Prensa (1941), reprinted by Apostolado Mariano",
+      "year": 2007
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obras-de-san-juan-de-avila-tomo-2",
+      "edition": "Obras de San Juan de Ávila, tomo I (Audi, filia; Documentos espirituales; Pláticas a sacerdotes), Madrid: Apostolado de la Prensa 1941 / Sevilla: Apostolado Mariano 2007; archive.org upload, Tesseract OCR.",
+      "description": "Seven pieces of the Documentos espirituales, with the editor's footnotes; the numbered rules and counsels are kept as numbered paragraphs. Not included: the Messina Doctrina cristiana and the poems, which this edition lacks.",
+      "tier": "B",
+      "tierEvidence": "Ávila's text is public domain; the edition is freely posted on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "doctrina-admirable",
+      "title": {
+        "es-ES": "Doctrina admirable (instrucción a un mancebo)"
+      }
+    },
+    {
+      "id": "bienaventuranzas",
+      "title": {
+        "es-ES": "Exposición breve de las bienaventuranzas"
+      }
+    },
+    {
+      "id": "reglas-de-vida-perfecta",
+      "title": {
+        "es-ES": "Reglas de vida perfecta"
+      }
+    },
+    {
+      "id": "diez-documentos",
+      "title": {
+        "es-ES": "Diez documentos para la vida espiritual"
+      }
+    },
+    {
+      "id": "grados-de-humildad",
+      "title": {
+        "es-ES": "Grados de humildad"
+      }
+    },
+    {
+      "id": "diez-avisos",
+      "title": {
+        "es-ES": "Diez avisos para caminar por la vía recta"
+      }
+    },
+    {
+      "id": "quince-avisos",
+      "title": {
+        "es-ES": "Quince avisos para quien desea ser religioso"
+      }
+    }
+  ]
+}
