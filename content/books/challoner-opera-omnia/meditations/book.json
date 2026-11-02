@@ -1,0 +1,2373 @@
+{
+  "id": "challoner-meditations",
+  "cover": "classic",
+  "name": {
+    "en-US": "Meditations for Every Day in the Year",
+    "pt-BR": "Meditações para Todos os Dias do Ano"
+  },
+  "author": {
+    "en-US": "Bp. Richard Challoner",
+    "pt-BR": "D. Richard Challoner"
+  },
+  "description": {
+    "en-US": "Considerations upon Christian Truths and Christian Duties, digested into Meditations for every day in the year (1753), by the vicar apostolic of the London District. Each day has three considerations and a resolution drawn from Scripture and the saints, running through the whole of Christian doctrine, the feasts and the Gospels of the year. The meditations for the movable season, from Ash-Wednesday to Corpus Christi, follow the Church's calendar and stand in their own groups, between those dated January to February and June to December.",
+    "pt-BR": "Considerações sobre as Verdades e os Deveres Cristãos, dispostas em meditações para cada dia do ano (1753), do vigário apostólico do Distrito de Londres. Cada dia traz três considerações e uma resolução, tiradas da Escritura e dos santos, que percorrem toda a doutrina cristã, as festas e os Evangelhos do ano. As meditações do tempo móvel, da Quarta-feira de Cinzas a Corpus Christi, seguem o calendário da Igreja e formam grupos próprios, entre os dias datados de janeiro a fevereiro e de junho a dezembro."
+  },
+  "composed": 1753,
+  "languages": [
+    "en-US"
+  ],
+  "work": "challoner/meditations-every-day",
+  "editions": {
+    "en-US": {
+      "editor": "Eugene Cummiskey (Cummiskey's Catholic Family Library, No. 3), Philadelphia",
+      "year": 1874
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/ConsiderationsUponChristianTruths",
+      "edition": "Considerations upon Christian Truths and Christian Duties, digested into Meditations for every day in the year, by the Right Rev. Dr. Richard Challoner, Bishop of Debra, V.A. (Philadelphia: Eugene Cummiskey, 1874), two parts in one volume; Internet Archive full-text OCR.",
+      "description": "The full text of the daily meditations, from the 1874 reprint of Challoner's 1753 book (the 1753 first edition, at archive.org/details/bim_eighteenth-century_considerations-upon-chri_challoner-richard_1753, was not used). The preface, the title pages, the contents and the running heads are dropped. The book gives the dated days (1 January to 19 February, and 14 June to 31 December) and, for the movable season between, one meditation for each day of Lent, Easter, the Ascension, Whitsuntide and the octave of Corpus Christi, with the fixed feasts of 24 February, 19 and 25 March, 23 April, 1 and 3 May. The 366th calendar day is not provided: the book has no 29 February. The OCR was repaired by matching words against the Internet Archive scans of an 1859 printing (Meditations1859) and of an 1800s printing (considerationsup00chaluoft); isolated OCR slips (about 1% of the words) remain. Challoner's own rubrics (for example the notes on Lent) are kept.",
+      "tier": "A",
+      "tierEvidence": "Challoner died in 1781; the work first appeared in 1753 and this printing in 1874, so the text is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "january",
+      "title": {
+        "en-US": "January",
+        "pt-BR": "Janeiro"
+      },
+      "children": [
+        {
+          "id": "jan-01",
+          "title": {
+            "en-US": "January 1 — On New Year's Day"
+          }
+        },
+        {
+          "id": "jan-02",
+          "title": {
+            "en-US": "January 2 — On beginning a New Life with the New Year"
+          }
+        },
+        {
+          "id": "jan-03",
+          "title": {
+            "en-US": "January 3 — On the Rules of a New Life"
+          }
+        },
+        {
+          "id": "jan-04",
+          "title": {
+            "en-US": "January 4 — On what we arc to renounce by the Christian's rule"
+          }
+        },
+        {
+          "id": "jan-05",
+          "title": {
+            "en-US": "January 5 — On what Lives we are to lead hy the Christian's Rule"
+          }
+        },
+        {
+          "id": "jan-06",
+          "title": {
+            "en-US": "January 6 — On the Epiphany"
+          }
+        },
+        {
+          "id": "jan-07",
+          "title": {
+            "en-US": "January 7 — On the Wise Men's Journey td Bethlehem"
+          }
+        },
+        {
+          "id": "jan-08",
+          "title": {
+            "en-US": "January 8 — On the Faith and Offerings of the Wise Men"
+          }
+        },
+        {
+          "id": "jan-09",
+          "title": {
+            "en-US": "January 9 — Of the Offerings we are to make by the Example of the Wise Men"
+          }
+        },
+        {
+          "id": "jan-10",
+          "title": {
+            "en-US": "January 10 — On the Gospel of the Sunday within the Octane of the Epiphany"
+          }
+        },
+        {
+          "id": "jan-11",
+          "title": {
+            "en-US": "January 11 — On seeking Jesus when he has been lost by Sin"
+          }
+        },
+        {
+          "id": "jan-12",
+          "title": {
+            "en-US": "January 12 — On the Lessons our Lord Jesus gives us in his private Life"
+          }
+        },
+        {
+          "id": "jan-13",
+          "title": {
+            "en-US": "January 13 — On our Saviour's being baptized by St. John the Baptist"
+          }
+        },
+        {
+          "id": "jan-14",
+          "title": {
+            "en-US": "January 14 — On the Sacred Name of Jesus. For the first Sunday after the Octave of the Epiphany"
+          }
+        },
+        {
+          "id": "jan-15",
+          "title": {
+            "en-US": "January 15 — On our Lord's changing water into wine at the marriage-feast of Cana. St. John ii"
+          }
+        },
+        {
+          "id": "jan-16",
+          "title": {
+            "en-US": "January 16 — On the Necessity of Consideration"
+          }
+        },
+        {
+          "id": "jan-17",
+          "title": {
+            "en-US": "January 17 — On the Consideration of God"
+          }
+        },
+        {
+          "id": "jan-18",
+          "title": {
+            "en-US": "January 18 — On ike Consideration of the Law of God"
+          }
+        },
+        {
+          "id": "jan-19",
+          "title": {
+            "en-US": "January 19 — On the Consideration of Ourselves"
+          }
+        },
+        {
+          "id": "jan-20",
+          "title": {
+            "en-US": "January 20 — On our first Beginning"
+          }
+        },
+        {
+          "id": "jan-21",
+          "title": {
+            "en-US": "January 21 — On our last End"
+          }
+        },
+        {
+          "id": "jan-22",
+          "title": {
+            "en-US": "January 22 — On the Titles God has to our Service"
+          }
+        },
+        {
+          "id": "jan-23",
+          "title": {
+            "en-US": "January 23 — On the Happiness of serving God"
+          }
+        },
+        {
+          "id": "jan-24",
+          "title": {
+            "en-US": "January 24 — On the Vanity of all those Things that keep Worldlings from the Service of God"
+          }
+        },
+        {
+          "id": "jan-25",
+          "title": {
+            "en-US": "January 25 — On the Conversion of St, Paul"
+          }
+        },
+        {
+          "id": "jan-26",
+          "title": {
+            "en-US": "January 26 — On the Evil of mortal Sin"
+          }
+        },
+        {
+          "id": "jan-27",
+          "title": {
+            "en-US": "January 27 — On the manifold Aggravations that are found in mortal Sin"
+          }
+        },
+        {
+          "id": "jan-28",
+          "title": {
+            "en-US": "January 28 — On the Presumption, Folly, and Madness (f the wilful Sinner"
+          }
+        },
+        {
+          "id": "jan-29",
+          "title": {
+            "en-US": "January 29 — On the dismal Havoc Sin has made in the World"
+          }
+        },
+        {
+          "id": "jan-30",
+          "title": {
+            "en-US": "January 30 — On the dismal Havoc Sin makes in the Sotd of a Christian"
+          }
+        },
+        {
+          "id": "jan-31",
+          "title": {
+            "en-US": "January 31 — On the Judgments of God upon mortal Sin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "february",
+      "title": {
+        "en-US": "February",
+        "pt-BR": "Fevereiro"
+      },
+      "children": [
+        {
+          "id": "feb-01",
+          "title": {
+            "en-US": "February 1 — On not making light of venial Sins"
+          }
+        },
+        {
+          "id": "feb-02",
+          "title": {
+            "en-US": "February 2 — On Candlemas Day"
+          }
+        },
+        {
+          "id": "feb-03",
+          "title": {
+            "en-US": "February 3 — On the Parable of Labourers in the Vineyard, St. Matt, xx For Septuagesima Sunday"
+          }
+        },
+        {
+          "id": "feb-04",
+          "title": {
+            "en-US": "February 4 — On the Multitude of our Sins"
+          }
+        },
+        {
+          "id": "feb-05",
+          "title": {
+            "en-US": "February 5 — On the Goodness of God in waiting for Sinners"
+          }
+        },
+        {
+          "id": "feb-06",
+          "title": {
+            "en-US": "February 6 — On turning from Sin to God"
+          }
+        },
+        {
+          "id": "feb-07",
+          "title": {
+            "en-US": "February 7 — On the Sentiments of a penitent Sinner"
+          }
+        },
+        {
+          "id": "feb-08",
+          "title": {
+            "en-US": "February 8 — On doing Penance for our Sins"
+          }
+        },
+        {
+          "id": "feb-09",
+          "title": {
+            "en-US": "February 9 — On the Manner of doing Penance for our Sins"
+          }
+        },
+        {
+          "id": "feb-10",
+          "title": {
+            "en-US": "February 10 — On the Parable of the Sower. Luke viii. Being the Gospel of Sexagesima Sunday"
+          }
+        },
+        {
+          "id": "feb-11",
+          "title": {
+            "en-US": "February 11 — On the remaining Part of the Parable of the Sower"
+          }
+        },
+        {
+          "id": "feb-12",
+          "title": {
+            "en-US": "February 12 — Against Delay of Repentance"
+          }
+        },
+        {
+          "id": "feb-13",
+          "title": {
+            "en-US": "February 13 — On the Folly of deferring our Conversion to God"
+          }
+        },
+        {
+          "id": "feb-14",
+          "title": {
+            "en-US": "February 14 — On Death-bed Performances"
+          }
+        },
+        {
+          "id": "feb-15",
+          "title": {
+            "en-US": "February 15 — On the Dispositions with which we are to enter upon the Service of God. From Eccles, ii"
+          }
+        },
+        {
+          "id": "feb-16",
+          "title": {
+            "en-US": "February 16 — On true Devotion"
+          }
+        },
+        {
+          "id": "feb-17",
+          "title": {
+            "en-US": "February 17 — On the Opposition there is between the World and the Gospel. For Shrove-tide"
+          }
+        },
+        {
+          "id": "feb-18",
+          "title": {
+            "en-US": "February 18 — On fighting under the Standard of Jesus Christ"
+          }
+        },
+        {
+          "id": "feb-19",
+          "title": {
+            "en-US": "February 19 — On the Rules prescribed by Jesus Christ to his Followers"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lent-and-holy-week",
+      "title": {
+        "en-US": "Lent and Holy Week",
+        "pt-BR": "Quaresma e Semana Santa"
+      },
+      "children": [
+        {
+          "id": "feb-24",
+          "title": {
+            "en-US": "February 24 — On the Gospel for the Feast of St, Matthias"
+          }
+        },
+        {
+          "id": "mar-19",
+          "title": {
+            "en-US": "March 19 — On St. Joseph"
+          }
+        },
+        {
+          "id": "mar-25",
+          "title": {
+            "en-US": "March 25 — On the Annunciation of the blessed Virgin"
+          }
+        },
+        {
+          "id": "on-ash-wednesday",
+          "title": {
+            "en-US": "On Ash-Wednesday"
+          }
+        },
+        {
+          "id": "thursday-after-ash-wednesday",
+          "title": {
+            "en-US": "Thursday after Ash-Wednesday — On. Fasting"
+          }
+        },
+        {
+          "id": "friday-after-ash-wednesday",
+          "title": {
+            "en-US": "Friday after Ash-Wednesday — On the Rules of Fasting"
+          }
+        },
+        {
+          "id": "saturday-after-ash-wednesday",
+          "title": {
+            "en-US": "Saturday after Ash-Wednesday — On the great Fast of a Christian"
+          }
+        },
+        {
+          "id": "first-sunday-in-lent",
+          "title": {
+            "en-US": "First Sunday in Lent — On the Fast of Lent"
+          }
+        },
+        {
+          "id": "monday-after-the-first-sunday-in-lent",
+          "title": {
+            "en-US": "Monday after the First Sunday in Lent — On the Ends of the Institution of Lent"
+          }
+        },
+        {
+          "id": "tuesday-in-the-first-week-of-lent",
+          "title": {
+            "en-US": "Tuesday in the First Week of Lent — On the Examination of the State of our Interior"
+          }
+        },
+        {
+          "id": "ember-wednesday-first-week-in-lent",
+          "title": {
+            "en-US": "Ember-Wednesday, First Week in Lent — On a further Examination of the Soul"
+          }
+        },
+        {
+          "id": "thursday-in-ember-week",
+          "title": {
+            "en-US": "Thursday in Ember-Week — On other Sins which we are to examine into"
+          }
+        },
+        {
+          "id": "friday-ember-week",
+          "title": {
+            "en-US": "Friday, Ember-Week — On exercising Works of Mercy"
+          }
+        },
+        {
+          "id": "saturday-in-ember-week",
+          "title": {
+            "en-US": "Saturday in Ember-Week — On the spiritual Works of Mercy"
+          }
+        },
+        {
+          "id": "second-sunday-in-lent",
+          "title": {
+            "en-US": "Second Sunday in Lent — On Prayer"
+          }
+        },
+        {
+          "id": "second-monday-in-lent",
+          "title": {
+            "en-US": "Second Monday in Lent — On the Necessity of Prayer"
+          }
+        },
+        {
+          "id": "second-tuesday-in-lent",
+          "title": {
+            "en-US": "Second Tuesday in Lent — On Attention in Prayer"
+          }
+        },
+        {
+          "id": "wednesday-after-the-second-sunday-in-lent",
+          "title": {
+            "en-US": "Wednesday after the Second Sunday in Lent — On other Conditions of Prayer"
+          }
+        },
+        {
+          "id": "thursday-after-the-second-sunday-in-lent",
+          "title": {
+            "en-US": "Thursday after the Second Sunday in Lent — On Four in Prayer"
+          }
+        },
+        {
+          "id": "friday-after-the-second-sunday-in-lent",
+          "title": {
+            "en-US": "Friday after the Second Sunday in Lent — On Mental Prayer"
+          }
+        },
+        {
+          "id": "saturday-after-the-second-sunday-in-lent",
+          "title": {
+            "en-US": "Saturday after the Second Sunday in Lent — On the Practice of Mental Prayer"
+          }
+        },
+        {
+          "id": "third-sunday-in-lent",
+          "title": {
+            "en-US": "Third Sunday in Lent — On Devotion to the Passion of Christ"
+          }
+        },
+        {
+          "id": "monday-third-week-in-lent",
+          "title": {
+            "en-US": "Monday, Third Week in Lent — On the great Advantages of Devotion to the Passion of Christ"
+          }
+        },
+        {
+          "id": "tuesday-third-week-in-lent",
+          "title": {
+            "en-US": "Tuesday, Third Week in Lent — On the Lessons Christ teaches us in his Passion"
+          }
+        },
+        {
+          "id": "wednesday-after-the-third-sunday-in-lent",
+          "title": {
+            "en-US": "Wednesday after the Third Sunday in Lent — On other Lessons, to be learned from Christ in his Passion"
+          }
+        },
+        {
+          "id": "thursday-after-the-third-sunday-in-lent",
+          "title": {
+            "en-US": "Thursday after the Third Sunday in Lent — On the Love that Christ has shown us in his Passion"
+          }
+        },
+        {
+          "id": "friday-after-the-third-sunday-in-lent",
+          "title": {
+            "en-US": "Friday after the Third Sunday in Lent — Other Considerations to excite in the Soul the Love of our suffering Jesus"
+          }
+        },
+        {
+          "id": "saturday-after-the-third-sunday-in-lent",
+          "title": {
+            "en-US": "Saturday after the Third Sunday in Lent — On the Sufferings of our Saviour before his Passion"
+          }
+        },
+        {
+          "id": "fourth-sunday-in-lent",
+          "title": {
+            "en-US": "Fourth Sunday in Lent — On our Saviour's Prayer in the Garden"
+          }
+        },
+        {
+          "id": "monday-fourth-week-in-lent",
+          "title": {
+            "en-US": "Monday, Fourth Week in Lent — On our Saviour's Agony and bloody Sweat"
+          }
+        },
+        {
+          "id": "tuesday-fourth-week-in-it",
+          "title": {
+            "en-US": "Tuesday, Fourth Week in It — On the Treason of Judas"
+          }
+        },
+        {
+          "id": "wednesday-fourth-week-in-lent",
+          "title": {
+            "en-US": "Wednesday, Fourth Week in Lent — On the Apprehension of our Lord"
+          }
+        },
+        {
+          "id": "thursday-fourth-week-in-lent",
+          "title": {
+            "en-US": "Thursday, Fourth Week in Lent — On our Lord's being brought before Annas and Caiphas"
+          }
+        },
+        {
+          "id": "friday-fourth-week-in-lent",
+          "title": {
+            "en-US": "Friday, Fourth Week in Lent — On our Saviour's Treatment in the House of Caiphas"
+          }
+        },
+        {
+          "id": "saturday-fourth-week-in-lent",
+          "title": {
+            "en-US": "Saturday, Fourth Week in Lent — On Peter's Denial"
+          }
+        },
+        {
+          "id": "passion-sunday",
+          "title": {
+            "en-US": "Passion Sunday — On our Lord's being hd away to Pilate"
+          }
+        },
+        {
+          "id": "monday-in-passion-week",
+          "title": {
+            "en-US": "Monday in Passion Week — Our Lord is sent from Pilate to Herod"
+          }
+        },
+        {
+          "id": "tuesday-in-passion-week",
+          "title": {
+            "en-US": "Tuesday in Passion Week — Barabbas is preferred before our Lord. He is scourged at the Pillar"
+          }
+        },
+        {
+          "id": "wednesday-in-passion-week",
+          "title": {
+            "en-US": "Wednesday in Passion Week — Our Lord is crowned with Those"
+          }
+        },
+        {
+          "id": "thursday-in-passion-week",
+          "title": {
+            "en-US": "Thursday in Passion Week — Our Lord is shown to the people, with Ecce Homo! Behold the Man!"
+          }
+        },
+        {
+          "id": "friday-in-passion-week",
+          "title": {
+            "en-US": "Friday in Passion Week — On the Part the blessed Virgin bore in her Son's Sufferings"
+          }
+        },
+        {
+          "id": "saturday-in-passion-week",
+          "title": {
+            "en-US": "Saturday in Passion Week — Our Lord is condemned to the Cross"
+          }
+        },
+        {
+          "id": "palm-sunday",
+          "title": {
+            "en-US": "Palm-Sunday — On OUT Lord's triumphant Entrance into Jerusalem"
+          }
+        },
+        {
+          "id": "monday-in-holy-week",
+          "title": {
+            "en-US": "Monday in Holy-Week — Our Saviour carries his Cross"
+          }
+        },
+        {
+          "id": "tuesday-in-holy-week",
+          "title": {
+            "en-US": "Tuesday in Holy Week — Our Saviour is nailed to the Cross"
+          }
+        },
+        {
+          "id": "wednesday-in-holy-week",
+          "title": {
+            "en-US": "Wednesday in Holy-Week — On the Sufferings of our Saviour on the Cross"
+          }
+        },
+        {
+          "id": "holy-thursday",
+          "title": {
+            "en-US": "Holy Thursday — On our Saviour's preaching from the Cross"
+          }
+        },
+        {
+          "id": "good-friday",
+          "title": {
+            "en-US": "Good Friday — On our Saviour's Death upon the Cross"
+          }
+        },
+        {
+          "id": "holy-saturday",
+          "title": {
+            "en-US": "Holy Saturday — On our Saviour's Burial"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eastertide",
+      "title": {
+        "en-US": "Eastertide",
+        "pt-BR": "Tempo Pascal"
+      },
+      "children": [
+        {
+          "id": "easter-sunday",
+          "title": {
+            "en-US": "Easter Sunday — On the Resurrection of our Lord"
+          }
+        },
+        {
+          "id": "easter-monday",
+          "title": {
+            "en-US": "Easter Monday — On the Lessons we are to learn from the Resurrection of Jesus Christ"
+          }
+        },
+        {
+          "id": "easter-tuesday",
+          "title": {
+            "en-US": "Easter Tuesday — On our Lord's showing himself to his Disciples after his Resurrection"
+          }
+        },
+        {
+          "id": "easter-wednesday",
+          "title": {
+            "en-US": "Easter-Wednesday — On our Lord's showing himself to the Disciples going to Emmaus. Luke xxiv"
+          }
+        },
+        {
+          "id": "easter-thursday",
+          "title": {
+            "en-US": "Easter-Thursday — On our Lord's manifesting himself to all the Apostles"
+          }
+        },
+        {
+          "id": "easter-friday",
+          "title": {
+            "en-US": "Easter-Friday — On the Peace of a Christian"
+          }
+        },
+        {
+          "id": "easter-saturday",
+          "title": {
+            "en-US": "Easter-Saturday — On Perseverance in Good"
+          }
+        },
+        {
+          "id": "low-sunday",
+          "title": {
+            "en-US": "Low-Sunday — On the Sacrament of Baptism"
+          }
+        },
+        {
+          "id": "monday-after-low-sunday",
+          "title": {
+            "en-US": "Monday after Low-Sunday — On the Covenant of Baptism"
+          }
+        },
+        {
+          "id": "tuesday-after-low-sunday",
+          "title": {
+            "en-US": "Tuesday after Low-Sunday — On the Ceremonies of Baptism"
+          }
+        },
+        {
+          "id": "wednesday-after-low-sunday",
+          "title": {
+            "en-US": "Wednesday after Low-Sunday — On the Evil of falling from the Grace of Baptism"
+          }
+        },
+        {
+          "id": "thursday-after-low-sunday",
+          "title": {
+            "en-US": "Thursday after Low-Sunday — On the theological Virtues"
+          }
+        },
+        {
+          "id": "friday-after-low-sunday",
+          "title": {
+            "en-US": "Friday after Low-Sunday — On Faith"
+          }
+        },
+        {
+          "id": "saturday-after-low-sunday",
+          "title": {
+            "en-US": "Saturday after Low-Sunday — On the Grounds of Faith"
+          }
+        },
+        {
+          "id": "second-sunday-after-easter",
+          "title": {
+            "en-US": "Second Sunday after Easter — On a lively Faith"
+          }
+        },
+        {
+          "id": "monday-after-the-second-sunday",
+          "title": {
+            "en-US": "Monday after the Second Sunday — On divine Hope"
+          }
+        },
+        {
+          "id": "tuesday-after-the-second-sunday",
+          "title": {
+            "en-US": "Tuesday after the Second Sunday — On joining a Distrust in ourselves with Confidence in God"
+          }
+        },
+        {
+          "id": "wednesday-after-the-second-sunday",
+          "title": {
+            "en-US": "Wednesday after the Second Sunday — On the Lord's Prayer"
+          }
+        },
+        {
+          "id": "thursday-after-the-second-sunday",
+          "title": {
+            "en-US": "Thursday after the Second Sunday — On, Hallowed he thy name"
+          }
+        },
+        {
+          "id": "friday-after-the-second-sunday",
+          "title": {
+            "en-US": "Friday after the Second Sunday — Thy kingdom come"
+          }
+        },
+        {
+          "id": "saturday-after-the-second-sunday",
+          "title": {
+            "en-US": "Saturday after the Second Sunday — Thy will be done in earth, as it is in heaven"
+          }
+        },
+        {
+          "id": "third-sunday-after-easter",
+          "title": {
+            "en-US": "Third Sunday after Easter — Give us this day our daily bread"
+          }
+        },
+        {
+          "id": "monday-after-the-third-sunday",
+          "title": {
+            "en-US": "Monday after the Third Sunday — Forgive us our trespasses, as we forgive them that trespass against us"
+          }
+        },
+        {
+          "id": "tuesday-after-the-third-sunday",
+          "title": {
+            "en-US": "Tuesday after the Third Sunday — Lead us not into temptation"
+          }
+        },
+        {
+          "id": "wednesday-after-the-third-sunday",
+          "title": {
+            "en-US": "Wednesday after the Third Sunday — Deliver us from evil"
+          }
+        },
+        {
+          "id": "thursday-after-the-third-sunday",
+          "title": {
+            "en-US": "Thursday after the Third Sunday — On Morning Prayer"
+          }
+        },
+        {
+          "id": "friday-after-the-third-sunday",
+          "title": {
+            "en-US": "Friday after the Third Sunday — On Evening Prayer"
+          }
+        },
+        {
+          "id": "saturday-after-the-third-sunday",
+          "title": {
+            "en-US": "Saturday after the Third Sunday — On pray trig always"
+          }
+        },
+        {
+          "id": "fourth-sunday-after-easter",
+          "title": {
+            "en-US": "Fourth Sunday after Easter — On the great Commandment of divine Love"
+          }
+        },
+        {
+          "id": "monday-after-the-fourth-sunday",
+          "title": {
+            "en-US": "Monday after the Fourth Sunday — On loving the Lord our God above all Things"
+          }
+        },
+        {
+          "id": "tuesday-after-the-fourth-sunday",
+          "title": {
+            "en-US": "Tuesday after the Fourth Sunday — On loving God with our whole Heart"
+          }
+        },
+        {
+          "id": "wednesday-after-the-fourth-sunday",
+          "title": {
+            "en-US": "Wednesday after the Fourth Sunday — On loving God with our whole Soul"
+          }
+        },
+        {
+          "id": "thursday-after-the-fourth-sunday",
+          "title": {
+            "en-US": "Thursday after the Fourth Sunday — On moving God with our whole Mind"
+          }
+        },
+        {
+          "id": "friday-after-the-fourth-sunday",
+          "title": {
+            "en-US": "Friday after the Fourth Sunday — On loving God with our whole Strength"
+          }
+        },
+        {
+          "id": "saturday-after-the-fourth-sunday",
+          "title": {
+            "en-US": "Saturday after the Fourth Sunday — On returning Love for Love"
+          }
+        },
+        {
+          "id": "rogation-sunday",
+          "title": {
+            "en-US": "Rogation Sunday — On the Devotion of the Time"
+          }
+        },
+        {
+          "id": "rogation-monday",
+          "title": {
+            "en-US": "Rogation Monday — On the Means of attaining to the Love of God"
+          }
+        },
+        {
+          "id": "rogation-tuesday",
+          "title": {
+            "en-US": "Rogation Tuesday — On Acts of divine Love"
+          }
+        },
+        {
+          "id": "rogation-wednesday",
+          "title": {
+            "en-US": "Rogation-Wednesday — On other Exercises of the Love of God"
+          }
+        },
+        {
+          "id": "ascension-day",
+          "title": {
+            "en-US": "Ascension-Day — On the Ascension of our Lord"
+          }
+        },
+        {
+          "id": "friday-after-the-ascension",
+          "title": {
+            "en-US": "Friday after the Ascension — On the Lessons we are to learn from the Ascension of our Lord"
+          }
+        },
+        {
+          "id": "saturday-after-the-ascension",
+          "title": {
+            "en-US": "Saturday after the Ascension — Other Lessons to he learnt from the Ascension of our Lord"
+          }
+        },
+        {
+          "id": "sunday-within-the-octave-of-the-ascension",
+          "title": {
+            "en-US": "Sunday within the Octave of the Ascension — On the Precept of Charity to our Neighbours"
+          }
+        },
+        {
+          "id": "monday-within-the-octave-of-the-ascension",
+          "title": {
+            "en-US": "Monday within the Octave of the Ascension — On the Excellence of fraternal Charity"
+          }
+        },
+        {
+          "id": "tuesday-within-the-octave-of-the-ascension",
+          "title": {
+            "en-US": "Tuesday within the Octave of the Ascension — On the Exercise of fraternal Charity"
+          }
+        },
+        {
+          "id": "wednesday-within-the-octave-of-the-ascension",
+          "title": {
+            "en-US": "Wednesday within the Octave of the Ascension — On their different Branches of fraternal Charity"
+          }
+        },
+        {
+          "id": "thursday-the-octave-of-the-ascension",
+          "title": {
+            "en-US": "Thursday the Octave of the Ascension — On the great Pattern of Charity"
+          }
+        },
+        {
+          "id": "apr-23",
+          "title": {
+            "en-US": "April 23 — On St. George"
+          }
+        },
+        {
+          "id": "may-01",
+          "title": {
+            "en-US": "May 1 — On St, philip and St. James"
+          }
+        },
+        {
+          "id": "may-03",
+          "title": {
+            "en-US": "May 3 — On the Finding f the Cross"
+          }
+        }
+      ]
+    },
+    {
+      "id": "whitsuntide-and-corpus-christi",
+      "title": {
+        "en-US": "Whitsuntide and Corpus Christi",
+        "pt-BR": "Pentecostes e Corpus Christi"
+      },
+      "children": [
+        {
+          "id": "friday-after-the-octave-of-the-ascension",
+          "title": {
+            "en-US": "Friday after the Octave of the Ascension — On preparing the Soul for the Holy Ghost"
+          }
+        },
+        {
+          "id": "whitsun-eve",
+          "title": {
+            "en-US": "Whitsun Eve — On the Dispositions necessary for receiving the Holy Ghost"
+          }
+        },
+        {
+          "id": "whitsunday",
+          "title": {
+            "en-US": "Whitsunday — On the coming down of the Holy Ghost"
+          }
+        },
+        {
+          "id": "whitsun-monday",
+          "title": {
+            "en-US": "Whitsun-Monday — On the Happiness of having the Holy Ghost in the Soul"
+          }
+        },
+        {
+          "id": "whitsun-tuesday",
+          "title": {
+            "en-US": "Whitsun-Tuesday — On the Gifts of the Holy Ghost"
+          }
+        },
+        {
+          "id": "whitsun-wednesday",
+          "title": {
+            "en-US": "Whitsun-Wednesday — On the Means of keeping the Holy Ghost in the Soul"
+          }
+        },
+        {
+          "id": "whitsun-thursday",
+          "title": {
+            "en-US": "Whitsun-Thursday — On the Marks of the Holy Ghost abiding in the Soul"
+          }
+        },
+        {
+          "id": "whitsun-friday",
+          "title": {
+            "en-US": "Whitsun-Friday — On the Sacrament of Confirmation"
+          }
+        },
+        {
+          "id": "whitsun-saturday",
+          "title": {
+            "en-US": "Whitsun-Saturday — On the Obligations of our Confirmation"
+          }
+        },
+        {
+          "id": "trinity-sunday",
+          "title": {
+            "en-US": "Trinity-Sunday — On the blessed Trinity"
+          }
+        },
+        {
+          "id": "monday-after-trinity-sunday",
+          "title": {
+            "en-US": "Monday after Trinity-Sunday — On the Figures of the blessed Eucharist, — And first of the paschal Lamb"
+          }
+        },
+        {
+          "id": "tuesday-after-trinity-sunday",
+          "title": {
+            "en-US": "Tuesday after Trinity-Sunday — Of the Manna, and the Bread of Elias"
+          }
+        },
+        {
+          "id": "wednesday-after-trinity-sunday",
+          "title": {
+            "en-US": "Wednesday after Trinity-Sunday — Of other Figures of the blessed Eucharist"
+          }
+        },
+        {
+          "id": "corpus-christ-day",
+          "title": {
+            "en-US": "Corpus-Christ Day — On the Institution of the blessed Eucharist"
+          }
+        },
+        {
+          "id": "friday-within-the-octave-of-corpus-christ",
+          "title": {
+            "en-US": "Friday within the Octave of Corpus-Christ — On the Mysteries contained in the blessed Eucharist"
+          }
+        },
+        {
+          "id": "saturday-within-the-octave-of-corpus-christ",
+          "title": {
+            "en-US": "Saturday within the Octave of Corpus Christ — Of the real Presence of Jesus Christ in the blessed Eucharist"
+          }
+        },
+        {
+          "id": "sunday-within-the-octave-of-corpus-christ",
+          "title": {
+            "en-US": "Sunday within the Octave of Corpus Christ — On Christ inviting us to this heavenly Banquet"
+          }
+        },
+        {
+          "id": "monday-within-the-octave-of-corpus-christ",
+          "title": {
+            "en-US": "Monday within the Octave of Corpus Christ — On the excellent Fruits of this divine Banquet"
+          }
+        },
+        {
+          "id": "tuesday-within-the-octave-of-corpus-christ",
+          "title": {
+            "en-US": "Tuesday within the Octave of Corpus Christ — On the Dispositions toe ought to bring to the holy Communion"
+          }
+        },
+        {
+          "id": "wednesday-within-the-octave-of-corpus-christ",
+          "title": {
+            "en-US": "Wednesday within the Octave of Corpus Christ — Of Devotion before Communion"
+          }
+        },
+        {
+          "id": "thursday-the-octave-of-corpus-christ",
+          "title": {
+            "en-US": "Thursday the Octave of Corpus Christ — On Devotion after Communion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "june",
+      "title": {
+        "en-US": "June",
+        "pt-BR": "Junho"
+      },
+      "children": [
+        {
+          "id": "jun-14",
+          "title": {
+            "en-US": "June 14 — Of the blessed Eucharist as it is a sacrifice"
+          }
+        },
+        {
+          "id": "jun-15",
+          "title": {
+            "en-US": "June 15 — On the Excellence of the Eucharistic Sacrifice"
+          }
+        },
+        {
+          "id": "jun-16",
+          "title": {
+            "en-US": "June 16 — On the blessed Eucharist as it is a Sacrifice of Adoration and Praise"
+          }
+        },
+        {
+          "id": "jun-17",
+          "title": {
+            "en-US": "June 17 — On the blessed Eucharist as it is a Sacrifice of Thanksgiving"
+          }
+        },
+        {
+          "id": "jun-18",
+          "title": {
+            "en-US": "June 18 — On the blessed Eucharist as it is a Sacrifice of Propitiation"
+          }
+        },
+        {
+          "id": "jun-19",
+          "title": {
+            "en-US": "June 19 — On the blessed Eucharist as it is a Sacrifice of Prayer and Supplication"
+          }
+        },
+        {
+          "id": "jun-20",
+          "title": {
+            "en-US": "June 20 — On the Devotion, with which we are to assist at the Sacrifice of the Altar"
+          }
+        },
+        {
+          "id": "jun-21",
+          "title": {
+            "en-US": "June 21 — On a spiritual Communion"
+          }
+        },
+        {
+          "id": "jun-22",
+          "title": {
+            "en-US": "June 22 — On the Sacrament of Penance"
+          }
+        },
+        {
+          "id": "jun-23",
+          "title": {
+            "en-US": "June 23 — On the Confession of our Sins"
+          }
+        },
+        {
+          "id": "jun-24",
+          "title": {
+            "en-US": "June 24 — On the Nativity of St. John the Baptist"
+          }
+        },
+        {
+          "id": "jun-25",
+          "title": {
+            "en-US": "June 25 — On the Lessons we are to ham from St, John 'Baptist"
+          }
+        },
+        {
+          "id": "jun-26",
+          "title": {
+            "en-US": "June 26 — On the Preparation toe ought to make for Confession"
+          }
+        },
+        {
+          "id": "jun-27",
+          "title": {
+            "en-US": "June 27 — On Motives of Repentance"
+          }
+        },
+        {
+          "id": "jun-28",
+          "title": {
+            "en-US": "June 28 — Other Motives of Contrition"
+          }
+        },
+        {
+          "id": "jun-29",
+          "title": {
+            "en-US": "June 29 — On St, Peter and St, Paul"
+          }
+        },
+        {
+          "id": "jun-30",
+          "title": {
+            "en-US": "June 30 — On Sincerity in Confession"
+          }
+        }
+      ]
+    },
+    {
+      "id": "july",
+      "title": {
+        "en-US": "July",
+        "pt-BR": "Julho"
+      },
+      "children": [
+        {
+          "id": "jul-01",
+          "title": {
+            "en-US": "July 1 — On Time and Eternity"
+          }
+        },
+        {
+          "id": "jul-02",
+          "title": {
+            "en-US": "July 2 — On the Visitation of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "jul-03",
+          "title": {
+            "en-US": "July 3 — On the good Employment of lime"
+          }
+        },
+        {
+          "id": "jul-04",
+          "title": {
+            "en-US": "July 4 — On remembering our last Things"
+          }
+        },
+        {
+          "id": "jul-05",
+          "title": {
+            "en-US": "July 5 — On the Certainty of Death"
+          }
+        },
+        {
+          "id": "jul-06",
+          "title": {
+            "en-US": "July 6 — On the Uncertainty of the Time and Manner of our Death"
+          }
+        },
+        {
+          "id": "jul-07",
+          "title": {
+            "en-US": "July 7 — On preparing for Death"
+          }
+        },
+        {
+          "id": "jul-08",
+          "title": {
+            "en-US": "July 8 — On the Sentiments we shall have at the Hour of our Death"
+          }
+        },
+        {
+          "id": "jul-09",
+          "title": {
+            "en-US": "July 9 — On ike Death of the just Man"
+          }
+        },
+        {
+          "id": "jul-10",
+          "title": {
+            "en-US": "July 10 — On the Death of the Wicked"
+          }
+        },
+        {
+          "id": "jul-11",
+          "title": {
+            "en-US": "July 11 — On the Condition of the Body after Death"
+          }
+        },
+        {
+          "id": "jul-12",
+          "title": {
+            "en-US": "July 12 — On the Spouse first entering into another World"
+          }
+        },
+        {
+          "id": "jul-13",
+          "title": {
+            "en-US": "July 13 — On the particular Judgment after Death"
+          }
+        },
+        {
+          "id": "jul-14",
+          "title": {
+            "en-US": "July 14 — On the Examination of the Soul in Judgment"
+          }
+        },
+        {
+          "id": "jul-15",
+          "title": {
+            "en-US": "July 15 — On the different States of departed Souls, before the last Day"
+          }
+        },
+        {
+          "id": "jul-16",
+          "title": {
+            "en-US": "July 16 — On the Sufferings of Souls in the middle State"
+          }
+        },
+        {
+          "id": "jul-17",
+          "title": {
+            "en-US": "July 17 — On the Terrors of the last Day"
+          }
+        },
+        {
+          "id": "jul-18",
+          "title": {
+            "en-US": "July 18 — On the general Resurrection"
+          }
+        },
+        {
+          "id": "jul-19",
+          "title": {
+            "en-US": "July 19 — On the Coming of the Judge"
+          }
+        },
+        {
+          "id": "jul-20",
+          "title": {
+            "en-US": "July 20 — On the Separation of the Good and the Bad"
+          }
+        },
+        {
+          "id": "jul-21",
+          "title": {
+            "en-US": "July 21 — On the Opening of the Books"
+          }
+        },
+        {
+          "id": "jul-22",
+          "title": {
+            "en-US": "July 22 — On the Conversion of St, Mary Magdalene, Luke vii"
+          }
+        },
+        {
+          "id": "jul-23",
+          "title": {
+            "en-US": "July 23 — On the last Sentence of the Good"
+          }
+        },
+        {
+          "id": "jul-24",
+          "title": {
+            "en-US": "July 24 — On the last Sentence of th Wicked"
+          }
+        },
+        {
+          "id": "jul-25",
+          "title": {
+            "en-US": "July 25 — On St. James"
+          }
+        },
+        {
+          "id": "jul-26",
+          "title": {
+            "en-US": "July 26 — On St, Ann"
+          }
+        },
+        {
+          "id": "jul-27",
+          "title": {
+            "en-US": "July 27 — On Hell"
+          }
+        },
+        {
+          "id": "jul-28",
+          "title": {
+            "en-US": "July 28 — Some other Considerations on Hell"
+          }
+        },
+        {
+          "id": "jul-29",
+          "title": {
+            "en-US": "July 29 — On the Prison of Hell"
+          }
+        },
+        {
+          "id": "jul-30",
+          "title": {
+            "en-US": "July 30 — On the Entertainments of Hell"
+          }
+        },
+        {
+          "id": "jul-31",
+          "title": {
+            "en-US": "July 31 — On the fire of Hell"
+          }
+        }
+      ]
+    },
+    {
+      "id": "august",
+      "title": {
+        "en-US": "August",
+        "pt-BR": "Agosto"
+      },
+      "children": [
+        {
+          "id": "aug-01",
+          "title": {
+            "en-US": "August 1 — On the Pain of Loss in Hell"
+          }
+        },
+        {
+          "id": "aug-02",
+          "title": {
+            "en-US": "August 2 — On the Worm of Hell"
+          }
+        },
+        {
+          "id": "aug-03",
+          "title": {
+            "en-US": "August 3 — On a miserable Eternity"
+          }
+        },
+        {
+          "id": "aug-04",
+          "title": {
+            "en-US": "August 4 — On the Happiness of Heaven"
+          }
+        },
+        {
+          "id": "aug-05",
+          "title": {
+            "en-US": "August 5 — On the good Things of our Lord in the Land of the Living"
+          }
+        },
+        {
+          "id": "aug-06",
+          "title": {
+            "en-US": "August 6 — On the Transfiguration of our Lord. St. Matthew xvii"
+          }
+        },
+        {
+          "id": "aug-07",
+          "title": {
+            "en-US": "August 7 — On the Glory of the heavenly Jerusalem"
+          }
+        },
+        {
+          "id": "aug-08",
+          "title": {
+            "en-US": "August 8 — On the happy Society of the heavenly Jerusalem"
+          }
+        },
+        {
+          "id": "aug-09",
+          "title": {
+            "en-US": "August 9 — On the eternal Enjoyment of God"
+          }
+        },
+        {
+          "id": "aug-10",
+          "title": {
+            "en-US": "August 10 — On St. Laurence"
+          }
+        },
+        {
+          "id": "aug-11",
+          "title": {
+            "en-US": "August 11 — On the Endowments of the glorified Bodies in Heaven"
+          }
+        },
+        {
+          "id": "aug-12",
+          "title": {
+            "en-US": "August 12 — On a happy Eternity"
+          }
+        },
+        {
+          "id": "aug-13",
+          "title": {
+            "en-US": "August 13 — On Conformity with the Will of God"
+          }
+        },
+        {
+          "id": "aug-14",
+          "title": {
+            "en-US": "August 14 — On the Motives that oblige us to a perpetual Conformity with the Will of God"
+          }
+        },
+        {
+          "id": "aug-15",
+          "title": {
+            "en-US": "August 15 — On the Assumption of the blessed Virgin"
+          }
+        },
+        {
+          "id": "aug-16",
+          "title": {
+            "en-US": "August 16 — On the Gospel read on the Festival of the Assumption of the Blessed Virgin, Luke xxx., &c"
+          }
+        },
+        {
+          "id": "aug-17",
+          "title": {
+            "en-US": "August 17 — On Resignation to the Will of God, in all our Sufferings"
+          }
+        },
+        {
+          "id": "aug-18",
+          "title": {
+            "en-US": "August 18 — On Self denial"
+          }
+        },
+        {
+          "id": "aug-19",
+          "title": {
+            "en-US": "August 19 — On the Mortification of the Interior"
+          }
+        },
+        {
+          "id": "aug-20",
+          "title": {
+            "en-US": "August 20 — On the Mortification of the Passions"
+          }
+        },
+        {
+          "id": "aug-21",
+          "title": {
+            "en-US": "August 21 — On the Mortification of the predominant Passion"
+          }
+        },
+        {
+          "id": "aug-22",
+          "title": {
+            "en-US": "August 22 — On the Mortification of the Sensual Appetite"
+          }
+        },
+        {
+          "id": "aug-23",
+          "title": {
+            "en-US": "August 23 — On the Mortification of Curiosity"
+          }
+        },
+        {
+          "id": "aug-24",
+          "title": {
+            "en-US": "August 24 — On the Gospel for St. Bartholomew, Luke vi. 12, &c"
+          }
+        },
+        {
+          "id": "aug-25",
+          "title": {
+            "en-US": "August 25 — On Humility"
+          }
+        },
+        {
+          "id": "aug-26",
+          "title": {
+            "en-US": "August 26 — On the School of Humility"
+          }
+        },
+        {
+          "id": "aug-27",
+          "title": {
+            "en-US": "August 27 — On the Master of whom we are to learn Humility"
+          }
+        },
+        {
+          "id": "aug-28",
+          "title": {
+            "en-US": "August 28 — On the Fruits of Humility"
+          }
+        },
+        {
+          "id": "aug-29",
+          "title": {
+            "en-US": "August 29 — On other Fruits of Humility"
+          }
+        },
+        {
+          "id": "aug-30",
+          "title": {
+            "en-US": "August 30 — On the Degrees of Humility"
+          }
+        },
+        {
+          "id": "aug-31",
+          "title": {
+            "en-US": "August 31 — On the Practice of Humility"
+          }
+        }
+      ]
+    },
+    {
+      "id": "september",
+      "title": {
+        "en-US": "September",
+        "pt-BR": "Setembro"
+      },
+      "children": [
+        {
+          "id": "sep-01",
+          "title": {
+            "en-US": "September 1 — On the eight Beatitudes St. Matt. v"
+          }
+        },
+        {
+          "id": "sep-02",
+          "title": {
+            "en-US": "September 2 — On Poverty of Spirit"
+          }
+        },
+        {
+          "id": "sep-03",
+          "title": {
+            "en-US": "September 3 — On Meekness"
+          }
+        },
+        {
+          "id": "sep-04",
+          "title": {
+            "en-US": "September 4 — On Mourning"
+          }
+        },
+        {
+          "id": "sep-05",
+          "title": {
+            "en-US": "September 5 — On Hungering and Thirsting after Justice"
+          }
+        },
+        {
+          "id": "sep-06",
+          "title": {
+            "en-US": "September 6 — On being merciful"
+          }
+        },
+        {
+          "id": "sep-07",
+          "title": {
+            "en-US": "September 7 — On Cleanness of Heart"
+          }
+        },
+        {
+          "id": "sep-08",
+          "title": {
+            "en-US": "September 8 — On the Nativity of the blessed Virgin"
+          }
+        },
+        {
+          "id": "sep-09",
+          "title": {
+            "en-US": "September 9 — On being Peace-makers"
+          }
+        },
+        {
+          "id": "sep-10",
+          "title": {
+            "en-US": "September 10 — On the Means of preserving and maintaining the Peace of the Soul"
+          }
+        },
+        {
+          "id": "sep-11",
+          "title": {
+            "en-US": "September 11 — On suffering Persecution for Justice Sake"
+          }
+        },
+        {
+          "id": "sep-12",
+          "title": {
+            "en-US": "September 12 — On the Virtue of Patience"
+          }
+        },
+        {
+          "id": "sep-13",
+          "title": {
+            "en-US": "September 13 — On the Means of acquiring Patience"
+          }
+        },
+        {
+          "id": "sep-14",
+          "title": {
+            "en-US": "September 14 — On the Exaltation of the Cross"
+          }
+        },
+        {
+          "id": "sep-15",
+          "title": {
+            "en-US": "September 15 — On the Presence of God"
+          }
+        },
+        {
+          "id": "sep-16",
+          "title": {
+            "en-US": "September 16 — On the Exercise of the Presence of God"
+          }
+        },
+        {
+          "id": "sep-17",
+          "title": {
+            "en-US": "September 17 — On the Advantages of this Exercise of the Presence of God"
+          }
+        },
+        {
+          "id": "sep-18",
+          "title": {
+            "en-US": "September 18 — On the Virtue of Obedience"
+          }
+        },
+        {
+          "id": "sep-19",
+          "title": {
+            "en-US": "September 19 — On the Fruits of Obedience"
+          }
+        },
+        {
+          "id": "sep-20",
+          "title": {
+            "en-US": "September 20 — On keeping the Commandments"
+          }
+        },
+        {
+          "id": "sep-21",
+          "title": {
+            "en-US": "September 21 — On St. Matthew"
+          }
+        },
+        {
+          "id": "sep-22",
+          "title": {
+            "en-US": "September 22 — On the Worship of God, enjoined by the first Commandment"
+          }
+        },
+        {
+          "id": "sep-23",
+          "title": {
+            "en-US": "September 23 — On the Prohibition of Worship"
+          }
+        },
+        {
+          "id": "sep-24",
+          "title": {
+            "en-US": "September 24 — On mourning God’s holy Name"
+          }
+        },
+        {
+          "id": "sep-25",
+          "title": {
+            "en-US": "September 25 — On keeping holy the Lord's Day"
+          }
+        },
+        {
+          "id": "sep-26",
+          "title": {
+            "en-US": "September 26 — Hour thy Father and thy Mother"
+          }
+        },
+        {
+          "id": "sep-27",
+          "title": {
+            "en-US": "September 27 — Thou shall not kill"
+          }
+        },
+        {
+          "id": "sep-28",
+          "title": {
+            "en-US": "September 28 — On Spiritual Murder"
+          }
+        },
+        {
+          "id": "sep-29",
+          "title": {
+            "en-US": "September 29 — On Michaelmas Day"
+          }
+        },
+        {
+          "id": "sep-30",
+          "title": {
+            "en-US": "September 30 — Thou shalt not commit Adultery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "october",
+      "title": {
+        "en-US": "October",
+        "pt-BR": "Outubro"
+      },
+      "children": [
+        {
+          "id": "oct-01",
+          "title": {
+            "en-US": "October 1 — Thou shall not steal"
+          }
+        },
+        {
+          "id": "oct-02",
+          "title": {
+            "en-US": "October 2 — On our guardian Angels"
+          }
+        },
+        {
+          "id": "oct-03",
+          "title": {
+            "en-US": "October 3 — Thou shalt not bear false Witness against thy Neighbour"
+          }
+        },
+        {
+          "id": "oct-04",
+          "title": {
+            "en-US": "October 4 — On rash Judgment"
+          }
+        },
+        {
+          "id": "oct-05",
+          "title": {
+            "en-US": "October 5 — On avoiding all Manner of Lies"
+          }
+        },
+        {
+          "id": "oct-06",
+          "title": {
+            "en-US": "October 6 — Thou shalt not covet, &c."
+          }
+        },
+        {
+          "id": "oct-07",
+          "title": {
+            "en-US": "October 7 — On the Precepts of the Church"
+          }
+        },
+        {
+          "id": "oct-08",
+          "title": {
+            "en-US": "October 8 — On the Vice of Pride"
+          }
+        },
+        {
+          "id": "oct-09",
+          "title": {
+            "en-US": "October 9 — On the Malignity of Pride"
+          }
+        },
+        {
+          "id": "oct-10",
+          "title": {
+            "en-US": "October 10 — Remedies against Pride"
+          }
+        },
+        {
+          "id": "oct-11",
+          "title": {
+            "en-US": "October 11 — Other Prescriptions against Pride"
+          }
+        },
+        {
+          "id": "oct-12",
+          "title": {
+            "en-US": "October 12 — On Vain-glory"
+          }
+        },
+        {
+          "id": "oct-13",
+          "title": {
+            "en-US": "October 13 — Prescriptions against Vain-glory"
+          }
+        },
+        {
+          "id": "oct-14",
+          "title": {
+            "en-US": "October 14 — On the Vice of Covetousness"
+          }
+        },
+        {
+          "id": "oct-15",
+          "title": {
+            "en-US": "October 15 — Prescriptions against Covetousness out of Holy Writ"
+          }
+        },
+        {
+          "id": "oct-16",
+          "title": {
+            "en-US": "October 16 — On the Vice of Impurity"
+          }
+        },
+        {
+          "id": "oct-17",
+          "title": {
+            "en-US": "October 17 — Prescriptions against Impurity"
+          }
+        },
+        {
+          "id": "oct-18",
+          "title": {
+            "en-US": "October 18 — On the Virtue of Chastity"
+          }
+        },
+        {
+          "id": "oct-19",
+          "title": {
+            "en-US": "October 19 — On the Vice of Anger"
+          }
+        },
+        {
+          "id": "oct-20",
+          "title": {
+            "en-US": "October 20 — Remedies against the Vice of Anger"
+          }
+        },
+        {
+          "id": "oct-21",
+          "title": {
+            "en-US": "October 21 — On the Vice of Intemperance"
+          }
+        },
+        {
+          "id": "oct-22",
+          "title": {
+            "en-US": "October 22 — Prescriptions against Intemperance"
+          }
+        },
+        {
+          "id": "oct-23",
+          "title": {
+            "en-US": "October 23 — On the Vice of Envy"
+          }
+        },
+        {
+          "id": "oct-24",
+          "title": {
+            "en-US": "October 24 — Remedies against Envy"
+          }
+        },
+        {
+          "id": "oct-25",
+          "title": {
+            "en-US": "October 25 — On the Vice of Spiritual Sloth"
+          }
+        },
+        {
+          "id": "oct-26",
+          "title": {
+            "en-US": "October 26 — On the Remedies against Spiritual Sloth"
+          }
+        },
+        {
+          "id": "oct-27",
+          "title": {
+            "en-US": "October 27 — On the Christian's Warfare"
+          }
+        },
+        {
+          "id": "oct-28",
+          "title": {
+            "en-US": "October 28 — On St, Simon and St, Jude"
+          }
+        },
+        {
+          "id": "oct-29",
+          "title": {
+            "en-US": "October 29 — On the Christian's Arm&ur"
+          }
+        },
+        {
+          "id": "oct-30",
+          "title": {
+            "en-US": "October 30 — On the Christian Conflict"
+          }
+        },
+        {
+          "id": "oct-31",
+          "title": {
+            "en-US": "October 31 — On the Four Cardinal Virtues"
+          }
+        }
+      ]
+    },
+    {
+      "id": "november",
+      "title": {
+        "en-US": "November",
+        "pt-BR": "Novembro"
+      },
+      "children": [
+        {
+          "id": "nov-01",
+          "title": {
+            "en-US": "November 1 — On the Feast of all the Saints"
+          }
+        },
+        {
+          "id": "nov-02",
+          "title": {
+            "en-US": "November 2 — On the Commemoration of All Souls"
+          }
+        },
+        {
+          "id": "nov-03",
+          "title": {
+            "en-US": "November 3 — On the Obligation of all Christians to be Saints"
+          }
+        },
+        {
+          "id": "nov-04",
+          "title": {
+            "en-US": "November 4 — On the Means we all have to become Saints"
+          }
+        },
+        {
+          "id": "nov-05",
+          "title": {
+            "en-US": "November 5 — On the Perfection of our ordinary Actions"
+          }
+        },
+        {
+          "id": "nov-06",
+          "title": {
+            "en-US": "November 6 — On the Sanctity of the Christian's Institute"
+          }
+        },
+        {
+          "id": "nov-07",
+          "title": {
+            "en-US": "November 7 — On following the Light of Christ"
+          }
+        },
+        {
+          "id": "nov-08",
+          "title": {
+            "en-US": "November 8 — One Thing is necessary. Luke. x. 42"
+          }
+        },
+        {
+          "id": "nov-09",
+          "title": {
+            "en-US": "November 9 — Strive to enter hy the narrow Gate. Luke xiii. 24"
+          }
+        },
+        {
+          "id": "nov-10",
+          "title": {
+            "en-US": "November 10 — No Man can serve two Masters. Matt. vi. 24"
+          }
+        },
+        {
+          "id": "nov-11",
+          "title": {
+            "en-US": "November 11 — He that doth not renounce all that he possesseth cannot be my Disciple. Luke xiv. 33"
+          }
+        },
+        {
+          "id": "nov-12",
+          "title": {
+            "en-US": "November 12 — If any Man will come after me let him deny himself. Matt. xvi. 24"
+          }
+        },
+        {
+          "id": "nov-13",
+          "title": {
+            "en-US": "November 13 — Except your justice exceed that of the Scribes and Pharisee you shall not enter into the kingdom of Heaven. — Mat v. 2D"
+          }
+        },
+        {
+          "id": "nov-14",
+          "title": {
+            "en-US": "November 14 — The Kingdom of Heaven is like unto a Treasure"
+          }
+        },
+        {
+          "id": "nov-15",
+          "title": {
+            "en-US": "November 15 — On the Parable of the Marriage Feast. Matt. xxii"
+          }
+        },
+        {
+          "id": "nov-16",
+          "title": {
+            "en-US": "November 16 — On the Parable of the barren Fig-tree. Luke xiii"
+          }
+        },
+        {
+          "id": "nov-17",
+          "title": {
+            "en-US": "November 17 — On the Parable of the Prodigal Son. Luke xv"
+          }
+        },
+        {
+          "id": "nov-18",
+          "title": {
+            "en-US": "November 18 — On the Parable of the unjust Steward. Luke xvi"
+          }
+        },
+        {
+          "id": "nov-19",
+          "title": {
+            "en-US": "November 19 — On the rich Man, and the poor Beggar. Luke xvi"
+          }
+        },
+        {
+          "id": "nov-20",
+          "title": {
+            "en-US": "November 20 — On the Charitable Samaritan. Luke x"
+          }
+        },
+        {
+          "id": "nov-21",
+          "title": {
+            "en-US": "November 21 — On the Presentation of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "nov-22",
+          "title": {
+            "en-US": "November 22 — On the Pharisee and the Publican, Luke xviii"
+          }
+        },
+        {
+          "id": "nov-23",
+          "title": {
+            "en-US": "November 23 — On the Parable of the Grain of Mustard Seed Matt. xiii. 31"
+          }
+        },
+        {
+          "id": "nov-24",
+          "title": {
+            "en-US": "November 24 — On the Parable of the Ten Virgins. Matt. xxv"
+          }
+        },
+        {
+          "id": "nov-25",
+          "title": {
+            "en-US": "November 25 — On the Parable of the Talents. Mat xxv"
+          }
+        },
+        {
+          "id": "nov-26",
+          "title": {
+            "en-US": "November 26 — On the Parable of the Vineyard let out to Husbandmen"
+          }
+        },
+        {
+          "id": "nov-27",
+          "title": {
+            "en-US": "November 27 — On the merciful Dealings of Christ our Lord with Sinners"
+          }
+        },
+        {
+          "id": "nov-28",
+          "title": {
+            "en-US": "November 28 — On the Conversion of Zacheus, Luke xix"
+          }
+        },
+        {
+          "id": "nov-29",
+          "title": {
+            "en-US": "November 29 — On Christ weeping over Jerusalem, Luke xix"
+          }
+        },
+        {
+          "id": "nov-30",
+          "title": {
+            "en-US": "November 30 — On St. Andrew"
+          }
+        }
+      ]
+    },
+    {
+      "id": "december",
+      "title": {
+        "en-US": "December",
+        "pt-BR": "Dezembro"
+      },
+      "children": [
+        {
+          "id": "dec-01",
+          "title": {
+            "en-US": "December 1 — On the Time of Advent"
+          }
+        },
+        {
+          "id": "dec-02",
+          "title": {
+            "en-US": "December 2 — On what we must do to prepare the Way of the Lord"
+          }
+        },
+        {
+          "id": "dec-03",
+          "title": {
+            "en-US": "December 3 — On the Miracles of Christ our Lord"
+          }
+        },
+        {
+          "id": "dec-04",
+          "title": {
+            "en-US": "December 4 — On our Glorious cleansing the Lepers"
+          }
+        },
+        {
+          "id": "dec-05",
+          "title": {
+            "en-US": "December 5 — On our Lord's stilling the Storm at Sea; and feeding the Multitude"
+          }
+        },
+        {
+          "id": "dec-06",
+          "title": {
+            "en-US": "December 6 — On the Lessons that are to be learned from other Miracles of out Lord"
+          }
+        },
+        {
+          "id": "dec-07",
+          "title": {
+            "en-US": "December 7 — On our Lord giving Sight to the Blind and raising the Dead to Life"
+          }
+        },
+        {
+          "id": "dec-08",
+          "title": {
+            "en-US": "December 8 — On the Conception of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "dec-09",
+          "title": {
+            "en-US": "December 9 — On the Purity with which we are to prepare our Souls for Christ"
+          }
+        },
+        {
+          "id": "dec-10",
+          "title": {
+            "en-US": "December 10 — On purifying the interior Powers of the Soul"
+          }
+        },
+        {
+          "id": "dec-11",
+          "title": {
+            "en-US": "December 11 — On the Purity of our Actions"
+          }
+        },
+        {
+          "id": "dec-12",
+          "title": {
+            "en-US": "December 12 — On the Angelical Salutation"
+          }
+        },
+        {
+          "id": "dec-13",
+          "title": {
+            "en-US": "December 13 — On the Wonders of God, in the Incarnation of his Son"
+          }
+        },
+        {
+          "id": "dec-14",
+          "title": {
+            "en-US": "December 14 — On the Glory of God, in the Incarnation of his Son"
+          }
+        },
+        {
+          "id": "dec-15",
+          "title": {
+            "en-US": "December 15 — On the Glory the Son of God gave to his Father in his Moth er's Womb"
+          }
+        },
+        {
+          "id": "dec-16",
+          "title": {
+            "en-US": "December 16 — On the Charity of the Son of God for m5, in his Mother's Womb"
+          }
+        },
+        {
+          "id": "dec-17",
+          "title": {
+            "en-US": "December 17 — On the Benefits which the Son of God brings to us by his carnation"
+          }
+        },
+        {
+          "id": "dec-18",
+          "title": {
+            "en-US": "December 18 — On other Benefits of our Saviour to Mankind, by his Incarnate nation"
+          }
+        },
+        {
+          "id": "dec-19",
+          "title": {
+            "en-US": "December 19 — On our Saviour as our King and our Priest"
+          }
+        },
+        {
+          "id": "dec-20",
+          "title": {
+            "en-US": "December 20 — On our Saviour, as our Sacrifice"
+          }
+        },
+        {
+          "id": "dec-21",
+          "title": {
+            "en-US": "December 21 — On St. Thomas, the Apostle"
+          }
+        },
+        {
+          "id": "dec-22",
+          "title": {
+            "en-US": "December 22 — On the Ember Week in Advent"
+          }
+        },
+        {
+          "id": "dec-23",
+          "title": {
+            "en-US": "December 23 — On the Preparation for the Birth of Christ"
+          }
+        },
+        {
+          "id": "dec-24",
+          "title": {
+            "en-US": "December 24 — On the Birth of Christ"
+          }
+        },
+        {
+          "id": "dec-25",
+          "title": {
+            "en-US": "December 25 — On Christmas-Day"
+          }
+        },
+        {
+          "id": "dec-26",
+          "title": {
+            "en-US": "December 26 — On St, Stephen"
+          }
+        },
+        {
+          "id": "dec-27",
+          "title": {
+            "en-US": "December 27 — On St. John the Apostle and Evangelist"
+          }
+        },
+        {
+          "id": "dec-28",
+          "title": {
+            "en-US": "December 28 — On the Holy Innocents"
+          }
+        },
+        {
+          "id": "dec-29",
+          "title": {
+            "en-US": "December 29 — On the Gospel of the good Shepherd (John x,) read on the Feast of Thomas of Canterbury"
+          }
+        },
+        {
+          "id": "dec-30",
+          "title": {
+            "en-US": "December 30 — On the Conclusion of the Year"
+          }
+        },
+        {
+          "id": "dec-31",
+          "title": {
+            "en-US": "December 31 — On the Gospel of girding the Loins, (Luke xii. 35, &c.,;"
+          }
+        }
+      ]
+    }
+  ]
+}
