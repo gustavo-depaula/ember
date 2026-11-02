@@ -1,0 +1,19 @@
+# Chapter 72: Instructions on various subjects. § 1 . Of the stains ivhich might tarnish the purity of virginity
+
+As Gertrude prayed once for a person who ardently desired to have the merit of virginity before God, but who feared to have tarnished its brightness by some human weakness, she appeared in the arms of the Lord, clothed modestly in a snow-white robe ; and He gave this instruction : " When virginity receives some slight stain through human weak ness, and this becomes the occasion of exercising a true and solid penance, I cause these stains to appear as or naments on the soul, and they adorn it as folds adorn a robe.t Nevertheless, as Scripture, which cannot be in
+
+'Dicuntur habere vires." f " Sicut plicae in vestimento."
+
+error, assures us 'that incorruption bringeth near to God1 (Wis. vi.), it must be observed, that if these stains weie caused by great sins, they would impede the effusions of Divine love."
+
+§ 2. Of renouncing our own judgment.
+
+As she prayed for another person who desired Divine consolation, she received this reply : " She is herself the obstacle which prevents her from receiving the sweetness of My grace ; for when I draw My elect to Me by the in terior attractions of My love, they who remain obstinate in the exercise of their own judgment place the same impedi ment to it as one would who closed his nostrils with his robe to prevent himself from smelling a delicious perfume. But he who, for love of Me, renounces his own judgment to follow that of another, acquires a merit all the greater few acting contrary to his inclination, because he is not merely humble, but perfectly victorious ; for the apostle says none will be crowned ' except he strives lawfully ' " (2 Tim. ii.)
+
+§ 3. That the will is reputed before God as an act.
+
+As the Saint prayed for a person who found great diffi culty in a work which had been commanded her, our Lord instructed her thus : "If any one desires, for love of Me, to undertake any painful work, by which he fears to be hindered from his devotions, if heprefersthe accomplishment of My will to his soul's good, I will so esteem the purity his intention, as to consider it as if it had really been of carried into action ; and even if he never commences what he has undertaken, he will not fail to obtain the same re ward from Me as if he had accomplished it, and had never committed the least negligence in the matter.
+
+§ 4. That we ought not to prefer exterior things to interior.
+
+On another occasion, when the Saint prayed for a per son who was troubled about some subject of which she was herself the cause, she received this reply : " By these pains I purify the negligence which she has contracted by preferring, from human motives, an exterior utility to her interior advancement." " But since she cannot live without the exterior goods," replied the Saint, " what fault can she have committed by this foresight^, which is a necessity of her office 1 " Our Lord answered : " It is an honour and an ornament to a lady of rank to wear a mantle lined with furs ; but if she turned it inside out, what was suitable for her rank would become a subject of confusion, so that her mother, to prevent such an exposure, would cover her with another mantle, lest she should be considered to have lost her senses. Thus I, who tenderly love this person as My own child, cover her defects with different kinds of afflic tions, and I permit them to happen to her for this reason, without any fault of hers. Further, I have adorned her with patience as a special ornament; for Ihave recommended in the Gospel that men should seek first the kingdom of God and His justice — that is, the perfection of the interior man — and then, not that they should seek exterior things, for I have promised that they shall be added to them." These words should be carefully considered by all religious who desire to be friends of God.

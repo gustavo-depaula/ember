@@ -1,0 +1,3 @@
+# Chapter 55: Our Lord shows her His Heart
+
+Jesus CHRIST once appeared to the Saint, and, showing her His Heart, said to her : " My beloved, give Me your heart j " and as she presented it to Him with profound respect, it seemed to her that He united it to His by a canal which reached to the ground, through which He poured forth abundantly the effusions of His infinite grace, saying to her : " Henceforth I shall use your heart as a canal through which I will pour forth the impetuous torrents of mercy and consolation which flow from My loving Heart on all those who shall dispose themselves to receive it, by having recourse to you with humility and confidence."

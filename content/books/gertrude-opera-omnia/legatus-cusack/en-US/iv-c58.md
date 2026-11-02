@@ -1,0 +1,7 @@
+# Chapter 58: For the Feast of St. Catherine. Of the patronage and merits of this Saint
+
+When our Lord explained the words, Non est similis illi, to St. Gertrude, on the Feast of St. Augustine, He
+
+*St. Elizabeth of Hungary ; Nov. 19. This Saint lived in the same century as St. Gertrude. She was born in 1207, died in 1231, and was canonised in 1235. The ardent devotion which her sanctity had excited was at its highest point of fervour at the close of the century, when St. Gertrude wrote.
+
+The quotation Eia mater — " O Mother, acknowledge us for thy children " — is from the Prose, Gaude, Sion, quod egressus, Mass of St. Elizabeth, Nov. 19, Missale Brixinense showed her the merits of many saints, and, amongst others, those of the glorious virgin Catherine, to whom she had been singularly devoted from her infancy. To satisfy her desires, our Lord showed her this Saint, seated on a high throne, and in a state of great glory and magnificence, as if there were no queen in heaven whose glory equalled hers. The fifty philosophers, whom she had won by her wisdom and knowledge, appeared before her, and each held a golden sceptre in his hand, with which he touched the robe of the Saint, to indicate that their wisdom would have been use less had not this virgin taught them how to employ it for the honour and glory of their Creator. She observed also that our Lord bestowed the same caresses on this virgin as on St. Agnes, and that He drew into His Heart all that was said or done in her honour on earth, crowning her with it gloriously.

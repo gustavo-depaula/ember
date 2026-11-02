@@ -1,0 +1,5 @@
+# Chapter 31: For Thursday in Easter Week. Of offering our actions to God
+
+ON Thursday in Easter week, as the Gospel was read which relates how Magdalen " stooped down and looked into the sepulchre, and saw two angels," * St. Gertrude said to our Lord : "Into what sepulchre shall I look to find the con solation of my spirit ? " Our Lord then showed her tha sacred Wound of His Side, where, instead of two angels, she heard two things : first, " You shall never be separated from My company ; " and secondly, " All your actions are perfectly agreeable to Me." t She was much surprised at this, and began to consider how it could be, since she thought her actions could not be pleasing to any one, and saw in them herself such great imperfections ; while the Divine light enabled her to discover a thousand faults where others could not see any ; but our Lord said to her : " The good and praiseworthy custom which you have of recommending your actions to Me so frequently, and of placing them in My hands, makes Me correct those which are defective, that they may please Me perfectly and all My celestial court."
+
+t " Omnia opera tua mihi perfectissimo modo placent."

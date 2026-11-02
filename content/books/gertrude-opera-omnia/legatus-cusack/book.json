@@ -1,0 +1,1238 @@
+{
+  "id": "gertrude-legatus-cusack",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Life and Revelations of St. Gertrude",
+    "pt-BR": "Vida e Revelações de Santa Gertrudes"
+  },
+  "author": {
+    "la": "Gertrudis Magna",
+    "en-US": "St. Gertrude the Great",
+    "pt-BR": "Santa Gertrudes, a Grande"
+  },
+  "description": {
+    "en-US": "Cusack's 1870 English version of the Legatus divinae pietatis: a life of Gertrude drawing on Book I and the Latin lives, then Books II-V in her own and her sisters' words. Rearranged and abridged, so it is a separate book from the Latin.",
+    "pt-BR": "A versão inglesa de Cusack (1870) do Legatus divinae pietatis: uma vida de Gertrudes baseada no Livro I e nas biografias latinas, e em seguida os Livros II a V. Reorganizada e resumida, por isso é um livro à parte do latim."
+  },
+  "composed": "c. 1289-1302",
+  "languages": [
+    "en-US"
+  ],
+  "work": "gertrude/legatus-divinae-pietatis",
+  "editions": {
+    "en-US": {
+      "translator": "M. F. Cusack (a Poor Clare)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/thelifeandrevela00gertuoft",
+      "edition": "The Life and Revelations of Saint Gertrude, Virgin and Abbess, of the Order of St. Benedict, London: Burns & Oates, 1870 (translated from the Latin of Canteleu, 1662).",
+      "description": "Internet Archive OCR. Contents pages, running heads, page-foot notes and the appended prayer manual and index are dropped; chapters are numbered by order within each part (research/sourcing/_scripts/gertrude_cusack.py). Book I is not translated: its substance is in Part I.",
+      "tier": "A",
+      "tierEvidence": "English translation published 1865/1870."
+    }
+  ],
+  "toc": [
+    {
+      "id": "life",
+      "title": {
+        "en-US": "Part I: The Life of St. Gertrude"
+      },
+      "children": [
+        {
+          "id": "life-c01",
+          "title": {
+            "en-US": "Chapter 1: The Saint's birth and parentage— Her early dedication to God—In tellectual gifts— Divine communications concerning her sanctity"
+          }
+        },
+        {
+          "id": "life-c02",
+          "title": {
+            "en-US": "Chapter 2"
+          }
+        },
+        {
+          "id": "life-c03",
+          "title": {
+            "en-US": "Chapter 3: 'fl;e Saint obtains favourable weatlier — Miracles mentioned in her Office— Union of her will with God's — Counsels others — Desired to write her revelations — Her sanctity revealed to St. Mechtilde,"
+          }
+        },
+        {
+          "id": "life-c04",
+          "title": {
+            "en-US": "Chapter 4: She asks St. Mechtilde to pray for her— Our Lord is pleased with hei patience and mildness— He declares that He dwells in her ; and hides her imperfections"
+          }
+        },
+        {
+          "id": "life-c05",
+          "title": {
+            "en-US": "Chapter 5: The Saint as Abbess— Tenderness towards others— Care of the sick— Her last illness— Value of suffering— She is forbidden to resign her office— Our Lord accepts as done to Himself what is done for her — St. Lebuiu"
+          }
+        },
+        {
+          "id": "life-c06",
+          "title": {
+            "en-US": "Chapter 6: Her dying words— Devotion to the Diviue Office— Tenderness to her spiritual children— Our Lord appears to her in her agony — Promises to receive her as He received His blessed Mother- Angels call her to paradise"
+          }
+        },
+        {
+          "id": "life-c07",
+          "title": {
+            "en-US": "Chapter 7: Her death — Of her eternal joys — Our Lord consoles her religioUB — Revelations of her sanctity — Prays that her religious may b* comforted at her tomb— Her obsequies— Our Lord blesses her tomb"
+          }
+        },
+        {
+          "id": "life-c08",
+          "title": {
+            "en-US": "Chapter 8: Favours granted at the interment of the Saint— Souls released through her intercession— How our Lord gathered a lily— Of fear in the last agony— Purgatory in sickness — Efficacy of prayers for the dead"
+          }
+        },
+        {
+          "id": "life-c09",
+          "title": {
+            "en-US": "Chapter 9: Happy death of another religious— Our Lord specially rewards her charity to others— Purgatory in sickness — How our Lord purified a dying religious — Efficacy of prayers for the departed — Of Masses for the dead— .Reward of fervour when suffering"
+          }
+        },
+        {
+          "id": "life-c10",
+          "title": {
+            "en-US": "Chapter 10: St. Gertrude not formally canonised— History of her cultus — Benedict XIV.— Her Office approved— Name inserted in Martyrology— Lanspergius— His history— Preface to Insinuationes— Plea for the female sex — Conclusion"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ii",
+      "title": {
+        "en-US": "Part II: The Revelations, Book II (written by herself)"
+      },
+      "children": [
+        {
+          "id": "ii-c01",
+          "title": {
+            "en-US": "Chapter 1: Ilie Saint's thanksgiving to God for the first grace vouchsafed to her, by which her mind was withdrawn from earthly things and united to Him"
+          }
+        },
+        {
+          "id": "ii-c02",
+          "title": {
+            "en-US": "Chapter 2: How the grace of God illuminated her interiorly"
+          }
+        },
+        {
+          "id": "ii-c03",
+          "title": {
+            "en-US": "Chapter 3: Of the pleasure which God took in making His abode in the soul of Gertrude"
+          }
+        },
+        {
+          "id": "ii-c04",
+          "title": {
+            "en-US": "Chapter 4: Of the stigmatac imprinted in the heart of Gertrude, and her exercises in honour of the Five \"Wounds"
+          }
+        },
+        {
+          "id": "ii-c05",
+          "title": {
+            "en-US": "Chapter 5: Of the Wound of Divine Love ; and of the manlier of bathing, anointing, and binding it up"
+          }
+        },
+        {
+          "id": "ii-c06",
+          "title": {
+            "en-US": "Chapter 6: Of the intimate union of the Infant Jesus with her heart"
+          }
+        },
+        {
+          "id": "ii-c07",
+          "title": {
+            "en-US": "Chapter 7: The Divinity is imprinted upon the soul of Gertrude as a seal upon wax"
+          }
+        },
+        {
+          "id": "ii-c08",
+          "title": {
+            "en-US": "Chapter 8: Of the admirable union of her soul with God"
+          }
+        },
+        {
+          "id": "ii-c09",
+          "title": {
+            "en-US": "Chapter 9: Of another admirable manner in which St. Gertrude was closely united to God"
+          }
+        },
+        {
+          "id": "ii-c10",
+          "title": {
+            "en-US": "Chapter 10: How the Lord obliged her to write these things ; and how He illuminated her"
+          }
+        },
+        {
+          "id": "ii-c11",
+          "title": {
+            "en-US": "Chapter 11: She receives the gift of tears, and is warned of the snares which the demon has laid for her"
+          }
+        },
+        {
+          "id": "ii-c12",
+          "title": {
+            "en-US": "Chapter 12: With how much goodness God bears our faults"
+          }
+        },
+        {
+          "id": "ii-c13",
+          "title": {
+            "en-US": "Chapter 13: Of the necessity of exact vigilance over the senses and affections"
+          }
+        },
+        {
+          "id": "ii-c15",
+          "title": {
+            "en-US": "Chapter 15: How agreeable works of charity are to God ; and also meditation* on holy things"
+          }
+        },
+        {
+          "id": "ii-c16",
+          "title": {
+            "en-US": "Chapter 16: Of the inconceivable tenderness which the most glorious Virgin has for us"
+          }
+        },
+        {
+          "id": "ii-c17",
+          "title": {
+            "en-US": "Chapter 17: Of the garments with which we should clothe Jesus and His Mother"
+          }
+        },
+        {
+          "id": "ii-c18",
+          "title": {
+            "en-US": "Chapter 18: How God bears with our defects— Instruction on humility"
+          }
+        },
+        {
+          "id": "ii-c19",
+          "title": {
+            "en-US": "Chapter 19: How God is pleased to condescend to His creatures ; and what glory God derives thence from the blessed"
+          }
+        },
+        {
+          "id": "ii-c20",
+          "title": {
+            "en-US": "Chapter 20: Of some considerable privileges which God granted to this virgin, and of the grace which He promised to her clients"
+          }
+        },
+        {
+          "id": "ii-c21",
+          "title": {
+            "en-US": "Chapter 21: Thanksgivings for the confirmation of the aforesaid favours"
+          }
+        },
+        {
+          "id": "ii-c22",
+          "title": {
+            "en-US": "Chapter 22: How St. Gertrude was admitted to the vision of God— Of the kiss of peace, and other similar favours"
+          }
+        },
+        {
+          "id": "ii-c23",
+          "title": {
+            "en-US": "Chapter 23: Recapitulation of the gifts already mentioned— The Saint complains of her infirmity and ingratitude"
+          }
+        },
+        {
+          "id": "ii-c24",
+          "title": {
+            "en-US": "Chapter 24: Conclusion of this Book"
+          }
+        }
+      ]
+    },
+    {
+      "id": "iii",
+      "title": {
+        "en-US": "Part III: The Revelations, Book III"
+      },
+      "children": [
+        {
+          "id": "iii-c01",
+          "title": {
+            "en-US": "Chapter 1: Our Lord gives His Blessed Mother to St. Gertrude to be her mother, in order that she may have recourse to her in all her afflictions"
+          }
+        },
+        {
+          "id": "iii-c02",
+          "title": {
+            "en-US": "Chapter 2: Adversity is the spiritual ring with which the soul is betrothed to God"
+          }
+        },
+        {
+          "id": "iii-c03",
+          "title": {
+            "en-US": "Chapter 3: Human consolation weakens that which is Divine"
+          }
+        },
+        {
+          "id": "iii-c04",
+          "title": {
+            "en-US": "Chapter 4: How vile and despicable are all transitory pleasures"
+          }
+        },
+        {
+          "id": "iii-c05",
+          "title": {
+            "en-US": "Chapter 5: The perfect resignation of St. Gertrude into the hands of God in all adversities, and what merit she acquired thereby"
+          }
+        },
+        {
+          "id": "iii-c06",
+          "title": {
+            "en-US": "Chapter 6: The co-operation of the faithful soul at the Holy Sacrifice— Five favours on which the Saint was desired to meditate, when unable to assist at it"
+          }
+        },
+        {
+          "id": "iii-c07",
+          "title": {
+            "en-US": "Chapter 7: \"With what confidence we should have recourse to God in all our needs and temptations"
+          }
+        },
+        {
+          "id": "iii-c08",
+          "title": {
+            "en-US": "Chapter 8: Of the efficacy of prayers for others"
+          }
+        },
+        {
+          "id": "iii-c09",
+          "title": {
+            "en-US": "Chapter 9: Of the admirable effects of Communion, and that we should not lightly abstain from It, even for our unworthiness"
+          }
+        },
+        {
+          "id": "iii-c10",
+          "title": {
+            "en-US": "Chapter 10: The indulgence which our Lord granted to St. Gertrude— Her ardent desire to be conformed in all things to the will of God"
+          }
+        },
+        {
+          "id": "iii-c12",
+          "title": {
+            "en-US": "Chapter 12: Rep.tration for the fall of a Host, which it was feared had been consecrated"
+          }
+        },
+        {
+          "id": "iii-c13",
+          "title": {
+            "en-US": "Chapter 13: Of the value and efficacy of Confession — How we should conquer the difficulties we feel in approaching the Sacrament of Penance"
+          }
+        },
+        {
+          "id": "iii-c14",
+          "title": {
+            "en-US": "Chapter 14: The different effects of charity are explained by the comparison o! a tree covered with leaves, flowers, and fruit"
+          }
+        },
+        {
+          "id": "iii-c15",
+          "title": {
+            "en-US": "Chapter 15: How afflictions unite the soul to Jesus Christ ; and of the effect of an unjust excommunication"
+          }
+        },
+        {
+          "id": "iii-c16",
+          "title": {
+            "en-US": "Chapter 16: A vision in -which St. Gertrude beheld our Lord communicating the sisters"
+          }
+        },
+        {
+          "id": "iii-c17",
+          "title": {
+            "en-US": "Chapter 17: How we should prepare ourselves to receive the Body of Jesus Christ — Differeut exercises of piety which St. Gertrude practised towards this august Sacrament"
+          }
+        },
+        {
+          "id": "iii-c18",
+          "title": {
+            "en-US": "Chapter 18: The devotion of St. Gertrude to the Mother of God— She is taught to invoke her as the white lily of the adorable Trinity, and the vermilion rose of heaven"
+          }
+        },
+        {
+          "id": "iii-c20",
+          "title": {
+            "en-US": "Chapter 20: How God desires to be sought for by the soul that loves Him ; and how He loves us when we suffer"
+          }
+        },
+        {
+          "id": "iii-c21",
+          "title": {
+            "en-US": "Chapter 21: The Saint receives a triple absolution and benediction from the Blessed Trinity, through the merits of Jesus Christ"
+          }
+        },
+        {
+          "id": "iii-c22",
+          "title": {
+            "en-US": "Chapter 22: Favours granted to the Saint during the recital of the Divine Office"
+          }
+        },
+        {
+          "id": "iii-c23",
+          "title": {
+            "en-US": "Chapter 23: Of the abundant virtue which flows from the Heart of Jesus into the faithful soul"
+          }
+        },
+        {
+          "id": "iii-c24",
+          "title": {
+            "en-US": "Chapter 24: Of the sepulchre of Jesus Christ in the faithful soul, and how to make a spiritual cloister in the Body and Heart of Jesus"
+          }
+        },
+        {
+          "id": "iii-c25",
+          "title": {
+            "en-US": "Chapter 25: Of the union of the soul with Jesus Christ, and how she is pre pared, by the merits of the Saints, to be an agreeable abode for her God"
+          }
+        },
+        {
+          "id": "iii-c26",
+          "title": {
+            "en-US": "Chapter 26: Of the merit of a good will, and instructions on some words of the Divine Office"
+          }
+        },
+        {
+          "id": "iii-c27",
+          "title": {
+            "en-US": "Chapter 27: Why God is pleased by images of Jesus crucified"
+          }
+        },
+        {
+          "id": "iii-c28",
+          "title": {
+            "en-US": "Chapter 28: Of spiritual thirst for God, and of the utility of sufferings"
+          }
+        },
+        {
+          "id": "iii-c29",
+          "title": {
+            "en-US": "Chapter 29: How insidious are the snares of the demon, and especially when we chant"
+          }
+        },
+        {
+          "id": "iii-c30",
+          "title": {
+            "en-US": "Chapter 30: That our prayers are certainly heard, even though we do not per ceive their effect ; and how to supply for our unworthiness in approaching Holy Communion through the merits of Jesus Christ and His saints"
+          }
+        },
+        {
+          "id": "iii-c31",
+          "title": {
+            "en-US": "Chapter 31: Of the advantages of frequent Communion, and of receiving the holy Viaticum"
+          }
+        },
+        {
+          "id": "iii-c32",
+          "title": {
+            "en-US": "Chapter 32: How God corrects the past negligences of a soul who loves Him, &ud remedies those which may occur in future"
+          }
+        },
+        {
+          "id": "iii-c33",
+          "title": {
+            "en-US": "Chapter 33: Of the value and importance of spiritual Communion"
+          }
+        },
+        {
+          "id": "iii-c34",
+          "title": {
+            "en-US": "Chapter 34: Of the utility of meditating on the Passion of our Lord, and how He offers Himself to the Eternal Father in satisfaction fot our sins"
+          }
+        },
+        {
+          "id": "iii-c35",
+          "title": {
+            "en-US": "Chapter 35: Of the bundle of myrrh, and how we should practise patience in adversity, according to the example of Christ"
+          }
+        },
+        {
+          "id": "iii-c36",
+          "title": {
+            "en-US": "Chapter 36: That devotion to the Passion of our Lord promotes union with God"
+          }
+        },
+        {
+          "id": "iii-c37",
+          "title": {
+            "en-US": "Chapter 37: Of the nails of sweet-smelling cloves * which the Saint, moved by love, put into the wounds of the crucifix instead of the iron nails, and of the gratitude which our Lord testified for this"
+          }
+        },
+        {
+          "id": "iii-c38",
+          "title": {
+            "en-US": "Chapter 38: How we may remember the Passion of Christ, and proclaim the praises of the Virgin Mother of God, in reciting the Seven Canonical Hours"
+          }
+        },
+        {
+          "id": "iii-c39",
+          "title": {
+            "en-US": "Chapter 39: That we should give some token of our love to God after exterior occupations"
+          }
+        },
+        {
+          "id": "iii-c40",
+          "title": {
+            "en-US": "Chapter 40: Of the effects of prayer in adversity"
+          }
+        },
+        {
+          "id": "iii-c41",
+          "title": {
+            "en-US": "Chapter 41: Prayer composed by our Lord Jesus Christ Himself, which He promised to hear favourably"
+          }
+        },
+        {
+          "id": "iii-c42",
+          "title": {
+            "en-US": "Chapter 42: How the just delight in God, and how God takes pleasure in them, especially when they commit all their good desires to Him"
+          }
+        },
+        {
+          "id": "iii-c43",
+          "title": {
+            "en-US": "Chapter 43: Of two pulsations of the Heart of Jesus,"
+          }
+        },
+        {
+          "id": "iii-c44",
+          "title": {
+            "en-US": "Chapter 44: Of the manner in which we should ask our Lord for rest or sleep"
+          }
+        },
+        {
+          "id": "iii-c45",
+          "title": {
+            "en-US": "Chapter 45: Of perfect resignation of ourselves to the Divine will"
+          }
+        },
+        {
+          "id": "iii-c46",
+          "title": {
+            "en-US": "Chapter 46: Of the sensible pleasure which the soul finds in God"
+          }
+        },
+        {
+          "id": "iii-c47",
+          "title": {
+            "en-US": "Chapter 47: Of the languor caused by Divine love"
+          }
+        },
+        {
+          "id": "iii-c48",
+          "title": {
+            "en-US": "Chapter 48: That the faithful soul ought to abandon herself to the will of God, for life and death"
+          }
+        },
+        {
+          "id": "iii-c49",
+          "title": {
+            "en-US": "Chapter 49: Of the benefit we may derive from our faults"
+          }
+        },
+        {
+          "id": "iii-c50",
+          "title": {
+            "en-US": "Chapter 50: Of the renewal * of the Seven Sacraments in her soul, and of fraternal charity"
+          }
+        },
+        {
+          "id": "iii-c51",
+          "title": {
+            "en-US": "Chapter 51: Of the fidelity which we must only expect to fiud in God, and of the grace of patience"
+          }
+        },
+        {
+          "id": "iii-c52",
+          "title": {
+            "en-US": "Chapter 52: The value of a good will"
+          }
+        },
+        {
+          "id": "iii-c53",
+          "title": {
+            "en-US": "Chapter 53: How we may profit by the merit of others"
+          }
+        },
+        {
+          "id": "iii-c54",
+          "title": {
+            "en-US": "Chapter 54: Prayer composed by the Saint"
+          }
+        },
+        {
+          "id": "iii-c55",
+          "title": {
+            "en-US": "Chapter 55: Our Lord shows her His Heart"
+          }
+        },
+        {
+          "id": "iii-c56",
+          "title": {
+            "en-US": "Chapter 56: Of charity towards an erring brother"
+          }
+        },
+        {
+          "id": "iii-c57",
+          "title": {
+            "en-US": "Chapter 57: That the care of temporal affairs and exterior duties may be acceptable to God"
+          }
+        },
+        {
+          "id": "iii-c58",
+          "title": {
+            "en-US": "Chapter 58: Of the merit of patience"
+          }
+        },
+        {
+          "id": "iii-c59",
+          "title": {
+            "en-US": "Chapter 59: Of the aversion which God has for impatience — And how agreeable it is to Him that we should return thanks for His benefits"
+          }
+        },
+        {
+          "id": "iii-c60",
+          "title": {
+            "en-US": "Chapter 60: That God is pleased with us when we are displeased with ourselves"
+          }
+        },
+        {
+          "id": "iii-c61",
+          "title": {
+            "en-US": "Chapter 61: Of the effect of prayers for others"
+          }
+        },
+        {
+          "id": "iii-c62",
+          "title": {
+            "en-US": "Chapter 62: Instructions for different persons in different states of life"
+          }
+        },
+        {
+          "id": "iii-c63",
+          "title": {
+            "en-US": "Chapter 63: That the Church is figured by the members of Jesus Christ— How we must act towards those members which are diseased, and in regard to our Superior"
+          }
+        },
+        {
+          "id": "iii-c64",
+          "title": {
+            "en-US": "Chapter 64: On the spiritual participation of merits"
+          }
+        },
+        {
+          "id": "iii-c65",
+          "title": {
+            "en-US": "Chapter 65: Of the utility of temptation"
+          }
+        },
+        {
+          "id": "iii-c66",
+          "title": {
+            "en-US": "Chapter 66: That frequent Communion is agreeable to God"
+          }
+        },
+        {
+          "id": "iii-c67",
+          "title": {
+            "en-US": "Chapter 67: Of the right manner of exercising zeal"
+          }
+        },
+        {
+          "id": "iii-c68",
+          "title": {
+            "en-US": "Chapter 68: That we do not always receive the fruit of our prayers immediately"
+          }
+        },
+        {
+          "id": "iii-c69",
+          "title": {
+            "en-US": "Chapter 69: The value of exact obedience"
+          }
+        },
+        {
+          "id": "iii-c70",
+          "title": {
+            "en-US": "Chapter 70: Instructions on different subjects. § 1. For the Hebdomadaria"
+          }
+        },
+        {
+          "id": "iii-c71",
+          "title": {
+            "en-US": "Chapter 71: Of the loss of friends ; and how we should offer our trials to God"
+          }
+        },
+        {
+          "id": "iii-c72",
+          "title": {
+            "en-US": "Chapter 72: Instructions on various subjects. § 1 . Of the stains ivhich might tarnish the purity of virginity"
+          }
+        }
+      ]
+    },
+    {
+      "id": "iv",
+      "title": {
+        "en-US": "Part IV: The Revelations, Book IV"
+      },
+      "children": [
+        {
+          "id": "iv-c01",
+          "title": {
+            "en-US": "Chapter 1: With what devotion we ought to prepare ourselves for festivals- Advantages of recommending ourselves to the prayers of others —Our enjoyment of God corresponds to our desires and our capacity to receive it"
+          }
+        },
+        {
+          "id": "iv-c02",
+          "title": {
+            "en-US": "Chapter 2: Instructions for celebrating the Feast of the Nativity"
+          }
+        },
+        {
+          "id": "iv-c03",
+          "title": {
+            "en-US": "Chapter 3: For the Feast of the Nativity — Apparition of the Infant Jesus and His Blessed Mother"
+          }
+        },
+        {
+          "id": "iv-c04",
+          "title": {
+            "en-US": "Chapter 4: For the Feast of St. John the Evangelist. His virtues, and the manner of imitating His purity"
+          }
+        },
+        {
+          "id": "iv-c05",
+          "title": {
+            "en-US": "Chapter 5: For the Feast of the Circumcision"
+          }
+        },
+        {
+          "id": "iv-c06",
+          "title": {
+            "en-US": "Chapter 6: For the Feast of the Epiphany. Of the oblations which are acceptable to God"
+          }
+        },
+        {
+          "id": "iv-c07",
+          "title": {
+            "en-US": "Chapter 7: For the Second Sunday after Epiphany"
+          }
+        },
+        {
+          "id": "iv-c08",
+          "title": {
+            "en-US": "Chapter 8: For the Feast of St. Agnes, Virgin and Martyr"
+          }
+        },
+        {
+          "id": "iv-c09",
+          "title": {
+            "en-US": "Chapter 9: For the Feast of the Purification"
+          }
+        },
+        {
+          "id": "iv-c10",
+          "title": {
+            "en-US": "Chapter 10: For Septuagesima Sunday"
+          }
+        },
+        {
+          "id": "iv-c11",
+          "title": {
+            "en-US": "Chapter 11: For Sexagesima. Instruction on Noah's ark ; a mystical day therein"
+          }
+        },
+        {
+          "id": "iv-c12",
+          "title": {
+            "en-US": "Chapter 12: For the Saturday before Quinquagesima"
+          }
+        },
+        {
+          "id": "iv-c13",
+          "title": {
+            "en-US": "Chapter 13: For Quinquagesima (continued)"
+          }
+        },
+        {
+          "id": "iv-c14",
+          "title": {
+            "en-US": "Chapter 14: Instruction for the First Sunday of Lent"
+          }
+        },
+        {
+          "id": "iv-c15",
+          "title": {
+            "en-US": "Chapter 15: For the Monday after the First Sunday of Lent"
+          }
+        },
+        {
+          "id": "iv-c16",
+          "title": {
+            "en-US": "Chapter 16: For the Second Sunday in Lent"
+          }
+        },
+        {
+          "id": "iv-c17",
+          "title": {
+            "en-US": "Chapter 17: For ike Third Sunday of Lent"
+          }
+        },
+        {
+          "id": "iv-c18",
+          "title": {
+            "en-US": "Chapter 18: For the Fourth Sunday of Lent"
+          }
+        },
+        {
+          "id": "iv-c19",
+          "title": {
+            "en-US": "Chapter 19: For the Feast of St. Gregory, Pope"
+          }
+        },
+        {
+          "id": "iv-c20",
+          "title": {
+            "en-US": "Chapter 20: For the Feast of the glorious St. Benedict"
+          }
+        },
+        {
+          "id": "iv-c21",
+          "title": {
+            "en-US": "Chapter 21: For the Vigil and Feast of the Annunciation. Exercises of devotion to the Blessed Virgin"
+          }
+        },
+        {
+          "id": "iv-c22",
+          "title": {
+            "en-US": "Chapter 22: For Passion Sunday. Exercises of devotion for that day"
+          }
+        },
+        {
+          "id": "iv-c23",
+          "title": {
+            "en-US": "Chapter 23: For Palm Sunday"
+          }
+        },
+        {
+          "id": "iv-c24",
+          "title": {
+            "en-US": "Chapter 24: For Wednesday in Holy Week"
+          }
+        },
+        {
+          "id": "iv-c25",
+          "title": {
+            "en-US": "Chapter 25: For Holy Thursday"
+          }
+        },
+        {
+          "id": "iv-c26",
+          "title": {
+            "en-US": "Chapter 26: For Good Friday"
+          }
+        },
+        {
+          "id": "iv-c27",
+          "title": {
+            "en-US": "Chapter 27: for Easter Sunday"
+          }
+        },
+        {
+          "id": "iv-c28",
+          "title": {
+            "en-US": "Chapter 28: For Easter Monday"
+          }
+        },
+        {
+          "id": "iv-c29",
+          "title": {
+            "en-US": "Chapter 29: For Easter Tuesday. Of the renewal of spiritual espousals"
+          }
+        },
+        {
+          "id": "iv-c30",
+          "title": {
+            "en-US": "Chapter 30: For Easter Wednesday"
+          }
+        },
+        {
+          "id": "iv-c31",
+          "title": {
+            "en-US": "Chapter 31: For Thursday in Easter Week. Of offering our actions to God"
+          }
+        },
+        {
+          "id": "iv-c32",
+          "title": {
+            "en-US": "Chapter 32: For Low Sunday. How we should dispose ourselves to receive the Holy Ghost"
+          }
+        },
+        {
+          "id": "iv-c33",
+          "title": {
+            "en-US": "Chapter 33: For the Feast of St. Mark, Evangelist. Of the Litanies, and invocation of saints"
+          }
+        },
+        {
+          "id": "iv-c34",
+          "title": {
+            "en-US": "Chapter 34: For the Feast of St. John before the Latin Gate"
+          }
+        },
+        {
+          "id": "iv-c35",
+          "title": {
+            "en-US": "Chapter 35: For the Ascension. The manner of saluting our Lord's Five Wounds"
+          }
+        },
+        {
+          "id": "iv-c36",
+          "title": {
+            "en-US": "Chapter 36: For the Sunday before Ascension Thursday"
+          }
+        },
+        {
+          "id": "iv-c37",
+          "title": {
+            "en-US": "Chapter 37: For the Rogation Days"
+          }
+        },
+        {
+          "id": "iv-c38",
+          "title": {
+            "en-US": "Chapter 38: For Ascension- Day"
+          }
+        },
+        {
+          "id": "iv-c39",
+          "title": {
+            "en-US": "Chapter 39: For the Sunday after Ascension. How to prepare ourselves worthily to receive the Holy Ghost"
+          }
+        },
+        {
+          "id": "iv-c40",
+          "title": {
+            "en-US": "Chapter 40: For the, Vigil and Feast of Pentecost. Of the gifts of the Holy Ghost — And other exercises for this day"
+          }
+        },
+        {
+          "id": "iv-c41",
+          "title": {
+            "en-US": "Chapter 41: For Monday in Whitsun Week"
+          }
+        },
+        {
+          "id": "iv-c42",
+          "title": {
+            "en-US": "Chapter 42: For the Tuesday in Whitsun Week"
+          }
+        },
+        {
+          "id": "iv-c43",
+          "title": {
+            "en-US": "Chapter 43: For the Feast of the Blessed Trinity"
+          }
+        },
+        {
+          "id": "iv-c44",
+          "title": {
+            "en-US": "Chapter 44: For the Feast of St. John Baptist. Apparition of the Saint — Effects of his intercession"
+          }
+        },
+        {
+          "id": "iv-c45",
+          "title": {
+            "en-US": "Chapter 45: For the Feast of the Holy Apostles SS. Peter and Paul"
+          }
+        },
+        {
+          "id": "iv-c46",
+          "title": {
+            "en-US": "Chapter 46: For the Feast of St. Margaret, Viryin and Martyr"
+          }
+        },
+        {
+          "id": "iv-c47",
+          "title": {
+            "en-US": "Chapter 47: For the Feast of St. Mary Magdalen"
+          }
+        },
+        {
+          "id": "iv-c48",
+          "title": {
+            "en-US": "Chapter 48: For the Feast of St. James"
+          }
+        },
+        {
+          "id": "iv-c49",
+          "title": {
+            "en-US": "Chapter 49: For the Vigil and Feast of the Assumption. Of the manner of honouring and saluting the Blessed Virgin"
+          }
+        },
+        {
+          "id": "iv-c50",
+          "title": {
+            "en-US": "Chapter 50: For the Feast of St. Bernard"
+          }
+        },
+        {
+          "id": "iv-c51",
+          "title": {
+            "en-US": "Chapter 51: For the Feast of St. Augustine"
+          }
+        },
+        {
+          "id": "iv-c52",
+          "title": {
+            "en-US": "Chapter 52: For the Festival of the Nativity of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "iv-c53",
+          "title": {
+            "en-US": "Chapter 53: For the Feast of the Exaltation of the Cross"
+          }
+        },
+        {
+          "id": "iv-c54",
+          "title": {
+            "en-US": "Chapter 54: For the Feast of St. Michael"
+          }
+        },
+        {
+          "id": "iv-c55",
+          "title": {
+            "en-US": "Chapter 55: For the Feast of the Eleven Thousand Virgins"
+          }
+        },
+        {
+          "id": "iv-c56",
+          "title": {
+            "en-US": "Chapter 56: For the Feast of All Saints"
+          }
+        },
+        {
+          "id": "iv-c57",
+          "title": {
+            "en-US": "Chapter 57: For the Feast of St. Elizabeth"
+          }
+        },
+        {
+          "id": "iv-c58",
+          "title": {
+            "en-US": "Chapter 58: For the Feast of St. Catherine. Of the patronage and merits of this Saint"
+          }
+        },
+        {
+          "id": "iv-c59",
+          "title": {
+            "en-US": "Chapter 59: For the Dedication of a Church"
+          }
+        },
+        {
+          "id": "iv-c60",
+          "title": {
+            "en-US": "Chapter 60: For the Dedication of a Chapel"
+          }
+        },
+        {
+          "id": "iv-c61",
+          "title": {
+            "en-US": "Chapter 61: Of a marvellous vision, in which the Saint beheld our Lord"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v",
+      "title": {
+        "en-US": "Part V: The Revelations, Book V"
+      },
+      "children": [
+        {
+          "id": "v-c01",
+          "title": {
+            "en-US": "Chapter 1: How St. Mechtilde prepared for death, and received extreme unction"
+          }
+        },
+        {
+          "id": "v-c02",
+          "title": {
+            "en-US": "Chapter 2: Of the happy death of St. Mechtilde, and her reward in heaven— Of the merits and intercession of the saints— And how to offer the Five Wounds of Christ to supply for our defects"
+          }
+        },
+        {
+          "id": "v-c03",
+          "title": {
+            "en-US": "Chapter 3: Of the precious death of Sisters M. and L.— Of the exact account taken iu purgatory of their faults, and of the reward of their merits"
+          }
+        },
+        {
+          "id": "v-c04",
+          "title": {
+            "en-US": "Chapter 4: How a disobedience was expiated by an illness,"
+          }
+        },
+        {
+          "id": "v-c05",
+          "title": {
+            "en-US": "Chapter 5: Of the happy death of Sister* M. — The approbation of these Revela tions—And the favours promised through her merits. •"
+          }
+        },
+        {
+          "id": "v-c06",
+          "title": {
+            "en-US": "Chapter 6: Of the ngony and death of M. B., and of her blessed soul — How salutary it is to assist the souls in Purgatory"
+          }
+        },
+        {
+          "id": "v-c07",
+          "title": {
+            "en-US": "Chapter 7: How the souls of G. and B. were purified for neglecting confession, and for taking pleasure in earthly things"
+          }
+        },
+        {
+          "id": "v-c08",
+          "title": {
+            "en-US": "Chapter 8: Of Sister G. 's happy preparation for death — Her fervent desires and her glory"
+          }
+        },
+        {
+          "id": "v-c10",
+          "title": {
+            "en-US": "Chapter 10: How Brother Hermann suffered for obstinacy — And of the assistance which may be obtained in the other life by the prayers of the Saints and the faithful"
+          }
+        },
+        {
+          "id": "v-c11",
+          "title": {
+            "en-US": "Chapter 11: How Brother John was rewarded for his labours and punished for his faults"
+          }
+        },
+        {
+          "id": "v-c12",
+          "title": {
+            "en-US": "Chapter 12: How the soul of Brother The : was released by prayers in honour of the Five Wounds"
+          }
+        },
+        {
+          "id": "v-c13",
+          "title": {
+            "en-US": "Chapter 13: What Brother F. suffered for indolence and want of submission— The efficacy of fervent prayer"
+          }
+        },
+        {
+          "id": "v-c14",
+          "title": {
+            "en-US": "Chapter 14: Those who have persevered long in sin are not easily benefited by th« prayers of the Church, and are liberated with difficulty"
+          }
+        },
+        {
+          "id": "v-c15",
+          "title": {
+            "en-US": "Chapter 15: Of the oblation of the Host— And of prayers for the souls of"
+          }
+        },
+        {
+          "id": "v-c16",
+          "title": {
+            "en-US": "Chapter 16: Of the effect of the Great Psalter— Of the zeal of Christ for the salvation of souls— And how willing He is to hear the prayers of those who love Him"
+          }
+        },
+        {
+          "id": "v-c17",
+          "title": {
+            "en-US": "Chapter 17: Of the severe sufferings of a soldier —And the efficacy of the Great Psalter"
+          }
+        },
+        {
+          "id": "v-c18",
+          "title": {
+            "en-US": "Chapter 18: Explanation of the Great Psalter, and of the Seven Masses of St. Gregory"
+          }
+        },
+        {
+          "id": "v-c19",
+          "title": {
+            "en-US": "Chapter 19: The reward of praying for the dead— And the punishment of disobedience and detractions"
+          }
+        },
+        {
+          "id": "v-c20",
+          "title": {
+            "en-US": "Chapter 20: Of the ardent desire of death which our Lord enkindled in the soul of Gertrude"
+          }
+        },
+        {
+          "id": "v-c21",
+          "title": {
+            "en-US": "Chapter 21: How Gertrude prayed for death"
+          }
+        },
+        {
+          "id": "v-c22",
+          "title": {
+            "en-US": "Chapter 22: Of the wounds of Divine love with which the Saint was transfixed"
+          }
+        },
+        {
+          "id": "v-c23",
+          "title": {
+            "en-US": "Chapter 23: Our preparations for death are not forgotten before God"
+          }
+        },
+        {
+          "id": "v-c24",
+          "title": {
+            "en-US": "Chapter 24: Exercises in preparation for death — Aud devotion to the Blessed Virgin"
+          }
+        },
+        {
+          "id": "v-c25",
+          "title": {
+            "en-US": "Chapter 25: How our Lord Jesus and all the Saints console the souls of the just in their last moments — And with what love our Lord communi cates Himself to His elect in the Sacrament of the Altar"
+          }
+        },
+        {
+          "id": "v-c26",
+          "title": {
+            "en-US": "Chapter 26: Of the sweet repose which the Saint eujoyed ; and how she satisfied for her negligences"
+          }
+        },
+        {
+          "id": "v-c27",
+          "title": {
+            "en-US": "Chapter 27: How the Saint supplied for her negligences in the service of the Blessed Virgin Mary"
+          }
+        },
+        {
+          "id": "v-c28",
+          "title": {
+            "en-US": "Chapter 28: How Gertrude prepared for death"
+          }
+        },
+        {
+          "id": "v-c29",
+          "title": {
+            "en-US": "Chapter 29: How our Lord authorised this work"
+          }
+        },
+        {
+          "id": "v-c30",
+          "title": {
+            "en-US": "Chapter 30: Oblation of this work to the Divine glory — Conclusion"
+          }
+        }
+      ]
+    }
+  ]
+}
