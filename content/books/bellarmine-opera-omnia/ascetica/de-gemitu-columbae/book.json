@@ -1,0 +1,314 @@
+{
+  "id": "bellarmine-de-gemitu-columbae",
+  "cover": "classic",
+  "name": {
+    "la": "De gemitu columbae",
+    "en-US": "On the Groaning of the Dove",
+    "pt-BR": "O gemido da pomba"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Tres libri de bono lacrymarum et gemituum: de necessitate gemituum, de eorum fructibus, de rationibus gemendi (1617).",
+    "en-US": "Three books on the value of tears and groans in the Christian life (1617). Latin only: the Vivès edition (1870-74) from an OCR scan; no complete public-domain English translation exists.",
+    "pt-BR": "Três livros sobre o valor das lágrimas e dos gemidos na vida cristã (1617)."
+  },
+  "composed": "1617",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/de-gemitu-columbae",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia08bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 8 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De necessitate gemituum,, ex Psalmis",
+            "en-US": "Caput I. De necessitate gemituum,, ex Psalmis"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De necessitate gemituum, ex Canticis",
+            "en-US": "Caput II. De necessitate gemituum, ex Canticis"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. De necessitate gemituum, ex doctrina Ecclesiastse",
+            "en-US": "Caput III. De necessitate gemituum, ex doctrina Ecclesiastse"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. De necessitate gemituum, ex Isaia Propheta",
+            "en-US": "Caput IV. De necessitate gemituum, ex Isaia Propheta"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. l)e necessitate gemituum ex Jeremia",
+            "en-US": "Caput V. l)e necessitate gemituum ex Jeremia"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. De necessitate gemituum, ex Propheta",
+            "en-US": "Caput VI. De necessitate gemituum, ex Propheta"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII. De necessitate gemituum, ex Joele Propheta",
+            "en-US": "Caput VII. De necessitate gemituum, ex Joele Propheta"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. De necessitate, gemituum, ex Euangelio SS. Matthaei Lucae, etJoannis",
+            "en-US": "Caput VIII. De necessitate, gemituum, ex Euangelio SS. Matthaei Lucae, etJoannis"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. De necessitate gemituum, ex Apostolis Paulo, et Jacobo",
+            "en-US": "Caput IX. De necessitate gemituum, ex Apostolis Paulo, et Jacobo"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. De necessitate gemituum, ex Scripturarum exemplis",
+            "en-US": "Caput X. De necessitate gemituum, ex Scripturarum exemplis"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. De necessitate gemituum, ex doctrina, et exemplis sanctorum",
+            "en-US": "Caput XI. De necessitate gemituum, ex doctrina, et exemplis sanctorum"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII. De necessitate gemituum, ex auctoritate Ecclesiae",
+            "en-US": "Caput XII. De necessitate gemituum, ex auctoritate Ecclesiae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2c01",
+          "title": {
+            "la": "Caput I. De primo fonte, qui est consideratio peccati",
+            "en-US": "Caput I. De primo fonte, qui est consideratio peccati"
+          }
+        },
+        {
+          "id": "b2c02",
+          "title": {
+            "la": "Caput II. De secundo fonte lacrymarum, qui est consideratio gehennae",
+            "en-US": "Caput II. De secundo fonte lacrymarum, qui est consideratio gehennae"
+          }
+        },
+        {
+          "id": "b2c03",
+          "title": {
+            "la": "Caput III. De tertio fonte lacrymarum, qui est consideratio Passionis Christi",
+            "en-US": "Caput III. De tertio fonte lacrymarum, qui est consideratio Passionis Christi"
+          }
+        },
+        {
+          "id": "b2c04",
+          "title": {
+            "la": "Caput IV. De quarto fonte lacry marum, qui est consideratio persecutionum Ecclesiae",
+            "en-US": "Caput IV. De quarto fonte lacry marum, qui est consideratio persecutionum Ecclesiae"
+          }
+        },
+        {
+          "id": "b2c05",
+          "title": {
+            "la": "Caput V. De quinto fonte lacrymarum, qui est consideratio ordinis sacerdotalis",
+            "en-US": "Caput V. De quinto fonte lacrymarum, qui est consideratio ordinis sacerdotalis"
+          }
+        },
+        {
+          "id": "b2c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b2c07",
+          "title": {
+            "la": "Caput VII. De septimo fonte lacrymarum qui est consideratio status saecularium",
+            "en-US": "Caput VII. De septimo fonte lacrymarum qui est consideratio status saecularium"
+          }
+        },
+        {
+          "id": "b2c08",
+          "title": {
+            "la": "Caput VIII. De octavo fonte lacryinarum, qui est consideratio miseriarum generis humani",
+            "en-US": "Caput VIII. De octavo fonte lacryinarum, qui est consideratio miseriarum generis humani"
+          }
+        },
+        {
+          "id": "b2c09",
+          "title": {
+            "la": "Caput IX. De nono fonte lacrymarum, qui est consideratio purgatorii",
+            "en-US": "Caput IX. De nono fonte lacrymarum, qui est consideratio purgatorii"
+          }
+        },
+        {
+          "id": "b2c10",
+          "title": {
+            "la": "Caput X. De decimo fonte lacrymarum, qui est conside’ ratio amoris Dei",
+            "en-US": "Caput X. De decimo fonte lacrymarum, qui est conside’ ratio amoris Dei"
+          }
+        },
+        {
+          "id": "b2c11",
+          "title": {
+            "la": "Caput XI. De undecimo fonte lacrymanim, qui est consideratio incertitudiais salutis",
+            "en-US": "Caput XI. De undecimo fonte lacrymanim, qui est consideratio incertitudiais salutis"
+          }
+        },
+        {
+          "id": "b2c12",
+          "title": {
+            "la": "Caput XII. De duodecimo fonte lacrymarum, qui est consideratio tentationum impedientium iter ad vitam",
+            "en-US": "Caput XII. De duodecimo fonte lacrymarum, qui est consideratio tentationum impedientium iter ad vitam"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. De primo fructu lacrymarum, qui est spes certa remissionis peccatorum",
+            "en-US": "Caput I. De primo fructu lacrymarum, qui est spes certa remissionis peccatorum"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. De secundo fructu lacrymarum, qui est timor gehennae",
+            "en-US": "Caput II. De secundo fructu lacrymarum, qui est timor gehennae"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. De tertio fructu lacrymarum, qui est imitatio virtutum Christi",
+            "en-US": "Caput III. De tertio fructu lacrymarum, qui est imitatio virtutum Christi"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. De quarto fructu lacrymarum, qui est misericordia erga proximos",
+            "en-US": "Caput IV. De quarto fructu lacrymarum, qui est misericordia erga proximos"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. De sexto fructu lacrymarum, qui est reformatio regularium",
+            "en-US": "Caput VI. De sexto fructu lacrymarum, qui est reformatio regularium"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. De septimo fructu lacrymarum, qui est emendatio morum in populis",
+            "en-US": "Caput VII. De septimo fructu lacrymarum, qui est emendatio morum in populis"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. De octavo fructu lacrymarum, qui est multiplex opus misericordiae",
+            "en-US": "Caput VIII. De octavo fructu lacrymarum, qui est multiplex opus misericordiae"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. De nono fructu lacry marum, qui est refrigerium defunctorum",
+            "en-US": "Caput IX. De nono fructu lacry marum, qui est refrigerium defunctorum"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. De decimo fructu lacrymarumfqui est comtemptus mundi, et amor Dei",
+            "en-US": "Caput X. De decimo fructu lacrymarumfqui est comtemptus mundi, et amor Dei"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. De undecimo fructu lacrymarum, qui est timor Domini castus, et filialis",
+            "en-US": "Caput XI. De undecimo fructu lacrymarum, qui est timor Domini castus, et filialis"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. De duodecimo fructu lacrymarum, quae est facilis impetratio donorum divinorum",
+            "en-US": "Caput XII. De duodecimo fructu lacrymarum, quae est facilis impetratio donorum divinorum"
+          }
+        }
+      ]
+    }
+  ]
+}
