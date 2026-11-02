@@ -1,0 +1,304 @@
+{
+  "id": "therese-poems-emery",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Poems (Emery translation, 1907)",
+    "fr-FR": "Poésies (traduction anglaise d’Emery, 1907)",
+    "pt-BR": "Poemas (tradução inglesa de Emery, 1907)"
+  },
+  "author": {
+    "fr-FR": "Sainte Thérèse de l’Enfant-Jésus",
+    "en-US": "St. Thérèse of Lisieux",
+    "pt-BR": "Santa Teresinha do Menino Jesus"
+  },
+  "description": {
+    "en-US": "The English verse translation of Thérèse’s poems by S. L. Emery (Angel Guardian Press, Boston, 1907), made from the 1898 texts as Mother Agnes retouched them: thirty-seven poems and plays in five parts, from “My Song of To-Day” and “To Live of Love” to “Why I Love Thee, Mary”, the Christmas and Egypt plays, and the Joan of Arc plays. It does not follow the numbering of the authentic Centenary poems, so it stands as a separate book beside them.",
+    "fr-FR": "La traduction anglaise en vers des poésies de Thérèse par S. L. Emery (Angel Guardian Press, Boston, 1907), faite d’après les textes de 1898 retouchés par Mère Agnès : trente-sept poèmes et pièces en cinq parties. Elle ne suit pas la numérotation des poésies authentiques de l’édition du Centenaire ; c’est donc un livre distinct.",
+    "pt-BR": "A tradução inglesa em verso dos poemas de Teresinha por S. L. Emery (Angel Guardian Press, Boston, 1907), feita a partir dos textos de 1898 retocados por Madre Inês: trinta e sete poemas e peças em cinco partes. Não segue a numeração dos poemas autênticos da edição do Centenário e por isso é um livro à parte."
+  },
+  "composed": "1893–1897",
+  "languages": [
+    "en-US"
+  ],
+  "work": "therese-of-lisieux/poems-emery",
+  "editions": {
+    "en-US": {
+      "translator": "S. L. Emery",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/t/therese/poems.xml",
+      "edition": "S. L. Emery (tr.), Poems of St. Teresa, Carmelite of Lisieux, known as the Little Flower of Jesus, Boston: Angel Guardian Press, 1907; Christian Classics Ethereal Library ThML edition (ccel.org/ccel/therese/poems.html), verse structure as marked up there.",
+      "description": "The poems and plays of the five parts, one chapter each. Left out: the translator's title page, dedication, contents, the index of dates, her introduction and the scripture index. The Scripture references printed under epigraphs are kept in italics. Speaker names in the plays are headings.",
+      "tier": "A",
+      "tierEvidence": "Published in Boston in 1907; S. L. Emery's death date is unknown to this project, but a 1907 American publication is public domain in the US."
+    }
+  ],
+  "toc": [
+    {
+      "id": "first-part",
+      "title": {
+        "en-US": "First Part"
+      },
+      "children": [
+        {
+          "id": "poem-01",
+          "title": {
+            "en-US": "My Song of To-Day"
+          }
+        },
+        {
+          "id": "poem-02",
+          "title": {
+            "en-US": "To Live of Love"
+          }
+        },
+        {
+          "id": "poem-03",
+          "title": {
+            "en-US": "Canticle to the Holy Face"
+          }
+        },
+        {
+          "id": "poem-04",
+          "title": {
+            "en-US": "Thou Hast Broken My Bonds O Lord"
+          }
+        },
+        {
+          "id": "poem-05",
+          "title": {
+            "en-US": "Jesus, My Well Beloved, Remember Thou!"
+          }
+        },
+        {
+          "id": "poem-06",
+          "title": {
+            "en-US": "To the Sacred Heart"
+          }
+        },
+        {
+          "id": "poem-07",
+          "title": {
+            "en-US": "The Eternal Canticle"
+          }
+        },
+        {
+          "id": "poem-08",
+          "title": {
+            "en-US": "I Thirst for Love"
+          }
+        },
+        {
+          "id": "poem-09",
+          "title": {
+            "en-US": "My Heaven on Earth"
+          }
+        },
+        {
+          "id": "poem-10",
+          "title": {
+            "en-US": "My Hope"
+          }
+        },
+        {
+          "id": "poem-11",
+          "title": {
+            "en-US": "My Wishes Before the Tabernacle"
+          }
+        },
+        {
+          "id": "poem-12",
+          "title": {
+            "en-US": "Jesus Only"
+          }
+        },
+        {
+          "id": "poem-13",
+          "title": {
+            "en-US": "To Scatter Flowers"
+          }
+        },
+        {
+          "id": "poem-14",
+          "title": {
+            "en-US": "A Work of Love"
+          }
+        },
+        {
+          "id": "poem-15",
+          "title": {
+            "en-US": "My Armor"
+          }
+        },
+        {
+          "id": "poem-16",
+          "title": {
+            "en-US": "My Peace and My Joy"
+          }
+        },
+        {
+          "id": "poem-17",
+          "title": {
+            "en-US": "A Lily Amidst Thorns"
+          }
+        },
+        {
+          "id": "poem-18",
+          "title": {
+            "en-US": "A Withered Rose"
+          }
+        },
+        {
+          "id": "poem-19",
+          "title": {
+            "en-US": "Abandonment"
+          }
+        }
+      ]
+    },
+    {
+      "id": "second-part",
+      "title": {
+        "en-US": "Second Part"
+      },
+      "children": [
+        {
+          "id": "poem-20",
+          "title": {
+            "en-US": "The Dew Divine"
+          }
+        },
+        {
+          "id": "poem-21",
+          "title": {
+            "en-US": "To Our Lady of Victories"
+          }
+        },
+        {
+          "id": "poem-22",
+          "title": {
+            "en-US": "The Queen of Heaven to Her Little Mary"
+          }
+        },
+        {
+          "id": "poem-23",
+          "title": {
+            "en-US": "Why I Love Thee Mary"
+          }
+        }
+      ]
+    },
+    {
+      "id": "third-part",
+      "title": {
+        "en-US": "Third Part"
+      },
+      "children": [
+        {
+          "id": "poem-24",
+          "title": {
+            "en-US": "To My Angel Guardian"
+          }
+        },
+        {
+          "id": "poem-25",
+          "title": {
+            "en-US": "To My Little Brothers in Heaven, the Holy Innocents"
+          }
+        },
+        {
+          "id": "poem-26",
+          "title": {
+            "en-US": "The Melody of St. Cecilia"
+          }
+        },
+        {
+          "id": "poem-27",
+          "title": {
+            "en-US": "Canticle of St. Agnes"
+          }
+        },
+        {
+          "id": "poem-28",
+          "title": {
+            "en-US": "To the Venerable Teophane Venard, Martyred"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fourth-part",
+      "title": {
+        "en-US": "Fourth Part"
+      },
+      "children": [
+        {
+          "id": "poem-29",
+          "title": {
+            "en-US": "The Story of a Shepherdess Who Became a Queen"
+          }
+        },
+        {
+          "id": "poem-30",
+          "title": {
+            "en-US": "Prayer of a Child of a Saint"
+          }
+        },
+        {
+          "id": "poem-31",
+          "title": {
+            "en-US": "What I Used to Love"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fifth-part",
+      "title": {
+        "en-US": "Fifth Part"
+      },
+      "children": [
+        {
+          "id": "poem-32",
+          "title": {
+            "en-US": "Jesus at Bethany"
+          }
+        },
+        {
+          "id": "poem-33",
+          "title": {
+            "en-US": "Bird Cage of the Infant Jesus"
+          }
+        },
+        {
+          "id": "poem-34",
+          "title": {
+            "en-US": "The Flight of the Holy Family into Egypt"
+          }
+        },
+        {
+          "id": "poem-35",
+          "title": {
+            "en-US": "The Little Divine Beggar of Christmas"
+          }
+        },
+        {
+          "id": "poem-36",
+          "title": {
+            "en-US": "The Angels of the Crib"
+          }
+        },
+        {
+          "id": "poem-37",
+          "title": {
+            "en-US": "Poems in Honor of Jeanne D’Arc"
+          }
+        }
+      ]
+    }
+  ]
+}
