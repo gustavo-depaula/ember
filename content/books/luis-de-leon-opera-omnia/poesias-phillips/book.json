@@ -1,0 +1,71 @@
+{
+  "id": "luis-poesias-phillips",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Poesías (versión inglesa de Henry Phillips)",
+    "en-US": "Poems from the Spanish of Fra Luis Ponce de León",
+    "pt-BR": "Poesias (versão inglesa de Henry Phillips)"
+  },
+  "description": {
+    "en-US": "Henry Phillips Jr.'s verse translation of five of Fray Luis's best-known poems (The Ascension, Noche serena, Cuándo será, Vida descansada, Ode to Avarice), printed privately in Philadelphia in 1883.",
+    "es-ES": "Versión en verso inglés de cinco de las poesías más conocidas de Fray Luis (La Ascensión, Noche serena, Cuándo será, Vida descansada, Oda a la avaricia), por Henry Phillips Jr., impresa en privado en Filadelfia en 1883.",
+    "pt-BR": "Versão em verso inglês de cinco das poesias mais conhecidas de Frei Luís (A Ascensão, Noche serena, Cuándo será, Vida descansada, Ode à avareza), por Henry Phillips Jr., impressa em particular na Filadélfia em 1883."
+  },
+  "composed": "1883",
+  "languages": [
+    "en-US"
+  ],
+  "work": "luis-de-leon/poesias",
+  "editions": {
+    "en-US": {
+      "translator": "Henry Phillips Jr.",
+      "year": 1883
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/poemsfromspanish00lenl",
+      "edition": "Poems from the Spanish of Fra Luis Ponce de León, translated by Henry Phillips Jr., Philadelphia, privately printed, 1883 (archive.org OCR).",
+      "description": "Preface omitted; the translator's bracketed note after Noche serena is kept.",
+      "tier": "A"
+    }
+  ],
+  "author": {
+    "es-ES": "Fray Luis de León",
+    "en-US": "Fray Luis de León",
+    "pt-BR": "Frei Luís de León"
+  },
+  "toc": [
+    {
+      "id": "ascension",
+      "title": {
+        "en-US": "The Ascension"
+      }
+    },
+    {
+      "id": "noche-serena",
+      "title": {
+        "en-US": "Noche serena"
+      }
+    },
+    {
+      "id": "cuando-sera",
+      "title": {
+        "en-US": "Cuándo será"
+      }
+    },
+    {
+      "id": "vida-descansada",
+      "title": {
+        "en-US": "Vida descansada"
+      }
+    },
+    {
+      "id": "ode-to-avarice",
+      "title": {
+        "en-US": "Ode to Avarice"
+      }
+    }
+  ]
+}
