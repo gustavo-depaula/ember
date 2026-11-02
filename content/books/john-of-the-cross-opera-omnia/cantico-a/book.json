@@ -1,0 +1,275 @@
+{
+  "id": "john-of-the-cross-cantico-a",
+  "name": {
+    "es-ES": "Cántico espiritual (primera redacción)",
+    "en-US": "The Spiritual Canticle (first redaction)",
+    "pt-BR": "Cântico espiritual (primeira redação)"
+  },
+  "author": {
+    "es-ES": "San Juan de la Cruz",
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "description": {
+    "es-ES": "Declaración de las canciones de amor entre el alma y el Esposo Cristo, escrita a petición de la M. Ana de Jesús (1584); primera redacción, de treinta y nueve canciones (manuscrito de Sanlúcar). Texto crítico del P. Silverio de Santa Teresa, con sus notas.",
+    "en-US": "St. John of the Cross's commentary on his love-song between the soul and Christ the Bridegroom, written for Mother Anne of Jesus (1584); the first redaction, in thirty-nine stanzas (the Sanlúcar manuscript). Spanish critical text of P. Silverio de Santa Teresa with his notes.",
+    "pt-BR": "Comentário de São João da Cruz ao seu cântico de amor entre a alma e Cristo Esposo, escrito a pedido da Madre Ana de Jesus (1584); primeira redação, em trinta e nove canções (manuscrito de Sanlúcar)."
+  },
+  "composed": "1584",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "john-of-the-cross/cantico-a",
+  "editions": {
+    "es-ES": {
+      "editor": "P. Silverio de Santa Teresa",
+      "year": 1930
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrasdesanjuande03john",
+      "edition": "Obras de San Juan de la Cruz, Doctor de la Iglesia, ed. P. Silverio de Santa Teresa, C.D., t. III (Biblioteca Mística Carmelitana), Burgos: El Monte Carmelo, 1930, pp. 3–180 (first redaction). Princeton Theological Seminary scan.",
+      "description": "Spanish critical text with Silverio's notes (manuscript variants, scripture references) kept as footnotes. OCR of the scan; page furniture removed; footnotes matched to their references page by page; OCR errors corrected by consulting P. Eulogio Pacho's modern text (Editorial Monte Carmelo, via Documenta Catholica Omnia), which was used only to find errors and never copied. Chapter summaries are taken from Silverio's own table of contents.",
+      "tier": "A",
+      "tierEvidence": "San Juan de la Cruz died in 1591. Silverio's edition was published in 1930 (before 1931: public domain in the US) and P. Silverio de Santa Teresa died in 1954, so his text and notes are public domain under life+70 since 1 January 2025. Caveat: Spain applies life+80 to authors who died before 1987, so in Spain alone his notes stay protected until 2035."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologo",
+      "title": {
+        "es-ES": "Prólogo"
+      }
+    },
+    {
+      "id": "canciones",
+      "title": {
+        "es-ES": "Canciones entre el alma y el Esposo"
+      }
+    },
+    {
+      "id": "c1",
+      "title": {
+        "es-ES": "Canción I"
+      }
+    },
+    {
+      "id": "c2",
+      "title": {
+        "es-ES": "Canción II"
+      }
+    },
+    {
+      "id": "c3",
+      "title": {
+        "es-ES": "Canción III"
+      }
+    },
+    {
+      "id": "c4",
+      "title": {
+        "es-ES": "Canción IV"
+      }
+    },
+    {
+      "id": "c5",
+      "title": {
+        "es-ES": "Canción V"
+      }
+    },
+    {
+      "id": "c6",
+      "title": {
+        "es-ES": "Canción VI"
+      }
+    },
+    {
+      "id": "c7",
+      "title": {
+        "es-ES": "Canción VII"
+      }
+    },
+    {
+      "id": "c8",
+      "title": {
+        "es-ES": "Canción VIII"
+      }
+    },
+    {
+      "id": "c9",
+      "title": {
+        "es-ES": "Canción IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "es-ES": "Canción X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "es-ES": "Canción XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "es-ES": "Canción XII"
+      }
+    },
+    {
+      "id": "c13-14",
+      "title": {
+        "es-ES": "Canciones XIII y XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "es-ES": "Canción XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "es-ES": "Canción XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "es-ES": "Canción XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "es-ES": "Canción XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "es-ES": "Canción XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "es-ES": "Canción XX"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "es-ES": "Canción XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "es-ES": "Canción XXII"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "es-ES": "Canción XXIII"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "es-ES": "Canción XXIV"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "es-ES": "Canción XXV"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "es-ES": "Canción XXVI"
+      }
+    },
+    {
+      "id": "c27",
+      "title": {
+        "es-ES": "Canción XXVII"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "es-ES": "Canción XXVIII"
+      }
+    },
+    {
+      "id": "c29-30",
+      "title": {
+        "es-ES": "Canciones XXIX y XXX"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "es-ES": "Canción XXXI"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "es-ES": "Canción XXXII"
+      }
+    },
+    {
+      "id": "c33",
+      "title": {
+        "es-ES": "Canción XXXIII"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "es-ES": "Canción XXXIV"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "es-ES": "Canción XXXV"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "es-ES": "Canción XXXVI"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "es-ES": "Canción XXXVII"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "es-ES": "Canción XXXVIII"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "es-ES": "Canción XXXIX"
+      }
+    }
+  ]
+}
