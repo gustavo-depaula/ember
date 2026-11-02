@@ -1,0 +1,354 @@
+{
+  "id": "richard-de-exterminatione-mali",
+  "cover": "classic",
+  "name": {
+    "la": "De exterminatione mali et promotione boni",
+    "en-US": "On the Extermination of Evil and the Promotion of Good",
+    "pt-BR": "Sobre a extinção do mal e a promoção do bem"
+  },
+  "author": {
+    "la": "Richardus de Sancto Victore",
+    "en-US": "Richard of St. Victor",
+    "pt-BR": "Ricardo de São Vítor"
+  },
+  "description": {
+    "la": "De exterminatione mali et promotione boni, tractatus de confessione criminis et laudis.",
+    "en-US": "Richard’s treatise on the confession of sin and the confession of praise, and the two promotions of virtue that follow. Latin only, from the Migne text (Patrologia Latina 196, 1855), a machine-corrected OCR.",
+    "pt-BR": "O tratado de Ricardo sobre a confissão do pecado e a confissão de louvor."
+  },
+  "composed": "c. 1150-1160",
+  "languages": [
+    "la"
+  ],
+  "work": "richard/de-exterminatione-mali",
+  "editions": {
+    "la": {
+      "editor": "J.-P. Migne (Patrologia Latina 196)",
+      "year": 1855
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/php_modules/download.php?type=file-xml&idno=RiSVi.DeExMaE",
+      "edition": "Migne, Patrologia Latina 196 (Paris 1855); TEI XML of the Corpus Corporum (University of Zurich), text RiSVi.DeExMaE, from the machine-corrected OCR of the Open Greek and Latin project.",
+      "description": "The complete PL text with its chapter divisions. PL page breaks and column numbers are dropped, and the PL tables of chapters (which repeat the chapter headings) are not imported. The OCR carries a few residual slips.",
+      "tier": "A",
+      "tierEvidence": "Migne’s Patrologia Latina (1854–1855) prints the medieval text; public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c001",
+      "title": {
+        "la": "Caput primum."
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "la": "Caput II. De gemina confessione, et gemina promotione."
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "la": "Caput III. Quomodo confessio criminis valeat ad exterminium mali."
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "la": "Caput IV. Quomodo confessio laudis valeat ad promotionem boni."
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "la": "Caput V. Quod prima promotio virtutis sit in contemptu mundi."
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "la": "Caput VI. Quod secunda promotio virtutis sit in contemptu sui."
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "la": "Caput VII. Quomodo per contemptum mundi fiat exterminium mali."
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "la": "Caput VIII. Quod contritio animi nunc sit in adjutorium, nunc ad firmamentum boni."
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "la": "Caput IX. De utili et inutili contritione."
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "la": "Caput X. De gemina cordis compunctione."
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "la": "Caput XI. De vano vel vero mundi contemptu"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "la": "Caput XII. Quam sit difficile ad perfectum sui contemptum pertingere."
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "la": "Caput XIII. Quibus modis mens ad plenum sui contemptum eruditur."
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "la": "Caput XIV Quod superfluus amor sui inter successus virtutum difficilius vincitur."
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "la": "Caput XV. Quomodo gradatim animus ad sui contemptum est promovendus."
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "la": "Caput XVI. Quomodo vano amore exhausto animus in Dei amore dilatatur."
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "la": "Caput XVII. De vani amoris defectu, et veri amoris profectu."
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "la": "Caput XVIII. Quomodo per vani amoris defectum mentis perturbationes deficiunt."
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "la": "Caput XIX. Cum qua cautela debeamus cordis perturbationes delere."
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "la": "Caput primum."
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "la": "Caput II. Qomodo investigatio et retractatio salubrium valeat ad corrigendum animum."
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "la": "Caput III. Quod facilius est animum corrigere quam ejus intima penetrare."
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "la": "Caput IV. Quantum valeat cum profunda admiratione infirmitatis nostrae considerationi diutius inhaerere."
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "la": "Caput V. Quomodo post plenam correctionem sui, animus ad aeternorum contemplationem introducitur."
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "la": "Caput VI. Quod in futura vita post aeternorum contemplationem, animus ad omne desiderii sui beneplacitum relaxatur."
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "la": "Caput VII. Quomodo quidam in hac etiam vita ad aeternorum contemplationem sublevantur."
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "la": "Caput VIII. Quod semper oportet per contemplationis studium praevidere quo debeamus per desiderium tendere."
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "la": "Caput IX. De gemina imperfectione quas semper oportet prae oculis habere."
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "la": "Caput X. Exemplum vel forma propositae considerationis."
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "la": "Caput XI. De his quae pertinent ad meditationem vel contemplationem, et quantum valeant ad virtutis promotionem talium captus."
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "la": "Caput XII. De gemina praemeditatione, praemiorum videlicet et meritorum."
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "la": "Caput XIII. Quomodo speculationi praemiorum oportet vehementius insistere."
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "la": "Caput XIV. Quod speculatio meritorum in duobus constat."
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "la": "Caput XV. Quid sit meditationis, et quid sit contemplationis."
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "la": "Caput primum."
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "la": "Caput II. De confirmatione mentis in bono et obduratione mentis in malo."
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "la": "Caput III. De malo praesumptionis seu desperationis."
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "la": "Caput IV. Quomodo ex malorum nostrorum recordatione oporteat praesumptionem reprimere."
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "la": "Caput V. Quomodo ex bonorum nostrorum recordatione oporteat desperationem repellere."
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "la": "Caput VI. De duodceim principalibus virtutibus in quibus solidandus est animus."
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "la": "Caput VII. De soliditate timoris."
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "la": "Caput VIII. De gravitate compunctionis."
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "la": "Caput IX. De spei longanimitate."
+      }
+    },
+    {
+      "id": "c044",
+      "title": {
+        "la": "Caput X. De charitatis integritate."
+      }
+    },
+    {
+      "id": "c045",
+      "title": {
+        "la": "Caput XI. De maturitate jucunditatis."
+      }
+    },
+    {
+      "id": "c046",
+      "title": {
+        "la": "Caput XII. De asperitate severitatis."
+      }
+    },
+    {
+      "id": "c047",
+      "title": {
+        "la": "Caput XIII. De austeritate abstinentiae."
+      }
+    },
+    {
+      "id": "c048",
+      "title": {
+        "la": "Caput XIV. De robore patientiae."
+      }
+    },
+    {
+      "id": "c049",
+      "title": {
+        "la": "Caput XV. De sollicitudine circumspectionis."
+      }
+    },
+    {
+      "id": "c050",
+      "title": {
+        "la": "Caput XVI. De assiduitate speculationis."
+      }
+    },
+    {
+      "id": "c051",
+      "title": {
+        "la": "Caput XVII. De certitudine discretionis."
+      }
+    },
+    {
+      "id": "c052",
+      "title": {
+        "la": "Caput XVIII. De quiete contemplationis."
+      }
+    }
+  ]
+}

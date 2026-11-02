@@ -1,0 +1,2851 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+        schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+         <titleStmt>
+              <title>De exterminatione mali et promotione boni</title>
+              <author ref="http://viaf.org/viaf/98148813">Richardus S. Victoris<date>-1173</date>
+        </author>
+         </titleStmt>
+         <editionStmt>
+              <edition>early modern edition, no apparatus</edition>
+              <editor>Jacques-Paul Migne</editor>
+         </editionStmt>
+         <publicationStmt>
+                 <publisher>J. P. Migne</publisher>
+                 <pubPlace>Parisiis</pubPlace>
+                 <date>1855</date>
+              </publicationStmt>
+          <seriesStmt>
+           <title>Patrologia Latina, vol. 196</title>
+           <idno>RiSVi.DeExMaE</idno>
+          </seriesStmt>
+          <notesStmt>
+  			<note/>
+ 		  </notesStmt>
+  		<sourceDesc>
+    		<p>Patrologia Latina</p>
+  		</sourceDesc>
+ 	</fileDesc>
+      <encodingDesc>
+         <projectDesc>
+        <p>this file was encoded in TEI xml for the University of Zurich's <emph>Corpus Corporum</emph> project (www.mlat.uzh.ch) by Ph. Roelli in 2019</p>
+      </projectDesc>
+          <editorialDecl>
+             <normalization>
+          <p>Classical Latin orthography</p>
+        </normalization>
+          </editorialDecl>
+      </encodingDesc>
+ 	  <profileDesc>
+		<creation>
+ 		<date/>
+  		</creation>
+  	  <langUsage>
+  		<language ident="lat">latin</language>
+  	  </langUsage>
+  	  <textClass>
+  		<keywords>
+ 		 <list>
+ 		  <item/>
+		  <item/>
+	  	 </list>
+  		</keywords>
+  		<keywords scheme="genre">
+  		 <list>
+   			<item/>
+  		</list>
+  		</keywords>
+  		<keywords scheme="period">
+ 		 <list>
+   			<item/>
+  		 </list>
+  		</keywords>
+ 	   </textClass>
+ 	</profileDesc>
+ </teiHeader>
+<text>
+ <body>	
+
+<div1>
+        <head>TRACTATUS PRIMUS.</head>
+
+<div2>
+          <head>CAPUT PRIMUM.</head>
+
+<pb n="1073C"/>
+<p> <hi>Quid est tibi, mare, quod fugisti; et tu Jordanis,
+quia conversus es retrorsum? <note>(Psal. CXIII.)</note>
+            </hi> Exclamatio
+est vox ista Prophetae, cum admiratione; admiratio
+cum exsultatione. Videbat enim divinum quoddam
+miraculum; nec unum tantum, sed geminum,
+utrumque magnum, utrumque mirum, utrumque
+valde stupendum. Videbat mare ante conspectum
+Israel fugere; videbat Jordanem cursus sui impetum
+in fontem reflectere; videbat utrumque Hebraeo
+populo cedere et proficiscentibus liberum iter
+relinquere. Quid horum non novum, quid horum
+non mirum? Utrumque ita contemplabatur, et ad
+utrumque mirabatur, et de utroque gratulabatur.
+Exclamat ergo in voce exsultationis et confessionis:
+<pb n="1073D"/>
+Quid est tibi, mare, quod fugisti: et tu, Jordanis,
+quia conversus es retrorsum? Primum miraculum
+fit in exitu Israel de Aegypto, secundum autem fit
+in exitu Israel de deserto. Quis mihi tandem aliquando
+det perfecte deserere regionem dissimilitudinis:
+quis mihi dare possit introire in terram promissionis,
+ut aeque videre possim fugam maris, et
+conversionem Jordanis? Pulchrum spectaculum,
+satisque jucundum videre aquam maris fugientem,
+videre aquam Jordanis revertentem, amaram recedere,
+dulcem refluere, amaritudinem deficere, dulcedinem
+<pb n="1074C"/>
+redundare. Quisquis haec vides, miror si
+non et ipse exclames: <hi>Quid est tibi, mare, quod fugisti;
+et tu Jordanis, quia conversus es retrorsum?</hi> 
+Nunquam solent fieri hujusmodi miracula, nisi ante
+veros Judaeos, nisi ante bonos Hebraeos.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>De gemina confessione, et gemina promotione.</hi> </head>
+<p>Confessio facit Judaeum, transitus facit Hebraeum.
+Judaeus siquidem <hi>confitens,</hi> Hebraeus <hi>transiens</hi> 
+interpretatur. Et est confessio vera, et est confessio
+ficta. Similiter est transitus bonus et est transitus malus.
+Confessio vera facit Judaeum verum, et transitus
+bonus facit Hebraeum bonum. Ascribere tibi mala tua,
+ascribere Deo tuo bona tua, confessio vera, confessio
+recta. Illa est criminis, ista est laudis; utraque sane
+<pb n="1074D"/>
+utilis, utraque laudabilis. Similiter est duplex transitus;
+uterque quidem bonus, uterque necessarius.
+Qui transit de malo ad bonum, bene quidem transit;
+et qui transit de bono ad optimum, bonum et
+ipse transitum facit. Cognosce ergo, et confitere
+mala tua, et noli in ipsis remanere; sed transi ea,
+et factus est transitus primus, et confessio prima.
+Similiter confitere Deo de bonis tuis, lauda ipsum
+pro bonis suis, et noli torpere in ipsis: sed nitere
+quantum potes ad meliora, et transi ad optima, et
+factus est transitus secundus, et confessio secunda.
+<pb n="1075A"/>
+Ad confessionem primam solet fieri miraculum primum
+et ad confessionem secundam solet fieri miraculum
+secundum. Per confessionem siquidem criminis
+efficitur fuga maris, et ad confessionem laudis
+statim convertitur Jordanis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>Quomodo confessio criminis valeat ad exterminium mali.</hi> </head>
+<p>Omnia namque in confessione lavantur: conscientia
+mundatur, amaritudo tollitur, mare fugatur,
+tranquillitas redit, spes reviviscit, animis hilarescit.
+Siquidem beati qui lugent, quoniam ipsi consolabuntur.
+Quid est lugere, contristari, nisi maris
+tempestatibus agi? Et quid est gaudium consolationis,
+nisi fuga maris et absentatio doloris? Audi
+<pb n="1075B"/>
+Judaeum crimina sua confitentem, et attende ante
+eum aquam maris fugientem: <hi>Dixi,</hi> inquit, <hi>confitebor
+adversum me injustitiam meam Domino, et tu
+remisisti impietatem peccati mei <note>(Psal. XXXI)</note>
+            </hi>. Iniquitatem
+confitebatur, et mare fugabatur, quia impietas
+remittebatur. Impietas enim mare est, dulcem
+siquidem aquam facere non potest; sed est
+aqua ejus salsa valde et multum amara, et amaritudo
+ejus amaritudo amarissima. Quid, quaeso,
+dulcedinis habet invidia? Quid, obsecro, dulcoris
+habet iracundia; quid suavitatis impatientia? Hujusmodi,
+ut arbitror, aquae quaelibet amarae sunt, et
+mare faciunt, quia nulli penitus sapere, nemini placere
+possunt. Vides ne ergo quale sit hujusmodi
+mare magnum, et spatiosum manibus quod potest
+<pb n="1075C"/>
+appellari malitiae. Nam est et aliud quod potest dici
+miseriae habens et ipsum quidem minime dulcem
+aquam, sed minus tamen amaram. Sed felix qui dominatur
+a mari usque ad mare, ut nulli subjaceat
+culpae, nulli succumbat poenae, in tantum, ut non
+dominetur omnis ei iniquitas, nec eum opprimat
+ulla adversitas. Felix ante cujus conspectum mare
+fugit malitia recedit, miseria cedit, conscientia hilarescit.
+Nunquidnam qui ejusmodi est, fiducialiter
+psallere non potest? Quid est tibi, mare, quod fugisti?
+Si vis ergo et tu fac quemdam bonae professionis
+Judaeum; confitere ex corde peccatum tuum,
+ut possis et ipse videre tale spectaculum, tam grande
+miraculum, et psallere non dubites hujusmodi hymnum.
+<pb n="1075D"/>
+Quid est tibi, mare, quod fugisti?</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Quomodo confessio laudis valeat ad promotionem boni.</hi> </head>
+<p>Sed nunc illud consideremus, quomodo ad confessionem
+laudis soleat fieri conversio Jordanis. Sed
+hoc melius, ut arbitror, operando quam disputando
+discimus, hoc citius experiendo quam loquendo
+probamus. Denique satage et tu confiteri, mirari,
+venerari Dei potentiam, Dei sapientiam, Dei misericordiam,
+et certus sis quia, quanto plus laudabis,
+tanto ardentius amabis. Ne te ergo pigeat divinam
+gratiam multum laudare, ut multum ames;
+multum amare, ut multum desideres. Quanto
+enim vehementius desiderabis, tanto citius obtinebis
+<pb n="1076A"/>
+quod multum concupiscis. Ama quod prius
+contemnebas, contemne quod prius amabas, et
+securus sis, quia conversus est Jordanis. Dilige
+Deum, despice mundum, et vere fatebor quia Jordanis
+conversus est retrorsum. Qualis, quaeso, ista
+est conversio Jordanis: quam mirabilis, quam laudabilis,
+quam amabilis, totum impetum amoris,
+totam inundationem dilectionis, totam affluentiam
+delectationis, magna cum festinatione currere non
+deorsum, sed sursum, quaerere quae sursum sunt,
+non quae super terram; ita ut veraciter profiteri
+possis, quia Jordanis conversus est retrorsum! Haec
+causa, ut arbitror, exstitit, cur Prophetam fieri
+Judaeum nec piguit, nec puduit, eo quod veraciter
+agnoverit quia <hi>Bonum est confiteri Domino, et
+<pb n="1076B"/>
+psallere nomini tuo, Altissime <note>(Psal. XCI)</note>
+            </hi>. Inde est illa
+firma professio et devota promissio: <hi>Confitebor
+Domino nimis in ore meo, et in medio multorum laudabo
+eum <note>(Psal. CVIII)</note>
+            </hi>. Nonne Judaeum se esse voluit,
+cum dixit: <hi>Lauda, anima mea, Dominum? <note>(Psal.
+CXLV.)</note>
+            </hi> Nonne aquam Jordanis deorsum fluere prohibuit
+cum animam suam blanda allocutione admonuit? <hi>Spera in Deo, quoniam adhuc confitebor illi, salutare
+vultus mei, et Deus meus 
+ <note>(Psal. XLII)</note>
+            </hi>. Nonne
+Jordanis fluenta converti desideravit, cum ait: <hi>Convertere,
+anima mea, in requiem tuam, quia Dominus
+benefecit tibi <note>(Psal. CXIV)</note>
+            </hi>. Miror si hoc audies, et
+ipse non ambis fieri Judaeus, et confiteri Domino,
+quoniam bonus, quoniam in saeculum misericordia
+ejus, et inveniaris dignus, cui dignetur Dominus
+<pb n="1076C"/>
+ostendere tam grande miraculum, ut cum Propheta
+psallere possis; quia Jordanis conversus est retrorsum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>Quod prima promotio virtutis sit in contemptu mundi.</hi> </head>
+<p>Sed nec illud, quaeso, tibi satis, cum fueris Judaeus,
+nisi efficiaris pariter et Hebraeus. Profecto idem ipsi
+Hebraei, qui et Judaei, licet ex alio Judaei, et ex alio Hebraei.
+Nam confessio, ut dictum est, Judaeum, et transitus
+efficit Hebraeum. Denique et tu ipse, si in Aegypto
+es, transi, et desere Aegyptum, et fecisti quemdam
+bonae spei Hebraeum, et videbis in fuga maris magnum
+illud et stupendum miraculum. Sed, si ipsum etiam
+desertum transire studueris, videbis adhuc majora
+<pb n="1076D"/>
+his in conversione Jordanis. Primus ergo transitus
+est de Aegypto, secundus de deserto. Primo transi
+de mundo ad teipsum, secundo de teipso in Deum,
+Mundum amasti, mundum despice, et transi. Desere
+curas saeculi, et age curam tui, et incipis esse cultor
+eremi. Rediens de Aegypti tenebris, de erroribus
+mundanis ad secretiora cordis, nihil aliud invenies,
+nisi locum horroris et vastae solitudinis. Haec est
+enim terra illa deserta, invia, et inaquosa, conscientia
+videlicet diu neglecta, omnino inculta, spinis et
+tribulis obsita, et omni horrore plena. Oportet ergo
+te Aegyptum deserere, et hujusmodi eremum petere,
+si cupis fugam maris oculis tuis aspicere, sicut et
+David elongavit fugiens, et mansit in solitudine, imple
+<pb n="1077A"/>
+praevaricator, quod praevaricatoribus praecipitur,
+ubi dicitur: <hi>Redite, praevaricatores, ad cor <note>(Isai.
+XLVI)</note>
+            </hi>, et factus est transitus primus, et de caetero
+recte appellaris Hebraeus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Quod secunda promotio virtutis sit in contemptu sui.</hi> </head>
+<p>Redi ergo ad teipsum, et omni custodia custodi
+cor tuum. Sed vae tibi, si remanes ibi. Noli remanere,
+sed transi pergens, et pertransiens in locum
+tabernaculi admirabilis, usque ad domum Dei.
+Transi ergo et teipsum, perge in Deum tuum,
+quaere et apprehende summum bonum. Audi illam
+qui clamitat in plateis; ausculta vocem Sapientiae,
+ad hunc secundum nos transitum admonentis: <hi>Transite
+ad me,</hi> inquit, <hi>omnes qui concupiscitis me (Eccle.
+<pb n="1077B"/>
+XXIV)</hi>. Desere mundum, et factus est transitus
+Israel de Aegypto. Contemne teipsum, et factus est
+transitus Israel de deserto. Primum ergo transitum
+facit contemptus mundi, secundum transitum efficit
+contemptus sui. Ad primum transitum mare fugatur.
+Ad secundum transitum Jordanis convertitur.
+Fuga maris exterminatio amaritudinis. Conversio
+Jordanis reordinatio charitatis.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Quomodo per contemptum mundi fiat exterminium mali.</hi> </head>
+<p>Vis apertius audire, plenius nosce quomodo ad
+primum transitum Hebraeorum, qualiter ad mundi
+contemptum fiat fuga maris, amaritudinis exterminium.
+<pb n="1077C"/>
+Statim absque dubio ut Aegyptum deserueris,
+ut mundum post te totum rejeceris: perit causa
+timoris, causa doloris, radix amaritudinis (radix
+siquidem omnium malorum cupiditas). Cum enim
+poteris mundum plene evadere, cum coeperis nulla
+ejus prospera concupiscere, nulla ejus adversa pertimescere,
+quid jam erit quod tuam mentem poterit
+perturbare? Quid, quaeso, rectius in fuga maris accipimus,
+quam nullis fatigari perturbationibus? Denique
+non turbetur cor vestrum, neque formidet,
+et mare ante conspectum nostrum fugiens abiit et
+recessit. Puto quia mare non jam erit amplius
+quando absterget Deus omnem lacrymam ab oculis
+sanctorum, quando jam non erit amplius neque
+luctus, neque clamor, sed nec ullus dolor, quoniam
+<pb n="1077D"/>
+priora transierunt. Quid enim est timor et tremor
+et moeror, nisi aquae maris amarae nimis, omnisque
+omnino expertes dulcedinis? Venit in altitudinem
+maris hujusmodi Propheta, ni fallor, cum diceret: <hi>Timor et tremor venerunt super me 
+ <note>(Psal. LIV)</note>
+            </hi>. Et
+illud: <hi>Tribulatio et angustia invenerunt me <note>(Psal.
+CXVIII)</note>
+            </hi>. Mare hujusmodi offendunt quotquot Aegyptum
+deserunt, desertum petunt, promissionis terram
+concupiscunt. Oportet enim nos per multas tribulationes
+transire in regnum Dei.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Quod contritio animi nunc sit in adjutorium, nunc ad firmamentum boni.</hi> </head>
+<p>Hujusmodi mare alii habent ante se, alii autem
+post se. Qui autem ante se habent, est eis ad impedimentum;
+<pb n="1078A"/>
+qui juxta se habent, est eis in adjutorium;
+qui post se habent, est eis ad firmamentum.
+Sic itaque Israelitici Aegyptum deserentes, desertum
+intrare volentes, et ad promissionis terram
+suspirantes, prius habuerunt mare ante se ad impedimentum
+profectionis; post habuerunt juxta se in
+adjutorium defensionis, quando erat eis pro muro
+a dextris et sinistris; tandem habuerunt post se
+in firmamentum securitatis, inimicis eorum ab eo
+submersis seu interclusis. Ante nos futura, juxta
+nos praesentia, post nos praeterita. Mare ante nos,
+timor futurorum periculorum est. Mare juxta nos,
+labor incumbentium certaminum est. Mare post nos,
+dolor perpetratorum malorum; mare ante nos,
+timor pusillanimitatis; mare autem juxta nos, labor
+<pb n="1078B"/>
+sollicitudinis; mare post nos, dolor poenitudinis.
+Timor pusillanimitatis impedit; labor sollicitudinis
+munit; dolor poenitudinis protegit. Alius aliorum
+vitam considerans et studium, cum videat multos
+etiam post professionis votum reverti ad vomitum,
+redire ad saeculum, nec saltem audet inchoare bonum,
+iste ante se mare habet, sed ad impedimentum.
+Quid enim est cordis trepidatio, mentis haesitatio,
+nisi quaedam quasi maris fluctuatio? Qui enim
+haesitaverit, similis est fluctui maris, qui a vento
+movetur et circumfertur. Alius hunc timorem viriliter
+calcat, maris fluctuationes ante se fugat, cordis
+sui trepidationem castigat, ad toleranda pro
+Domino quaelibet pericula animum fortiter praeparat,
+et pro hac parte psallere non dubitat, mare vidit
+<pb n="1078C"/>
+et fugit, eo quod omnis inutilis trepidatio ante
+ejus conspectum fugiat atque discedat. Sed, quia
+sollicitus est, adhuc quomodo debeat vel bonorum
+negligentiam cavere, vel malorum subreptionem
+declinare, patitur quidem mare, quamvis non ante
+se, in utroque tamen latere, eo quod oporteat hinc
+ad bona, illinc contra mala constanter agere, multum
+laborare, et utrobique sollicitum esse. Sed felices
+illi quos jam virtutum exercitia, laborum certamina,
+non tam fatigant quam delectant, qui licet
+solum plangunt, quod tot anteactae vitae tempora,
+vel in iniquitate consumpserunt, vel in vanitate
+perdiderunt. Qui hujusmodi est, mare post tergum
+se habere ostendit, sicut ille, qui dixit: <hi>Recogitabo
+<pb n="1078D"/>
+tibi omnes annos meos in amaritudine animae meae <note>(Isa. XXXVIII)</note>
+            </hi>.
+Quis autem dubitet hujusmodi hominibus
+mare post tergum relictum esse, ad tutissimum
+firmamentum, et subversionem inimicorum?
+Solet enim amaritudo poenitentiae non solum perpetrata
+mala satisfaciendo delere, verum etiam
+illud in nobis consuevit efficere, ut quae non licet,
+nec libeat repetere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX. <hi>De utili et inutili contritione.</hi> </head>
+<p>Consideremus et illud quomodo hic maris aqua,
+amaritudinis unda aliis sit extra viam, aliis in via.
+Quis dubitet hanc vitam esse viam ad vitam futuram?
+Alius dolet pro his quae sunt praesentis vitae,
+alius pro his quae sunt vitae futurae. Qui pro his dolet,
+<pb n="1079A"/>
+quae sunt in hac vita, huic est mare in via. Qui
+pro illis dolet, quae sunt extra hanc vitam, illi est
+mare juxta viam. In hac vita, et bona et mala; in
+illa vita, aut sola bona, aut sola mala. Itaque quae
+nulla sunt, multum a se differunt, et nulla se similitudinis
+vicinitate contingunt, eo quod inter ea
+chaos magnum firmatum sit, in quibus aliqua consimilis
+qualitatis proportio reperiri non possit. Sed
+haec vita inter illa quae futurae vitae sunt, bona sed
+mala quasi media interjacet, eo quod ad utraque
+seu hinc seu inde aliqua similitudine appropinquet,
+quae bona et mala permista habet. Illius igitur vitae
+bonis bonorum suorum (quamvis umbratili similitudine
+jungitur, sicut et vitae illius malis, malorum
+suorum) imaginaria affinitate sociatur. Extra ergo
+<pb n="1079B"/>
+hanc viam sunt, quae post hanc vitam occurrunt.
+Extra quidem, et juxta non solum qualitatis similitudine,
+sed temporis cohaesione. Statim ut ista deserimus
+in illa absque mora incidimus. Qui igitur
+pro his timet, dolet et plangit moeroris undam,
+amaritudinis affluentiam, quasi maris aquam juxta
+decursus sui viam effundit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>De gemina cordis compunctione.</hi> </head>
+<p>Moeror pro nobis aeternis, mare est a dextris;
+moeror pro malis aeternis, mare est a sinistris. Sane
+si sanae mentis sumus, pro utrisque debemus time
+re, dolere et amaris compunctionis lacrymis affluere.
+Ista timeamus amittere, illa timeamus incurrere,
+<pb n="1079C"/>
+et habemus geminum mare muniens nos fortiter,
+et ab utroque latere. Recte, ut arbitror, mare,
+quod in via occurrit, quod profectionis nostrae iter
+impedit, quod profectus nostri cursum intercludit,
+justae severitatis virga percutimus, divinae districtionis
+consideratione terremus, futuri examinis
+recordatione amovemus. Omnis ergo metus noster,
+omnis moeror noster amoveatur a via, et pro vita
+inutili, mundanae vitae sollicitudine compunctio nostra
+dividatur ad gemina, ut per timoris moerorem
+mala diluamus aeterna et per desiderii lacrymas,
+bona mercemur aeterna. Felices qui et hoc geminum
+duplicis moeroris mare pertranseunt, qui omnem
+futurae exspectationis ambiguitatem, et metum,
+longe post tergum relinquunt, et universum diffidentiae
+<pb n="1079D"/>
+luctum certae spei securitate transeunt, utinam
+et in nobis absorbeatur hujusmodi metus et
+moeror a supervenientis fiduciae securitate! Fugiat
+atque discedat etiam hujusmodi mare, ut possimus
+et nos cum Propheta psallere: Quid est tibi, mare,
+quod fugisti? Nonne mare putamus de juxta, illud
+aufugerat, qui dicebat? <hi>Bonum certamen certavi, cursum
+consummavi, fidem servavi, de reliquo reposita est
+mihi corona justitiae, quam reddet mihi in illa die justus
+judex <note>(II Tim. IV)</note>
+            </hi>. Puto quia mare omne longe post tergum
+reliquerat, nec erat unde jam contristari et conturbari
+debuerat, cum dicebat: Nihil mihi conscius sum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI. <hi>De vano vel vero mundi contemptu</hi> </head>
+<p>Sed quid, quaeso, illud esse dicimus, quod usque
+<pb n="1080A"/>
+hodie tam multos videamus Aegyptum deserere, qui
+non merentur tamen in maris effugio tam grande
+miraculum cernere? Si vere Aegyptum deserunt, si
+veri Hebraei sunt, eo quod de mundo transeant, et
+primum Hebraeorum transitum faciant, cur et primi
+saltem miraculi experimentum non capiant? An forte
+relinquunt saeculum professione, non autem et
+conversatione, habitu, non affectu? Si gloriari oportet,
+possum pro hac tantum parte gloriari. Si quidem
+Hebraei sunt, et ego. Sed videte ne forte non
+sufficiat nobis et vobis mutasse locum non animum,
+saeculum non animum mutant, qui trans mare currunt.
+Quid sic juvat transire et Hebraeum non facere?
+Absque dubio in exitu Israel de Aegypto profugium
+maris indicat, quam recte sibi quisque hujus
+<pb n="1080B"/>
+vocabuli dignitatem vindicat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII. <hi>Quam sit difficile ad perfectum sui contemptum pertingere.</hi> </head>
+<p>Transeamus ex Aegypto corpore, transeamus et
+corde. Sed neque hoc putemus nobis posse sufficere.
+Grandis enim adhuc nobis restat via, si ad secundi
+miraculi visionem volumus pertingere. Procul dubio
+non est ejusdem facultatis, seu facilitatis Aegyptum
+exire et eremum pertransire, mundum relinquere,
+et seipsum vincere, et post seipsum projicere.
+Illud quasi modicum, quod modico tempore
+perficitur, hoc post multos labores, per multas tentationes
+vix tandem aliquando et a paucis consummatur.
+Illud unius diei est opus, hoc vix post multa
+<pb n="1080C"/>
+tempora explemus. Durum, difficile, grande, seipsum
+relinquere bene inspicere et plene despicere, perfecto
+probare et penitus improbare. Hic labor, hic gemitus.
+Pravum est cor hominis et inscrutabile, et quis cognoscet
+illud? Filii hominum, usquequo gravi corde,
+dura cervice et indomabili corde, et quis vincet
+illud?</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Quibus modis mens ad plenum sui contemptum eruditur.</hi> </head>
+<p>O quoties necesse est loca mutare, quam saepe castra
+figere, quot tentationes tolerare, omnia probare,
+quod bonum est tenere, abstinere ab omni specie
+mala! O quoties necesse est ire et reverti, et quae
+<pb n="1080D"/>
+retro sunt oblivisci, et in anteriora extendi, et item
+post tergum redeundo capere experientiam sui, et
+per proprium defectum propriam infirmitatem edoceri!
+O quoties necesse est in tot errorum devia,
+tot ambiguitatum opaca, tot vitiorum monstra incidere,
+perlustrare, aspicere, antequam quis, extrema
+eremi teneat, et ad humilitatis ultima perveniat, et
+ad summum sui contemptum perfecte attingat! O
+quoties necesse est ad Dei misericordiam confugere,
+et inter tot pericula deprehensum divinam misericordiam
+quaerere et gratiam impetrare! O quam
+stupenda magnalia! O quam jucunda miracula! O
+quam admiranda beneficia, in tot divinis revelationibus,
+in tantis visitationibus, in talibus consolationibus,
+experiuntur, mirantur, venerantur, quos
+<pb n="1081A"/>
+eremi vastitas, et propriae infirmitatis magnitudo
+docuit, nil de sua virtute confidere, sed totum de
+Dei pietate praesumere, jactare in Domino curam
+suam, et ponere in Domino Deo spem suam! Ibi
+experiri licet in coelestis cibi dulcedine, quam magna
+multitudo dulcedinis, quam abscondit Deus diligentibus
+se, gustare et videre quam suavis Dominus,
+et quam bonus Israel Deus, his qui recto sunt
+corde. Ibi qui ascendunt in montem Domini, et
+appropinquant pedibus ejus, accipient de doctrina
+ejus probantes et profitentes quoniam magna virtus
+ejus et sapientiae ejus non est numerus. Novit itaque
+hoc quicunque in illa terra deserta et inaquosa,
+sic in sancto apparuit ei, ut videret virtutem suam
+et gloriam, illius sententiae experimentum capiens,
+<pb n="1081B"/>
+quoniam magnus Dominus, et laudabilis nimis, et
+magnitudinis ejus non est finis. Sed quis enumerare
+sufficiat quam innumera hujusmodi alternantium
+vicissitudinum nunc desolationum, nunc consolationum
+experiri oporteat, quam multa humanae infirmitatis
+judicia, quam multa divinae pietatis argumenta
+eremi habitatoribus, Deique cultoribus videre
+contingat, antequam eremi extrema attingant, perfectaeque
+humilitatis metas apprehendant, antequam
+Jordanis unda venientibus cedat, cursumque retorquens
+in fontem redeat, humanusque animus sua
+spernens, seseque contemnens totus in Deum transeat,
+et in illum a quo omne datum optimum, et omne
+donum perfectum per desiderium currat, et ad
+<pb n="1081C"/>
+Deum fontem vivum totum amoris sui impetum retorqueat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV <hi>Quod superfluus amor sui inter successus virtutum difficilius vincitur.</hi> </head>
+<p>O felix anima quae digna es pro qua dignatur Dominus
+tam grande miraculum facere; cui liceat tale
+spectaculum videre, aquas quae inferiores sunt, et
+quaelibet desideriorum fluenta quae ad ima tendunt
+decurrere, atque deficere aquas quae desuper veniunt,
+desideria quae desursum sunt in una mole consistere,
+ita ut veraciter possit psallere: <hi>Unam petii
+a Domino, hanc requiram, ut inhabitem in domo Domini
+omnibus diebus vitae meae <note>(Psal. XXVI)</note>
+            </hi>. O infelix
+anima quae tardas, quae non festinas, quae multum
+<pb n="1081D"/>
+non anhelas currere et videre mirari, et obstupescere
+fluenta Jordanis primo cursum figere, in uno
+loco stare; et in uno aeternitatis desiderio immobiliter
+inhaerere, postea in inferioribus penitus deficere,
+et in superioribus paulatim crescere. Quid
+putas, obsecro, miraculi, quid esse prodigii Jordanem
+retroagi, et tantum fluminis impetum in superiora
+reverti, praesertim si tempore messis fiat, quo
+solet implere ripas alvei sui? Cum enim coeperit semen
+illud quod cecidit in terram bonam producere
+de se fructum, aliud tricesimum, aliud sexagesimum,
+aliud centesimum, solet nimirum eo tempore
+Jordanis unda altius intumescere, et ut est humani
+animi, magna de se aestimare, magnum se aliquem
+credere, cum viderit se multum fructum facere, et
+<pb n="1082A"/>
+ad maturitatis messem pervenire. Tunc, non mirum,
+quo majora de seipso aestimat, eo majori dilectione
+dignum se esse judicat, magnumque est valde si non
+usque ad superfluitatis in ima effluat, et justae aequitatis
+metas utilitatisque ripas non excedat. Quantum
+ergo putas, quam magnum miraculum existimas
+tibi ipsi vilescere, tibi ipsi magis magisque
+displicere, eo praecipue tempore, cum incipis veraciter
+magnus esse, magnusque omnibus apparere?
+Solent sane, sed neque hoc mirum est, tempore
+glacialis frigoris, seu etiam aestivi fervoris siccitate
+Jordanis aquae minui atque decrescere: et quamlibet
+elata mens, inter malitiae frigus et nimios concupiscentiae
+aestus sibi ipsi vilescere, et, quamvis
+invita, infirmitatem suam recognoscere, et a sua de
+<pb n="1082B"/>
+se aestimatione non modicum detumescere. Quis,
+quaeso, tam immane desipiat, qui sibi ipsi inter scelera
+et flagitia quandoque non displiceat? Sed illud
+magnum erit, si in tempore messis, et inter virtutum
+successus possit Jordanis undas intra alvei sui
+ripas includere, et amoris privati impetum intra
+modestiae metas cohibere. Magnum erit si non erumpat
+ad illicita, vel effluat ad inutilia. Magnum erit
+si nec seipsum diligit nisi quantum convenit, vel
+expedit. <hi>Jordanis autem,</hi> inquit Scriptura, <hi>ripas alvei
+sui tempore messis impleverat <note>(Josue VIII)</note>
+            </hi>. Impleverat
+inquit, non excesserat. Noxium ergo, ut puto,
+non erit ripas implere, sed ripas excedere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV. <hi>Quomodo gradatim animus ad sui contemptum est promovendus.</hi> </head>
+
+<pb n="1082C"/>
+<p>Primum ergo est cuique amorem sui ad certam
+mensuram restringere, ut postmodum mereatur etiam
+magnum illud et stupendum miraculum videre, Jordanem
+videlicet primo quidem cursum figere, deinde
+intumescere, tandem retro ire et ad altiora ascendere.
+Et illud quidem primum, cohibere videlicet
+excessum etsi magnum, non tamen mirum; sed
+ad montana cursum reflectere, mirabile spectaculum
+et spectabile miraculum. Omnino et absque dubio
+aliud est amorem sui temperare, et aliud est suspendere
+atque deflectere. Aliud est moderatus amor
+sui, et aliud magnus contemptus sui. Puto non sine
+causa nonnisi in Jordane celebratum est tale miraculum,
+<pb n="1082D"/>
+quod interpretatur <hi>descensio eorum.</hi> Sed quae
+est ista descensio nisi cordis humiliatio? Vel quorum
+eorum, nisi ipsorum descendentium et sponte
+humiliantium? Quorum enim descensio voluntaria
+non est, in ipsis quidem est, sed eorum quodammodo
+non est; quia ipsis non prodest. Oportet ergo
+ut spontanea sit, ut eis prosit, et eorum veraciter
+dici possit. Nunquid sponte descendisse, vel in hoc
+quidquam profecisse ereduntur de quibus legitur: <hi>Dejecisti eos dum allevarentur? 
+ <note>(Psal. LXXXVIII.)</note>
+            </hi> 
+Oportet ergo ab omni mentis elatione descendere,
+et humiliari spontanea voluntate qui vult magnum
+illud miraculum videre, non sicut illi inviti dejecti,
+ad laudem quidem Dei, quamvis ad nullam utilitatem
+sui. Fit ergo in Jordane tantum in descensione
+<pb n="1083A"/>
+eorum, in descensione descendentium, in humiliatione
+humiliantium tam celebre factum et coeleste
+miraculum. Quanto ergo major es, humilia te in
+omnibus, et tenes ripas Jordanis: dignus cui Jordanis
+cedat, cui Dominus miracula ostendat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>Quomodo vano amore exhausto animus in Dei amore dilatatur.</hi> </head>
+<p>Vis videre aquas Jordanis cursum figere, et in uno
+loco stare? <hi>Mihi autem,</hi> inquit, <hi>adhaerere Deo bonum
+est; ponere in Domino Deo spem meam <note>(Psal. LXXXII)</note>
+            </hi>.
+Vis videre aquas inferiores decurrere atque deficere? <hi>Renuit consolari anima mea 
+ <note>(Psal. LXXXVI)</note>
+            </hi>.
+Vis videre aquas superiores intumescere et sursum
+currere? <hi>Quemadmodum desiderat cervus ad fontes
+<pb n="1083B"/>
+aquarum, ita desiderat anima mea ad te, Deus <note>(Psal.
+XLI)</note>
+            </hi>. Denique et tu non eas post concupiscentias tuas
+et fixisti aquas. Noli diligere mundum, nec ea quae
+in mundo sunt: et defecerunt aquae inferiores quae
+deorsum currunt. Denique delectare in Domino, et
+videbis fixas stare in uno loco. Diligas Dominum
+Deum tuum ex toto corde tuo, et ex tota anima tua,
+et ex tota mente tua, et videbis aquas vehementer
+intumescere, et in magnam, nec mirum, molem
+consurgere. Puto te non invenire quo eas
+latius expandas, quam ut toto corde diffundas, et
+per totam animam extendas, et ex eis totam mentem
+repleas. O quam vehementer haec salutaris unda
+intumuerat in ejus pectore qui dicebat: <hi>Cupio dissolvi,
+<pb n="1083C"/>
+et esse cum Christo! <note>(Philipp. VIII.)</note>
+            </hi> In hanc
+illud sententiam currit quod Propheta psallendo de
+seipso pronuntiavit: <hi>Defecit in salutare tuum anima
+mea <note>(Psal. CXVIII)</note>
+            </hi>. Sed qualis, quaeso, erat illa aquarum
+inundatio ubi pater exclamare cogitur pro parricida
+filio? <hi>Absalon fili mi, fili mi Absalon: quis
+mihi det ut ego moriar pro te, fili mi Absalon? <note>(II Reg.
+XXIX.)</note>
+            </hi> Puto locum reperiri non posse, quo se possent
+latius expandere. Majorem siquidem charitatem
+nemo habet, ut animam suam ponat quis pro amicis
+suis. Sic et illa inundatio intumuit non modicum,
+de qua habemus Dominicum testimonium: <hi>Dimissa
+sunt ei peccata multa, quoniam dilexit multum <note>(Luc.
+VII)</note>
+            </hi>. Quid mirum, quaeso, si procul apparebant quae
+multum tumuerant? Vultis nosse quam procul appareat
+<pb n="1083D"/>
+illius dilectionis inundatio quae tantum aestuabat,
+quae se et usque ad pedum deosculationem
+unctionemque inclinabat: <hi>Amen dico vobis, ubicunque
+praedicatum fuerit hoc Evangelium in toto mundo,
+dicetur, quod et haec fecit in memoriam ejus <note>(Matth.
+XXVI)</note>
+            </hi>. Vultis autem adhuc apertius nosse quam procul
+apparere possint, si tamen ad instar montis
+intumuerint? <hi>In hoc cognoscent omnes quia mei estis
+discipuli, si dilectionem habueritis ad invicem <note>(Joan.
+XIII)</note>
+            </hi>. Quam longe, obsecro, apparet quod omnes
+cognoscere oportet? Sed necesse est, uti jam diximus,
+verae charitatis fluenta ad instar montis intumescere
+quae volunt tam procul apparere. Sed forte
+adhuc montem quaeris, ad cujus similitudinem aquas
+intumescere legis. Vide ne forte sit ille mons coagulatus,
+<pb n="1084A"/>
+mons pinguis, mons domus Domini praeparatus
+in vertice montium, eo quod Dominus exaltaverit
+illum, et donavit illi nomen quod est super
+omne nomen, ut in nomine Jesu omne genuflectatur,
+coelestium, terrestrium et infernorum. Ad instar
+hujus montis, ad similitudinem illius magnae mirabilisque
+dilectionis, qua animam suam posuit pro
+ovibus suis, aquas intumescere debere cognoscat
+qui eas procul apparere, et Dominicum praeceptum
+implere desiderat: <hi>Hoc est praeceptum meum, ut
+diligatis invicem, sicut ego dilexi vos <note>(ibid.)</note>
+            </hi>. Audi similitudinem
+et adhibe imitationem. Sicut dilexi
+vos, inquit. Similitudo dilectionis est instar montis.
+Quantum amavit nos, qui mortuus est propter nos?
+Nunquidnam hujus montis similitudinem in sua dilectione
+<pb n="1084B"/>
+non tenuerunt qui pro Christo lapidati sunt,
+secti sunt, tentati sunt, in occisione gladii mortui
+sunt? Idcirco, ut arbitror, in omnem terram exivit
+sonus eorum et in fines orbis terrae verba eorum,
+ut apparerent procul, ut ab omnibus viderentur, et
+illos omnes imitarentur. Sed quid, quaeso, miramur
+si procul apparuerunt aquae, quae, sicut scriptum est: <hi>Usque ad Sartan intumuerunt? 
+ <note>(Josue III.)</note>
+            </hi> Sartan interpretatur <hi>tribulatio eorum.</hi> 
+ Tribulatio autem eorum
+quid est aliud, secundum quod de Jordane jam diximus,
+nisi tribulatio tribulatorum? Tribulatio autem
+voluntaria cuique est sua. Quam enim quisque
+patienter seu etiam libenter suscipit, suam esse facit;
+quia suae eam utilitati deservire cogit. Sicut
+ergo descensio, descensio eorum est qui se sponte
+<pb n="1084C"/>
+humiliant, sic et tribulatio, tribulatio eorum est qui
+pro Domino tribulationem amant. Illa itaque tribulatio
+est tribulatorum, quae tribulatis imputatur ad
+meritum. Vide ergo aquae illae quae superiores erant,
+quantum creverant, quantum tumuerant, quae se
+et usque ad Sartan extenderant. O fortis ut mors
+dilectio, quae et te usque ad Sartan extendis, et
+usque ad voluntariam tribulationem sinum tuum
+expandis? Qualis, quaeso, est ista dilectionis dilatatio,
+qualis est ista aquarum inundatio, cor suum
+extendere et dilatare usque ad voluntariam tribulationem,
+usque ad spontaneam passionem, usque
+ad votivam mortem? Ne dubites ergo se in id loci
+extendisse aquas superiores, quoties vides in tribulatione
+<pb n="1084D"/>
+gaudentes, et suam propter Dominum tribulationem
+amantes, sicut ibant apostoli gaudentes a
+conspectu concilii, quoniam digni habiti sunt pro
+nomine Jesu contumeliam pati.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>De vani amoris defectu, et veri amoris profectu.</hi> </head>
+<p>Ergo aquae superiores usque ad Sartan ascendunt,
+et aquae inferiores usque ad mare descendunt. Illae
+ascendunt et crescunt, istae descendunt et decrescunt.
+Illae crescunt et intumescunt, istae decrescunt
+et deficiunt. Pulchrum spectaculum aquas
+superiores circa Sartan intumescere et aquas inferiores
+in mari deficere. Hic intende et obstupesce.
+Hic intende diligenter, et obstupesce vehementer.
+Elige in his tam magnis tamque mirandis quid
+<pb n="1085A"/>
+prius, quid amplius mireris an aquas in montanis
+non defluere sed intumescere, an aquas ex aquis non
+intumescere sed deficere. <hi>Aquae autem,</hi> inquit Scriptura, <hi>quae inferiores erant in mare solitudinis, quod
+nunc vocatur mortuum, descenderunt usquequo omnino
+deficerent 
+ <note>(Josue III)</note>
+            </hi>. Quae ergo inferiores
+sunt, necesse est in mare descendere, et in mari
+deficere. Scimus autem quia aquae quantumlibet
+dulces sint, quoniam, cum in mare perveniunt,
+dulcedinem suam servare non possunt. Quae ergo
+in mare descendunt, cito amarescunt. <hi>Risus,</hi> inquit, <hi>vester vertatur in luctum, et gaudium in moerorem <note>(Jac. IV)</note>
+            </hi>,
+hoc est dulcem aquam in mare
+descendere et dulcedinem amittere et dulcem in
+amaram vertere. Risus sane et gaudium dulcem
+<pb n="1085B"/>
+aquam facit, et hujusmodi quamlibet quam ardenter
+sitit, tam libenter unusquisque et bibit. Sed luctus
+et moeror dulcem facere non possunt, nec hujusmodi
+bibere homines facile volunt. Quoties risus in luctum
+vertitur, toties aqua inferior in mare labitur
+et in amaram mutatur. Neque enim risus ad superiores
+aquas pertinere potest de quo ab ore veritatis
+dictum est: Vae vobis qui nunc ridetis, quia
+plorabitis. Quid ergo est inferiores aquas in mare
+decurrere atque deficere, nisi carnales et infimas delectationes
+in dolorem trahere, et poenitendo exstinguere?
+Qui enim de perpetrata delectatione plangit
+et gemit, qui supervenientem horret et respuit, qui
+futuram timet et declinare satagit, quid aliud quam
+dulcem sibi in amaram vertit? Hoc itaque, hoc,
+<pb n="1085C"/>
+inquam, est quod superius mirabamur, quod adhuc
+usque miramur, dulcem in amaram vertere, gaudium
+deflere, delectationem dolere, et in hunc modum
+dulcem in mari deficere. Ergone aquae circa
+Sartan intumescunt, ergone aquae in mari deficiunt?
+Siccine, homo, de tribulatione laetaris? Siccine,
+homo, de delectatione turbaris? O mirum, o stupendum!
+In voluntaria tribulatione gaudia cumulantur,
+occursantes delectationes dolore spontaneo
+exterminantur.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>Quomodo per vani amoris defectum mentis perturbationes deficiunt.</hi> </head>
+<p>Sed quid, quaeso, hoc sibi vult quod vocatur
+<pb n="1085D"/>
+mare Mortuum, in quo contigit tam celebre factum?
+Quid, quaeso, tale nomen accepit? Nam, quod prius
+non habuerit ex eo Scriptura satis innuit, quo ait: <hi>Mare solitudinis, quod nunc vocatur Mortuum 
+ (Josue
+III)</hi>. Puto quia non omne mare solitudinis, nec
+omnis amaritudo desolationis, imo hoc ipsum mare
+de quo modo loquimur haud digne tali nomine censetur;
+nec debet dici mortuum nisi forte in illo
+contingat praedictum miraculum. Scimus quia quod
+mortuum est omnino se movere non potest, forte
+hoc mare postquam incidens unda defecit, postquam
+influentem et impellentem gurgitem non habuit, a
+suo fervore defecit, et tumentes illas atque ebullientes
+fluctuationum suarum procellas amisit. Impetus
+siquidem influentes Jordanis cursusque rapidissimus
+<pb n="1086A"/>
+illapsu suo vehementissimo ipsum impellebat
+atque exagitabat, et tranquillum, et quietum
+esse penitus non sinebat. Ibat ergo tunc temporis
+tumens et spumans et multum exaestuans, et quasi
+ad commotionis et inquietationis suae injuriam vehementer
+indignans. Sed postquam coepit influens
+inundatio deficere, et commotionis causa perire,
+coepit et ipsum mare ab illa sua procellosa exagitatione
+quiescere, et quasi mortuum motum pristinae
+inquietationis amittere, et nomen mutare. Sic nimirum,
+sic torrens voluptatis carnalis et vehemens
+impetus carnis, quandiu viget, solet esse causa tumoris
+et indignationis. Solet sane conscientiam
+totam turbare, amaritudinis fluctus exagitare, et
+profundissimam illam humani cordis abyssum ab
+<pb n="1086B"/>
+imo evertere, et magnum illud mare magnis tempestatibus
+agitare. Mens siquidem coelesti desiderio
+fervens, puritati studens, et ad perfectionem tendens,
+quandiu turpes delectationes ex carnis impetu
+sentire cogitur, necesse est infimis desideriis, et ad
+ima fluentibus reluctetur. Hinc est quod sibi irascitur,
+quod sibi indignatur, adversus seipsam saevire
+videtur, puto quia hujusmodi perturbatio et tumultuatio,
+vehemensque fluctuatio non facit mare mortuum,
+sed vivum, sed validum, sed inquietum. Sed
+postquam coeperint inferiores aquae decurrere atque
+deficere, et infimarum delectationum fluxus languescere
+atque evanescere, incipit et conscientia pariter
+ad pacem et tranquillitatem seipsam paulatim componere,
+futuri judicii metum magis magisque deponere,
+<pb n="1086C"/>
+et illas praeteritae indignationis et anxietatis
+aestuationes amittere, ad mortui similitudinem trepidationis
+et perturbationis motum non habere. In
+hunc itaque modum carnalis voluptatis profluvium
+exhaustum atque exsiccatum, penitusque absumptum
+facit mare invalidum, et infirmum, et tranquillum,
+et quod jure debeat dici, mortuum. Vides
+certe, ut arbitror, quam recte mare suum nomen
+mutavit, mortuisque nomen concepit, in quo inferiorum
+decursus aquarum decidit atque defecit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIX. <hi>Cum qua cautela debeamus cordis perturbationes delere.</hi> </head>
+<p>Notandum autem quomodo mare hoc debeat juxta
+<pb n="1086D"/>
+aliquid permanere, et tamen secundum aliquid mortuum
+esse: nam semper necesse est de perpetratis
+malis poenitere, odio et detestatione persequi et
+perhorrescere, non tamen illa semper deflere et trepidare,
+sed post dignam satisfactionem et concupiscentiam
+edomitam, consolationem recipere, et ad
+spem veniae securitatisque quietem animum reformare.
+O vere felix multumque beatus, cui datum est
+cordis perturbationes et tristitiae tempestates compescere,
+et magnas illas et mirabiles elationes maris
+ad tranquillitatem componere! Unum scio, nec
+dubitare audeo, quia quandiu amor ad multa spargitur
+et ad ima derivatur, nunquam ad plenam
+pacem perducitur, nunquam ad verae securitatis
+tranquillitatem serenatur. O anima infelix et misera,
+<pb n="1087A"/>
+usquequo sollicita es, et turbaris erga plurima?
+porro cum unum sit necessarium, tandem aliquando
+fige desiderium, dilige unum. Felices illius civitatis
+cives, cujus participatio in idipsum. Congregentur
+aquae quae sub coelo sunt in locum unum, noli sinere
+eas fluere deorsum. An nescis quia qui dimittit
+aquas suas caput est jurgiorum? Quid per ima desideria
+defluis? Quid tibi cum bonis perituris, gaudiisque
+lugendis? An nescis quia omnis aqua quae
+deorsum currit, in mare descendit? Omnia siquidem
+flumina intrant in mare, et omnis infima delectatio
+desinit in dolore. Risus enim dolore miscebitur, et
+<pb n="1088A"/>
+extrema gaudii luctus occupant, eo quod omnis dulcis
+aqua in mare descendat, et dulcedinem amittat:
+transit enim mundus, et concupiscentia ejus. Et
+scimus quia sine dolore non relinquitur, quod cum
+amore possidetur. Quanto ergo melius est quae sursum
+sunt sapere, quae sursum sunt quaerere, et Jordanis
+fluenta in suum fontem retorquere, ut audeamus
+et nos illam congratulationis vocem in usum
+nostrae confessionis assumere? Quid est tibi, mare,
+quod fugisti; et tu, Jordanis, quia conversus es
+retrorsum?</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>TRACTATUS SECUNDUS. <hi>Ab hoc loco agitur de studio contemplationis, et quomodo vel quantum valeat ad reformationem veri amoris.</hi> </head>
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<pb n="1087B"/>
+<p>Sed nec illud hoc in loco praetereundum puto,
+qua arte, quave industria effici valeat, ut se ultro
+Jordanis convertat, et spontaneo nutu in suum
+fontem recurrat. Aliud siquidem est nosse quid expediat,
+vel quid fieri oporteat, et aliud non ignorare
+quomodo obtinere valeas quod utile, seu etiam necessarium
+fore non dubitas. Quis non desperet
+tanti fluminis impetum posse in montana convertere?
+Quis, inquam, praesumat naturalem illum humanae
+affectionis cursum rapidissimum, impetumque
+ad ima vehementissimum, posse cohibere, et
+in contraria deflectere, nisi artem accipiat qua se
+illud speret efficere? Denique cursum aquae defluentis
+praepeditum saepe audivimus, frequenter et
+<pb n="1087C"/>
+vidimus, neque hoc impossibile judicamus. Nam
+aliud est in necessariis appetitibus, et in naturalibus
+affectibus saepe consensum cohibere et aliud
+affectionem mutare et humanae concupiscentiae
+profluvium in virtutum montana convertere, et
+spontaneo quodam intimi amoris nutu contra morem
+in supercoelestium desideriorum concupiscentias
+assurgere. Parum ergo puto meam vel cujusque
+hominis inde proferre sententiam, discamus ab eo
+qui docet hominem scientiam. Audiamus itaque
+quid nobis in hoc negotium proponat, vel quid in rei
+exitum promittat. Cum posuerint, inquit, vestigia
+pedum suorum sacerdotes qui portant arcam foederis
+Domini Dei universae terrae, in aquis Jordanis,
+aquae quae inferiores sunt decurrent atque deficient;
+<pb n="1087D"/>
+quae autem desuper veniunt in una mole consistent.
+Oportet ergo, ut audimus, arcam foederis Domini
+praesentem habere, si concupiscimus inferiores
+aquas deficere, et superiores in una mole consurgere.
+O felices qui eam, etsi non semper, verumtamen
+frequenter praesentem habere possunt, in cujus
+praesentia tam magna, tamque jucunda miracula
+fiunt. Sed quae est ista, quaeso, arca foederis,
+<pb n="1088B"/>
+nisi forte illa divinorum donorum praerogativa gratia,
+videlicet contemplationis? Quae est illa arca
+deaurata, nisi humana intelligentia coelestis sapientiae
+fulgore splendida et divinae inspirationis
+luce irradiata? Quid rectius intelligimus per illud
+venerabile sacrarium et sacrorum divinorum reconditorium,
+quam spiritalem spiritalium virorum
+intellectum, qui secretorum divinorum sacratiora
+et sapientiae arcana et per intelligentiam capit, et
+per memoriam custodit? Sed quid illud dicimus
+quod haec arca dicitur foederis arca? Nunquid nam
+dare solet hanc tantam gratiam in signum dilectionis
+et pignus charitatis, qui diligit diligentes se,
+et suo dignos efficit amore, intantum ut ab illo
+mereantur audire: Jam non dicam vos servos, sed
+<pb n="1088C"/>
+amicos, quia omnia nota fecit vobis quae audivi a
+Patre meo? <note>(Joan. XV.)</note> Haec itaque arca non semper
+praesens habetur, quia contemplationis gratia
+etiam ipsis quandoque subtrahitur quibus eam secundum
+tempus habere conceditur. Arcam ergo
+praesentem habemus, quando ex inspirante gratia
+radium contemplationis accipimus. Arcam istam
+nobiscum portamus, cum divinae contemplationi diligenter
+insistimus, et studio sapientiae salutaris
+per investigationem seu retractationem vehementer
+interdimus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>Qomodo investigatio et retractatio salubrium valeat ad corrigendum animum.</hi> </head>
+<p>Isti etenim sunt, ni fallor, arcae nostrae bajuli,
+<pb n="1088D"/>
+quibus solet vel in alta sustolli, vel in anteriora deferri,
+ignotorum, scilicet investigatio et cognitorum
+retractatio. Sine his etenim cito aut deorsum labitur,
+aut retrorsum repellitur. Sine retractatione siquidem
+ab oblivionis lapsu non custoditur, et sine
+investigatione ad cognitionis profectum nunquam
+promovetur. Solet autem, ut omnes novimus, officium
+sacerdotum esse circa salutis custodiam, curamque
+<pb n="1089A"/>
+animarum vigilare. Debet ergo investigatio
+nostra, debet et retractatio nostra circa salutaria,
+circa saluti obnoxia diligenter intendere, indesinenter
+insistere, ut sacerdotii dignitatem sibi meritis
+vindicent, et nominis honorem defensent. O quam
+digni sacerdotes! O quam idonei arcae portitores,
+investigatio salutarium, retractatio salubrium! Horum
+sacerdotum officio ad Jordanica fluenta arcam
+nostram deferimus, cum per investigationis et retractationis
+studium ad desideriorum nostrorum
+considerationem nostrae contemplationis oculum reflectimus.
+Ad horum itaque ingressum arcaeque
+accessum, videbis cursum Jordanis, imperiumque
+dissolutionis, primo lentescere, postmodum haerere,
+tandemque retrorsum redire. Absque dubio affectionis
+<pb n="1089B"/>
+humanae profluxum quanto perfectius inspexeris,
+quanto plenius agnoveris, tanto profecto amplius
+miraberis, tanto vehementius detestaberis.
+Considera ergo frequenter, contemplare diligenter
+cordis tui luxum, desideriorumque profluvium.
+Vide ergo amorem tuum, unde quo currat, quo per
+desiderium tendat, vel unde per fastidium recedat,
+videbis quomodo de sublimibus ad ima labitur et de
+summis ad infima derivatur. Absque dubio cum
+haec coeperis diligenter inspicere, profundeque intelligere,
+incipies et pariter cum Propheta proclamare: <hi>Quid mihi est in coelo, et a te quid volui super
+terram? 
+ <note>(Psal. LXXII.)</note>
+            </hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>Quod facilius est animum corrigere quam ejus intima penetrare.</hi> </head>
+
+<pb n="1089C"/>
+<p>Verum illud quanta putamus admiratione dignum,
+quantave jucunditate amplectendum, quod non vult
+Deus miraculum suum diutius differre, nec exspectationem
+nostram in longum protrahere, nec urget
+nos vel usque ad Jordanis ima descendere, et usque
+ad illud humani cordis inscrutabile profundum penetrare,
+antequam incipiat promissionem suam implere.
+Utique quoniam ipse cognovit figmentum
+nostrum, non vult nos diutinae praestolationis mora
+suspendere, veraciter sciens quoniam pravum est
+cor hominis et inscrutabile. Quis enim digne comprehendat?
+quis explicare sufficiat quanta sit stultitia,
+<pb n="1089D"/>
+quam infinita miseria, summa bona sponte deserere,
+infima bona avide quaerere, aeterna gaudia fastidire,
+transitoria ardenter concupiscere, et pro perituris
+praemia infinita perdere et mala aeterna incurrere?
+Hujus considerationis incomprehensibilitas causa
+esse videtur cur a Domino usque ad hoc immensitatis
+profundum penetrare non cogimur, ne a nobis
+non modo difficilia, sed et impossibilia exigere videretur.
+Sed quid ait Scriptura? <hi>Ingressis,</hi> inquit, <hi>sacerdotibus Jordanem, et pedibus eorum tinctis in
+parte aquae, steterunt aquae descendentes in uno loco
+et ad instar montis intumescentes apparuerunt procul <note>(Josue III)</note>
+            </hi>.
+Animadvertis, obsecro, quomodo statim
+ad primam intinctionem pedum Jordanis incipit
+cohibere cursum, et converti retrorsum? vix partem
+<pb n="1090A"/>
+aquae, ut audis, attigerant, et jam Jordanis
+fluenta impetum suum in seipsa retorquebant.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Quantum valeat cum profunda admiratione infirmitatis nostrae considerationi diutius inhaerere.</hi> </head>
+<p>Sed qui sunt isti, quaeso, pedes sacerdotum, ad
+quorum intinctionem Jordanis convertitur retrorsum?
+Sed, si per sacerdotem recte intelligimus investigationem,
+quid rectius intelligitur per ejus
+pedem (quod est ejus corporis imum) quam investigationis
+profundum? Pes igitur sacerdotis est profunditas
+investigationis. Pedem ergo in aqua ponere,
+est profunda investigatione occulta penetrare.
+Pes hujuscemodi in aqua tingitur, quando mens adinventionis
+suae subtilitatem miratur, et in sua admiratione
+<pb n="1090B"/>
+delectatur. Quid enim est tingi, nisi affici? Quid
+est affici, nisi contemplari, mirari, delectari? Et quamvis
+investigationis nostrae pedes non usque ad gurgitis
+ima extendimus, quia desideriorum nostrorum
+errores nonnisi ex parte penetramus; ipsos tamen
+pedes, quamvis nonnisi in parte positos, multum
+intingimus, multum obstupescentes quod vix, vel
+ex modica parte comprehendimus. Debemus ergo
+cordis intima perscrutando eo usque saltem in aquas
+descendere, donec possimus investigationis nostrae
+pedes plene intingere, et animum nostrum super
+erroris nostri considerationem in admirationem et
+stuporem convertere. Nam hoc ipsum quod comprehendere
+possumus de stultitiis et erroribus nostris,
+puto posse sufficere nobis intantum, ut Jordanis
+<pb n="1090C"/>
+cursus sui impetum ultro cohibeat, et nutu
+spontaneo in posteriora recurrat, pristinae consuetudinis
+devia damnans atque detestans, morum suorum
+lapsum sponte coercens, et in contraria dirigens.
+Puto quia tunc temporis Propheta super aquas Jordanis
+intelligentiae suae arcam levaverat, cum generalem
+nec de suo tantum, sed de quolibet corde
+humano sententiam proferebat: <hi>Universa vanitas
+omnis homo vivens <note>(Psal. XXXVIII)</note>
+            </hi>. Videbat quorsum
+Jordanis fluenta currerent, cum per increpationem
+exclamaret: <hi>Usquequo diligitis vanitatem et quaeritis
+mendacium? <note>(Psal. XIV.)</note>
+            </hi> Videbat ubi cursum
+suum terminaret, et quam in mari deficeret, cum
+diceret: <hi>In imagine pertransit homo, sed et frustra
+<pb n="1090D"/>
+conturbatur <note>(Psal. XXXVIII)</note>
+            </hi>. Profunde pedes in aqua
+tinxerat, cum in hanc admirationis vocem erumperet: <hi>Quid enim mihi est in coelo, et a te quid volui
+super terram? 
+ <note>(Psal. LXXVIII.)</note>
+            </hi> Puto quia ad hanc
+pedum intinctionem considerationisque admirationem,
+Jordanis ima desideriorum deserens in superiora
+redeat, fontemque repetat intantum, ut dicat: <hi>Renuit consolari anima mea; memor fui Dei, et delectatus
+sum 
+ <note>(Psal. LXXVI)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>Quomodo post plenam correctionem sui, animus ad aeternorum contemplationem introducitur.</hi> </head>
+<p>Nemo ergo debet hoc ipsum quod comprehendi
+valet de corruptionis suae consideratione negligere,
+neque hoc negligenter, et quasi in transitu videre;
+<pb n="1091A"/>
+sed statim ad arcae ingressum intinctionemque
+pedum gressum figere, morasque innectere, donec
+aqua superior crescat, inferiorque deficiat populusque
+Hebraeorum totus pertranseat. Ut enim coeperimus
+vitam nostram retractare atque discutere,
+perscrutationisque nostrae pedes in aqua tingere,
+statim ut senserimus animum nostrum affici, et ad
+sui considerationem mirari et indignari, debemus
+in hoc admirationis nostrae spectaculo libenter immorari
+donec internorum amor intumescat, inferiorum
+autem omnino deficiat, totaque desideriorum
+nostrorum turba pertranseat, terramque promissionis
+spei suae certitudine tangat et teneat. Tunc demum,
+ut arbitror, tempus erit ut et ipsa intelligentiae
+nostrae arca promissionis terram intrare possit,
+<pb n="1091B"/>
+cum votorum omnium voluntatumque plebem praemiserit.
+Prius enim necesse est bona Domini in
+terra viventium credere, sperare, diligere, multumque
+desiderare, quam detur nobis cognoscere et intelligere,
+facie ad faciem videre. <hi>Nisi,</hi> inquit, <hi>credideritis,
+non intelligetis <note>(Isa. VII)</note>
+            </hi>. <hi>Qui diligit me,</hi> inquit, <hi>diligetur a Patre meo et manifestabo ei meipsum <note>(Joan. XIV)</note>
+            </hi>.
+Manifestationem ergo praecedit
+dilectio, ut dilectionem sequatur manifestatio. Praecedat
+arcam affectionum turba, ut turbam subsequatur
+contemplationis arca. Prius oportet promissionis
+terram tenere per desiderium quam per intellectum.
+Puto quia Apostolus totam cogitationum
+affectionumque suarum multitudinem transegerat,
+cum dicebat: <hi>Cupio dissolvi, et esse cum Christo</hi> 
+<pb n="1091C"/> <note>(Philipp. I)</note>.
+Quid enim sibi de hujus vitae desideriis
+reliquerat, qui nec ipsam vitam prae nimio Christi
+desiderio diligebat? Inde est, ut arbitror, quod
+praevaluit contemplationis suae arcam in terram
+lacte et melle manantem introducere, ut videret bona
+Hierusalem omnibus diebus vitae suae, et ex revelatione
+Domini disceret quod oculus non vidit et auris
+non audivit, nec in cor hominis ascendit. Mentior,
+si ipse non gloriatur hujusmodi hominem raptum
+usque ad tertium coelum, et audisse ibi arcana verba,
+quae non licet homini loqui.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>Quod in futura vita post aeternorum contemplationem, animus ad omne desiderii sui beneplacitum relaxatur.</hi> </head>
+<p>
+            <pb n="1091D"/>Puto quia et nos ipsi post internae familiae tantaeque
+multitudinis transitum cum coeperimus contemplationis
+nostrae arcam illuc introducere, et non
+jam per speculum et in aenigmate, sed facie ad faciem
+videre, cum tenuerimus actu quod interim tenemus
+affectu, jam ulterius necesse non erit Jordanem
+alvei sui fluenta suspendere, et cursus sui
+impetum renitendo cohibere. Absit, absit, cum corruptibile
+hoc induerit incorruptionem, et mortale
+hoc induerit immortalitatem; absit, inquam, absit,
+ut adhuc necesse sit castigare corpus, et in
+servitutem redigere, atque etiam tunc mortificari
+tota die: <hi>Quando justi,</hi> Christo etiam testante, <hi>fulgebunt sicut sol in regno Patris sui 
+ <note>(Matth. XIII)</note>
+            </hi>,
+et tolletur impius ne videat gloriam Dei. Non nobis
+<pb n="1092A"/>
+omnino dicetur amplius: Nolite diligere mundum,
+nec ea quae in mundo sunt, cum fecerit Dominus
+novum coelum et novam terram, juxta quod ipsa
+creatura liberabitura servitute corruptionis in libertatem
+filiorum Dei. Et licet in creaturis decor
+sit tunc quam modo incomparabiliter major atque
+venustior, corporeisque oblectamentis dulcior, propensior
+atque jucundior, nihil erit quod concupiscentias
+spiritus imminuere possit in omnibus his quae
+sensus corporeus attigerit. Nesciet concupiscentia
+carnis, nesciet concupiscentia oculorum, concupiscentias
+spiritus exstinguere, sed accendere; non refrigerare,
+sed acrius inflammare. Quidquid exterius,
+quidquid interius occurrerit, spirituali amori, divinae
+dilectioni alimenta ministrabit. Tunc absque dubio
+<pb n="1092B"/>
+animus delectabitur interius, et delectabitur exterius.
+Delectabitur in rebus spiritualibus, delectabitur in
+rebus corporalibus, et ingredietur, et egredietur, et
+pascua inveniet. Tunc revertentur aquae Jordanis in
+alveum suum, et fluent sicut ante consueverant. Jordanis
+alveus commodi appetitus. In hujusmodi alveo
+aquae Jordanicae cum impetu feruntur, quia cordis
+desideria juxta commodi sui appetitum huc illucque
+derivantur. Quo putas tendit hujusmodi decursus
+aquarum nisi in beneplacitum? Quid ergo est
+aquas ut ante consueverant currere, nisi beneplacitum
+sequi et apprehendisse? Naturaliter quidem
+omnis appetitus ad commodum trahitur, et hujus
+alvei ductum sequi in suo illic desiderio nemo prohibetur.
+Multa hic placent, quae tamen non decent,
+<pb n="1092C"/>
+et idcirco fieri non debent. Necesse est ergo in hac
+saepe vita aquarum impetum cohibere, et concupiscentiarum
+violentiam viriliter frangere. Nihil
+illic libebit, nisi et quod licebit. Nihil ergo oberit
+desideriorum fluenta pro voto effluere, et ad omne
+beneplacitum derivare. Hujus, ut arbitror, libertatis
+licentiam Propheta sperabat et suspirabat,
+cum psallendo proclamaret: <hi>Voluntaria oris mei
+beneplacita fac, Domine <note>(Psal. CXVIII)</note>
+            </hi>. Saepe et supra
+modum sunt alia voluntaria oris et beneplacita
+cordis. Quia alia mente concupiscimus, atque alia
+sunt ea quae ore probamus. Alia sane sunt ea persaepe
+quae placent ex sententia, atque alia ea quae
+placent ex concupiscentia. Illa placent ex judicio,
+<pb n="1092D"/>
+ista ex desiderio. Illa ex diffinitione, ista ex delectatione.
+Rogat ergo Propheta ut eadem ipsa quae
+sunt votiva, sint et beneplacita, ut in unum conveniant
+sibique semper occurrant, votum et beneplacitum,
+sententia et concupiscentia, judicium et
+desiderium, diffinitio et delectatio. Voluntaria oris
+mei beneplacita fac, Domine, ut quidquid placet ex
+discretione placeat ex delectatione, et sola libeant
+ex delectatione quae licent ex deliberatione. Transeat
+ergo, transeat populus Hebraeorum; transeat et
+arca post ipsum in illam terram lacte et melle manantem,
+in supernam illam et sempiternam jucunditatem,
+ut tandem aliquando facie ad faciem videat,
+quod multo desiderio tantopere ante quaesierat.
+Transeat ergo grandis illa tot desideriorum turma;
+<pb n="1093A"/>
+transeat et theorica illa intelligentiae arca in illa
+interna et aeterna gaudia, ut vel tunc Jordanis
+liberum cursum recipiat, et omnis humanus affectus
+licenter et libere in omne se beneplacitum
+volvat, et humanus animus (utpote summis spiritualibusque
+bonis firmiter immobiliterque inhaerens)
+in rebus exterioribus et inferioribus nihil contradictionis
+inveniat. Ni fallor, illa quae superius intumuerat
+unda, majori quam prius impetu in alveum
+suum recurret, et latius expandet, modumque pristinae
+limitationis excedet; eo quod amor Verbi
+creaturarumque majoris incendii alimenta uberrima
+reperiat, et ob hoc quaquaversum ferventiori desiderio
+ad omnia ruat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>Quomodo quidam in hac etiam vita ad aeternorum contemplationem sublevantur.</hi> </head>
+
+<pb n="1093B"/>
+<p>Sed hoc quod de arcae transitu legitur etiam in
+hac vita secundum aliquem modum impleri posse
+videtur. Probat hoc apostolicum illud testimonium
+quod et superius protulimus, quem adhuc
+talia dicentem in hac corruptibili vita degere non
+dubitamus. <hi>Scio,</hi> inquit, <hi>hominem in Christo, sive
+in corpore, sive extra corpus, nescio, Deus scit, raptum
+hujusmodi usque ad tertium coelum: et scio
+hujusmodi, quoniam raptus est in paradisum, et
+audivit arcana verba quae non licet homini loqui <note>(II Cor. XII)</note>
+            </hi>.
+Ecce ubi contemplationis suae arcam
+introduxerat, qui in tertii etiam coeli secreta intelligentiae
+oculum fixerat. Puto autem quia nec ipse
+<pb n="1093C"/>
+Paulus usque in id loci arcam levasset, nisi totam
+illam desideriorum suorum familiam illuc praemisisset,
+intantum ut omnia arbitraretur ut stercora,
+ut Christum lucrifaceret. Multi, ut arbitror, hanc
+de qua loquimur promissionis terram per meritum
+possident, qui illuc arcam suam juxta Pauli similitudinem
+introducere non valent, eo quod adhuc
+aliquos de interna illa affectionum suarum familia
+extra hanc terram per desiderium retinent. Sed,
+cum haec omnis Hebraeorum turba Jordanem transierit,
+cum et ipsa foederis arca in terram promissionis
+subintroducta fuerit, quid, quaeso, jam oberit
+cursum suum repetere, et juxta morem in alveum
+suum refluere: dummodo congruae utilitatis justaeque
+<pb n="1093D"/>
+necessitatis ripas non excedat, dummodo
+aequitatis modestiaeque alveum sequens ad superfluae
+libertatis campum non effluat? Quid enim est
+Hebraeorum turbam Jordanis alveum transisse, nisi
+coelestia desideria et ad futuram gloriam tendentia
+carnis appetitum eo usque perdomuisse, quo jam
+ulterius non possit ea irretire vel impedire? Et quidem
+antequam populus Domini cum Domini arca
+transeat, ne eorum transitum Jordanis unda praepediat,
+necesse est ejus decursum coercere, et
+carnis impetum frangere, et animum saepe etiam a
+necessaria concupiscentia avertere. Nunquam enim
+humanus affectus ad aeternitatis desiderium perfecte
+inflammatur, nunquam humanus intellectus ad aeternorum
+contemplationem plene acuitur, nisi carnis
+<pb n="1094A"/>
+cura in rebus etiam licitis multumque necessariis frequenter
+fortiterque repellatur. Eo usque ergo oportet
+corpus castigare et in servitutem redigere, donec
+ulterius jam non possit meritorum profectum
+ullatenus impedire. Sed postquam praetereuntem turbam
+arcamque comitantem transmiserit, inquantum
+spiritualibus exercitiis obviare non poterit, utilitatis
+suae alveum sequi cuique licebit. Hinc est quod
+multos saepe jam vidimus mira prius abstinentia
+corpus afflixisse, morbosque graves, imo incurabiles
+incurrisse, eosdemque ipsos post edomitam concupiscentiam,
+post acceptam divinitus gratiam, rigoris
+pristini frena laxare, et corpori suo in cibo et potu,
+in sommo et vestitu, multo amplius quam custodita
+sanitas postulasset indulgere. Nam hoc saepe spiritalibus
+<pb n="1094B"/>
+studiis militat, quod vir plenus gratia corporis
+vires, inquantum utiliter potest, custodit, aut
+reparat. Cavere tamen debet qui sibi jam secundum
+hanc licentiam indulget, ne aquas nimis relaxet, ne
+utilitatis suae alveum deserant, modestiaeque ripas
+excedant, fluant saltem ut ante consueverant, de
+quibus scriptum est quod alvei sui ripas impleverant.
+Hoc, ut arbitror, soli illi bene facere noverunt
+qui jam ea quae sursum sunt sapiunt, qui coelestium
+dulcedinem jam degustaverunt, qui terrena fastidiunt,
+qui arcam suam in illam promissionis terram
+jam introduxerunt. Non potest, ut arbitror, ad perfectum
+exteriorum bonorum fastigium pertingere,
+qui interiorum bonorum dulcedinem nondum meruit
+gustando sentire. Puto quia Propheta nisi prius
+<pb n="1094C"/>
+gustasset quam suavis est Dominus, et quam magna
+multitudo dulcedinis domus ejus, puto quia nisi hoc
+per experimentum didicisset, illud omnino ex sententia
+dicere non posset: <hi>Renuit consolari anima
+mea <note>(Psal. LXXVI)</note>
+            </hi>. Ne ergo semper necesse sit Jordanis
+cursum cohibere, oportet arcam nostram in
+ejus ulteriora transponere; sed nec illud licet, nisi
+possimus omnem illam votorum nostrorum turbam
+praemittere.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>Quod semper oportet per contemplationis studium praevidere quo debeamus per desiderium tendere.</hi> </head>
+<p>Debet sane haec arca nec ubique sequi, nec semper
+praemitti. In loco horroris et vastae solitudinis
+turbam praecedat, in terram promissionis ingredienti
+<pb n="1094D"/>
+turbae succedat. Praecedat ad nostra, subsequatur
+ad divina. Citra Jordanem, quae pertinent ad
+nos; ultra Jordanem, quae sunt supra nos. Hic jubemur
+discutere et approbare et postea tenere: <hi>Omnia,</hi> 
+ inquit Apostolus, <hi>probate, quod bonum est
+tenete <note>(I Thess. V)</note>
+            </hi>. Illic praecipimur credere, ut
+quandoque mereamur et intelligere: <hi>Nisi credideritis,</hi> 
+inquit, <hi>non intelligetis <note>(Isa. VII)</note>
+            </hi>. Debemus ergo,
+quandiu adhuc in deserto sumus, quandiu per eremum
+iter agimus, arcam nostram ante nos praemittere,
+et subtiliter praevidere quo debeat virtutum
+familia per studium, vel per desiderium subsequendo
+tendere: <hi>Ut possitis,</hi> inquit Dominus, <hi>videre et nosse
+per quam viam ingrediamini, quia prius non ambulastis
+<pb n="1095A"/>
+per eam <note>(Josue III)</note>
+            </hi>. Hinc illud Sapientis sententiae
+concinit, cum dicit: <hi>Et palpebrae tuae praecedant
+gressus tuos <note>(Prov. IV)</note>
+            </hi>. Sed ad illa quae ultra
+Jordanem sunt, quae sensum nostrum excedunt, melius
+nitimur desiderio quam studio, affectu quam
+intellectu, eo quod jubemur turbam non arcam
+praemittere, meliusque sit in hac parte multum desiderare
+quam multum discutere, ut illuc mereamur
+introduci quo non valeamus virtute irrumpere. Qui
+enim scrutator est majestatis, opprimetur a gloria <note>(Prov. XXV)</note>.
+Illic ergo praecedat, ut viam ostendat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX. <hi>De gemina imperfectione quas semper oportet prae oculis habere.</hi> </head>
+<p>Sed nec illud quidem sermo divinus voluit tacite
+<pb n="1095B"/>
+praeterire, quanto viae spatio debeat subsequentem
+turbam praeire. Sit, inquit, inter arcam spatium
+cubitorum duorum millium. Vis scire quid sit arcam
+cum turba esse, vel quid arcam turbam praeire? Cum
+quales per facta vel desideria sumus, diligenti
+contemplatione attendimus, arcam nostram nobiscum
+et quasi praesentem habemus. Cum vero quales
+nos esse oporteat subtiliter aspicimus, intelligentiae
+nostrae arcam ante faciem nostram praemittimus, ut
+quo tendere necesse sit non ignoremus. Quis, quaeso,
+gloriari potest, vel totum facere quod utiliter facere
+potest, vel totum posse quod fieri oporteret,
+si fieri potuisset? Sicut enim nec totum volunt,
+quod valent, sic nec totum valent, quod debent.
+<pb n="1095C"/>
+Ergo ulterior est facultas quam voluntas, et necessitas
+longe remotior quam facultas. Praemittamus
+ergo arcam nostram, non solum usque ad considerationem
+nostrae possibilitatis, sed etiam usque ad
+speculationem necessariae utilitatis, ut attendamus
+non solum quid melius facere possemus quam facimus,
+verum etiam quid melius fieri oporteret
+quam possumus. Quasi ergo cubitos mille arcam
+suam ante faciem suam praemittit, qui diligenter
+attendit, qui frequenter aspicit, ubi per meritum
+esse potuisset, si de possibilibus sibi nihil negligeret.
+Sed usque ab duo millia cubitorum ulterius
+progreditur, qui non solum frequenter, sed pene
+indesinenter contemplatur, quam innumera non
+faciat, et quam innumera etiam non facere valeat,
+<pb n="1095D"/>
+quae fieri oporteret si ad illa adimplenda sua
+virtus non succumberet. Cum aliquid fortiter
+agere volumus, cubitum nostrum extendimus, et
+ideo recte per cubitos virtutum exercitia intelligimus.
+Millenarius perfectionem significare solet,
+quia majorem numerum nostra computatio non
+habet. Duo ergo millia cubitorum, ut arbitror, geminam
+perfectionem designare videntur, integritatem
+videlicet voluntatis et plenitudinem fortitudinis.
+Sed quisquis necdum totum valet quod debet, sed
+nec totum quidem complet quod valet: utraque
+perfectione caret. Quid ergo est intelligentiae suae
+arcam usque ad duo millia cubitos ante seipsum
+praemittere, nisi prudenter praevidere quantum sibi
+desit de gemina perfectione, quarum neutrum necdum
+<pb n="1096A"/>
+potest adimplere? Verum utique dicam quod
+sentio, illum solum hoc Dominicum praeceptum implevisse
+puto; solum illum, inquam, existimo,
+arcam suam de duobus millibus cubitis praemisisse,
+qui seipsum indicat geminae perfectionis, nec saltem
+exordia hucusque apprehendisse. Nam, si vel unum
+quidem cubitum de tanto spatio, ambulando, accedendo,
+properando praecideret, et consummatae perfectionis
+saltem sibi primordia arrogasset, duobus
+millibus cubitis retro post arcam seipsum remanere
+non vidisset. O virum perfectum, summaque
+humilitate fundatum, qui semper potest et festinando
+proficere, et proficiendo festinare, et hanc sibi
+semper humilitatem servare, ut semper in bono
+proficiat, et tamen semper nec perfectionis initia
+<pb n="1096B"/>
+habere se credat! Grande spectaculum videre arcam
+praecedendo festinare, conspicere turbam subsequendo
+accelerare, et semper tamen tantae interstitionis
+modum ad invicem custodire. Quanto promovetur
+arca, tanto amplius festinat et turba; et quo
+turba sequens amplius properat, eo et arca praecedens
+iter suum accelerat. Sane perfectionis gratiam
+quanto melius agnoscimus, tanto ardentius et concupiscimus,
+et quo amplius accendimur ad amorem,
+eo perfectius illuminamur ad agnitionem. Semper
+inveniet vir justus quo possit eam ante se duobus
+millibus cubitis elongare, quia in hac vita nunquam
+possunt in unum concurrere velle, posse et debere.
+Hoc est futuri temporis, non vitae praesentis. Ibi
+<pb n="1096C"/>
+sane, sicut totum volet quod juste valebit, sic totum
+poterit quod jure debebit. Hic autem et actionem
+superat agendi facultas, et faciendi possibilitatem
+excedit debiti necessitas. Constat autem unum ex
+altero crescere; quia, cum crescit nostrum velle,
+crescit et posse, et cum utriusque incremento crescit
+et debere. Quia quo ardentius bonum appetimus,
+eo facilius efficimus, et quo majora possumus, eo et
+majora debemus. Juxta hunc modum necesse est
+arcam semper in anteriora procedere, et subsequentem
+turbam post ipsam properare. Parum autem
+tibi esse debet qui ad terram properas promissionis,
+quod arcam tuam ante faciem tuam praemittas,
+nisi iter tuum duobus millibus cubitis
+praeveniat, et quo sequi debeas ostendat. Satage
+<pb n="1096D"/>
+ergo in perfectionis tuae consideratione et contemplatione,
+eo usque in ulteriora penetrare, ut veraciter
+te credas ejus saltem primordia, seu per affectum,
+seu per effectum necdum attigisse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>Exemplum vel forma propositae considerationis.</hi> </head>
+<p>Vultis audire hominem duobus millibus cubitis
+post arcam iter legentem, et perfectioris vitae nec
+saltem sibi primordia arrogantem? <hi>Dum adhuc,</hi> 
+inquit, <hi>ordirer, succidit me <note>(Isa. XXXVIII)</note>
+            </hi>. Non dicit
+dum adhuc texerem, sed, dum adhuc ordirer. Quid
+est ordiri, nisi praemeditari; et quid texere, nisi
+facere? Nempe quid aliud est texenda ordiri et
+texere ordita, nisi praeordinare facienda et facere
+praeordinata? Dum adhuc, inquit, ordirer, dum
+<pb n="1097A"/>
+adhuc praemeditarer, dum adhuc per meditationem
+quaererem quid facere debuissem, et necdum plene
+potuissem invenire, misit manum suam et succidit
+me. Nondum, inquit, aliquid texeram, necdum bonum
+agere inchoaveram, non licuit mihi ordinatae
+vitae telam incipere; quia, cum adhuc ordirer, succidit
+me. Fateor quidem, jam bona facere proposueram,
+jam quomodo fieri possent disponebam, et jam
+telam meam ex magna parte orditus eram; sed, dum
+adhuc ordirer, succidit me, et non potui propositi
+mei telam, non dicam pertexere, sed nec inchoare.
+Quantus, quaeso, vir iste fuit qui de se tam humiliter
+sentit, qui sibi nec boni saltem primordia arrogat,
+cum adhuc ordiri se credat? Nonne ille tibi
+adhuc ordiri videtur telam quam cum multis texerat,
+<pb n="1097B"/>
+qui diligenter quaesivit ut inveniret, et videret quid
+esset utile filiis hominum, quo facto opus est sub
+sole, numero dierum vitae suae? Nonne et sibi ipsi
+videtur adhuc ordiri, non texere, qui diu studuerat
+cognoscere rationem quam adhuc quaerit anima
+sua, nec potuit invenire? <hi>Ecce hoc inveni,</hi> dixit
+Ecclesiastes, <hi>unum et alterum, ut invenirem rationem
+quam adhuc quaerit anima mea, et non invenit <note>(Eccle. VII)</note>
+            </hi>.
+Quid boni, quid, quaeso, magni, homo
+iste crederet se fecisse qui fatetur se quaesisse, nec
+tamen invenisse, quo facto opus esse sub sole numero
+dierum vitae suae? Constat quia intelligentiae
+suae arcam ante faciem suam praemiserat, qui quo
+per desiderium, vel actum sequi deberet quaerebat.
+<pb n="1097C"/>
+Sed reputat, ut arbitror, desideriorum suorum turbam
+quasi otio jam stare, qui rationem quam quaerebat
+fatetur se nondum invenisse. An adhuc audire
+desideras apertius hominem vix sibi boni exordia
+ascribentem, et quasi duobus millibus cubitis
+tunc post arcam legentem? Audi ergo quid dicat: <hi>Et dixi: Nunc coepi; haec mutatio dexterae Excelsi <note>(Psal. LXXVI)</note>
+            </hi>.
+Vix eadem aliquando, inquit, coepi,
+quod qui incoepisse me credidi, vix sero coepi fieri
+bonus de malo, justus de injusto. Qualem me inveni,
+talem me esse pronuntiavi, nec puduit imperfectionem
+meam confiteri; sed dixi: Nunc coepi; haec mutatio
+dexterae Excelsi. Non dicit quondam, vel extunc,
+sed nunc. Nec negat se modo coepisse, ne putes
+eum plus quam duobus millibus cubitis post arcam
+<pb n="1097D"/>
+remansisse. Vix cum quaedam boni exordia
+tandem apprehendisse se memorat, ut juxta divinae
+institutionis modum arcam suam se subsequi ostendat.
+Sed, ne quis eum vel hoc ipsum boni exordium
+sibi ascribere credat, audiat quid huic sententiae
+adnectat haec mutatio dexterae Excelsi. Non sibi
+sufficere potuit ut diceret haec mutatio Dei, nisi
+diceret haec mutatio dexterae Excelsi. Ipsum cui noluit
+hoc opus ascribere, maluit designare ex descriptione.
+Excelsum dicit qui hoc fecit, et dexteram
+nominavit. Ac si aperte dicat: Ille hoc fortiter
+fecit qui fortia potenter efficere consuevit. Erat
+sane in oculis ejus admirabile talem de malo ad
+bonum committere, qualem se meminit quandoque
+fuisse. Quid, quaeso, ille alius de perfectionis itinere
+<pb n="1098A"/>
+confecisse se credidit, qui omnes justitias suas
+panno menstruatae mulieris comparavit? Habemus
+itaque quomodo debeamus arcam nostram ante faciem
+nostram ad certam mensuram praemittere, ut
+quantumcunque properemus, nunquam audeamus
+de duorum millium cubitorum spatio praesumptuosa
+existimatione aliquid minuere, arbitrantes nos semper
+vix primordia perfectionis attigisse. Debemus
+itaque quandiu in deserto sumus, in arcae nostrae
+provectione, provectionis nostrae iter colligere, et
+quo per bonae conversationis studium sequi oporteat,
+alia consideratione praenosse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XI. <hi>De his quae pertinent ad meditationem vel contemplationem, et quantum valeant ad virtutis promotionem talium captus.</hi> </head>
+
+<pb n="1098B"/>
+<p>Sed non est ejusdem facilitatis praesentis vitae
+ordinem disponere, et futurae gloriam aestimare, meritorum
+qualitatem discutere, et praemiorum aeternorum
+quantitatem pensare. Quae enim in terra
+sunt difficile aestimabimus, et quae in prospectu sunt
+inveniemus cum labore; quae in coelis sunt autem
+quis poterit investigare? Invenire itaque quae in
+terra sunt, difficile, investigare autem quae in coelis
+sunt, impossibile. Hinc est quod Apostolus monet: <hi>Noli,</hi> 
+ inquit, <hi>altum sapere <note>(Rom. XI)</note>
+            </hi>. Merito
+ergo arca Domini nonnisi post Hebraeorum introitum
+in illam promissionis terram introducitur, ut
+quo nostra intelligentia perscrutationis suae passibus
+irrumpere non sinitur, divinae revelationis manuductione
+<pb n="1098C"/>
+intromittatur. Nec tamen negamus de
+futurae vitae qualitate nonnulla, imo multa et magna
+esse quae possumus et investigando quaerere, et
+ratiocinando invenire et argumentando construere.
+Invisibilia enim Dei a creatura mundi per ea quae
+facta sunt intellecta conspiciuntur. Nequaquam
+ergo negligenda sunt quae per investigationem inveniri
+possunt, sicut et illa ex nostra virtute non
+praesumere quae nostram intelligentiam, et humanam
+rationem excedunt. Illa sunt secundum rationem,
+ista sunt supra rationem. Illa debemus alta
+perscrutatione diligenter inquirere, ista debemus
+ex divina revelatione humiliter exspectare. Illa pertinent
+ad meditationem, ista ad contemplationem.
+<pb n="1098D"/>
+Nunquam animus ad aeternorum bonorum desiderium
+plene accenditur, nisi qualia vel quanta sit
+studiose praemeditetur. Et, sicut nunquam sine ingenti
+desiderio ad eorum contemplationem sublevari
+meretur, ita sane in aeternorum concupiscentias
+sine vehementi studio perfecte non inflammatur.
+Hinc est quod ante introitum Israel in promissum
+regnum, exploratores praemittuntur, et tamen nisi
+post turbae ingressum arca non introducitur. Quid
+est enim exploratores ante introitum suum praemittere,
+et illius terrae in quam festinamus introire
+qualitatem sagaci perscrutatione velle praenosse,
+nisi mentis suae cogitationes coelestium bonorum
+exploratrices in invisibilium perscrutinium dirigere,
+et meditationes suas in id operis destinare,
+<pb n="1099A"/>
+ut per investigationem inveniat unde possit affectionum
+suarum turbam in eorum amorem urgere?
+Praemittamus ergo ante faciem nostram exploratores
+nostros, sicut et illi Israelitae quondam praemiserunt
+suos, nec semel tantum, sed alios post
+alios secundosque post primos. Quoties de futuris
+bonis sperandis, seu promerendis subtiliter aliquid
+quaerimus, nuntios exploratores ante nos ipsos
+praemittimus.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII. <hi>De gemina praemeditatione, praemiorum videlicet et meritorum.</hi> </head>
+<p>Sed aliud est quaerere qualia, vel quanta, vel cujusmodi
+bona debeamus de meritorum retributione
+sperare, atque aliud studiose investigare quibus studiis
+<pb n="1099B"/>
+vel exercitiis valebimus ea viriliter obtinere.
+Illud est primum, istud vero secundum. Primum investigare
+bona speranda, secundum bona facienda.
+Quis enim se ad laborum certamina fortiter accingat,
+nisi mercedis magnitudinem ex divina retributione
+praenoscat? Sed quid proderit aeternam
+retributionem credere et desiderare, nisi pari studio
+quaerat quis ut agnoscat quibus meritorum studiis
+possit eam acquirere? Necesse est ergo nuntios
+post nuntios praemittere, et exploratores alios post
+primos dirigere. Primi nuntii sunt exploratores praemiorum,
+secundi nuntii sunt exploratores meritorum.
+Illi sunt exploratores retributionum, isti sunt
+exploratores operum. Sic sane sunt alii exploratores,
+qui mittuntur a Moyse, atque alii exploratores
+<pb n="1099C"/>
+illi qui mittuntur a Josue. Alii sunt quos praemittit
+Domini propheta, alii sunt quos praemittit Domini
+athleta. Aliud est officium prophetae, aliud est officium
+athletae. Prophetae officium est praedicere futura,
+athletae autem officium est praeordinare facienda.
+Ad illum pertinet praenosse firmiter credenda,
+ad istum pertinet praemeditari fortiter
+agenda. Illud est praescientiae, istud est providentiae.
+Illius est praevidere, istius est providere. Quid est
+enim praevidentia, nisi exploratio futurorum? Et
+quid est providentia, nisi exploratio faciendorum?
+Habemus itaque duo genera exploratorum; utrumque
+negotiosum, utrumque necessarium. Primum
+videtur ad Moysen pertinere, secundum vero ad
+<pb n="1099D"/>
+Josue. Juxta hanc itaque similitudinem cogitatuum
+nostrorum, alii debent esse futurorum praevisores,
+alii faciendorum provisores, utrique quidem occultorum
+exploratores, et ignotorum perscrutatores.
+Vultis audire hominem de futuris praemeditantem,
+juxta similitudinem Moysi, exploratores ante faciem
+suam praemittentem? <hi>Meditatus sum,</hi> inquit, <hi>nocte
+cum corde meo. Nunquid in aeternum projiciet Deus,
+et non apponet, ut complacitior sit adhuc? aut in
+finem misericordiam suam abscindet a generatione in
+generationem? aut obliviscetur misereri Deus? aut
+continebit in ira sua misericordias suas? <note>(Psal. LXXVI.)</note>
+            </hi> 
+Vultis audire hominem de faciendis providentem, et
+ad Josue similitudinem exploratores ante se destinantem? <hi>Quid,</hi> 
+ inquit, <hi>retribuam Domino, pro omnibus
+<pb n="1100A"/>
+quae retribuit mihi? <note>(Psal. CXV.)</note>
+            </hi> Vultis audire
+unum de subtilibus exploratoribus, quid explorando
+invenerit, vel quid ad illam primam Prophetae quaestionem
+ex sententia responderit? <hi>Absterget,</hi> inquit, <hi>Deus omnem lacrymam ab oculis sanctorum, et jam
+non erit amplius neque luctus, neque clamor, sed nec
+ullus dolor, quoniam priora transierunt 
+ <note>(Apoc. XXI)</note>
+            </hi>.
+Ecce quam propitium Deum in futuro iste praevidit
+de quo David quaerit, an aliquando complacitior
+sit. Sed ad secundam, ut arbitror, explorationem
+respicit, quod alias invenit, unde et dicit: <hi>Bonum
+est confiteri Domino, et psallere nomini tuo, Altissime <note>(Psal. XCI)</note>
+            </hi>.
+Ad primos itaque exploratores pertinet
+negligentibus animis justa persuadere, ad secundos
+autem promptos animos et ad omnia paratos ad
+<pb n="1100B"/>
+agenda instruere. Attende ergo cujusmodi nuntia
+exploratores boni de regionibus illis reportare soleant,
+vel quantum ad erigendos animos valeant
+haec ipsa quae reportant, et stude alia quaerere, et renuntiare,
+ut et tu valeas in similium concupiscentias
+audientium animos erigere, vox exploratoris est: <hi>Oportet
+corruptibile hoc induere incorruptionem, et mortale
+hoc induere immortalitatem <note>(I Cor. XV)</note>
+            </hi>. Vox exploratoris
+est: <hi>Fulgebunt justi, et tanquam scintillae
+in arundineto discurrent, judicabunt nationes, et regnabunt
+in aeternum <note>(Sap. III)</note>
+            </hi>. Vox exploratoris est: <hi>Quam magna multitudo dulcedinis tuae, Domine, quam
+abscondisti timentibus te! 
+ <note>(Psal. XXX.)</note>
+            </hi> Nunquidnam
+putandus est iste explorator egregius terram illam
+lacte et melle manantem non intrasse, diligenterque
+<pb n="1100C"/>
+visam perlustrasse, cum intraturis in illam audet
+tam audacter promittere? <hi>Inebriabuntur ab ubertate
+domus tuae, et torrente voluptatis tuae potabis eos <note>(Psal. XXXV)</note>
+            </hi>.
+Nonne in his verbis in illam exploratorum
+sententiam concurrere videtur, ubi dicitur: <hi>Intravimus,</hi> 
+ inquiunt, <hi>in terram ad quam misisti nos,
+quae vere fluit lacte et melle, ut ex his fructibus cognosci
+potest <note>(Num. XIII)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>Quomodo speculationi praemiorum oportet vehementius insistere.</hi> </head>
+<p>Oportet, ut arbitror, huic explorationi quam aliae
+vehementius incumbere, et primae quam secundae
+meditationi frequentius insistere, eo quod facilius
+sit discernere justa quam persuadere laboriosa.
+<pb n="1100D"/>
+Hinc esse, arbitror, quod filii Israel in prima legatione
+mittunt plures, in secunda autem exploratione
+mittuntur pauciores. Et merito sane. Siquidem in
+prima perscrutatione, ut dictum est, fit exploratio
+praemiorum, in secunda autem exploratione fit perscrutatio
+meritorum. Sed incomparabiliter majora
+sunt futurae beatitudinis praemia, quam possint esse
+qualiacunque merita nostra. Non sunt enim condignae
+passiones hujus temporis ad futuram gloriam,
+quae revelabitur in nobis. Multi ergo sunt qui mittuntur
+primo, pauci autem qui mittuntur secundo.
+Merito multi mittuntur, ubi multa quaeruntur, et ad
+pauca quaerenda pauci diriguntur. Illic duodecim,
+hic duos invenimus. Illic senarius, hic geminatur
+<pb n="1101A"/>
+unus. Unitas a qua senarius inchoat, inchoationem
+recte designat, sicut et senarius pro sua perfectione,
+perfectionem designare constat. Quod ergo ibi quaeritur
+est ad perfectionem, non ad inchoationem;
+quod autem hic invenitur, videtur esse ad inchoationem,
+non autem ad perfectionem. Ibi perfectio
+nostrae glorificationis, sed hic est, nonnisi quaedam
+inchoatio nostrae justificationis. In illa glorificatione
+erit exinanitio omnium malorum et plenitudo omnium
+bonorum. Sed in hac nostra justificatione, nec
+est plena exterminatio vitiorum, nec perfecta consummatio
+virtutum. Ibi plena securitas, perfecta
+jucunditas. Hic nec plena puritas, nec perfecta integritas.
+Ibi plena securitas, ubi nullum malum timetur.
+Ibi perfecta jucunditas, ubi omne bonum possidetur.
+<pb n="1101B"/>
+Hic nec plena puritas, ubi vitium reluctatur;
+hic nec perfecta integritas, ubi infirmitas dominatur.
+Ibi ergo ex gemina perfectione securitatis et
+jucunditatis una beatitudo consummatur, ut senarius
+duplicetur et duodenarius perficiatur; hic ex gemina
+imperfectione puritatis, et integritatis nostra justificatio
+inchoat, ut ex geminatione unitatis in duodenarii
+consummationem uterque senarius perfectionis
+suae exordium capiat. Recte ergo in illa legatione
+duodecim exploratores mittuntur, ubi geminae
+perfectionis beatitudo per investigationem
+quaeritur. Recte duo in ea delegatione diriguntur,
+ubi perfectae justificationis vix quaedam exordia
+inveniuntur. Denique duodecim sunt, si bene memini,
+qui mittuntur in prima exploratione, et duodecim
+<pb n="1101C"/>
+sunt quae jubentur explorare. Sed et duo
+sunt, qui in secunda exploratione mittuntur, et duo
+sunt quae perscrutari praecipiuntur. Multa sunt quae
+de prima exploratione dici possunt; sed haec ut
+digne explicentur proprium syntasma requirunt.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>Quod speculatio meritorum in duobus constat.</hi> </head>
+<p>Sed ut de secunda latius aliquid dicamus, sufficit
+in ista exploratione illa sufficienter quaerere quae ad
+illam propheticam admonitionem possint sufficere: <hi>Declina a malo, et fac bonum 
+ <note>(Psal. XXXVI)</note>
+            </hi>. Sufficit,
+inquam, solerter providere, quam caute mala caveamus,
+quam discrete bona perficiamus. Alia est praemeditatio
+in cavendis malis, alia praemeditatio in
+<pb n="1101D"/>
+complendis bonis. Sed licet utraque sit alia, nulla
+tamen debet esse sine altera. Simul eant, simul currant,
+sibique invicem succurrant, et sine adjutorio
+alterutro negotium suum nunquam plene expleant.
+Hi sunt, ut arbitror, exploratores duo provida cautela
+a malo, provida solertia in bono, quos debemus
+ante faciem nostram praemittere, et profectuum nostrorum
+itinera praetentare: <hi>Ite,</hi> ait Josue, <hi>et considerate
+terram et urbem Jericho <note>(Josue II)</note>
+            </hi>. Considerate,
+inquit, terram regionumque qualitatem, diligenter
+inquirite locorum opportunitatem, ut praenoscamus
+quo in loco opportunius possimus castra figere,
+ubi necessitatis articulo expediat declinare, unde
+oporteat quotidianis usibus necessaria petere. Considerate
+ergo et inquirite quaeque utilia, quaeque
+<pb n="1102A"/>
+opportuna et usibus necessaria. Considerate autem
+non solum bona, sed et mala, commoda et incommoda,
+munimenta et pericula. Considerate ergo terram
+et urbem Jericho. Considerate urbem, munitionum
+firmitatem, hostiumque multitudinem, ut
+scire possimus quomodo oporteat obsidionem ordinare,
+qualiter oppugnare, contra quales bellum
+agere. Inspicite ergo terram et urbem. Inspicite
+terram quam Deus fecit, et urbem quam humana
+inventio instituit. Discutite bonum quod Deus creavit
+ad bonum nostrum, et malum quod homo invenit
+in malum suum. Considerate terram et urbem,
+naturam et consuetudinem. Distinguite bonum creationis
+et malum corruptionis, bonum conditionis et
+malum consuetudinis. Si naturae bonum cognoscimus,
+<pb n="1102B"/>
+scimus quid excolere, quid nutrire, quid multiplicare
+debeamus. Si morum nostrorum malum
+perspicimus, quos hostes cavere, quos adversarios
+oppugnare, quales inimicos interficere oporteat non
+dubitamus. Ecce quales exploratores debemus ante
+ingressum nostrum praemittere, ut sciamus contra
+quae mala cavenda, et ad quae bona agenda debeamus
+vigilare. Qui tales exploratores ante faciem
+suam praemittit, errorum devia minime formidabit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV. <hi>Quid sit meditationis, et quid sit contemplationis.</hi> </head>
+<p>Sed ille virtutum exercitus secure incedit, sibique
+de viae certitudine nihil diffidit, quem exploratorum
+<pb n="1102C"/>
+sagacitas instruit. et arcae ordinata antecessio in suo
+itinere dirigit. Parum nobis sit ante Hebraeorum turbam
+exploratores dirigere; faciamus et arcam nostram
+post exploratorum vestigia faciem nostram praecedere.
+Primum est faciendorum rationem meditationum
+nostrarum exploratione perquirere et invenire,
+et postea tandem oportet in contemplationem adducere,
+ut possimus notam, et promptam, et familiarem
+habere. Contemplatio pertinet ad arcae evectionem,
+sicut meditatio ad explorationem. Aliud est contemplationis,
+aliud est meditationis. Meditationis est
+perscrutari occulta, contemplationis est admirari
+perspicua. Siquidem meditatio est occultae veritatis
+studiosa investigatio. Contemplatio est perspicuae
+veritatis jucunda admiratio. Quae autem occulta sunt,
+<pb n="1102D"/>
+solent ad manifestationem prodire, modo ex propria
+meditatione, modo ex divina revelatione. Ubi ergo
+revelationis gratiam praesentem habemus, meditationis
+officio non egemus. Ubi autem divina revelatio
+defuerit, mens humana, nec mirum, ad meditationis
+studium ex necessitate recurrit, et quasi
+ad exploratorum officia refugit. Sed quidquid mens
+humana de morum instructione poterit meditationum
+exploratione cognoscere, debet iterum in contemplationem
+adducere, et in eorum certitudinem
+et desiderium animum roborare. Sed cum meditationis
+adinventio in contemplationem adducitur,
+quid aliud quam via prius explorata ad arcae evectionem
+repetitur, ut virtutum turma absque deviationis
+<pb n="1103A"/>
+suspicione secure subsequatur? Per meditationem
+itaque agitur, ut quidquid utiliter fieri debeat
+non ignoretur. Sed et contemplatio illud efficere
+solet, ut adinventa veritas memoriae tenacius
+inhaereat, et desiderium acrius inflammet. Per meditationem
+<pb n="1104A"/>
+ergo ad bonum instruimur, et per contemplationem
+in bono solidamur. Haec est ratio, ut
+arbitror, cur debeamus profectuum nostrorum viam,
+et meditationis exploratione, et intellectualis arcae
+processione praetentare.</p>
+</div2>
+      </div1>
+
+<div1>
+        <head>TRACTATUS TERTIUS. <hi>Hucusque de boni promotione, abhinc de ejusdem confirmatione.</hi> </head>
+<div2>
+          <head>CAPUT PRIMUM.</head>
+<pb n="1103A"/>
+<p>Libet et illud considerare quid sit quod Dominus
+jubet de Jordanis medio, de loco ubi steterunt sacerdotum
+<pb n="1103B"/>
+pedes, lapides colligere, et in loco castrorum
+ponere, et alios undecunque collectos in priori
+loco reponere. Quaeramus ergo quis ille sit locus,
+quo sacerdotum pedes tempore faciendi miraculi
+subsistunt, vel quo itidem loco post celebratum miraculum
+castra figenda sunt. Quis dubitet supra
+humanam virtutem esse Jordanem retroire, et aquarum
+congeriem in unam molem consurgere? Quis,
+quaeso, nisi mente excidat, tam stupendum miraculum
+de sua virtute praesumat? Ubi ergo debet animus
+sub tantae rei exspectatione spem suam figere,
+nisi in fiducia divinae magnificentiae? Tutus stationis
+locus et magnae securitatis, praesumptio de adjutorio
+divinae pietatis. Sed est alius locus loco huic valde
+dissimilis, subreptio videlicet diffidentiae et desperationis.
+<pb n="1103C"/>
+Locus sane horridus, plenus timoris, plenus
+sollicitudinis, et qualem denique decet castris munire,
+vallo cingere, excubiis circumdare, eo quod
+non sit tutum propter imminentia pericula in ulteriora
+procedere. Illum primum tempore divinae visitationis,
+istum autem tempore probationis incurrimus.
+Solet enim divinae pietatis dispensatio hominem
+cum sua visitatione confortare, et iterum vario
+tentationum genere probare: <hi>Visitas,</hi> inquit Job, <hi>eum diluculo, et subito probas illum 
+ <note>(Job VII)</note>
+            </hi>. Ecce
+duos locos assignavimus, unum confidentiae, alterum
+diffidentiae; unum quo solent divina miracula contingere,
+alterum quo oportet castra figere. Qui confidunt
+in Domino mutabunt fortitudinem, assument
+<pb n="1103D"/>
+pennas ut aquilae, current et non deficient. Nonne
+totum supra hominem est fortitudinem mutare,
+juxta aquilae similitudinem volare, currere et non
+deficere? Sed hoc tamen soli ipsi possunt qui de
+Domini pietate, non de sua fortitudine praesumunt.
+Sic Petrus super undas currere potuit quandiu confidentiae
+locum spei pede tenuit <note>(Matth. XIV)</note>. Sed
+postquam coepit hunc suae securitatis locum deserere,
+non potuit eum unda in superioribus suis amplius
+librare. Vides quomodo ventus validus superveniens
+de loco confidentiae ad locum eum diffidentiae
+dejecit, eo quod Dominus juxta morem suum
+visitasset eum diluculo, et subito probasset illum.
+Sic filii Israel post factum visumque miraculum,
+venerunt ad locum castrorum.</p>
+</div2>
+
+<div2>
+          <head>CAPUT II. <hi>De confirmatione mentis in bono et obduratione mentis in malo.</hi> </head>
+
+<pb n="1104A"/>
+<p>
+            <pb n="1104B"/>Assignavimus differentiam locorum, videamus et
+duo genera lapidum. Puto esse unum genus lapidum
+bonorum, puto esse et aliud malorum lapidum.
+Ad lapides bonos pertinet quaelibet mentis
+confirmatio in bono; ad lapides autem malos, quaelibet
+mentis obduratio in malo. Quid tibi videtur?
+Soliditas, stabilitas, firmitas, gravitas et multa in
+hunc modum, nonne tibi videntur quamdam in se
+lapidum similitudinem trahere, et pro similitudinis
+jure sibi tale nomen juste vindicare? Quid dicimus
+de cordis duritia, tenacia vel obstinatia? quid de
+asperitate, austeritate et crudelitate? Nonne sibi
+lapidis nomen defendunt quae in se lapidum similitudinem
+trahunt? Sed priores illi pertinent ad lapides
+bonos, sicut et isti posteriores ad lapides malos.
+<pb n="1104C"/>
+Sed puto non esse ejusdem facilitatis bonos
+vel malos lapides invenire, eo quod difficilius sit
+bonos lapides quam malorum copiam reperire.
+Omne enim pretiosum rarum. Boni ergo colliguntur
+de medio Jordanis, mali autem de quibuscunque
+locis. De illis Scriptura, ubi eos quaerere vel
+invenire oporteat, manifeste designat; de his autem
+adinventionis locum determinare quasi superfluum
+judicat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT III. <hi>De malo praesumptionis seu desperationis.</hi> </head>
+<p>Sed illud videtur mirum magnaque admiratione dignum
+quod jubemur bonos lapides de bono loco collectos
+in malo loco reponere, malos autem lapides
+<pb n="1104D"/>
+undecunque collectos in bono loco aggregare. Locus
+bonus praesumptio confidentiae, locus malus desperatio
+diffidentiae. Sed tamen debemus in loco confidentiae
+congregare lapides malos, et in loco diffidentiae
+congregare lapides bonos. In die bonorum ne immemor
+sis malorum, et congregasti lapides malos in
+loco bono, et in die malorum ne immemor sis bonorum,
+et congregasti lapides bonos in loco malo. Quid
+enim est lapides bonos de medio Jordanis (de loco
+videlicet facti prodigii) colligere, nisi statum mentis
+qualis tempore divinae visitationis fuerit diligenter
+retractare, et cujus firmitatis secundum unamquamque
+virtutem exstiterit subtiliter investigare, memoriaeque
+commendando quasi quemdam testimonii
+tumulum erigere? Sed nunquam talium lapidum
+<pb n="1105A"/>
+copiam habemus, nisi prius divinae visitationis et
+inspirationis gratiam acceperimus. Testatur hoc qui
+dicit: <hi>Sine me nihil potestis facere <note>(Joan. XV)</note>
+            </hi>; ergo nec
+lapides bonos est uspiam colligere nisi ex ejus operatione.
+Sed malorum lapidum innumeram multitudinem
+facile invenimus, quos ex tota vita nostra copiose
+et ad manum colligimus. Quid ergo opus fuit horum
+locum designare, quos ubertim possumus undecunque
+congregare? Cogitet ergo quisque cujus
+duritiei, cujus obstinationis fuerit, quoties eum
+divina gratia deseruit, sibique ipsi reliquit: et hoc
+faciens malorum lapidum tumulum erexit. In hunc
+itaque modum possumus tumulos erigere, et diversos
+e diverso constituere, hinc unum de lapidibus
+bonis, illinc alium de lapidibus malis. Bonorum lapidum
+<pb n="1105B"/>
+sibi congeriem instituit, qui dixit: <hi>In aeternum
+non obliviscar justificationes tuas, quia in ipsis
+vivificasti me <note>(Psal. CXVIII)</note>
+            </hi>. Malorum lapidum tumulum
+erexerat, cum dicebat: <hi>Quoniam iniquitatem meam
+ego cognosco, et peccatum meum contra me est semper <note>(Psal. L)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IV. <hi>Quomodo ex malorum nostrorum recordatione oporteat praesumptionem reprimere.</hi> </head>
+<p>Sic et tu cum locum confidentiae teipsum tenere
+praesenseris, et meritis tuis altiora praesumere
+perspexeris, memento statim quid aliquando fueris,
+et ad malorum lapidum congeriem oculos reflectens
+teipsum in humilitate custodis. Bonum est sane
+<pb n="1105C"/>
+praesumere, non de tua tamen fortitudine, sed de
+Domini pietate. Ad hoc malorum lapidum in loco
+bono congregatio cuique valeat, ut per malorum
+suorum memoriam nunquam de suis viribus praesumat.
+Ut ergo discat unusquisque praesumere, non
+de seipso, sed de Domino, semper sibi in praesumptionis
+loco occurrat malorum suorum recordatio:
+illa sane praesumptionis fiducia Dominum placat,
+et magnalia impetrat, quam humilitas commendat.
+Qui confidunt in Domino sicut mons Sion. Sic econtrario
+abominabilis est illa praesumptionum fiducia
+quam generat superbia. Non enim salvatur rex per
+multam virtutem suam, et gigas non salvabitur in
+multitudine virtutis suae. Maledictus ergo homo
+qui confidit in homine, et ponit carnem brachium
+<pb n="1105D"/>
+suum: erit enim sicut myricae in deserto, et non saturabitur
+cum venerit aestas, quam utilis ergo, putamus,
+erit in hujusmodi loco illa quam praescripsimus
+malorum lapidum congregatio, vitiorumque
+recordatio, quae nos poterit custodire ab hoc exsecrabili
+superbiae typo, et protegere ab hujusmodi
+maledicto.</p>
+</div2>
+
+<div2>
+          <head>CAPUT V. <hi>Quomodo ex bonorum nostrorum recordatione oporteat desperationem repellere.</hi> </head>
+<p>Sic sane periculo imminente, tentatione superveniente,
+cum praesenseris animum tuum desperatione
+tangi, et ad diffidentiae locum dejici, et ad praefinitum
+castrorum locum devolvi, debes bonorum
+lapidum tumulum praesentem habere, et ad virtutum
+<pb n="1106A"/>
+praeteritarum memoriam oculos reflectere, et
+ex earum recordatione spei tuae fiduciam reformare.
+Sic Job rebus nudatus, filiis viduatus, ulcere percussus,
+cum se in loco castrorum deprehensum
+cerneret, et desperationis malo se pulsari praesentiret,
+ut diffidentiae malum temperaret, ad bonorum
+lapidum acervum recurrit, et ex bonorum recordatione
+castra sua undique munit, et desperationis
+insultus fortiter repellit, cum dicit: <hi>Oculus fui
+caeco, et pes claudo; pater eram pauperum, et causam
+quam nesciebam diligenter investigabam. Conterebam
+molas iniqui, et dentibus illius auferebam praedam <note>(Job XXIX)</note>
+            </hi>.
+Sic et Ezechias sub necessitatis
+articulo ad hujusmodi lapidum munimina recurrebat,
+cum de vita diffideret, et ex bonorum actuum
+<pb n="1106B"/>
+suorum repraesentatione, Domini misericordiam provocabat,
+precumque suarum obtentu, diffidentiae
+pericula propulsabat: <hi>Memento,</hi> inquit, <hi>Domine,
+quomodo ambulaverim coram te in veritate et corde
+perfecto, et quod bonum est in oculis tuis fecerim <note>(IV Reg. XX)</note>
+            </hi>.
+Debemus itaque et nos promptum et
+familiare haberi sub omni tempore tentationis,
+anteactorum bonorum memoriam praesentem tenere
+et cum hanc consuetudinem in continuum usum duxerimus,
+quasi lapides bonos, et juxta divinum documentum
+electos in loco castrorum collocavimus.
+Nihil enim aliud est electos lapides in unum locum
+congregare, nisi divinae confirmationis et corroborationis
+qualitates diligenter retractare, memoriaeque
+<pb n="1106C"/>
+commendare, et nihil aliud est eos in loco
+castrorum fixisse, nisi hujusmodi memoriam in
+omni tentationis articulo firmiter assuevisse.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VI. <hi>De duodceim principalibus virtutibus in quibus solidandus est animus.</hi> </head>
+<p>Hos autem de medio Jordanis alveo per Dei virtutem
+siccato, et ad numerum duodecim tribuum
+colligimus, quando statum mentis nostrae, qualis
+sub divinae visitationis tempore fuerit, diligenter
+discutimus, et quales tunc temporis in unaquaque
+principalium virtutum, juxta aliquid fuerimus, subtiliter
+exquirimus. Hoc est enim singulos de singulis
+tribubus homines suum lapidem tollere, quantae
+firmitatis, juxta aliquid ad singulas virtutes per
+<pb n="1106D"/>
+aspirationis gratiam aliquando exstiterit, veraciter
+invenisse. Quid autem de duodecim filiis Jacob sentiamus,
+ex quibus originem trahunt hae duodecim
+tribus, alio loco jam diximus. Per Ruben et Simeonem
+intelligimus timorem et compunctionem; per
+Levi, spem; per Judam, charitatem; per Issachar,
+jucunditatem; per Zabulon, severitatem; in Gad
+intelligitur abstinentia; in Aser, patientia; in Dan
+et Nephtalim, circumspectio et speculatio; in Joseph
+et Benjamin, discretio et invisibilium contemplatio.
+Horum autem rationem hoc loco ostendere jam volumus,
+de quibus quod nobis rectius videbatur alias
+jam diximus. Sed qui ex tali sobole semen suum in
+duodecim tribubus multiplicatum esse confidit discat
+quales lapides de medio Jordanis tollere debuerit,
+<pb n="1107A"/>
+cum hanc virtutum progeniem usque ad ejus
+transitum promoverit. Recolat ergo quid roboris,
+quid fortitudinis vel firmitatis ad divinae aspirationis
+afflatum se senserit hausisse, hoc est et lapides
+electos de loco determinato tulisse. Sed ut per singulos
+de singulis tribubus homines haec lapidum
+electio fiat, hanc considerationis suae operam per
+singulas quas distinximus virtutes exerceat, et lapidum
+suorum numerum usque in duodenarium extendat.
+Cogitet ergo quisquis cupit post Jordanis
+conversionem hoc Dominicum praeceptum implere;
+cogitet, inquam, sub tempore divinae visitationis
+cujus vigoris fuerit juxta aliquid in unaqualibet
+virtute. Cogitet quanta soliditas tunc temporis ei
+fuerit in timore, quanta gravitas in compunctione,
+<pb n="1107B"/>
+quanta stabilitas in spe, quanta integritas in charitate,
+quanta maturitas in jucunditate, quanta asperitas
+in severitate. Cogitet quam austerus fuerit in
+abstinentia, quam robustus in patientia, quam sollicitus
+in circumspectione, quam assiduus in speculatione,
+quam certus in discretione, quam quietus
+in contemplatione. Cum autem haec omnia plene
+perspexerit memoriaeque mandaverit, tumulum qualem
+oportuit erexit. Infiniti negotii esset, et quod
+nemo omnino explere potuisset, si juberet Dominus
+omnes de omnibus tribubus lapidem suum tollere,
+eo quod nemo sufficeret seipsum digne pensare,
+qualis sit ad omnia, non dicam in omni, sed una
+solummodo qualibet virtute. Sufficit ergo unum
+<pb n="1107C"/>
+aliquod praeclarum et insigne aestus sui desiderium
+per omnes has quas determinavimus virtutes segregare,
+talisque memoriae usum firmare et in ejusmodi
+recordatione sub omni diffidentiae periculo
+contra desperationis malum pugnare. Facile enim
+animum suum quantumlibet dejectum, quantalibet
+tentatione pulsatum, ad spem divinae miserationis
+statumque confidentiae reparat: qui qualis aliquando
+ex divina operatione fuerit, ad memoriam
+revocat. Omnino et absque dubio libenter se exercet
+in tali studio, cui datum est nosse quid valeat,
+vel quod utilis sit haec hujusmodi lapidum studiosa
+collectio.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VII. <hi>De soliditate timoris.</hi> </head>
+<p>
+            <pb n="1107D"/>Quam utilem, quaeso, putamus illum lapidem
+quem primo loco posuimus, soliditatem videlicet
+timoris per quem mens fundatur in solido humilitatis.
+Quantum autem valeat Dominica illa sententia
+probat, quae dicit: <hi>Super quem requiescet Spiritus
+meus, nisi super humilem, et quietum, et trementem
+sermones meos? <note>(Isa. LVI.)</note>
+            </hi> Hic est lapis offensionis
+et petra scandali, nisi forte dubites hunc esse lapidem
+quem reprobaverunt aedificantes, et factus est
+in caput anguli. Superbae etenim mentes, et suam
+justitiam statuere volentes, nil solent molestius
+pati, nihil amplius indignari quam apparere despecti
+et viles videri.</p>
+</div2>
+
+<div2>
+          <head>CAPUT VIII. <hi>De gravitate compunctionis.</hi> </head>
+
+<pb n="1108A"/>
+<p>Sed et secundum lapidem, qui dictus est gravitas
+compunctionis, apud Jeremiam puto posse reperiri,
+qui petivit capiti suo aquas ut lugeat interfectos populi
+sui <note>(Jer. V)</note>, et datum ei non dubito ab eo qui
+convertit petram in stagna aquarum et rupes in fontem
+aquarum. Hanc eamdem petram apud Petrum
+puto inveniri posse, eo quod tactus dolore cordis
+intrinsecus egressus sit foras, et flevit amare, percutiens
+bis silicem, et egressae sunt aquae largissimae,
+et factum est irriguum superius, et irriguum inferius.</p>
+</div2>
+
+<div2>
+          <head>CAPUT IX. <hi>De spei longanimitate.</hi> </head>
+<p>
+            <pb n="1108B"/>Tertiam petram, quae est longanimitas spei, apud
+Job non dubito posse reperiri, de qua sibi fundebat
+rivos olei, unde et lenibat dolores corporis sui. Sperabat
+enim usque ad mane inter tot damna, dolorumque
+vulnera, nunquam exhaustus oleo spei suae,
+nusquam diffidens de unctione divinae misericordiae: <hi>Etiamsi occiderit me,</hi> 
+ inquiens, <hi>in ipso sperabo <note>(Job XIII)</note>
+            </hi>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT X. <hi>De charitatis integritate.</hi> </head>
+<p>Quartam itidem apud Petrum petram invenio, cui
+dictum esse non dubitamus a Domino: <hi>Tu es Petrus,
+et super hanc petram aedificabo Ecclesiam meam <note>(Matth. XVI)</note>
+            </hi>,
+eo quod diligeret Christum Domini ex
+<pb n="1108C"/>
+toto corde suo, et ex tota anima sua, et ex tota
+mente sua, veraciter agnoscens quod ipse esset
+Christus Filius Dei vivi. Ubi, obsecro, invenitur
+charitatis integritas si eam apud Petrum non reperias,
+qui coram cordium inspectore audet profiteri
+et dicere: <hi>Domine, tu scis quia amo te? <note>(Joan. XXI.)</note>
+            </hi> </p>
+</div2>
+
+<div2>
+          <head>CAPUT XI. <hi>De maturitate jucunditatis.</hi> </head>
+<p>Quintam autem petram apud populum illum esse
+dubitare quis audeat, quem Propheta Domini inter
+caetera prophetiae dogmata beatificat? <hi>Beatus,</hi> inquit, <hi>populus qui scit jubilationem 
+ <note>(Psal. LXXXVIII)</note>
+            </hi>.
+Beatos utique esse quis neget, quos Dominus cibavit
+adipe frumenti, et de petra melle saturavit eos:
+jucunditatem etenim et exsultationem thesaurizavit
+<pb n="1108D"/>
+super eos. Animadvertis, ut arbitror, quale sit
+etiam hunc lapidem inter caeteros possidere, qui
+fluit jucunditatis melle, et satiat intrantem in gaudium
+Domini sui interna dulcedine. Quale, quaeso,
+erit quoties opportunum fuerit de petra melle saturari,
+et de torrente voluptatis in via bibere et inebriari?
+Hic est quintus ille, ut dictum est, lapis, qui
+dictus est maturitas jucunditatis. Nil ergo levitatis
+habeat, nil ei caducum, nil carnale sapiat, ad magnam
+autem maturitatis gravitatem animum componat,
+qui solum hoc esurit et sitit, quod de hoc
+lapide manat.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XII. <hi>De asperitate severitatis.</hi> </head>
+<p>Sed ille, ut arbitror, dimicabat in lapide sexto,
+<pb n="1109A"/>
+cui dictum est a Domino: <hi>Ecce dedi faciem tuam
+valentiorem faciebus eorum, et frontem tuam duriorem
+frontibus eorum, ut adamantem et ut silicem dedi faciem
+tuam <note>(Ezech. III)</note>
+            </hi>. Conterebat ergo Jeremias
+exasperantem domum Israel in adamante et silice,
+eo quod esset attrita fronte et duro corde, stansque
+in porta domus Domini, annuntiabat eis scelera eorum,
+verba eorum non timens, nec vultus eorum.
+Hunc lapidem tenet in manibus rex ille fortis et
+potens in praelio, in quo dejectus est fortis armatus,
+et vir bellicosus ab adolescentia sua. Praevaluit
+enim David in Philisthaeum in funda et lapide in
+nomine Domini. Vides certe qualibus armis ille
+adolescentulus et contemptus et statura pusillus
+dejecerit Goliam gigantem immanissimum, eo quod
+<pb n="1109B"/>
+doctus esset a Domino doctas habere manns ad
+praelium et digitos suos ad bellum. Habebat sane
+arma non carnalia, sed potentia a Deo ad destructionem
+munitionum, et erat in eis pugnans et destruens
+omnem altitudinem extollentem se adversus
+scientiam Dei, et in captivitatem redigens omnem intellectum
+in obsequium Christi. Super omnes enim
+docentes se intellexit, et idcirco fiducialiter annuntiavit
+justitiam Domini in Ecclesia magna, sicut et
+ipse de seipso de praeterito perhibuit, et de futuro
+promittit: <hi>Annuntiavi,</hi> inquit, <hi>justitiam tuam in Ecclesia
+magna, ecce labia mea non prohibebo: Domine,
+tu scisti <note>(Psal. XXXIX)</note>
+            </hi>. In promptu itaque habes ulcisci
+omnem inobedientiam, arguebat elatos, corripiebat
+inquietos, et in asperrimae increpationis lapide et correptionis
+<pb n="1109C"/>
+asperitate dejiciebat veritatis adversarios.
+Et cum esset vir mitissimus in populo suo et mansuetissimus: <hi>Memento,</hi> 
+ inquiens, <hi>Domine, David, et
+omnis mansuetudinis ejus <note>(Psal. CXXXI)</note>
+            </hi>; cum esset,
+inquam, tantae mansuetudinis, nihilominus tamen in
+matutino interficiebat omnes peccatores terrae, ut
+disperderet de civitate Domini omnes operantes iniquitatem.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIII. <hi>De austeritate abstinentiae.</hi> </head>
+<p>Septimum lapidem diximus esse austeritatem
+abstinentiae. In hac petra pater Samson obtulit
+Domino holocaustum, et obtinuit gignere de sterili
+virum fortissimum virorum, ad ignominiam gentium,
+<pb n="1109D"/>
+et gloriam plebis suae Israel <note>(Judic. XIII)</note>. Puduit
+sane eum tandem aliquandiu pavisse sterilem,
+et quae non parit, et ulterius noluit, sicut nec debuit,
+debitor esse carnis, ut secundum carnem viveret,
+sed castigans corpus suum, et in servitutem
+redigens, haedinasque carnes in abstinentiae petra
+immolans, jusque carnium cum carnibus ipsis accepto
+coelitus igne consumens, fluxasque corporis
+restringens noluit de caetero ire post concupiscentias
+suas. Sicque, impetu carnis edomito, impetum
+spiritus roboravit, qui carnis infirmitate fit fortior.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XIV. <hi>De robore patientiae.</hi> </head>
+<p>Post hos lapides sequitur robur patientiae: quem
+<pb n="1110A"/>
+lapidem me recolo octavo loco annumerasse. Ecce
+lapis fortissimus, omniumque durissimus. Hunc
+lapidem tenet in manibus coelestis militiae signifer
+ille protomartyr Stephanus, et factus est ei turris
+fortitudinis a facie inimici. In hoc lapide lapidum
+se prementium sustinuit fortiter ictus, nec timuit
+lapidantium manus, nec eorum impetum, qui stridebant
+dentibus in eum <note>(Act. VII)</note>. O lapis fortis et
+durus, sed dulcedine plenus! O pectus robustissimum,
+sed pietate plenum! Miraris quilibet audis
+quomodo in patientia sua possedit animam suam,
+sed mirari potius debuisses quomodo animus sub
+tanta persecutionis amaritudine non amiserit dulcedinem
+suam. Ab inimicis premebatur, et pro inimicis
+precabatur. Sustinebat saevitiam humanam, et
+<pb n="1110B"/>
+suspiciebat gloriam divinam: <hi>Ecce,</hi> inquit, <hi>video
+coelos apertos, et Jesum stantem a dextris virtutis
+Dei <note>(ibid.)</note>
+            </hi>. In terris premebatur, et de coelis consolabatur.
+Affligebatur ex illata miseria, afficiebatur
+ex inolita misericordia, gratulabatur ex inspecta
+gloria. Ecce sub uno eodemque tempore videbat inferius
+unde compateretur, videbat superius unde jucundaretur.
+Ecce quomodo de eodem pectore manabat
+pietas cum jucunditate, jucunditas cum pietate.
+Ecce quomodo de eodem vase manat oleum cum melle,
+oleum pietatis cum melle jucunditatis. Quae, quaeso, est
+ista in lapide isto olei et mellis impermista confusio
+et inconfusa permistio? Miror si non miraris quomodo
+pugnator fortis sub uno eodemque momento
+sugebat mel de petra oleumque de saxo durissimo.
+<pb n="1110C"/>
+Mira virtus patientiae, et quis digne penset pretium
+hujus petrae, quae in tanta copia distillat oleum cum
+melle? Quanta, quaeso, olei et mellis copia inesse
+deprehenditur, ubi misericordia nulla malitia minuitur,
+ubi dulcedo nullo dolore attenuatur? Imo
+mirum in modum crescit ex dolore delectatio, et ex
+passione compassio. Martyr sane cum lapidaretur,
+magis miserebatur inimicis suis quam membris
+suis. Positis enim genibus orabat, dicens: <hi>Domine,
+ne statuas illis hoc peccatum, quia nesciunt quid faciunt <note>(ibid.)</note>
+            </hi>.
+Ecce quoad positionem genuum effusum
+est oleum, et de caetero velut oleum effusum
+factum est nomen suum. Siquidem ad miserationem
+inimici facta est effusio olei, intantum ut
+<pb n="1110D"/>
+adolescens, qui eminus sedebat, respersus sit ex
+odore unguenti. Incurvato namque corpore et inclinato
+capite, coepit oleum effluere, et factum est
+sicut unguentum in capite, et descendit in oram
+vestimenti ejus qui vestimenta servabat. Velociter
+ergo surgens, qui diu sederat in tenebrosis et in umbra
+mortis coepit currere in odorem unguentorum,
+exsultansque ut gigas ad currendam viam suam,
+quocunque erat impetus Spiritus, illic gradiebatur,
+et de caetero factus est Christi bonus odor omni
+loco.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XV. <hi>De sollicitudine circumspectionis.</hi> </head>
+<p>Nonam petram invenio apud Ezechiam, invenio
+eam et apud amici sponsam, sponsique amicam, cui
+<pb n="1111A"/>
+dicitur in Canticis: <hi>Surge, amica mea, speciosa mea,
+et veni, columba mea, in foraminibus petrae, in caverna
+maceriae <note>(Cant. II)</note>
+            </hi>. Sic et Ezechias ad sponsae
+similitudinem quietem eligens, secretumque captans,
+sedensque in foraminibus petrae, seu etiam caverna
+maceriae, sicut pullus hirundinis, sic clamabat, meditabatur
+ut columba: O quis mihi dabit pennas
+sicut columbae, et volabo, et requiescam, si forte
+possim evolare in id loci, ubi passer invenit sibi
+domum, et turtur nidum ubi reponat pullos suos!
+Ubi, quaeso, quidquam tuti reperietur, si in foraminibus
+hujusmodi petrae non invenietur, ubi studiosa
+praemeditatio quaecunque pericula, antequam eveniant,
+praevidet, et ventura praeveniens, ex praeteritis
+futura colligit, et de dubiis rebus non dubios
+<pb n="1111B"/>
+eventus saepe praenoscit? Quid enim est aliud circumspectio,
+nisi circumstantium malorum sollicita
+sagaxque perscrutatio? Ad hanc pertinet praeteritorum
+malorum retractatio, praesentium consideratio,
+futurorum praemeditatio, ut secundum nomen suum
+veraciter sit circumspectio. Hujus assiduitas hominem
+cautum efficit, et quantum possibile est, tutum
+reddit.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVI. <hi>De assiduitate speculationis.</hi> </head>
+<p>Decimus lapis dictus est assiduitas speculationis.
+Jacob declinans a malo, dansque locum irae, dum
+peregre proficiscitur festinans, ne fuga sua fieret
+hieme aut Sabbato, hunc lapidem in itinere invenit,
+<pb n="1111C"/>
+inventumque capiti suo supposuit, ne non haberet
+ubi caput suum reclinaret, dum in via obdormiret <note>(Gen. XXVIII)</note>.
+In hoc lapide in pace, in idipsum obdormit
+et requiescit, et in itinere requiem invenit,
+quam nec in cubiculis stratisque purpureis invenire
+possunt qui mollibus vestiuntur, et in domibus regum
+sunt. Reclinato itaque capite, Jacob in hoc lapide,
+clausisque oculis concupiscentiae (quos apertos
+legimus in primo parente), dum in hoc reclinatorio
+alta quiete sopitur, dum exteriorum omnium libenter
+obliviscitur, animus ejus ad interiora evigilat, videtque
+quae prius vigilans et videns videre non poterat.
+Scala usque in coelum porrecta, ante ejus oculos
+erigitur, Dominusque innixus scalae conspicitur,
+ut per invisibilem formam, invisibiliumque figuram,
+<pb n="1111D"/>
+in intellectibilium intelligentiam, speculantis
+animus sublevetur. Felix cui visibilium scientia fit
+scala ad invisibilia cognoscenda. Pulchrum spectaculum
+videre hujus scalae scalaria modo congruo,
+proportionabiliterque locata, et usque in summum
+ordinatae distinctionis continuatione producta, ut
+per multiplicem creaturarum differentiam, dignitatumque
+degradationem ordinate distinctam, distincteque
+ordinatam, paulatim se animus ad superiora
+promoveat, provectionisque gradibus semper
+ad altiora conscendat, donec invisibilia Dei a creatura
+mundi, per ea quae facta sunt, intellecta conspiciantur,
+et Dominus innixus scalae videatur. Quis,
+quaeso, hoc, nisi in hoc reclinatorio dormiens videret,
+quis hoc evigilans efficeret, ut ascensionis suae
+<pb n="1112A"/>
+scalam usque in coelum protenderet, et visibilium
+speculationi speculationem invisibilium continuaret?
+Quid quod in hoc ascensionis tramite angelicae
+occursionis alludium sponte se ingerit, ut humanae
+investigationi divina revelatio occurrat? Itaque
+videntur angeli in hac scala nunc ascendere,
+nunc vero descendere, et nunc ad summa, nunc ad
+ima animum erudire, ut in divinis et humanis multa,
+quae per seipsum non poterat, ex divina revelatione
+cognoscat. Et possent quidem angeli sine
+scalae ministerio pro desiderii sui arbitrio, sive in
+ima descendere, sive ad summa evolare, nec opus
+esset divinae inspirationi in ulla revelationum suarum
+manifestatione ullius corporeae similitudinis instrumentum
+quaerere, nisi vellet nos primo per
+<pb n="1112B"/>
+speculum, et in aenigmate, et non statim facie ad
+faciem videre. Ascendunt itaque angeli in hac similitudinum
+scala atque descendunt, atque alii post
+alios modo accedunt, modo discedunt, ut dum multiplicium
+revelationum alia ingeritur, alia subtrahitur,
+speculantis animus multiformiter illuminetur, ut quae
+simul pro intelligentiae suae exiguitate capere non poterat,
+succedenter et per morarum intervalla sigillatim
+intelligat. Ecce quid inveniunt, qui in hoc lapide
+obdormiunt. Felices quibus vertitur in scalam, quod
+aliis solet esse in ruinam. Felices quibus exteriorum
+scientia fit scala ascensionis, non ruina dejectionis.
+Felices quibus scientia illa quae inflat, non
+est ad inflationem, sed ad inflammationem ejus quae
+aedificat. Felices quibus temporalium pulchritudo fit
+<pb n="1112C"/>
+aeternitatis instigatio. Oportet ergo, ut animadvertis,
+caput in lapide reclinare, et in hujus speculationis
+desiderio animum obdurare, et huic studio
+pertinaciter insistere, qui cupit hanc ascensionis
+scalam invenire.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVII. <hi>De certitudine discretionis.</hi> </head>
+<p>Certitudinem discretionis undecimum lapidem
+diximus, quam si diligenter quaerimus, citius apud
+Paulum invenimus. Tantum siquidem de discretionis
+dono confidit, tantum de consilii sui certitudine
+praesumit, ut fidenter consilium det, ubi Dominicum
+praeceptum non habet: <hi>De virginibus,</hi> inquit, <hi>praeceptum
+Domini non habeo, consilium autem do (I
+<pb n="1112D"/>
+Cor. VII)</hi>. Hinc est quod aliis seipsum in exemplum
+conversationis proponit, et vitam suam vivendi formam
+sequacibus ostendit, cum dicit: <hi>Imitatores
+mei estote, sicut et ego Christi <note>(I Cor. XL)</note>
+            </hi>. Et recte
+sane eo quod statuerit Dominus supra petram pedes
+suos, et direxit gressus suos. Hujusmodi, ut arbitror,
+lapidibus viatorum illorum via strata erat,
+de quibus Propheta pro admiratione exclamat: <hi>Quam speciosi pedes evangelizantium pacem, evangelizantium
+bona! 
+ <note>(Rom. X.)</note>
+            </hi> His, ni fallor, lapidibus
+magnus ille patriarcha Joseph, quem princeps populorum
+constituit dominum domus suae, et principem
+omnis possessionis suae, ut erudiret principes
+ejus sicut semetipsum, et senes ejus prudentiam
+doceret. His, inquam, lapidibus plateas Aegypti
+<pb n="1113A"/>
+recte creditur stravisse, intantum ut non haberent
+filii Israel necesse servire in luto et latere omnibus
+diebus vitae suae. Horum adhuc lapidum penuriam
+Propheta sustinebat, et sub magna discretionis
+inopia laborabat, cum adhuc fixus esset in limo
+profundi, eo quod nondum sibi constaret rati certitudo
+consilii, intantum ut Domino proclamaret et
+diceret: <hi>Quandiu ponam consilia in anima mea? <note>(Psal. XVIII.)</note>
+            </hi> 
+ Sed de hoc limi profundo nunquam
+plene emersisset, nisi hanc, de qua loquimur, petram
+tandem aliquando invenisset: <hi>In petra,</hi> inquit, <hi>exaltavit, me, et nunc exaltavit caput meum
+super inimicos meos 
+ <note>(Psal. XXVI)</note>
+            </hi>. Qui de hoc genere
+lapidum viam sibi non sternit, nunquam munde
+incedit, nunquam stabiles gressus figit. Qui vult
+<pb n="1113B"/>
+ergo firmiter et honeste incedere, debet nil omnino
+inconsulte agere, et quali debuit lapide constat
+sibi viam stravisse, et potest secure incedere. Omnia,
+inquit Sapiens, fac cum consilio, et nunquam
+poenitebis <note>(Eccle. XXXII)</note>.</p>
+</div2>
+
+<div2>
+          <head>CAPUT XVIII. <hi>De quiete contemplationis.</hi> </head>
+<p>Lapidem duodecimum, omniumque novissimum
+invenire possumus, ut arbitror, apud Dominicum
+sepulcrum. Dictus est, ut superius est dictum, lapis
+is tranquillitas contemplationis. De hoc genere lapidum
+Joseph ille ab Arimathaea sepulcra sibi incidit,
+sed Jesus in eo mortuus quievit, quia quietem
+quam prudentia sibi per meditationem quaerit, et
+per diffinitionem describit, sapientia per contemplationem
+<pb n="1113C"/>
+invenit, et per experimentum apprehendit.
+Semper vera prudentia quaerit, et semper quaerere
+debet illam quam Christus docuit pacem, ut
+non turbetur neque formidet. Semper studet ubi
+talem pacem inveniat, semper nititur ut veram
+sibi securitatem defendat, sed semper invenit quod
+de praeterito doleat, quod in praesenti oppugnet,
+quod in futurum caveat atque pertimescat. Potest
+ergo animus hanc pacem per prudentiam solerter
+quaerere, et per meditationem subtiliter investigare,
+nunquam eam tamen nisi per sapientiam et contemplationis
+gratiam poterit invenire. Sed, cum coeperit
+animus per puram intelligentiam semetipsum
+excedere, et in illam incorporeae lucis claritatem
+<pb n="1113D"/>
+totus intrare, et in his quae in intimis videt quemdam
+intimae suavitatis saporem trahere, et ex eo
+intelligentiam suam condire, et in sapientiam vertere,
+intantum in hoc mentis excessu pax illa quae
+neque turbatur, neque formidat, invenitur atque
+obtinetur ut fiat silentium in coelo quasi hora dimidia,
+ita ut contemplantis animus nulla altercantium
+cogitationum tumultuatione turbetur: nihil omnino
+invenies, vel quod per desiderium petat, vel per
+fastidium arguat, vel per odium accuset. Ad summam
+itaque pacem componitur, qui in hoc lapide
+sepelitur, qui intra contemplationis tranquillitatem
+totus colligitur atque concluditur. Neque enim lapis
+iste sicut ille Jacob soli capiti supponitur, neque
+sicut ille posterior pedibus substernitur, sed toto
+<pb n="1114A"/>
+corpori coaptatur atque applicatur. Hic itaque lapis
+totum corpus ambit, totum includit, et ab omni
+parte comprehendit, eo quod pax illa, quae omnem
+sensum exsuperat, omnem sensum humanum funditus
+absorbeat, et in divinum quemdam habitum puriorem
+animae partem felici transfiguratione convertat.
+Jacet hic corpus sine sensu et motu in hoc
+Dominico monumento; nihil sensualitas, nihil agit
+imaginatio, et omnis inferior vis animae proprio interim
+induitur officio.</p>
+<p>Non enim hoc lapideum monumentum (sicut
+saxeum illud patriarchae Jacob reclinatorium) suscipit
+corpus vivum, quamvis sopitum, nec recipit
+corpus nisi mortificatum. Aliud dormire, aliud est
+obire. Aliud spiritum suum totum in seipsum colligere,
+<pb n="1114B"/>
+et aliud est supra se levare et seipsum deserere.
+Aliud est appetitum coercuisse, exteriorumque
+curam cordi excidisse atque aliud est ipsum
+sibi in oblivionem venire. Oportet ergo antequam
+introire liceat in illud intimae quietis secretum et
+summae tranquillitatis arcanum; oportet, inquam,
+ut fiat illa valde gravis et vere mirabilis, non dissolutio
+animae et corporis, sed alia hac multo mirabilior
+multoque gloriosior, illa denique, cujus ista
+est typus, divisio videlicet animae et spiritus. Hanc
+autem operari in nobis solet sicut testatur Apostolus,
+vivus ille Dei sermo et efficax, et penetrabilior
+omni gladio ancipiti, et pertingens usque ad divisionem
+animae et spiritus. Quid, quaeso, uspiam
+creaturarum hac divisione mirabilius cernitur, ubi
+<pb n="1114C"/>
+id quod essentialiter unum est atque individuum
+in seipsum scinditur, et quod simplex in se et sine
+partibus constat a seipso dividitur atque separatur?
+Neque enim in homine uno alia essentia est ejus
+spiritus, atque alia ejus est anima, sed prorsus
+una eademque simplicisque naturae substantia. Non
+enim in hoc gemino vocabulo gemina substantia
+intelligitur; sed, cum ad distinctionem ponitur gemina
+vis ejusdem essentiae, una superior per spiritum,
+alia inferior per animam designatur. In hac
+itaque divisione, anima et quod animale est in imo
+remanet; spiritus autem et quod spirituale est ad
+summa evolat. Quod corpulentum atque feculentum
+quasi corpus emortuum deficit, et recidit in se
+<pb n="1114D"/>
+et sub seipsum; quod subtile et defaecatum est
+quasi spiritus efflatus ascendit, et transcendit
+intra, et ultra semetipsum. O alta quies, o sublimis
+requies, ubi omne quod humanitus moveri
+solet motum omnem amittit, ubi omnis qui
+tunc est motus divinitus fit, et in Deum transit!
+Hic ille Spiritus efflatus, et in manus Patris commendatus
+non, ut ille somniator Jacob, scala indiget,
+ut ad tertium, ne dicam ad primum, coelum
+evolet. Quid, quaeso, scala indigeat, quem Pater
+inter manus bajulat, ut ad tertii coeli secreta rapiat,
+intantum ut glorietur, et dicat: <hi>Dextera tua
+suscepit me. Tenuisti manum dexteram meam, et in
+voluntate tua deduxisti me, et cum gloria suscepisti
+me? <note>(Psal. XVII.)</note>
+            </hi> Non ergo opus hic habet Spiritus
+<pb n="1115A"/>
+ille de medio sublatus officio scalae, nec eget in illa
+subtilitatis suae ascensione sustentari alicujus corporeae
+similitudinis adumbratione, ubi videt facie ad
+faciem, non per speculum, et in aenigmate. Mentior
+si ipsi de seipsis non idem asserunt qui ejusmodi
+sunt: <hi>Nos autem omnes,</hi> inquiunt, <hi>revelata facie,
+gloriam Domini speculantes, in eamdem imaginem
+transformamur a claritate in claritatem, tanquam
+a Domini Spiritu <note>(II Cor. III)</note>
+            </hi>. Vides certe quid
+agat, et intelligis, ut arbitror, quid valeat illa divisio
+animae et spiritus, de qua superius jam diximus.
+Spiritus ab infimis dividitur ut ad summa sublimetur.
+Spiritus ab anima scinditur ut Domino uniatur.
+Qui enim adhaeret Domino, unus spiritus est.
+Felix divisio, et exspectabilis separatio, ubi quod
+<pb n="1115B"/>
+passibile, quod corruptibile dignoscitur, suis interim
+passionibus moritur, usque adeo ut nihil passibilitatis,
+nihil corruptibilitatis interim sentiatur; ubi
+et illud quod spirituale, quod subtile, usque ad speculationem
+divinae gloriae sublimatur, et in eamdem
+imaginem transformatur. Pars igitur inferior componitur
+ad summam pacem et tranquillitatem, pars
+autem superior sublimatur ad gloriam et jucunditatem.
+Sic faciem Moysi (superiorem sane corporis
+partem) a consortio Domini glorificatam
+agnovimus, ita ut non possent filii Israel intendere
+vultum ejus propter claritatem ipsius. Quis, quaeso,
+digne dicere, quis explicare sufficiat quid perfectionis
+in excessus sui glorificatione spiritus acquirat,
+<pb n="1115C"/>
+quamvis peregrinationis suae protelationem
+usque in diem tertium non extendat, etiamsi silentii
+moram usque ad dimidiam horam non producat,
+<pb n="1116A"/>
+licet eat et redeat in similitudinem fulguris coruscantis?
+Sic Moyses de consortio divini colloquii,
+cum clarificato vultu etiam cornua reportat, ostendens
+quid virtutis, quid fortitudinis de ejus contubernio
+contraxerit, qui dat virtutem et fortitudinem
+plebi suae benedictus Deus. Redit ergo tandem, et
+revertitur ad se spiritus ille qui longe excesserat
+supra se, et quod passibile et corruptibile posuerat,
+quasi impassibile et incorruptibile ad prioris status
+comparationem resumit, et in novitatem vitae resurgit.
+Quid tibi videtur ad illatam injuriam hilarescere,
+ad objectam contumeliam non erubescere,
+de tribulatione gaudere? nonne hoc est in novitate
+vitae ambulare, et secundum aliquem modum seipsum
+impassibilem ostendere, et suis passionibus
+<pb n="1116B"/>
+non subjacere? Ecce quousque proficiunt qui in hoc
+lapide requiescunt. Multa sunt quae de hac materia
+dici potuissent, si hoc loco dici debuissent et moderatae
+digressionis mensuram non excederent. Puto
+enim hoc novissimum genus lapidum omnium esse
+dignissimum atque pretiosissimum. Nullum tamen
+debemus spernere, sed singulos saltem de singulis
+quaerere, et in unum congregare.</p>
+<p>Notandum sane hoc esse primum opus, quod in
+terra promissionis fieri praecipitur, ut divinorum operum
+aeternum memoriale primo omnium constituatur.
+Sine hoc enim lapidum cumulo, Dominica illa
+aeternae haereditatis promissio nunquam fortiter acquiritur,
+nunquam secure possidetur. Qui enim beneficiorum
+<pb n="1116C"/>
+divinitus perceptorum obliviscitur, ad majora
+obtinenda promoveri non meretur.
+</p>
+</div2>
+      </div1>
+</body>
+  </text>
+</TEI>
