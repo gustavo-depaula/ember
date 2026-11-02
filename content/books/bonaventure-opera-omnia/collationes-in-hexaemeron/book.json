@@ -1,0 +1,180 @@
+{
+  "id": "bonaventure-collationes-in-hexaemeron",
+  "cover": "classic",
+  "name": {
+    "la": "Collationes in Hexaemeron",
+    "en-US": "Collations on the Six Days",
+    "pt-BR": "Colações sobre o Hexâmeron"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Collationes in Hexaemeron, quas Parisiis anno 1273 habuit Bonaventura, unde de lumine fidei per sex visiones intellectus ad sapientiam ascendit. Textus ex editione Quaracchi (Opera omnia V, 1891), ex scanno OCR, sine notis criticis.",
+    "en-US": "The Collations on the Hexaemeron, Bonaventure’s unfinished Paris lectures of 1273 on the six days of creation, which lead the intellect through six visions toward wisdom. The text is the Quaracchi edition (Opera omnia V, 1891) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "As Colações sobre o Hexâmeron, conferências inacabadas de Boaventura em Paris (1273) sobre os seis dias da criação."
+  },
+  "composed": "1273",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/collationes-in-hexaemeron",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1891
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic05bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. V (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1891), pp. 327-449.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ Summarium and footnotes (variant readings, cross-references) are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1891 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "la": "Collatio I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Collatio II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Collatio III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Collatio IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Collatio V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Collatio VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Collatio VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Collatio VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Collatio IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Collatio X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Collatio XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Collatio XII"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Collatio XIII"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Collatio XIV"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Collatio XV"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Collatio XVI"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Collatio XVII"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Collatio XVIII"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Collatio XIX"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Collatio XX"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Collatio XXI"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Collatio XXII"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "la": "Collatio XXIII"
+      }
+    }
+  ]
+}
