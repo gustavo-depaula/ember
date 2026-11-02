@@ -1,0 +1,270 @@
+{
+  "id": "granada-cartas",
+  "cover": "quarter",
+  "name": {
+    "es-ES": "Cartas",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "es-ES": "Fray Luis de Granada",
+    "en-US": "Ven. Louis of Granada",
+    "pt-BR": "Frei Luís de Granada"
+  },
+  "description": {
+    "es-ES": "Las cartas de Fray Luis de Granada reunidas por Cuervo (a Felipe II y su secretario Zayas, a san Carlos Borromeo, a Juan de Ribera, a los jesuitas Ribadeneira y Guzmán, al General de la Compañía y otros), 1560-1588.",
+    "en-US": "The letters of Fray Luis de Granada gathered by Cuervo (to Philip II and his secretary Zayas, to St Charles Borromeo, to Juan de Ribera, to the Jesuits Ribadeneira and Guzmán, to the General of the Society and others), 1560-1588.",
+    "pt-BR": "As cartas de Frei Luís de Granada reunidas por Cuervo (a Filipe II e seu secretário Zayas, a são Carlos Borromeu, a João de Ribera, aos jesuítas Ribadeneira e Guzmán, ao Geral da Companhia e outros), 1560-1588."
+  },
+  "composed": "1560-1588",
+  "languages": [
+    "es-ES"
+  ],
+  "work": "louis-of-granada/cartas",
+  "editions": {
+    "es-ES": {
+      "editor": "Justo Cuervo OP",
+      "year": 1906
+    }
+  },
+  "sources": [
+    {
+      "language": "es-ES",
+      "url": "https://archive.org/details/obrascue14luisuoft",
+      "edition": "Fr. Luis de Granada, Obras, ed. Justo Cuervo OP, vol. 14 (Madrid: Viuda e hija de Gómez Fuentenebro, 1906-1908). Text of the pieces as Cuervo prints them.",
+      "description": "Letters I-XLV as the OCR gave them. OCR of the University of Toronto scan, cleaned by script (running heads, page numbers and the editor's prologue removed; lost initial capitals restored from the corpus vocabulary), not proofread.",
+      "tier": "A",
+      "tierEvidence": "Granada's text of the 16th century, reprinted in 1906; Cuervo's edition is in the public domain on archive.org."
+    }
+  ],
+  "toc": [
+    {
+      "id": "c01",
+      "title": {
+        "es-ES": "Carta 1. A un Padre Jesuíta"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "es-ES": "Carta 4. Al Reverendisimo y Serenísimo Infante Don Enrique^"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "es-ES": "Carta 5. Al Beato Juan de Ribera, obispo de Badajoz"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "es-ES": "Carta 6. Al Duque de Feria"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "es-ES": "Carta 7. A un sacerdote"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "es-ES": "Carta 8"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "es-ES": "Carta 9. Á Gabriel de Zayas, secretario de Felipe II"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "es-ES": "Carta 10. Á Gabriel de Zayas, secretario del rey Felipe II"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "es-ES": "Carta 11. A la Católica Majestad del rey Don Filipe, nuestro Señor"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "es-ES": "Carta 12. Al Cristiano Lector"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "es-ES": "Carta 13. Al rey Felipe II"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "es-ES": "Carta 14. A Gabriel de Zayas, secretario de Felipe 11"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "es-ES": "Carta 15. A Gabriel de Zayas, secretario de Felipe II"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "es-ES": "Carta 16"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "es-ES": "Carta 18. Al rey Felipe II"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "es-ES": "Carta 19. A Gabriel de Zayas, secretario de Felipe II {^)-"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "es-ES": "Carta 20. Al Lector"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "es-ES": "Carta 21. Al P. Pedro de Rihadeneira"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "es-ES": "Carta 22. Á San Carlos Borromeo"
+      }
+    },
+    {
+      "id": "c23",
+      "title": {
+        "es-ES": "Carta 23. Á San Carlos Borrotneo"
+      }
+    },
+    {
+      "id": "c24",
+      "title": {
+        "es-ES": "Carta 24. Al Beato Juan de Ribera, arzobispo de Vale?tcia"
+      }
+    },
+    {
+      "id": "c25",
+      "title": {
+        "es-ES": "Carta 25. A S. Carlos Borromeo"
+      }
+    },
+    {
+      "id": "c26",
+      "title": {
+        "es-ES": "Carta 26"
+      }
+    },
+    {
+      "id": "c28",
+      "title": {
+        "es-ES": "Carta 28. A ¡a Duquesa de Alba"
+      }
+    },
+    {
+      "id": "c29",
+      "title": {
+        "es-ES": "Carta 29"
+      }
+    },
+    {
+      "id": "c30",
+      "title": {
+        "es-ES": "Carta 30. Al Beato Juan de Ribera, arzobispo de Valencia"
+      }
+    },
+    {
+      "id": "c31",
+      "title": {
+        "es-ES": "Carta 31. Al Padre Pedro de Ribadeneira"
+      }
+    },
+    {
+      "id": "c32",
+      "title": {
+        "es-ES": "Carta 32. Al Padre Pedro de Rivadeneira"
+      }
+    },
+    {
+      "id": "c34",
+      "title": {
+        "es-ES": "Carta 34"
+      }
+    },
+    {
+      "id": "c35",
+      "title": {
+        "es-ES": "Carta 35. Al Beato Juan de Rivera, Arzobispo de Valencia"
+      }
+    },
+    {
+      "id": "c36",
+      "title": {
+        "es-ES": "Carta 36. Al Padre Diego de Guzmán"
+      }
+    },
+    {
+      "id": "c37",
+      "title": {
+        "es-ES": "Carta 37. Al P. Diego de Gtizmán"
+      }
+    },
+    {
+      "id": "c38",
+      "title": {
+        "es-ES": "Carta 38. Al P. Pedro de Rihadeneira"
+      }
+    },
+    {
+      "id": "c39",
+      "title": {
+        "es-ES": "Carta 39. Al P. Pedro de Rihadeneira"
+      }
+    },
+    {
+      "id": "c40",
+      "title": {
+        "es-ES": "Carta 40. Al P. Juan Diaz"
+      }
+    },
+    {
+      "id": "c41",
+      "title": {
+        "es-ES": "Carta 41. Al Rmo. Padre General de la Compañía de Jesús"
+      }
+    },
+    {
+      "id": "c44",
+      "title": {
+        "es-ES": "Carta 44. Al Rmo. Padre General de la Compañía de Jesús"
+      }
+    },
+    {
+      "id": "c45",
+      "title": {
+        "es-ES": "Carta 45. Al P. Pedro de Ribadeneira"
+      }
+    }
+  ]
+}
