@@ -170,7 +170,7 @@ def roman(n):
 
 def head_roman(t):
     """Roman numeral token at the end of an OCR'd head ('COLLATIO XIIL' -> 'XIII'), None if there is none."""
-    m = re.search(r'\b([IiVXLlUYKH1NnJT]{1,7})\.?\s*$', t)
+    m = re.search(r'\b([IiVXLlUYKH1NnJTvx]{1,7})\.?\s*$', t)
     if not m: return None
     r = m.group(1).replace('n', 'II').replace('N', 'II').replace('l', 'I').replace('J', 'I').replace('T', 'I').upper().replace('1', 'I').replace('Y', 'V').replace('K', 'V').replace('U', 'II').replace('H', 'II')
     if r.endswith('L'): r = r[:-1] + 'I'

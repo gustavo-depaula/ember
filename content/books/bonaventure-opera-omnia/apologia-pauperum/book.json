@@ -1,0 +1,120 @@
+{
+  "id": "bonaventure-apologia-pauperum",
+  "cover": "classic",
+  "name": {
+    "la": "Apologia pauperum",
+    "en-US": "Defence of the Poor",
+    "pt-BR": "Apologia dos pobres"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Apologia pauperum contra calumniatorem (Gerardum de Abbatisvilla), in duodecim capitulis, de perfectione evangelica et paupertate Ordinis. Textus ex editione Quaracchi (Opera omnia VIII, 1898), ex scanno OCR, sine notis criticis.",
+    "en-US": "The Apologia pauperum, in twelve chapters, Bonaventure’s reply to Gerard of Abbeville on evangelical perfection and the poverty of the Friars Minor. The Latin is the Quaracchi edition (Opera omnia VIII, 1898) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Apologia dos pobres."
+  },
+  "composed": "c. 1269",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/apologia-pauperum",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1898
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic08bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. VIII (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1898), pp. 233-330.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type scholia are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1898 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Capitulum I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Capitulum II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Capitulum III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Capitulum IV"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Capitulum V"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Capitulum VI"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Capitulum VII"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Capitulum VIII"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Capitulum IX"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Capitulum X"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Capitulum XI"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Capitulum XII"
+      }
+    }
+  ]
+}
