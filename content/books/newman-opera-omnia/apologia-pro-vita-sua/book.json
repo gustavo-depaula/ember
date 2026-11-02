@@ -1,0 +1,141 @@
+{
+  "id": "newman-apologia-pro-vita-sua",
+  "cover": "classic",
+  "name": {
+    "en-US": "Apologia pro Vita Sua",
+    "pt-BR": "Apologia pro Vita Sua"
+  },
+  "author": {
+    "en-US": "John Henry Newman",
+    "pt-BR": "John Henry Newman"
+  },
+  "description": {
+    "en-US": "Newman's history of his religious opinions (1865 text), written in 1864 in answer to Charles Kingsley's charge that he had taught that truth was no virtue for the Catholic clergy. Five chapters tell his life from childhood through the Oxford Movement to his reception into the Church in 1845, with the Preface, Notes A to G on liberalism, miracles, the economy and equivocation, and the additional notes and letters of the 1865 edition.",
+    "pt-BR": "A história das opiniões religiosas de Newman (texto de 1865), escrita em 1864 em resposta à acusação de Charles Kingsley de que ele ensinara que a verdade não era virtude para o clero católico. Cinco capítulos narram sua vida desde a infância, passando pelo Movimento de Oxford, até a recepção na Igreja em 1845, com o Prefácio, as Notas A a G e as notas e cartas adicionais da edição de 1865."
+  },
+  "composed": "1864-1865",
+  "languages": [
+    "en-US"
+  ],
+  "work": "newman/apologia-pro-vita-sua",
+  "editions": {
+    "en-US": {
+      "editor": "John Henry Newman (author's revised text of 1865; Newman Reader follows Longmans, new impression 1908)",
+      "year": 1865
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.newmanreader.org/works/apologia65/index.html",
+      "edition": "Apologia pro Vita Sua, being a reply to a pamphlet entitled \"What, then, does Dr Newman mean?\" (London: Longmans, Green, 1865 text; Newman Reader transcription of the Longmans new impression of 1908).",
+      "description": "17 chapters: Newman Reader page numbers, navigation and its editorial remarks are dropped; Newman's own notes are kept as footnotes. Left out: the Belloc foreword, the list of Newman's works and the empty Supplemental Matter heading. Page references in note titles (\"On Page 14\") are kept as Newman printed them. Raw page text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Public domain: Newman died in 1890 and the text is of a Longmans impression (or earlier edition) before 1930. The Newman Reader page footers claim copyright in the site's transcription (c) 2007 NINS; a plain transcription of a public-domain text adds no authorship under US law."
+    }
+  ],
+  "toc": [
+    {
+      "id": "preface",
+      "title": {
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "chapter-1",
+      "title": {
+        "en-US": "Chapter 1. History of My Religious Opinions to the Year 1833"
+      }
+    },
+    {
+      "id": "chapter-2",
+      "title": {
+        "en-US": "Chapter 2. History of My Religious Opinions from 1833 to 1839"
+      }
+    },
+    {
+      "id": "chapter-3",
+      "title": {
+        "en-US": "Chapter 3. History of My Religious Opinions from 1839 to 1841"
+      }
+    },
+    {
+      "id": "chapter-4-1",
+      "title": {
+        "en-US": "Chapter 4, Part 1. History of My Religious Opinions from 1841 to 1845"
+      }
+    },
+    {
+      "id": "chapter-4-2",
+      "title": {
+        "en-US": "Chapter 4, Part 2. History of My Religious Opinions from 1841 to 1845"
+      }
+    },
+    {
+      "id": "chapter-5",
+      "title": {
+        "en-US": "Chapter 5. Position of my Mind since 1845"
+      }
+    },
+    {
+      "id": "note-a",
+      "title": {
+        "en-US": "Note A. On Page 14. Liberalism"
+      }
+    },
+    {
+      "id": "note-b",
+      "title": {
+        "en-US": "Note B. On Page 23. Ecclesiastical Miracles"
+      }
+    },
+    {
+      "id": "note-c",
+      "title": {
+        "en-US": "Note C. On Page 153. Sermon on Wisdom and Innocence"
+      }
+    },
+    {
+      "id": "note-d",
+      "title": {
+        "en-US": "Note D. On Page 213. Series of Saints' Lives of 1843-4"
+      }
+    },
+    {
+      "id": "note-e",
+      "title": {
+        "en-US": "Note E. On Page 227. The Anglican Church"
+      }
+    },
+    {
+      "id": "note-f",
+      "title": {
+        "en-US": "Note F. On Page 269. The Economy"
+      }
+    },
+    {
+      "id": "note-g",
+      "title": {
+        "en-US": "Note G. On Page 279. Lying and Equivocation"
+      }
+    },
+    {
+      "id": "bishop-ullathorne",
+      "title": {
+        "en-US": "Letter of Approbation from Bishop Ullathorne"
+      }
+    },
+    {
+      "id": "letters-of-approbation",
+      "title": {
+        "en-US": "Letters of Approbation from Clergy and Laity"
+      }
+    },
+    {
+      "id": "additional-notes",
+      "title": {
+        "en-US": "Additional Notes"
+      }
+    }
+  ]
+}
