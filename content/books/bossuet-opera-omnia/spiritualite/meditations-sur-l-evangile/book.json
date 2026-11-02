@@ -1,0 +1,2134 @@
+{
+  "id": "bossuet-meditations-sur-l-evangile",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Méditations sur l’Évangile",
+    "en-US": "Meditations on the Gospel",
+    "pt-BR": "Meditações sobre o Evangelho"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Méditation quotidienne sur les discours du Seigneur, journée après journée : le Sermon sur la montagne, la préparation à la dernière semaine du Sauveur, ses derniers jours à Jérusalem et le discours après la Cène. Écrites pour les religieuses de la Visitation de Meaux (1695), publiées en 1731. Édition Lachat (1863).",
+    "en-US": "Day-by-day meditation on the discourses of the Lord: the Sermon on the Mount, the preparation for the Saviour’s last week, his last days in Jerusalem and the discourse after the Supper. Written for the Visitation nuns of Meaux (1695) and published in 1731. Lachat edition (1863).",
+    "pt-BR": "Meditação diária sobre os discursos do Senhor, jornada após jornada: o Sermão da Montanha, a preparação para a última semana do Salvador, seus últimos dias em Jerusalém e o discurso depois da Ceia. Escritas para as religiosas da Visitação de Meaux (1695) e publicadas em 1731. Edição Lachat (1863)."
+  },
+  "composed": "1695",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/meditations-sur-l-evangile",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1863
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume006/002.htm to 010.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume VI, pages 002-010. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "remarques-historiques",
+      "title": {
+        "fr-FR": "Remarques historiques"
+      }
+    },
+    {
+      "id": "avertissement",
+      "title": {
+        "fr-FR": "Avertissement"
+      }
+    },
+    {
+      "id": "sermon-sur-la-montagne",
+      "title": {
+        "fr-FR": "Sermon de Notre-Seigneur sur la montagne"
+      },
+      "children": [
+        {
+          "id": "montagne-001",
+          "title": {
+            "fr-FR": "Première journée. Abrégé du sermon. La félicité éternelle proposée sous divers noms dans les huit béatitudes. Matth., V, 1, 12"
+          }
+        },
+        {
+          "id": "montagne-002",
+          "title": {
+            "fr-FR": "IIe journée. Première béatitude: être pauvres d'esprit. Matth., V, 3"
+          }
+        },
+        {
+          "id": "montagne-003",
+          "title": {
+            "fr-FR": "IIIe journée. Seconde béatitude: être doux. Matth., V, 4"
+          }
+        },
+        {
+          "id": "montagne-004",
+          "title": {
+            "fr-FR": "IVe journée. Troisième béatitude: être dans les pleurs. Matth., V, 5"
+          }
+        },
+        {
+          "id": "montagne-005",
+          "title": {
+            "fr-FR": "Ve journée. Quatrième béatitude: avoir faim et soif de la justice. Matth., V, 6"
+          }
+        },
+        {
+          "id": "montagne-006",
+          "title": {
+            "fr-FR": "VIe journée. Cinquième béatitude: être miséricordieux. Matth., V, 7"
+          }
+        },
+        {
+          "id": "montagne-007",
+          "title": {
+            "fr-FR": "VIIe journée. Sixième béatitude: avoir le coeur pur. Matth., V, 8"
+          }
+        },
+        {
+          "id": "montagne-008",
+          "title": {
+            "fr-FR": "VIIIe journée. Septième béatitude: être pacifiques. Matth., V, 9"
+          }
+        },
+        {
+          "id": "montagne-009",
+          "title": {
+            "fr-FR": "IXe journée. Huitième et dernière béatitude: souffrir pour la justice. Matth., V, 10"
+          }
+        },
+        {
+          "id": "montagne-010",
+          "title": {
+            "fr-FR": "Xe journée. Vrai caractère du chrétien dans les huit béatitudes avec les caractères opposés. Matth., V, 3, 12; Luc, VI, 20, 27"
+          }
+        },
+        {
+          "id": "montagne-011",
+          "title": {
+            "fr-FR": "XIe journée. Quatre caractères du chrétien. Matth., V, 13, 20"
+          }
+        },
+        {
+          "id": "montagne-012",
+          "title": {
+            "fr-FR": "XIIe journée. Excellence de la justice chrétienne au-dessus de celle des païens et des Juifs. Matth., V, 20, 47"
+          }
+        },
+        {
+          "id": "montagne-013",
+          "title": {
+            "fr-FR": "XIIIe journée. Haine, colère, \"parole injurieuse: quelle en est la punition. Matth., V, 21, 22"
+          }
+        },
+        {
+          "id": "montagne-014",
+          "title": {
+            "fr-FR": "XIVe journée. Réconciliation. Matth., V, 23, 26"
+          }
+        },
+        {
+          "id": "montagne-015",
+          "title": {
+            "fr-FR": "XVe journée. Délicatesse de la chasteté: s'arracher l'œil: se couper la main indissolubilité du mariage. Matth., V, 27, 32"
+          }
+        },
+        {
+          "id": "montagne-016",
+          "title": {
+            "fr-FR": "XVIe journée. Ne jurer point: simplicité chrétienne. Matth., V, 33, 37"
+          }
+        },
+        {
+          "id": "montagne-017",
+          "title": {
+            "fr-FR": "XVIIe journée. Charité fraternelle: étendue de la perfection chrétienne. Matth., V, 38, 43"
+          }
+        },
+        {
+          "id": "montagne-018",
+          "title": {
+            "fr-FR": "XVIIIe journée. Etendue de la perfection chrétienne. Matth., V, 40-48"
+          }
+        },
+        {
+          "id": "montagne-019",
+          "title": {
+            "fr-FR": "XIXe journée. Rechutes. Luc, XI, 21, 26; S. Paul., Hebr., VI, 4, 9; II Petr., II, 20-22"
+          }
+        },
+        {
+          "id": "montagne-020",
+          "title": {
+            "fr-FR": "XXe journée. Vaine gloire dans les bonnes œuvres. Matth., VI, I, 4"
+          }
+        },
+        {
+          "id": "montagne-021",
+          "title": {
+            "fr-FR": "XXIe journée. Prière et présence de Dieu dans le secret. Matth., VI, 5-8"
+          }
+        },
+        {
+          "id": "montagne-022",
+          "title": {
+            "fr-FR": "XXIIe journée. Oraison Dominicale: Notre Père. Matth., VI, 9"
+          }
+        },
+        {
+          "id": "montagne-023",
+          "title": {
+            "fr-FR": "XXIIIe journée. Notre Père, qui êtes aux cieux. Matth. VI, 9"
+          }
+        },
+        {
+          "id": "montagne-024",
+          "title": {
+            "fr-FR": "XXIVe journée. Votre nom soit sanctifié. Matth., VI, 9, 10"
+          }
+        },
+        {
+          "id": "montagne-025",
+          "title": {
+            "fr-FR": "XXVe journée. Donnez-nous aujourd'hui notre pain de chaque jour. Matth., VI, 11"
+          }
+        },
+        {
+          "id": "montagne-026",
+          "title": {
+            "fr-FR": "XXVIe journée. Pardonnez-nous comme nous pardonnons. Matth., VI, 12, 14, 15"
+          }
+        },
+        {
+          "id": "montagne-027",
+          "title": {
+            "fr-FR": "XXVIIe journée. Ne nous induisez point en tentation: mais délivrez-nous du mal. Matth., VI, 13"
+          }
+        },
+        {
+          "id": "montagne-028",
+          "title": {
+            "fr-FR": "XXVIIIe journée. Du jeune. Matth., VI, 46-18"
+          }
+        },
+        {
+          "id": "montagne-029",
+          "title": {
+            "fr-FR": "XXIXe journée. Trésor dans le ciel: œil simple: impossibilité de servir deux maîtres. Matth., VI, 10, 20, 24"
+          }
+        },
+        {
+          "id": "montagne-030",
+          "title": {
+            "fr-FR": "XXXe journée. Ne se point inquiéter pour cette vie: se confier en la Providence. Matth., VI, 25, 26 et suiv"
+          }
+        },
+        {
+          "id": "montagne-031",
+          "title": {
+            "fr-FR": "XXXIe journée. Ne ressembler pas les païens. Matth., VI,32"
+          }
+        },
+        {
+          "id": "montagne-032",
+          "title": {
+            "fr-FR": "XXXIIe journée. Chercher Dieu et sa justice, et comment. Matth., VI,33, 34"
+          }
+        },
+        {
+          "id": "montagne-033",
+          "title": {
+            "fr-FR": "XXXIIIe journée. Encore de l'avarice et des richesses. Ne mettre pas sa confiance en ce qu'on possède. Luc, XII, 15, 16 et suiv"
+          }
+        },
+        {
+          "id": "montagne-034",
+          "title": {
+            "fr-FR": "XXXIVe journée. Considérer ce que Dieu fait pour le commun des plantes et des animaux: se regarder comme son troupeau favori. Luc., XII, 22, 24, 29 et suiv"
+          }
+        },
+        {
+          "id": "montagne-035",
+          "title": {
+            "fr-FR": "XXXVe journée. Le même sujet. Se garder de toute avarice. Luc, XII, 15, 21"
+          }
+        },
+        {
+          "id": "montagne-036",
+          "title": {
+            "fr-FR": "XXXVIe journée. Ne point juger. Matth., VII, 1, 2 et suiv"
+          }
+        },
+        {
+          "id": "montagne-037",
+          "title": {
+            "fr-FR": "XXXVIIe journée. Voir les moindres fautes d'autrui, et ne voir pas en soi les plus grandes. Matth., VII, 3, 4, 5"
+          }
+        },
+        {
+          "id": "montagne-038",
+          "title": {
+            "fr-FR": "XXXVIIIe journée. La chose sainte: discernement dans la prédication de l'Evangile. Matth., VII, 6"
+          }
+        },
+        {
+          "id": "montagne-039",
+          "title": {
+            "fr-FR": "XXXIXe journée. Prier avec foi: demander: chercher: frapper. Matth., VII, 7"
+          }
+        },
+        {
+          "id": "montagne-040",
+          "title": {
+            "fr-FR": "XLe journée. Persévérance et humilité dans la prière. Matth., VII, 7, 8; Luc, XI, 5, 6 et seq"
+          }
+        },
+        {
+          "id": "montagne-041",
+          "title": {
+            "fr-FR": "XLIe journée. Prière perpétuelle. Luc, XVIII, 1, 8"
+          }
+        },
+        {
+          "id": "montagne-042",
+          "title": {
+            "fr-FR": "XLIIe journée. Importuner Dieu par des cris vifs et redoublés. Luc, XVIII, 4, 5, 7"
+          }
+        },
+        {
+          "id": "montagne-043",
+          "title": {
+            "fr-FR": "XLIIIe journée. Motifs d'espérance dans la prière. Matth., VII, 11"
+          }
+        },
+        {
+          "id": "montagne-044",
+          "title": {
+            "fr-FR": "XLIVe journée. Demander par Jésus-Christ. Qualités d'une parfaite prière. Joan., XVI, 23, 37"
+          }
+        },
+        {
+          "id": "montagne-045",
+          "title": {
+            "fr-FR": "XLVe journée. Abrégé de la morale chrétienne, et à quoi elle se termine. Matth., VII, 12, 20"
+          }
+        },
+        {
+          "id": "montagne-046",
+          "title": {
+            "fr-FR": "XLVIe journée. En quoi consiste la vraie vertu. Matth., VII, 21"
+          }
+        },
+        {
+          "id": "montagne-047",
+          "title": {
+            "fr-FR": "XLVIIe journée. Admirables effets et invincible puissance de la doctrine de Jésus-Christ. Matth., VII, 28, 29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": {
+        "fr-FR": "Préparation à la dernière semaine du Sauveur"
+      },
+      "children": [
+        {
+          "id": "preparation-0",
+          "title": {
+            "fr-FR": "Préambule"
+          }
+        },
+        {
+          "id": "preparation-001",
+          "title": {
+            "fr-FR": "Première journée. Le mystère de la croix prédit par Jésus-Christ, et non compris par les apôtres: combien on craint de suivre Jésus à la croix. Matth., XX, 17 jusqu'au 29; Marc, x, 32 jusqu'au 46; Luc, XVIII, 31 jusqu'au 35"
+          }
+        },
+        {
+          "id": "preparation-002",
+          "title": {
+            "fr-FR": "IIe journée. Demande ambitieuse des enfant de Zébédée: calice et croix avant la gloire. Matth., XX; 20 et suiv.; Marc, X, 35 et suiv"
+          }
+        },
+        {
+          "id": "preparation-003",
+          "title": {
+            "fr-FR": "III journée. Victoire et puissance de Jésus-Christ contre la mort dans la résurrection de Lazare. Joan., XI, 1 jusqu'au 46"
+          }
+        },
+        {
+          "id": "preparation-004",
+          "title": {
+            "fr-FR": "IVe journée. Même sujet. Les trois morts ressuscites par Notre-Seigneur, figures des trois états du pécheur. Joan., XI, 1 et suiv.; Matth., IX, 18, 25.; Marc, V, 35, 42; Luc, VII, 12, 15"
+          }
+        },
+        {
+          "id": "preparation-005",
+          "title": {
+            "fr-FR": "Ve journée. Amitié de Jésus modèle de la nôtre. Excellente manière de prier. Joan., XI, 1 et suiv"
+          }
+        },
+        {
+          "id": "preparation-006",
+          "title": {
+            "fr-FR": "VIe journée. Jésus-Christ mis en signe de contradiction: incrédulité des Juifs après la résurrection de Lazare. Joan., XI, 46 et suiv"
+          }
+        },
+        {
+          "id": "preparation-007",
+          "title": {
+            "fr-FR": "VIIe journée. Fausse et aveugle politique des Juifs dans la mort de Jésus-Christ, figure de la politique du siècle. Joan., XI, 48 et suiv"
+          }
+        },
+        {
+          "id": "preparation-008",
+          "title": {
+            "fr-FR": "VIIIe journée. Profusion des parfums sur la tête et les pieds de Jésus en différents temps. Joan., XII, 1, 12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "derniere-semaine",
+      "title": {
+        "fr-FR": "La dernière semaine du Sauveur"
+      },
+      "children": [
+        {
+          "id": "semaine-0",
+          "title": {
+            "fr-FR": "Préambule"
+          }
+        },
+        {
+          "id": "semaine-001",
+          "title": {
+            "fr-FR": "Première journée. Entrée triomphante de Notre-Seigneur dans Jérusalem: il y est reconnu roi, fils de David, et le Messie. Joan., XII, 12-20; Matth., XXI, 1-17; Marc, xi, 1-17; Luc, XIX, 28-48"
+          }
+        },
+        {
+          "id": "semaine-002",
+          "title": {
+            "fr-FR": "IIe journée. Le règne de Jésus-Christ sur les esprits et sur les cœurs, par ses miracles, par ses bienfaits et par sa parole. Joan., XII, 12-19; Matth., XXI, 1-17; Marc, XI, 1-18; Luc, XIX, 28-48"
+          }
+        },
+        {
+          "id": "semaine-003",
+          "title": {
+            "fr-FR": "IIIe journée. Entrée triomphante de Notre-Seigneur. Tout en avait été prédit jusqu'aux moindres circonstances, Ibid"
+          }
+        },
+        {
+          "id": "semaine-004",
+          "title": {
+            "fr-FR": "IVe journée. Jérusalem, figure de l’âme livrée au péché. Notre-Seigneur prédit ses malheurs"
+          }
+        },
+        {
+          "id": "semaine-005",
+          "title": {
+            "fr-FR": "Ve journée. Dernier séjour de Jésus-Christ en Jérusalem, plus digne de remarque. Lisez Matth., XXI, 10-15; Marc, XI, 11-18; Luc, XIX, 45, jusqu'à la fin"
+          }
+        },
+        {
+          "id": "semaine-006",
+          "title": {
+            "fr-FR": "VIe journée. Caractère d'autorité dans le triomphe de Jésus-Christ. Son zèle pour la sainteté du temple. Ibid"
+          }
+        },
+        {
+          "id": "semaine-007",
+          "title": {
+            "fr-FR": "VIIe journée. Caractère d'humiliation dans le triomphe du Sauveur. Jalousie des Pharisiens. Joan., XII, 18 et suiv.; Matth., XXI, 15; Luc, XIX, 39-40"
+          }
+        },
+        {
+          "id": "semaine-008",
+          "title": {
+            "fr-FR": "VIIIe journée. Le même sujet. Ibid"
+          }
+        },
+        {
+          "id": "semaine-009",
+          "title": {
+            "fr-FR": "IXe journée. Jésus donne lui-même et son triomphe le caractère d'humiliation et de mort qu'il devait avoir. Effets différents que fait le triomphe de Jésus-Christ dans les Juifs et dans les Gentils. Joan., XII, 19-27"
+          }
+        },
+        {
+          "id": "semaine-010",
+          "title": {
+            "fr-FR": "Xe journée. Jésus-Christ est le grain de froment. Les membres doivent mourir comme le chef. Joan., XII, 25"
+          }
+        },
+        {
+          "id": "semaine-011",
+          "title": {
+            "fr-FR": "XIe journée. Suivre Jésus à l'humiliation, à la mort. Joan., XII, 26"
+          }
+        },
+        {
+          "id": "semaine-012",
+          "title": {
+            "fr-FR": "XIIe journée. Caractère d'humiliation et de mort dans le triomphe de Jésus. Le trouble de son âme est notre instruction et notre remède. Ibid., 27, 28"
+          }
+        },
+        {
+          "id": "semaine-013",
+          "title": {
+            "fr-FR": "XIIIe journée. Trouble de Jésus. Combat et victoire, notre modèle. Ibid"
+          }
+        },
+        {
+          "id": "semaine-014",
+          "title": {
+            "fr-FR": "XIVe journée. Voix du ciel rend témoignage à la gloire de Jésus dans son triomphe. Joan., XII, 28, 30"
+          }
+        },
+        {
+          "id": "semaine-015",
+          "title": {
+            "fr-FR": "XVe journée. Mystère de la voix céleste: Le monde va être jugé en jugeant Jésus-Christ. Joan., XII, 31-34"
+          }
+        },
+        {
+          "id": "semaine-016",
+          "title": {
+            "fr-FR": "XVIe journée. Vertu de la croix. Jésus tire tout par la croix. Le suivre jusqu'à la croix. Ibid"
+          }
+        },
+        {
+          "id": "semaine-017",
+          "title": {
+            "fr-FR": "XVIIe journée. Les incrédules n'ouvrent point les yeux à la lumière: ils marchent dans les ténèbres. Joan., XII, 34-37"
+          }
+        },
+        {
+          "id": "semaine-018",
+          "title": {
+            "fr-FR": "XVIIIe journée. Etat de ceux de qui la lumière se retire. Jésus se cache d'eux. Merveilles de cette journée de triomphe, Ibid"
+          }
+        },
+        {
+          "id": "semaine-019",
+          "title": {
+            "fr-FR": "XIXe journée. Réflexions sur les merveilles de la première journée. Il faut continuer sans relâche l'œuvre de Dieu à l'exemple de Jésus-Christ"
+          }
+        },
+        {
+          "id": "semaine-020",
+          "title": {
+            "fr-FR": "XXe journée. Figuier desséché: figure de l’âme stérile et sans bonnes œuvres. Matth., XXI, 18, 24; Marc, XI, 12, 28"
+          }
+        },
+        {
+          "id": "semaine-021",
+          "title": {
+            "fr-FR": "XXIe journée. Le prodige des prodiges: l'homme revêtu de la puissance de Dieu par la foi et par la prière. Matth., XXI, 21, 22; Marc, XI, 22, 24"
+          }
+        },
+        {
+          "id": "semaine-022",
+          "title": {
+            "fr-FR": "XXIIe journée. La prière persévérante; elle tient de la plénitude de la foi. Ibid"
+          }
+        },
+        {
+          "id": "semaine-023",
+          "title": {
+            "fr-FR": "XXIIIe journée. Distinction des jours de la dernière semaine du Sauveur. Matière de ses derniers discours. Marc, XI, 11-33; Matth., XXI, 23-32; Luc, XX, 1-8"
+          }
+        },
+        {
+          "id": "semaine-024",
+          "title": {
+            "fr-FR": "XXIVe journée. Jésus refuse de répondre aux questions des Juifs superbes et incrédules; et répond aux esprits humbles et dociles. Matth., XXI, 27; Marc, XI, 33; Luc, XXI, 1, 2, 8"
+          }
+        },
+        {
+          "id": "semaine-025",
+          "title": {
+            "fr-FR": "XXVe journée. Aveuglement des hommes, plus disposés à croire saint Jean que Jésus-Christ même. Matth., XXI, 23, 25; Marc, XI, 27; Luc, XX, 1-8"
+          }
+        },
+        {
+          "id": "semaine-026",
+          "title": {
+            "fr-FR": "XXVI journée. Les Juifs incrédules confondus par le témoignage de saint Jean. Ibid., et Joan., V, 33, 36"
+          }
+        },
+        {
+          "id": "semaine-027",
+          "title": {
+            "fr-FR": "XXVIIe journée. Parabole des deux fils désobéissants. Application aux chrétiens lâches et tièdes et aux faux dévots. Matth., XXI, 28-31"
+          }
+        },
+        {
+          "id": "semaine-028",
+          "title": {
+            "fr-FR": "XXVIIIe journée. Parabole des vignerons, prise de David et d'Isaïe. Juste punition des Juifs: leur héritage transféré aux Gentils. Matth., XXI, 33-46; Marc., XII, 1-9; Luc, XX, 9-19"
+          }
+        },
+        {
+          "id": "semaine-029",
+          "title": {
+            "fr-FR": "XXIXe journée. Ce que c'est que rendre des fruits en son temps, et cette parole: L'héritage sera à nous. Matth., XXI, 41; Marc., XII, 7"
+          }
+        },
+        {
+          "id": "semaine-030",
+          "title": {
+            "fr-FR": "XXXe journée. Aveuglement des Juifs de méconnaître le Christ, qui est la pierre de l'angle qu'ils ont rejetée. Luc., XX, 15-20"
+          }
+        },
+        {
+          "id": "semaine-031",
+          "title": {
+            "fr-FR": "XXXIe journée. Parabole du festin des noces. Les Juifs sont les conviés qui refusent d'y venir. Matth., XXII, 1-15; Luc, XIV, 16-20"
+          }
+        },
+        {
+          "id": "semaine-032",
+          "title": {
+            "fr-FR": "XXXIIe journée. Les pauvres et les infirmes sont les conviés au festin. Forcez-les d'entrer. Matth., XXII, 8, 9; Luc, XIV, 21, 23"
+          }
+        },
+        {
+          "id": "semaine-033",
+          "title": {
+            "fr-FR": "XXXIIIe journée. Robe nuptiale, le festin est prêt: préparation à la sainte Eucharistie: noces spirituelles"
+          }
+        },
+        {
+          "id": "semaine-034",
+          "title": {
+            "fr-FR": "XXXIVe journée. Entrer au festin des noces sans l'habit nuptial. Beaucoup d'appelés et peu d'élus. Petit troupeau chéri de Dieu. Matth., XXII, 11-14"
+          }
+        },
+        {
+          "id": "semaine-035",
+          "title": {
+            "fr-FR": "XXXVe journée. Consultation frauduleuse, et décision pleine de merveille et de vérité. Rendez à César ce qui est à César, et à Dieu ce qui est à Dieu. Matth., XXII, 10-22; Marc, XII, 13-17; Luc, XX, 20-26"
+          }
+        },
+        {
+          "id": "semaine-036",
+          "title": {
+            "fr-FR": "XXXVIe journée. Injustice des Juifs envers Jésus-Christ. Jésus calomnié, opprimé par la puissance publique, en maintient l'autorité, lbid"
+          }
+        },
+        {
+          "id": "semaine-037",
+          "title": {
+            "fr-FR": "XXXVIIe journée. Réflexions sur ces paroles: De qui est cette image? Le chrétien est l'image de Dieu. Il doit vivre de la vie de Dieu. Matth., XXII, 20"
+          }
+        },
+        {
+          "id": "semaine-038",
+          "title": {
+            "fr-FR": "XXXVIIIe journée. Sur ces paroles: A Dieu ce qui est à Dieu. Ibid"
+          }
+        },
+        {
+          "id": "semaine-039",
+          "title": {
+            "fr-FR": "XXXIXe journée. Terrible punition des corrupteurs de l'image de Dieu. Ibid"
+          }
+        },
+        {
+          "id": "semaine-040",
+          "title": {
+            "fr-FR": "XLe journée. Question des sadducéens sur la femme qui « eu sept maris l'un après l'autre. Jésus-Christ détache le chrétien de tout le sensible. Lisez Matth., XXII, 23, 24; Marc, XII, 18, 19: et plus particulièrement Luc, XX, 27, jusqu'au 40, où tout est expliqué plus au long"
+          }
+        },
+        {
+          "id": "semaine-041",
+          "title": {
+            "fr-FR": "XLIe journée. Immortalité de l’âme; résurrection des corps. Luc, XX, 37, 38"
+          }
+        },
+        {
+          "id": "semaine-042",
+          "title": {
+            "fr-FR": "XLIIe journée. Le grand commandement de la loi, l'amour de Dieu et du prochain. Matth., XXII, 34, 36; Marc, XII, 28, 30; Luc, X, 27"
+          }
+        },
+        {
+          "id": "semaine-043",
+          "title": {
+            "fr-FR": "XLIIIe journée. Réflexion sur le même commandement dans la Loi. Deuter., VI, 4, 5, 10"
+          }
+        },
+        {
+          "id": "semaine-044",
+          "title": {
+            "fr-FR": "XLIVe journée. Accomplissement du précepte de l'amour, en tout temps, en tout lieu. Ibid"
+          }
+        },
+        {
+          "id": "semaine-045",
+          "title": {
+            "fr-FR": "XLVe journée. La loi inculque l'amour de Dieu avec une nouvelle force. Deuter., X, 12 et suiv"
+          }
+        },
+        {
+          "id": "semaine-046",
+          "title": {
+            "fr-FR": "XLVIe journée. Conclusion. Nécessaire d'aimer Dieu, et de garder ses préceptes. Deuter., XI, 1, 7, 18-20"
+          }
+        },
+        {
+          "id": "semaine-047",
+          "title": {
+            "fr-FR": "XLVIIe journée. Second commandement semblable au premier: l'amour du prochain. Matth., XXII, 39"
+          }
+        },
+        {
+          "id": "semaine-048",
+          "title": {
+            "fr-FR": "XLVIIIe journée. Réflexions sut notre amour pour Dieu et pour le prochain. Ibid"
+          }
+        },
+        {
+          "id": "semaine-049",
+          "title": {
+            "fr-FR": "XLIXe journée. Suite des mêmes réflexions. Lumière et délectation: attraits de l'amour de Dieu. lbid"
+          }
+        },
+        {
+          "id": "semaine-050",
+          "title": {
+            "fr-FR": "Le journée. Suite des mêmes réflexions. L'amour doit toujours croître, lbid"
+          }
+        },
+        {
+          "id": "semaine-051",
+          "title": {
+            "fr-FR": "LII journée. Pratique de la charité dans l'Oraison Dominicale"
+          }
+        },
+        {
+          "id": "semaine-052",
+          "title": {
+            "fr-FR": "LIIe journée. Jésus-Christ, Médiateur: Dieu: Roi: Pontife. Matth., XXII, 41, 44"
+          }
+        },
+        {
+          "id": "semaine-053",
+          "title": {
+            "fr-FR": "LIIIe journée. Chaire de Moise: Chaire de Jésus-Christ et des apôtres. Matth., XXIII, 1-3"
+          }
+        },
+        {
+          "id": "semaine-054",
+          "title": {
+            "fr-FR": "LIVe journée. L'autorité de la synagogue reconnue et recommandée par Jésus-Christ dans le temps même qu'elle conjure contre lui. lbid"
+          }
+        },
+        {
+          "id": "semaine-055",
+          "title": {
+            "fr-FR": "LVe journée. L'autorité de la synagogue cesse à la destruction du temple et du peuple de Dieu. Immobilité de l'Eglise chrétienne"
+          }
+        },
+        {
+          "id": "semaine-056",
+          "title": {
+            "fr-FR": "LVIe journée. Caractère des docteurs Juifs, sévères, orgueilleux et hypocrites. Matth., XXIII, 4-7"
+          }
+        },
+        {
+          "id": "semaine-057",
+          "title": {
+            "fr-FR": "LVIIe journée. Jésus-Christ seul Père, seul Maître. Matth., XXIII, 8-11"
+          }
+        },
+        {
+          "id": "semaine-058",
+          "title": {
+            "fr-FR": "LVIIIe journée. Les Vœ, ou les malheurs prononcés contre les faux docteurs. Matth., XXIII, 13, 15, 16"
+          }
+        },
+        {
+          "id": "semaine-059",
+          "title": {
+            "fr-FR": "LIXe journée. Docteurs Juifs, conducteurs aveugles et insensés. Ibid., 16 et suiv"
+          }
+        },
+        {
+          "id": "semaine-060",
+          "title": {
+            "fr-FR": "LXe journée. Guides aveugles, attachés aux petites choses et méprisant les grandes. Ibid., 23 et 24"
+          }
+        },
+        {
+          "id": "semaine-061",
+          "title": {
+            "fr-FR": "LXIe journée. Suite. Sépulcres blanchis. Ibid., 26 et 27"
+          }
+        },
+        {
+          "id": "semaine-062",
+          "title": {
+            "fr-FR": "LXIIe journée. Docteurs Juifs persécuteurs des prophètes: leur punition. Ibid., 29-36"
+          }
+        },
+        {
+          "id": "semaine-063",
+          "title": {
+            "fr-FR": "LXIIIe journée. Lamentations, pleurs de Jésus sur Jérusalem. Ibid., 37, 39"
+          }
+        },
+        {
+          "id": "semaine-064",
+          "title": {
+            "fr-FR": "LXIV journée. Vices des docteurs de la loi; ostentation; superstition; corruption; erreurs marquées par saint Marc et par saint Luc. Marc, XII, 38-40; Luc, XX, 46, 47"
+          }
+        },
+        {
+          "id": "semaine-065",
+          "title": {
+            "fr-FR": "LXVe journée. Les Vœ, ou les malheurs prononcés par Notre-Seigneur contre les docteurs de la loi. En saint Luc, XI, 42-44 et suiv"
+          }
+        },
+        {
+          "id": "semaine-066",
+          "title": {
+            "fr-FR": "LXVIe journée. Quel est le vrai prix de l'argent. Veuve donnant de son indigence. Marc., XII, 41-44; Luc, XXI, 1-4"
+          }
+        },
+        {
+          "id": "semaine-067",
+          "title": {
+            "fr-FR": "LXVIIe journée. Ruine de Jérusalem et du temple. Matth., XXIV, 1-23; Marc, XIII, 1-23; Luc, XXI, 5-24"
+          }
+        },
+        {
+          "id": "semaine-068",
+          "title": {
+            "fr-FR": "LXVIIIe journée. La ruine de Jérusalem et celle du monde: pourquoi prédites ensemble? Ibid"
+          }
+        },
+        {
+          "id": "semaine-069",
+          "title": {
+            "fr-FR": "LXIXe journée. Les marques particulières de la ruine de Jérusalem et de la fin du monde. Ibid"
+          }
+        },
+        {
+          "id": "semaine-070",
+          "title": {
+            "fr-FR": "LXXe journée. Les marques de distinction de ces deux événement expliqués encore plus en détail en saint Matthieu, en saint Marc et en saint Luc. Ibid"
+          }
+        },
+        {
+          "id": "semaine-071",
+          "title": {
+            "fr-FR": "LXXIe journée. Deux sièges de Jérusalem prédits par Notre-Seigneur. Le premier en saint Matth., XXIV, 15, 16; Marc, XIII, 14; Luc, XXI, 20. Le second en saint Luc, XIX, 43, 44"
+          }
+        },
+        {
+          "id": "semaine-072",
+          "title": {
+            "fr-FR": "LXXIIe journée. Réflexions sur les maux extrêmes de ces deux sièges. Ibid"
+          }
+        },
+        {
+          "id": "semaine-073",
+          "title": {
+            "fr-FR": "LXXIIIe journée. Suite des réflexions sur les mêmes calamités. Ibid"
+          }
+        },
+        {
+          "id": "semaine-074",
+          "title": {
+            "fr-FR": "LXXIVe journée. Réflexions sur les circonstances de la fin du monde. La terreur de l'impie. La confiance du fidèle. Matth., XXIV, 27-31; Luc, XXI, 25-28"
+          }
+        },
+        {
+          "id": "semaine-075",
+          "title": {
+            "fr-FR": "LXXVe journée. Le même sujet"
+          }
+        },
+        {
+          "id": "semaine-076",
+          "title": {
+            "fr-FR": "LXXVIe journée. Ces prédictions certaines: leur accomplissement proche: leur jour inconnu. Matth., XXIV, 34-36; Marc, XIII, 30-32"
+          }
+        },
+        {
+          "id": "semaine-077",
+          "title": {
+            "fr-FR": "LXXVIIe journée. Le jour du jugement dernier n'a pu être inconnu au Fils de Dieu. Marc, XIII, 32"
+          }
+        },
+        {
+          "id": "semaine-078",
+          "title": {
+            "fr-FR": "LXXVIIIe journée. Ce dernier jour est connu au Fils de Dieu, mais non pas pour nous l'apprendre. Marc., XIII, 32"
+          }
+        },
+        {
+          "id": "semaine-079",
+          "title": {
+            "fr-FR": "LXXIX journée. Raisons profondes de notre Sauveur d'user de ces réserves mystérieuses pour l'instruction de son Eglise: mais non pour autoriser les hommes à user d'équivoques et de restrictions mentales. Ibid"
+          }
+        },
+        {
+          "id": "semaine-080",
+          "title": {
+            "fr-FR": "LXXXe journée. Ce qui doit être commun à ces deux grands événements: séduction générale. Ibid"
+          }
+        },
+        {
+          "id": "semaine-081",
+          "title": {
+            "fr-FR": "LXXXIe journée. Le même sujet. Guerres, famines, pestes, tremblements de terre, maux extrêmes. Ibid"
+          }
+        },
+        {
+          "id": "semaine-082",
+          "title": {
+            "fr-FR": "LXXXIe journée. Persécution terrible de l'Eglise, trahisons, charité refroidie. Ibid"
+          }
+        },
+        {
+          "id": "semaine-083",
+          "title": {
+            "fr-FR": "LXXXIIIe journée. Réflexions sur plusieurs circonstances de ces deux événements. Ibid"
+          }
+        },
+        {
+          "id": "semaine-084",
+          "title": {
+            "fr-FR": "LXXXIVe journée. Réflexions sur d'autres circonstances. Ibid"
+          }
+        },
+        {
+          "id": "semaine-085",
+          "title": {
+            "fr-FR": "LXXXVe journée. Instructions à recueillir. Se tenir prêt: veiller à tonte heure. L'un pris, l'autre laissé. Matth., XXIV, 37-51; Marc, 33-37; Luc, XVII, 24"
+          }
+        },
+        {
+          "id": "semaine-086",
+          "title": {
+            "fr-FR": "LXXXVIe journée. Le Père de famille: ses serviteurs: la figure du voleur. Matth., XXIV, 45-47; Luc, XII, 41-44"
+          }
+        },
+        {
+          "id": "semaine-087",
+          "title": {
+            "fr-FR": "LXXXVIIe journee. L'économe fidèle et prudent: sa récompense, lbidl"
+          }
+        },
+        {
+          "id": "semaine-088",
+          "title": {
+            "fr-FR": "LXXXVIIIe journée. Le serviteur méchant et violent: sa punition. Ibid"
+          }
+        },
+        {
+          "id": "semaine-089",
+          "title": {
+            "fr-FR": "LXXXIXe journée. Vierges sages, et folles. Matth., XXV, 1-13"
+          }
+        },
+        {
+          "id": "semaine-090",
+          "title": {
+            "fr-FR": "XCe JOURNÉE. Parabole des dix talens et des dix mines. Matth., XXV, 14-30; Luc, XIX, 12-27"
+          }
+        },
+        {
+          "id": "semaine-091",
+          "title": {
+            "fr-FR": "Xciie journée. Jugement dernier. Matth., XXV, 31 jusqu'à la fin"
+          }
+        },
+        {
+          "id": "semaine-092",
+          "title": {
+            "fr-FR": "Xciie journée. Séparation des justes et des impies. Ibid"
+          }
+        },
+        {
+          "id": "semaine-093",
+          "title": {
+            "fr-FR": "Xciiie journée. Venez, bénis: Allez, maudits. Ibid"
+          }
+        },
+        {
+          "id": "semaine-094",
+          "title": {
+            "fr-FR": "Xcive journée. J'ai eu faim: j'ai eu soif. Nécessité de l'aumône: son mérite et sa récompense. Ibid"
+          }
+        },
+        {
+          "id": "semaine-095",
+          "title": {
+            "fr-FR": "Xcve journée. J'ai eu faim, j'ai eu soif, transportes m la personne de Jésus-Christ. Ibid"
+          }
+        },
+        {
+          "id": "semaine-096",
+          "title": {
+            "fr-FR": "Xcvi journée. Venez, les bénis de mon Père: récompense des justes. Ibid"
+          }
+        },
+        {
+          "id": "semaine-097",
+          "title": {
+            "fr-FR": "Xcviie journée. Retirez-vous, maudits: allez au feu éternel: condamnation des impies, lbid"
+          }
+        },
+        {
+          "id": "semaine-098",
+          "title": {
+            "fr-FR": "Xcviiie journée. Jérémie figure de Jésus-Christ. Prédictions de ce prophète"
+          }
+        },
+        {
+          "id": "semaine-099",
+          "title": {
+            "fr-FR": "Xcixe journée. Les souffrances de Jérémie"
+          }
+        },
+        {
+          "id": "semaine-100",
+          "title": {
+            "fr-FR": "Ce JOURNÉE. Jérémie persécuté par ses disciples. Autorité publique"
+          }
+        },
+        {
+          "id": "semaine-101",
+          "title": {
+            "fr-FR": "Cie journée. Jérémie dans le cachot ténébreux"
+          }
+        },
+        {
+          "id": "semaine-102",
+          "title": {
+            "fr-FR": "Ciie journée. Jérémie figure de Jésus-Christ par sa patience"
+          }
+        },
+        {
+          "id": "semaine-103",
+          "title": {
+            "fr-FR": "Ciiie journée. Patience de Jérémie dans le cachot"
+          }
+        },
+        {
+          "id": "semaine-104",
+          "title": {
+            "fr-FR": "Cive journée. Jérémie priant avec larmes pour son peuple qui l'outrage, figure de Jésus-Christ"
+          }
+        },
+        {
+          "id": "semaine-105",
+          "title": {
+            "fr-FR": "Cve journée. Jérémie excuse au moins son peuple, n'osant prier pour lui"
+          }
+        },
+        {
+          "id": "semaine-106",
+          "title": {
+            "fr-FR": "Cvie journée. Les Juifs mêmes reconnaissent Jérémie pour leur intercesseur"
+          }
+        },
+        {
+          "id": "semaine-107",
+          "title": {
+            "fr-FR": "Cviie journée. Dieu rejette l'intercession de ce prophète"
+          }
+        },
+        {
+          "id": "semaine-108",
+          "title": {
+            "fr-FR": "Cviiie journée. Regrets de Jérémie de n'être au monde que pour annoncer des malheurs"
+          }
+        },
+        {
+          "id": "semaine-109",
+          "title": {
+            "fr-FR": "Cixe journée. Jérémie annonce à son peuple sa délivrance"
+          }
+        },
+        {
+          "id": "semaine-110",
+          "title": {
+            "fr-FR": "Cxe journée. Jonas dans le ventre de la baleine; autre figure de Jésus-Christ"
+          }
+        },
+        {
+          "id": "semaine-111",
+          "title": {
+            "fr-FR": "Cxie journée. Prédication de Jonas à Ninive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cene-1",
+      "title": {
+        "fr-FR": "La Cène, première partie : ce qui s’est passé dans le cénacle"
+      },
+      "children": [
+        {
+          "id": "cene1-001",
+          "title": {
+            "fr-FR": "Première journée. Le Cénacle préparé"
+          }
+        },
+        {
+          "id": "cene1-002",
+          "title": {
+            "fr-FR": "IIe journée. La Pâque. La vie d'un chrétien n'est qu'un passage"
+          }
+        },
+        {
+          "id": "cene1-003",
+          "title": {
+            "fr-FR": "IIIe journée. Lavement des pieds. Puissance de Jésus-Christ, son humilité. Joan., XIII, 1-5"
+          }
+        },
+        {
+          "id": "cene1-004",
+          "title": {
+            "fr-FR": "IVe journée. Tout remis entre les mains de Jésus-Christ, spécialement les élus. Ibid"
+          }
+        },
+        {
+          "id": "cene1-005",
+          "title": {
+            "fr-FR": "Ve journée. Jésus-Christ, vrai Dieu et vrai homme. Joan., XIII, 3"
+          }
+        },
+        {
+          "id": "cene1-006",
+          "title": {
+            "fr-FR": "VIe journee. Jésus-Christ, Dieu de Dieu, sorti de Dieu. Joan., XV, 3"
+          }
+        },
+        {
+          "id": "cene1-007",
+          "title": {
+            "fr-FR": "VIIe journée. Jésus-Christ sorti de la gloire de Dieu, y devait retourner. Joan., XIII, 3"
+          }
+        },
+        {
+          "id": "cene1-008",
+          "title": {
+            "fr-FR": "VIIIe journée. Jésus-Christ en vient au lavement des pieds. Joan., XIII, 4"
+          }
+        },
+        {
+          "id": "cene1-009",
+          "title": {
+            "fr-FR": "IXe journée. Pierre refuse de se laisser laver les pieds, puis il obéit. Joan., XIII, 6-9"
+          }
+        },
+        {
+          "id": "cene1-010",
+          "title": {
+            "fr-FR": "Xe journée. Se laver des moindres taches. Vous êtes purs, mais non pas tous. Joan., XIII, 8, 10"
+          }
+        },
+        {
+          "id": "cene1-011",
+          "title": {
+            "fr-FR": "XIe journée. Judas lavé comme les autres. Joan., XIII, 10, 11"
+          }
+        },
+        {
+          "id": "cene1-012",
+          "title": {
+            "fr-FR": "XIIe journée. Lavement des pieds commandé. Bonté et humilité. Joan., XIII, 12-16"
+          }
+        },
+        {
+          "id": "cene1-013",
+          "title": {
+            "fr-FR": "XIIIe journée. Trouble de Jésus. Un de vous me trahira. Joan., XIII, 21"
+          }
+        },
+        {
+          "id": "cene1-014",
+          "title": {
+            "fr-FR": "XIVe journée. Qu'est-ce que le trouble de Jésus? Ibid"
+          }
+        },
+        {
+          "id": "cene1-015",
+          "title": {
+            "fr-FR": "XVe journée. L'horreur du péché, cause du trouble de Notre-Seigneur. Ibid"
+          }
+        },
+        {
+          "id": "cene1-016",
+          "title": {
+            "fr-FR": "XVIe journée. Ce trouble était volontaire en Notre-Seigneur et nécessaire pour nous. Ibid"
+          }
+        },
+        {
+          "id": "cene1-017",
+          "title": {
+            "fr-FR": "XVIIe journée. J'ai désiré d'un grand désir de manger cette pâque. Jésus-Christ notre pâque. Luc, XXII, 15"
+          }
+        },
+        {
+          "id": "cene1-018",
+          "title": {
+            "fr-FR": "XVIIIe journée. Jésus-Christ mange la Pâque avec nous: nous devons la manger avec lui"
+          }
+        },
+        {
+          "id": "cene1-019",
+          "title": {
+            "fr-FR": "XIXe journée. L'Eucharistie mémorial de la mort du Sauveur"
+          }
+        },
+        {
+          "id": "cene1-020",
+          "title": {
+            "fr-FR": "XXe journée. Paroles de Jésus pour toucher Judas de componction. Joan., XIII, 10-27"
+          }
+        },
+        {
+          "id": "cene1-021",
+          "title": {
+            "fr-FR": "XXIe journée. Pacte, et trahison de Judas. Joan., XIII, 27-30"
+          }
+        },
+        {
+          "id": "cene1-022",
+          "title": {
+            "fr-FR": "XXIIe journée. Institution de l'Eucharistie"
+          }
+        },
+        {
+          "id": "cene1-023",
+          "title": {
+            "fr-FR": "XXIIIe journée. Fruit de l'Eucharistie: vivre de la vie de Jésus-Christ. Ibid"
+          }
+        },
+        {
+          "id": "cene1-024",
+          "title": {
+            "fr-FR": "XXIVe journée. Par la Communion, le fidèle consommé m un avec Jésus-Christ. Matth., XXVI, 26"
+          }
+        },
+        {
+          "id": "cene1-025",
+          "title": {
+            "fr-FR": "XXVe journée. L'Eucharistie est le gage de la rémission des péchés. Matth., XXVI, 27, 28"
+          }
+        },
+        {
+          "id": "cene1-026",
+          "title": {
+            "fr-FR": "XXVIe journée. Jésus-Christ notre victime et notre nourriture"
+          }
+        },
+        {
+          "id": "cene1-027",
+          "title": {
+            "fr-FR": "XXVIIe journée. Notre-Seigneur avait promis sa chair et son sang dans l'Eucharistie. Joan., VI, 32-59"
+          }
+        },
+        {
+          "id": "cene1-028",
+          "title": {
+            "fr-FR": "XXVIIIe journée. La foi donne l'intelligence de ce mystère. Joan., VI, 43-70"
+          }
+        },
+        {
+          "id": "cene1-029",
+          "title": {
+            "fr-FR": "XXIXe journée. La vie éternelle est le fruit de l'Eucharistie. Joan., VI, 26, 35, 47"
+          }
+        },
+        {
+          "id": "cene1-030",
+          "title": {
+            "fr-FR": "XXXe journée. Désir insatiable de l'Eucharistie. Joan., VI, 34, 40, 47"
+          }
+        },
+        {
+          "id": "cene1-031",
+          "title": {
+            "fr-FR": "XXXIe journée. Nouveaux murmurateurs capharnaïtes. Joan., VI, 64"
+          }
+        },
+        {
+          "id": "cene1-032",
+          "title": {
+            "fr-FR": "XXXIIe journée. Notre-Seigneur vous donne à manger le même corps qu'il a pris pour nous. Joan., VI, 29, 33, 50, 55, 59"
+          }
+        },
+        {
+          "id": "cene1-033",
+          "title": {
+            "fr-FR": "XXXIIIe journée. Présence réelle du corps et du sang de Jésus-Christ dans l'Eucharistie. Joan., VI, 54-57; Matth., XXVI, 26-28"
+          }
+        },
+        {
+          "id": "cene1-034",
+          "title": {
+            "fr-FR": "XXXIVe journée. Manger et boire le corps de Notre-Seigneur réellement et avec foi. Ibid"
+          }
+        },
+        {
+          "id": "cene1-035",
+          "title": {
+            "fr-FR": "XXXVe journée. Manger Je corps et Loire le sang de Jésus-Christ, c'est y participer véritablement et réellement. Ibid"
+          }
+        },
+        {
+          "id": "cene1-036",
+          "title": {
+            "fr-FR": "XXXVIe journée. Renaissance spirituelle expliquée par Notre-Seigneur à Nicodème. Joan., III, 1-3 et seq"
+          }
+        },
+        {
+          "id": "cene1-037",
+          "title": {
+            "fr-FR": "XXXVIIe journée. L'Eucharistie est la participation réelle au corps et au sang de Notre-Seigneur, en mémoire de sa mort soufferte pour nous. Ibid"
+          }
+        },
+        {
+          "id": "cene1-038",
+          "title": {
+            "fr-FR": "XXXVIII journée. Scandale des disciples. Joan., VI, 60-62 et seq"
+          }
+        },
+        {
+          "id": "cene1-039",
+          "title": {
+            "fr-FR": "XXXIXe journée. Quel est le sujet de ce scandale. Joan., VI, 61-63"
+          }
+        },
+        {
+          "id": "cene1-040",
+          "title": {
+            "fr-FR": "XLe journée. Quelle fut l'incrédulité des Capharnaîtes. Joan., VI, 41, 43, 50, 51 et seq"
+          }
+        },
+        {
+          "id": "cene1-041",
+          "title": {
+            "fr-FR": "XLIe journée. Qu'est-ce à dire: La chair ne sert de rien? Joan., VI, 64"
+          }
+        },
+        {
+          "id": "cene1-042",
+          "title": {
+            "fr-FR": "XLIIe journée. Discernement des disciples fidèles et des incrédules. Joan., VI, 14, 15, 24, 25 et seq"
+          }
+        },
+        {
+          "id": "cene1-043",
+          "title": {
+            "fr-FR": "XLIIIe journée. Saint Pierre et les catholiques s'attachent à Jésus-Christ et à l'Eglise, les Capharnaïtes et les hérétiques s'en séparent. Joan., VI, 53"
+          }
+        },
+        {
+          "id": "cene1-044",
+          "title": {
+            "fr-FR": "XLIV journée. Communion indigne. I Cor., XI, 27-30"
+          }
+        },
+        {
+          "id": "cene1-045",
+          "title": {
+            "fr-FR": "XLVe journée. Qui sont ceux qui communient indignement"
+          }
+        },
+        {
+          "id": "cene1-046",
+          "title": {
+            "fr-FR": "XLVIe journée. La Communion est la préparation à la mort de Jésus-Christ. I Cor., XI, 26"
+          }
+        },
+        {
+          "id": "cene1-047",
+          "title": {
+            "fr-FR": "XLVIIe journée. La persévérance, effet de la Communion. Joan., VI, 57"
+          }
+        },
+        {
+          "id": "cene1-048",
+          "title": {
+            "fr-FR": "XLVIIIe journée. S'éprouver soi-même. I Cor., XI, 28"
+          }
+        },
+        {
+          "id": "cene1-049",
+          "title": {
+            "fr-FR": "XLIXe journée. Sommaire de la doctrine de l'Eucharistie"
+          }
+        },
+        {
+          "id": "cene1-050",
+          "title": {
+            "fr-FR": "Le journée. L'Eucharistie est la force de l’âme et du corps"
+          }
+        },
+        {
+          "id": "cene1-051",
+          "title": {
+            "fr-FR": "LIe journée. L'Eucharistie est le viatique des mourants"
+          }
+        },
+        {
+          "id": "cene1-052",
+          "title": {
+            "fr-FR": "LIIe journée. L'Eucharistie jointe par Jésus-Christ au banquet ordinaire, figure de la joie du banquet éternel, lbid"
+          }
+        },
+        {
+          "id": "cene1-053",
+          "title": {
+            "fr-FR": "LIIIe journée. L'Eucharistie unie par Jésus-Christ au repas commun, est plus semblable à l'ancienne pâque. Ibid"
+          }
+        },
+        {
+          "id": "cene1-054",
+          "title": {
+            "fr-FR": "LIVe journée. L'Eucharistie jointe au repas commun apprend à sanctifier tout ce qui sert à nourrir le corps. lbid"
+          }
+        },
+        {
+          "id": "cene1-055",
+          "title": {
+            "fr-FR": "LVe journée. Pouvoir donné à l'Eglise de changer ce qui n'est pas de l'essence de l'institution divine. La Communion sous une espèce suffisante et parfaite. lbid"
+          }
+        },
+        {
+          "id": "cene1-056",
+          "title": {
+            "fr-FR": "LVIe journée. Adoration, exposition, réserve de l'Eucharistie"
+          }
+        },
+        {
+          "id": "cene1-057",
+          "title": {
+            "fr-FR": "LVIIe journée. Le sacrifice"
+          }
+        },
+        {
+          "id": "cene1-058",
+          "title": {
+            "fr-FR": "LVIIIe journée. Simplicité et grandeur de ce sacrifice"
+          }
+        },
+        {
+          "id": "cene1-059",
+          "title": {
+            "fr-FR": "LIXe journée. L'Agneau devant le trône de Dieu. Apoc., V, 6"
+          }
+        },
+        {
+          "id": "cene1-060",
+          "title": {
+            "fr-FR": "LXe journée. Jésus notre victime donné à la croix, donné dans l'Eucharistie. Luc, XXII, 19, 20"
+          }
+        },
+        {
+          "id": "cene1-061",
+          "title": {
+            "fr-FR": "LXIe journée. L'Eucharistie est le sang du Nouveau Testament. Matth., XXVI, 28"
+          }
+        },
+        {
+          "id": "cene1-062",
+          "title": {
+            "fr-FR": "LXIIe journée. C'est le Nouveau Testament par le sang de Notre-Seigneur"
+          }
+        },
+        {
+          "id": "cene1-063",
+          "title": {
+            "fr-FR": "LXIIIe journée. La Messe est la continuation de la Cène de Jésus-Christ, lbid"
+          }
+        },
+        {
+          "id": "cene1-064",
+          "title": {
+            "fr-FR": "LXIVe journée. La Communion. II faut communier au moins en esprit. Ibid"
+          }
+        },
+        {
+          "id": "cene1-065",
+          "title": {
+            "fr-FR": "LXVe journée. L'action de grâces. Matth., XXVI, 30"
+          }
+        },
+        {
+          "id": "cene1-066",
+          "title": {
+            "fr-FR": "LXVIe journée. Trahison de Judas découverte. Joan., XIII, 26, 30"
+          }
+        },
+        {
+          "id": "cene1-067",
+          "title": {
+            "fr-FR": "LXVIIe journée. Autorité légitime établie, domination interdite dans l'Eglise. Luc, XXII, 24"
+          }
+        },
+        {
+          "id": "cene1-068",
+          "title": {
+            "fr-FR": "LXVIIIe journée. Royaume de Dieu, à qui destiné. Luc, XXII, 28-30"
+          }
+        },
+        {
+          "id": "cene1-069",
+          "title": {
+            "fr-FR": "LXIXe journée. Pouvoir de Satan"
+          }
+        },
+        {
+          "id": "cene1-070",
+          "title": {
+            "fr-FR": "LXXe journée. Primauté de saint Pierre, prédiction de sa chute par son orgueil. Luc., XXII, 31, 34"
+          }
+        },
+        {
+          "id": "cene1-071",
+          "title": {
+            "fr-FR": "LXXIe journée. Construction de l'Eglise. Prière de Notre-Seigneur pour saint Pierre: et en sa personne pour les élus. Luc, XXII, 32"
+          }
+        },
+        {
+          "id": "cene1-072",
+          "title": {
+            "fr-FR": "LXIIe journée. La foi de saint Pierre est la foi de l'Eglise de Rome, où est le centre de l'unité catholique. Luc, XXII, 32"
+          }
+        },
+        {
+          "id": "cene1-073",
+          "title": {
+            "fr-FR": "LXXIIIe journée. Soin de Jésus pour les apôtres. Il est mis au rang des scélérats. Luc, XXII, 35, 36; Marc, XV, 28"
+          }
+        },
+        {
+          "id": "cene1-074",
+          "title": {
+            "fr-FR": "LXXIV journée. Glorification de Jésus. Joan., XIII, 31, 32"
+          }
+        },
+        {
+          "id": "cene1-075",
+          "title": {
+            "fr-FR": "LXXVe journée. Commandement de l'amour. Joan., XIII, 1, 33-35"
+          }
+        },
+        {
+          "id": "cene1-076",
+          "title": {
+            "fr-FR": "LXXVIe journée. Présomption et chute de saint Pierre. Joan., XIII, 33 et seq"
+          }
+        },
+        {
+          "id": "cene1-077",
+          "title": {
+            "fr-FR": "LXVIIe journée. Préparation à l'intelligence des plus hautes vérités par la soumission et par une sainte frayeur"
+          }
+        },
+        {
+          "id": "cene1-078",
+          "title": {
+            "fr-FR": "LXXVIIIe journée. Confiance en Jésus-Christ notre intercesseur. Ibid"
+          }
+        },
+        {
+          "id": "cene1-079",
+          "title": {
+            "fr-FR": "LXXIXe journée. Jésus-Christ est notre assurance et notre repos. Joan., XIV, 3-6"
+          }
+        },
+        {
+          "id": "cene1-080",
+          "title": {
+            "fr-FR": "LXXXe journée. Jésus-Christ est la voie, la vérité et la vie. Joan., XIV, 6"
+          }
+        },
+        {
+          "id": "cene1-081",
+          "title": {
+            "fr-FR": "LXXXIe journée. Jésus-Christ est notre lumière. Ibid"
+          }
+        },
+        {
+          "id": "cene1-082",
+          "title": {
+            "fr-FR": "LXXXIIe journée. Nul ne vient à son Père que par Jésus-Christ. Ibid"
+          }
+        },
+        {
+          "id": "cene1-083",
+          "title": {
+            "fr-FR": "LXXXIIIe journée. Dieu seul nous suffit. Joan., XIV, 8"
+          }
+        },
+        {
+          "id": "cene1-084",
+          "title": {
+            "fr-FR": "LXXXIV journée. C'est dans le Père qu'on voit le Fils. Joan., XIV, 9"
+          }
+        },
+        {
+          "id": "cene1-085",
+          "title": {
+            "fr-FR": "LXXXVe journée. Le Père est dans le Fils, et le Fils dans le Père, Joan., XIV, 10"
+          }
+        },
+        {
+          "id": "cene1-086",
+          "title": {
+            "fr-FR": "LXXXVIe journée. Jésus le Verbe éternel nous fait voir le Père. Ibid"
+          }
+        },
+        {
+          "id": "cene1-087",
+          "title": {
+            "fr-FR": "LXXXVIIe journée. Jésus-Christ opérant ses miracles, nous fait voir le Père dans ses œuvres. Ibid"
+          }
+        },
+        {
+          "id": "cene1-088",
+          "title": {
+            "fr-FR": "LXXXVIIIe journée. Les miracles des apôtres plus grands que ceux de Jésus-Christ. De quelle manière. Joan., XIV, 12"
+          }
+        },
+        {
+          "id": "cene1-089",
+          "title": {
+            "fr-FR": "LXXXIXe journée. Ce qu'il faut demander et désirer: aimer et garder ses commandements, Joan., XIV, 15, 21"
+          }
+        },
+        {
+          "id": "cene1-090",
+          "title": {
+            "fr-FR": "XCe JOURNÉE. Promesse de l'Esprit consolateur, ce que c'est que le monde. Joan., XIV, 15-17"
+          }
+        },
+        {
+          "id": "cene1-091",
+          "title": {
+            "fr-FR": "Xcie journée. La demeure de Jésus-Christ et sa manifestation dans les saintes âmes. Joan., XIV, 17"
+          }
+        },
+        {
+          "id": "cene1-092",
+          "title": {
+            "fr-FR": "Xciie journée. La prédestination, le secret en est impénétrable. Joan., XIV, 22"
+          }
+        },
+        {
+          "id": "cene1-093",
+          "title": {
+            "fr-FR": "Xciiie journée. Demeure fixe du Père et du Fils dans les âmes. Joan., XIV, 23"
+          }
+        },
+        {
+          "id": "cene1-094",
+          "title": {
+            "fr-FR": "Xcive journée. Etat ferme de la vie chrétienne. Joan., XIV, 16-23"
+          }
+        },
+        {
+          "id": "cene1-095",
+          "title": {
+            "fr-FR": "Xcve journée. Le Maître intérieur. Joan., XIV, 23, 20"
+          }
+        },
+        {
+          "id": "cene1-096",
+          "title": {
+            "fr-FR": "Xcvie journée. Paix intérieure. Joan., XIV, 27"
+          }
+        },
+        {
+          "id": "cene1-097",
+          "title": {
+            "fr-FR": "Xcviie journée. Paix imperturbable. Joan., XIV, 27"
+          }
+        },
+        {
+          "id": "cene1-098",
+          "title": {
+            "fr-FR": "Xcviiie journée. Jésus-Christ rentre en sa gloire, retournant à son Père. Joan., XIV, 28"
+          }
+        },
+        {
+          "id": "cene1-099",
+          "title": {
+            "fr-FR": "Xcixe journée. Jésus-Christ prédit tout ce qui lui doit arriver, il va volontairement à la mort. Joan., XIV, 29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cene-2",
+      "title": {
+        "fr-FR": "La Cène, seconde partie"
+      },
+      "children": [
+        {
+          "id": "cene2-001",
+          "title": {
+            "fr-FR": "Première journée. Jésus est la vigne, et les fidèles les membres; nécessité, efficace, influence continuelle de la grâce. Joan., XV, 1 jusqu'au 7"
+          }
+        },
+        {
+          "id": "cene2-002",
+          "title": {
+            "fr-FR": "IIe journée. Le Père est le vigneron. Ibid., 1"
+          }
+        },
+        {
+          "id": "cene2-003",
+          "title": {
+            "fr-FR": "IIIe journée. Jésus-Christ retranche la branche infructueuse. Ibid., 2"
+          }
+        },
+        {
+          "id": "cene2-004",
+          "title": {
+            "fr-FR": "IVe journée. Il taille la branche chargée de fruit. Ibid"
+          }
+        },
+        {
+          "id": "cene2-005",
+          "title": {
+            "fr-FR": "Ve journée. C'est une opération de la grâce que de conserver la justice. Joan., XV, 3, 4"
+          }
+        },
+        {
+          "id": "cene2-006",
+          "title": {
+            "fr-FR": "VIe journée. Parabole de la vigne, tirée d'Isaïe. Joan., XV, 1; Isa., V, 1"
+          }
+        },
+        {
+          "id": "cene2-007",
+          "title": {
+            "fr-FR": "VIIe journée. Prière par Notre-Seigneur Jésus-Christ obtient tout. Joan., XV, 7"
+          }
+        },
+        {
+          "id": "cene2-008",
+          "title": {
+            "fr-FR": "VIIIe journée. Force dans la parole de la croix; porter le fruit de la croix. Joan., XV, 8, 9, 13"
+          }
+        },
+        {
+          "id": "cene2-009",
+          "title": {
+            "fr-FR": "IXe journée. Commandement de la croix par l'amour. Joan., XV, 10"
+          }
+        },
+        {
+          "id": "cene2-010",
+          "title": {
+            "fr-FR": "Xe journée. Joie pleine et parfaite d'obéir par amour, et non par crainte. Joan., XV, 11; I Joan., IV, 18"
+          }
+        },
+        {
+          "id": "cene2-011",
+          "title": {
+            "fr-FR": "XIe journée. Mystère, précepte de la croix; amour du prochain, donner sa vie pour lui, comme Jésus-Christ. Joan., XV, 12, 13"
+          }
+        },
+        {
+          "id": "cene2-012",
+          "title": {
+            "fr-FR": "XIIe journée. Motifs de l'amour fraternel, les fidèles, les élus sont amis de Jésus"
+          }
+        },
+        {
+          "id": "cene2-013",
+          "title": {
+            "fr-FR": "XIIIe journée. Ils servent Jésus-Christ comme ses amis, à qui il découvre tous ses secrets. Joan., XV, 15"
+          }
+        },
+        {
+          "id": "cene2-014",
+          "title": {
+            "fr-FR": "XIVe journée. Ils doivent et peuvent tout demander au nom de Jésus-Christ, Joan., XV, 16"
+          }
+        },
+        {
+          "id": "cene2-015",
+          "title": {
+            "fr-FR": "XVe journée. Jésus et ses disciples hais du monde, injustice de la haine du monde. Joan., XV, 16-26"
+          }
+        },
+        {
+          "id": "cene2-016",
+          "title": {
+            "fr-FR": "XVIe journée. Le témoignage de l'Esprit de vérité rassure. Joan., XV, 26, 27"
+          }
+        },
+        {
+          "id": "cene2-017",
+          "title": {
+            "fr-FR": "XVIIe journée. Les apôtres persécutés, hais d'une haine de religion. Joan., XVI, 1-5"
+          }
+        },
+        {
+          "id": "cene2-018",
+          "title": {
+            "fr-FR": "XVIIIe journée. Tristesse de l'absence de Jésus. Joan., XVI, 5, 6"
+          }
+        },
+        {
+          "id": "cene2-019",
+          "title": {
+            "fr-FR": "XIXe journée. Mission du Saint-Esprit pour convaincre d'incrédulité les Juifs et le monde. Joan., XVI, 8-10 et suiv"
+          }
+        },
+        {
+          "id": "cene2-020",
+          "title": {
+            "fr-FR": "XXe journée. Mission du Saint-Esprit pour convaincre le monde d'injustice. Péché contre le Saint-Esprit. Ibid. 10"
+          }
+        },
+        {
+          "id": "cene2-021",
+          "title": {
+            "fr-FR": "XXIe journee. Mission du Saint-Esprit pour convaincre le monde de l'iniquité de son jugement. Joan., XVI, 8-11"
+          }
+        },
+        {
+          "id": "cene2-022",
+          "title": {
+            "fr-FR": "XXIIe journée. L'Esprit de vérité enseigne toute vérité. Joan., XVI, 12, 13"
+          }
+        },
+        {
+          "id": "cene2-023",
+          "title": {
+            "fr-FR": "XXIIIe journée. Le Saint-Esprit égal au Fils par ses oeuvres"
+          }
+        },
+        {
+          "id": "cene2-024",
+          "title": {
+            "fr-FR": "XXIVe journée. Le Saint-Esprit égal au Fils par son origine, il annonce les choses futures et pénètre le secret des cœurs. Joan., XVI, 13"
+          }
+        },
+        {
+          "id": "cene2-025",
+          "title": {
+            "fr-FR": "XXVe journée. Origine du Saint-Esprit. Ordre des personnes divines. Joan., XVI, 14, 15"
+          }
+        },
+        {
+          "id": "cene2-026",
+          "title": {
+            "fr-FR": "XXVIe journée. Qu'est-ce à dire: Encore un peu de temps? Joan., XVI, 16"
+          }
+        },
+        {
+          "id": "cene2-027",
+          "title": {
+            "fr-FR": "XXVIIe journée. Tristesse changée en joie, Joan., XVI, 20"
+          }
+        },
+        {
+          "id": "cene2-028",
+          "title": {
+            "fr-FR": "XXVIIIe journée. Souffrir, se faire violence. Joan., XVI, 21"
+          }
+        },
+        {
+          "id": "cene2-029",
+          "title": {
+            "fr-FR": "XXIXe journée. Joie qui ne peut être ravie. Joan., XII, 22"
+          }
+        },
+        {
+          "id": "cene2-030",
+          "title": {
+            "fr-FR": "XXXe journée. Qu'est-ce qu'on doit demander au nom de Jésus-Christ. Joan., XVI, 21"
+          }
+        },
+        {
+          "id": "cene2-031",
+          "title": {
+            "fr-FR": "XXXIe journée. Tout nous vient par Jésus-Christ. Joan., XVI, 25-28"
+          }
+        },
+        {
+          "id": "cene2-032",
+          "title": {
+            "fr-FR": "XXXIIe journée. Délaissement de Jésus-Christ. Joan., XVI, 29, 30, 31, 32"
+          }
+        },
+        {
+          "id": "cene2-033",
+          "title": {
+            "fr-FR": "XXXIIIe journée. Acquiescement à la volonté divine. Joan., XVI, 33"
+          }
+        },
+        {
+          "id": "cene2-034",
+          "title": {
+            "fr-FR": "XXXIVe journée. Quatre paroles, ou prières de Notre-Seigneur adressées à son Père"
+          }
+        },
+        {
+          "id": "cene2-035",
+          "title": {
+            "fr-FR": "XXXVe journée. Jésus lève les yeux au ciel, en commençant sa prière. Joan., XVII, 1"
+          }
+        },
+        {
+          "id": "cene2-036",
+          "title": {
+            "fr-FR": "XXXVIe journée. Gloire du Père et du Fils dans l'établissement de l'Eglise. Joan., XVII, 1, 2"
+          }
+        },
+        {
+          "id": "cene2-037",
+          "title": {
+            "fr-FR": "XXXVIIe journée. La vie éternelle est de connaître Dieu et Jésus-Christ. Joan., XVII, 3"
+          }
+        },
+        {
+          "id": "cene2-038",
+          "title": {
+            "fr-FR": "XXXVIIIe journée. Gloire infinie du Père et du Fils. Joan., XVII, 4"
+          }
+        },
+        {
+          "id": "cene2-039",
+          "title": {
+            "fr-FR": "XXXIXe journée. Jésus sauve tous ceux que son Père lui a donnés. Joan., XVII, 6; VI, 37-40; X, 27-30; VI, 43, 65, 66"
+          }
+        },
+        {
+          "id": "cene2-040",
+          "title": {
+            "fr-FR": "XLe journée. Les élus sont tirés du monde par le Père. Joan., XVII, 6"
+          }
+        },
+        {
+          "id": "cene2-041",
+          "title": {
+            "fr-FR": "XLIe journée. Le Fils instruit ceux qui lui sont donnés par le Père. Ibid"
+          }
+        },
+        {
+          "id": "cene2-042",
+          "title": {
+            "fr-FR": "XLIIe journée. Comment le Père donne les élus au Fils. Ibid"
+          }
+        },
+        {
+          "id": "cene2-043",
+          "title": {
+            "fr-FR": "XLIIIe journée. Jésus parle ici des onze apôtres. Joan., XVII, 6-8"
+          }
+        },
+        {
+          "id": "cene2-044",
+          "title": {
+            "fr-FR": "XLIVe journée. Jésus prie pour eux et pour les élus. Joan., XVII, 9, 10"
+          }
+        },
+        {
+          "id": "cene2-045",
+          "title": {
+            "fr-FR": "XLVe journée. Jésus ne prie pas pour le monde. Joan., XVII, 9"
+          }
+        },
+        {
+          "id": "cene2-046",
+          "title": {
+            "fr-FR": "XLVIe journée. Il prie pour ceux en qui Dieu est glorifié. Ibid"
+          }
+        },
+        {
+          "id": "cene2-047",
+          "title": {
+            "fr-FR": "XLVIIe journée. Il demande qu'ils soient un avec son Père et lui. Joan., XVII, 11"
+          }
+        },
+        {
+          "id": "cene2-048",
+          "title": {
+            "fr-FR": "XLVIIIe journée. L'enfant de perdition. Joan., XVII, 12"
+          }
+        },
+        {
+          "id": "cene2-049",
+          "title": {
+            "fr-FR": "XLIXe journée. Qu'est-ce à dire: Aucun n'a péri que l'enfant de perdition? Ibid"
+          }
+        },
+        {
+          "id": "cene2-050",
+          "title": {
+            "fr-FR": "Le journée. Jésus-Christ garde les fidèles dans le corps comme dans l’âme. lbid"
+          }
+        },
+        {
+          "id": "cene2-051",
+          "title": {
+            "fr-FR": "LIe journée. Joie de Jésus. Goûter sa parole, source de toute joie. Joan., XVII, 13-15"
+          }
+        },
+        {
+          "id": "cene2-052",
+          "title": {
+            "fr-FR": "LIIe journée. Qu'est-ce à dire Garder du mal? Joan., XVII, 15"
+          }
+        },
+        {
+          "id": "cene2-053",
+          "title": {
+            "fr-FR": "LIIIe journée. Qu'est-ce que le monde? Joan., XVII, 16"
+          }
+        },
+        {
+          "id": "cene2-054",
+          "title": {
+            "fr-FR": "LIVe journée. Jésus n'est pas du monde, ni ses vrais disciples. Joan., XVII, 14, 16"
+          }
+        },
+        {
+          "id": "cene2-055",
+          "title": {
+            "fr-FR": "LVe journée. Etre sanctifié en vérité, qui est sa parole. Joan., XVII, 17, 18"
+          }
+        },
+        {
+          "id": "cene2-056",
+          "title": {
+            "fr-FR": "LVIe journée. Jésus se sanctifie lui-même. Joan., XVII, 18, 19"
+          }
+        },
+        {
+          "id": "cene2-057",
+          "title": {
+            "fr-FR": "LVIIe journée. Jésus prie pour tous les élus: Qu'ils soient Un. Joan., XVII, 20"
+          }
+        },
+        {
+          "id": "cene2-058",
+          "title": {
+            "fr-FR": "LVIIIe journée. Unité et égalité parfaite du Père et du Fils. Joan., XVII, 21"
+          }
+        },
+        {
+          "id": "cene2-059",
+          "title": {
+            "fr-FR": "LIXe journée. La foi pleine et entière est l'effet de l'unité des fidèles. Joan., XVII, 21"
+          }
+        },
+        {
+          "id": "cene2-060",
+          "title": {
+            "fr-FR": "LXe journée. Jésus fait part de sa gloire à ses élus. Joan., XVII, 22"
+          }
+        },
+        {
+          "id": "cene2-061",
+          "title": {
+            "fr-FR": "LXIe journée. Les élus consommés en un. Joan., XVII, 23"
+          }
+        },
+        {
+          "id": "cene2-062",
+          "title": {
+            "fr-FR": "LXIIe journée. Gloire de Jésus, il veut que les élus y soient avec lui. Joan., XVII, 24"
+          }
+        },
+        {
+          "id": "cene2-063",
+          "title": {
+            "fr-FR": "LXIIIe journée. Justice de Dieu inconnue au monde. Joan., XVII, 25"
+          }
+        },
+        {
+          "id": "cene2-064",
+          "title": {
+            "fr-FR": "LXIVe journée. Justice de Dieu inconnue aux présomptueux. Ibid"
+          }
+        },
+        {
+          "id": "cene2-065",
+          "title": {
+            "fr-FR": "LXVe journée. Les élus aimés de Dieu en Jésus-Christ, comme ses membres et ses images. Joan., XVII, 25, '26"
+          }
+        },
+        {
+          "id": "cene2-066",
+          "title": {
+            "fr-FR": "LXVIe JOURNÉE"
+          }
+        },
+        {
+          "id": "cene2-067",
+          "title": {
+            "fr-FR": "LXVIIe journée. Père juste. Ibid"
+          }
+        },
+        {
+          "id": "cene2-068",
+          "title": {
+            "fr-FR": "LXVIIIe journée. La prière de Jésus-Christ après la Cène est l'abrégé du sermon qui la précède"
+          }
+        },
+        {
+          "id": "cene2-069",
+          "title": {
+            "fr-FR": "LXIXe journée. Ferme foi en Jésus vrai Messie. Joan., XVII, 25, 8"
+          }
+        },
+        {
+          "id": "cene2-070",
+          "title": {
+            "fr-FR": "LXXe journée. Dieu Père et Fils. Joan., XVII, 3, 5, 10, 21, 25"
+          }
+        },
+        {
+          "id": "cene2-071",
+          "title": {
+            "fr-FR": "LXXIe journée. Dieu Saint-Esprit. Joan., XIV, 16, 17, 26"
+          }
+        },
+        {
+          "id": "cene2-072",
+          "title": {
+            "fr-FR": "LXXIIe journée. Effet secret de la prière de Notre-Seigneur, Jésus-Christ toujours exaucé, prédestination des saints"
+          }
+        },
+        {
+          "id": "cene2-073",
+          "title": {
+            "fr-FR": "LXXIIIe journée. S'unir à Jésus-Christ"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# XVe journée. Mystère de la voix céleste: Le monde va être jugé en jugeant Jésus-Christ. Joan., XII, 31-34
+
+Jésus-Christ nous va expliquer le mystère de cette voix céleste. « C'est maintenant que le monde va être jugé (1) : » comment ? En exerçant son jugement sur Jésus-Christ, dont il jugera si mal, que son jugement et ses maximes demeureront à jamais condamnés. Qui peut juger avec le monde que les biens de la terre[^1] sont les seuls qu'il faut désirer, et que les maux de la terre sont les seuls qu'il faut craindre, si Jésus, privé de tous les biens et chargé de tous les maux de la terre par le jugement du monde, demeure toujours la vérité même et le bienheureux Fils de Dieu? Qui osera, encore un coup, juger avec le monde qu'il faut soutenir ses intérêts, sa domination, sa gloire propre, au préjudice de tout, si à la fin Jésus-Christ se trouve condamné par ses maximes? Le monde est donc jugé par le jugement qu'il a porté de Jésus-Christ. Le Sauveur a jugé le monde en se laissant juger par le monde, et l'iniquité de ce jugement anéantit tous les autres à jamais.
+
+Le monde, à vrai dire, ne sera jugé qu'à la fin des siècles : mais saint Augustin distingue ici deux sortes de jugements : celui de condamnation à la fin des siècles : celui de discernement dans celui-ci. Rapplique au dernier cette parole du Psalmiste : «Jugez-moi, Seigneur, et discernez ma cause de celle de la nation qui n'est pas sainte[^2]. » Ce discernement se fait clairement, par bien entendre le jugement que le monde a porté de Jésus-Christ. Le monde veut être flatté, le monde ne veut pas qu'on lui déclare ses vices, le monde ne veut pas qu'on condamne ses maximes, le monde ne veut pas qu'où ne vive pas comme le monde, parce que par là on le condamne. Tout cela a fait que le monde a condamné Jésus-Christ. Quiconque suit les maximes par lesquelles on a condamné le juste, ne se discerne pas du monde et il est jugé avec le monde. Sois attentif, chrétien ; et discerne-toi de la nation qui n'est pas sainte, en condamnant en toi-même de bonne foi toutes ses maximes.
+
+
+[^1]: *Joan*., XII, 31.
+
+[^2]: Psal. XLII, 1.

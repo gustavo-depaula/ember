@@ -1,0 +1,12 @@
+# LXXIe journée. Deux sièges de Jérusalem prédits par Notre-Seigneur. Le premier en saint Matth., XXIV, 15, 16; Marc, XIII, 14; Luc, XXI, 20. Le second en saint Luc, XIX, 43, 44
+
+Ces paroles de saint Matthieu et de saint Marc : « L'idole dans le lieu où elle ne doit pas être ; » et celles de saint Luc : « Jérusalem environnée d'une armée, » ne marquent pas encore le dernier siège de Jérusalem sous Tite, où elle périt sans ressource. Car les évangélistes disent ici : Quand vous verrez ces idoles, ce siège, « fuyez dans les montagnes. » Or depuis le siège de Tite, il n'y avait pas moyen de fuir ni de sortir de la ville : car elle était tellement serrée de tranchées, de murailles et de forteresses, qu'il n'y avait plus aucune issue. C'est ce siège que le Sauveur avait prédit en entrant dans Jérusalem, lorsqu'il disait avec larmes : Ville infortunée, « tes ennemis t'environneront de tranchées, et te fermeront de toutes parts[^1] » Aussi ne leur parle-t-il pas alors, comme ici, de prendre la fuite ; car il savait bien qu'en cet état il n'y en aurait plus aucune espérance : mais d'une perte totale et a d'un entier renversement, et pour la ville et pour ses enfants[^2]. » Ici donc il parle d'un autre siège, qui arriva à Jérusalem quelques années avant celui de Tite, lorsque Cestius Roms l'investit, Ces deux sièges sont bien marqués dans Josèphe, et très-nettement distingués dans l'Evangile. Dans le premier, dont il est parlé dans les chapitres que nous méditons[^3], on ne voit ni tranchées ni forts, mais seulement une année qui se répand aux environs et ce qu'elle avait de plus détestable, c'était ses idoles. Dans le second on voit des forts, des tranchées, et un siège dans toutes les formes. On pouvait échapper dans la première occasion : car les troupes n'arrivent pas tout à coup et la garde n'est pas si exacte : dans la seconde, il n'y a rien à attendre qu'à périr.
+
+On voit là deux états de l'âme. Lorsque le péché commence à l'investir, pour ainsi dire, et à répandre de tous côtés comme des idoles les mauvais désirs : cette année impure ne fait que nous entourer, de manière que nous pouvons encore échapper. Les tram-liées, les forts, le siège en forme, c'est le vice fortifié par L'habitude. Fuyons dès le premier abord, dès que nous voyons paraître l'étendard du péché : car si nous lui laissons élever ses forts et former ses habitudes, il n'y a presque plus rien à espérer.
+
+
+[^1]: *Luc.*, XIX, 43.
+
+[^2]: *Luc.*, XIX, 44.
+
+[^3]: *Matth*., XXIV; *Marc*, XIII; *Luc,* XXI.

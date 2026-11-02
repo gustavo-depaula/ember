@@ -1,0 +1,26 @@
+# LXXXIVe journée. Réflexions sur d'autres circonstances. Ibid
+
+« Si l'on vous dit : Le voici dans le désert : le voici dans les lieux retirés de la maison : ne le croyez point[^1]. » Ceci regarde les derniers temps, lorsque les Juifs fatigués de tant attendre et d'avoir si souvent été trompés sur le sujet du Messie, s'en diront les uns aux autres des nouvelles comme en secret : « Il est venu, » mais il se cache : « il est dans ce désert ; il est dans les lieux secrets de cette maison : ne croyez point tout cela. » Ce n'est plus le temps qu'il doit venir de cette sorte, d'une maison particulière, d'une ville obscure, d'un désert, tantôt caché, tantôt découvert ; il paraîtra tout d'un coup avec un éclat surprenant ; « et un éclair ne se fait pas voir plus rapidement du levant jusqu'au couchant, et d'un côté du ciel à l'autre, que le Fils de l'homme paraîtra dans toute la terre[^2]. » Voilà la première chose qu'il marque de ce grand événement : une apparition soudaine et un éclat qui en un moment se fera sentir d'une extrémité du monde à l'autre. Mais voici la seconde : « Où sera le corps, là s'assembleront les aigles[^3]. » Si les aigles sentent leur proie de si loin et s'assemblent rapidement de toutes parts autour d'un corps mort : combien plus s'assembleront les élus où sera le Fils de l'homme ?
+
+Le grec porte, au lieu de corps, « un corps mort, un cadavre : » et le Fils de Dieu se compare à un corps de cette sorte, à cause que les élus seront rassemblés par le mystère de sa mort, et que c'est par là qu'ils auront part à sa résurrection. Tout cela regarde visiblement l'apparition dernière et le dernier jour de Jésus-Christ.
+
+Et c'est pourquoi il ajoute : a Mais aussitôt après l'affliction de ces jours-là, » de ces joursoù le Fils de l'homme devra paraître si vite et rassembler autour de lui tous les élus, « aussitôt après cette affliction, » car il a dit qu'il y en aurait d'étranges vers ces jours-là, « le soleil s'obscurcira[^4], » etc.
+
+Il ne faut donc pas entendre cette affliction ni ces joins, de l'affliction ou des jours qui seront fâcheux pour les Juifs, mais de l'affliction de tout l'univers, vers le jour où le Fils de Dieu devra paraître, qui sont ceux dont il venait de parler. Le même paraît dans saint Marc : «Mais dans ces jours-là; dans cette affliction-là; le soleil s'obscurcira[^5], » etc. Comme s'il disait : Il arrivera de grands maux aux Juifs : mais ce n'est point dans ces maux ou dans ces temps qu'arriveront ces prodiges du soleil obscurci, et les autres : mais « dans ces jours » dont je viens de parler : « dans ces jours » où le Fils de l'homme devra paraître ; aux approches de cette dernière apparition, et peu après les afflictions dont elle sera précédée ; « le soleil s'obscurcira, » etc.
+
+Mettons-nous en esprit dans ce dernier jour, si heureux pour les uns, si funeste aux autres. Représentons-nous l'étonnement où l'on sera, de cette nouvelle lumière que jettera le Sauveur, de ce prodigieux éclat qui se fera sentir d'une extrémité du monde à l'autre, avec la rapidité d'un éclair: contemplons ces aigles mystiques : les esprits sublimes à qui le monde n'aura rien été et qui n'auront pas été troublés de tant de persécutions; ni de cet ébranlement universel de la nature éperdue : prendre tout à coup leur vol; et, comme dit saint Paul, « être enlevés dans les nuées au milieu des airs, à la rencontre de Jésus-Christ, pour être ensuite toujours avec lui[^6]. » Heureux jour! heureux spectacle! heureux changement! heureux ceux qui verront ce beau feu, cet éclair nouveau, cette vive et admirable lumière ! qui verront ce corps que la mort a consacré à notre salut, ces aigles qui voleront après et qui seront enlevés avec lui! Soyons de ces aigles par la contemplation en foi et en vérité et par une noble élévation au-dessus des choses mortelles : faisons notre proie de ce corps que la mort a fait nôtre : nous l'avons dans l'Eucharistie, ce corps mort autrefois, à présent vivant, mais couvert d'un signe de mort; dévorons-le : prenons-en toute la substance, tout le suc : vivons de Jésus et de sa vérité et de ses souffrances et de sa mort qui est notre vie : imitons-la : portons-la sur nous : « Portons sur nos corps la mortification de Jésus, afin que la vie de Jésus paroisse en nous[^7]. » Si parmi les ténèbres du monde et celles qui nous environnent, il lui plaît de faire tout à coup reluire sur nous comme une espèce d'éclair, une lumière rapide qui se répande en un moment dans toute notre âme, et qui se fasse sentir de la partie haute jusqu'à la plus basse, ô lumière, je vous adore! ô lumière, je vous veux suivre! Si vous vous retirez comme un éclair, et que vous laissiez mes yeux éblouis d'un éclat si vif, je me souviendrai de vous avoir vue : je me réjouirai de l'espérance de vous revoir à d'autres moments : je tâcherai de mettre à profit tout ce que vous me montrerez dans ces moments rapides ; et j'aspirerai nuit et jour à ce jour unique de l'éternité où vous luirez sans vous retirer, sans être obscurcie; où votre levant sera sans couchant; où nous jouirons à jamais de vous, ô Père, ô Fils, ô Saint-Esprit, qui êtes la véritable et seule lumière.
+
+
+[^1]: *Matth.*, XXIV, 26.
+
+[^2]: *Ibid.*, 27.
+
+[^3]: *Luc,* XVII, 24; *Matth.*, XXIV, 28.
+
+[^4]: *Matth.*, XXIV, 29.
+
+[^5]: *Marc*., XIII, 24.
+
+[^6]: I *Thessal*, IV, 16, 17.
+
+[^7]: II *Cor.*, IV, 10.
