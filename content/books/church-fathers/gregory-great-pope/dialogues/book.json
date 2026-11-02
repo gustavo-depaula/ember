@@ -1,0 +1,85 @@
+{
+  "id": "gregory-great-pope-dialogues",
+  "cover": "classic",
+  "name": {
+    "la": "Dialogi de vita et miraculis patrum Italicorum",
+    "en-US": "Dialogues",
+    "pt-BR": "Diálogos"
+  },
+  "author": {
+    "la": "Gregorius Magnus, Papa (c. 540-604)",
+    "en-US": "Gregory the Great, Pope (c. 540-604)",
+    "pt-BR": "São Gregório Magno, Papa (c. 540-604)"
+  },
+  "description": {
+    "la": "Quattuor libri dialogorum Gregorii cum Petro diacono de vita et miraculis patrum Italicorum; liber secundus totus est vita sancti Benedicti.",
+    "en-US": "Gregory's four books of conversations with the deacon Peter on the lives and miracles of the saints of Italy (593-594). The whole of Book II is the Life of St. Benedict, the only early account of him. Latin text of the Maurist tradition; English by the 1608 'P.W.' translation as edited by Edmund G. Gardner (1911), with his notes.",
+    "pt-BR": "Os quatro livros das conversas de Gregório com o diácono Pedro sobre a vida e os milagres dos santos da Itália (593-594). Todo o Livro II é a Vida de São Bento, o único relato antigo sobre ele. Texto latino da tradição beneditina; inglês na tradução de 1608 (\"P.W.\") revista por Edmund G. Gardner (1911), com suas notas."
+  },
+  "composed": "593-594",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "work": "gregory-the-great/dialogi",
+  "editions": {
+    "la": {
+      "editor": "Latin Wikisource transcription (edition not named; Maurist chapter division in Books I, III and IV)"
+    },
+    "en-US": {
+      "translator": "'P.W.' (Paris, 1608), ed. Edmund G. Gardner",
+      "year": 1911
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://la.wikisource.org/wiki/Dialogi_(Gregorius_Magnus)",
+      "edition": "Dialogi (Gregorius Magnus), Liber I-IV, on Latin Wikisource; the edition is not named there (early-printed orthography, vti/prouincia; Book II divided into six chapters with numbered sections and marginal summaries; Books I, III and IV divided as in the Maurist/Migne edition: 12, 38 and 60 chapters).",
+      "description": "Books I-IV in one file each (ch001-ch004). Wikitext removed, paragraphs rebuilt, chapter titles set in bold. The marginal summaries of Book II, printed in brackets in the text, are kept as footnotes; the section numbers [1], [2]... of Book II are kept in the text. Raw text in sources/la-originals.",
+      "tier": "A",
+      "tierEvidence": "Text of a 6th-century work in a pre-1800 printed edition: public domain."
+    },
+    {
+      "language": "en-US",
+      "url": "https://ccel.org/ccel/pearse/morefathers/files/gregory_01_dialogues_book1.htm",
+      "edition": "St. Gregory the Great, Dialogues, translated by 'P.W.' (Paris, 1608), edited by Edmund G. Gardner (London: Philip Lee Warner, 1911), transcribed by Roger Pearse on CCEL",
+      "description": "Books I-IV (CCEL pages gregory_01 to gregory_04). The 1608 spelling is Gardner's modernised text. Gardner's footnotes and editorial notes (moved to the end of each book in the transcription) are kept as footnotes. Page numbers removed. Gardner's Introduction (about 2,700 words) is left out. The Chapter divisions of Book II (38 chapters) follow the Maurist edition, whereas the Latin file divides Book II in six chapters, so the two languages correspond by Book, not by chapter, in Book II.",
+      "tier": "A",
+      "tierEvidence": "Translation of 1608, edited by E. G. Gardner (1869-1935) in 1911: public domain (CCEL: 'in the public domain - copy freely')."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      }
+    }
+  ],
+  "arrived": {
+    "en-US": "2026-11-01"
+  }
+}
