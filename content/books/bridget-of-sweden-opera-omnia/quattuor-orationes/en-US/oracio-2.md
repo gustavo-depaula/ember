@@ -1,0 +1,43 @@
+# Prayer 2
+
+*This prayer was revealed by God to blessed Bridget. In it, by means of a painstakingly detailed narrative, Christ is beautifully and devoutly praised for his glorious incarnation; for all the actions, labors, and sorrows of his life and of his holy death; for his ascension into heaven; for the sending of the Holy Spirit upon the disciples; etc.*
+
+Blessed may you be, my Lord, my God, and my Love most beloved of my soul: O you who are one God in three Persons. Glory and praise be to you, my Lord Jesus Christ. You were sent by the Father into the body of a virgin; and yet you ever remain with the Father in heaven, while the Father, in his divinity, inseparably remained with you in your human nature in this world.
+
+Honor and glory be to you, my Lord Jesus Christ. After having been conceived by the power of the Holy Spirit, you physically grew in the Virgin's womb; and in it you humbly dwelt until the time of your birth. After your delightful nativity, you deigned to be touched by the most clean hands of your Mother, to be wrapped in cloths, and to be laid in a manger.
+
+Blessed may you be, my Lord Jesus Christ. You willed that your immaculate flesh be circumcised and that you be called Jesus. You willed to be offered by your Mother in the temple. Blessed may you be, my Lord Jesus Christ. You had yourself baptized in the Jordan by your servant John. Blessed may you be, my Lord Jesus Christ. With your bless mouth, you preached to human beings the words of life; and in the sight, through yourself, within your actual presence, you worked many miracles. Blessed may you be, my Lord Jesus Christ. By fulfilling the writings of the prophets, you manifested to the world in a rational way that you are the true God.
+
+Blessing and glory be to you, my Lord Jesus Christ. For forty days, you wonderfully fasted in the desert. You permitted yourself to be tempted by your enemy, the devil, whom - when it so pleased you - you drove from yourself with a single word. Blessed may you be, my Lord Jesus Christ. You foretold your death ahead of time. At the last supper, of material bread you wonderfully consecrated your precious Body and charitably bestowed it on your apostles in memory of your most worthy passion. By washing their feet with your own precious and holy hands, you humbly showed your very great humility.
+
+Honor be to you, my Lord Jesus Christ. In fear of suffering and death, you gave forth from your innocent body blood in place of sweat. Nonetheless, you accomplished for us the redemption that you had willed to perform; and thus you manifestly showed the charity that you had toward the human race.
+
+Glory be to you, my Lord Jesus Christ. Sold by your disciple and bought by the Jews, you were made a captive for our sake. Solely by your word, you cast your enemies to the earth; and then of your own will you gave yourself over as a captive to their unclean an grasping hands.
+
+Blessed may you be, my Lord Jesus Christ. You were led to Caiaphas, and you, who are the Judge of all, humbly permitted yourself to be given over to the judgment of Pilate. Blessed may you be, my Lord Jesus Christ. From Pilate the judge, you were sent to Herod; and you permitted yourself to be mocked and scorned by him; and you consented again to be remitted to that same Pilate as judge.
+
+Glory be to you, my Lord Jesus Christ, for the derision that you endured while you stood invested with purple and crowned with the sharpest thorns. With great patience you endured the spitting on your glorious face, the veiling of your eyes, and, on your cheek and neck, the grave and cutting blows of the deadly hands of the wicked.
+
+Praise be to you, my Lord Jesus Christ. Like an innocent lamb, you most patiently permitted yourself to be tied to the column and monstrously scourged; to be led, all bloody, to Pilate's judgment and there be gazed at.
+
+Blessed may you be, my Lord Jesus Christ. Most patiently, in Pilate's presence, with your own blessed ears you willed to hear abuse and lies hurled at you and the voices of the people asking that the guilty robber be acquitted and that you, the innocent, be condemned.
+
+Honor be to you, my Lord Jesus Christ. With your glorious body covered in gore, the judgment on you was the death of the cross. The cross you bore in pain on your sacred shoulders; and, amidst frenzy, you were led to the place of your passion. Despoiled of your garments, thus you willed to be fixed to the wood of the cross.
+
+Glory unmeasured be to you, my Lord Jesus Christ. For us you humbly endured that the Jews stretched out your venerable hands and feet with rope, that they cruelly fixed them with iron nails to the wood of the cross, that they called you a traitor, that in manifold ways they derided you with unspeakable words while above you was inscribed that title of confusion.
+
+Eternal praise and thanksgiving be to you, my Lord Jesus Christ. With what great meekness you suffered for us such cruel sorrows! On the cross your blessed body was emptied of all its strength; your kindly eyes grew dark; as your blood decreased, a pallor covered all your comely face; your blessed tongue grew swollen, hot, and dry; your mouth dripped from the bitter drink; your hair and beard were filled with blood from the wounds of your most holy head; the bones of your hands, of your feet, and of all your precious body were dislocated from their sockets to your great and intense grief; the veins and nerves of all your blessed body were cruelly broken; you were so monstrously scourged and so injured with painful wounds that your most innocent flesh and skin were all intolerably lacerated. Thus afflicted and aggrieved, you, O my most sweet Lord, stood on the cross, and, with patience and humility, awaited in extreme pain the hour of your death.
+
+Perpetual honor be to you, Lord Jesus Christ. Placed in this your anguish, with your kind and charitable eyes you humbly looked upon your most worthy Mother, who never sinned nor ever gave to the slightest sin any consent. While consoling her who was your own, you committed her to the faithful keeping of your disciple.
+
+Eternal blessing be to you, my Lord Jesus Christ. In the agony of death, you gave to all sinners the hope of forgiveness when, to the robber who had turned to you, you mercifully promised the glory of paradise. Eternal praise be to you, my Lord Jesus Christ, for each and every hour that you endured such great bitterness and anguish on the cross for us sinners. For the most acute pains proceeding from your wounds direly penetrated your happy soul and cruelly passed through your most sacred heart until your heart cracked and you happily sent forth your spirit, and, with bowed head, humbly commended it into the hands of God your Father. Then, having died in the body, you remained there all cold.
+
+Blessed may you be, my Lord Jesus Christ. By your precious blood and by your most sacred death, you redeemed souls and mercifully led them back from exile to eternal life. Blessed may you be, my Lord Jesus Christ. You hung dead on the wood of the cross, and straightway you mightily liberated your friends from the prison of hell. Blessed may you be, my Lord Jesus Christ. For our salvation, you permitted your side and your heart to be perforated with a lance, and from that same side you sent forth, in a rich flow, water and your precious blood in order to redeem us. Before the judge's leave had been given, you willed that your most sacred body not be taken down from the cross.
+
+Glory be to you, my Lord Jesus Christ. You willed that your blessed body be taken down from the cross by your friends and that it be laid in the hands of your most unhappy Mother. You permitted that it be wrapped in cloths by her and be buried in a monument and that it be guarded there by soldiers.
+
+Sempiternal honor be to you, my Lord Jesus Christ. On the third day, you rose from the dead, and you showed yourself alive to such others as it so pleased you. After forty days, while many watched, you ascended to the heavens; and there, in honor, you placed your friends whom you had delivered from Tartarus.
+
+Jubilation and praise eternal be to you, Lord Jesus Christ. You sent the Holy Spirit to the hearts of your disciples; and in their spirits, you immeasurably increased divine love.
+
+Blessed may you be, and praiseworthy and glorious unto the ages, my Lord Jesus. You sit upon the throne in your kingdom of heaven, in the glory of your divinity, corporeally alive, with all your most holy limbs that you took from the flesh of the Virgin. Even thus shall you come on the day of judgment to judge the souls of all the living and the dead: you, who live and reign with the Father and the Holy Spirit unto ages of ages. Amen.

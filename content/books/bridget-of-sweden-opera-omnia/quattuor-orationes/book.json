@@ -13,18 +13,23 @@
   },
   "description": {
     "la": "Quattuor oraciones a Deo Birgittae reuelatae: laudes Mariae, Christi, membrorum corporis Christi et Virginis.",
-    "en-US": "The Four Prayers revealed by God to Bridget: praises of the Virgin Mary, of Christ, of the members of Christ's body and of the Virgin's.",
+    "en-US": "The Four Prayers revealed by God to Bridget: praises of the Virgin Mary, of Christ, of the members of Christ's body and of the Virgin's. The Latin is the SSFS critical text; the English is the anonymous translation circulated by catholic-saints.net.",
     "pt-BR": "As Quatro Orações reveladas por Deus a Brígida: louvores à Virgem Maria, a Cristo e aos membros do corpo de Cristo e da Virgem."
   },
   "composed": "c. 1350-1373",
   "languages": [
-    "la"
+    "la",
+    "en-US"
   ],
   "work": "bridget-of-sweden/quattuor-orationes",
   "editions": {
     "la": {
       "editor": "Sten Eklund (Svenska fornskriftsällskapet critical edition)",
       "year": 1991
+    },
+    "en-US": {
+      "translator": "Anonymous (catholic-saints.net)",
+      "year": 2013
     }
   },
   "sources": [
@@ -35,37 +40,50 @@
       "description": "Word-file transcription distributed by Documenta Catholica Omnia (also circulated as the Riksarkivet CRB texts), book \"XII\". Cleaned by research/sourcing/_scripts/bridget_build.py: drop-cap braces and stray quotes removed, hyperlink artefacts removed, the edition's inline verse numbers dropped (paragraphs break at verse boundaries), chapter rubrics kept in italics under each heading.",
       "tier": "B",
       "tierEvidence": "Freely distributed online transcription of a medieval text."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/the-prophecies-and-revelations-of-saint-bridget-of-sweden",
+      "edition": "The Prophecies and Revelations of Saint Bridget of Sweden, texts from www.Catholic-Saints.net (Jazzybee Verlag, 2013); translator not named.",
+      "description": "OCR of the ebook text, paragraphs rejoined across page breaks and line-end hyphens closed; each chapter keeps its rubric in italics. ",
+      "tier": "B",
+      "tierEvidence": "Distributed freely online under a Creative Commons Attribution-ShareAlike licence."
     }
   ],
   "toc": [
     {
       "id": "prohemium",
       "title": {
-        "la": "Prohemium"
+        "la": "Prohemium",
+        "en-US": "Proem"
       }
     },
     {
       "id": "oracio-1",
       "title": {
-        "la": "Oracio prima"
+        "la": "Oracio prima",
+        "en-US": "Prayer 1"
       }
     },
     {
       "id": "oracio-2",
       "title": {
-        "la": "Oracio secunda"
+        "la": "Oracio secunda",
+        "en-US": "Prayer 2"
       }
     },
     {
       "id": "oracio-3",
       "title": {
-        "la": "Oracio tercia"
+        "la": "Oracio tercia",
+        "en-US": "Prayer 3"
       }
     },
     {
       "id": "oracio-4",
       "title": {
-        "la": "Oracio quarta"
+        "la": "Oracio quarta",
+        "en-US": "Prayer 4"
       }
     }
   ]
