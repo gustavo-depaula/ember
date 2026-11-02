@@ -1,0 +1,306 @@
+{
+  "id": "ruusbroec-rijcke-der-ghelieven",
+  "cover": "classic",
+  "name": {
+    "dum": "Dat boec vanden rike der ghelieven",
+    "en-US": "The Kingdom of the Lovers of God",
+    "pt-BR": "O Reino dos Amantes de Deus"
+  },
+  "author": {
+    "dum": "Jan van Ruusbroec (1293-1381)",
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "dum": "Ruusbroecs eerste traktaat: de zeven gaven van de Heilige Geest en de vijf rijken Gods. Middelnederlandse tekst van J. B. David (1861).",
+    "en-US": "Ruusbroec's earliest treatise: the seven gifts of the Holy Spirit and the five kingdoms of God. The Middle Dutch text of J. B. David (1861).",
+    "pt-BR": "O primeiro tratado de Ruusbroec: os sete dons do Espírito Santo e os cinco reinos de Deus. Texto em neerlandês médio de J. B. David (1861)."
+  },
+  "composed": "c. 1330-1335",
+  "languages": [
+    "dum"
+  ],
+  "work": "ruusbroec/rijcke-der-ghelieven",
+  "editions": {
+    "dum": {
+      "editor": "Jan Baptist David",
+      "year": 1861
+    }
+  },
+  "sources": [
+    {
+      "language": "dum",
+      "url": "https://www.dbnl.org/tekst/ruus001vlae04_01/",
+      "edition": "Jan van Ruusbroec, Werken, ed. J. B. David, deel 4: Dat boec vanden rike der ghelieven. (Gent: Maetschappy der Vlaemsche Bibliophilen, 1861).",
+      "description": "Keyed text from DBNL (TEI XML, 'auteursrechtvrij'), converted by research/sourcing/_scripts/rhineland/ruus_build.py. Line-end hyphens joined; page and line breaks dropped. David's apparatus is kept as footnotes (manuscript variants F, G, I, L, M, D, Surius' Latin readings 'Sur.'). David's Dutch preface, manuscript list, misprint list and glossary are not included.",
+      "tier": "A",
+      "tierEvidence": "Nineteenth-century critical edition, marked 'Auteursrechtvrij' on DBNL."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologhe",
+      "title": {
+        "dum": "Prologhe"
+      }
+    },
+    {
+      "id": "c001",
+      "title": {
+        "dum": "I. Van Gods heerheit, ende vanden sceppene der enghelen ende der menschen"
+      }
+    },
+    {
+      "id": "c002",
+      "title": {
+        "dum": "II. Van Christus inkarnaciën, ende dat hi den mensce hermaect heeft mids den seven Sacramenten"
+      }
+    },
+    {
+      "id": "c003",
+      "title": {
+        "dum": "III. Dit bescrivet enen gherechten mensche met ‧viij‧ punten"
+      }
+    },
+    {
+      "id": "c004",
+      "title": {
+        "dum": "IV. Van drien weghen te hemelrike waert"
+      }
+    },
+    {
+      "id": "c005",
+      "title": {
+        "dum": "V. Van den weghe des naturlics lichts"
+      }
+    },
+    {
+      "id": "c006",
+      "title": {
+        "dum": "VI. Vanden derden, overnaturleken ende godliken meghe"
+      }
+    },
+    {
+      "id": "c007",
+      "title": {
+        "dum": "VII. Van ‧vj‧ manieren van menschen die hem niet en voeghen dese overnatuerlike godlike gaven te onfane"
+      }
+    },
+    {
+      "id": "c008",
+      "title": {
+        "dum": "VIII. Vander ander partiën van quaden menschen"
+      }
+    },
+    {
+      "id": "c009",
+      "title": {
+        "dum": "IX. Vander derder partiën van quaden menschen"
+      }
+    },
+    {
+      "id": "c010",
+      "title": {
+        "dum": "X. Vander vierder paertiën quader menschen"
+      }
+    },
+    {
+      "id": "c011",
+      "title": {
+        "dum": "XI. Vander vijfter paertien van quaden menschen"
+      }
+    },
+    {
+      "id": "c012",
+      "title": {
+        "dum": "XII. Vander sester partien van quaden menschen"
+      }
+    },
+    {
+      "id": "c013",
+      "title": {
+        "dum": "XIII. Danden ͘iij͘ godliken dogheden"
+      }
+    },
+    {
+      "id": "c014",
+      "title": {
+        "dum": "XIV. Vander gaven der vresen ons Geren"
+      }
+    },
+    {
+      "id": "c015",
+      "title": {
+        "dum": "XV. Vander gaven der goedertierenheit"
+      }
+    },
+    {
+      "id": "c016",
+      "title": {
+        "dum": "XVI. Hoe goedertierenheit ghelijct der fonteinen in den paradise"
+      }
+    },
+    {
+      "id": "c017",
+      "title": {
+        "dum": "XVII. Hoe men dese gave in volcomenheit besitten can"
+      }
+    },
+    {
+      "id": "c018",
+      "title": {
+        "dum": "XVIII. Vander gaven der conste"
+      }
+    },
+    {
+      "id": "c019",
+      "title": {
+        "dum": "XIX. Hoe de mensee die gave der const besitten sal"
+      }
+    },
+    {
+      "id": "c020",
+      "title": {
+        "dum": "XX. Vander gaven der starcheit"
+      }
+    },
+    {
+      "id": "c021",
+      "title": {
+        "dum": "XXI. Hoe die mensce de gave der starcheit besitten mach"
+      }
+    },
+    {
+      "id": "c022",
+      "title": {
+        "dum": "XXII. Noch vander selver gaven in hogheren dogheden"
+      }
+    },
+    {
+      "id": "c023",
+      "title": {
+        "dum": "XXIII. Goe die vriheit des willen ghelijc es den viere"
+      }
+    },
+    {
+      "id": "c024",
+      "title": {
+        "dum": "XXIV. Goemen dese starcheit vercrighen sal"
+      }
+    },
+    {
+      "id": "c025",
+      "title": {
+        "dum": "XXV. Dander gaven des raets"
+      }
+    },
+    {
+      "id": "c026",
+      "title": {
+        "dum": "XXVI. Goe dese menschen Christo ghelijc sijn na sijnre menscheit"
+      }
+    },
+    {
+      "id": "c027",
+      "title": {
+        "dum": "XXVII. Vanden ‧vij‧ planeten"
+      }
+    },
+    {
+      "id": "c028",
+      "title": {
+        "dum": "XXVIII. Hoemen die gave des raets besitten sal"
+      }
+    },
+    {
+      "id": "c029",
+      "title": {
+        "dum": "XXIX. Van enen hogheren grade van der gaven des Raets"
+      }
+    },
+    {
+      "id": "c030",
+      "title": {
+        "dum": "XXX. Hoe de gave godlijcs Raets beseten wert inder hoechster volcomenheit"
+      }
+    },
+    {
+      "id": "c031",
+      "title": {
+        "dum": "XXXI. Vander gaven der Verstendicheit"
+      }
+    },
+    {
+      "id": "c032",
+      "title": {
+        "dum": "XXXII. Hoemen dese gave der verstendicheit besitten sal"
+      }
+    },
+    {
+      "id": "c033",
+      "title": {
+        "dum": "XXXIII. Van der gaven der smakender Wijsheit"
+      }
+    },
+    {
+      "id": "c034",
+      "title": {
+        "dum": "XXXIV. Hoe die verlichte redene Gode scouwet in vernuftighen beelden"
+      }
+    },
+    {
+      "id": "c035",
+      "title": {
+        "dum": "XXXV. Vanden heilighen Gheeste"
+      }
+    },
+    {
+      "id": "c036",
+      "title": {
+        "dum": "XXXVI. Hoemen die gave der wijsheit besitten sal"
+      }
+    },
+    {
+      "id": "c037",
+      "title": {
+        "dum": "XXXVII. Van vijf Riken Gods. Ierst vanden sinliken Rike, ende vanden lesten Ordeel"
+      }
+    },
+    {
+      "id": "c038",
+      "title": {
+        "dum": "XXXVIII. Van ‧iiij‧ gaven des gloriosen lichaems"
+      }
+    },
+    {
+      "id": "c039",
+      "title": {
+        "dum": "XXXIX. Vanden natuerliken rike Gods"
+      }
+    },
+    {
+      "id": "c040",
+      "title": {
+        "dum": "XL. Van dat Rike der Scrifturen"
+      }
+    },
+    {
+      "id": "c041",
+      "title": {
+        "dum": "XLI. Van dat rike der ghenaden ende der glorien"
+      }
+    },
+    {
+      "id": "c042",
+      "title": {
+        "dum": "XLII. Vanden ses vruchten der gracien ende der glorien"
+      }
+    },
+    {
+      "id": "c043",
+      "title": {
+        "dum": "XLIII. Von dat rike dat God self es"
+      }
+    }
+  ]
+}
