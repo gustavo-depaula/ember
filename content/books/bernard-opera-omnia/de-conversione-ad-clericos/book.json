@@ -1,0 +1,180 @@
+{
+  "id": "bernard-de-conversione-ad-clericos",
+  "cover": "classic",
+  "name": {
+    "la": "De conversione ad clericos",
+    "en-US": "On Conversion, to the Clergy",
+    "pt-BR": "Sobre a conversão, aos clérigos"
+  },
+  "author": {
+    "la": "Bernardus Claraevallensis",
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "description": {
+    "la": "Sermo seu tractatus Bernardi ad clericos de conversione, Parisiis habitus.",
+    "en-US": "Bernard’s address to the clerics of Paris on conversion, from the voice of the Lord that calls the soul back to itself to the cities of refuge, with Mabillon’s admonitio. Latin only, from the Maurist text in Migne, a machine-corrected OCR.",
+    "pt-BR": "O discurso de Bernardo aos clérigos de Paris sobre a conversão, da voz do Senhor que chama a alma de volta a si às cidades de refúgio."
+  },
+  "composed": "c. 1140",
+  "languages": [
+    "la"
+  ],
+  "work": "bernard/de-conversione-ad-clericos",
+  "editions": {
+    "la": {
+      "editor": "Jean Mabillon, in J.-P. Migne (Patrologia Latina 182)",
+      "year": 1854
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://mlat.uzh.ch/browser?path=/38/2268/6153",
+      "edition": "S. Bernardi Claraevallensis abbatis opera omnia, ed. J. Mabillon, in Migne, Patrologia Latina 182 (Paris 1854); TEI XML of the Corpus Corporum (University of Zurich), work 6153, from machine-corrected OCR.",
+      "description": "The complete text with Mabillon’s admonitio, chapter headings and summaries. PL page breaks and column numbers are dropped, and so are the paragraph numbers; Scripture references stay in parentheses as printed.",
+      "tier": "A",
+      "tierEvidence": "Bernard died in 1153; Migne’s printing is public domain everywhere."
+    }
+  ],
+  "toc": [
+    {
+      "id": "admonitio",
+      "title": {
+        "la": "Admonitio Mabillonii"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I. Quod nemo converti ad Dominum, nisi Dei voluntate praeventus et ejus voce interius clamante, possit"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II. Quod ipsa vox Domini omnibus se offerat, et animam sibi ipsi nolentem repraesentet"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III. Quod per vocem Dei, animae ratio, quasi in libro, omnia mala deprehendere, reprehendere, dijudicare et discernere valeat"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV. Quod diligens iniquitatem, odit animam, et carnem suam: et de poenitentia infructuosa post mortem"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "la": "Caput V. Quod vermis conscientiae in praesenti sentiri ac suffocari debet, non in immortalitatem foveri ac nutriri"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "la": "Caput VI. Difficultatem conversionis, et luctam resipiscere parantis, graphice repraesentat"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "la": "Caput VII. Respiratio consolationis pauperibus spiritu seu animae miseriam agnoscenti"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "la": "Caput VIII. Carnales voluptates, et divitias esse omnino vanas, fallaces, et momentaneas"
+      }
+    },
+    {
+      "id": "c09",
+      "title": {
+        "la": "Caput IX. Quod impossibile sit peccantem latere"
+      }
+    },
+    {
+      "id": "c10",
+      "title": {
+        "la": "Caput X. Non solum declinando a malo, sed et faciendo bonum salutem obtineri"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "la": "Caput XI. Converti molientes acrius a solitis vitiis tentari, ipsis vero luctum esse necessarium"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "la": "Caput XII. Quomodo voluntas suaviter inducenda ad amandum et desiderandum coelestia"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "la": "Caput XIII. Conversos mira suavitate ac deliciis vitae piae ac spiritualis refici"
+      }
+    },
+    {
+      "id": "c14",
+      "title": {
+        "la": "Caput XIV. In terrenis non esse ullam sotietatem, nisi fastidio conjunctam: at coelestium desideria experiendo semper crescere"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "la": "Caput XV. Purganda memoria a peccatorum sordibus fiducia divinae misericordiae"
+      }
+    },
+    {
+      "id": "c16",
+      "title": {
+        "la": "Caput XVI. Misericordiam divinam obtineri, miserendo sibi ipsi primum; deinde proximo"
+      }
+    },
+    {
+      "id": "c17",
+      "title": {
+        "la": "Caput XVII. Oculos cordis continuo mundandos, ut Deus videri possit"
+      }
+    },
+    {
+      "id": "c18",
+      "title": {
+        "la": "Caput XVIII. Pacificos merito beatificari nomine filiorum Dei"
+      }
+    },
+    {
+      "id": "c19",
+      "title": {
+        "la": "Caput XIX. Graviter perstringit ambitiosos, qui temere et indigne sacras Ecclesiae functiones usurpant"
+      }
+    },
+    {
+      "id": "c20",
+      "title": {
+        "la": "Caput XX. Arguit incontinentes, qui sacros Ordines impudenter temerare non verentur"
+      }
+    },
+    {
+      "id": "c21",
+      "title": {
+        "la": "Caput XXI. Serio cohortatur ad poenitentiam"
+      }
+    },
+    {
+      "id": "c22",
+      "title": {
+        "la": "Caput XXII. Bonorum pastorum est, docere; nec fugere persecutiones propter justitiam"
+      }
+    }
+  ]
+}
