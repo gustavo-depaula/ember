@@ -1,0 +1,138 @@
+{
+  "id": "kempis-de-disciplina-claustralium",
+  "cover": "classic",
+  "name": {
+    "la": "De disciplina claustralium",
+    "en-US": "On Cloister Discipline",
+    "pt-BR": "Da disciplina claustral"
+  },
+  "author": {
+    "la": "Thomas a Kempis",
+    "en-US": "Thomas à Kempis",
+    "pt-BR": "Tomás de Kempis"
+  },
+  "description": {
+    "la": "Libellus de disciplina claustralium: in quibus consistit disciplina claustralis, silentium, officium divinum, opus manuum, oboedientia, correctio.",
+    "en-US": "Sixteen chapters on the discipline of the cloister: silence, the divine office, manual work, obedience, correction and fidelity to the rule. Latin only: Pohl's critical edition (Freiburg 1904), from a raw OCR of the printed volume; no public-domain English translation has been found.",
+    "pt-BR": "Dezesseis capítulos sobre a disciplina do claustro: silêncio, ofício divino, trabalho manual, obediência, correção e fidelidade à regra."
+  },
+  "composed": "c. 1425-1440",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-a-kempis/de-disciplina-claustralium",
+  "editions": {
+    "la": {
+      "editor": "Michael Joseph Pohl",
+      "year": 1904
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomniaimitat0000thom",
+      "edition": "Thomae Hemerken a Kempis De disciplina claustralium, ed. M. J. Pohl (Freiburg: Herder 1904), Opera omnia II; archive.org raw OCR.",
+      "description": "Pohl's text without his critical apparatus and introduction; line numbers, running heads and page breaks stripped by script, upper-case chapter titles recased (u/v normalised by script). Raw OCR: drop capitals at openings are often garbled and some slips remain after the scripted lexicon repair.",
+      "tier": "A",
+      "tierEvidence": "Pohl 1904; Thomas died in 1471."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p1-01",
+      "title": {
+        "la": "1. In quibus consistit disciplina claustralis"
+      }
+    },
+    {
+      "id": "p1-02",
+      "title": {
+        "la": "2. De diversis temptationibus et insidiis diaboli"
+      }
+    },
+    {
+      "id": "p1-03",
+      "title": {
+        "la": "3. De vera conversione ad Deum qui est summum bonum"
+      }
+    },
+    {
+      "id": "p1-04",
+      "title": {
+        "la": "4. De oboedientia humilis subditi erga praelatum suum"
+      }
+    },
+    {
+      "id": "p1-05",
+      "title": {
+        "la": "5. De custodia cordis et reditu ad interiora"
+      }
+    },
+    {
+      "id": "p1-06",
+      "title": {
+        "la": "6. De custodia oris et exercitio laboris"
+      }
+    },
+    {
+      "id": "p1-07",
+      "title": {
+        "la": "7. De recommendatione cellae et solitudinis"
+      }
+    },
+    {
+      "id": "p1-08",
+      "title": {
+        "la": "8. De choro et divino officio peragendo"
+      }
+    },
+    {
+      "id": "p1-09",
+      "title": {
+        "la": "9. De discretione in omni spirituali exercitio servanda"
+      }
+    },
+    {
+      "id": "p1-10",
+      "title": {
+        "la": "10. Oratio de felici consummatione in virtutibus"
+      }
+    },
+    {
+      "id": "p1-11",
+      "title": {
+        "la": "11. De caritate Dei et proximi et odio vitiorum"
+      }
+    },
+    {
+      "id": "p1-12",
+      "title": {
+        "la": "12. De abstinentia et castitate"
+      }
+    },
+    {
+      "id": "p1-13",
+      "title": {
+        "la": "13. De utili exercitio in vita et passione Christi"
+      }
+    },
+    {
+      "id": "p1-14",
+      "title": {
+        "la": "14. De commemoratione et invocatione beatissimae Virginis Mariae"
+      }
+    },
+    {
+      "id": "p1-15",
+      "title": {
+        "la": "15. De suffragiis sanctorum sedule petendis"
+      }
+    },
+    {
+      "id": "p1-16",
+      "title": {
+        "la": "16. De desiderio animae ad caeleste regnum"
+      }
+    }
+  ]
+}
