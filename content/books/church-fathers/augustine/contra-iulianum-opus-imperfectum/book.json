@@ -1,0 +1,231 @@
+{
+  "id": "augustine-contra-iulianum-opus-imperfectum",
+  "cover": "quarter",
+  "name": {
+    "la": "Contra secundam Iuliani responsionem imperfectum opus",
+    "en-US": "Unfinished Work against Julian",
+    "pt-BR": "Obra inacabada contra Juliano"
+  },
+  "author": {
+    "la": "Aurelius Augustinus Hipponensis (354-430)",
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
+  },
+  "description": {
+    "la": "Contra secundam Iuliani responsionem imperfectum opus. Textus Latinus secundum editionem Maurinorum.",
+    "en-US": "Unfinished Work against Julian (429-430), by St. Augustine of Hippo. Latin text of the Maurist edition; no public-domain English translation has been imported yet.",
+    "pt-BR": "Obra inacabada contra Juliano (429-430), de Santo Agostinho de Hipona. Texto latino da edição dos Maurinos."
+  },
+  "composed": "429-430",
+  "languages": [
+    "la"
+  ],
+  "work": "augustine/contra-iulianum-opus-imperfectum",
+  "editions": {
+    "la": {
+      "editor": "Maurists (Benedictines of Saint-Maur), Migne PL",
+      "year": 1841
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.augustinus.it/latino/incompiuta_giuliano/index.htm",
+      "edition": "Maurist text (Benedictines of Saint-Maur, 1679-1700) as printed in Migne, Patrologia Latina, on augustinus.it (Corpus Augustinianum Gissense / NBA Latin pages)",
+      "description": "Latin pages incompiuta_giuliano of augustinus.it, one page per book, long pages split at chapter boundaries. The Italian NBA headings, summaries and biblical-reference notes are dropped; section numbers and italicised quotations are kept. Raw mirror in research/sourcing/augustine-latin/raw.",
+      "tier": "A",
+      "tierEvidence": "Text of a 4th-5th-century work in the Maurist edition (1679-1700, Migne 1841-49), long public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Praefatio"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I, Capita 1–49"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber I, Capita 50–69"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber I, Capita 70–96"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber I, Capita 97–133"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber I, Capita 134–141"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber II, Capita 1–49"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber II, Capita 50–102"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber II, Capita 103–145"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber II, Capita 146–185"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Liber II, Capita 186–223"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber II, Capita 224–236"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Liber III, Capita 1–42"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Liber III, Capita 43–92"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Liber III, Capita 93–145"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Liber III, Capita 146–186"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Liber III, Capita 187–216"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Liber IV, Capita 1–37"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Liber IV, Capita 38–65"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Liber IV, Capita 66–97"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Liber IV, Capita 98–120"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Liber IV, Capita 121–136"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Liber V, Capita 1–17"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Liber V, Capita 18–31"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Liber V, Capita 32–54"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Liber V, Capita 55–64"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Liber VI, Capita 1–14"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Liber VI, Capita 15–22"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "Liber VI, Capita 23–27"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "la": "Liber VI, Capita 28–36"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "la": "Liber VI, Capita 37–41"
+      }
+    }
+  ],
+  "arrived": {
+    "la": "2026-11-02"
+  }
+}
