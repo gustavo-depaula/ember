@@ -1,0 +1,4656 @@
+{
+  "id": "bossuet-lettres-de-direction",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres de piété et de direction",
+    "en-US": "Letters of Piety and Spiritual Direction",
+    "pt-BR": "Cartas de piedade e de direção espiritual"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les lettres de direction spirituelle de Bossuet, classées par destinataire : à une demoiselle de Metz, à Mme de Maisonfort, à la sœur Cornuau, à Mme d’Albert de Luynes et à l’abbesse et aux religieuses de Jouarre, à des religieuses de divers monastères, à Mme de Beringhen. Édition Lachat (1864), avec les remarques historiques de l’éditeur.",
+    "en-US": "Bossuet’s letters of spiritual direction, arranged by recipient: to a young lady of Metz, to Mme de Maisonfort, to Sister Cornuau, to Mme d’Albert de Luynes and to the abbess and nuns of Jouarre, to nuns of various convents, to Mme de Beringhen. Lachat edition (1864), with the editor’s historical remarks.",
+    "pt-BR": "As cartas de direção espiritual de Bossuet, ordenadas por destinatário: a uma jovem de Metz, à sra. de Maisonfort, à irmã Cornuau, à sra. d’Albert de Luynes e à abadessa e às religiosas de Jouarre, a religiosas de vários mosteiros, à sra. de Beringhen. Edição Lachat (1864), com as observações históricas do editor."
+  },
+  "composed": "1690–1703",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/lettres-de-direction",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume027/013.htm to 022.htm and volume028/001.htm to 013.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volumes XXVII-XXVIII (Lettres de piété et de direction). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "g01",
+      "title": {
+        "fr-FR": "Lettres à une demoiselle de Metz"
+      },
+      "children": [
+        {
+          "id": "g01-l001",
+          "title": {
+            "fr-FR": "Lettre Premiere. Sur le désir de l'amour divin, et ses effets dans un cœur qui en est possédé. De la veille de l'Ascension, 1662"
+          }
+        },
+        {
+          "id": "g01-l002",
+          "title": {
+            "fr-FR": "Lettre II. Effets que produit dans l’âme l'admiration des beautés de Jésus-Christ"
+          }
+        },
+        {
+          "id": "g01-l003",
+          "title": {
+            "fr-FR": "Lettre III. Sur les caractères que doit avoir l'amour divin dans nos cœurs, et les excès de l'amour profane"
+          }
+        },
+        {
+          "id": "g01-l004",
+          "title": {
+            "fr-FR": "Lettre IV. Sur le mystère de l'unité de l'Eglise, et les merveilles qu'il renferme"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": {
+        "fr-FR": "Lettres à Madame de Maisonfort"
+      },
+      "children": [
+        {
+          "id": "g02-l001",
+          "title": {
+            "fr-FR": "Remarques"
+          }
+        },
+        {
+          "id": "g02-l002",
+          "title": {
+            "fr-FR": "Lettre Première. A Paris, 21 mars 1696"
+          }
+        },
+        {
+          "id": "g02-l003",
+          "title": {
+            "fr-FR": "Lettre II. A Lisy, ce 5 avril 1696"
+          }
+        },
+        {
+          "id": "g02-l004",
+          "title": {
+            "fr-FR": "Lettre III"
+          }
+        },
+        {
+          "id": "g02-l005",
+          "title": {
+            "fr-FR": "Lettre IV"
+          }
+        },
+        {
+          "id": "g02-l006",
+          "title": {
+            "fr-FR": "Lettre V. A Germigny, 24 septembre 1696"
+          }
+        },
+        {
+          "id": "g02-l007",
+          "title": {
+            "fr-FR": "Lettre VI. A Versailles, 16 février 1697"
+          }
+        },
+        {
+          "id": "g02-l008",
+          "title": {
+            "fr-FR": "Lettre VII. 6 mars 1697"
+          }
+        },
+        {
+          "id": "g02-l009",
+          "title": {
+            "fr-FR": "Lettre VII. 6 mars 1697"
+          }
+        },
+        {
+          "id": "g02-l010",
+          "title": {
+            "fr-FR": "Lettre VIII. A Paris, 12 mai 1697"
+          }
+        },
+        {
+          "id": "g02-l011",
+          "title": {
+            "fr-FR": "Lettre IX. A Paris, 24 juin 1697"
+          }
+        },
+        {
+          "id": "g02-l012",
+          "title": {
+            "fr-FR": "Lettre X. A Germigny, 16 mars 1698"
+          }
+        },
+        {
+          "id": "g02-l013",
+          "title": {
+            "fr-FR": "Lettre XI. A Meaux, 22 avril 1699"
+          }
+        },
+        {
+          "id": "g02-l014",
+          "title": {
+            "fr-FR": "Lettre XII. Le 1er de mai 1700"
+          }
+        },
+        {
+          "id": "g02-l015",
+          "title": {
+            "fr-FR": "Lettre XIII. A Paris, 1er mars 1700"
+          }
+        },
+        {
+          "id": "g02-l016",
+          "title": {
+            "fr-FR": "Lettre XIV. Mai 1701"
+          }
+        },
+        {
+          "id": "g02-l017",
+          "title": {
+            "fr-FR": "Lettre XV. 29 mai 1701"
+          }
+        },
+        {
+          "id": "g02-l018",
+          "title": {
+            "fr-FR": "Lettre XVI. Le 14 septembre 1701"
+          }
+        },
+        {
+          "id": "g02-l019",
+          "title": {
+            "fr-FR": "Lettre XVII. A Germigny, 3 octobre 1701"
+          }
+        },
+        {
+          "id": "g02-l020",
+          "title": {
+            "fr-FR": "Lettre XVIII. A Germigny, 4 octobre 1701"
+          }
+        },
+        {
+          "id": "g02-l021",
+          "title": {
+            "fr-FR": "Lettre XIX. À la Supérieure de la Visitation. A Germigny, 20 octobre 1701"
+          }
+        },
+        {
+          "id": "g02-l022",
+          "title": {
+            "fr-FR": "Lettre XX. À Madame de Maisonfort. A Germigny, 20 octobre 1701"
+          }
+        },
+        {
+          "id": "g02-l023",
+          "title": {
+            "fr-FR": "Lettre XXI. A Versailles, 28 janvier 1702"
+          }
+        },
+        {
+          "id": "g02-l024",
+          "title": {
+            "fr-FR": "Lettre XXII. A Versailles, 20 février 1702"
+          }
+        },
+        {
+          "id": "g02-l025",
+          "title": {
+            "fr-FR": "Lettre XXIII"
+          }
+        },
+        {
+          "id": "g02-l026",
+          "title": {
+            "fr-FR": "Lettre XXIV. A Paris, 17 mai 1703"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": {
+        "fr-FR": "Lettres à Madame Cornuau, dite en religion de Saint-Bénigne"
+      },
+      "children": [
+        {
+          "id": "g03-l001",
+          "title": {
+            "fr-FR": "Remarques historiques"
+          }
+        },
+        {
+          "id": "g03-l002",
+          "title": {
+            "fr-FR": "Lettre De La Soeur Cornuau Au Cardinal De Noailles, Sur Les Lettres Que Bossuet Lui Avait Écrites"
+          }
+        },
+        {
+          "id": "g03-l003",
+          "title": {
+            "fr-FR": "Avertissement de la même sœur sur les lettres suivantes"
+          }
+        },
+        {
+          "id": "g03-l004",
+          "title": {
+            "fr-FR": "Second avertissement de la même soeur"
+          }
+        },
+        {
+          "id": "g03-l005",
+          "title": {
+            "fr-FR": "Lettre Première. A Germigny, ce 2 mai 1686"
+          }
+        },
+        {
+          "id": "g03-l006",
+          "title": {
+            "fr-FR": "Lettre II. De Meaux, ce 19 septembre 1686"
+          }
+        },
+        {
+          "id": "g03-l007",
+          "title": {
+            "fr-FR": "Lettre III. A Meaux, ce 2 novembre I686"
+          }
+        },
+        {
+          "id": "g03-l008",
+          "title": {
+            "fr-FR": "Lettre IV. A Paris, ce 10 mars 1637"
+          }
+        },
+        {
+          "id": "g03-l009",
+          "title": {
+            "fr-FR": "Lettre V. A Germigny, ce 2 juin 1687"
+          }
+        },
+        {
+          "id": "g03-l010",
+          "title": {
+            "fr-FR": "Lettre VI. A Germigny, ce 10 octobre 1687"
+          }
+        },
+        {
+          "id": "g03-l011",
+          "title": {
+            "fr-FR": "Lettre VII. A Germigny, ce 22 octobre 1687"
+          }
+        },
+        {
+          "id": "g03-l012",
+          "title": {
+            "fr-FR": "Lettre VIII. A Meaux, ce 3 février 1688"
+          }
+        },
+        {
+          "id": "g03-l013",
+          "title": {
+            "fr-FR": "Lettre IX. A Paris, ce 10 mars 1688"
+          }
+        },
+        {
+          "id": "g03-l014",
+          "title": {
+            "fr-FR": "Lettre X. A Meaux, ce 3 novembre 1688"
+          }
+        },
+        {
+          "id": "g03-l015",
+          "title": {
+            "fr-FR": "Lettre XI. A Meaux, ce 27 décembre 1688"
+          }
+        },
+        {
+          "id": "g03-l016",
+          "title": {
+            "fr-FR": "Lettre XII. A Meaux, ce 4 février 1689"
+          }
+        },
+        {
+          "id": "g03-l017",
+          "title": {
+            "fr-FR": "Lettre XIII. A Germigny, ce 25 août 1689"
+          }
+        },
+        {
+          "id": "g03-l018",
+          "title": {
+            "fr-FR": "Lettre XIV. A Germigny, ce 28 septembre 1689"
+          }
+        },
+        {
+          "id": "g03-l019",
+          "title": {
+            "fr-FR": "Lettre XV. A Meaux, ce 3 novembre 1689"
+          }
+        },
+        {
+          "id": "g03-l020",
+          "title": {
+            "fr-FR": "Lettre XVI. A Germigny, ce 8 novembre 1689"
+          }
+        },
+        {
+          "id": "g03-l021",
+          "title": {
+            "fr-FR": "Lettre XVII. A Versailles, ce 3 décembre 1689"
+          }
+        },
+        {
+          "id": "g03-l022",
+          "title": {
+            "fr-FR": "Lettre XVIII. A Meaux, ce 28 décembre 1689"
+          }
+        },
+        {
+          "id": "g03-l023",
+          "title": {
+            "fr-FR": "Lettre XIX. A Meaux, ce 10 mars 1690"
+          }
+        },
+        {
+          "id": "g03-l024",
+          "title": {
+            "fr-FR": "Lettre XX. A Paris, ce 23 août 1690"
+          }
+        },
+        {
+          "id": "g03-l025",
+          "title": {
+            "fr-FR": "Lettre XXL. A Meaux, ce 17 septembre 1690"
+          }
+        },
+        {
+          "id": "g03-l026",
+          "title": {
+            "fr-FR": "Lettre XXII. A Meaux, ce 10 novembre 1691"
+          }
+        },
+        {
+          "id": "g03-l027",
+          "title": {
+            "fr-FR": "Lettre XXIII. A Meaux, ce 10 novembre 1691"
+          }
+        },
+        {
+          "id": "g03-l028",
+          "title": {
+            "fr-FR": "Lettre XXIV. A Germigny, ce 18 septembre 1691"
+          }
+        },
+        {
+          "id": "g03-l029",
+          "title": {
+            "fr-FR": "Lettre XXV. A Germigny, ce 1er octobre 1691"
+          }
+        },
+        {
+          "id": "g03-l030",
+          "title": {
+            "fr-FR": "Lettre XXVI. A Meaux, ce 3 novembre 1691"
+          }
+        },
+        {
+          "id": "g03-l031",
+          "title": {
+            "fr-FR": "Lettre XXVII. A Dammartin, ce 10 novembre 1691"
+          }
+        },
+        {
+          "id": "g03-l032",
+          "title": {
+            "fr-FR": "Lettre XXVIII. À la Communauté des Filles de la Ferté Sous-Jouarre. A Dammartin, ce 10 novembre 1691"
+          }
+        },
+        {
+          "id": "g03-l033",
+          "title": {
+            "fr-FR": "Lettre XXIX. A Paris, ce 5 décembre 1691"
+          }
+        },
+        {
+          "id": "g03-l034",
+          "title": {
+            "fr-FR": "Lettre XXX. A Meaux, ce 19 décembre 1691"
+          }
+        },
+        {
+          "id": "g03-l035",
+          "title": {
+            "fr-FR": "Lettre XXXI. A Paris, ce 5 janvier 1692"
+          }
+        },
+        {
+          "id": "g03-l036",
+          "title": {
+            "fr-FR": "Lettre XXXII. A Versailles, ce 17 janvier 1692"
+          }
+        },
+        {
+          "id": "g03-l037",
+          "title": {
+            "fr-FR": "Lettre XXXIII. A Paris, ce 21 février 1692"
+          }
+        },
+        {
+          "id": "g03-l038",
+          "title": {
+            "fr-FR": "Lettre XXXIV. A Meaux, ce 4 avril 1692"
+          }
+        },
+        {
+          "id": "g03-l039",
+          "title": {
+            "fr-FR": "Lettre XXXV. A Meaux, ce 30 mai 1692"
+          }
+        },
+        {
+          "id": "g03-l040",
+          "title": {
+            "fr-FR": "Lettre XXXVI. A Germigny, ce 10 juillet 1692"
+          }
+        },
+        {
+          "id": "g03-l041",
+          "title": {
+            "fr-FR": "Lettre XXXVII. A Meaux, ce 4 août 1692"
+          }
+        },
+        {
+          "id": "g03-l042",
+          "title": {
+            "fr-FR": "Lettre XXXVIII. A Germigny, ce 6 septembre 1092"
+          }
+        },
+        {
+          "id": "g03-l043",
+          "title": {
+            "fr-FR": "Lettre XXXIX. A Germigny, ce 17 septembre 1692"
+          }
+        },
+        {
+          "id": "g03-l044",
+          "title": {
+            "fr-FR": "Lettre XL. A Germigny, ce 21 septembre 1692"
+          }
+        },
+        {
+          "id": "g03-l045",
+          "title": {
+            "fr-FR": "Lettre XLI. A Germigny, ce 8 novembre 1692"
+          }
+        },
+        {
+          "id": "g03-l046",
+          "title": {
+            "fr-FR": "Lettre XLII. A Germigny, ce 28 novembre 1692"
+          }
+        },
+        {
+          "id": "g03-l047",
+          "title": {
+            "fr-FR": "Lettre XLIII. A Meaux, ce 22 décembre 1692"
+          }
+        },
+        {
+          "id": "g03-l048",
+          "title": {
+            "fr-FR": "Lettre XLIV. A Meaux, ce 17 janvier 1693"
+          }
+        },
+        {
+          "id": "g03-l049",
+          "title": {
+            "fr-FR": "Lettre XLV. A Versailles, ce 26 janvier 1693"
+          }
+        },
+        {
+          "id": "g03-l050",
+          "title": {
+            "fr-FR": "Lettre XLVI. A Paris, ce 28 février 1693"
+          }
+        },
+        {
+          "id": "g03-l051",
+          "title": {
+            "fr-FR": "Lettre XLVII. A Meaux, ce jour de Pâques 1693"
+          }
+        },
+        {
+          "id": "g03-l052",
+          "title": {
+            "fr-FR": "Lettre XLVIII. A Meaux, ce 24 mars 1693"
+          }
+        },
+        {
+          "id": "g03-l053",
+          "title": {
+            "fr-FR": "Lettre XLIX. A Paris, ce 19 avril 1693"
+          }
+        },
+        {
+          "id": "g03-l054",
+          "title": {
+            "fr-FR": "Lettre L. A Meaux, le lundi de la Pentecôte 1693"
+          }
+        },
+        {
+          "id": "g03-l055",
+          "title": {
+            "fr-FR": "Lettre LI. A Jouarre, ce 17 mai 1693"
+          }
+        },
+        {
+          "id": "g03-l056",
+          "title": {
+            "fr-FR": "Lettre LII. A Meaux, ce samedi matin au mois de mai"
+          }
+        },
+        {
+          "id": "g03-l057",
+          "title": {
+            "fr-FR": "Lettre LIII. A Meaux, dimanche soir au mois de mai 1693"
+          }
+        },
+        {
+          "id": "g03-l058",
+          "title": {
+            "fr-FR": "Lettre LIV. A Meaux, mercredi matin, au mois de mai 1693"
+          }
+        },
+        {
+          "id": "g03-l059",
+          "title": {
+            "fr-FR": "Lettre LV. A Germigny, ce 14 juin 1693"
+          }
+        },
+        {
+          "id": "g03-l060",
+          "title": {
+            "fr-FR": "Lettre LVI. A Soissons, ce 10 juin 1693"
+          }
+        },
+        {
+          "id": "g03-l061",
+          "title": {
+            "fr-FR": "Lettre LVII. A Paris, au mois de juin 1693"
+          }
+        },
+        {
+          "id": "g03-l062",
+          "title": {
+            "fr-FR": "Lettre LVIII. A Germigny, ce 15 juillet 1693"
+          }
+        },
+        {
+          "id": "g03-l063",
+          "title": {
+            "fr-FR": "Lettre LIX. A Germigny, ce 5 août 1693"
+          }
+        },
+        {
+          "id": "g03-l064",
+          "title": {
+            "fr-FR": "Lettre LX. A Germigny, ce 7 août 1693"
+          }
+        },
+        {
+          "id": "g03-l065",
+          "title": {
+            "fr-FR": "Lettre LXI. A Germigny, ce 10 septembre 1693"
+          }
+        },
+        {
+          "id": "g03-l066",
+          "title": {
+            "fr-FR": "Lettre LXII. A Paris, ce 10 septembre 1693"
+          }
+        },
+        {
+          "id": "g03-l067",
+          "title": {
+            "fr-FR": "Lettre LXIII. A Germigny, ce 26 septembre 1693"
+          }
+        },
+        {
+          "id": "g03-l068",
+          "title": {
+            "fr-FR": "Lettre LXIV. A Germigny, ce 13 octobre 1693"
+          }
+        },
+        {
+          "id": "g03-l069",
+          "title": {
+            "fr-FR": "Lettre LXV. A Meaux, ce 3 novembre 1632"
+          }
+        },
+        {
+          "id": "g03-l070",
+          "title": {
+            "fr-FR": "Lettre LXVI. A Meaux, ce 15 décembre 1693"
+          }
+        },
+        {
+          "id": "g03-l071",
+          "title": {
+            "fr-FR": "Lettre LXVII. A Versailles, ce 26 décembre 1693"
+          }
+        },
+        {
+          "id": "g03-l072",
+          "title": {
+            "fr-FR": "Lettre LXVIII. A Paris, ce 5 janvier 1694"
+          }
+        },
+        {
+          "id": "g03-l073",
+          "title": {
+            "fr-FR": "Lettre LXIX. A Paris, ce mercredi matin 1694"
+          }
+        },
+        {
+          "id": "g03-l074",
+          "title": {
+            "fr-FR": "Lettre LXX. A Meaux, ce 22 mars 1694"
+          }
+        },
+        {
+          "id": "g03-l075",
+          "title": {
+            "fr-FR": "Lettre LXXI. A Paris, ce mercredi matin 1694"
+          }
+        },
+        {
+          "id": "g03-l076",
+          "title": {
+            "fr-FR": "Lettre LXXII. A Meaux, ce 4 mai 1694"
+          }
+        },
+        {
+          "id": "g03-l077",
+          "title": {
+            "fr-FR": "Lettre LXXIII. A Germigny, ce 10 mai 1694"
+          }
+        },
+        {
+          "id": "g03-l078",
+          "title": {
+            "fr-FR": "Lettre CXXIV. A Paris, ce 20 mai 1696"
+          }
+        },
+        {
+          "id": "g03-l079",
+          "title": {
+            "fr-FR": "Lettre CXXV. A Meaux, ce 29 mai 1096"
+          }
+        },
+        {
+          "id": "g03-l080",
+          "title": {
+            "fr-FR": "Lettre CXXVI. A Germigny, ce 30 mai 1696"
+          }
+        },
+        {
+          "id": "g03-l081",
+          "title": {
+            "fr-FR": "Lettre CXXVII. A Germigny, ce 1er juin 1696"
+          }
+        },
+        {
+          "id": "g03-l082",
+          "title": {
+            "fr-FR": "Lettre CXXVIII. A Germigny, ce 11 août 1696"
+          }
+        },
+        {
+          "id": "g03-l083",
+          "title": {
+            "fr-FR": "Lettre CXXIX. A Paris, ce samedi au soir 1696"
+          }
+        },
+        {
+          "id": "g03-l084",
+          "title": {
+            "fr-FR": "Lettre CXXX. A Germigny, ce 25 septembre 1696"
+          }
+        },
+        {
+          "id": "g03-l085",
+          "title": {
+            "fr-FR": "Lettre CXXXI. A Versailles, ce 3 octobre 1690"
+          }
+        },
+        {
+          "id": "g03-l086",
+          "title": {
+            "fr-FR": "Lettre CXXXII. A Meaux, ce 20 octobre 1096"
+          }
+        },
+        {
+          "id": "g03-l087",
+          "title": {
+            "fr-FR": "Lettre CXXXIII. A Versailles, ce lu janvier 1697"
+          }
+        },
+        {
+          "id": "g03-l088",
+          "title": {
+            "fr-FR": "Lettre CXXXIV. A Paris, ce 8 mars 1697"
+          }
+        },
+        {
+          "id": "g03-l089",
+          "title": {
+            "fr-FR": "Lettre CXXXV. A Meaux, ce 1er avril 1697"
+          }
+        },
+        {
+          "id": "g03-l090",
+          "title": {
+            "fr-FR": "Lettre CXXXVI. A Paris, ce vendredi matin 1697"
+          }
+        },
+        {
+          "id": "g03-l091",
+          "title": {
+            "fr-FR": "Lettre CXXXVII. A Meaux, ce 7 juin 1697"
+          }
+        },
+        {
+          "id": "g03-l092",
+          "title": {
+            "fr-FR": "Lettre CXXXVIII. A Paris, ce 17 juin 1697"
+          }
+        },
+        {
+          "id": "g03-l093",
+          "title": {
+            "fr-FR": "Lettre CXXXIX. A Paris, ce 25 juillet 1697"
+          }
+        },
+        {
+          "id": "g03-l094",
+          "title": {
+            "fr-FR": "Lettre CXL. A Paris, ce 30 juillet 1697"
+          }
+        },
+        {
+          "id": "g03-l095",
+          "title": {
+            "fr-FR": "Lettre CXLI. A Germigny, ce 1er septembre 1697"
+          }
+        },
+        {
+          "id": "g03-l096",
+          "title": {
+            "fr-FR": "Lettre CXLII. A Meaux, ce 6 septembre 1697"
+          }
+        },
+        {
+          "id": "g03-l097",
+          "title": {
+            "fr-FR": "Lettre CXLIII. A Meaux, ce 7 janvier 1698"
+          }
+        },
+        {
+          "id": "g03-l098",
+          "title": {
+            "fr-FR": "Lettre CXLIV. A Paris, ce 18 février 1698"
+          }
+        },
+        {
+          "id": "g03-l099",
+          "title": {
+            "fr-FR": "Lettre CXLV. A Paris, ce 5 mars 1698"
+          }
+        },
+        {
+          "id": "g03-l100",
+          "title": {
+            "fr-FR": "Lettre CXLVI. A Meaux, ce 4 avril 1698"
+          }
+        },
+        {
+          "id": "g03-l101",
+          "title": {
+            "fr-FR": "Lettre CXLVII. A Paris, ce 9 mai 1798"
+          }
+        },
+        {
+          "id": "g03-l102",
+          "title": {
+            "fr-FR": "Lettre CXLVIII. A Meaux, ce 31 mai 1698"
+          }
+        },
+        {
+          "id": "g03-l103",
+          "title": {
+            "fr-FR": "Lettre CXLIX. A Paris, ce jeudi 1698"
+          }
+        },
+        {
+          "id": "g03-l104",
+          "title": {
+            "fr-FR": "Lettre CL. A Paris, ce 23 août 1698"
+          }
+        },
+        {
+          "id": "g03-l105",
+          "title": {
+            "fr-FR": "Lettre CLI. A Meaux, ce 9 octobre 1699"
+          }
+        },
+        {
+          "id": "g03-l106",
+          "title": {
+            "fr-FR": "Lettre CLII. A Meaux, ce jeudi matin 1699"
+          }
+        },
+        {
+          "id": "g03-l107",
+          "title": {
+            "fr-FR": "Lettre CLIII. A Paris, ce 5 février 1699"
+          }
+        },
+        {
+          "id": "g03-l108",
+          "title": {
+            "fr-FR": "Lettre CLIV. A Germigny, ce 14 octobre 1699"
+          }
+        },
+        {
+          "id": "g03-l109",
+          "title": {
+            "fr-FR": "Lettre CLV. A Paris, ce 26 novembre 1699"
+          }
+        },
+        {
+          "id": "g03-l110",
+          "title": {
+            "fr-FR": "Lettre CLVI. A Paris, ce dimanche matin, septembre 1700"
+          }
+        },
+        {
+          "id": "g03-l111",
+          "title": {
+            "fr-FR": "Lettre CLVII. A Paris, ce 12 décembre 1700"
+          }
+        },
+        {
+          "id": "g03-l112",
+          "title": {
+            "fr-FR": "Lettre CLVIII. A Meaux, ce 26 mars 1701"
+          }
+        },
+        {
+          "id": "g03-l113",
+          "title": {
+            "fr-FR": "Lettre CLIX. A Germigny, ce 12 juin 1701"
+          }
+        },
+        {
+          "id": "g03-l114",
+          "title": {
+            "fr-FR": "Lettre CLX. A Meaux, ce 9 avril 1702"
+          }
+        },
+        {
+          "id": "g03-l115",
+          "title": {
+            "fr-FR": "Lettre CLXI. A Meaux, ce 21 juin 1702"
+          }
+        },
+        {
+          "id": "g03-l116",
+          "title": {
+            "fr-FR": "Lettre CLXII. A Paris, ce 17 décembre 1702"
+          }
+        },
+        {
+          "id": "g03-l117",
+          "title": {
+            "fr-FR": "Lettre CLXIII. Décembre 1702"
+          }
+        },
+        {
+          "id": "g03-l118",
+          "title": {
+            "fr-FR": "Lettre CLXIV. A Paris, ce 26 février 1703"
+          }
+        },
+        {
+          "id": "g03-l119",
+          "title": {
+            "fr-FR": "Extraits de différentes lettres"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": {
+        "fr-FR": "Lettres à Madame d’Albert de Luynes, religieuse de l’abbaye de Jouarre"
+      },
+      "children": [
+        {
+          "id": "g04-l001",
+          "title": {
+            "fr-FR": "Remarques historiques"
+          }
+        },
+        {
+          "id": "g04-l002",
+          "title": {
+            "fr-FR": "Lettre Première. A Meaux, ce 10 mars. 1690"
+          }
+        },
+        {
+          "id": "g04-l003",
+          "title": {
+            "fr-FR": "Lettre II. A Versailles, ce 15 mars 1690"
+          }
+        },
+        {
+          "id": "g04-l004",
+          "title": {
+            "fr-FR": "Lettre III. A Paris, ce 2 mai 1690"
+          }
+        },
+        {
+          "id": "g04-l005",
+          "title": {
+            "fr-FR": "Lettre IV. A Paris, ce 8 juin 1690"
+          }
+        },
+        {
+          "id": "g04-l006",
+          "title": {
+            "fr-FR": "Lettre V. A Germigny, ce 5 octobre 1690"
+          }
+        },
+        {
+          "id": "g04-l007",
+          "title": {
+            "fr-FR": "Lettre VI. A Gertnigny, ce 13 octobre 1690"
+          }
+        },
+        {
+          "id": "g04-l008",
+          "title": {
+            "fr-FR": "Lettre VII. A Meaux, ce 2 novembre 1690"
+          }
+        },
+        {
+          "id": "g04-l009",
+          "title": {
+            "fr-FR": "Lettre VIII. A Meaux, ce 9 novembre 1600"
+          }
+        },
+        {
+          "id": "g04-l010",
+          "title": {
+            "fr-FR": "Lettre IX. A Paris, ce 24 novembre 1690"
+          }
+        },
+        {
+          "id": "g04-l011",
+          "title": {
+            "fr-FR": "Lettre X. A Paris, ce 30 novembre 1690"
+          }
+        },
+        {
+          "id": "g04-l012",
+          "title": {
+            "fr-FR": "Lettre XI. A Meaux, ce 18 décembre 1090"
+          }
+        },
+        {
+          "id": "g04-l013",
+          "title": {
+            "fr-FR": "Lettre XII. A Meaux, ce 21 décembre 1690"
+          }
+        },
+        {
+          "id": "g04-l014",
+          "title": {
+            "fr-FR": "Lettre XIII. Samedi soir, à la fin de 1690"
+          }
+        },
+        {
+          "id": "g04-l015",
+          "title": {
+            "fr-FR": "Lettre XIV. A Versailles, ce 8 janvier 1691"
+          }
+        },
+        {
+          "id": "g04-l016",
+          "title": {
+            "fr-FR": "Lettre XV. A Meaux, ce 22 janvier 1691"
+          }
+        },
+        {
+          "id": "g04-l017",
+          "title": {
+            "fr-FR": "Lettre XVI. A Meaux, ce 24 janvier 1691"
+          }
+        },
+        {
+          "id": "g04-l018",
+          "title": {
+            "fr-FR": "Lettre XVII. A Paris, ce 29 janvier 1691"
+          }
+        },
+        {
+          "id": "g04-l019",
+          "title": {
+            "fr-FR": "Lettre XVIII. A Versailles, ce 4 février 1691"
+          }
+        },
+        {
+          "id": "g04-l020",
+          "title": {
+            "fr-FR": "Lettre XIX. A Versailles, ce 7 février 1691"
+          }
+        },
+        {
+          "id": "g04-l021",
+          "title": {
+            "fr-FR": "Lettre XX. A Paris, ce 8 mars 1691"
+          }
+        },
+        {
+          "id": "g04-l022",
+          "title": {
+            "fr-FR": "Lettre XXI. A Meaux, ce 8 avril 1691"
+          }
+        },
+        {
+          "id": "g04-l023",
+          "title": {
+            "fr-FR": "Lettre XXII. A Meaux, ce 10 avril 1691"
+          }
+        },
+        {
+          "id": "g04-l024",
+          "title": {
+            "fr-FR": "Lettre XXIII. Sur la fin du carême de cette année"
+          }
+        },
+        {
+          "id": "g04-l025",
+          "title": {
+            "fr-FR": "Lettre XXIV. A Meaux, ce 28 avril 1691"
+          }
+        },
+        {
+          "id": "g04-l026",
+          "title": {
+            "fr-FR": "Lettre XXV. A Meaux, ce 13 mai 1691"
+          }
+        },
+        {
+          "id": "g04-l027",
+          "title": {
+            "fr-FR": "Lettre XXVI. Ce 8 mai 1691"
+          }
+        },
+        {
+          "id": "g04-l028",
+          "title": {
+            "fr-FR": "Lettre XXVII. A Meaux, ce 3 juin 1691"
+          }
+        },
+        {
+          "id": "g04-l029",
+          "title": {
+            "fr-FR": "Lettre XXVIII. A Germigny, ce 13 juin 1691"
+          }
+        },
+        {
+          "id": "g04-l030",
+          "title": {
+            "fr-FR": "Lettre XXIX. A Meaux, ce 18 juin 1691"
+          }
+        },
+        {
+          "id": "g04-l031",
+          "title": {
+            "fr-FR": "Lettre XXX. A Germigny, ce 28 juin 1691"
+          }
+        },
+        {
+          "id": "g04-l032",
+          "title": {
+            "fr-FR": "Lettre XXXI. A Germigny, ce 30 juin 1691"
+          }
+        },
+        {
+          "id": "g04-l033",
+          "title": {
+            "fr-FR": "Lettre XXXII. A Versailles, ce 25 juillet 1691"
+          }
+        },
+        {
+          "id": "g04-l034",
+          "title": {
+            "fr-FR": "Lettre XXXIII. A Germiguy, ce 12 août 1691"
+          }
+        },
+        {
+          "id": "g04-l035",
+          "title": {
+            "fr-FR": "Lettre XXXIV. A Versailles, ce 26 août 1691"
+          }
+        },
+        {
+          "id": "g04-l036",
+          "title": {
+            "fr-FR": "Lettre XXXV. A Paris, ce 30 août 1691"
+          }
+        },
+        {
+          "id": "g04-l037",
+          "title": {
+            "fr-FR": "Lettre XXXVI. A Germigny, ce 12 septembre 1691"
+          }
+        },
+        {
+          "id": "g04-l038",
+          "title": {
+            "fr-FR": "Lettre XXXVII. A Germigny, ce 12 septembre, 1691"
+          }
+        },
+        {
+          "id": "g04-l039",
+          "title": {
+            "fr-FR": "Lettre XXXVIII. A Germigny, ce 30 septembre 1691"
+          }
+        },
+        {
+          "id": "g04-l040",
+          "title": {
+            "fr-FR": "Lettre XXXIX. A Germigny, ce 30 septembre 1691"
+          }
+        },
+        {
+          "id": "g04-l041",
+          "title": {
+            "fr-FR": "Lettre XL. A Germigny, ce S octobre 1691"
+          }
+        },
+        {
+          "id": "g04-l042",
+          "title": {
+            "fr-FR": "Lettre XLI. A Germigny, ce 24 octobre 1691"
+          }
+        },
+        {
+          "id": "g04-l043",
+          "title": {
+            "fr-FR": "Lettre XLII. A Meaux, ce 5 novembre 1691"
+          }
+        },
+        {
+          "id": "g04-l044",
+          "title": {
+            "fr-FR": "Lettre XLIII. A Dammarlin, ce 5 novembre 1691"
+          }
+        },
+        {
+          "id": "g04-l045",
+          "title": {
+            "fr-FR": "Lettre XLIV. A Paris, ce 9 novembre 169)"
+          }
+        },
+        {
+          "id": "g04-l046",
+          "title": {
+            "fr-FR": "Lettre XLV. A Versailles, ce 14 novembre 1691"
+          }
+        },
+        {
+          "id": "g04-l047",
+          "title": {
+            "fr-FR": "Lettre XLVI. A Versailles, ce 18 novembre 1691"
+          }
+        },
+        {
+          "id": "g04-l048",
+          "title": {
+            "fr-FR": "Lettre XLVII. A Versailles, ce 20 novembre !691"
+          }
+        },
+        {
+          "id": "g04-l049",
+          "title": {
+            "fr-FR": "Lettre XLVIII. A Paris, ce 24 novembre 1691"
+          }
+        },
+        {
+          "id": "g04-l050",
+          "title": {
+            "fr-FR": "Lettre XLIX. A Versailles, ce 29 novembre 1691"
+          }
+        },
+        {
+          "id": "g04-l051",
+          "title": {
+            "fr-FR": "Lettre L. A Meaux, ce 26 décembre 1691"
+          }
+        },
+        {
+          "id": "g04-l052",
+          "title": {
+            "fr-FR": "Lettre LI. A Meaux, ce 27 décembre 1691"
+          }
+        },
+        {
+          "id": "g04-l053",
+          "title": {
+            "fr-FR": "Lettre LII. A la fin de 1691"
+          }
+        },
+        {
+          "id": "g04-l054",
+          "title": {
+            "fr-FR": "Lettre LIII. A Paris, ce 5 janvier 1692"
+          }
+        },
+        {
+          "id": "g04-l055",
+          "title": {
+            "fr-FR": "Lettre LIV. A Versailles, ce 8 janvier 1692"
+          }
+        },
+        {
+          "id": "g04-l056",
+          "title": {
+            "fr-FR": "Lettre LV. A Versailles, ce 17 janvier 1692"
+          }
+        },
+        {
+          "id": "g04-l057",
+          "title": {
+            "fr-FR": "Lettre LVI. A Versailles, ce 18 janvier 1692"
+          }
+        },
+        {
+          "id": "g04-l058",
+          "title": {
+            "fr-FR": "Lettre LVII. A Paris, ce 21 janvier 1692"
+          }
+        },
+        {
+          "id": "g04-l059",
+          "title": {
+            "fr-FR": "Lettre LVIII. A Versailles, ce 27 janvier 1692"
+          }
+        },
+        {
+          "id": "g04-l060",
+          "title": {
+            "fr-FR": "Lettre LIX. A Versailles, ce 2 février 1692"
+          }
+        },
+        {
+          "id": "g04-l061",
+          "title": {
+            "fr-FR": "Lettre LX. A Versailles, ce 2 février 1092"
+          }
+        },
+        {
+          "id": "g04-l062",
+          "title": {
+            "fr-FR": "Lettre LXI. A Versailles, ce 18 février 1692"
+          }
+        },
+        {
+          "id": "g04-l063",
+          "title": {
+            "fr-FR": "Lettre LXII. A Versailles, ce 19 février 1692"
+          }
+        },
+        {
+          "id": "g04-l064",
+          "title": {
+            "fr-FR": "Lettre LXIII. A Paris, ce 22 février 1692"
+          }
+        },
+        {
+          "id": "g04-l065",
+          "title": {
+            "fr-FR": "Lettre LXIV. A Paris, ce 25 février 1692"
+          }
+        },
+        {
+          "id": "g04-l066",
+          "title": {
+            "fr-FR": "Lettre LXV. A Meaux, ce 18 mars 1692"
+          }
+        },
+        {
+          "id": "g04-l067",
+          "title": {
+            "fr-FR": "Lettre LXVI. A Meaux, ce 19 mars 1692"
+          }
+        },
+        {
+          "id": "g04-l068",
+          "title": {
+            "fr-FR": "Lettre LXVII. A Meaux, ce 22 mars 1692"
+          }
+        },
+        {
+          "id": "g04-l069",
+          "title": {
+            "fr-FR": "Lettre LXVIII. A Meaux, ce 27 mars 1692"
+          }
+        },
+        {
+          "id": "g04-l070",
+          "title": {
+            "fr-FR": "Lettre LXIX. A Meaux, ce 28 mars 1692"
+          }
+        },
+        {
+          "id": "g04-l071",
+          "title": {
+            "fr-FR": "Lettre LXX. A Meaux, ce 5 avril 1692"
+          }
+        },
+        {
+          "id": "g04-l072",
+          "title": {
+            "fr-FR": "Lettre LXXI. A Meaux, ce 18 avril 1692"
+          }
+        },
+        {
+          "id": "g04-l073",
+          "title": {
+            "fr-FR": "Lettre LXXII. A Meaux, ce 18 avril 1692"
+          }
+        },
+        {
+          "id": "g04-l074",
+          "title": {
+            "fr-FR": "Lettre LXXIII. Ce 19 avril 1692"
+          }
+        },
+        {
+          "id": "g04-l075",
+          "title": {
+            "fr-FR": "Lettre LXXIV. A Meaux, ce 23 avril 1692"
+          }
+        },
+        {
+          "id": "g04-l076",
+          "title": {
+            "fr-FR": "Lettre LXXV. A Meaux, ce 8 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l077",
+          "title": {
+            "fr-FR": "Lettre LXXVI. A Meaux, ce 12 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l078",
+          "title": {
+            "fr-FR": "Lettre LXXVII. A Meaux, ce 13 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l079",
+          "title": {
+            "fr-FR": "Lettre LXXVIII. A Meaux, ce 17 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l080",
+          "title": {
+            "fr-FR": "Lettre LXXIX. A Meaux, ce 21 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l081",
+          "title": {
+            "fr-FR": "Lettre LXXX. A Meaux, ce 23 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l082",
+          "title": {
+            "fr-FR": "Lettre LXXXI. A Meaux, ce 27 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l083",
+          "title": {
+            "fr-FR": "Lettre LXXXII. A Meaux, ce 30 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l084",
+          "title": {
+            "fr-FR": "Lettre LXXXIII. A Meaux, ce 31 mai 1692"
+          }
+        },
+        {
+          "id": "g04-l085",
+          "title": {
+            "fr-FR": "Lettre LXXXIV. A Meaux, ce 6 juin 1692"
+          }
+        },
+        {
+          "id": "g04-l086",
+          "title": {
+            "fr-FR": "Lettre LXXXV. A Meaux, ce 7 juin 1692"
+          }
+        },
+        {
+          "id": "g04-l087",
+          "title": {
+            "fr-FR": "Lettre LXXXVI. A Germigny, ce 14 juin 1692"
+          }
+        },
+        {
+          "id": "g04-l088",
+          "title": {
+            "fr-FR": "Lettre LXXXVII. A Germigny, ce 19 juin 1692"
+          }
+        },
+        {
+          "id": "g04-l089",
+          "title": {
+            "fr-FR": "Lettre LXXXVIII. A Germigny, ce 8 juillet 1692"
+          }
+        },
+        {
+          "id": "g04-l090",
+          "title": {
+            "fr-FR": "Lettre LXXXIX. Ce 16 août 1692"
+          }
+        },
+        {
+          "id": "g04-l091",
+          "title": {
+            "fr-FR": "Lettre XC. A Germigny, ce 17 septembre 1692"
+          }
+        },
+        {
+          "id": "g04-l092",
+          "title": {
+            "fr-FR": "Lettre XCI. A Germigny, ce 25 septembre 1692"
+          }
+        },
+        {
+          "id": "g04-l093",
+          "title": {
+            "fr-FR": "Lettre XCII. A Germigny, ce 30 septembre 1692"
+          }
+        },
+        {
+          "id": "g04-l094",
+          "title": {
+            "fr-FR": "Lettre XCIII. A Germigny, ce 17 octobre 1692"
+          }
+        },
+        {
+          "id": "g04-l095",
+          "title": {
+            "fr-FR": "Lettre XCIV. A Germigny, ce 3 novembre 1692"
+          }
+        },
+        {
+          "id": "g04-l096",
+          "title": {
+            "fr-FR": "Lettre XCV. A Paris, ce 5 novembre 1692"
+          }
+        },
+        {
+          "id": "g04-l097",
+          "title": {
+            "fr-FR": "Lettre XCVI"
+          }
+        },
+        {
+          "id": "g04-l098",
+          "title": {
+            "fr-FR": "Lettre XCVII. A Germigny, ce 14 novembre 1692"
+          }
+        },
+        {
+          "id": "g04-l099",
+          "title": {
+            "fr-FR": "Lettre XCVIII. A Paris, ce 17 novembre 1692"
+          }
+        },
+        {
+          "id": "g04-l100",
+          "title": {
+            "fr-FR": "Lettre XCIX. A Paris, ce 16 décembre 1692"
+          }
+        },
+        {
+          "id": "g04-l101",
+          "title": {
+            "fr-FR": "Lettre C. A Meaux, ce 20 décembre 1692"
+          }
+        },
+        {
+          "id": "g04-l102",
+          "title": {
+            "fr-FR": "Lettre CI. A Meaux, ce 21 décembre 1692"
+          }
+        },
+        {
+          "id": "g04-l103",
+          "title": {
+            "fr-FR": "Lettre CII. A Meaux, ce 22 décembre 1692"
+          }
+        },
+        {
+          "id": "g04-l104",
+          "title": {
+            "fr-FR": "Lettre CIII. A Paris, ce 13 janvier 1693"
+          }
+        },
+        {
+          "id": "g04-l105",
+          "title": {
+            "fr-FR": "Lettre CIV. A Versailles, ce 25 janvier 1693"
+          }
+        },
+        {
+          "id": "g04-l106",
+          "title": {
+            "fr-FR": "Lettre CV. A Versailles, ce 9 février 1693"
+          }
+        },
+        {
+          "id": "g04-l107",
+          "title": {
+            "fr-FR": "Lettre CVI. A Versailles, ce 12 février 1693"
+          }
+        },
+        {
+          "id": "g04-l108",
+          "title": {
+            "fr-FR": "Lettre CVII. A Versailles, ce 21 février 1693"
+          }
+        },
+        {
+          "id": "g04-l109",
+          "title": {
+            "fr-FR": "Lettre CVIII. A Versailles, ce 5 mars 1693"
+          }
+        },
+        {
+          "id": "g04-l110",
+          "title": {
+            "fr-FR": "Lettre CIX. A Meaux, le jour de Pâques 1693"
+          }
+        },
+        {
+          "id": "g04-l111",
+          "title": {
+            "fr-FR": "Lettre CX. A Meaux, ce 28 mars 1693"
+          }
+        },
+        {
+          "id": "g04-l112",
+          "title": {
+            "fr-FR": "Lettre CXI. A Meaux, ce 31 mars 1693"
+          }
+        },
+        {
+          "id": "g04-l113",
+          "title": {
+            "fr-FR": "Lettre CXII. A Meaux, ce 29 mai 1693"
+          }
+        },
+        {
+          "id": "g04-l114",
+          "title": {
+            "fr-FR": "Lettre CXIII. A Germigny, ce 14 juin 1693"
+          }
+        },
+        {
+          "id": "g04-l115",
+          "title": {
+            "fr-FR": "Lettre CXIV. A Meaux, ce 27 juin 1693"
+          }
+        },
+        {
+          "id": "g04-l116",
+          "title": {
+            "fr-FR": "Lettre CXV. A Meaux, ce 3 juillet 1693"
+          }
+        },
+        {
+          "id": "g04-l117",
+          "title": {
+            "fr-FR": "Lettre CXVI. A Germigny, ce 15 juillet 1693"
+          }
+        },
+        {
+          "id": "g04-l118",
+          "title": {
+            "fr-FR": "Lettre CXVII. A Germigny, ce 5 août 1693"
+          }
+        },
+        {
+          "id": "g04-l119",
+          "title": {
+            "fr-FR": "Lettre CXVIII. A Germigny, ce 7 août 1693"
+          }
+        },
+        {
+          "id": "g04-l120",
+          "title": {
+            "fr-FR": "Lettre CXIX. A Germigny, ce 13 août 1693"
+          }
+        },
+        {
+          "id": "g04-l121",
+          "title": {
+            "fr-FR": "Lettre CXX. Vendredi matin"
+          }
+        },
+        {
+          "id": "g04-l122",
+          "title": {
+            "fr-FR": "Lettre CXXI. A Meaux, ce 17 août 1693"
+          }
+        },
+        {
+          "id": "g04-l123",
+          "title": {
+            "fr-FR": "Lettre CXXII. A Germigny, ce 21 août 1693"
+          }
+        },
+        {
+          "id": "g04-l124",
+          "title": {
+            "fr-FR": "Lettre CXXIII. Ce 12 septembre 1693"
+          }
+        },
+        {
+          "id": "g04-l125",
+          "title": {
+            "fr-FR": "Lettre CXXIV. A Germigny, ce 25 septembre 1695"
+          }
+        },
+        {
+          "id": "g04-l126",
+          "title": {
+            "fr-FR": "Lettre CXXV. A Germigny, ce 27 septembre 1693"
+          }
+        },
+        {
+          "id": "g04-l127",
+          "title": {
+            "fr-FR": "Lettre CXXVI. A Germigny, ce 3 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l128",
+          "title": {
+            "fr-FR": "Lettre CXXVII. A Germigny, ce 11 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l129",
+          "title": {
+            "fr-FR": "Lettre CXXVIII. A Germigny, ce 13 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l130",
+          "title": {
+            "fr-FR": "Lettre CXXIX. A Germigny, ce 16 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l131",
+          "title": {
+            "fr-FR": "Lettre CXXX. A Germigny, ce 17 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l132",
+          "title": {
+            "fr-FR": "Lettre CXXXI. A Germigny, ce 19 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l133",
+          "title": {
+            "fr-FR": "Lettre CXXXII. A Meaux, ce 28 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l134",
+          "title": {
+            "fr-FR": "Lettre CXXXIII. A Dammartin, ce 31 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l135",
+          "title": {
+            "fr-FR": "Lettre CXXXIV ( *a* ). A Meaux, ce 31 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l136",
+          "title": {
+            "fr-FR": "Lettre CXXXV ( *a* ). A Meaux, ce 3 novembre 1693"
+          }
+        },
+        {
+          "id": "g04-l137",
+          "title": {
+            "fr-FR": "Lettre CXXXVI ( *a* ). A Germigny, ce 3 novembre 1693"
+          }
+        },
+        {
+          "id": "g04-l138",
+          "title": {
+            "fr-FR": "Lettre CXXXVII. Ce 4 novembre 1693"
+          }
+        },
+        {
+          "id": "g04-l139",
+          "title": {
+            "fr-FR": "Lettre CXXXVIII. A Meaux, ce 14 décembre 1693"
+          }
+        },
+        {
+          "id": "g04-l140",
+          "title": {
+            "fr-FR": "Lettre CXXXIX. A Meaux, ce 17 décembre 1693"
+          }
+        },
+        {
+          "id": "g04-l141",
+          "title": {
+            "fr-FR": "Lettre CXL. A Meaux, ce 23 décembre 1693"
+          }
+        },
+        {
+          "id": "g04-l142",
+          "title": {
+            "fr-FR": "Lettre CXLI. A Meaux, ce vendredi, vers la fin de 1693"
+          }
+        },
+        {
+          "id": "g04-l143",
+          "title": {
+            "fr-FR": "Lettre CXLII. A Meaux, ce 30 décembre 1693"
+          }
+        },
+        {
+          "id": "g04-l144",
+          "title": {
+            "fr-FR": "Lettre CXLIII. A Meaux, ce 1er janvier 1694"
+          }
+        },
+        {
+          "id": "g04-l145",
+          "title": {
+            "fr-FR": "Lettre CLXIV ( *a* ). A Meaux, ce 2 janvier 1694"
+          }
+        },
+        {
+          "id": "g04-l146",
+          "title": {
+            "fr-FR": "Lettre CXLV. A Versailles, ce 9 janvier 1694"
+          }
+        },
+        {
+          "id": "g04-l147",
+          "title": {
+            "fr-FR": "Lettre CXLVI. A Paris, ce 16 janvier 1694"
+          }
+        },
+        {
+          "id": "g04-l148",
+          "title": {
+            "fr-FR": "Lettre CXLVII. A Paris, ce 25 janvier 1694"
+          }
+        },
+        {
+          "id": "g04-l149",
+          "title": {
+            "fr-FR": "Lettre CXLVIII. À Paris, ce 28 janvier 1694"
+          }
+        },
+        {
+          "id": "g04-l150",
+          "title": {
+            "fr-FR": "Lettre CXLIX. A Versailles, ce 16 février 1694"
+          }
+        },
+        {
+          "id": "g04-l151",
+          "title": {
+            "fr-FR": "Lettre CL. A Paris, ce 17 février 1694"
+          }
+        },
+        {
+          "id": "g04-l152",
+          "title": {
+            "fr-FR": "Lettre CLI. A Paris, ce 2 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l153",
+          "title": {
+            "fr-FR": "Lettre CLII. A Meaux, ce 4 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l154",
+          "title": {
+            "fr-FR": "Lettre CLIII. Ce 4 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l155",
+          "title": {
+            "fr-FR": "Lettre CLIV. A Paris, ce 6 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l156",
+          "title": {
+            "fr-FR": "Lettre CLV. Ce 6 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l157",
+          "title": {
+            "fr-FR": "Lettre CLVI. A Meaux, ce 13 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l158",
+          "title": {
+            "fr-FR": "Lettre CLVII. A Meaux, ce 26 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l159",
+          "title": {
+            "fr-FR": "Lettre CLVIII. A Meaux, ce 28 mars 1694"
+          }
+        },
+        {
+          "id": "g04-l160",
+          "title": {
+            "fr-FR": "Lettre CLIX. A Meaux, ce 6 avril 1694"
+          }
+        },
+        {
+          "id": "g04-l161",
+          "title": {
+            "fr-FR": "Lettre CLX. A Meaux, ce 12 avril 1694"
+          }
+        },
+        {
+          "id": "g04-l162",
+          "title": {
+            "fr-FR": "Lettre CLXI. A Meaux, ce 27 avril 1694"
+          }
+        },
+        {
+          "id": "g04-l163",
+          "title": {
+            "fr-FR": "Lettre CLXII. A Germigny, ce 4 mai 1694"
+          }
+        },
+        {
+          "id": "g04-l164",
+          "title": {
+            "fr-FR": "Lettre CLXIII. A Germigny, ce 10 mai 1694"
+          }
+        },
+        {
+          "id": "g04-l165",
+          "title": {
+            "fr-FR": "Lettre CLXIV. A Germigny, ce 13 mai 1694"
+          }
+        },
+        {
+          "id": "g04-l166",
+          "title": {
+            "fr-FR": "Lettre CLXV. A Meaux, ce 15 mai 1694"
+          }
+        },
+        {
+          "id": "g04-l167",
+          "title": {
+            "fr-FR": "Lettre CLXVI. A Versailles, ce 24 mai 1694"
+          }
+        },
+        {
+          "id": "g04-l168",
+          "title": {
+            "fr-FR": "Lettre CLXVII. Le lundi de la Pentecôte, ce 31 mai 1694"
+          }
+        },
+        {
+          "id": "g04-l169",
+          "title": {
+            "fr-FR": "Lettre CLXVIII. A Paris, ce 4 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l170",
+          "title": {
+            "fr-FR": "Lettre CLXIX. A Meaux, ce 8 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l171",
+          "title": {
+            "fr-FR": "Lettre CLXX. A Meaux, ce 9 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l172",
+          "title": {
+            "fr-FR": "Lettre CLXXI. A Meaux, ce 11 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l173",
+          "title": {
+            "fr-FR": "Lettre CLXXII. A Meaux, ce 18 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l174",
+          "title": {
+            "fr-FR": "Lettre CLXXIII. A Meaux, ce 18 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l175",
+          "title": {
+            "fr-FR": "Lettre CLXXIV. A Meaux, ce 21 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l176",
+          "title": {
+            "fr-FR": "Lettre CLXXV. Ce 22 juin 1694"
+          }
+        },
+        {
+          "id": "g04-l177",
+          "title": {
+            "fr-FR": "Lettre CLXXVI. A Versailles, ce 8 juillet 1694"
+          }
+        },
+        {
+          "id": "g04-l178",
+          "title": {
+            "fr-FR": "Lettre CLXXVII. A Versailles, ce 10 juillet 1694"
+          }
+        },
+        {
+          "id": "g04-l179",
+          "title": {
+            "fr-FR": "Lettre CLXXVIII. A Germigny, ce 17 juillet 1694"
+          }
+        },
+        {
+          "id": "g04-l180",
+          "title": {
+            "fr-FR": "Lettre CLXXIX. A Marly, ce 21 juillet 1694"
+          }
+        },
+        {
+          "id": "g04-l181",
+          "title": {
+            "fr-FR": "Lettre CLXXX. A Germigny, ce 4 août 1694"
+          }
+        },
+        {
+          "id": "g04-l182",
+          "title": {
+            "fr-FR": "Lettre CLXXXI. A Germigny, ce 11 août 1694"
+          }
+        },
+        {
+          "id": "g04-l183",
+          "title": {
+            "fr-FR": "Lettre CLXXXII. A Germigny, ce 12 août 1694"
+          }
+        },
+        {
+          "id": "g04-l184",
+          "title": {
+            "fr-FR": "Lettre CLXXXIII. A Germigny, ce 13 août 1694"
+          }
+        },
+        {
+          "id": "g04-l185",
+          "title": {
+            "fr-FR": "Lettre CLXXXIV. A Meaux, ce 16 août 1694"
+          }
+        },
+        {
+          "id": "g04-l186",
+          "title": {
+            "fr-FR": "Lettre CLXXXV. A Paris, ce 23 août 1694"
+          }
+        },
+        {
+          "id": "g04-l187",
+          "title": {
+            "fr-FR": "Lettre CLXXXVI. A Paris, ce 25 août 1694"
+          }
+        },
+        {
+          "id": "g04-l188",
+          "title": {
+            "fr-FR": "Lettre CLXXXVII. A Versailles, ce 29 août 1694"
+          }
+        },
+        {
+          "id": "g04-l189",
+          "title": {
+            "fr-FR": "Lettre CLXXXVIII. A Meaux, ce 10 septembre 1694"
+          }
+        },
+        {
+          "id": "g04-l190",
+          "title": {
+            "fr-FR": "Lettre CLXXXIX. A Germigny, ce 13 septembre 1694"
+          }
+        },
+        {
+          "id": "g04-l191",
+          "title": {
+            "fr-FR": "Lettre CXC. A Chalons, ce 18 septembre 1694"
+          }
+        },
+        {
+          "id": "g04-l192",
+          "title": {
+            "fr-FR": "Lettre CXCI. A Chalons, ce 22 septembre 1694"
+          }
+        },
+        {
+          "id": "g04-l193",
+          "title": {
+            "fr-FR": "Lettre CXCII. A Germigny, ce 5 octobre 1694"
+          }
+        },
+        {
+          "id": "g04-l194",
+          "title": {
+            "fr-FR": "Lettre CXCIII. A Germigny, ce 10 octobre 1694"
+          }
+        },
+        {
+          "id": "g04-l195",
+          "title": {
+            "fr-FR": "Lettre CXCIV. A Meaux, ce 12 octobre 1694"
+          }
+        },
+        {
+          "id": "g04-l196",
+          "title": {
+            "fr-FR": "Lettre CXCV. A Germigny, ce 16 octobre i 694"
+          }
+        },
+        {
+          "id": "g04-l197",
+          "title": {
+            "fr-FR": "Lettre CXCVI. A Germigny, ce 26 octobre 1694"
+          }
+        },
+        {
+          "id": "g04-l198",
+          "title": {
+            "fr-FR": "Lettre CXCVII. Ce 26 octobre 1694"
+          }
+        },
+        {
+          "id": "g04-l199",
+          "title": {
+            "fr-FR": "Lettre CXCVIII. A Meaux, ce 5 novembre 1694"
+          }
+        },
+        {
+          "id": "g04-l200",
+          "title": {
+            "fr-FR": "Lettre CXCIX. A Paris, ce 9 novembre 1694"
+          }
+        },
+        {
+          "id": "g04-l201",
+          "title": {
+            "fr-FR": "Lettre CC. A Meaux, ce 3 décembre 1694"
+          }
+        },
+        {
+          "id": "g04-l202",
+          "title": {
+            "fr-FR": "Lettre CCI. A Paris, ce 4 décembre 1694"
+          }
+        },
+        {
+          "id": "g04-l203",
+          "title": {
+            "fr-FR": "Lettre CCII. A Meaux, ce 21 décembre 1694"
+          }
+        },
+        {
+          "id": "g04-l204",
+          "title": {
+            "fr-FR": "Lettre CCIII. A Meaux, ce 22 décembre 1694"
+          }
+        },
+        {
+          "id": "g04-l205",
+          "title": {
+            "fr-FR": "Lettre CCIV. A Meaux, ce 23 décembre 1694"
+          }
+        },
+        {
+          "id": "g04-l206",
+          "title": {
+            "fr-FR": "Lettre CCV. A Meaux, ce 30 décembre 1694"
+          }
+        },
+        {
+          "id": "g04-l207",
+          "title": {
+            "fr-FR": "Lettre CCVI. A la fin de 1694"
+          }
+        },
+        {
+          "id": "g04-l208",
+          "title": {
+            "fr-FR": "Lettre CCVII. A Meaux, ce 2 janvier 1695"
+          }
+        },
+        {
+          "id": "g04-l209",
+          "title": {
+            "fr-FR": "Lettre CCVIII. A Meaux, ce 4 janvier 1695"
+          }
+        },
+        {
+          "id": "g04-l210",
+          "title": {
+            "fr-FR": "Lettre CCIX. A Meaux, ce 12 janvier 1695"
+          }
+        },
+        {
+          "id": "g04-l211",
+          "title": {
+            "fr-FR": "Lettre CCX. A Meaux, ce 13 janvier 1695"
+          }
+        },
+        {
+          "id": "g04-l212",
+          "title": {
+            "fr-FR": "Lettre CCXI. A Paris, ce 19 janvier 1695"
+          }
+        },
+        {
+          "id": "g04-l213",
+          "title": {
+            "fr-FR": "Lettre CCXII. A Versailles, ce 23 janvier 1695"
+          }
+        },
+        {
+          "id": "g04-l214",
+          "title": {
+            "fr-FR": "Lettre CCXIII. A Versailles, ce 31 janvier 1695"
+          }
+        },
+        {
+          "id": "g04-l215",
+          "title": {
+            "fr-FR": "Lettre CCXIV. A Paris, ce 10 février 1695"
+          }
+        },
+        {
+          "id": "g04-l216",
+          "title": {
+            "fr-FR": "Lettre CCXV. A Paris, ce 28 février 1695"
+          }
+        },
+        {
+          "id": "g04-l217",
+          "title": {
+            "fr-FR": "Lettre CCXVI. A Paris, ce 16 mars 1695"
+          }
+        },
+        {
+          "id": "g04-l218",
+          "title": {
+            "fr-FR": "Lettre CCXVII. A Meaux, ce 29 mars 1695"
+          }
+        },
+        {
+          "id": "g04-l219",
+          "title": {
+            "fr-FR": "Lettre CCXVIII. A Meaux, ce 2 avril 1695"
+          }
+        },
+        {
+          "id": "g04-l220",
+          "title": {
+            "fr-FR": "Lettre CCXIX. A Versailles, ce 27 avril 1695"
+          }
+        },
+        {
+          "id": "g04-l221",
+          "title": {
+            "fr-FR": "Lettre CCXX. A Paris, ce 30 avril 1695"
+          }
+        },
+        {
+          "id": "g04-l222",
+          "title": {
+            "fr-FR": "Lettre CCXXI. A Meaux, ce 1er mai 1695"
+          }
+        },
+        {
+          "id": "g04-l223",
+          "title": {
+            "fr-FR": "Lettre CCXXII. A Meaux, ce 10 mai 1695"
+          }
+        },
+        {
+          "id": "g04-l224",
+          "title": {
+            "fr-FR": "Lettre CCXXIII. A Germigny, ce 14 mai 1695"
+          }
+        },
+        {
+          "id": "g04-l225",
+          "title": {
+            "fr-FR": "Lettre CCXXIV. A Meaux, ce 17 mai 1695"
+          }
+        },
+        {
+          "id": "g04-l226",
+          "title": {
+            "fr-FR": "Lettre CCXXV. A Meaux, ce 23 mai 1695"
+          }
+        },
+        {
+          "id": "g04-l227",
+          "title": {
+            "fr-FR": "Lettre CCXXVI. A Meaux, ce Ier juin 1695"
+          }
+        },
+        {
+          "id": "g04-l228",
+          "title": {
+            "fr-FR": "Lettre CCXXVII. A Meaux, ce 4 juin 1695"
+          }
+        },
+        {
+          "id": "g04-l229",
+          "title": {
+            "fr-FR": "Lettre CCXXVIII. A Meaux, ce 10 juin 1695"
+          }
+        },
+        {
+          "id": "g04-l230",
+          "title": {
+            "fr-FR": "Lettre CCXXIX. A Germigny, ce 17 juin 1695"
+          }
+        },
+        {
+          "id": "g04-l231",
+          "title": {
+            "fr-FR": "Lettre CCXXX. A Meaux, ce 25 juin 1695"
+          }
+        },
+        {
+          "id": "g04-l232",
+          "title": {
+            "fr-FR": "Lettre CCXXXI. A Germigny, ce 1er juillet 1695"
+          }
+        },
+        {
+          "id": "g04-l233",
+          "title": {
+            "fr-FR": "Lettre CCXXXII. A Meaux, ce 3 juillet 1695"
+          }
+        },
+        {
+          "id": "g04-l234",
+          "title": {
+            "fr-FR": "Lettre CCXXXIII. A Paris, ce 16 juillet 1695"
+          }
+        },
+        {
+          "id": "g04-l235",
+          "title": {
+            "fr-FR": "Lettre CCXXXIV. A Meaux, ce 4 août 1695"
+          }
+        },
+        {
+          "id": "g04-l236",
+          "title": {
+            "fr-FR": "Lettre CCXXXV. A Germigny, ce 8 août 1695"
+          }
+        },
+        {
+          "id": "g04-l237",
+          "title": {
+            "fr-FR": "Lettre CCXXXVI. A Germigny, ce 13 août 1695"
+          }
+        },
+        {
+          "id": "g04-l238",
+          "title": {
+            "fr-FR": "Lettre CCXXXVII. A Meaux, ce 16 août 1695"
+          }
+        },
+        {
+          "id": "g04-l239",
+          "title": {
+            "fr-FR": "Lettre CCXXXVIII. A Paris, ce 22 août 1695"
+          }
+        },
+        {
+          "id": "g04-l240",
+          "title": {
+            "fr-FR": "Lettre CCXXXIX. A Meaux, ce 25 septembre 1695"
+          }
+        },
+        {
+          "id": "g04-l241",
+          "title": {
+            "fr-FR": "Lettre CCXL. A Germigny, ce 30 septembre 1695"
+          }
+        },
+        {
+          "id": "g04-l242",
+          "title": {
+            "fr-FR": "Lettre CCXLI. A Germigny, ce 8 octobre 1695"
+          }
+        },
+        {
+          "id": "g04-l243",
+          "title": {
+            "fr-FR": "Lettre CCXLII. A Germigny, ce mardi 12 octobre 1695"
+          }
+        },
+        {
+          "id": "g04-l244",
+          "title": {
+            "fr-FR": "Lettre CCXLIII. A Germigny, ce 28 octobre 1693"
+          }
+        },
+        {
+          "id": "g04-l245",
+          "title": {
+            "fr-FR": "Lettre CCXLIV. A Meaux, ce 16 décembre 1695"
+          }
+        },
+        {
+          "id": "g04-l246",
+          "title": {
+            "fr-FR": "Lettre CCXLV. A Meaux, ce 20 décembre 1695"
+          }
+        },
+        {
+          "id": "g04-l247",
+          "title": {
+            "fr-FR": "Lettre CCXLVI. A Paris, ce mercredi, à la fin de 169a"
+          }
+        },
+        {
+          "id": "g04-l248",
+          "title": {
+            "fr-FR": "Lettre CCXLVII. A Meaux, ce 2 janvier 1696"
+          }
+        },
+        {
+          "id": "g04-l249",
+          "title": {
+            "fr-FR": "Lettre CCXLVIII. A Meaux, ce 6 janvier 1696"
+          }
+        },
+        {
+          "id": "g04-l250",
+          "title": {
+            "fr-FR": "Lettre CCXLIX. A Paris, ce 25 janvier 1696"
+          }
+        },
+        {
+          "id": "g04-l251",
+          "title": {
+            "fr-FR": "Lettre CCL. A Paris, ce 31 janvier 1696"
+          }
+        },
+        {
+          "id": "g04-l252",
+          "title": {
+            "fr-FR": "Lettre CCLI. A Paris, ce 11 février 1690"
+          }
+        },
+        {
+          "id": "g04-l253",
+          "title": {
+            "fr-FR": "Lettre CCLII. A Paris, ce 18 février 1696"
+          }
+        },
+        {
+          "id": "g04-l254",
+          "title": {
+            "fr-FR": "Lettre CCLIII. A Versailles, ce 25 février 1696"
+          }
+        },
+        {
+          "id": "g04-l255",
+          "title": {
+            "fr-FR": "Lettre CCLIV. A Meaux, ce 14 avril 1696"
+          }
+        },
+        {
+          "id": "g04-l256",
+          "title": {
+            "fr-FR": "Lettre CCLV. Le lundi, 14 mai 1696"
+          }
+        },
+        {
+          "id": "g04-l257",
+          "title": {
+            "fr-FR": "Lettre CCLVI. A Versailles, ce mardi 29 mai 1690"
+          }
+        },
+        {
+          "id": "g04-l258",
+          "title": {
+            "fr-FR": "Lettre CCLVII. A Meaux, ce 7 juin 1696"
+          }
+        },
+        {
+          "id": "g04-l259",
+          "title": {
+            "fr-FR": "Lettre CCLVIII. A Lusanci, ce 15 juin 1696"
+          }
+        },
+        {
+          "id": "g04-l260",
+          "title": {
+            "fr-FR": "Lettre CCLIX. A Germigny, ce 11 août 1696"
+          }
+        },
+        {
+          "id": "g04-l261",
+          "title": {
+            "fr-FR": "Lettre CCLX. A Meaux, ce 20 octobre 1696"
+          }
+        },
+        {
+          "id": "g04-l262",
+          "title": {
+            "fr-FR": "Lettre CCLXI. A Meaux, ce 16 novembre 1696"
+          }
+        },
+        {
+          "id": "g04-l263",
+          "title": {
+            "fr-FR": "Lettre CCLXII. A Paris, ce 16 décembre 1696"
+          }
+        },
+        {
+          "id": "g04-l264",
+          "title": {
+            "fr-FR": "Lettre CCLXIII. A Versailles, ce 28 février 1697"
+          }
+        },
+        {
+          "id": "g04-l265",
+          "title": {
+            "fr-FR": "Lettre CCLXIV. A Meaux, ce 28 mars 1097"
+          }
+        },
+        {
+          "id": "g04-l266",
+          "title": {
+            "fr-FR": "Lettre CCLXV. A Meaux, ce 1er avril 1697"
+          }
+        },
+        {
+          "id": "g04-l267",
+          "title": {
+            "fr-FR": "Lettre CCLXVI. A Versailles, ce 19 juin 1697"
+          }
+        },
+        {
+          "id": "g04-l268",
+          "title": {
+            "fr-FR": "Lettre CCLXVII. A Paris, ce vendredi 9 août 1697"
+          }
+        },
+        {
+          "id": "g04-l269",
+          "title": {
+            "fr-FR": "Lettre CCLXVIII. A Meaux, ce 15 août 1697"
+          }
+        },
+        {
+          "id": "g04-l270",
+          "title": {
+            "fr-FR": "Lettre CCLXIX. A Meaux, ce 6 septembre 1697"
+          }
+        },
+        {
+          "id": "g04-l271",
+          "title": {
+            "fr-FR": "Lettre CCLXX. A Germigny, ce 10 octobre 1697"
+          }
+        },
+        {
+          "id": "g04-l272",
+          "title": {
+            "fr-FR": "Lettre CCLXXI. A Paris, ce 14 janvier 1698"
+          }
+        },
+        {
+          "id": "g04-l273",
+          "title": {
+            "fr-FR": "Lettre CCLXXII. A Paris, ce 18 février 1698"
+          }
+        },
+        {
+          "id": "g04-l274",
+          "title": {
+            "fr-FR": "Lettre CCLXXIII. A Meaux, ce 4 avril 1698"
+          }
+        },
+        {
+          "id": "g04-l275",
+          "title": {
+            "fr-FR": "Lettre CCLXXIV. A Paris, ce 25 juin 1698"
+          }
+        },
+        {
+          "id": "g04-l276",
+          "title": {
+            "fr-FR": "Lettre CCLXXV. A Paris, jeudi soir, 1698"
+          }
+        },
+        {
+          "id": "g04-l277",
+          "title": {
+            "fr-FR": "Lettre CCLXXVI. A Paris, ce 28 juin 1698"
+          }
+        },
+        {
+          "id": "g04-l278",
+          "title": {
+            "fr-FR": "Lettre CCLXXVII. A Meaux, ce 9 octobre 1698"
+          }
+        },
+        {
+          "id": "g04-l279",
+          "title": {
+            "fr-FR": "Lettre CCLXXVIII. A Meaux, ce 21 novembre 1698"
+          }
+        },
+        {
+          "id": "g04-l280",
+          "title": {
+            "fr-FR": "Lettre CCLXXIX"
+          }
+        },
+        {
+          "id": "g04-l281",
+          "title": {
+            "fr-FR": "Lettre CCLXXX"
+          }
+        },
+        {
+          "id": "g04-l282",
+          "title": {
+            "fr-FR": "Lettre CCLXXXI"
+          }
+        },
+        {
+          "id": "g04-l283",
+          "title": {
+            "fr-FR": "Lettre CCLXXXII"
+          }
+        },
+        {
+          "id": "g04-l284",
+          "title": {
+            "fr-FR": "Lettre CCLXXXIII"
+          }
+        },
+        {
+          "id": "g04-l285",
+          "title": {
+            "fr-FR": "Lettre CCLXXXIV. À la Soeur Cornuau, Religieuse a Torci. A Paris, ce 29 décembre 1700"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": {
+        "fr-FR": "Lettres à l’abbesse et aux religieuses de l’abbaye de Jouarre"
+      },
+      "children": [
+        {
+          "id": "g05-l001",
+          "title": {
+            "fr-FR": "Lettre Première. À Madame de la Croix, Prieure. Ce 4 mars 1690"
+          }
+        },
+        {
+          "id": "g05-l002",
+          "title": {
+            "fr-FR": "Lettre II. À Madame Renard. Ce 6 mars 1690"
+          }
+        },
+        {
+          "id": "g05-l003",
+          "title": {
+            "fr-FR": "Lettre III. Aux religieuses de jouarre, qui lui avaient rendu les premières une obéissance particulière. A Versailles, ce 28 juillet 1690"
+          }
+        },
+        {
+          "id": "g05-l004",
+          "title": {
+            "fr-FR": "Lettre IV. À la Prieure et Communauté de Jouarre. A Versailles, ce 28 juillet 1690"
+          }
+        },
+        {
+          "id": "g05-l005",
+          "title": {
+            "fr-FR": "Lettre V. À Une Religieuse de Jouarre. A Meaux, ce 30 septembre 1690"
+          }
+        },
+        {
+          "id": "g05-l006",
+          "title": {
+            "fr-FR": "Lettre VI. À Madame de Luynes. A Germigny, ce 13 octobre 1690"
+          }
+        },
+        {
+          "id": "g05-l007",
+          "title": {
+            "fr-FR": "Lettre VII. Aux religieuses de jouarre. A Meaux, ce 22 janvier 1691"
+          }
+        },
+        {
+          "id": "g05-l008",
+          "title": {
+            "fr-FR": "Lettre VIII. À Madame du Mans. A Meaux, ce 22 janvier 1691"
+          }
+        },
+        {
+          "id": "g05-l009",
+          "title": {
+            "fr-FR": "Lettre IX. À Madame de Luynes. A Paris, ce 6 mars 1691"
+          }
+        },
+        {
+          "id": "g05-l010",
+          "title": {
+            "fr-FR": "Lettre X. À Madame du Mans. A Meaux, ce 18 juin 1691"
+          }
+        },
+        {
+          "id": "g05-l011",
+          "title": {
+            "fr-FR": "Lettre XI. À Madame du Mans. A Germigny, ce 28 juin 1691"
+          }
+        },
+        {
+          "id": "g05-l012",
+          "title": {
+            "fr-FR": "Lettre XII. Aux religieuses de jouarre. A Meaux, ce 5 novembre 1691"
+          }
+        },
+        {
+          "id": "g05-l013",
+          "title": {
+            "fr-FR": "Lettre XIII. À Madame de Lusanci. A Versailles, ce 8 janvier 1692"
+          }
+        },
+        {
+          "id": "g05-l014",
+          "title": {
+            "fr-FR": "Lettre XIV. À Madame du Mans. A Versailles, ce 17 janvier 1692"
+          }
+        },
+        {
+          "id": "g05-l015",
+          "title": {
+            "fr-FR": "Lettre XV. À Madame du Mans. A Versailles, ce 29 janvier 1692"
+          }
+        },
+        {
+          "id": "g05-l016",
+          "title": {
+            "fr-FR": "Lettre XVI. À Madame du Mans. A Paris, ce 19 février 1692"
+          }
+        },
+        {
+          "id": "g05-l017",
+          "title": {
+            "fr-FR": "Lettre XVII. À Madame de Lusanci. A Paris, ce 19 février 1692"
+          }
+        },
+        {
+          "id": "g05-l018",
+          "title": {
+            "fr-FR": "Lettre XVIII. À Madame du Mans. A Paris, ce 25 février 1692"
+          }
+        },
+        {
+          "id": "g05-l019",
+          "title": {
+            "fr-FR": "Lettre XIX. À Madame du Mans. A Meaux, ce 18 mars 1692"
+          }
+        },
+        {
+          "id": "g05-l020",
+          "title": {
+            "fr-FR": "Lettre XX. À Madame de Lorraine, Abbesse de Jouarre. A Paris, avril 1692"
+          }
+        },
+        {
+          "id": "g05-l021",
+          "title": {
+            "fr-FR": "Lettre XXI. À Madame du Mans. A Meaux, ce 5 mai 1692"
+          }
+        },
+        {
+          "id": "g05-l022",
+          "title": {
+            "fr-FR": "Lettre XXII. À Madame du Mans. A Meaux, ce 12 mai 1692"
+          }
+        },
+        {
+          "id": "g05-l023",
+          "title": {
+            "fr-FR": "Lettre XXIII. À Madame du Mans. A Germigny, ce 26 juin 1692"
+          }
+        },
+        {
+          "id": "g05-l024",
+          "title": {
+            "fr-FR": "Lettre XXIV. À Madame du Mans. A Paris, ce 19 juillet 1692"
+          }
+        },
+        {
+          "id": "g05-l025",
+          "title": {
+            "fr-FR": "Lettre XXV. À Madame du Mans. A Germigny, ce 25 septembre 1692"
+          }
+        },
+        {
+          "id": "g05-l026",
+          "title": {
+            "fr-FR": "Lettre XXVI. À Madame du Mans. A Germigny, ce 3 novembre 1692"
+          }
+        },
+        {
+          "id": "g05-l027",
+          "title": {
+            "fr-FR": "Lettre XXVII. À Madame du Mans. A Versailles, ce 9 février 1693"
+          }
+        },
+        {
+          "id": "g05-l028",
+          "title": {
+            "fr-FR": "Lettre XXVIII. À Madame du Mans. A Meaux, ce 24 mars 1693"
+          }
+        },
+        {
+          "id": "g05-l029",
+          "title": {
+            "fr-FR": "Lettre XXIX. À Madame du Mans. A Meaux, ce 29 mars 1693"
+          }
+        },
+        {
+          "id": "g05-l030",
+          "title": {
+            "fr-FR": "Lettre XXX. À Madame du Mans. A Meaux, ce 30 mars 1693"
+          }
+        },
+        {
+          "id": "g05-l031",
+          "title": {
+            "fr-FR": "Lettre XXXI. À Madame du M a N S. A Paris, ce 19 avril 1693"
+          }
+        },
+        {
+          "id": "g05-l032",
+          "title": {
+            "fr-FR": "Lettre XXXII. À Mada M E du M a N S. A Meaux, ce 25 mai 1693"
+          }
+        },
+        {
+          "id": "g05-l033",
+          "title": {
+            "fr-FR": "Lettre XXXIII. À Mesdames du Mans et de Rodon. A Meaux, ce 1er juin 1693"
+          }
+        },
+        {
+          "id": "g05-l034",
+          "title": {
+            "fr-FR": "Lettre XXXIV. À Madame du Mans. A Paris, ce 29 juin 1693"
+          }
+        },
+        {
+          "id": "g05-l035",
+          "title": {
+            "fr-FR": "Lettre XXXV. À M Adam E du Mans. A Meaux, ce 18 juillet 1693"
+          }
+        },
+        {
+          "id": "g05-l036",
+          "title": {
+            "fr-FR": "Lettre XXXVI. À Madame du Mans. A Germigny, ce 5 août 1693"
+          }
+        },
+        {
+          "id": "g05-l037",
+          "title": {
+            "fr-FR": "Lettre XXXVII. À Madame du Mans. A Germigny, ce 20 septembre 1693"
+          }
+        },
+        {
+          "id": "g05-l038",
+          "title": {
+            "fr-FR": "Lettre XXXVIII. À Madame du Mans. A Germigny, ce 26 septembre 1693"
+          }
+        },
+        {
+          "id": "g05-l039",
+          "title": {
+            "fr-FR": "Lettre XXXIX. À Madame du Mans. A Germigny, ce 13 octobre 1693"
+          }
+        },
+        {
+          "id": "g05-l040",
+          "title": {
+            "fr-FR": "Lettre XL. À Madame de Lusanci. A Germigny, ce 16 octobre 1693"
+          }
+        },
+        {
+          "id": "g05-l041",
+          "title": {
+            "fr-FR": "Lettre XLI. À Madame de Baradat. A Germigny, ce 25 octobre 1693"
+          }
+        },
+        {
+          "id": "g05-l042",
+          "title": {
+            "fr-FR": "Lettre XLII. À Madame de Lusanci. A Germigny, ce 30 octobre 1693"
+          }
+        },
+        {
+          "id": "g05-l043",
+          "title": {
+            "fr-FR": "Lettre XLIII. À Madame du Mans. A Germigny, ce 3 novembre 1693"
+          }
+        },
+        {
+          "id": "g05-l044",
+          "title": {
+            "fr-FR": "Lettre XLIV. À Madame du Mans. A Meaux, ce 12 décembre 1693"
+          }
+        },
+        {
+          "id": "g05-l045",
+          "title": {
+            "fr-FR": "Lettre XLV. À Madame du Mans. A Meaux, ce 14 décembre 1693"
+          }
+        },
+        {
+          "id": "g05-l046",
+          "title": {
+            "fr-FR": "Lettre XLVI. À Madame du Mans. A Meaux, ce 23 décembre 1693"
+          }
+        },
+        {
+          "id": "g05-l047",
+          "title": {
+            "fr-FR": "Lettre XLVII. À Madame de Lusanci. A Meaux, ce 30 décembre 1693"
+          }
+        },
+        {
+          "id": "g05-l048",
+          "title": {
+            "fr-FR": "Lettre XLVIII. À Madame de Luynes. A Meaux, ce 2 janvier 1694"
+          }
+        },
+        {
+          "id": "g05-l049",
+          "title": {
+            "fr-FR": "Lettre XLIX. À Plusieurs Religieuses de Jouarre. A Paris, ce 15 janvier 1694"
+          }
+        },
+        {
+          "id": "g05-l050",
+          "title": {
+            "fr-FR": "Lettre L. À Madame de Lusanci. A Paris, ce 27 janvier 1694"
+          }
+        },
+        {
+          "id": "g05-l051",
+          "title": {
+            "fr-FR": "Lettre LI. À Madame du Mans. A Farmoutiers, ce 2 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l052",
+          "title": {
+            "fr-FR": "Lettre LII. À Madame du Mans. A Meaux, ce 5 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l053",
+          "title": {
+            "fr-FR": "Lettre LIII. À Madame du Mans. A Meaux, ce 6 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l054",
+          "title": {
+            "fr-FR": "Lettre LIV. À Madame de Soubise, Abbesse de Jouarre. A Meaux, ce 25 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l055",
+          "title": {
+            "fr-FR": "Lettre LV. À Madame du Mans. A Meaux, ce 26 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l056",
+          "title": {
+            "fr-FR": "Lettre LVI. À Madame du Mans. A Meaux, ce 26 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l057",
+          "title": {
+            "fr-FR": "Lettre LVII. À Madame du Mans. A Meaux, ce 27 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l058",
+          "title": {
+            "fr-FR": "Lettre LVIII. À Madame du Mans. A Germigny, ce 13 mai 1694"
+          }
+        },
+        {
+          "id": "g05-l059",
+          "title": {
+            "fr-FR": "Lettre LIX. À Madame de la Guillaumie. A Meaux, ce 8 juin 1694"
+          }
+        },
+        {
+          "id": "g05-l060",
+          "title": {
+            "fr-FR": "Lettre LX. À Madame du Mans. A Meaux, ce 14 juin 1691"
+          }
+        },
+        {
+          "id": "g05-l061",
+          "title": {
+            "fr-FR": "Lettre LXI. À Madame de la Guillaumie. A Meaux, ces 18 et 21 juin 1691"
+          }
+        },
+        {
+          "id": "g05-l062",
+          "title": {
+            "fr-FR": "Lettre LXII. À Madame du Mans. A Meaux, ce 22 juin 1694"
+          }
+        },
+        {
+          "id": "g05-l063",
+          "title": {
+            "fr-FR": "Lettre LXIII. À Madame de la Guillaumie. A Marly, ce 24 juillet 1694"
+          }
+        },
+        {
+          "id": "g05-l064",
+          "title": {
+            "fr-FR": "Lettre LXIV. À Madame du Mans. A Paris, ce 26 juillet 1694"
+          }
+        },
+        {
+          "id": "g05-l065",
+          "title": {
+            "fr-FR": "Lettre LXV. À Madame du Mans. A Germigny, ce 11 et 13 août 1691"
+          }
+        },
+        {
+          "id": "g05-l066",
+          "title": {
+            "fr-FR": "Lettre LXVI. À Madame de la Guillaumie. A Germigny, ce 13 septembre 1694"
+          }
+        },
+        {
+          "id": "g05-l067",
+          "title": {
+            "fr-FR": "Lettre LXVII. À Madame du Mans. A Germiguy, ce 13 septembre 1694"
+          }
+        },
+        {
+          "id": "g05-l068",
+          "title": {
+            "fr-FR": "Lettre LXVIII. À Madame du Mans. A Germigny, ce 10 octobre 1694"
+          }
+        },
+        {
+          "id": "g05-l069",
+          "title": {
+            "fr-FR": "Lettre LXIX. À Madame du Mans. A Germigny, ce 28 octobre 1694"
+          }
+        },
+        {
+          "id": "g05-l070",
+          "title": {
+            "fr-FR": "Lettre LXX. À Madame de la Guillaumie. A Meaux, ce 5 novembre 1694"
+          }
+        },
+        {
+          "id": "g05-l071",
+          "title": {
+            "fr-FR": "Lettre LXXI. À Madame du Mans. A Paris, ce 4 décembre 1694"
+          }
+        },
+        {
+          "id": "g05-l072",
+          "title": {
+            "fr-FR": "Lettre LXXII. À Madame du Mans. A Meaux, ce 21 décembre 1694"
+          }
+        },
+        {
+          "id": "g05-l073",
+          "title": {
+            "fr-FR": "Lettre LXXIII. À Madame du Mans. A Meaux, ce 31 décembre 1694"
+          }
+        },
+        {
+          "id": "g05-l074",
+          "title": {
+            "fr-FR": "Lettre LXXIV. Questions faites par madame du mans, avec les réponses de bossuet. Ce 30 mars 1695"
+          }
+        },
+        {
+          "id": "g05-l075",
+          "title": {
+            "fr-FR": "Lettre LXXV. À Madame du Mans. A Meaux, ce 4 et 5 janvier 1695"
+          }
+        },
+        {
+          "id": "g05-l076",
+          "title": {
+            "fr-FR": "Lettre LXXVI. À Madam E de Luynes. A Meaux, ce 4 janvier 1695"
+          }
+        },
+        {
+          "id": "g05-l077",
+          "title": {
+            "fr-FR": "Lettre LXXVII. À Madame du Mans. A Meaux, ce 13 janvier 1695"
+          }
+        },
+        {
+          "id": "g05-l078",
+          "title": {
+            "fr-FR": "Lettre LXXVIII. À Madame de Luynes. A Meaux, ce 13 janvier 1695"
+          }
+        },
+        {
+          "id": "g05-l079",
+          "title": {
+            "fr-FR": "Lettre LXXIX. À Madame du Mans. A Paris, ce 19 janvier 1695"
+          }
+        },
+        {
+          "id": "g05-l080",
+          "title": {
+            "fr-FR": "Lettre LXXX. À Madame du Mans. A Paris, ce 28 février 1695"
+          }
+        },
+        {
+          "id": "g05-l081",
+          "title": {
+            "fr-FR": "Lettre LXXXI. À Madame de la Guillaumie. A Paris, ce 25 avril 1695"
+          }
+        },
+        {
+          "id": "g05-l082",
+          "title": {
+            "fr-FR": "Lettre LXXXII. À Madame de la Guillaumie. A Paris, ce 6 mai 1695"
+          }
+        },
+        {
+          "id": "g05-l083",
+          "title": {
+            "fr-FR": "Lettre LXXXIII. À Madame de Lusanci. A Germigny, ce 17 mai 1695"
+          }
+        },
+        {
+          "id": "g05-l084",
+          "title": {
+            "fr-FR": "Lettre LXXXIV. À Madame du Mans. A Meaux, ce 27 mai 1695"
+          }
+        },
+        {
+          "id": "g05-l085",
+          "title": {
+            "fr-FR": "Lettre LXXXV. À Madame de Lusanci. A Meaux, ce 10 juin 1695"
+          }
+        },
+        {
+          "id": "g05-l086",
+          "title": {
+            "fr-FR": "Lettre LXXXVI. À Madame du Mans. A Meaux, ce 10 juin 1695"
+          }
+        },
+        {
+          "id": "g05-l087",
+          "title": {
+            "fr-FR": "Lettre LXXXVII. À Madame du Mans. A Germigny, ce 17 juin 1695"
+          }
+        },
+        {
+          "id": "g05-l088",
+          "title": {
+            "fr-FR": "Lettre LXXXVIII. À Madame du Mans. A Germigny, ce 1er juillet 1695"
+          }
+        },
+        {
+          "id": "g05-l089",
+          "title": {
+            "fr-FR": "Lettre LXXXIX. À Madame du Mans. A Paris, ce 16 juillet 1695"
+          }
+        },
+        {
+          "id": "g05-l090",
+          "title": {
+            "fr-FR": "Lettre XC. À Madame du Mans. A Germigny, ces 13 août et 25 septembre 1695"
+          }
+        },
+        {
+          "id": "g05-l091",
+          "title": {
+            "fr-FR": "Lettre XCI. À Madame du Mans. A Germigny, ce 30 septembre 1695"
+          }
+        },
+        {
+          "id": "g05-l092",
+          "title": {
+            "fr-FR": "Lettre XCII. À Madame du Mans. A Germigny, ce 8 octobre 1095"
+          }
+        },
+        {
+          "id": "g05-l093",
+          "title": {
+            "fr-FR": "Lettre XCIII. À Madame de Luynes. A Germigny, ce 12 octobre 1695"
+          }
+        },
+        {
+          "id": "g05-l094",
+          "title": {
+            "fr-FR": "Lettre XCIV. À Madame de Luynes. A Germigny, ce 18 octobre 1695"
+          }
+        },
+        {
+          "id": "g05-l095",
+          "title": {
+            "fr-FR": "Lettre XCV. À Madame du Mans. A Germigny, ces 22 octobre et 7 novembre 1695"
+          }
+        },
+        {
+          "id": "g05-l096",
+          "title": {
+            "fr-FR": "Lettre XCVI. À Madame de Luynes. A Meaux, ce 23 octobre 1695"
+          }
+        },
+        {
+          "id": "g05-l097",
+          "title": {
+            "fr-FR": "Lettre XCVII. À Madame du Mans. A Meaux, ce 20 décembre 1695"
+          }
+        },
+        {
+          "id": "g05-l098",
+          "title": {
+            "fr-FR": "Lettre XCVIII. Aux religieuses de jouarre. A Meaux, ce 5 janvier 1696"
+          }
+        },
+        {
+          "id": "g05-l099",
+          "title": {
+            "fr-FR": "Lettre XCIX. À Madame du Mans. A Paris ces 11 et 25 février 1696"
+          }
+        },
+        {
+          "id": "g05-l100",
+          "title": {
+            "fr-FR": "Lettre C. À Madame du Mans. A Meaux, ce 23 avril 1696"
+          }
+        },
+        {
+          "id": "g05-l101",
+          "title": {
+            "fr-FR": "Lettre CI. À Madame du Mans. A Germigny, ce 12 mai 1696"
+          }
+        },
+        {
+          "id": "g05-l102",
+          "title": {
+            "fr-FR": "Lettre CII. À Madame du Mans. A Germigny, ce 12 mai 1696"
+          }
+        },
+        {
+          "id": "g05-l103",
+          "title": {
+            "fr-FR": "Lettre CIII. À Madame du Mans. A Meaux, ce 7 juin 1696"
+          }
+        },
+        {
+          "id": "g05-l104",
+          "title": {
+            "fr-FR": "Lettre CIV. À Madame du Mans. A Germigny, ces 19 et 29 juin 1696"
+          }
+        },
+        {
+          "id": "g05-l105",
+          "title": {
+            "fr-FR": "Lettre CV. À Madame de Soubise, Abbesse de Jouarre. A Meaux, ce 20 juin 1696"
+          }
+        },
+        {
+          "id": "g05-l106",
+          "title": {
+            "fr-FR": "Lettre CVI. À Madame du Mans. A Germigny, ces 12 et 16 août 1696"
+          }
+        },
+        {
+          "id": "g05-l107",
+          "title": {
+            "fr-FR": "Lettre CVII. À Madame du Mans. A Germigny, ce 22 septembre 1696"
+          }
+        },
+        {
+          "id": "g05-l108",
+          "title": {
+            "fr-FR": "Lettre CVIII. À Madame du Mans. A Lusanci, lundi matin 1696"
+          }
+        },
+        {
+          "id": "g05-l109",
+          "title": {
+            "fr-FR": "Lettre CIX. À Madame du Mans. A Germigny, ce 27 octobre 1696"
+          }
+        },
+        {
+          "id": "g05-l110",
+          "title": {
+            "fr-FR": "Lettre CX. À Madame du Mans. A Meaux, ces 3 et 28 décembre 1696"
+          }
+        },
+        {
+          "id": "g05-l111",
+          "title": {
+            "fr-FR": "Lettre CXI. À Madame du Mans. A Meaux, ces 23 mars et 3 avril 1697"
+          }
+        },
+        {
+          "id": "g05-l112",
+          "title": {
+            "fr-FR": "Lettre CXII. À Madame du Mans. A Paris, ce 22 avril 1697"
+          }
+        },
+        {
+          "id": "g05-l113",
+          "title": {
+            "fr-FR": "Lettre CXIII. Consultations Faites Par Madame Du Mans, avec les réponses de Bossuet. A Meaux, le 2 de l'an 1698"
+          }
+        },
+        {
+          "id": "g05-l114",
+          "title": {
+            "fr-FR": "Lettre CXIV. À Madame de Luynes. A Paris, ce 23 août 1698"
+          }
+        },
+        {
+          "id": "g05-l115",
+          "title": {
+            "fr-FR": "Lettre CXV. À Madame du Mans. A Meaux, ce 24 novembre 1698"
+          }
+        },
+        {
+          "id": "g05-l116",
+          "title": {
+            "fr-FR": "Lettre CXVI. À Madame de Luynes. A Paris, ce 5 février 1699"
+          }
+        },
+        {
+          "id": "g05-l117",
+          "title": {
+            "fr-FR": "Lettre CXVII. À Madame du Mans. A Versailles, ce 21 février 1699"
+          }
+        },
+        {
+          "id": "g05-l118",
+          "title": {
+            "fr-FR": "Lettre CXVIII. À Madame de Luynes. A Paris, dimanche malin, à la fin de 1699"
+          }
+        },
+        {
+          "id": "g05-l119",
+          "title": {
+            "fr-FR": "Lettre CXIX. À Madame du Mans. A Meaux, ce 12 janvier 1700"
+          }
+        },
+        {
+          "id": "g05-l120",
+          "title": {
+            "fr-FR": "Lettre CXX. Aux religieuses de jouarre. A Meaux, ce 5 janvier 1701"
+          }
+        },
+        {
+          "id": "g05-l121",
+          "title": {
+            "fr-FR": "Lettre CXXI. À Madame du Mans. A Meaux, ce 11 janvier 1701"
+          }
+        },
+        {
+          "id": "g05-l122",
+          "title": {
+            "fr-FR": "Lettre CXXII. Questions de madame du mans, avec les réponses de bossuet. Ce 27 mai 1701"
+          }
+        },
+        {
+          "id": "g05-l123",
+          "title": {
+            "fr-FR": "Lettre CXXIII. À Madame de Lusanci. Ce 3 juin 1701"
+          }
+        },
+        {
+          "id": "g05-l124",
+          "title": {
+            "fr-FR": "Lettre CXXIV. À Madame du Mans. A Germigny, ce 4 juin 1701"
+          }
+        },
+        {
+          "id": "g05-l125",
+          "title": {
+            "fr-FR": "Lettre CXXV. À Madame de Luynes. A Paris, ce 22 juillet 1701"
+          }
+        },
+        {
+          "id": "g05-l126",
+          "title": {
+            "fr-FR": "Lettre CXXVI. À Madame du Mans. A Germigny, ce 11 août 1701"
+          }
+        },
+        {
+          "id": "g05-l127",
+          "title": {
+            "fr-FR": "Lettre CXXVII. À Madame du Mans. A Versailles, ce 14 mars 1702"
+          }
+        },
+        {
+          "id": "g05-l128",
+          "title": {
+            "fr-FR": "Lettre CXXVIII. À Madame du Mans. A Meaux, ce 21 juin 1702"
+          }
+        },
+        {
+          "id": "g05-l129",
+          "title": {
+            "fr-FR": "Lettre CXXIX. À Madame du Mans. A Germigny, ce 10 août 1702"
+          }
+        },
+        {
+          "id": "g05-l130",
+          "title": {
+            "fr-FR": "Lettre CXXX. A Madame De Baradat A Germigny, ce 17 octobre 1702"
+          }
+        },
+        {
+          "id": "g05-l131",
+          "title": {
+            "fr-FR": "Lettre CXXXI. A Madame De Lusanci, et à plusieurs religieuses attachées au prélat. A Paris, ce 10 février 1703"
+          }
+        },
+        {
+          "id": "g05-l132",
+          "title": {
+            "fr-FR": "Lettre CXXXII. À Madame du Mans. Lundi, 14"
+          }
+        },
+        {
+          "id": "g05-l133",
+          "title": {
+            "fr-FR": "Lettre CXXXIII. À Madame du Mans. A Versailles, mardi 29 mai"
+          }
+        },
+        {
+          "id": "g05-l134",
+          "title": {
+            "fr-FR": "Lettre CXXXIV. Extraits de plusieurs lettres. À Madame du Mans. A Meaux, ce 30 décembre 1693"
+          }
+        },
+        {
+          "id": "g05-l135",
+          "title": {
+            "fr-FR": "À Mesdames du Mans et de Rodon. A Meaux, ce 12 avril 1694"
+          }
+        },
+        {
+          "id": "g05-l136",
+          "title": {
+            "fr-FR": "A Meaux, ce 14 avril 1695"
+          }
+        },
+        {
+          "id": "g05-l137",
+          "title": {
+            "fr-FR": "A Meaux, ce 24 avril 1702"
+          }
+        },
+        {
+          "id": "g05-l138",
+          "title": {
+            "fr-FR": "A Germigny, ce 11 juin 1702"
+          }
+        },
+        {
+          "id": "g05-l139",
+          "title": {
+            "fr-FR": "A Germigny, ce 17 octobre 1702"
+          }
+        },
+        {
+          "id": "g05-l140",
+          "title": {
+            "fr-FR": "A Germigny, ce 21 octobre 1702"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": {
+        "fr-FR": "Lettres à des religieuses de différents monastères"
+      },
+      "children": [
+        {
+          "id": "g06-l001",
+          "title": {
+            "fr-FR": "Lettre Première. À la Supérieure et Communauté de la Congrégation a Coulommiers. A Versailles, ce 6 juin 1681"
+          }
+        },
+        {
+          "id": "g06-l002",
+          "title": {
+            "fr-FR": "Lettre II. À Une Superieure de Religieuses. A Germigny, ce 15 novembre 1682"
+          }
+        },
+        {
+          "id": "g06-l003",
+          "title": {
+            "fr-FR": "Lettre III. À Madame de Beringhen, Abbesse de Farmoutiers. A Meaux, ce 8 janvier 1683"
+          }
+        },
+        {
+          "id": "g06-l004",
+          "title": {
+            "fr-FR": "Lettre IV. Aux religieuses de farmoutiers. Ce 8 janvier 1683"
+          }
+        },
+        {
+          "id": "g06-l005",
+          "title": {
+            "fr-FR": "Lettre V. À Madame de Beringhen. A Germigny, ce 6 octobre 1684"
+          }
+        },
+        {
+          "id": "g06-l006",
+          "title": {
+            "fr-FR": "Lettre VI. À Madame de Tanqueux, Supérieure des Filles Charitables de la Ferté. A Germigny, ce 20 octobre 1684"
+          }
+        },
+        {
+          "id": "g06-l007",
+          "title": {
+            "fr-FR": "Lettre VII. Aux religieuses de coulommiers. A Meaux, ce 17 janvier 1685"
+          }
+        },
+        {
+          "id": "g06-l008",
+          "title": {
+            "fr-FR": "Lettre VIII. À des Religieuses de la Ville de Meaux. A Germigny, ce jour de Saint-Jacques et de Saint-Philippe, 1685"
+          }
+        },
+        {
+          "id": "g06-l009",
+          "title": {
+            "fr-FR": "Lettre IX. À Madame de Beringhen, Religieuse a Farmoutiers. A Germigny, ce 30 mai 1685"
+          }
+        },
+        {
+          "id": "g06-l010",
+          "title": {
+            "fr-FR": "Lettre X. Aux religieuses de farmoutiers. A Germigny, ce 1er juin 1685"
+          }
+        },
+        {
+          "id": "g06-l011",
+          "title": {
+            "fr-FR": "Lettre XI. À Madame de Beringhen. Nommée abbesse de farmoutiers. A la Ferté-sous-Jouarre, dimanche 3 juin"
+          }
+        },
+        {
+          "id": "g06-l012",
+          "title": {
+            "fr-FR": "Lettre XII. À Madame de Beringhen. Nommée abbesse de farmoutiers. A Germigny, ce 15 juin 1685"
+          }
+        },
+        {
+          "id": "g06-l013",
+          "title": {
+            "fr-FR": "Lettre XIII. À Madame de Beringhen. Nommée abbesse de farmoutiers. A Meaux, ce 2 août 1685"
+          }
+        },
+        {
+          "id": "g06-l014",
+          "title": {
+            "fr-FR": "Lettre XIV. À Madame de Beringhen. Nommée abbesse de farmoutiers. A Meaux, ce 2 août 1685"
+          }
+        },
+        {
+          "id": "g06-l015",
+          "title": {
+            "fr-FR": "Lettre XV. À la Supérieure des Ursulines de Meaux. A Paris, ce 20 août 1685"
+          }
+        },
+        {
+          "id": "g06-l016",
+          "title": {
+            "fr-FR": "Lettre XVI. Aux Ursulines de Meaux. A Paris, ce 20 août 1685"
+          }
+        },
+        {
+          "id": "g06-l017",
+          "title": {
+            "fr-FR": "Lettre XVII. À Madame de B Eringhen. Abbesse de farmouters. A Meaux, ce 6 septembre 1685"
+          }
+        },
+        {
+          "id": "g06-l018",
+          "title": {
+            "fr-FR": "Lettre XVIII. À Madame de Tanqueux, Supérieure des Filles Charitables de la Ferté. A Germigny, ce 30 septembre 1685"
+          }
+        },
+        {
+          "id": "g06-l019",
+          "title": {
+            "fr-FR": "Lettre XIX. À Madame de Sainte - Agnès, Supérieure des Ursulines de Meaux. Janvier 1686"
+          }
+        },
+        {
+          "id": "g06-l020",
+          "title": {
+            "fr-FR": "Lettre XX. À Madame de Beringhen, a Bbesse de Farmoutiers. A Meaux, ce 5 de l'an 1686"
+          }
+        },
+        {
+          "id": "g06-l021",
+          "title": {
+            "fr-FR": "Lettre XXI. À la Supérieure et Communauté des Filles Charitables de la Ferté. A Meaux, ce 18 janvier 1686"
+          }
+        },
+        {
+          "id": "g06-l022",
+          "title": {
+            "fr-FR": "Lettre XXII. À Madame de Beringhen. A Paris, ce 27 janvier 1686"
+          }
+        },
+        {
+          "id": "g06-l023",
+          "title": {
+            "fr-FR": "Lettre XXIII. À la Supérieure des Ursulines de Meaux. A Paris, ce 20 février 1686"
+          }
+        },
+        {
+          "id": "g06-l024",
+          "title": {
+            "fr-FR": "Lettre XXIV. À Madame de Beringhen. A Meaux, ce 4 avril 1686"
+          }
+        },
+        {
+          "id": "g06-l025",
+          "title": {
+            "fr-FR": "Lettre XXV. À Madame de Beringhen. A Meaux, ce 16 juin 1686"
+          }
+        },
+        {
+          "id": "g06-l026",
+          "title": {
+            "fr-FR": "Lettre XXVI. À M a d a M E de Beringhen. A Germigny, ce 18 juin 1686"
+          }
+        },
+        {
+          "id": "g06-l027",
+          "title": {
+            "fr-FR": "Lettre XXVII. À Madame de Beringhen. A Coulommiers, mardi 26 (juin 1686)"
+          }
+        },
+        {
+          "id": "g06-l028",
+          "title": {
+            "fr-FR": "Lettre XXVIII. À Une Supérieure de Religieuses. A Meaux, ce 28 juin 1686"
+          }
+        },
+        {
+          "id": "g06-l029",
+          "title": {
+            "fr-FR": "Lettre XXIX. À Madame de Beringhen. A Germigny, ce 1er juillet 1686"
+          }
+        },
+        {
+          "id": "g06-l030",
+          "title": {
+            "fr-FR": "Lettre XXX. À la Supérieure des Ursulines de Meaux. A Meaux, ce 18 juillet 1686"
+          }
+        },
+        {
+          "id": "g06-l031",
+          "title": {
+            "fr-FR": "Lettre XXXI. À Madame de Beringhen. A Meaux, ce 19 septembre 1686"
+          }
+        },
+        {
+          "id": "g06-l032",
+          "title": {
+            "fr-FR": "Lettre XXXII. À Madame de Beringhen. A Germigny, ce 17 octobre 1686"
+          }
+        },
+        {
+          "id": "g06-l033",
+          "title": {
+            "fr-FR": "Lettre XXXIII. À Madame de Beringhen. A Germigny, ce 19 octobre 1686"
+          }
+        },
+        {
+          "id": "g06-l034",
+          "title": {
+            "fr-FR": "Lettre XXXIV. À Madame de Beringhen. A Versailles, ce 13 novembre 1686"
+          }
+        },
+        {
+          "id": "g06-l035",
+          "title": {
+            "fr-FR": "Lettre XXXV. À Madame de Beringhen. A Meaux, ce 21 mars 1687"
+          }
+        },
+        {
+          "id": "g06-l036",
+          "title": {
+            "fr-FR": "Lettre XXXVI. À Madame de Beringhen. A Meaux, 3 avril 1687"
+          }
+        },
+        {
+          "id": "g06-l037",
+          "title": {
+            "fr-FR": "Lettre XXXVII. À Madame de Beringhen. A Meaux, ce lundi de la Pentecôte"
+          }
+        },
+        {
+          "id": "g06-l038",
+          "title": {
+            "fr-FR": "Lettre XXXVIII. À Madame de Beringhen. A Paris, 8 juin 1687"
+          }
+        },
+        {
+          "id": "g06-l039",
+          "title": {
+            "fr-FR": "Lettre XXXIX. À Madame de Beringhen. A Germigny, 25 juin 1687"
+          }
+        },
+        {
+          "id": "g06-l040",
+          "title": {
+            "fr-FR": "Lettre XL. À Madame de Beringhen. A Germigny, ce 5 juillet 1687"
+          }
+        },
+        {
+          "id": "g06-l041",
+          "title": {
+            "fr-FR": "Lettre XLI. À Madame de Beringhen. A Meaux, ce 23 août 1687"
+          }
+        },
+        {
+          "id": "g06-l042",
+          "title": {
+            "fr-FR": "Lettre XLII. Aux religieuses de la congrégation de coulommiers. A Germigny, ce 10 septembre 1687"
+          }
+        },
+        {
+          "id": "g06-l043",
+          "title": {
+            "fr-FR": "Lettre XLIII. À Madame de Tanqueux. A Lusanci, ce 3 novembre 1687"
+          }
+        },
+        {
+          "id": "g06-l044",
+          "title": {
+            "fr-FR": "Lettre XLIV. À la Soeur Jeanne Guyeux. Religieuse de la congrégation à coulommiers. A Meaux, ce 25 juin 1688"
+          }
+        },
+        {
+          "id": "g06-l045",
+          "title": {
+            "fr-FR": "Lettre XLV. Aux religieuses Ursulines de Meaux. Jeudi matin 1688"
+          }
+        },
+        {
+          "id": "g06-l046",
+          "title": {
+            "fr-FR": "Lettre XLVI. À Madame de Beringhen. A Meaux, ce 20 août 1688"
+          }
+        },
+        {
+          "id": "g06-l047",
+          "title": {
+            "fr-FR": "Lettre XLVII. À M Adame de Tanqueux. A Germigny, ce 5 mai 1689"
+          }
+        },
+        {
+          "id": "g06-l048",
+          "title": {
+            "fr-FR": "Lettre XLVIII. À Madame de Beringhen. A Meaux, ce 24 juin 1689"
+          }
+        },
+        {
+          "id": "g06-l049",
+          "title": {
+            "fr-FR": "Lettre XLIX. À Madame de Tanqueux. A Germigny, ce 7 août 1689"
+          }
+        },
+        {
+          "id": "g06-l050",
+          "title": {
+            "fr-FR": "Lettre L. À Madame de Tanqueux. A Germigny, ce 25 août 1689"
+          }
+        },
+        {
+          "id": "g06-l051",
+          "title": {
+            "fr-FR": "Lettre LI. À Madame de Tanqueux. A Germigny, ce 30 août 1689"
+          }
+        },
+        {
+          "id": "g06-l052",
+          "title": {
+            "fr-FR": "Lettre LII. À Madame de Tanqueux. A Meaux, ce 31 août 1689"
+          }
+        },
+        {
+          "id": "g06-l053",
+          "title": {
+            "fr-FR": "Lettre LIII. À Madame de Tanqueux. A Meaux, dimanche 25 septembre 1689"
+          }
+        },
+        {
+          "id": "g06-l054",
+          "title": {
+            "fr-FR": "Lettre LIV. Extraits de lettres à la soeur André, de la communauté des filles charitables de la ferté. A Meaux, ce 3 novembre 1689"
+          }
+        },
+        {
+          "id": "g06-l055",
+          "title": {
+            "fr-FR": "Lettre LV. À Madame de Beringhen. A Germigny, ce 18 mai 1690"
+          }
+        },
+        {
+          "id": "g06-l056",
+          "title": {
+            "fr-FR": "Lettre LVI. Aux filles charitables de la ferté-sous-jouarre. A Paris, ce 16 juillet 1690"
+          }
+        },
+        {
+          "id": "g06-l057",
+          "title": {
+            "fr-FR": "Lettre LVII. À Une Religieuse de la Congrégation, a Coulommiers. A Germigny, ce 7 septembre 1690"
+          }
+        },
+        {
+          "id": "g06-l058",
+          "title": {
+            "fr-FR": "Lettre LVIII. À Madame de Tanqueux. A Germigny, ce 14 octobre 1690"
+          }
+        },
+        {
+          "id": "g06-l059",
+          "title": {
+            "fr-FR": "Lettre LIX. À la Soeur André. A Germigny, ce 14 octobre 1690"
+          }
+        },
+        {
+          "id": "g06-l060",
+          "title": {
+            "fr-FR": "Lettre LX. À Madame de Tanqueux. A Germigny, ce 29 octobre 1690"
+          }
+        },
+        {
+          "id": "g06-l061",
+          "title": {
+            "fr-FR": "Lettre LXI. À la Soeur André. A Germigny, ce 29 octobre 1690"
+          }
+        },
+        {
+          "id": "g06-l062",
+          "title": {
+            "fr-FR": "Lettre LXII. À la Soeur Chevri, Fille Charitable de la Ferté-Sous-Jouarre. A Meaux, ce 4 novembre 1690"
+          }
+        },
+        {
+          "id": "g06-l063",
+          "title": {
+            "fr-FR": "Lettre LXIII. À la Soeur Chevri. A Meaux, ce 7 novembre 1690"
+          }
+        },
+        {
+          "id": "g06-l064",
+          "title": {
+            "fr-FR": "Lettre LXIV. À la Soeur André. A Meaux, ce 10 novembre 1690"
+          }
+        },
+        {
+          "id": "g06-l065",
+          "title": {
+            "fr-FR": "Lettre LXV. À Madame de Beringhen. A Meaux, ce 18 décembre 1690"
+          }
+        },
+        {
+          "id": "g06-l066",
+          "title": {
+            "fr-FR": "Lettre LXVI. À Madame de Beringhen. A Meaux, ce 3 janvier 1691"
+          }
+        },
+        {
+          "id": "g06-l067",
+          "title": {
+            "fr-FR": "Lettre LXVII. À Madame de Beringhen. A Paris, ce 14 mars 1691"
+          }
+        },
+        {
+          "id": "g06-l068",
+          "title": {
+            "fr-FR": "Lettre LXVIII. À Madame de Saint-Étienne, Religieuse Ursuline de Meaux. A Meaux, ce 19 mai 1691"
+          }
+        },
+        {
+          "id": "g06-l069",
+          "title": {
+            "fr-FR": "Lettre LXIX. Aux religieuses de la congrégation à coulommiers. A Germigny, ce 26 juin 1691"
+          }
+        },
+        {
+          "id": "g06-l070",
+          "title": {
+            "fr-FR": "Lettre LXX. À Madame de Tanqueux. A Germigny, ce 1er juillet 1691"
+          }
+        },
+        {
+          "id": "g06-l071",
+          "title": {
+            "fr-FR": "Lettre LXXI. Aux soeurs charitables de la communauté de la ferté-sous-jouarre. A Germigny, ce let août 1691"
+          }
+        },
+        {
+          "id": "g06-l072",
+          "title": {
+            "fr-FR": "Acte D'Établissement De Madame De Beauvau, pour supérieure dans la communauté des Sœurs charitables de la Ferté-sous-Jouarre"
+          }
+        },
+        {
+          "id": "g06-l073",
+          "title": {
+            "fr-FR": "Lettre LXXII. Extraits de différentes lettres à madame de tanqueux. A Meaux, ce 10 novembre 1690"
+          }
+        },
+        {
+          "id": "g06-l074",
+          "title": {
+            "fr-FR": "A Germigny, ce 1er juin 1691"
+          }
+        },
+        {
+          "id": "g06-l075",
+          "title": {
+            "fr-FR": "A Meaux, ce 17 juin 1691"
+          }
+        },
+        {
+          "id": "g06-l076",
+          "title": {
+            "fr-FR": "A Germigny, ce 29 septembre 1692"
+          }
+        },
+        {
+          "id": "g06-l077",
+          "title": {
+            "fr-FR": "A Germigny, ce 8 novembre 1692"
+          }
+        },
+        {
+          "id": "g06-l078",
+          "title": {
+            "fr-FR": "A Jouarre, mardi matin"
+          }
+        },
+        {
+          "id": "g06-l079",
+          "title": {
+            "fr-FR": "Lettre LXXIII. À Madame d'Épernon, Prieure des Carmélites du Faubourg Saint-Jacques, a Paris. Sur la fin de septembre 1691"
+          }
+        },
+        {
+          "id": "g06-l080",
+          "title": {
+            "fr-FR": "Lettre LXXIV. À Madame de Beringhen. A Paris, 5 décembre 1691"
+          }
+        },
+        {
+          "id": "g06-l081",
+          "title": {
+            "fr-FR": "Lettre LXXV. À Madame de Beringhen. A Meaux, ce 9 décembre 1691"
+          }
+        },
+        {
+          "id": "g06-l082",
+          "title": {
+            "fr-FR": "Lettre LXXVI. À Madame de Beringhen. A Versailles, 17 janvier 1692"
+          }
+        },
+        {
+          "id": "g06-l083",
+          "title": {
+            "fr-FR": "Lettre LXXVII. À Madame de Beringhen. A Paris, 7 février 1692"
+          }
+        },
+        {
+          "id": "g06-l084",
+          "title": {
+            "fr-FR": "Lettre LXXVIII. À Madame de Beringhen. A Paris, ce 6 mars 1692"
+          }
+        },
+        {
+          "id": "g06-l085",
+          "title": {
+            "fr-FR": "Lettre LXXIX. À Une Communauté de Religieuses. A Meaux, ce 29 mars 1692"
+          }
+        },
+        {
+          "id": "g06-l086",
+          "title": {
+            "fr-FR": "Lettre LXXX. À Madame de Beringhen. A Meaux, ce 2 avril 1692"
+          }
+        },
+        {
+          "id": "g06-l087",
+          "title": {
+            "fr-FR": "Lettre LXXXI. À Madame d'Arminvilliers, Religieuse a Farmoutiers, et Sœur de l'Abbesse"
+          }
+        },
+        {
+          "id": "g06-l088",
+          "title": {
+            "fr-FR": "Lettre LXXXII. A Madame De Beringhen A Meaux, ce 1er mai 1692"
+          }
+        },
+        {
+          "id": "g06-l089",
+          "title": {
+            "fr-FR": "Lettre LXXXIII. À Madame de Beringhen. A Meaux, 22 mai 1692"
+          }
+        },
+        {
+          "id": "g06-l090",
+          "title": {
+            "fr-FR": "Lettre LXXXIV. À la Soeur André. A Meaux, ce 27 mai 1692"
+          }
+        },
+        {
+          "id": "g06-l091",
+          "title": {
+            "fr-FR": "Lettre LXXXV. À Madame de Beringhen. A Paris, 4 Juillet 1697"
+          }
+        },
+        {
+          "id": "g06-l092",
+          "title": {
+            "fr-FR": "Lettre LXXXVI. À Madame de Beringhen. A Paris, 19 juillet 1692"
+          }
+        },
+        {
+          "id": "g06-l093",
+          "title": {
+            "fr-FR": "Lettre LXXXVII. À Une Religieuse. A Germigny, ce 10 août 1692"
+          }
+        },
+        {
+          "id": "g06-l094",
+          "title": {
+            "fr-FR": "Lettre LXXXVIII. À Madame de Beringhen. A Germigny, 24 septembre 1692"
+          }
+        },
+        {
+          "id": "g06-l095",
+          "title": {
+            "fr-FR": "Lettre LXXXIX. À Madame de Bebinghen. A Meaux, ce 22 décembre 1692"
+          }
+        },
+        {
+          "id": "g06-l096",
+          "title": {
+            "fr-FR": "Lettre XC. À Madame de Beringhen. A Meaux, ce 30 décembre 1692"
+          }
+        },
+        {
+          "id": "g06-l097",
+          "title": {
+            "fr-FR": "Lettre XCI. À Madame de Beringhen. A Paris, 15 février 1693"
+          }
+        },
+        {
+          "id": "g06-l098",
+          "title": {
+            "fr-FR": "Lettre XCII. À Madame de Beringhen. A Meaux, ce 12 mars 1693"
+          }
+        },
+        {
+          "id": "g06-l099",
+          "title": {
+            "fr-FR": "Lettre XCIII. À Madame de Beringhen. A Paris, ce 3 avril 1693"
+          }
+        },
+        {
+          "id": "g06-l100",
+          "title": {
+            "fr-FR": "Lettre XCIV. À Madame de Beringhen. A Paris, 19 avril 1693"
+          }
+        },
+        {
+          "id": "g06-l101",
+          "title": {
+            "fr-FR": "Lettre XCV. À Madame de Beringhen. A Meaux, ce 29 mai 1693"
+          }
+        },
+        {
+          "id": "g06-l102",
+          "title": {
+            "fr-FR": "Lettre XCVI. Extraits de plusieurs lettres à madame de tanqueux. A Meaux, ce 27 juin 1693"
+          }
+        },
+        {
+          "id": "g06-l103",
+          "title": {
+            "fr-FR": "A Germigny, ce 5 août 1693"
+          }
+        },
+        {
+          "id": "g06-l104",
+          "title": {
+            "fr-FR": "A Versailles, mardi soir"
+          }
+        },
+        {
+          "id": "g06-l105",
+          "title": {
+            "fr-FR": "Lettre XCVII. Aux soeurs de la communauté de sainte-anne, à la ferté-sous-jouarre. A Germigny, ce 5 août 1693"
+          }
+        },
+        {
+          "id": "g06-l106",
+          "title": {
+            "fr-FR": "Lettre XCVIII. À Madame de Beringhen. A Meaux, ce 2 septembre 1693"
+          }
+        },
+        {
+          "id": "g06-l107",
+          "title": {
+            "fr-FR": "Lettre XCIX. À Madame de Beringhen. A Germigny, ce 29 septembre 1693"
+          }
+        },
+        {
+          "id": "g06-l108",
+          "title": {
+            "fr-FR": "Lettre C. À Madame de Beringhen. Germigny, 2 octobre 1693"
+          }
+        },
+        {
+          "id": "g06-l109",
+          "title": {
+            "fr-FR": "Lettre CI. À Une Religieuse. A Coulommiers, ce 20 novembre 1693"
+          }
+        },
+        {
+          "id": "g06-l110",
+          "title": {
+            "fr-FR": "Lettre CII. À Madame de Beringhen. A Meaux, ce 1er décembre 1693"
+          }
+        },
+        {
+          "id": "g06-l111",
+          "title": {
+            "fr-FR": "Lettre CIII. À Madame de Beringhen. A Meaux, ce 2 décembre 1693"
+          }
+        },
+        {
+          "id": "g06-l112",
+          "title": {
+            "fr-FR": "Lettre CIV. À Madame de Beringhen. Ce 23 décembre 1693"
+          }
+        },
+        {
+          "id": "g06-l113",
+          "title": {
+            "fr-FR": "Lettre CV. À Madame de Beringhen. A Paris, ce 27 décembre 1693"
+          }
+        },
+        {
+          "id": "g06-l114",
+          "title": {
+            "fr-FR": "Lettre CVI. À Madame de Beringhen. A Paris, ce 5 janvier 1694"
+          }
+        },
+        {
+          "id": "g06-l115",
+          "title": {
+            "fr-FR": "Lettre CVII. À Madame de Beringhen. A Versailles, ce 10 janvier 1694"
+          }
+        },
+        {
+          "id": "g06-l116",
+          "title": {
+            "fr-FR": "Lettre CVIII. À Madame de Beringhen. A Paris, ce 15 février 1694"
+          }
+        },
+        {
+          "id": "g06-l117",
+          "title": {
+            "fr-FR": "Lettre CIX. À Madame de Beringhen. A Meaux, ce 16 mars 1694"
+          }
+        },
+        {
+          "id": "g06-l118",
+          "title": {
+            "fr-FR": "Lettre CX. À Madame de Beringhen. A Meaux, ce 21 mars 1694"
+          }
+        },
+        {
+          "id": "g06-l119",
+          "title": {
+            "fr-FR": "Lettre CXI. À Madame de Beringhen. A Meaux, ce 29 avril 1694"
+          }
+        },
+        {
+          "id": "g06-l120",
+          "title": {
+            "fr-FR": "Lettre CXII. À Madame de Beringhen. A Germigny, ce 5 mai 1694"
+          }
+        },
+        {
+          "id": "g06-l121",
+          "title": {
+            "fr-FR": "Lettre CXIII. À Madame de Beringhen. A Germigny, ce 7 mai 1694"
+          }
+        },
+        {
+          "id": "g06-l122",
+          "title": {
+            "fr-FR": "Lettre CXIV. À Madame de Beringhen. A Germigny, ce 9 mai 1694"
+          }
+        },
+        {
+          "id": "g06-l123",
+          "title": {
+            "fr-FR": "Lettre CXV. À Madame de Beringhen. A Paris, ce 26 mai 1694"
+          }
+        },
+        {
+          "id": "g06-l124",
+          "title": {
+            "fr-FR": "Lettre CXVI. À Madame de Beringhen. A Meaux, ce 31 mai 1694"
+          }
+        },
+        {
+          "id": "g06-l125",
+          "title": {
+            "fr-FR": "Lettre CXVII. À Madame de Beringhen. A Meaux, 13 juin 1694"
+          }
+        },
+        {
+          "id": "g06-l126",
+          "title": {
+            "fr-FR": "Lettre CXVIII. À Madame de Beringhen. A Meaux, 14 juin 1694"
+          }
+        },
+        {
+          "id": "g06-l127",
+          "title": {
+            "fr-FR": "Lettre CXIX. À Madame de Beringhen. A Marli, 24 juillet 1694"
+          }
+        },
+        {
+          "id": "g06-l128",
+          "title": {
+            "fr-FR": "Lettre CXX. À Madame de Beringhen. A Versailles, ce 30 juillet 1695"
+          }
+        },
+        {
+          "id": "g06-l129",
+          "title": {
+            "fr-FR": "Lettre CXXI. À Madame de Beringhen. A Germigny, 6 août 1694"
+          }
+        },
+        {
+          "id": "g06-l130",
+          "title": {
+            "fr-FR": "Lettre CXXII. À Madame de Beringhen. A Germigny, ce 12 août 1694"
+          }
+        },
+        {
+          "id": "g06-l131",
+          "title": {
+            "fr-FR": "Lettre CXXIII. À Madame de la Vieuville, Religieuse de Farmoutiers. A Germigny, ce 27 octobre 1694"
+          }
+        },
+        {
+          "id": "g06-l132",
+          "title": {
+            "fr-FR": "Lettre CXXIV. À Madame de Beringhen. A Meaux, ce 5 novembre 1694"
+          }
+        },
+        {
+          "id": "g06-l133",
+          "title": {
+            "fr-FR": "Lettre CXXV. À Madame de Beringhen. A Paris, ce 15 janvier 1695"
+          }
+        },
+        {
+          "id": "g06-l134",
+          "title": {
+            "fr-FR": "Lettre CXXVI. À Madame de Beringhen. A Versailles, 31 janvier 1695"
+          }
+        },
+        {
+          "id": "g06-l135",
+          "title": {
+            "fr-FR": "Lettre CXXVII. À Madame de Beringhen. A Versailles, ce 2 mars 1695"
+          }
+        },
+        {
+          "id": "g06-l136",
+          "title": {
+            "fr-FR": "Lettre CXXVIII. À Madame de Beringhen. A Versailles, ce 2 mars 1695"
+          }
+        },
+        {
+          "id": "g06-l137",
+          "title": {
+            "fr-FR": "Lettre CXXIX. À Madame de Beringhen. A Paris, 16 mars 1695"
+          }
+        },
+        {
+          "id": "g06-l138",
+          "title": {
+            "fr-FR": "Lettre CXXX. À Madame de Beringhen. A Meaux, ce 27 mars 1695"
+          }
+        },
+        {
+          "id": "g06-l139",
+          "title": {
+            "fr-FR": "Lettre CXXXI. À Madame de Beringhen. A Meaux, 29 mars 1695"
+          }
+        },
+        {
+          "id": "g06-l140",
+          "title": {
+            "fr-FR": "Lettre CXXXII. À Madame de Beringhen. A Germigny, ce 13 mai 1695"
+          }
+        },
+        {
+          "id": "g06-l141",
+          "title": {
+            "fr-FR": "Lettre CXXXIII. À Madame de Beringhen. A Meaux, 15 mai 1695"
+          }
+        },
+        {
+          "id": "g06-l142",
+          "title": {
+            "fr-FR": "Lettre CXXXIV. À Madame de Beringhen. A Meaux, 24 mai 1695"
+          }
+        },
+        {
+          "id": "g06-l143",
+          "title": {
+            "fr-FR": "Lettre CXXXV. À Madame de Beringhen. A Germigny, 26 mai 1695"
+          }
+        },
+        {
+          "id": "g06-l144",
+          "title": {
+            "fr-FR": "Lettre CXXXVI. À Madame de Beringhen. A Meaux, 4 septembre 1695"
+          }
+        },
+        {
+          "id": "g06-l145",
+          "title": {
+            "fr-FR": "Lettre CXXXVII. À Madame de Beringhen. A Coulommiers, ce 27 octobre 1695"
+          }
+        },
+        {
+          "id": "g06-l146",
+          "title": {
+            "fr-FR": "Lettre CXXXVIII. À Madame de Beringhen. A Meaux, 2 de l'an 1696"
+          }
+        },
+        {
+          "id": "g06-l147",
+          "title": {
+            "fr-FR": "Lettre CXXXIX. À Madame de Beringhen. A Paris, ce 19 mars 1696"
+          }
+        },
+        {
+          "id": "g06-l148",
+          "title": {
+            "fr-FR": "Lettre CXL. À Madame de Beringhen. A Meaux, 16 avril 1696"
+          }
+        },
+        {
+          "id": "g06-l149",
+          "title": {
+            "fr-FR": "Lettre CXLI. À Madame de Beringhen. Ce 25 juin 1696"
+          }
+        },
+        {
+          "id": "g06-l150",
+          "title": {
+            "fr-FR": "Lettre CXLII. À Madame de Beringhen. A Paris, 16 juillet 1696"
+          }
+        },
+        {
+          "id": "g06-l151",
+          "title": {
+            "fr-FR": "Lettre CXLIII. À Madame de Beringhen. A Germigny, 16 août 1696"
+          }
+        },
+        {
+          "id": "g06-l152",
+          "title": {
+            "fr-FR": "Lettre CXLIV. À Madame de Beringhen. A Meaux, ce 21 septembre 1696"
+          }
+        },
+        {
+          "id": "g06-l153",
+          "title": {
+            "fr-FR": "Lettre CXLV. À Madame de Bebinghen. A La Fortelle, 30 septembre 1696"
+          }
+        },
+        {
+          "id": "g06-l154",
+          "title": {
+            "fr-FR": "Lettre CXLVI. À Madame de Beringhen. A La Ronse près Evreux, ce 6 octobre 1696"
+          }
+        },
+        {
+          "id": "g06-l155",
+          "title": {
+            "fr-FR": "Lettre CXLVII. À Madame de Beringhen. A Versailles, ce 14 janvier 1697"
+          }
+        },
+        {
+          "id": "g06-l156",
+          "title": {
+            "fr-FR": "Lettre CXLVIII. À Madame de Beringhen. A Meaux, ce 28 mars 1697"
+          }
+        },
+        {
+          "id": "g06-l157",
+          "title": {
+            "fr-FR": "Lettre CXLIX. À Madame de Beringhen. A Paris, 24 avril 1697"
+          }
+        },
+        {
+          "id": "g06-l158",
+          "title": {
+            "fr-FR": "Lettre CL. À Madame de Beringhen.; A Paris, 17 juin 1697"
+          }
+        },
+        {
+          "id": "g06-l159",
+          "title": {
+            "fr-FR": "Lettre CLI. À Madame de Beringhen. A Paris, 1er août 1697"
+          }
+        },
+        {
+          "id": "g06-l160",
+          "title": {
+            "fr-FR": "Lettre CLII. À Madame de Beringhen. A Meaux, 15 août 1697"
+          }
+        },
+        {
+          "id": "g06-l161",
+          "title": {
+            "fr-FR": "Lettre CLIII. À Madame de Beringhen. A Paris, ce 10 juillet 1698"
+          }
+        },
+        {
+          "id": "g06-l162",
+          "title": {
+            "fr-FR": "Lettre CLIV. À Madame de Beringhen. A Meaux, ce 13 août 1698"
+          }
+        },
+        {
+          "id": "g06-l163",
+          "title": {
+            "fr-FR": "Lettre CLV. À Madame de Beringhen. A Meaux, 7 septembre 1698"
+          }
+        },
+        {
+          "id": "g06-l164",
+          "title": {
+            "fr-FR": "Lettre CLVI. À Madame de Beringhen. A Compiègne, ce 13 septembre 1698"
+          }
+        },
+        {
+          "id": "g06-l165",
+          "title": {
+            "fr-FR": "Lettre CLVII. À Madame de Beringhen. A Paris, 20 janvier 1699"
+          }
+        },
+        {
+          "id": "g06-l166",
+          "title": {
+            "fr-FR": "Lettre CLVIII. À Madame de Beringhen. A Versailles, 26 mai 1699"
+          }
+        },
+        {
+          "id": "g06-l167",
+          "title": {
+            "fr-FR": "Lettre CLIX. À Madame de Beringhen. A Meaux, jeudi 8 juillet 1699"
+          }
+        },
+        {
+          "id": "g06-l168",
+          "title": {
+            "fr-FR": "Lettre CLX. À Madame de Beringhen. A Germigny, 9 août 1699"
+          }
+        },
+        {
+          "id": "g06-l169",
+          "title": {
+            "fr-FR": "Lettre CLXI. À Madame de Beringhen. A Germigny, 12 octobre 1699"
+          }
+        },
+        {
+          "id": "g06-l170",
+          "title": {
+            "fr-FR": "Lettre CLXII. À Madame de Beringhen. A Versailles, 29 novembre 1699"
+          }
+        },
+        {
+          "id": "g06-l171",
+          "title": {
+            "fr-FR": "Lettre CLXIII. À Madame de Beringhen. A Versailles, 4 décembre 1699"
+          }
+        },
+        {
+          "id": "g06-l172",
+          "title": {
+            "fr-FR": "Lettre CLXIV. À Madame de Beringhen. A Meaux, ce 19 décembre 1699"
+          }
+        },
+        {
+          "id": "g06-l173",
+          "title": {
+            "fr-FR": "Lettre CLXV. À Madame de Beringhen. A Paris, ce 2 octobre 1700"
+          }
+        },
+        {
+          "id": "g06-l174",
+          "title": {
+            "fr-FR": "Lettre CLXVI. À Madame de Beringhen. A Germigny, ce 18 octobre 1700"
+          }
+        },
+        {
+          "id": "g06-l175",
+          "title": {
+            "fr-FR": "Lettre CLXVII. À Madame de Beringhen. A Paris, ce 26 novembre 1700"
+          }
+        },
+        {
+          "id": "g06-l176",
+          "title": {
+            "fr-FR": "Lettre CLXVIII. À Madame de Beringhen. A Meaux, ce 20 décembre 1700"
+          }
+        },
+        {
+          "id": "g06-l177",
+          "title": {
+            "fr-FR": "Lettre CLXIX. À Madame de Beringhen. A Paris, ce 15 février 1701"
+          }
+        },
+        {
+          "id": "g06-l178",
+          "title": {
+            "fr-FR": "Lettre CLXX. À Madame de Beringhen. A Paris, ce 25 février 1701"
+          }
+        },
+        {
+          "id": "g06-l179",
+          "title": {
+            "fr-FR": "Lettre CLXXI. À Madame de Beringhen. A Versailles, ce 3 juillet 1701"
+          }
+        },
+        {
+          "id": "g06-l180",
+          "title": {
+            "fr-FR": "Lettre CLXXII. À Madame de Beringhen. A Meaux, ce 5 septembre 1701"
+          }
+        },
+        {
+          "id": "g06-l181",
+          "title": {
+            "fr-FR": "Lettre CLXXIII. À Madame de Beringhen. A Meaux, ce 15 janvier 1702"
+          }
+        },
+        {
+          "id": "g06-l182",
+          "title": {
+            "fr-FR": "Lettre CLXXIV. Aux soeurs de la communauté de sainte-anne, de la ferté-sous-jouarre. A Meaux, ce 3 juin 1702"
+          }
+        },
+        {
+          "id": "g06-l183",
+          "title": {
+            "fr-FR": "Lettre CLXXV. À Madame de Beringhen. A Germigny, ce 30 septembre 1702"
+          }
+        },
+        {
+          "id": "g06-l184",
+          "title": {
+            "fr-FR": "Lettre CLXXVI. Questions Faites A Bossuet, par les religieuses de la Visitation, avec les réponses"
+          }
+        },
+        {
+          "id": "g06-l185",
+          "title": {
+            "fr-FR": "Lettre CLXXVII. Autres questions proposées à bossuet avec les réponses"
+          }
+        },
+        {
+          "id": "g06-l186",
+          "title": {
+            "fr-FR": "Lettre CLXXVIII. Sur l'état de sécheresse"
+          }
+        },
+        {
+          "id": "g06-l187",
+          "title": {
+            "fr-FR": "Lettre CLXXIX. Sur l'excellence de l'ame"
+          }
+        }
+      ]
+    }
+  ]
+}
