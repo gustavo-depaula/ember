@@ -1,0 +1,72 @@
+{
+  "id": "eudes-entretiens-interieurs",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Entretiens intérieurs de l’âme chrétienne avec son Dieu",
+    "en-US": "Interior Conversations of the Christian Soul with Its God",
+    "pt-BR": "Colóquios interiores da alma cristã com seu Deus"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Des colloques de l’âme avec Dieu, sur la vie intérieure et les dispositions de la prière.",
+    "en-US": "Colloquies of the soul with God on the interior life and the dispositions of prayer.",
+    "pt-BR": "Colóquios da alma com Deus sobre a vida interior e as disposições da oração."
+  },
+  "composed": 1640,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/entretiens-interieurs",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_2)_000000347.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 2, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ent-01",
+      "title": {
+        "fr-FR": "Entretiens intérieurs (1): Entretiens intérieurs"
+      }
+    },
+    {
+      "id": "ent-02",
+      "title": {
+        "fr-FR": "Entretiens intérieurs (2): Troisieme entretien"
+      }
+    },
+    {
+      "id": "ent-03",
+      "title": {
+        "fr-FR": "Entretiens intérieurs (3): Sixieme entretien"
+      }
+    },
+    {
+      "id": "ent-04",
+      "title": {
+        "fr-FR": "Entretiens intérieurs (4): Neuvieme entretien"
+      }
+    },
+    {
+      "id": "ent-05",
+      "title": {
+        "fr-FR": "Entretiens intérieurs (5): Douzieme entretien"
+      }
+    }
+  ]
+}
