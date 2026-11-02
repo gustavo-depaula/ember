@@ -1,0 +1,339 @@
+{
+  "id": "sales-opuscules-xxv",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Opuscules de saint François de Sales, tome XXV",
+    "en-US": "Opuscules of St. Francis de Sales, vol. XXV",
+    "pt-BR": "Opúsculos de São Francisco de Sales, tomo XXV"
+  },
+  "author": {
+    "fr-FR": "Saint François de Sales",
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "description": {
+    "fr-FR": "Les opuscules du tome XXV de l’édition d’Annecy : la série consacrée à la Visitation (préface, règle de saint Augustin, Constitutions, Directoire spirituel, Coutumier).",
+    "en-US": "The opuscules in volume XXV of the Annecy edition: the Visitation series (preface, Rule of St Augustine, Constitutions, Spiritual Directory, Customary).",
+    "pt-BR": "Os opúsculos de São Francisco de Sales no tomo XXV da edição de Annecy (Cinquième série : Visitation)."
+  },
+  "composed": "1610-1622",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "francis-de-sales/opuscules-xxv",
+  "editions": {
+    "fr-FR": {
+      "editor": "Religieuses de la Visitation d’Annecy",
+      "year": 1928
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://www.donboscosanto.eu/francesco_di_sales/",
+      "edition": "Œuvres de saint François de Sales, édition complète d’après les autographes et les éditions originales, t. XXV: Opuscules, 1928 (file 25), Annecy: J. Niérat, 1892-1932. Scans with text layer (2022 re-OCR) from donboscosanto.eu.",
+      "description": "Francis’s text in the original spelling (and the Latin or Italian of some pieces), extracted from the PDF text layer (layout mode). Marginal references, the variants and footnotes, and the editors’ introductions and tables are not included. Chapters follow the printed section headings; short sections are folded into the preceding chapter under a second-level heading.",
+      "tier": "A",
+      "tierEvidence": "Francis died in 1622; the Annecy edition is of his own text in period spelling, published in or before 1932. Only Francis’s own text is used, not the editors’ apparatus."
+    }
+  ],
+  "toc": [
+    {
+      "id": "piece-01",
+      "title": {
+        "fr-FR": "Constitution xxxvi de l’œconome"
+      }
+    },
+    {
+      "id": "piece-02",
+      "title": {
+        "fr-FR": "Constitution xlvi du renouvellement et confirmation des vœux"
+      }
+    },
+    {
+      "id": "piece-03",
+      "title": {
+        "fr-FR": "Constitution xlviii des penitences et chastimens"
+      }
+    },
+    {
+      "id": "piece-04",
+      "title": {
+        "fr-FR": "De la Visitation"
+      }
+    },
+    {
+      "id": "piece-05",
+      "title": {
+        "fr-FR": "Directoire des choses spirituelles"
+      }
+    },
+    {
+      "id": "piece-06",
+      "title": {
+        "fr-FR": "Pour le novitiat"
+      }
+    },
+    {
+      "id": "piece-07",
+      "title": {
+        "fr-FR": "Dites de Sainte Marie"
+      }
+    },
+    {
+      "id": "piece-08",
+      "title": {
+        "fr-FR": "De l'employte de la journee et des heures"
+      }
+    },
+    {
+      "id": "piece-09",
+      "title": {
+        "fr-FR": "Avertissement des éditeurs"
+      }
+    },
+    {
+      "id": "piece-10",
+      "title": {
+        "fr-FR": "Est erigee"
+      }
+    },
+    {
+      "id": "piece-11",
+      "title": {
+        "fr-FR": "Et de leurs qualités"
+      }
+    },
+    {
+      "id": "piece-12",
+      "title": {
+        "fr-FR": "De l’entree des femmes dedans la mayson"
+      }
+    },
+    {
+      "id": "piece-13",
+      "title": {
+        "fr-FR": "Quand elles sortiront, et comment"
+      }
+    },
+    {
+      "id": "piece-14",
+      "title": {
+        "fr-FR": "Des sorties extraordinaires"
+      }
+    },
+    {
+      "id": "piece-15",
+      "title": {
+        "fr-FR": "Des heures, oraysons et communions"
+      }
+    },
+    {
+      "id": "piece-16",
+      "title": {
+        "fr-FR": "Des seurs servantes"
+      }
+    },
+    {
+      "id": "piece-17",
+      "title": {
+        "fr-FR": "De l’entree des novices"
+      }
+    },
+    {
+      "id": "piece-18",
+      "title": {
+        "fr-FR": "De l’expulsion des seurs scandaleuses"
+      }
+    },
+    {
+      "id": "piece-19",
+      "title": {
+        "fr-FR": "Des congregations"
+      }
+    },
+    {
+      "id": "piece-20",
+      "title": {
+        "fr-FR": "De la Visitation adressé a Saint françois de sales"
+      }
+    },
+    {
+      "id": "piece-21",
+      "title": {
+        "fr-FR": "De m?r de marquemont"
+      }
+    },
+    {
+      "id": "piece-22",
+      "title": {
+        "fr-FR": "Avertissement des editeurs"
+      }
+    },
+    {
+      "id": "piece-23",
+      "title": {
+        "fr-FR": "Des personnes qui peuvent estre receues en cette congregation, et de leurs qualités"
+      }
+    },
+    {
+      "id": "piece-24",
+      "title": {
+        "fr-FR": "De l’employte du jour"
+      }
+    },
+    {
+      "id": "piece-25",
+      "title": {
+        "fr-FR": "Entre les seurs"
+      }
+    },
+    {
+      "id": "piece-26",
+      "title": {
+        "fr-FR": "De la pauvreté"
+      }
+    },
+    {
+      "id": "piece-27",
+      "title": {
+        "fr-FR": "De l’humilité"
+      }
+    },
+    {
+      "id": "piece-28",
+      "title": {
+        "fr-FR": "Des officieres de la mayson et premierement de la superieure"
+      }
+    },
+    {
+      "id": "piece-29",
+      "title": {
+        "fr-FR": "De la directrice"
+      }
+    },
+    {
+      "id": "piece-30",
+      "title": {
+        "fr-FR": "De l’entree des novices"
+      }
+    },
+    {
+      "id": "piece-31",
+      "title": {
+        "fr-FR": "Formulaire de l’establissement des seurs en la congregation"
+      }
+    },
+    {
+      "id": "piece-32",
+      "title": {
+        "fr-FR": "De l’expulsion des seurs scandaleuses"
+      }
+    },
+    {
+      "id": "piece-33",
+      "title": {
+        "fr-FR": "De l’eslection de la superieure et autres officieres"
+      }
+    },
+    {
+      "id": "piece-34",
+      "title": {
+        "fr-FR": "Avant la profession"
+      }
+    },
+    {
+      "id": "piece-35",
+      "title": {
+        "fr-FR": "Meditations pour sept jours avant la profession"
+      }
+    },
+    {
+      "id": "piece-36",
+      "title": {
+        "fr-FR": "Directoire de la seur assistente"
+      }
+    },
+    {
+      "id": "piece-37",
+      "title": {
+        "fr-FR": "Des novices"
+      }
+    },
+    {
+      "id": "piece-38",
+      "title": {
+        "fr-FR": "Directoire de la seur œconome"
+      }
+    },
+    {
+      "id": "piece-39",
+      "title": {
+        "fr-FR": "Directoire de la seur portiere"
+      }
+    },
+    {
+      "id": "piece-40",
+      "title": {
+        "fr-FR": "Directoire de la seur infirmiere"
+      }
+    },
+    {
+      "id": "piece-41",
+      "title": {
+        "fr-FR": "Directoire de la seur infirmiere"
+      }
+    },
+    {
+      "id": "piece-42",
+      "title": {
+        "fr-FR": "Directoire de la seur despensiere"
+      }
+    },
+    {
+      "id": "piece-43",
+      "title": {
+        "fr-FR": "Lettre d’obédience a la mère de chantal"
+      }
+    },
+    {
+      "id": "piece-44",
+      "title": {
+        "fr-FR": "Cartel de desfy"
+      }
+    },
+    {
+      "id": "piece-45",
+      "title": {
+        "fr-FR": "De la Visitation"
+      }
+    },
+    {
+      "id": "piece-46",
+      "title": {
+        "fr-FR": "Pour les fondations"
+      }
+    },
+    {
+      "id": "piece-47",
+      "title": {
+        "fr-FR": "Sommaire des constitutions"
+      }
+    },
+    {
+      "id": "piece-48",
+      "title": {
+        "fr-FR": "Ou pris dans une acception inusitee"
+      }
+    },
+    {
+      "id": "piece-49",
+      "title": {
+        "fr-FR": "Honnestes filles de leur"
+      }
+    }
+  ],
+  "arrived": {
+    "fr-FR": "2026-11-02"
+  }
+}
