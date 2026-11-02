@@ -13,7 +13,7 @@ ROOT = '/Users/gustavo/Documents/prayer'
 NUM = r'([IVXLCDMivxl1!TUYJH]{1,9})'
 OCRFIX = [(r'\btlie\b', 'the'), (r'\btbe\b', 'the'), (r'\bTlie\b', 'The'), (r'\bTbe\b', 'The'), (r'\bwliich\b', 'which'), (r'\bwhicli\b', 'which'),
           (r'\bwbich\b', 'which'), (r'\btbat\b', 'that'), (r'\btbis\b', 'this'), (r'\bliis\b', 'his'), (r'\bwitli\b', 'with'), (r'\bwitb\b', 'with'),
-          (r'\bhimself\b', 'himself'), (r'\bGocl\b', 'God'), (r'\bGrod\b', 'God'), (r'\bJESTJS\b', 'JESUS'), (r'\bJestjs\b', 'Jesus'),
+          (r'\bhimself\b', 'himself'), (r'\bGocl\b', 'God'), (r'\bEaith\b', 'Faith'), (r'\bGrod\b', 'God'), (r'\bJESTJS\b', 'JESUS'), (r'\bJestjs\b', 'Jesus'),
           (r'\btliat\b', 'that'), (r'\btliis\b', 'this'), (r'\btliey\b', 'they'), (r'\btliem\b', 'them'), (r'\btlien\b', 'then'), (r'\btliere\b', 'there'),
           (r'\btlioso\b', 'those'), (r'\bwlio\b', 'who'), (r'\bwhorn\b', 'whom'), (r'\bwliat\b', 'what'), (r'\bwlien\b', 'when'), (r'\bwliere\b', 'where')]
 def rom(s):
@@ -105,6 +105,7 @@ def process(lines, cfg, counts, fnstate):
         if cfg.get('fn') and FNSTART.match(b) and len(b) < 1800:
             m = FNSTART.match(b)
             if m.group(1) in ('*', '**', '***', '†', '‡', '§', '|', '||', 'J', 't', 'f', '%') and (m.group(1) in '*†‡§|' or True):
+                if not re.search(r'[A-Za-z]{3,}', b[m.end():]): continue
                 cur['fn'].append((m.group(1), b[m.end():].strip())); continue
         cur['body'].append(b)
     pages.append(cur)
