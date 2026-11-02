@@ -1,0 +1,48 @@
+{
+  "id": "fenelon-testament",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Testament de Fénelon",
+    "en-US": "Fénelon’s Will",
+    "pt-BR": "Testamento de Fénelon"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le testament olographe de Fénelon, archevêque de Cambrai.",
+    "en-US": "The holograph will of Fénelon, Archbishop of Cambrai.",
+    "pt-BR": "O testamento olográfico de Fénelon, arcebispo de Cambrai."
+  },
+  "composed": "1713",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/testament",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 10, tome 10; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-testament",
+      "title": {
+        "fr-FR": "Testament de Fénelon"
+      }
+    }
+  ]
+}
