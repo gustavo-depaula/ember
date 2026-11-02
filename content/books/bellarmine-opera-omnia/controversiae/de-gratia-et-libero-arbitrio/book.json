@@ -1,0 +1,545 @@
+{
+  "id": "bellarmine-controversiae-de-gratia-et-libero-arbitrio",
+  "cover": "classic",
+  "name": {
+    "la": "De gratia et libero arbitrio",
+    "en-US": "On Grace and Free Will",
+    "pt-BR": "Sobre a graça e o livre-arbítrio"
+  },
+  "author": {
+    "la": "Robertus Bellarminus",
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "description": {
+    "la": "Ex Disputationibus de controversiis christianae fidei adversus huius temporis haereticos (1586-93): De gratia et libero arbitrio. Textus ex editione Vivès (1870-74), ex scanno OCR.",
+    "en-US": "From the Disputations on the Controversies of the Christian Faith (1586-93): grace and free will against the Reformers. Latin only: the Vivès edition (1870-74) from an OCR scan.",
+    "pt-BR": "Das Disputas sobre as controvérsias da fé cristã (1586-93): Sobre a graça e o livre-arbítrio."
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "work": "bellarmine/controversiae-de-gratia-et-libero-arbitrio",
+  "editions": {
+    "la": {
+      "editor": "Justin Fèvre (Vivès, Paris)",
+      "year": 1870
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia05bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 5 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    },
+    {
+      "language": "la",
+      "url": "https://archive.org/details/operaomnia06bell",
+      "edition": "Roberti Bellarmini Opera omnia, ed. Justin Fèvre, tom. 6 (Paris: Vivès, 1870-74).",
+      "description": "Archive.org OCR (djvu.txt, Boston College copy) cleaned by script: running heads, page numbers and the reference-only footnote blocks removed, line-end hyphens joined, recognisable OCR slips corrected by a lexicon pass, so some remain. ",
+      "tier": "A",
+      "tierEvidence": "Bellarmine died in 1621; the Vivès edition of 1870-74 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "praefatio",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface"
+      }
+    },
+    {
+      "id": "b1",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "b1c01",
+          "title": {
+            "la": "Caput I. De variis acceptionibus Gratia1. v /",
+            "en-US": "Caput I. De variis acceptionibus Gratia1. v /"
+          }
+        },
+        {
+          "id": "b1c02",
+          "title": {
+            "la": "Caput II. De partitionibus gratise",
+            "en-US": "Caput II. De partitionibus gratise"
+          }
+        },
+        {
+          "id": "b1c03",
+          "title": {
+            "la": "Caput III. Gratiam gratum facientem esse qualitatem, per modum habitus in homine permanentem",
+            "en-US": "Caput III. Gratiam gratum facientem esse qualitatem, per modum habitus in homine permanentem"
+          }
+        },
+        {
+          "id": "b1c04",
+          "title": {
+            "la": "Caput IV. Probatur veritas capite superiore explicata",
+            "en-US": "Caput IV. Probatur veritas capite superiore explicata"
+          }
+        },
+        {
+          "id": "b1c05",
+          "title": {
+            "la": "Caput V. Solvuntur objec tumes",
+            "en-US": "Caput V. Solvuntur objec tumes"
+          }
+        },
+        {
+          "id": "b1c06",
+          "title": {
+            "la": "Caput VI. Gratiam gratum facientem re non distingui ab habitu charitatis",
+            "en-US": "Caput VI. Gratiam gratum facientem re non distingui ab habitu charitatis"
+          }
+        },
+        {
+          "id": "b1c07",
+          "title": {
+            "la": "Caput VII",
+            "en-US": "Caput VII"
+          }
+        },
+        {
+          "id": "b1c08",
+          "title": {
+            "la": "Caput VIII. Charitatem esse virtutem creatam, non ipsum Spiritum sanctum",
+            "en-US": "Caput VIII. Charitatem esse virtutem creatam, non ipsum Spiritum sanctum"
+          }
+        },
+        {
+          "id": "b1c09",
+          "title": {
+            "la": "Caput IX. Solvuntur objectiones",
+            "en-US": "Caput IX. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b1c10",
+          "title": {
+            "la": "Caput X. Solvuntur dubitationes quaedam circa partitionem gratiae, in gratis datam, et gratum facientem",
+            "en-US": "Caput X. Solvuntur dubitationes quaedam circa partitionem gratiae, in gratis datam, et gratum facientem"
+          }
+        },
+        {
+          "id": "b1c11",
+          "title": {
+            "la": "Caput XI. Concedendam esse partitionem auxilii specialis in sufficiens et efficax",
+            "en-US": "Caput XI. Concedendam esse partitionem auxilii specialis in sufficiens et efficax"
+          }
+        },
+        {
+          "id": "b1c12",
+          "title": {
+            "la": "Caput XII",
+            "en-US": "Caput XII"
+          }
+        },
+        {
+          "id": "b1c13",
+          "title": {
+            "la": "Caput XIII. Solvuntur objectiones quaedam abversus ea, quae dicta sunt de gratia efficaci",
+            "en-US": "Caput XIII. Solvuntur objectiones quaedam abversus ea, quae dicta sunt de gratia efficaci"
+          }
+        },
+        {
+          "id": "b1c14",
+          "title": {
+            "la": "Caput XIV",
+            "en-US": "Caput XIV"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b2",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "b2intro",
+          "title": {
+            "la": "Textus",
+            "en-US": "Textus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "b3c01",
+          "title": {
+            "la": "Caput I. Praemittuntur aliqua ante ipsam tractationem id est, argumentum totius operis, summa praecipuarum difficultatum, et qui scripserint de libero arbitrio",
+            "en-US": "Caput I. Praemittuntur aliqua ante ipsam tractationem id est, argumentum totius operis, summa praecipuarum difficultatum, et qui scripserint de libero arbitrio"
+          }
+        },
+        {
+          "id": "b3c02",
+          "title": {
+            "la": "Caput II. De nomine liben arbitrii",
+            "en-US": "Caput II. De nomine liben arbitrii"
+          }
+        },
+        {
+          "id": "b3c03",
+          "title": {
+            "la": "Caput III. De liberi arbitrii definitione",
+            "en-US": "Caput III. De liberi arbitrii definitione"
+          }
+        },
+        {
+          "id": "b3c04",
+          "title": {
+            "la": "Caput IV. Quxnam libertas sit necessaria ad liberum arbitrium",
+            "en-US": "Caput IV. Quxnam libertas sit necessaria ad liberum arbitrium"
+          }
+        },
+        {
+          "id": "b3c06",
+          "title": {
+            "la": "Caput VI. Solvuntur argumenta contraria",
+            "en-US": "Caput VI. Solvuntur argumenta contraria"
+          }
+        },
+        {
+          "id": "b3c07",
+          "title": {
+            "la": "Caput VII. An liberum arbitrium sit potentia, proponuntur varix Theologonim sententia^",
+            "en-US": "Caput VII. An liberum arbitrium sit potentia, proponuntur varix Theologonim sententia^"
+          }
+        },
+        {
+          "id": "b3c08",
+          "title": {
+            "la": "Caput VIII. Probatur liberum arbitrium esse potentiam, videlicet ipsam voluntatem, eamque sic esse liberam, ut tamen determinetur a judicio ultimo practicse rationis",
+            "en-US": "Caput VIII. Probatur liberum arbitrium esse potentiam, videlicet ipsam voluntatem, eamque sic esse liberam, ut tamen determinetur a judicio ultimo practicse rationis"
+          }
+        },
+        {
+          "id": "b3c09",
+          "title": {
+            "la": "Caput IX. Solvuntur argumenta contra conclusiones capitis superioris",
+            "en-US": "Caput IX. Solvuntur argumenta contra conclusiones capitis superioris"
+          }
+        },
+        {
+          "id": "b3c10",
+          "title": {
+            "la": "Caput X. CAPUT X",
+            "en-US": "Caput X. CAPUT X"
+          }
+        },
+        {
+          "id": "b3c11",
+          "title": {
+            "la": "Caput XI. Solvuntur argumenta contra doctrinam capitis superioris",
+            "en-US": "Caput XI. Solvuntur argumenta contra doctrinam capitis superioris"
+          }
+        },
+        {
+          "id": "b3c12",
+          "title": {
+            "la": "Caput XII. Per liberum arbitrium non expeti mala, sed bona",
+            "en-US": "Caput XII. Per liberum arbitrium non expeti mala, sed bona"
+          }
+        },
+        {
+          "id": "b3c14",
+          "title": {
+            "la": "Caput XIV. Liberum arbitrium non esse finis, sed mediorum ad finem",
+            "en-US": "Caput XIV. Liberum arbitrium non esse finis, sed mediorum ad finem"
+          }
+        },
+        {
+          "id": "b3c15",
+          "title": {
+            "la": "Caput XV. Subjectum liberi arbitrii non posse esse nisi naturam intelligentem",
+            "en-US": "Caput XV. Subjectum liberi arbitrii non posse esse nisi naturam intelligentem"
+          }
+        },
+        {
+          "id": "b3c16",
+          "title": {
+            "la": "Caput XVI. noscere et aestimare, aut judicium ejusmodi non sequi",
+            "en-US": "Caput XVI. noscere et aestimare, aut judicium ejusmodi non sequi"
+          }
+        },
+        {
+          "id": "b3c17",
+          "title": {
+            "la": "Caput XVII. Solvuntur argumenta contraria",
+            "en-US": "Caput XVII. Solvuntur argumenta contraria"
+          }
+        },
+        {
+          "id": "b3c18",
+          "title": {
+            "la": "Caput XVIII. De fine liberi arbitrii, id est, quare Deus creaverit Angelos, et homines libero arbitrio praeditos",
+            "en-US": "Caput XVIII. De fine liberi arbitrii, id est, quare Deus creaverit Angelos, et homines libero arbitrio praeditos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV"
+      },
+      "children": [
+        {
+          "id": "b4intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b4c02",
+          "title": {
+            "la": "Caput II. Posse cognosci viribus naturae Deum esse. et esse unum, et alia id genus",
+            "en-US": "Caput II. Posse cognosci viribus naturae Deum esse. et esse unum, et alia id genus"
+          }
+        },
+        {
+          "id": "b4c03",
+          "title": {
+            "la": "Caput III. Solvuntur objectiones",
+            "en-US": "Caput III. Solvuntur objectiones"
+          }
+        },
+        {
+          "id": "b4c04",
+          "title": {
+            "la": "Caput IV",
+            "en-US": "Caput IV"
+          }
+        },
+        {
+          "id": "b4c05",
+          "title": {
+            "la": "Caput V. Proponitur qusestio principalis, An homo li-. bertum arbitrium habeat in operibus naturalibus et civilibus; et notantur Lutheri et Melancthouis contradictiones",
+            "en-US": "Caput V. Proponitur qusestio principalis, An homo li-. bertum arbitrium habeat in operibus naturalibus et civilibus; et notantur Lutheri et Melancthouis contradictiones"
+          }
+        },
+        {
+          "id": "b4c06",
+          "title": {
+            "la": "Caput VI",
+            "en-US": "Caput VI"
+          }
+        },
+        {
+          "id": "b4c07",
+          "title": {
+            "la": "Caput VII. Secundum fidem Catholicam hominem esse liberi arbitrii in rebus civilibus, probatur c.v divinis litteris",
+            "en-US": "Caput VII. Secundum fidem Catholicam hominem esse liberi arbitrii in rebus civilibus, probatur c.v divinis litteris"
+          }
+        },
+        {
+          "id": "b4c08",
+          "title": {
+            "la": "Caput VIII. Probatur idem ex traditione veterum Patrum",
+            "en-US": "Caput VIII. Probatur idem ex traditione veterum Patrum"
+          }
+        },
+        {
+          "id": "b4c09",
+          "title": {
+            "la": "Caput IX. Adfcnmtur testimonia ipsorum Patrum",
+            "en-US": "Caput IX. Adfcnmtur testimonia ipsorum Patrum"
+          }
+        },
+        {
+          "id": "b4c10",
+          "title": {
+            "la": "Caput X. Evidens esse lumine rationis naturalis, hominem liberi esse arbitrii in actionibus civilibus in externis",
+            "en-US": "Caput X. Evidens esse lumine rationis naturalis, hominem liberi esse arbitrii in actionibus civilibus in externis"
+          }
+        },
+        {
+          "id": "b4c12",
+          "title": {
+            "la": "Caput XII. Respondetur ad objectiones ex testimoniis S. A ugustini",
+            "en-US": "Caput XII. Respondetur ad objectiones ex testimoniis S. A ugustini"
+          }
+        },
+        {
+          "id": "b4c13",
+          "title": {
+            "la": "Caput XIII. Respondetur ad objectionem ex repugnantia prxscientix et libertatis",
+            "en-US": "Caput XIII. Respondetur ad objectionem ex repugnantia prxscientix et libertatis"
+          }
+        },
+        {
+          "id": "b4c14",
+          "title": {
+            "la": "Caput XIV",
+            "en-US": "Caput XIV"
+          }
+        },
+        {
+          "id": "b4c15",
+          "title": {
+            "la": "Caput XV",
+            "en-US": "Caput XV"
+          }
+        },
+        {
+          "id": "b4c16",
+          "title": {
+            "la": "Caput XVI. Explicatur altera ratio concordiw libertatis cum cooperatione Dei, et solvitur. objectio",
+            "en-US": "Caput XVI. Explicatur altera ratio concordiw libertatis cum cooperatione Dei, et solvitur. objectio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V"
+      },
+      "children": [
+        {
+          "id": "b5intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b5c01",
+          "title": {
+            "la": "Caput I. Proponitur quaestio, An possint credi mysteria fidei, sine auxilio speciali",
+            "en-US": "Caput I. Proponitur quaestio, An possint credi mysteria fidei, sine auxilio speciali"
+          }
+        },
+        {
+          "id": "b5c02",
+          "title": {
+            "la": "Caput II. Non posse hominem, sine speciali illustratione Dei, credere mysteria fidei",
+            "en-US": "Caput II. Non posse hominem, sine speciali illustratione Dei, credere mysteria fidei"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b6",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI"
+      },
+      "children": [
+        {
+          "id": "b6intro",
+          "title": {
+            "la": "Praefatio",
+            "en-US": "Praefatio"
+          }
+        },
+        {
+          "id": "b6c03",
+          "title": {
+            "la": "Caput III. Solvuntur objectiones contra doctrinam capitis superioris",
+            "en-US": "Caput III. Solvuntur objectiones contra doctrinam capitis superioris"
+          }
+        },
+        {
+          "id": "b6c04",
+          "title": {
+            "la": "Caput IV. Non posse voluntatem humanam aliquid velle in iis, quas aci pietatem et salutem pertinent, sine auxilio gratiae Dei",
+            "en-US": "Caput IV. Non posse voluntatem humanam aliquid velle in iis, quas aci pietatem et salutem pertinent, sine auxilio gratiae Dei"
+          }
+        },
+        {
+          "id": "b6c05",
+          "title": {
+            "la": "Caput V. Non posse hominem solis naturae viribus ad gratiam recipiendam, ullo modo se praeparare j",
+            "en-US": "Caput V. Non posse hominem solis naturae viribus ad gratiam recipiendam, ullo modo se praeparare j"
+          }
+        },
+        {
+          "id": "b6c06",
+          "title": {
+            "la": "Caput VI. Solvuntur argumenta contra doctrinam duorum praecedentium capitum",
+            "en-US": "Caput VI. Solvuntur argumenta contra doctrinam duorum praecedentium capitum"
+          }
+        },
+        {
+          "id": "b6c07",
+          "title": {
+            "la": "Caput VII. i\\ o u posse sine auxilio gratix diligi Deum",
+            "en-US": "Caput VII. i\\ o u posse sine auxilio gratix diligi Deum"
+          }
+        },
+        {
+          "id": "b6c09",
+          "title": {
+            "la": "Caput IX. Proponitur sententia hsereticorum de libertate arbitrii in iis, quse pertinent ad salutem",
+            "en-US": "Caput IX. Proponitur sententia hsereticorum de libertate arbitrii in iis, quse pertinent ad salutem"
+          }
+        },
+        {
+          "id": "b6c10",
+          "title": {
+            "la": "Caput X. Probatur ex divinis litteris liberum arbitrium in actionibus piis et salutaribus",
+            "en-US": "Caput X. Probatur ex divinis litteris liberum arbitrium in actionibus piis et salutaribus"
+          }
+        },
+        {
+          "id": "b6c11",
+          "title": {
+            "la": "Caput XI. Probatur Ubertas arbitrii in operibus ' pietatis ex traditione Patrum",
+            "en-US": "Caput XI. Probatur Ubertas arbitrii in operibus ' pietatis ex traditione Patrum"
+          }
+        },
+        {
+          "id": "b6c12",
+          "title": {
+            "la": "Caput XII. Probetur rationibus libertas arbitrii in operibus pietatis",
+            "en-US": "Caput XII. Probetur rationibus libertas arbitrii in operibus pietatis"
+          }
+        },
+        {
+          "id": "b6c13",
+          "title": {
+            "la": "Caput XIII. Diluuntur objectiones adversariorum, depromptae ex divinis litteris",
+            "en-US": "Caput XIII. Diluuntur objectiones adversariorum, depromptae ex divinis litteris"
+          }
+        },
+        {
+          "id": "b6c14",
+          "title": {
+            "la": "Caput XIV. Diluuntur objectiones ex testimoniis S. A ugustini. i",
+            "en-US": "Caput XIV. Diluuntur objectiones ex testimoniis S. A ugustini. i"
+          }
+        },
+        {
+          "id": "b6c15",
+          "title": {
+            "la": "Caput XV. Compendium disputationis de cooperatione",
+            "en-US": "Caput XV. Compendium disputationis de cooperatione"
+          }
+        }
+      ]
+    }
+  ]
+}
