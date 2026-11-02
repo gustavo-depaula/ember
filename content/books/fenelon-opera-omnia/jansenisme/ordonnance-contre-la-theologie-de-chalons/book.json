@@ -1,0 +1,110 @@
+{
+  "id": "fenelon-jansenisme-theologie-de-chalons",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Jansénisme VIII : Ordonnance et Instruction pastorale contre la Théologie de Châlons (1715)",
+    "en-US": "Jansenism VIII: Ordinance and Pastoral Instruction against the Theology of Châlons (1715)",
+    "pt-BR": "Jansenismo VIII: Ordenança e Instrução pastoral contra a Teologia de Châlons (1715)"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "La dernière grande Instruction pastorale de Fénelon (1715) : la condamnation de la Théologie de Châlons (la Théologie morale du cardinal de Noailles), en trois parties.",
+    "en-US": "Fénelon’s last great Pastoral Instruction (1715): the condemnation of the Theology of Châlons (the moral theology of Cardinal de Noailles’s diocese), in three parts.",
+    "pt-BR": "A última grande Instrução pastoral de Fénelon (1715): a condenação da Teologia de Châlons, em três partes."
+  },
+  "composed": "1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/ordonnance-contre-la-theologie-de-chalons",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte05fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 5, p. 457–fin; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-ordonnance-contre-la-theologie-de-chalons",
+      "title": {
+        "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons"
+      },
+      "children": [
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-01",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 1"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-02",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 2"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-03",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 3"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-04",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 4"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-05",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 5"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-06",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 6"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-07",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 7"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-08",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 8"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-09",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 9"
+          }
+        },
+        {
+          "id": "01-ordonnance-contre-la-theologie-de-chalons-10",
+          "title": {
+            "fr-FR": "Ordonnance et Instruction pastorale contre la Théologie de Châlons, partie 10"
+          }
+        }
+      ]
+    }
+  ]
+}
