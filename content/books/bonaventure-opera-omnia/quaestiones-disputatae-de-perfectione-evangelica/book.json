@@ -1,0 +1,66 @@
+{
+  "id": "bonaventure-quaestiones-disputatae-de-perfectione-evangelica",
+  "cover": "classic",
+  "name": {
+    "la": "Quaestiones disputatae de perfectione evangelica",
+    "en-US": "Disputed Questions on Evangelical Perfection",
+    "pt-BR": "Questões disputadas sobre a perfeição evangélica"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Quattuor quaestiones disputatae de perfectione evangelica: de humilitate, paupertate, continentia, oboedientia; contra Gulielmum a S. Amore. Textus ex editione Quaracchi (Opera omnia V, 1891), ex scanno OCR, sine notis criticis.",
+    "en-US": "Four disputed questions on evangelical perfection (humility, poverty, chastity, obedience), Bonaventure’s Paris defence of the mendicant life against William of Saint-Amour. The text is the Quaracchi edition (Opera omnia V, 1891) from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Quatro questões disputadas sobre a perfeição evangélica (humildade, pobreza, castidade, obediência)."
+  },
+  "composed": "c. 1255-1256",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/quaestiones-disputatae-de-perfectione-evangelica",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1891
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic05bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. V (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1891), pp. 117-198.",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes (variant readings, cross-references) and small-type scholia are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1891 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "q01",
+      "title": {
+        "la": "Quaestio I"
+      }
+    },
+    {
+      "id": "q02",
+      "title": {
+        "la": "Quaestio II. De paupertate"
+      }
+    },
+    {
+      "id": "q03",
+      "title": {
+        "la": "Quaestio III. De continentia"
+      }
+    },
+    {
+      "id": "q04",
+      "title": {
+        "la": "Quaestio IV. De obedientia"
+      }
+    }
+  ]
+}
