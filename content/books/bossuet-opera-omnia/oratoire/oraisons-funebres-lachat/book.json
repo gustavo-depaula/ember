@@ -1,0 +1,102 @@
+{
+  "id": "bossuet-oraisons-funebres-lachat",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Oraisons funèbres (édition Lachat)",
+    "en-US": "Funeral Orations (Lachat edition)",
+    "pt-BR": "Orações fúnebres (edição Lachat)"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Les dix oraisons funèbres de Bossuet dans l’édition Lachat : Henriette-Marie, Henriette-Anne, Marie-Thérèse, Anne de Gonzague, Le Tellier, Condé, ainsi que le P. Bourgoing, Nicolas Cornet, l’abbesse Yolande de Monterby et Henri de Gornay.",
+    "en-US": "All ten of Bossuet’s funeral orations in the Lachat edition: Henrietta Maria, Henrietta Anne, Maria Theresa, Anne de Gonzague, Le Tellier, Condé, and also Father Bourgoing, Nicolas Cornet, Abbess Yolande de Monterby and Henri de Gornay.",
+    "pt-BR": "As dez orações fúnebres de Bossuet na edição Lachat: Henriqueta Maria, Henriqueta Ana, Maria Teresa, Ana de Gonzaga, Le Tellier, Condé, e ainda o pe. Bourgoing, Nicolas Cornet, a abadessa Yolande de Monterby e Henri de Gornay."
+  },
+  "composed": "1656–1687",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/oraisons-funebres-lachat",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1863
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume012/024.htm to 033.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of the Lachat edition, volume012/024.htm to 033.htm. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "of-024",
+      "title": {
+        "fr-FR": "Oraison funèbre de Henriette-Marie de France, reine de Grande-Bretagne"
+      }
+    },
+    {
+      "id": "of-025",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Henriette d'Angleterre"
+      }
+    },
+    {
+      "id": "of-026",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Marie-Thérèse d'Autriche, infante d'Espagne, Reine de France et de Navarre"
+      }
+    },
+    {
+      "id": "of-027",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Anne de Gonzague de Clèves, Princesse Palatine"
+      }
+    },
+    {
+      "id": "of-028",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Michel Le Tellier, Chevalier, Chancelier de France"
+      }
+    },
+    {
+      "id": "of-029",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Louis de Bourbon, Prince de Condé, Premier Prince du Sang"
+      }
+    },
+    {
+      "id": "of-030",
+      "title": {
+        "fr-FR": "Oraison Funèbre du R. P. Bourgoing Supérieur Général de la Congrégation de l'Oratoire"
+      }
+    },
+    {
+      "id": "of-031",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Messire Nicolas Cornet, Grand Maître du Collège de Navarre"
+      }
+    },
+    {
+      "id": "of-032",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Madame Yolande de Monterby, Abbesse des Religieuses Bernardines"
+      }
+    },
+    {
+      "id": "of-033",
+      "title": {
+        "fr-FR": "Oraison Funèbre de Messire Henri de Gornay"
+      }
+    }
+  ]
+}
