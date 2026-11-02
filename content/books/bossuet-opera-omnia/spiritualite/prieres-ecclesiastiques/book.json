@@ -1,0 +1,182 @@
+{
+  "id": "bossuet-prieres-ecclesiastiques",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Prières ecclésiastiques",
+    "en-US": "Ecclesiastical Prayers",
+    "pt-BR": "Orações eclesiásticas"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Le recueil de prières et de dévotions que Bossuet donna aux fidèles de son diocèse (1689) : l’Angélus, la manière d’entendre la sainte messe, les collectes, les psaumes de Vêpres, les hymnes, les litanies, l’exercice de la confession et de la communion, les pratiques ordinaires de dévotion, avec en annexe les Méditations pour le temps du Jubilé. Édition Lachat (1862).",
+    "en-US": "The collection of prayers and devotions Bossuet gave the faithful of his diocese (1689): the Angelus, how to hear Holy Mass, the collects, the psalms of Vespers, hymns, litanies, the exercise of confession and communion, the ordinary practices of devotion, with the Meditations for the Time of the Jubilee as an appendix. Lachat edition (1862).",
+    "pt-BR": "A coletânea de orações e devoções que Bossuet deu aos fiéis de sua diocese (1689): o Angelus, a maneira de assistir à santa missa, as coletas, os salmos das Vésperas, os hinos, as ladainhas, o exercício da confissão e da comunhão, as práticas ordinárias de devoção, com as Meditações para o tempo do Jubileu em apêndice. Edição Lachat (1862)."
+  },
+  "composed": "1689",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/prieres-ecclesiastiques",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1862
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume005/008.htm to 026.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume V, pages 008-026. Latin texts (hymns, psalms, collects) are given with the French as printed. The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "p008",
+      "title": {
+        "fr-FR": "Prières ecclésiastiques : avertissement général pour bien entendre le service divin"
+      }
+    },
+    {
+      "id": "p009",
+      "title": {
+        "fr-FR": "Prières ecclésiastiques"
+      }
+    },
+    {
+      "id": "p010",
+      "title": {
+        "fr-FR": "Manière de bien entendre la Sainte Messe"
+      }
+    },
+    {
+      "id": "p011",
+      "title": {
+        "fr-FR": "Oraisons ou collectes des dimanches et des principales fêtes"
+      }
+    },
+    {
+      "id": "p012",
+      "title": {
+        "fr-FR": "Collectes des fêtes de la Sainte Vierge, et des principales fêtes des saints"
+      }
+    },
+    {
+      "id": "p013",
+      "title": {
+        "fr-FR": "L'office de l'Église"
+      }
+    },
+    {
+      "id": "p014",
+      "title": {
+        "fr-FR": "Les psaumes des vêpres des principales fêtes"
+      }
+    },
+    {
+      "id": "p015",
+      "title": {
+        "fr-FR": "Hymnes qui se chantent à vepres aux dimanches et aux fêtes principales"
+      }
+    },
+    {
+      "id": "p016",
+      "title": {
+        "fr-FR": "Hymnes des fetes de la Sainte Vierge et des saints"
+      }
+    },
+    {
+      "id": "p017",
+      "title": {
+        "fr-FR": "Hymnes du commun des saints"
+      }
+    },
+    {
+      "id": "p018",
+      "title": {
+        "fr-FR": "Vêpres des morts"
+      }
+    },
+    {
+      "id": "p019",
+      "title": {
+        "fr-FR": "Les sept psaumes de la pénitence"
+      }
+    },
+    {
+      "id": "p020",
+      "title": {
+        "fr-FR": "Litanies des saints"
+      }
+    },
+    {
+      "id": "p021",
+      "title": {
+        "fr-FR": "Litanies du Saint nom de Jésus"
+      }
+    },
+    {
+      "id": "p022",
+      "title": {
+        "fr-FR": "Litanies de la Sainte Vierge"
+      }
+    },
+    {
+      "id": "p023",
+      "title": {
+        "fr-FR": "Exercice de la confession"
+      }
+    },
+    {
+      "id": "p024",
+      "title": {
+        "fr-FR": "Exercice de la Communion"
+      }
+    },
+    {
+      "id": "p025",
+      "title": {
+        "fr-FR": "Pratiques ordinaires de dévotion"
+      }
+    },
+    {
+      "id": "jubile",
+      "title": {
+        "fr-FR": "Méditations pour le temps du Jubilé"
+      },
+      "children": [
+        {
+          "id": "jubile-0",
+          "title": {
+            "fr-FR": "Mandement et avertissement"
+          }
+        },
+        {
+          "id": "jubile-001",
+          "title": {
+            "fr-FR": "Première méditation. La rigueur de l'Église"
+          }
+        },
+        {
+          "id": "jubile-002",
+          "title": {
+            "fr-FR": "Seconde méditation. L'indulgence de l'Église"
+          }
+        },
+        {
+          "id": "jubile-003",
+          "title": {
+            "fr-FR": "Instructions nécessaires pour le jubilé"
+          }
+        }
+      ]
+    }
+  ]
+}
