@@ -1,0 +1,171 @@
+{
+  "id": "ruusbroec-twaelf-beghinen-francis",
+  "cover": "classic",
+  "name": {
+    "en-US": "The Book of the Twelve Béguines",
+    "pt-BR": "O Livro das Doze Beguinas"
+  },
+  "author": {
+    "en-US": "Bl. John Ruusbroec (1293-1381)",
+    "pt-BR": "Bem-aventurado João Ruusbroec (1293-1381)"
+  },
+  "description": {
+    "en-US": "The first part of Ruusbroec's last work (to the discussion of the Passion hours is not included), translated from the Flemish text of 1863 by John Francis (1913) with his preface, summary and notes. The chapter division is Surius', not David's, so this is its own edition of the work.",
+    "pt-BR": "A primeira parte da última obra de Ruusbroec, traduzida do texto flamengo de 1863 por John Francis (1913), com prefácio, resumo e notas."
+  },
+  "composed": "c. 1370-1381",
+  "languages": [
+    "en-US"
+  ],
+  "work": "ruusbroec/twaelf-beghinen",
+  "editions": {
+    "en-US": {
+      "translator": "John Francis",
+      "year": 1913
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/bookoftwelvebg00janvuoft",
+      "edition": "The Book of the Twelve Béguines by Blessed John Ruysbroeck, translated by John Francis (London: John M. Watkins, 1913).",
+      "description": "OCR of the archive.org scan (research/sourcing/_scripts/francis_build.py); verse chapters keep one verse line per paragraph; Francis's notes are a closing chapter. Not proofread.",
+      "tier": "A",
+      "tierEvidence": "1913 translation, public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Preface, Introduction and Summary"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "en-US": "Chapter I: Showeth twelve different notions of the Loue of Jesus, on the part of the Twelve Beguines"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "en-US": "Chapter II: Showeth the manner of the True Lovers of God"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "en-US": "Chapter III: Showeth the preparation required of him who wil/eth to receive the Holy Sacrament"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "en-US": "Chapter IV: Showeth God's answer to the Soul that is hungry for His Sacrament"
+      }
+    },
+    {
+      "id": "c05",
+      "title": {
+        "en-US": "Chapter V: Showeth in what manner the Soul maketh answer to her God"
+      }
+    },
+    {
+      "id": "c06",
+      "title": {
+        "en-US": "Chapter VI: Showeth a diuersity of hindrances from true Contemplation"
+      }
+    },
+    {
+      "id": "c07",
+      "title": {
+        "en-US": "Chapter VII: Showeth the means of coming unto the Same"
+      }
+    },
+    {
+      "id": "c08",
+      "title": {
+        "en-US": "Chapter VIII: Showeth the Nature of true Contemplation"
+      }
+    },
+    {
+      "id": "c09-p1",
+      "title": {
+        "en-US": "Chapter IX, Part 1: Showeth how one cometh to see the Light and to hear the Truth of God That speaketh to the Soul"
+      }
+    },
+    {
+      "id": "c09-p2",
+      "title": {
+        "en-US": "Chapter IX, Part 2: Showeth in what manner one cometh, thereafter, to hear the Voice of Our Lord Jesus Christ"
+      }
+    },
+    {
+      "id": "c10-p1",
+      "title": {
+        "en-US": "Chapter X, Part 1: Showeth the answer of the louing Soul unto her Lord"
+      }
+    },
+    {
+      "id": "c10-p2",
+      "title": {
+        "en-US": "Chapter X, Part 2: Showeth forth the First Mode of true Contemplation"
+      }
+    },
+    {
+      "id": "c11",
+      "title": {
+        "en-US": "Chapter XI: Showeth forth the Second Mode of true Contemplation"
+      }
+    },
+    {
+      "id": "c12",
+      "title": {
+        "en-US": "Chapter XII: Showeth forth the Third Mode of true Contemplation"
+      }
+    },
+    {
+      "id": "c13",
+      "title": {
+        "en-US": "Chapter XIII: Showeth forth the Fourth Mode of true Contemplation"
+      }
+    },
+    {
+      "id": "c14-p1",
+      "title": {
+        "en-US": "Chapter XIV, Part 1: Telleth of the Four Modes of Loving, and showeth forth the -first Three Modes thereof"
+      }
+    },
+    {
+      "id": "c14-p2",
+      "title": {
+        "en-US": "Chapter XIV, Part 2: Showeth forth the Fourth Mode of Loving"
+      }
+    },
+    {
+      "id": "c15",
+      "title": {
+        "en-US": "Chapter XV: Showeth forth the operation of the Spirit of God within us"
+      }
+    },
+    {
+      "id": "c16-p1",
+      "title": {
+        "en-US": "Chapter XVI, Part 1: Further telleth of the six Points wherein is the highest communion between God and man, and showeth forth the first four Points"
+      }
+    },
+    {
+      "id": "c16-p2",
+      "title": {
+        "en-US": "Chapter XVI, Part 2: Showeth forth the fifth and sixth Points"
+      }
+    },
+    {
+      "id": "notes",
+      "title": {
+        "en-US": "Notes"
+      }
+    }
+  ]
+}
