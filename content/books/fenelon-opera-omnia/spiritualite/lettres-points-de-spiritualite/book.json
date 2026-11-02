@@ -1,0 +1,60 @@
+{
+  "id": "fenelon-lettres-points-de-spiritualite",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres sur divers points de spiritualité",
+    "en-US": "Letters on Various Points of Spirituality",
+    "pt-BR": "Cartas sobre diversos pontos de espiritualidade"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Trois écrits de direction : la lettre sur la fréquente communion (1718), les lettres sur la confession et le fréquent usage des sacrements de Pénitence et d’Eucharistie (1738) et la lettre sur la direction (1737).",
+    "en-US": "Three pieces of direction: the letter on frequent communion (1718), the letters on confession and the frequent use of the sacraments of Penance and the Eucharist (1738), and the letter on spiritual direction (1737).",
+    "pt-BR": "Três escritos de direção: a carta sobre a comunhão frequente (1718), as cartas sobre a confissão e o uso frequente dos sacramentos da Penitência e da Eucaristia (1738) e a carta sobre a direção espiritual (1737)."
+  },
+  "composed": "1700–1715",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-points-de-spiritualite",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte05fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 5, p. 712–770; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-frequente-communion",
+      "title": {
+        "fr-FR": "Lettre sur la fréquente communion"
+      }
+    },
+    {
+      "id": "02-confession-et-sacremens",
+      "title": {
+        "fr-FR": "Lettres sur la confession et sur le fréquent usage des sacremens de Pénitence et d’Eucharistie"
+      }
+    },
+    {
+      "id": "03-direction",
+      "title": {
+        "fr-FR": "Lettre sur la direction"
+      }
+    }
+  ]
+}
