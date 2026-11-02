@@ -1,0 +1,126 @@
+{
+  "id": "fenelon-sermons-et-entretiens",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Sermons et entretiens",
+    "en-US": "Sermons and Discourses",
+    "pt-BR": "Sermões e conversas"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Les sermons de Fénelon (l’Épiphanie prêchée devant les ambassadeurs de Siam en 1685, l’Assomption, saint Bernard, sainte Thérèse, un martyr, une profession religieuse), le discours pour le sacre de l’électeur de Cologne, trois entretiens (la prière, la solide piété, la vie religieuse), des plans de sermons et deux panégyriques.",
+    "en-US": "Fénelon’s sermons (the Epiphany preached before the ambassadors of Siam in 1685, the Assumption, St Bernard, St Teresa, a martyr, a religious profession), the discourse for the consecration of the Elector of Cologne, three discourses (on prayer, true piety, the religious life), sermon outlines and two panegyrics.",
+    "pt-BR": "Os sermões de Fénelon (a Epifania pregada diante dos embaixadores do Sião em 1685, a Assunção, são Bernardo, santa Teresa, um mártir, uma profissão religiosa), o discurso para a sagração do eleitor de Colônia, três conversas (a oração, a piedade sólida, a vida religiosa), esboços de sermões e dois panegíricos."
+  },
+  "composed": "1685–1707",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/sermons-et-entretiens",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte05fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 5, p. 400–690; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). Page heads and sermon headings are partly lost in the OCR.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-notice-electeur-de-cologne",
+      "title": {
+        "fr-FR": "Notice sur l’électeur de Cologne"
+      }
+    },
+    {
+      "id": "02-discours-sacre-electeur",
+      "title": {
+        "fr-FR": "Discours pour le sacre de l’électeur de Cologne (1707)"
+      }
+    },
+    {
+      "id": "03-sermon-epiphanie",
+      "title": {
+        "fr-FR": "Sermon pour la fête de l’Épiphanie : sur la vocation des Gentils"
+      }
+    },
+    {
+      "id": "04-sermon-assomption",
+      "title": {
+        "fr-FR": "Sermon pour le jour de l’Assomption de la sainte Vierge"
+      }
+    },
+    {
+      "id": "05-sermon-saint-bernard",
+      "title": {
+        "fr-FR": "Sermon pour la fête de saint Bernard"
+      }
+    },
+    {
+      "id": "06-sermon-sainte-therese",
+      "title": {
+        "fr-FR": "Sermon pour la fête de sainte Thérèse"
+      }
+    },
+    {
+      "id": "07-sermon-martyr",
+      "title": {
+        "fr-FR": "Sermon pour la fête d’un martyr"
+      }
+    },
+    {
+      "id": "08-sermon-profession",
+      "title": {
+        "fr-FR": "Sermon pour la profession religieuse d’une nouvelle convertie"
+      }
+    },
+    {
+      "id": "09-entretien-priere",
+      "title": {
+        "fr-FR": "Entretien sur la prière"
+      }
+    },
+    {
+      "id": "10-entretien-solide-piete",
+      "title": {
+        "fr-FR": "Entretien sur les caractères de la véritable et solide piété"
+      }
+    },
+    {
+      "id": "11-entretien-vie-religieuse",
+      "title": {
+        "fr-FR": "Entretien sur les avantages et les devoirs de la vie religieuse"
+      }
+    },
+    {
+      "id": "12-plans-de-sermons-01",
+      "title": {
+        "fr-FR": "Plans de sermons sur divers sujets, partie 1"
+      }
+    },
+    {
+      "id": "12-plans-de-sermons-02",
+      "title": {
+        "fr-FR": "Plans de sermons sur divers sujets, partie 2"
+      }
+    },
+    {
+      "id": "13-panegyriques",
+      "title": {
+        "fr-FR": "Panégyriques de saint Charles Borromée et de sainte Catherine de Bologne"
+      }
+    }
+  ]
+}
