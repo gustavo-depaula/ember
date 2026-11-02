@@ -1,0 +1,1002 @@
+{
+  "id": "faber-hymns",
+  "cover": "classic",
+  "name": {
+    "en-US": "Hymns",
+    "pt-BR": "Hinos"
+  },
+  "author": {
+    "en-US": "Fr. Frederick William Faber",
+    "pt-BR": "Pe. Frederick William Faber"
+  },
+  "description": {
+    "en-US": "The hundred and fifty hymns of Faber, as he collected them in 1862 from his Jesus and Mary (1849) and the Oratory Hymns (1854): God and the Holy Trinity, the Sacred Humanity of Jesus, Our Lady and St. Joseph, the angels and saints, the sacraments, the faith and the spiritual life, miscellaneous hymns and the last things. They include \"Faith of our Fathers\", \"There's a wideness in God's mercy\" and \"My God, how wonderful Thou art\".",
+    "pt-BR": "Os cento e cinquenta hinos de Faber, como os reuniu em 1862 a partir de Jesus and Mary (1849) e dos Oratory Hymns (1854): Deus e a Santíssima Trindade, a Sagrada Humanidade de Jesus, Nossa Senhora e São José, os anjos e santos, os sacramentos, a fé e a vida espiritual, hinos diversos e as últimas coisas. Entre eles estão \"Faith of our Fathers\", \"There's a wideness in God's mercy\" e \"My God, how wonderful Thou art\"."
+  },
+  "composed": "1849-1862",
+  "languages": [
+    "en-US"
+  ],
+  "work": "faber/hymns",
+  "editions": {
+    "en-US": {
+      "editor": "Fr. Frederick William Faber (Father Faber's Hymns, New York: P. J. Kenedy / Murphy)",
+      "year": 1880
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/hymns00faberich",
+      "edition": "Father Faber's Hymns (the complete 150 hymns, 1880 printing), Internet Archive full-text OCR.",
+      "description": "The 150 hymns, one chapter each, grouped in the seven parts of the collection; stanza numbers, running heads and page numbers are dropped, and the hard line breaks of the verse are kept. The editor's introduction, the contents and the index of first lines are left out. The OCR is uncorrected apart from spacing, and isolated slips remain. Raw OCR in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Faber died in 1863 and the hymns first appeared in 1849-1862, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Part I. God and the Most Holy Trinity",
+        "pt-BR": "Parte 1. Deus e a Santíssima Trindade"
+      },
+      "children": [
+        {
+          "id": "hymn-001",
+          "title": {
+            "en-US": "1. The Unity of God"
+          }
+        },
+        {
+          "id": "hymn-002",
+          "title": {
+            "en-US": "2. The Holy Trinity"
+          }
+        },
+        {
+          "id": "hymn-003",
+          "title": {
+            "en-US": "3. Majesty Divine"
+          }
+        },
+        {
+          "id": "hymn-004",
+          "title": {
+            "en-US": "4. God"
+          }
+        },
+        {
+          "id": "hymn-005",
+          "title": {
+            "en-US": "5. The Eternity of God"
+          }
+        },
+        {
+          "id": "hymn-006",
+          "title": {
+            "en-US": "6. The Greatness of God"
+          }
+        },
+        {
+          "id": "hymn-007",
+          "title": {
+            "en-US": "7. The Will of God"
+          }
+        },
+        {
+          "id": "hymn-008",
+          "title": {
+            "en-US": "8. The Eternal Father"
+          }
+        },
+        {
+          "id": "hymn-009",
+          "title": {
+            "en-US": "9. Our Heavenly Father"
+          }
+        },
+        {
+          "id": "hymn-010",
+          "title": {
+            "en-US": "10. My Father"
+          }
+        },
+        {
+          "id": "hymn-011",
+          "title": {
+            "en-US": "11. The God of My Childhood"
+          }
+        },
+        {
+          "id": "hymn-012",
+          "title": {
+            "en-US": "12. The Eternal Word"
+          }
+        },
+        {
+          "id": "hymn-013",
+          "title": {
+            "en-US": "13. Jesus is God"
+          }
+        },
+        {
+          "id": "hymn-014",
+          "title": {
+            "en-US": "14. Jesus, My God and My All"
+          }
+        },
+        {
+          "id": "hymn-015",
+          "title": {
+            "en-US": "15. The Eternal Spirit"
+          }
+        },
+        {
+          "id": "hymn-016",
+          "title": {
+            "en-US": "16. Veni Creator"
+          }
+        },
+        {
+          "id": "hymn-017",
+          "title": {
+            "en-US": "17. Veni Sancte Spiritus"
+          }
+        },
+        {
+          "id": "hymn-018",
+          "title": {
+            "en-US": "18. Holy Ghost, Come Down upon Thy Children"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Part II. The Sacred Humanity of Jesus",
+        "pt-BR": "Parte 2. A Sagrada Humanidade de Jesus"
+      },
+      "children": [
+        {
+          "id": "hymn-019",
+          "title": {
+            "en-US": "19. The Life of Our Lord"
+          }
+        },
+        {
+          "id": "hymn-020",
+          "title": {
+            "en-US": "20. Christmas Night"
+          }
+        },
+        {
+          "id": "hymn-021",
+          "title": {
+            "en-US": "21. The Infant Jesus"
+          }
+        },
+        {
+          "id": "hymn-022",
+          "title": {
+            "en-US": "22. The Three Kings"
+          }
+        },
+        {
+          "id": "hymn-023",
+          "title": {
+            "en-US": "23. The Purification"
+          }
+        },
+        {
+          "id": "hymn-024",
+          "title": {
+            "en-US": "24. Lent"
+          }
+        },
+        {
+          "id": "hymn-025",
+          "title": {
+            "en-US": "25. The Agony"
+          }
+        },
+        {
+          "id": "hymn-026",
+          "title": {
+            "en-US": "26. Jesus Crucified"
+          }
+        },
+        {
+          "id": "hymn-027",
+          "title": {
+            "en-US": "27. The Precious Blood"
+          }
+        },
+        {
+          "id": "hymn-028",
+          "title": {
+            "en-US": "28. Blood is the Price of Heaven"
+          }
+        },
+        {
+          "id": "hymn-029",
+          "title": {
+            "en-US": "29. We Come to Thee, Sweet Saviour"
+          }
+        },
+        {
+          "id": "hymn-030",
+          "title": {
+            "en-US": "30. The Descent of Jesus to Limbus"
+          }
+        },
+        {
+          "id": "hymn-031",
+          "title": {
+            "en-US": "31. Jesus Risen"
+          }
+        },
+        {
+          "id": "hymn-032",
+          "title": {
+            "en-US": "32. The Apparition of Jesus to our Blessed Lady"
+          }
+        },
+        {
+          "id": "hymn-033",
+          "title": {
+            "en-US": "33. The Ascension"
+          }
+        },
+        {
+          "id": "hymn-034",
+          "title": {
+            "en-US": "34. Pentecost"
+          }
+        },
+        {
+          "id": "hymn-035",
+          "title": {
+            "en-US": "35. The Descent of the Holy Ghost"
+          }
+        },
+        {
+          "id": "hymn-036",
+          "title": {
+            "en-US": "36. Corpus Christi"
+          }
+        },
+        {
+          "id": "hymn-037",
+          "title": {
+            "en-US": "37. The Sacred Heart"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Part III. Our Blessed Lady, Saint Joseph and the Holy Family",
+        "pt-BR": "Parte 3. Nossa Senhora, São José e a Sagrada Família"
+      },
+      "children": [
+        {
+          "id": "hymn-038",
+          "title": {
+            "en-US": "38. To our Blessed Lady"
+          }
+        },
+        {
+          "id": "hymn-039",
+          "title": {
+            "en-US": "39. The Immaculate Conception"
+          }
+        },
+        {
+          "id": "hymn-040",
+          "title": {
+            "en-US": "40. Sine Labe Originali Concepta"
+          }
+        },
+        {
+          "id": "hymn-041",
+          "title": {
+            "en-US": "41. Immaculate! Immaculate!"
+          }
+        },
+        {
+          "id": "hymn-042",
+          "title": {
+            "en-US": "42. The Nativity of our Lady"
+          }
+        },
+        {
+          "id": "hymn-043",
+          "title": {
+            "en-US": "43. Our Lady's Presentation"
+          }
+        },
+        {
+          "id": "hymn-044",
+          "title": {
+            "en-US": "44. Our Lady's Expectation"
+          }
+        },
+        {
+          "id": "hymn-045",
+          "title": {
+            "en-US": "45. The Happy Gate of Heaven"
+          }
+        },
+        {
+          "id": "hymn-046",
+          "title": {
+            "en-US": "46. The Dolors of our Lady"
+          }
+        },
+        {
+          "id": "hymn-047",
+          "title": {
+            "en-US": "47. The Assumption"
+          }
+        },
+        {
+          "id": "hymn-048",
+          "title": {
+            "en-US": "48. Mary, our Mother, Reigns on High"
+          }
+        },
+        {
+          "id": "hymn-049",
+          "title": {
+            "en-US": "49. The Grandeurs of Mary"
+          }
+        },
+        {
+          "id": "hymn-050",
+          "title": {
+            "en-US": "50. The Immaculate Heart of Mary"
+          }
+        },
+        {
+          "id": "hymn-051",
+          "title": {
+            "en-US": "51. Month of May"
+          }
+        },
+        {
+          "id": "hymn-052",
+          "title": {
+            "en-US": "52. Oh! Balmy and Bright"
+          }
+        },
+        {
+          "id": "hymn-053",
+          "title": {
+            "en-US": "53. Mary, the Flower of Heaven"
+          }
+        },
+        {
+          "id": "hymn-054",
+          "title": {
+            "en-US": "54. Sweet Mother-maid"
+          }
+        },
+        {
+          "id": "hymn-055",
+          "title": {
+            "en-US": "55. Consolatrix Afflictorum"
+          }
+        },
+        {
+          "id": "hymn-056",
+          "title": {
+            "en-US": "56. The Queen of Purgatory"
+          }
+        },
+        {
+          "id": "hymn-057",
+          "title": {
+            "en-US": "57. For our Lady's Minor Feasts"
+          }
+        },
+        {
+          "id": "hymn-058",
+          "title": {
+            "en-US": "58. A Daily Hymn to Mary"
+          }
+        },
+        {
+          "id": "hymn-059",
+          "title": {
+            "en-US": "59. The Orphan's Consecration to Mary"
+          }
+        },
+        {
+          "id": "hymn-060",
+          "title": {
+            "en-US": "60. Saint Joseph"
+          }
+        },
+        {
+          "id": "hymn-061",
+          "title": {
+            "en-US": "61. The Patronage of Saint Joseph"
+          }
+        },
+        {
+          "id": "hymn-062",
+          "title": {
+            "en-US": "62. Saint Joseph our Father"
+          }
+        },
+        {
+          "id": "hymn-063",
+          "title": {
+            "en-US": "63. The Holy Family"
+          }
+        },
+        {
+          "id": "hymn-064",
+          "title": {
+            "en-US": "64. The Banner of the Holy Family"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "en-US": "Part IV. Angels and Saints",
+        "pt-BR": "Parte 4. Anjos e Santos"
+      },
+      "children": [
+        {
+          "id": "hymn-065",
+          "title": {
+            "en-US": "65. The Creation of the Angels"
+          }
+        },
+        {
+          "id": "hymn-066",
+          "title": {
+            "en-US": "66. Saint Michael"
+          }
+        },
+        {
+          "id": "hymn-067",
+          "title": {
+            "en-US": "67. Saint Gabriel"
+          }
+        },
+        {
+          "id": "hymn-068",
+          "title": {
+            "en-US": "68. Saint Raphael"
+          }
+        },
+        {
+          "id": "hymn-069",
+          "title": {
+            "en-US": "69. The Guardian Angel"
+          }
+        },
+        {
+          "id": "hymn-070",
+          "title": {
+            "en-US": "70. Saint Peter and Saint Paul"
+          }
+        },
+        {
+          "id": "hymn-071",
+          "title": {
+            "en-US": "71. Saint John the Evangelist"
+          }
+        },
+        {
+          "id": "hymn-072",
+          "title": {
+            "en-US": "72. Saint Anne"
+          }
+        },
+        {
+          "id": "hymn-073",
+          "title": {
+            "en-US": "73. Saint Mary Magdalene"
+          }
+        },
+        {
+          "id": "hymn-074",
+          "title": {
+            "en-US": "74. Saint Martha"
+          }
+        },
+        {
+          "id": "hymn-075",
+          "title": {
+            "en-US": "75. Saint Benedict"
+          }
+        },
+        {
+          "id": "hymn-076",
+          "title": {
+            "en-US": "76. Saint Innocence"
+          }
+        },
+        {
+          "id": "hymn-077",
+          "title": {
+            "en-US": "77. Saint Patrick's Day"
+          }
+        },
+        {
+          "id": "hymn-078",
+          "title": {
+            "en-US": "78. Saint Wilfrid"
+          }
+        },
+        {
+          "id": "hymn-079",
+          "title": {
+            "en-US": "79. Saint Philip Neri"
+          }
+        },
+        {
+          "id": "hymn-080",
+          "title": {
+            "en-US": "80. Saint Philip in England"
+          }
+        },
+        {
+          "id": "hymn-081",
+          "title": {
+            "en-US": "81. Saint Philip's Penitents"
+          }
+        },
+        {
+          "id": "hymn-082",
+          "title": {
+            "en-US": "82. Saint Philip's Picture"
+          }
+        },
+        {
+          "id": "hymn-083",
+          "title": {
+            "en-US": "83. Saint Philip's Charity"
+          }
+        },
+        {
+          "id": "hymn-084",
+          "title": {
+            "en-US": "84. Saint Philip and the Middle Ages"
+          }
+        },
+        {
+          "id": "hymn-085",
+          "title": {
+            "en-US": "85. Saint Philip and Saint Martin"
+          }
+        },
+        {
+          "id": "hymn-086",
+          "title": {
+            "en-US": "86. Saint Philip's Death"
+          }
+        },
+        {
+          "id": "hymn-087",
+          "title": {
+            "en-US": "87. Saint Philip's Home"
+          }
+        },
+        {
+          "id": "hymn-088",
+          "title": {
+            "en-US": "88. Evening Hymn at the Oratory"
+          }
+        },
+        {
+          "id": "hymn-089",
+          "title": {
+            "en-US": "89. Saint Vincent of Paul"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-5",
+      "title": {
+        "en-US": "Part V. The Sacraments, the Faith, and the Spiritual Life",
+        "pt-BR": "Parte 5. Os Sacramentos, a Fé e a Vida Espiritual"
+      },
+      "children": [
+        {
+          "id": "hymn-090",
+          "title": {
+            "en-US": "90. Holy Communion"
+          }
+        },
+        {
+          "id": "hymn-091",
+          "title": {
+            "en-US": "91. Thanksgiving after Communion"
+          }
+        },
+        {
+          "id": "hymn-092",
+          "title": {
+            "en-US": "92. Flowers for the Altar"
+          }
+        },
+        {
+          "id": "hymn-093",
+          "title": {
+            "en-US": "93. Faith of Our Fathers"
+          }
+        },
+        {
+          "id": "hymn-094",
+          "title": {
+            "en-US": "94. The Thought of God"
+          }
+        },
+        {
+          "id": "hymn-095",
+          "title": {
+            "en-US": "95. The Fear of God"
+          }
+        },
+        {
+          "id": "hymn-096",
+          "title": {
+            "en-US": "96. Peevishness"
+          }
+        },
+        {
+          "id": "hymn-097",
+          "title": {
+            "en-US": "97. Predestination"
+          }
+        },
+        {
+          "id": "hymn-098",
+          "title": {
+            "en-US": "98. The Right Must Win"
+          }
+        },
+        {
+          "id": "hymn-099",
+          "title": {
+            "en-US": "99. Desire of God"
+          }
+        },
+        {
+          "id": "hymn-100",
+          "title": {
+            "en-US": "100. School Hymn"
+          }
+        },
+        {
+          "id": "hymn-101",
+          "title": {
+            "en-US": "101. The True Shepherd"
+          }
+        },
+        {
+          "id": "hymn-102",
+          "title": {
+            "en-US": "102. Come to Jesus"
+          }
+        },
+        {
+          "id": "hymn-103",
+          "title": {
+            "en-US": "103. Invitation to the Mission"
+          }
+        },
+        {
+          "id": "hymn-104",
+          "title": {
+            "en-US": "104. The Wages of Sin"
+          }
+        },
+        {
+          "id": "hymn-105",
+          "title": {
+            "en-US": "105. A Good Confession"
+          }
+        },
+        {
+          "id": "hymn-106",
+          "title": {
+            "en-US": "106. The Act of Contrition"
+          }
+        },
+        {
+          "id": "hymn-107",
+          "title": {
+            "en-US": "107. Conversion"
+          }
+        },
+        {
+          "id": "hymn-108",
+          "title": {
+            "en-US": "108. The Work of Grace"
+          }
+        },
+        {
+          "id": "hymn-109",
+          "title": {
+            "en-US": "109. Forgiveness of Injuries"
+          }
+        },
+        {
+          "id": "hymn-110",
+          "title": {
+            "en-US": "110. The World"
+          }
+        },
+        {
+          "id": "hymn-111",
+          "title": {
+            "en-US": "111. The End of Man"
+          }
+        },
+        {
+          "id": "hymn-112",
+          "title": {
+            "en-US": "112. The Remembrance of Mercy"
+          }
+        },
+        {
+          "id": "hymn-113",
+          "title": {
+            "en-US": "113. The Christian's Song on His March to Heaven"
+          }
+        },
+        {
+          "id": "hymn-114",
+          "title": {
+            "en-US": "114. Fight for Sion"
+          }
+        },
+        {
+          "id": "hymn-115",
+          "title": {
+            "en-US": "115. Perfection"
+          }
+        },
+        {
+          "id": "hymn-116",
+          "title": {
+            "en-US": "116. The Gifts of God"
+          }
+        },
+        {
+          "id": "hymn-117",
+          "title": {
+            "en-US": "117. True Love"
+          }
+        },
+        {
+          "id": "hymn-118",
+          "title": {
+            "en-US": "118. Self-love"
+          }
+        },
+        {
+          "id": "hymn-119",
+          "title": {
+            "en-US": "119. Harsh Judgments"
+          }
+        },
+        {
+          "id": "hymn-120",
+          "title": {
+            "en-US": "120. Distractions in Prayer"
+          }
+        },
+        {
+          "id": "hymn-121",
+          "title": {
+            "en-US": "121. Sweetness in Prayer"
+          }
+        },
+        {
+          "id": "hymn-122",
+          "title": {
+            "en-US": "122. Dryness in Prayer"
+          }
+        },
+        {
+          "id": "hymn-123",
+          "title": {
+            "en-US": "123. The Pain of Love"
+          }
+        },
+        {
+          "id": "hymn-124",
+          "title": {
+            "en-US": "124. Low Spirits"
+          }
+        },
+        {
+          "id": "hymn-125",
+          "title": {
+            "en-US": "125. Light in Darkness"
+          }
+        },
+        {
+          "id": "hymn-126",
+          "title": {
+            "en-US": "126. Divine Favors"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-6",
+      "title": {
+        "en-US": "Part VI. Miscellaneous",
+        "pt-BR": "Parte 6. Diversos"
+      },
+      "children": [
+        {
+          "id": "hymn-127",
+          "title": {
+            "en-US": "127. The Unbelieving World"
+          }
+        },
+        {
+          "id": "hymn-128",
+          "title": {
+            "en-US": "128. The Old Laborer"
+          }
+        },
+        {
+          "id": "hymn-129",
+          "title": {
+            "en-US": "129. The Emigrant's Song"
+          }
+        },
+        {
+          "id": "hymn-130",
+          "title": {
+            "en-US": "130. Music"
+          }
+        },
+        {
+          "id": "hymn-131",
+          "title": {
+            "en-US": "131. The Starry Skies"
+          }
+        },
+        {
+          "id": "hymn-132",
+          "title": {
+            "en-US": "132. The Sorrowful World"
+          }
+        },
+        {
+          "id": "hymn-133",
+          "title": {
+            "en-US": "133. Autumn"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-7",
+      "title": {
+        "en-US": "Part VII. The Last Things",
+        "pt-BR": "Parte 7. As Últimas Coisas"
+      },
+      "children": [
+        {
+          "id": "hymn-134",
+          "title": {
+            "en-US": "134. The Memory of the Dead"
+          }
+        },
+        {
+          "id": "hymn-135",
+          "title": {
+            "en-US": "135. The Eternal Years"
+          }
+        },
+        {
+          "id": "hymn-136",
+          "title": {
+            "en-US": "136. After a Death"
+          }
+        },
+        {
+          "id": "hymn-137",
+          "title": {
+            "en-US": "137. The Pilgrims of the Night"
+          }
+        },
+        {
+          "id": "hymn-138",
+          "title": {
+            "en-US": "138. Wishes About Death"
+          }
+        },
+        {
+          "id": "hymn-139",
+          "title": {
+            "en-US": "139. The Paths of Death"
+          }
+        },
+        {
+          "id": "hymn-140",
+          "title": {
+            "en-US": "140. The Length of Death"
+          }
+        },
+        {
+          "id": "hymn-141",
+          "title": {
+            "en-US": "141. The House of Mourning"
+          }
+        },
+        {
+          "id": "hymn-142",
+          "title": {
+            "en-US": "142. The Violence of Grief"
+          }
+        },
+        {
+          "id": "hymn-143",
+          "title": {
+            "en-US": "143. Deep Grief"
+          }
+        },
+        {
+          "id": "hymn-144",
+          "title": {
+            "en-US": "144. Grief and Loss"
+          }
+        },
+        {
+          "id": "hymn-145",
+          "title": {
+            "en-US": "145. The Shadow of the Rock"
+          }
+        },
+        {
+          "id": "hymn-146",
+          "title": {
+            "en-US": "146. A Child's Death"
+          }
+        },
+        {
+          "id": "hymn-147",
+          "title": {
+            "en-US": "147. The Land Beyond the Sea"
+          }
+        },
+        {
+          "id": "hymn-148",
+          "title": {
+            "en-US": "148. The Shore of Eternity"
+          }
+        },
+        {
+          "id": "hymn-149",
+          "title": {
+            "en-US": "149. Paradise"
+          }
+        },
+        {
+          "id": "hymn-150",
+          "title": {
+            "en-US": "150. Heaven"
+          }
+        }
+      ]
+    }
+  ]
+}
