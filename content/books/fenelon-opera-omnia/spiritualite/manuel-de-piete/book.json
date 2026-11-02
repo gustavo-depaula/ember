@@ -1,0 +1,102 @@
+{
+  "id": "fenelon-manuel-de-piete",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Manuel de piété",
+    "en-US": "Manual of Piety",
+    "pt-BR": "Manual de piedade"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Le livre de dévotion de Fénelon pour son diocèse : avis sur la prière et les exercices de piété, prières du matin et du soir, explication de la messe, instructions sur les sacrements, méditations sur divers sujets de l’Écriture, méditations pour un malade et entretiens affectifs pour les fêtes de l’année. Les Réflexions saintes pour tous les jours du mois, qui y appartiennent aussi, forment un livre à part.",
+    "en-US": "Fénelon’s devotional book for his diocese: counsels on prayer and the exercises of piety, morning and evening prayers, an explanation of the Mass, instructions on the sacraments, meditations on scriptural subjects, meditations for the sick and affective colloquies for the feasts of the year. The Pious Reflections for every day of the month, which also belong to it, are a separate book.",
+    "pt-BR": "O livro de devoção de Fénelon para sua diocese: avisos sobre a oração e os exercícios de piedade, orações da manhã e da noite, explicação da missa, instruções sobre os sacramentos, meditações sobre assuntos da Escritura, meditações para um doente e colóquios afetivos para as festas do ano. As Reflexões santas para todos os dias do mês, que também lhe pertencem, formam um livro à parte."
+  },
+  "composed": "1707–1713",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/manuel-de-piete",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvrescomplte06fnuoft",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 6, p. 5–180, 291–305 and following; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md). Several pages are two-column prints the OCR could not read; those passages are garbled (see PROBLEMS.md). The Réflexions saintes (printed in the middle of the Manuel) are the separate book fenelon-reflexions-saintes.",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "01-avis-sur-la-priere",
+      "title": {
+        "fr-FR": "Avis sur la prière et sur les principaux exercices de piété"
+      }
+    },
+    {
+      "id": "02-prieres-du-matin-et-du-soir",
+      "title": {
+        "fr-FR": "Prières du matin et du soir"
+      }
+    },
+    {
+      "id": "03-explication-de-la-messe",
+      "title": {
+        "fr-FR": "Explication des prières et des cérémonies de la messe"
+      }
+    },
+    {
+      "id": "04-instructions-sur-les-sacremens-01",
+      "title": {
+        "fr-FR": "Instructions sur les sacremens, partie 1"
+      }
+    },
+    {
+      "id": "04-instructions-sur-les-sacremens-02",
+      "title": {
+        "fr-FR": "Instructions sur les sacremens, partie 2"
+      }
+    },
+    {
+      "id": "05-meditations-diverses",
+      "title": {
+        "fr-FR": "Méditations sur divers sujets tirés de l’Écriture sainte"
+      }
+    },
+    {
+      "id": "06-meditations-pour-un-malade",
+      "title": {
+        "fr-FR": "Méditations pour un malade"
+      }
+    },
+    {
+      "id": "07-entretiens-affectifs-01",
+      "title": {
+        "fr-FR": "Entretiens affectifs pour les principales fêtes de l’année, partie 1"
+      }
+    },
+    {
+      "id": "07-entretiens-affectifs-02",
+      "title": {
+        "fr-FR": "Entretiens affectifs pour les principales fêtes de l’année, partie 2"
+      }
+    },
+    {
+      "id": "07-entretiens-affectifs-03",
+      "title": {
+        "fr-FR": "Entretiens affectifs pour les principales fêtes de l’année, partie 3"
+      }
+    }
+  ]
+}
