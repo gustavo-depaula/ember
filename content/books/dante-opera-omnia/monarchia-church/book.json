@@ -1,0 +1,335 @@
+{
+  "id": "dante-monarchia-church",
+  "cover": "classic",
+  "name": {
+    "en-US": "De Monarchia (On Monarchy)",
+    "pt-BR": "Da Monarquia (De Monarchia)"
+  },
+  "author": {
+    "it": "Dante Alighieri",
+    "la": "Dante Alighieri",
+    "en-US": "Dante Alighieri",
+    "pt-BR": "Dante Alighieri"
+  },
+  "description": {
+    "en-US": "Dante’s treatise on temporal monarchy in the English of F. J. Church (1878), appended to R. W. Church’s essay on Dante: Book I (16 chapters), Book II (13) and Book III (16), with the translator’s footnotes. Church divides Book II and Book III differently from the Latin text of the Monarchia book (Book II has 11 chapters, Book III 15 there), so this is a separate book of the same work.",
+    "pt-BR": "O tratado de Dante sobre a monarquia temporal na versão inglesa de F. J. Church (1878), em três livros, com as notas do tradutor."
+  },
+  "composed": "1312-1318",
+  "languages": [
+    "en-US"
+  ],
+  "work": "dante/monarchia",
+  "editions": {
+    "en-US": {
+      "translator": "F. J. Church",
+      "year": 1878
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/33896",
+      "edition": "Dante: An Essay, to which is added a translation of De Monarchia (London: Macmillan, 1878; Project Gutenberg #33896).",
+      "description": "The translation of De Monarchia only (R. W. Church’s essay and the appendices are dropped), with the translator’s footnotes as markdown footnotes. Aurelia Henry’s 1904 version is not imported.",
+      "tier": "A",
+      "tierEvidence": "Published 1878; Project Gutenberg distributes it."
+    }
+  ],
+  "toc": [
+    {
+      "id": "liber-1",
+      "title": {
+        "en-US": "Book I"
+      },
+      "children": [
+        {
+          "id": "liber-1-cap-01",
+          "title": {
+            "en-US": "Book I, Chapter I"
+          }
+        },
+        {
+          "id": "liber-1-cap-02",
+          "title": {
+            "en-US": "Book I, Chapter II"
+          }
+        },
+        {
+          "id": "liber-1-cap-03",
+          "title": {
+            "en-US": "Book I, Chapter III"
+          }
+        },
+        {
+          "id": "liber-1-cap-04",
+          "title": {
+            "en-US": "Book I, Chapter IV"
+          }
+        },
+        {
+          "id": "liber-1-cap-05",
+          "title": {
+            "en-US": "Book I, Chapter V"
+          }
+        },
+        {
+          "id": "liber-1-cap-06",
+          "title": {
+            "en-US": "Book I, Chapter VI"
+          }
+        },
+        {
+          "id": "liber-1-cap-07",
+          "title": {
+            "en-US": "Book I, Chapter VII"
+          }
+        },
+        {
+          "id": "liber-1-cap-08",
+          "title": {
+            "en-US": "Book I, Chapter VIII"
+          }
+        },
+        {
+          "id": "liber-1-cap-09",
+          "title": {
+            "en-US": "Book I, Chapter IX"
+          }
+        },
+        {
+          "id": "liber-1-cap-10",
+          "title": {
+            "en-US": "Book I, Chapter X"
+          }
+        },
+        {
+          "id": "liber-1-cap-11",
+          "title": {
+            "en-US": "Book I, Chapter XI"
+          }
+        },
+        {
+          "id": "liber-1-cap-12",
+          "title": {
+            "en-US": "Book I, Chapter XII"
+          }
+        },
+        {
+          "id": "liber-1-cap-13",
+          "title": {
+            "en-US": "Book I, Chapter XIII"
+          }
+        },
+        {
+          "id": "liber-1-cap-14",
+          "title": {
+            "en-US": "Book I, Chapter XIV"
+          }
+        },
+        {
+          "id": "liber-1-cap-15",
+          "title": {
+            "en-US": "Book I, Chapter XV"
+          }
+        },
+        {
+          "id": "liber-1-cap-16",
+          "title": {
+            "en-US": "Book I, Chapter XVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-2",
+      "title": {
+        "en-US": "Book II"
+      },
+      "children": [
+        {
+          "id": "liber-2-cap-01",
+          "title": {
+            "en-US": "Book II, Chapter I"
+          }
+        },
+        {
+          "id": "liber-2-cap-02",
+          "title": {
+            "en-US": "Book II, Chapter II"
+          }
+        },
+        {
+          "id": "liber-2-cap-03",
+          "title": {
+            "en-US": "Book II, Chapter III"
+          }
+        },
+        {
+          "id": "liber-2-cap-04",
+          "title": {
+            "en-US": "Book II, Chapter IV"
+          }
+        },
+        {
+          "id": "liber-2-cap-05",
+          "title": {
+            "en-US": "Book II, Chapter V"
+          }
+        },
+        {
+          "id": "liber-2-cap-06",
+          "title": {
+            "en-US": "Book II, Chapter VI"
+          }
+        },
+        {
+          "id": "liber-2-cap-07",
+          "title": {
+            "en-US": "Book II, Chapter VII"
+          }
+        },
+        {
+          "id": "liber-2-cap-08",
+          "title": {
+            "en-US": "Book II, Chapter VIII"
+          }
+        },
+        {
+          "id": "liber-2-cap-09",
+          "title": {
+            "en-US": "Book II, Chapter IX"
+          }
+        },
+        {
+          "id": "liber-2-cap-10",
+          "title": {
+            "en-US": "Book II, Chapter X"
+          }
+        },
+        {
+          "id": "liber-2-cap-11",
+          "title": {
+            "en-US": "Book II, Chapter XI"
+          }
+        },
+        {
+          "id": "liber-2-cap-12",
+          "title": {
+            "en-US": "Book II, Chapter XII"
+          }
+        },
+        {
+          "id": "liber-2-cap-13",
+          "title": {
+            "en-US": "Book II, Chapter XIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liber-3",
+      "title": {
+        "en-US": "Book III"
+      },
+      "children": [
+        {
+          "id": "liber-3-cap-01",
+          "title": {
+            "en-US": "Book III, Chapter I"
+          }
+        },
+        {
+          "id": "liber-3-cap-02",
+          "title": {
+            "en-US": "Book III, Chapter II"
+          }
+        },
+        {
+          "id": "liber-3-cap-03",
+          "title": {
+            "en-US": "Book III, Chapter III"
+          }
+        },
+        {
+          "id": "liber-3-cap-04",
+          "title": {
+            "en-US": "Book III, Chapter IV"
+          }
+        },
+        {
+          "id": "liber-3-cap-05",
+          "title": {
+            "en-US": "Book III, Chapter V"
+          }
+        },
+        {
+          "id": "liber-3-cap-06",
+          "title": {
+            "en-US": "Book III, Chapter VI"
+          }
+        },
+        {
+          "id": "liber-3-cap-07",
+          "title": {
+            "en-US": "Book III, Chapter VII"
+          }
+        },
+        {
+          "id": "liber-3-cap-08",
+          "title": {
+            "en-US": "Book III, Chapter VIII"
+          }
+        },
+        {
+          "id": "liber-3-cap-09",
+          "title": {
+            "en-US": "Book III, Chapter IX"
+          }
+        },
+        {
+          "id": "liber-3-cap-10",
+          "title": {
+            "en-US": "Book III, Chapter X"
+          }
+        },
+        {
+          "id": "liber-3-cap-11",
+          "title": {
+            "en-US": "Book III, Chapter XI"
+          }
+        },
+        {
+          "id": "liber-3-cap-12",
+          "title": {
+            "en-US": "Book III, Chapter XII"
+          }
+        },
+        {
+          "id": "liber-3-cap-13",
+          "title": {
+            "en-US": "Book III, Chapter XIII"
+          }
+        },
+        {
+          "id": "liber-3-cap-14",
+          "title": {
+            "en-US": "Book III, Chapter XIV"
+          }
+        },
+        {
+          "id": "liber-3-cap-15",
+          "title": {
+            "en-US": "Book III, Chapter XV"
+          }
+        },
+        {
+          "id": "liber-3-cap-16",
+          "title": {
+            "en-US": "Book III, Chapter XVI"
+          }
+        }
+      ]
+    }
+  ]
+}

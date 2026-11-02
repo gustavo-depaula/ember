@@ -1,0 +1,7 @@
+# Book I, Chapter X
+
+Wherever there is controversy, there ought to be judgment, otherwise there would be imperfection without its proper remedy,[^164] which is impossible; for God and Nature, in things necessary, do not fail in their provisions. But it is manifest that there may be controversy between any two princes, where the one is not subject to the other, either from the fault of themselves, or even of their subjects. Therefore between them there should be means of judgment. And since, when one is not subject to the other, he cannot be judged by the other (for there is no rule of equals over equals), there must be a third prince of wider jurisdiction, within the circle of whose laws both may come. Either he will or he will not be a Monarch. If he is, we have what we sought; if not, then this one again will have an equal, who is not subject to his jurisdiction, and then again we have need of a third. And so we must either go on to infinity, which is impossible, or we must come to that judge who is first and highest; by whose judgment all controversies shall be either directly or indirectly decided; and he will be Monarch or Emperor. Monarchy is therefore necessary to the world, and this the Philosopher saw when he said: "The world is not intended to be disposed in evil order; 'in a multitude of rulers there is evil, therefore let there be one prince.'"[^165]
+
+[^164]: "*Sine proprio perfectivo.*"
+
+[^165]: Arist. *Metaphys.* xii. 10, who quotes from Hom. *Il.* ii. 204.--(W.)

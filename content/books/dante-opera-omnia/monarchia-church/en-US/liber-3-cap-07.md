@@ -1,0 +1,13 @@
+# Book III, Chapter VII
+
+Further, they use the offering of the wise men from the text of Matthew, saying that Christ accepted from them both frankincense and gold, to signify that He was lord and ruler both of things temporal and of things spiritual; and from this they infer that the Vicar of Christ is also lord and ruler both of things temporal and of things spiritual; and that consequently he has authority over both.
+
+To this I answer, that I acknowledge that Matthew's words and meaning are both as they say, but that the inference which they attempt to draw therefrom fails, because it fails in the terms of the argument. Their syllogism runs thus: God is the lord both of things temporal and of things spiritual, the holy Pontiff is the Vicar of God; therefore he is lord both of things temporal and of things spiritual. Both of these propositions are true, but the middle term in them is different, and *four* terms are introduced, by which the form of the syllogism is not kept, as is plain from what is said of "the syllogism simply."[^291] For "God" is the subject of the major premiss, and "the Vicar of God" is the predicate of the minor; and these are not the same.
+
+And if anyone raises the objection that the Vicar of God is equal in power to God, his objection is idle; for no vicar, whether human or divine, can be equal in power to the master whose vicar he is, which is at once obvious. We know that the successor of Peter had not equal authority with God, at least in the works of nature; he could not make a clod of earth fall upwards, nor fire to burn in a downward direction, by virtue of the office committed to him. Nor could all things be committed to him by God; for God could not commit to any the power of creation, and of baptism, as is clearly proved, notwithstanding what[^292] the Master says in his fourth book.
+
+We know also that the vicar of a mortal man is not equal in authority to the man whose vicar he is, so far as he is his vicar; for none can give away what is not his. The authority of a prince does not belong to a prince, except for him to use it; for no prince can give to himself authority. He can indeed receive authority, and give it up, but he cannot create it in another man, for it does not belong to a prince to create another prince. And if this is so, it is manifest that no prince can substitute for himself a vicar equal to himself in authority respecting all things, and therefore the objection to our argument has no weight.
+
+[^291]: Arist. *Anal. Prior.*, or rather, the *Summulæ Logicæ*, l. iv., of Petrus Hispanus.--(W.)
+
+[^292]: Peter Lombard, "magister sententiarum," iv. dist. 5, f. 2.--(W.)

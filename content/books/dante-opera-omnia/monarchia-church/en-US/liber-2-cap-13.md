@@ -1,0 +1,15 @@
+# Book II, Chapter XIII
+
+And if the Roman empire did not exist by right, the sin of Adam was not punished in Christ. This is false, therefore its contradictory is true. The falsehood of the consequent is seen thus. Since by the sin of Adam we were all sinners, as the Apostle says:--"Wherefore, as by one man sin entered into the world, and death by sin, and so death passed upon all men, for that all have sinned,"--then, if Christ had not made satisfaction for Adam's sin by his death, we should still by our depraved nature be the children of wrath. But this is not so, for Paul, speaking of the Father in his Epistle to the Ephesians, says: "Having predestinated us unto the adoption of children by Jesus Christ to Himself, according to the good pleasure of His will, to the praise of the glory of His grace, wherein He hath made us accepted in the beloved, in whom we have redemption by His blood, the forgiveness of sins according to the riches of His grace, wherein He has abounded towards us." And Christ Himself, suffering in Himself the punishment, says in St. John: "It is finished;" for where a thing is finished, naught remains to be done.
+
+It is convenient that it should be understood that punishment is not merely penalty inflicted on him who has done wrong, but that penalty inflicted by one who has penal jurisdiction. And therefore a penalty should not be called punishment, but rather injury, except where it is inflicted by the sentence of a regular judge.[^274] Therefore the Israelites said unto Moses: "Who made thee a judge over us?"
+
+If, therefore, Christ had not suffered by the sentence of a regular judge, the penalty would not properly have been punishment; and none could be a regular judge who had not jurisdiction over all mankind; for all mankind was punished in the flesh of Christ, who "hath borne our griefs and carried our sorrows," as saith the Prophet Isaiah. And if the Roman empire had not existed by right, Tiberius Cæsar, whose vicar was Pontius Pilate, would not have had jurisdiction over all mankind. It was for this reason that Herod, not knowing what he did, like Caiaphas, when he spoke truly of the decree of heaven, sent Christ to Pilate to be judged, as Luke relates in his gospel. For Herod was not the vicegerent of Tiberius, under the standard of the eagle, or the standard of the Senate; but only a king, with one particular kingdom given him by Tiberius, and ruling the kingdom committed to his charge under Tiberius.
+
+Let them cease, then, to insult the Roman empire, who pretend that they are the sons of the Church; when they see that Christ, the bridegroom of the Church, sanctioned the Roman empire at the beginning and at the end of His warfare on earth. And now I think that I have made it sufficiently clear that it was by right that the Romans acquired to themselves the empire of the world.
+
+Oh happy people, oh Ausonia, how glorious hadst thou been, if either he, that weakener of thine empire, had never been born, or if his own pious intention had never deceived him?[^275]
+
+[^274]: "*Ab ordinario judice.*"
+
+[^275]: Constantine the Great.--(W.)
