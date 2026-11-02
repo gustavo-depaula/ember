@@ -1,0 +1,155 @@
+{
+  "id": "celano-tractatus-de-miraculis",
+  "cover": "classic",
+  "name": {
+    "la": "Tractatus de miraculis beati Francisci",
+    "en-US": "Treatise on the Miracles of St. Francis (Tractatus de miraculis)",
+    "pt-BR": "Tratado dos milagres de São Francisco (Tractatus de miraculis)"
+  },
+  "author": {
+    "la": "Thomas de Celano",
+    "en-US": "Thomas of Celano",
+    "pt-BR": "Tomás de Celano"
+  },
+  "description": {
+    "la": "Thomae de Celano Tractatus de miraculis beati Francisci (1250-1252), de stigmatibus, dominio super creaturas, curationibus et aliis miraculis post mortem, XIX capitibus.",
+    "en-US": "Thomas of Celano’s Treatise on the Miracles of St. Francis (1250-1252): the stigmata, his power over creatures, healings and the miracles after his death, in nineteen chapters, in Latin. No public-domain English translation exists.",
+    "pt-BR": "O Tratado dos milagres de São Francisco, por Tomás de Celano (1250-1252), em dezenove capítulos."
+  },
+  "composed": "1250-1252",
+  "languages": [
+    "la"
+  ],
+  "work": "thomas-of-celano/tractatus-de-miraculis",
+  "editions": {
+    "la": {
+      "editor": "transcription of the critical text of Fontes Franciscani (1995) by M. Mastrorilli, Politecnico di Bari; edition not stated"
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://rilievo.poliba.it/bsc/bsc/st/cc/orm/francescani/fonti/ff_trattatomiracoli_lat.html",
+      "edition": "Thomas of Celano, Tractatus de miraculis, poliba.it \"Fonti francescane\" (Wayback Machine snapshot).",
+      "description": "Nineteen chapters, paragraph numbers bold, verse numbers superscript. Latin only; no public-domain English exists.",
+      "tier": "B",
+      "tierEvidence": "Medieval text. The transcription (M. Mastrorilli, Politecnico di Bari, Biblioteca di Scienze del Cristianesimo, 2000-02) survives only in the Wayback Machine; it states no edition, but its biblical apparatus follows Fontes Franciscani (1995). Free in practice, edition unverified."
+    }
+  ],
+  "toc": [
+    {
+      "id": "cap-001",
+      "title": {
+        "la": "Caput I - Quod ortus religionis suae mirabilis fuit."
+      }
+    },
+    {
+      "id": "cap-002",
+      "title": {
+        "la": "Caput II - De miraculo stigmatum et modus apparitionis Seraph ei apparentis."
+      }
+    },
+    {
+      "id": "cap-003",
+      "title": {
+        "la": "Caput III - De dominio quod habuit super creaturis insensibilibus, et primo de igne."
+      }
+    },
+    {
+      "id": "cap-004",
+      "title": {
+        "la": "Caput IV - De dominio quod habuit super sensibilibus creaturis."
+      }
+    },
+    {
+      "id": "cap-005",
+      "title": {
+        "la": "Caput V - Qualiter desideriis sancti Francisci praesto fuit semper divina clementia."
+      }
+    },
+    {
+      "id": "cap-006",
+      "title": {
+        "la": "Caput VI - De domina Iacoba de Septem Soliis."
+      }
+    },
+    {
+      "id": "cap-007",
+      "title": {
+        "la": "Caput VII - De mortuis suscitatis per merita beati Francisci."
+      }
+    },
+    {
+      "id": "cap-008",
+      "title": {
+        "la": "Caput VIII - De iis quos a fauce mortis ad vitam reduxit."
+      }
+    },
+    {
+      "id": "cap-009",
+      "title": {
+        "la": "Caput IX - De hydropicis et paralyticis."
+      }
+    },
+    {
+      "id": "cap-010",
+      "title": {
+        "la": "Caput X - De naufragis liberatis."
+      }
+    },
+    {
+      "id": "cap-011",
+      "title": {
+        "la": "Caput XI - De carceratis et vinctis."
+      }
+    },
+    {
+      "id": "cap-012",
+      "title": {
+        "la": "Caput XII - De liberatis a periculo partus et de non servantibus eius festum."
+      }
+    },
+    {
+      "id": "cap-013",
+      "title": {
+        "la": "Caput XIII - De ruptis reparatis."
+      }
+    },
+    {
+      "id": "cap-014",
+      "title": {
+        "la": "Caput XIV - De caecis et surdis et mutis."
+      }
+    },
+    {
+      "id": "cap-015",
+      "title": {
+        "la": "Caput XV - De leprosis et sanguifluis."
+      }
+    },
+    {
+      "id": "cap-016",
+      "title": {
+        "la": "Caput XVI - De insanis et daemoniacis."
+      }
+    },
+    {
+      "id": "cap-017",
+      "title": {
+        "la": "Caput XVII - De contractis et confractis."
+      }
+    },
+    {
+      "id": "cap-018",
+      "title": {
+        "la": "Caput XVIII - De quibusdam diversis miraculis."
+      }
+    },
+    {
+      "id": "cap-019",
+      "title": {
+        "la": "Caput XIX - Finalis conclusio miraculorum beati Francisci."
+      }
+    }
+  ]
+}
