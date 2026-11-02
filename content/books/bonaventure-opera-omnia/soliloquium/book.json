@@ -1,0 +1,72 @@
+{
+  "id": "bonaventure-soliloquium",
+  "cover": "classic",
+  "name": {
+    "la": "Soliloquium de quatuor mentalibus exercitiis",
+    "en-US": "The Soliloquy on the Four Spiritual Exercises",
+    "pt-BR": "Solilóquio sobre os quatro exercícios mentais"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Dialogus animae cum homine interiore de quattuor exercitiis mentalibus: de cognitione sui, de miseria mundi, de morte et de iudicio. Textus ex editione Quaracchi (Decem opuscula, 1900), ex scanno OCR, sine notis criticis.",
+    "en-US": "A dialogue of the soul with the inner man in four chapters: the knowledge of oneself, the misery of the world, death, and the last things. The Latin is the Quaracchi text of the Decem opuscula (1900), from an OCR scan, without the editors’ critical notes.",
+    "pt-BR": "Diálogo da alma com o homem interior em quatro capítulos: o conhecimento de si, a miséria do mundo, a morte e as últimas coisas."
+  },
+  "composed": "c. 1259",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/soliloquium",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1900
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/decemopusculaadt00bona",
+      "edition": "S. Bonaventurae Decem opuscula ad theologiam mysticam spectantia, ed. 2 (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1900).",
+      "description": "Archive.org OCR of the octavo edition. Page heads, the editors’ footnotes (variant readings and cross-references) and note markers are removed; line-end hyphens are joined; recognisable OCR slips are corrected by comparison with the other Quaracchi scans, so some remain.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1900 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologus",
+      "title": {
+        "la": "Prologus"
+      }
+    },
+    {
+      "id": "c01",
+      "title": {
+        "la": "Caput I"
+      }
+    },
+    {
+      "id": "c02",
+      "title": {
+        "la": "Caput II"
+      }
+    },
+    {
+      "id": "c03",
+      "title": {
+        "la": "Caput III"
+      }
+    },
+    {
+      "id": "c04",
+      "title": {
+        "la": "Caput IV"
+      }
+    }
+  ]
+}
