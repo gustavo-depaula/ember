@@ -1,0 +1,282 @@
+{
+  "id": "bonaventure-commentaria-in-sententias-3",
+  "cover": "classic",
+  "name": {
+    "la": "Commentaria in librum tertium Sententiarum",
+    "en-US": "Commentary on the Third Book of the Sentences",
+    "pt-BR": "Comentário ao Terceiro Livro das Sentenças"
+  },
+  "author": {
+    "la": "Bonaventura de Balneoregio",
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "description": {
+    "la": "Commentaria in librum tertium Sententiarum Petri Lombardi, per distinctiones (articulos et quaestiones). Textus ex editione Quaracchi (Opera omnia III, 1887), ex scanno OCR, sine notis criticis, sine scholiis.",
+    "en-US": "Bonaventure’s commentary on the Third Book of Peter Lombard’s Sentences, by distinction, article and question. The Latin is the Quaracchi edition (Opera omnia III, 1887) from an OCR scan, without the editors’ critical notes and scholia.",
+    "pt-BR": "Comentário de Boaventura ao Terceiro Livro das Sentenças de Pedro Lombardo."
+  },
+  "composed": "c. 1250-1252",
+  "languages": [
+    "la"
+  ],
+  "work": "bonaventure/commentaria-in-sententias-3",
+  "editions": {
+    "la": {
+      "editor": "PP. Collegii S. Bonaventurae (Quaracchi)",
+      "year": 1887
+    }
+  },
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://archive.org/details/doctorisseraphic03bona",
+      "edition": "S. Bonaventurae Opera omnia, tom. III (Ad Claras Aquas, Quaracchi: Collegium S. Bonaventurae, 1887).",
+      "description": "Archive.org OCR (djvu.xml word coordinates) of the folio edition. Each page is read in two columns; marginal notes, running heads, the editors’ footnotes, scholia (small type) and the Prolegomena are removed by layout (line pitch and measure); line-end hyphens are joined; recognisable OCR slips are corrected by a lexicon pass, so some remain. Distinctions are cut at the page whose running head names them.",
+      "tier": "A",
+      "tierEvidence": "Bonaventure died in 1274; the Quaracchi edition of 1887 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "d01",
+      "title": {
+        "la": "Distinctio I"
+      }
+    },
+    {
+      "id": "d02",
+      "title": {
+        "la": "Distinctio II"
+      }
+    },
+    {
+      "id": "d03",
+      "title": {
+        "la": "Distinctio III"
+      }
+    },
+    {
+      "id": "d04",
+      "title": {
+        "la": "Distinctio IV"
+      }
+    },
+    {
+      "id": "d05",
+      "title": {
+        "la": "Distinctio V"
+      }
+    },
+    {
+      "id": "d06",
+      "title": {
+        "la": "Distinctio VI"
+      }
+    },
+    {
+      "id": "d07",
+      "title": {
+        "la": "Distinctio VII"
+      }
+    },
+    {
+      "id": "d08",
+      "title": {
+        "la": "Distinctio VIII"
+      }
+    },
+    {
+      "id": "d09",
+      "title": {
+        "la": "Distinctio IX"
+      }
+    },
+    {
+      "id": "d10",
+      "title": {
+        "la": "Distinctio X"
+      }
+    },
+    {
+      "id": "d11",
+      "title": {
+        "la": "Distinctio XI"
+      }
+    },
+    {
+      "id": "d12",
+      "title": {
+        "la": "Distinctio XII"
+      }
+    },
+    {
+      "id": "d13",
+      "title": {
+        "la": "Distinctio XIII"
+      }
+    },
+    {
+      "id": "d14",
+      "title": {
+        "la": "Distinctio XIV"
+      }
+    },
+    {
+      "id": "d15",
+      "title": {
+        "la": "Distinctio XV"
+      }
+    },
+    {
+      "id": "d16",
+      "title": {
+        "la": "Distinctio XVI"
+      }
+    },
+    {
+      "id": "d17",
+      "title": {
+        "la": "Distinctio XVII"
+      }
+    },
+    {
+      "id": "d18",
+      "title": {
+        "la": "Distinctio XVIII"
+      }
+    },
+    {
+      "id": "d19",
+      "title": {
+        "la": "Distinctio XIX"
+      }
+    },
+    {
+      "id": "d20",
+      "title": {
+        "la": "Distinctio XX"
+      }
+    },
+    {
+      "id": "d21",
+      "title": {
+        "la": "Distinctio XXI"
+      }
+    },
+    {
+      "id": "d22",
+      "title": {
+        "la": "Distinctio XXII"
+      }
+    },
+    {
+      "id": "d23",
+      "title": {
+        "la": "Distinctio XXIII"
+      }
+    },
+    {
+      "id": "d24",
+      "title": {
+        "la": "Distinctio XXIV"
+      }
+    },
+    {
+      "id": "d25",
+      "title": {
+        "la": "Distinctio XXV"
+      }
+    },
+    {
+      "id": "d26",
+      "title": {
+        "la": "Distinctio XXVI"
+      }
+    },
+    {
+      "id": "d27",
+      "title": {
+        "la": "Distinctio XXVII"
+      }
+    },
+    {
+      "id": "d28",
+      "title": {
+        "la": "Distinctio XXVIII"
+      }
+    },
+    {
+      "id": "d29",
+      "title": {
+        "la": "Distinctio XXIX"
+      }
+    },
+    {
+      "id": "d30",
+      "title": {
+        "la": "Distinctio XXX"
+      }
+    },
+    {
+      "id": "d31",
+      "title": {
+        "la": "Distinctio XXXI"
+      }
+    },
+    {
+      "id": "d32",
+      "title": {
+        "la": "Distinctio XXXII"
+      }
+    },
+    {
+      "id": "d33",
+      "title": {
+        "la": "Distinctio XXXIII"
+      }
+    },
+    {
+      "id": "d34",
+      "title": {
+        "la": "Distinctio XXXIV"
+      }
+    },
+    {
+      "id": "d35",
+      "title": {
+        "la": "Distinctio XXXV"
+      }
+    },
+    {
+      "id": "d36",
+      "title": {
+        "la": "Distinctio XXXVI"
+      }
+    },
+    {
+      "id": "d37",
+      "title": {
+        "la": "Distinctio XXXVII"
+      }
+    },
+    {
+      "id": "d38",
+      "title": {
+        "la": "Distinctio XXXVIII"
+      }
+    },
+    {
+      "id": "d39",
+      "title": {
+        "la": "Distinctio XXXIX"
+      }
+    },
+    {
+      "id": "d40",
+      "title": {
+        "la": "Distinctio XL"
+      }
+    }
+  ]
+}
