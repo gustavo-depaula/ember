@@ -16,7 +16,7 @@ for t in tit:
     man.append([best + 1, t]); pos = best + 1
 man += [[689, 'On the Dulness of Irreligious People'], [1810, 'The Sense of the Supernatural'], [3404, 'On the Dance as a Religious Exercise']]
 man.sort()
-end = next(i for i,l in enumerate(L) if l.strip()=='THE END') + 1
+end = next(i for i,l in enumerate(L) if re.sub(r'\s+', ' ', l.strip())=='THE END') + 1
 end0 = next(i for i in range(len(L) - 1, 0, -1) if L[i].strip() and not re.fullmatch(r'[\W\d]*', L[i])) 
 cfg('papers-of-a-pariah', 'Papers of a Pariah', 'Papéis de um Pária',
  "Benson's essays of 1907, written after his conversion, on religion as seen by a convert and a priest: At a Requiem, intellectual slavery, the sense of the supernatural, Holy Week, the dance as a religious exercise, Low Mass, Benediction, the personality of the Church and death.",

@@ -44,59 +44,77 @@
     {
       "id": "chapter-02",
       "title": {
-        "en-US": "Intellectual Slavery"
+        "en-US": "On the Dulness of Irreligious People"
       }
     },
     {
       "id": "chapter-03",
       "title": {
-        "en-US": "A Father in God"
+        "en-US": "Intellectual Slavery"
       }
     },
     {
       "id": "chapter-04",
       "title": {
-        "en-US": "The Mystical Sense"
+        "en-US": "A Father in God"
       }
     },
     {
       "id": "chapter-05",
       "title": {
-        "en-US": "Holy Week"
+        "en-US": "The Sense of the Supernatural"
       }
     },
     {
       "id": "chapter-06",
       "title": {
-        "en-US": "Religious Persecution"
+        "en-US": "The Mystical Sense"
       }
     },
     {
       "id": "chapter-07",
       "title": {
-        "en-US": "Science and Faith"
+        "en-US": "Holy Week"
       }
     },
     {
       "id": "chapter-08",
       "title": {
-        "en-US": "Low Mass"
+        "en-US": "On the Dance as a Religious Exercise"
       }
     },
     {
       "id": "chapter-09",
       "title": {
-        "en-US": "Benediction"
+        "en-US": "Religious Persecution"
       }
     },
     {
       "id": "chapter-10",
       "title": {
-        "en-US": "The Personality of the Church"
+        "en-US": "Science and Faith"
       }
     },
     {
       "id": "chapter-11",
+      "title": {
+        "en-US": "Low Mass"
+      }
+    },
+    {
+      "id": "chapter-12",
+      "title": {
+        "en-US": "Benediction"
+      }
+    },
+    {
+      "id": "chapter-13",
+      "title": {
+        "en-US": "The Personality of the Church"
+      }
+    },
+    {
+      "id": "chapter-14",
       "title": {
         "en-US": "Death"
       }

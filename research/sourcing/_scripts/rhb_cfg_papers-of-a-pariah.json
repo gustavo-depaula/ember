@@ -18,6 +18,10 @@
    "At a Requiem"
   ],
   [
+   689,
+   "On the Dulness of Irreligious People"
+  ],
+  [
    1031,
    "Intellectual Slavery"
   ],
@@ -26,12 +30,20 @@
    "A Father in God"
   ],
   [
+   1810,
+   "The Sense of the Supernatural"
+  ],
+  [
    2236,
    "The Mystical Sense"
   ],
   [
    2513,
    "Holy Week"
+  ],
+  [
+   3404,
+   "On the Dance as a Religious Exercise"
   ],
   [
    4015,
@@ -59,7 +71,7 @@
   ]
  ],
  "start": 364,
- "end": 6453,
+ "end": 6465,
  "label": "",
  "mode": "ia",
  "died": 1914
