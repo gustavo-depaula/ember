@@ -244,6 +244,20 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
           console.warn('[FoliateReader] bad message from WebView:', err)
         }
       }}
+      // A renderer the OS killed (low memory: the host HTML carries the reading
+      // font as base64) or a page that failed to load posts nothing, so report
+      // them as engine errors rather than leave the title page up.
+      onRenderProcessGone={(e: { nativeEvent: { didCrash: boolean } }) => {
+        const crashed = e.nativeEvent.didCrash
+        onMessage?.({ type: 'error', message: `WebView renderer gone (crashed: ${crashed})` })
+      }}
+      onContentProcessDidTerminate={() =>
+        onMessage?.({ type: 'error', message: 'WebView content process terminated' })
+      }
+      onError={(e: { nativeEvent: { description: string } }) => {
+        const description = e.nativeEvent.description
+        onMessage?.({ type: 'error', message: `WebView load error: ${description}` })
+      }}
       showsVerticalScrollIndicator={false}
       scrollEnabled={false}
       bounces={false}
