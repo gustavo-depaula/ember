@@ -1,0 +1,96 @@
+{
+  "id": "eudes-petits-offices",
+  "cover": "quarter",
+  "name": {
+    "fr-FR": "Les Petits Offices",
+    "en-US": "The Little Offices",
+    "pt-BR": "Os Pequenos Ofícios"
+  },
+  "author": {
+    "fr-FR": "Saint Jean Eudes",
+    "en-US": "St. John Eudes",
+    "pt-BR": "São João Eudes"
+  },
+  "description": {
+    "fr-FR": "Les petits offices composés par Jean Eudes : du très saint Cœur de la Vierge, du divin Cœur de Jésus, du Sacré Cœur, de la Conception immaculée et de la Sainte Enfance de la Mère de Dieu (latin et français).",
+    "en-US": "The little offices composed by John Eudes: of the Most Holy Heart of the Virgin, of the Divine Heart of Jesus, of the Sacred Heart, of the Immaculate Conception and of the Holy Childhood of the Mother of God (Latin and French).",
+    "pt-BR": "Os pequenos ofícios compostos por João Eudes: do santíssimo Coração da Virgem, do divino Coração de Jesus, do Sagrado Coração, da Imaculada Conceição e da Santa Infância da Mãe de Deus (latim e francês)."
+  },
+  "composed": 1650,
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "john-eudes/petits-offices",
+  "editions": {
+    "fr-FR": {
+      "editor": "Charles Lebrun, Ange Le Doré, Joseph Dauphin (Congrégation de Jésus et Marie)",
+      "year": 1905
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "http://www.liberius.net/livres/OEuvres_completes_de_saint_Jean_Eudes_(tome_12)_000000357.pdf",
+      "edition": "Œuvres complètes du Vénérable Jean Eudes, tome 12, Vannes (Lafolye) et Paris (Beauchesne), 1905–1911, éd. Ch. Lebrun, A. Le Doré, J. Dauphin; transcription Bibliothèque Saint Libère (liberius.net), 2008.",
+      "description": "Born-digital transcription of the 1905–11 edition, converted by script: page markers and running heads removed, hyphenation and leaked letter-spacing repaired, paragraphs rejoined; the editors’ footnotes are gathered at the end of the file where they fall; footnote call numbers stay in the running text. The editors’ introductions are kept.",
+      "tier": "A",
+      "tierEvidence": "Eudes died in 1680; the 1905–11 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "po-01",
+      "title": {
+        "fr-FR": "Introduction (1)"
+      }
+    },
+    {
+      "id": "po-02",
+      "title": {
+        "fr-FR": "Introduction (2)"
+      }
+    },
+    {
+      "id": "po-03",
+      "title": {
+        "fr-FR": "I. petit office du très saint cœur-de la b. vierge (1)"
+      }
+    },
+    {
+      "id": "po-04",
+      "title": {
+        "fr-FR": "I. petit office du très saint cœur-de la b. vierge (2)"
+      }
+    },
+    {
+      "id": "po-05",
+      "title": {
+        "fr-FR": "I. petit office du très saint cœur-de la b. vierge (3)"
+      }
+    },
+    {
+      "id": "po-06",
+      "title": {
+        "fr-FR": "II. petit office du divin cœur de jesus 20"
+      }
+    },
+    {
+      "id": "po-07",
+      "title": {
+        "fr-FR": "I. petit office du sacré cœur de jésus"
+      }
+    },
+    {
+      "id": "po-08",
+      "title": {
+        "fr-FR": "III. petit office de la conception immaculée de la bienheureuse vierge 35"
+      }
+    },
+    {
+      "id": "po-09",
+      "title": {
+        "fr-FR": "IV. petit office de la sainte enfance de la très sacrée mère de dieu 36"
+      }
+    }
+  ]
+}
