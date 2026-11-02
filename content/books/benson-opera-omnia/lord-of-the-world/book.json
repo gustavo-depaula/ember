@@ -1,0 +1,183 @@
+{
+  "id": "benson-lord-of-the-world",
+  "cover": "classic",
+  "name": {
+    "en-US": "Lord of the World",
+    "pt-BR": "O Senhor do Mundo"
+  },
+  "author": {
+    "en-US": "Mgr. Robert Hugh Benson",
+    "pt-BR": "Mons. Robert Hugh Benson"
+  },
+  "description": {
+    "en-US": "Benson's apocalyptic novel of 1907, set in a near-future world that has all but abandoned the faith: a charismatic humanist statesman, Julian Felsenburgh, unites the nations under the religion of Humanity while a priest, Percy Franklin, and a dwindling Church stand against him. In three books: the Advent, the Encounter, the Victory.",
+    "pt-BR": "O romance apocalíptico de Benson (1907), ambientado num futuro próximo que quase abandonou a fé: um estadista humanista carismático, Julian Felsenburgh, une as nações sob a religião da Humanidade, enquanto um padre, Percy Franklin, e uma Igreja cada vez menor lhe resistem. Em três livros: o Advento, o Encontro, a Vitória."
+  },
+  "composed": 1907,
+  "languages": [
+    "en-US"
+  ],
+  "work": "benson/lord-of-the-world",
+  "editions": {
+    "en-US": {
+      "editor": "Robert Hugh Benson (London: Hutchinson, 1907)",
+      "year": 1907
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.gutenberg.org/ebooks/14021",
+      "edition": "Lord of the World (London: Hutchinson, 1907), Project Gutenberg #14021, proofread.",
+      "description": "Book and chapter divisions as printed; the numbered sections inside chapters are kept as ## headings. Gutenberg licence and transcriber notes are dropped. Raw text in sources/en-US-originals/.",
+      "tier": "A",
+      "tierEvidence": "Mgr. Robert Hugh Benson died in 1914 and the edition is of 1907, so the text is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "prologue",
+      "title": {
+        "en-US": "Prologue"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "en-US": "Book I-the Advent"
+      },
+      "children": [
+        {
+          "id": "chapter-01",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-02",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-03",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-04",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-05",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "en-US": "Book Ii-the Encounter"
+      },
+      "children": [
+        {
+          "id": "chapter-06",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-07",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-08",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-09",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-10",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-11",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        },
+        {
+          "id": "chapter-12",
+          "title": {
+            "en-US": "Chapter VII"
+          }
+        },
+        {
+          "id": "chapter-13",
+          "title": {
+            "en-US": "Chapter VIII"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "en-US": "Book Iii-the Victory"
+      },
+      "children": [
+        {
+          "id": "chapter-14",
+          "title": {
+            "en-US": "Chapter I"
+          }
+        },
+        {
+          "id": "chapter-15",
+          "title": {
+            "en-US": "Chapter II"
+          }
+        },
+        {
+          "id": "chapter-16",
+          "title": {
+            "en-US": "Chapter III"
+          }
+        },
+        {
+          "id": "chapter-17",
+          "title": {
+            "en-US": "Chapter IV"
+          }
+        },
+        {
+          "id": "chapter-18",
+          "title": {
+            "en-US": "Chapter V"
+          }
+        },
+        {
+          "id": "chapter-19",
+          "title": {
+            "en-US": "Chapter VI"
+          }
+        }
+      ]
+    }
+  ]
+}
