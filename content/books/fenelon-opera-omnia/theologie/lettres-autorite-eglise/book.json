@@ -1,0 +1,48 @@
+{
+  "id": "fenelon-lettres-autorite-eglise",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres sur l’autorité de l’Église",
+    "en-US": "Letters on the Authority of the Church",
+    "pt-BR": "Cartas sobre a autoridade da Igreja"
+  },
+  "author": {
+    "fr-FR": "François de Salignac de La Mothe-Fénelon",
+    "en-US": "François de Salignac de La Mothe-Fénelon",
+    "pt-BR": "François de Salignac de La Mothe-Fénelon"
+  },
+  "description": {
+    "fr-FR": "Huit lettres adressées à un protestant sur l’autorité de l’Église et la règle de la foi, avec la profession de foi signée par leur destinataire.",
+    "en-US": "Eight letters to a Protestant on the authority of the Church and the rule of faith, with the profession of faith signed by their recipient.",
+    "pt-BR": "Oito cartas a um protestante sobre a autoridade da Igreja e a regra da fé, com a profissão de fé assinada por seu destinatário."
+  },
+  "composed": "1713",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "fenelon/lettres-autorite-eglise",
+  "editions": {
+    "fr-FR": {
+      "editor": "J.-E.-A. Gosselin (éd. Saint-Sulpice), Paris: Leroux et Jouby / Gaume",
+      "year": 1851
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://archive.org/details/oeuvresdefenelon01fn",
+      "edition": "Œuvres complètes de Fénelon, Paris, Leroux et Jouby, 1851 (éd. Gosselin, Saint-Sulpice), tome 1, p. 202–217; archive.org OCR (ABBYY).",
+      "description": "Machine-cleaned OCR: running heads, page numbers and hyphenation removed, paragraphs rejoined, obvious character errors corrected by a vote against the corpus vocabulary; period spelling kept. Residual OCR errors remain (see PROBLEMS.md).",
+      "tier": "A",
+      "tierEvidence": "Fénelon died in 1715; the 1851 edition is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "lettres",
+      "title": {
+        "fr-FR": "Lettres sur l’autorité de l’Église"
+      }
+    }
+  ]
+}
