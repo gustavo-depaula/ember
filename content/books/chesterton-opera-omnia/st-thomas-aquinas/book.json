@@ -1,0 +1,93 @@
+{
+  "id": "chesterton-st-thomas-aquinas",
+  "cover": "classic",
+  "name": {
+    "en-US": "St. Thomas Aquinas",
+    "pt-BR": "São Tomás de Aquino"
+  },
+  "author": {
+    "en-US": "G. K. Chesterton",
+    "pt-BR": "G. K. Chesterton"
+  },
+  "description": {
+    "en-US": "Chesterton's short life of the Angelic Doctor, written for readers who had hardly heard of him. Eight chapters trace Thomas from the friars of the thirteenth century and the Aristotelian revolution to the Thomist philosophy of common sense, the 'permanent philosophy' of sane realism against the Manichean and the sceptic.",
+    "pt-BR": "A breve vida do Doutor Angélico escrita por Chesterton para leitores que mal o conheciam. Oito capítulos levam de Tomás e dos frades do século XIII e da revolução aristotélica até a filosofia tomista do senso comum, a filosofia perene do realismo são contra o maniqueu e o cético."
+  },
+  "composed": "1933",
+  "languages": [
+    "en-US"
+  ],
+  "work": "chesterton/st-thomas-aquinas",
+  "editions": {
+    "en-US": {
+      "publisher": "Hodder & Stoughton, London",
+      "year": 1933
+    }
+  },
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://gutenberg.net.au/ebooks01/0100331h.html",
+      "edition": "St. Thomas Aquinas (London: Hodder & Stoughton, 1933), as transcribed by Project Gutenberg Australia (Roy Glashan, 2012).",
+      "description": "Introductory note and eight chapters; site furniture and contents dropped. The text in sources/en-US-originals/ is the plain-text extraction of the page's paragraphs and headings (HTML tags removed, italics as underscores). Line wraps joined.",
+      "tier": "A",
+      "tierEvidence": "Public domain by author's death: he died in 1936, so the text has been public domain in Brazil, the UK, the EU, Canada and Australia for more than 70 years. In the US the 1933 book is still within its 95-year term (to 1 Jan 2029) unless unrenewed; no renewal was found in the Copyright Office records (see research/sourcing/chesterton.md). Imported under README decision 3."
+    }
+  ],
+  "toc": [
+    {
+      "id": "introductory-note",
+      "title": {
+        "en-US": "Introductory Note"
+      }
+    },
+    {
+      "id": "ch01-on-two-friars",
+      "title": {
+        "en-US": "I. On Two Friars"
+      }
+    },
+    {
+      "id": "ch02-the-runaway-abbot",
+      "title": {
+        "en-US": "II. The Runaway Abbot"
+      }
+    },
+    {
+      "id": "ch03-the-aristotelian-revolution",
+      "title": {
+        "en-US": "III. The Aristotelian Revolution"
+      }
+    },
+    {
+      "id": "ch04-a-meditation-on-the-manichees",
+      "title": {
+        "en-US": "IV. A Meditation on the Manichees"
+      }
+    },
+    {
+      "id": "ch05-the-real-life-of-st-thomas",
+      "title": {
+        "en-US": "V. The Real Life of St. Thomas"
+      }
+    },
+    {
+      "id": "ch06-the-approach-to-thomism",
+      "title": {
+        "en-US": "VI. The Approach to Thomism"
+      }
+    },
+    {
+      "id": "ch07-the-permanent-philosophy",
+      "title": {
+        "en-US": "VII. The Permanent Philosophy"
+      }
+    },
+    {
+      "id": "ch08-the-sequel-to-st-thomas",
+      "title": {
+        "en-US": "VIII. The Sequel to St. Thomas"
+      }
+    }
+  ]
+}
