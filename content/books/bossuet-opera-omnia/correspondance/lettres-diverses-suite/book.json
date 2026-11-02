@@ -1,0 +1,654 @@
+{
+  "id": "bossuet-lettres-diverses-suite",
+  "cover": "classic",
+  "name": {
+    "fr-FR": "Lettres diverses (suite)",
+    "en-US": "Miscellaneous Letters (continued)",
+    "pt-BR": "Cartas diversas (continuação)"
+  },
+  "author": {
+    "fr-FR": "Jacques-Bénigne Bossuet",
+    "en-US": "Jacques-Bénigne Bossuet",
+    "pt-BR": "Jacques-Bénigne Bossuet"
+  },
+  "description": {
+    "fr-FR": "Suite des lettres diverses de Bossuet, de 1695 à sa mort : la querelle de la comédie avec le P. Caffaro, les lettres sur les nouveaux convertis avec l’évêque de Mirepoix et M. de Basville, les lettres à Milord Perth, à Louvain, au pape Clément XI. Édition Lachat (1864), tome XXVII.",
+    "en-US": "The continuation of Bossuet’s miscellaneous letters, from 1695 to his death: the dispute over the theatre with Father Caffaro, the letters on the new converts with the Bishop of Mirepoix and M. de Basville, the letters to Lord Perth, to Louvain and to Pope Clement XI. Lachat edition (1864), volume XXVII.",
+    "pt-BR": "Continuação das cartas diversas de Bossuet, de 1695 até a sua morte: a querela do teatro com o pe. Caffaro, as cartas sobre os novos convertidos com o bispo de Mirepoix e o sr. de Basville, as cartas a Lord Perth, a Lovaina e ao papa Clemente XI. Edição Lachat (1864), tomo XXVII."
+  },
+  "composed": "1695–1704",
+  "languages": [
+    "fr-FR"
+  ],
+  "work": "bossuet/lettres-diverses-suite",
+  "editions": {
+    "fr-FR": {
+      "editor": "Abbé F. Lachat",
+      "year": 1864
+    }
+  },
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://web.archive.org/web/2010/http://www.abbaye-saint-benoit.ch/bossuet/volume027/001.htm, 003.htm to 012.htm",
+      "edition": "Œuvres complètes de Bossuet, éd. F. Lachat, Paris, Vivès, 1862-1866, in the typed transcription of the Abbaye Saint-Benoît de Port-Valais (Wayback Machine)",
+      "description": "Typed transcription of volume XXVII, pages 001 and 003-012 (Lettres diverses, suite). The transcription loses the œ ligature; it is restored by a dictionary pass (ambiguous forms such as sœur/sur, mœurs/murs, vœu/vu decided from the Lachat OCR). Page-bottom notes of the Lachat edition are kept as footnotes.",
+      "tier": "A",
+      "tierEvidence": "Bossuet died in 1704; Lachat 1862-66 is public domain."
+    }
+  ],
+  "toc": [
+    {
+      "id": "l001",
+      "title": {
+        "fr-FR": "Lettre première. Bossuet au P. Caffaro, Théatin. À Germigni, ce 9 mai 1694"
+      }
+    },
+    {
+      "id": "l002",
+      "title": {
+        "fr-FR": "Lettre II. Réponse du P. Caffaro à Bossuet. Paris, ce 11 mai 1695"
+      }
+    },
+    {
+      "id": "l003",
+      "title": {
+        "fr-FR": "Lettre III.. Bossuet à M. de la Broue, Évêque de Mirepoix. À Paris, ce 15 juin 1698"
+      }
+    },
+    {
+      "id": "l004",
+      "title": {
+        "fr-FR": "Lettre IV. M. l’évêque de Mirepoix à M. de Basville. Toulouse, ce 30 juin 1698"
+      }
+    },
+    {
+      "id": "l005",
+      "title": {
+        "fr-FR": "Lettre V. M. Morel, Vicaire-Général de Toulouse, à Bossuet. À Toulouse, ce 2 août 1698"
+      }
+    },
+    {
+      "id": "l006",
+      "title": {
+        "fr-FR": "Lettre VI. Bossuet à M. de Noailles, Archevêque de Paris. À Germigny, ce 12 juin 1699"
+      }
+    },
+    {
+      "id": "l007",
+      "title": {
+        "fr-FR": "Lettre VII. À Milord Perth. À Germigny, ce 29 juin 1699"
+      }
+    },
+    {
+      "id": "l008",
+      "title": {
+        "fr-FR": "Lettre VIII. Réponse AU Cas Proposé par SA Majesté, Sur l’opposition de M. l’ancien évêque de Fréjus, au sacre de l’abbé de Fleury, nommé à cet évêché"
+      }
+    },
+    {
+      "id": "l009",
+      "title": {
+        "fr-FR": "Lettre IX. Bossuet à Dom Martène, Religieux Bénédictin. À Versailles, le 26 janvier 1700"
+      }
+    },
+    {
+      "id": "l010",
+      "title": {
+        "fr-FR": "Lettre X. Bossuet à M. de la Broue, Évêque de Mirepoix. À Versailles, ce 21 février 1700"
+      }
+    },
+    {
+      "id": "l011",
+      "title": {
+        "fr-FR": "Lettre XI. Réponse de M. l’évêque de Mirepoix. À Mazerettes, ce 10 mars 1700"
+      }
+    },
+    {
+      "id": "l012",
+      "title": {
+        "fr-FR": "Lettre XII. Bossuet à M. de la Broue, Évêque de Mirepoix. Paris, ce 19 mars 1700"
+      }
+    },
+    {
+      "id": "l013",
+      "title": {
+        "fr-FR": "Lettre XIII. Réponse de M. l’évêque de M1repoix. À Mazerettes, le 1er avril I700"
+      }
+    },
+    {
+      "id": "l014",
+      "title": {
+        "fr-FR": "Lettre XIV. M. l’évêque de Mirepoix à Bossuet. À Toulouse, ce 21 mars 1700"
+      }
+    },
+    {
+      "id": "l015",
+      "title": {
+        "fr-FR": "Mémoire de M. l’évêque de Meaux, à M. le Comte de Pontchartrain, pour les Réunis de son Diocèse"
+      }
+    },
+    {
+      "id": "l016",
+      "title": {
+        "fr-FR": "Lettre XV. M de Pontchartrain à Bossuet. À Versailles, ce 29 mars 1700"
+      }
+    },
+    {
+      "id": "l017",
+      "title": {
+        "fr-FR": "Lettre XVI. Bossuet à M. de Noailles, Archevêque de Paris. À Meaux, ce 6 avril 1700"
+      }
+    },
+    {
+      "id": "l018",
+      "title": {
+        "fr-FR": "Lettre XVII. M. le Gendre, Intendant de Montauban, à Bossuet. À Montauban, ce 21 avril 1700"
+      }
+    },
+    {
+      "id": "l019",
+      "title": {
+        "fr-FR": "Lettre XVIII. M. de Rancé, Abbé de la Trappe, à Bossuet. Ce 20 juin 1700"
+      }
+    },
+    {
+      "id": "l020",
+      "title": {
+        "fr-FR": "Lettre XIX. Dom Mabill0n, Religieux Bénédictin, à Bossuet. Ce 5 juin 1700"
+      }
+    },
+    {
+      "id": "l021",
+      "title": {
+        "fr-FR": "Lettre XX. Bossuet à M. de Noailles, Archevêque de Paris. À Saint-Germain, ce 7 juin 1700"
+      }
+    },
+    {
+      "id": "l022",
+      "title": {
+        "fr-FR": "Lettre XXI. Bossuet à M. de la Broue, Évêque de Mirepoix. À Versailles, ce 11 juin 1700"
+      }
+    },
+    {
+      "id": "l023",
+      "title": {
+        "fr-FR": "Lettre XXII. Bossuet à M. le Cardinal de Noailles. Juin 1700"
+      }
+    },
+    {
+      "id": "l024",
+      "title": {
+        "fr-FR": "Lettre XXIII. M. de Lamoignon de Basville, Intendant du Languedoc, à Bossuet. Juin 1700"
+      }
+    },
+    {
+      "id": "l025",
+      "title": {
+        "fr-FR": "Lettre XXIV. Réponse de Bossuet à M. de Basville. À Saint-Germain, ce 11 juillet 1700"
+      }
+    },
+    {
+      "id": "l026",
+      "title": {
+        "fr-FR": "Lettre XXV. Bossuet à Dom Mabillon. À Saint-Germain, ce 11 juillet 1700"
+      }
+    },
+    {
+      "id": "l027",
+      "title": {
+        "fr-FR": "Lettre XXVI. Bossuet à Dom Mabillon. À Saint-Germain, ce 3 septembre 1700"
+      }
+    },
+    {
+      "id": "l028",
+      "title": {
+        "fr-FR": "Lettre XXVII. Dom Mabillon à Bossuet. 1700"
+      }
+    },
+    {
+      "id": "l029",
+      "title": {
+        "fr-FR": "Lettre XXVIII. Bossuet au R. P. Jacques de la Cour, Abbé de la Trappe. À Germigny, ce 3 novembre 1700"
+      }
+    },
+    {
+      "id": "l030",
+      "title": {
+        "fr-FR": "Lettre XXIX. M. de Torcy à Bossuet. À Fontainebleau, ce 1er novembre 1700"
+      }
+    },
+    {
+      "id": "l031",
+      "title": {
+        "fr-FR": "Lettre XXX. À M. de la Broue, Évêque de Mirepoix. À Germigny, ce 6 novembre 1700"
+      }
+    },
+    {
+      "id": "l032",
+      "title": {
+        "fr-FR": "Lettre XXXI. M. de Lamoignon de Basville à Bossuet. Doutes sur la conduite à tenir envers les nouveaux convertis"
+      }
+    },
+    {
+      "id": "l033",
+      "title": {
+        "fr-FR": "Lettre XXXII. M. le Président de Lamoignon à Bossuet. À Paris, le lundi matin"
+      }
+    },
+    {
+      "id": "l034",
+      "title": {
+        "fr-FR": "Lettre XXXIII. Réponse de Bossuet à M. de Lamoignon"
+      }
+    },
+    {
+      "id": "l035",
+      "title": {
+        "fr-FR": "Lettre XXXIV. M. de Lamoignon de Basville à Bossuet. Mémoire sur les nouveaux catholiques"
+      }
+    },
+    {
+      "id": "l036",
+      "title": {
+        "fr-FR": "Projet de Déclaration"
+      }
+    },
+    {
+      "id": "l037",
+      "title": {
+        "fr-FR": "Lettre XXXV. M. de Lamoignon de Basville à Bossuet. À Montpellier, ce 21 septembre 1700"
+      }
+    },
+    {
+      "id": "l038",
+      "title": {
+        "fr-FR": "Lettre XXXVI. Bossuet à M. de Basville. À Germigny, ce 21 novembre 1700"
+      }
+    },
+    {
+      "id": "l039",
+      "title": {
+        "fr-FR": "Lettre XXXVII. Réponse de M. de Lamoignon de Basville à Bossuet. Montpellier, ce 16 janvier 1700"
+      }
+    },
+    {
+      "id": "l040",
+      "title": {
+        "fr-FR": "Lettre XXXVIII. M. de Lamoignon de Basville à Bossuet. Réflexions sur la lettre de ce dernier"
+      }
+    },
+    {
+      "id": "l041",
+      "title": {
+        "fr-FR": "Lettre XXXIX. M. l’évêque de Mirepoix à M. de Basville"
+      }
+    },
+    {
+      "id": "l042",
+      "title": {
+        "fr-FR": "Réflexions DE M. L’Évêque DE Mirepoix Sur la lettre de Bossuet à M. de Basville"
+      }
+    },
+    {
+      "id": "l043",
+      "title": {
+        "fr-FR": "Lettre XL. M. l’évêque de Nimes à M. de Basville. Réflexions sur la lettre de Bossuet, au sujet des nouveaux convertis"
+      }
+    },
+    {
+      "id": "l044",
+      "title": {
+        "fr-FR": "Lettre XLI. M. l’évêque de Rieux à M. de Basville. Réflexions sur la lettre de Bossuet, au sujet des nouveaux convertis"
+      }
+    },
+    {
+      "id": "l045",
+      "title": {
+        "fr-FR": "Lettre XLII. M. l’évêque de Rieux à M. de Basville. Autres réflexions sur la lettre de Bossuet, au sujet des nouveaux convertis"
+      }
+    },
+    {
+      "id": "l046",
+      "title": {
+        "fr-FR": "M. l’évêque de Montauban. Mémoire sur les moyens de ramener les nouveaux convertis"
+      }
+    },
+    {
+      "id": "l047",
+      "title": {
+        "fr-FR": "Lettre XLIII. Bossuet à M. de Saint- André, Curé de Vareddes. À Meaux, ce 26 novembre 1700"
+      }
+    },
+    {
+      "id": "l048",
+      "title": {
+        "fr-FR": "Lettre XLIV. Bossuet à M. de Saint-André. À Versailles, 26 novembre 1700"
+      }
+    },
+    {
+      "id": "l049",
+      "title": {
+        "fr-FR": "Epistola XLV. Ad Clementem XI. De ejus exaltatione ad summum Pontificatum"
+      }
+    },
+    {
+      "id": "l050",
+      "title": {
+        "fr-FR": "Lettre XLV. À Clément XI. Sur son exaltation au Pontificat"
+      }
+    },
+    {
+      "id": "l051",
+      "title": {
+        "fr-FR": "Lettre XLVI. Clementis Papa XI. Responsa ad epistolam praecedentem"
+      }
+    },
+    {
+      "id": "l052",
+      "title": {
+        "fr-FR": "Lettre XLVII. Bossuet à M. de Saint-André, Cure de Vareddes. Paris, ce 21 janvier 1701"
+      }
+    },
+    {
+      "id": "l053",
+      "title": {
+        "fr-FR": "Lettre XLVIII. Bossuet à M. de Saint-André, Curé de Vareddes. À Paris, ce 28 janvier 1701"
+      }
+    },
+    {
+      "id": "l054",
+      "title": {
+        "fr-FR": "Lettre XLIX. Bossuet à M. de Saint-André, Curé de Vareddes. À Paris, ce 29 janvier 1701"
+      }
+    },
+    {
+      "id": "l055",
+      "title": {
+        "fr-FR": "Lettre L. À M. l’évêque de Bayeux. Paris, ce 9 février 1701"
+      }
+    },
+    {
+      "id": "l056",
+      "title": {
+        "fr-FR": "Jugement sur le livre intitulé: Durand commenté, ou l’accord de la philosophie avec la théologie, touchant la transsubstantiation de l’Eucharistie; à Cologne, chez Pierre"
+      }
+    },
+    {
+      "id": "l057",
+      "title": {
+        "fr-FR": "Lettre LI. L’évêque de Luçon à Bossuet. 20 février 1701"
+      }
+    },
+    {
+      "id": "l058",
+      "title": {
+        "fr-FR": "Lettre LII. Réponse de Bossuet à l’évêque de Luçon. À Paris, ce 27 février 1701"
+      }
+    },
+    {
+      "id": "l059",
+      "title": {
+        "fr-FR": "Lettre LIII. M. du Puy, Archidiacre et Théologal de Luçon. Du Puy, ce 16 mars 1701"
+      }
+    },
+    {
+      "id": "l060",
+      "title": {
+        "fr-FR": "Lettre LIV. Bossuet à M. du Puy, Archidiacre et Théologal de Luçon. À Paris, ce 19 avril 1701"
+      }
+    },
+    {
+      "id": "l061",
+      "title": {
+        "fr-FR": "Lettre LV. Bossuet à M. l’évêque de Luçon. À Paris, ce 19 avril 1701"
+      }
+    },
+    {
+      "id": "l062",
+      "title": {
+        "fr-FR": "Lettre LVI. Bossuet à M. Pastel, Docteur de Sorbonne. À Meaux, ce 24 mars 1701"
+      }
+    },
+    {
+      "id": "l063",
+      "title": {
+        "fr-FR": "Lettre LVII. Bossuet à M. Pastel, Docteur de Sorbonne. À Meaux, ce 30 mars 1701"
+      }
+    },
+    {
+      "id": "l064",
+      "title": {
+        "fr-FR": "Lettre LVIII. Bossuet à M. le Cardinal de Noailles. À Germigny, ce 23 mai 1701"
+      }
+    },
+    {
+      "id": "l065",
+      "title": {
+        "fr-FR": "Lettre LIX. Bossuet à M. le Cardinal de Noailles. À Meaux, ce 25 mai 1701"
+      }
+    },
+    {
+      "id": "l066",
+      "title": {
+        "fr-FR": "Lettre LX. Bossuet à M. Brisacier, Supérieur du Séminaire des Missions Étrangères. À Meaux, ce 30’ août 1701"
+      }
+    },
+    {
+      "id": "l067",
+      "title": {
+        "fr-FR": "Lettre LXI. Bossuet à M. Brisacier, Supérieur du Séminaire des Missions Étrangères. À Meaux, ce 8 septembre 1701"
+      }
+    },
+    {
+      "id": "l068",
+      "title": {
+        "fr-FR": "Lettre LXII. Bossuet à M. Brisacler, Supérieur du Séminaire des Missions Étrangères. De Meaux, ce 13 septembre 1701"
+      }
+    },
+    {
+      "id": "l069",
+      "title": {
+        "fr-FR": "Lettre LXIII. À Milord Perth. À Meaux, ce 20 septembre 1701"
+      }
+    },
+    {
+      "id": "l070",
+      "title": {
+        "fr-FR": "Lettre, LXIV. Bossuet à Milord Perth. À Versailles, ce 29 janvier 1702"
+      }
+    },
+    {
+      "id": "l071",
+      "title": {
+        "fr-FR": "Pistola LXV. Rector et Universitas Lovaniensis ad Bossuetum"
+      }
+    },
+    {
+      "id": "l072",
+      "title": {
+        "fr-FR": "Epistola LXVI. Bossuetus ad Reverendum Rectorem, et Clarissimos Viros Academiae Lovaniensis"
+      }
+    },
+    {
+      "id": "l073",
+      "title": {
+        "fr-FR": "Lettre LXVII. Bossuet à Milord Perth. À Meaux, ce 12 avril 1702"
+      }
+    },
+    {
+      "id": "l074",
+      "title": {
+        "fr-FR": "Lettre LXVIII. À Dom Mabillon. À Meaux, ce 26 avril 1702"
+      }
+    },
+    {
+      "id": "l075",
+      "title": {
+        "fr-FR": "Lettre LXIX. M. Pirot à Bossuet. En Sorbonne, 29 avril 1702"
+      }
+    },
+    {
+      "id": "l076",
+      "title": {
+        "fr-FR": "Lettre LXX. Bossuet à M. le Cardinal de Noailles, Archevêque de Paris. Ce 19 mai 1702"
+      }
+    },
+    {
+      "id": "l077",
+      "title": {
+        "fr-FR": "Lettre LXXI. Bossuet à M. de Malezieu, Chancelier de Dombes. Ce 19 mai 1102"
+      }
+    },
+    {
+      "id": "l078",
+      "title": {
+        "fr-FR": "Lettre LXXII. M. de Malezieu à Bossuet. À Versailles, ce 23 mai 1702"
+      }
+    },
+    {
+      "id": "l079",
+      "title": {
+        "fr-FR": "Lettre LXXIII. Bossuet à M. l’abbé Bertin. Ce 19 mai 1702"
+      }
+    },
+    {
+      "id": "l080",
+      "title": {
+        "fr-FR": "Lettre LXXIV. M. l’abbé Bertin à Bossuet. À Paris, ce 3 mai 1702"
+      }
+    },
+    {
+      "id": "l081",
+      "title": {
+        "fr-FR": "Lettre LXXV. Bossuet à M. l’abbé Bertin. À Meaux, ce 27 mai 1702"
+      }
+    },
+    {
+      "id": "l082",
+      "title": {
+        "fr-FR": "Lettre LXXVI. M. Pirot à Bossuet. En Sorbonne, ce 17 mai 1702"
+      }
+    },
+    {
+      "id": "l083",
+      "title": {
+        "fr-FR": "Lettre LXXVII. Bossuet à M. P Irot. À Meaux, ce 28 mai 1702"
+      }
+    },
+    {
+      "id": "l084",
+      "title": {
+        "fr-FR": "Lettre LXXVIII. M. Pirot à Bossuet. En Sorbonne, ce 4 juin 1702"
+      }
+    },
+    {
+      "id": "l085",
+      "title": {
+        "fr-FR": "Lettre Lxxlx. Bossuet à M. de Malezieu. À Meaux, ce 6 juin 1702"
+      }
+    },
+    {
+      "id": "l086",
+      "title": {
+        "fr-FR": "Lettre LXXX. M. Bertin à Bossuet. À Paris, ce S juin 1702"
+      }
+    },
+    {
+      "id": "l087",
+      "title": {
+        "fr-FR": "Lettre LXXXI. M. Bourret à M. Bertin. En Sorbonne, ce 30 juillet 1702"
+      }
+    },
+    {
+      "id": "l088",
+      "title": {
+        "fr-FR": "Lettre LXXXII. Bossuet à M. de la Broue, Évêque de Mirepoix. À Versailles, ce 18 juin 1702"
+      }
+    },
+    {
+      "id": "l089",
+      "title": {
+        "fr-FR": "Epistola LXXXIII. Bossuetus ad Clementem XI. De Virtutibus Venerabilis Vincentii à Paulo"
+      }
+    },
+    {
+      "id": "l090",
+      "title": {
+        "fr-FR": "Lettre LXXXIV. Bossuet à M. le Cardinal de Noailles. À Meaux, ce 6 septembre 1702"
+      }
+    },
+    {
+      "id": "l091",
+      "title": {
+        "fr-FR": "Lettre LXXXV. Bossuet à M. le Cardinal de Noailles. À Germigny, ce 4 octobre 1702"
+      }
+    },
+    {
+      "id": "l092",
+      "title": {
+        "fr-FR": "Lettre LXXXVI. Le Père de la Chaise à Un Évêque. À Paris, septembre 1702"
+      }
+    },
+    {
+      "id": "l093",
+      "title": {
+        "fr-FR": "Lettre LXXXVII. Bossuet à Milord Perth. À Versailles, ce 6 janvier 1703"
+      }
+    },
+    {
+      "id": "l094",
+      "title": {
+        "fr-FR": "Lettre LXXXVIII. Bossuet à Milord Perth. À Versailles, ce 28 mars"
+      }
+    },
+    {
+      "id": "l095",
+      "title": {
+        "fr-FR": "Lettre LXXXIX. Bossuet à M. de la Broue, Évêque de Mirepoix. À Paris, ce 29 mars 1703"
+      }
+    },
+    {
+      "id": "l096",
+      "title": {
+        "fr-FR": "Lettre XC. Bossuet à M. le Cardinal de Noailles. À Versailles, ce 1er mai 1703"
+      }
+    },
+    {
+      "id": "l097",
+      "title": {
+        "fr-FR": "Placet au Roi. Bossuet le supplie de lui accorder sou neveu pour coadjuteur"
+      }
+    },
+    {
+      "id": "l098",
+      "title": {
+        "fr-FR": "Lettre XCI. Bossuet à Dom Mablllon, Religieux Bénédictin. À Paris, ce 22 mars 1703"
+      }
+    },
+    {
+      "id": "l099",
+      "title": {
+        "fr-FR": "Lettre XCII. Bossuet à M. le Comte de Pontchartrain, Ministre et Secrétaire d’État. Ce 6 juin 1703"
+      }
+    },
+    {
+      "id": "l100",
+      "title": {
+        "fr-FR": "Lettre XCIII. Bossuet à Milord Perth. À Versailles, ce 16 août 1703"
+      }
+    },
+    {
+      "id": "l101",
+      "title": {
+        "fr-FR": "Lettre XCIV. Bossuet à Dom Mabillon, Bénédictin. À Versailles, 22 août 1703"
+      }
+    },
+    {
+      "id": "l102",
+      "title": {
+        "fr-FR": "Lettre XCV. À l’abbé Bossuet, son Neveu et son Grand-Vicaire. À Versailles, ce 4 septembre 1703"
+      }
+    }
+  ]
+}
